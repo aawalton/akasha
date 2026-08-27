@@ -1,0 +1,165 @@
+---
+id: 5f363a94-7f7c-53ff-9de6-da3a71784b61
+page-type-slug: story-chapter-royal-road
+title: "Chapter 34 - Cow by the Blades of Grass"
+slug: 0034-chapter-34-cow-by-the-blades-of-grass
+partOf: sherly-the-most-virtuous-holy-cow
+position: 34
+ownLength: 1841
+unit: words
+publishedAt: 2026-02-06
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/3018887/chapter-34-cow-by-the-blades-of-grass"
+royalRoadId: "3018887"
+---
+
+Chapter 34 - Cow by the Blades of Grass
+
+As Sherly walked out of the caravan's smithy she was greeted by long blades of grass and a winding dirt road. People had stopped, presumably to enjoy the vista before them.
+
+Far in the horizon was a palace, surrounded by a smaller forest and nestled underneath the high cliffs of a mountain. And beyond that, barely visible due to their sheer distance, were the even greater cliffs that signified the end of The Gap.
+
+“Are we headed there?” Sherly asked Ishuin, joining her, Revashir, and the other leaders in front of the Cancer’s Claw.
+
+“That’ll be our first stop, yeah,” replied the female elf.
+
+“Nolomori,” Revashir explained, pointing at the palace. Then he gestured towards the grass. “Make sure everyone stays on the road. The grass here cuts sharper than most kitchen knives.”
+
+The cow-chilim, ever the curious, did the exact opposite. The grass reached as tall as her elbow, swaying innocently from whatever weak gust of wind was pushing them. She noticed that none of the blades bent, even as she ran a finger down the edge of one of them. Her curiosity was rewarded by a cut.
+
+Not deep, thanks to her Physical Resistance. But it did make her bleed, and activate her Continuous Regeneration.
+
+“Woah…” she said, ignoring the stinging from her finger. “Why are you guys letting something so dangerous out in the open?”
+
+“It’s why we have the road,” Revashir pointed out. “Otherwise, the monsters in the forest behind us would roam farther than they should. At least this way, we can meet them on the road, should one be stubborn enough. Or if not, the grass will slow them down enough that we can safely finish them off.”
+
+Sherly nodded, looking back at the giant trees. She could see some of the branches sway, and the dark silhouettes moving away from them.
+
+“Let’s cover some of the road before we rest for the night,” Kasta suggested. “I’d rather not stay near where those monsters lurk.”
+
+Ishuin agreed.
+
+The march resumed, and Sherly found herself being pulled over by the caravan leader and her two best crewmates. Duis, while he was also considered a strong member of the caravan, at least when compared to the non-Wielders, was in more of a support role than primarily combat. Thus, he was stuck in the middle of the convoy, assisting new recruits and organizing supplies. Truth be told, his ability to come up with seamless logistics was the exact opposite of his combat ability. He also looked genuinely at home with his tasks.
+
+Which only made Sherly doubly confused as to why the bird-zilim was aiming to be a decorated soldier, or even a leader of another Cancer’s Claw.
+
+“Did you get another level?” Ishuin asked, pulling Sherly out of her pondering. “After the second treantcap, I mean.”
+
+“I didn’t,” the cow-chilim replied. “I do have some skill points to spend though.”
+
+“Actually, is it alright if you consider your skill points later? We want to talk about your disposition to fighting monsters on your own.”
+
+Sherly knew it was bound to happen one way or another. She hadn’t exactly observed anyone else fighting monsters in a solo capacity.
+
+“I wanted to get strong as fast as possible,” she admitted. “I know I might be overstepping a bit, but I just assumed you three—you four, including Duis—are all pretty high level now, right? You’re not getting much from fighting low level monsters, so it feels like I’m lacking if I depend on all of you to help me kill monsters all the time. I’ve already been given a lot of your generosity, and I don’t want to take advantage of it too much.”
+
+Sherly wanted to mention her other motive, of practicing fighting with her own strength while being monitored by her stronger friends. But the looks of confusion in everyone’s faces stopped her words.
+
+“Did I say something wrong?”
+
+“What level are you again?” Kasta asked.
+
+“Fifteen.”
+
+“Right.” The second-in-command gestured towards Maymay, the third-in-command.
+
+“I’m Level 33.” Next, the dog-zilim gestured towards their leader.
+
+“I’m Level 35,” Ishuin said, presenting a hand back to Kasta.
+
+“Level 36.”
+
+“Wait…” Sherly blinked. “I thought you were higher leveled than that…”
+
+“What did you think we were?” The elf asked, raising an eyebrow.
+
+The cow-chilim shrugged. “I don’t know. Eighty or something?”
+
+Kasta was the first to react by spitting out water from the canister she was drinking. Maymay was next. Her face twisted into something Sherly would always do when someone asked something unreasonable of her. Ishuin scratched her head.
+
+“We gave you that impression, huh?” she asked.
+
+“You’re all still quite higher leveled when compared to me, though,” Sherly said in defense. “I just thought since you’re older, you should have more levels.”
+
+The elf sighed. Not Ishuin, but Revashir, who showed up beside them.
+
+“Up until three years ago, Lady Ishuin used to serve Lady Kansa only as her priestess,” he explained. “Then, she was forced to become a Wielder and a leader of this Cancer’s Claw after… Well, after we lost one.”
+
+“Forced to become a Wielder?” Sherly asked, confused. “Lost one?”
+
+“Braum,” Ishuin explained. “After he severed his alignment with Lady Kansa, his Cancer’s Claw disbanded. Technically, his entire caravan switched Zodiacs with him. You can imagine how much this pained her. Not only that, but we have less people patrolling our borders. So I volunteered.
+
+“As for becoming a Wielder, Lady Kansa wouldn’t send me on this task unprepared. So she blessed me with becoming one. I still serve as her priestess during downtimes, whenever we return to Crustia.”
+
+“If it took you three years to get to Level 35,” Sherly started, “does that mean I’m going to take as long?”
+
+“We fight as an entire caravan, Sherly,” Maymay said. “The experience we gain is divvied up to everyone, including the non-Wielders.”
+
+“Not to mention, we don’t really go around fighting monsters in the wilds, or dungeon diving,” Kasta added. “Too busy going to the next destination and making sure it’s still there.”
+
+“That’s actually why I asked you to stay for a discussion, Sherly,” Ishuin began. “Would you like to do some dungeon diving?”
+
+“Yes!” Kasta and Maymay shouted at once. “Please!”
+
+“I’m asking Sherly!” The female elf cleared her throat. “Dungeon diving as a group, I mean. You, me, Kasta, Maymay, and Duis. All the Wielders of my Cancer’s Claw.”
+
+The cow-chilim was inclined to agree, but she stopped herself. “Wouldn’t we be abandoning that caravan if we did that?”
+
+This time, it was the male elf who cleared his throat. “Lady Ishuin must be pertaining to the dungeon underneath Nolomori. The Cancer’s Claw will be safe at the palace, so you can delve into the dungeon below.”
+
+That made deciding a lot easier.
+
+“As long as you’re sure that we have time,” Sherly said to Ishuin.
+
+“We’ll make time. It’ll be a great way to train. We can have you catch up with us, while we gain a few more levels ourselves.”
+
+“Then I’m all for it!”
+
+Evening had fully settled upon them, and everyone in the Cancer’s Claw was tired. Dinner was passed around, stories were shared, songs were sung, and then, eventually, the stillness of the night enveloped everyone in the caravan.
+
+Everyone except Ishuin. She had delivered her prayers to Lady Kansa, informing her of their plan to challenge the Nolomori Dungeon.
+
+“I’ll permit it, provided that you make sure you’re all prepared.” As always, the Zodiac’s voice was a thought in the elf’s head. “Do not be as reckless as Sherly. None of you can heal as fast as she can. Have proper supplies, and listen to your instincts.”
+
+“We will.”
+
+“Then you have my blessing. I shall inform the other Claws. We will make adjustments.”
+
+“Thank you. I’m sorry for the trouble.”
+
+“They’ll understand. It’s the responsibility of the old to nourish the new. Even if it means simply adjusting our schedules.”
+
+With that, Lady Kansa closed their connection. Ishuin noticed that she left out a proper farewell, meaning that the Zodiac was actually still busy and had no plans of sleeping.
+
+Not feeling sleepy herself, the leader of the Cancer’s Claw walked out of her caravan to roam. She made sure Sherly was sound asleep before stepping out.
+
+Outside, she saw a few people still cleaning up the place, and a few others gathered together to spend a few more hours. One in particular was Duis. The bird-zilim was spending time with the people from the destroyed village, helping them acclimate to their new normal.
+
+One of them caught her and raised a mug of ale. Of course, the others noticed, especially Duis, who smiled and beckoned her over.
+
+“You guys… We’re starting early tomorrow, you know?”
+
+“Just employing something to encourage sleep, ma’am,” said one of the new recruits. A male half-dwarf by the looks of it.
+
+“Make sure you don’t overdose, or we’ll leave you on the road,” she said jokingly. While the person who responded did take the joke pretty well, a few felt suddenly discouraged to drink. She tried to encourage them. “Have at least one mug. I’m not that strict.”
+
+“Master Duis here said that you all will be dungeon diving once we get to Nolomori,” said another of the new recruits. A female half-elf cat-zilim this time. “He said we’ll be in the palace for a while.”
+
+“That’s right,” she confirmed and held up a finger. “You might be guests, but as part of the caravan, I expect you all to help out with whatever Nolomori needs. Your seniors will direct you, so be sure to listen.”
+
+“Aye!” everyone said in unison, lifting their ale.
+
+“I never got to ask, but did Sherly suggest the dungeon?” It was Duis this time. “You’ve never asked us to go into one before.”
+
+“It was mine,” Ishuin admitted. “I’ve been leaning on doing one for a while now. And with Sherly tagging along, it feels like the best time to commit to it. Lady Kansa’s given us her blessing. Can I trust you with supplies?”
+
+“Preparing for four people won’t take me too long,” Duis said confidently. “I just hope I can contribute better this time.”
+
+Ishuin smiled and placed a firm hand on the bird-zilim’s shoulder. She was glad that he was coming around to working with Sherly now. At the very least, he was doing his best to make up for all the bad things he’d done to the cow-chilim.
+
+“I’m sure you’ll be just fine, Duis.”
+
+After that, she bid them to have a good night, and continued with her walk. This time, she saw Kasta and Maymay not too far away from the caravan. They were still on the road, given that there were no safe spots on the blades of grass.
+
+The two were sparring.
+
+“Did the dungeon talk get you all fired up?” she asked the two. And when they nodded, she smiled. “Mind if I join?”

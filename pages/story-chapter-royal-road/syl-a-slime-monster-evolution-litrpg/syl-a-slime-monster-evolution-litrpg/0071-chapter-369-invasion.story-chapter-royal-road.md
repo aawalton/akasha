@@ -1,0 +1,137 @@
+---
+id: 336e2ac3-eaa8-5b23-adfa-3b1322920784
+page-type-slug: story-chapter-royal-road
+title: "Chapter 369 : Invasion"
+slug: 0071-chapter-369-invasion
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 71
+ownLength: 2174
+unit: words
+publishedAt: 2026-04-06
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3237621/chapter-369-invasion"
+royalRoadId: "3237621"
+---
+
+The trip to the bottom of the sea was quite awkward to say the least, mainly because the rest of us felt like third wheels to Vanessa and Sylvain, who were happily chatting together. Suddenly, I was delighted that [Split Personality] let me stay entirely disconnected from their happenings, as I did not want to know the details.
+
+Vee, on the other hand, was quite delighted and occasionally chimed in. She must have had a fascination with mermen, as she kept complimenting Vanessa's tail when she shifted back to her original form shortly after entering the water. I'd already shared the trait [Bipedal Shift] with Vee, which I hoped would work with her next evolution, so I didn't think that was why she was complimenting her.
+
+Speaking of traits, since we were in the sea, I decided to borrow [Ocean's Flow], [Ocean's Might], and [Fathomless], giving me and all my personas a significant boost while we were down below. I figured that they would still apply to all of us, even when in the dungeon, unless it was somehow not an ocean-themed dungeon.
+
+Imagine entering a dungeon deep down in the ocean, and you arrive in a desert. Now that would be crazy.
+
+I shored up my remaining borrowed trait points with my usual elven bonuses, as they were too good to pass up, while leaving myself some wiggle room for some monster traits to borrow if I wanted to go full slimy abomination in the dungeon.
+
+One thing I learned on this trip was that, for some reason, Vanessa was very accepting of the situation. I had chalked it up to her just being happy to be with Sylvain, but she seemed to deem it perfectly normal to be subservient to an insanely powerful monster, which she classified me as. I couldn't help but wonder if I could now take other monsters under my wing, and exert enough dominance to keep their madness in check, even though I wasn't their racial leader.
+
+It can't be [Branch Head] doing something, right?
+
+I was pretty positive that that Emblem was far and beyond [Chieftain] and was likely on par with a [King], or maybe a [Duke] classification at the very least. The other option was that my [Dungeon Master] Emblem would also be enough, although perhaps that was wishful thinking on my part.
+
+Eventually, we reached the depths, and after retrieving my deepstone slime, we began following Leon. Despite his strange size, he was actually a pretty good swimmer, possibly due to something he'd done to his shell. As we continued following him, Vanessa eventually chimed in that she had a good idea where we were heading.
+
+"I believe this is where the forbidden trial ground is."
+
+"Forbidden?" I asked.
+
+"Well, the king and queen wouldn't allow us to come here without explicit permission. I was never granted that right," she explained.
+
+"Probably some agreement they had with the [Dungeon Master], if I had to hazard a guess," I shrugged.
+
+"Does that mean I can leave?" Leon cautiously asked.
+
+"No, because I want you to show me to the other entrance," I replied.
+
+"There should only be one entrance…" Vanessa murmured.
+
+I pointed at Leon. "He dug out a new one when he was running away. So your team will take the official entrance, and I'll sneak in through the back door."
+
+"Sounds like a good idea," Vee replied.
+
+Everyone seemed to agree with my plan, except Leon, who still wanted to flee back to the island. Yet he stuck around and stopped complaining after Vee sent a few intimidating glances his way. Thankfully, it didn't take us too much longer to reach our destination, and we even managed to hunt a few monsters along the way.
+
+The entrance to the dungeon was marked by marble columns covered in coral, yet somehow still unweathered. It looked like the sunken ruins of a temple, yet somehow immune to the passage of time, except for the growth of plants.
+
+The first thing we did was save the coordinates for the entrance. There was a good chance we wouldn't be able to teleport out, but who knew what was possible with our new classes? I felt very confident that Vee's team wouldn't run into any issues, given it was a full party of six with arguably no one incapable of pulling their own weight.
+
+"Okay, so I guess we will see you at the end of the dungeon?" Vee asked.
+
+"Yup, race you there," I teased.
+
+"That's not fair, and you know it," Vee whined.
+
+I waved them off, and the six of them entered. Suddenly, it was just Leon and me.
+
+"Right, do you think you can find your exit?" I asked.
+
+"It shouldn't be too hard," he replied and began swimming over the ruins.
+
+I followed after him, and eventually we came to an area overgrown with coral. Leon proceeded to do a bit of digging while occasionally harvesting coral and storing it in his shell. I was about to ask him if he was lost when he revealed what must have been the hole he dug previously.
+
+"Here's where I exited. It looks like he tried to hide it among the plants," Leon explained.
+
+"He couldn't just repair it?" I asked.
+
+"With what?"
+
+"Dungeons can control the terrain around them, from what I know. It shouldn't have been too hard for the [Dungeon Master] to repair it."
+
+"I see… I'm not sure, perhaps it's because I took the bricks?" Leon suggested.
+
+I still wasn't sure, but maybe Leon was right. The owner had been enraged by Leon's vandalism, so perhaps it wasn't as cheap to repair as I'd thought. Either way, with my plethora of abilities, even if it was sealed up, I didn't think I'd have any issue reaching my destination.
+
+"Right, thanks Leon, you're free to go do whatever you want, unless you want to join me?" I offered.
+
+"No thank you," he quickly refused. "This is most certainly not my cup of tea. Have fun down there doing who knows what. I'm going back to the island to continue my research."
+
+I shrugged and waved farewell before jumping down into the hole. It was quite a tight fit, which either meant that Leon was a lot smaller back then or that the dungeon had been slowly sealing this breach. Either way, I was a slime, and as long as my cores could fit through the gap, nothing would stop me.
+
+I slinked through the opening and, after traveling deeper, eventually popped out into a chamber lined with marble walls. Almost instinctively, I could sense that I was in a dungeon; the ambiance had drastically changed, and a lingering, hostile intent had suddenly made itself known.
+
+Maybe I should have asked what type of dungeon this was… Like its theme. Oh well, I'm sure I'll find out eventually.
+
+I flexed out a bit, enlarging my form slightly and taking a somewhat humanoid shape. There was no need for me to hide my identity, and I was free to go as wild as I wanted.
+
+The rest of the chamber was empty except for more coral; however, two archways led out on opposite sides of the room. Roughly calculating the direction, I took the exit that was away from the original entrance, hoping to head deeper in and away from Vee's team.
+
+As soon as I entered the next room, I was immediately attacked by a hidden monster. If not for all my senses, I might have been caught by surprise as the creature was almost entirely transparent as it sent out practically invisible tentacles to assail me.
+
+I snickered to myself and, with a wave of my arm, cut open a large aperture between us. Before the tentacles could react, they had already entered through the dimensional tear, and then I simply closed it, cleanly cutting them off.
+
+The hidden monster writhed with anger, and that was when I finally saw what it was, turning reddish. It was a jellyfish!
+
+"Hey, you're practically my ocean cousin," I said jokingly.
+
+The jellyfish monster was unamused, and now that it had revealed itself, it sent dozens more tentacles swarming at me. Whatever damage I had done by cutting them off in the rift, it must have been minimal, as it looked like it had plenty to spare.
+
+"Well, if it's a tentacle battle you want…"
+
+I ballooned in size for a moment before exploding into dozens of tendrils of my own, each seeking out an opposing tentacle to fight. It was pseudopods versus tentacles, and that was when the jellyfish revealed its trump card! Red energy crackled in its bell like lightning and then surged out through its tendrils, however it had picked the wrong opponent to try this on!
+
+I ensured that I had [Voltaic Slime] activated so that I could try to absorb this energy, and when it reached my own tendrils, it was immediately drawn into my center of mass, where it began to accumulate. From what I could tell, it wasn't lightning, more like bioelectricity, but my trait seemed to have no issue storing it all the same.
+
+The monster continued trying to shock me, sending sparking red currents through me, but to no avail. That was when I started elongating my tendrils and sending them to cover its tentacles and seek out its body. This monster must have been dumber than the average dungeon monster, as it didn't abandon its plan of attack at all, and eventually, I had its body trapped by my invading tentacles.
+
+After that, it was a simple matter of giving the devour command as my slime practically ate the monster whole. Swiftly killing it, revealing its name, and giving me a new profile to play with!
+
+"Red-Devil Ghost Jellyfish, huh?" I said, looking at its strange name.
+
+Trait-wise, it was nothing to write home about, as we shared many similarities in that regard. It could generate tentacles, but so could I, and slime ones were always bound to be better. [Electrogenesis] was the trait that allowed it to develop its red lightning and could be effectively described as a rebranding of the [Inferno Sac]. You spent Mana to generate bioelectricity, which you could then discharge through the appropriate organs.
+
+"If this didn't cost Mana, this would be nice to use to charge up my [Voltaic Slime], but compared to [Lightning Magic], I think it's a poor substitute."
+
+Retracting my tendrils, I began moving deeper into the dungeon. That had been an enjoyable little warmup, but now I wanted to start seeing what I could accomplish by adding some Riftmancer into the mix. I cast a few spells and quickly confirmed that most of my [Dimension Magic] was inhibited by the dungeon, with coordinates outside of the room I was in being restricted.
+
+Yet, strangely enough, that did not apply to [Personal Rift]. If I overlapped the area between two rooms, I could, in fact, interact with them. There was a slight catch, though, and it appeared that outside of the room I was presently in, the distance would be reduced by half.
+
+Still, this is a huge step up from not being able to do anything outside of the room. Yes, it takes twice as much effort to travel half the distance. Still, if I keep expanding the size of my rift, eventually I might be able to feasibly teleport throughout a dungeon by tearing open multiple apertures.
+
+With that in mind, I somewhat put away the magic and instead began focusing more on [Personal Rift]. I felt like it had to have more applications for me to exploit, especially now that I had access to three apertures.
+
+Originally, I just shot spells through them to have practically any angle I wanted, but as I said before, I could already do that via casting outside of my aura. I don't know if I was distracted that day or not, but why did I overlook using the rift to send slime from any angle?
+
+I watched Vee use her web portals to attack to great effect, can't I do the same thing with my apertures? I was so focused on using the tears directly, but wouldn't I just be better off tearing open two holes and then sending tendrils through? Or spell orbs? Or anything?
+
+I chalked it up to perhaps a lack of sleep, as I had been going a little crazy on the rapid teleportation across the continent to repeatedly level up [Mapping] and [Triangulate]. I still needed to return to that, as I now felt I had enough pieces of the puzzle to begin assembling something workable.
+
+I really get distracted too easily… But, if I try to be optimistic about it, maybe this dungeon conquest will get me enough levels to get a new skill or two, which might make my future spell-skill construction go smoother! Yes, let's try to be positive! I'm taking a slight detour to reach my destination sooner!

@@ -1,0 +1,93 @@
+---
+id: 91c54bc5-a096-5ece-8433-78e2da5d4027
+page-type-slug: story-chapter-royal-road
+title: "Chapter 34"
+slug: 0034-chapter-34
+partOf: savage-divinity
+position: 34
+ownLength: 3010
+unit: words
+publishedAt: 2016-04-01
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/62171/chapter-34"
+royalRoadId: "62171"
+---
+
+“Go skin and clean it.” Sumila orders me.
+
+That's not how we do things. “You killed it, so you dress it.”
+
+She scowls at me. “I did the work, you deal with the mess. Besides, I don't trust you to stand watch while I'm working. You're too lax and easily distracted, always lost in your thoughts. Go.” She points. I grumble while squatting down to work. Why did she even come anyways?
+
+After last night's match, I spent the rest of my night in my bloodied and ripped shirt, greeting and receiving congratulations from people I didn't know. Mei Lin was very helpful, bringing their names up organically so I didn't look foolish or impolite. It was an odd feeling, standing there, making small talk with strangers, when I had just almost died, once again. I feel like I'm getting too used to almost dying. I treated the fight too much like a game, enjoying myself while I was out there. Plus, my shirt was so ripped my nipple was showing. It wasn't exactly comfortable. Nudity is one thing, half-naked is another. I don't know why.
+
+After seeing Akanai's charge, I had so many not quite Insights, but half-formed ideas, jumbling through my mind. I spent so long thinking it over, trying to make sense of it all, putting the pieces together. Going out there to fight and proving my theory correct felt amazing, like I was a completely different person. I was just so relaxed and at ease in my body. Every movement I made came instinctively, easily and naturally.
+
+I deduced that Akanai was using the Mantis Form, Balance on the Windy Leaf, combined with the Deer Form, Pierce the Horizon. There could be more to the attack, but that was all I could puzzle out. The difference in power and speed between her attack and my attack is substantial, so I'm still missing something, but I'm not sure what.
+
+At first glance, Balance on the Windy Leaf just seemed like a simple balance exercise, keeping your feet still, and leaning in every direction, with a small bend at the knees. It was kind of stupid, and I ignored it to study more 'useful' forms. The way Akanai used it was inspired. Lean enough in one direction, and you start to fall, obviously. With enough strength in your toes, ankles, calves, and legs, you capitalize on the momentum of the fall, and spring forward. Done correctly, to onlookers, it looks like a fast charge, a quick closing of the distance. To your opponent, it seems like you disappear for a moment, and reappear in front of them, as if you truly teleported. It has to do with dynamic vision, I think, how we can see horizontal movement really well, but quick vertical movement less clearly. Or maybe I'm wrong, but there's something about it, not all physical either. I had the perfect angle to watch Akanai, or I might have never figured it out. Plus now I know why she has such gorgeous legs. She doesn't skip leg day. And she shaves. Not everyone does that last bit. I should give the attack a name, like Mantis Pierce. No that's terrible. Balance Horizon. That just doesn't make sense. Fuck, naming is hard.
+
+If I had done it perfectly, Tian Yi would not have been able to block it the second time around. Of course, even if I connected, I don't have the strength to pierce through his armor. I wonder what it's made from? I could use an armor like that, metal and solid. Leather is nice, but I'd feel more comfortable with something sturdy. Like a gundam. The rest of the fight was just me letting loose, acting without thinking, testing things out, playing around. Tian Yi was strong, but not very skilled in my opinion, power without direction. Fighting him was like swimming in the rapids. You need to be strong enough to do it, but it doesn't take too much skill, just stamina. You know, until he actually hit me. Then I got wrecked. The difference in our levels was too big, but I think I did pretty well.
+
+I do feel terrible for him though. The man just lost his son, and then the cause of it shows up in front of him to fight. Of course he lost his temper. Taduk warned me not to speak up for him though. Tian Yi is a proud man, and speaking on his behalf would just make him hate me more. I should just avoid him, from now on. Or cut his throat while he sleeps.
+
+The rest of the night was just food and drinks, along with meeting and greeting people. Fung showed up after an hour or so, and the fun really started. Turns out, his father had him hidden away, ready to flee the city if he had lost. The new Magistrate would not likely spare the family of the former Magistrate. Literal cutthroat politics. This fucking city. Killing at the drop of a hat. Then again, the People do the same, just not to each other. When in Rome...
+
+We spent some time at the celebration, and then, after quietly speaking to Taduk, I slipped away with Fung to the Golden Swan for an after party. My treat this time, although it was money gifted to me by his Dad, for representing him. It was money hard-earned, and also money well spent. I have a bit more than 6 gold left, as well as the coin I got selling furs and carvings. I'll just give it all to Alsantset when I get home. Best not to mention how much of my reward I spent, or how I spent it. I can't imagine her being too happy about that.
+
+Sometime during our drunken revelry, I had agreed to go hunting with Fung. It was no big deal, I figured we could bag some rabbits, then drink and joke around. When I announced my plans this morning, Sumila and Mei Lin got permission to tag along as well. Not my permission, but I wasn't asked. I thought it would be fine though, a nice relaxing jaunt through the plains.
+
+Regrettably, Fung had some different prey in mind. He brought us to an uninhabited island, taking a boat despite my objections, in order to hunt carnugators. They turned out worse that I had imagined. Giant, hulking, five-ton monstrosities, made of scales, claws, and teeth. A crocodile as large as a bear, with long muscular legs and a neck that actually turns. Able to stand on its hind legs and claw at you with its arms, my first sight of them made me want to get back in the boat.
+
+Fung managed to convince me to stay though, which had nothing to do with Mei Lin's giggling. He made a very good argument. It seems carnugators are good eating, as I've been chowing down on their roasted meat for the last few days. He brought no less than 20 guards as well, which made me feel a bit safer, but not by much. They're dressed in red, for crying out loud. It does not inspire confidence.
+
+We wandered the beach as a group, slowly, looking for our prey. It took us an hour to lure out a single gator, all teeth and rumbling snarls. Neither me nor Fung were able to kill it, the guards distracting it while we shoot arrow after arrow, which just bounced off its scales. I refused to get close enough to stab it with my sword or spear because that just seemed like a terrible idea. In the end, Sumila ran out of patience and took it down with a throw of her spear, piercing it through the neck.
+
+So here I am, arm deep in gator guts, carving away. We have Fung's guards to help carry stuff back, but I think one gator is enough. Fung crouches down nearby. “I may have underestimated how difficult this would be. I think I also understand why you are so humble. That little girl is terrifying. To kill with a single throw like that.” He speaks in a whisper, afraid Sumila will overhear.
+
+Finally. Someone who understands. “Her father is 900 times more terrifying, and her mother ten thousand. I'm surprised Sumila even seems so normal most of the time. I didn't even know how strong she is until just now.” I shake my head. “Why couldn't we have just gone out of the city, and hunted some rabbits or something? This is nerve-wracking. I keep scanning the treeline for gators.”
+
+Fung laughs. “Don't be so timid. A man should be brave and laugh at danger. Besides, we couldn't be safer, we have so many guards. And Sumila.” Looking sheepish, he adds, “In any case, I am not allowed to leave the city. There are too many enemies who would seize the opportunity to abduct me, to use me against Father.” Poor guy, trapped inside the city. I thought he had it pretty good, but he has his own problems. Guess it's not all fun and games being the heir apparent to the magistrate.
+
+I continue carving away chunks of lizard meat. I wonder if I can get a pair of boots made from this thing. It's carcass is massive, 4 times longer than I am tall, so I could probably make an entire full body suit with skin to spare. I'm almost covered in gator blood, red from boots to chest. Every now and then, I come across some part of the gator that is somehow still pressurized, and blood spurts out. So glad I'm not wearing white. After some more chatting, Fung clears his throat. “So, I've been meaning to ask you, what's your relationship like with Mei Lin.” He's trying to seem casual and nonchalant about asking, but I can tell he's nervous.
+
+I laugh. It seems that Fung has a little crush on her. “Don't worry, she is like a little sister to me. No need to ask, I will definitely put in a good word for you, my friend. She is a little young though, only 15 this year.”
+
+He smiles at me, nodding gratefully. “You are wrong, Rain, she is a woman grown. Her lovely round face, beautiful brown eyes, and adorable demeanor fill my dreams when I sleep.” He glances at her secretly, admiring her in her hunting leathers and braided hair. Even on a hunting trip, she brings her long, embroidered scarf. The things people do for fashion. “I've known her for years, but she rarely speaks to me, always politely and reserved.” Well, he's 18. The age difference isn't that much. Besides, it isn't like they'll be married tomorrow. I'll say something. He's a good guy, treats his guards well when he's sober, looks servants in the eyes, asks for things politely. It doesn't seem like much, but some of the nobles here have horrendous manners.
+
+“Little Mei Lin, why don't you have a chat with Young Master Fung. Don't be rude, he invited us out here.” I wink at Fung.
+
+“Hello, Young Master Da Fung. Thank you ever so much for inviting us.” Mei Lin speaks sweetly and gives a little curtsy, despite the lack of a dress. Maybe she likes him too, I've never heard her speak like that before. “As for conversation topics.... Oh I know. Why don't we speak of the qualities of young Miss Niang, Miss Jadesea, and Miss Xuanji? They are all very lovely. Which do you favor the most, Young Master Da Fung?” She flutters her eyelashes at Fung while Sumila snickers beside her.
+
+I choke on my spit. Why does she know those names? Fung looks a little pale as well. “Ahem, ah well, you see...” He stammers. Damn I'm so sorry Fung. I can't help you. I studiously carve away at the gator, trying to crouch down behind its corpse.
+
+Mei Lin turns to me and flutters her eyelashes some more. “Why do you look so nervous, Young Master Rain? What about your opinion? I'm sure you have something to say on the matter.” Sumila is choking back her laughter now, unable to keep calm.
+
+You know what? I enjoyed myself at the Golden Swan. I have nothing to be ashamed about. I smile at her. “Not at all, Young Miss Mei Lin.” I should hide my recreational pursuits better, in the future. It's not something to be ashamed of, but not exactly something I should broadcast either. I need to be a good role model for the little scamp.
+
+She stamps her feet, the charade over. “You shouldn't be friends with this pervert! He's a bad influence on my Rainy.” She puffs her cheeks up and pouts. Sumila just bursts out laughing, almost hysterical. She seems more laid back about the subject, but then again, she has that sweetheart back in the village.
+
+“Little Mei Lin, don't be so stuffy. A man has needs, and a bit of fun and drink isn't out of the question.” I smile at her. “Of course, you should be more careful of most men, but Young Master Fung here is a fine upstanding young gentleman. We simply accompanied the ladies for a drink. They are all very skilled musicians and poets.” I'm not lying. We did have a few drinks to start, and all of the women at the Golden Swan are trained in music, calligraphy, painting, and poetry. Or at least they claim to be. I didn't ask for a demonstration of those skills.
+
+Mei Lin sticks her tongue out at me, and turns away. Poor little kid, still too immature for things like this.
+
+A crash of glass sounds close by, a jar shattering on the ground. A putrid stench erupts from the broken container. Several others fly out, crashing around us, soaking us in the noxious scent. I cover my mouth, retching and dry heaving. O god, it's in my mouth.
+
+Sumila grabs me, dragging Mei Lin, tears streaming down her face, the fumes stinging our eyes. She screams at me. “We need to leave. Run for the boats.” I follow along, still gagging. Fung and his guards are not in much better condition, but they begin running as well.
+
+We run for a full minute before the first carnugator emerges from the water, roaring ferociously. A guard screams and I look back to see him caught in its jaws, torn in half, blood spraying. Another guard yells, “Flee! Protect the Young Mas--- ” until he is cut off abruptly, by the chomp of another gator closing about him.
+
+More guards are lost as we run, gators arriving from every direction, roaring and snapping, screams fading away behind us. Sumila knocks one back, with a fearsome home run swing, rewarded with the crack of bone. I draw Peace and slash my way through, blade glancing off their hides. The two of us keep moving, keeping Mei Lin in between us. She fires arrows with much greater success than I, each shot sinking deep into their targets, wounding, but unable to kill. More gators are converging on us every second, a melody of screams and growls about us, a frenzied cacophony of anger and death. The guards try to mount a defense, killing a few gators, but there are always more to replace them.
+
+A gator lunges straight for me, jaws open. Deer Form, Pierce the Horizon. Peace enters its mouth, penetrating the soft fleshy roof and into its brain. It's jaws clamp tight, my arm still inside, and an inhuman noise is wrenched from my throat. Shaking violently in its death throes, the gator goes into a frenzy. My arm stuck inside it's mouth, it heaves me from side to side, until I am finally thrown away, my arm torn off from the shoulder. No time to scream as a second gator lunges at me and with adrenaline surging through me, I react. Bull form, Uplift the Sequoia. My remaining palm swings upwards, catching the gator in its lower jaw, throwing the massive head back. My arm is jolted, numbed from the impact, pain lancing through my spine, my muscles in spasms as if I had tried to lift a building.
+
+A hand grabs me, pulling me away. It's Mei Lin, cool as can be. She's such an impressive little lady, to stay calm under pressure. Sumila clears a path for us, killing a gator with a thrust to the head, the blade of her spear piercing through it's hide like butter. Stumbling after her, I clutch my hunting knife in my remaining hand, Mei Lin pulling me along by the sleeve.
+
+A crushing pain shoots up my leg, followed by the world spinning. My face slams against the sandy ground. Agony sears through me, emanating from my foot and I scream again, my voice hoarse and discordant. I look down at my missing foot, blinking sand out of my eyes, a gator chewing voraciously, my boot stuck in its dagger-like teeth. I hear Mei Lin screaming my name. Rage fills me, and a guttural yell erupts from my mouth as I stand and dive onto its large flat face in one motion. My hunting knife in hand, I jam it straight into its yellow, slotted, eyes, over and over again, driving my forearm deeper into it's ruined socket with every thrust. It rolls about, swinging its head, trying to dislodge me, and I hold tightly to the knife, stuck inside its flesh, clinging with all my might.
+
+The flailing finally throws me clear and I land in a heap on the beach. As I lift my head, I watch the gator slump dead.
+
+Well, at least I killed it. I lay staring at my killer, lungs burning, body in agony, head throbbing.
+
+The pain sends me into convulsions, unable to even crawl. I feel myself being dragged away, the sand painfully abrasive, and my eyes close.
+
+At least I had a few good years.

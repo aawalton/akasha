@@ -1,0 +1,255 @@
+---
+id: 1909e5d2-f009-567b-8954-65aa946b2e0a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 744 - Caravan Chaos"
+slug: 0745-chapter-744-caravan-chaos
+partOf: mythrans-master-of-all-continued-completed
+position: 745
+ownLength: 3285
+unit: words
+publishedAt: 2018-10-28
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/301604/chapter-744-caravan-chaos"
+royalRoadId: "301604"
+---
+
+Ren's laughter slowed as he calmed down.“Oooh... ooh, boy.” He said and stopped sharing the caught prey feelings and dismissed the custom magical barrier around Jirqym and the Mana Shield. “Oh, man.” He shook his head. “How did you stop yourself from tearing King Alamast apart at the insult?”
+
+“Thankfully, by that point he believed Kenkoth was the head of the delegation.” Tatya said.
+
+Ren was a little surprised she could enunciate so well through a humanoid cat mouth and muzzle.
+
+Tatya felt his surprise and smiled. “He had much more leeway than I did in the acceptance of the improper behaviour.”
+
+“I'm glad it didn't ruin things for the Human Kingdom.” Ren said and his hand slid up behind her cat ears and scratched her there. Tatya tilted her head towards him and he scratched behind her other ear, too. “This is so cool.”
+
+“You aren't starting to think of me as a pet, are you?” Tatya asked, a little cautiously.
+
+Ren stopped scratching her and she lifted her head to look at him. “Actually, I was wondering if you were a cat, as I understand the term, or are you a predator?”
+
+“I am definitely a predator.” Tatya said and bared her large sharp teeth, and he recognized the look.
+
+“You're a panther?” Ren asked, and she nodded. “Can I ask if you can become a full panther?”
+
+“A full one?” Tatya asked, slightly confused.
+
+“Running around on all four paws with no real human-like features. A full panther-shaped animal.” Ren said.
+
+Tatya looked at Kenkoth, and the black lion-man shrugged. “I suppose since you know our secret, knowing a bit more won't hurt.” She said. “The most powerful of us actually have three forms. Humanoid, anthropomorphic, and animal.”
+
+“Wow.” Ren said, and she felt his pure curiosity and a bit of admiration. “Do you ever have trouble changing?”
+
+“Puberty is a pain in the...” Beholo the healer started to say, then laughed like the jackal that he was. “Yes, if you don't learn how to do it properly early on.”
+
+“I can imagine what that's like.” Ren said. “When I used my Polymorph helm the first few times, it hurt like a...” He coughed and smiled. “It hurt a lot, until I edited it and changed that restriction.”
+
+“You have a Polymorph helm?” Beholo the healer asked, and his shock filled the carriage.
+
+“Yeah, I'm actually wearing it.” Ren said.
+
+“No, you aren't.” Jirqym said, because he couldn't detect a polymorph ability in him.
+
+Ren chuckled. “When I equipped it, it faded away.” He clarified. “It can't be damaged and is a singular item.” He said. “It's also not removable.”
+
+Tatya let consternation out and he looked at her.
+
+“You were concentrating enough to detect the lie this time.” Ren said, and she nodded. “It is non-removable, but I can remove it.”
+
+“How?”
+
+“I don't want to say.” Ren said.
+
+“We could try to force you.” Tatya said and then stuck out her tongue and licked one side of her slight muzzle and twitched her whiskers.
+
+Ren smiled. “Well, I don't know how forceful that would be.”
+
+Tatya felt his playfulness and she leaned in close. “Cat tongues are very... rough.” She almost purred and stuck out her tongue. Ren didn't move or try to lean away, so she very slowly licked him from his chin, up the side of his cheek, and stopped before she reached his hair.
+
+Ren shivered at the sensations. “Ha... um... that felt weird.” He said as he caught himself to stop his laugh.
+
+“What can the helm do?” Tatya asked and licked his other cheek and Ren shivered again.
+
+“It lets me change into other humanoid creatures.”
+
+“We know that much.” Tatya said and noticed his ears. She used her free paw-like hand to swish his fluffy hair out of the way. “What creatures?” She asked and darted her tongue out and licked the tip of his ear.
+
+Ren felt a shiver go right down his spine and Tatya started to purr. “Um... it... I've only tried a couple of things.” He said and she took a longer lick. Damn, I thought I had them desensitized already.
+
+“I think she has little barbs or grooves on her tongue.” Teepo said in the voice that only Ren could hear. “She's just going to keep licking if you don't tell her.” He then chittered in delight as a big black tail that had been hidden inside her tunic came out and started to flick playfully.
+
+“I... um...” Ren shivered as she took another long lick of his ear. “The old recipe said that whatever I put into the helm when it was made, I could change into.” He said. “I altered the recipe and then put in everything I had ever gathered as loot, even things from non-humanoid creatures, and changed the 5 minute time limit.”
+
+“Yes, and?” Tatya leaned back and looked at his face for a moment and saw his slightly red face, then she leaned in and started on his other ear.
+
+“All right, all right!” Ren laughed. “I'll admit I haven't used it very much.” He said, and she stopped licking his ear and leaned back again. “I became a Marilith Demon...”
+
+Tatya caught her breath, as did the other Pervarians. “You had Marilith Demon parts to add to it?”
+
+“She was the final boss in Shargon Caverns.” Ren said and he felt their utter shock. “I changed into an Incubus, and then...”
+
+“You... you beat Shargon Caverns?” Kenkoth asked as his large and gruff lion-man form faded back into his human form. “I really want to ask you how you...” He stopped talking and took a deep breath. “That is too much information to give away.” He said. “If we knew, it could ruin it for everyone.”
+
+Ren chuckled and nodded slightly. “Knowing what's coming does change things when you're there.” He said. “One of the required ingredients to make the helm was a scale from her snake part.”
+
+Tatya's whole body shivered and he looked at her as her purring intensified.
+
+“Are you okay?” Ren asked, slightly concerned.
+
+“I'm fine.” Tatya said and snuggled in close to him as she rested her head on his shoulder. Her ear touched his neck and he felt how much colder it was than the rest of her.
+
+“Aww, your ears are cold.” Ren said.
+
+“They always are.” She said. “Even with 34 muscles to change their direction and use, there's not a lot of blood that can circulate through such thin membranes.”
+
+“Let me warm them for you.” Ren said, and she lifted her head to look at him.
+
+“You want to... to touch...”
+
+“I'm sorry if that breaks some kind of social taboo.” Ren said, and she winced. “You really don't like that word, do you?”
+
+“Warriors don't apologize for their actions.” Tatya said. “They can offer compensation, both in words and gifts, an explanation, and even offer manual labour; but, an apology is disrespectful to both you and to whom you apologize.”
+
+Ren blinked his eyes at her for a few moments, then he smiled as he understood. “Please allow me to make it up to you.” He said, now that he knew they apologized with deeds and not words.
+
+Tatya took a small breath and leaned her head forward and tried to let his hand go.
+
+“I don't need my hands free for this.” Ren said and held onto her paw-like hand as he activated his Hands of the Gods ability Burning Hands.
+
+Jirqym jerked as if someone had poked him with a hot poker and Tatya felt fear as the pure Fire flowed out of his hand and up her arm.
+
+“Don't be afraid.” Ren said soothingly and her fear receded slightly. “Not only have I mastered the ability, I've had decades to become very skilled in its use.”
+
+Jirqym jerked again as Ren deactivated his Hands of the Gods ability and the Fire didn't dissipate. Tatya's fear faded completely as she watched the Fire split and then it slid under her chin and up both sides of her face, then it settled around her ears. She felt the immense warmth of it on her ears and sighed in contentment. She was more than a little surprised that she hadn't smelled even one burned hair during the Fire's trek up her arm to her ears, despite her enhanced sense of smell.
+
+“You did that on purpose.” Tatya said, and Ren nodded. She dismissed the Respect popup and she started to purr again. “You wanted me to know that you can cover me in Fire and I won't be hurt.”
+
+“Oh, it's even better than that.” Ren said and smiled.
+
+Tatya felt shock from both Kenkoth and Beholo, who had also changed back to human form. “What is it?” She asked and her purring stopped.
+
+“He made it into ear covers.” Jirqym said. “Permanent ear covers made of Fire.”
+
+“Wh-what?” Tatya reached up with her free paw-like hand and touched her ears.
+
+“You can't really move your ears while wearing them, though.” Ren said. “The most I could do was make them like slip covers and have one on each ear.”
+
+Tatya lifted one off and looked at it. The cat ear shaped lump of Fire flickered in her hand and stayed warm. It also didn't burn her or start to fade, even without a source to feed it.
+
+“King Ren...”
+
+“You said a gift could be compensation.”
+
+“A reasonable gift.” Tatya said and had to let his hand go so she could take off the other one. “This...” She held them out to him. “I can't take them.”
+
+“Why not?”
+
+“You don't realize what it means.”
+
+Ren looked at her and concentrated on her emotions. “You don't mean to you personally, do you?”
+
+Tatya shook her head no as her anthropomorphic form slowly faded and she became human again. Ren had watched her tail as it shrank and disappeared back inside her tunic.
+
+“Would you be insulted if I said I wanted to touch your tail?” Ren asked, and her face flushed a little red.
+
+“I would if you tried to touch it in public.” Tatya said, and he felt her underlying emotions and knew she wouldn't object if they were in a more private setting. She held the ear covers out to him again. “Please, take them back.”
+
+“Okay.” Ren said and absorbed them without touching them.
+
+Tatya gasped as they faded and looked at him with wide eyes. “You didn't have to touch them?”
+
+Ren shook his head. “As long as it's within my Aura, I don't have to touch it to absorb it.”
+
+Silence fell in the carriage as the Pervarians thought about everything Ren had just done in front of them. No one said anything for several minutes, then Tatya spoke.
+
+“Did... did you happen to have any... um...”
+
+“Unfortunately, the only other panthers I've met were trackers from the High Elves, and I didn't want to kill them.” Ren said. “I didn't have any kind of cat item to add to the Polymorph helm.”
+
+Tatya sighed and he felt her sadness at the loss of potential.
+
+“I did add wolf and Dire Wolf, though.” Ren said, and she gasped.
+
+“You... you're kidding.” Tatya said, even though she knew he was telling the truth.
+
+“Dire wolf.” Kenkoth whispered. “You can polymorph into an anthropomorphic Dire Wolf?”
+
+“Sure.” Ren said and activated the helm.
+
+“NO!” Tatya yelled, but it was too late.
+
+Ren bent over as the transformation started, and his back started to expand. His arms and legs grew to twice their normal size, then Ren dropped to the floor of the carriage. His body shook as it expanded and changed, and even with clothing on, the Pervarians could still see his body shift and distort into a distinct wolf-like shape. His face changed to reflect that as a short muzzle grew out and teeth grew to match. His fluffy blonde hair grew out like a mane and then his body was completely covered with the same color fur.
+
+When the transformation finished, Ultimate Terror flooded out from Dire Werewolf Ren as he stood up to his full 12 foot height, spread his arms out and made massive fists, then howled as loudly as he could and his Submission Aura snapped into place. The healer quickly cast Silence on himself and the other Pervarians in the carriage, so they wouldn't get the full effect of the howl or potentially lose their hearing; but, that did nothing for everyone else in the caravan, which also included the giant boars pulling the carriages.
+
+The whole caravan came to a screeching stop as the giant boars lost all of their will to continue living with the overwhelming terror and the ultimate predator within their midst. One of them even died of a heart attack. Luckily, since the giant boars were secured well into the carriages, when they stopped running the carriages had stopped moving. None of them crashed into each other and no one was hurt. The Pervarians on the other hand, since they were all beasts of some kind, felt Dire Werewolf Ren's Submission Aura and fought against it as best as they could. Some became the animals they could transform into and it made it easier to hold off such a powerful Aura... but, that only worked for other top-tier predators. Some of them weren't even predators.
+
+Yuwen, the one Ren made the dinner date with, was a minx and collapsed to her knees and hugged herself. The man across from her, Mires, was an otter, and he collapsed to the floor and hugged himself, too. Several others in the other carriages also collapsed to their knees and hoped beyond hope that they could be forgiven for being alive while around something so powerful.
+
+The six wolves in the carriage cage had their hackles up and howled to join in on Dire Werewolf Ren's declaration of superiority. The handler became a large silver-backed gorilla to fight the Aura's power and beat his chest with his massive fists to quiet the wolves under his care. The wolves growled at him and he opened his mouth and roared into the cage at them, which made them sit down and behave.
+
+Tatya trembled as she stared at Dire Werewolf Ren and changed into her panther form, then she hissed her defiance at him that she would never submit, no matter how powerful he was. Kenkoth growled through his furry lion lips and barked some kind of warning that he wouldn't either. Beholo the healer, who was a jackal, dropped to his knees because he didn't want to fight, not because he was being submissive. Jirqym just analyzed the Dire Werewolf in front of him and didn't react at all.
+
+“Ren!” Artemis nearly yelled as she stood up and Dire Werewolf Ren stopped howling to growl at her. “REN! STOP IT!”
+
+Dire Werewolf Ren made a little yip sound as if he had been punched, because he had never heard her yell at him before.
+
+“Get a hold of yourself!” Artemis exclaimed. “Don't let the transformation take you over!”
+
+Dire Werewolf Ren blinked his silvery-blue eyes at her for nearly a full minute before he started to realize what was going on.
+
+“A-A-Artemisssss?” Dire Werewolf Ren managed to say through his odd-shaped mouth.
+
+“Yes, Ren.” Artemis stepped close and looked up at him. “Boy, you're really tall.”
+
+Dire Werewolf Ren barked a laugh, and his amusement let him regain himself much faster. He stopped using the Submission Aura when he realized he was using it, and everyone in the caravan relaxed as it disappeared.
+
+“Good. That's good.” Artemis said and floated up into the air to rub the sides of his face as Dire Werewolf Ren calmed down. “Hey, Teepo. Are you okay?”
+
+“I don't know.” Teepo said from Ren's shoulder. “I just froze. I couldn't move, or talk, or do anything at all.” He said. “I couldn't even think straight.”
+
+“Teeeeeepo.” Dire Werewolf Ren said.
+
+“Ren, don't ever take this form again.” Teepo warned him.
+
+“Woooon't.”
+
+“Then hurry up and change back.” Teepo said.
+
+“Tryinnnng.” Dire Werewolf Ren said. “Harrrrrd. Connncennntrate.”
+
+“We are not sitting here with you like this for another 5 hours.” Artemis said, and she felt surprise from the Pervarians. “Let me help you.”
+
+“Hoooow?”
+
+“I'm your touchstone, remember?” Artemis said and ran her hands over the top of his head and ruffled his mane and rubbed his ears. “So, touch me.”
+
+Dire Werewolf Ren lifted his massive hands and looked at the huge claws that stuck out of them. “Dannnger.”
+
+“Retract them, stupid.” Artemis chuckled, and she felt surprise from him.
+
+“Rrrretrrract?” Dire Werewolf Ren growled, then he squinted his eyes and power flooded out of him.
+
+Tatya gasped and trembled at the feeling and started to purr, despite her desperate need to fight it.
+
+“Okaaay. Trrrry.” Dire Werewolf Ren said. After about 10 seconds, the claws slowly pulled back into his paw-like hands and then disappeared as if they had never been there. “Diiiid it.”
+
+“Good job!” Artemis said and scratched his cheeks, then she dismissed the Full Illusion spell to reveal her bright and shiny metal skin. Everyone in the caravan felt Dire Werewolf Ren's reaction to seeing that, then Artemis slowly lowered her dress to reveal her breasts.
+
+“Artemisss.” Dire Werewolf Ren said and he put a hand behind her back to hold her steady and used his other large paw-like hand to rub her chest. Artemis started to moan right away and Dire Werewolf Ren became very, very excited. Tatya saw the size of that reaction and felt his nearly endless desire, because in this form he couldn't concentrate and keep it restrained like he normally did. Her own body responded to it almost as much as Artemis did, and started to pant in time with Artemis' moans.
+
+“Ren, I... I need you.” Artemis said between moans, then grabbed his hands. “The real you.”
+
+Dire Werewolf Ren growled his frustration at being stopped, then all the power he was putting out slowed down, came to a stop, then started to recede. The Pervarians didn't try to hide their shock at the change in the power's flow, then it moved faster and faster as Dire Werewolf Ren sucked it all back in.
+
+“Neeeeed yoooou!” Dire Werewolf Ren said and concentrated hard on changing back. “Cannn't waaait!” He said and lifted his head and howled an agonizing howl as he finally managed to swallow all of the power and they felt his pain from doing it so quickly. His Ultimate Terror Aura disappeared and his face started to cave in on itself, then Artemis floated down to the carriage floor as Dire Werewolf Ren's body deflated and became smaller and smaller. When she landed on the floor and had pulled her dress back up, Ren was back to his old self and he had collapsed to his knees.
+
+Notice!
+
+You have declared yourself 'King of the Predators' and given yourself that title. It has combined with your 'The Tainted King' title to become 'The Tainted King of the Predators'. Your skill 'Animal Affinity' (Mastered) has been upgraded to 'Beastiary Control' (Mastered).
+
+Notice!
+
+Submission Aura mastered. Personal Aura +150 feet.
+
+“Artemis.” Ren whispered. His voice was hoarse and his eyes were full of tears. “What did I do?”
+
+“Shh.” Artemis knelt in front of him and took him into a tight hug. She wanted to tell him it was all going to be okay; but, she had never lied to him before and she didn't want to start now, no matter how much she wanted to.

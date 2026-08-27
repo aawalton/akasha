@@ -1,0 +1,267 @@
+---
+id: 6a65df82-97c7-5705-bca0-1bca1a8004e3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 169: Satisfying Revenge [Start of Book 3]"
+slug: 0014-chapter-169-satisfying-revenge-start-of-book-3
+partOf: reborn-as-a-demonic-tree
+position: 14
+ownLength: 3059
+unit: words
+ownProgress: 3059
+publishedAt: 2023-10-12
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1372087/chapter-169-satisfying-revenge-start-of-book-3"
+royalRoadId: "1372087"
+markedReadAt: "2026-06-29T19:01:57.832Z"
+---
+
+Ashlock awoke to a pleasant autumn breeze that rustled his scarlet leaves. There were also the chirps of birds that had recently made the sprawling demonic forest across the mountain range their home.
+
+As always, it took a while for Ashlock's mind to fully awaken from his slumber, but once he did, the all too familiar system message appeared in his vision.
+
+Idletree Daily Sign-In System
+
+Day: 3532
+
+Daily Credit: 5
+
+Sacrifice Credit: 28
+
+[Sign in?]
+
+"Seems I fell asleep while waiting for Stella to wake up," Ashlock yawned as he dismissed the notification and glanced around the mountain peak with his spiritual sight.
+
+The three corpses of Blood Lotus nobles were still there as he hadn't yet decided what to do with them. In the past, the only real option would be to consume them for sacrificial credits and then unlock a skill. However, now that he had his SS grade {Necroflora Sovereign} skill that let him raise powerful Ents, he had to carefully consider what he used corpses for.
+
+There was a loud yawn as Stella stretched like a cat on the bench and slowly woke up.
+
+"Good morning, Tree," Stella said as she sleepily looked around, "Huh, how long was I asleep?"
+
+"For half a day and night," Ashlock said through his {Abyssal Whispers} skill.
+
+"That long?" Stella murmured as she retrieved a Mind Fortress pill from her spatial storage and gulped it down to resist the attacking nature of his telepathy skill, "Darn, it's my last one. I need to make another batch."
+
+"If you teach the rogue alchemists how to make it, then you won't need to," Ashlock mentioned.
+
+"Oh yeah," Stella said through their link as she attempted to tie her hair into a ponytail, "How did everything end yesterday? The second I came back here, I felt compelled to fall asleep on the bench, so I bet I missed some things."
+
+"Well, if you look down near your feet, you will see some corpses," Ashlock said, "I need to decide which ones to consume to grow stronger and which to turn into Ents like Titus."
+
+"Mhm, and what are the downsides of both options?"
+
+"What do you mean?"
+
+"Well, power never comes for free, and I never fully understood how you get stronger, Tree," Stella explained, "Like does consuming corpses corrupt your Qi? Or does raising an Ent drain your soul? Sometimes when deciding on something, it's best to look at what it will cost you rather than what you gain."
+
+That was a good point. He always focused on the benefits rather than the cost, as his tree body gave him an unnatural advantage when it came to gathering Qi and other resources.
+
+However, with the goal of advancing his cultivation and an upcoming war, he didn't want to be caught without any Qi in his Star Core again like he has been so many times in the past due to mismanagement. So he needed to be careful with raising too many Ents.
+
+"Ent's cost a lot to maintain. The more I have control over, the more Qi I have to waste on powering them," Ashlock explained, "Whereas if I just eat the corpses, I will definitely get more powerful as I can absorb the Qi in their remains, and there's a chance I gain something new, but it will be random."
+
+"Gain something new?" Stella tilted her head, "Such as items from rifts like my earrings?"
+
+"Yeah, I basically stole those earrings from some other dimension for you," Ashlock half lied. He didn't know for certain where the items were coming from, and he also didn't consider the system's feats as being from him.
+
+With a radiant smile, Stella touched the red maple leaf earrings dangling from her ears via a black chain, "I see! Well, that does make this decision rather difficult. I like new things, after all..."
+
+She walked around the corpses while tapping her chin and paused, "Isn't someone missing?"
+
+"Roderick Terraforge is still trapped in Titus's hands out in the wilderness," Ashlock replied, "I was saving him for you. What do you want to do with him?"
+
+"Just crush him," Stella shrugged, "Ever since I won the tournament and don't feel threatened anymore, I don't care for revenge against a nobody like Roderick."
+
+"I'm surprised. I thought you would want to slit his throat for crashing into your table during the tournament.".
+
+"At the time, I did," Stella sighed, "But in a way, I actually owe some gratitude for them pushing me so far to a level of stress I have never experienced before."
+
+"Why would you be grateful for that?" Ashlock wondered.
+
+"I think they helped me awaken my bloodline during that final round," Stella stared at the bench behind her, "I don't know a lot about it, but I dreamed of this mountain peak and the things that have occurred here. They helped me focus to the point where I could create a Profound tier pill on my first try."
+
+"So you do have a bloodline! Did it give you a transformation like Diana?" Ashlock excitedly asked.
+
+Stella shook her head as she looked away from the bench, "No, and I don't think I will get one."
+
+"Why not?"
+
+"It's just a theory, but I think there might be different kinds of bloodlines," Stella mused, "For example, Diana has a transformation type that changes her species to one that's more powerful, whereas mine boosts my mental capabilities."
+
+"Interesting," Ashlock was glad to learn even a little bit more about these mysterious bloodlines, and he was even more pleased to know that Stella had finally awakened hers. Since Larry said he sensed something ancient about the girls and Senior Lee mentioned that bloodlines belonged to the upper realms, he had been interested in them.
+
+"Can you tell me more details about your bloodline?" Ashlock asked.
+
+"I don't want to say anything for definite, but when I feel my throne is threatened, I enter a trance-like state that lets me perform at my peak capabilities," Stella shrugged, "It also seemed to rapidly drain my stamina, and I could hardly stand after using it multiple times in succession."
+
+"And your throne is?"
+
+Stella gestured to the bench, "I have no idea why, but my body and mind feel linked to this bench."
+
+Ashlock hummed in interest, “The day that you tried to punch the heavenly lightning and almost died, Senior Lee saved you with a pill from a higher realm that seemed to anger the heavens. He later told me that was likely because our fates are tied. I wonder if you see the bench as your throne because of that."
+
+"Perhaps," Stella yawned and stretched her back, "Ugh, I can still feel the fatigue from yesterday. Maybe I need to cultivate."
+
+"Wait before you go and do that, help me with deciding the fate of these corpses," Ashlock insisted, "I value your insight here, oh and go get Diana too."
+
+Stella closed her eyes, and a portal rippled to life right before her face. She then stuck her head through.
+
+"Okay, she is coming," Stella said, withdrawing her head and widening the portal.
+
+Diana stepped through alongside Douglas and Elaine as well.
+
+"Oh, perfect, everyone's here," Ashlock mused, "Can you ask Elaine what her plans are now that she stayed behind? Oh, also, we really need to get more of those Mind Fortress pills so I can easily speak with everyone."
+
+"I will make some more later today," Stella said and then relayed his question to Elaine.
+
+"Actually, I received a call from my Father late last night," Elaine confessed, "He told me my family had mostly withdrawn from Darklight City, but he wanted me to stay behind and report the situation here to him. So I guess it's fine for me to continue working in the Academy as nobody from my family is keeping a close eye on me."
+
+Stella snorted, "So he withdrew everyone so they couldn't be kidnapped or used as bargaining chips by the Skyrend family, but he's fine with you staying here unguarded. What an arsehole."
+
+Elaine nodded sadly, "Yes... I don't know how I didn't notice his disregard for me sooner."
+
+"Well, this works in our favor," Diana pointed out, "We can feed them incorrect information through Elaine. Did your Father tell you anything about what is happening at Slymere?"
+
+"A little," Elaine said, "Slymere is on lockdown, and they spent a few hours powering arrays to protect the city from Demetrios Skyrend's wrath. Father said they are fine for now, as Demetrios left after expending too much Qi on powering the storm."
+
+"Say, Elaine, who do you think will win if there's a war?" Stella asked, "I found the Skyrend family a lot easier to deal with, but I have a natural resistance to lightning Qi so that gave me an unfair advantage."
+
+"That's a good question," Douglas agreed, "And if what you guys told me is true, the Voidmind family lost multiple Elders in the recent attack, so that should have weakened them further? Right? Or am I being dumb?"
+
+Elaine nodded as she leaned back slightly against Douglas, "I believe the Skyrend family has the upper hand in an all-out war. As you know, void Qi is very powerful at both offense and defense, but it's incredibly hard to gather. If Demetrios floats in the sky and forces my Father to waste his void Qi on powering a defensive array, Slymere will eventually fall. Lightning Qi is much easier to gather, and its attack power is high, so the defense must be taken seriously."
+
+"What if the Voidmind family went on the offensive?" Ashlock asked through Stella.
+
+In his mind, they should send assassins using those Void Caller artifacts and slaughter the Skyrend family scions when Demetrios isn't looking. Ashlock had only managed to defeat the Voidmind Elders through some luck and the overpowered skills of his summons, so he couldn't see how the Skyrend family could survive a direct assault.
+
+"The Voidmind family is unlikely to go on the offensive," Diana said, "They think Elaine's Uncle has returned with a vengeance to silence the Skyrend family. I wouldn't be surprised if they sat back and waited for the Head Librarian to make a move while their void Qi is depleted."
+
+Elaine shook her head, "If I had to guess, Dante is begging my Father to send people to investigate my Uncle's return. My Father's position as the family head was only gained because of his high cultivation rather than his good relationship with the branch families. If the other branches see a possibility to either snatch the head seat away by learning the secret of ascension themselves or going out of their way to make amends with my Uncle, they will take it."
+
+Everyone fell into deep contemplation for a while.
+
+"If a war does happen between the two families, how quickly will it escalate?" Ashlock asked. He needed to know what kind of timescale he was working with here so he could prioritize certain things.
+
+Stella relayed the question to Diana as she was most knowledgeable regarding sect politics and had also been on the receiving end of an invasion from another family.
+
+"If they are of equal strength, it will take a few months at least," Diana replied after some thought, "Neither side will want to rush in at risk of falling for a trap like the Voidminds did yesterday at the tournament. The only reason they invaded so hastily yesterday was because Dante believed he could achieve total victory before the Redclaws could get a chance to gather help from other families. In short, they were sure of an overwhelming victory."
+
+Stella glanced at Kassandra's cold corpse with a hole in her heart, "Arrogance leads to death. If we want to come out of this alive, we must be better than those currently reigning at the top."
+
+Everyone exchanged a look and nodded.
+
+It was an idea Ashlock agreed with and had been doing from the very start. He may have been forced into this cautious mindset due to being unable to run away as a tree, but he had no plans to ditch it now.
+
+This trail of thought brought him back to the Ents... they are powerful assets that are also somewhat expendable. Perfect for war.
+
+"And if I manage to extend my roots all the way out to Slymere and even the entire Blood Lotus Sect, I can launch wars with my Ents at a moment's notice through portals," Ashlock mused, "Maybe I should turn most of them into Ents?"
+
+With that idea in mind, he asked Stella, "Between the Skyrend corpses, which one do you think I should turn into an Ent?"
+
+"You're going to eat one of them?" Stella asked.
+
+"That's the plan. I still want to eat one or two of the corpses to boost my cultivation up a stage, as my Star Core is mostly filled after not doing much over the last few weeks," Ashlock explained.
+
+"I would ask you to consume Kassandra to put her to eternal rest, she may have been a bitch, but I admire that she stuck to her values until the very end," Stella's eyes narrowed at Theron, "Meanwhile I believe Theron deserves to be an eternal slave for the things he said to me and for trying to spit on Elder Margret."
+
+Ashlock was surprised about Stella's view of Kassandra but had no qualms about agreeing to her request. If he turned Theron Skyrend into an Ent, he would be on a similar power level to Titus.
+
+"He would also give me around a thousand credits..." Ashlock sighed. The temptation of picking the points and rolling the gacha was high, but he had to admit a guaranteed Star Core Ent that he could send into battle without the risk of losing someone he cared about was a big plus.
+
+"Wait, before we decide on the other corpses, let me bring over Roderick," Ashlock's vision blurred as he arrived far out in the wilderness, creating a massive portal for Titus to walk back through.
+
+"What's Titus doing back here?" Diana asked while glancing up at the looming titan of black wood.
+
+Everyone's clothes and hair rustled as the massive portal snapped closed behind Titus, leaving him towering over them with his hands clenched around something.
+
+"Titus, bring your hands down here!" Stella shouted up at the Ent, and Titus complied by bending down on one knee and presenting the hand prison to her.
+
+Ashlock was surprised that the Ent listened, but then he remembered he had commanded Titus to listen to Stella and the twins when they had gone hunting for alchemy ingredients.
+
+"Now, crush," Stella gestured to what Titus should do, and there was a loud scream from within as Titus closed his hands.
+
+"Good! Now open up," Stella gestured for Titus to open his fingers, and the Ent complied—revealing a very bloodied and broken Roderick Terraforge that was barely alive.
+
+Stella frowned as she summoned her favorite dagger to her hand, "You're a tough little bastard, aren't you."
+
+"P-Please..." Roderick coughed blood as he glanced around and locked eyes with Douglas, "Cousin?"
+
+Douglas diverted his gaze and looked up at the sky.
+
+Stella was unfazed by his begging as she grabbed Roderick's hair, forcefully tilted his head to face the heavens and slit his throat. As the life left his eyes, Stella hauled the now-dead man via his hair out of the hand prison and dumped him next to the other noble corpses.
+
+Everyone watched the scene in silence, some more shocked than others.
+
+"I thought you said you didn't care for revenge against a nobody like Roderick?" Ashlock asked.
+
+"I lied—that was far too satisfying." Stella replied through their link as she smiled sweetly, "Anyway, didn't you want to figure out what to do with the corpses? I was just hurrying things along."
+
+"Right... sure," Ashlock said and then reanalyzed the corpses. Before him lay two Star Core corpses: Theron Skyrend and Lilian Voidmind. "I think I will turn these two into Ents, so what should I do with the other two?"
+
+Ashlock stopped musing and realized he was being an idiot. He only wanted to consume the corpses to reach the next stage in the Star Core Realm so why not eat one and see if that was enough to advance?
+
+Casting {Consuming Abyss}, black vines coated in thorns emerged from the ground and wrapped around Kassandra Skyrend as Stella requested to put her to eternal rest.
+
+A while later, there was an immense rush of Qi through the vines as he finished devouring the corpse—Ashlock felt his Star Core pulse—expand a tenth larger—and then rapidly drain of Qi as he felt his entire body on fire with power.
+
+[+311 SC]
+
+"Phew," Ashlock sighed as the feeling subsided, and he opened his status menu.
+
+[Demonic Demi-Divine Tree (Age: 9)]
+
+[Star Core: 4th Stage]
+
+[Soul Type: Amethyst (Spatial)]
+
+[Mutations…]
+
+{Demonic Eye [B]}
+
+{Blood Sap [C]}
+
+[Summons...]
+
+{Ashen King: Larry [A]}
+
+{Ebonflow Serpent Sovereign: Kaida [C]}
+
+[Skills…]
+
+{Necroflora Sovereign [SS]}
+
+{Mystic Realm [S]} [Locked until day: 3552]
+
+{Progeny Dominion [S]}
+
+{Eye of the Tree God [A]}
+
+{Abyssal Whispers [A]}
+
+{Deep Roots [A]}
+
+{Magic Mushroom Production [A]}
+
+{Lightning Qi Barrier [A]}
+
+{Qi Fruit Production [A]}
+
+{Consuming Abyss [B]}
+
+{Blooming Root Flower Production [B]}
+
+{Language of the World [B]}
+
+{Fire Qi Protection [B]}
+
+{Transpiration of Heaven and Chaos [B]}
+
+{Hibernate [C]}
+
+{Superior Poison Resistance [C]}
+
+Ashlock read over his ever-growing status menu and mentally grinned when he saw he had advanced to the 4th stage in the Star Core Realm. If he managed to eat a few more corpses, defeat some monsters, and cultivate in the Mystic Realm, he could see the possibility of reaching the Nascent Soul Realm on the distant horizon.
+
+With that advancement out of the way, Ashlock could turn all three of the remaining corpses into Ents.
+
+"Let's start with Theron Skyrend. I wonder what a 6th Stage lightning affinity human cultivator will look like as an Ent," Ashlock mused, "Will he be as tall as Titus? What about his skin? Will he have a weird texture like Bob?"
+
+Deciding to find out, Ashlock activated his SS grade skill {Necroflora Sovereign} and watched the magic happen.

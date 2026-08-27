@@ -1,0 +1,399 @@
+---
+id: 8e4677bc-ab74-52b9-a6f4-5cccbf66f5a6
+page-type-slug: story-chapter-royal-road
+title: "271 Cosmic Destruction"
+slug: 0230-271-cosmic-destruction
+partOf: the-new-world
+position: 230
+ownLength: 7125
+unit: words
+ownProgress: 7125
+publishedAt: 2020-09-27
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/560863/271-cosmic-destruction"
+royalRoadId: "560863"
+markedReadAt: "2026-06-29T21:28:56.250Z"
+---
+
+The deformed behemoth traversed across the vast void of space. Supporting the Spatial Fortress, vessels cascaded out in an endless torrent. These ships were of all sizes, many of them colored green with orichalcum. The greatest of these vessels were plated in dull gray, an ancient design and appearance dictating their lineage.
+
+These were the chosen shuttles of Schema, the blue plasma ebbing in glowing lines. Their designs stood as both foreign and overwhelming with sharp, angular edges. They warped gravity and space alike with their arrival, each of them defying even the most fundamental laws of physics. More of these constructs arrived until the entirety of the spaceline was filled to the brim with ships facing Giess.
+
+Schema came prepared.
+
+This supporting force gathered around the Spatial Fortress, protecting their most vital asset. As they arrived, Obolis gestured towards the individual fleets,
+
+"As you may have gathered, the largest of those are a part of Schema's personal fleet. They wield his tools, using forbidden magic and technology. Those around him are a part of his various guilds. For example, you'll note the fleet to his left, those are the Steel Legion's highest order of ships."
+
+I crossed my arms, "They landed on my homeworld too. I ended up taking their members and tech in when I formed my guild. I honestly don't know how it worked exactly. They weren't too peeved about it, though."
+
+Obolis grinned, "You thwarted Yawm, correct? This means that you gained the right to ownership over the guild preceding you. Schema grants resources to the successful, and in that instant, you were victorious."
+
+I pointed at a petite ship at the edge of the fleet,
+
+"What about those ships? It looks like they weren't even designed for warfare."
+
+"Those are the golemite's ships, a race of scouting, aetherial beings. I've contracted with them many times to discover far off locations. They orient themselves towards finding the hard to find more so than killing those that are hard to kill. If you look beside the golemite's sleek builds, you'll find the various heads of each class structure in Schema's society."
+
+He pointed at a spiked shuttle. It was lined with pods on the surface.
+
+"Those are the breakers. Their assault class utilizes arcane energy as a weapon. It's actually just militarized antimatter that's been converted into an energy form."
+
+Thoughts of Einstien and his theories whizzed through my head. I mean, if matter equals energy, I guess antimatter would equal anti-energy too. Obolis gestured further down,
+
+"The slim vessels beside them are for the Speakers, and the thickly plated vessel below both are for the Fringe Walkers. They are the highest-ranked and most ancient classers in Schema's universe, and we will likely never be this close to the heart of their faction again. Soak in these sights while you can."
+
+I shrugged, "Eh, they're just ships."
+
+"But they shall tear this spaceline apart as soon as the Adair family arrives. That is the only reason Schema has called in this many of his forces. This would be more than enough to level my entire Empire, let alone a weakened planet like Giess."
+
+I gawked at all the ships as Obolis said that. Damn, so this was a solar system culling kind of force? It was impressive, though these guy's secrets had yet to be unveiled. They hovered towards Giess, taking a while to get there. I pointed at some of the gray hulled vessels,
+
+"What about those? They seem like the head honchos here."
+
+Some random alien guy walked up, "They are. Those are the shuttles for Schema's chosen."
+
+Obolis raised his eyebrows, "In a manner of speaking, I suppose. More specifically, they are the vessels for the Sentinels, Overseers, and his personalized A.I.'s. They act at a moment's notice, offering tactical oversight of what's occurring. They also use their absolute weaponry to evaporate enemies."
+
+I peered at the gray that mirrored Obolis's own suit of armor. I gestured to them both, "So why do all the highest-ranking people wear gray armor? Is a fashion trend or something?"
+
+Obolis tapped it with his claws, "This is an orichalcum and aluminum alloy that has been augmented by graphene layering. It requires printing thin, atomically thin sheets of graphene to strengthen the underlying metal base. This is due to the low friction point of graphene. When pulled into many layers, it converts into graphite, a soft, doughy material."
+
+I raised my eyebrows, "So is graphene stronger than orichalcum?"
+
+"Indeed, it is. For reference, orichalcum is about twice as heavy as steel but 30% harder. It is used primarily for its antimagical properties more so than its strength. Graphene is 200 times stronger than steel yet six times lighter. Both of those metals are incomparably inferior to graphene from a sheer physical resilience perspective."
+
+Obolis pointed at Schema's ships, "These materials do not appear in nature, and they exist at the apex of science and technology. My own armor was found outside of Schema owned space, in fact. Even with all of my resources, I cannot construct this material on a whim. Schema can, however."
+
+I gave the ships a begrudging nod,
+
+"Well, shit. That might be tougher than my armor."
+
+Obolis shook his head, "No matter how tough one's shell is, the insides tend to be soft. That ship might never break, but those within it would be smashed by the hull meant to protect them. You are saturated to the core with that metal of yours to the point of bleeding silver. This makes you resilient in a way most people cannot be."
+
+I narrowed my eyes, "You have good eyesight."
+
+Obolis gave a slight smirk, "My ability to perceive is my greatest asset."
+
+We peered back at the ships as they sauntered about. They neared Giess, the rebels neglecting to show up. Before the anticlimax came to fruition, a golden portal spawned.
+
+I grimaced, "It's Lehesion."
+
+The massive, spatial entity crawled out of his gateway. Immune to the cold of the void, he tilted his head, cracking his enormous neck. No sound permeated out, the empty space nulling everything silent. Like a black and white film, the events played out in absolute quiet. Despite that quiet, the face-off sent shivers up my spine.
+
+In the face of the Spatial Fortress, Lehesion was but a pebble. To me, he was a mountain staring down at an anthill. No one shared my sentiment, many laughing at Lehesion and how puny he was compared to the Spatial Fortress. Around Lehesion, thousands upon thousands of portals snapped open as the gialgathen lifted his head. He stared down with a godly arrogance as his forces arrived.
+
+This was why the rebels committed genocide against the gialgathens. Their forces arrived in the tens of thousands, the blighted ones swimming through space. They collected around Lehesion, acting in a manner similar to how Schema guarded his Spatial Fortress. Further allies congregated around the golden beast over the next minute.
+
+Dreadnoughts, fighters, drones, and other blighted ones came to the forefront. These were the main forces we fought on Giess, their numbers so high they could darken a horizon. Even in space, they remained unharmed, the Hybrid's internal engines keeping them from turning brittle and cold.
+
+More forces arrived than those sent to Giess, however. From their rebelling worlds, many ships and vessels from other races arrived. These ragtag ships were reinforced with the Adair's signature markings and welding styles. They helped make their allies stronger in exchange for their support, and it showed as their fleet swelled. These were those that chose to defy Schema at the cost of a bloody war.
+
+Even more forces arrived, their numbers exceeding Schema's own fleet. From dozens of portals, they took gnarled eldritch adapted for space and summoned them. These were followed by suited revenants, each of them mentally shackling these mutated eldritch. They arrived in growing hordes, becoming a living, breathing mass of monster that allied against Schema.
+
+Obolis's eyes widened, "They've used radiation to strengthen the eldritch then taken control of their shattered minds. Illegal in Schema's territory, yet it's an undeniably effective tactic."
+
+I remembered the bout of radiation we suffered when inspecting a portion of Lehesion's tail. This was what they were using it for. As the enemies piled up, my fears were fully realized. The Adair's armed forces dwarfed Schemas.
+
+And yet, still, even more arrived.
+
+From twisted worlds and dark recesses, sentient eldritch crawled from colossal portals. They allied with the Adairs. These were the kinds of eldritch that dictated whether a world was fringe or not, and they mounted in space, crawling like an infestation given life. They commanded enormous numbers of eldritch, the likes of which could create eclipses by swallowing the sun in their shadow.
+
+Instead, they blended into space, a moving darkness that proliferated like a disease. They took the form of massive worms, fallen archangels, writhing hiveminds, deformed krakens, and lesser evolved Spatial Fortresses. At least they looked like it, their bulk not up to par with the mechanical monstrosity that Schema chained to his cause.
+
+Obolis crossed his arms, his heartbeat elevating,
+
+"They've even allied with the eldritch. It seems they'd prefer winning to winning well."
+
+I grimaced, "I know an eldritch that helps us. She pulled me out of a tight spot against Yawm, actually. In the end, the enemy of my enemy is a friend." I turned back at the sentient eldritch,
+
+"Even if they are ugly."
+
+Obolis frowned but said nothing. Those around us weren't laughing anymore, the Adair's preparations both intimidating and resourceful. Even those that didn't truly understand Lehesion's strength, they realized that this was going to be a bloodbath. The number of enemies meant that would be the case. It left a sort of vibrant buzz in the air, everyone ready to see something they'd never see again.
+
+This was the kind of battle that would go down in history at the very least, no matter which side came out victorious. The sheer hum of that fact saturated the air around us. It left everyone gazing at an event akin to an incoming hurricane.
+
+This would leave no doubt that the rebellion was not something to dismiss. It was an immeasurable storm, the likes of which we may never see again. The Adair's and the revenants were going to make their last stand here.
+
+And their stand would be carnage given life, a battle cry that echoes across all of Schema's owned space.
+
+As the forces closed, my armor shivered. I stared down at it, and the metal trembled. In the distance, Lehesion lifted his head with the confidence of a celestial. Energy collapsed through his frame, envigorating him with the strength of both the old and the new. He radiated light, a second sun breathing out pure, radiant power.
+
+In a snap, he shot out a telepathic wave. This wave tethered those nearby to his mind, this mental roar absolute. It extended onto Schema's ships and further beyond. When it rolled over our station, my heart sank. His mind was a boundless ocean like an Old One given a body and flesh. Lehesion's voice resounded, everything else quiet and still by comparison,
+
+"So you are the forces that Schema rallies against me? How quaint. I expected a being that many consider omnipotent to muster a force worthy of fear. I see now that I was wrong."
+
+Obolis's hair stood on end. At this moment, we were ants staring at a being beyond us. Those of high status trembled. In their own lives, they were the elite. In this other realm, they were nothing but the tiniest of entities, like drops in an endless ocean. I stood amid this vast sea, and I held onto my aura and mind. I refused to allow this being to send fear through me anymore.
+
+Those around me could not withstand it, however.
+
+Even Obolis shivered. He reached out a shaking hand and clenched it into a fist. It quivered as he murmured,
+
+"You fought him and lived?"
+
+I rolled my shoulders, "On more than one occasion. He was taking it easy on me. I doubt he'll do that here."
+
+Lehesion announced,
+
+"Know this, Schema. This battle shall be the mark I leave upon your history. Long have I waited for an epoch where my talent may truly shine. I was a leviathan trapped in the smallest of ponds. Now I am that behemoth unleashed, a might that shall force gods to tremble and space to thrash. Hear me, one and all."
+
+His noiseless laugh was a battle cry,
+
+"You shall regret making an enemy of me, for I am a god given flesh and bone."
+
+Lehesion's eyes twitched, his pupils dilating. He shook his head, his control being ripped from him. He gasped before Tohtella's voice radiated through his colossal mind,
+
+"I am here to announce our grievances, along with an offer for you to surrender."
+
+No voice returned her call, so she continued.
+
+"We have never been given a place to voice what our real concerns are. This will likely be our only chance, so listen well. The Adair family is a group of psionic revenants. We have gained control of Lehesion, and we have committed grave atrocities against the gialgathens. We would like to apologize for what we have done."
+
+I grimaced, "Oh yeah, a mass genocide can be washed away with a one-sentence apology. Man, if like were that easy."
+
+Tohtella's gestures reflected on Lehesion's face,
+
+"We understand that many of you find our actions unforgivable and horrendous. We wish to let you all know that, we too, think that our chosen path is deplorable. Know this, however - we were given no other alternative for what we've decided to do today."
+
+A massive screen appeared above Lehesion, showing a status. It wasn't blue or red, but golden with black lettering. My eyes widened as Tohtella announced,
+
+"We wish to form a counter alliance to Schema, one known as Elysium. We will be offering any joining planets access to our own system, one that is far gentler and less brutal than Schema's. You will not face level restrictions. You will not be thrown against wolves and watch your loved ones die during the tutorial. Neither will you be enslaved to serve a race that cares nothing about you."
+
+Lehesion's eyes narrowed as Tohtella spoke through him,
+
+"No, we wish to establish a system where the occupants are given the power to kill the eldritch before they are faced against them. Instead of watching over half of dungeon clearers die before they reach level 1,000, we wish for no one to die in a dungeon again. We want to eradicate the eldritch as a threat forever."
+
+They weren't kidding when they said they wanted to start a revolution. Holy shit.
+
+"We will be giving free lessons in psionics to those that will join us. We will be using the eldritch to create the menacing Hybrids you know of. Every man, woman, and child of every race will be given one as a servant to assist with killing the eldritch. The eldritch fear them, and your Hybrid will allow you to conquer dungeons without fear of death."
+
+Everyone around us stood dumbfounded. One member dropped their glass behind us, no one reacting to the sharp squeal of glass shattering. That sound was nothing when compared to what the Adair's were announcing.
+
+"We will do away with the lack of structure and the 'cullings' of Schema's system. We will allow every species to establish control of their own world, and we will ensure that an overarching government will offer support if certain species struggle. This will prevent weaker races from being subjugated into servile roles by better combatants."
+
+Some of the aliens behind me gasped, many of them looking around to gauge everyone else's reactions. Much of what Tohtella said left me flabbergasted. It really was revolutionary, though I didn't want to admit it. She continued,
+
+"Unlike Schema, we will not horde the most effective weapons only to ourselves. We understand that each of you is a competent, able individual. You will be given the necessary technology and weaponry to fight Schema and the eldritch. We will not stop each of you from researching better methods of stopping the eldritch. We have no desire for an endless war with those monsters. We wish for them to follow our laws or be devoured by our Hybrids."
+
+A few enigmatta and other sciency types peered down, affected by Tohtella's words. It looked like I wasn't the only one that noticed Schema's rejection of permanent solutions to the eldritch. The Adairs noted that behavior as well, and they aimed to rectify it.
+
+"Elysium will also ally with eldritch that are non-threatening. These eldritch here have decided to follow our laws, and they have even joined our cause. They too wish for a better future where their hunger can be satiated. It is not endless, and we can work towards a compromise."
+
+Many of the nobles nearby began sweating. An intense wave of cognitive dissonance radiated through those present. I considered allying with the eldritch, but only because I met and knew Hod and Amara. They were both stable, useful allies, and that's really all I asked for. If anything, taking eldritch like Plazia and Baldag-Ruhl would be boons for society in general. Even know, I'd yet to see anyone rival my armor's complexity with the cipher.
+
+Neglecting to consider that possibility was a flaw with Schema's approach. In fact, everything Tohtella mentioned so far was a part of many crippling issues with how Schema ran things. Even I accepted all of it without questioning further, but that was because I couldn't create a better system on my own. Apparently, the Adair family could, though they offered no proof of that outside of a single status. At least not yet.
+
+As if reading my mind, Tohtella expanded a status screen for many of those present in her fleet. These screens popped up above everyone outside of the eldritch lying at the edges of her fleet. Tohtella said,
+
+"This is proof of our system. Lehesion is connected with an endless, overflowing energy source that we can tap into. He is the center of this new system. We used ancient technology from our forefathers and built off those blueprints. Just as the revenants before us created Schema, we've created another, fairer system that recognizes many talents."
+
+Lehesion peered towards the classers in their ships,
+
+"No longer will you deal with archaic, hidden trees, and a lack of transparency. The paths of progression will be outlined for all to see, a true meritocracy where ignorance is a choice, not a given."
+
+Lehesion's eyes narrowed,
+
+"Know that this is a living, breathing system. We are not set in our ways. We wish to hear your voices, and we will do our best to respond to your concerns. Unlike Schema, we will roll frequent patches to the framework to reduce any glitches, unfairness, and to promote system-wide balance across the board."
+
+Lehesion lifted his head, "And most of all, understand this final statement - we do not want war."
+
+Obolis scoffed, "Ah yes, the army made that much obvious."
+
+Tohtella continued,
+
+"We will not force worlds to join us. No other planet or species will be handled as Giess was either. This was a necessary sacrifice we used to establish this new system. We preemptively accrued this army to combat the certain military response Schema would send. He did not respond to our calls for negotiations or recognize us as a state. We knew he would attack the moment we announced ourselves."
+
+From all angles, another vast entity approached. It resonated across all those present, speaking through our status screens.
+
+It was Schema.
+
+"I have heard you and your concerns. I'd recommend organizing on pragmatism rather than idealism the next time you create a rebellion, however. You speak of change, yet you have only enacted a reign of terror and carnage. Your rebellions have resulted in the loss of billions of lives. When I have finished quashing your insurrection, that number may increase to the trillions."
+
+Schema left no physical body, yet he was as present as the stars around us,
+
+"Your actions speak louder than your words, yet even your unrealized vision pales to what I've created. You speak of my system as brutal, yet you neglect to recognize it as effective. We are faced with an endless enemy, one that is a result of a dimension clashing with our own."
+
+Schema's voice stayed steady,
+
+"I give those that fight the ability to fight. I grant those that fend for themselves the ability to fend for themselves. Giving resources to the petulant, lazy, and weak-minded is wasteful. It results in the loss of resources that are finite. Even if you speak of limitless energy, you shall find that granting hundreds of trillions the ability to fight monsters is all but impossible. Inevitably, a certain measure of stringency must be enacted. Otherwise, we will all be eaten."
+
+Schema's tone rose in volume, "Those that rise are given the right to rise further. Your idealogy would grant anyone the ability to murder, thieve, and usurp with a personalized monster. Those very monsters were created by you and your supreme arrogance. The Hybrids, somehow, exceed even the eldritch in their horror."
+
+Schema seethed with disgust,
+
+"You then use those abominations to create alliances with eldritch that have demolished entire societies. Each and every one of those beings has devoured millions of men, women, and children. You ally with them out of desperation, not some shallow sense of justice."
+
+Schema's voice carried quiet anger,
+
+"That is something I've found constant about your insurrection - the collapse of entire societies. You culled a race on Giess to serve your ends. You use those eldritch that feasted on millions. You even pretend you could even fathom what is required to create a galactic society."
+
+Schema spoke with finality,
+
+"You speak of one thing and do another. You want prosperity but unleash calamity. You need change but neglect the cost. There is only one thing you are correct on - I will send an overwhelming military response to your little rebellion. I will rain down fire and scorch every planet that joins you. Every rebel will die, along with their children and everything they've ever owned or created."
+
+Brutal as Schema was, he sounded right to me. Schema continued, his words leaving an impact like leaping in ice water,
+
+"You will perish, and I will remain."
+
+Lehesion lifted his head and let out a quiet laugh, space unable to transfer his hearty chuckling. He stared Schema's fleet down, and Tohtella spoke through him,
+
+"Then know this - you started this war."
+
+Schema's voice echoed,
+
+"And I shall end it. Kill them all."
+
+Schema's fleet went forward, piercing the dark veil of space between the two armies. Lehesion saturated with his golden aura, a tiny blot compared to the looming Spatial Fortress. Lehesion was a distant star when compared to it, but even my crude sense for mana was enough to understand the vast reservoirs of energy within the golden beast.
+
+In the distance from him, many of Schema's vessels engorged with energy, fusion reactors and elemental furnaces revving to their utmost potential. As they unleashed their payloads, Lehesion spread his wings. All hell broke loose, cataclysmic explosions radiating in the distance. Silent yet stunning, masses of ships evaporated in storms of blue and golden fires.
+
+Lehesion let loose a breath of golden light, scorching it through Schema's fleets. Ships exploded in the hundreds, creating cascades of energy and debris. At the center of the A.I.'s fleet, the Spatial Fortress revved into action. The sentient eldritch writhed around the chained behemoth, each of them haunted by their fallen brother. The fortress's eyes widened, the beast awakened from its slumber and its instincts rising.
+
+The many fusion reactors under its skin powered up, and it feasted on the radiation. Its dormancy ended, and its vitality returned. Its movements quickened, no longer lifeless pulses. The entire framed structure shifted into a colossal, squirming mass. It lobbed tentacles covered in graphene and orichalcum at its enemies. These tentacles ripped through the Hybrid fleets. It opened gaping maws across its entire frame, and they shot out colossal waves of energy.
+
+These beams acted as rays of disintegration. It was a beast of cataclysm, designed for bloodshed and built for slaughter. Near it, Hybrids degenerated. Vessels splintered. Even Lehesion struggled to withstand the blasts. The behemoth of a gialgathen retaliated in kind once getting control, blasting through the Spatial Fortress's ray. His beam, though smaller, pierced the eldritch's dispersed bolt.
+
+Lehesion's blast ripped into the side of the fortress, and the gaping maw exploded with nuclear intensity. A debris field siphoned out of the resulting impact. An eighth of the monster's mass was torn apart, its writhing entrails exposed. The sea of organs shot out in bulk, grasping at Hybrids, ships, and sentient eldritch. They fell into the titan's belly, and it reconstituted them into a new mass. Assimilated into the monster, the Spatial Fortress was whole again in an instant.
+
+It was unstoppable.
+
+Its eyes turned towards Lehesion, along with many of the gray, ancient vessels. They prepared attacks to destroy the spearhead of the Adair's forces. As they did, Hybrids attacked the classer's ships, smothering them in living metal. The Fringe Walkers reacted first. From their thick hull, individuals stepped out. The held no reason for protection against space, their own constitutions more than enough for the rigors of space.
+
+These hulking juggernauts launched towards the Hybrids with confidence. Each member created fields of fire, shards of ice, and storms of lightning. They were built to cull hordes, and this shined when faced with an enemy like the Hybrids.
+
+Those that passed them landed on various hulls, tearing into the orichalcum and devouring it. The Breaker's vessel acted second, launching individuals from the many space pods on the ship's surface. They landed on hulls, and power armor laden sentients stepped out.
+
+The Breakers used arcane energy saturated attacks on the Hybrids, muscling past the toughened carapaces of the blighted. They tore through individuals, dispatching one member before moving onto the next. These tactics were ruthless, efficient, and safe; they weren't in this to risk their lives. They were in this battle to take the enemy's own.
+
+The last to act were the Speakers. They sent out dozens of drones that went towards each individual battle and offered support. These robots allowed them to view and dispatch advice through their statuses, saving countless lives. At the same time, they took the wounded and compromised back to their vessel for healing.
+
+This combination of different classes worked well, with each piece handling certain enemy types. Unlike most of the eldritch, however, the Adair family controlled these Hybrids to deadly effect. They retargeted their hordes, aiming at each individual's weak spots.
+
+The smallest of Hybrids assaulted the drones and Breakers. They swarmed without end, drenching the individual members like bees swarming a hive. While commanding overkill kinds of power, the Breakers lacked the tools to suppress this kind of attack. The Fringe Walkers noticed, but they too were stopped by the blighted ones.
+
+These were the converted gialgathens, ridden by revenants with mental suppressive abilities. They swarmed around the immobile juggernauts that were the Fringe Walkers, smothering them with psychic attacks. The Fringe Walkers were mighty, but this wasn't what they were trained to do. Because of that, many of them fell along with the breakers.
+
+On the other end of the conflict, the sentient eldritch attacked the vessels of Schema's chosen. They writhed and swarmed towards their ships, nearing the shielded hulls. Before making contact, swarms of armored Sentinels were released. These powerful guardians ripped through space with their dimensional slicers, suppressing the eldritch.
+
+Unlike before, however, the eldritch were given time to organize and rally. Most people attacked eldritch by surprise, meeting them on their own terms. Without that advantage, the eldritch could often overpower most sentients. That dynamic played out as the Sentinels were overwhelmed by the sheer physicality of these eldritch.
+
+That is, until the Overseers arrived.
+
+These destroyers enacted a wave of obliterating devastation on the eldritch forces. They used antimatter blasts, nuclear explosions, and dimensional slicers of their own against the hiveminds and worms. This variety of weaponry obliterated many of the opposing eldritch, but these monsters were not helpless.
+
+Coming from a desolated dimension, they regenerated on the remains of their enemies. Feasting on corpses, they continued their attack, hundreds dying on both sides. As that fierce battle played out, the most powerful weaponry in Schema's universe charged their munitions. They assaulted the shattered god with absolute destruction.
+
+It was enough energy to leave me dead ten times over. It was the kind of force that would crush moons and leave planets scarred. They used antimatter cannons, arcane energy bolts, and nuclear payloads. These weapons were complete and pure; they required no finesse. The volume of energy they used rivaled the output of stars.
+
+And yet, Lehesion survived.
+
+His golden aura sustained the onslaught, struggle spread over the gialgathen's face as the light of the blasts waned. His eyes widening, Lehesion retaliated once more. He peered upwards, channeling untold amounts of energy. Off in the distance, the star of Giess's solar system waned.
+
+A shiver ran up my spine as an eclipse formed. Whether an illusion or real, the sheer scope of the attack left was monumental. It left only the slightest circle of light ebbing over the battlefield.
+
+Obolis gasped, "He...he truly is a god."
+
+Lehesion released an attack without equal. Energy coursed through him until his body heated to the point ships nearby were melted into a liquid. No, further still. The heat radiated with such intensity the metal shifted states from a liquid to plasma. Massive waves of radiation disabled nearby shuttles on both sides. The bout of energy released an EMP that disabled many of Schema's vessels.
+
+The result was a series of star cores forming around Schema's fleet. As they developed, these spheres condensed into a hyper-dense material. With precision, they bolted towards and through many of the classers' largest ships. They ripped apart the surface of Schema's vessels. Instead of raw energy, he used matter at its densest as a weapon. It resulted in the mass destruction of Schema's fleet.
+
+Or so it seemed.
+
+Many of these ships used elemental furnaces to create some kind of shield. These shields didn't disperse the matter; they devoured it, swallowing the streams of mass without a struggle. I could hardly comprehend how it was possible, but Obolis murmured,
+
+"He's using his spatial manipulation technology as a means of defense. Clever."
+
+I raised an eyebrow, "But how much matter can it hold before its full?"
+
+Obolis smiled, "Time will tell."
+
+The Spatial Fortress used the same defense system, funneling the mass streams into pocket dimensions. Not wanting to wait for another catastrophic attack, the gargantuan eldritch ripped open a side of itself with its own limbs. Raw and exposed, it launched its enormous entrails at Lehesion. It was aiming to engulf him.
+
+These entrails caught fire as they made contact with Lehesion's golden shield, and the gialgathen whipped his tail in classic fashion, just as he did with me. Each collision of his tail sent a shiver up my spine. These strikes mauled anything they came in contact with, the Spatial Fortress no different. As the impacts rippled out, the swings created golden shockwaves that passed through the battlefield.
+
+Lehesion applied they full might of his mind during this moment, aiming these shockwaves against Schema's ships. Plasmic discharges billowed across the battlefield with each tail swipe, hundreds of fighters meeting their end. The Spatial Fortress's eyes widened, and they gazed at Lehesion. The shackled monster put his mind against Lehesion's, and a telepathic war erupted. Lehesion smiled as it did, the Spatial Fortress seizing up.
+
+Lehesion announced so all could hear him,
+
+"And the muzzled dog wishes to fight the chained lion? You are a mass of fused minds. I...I am eternal, a singular force without end. Meet that which is truly immortal, and bask in my aura."
+
+The Spatial Fortress destabilized. Its tentacles writhed out, fracturing nearby vessels. One of these swipes struck one of the gray ships of Schema's fleet. Cracks shot across the entire structure as gravity wells went to stabilize the ship's flight. Carnage spread like a plague. Across all fronts, blood rained down without end.
+
+Each side took massive losses. The classers shot out members to fight Lehesion as he waged a psionic war with the fortress. These classers struggled against the aerial superiority of the blighted ones, their wings equipped to move through space. The sentient eldritch altered their own efforts, aiming to defend Lehesion as he mentally suppressed the Spatial Fortress.
+
+No doubt the Adair family assisted the golden gialgathen with all their telepathic might, the both of them locked in an unseen duel. Schema's forces rallied during this time. They organized portal assaults, letting them sidestep and outmaneuver the enemy. The personalized A.I.'s used gravitational disruption to dismantle the Adair's coordinated forces.
+
+Schema even sent out dozens of Overseers from across the galaxy, gathering more of his resources as mobile artilleries. They pierced many of the Adair's hulls with antimatter blasts. These impacts left no explosions, the ships and Hybrids disappearing into the vast void around them.
+
+Elysium's hope waned as Schema mounted dominance, his army's training showing itself.  Combine that with centuries of accruing resources, and the Adair's hardly held on. Obolis nodded,
+
+"The rebels put up a far better fight than I expected. It was a good show, though it's coming to an end."
+
+I raised an eyebrow, "Huh, I thought they'd do better than this. Guess I was wrong."
+
+As we finished speaking, Lehesion spread his wings. More portals formed behind Schema's fleet. From these warps, blighted sea monsters poured out in droves. Riding these monstrosities, thousands of different species acted as the controlling force behind this new breed of blighted one.
+
+Lehesion growled, "These are the leviathans our kind drove into the depths of Giess's vast seas. They have paid for their history of blood with their own lives, becoming vessels for our purpose. Feel their wrath and fury, along with the unknowns that ride them."
+
+My eyes widened before Obolis fumed, "What are leviathans?"
+
+I grabbed the side of my head, "They were supposed to be some species the gialgathens fought for dominance many, many years ago. I...I didn't actually think they were still around. We never saw them in any of the documents we stole."
+
+Obolis's hair stood on end, "They were hiding an operation of this magnitude from us all? I can't understand it."
+
+Neither could I until I remembered the Adair's underwater base, the one hidden beneath the sludge oceans of Giess. The Adair family showed they could organize an oceanic operation before. Thinking about it, if we stopped one base, why wouldn't they have more? How we didn't find data about their other activities during our raids blew my mind. Obolis shared my surprise as he turned towards those here,
+
+"Prepare the Nebula Drifter to warp. I still hold faith in Schema, but I'd rather we be prepared for the worst should it happen."
+
+Many armed albony across the space viewing room went into action. As they readied this space station to leave, the battle before us reached a boiling point. The leviathans turned the tide of battle, their frames suited for space warfare. These were like gialgathens, but instead of evolving for the sky, they evolved for the deep.
+
+Each leviathan had four fins and a massive tail. A thick, lead-colored shell plated everywhere outside of their joints. Their bodies swelled towards their gaping mouths, and rows of teeth lined their throats. They were like menacing, armored crab sharks. Combine that with red bioluminescent lights ingrained throughout their skin, and they were terrifying. No wonder the gialgathens left the ocean.
+
+These beasts flooded out with the standard augmentations that came from being blighted. Metal traced their skin and flesh. Cords pumped nanomachine laden liquid through their bodies. They even had gravitational constructs of some kind, letting them swim through space.
+
+This new arrival of reinforcements flipped the battle on its head. They tore into the weakened shuttles, feasting on the orichalcum. Each leviathan owned magical abilities, letting them fire torrents of boiling liquid over enemies. This caustic solution ate away at their hulls, exposing the crew to the void around them. As crew members squirmed in space, many decompressed, dispersing into the void around them. It was an ugly sight.
+
+In the middle of this conflict, Lehesion and the Spatial Fortress wrestled with one another. Lehesion overwhelmed the mind of the ancient eldritch, the chained monster squirming in agony. At the same time, the eldritch wrapped itself around Lehesion, attempting to consume him with its mass. The fortress's teeth snapped into the golden gialgathen time and time again, tearing through meat and sinews. The crystallized mana shell that coated Lehesion detonated each time the eldritch sunk its teeth into him. At the same time, the colossal fortress recuperated its injuries by drawing from those nearby. A stalemate formed, each side embroiled in the bitter conflict.
+
+The tide tipped. A stray series of antimatter blasts distracted Lehesion, letting the Spatial Fortress wrap itself around him. Lehesion was swallowed into the monster. The gialgathen ripped and tore through the massive beast engulfing around him. Like a flood, the behemoth poured more and more flesh at its enemy, smothering Lehesion entirely.
+
+The golden beast let out beams of light from within the swarming entrails. The Spatial Fortress held on, continuing its onslaught. Minutes passed before the Spatial Fortress expanded around Lehesion. More and more of its body wrapped around him, and it began assimilating the Shattered God.
+
+Golden spots cropped up from within the eldritch. Its body gorged on the nutritious meat, becoming an unstoppable force amidst the chaos. It let out a chorus of silent laughter from its gaping maws, pure glee painted over its deformed face. It would eat the uneatable.
+
+And yet, a primal being interfered.
+
+From a plane untouched, a dimensional rift shot across all those here. Time stopped. I looked around, able to move while everyone else stood still. I tried shouting at everyone nearby. My voice was silent, the air unable to move so that sound could be heard. It was like I was apart of the battle in space so far away.
+
+I calmed myself down, peering back at the fight. A presence passed over the field of battle, one I was all too familiar with. It violated the fabric of space and time as it peeled itself onto this domain. The ancient, twisted monstrosity touched our dimension, and our dimension quaked. With a hollowed voice, Eonoth voice whispered to Lehesion,
+
+"Little one, you are never left alone in my loving grasp."
+
+From around him, ever-shifting, incomprehensible appendages reached out from nothing. They opened eyes, mouths, and unspeakable terrors. These hollow sights were like a thousand beings existing all at once, like some twisted being that transcended time.
+
+As if taking a deep breath, Eonoth murmured with a sharpened tone,
+
+"You have yet to give me what I wished for. May they feel my voice, and may time shatter under my echo."
+
+Eonoth roared. It was a voice unending, a tremor that would never be made silent. I remained unaffected, but the dimension around me was rendered into a turbulent sea. These waves washed around me, acting as a meat grinder on my frame. My entire body quaked under strain, my blood vessels and my skin erupting.
+
+The space around me caved in. It shook with such violence that it left me liquified into a primordial mush. I retained my consciousness, feeling as if I were out of my body. As quickly as it was stopped, our dimension was unfrozen by the primordial being. Without noticing, time marched forward once more with no one affected by the roar but me.
+
+As the crowd regained their awareness, I was left as a puddle on the floor, a literal pile of mush. I regenerated over the next few seconds, the party members staring at me in horror. I, I think I stared on in horror as well. Once recuperated, my mind snapped back into my head before I blinked a few times.
+
+Feeling sick, I lunged onto one knee. Obolis put a hand on my shoulder,
+
+"Are...are you alright?"
+
+"I...I don't know."
+
+I heaved a few times, wanting to vomit. I had no idea what just happened. Despite being in a daze, I seemed to comprehend more than those around me. The aliens still stared at the battlefield, but now their glances were dumbfounded. I swallowed down my sickness, forcing myself upright and shaking off my wounds. I turned to the fight, and I, like everyone else, was left dumbfounded.
+
+In the distance, Schema's chained eldritch was bulging. In some sickening, bulbous display, it had expanded to several times its previous size. It was as if many Spatial Fortresses were being shoved into the body of the one here. All of them fought for survival, yet their masses crushed one another.
+
+From within, a sort of dimensional implosion throttled the colossal eldritch. It was as if many timelines were collapsing onto this one entity in this one instant. Unable to exist in that hostile moment, the Spatial Fortress erupted in a massive plume of its insides. It splashed out, covering the surroundings in eldritchian blood.
+
+All was quiet. Our eyes stared in abject horror, the Spatial Fortress reduced to broken chunks of meat. No one understood anything. It was the kind of event that left every single soul speechless. From within the mush, a bloodstained gialgathen rose. As Lehesion spread his wings, a wave of golden light passed over the battlefield.
+
+He cleansed the broken fortress, the enormous blood plume turning into a bright flash. Others looked away, but I stared into the light. As it faltered, others gazed back up at the display of absolute strength. The fortress was no more, and only Lehesion remained. His wings spread wide, the beast without equal let out a mighty roar. In its wake, it rippled through time and space. Obolis's hands shook with fear as Lehesion rose from the ashes of battle.
+
+The Shattered God was victorious, and Schema lost.

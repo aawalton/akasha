@@ -1,0 +1,189 @@
+---
+id: 4dd9dcdf-eb9a-5dee-a8b7-bae4176e6b4f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 366 : Splitting and Sharing"
+slug: 0067-chapter-366-splitting-and-sharing
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 67
+ownLength: 2560
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3209230/chapter-366-splitting-and-sharing"
+royalRoadId: "3209230"
+---
+
+Gathering all my [Sub-Cores] took very little effort; the only issue was prying Alpha away from Vanessa, but Sylvain managed to come up with some excuse and appeared fashionably late.
+
+Vee had also tagged along, arriving with Sylbera. She was a vital part of the team, so it was fitting she witnessed whatever was about to happen. Leon didn't show up; evidently, he was pretty spooked by the appearance of Vanessa, and while he enjoyed chatting with Sylvester about enchanting, he was trying to find some correlation with artificing.
+
+I wasn't sure if it mattered or not, but I reconnected myself to the island's slime network. I had been intentionally keeping myself separated and instead holding a few [Sub-Cores] on me for spellcasting assistance. Frankly, if I had the points to spare, I'd buy more [Sub-Cores] right now and fully utilize everything at my disposal.
+
+What I'll probably do is shrink my island coverage a bit, so I can keep a reasonable amount of cores on me at all times. The island shouldn't need too much processing power, whereas if I'm in battle with a big monster, or more accurately a dungeon, I'll need a lot more firepower.
+
+I was actually considering taking the whole network with me and then splitting up inside the dungeon. That way, we could conquer it from two directions, and more if Vee or Leon joined in on the fun.
+
+But that's for later; it's upgrade time!
+
+I informed the group that I was making the purchase and then turned off the [Roleplay] skill for each persona. I then opened my profile and initiated the process again.
+
+<Spend 1 Skill Point to Tier Up [Roleplay LV MAX]?>
+
+Do it!
+
+<[Roleplay LV MAX] becomes [Split Personality LV 1]. Skill Points Remaining: 10.>
+
+As the new ability installed itself into my mind, I was expecting more dramatic changes from something that was potentially of higher quality than I'd ever gained before. Perhaps I'd just been blown away by all the information I'd been receiving from [Skill Deconstruct], so everything else felt small in comparison.
+
+"Start with Sylbera," Vee insisted.
+
+Vee had clearly grown fond of her little helper, so I nodded in agreement. But rather than having Beta activate the skill, I activated it myself, since I figured I would need to make some executive decisions to handle the distribution.
+
+I was greeted by a system interface that let me manage my different personas, and to my relief, everyone had transferred over during the skill upgrade. When I opened Sylbera's profile, I found a new section that looked almost identical to my own, except it was empty and clearly lacked a section for race and traits. Strangely enough, it did have a section for Emblems, and several of my own Emblems were there as well.
+
+So they really can develop their own skills… And apparently Emblems too?
+
+I was very curious about what this involved. Did we share the Emblems? Could they earn them on their own without me? Can we have different Emblems active? If that last one was the case, is there anything preventing us from having the same Emblem active?
+
+Very interesting…
+
+At this point, I started interacting with it a bit more and quickly found out how to donate skills to the persona. I instantly threw every single forging skill over to her, as I certainly didn't need them. I thought my job was done, but then I noticed, strangely, that I could also give her some of my classes.
+
+Now I was very curious, and I had the class crystal delivered to me via [Core Storage]. Once it arrived, I activated it, looked through my class options, then stopped. Next, I gave the two blacksmithing classes to Sylbera. It was also a simple process, with the system presumably handling all the heavy lifting behind the scenes. Then I rechecked the crystal, and found that all my options from blacksmithing were gone—I would need to retake apprentice from level one if I wanted to continue.
+
+My mind raced with questions, but I held them back for now. I had Beta activate the skill for usage rather than maintenance and assume the persona of Sylbera. The dwarven slime statue suddenly sprang back to life, and she looked very much alive.
+
+"You're back!" Vee cheered happily.
+
+"Yes, I'm back, Mistress Vee," Sylbera replied.
+
+"Hmm… I can't say I notice any difference right now," Vee said. "But maybe that will change over time?"
+
+I was a little shocked to hear that. Vee didn't notice any difference? To me, they felt like night and day. Before, Sylbera or any of the personas had felt like one of my arms, yet now, it was like that arm had been chopped off and allowed to roam free. The connection between us was very faint, and if I didn't focus hard enough, I could even ignore it altogether.
+
+Well, I don't want to be directly involved in controlling their activities, so this works out better. Plus, now I don't feel like I'm weirdly talking to myself.
+
+I suddenly wondered if this was why the skill had such an ominous feeling and the warnings attached to it. If your personas no longer felt like you, wasn't the opposite also true? If they forgot their origin, then what was stopping them from never returning?
+
+Thankfully, that doesn't apply to me. I'm still the slime core in charge, and as long as I don't use the skill directly, there shouldn't be any repercussions.
+
+What made me feel confident in my reasoning was that while I couldn't sense Sylbera as one of my arms anymore, I could still very much feel Beta. Thus, I still had the option to fully exert my dominance as the primary core over any and all [Sub-Cores].
+
+"How do you feel?" I asked Sylbera.
+
+"I feel…" Sylbera began speaking, then paused to think. "Weaker for one thing. I'm missing a lot of the skills I had grown used to, especially in terms of magic. In fact, if not for my Mana reserves still being plentiful, I'd say I've lost all of my magical bonuses."
+
+"Your magical bonuses?" I asked.
+
+"Well, I don't have any spellcasting classes right now," Sylbera pointed out.
+
+Realization struck me; it was something I had overlooked for a long time. While your class might easily change, the journey you traveled was not lost. I vaguely recalled either Lisa or Tabitha explaining this, and it was one of the reasons why people didn't try to branch out into too many different classes. If you were going to be a warrior, then having some bonus attributes in spellcasting would be utterly useless to you.
+
+This actually brought me back to an earlier question I had moments ago, but paused it to bring Sylbera back to life before Vee got antsy…
+
+Does giving away class levels free up the burden on my soul?
+
+The way Sylbera described it, it certainly felt like that might be the case; otherwise, why else would she be so negatively affected by the separation?
+
+She gets maybe half of my skill levels, but she doesn't get half of my class bonuses?
+
+Now I was very curious, and I couldn't help bringing up the interface again. Another question I had was answered when I found I could still interact with it even while Sylbera was "alive," and I began poking and prodding it to see if I could find any other features.
+
+I would have loved to have given Sylbera my Elementalist class, especially if it freed up the burden on my soul. Doing that would potentially mean easier Riftmancer levels, but I didn't want to risk losing the hidden attributes I had gained from leveling up not only an advanced class, but also a rare one.
+
+No doubt it has better bonuses than any average advanced class. Look at those two chumps who tried to pull one over on me back at that dungeon; they had common advanced classes, and I could still easily overpower them with my own advanced class despite the much lower level.
+
+Since Elementalist was out of the question, I wanted to see if I could give her my levels in Mage or Sorcerer, and when I tried to do so, I discovered something a little surprising. When I'd given Sylbera the blacksmith classes, I had just thrown everything at her, but now that I was trying to finesse things, I noticed I could control the amount!
+
+Could I give her one level in Elementalist?
+
+If it were one level, I wouldn't mind, as I had technically wanted to end my journey at thirty and overshot it. However, when I tried to do so, the system berated me for trying to grant an advanced class before an intermediate one.
+
+So she needs a foundation… Would one level of each be enough?
+
+I did precisely that, giving Sylbera one level in Mage and then trying Sorcerer, which shockingly worked. I wasn't sure if the restrictions were looser for personas, but this was a revolutionary discovery.
+
+"Is everything okay? You've got a bit of a manic look in your eyes…" Vee said, breaking what must have been an awkward silence as I delved deeper than I had intended.
+
+I coughed awkwardly. "Sorry, I found out that I can donate portions of classes and am trying to fix Sylbera's magic."
+
+"Oh! Sorry for interrupting then," Vee apologized. "Does that work for skills, too?"
+
+I went silent. I realized that just like with her blacksmith class, I had thrown everything at her. I looked through my skill list and wondered what I wouldn't mind giving a level in, if possible.
+
+The first thing that came to mind was [Elemental Praxis], as without it, she would be severely hampered with her magic and her formation of a pseudo-affinity. I tried it, but ran into the error that she lacked the class. I chuckled at my mistake and quickly granted her one level of Elementalist, then tried again—it worked!
+
+"It does…" I replied.
+
+Vee and Sylbera both looked delighted, especially the latter as she'd just regained a considerable portion of her previous power with only a few minor actions from me.
+
+Losing a level in [Elemental Praxis] is a bummer, but I'm sure I can regain it with a bit of effort on my part.
+
+I held back on cutting off too many of my skills, as I didn't want to weaken myself too much, even if it was only temporary. Especially since I still had more personas I needed to activate.
+
+Now the big question… Do I only get one per level?
+
+I really hoped this wasn't the case, otherwise we would be in a sticky situation with Vanessa. I had Alpha activate the skill, and to my relief, Sylvain returned.
+
+Sylvain frowned. "I feel… Weaker."
+
+"You get used to it," Sylbera said with a sympathetic smile. "Hopefully, Master will donate some resources to you."
+
+Sylvain looked at me, anticipation flickering in his eyes. While he was loyal to me thanks to some additions we'd made to smooth out Vee's master plan, he lacked the fanaticism that Sylbera had. I sighed and brought up the interface again, wondering what I could give him.
+
+Sylbera is more focused on crafting, with the occasional combat. But Sylvain is supposed to be a defender, not to mention he needs to be able to keep Vanessa in check, just in case she goes crazy, so I can't skimp out on him.
+
+With that in mind, I gave him five mage levels, five sorcerer levels, and one elementalist level. My hope was that he would go on to develop the Elementalist class, or perhaps even officially go down the route of Aeromancer and Hydromancer.
+
+Perhaps he can find an advanced version that combines the two?
+
+I wasn't sure, but I was going to leave it up to him. At the same time, even though it broke my heart, I gave him one level in [Elemental Praxis], dropping it down to level four. Since he only had combat going for him, I also gave him one level in a few other skills, such as [Aerial Finesse], [Aquatic Finesse], [Elemental Step (Basic)], and [Magical Overcharge].
+
+"Are you not going to give me [Mana Weaving]?" Sylvain asked.
+
+Well, he's awfully forward…
+
+I shook my head. "It takes far too long to level up. You can access it from me, and you should be able to learn it yourself with the bonuses from [Untapped Potential]."
+
+"I wonder if [Companion Training] works on them?" Vee suddenly asked.
+
+I looked at the two personas and tilted my head curiously. While it would be amazing if true, I didn't think the system viewed them that way.
+
+"Maybe I should teach Sylbera how to use [Mana Shaping] instead," Vee snickered.
+
+"That doesn't sound like a bad idea," I replied.
+
+Vee suddenly shut up; perhaps she hadn't expected me to agree to her jest.
+
+"I'll... Work on it," she replied half-heartedly.
+
+With Sylvain partially kitted out, I attempted to activate Sylvester next. Unfortunately, it looked like I was nearing the limits of what I could achieve at level one, as he immediately looked pained.
+
+"I feel like I'm barely awake…" Sylvester said with a dull, almost slurred tone.
+
+Thankfully, there were no repercussions for Sylbera or Sylvain, but it looked like I would need another level as soon as possible if I wanted additional active personas.
+
+I sighed and deactivated him for now, not wanting to torture him with such a horrible existence. This also meant that Princess Sylthaeryn Feirelle was not in the cards right now, much to Vee's disappointment.
+
+But, before I dismissed everyone and returned to my dimensional shenanigans, I had one more thing to test out. I threw out a core and had it also attempt to take on the Sylbera personality, and to all of our surprise, it actually worked!
+
+The two Sylberas blinked at one another and frowned before shaking their heads in unison.
+
+"This feels," Sylbera One began speaking.
+
+"Very weird," Sylbera Two finished speaking.
+
+The two frowned even more. I pulled the [Sub-Core], emulating the second Sylbera inside my [Core Storage] and turned to the original.
+
+"How about now?" I asked.
+
+"Much better, thank you, Master," Sylbera said with a bow.
+
+I quickly threw some questions at her, and the experience was very much like seeing double, except at a weirdly delayed sync. Effectively, both Sylberas were sending each other their memories, but with a delay, causing them notable discomfort. However, within my [Core Storage], time progressed in a strange state of partial stasis, so the adverse effect didn't occur.
+
+This means that even if I give my enchanting skills to Sylvester, I can just have a [Sub-Core] inside [Core Storage] doing the job for me…
+
+I was very delighted. Also, it was great that, even though I could only have two different personas active at once, there didn't seem to be a downside to having multiple of the same one, provided they could handle the double vision.
+
+This might work out extremely well… Also, I wonder if giving up levels like this would let me use [Apex Hunter] again?
+
+A devious grin spread across my face. I might have just found a solution to one of my point-related problems.

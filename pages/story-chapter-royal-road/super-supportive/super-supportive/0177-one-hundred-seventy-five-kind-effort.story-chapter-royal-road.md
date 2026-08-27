@@ -1,0 +1,493 @@
+---
+id: f495f9a9-fca3-5d7d-bfe0-123c98e3e89f
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED SEVENTY-FIVE: Kind Effort"
+slug: 0177-one-hundred-seventy-five-kind-effort
+partOf: super-supportive
+position: 177
+ownLength: 4962
+unit: words
+publishedAt: 2024-10-14
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1849289/one-hundred-seventy-five-kind-effort"
+royalRoadId: "1849289"
+---
+
+175
+
+******
+
+The call came late in the morning, and if it had been almost anyone else, Alden would have ignored it.
+
+The auriad flashlight spell was an astounding work of art. The way the author had drawn the first joints of the fourth fingers in the second to last instructional diagram showed so much attention to precision and…
+
+And Evul-art’h’s name was in front of his eyes, blocking that diagram.
+
+He dropped the indigo loop, shook the tangles out, and shoved it all the way up his arm.
+
+“System, the books need to go back to stor—”
+
+He gave it credit for not even making him finish the sentence. He stared at the place where his spellbook had been, then knelt a little straighter on his cushion before he answered the call.
+
+Stuart was in his bedroom at the Rapport. Once again, his sister wasn’t present even though she must have made the call happen. Alden wondered if Evul-art’h was busy, or if during the family negotiations Stuart had somehow arranged their communication situation more to his own liking.
+
+I may never again see him squashed under the lounger pillows.
+
+“Hi,” said Alden, pulling the earring out of his lobe. “It’s good to talk to you again so soon.”
+
+“You were wearing Olorn Mom’s earring!” Stuart’s face and tone were thrilled.
+
+“I would wear it all the time if I could,” Alden said seriously. “All the time. You have to thank her for me. My brain loves this thing. I want to give it all my blood.”
+
+Stuart beamed. “I have welcome news. Healer Yenu-pezth has agreed to a meeting with you.”
+
+Alden swallowed. “That is welcome news.”
+
+“It will be Monday,” said Stuart. “You’ll walk with her in a place that eases the mind and discuss what you want to better about yourself with her help. She will tell you her methods, your options, ask about worries you might have—the same things we talked about before you left here but in more detail.”
+
+“Monday.” That was a whole weekend away, so it was ridiculous that his thoughts were whirling like Stuart had just told him he’d be teleported to the mind healer in the next two seconds.
+
+“Are you kneeling by a toilet?”
+
+Alden looked to his left. “Yes.”
+
+“On your cushion? Wearing the earring?” Stuart was regarding him curiously. “Are you studying the toilet?”
+
+It was true that Alden had no obvious learning materials since he’d hidden them away. Still, dude…
+
+“I’m not wasting your mom’s gift on the plumbing,” he said. “I was watching a science lecture.”
+
+Before I started practicing my new light spell.
+
+“But why are you learning beside a toilet? Is it a human custom?”
+
+Alden smiled. “Yes. It symbolizes the removal of shitty ideas from our brains.”
+
+“…I understand.” Stuart nodded graciously. “The custom is a little unusual, from an Artonan perspective, but if it is—”
+
+The sound of Alden’s laughter echoing through the bathroom cut him off.
+
+Stuart gasped. “You liar!”
+
+“It was a joke!”
+
+“It’s too strange to be a joke!”
+
+Alden finished cackling, then leaned over to grab a wad of toilet paper and dab at his eyes. “I’m studying in here because it’s peaceful and private. There’s nothing that strange about it.”
+
+Stuart’s face said he disagreed.
+
+Better change the subject before he decides he’s made a mistake with his friend choice.
+
+“You’re home at an unusual time.” He could hear the clatter of ryeh-b’t claw blunts on the floor, even though Other Alden wasn’t in view. Stuart was at his desk, wearing the sleeveless black shirt that seemed to be a standard underlayer for his LeafSong uniform.
+
+“Emban,” he explained. “I agreed to serve as her votary for a while. I’m still attending classes, but I’m coming back here at every opportunity to make it obvious I’m available if she needs something.”
+
+“That’s a lot of teleporting.”
+
+“It is. After I understand how she’s feeling, I might change the arrangement. Right now, she doesn’t seem to want company.” There was a shadow of something that might have been worry in his voice.
+
+Emban-art’h. Definer of Grooves.
+
+Has she affixed again? Alden thought he’d caught a couple of hints during his stay that she was about to do it.
+
+“Did she just…is there anything I can do to help?” he asked.
+
+“To help me with Emban?” Stuart’s brows quirked.
+
+Alden scratched the back of his neck. “I don’t know what I think I could do. But if you want something preserved or if she wants to call a friendly alien and talk in the middle of the night….”
+
+Sometimes you really need a friendly alien to call and talk to you in the middle of the night.
+
+“Or something like that,” he concluded. “I’m available.”
+
+“I will tell her you offered,” Stuart said. “Maybe <<kind effort>> will turn the <<corners of the mouth>>.”
+
+Alden wasn’t familiar with that saying, but he was impressed they had a specific word just for the corners of the mouth. “I hope she—”
+
+“It should also make her feel an adequate amount of guilt for talking about how you didn’t seem interesting enough for the amount of <<turbulence>> in the house.”
+
+Alden blinked. “Emban-art’h thinks I’m not interesting?”
+
+“Not interesting enough to be the cause of turbulence,” Stuart said.
+
+“Did she expect me to be more interesting in a good way or a bad way?”
+
+“I shouldn’t have mentioned it,” said Stuart. “Please don’t worry over it or feel offended. I think Emban was more focused on our family’s reaction to you than on your behavior.”
+
+“I’m not offended,” said Alden, tossing the toilet paper at the trashcan in the corner. “Sometimes I think I could happily live my whole life without being interesting.”
+
+There was a crashing sound, and Stuart dove for a cup just before it fell off the edge of his desk.
+
+“Other Alden doesn’t feel the same way,” he grumbled while his fingers dripped what looked like grain tea.
+
+******
+
+******
+
+“Hey, guys,” said Alden. “Are either of you free for the next three hours?”
+
+He’d just finished with Stuart, and after barely resisting the urge to stick his earring back in and forget the world, he’d called Boe and Jeremy.
+
+“I’m free for two and a half,” said Jeremy. He was playing a video game in his room. Badly, since he had a turkey, dressing, and cranberry sauce sandwich in one hand. “Kimberly’s family is buying her a car this afternoon, and I’m going along for the final test drive.”
+
+“Car shopping?” asked Alden. “What’s she getting?”
+
+“Black Friday deal on a lightly used Volkswagen Beetle.”
+
+“And I’m doing nothing,” said Boe. He was in the kitchen at home, and he was eating, too. But his lunch was spoonfuls of peanut butter straight out of the jar. “Unless catching up on all the anime episodes I’ve missed counts as something.”
+
+“It doesn’t,” Jeremy and Alden said together.
+
+Boe flipped them off. “What are we doing for three hours? And why does it involve you sitting on the floor by the toilet?”
+
+“Nobody appreciates my study nook.” Alden stood up. “I’m going to pay back a wordchain—one that has the potential to make me an anxious, miserable wreck.”
+
+The double Peace of Mind debt was weighing on him.
+
+“You want us to watch you be a miserable wreck for three hours?” Boe asked. “Are you sure that’s—”
+
+“No. I want you to distract me so that I don’t become a miserable wreck. Please ignore me if I seem tense while we spend all of the apology money the Artonan ambassador, who is a creep, gave me last night.”
+
+“Yes,” said Jeremy, perking up. “Finally. You’re going to take my advice and buy—!”
+
+“Not a luxury penthouse,” said Alden. “I don’t know what one costs, but I know I’m not spending that much.”
+
+“Then maybe—”
+
+“I don’t think a motorcycle is ideal right now either.”
+
+“How much money will we be spending?” Boe asked.
+
+“Three hundred thousand argold.”
+
+Jeremy started choking on his sandwich.
+
+Boe shoved up his glasses. He was smiling, but in a way that said he couldn’t believe what he was hearing. “You want us to help you blow almost a million dollars in three hours? Don’t you think that’s slightly too expensive for an anti-anxiety measure?”
+
+“Bash-nor told me I should spend it to ‘warm my mood’, and he called me a poor little ryeh-b’t surrounded by monsters before showing off a very lethal looking spell. My first idea for spending his money was to buy several hundred thousand cheap toy rabbits so that I could have a helicopter drop them on his head.”
+
+“No,” said Boe.
+
+“During a press conference.”
+
+“Fine, you self-destructive dumbass. Let’s spend a million dollars.”
+
+Alden paced the room, enjoying Jeremy’s guffaws and Boe’s snarking at every new money blowing idea that was suggested. The bad half of Peace of Mind hit hard, but the company and the entertainment kept it from accelerating as much as it would have.
+
+When he fretted over his Opposite stone not blinking back, he was distracted by a picture Jeremy sent him of a terrifying Easter bunny suit that cost fifteen thousand dollars. He couldn’t express half of his fears aloud, but if he got too quiet for too long one of them always came through. With the bunny suit, an Irish castle he would never be able to visit, or a cat tower so large he’d have to take all the furniture and the bromeliad out of the living room in his dorm apartment to fit it in.
+
+The absurd suggestions were interspersed with more serious ones, and finally Alden decided to be serious.
+
+“Let’s give it to charity. Most of it can go to ones we like, and maybe a little can go to one Bash-nor would hate if he ever knew.”
+
+“Okay. What charities do you like?” Boe asked.
+
+“Not that one Jeremy found earlier.”
+
+“What have you got against Giant Wolves for Illinois?” Jeremy asked.
+
+“If it was giant wombats…oh! Boe, does the zoo take donations?”
+
+“I’ll check.”
+
+It was so much money, and it was so exciting to make a list of recipients. They were playing that “what if I had a million bucks” game you never really thought you’d get to play. And the three of them were still having fun researching organizations while Jeremy rode shotgun in Kimberly Martinez’s future car.
+
+“You’re supposed to be paying attention to the car,” Alden said, laughing as Jeremy completely ignored his girlfriend’s questions about whether or not he heard a rattle coming from the backseat.
+
+“Alden!” Kimberly called. “If it was me, I’d get a hundred thousand dollars in cash. Stick it in twenty envelopes and pass them out to people who I saw being good people. Like a random act of kindness for the randomly kind.”
+
+“That sounds like so much fun. But you really need to be paying attention to your car, too. We’re going to cut you guys off.”
+
+“No!” the two of them said at the same time.
+
+“You could donate to One Hundred Percent Swim,” said Jeremy. “Join Skiff in making sure Chicagoans are water-ready.”
+
+“You could buy enough pizzas for…” Kimberly checked the rearview mirror. “Was that a red light?”
+
+“I think it was yellow,” said Jeremy.
+
+“Bye, you two,” Alden said firmly. “Text me more ideas when the car is stopped, and it’s impossible for you to cause an accident.”
+
+He hung up on Jeremy.
+
+“The random cash for random kindness really does sound cool,” he said. “Do you guys want to do that?”
+
+“Us? You’re the one making the donations.” Boe’s hand was propped on his chin while he scrolled websites.
+
+“Yes. But that doesn’t mean you can’t be my good deed minions. I like the idea of all of us doing it together.”
+
+“I wouldn’t mind that. How do you feel about an organization that hires wizards to remove invasive species?”
+
+“I’m sure that’s useful, but it’s not really my thing.”
+
+He heard his friend’s fingers clicking a few more times.
+
+“Your Peace of Mind is over,” Boe noted.
+
+“You can tell?”
+
+“Yes.”
+
+“Empath confirmed.”
+
+“More like overly familiar with you confirmed,” Boe said. “Are you sure you want to do this with your windfall? Just because it comes from someone you don’t like doesn’t mean you have to rush to get it out of your account.”
+
+“I’m completely sure. If you wanted to change my mind, you should have brought it up before you told me I could pay to have all of our names engraved on that bench that always smells disgusting.”
+
+“Technically, your donation pays for public park improvements. Your reward is the plaque on the bench.”
+
+“Me, you, and Jeremy—on the stench bench forever.”
+
+Boe looked at him. “Yeah, it seems worthwhile to me, too.”
+
+Alden sat down on the edge of the bed. “I’m going back to Artona I on Monday.”
+
+There was a pause.
+
+“Why?” Boe’s voice held a note Alden recognized.
+
+Prepped to argue.
+
+Arguing about the trip to the mind healer would be risky right now. Alden had decided to do it, but his nerves didn’t need a dose of Boe’s cleverly verbalized doubt dumped on them.
+
+“I’ll be seeing Stuart,” he said.
+
+“You’re traveling between planets to see the wizard friend twice in one week?”
+
+“It only sounds extreme. Really, it’s easier than taking the ‘L.’”
+
+They both watched each other. After a minute, Alden decided to change the subject himself. “I’m going to practice propelling rocks at high rates of speed today in gym. Or maybe temper spheres. Haven’t decided.”
+
+“Rocks,” said Boe. “Obviously.”
+
+“But temper spheres are invisible. It’s very Avowed.”
+
+“Save the expensive ammo for when you actually know what you’re doing. How are you propelling the rocks anyway?”
+
+“Sling. Maybe catapult. Few other things.”
+
+Boe snorted.
+
+“What?”
+
+“You went to the advanced superhero school to learn medieval weaponry.”
+
+“Don’t knock it until I’ve tried it.”
+
+“Pre-medieval. When was the sling invented?”
+
+******
+
+******
+
+Alden made an effort to get to the MPE building early, hoping that he’d be able to talk to a faculty member about his likely absence on Monday. The healer Stuart was introducing him to was someone for whom you cleared your schedule, so he wouldn’t be asking for a different appointment or rushing through the one he’d been given.
+
+Still kind of awkward, he thought, shifting his duffel bag to the other shoulder as he headed through the front doors. Informing them I might be taking time off to work on my mental health after I stridently refused their suggestion that I take some time off to work on my mental health.
+
+Stuart and the Artona I kernel were just better at persuading people. That was all.
+
+Maybe I don’t even have to tell them why I’ll be gone. “Because of the aliens” was a fantastic excuse for an Avowed and one that didn’t necessarily need a lot of follow-up explanations.
+
+Alden wasn’t surprised to see students practicing on the floor when he entered the gymnasium. It was only empty during the periods between classes when it was being set up for the next group. But he was surprised by the number of teenagers watching from the bleachers, and he was a little put-out that they were all still there when he came back wearing his gym suit. After getting dressed, he’d dawdled on purpose, taking a walk down the halls, checking the contents of a vending machine, and reading a “thank you” form letter from The Capeless Brave, a multinational organization that provided funds to the families of emergency responders and aid workers who were killed or injured on the job.
+
+He’d definitely delayed for long enough.
+
+Usually, this more advanced class would all have headed to the locker rooms by now, and the faculty for his own group would be in here prepping for them. Dueling doesn’t have as much prep I guess.
+
+He watched the class for a couple of minutes, trying to figure out why so many people—most of them wearing uniforms that marked them as students from the other two CNH programs—were observing right now. It didn’t seem like a special event, just a general combat class, playing a violent version of capture-the-flag.
+
+“Look. Look, you two! That’s him. The Matadero guy.”
+
+The excited whisper came from behind Alden, and he looked around to see two girls and a boy, all with the words “Anesidoran Forever” written on one cheek with face paint.
+
+“Did they like it?” one of the girls asked, taking a step toward him.
+
+“What?”
+
+“The wizards!” she said. “Did they like all the food?”
+
+“Yes. Everyone seemed to have a really good time.”
+
+“I offered to paint some of the vegetables for the cornucopia, but that Juniper first year wouldn’t let me,” said the other girl.
+
+“Jupiter. Sorry about that.”
+
+“I have a grandmother who was born in Trenton, New Jersey,” said the boy.
+
+Alden had to think about that for a second. Maybe…he’s trying to tell me he has a special connection to the holiday, or to me, by virtue of being one quarter former-American?
+
+“Cool,” he said. “Nice to meet you all. Sorry, though. I’ve got to go to—” No, don’t tell them where you’re going. What if they want to follow you and ask questions about the cube? “—to a place and get ready for my class. It’s starting soon.”
+
+He hurried away. When he was sure they weren’t watching, he ducked into the storage room under the bleachers. Relieved to find it free from curious observers, he started preparing some options for the evening’s duels while simultaneously monitoring his most recent messages to make sure there hadn’t been any problems with his donations.
+
+Giving away nearly a million dollars wasn’t something he did every day, and he felt nervous about transferring such large quantities of money. Like he might have typed the numbers in wrong even though he’d quadruple checked every one.
+
+The Capeless Brave’s form letter had the amount listed, but the donation he’d made to improve Anesidora’s teleportation infrastructure had just instantly vanished with no follow-up letter or anything. That made him worry that the sixty-five thousand argold hadn’t gone to the right project.
+
+It was my largest donation, too.
+
+Infrastructure meant easier teleports, which meant less stress for the Earth System, which meant Alden felt like he was paying to make sure the thing never malfunctioned. Easier teleportation was also good for a hundred other reasons.
+
+Maybe I should call them and ask them to confirm it, he thought while he laid a dozen small bags—now emptied of dried lavender and filled with gravel—against a length of paracord he’d put on the floor.
+
+As far as Chicago charities, he’d donated to the zoos in memory of his parents, and to the parks department for the bench. He’d given some to Skiff’s free swim lessons program, too, since he found himself far more respectful of water safety a week after his own near drowning.
+
+He’d also set money aside for Kimberly’s cash envelope idea.
+
+On Anesidora, he’d anonymously sent fifteen thousand argold to an organization in F-city that provided classes to low ranks who wanted to level. And he’d bought gift cards for self-defense schools and firing ranges. A lot of them. He was donating most of them to The Warren. They definitely wouldn’t be the most popular freebies in Rabbit intake, but Alden would have the pleasure of imagining some future unlucky Rabbit getting a commendation for shooting a demon with the training he’d paid for.
+
+Thus annoying Bash-nor.
+
+Long, longterm revenge. But still satisfying.
+
+And, finally, there was the birthing center in Nashville. They’d already emailed to set up a call so they could see him face to face and tell him how his generosity would make a difference. He was thinking of saying ‘no thank you,’ out of cowardice. He didn’t want someone to tell him how much trouble the sudden, wizard-ordered dirt and tree removal had been.
+
+He placed his last gravel bag against the cord. Well, it looks interesting.
+
+If nobody objected to him trying out this particular weapon, then he would probably do a couple of different versions of it to get the hang of it. The first challenge he was giving himself was just trying to preserve all of the individual sachet bags and the cord as a “stack” while ignoring the gravel. A perception game, like doing just the outside of the suitcase, only a little harder because of the number of sachets.
+
+Once he got that part right, he’d try the basic catapult with it.
+
+Stand at my end of the dueling block, and swing it. When I drop preservation, the gravel pouches should go flying, but I’ll still have the cord itself entrusted to me.
+
+He tied another set of empty bags to the cord by their handles. If his opponent was just sitting around at the other end of the block for some reason he might get a chance for a re-load. Unlikely, but why not prep for it?
+
+The really cool thing would be if I could drop preservation from just one gravel pouch at a time. For multiple shots with no reloading. I’m not sure that would work, but I should try it some other time. Today, I’ll try a sling for—
+
+“You’re here earlier than usual.”
+
+Alden looked up from his project and saw that Max had just come into the storage room. The Adjuster hadn’t changed out of his school uniform yet, and he was carrying a small gym bag with the name of his old high school printed on it. The uniform made him look even taller than usual.
+
+“I didn’t have other classes,” said Alden. “Not in-person ones anyway. So all I had to do was recover from Thanksgiving and then fly over.”
+
+Max looked at the makeshift catapult, then examined a few other, pre-assembled rock-flinging options Alden had pulled out of his duffel bag. “You know how hard it’s going to be to hit the Goliaths in the forehead, don’t you?”
+
+“The forehead? I’m just happy to hit them at all right now.”
+
+Max stepped over to examine a pair of rather imperfect slings Alden had made for himself before leaving Matadero. They were lying on top of a stack of mats. He poked the longer one with a finger.
+
+“What’s with you and the Artonans?” he asked.
+
+Blunt.
+
+“I’m sure you really were seeing a healer at the cube. But they wouldn’t usually keep you as long as they have, would they? And the early teleport off the bridge…”
+
+Alden dragged his duffel bag toward him and started looking through it for other options. “You know,” he said, “it’s really nobody’s business but mine.”
+
+“That’s what you’re going to tell everyone?” Max asked.
+
+“No.” He pretended to be totally focused on the spool of thread he’d just found. “I’m going to tell them I have a commendation from a hn’tyon I met on Thegund.”
+
+Alden had time to make a crappy thread net that would hold a temper sphere before Max spoke again.
+
+“That explains a lot of things.”
+
+Alden decided not to ask which particular things he was thinking of.
+
+“I know what I want for my favor.”
+
+One of the favors from Kon’s party. Finally coming due. Alden looked up. “What is it?”
+
+“Beat Winston with the fishing line again.”
+
+“That’s not the spirit of the offer.” Alden frowned at him. “It’s supposed to be a chore with our powers.”
+
+“It matches the description well enough.”
+
+Alden didn’t really think it did. Technically, preserving a piece of fishing line was a small, non-dangerous magical favor, but that wasn’t what Kon had meant when he’d announced the rules of the game.
+
+Max rolled his eyes. “I’m not asking you to shorten him at the neck on his way to the bathroom one day. Just wait until the opportunity presents itself during one of your duels. Actually, you don’t even have to use the fishing line. I just want you to try to beat him in any way you can at a moment when you’re already supposed to be fighting him.”
+
+“What makes you think I wouldn’t anyway?” Alden asked.
+
+“You almost never try to beat people.”
+
+“That’s not exactly—”
+
+“You prefer experiments to victory. It’s very sane of you. You’ve already got six different ways to use your skill for throwing rocks that you want to try out today, and that’s with them limiting what tools you can use.” He touched the sling again. “But that means the next time you fight Winston you’ll probably be busy figuring out how your skill enhances your ability to use a surujin or you’ll be trying version number eighteen of that basket on a stick you made on Wednesday.”
+
+I need to look up what a surujin is. “It’s for Reinhard. I’m going to tangle him up and then flip him like a pancake.”
+
+Max’s lips pursed.
+
+“It’s going to work.”
+
+“Anyway…” Max said. “I’m just asking you to focus on winning against Winston instead of learning from him. One more time.”
+
+Alden sighed. “Fine. I want to beat him anyway after that crap he pulled yesterday.”
+
+“You do now. They’re not going to pair you two up today, though. They’ll give you both time to cool off. Winston will just simmer in resentment, but you’ll actually go back to ignoring him.”
+
+Maybe. I’m still feeling a little vengeful.
+
+He’d avoided looking at social media all day because if Winston was talking out of his ass about Esh-erdi again…
+
+“I’ll make an effort,” he confirmed. “But no promises on my success. Why do you want me to do it, though?”
+
+Max had very obvious problems with Winston. And as pissed as he’d been yesterday, Alden still hadn’t missed Winston’s public proclamation that Alden was the best B-rank in their class.
+
+But Alden was sure Max would rather beat the Speed Brute himself. It wasn’t impossible with his traps. He just needed to wait for the right circumstances to crop up.
+
+“I want him out of my apartment,” said Max. “Among other things.”
+
+Alden felt his eyebrows lift. “I’m positive your apartment is the most hostile one on campus. I feel sorry for Jeffy. But how is me beating Winston in gym going to get him out of your dorm room?”
+
+“He’s been trying to get me to move out. I’m going to goad him into saying that if you beat him again he’ll leave instead.”
+
+“Just like that?”
+
+“It might take me a couple of tries.”
+
+Only a couple to get something that specific out of him?
+
+For about the tenth time, Alden was really relieved he’d tricked Lexi into being his roommate.
+
+Max headed over to the shelf that held the drones he sometimes practiced with.
+
+“Is that other class still on the floor?” Alden asked.
+
+“They just finished, and the locker room is full of them. That’s why I’m in here.”
+
+“They were so late, and they have an audience. What’s that about?”
+
+“It’s an observation period for students considering applying to the program. Thankfully they won’t be watching us. The school schedules those periods to coincide with the advanced classes.”
+
+Mystery solved. Now, how do I want to manage each fight after the rocks and spheres are thrown? Shielding against the wrong person just means I’m done with class for the day, and that sucks. They’re not going to establish a penalty for dying, so I might as well…
+
+He was still thinking it through when Max said, “There shouldn’t be so many.”
+
+“Rocks?”
+
+“No, you probably need even more of those. I’m talking about the people in the stands. There shouldn’t be so many of them.”
+
+“It looked like about three hundred or so?”
+
+“It’s usually more than that,” said Max. “But usually most of the observers are from middle schools and high schools in F-city. These are almost all from CNH or one of the other Apex schools.”
+
+Alden took his hands out of his duffel and stood. He stretched his shoulders. “That makes sense. The normal crowd probably couldn’t get here today because of the passenger limits on the ferry.”
+
+“They can watch on the school site.” Max’s forehead furrowed. “I attended several of these before I got into the program. I’ve never seen three hundred Apex students watching. Obstacle courses, tournaments, hero visits, graduation duels—yes, they’ll pack the place if they’re allowed to because those are fun. But even if it’s third years, today is still just a regular class.”
+
+“It’s been a bad week, and it’s Friday afternoon. They probably just don’t have anything else to do.”
+
+“That’s possible.” He still looked bothered.
+
+Alden targeted him. “Would you mind telling me to pick this up? If they’re clearing out, I’m going to start moving my creations in there so I don’t have to rush later.”
+
+“Pick it up.”
+
+Gravel catapult preserved, Alden was about to leave when Max suddenly said, “I think it might be good you and I got into the program when we did.”
+
+Alden looked across the stacks and bins of supplies. Max was staring at the poster that hid The Beat List.
+
+“You’re thinking everything that’s happened is going to boost applications to the hero program?”
+
+“I think if it did have that effect, at a time like this…”
+
+“That it would be hard to justify taking B’s if they had a record number of S’s,” said Alden.
+
+Max shrugged. “I don’t know. We’ll see.”
+
+Alden twirled his catapult. “We’ll see,” he agreed. “Don’t blame me if I kill you with this.”
+
+******

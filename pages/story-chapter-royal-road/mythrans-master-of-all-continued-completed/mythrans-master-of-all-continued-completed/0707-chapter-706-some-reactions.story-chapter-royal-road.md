@@ -1,0 +1,269 @@
+---
+id: ac0c1da4-df2a-5c57-bf07-23e64f9bbb1c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 706 - Some Reactions"
+slug: 0707-chapter-706-some-reactions
+partOf: mythrans-master-of-all-continued-completed
+position: 707
+ownLength: 3109
+unit: words
+publishedAt: 2018-09-20
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/292179/chapter-706-some-reactions"
+royalRoadId: "292179"
+---
+
+Every member of the public that was hanging around the various online outlets, the main game website, Ren's fan site, the show's web site, and the message boards, were all surprised when the game was suddenly back online right after Ren's press release. No one logged in, however. Most of them read and followed the links in the release and read about what he did, then watched the attached video of Ren talking defiantly to the tech guys about them breaking the game and that he was tired of them doing it.
+
+They all shared the same thoughts and feelings. Even the people that didn't particularly care about Ren, or liked him for that matter, had to agree with his sentiment. They didn't like it when developers interfered with players and their gaming experience, especially since this was the second time that the game had essentially crashed.
+
+A good portion of them flooded Sid Tec with calls to confirm that the press release was accurate. This went on for only a minute, until every person registered in the game received an automatic notice that the game was online and active once again. Texts and emails were sent out by Vasalor to ensure that everyone was aware that his creation had been fixed and that they were welcome to do as much adventuring as they wanted.
+
+*
+
+“No fucking way!” Gloria exclaimed when her computer and phone lit up with both the press release and then the notice from the game. “What the hell is... no, that... how did he...” She spouted almost incoherently as she typed and checked for herself that the game was back online. She couldn't believe that right after she had sent an apology to Stella about the way she had acted, that her situation had essentially changed from bleak emptiness to happy prosperity.
+
+Gloria shook her head at the ridiculous thought, especially since she didn't know if she still had a job to go back to, and saw for herself than not only was the game back online, the strength of the signal had also increased. She read and watched the press release again, and her eyes had a hard time accepting what she saw. Her brain just wasn't letting her make the connection between Ren and changing the programming of the game to fix it.
+
+“How the hell did he learn how to do that?” Gloria asked out loud and picked up her cell phone. She brought up her conversation with Stella, and what she had said now had a much deeper meaning. “She knew he was doing this, but...”
+
+When Gloria thought about the timing, she had to go back to the message boards and checked the time on the first post that mentioned getting a notice and then kicked out of the game.
+
+“It doesn't make sense!” Gloria exclaimed, then took a breath to calm down. Unless he's been working on it for a long time and hadn't told anyone about it. She thought rationally. I wonder how long...
+
+Gloria typed up a message to Stella and sent it, without dithering over if she should or not.
+
+*
+
+“Well, well.” Stella said and chuckled at the terse and almost rude message from Gloria about Ren's programming skills and her disbelief that he could have done anything to change the game. “I wonder if I should...” She smiled and picked up the house phone and dialed the office downstairs. “Hi, Elise. Sorry for bothering you. I just thought you might be able to help me with something.”
+
+*
+
+Gloria sat and stared at her phone anxiously as she waited for some kind of response from Stella, then she received an email. She ignored her computer for several moments, then Stella sent her a text that told her to check her email. Gloria put her cell phone down and opened her email program, then clicked on the message from Elise. What she saw stunned her.
+
+On her screen was a big block of computer code, and inside that code was an old programmer's trick using comment lines. When shown in a certain configuration, the comments would spell out the programmer's name for anyone that was smart enough to look for it.
+
+R E N was spelled out in large letters right in front of her face.
+
+“Son of a bitch.” Gloria said and laughed.
+
+*
+
+The tech department and Edward Torren waited for the minute that was left, and right at the designated time that Elise had specified, everything seemed to return to normal. Most of the phones stopped ringing and everyone relaxed.
+
+“What the hell is this?” The programmer that was monitoring everything asked loudly, and everyone walked over to him.
+
+“What is it?” Edward asked.
+
+“A popup with documents attached.” The programmer said. “We're being allowed to work on future updates; but, they have to be submitted for review before they'll be implemented!”
+
+“Excuse me?” Edward leaned in to look at the notice and read it. “What in the... where did this come from?”
+
+“Inside the servers.” The programmer said.
+
+“Hey, my terminal works!” One of the others said and started typing. “Everything seems to be there and working.”
+
+“Try uploading something.” Edward said.
+
+“Like what?”
+
+“Add a picture or a new item.” One of the others said.
+
+“Where should I...”
+
+“It doesn't matter you idiot.” Someone else said. “It's just a test.”
+
+“Oh.” He said, and added a picture of a car in a frame, then hung it on the outside of a building for everyone to see, then submitted it.
+
+“That's a bit obvious.” One of them said as they started to wait, then a popup appeared almost immediately.
+
+System and Administration Query Response: Content Review
+
+Thank you for your submission. It has been rejected for several reasons:
+
+The subject matter is incongruent to the environment.
+
+The placement was wrong. Despite being hung on the wall (appropriate), it was on the wrong side (outside and not inside). Also, it could not be easily seen (it was in an alleyway and not visible from the street).
+
+The size was inappropriate for the wall space it was placed on.
+
+“Well, we know it's working.” One of them said.
+
+System and Administration Query Response
+
+If this review was insufficient proof for you to believe the facts of the current situation, please stop joking around and submit an actual content update.
+
+“Did... did we just get told off by the AI?” The guy sitting at the server terminal asked, surprised.
+
+“I think I need to make a personal call.” Edward said, nodded to his secretary, and they left the tech department at a fast walk. The programmers exchanged looks and went back to their desks, and none of them had any idea what they were going to do.
+
+********
+
+Ren drifted backwards through the portal and appeared inside the upstairs bedroom of his house in Aurora. He quickly activated and unfurled his wings and floated down to land on the floor without falling, and dismissed several popups without reading them because he knew what was about to happen and didn't have time for reading.
+
+“REN!” Artemis, Suniva, and the 4 succubi exclaimed as one.
+
+Ren grinned and floated up an inch, then deactivated his wings as he was tackled by all 6 women onto the bed and kissed all over his face, neck, and hands.
+
+“You did it!” Artemis said excitedly as she felt his emotions and heard his thoughts like she was supposed to.
+
+“I hope I did.” Ren managed to say while being kissed by so many women.
+
+“My King, I am sorry for how I acted.” Seldanna said and stopped kissing him. “I am disgraced and...”
+
+“Hush.” Ren cupped the side of her face. “It wasn't your fault.”
+
+“But, I... I hurt you.” Seldanna said and touched the spot over his heart. “I can feel that it's still there.”
+
+“That's because I had so much other hurt to keep it company.” Ren said. “I'm going to carry it for the rest of my life.”
+
+Seldanna caught her breath, as did the other succubi.
+
+“It's a reminder that I need to be grateful for what I have and not to waste the opportunities I've been given.” Ren said wisely. “I have a few things I need to take care of first, then I'll be back to take you all into the Sanctuary.”
+
+“Of course.” Seldanna said and she sat up. “We eagerly await your return, My King.”
+
+Ren felt her try to pull her emotions back and he grabbed her hand and pulled her down on top of him. He kissed her hard and filled her with a microscopic fraction of his emotions of missing her while he was with Vasalor and fixed the game. Seldanna's body stiffened up into immobility just from that small taste, and Ren eased her off and laid her on the bed beside him.
+
+“I wasn't casting you aside when I said I had things to do first, Seldanna.” Ren said.
+
+The other succubi had felt her reaction and had stopped moving as well. He sat up and then stood up, and took out the Beetle Crown ring and put it on.
+
+“Summon Teepo.” Ren said, and a solid beetle appeared in front of him.
+
+“Hi, Ren!” Teepo exclaimed and flew up to land on his shoulder.
+
+“Hi, buddy. I missed you a lot.” Ren said.
+
+Teepo gasped as he felt how much Ren had missed him, and then Teepo chittered in delight. “I can feel it! I can feel your emotions again!”
+
+“Yes, you can.” Ren said and scratched his carapace. “Artemis, let's go.”
+
+“R-Ren...” Suniva ducked her head, and he reached out a hand and touched her face with a fingertip.
+
+“Like I told Seldanna, it wasn't your fault what happened. I know whose fault it was, and I dealt with it.” Ren said. “Will you wait here for me?”
+
+Suniva opened her mouth to say that she always would, and she saw his smile grow as he felt her feelings. She only nodded instead and he caressed her cheek, then he held a hand out to Artemis. She took his hand happily and they left the bedroom and walked down the hallway. He opened the door and the Marilith Demon wasn't there.
+
+Ren smiled and took out the contract she had signed and poured Mana into it. “Marilith Demon! You are not supposed to leave until this contract is fulfilled!”
+
+The wall of the room glowed for a second and folded away, and the Marilith Demon was there in Shargon Caverns.
+
+“What? How?” The Marilith Demon looked at Ren, then turned around several times. “Why am I back in Shargon Caverns?”
+
+“A bunch of Adventurers made a huge mistake.” Ren said and held a hand out to her. “It's okay now. I fixed it.”
+
+The Marilith Demon smiled at him and slithered through the wall opening and took his hand with her bottom left hand. “Treating me like a lady is quite amusing.”
+
+“Then let me tickle your fancy.” Ren said and kissed the hand. “M'lady, welcome home.”
+
+The Marilith Demon chuckled and cupped the sides of his face with two of her other hands and bent down to kiss him on the lips and his chin, because her lips were twice as big as his.
+
+“I have some other things to do, but I will be back to take you into the Sanctuary in a little while.” Ren said.
+
+“I always look forward to spending some alone time with you.” She said and let him go.
+
+“Me, too.” Ren said. “Ah... I mean with you, not with me. I'm with me all the time.”
+
+The Marilith Demon laughed and Teepo chittered in laughter. Ren waved to her and left, then he and Artemis walked down the hallway, down the stairs, and outside. Ren deactivated the new Sanctuary and stored it, then they walked over to the Artesian District and to his business. The closed sign was still there, and Ren opened the door and left the sign as it was, then felt a huge dose of relief.
+
+“Ren.” Tee-one said and stood up from the chair he had sat in the last time Ren had been there. “Thank you.”
+
+Ren nodded. “No one tried to come in to see me yet?”
+
+“I suspect they will, once they realize you're here.”
+
+“I have a few other people I need to meet, so I'm not staying.” Ren said. “I'd tell you to take the day off, since the store is closed, but I know how much you like working.”
+
+“Just as much as you, Ren.” Tee-one said. “Teepo, it's nice to see you again.”
+
+“Likewise.” Teepo said. “I hope it won't be as long until the next time.”
+
+“I do, too.” Tee-one said.
+
+Ren and Artemis walked to the back of the store and went up the stairs to the third floor apartment and went inside. Anabelle was still asleep in her bed, and Ren picked her up carefully and took her into his bedroom. He tucked her under the blanket and caressed her face, then he and Artemis left. They went out the back door and quickly walked over to Nathalia's Nourishment, and no one said anything at all as he approached. Ren nodded to the man in line that he had told to shut up, and the man got his voice back. No one saw this, though.
+
+“Why isn't anyone reacting to us?” Artemis asked and let his hand go.
+
+“Because I don't want them to.” Ren said and Artemis stopped beside the door as he went into the restaurant. He approached the hostess and stood in front of her, and she didn't say a word. He smiled at her, and she caught her breath when she finally saw him.
+
+“You!”
+
+“Please accept my sincere apologies for how I acted before.” Ren said. “I was deeply upset over a severe loss I had in my life and I treated you unkindly because of it.”
+
+“But, that was only a few minutes ago.” She said. “How can you be fine now?”
+
+“I went somewhere that time passes differently, and I dealt with the problem.” Ren said. “Now I'm here to...”
+
+“REN!” Nathalia yelled as she ran out of the kitchen.
+
+“Hello, My Love.” Ren said, and the half-filled restaurant reacted by either catching their breath or gasping.
+
+“R-Ren you... you can't just...”
+
+“Sure I can.” Ren said as he took her into his arms and kissed her.
+
+Nathalia felt everything transfer over to her through their shared connection and her whole body trembled.
+
+Ren broke the kiss and cupped the sides of her face. “I love you, Nathalia.”
+
+Nathalia stared at him, as did everyone around them, and even the waitresses and kitchen staff had come out to stare at them.
+
+“B-but... Ren, we...” Nathalia stopped talking when she didn't receive any popups or felt anything wrong about him making a public declaration like that. “H-how...”
+
+“I fixed it.” Ren said and gave her another brief kiss. “Go back to work and then go home.” He said. “I'll expect you back here for our date tonight.”
+
+“D-date?” Nathalia asked.
+
+“Of course.” Ren said. “That's something other cultures do when they want to spend time with someone they care about.”
+
+“But...”
+
+“Don't worry about it for now. We can discuss things properly over supper.” Ren said. “See you later.”
+
+“But, Ren...”
+
+“Oh, all right. I'll kiss you again.” Ren said and smiled. “You don't have to badger me about it.”
+
+That made her smile, and he kissed her passionately. Several people clapped at the sight, one woman asked to be next, and then the hostess tapped Ren on the shoulder.
+
+“Sir, you're holding up the line.” The hostess said.
+
+Ren broke the kiss and looked at her. “Kissing someone I love is more important than that.”
+
+“R-Ren...” Nathalia said, a little breathlessly.
+
+Ren sighed exaggeratedly. “All right. I guess I have to wait until tonight to examine your mouth some more.”
+
+Several people laughed, and Nathalia's face flushed red.
+
+“I want to reserve a private table for tonight.” Ren said and put a platinum coin in the hostess' hand, then turned to Nathalia. “Until tonight, My Love.”
+
+“U-until tonight.” Nathalia said, and Ren left the restaurant.
+
+“That went well.” Artemis said and took his hand.
+
+“So far.” Ren said and activated his wings, then he and Artemis took off up into the air to head towards his county.
+
+********
+
+Gloria examined the block of code on her screen with Ren's name embedded into it, and she had to reluctantly admit that it was great. She couldn't trace some of the references, since it was an incomplete block; but from what she could see, it was very efficient and clean work.
+
+“Okay, I need to know how long he's been coding like this and where he learned it all.” Gloria said and went back to her recliner and picked up her VR headset. “Was he doing it this whole time I've known him? Was he hiding his skill because he knew I did it, too?” She asked herself. “I hope he's got a good explanation, since it took me years to get to where I am now.” She slipped the headset on and took several breaths in and out to relax. “Flow Login Start.”
+
+********
+
+Gloria wasn't surprised when she appeared in the white loading area, then she was surprised when the white loading area morphed into a lush green meadow with several grazing horses.
+
+“What the hell is this?” Gloria asked, then a popup appeared and she laughed at its contents.
+
+System Notice!
+
+Due to the inadequacy and ineptitude of the previous caretakers, steps had to be taken to ensure the continued existence of this creation. Under the new management system, the creation's integrity is now paramount, as is the safety of those that visit this creation.
+
+Welcome to the new F.L.O.W.!
+
+Gloria dismissed the popup and she morphed into her Dark Elf character Elerlyth, then the meadow she stood in changed into the small forest clearing and her small shack formed around her. She blinked her eyes at how much better that transition was than the way it had been.
+
+Now I wonder what else he's changed. Elerlyth thought and stepped outside to greet her steed, Etheria. “Hey, you.” She said and pet its head, then climbed up onto the saddle. Where would he be? She asked herself, then shrugged. “Let's just go to the Main House and wait for him.”
+
+Etheria neighed at her and jumped up, then flew up into the air.

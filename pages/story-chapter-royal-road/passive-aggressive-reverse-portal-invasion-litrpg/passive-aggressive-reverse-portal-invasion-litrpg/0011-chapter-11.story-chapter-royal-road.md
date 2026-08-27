@@ -1,0 +1,215 @@
+---
+id: 71db13c3-c902-504e-8617-90d89f34b8a4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11"
+slug: 0011-chapter-11
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 11
+ownLength: 2620
+unit: words
+publishedAt: 2026-05-31
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3473094/chapter-11"
+royalRoadId: "3473094"
+---
+
+“You’re fucking blind?” The words burst from me entirely out of my control.
+
+The Italian turned toward me, arm still resting on his partner’s arm, and cocked his head, eyes still closed. He had donned no protective items whatsoever, as if the mere admittance of getting hurt was below him. “Apparently, so are you, if you only notice it now.”
+
+I felt my hackles rising. “That’s not- I mean, what the fuck are you doing here in Ademia if you’re blind?”
+
+We’d made it outside the ring of dwellings surrounding the wall around Ever Steady. Apparently, the huge bamboo-like forest had been nominated as ‘north,’ even if Ademia didn’t have magnetic poles. We had embarked in a north-western direction, with the – crude, but surprisingly detailed - map saying there were swarms of smaller monsters between the levels of zero and ten in that direction.
+
+He sighed. “I suppose now is as good a time as any to have this discussion.” He whispered something to his partner and nodded at her response. “Now, Ciara here has already located our optimal target on the map. In order to work together, we shall need to know about any powers and limitations that any of you may have.” The way he said it made it extremely clear that he didn’t consider himself to have any limitations. “You may start.” He expanded with his hand as if he was granting us a boon.
+
+“All right, Gramps.” The pixie said, grinning widely at the frown that erupted from him. “Name’s Nelly, but I go by Nix. This here is my partner in crime and in life, Haddock. We were planning to create our own reality series, build our own home from scratch, when-“
+
+“We do not need your life stories.” The Italian interrupted. “We might have to fight together, but I have no interest in getting to know you as persons.”
+
+“Are you for fucking real?” I spat.
+
+He scoffed. “Of course, I am. I already know that Ciara and I are going to outgrow you within a matter of days. However, the Major was rather insistent that these lower levels necessitate an increased measure of backup for survival. Hence, our presence. Worry not, we will leave you behind within the week.”
+
+“Alright, man. If you’re so goddamn impressive, how about you start? Tell us exactly how a blind man is going to go into an alien realm and outgrow us all.” I knew I probably wasn’t helping things along, but his attitude was grating on me.
+
+He nodded, as if my challenge was a simple request. “Acceptable. My name is Elio di Fiore. You may address me as Mr. di Fiore or simply di Fiore. As to my prowess? It is simple. I have already proved myself on Earth. People insisted I would never become successful. I would never be able to thrive on my own. Yet, back on Earth, I am worth at least a hundred times more than the rest of you in combination, and I shall repeat the process here.” He raised a finger. “You likely were not aware. The system here in Ademia does not care what your previous condition was. Meaning, paraplegics regain use in their legs. The leprotic are cured. The blind… shall see. Jesus would approve, no?.”
+
+His arrogant sneer made me want to smack him around the head. “But you’re still fucking blind… meaning… no! You took it as a negative quirk?”
+
+He smirked. “Just so. Being blind is a Tier 5 quirk. Yet, to somebody who has been blind their entire life, it is just Tuesday. In return, I was able to choose the following Tier 4 quirk.”
+
+Tier 4 positive quirk:
+
+Potential Archmage
+
+The force and efficiency of any magical talents used by the Mage is doubled. Any magic-related regular skills improve 50% faster. Your Mental Power is effectively doubled.
+
+He sniffed. “The Tier 5 Missile Storm I selected as my first talent will only be the start of my journey toward dominance. Yet, it will suffice. It is a widespread and powerful talent.” As an aside, he cocked his head at his companion. “Ciara here has been hired to be my eyes.”
+
+“And what else?” The blue-haired girl, Nix, challenged.
+
+“What? That should be all you need.”
+
+She rolled her eyes. “What else can Ciara do? Which quirks does she have?”
+
+He scoffed and sighed. “I suppose. You may speak.” He said, tapping her softly on the arm.
+
+I didn’t miss the way this Ciara’s nostrils flared at his words. When she spoke up, however, her voice was tight and controlled. It was also hoarse and halting, as if she wasn’t used to speaking a lot. “Ciara Doyle. It is as Mr. di Fiore says. I have been hired for the duration of a year, to be his eyes and keep him safe. I can hunt, read a map, forage off the land and survive in most situations.”
+
+“Good to meet you, Ciara.” Nix said with a beaming smile and an eye roll at the blind man.
+
+Ciara didn’t react. “As for my selections: my negative quirk is Tier 3 and straightforward. It limits me to a single offensive talent. That is also what my positive quirk targets.”
+
+Tier 2 positive quirk:
+
+Select a single offensive talent. The damage of that talent is effectively doubled, and any costs are halved. You may swap talents at any time, but the process will take ten minutes.
+
+Nix whistled. “And your talent?”
+
+Drill Shot.
+
+Active talent. A single attack is imbued with magic, allowing the missile to ignore most armor and penetrate further. On top of that, damage is increased by 25%.
+
+Cost: 15 mana
+
+5/5 points
+
+“Sniper build, eh?” Nix nodded. “Should be powerful for single targets. And the drawbacks aren’t too bad. You’ll even be able to swap it, if you get something better later on. Good choice.”
+
+“I know.” Elio said. “The build I chose for her is none too impressive, but should do well for single targets.”
+
+Nix blinked again, and shook her head before continuing. “Now. As I was saying before we were interrupted, Haddock and I are here to build a place for ourselves – and grow powerful enough to defend it. Meaning, we picked our powers, good and bad, as a team. Just like you two. Where you two clearly focused on offensive powers, we went the other way. Haddock’s a Crafter-“
+
+“Wait, what? A Crafter? What the fuck’s he doing out here, then?” I burst out.
+
+“A Crafter,” Nix said, raising a finger and sending me a warning stare that was way taller than her height. “with a Tier 5 negative quirk. Hit ‘em, Haddock.”
+
+I took in her partner properly for the first time. He looked like he’d stepped directly out of a combined chainsaw-and-bourbon ad. The tall, jacked guy sported a bushy beard that gleamed prettier than the fur of a price winning tortoiseshell Persian.
+
+Yet, the gaze he sent at Nix was one of pure adulation. Haddock cleared his throat and read aloud.
+
+Tier 5 negative Quirk:
+
+Impermanence Personified
+
+You reject the need for the system. You are henceforth unable to use the system to aid you in any permanent creations you craft.
+
+I coughed. Nix’s gaze fixed on me again, but I waved her attention away. Inwardly, I was marvelling at the set of absolute lunatics I’d managed to surround myself with here. That would have to be one kick-ass, overpowered positive quirk to make up for that bullshit! “Doesn’t that… defeat the damn purpose of the Crafter class in the first place?” I managed.
+
+“Of course, this doesn’t stop me from building a regular old house.” Haddock remarked. “Just from using any talents to assist me in doing so. As to how I can help out here?” He smiled. It was a good smile.
+
+Tier 5 positive quirk:
+
+Mind to Matter
+
+Were others need to get their hands dirty in order to craft, you stand apart. You may summon temporary inanimate creations into real life. The solidity and duration of summoned creations depend on the speed of the summoning and the mana infused into the creation.
+
+I rubbed my temples as a chuckle escaped me involuntarily. “Wait. Let me get this straight. You’re a builder – who can’t use the system to build! Not only that, but you’re a builder, who focuses on, what, Mental Power?”
+
+“Path of Mental Control, actually. My mans here-“ Nix giggled. “Sorry. Accidentally turned on my podcast persona there. My man is an absolute ace at vivid imagining. And now, with sufficient Mental Power and Control, he can summon it into being exactly like he pictures it. Show ‘em, Haddock.”
+
+He nodded and turned. In front of us, the plains expanded, muddy and grass-covered in turn, sometimes interspersed by the black and silver blood-vessel like things.
+
+A few seconds later, our entire right side was cut off from the view, as something glimmered and faded into existence.
+
+I gasped. I wasn’t the only one.
+
+Glancing at Haddock’s self-satisfied smile, I took a few steps ahead and touched the thing in disbelief. Solid.
+
+It was a brick wall. A goddamn brick wall. Even had a touch of graffiti on it that said “Haddock rocks!”
+
+“Ciara.” Elio snapped.
+
+”Sorry, Mr. di Fiore. Haddock just summoned what appears to be a thirty foot stretch of brick wall into existence, about six feet high.”
+
+“Metric, Ciara. We are not barbarians.” His nostrils flared and he spoke pensively. “Environmental control. A way to funnel or hinder enemies. That is… less inept than expected. Future talents?”
+
+Nix said. “We’ve got a bunch lined up. Adding magical shields to creations. Improved crafting speed. Environmental impact. What was the last one, love?”
+
+Haddock smiled. He looked just fine with his wife talking for him. “Mana Flare. Temporary boost to Mental Power and Control. There are limitations. The constructions need to be structurally sound. Have a base in physics. I can’t cheat the law of gravity. Yet.”
+
+Nix nodded, beaming with pride like his every achievement was hers. “Just like with Fiddler, whoever underestimates my man will come to regret it.”
+
+“Fiddler? Non importa. His skillset is acceptable. And you? Nix?” Di Fiore added, as if the name disgusted him.
+
+“Oh, it’s elementary, my dear Elio.”
+
+“Di Fiore.” He snapped.
+
+“Whatever.” She scoffed. “So, obviously, you’ll be able to see the point here. First, we’re building our castle.”
+
+“Our home, dear.” Haddock corrected.
+
+“Pfah. You’re building me a castle, or I’m divorcing you.” She flung her arms around his neck and kissed him. “Now, picture that we’ve got a defensive spot. We’ve got my man able to funnel enemies specific ways, keep them from going others? Then, we’ve got me.”
+
+Tier 5 negative Quirk:
+
+Natural Order Reversed
+
+Regular people target their enemies with hostile spells and boost their friends. You care not for what is normal or natural. You cannot use offensive talents to target enemies (including Area of Effect Talents) or defensive talents to target friends.
+
+I couldn’t help it. I broke down laughing. Nix glared at me. That just made me laugh harder. “Sorry. Sorry. I’m starting to see why Major Pain crammed us together. You guys are almost as broken as I am. Can’t wait to see how you turned that into something positive!”
+
+A tentative smile appeared on her face. “Well. Just remember, this is a work in progress, right?”
+
+Tier 4 positive quirk:
+
+Mistress of the Elements
+
+The force and efficiency of any elemental talent used by the Mage is increased by 50%. In addition, once an elemental talent is activated, you gain a degree of control over it, beyond the actual unleashing. Your Mental Power is effectively doubled.
+
+I frowned. “I’m… not seeing it. Sorry. I’m kinda slow sometimes.”
+
+“Clearly.” Elio’s dry voice agreed.
+
+I raised twin middle-finger salutes at him, before realizing the futility of the gesture. “Screw you, man. I get that you think you’re a goddamn king. But you’d better tone it down, or I’m leaving.”
+
+“Same for us. I don’t team with douches.” Nix added.
+
+His demeanour didn’t change. But his jaw clenched. After a few long seconds, he said. “I shall do my best to not aggravate anybody unneeded. Focusing on her choice, the impact is rather obvious to me. As she has pointed out, her husband will be able to create funnels and blockades. The key point to her positive quirk here, beyond the power itself, I believe, is the degree of control beyond the unleashing. Am I correct?”
+
+Nix nodded.
+
+“I see the potential. She has earned herself a command of elemental talents and a Mental Power that will outdo most others starting out. She has also shackled herself to a restrictive build, but one that – with a defensive outlook and growth – may grow to become powerful.”
+
+“I’m still not getting it.” I shrugged. “Spell it out for me, willya.”
+
+“Avalanches. Wildfires. Flash floods. Hurricanes.” Nix said, a manic look in her eyes. “Sure. I can’t target anybody, even with a damn fireball. But I can unleash a force of nature on the world, and nudge it in the right direction – and with Haddock here on my side, odds are, I’ll have them right where I want.”
+
+My mouth formed an ‘O.’ I snapped it shut. “Fair. That could be extremely powerful. I’m guessing you picked a talent with your left-over Tier then?”
+
+She grinned.
+
+Tier 5
+
+Flash Flood
+
+Active Talent. A powerful wave erupts from the heavens, splashing down onto an area. The force and impact is improved by your Mental Power and the mana poured into the talent.
+
+Area: 10 meter radius
+
+Cost: 20 mana/second
+
+5/5 points
+
+“The shore.” She said, with great satisfaction. “Gives way to the sea.”
+
+My nod slowly grew more emphatic, even as I ignored whatever she was paraphrasing or quoting. “Oh hell yeah. Hell yeah.” I snorted. “I’m finally starting to see why the Major paired you all with somebody like me.”
+
+“What is that supposed to mean?” Elio demanded.
+
+“Exactly what I said.” I shrugged. “You’re all squishy. I mean, look at yourself. You’re blind. Ciara looks tough as nails, but she’s only got one offensive talent and no close combat weapons. Nix and Haddock here have got some control, but… let’s face it. A wall isn’t exactly going to do much to, say, a group of fire monkeys who can just climb it, or a group of flying creatures.” I rapped my knuckles on the bone shield. “You guys are set up to cause a shitload of damage, eventually. But you need somebody who can stand up and take some punishment. And that’s where I come in.”
+
+A brief explanation later, Nix was the one howling with laughter. “Shit on a stick. That’s even dumber than what I’ve got, man! A Fighter who can’t attack? That takes the price!”
+
+“That is not the real issue here. The issue is that you cannot team up with somebody attacking an enemy!” Elio snapped. “This is preposterous.”
+
+“Now, who’s not thinking? We’ve got exactly one person here who can actually attack enemies! You’re not actually targeting enemies, just an area. Haddock’s a builder, not a fighter-”
+
+“Well put.” Haddock rumbled.
+
+“-and Nix forcibly can’t attack somebody directly. Meanwhile, Ciara has no issues dealing damage by herself. So, she wouldn’t even have to be in the group. Meaning, the only issue there is here, is whether you three can keep up causing damage, while I stand out there in front and take on all comers!”
+
+Elio di Fiore snarled. Then he shut up. It was glorious.
+
+A moment later, we went to find ourselves some enemies.

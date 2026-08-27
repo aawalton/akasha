@@ -1,0 +1,2 @@
+Error: [react-router:hmr] No module update found for route routes/api.image.$imageId
+    at http://localhost:3026/@id/__x00__virtual:react-router/hmr-runtime:553:11

@@ -1,0 +1,143 @@
+---
+id: a5cf64e5-0e15-5edb-9bcb-b6915123115f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30 - Cow Skydiving"
+slug: 0030-chapter-30-cow-skydiving
+partOf: sherly-the-most-virtuous-holy-cow
+position: 30
+ownLength: 2050
+unit: words
+publishedAt: 2025-12-16
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2853288/chapter-30-cow-skydiving"
+royalRoadId: "2853288"
+---
+
+Chapter 30 - Cow Skydiving
+
+Sherly had gone skydiving before. Once.
+
+“It was a vacation trip that I won in one of my races,” she explained. “I had an instructor, of course. She was helpful. But I don’t think that makes this jump now any less nerve-wracking, though.”
+
+She didn’t bother mentioning that her entire team had talked her into it, while they enjoyed the beach instead. They had thought she would cry her eyes out or worse, but it had been, in fact, one of the most enjoyable experiences she had ever lived through. Of course, that was before she had come to Sinzodia.
+
+“Well, for one, we’re not jumping straight down, per se,” Ishuin explained. “You might hit the cliffside if you did. We’re gliding instead.”
+
+Sherly tried hard to stop herself from talking her way out of the situation. She was having an internal conflict, after all.
+
+For one, she felt scared. Her first and only skydiving experience had been assisted by the helpful instructor. And while gliding might be a less intense activity, when compared to literally falling through the air, the time spent in it was considerably more. Sherly couldn’t fathom the idea spending more than a few seconds being in that situation on her own and not fainting from a nervous breakdown.
+
+For the other, the cow-chilim wanted to do it. The thrill, the excitement, the adrenaline. That was pretty much all Sherly had lived for, back in her world. It had been her way to cope with everything else. It had been her way of maintaining control. And now that there were more things under her control, she doubted if she still needed something so exciting.
+
+“Why are we gliding, first of all?” she asked, maintaining her neutrality. Sherly had an inkling that they would let her off the hook if she asked to sit this one out.
+
+“We need to scout the general area around the lift,” Kasta explained this time. “If there are any dangerous monsters lurking around, we can dispatch them before the rest of the caravan gets down.”
+
+“They’ll move down in batches,” Maymay added. “The lift itself has good protection around it, but the forest outside is a free for all.”
+
+With an actual purpose behind their activity, Sherly easily concluded that she would have to join. There was a lot of experience at stake, after all. The next issue now, however, was how.
+
+“Do we have any gliding gear?” she asked next.
+
+“You can have my old one,” Ishuin answered, pulling out a black body suit made of cotton.
+
+Sherly expected the elf to bring out more equipment, but as she received the suit with both hands, there was nothing else.
+
+“Is this it?” she asked. “I see no wings or gliders or anything like those.”
+
+“You’ll have to wear it first, then supply it with your mana,” Ishuin replied. “Wear this, then put your armor on, then test out how it works. You can change in one of the rooms in the reception building of the lift. We already have ours.”
+
+Sherly kept her questions to herself. If mana was involved, she was sure the suit would have ways to help her glide even while underneath her armor. And if Ishuin was letting her use her own mana to activate the suit, then she assumed she had enough.
+
+After a quick change, Sherly found her friends standing at the same place. Ishuin was pointing out somewhere in The Gap, while Maymay and Kasta nodded at her.
+
+“So, uh… How do I make this work?” the cow-chilim started, doubt reforming back into her chest. “I’m not exactly sure how to run my mana through something. Actually, I don’t think it’s a good idea to glide with this, if I’m just learning to do it now.”
+
+“That’s actually why we want you to test it, Sherly,” Ishuin said. “The mechanism inside the wing suit is pretty robust. Plus, it’ll prepare you for when you become able to use your Weapon Skill with Stalwart.”
+
+The elf rubbed her chin. “But, if you think you’d rather go down the lift, then it’s fine.”
+
+Sherly felt like she was being read like a book. The elf Wielder had noticed her hesitation, and was providing her with a way out. Despite how genuine of an offer it was, however, the cow-chilim could only hear the subtle provocation.
+
+And whether it was her own imagination or not, she realized that she didn’t want to back away from it.
+
+Again, a lot of experience was on the line.
+
+“Teach me how to do it.”
+
+With a nod, Ishuin gave her the brief lesson.
+
+“Running mana is actually something you’re supposed to be able to do innately,” she began. “And this isn’t because you came from another world, or because you’re a demon-cow, or anything like that. Being able to evolve is proof that you can guide your mana out into the world.
+
+“Relax. Feel the flow of mana inside your body. Close your eyes if you have to. The feeling differs from individual to individual. Some feel like they’re sinking in an ocean. Some say they’re floating in the air. Some say they can see their mana-flow like a secondary nervous system. But no matter how it is for you, make sure you take a clear grasp of it, and then guide it outside and into your wing suit.”
+
+As suggested, Sherly closed her eyes. She imagined it was like meditating, but she didn’t bother sitting down. She assumed that the others didn’t have to do it to control their mana, so she skipped that step. Besides, if she needed to run her mana while moving, or gliding in this case, she had to be able to do it without sitting down.
+
+Fine… It’s not like meditating, then…
+
+Relaxing and steadying her breath, Sherly emptied her mind, waiting for the sensation that Ishuin was talking about. And true enough, it came to her as naturally as breathing.
+
+She was a volcano ready to erupt. At the same time she was a freezing lake surrounding it. Surrounding herself. There was stability in it, she realized. But every now and then, her vision would shake, and she could see the cracks in the ice, before they were almost immediately fixed.
+
+The sensation shocked the cow-chilim so much that she suddenly jerked awake, as if she had been half-asleep in a nightmare. Her friends all became concerned, and she explained to them what had happened. Their gasps alone made her just as concerned, especially since even Ishuin was utterly surprised.
+
+“Is it a bad thing?” Sherly asked.
+
+“No,” Maymay said.
+
+“So it’s good, then? Do I have two kinds of mana, or something like that?”
+
+“It doesn’t work that way,” Kasta replied this time. “Sorry.”
+
+“Oh, so it’s actually bad, then?”
+
+“No, no, no!” Ishuin said with urgency. “It’s definitely not. It’s just… Sometimes, your mana takes the form of yourself as a person. So having that representation should pretty much tell you what you’ve been going through.”
+
+“Oh… I see.” Sherly scratched her head, feeling a little embarrassed and regretting telling them about her mana-flow’s representation. “Anyway, now that I can see it, how do I make it move?”
+
+The elf Wielder cleared her throat. “If you can see it, then just use your will, your thoughts basically, and guide it to your wing suit.”
+
+Sherly tried again, hoping to see something different in her mana, but the volcano and the lake were still there. Not letting her disappointment get the better of her, the cow-chilim willed her mana to move. Willed, as in asking it politely.
+
+Without resistance, fortunately for Sherly, the lake began to swirl. The magma on the surface of the volcano’s mouth, however, did nothing. She could feel it through her body now, her mana moving, and she guided it to her wing suit as instructed.
+
+Just like that, a pair of wings glowed into existence on her back. The wings were a mere shape, no feathers, no details. Just the shape of orange wings. She could close or open them with her arms, but those were the only movements she could do with them. She also noticed the additional flaps on her side, as well as the tail, also all white and made out of mana. The final thing that formed was a layer of mana around her eyes, like a visor to protect them from the wind.
+
+“Good!” Ishuin said first, but everyone gave Sherly their nods of approval. “We’re all set to jump, then!”
+
+Nervousness gripped the cow-chilim once more, but just like how it had been whenever she was in a competition, she pushed it away with her excitement. She tried dismissing and summoning her wings a few more times, just to make sure it worked properly. And when she was satisfied, she gave Ishuin a firm nod.
+
+Everyone took their positions. They were all standing on the edge of a platform specifically made for people who would jump down The Gap, rather than use the lift. The wind blew past them, but everyone took it in stride, even Sherly, who was now smiling from ear to ear.
+
+“Remember,” Ishuin started. “We’ll make a large loop around the lift. I’ll mark every possible danger, be they broken paths or large monsters. Then we’ll all land at the nearest monster and kill it, understand?”
+
+“Roger that!” Sherly and the others said at the same time.
+
+“On my count! Three! Two! One!”
+
+Without hesitation, Sherly took the leap.
+
+As they passed through the clouds, the view underneath almost made Sherly forget that she was falling. When she saw everyone else form their wings, she fought down her mild panic and formed hers as well. Her intuition guided her, telling her to make them closed so that she wouldn’t suffer any sudden backlash from the wind resistance.
+
+The wind rushing on Sherly’s face was uncomfortable. She realized that her visor only protected her eyes, meaning she had nothing to protect the rest of her face, or stop her hair from fluttering restlessly in the wind.
+
+She didn’t mind. The cow-chilim was enjoying every second of it.
+
+But what really took Sherly’s breath away was the view.
+
+Now without any clouds to obscure her sight, the vista of The Gap came in full view. It was fantasy come to life. She saw forests nearby and mountains from afar. There was a large city in the middle that was split in half by the large river that ran along the canyon. It was also surrounded by three towers at seemingly equal distances.
+
+Someone flew close by, which caused her a mild moment of panic. But after seeing Maymay keeping proper distance while signaling something to her, Sherly realized she had been distracted. The dog-zilim was pointing at Ishuin, who was gliding upside down while waving at them.
+
+The elf pointed to her right, which was currently the cow-chilim’s left. Sherly gave a nod and they all went that same direction, with Ishuin creating a fancy spin to correct her orientation.
+
+Just like what they had agreed on, the group made a wide left-directional circle. Ishuin didn’t exactly mark any locations with anything, but Sherly could see her pointing at some places while Kasta nodded along. Before long, their circle was complete.
+
+The two frontliners controlled their gliding and came side-by-side with Sherly and Maymay. Ishuin pointed at something below, which the cow-chilim immediately identified as a monster. It was large and standing on two legs, but the distance and speed they were going made it difficult for her to determine any finer details.
+
+All she knew is that it was heading for the fence around the lift, where some people had already started gathering.
+
+Maybe it was the adrenaline. Maybe it was her being distracted. Or maybe it was the volcanic representation of her mana. Without a second thought, Sherly pressed her arms to her side, and her legs together, closing her wings and speeding up her descent.
+
+And when she was confident of her trajectory, she pulled Stalwart out of her Domain Heart and gripped it tightly with both hands.
+
+Like a meteorite descending from the skies, Sherly collided with the monster.

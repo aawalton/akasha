@@ -1,0 +1,237 @@
+---
+id: be32c17c-8ef3-5af4-94c7-31479dd33ee8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 702 - It's Broken!"
+slug: 0703-chapter-702-its-broken
+partOf: mythrans-master-of-all-continued-completed
+position: 703
+ownLength: 3433
+unit: words
+publishedAt: 2018-09-16
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/290831/chapter-702-its-broken"
+royalRoadId: "290831"
+---
+
+Ren woke up on the floor and wasn't sure how long he had been unconscious. He remembered the searing pain he had felt in his chest and groaned as he rolled over onto his back.
+
+“That... really... hurt.” Ren said as tears poured out of his eyes. He rubbed the spot where the symbol of his deep connection to Xuunah and Nathalia used to be, and the loss felt like a deep hole had been carved out of his heart.
+
+“Ren, what happened?” Artemis asked. She had knelt beside him and stayed there the entire time he had been unconscious.
+
+Can you hear me? Ren thought to her, and she only looked at him with concern. He wiped his eyes and looked up at the ceiling. “Teepo, can you tell me...” He looked around and didn't see Teepo at all. “Where's Teepo?”
+
+“He's right where he landed...” Artemis looked up and saw the empty ceiling. “I... don't know.”
+
+“Teepo?” Ren looked down at the Beetle Crown Ring and concentrated on it. “Teepo, can you hear me?”
+
+“Ah! Uh... h-hello?” An unsure voice said in Ren's mind.
+
+“Teepo, you're okay!” Ren exclaimed happily. “I'm so relieved!”
+
+“You don't sound like my uncle. Who are you? How'd you get the crown?” Teepo responded, and Ren remembered those words were exactly what Teepo had said the very first time he had identified the ring and discovered Teepo was inside it.
+
+“No... no, it can't be.” Ren burst out crying. “I'm sorry, Teepo.” He said and slipped the ring off of his finger and stored it. He also saw that the spider emblem that Lylyth, the Queen of the Dark Elves had given him, was gone from the back of his hand. He still had the Ghoul Kissed mark, however.
+
+“Ren, what are are you doing?” Artemis asked.
+
+“I don't know what's happened, but I... I can't start a friendship like that all over again.” Ren said and sat up. “Seldanna, give me your hand.”
+
+“What for?” Seldanna asked.
+
+Ren sighed when she didn't respond like she normally did and her emotions were full of distrust and fear. “Never mind, I have my answer.” He said and stood up as he looked at the shelf and the 1 foot tall pixie there. “Suniva?”
+
+“Yes, Ren?”
+
+“Do you still love me?” Ren asked.
+
+“You only just rescued me from Shargon Caverns.” Suniva said. “It's a little odd to expect me to fall for you so soon, even after... “ She blushed. “...what I did on your nose.”
+
+“We've been together for years, Suniva.” Ren said. “Decades and decades, actually.”
+
+“Ren, what are you talking about?” Artemis asked. “We all arrived here only yesterday.”
+
+Ren gained the Angered Condition as he thought about that. “So, it's resetting everything.” He said and walked over to the bedroom's door. They started to follow him and he turned to them. “I order you all to stay here.”
+
+Seldanna and the other 3 succubi gasped at the power in his words and they dropped to their knees in submission. “Y-yes, master.”
+
+Artemis had stopped walking and nodded to him.
+
+Ren looked at Suniva. “I can't order you to stay, so I can send you to the county and the other pixies instead, if you want me to.”
+
+“No, I... you're the only one that...”
+
+“Please, stay here and let me go investigate just how bad things are.” Ren said and looked at the empty space on his hand where the Beetle Crown Ring used to be. “Although, it can't get much worse than it already is.”
+
+Ren left them in the big bedroom and walked down the hallway and opened the door to the Marilith Demon's room. She wasn't there, and he took out the All-Seeing Mirror.
+
+“Please show me the Marilith Demon.” Ren said, and he saw her curled up on the heated stones inside her lair in Shargon Caverns. “Show me Lylyth, please.”
+
+The mirror showed Lylyth as she sat on her throne and her advisors were around her in a circle, and they were talking about something. He couldn't tell what they were saying, so he reached up onto his shoulder and nothing was there.
+
+“I guess with no emblem, there's also no pet tarantula.” Ren said sadly and asked for a close up of her chest. Her matching emblem that was supposed to be above her heart was gone, too. “Very well.” He said. “Show me Nathalia.”
+
+Nathalia was working in the kitchen in one of her restaurants, and Ren asked for her location. She was at her restaurant in Aurora, so he poured Mana into his torn blue suit and repaired it, then jumped out through the side of the house. As he smashed through the wall, he dumped Mana into his Aura and the house reformed almost instantly. He unfurled his wings and flew over to the restaurant and landed at the front door.
+
+“Hey, no jumping ahead in line.” Some one said.
+
+“Shut up.” Ren commanded, and the man's mouth clamped shut. “If I want to jump ahead in line, I am going to. Nothing you or anyone else can do could possibly stop me.” He said. “Only the business owner, who I am here to see, can ban me from the establishment and stop me from entering.”
+
+The man tried desperately to talk, and Ren ignored him and walked in through the front door. The hostess started to tell him the same thing, so he just ignored her and walked by.
+
+“Hey, you can't just...”
+
+“Shut up.” Ren commanded, and her mouth clamped shut. He walked over to the kitchen and went inside, and all the cooks stopped working to look at him. He walked over to Nathalia and she turned to face him. Her eyes widened as she felt his emotions and her hand touched the spot over her own heart.
+
+“We're supposed to have a deep connection.” Nathalia said, surprised.
+
+“Yes. I had even filed thousands of documents in the dwarf lands, just so I could kiss you and not cause an international or inter-species incident.” Ren said. “If what I've seen so far is accurate, none of them survived the update.”
+
+“Update? What do you mean?” Nathalia asked, then she caught her breath. “Did... did you say kiss me?” She asked, surprised. “In public?”
+
+Ren sighed and turned away from her, then left the kitchen. The hostess was holding her throat and looked like she was struggling. “You can talk, not that it matters.”
+
+“Some Hero of Aurora you are.” She said and rubbed her throat. “What gives you the right to tell me to...”
+
+“I honestly don't care.” Ren said to her surprised face, and he walked out of the restaurant. He glanced at the man he had told to be quiet, shrugged, and left him that way. He ran down the street and felt some horrible emotions. He had felt them before and knew what was happening, so he ran straight through his shop's wall and a lot of the merchandise there, and immediately made a copy of the first contract he had written for Anabelle.
+
+Anabelle was almost incoherent and he helped her hold the writing instrument as she marked her name on the parchment. A look of happiness and contentment crossed her face as she collapsed into unconsciousness, and he caught her easily.
+
+“We're closed.” Ren said in his Command voice and didn't try to dampen the Fear influence on it, and the few customers that were still in the shop after he had burst through the wall, quickly left. He poured Mana into the building and it repaired itself; but, he didn't bother fixing the items he had damaged. He used his Wind Manipulation ability to turn the sign in the window around to show the closed side.
+
+“Ren, what's going on?” Tee-one asked as he came over to Ren. “I can't feel you anymore.”
+
+“Unfortunately, you won't.” Ren said. “Everything has been reset.”
+
+Tee-one thought about that, then looked at the missing Beetle Crown Ring. “No, not Teepo!”
+
+Ren nodded. “It's like we never met.”
+
+Tee-one walked over to the counter and sat down. “What... what are we going to do?”
+
+“Nothing, my friend.” Ren said and sighed. “There's nothing we can do.”
+
+“But, you're a great Adventurer!” Tee-one said. “If anyone could...”
+
+“Adventurers have broken this world.” Ren said and took Anabelle up the stairs to the third floor apartment and laid her down on her old bed. He figured she probably wouldn't remember anything that had happened between them and would be scared if she woke up in his bedroom and on his bed. He caressed her face and tucked her under the blanket, walked out of the apartment and locked it, then left through the second floor back door.
+
+“Only one important place left to check.” Ren said, unfurled his wings, and flew as fast as he could to the county. On the way, he took out the All-Seeing Mirror and asked to see Artemis. She wasn't screaming or freaking out, even outside of his massive Aura, so he knew that even if they had fixed everything, the reset had removed his connection to her. He stored the mirror and came in for a landing in front of Princess' house.
+
+“My King.” Princess said as she came out. “You are very sad.”
+
+“I am, because things are ruined.” Ren said. “How long have we known each other?”
+
+“Since just before going to the dwarf lands.” Princess answered. “Although, you barely use me as a mount. I'm not sure how I'm supposed to train if you don't use me.”
+
+“It figures you would still be affected, since we've shared so much interaction.” Ren said. “Which makes it a connection and it was reset, too.” He said sadly. “How are Riley and Stacy?”
+
+“The dogs are fine.” Princess said, and both dogs stepped out of her house and Riley growled at Ren.
+
+“So, you too.” Ren said. “Even though I made you, you've forgotten what happened between us.” He held a hand out to Stacy, and she sniffed it for a moment, then stepped close so Ren could rub her head. “You were always the smart and practical one.”
+
+Stacy barked softly and Ren stopped petting her, then he walked over to the warehouse and opened the door. It was empty and he wondered where Symmetra was, then shrugged and opened the door to the giant forge. He saw a 4 foot tall Fire elemental, Zetaya, and not the 10 foot tall Greater Fire elemental Zetaya was supposed to be.
+
+“Hi, I was just checking in on you.” Ren said and tossed in a bundle of Spider Silk fabric. He shut the door and walked back across the road and looked at the Main House. “I really don't want to do this.” He said and stepped inside, then walked up the stairs to the apartment and opened the door.
+
+“Hey, you can't just... oh, it's our rescuer.” Frikara said. “Have you decided if you want to fulfill our contracts?”
+
+Ren ignored her and walked over to Xuunah, who he had left here to guard the maids. “Xuunah.” He said and took her hand, and she gasped at what she felt from him.
+
+“Great Vasalor, what happened?” Xuunah asked, then her free hand touched the spot over her heart. “I... how can...” She shook her head. “No, we couldn't have.”
+
+“Every connection I've had has been reset.” Ren said. “Since you hadn't been affected by the Sea Dweller event, I had hoped you would have been spared, at least.”
+
+“I don't know what...” Xuunah felt his emotions and his extreme loss, and she caught her breath. “You... how can you still...”
+
+“I've felt loss before.” Ren said and kissed her hand, which made her gasp again, and he walked out of the apartment. He left the Main House and unfurled his wings, then flew back to Aurora. He landed in front of the house in the Housing District and thought about going inside, then stopped and took out the All-Seeing Mirror instead.
+
+Ren asked to see Lara, the Sage of Ages, and smiled when she didn't appear. “So, she's still out.” He said. “There's still a chance she's unaffected.”
+
+Ren made a big sign and wrote on it to tell Lisa not to log into the game. He stared at the sign for several minutes so that Stella would be able to see it clearly, then he stored the All-Seeing Mirror and took in a deep breath.
+
+“You idiotic tech people! I've had enough of your interference and incompetence!” Ren yelled. “Each and every time you change something, you hurt me, or someone I care about, and you always make things worse!” He said, then calmed down. “You broke something that means a lot to me, so I'm done letting you do what you want. Do you hear me?”
+
+Ren didn't really expect a response, since he hoped that they were working hard to fix what went wrong.
+
+“If you want to see how I could have broken this game all by myself a long time ago, then I'll show you.” Ren said. “I'll show you all.”
+
+Ren opened his instant tower recipe and changed it to a single room. He added the Sanctuary recipe and chose Permanent Widen Effect for its inherent spell. That doubled the numerical values, including the time compression and the number of inherent spells, and he chose Permanent Widen Effect again. He remembered making the other Sanctuary and this was where he stopped and added Regeneration and Permanency; but this time, he did what he knew was going to abuse the game mechanics and kept adding Permanent Widen Effect as the extra spells.
+
+Since each time the spell was added, it doubled the numerical values of the Sanctuary. With only a few doubling of the numbers, he had the inherent spells up to 256. Ren thought that might be enough for what he needed; but, he wanted to show the stupid programmers that he could break the game. He filled all the spots with Permanent Widen Effect, and when he checked the time compression, it only had a dash.
+
+“There.” Ren said and added in every personal spell he could that would benefit him, then activated his Craft Wondrous Item ability and made the small half inch block. He put it down right in the middle of the street and activated it.
+
+********
+
+“Oh, my god!” Elise said when she saw the stats for the new Sanctuary. “Ren, no! Don't do that!”
+
+“What's he doing?” Stella asked, confused.
+
+“He... he's created...” Elise stopped talking. “Log him out before he...”
+
+Ren opened the door and disappeared inside.
+
+“Oh, no.”
+
+*
+
+“Good god, look at this!” One of the programmers in the tech department said when he saw the server output increase by almost 10%.
+
+“Why?” One of the others said. “We can't do anything until everyone logs out.”
+
+“But...”
+
+“But what?” He asked. “Does it change the situation?”
+
+“No, but...”
+
+“Then ignore it.”
+
+“We can't just sit here and...”
+
+“Look, we sent out the notices. When everyone wakes up, they'll log out and we can try and fix this mess.”
+
+“How? We don't have a working backup!”
+
+“I've got the portable drive decompressing the old backup right now.” The backup guy said. “It'll be ready in...” He checked the progress bar. “...20 minutes.”
+
+“It's a month old! We can't roll the game back 4 game months!”
+
+“What else can we do?” The backup guy said.
+
+“I don't know!”
+
+“Then sit back and relax.” Someone else said. “We'll have plenty to do in 20 minutes.”
+
+The programmer sat back and watched the server output stay at the increased capacity as he waited for the backup to become ready.
+
+********
+
+Ren stepped out of the new Sanctuary only a moment after he had stepped in and shut the door. “Oh, yeah.” He said and made fists with his hands. “Having full stats feels really good!”
+
+Ren activated the steel squares he had planted all over the country and the artificial Aura popped into place and merged his own Aura with it. He opened up the popup that gave him the option to add an additional class to his character without losing his Artificer abilities, and he chose Fighter, which reset his stats to the beginning. He raised his hands into the air and cast both Charm Person and Terrify at the same time.
+
+“I hope you're ready for this, you tech assholes!” Ren said as he activated his Emotion Siphon ability and sucked in everything almost instantly. It was only him, since his party had been disbanded, so only he gained all of the XP that his ability gave him. It only took a couple of seconds for him to max his XP and unlock everything for the Fighter class, so he turned around and stepped into the new Sanctuary to max out the stats by reading his stat books.
+
+Ren was back out a moment later and repeated the process. He chose Ranger as his additional class this time and it reset his stats to the beginning, then he maxed the XP and unlocked all of the skills for that class and stepped back into the Sanctuary to max his stats again. He kept doing this for every class that he had access to. When he finished with all the male versions of the classes, he took a deep breath and took out the Level 1 wand that he had prepared for this occasion.
+
+“This is going to be really weird.” Ren said and cast Gender Swap on himself. He doubled over in pain as his whole body changed, just like it felt when he used the Polymorph helm. He finished transforming after a few moments, and he didn't think he felt any different. He took out a large mirror and looked at himself, and was surprised by what he saw.
+
+Ren had long beautiful blonde hair that went halfway down his back and his blue suit bulged out where his larger than average breasts had grown. They were quite a bit larger than they should have been on someone so short, and they kind of hurt being squished up as they were. Ren equipped his red suit and it adapted for his new form and fit him a lot better than the blue suit did.
+
+Now that he was going to be female for the next 20 minutes, Ren opened the character popup and chose the next class on the list that was only accessible by female players, Amazon Fighter. When he activated his Emotion Siphon ability this time, he felt a tingle go down his spine and settle in his private parts. When he didn't feel an erection from getting aroused, he looked down and remembered that he didn't have a penis. He was very tempted to touch himself there, then ignored the urge because he had serious work to do.
+
+Ren maxed his XP and unlocked everything for the first female only class, he went into the new Sanctuary and filled all of his stats again. He came back out and did the same thing for every class that was available for females, maxed their XP and their stats, then chose the Mage class and stood there while he waited for the Gender Swap spell to end. When it did, he was filled with pain again and dropped to his knees. It seemed to take longer to go back to his old self, and when he finished transforming, he stood up.
+
+“I did it, you bastards!” Ren exclaimed. “I've mastered every class and I've taken up ALL of the goddamn XP leader board slots!” He said. “I claim this game for myself! Go ahead and mark them out with Xs all you want! No one else will ever get to see their names on it, not even if they max their character's level!”
+
+There was no kind of response, so he nodded.
+
+“Don't worry. If that didn't get your attention... this will.” Ren said and put his hands together in prayer. “I am one of Vasalor's Chosen!” He said loudly. “Great Vasalor! I hereby invoke one of the Chosen abilities and ask for a direct connection to you!”
+
+System and Administration Query Response (Player Version)
+
+Do you wish to talk or to enter my realm?
+
+“Enter, please.” Ren said. “I need your help.”
+
+A bright yellow portal opened up and Ren stepped through it without hesitation or a second thought.

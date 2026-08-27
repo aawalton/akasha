@@ -1,0 +1,395 @@
+---
+id: 48544aba-f128-5b6d-8fb1-a92d5eeb5ac1
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 449"
+slug: 0148-the-path-of-ascension-chapter-449
+partOf: the-path-of-ascension
+position: 148
+ownLength: 6656
+unit: words
+ownProgress: 6656
+publishedAt: 2025-10-13
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2674017/the-path-of-ascension-chapter-449"
+royalRoadId: "2674017"
+markedReadAt: "2026-06-29T19:22:47.208Z"
+---
+
+Chapter 449
+
+A few additional planets worth of Natural Treasures added to their haul and people quickly approaching their rear, the Unsparing ran into the final obstacle for the breach: the bubble of third layer energies at the core of this scramble.
+
+Despite their surroundings making it easy to forget, they were still well within the first layer of chaotic space.
+
+The layer two energies, along with the higher than normal concentration of worlds they traveled through for years now, were only a pocket of higher strength energies shoved into the first layer. That was what a breach was after all, and what made it so valuable.
+
+What was much rarer was a third layer bubble of energies making it all the way to the first layer. That was what separated the Rasdale tidal breach from the others: it regularly shoved third layer worlds into the first.
+
+Anyone with a ship that could probably do so, would enter the third layer, but Matt expected few to be able to, and fewer still willing to risk it. Most ships that could enter the third layer were aiming for the portion of the breach that was still in the second layer of chaotic space, the portion that had failed to penetrate the calmer areas. Those worlds had the possibility for far greater riches, which inadvertently limited the Tier of the people around the Unsparing by tempting the strongest away.
+
+That wouldn’t stop higher-Tier people from trying to insert themselves among the Tier 35 and below, but the breach was big, and they could hopefully avoid most of that type of explorer.
+
+Since everyone was operating under the same general timeline, it was far safer to wait for the energies to dissipate. Once the third layer area started to weaken into a second layer energy state, everyone would descend upon the core of even more valuable worlds.
+
+The Unsparing was no exception.
+
+Ships that could handle third layer energies were incredibly expensive, and Lila had chosen to buy a new ship instead of retrofitting her existing one.
+
+They would wait, but in the meantime, there were two things to do.
+
+Properly loot a world and delve its rifts for first clear rewards. While that happened, word would start to spread about strange realms and then they, like everyone else, would start flying to the nearest ones that seemed enticing. The trick was in arriving before the strange realms broke or were taken over by a faction that was too strong to negotiate with.
+
+It would then be another round of fights to determine who could enter what, but that was typical for breaches.
+
+Being Tier 29, they would almost certainly be fine, so long as they didn’t fight over any of the incredibly rare Tier 32 and higher worlds, now that there were probably Tier 35s openly running around.
+
+If anyone like that with overwhelming cultivation confronted the seven of them, they would have to retreat.
+
+The size of the loss would determine how far they retreated; they wouldn't mind sharing the system if someone really wanted to dig in long term, but even their titles could only do so much if someone too strong arrived. At that point, all they could do was retreat or flee via Allie’s Talent, and that would be a lot easier if Allie had a waypoint out here.
+
+With that in mind, the first thing they did once they reached the wall was perform several divinations, both of their Seekers putting in their best efforts to pinpoint where they should go.
+
+They were only able to get a vague direction of where they would find the best loot, but both seekers had warned the seven of them that being so close to the higher layer energies, their divinations would be weaker, and nearly useless inside.
+
+They were only Tier 30s, and like the ship, not rated to enter the third layer.
+
+Matt was of little mind to push them or the ship.
+
+After their latest experience, Matt wanted to tackle more strange realms more than he wanted to delve planetary rifts. For the rest of the crew, the allure of first delve rewards were nigh irresistible, so Matt had no issue in them settling down and letting the crew run a few of the rifts for first clear rewards until things quieted.
+
+As it turned out, their Seekers' predictions were dead accurate, because after a few weeks of flying semi-blindly on their best guesses, they found a Tier 30 world just as it exited the third layer where they dared not probe.
+
+They set down on it, knowing it would draw attention, but they weren’t going to give up their first-mover advantage so they wouldn’t be contested. Even if they intended to move on quickly and not linger, like other guilds would.
+
+Seeing that there were no strange realms, Matt’s interest dropped as he looked around them and saw what they had for defenses nearby.
+
+The very strength of the planet's core would prevent other groups from entering reality much deeper than they had entered at. Unless their enemies' cultivation or equipment vastly surpassed Tier 30, the seven of them only needed to defend themselves from above, which was an advantage.
+
+With only seven of them, they didn’t have the manpower to fully contend against groups who would want to use their numbers to circumvent them and reach the planet while they fought the combatants, but that was unlikely to happen at all.
+
+Unless an exploration team was willing to earn a lot of unneeded animosity, most fights were to surrender, and so there was no reason to fully stop anyone who slipped by. If the seven of them won, the interlopers wouldn’t be able to return without emptying their pockets.
+
+Still, they needed to be cautious.
+
+Technically, the Unsparing even had a solution for more hostile engagements, but it was so expensive that if they lost, the winning team would undoubtedly demand it in any negotiations.
+
+The deployable drone network, for all of its advantages, had one glaring flaw. While it only took fifteen minutes to deploy the system, it took longer to properly store them, making them difficult to collect in a retreat in anything but the most ideal situation.
+
+Matt voted no on deploying the network, not caring too much about anything anyone got off the world after their people already went through and collected everything they could grab. Instead, he worked together with Zack and Rah while the crew let loose.
+
+Intending to stay for months, possibly years, as the energies weakened, they planned to give the Tier 30 world a proper scouring, which they hadn’t been willing to commit the time to yet in their journey so far.
+
+Matt thought he had seen thorough looting before, being on the Path and in the army both, but he underestimated what an exploration team might find valuable.
+
+When he had spare attention, he idly watched the gathering process as he carved miles of enchantments on the fortress they were creating.
+
+The first thing the crew did was to inspect all three inner most worlds, including the moons, identifying everything of value in the star system.
+
+Then, starting at the highest-Tier world, they started digging in.
+
+Matt expected another quick but thorough sweep of the world, where they grabbed more of the world’s items, such as metal deposits too small for them to usually bother replacing, but the Unsparing’s crew went much more in depth than that.
+
+Assisted by Matt, who was able to cast and hold two [Portal]s to the other nearby planets in the star system, the crew could hit all three worlds at once. That increased their work load, but also increased their efficiency, as they were able to better stagger their work. He pretended he could only cast it for fifteen minutes every hour, but that was still more than enough to earn him looks of awe from the crew and teasing from the others, but Liz and Aster most of all.
+
+Matt, at least, didn’t mind this admiration. Even with his Talent doing the hardest work of powering the spells, he had worked long and hard to even be able to cast and hold spells of that magnitude all on his own.
+
+He didn’t mind accepting praise for things he actually earned.
+
+That, and being Tier 29 helped a ton. The Tier up actualizing their last layer of essence had bolstered his spirit, increasing his normal range and making it easier to go past that range with Allie’s help when needed.
+
+Tiering up was truly the answer to most problems— except the ones it created, like destroying Matt’s fine mana control after his mana doubling.
+
+The crew started with the Natural Treasures and rare metals like usual, but they took the time to strip mine the worlds, going after anything solid and larger than a person.
+
+The crew was well practiced in extracting not only the fairly valuable Tiered ores, including the enriched and depleted variants, but replacing the metals with ores pulled from the nearest low-Tier rift that had the appropriate metals deposits.
+
+Matt knew that expeditions were mainly after the depleted and enriched ores, but without replacing what they took, an exploration team might ruin a world and make it impossible to produce Natural Treasures in the future. At their Tier, it wasn’t too much harder to replace what they took, so they kept to the accepted best practices.
+
+The crew had told Matt of worlds inadvertently ruined because of such rough treatment, later found as energy-rich wastelands with little left to collect, regardless of Tier.
+
+That meant any serious explorers were masters of thousands of tasks which Matt had never considered, and all of them were to make money.
+
+Once the Natural Treasures had been collected, Matt expected the harvest crew members to start delving with the remaining members of the crew, who together wanted to see if they could complete a delve in the allotted six months before the risk of another team arriving and forcing them off the planet became too great.
+
+They would exit or the rift would be dissipated, but Matt didn’t expect issues.
+
+Instead, he watched in a sort of sick fascination as the harvesting crew crawled around like ants on a corpse, extracting every ounce of value they could without damaging the ecosystem.
+
+Because of readily available spatial expansion, storage space was cheap but mass was impossible to entirely reduce with enchantments; they didn’t grab everything but it sure felt like it. Especially with how they went as far as returning mass to an area after they harvested it by creating a small wildfire and adding a corresponding amount of material pulled from nearby rifts, simulating natural events as much as possible.
+
+The crew then took samples of all of the populous wildlife, so long as they weren’t still directly connected to a rift, identifying anything with any kind of value before calculating how much of each it would be optimal to take.
+
+Then they ruthlessly hunted down and purged every rift-connected monster through small-scale floating fortresses they built over the first few busy days, in a practiced fashion, out of preconstructed slabs mixed with local materials.
+
+Their well-rehearsed groups were perfectly capable of clearing hostile rift monsters on their own, but they seemed more than happy to have Liz, Aster, Allie, and Susanne step in while Matt, Zack, and Rah continued their orbital enchantment efforts.
+
+The crew didn’t move on once the outer rift breaks were handled. Instead they broke down the monsters they had just killed, harvesting and packing everything away in various storage rings.
+
+Matt asked what would happen and the captain explained, “It’s not surprising you don’t recognize the practice, most teams don’t go this far, but we do this for the highest-Tier world we think we’ll hit and take as much as we can fit in a set amount of storage. The first step is to clear rift breaks and collect the parts as you see here. The common meats, once confirmed to be safe at the normal rift monster complications levels, are thrown into hyper large preservation-capable storage boxes made for this effect. Most of the meat will be sold to various food companies. They will clean it up, grind it up, mix it with a ton of other things so it’s balanced and sell it. Most will end up in various animal feeds. Anything more valuable or rich in power will get set aside to be checked. If we are lucky, one of these rifts will make something that tastes really good, then we can give you and everyone else a little surprise, Ascender Titan, as we target farm it.”
+
+When Matt asked about the rest, the Captain continued, “The same goes for the bones and hides. Anything valuable gets set aside, the rest gets sold to bulk traders. It's not worth a ton, but the boxes aren’t used much beyond once per exploration, so the wear and tear is minimal. Most only need maintenance every few thousand years, so they are a small but expensive investment some teams won't make. To me, it's one of the signs of a good guild. If they are thinking about the small stuff to that degree, they are usually covering the really important things."
+
+Better informed, Matt checked in from time to time as the crew continued to clear the planet of monsters. All of them were peak Tier 30s, but they were more than happy to have so many Tier 30 monsters to collect, smiles on everyone's face.
+
+As for the two other worlds, they cleared them out the same way but didn’t bother collecting the materials so carefully. Bodies were stored separately in the leftover space until they were full, then they were simply thrown into the rifts from where they had escaped. That many bodies would ruin an ecosystem otherwise.
+
+Once the monsters were taken care of and all three worlds pacified, the crew went and tasted one of everything.
+
+The Ascenders were, as promised, invited to the impromptu party. A type of pig creature, as well as a fish of unremarkable color or size, had both been rated as excellent tasting, and so the crew cooked up half a dozen of each animal, combining them with other local items, seeing what worked well and what didn’t.
+
+It was quite the feast for less than fifty people, but it was a nice break as the days turned to a month of waiting.
+
+Once the enchanting was done after the first week, Matt gave in and started following a team around after ensuring they didn’t mind.
+
+Matt watched as they selected specimens of the local non-rift monsters they wanted to transport home, putting them in small simulated environments that would, while not perfect, hopefully make do for a few dozen years until they made it home.
+
+That was made easier when Magnus was happy to let the pigs roam on a quickly made island. Matt was pretty sure he was angling to spread the lineage in his own herd, but no one called him out on it, not that Matt thought it really mattered.
+
+From there, they started cutting down trees.
+
+They mainly aimed at the younger trees, less saturated in energy, but they did take down a few of the older ones, leaving the actual oldest trees which were believed to have the best chance at turning into Natural Treasures. Whether true or not, Matt wasn’t going to insist on breaking such a taboo for a simple bit of wood.
+
+Not that Matt truly could say he understood why the wood was valuable at all. According to the teams he tagged along with, such ‘true’ old woods sold well enough to be brought back to settled space for those who cared about where their item material had grown. Part of what the crew were delivering was a guarantee that the wood was genuinely harvested in another world that wasn’t a farm or rift-created, but had been pulled off its own proper world.
+
+Matt was happy to do his part and stand close enough so some of the recordings of the work picked him up. He liked the crew and suspected that him being in the recording might increase the price of those pieces, and he was willing to help.
+
+Just when Matt thought they were finally done and going to start delving, the crew requested [Portal]s to the outer planets where they repeated their harvesting cycles.
+
+Matt, Liz, and three of the harvesting crew, being the only ones who could, flew into the central Tier 27 star and harvested the few rare materials that formed inside celestial bodies. Only then did the harvesting group quickly sneak a delve in.
+
+Matt was mildly embarrassed when he realized why everything the crew did looked so foreign to him. It was what normal delving teams did when they entered a higher-Tier rift. Especially after Tier 25, when the rift slot wait times became measured in decades per delve.
+
+Most teams made sure to extract every ounce of value from the Tiered materials inside, using them to help fund their lives outside the rifts.
+
+It was something they had stopped bothering with after Luna took over their training. She cared more about efficiency of delving so there was more time to practice in a day, and they had zero reason to change their stance in the meantime.
+
+He wasn’t happy he had become so detached from something so common.
+
+His bored musings were, thankfully, interrupted.
+
+Three months into their waiting time, their head start officially vanished.
+
+Matt was messing with a mana crystal, trying to replicate the strange realm’s storage crystal, when he felt a ship pop into real space.
+
+It was a lone Tier 30 Clans ship arriving with full shields powered, ready for a fight.
+
+Matt could almost read the ups and downs of the ship's crew's emotions as the ship's weapons started charging but suddenly stopped, and then a moment later they ripped their way back into chaotic space.
+
+The crew onboard the Unsparing were ready and they chased the other ship into chaotic space. Not to fight, but to make sure the other ship didn’t start trying to broadcast their location immediately.
+
+With their reputation, that would lead to unnecessary fights, and they wanted to delay that as much as possible.
+
+Thankfully, the other ship didn’t broadcast anything before they were out of sensor range.
+
+Returning to real space, they settled back in, only for an Empire vessel to arrive two days later.
+
+The ship was large by exploration ship standards, only slightly smaller than the Unsparing, and registered to someone important enough in Lila’s guild’s database that Matt was sent a system-wide alert upon the other ship's arrival. Not that he needed it once he saw the ship’s name.
+
+Evander Vidal was a legend similar to Lila in the Empire's chaotic space exploration social circles for having above average luck.
+
+Rising from nothing, he managed to reach Tier 15 in five hundred years with the singular purpose of getting beyond mere normal space. Impressive but not eye grabbing, his reputation was born when, only months after breaking through to Tier 15, he set out on a solo expedition in a ship that never should have avoided its fate of being scrapped.
+
+Against all odds, he not only survived but found several incredibly valuable Tier 13 Natural Treasures in his exploration, making a name for himself.
+
+Officially, he had only been lucky, but most believed he was an unregistered Seeker. No matter the how, his fame had been cemented in the last three thousand years as he repeatedly came back from even short jaunts with hauls larger than most teams’ record ventures.
+
+Leveraging those resources and his own prodigious combat ability, he had advanced to Tier 30 in less than five thousand years, making his name famous throughout the social ranks of the Empire’s explorers.
+
+Growing up, Matt had been part of a generation when Evander Vidal’s name was fairly entrenched within popular culture, with several movies coming out in short order of some of his adventures, which was why he was interested in meeting the man himself.
+
+According to everything Matt knew, Evander Vidal was an elite somewhere between high and peak, but even as a fresh Tier 30, he managed to slip out of the grasp of several notably aggressive exploration groups. To back himself up, his ship had two contingents of well-trained troops who were all at least low-level elites, with most being mid-levels.
+
+Vidal’s guild was a one ship crew, and was all the stronger for it.
+
+Matt wanted to know if the reputation was an illusion or if it was true, how good the older explorer really was.
+
+His hope was dashed when they received a query from a voice Matt had heard on movie screens as Evander exited his ship and spoke. “I hadn’t really expected to find you all. Is this the world you wish to ride out the initial storm on? It seems unnecessarily dangerous.”
+
+The man looked similar to his movie self, his appearance not particularly striking, but he carried himself with such an air and dignity, he simply radiated charm. His most notable feature was the striations that slowly rippled over his body in purple waves, in sync with his slow heart beats. According to his movies, it was the effect of taking a unique Natural Treasure found at the heart of a world’s ruin, but Lila’s guild doubted that claim, though they didn’t have definitive proof.
+
+Liz spoke for them. “We had been considering it. Since you expected us, should I assume the Clans ship we let go spread the news?”
+
+Evander nodded, his medium length hair flailing in front of his eyes exactly as it did in the movies Matt had seen.
+
+Brushing the offending lock of hair away, he grinned as he put his full attention onto Aster. “Indeed they have. Me and mine were close by when we heard the news. I’ll offer a place at my side as my team and I go to a nearby Tier 20 world. Fifty-fifty split and we help each other defend it. A much better offer than staying here, considering how many people are coming now that the word is out.”
+
+Aster flicked her tail, seeing that he was still looking at her with an easy grin. “And just what would the cost of such generosity be?”
+
+Evander did not surprise Matt by grinning back. “Would it be too forward if I made the cost of my offer of alliance a nice little dinner between the two of us when things settle down back in the Empire?”
+
+Given the undisguised glances the seasoned explorer had given Aster, Matt had expected something more crude. Liz and his committed relationship and public rejections of all kinds of offers kept all but the most bold at bay, but Aster was often considered ‘fair game’.
+
+The other explorer hadn’t been too pushy, so Matt wasn’t surprised Aster didn’t react more harshly. In addition, he could feel Aster was secretly gloating for a reason unrelated to this situation through their bond. He couldn’t clearly sense why she was so happy, despite probing her a few times, and so let her play her game.
+
+Seeing no immediate acceptance, Evander smiled as he took a step back. “I kid about that being the price, but I’ll make the offer for a more friendly dinner all the same. There are a lot of people coming to this breach, and it is dangerous to tread alone.”
+
+After smiling at Aster once more, he turned his attention to the rest of them.
+
+“Being a little slower than you all, I’ve got a better understanding of what is coming than I think you do. This area is going to be heavily contested. Against all believability, the Sects unleashed a new waypoint and are using their combined strength to claim a good portion of the breach. They attack anyone who approaches and the rapid expansion of their territory is pushing everyone else into each other, causing even more conflict. I suspect it will only get worse until everyone starts to settle down. High Tier areas such as this will be the most contested. If you choose to stay, prepare yourselves and be careful. There have already been instances of Tier 35s punching down. Some even managed to hide their identities after the fact, making it unlikely anyone will ever be able to get retribution. Instead of fighting over these scraps, the strange realms’ rewards are the true prizes.”
+
+Evander tried to convince them once last time.
+
+“We knew of the Sects’ new waypoint, but thank you for being willing to pass on such important news anyway. We will stay here for a bit, but we will take your advice to heart,” Aster responded in a serious manner.
+
+Her expression relaxed slightly and as she added, “I will, however, accept the dinner invitation.”
+
+With perfect timing, exactly when Evander was registering her acceptance, Aster finished, “As friends. Let's get to know each other better before considering anything else.”
+
+Matt nearly turned and looked at his bond when he heard her last sentence. He was surprised Aster had accepted, let alone flirted back. It was rare for her, and so far, there hadn’t been any second dates. Though, she kept in contact with a few of the people she’d gone out with. If he wasn’t her bond and knew she wasn’t interested in the other explorer, he wouldn’t have been that surprised, but she indicated she would explain later, so Matt dropped it.
+
+Evander grinned as he floated back into his ship. “Then you must protect yourselves. Good luck. Maybe we'll see each other during the scramble for strange realms.”
+
+With Evander’s departure, they were left alone for another week before they got their first challenger.
+
+The Guilds ship arrived and tried to leverage the relationship between their Great Powers to get a slice of the pie that was the world below.
+
+Liz refused flatly the abysmal terms they were offering and told them to leave. If they had been at all equitable, she would have happily agreed, but when it was clear they wanted to freeload, she sent them packing.
+
+The Guilds’ crew left the real space system with a new scar on their hull, courtesy of Zack, who disabled their shield long enough for Matt to land a [Mana Slash] to encourage them to be on their way.
+
+Before the next encounter, the portion of the crew who had been delving returned safely, having pulled out the easily accessible metals and ores they found through their journey.
+
+Even normal Tier 30 metals were valuable at such scale, and for the teams that stuck around on a world and delved it down, a lot of their cargo space would be dedicated to moving such material back to the Empire as efficiently as possible.
+
+The team that showed up next was no slouch.
+
+Tier 33s, the group weren’t elites but they seemed willing to press their luck with a four Tier advantage.
+
+Matt calmly listened to Liz talk, all while quietly preparing himself for an alpha strike.
+
+He used that time to build up momentum, and when words failed and blades were raised, he rushed forward.
+
+Matt didn’t use any complicated spell, keeping to his to-be-merged trifecta of spells.
+
+The four Tier gap wasn’t just for show.
+
+The lead tank blocked Matt’s opening attack, his Tier 34 shield taking the hit with hardly a scratch. The spells’ combined energies billowed around them in space like a creeping fog, obscuring the battlefield to visual and spiritual sense alike. An unintended consequence of throwing so much mana around but a useful one as it didn’t hamper his senses nearly as much.
+
+Having Tiered up, the cloud was considerably bigger than before, even though their combined energies were still ineffective against the higher-Tier man’s protections.
+
+Matt didn’t let that slow his follow up attack.
+
+[Wind Cutter], much faster than even [Mana Slash], flashed out, aiming for the smallest gap in between the informal shield wall, allowing the spell to bypass the frontliners, heading for the mages in the rear.
+
+The attack struck one of the support mages, tearing a wound across their torso and turning their battle with Aster over the magical surroundings decisively in his bond’s favor.
+
+The world turned white around Matt, but whispers on the wind told him where his enemies were, while those same winds screamed dissonant and confusing things in his opponents’ ears.
+
+It wasn’t often Aster was able to cast [Winter’s Last Whisper], a technique won from a minor bet with Sien. The original air spell wasn't nearly so useful, but Matt had to admit, the modified version lived up to the reputation.
+
+With the very wind at his beck and call, Matt darted in, this time not alone as Susanne, Rah, and Liz arrived.
+
+Metal meeting metal, magic meeting magic, the fight was on.
+
+The three approaching Lizzes were in her own miniature phalanx, covering each other as much as possible from the rain of spells and arrows. However, when a mage did manage to land a blow, the struck Liz exploded in a shower of ichor that was carried along by Aster's wind.
+
+Surprisingly, one of the enemy healers caught the maneuver. Even with Aster's debuff spells weakening their opponents, they managed to force all of Liz out of their circle, saving the rest of the team from being attacked by every drop of blood that made it inside.
+
+That didn’t stop the following two Lizzes from clashing with the frontline fighters, trying to draw one of them out of the skirmish line and overwhelm them.
+
+The enemies were faster and stronger thanks to the Tier difference.
+
+Matt, even fully boosted, was forced to plan three steps ahead to keep his limbs mostly attached.
+
+He willingly traded limbs for attempts at weak spots, but their enemy commander kept their people from overextending, which meant any wounds Matt did inflict were immaterial.
+
+Fighting at such a Tier deficit against people, especially well-organized and trained people, was much harder than monsters, and their higher-Tier equipment made everything harder still.
+
+Not that it was impossible to land a blow.
+
+A sudden, sharp turn from a magical spell, as it transformed into travel mana to increase its speed, forced out a surrender from one of the enemy crossbowmen who had been focusing on Zack and Aster.
+
+Zack hadn’t managed to kill the archer with the redirected attack, but the spell melted their eyes badly enough they immediately admitted defeat to prevent a followup.
+
+That brought a small moment of relief to the group, but it was short lived as the attackers pressed their advantage again.
+
+The fact they were fighting in space suddenly became obvious, causing everyone to pause briefly to ensure a rout wasn’t about to happen before resuming their clash. The impenetrable winter winds faded for a moment, leaving only the stillness of vacuum. They were replaced by even stronger and more ferocious winds as Aster reestablished dominance once more.
+
+Matt used the momentary pause to reengage next to Rah, who was doing his best to stop the advance of the enemies near him. Two on one, the lower Realm ascender was barely holding on. Despite being out-sped and out-muscled, he managed to get one of their enemies’ shields out of position, forming an opening at the cost of his left hand and creating an opportunity for Matt.
+
+Aiming for the armpit, Matt landed a wind-empowered thrust that slipped into the chest cavity, bypassing most of the armor and reinforced flesh, shredding the man’s softer insides. His enemy's life was only saved by his helmet's protective enchantment, which cut his head off, getting a barrier between the brain and the wind blades running rampant in the cage that was his former armor.
+
+The blow wasn’t inherently lethal; the wind blades might not have reached the brain, but many would surrender knowing Matt could have directed the energies upward instead of down. Instead, the man fought on.
+
+Not knowing if it was a bluff, a feint, or outright ‘cheating’, Matt thrust out. Energy crackled along the length of his blade, but this time, he aimed for the enemy's head, directly pushing himself to the point his flesh ripped and tore trying to keep up with the much faster fighter.
+
+The moment before Matt’s blade could land, cyan lights danced around the man’s floating head, shielding him with a cotton-like barrier that repelled Matt’s attack. The man's wounds miraculously healed, the blood and viscera that had collected in the armor forming back into a recognizable shape.
+
+Having felt that type of barrier before, Matt thrust forward again, aiming towards the weak area he knew existed in this sort of shield.
+
+His second thrust wasn’t blocked and it bypassed the healing spell as if there wasn’t a barrier at all.
+
+When the cold steel of his lattice sword skewered the man through the mouth, he surrendered.
+
+In return, Matt took a spell-enhanced short-range lunge from the man’s replacement, who disengaged from where Susanne struggled to fight off two people.
+
+Using the power from the Tier difference, Matt went with the blow instead of fighting it and landed next to Zack and Allie.
+
+Not having a shield wall in front of him, Matt joined Zack in trying to take out the ranged opponents, while Aster maintained cover for the entire team.
+
+Matt was forced to enter the frontline fight again when Susanne had to disengage to a Liz for healing, having willingly taken a sword to the chest in order to finish off an opponent.
+
+Taking her place, Matt took a heavy blow on the chest that shattered most of his ribs.
+
+Focusing on defense, Matt held off three fighters until Susanne returned, still covered in blood but mostly healed. Together, they baited out an extended lunge and decapitated another of their enemies.
+
+They weren’t the only ones to secure a bloody victory.
+
+Two Lizzes dragged a frontliner out of the shield wall and inflicted so much damage to the tank that even with a healer's full attention, their enemy still surrendered, fearing for their life. But one Liz was evaporated in return from a mage’s sound wave spell.
+
+The battle stalled slightly for a few moments after that but Matt didn’t mind.
+
+Instead, he signaled a retreat into their fortress and everyone followed.
+
+There was little reason to not use their defensive advantage when it became clear their enemies weren’t pushovers.
+
+From inside the shielding, it almost looked like it was raining, with the shield going opaque at the impacts before clearing, only to be hit again and restart the cycle.
+
+Not content to let them batter away, the seven of them went on the offensive. Now that they didn’t have to defend, they were able to unleash much more power.
+
+Three Lizzes joined together, and leveraging her multiple Domain emitters, she boosted a [Scarlet Plague]. With their mages occupied by Zack and Aster, she was able to circumvent their front line defenses and strike at the Clans team’s less-defended backline.
+
+Zack followed that up by redirecting a fellow mage’s spell into the back of a shield wall member, letting Allie teleport next to them and cut off their head before teleporting away again, leaving them to flee the battlefield.
+
+Their enemies’ Tier and gear were doing a lot of the heavy lifting, and even fully boosted, Matt found it hard to follow every move. Instead, he fought more with his instincts than coordinated planning.
+
+Seeing a gap open up as Liz slipped a tendril of ichor into the formation and caused chaos, Matt flared [Mana Beam] but paused as the spell wavered.
+
+Normally, that only happened when he had so much spiritual damage his control slipped, but Matt could feel it wasn’t because of that. Neither was it because of his mana control, though his recent doubling certainly didn’t help. Rather, he could feel the mana in his spell become so numerous that it wanted to obey natural phenomena instead of the spell’s instruction, and a wave pattern started to form.
+
+The oscillation was less than a millimeter, so small most wouldn’t even notice the discrepancy, but as Matt increased the mana he sent into [Mana Beam] beyond a hundred million mana a second, the problem grew exponentially worse. At two hundred million mana a second, the problem became noticeable to the naked eye, and at three hundred million, Matt was fairly sure he’d lost control over the spell in his spirit and didn’t dare risk it in a fight.
+
+Pausing and dropping some of his unnecessary physical enchantments now that they were behind the barrier, Matt felt as his spirit gained a minor amount of control back, but it didn’t eliminate the problem altogether. Matt had known his mana control would become harder, but he hadn’t expected his mana generation to outpace his spiritual strength to such an extent.
+
+It was far from debilitating, but unless he got ahead of the curve, he’d end up with wasted mana in a fight.
+
+Scanning through the known Natural Treasures they collected so far, Matt identified a few spiritual-strengthening treasures that might help but they were, like his mana concentration, temporary solutions.
+
+He needed another mana crusher, but this time for his spirit itself.
+
+Thankfully, unless the math on his spiritual control growth was different than he suspected, he had a few Tiers before he truly had more mana than he knew what to do with and he was fairly sure that he had a solution already in mind.
+
+That thought made Matt alternatively consider more reserve spells.
+
+Pushing all of the distracting thoughts away, with careful aiming, he forced out another surrender from a mage with [Mana Beam] as their enemies drained themselves trying to keep up the assault on the fortress they retreated to.
+
+Liz took that opportunity and her phoenix body slipped inside a gap in the shield wall, morphing into liquid form and splitting three ways.
+
+Seeing a chance, Matt flared his Domain Meld for a moment, interrupting the enemy Domain binding that tried to trap Liz.
+
+Panic immediately descended on the attacking team as Liz was let loose on their backline, but instead of retreating directly, their leader called for an attack. It wasn’t a bad move, as it kept the momentum from shifting too far out of their favor, but it was risky.
+
+If they didn’t win their first push, they would be in no place for a second.
+
+Pulling back to the barrier, Matt still took multiple blows, but the few that did get through [Cracked Phantom Armor] healed quickly.
+
+Sadly, he was the only one doing so well.
+
+The others had taken their own wounds over the fight. The four Tier gap rendered their armor less effective than normal, but all of them were still in fighting shape while their enemies had suffered numerous losses.
+
+Matt was contemplating casting [Sheer Cold] for the next assault, or detonating the mana talismans he had hidden on the outer walls, but before he could do either, the enemy team decided to cut their losses and pulled back. Having not destroyed a single shield projector in their latest clash, they made the smart call.
+
+All of them were battered and bruised but they had defended their world.
+
+For the first time.
+
+Now they needed to do so again and again for the next five or so years until most explorers, and their conflicts, settled down and it was time to hit as many strange realms as they could before the planets still inside the bubble third layer energy became accessible.

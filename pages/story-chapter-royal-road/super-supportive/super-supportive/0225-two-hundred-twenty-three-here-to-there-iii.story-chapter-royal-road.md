@@ -1,0 +1,229 @@
+---
+id: 8040810c-0d42-52c3-afa2-1ce6b7ab1d66
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED TWENTY-THREE: Here-to-There III"
+slug: 0225-two-hundred-twenty-three-here-to-there-iii
+partOf: super-supportive
+position: 225
+ownLength: 3451
+unit: words
+publishedAt: 2025-06-11
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2346916/two-hundred-twenty-three-here-to-there-iii"
+royalRoadId: "2346916"
+---
+
+***
+
+223
+
+***
+
+The caravan of vehicles that bore members of the ordinary class away from  Tass-ovekondo’s care was much larger than the one that had found three knights, one votary, and a human on the road earlier this morning. Alden wished he could have a bird’s-eye view of the procession. Hundreds of people and their belongings rolled, skimmed, or flew across the open desert on vehicles both magical and mechanical. Artonan voices drummed and hummed songs together as they went, and whenever the laughter of a wild o’odee sounded, all of the children and half of the adults would try to spot the bird and reply to it enthusiastically.
+
+Alden was near the very front of it all, “standing guard” on one of six, wheeled haulers with his new carved egg and his messenger bag tucked safely in front of his feet. Usually, these vehicles carried supplies to and from the village. Today, they carried the people who’d spent their lives loading and unloading them. The haulers were long and flat with short, perforated panels for sides. There were no driver’s cabs or roofs, and no seats except for the ones the passengers had made for themselves out of their luggage or brought with them.
+
+Their ultimate destination was a city where a wizard who was expanding their business had agreed to provide jobs for many of these people and homes for all of them. The move was happening today, but plans had been in the works for a while. The possessions that could be sent ahead to the new houses already had been, but according to the customs of the Here-to-There, some things couldn’t leave the village until today.
+
+The family stones, anything that counted as “fruit of the land,” and gifts given by Tass-ovekondo over the years were all coming with them. And the village master had doled out plenty of presents throughout her life, including furniture in a style that had been common among the native population of this region ages ago. A lot of it was basically made of concrete, so Alden had had opportunity to show off his ability to lift heavy things before they even got underway.
+
+Like the oval table and curved benches behind Bithe, on the hauler to the left. The table belonged to the family of assistants, and despite it being piled  with boxes and bags, they were sitting around it like it was still in their home. The ride was so smooth that there’d been no need to tie anything down unless it was light enough to blow away in the wind, and the family looked quite comfortable. The old woman who’d been given the wand was still holding the cushioned box it was in as carefully as if it were her own child.
+
+Alden’s hauler held the families Emban and Ryada-bess had taken responsibility for, along with a few other passengers and a ton of luggage and furniture. The only thing ahead of them at the moment was Leeter-zis’s decorated cart, which was capable of ludicrous speeds for what looked like a luxury golf cart with the seats facing each other. Those seats were filled with a mix of Tass-ovekondo’s relatives and wizard friends, who were allowed to assist with the move in a way she wasn’t. Leeter-zis himself preferred to caper around on the cart roof, and if it didn’t have some kind of feature to keep him from falling off, then Alden was amazed by the guy’s balance.
+
+Leeter-zis threw his arms out like he was basking in the glorious day or pretending to be an airplane. Alden watched him for a minute, then went back to scanning his surroundings for nonexistent danger. He wasn’t sure how serious he was supposed to look about standing guard. Bithe seemed to be opting for very serious. Most of the adult wizards were being more casually helpful and entertaining. Ryada had started out as a serious guardswoman, but then she’d switched into storyteller mode when one of the girls riding with them worked up the courage to ask questions.
+
+And now she was over beside Emban-art’h, saying something to make Stuart’s cousin smile.
+
+It was kind of an evil smile, as if they were plotting something together. But that was even better, wasn’t it?
+
+Yes! Good, good. Bond over pranking Bithe.
+
+He hoped it was Bithe, anyway, if pranks were on the table. He doubted they would be plotting against anyone not a member of their group, and Stuart had too much going on already. Currently, he was at the other front corner of their hauler, his eyes closed and his hands hidden in front of him while he worked with his auriad, murmuring a spell that was supposed to create shade. He’d watched the wizard on the hauler behind them do it for her group, called to ask a question, and then gotten lost in thought for a minute before telling Alden he thought he understood how it worked.
+
+Just that easy? I want to understand how it works.
+
+Watching a whispering person who was trying to keep his hands hidden so it wouldn’t be obvious to members of the ordinary class if his spell failed wasn’t the best way to learn new magic, though, so Alden would just have to focus on being the one who had the right bearing for fake guard duty.
+
+Look for danger to the left, look for danger to the right, up, down…
+
+Out in front of the hauler, there was a flickering bar of light that wasn’t easy to see in the blazing sun. If it was scanning for obstacles in their way, like he guessed, there were none for it to find. Hard-packed ground stretched ahead of them, broken only by sparse patches of spongey plantlife bravely making a go of it.
+
+This is a tough place to live. Maybe there’s a rainy season or something.
+
+He had drained his water bottle once already and refilled it, but he’d gone through it again. The inhaler kept him feeling all right, but it did nothing to stop him from perspiring. He was certain every ounce of what he drank was pouring directly out of his skin and into his clothes.
+
+At least he wasn’t the only one sweating for a change. This part of the trip wasn’t supposed to be long, but everyone was going out of their way to find shade where they could or where wizards provided it.
+
+Come on, Stuart. You can do it. Show off a little.
+
+The treatment of the other wizards toward their group while they all loaded up the vehicles had been a mixed bag. Most seemed to be trying to make a positive impression on the young knights and their votary, but whether someone was going to do that by leaping in to perform basic spells so that Stuart wouldn’t have to lift a finger or they were going to pretend they didn’t see him struggling to manage six wizardy tasks at once was never certain.
+
+For his part, Alden was catching a lot of one-eyed glances but getting very little interaction from the wizard class.
+
+If Stuart doesn’t have luck with the shade spell, can I find a tarp or something to make a giant parasol for our hauler?
+
+When they got to the train—or the thing that had been described as a conveyance like a train by the translation—he’d be looking for the coldest spot possible. He sincerely hoped they had a walk-in fridge.
+
+While he pretended to guard and waited for the votary to provide, he took his pouch of Stuart’s properly administered trail mix from his pocket, ate a nut out of it, and then dropped a single yovkew so that it landed on one of the packs behind his right foot. Then, he pretended not to notice the small hand that stretched out to grab the dehydrated fish.
+
+The little boy sitting there had gobbled up his own trail mix, but he wouldn’t take Alden’s when it was offered. Or even if he was watching. The poor kid had actually been avoiding the scary Avowed altogether before they set out, but then he’d received bad news from his mother and run to this end of the hauler to nurse his sorrows in a nest he’d made out of his family’s clothes packs.
+
+Asking your mom how many o’odees lived in the new place you were going and discovering the answer was none was devastating stuff, and so was being refused by your entire family when you tried to insist that they turn around and take you back to the village.
+
+Alden dropped another yovkew. It disappeared even faster than the last one.
+
+A chuckle made him turn around to see Ryada looking his way. For a second, he had a nervous thought that he might be the target of the plots they seemed to be making together, but then he noticed her patting Emban’s shoulder and pointing toward the kid lying on the pile of bags, watching the spot where crumbs sometimes fell.
+
+It is okay for me to feed this small Artonan this way, isn’t it?
+
+Ryada and Emban were clearly waiting for it.
+
+Alden dropped another yovkew, and pretended not to notice as it disappeared like the others. Emban-art’h looked at Alden with raised eyebrows. Ryada was grinning at him.
+
+Do you see this, Bithe? Other people think I’m decent.
+
+He knew he needed to stop trying to analyze Bithe’s freak out. The knight had apologized. It was fine.
+
+Except Alden really wanted to figure out where the miscommunication was.
+
+I looked at the vatha. I asked how it worked. He said they started coming to him after his recent affixation, whenever he thinks of himself in a certain way. I said, “That’s special. You have a sign that you’ve chosen your skill well.”
+
+Had he pushed in where he wasn’t wanted?
+
+Was it because Bithe thought he was just an Avowed who couldn’t really understand?
+
+“Many people choose beautiful skills for themselves without receiving signs.”That was what the knight had responded with before he started talking about how garbage Alden was at speaking Artonan.
+
+He wanted to groan. I still don’t get why it went wrong that fast.
+
+Maybe it was driving him crazy because part of him was afraid that it was evidence he couldn’t really get along with Knights of the Mother Planet who weren’t Stuart. How many times had he said something real to one of them, about them and what they were?
+
+Esh-erdi, once, but he’d been carefully asking a question, and Esh-erdi seemed difficult to offend.
+
+In the best case scenario along a certain choosing season path, where my secrets go wide and I’m allowed to swear whatever the oaths are and we all agree I’m one of the Intensity 99.9 group…what if…? He took a breath of hot air. What if I make the choices that lead me there, and most of the knights just can’t get along with me because I’m weird to them?
+
+The majority of Artonans could be nice to him and get along with him in a shallow way, but there was a difference between the people you met for a day or two and the people you planned to live your life around. Stuart’s parents didn’t even think the two of them could be friends for more than a season of their youth, and while Alden thought they weren’t right about that, it did indicate that they themselves couldn’t imagine being truly close to a human, didn’t it?
+
+Wonderful. I’m worrying about this. And it’s stupid.
+
+She had told him already how it would be, in a way. He remembered the words all too clearly.
+
+It would deeply gratify some to know you are pursuing your course. And it would mortally terrify others. It’s not something you should reveal lightly if you want to enjoy book clubs and live on Earth for a while longer.
+
+She hadn’t been talking about knights specifically, but he had to assume at least a few of them would fall into the deeply gratified category…otherwise he’d panic.
+
+And now instead of focusing on my guard duty I have to come to terms with the fact that I’ve failed to join a book club. Thanks, Bithe.
+
+The ridiculous thought was what he needed to snap himself back to the present moment. And when he looked toward Bithe’s hauler again and saw how grim the guy looked, it was enough to make him more worried about the knight’s wellbeing than his own.
+
+He’s not staring at the desert anymore. Where’s he—?
+
+Almost as quickly as Alden decided to see what had caught Bithe’s attention, that attention was fixed on its task again.
+
+Was he looking at Emban and Ryada? They’re that way.
+
+He’d been encouraging Emban to ask Ryada to deepen their authority bond with each other, so most people would think he should be happy to see them with their heads together. They were separating all of the yovkew out of their trail mix pouches so that they could present them to the little boy and steal Alden’s amusement.
+
+Bithe could be feeling lonely himself.
+
+This important, magically powerful relationship that most knights must want and only a few managed to achieve…
+
+A shadow fell over him suddenly, dropping the temperature by what felt like ten degrees in an instant. The people on their hauler made appreciative sounds.
+
+Alden smiled. “Stuart, you did it.”
+
+Beside him, a pale purple auriad was disappearing into a sleeve, and its owner was standing a bit straighter. “I did.”
+
+“Was it a hard spell?” Alden asked.
+
+“It was just new.”
+
+“Don’t believe him.” Emban was right behind Ryada, who’d just come over to offer the yovkew to the child. “It would have taken others his age at least a couple of days to learn that.”
+
+“I cast for you as your votary today,” Stuart said. “So all credit goes to you.”
+
+Alden’s eyes drifted to the sleeve the auriad had disappeared into.
+
+“Sometimes,” Emban said, “spells fall like leaves into Stu’s hands.”
+
+“Only sometimes,” said Stuart.
+
+“He’s too proud of himself, Ryada. Let’s push him off the haul—” Emban looked down at the little kid sitting on the pile of bags, happily accepting the snack from Ryada. Her tone changed.  “I mean let’s push him toward achieving even more and thank him for his effort!”
+
+She spoke with too much volume, and others sitting behind them heard her over the singing and chatter. As everyone onboard loudly thanked Stuart and encouraged him to pursue his education wholemindedly, the expressions on all three Artonans’ faces were priceless.
+
+******
+
+******
+
+After accidentally commanding an entire group of people to thank her cousin, Emban took up a post on the right side of the hauler, where she could keep her face turned toward the desert and hide her embarrassment. Ryada was on the left side, waving at Bithe’s group. The child had taken his pouch full of fish over there to eat it in her company.
+
+Stuart and Alden now had the front to themselves.
+
+“Master Leeter-zis is still telling people he’s a professional celebrant,” Stuart was saying. “And he may be living as though it is a profession. Bithe said he heard someone else mention that this is the eight hundred and fifty-fourth consecutive day in which Leeter-zis has been in attendance at a celebratory event.”
+
+“That is a lot of consecutive days. Stuart?”
+
+“Yes?”
+
+Show me the shade spell again sometime, thought Alden. Slowly. I couldn’t hear you clearly or see everything you did with your hands.
+
+“Thank you again for the shade,” said Alden.
+
+“I had to do something. I should have had a faster magic prepared. I’m sure there was an option at home I could have brought.”
+
+What does it feel like? To not have an affixation at all, to reach for anything, with all of yourself…won’t you miss that?
+
+I think maybe I miss it, and I’ve never even had it.
+
+“I have a question, but I’m afraid it’s one I shouldn’t ask.”
+
+“Then ask it silently. I did bring something for this! I put them…” He dug into a pocket, then out of the pocket came a bag, then out of the bag came a box with a trio of rough stone rings inside. “Take one. They’re very old, and they don’t resize themselves.”
+
+Alden took a ring with as much care as possible because if Stuart said “very old” he didn’t want to think about what the exact number of years involved might be. He slid it onto his right pinkie and curled his hand into a fist to keep the heavy ring from going anywhere.
+
+Stuart was sliding on his own. “These should make sure our words reach no other ears.”
+
+Alden took a little bit longer, trying to think of how to ask what he wanted to without sounding like he doubted Stuart’s choices. “You told me what being a wizard was like. Moving through reality with true awareness of your own freedom. Will casting spells be different for you when you become a knight?”
+
+“Oh.” There was a note in his voice Alden couldn’t identify.
+
+“Less frequent,” he finally answered. “My thoughts may be more <<bittersweet>> about it. But when I am casting, it should feel similar. Why do you ask?”
+
+“Because…I know it’s big,” Alden said. “What you’re going to do is big. I think I’m just trying to make sure I understand it in the same way you understand it.”
+
+“Everything I can do now, I will be able to do again,” Stuart said. “Don’t worry for me. Everyone else worries for me too much.”
+
+“I didn’t mean to seem worried. Should I change the subject?”
+
+“No. You may ask me anything.” He sounded like he wanted the subject changed.
+
+“Actually, now that you’re not quite as busy I wanted to ask you about something else. The gift the village master gave. It’s very important?”
+
+“It’s not the kind of wand you’ve seen me use. It’s one bound to the wizard, almost like an auriad. Tass-ovekondo has made a profound gesture of respect and affection by giving it, and Uro-bor will put it in a place of honor in her new home.” Stuart flicked his eyes toward Bithe’s hauler. “By some ways of thinking, she could now change her surname. Uro-ovekondo. I’m not sure if that’s something that’s followed here, though, and she hasn’t had much time to consider it.”
+
+Alden’s auriad squirmed in protest against his ankle when he thought of it being taken as far away from him as they currently were from the village.
+
+“Does that hurt Tass-ovekondo?”
+
+“Yes. No?” Stuart hesitated. “I don’t have personal experience. I think it should be a joyhurt, since she did it by her own choice. Giving away a treasured belonging to a treasured person might make anyone feel loss and pleasure at the same time. It does put the wand at risk, since it will be very fragile so far from her. But Uro-bor…you’ve seen how she guards it. Bithe has one eye on it most of the time, and I look toward it often, too. It will survive this trip, and since Tass-ovekondo will probably outlive Uro-bor, it will return to her one day.”
+
+Alden had already gotten part of the story from eavesdropping on other conversations. The village master had lost her first spouse years ago and her second more recently, and a combination of grief and a couple of failed healings had made her more likely to experience future healing failures.
+
+“One of her sons seemed unhappy about the wand.” Alden tried to point surreptitiously at Leeter-zis’s cart. The man who’d been angry on the patio after the event at the village meet hadn’t shown up to help load everything, but he was there now, riding along with them all.
+
+“Him,” said Stuart. And there was, if Alden wasn’t mistaken, a faint distaste in his voice.
+
+“Do you know him somehow?”
+
+“No. But Uro-bor’s family has been telling Bithe of him. He is the only one of Tass-ovekondo’s children who wanted to take over the village, and the only one who couldn’t do it. Neither she nor her people would support him in it. Considering how much they care for her and she for them…”
+
+He’s too shitty for them to work for, thought Alden. Got it.
+
+“And I checked his diploma. He’s barely competent.”
+
+Alden found himself turning to stare down at Stuart. “You checked a man’s diploma?”
+
+“Why wouldn’t I? It honestly wasn’t much of a diploma at all.”
+
+******

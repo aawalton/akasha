@@ -1,0 +1,193 @@
+---
+id: 95573b80-c696-56fd-9f5a-5ad5d8281254
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3: Hello World"
+slug: 0003-chapter-3-hello-world
+partOf: road-to-mastery-a-litrpg-apocalypse
+position: 3
+ownLength: 2414
+unit: words
+publishedAt: 2022-11-17
+link: "https://www.royalroad.com/fiction/61041/road-to-mastery-a-litrpg-apocalypse/chapter/1042790/chapter-3-hello-world"
+royalRoadId: "1042790"
+---
+
+Jack had finally managed to process all the information. Not completely, but enough to proceed. He’d also killed a goblin, though he didn’t like to think about that.
+
+Gradually, a plan formed in his mind:
+
+Leave the cave; Explore the natural reserve; Find water, shelter, and food, in that order; Survive until someone found him or kill the Dungeon Boss to escape.
+
+It was a good plan, assuming that everything really was game-like. The largest doubt he had was about the environment outside.
+
+Before the Integration, as the blue screens had called it, Jack had been in a small, hidden cave in the middle of the Greenway nature reserve. The System had called the dungeon Forest of the Strong, and given that the natural reserve was a forest, it was reasonable to assume that the entire reserve had been dungeonified.
+
+On one hand, that was good, because Jack had been to this reserve many times. On the other, it was a dungeon; even the best of dungeons sounded worse than, say, his house.
+
+Regardless, Jack now had his bearings, a way to fight, a basic awareness of the situation, and a plan. He was ready to survive harder than anyone had ever survived before.
+
+However, before leaving this cave, there was one last thing to do. He set his sights on the ice pond.
+
+Ice Pond (E-Grade)
+
+A hidden resource of the Forest of the Strong. The piercing cold of the Ice Pond can heal and forge a cultivator’s body. The deeper you go, the more painful the cold, and the more effective the forging.
+
+It promised a forging of his body, which sounded suspiciously nice. If he was going to fight for his life, he couldn’t let this opportunity go. Moreover, it mentioned something about healing, and his entire body was still in pain and sore from the goblin fight. His right fist was also bruised and bloated.
+
+Jack reached the pond in two steps. It was nine feet wide and stretching around fifteen feet back, by Jack’s estimation. A short waterfall was at its end, supplying cold water from a crack between the rocks.
+
+From this distance, the cold was staggering. Jack thought he was standing by a glacier. The water was still and extremely clean, letting him easily make out the rock bottom. He could even see his green eyes staring back at him from the surface.
+
+Jack stood beside the pond and gulped. The smooth incline of its bottom made it seem inviting, but the cold was forbidding.
+
+What if I get pneumonia? What if this water is full of bacteria?
+
+Many doubts crossed his mind, but at the end, he was in a game-like situation. Mundane things, like pneumonia, felt distant and inconsequential. The goblins waiting outside were a much more immediate danger, and the pond could help him live through it.
+
+He took a deep breath and removed his clothes, leaving only his underwear to feel safe. He then stepped into the pond with his right foot.
+
+He instantly thought he lost it. All feeling disappeared, leaving only a numbness and ten thousand frozen needles. His instinct screamed to remove his foot, which he did, and the cave’s humid air felt heavenly compared to that blitzing cold.
+
+“Holy shit…”
+
+Jack took a few breaths to regain himself, then inspected his foot. It was fine; no, it was more than fine. It felt rejuvenated and sturdy as if brand-new.
+
+It was an odd feeling, but he could only equate it to taking a comfortably cold shower, except the rejuvenation was much more intense, and so was the cold. A magical equivalent of a cold shower.
+
+It was clear that the System hadn’t lied—this was healing and forging—and Jack, having recovered from the cold, decided he had no choice.
+
+“Fuck me.”
+
+He decisively stepped into the lake, this time enduring the cold. He waited there a moment, and the feeling gradually receded, stabilizing at a level that was cold enough to be painful but not enough to be harmful.
+
+It was safe.
+
+Taking another deep, trembling breath, Jack put his other foot inside too. When he got used to the cold again, he even kneeled in the water to submerge more of himself. His teeth were already clattering; he didn’t dare take more steps as he remembered the System’s warning that the cold increased the further he went. He could already feel a freezing current coming from the depths of the pond; a single step would increase the cold substantially, and he was already at his limit.
+
+Jack’s body was spasming. The cold was so piercing that it caused him physical pain. His body demanded to get away, but his will resisted, holding himself steady. He could tell it was safe, at least for a little bit. It wasn’t too cold.
+
+The cold spread from his legs to his entire body. He was pale, but he could also sense a new sturdiness seeping in, enhancing him. His skin, flesh, and bones were filled with that cold; they were all shivering in pain and anticipation.
+
+Finally, the cold settled. He got used to it, and through gritted teeth, he took a deep, deep breath. He couldn’t help grinning. This pain was so self-improving it was almost addictive.
+
+Almost. He somehow felt that he’d gotten what he ought to, and he should leave or go deeper, but the cold there felt forbidding.
+
+However, before he left, there was one final thing to do. Gritting his teeth, he stuck his right palm into the water, the one he’d injured against the goblin’s soft bones. He couldn’t stifle his scream. The cold assaulted his injured hand as if alive, surrounding it and submerging it in wave after wave of freeze.
+
+Jack instantly lost all feeling, and this time, it felt dangerous. He had to pull away now.
+
+He jumped back outside the lake, losing his footing by the drastic change in temperature and falling on his butt. He looked at his hand; it was slightly blue, but the bloating was already receding. It was much better.
+
+Jack let his back meet the ground as he exhaled in relief, closing his eyes. The cave’s relative warmth was massaging his entire body, the feeling so euphoric it almost made up for the pain of the lake.
+
+Almost.
+
+As he eyed it again, he shivered at the thought of entering again, but he knew he had to. He briefly considered investing in Will to handle the cold better and decrease the pain but quickly discarded the notion. How far he could go into the lake was dictated by how much cold his body could handle—meaning, his Physical. No matter how strong his willpower got, it wouldn't affect his bodily limits. Plus, he didn't have points to waste—he'd just have to bear through the pain as he was.
+
+When his body grew more resilient, mostly through level-ups, he could go deeper into the lake and reap more benefits…but, of course, that’s if the lake lived up to its System description.
+
+Ice Pond bonus: +1 Physical
+
+It was a short message of great significance. Jack reviewed his status screen.
+
+Name: Jack Rust
+
+Species: Human, Earth-387
+
+Faction: -
+
+Grade: F
+
+Level: 2
+
+Physical: 7
+
+Mental: 7
+
+Will: 6
+
+Skills: Fistfighting (I)
+
+His Physical had increased by one sixth by simply stepping into a lake. One point didn’t seem like much, but Jack had a mathematical mind and knew it was actually humongous!
+
+Since his initial stats were 4,7,6 for the three stats respectively, he assumed the average was 5. Now, he was as strong as he was smart, and he was hella smart. He even had a PhD—almost.
+
+If I put those free points in Mental, would I be smarter than the Professor? he wondered idly, then chuckled and shelved the thought. No way.
+
+Then again, my Physical started at 4, but it couldn’t be below average. I’m a healthy young man. Is the average not 5? Or does it include other things besides humans? Or is it not built around averages to begin with, and the human average would be 3.689 or something random like that?
+
+Jack shook his head. It didn’t really matter.
+
+He then jumped upright, surprising himself. His body was vastly superior to what it used to be, and he even had the Fistfighting skill to augment him. Compared to when he met that goblin, he was a completely new person.
+
+He eyed the tunnel leading upwards, towards the surface. The world up there could be filled with monsters, terrors, and nightmares…but Jack was ready. He grinned.
+
+Prepare yourself, world. Here I come!
+
+***
+
+Jack peeked his head out of the cave. “Gah!” he said, instantly blinded by the sunlight. He rubbed his eyes and tried again.
+
+A rocky surface stretched to his left and right—the hill over the cave. His front was occupied by interspersed trees and bushes, dense enough to be called a forest but sparse enough for people to walk in between. The trees reached from nine to eighteen feet into the air, their trunks a dark brown and their leaves a bright green. The bushes were paler in color, and they were mostly filled with annoying sticks and spikes.
+
+There was the occasional berry hanging down, maybe the rare fruit, too, but the nature reserve was pretty empty overall.
+
+That is, unless the System had anything to say. Jack hoped it wouldn’t.
+
+His current shelter was a crack in the rock, seemingly shallow but actually leading to a hidden cave underneath. It wasn’t easy to find; maybe that’s why the System placed the ice pond inside it. A hidden bonus, of sorts, for those willing to explore—a bonus that would save Jack’s life.
+
+However, it was time for him to finally see the outside world.
+
+The first thing he did was take out his cellphone, an old Samsung model, and give it a shot—there was no signal at all. He shook his head. Yeah, thought so. Like the System would let me call the police. After placing it, his electronic car key, and his wallet in a hidden crevice of the rocks, he looked around.
+
+Seeing no animal or goblin nearby, Jack took a tentative step outside his cave, then another.
+
+The air smelled the same as always; wet grass and crisp breeze. The grass parted easily under his feet, and the tree barks were uneven under his hand. Insects buzzed in the air, animals yelped from afar, and leaves fluttered in the wind—one even flew to his chest. Everything was as he remembered.
+
+Was it all a hallucination? he wondered. Did the earthquake release gasses in the cave?
+
+A blur shot past his sight, darting from bush to bush as it quickly ran away. Jack caught a glimpse of its bushy, orange tail and triangular snout.
+
+Fox, Level 1
+
+Foxes are mostly harmless omnivores that inhabit forest areas.
+
+Not too talkative now, are we?
+
+Compared to the goblin’s description, the fox’s was tiny. It was clear that the System either didn’t know or didn’t care about them—probably the latter.
+
+Regardless, even this bit taught Jack many things.
+
+His communication with the System was still on. It was aware of the local wildlife. And, most importantly, foxes were Level 1—or somewhere around there. This was interesting, because understanding the Level classification was crucial to Jack’s survival.
+
+The goblin was Level 2 and could threaten an adult human. The fox was Level 1 and could possibly threaten an adult, but not quite as much as the goblin. Then, were adult humans between Levels 2 and 4, with the average at 3?
+
+It sounded elegant. Of course, for every problem, there was a solution that was simple, easy, and wrong.
+
+Jack himself had been Level 1 when he beat the goblin, but that couldn’t be accurate. He had been stronger than it—not by much, but stronger nonetheless. It didn’t make sense for the goblin to be higher-leveled than him.
+
+Am I on a different scale than everything else? Is it because I can level up while they can’t? Or, maybe, everything can.
+
+He shook his head. The more he considered the issue, the more questions he had—which was good, because that’s how knowledge was supposed to work. If he could see through the System at a glance, it probably wouldn’t be a good System.
+
+Thankfully, he didn’t need to know much right now.
+
+After my power-ups, I can fight Level 3 creatures and should probably run away from Level 4s. I need more samples to understand the power curve, though.
+
+Insects and a squirrel didn’t trigger the System’s response, giving at least a good estimation about the lower bounds of Level 1. Armed with that knowledge, Jack set out to explore.
+
+Well, explore was a generous term. He had to find water, shelter, and food. He already had the second. As for water, the reserve had plenty of creeks to choose from. It wouldn’t be too difficult.
+
+However, before even that, he wanted to escape the nature reserve—or, at least, confirm that dungeons were as inescapable as they sounded. If he stayed here for a month and then someone came and said, “oh, why didn’t you just walk away,” Jack would feel like an idiot.
+
+Angling himself to the south, which was the closest edge of the nature reserve that probably overlapped with the dungeon, Jack set out. In the process, he kept his eyes open, not only for goblins, but also for everything else. The wildlife was abundant in the reserve, letting him make several observations.
+
+First, plants didn’t register with the System. The weakest animal he found at Level 1 was a big crow, and the strongest, a boar he saw from afar at Level 4. He was getting a hang for what Levels meant, though it wasn’t easy to set in stone.
+
+Thankfully, his forest experience came in handy. It allowed him to cross the terrain stealthily, not raising the ire of any creatures. He knew when and where to hide, which animals were aggressive and which weren’t. There weren’t any natural predators in the reserve, at least not for humans, so it was smooth sailing.
+
+Being a biologist had its perks—Jack focused on insects, of course, the testbed of evolution, but he knew a bit about everything.
+
+That excluded goblins.
+
+Luckily, he could get to know them quickly, as three were already approaching. He could hear them through the bushes.

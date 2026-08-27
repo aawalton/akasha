@@ -1,0 +1,371 @@
+---
+id: 4df85af8-69f6-5bf3-8257-1bc74d62633b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 57: The Maid and The Butler"
+slug: 0058-chapter-57-the-maid-and-the-butler
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 58
+ownLength: 3408
+unit: words
+publishedAt: 2026-02-10
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3033992/chapter-57-the-maid-and-the-butler"
+royalRoadId: "3033992"
+---
+
+The day Mira received her class was supposed to be the beginning of everything.
+
+She stood in the sacred grove, a small patch of ancient forest permitted to the elves by the grace of the ruling humans. The air smelled of damp earth and hope. Her family stood at the edge of the clearing—her mother, hands rough and red from years of scrubbing floors; her father, his back permanently bent from the mines. They watched her with eyes that were too tired to dream but too desperate to stop hoping.
+
+Mira reached out to the floating wisp of light. It was a Lesser Spirit, a playful ball of wind and leaves she had secretly named Pip.
+
+Please, she prayed, her heart hammering against her ribs. Let it be useful. Let it be enough.
+
+She touched the spirit.
+
+A soft green light washed over her. It wasn't the blazing pillar of a warrior or the intricate geometry of a mage. It was simple, domestic, and clean.
+
+[CLASS: MAID]
+
+A gasp went through her family, followed by a cheer that was choked with relief.
+
+"Maid!" her mother cried, rushing forward to embrace her, burying her face in Mira's hair. "Oh, Mira! It's the best one! You're safe! You're safe!"
+
+Maid. It sounded humble to the humans, a role of servitude. But to an elf in the Kingdom of Dolaria, it was a lifeline. It meant she could legally contract with Pip. It meant she would be valuable. Nobles coveted elven maids—they were graceful, tireless, and aged so slowly they could serve a family for generations. It was the fastest, safest path to earning the exorbitant sum required to buy "Free Man" status.
+
+"I can do it," Mira whispered, holding her mother tight. "I can buy us all out. I promise. No more mines for Papa. No more scrubbing for you."
+
+Pip chirped, swirling around her head like a happy breeze. Work hard! Clean well! Freedom!
+
+She was recruited almost immediately. Her contract was bought by House Vane, a rising Viscount family in the capital.
+
+The first four years were a blur of diligent service. She polished silver until her fingers cramped. She mended silk until her eyes burned. She learned to be invisible, to anticipate needs before they were spoken. The Lady of the house praised her. She earned tips. Her savings grew, coin by precious copper coin, hidden in a small box beneath the floorboards of her tiny servant's quarters.
+
+Then, the young scion returned.
+
+Lord Julian came back from the Royal Academy with a sword at his hip and a smile that seemed, impossibly, to be just for her.
+
+He was charming. He was kind. He looked at her. He found her in the gardens while she trimmed the roses, asking her about the flowers, about her home, about her dreams. He spoke of change, of a new era where the old laws were rewritten, where elves and humans could stand side by side.
+
+"The world is changing, Mira," he would say, his voice low and intense, his hand brushing hers as he took a flower. "When I inherit the title, things will be different."
+
+Mira, young and starving for kindness, fell for it. She fell for the dream. She fell for him.
+
+They met in secret. Stolen moments in the dusty silence of the library, whispers in the dark of the linen closet. He promised her a future. He promised her that her status didn't matter, that love conquered the rigid lines of their society.
+
+Then, reality arrived in a carriage bearing the crest of a Duchy.
+
+A betrothal was announced. Lord Julian was to marry the daughter of a powerful Duke. It was a match that would elevate House Vane to the highest echelons of society.
+
+Mira waited. She waited for him to refuse. She waited for him to fight for their "new era."
+
+Instead, he came to her room late one night, smelling of expensive wine and cowardice.
+
+"It's just politics, Mira," he said, avoiding her eyes, pacing the small room. "It doesn't change us. You'll stay here. I'll make you the Head Housekeeper. You'll be comfortable. We can still... be together."
+
+The realization hit her like a physical blow, knocking the breath from her lungs. He never intended to marry her. He never intended to change anything. He just wanted a mistress. A pet to keep in the shadows while he lived his life in the light.
+
+And then, the sickness came. The morning nausea that she couldn't hide.
+
+She was pregnant.
+
+Panic, cold and absolute, seized her. A bastard half-elf child would ruin everything. It would ruin his marriage. It would ruin her life.
+
+But she had her savings. She counted the coins again and again. She had enough.
+
+She went to Lady Vane. She knelt on the plush carpet of the solar, her head bowed, her hands trembling so hard she had to clasp them together.
+
+"My Lady," she pleaded, her voice shaking. "I wish to buy my freedom. I have the sum. I ask only to leave, to return to my family. I... I am with child."
+
+She thought honesty would save her. She thought appealing to a mother's heart, to the dignity of the house, would work. She just wanted to disappear.
+
+She was wrong.
+
+Lady Vane’s face didn't soften. It went cold, hard as the diamonds on her fingers. She didn't see a frightened girl begging for mercy. She saw a scandal. She saw a stain on her son's bright future.
+
+"Pregnant?" Lady Vane hissed, standing up. "By whom? My son? You dare accuse him of sullying himself with a servant? You dare try to trap him?"
+
+"No, My Lady, please! I only want to leave! I won't say a word, I swear it!"
+
+"Silence!"
+
+The next hours were a nightmare she couldn't wake up from. Guards were called. Mira was dragged, weeping, to the cold stone of the estate's private cells.
+
+They didn't kill her. That would be too messy, too suspicious. Instead, they called a "healer."
+
+Mira screamed as the potion was forced down her throat. It tasted of bile and ash. It burned like fire as it went down, twisting her insides into knots of agony. She curled on the floor, clutching her stomach, begging them to stop, begging for the child she hadn't even met yet.
+
+When she woke up, the pain was a dull, hollow ache. The baby was gone. The future she had dreamed of—a quiet life, a child with his eyes—was dead.
+
+And then came the final cruelty.
+
+She was dragged before a magistrate. Lady Vane stood there, a mask of righteous indignation, holding a box of jewelry Mira had never touched.
+
+"This elf stole from us," Lady Vane lied, pointing a jeweled finger. "While my back was turned, she stole silver. She stole heirlooms. That is how she acquired her 'savings'."
+
+Mira tried to speak, but her throat was raw from screaming. "I earned it... I worked... every coin..."
+
+"Lies," the magistrate ruled, bored, stamping a paper. "Theft by a servant is a grave offense."
+
+Her savings were confiscated to "repay the damages." Her debt was tripled to cover the "emotional distress" of the family. She was branded. Not with a hot iron, but with ink on her papers.
+
+[CRIME: THEFT. STATUS: UNTRUSTWORTHY.]
+
+She was thrown out of the estate, her body aching, her heart hollowed out. She was sent back to the Workers' Union.
+
+She sat in the holding room now. It was a display case. The doors were open to the hallway, allowing potential contractors to walk by and inspect the merchandise.
+
+She sat on a narrow cot, hugging her knees. Others lined the hall, looking hopeful when footsteps approached.
+
+But when potential employers looked at Mira, they saw the red ink on her file hanging by the door. Thief. They saw the hollow look in her eyes. They kept walking.
+
+No noble house would hire a thief. No decent merchant would trust her. She was damaged goods.
+
+Pip hovered close to her shoulder, its light dim and flickering, mirroring her despair. It nuzzled her cheek, a soft breeze trying to dry tears that wouldn't stop falling.
+
+Broken, Pip whispered in her mind, a sound like dry leaves skittering on stone. Sad.
+
+Mira closed her eyes. She felt the emptiness in her womb, the emptiness in her future. She had tried to do everything right. She had worked. She had saved. She had loved.
+
+And for that, she had lost everything.
+
+…
+
+Morning arrived with the gentle weight of a warm, sleeping infant.
+
+Ren woke up with a face full of silver hair. Lily had managed to escape her swaddle during the night and had migrated north, curling up directly on Ren’s chest like a chubby, snoring cat. Her cheek was pressed against his collarbone, her breathing a soft, rhythmic puff of air against his neck.
+
+Ren froze, terrified to move. He stared at the ceiling, feeling the steady beat of her tiny heart against his own. It was a feeling of profound, terrifying responsibility.
+
+Don't sneeze, he told himself. Don't breathe too loud. You're a mattress now. Accept your fate.
+
+[Ana: She's drooling on your velvet tunic. Just so you know.]
+
+"Small price to pay," Ren whispered.
+
+He gently, painstakingly extracted himself from under the baby, replacing his body with a soft pillow. Lily grumbled, smacked her lips, and went back to sleep.
+
+"Okay," Ren said, stretching. "Today we build the team."
+
+…
+
+The carriage ride to the Workers' Union was tense. Ren sat with Shorgan, Lily strapped securely to his chest in her carrier, chewing happily on the edge of the fabric.
+
+"So," Ren said, looking out the window at the bustling streets of Duckland. "Who do I need?"
+
+Shorgan consulted a notebook. "You're starting a business and running an estate. Priority one is a Butler. The Butler class has specialized skills for estate management—[Ledger Keeping], [Staff Oversight], [Discreet Service]. They can handle your accounts and keep the other employees in line."
+
+[Ana: So... a manager. We're hiring middle management. Great. Just what every startup needs.]
+
+"Right," Ren said aloud. "A manager. What else?"
+
+"A Maid," Shorgan continued. "To manage the household chores. Cooking, cleaning... and given your situation," he nodded at Lily, "you'll need someone to act as a nanny. It appears the child lacks a mother."
+
+Ren winced slightly. "Yeah. Just us."
+
+"And finally," Shorgan said, his voice lowering, "Security. You have two options. You can hire adventurers from the Guild on a contract basis. They're expensive, powerful, but ultimately mercenaries. Their loyalty is to the coin."
+
+"Or?"
+
+"Or you buy a contract from the Union. Indentured guards. They are bound by magic and law to protect their master. They cannot betray you."
+
+Ren looked down at Lily. Her round ears were hidden by a bonnet, but the truth of her lineage was a ticking time bomb. If an adventurer found out she was a High Elf... that information was worth more than Ren’s entire fortune.
+
+[Ana: Ren. Elves. We need Elves. Humans or Dwarves might sell her out. But an Elf? It's in their biology to revere High Elves. Even if they don't know what she is yet, their instincts will make them protective. It's the safest bet.]
+
+"Elves," Ren said decisively. "For the security. And the staff. I want an elven household."
+
+Shorgan raised an eyebrow. "Elves? They're... competent, certainly. But some consider them... sullen. They don't always take well to human masters."
+
+"I have a feeling we'll get along," Ren said. He leaned in, lowering his voice. "And about the property... if the forest spirits are the problem, Elves might be the solution. They can negotiate where humans can't."
+
+Shorgan nodded slowly. "That is... actually a brilliant point. Very pragmatic. Killing two birds with one stone."
+
+They arrived at the Workers' Union. It was a sprawling, utilitarian complex of grey stone. It didn't have the grandeur of the Merchant's Guild. It looked like a prison designed by an architect who hated windows.
+
+They walked down a long, echoing hallway. On either side, doors stood open.
+
+Inside each room, people stood at attention. Humans, Dwarves, Beastmen, Elves. They were dressed in their best clothes, which were often threadbare and mended. They stood straight, their eyes fixed forward, trying to project competence, strength, and obedience.
+
+"They were told a new merchant was coming," Shorgan whispered. "For most of them, this is a once-in-a-lifetime chance. A wealthy merchant means steady food, maybe even the chance to earn enough to buy their freedom."
+
+Ren felt sick. He felt the phantom weight of his old corporate ID badge around his neck.
+
+[Ana: This is just a worse version of the corporate ladder. They're being forced to market themselves like products. 'Buy me! I work hard! I won't complain!' It's disgusting.]
+
+"It's an auction," Ren murmured. "Of people."
+
+[Ana: The sad part is, once you buy the contract, the pay is up to you. A bad patron can give them the bare minimum for survival and keep them in this loop forever. They're betting their lives that you're one of the good ones.]
+
+Ren tightened his grip on Lily. "I will be."
+
+[Ana: I know you are. Look, I'll put higher discounts on bulk goods in the shop. Use the savings. Pay them well. Let them buy their freedom.]
+
+Ren smiled, a small, sad thing. "I'm offended you think I'd do anything else. And look at you, Miss Capitalism. You have a heart for something other than profit?"
+
+[Ana: Don't get used to it. Happy workers are more productive. It's just good business.]
+
+As they walked, Ren’s gaze was drawn to a room at the end of the hall. A woman stood there, an elf. She wasn't looking forward. She was looking out the high, barred window at a patch of blue sky. Her expression was blank, hollowed out.
+
+She was beautiful, in a haunting, tragic way. But her eyes... they looked dead.
+
+"Stop," Ren said.
+
+He looked away. "That's... not right."
+
+"Master Ren?" Shorgan asked.
+
+"Let's see the Butlers first," Ren said, shaking off the feeling. "Male Elves. Merchants need... aesthetic staff. It's good for the brand."
+
+They entered a large viewing room. Three elven men stood in a line.
+
+Ren activated his skill. [Universal Appraisal].
+
+The world shifted. Text boxes floated over their heads.
+
+Subject 1: Decent stats. [Cleaning: Lv 3]. Trait: [Lazy].Subject 2: High Strength. [Cooking: Lv 2]. Trait: [Light Fingers].
+
+Ren’s eyes landed on the third man.
+
+He was older, perhaps in his human forties, with silver hair tied back neatly and wire-rimmed glasses perched on a sharp nose. He stood with perfect posture, his hands clasped behind his back.
+
+[Name: Sylas][Class: Butler][Level: 15][Skills: Estate Management (Expert), Accounting (Advanced), Unarmed Combat (Hidden)][Trait: Fiercely Loyal. Once he gives his word, he will die before breaking it.]
+
+"Him," Ren said instantly.
+
+Shorgan blinked. "You haven't even interviewed them."
+
+"I have good instincts," Ren said. He walked up to Sylas. "Do you like children?"
+
+Sylas looked down at Ren, then at the baby in the carrier. His expression didn't change, but his eyes softened, just a fraction.
+
+"I have served families with children before, sir. It requires... patience. And vigilance."
+
+"You're hired," Ren said. "Sylas, right?"
+
+Sylas’s eyes widened slightly. "You know my name?"
+
+"Lucky guess," Ren lied. He handed Lily’s basket—which he had been carrying in his hand to give his back a break—to the butler. "Hold this. Gently. She's the boss."
+
+Sylas took the basket. He looked down.
+
+He froze.
+
+Elves can sense their own. It’s a resonance in the blood, a hum in the soul. Sylas looked at the round ears, then at the silver hair and the deep blue eyes.
+
+He looked up at Ren. His gaze was searching, intense.
+
+A half-blood? Sylas thought.
+
+He looked back at the baby. He adjusted his grip, holding the basket with a sudden, fierce protectiveness.
+
+"I understand, Master," Sylas said, his voice low. "She will be safe with me."
+
+Ren nodded. "Good. Now, I need a maid."
+
+They went to the Director of the Union. He was a greasy man who smelled of cheap perfume.
+
+"Elven maids?" The Director scoffed. "Popular item. We're fresh out of the good ones. I have some Dwarven matrons? Very sturdy."
+
+"I saw one," Ren said. "In the hall. Silver hair. Looking out the window."
+
+The Director’s face soured. "Ah. Her. Number 743. Mira."
+
+"Is she available?"
+
+"Technically," the Director said, waving a hand dismissively. "But I cannot, in good conscience, sell her contract to a VIP like yourself. She is... damaged goods. A thief. Stole from a Viscount. She's untrustworthy."
+
+[Ana: Lies. Look at his pulse rate. He's reciting a script.]
+
+"I'd like to meet her," Ren said.
+
+"Sir, I strongly advise against—"
+
+"I insist," Ren said, his voice hardening. "Or I take my business to the Adventurer's Guild."
+
+The Director scowled but led them to the room.
+
+Mira was still standing there, looking at the sky. She turned as they entered. When she saw the Director, she flinched. When she saw Ren—a well-dressed human merchant—her eyes went dull. Another master. Another disappointment.
+
+Ren used [Universal Appraisal].
+
+[Name: Mira][Class: Maid][Level: 8][Skills: Cleaning (Master), Sewing (Expert), Stealth (Advanced)][Trait: Broken Heart. Recent trauma has reduced max HP and stamina.][Crime Status: FALSELY ACCUSED. (See detailed log...)]
+
+Ren read the log. The pregnancy. The betrayal. The theft charge.
+
+Rage, hot and white, flared in his chest.
+
+He stepped forward. "Mira."
+
+She looked at him. "Sir?"
+
+"I want to hire you."
+
+She didn't look happy. She looked tired. "Sir, you are a prominent merchant. Don't be fooled by my looks. I will ruin your reputation. I am branded as a thief."
+
+She was trying to save him from herself. She had given up.
+
+Ren looked at her. He couldn't just say, "I know you're innocent because I have a magic HUD." She wouldn't believe him. She needed a reason to care.
+
+He turned to Sylas. "Bring her here."
+
+Sylas stepped forward with the basket. He, too, had sensed Mira’s aura. He knew she was kin. He offered the basket to her.
+
+"Look," Ren said softly.
+
+Mira looked down.
+
+Lily was awake. She was blinking up at the new face, her blue eyes wide and curious.
+
+Mira froze.
+
+She felt it. The hum. The connection.
+
+An elf child?
+
+Her eyes darted to the round ears. No... a half-blood?
+
+She looked at the silver hair. It was the same shade as hers. The same shade as the baby she had lost.
+
+Her breath hitched. Her hand trembled as she reached out, hovering over the baby’s cheek.
+
+Lily cooed. She reached up and grabbed Mira’s finger.
+
+The contact was electric.
+
+Mira looked at Ren. Her eyes were wide, filled with a sudden, desperate confusion. "Yours?"
+
+Ren said. "She lost her mother. She needs someone who understands her heritage. Someone who can protect her."
+
+He looked Mira in the eye. "I don't need a maid, Mira. I need a mother."
+
+The wall broke.
+
+Tears, hot and fast, spilled down Mira’s cheeks. The hollowness in her eyes was filled with a sudden, fierce light. It was pain, yes, but it was also hope.
+
+Fate, it seemed, had a twisted sense of humor. It had taken her child, and then, in the darkest hole of her life, it had handed her another one who needed her just as badly.
+
+"I..." Mira choked out. She fell to her knees, clutching the basket like it was a lifeline. "I will do it. I will serve you. I will protect her with my life."
+
+She looked at Lily, who smiled and blew a spit bubble.
+
+"Thank you," Mira whispered, sobbing. "Thank you."
+
+Ren turned to the Director, who looked confused and slightly disgusted by the display of emotion.
+
+"I'll take both contracts," Ren said, his voice cold. "Name your price."
+
+"Well," the Director rubbed his hands together. "Given her history... and the butler is high quality... let's say five hundred gold?"
+
+It was extortion.
+
+Ren didn't blink. He slapped a heavy bag of gold onto the table.
+
+"Done. Draw up the papers. We're leaving."
+
+He walked out, Sylas and Mira flanking him. He had his manager. He had his nanny. And more importantly, he had a family.
+
+[Ana: Nicely done, Ren. Expensive, but... nice.]
+
+"Worth every penny," Ren thought back.
+
+He looked at his new employees. They walked with their heads a little higher.

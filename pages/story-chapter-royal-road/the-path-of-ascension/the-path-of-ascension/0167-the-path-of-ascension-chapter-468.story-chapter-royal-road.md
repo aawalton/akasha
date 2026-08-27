@@ -1,0 +1,619 @@
+---
+id: 48dd7de4-3605-5e69-8021-30404231395f
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 468"
+slug: 0167-the-path-of-ascension-chapter-468
+partOf: the-path-of-ascension
+position: 167
+ownLength: 8307
+unit: words
+ownProgress: 8307
+publishedAt: 2026-01-02
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2906201/the-path-of-ascension-chapter-468"
+royalRoadId: "2906201"
+markedReadAt: "2026-06-29T19:33:29.985Z"
+---
+
+Chapter 468
+
+Entering the strange realm, Matt could have been convinced he was Tier 11 and back inside Minkalla.
+
+After a moment, a pulse of light washed through the world and Matt found himself floating beside the rest of his team, but still unable to move or coordinate.
+
+None of them had bodies but he could feel each of their minds, which made it very obvious who was who and he was happy to see the whole team, including the crew, were together.
+
+As so few people had entered the strange realm already, they only had general outlines of how it operated. But their Tier, at least, didn’t matter so much as their combat experience, though even that would only be a larger part of the puzzle.
+
+Matt was just starting to wonder if something had gone wrong with the strange realm when he felt an energy start pouring into him.
+
+It was cool, almost like water, but that was his mind trying to give the experience a frame of reference. As the energy continued to pour in, it picked up flavors of him, but he sensed the pieces it sampled.
+
+His Talent was the largest influence, which surprised him, but it took samples of everything in his spirit. The second largest was unsurprisingly his growth items. The energy seemed to pick up samples from each of them, even the ones like his house, despite it being on Palustris.
+
+It even sampled his bond with Aster, though the influence was the second weakest. It was only a hair more important than his Domain, which was sampled to such a limited degree it barely influenced the final product at all.
+
+He had thought the Domain would have been more important.
+
+Unlike the small rush when the energy had entered him, it exited like the bottom had fallen out and it took his awareness with it.
+
+When his vision stopped blurring, Matt found himself standing in a valley surrounded by small mountains with the rest of the team.
+
+Or what he assumed were his teammates.
+
+None of them looked like themselves, but it was obvious who everyone was.
+
+They all stood at the same rough height, ten feet if the evergreen trees the strange realm had populated the mountains with weren’t different in some way from what he was used to.
+
+Susanne was the shortest, but there was only a five inch difference between her and Stenson, who was the tallest.
+
+He also wasn't human.
+
+None of them were, but his body was made entirely out of mana crystal. He suspected that wasn’t the planet's aspect affecting things, as he was the only one. Rather, he was fairly sure it was an expression of his Talent.
+
+Considering how much worse that could have been, he accepted the change easily enough.
+
+Liz also looked humanoid but was clearly not, as she was more ichor in the shape of a winged woman than her normal form, though she didn’t have any weapons or armor.
+
+Aster had become an otherworldly ice sculpture reminiscent of her human body. She still had her fox ears and tail, but where she normally looked put together, her new body looked like a feral monster queen of some child's nightmares. He quite liked it.
+
+Next to her he’d expected Susanne to be a sword of some flavor, but he was wrong. Instead, she appeared to be a set of floating armor surrounding a stick figure drawing of herself.
+
+Where Susanne defied expectations, Zack embraced them.
+
+A floating mass of arcane energy, he didn’t have a body so much as he had a form, though he didn’t seem bothered in the slightest, casually inspecting himself and the mana reactions going on inside of him.
+
+In fact, he paired well with Allie, as her body, while humanoid, was more like an inverted hole in reality. She also had far too many eyes that seemed to appear with no rhyme or reason, which added an otherworldlyness to her.
+
+From the information he knew, these new bodies represented their new lives in the strange realm, and if destroyed, they would be limited to the ‘command room’.
+
+Splitting his consciousness, Matt found the room they had been in now had a view of the world they’d appeared in.
+
+At the center, the only place not covered by a deep layer of fog, was a large clear crystal. It was very distinct from the rest of the map that had a day-long timer already counting down.
+
+It also showed small representatives of each of them, and Matt noted its real time updates as Aster turned around, removing more of the fog.
+
+Already knowing what she’d see, he turned to see a pillar of crystal standing tall at the center of the valley a few hundred feet away.
+
+In the overview room he tried mentally pressing on the crystal, but he got a mental slap on the wrist as he was forcefully informed they didn’t have any free units.
+
+Magnus, as it turned out, was a bit of a strategy enthusiast and had only been waiting to get inside to start strategizing.
+
+Seeing the crystal pillar, the Seeker pointed with one of his hooves still perfectly balanced. “Let’s mine as we talk.”
+
+Matt still wasn’t quite in the mood to joke, but he made a mental note to poke fun at their Seeker for turning into a satyr.
+
+Digitigrade legs or not, Magnus was correct, and no one hesitated to assist.
+
+Their intentions were great, but they didn’t have tools or magic to assist them and as such had to resort to punching and kicking.
+
+Thankfully, their new bodies, even Zack with his lack of traditional body, were moderately resilient and strong. It still took them minutes of dedicated effort to chip a piece off one of the smaller side crystals.
+
+The crystal should have only been a finger’s width in size, but it popped off perfectly formed, and as large as Matt’s crystalline fist.
+
+When Rah, the closest to it, grabbed it, he completely stopped moving, still bent over.
+
+Before they could start to worry, a three foot tall replica stepped out of him and immediately started punching the crystal with fists that turned into spikes.
+
+It looked exactly like Rah, a sandstone statue but miniature.
+
+Pausing, they all watched it work, judging its performance.
+
+It didn’t result in no progress, but where it had taken them a minute to break off a single piece of crystal as a group, it would take the mini Rah closer to five.
+
+Rah, however, gave them an interesting bit of news. “My creations aren’t great for mining. They start with a small earth manipulation ability, but it's limited to itself right now. I know they can become stronger, but the how eludes me.”
+
+Hearing that, Magnus went back to work, prompting them all to do the same. “Okay, that's good to know. With that in mind, let's check everyone’s disposable units before we go for multiple. Once we can see what everyone specializes in, we can make better plans. Hopefully we can cover everything we need without too much overlap or missing coverage. For now, let's abuse these hero units.”
+
+Alone, it took Matt closer to two and a half minutes to chip off a single crystal, but that time seemed to vary slightly for each of them with no discernible rhyme or reason.
+
+He didn’t mind. His repetitive actions helped clear his lingered anger that wanted to find a reason to boil up. The mining didn’t remove the urge, but it did help him distance himself.
+
+It was very unlikely for the world to fully de-aspect, which was a compress he kept applying, but it wasn’t treating the heart of the issue. He could save the planet, but he’d need to be strong enough when those same greedy people turned their gazes on him.
+
+When Matt got his first crystal, he understood why Rah had frozen.
+
+The part of his consciousness in the command room felt the energy arrive and a new ability to create an autonomous unit appeared as a new discrete ability his ‘hero unit’ could activate for the cost of a single clear crystal.
+
+Having no reason not to do so, Matt created a unit and directed it to mine the ore.
+
+With his crystal body, he watched as it also started punching the stone before doing anything else.
+
+It didn’t look like him as much as Rah’s had, but the difference only made it blend in with the crystal it was mining better, rather than stand out. If the color difference wasn’t so distinct, even he might have mistaken his new unit as part of the strange realm.
+
+Poking around at the still unfamiliar mental controls, it took him a moment to find his unit's ability that Rah mentioned. It wasn't as overpowered as his Talent, but he immediately saw its usefulness. Every tenth crystal mined was duplicated, giving them a free ‘eleventh’ resource.
+
+Sharing that with the other’s, Matt had the next nine crystals funneled to him to buy more units and increase their mining output as quickly as possible.
+
+It also triggered a new unlock for them, which Magnus was more than eager to learn about.
+
+In their overview room, Matt found he could direct his units to build a ‘storage yard’. After discussing it they chose a location near, but hopefully not too close, to the mine. Without actual knowledge of what was coming they could only guess where the previous information was lacking.
+
+Once they had enough clear crystals, they used everyone else's singular unit to build out the wire frame representation.
+
+That taught them two things. They could stack units doing the same actions, like building, but there were diminishing returns and their current sweet spot was around three. They also designated Stenson’s units as the construction workers after seeing their bonus in action.
+
+While building or repairing a structure, his floating spaceship units were ten percent faster in their actions.
+
+Like Matt’s units, they didn’t come with much of an advantage at the start, but their uniqueness and advantages would become clear as they progressed.
+
+Magnus used it as an example of what they needed to watch out for. “A large part of success in these types of games is about abusing our units' advantages and trying to snowball faster than the other teams. The same is true for the other teams so we need to watch out for the inverse. We might run into something crazy.”
+
+Once the storage building was finished, it then allowed them to automate their mining units but it also showed a glimpse of the strange realm’s next challenges.
+
+As a level one building, their units still needed to deliver the crystals. If left alone, mining units would mine and then walk to the storage building to deposit their haul, but that was slow and inefficient.
+
+If someone actively controlled the units, they could command the mining units to drop the crystal and continue mining while another unit picked it up.
+
+Not too bad at the beginning, when they only had a handful of units, but when they had hundreds, then thousands, that would become infeasible.
+
+Thankfully, there was an answer: building upgrades.
+
+For the small price of a resource color they hadn’t yet discovered, the storage building would create its own porters who could automatically do the walking back and forth. They were range limited and slow, but that was fine.
+
+Creating their first building also unlocked a slew of new things.
+
+Only able to interact with the more game-like elements in the overview room, Matt split his attention, letting his body assist in mining while joining everyone in the room, where they talked about what to build next.
+
+They now had the ability to create unique buildings that would allow them to automate the production of units as well as upgrade them. The problem, as they already discovered, was that all level two buildings took a new type of resource they hadn’t encountered yet.
+
+Following the theme of the first resource, everything was some variation of colored crystals that teased both their upcoming challenge as well as the things they’d unlock.
+
+Thankfully, the most basic buildings only cost the clear crystals and were fairly cheap.
+
+Doing some math, they plotted out what they felt was the best balance of bootstrapping and outward expansion, but that ultimately depended on what they found beyond their single little valley.
+
+Matt chose to stay behind and keep micro controlling his units, as Allie, Liz, Gan Le, and Lura went scouting.
+
+The Seeker’s paper body looked strange, with moving words crawling over her, but her unit’s inherent power was one of the most useful when it came to scouting. By sacrificing themselves, they could reveal a large area around them to the observation room with a chance to discover hidden resources.
+
+Loaded down with a handful of crystals so she could create new summons while they were exploring, the four moved out.
+
+Only five minutes after they left, they returned. Once they were out of sight, they felt themselves become separated from the main group in the overview room and could no longer communicate with anyone else.
+
+Proximity was apparently a large factor in the strange realm, and so they started testing that restriction.
+
+It wasn’t as bad as they feared.
+
+Their speaking ranges were abysmal; less than mortal range, with a few hundred feet being the limit.
+
+That restriction only seemed to apply when they left the range of their base, their starting location, or possibly the buildings.
+
+Their command room maps as well as unit control followed similar, if longer range, restrictions.
+
+Not being able to communicate unless inside the base or next to each other made scouting far more dangerous, but they’d dealt with worse.
+
+The rest of them concentrated on mining more crystals and feeding Matt the products to create new units, as they hadn’t actually built the spawners yet.
+
+Once they reached an acceptable number of units that could harvest the resource node, they focused on creating the few buildings that only took the base level crystals.
+
+For an egregious cost in crystals, they were able to make a turret at each corner of their small clearing.
+
+It wasn’t much, little more than a pile of glowing crystals that could fire [Mana Bolt]s, but they knew attacks would happen and they’d need to defend themselves.
+
+For more long-term protection, they started funneling the crystals to Susanne. Her units were inherently armored, which did come with more durability, as they found through testing. Their main advantage was, however, that they still took after her Talent and had a passive speed boost that made them a perfect quick reaction force.
+
+Long term, Allie’s units would probably turn into their scouts. If standing perfectly still they were almost impossible to detect, but they were more worried about fighting.
+
+They were still collecting floating sets of armor hours later when their scouting team returned. Without them having to say anything, their return updated the overview room with everything they’d uncovered, letting them follow their path and what they’d found.
+
+Thankfully, everything was well labeled as it was last seen.
+
+Things could have, and probably had, changed but he doubted the resources had grown legs and ran away.
+
+Matt whistled as Magnus' plans pivoted.
+
+The four of them had hardly begun exploring, but had already found several resource nodes, despite having only traveled through two of the mountainous valleys that surrounded them.
+
+The resources were well defended.
+
+They’d expected that, but the crystals weren’t clear, they were silver and purple things they’d only seen on the higher-level buildings.
+
+They didn’t have any buildings unlocked that took the purple crystals, but they did have one that required the silver.
+
+Matt just hoped the forge would do what its name implied.
+
+Not that unlocking it would be easy.
+
+Liz’s irritation was clear as she said, “We tried to fight a lone goblin close to the purple resources, but it took all four of us working together to kill it. The summons helped, but I don’t think we can kill the whole guardian nest given our current strength. The wolves were somewhat easier to fight as they didn’t have spells.”
+
+Having their first target, they gathered all of the units, beside Matt’s who they left mining, as well as burning through all of their loose crystals from storage, creating more troops for their first attack.
+
+Leading a small group of miniature versions of themselves into battle was novel, but a failure. The wolves managed to take down two or three units for each of their deaths, but they’d only sent a probing attack for a reason.
+
+In the fighting, they did discover there was a small chance of the unit dropping a seemingly random colored crystal when killed, but it was far from sustainable or reliable.
+
+Checking the time before their daily first battle, they decided to explore the other valleys and expand as far as they could before they tried to tackle the spell-wielding monsters guarding the better resources.
+
+They were only able to gather a single additional clear crystal mine, found in a secluded nook, thanks to Lura’s units, but it sped up their unit production significantly. Even if the crystals needed to be transported between locations.
+
+Most of the resource nodes they found were various colors, covering most of their available upgrades, but not all. A trend they did notice was the creatures that defended the higher-level resources had spells, while a few, like the silver, didn’t.
+
+Without their own access to magic, Matt’s group could only throw numbers at their problems and hope the forge was worth the cost.
+
+Their first real attack against the wolves with fifty of Susanne’s units failed. It did, however, have the desired effect, and the wolves followed the trickle of units back to their now much more robust line of turrets.
+
+They didn’t have walls, so their units had to hold the frontline, but that was acceptable.
+
+Similar to their un-upgraded units, the turrets took several hits to kill one of the attacking wolves, but they attacked from range, which bought them some time as the wolves targeted them over the units. They took damage, but they’d kept Stenson’s units out of the fighting, using them to repair the damage.
+
+They only delayed the inevitable, as their turrets fell one by one, but combined with their second wave of attackers, they finally managed to clear out most of the wolves.
+
+They did take hits but their bodies, like their units, slowly healed themselves. Though Liz and her units healed much faster once out of combat. They were sure there would be better methods of recovering, but they didn’t have them yet.
+
+What they did have was an extra crystal mine to exploit.
+
+Creating four turrets ate through most of the resources mined while they were fighting, but between them and the wall they managed to erect around the new base, the new silver crystal mine was well protected.
+
+It became immediately clear they’d skipped a step or two when their units were completely unable to mine the silver resource and they needed to do it themselves.
+
+Mining ten crystals took considerable effort and nearly an hour, but with ten of them working on it at the same time, they had their first silver crystal and they were able to build the forge as fast as possible.
+
+When the final piece of the building was put into place, it shimmered into existence. The building looked a lot like forge, but everything was replaced with crystals. Not only the walls and structural elements, but anything traditional made out of metal in a forge was replaced by a variation of crystal.
+
+Matt tried to inspect the building, but without his real body, he couldn’t tell if they were unique or possibly something he could copy.
+
+It wasn’t until they tried to interact with the forge in the overview room that something changed.
+
+Dozens of possible tools and weapons were available, but they needed to both be researched and created, neither of which was free.
+
+Zack figured out the research half easily enough. After entering the building, he’d been presented with puzzles of ever-growing complexity. With each puzzle solved, they got bonus research progress scaled off how hard the puzzle was versus the difficulty of the research.
+
+Arden and Katya, both enjoying such things, assisted him. That turned a ten hour task into only four.
+
+They started by unlocking pickaxes. For one additional clear crystal, they could equip their units, which doubled their mining speed and finally made it possible for their units to mine the colored resources, though at a penalty compared to their original speed.
+
+Matt found the forge interesting.
+
+It was the first building that almost followed normal logic.
+
+While every unit could pick up and use any item regardless of body type or other incompatibility, it was ultimately that, an item.
+
+Any unit that died dropped any items they had, and an enemy could likely pick it up or destroy it if they were so inclined.
+
+Scanning the rest of the unlocked items, they quickly identified weapons and armor.
+
+Weapons were simplified into two types: Ranged and melee. Though, ranged weapons were unavailable at the moment, requiring another building they didn’t have the color to build it yet.
+
+They couldn’t find any mention of magic anywhere in the forge, leaving them to assume it was part of another building entirely.
+
+Similar to the pickaxes, the melee weapons helped tremendously. From taking several hits to kill a non-magical creature like a wolf, they could now kill those weakest monsters in two.
+
+That let them expand into two more colored crystal deposits before their first daily battle, hopefully giving them a lead over their competitors.
+
+Teal and pink crystals weren’t the most vital resources, but they unlocked their first scouting building and a construction building that improved Stenson’s unit production.
+
+The dedicated scouts weren’t as good as their own units, but they were entirely disposable. The scouts looked like glass orbs that floated around, but they were made out of the clear crystal like everything else.
+
+Silent and with no combat capabilities, the scouts slowly drifted through the obscuring fog. Allie and Susanne’s units were faster and better at the job, but the scouts not costing the clear crystals that were in high demand meant a few of the group were at least using a couple to explore manually.
+
+The construction of Stenson’s unit production building revealed to them the power of individual upgrades. Upon creating the building, Stenson was given the option of his first ‘unit upgrade’ which had the option to double the building speed of his units to a twenty percent bonus.
+
+They hadn’t found the level, or the strata as they’d started calling the levels of resources, required for the upgrade, but they were sure they’d find it if they expanded enough.
+
+It was only a matter of time.
+
+At the end of their first twenty four hours, they were all pulled into the overview room where the day-long timer was replaced by an hour-long one.
+
+The units that had been inside their base appeared in a dry scrublands, clustered around a central pillar.
+
+Trying to enter his crystal body, Matt felt a resistance preventing it.
+
+It wasn’t impossible, but he understood he had a limited time descended each round and he’d need to ration it carefully.
+
+Without speaking, they directed their units to start exploring. In the process, they also learned they had final say over their own units, but others could command them when they weren't actively doing so.
+
+Useful, but it opened risks.
+
+Being the first round, their battlefield wasn’t large, but they also didn’t intend to be hostile either if they could avoid it. While the strange realm allowed fighting and killing, destruction of their body would only lock them to the viewing room, not kill them outright.
+
+From their bird-like view, they watched as their scouts found the edges of the area and started discovering deposits of crystals.
+
+Each was small, much smaller than what they’d found in the main world, but they were also much easier to mine. Their pickaxes accelerated the speed even further, turning Matt’s units into miniature excavators, with a crystal being harvested every couple swings.
+
+They discovered opponents a few minutes later when at a blue crystal mine. Three types of creatures walked up from further south, a humanoid rhino, a wooden puppet, and finally a slug of unusual size.
+
+Carefully controlling a single unit, they tried to indicate they were willing to share the mine, but their opponents’ units vanished as quickly as they’d arrived without any indication of how they wanted to respond.
+
+Sending out more scout units to inspect the other half of the map, they found more resources being feverishly exploited by their opponents, but no signs of upgrades like their pickaxes.
+
+They also discovered a totally new resource.
+
+Instead of being a solid color, the smallest crystal node they’d seen, only large enough to have a dozen or so resources, was a deep shiny metallic green.
+
+The resource wasn’t centrally located where they’d expected it, rather it was off to the side and partly hidden. It wasn't so obscure that they were able to mine it uncontested. Their pickaxes helped, but even with them the mining was painfully slow, taking almost ten minutes per resource.
+
+So when they saw an army of two hundred, they debated what they should do. Finally, after Magnus got a good look at their enemies, they decided to hold their ground.
+
+They had both weapons and pickaxes and weren’t afraid to use them.
+
+A phalanx of Susanne’s armor marched out fully armed, intercepting their attacker. Their presence halted their enemies in their tracks, clearly needing to think twice about marching their own units to the metallic crystal.
+
+Most of his concentration was spent on the mining efforts, but Matt kept an eye on his enemies, wanting to see how they were faring. Directing his units efficiently across half a dozen mining sites was a lot of work, but he managed both.
+
+He thought the other side was doing quite well. That many units was either their entire force and they were bluffing, or their group had their own advantages.
+
+They proved both to be correct when harpy-like creatures flew down, and using their feet talons, grabbed two of the metallic green crystals being transported back to their base before escaping into the air unharmed, as the rest of the army surged forward and then back to a safe range again.
+
+Unable to make any ranged weapons as of yet, they were only able to curse ineffectively each time the harpies made their move. Thankfully, once they were prepared for the trick, it was easy enough to send the crystals with a larger contingent of troops that could strike out at the harpies as they dove.
+
+Thankfully, their enemies, whichever team that may be, didn’t seem keen on the offensive beyond trying to plunder a few outposts with their harpies.
+
+When their hour was done, they found themselves once more back in the mountains and forest valleys.
+
+The units that died stayed dead, but they did come back with all of the resources and items they gathered.
+
+Seeing that, Matt suspected that if the other group had been smart enough to grab a fallen pickaxe, they’d have been able to take it back with them, but that went both ways.
+
+They spent most of their gathered resources building the spawning buildings which finally unlocked the ability to see their units’ specific upgrades.
+
+Once his production building was made, Matt finally got to see what Stenson described.
+
+He had three choices for his unit's upgrades.
+
+He could take from his Talents.
+
+He could take one of his growth items.
+
+Or, finally, he could take from his bond with Aster.
+
+The information on each was limited.
+
+The first upgrade seemed like the best. It reduced the harvests needed to generate an extra resource down from ten to nine.
+
+A ten percent reduction wasn’t much alone, but it felt better in the long term than the second upgrade that would let his units have attack, defense, and harvesting modes that they could transform between at-will.
+
+While Matt loved his sword, he would have much preferred if his first upgrade down that path was related to something more useful early on, like the ability to swap locations with one of Liz’s units from their rings.
+
+Finally, his Aster related bond upgrade only seemed to add an ice element to his units. While he was interested in where such upgrades would lead, it wasn’t a priority.
+
+If he was alone he’d have chosen the second, but the unit upgrades took ten of the metallic crystals, which meant they’d be a bottleneck.
+
+After everyone checked their upgrades, they decided to spend ten of their fifteen recovered metallic crystals upgrading Matt’s harvesting ability. That was how they then learned that choosing a color locked those units to that type, no one else in the team could consume them for their own units' upgrades of that Tier.
+
+There were others that were useful, like Aster’s units’ ability to have a storage space to safely and discreetly transport resources and Allie’s short range teleportation. But free resources would snowball them faster, so they felt they made the right choice. Though they needed to be careful to not over-prep and fall flat when they were inevitably forced to fight.
+
+Liz’s units got the ability to glide, which was their next planned upgrade after seeing how useful flying units were.
+
+With the haul from the battle, they were finally able build the ranged weapon research building, though to temporarily unsatisfying results. The units equipped with the weapons could deal damage from range, yes, but it was a far cry from what the melee units could deal. And far less accurate, with any monster entering within melee of them being a near-guaranteed death sentence.
+
+The upgrades looked promising but it caused them to shelve the weapon type until they could finish some initial research.
+
+With a full day before they were pulled into the battleground, and having already done the drudge work the day before, they started expanding with a vengeance.
+
+It wasn’t without effort.
+
+Even with newly unlocked ranged weapons, spears and shields, as well as crystalline armor, taking a resource node defended by magical creatures was hard.
+
+While they were gone, the number of monsters defending the nodes had increased by roughly ten percent. Additional new creatures started to spawn out of the resources themselves, and once they reached a critical mass, the monsters over the cap would start roaming.
+
+While Liz and Susanne handled their offensive efforts, Matt concentrated on the base building with Stenson and Magnus.
+
+Things became a lot easier when they found an onyx crystal node, which finally let them unlock a magic research building.
+
+Similar to the forge, magic needed to be researched. But once unlocked, they were able to add it to their units and items alike.
+
+Sadly, magic wasn’t free and cost colored crystals to use, even for single cast spells. The equivalent of enchanted items were permanent but with a higher initial cost.
+
+Support magic however seemed to be the true star of single cast magic. Like so many other things the first unlock was temping. At the paltry cost of a thousand clear crystals, enchant an area for two hours that would speed up all units action speeds. For low level resources it would be a waste but for the harder to mine resources that were gating their progress, it tempted like a demon's bargain.
+
+They instead started with general earth magic for Rah and his units to start reshaping the terrain. It didn’t cost anything for his units to use, unlike most other magics, which was the deciding factor.
+
+Ice was their second choice for Aster, but that was all the progress they made before another day passed.
+
+Zack had voluntarily taken the third slot, while his units were useful, they were too expensive to make use of this early. Once they unlocked spells his units could, individually but permanently, gain access to a single spell at a time. As such, he was more than happy to help the others while also expanding his own repertoire.
+
+Their second twenty-four hour battle was much like the first, though the metallic resource node was blue. Unlike the first group they encountered, the second wasn’t doing as well, if their lack of upgrades and items was any indication.
+
+It was on that third day they finally expanded outward to the point they started finding metallic crystal nodes in the main world. It was underground and only discovered thanks to Lura, but it signified they were on the right track.
+
+Magical picks were able to break them, but it was time consuming when compared to the lower level resources, and another expense that required additional attention.
+
+Temporarily blocked by a body of water, they started trying to skirt around it until their units were attacked from the water.
+
+Monsters a step above even the metallic node defenders attacked in droves, and their units were slaughtered in a matter of seconds.
+
+The fish monsters forced them to explore in a new direction, which led them to find an even more formidable foe.
+
+To the west was the body of water, but to their north was a hydra. Or a variation of a hydra similar enough they couldn’t see any difference.
+
+Matt didn’t think strange realms could break the rules on creating sentients any more than a rift could, rather he suspected this was more a complicated illusion letting the strange realm do whatever it wanted.
+
+Unlike the water monsters, they didn’t even see it make its move. The only reason they knew of its existence was the map marker left behind.
+
+With only two directions left, they kept exploring.
+
+Their southward exploration team was halted not by a new strong monster, but rather a wall of metallic resource nodes.
+
+In the last direction where they expected disappointment, they discovered their first enemy faction outside of the battlefield.
+
+Neighbors.
+
+Having finally found a possible enemy, they tried to scout the newly discovered base but their efforts proved futile.
+
+Their singular scout failed to deliver any additional information, but it did let them know where they had real opponents. That then prompted them to start shoring up their defenses.
+
+Sharing the information with the others, they made their plan. Push deeper, then secure and fortify as much of the resource rich mountains before the other group tried to do the same.
+
+Mapping things out, they chose good natural break points they hoped would limit the defenses they would need in the short term, but they knew they'd eventually be reinforcing the mountains themselves.
+
+Matt and Katya were working on building said defensive flank when they were pulled back to the main camp where they’d kept their hero bodies.
+
+The members working on research had finally unlocked their hero upgrades by completing their tenth total research project.
+
+Checking his, Matt found the upgrades worked in a slightly different way than he’d expected.
+
+The upgrades that their hero units unlocked were singular and independent of their more disposable units, which contrasted with the unit upgrades that did have secondary bleedover effects to their hero bodies.
+
+The upgrades, however, showed them just how far the strange realm could be pushed.
+
+Resource colors they hadn’t encountered yet were next to seemingly unique upgrades that could only come from a few places.
+
+If he acquired a ‘Primordial’s Lifeforce’, he’d gain access to the ability to sacrifice an increasing amount of normal units in the place of his death.
+
+However, given the indicator for the resource was a beating heart, he suspected where they’d find such impressive upgrades.
+
+They didn’t know where a ‘Primordial’s Lifeforce’ was, but Matt was confident if they killed the hydra, they’d get something in the same vein.
+
+Looking around his own upgrades, Matt found one he thought might be related to the hydra. A ‘Heart of Seven Heads’ upgrade resource in combination with a fourth strata resource they hadn’t discovered would remove his head's critical weakness.
+
+When he shared that tidbit with Liz, figuring it was good for her, their group realized they’d assumed everyone got the same upgrades from the same resources. That wasn’t true in the slightest.
+
+Everyone's upgrades were unique, though they all seemed to have a theme.
+
+Far from a good thing, that indicated they’d have a limited amount, possibly one, use of the special resources. He doubted there was a second hydra waiting to be harvested around the next corner.
+
+Not that they planned to fight the hydra any time soon.
+
+Instead, Matt and Katya returned to work building out their flank in the little time they had left.
+
+Katya provided the plan and helped move materials, while Matt used a host of Stenson’s units to build the walls faster.
+
+Their researcher did find ‘integrated walls’ technology in the research building, but they deliberately didn’t go down that path, instead opting for the stronger defense path.
+
+Tripling the durability of their walls as well as making them extend into the ground further for a nominal price had been an easy choice.
+
+Needing to build both a layer of defense and offense took longer and cost more resources overall, but they hoped the investments would prove useful as their two items further evolved into specialists.
+
+When they were done, Katya suggested they start creating paths for the workers to move on. It was a good idea, and after running the numbers and seeing the cost of upgrading the roads step by step was the same as building them outright, they got to work.
+
+The investment to create so many roads nearly cost as many resources as the walls and turrets combined, but at level two, the roads could interact with the storage buildings and allowed for automatic transport of resources between storage depots.
+
+They even took the time to use Rah’s units to create platforms Liz’s units could use to glide through the valleys should they be attacked and needed to leave their overwatch positions.
+
+Removing the need for micromanagement was a high enough priority they started making the skeleton of a proper transportation network.
+
+They hadn’t considered the possible side effects when they were pulled into the battleground arena, but when they arrived, their starting base had a spiderweb of roads ready for expansion.
+
+They also had access to their walls and defenses, along with their archers atop them, though they’d expected that.
+
+Now more familiar with the battle realms, they started securing the resource nodes around them. Having entered the battlefield several times, they’d started to notice a trend that the resources improved even as they grew more scarce.
+
+With less resources to go around that were also more valuable, fights were becoming inevitable.
+
+Half a dozen of Matt’s units were mining a metallic turquoise node they hadn’t found on the overworld when they first saw their new enemies.
+
+Needle-like arrows rained down on his units, killing three with lucky head shots, but the others were wounded and that hampered their response times. The accuracy and range was far beyond what Matt had seen of their ranged weapons’ research path, making him suspect it was an innate power of the units.
+
+Matt watched as Susanne redirected a small contingent of her and Gan Le’s troops to the base, but knew it would be too late to save his units. Sharing that, he told her not to bother in case there was a trap and instead get a more useful revenge.
+
+Taking his advice to heart, she gathered more of their forces and started raiding the enemy camps.
+
+Their newest enemy chose to create ‘defenses’ that boiled down to a lone turret next to each of their claimed nodes.
+
+It worked surprisingly well, but the flaws were equally apparent.
+
+Without effective ranged units of their own, they didn’t want to risk losing the number of troops necessary to take the nodes, so they let their opponents have their victory. Instead, Susanne harassed their supply lines between bases, stealing or destroying resources any time she could.
+
+Tired of being stifled by their lack of effective ranged attacks, the moment they returned, Zack pushed back their research queue and started researching better ranged weaponry .
+
+That would help, but they also needed more of their unit upgrades, which meant securing and mining more of the colored second strata crystals, as they’d started calling them.
+
+The baseline units were the key to the strange realm, that much was clear to everyone. With that in mind, they started expanding with an eye to those resources.
+
+It wasn’t easy, and they took significant losses sometimes, but they managed to harvest enough resources that everyone got at least their first upgrade, even if not their second.
+
+Matt’s unit's second upgrade once more gave him three choices, but he found his decision much harder the second time around.
+
+While the options he didn’t choose hadn’t changed, the Aster upgrade or his form chance upgrades, the third one wasn’t another passive resource gathering upgrade any more, but rather the ability to store crystals.
+
+Without hard numbers, Matt was only able to trust his gut, but he chose the ability to change forms.
+
+He was immediately glad he did so when his hero body got the same upgrade, giving him a level of control back that he’d been sorely missing.
+
+The three forms were distinct, both visually and functionally.
+
+The offensive stance was thin, no taller than before, but he was faster and more nimble. The defensive stance was the exact opposite, thickening his body and slowing him down, but it also made him far more durable.
+
+What could crack his offense body, hardly scratched the defensive one.
+
+The harvesting upgrade didn’t come with any physical changes off the baseline, but the original passive of the units was upgraded once more when in that form. A free resource every seven resources didn’t matter too much on the seemingly limitless lower strata resources, but the higher level ones that quickly ran out stretched that much further with the new form.
+
+They spent another two days filling in the gaps in their resource collection and finishing their final upgrades before they launched an attack on the hydra, wanting to keep ahead of the curve.
+
+With thousands of units all upgraded to the second level, as well as having them all armed and armored, they were betting a lot on their attack.
+
+They didn’t necessarily think they were going to succeed, but they were nearly out of expansion routes and the hydra seemed like the easiest foe.
+
+To the east they had their still unknown opponents, and while they might not be as strong as the hydra, they were undoubtedly more cunning.
+
+To the north they had the lake filled with monsters that still managed to one-shot their upgraded units. While the south had shining resources they hadn’t even seen in the battleground and equally impressive monsters.
+
+They’d picked Magnus' mind before launching their attack, which was they had a line of defensives they could retreat to if their attack failed and the hydra decided to go on the offensive as the weaker monsters often did.
+
+They’d considered several plans, but in the end, they decided to air drop a contingent of Gan Le’s units, whose second upgrade gave them a small shield every time they attacked. Their damage was abysmal, but like the Sect tank himself, his units were incredibly durable.
+
+It wasn’t much, but they hoped the aerial attack would distract the hydra and prevent it from wiping the rest of units out as they approached the valley it had taken over. That was how they’d lost any scouts they sent too close, and they weren’t keen to fight through such an opening salvo.
+
+As they’d hoped, the hydra focused all of its attention on the closest units, ignoring the army that raced across the crater filled ground.
+
+Having already talked things out and not wanting to risk their hero units, everyone was silent as they commanded their groups from the command room.
+
+Matt was in charge of the right flank and it was his job to try and relieve Gan Le’s units.
+
+Most were dead by the time reinforcements arrived, but their army, led by Susanne’s units, was surprisingly intact when it reached the boss.
+
+That changed when the hydra’s heads started acting independently.
+
+Whatever variation of hydra the strange realm had created, each of its heads represented a different element and their breath weapons followed the theming.
+
+They prepared for that, but it quickly became clear they hadn’t done well enough.
+
+Aster’s units, farthest in the rear, started creating ice golems that raced forward to attack the hydra. They were being crushed by one of the gigantic claws or destroyed in a breath attack before getting in more than a few attacks, but they single handedly kept two heads and its right claw distracted.
+
+Matt kept his units in their defensive stance, focusing on keeping them at the right level of density. As he’d seen from Gan Le’s units, anything that got too close together became prime targets for another stomping fit. Too far apart, and they were prime targets for a head’s breath weapon to sweep across the battlefield.
+
+There was a small sweet spot of density that seemed to slip through the hydra’s attention, but he was still losing units every time they were attacked.
+
+Eventually, Matt messed up the timing and lost nearly half of his attacks. Cycling forms between engagements was risky, but when it failed, it failed spectacularly. For all of the advantages, the offensive stance couldn’t take much damage before crumbling. Even a glancing blow decimated an attack stance unit.
+
+Watching as units vanished, Matt was about to ask the others and see if they wanted to keep on the offensive or pull back, when Stenson and Magnus finally completed the first turret in range of the hydra.
+
+As the now cannon-like creation fired a blast of energy, the battlefield seemed to pause as everyone waited for the hydra’s reaction.
+
+Every single one of its numerous heads not actively engaged turned and unleashed a deadly breath weapon at the turret.
+
+The single unit that had finished the construction wasn’t able to get out of the way in time and was annihilated, along with the building it had worked so hard to create.
+
+Its sacrifice was more than worth it as the redirected attention gave their frontline units a moment of recovery.
+
+Watching the heads, Matt and Rah, who controlled the center, had their units go on the offensive a moment before the second turret was completed.
+
+The heads that were turning on their units immediately snapped their attention upward and away from the real threat.
+
+Seeing that, Matt was hopeful they’d figured things out after the third successful cycle, but his dreams were dashed as the hydra seemed truly enraged by the fourth turret.
+
+Instead of attacking with an elemental breath attack, as it had the last three times, it charged the turret, finally drawn from its lair.
+
+Cursing the scaly not-lizard, Matt and everyone tried to pivot as their well laid plans fell apart.
+
+Two of the heads snapped at the newest turret, grabbing it at the base and peak, ripping it in half with a triumphant roar, as if the hydra had defeated its most hated foe.
+
+When it spun back around, Matt was almost hopeful that it would crawl back into its lair. Instead, it unleashed a much larger combined breath attack that annihilated most of their troops that were now behind it.
+
+The beams’ energy mixed with each other, but instead of disrupting each other's flow, they amplified the damage.
+
+Matt was wiping his hands of the attempt when Liz came back in with the rest of her aerial units. She commanded them to drop onto the hydra’s back as their final wave of reinforcements sallied out from their base.
+
+It was close, so close Matt felt sweat running down his back even without a body, but with the hydra distracted and facing the wrong way, they were finally able to finally bring it down.
+
+When its body fell to the ground, it didn’t dissolve like the earlier monsters had. Its body started to shrink, but when it had lost about twenty percent of its size, it fully solidified as it turned into harvestable crystals.
+
+Matt realized what it was a moment later and felt almost dumb.
+
+Resources.
+
+The hydra turned into a mound of crystals.
+
+The outer layer was clear crystal, similar to the first most basic resource they gathered, but through that outer shell, they could see swirls of colors that became metallic even deeper where they couldn’t see.
+
+Better than the resources themselves, they were all aiming for the prize at the center.
+
+Not the rare resource its heart had turned into, but rather the monster's former power source, the resource that once turned into a central monument would allow them to ‘win’ the strange realm.
+
+Growth item gems.
+
+The most precious resource in this strange realm and what everyone was fighting over.
+
+Found randomly in bosses, hidden locations, or other teams’ bases, they’d need to find eleven more, one for each of them, to claim a reward at the end of the strange realm.
+
+They, however, wanted far more than the minimum.

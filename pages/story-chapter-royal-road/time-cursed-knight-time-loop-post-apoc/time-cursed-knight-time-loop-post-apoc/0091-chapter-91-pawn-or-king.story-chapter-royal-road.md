@@ -1,0 +1,301 @@
+---
+id: 7aef02fe-60e1-569d-8feb-e690f8ebd7bd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 91: Pawn or King?"
+slug: 0091-chapter-91-pawn-or-king
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 91
+ownLength: 3285
+unit: words
+publishedAt: 2026-07-21
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3707538/chapter-91-pawn-or-king"
+royalRoadId: "3707538"
+---
+
+Silberwald — the commercial quarter.
+
+Konrad von Ries pushed the hair off his forehead and it fell back immediately, plastered down by sweat.
+
+The capital was drowning in summer.
+
+Silberwald had many virtues. Its harbor caught the western wind. Its walls held the monsters out. Its floating island cast a shadow across the palace quarter at precisely the hour the afternoon heat became unbearable, a miracle of ancient engineering that no living mage had been able to replicate and that benefited exactly the three hundred wealthiest families in the Empire while everyone else cooked.
+
+The rest of the city simply endured. The mana-glow streetlamps, which in winter provided a kind of ambient warmth that made the evenings tolerable, became in summer an additional insult.
+
+Konrad had grown up with wealth. His father sat on two trade councils. The family shipping interests generated enough revenue that Konrad had never, in thirty years of life, been forced to think about the price of a meal or a coat or a carriage.
+
+He thought about the price of shade constantly.
+
+Shade was the only commodity the capital's summers respected. You walked from one sliver of shadow to the next, timing your crossings the way a soldier times his movement between cover, and when you miscalculated you paid for it in a blast of direct sun that turned the expensive linen of your shirt into a wet rag in the space of ten strides.
+
+Konrad miscalculated, emerging from between a solicitor's office and a perfumery into a stretch of open boulevard that hit him like an open furnace door. Sweat ran down his spine. His dark hair, which he kept long enough to curl behind his ears and over his collar because it suited the image of the dashing reporter, was now a helmet plastered to his skull.
+
+He wanted to be at the harbor. He wanted a cold drink and the salt breeze off the bay.
+
+Instead he was walking to an interview he did not want to get, with a subject he had made famous, at a location he'd had to ask three people to find.
+
+Voralberg Magitek.
+
+A workshop. Not the Iron Cross compound or the palace or any of the dozen venues a man of Kaspar von Hexenzeit's newly stratospheric profile might have chosen. A magitek workshop in the commercial fringe of the noble quarter.
+
+The whole arrangement irritated him, and the irritation had been building since Frieda's comm-crystal call that morning.
+
+"He's agreed to an interview," she'd said, and for the first time in the seven years Konrad had worked under her, Frieda von Thalberg had sounded genuinely surprised. "He's never spoken to a journalist on the record."
+
+"Good." Konrad had been shaving. The crystal sat on its brass stand beside the basin, and he'd nicked himself at the jawline when her voice came through. "When?"
+
+"This afternoon. Two o'clock."
+
+"I'll be there."
+
+"Konrad." The pause that followed had the specific weight of an editor about to say something her reporter would not enjoy. "You built this. You made this boy into a figure that two princes and a princess are willing to destroy each other over."
+
+"You're welcome."
+
+"I'm not thanking you. I'm telling you that you don't get to refuse this." Another pause.
+
+The walk from The Imperial Chronicle's offices to the commercial quarter was long. There were no mana-carriages running the interior routes at midday. Konrad could have taken his magi-car, but the thing drank crystals in traffic and finding a place to leave it in the noble quarter cost more in bribes than the fuel.
+
+So he walked, and he sweated, and he turned the irritation over.
+
+He didn't like being summoned.
+
+He smelled the crowd before he saw it.
+
+That was the wrong word. He smelled the heat of the crowd. The dense humidity that a mass of bodies produced in summer, the mingling of perfume and sweat and ink that clung to every working journalist like a second skin.
+
+He came around the corner onto the street where the workshop stood, and stopped.
+
+The line ran from the workshop's front door halfway down the block.
+
+Not customers. Journalists.
+
+Konrad recognized faces before he'd taken three steps. The correspondent from the Silberwald Gazette, fanning himself with a folded broadsheet. Two artists from the Morning Bell, their charcoal cases slung across their chests. A woman from the trade papers, the kind of narrow-faced specialist who covered shipping tonnage and grain futures and would not normally be found within a league of a military story. A pack of junior correspondents from at least four outlets Konrad could name and three he couldn't, all of them sweating and fidgeting and craning their necks toward the workshop door.
+
+He counted. Thirty. Forty. More arriving behind him even as he stood there.
+
+Near the back of the line, a familiar slouch caught his eye.
+
+"Aldermann."
+
+The man turned. Aldermann was a decade older than Konrad, thick through the middle, with the permanently rumpled look of a man who had been wearing the same coat for six years and intended to be buried in it. He wrote for the Capital Register—Silberwald's respectable, dull cousin to the scandal sheets. The kind you read if you wanted to know what the grain price was doing.
+
+"Von Ries." Aldermann grinned, the grin of a man who discovered that misery has company. "Another one caught in the net."
+
+"What net?" Konrad fell in beside him. "What is this?"
+
+"You don't know?" Aldermann's grin widened. "Oh, that's rich. I thought at least you'd have been warned."
+
+"Warned about what?"
+
+"Our young hero invited everyone." Aldermann spread his hands to encompass the entire sweating queue. "Every outlet. Every desk. At the same time." He let that land with evident enjoyment. "He called it a press conference, Konrad."
+
+Konrad stood very still.
+
+"That's not possible," he said. "Frieda told me he asked for us."
+
+"He asked for everyone by name. Each one worded as though the recipient were the only journalist in the Empire he trusted enough to speak to." Aldermann laughed, a short bark that startled the sketch-artist in front of him. "I'll give the boy this, he knows how to bait a hook. Every single one of us walked in thinking we were special."
+
+Heat that had nothing to do with the sun moved through Konrad's chest. Blood climbed into his face.
+
+He played me.
+
+The thought was infuriating.
+
+"How the hell," Konrad said through his teeth, "does a twenty-year-old knight with no political training, how does he coordinate forty simultaneous invitations and make each one feel personal?"
+
+Aldermann shrugged.
+
+Konrad stared at the workshop door, willing it to burst into flames through the sheer pressure of his displeasure.
+
+It did not oblige.
+
+He stayed in line.
+
+The line moved twenty minutes later.
+
+The workshop's interior had been rearranged. The main floor had been cleared to its walls. Three rows of simple wooden chairs faced a low platform at the far end, the kind of staging you might throw together for a neighborhood meeting or a guild lecture.
+
+Nothing about it was impressive. The chairs were mismatched. The platform was three planks on stacked crates. The lectern looked like it had been borrowed from someone's study.
+
+Yet the room was packed in minutes, every chair taken, the walls lined three deep with the overflow, notebooks and charcoal sticks and crystals out.
+
+Konrad found a seat in the second row. He crossed one leg over the other, opened his own notebook across his knee, and began composing the first line of the piece he would write about this indignity.
+
+Then the air touched him.
+
+He didn't notice it at first. The transition from the crucible of the street to the interior had been gradual enough that his body registered relief before his mind registered cause. But after, sitting still, the sweat cooling on his collar instead of accumulating, the linen of his shirt beginning to dry against his back for the first time in hours, the sensation became impossible to ignore.
+
+It was cool.
+
+Not cold. Not the sharp bite of an ice-mage's ward. It was the temperature of an autumn afternoon, of a morning by the harbor when the fog was still in.
+
+The room was cool.
+
+Konrad looked up. No ice-crystal array, which would have been the obvious solution and would have cost enough to buy the building twice over.
+
+He looked at the journalists around him. Some had noticed. A woman two seats down had stopped fanning herself. The man beside her was touching the arm of his chair, then the back of his neck, frowning. Whispered conversations were starting.
+
+"Is it just me, or—"
+
+"—not hot in here at all—"
+
+"How are they doing this? There's no array, I looked—"
+
+Konrad wrote in his notebook: Cool. How?
+
+He underlined it twice.
+
+Kaspar von Hexenzeit entered from a side door.
+
+The murmur cut off.
+
+He moved differently. That was the first thing Konrad's practiced eye caught, and the observation sat oddly against the man he'd been writing about for months. The Kaspar von Hexenzeit of the trial footage had walked like a weapon. Chains or no chains, the man in the Imperial Forum had carried himself with a barely contained pressure that made the air around him feel dangerous.
+
+This Kaspar was quieter.
+
+Not diminished. The frame was the same. The white hair, longer now, was pulled back and tied at the nape of his neck, a simple cord holding it. His eyes moved across the room the way they'd moved across the Forum corridor. Reading the environment the way a soldier reads terrain.
+
+He wore no uniform. No Iron Cross emblem, no rank insignia, no military dress of any kind. A plain shirt, sleeves rolled past the forearms. Dark trousers. Boots that had seen use. He looked less like the Hero of Grenzheim and more like a young tradesman who'd wandered in from the shop floor.
+
+Deliberate, Konrad thought. All of it deliberate.
+
+Kaspar stepped behind the lectern and looked out at the assembled press of the Empire.
+
+"Thank you for coming," he said. "I'll take your questions. Two ground rules. I won't discuss operational details of the Iron Cross or my family." A beat. "Anything else is fair."
+
+A hand went up before the last syllable had faded, and the questions began.
+
+Konrad kept his notebook open and his mouth shut. He let the others go first. There was a rhythm to these things. The eager ones burned their questions early. The hacks asked the obvious things. The patient ones waited and struck when the subject was tired and the answers came looser.
+
+The obvious things came first, as he'd known they would.
+
+"Herr Hexenzeit, how do you feel about the verdict?"
+
+Kaspar's expression didn't change. "Grateful to the court for reaching the correct conclusion."
+
+Correct, Konrad noted. Not just. Correct. As if the outcome had been a mathematical certainty and the trial merely the working-out of an equation everyone should have solved on the first line.
+
+"Can you describe your experience in the Kumsur Sultanate?"
+
+"Hot," Kaspar said, and the room rippled with surprised laughter. He let it subside. "I was deployed on an investigation. The details of that investigation are covered by the first ground rule. What I can say is that the mission was completed, and that the people of Qalathar showed extraordinary courage under extraordinary circumstances."
+
+Not a single useful word in the entire answer, and every word precisely chosen to sound like he had said something. Konrad circled the response in his notebook and wrote politician in the margin.
+
+More questions. A correspondent from one of the trade papers tried a flanking approach, asking about the Sultanate's economy, hoping to draw Kaspar into comments about the Snow Dream supply chain. Kaspar acknowledged the Sultanate's importance as a trade partner and said nothing that couldn't have come from a first-year geography primer. A woman from the Gazette asked about Princess Elara's role in the prosecution. Kaspar's face went carefully, perfectly blank.
+
+"Her Highness acted within the authority of her position," he said. "I have no further comment on the actions of the Crown."
+
+The woman pressed. "There are those who say the charges were politically motivated. That the Princess—"
+
+"I have no further comment on the actions of the Crown." Same words. Same tone. Same blank face. The repetition shut the line of inquiry as cleanly as a door closing.
+
+He's been coached, Konrad thought. Then: No. He hasn't. Who would have coached him? Varen's people would have given him a script. This isn't a script. He's doing this in real time.
+
+The questions thinned. Konrad could feel the room losing momentum, the early energy draining as the journalists discovered, one by one, that the Hero of Grenzheim was perfectly willing to stand at a borrowed lectern for an hour and give them nothing they could use.
+
+Now, he thought.
+
+He raised his hand.
+
+Kaspar's eyes found him. There was a flicker of recognition.
+
+"Konrad von Ries," Konrad said, loud enough for the room.
+
+"I know who you are."
+
+"Why are you in the Iron Cross?"
+
+A murmur ran through the chairs. Several pencils stopped. The question was so simple it had a kind of violence to it.
+
+"I've read your file," Konrad went on, not giving the silence time to settle. "You're a Hexenzeit. Your father commands the Empire's magical military. Your family owns the only known book on Seventh Circle fire magic. With that name, with nine mana cores, with the kind of fame you've accumulated in the last six months — you could have gone anywhere. Any salon, any court, any faction. You could have played kingmaker between three succession candidates and come out richer than God." He leaned forward. "Instead you're in the Iron Cross. A commoner's legion. Taking orders from a prince who may or may not be using you as a prop. Why?"
+
+Pencils stopped. Nobody breathed.
+
+Kaspar looked at him for a long moment.
+
+"For what other reason?" he said. "To end the war."
+
+Four words. Delivered flat. Without the rhetorical flourish a politician would have layered onto them.
+
+Konrad opened his mouth. Closed it. Wrote the words down.
+
+To end the war.
+
+He wanted to push harder. He wanted to crack the surface, to find the seam where the public Kaspar ended and the real one began. Around him forty journalists were scribbling furiously, and the moment had already been taken from him.
+
+The questions continued after that—softball after softball, the room feeding on the four words until the energy ran out.
+
+When Kaspar finally stepped back from the lectern, nobody had much left to ask. He thanked them again and disappeared through the side door as cleanly as he'd arrived.
+
+The room exhaled.
+
+Konrad stayed in his seat while the chairs emptied around him. He was writing down observations — the body language, the word choices, the careful choreography of non-answers — when the sound of conversation near the far wall made him look up.
+
+A cluster of journalists had drifted toward the workshop's main bench, the one that had been pushed aside to make room for the chairs. A woman stood behind it.
+
+Konrad recognized her from the name on the building. Asena Voralberg. The aunt.
+
+She was answering questions.
+
+Not about Kaspar.
+
+"—a single crystal," she was saying, holding up the crystal between her thumb and forefinger. The kind you could buy at any supply house in the capital for a few silver. "Grade B. Rolf's latest run holds roughly three months at this temperature, longer if you're willing to let the room warm a bit more."
+
+The woman from the trade papers leaned in. "Three months? On a single Grade B?"
+
+"The glyph architecture is recursive." Asena set the crystal down beside a device on the bench. "The waste mana loops back into the cooling cycle instead of bleeding off. Conventional thermal arrays lose sixty, seventy percent of their input to ambient dissipation. This loses less than ten."
+
+Konrad's pencil had stopped moving.
+
+He looked at the device—then at the room around him, cool in the middle of a Silberwald summer.
+
+"What's the unit cost?" The financial correspondent who'd been pressing Asena on margins all afternoon.
+
+"We're still finalizing production," Asena said. "Once the process is set, the per-unit cost should sit well within reach of any established household."
+
+"Any noble household, you mean."
+
+"Any household with a crystal budget. Which, yes, starts at the noble tier, but a Grade B crystal running three months is cheaper than what most families currently spend on ice-ward upkeep over the same period." She met the financial man's eyes. "Significantly cheaper."
+
+The cluster thickened. More journalists drifted back from the door, drawn by the voices.
+
+Questions came faster now. Technical ones Konrad couldn't follow — glyph density, thermal gradients, crystal fatigue curves. Practical ones he could — room sizes, installation requirements, whether the device could be modified for carriages, for warehouses, for military field tents.
+
+Konrad watched it happen.
+
+The trade correspondents forgot they'd come for a war hero and started calculating retail margins. Sketch-artists who'd come to draw the face of the Bastard Knight began drawing the device instead. A woman from the Gazette cornered Asena with detailed questions about patent filings and production timelines, her notebook filling with numbers that had nothing to do with treason or Titans or the succession crisis.
+
+He watched a second story form in front of him while the first one cooled in his notebook.
+
+The sun hit him like a fist when he stepped outside.
+
+Konrad walked into it anyway, moving fast, his notebook open in his hand.
+
+He was writing as he walked. Not the clean, measured shorthand he used for interviews. Furious strokes, the pencil biting into the page.
+
+Son of a bitch, he thought.
+
+Kaspar von Hexenzeit had not given an interview. The four words — to end the war — were a headline, and they were a good headline, and every paper in the capital would run them tomorrow morning and feel satisfied.
+
+But the headline was the bait. The hook was the room.
+
+Every journalist in Silberwald had walked through a door into a cool room in the middle of summer and sat in it for an hour without understanding what they were sitting in. They had sweated through the streets to get there and they had stopped sweating the moment they crossed the threshold, and when the questions were over and the hero had vanished, the room itself became the story.
+
+He built a trap, Konrad thought, out of comfort.
+
+He had gathered every pen and every sketch-pad and every comm-crystal in the capital into a single room and made them experience the product with their own bodies before they knew it was a product at all. By the time Asena Voralberg opened her mouth, the pitch was already made.
+
+Tomorrow, half the trade papers in Silberwald would run a piece on the cooling device.
+
+Within a week, every noble household in the capital would know the name Voralberg Magitek.
+
+Within a month, they'd be placing orders.
+
+Konrad stopped in the middle of the boulevard. The sun hammered down on his bare head. A bead of sweat fell from his jaw and darkened a spot on his open notebook.
+
+Varen thinks he owns the boy. Elara thought she could break him. Kasimir tries to ignore him. Every one of them looks at Kaspar von Hexenzeit and sees a piece on their board.
+
+He wrote two words in the center of a clean page and circled them.
+
+PAWN OR KING?

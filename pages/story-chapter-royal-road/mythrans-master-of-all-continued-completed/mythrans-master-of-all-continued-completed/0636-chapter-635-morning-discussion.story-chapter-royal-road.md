@@ -1,0 +1,257 @@
+---
+id: c494c81c-2c32-5c07-9b2d-c2fe13ba1b78
+page-type-slug: story-chapter-royal-road
+title: "Chapter 635 - Morning Discussion"
+slug: 0636-chapter-635-morning-discussion
+partOf: mythrans-master-of-all-continued-completed
+position: 636
+ownLength: 2701
+unit: words
+publishedAt: 2018-07-11
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/232909/chapter-635-morning-discussion"
+royalRoadId: "232909"
+---
+
+After half an hour, Barbara went back to Ren's room and listened at the door. She couldn't really hear anything, so she opened it slightly. She saw Elise's naked back and closed the door quietly, then went back to the theatre room. She waited another half an hour and went back to Ren's room to check, and saw Elise was still naked.
+
+I think I have to talk to her about this. Barbara thought and went back to the theatre room. Ren's too weak to keep up with her like that.
+
+What Barbara didn't know was that each time she checked in on them, she caught them right after they had rested for a while and had resumed their love making. After the fourth time she checked, she saw that they were tucked under the blanket and were resting.
+
+It's about time. Barbara thought and waited another 10 minutes before going into the room. She checked on Ren's vitals as unobtrusively as she could, marked them on the chart, then sat down on the chair beside the bed. It was half an hour later when Ren started to fidget. Since Barbara was watching him closely, she noticed right away and stood up.
+
+“Unn.” Ren moaned and his hand reached out and found Elise, and he relaxed for a moment, then his other hand reached out and met nothing but air. “Unnn.” He started to fidget again and pat the bed in different places, as if he was looking for something. “Unn. Unnn.”
+
+“Shh.” Barbara whispered as she leaned in close.
+
+Ren's hand flailed a little at the sound of her voice, then found her arm and held on. He took in a deep breath and sighed, then stopped fidgeting and calmed down. Barbara tried to gently pull her arm out of his grasp, but he held on like a vise.
+
+Now what do I do? Barbara thought. She couldn't lean over the edge of the bed like this for the rest of the night. She thought about taking her uniform top off so she could slide out of his grip, then realized his hold was below her elbow and she wouldn't get her hand through if he tightened his grip and she would be stuck half naked and still in the same situation.
+
+After a few moments and her back getting sore, she shrugged mentally and carefully climbed onto the bed. She tried her best not to disturb Ren and Elise as she positioned herself close by and laid down. She felt weird laying on the bed fully clothed; but, Ren's grip on her arm hadn't changed, so she was kind of stuck until he let her go.
+
+At least he's calmed down. Barbara thought. She used her free hand to adjust his messy hair and whispered to him. “My sweet little boy.”
+
+Ren took in a sharp breath and whispered back. “Mommy?”
+
+“Shh.” Barbara said and touched his face. “Go to sleep.”
+
+“No, Mommy.” Ren whispered. “I don't want you to hurt me anymore.”
+
+Barbara pulled her hand away. “Ren...”
+
+“He's not looking, Mommy.” Ren whispered. “Help me escape.”
+
+Barbara's heart beat faster and tears came to her eyes. “I will.”
+
+“Thank you, Mommy.” Ren barely whispered, then his grip on her arm eased off and he let her go.
+
+You poor thing. Barbara thought.
+
+She tried to move away and her weight shifted on the bed, then Ren's hand reached out and landed on her abdomen. He pat it twice, almost like he was making sure it was real, then his whole body seemed to lose all it's tension and he sighed.
+
+Barbara looked at his face and saw he was smiling, so she laid back down. I'll stay if you need me. She thought and relaxed herself, then was glad she wasn't the least bit tired. She knew she had to be vigilant if she wanted to head off any sleep groping he might do. Imagine if he woke up and had my breast in his hand. She thought and suppressed her chuckle. He would probably want to boil his hand off.
+
+Barbara looked at his peaceful face and smiled as she remembered what he had said in the living room and called her his real mother.
+
+Sleep well, son. Barbara thought, and settled in for a long and pleasant night.
+
+*
+
+Gloria finished her shift at the garage and headed home. She didn't speed or break any other traffic laws as she drove. The encounter she had with the police officer last night had scared her. Not at the time, since it hadn't quite sunk in; but after thinking about it, she could have been screwed if he hadn't been such a nice guy.
+
+She arrived at her apartment building and went up to her place, grabbed a nice long and hot shower, then went to her recliner. She thought about logging in, just to see what was going on, then decided she wasn't in the mood to play and changed her mind. She went to her bedroom and went to bed instead.
+
+Her mind swam with all the possibilities she had given up by refusing that job offer, and she knew that whoever was behind the offer, Stella had been right. They didn't want her for her expertise, they wanted her because of her connection to Ren.
+
+“Ha, I showed them.” Gloria said and rolled over in bed. “I don't have any connection to him at all now, so I'm useless to them.” She bundled up her pillow and hugged it to her chest. “I don't have any connection to him.” She said, then fell quiet. She hugged the pillow tighter and buried her face in it.
+
+*
+
+Ren woke up the next morning and took in a deep breath, then winced. “Ow.” He said and opened his eyes. “I keep forgetting I can't do that.”
+
+“It won't take too long to heal.” Barbara said, and Ren froze.
+
+“B-Barbara?” Ren turned his head and saw a fully-clothed Barbara was laying on her side in the bed with him. His hand was perilously close to groping her chest and he pulled it back reflexively.
+
+Barbara chuckled. “It's okay. I fended you off.”
+
+“But... what... why...”
+
+“You were restless and needed someone to hold on to.” Barbara said. “I've been here for you all night.”
+
+“I... I don't know what to say.” Ren said.
+
+“Thank you would be nice, but it's not necessary.” Barbara smiled. “You know I'll do anything to help you.”
+
+Ren's eyes glanced at her chest and she chuckled again.
+
+“You would have freaked out if I'd let you do that, even unconscious.”
+
+“I really would have.” Ren admitted. “Barbara, I love you... and I don't want that to change to... well, you know.”
+
+Barbara nodded. “I feel the same way.” She said and rubbed the top of his head. “I've seen you naked, but I've never had the urge to...” Her face flushed a little red and she looked at Elise. “You seem to get a lot of that.”
+
+“You mean last night?” Ren asked, and she nodded again. “It took a while because Elise needed breaks in between sessions. She was doing all the work because I couldn't do anything myself.”
+
+“Ren, should you be talking about that?”
+
+“It's okay. I don't think she's going to wake up soon.” Ren said. “When we were done, she was exhausted and pretty much collapsed.” He smiled. “I wore her out and all I did was lay here.”
+
+Barbara shook her head. “I still don't think we should talk about this.”
+
+Ren shrugged. “I needed to explain why I'm still pretty much naked under the blanket, because I need a shower.”
+
+Ren smelled a wonderful smell almost as soon as his bedroom door opened. “You did not make me that!”
+
+Stella grinned as she pushed the cart with bacon, eggs, and toast into the room. “No, it's just an illusion.” She said and parked the cart by the table. “I'll make more when the others get up.”
+
+“That's all for me?” Ren asked and stared at the pile of eggs and bacon.
+
+“You'd like that, wouldn't you?” Stella asked and chuckled. “Barbara and I have to eat, too.”
+
+“Aww.” Ren said and looked at Barbara. “Can you give me a hand getting dressed?”
+
+“Sure.” Barbara said and moved the blanket off and looked at him. “Um... I think a quick sponge bath is in order first.”
+
+“Huh?” Ren looked down at the mess. “Oops.”
+
+“Don't worry. A bit of warm soapy water and a sponge will clean that right up.” Barbara said and put the blanket back and slid out of the bed.
+
+“A really soft sponge.” Ren said, and she chuckled.
+
+“It must be a big mess if Barbara wants to clean you off first.” Stella said and dished out a plate of food for Ren.
+
+“Well, Elise and I did it 6 times last night.” Ren smiled.
+
+“Wow, really?” Stella looked at Elise's sleeping face and smiled as well. “No wonder she's exhausted.”
+
+Ren nodded. “She was a real trooper.”
+
+Stella chuckled. “I'll tell her you said that when she wakes up.”
+
+“I told her last night, so go ahead.” Ren said. “I don't think she's had a harder workout in her life.”
+
+“I don't doubt that.”
+
+“Here we go.” Barbara brought out a small wash basin, towel, and sponge. “Give me a minute, and I'll have you fixed right up.”
+
+“Thanks.” Ren said and she moved the blanket out of the way.
+
+Stella looked at the mess and whistled. “That looks like a lot more than 6 times.”
+
+Ren chuckled. “I said we had sex 6 times. I didn't say that was how many times I finished.”
+
+“Too much information.” Barbara said. “Do you want me to use the rough sponge?”
+
+Ren shook his head and she dipped the sponge into the basin, then started to wash him.
+
+“Some of it is dry already.” Barbara said and held the wet sponge against his leg. “Stella, I think we need to wake Elise up.”
+
+“You think she needs to clean up, too?” Stella asked.
+
+Barbara nodded. “It can't be left too long.”
+
+“Agreed.” Stella walked around the bed to Elise's side and partially climbed onto it, then gave Elise's shoulder a shake. “Hey, Elise. Wake up.”
+
+“Uh.” Elise flopped onto her back.
+
+“Elise! Wake UP!” Stella said and shook her shoulder again.
+
+“Uhhh.” Elise opened one eye. “God, is that you?”
+
+Stella laughed. “Yes, now get your ass in the bathroom and wash yourself.”
+
+“No.” Elise rolled up onto her side. “Need it to stay.”
+
+Stella rolled her eyes. “If you don't wash it off, it's going to dry and be caked on.” She said. “You'll have to peel and scrape it off.”
+
+Both of Elise's eyes opened. “What did you say?”
+
+“Look at Ren.” Stella said, and Elise lifted her head and saw Barbara carefully washing Ren's private area.
+
+“Oh, damn!” Elise said and her hand moved under the blanket. Her face made several different expressions, then she smiled. “It's not too bad.”
+
+“That means it's not too good.” Stella said and pointed to the bathroom. “Get a move on.”
+
+Elise nodded and slid out from under the blanket and held a hand over private area, then quickly walked across the room to the bathroom.
+
+“Wash the back of your thighs, too!” Stella said and Elise waved acknowledgement and shut the door.
+
+“Done.” Barbara said and dried Ren off, then helped him get dressed. Ren stood up and walked over to the table as Barbara hovered behind him, and they sat down. Stella gave them their plates of food and sat down herself to eat.
+
+“Thank you.” Ren said.
+
+Barbara put a hand on the back of his neck and rubbed it. “Don't wolf it down, okay?”
+
+“I won't.” Ren said and shoved a whole piece of bacon into his mouth.
+
+“I just said not to do that.” Barbara laughed.
+
+Ren smiled at her as he chewed and chewed on the bacon. It took him a minute to do that, then he swallowed. “See? I'm taking my time.” He said and reached for another piece of bacon.
+
+“Eggs.” Barbara said, and he smiled and picked up the fork and ate some of the eggs.
+
+The bathroom door opened and Elise came out wearing a bathrobe. She looked ragged as she walked over to the table and sat down.
+
+“Ugh, I'm beat.” Elise said and blinked her eyes at the table. “No coffee?”
+
+Stella picked up the decanter from the cart's second shelf and put it on the table. “I thought you might want to go back to bed.”
+
+“No, I can't.” Elise said and yawned, then poured a cup. “I've got a phone meeting...” She took a long sip, then sighed. “...in about an hour.”
+
+“It's a good thing we didn't leave you asleep.” Barbara said.
+
+“You were going to?” Elise asked.
+
+“You were up half the night...”
+
+“I'll pay for staying up that long; but, I'm hoping it was worth it.” Elise smiled.
+
+“I was going to get after you for keeping Ren up like that, then he explained why it took so long.” Barbara said. “I'm glad you were responsible enough to take breaks.”
+
+Elise nodded. “Neither of us intended to keep going, but... then we...”
+
+“I was too horny to let her stop.” Ren said between bites of toast, and they looked at him. “I'm sharing too much, aren't I?”
+
+“Yes, but that's okay when it's just us.” Barbara said. “You need to cut back on the details when you talk about things like that.”
+
+“Okay.” Ren said. “If I just said, I needed her too badly to have her stop, would that be better?”
+
+“Yes, the wording can be softened, too.” Stella said. “You're still giving the same information, but not putting people off with the presentation.”
+
+Ren thought about it. “All right, I'll try and not be completely honest.” He said, and his face was scrunched up. “Can I say one more thing before I do, though?”
+
+“Of course.” Elise said. “What's on your mind?”
+
+“Well, there's something I haven't told you.” Ren said to her, and looked at Stella and Barbara. “After everything that's happened to me and the things I've done in the game, and after last night and talking to Elise, I guess I don't have to hide it anymore.”
+
+“Hide what?” Stella asked.
+
+“Well, I haven't done anything about it in a while, and I had intended to deal with it a while ago, then after the tech guys stopped travel to the pocket realms, I pushed it aside and tried to not think about it.”
+
+“Ren, stop beating around the bush.” Stella said. “What are you trying to say?”
+
+“Elise and I are trying to have a baby.” Ren said.
+
+Stella and Barbara's mouths dropped open. “WHAT?!?” They said together.
+
+“I'm not getting any younger, and with the way things have been going with me lately, I'm not sure if I'm going to get much older.” Ren said and Elise took his hand. “I'm not going to waste any more time, so I'm going to try my best to get her pregnant.”
+
+“Ren... this... this isn't...”
+
+“I know it's not the best idea I've ever had, but I'm doing this.” Ren said. “Elise let me try my best last night, and I want to keep trying.” He said, then sighed. “After thinking about the implications, I realized I needed to come clean about something else.”
+
+“Wait, that wasn't what you were talking about?” Barbara asked.
+
+Ren shook his head. “No, it just reminded me that I need to acknowledge something else.” He said and let Elise's hand go.
+
+“Ren?” Elise asked with wide eyes.
+
+“This happened before we got together, and while I was with Nathalia and lived in the Dwarven Kingdom.” Ren said. “This is something that happened... well, I...” He sighed. “There's no real easy way to say this.”
+
+“Ren, just say it.” Stella said.
+
+Ren looked at each of them in turn, took a deep breath and let it out. “I have a daughter.”
+
+“WHAAAAAAAT?!?” All three women yelled together.

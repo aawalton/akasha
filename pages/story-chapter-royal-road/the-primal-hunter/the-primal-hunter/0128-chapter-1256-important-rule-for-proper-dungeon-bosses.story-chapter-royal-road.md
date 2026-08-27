@@ -1,0 +1,139 @@
+---
+id: ddc51f7e-8450-5201-beb9-686c1706174f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1256 - Important Rule For Proper Dungeon Bosses"
+slug: 0128-chapter-1256-important-rule-for-proper-dungeon-bosses
+partOf: the-primal-hunter
+position: 128
+ownLength: 2773
+unit: words
+ownProgress: 2773
+publishedAt: 2026-02-16
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3059892/chapter-1256-important-rule-for-proper-dungeon"
+royalRoadId: "3059892"
+markedReadAt: "2026-06-29T19:34:34.655Z"
+---
+
+Mid-flight, the boss abruptly stopped, his movements suspended as the not-quite-so-dead-anyway Risen revealed himself once more. A turquoise aura of pure blight energy enveloped the entire area as the trap was triggered, creating a multi-layered sphere of magic circles enveloping the boss.
+
+Once more, the B-grade released a disruptive wave of energy to free himself, but this time around, it utterly failed to do anything as more and more layers of formations were added continually by the sphere of cursed seals.
+
+Jake had already stopped retreating and promptly pulled out an arrow to start charging an Arcane Powershot while Casper did his thing. The boss erupted with energy once more and, through superior power, managed to move his limbs as he sought to tear himself free.
+
+That’s when Casper truly revealed himself, his body manifesting from pure blight energy as he floated above the seal, his body fully ethereal. The B-grade struggled as he looked up towards the Risen, promptly shooting out another eyebeam that passed straight through Casper’s body.
+
+The Risen didn’t even react, his energy continuing to spike as he spoke, his voice infused with power.
+
+“Seal of Enervation.”
+
+At once, the magic surrounding the Labyrinth Master imploded into his body, forming pulsating dark turquoise runes that stuck not only to his physical self but even to his Soulshape.
+
+Able to move once more, the boss instantly released a slug of exploding shrapnel toward Casper, who quickly retreated in his fully ethereal form that barely had a humanoid shape. Attacking like this only left the Labyrinth Master exposed as yet another Arcane Powershot struck him in the side, penetrating deeply and delivering a good dose of much-needed Aginiansbane Poison.
+
+Jake also instantly felt the impact of the curse as the passive nullification of his poison significantly slowed down. No, it wasn’t just the energy moving to fight the poison that had slowed down; it was all his energy, period.
+
+The curse seemed almost like tar that stuck to the metaphysical veins of the B-grade’s Soulshape, making it harder for him to do anything. What’s more, Jake felt Eternal Hunger resonate with the Seal of Enervation – a word Jake only knew the meaning of due to Casper explaining it before the fight – the energy-absorbing effect of the mythical weapon now feeding the seal rather than Jake’s resource pools.
+
+Casper’s reappearance immediately changed the dynamics of the fight, giving the boss two opponents to deal with again. The Risen didn’t hesitate to unleash a barrage of attacks upon the slowed-down B-grade, Jake doing the same thing as they took full advantage of the Labyrinth Master having to adapt to his newly cursed existence.
+
+Jake and Casper’s plan had gone pretty damn swimmingly so far, though it hadn’t come without a cost. While having his body destroyed didn’t affect the Risen as much as Jake, in part due to his semi-ghost Path with Lyra, he had still taken some significant damage and had to consume a lot of spirit energy to rebuild what was destroyed.
+
+Even so, it was definitely worth the trade as Casper and Jake now faced a weakened and injured boss. The Labyrinth Master struggled with the two of them raining down attacks upon him, his movements sluggish, and his attempts to summon barriers to defend himself always a moment too slow to appear. This resulted in more than a dozen cursed stakes striking his body, all sinking into him to nurture the curse, effectively destroying his soul as Jake’s arrows broke his body with destructive arcane mana and poison.
+
+Realizing things were going south, the boss raised both his hands and yelled. He exploded with energy, once more failing to rid himself of the seal, but he did manage to buy himself a moment where no attacks struck him. This brief moment was enough for him to refocus, and with a yanking motion, a massive wall slammed down from above, aiming to separate Jake from Casper and the boss.
+
+Oh no, you don’t! Jake thought as he quickly used One Step, barely in time to get closer to the boss and not find himself locked away from the fight.
+
+The Labyrinth Master had clearly seen this coming and threw two grenades into the air, Jake finding one on either side as he appeared. Pride of the Malefic Viper was still active, and Jake focused on stopping the two grenades from detonating for just a moment as he forced them both away. He succeeded in delaying their explosions for less than two-tenths of a second, but it was enough for him to push them far enough for his newly summoned wings to block the incoming explosions.
+
+Casper didn’t stop attacking for a second. Continually unleashing curse attacks that all seemed to only strengthen the seal on the boss. From the grenades, Jake was certain they had just gotten noticeably weaker, and when he unfurled his wings and released another arrow, he was surprised at how easily it penetrated the flesh of the cyborg.
+
+Groaning, the boss finally did something he should have done a long time ago. With his sword, he stabbed himself through his shoulder, releasing an explosion of energy that blew a hole through his own body, yes, but also sent Eternal Hunger and the special cursed stake tumbling through the air.
+
+Without even taking a moment to breathe, the Labyrinth Master raised his gunlance towards the sky. The entire room rumbled, the rising platforms shooting upwards all at once as dozens of black walls shot down from above.
+
+Casper tried to stay close but was cut off by several walls. Seeing this, Jake purposefully retreated to get behind a falling wall, separating himself from the boss, who tried to chase after him. He couldn’t help but smirk as a bullet was blocked by the Labyrinth Master’s own wall, but the boss quickly reacted by retracting it, only for Jake to quickly release a pulse and get a lay of the land as he used One Step to get away.
+
+The boss had effectively brought down a miniature labyrinth upon them, likely in an attempt to single out one person at a time. From a dungeon design perspective, Jake found the concept interesting, if a little too dangerous. If the party trying the dungeon were taken by surprise and had a spellcaster or, Villy forbid, the healer be sectioned off alone, they would be in for a bad time.
+
+For a party of two, it wasn’t too big a deal, though, especially not when one considered who the two were. Jake purposefully started running through the labyrinth, the boss hot on his tail. Even if he controlled the labyrinth, the B-grade couldn’t instantly move or retract walls, allowing Jake to stay one step ahead as he quickly made his way toward where Casper was.
+
+To his delight, Casper wasn’t even trying to find Jake but had instead fully returned to his corporeal form and knelt down, taking the same stance he usually did when laying down a trap. Even though they hadn’t discussed this tactic, Casper confidently gambled on Jake knowing what the Risen was doing and being able to easily navigate to him through the labyrinth. His old pal was naturally entirely correct, and despite the Labyrinth Master’s best efforts, he couldn’t catch up with Jake, who expertly made use of all the tight turns.
+
+Jake was already smiling as he quickly pivoted around a corner, used two rapid One Steps in a row, and continued down a hallway. The Labyrinth Master didn’t hesitate to try to make a shortcut, lowering two walls separating himself from the annoying running hunter at the same time, so he could keep chasing at full speed.
+
+Unfortunately, he just happened to try to make a shortcut right across where Casper had just put down a juicy trap. The boss realized immediately, but at that point, it was too late as the ground erupted with blight energy, sending him flying upwards from the explosion.
+
+He slammed hard into the dome-shaped ceiling, coughing up a mouthful of blood from the impact on the far too durable material. Jake also quickly moved to rejoin Casper, shooting an arrow while running, only adding injury to injury.
+
+Teamed up again, the two swiftly moved to capitalize, attacking the boss, who struggled to defend himself. Between the injuries, the Seal of Enervation, and the momentary confusion from being slammed into a metal wall, the Labyrinth Master didn’t muster much of a response right away as he took several more serious blows.
+
+Jake felt his poison ravaging the cyborg’s system, quickly killing everything that remained biological within the B-grade’s body. This was readily apparent, as all his fleshy bits were starting to rot away with necrosis setting in, proving that the inflicted toxins had reached a critical level.
+
+Stabilizing himself somewhat, the boss threw down five grenades at once, making them explode right in front of him. They all released clouds of differently colored smoke that sought to obscure the Labyrinth Master entirely. Jake saw Casper looking around desperately, trying to use some magic to locate the boss, but he wasn’t able to find the B-grade even as a gunlance stabbed for his chest.
+
+Quickly reacting, Jake released a shockwave of arcane energy, blasting Casper to the side as he jumped for the boss. With Eternal Hunger no longer in the Labyrinth Master’s body, he summoned it back to his hand, and together with his Voidblade Katar, he dove in for a bit of a melee brawl.
+
+The cloud of smoke from the five grenades made a powerful combination that the cyborg could seemingly only see through due to his special cybernetic eye; at least it seemed that way based on how he didn’t at all react in time before Jake struck him from the side opposite the eye.
+
+Jake stabbed the boss in the side, making the Labyrinth Master spin his head around with a shocked look on his face. In response, he got another good stab to the chest, followed by a few more blows, before the B-grade realized that Jake was seemingly entirely unaffected by the smoke.
+
+In an entertaining turn of events, the smoke proved more beneficial to Jake than the boss as he actively made use of the Labyrinth Master’s limited field of view to continually attack, strafing around his opponent while landing constant cuts and stabs.
+
+Casper took this time to retreat out of the smoke, making it an entirely detrimental move for the boss, who promptly erupted with a disruptive energy wave yet again, this time to dispel his own attack. Jake was sent sliding back from the shockwave, the boss already pointing his gunlance toward the hunter as he pressed the trigger.
+
+Dodging to the side in the relatively narrow hallway, Jake avoided the bullet, but the boss didn’t immediately attack. Instead, he seemed to panic as his head whipped around.
+
+“No! I knew I shouldn’t have done this!” he suddenly yelled as he threw out a handful of grenades before flying upwards toward the ceiling of the dome.
+
+Jake and Casper both defended themselves and retreated as explosions consumed the hallway, giving the boss time to reach the ceiling. He reached out toward the black metal dome and willed it to open as he looked down toward his two opponents.
+
+“You have done much to disrupt all we have worked for, and proven yourselves far more powerful than I first believed. However, the battle ends here as I no longer have time to deal with you. Instead, find comfort in the knowledge that your bodies shall serve as fuel to repair what you’ve damaged. Be consumed as you struggle in vain to escape this miniature labyrinth I just made, unable to find the singular exit that my Aginian Labyrinth Magic unfortunately requires me to include!”
+
+With those words that definitely weren’t telling Jake and Casper that they were now meant to find an exit to the mini labyrinth, the Labyrinth Master created a hole in the dome-shaped ceiling, which he quickly escaped through. Through his Hunter’s Mark, Jake saw that the boss didn’t go far, but stopped just outside and made some hand motions as a faint sense of danger entered Jake’s mind.
+
+Beneath their feet, the symbols on all the tiles finally revealed their function as they began to glow. Casper frowned and quickly spoke.
+
+“They’re directly draining our resources,” the Risen said, his voice not sounding particularly concerned.
+
+“Guess staying in here would be a pretty silly thing to do, then,” Jake shrugged before smiling at Casper. “Me or you?”
+
+“Does it matter?” the Risen returned his smile, and as one, they both started running in the same direction.
+
+Sadly, Jake had to slow down a little for Casper to keep up, but it was clear they both knew the way as they wormed their way through the Labyrinth. Staying together seemed like the best strategy, even if it did mean Jake would experience the annoying energy drain for a bit longer.
+
+“This absorption effect-“
+
+“Dungeon fuckery,” Casper quickly answered. “Can’t be avoided in any way, but it is more like an absolute law within the dungeon that affects everyone. There probably are ways to partly resist it, but the drain seems weak enough for it to be fully absolute.”
+
+Jake nodded, ultimately asking more out of curiosity than concern. As Casper said, the drain was pretty weak and not much of a concern. Unless they decided to fumble about inside the makeshift labyrinth for an hour, at which point their boosting skills would have been a bigger problem, it wouldn’t reach a level of mattering.
+
+They were also both more concerned about what the Labyrinth Master was doing than they were about escaping in time. The two of them took the fastest route toward the exit, and all in all, they ended up being stuck inside just shy of a minute when they finally got out.
+
+Upon exiting, they found themselves facing the Labyrinth Master, who was kneeling inside a magic circle. He looked shocked – as shocked as he could with half his face rotten or made of metal, anyway – when he spotted them.
+
+“How did you escape so swiftly!!” he yelled, a sense of panic in his voice. “No... no, I need more energy! Do you have any idea what you’re even doing!?”
+
+Jake and Casper exchanged a quick glance before both attacking at once, having no interest in Minaga’s dialogue. If this were something important they had to hear, the Unique Lifeform would have done something to prevent them from interrupting the boss.
+
+Arrows and cursed stakes hit the already significantly weakened Labyrinth Master, who appeared unable to leave the magic circle. He tried to defend himself using his metal limbs for cover, but Jake easily curved his arrows, and Casper didn’t care where he hit as his cursed stakes were just absorbed by the Seal of Enervation to further fuel it.
+
+The B-grade’s attempts to defend himself were in vain, and his situation only worsened as his vital energies rapidly declined. All his flesh was ridden with necrosis, the Seal of Enervation was stronger than ever, and he was truly on his last legs.
+
+Even then... Jake and Casper knew this couldn’t be it.
+
+“No... I can still...” the Labyrinth Master weakly said, his two arms falling to his side as he lost control over them. With the opening, Jake landed an arrow straight into his rotting biological eye, making his head whip back... and giving a very surprising notification.
+
+You have slain [Aginian Labyrinth Master – lvl 375] – Bonus experience earned for killing an enemy above your level
+
+Jake stood there, confused as he glanced at Casper, who still had his game face on. The Risen caught his look and motioned for Jake to keep looking at the boss as he spoke.
+
+“It’s not over.”
+
+As was prophesied, the entire Grand Labyrinth started rumbling. Behind them, the makeshift labyrinth began to unfurl, and to their surprise, they both detected the sky above them open, the invisible ceiling of the labyrinth gone.
+
+Instinctively, Jake glanced upwards, only to see a massive blue lightning bolt descending. It struck the corpse of the Labyrinth Master, the Grand Labyrinth resonating with his body as a female robotic voice echoed throughout the dungeon.
+
+“Failsafe activation: Approved. Initiating emergency protocols.”
+
+“Right,” Jake said, watching the boss being bathed in a constant stream of dense lightning, having nearly forgotten one of the most important rules for proper dungeon bosses. “Always gotta be a third phase.”

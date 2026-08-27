@@ -1,0 +1,245 @@
+---
+id: 277e60ca-1284-554d-84aa-6ef37f1ea90c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 611 - The Results"
+slug: 0611-chapter-611-the-results
+partOf: mythrans-master-of-all-continued-completed
+position: 611
+ownLength: 2913
+unit: words
+publishedAt: 2018-06-17
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/225229/chapter-611-the-results"
+royalRoadId: "225229"
+---
+
+“Wha' tha hell?” Clint exclaimed as he received the popup to go to a safe zone and log out of the game. “Ah jus' got on ta play!” He had felt something that made him think of Sea Dwellers and had opened the help menu for information, then opened the messaging system to see if anyone knew what was going on. He hadn't even left his ranch house yet, so he sat back down on the couch and logged out.
+
+********
+
+Clint slid off the VR headset and sat up on his bed, then moved the towel out of the way. “Ah'm lucky ah didn' git ta travelin' righ' away like I wanted ta.” He said and went to his home computer and tried to log onto the message boards. It worked, and the first message he saw was a pinned message by Ren. It had been marked as a favorite by one of the site mods, so he clicked on it and saw that Ren didn't like the way the Water Works update had changed all of the NPCs in the game, and not just the relevant ones.
+
+“Ah agree.” Clint said. “They shoulda jus' added in new people and lef' tha others alone.”
+
+Clint read some of the two dozen responses, and saw that they shared Ren's view as well. He added his voice to the throng by clicking reply, then he added his idea. It was immediately liked by almost a hundred people, and Clint was shocked by this. He backed out to the main forum, and message after message started appearing under Ren's pinned message.
+
+“There shore was a bunch of people on tonigh'.” Clint said, and the complaints were pretty much identical. Everyone spewed hate for the Sea Dweller update. A lot of them had to log out in the middle of a quest, which meant it would count as a failure automatically, and they were not happy about it.
+
+*
+
+“Shit! Shit! Shit!” Tommy said as he slipped off his VR headset.
+
+“I'm sorry, baby.” His girlfriend Jaime said as she slid off her own VR headset.
+
+“What the hell happened, man?” Tommy asked as he sat up and put the headset aside. “We were right in the middle of...”
+
+“I don't think it was just us.” Jaime said. “You felt that Sea Dweller thing, right?” She asked, and Tommy nodded. “Whatever that was, it set off something that made us all have to log off.”
+
+“I've never felt something like that before.” Tommy said. “I don't even have that skill.”
+
+“I think it's this new Water Pipes thing.” Jaime said.
+
+“Water Works.”
+
+Jaime shrugged. “We weren't going to do any of the quests, so it doesn't matter what it's actually called.”
+
+“Yeah.” Tommy said and rubbed his face. “I'm still really horny.”
+
+“Me, too.” Jaime said.
+
+Tommy turned on the bed and looked at her with longing. “Say... do you think...”
+
+“You know how much I hate condoms... and getting pregnant.” Jaime said.
+
+Tommy nodded and knew he had to come up with some kind of compromise. “Hey! We can just do oral!”
+
+Jaime opened her mouth to say no and that they could just use their hands, then her special place chose that time to give her a nasty twitch. “I... I guess we could do it for a little...”
+
+Tommy jumped on her and started kissing her to cut off her words. If he didn't use this opportunity now, she would convince herself she could wait for the game to come back online. Neither he nor his penis could wait that long, and he dove between her legs to satisfy her as quickly as possible. He was laying down with his knees by her head, which gave her a very up close view of his private place.
+
+Oh, what the hell. Jamie thought and started to please him, too.
+
+*
+
+Max woke up when his home computer alarm went off, and he cursed as he rolled out of bed and sat up. “For god's sake! Give me at least one goddamn night where something doesn't go wrong at work.” He said and walked over to his desk and turned on the computer monitor. “What the hell... no, that's not possible.” He said and sat down. “How in the world...”
+
+Max typed furiously for nearly a full minute as he checked on what the game was doing and how the servers could possibly be taxed so much in so short a time. He set up a remote host with the night programmer and saw a copy of his screen.
+
+“No, don't add new information!” Max said and tried entering counter commands. “Cut off the next data inquiry! Don't add one!”
+
+It was a losing battle because as he fought the night programmer, the system started to fail; but, he had to try and keep the servers up and running for as long as possible. When he saw the night programmer enter the shutdown code, he lost it.
+
+“No! NO!” Max yelled and stopped fighting the commands and typed a message to the programmer directly.
+
+Overlord:  NO! The backup is currently running! Do NOT shut down!
+
+CrAcKdFgHtR  What? I thought that was this afternoon?
+
+Overlord:  That was the maintenance run to clean up the files! You can't shut down now!
+
+CrAcKdFgHtR  Sorry, boss. It's already done.
+
+Max looked at the data readouts and saw them all drop off to nothing. “ARGH!” He grunted, then thought about firing the guy for being so stupid, then he sighed. He used his administrator access to check the status of the current backup and saw that it was at 98%.
+
+So close. Max thought, then had an idea.
+
+Overlord:  Start the data recovery procedure right now.
+
+CrAcKdFgHtR  What? Can't we just use the last backup?
+
+Overlord:  No. We will lose 4 game days of content if we do that.
+
+CrAcKdFgHtR  Oh. Then I'll get it going.
+
+“With luck, that last 2% was whatever happened right before the shutdown.” Max said, then he thought about it. “Wait a minute. Something like that shouldn't be possible.”
+
+It took a while for Max to check all of the information he had on the cascading errors, and he followed them all back to the start of it all. The now collapsed Sea Dweller data package and the main inquiry subject.
+
+Ren.
+
+“Son of a bitch.” Max said. “Son of a goddamned BITCH!
+
+*
+
+Gloria took off her VR headset and was pretty angry. “Ugh! That little bastard!” She said and tossed her headset onto the table beside her recliner. “I finally got up the courage to get online to talk to him, and he caused the game to shut down!”
+
+As Elerlyth. she had felt Ren's Aura cover her, and her ability let her feel his emotions. It amazed her so much that he could cover so much area with his own Aura that she hadn't realized what he was doing until it had already happened. She had activated her Spider Aura to merge Auras with his and tried to send him her emotions to get his attention; but, she could feel him as he struggled to keep himself from being overwhelmed with feeling everyone's emotions inside his Aura.
+
+Gloria got up and paced the room, and saw her cell phone. She went over to it and picked it up, made a fist with her other hand, then put the phone down. She stared at it and took a deep breath, then let it out.
+
+“Come on, Gloria. You can do this.” Gloria said and picked up the phone, then shook her head. “No, if we're going to have this talk, it should be face to face.”
+
+Gloria went to her bedroom and grabbed her clothing to get dressed, picked up her keys and locked her apartment door as she left. She was in her car a moment later and peeled the tires as she left the parking lot. It was 2 am in the morning, but she didn't care. She was going to confront him and it didn't matter what time it was.
+
+*BEEOOO* *BEEOOO* *BEEOOO*
+
+The sound of a police siren blared behind her and then the telltale red and blue lights lit up her mirrors and the night around her. She glanced down at her speedometer and saw that the needle was buried well past 120 miles an hour, then realized she had her foot jammed down on the gas pedal and it was pressed right to the floor.
+
+“FUCK!” Gloria cursed and took her foot off the accelerator and the car immediately started to slow down. Starved of food, the engine fought against the need to go faster with the friction of its gears, then Gloria applied the brakes to ease the engine's burden. She quickly came to a stop and pulled over, and the siren cut off as the cop car caught up to her and pulled in behind her.
+
+The cop got out of his vehicle, and she saw in her side mirror that he had his gun drawn. She rolled down her window and put her hands out to show that she wasn't a threat and waved to him. She saw the cop visibly relax and he stopped pointing the gun at her, but he didn't holster it. He walked over to the car and stayed back about 10 feet.
+
+“Ma'am? Do you know how fast you were going?” The cop asked.
+
+“Honestly, no.” Gloria said. “I was too lost in my thoughts.”
+
+“Excuse me?”
+
+“I wasn't even looking at the speedometer, officer.” Gloria said. “I just needed to get somewhere and I wasn't concerned with the little details.”
+
+“The little details?” The cop asked and holstered his weapon. His years on the force told him she wasn't intoxicated or driving under the influence, and if he had to guess, she was as angry as a hornet's nest. “You could have killed someone.” He said and stepped to her window and looked down at her.
+
+“I'm tempted to give a flippant answer and ask who I could kill this early in the morning; but, I'm tired and pissed off and I don't think I want to go to jail for mouthing off.”
+
+The cop smiled. “I suppose I could forgo the jail time and let you off with just a very expensive ticket for stunt driving.”
+
+“Wait... did... did you say stunt driving?” Gloria asked with wide eyes.
+
+“Anything 50% or more above the posted speed limit is considered stunt driving, according to the law.” The cop said. “Higher tickets, higher penalties, higher everything.”
+
+Gloria dropped her head into her hands and sighed. “Fuck.”
+
+“I ran your tags, and you've had several speeding tickets before.”
+
+“All paid right away, or as soon as it was possible.” Gloria said and lifted her head. “I've even gone without eating lunch for a week for one of them.”
+
+“That one wouldn't happen to be on Blake Boulevard was it?” The cop asked, and she nodded. “Gary always was an asshole.”
+
+Gloria laughed. “He really is! He gave me a sobriety test and everything, and I don't drink! I never have!”
+
+The cop laughed for a moment, then stopped. “I'm sorry, but I can't let you off with just a warning.”
+
+“I know, officer.” Gloria said, and she stopped smiling. “What's the damage going to be?”
+
+The cop wrote up the ticket and handed her the small clipboard so she could sign that she received the ticket.
+
+“You have got to be fucking kidding me!” Gloria exclaimed when she saw how much it was. “That's outrageous!”
+
+“I know it is.” The cop said. “I'm sorry.”
+
+“Motherfucking goddamn piece of fucking...” Gloria stopped talking and signed the form, then handed the clipboard back to the officer. He tore off her copy of the ticket and handed it to her.
+
+“Please, don't take this the wrong way.” The cops said. “If this happens again, it's an automatic 30 day license suspension and they'll tow your car.”
+
+Gloria clamped her mouth shut and didn't say anything, because she had already met her curse quotient for the night.
+
+“After that, they impound your car and you'll need to take a defensive driving course to get your license back.”
+
+Gloria closed her eyes and gripped the steering wheel tightly. “I suppose it would be better if I did drink.”
+
+“Consequence wise, yes.” The cop said. “Usually, it's just a slap on the wrist and you're out the next morning.” He said. “I didn't tell you that, though.”
+
+“It's all right, officer.” Gloria said. “I've never drank and I don't intend to start now.”
+
+“I'm glad.” The cop said. “I'm tired of cleaning up after the mess.”
+
+Gloria looked at him and saw his haunted eyes. “I can imagine.”
+
+“No... not until you see it, then you...” The cop shook his head. “Slow down, please. Drive responsibly.”
+
+“I will.”
+
+“Thank you.” The cop said. “Have a good night, miss.”
+
+“I will if you escort me.” Gloria said, and he looked at her with surprise on his face. Why did I say that? She asked herself, then the cop recovered.
+
+“I can't in good conscience justify a police escort to wherever you're going.”
+
+“Even if the guy's rich?” Gloria asked, and the cop laughed.
+
+“Ma'am, money doesn't buy everything.”
+
+“Most people don't believe that.”
+
+“Well, I do.” The cop said and stepped back from her window. “Have a good night.”
+
+“Wait.” Gloria said, then looked at him with a question on her face. “Can I ask you something?”
+
+“I suppose.”
+
+“If you were given the job offer of a lifetime, with buckets of money and working in your field of expertise, would you take it?”
+
+“That... sounds like a loaded question.” The cop said. “What's the rest of it?”
+
+Gloria explained what was going on and her connection to Ren and what he had said about the company the job was for.
+
+“You know Ren?” The cop asked, and she nodded. “Can I see that ticket, please?”
+
+Gloria was a bit taken aback by the request and handed him the ticket, and the cop placed it back on his clipboard and wrote something on it. He took something out of his pocket and stamped it, then handed the ticket back. She read the large 'lack of evidence' note he wrote on it and the VOID stamp.
+
+“But...”
+
+“My kids love his show.” The cop said. “They aren't old enough to join him in the game yet; but, they only need to wait a few more months to meet the minimum age requirement.” He said and smiled warmly at her. “To have someone like him, someone who went through everything he went through...”
+
+Gloria figured if he was an officer, he must know a lot of what Ren actually went through.
+
+“...for him to be so positive and happy all the time, and he treats everyone fairly and helps them as much as he can.” The cop chuckled. “He's an inspiration!”
+
+“He... he really is.” Gloria said.
+
+“Ma'am, you have yourself a great night.” The cop said and turned to walk away. “My kids are never going to believe this.” He said. “I met Ren's game girlfriend!”
+
+Gloria sat there in stunned silence as the officer got in his car and drove around her. The cop waved to her and honked the horn, and she waved back and watched the car speed off down the street. She looked at the voided ticket in her hand and didn't know what she was supposed to do now.
+
+*
+
+Ren had woken up and slipped off the headset, and Barbara took it from him.
+
+“Ren, why did you do that?” Barbara asked in a whisper.
+
+“I needed to make a point.” Ren whispered back and thought about trying to go to sleep, then pointed to the rollaway table and the laptop. Barbara brought it over to him and he checked the message boards instead. Barbi had started the media blitz he had wanted about not liking the NPCs being changed when it wasn't necessary, and he saw the pinned post at the top of the forum.
+
+I wonder how she did that? Ren asked himself and started to read the responses. Another one appeared and he saw it was from Clint, and he smiled. I'm glad there's some people that agree with my opinion. He thought and went back to the main forum and saw the hundreds of posts about the Sea Dwellers and the game forcing them to log out.
+
+“I never thought about the people with quests going.” Ren whispered as he read the complaints, then he felt a hand on his arm. He looked and saw Lisa was awake and she looked at the laptop with him.
+
+“You did it.” Lisa whispered. “You really did it.”
+
+“Yes.” Ren responded and clicked on the next message. Then the next, and the next. Some of the people knew that it was him that caused the Aura feeling, and speculation ran rampant that it must have been the cause of the game kicking everyone out. Ren clicked respond and Lisa caught is hand.
+
+“No, you don't want to confirm that.” Lisa whispered.
+
+“Why not?”
+
+“You want them to help fight against the programmers, not make you into the villain and rally them against you.”
+
+“But, I am the villain.” Ren whispered, and neither Lisa nor Barbara knew how to respond to that.

@@ -1,0 +1,631 @@
+---
+id: d1ad3c92-832a-565f-a2b1-9413eb5066c1
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 377"
+slug: 0075-the-path-of-ascension-chapter-377
+partOf: the-path-of-ascension
+position: 75
+ownLength: 7342
+unit: words
+ownProgress: 7342
+publishedAt: 2025-01-06
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1995610/the-path-of-ascension-chapter-377"
+royalRoadId: "1995610"
+markedReadAt: "2026-06-29T19:20:14.612Z"
+---
+
+Chapter 377
+
+Ra’thala swallowed as he listened to headman Tiu’ja talking to the other village elders. There was an uneasy feeling lingering in his gut that told him something bad would happen today.
+
+He didn’t know what, but it was something in the soldiers’ eyes. It was something in the way they weren’t looking at the village storehouses but instead looking at the gathered villagers.
+
+His mother pressed his shoulder as she chanted a mantra but he was trying to lean as forward as possible to hear the talk.
+
+His father, leaning on his walking stick, pulled his little brother back from almost getting crushed in the moving crowd but like his mother, he seemed frustrated and angry.
+
+Leaning into his father’s side he whispered. “Father wha—”
+
+“Silence.”
+
+Slinking back, he tried to listen.
+
+His mother tugged his fathers sleeve. “He’ll be fine. He's only twelve. They only take fourteen year olds.”
+
+Her words made that sinking feeling settle into place even more strongly but as his parents went back and forth, something happened by the village leaders.
+
+Looking frustrated, the lead soldier stepped around the headman and said, “Warlord O’dchigin demands tribute. Not in food this year, but in bodies. The grand armies need more recruits and so every village must provide fifty able bodied men to join. There are no exceptions. Do not resist.”
+
+As if the last words had been a command the other soldiers fanned out and started moving through the crowds.
+
+They started grabbing men and dragging them off to the side and Ra’thala’s heart skipped a beat as he worried his father would be taken away as a soldier grabbed him. Thankfully upon seeing his bad leg and walking stick they moved on.
+
+The gathered men looked sullen, but when Tua’fef tried to protest, he was smashed with the blunt end of a spear for his troubles, silencing everyone else.
+
+That was until the lead soldier did a count and said, “That's only forty three. We need seven more.”
+
+Pointing his spear he started pointing at the remaining villagers. “You, you, you, you.”
+
+Until he pointed at Ra’thala’s father and one of the soldiers whispered into his ear and he moved on.
+
+Ra’thala and his family breathed a sigh of relief. Their family was safe. The feeling was short lived as the leader counted once more and ended upshort once more.
+
+His eyes tracked to Ra’thala and pointed. “You.”
+
+Ra’thala mother yelled and tried to protest, his father said something about the harvest Ra’thala only half heard but he heard little of it.
+
+He had thought he was safe.
+
+When one of the soldiers started to drag him forward his mother tried to hold him back but earned a smack for her troubles.
+
+Ra’thala tried to stop the soldier but there were three more pressed in close ready to react to anything he or his father did.
+
+Not wanting his mother to get hit again he shoved off the soldier's hands saying, “I’ll go. Just don’t hit her.”
+
+Thankfully they stopped, but the feeling of dread didn’t vanish even when their village was long out of sight.
+
+***
+
+Warlord O’dchigin stood before his legions and looked down on all of them. Ra’thala, a simple new recruit, could feel the weight of his great Celestial power as it pressed down upon him and everyone else. It was only his training that kept him from dropping to his knees in front of the local tyrant out of sheer terror.
+
+His tribe had been conquered long ago, three generations of Ra’thala’s lineage, but while time had passed for them the warlord was said to be nearly the same as he was when he swept the plains.
+
+Two months of being beaten and yelled at didn’t seem enough to become a soldier but apparently that was all the time they had.
+
+He could see it in the warlord's eyes even from below the platform built for him. He was hungry.
+
+“Today the great war against the Sal’dia alliance reignites. Today we march! Tomorrow, we feast on the fruits of our neighbors.”
+
+***
+
+Ra’thala breathed heavily as his squad thrust their spears forward in a haphazard wave. Sergeant Tha’ll yelled at them to sync up, but it did little good as everyone was trying to hide behind their shields more than thrust forward.
+
+Most of the unit were fresh recruits, their losses in taking Heart’s Jewel had been significant and the replacements pulled from the surrounding villages were still green.
+
+Ra’thala changed the trajectory of his spear slightly to the right and cut deeply into the less armored forearm of the legionary before him.
+
+In his three years as a conscript of the Warlord, he had learned that aggression and fierceness were the way to survive the battles. After all, your enemies couldn't kill you if they were dead.
+
+Before he could land another blow and force the legionary back, the air cracked with enough power to cause everyone on both sides to wince.
+
+Both sides immediately scrambled away from each other as the two Celestials battled. Their blades moved so fast they were blurs, and the shockwaves that came off their swings were dangerous.
+
+A legionary who was too injured to retreat was cut to a bloody mess as the battle moved over him, which made clear the fate of anyone caught up in the Celestials’ battle.
+
+Ra’thala huddled behind his shield like the other veterans, just trying to catch his breath even as the Sergeants forced the fresh recruits back into some semblance of formation. In his many battles, he had only dealt with this a few times, but he had learned from his veterans to take the moment of rest for what it was. One of their few breaks while in pitched combat.
+
+Celestials were forces of nature, and it wasn’t a conscript's place to get in between such Divines.
+
+Taking a swig from his canteen, he sighed in the enjoyment of the simple pleasure.
+
+Before he could take a second smaller sip while enjoying the show, Captain Ak’aran slipped in the boot-churned mud.
+
+He tried to catch himself; he spun and twisted but the enemy Celestial lunged and cut Captain Ak’aran deeply across the flank.
+
+Their squad retreated further as the Captain was pushed back, but how could their speed compare to a Celestial’s?
+
+In a heartbeat, the Celestials were among them and body parts flew as their swords flashed.
+
+Ra’thala’s shield exploded as he blocked a shockwave from the collision between the two Celestials, but the move saved his life.
+
+Not that he would be alive for long. Captain Ak’aran failed to recover and fully went down, falling on a pile of bodies and blood-soaked mud.
+
+Still, he didn’t stop fighting.
+
+His sword flashed as he defended himself from the enemy Celestial.
+
+Ra’thala tried to move to retreat but the enemy legions were rushing forward, spears leading the charge, looking to mop up any of those who survived the Celestials fighting in their midst.
+
+The logical part of his mind noted that was a good move but the primal part of his brain knew that he either had to fight his way through them or the Celestials if he wanted to get out of this alive.
+
+Knowing death was the result either way, Ra’thala charged.
+
+Not towards the legionaries but to the Celestials.
+
+The enemy Celestial didn’t even bother to look at him and slashed out, his blade seeming to grow in length as it moved, but Ra’thala was already diving.
+
+That move saved his life, and he watched his spear as it neared the Celestial.
+
+The world seemed to slow as everyone seemed to watch the temerity of a simple mortal who dared to attack a Celestial.
+
+Would it work?
+
+Could a mortal harm a Celestial?
+
+The world seemed to hold its breath as it waited for an answer to the question.
+
+His spear bounced off the Celestial’s armor without even leaving a scratch.
+
+The Celestial’s sword flashed and on instinct Ra’thala dropped his spear as it was cut into three pieces where his hands had just been. He could even feel the cool morning air as part of his gloves’ hard leather had been cut cleanly through.
+
+The Celestial had tried to cripple him. A bad sign that sent terror into his bowels.
+
+Ra’thala could only hope he was about to die as the Celestial raised a mud and gore covered boot to stomp his head flat.
+
+Not resigned to his fate anymore, even after his failed attack, Ra’thala grabbed one of the pieces of the haft of his destroyed spear and twisted hard enough that it pulled something in his back, but he managed to replace his head with the bit of wood.
+
+The boot didn’t stop its descent, but before it could crush Ra’thala, a pained howl spread.
+
+Right before his eyes, there was a boot with a stick piercing the boot. Most magical of all was the top of it was covered in blood.
+
+For the third time, the world seemed to stop as everyone focused on the bloody boot and the mortal who had managed to wound a Celestial.
+
+Ra’thala still wasn’t resigned to die, but he had a small bit of pride knowing that both sides' soldiers would be talking about this tonight. At least he wouldn't be tortured slowly.
+
+The Celestial’s blade was descending, and Ra’thala had accepted his death, when suddenly all of the momentum was sapped from the blade.
+
+Captain Ak’aran had used the time Ra’thala bought with his desperate maneuver to throw a dagger at the enemy Celestial.
+
+Where his mortal spear had been unable to penetrate the Celestial’s armor, the captain's dagger sunk up to its hilt in the Celestial’s heart.
+
+His eyes were wide as he looked down from the dagger to Ra’thala, before he slumped to the ground.
+
+The rushing legionaries skidded to a stop and tried to retreat but Captain Ak’aran was on them in a second and body parts flew once more.
+
+In less than the time it took Ra’thala to pull himself out of the mud, Captain Ak’aran slaughtered the legionaries, clearing an area around them.
+
+“You saved my life.”
+
+The words were said in a flat tone that made Ra’thala fearful the Celestial would be upset with him for daring to interfere in his business, even if it had been to save his life.
+
+Maybe he would hide his shame by removing the witnesses?
+
+“It was help you or die by legions spears, honored Celestial.”
+
+Ra’thala wanted to curse himself for his flippant response, but it had just slipped out.
+
+Thankfully, Captain Ak’aran grinned.
+
+“Report to my tent this evening. I will have a reward for you.”
+
+Before Ra’thala could respond, Captain Ak’aran was gone.
+
+Thankfully, the battle ended shortly thereafter. With the death of one Celestial, the enemy forces had to retreat, and Warlord O’dchigin’s army was able to advance right to the end of the valley where they would camp for the winter.
+
+That evening, Ra’thala waited by Captain Ak’aran’s tent until he was called in. Inside, he found five other Captains waiting around and Ra’thala’s fear returned with a vengeance.
+
+Their next words didn’t appease that fear. “Let's go for a walk.”
+
+Ra’thala’s fear reached a fever pitch as they left the circle of sentries standing watch at the edge of the army.
+
+They were surely going to kill him once they were far enough away from the camp that no one would hear.
+
+Thankfully they didn’t.
+
+Instead, they led him to a spot in the woods that looked like any other.
+
+“In here.”
+
+Ra’thala had no idea what they were talking about, but he followed as the Captains walked into nothingness.
+
+Inside he found another forest but this one was in daytime. Covering his eyes from the sudden change in brightness, Ra’thala heard the Celestials chuckling at him.
+
+“Wha—”
+
+“Alright, we need to move quickly. Forward. Ra’thala, follow us closely.”
+
+Ra’thala did as he was told as the Celestials led him through the forest.
+
+He was just starting to relax when a wolf taller than him appeared out of seemingly nowhere and tried to take a bite out of the nearest Celestial.
+
+The Celestial ducked the blow but instead of drawing their blade and cutting the beast in two, they grabbed at its back even as all of the other Celestials did the same.
+
+Ra’thala was thoroughly confused as the Celestials wrestled and then tied up the wolf, but his questions were answered by Captain Ak’aran.
+
+“A life for a life. You saved my life today, so today I give you life. This is technically illegal but we all know each other and no one will tell if you don’t. Tonight, we will make you a Celestial but tomorrow you need to say that you reminisced on the battle earlier and you felt something awaken inside of you. Do you understand?”
+
+Ra’thala shook his head vehemently. “No, honored Celestial.”
+
+That earned another round of laughs, but Captain Ak’aran pointed to the beast tied up. “This is an inferior way of becoming a Celestial, but it is a way anyone can do it. As per the Great One’s laws, it's illegal but it's hard if not impossible for anyone to tell so it happens, even if rarely. Tomorrow, this Monster Den and its filthy monsters will be guarded, so we needed to sneak in tonight.”
+
+Pulling out a dagger, Captain Ak’aran pushed it into Ra’thala’s hands. “Stab the monster and end it. Normally fighting such a beast, you should push its foulness away, letting it return to the stars above but this time you must quench your thirst with its poison.”
+
+Even with the wolf being tied up and unable to do more than wiggle slightly, Ra’thala feared.
+
+The monster had rage in its eyes. A deep rage that he had never even considered possible in a living creature.
+
+Driving the dagger down into the monster's flesh was like cutting into hard wood but by throwing his weight into it, he managed. It took three more thrusts before the monster's struggles ended, but then he felt something rush into him.
+
+He could also feel the foulness that the caption had talked about. What had entered him was empty instead of filled with the might of the stars.
+
+Still, it was at that moment he knew he was a Celestial and that excitement overwhelmed everything else.
+
+Before he could get too excited, Captain Ak’aran said, “Good, now we need to get back to camp before people start to get suspicious.”
+
+Before Ra’thala could react, a fist landed right over his eye. A second and third fell, and he could already feel his face was swelling.
+
+“Wha—”
+
+“We need a reason to have left camp. And punishing you for interfering with my battle is about the only excuse we have.”
+
+Knowing that reminded Ra’thala that what they were doing was illegal and he shut his mouth, not wanting to offend a Great One even indirectly.
+
+Once he was well-tenderized, he was led back to the camp while the Celestials explained what he needed to do. Once they were there, he noticed soldiers pointedly avoiding looking at him, fearing to earn the ire of the Celestials as well.
+
+No one would speak of this evening's walk, which he realized was the point.
+
+The next day, Ra’thala followed the orders he had been given and publicly stood outside Captain Ak’aran’s tent and proclaimed that he had understood the universe and had become a Celestial.
+
+That drew a crowd and publicly Captain Ak’aran and two other Celestials, not any of the ones from the evening before he noticed, tested him by pressing their hands to his lower chest.
+
+Thankfully all three of them proclaimed him a Celestial and even from the corners of his eyes he could see the envy of the others.
+
+Once he was led inside, he got a few more suspicious looks from the other Celestials but he kept to the story Captain Ak’aran had insisted he repeat a dozen times last night on their way back to camp. Thankfully the Celestials were satisfied after a little more questioning and gave him his Celestial Guide.
+
+With its guidance, he learned of the way to pull in Celestial power from the stars above and how to layer the accumulated Celestial power to create the ever-moving Constellations that would be empowered by his Star Power and drive his Stars.
+
+Today was the first day of his new life.
+
+***
+
+Ra’thala looked at the peak of the mountain where the very tip seemed to stretch. He could feel the Star Power power brimming from deeply hidden wells of Star Power scattered around the area in a shape he didn’t fully understand.
+
+As a True Great Celestial, he had reached the peak of his home world thus, if he wanted to advance further, he needed to leave.
+
+The Nine Skies Map he had been given had gotten him through the early days of his power accumulation, but he had reached the first major bottleneck, the Blank Sky that separated True Great Celestials from Divines.
+
+Since reaching the peak of power, he had traveled far and wide looking for how to fill in his Blank Sky, but he had had no success. No one on their world had completed that step in generations, but, in his travels, he had repeatedly heard rumors that those who had claimed a fragment of the Sky, making it a portion of their very being, had left to go somewhere.
+
+Unable to progress, he decided to try his luck and so sought out the passages between worlds. Most of it was hearsay and easily proven wrong, but after two years of searching he had finally stumbled upon something… different.
+
+He wasn’t even sure it was the right thing, but it was where the rumors said Divines disappeared into and none of the others had checked out. Still, he wasn’t reckless, and so returned to the nearest city and paid a few messengers to spread the news that there was in fact a Sky Bridge in the mountains.
+
+Duty to anyone who wanted to follow in his footsteps complete, he trekked back up the mountain to where he found the Star Power layered thick.
+
+He felt nothingness between his feet and where the mountain should be but suppressed his fear to press forward.
+
+At first, nothing seemed to be happening other than the oddity of walking on air and the ever-present worry that he was about to fall to his death when this invisible platform vanished or simply ended, but before too long, he started to notice the world started to… melt.
+
+The world started to blend together before his very eyes and with excitement he trudged forward until the blob of colors was a uniform gray. He walked for what felt like years in that empty grayness, but just as he was starting to lose hope, the grayness started to have blotches of indistinct shape and then color.
+
+That color turned into recognizable shapes and after walking over what must have been a continent, he once more found himself standing on a mountain range.
+
+Except this mountain wasn’t in snow covered mountains but was instead in a desert that stretched across the horizon but none of that caught his attention. The air was full of power but of a richer sort than he was used to. Divine power.
+
+If he wasn’t at the peak of the Celestial realm, he felt he could have become a Divine with a short few years of absorption. Just feeling the greater power made his Constellation pulse with power like a thirsty man gasping for air.
+
+He was brought out of his exhilaration as he noticed people flying through the air a few dozen feet over the rolling sands.
+
+Even from where he stood, he could feel their power was greater than his True Great Celestial.
+
+Divines.
+
+Jumping from rock to rock, Ra’thala quickly descended the mountain. The Divines he had seen were long gone but he must have been on a trade route of some kind because he quickly found another group.
+
+Two women and a younger man. The two women were Divines but the man was like him, a True Great Celestial.
+
+From the resemblance between the man and one of the women he suspected they were related. A family with multiple Divines?
+
+That was amazing in a way that he didn’t have words for.
+
+Even True Great Celestials on his home world struggled to have their children become Celestials without disgraceful methods like he had used.
+
+Seeing him, the group slowed down letting Ra’thala see that they weren’t actually flying but riding on sticks that glowed with Star Power.
+
+His Constellation method only had two abilities he had worked tirelessly to recreate but he had been working in rearranging his Star Power into a new ability unique to himself.
+
+The fact they had ways to use Star Power that wasn’t reliant on abilities was amazing and his attention was pulled away as one of the women, the oldest, said something in a language he didn’t recognize.
+
+He had anticipated this and had studied all known languages from his homeland to at least a beginner level and so tried a few of them while keeping his hands away from the stone blade at his hip.
+
+Finally they landed on a language both of them knew. In his world it was an old trade language, but with an established method of communication, he was able to explain who he was and what he wanted.
+
+“You. Come. Stand. City.”
+
+Knowing that was the best they could do and he needed to trust they weren’t going to kill him, Ra’thala stood next to the young man where he was indicated to go.
+
+A suction force locked his feet onto the sticks and before he knew it, they were sliding a foot above the sand faster than he could run even if going at his full speed while activating his Speed Constellation and burning all of his Star Power.
+
+Still, anything could become mundane before too long and he was just trying to keep the sand from pelting him in the face while they crossed an endless ocean of sand.
+
+Thankfully, before dark they arrived at a massive city nestled next to a winding river that created greenery in the otherwise barren landscape.
+
+At the city gates, the two women, being Divines, were let through the gate without being stopped but Ra’thala did notice that both guards were at his same rank. From the peak of his world to simple guards.
+
+The thought was scary yet exhilarating.
+
+Inside the city they quickly entered an estate where he was given a room and an older man, a servant if Ra’thala wasn’t mistaken, came and cycled through languages with him until they found one they both knew fluently.
+
+With that basis, he explained his situation and was offered shelter and information on the world in exchange for a month of lodging and a favor.
+
+Favors were dangerous, but Ra’thala had little other option.
+
+As it turned out, those seeking to claim their fragment of the Sky were far from unknown upon this world, and many were thus stalled. The young man he had traveled with was in fact in the same situation and the Tur’Bfa family was happy to let him go through the same efforts in filling it in that they were preparing for their third young master.
+
+It was in fact what the city itself was for.
+
+An entire city dedicated for True Great Celestials to connect to the Sky. It was a mind-boggling thought but having an answer to his greatest puzzle placed before him so quickly was exactly what he had been hoping for.
+
+Sadly, their answer wasn’t so helpful. The Sky was infinite, and many could claim the same portion of it, but the means by which one claimed their fragment of the heavens were dependent entirely upon the individual. To transcend mortality, to become Divine, a God, True God, or even the everlasting Almighty, was a path one must walk alone.
+
+Once he had a grasp of the language, he and Bfa’Fan entered the city, their blades ready.
+
+***
+
+Three years later, Bfa’Fan and Ra’thala stood over the groaning bodies of their defeated foes and roared their victory to the sky, basking in the pride and adoration that was their due but as they were getting into the second verse of their roar, Bfa’Fan’s voice cut off abruptly.
+
+Ra’thala reacted quickly, ready to attack whatever had ambushed them but instead he felt a pulse of Star Power and power as Bfa’Fan claimed a fragment of Sky and became Divine.
+
+The spectators cheered, and Ra’thala pulled his best friend into a hug before hoisting him onto his shoulders.
+
+They returned to the compound as heroes as the Tur’Bfa family now had one more Divine.
+
+The party they held that night had half of the city move in and out of the estate, few Celestials made the jump to divine a year and it was always a celebration no matter who it was. but in a quiet corner, Ra’thala sat with Bfa’Fan’s older sister, Bfa’Sula the second Divine he had met when he arrived to this world.
+
+“Ra’thala, do you feel anything? I’m willing to wait, but my family won’t agree to our marriage if you aren’t also a Divine. Let us just slip away in the night. No one will come for us, and we can settle down. Maybe go back to your world.” Bfa’Sula’s voice was like music to his ears, but the words hurt all the same.
+
+Ra’thala knew she wasn’t trying to put pressure on him but the pressure was there nonetheless as the weight of his love warred with his inability to grasp the Sky.
+
+Each day that passed made him wonder if he would be one of many who never claimed their fragment of the Sky and forever stayed a True Great Celestial.
+
+Eyes hardening, he gripped Bfa’Sula’s hand and caught her gaze. “These mock fights aren’t working for me. Give me two years and I’ll come back with a Divine with my own piece of the Sky.”
+
+Bfa’Sula face drained of blood as she shook her head. “Ra’thala, you can’t enter the Hidden Zone. It's far too dangerous. Even with hundreds who enter every year, few come out.”
+
+He knew that as well but he also knew that it was his only choice. He needed something more than mostly friendly duels to cross the bottleneck.
+
+Ra’thala didn’t know what he needed exactly but he knew it was not here. Not if he wanted to be able to stand beside Bfa’Sula with honor as a Divine.
+
+***
+
+Ra’thala stood over three other corpses, his marble blade dripping with blood, the gold fruit glowing brightly in his hand acting as a beacon.
+
+The Solar Fire fruit wasn’t useful for reaching the Sky but it was said to be useful for upgrading Constellations related to heat and flame, which made it invaluable for the Tur’Bfa family matriarch.
+
+Even if he couldn't cross the threshold of the Divine himself, he might be able to trade it for Bfa’Sula’s hand in marriage.
+
+Still, he often felt as though he dreamt of the open Sky, that he was growing ever-closer to transcending the realm of the Celestial and enter the heavens of the Divine. Half-remembered visions of the mountains below him, the solid ground, these were the things he meditated upon and grasped for. Yet there were days that he scarcely remembered, the trials of the Divine too much for his mortal mind to comprehend.
+
+Returning to Sky City, he stood there dazed as he looked at the still smoldering remains of the Tur’Bfa compound.
+
+He didn’t need to wonder if Bfa’Sula was among the dead as her corpse was impaled with the rest of the local family branch who had been at the city at the time. The bodies were also weather worn and scared from the birds pecking at them which told him they had been there for days, which implied the locals were unwilling to cross whoever had done this.
+
+Laughing, he felt tears run down his face but he didn't care. He also didn’t care as his clothes were stained with soot and ash.
+
+All that filled his vision was Bfa’Sula’s charred body.
+
+Rage filled him.
+
+Rage of the falling mountain, of the trembling ground.
+
+Hatred like he had only seen in monsters consumed him.
+
+If only he had listened to her and ran away when they had the chance.
+
+She would have been disgraced, but she would have been alive.
+
+He wasn't strong enough, sturdy enough, he—
+
+The Sky within him bled as he tore it. He clawed his way above, gripping the shard of the heavens so tightly he could practically feel the ‘bones’ of his soul creaking and bending, but he cared not.
+
+What was there beyond the sturdy earth? Rage. There was anger there, and pain, and Ra’thala grasped them both wholeheartedly as he roared out for the lover he had lost.
+
+“Tremble!”
+
+The world seemed to rumble, but it wasn’t his imagination. The city around him shook as he felt something that wasn’t Star Power drain, even as he felt his Constellations change and shift as he became a Divine. His stolen fragment of the heavens made itself part of him, a raw and ragged thing, but sufficient to make him Divine.
+
+People finally started to listen to him and he noticed three Divines with red sashes hurriedly walking to him blades already drawn.
+
+The Ku’Ru family’s people and longtime rivals of the Tur’Bfa family.
+
+He didn’t need to know if they had done this. He didn’t care, they would die all the same.
+
+Stepping forward, his Star Power flooded into his first Constellation that enhanced his speed which let him cross the distance between himself and the guards in a mere three steps. His new Divine-level power was stronger and the power raged through him like his hatred.
+
+His blade cut down two of the three men before they could react, but the final man jumped into the air and started running on nothing.
+
+Ra’thala cut his legs off and he tumbled to the ground before he got more than three steps away.
+
+“The—”
+
+Ra’thala plunged his blade into the guard's neck, cutting his words off.
+
+“I don’t care.”
+
+***
+
+Peak True God didn’t have the same bottleneck to Almighty as Celestial had to Divine had but as he stood among the burning flames of the main lineage of the Ku’Ru family, he finally gathered enough True God power to advance.
+
+His mission of vengeance was complete.
+
+With that realization, he felt the Sky within him fracture and break as the rage imbued in it was finally sated and like a Heart Demon he felt its loss take something important from him.
+
+Dropping to his knees, he finally let himself grieve properly.
+
+His connection to the Sky above was… damaged. Broken, even. The fragment of the Divine within him had crumbled, leaving him profoundly empty in a way he couldn’t express. He expected to feel himself crashing to the ground as a mortal once more, but it seemed that he had spent so far above the ground his spirit had learned to fly. Still, he felt as though he couldn’t transcend further into the heavens without the tether pulling him on.
+
+He had avenged his beloved and her family. It had taken almost three hundred and fifty years, but he had done it.
+
+But he now had nothing left to live for.
+
+He might have been unable to turn back the clock to stop the Tur’Bfa family matriarch from being killed stopping a Monster Den outbreak, but he had avenged Bfa’Sula and her family.
+
+It was the only thing he could do.
+
+But it felt so empty.
+
+So, so empty.
+
+Ra’thala felt nothing and so wandered and took Sky Bridge after Sky Bridge until he arrived at the strongest world he had ever found.
+
+Settling down, he knew he once he reclaimed his connection to the Sky and broke through to Almighty he would be everlasting, but he wasn’t sure he wanted to.
+
+Living forever seemed like so much work and he was so, so tired.
+
+Instead, he wandered. Even on this world where Almighties existed, his power as a Peak True God was enough to earn respect, allowing him to settle down and start his own Constellation Imbuement shop. He was no Master Imbuer by any means, but his connection with the earth was enough for him to learn the basics in a matter of years and it kept him busy enough to keep his mind off how empty his life was.
+
+He spent almost five hundred years wandering from place to place taking odd jobs, which made him nine hundred hundred years old when the thread of the Sky within him healed.
+
+As if the world was mocking him just days after the heavens within him were once again whole and thrumming with power, he encountered a troupe of traveling minstrel’s being waylaid by an Almighty in perfect white robes.
+
+He quickly understood the issue. The Almighty had seen a beautiful woman and wanted to take her as his.
+
+Ra’thala didn’t want to get involved but he couldn’t look past the fear in her eyes as she tried to refuse.
+
+It wasn’t his place, but he couldn’t help but wonder if Bfa’Sula had had the same expression when she was killed.
+
+Reaching down, he commanded the ground to form into a sword. It wasn’t a good one, it was quickly made with his latest Constellation but it would do.
+
+With a swing, he sent a wave of pure Star Power arcing just in front of the Almighty, startling him.
+
+Looking over, the man in white glowered at him. “Are you the one who dared to stop me?”
+
+An Almighty’s power ripples pressed down on him, trying to suffocate him and make him pay obeisance.
+
+Standing, Ra’thala moved to walk away but the man flashed and stood before him with his hand in a glowing claw.
+
+With the realm difference the speed was hard to follow, but honed through years of combat, Ra’thala reacted in time, blocking the attack.
+
+They exchanged blows but Ra’thala was on the losing end and knew that if the fight continued, he would die.
+
+That was what changed his mind, and he broke through to Almighty.
+
+Power coursed through him and he didn’t hesitate and cut the arm that was threatening his life a moment before cleanly off.
+
+“Ahhh.”
+
+Blade flashing, Ra’thala cut through the man's head in a swift motion, ending him.
+
+The leader of the troupe screamed in terror. “Do you know who he was?”
+
+Ra’thala just shook his head. He knew, but he didn’t care. He was more embarrassed that the leader was more afraid the man was dead than that one of his people was going to be snatched.
+
+“She was just a mortal woman. Who cared if he took her? Why did you kill him? He’s the only son of the Origin of the Ist’ar family. Now we will all die for her sake.”
+
+Ra’thala turned and walked away, continuing down the road.
+
+“They will come for you!”
+
+Ra’thala looked back, finally acknowledging the coward.
+
+“Let them.”
+
+***
+
+Ra’thala stood before the True Origin of the Ist’ar family, his marble blade dripping blood.
+
+“Was it worth it? All for a rapist of a son? I—”
+
+Ra’thala stopped speaking as he ended the man's life.
+
+He had wanted to spare him but, in the end, Ist’ar had tried to ambush him despite being defeated.
+
+The power of the Heavens Beyond freezing the man before he could make his move, allowing Ra’thala to finish him off with a lazy swing of his marble sword.
+
+At that point, the move had been for their watchers. To show that Ra’thala could have ended the fight from the very beginning but he was trying to give Ist’ar a way out. A chance to reform himself.
+
+Except he hadn’t taken it and instead tried to ambush Ra’thala the moment his attention wavered.
+
+Why? What was the point of all of this?
+
+Endless vengeance and feuds.
+
+It was like the world only existed for pain and terror.
+
+The problem was Ra’thala was starting to enjoy it.
+
+Not the bad things but the power. The advancement. The endless challenge.
+
+Looking eastward, he felt the next Sky Bridge.
+
+He was at a crossroads. He knew that now he had reached beyond the Sky, grasped the Aether within, and crowned himself with that, he could leave his plane of existence but did he want that? Did he want to chase endless higher peaks that probably never ended?
+
+Did he even want to stick around?
+
+He genuinely didn’t know.
+
+***
+
+At the peak of the True Origin himself, Ra’thala felt the draw. It was an inexorable pull upward, like ice in a cup of water.
+
+If he advanced any more, he would leave the plane of existence he knew and… tolerated. He surely didn’t love it but he had been there so long. Home didn’t have to be a nice place to form attachments to it.
+
+He had stayed at this equilibrium for almost a thousand years and he had been content to live as a mortal among a dozen different peoples but now he felt something as he spent two mortal lifetimes watching a tree grow.
+
+The harmonization of himself and the world that Captain Ak’aran had talked about oh so long ago.
+
+He knew one of his thoughts on watching the tree had triggered it, and he even knew which one it was.
+
+The tree was growing but he wasn’t.
+
+He had reached the peak of power and had grown stagnant and it was eating him alive.
+
+Ra’thala hadn’t wanted to ascend because what was the point? But now as he felt his power advance beyond True Origin into a new Realm, his Constellations were being perfected as the Origin energy entered him in a wave. Now, it was too late to have second thoughts.
+
+He was an ice cube that had become too buoyant for his glass and he was… Rising.
+
+Ascending.
+
+The world around him began to fade, but not in the way Sky Bridges so often did. This was more akin to feeling the world around him becoming less real. It was insubstantial, immaterial. For so long, he had felt it pushing him upwards, but now as the threads binding him to it fell off, he arose.
+
+The weight of a mountain fell off his soul, and there was light.
+
+He was everything.
+
+He was nothing.
+
+He was… within a mountain range.
+
+This new place felt far more solid, far more than anywhere he’d ever been before, but he felt much the same. He had crossed the Sky, transcended the Aether, and now instead of a mere fragment of each it seemed as though the entirety of the heavens dwelled within his soul. His body glowed with power, and while the light faded after a moment, the power remained.
+
+There was much to learn about his new self, he could tell.
+
+But what was more immediately interesting was the massive city he had found in his exploration. The world he had landed on was weak; it should have only supported a few hundred True Celestials at most, but what shocked him was that every single person was a Celestial. The only mortals he found were children too young to harness the power of the stars.
+
+They also had magical implements like he had never seen before. Even the lowest level Celestial had or used a few.
+
+Which was a fact his mind started to get stuck on once more. There were also so many Celestials. Half a million just in this one city on a world that should have supported tens of thousands at most.
+
+He was still reeling from those facts when six people at his same still unnamed realm appeared next to him soundlessly and without a ripple of Star Power.
+
+He had known people who could walk through the stars, but none had been so good at it or able to move so many.
+
+Excitement like he hadn't felt in a long, long time bubbled up in him.
+
+That people of his own realm found him so quickly was ultimately a good thing and he nodded to them, letting the ground around him flow into a set of clothes he copied from the city below.
+
+It was always smart to fit into local cultures until you knew what rules you could break and which you couldn't.
+
+The first thing he noticed was the man in front of the group next to a woman with a Sky Sword.
+
+A sword.
+
+At least these people weren't barbarians and used proper weapons.
+
+Ra’thala had worried about that before, but now he had an answer.
+
+The two rippled with power in a way that made Ra’thala’s throat tighten and his missing blade tremble with excitement.
+
+The man seemed… more somehow.
+
+Ra’thala got the feeling he was a raging star pouring out Star Power like a spring bubbled up water. He also seemed to ripple with physical strength in a way he didn’t fully understand.
+
+A woman with a flaming bird on her shoulder stood to the side and had a spear in her hand. Which was odd as Ra’thala felt she was just as strong as everyone else surrounding him, so he didn’t understand why she would use a mortal weapon by choice.
+
+Maybe her manifestation was about that? He had met a few unfortunates like that before but even still, few chose to use a mortal implement once they were a Celestial, let alone beyond a True Origin.
+
+The woman with the features of a fox was interesting as was the man with Constellations rippling around him, but what drew Ra’thala’s eye was the woman with her very skin covered with the image of countless Constellations.
+
+It was foolish to give so much information about one's Celestial Guide but it was the most beautiful thing he had ever seen and he struggled to tear his eyes away for a long moment. He wouldn't want these people to think his ignorance and fascination with their culture rude.
+
+The first man’s hands glowed and Ra’thala felt a burst of Star Power cover them all and suddenly he could understand everything the Origins were saying.
+
+The first man, the one next to the swordswoman, said, “We want to welcome you to the Empire. If you would come with us, we can—”
+
+He was cut off by the sky beauty. “Fuck that.” Turning to him, she said, “Yo, our boss wants to see you.”
+
+Ra’thala had no reason to refuse and nodded. “I accept.”
+
+“See, it was that easy.”
+
+Before he could do anything, power rippled around him and he felt himself pulled an unimaginably long distance through the stars themselves before he stood before a man with golden eyes whose every glance made the plane tremble.
+
+He knew that power because he held it just minutes before even if it was now so far away. If that wasn’t confirmation enough of his vast power, the man standing in front of him was invisible to all of his senses besides sight.
+
+Ra’thala idly wondered what that realm was called but he wasn’t able to go too deep into it before the man spoke.
+
+“As my Ascender was trying to say before my second Ascender skipped it all: Welcome to the Sophron Empire. My name is Emmanuel, and I am the Emperor. You have a lot to learn if you are willing to learn it.”
+
+Ra’thala couldn’t help it.
+
+He smiled.

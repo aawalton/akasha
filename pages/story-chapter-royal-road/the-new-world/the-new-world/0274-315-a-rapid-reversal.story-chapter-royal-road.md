@@ -1,0 +1,151 @@
+---
+id: fbb51864-5e6b-5ba1-af15-390b1f2c2381
+page-type-slug: story-chapter-royal-road
+title: "315 A Rapid Reversal"
+slug: 0274-315-a-rapid-reversal
+partOf: the-new-world
+position: 274
+ownLength: 2769
+unit: words
+ownProgress: 2769
+publishedAt: 2021-09-17
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/752441/315-a-rapid-reversal"
+royalRoadId: "752441"
+markedReadAt: "2026-06-29T21:30:36.092Z"
+---
+
+Wrath's rumbling forewarned her crushing into our cavern, her flowing mass crossing a vast field of distance in moments. Her dark blue form coalesced into a large amalgam, golden plates of enamel flowing across her shifting body. She gasped out through a telepathic tether,
+
+"You already killed Plazia?"
+
+I gave her a thumbs-up, "We did. He's dealt with, and your planet will return to normal after a few days."
+
+Wrath peered down, "But Plazia rests in every corner and piece of the planet. H-how would you even begin to remove his remains-"
+
+I raised a palm, "There's no point in worrying about how we did it. That's my business, not yours. The point is simple; Plazia's gone. He'll be out of here in a few days as his mana fades."
+
+Wrath writhed around with alien gestures, "You...What proof do you have of this otherwordly deed? There were no shattering rumbles or distant quakes from your battle. No mana ebbed across the desolate horizons, and no craters formed across Svia's surface." She closed in, "Is Plazia truly dead, or are you simply playing me and my entire species as fools?"
+
+I shrugged, "My 'deed' will manifest over the next few days. Now, after the magma insects are gone, you guys need to help out the Empire. That was our deal. Remember that."
+
+Wrath shrunk down, "W-What? It took you two hours to do this. We'll be taking your place in a galactic war for that?"
+
+Florence walked up, having listened in the entire time. He linked up with her telepathically. Florence smiled and thought, "It's simple, really. Sometimes, different people can accomplish different tasks at different rates. It isn't that Daniel was able to outdo your race and its centuries of effort in seconds. It's that he approached the situation from a fresh angle, and sometimes, that's all it takes to solve a problem."
+
+Florence turned a palm to Wrath, "In fact, you guys killing the Hybrids could be a lot like that. Svia isn't rich in resources, and you might get some plundering rights for taking out these enemies of the Empire. Think about it: you'll gorge on those enemies while amassing immense wealth."
+
+Florence raised his hands as if framing a picture, "For us in the Harbinger's Legion, it was a complete and utter slog. We sacrificed ourselves, throwing our people into the fire, but we had no choice. It was the only way to win. You all? Pshhh, this will be a cakewalk by comparison. That's the beauty of deals and exchanges."
+
+Florence pressed his fingertips together, "It's that both sides truly do win when a deal is done well. I'm a firm believer in this. You, having gained your home back in hours and a new battlefield to rage across, well, it should be obvious to you too."
+
+I suppressed a smile from encroaching on my face. Florence flipped and turned a situation over and over until it fit his means. I called him out for that in our talk with Plazia, but Wrath might not be as aware. As the razor queen spoke, that became apparent.
+
+"I-That is not...We have been taken advantage of...I think."
+
+Florence put a hand over his chest, his eyes widening, "Now wait one minute. You're telling me that the razor queens, the illustrious rulers of this world, the renowned Fringe Walkers, the destroyers of metal and sentients alike...You're perjurers? Liars? Cheats?"
+
+Wrath seethed, "We are pure. We never lie. Those words carry more weight on tongues like yours."
+
+Florence grinned, "Perfect. Then after Plazia's remnants dissipate, the Emperor will see you guys across our realms."
+
+Wrath's entire body bristled with golden horns and spikes, "If Plazia is dead, then it shall be so. Otherwise, we will not allow you to escape."
+
+She approached Florence before I loomed over her. I frowned down at her, "Then it's been good doing business with you. I hope you have luck on the battlefield. You'll find plenty of blood there or here if you keep pushing your luck. Don't forget who I am and what I can do."
+
+Wrath backed away from Florence, "Of course, Harbinger."
+
+I turned to Helios, "Perfect. Let's go back to home base."
+
+Helios shook his head while mouthing, "It would seem the both of you have lost your minds now."
+
+A warp towards Earth popped up, air whistling towards Svia from our rich world. Wrath drooled at the sight of grass and trees, but I stepped in front of the portal. I gave her a knowing look and a telepathic message,
+
+"Please, kill plenty of the Hybrids for me, will you?"
+
+Wrath trembled, "We shall, eater of monsters."
+
+The three of us hopped over towards Mt. Verner. The grass sheened under the sun, and the cool wind welcomed us in its unseen arms. I spread out my hands, relishing in my own home planet's grace. Earth amazed me at times. Wanting to ensure its future, I turned to the others,
+
+"Florence, tell Torix and the others about my decision for Plazia. Make sure to present it as a sound decision and mention the benefits and my reasoning. That beachhead in a different dimension. Make sure Torix knows about that. He's a strategic thinker, and he'll definitely appreciate that opportunity."
+
+Florence gave me a wave, walking off, "I will see to it. No doubt about that."
+
+As Florence paced away, I appreciated his presence. Most diplomats required exact instructions or maybe even a prewritten speech. Florence broke off from that norm, the guy able to take a simple instruction and work with it. Even better, I could tell him not only what to say but even how to say it. Given his silver tongue, he'd get it done. That saved me a lot of time trying to smooth the situation over.
+
+I turned towards the others. Helios's left eye twitched, his nerves shot. Amara stayed in an almost comatose state, the eldritch likely even more whiplashed than Helios since I shoved her into stasis. I pointed at Amara, "Could you have me put back into Schema's system if I was exiled again?"
+
+Amara shook her head, snapping herself back to the moment at hand. She hissed out, "What? Yes, I could. It would be simple."
+
+I nodded, "Just making sure. Could you make a system like Schema's too? Hypothetically speaking, of course."
+
+Amara tilted her head, her palms peering off to the side, "I...I could, in theory. It would require eternal life unless I amassed an enormous team of those like me. Vast legions of Builders...Cipheric knowledge before the age of time...Infinite mana and resources. All that and more, I would need all of it. The prospect is daunting."
+
+I raised a brow, "Just asking. Anyways, you're free to go. Helios, when will you have those warping lessons ready?"
+
+Helios put himself back into the moment, "I've yet to finish the later courses. The earlier ones are finished, however."
+
+I pointed at the top of Mt. Verner, "You'll be giving me a two-hour lesson daily from here on out. Anyone interested in warping will be joining in, so get ready to give lectures and answer questions."
+
+Helios rubbed his temples, the guy getting a massive headache. I sent a message to Florence, letting him know to handle the marketing for the lesson. The chatty albony replied in an instant, letting me know it would be done. I took a breath, "Ok. It's time to move everybody. Let's go."
+
+Everyone paced off, and I headed towards my golem production facility. We needed thousands and thousands of super golems to help stabilize Earth, especially long term. It was only a matter of time before Elysium figured out it was my home planet. To stop threats before they began, I wanted Elysium staring at a loaded gun when they uncovered Earth's significance to me.
+
+Amassing that kind of army required me to build up and out, even keeping some golems in reserve. I paced into the glass-paneled area where I made golems. As I strode in, I raised my brow at a workshop area. The humming of machines and cascade of sparks gave life to a fresh, thriving industry here. They moved in while I was away.
+
+Several people worked diligently, many of them emboldened by my legacy and the rings I gave to each guildmate. If I had my way, many would join our ranks soon along with them. I walked off past the engineers, my form a colossus beside them. One of the engineers scrambled up, his gaze high,
+
+"We're...We're sorry, sir. We didn't know you'd return so soon. We wanted to take advantage of this space while you were gone, and-"
+
+I gave him an approving nod, "Keep up the great work. I'll be handling my golem creation over here. Keep some distance, or you'll ignite. I meant that seriously - you're blood will turn to vapor, and you'll explode."
+
+The engineer gave me a salute, "Sir, yes, sir. We'll stay cautious."
+
+I headed over towards the edge of my factory floor before taking myself back through the motions of skin tearing. Well, arm and leg ripping at this point, but you get the picture. Violent ripping ensued, creating loud, booming echoes that quaked the nearby ground. I built heat over my skin, making it easier to rip off, the glowing, white-hot material sturdier than steel.
+
+The entire building rumbled as I pooled a mass of my dimensional fabric. I spread out a portion of it, taking a moment to shield my allies from the rest of my industrial process. The blood in their bodies would evaporate otherwise, and their deaths would be on my hands. Once insulated, I continued without restrictions, putting my entire mind to work.
+
+I channeled bits of mana into mental processing, speeding up each of my minds. I set the many psyche's to individual tasks, parsing myself apart as a team of skilled workers. Each piece of the golem's creations shifted and moved like a clockwork puzzle, ticking to the sound of seconds or the beat of drums.
+
+As I had many times before, I lost myself in the crafting process. I imbued energy into my grimoire, constructing panel after panel and chunk after chunk of the golems. I kept a one to twenty ratios between assault golems and constructor golems. The reason I made so few fighters stemmed from the need for them.
+
+There was none.
+
+A single assault golem rivaled the power of a Breaker in Schema's system. It lacked the sheer explosivity of that class, but a fighter golem could outpace a Breaker's clear rate over time. In the truest sense of the word, an assault golem mirrored a mini Fringe Walker. Very few of them were needed for holding a territory down, especially on a fresher planet like Earth.
+
+By comparison, the constructor golems required more time and effort to handle their responsibilities. They crafted buildings, roads, and swaths of territory over time, but they couldn't make a city overnight. One of them couldn't, at least. Many could. That kind of logic drove me forward as I worked through the night, the stars bathing Mt. Verner in their gentle light.
+
+The sun rose over a distant horizon. As it changed, I remained constant, a single-minded drive. I toiled and worked and wrought. Over the next few days, I continued my relentless pursuit in a perpetual rush. I sent messages across all of my higher-ranking members to leave me undisturbed for a few days.
+
+After all, it was about damn time I had a moment to myself to handle this. In many ways, creating hundreds of golems was a long time coming. I intended on crafting thousands, however. And I did. I unleashed my full, devastating potential, and that didn't mean preparing a dozen or even a few dozen golems. I made hundreds, and they'd darken the sky if they flew overhead.
+
+I set aside a whole week to get the job done, and I generated as many as I physically could. I integrated new furnaces into the process, fueling the mana creation process. Each one acted as a bump in my mana production, a kind of leap forward for me. In those moments, my mana's sheer volume overwhelmed me.
+
+Billions and billions of mana rippled out of my fingertips. The aura spread out thicker than water, like a congealed wave of pure energy. It boomed and writhed out an unquenchable, unshakeable presence. Its tangibility was undeniable. The sheer veracity consumed anything that dared come near it. The all-encompassing wave shivered the dimensional space around me, warping the space.
+
+And yet, I contained it with my many minds.
+
+I wielded many skills in a fluid construction. I kept them rolling forward, using Force of Nature, Apotheosis, and A Manifold Mind with clarity and precision. At times, I forgot that I made progress from a raw power perspective. As I created enough heat to mirror the surface of a star, my abilities sang out in a symphony of violence and heat.
+
+It was a reminder of my potential. It would be a reminder to those around me as well.
+
+By the time I finished the entire week, I had generated several hundred golems. I amassed a sort of velocity with my crafting, becoming a creature of creation. As I fell into my own world, a city of stone and rock unfolded around me. It wasn't as if I had the constructor golems standing there watching me toil. Oh no, they worked with engineers, ones I had Torix and Krog manage.
+
+They oversaw the building of roads, a sort of planned layout sprawling out over the entire horizon while I kept my head down. I hustled day in and day out, but my guild did the same. We kept at it, taking no breaks and showcasing what high willpower and endurance could do.
+
+People talked about moving mountains. When it came to my legion, we preferred actually moving them.
+
+As I finished the task at hand, I wiped my brow, more out of habit than from actual sweat. Water long left my body. Letting my shoulders relax, I sighed with relief, glad to be finished with the work. I allowed myself to recuperate over the next ten minutes before hovering myself out of my golem factory. I carried bits of dirt and stone with me, the debris going unnoticed.
+
+Peering down at my surroundings, I marveled at the enormous change one week of development wrought. A city formed over the side of Mt. Verner. The crowded population in the mountain dispersed, everyone happy to feel the sun and taste the wind once more. I smiled down at roads constructed from concrete. The engineers weaved ribbons of dark stone through the masses, giving them the appearance of rough marble.
+
+Beyond the roads, a new infrastructure formed. Several constructor golems spaced out, providing the means to a power grid. They generated tiny, stable mana crystals within street lamps, giving an ambient light. That light ebbed from within buildings, civilization returning to Earth. Finally. Keeping a bright quintessence during the day, the lanterns radiated in a multifaceted fractal across the landscape, and I admired the geometric sheens.
+
+The lighting framed a moving populace that bounded across the landscape. Guildmates ran across the streets, though no one really used cars. Instead, people jumped onto and over housing. No traffic existed in this post-system world, the systemization inspiring a different way of life. My legacy and rings delivered raw stats in spades as well, accentuating the difference.
+
+It wasn't as if thousands moved out here already, but about a thousand had. They probably clung to the new housing in a desperate rush, eager to escape our subterranean lair. The rugged populace contrasted the architecture. Being brand new, no one stylized any of the buildings just yet, so it all carried an almost dystopian feel from how 'samey' it all was. Or maybe it was utopian? It was hard to say.
+
+I hovered higher into the air, peering out towards the ruins of Springfield. The buildings carried scars from Yawm's landing and ensuing infestation. I winced at memories of the deformed mutants running through the streets there. My old hometown whistled with a quiet dread I almost despised, so I tackled that unease. I floated over. I found traces of my old school, my old boxing gym, even the apartment I used to call home. Taking a minute, I soaked in the corpse of my old home.
+
+And I acted on a whim.
+
+Springfield would be a corpse no longer.

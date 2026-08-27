@@ -1,0 +1,161 @@
+---
+id: afb6df33-d9c5-52b8-acf0-754f6db4f806
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13"
+slug: 0013-chapter-13
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 13
+ownLength: 2657
+unit: words
+publishedAt: 2026-06-02
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3482090/chapter-13"
+royalRoadId: "3482090"
+---
+
+The Core Leechers unfurled. Like a scene from out of a nightmare, their bodies contorted and cracked, showing their true forms. Where moments before they’d looked like face hugger eggs, only with four clawed hands keeping them attached to the tendrils, now they stretched and uncurled, wet muscles contorting, revealing themselves to be four-legged creatures with elongated, flattened bodies and… no heads. Honestly, they looked like a horror version of the flying carpet from Aladdin, made from muscles and nightmares. Briefly, I noted a central, dark-red core near the belly of one Leecher, glinting with teeth. So, they did have mouths. Lovely.
+
+As one, the monsters screeched and started running in our direction. With long, contorting leaps, their short legs ate up the short distance faster than they had any right to.
+
+Nix and Haddock shot glancing, nervous looks in my direction, and at the tight tunnel waiting right behind Nix. Elio, meanwhile, took it as his cue to step into motion. Ciara having returned to his side, whispering frantically to him.
+
+He spoke up with a grandiose tone. “Years from now, should you miraculously survive, you may look back at this moment with fondness. Remembering how you were fortunate enough to become a spectator to this, the first step of my ascension.” Softly, almost fondly, he whispered. “Missile Storm.”
+
+The Core Leechers streamed toward us. As they had to circle around the lake, they didn’t advance as a collective mass, but instead in two lines, one moving left, the other right, with quite a bit of space in between each monster.
+
+The air near the closest edge to the lake cracked. A hundred meters above, darkened skies laced with lightning-bright veins billowed and unfurled.
+
+“Behold my power and weep!” Elio cried, lost in the sensation.
+
+The missile storm erupted. Within seconds, a lethal rain exploded from the skies, pummelling the area near the edge of the lake with hundreds of droplets. Some were sharp, piercing through skin. Others were blunt and crashed onto Leechers with massive force. For one second, five, the entire area was hidden from view by the hostile downpour. Then the skies broke and faded into nothingness, as abruptly as they’d emerged.
+
+Two Leecher bodies lay broken and unmoving. One was dragging itself forward by the front legs only, back legs broken and dangling. Either Elio had missed the remaining four unhurt monsters, or they’d powered through the barrage.
+
+I clammed a hand over my mouth to keep the laughter from emerging. The look on his face! He’d stood there, arms raised like some sort of all-powerful cartoon figure. Now, his arms fell, as Ciara whispered to him and he realized they weren’t all dead.
+
+His voice was uncertain, near-broken as he spoke again. “I… the cooldown. I cannot cast it again before-“
+
+“Move, Mr. di Fiore.” Ciara said, pulling at his arms. She’d seen the writing on the walls and started to run, package in tow.
+
+I patted Nix on the shoulder. “Your turn. Then, once you’ve done your bit, you move behind me. We’ve got this!”
+
+She smiled at me. Well, I imagined that it was supposed to be a smile. It was either that, or a particularly painful bout of indigestion. Regardless, we sprinted into the tunnel part of Haddock’s creation.
+
+We stopped right at the hindmost edge of the tunnel. Haddock spoke up. “I’ve got enough mana for a final wall, love. Block them off entirely if it’s needed.”
+
+Nix bared her teeth at the simple, gently sloping tunnel laid before us, rough walls placed directly onto mud. Fifty meters of tight tunnel before it started widening. “Oh, it won’t be needed. I am going to level the ugly things.”
+
+The seconds ticked by, painfully slow.
+
+I growled. “Remember. Unleash that shit, and then run behind me.”
+
+Finally, the first monster emerged at the tunnel opening, screeching inhumanly as it came.
+
+It felt like a movie. Like somebody had activated super slow-motion, and then, the moment the Leecher reached the tunnel, actively increased the speed again.
+
+I almost missed the whispered words from Nix. “Flash Flood.”
+
+Like a biblical flood, it came from the heavens. This wasn’t like Elio’s talent, a massive build-up to a powerful unleashing. This was a gigantic faucet, turned on and then given a massive push in the right direction. At least half the water that emerged from above spilled out on either side of the tunnel. Yet what remained hit the ground hard and rushed toward the funnel opening at the far end, demonstrating an output and force that I could barely fathom. Parts of the water nearly reached the top of the three-meter walls.
+
+The Leechers? Gone. Or, at least entirely out of sight. The mass of water hid everything and anything. Right this moment, I expected them all to be tossed across the ground at high speeds, breaking bone and tearing themselves up.
+
+“I’m out. No more mana.” Nix croaked. Then she shuffled back behind me, patting me on the back. “I… hope that was all. If not, good luck.”
+
+I stepped forward, feeling the weight of the shield pull at my arm. I felt awkward and clunky, especially knowing that I might have to fight for my life in a moment. But at the same time, the heft felt good. Solid. In comparison, the swordbreaker in my right hand felt flimsy, more gardening tool than defensive weapon.
+
+Already, I could tell that I was more than when I’d entered this world. I was tougher. Felt like I’d be able to take a full twelve rounds of punishment from some of the heftiest bastards back in the gym. But feelings were one thing. I’d spent enough time testing myself to know just how easy it was to misjudge my own capabilities. This… would be the actual test.
+
+The flood disappeared as fast as it had arrived, water bursting out of view and down toward the lake below, exploding out the tunnel mouth at top speed. At first, it seemed that the tunnel had been cleared. Then, the Core Leechers stood up.
+
+The damn beasts had already shown that they were bestial contortionists. Now, they proved that they also possessed the mental faculties to truly abuse that. The three remaining monsters had flung themselves flat against the tunnel floor and hammered their claws into the soft soil to fix themselves in place, keep from being torn away. Their bodies looked deflated, drenched and battered. But their trick had worked. Three had made it. Two, one of them the one with the broken legs, were nowhere to be seen.
+
+My mouth felt dry. My legs were shaking. But I didn’t back down. Now? Now, it was my time to show what I was made of.
+
+The beasts loped forward, muscles rearranging as they ran, increasing in speed by the second. Then, they spread out, side by side.
+
+I hunkered down, right at the centre of the tunnel, bone shield placed in front of me. My feet were in the classic boxing position, legs spread well apart for balance, dominant foot at the back, left foot forward, ready for small adjustments and movements as necessary.
+
+They were almost upon me. Then, the trio of beasts slowed down somewhat, all at the same time.
+
+“Great. Pack animals.” I just had time to think the thought, before the first one leapt straight at me, and the two others sprinted to either side of me.
+
+I barely managed to activate Wave of Reflection in time. Half of my mind was in shock, barely adjusting to what was happening. Then, reflexes took over, and I adjusted the shield, hunkered down to fend off the attack.
+
+One set of claws scratched down one side of the shield, tearing a long line into the leather covering. The other punched straight through the shield, cutting into the side of my forearm. I ground my teeth, focusing on the Leecher exclusively, eyes on the set of teeth in its midriff now hitting the shield.
+
+The response from my talent arrived, delayed perhaps half a second. A dark wave of energy burst out, aimed straight at the centre of the monster.
+
+The Leecher’s entire body shuddered, then seemed to deflate, as the dark energy poured past and into it, removing something vital. I cried out in equal parts shock and triumph as the shield suddenly became a lot heavier and started to drag my arm down. Then, a line of fire cut across my left leg, and I stumbled back, leg refusing to carry my full weight.
+
+I limped back, Leecher still attached by one set of claws to the shield. Snarling, I realized it was actually dead, and I used my swordbreaker to pry it off the shield.
+
+Then I found myself surrounded, turning one way, then the other, with a badly bleeding leg. One Leecher was in front of me, one behind.
+
+My mind worked on overdrive to realize what had happened. Were the beasts really clever enough to plan this? Then I noticed. No. One of the damn things sprouted two arrows. Ciara had actually hit one, forced it back. Meanwhile, the other one snuck past me and got my leg good in the process. My identify activated again, showing that they were the Level 12 one, with the other being Level 8.
+
+I whirled, shield-first, nearly fell, trying to keep my eye on the healthier one of the pair. An arrow missed, skittering across the wet grass.
+
+The hurt beast behind me leapt. My swordbreaker met its outstretched claws mid-air and guided it on, making it miss, barely. I continued the turning movement, trying to place my back against the wall. Instead, I nearly fell as my leg gave out.
+
+A shadow fell over me.
+
+I barely managed to activate Wave of Reflection before a long line of pain stretched down my left flank, where the unhurt Leecher tagged me again.
+
+Then, the wave of retribution discharged, propelled by my mental command.
+
+The Leecher teetered back several metres, stumbling from the pain of my retribution. Then it got up, moving a bit slower, staggering a bit.
+
+I gritted my teeth and found my balance. My eyes flickered back and forth, trying to coordinate both my shield and swordbreaker, along with the mental response of my talent. I was in trouble. Sure, both beasts were hurt. But they were also coordinating and timing their attacks in a way that left me out of sorts and unbalanced. I was used to being able to focus my entire attention on one opponent, for Christ’s sake. Now, I had to try and handle two at the same time.
+
+An arrow hit a Leecher’s back, but only just penetrated the skin, falling off a moment later. Looked like Ciara had run out of mana to activate her talent.
+
+Back against the wall, I snarled at the nearest Leecher, even as it swiped at my leg and dodged back again. “That all you’ve got? Come at me, you Temu Resident Evil wannabe!”
+
+The ugly monster didn’t react. I doubted that it even had ears. But releasing the anger struck a nerve for me – and deep down, I realized that there was nothing new here. Sure - fearing for my life wasn’t an everyday experience for me. But pain? Adversity? Struggling through when most people would throw in the towel? I’d passed that test when I was fourteen and my then adoptive ‘dad’ thought I’d take a beating quietly!
+
+I altered my approach a bit. Angling my shield at one of the beasts, and hiding the swordbreaker behind my back, I purposefully left my side exposed, hoping to bait the other freakshow into attacking me so I could catch it out. I kept my gaze trained on the other beast as well, while keeping the other in the periphery of my vision.
+
+For a second, it seemed like it worked. The ugly mass of ropy muscles and wet flesh contracted, like a cat arching its back in preparation for a pounce. Then it tensed up and skittered back as our surroundings went dark.
+
+In horrible realization, my gaze travelled up. Up, into the air right above me, where another Missile Storm was gathering and exploding downward.
+
+“You motherf-“
+
+I shot a single glance at the Core Leechers. One, the Level 8 beast, seemed frozen in indecision. The other ran full tilt – back through the tunnel where it came from. If I were able to strike, I’d be able to finish off the single remaining enemy right now. But of course, I couldn’t. I could only defend. And right this moment, a swarm of magical missiles was descending, looking more threatening than the monster.
+
+I flung myself down. Ignoring the insistent pain in my ankle, I curled up in a foetal position next to the wall, hiding myself under the questionable cover of my shield. The shield wasn’t huge. There was no way it could hide the entirety of my body, and I resigned myself to focusing on shielding my upper body and head, pulling my legs up as far as I could.
+
+The onslaught began.
+
+I got hit right away. A glancing blow on my lower back carved into my flesh. Simultaneously, at least three missiles struck my shield, trying to tear it away from me. Unable to do anything but hold tight, I screamed in defiance and looked at my health.
+
+Health: 205/340
+
+Half dead. I was nearly half dead at this point. But I just had to survive.
+
+Two more impacts. One felt like it lodged in my lower back.
+
+Health: 120/340
+
+Down to a third. Maybe I should activate Wave of Reflection? If Elio died, would it stop the Missile Storm? Could it even activate in response to an AoE attack?
+
+I gritted my teeth and shouted something unintelligible, as a missile hit the wall and rebounded against my neck, carving a line of pain down my back.
+
+Health: 105/340
+
+Asshole! Insane nutjob. My health status became the only thing in my world. In my rattled state, I came to a conclusion. If my health came below a hundred, I’d activate my talent, and screw the psychotic Italian!
+
+The sound changed. My surroundings darkened even further. I had no way of knowing what happened, but from one second to the next, the onslaught ceased. I lay on my side, and could see the ongoing impact of missiles, carving into the flesh of a, by now, entirely ravaged Core Leecher a few meters away. I finally noticed its tiny eyes, at the forefront of its bulk. They were empty in death.
+
+It felt like forever. But finally, the Missile Storm stopped, and I stood up. Rather, I tried, and then nearly knocked myself senseless, as my head hit something. When I stopped cursing and the pain diminished somewhat, I realized what had changed. Just above me, a shelf of stone had expanded from the wall of the tunnel, covering me from the magical missiles. Haddock had intervened and saved my life.
+
+I looked farther down the tunnel, spotting the corpse of the Level 12 Leecher. It looked like a pile of offal, half-torn apart by the ferocity of the onslaught.
+
+We’d survived. Now… for the after-action report.
+
+I stalked back to the others. My fury felt like a beast inside me, threatening to take over.
+
+Elio was already speaking. “Ciara. Handle the looting. Make three piles. Essentials, optional and garbage. Then, we shall see if it is worth returning to the city for barter, or we can find another group of monsters.”
+
+Nix and Haddock were off to the side. Haddock glanced at me nervously, while Nix looked like she was in a state of shock, wide-eyed as she stared at the wounds riddling my body.
+
+I didn’t waste time talking. I walked straight up to Elio and socked him in the eye.

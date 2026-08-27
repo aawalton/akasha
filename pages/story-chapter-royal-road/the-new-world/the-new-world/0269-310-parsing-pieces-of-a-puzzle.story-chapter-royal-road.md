@@ -1,0 +1,155 @@
+---
+id: 8109e4db-ecb7-558b-9b4e-66fca1fc870a
+page-type-slug: story-chapter-royal-road
+title: "310 Parsing Pieces of a Puzzle"
+slug: 0269-310-parsing-pieces-of-a-puzzle
+partOf: the-new-world
+position: 269
+ownLength: 2205
+unit: words
+ownProgress: 2205
+publishedAt: 2021-09-10
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/748426/310-parsing-pieces-of-a-puzzle"
+royalRoadId: "748426"
+markedReadAt: "2026-06-29T21:30:25.428Z"
+---
+
+Florence raised a hand while stammering, "Uh...that's an exaggeration, right? Hyperbole? Perhaps a saying I don't understand?"
+
+I winced, "Or Plazia's a fortress caliber eldritch. That's a bad situation."
+
+Florence's fur bristled over his skin, and he took sharp breaths. I pulled the Rise of Eden over our group, the augmenting aura calming him down. Behind me, another person panicked as well. Well, monster, but either way, Amara gasped in shock.
+
+She took a step back, pointing her palms down. As she did, her hands trembled. The smaller eldritch hyperventilated before putting her hands against her head. Florence snapped out of his daze and walked up to her. He snapped his fingers, "Hey, you alright? Everything ok? You look unwell."
+
+She couldn't speak, her emotional unease overwhelming her. Three minds of mine went into action, dissecting the situation. One of them noted this reaction was her being afraid. The sweating, trembling, and shortness of breath sealed the deal on that. Those signs spawned right after I mentioned a fortress caliber eldritch, so the two connected somehow.
+
+My second mind remembered that Amara was a part of the mission to Gypsum.  She was almost eaten by the Spatial Fortress there. A third mind clicked those details together, and I stepped up to Amara. I raised a hand with confidence,
+
+"Hey."
+
+My voice compelled her, and she glanced up to me. I lunged down and placed a hand on her shoulder, "Listen to me. You're not the same eldritch you were when Yawm controlled you. You wear my skin and flesh over your body, and it gives you strength. If you can't believe in your own power, then trust in mine."
+
+I raised a fist, "I will keep you safe." I peered at Florence and Helios, "That goes for each of you as well."
+
+Florence waved both his hands like he was psyching himself up, "Of course, of course. I just, you know, was abjectly terrified for a moment. It would be par the course for me if you hadn't already guessed as much."
+
+Amara gave me a nod, her legs wobbling still. I stood up, giving Amara's helmet a tap, "Come on, stand up straight. You're the Harbinger's technician, aren't you?"
+
+She adjusted her helmet, staring down. She took a slow breath, her heart rate steadying. She murmured, "Yes...Thank you. The thought of facing another fortress...That terrified me. I lost myself while imagining what happened before, but I won't allow that to happen again. I will move past this fear in time."
+
+Althea let me know she feared the fortresses, so of course, the other Gypsum members felt the same. Armed with those thoughts, I smiled under my helmet, "Alright then. Now, Reason, I want to understand more about what's going on with Plazia. Is Plazia literally the ground beneath us, or is this just a phrase you're using?"
+
+Reason considered my question, her emerald form rippling like a stormy sea, "That...that is what we have gathered. If we burrow too deeply, then Plazia's insects will swarm us from all angles. We believe that insects are the center of the planet because of this."
+
+I closed my eyes, marveling at Reason's objective misunderstanding of how a planet works. I took basic science back in, like, fifth grade, and there, I learned that solid planets had molten cores for the most part. Insects wouldn't hold up an entire mantle of a world, as the pressure would destroy them utterly along with the heat.
+
+That being said, maybe Plazia was pulling some shenanigans with gravity and the like. I didn't put that past him as I opened my eyes, "Ok...So insects are the center of the planet?"
+
+Reason raised two extended limbs of slime, "Yes."
+
+"And this is because once you burrow down, anywhere, there are bugs?"
+
+"Yes."
+
+I gave her a slow nod, "Alrighty then. Is there, uh, anything else you can tell me about Plazia?"
+
+Reason tremored, "What would you need to know?"
+
+Florence took a step up, "When did he land? What's his favorite color? What does he do in his spare time?"
+
+Reason shifted towards the arena of slimes, staring at another battle, "Plazia arrived on Svia many centuries ago. The exact date of his coming is unknown to us, but we understand that he is an ancient entity. We do not fully understand him, and that is one of his greatest weapons against us."
+
+Oh yeah, I figured as much by now. Reason continued,
+
+"His tactics are vast and unwieldy. He pits us queens against one another, abusing our most admirable asset - our ability to wage war. This immense destruction of our colonies is why we've let him fester as long as we have. It is only recently that our squabbling has finally stopped thanks to Wrath."
+
+Reason watched a blue bruiser slime get squashed before she dangled a limb over the body. The razor queen slurped up his remains in a disgusting guzzle. As the cobalt ooze disintegrated in her moss-colored muck, Reason pulled back. She sighed,
+
+"And despite our unity, he has evaded us time and time again."
+
+At this point, something dawned on me - they knew next to nothing about Plazia. I mean, at least half of what she answered with had nothing to do with him. It was the inner workings of the razor queens' situation, something I already understood. I lifted a hand,
+
+"I got that already. I'm trying to get details about Plazia so that I'm not left squandering at what to do if he jumps my team or me. Do you know what he looks like, at least?"
+
+Reason shrunk away from me, "We have never seen his true form."
+
+I scoffed, "Ok, does he have a favorite slime he likes to eat?"
+
+"He never eats us."
+
+I grabbed the side of my helmet, "Is there, I don't know, any tactic he uses that's most common?"
+
+Reason jiggled, "He has confounded us at every turn, and so, we don't know what his tactics truly are."
+
+Amara seethed, "I think there is more that you don't understand than merely his tactics. It would seem you know nothing of your ancient and venerable enemy."
+
+Reason hissed, "And none of you have faced him. You cast your judgment willingly, and that is simple to do. To face him and experience our dismay is a different task altogether. I heed any of you to investigate below. You will find the depths most unforgiving."
+
+Florence turned a hand to her, "So while you may not understand Plazia, you do seem to understand the razor queens and the Ahcorus. Let's start there and attempt to work our way backward then. Shall we?"
+
+Knowing when to take a step back, I gave Florence the reigns of this conversation. He took them with a pep in his step, "Now, Reason, you mentioned that the war with Plazia began centuries ago. What were the Ahcorus like then? You know, before this hivemind arrived?"
+
+Reason shivered, "We were weak. The eldritch threatened to overwhelm us long ago, and we stood on the brink of extinction. No rival species invested in our world because we lacked resources for them. This cast us into the darkest shades of Schema's worlds - a planet destined to die."
+
+It amazed me how Florence could get information out of something like this. I took notes on his strategies as Florence tilted his head, "That's fascinating. It sounds as though a lot has changed since then. What about Plazia's interference helped or hurt that process?"
+
+Reason trembled, "He has left our colonies ravaged in his wake. He conquered and annihilated our kind until few of us remained. Those few remaining were our strongest and most powerful. We created a new order of our society in those last moments, and that is when we first manifested a razor queen."
+
+One of my minds noted that detail. Plazia-Ruhl forced the Ahcorus to evolve. Florence nodded at Reason, "That must've been immensely difficult. I couldn't even imagine pulling through if I was in the same situation. I must say I'm impressed."
+
+Reason swelled with pride, "And you should be. The Ahcorus rallied with a queen at our center. We established a new social order, one that was stable and functioning. With all of our decisions funneling from a singular point, we beat past Plazia-Ruhl's established zones. Our kind repopulated Svia, and we regained our homeland."
+
+Reason pointed a shining claw at the arena, "In that era, we established many of our now revered traditions. These battles began taking place to force our evolution. More razor queens spawned, and they battled to uncover the greatest of our kin."
+
+Florence put his hands on his hips, "But I'm guessing you guys never figured that out, considering many razor queens exist now?"
+
+Reason deflated a bit, "No, we did not uncover our apotheosis. If a colony has ever grown too dominant, others rallied to dismantle them. Plazia's attacks also cease that growth and evolution. While we have pushed him deep underground, he attacks at random without reason or purpose. This volatility is the most awe-inspiring aspect of him."
+
+Reason snarled, "He is unknowable."
+
+Florence took a breath, "Well, that's quite the history then. What about your most recent events has made you all stop fighting one another?"
+
+Reason sighed, "It is Wrath's pleas. She has mentioned that to reach our final evolution, we must first eradicate our most formidable enemy. It is our only path to salvation, as Plazia stands in our way at every turn."
+
+Florence's eyes narrowed, his mind clicking pieces together, "And that's your species general goal - to evolve into its ultimate form then?"
+
+Reason spoke as if referencing a distant memory, "Yes. It is our dream."
+
+Florence spread his arms, "Well then, that was a thrilling story. I'd just like to speak with my team members alone for a minute. I have a few plans and details I'm hobbling together, and I'd hate to waste your time managing those details. I'm sure you have plenty of colonizing, organization, and other affairs that need attending in the meantime."
+
+Reason kept moving like a patch of living water, "I do. I will return in time to hear of your plan, and then we shall rally with the other razor queens to face Plazia."
+
+Florence swung a fist, "Oh, absolutely. I can't wait."
+
+Reason and the other slimes stepped away before Florence turned to Helios, "Can you warp us back to Mt. Verner from here?"
+
+Helios raised a hand and snapped his fingers. A portal snapped open, the air no longer howling away as it had before. Florence hopped over towards our warp area while waving for us to follow. We did, and once the portal closed, Florence stepped back and forth. I watched him for a second before I raised a hand,
+
+"So, any thoughts?"
+
+Florence shook his head, "Yes. We can't trust them."
+
+I crossed my arms, "Why, exactly?"
+
+Florence sighed, "Several reasons, but even a cursory glance at their history tells me some overarching facts about the ahcorus that are troubling. Firstly, some events simply don't line up. For instance, Plazia-Ruhl pushed them to the brink of extinction. Once on that edge, their species innovated, gaining a razor queen."
+
+Florence raised a finger, "Now, that's all fine and dandy, but if the razor queens allowed them to take back over Svia's surface, why didn't the ahcorus continue their domination? Case and point, the Ahcorus now command many razor queens and more resources. They should've easily been able to take over a weakened Plazia, yet they haven't."
+
+I nodded, "Yeah, that doesn't add up. It's like Plazia wanted them to have a measure of control. Hm, probably to get rid of his fringe world status, if I had to guess."
+
+Florence pointed at me, "I'm thinking the same. In fact, most of the Ahcorus's culture mirrors the eldritch, even. The entire battling arena, the goals for evolution, those are similar to primitive eldritch."
+
+Amara hissed, "It is true. For a species to look down upon us yet mirror our ways is odd. Perhaps that is why she angers me - she treats us as inferior while reflecting what we are."
+
+Helios grimaced under his mask, "So the Ahcorus are pawns of Plazia's then? Considering the Ahcorus's sheer stupidity, I find that quite believable."
+
+Florence rubbed his temples with the dull edges of his claws, "Idiocy is a strong word, but your point still stands. If Plazia had this much control of them, it's reasonable that Plazia is still using them. How, exactly?" Florence lost all his momentum,
+
+"I don't have the slightest idea."
+
+I narrowed my eyes, "Huh, interesting. I faced a Ruhl before, and it made sure that everything fell in place at a distance. It was like an evil mastermind of sorts that had planned everything out ages ago. That could be the case here. I mean, it's not outside the realm of possibility that Plazia organized the Ahcorus against himself."
+
+Amara's arms flopped against her side, "Why would he turn his own knife against his throat?"
+
+I gripped my hands into fists, "How about we go and ask him?"

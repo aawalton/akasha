@@ -1,0 +1,217 @@
+---
+id: 4be1be3a-0bad-588d-9248-a95af027d67f
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 43"
+slug: 0005-the-path-of-ascension-chapter-43
+partOf: the-path-of-ascension
+position: 5
+ownLength: 3380
+unit: words
+ownProgress: 3380
+publishedAt: 2021-06-25
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/705641/the-path-of-ascension-chapter-43"
+royalRoadId: "705641"
+markedReadAt: "2026-06-29T19:17:34.490Z"
+---
+
+Chapter 43
+
+Matt waited with Liz and Aster at the teleport pad. Their turn was in fifteen minutes, and the station was packed.
+
+Aster was still groggy. Her Tiering up and subsequent increase in intelligence left her exhausted. She had been napping quite a lot to regain her strength, but it only did so much. Aunt Helen said it was perfectly normal and was exactly why they had implanted her with her own AI while she was recovering. It wouldn’t make her symptoms any worse, and she could recover from both at the same time.
+
+Animal AIs were different from the standard human ones. They were mostly locked on installation, but they gave new functions as they registered the user’s increases in intelligence. So far, the AI was more useful to Matt and Liz than to Aster herself.
+
+Matt’s AI had been able to relay information through their bond, but it was faster for her AI to send over the information itself. It was more accurate as well. Matt’s AI was off by nearly 200 mana for the fox’s maximum when he compared its findings to those of Aster’s AI.
+
+Aster hadn’t even been able to enjoy their last few days with Liz’s family. Still, Matt was happy with how things went in the last few days. Aunt Helen even took a picture with him and signed a cookbook for his cooking instructor after he told her how the woman trained him.
+
+When he delivered it, the usually stoic woman was sent into a squealing fit that nearly popped his eardrums. He had quickly escaped using the excuse of his impending teleporter departure time. It was true enough, so he didn’t feel he was lying, even if he still had an hour to make the ten-minute walk.
+
+He hadn’t expected the woman to react like that and the way she started looking at him made him profoundly uncomfortable. It also explained the small smile Aunt Helen had given him when he asked for the picture. She knew, or at least suspected how the woman would react.
+
+Celebrity wasn’t all good it seemed.
+
+At the teleportation station they were loaded into the large platforms with everyone else waiting to leave, and after their identities were verified, they were ushered into the circles of runes. Moments later, they were off the madhouse planet where the ascension took place and on the next planet over where things were only reasonably busy.
+
+The trio made their way directly to the train station as their next teleporter was on the other side of this connecting planet. Even after that they still had three jumps to reach the vassal kingdom, the Seven Suns.
+
+Matt had done his research about the place before they decided to train in that vassal state. He really hated relying on Liz to know everything after all.
+
+The Seven Suns kingdom was founded around twenty thousand years ago, by a faction that had lost a power struggle for a dukedom in the Empire proper. Faced with exile, or a slow death through the removal of their people from any positions of power, they chose to escape slightly past the then current border of the Empire and start a vassal kingdom.
+
+Now, thousands of years later, they were firmly bordering the Empire proper and were nearing the size where integration into the Empire would begin. Vassal kingdoms, like kingdoms actually in the Empire, were strictly controlled.
+
+The previous expansion of the Seven Suns kingdom would put them at one fifth the size of an internal kingdom, which was as large as they could expand before the integration process started. At that point, the Seven Suns kingdom would be absorbed into a newly formed kingdom and a new royal would be raised to power or absorbed into an existing kingdom. As far as he had found, there was no official stance on what would be happening to the Seven Suns kingdom.
+
+What interested Matt was the criteria for royals. At a minimum, they had to be Tier 45, and have an Aspect while also being the only people who could advance to Tier 47 in the Empire. There was an exception for those with enough power at a lower Tier to beat all other challengers, like Liz’s mother did. The logic was that anyone who didn’t want the responsibility to rule or was turned off by the prospect of worldly power at that point, would instead ascend to the higher realms.
+
+Rift cycling times increased with Tier, and the rifts on the capital took twenty years minimum to be at a state where delving was actually productive between cycles. That’s why most who made it to Tier 45 and had an Aspect left for the higher realms as soon as possible. There wasn’t much information about the higher realms, but it was well known fact there were rifts from Tier 1 to Tier 100. That meant Tier 50 rifts were relatively abundant.
+
+The rift cycling data made Matt fear people finding out about his ability, and at the same time relish the prospective amount of mana stones he could make by recharging rifts on the capital. By the time he was strong enough to refill the rifts at a reasonable rate, he would be strong enough that no one would be able to kidnap him and shove him into a hole.
+
+Or at least that was his hope.
+
+With a shake, he refocused his thoughts on the Seven Suns kingdom.
+
+The way the royalty process worked; the king that currently ruled would be turned into a duke. A grand duke to be precise. He had needed to look it up, but a grand duke was simply a duke that ruled over more than one duchy. The Empire proper didn’t usually allow that, as it concentrated power in the hands of a few strong people, but recently integrated vassals were the single exception.
+
+In theory, the old ruler could keep all his lands, but the Empire gave them protection for each duchy they relinquished. That meant that most kingdoms would raise loyal servants or retainers to dukes responsible for the poorer lands, while keeping two or three of the richest duchies for themselves.
+
+From his information gathering Matt suspected most of the vassal states’ planets weren’t up to the Empire’s standards and wouldn’t be profitable for a long time after the integration.
+
+The other incentive that integrated vassals were offered was that any property the Empire, or any proper citizens of the Empire wanted had to be bought at one and half times the market value.
+
+It all seemed like a cluster of unnecessarily complicated rules to Matt, but the Empire had been doing this for much longer than he could comprehend so he assumed they had things mostly figured out.
+
+It just surprised him that each of Liz’s parents ruled over hundreds, possibly thousands of planets, and soon a new royal would be raised that could eventually reach similar heights.
+
+When he asked why their parents were still ruling instead of ascending, he found out that their oldest sibling had joined the Empire’s standing army when he had hit Tier 15. Mara and Leon were unwilling to let their child be at the whims of others and inserted themselves into the political structure to watch over their firstborn.
+
+It fit with what he knew of the over-excitable couple.
+
+But before they could reach the train station Liz jerked as if she had been poked. “I just got a message from Uncle Waters.”
+
+It took Matt a second to parse who she meant by ‘Uncle Waters’ but learning that Duke Waters was calling them, or rather he was calling Liz, was disconcerting.
+
+Matt immediately started to clean up his appearance. They were in a private cab but that didn’t change the fact he was dressed for travel, and Aster was still unconscious. He was meeting a hero for the first time, and this was not how he wanted it to play out.
+
+Liz thankfully came to his rescue. “It’s a prerecorded message. Deep breaths and calm down. He’s just like everyone else.”
+
+She was blatantly wrong, of course, but he didn’t get a chance to respond as she started to play the video.
+
+Duke Waters had blue hair that seemed to drift in the air as if it was underwater, but what really caught Matt’s attention were the green-blue eyes. He had seen the man’s likeness in movies and shows but seeing the real thing put all those images to shame. It was like the man had a sea kept behind his eyes.
+
+The legend smiled as he started to speak, “Hey, BethBeth, I hear that you got your Concept. Congratulations, that’s always a fun one. Try and keep up with my pace if you want to make things really interesting.”
+
+His smile slipped a little as he paused for a second before saying. “While that’s a big deal it’s not what I’m calling about. I need you to do me a favor. I sort of picked up a little bird, and she’s trying to leave the nest earlier than I really think is good for her. Part of the deal I made with her was that she needed to join someone I trust and who is near her Tier if she wanted to go out without a high Tier bodyguard and…well…”
+
+He trailed off as if hoping Liz could fill in the gaps. Which she did. “And I’m the only one you know.”
+
+Duke Waters matched Liz nearly word for word as his recording started to speak again. “And you are the only Tier 5 I know who is competent and trustworthy.”
+
+He shot her a thousand mana smile and continued. “If you could just let her tag along with your group for the expedition for a short time, I’d owe you one, same with your teammate. It’s also okay with the rules of The Path as she’s a touch weaker than you, and so long as you keep your finances separate. Please?” After his question, the legend nodded as if all was settled. “Perfect, I already changed your train reservation and got you guys a three-person private car. Thanks a bunch, and be nice to Cammie.”
+
+With that, the recording abruptly ended, and he and Liz were left to look at each other.
+
+Matt was more shocked, but Liz seemed pissed, which surprised him.
+
+Reaching out she pretended to choke the air. “He knows I hate when my parents meddle in my life and there he goes and does it himself. He should have asked before foisting someone off on us.”
+
+As much as Matt understood her point, he wasn’t able to agree.
+
+Duke Waters had asked them for help, and anyone he vouched for couldn’t be a bad person.
+
+Right?
+
+He was excited to see what type of person this Cammie was. This was Duke Waters after all. The hero of the Empire, the first Ascender in thousands of years, capable of smacking around people three, four Tiers above him? It was unimaginable what he could do, what sort of person could possibly catch his eye? Some new protégé? Well, she couldn’t possibly be quite as good as him, not if she was a bit weaker than them.
+
+Unless she was Tier 4?
+
+Liz calmed down enough before the end of her ride to say that this was out of character for Duke Waters, but she would try to go in with an open mind.
+
+Matt just wanted to get settled in for the four-day train ride to their connection teleport. Because once they did, he had his new [Endurance] skill shard ready to be absorbed, stored in his new, much larger spatial backpack. Before they packed, he had upgraded from his old Tier 3 that was the size of a tub, to his new Tier 5 bag that was roughly the size of a walk-in closet. He actually had so much room now, his belongings now seemed lonely in the corner.
+
+The jump from three cubic feet to two hundred cubic feet felt good. It was tangible proof of his progress.
+
+Aunt Helen had ensured that they were ready for expanding [Endurance] personally. She made him and Liz practice with the training device in front of her five times before she was satisfied. Only after that did she give them a package that she had apparently swiped from the courier that contained their preselected Tier 5 rewards without them knowing. Personally, he thought it was nice to see that the older Phoenix cared about him enough to ensure he was safe and careful with his precious pseudo healing skill.
+
+Matt couldn’t think of anything he could get the older woman that she didn’t already have, but he wanted to give her something nice as a thank you for all that she’d done for him. What surprised him was that he didn’t feel that way out of obligation. He just wanted to return her kindness. She was like a mother figure, the likes of which he couldn’t really remember having but, in the end, he was only able to give her a heartfelt thanks which she seemed pleased to receive.
+
+Their plans to adjust [Endurance] were fairly simple as the first two days were just getting the skill into the spirit. Then when it first entered his core spirit, he had to use his spirit to expand the skill structure in specific ways to get the desired modifications.
+
+While training with Aunt Helen he also learned that Tier increases acted as a multiplier for proficiency in moving the skill structures in his spirit around. At Tier 5, it was 3.6 hours faster than it had been at Tier 1. And considering they both wanted to time the skill reaching their core spirits for noon two days from now it was useful information.
+
+When they reached their suite on the train, they found one of the doors shut, so they set themselves up in the remaining room.
+
+Matt took more time, since he had to set Aster up in a new cold reflecting bed he had bought. What had once hurt for him to buy then resell at a loss was now a casual purchase for him. Aunt Helen said that it would help Aster bolster her body while she wasn’t feeling well and would limit the effects to the mind from her breakthrough to Tier 5. It would also help mitigate the physical aftereffects of her mind expanding.
+
+After tucking the fox into a chilling blanket, he exited his room to the larger common room, and paused at the sight of their new companion. Not because she was attractive, though she was, but because she briefly froze at the sight of him.
+
+Instead of walking forward and proffering a hand to shake he just waved awkwardly and said, “Hello. I’m Matt. I take it you are Cammie. Duke Waters said good things about you.”
+
+The woman shook her head, breaking out of the spell she had been under, before nodding. “My name’s Camilla, not Cammie. But yes, that’s me.”
+
+Before the situation could get any more awkward Liz came out of her room and moved forward to shake Camilla’s hand. An action that Matt noticed she didn’t resist at all.
+
+Camilla nodded to Liz before introducing herself once again. “My name is Camilla. Nice to meet you, but I don’t think this was a good idea.”
+
+Liz pulled back slightly and asked, “Wait what? Why? Uncle Waters sent you here, right?”
+
+The dark-haired woman nodded slightly. “Yes but…” She shot a look at Matt before saying, “I don’t think it will work out. You remind me of someone I know, and I have had enough of his type.”
+
+Matt cocked his head but inwardly shrugged. Her issues weren’t his to deal with.
+
+She then asked Liz, “Is he part of the team proper?”
+
+Liz nodded. “Yes, we joined up as a team for The Path of Ascension.”
+
+Camilla looked at Matt before shaking her head. “Then I think I need to back out of this deal. Sorry, but I can’t trust him.”
+
+Matt finally spoke up, “You don’t even know me? How can you instantly not like me?”
+
+She ignored his question and asked Liz, “And what are you two dating as well? How could you—?”
+
+She cut herself off and stormed into her room, her door sealing behind her.
+
+He looked at Liz and questioned, “What just happened?”
+
+She shook her head. “I have no idea, but I’m not super happy right now. Who is she to judge you like that? If she wants to leave. Good riddance.”
+
+Liz entered her room, and Matt joined her. He was still pondering the other women off behavior when Liz asked, “Are we being dumb?”
+
+The odd question threw Matt for a loop as he tried to figure out how they were the odd ones in that situation, but Liz clarified, “Are we dating?”
+
+With the sudden twist in the topic, Matt paused to consider her words.
+
+She wasn’t wrong but it seemed like such an odd question considering they had decided to not date so they didn’t ruin their working relationship.
+
+After mulling over his words for a few seconds while Liz started to unpack. “I mean we do work and live together twenty-four seven but…”
+
+He let his words trail off as he wasn’t sure how to finish.
+
+Liz thankfully did. “We really just didn’t want to date because it might ruin the team, but if we are already practically dating, why don’t we just date and see how it works out?”
+
+As Liz plopped down next to him, Matt asked, “I guess we can just take it slow and learn together? We have time.”
+
+“That’s right. We both have Concepts, so our next bottleneck is Tier 24. Nothing wrong with waiting until Tier 15.”
+
+After they sat there in silence for a while Matt had a thought and voiced it. “So what? We have a ten Tier dating period?”
+
+He had no idea how this dating, waiting thing was supposed to work but he was excited about the prospect. He liked Liz and making things official was a step in the right direction in his book.
+
+Liz laughed and said, “We can still do everything a normal couple can do. We just don’t have sex, so if we do break up there are less hard feelings. If it’s worth doing, it’s worth doing right.”
+
+The Empire didn’t have large sexual taboos, but he understood what she was saying. “That seems incredibly arbitrary.”
+
+Liz shrugged. “Think of it as a courtship instead of dating.”
+
+Matt looked at her and cracked a joke, “What, do you think you’re some kind of princess?”
+
+With that, the tension broke, and they laughed until they cried. The awkwardness between them banished.
+
+***
+
+Camilla looked at the message Aiden sent her once again before screaming into a pillow.
+
+She had used the money he gave her to have a high priority message sent to him saying she couldn’t join a team with someone like Matt.
+
+She had hoped he would give her the okay and allow her to set off on her own, but he had put his foot down.
+
+Either she came back to his estate and his protection, stayed with his niece, or she got a high Tier babysitter to watch over her and ensure nothing bad happened to her.
+
+She wanted to lash out and refuse.
+
+She wanted to show him that she was ready.
+
+She wanted to do a lot of things.
+
+In the end, he had done so much for her after saving her and he was the one person she knew she could trust. She just couldn’t return to his estate and all the therapists.
+
+It had become too stifling.
+
+She had trained to be able to protect herself and didn’t want a high Tier bodyguard she didn’t know watching her at all times. To have that much power over her.
+
+That was too reminiscent of before.
+
+Which meant she needed to get along with his attractive niece and her boyfriend who reminded her of Duke Cumulus far, far too much.

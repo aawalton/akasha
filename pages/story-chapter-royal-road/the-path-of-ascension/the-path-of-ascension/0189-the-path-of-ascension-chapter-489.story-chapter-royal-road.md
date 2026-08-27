@@ -1,0 +1,305 @@
+---
+id: d424e794-f379-5d36-8a0e-70097b579daa
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 489"
+slug: 0189-the-path-of-ascension-chapter-489
+partOf: the-path-of-ascension
+position: 189
+ownLength: 5522
+unit: words
+publishedAt: 2026-04-17
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3286610/the-path-of-ascension-chapter-489"
+royalRoadId: "3286610"
+---
+
+Chapter 489
+
+Quill had far fewer constraints than Blake did when it came to starting a business, so when they returned to their estate he was more than willing to jump right into things, but he had a much more interesting obligation. His friends wanted to see, and experience, the difference between Blake and Quill.
+
+He didn’t mind, it was interesting, so when they were in one of the ‘secure’ rooms he opened up questions.
+
+Allie, unaware of anything resembling personal space, got in his face as if she could see his missing pieces.
+
+Poking him, she caused Tara and Vinnie to snicker, breaking most of the ice.
+
+“He’s not hollow. Boooooring.”
+
+Her disinterest was quickly replaced by Melinda’s interest. Not bothering to argue, he stuck out a hand, letting her scan his body. He wanted to know what she’d find as much as everyone else.
+
+Seeing her pursed lips and narrowed eyes, they silently agreed to talk around her.
+
+Kyle was the bravest and asked the question Quill could see all of his oldest friends wanted to ask. “What’s it feel like? Do you feel like you?”
+
+Getting it out of the way and having a convent example at hand, Quill looked to his oldest friend and winked.
+
+“Maybe I should have stolen your name, Mathew.” Seeing everyone's confusion he continued, “My former name is gone. If someone says my name, I can no longer comprehend it. That’s a pretty apt description of the inside too. I’m currently calling my former self Blake because I can’t even think my name. So to answer your question: That’s how it feels.”
+
+That prompted several more similar questions he answered as best he could, given how new everything was. That turned into a small game of people saying his name but he could only shrug. Everything they said was garbled into unintelligibility.
+
+Samantha’s question was a deviation but an interesting one. “So where was the line drawn? Did anything surprise you that's gone?”
+
+Seeing Zack, Allie, and even Liz’s attention to the question. Quill pondered it for a moment. “The ducal stuff. Blake hadn't realized he considered that role as part of his core identity but apparently we did. All of that is just… poof.”
+
+Opening his fingers, Quill mimicking an explosion shrugged.
+
+“So, you can’t remember that stuff?” Mathew’s question seemed to put everyone on edge but Quill shook his head.
+
+“I can remember things but it's like the difference between having something on yourself and in storage. Everything related to Blake only exists in storage. All of that stuff normally kept in my pockets is gone. So yes, I can tell you what I had for dinner last night, but I do have to think about it.”
+
+That seemed to satisfy both Zack and Allie. The moment the latter lost interest, she fell through a hole in the ground and joined Aster, who’d slipped out of the gathering almost instantly to see her friends.
+
+They’d talk. Eventually. Quill would be lying if he said he wanted to rush that conversation. A little time and distance was good.
+
+Zack, on the other hand, lingered but didn’t seem inclined to ask any questions.
+
+Melinda dropped his hand about the same time but her expression was mixed. “I can absolutely sense that something is missing but without knowing exactly what had happened, I’d be clueless as to what is gone. I don’t think I’ve ever seen anything like it. ”
+
+When the dust settled and his friends had their fun, he was able to get his business started.
+
+Quill’s Quality Quintessentials, while inspired by his initial healing tasliman design, wasn’t meant to give away free things. Far, far, from it. Immortals had more than enough money to pay full price.
+
+The problem he ran into was, what did he make? What did he want to sell?
+
+He didn’t want to simply sell the same talismans every other delving store had for sale. There was nothing unique or interesting there. If he wanted to be a wholesaler or reseller, he’d do it in the Empire. No, Quill’s Quality Quintessentials needed to be different if his plan was going to succeed.
+
+That meant his store required something new.
+
+He wanted to invent.
+
+New and useful were far from easy, but he had a few ideas. Blake had some, but Quill threw most of those out the window. They needed practicality. They needed something immediately useful. They needed something anyone would want to buy.
+
+Quill's mind went back to his first idea. Practical.
+
+What was the most practical thing a delving team might want? His mind wanted to say ‘a spear that magically murdered any monster with no fighting’ but that wasn’t exactly true either. Any team would be overjoyed to have such a weapon but he didn’t actually think that would be most people's first want.
+
+Thinking back to his civilian delves, he tried to list the main thing immortals wanted out of their delves. More monsters, easier monsters, and finding the monsters to maximize their essence extracted.
+
+That last one intrigued Quill.
+
+Blake had never considered keeping track of every burst of essence to maximize the value of a rift, but Quill knew that was a commonly tracked metric for most delvers. One search later, he confirmed that was equally true of Corporation delvers. Combined with Blake's ideas, Quill believed he had his first product.
+
+Tracking talismans weren’t new, thousands of variations existed but they all typically suffered from the same two problems. They were single use, as per normal talismans that weren’t made by Tier 46 crafting geniuses, lasting only a few hours before fading and needing to be reapplied. Their second common flaw was that most tracking talismans were purpose made for each specific rift’s monsters. Usually by using a tiny bit of their blood in the talisman’s ink, but that wasn’t a hard rule.
+
+Other types of tracking talismans did exist, but the ones connected to the rift monsters’ very blood had an advantage the other types could never compare to. The ability to ensure zero monsters were missed in a delve. For immortal teams that might delve once a decade and wanted to ensure their safety from ambushes and to maximize their advancement speed, the blood tracking talismans were worth every other flaw.
+
+Searching through the countless talismans for sale in the Corporations proved things were the same as he remembered from the Empire. A system's hardest or most valuable rifts might have tracking talismans readily available but anything else would need to be purpose made. An expensive endeavour to put it lightly.
+
+A universal tracking talisman would break open a massive market. Most companies had dedicated efforts to crack the mystery, but no one had been able to manage it to an acceptable level of accuracy. Now was no longer then, and Quill knew that better than most.
+
+Aura had only just begun to percolate into the mainstream with the growth boosting lights but it proved to be very useful in numerous applications. Most of those uses weren’t worth the expense, but that hadn’t stopped testers.
+
+The interesting thing people had begun to discover was that aura could be thrown into almost anything. It might not be useful or even helpful, but it was rarely dangerous.
+
+For the profligate that meant small scale enhancement boosts could be found by using aura in anything. It wasn’t always useful or desirable like in the case of a particular light rune that had fire aura used in the enchanting process; A light rune that flickered like a natural flame instead of the normal steady glow of a light rune without any additional runes or mana costs to create the effect was interesting more than useful.
+
+Quill lost a few minutes investigating exactly why those two might interact that way but couldn't do the testing himself. Most fire aura didn’t have that effect on most light runes. It was only particular combinations that had the special effect.
+
+Aura enchanting was strange but that was what interested and excited Quill.
+
+He wanted to play.
+
+However such minimal effects had zero chance of paying for themselves and were curiosity pieces at best.
+
+Most people were chasing the second type of aura enchantments like the light rune. That rune turned simple light aura into something that made plants grow faster. No one had been able to replicate that effect with the simpler method, showing how important leveraging a proper rune was.
+
+Far fewer people had found such runes, and Quill didn’t expect to in just a decade or two. He’d love to but he didn’t think he needed to.
+
+Titan’s Torch hadn’t been idle and one of the more recent aura types one of his teams stumbled upon was an unusual aura they ended up dubbing ‘resonance aura’. Sound aura was a close second but the distinctions proved the difference and the name was settled. The team in question had been trying to make an obfuscation type aura for a knightly order using lots of shadow, blackwater, illusion, earth, and even mist mana, yet they’d created the opposite of what they'd wanted.
+
+As per their agreements, Titan’s Torch had published it fifty years ago, but it hadn’t caught on in any large way. Few people were buying it for their domains, though there were always some. Slightly more people bought the aura trying to find a rune that might easily take the aura and make them a fortune, but that was a slow and unsteady trickle.
+
+Going to the reserves Blake prepared, Quill grabbed one of the crates full of resonance aura. Blake hadn’t wanted to bother Allie and as such brought extra and triple of anything he might think to want. That included samples of every aura sold in the Empire, but that hadn’t been all that hard given their duchy was an aura exporter and their guild had invented most of the aura types.
+
+When realistically, Quill could have bought everything he needed locally at a tiny markup.
+
+Where did Blake think they were going? Deep chaotic space?
+
+Quill realized that was definitely wrong because they’d brought less to chaotic space than to a neighboring Great Power. Grumbling, Quill looked at his storage rings. What was a working surplus for a guild of thousands, was a lot for a single man company with a researcher of one.
+
+Shrugging, Quill came to an easy conclusion. If the talisman business failed, he could easily pivot and undercut the local aura market for a decade or two until his armor was finished.
+
+Observing the bottle of resonance aura, Quill took a minute to appreciate it visually. The light pink aura had a deeper thread of magenta that seemed to swim around as he spun the bottle, always seeming a layer deeper than he was looking. It was quite striking and he almost considered trying to sell a physical replica as a novelty item.
+
+Pushing such distracting thoughts aside, Quill let himself experience the aura magically. It was static and stable in a way that reminded him of the air underneath a sink. Damp and a little stale but not harmful. If others hadn't already done the research, he never would have named the aura ‘resonance’ but knowing how it was made, that initial impression made sense.
+
+Extracting a tiny sample, Quill dipped a piece of a leaf into the viscous liquid. Immediately the aura sample tried to stretch out in the direction of the other scattered pieces of leaf even as it dissipated into nothing.
+
+Moving the pieces with his Concept, Quill studied the aura’s reactions. He wasn’t learning anything new, but he wanted to see everything the aura could do himself before he started trying to work with it.
+
+The tracking wasn’t instant but the difference was academic. The delay didn’t scale with distance, rather remaining static; which had both advantages and disadvantages.
+
+More importantly was the raw aura’s main advantage and why he was interested in using it. Distance.
+
+Starting with the basics, Quill sketched out a quick amplification talisman using a part of the bottle, hoping the simplest answer would be correct.
+
+It wasn’t.
+
+The talisman didn’t even activate, so he changed to a different amplifier using the aura as the core object rather than trying to integrate it directly. That succeeded. Or, the talisman at least activated, but it failed to boost the effectiveness of the aura or interact with it in any way he could detect.
+
+Undaunted, Quill ran through a dozen new tests before emptying his first bottle of aura. Peaking at his ever filling ring of mana stones, Quill stopped caring about the price of his testing and started chipping away one experiment at a time.
+
+His twelfth was a mild success, which gave him a burst of hope, but when that proved a fluke and he burned through two more bottles in quick succession with no progress, he took a step back.
+
+Kicking his feet up on the bench, Quill watched the ceiling, mindlessly whistling. At the same time he ran through his tests, coming to a single unavoidable conclusion. He didn’t know how to best leverage the resonance aura in a talisman, which meant he couldn’t pick what runes he’d use to make the talisman. Without knowing what runes he could use, he didn’t have any reliable methods to start testing the aura and see how compatible it might be with said runes.
+
+If Quill had one or the other, he’d have a wish Talent because he had neither, and no good ideas on how to find them. He was running into the same problem every talisman designer ran into. The usual answer was to brute force their best ideas and spend a lot of money in the attempts.
+
+Letting his [AI] slam its head against the wall that was repeated testing, Quill moved to one of the rooms' large slanted worktables, setting out several sheets of testing paper.
+
+He didn’t start with picking his runes, but instead focused on the methods.
+
+First, the talisman needed to be able to sense things at a distance to be a good tracking talisman. The aura theoretically solved that but it wasn’t the only way to do so. Hundreds of runes had similar abilities, but he didn’t let himself get bogged down in the details and only noted a few he thought might be useful. Moving on, he continued step by step until he’d fully designed a tracking talisman.
+
+It was purely theoretical but it gave him a better starting shape.
+
+Using that outline, Quill created two dozen designs based on as many widely different methodologies as he could think of, trying to cast as wide a net as he could. He didn’t jump into more practical testing.
+
+Instead, he started looking at the second third of the talisman, the one that Blake never bothered with any more. The talisman ink itself.
+
+Normally a core component, it wasn’t technically required to make a talisman. Not using it was leaving a lot of power on the table, but when flash creating taslimans with millions of mana, efficiency was the last thing on Blake’s mind.
+
+Quill couldn’t expect anyone else to follow suit, so he started designing what he hoped to be a compatible ink. Once more, he started with the theoretical side, building out what he wanted from the ink, though that effort quickly proved futile.
+
+Talisman ink effects were as varied as the products they were designed to be used with, and as complicated as any alchemy potion. While general inks did exist, they were only widely used at the lower Tiers and they quickly fell off in popularity after Tier 6 or 7.
+
+The issue was simple.
+
+High Tier talismans were as disposable as the low Tier ones, but they were rarely as cheap. That meant every use of a talisman had to pay for itself. For life savings talisman that was never a problem, though they weren’t exempt from the same expectations of exceptionalism.
+
+To meet those demands it generally meant using hyper specific inks tailored to magnify the talisman’s power.
+
+Compared to refining the runes or the ink there was a third, rarer, more expensive and finicky method to increase the power of a talisman. Tailoring the talisman medium itself to the final product. That final method could offer exceptional results, but more often than not it required dozens of additional steps, each with their own added expenses.
+
+It was rarely economical but he also knew he’d have to look into it at some point. There were truncated processes he saw mention of that he hoped might have some answers. Making a note of it, he didn’t write the method entirely off but he did put it in a firm last place like every other talisman designer. He’d much prefer to solve his issues with one of the first two methods.
+
+Looking at publicly available recipes for pre-existing tracking talismans, Quill found disappointingly few commonalities among the plants and other ingredients for the first two steps. Digging deeper explained it by reminding him of something he’d already known but hadn’t considered. Most of the ink recipes were tailored to the blood of the monster they were meant to track thanks to it being the main ingredient.
+
+Realizing he might be looking for the wrong thing, Quill changed his search topic, looking for harmonization talismans. They weren’t a commonly available talisman, or runic effect, but it did exist.
+
+Checking his Empire rune databases, he hoped to find what he needed but only managed to burn through another bottle of resonance aura in his testing. In doing so, he did manage to prove he wouldn’t stumble on an easy answer, so it wasn’t without any positives.
+
+Going back to the ink search, he looked for harmonization talismans and their ink commonalities. Despite being rare, they weren't built around something as unique as a rift’s monster's blood and he was able to find several.
+
+Flitting through the publicly available recipes, most core ingredients were extinct or had some other flaw that made them commercial dead ends, but direction was all he needed.
+
+Corporate espionage wasn’t treated the same in the Corporations as it was in the Empire. There were patents and other mechanisms to protect one's inventions, but secrets in the corporations were more like paywalls. From what he knew, companies would sell you their own secret formulas if the price was high enough, but he didn’t think he needed to go that far.
+
+Whistling, Quill went and poked around the various common rooms, trying to find any of his friends to go on an adventure with him but couldn't find most of them. Not being slackers worried about losing core parts of their identities, they were all in the swing of setting their business up and weren’t lounging around any more.
+
+Cursing Blake for leaving everything up to him, Quill broke a few laws and opened a [Portal] in the middle of one of the best recruitment centers’ lobbies.
+
+Far from unperturbed, a young Tier 5 man nearly had a bottle of water and a small snack presented to Quill before the fine arrived. He even managed to do it without disturbing the two other customers who had been speaking to the other front desk employees spread across the long desk before his [Portal] silenced the room.
+
+Taking both with a smile, Quill laughed, trying to show how unbothered he was being fined more than they’d make in their lifetimes. “Thank you for the water. I’m sure your bosses are already on their way down so no need to do more.”
+
+Wanting to do what little he could for these lowest level employees, he timed his comment for when he felt the three people nearing the nearly invisible door hidden from the front desk’s view by one of the columns. “I appreciate the service despite me dropping in unannounced.”
+
+Knocking on the desk that looked like marble, he was disappointed to find it was a sound absorbing material. That explained the omnipresent silence and he took a second look at the desk. He’d seen battleship armor built to less rigorous standards than the unknown metal.
+
+His idle investigation was immediately cut short as the three Tier 44’s who ran the head hunting agency smiled at him like sharks.
+
+Snorting a laugh, Quill returned the smiles as their names registered in his [AI] rather than his brain. “I just met a clan of sharks and they eyed me less hungrily than you guys are looking at me right now.”
+
+Far from embarrassed, the CEO made an excellent point, even as the front desk workers blanched at the realization of just which of their bosses he’d indicated would be getting him. “How can we not be happy such a large client has reached out to us? It's an opportunity for everyone to make money. We are constantly rated in the top five of putting specialists in contact with the business that can appreciate their skills and Talents. Yes, we are expensive but if we weren’t, you’d have never considered us. If you follow us, we’ve prepared a small briefing that we believe will help explain some of the key differences between working in the Empire and the Corporations, Chosen Titan.”
+
+Quill personally wished his request to bring his spy team and Cato had been approved. But JR, or more likely Rosemarie, had told him using the local assets was the point.
+
+Being led up to a spacious meeting room, Quill couldn't resist asking the thought as it came to him. “You weren't on the lists of ‘recommendations’ we were given, so how did you expect me?”
+
+The answer was about what he expected, though the repeated bluntness surprised him.
+
+They’d done their research but that was becoming very clear. “Many of us realized the visiting Chosen would be reluctant to be paired up with any company recommended officially. We fought fiercely to keep ourselves off the lists, knowing it increased our odds of catching one of the big fish.”
+
+“And you guys happen to be hyper-casual businessmen, exactly like I prefer?”
+
+The oldest looking man laughed as he shook his head in denial. “If you were the type to prefer hushed talks where we never directly state what we both know we are discussing over long formal dinners, we can do that if you’d like. Our job is to make you happy, and so we are as flexible as our clients.”
+
+Unable and perfectly willing to pay through the nose for the convenience factor, Quill skipped the niceties by agreeing from the outset.
+
+“Sounds perfect. Alright, let’s get started. I’m setting up a talisman design company and corresponding storefront. Realistically the second aspect will be… well, secondary, but I do want at least one. Everyone needs a storefront.”
+
+Waving, one of the Tier 44’s dismissed his concerns. “We could have a storefront remolded and restaffed faster than you could fly to the location. That part is easy, Chosen Titan. The development, not so much, or we’d be doing that. As for help, that comes down to an all important question. Are you looking for primary inventors or secondary assistants?”
+
+“Assistants. I’ll be doing the research, so I need the testers who can help me get from the design phase to something anyone can make.”
+
+“That makes it even easier, Chosen Titan. We have applicants of every type but inventors never stay on the market.” The civility ended as the Tier 44 continued with a harder expression. “However, before I do begin, I want to point out a difference in Corporation contracts and what you might be used to. I would appreciate you hearing me out.”
+
+After Quill’s wave, the CEO pulled out several dozens sheets of paper and smacked the stack on the table with a light tap. “A typical Empire employment contract. Now, let us compare that to a typical Corporation one.”
+
+The second pile of papers looked more like a deranged dictionary but Quill indicated he understood, allowing the demonstration to conclude.
+
+“While these contracts may feel overly restrictive compared to what you are used to, please don’t try to control the details. You can tell you how competitive or restrictive you desire to make your contracts but please let us handle the specifics. Many foreign clients try to make changes they see as beneficial but make them pariahs to the truly skilled. These employment contracts are exactly that. Contracts and negotiations between both sides. Let us handle that.”
+
+Unwilling to dig his heels in on something like that, he agreed. “I have no problem with that. I intend to be generous but as I’ve been warned, I’m not running a charity.”
+
+Every Corporation cultivator in the room looked bemused at the idea of a charity, but no one commented, treating it as a throwaway joke.
+
+Quill had expected a lot from the one of the best Corporations to survive JR’s financial investigations but was still thoroughly impressed. They already had thousands of qualified talisman designers between Tier 15 and 30 who they believed would be good fits to work with him based on his known personality traits.
+
+There was a slight mismatch thanks to his name removal but he wasn’t about to share such a secret with a stranger.
+
+Seeing the most expensive contract with a total remuneration almost three times that of any other, Quill halted his skimming, stopping to inspect the profile.
+
+He only needed to raise a single eyebrow for one of the Tier 44s to jump in. “Mr. Iglesias is something of a unique case and one of our star applicants. His talismanic ability is the worst we have seen in thousands of years. Even as a Tier 21, he struggles to learn even the simplest talismans of any Tier and everything he learns is from the ground up every time. That makes him a perfect final product tester. Judging by how quickly he picks up a talisman, you can easily see if a product is market viable. His services are always in high demand, which is why his costs are so high and why he has the subcontracting clause. During his off time, he’s known to sell his services, though he’s never had a single complaint from either permanent or temporary employers. In fact his contract is only available because his former Corporation was dissolved and truthfully speaking, he won’t remain unemployed for much longer.”
+
+Quill had never considered someone turning their lack of ability into their greatest selling point but he was impressed by the portfolio. Enzo Iglesias hadn’t exactly risen from the bottom of society as the child of two Tier 15’s, but he did rise from the bottom of the talismanic arts.
+
+At every step of his path, Enzo struggled. Where a genius might learn a new talisman in ten attempts and an ordinary person might learn in fifty, it would take Enzo two hundred attempts to succeed. Rather than giving up, he advanced his cultivation while slowly bringing his skills up to par, intentionally slowing himself down as much as possible. At Tier 15 and reaching immortality, he’d started gating his progress by his talisman crafting skills, only allowing himself to Tier up once he’d reached an adequate level of proficiency at his Tier of talismans.
+
+It made his progress agonizingly slow, but six Tier later, Enzo’s services were fought over by the same companies that wouldn’t have looked at his resume before.
+
+Adding him to the list, Quill grabbed a small team of five, covering the range of Tier 15 to Tier 28. He might end up needing something at a higher Tier but he intended to focus most of his attention at the lower Tiers, which would be easier than trying to design up.
+
+Management staff were even easier to hire because Quill didn’t particularly care. He needed competence but didn’t need or expect loyalty given his short two decades in the Corporations.
+
+And the contracts made that very clear.
+
+With far stricter clauses and expectations on both sides than would have been allowed in the Empire, he had little worries of anyone doing anything wrong in that little time. Unlike the Empire, Corporation contracts for in demand positions came with all of the performance expectations codified and laid out.
+
+Quill looked them over but could only say he was glad he was the employer rather than the employee. He wouldn’t call things exploitative exactly, because both sides knew what they were getting into, but no one should be allowed to dictate how often or frequently employees were allowed and-or required to smile.
+
+His only solace was to learn such behavioral stipulations often came with incredibly steep compensation.
+
+Playing with the calculators, Quill changed his stance. He’d also be smiling every second of every day at work if someone was willing to eat the costs to demand constant smiling. That theoretical employee would only need a livestream of their bank account projected in their view at all times to satisfy the requirement.
+
+JR’s words ‘anything was for sale’ had never been made clearer, but Quill didn’t miss the darker side. He was seeing contracts from the perspective of the employer trying to hire candidates that were being actively fought over.
+
+How much worse were the contracts for the average person?
+
+Checking, he got his answer.
+
+Worse. Much worse in fact, but not to the degree he’d feared and so he finalized his contract with the recruiting agency.
+
+Best of all, the help he truly wanted arrived the next day. Researchers wasn’t exactly the name Blake would have given them, but Quill appreciated it. Corporate spies would have been a more accurate description but no matter what they were called, they were very good at their jobs.
+
+It only took them two days to piece together currently in production harmonization talismans ink recipes with overlapping and common ingredients. By that time most of Quill’s Quality Quintessentials’ staff had already settled in and his chief of staff had delivered him all the ingredients, along with the lists.
+
+Goods in hand through none of his own work, Quill sorted and inspected them happily. Then he followed the stolen recipes, making small batches of each ink to better understand its properties.
+
+There were only a few dozen harmonization talismans widely sold throughout the Corporation and a search proved the same was true in the Empire. A typical harmonization talisman's use case was to make two objects that were otherwise unstable, stable.
+
+There were other use cases for harmonization runes, many even, but disposable talismans weren’t the preferred application method and permanent enchantments didn’t require inks, which meant they weren’t helpful to him. Adding resonance aura into the mixes, he tried creating a few tracking talismans with the new inks but failed every time.
+
+Unbothered, he tried creating a harmonization talisman with the resonance aura ink.
+
+It worked, to his bafflement, but he wasn’t able to identify any noticeable power increase between it and an untampered version. Or why the combination worked at all, but he didn’t dwell.
+
+Going back to the drawing board, he played with the ingredients, trying to find something, anything, he thought had a chance of working. Dozens of plants entered his workshop pristine every hour, only to exit trimmed and battle scarred.
+
+Being incredibly valuable plants in their own rights, they’d be returned to be resold to the supplier, who would nurture the plant back to full heath, where they’d repeat the process. According to the staff member doing the transport, it was a typical hobbyist method of making money.
+
+While Quill's first two weeks of effort weren’t successful, they weren’t without any results. He’d actually found a material that seemed to bind well with the resonance aura.
+
+Ground mica seemed to hold the resonance aura in the ink. The effect was barely noticeable, but he’d have never tested it without knowing it was a common secondary ingredient in harmonization talismans. The ground up silicate and aura also gave any talismans painted with it a glimmering effect, but he didn’t hate it.
+
+In fact, it made them stand out enough, Quill hoped it remained a useful additive if the talisman ever made it into production. It wasn’t the breakthrough he’d hoped it might be but he remained unbothered.
+
+Circling back to the runes, Quill started approaching the problem from a harmonization angle, where he quickly ran into a problem.
+
+Typical blood tracking talismans worked by locking onto the core connecting ingredient: the monster blood. If the blood wasn’t used in the ink, it needed to be applied post-creation.
+
+That complicated things from a design perspective but simplified it from a use one. Ideally a drop of monster blood could be applied to the outside, both activating the talisman and triggering the resonance aura all at once.
+
+He just needed a way to link the two. After two more days, he got tired of slamming his head into the wall and went to find a blood expert.
+
+Thankfully, he’d married one.

@@ -1,0 +1,161 @@
+---
+id: ba1f855a-f492-5978-8e49-f280f80fd76f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1278 - A Way (B)etter Jake"
+slug: 0151-chapter-1278-a-way-b-etter-jake
+partOf: the-primal-hunter
+position: 151
+ownLength: 2890
+unit: words
+ownProgress: 2890
+publishedAt: 2026-03-24
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3188372/chapter-1278-a-way-better-jake"
+royalRoadId: "3188372"
+markedReadAt: "2026-06-29T19:35:04.549Z"
+---
+
+Jake reveled in the euphoric sensation of suddenly experiencing an extreme growth in power, and the feeling of the winds hitting his face as he shot upwards only broadened his smile further.
+
+Far in the distance, he saw the moon, and without even trying, he could easily see its surface. When he focused, he could even spot individual rocks and signs of dust being thrown about here and there from whatever Arnold was doing inside the celestial object. There were signs it was now inhabited, not least the defensive formation that covered the moon.
+
+From what Jake knew, it wasn’t a super high-level one, just a formation capable of keeping the random meteor out while granting Arnold – or perhaps more accurately, whatever monitor system he developed – knowledge of anything and everything going on within.
+
+After Jake passed through the atmosphere and entered space properly, he truly let loose and began to do some small tests for himself. He allowed his senses to fully spread and even expanded his Sphere of Perception a little, finding it a bit less overwhelming than while on the ground, as there was less stimuli, though in truth, it wasn’t much better even in space.
+
+Space appeared empty, but it really was far from being so. Sure, there was nothing physical, but Jake’s Sphere also picked up energies, and space was full of that. Moreover, as Jake focused on his surroundings, he began to feel the familiar sensation once more that came when he used One Step.
+
+Actually using One Step, this sensation only grew stronger, and Jake immediately knew what he was feeling.
+
+Concept of space… no, not just space.
+
+Jake couldn’t quite describe it, but he felt as if there was something everywhere around him that he could vaguely detect, but not quite interact with. He could already detect affinities before, and with there being plenty of mana all around him, he could naturally already detect the space-affinity mana and whatnot, but he couldn’t detect the concepts this easily before. He knew they were there, but knowing something and feeling it were two very different things, especially to someone like Jake.
+
+He didn’t know if this newfound increased ability to detect concepts was only due to his B-grade evolution or if it was caused by his Perception getting a massive increase, but if he had to guess, he would say it was the first one. It wasn’t that different from how he learned to detect mana all the way back in the Tutorial, and later learned to distinguish and feel affinities. This was just another layer of complexity on top of that, and it wouldn’t be weird if B-grade was when everyone started to detect concepts naturally.
+
+In S-grade, he knew that everyone knew how to do things like teleportation, and some level of time manipulation was also just something everyone could do. He suspected this had a lot to do not only with the increase in power but also with a natural increase in one’s ability to detect and comprehend concepts.
+
+More to talk about with Villy later. For now, he had one skill he wanted to test above all else.
+
+Slowing his flight for a moment, Jake stopped and floated there as he looked toward the moon. Taking a deep breath, Jake activated his new class skill. Immediately, Jake felt his vision clear up, and before, and he actively felt his Perception experience a massive increase. The stones on the moon suddenly got detail as he could see the individual cracks in them, but Sight of the Boundless Horizon did far more than merely increase his eyesight.
+
+His sensation of surrounding concepts spiked instantly, and even things like his Sense of the Malefic Viper were affected as Jake suddenly felt a powerful response from… the closest planet to Earth, towards the sun, was called Venus, right? Jake tended to mix up Mercury and Venus, but he was pretty sure the closer one to Earth was Venus.
+
+Either way, there was some potent, toxic natural treasure there, and he would have to check it out at some point.
+
+Exploring the effect on his other senses, Jake knew that his hearing, smell, and other such things had also improved, though it wasn’t super easy to tell, being in space and all. The most notable effects could definitely be seen with his eyesight and supernatural senses.
+
+As the seconds ticked by, Jake also took proper note of the skill’s effect on his body. As it had been mentioned in the description, using Sight hampered his defensive stats a lot, and that really wasn’t an understatement. Jake had hoped that after his evolution, he would be a bit more durable, but while using Sight of the Boundless Horizon, he definitely turned into a glass cannon. He couldn’t tell exactly how much it reduced his defenses, but it was definitely by more than half.
+
+Seeing as that was the case, one would naturally conclude that one should avoid using Sight while in direct combat due to how risky it was… but Jake thought differently. Even if his defenses were lowered, his physical prowess otherwise remained the same, and he could still move as well, if not slightly better, while using Sight.
+
+Would it be devastating if he were actually hit while using the skill? Sure, but that was easily addressed by just not getting hit. Jake was very confident when it came to dodging, so he could definitely see himself using it even while in melee.
+
+Not for too long, though, as he soon started to feel the strain on his soul. As a final test, Jake looked toward the moon again, trying something. Narrowing his eyes and focusing, Jake glared at the rocky surface of the moon for a few moments, until he suddenly felt like he saw something move. Focusing more on those movements, he followed them and saw what appeared to be silhouettes moving beneath the surface of the celestial object.
+
+It didn’t take him long to put together what they were. Drones were operating a few dozen meters down, digging tunnels for cables from the looks of it. Jake couldn’t see many details, but he definitely saw them moving, making him grin.
+
+Not quite X-ray vision, but not that far off.
+
+Jake considered whether this came from the part of the skill about perceiving things beyond regular limitations, but again, it could just be an effect of extremely high Perception.
+
+Having done his tests for now, Jake deactivated Sight of the Boundless Horizon, wondering if any kind of weakness would follow. After stopping the skill, his Perception immediately returned to normal, and over the next five or so seconds, he felt his body and soul become tougher, until everything was back to normal again.
+
+No weakness lingered, and Jake couldn’t even feel any sense of weakness from his soul. Perhaps things were different when Jake used Sight alongside Arcane Awakening, but for now, it looked like the decreased durability resulted in Jake not really experiencing any drawbacks as long as he didn’t go overboard using his new shiny skill.
+
+He still had a lot of tests to do, including how the skill worked with Primal Gaze and especially Event Horizon, but he needed to fight something to do that, and currently, there weren’t any volunteers.
+
+Feeling pretty good about things so far, Jake continued his flight toward the moon, though soon, he switched to using One Step, also taking the chance to try to glean any inspiration from the concept of space.
+
+At the same time, Jake also quickly took stock of one more thing as he briefly checked how his stats had developed after his evolution.
+
+Status
+
+Name: Jake Thayne
+
+Race: [Human (B) – 349 --> 354]
+
+Class: [Arcane Hunter of the Boundless Horizon – 349 --> 350]
+
+Profession: [Primeval Alchemist of Malefic Origins – 349 --> 359]
+
+Health Points (HP): 414,087/414,087 --> 591,900/591,900
+
+Mana Points (MP): 687,111/699,718 --> 954,359/954,359
+
+Stamina: 302,099/387,675 --> 534,337/534,337
+
+Stats
+
+Strength: 45477 --> 57736
+
+Agility: 56146 --> 69709
+
+Endurance: 31014 --> 42747
+
+Vitality: 33127 --> 47352
+
+Toughness: 26510 --> 39037
+
+Wisdom: 44782 --> 61079
+
+Intelligence: 36288 --> 48302
+
+Perception: 80740 --> 100,779
+
+Willpower: 40790 --> 56012
+
+Free points: 0 --> 2050
+
+--
+
+Jake saw no reason to also check his skills as he’d just gone over all the new additions and changes there anyway, and besides, there was enough to unpack here. Across the board, Jake had gained a massive increase in stats, gaining more than ten thousand in every single one. Due to the growth mainly being universal, as it came from bonuses to all stats, both in the form of pure stats and a percentage increase from Primal Spirit of Man, even the ones that had started to fall behind had caught up a lot. Toughness and Vitality especially felt like they’d improved a lot, helping Jake’s durability issue even more. Again, Jake was never going to be a frontline tank, but it felt good to no longer be overly squishy... when he wasn’t using Sight, that is.
+
+Perception had by far gained the most growth, no doubt due to his Bloodline evolving, granting him that extra five percentage points bonus. It had allowed him to crack 100,000 Perception, not only making Jake feel great about that, but also showing him that, for stats, commas started appearing in their numbers once it got to six digits. Not that Jake actually thought the system did things like that, but more likely than not, it had appeared because Jake himself thought it would look wrong without a comma.
+
+Moving on, Jake still had a lot of Free Points to invest, as well as a void lollipop to lick for more stats. For now, he’d decided to delay allocating the Free Points, though. He wasn’t about to enter a fight or craft anything, and he wanted to see if he felt like any of his stats were lacking after testing himself out a little.
+
+He did look a bit sideways at his Intelligence stat, wondering if that could become a problem. His new class didn’t give much Intelligence, and his profession didn’t give any, the Intelligence having effectively been traded for Perception, so maybe he wanted to put in some Free Points here and there. He wasn’t sure, though, as he was starting to doubt how useful the stat even was for Jake outside of his freeform magic, as more and more of his offensive skills had started scaling nicely with Perception.
+
+Lots to think about.
+
+Another thing Jake noticed in his stats was that many of them were... missing. He had to double-check his Primal Spirit of Man as something felt off, but doing so only made him frown more.
+
+“While not wearing adequate equipment that provides you with all the stats your soul can bear, you automatically make up the difference through slightly increased passive energy consumption, prioritizing physical stats.”
+
+Jake wasn’t sure why, but he had expected to see this skill reflected on his status menu. When he tried to feel for its effects, Jake instantly knew it was working as intended, and in reality, his physical stats were actually substantially higher than his status menu said. His Strength and Agility were, as an example, both around 7000 stats higher from Primal Spirit of Man making up for Jake’s lack of proper equipment. In total, Primal Spirit of Man gave Jake more than 50,000 stats currently. That was roughly a 10% increase in his total stats. Jake also noted that Strength, Agility, Endurance, Toughness, and Vitality seemed to take priority, as all had increased by the maximum 20% one could get from equipment.
+
+As the skill said, it prioritized physical stats, so all these being maxed out was only to be expected. Unfortunately, when it came to the mental stats, Primal Spirit of Man spread out the remaining bonus equally among Willpower, Wisdom, Intelligence, and Perception. At least it did so by percentages, meaning that he still got more than 10,000 Perception.
+
+Really, the more Jake considered the Primal Spirit of Man skill, the more utterly broken it seemed. The fact that Jake could effectively get 50,000 stats simply by consuming a bit of extra stamina passively was stupidly insane. Sure, it was only possible because those stats were freely available, should he manage to get proper equipment, but still. The mere fact that Jake didn’t even have to think about getting stuff with a stupid number of stats on them anymore was awesome.
+
+Granted, these stats given by Primal Spirit of Man were perhaps a bit unoptimized if Jake wanted to fully focus on archery, as getting the maximum 20% in Perception would be better than Toughness and Vitality, but considering Jake had already resigned himself to never fully capping out his available stats from equipment, this was definitely better. Who would have thought that something was better than nothing?
+
+Closing down his status menu, Jake refocused on his travels as he rapidly made his way towards the moon. Traveling in space was always a lot faster than on a planet, as there was less stuff causing friction, allowing him to continually accelerate as he pushed his speed through a mixture of running with One Step and flying.
+
+He continued doing small experiments along the way, and as he approached the moon, Jake estimated that, post-evolution, he was at least twice, if not two-and-a-half times, as strong as before. Evolutions were not only a windfall of stats but also a qualitative upgrade to all the stats he already had, after all.
+
+Having arrived at the moon, Jake effortlessly passed through the formation Arnold had made, finding himself unimpeded as it wasn’t made to keep people out. At least not yet.
+
+The moment he passed through, he felt several dozen entities become aware of his presence and lock on to his location, but after confirming who he was, most disappeared, leaving only two.
+
+Landing on the moon, Jake already saw a tunnel leading into the vast cave network through his now far larger sphere. All the entrances into the moon’s interior were covered up with physical barriers already, but as Jake approached one of the large shutters, it opened, allowing him to walk inside.
+
+”At the core,” the voice of Arnold echoed from seemingly everywhere yet nowhere at once.
+
+Jake nodded as he looked around, finding himself in the bare cavern with no sign of Arnold’s presence besides the shutter that had allowed him in and a few wires running to it from somewhere deeper within the moon. He looked around a bit but quickly began making his way further inside.
+
+The further in he got, the more signs of Arnold he began to see as drones moved about here and there, and when he approached closer to the core room, he spotted a massive factory through his sphere in a cavern that Arnold had hollowed out into a big rectangular shape and reinforced with metal walls.
+
+He saw more and more things like this, which really hammered home how scary Arnold was. It hadn’t even been that long since he’d taken up the moon as his new primary residence, yet he had already done so much construction. By the time he was done, Jake wouldn’t be surprised if the entire moon was just one big metal sphere filled with factories inside and powered by the core.
+
+As Jake approached the core room, he noticed that Arnold had done much to terraform the surrounding tunnels. There used to be several ways into the core room, but now there was only one way through a large hallway filled with gates and defenses. Just seeing these defenses, Jake immediately knew that Arnold had definitely also evolved to B-grade, as if he were still a mere C-grade hunter, he wouldn’t be confident making his way through all the defenses the mad scientist had set up.
+
+A small part of him wanted to test out what Arnold had set up, but Jake decided to be polite and just floated through the hallway, all the doors open and different traps and other defenses inactive.
+
+Arnold had unsurprisingly made the massive core room into his main laboratory, and through his sphere, Jake saw the very impressive setup the scientist had made. The core was covered in a sphere of metal with several dozen wires leading out of it, and the entire room was filled from top to bottom with electronics and several ongoing experiments that were slightly unsettling to look at, even through his sphere. Granted, Jake could only look at them through his sphere, not with his eyes, as they were all covered in cubes of thick metal to contain whatever was going on inside, but that wasn’t the point.
+
+Inside the laboratory, a wave of dense energy assaulted Jake. The mana at the core was far more potent than anywhere else, to the level where Jake doubted D-grades could even survive there. He looked around curiously as he walked toward where Arnold was sitting in a chair, tinkering with what looked like a weird pyramid.
+
+When he finally turned a corner and spotted the scientist, Jake’s eyes opened in surprise at the sight of the man.
+
+Seems like I’m not the only one with a variant race.

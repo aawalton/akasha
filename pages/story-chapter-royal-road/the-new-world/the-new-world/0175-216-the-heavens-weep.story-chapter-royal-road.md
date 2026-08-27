@@ -1,0 +1,161 @@
+---
+id: ac678051-5528-5f18-84a9-438ba23a6cda
+page-type-slug: story-chapter-royal-road
+title: "216 The Heavens Weep"
+slug: 0175-216-the-heavens-weep
+partOf: the-new-world
+position: 175
+ownLength: 2254
+unit: words
+ownProgress: 2254
+publishedAt: 2019-07-13
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/381635/216-the-heavens-weep"
+royalRoadId: "381635"
+markedReadAt: "2026-06-29T21:26:52.763Z"
+---
+
+I turned towards the Overseer, "We're going to need your help."
+
+The Overseer nodded while lifting his hand overhead. He pinched his fingers together, a pulse of energy passing through the dirt. Light leaked onto us from above while I glanced up. He punched a hole through the rock in an instant. It was strange since the antimagic field had zero effect on him.
+
+Hmm, he might be using tech instead of magic. For some reason, I never even considered that. In fact, using tech and magic would diversify an Overseer's arsenal, making antimagic zones like this less potent.
+
+I didn't have time ponder though. I followed his lead, jumping over the hole in the orichalcum. Once out of the mana obstructing area, I lifted everyone with a gravitational vortex. It jerked us all up along with anyone else who came into the circle. The Overseer shouted beneath us, his metal voice absolute,
+
+"Breakers, follow me. Send Sentinels to Rivaria."
+
+We didn't wait for a reply as we flew up to the surface. Glancing down, I found some poor sap being eaten by one of the organ caterpillars. Bloated and deformed, it was difficult to even make out the face of the guy. I'd put him out of his misery if I had time. From what I could tell, those organ sacks could keep their victims alive for days.
+
+I didn't have time to help the poor guy out, however.
+
+The Overseer channeled some mana before pressing his fingertips together. As he pulled them apart, a warp in space-time appeared, Rivaria and the mountain popped up in the portal.
+
+A crisp wind brushed against my face from the opening. As I glanced into it, a frozen tundra replaced the once vibrant forests. It was ground zero; nothing was left alive within dozens of miles near the battle site. Well, no normal life at least.
+
+The sheer scale of the battle made the inklings of fear crawl up my spine. Further cementing that suspicion, a cataclysmic explosion radiated out from the mountainside. Dozens of miles from the epicenter, the rippling echo roared out from Rivaria's mountaintop. Within the clouds, a snowstorm brewed. Pillars of azure ice created new geography around the entire expanse.
+
+Flashes of blue light brightened these clouds as if suns were forming within. Each illumination exposed the shadow of giant wings looming over the shattered city. They were beyond enormous, dwarfing any living creature I'd ever seen.
+
+The Overseer seethed out, "Helios isn't to be underestimated. This is a threat to my entire sector."
+
+The Overseer turned to us, finding several Breakers and two Speakers waiting for his call. They wore variants of power armor, their faces hidden behind blue-tinted face masks. Some channeled mana while others used energy weapons. A few of them jumped on their feet and stretched. This must have been their first battle in a long while. I couldn't tell if that was a good or bad thing.
+
+Understanding they needed time to get ready, the Overseer turned to all of us, "Prepare yourselves. I'll be dropping us down several miles from the point of contact. Be ready for heavy resistance near the peak of the mountain where the ice collects. We will leave in five minutes."
+
+He turned to me, "Say what you must say before leaving. Several of us might die here."
+
+I gave him a quick nod before jogging up to Althea. As I reached her, she jumped into my arms, and I spun her around in circles. She laughed a bit before I gave her a light squeeze. As I set her down, I smiled too and for her,
+
+"Hey, it's amazing to see you again."
+
+She let out a sigh of relief, "Same here, though you're a bit taller again. Hmm, maybe I'm just shorter?"
+
+A lull happened for a few seconds, the atmosphere growing awkward. I snapped my fingers, "That reminds me..."
+
+I checked my status for a brief moment, investing all my points into endurance. I wasn't about to invest into constitution until my next armor evolution. Considering my armor evolutions tended to be big power spikes, getting it sooner was better for my immediate power. Besides, I had less than a day before it finished.
+
+It wouldn't happen in time or during this fight though, but every second counted. Once that was handled, I turned to Althea, "Sorry about that. Had to clean up my status."
+
+She frowned, glancing above my head, "Dammit. You outlevel me again. Scientists don't give the same kind of points as evil toasters do they?"
+
+I gasped in disbelief, "Wait...toasters?"
+
+She waved a hand, "Pff, that's pretty much what you fought."
+
+I spread out my arms, "Wait a minute. Hybrids are not evil toasters. They're horrific monsters."
+
+Althea glanced at her nails, "Eh, seem like toasters to me."
+
+I rolled my eyes before Althea giggled. I deadpanned, "Looks like you still have your sense of humor."
+
+She locked her hands behind her back while meeting my eye,
+
+"Yup."
+
+I pulled one of the last shreds of my Gray Giant disguise off my leg, my last extra set left in tatters. I turned to her,
+
+"On a different note, why did you let yourself get captured? Seemed risky."
+
+She took a deep breath, "Uh, there's more than to that then you'd think. When the award ceremony started, I launched myself right at Thisbey. Dozens of guards reacted, but I, yenno, sliced them up. Anyways, after all that, those mind guys used some mental wave attack on me."
+
+She shivered, "It crippled me, and that's when they captured me using some flash of magic. They put me in that containment capsule before taking me to the prison outside Yildraza. I didn't fight my way out because the mages quit attacking me. Once I was in there."
+
+I nodded, "Ah, so you tricked the mind mages into releasing you. Smart."
+
+She banged her helmet, "That and I could move because your armor is resistant to the time mumbo jumbo. You really thought ahead with that one."
+
+I grinned, "I try."
+
+"Here's the thing though. I still didn't know how I was going to escape."
+
+Althea kicked a saysha beetle away from her, "While I was trapped, it gave me time to think. They took me to the center of that facility before Thisbey told me how they were using me as bait. I thought to myself, 'Wait a minute. They're bringing Daniel right here? They don't know that I'm not stuck here. This is a golden opportunity.'"
+
+Althea smashed a beetle under her heel, "So then you came, and we kicked their asses. To be honest, I didn't think you'd stay calm enough for the plan to work. I thought you'd just kill Thisbey immediately and ruin my scheme."
+
+I raised an eyebrow, "What did you intend to do then?"
+
+I figured I'd wait a few more hours before running out of that place if you didn't show up. I had an escape route planned out and everything. Everything ended up working out better then I thought it would."
+
+"Come on. Cut me some slack. I know I'm not subtle but-"
+
+Althea rolled her eyes, "Daniel, look at your track record. They say history repeats itself. At this point, I can say you punching and asking questions later is a part of history."
+
+I flicked a beetle off my shoulder, "Way to inspire some confidence."
+
+She grinned, "I try."
+
+The Overseer glared down at us, "Are you two ready then or does chatting take precedence?"
+
+I waved off his concern, "Will getting tense help us fight better? I doubt it. Besides, I don't want all my adrenaline drained before the battle."
+
+Althea pursed her lips at me, "Do you still have adrenaline?"
+
+I cupped my chin, "Huh...good question."
+
+Moved his head in an arc, and I was sure he was rolling his eyes under his helmet. He paced beside the portal, standing above the crowd. He pointed at it,
+
+"This is a threat to Schema's authority, a being controlled by heretics. They will be burned as all things that defy Schema will be. Today, we will act as the instruments that enact his destructive will."
+
+The Overseer raised a fist, "Our footsteps will quake the ground we walk upon. Our flight will shift the skies we cross through. As pathfinders, we will traverse the unknown, yet our wake will be one of ruin. Are you all ready?"
+
+His speech was pretty solid, so I stiffened up along with everyone else. In my mind, I quashed any doubts, hesitations, and worries. This would be the make it or break it moment for Giess. A planet rested on the result of this battle, and I had a say-so in its outcome.
+
+The others mirrored my somber approach. The Overseer kept his hands loose, his breaths deep and calm. Althea did the opposite, shaking her head and jumping to get herself amped up. From her dimensional storage, she pulled several canisters of chemicals out. She put them along her back, whipping out some body reformation to do so.
+
+Once finished, she clamped her teeth and clenched her hands. I charged a singularity in my blood, the process far less time consuming than it had once been. My the runes over my skin glowed bright, amplifying my strength further. The runic work across my back and arms glowed a dull red before my armor smiled.
+
+It was time.
+
+The stepped through the portal, snow crunching under his feet. We followed along with the Speakers and Breakers. With Rivaria out in the distance, I created a gravitational vortex to lift us up. We floated above the ice-ridden surface, and I carried us to the mountain.
+
+Once near the peak, the giant beast was hidden amongst the clouds. A gurgling growl pierced my ears like stepping on a rusty nail. The wind howled like an angry banshee. We all stayed silent, our eyes peeled for the enemy to appear.
+
+In a swooping motion, a pair of wings flapped, a wave of wind blowing the clouds away from the city. Helios stood on a column of purple ice, blood dripping down one of his arms. It hung loose in its socket, dislocated and limp. A piece of his mask was missing, exposing an eye. The vertical slit was like that of a lion, yet it was pale blue and cloudy.
+
+Helios was blind.
+
+Around him, a blue aura radiated. The air pressure shifted, creating a constant mist falling from his feet. His gauntlets glowed the color of a blue star, the runes crackling the air around him for mana. In a way, it was ironic to see someone with the name of a sun god embody ice so well.
+
+Helios still stood tall with pride despite his injuries. At his sides, two Sentinels stood beside him, their blue armor crackling like thunder. The violet blades carried arcane energies, the hum violent and hungry. Along their face, three lines shined a deep blue, their dense, sky blue armor gleaming.
+
+They carried scars from the conflict. Deep crevices embedded their blue plate mail. Several open patches of skin showed themselves under there armor. I expected to see circuitry, but the Sentinels had a familiar, violet skin. From several cuts, they bled red blood like us mortals.
+
+Flying near them, Chrona Carsiary kept a temporal dilation field around herself. She darted around, taking the frozen bodies of several Gialgathens away from the battle. Krog was alive as well, mustering several gialgathens to regrouping for some sort of counter-attack further behind the rest.
+
+These forces didn't demand my attention like the figure above all others. At the peak of Rivaria, a living sun spread its wings and cast shadows to the horizons and further beyond. Its mythical skin gleamed with the radiance of stars. Crystalized mana covered much of its frame, giving it a golden glow. Its eyes were colored the same as ancient amber, several lifetimes of memories hidden within them. It was the closest thing to a god I'd seen.
+
+Around the beast, a holy aura cascaded, bathing its surroundings in light. At the same time, sinister edges exposed what ingrained itself beneath the surface. Pulsing, orange lines streaked beneath its skin like magma pumped in its veins. Around its joints, wires and cords shifted. Hybrid technology ingrained throughout its body.
+
+The beast heaved for breath, unable to live a second in comfort. Despite this, the creature exuded a limitless vitality, mana flooding its frame at all moments. Even my mana generation could not rival the sheer magnitude of this being. Neither could Yawm, nor Helios. We paled in comparison.
+
+Beneath one of its mighty feet, the smattered corpse of Sheom was splayed out. Sheom's entrails covered its foot as it lifted the limb and slung the gunk from its body.
+
+It glared down at all of us right after, disdain, boredom, and pity spread across its face. The beast breathed out towards the clouds, a shining fire nuclear in nature. Explosive pulses spread across the heavens in a display of overwhelming power. Waves of radiation spilled out. The air heated and rose above, the world cast in a blur from the heat around us.
+
+As the ice storm receded, the beast glared down,
+
+"Others have come. Others will fall. I am the end of all resistance and the beginning of the new epoch."
+
+With a telepathic wave across the entire region, it proclaimed,
+
+"I am Lehesion."

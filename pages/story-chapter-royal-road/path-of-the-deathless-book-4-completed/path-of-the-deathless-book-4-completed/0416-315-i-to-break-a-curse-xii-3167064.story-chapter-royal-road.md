@@ -1,0 +1,235 @@
+---
+id: b9eda6d9-5cd4-5cdb-898c-1032b1676a35
+page-type-slug: story-chapter-royal-road
+title: "315 (I) To Break a Curse [XII]"
+slug: 0416-315-i-to-break-a-curse-xii-3167064
+partOf: path-of-the-deathless-book-4-completed
+position: 416
+ownLength: 3882
+unit: words
+publishedAt: 2026-03-18
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3167064/315-i-to-break-a-curse-xii"
+royalRoadId: "3167064"
+---
+
+It is not impossible to steal a rule that doesn't belong to you. The Fae do it all the time. In fact, they view it as a means of entertainment and advancement. A pauper can become a proper fool and win the Court’s favor. A knight can ascend from a hedge blade to a guardian of a prince or princess, king or queen. And even the Noblesse of the Fairwoods have room to grow. That's why they battle. That's why the seasons struggle against one another. Because absolute dominion, given ever so briefly, is a drug few can resist.
+
+But these positions have to be stolen, cannot be gained or granted. There are no more spots in the great play of the Fairwoods. Every new Fae who is created in the realm finds themselves forced to inhabit a new role. One previously unoccupied. This accords itself with how new Fae are created: excess mana brought in from invaders (most often Fairwalkers) is eventually internalized by the Fairwoods, and when that is done, the new energies are bestowed upon a fresh inhabitant—created at random by the Fair Lore’s hand.
+
+Such is why so few Fae are “born.” Because there's simply not enough excess ambient matter to go around. Everything has been used to capacity. The Fairwoods are not designed to continue pursuing a new apex. They are designed for a perpetual equilibrium, an endless cycle.
+
+And since you've gone this far, yes, I will address that inevitable question that all true immortality seekers ask: You can steal the role of one of the Fae. You, a Patternist, can assume the position of one of the Fairest. But that is not an escape. That is a new prison. Do not delude yourself. The longer you hold the role, the more you will lose yourself. The more the Fairest will creep back into you, until the changing of the cycle, where you find yourself utterly replaced. Dead, in the simplest of terms, and the Fae you were pretending to be will return like they never left.
+
+The System is not a fan of changing actors mid-scene. Best to remember that.
+
+—Fairest of Them All
+
+315 (I)
+
+To Break a Curse [XII]
+
+The sheer number of Pathbearers in the Prismatic Guard kept taking Shiv by surprise.
+
+The moment he stepped out from the surface Gateway, he found himself surrounded by a sea of organic signatures. There were thousands of the bastards, with more teleporting in. The Jump Magi weren't bringing them through team by team, either. It was entire regiments being deployed as huge chasms of Dimensionality opened cliffs in space, allowing the Guard to flood through. The Republic had the gateway completely surrounded. Dense columns formed from a complicated spell pattern and varied mana types burst free from the soil and curved across the sky, forming the bars to a magical cage that engulfed the gateway. There were barriers underground as well. Though Shiv couldn't see them, he could feel them. His Biomancy was repelled with an explosive blast the moment it dipped a meter beneath the earth.
+
+That left only fifty meters of free space around the gateway.
+
+Rippling waves of Dimensionality washed through the air. Though Shiv's Portomancy was weak, and he lacked all technical knowledge with regard to the duties of a Jump Mage, even he could feel the spatial repression choking the atmosphere. The Republic's forces might be able to teleport in and out of the area, but no one else was supposed to.
+
+Between the magical pillars, Shiv could see four colossal airships gliding through the sky. They resembled the Inquisition airship that Havel had commandeered for his raid on Blackedge. That meant they were evolved automata rather than pure vehicles. Their insides scintillated with additional life signs, and Shiv focused on a few, hopping between the perspectives of the passengers as he gleaned the airships’ interiors. Flashes of heavily armed Pathbearers forming up in hangars and readying themselves for landing greeted Shiv's Awareness. Then he skipped a little bit further as his Atlas of the Flesh Scryer placed him in the perspective of someone setting up an artillery position.
+
+Shiv let out a low whistle. “I don't really have the highest opinion of the Republic, but I gotta say their logistics are insane. Setting up an entire army in less than an hour is a logistical thing, right, Adam?”
+
+“Indeed, it is.” Adam's Psychomantic reply came with a sour note.
+
+It was understandable. Even if the Ascendants were false gods demented by a power that they were unworthy of, the Prismatic Guard was still a foe to behold. A curious thought itched inside Shiv. He wondered how much of this army he could kill before they brought him down. If things go badly, I might end up finding out.
+
+Heavy winds battered his body as whistles and horns blew above. However, the Republic mainly relied on Psychomancers to coordinate their formations—a curious thing considering Psychomancy was a restricted magical art. The closest of their Vanguard infantry was five hundred meters away. Their dragoons and riders hovered in the air well over a kilometer out, maintaining their distance from Shiv. Something told him they were briefed on his capabilities and knew he was primarily a close-quarters combatant.
+
+However, the few thousand fear chains that snaked out from the gathered forces and infused Shiv with greater power told him they weren’t actually looking for a fight.
+
+They knew enough about him to be scared. For the first time, he wondered what rumors had spread with his name. What his reputation among the martial Pathbearers was like.
+
+Shiv considered this as he casually opened his Sync-Letter in the direction of the Prismatic Guard. He aimed at the densest concentration of aerial soldiers; scattering their most mobile forces would delay them from reaching the Gate and twist the momentum in favor of the Orcs. Anticipating a potential battle, Adam and the Culturist had prepared the grayskins for emergency mobilization, and the Tutorial gateway, once tuned to the Fairwoods, was temporarily synchronized with the surface instead.
+
+Seconds passed. No deafening blast carved a cataclysmic path across the world. No Rhetoric deprived Shiv of a new body. A clashing mishmash between rattling armor, soaring mounts, flying Pathbearers, and distant klaxons thundering from the looming airships became a chaotic ambiance.
+
+Maybe I have to read the Sync-Letter for something to happen, Shiv guessed. Turning the notebook around, he prepared himself for Death.
+
+Instead, he got the following:
+
+To Legend-Deathless Shiv of Gate Piety (Formerly Blackedge):
+
+Though your actions and behavior at Maiden's Temple were undignified and savage, I do believe in your sincerity in the preservation of life. Perhaps not all lives, as you've declared my Inquisition your enemy, but the lives of the Republic's citizens and those you deem weaker than you.
+
+Whether your new "Partial Pacifism" is driven by a sense of honor, ethics, or general disinterest in harming the vulnerable, know that I acknowledge and appreciate your moderation of force. I understand that you likely could have inflicted a great deal more damage to the temple and the Republic. Additionally, I must confess that I expected a mass-scale attack when I first sensed you. The fact that you held yourself in restraint and chose to bargain is another merit to your person.
+
+To confess a personal worry, I would have been compelled to eliminate you at any cost if you had behaved more monstrously. Faint praise though it is, you stand beyond most of Udraal’s creations in terms of sanity and ethicality.
+
+He stopped reading for a beat as his Sage of the Enkindled Heart contained the warmth radiating through him. It took him a substantial effort to shrug off the artificially induced affection he suddenly felt toward Veronica.
+
+Sage of the Enkindled Heart: Her previous use of Rhetoric was vulgar and overwhelming. Now we face the subtle venom. Consider everything she makes you feel in detail. She doesn't need Psychomancy to make us betray ourselves.
+
+In response, Shiv created a new task for his Bifurcated Processing—turned his subconsciousness into a bystander to monitor any unexpected feelings burgeoning inside him—before continuing.
+
+Consequently, I am more willing to cooperate with you on certain mutual interests.
+
+I understand why you might be outraged and even driven to intervene when it comes to Daughter. The conditions of her divinity demand a great sacrifice. And though you might not believe it, she is a major bulwark for the Republic and the safety of its citizens.
+
+“What a load of bullshit,” Shiv grunted to himself. He stopped reading then and there and flipped to an empty page. Then he made a cut along one of his fingertips and quickly scribbled a rebuttal.
+
+To Veronica Chandler (Formerly who gives a shit):
+
+Yeah, you're right. I don't believe Daughter’s important for safety. In fact, I think you're full of shit and just don’t want to deal with her. I mean, you're literally sacrificing orphans to a psychotic murder goddess who can't even control herself at the best of times.
+
+I know Maiden is her mother, but other Ascendants have been forgotten before, and probably for the better. You should have cut your losses with this one a long time ago.
+
+Shiv closed up his wound and flipped back to Veronica's letter.
+
+But though we will remain in opposition to each other when it comes to the Inquisition's duties and the needs of our Ascendants, there are red lines that we are undoubtedly aligned on. You are able to perceive the Starhawk's folly, and you recognize the Great One for the danger they pose rather than some easy path to godhood that has led so many other Pathbearers astray.
+
+This means that, rough though you are, there is an inherent wisdom inside of you, one that I share.
+
+Shiv’s left eye twitched.
+
+Sage of the Enkindled Heart: Observe how she says "we". Observe how she tries to pull us closer, tugging on the familial line between us. Observe how she continuously frames our interests as one. Every emotion she inspires leads to further entrapment.
+
+That was true, but it still felt good to be regarded so highly. Especially by a True Legend—
+
+Bifurcated Processing struck him like a whip. His mind reeled as he regained his composure.
+
+Gardener of Doubt: But the emotions we felt were real. Is she amplifying them, or is she seeding them inside of us? So hard to tell. Both might be true… What is it about our humanity that makes us so desperate to betray ourselves…
+
+Despite this, the Republic cannot acquiesce to your request. You are still a public enemy, a great danger, one that must be secured or eliminated at any and all costs, lest a great calamity befall our world. There will be no embassy established within Gate Piety, and Gate Piety itself will not be regarded as an independent political entity, but rather a rogue state hijacked by traitors.
+
+That is the Republic's official position.
+
+Personally, we are afforded more flexibility.
+
+Sage of the Enkindled Heart: Observe the disgusting tactics one can employ to massage one's own ego. She praises us and uses that as a masquerade to elevate herself.
+
+Presently, Legend-Inquisitor Jessica Hawgrave is classified as “on-task” to resolve the matter of the Deathless and pacify the rebels at Gate Piety. Unofficially, I’ve noticed how much you’ve compromised the poor girl, and would ask that you stop preying upon her past traumas.
+
+It’s quite unbecoming.
+
+“The felling—seriously, you’re writing this shit with a straight face, you old bitch you…” Shiv growled as he flipped to the page he'd started earlier and scribbled a new response down.
+
+Veronica:
+
+Eat godsdamned shit and choke on it. What do you mean stop preying on her trauma? I'm not preying on anything! You're the one doing that! I'm not the one singing songs and making people dream about their dead husbands. I'm actually trying to bring his ass back! I'm going to bring his ass back. Her dead daughter too!
+
+Do you have some kind of hypocrisy skill? Because if you do, I'm willing to bet it's at Legend too!
+
+At this point, Shiv was starting to wonder if she was deliberately trying to annoy him. Reading her subsequent statements fanned the flames of his suspicion.
+
+Despite this, she is already in proximity to your person. As such, she provides a deniable set of means for us to establish a proper working relationship in dealing with our mutual concerns. And if you have reached this point of the letter without leading yourself astray, I would ask you to go seek Legend Hawgrave so that we might be able to have the rest of this conversation face-to-face. To further incentivize this outcome, I will not reply to anything you write, and the issue of the Prismatic Guard currently camped by your doorstep will remain unresolved and likely escalate unnecessarily. I beg that you choose wisely and avoid allowing things to sour further.
+
+Sage of the Enkindled Heart: Our biological predecessor is a complete piece of shit. Everything she writes is meant to make things feel like our fault.
+
+And her following line made Shiv clench his teeth.
+
+Understand that if you fail to respond, it is not a sign of defiance, but rank immaturity, and you and those you care for will suffer needlessly. You’ve already shown yourself capable of maturity and unwilling to serve as Udraal’s hapless pawn. Hence, I ask that you only continue on this path of wisdom so that we might go over the alignment and differences between us over tea, discussion, and rational debate.
+
+Here ends my part in this correspondence. The Prismatic Guard will continue massing in the meantime. You were right in insinuating that we want no part in a three-front war. You are also likely right in guessing that we cannot seize Gate Piety from the orcs if your Gate is indeed connected to the Tutorial.
+
+However, you failed to think things through strategically: I do not need to best and capture your territory to achieve my goals. I can force an invasion, see it fail, and watch as everything you hold dear is destroyed as your orcs inevitably turn their cruelty on those you deem weak and helpless.
+
+The kinds of people you would spare.
+
+And I don’t think you will accept that.
+
+There are consequences to showing someone else your heart. It lets them get a measure of where your emotional and moral limits are. That is a mistake you should not make with someone like me—a mistake in general, in my opinion.
+
+But you are young, resilient, and uniquely suited to learn.
+
+I look forward to you continuing to be more man than monster when you come to snarl your vulgar disagreements at me in person, as is your nature. And the amusing thing is that I don’t think you can allow me to have the last word twice.
+
+“I godsdamned hate you so much right now,” Shiv whispered. “So much.”
+
+Sage of the Enkindled Heart: Her Psychology must be powerful to grant her such insight—
+
+“FUCK HER PSYCHOLOGY!” Shiv shouted. The air around him boomed. He turned his hateful glare on the Prismatic Guard gathered around the gateway. “AND FUCK ALL OF YOU! GO HOME, DIPSHITS! CHANDLER’S GAMBLING WITH YOUR LIVES!”
+
+A few of the fear-chains thickened, but no one replied to him. Shiv had half a mind to throw himself at them in a blind assault to just get things over with, but butchering random members of the Guard didn’t sit well with him. The Inquisition had its hands stained with uniquely vile deeds, but the Prismatic Guard just seemed like random people doing their jobs. Slaughtering them would be—
+
+Godsdammit, Shiv seethed. That’s probably just another reason why she's using them against me. He swapped his physical form with his Severed Shadow and studied the vitality signatures around him. Godsdammit… I knew it. Most of these shits are just Adepts. She's deliberately trying to make me uncomfortable. Exploiting my morality and other shit. Felling… Why is everyone such a piece of shit?
+
+“That’s called being a politician, Shiv,” Adam answered flatly. “Do you still possess the urge to be a diplomat? Because practically everyone will be trying to socially bait you into an aneurysm.”
+
+“Yes! Because I’m not going to let her be better than me. She’s not gonna twist my mind!”
+
+Uva sighed. “I fear she is already close to succeeding.”
+
+“No, I—” Shiv choked as he realized he wasn’t sure if his current emotions were actually his or not. At some point, his genuine annoyance must have melded with the frustration Veronica was deliberately trying to inject into him. Once more, he realized how disgusting High-Tier Social Skills were. “Alright. I see it. But if I don’t talk with her—”
+
+“You don’t need to speak with her,” Adam cut him off. “She’s trying to lure you closer. For obvious reasons. She has her own schemes and plots that might not entirely follow with the Ascendants and the rest of the Republic wants—and she has your personality mapped out enough that she might be able to groom something of a successor out of you. But you don’t need to be the one that speaks to her about this.”
+
+Shiv frowned. “Adam, I don’t know how to tell you this without sounding arrogant, but I think I’m the more psychologically dangerous one between the two of us. And I don’t think Veronica much cares about speaking to Uva.”
+
+“But she will speak with me, I suspect,” Valor said from right beside Shiv.
+
+Shiv completed half a nod before he flinched and barely caught himself from jumping.
+
+“Oh, hi, Valor,” Shiv breathed, clenching his jaw tight. “Been here all this time, huh?”
+
+“Ah, no. Only for the past few minutes. My return from the Capital took a bit longer than I expected.”
+
+Shiv did a double-take. “You—wait, were you really at the Capitol with me?”
+
+The ancient Pathbearer chuckled. “Someone had to stop Anthony from being foolish. Also, I approve of you not murdering that Adept. Though you could have been far more gentle about your method of incapacitation.”
+
+“Yeah. Didn’t really mean to do that. So, guessing you want to speak with Veronica instead of me?”
+
+“Yes. Though I am still an incomplete soul, it will suffice to play the part of myself convincingly. She knows me. She will be on guard with me. And she will speak to me as a potential threat rather than a child she can manipulate.”
+
+Hearing Valor state his intentions out loud hurt Shiv’s pride. “Yeah. Probably a better idea. I noticed how her words were just… pulling me along. It’s hard to tell which feelings are my own and which come from her. Has me questioning my free will a bit.”
+
+“Do not be ashamed. Instead, be proud that you are capable of even considering that. Most Pathbearers would have likely been consumed by pure irrational fervor. Picking your battles and not wishing to be manipulated is not cowardice, but wisdom.”
+
+“So, I should let you surprise her in my place?”
+
+“Hm. Not exactly.” Valor hummed with amusement. “I think we should both go. You should greet her in person first, and then I will appear next to you and see how she responds. She anticipates you. Few can anticipate me. With her unbalanced, it will be most educational. In fact, I think we should bring your friends along.”
+
+“Friends?” Shiv asked. “You mean, Uva, Adam—”
+
+“Jessica and the Educator.” Valor’s correction was tinged with a hint of puckish glee. “The Culturist too.”
+
+“Using ‘friends’ very loosely there, Valor. Also, won’t she just, I don’t know, teleport away or something if she feels like she’s getting ambushed?”
+
+“Does Veronica Chandler seem like the type to accept that she’s been out-schemed by a child? Especially one she considers to be of her blood?”
+
+Sage of the Enkindled Heart: No… No, she wishes to play her own game. And to offer us an open declaration of weakness will be poison for future negotiations.
+
+That was all it took for Shiv to decide on the next course of action. “Okay. We all go say hi to Veronica. You are sure this won’t cause her to order the Guard to just storm the Gate, right?”
+
+“I am not certain about anything, my young disciple,” Valor said. “And that is the most important thing about going through life: accepting and overcoming uncertainty, and taking calculated risks. Of course, being immune to death means your threshold for what counts as a calculated risk is far more lenient than most others’.”
+
+“So, what does that mean?” Shiv asked.
+
+“It means you should take ridiculous gambles. I do agree with Veronica on one thing: You shouldn’t be so eager to declare yourself before your enemies. A bit of mystique and madness will serve you well. And I think you can be taught to harness both to great effect. Now. Let’s go gather everyone and find Legend Jessica and see what kind of backdoor she has hiding within the depths of her sword.”
+
+“What about the gateway?” Adam asked. “We can’t just do nothing. The Republic will send Shadows and Assassins to probe us. We’ll be crawling with unseen saboteurs and scouts. I might sense a few, but I would not be bold enough to assume that I can detect them all, Valor.”
+
+The lich shook his head. “You underestimate yourself, Adam. Be daring. Fail horrendously. Try again. But beyond your worries, I do agree. They have a few Heroes among them that could trouble even you. Especially a certain automaton. But we no longer need to worry about it.”
+
+“Huh?” Shiv blinked. “Why?”
+
+“Because I kidnapped it already. Along with the Marshal and Commander in charge of the operation, respectively. The Prismatic Guard will soon start searching for their commanding element, but they will not be able to find any trace of them.” Valor held his head high, like a schoolboy proud of a devious prank he'd just pulled rather than a nightmarish Shadow who'd somehow snatched a number of high-ranking commanders from an opposing army without anyone noticing.
+
+Shiv gaped. “How did you… And when? Didn’t you say you just got back?”
+
+“Oh, yes. The Prismatic Guard really needs to improve their collective Awareness. They assume too much about their own safety behind their formations. A terrible thing to take for granted.”
+
+“And… where are the people you kidnapped?” Uva inquired further.
+
+“In the Tutorial. With the Culturist. Where they will stay until the conversation between Veronica and us ends. After which, they will be returned. In one fashion or another.”
+
+For too long, Shiv thought himself the literal incarnation of terror on the battlefield, that fear was his weapon to wield against all others. Now he realized he was wrong. He was little more than a rank amateur, and standing before him was a true author of dread.
+
+“Broken Moon,” Adam squeaked.
+
+“Valor.” Shiv gazed upon his mentor with new eyes, ones filled with admiration. “Teach me everything you know.”
+
+The Undying threw his head back and laughed like a happy grandfather. “In due time, dear boy, in due time.”
+
+***

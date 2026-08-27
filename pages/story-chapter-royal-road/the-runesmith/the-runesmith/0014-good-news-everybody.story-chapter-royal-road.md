@@ -1,0 +1,33 @@
+---
+id: de35a55b-38d2-5e6a-90dc-67d2f5b92e28
+page-type-slug: story-chapter-royal-road
+title: "Good News Everybody!"
+slug: 0014-good-news-everybody
+partOf: the-runesmith
+position: 14
+ownLength: 456
+unit: words
+publishedAt: 2020-04-21
+link: "https://www.royalroad.com/fiction/31474/magic-smithing/chapter/485332/good-news-everybody"
+royalRoadId: "485332"
+---
+
+Thanks to all of you, I broke into the top 500. I honestly didn’t think people would like my writing that much. I just wanted to tell everybody how thankful I am for having so much support.
+
+I don’t want to post something so small, so I’ll address a few issues I’ve been noticing people comment about.
+
+First, is the time in my new world. The year is composed of 15 months instead of the normal 12. I figured if I had a new planet to work with, it shouldn’t be the same size as Earth. So, when Aaliyah reaches 10 that’s 12 years six months in Earth time. So, when I stated in the last chapter, she would be learning the basics till she reaches 15, that mans she would be 18 years and 9 months old back on earth.
+
+With the timing set aside, the next issue I want to clarify is aging. Humans age the same up in till they reach their tenth birthday. When they distribute stats, the parents recommend they put a few points into Vitality so they live longer. After a person’s body matures their vitality goes to reducing the signs of aging. So, after someone reaches the age of 15 it becomes hard to tell how old someone really is.
+
+Some people think I should change the story so Aaliyah was a woman in her previous life so I can drop the Gender-bender tag. As I stated on the home page this is the first thing, I’ve ever written for other people. I really enjoy a female MC and wanted to challenge myself writing from that perspective. I don’t know if I’ve managed it as well as I could have. I truly feel the background of Aaliyah has shaped who she is now. I hope people have noticed how I’ve slowly shifted her perspective to that of a female. I posted that last line in the previous chapter to show that she’s comfortablewith herself, and will tackle the future from the perspective of a woman. Of course, being a man, I expect to fail at portraying a women's perception of the world.
+
+If anyone feels that I’ve messed up writing something, please continue to comment. I check comments multiple times a day and read everything you guys are posting. Please help me become a better writer.
+
+One last thing, some people have been asking me where they can donate? I know many people are suffering from Covid 19 whether through sickness or time off of work. Everything I post will be free for quite a while.
+
+If you want to donate, I have a patron account here: https://www.patreon.com/user?u=10824361
+
+Please only donate if you have the means.
+
+Stay safe everyone.

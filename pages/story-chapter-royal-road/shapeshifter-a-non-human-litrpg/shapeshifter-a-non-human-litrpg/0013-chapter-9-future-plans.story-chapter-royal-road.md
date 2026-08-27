@@ -1,0 +1,137 @@
+---
+id: b1e17fd0-7466-5a3c-995d-f28b7e9a1cb0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9: Future Plans"
+slug: 0013-chapter-9-future-plans
+partOf: shapeshifter-a-non-human-litrpg
+position: 13
+ownLength: 1901
+unit: words
+publishedAt: 2026-04-16
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3281055/chapter-9-future-plans"
+royalRoadId: "3281055"
+---
+
+Xen stared down at his bowl of noodles, utterly perplexed at how the humans could consider it sustenance. He sneakily dipped a finger into the broth, turning it into a slimy tendril after confirming nobody was looking to have a taste.
+
+It was bland to his senses—reminding him of trying to eat the dungeon moss like his fellow slimes, only to gain nothing from it. Even though he was now a Hexreaver Slime, his appetite for minds had remained through his evolutions. Nothing else came close to being as satiating as a juicy human brain full of unfulfilled dreams, treasured memories, and deep emotions. The lingering fear of death was his personal favorite.
+
+"Phew, that hit the spot," Randy said, looking deeply satisfied as he loudly set his chopsticks down beside an empty bowl. Besides Xen, he was the only one who had gone for ramen. Vesper was demolishing a small plate of gyoza, having already eaten, and Valoria was cradling a cup of water. Apparently, the interrogation had killed any appetite she once had.
+
+"Now that my belly is full, let us get down to business," Randy surveyed the group. "I don't know about you guys, but I personally have a lot of university work to catch up on."
+
+"Same," Valoria said without looking up.
+
+Randy leaned back and crossed his arms. "I think I can smash it out in a day or two—"
+
+"Isn't it due in a day or two, and you're far from done?" Vesper said between bites.
+
+Randy scowled. "Yes, but I don't need to get an amazing grade anymore, considering I don't plan to use my degree to get a job with the guild association."
+
+"Then why bother at all?" Vesper countered.
+
+"Well..." Randy glanced at Xen. "I'm only a few days off graduating, and it wouldn't be smart to put all my eggs in one basket."
+
+The phrase's meaning was lost on Xen, but he got the gist. Randy likely wanted to complete his studies just in case Xen disappeared one day. Which was reasonable, all things considered.
+
+"So you two are going to lock yourselves away working," Vesper said, pointing at Randy and Valoria with his chopsticks.
+
+Randy nodded. "Yes, though I also have other things to set up regarding the guild," he admitted with a sigh. "We need to rent an office space somewhere and maybe get Yuki a place to stay. Wait, don't you also have work to do, Vesper?"
+
+His smug grin said it all. "Nope. Submitted it all last week."
+
+"You lucky bastard—if I knew everything that was going to happen upon setting foot in that dungeon, I'd have made sure to finish earlier, too," Randy lamented. "But it is what it is. Yuki, do you have any ideas on what you wish to do?"
+
+"Um," Xen said, and drew a blank. He had been so focused on surviving until now that powering up had consumed his entire focus. Now that he was on the peaceful surface, he was lacking a sense of urgency. Which wasn't good at all, as he was far from the strongest out there, and his survival was far from guaranteed. The moment his mask slipped and the truly strong wanted him dead, he would have no choice but to roll over and die at his current level.
+
+He needed to get stronger; that was non-negotiable, and he could only achieve that by delving back into the dungeon. Whether that was as Yuki the healer or wearing the skin of a monster and hunting down other Hunters, it didn't matter.
+
+"I do want to reach level 100 as soon as possible," Xen said in a low voice that was drowned out by the chaos of the noodle shop. It was lunchtime, so the place was abuzz with activity and music that was all new to him, yet felt oddly nostalgic.
+
+Randy whistled. "Level 100, huh? It's insane to think that's an obtainable goal for you, but can I ask why?"
+
+"Apparently, my class will get a massive upgrade upon reaching S-grade," Xen explained while glancing at his status menu. "I'm not sure what it is, but I'm curious."
+
+At level 100 (S-rank), human classes undergo a significant upgrade. Upon reaching this level, your unique [Shapeshifter] class will be upgraded with new capabilities.
+
+Randy snapped his fingers with a look of realization. "Oh! I remember now. We spoke about this before on the 5th floor after fighting the Crimson Executioner," Randy mused. "While classes undergoing an evolution of sorts at level 100 isn't public knowledge, it does explain why S-rank Hunters are considered a cut above the rest despite the level difference between A-grade and S-grade Hunters only being twenty levels."
+
+"I'm sorry, Yuki," Vesper said, "but I can't go into the dungeon with you while these two work on their thesis. I still need time to recover mentally and physically after the last trip, and I know going in there again with you isn't going to go smoothly," he picked up the last gyoza and continued to speak with his mouthful. "But a healer can't go alone. A Savior can traverse the dungeon alone, but your savior identity is... well..."
+
+Ghostwire wasn't an ideal person to impersonate right now unless he wanted the Guild Association to hunt him down.
+
+Actually, perhaps that is a good idea? Xen considered. He was perfectly happy with hunting down humans, as they not only gave him levels, but he also got access to new classes upon killing them. I'm strong now. I could likely fight an A-grade Hunter if I catch them by surprise or if it's a good matchup. Beating a team of B-grades would also be doable.
+
+Xen sat there for a while, dark thoughts of murder stirring in his mind. Which is why he jolted in surprise when someone touched his shoulder.
+
+"Whoa, sorry about that," the unknown man said, reeling back his hand. "I didn't mean to frighten you, Yuki."
+
+Randy abruptly stood up from across Xen, the bench screeching as he did so. "Who are you?" he questioned. Vesper and Valoria also glanced at the person, confused.
+
+How does he know my name? Xen glanced over his shoulder, his body tense as a bowstring and ready to fight. While his mask protected his slime body better than any skull could, a strike from the back of the head could be the end of him. After all, his current body was only level eight.
+
+Xen recognized the smiling man in an instant. He had been the man suffering from acid burns, whom Xen had healed during the test at the orders of the red-haired clipboard lady.
+
+"Alex?" he questioned, not sure if he had remembered the man's name correctly. "What are you doing here?"
+
+The man grinned. "Well, thanks to you and your fantastic healing, all those slime burns were gone within minutes. I was just discharged from the infirmary and felt rather hungry, so I came here. Thought I noticed a familiar face among the crowd and wanted to once again offer my appreciation."
+
+Randy slowly sat back down, and Xen relaxed.
+
+"You're welcome," Xen said curtly, expecting that to be the end of it.
+
+It wasn't.
+
+"Actually," Alex began, gesturing behind him at a group waiting for a table, "I'm here with my party, and while I understand it is bad manners to poach a party member," he nervously glanced at Randy and the others as if they were about to berate him, "I was wondering if I could borrow you for a short expedition into the dungeon on behalf of the Guild Association?"
+
+That got Xen's interest.
+
+"You caught us at a convenient downtime, but his services won't be cheap," Randy cut in with a calculating gaze.
+
+Alex nodded. "I understand. No combat healer is cheap. Don't you worry, the Guild Association will reward his involvement handsomely. I will also personally ensure he is well protected."
+
+"Didn't you just say he healed you?" Valoria asked suspiciously. "How can you promise to protect him if you couldn't protect yourself?"
+
+"That's fair," Alex smiled warily. "But that was a freak accident, and the very reason I need Yuki's help. We were overrun by Acid Slimes that are difficult to fight in hordes, as killing them causes their bodies to explode and burn our skin. A single Beacon of Grace would utterly counter this and ensure our victory."
+
+"Acid Slimes?" Vesper raised a brow. "Aren't those prevalent on the eleventh floor of the dungeon and can hit level fifty?"
+
+Alex's jaw tightened. "I can't really disclose anything about the operation as much as I would love to—official guild business, I'm sure you understand." He reached into his pocket and pulled out a card. "I don't want to disturb your meal any more than I already have, so please take my business card. If you're interested in joining me, I'll see you outside the 5JP dungeon entrance tonight. The pay will be high, I can promise you that."
+
+Xen took the offered business card, and Alex swiftly moved away and rejoined his party. The members cast curious glances his way before a waiter directed them to a booth out of sight.
+
+"I assume you healed him during the test?" Randy inquired once Alex was long gone.
+
+Xen nodded.
+
+"I refuse to believe it's a coincidence that he found you here," Randy mused, drumming his fingers on the table. "He was likely impressed by the skills you displayed if he's willing to take you with him to the eleventh floor. Actually, he might not even know you got an F-grade evaluation."
+
+"Healers are treated differently," Vesper pointed out. "If their skills are good and they are willing to brave the dungeon, I've heard of C-grade healers joining A-grade raids. There's just not enough high-ranked healers to be picky."
+
+"I don't like his vibe," Valoria said. "He seems like one of those incompetent Hunters who hides behind the Guild Association's reputation. I mean, who would prey on another party's healer like that? Utterly shameless."
+
+Randy nodded in agreement. "The pay will be good, but it's risky. What do you think, Yuki?"
+
+"I think it's perfect," Xen admitted. "If all goes right, I can get some levels as a Radiant Healer and see how a Guild Association party operates."
+
+"What if things go wrong?" Valoria countered.
+
+Xen chuckled. "Then even better."
+
+Either way, levels would be gained.
+
+Whether they came from monsters or humans, it was all the same to him.
+
+"If you're fine with it, then you should go," Randy muttered.
+
+Xen smiled behind his mask and felt his excitement rise. Tonight, he would enter the dungeon again. Except this time, he would be working alongside the enemy as their healer.
+
+Getting up from the table, Xen nodded to his party. "I will go and temporarily join Alex's party and hopefully return once your studies are over."
+
+Randy sighed. "Just... don't make a mess, okay?"
+
+"I'll try not to," Xen said without meaning it and left. Navigating between the tables, he soon spotted Alex. The man seemed almost too thrilled upon seeing him and waved him over.
+
+"Yuki! It's so good of you to join us." Alex moved over and made room for Xen to sit down. "Please come and sit here so we can discuss the operation."
+
+Xen took the offered seat and faced many unknown faces.

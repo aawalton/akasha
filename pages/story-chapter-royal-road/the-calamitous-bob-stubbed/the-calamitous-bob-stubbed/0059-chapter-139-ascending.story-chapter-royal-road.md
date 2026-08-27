@@ -1,0 +1,531 @@
+---
+id: 2acaf3f1-426f-51c3-8541-6a9b6649ef09
+page-type-slug: story-chapter-royal-road
+title: "Chapter 139: Ascending"
+slug: 0059-chapter-139-ascending
+partOf: the-calamitous-bob-stubbed
+position: 59
+ownLength: 5962
+unit: words
+ownProgress: 5962
+publishedAt: 2023-10-27
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1387144/chapter-139-ascending"
+royalRoadId: "1387144"
+markedReadAt: "2026-06-29T21:16:48.376Z"
+---
+
+“I’m sorry, I’m sorry kid.”
+
+Tourniquet in place on the left leg. Best she could do. Airways clear or he would shut up. Sweat getting in her eyes but she couldn’t wipe them. And on her gloves, the gray beige dust of the desert lands around Spin Boldak. Focus. Got to focus. Knew the problem.
+
+“Right Cedric, I’m going to open your vest now. Got to see the wound.”
+
+“I’m sorry kid. I fucked up.”
+
+“You didn’t. Now, it’s gonna hurt. I need you to not move. Okay?”
+
+“Yeah! Yeah, okay.”
+
+The stench meant the guts were pierced. Had to get to the wound to slow down the bleeding but what if she opened the vest and his guts came out? Training said the guts came out with evisceration. Because of the pressure. She could see a piece of metal embedded in the ceramic plates.
+
+“Steady now,”
+
+The vest got caught on the piece of metal.
+
+“The fuck is this?”
+
+It was a piece of shrapnel from the IED. Looked like a half molten spoon and perhaps it was. She removed a bandage and sneaked it between the vest and the embedded metal. Apply pressure.
+
+“It fucking hurts… get that thing out?”
+
+“No can do, Cedric, you’ll bleed out. The surgeons will do it.”
+
+Hemostatic gauze was doing the work. It would be fine.
+
+“Fucking… ah, where’s Mouq?”
+
+“Other side of the street.”
+
+“Shit I hope no one else got hit. Is the bird on the way?”
+
+“Yeah sure but it won’t land in the firefight so better make yourself comfortable.”
+
+“Putain.”
+
+“And you call me Princess.”
+
+The veteran gave Viv a smile. She could see every hair in his graying stubble. She would remember it forever, because his answer was drowned in an explosion.
+
+Viv was over Cedric before she could think. Something fell on her helmet. On her shoulder. Pieces of masonry. Dust everywhere and that had been so loud and now there was a hole in the damn wall.
+
+Viv reached for her Famas. Her gloves were slippery with blood but she grabbed it. Aimed it at the gap. It was a small gap with most of the damaged bricks forming a slope on the way. Unstable footing. The first ‘barbu’ moved in. He kept a hand on the wall. He couldn’t see well. It was dark in here.
+
+Viv’s first bullet caught him in the belt. He barely had time to gasp when the other caught him in the throat. He just… toppled. He was on the ground and Viv was up, up and moving. Switched firing mode to burst fire. They had grenades. She would not die here. They would die here. Swear words in Pashtun came from the outside. She moved up and to the side over a rolled carpet. A man turned his head trying to see in. She was at an angle. She took the shot. The man’s jaw vaporized in a flower of flesh and bone. More swear words. Viv got closer. Closer. Someone screamed and moved. Looked like the previous one but younger. Both rail thin with short black hair. Angular faces. She spotted liquid eyes and terror and she shot him in the chest. Small entry wounds. More shots. He fell forward, his back a ruin. Viv was at the entrance when she saw the old man pull the pin of a second grenade. His AK hung from his shoulder. Their eyes met.
+
+Chest chest head.
+
+Viv jumped back and dove. One second, two seconds. Where was the bloody thing?
+
+Another explosion. She could feel it in her bones. She looked up, finally taking in Corporal Cedric. He had his G1 out, aimed at the opening. His other hand kept pressure. She could see his chest rise and fall.
+
+Viv almost shot the shape bursting through the door. For a moment, she crossed eyes with Mouq as a potential threat. There was not a hint of mercy on that face. The Algerian French medic aimed towards the opening after recognizing Viv, never lowering her guard. She signed a question.
+
+“I think I got them all,” Viv replied by simply speaking.
+
+“Al’ama Princess, you did? How many?”
+
+“Four.”
+
+“Ok. Wow. Ok, I’ll get the stretcher. We’re moving.”
+
+“Yeah,” Viv said.
+
+Belatedly, she realized she should probably load a new mag. No wait, she had to look after Cedric.
+
+“You enjoyed killing them, didn’t you?”
+
+A strange sense of disconnection made her blink. Mouq was still there but now the small Afghan warehouse felt blurry. Half-forgotten. Cedric had made it back without issue thanks to her. He told everyone how she’d killed the jihadists until Princess became more than a mocking word. This had already happened. She knew it. And the Mouq talking now with eyes of black sclera was not her friend, yet she could only stand here with her hands on the Famas and listen. It wasn’t shock. She was just lacking… agency. Choice. The inner part of her she recognized as a soul pulsed once.
+
+“You enjoyed it. You walked out and finished them and it felt great, it felt like winning. You like winning. You liked winning against them because they didn’t regard you as a warrior. You saw the looks, what they thought of you. Women have no place on the battlefield, especially the pretty ones like you. You loved proving them wrong.”
+
+Mouq walked forward. She was so tall and the abyss of her eyes, so deep.
+
+“Face it, you’re a vicious thing. A wild one. Shed the clothes. Shed the plastic and metal. You’re better than this. You don’t need it, not anymore. It’s a tool that weakens you because you depend on it until one day, it will betray you. You are lying to yourself with the empire and those rules and the people you protect. You do not care. You never cared. They give you an excuse to unleash who you truly are. Don’t they? Let go, Viviane. You are a cold one.”
+
+Viv knew she was a bit too distant. All those sob stories shared by her friend had tired and annoyed her from the start. Why did they cry for that little girl who was starving in that sad article? What about all the other little girls? Was someone going to act on it? Or just get horrified until the next day when another distraction would come and replace it for that vicarious burst of emotions? Viv didn’t care for people she’d never met or wasn’t friends with.
+
+“That’s not true.”
+
+The abyss stared.
+
+“I don’t have to care with my heart to care. I don’t have to be friends with the whole planet.”
+
+“Then those are just excuses you build to avoid the truth of who you are. You have neutered yourself just to avoid facing this obvious fact. You’re evil, Viv. Just like all the people you’ve killed. Don’t fool yourself. The only difference between you and them is that you’ve won.”
+
+Viv’s soul pulsed once again. This time she was sure of it. This was not reality. The room shifted, colors bleeding into the background.
+
+“You won’t escape staring at yourself so easily,” the darkness said.
+
+The walls felt firmer, suddenly. Cedric was breathing fast again.
+
+“I covered him,” Viv said.
+
+The darkness under Mouq’s face twitched.
+
+“I covered his body. That was the first thing I did. Not run at them to kill like a beast. I covered him first, then I saved us both. You are deceitful. I also protect those I care about.”
+
+Viv felt the ghostly caress of smooth, warm scale under her fingertips. She could hear a faint squee.
+
+“I would die for them.”
+
+The room collapsed on itself. Her soul pulsed once more but it could not move. She was still so new.
+
+***
+
+Viv checked the tray one last time. They were here, on the other side of the stall. Terror and anger warred in her chest. Her heart thundered under her ribs and the water felt cold against her skin. She shivered. Her hand stuck against the wooden panel kept dry since the start. It had to stay dry or it might slip.
+
+She felt her face freeze up from the stress.
+
+There were no steps in the changing room. The hard ground made sure of it. There were giggles though. Hard to miss those, especially at 8PM on a weekday. In December. It was a bad day to go for handball training and that’s why she’d done it. Laetita had been looking for her so she would find her.
+
+The tall girl dragged the curtain away with speed and a mocking smile.
+
+Laetitia was a little overweight and quite strong. Bulky. She’d been tall and overwhelming among the girls for most of her life. She also had a chip on her shoulder. Bad grades. Viv was sure that with some discipline and a diagnosis, her situation would improve. Unfortunately, her dad was a cunt, her mom a bitch, and she wasn’t Viv’s problem. So she wouldn’t get help.
+
+Viv cut the water. The air was cold on her wet, bare skin. She shook again.
+
+“Hey, if it isn’t—”
+
+Viv grabbed the sock with her dry hand. The windup didn’t take long. She’d practiced at home just to be sure. It scared her but she was telling herself, it wasn’t her decision. If Laetitia came, she deserved what would be coming for her.
+
+The soap smashed into Laetitia’s shoulder. It cut her off. She was shocked. She took a step back. Viv took a step forward and hit again. It caught the girl in the temple. Laetitia raised her hand in reflex but the sock was very long, the knee high kind and made of nylon. Another smack. Another smack. Laetita hit the bench and sat, still silent.
+
+There was a mousy girl to Viv’s left and a blonde, thin one to Viv’s right. They might have overwhelmed her if they tried but they didn’t. They were soft. This was a nice, expensive gym associated with a nice, expensive school for the children of doctors, lawyers, and politicians. People didn’t beat people in the changing rooms. That was a poor person’s hobby. There was no physical violence here. People said nasty things to each other and abused each other indirectly, or when it couldn’t be seen. Like civilized people.
+
+They couldn’t believe their eyes. Or they could but they didn’t know what to do.
+
+So they watched Viv beat Laetitia with a soap in a sock.
+
+It took seven hits for Laetitia to gasp out of her stupor from the cumulated pain.
+
+“Stop! Stop! You’re crazy!”
+
+The mousy girl took a step towards the door. Viv’s face whipped towards her. She froze.
+
+Viv walked to the door and stood in front of it. There was a lock but she didn’t have the key. Not that it mattered. The gym was deserted at that time. She was naked and cold and shivering but she felt so detached and buoyed by stress that it didn’t matter.
+
+“Going somewhere?” Viv asked.
+
+Her voice didn’t flinch, didn’t break. She sounded much more dangerous than she felt. Back on the bench, Laetita was recovering. She felt uncertain but angry. So Viv returned to her and hit her again. Then again.
+
+“Aie! Stop, stop!”
+
+“Stop? Why? What did you come here to do? Huh? Huh?”
+
+Smack. Another smack. The blonde girl took a step forward so Viv whipped her with a back swing. She missed. The blow went too high and hit the blonde girl in the face. She whined a high pitched noise and sat against the floor, one hand up.
+
+A wave of panic filled Viv but she pushed it down. She knew there would be marks. There wouldn’t be any on her though. She was screwed either way if they talked.
+
+That was what mattered. That and the message.
+
+“Listen. I know why you’re here. I know what you did to Fleur.”
+
+“You insane bitch,” Laetitia moaned.
+
+Viv hit her again. Smack. Then again. Smack. A third time. Smack.
+
+“Got more to say?”
+
+“Fuck you, you’re mad!”
+
+“Do. You. Got.”
+
+“Stop! Please! Fuck!”
+
+“Right, I know what you did to Fleur.”
+
+Viv took a moment to breathe hard. She was both hot and cold at the same time. Really weird. And naked while the girls were dressed. And there were three of them but they were scared of her.
+
+Shit this could go so wrong still.
+
+“You’re going to fuck off. If you talk about this to anyone,—”
+
+“And who were you protecting?” Laetitia asked with eyes like two pits.
+
+Something made Viv blink. The room grew fuzzy. This… was how it had ended. She’d gone home and acted like nothing happened. There were rumors until the end of the year and she’d been quietly replaced as class deputy, though there was never any sort of official punishment. Laetitia’s harassment had stopped. This… had already happened. Many years ago, at the end of high school.
+
+Her soul pulsed. Protecting? What did this have to do with anything? She felt strange, alien. She could not move. There was no option in her mind for her to move. She knew moving was possible, just not for her. The thing wearing Laetitia got close. There was really nothing inside those scleras. They seemed to absorb the pale light.
+
+“You enjoyed seeing her beg. You enjoyed the power you had over those three who thought themselves so domineering. They thought untouched meant untouchable and you proved them wrong. You brought savagery to their little pathetic bullying. You broke their resolve. This is you, the true you. There was no one to protect here. You lured them into a trap and then you punished them. Is it not so?”
+
+“I was…”
+
+“The fat whore thought she’d caught you. You remember the look of triumph on her porcine face. Every tooth in that half-opened snout of hers. You remember the shock when she moved back. You remember the impact of soap on her, how it made the fat of her arm jiggle under the sweater. You enjoyed breaking her very, very much.”
+
+Viv’s soul pulsed. She had a soul? That she could feel? How peculiar. And that was… half of a conversation?
+
+“I was protecting myself.”
+
+“You could have done many things, not the least talk to a parent or a professor. You went for them. You baited them.”
+
+“I was defending myself,” Viv insisted. “I wanted to be safe.”
+
+“There were other ways.”
+
+“There are always other ways. Sometimes, the best way is the most primal one.”
+
+There was a look of triumph on the void thing’s borrowed face.
+
+“Yes. Yes! This was a game of dominance and you won it! You showed them all those rules they thought they were abusing didn’t protect them at all. You reminded them what the world is really like.”
+
+‘And then they left Fleur alone. My friend.”
+
+“Fleur was weak!”
+
+“Fleur was taking care of her family. She had strength where it mattered. And I had strength… where it was needed.”
+
+“You cling to excuses and causes. Anything to justify your actions. You don’t have to justify. The strong never do. Embrace what you really are.”
+
+“No one said I couldn’t join the useful to the pleasurable. No one said an artisan should never have fun. If I can help Fleur and feel good doing it, then that is fine.”
+
+“You love destroying things.”
+
+“I do. I really do. So what? I enjoy building them as well.”
+
+Viv’s soul pulsed. The room melted into a starless night.
+
+***
+
+“I’m not going to Sciences-Po.”
+
+“Then why did you take the exam? And pass it?”
+
+Papa reclined in his seat, in the home office. She hated this place now. It used to be a forbidden spot to sneak in until he somehow made it the ‘big speech’ room. There wasn’t a seat for her. Another game.
+
+“I know what you’ve planned. I know you made calls,” Viv reproached.
+
+“I just want what’s best for you. Everyone who can give their children an edge will do so.”
+
+“I know Tristan will go there as well.”
+
+He shrugged, suit shifting over his runner’s build. Even in the confines of his home, he was perfectly combed and clean-shaven. His green eyes drifted over her and then to his desk. He still had work to do. She was just a waste of time.
+
+Papa was devastatingly handsome if the flock of infatuated women sighing after him were any indication. He knew it. He had influence and wealth and the looks and the wit so everyone loved him and they couldn’t see what a controlling asshole he was.
+
+“You don’t have to date him,” he tiredly said.
+
+“You did it.”
+
+“Tristan wants to work for the Conseil d’Etat. Sciences-Po is a good place to start. For you as well until you decide what you want to become. Any higher education remains a good tool in one’s arsenal, if only for the networking opportunities. I would have preferred HEC but you don’t have the right temperament.”
+
+“How far do I have to go so you don’t get to pick things for me? How many teachers do you know there?”
+
+“It’s not a rigid institution, Viv. I’m just letting a few people know in case you need help. I don’t know why you’re so mad.”
+
+“You know exactly why I’m mad. I want to succeed without you constantly cheating! I want to earn what I get. Why don’t you get it?”
+
+“You’re better than this, Viviane cherie. I told you before. If you don’t cheat in a cheater’s game, you’re not really playing.”
+
+“I don’t care about winning if the one who won is really you! I want you to STOP CONTROLLING EVERYTHING I DO! You know what? You won’t get it. So I’m going where your flunkies can’t go.”
+
+She spread her hands.
+
+“I’m joining the army.”
+
+The look of shock and disbelief on his face filled her with a Schadenfreude she never thought she could get. Sometimes spite was addictive.
+
+“You’re not serious.”
+
+“Dead serious. In September.”
+
+Papa lounged on his seat in a position she recognized as the ‘I need a minute to come up with something.’ There was an art to it. He would do the same in arguments, sometimes. Bullshit for thirty seconds to give himself the time to come up with a good deflection. A part of her wanted to leave the room. She’d done it. She’d told him, even though she had yet to sign the contract. Her heart wanted to know what he would come up with. Would he ask her to stay? Would he offer to keep off her back? Stop influencing her environment all the time?
+
+She was almost scared when he finally spoke.
+
+“Damien is his mother’s child. A sensitive soul, brilliant yet naive. We are the similar ones. We keep our loved ones safe. I know you’ve done things in the past to protect your friends. I covered for you. We both understand what must be done.
+
+“I’m not like you! You lie and you cheat for your personal gain! You manipulate everyone! Everyone!”
+
+“People,” he forced between clenched teeth, “need leaders. They need guidance. We are flawed, all of us. If I do not rule then someone worse will. You understand this. You’re the same! Same with your friends!”
+
+“Fuck you I don’t inti—”
+
+She swallowed back the lie and saw in her father’s face that he thought he had won.
+
+“You’re a career grifter. You don’t make the world better. You juggle interest groups.”
+
+“Believe it or not, that's my job. And it does make the world better.”
+
+“Say what you will. We’re done here.”
+
+“Oh, are we?” the darkness replied.
+
+Dark pits in the familiar face felt so wrong and so… disrespectful. Viv’s soul pulsed in anger. She’d been caught in the memory but that was all it was. A memory. She could feel it now. This wasn’t the real world and she was… missing her body? And a lot of her mind. She had a past, a body somewhere. This was just an illusion. The darkness was a stranger.
+
+She tried to move. It didn’t work but at least she could think about it this time. She could remember she had a past.
+
+It became clear. She was in the in-between. Distance didn’t really exist there. Instead of tensing muscles, she translated forward by a hair.
+
+Her senses returned, or at least what passed for them here. She couldn’t feel the usual connection to her body so rebuilding herself became the priority. Memory access. Emotions. Drive. Her soul remembered it and reformed it within, so it didn’t rely on her body so much anymore. It was a slow, methodical work in a place where time was only a relative concept. Fortunately, her soul kept the blueprint of what it meant to be alive. She’d had a lot of practice.
+
+Viv was herself again. The darkness was not. It was invading her memories.
+
+“Some compassionate person you are. Talking about protecting your loved one then pushing them away. Forever.”
+
+“You have no right to bear his face,” Viv said, suddenly furious.
+
+“Are you mad at me, him, or yourself? You left him though he loved you, and now he’s dead.”
+
+“I’m going to… Urggg.”
+
+“Just for trying to control you a little, you wild thing. And then what do you do? You turn up exactly the same as he was. Corruption? You have used it. Threats? manipulation? Wrangling interest groups to achieve your goals? You have done it all. No, you are worse. He never killed anybody and he certainly did not do it by pouring molten gold down their throat in public. You are such a hypocrite.”
+
+“Not a hypocrite if I have accepted it,” Viv replied. “Yes I am like him, much more than I was willing to admit. I was wrong and now I know. I have grown.”
+
+“Into a tyrant! Into someone who refuses bounds yet binds others in chains of ‘honor’ and ‘oaths’! You weaken yourself by depending on them. Your strongest warriors weaken themselves protecting the meek and the meek wallow in mediocrity while they should test themselves against the crucible that is life so they can grow or rid mankind of their feeble existences! You are better than this. You can be free and you can free them!”
+
+“Freedom for what. Starving? Being eaten or kicked by the first creature they come upon? That’s not the freedom people want.”
+
+“It’s the one they need to progress!”
+
+“I don’t know if you’re met the average human but we need structure as much as we need freedom. Even I have Solfis and the others to teach me and hold me back if I’m going to act stupid.”
+
+The face of her father formed a scowl. The darkness knew she had regained her memories, her agency. It didn’t like that at all. Viv pressed on.
+
+“I think I like being a tyrant. Better than my people being sold as slaves in Baranese markets by an unscrupulous prince. Now we are reclaiming the deadlands piece by piece, pushing back the savage lands,” Viv continued on a hunch.
+
+It worked. The creature wearing her father’s mask screeched, the face cracking like an eggshell. The room splintered around them. The thing was furious.
+
+“I am so tired of watching you drape the world as it is in layers of lies! You know that might makes right and you act like it yet you pretend there are laws that govern humans as if that was natural! Those are useless fabrications! You surround yourself with stone to resist assaults only for them to always, eventually fall while you should be moving with the flow! You are making yourselves weak! Blind! The feeble mate and spread while the strong die to protect them! This is not how we achieve greatness! We achieve it by becoming greater than our foe generation after generation, by stealing their strengths and making them our own!”
+
+“And that is what we do. Walls and swords are tools. I know who you are now. I remember. Octas.”
+
+The form hissed. Spinnerets emerged from the edges of the image’s mouth.
+
+“You speak of strength as if it only came from the arm that held the sword yet I remember a certain golem crushing your avatar’s skull like a ripe fruit. That golem was made by a timid man who loved gardening blue roses. So who exactly was the strongest?”
+
+“You tell me! That man is dead! DEAD!”
+
+“And he left this world undefeated.”
+
+“ARRR! Feed ten thousand fools and you will find a gifted one but how many warriors must perish for it to happen? How many must fall to defend worthless rocks and empty words? Those could have become greater! Stronger! Crush a man’s head and peel off his rib and search his torso for his ‘heart’ or his honor. You’ll never find it!”
+
+“You won’t find strength either.”
+
+“You don’t need to look for it. It is as obvious as a fist to the face! More lies! More lies! More wind and fleeting thoughts!”
+
+“Those are not lies.”
+
+“They are not real! They are not true!”
+
+“They are not lies. A lie is a deliberate falsehood. They are dreams. They’re concepts and ideas that make us more than just meat and magic. They give us a purpose. They make us people. And people with dreams move armies and grind mountains to the finest sand. You know, Octas, for someone who abhors the spoken word, you sure as hell can’t seem to shut up.”
+
+“I am doing you a favor, girl. I am offering you the world!”
+
+“I don’t need you to get it.”
+
+Viv felt her soul click. She had always been able to come here to the in-between but that was more of a hot air balloon's way of seeking the sky. She did not decide where she would go. She didn’t have power here. Now though, something grew from her soul that she had felt on Nyil but not on earth. The inhabitants of her adoption world called it mana but, really, it was just power.
+
+And now she had it.
+
+She covered her body in scales and great wings emerged from her back. A blade of black mana emerged from her hand. The form Octas had given her was no longer hers to control. It was Viv’s. She stepped forward.
+
+“I’m bad. I enjoy killing and dominating and manipulating. I love crushing those who offended me and the sake of thousands leaves me cold when they’re not my people. That’s alright. That’s just who I am. I decide what I do with who I am, not my dad, not Elunath, not you. Nobody but me. I’m going to return to the nation I’ve lifted from the ashes and turn it into a shining beacon of civilization in the gods-forsaken shithole of a planet. I’ll raise monuments and places of learning to spread those dreams you’re so scared of until nothing can quench them short of the apocalypse. I will undo everything you stand for. I will tame whatever comes for us. I will purge the world of your followers. I will use the most terrible tools to accomplish the greatest projects while you return to your jungles to plant spider legs on your favorite slaves’ asses, bitch. And I‘ll do it with my black heart and blacker magic and when the time is ripe, I’ll come for you too.”
+
+Octas’ stolen form shattered.
+
+The world faded away into the void of the in between. Facing Viv in that place between death was terror incarnate. It felt like jumping in a pool and finding the Mariana trench under her with its bottom swimming up to meet her. The wave of fear overwhelmed her. It almost undid her here and there. For a moment, she could do nothing but scream without a voice. She was still merely a small sphere. What faced her was planet-sized.
+
+Except, it was not moving.
+
+Viv’s perception expanded to see that the planet was as dark as the void with a cracked surface glistening, revealing bloody entrails below. Eight tendrils as large as accretion disks extended from the celestial object to reach for her and they were stopped just before they could reach her. Viv’s perception extended again to the part ‘behind’ her, though the term was merely a simplification. There was another planet and that one, though smaller, felt more dense, more resilient. It bore the shape of black hole with a golden corona shining like a beacon in that desolate place. The other planet was larger but, strangely, it was not winning.
+
+Viv realized she was in the middle of a deadlocked struggle for her soul. each titanic force canceling the other out. She had never met the two ‘planets’ in her brief forays here but their auras was unmistakable.
+
+“Enttiku.”
+
+HELLO, CHILD.
+
+“You… saved me from Octas?”
+
+I SAVE ALL I CAN.
+
+WHO DESERVE IT.
+
+“I really appreciate it…”
+
+CHILD.
+
+IT IS TIME.
+
+WAKE UP.
+
+Viv found the tether back to her body easily. It felt different, as expected. Stronger. More flexible. She followed it, and followed it, and…
+
+***
+
+“I am awake.”
+
+It was day.
+
+Vision returned first. Viv took a deep, raspy breath. Another. She saw a canopy of dark wood. The air was cold and crisp. She was lying in a bed with a cover up to her chest. Her arms were out, over the cover. She was wearing a shift.
+
+Everything felt weird. Not painful but weird. A wiggle of the toes and a shaking of fingers revealed she had approximately the same number of appendages. They were just hard to move as if she’d been sleeping too deeply. Her body didn’t really fit. It felt very bright as well despite the draw curtain she could spot on her left.
+
+//Your Grace.
+
+Solfis unfolded from a corner of the bare stone room she found herself in. He looked normal according to genocidal golem standards. She could feel the mana coursing through his circuits. That was normal.
+
+“It worked, I think?”
+
+Her voice felt normal if a little dry and a little high-pitched. She wanted water.
+
+//Yes.
+
+//You have been asleep for six days.
+
+//I will fetch Abenezigel.
+
+//Please be patient.
+
+“Yeah, okay.”
+
+Viv looked at her exposed arm. The skin was normal. A bit pale because it was winter but normal. She could feel her hair brushing against her bare shoulder. She sat up and the cover fell. Something clacked against the bed frame. She felt the wood’s texture.
+
+“Ah. Ah, what?”
+
+Her hands reached for her shoulders. They found skin, then a patch of smooth, warm material covering her shoulder blades. It was unyielding, like glass. Something was attached to the strange skin. She could feel them now. She could also command them. She moved them forward.
+
+Two scythe-like blades of solid darkness glided silently in front of her. They were as thick as two fingers in the width and quite thin but they felt really solid. She used one to poke at the mattress. She could feel the mattress through the new limb. It was quite disconcerting.
+
+“That… will take some getting used to.”
+
+On instinct, she did something that was a bit like breathing in. The two half-wings retracted into the shoulder blades.
+
+“Ok, this is weird. Really weird. Ah?”
+
+Initializing
+
+Error. Human variant detected. Special attention required. Please wait while I attribute mental space to your case.
+
+Her interface was turned off. She couldn’t access it for now.
+
+She could, however, see what the shift didn’t cover. Between her breasts, there was now a black stone embedded into her skin. It was the core taken from the necrarch, hers now. It was shaped like an inverted teardrop and much smaller though no less powerful for it. She touched it. Smooth and warm. There was… a lot of mana here, though it felt dormant for now. There was no rush to wake it up. Still needed to get her bearings.
+
+Viv stood up and let herself fall off the bed, the frame groaning under the strength of her grip. The shift reached her ankles which was… weird? And there was something else.
+
+//Hello, Your Grace.
+
+“I am delighted to see you well,” the lich said as he entered the room.
+
+“I have a question.”
+
+“I am sure there are many.”
+
+“Where have my boobs gone?”
+
+An embarrassed silence spread through the room.
+
+“Hello? I remember what my body should be like and this isn’t it! Where are my muscles? Where are my damn tits? Why am I so damn short? HELLO?”
+
+“It appears that the ritual led to a significant loss of body mass. I am sure the effect is only temporary.”
+
+“What do you mean a loss of body mass? Explain yourself!”
+
+Viv’s new back scythes — she really had to find a word for these — extended, aimed at the tall form of the lich.
+
+Much taller, in fact.
+
+And that shift had been in her bag. She had packed it herself.
+
+“No no no no no no what? WHAT?”
+
+“It would be better if I just gave you a mirror. Also, please retract your black mana limbs, thank you.”
+
+Viv did so if only so the tall bag of bones would pass her the mirror faster. She grabbed it.
+
+That was mostly her face.
+
+“You have a powerful sense of self to have retained the same appearance. Within the constraints of the ritual, of course.”
+
+“Shut up!”
+
+That was indeed her face except for two teeny tiny little details.
+
+One, her eyes were void pits decorated by emerald circles that shone like lasers on a night sky. That was cool. And edgy. Mostly cool. She would disintegrate anyone who said otherwise.
+
+The second detail was that her face was considerably sharper, as in not just her cheeks had melted but even her bone structure felt compressed.
+
+“Why do I look like a fucking weasel?”
+
+//Your body is undergoing some changes.
+
+“If you finish that sentence with a period joke I swear to Neriad I’ll order you to sing the Enorian anthem.”
+
+//My voice modulators are sealed.
+
+“I apologize for the upsetting circumstances of your awakening, however the ritual consumed part of your body mass to fuel your transformation. A careful observation has revealed that your nervous system, brain, and heart are now fully functional. However, the rest of your physical envelope will still require gradual, ah, upgrading. Food consumption and patience will see you return to normal soon enough. Hmm. Within the next six months.”
+
+“Are you telling me I need to eat my veggies and drink my soup so I become tall again?”
+
+“Well.”
+
+//That is to say.
+
+“Yes.”
+
+“What the hell? I fucking hate my life. How can I be the dark empress if I’m pint-sized? I’m short even for a Paramese woman! No one will take me seriously!”
+
+“We also surmise that your hormonal levels will remain high until your biology adjusts to the change. Additionally, I regret to say that this body may not give life. That is to say, you cannot be with child.”
+
+“Ah. Well, we expected it. I mean, it makes sense.”
+
+“Unfortunately, and due to adapted body functions, you will still get your moon blood.”
+
+“You two get the fuck out of my room right now.”
+
+They did so, following which Viv threw her pillow at the door with a terrible roar of anger. Ok, it was more of an angry squeak.
+
+Link restored.
+
+Let’s talk.

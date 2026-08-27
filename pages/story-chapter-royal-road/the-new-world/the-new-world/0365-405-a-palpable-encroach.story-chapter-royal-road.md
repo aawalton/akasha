@@ -1,0 +1,569 @@
+---
+id: feff83cf-6a68-59fd-9e44-a9a55cca08b5
+page-type-slug: story-chapter-royal-road
+title: "405 A Palpable Encroach"
+slug: 0365-405-a-palpable-encroach
+partOf: the-new-world
+position: 365
+ownLength: 4703
+unit: words
+ownProgress: 4703
+publishedAt: 2025-03-30
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2160510/405-a-palpable-encroach"
+royalRoadId: "2160510"
+markedReadAt: "2026-06-29T21:33:50.497Z"
+---
+
+In that limbo of thought and feeling, I stood there, watching the bleeding waves. Some length of time passed before I walked away from this place and back towards the chasm. Watching the blood ocean pour in, I stared back at the waves behind me.
+
+"I hope you've found this entertaining."
+
+Baldowah echoed.
+
+"I have, Harbinger."
+
+I glared at the eclipse, my rage and sadness coursing over me in waves. Knowing I could do nothing, I dove into the red expanse below.
+
+This was not the end, and they would know what this feeling was.
+
+Chapter Begin
+
+I floated back into our world, gravity flipping on its head once more. I marked this position on my minimap. I lacked the means of closing the warp behind me, so I headed back to our base. After nearly an hour of flying and avoiding pillars, I returned, finding the team of power-hungry, suicidal divers waiting at the city's center.
+
+All of them survived the trek back, and they sat near the town's center, having received assistance from the architect. Diesel got them essential support since he was one of the few humans here, and he had a more normal approach than most. As I flew in from above, the divers gawked at me.
+
+My full size cast a shadow over them all. With practiced ease, I shrank myself to a solid twelve feet. I raised an arm and pulled my helmet off my face.
+
+"Hey, guys. It's good to see you all made it."
+
+One of them sputtered out.
+
+"You. You're the Gray Giant?"
+
+I furrowed my brow.
+
+"I used to be, but that was a long time ago. People usually call me Harbinger or Daniel these days."
+
+Two of the recruits looked at each other before one of them jumped up.
+
+"Can I get an autograph?"
+
+I gawked.
+
+"For being the Gray Giant? Seriously?"
+
+"Absolutely. It was incredible watching you fight the oppression of the espens."
+
+I gawked.
+
+"Ok...I guess."
+
+I winced at a poster the man took out of his dimensional storage ring. It showed me standing on top of a gialgathen corpse. I furrowed my brow.
+
+"I'm not signing that. Give me something less overtly genocidal."
+
+"Genocidal? The gialgathens were slave owners. They had everything they got coming to them."
+
+I frowned. The gialgathens definitely deserved some serious repercussions for what they did. Extinction? It seemed a bit much and lacking in any sort of redemption. The shortest of the crazy divers elbowed their friend. He snapped.
+
+"They're a part of his guild now, you idiot."
+
+The fan scratched the back of his head.
+
+"Huh...I thought they were his slaves now. Is that not how it played out?"
+
+I closed my eyes before pinching the bridge of my nose. Maybe inviting these maniacs into the guild wasn't the best idea. Either that or we needed to work on the guild's public image.
+
+Diesel walked up to me, his hands on his hips.
+
+"If you're wondering, they're not in the guild yet. They'll be sent to Mt. Verner for testing. Either way, these two watched your streams on Giess, and they became mega fans. When I told them you were the genuine article, they flipped out."
+
+One of the newbies frowned.
+
+"Do you not do autographs?"
+
+I scratched the side of my head.
+
+"I do. Uhm, do you have some metal?"
+
+The other person took out a piece of metal used for armor. I walked past them, leaving my signature on two slabs of steel with telekinesis. They left alongside the rest of them before I shook my head at Diesel.
+
+"Huh. That was weird."
+
+Diesel spread his hands.
+
+"Not as weird as having a bunch of nearly naked savages crawl up to our city holding crystallized mana. You know that stuff can blow up, right? It's like holding bombs."
+
+I shrugged.
+
+"Pshhh, you guys handled it. I also had to make sure they weren't totally insane after the stunt they pulled. So far, there seems to be mixed results."
+
+Chrona flew over, having rested while I was gone.
+
+"How was the journey to the cavern's center? Was the monster handled?"
+
+I dimmed a bit.
+
+"Yeah...It's handled."
+
+Diesel and Chrona glanced at each other before Diesel coughed.
+
+"We sure couldn't have handled it."
+
+Chrona nodded.
+
+"Oh, certainly not. We were like hatchlings trying to fly."
+
+Diesel scoffed.
+
+"It was so fast we couldn't even see it."
+
+I sighed.
+
+"I'll be fine. It was a tough mission this time. That's all."
+
+They let it go before I found Helios settled into one of the empty homes nearby. Walking into his room, he burned a strange incense, drank an odd tea, and played music from his obelisk while reading from his status. He peered up.
+
+"You've returned. With good news, I assume?"
+
+I nodded. Helios tilted his head.
+
+"A gloomy Harbinger? An interesting reversal from your usual determined indifference."
+
+"It wasn't fun. That's all."
+
+Helios raised his brow.
+
+"Touchy, huh? Then, if you're calling me, I'll assume there's another ruptured dimension at the center?"
+
+I blinked.
+
+"Yeah, there was. How'd you know?"
+
+Helios dragged his hands down his face.
+
+"Ugh. If it were normal, you wouldn't have contacted me. I'm glad I took a moment to simply breathe and collect myself. This task would've been arduous otherwise."
+
+He stood up, putting a hand on my shoulder.
+
+"And so you remember, no one is all-knowing or all-powerful. That especially includes you. Some humility helps in situations like this."
+
+I frowned.
+
+"Humility? That's where I'm lacking in?"
+
+Helios stepped out of the room.
+
+"To feel shame implies the ability to change the outcome. We don't feel guilt or evil whenever someone dies across the cosmos, do we? That's because you and I cannot affect what happens there."
+
+He pointed at me.
+
+"You must recognize that to make an Empire, lands must be conquered. Conquering is always messy."
+
+I followed him outside.
+
+"This has nothing to do with conquering. There's simply a lot I need to do."
+
+Helios frowned. He opened his mouth before finding nothing to say. He sighed before throwing a hand up to me.
+
+"Come then. I'd hate to miss out on this rare occasion to lounge about due to wasting time here."
+
+I pulled us through the city's barrier and across the dimensionally ruptured horizons. After an hour of traversal, we reached the mammoth lake. I put a sphere of dimensional fabric over Helios before we even approached the thing, and at the bottom of the lake, I parted the seas with gravity to give Helios room for his work.
+
+On the canyon's bedrock, Baldowah's dimension poured in. Without the water masking the mana, it seeped in as your standard, everyday waterfall of blood. The sanguine liquid evaporated into ascendant plasma, and it coursed through the dimensional gap. Helios gawked at it in disgust.
+
+"This is Baldowah's ilk. Ugh. A singular, one-dimensional being that still could tear apart the cosmos. It's a dreary thing to contemplate."
+
+He stitched the fabric of reality while I stood there, lost in thought. Helios peered around.
+
+"This reminds me of the lottery."
+
+I spread my hands.
+
+"I know, right?"
+
+Helios scoffed.
+
+"You sound excited."
+
+"It's just been irritating me since I figured out it existed. This is bad news. I get a lot of that these days."
+
+Helios tilted his head at the portal.
+
+"Hm. It could be worse."
+
+"I guess we could all be dead."
+
+He raised a gauntleted hand.
+
+"Don't count your blessings yet. I'm uncertain as of yet, but I'm sensing something off about this rupture."
+
+An hour passed, the both of us handling business, one healing a dimension and the other tearing monsters apart. Once the rift rivaled the size of a large coin, Helios shook his head.
+
+"Agh. This...I can't close it."
+
+I stepped closer.
+
+"We can take all the time we need, but leaving this opened isn't an option."
+
+He turned to me.
+
+"I know that. I'm telling you, I can't close it. Not completely."
+
+I dragged my hands down my face.
+
+"Ah, man, more complications. Ugh."
+
+Helios threw his hand at the portal.
+
+"It'd be possible under nearly every circumstance, but this...This isn't feasible. It cannot be closed."
+
+"I'm pretty sure I already know why, but would you mind explaining it anyway?"
+
+"It's the Old One. It's created some kind of unbreakable law for this tear in spacetime. The moment it became this size, all magic ceased affecting it."
+
+"Have you tried some technology instead? Maybe some system workaround?"
+
+"The circuitry fries, and the status dissipates. Daniel, this isn't something I'm equipped to fix." Helios crossed his arms. "And if I'm not able to address a warping issue, then the warping issue probably isn't addressable."
+
+I let out a long sigh.
+
+"This is exactly what I wanted to avoid, but of course not. That'd be too convenient."
+
+Helios let his hands flop against his sides.
+
+"If you're so dissatisfied with my results, then by all means, handle the issue." He rolled his hand. "Weren't you...Hm, carrying the other portal for a time? Perhaps you can drag this dimension elsewhere like some dimension-shoving caveman."
+
+I frowned.
+
+"I was and still am. That's exactly what I was hoping to avoid."
+
+Helios furrowed his brow.
+
+"Why is this a problem while the other warp was a training exercise?"
+
+I walked up the portal, Baldowah's mana pouring from the rupture like water from a firehose.
+
+"The other warp didn't have an Old One vomiting its essence out as a geyser of blood."
+
+Helios peered at the gushing blood.
+
+"Fair point."
+
+As I did with my other dimensional anchor, I clogged it with my dimensional fabric. With my wake, I tugged it along, the effort as exhausting as hauling the other one. Actually, this pocket dimension carried a bit more heft than the previous one. In a sense, the other rupture felt larger, as if it dwarfed this one's raw size. The density of Baldowah's dimensional space left me struggling despite the lack of volume.
+
+Taking a breath, I put three minds onto the task, and they hauled it with me. I raised a thumb to Helios.
+
+"Consider the situation addressed."
+
+Helios made a circle with a finger.
+
+"Ah, you're stopping an opened portal to an Old One's dimension by putting yourself in the way of its gush. So, that is what's considered addressing an issue in this era? Perhaps I can consider my relationship with Obolis handled then."
+
+"Oh, come on. This is better than leaving the thing here."
+
+Helios frowned, pointing at my face.
+
+"And your helm. It's rather ominous, isn't it?"
+
+I placed my hand on my helmet, finding a twisted smile on it. Ascendant mana still poured from the rift, and the only place for it to go was into my armor. Taking a moment, I assessed how powerful the flow was. It was a decent amount of mana but nothing unmanageable. With a conscious effort, I changed my helmet's expression, no longer grinning like a madman.
+
+"That better?"
+
+"Yes, but you'll reduce our number of recruits if you let that mask slip at the wrong time."
+
+I pulled us up from the bottom of the lake, the water flowing together as clashing seas. They plumed upward, a thick cloud of bloody water forming overhead. We drifted off in a slow crawl before the blood rain began pelting us. As blood pooled over him, Helios murmured.
+
+"A rather slow departure, isn't it?'
+
+"I'm hauling two dimensions. Cut me some slack."
+
+Helios sighed.
+
+"It's making your face even uglier."
+
+"Beauty's in the eye of the beholder, and besides, how can you even tell? You're blind."
+
+Helios gazed at his claws.
+
+"It's a feeling in my gut."
+
+I remembered my mind prying apart the corpse of the avatar.
+
+"Huh. You do have a good intuition."
+
+As we darted over the expanse, Helios furrowed his brow.
+
+"It's banter, not a serious statement on your overall appearance. In earnest, I am a poor judge of aesthetics. I find mana beautiful, not the normal shapes or physical patterns that most admire."
+
+I sighed.
+
+"I know. Just...Let me be with my thoughts. I'll process and be fine, as always."
+
+Helios nodded before opening his status to send messages. We passed the terrain and fog, its strange qualities not diminished by the containment of Baldowah's dimension. Once back in the city, we landed in the middle of it. A few stray scavengers rested while everyone else processed new skeptiles coming in every few seconds, patches of a thousand coming in with each warp.
+
+Helios walked towards his cubbyhole while dripping bloody water. He waved a hand.
+
+"I'm finished attempting the impossible today. Leave me be."
+
+He shut his door, channeling silencing magic to isolate himself from his surroundings. Tera bounded up, a palpable elation evident in his smile. He spread his hands.
+
+"I wanted to thank you again for this opportunity. We will not waste it."
+
+I peered back and forth.
+
+"Hm, I, er, I feel like I don't deserve so much recognition, so, uh, thanks."
+
+Tera scoffed.
+
+"Nonsense."
+
+He gave me a hug.
+
+"You're a champion who has saved our kind. Thank you."
+
+His sincerity was scathing, and I couldn't understand why. He leaned back before giving my shoulder a pat.
+
+"I enjoy this new stature of yours as well. It's not so utterly massive. It makes you more approachable."
+
+I smiled at that. Tera gestured to the city before going over all of the adjustments they made to the city, how each piece improved their lives, and how excited their people were for the fresh start. It all passed me by in a blur. One of my minds kept listening, but I faded into a state of pressing thought.
+
+Was this all some maniacal plan by Baldowah? He could have hundreds of these dimensional warps opened on my planet while making none of them closeable. Eventually, this planet would turn into an ascendant hellhole, and the only method of stopping it meant covering myself in mana hoses. They happen to lead straight to his corruption.
+
+It left me feeling disgusted with myself and the situation at large. I wanted control over how I handled Earth, and my only means to that end involved taking an insane risk. Finding myself between a rock and a hard place, I contemplated leaving Earth. Without a planet to tie me down to, the Old Ones would have a much harder time infecting me with their poison.
+
+I breathed the thought in before breathing it out. I resolved myself to save this place, and I would have it done. In this case, I would take the harder of two paths. I'd simply carry the dimensions and soak in their venom. It was inevitable either way.
+
+After all, I'd relied on my armor's cleansing ability up until now. I could only pray that the trend continued as I took on this burden. Either that or I could try to unload the portal into the void of space, but I had an itching suspicion that Baldowah and the other Old Ones wouldn't let that happen.
+
+As Tera finished discussing the changes with a gush of excitement, he left me standing a few blocks from the center of the city. I hovered myself atop a building, enjoying the view of the skeptiles' new capital. Minutes passed before Chrona landed beside me.
+
+She wrinkled her horned brow.
+
+"You seem troubled. With good reason, knowing you."
+
+I shook my head.
+
+"Naw. I'm just crying over some spilled milk."
+
+Chrona rolled her eyes.
+
+"You are one to cry over spilled mercury, not something like milk. Now, please, speak of what ails you."
+
+I waved a hand.
+
+"I really don't want you to have more to worry about."
+
+A silence passed over us. Chrona snapped.
+
+"I see the portals you carry. I sense the corruption one of them causes. Perhaps that is your concern?"
+
+I smiled, the expression mopier than it should've been.
+
+"Well, there goes my laying low strategy."
+
+She gazed at the sky.
+
+"How many ruptures are there on Earth like that one?"
+
+"Enough that this planet is going to make Giess look tame soon, I'd imagine."
+
+She turned to me.
+
+"And what's your plan? To carry all of them?"
+
+My shoulders slumped.
+
+"It sounds even dumber than I thought once you said it aloud."
+
+She covered her mouth with her tail.
+
+"You...Gah."
+
+I spread my hands.
+
+"What other answer do I have?"
+
+She snapped a building apart with her tail.
+
+"One where all does not rest upon your shoulders alone."
+
+I stood up.
+
+"Who else can carry this?"
+
+Chrona leaned back.
+
+"I don't know. Perhaps one of your followers can find another use for the mana? A way of containing and neutralizing its toxicity?" Her eyes softened. "Anything else but you carrying the burden alone. Not again."
+
+I shook my head.
+
+"This is ridiculous. Everyone is so damn critical all the time. Look, I can't be perfect. Sometimes, when I have to fix something, it gets messy, alright?"
+
+Chrona's eyes widened.
+
+"That's precisely what I'm saying. You're the one demanding everything from only you. We want you to give a piece of your burden to us. Anything to lessen it, for we see how it pulls you down. Especially now."
+
+I pressed my hands together, my voice a psionic whisper.
+
+"Did you see what happened to Krog?"
+
+Chrona's eyes dimmed.
+
+"I did."
+
+I walked to the edge of the roof. I fumbled a bit, having to hold myself upright using gravitation.
+
+"I remember when Torix's original body was destroyed on Giess. I remember my hometown getting slaughtered. I remember the lottery when I had the rulers help me out. Do you know what happened to them?"
+
+Chrona peered away. I pointed at the city's mosaic roads.
+
+"They were eaten alive while their minds were destroyed. I was the only one to pull through, aside from Shalahora and a handful of other people. I should've just shoved them all into my dimensional storage from the beginning. In fact, the moment I saw them, that's what I should've done."
+
+Chrona's gaze sharpened.
+
+"Would you put us within that prison to protect us as well?"
+
+"What? No. No, of course not-"
+
+Chrona glared at me.
+
+"Yet you treat us like glass sculptures awaiting destruction."
+
+I blinked, my throat burning.
+
+"That's...That's what everything feels like. Like it's all glass, and I'm trying to stop it all from shattering."
+
+A quiet lingered. As the wind whistled, Chrona murmured.
+
+"It must be hard to watch us."
+
+"It is. Everything feels so fragile now."
+
+Chrona placed her tail on my shoulder, my dimensional plate covering it.
+
+"That's because it is."
+
+I took a breath, and I chose to listen. She peered into the distance.
+
+"You are a part of our strength, but we must test ourselves in danger as you have. In the same way that you thrive on the edge of death, we too, are most alive when we pursue that which scares us. That is why we thrive not when we survive, but when we have goals that give us a reason to live."
+
+I sat down.
+
+"It's just so hard to watch."
+
+Chrona glared as the city's barrier destroyed a roaming eldritch.
+
+"I know of the feeling. I watched over Emagrotha's armies long ago. In those times, I watched many of my friends die in the name of a better life."
+
+I frowned.
+
+"To keep the espens enslaved?"
+
+She winced.
+
+"We were wrong. Very wrong, ignorant, and savage. However, our intent was to accomplish a just deed in our world. We wanted what was best, even if we didn't know what that really meant. In that regard, I don't think any of my comrades regretted dying for what they believed in."
+
+Chrona gazed at the canyon's edge.
+
+"You've given us something else to believe in. An icon and a world without all the pain we've all grown so accustomed to. You cannot expect us to watch you drag this planet and guild into that future alone. We all wish to be a part of that journey, and to that end, I believe we deserve the opportunity to join you."
+
+Chrona's eloquence shone through. I nodded.
+
+"You guys just try to stay safe, alright? It's hard watching you all jump at death."
+
+She smiled.
+
+"That's rich coming from you, of all people."
+
+I flexed an arm, the armor rippling.
+
+"Eh, I'm tough."
+
+She manipulated time around us.
+
+"We are as well. More so than you might imagine."
+
+I took a deep breath before standing up.
+
+"Thanks for the talk. I'm feeling a lot better."
+
+She grinned, the expression reaching her eyes.
+
+"Good. We worry about you at times."
+
+I put my hands on my hips.
+
+"You know, I forget you're centuries older than me."
+
+"I, as well. It's inevitable for me to understand things you do not, and I'm glad you choose to listen when I see the need to bridge those gaps."
+
+I smiled back.
+
+"Me too. Anyways, I have a canyon to cleanse."
+
+"And I, a city to protect. Goodbye, Harbinger."
+
+Dragging myself up, I hauled two literal dimensions with a determined effort. It took a lot of energy, but I managed to make it back to the canyon's depths within two hours. At the surface of the lake, I hovered. Using Event Horizon, I consumed the stored mana near the surface and in the clouds above, cleansing the land of Baldowah's corruption. At the same time, I contained the funnel as its source.
+
+The dimensional tear leaked billions of mana every minute, an amount I handled but couldn't ignore. Instead of putting it in my runes, I had a mind use it for the magic I channeled. This prevented any passive personality changes from occurring over time from my runes. At least, I thought it would.
+
+That safeguard put me at greater ease, and I'd address the warps with Torix and the others soon. For now, I cleaned up the colossal lake over the next few weeks. By the time I finished, the view had expanded to hundreds of miles, though the fog still lingered about in disparate patches. In particular, it lingered at the peak of the cavern's walls, but that left the dungeon exposed in all its glory.
+
+It rivaled any place, destination, or notecard I'd ever seen, and the sheer expanse stole my breath away. The lake was akin to the Caspian Sea, a massive expanse of water that continued for ages. Once I cleared the area, the organisms burned through their residual ascendant mana, revealing their true shapes.
+
+The plants pacified, no longer as bloodthirsty though still dangerous. Poison leaked from some of the vines instead of blood, and the corpse-swallowing monsters near the lake's bottom were actually rainbow koi, their forms brilliant in the crystal-clear water. They snapped at brilliant flying fish that let out flashes of light above the water.
+
+These shimmers disoriented any incoming insects or catfish below, stopping them from getting eaten as often. Past the lake and coast, many rivers poured into the vast lake. Life lapped at these plentiful waters, the entire expanse blooming with fresh growth.
+
+The levels of the monsters also lowered into the low thousands, sitting around twelve hundred. It was the perfect training ground for the skeptiles. Not wanting to interrupt them or the space, I let them decide how to handle the many fused dungeons. They could clear or keep them. Knowing the skeptiles, they'd open an eldritch ranch and zoo.
+
+That wouldn't be a problem. My perk from the lottery allowed my guild to incorporate opened dungeons onto my planets without the planet devolving into a fringe world. Adding curated spaces like this could add a lot to the world instead of taking away from its natural beauty. Seeing it all left me hopeful.
+
+After a few goodbyes, I gave the skeptiles a few thousand rings as a parting gift, along with nine other cities they could establish without any payment. Considering the sheer size of the ravine, they might all settle here, leaving their desolate home world for a veritable dungeon.
+
+With the situation squared away, I got back to Mt. Verner. While I walked through Helios's portal, my mood soured. Helios rolled his eyes.
+
+"What's gotten under your skin now?"
+
+I peered at our mountain.
+
+"I'm thinking about what I found at the dungeon's center. It was a fresh avatar of an Old One."
+
+Helios peered at his nails.
+
+"You killed it, didn't you?"
+
+"Yeah, but there are others here. With this one, I got lucky enough to handle it early on. I don't know if I'll be able to contain them before they become a problem in other places."
+
+Helios sighed.
+
+"Perhaps they were the only ones here."
+
+I gazed at the moon.
+
+"Somehow, I doubt that."
+
+Heading back over to my golem creation facility, I fell back into my crafting and training with Shalahora. I got faster and better at crafting as I found the minimum standard Schema required for the gear to be considered complete. At the same time, I fell into the training and crafting as a way to escape.
+
+I was all too aware that my training had become an outlet for my anxiety. It was a way to manage the pressure of being the leader of a guild and having so many people rely on me. I could put other pressing responsibilities to the side as well, like uncovering Hod's reviving personality or uncovering my father's current place in the world.
+
+At the same time, the more I put into my own strength, the more I felt prepared for these unnamed but encroaching threats. It didn't hurt that seeing Marsha die put a fire under me. I forged under that heat, and I put myself into a systematic, coordinated set of hours to handle the needs of the guild. As I operated at the utmost efficiency, I accelerated my speed of production eightfold.
+
+I could pump out nearly a million amulets a day despite Shalahora's training. The break also gave time for a few of my guild's missions to develop like the expansion effort. I could have a series of cities marked that could be flow by and knocked out, one by one. Otherwise, I'd spend all my time traveling back and forth from the needed construction project to Mt. Verner and back again.
+
+Those requests piled up, and by the time Schema's quest completion closed in, I managed a push and pull with Shalahora in our training. It wasn't anything close to winning, but it meant he had to reposition and apply tactics. That came about from my mindless aggression. And I mean literally mindless. I could continue a psionic surge through a saturated effort.
+
+To make it happen, I formulated my thoughts for one purpose before aiming myself at the guy in a suicidal charge. Even if the mind died, the thoughts lingered after. It was kind of like trying to drown a samurai sword master by throwing puppets at him as he cut the strings. In my case, my killed minds were the stringless puppets.
+
+They clashed against the psionic titan, leaving only the slightest of marks on him. It was a grand victory in my eyes, though it only left Shalahora peeved. In many cases, this kind of grueling progress might leave someone demotivated. However, it left spurred to further action, and considering where we started, I took the wins where I could.
+
+So, after a month and a half of following the schedule, I cranked out my last medallion. Lugging it and a pile of gear over to Springfield's exchange center, I met two Sentinels hauling the gear. They wore some of my merchandise on themselves. After giving them a curt nod, I helped haul everything onto their shipping vessel.
+
+After they left, the sound of a notification binged in my ears.
+
+Arming Schema's Warriors(Lvl 20,000+ | Quest Rank S | Party Size: Any | Guild Affiliation: The Harbinger's Legion | Quest Status: Completed!
+
+Calculating Rewards...
+
+I rubbed my hands together. It was time to reap what I sowed.

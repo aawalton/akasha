@@ -1,0 +1,131 @@
+---
+id: f1e9a82a-345b-5c49-b828-caed2f07cd4c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 622: Final Piece"
+slug: 0044-chapter-622-final-piece
+partOf: system-change-system-universe
+position: 44
+ownLength: 2055
+unit: words
+ownProgress: 2055
+publishedAt: 2026-01-21
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2962880/chapter-622-final-piece"
+royalRoadId: "2962880"
+markedReadAt: "2026-06-29T19:58:08.778Z"
+---
+
+Chapter 622: Final Piece
+
+After receiving the notification, the first thing Derek did was focus on turning the passive on for the Enigma Achievement. He didn’t have access to his old system status right now, so he wouldn’t know if it worked until someone tried to scan him and got a headache.
+
+By the way it sounded, he didn’t have to worry much about his Void Eclipse ability—at least in the beginning. The notification that Dave left was a bit open to interpretation. He said to keep the power on the lower end but didn’t specify whether he meant to keep it lower as the skill grew stronger and leveled up, or if he meant not to push it as he had just done a moment ago.
+
+From his reading, it seemed to be the former, but he couldn’t be certain. So, to play it safe, if he used it, he decided that he would keep it in the middle unless he was forced to do otherwise. But that thought led him to another concern. If things didn’t go as planned, he could get sent to a really rough place, and he really only had Marrick, Edgar, and Jace who could help him in a fight.
+
+That would be enough if he didn’t have the others to take care of. But, in fact, that was the only reason he was even considering The Queen’s offer. Supposedly, she wasn’t very strong, but she was still strong enough to become a Guardian. The thing is, she was supposed to have some decent illusion powers, and those could come in handy. She was definitely a spoiled person, but so far… not necessarily bad. So, he decided that he would consult with Edgar.
+
+With the skill testing finished, Derek dismissed the eclipse, and the darkened area returned to its normal state. Edgar and Jace walked up, and Edgar said, “I have to say, that is a cool skill. Now I want one that affects the area around me. A dome like the one Vanessa can create, but instead of just trapping people in, I want the entire area to become a lightning storm.”
+
+“That’s no fun,” Jace said. “That would be like fighting passively. Boring. I can’t even think of something like that working well for me.”
+
+“How about a dome that increases the speed at which your Battlelust fills up?” Derek asked.
+
+“I… stand corrected,” Jace said. “Like I was saying, I think if I could get a dome that increases my Battlelust accumulation, that would work great.” His eyes widened. “Or… one that gives me Battlelust from all the battles going on. Like, if the three of us are fighting three others? I could get it from all three battles.”
+
+“That would also be good,” Derek said. “But I think the first one is the better choice. The second seems more like an ability for people who like working in teams, but I don’t think that’s you. Of course, there will always be situations where it would be handy, though. But it wouldn’t help at all if it were just a one-on-one battle.”
+
+“You’re right… but I won’t be mad either way,” Jace said.
+
+“Either way, your power would increase,” Derek said. “But… changing subjects, Edgar, what do you think about The Queen? Would it be worth taking her? Is she someone we can trust? I kind of want some extra firepower just in case shit hits the fan.”
+
+Edgar paused and thought about it. “She was already in the room for the defeated before I got there, so I didn’t get to see her fight Amelia, so I can’t say anything about how strong her illusions are. But if she made it to the Guardian list with illusion magic alone, she has to be pretty good with it. She could certainly help us run away or distract enemies if she is with us.” He rubbed his chin. “I did talk to her quite a bit, though… I was in there for a very long time, and she was the chattiest.”
+
+“And what impressions did you get?”
+
+“She’s bored. She’s tired of everything. She’s tired of politics. She’s just… tired. She’s a little sharp with her words and a bit entitled, but anyone in her position would be… I used to be. I think if you chose to bring her, being in a fighting group where she is the weakest would really tone her down, though,” Edgar explained.
+
+“If it were up to me and you could take her… I would choose to do so. At the very least, I don’t think any harm will come out of it.”
+
+“The thing is… I can take as many people as I want,” Derek replied. “It’s just that I can only get ten people into a safe place that I know about, where they won’t have to worry about being harmed while they are there. The others won’t even be able to step foot inside it. And they can’t stay in my Time Prison because I need to be able to use Void Travel.”
+
+“What happens if you use Void Travel with people inside?” Jace asked.
+
+“They are bombarded with unstable space, time, and, I think, chaos. Their heads could be there one second, then just gone the next. And one second inside could be a thousand years…” Derek paused. Huh… I bet Dave could just sit there and it not matter with the way he spoke about longevity… His eyes widened. Marrick evolved getting the same kind of body as me, but of sand… that means his longevity had to have increased by a ton… but the spatial effects are still something that I have no workaround for.
+
+“What is it?” Edgar asked.
+
+“Oh, nothing… just a random thought. But yeah, you could step inside and come back out a baby from what I’ve seen. If you don’t die from old age or suddenly missing a heart, that is,” he explained. “That’s why I had to test that eclipse skill. I thought it was just going to create that kind of void that I wouldn’t be able to control, but it doesn’t start too bad, and it’s something I will be able to adjust as needed.”
+
+“I see… well… you don’t have to let her in the safe zone,” Edgar said. “Tell her that, and I can guarantee that she won’t care. She wants out.”
+
+“Why don’t you just go pick up Amelia?” Jace said with a tilt of his head.
+
+Derek looked at Jace and opened his mouth to speak, but then closed it. Could he do that? Would she do that? After he killed the little blue guy? He had to think back to the fight they had after Darvin died. She apologized to me after she lost her temper when I killed Darvin… She could have instantly killed Jace, but she didn’t, which is quite a feat considering how big of an ass he is. She got control of her rage and other feelings very quickly… and what about Jakis? I like him… straightforward, looking to fight… very honorable…”
+
+“Oh… I bet she would go,” Edgar said.
+
+“Why do you say that?”
+
+“Because that wolfman who kicked my ass said that when they put power in that beam thing of theirs, they lost a lot of time, so… I don’t think she will be able to ascend so she can continue on… at least for a very long time,” Edgar explained.
+
+“What about Jakis? Do you think he will come?” Derek asked.
+
+“No,” Edgar said.
+
+That confused Derek. Between Amelia and Jakis, he thought Jakis would be the one to jump at the opportunity. “Why?” he asked.
+
+“Because he’s probably not around,” Edgar said. “After the fight with you, he unlocked all the requirements. I bet he’s already ascended.”
+
+Derek raised his brow. He didn’t expect that, but he guessed it made sense. He did gain extra control after fighting Derek. “I guess… if she agrees to help with the travel and fighting even though she doesn’t have a spot in the safe zone… it wouldn’t hurt to ask. I’ve made friends out of enemies before.” He was thinking about Walter. He’d even gone as far as to kill his son, and the man forgave him, and they became quite close. “I’ll take the two of you back and just go see if Amelia wants to come. I’m not going to push for her.”
+
+“We’re fine,” Jace said. “We’re going to spar while you’re gone.”
+
+“We are?” Edgar looked like that wasn’t something he agreed to.
+
+“We are!” Jace said. “But just a spar. I’m not going to go collect a bunch of Battlelust right off the bat. Should be fun.”
+
+“Fine…” Edgar replied.
+
+“Okay… good luck,” he said to Edgar, then left. After picking up Silvi, he traveled through the void again. They were getting better at traveling long distances. When Derek opened the portal and stepped out, he saw that they were in a high-tech room with a large table, holographic screens, and a bunch of other stuff that he hadn’t seen in a long time.
+
+“You! Where’s Jace!” a feminine voice called out, then a dagger bounced off Derek’s armor. Then, another one didn’t even break the skin on the back of his neck. The next thing the attacker knew, she was flying into a wall with a horn-sized hole in her belly. “You’re… Vendra?” he said. “So this is where the System Watcher lives?”
+
+“Derek Hunt,” a voice sounded, and when he turned his head, he saw Amelia.
+
+“Amelia… is Jakis around?” he asked, just wanting to find out.
+
+“He’s gone. He has disappeared from the system database,” the red giant woman replied. Her eyes were narrow as she spoke to him. “May I ask why you have come?”
+
+“Do you want to ascend and travel to another system with me?” he asked outright.
+
+“Do I… want… what?”
+
+“Yeah… I’m taking all my friends… and Jace…” he looked at Vendra on the ground with fury in her eyes, but also fear at the bunny who was staring her down. “But most of my friends are weak, and I want some strong people to help. Jace suggested that I should bring you, and… you were pretty clear-headed, even after I killed Darvin, so I agreed.”
+
+Amelia frowned, but he could see the interest in her eyes. “What does this… new system entail?”
+
+“I have no clue,” Derek said. “We should end up somewhere around our power levels… hopefully. But that’s all I know. It’s basically what Jakis did. Edgar, one of my friends who talked to Jakis a lot in the room where the defeated were at, said that you may have lost the chance to ascend because of the energy you put into that beam.”
+
+“I… lost time. In time, I will recover it.”
+
+“Well… you could spend that time, or you can go with me to a system that lets people get to level one thou… owe…” Derek looked up and clicked his tongue at the system restrictions. But he said enough for her to understand.
+
+“That high?” Amelia asked.
+
+“As far as I know.”
+
+“This… I will need time to think about it.”
+
+“We don’t have time. I’m leaving in a few days,” Derek said.
+
+“Then… I will have to decl…” she stopped, then looked at Vendra with a look of exhaustion. “I accept,” she finally said. “But could you come get me on the day of? I need to arrange things with my tribe. Luckily, there is a clear choice to take my position.”
+
+“I can do that,” Derek said. Then he explained the safe zone and the ten ‘tickets.’
+
+“I don’t need a safe zone. Never had one before, won’t start now, not a lot of honor in hiding, as you saw with the Champions back on your planet,” she said.
+
+Derek nodded, thinking that was easier than he thought it would be, and it looked like Vendra was part of the reason. Just as he was about to step through the portal, another voice rang out.
+
+“This sounds interesting. I’m in. I will go with you now.”
+
+Derek looked, and it was the other floating blue guy. Derek snorted and said, “Fuck off.” Then he left.

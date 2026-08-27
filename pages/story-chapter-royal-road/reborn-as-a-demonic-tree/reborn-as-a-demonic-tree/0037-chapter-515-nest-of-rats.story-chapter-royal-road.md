@@ -1,0 +1,141 @@
+---
+id: d8716fac-e3bd-5668-973d-08ceb1b18530
+page-type-slug: story-chapter-royal-road
+title: "Chapter 515: Nest of Rats"
+slug: 0037-chapter-515-nest-of-rats
+partOf: reborn-as-a-demonic-tree
+position: 37
+ownLength: 2723
+unit: words
+ownProgress: 2723
+publishedAt: 2025-12-19
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2862698/chapter-515-nest-of-rats"
+royalRoadId: "2862698"
+markedReadAt: "2026-06-29T19:02:46.970Z"
+---
+
+Thane thought the years spent living alone in the monster-infested wilderness had hardened him as a person—yet nothing could have prepared him for how casually Councilman Cyphion massacred so many people. It wasn't the coldness in his eyes as he went about it or his disregard for human life that had shaken him. It was the sheer effortlessness of it. Killing a thousand mortals in an instant was impressive, even for a cultivator like him in the Star Core Realm, but it was the fate of the Enforcer that really showed the cataclysmic gap between them. The Enforcer had instantly popped with the same brutality as all the mortals surrounding them, despite being at the peak stages of the Star Core Realm. Yet possibly even more terrifying was the fact that the surroundings were still intact and he was alive. That meant that the ripple through space that killed everyone, no matter their cultivation level, had been targeted.
+
+Every cultivator knew how unruly Qi could be to control once it left the body, so Thane couldn't even begin to comprehend Cyphion's sheer level of control. Just what would a fight look like if this terrifying man were to go all out? Could he kill everyone in Floridawn with a single attack? Thane's mind raced with possibilities as he stood beside the young man who looked so plain and unassuming, yet harbored unfathomable strength.
+
+Though that wasn't the only reason Thane was unable to escape his stunned silence. If seeing a hint of a Monarch Realm cultivator's true strength hadn't been enough for his poor mind to comprehend, the shadow lich that towered at two meters tall, floating before them and talking to them, was the nail in the coffin. Not only that, this shadow lich was apparently the manifestation of this All-Seeing Eye god that Cyphion was a fan of.
+
+"You're a fan of mine?" the lich asked Cyphion with a voice that was beyond bizarre, as if there were a hundred tortured souls calling out from the beyond. It made his consciousness tremble with every word.
+
+"Of course! As a fellow practitioner of the spatial arts, ever since I laid eyes on your masterful control over desolation Qi, I have been a big fan of yours. So much so, instead of taking your demonic sword, I left it in a faulty spatial prison for you to recover," Cyphion paused. "Judging by your confusion regarding me, the demonic sword never passed on those good words about me?"
+
+"The sword cannot speak, so no. It did not."
+
+Cyphion deflated. "A shame, perhaps we could have met sooner and under less standoffish conditions if that beautiful hunk of metal could speak. Though this is better than I could have dreamed! I would love to have a sit-down conversation with you about the wonders of desolation Qi sometime. Soon, preferably. Like... right now."
+
+"That could be arranged," the lich said, seemingly amused by Cyphion. "Why don't you come and meet me in my lands right now?"
+
+"Oh, I would love to!" Cyphion said in a joyful tone. The very tone that Thane knew from spending decades around this man at gatherings was the one he switched to when scheming something. "Unfortunately, there's a slight issue. I'm under house arrest and investigation by the Council, so I cannot leave Floridawn unsupervised. If you want to talk, it would have to be right here."
+
+"What were your crimes?" the lich inquired.
+
+"Whoa, who said I committed any crimes?" Cyphion said, raising his hands in a gesture of fake surrender. "I'm just suspected of neglect as the fifty Empyrea Enforcers sent with me on a mission to your lands mysteriously died, and I had no good explanation for why. I mean, it's not like I could admit to forcing them to stay behind in a room with a hungry demonic sword while knowing a wrathful god was on their way, now could I?"
+
+"So you're the reason all of that transpired the way it did. Interesting." The shadow lich floated a little closer, and Thane felt his body tense under the monster's soul pressure. Just who was this All-Seeing Eye to use such a creature as its mouthpiece? "What a shame. Since you are confined to Floridawn, I would take a guess that you're not the one in charge of this vast city, as somebody of comparable strength would have to watch over you."
+
+"As expected, nothing escapes your keen insight." Cyphion sighed dramatically. "Councilman Faelorian Lysanthos is the man currently overseeing Floridawn. Though, dare I be so bold, I would go so far as to say the position of leader was robbed from me by him!"
+
+Thane couldn't believe what he was hearing. Having attended so many parties with both of them present, they had seemed like brothers to him, trying to lead Floridawn to new heights and to contend with Empyrea. He never expected Cyphion to be so venomous behind the scenes.
+
+No, hold on, the flower he chose to represent himself should have clued me in on this. Not only does the queen of the night only grow from cacti, which are known to be prickly to the touch, but the flower only blooms once a year and wilts by dawn. Was that supposed to represent his desire to take over Floridawn from Faelorian?
+
+The golden flames in the shadow lich's hollow eye sockets flared at Cyphion's words. "Robbed, you say? So would you be pleased if Councilman Faelorian Lysanthos were to be relieved of his position?"
+
+Cyphion waved his hand. "Pleased? Heavens no. I would be utterly devastated at such a significant loss to the Celestial Empire. I dare not think about such an outcome. Heavens, how could I eat and drink in comfort knowing such a talent was gone? However... for the good of the Empire and to continue his admirable legacy, I think I'd just about be able to get over my deep grief and lead the Flower Accord in his stead. While I'm sure it would be burdensome, I would be willing to put Floridawn first and suffer for the greater good."
+
+Thane couldn't believe how shameless a Monarch Realm could be. Weren't these people supposed to be walking god-like humans, unfazed by mortal desires and petty politics? Leader of the Flower Accord—how could such a title compare to being a Monarch Realm? Thane couldn't understand it at all, and he felt his opinion of Monarch's crumbling while also feeling deeply concerned that someone like Cyphion wielded so much power.
+
+Cyphion paused and then smirked. "Your goal is to take over the Celestial Empire, right?"
+
+"Something like that," the lich replied while glancing at the World Tree in the distance. It then looked back at them, and Thane shivered under the monster's gaze. "You seem like an ambitious man, Councilman Cyphion. I think we will get along well in the future."
+
+Cyphion graciously bowed. "I believe so too, your godliness."
+
+"I want to meet with Councilman Faelorian Lysanthos. Could you arrange that for me?"
+
+Cyphion frowned as he straightened up. "That will be difficult. I approached you of my own free will as I'm a fan of yours, but other Monarchs don't move so easily, especially someone as cautious as Faelorian."
+
+"It doesn't need to be today," the shadow lich said, opening its palm, and a jade appeared. It floated out of the skeletal hand toward Cyphion, and the man grabbed it out of the air with an expression of interest.
+
+"What's this?"
+
+"The jade contains coordinates for a mutual meeting location out in the wilderness. The offer is extended to all Council members who wish to meet with me." The shadow lich lowered his hand. "I don't expect them to be interested today, but I'm sure once they realize my decay is unstoppable and gives way to waves of monsters that will ravage these lands, they may grow more interested in having a discussion."
+
+"What about me? I would love to talk to you about desolation—"
+
+"After you are crowned as Floridawn's new ruler, I will answer all your questions," the lich said and began to sink into the shadows below. "Until then, I will always be watching."
+
+The shadow on the ground vanished, leaving behind the bloodstained street and no sign that the shadow lich had ever been there.
+
+Cyphion spent a long moment staring at the spot the shadow lich had left before turning to Thane. His ecstatic expression made him shiver.
+
+"That was really the All-Seeing Eye! I spoke with him! Ahhh, what bliss. Though I must say, I'm terribly sorry you had to experience all of that, old friend. It must have been hard on you."
+
+"It's okay, really," Thane said, his shaky voice betraying him.
+
+Cyphion thankfully wasn't really paying attention to his pathetic self, as his focus was entirely on the jade in his hand that was now glowing. "The meeting spot... why there of all places?" he frowned. With a flick of his wrist, the jade vanished. "Thane, I hate to burden you with something, knowing how exhausted you must be right now."
+
+Thane highly doubted that. Whatever task was about to follow was precisely why this old monster had left him alive out of the many that now existed as nothing more than blood stains. He swallowed his pride and slightly bowed. "I would be honored to assist you, Councilman Cyphion."
+
+"Good, as expected of you. Now to business." Thane felt ripples of spatial Qi mask their surroundings. "As you know, I'm unable to leave this place. I will need you to check on this meeting location for me." He raised his finger and placed it on Thane's forehead, causing him to flinch. A prickle of pain followed as information was shoved into his mind.
+
+Thane blinked in disbelief. Is this... a mental map? Whoa, is this how spatial cultivators see the world? he wondered as he felt drawn to a specific location, a random spot a few days' travel away, deep in the monster-infested wilderness. From the map, he couldn't tell what would await him there, just the general direction and location.
+
+"Got it?" Cyphion checked.
+
+Thane nodded.
+
+"Great, take this too." Cyphion handed him a spatial ring. "Contained in there is a very expensive artifact that allows me to create distant portals. Place the artifact near the location so I may travel to it if needed."
+
+Thane nodded again.
+
+"Now, old friend, this goes without saying, but if you were to betray me."
+
+"You don't have to worry! I swear—"
+
+Cyphion continued, cutting him off. "I have tethered my Qi to you, meaning I can kill you with a thought from here to the edge of the realm," Cyphion said smoothly, as if talking about something mundane. "Don't disappoint me, Thane."
+
+Thane tensed. "I will strive to not disappoint..." he stopped mid-sentence as Cyphion vanished in a flash of spatial Qi, unbothered to hear the rest of what he had to say.
+
+Bastard! You dare to call me your old friend?! Thane mentally cursed in his mind. How can you refer to me as such and then treat me like a disposable pawn? He shuddered, knowing only death awaited him. He knew too much and suspected that the moment he put down the artifact, his life would come to an abrupt end before he could open his mouth. Thane wasn't a fool and knew he was a loose end that needed to be tied up. After all, to a Monarch Realm that had likely lived for thousands of years, he was nothing but an ant.
+
+He looked down the street, beyond the area blessed with his nature Qi, and could see the decay hastening. He would have to fly over this area to reach the meeting point.
+
+Do I even have enough Qi to make it there alive? I used most of my reserves on proving that stupid Enforcer wrong—only for that fool to die minutes later. Ah, why couldn't I have been granted a swift death like the Enforcer? I don't want to live with false hope for just a few days.
+
+With his shoulders sagging, he reluctantly summoned his flying sword and hopped on. Flying as high as he could over the desolation, he was slightly relieved that it only lightly burned against his skin at this height.
+
+"I can't believe how differently Councilman Cyphion treated me, an old friend who worked tirelessly to decorate his house with exquisite floral sculptures, and a city-destroying death god," Thane hissed to himself while feeling miserable. "Is it really true that the powerful only have any respect for those who can benefit them? Or is it isolated to Cyphion, who is clearly greedy for power?"
+
+Thane closed his mouth, realizing any number of powerful cultivators could be overhearing his mutterings, but then sighed. Why should he care? He was going to die in a few days.
+
+"The Celestial Empire is a unique nest of rats," a voice whispered, sending a jolt down his spine. He almost fell off his flying sword in terror. "Find salvation in the All-Seeing Eye, for only he is truly fair to all."
+
+Thane glanced over his shoulder and saw something move in his shadow. Swiveling around, he dropped to his knees and peered down into his own shadow, like a bear trying to find fish in a pond. Yet he saw nothing.
+
+"I'm going crazy," Thane said, his voice and body trembling. He definitely hadn't gone crazy enough to hear such a clear voice, but he didn't want to entertain the realistic option—that now his shadow was speaking to him. Deluding himself into thinking he was crazy was more preferable. Standing back up with wobbly legs, he focused entirely on his destination.
+
+The meeting point in the wilderness, and likely his graveyard.
+
+***
+
+Not daring to put any kind of tracking on Cyphion, Ashlock had hidden Anubis in Thane's shadow. He had just wanted to mess with the guy a little, perhaps plant a seed of rebellion in his mind, but he appeared to have scared the daylights out of the bushy-bearded man.
+
+"He's more cowardly than his appearance suggests," Ashlock mused and left the man to his long journey over the wasted lands. He had more important affairs to attend to and think about.
+
+Firstly, the talk with Cyphion had been unexpected but very promising.
+
+"I think he will make a great pawn. He practically wore his ambition like a second skin and was clearly drooling at the thought of my power. No doubt he wants to seize the potential of desolation for himself and ride on my coattails. There's just one slight problem with his plan." Ashlock laughed. "He thinks I want to merely take over the Celestial Empire and not totally wipe it out. If he joins sides with me, there will be nothing left for him to rule over—not that the backstabbing bastard needs to know that, so long as he dances well for me."
+
+Ashlock moved toward the north and abruptly stopped above a seemingly random mountain range. Nothing was out of the ordinary, which was precisely what he wanted from a meeting location, as anything he noticed, the Monarchs of the Celestial Empire would too.
+
+"Just like Councilman Cyphion, I expect the others to send scouts to check this place out. I want to make sure there's nothing that would scare them off." Ashlock checked the area more thoroughly, as you never knew if some crazed demonic goat-sacrificing cult was hiding deep beneath the earth. Confirming no such group had taken residence, he was content with the random location he had picked. "Now, to place a marker so they know this is the meeting location, as I'm unsure how accurate those coordinates I placed into the jade are. Mhm, if I grow a demonic tree here, that might make them wary. What about an unassuming totem pole with an eye on it? That could look cool."
+
+Returning to Red Vine Peak, he inquired with a Mudcloak to have that made as quickly as possible, so it would be there when Thane arrived.
+
+After that, he decided he would go and check on Stella. He needed an update on the progress of Morrigan's new body as the Covenant would soon be busy.

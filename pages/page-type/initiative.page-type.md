@@ -10,7 +10,7 @@ plural-slug: initiatives
 domain-parent-slug: domain/work-system
 required-reading-slugs:
   - repo/memory-repo
-named-for: "{persona-slug}-{slug}"
+named-for: "{slug}"
 conditional-reading-slugs:
   - define-initiative
   - review-initiative
@@ -32,7 +32,7 @@ An initiative takes each intent off the domain that held it, and holds it as its
 
 An initiative is not limited to one domain.
 
-An initiative's name states the end its intents add up to.
+An initiative's name is its persona and its target domain.
 
 An initiative's purpose is done once every intent it holds is met.
 

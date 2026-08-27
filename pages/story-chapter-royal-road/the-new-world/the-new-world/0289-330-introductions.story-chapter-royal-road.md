@@ -1,0 +1,163 @@
+---
+id: 9434c7d1-8b41-5e30-9c55-4a2d12136dd5
+page-type-slug: story-chapter-royal-road
+title: "330 Introductions"
+slug: 0289-330-introductions
+partOf: the-new-world
+position: 289
+ownLength: 2687
+unit: words
+ownProgress: 2687
+publishedAt: 2022-02-10
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/842437/330-introductions"
+royalRoadId: "842437"
+markedReadAt: "2026-06-29T21:31:08.190Z"
+---
+
+I peered back and forth, looking around at the other rulers nearby. No one moved to any specific place, so I created a telepathic link with Shalahora. I murmured, "This probably isn't your first meeting if I had to guess, so are there any pointers you have on where to go?"
+
+Shalahora radiated, "This is my first meeting as well."
+
+My eyes widened, "Woah, really?"
+
+"I've lived a long life...But it was not spent ruling over others. I isolated myself, and only recently have I decided to enact my will onto another species...This is a trial for me, in many ways."
+
+A wave of awareness crashed over me, and I nodded, "Ah...So you're as lost as I am then?"
+
+"We walk in the dark in this."
+
+Schema's voice ushered from the stone nearby, "Five new ruler class members formed since the last meeting. They shall traverse to the panel below and introduce themselves."
+
+The ascendant Overseer lifted an arm, generating a panel of mana. The red guardian manifested energy, forming a crimson disc that crackled out lightning and a dense miasma. I frowned at it. It was enough energy to cause side effects in weaker-willed people. Standing on that platform could cause hallucinations, mana saturation, or worst of all, mana devolution.
+
+Schema tested the new members, and it didn't fall outside my notice.
+
+The Overseer pointed his finger at Shalahora, and the Sovereign beside me shifted out of the Overseer's shadow. Shalahora held two locations simultaneously, one half beside me and the other resting on the mana plate. Shalahora linked to everyone present in a single instance, the chain solid and firm.
+
+I held down a laugh, the poor guy starting off with a poor impression. He mentioned people being put off by his demeanor, and this explained why. The guy wrestled into a person's mind like slamming open a front door. Hell, Shalahora even did so with the Overseer, bypassing the restraints Schema planted with ease.
+
+The ascendant mana was no different. It trickled into Shalahora's body, but the Sovereign battled back with pure, unadulterated dominion mana. The density and thickness of the mana defied reason, like a black blizzard. A contrasting panel of dark dominion crystals formed under Shalahora as it murmured,
+
+"I am Shalahora, the Sun Swallower. I no longer know my age, as I existed in the void for many years...My home planet was destroyed centuries ago...And I have treaded the stars, killing the eldritch...I battle with telepathy and mind magic..."
+
+Its form rippled, "And I aim to create lasting friendships here...To those that serve others aside from themselves. Should you fight me..." Shalahora stared through the crowd, "It will not be a battle. It will be a one-sided slaughter...But I hope it doesn't come to that. It would be a shame."
+
+Schema announced, furthering the information, "Shalahora is a Sovereign who was previously a Fringe Walker. He moved from that class to the Sovereign for personal reasons. He's cleared over 300 planets, wiping them clean. Treat him with respect, as he has killed other sentients many times before."
+
+The weight in Schema's voice pressed from all angles, and I realized the reason for its depth. It didn't come from any source; it manifested in my mind. Like the status screens staying open even with my eyes closed, I could plug my ears and still hear Schema's voice. He skipped the sensory step, relaying information directly into our heads like he did with the system.
+
+That unnerved me, kind of like how the mythical compendiums took our minds away to some far-off place. Shalahora could've been accentuating that disparity with his own strength. The behemoth shifted back towards me, leaving his umbral platform of dark crystals behind. He stayed silent beside me, and he gave off no hostility despite his warning.
+
+The entity came across as casual and composed, not one-sided or menacing. Seconds later, the Overseer pointed towards the individual beside Obolis. A heavily muscled cyclops jumped from beside the Emperor. The cyclops left cracks in the ground, Obolis having to generate a platform, so he wasn't sent stumbling.
+
+The coal-black cyclops landed on the ascendant platform, the energy radiating through him. His eye turned bloodshot, the beast only wearing a loincloth of leather. He wielded a club composed of eldritch parts fused with acid or alchemical potions. As the mana flooded him, the cyclops took a breath.
+
+Cipheric tattoos over his skin flashed with quintessence mana, several spirits coming to life within the cyclops. A single union of many tribes spoke through the cyclops,
+
+"We are the Kalat. We live for the gifts that Baldowah granted us, giving our species an absolute union. Now we serve his will, the urge to battle and..."
+
+The ascendant mana oozed into the cyclop's body. The Kalat murmured, "And...And we are grateful to Baldowah and its grace."
+
+Schema added once more, "The Kalat serve Baldowah's will, having killed several powerful (S-) bounties. Being the union of many millions of souls, the mental strength of the Kalat is incredible. When fully focused. They switched from the Breaker class to the Founder class to assist with another unity project from Baldowah."
+
+Schema spoke with a wry note in its voice, "The Kalat have done well, though they would do better serving under me entirely."
+
+The Kalat bowed, "It is not that we serve either more than the other. We simply enact the will of both our masters at once, in unison. We do this in all things."
+
+The Kalat leaped off, and I inspected their title.
+
+The Kalat, an Ancestral Union | Level 38,827 | Guild: The Kalat | Class: Founder...
+
+Shalahora murmured beside me, "Their life is strange."
+
+I raised a brow, "How so?"
+
+Shalahora rippled, "By considering the whole, none of them truly live...They are a fusion of all...And yet, they represent no one that actually exists. All those lives amount to that...I would never do the same."
+
+My many minds jumped into a defense mode. I crossed my arms, "I'd bet they'd be difficult to work mind magic on."
+
+Shalahora cackled and turned to me, "The opposite is true. A union is simple to destroy...You must create clashing conflicts within them, and the division splinters the whole...It falls like a tower of sand thereafter."
+
+I noted that detail, making sure I didn't forget it. It could work in the future if I faced Lehesion or someone else in mental warfare. As I mentally jotted that down, the next member warped in instead of jumping.
+
+A curvaceous woman with a seductive smile stared at everyone. She wore flashy clothing that accentuated her figure, retaining some class from the quality of the materials. Wings wrapped around her, coming out of her shoulders and hips, the lower limbs smaller than the upper ones. A light, green tint shone off of her metallic skin, and she spread out her wings while beaming light.
+
+With confidence, she put her hands on her hips and beamed, "I am Iona Joan. I am a consulate of Schema. I represent his viewpoints in various economic capacities along with organizing newer worlds during the culling process. Over the last two hundred years, I've saved over thirty worlds from falling into fringe status, getting species back on their feet after rocky beginnings. I did all for a moderate price with a lenient interest rate."
+
+Iona smiled at Shalahora and me. She put a hand on her sternum, "I'm not quite as prolific as that Sovereign over there, but I know a thing or two about how to manage an organization. If any of you need help with expanding or getting Speakers under your guild, I'm here to help."
+
+She gave everyone a charming smile, "Just send me a friend request, and we'll keep in contact."
+
+She radiated out with charismatic energy, and I wanted to talk to her for no reason. I silenced those thoughts, knowing she invested heavily into charisma and the related skills to emphasize that route. To my surprise, several other rulers fell victim to her. They opened their statuses, and Iona giggled while smiling, "Thanks for the friend requests, everyone. I won't let you down."
+
+I tilted my head, "Hm, she did a good job advertising, at least. She handled the mana with ease too."
+
+Shalahora peered through her. The miasma cloud murmured, "She 'advertises' because she needs what others offer...To exchange admits weakness and need...I prefer my merits to be my own, not from others."
+
+I raised my brow, thinking about what Shalahora said. On the one hand, I agreed that having your own worth was vital. If a person's value derived entirely from how they worked with others, that individual became the sum of what others did.
+
+At the same time, one person couldn't do what many could. Seeing Torix struggle with the guild's management was a prime example of that. Like with a lot of things, erring to the side of balance worked best. Either way, I checked out Iona's title to see her level.
+
+Iona Joan, Schema's Ambassador | Level 23,102 | Class: Administrator | Guild: The Alliance of Speaker Associates for Schema Centered Goals...
+
+The guild name was a mouthful. Before the next ruler stepped up, I considered talking with her to help out Torix. I sided against it since Torix hadn't exercised his full abilities yet. Our lich needed time to use the credits I handed him. If a few months passed and the guy still struggled with it all, I'd commission him some help. For now, I kept my faith in our lich. He helped us kill Yawm, and he'd kill at managing cities too.
+
+The fourth new ruler walked up. As if writhing in pain, a condensed ball of eyes and teeth walked out. Twitching in pain or discomfort, the monstrous eldritch coursed out of the crowd. It drooled from several orifices, its body making my skin crawl and itch. It was like staring at a fleshy honeycomb.
+
+It moved in a flash, the stony ruins under the beast smashing apart. It landed on the ascendant mana plate, and the beast went berserk. A restrained berserk, but berserk nonetheless. It frothed at the mouth and hissed out in rage and anger. Something within its body controlled the monster.
+
+With its ironclad grip, it extended a telepathic pool out to everyone here. Unlike with Shalahora, this served as an invitation. Shalahora murmured,
+
+"Ah...This is how it's done. To extend such a gentle hand is difficult."
+
+I smiled, "Eh, you struggle because it's so easy to just rush over people. Everyone's so different in what they can handle, mind magic wise."
+
+Shalahora considered himself, "Perhaps, but perhaps not. I believe the golemites were made to be symbiotic, and that gentles their mind magic. My species...Where not made to be so kind."
+
+A bit of pain lingered in Shalahora's last words, but I didn't ask for more details despite my curiosity. The Sovereign would say more if he wanted to. Instead of prying, I linked up to the telepathic construct, and a neutral voice spoke out,
+
+"Hello. I am M-901. I am a golemite Seeker who has recently transitioned to the Founder class after finding a species without any true guidance. I am offering them an upheaval in exchange for small amounts of mental space in gifted individuals of their species."
+
+I frowned. It sounded like he took advantage of some desperate race far off in the cosmos. The golemite rattled off, "And they are such a gifted people! The golemites, being as generous as we are, see their potential. In fact, I'm currently eradicating the mind of this eldritch-infested member."
+
+The eldritch devolved under the ascendant plate. The mana ruined its mind, its nervous system, and its body. The beast bubbled and frothed, melting at the seams while the golemite spoke in a casual, unconcerned voice,
+
+"And to my surprise, this Overseer has given me such a great opportunity here to dismiss this useless thing. Just look at this! This eldritch doesn't stand a chance. Truly, Schema is mighty and deserving of recognition."
+
+A chill ran up my spine, the golemite talking like an advertisement. The golemite pulled itself out of the eldritch mass, the monster letting out exhausted groans in a heaping slop. The golemite, on the other hand, manifested as an ethereal blot of mana condensed into a series of glowing, compact cubes.
+
+These squares moved about and shifted like someone solving a Rubik's cube. It ebbed out, "Anyone willing to partner up with a golemite is a friend, so please, talk with me after if you wish to share your mind with us. You may one-day host multiple golemites and rise to the status of an abyssal if you do. You'll never know if you don't try."
+
+A murmur rang out through the crowd of rulers. I leaned towards Shalahora, "What's an abyssal?"
+
+The misty mass beside me writhed while it said, "The golemites extend a person's mana pool and mind by hosting their form in a person's body. They...Are exceptionally strong-willed and determined...Eerily so."
+
+Shalahora shivered, fear racing through the Sovereign, "The golemites are an odd group of sentients...The Abyssals they speak of are legendary, rivaling Avatars in power...Many open themselves to the golemites in pursuit of that status."
+
+Shalahora's pale blue eyes bore on the golemite. Shalahora murmured, "But the golemites...They are like a dogma given life. They exist to pursue a strange religion that is incomprehensible...I have seen many fall to their cause...Few have risen, yet they are spoken of throughout the cosmos."
+
+I raised a brow, "Ah, so the golemites are like Elysium and Lehesion then."
+
+Shalahora tilted his head at me, "How are they similar?"
+
+I peered off, "The Adairs used a...A colossal telepathic tether to control Lehesion. They also imbued Lehesion with some kind of psionic fluid, probably based on the Old ones. I think that because the fluid is resilient stuff. Even after being disintegrated multiple times, that tether's lock never even so much as waned."
+
+I blinked, "That being said, Lehesion leaned into the remnants as a new identity." I frowned, remembering Lehesion's eclipse attack. I simmered, "If you ask me, Lehesion was escaping all the mistakes he made in his second and first lives. He ended up killing his previous lover and committing many atrocities. He wasted his opportunity. I aim not to do the same."
+
+Shalahora condensed and dispersed, his body turning more real or intangible as he did. It murmured, "A lesson, surely...You're next to announce yourself...Luck be given to you."
+
+I smiled, "Eh, I'll try."
+
+Schema spoke up through the crowd, "All of you know the golemites and their powers, so there's no need to elaborate further. The final and newest ruler class may step up."
+
+The Overseer pointed at me. Unlike the other rulers, the ascendant Overseer snapped its fingers, sending over some kind of dimensional ripple. A chunk of the ruins and the air around me appeared on the ascendant plate of mana. I raised an eyebrow, remaining unaffected by Schema trying to jerk me around.
+
+The other ruler class members whispered.
+
+I hovered myself over to the ascendant plate of mana. As my feet made contact, the ascendant mana flooded into my body. It overflowed with the umbral crystal that Shalahora left behind. Through my feet, the energy flowed into my body. It left my skin glowing from its radiance, about three cipher's worth of power here.
+
+My armor grinned as the energy writhed inside my blood and bones. The ascendant mana shouted out with madness, wishing for death and destruction. I tilted my head at the noise before quashing the lunacy of the tiny mana blot. I raised a hand, the ascendant mana flooding into my palm. I smashed it in my hand, arcs of lightning streaking out.
+
+I took a breath, mana flooding into my body. I pulled my helmet off my face, breathing out the red mist. I smiled at everyone, a glint in my eye,
+
+"I'm Daniel Hillside, the Harbinger of Cataclysm, but you can all just call me Daniel for short."

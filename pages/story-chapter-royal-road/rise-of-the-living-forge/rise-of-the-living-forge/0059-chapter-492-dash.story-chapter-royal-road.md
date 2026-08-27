@@ -1,0 +1,106 @@
+---
+id: fce41566-cb1a-5d27-a9ce-00e186b39081
+page-type-slug: story-chapter-royal-road
+title: "Chapter 492: ****Dash"
+partOf: rise-of-the-living-forge
+position: 59
+ownLength: 1539
+unit: words
+ownProgress: 1539
+publishedAt: 2025-09-29
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2638170/chapter-492-dash"
+royalRoadId: "2638170"
+markedReadAt: "2026-06-29T20:00:19.553Z"
+---
+
+Lillia didn’t answer any questions when she reached the top of the volcano’s mouth to rejoin Two and Arwin. She barely even gave them a second glance. Her eyes were already somewhere else, and it seemed that the only thing her body could do was follow.
+
+“We’re leaving,” Lillia said simply.
+
+“What about—” Two started.
+
+“Eleven will return soon enough. Tomorrow at the earliest, if you can manage to get her to move that early,” Lillia said, cutting the man off before he could even try to finish his sentence. “We’ll select the next of the Menagerie to Sunset their class then. There are other things I need to do right now.”
+
+Two blinked. He hesitated for a second longer, clearly not wanting to leave things at that. Even if he’d seen a number of Sunsettings before, Arwin got the feeling he and Lillia had stuck out ever so slightly.
+
+But Two didn’t voice any of the questions that were clearly swirling through his mind. The man only inclined his head and stepped out of their way, moving to clear the path to the portal that Eleven had left in the ground.
+
+“Be careful,” Two warned. “Don’t push yourselves too hard so soon after Sunsetting. There can be nasty consequences.”
+
+“What, is our magic still unstable?” Arwin asked. “Are you concerned that we’ll get ourselves killed?”
+
+“No,” Two said. “I’m concerned you’ll kill someone you don’t want to. Figure out your limits before you go doing anything dangerous, or you’re going to punch a wall and bring the entire building down on top of your head.”
+
+“Fair enough,” Arwin said. He had quite a few questions of his own, but none of them were going to get an answer until they were back in the Devil’s Den. It was pretty apparent that Lillia had no plans of speaking more than she had whilst still in Setting Sun’s territory. “Thank you. We’ll be in contact whenever Eleven returns.”
+
+Two nodded, and that was all. Arwin and Lillia stepped into the portal as one. It swallowed them whole, and the Setting Sun’s volcano vanished as the Devil’s Den sprung up to take its place.
+
+Lillia grabbed Arwin by the wrist no sooner than a split instant after their feet were on solid wood once again. She might have yanked his arm out of its socket if his body hadn’t been so filled to the brim with energy from his recent Sunsetting, but she barely even seemed to notice.
+
+Arwin didn’t bother wasting his breath on a word. He just let Lillia pull him — though it was really more of her dragging him through the air behind her like a large, smith-shaped flag — back to her room in a flash.
+
+He didn’t even get a chance to see if any of the Menagerie had been there to notice their return. By the time his senses were fully back about him, he was already within the darkness.
+
+“Lillia?” Arwin finally managed. “Are you—”
+
+“You spoke to it too, didn’t you?” Lillia asked, her breath hot against Arwin’s ear. And it wasn’t hot in the way of a gentle warmth or a comforting glow. This was a real heat. It was as if there was a miniature furnace burning within her chest.
+
+“The Mesh,” Arwin said. “Yes. It told me it was going to speak to you. Did something important happen?”
+
+“The Mesh speaking is just something happening?” Lillia asked, a small laugh slipping out. Arwin felt her hair brush against his shoulder as she shook her head in mirth. “It — wait. It spoke to you again?”
+
+“Yeah,” Arwin said. “I wanted to wait until after your Sunsetting was finished to make sure you didn’t get distracted. But it was just a talk. No huge boons like last time. None beyond Sunsetting, at least. I suppose that’s enough of a boon on its own.”
+
+“Only you could think that speaking to the Mesh itself isn’t in itself worthy of disbelief. What, is it uninteresting now that you’ve done it twice?”
+
+Arwin coughed into his fist as embarrassment heated his cheeks. “I — well, I thought there had been something more. You know. Surely the Mesh isn’t just telling us all the same thing. I’d imagine it has better things to do than that. It told me about how Achievements and Titles are no longer necessary to grow stronger, and we can allocate the power we get as we want to. Was it the same for you?”
+
+“It what?” Lillia exclaimed, her eyes going as wide as saucers. She abruptly went quiet for several seconds, presumably pulling her class status up to take a look at it. Then she drew in a sharp breath. “Godspit. My Achievements!”
+
+She was so focused on something that she didn’t even get a chance to realize that her Achievements were gone? Just how significant were her changes?
+
+“It didn’t tell you?” Arwin asked.
+
+“No. We didn’t get a chance to talk about that. It said time was short and that you would be able to fill me in on what it couldn’t. I suppose I know why now. You spoke to the damn thing as well. Again,” Lillia said. Even though Arwin couldn’t see her in the darkness, he could tell she was shaking her head in mock annoyance. “The Mesh was more focused on telling me a bunch of other stuff. Mostly about my class.”
+
+“Oh?” Arwin blinked. “It was? That feels dangerously close to meddling. It’s always been really careful not to do that. What was it saying?”
+
+“Mostly generic stuff,” Lillia admitted. “But some of it… it made sense. No specific advice, of course. It cautioned me about restraining myself to be less than I actually am.”
+
+“Wow. That is general,” Arwin admitted. “Motivational pre-battle speech much?”
+
+Lillia let out a snort. “It did sound a bit like one. Gods know I’ve given enough of them to recognize one. But this felt… real. I don’t think they were just made up suggestions. And the changes to my class are definitely real. I can barely believe it.”
+
+“Are you going to tell me? Or just keep me hanging until the eagerness chokes me like a man at the gallows?”
+
+It was a moment before Lillia replied. When she did, she spoke softly, as if barely even able to believe the words leaving her own lips or fearing that speaking anything aloud would banish the boons that she had received from existence.
+
+“The restrictions on me, on the Devil’s Den, they’re gone. Changed.”
+
+“All of them?” Arwin asked, his eyes going wide. “Do you still have your former abilities?”
+
+“Yes. None of them are gone, but a lot of them combined. Do you remember the boons I got from serving more people and the curses that I could potentially get landed with if satisfaction ratings ever dropped below a certain level?”
+
+Arwin nodded. Even if he couldn’t seen in the dark, Lillia could.
+
+“Of course. They’re gone?”
+
+“They’re… different.” Lillia paused for a moment as she searched for words. “The satisfaction rating I get isn’t just some passive thing anymore. It earns me power that I can directly spend to empower aspects of the tavern.”
+
+“Aspects? Like… you can make the food taste better?”
+
+“I think I can do a hell of a lot more than that,” Lillia said. She swallowed. “I don’t know if I understand this properly. The implications are too big, and it could be easy to get carried away. But I’m fairly certain that I could spend those satisfaction points to make a drink that could completely restore someone’s magical energy within instants.”
+
+“Holy shit,” Arwin breathed. “That powerful?”
+
+“Well, it would be a huge waste of points. I don’t think they’re easy to earn… but there’s one more thing that was entirely new. And I don’t think it was part of Sunsetting my class at all. The Mesh said I had a lot of Achievements and it would have been unfair to take them all away without providing something in return.”
+
+“Oh?” Arwin’s eyes lit. “What did you get?”
+
+A flash of gold lit the pitch black, barely bright enough to cut through the magical shadow surrounding them for a moment. It vanished just a second later. But that second was enough to give Arwin a chance to read over the short ability that Lillia had displayed for him to look at.
+
+[Hearthmother’s Touch](../../../../rise-of-the-living-forge/royal-road/rise-of-the-living-forge/chapters/Passive) - Any magical effects created by your hand within the premises of your Hearth linger, maintaining both their magical and physical qualities for extended periods of time. Any satisfaction earned by the consumption or usage of these effects will still be granted to you, even if they are utilized outside of your Hearth.
+
+“Wait,” Arwin breathed. “You mean you can make food and drink, then give it to people to eat later and you’ll still get benefits for it? Ones that you can spend to improve the buffs offered by the tavern?”
+
+“Yup. It’s time to expand the business… and I’ve already got an idea on just how to do it,” Lillia said. “I’m thinking it’s just about time the Devil’s Den starts offering in-dungeon delivery.”

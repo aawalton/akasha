@@ -1,0 +1,349 @@
+---
+id: e09c171f-74f3-5e11-9b94-020dd5cdddfe
+page-type-slug: story-chapter-royal-road
+title: "SEVENTY: Rare Company"
+slug: 0071-seventy-rare-company
+partOf: super-supportive
+position: 71
+ownLength: 3493
+unit: words
+publishedAt: 2023-09-04
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1332050/seventy-rare-company"
+royalRoadId: "1332050"
+---
+
+“Are we going to pretend like your big sister wasn’t sitting on you three seconds ago?”  Alden asked in Artonan, watching in fascination as Baby Stu morphed instantaneously into Stu-art’h, son of the Primary, very serious future Knight of the Mother Planet.
+
+“That would be my preference,” Stuart said primly. He took his tablet over to his standing desk and set it up at eye level. At the periphery of his vision, Alden could see the Artonan boy’s hands casting a short repetitious pattern over what looked like a metal block.
+
+He felt himself smiling in amusement. He tried to keep it down to a reasonable amount. “Okay.”
+
+“Thank you for the interesting cultural <<highlights>> from your world. I did say I wished to study such things when we parted. I enjoyed the musicians.”
+
+Alden stepped out of the elevator on floor nine and hurried toward his apartment.
+
+“Who is that?” Stuart asked curiously as Alden passed by a guy in the hall.
+
+“One of my neighbors. Another Ryeh-b’t. He’s got one of the cleaning skills.” There were so many Rabbits with cleaning skills in intake. Alden hadn’t even begun to memorize them all. “I think his name is Paolo.”
+
+He must have been right because Paolo looked back at him. Alden gave him a wave and hustled to his door. It opened as he approached, and he slipped inside, sliding a finger over the line on the wall panel that would mark his apartment as Do Not Disturb on other residents’ interfaces.
+
+“Do you live with many other Avowed?”
+
+“I do now.”
+
+“On Anesidora?”
+
+“Yes.” Alden grabbed a towel out of the bathroom and wiped sweat off his face.
+
+“It’s unusual that so many humans do that,” Stuart mused. “Avowed form communities on other resource worlds, but you’ve concentrated such a significant percentage of your population on a single island. Is it purely <<communal>> or…for some other reason?”
+
+“Officially, it’s for the safety and security of regular people. I guess it makes it easier to separate us into convenient halves, too. Good Avowed stay on the island and follow the rules. Bad Avowed run amok and everyone worries they’re trying to take over the world.”
+
+“It’s very premature for them to be concerned about that.” A furrow appeared between his brows. “Human Avowed aren’t nearly powerful enough for the Grand Senate to consider any request you might make for an <<authorized takeover>> and <<power restructuring>>. That's taken other resource worlds a few centuries in the past. And the percentage of Avowed among your population is extremely small.”
+
+Really, man? I wanted to talk about pandas, thought Alden, grabbing a glass from one of the kitchen cabinets and filling it with water. Apparently Stuart liked his culture chat more serious.
+
+“What’s an authorized takeover?”
+
+“They don’t let Avowed take leadership of your home planets without oversight. It’s almost always disallowed by the original Contract, so new negotiations have to take place and adjustments have to be made. And even when it isn’t forbidden, the <<intervention point>> is stricter for that than for other forms of <<civil warfare>>.”
+
+The 1963 Agreement allowed humans to self-govern in most matters. It also allowed them to screw up and make war against each other…up to a point. The intervention number was eight million. When the eight millionth person died in something like a genocide or war, the Artonans were allowed to come over if they wanted, or send their Avowed in, to sort the conflict out according to their own preferences.
+
+Apparently the number for many species was lower. Alden didn’t know how a collection of leaders had sat around and seriously insisted that they needed permission to make more people dead for human rights reasons.
+
+But World War III was off the table at least.
+
+The Triplanets had been more hands-on in the decades immediately following the creation of the Contract, when the discovery that the rest of the universe was out there and pretty far ahead of Earth had caused a lot of upheaval. Nowadays, they weren’t as eager to involve themselves. And in practice, especially for things like famines and natural disasters, the UN was usually requesting help before the Artonans offered it up on their own.
+
+“My Instructors say that humans built Anesidora for breeding purposes,” Stuart said casually.
+
+Alden narrowly avoided spitting out his water. Of course the talk goes there right off the bat.
+
+“Um…everyone knows that’s part of it. Even if it isn’t polite to say it like that. I think a lot of humans would like more Avowed because it increases the amount of attention we receive from the Triplanets? It’s good for the global economy and our position among the resource worlds. And the Avowed here want more Avowed, too, because it makes Anesidora more politically powerful.”
+
+If you crammed a bunch of people together and made it hard for them to spend time with anyone else, they tended to make babies with each other. Super couples almost always made super babies. And raising kids here was basically free.
+
+“I think there are a lot of other reasons for it, too.” Alden felt the need to make it clear that there was nuance. He was not just living on some kind of superhuman farm.
+
+“The older Avowed seem to like having our own government. It’s good to be able to use powers more freely. I think I’ll probably value being surrounded by people in a similar situation when I get used to it. There is a unique culture here, and it’s beneficial in plenty of ways. I'm still getting used to it. But it’s not only…whatever your Instructors said.”
+
+He decided not to mention the conspiracy theory that Avowed had been collected here back in the old days so that the major global powers could more easily nuke the entire superhuman population if Earth ever decided they didn’t like being a resource world anymore.
+
+Stuart opened his mouth. “What about—?”
+
+“What are you doing with that metal cube?” Alden interrupted. “That is a cute looking metal cube.”
+
+Stuart’s flicking fingers paused over the metal cube, and he turned his head to blink at Alden. “Cute?”
+
+“Ah…wrong word. I meant the word for lightly interesting small things?”
+
+“Hyektch? Maybe?”
+
+“Yes! That one.” Earth was translating hyektch as "cool" which didn't seem quite right to Alden.
+
+“It’s still too close to cute,” said Stuart slowly. “That would be a better descriptive word for…well, never mind. I understand what you meant.”
+
+“Don’t never mind me.” Alden knew from when Kibby was in a funk that that phrase was a good bit more dismissive in Artonan than English. “I’m actually putting a lot of effort into learning your language.”
+
+“Oh. I was rude?”
+
+“A little.”
+
+Stuart sighed. “I was only trying to be <<accommodating.>> Hyektch is a very particular word. It’s the interest a child feels upon first <<encountering>> a pleasing new thing that is not beyond their ability to understand. You actually used it when you met…my ryeh-b’t.”
+
+“Other Alden!”
+
+Stuart smiled sheepishly. “Yes. Other Alden.”
+
+“You remembered the specific words I used?”
+
+“Not all of them. That one was both uncommon and particularly <<apt>>.”
+
+“Other Alden is definitely hyektch. Where is she?”
+
+“I released some bugs in her habitat for her to stalk so that she wouldn’t cry while I worked on this.” He gestured at the cube. “I’m preparing the metal to make a spell ring.”
+
+“Interesting. Is it homework for LeafSong?”
+
+Stuart shook his head. “No. I’m not wasting time on the enchanting courses. They require too much of a commitment. But I’m going to need…want a couple for my personal use soon. I could buy them. But there is satisfaction in making your own.”
+
+Alden poured himself another glass of water and hopped up on one of the counter stools. “What are your rings going to do?”
+
+“Assuming I don’t fail to properly craft and <<enforce>> the enchantment, this one is going to warm my hands when the temperature drops. I’m making another for small object <<levitation>>.”
+
+“Look what mine does,” said Alden, releasing the water glass and letting it stick to his left palm before he wrapped his fingers back around it.
+
+Stuart raised his eyebrows. “That’s an intriguing one.”
+
+“I think so, too. It’ll even hold my bodyweight. Only for half a human second…”
+
+“Did Master Ro-den give you that?”
+
+“Sort of. Wait…just Master Ro-den? Did he lose his Distinguished somehow?”
+
+Stuart didn’t seem like the kind of person who would be inaccurate with a title.
+
+“He did.” The Artonan boy pursed his lips for a moment and then added, “The <<official stripping>> was announced a few days ago. The campus was <<abuzz>> about it like a summer klerm swarm.”
+
+“I didn’t realize it was a thing that could happen.”
+
+“It does. Of course. It’s very embarrassing for it to happen to someone of his age and experience.”
+
+“Poor Joe.”
+
+At Stuart’s look of confusion, Alden added, “He told me to call him Joe.”
+
+“How bizarre.”
+
+“He’s an unusual guy, I think.”
+
+“He’s…<<infamous>>. For multiple reasons. But extremely talented. His summoning rights have been completely revoked now. I have labs next week. If he even shows up, I can’t imagine what the atmospherewill be like.”
+
+It was something else to have access to wizard gossip. Alden hadn’t expected that from this call.
+
+“I bet he shows up and acts like nothing at all happened,” Alden said. “And he uses just as many horrific swear words as usual and treats you all like morons.”
+
+Stuart looked amused. “Do you think so?”
+
+“I do. Call me and tell me if I’m wrong.”
+
+“About that,” said the Artonan boy, “I don’t think you realize this. But I’m not allowed to just call you. Even if you contact me first.”
+
+Alden blinked. “You aren’t?”
+
+“I haven’t earned the right to summon Avowed. Wizards my age don’t usually gain provisional summoning rights for another four years, if they get them at all, and then they’re monitored.”
+
+“But you can’t even talk to me socially?”
+
+“I actually had to look up the relevant laws to check when I received your message. It hadn’t been covered in school, so I was surprised when the System indicated I would have to submit a formal request before replying to you, and that our conversation would be <<subject to mentor oversight>>.” He sighed. “It’s not as though I would have trouble getting approval for it. But I prefer not to give people reason to gossip.”
+
+“Sorry. I didn’t mean to cause you problems.”
+
+“You haven’t!” Stuart said quickly. “Please keep sending me messages. I mean…if you want to…you don’t have to…but you can contact me. Apparently. I just have to wait until the weekends to reply. When I can get someone here at home to make the call for me.”
+
+“That’s why we’re talking on a tablet!” Alden realized. “Instead of through your—”
+
+He gestured at his own eyes to indicate the other boy’s metal rings.
+
+Stuart nodded.
+
+“And that’s why your sister was sitting on you.”
+
+Stuart blushed. “Can’t you forget that?”
+
+“I don’t think I want to.” He smiled. “Ever.”
+
+“Evul is very <<indulgent>> and <<lax>> about rules. I asked her because I knew she wouldn’t mind placing the call for me. I didn’t expect her to…to shove me under her <<lounger>> and squash me for half an hour first.”
+
+Alden burst out laughing. “She squashed you for half an hour?”
+
+"I am nearly an adult,” said Stuart in a peeved tone. “Who does that sort of thing to an adult?”
+
+“Thank you for putting up with it to return my call. And your sister sounds like fun.”
+
+“I thought this kind of behavior would cease when I started college! I specifically chose to go to LeafSong this year instead of waiting in order to make a point about myself.”
+
+“It’s not working.”
+
+“I worry you may be right.” He really did look worried about it. “However, I’ll call you on my weekends. If…if you want?”
+
+“About every thirteen Earth days?” Alden asked. “That sounds good to me. Whatever works for you.”
+
+Stuart smiled and went back to working on his not-cute metal cube.
+
+Alden drummed his fingers on the counter. “It didn’t occur to me that young wizards couldn’t just talk to any Avowed they wanted. I really want to call someone. I have permission from you aunt.”
+
+“Aunt Alis?”
+
+“Yes. There’s a little girl with her. We spent a lot of time together on Moon Thegund. I promised I’d send her messages. I can’t figure out how to do it.”
+
+“The girl you saved.”
+
+“You heard about that?”
+
+Stuart’s focus was still on the cube. “Were you under the impression that I wouldn’t try to find out everything that had happened to you?”
+
+“I hadn’t really thought about it.”
+
+“You showed up at my house with no warning…and then you casually walked around delivering third meal to people."
+
+“I guess that was—”
+
+“Nobody shows up at our house uninvited. Grand Senators can’t even teleport into Rapports without asking for permission.”
+
+“Um…”
+
+“After you left, I had to check with some people to make sure they had seen you, too. Just to be absolutely sure you weren’t a hallucination.”
+
+“Oh.”
+
+“Nobody is sure who summoned the human. Or what they were doing with him to make him look so <<bedraggled>>. I believe most of the household assumes you were a very powerful Avowed who was invited in as a combat training partner for one of my cousins.”
+
+“That couldn’t be further from the truth.”
+
+“I know.” One corner of Stuart's mouth lifted. “I rarely know something that the rest of them do not, and I am enjoying the occasional confused mentions of you.”
+
+“As long as they’re not mad about it when they figure out I was just visiting…”
+
+“They’ll probably just be relieved that the situation ended well,” said Stuart, watching Alden closely. “Nobody wants to run out into the forest on a peaceful evening and destroy an abomination that was once an Avowed. Especially one my aunt admires enough to <<commend>> so highly.”
+
+Alden swallowed.
+
+“So…you do know why you ended up here,” Stuart said calmly. “I thought so. You pretended to be a little ignorant when we spoke before, but after I looked into what had happened, I decided you were probably more aware than you showed.”
+
+Oh I’m way more aware than you know.
+
+“Well,” Alden said in what he hoped was an equally calm tone, “I didn’t think ending up in your backyard was the usual way for people to teleport in to Artona I. And I had just come from a corruption incident. And Knight Alis-art’h did tell me I was probably going to die because I was unbalanced. As far as my skill went.”
+
+“I am glad it did not go that way. You’re sure you’re well?”
+
+Alden gave him a thumbs up. “Great. The Contract fixed whatever was wrong with me. I gained a few levels on my skill. I can preserve dummies who feed their body parts to sea monsters for even longer now.”
+
+Stuart looked so surprised to be called a dummy that for a second Alden worried they were going to have a repeat of the “prick” incident. But then he smiled. “I’m not going to give you the chance to try that again in the future.”
+
+“But your flesh is so high quality,” Alden said seriously. “Much better than mine. Think of the poor mishnen.”
+
+The Artonan boy blanched. “I don’t…I don’t remember saying anything like that.”
+
+“You did. You said something a lot like, ‘Why would a mishnen eat you when I’m right here, human? They prioritize quality.’”
+
+“I apologize. Again. My composure was not ideal.”
+
+Alden nodded. “That’s because you fed part of your high-quality self to a fish.”
+
+“I can help you send your message to Moon Thegund.”
+
+“So fast to change the topic. But thank you. It’s really important to me.”
+
+“There’s no good way to do it, though,” Stuart warned him. “If you wanted to send something very personal to the girl. Contract to Contract is secure and private by design, but to reach Aunt Alis’s ship right now, you’ll have to send any communications through official government channels.”
+
+“Yuck.”
+
+Stuart nodded. “You can choose to send it through them directly, in which case many nosy people will read or view whatever it is before it reaches her. Or you can send it to me, and I’ll send it for you or give it to one of her spouses to pass on. They’re sending Aunt Alis regular updates about the triplets. The government doesn’t read her personal family mail out of respect. Probably. They’ll die before they admit to doing it anyway.”
+
+It wasn’t ideal, but since Alden’s main goal was letting Kibby know he was all right and finding out if she was all right, he’d put up with it.
+
+“Video’s okay?”
+
+Stuart nodded.
+
+“Thanks then. I’ll record it and send it to you. Talk to you in thirteen days?”
+
+“Oh. Do you have to go already?” Stuart’s face fell.
+
+For a guy who was so hard to chat with he sure didn’t want to quit.
+
+Alden actually thought about the question. Did he have to go? Did he want to?
+
+I can’t sleep. And I was about ten minutes away from calling a girl from one of the richest families on the island and yelling at her.
+
+“I don’t have to go,” he decided. “But can we please talk about less serious stuff?”
+
+Rust-colored eyes blinked at him in surprise. “Were we talking about very serious matters?”
+
+“Uh…so far we’ve discussed politics, the eventual overturning of the world order on my planet, me nearly becoming an abomination and being hunted by your family, and whether or not humanity is breeding Avowed.”
+
+Stuart looked confused.
+
+Alden raised an eyebrow at him. “It’s heavy,” he said. “My only other Artonan friend is a young child, so maybe casual conversation between people around our age is supposed to be more intellectual or something—”
+
+“It’s not.” Stuart’s eyes shifted away from the tablet. “I’ve…been having trouble enjoying interactions with my peers at school. I want to respect and care for them. When we speak about matters that are personal to me, it makes everyone very uncomfortable. And when we speak more lightly there is so little common ground that I have nothing to say. So I have been <<steering>> conversations toward academic matters or subjects of personal interest to them.”
+
+His fingers paused their dance over the metal cube. “I didn’t mean to do the same when talking to you. I was happy you reached out. I worried…I thought maybe you were only being polite when you said you wouldn’t mind visiting again.”
+
+Alden considered all of that for a while. “It sounds like you’re working really hard,” he said finally. “And overthinking. You don’t have to do that. You can just relax you know.”
+
+Stuart snorted. “Can I?”
+
+“Yes. Please. And I’ll give it a try, too. What’s the worst that could happen?”
+
+The Artonan boy’s face said he was imagining several terrible things.
+
+“I mean, you’re not going to have someone execute me if I accidentally offend you right?”
+
+“I couldn't. And even if I could, suggesting that I would is offensive.”
+
+Alden shrugged. “Then I’m going to relax and talk about normal shit.”
+
+“Shit?”
+
+“I’m gonna mix some English in, too. Because that’s more relaxed. I’ll be speaking Artonglish for the rest of the night. Englonan. Words.”
+
+“All right…?”
+
+Alden slid off the stool and went to flop down on the sofa. “You would not believe how weird orbital stonechild sounds to an Earthling. I said it in front of a hundred other people recently when I was trying to introduce myself. The Contract totally translated it literally to make fun of me…”
+
+“I don’t think the Earth Contract would do that.”
+
+“Have you met it?”
+
+“Obviously not.”
+
+“It’s less of a dick than Artona III, but still…”
+
+“Artona III can be a little stiff.”
+
+“You noticed it, too! It’s not just Avowed then.”
+
+“I’m living there most of the time. I use it for communicating and classes.”
+
+“With your eye ring things. By the way, I’ve always wanted to ask…do those hurt?”
+
+“They’re implants. I can’t even feel them.”
+
+“Artona III was so snooty. It wouldn’t translate any of Ro-den’s swear words for me. There was no reason for that! And he uses so many of them when he’s talking to you guys. I had to just guess what they all were.”
+
+“If you weren’t exceedingly creative with your guesses then you were probably wrong,” Stuart muttered.
+
+“He never swore at me though. Made me feel left out.”
+
+“He never swears at me either.”
+
+“Does anyone?”
+
+“My siblings. My cousins. You.”
+
+“So only cool people.”
+
+“You are putting yourself in rare company there.”

@@ -1,0 +1,151 @@
+---
+id: 73d2aba9-5022-5660-b624-4bf191f89724
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1214 - Wine Bottle of Beer "
+slug: 0086-chapter-1214-wine-bottle-of-beer
+partOf: the-primal-hunter
+position: 86
+ownLength: 2675
+unit: words
+ownProgress: 2675
+publishedAt: 2025-12-05
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2821592/chapter-1214-wine-bottle-of-beer"
+royalRoadId: "2821592"
+markedReadAt: "2026-06-29T19:31:59.332Z"
+---
+
+The Viper was silent for several moments as he considered Jake’s question before he spoke.
+
+“Again, that’s a complicated question,” the Viper said, less jokingly this time around. “I would say, considering everything, you did very well. It was your first time teaching a class like that, and you got through it pretty decently, and the students left the auditorium having been bettered from the experience. Shit, based on how a few of them even leveled up, they even got literal experience.”
+
+“You said it’s complicated, which makes me think that isn’t all you have to say,” Jake pointed out.
+
+“True,” the Viper nodded, though he didn’t seem intent on elaborating.
+
+“Fine… give it to be straight. How did I actually do?” Jake sighed.
+
+“As I said, you actually did well,” the Viper reiterated. “But it’s all relative. From an objective standpoint, if we compare you to other teachers around peak C-grade who usually do this kind of thing, your lesson was… well, let’s just be honest here, absolute dogshit.”
+
+“Ow,” Jake muttered, having seen that one coming. “But definitely do give me some feedback about just how horrible I was.”
+
+“Again, don’t get me wrong and become all discouraged; this is comparing you to those who do this for a living,” Villy said in a calming tone. “But there were some obvious objective shortcomings. Your time management was less-than-ideal, you had way too many examples, you should probably have included some written material to hand out, you repeated yourself a lot, a lot of stiffness in there, and… eh, no reason to harp on. Though I will point out that perhaps worst of all was that you focused way too much on those who couldn’t follow along to the detriment of those who were keeping up.”
+
+Jake frowned at the last one the Viper mentioned. “What do you mean? Shouldn’t I want to try to make sure everyone is involved and getting something out of the lesson?”
+
+“No,” the Viper said, recoiling at the notion. “Fuck no. Don’t waste your time on the idiots in the audience, but focus on those who are doing well. You kept trying to catch up to those behind rather than further accelerating those already up to speed. If people can’t keep up, that’s just because they’re either too stupid or the topic doesn’t suit their Path; in either case, it’s not your problem. Sure, it’s bad if no one can keep up, but if at least a couple are capable, they should have the vast majority of your focus.”
+
+“That… kind of goes against good teaching practices from my understanding,” Jake muttered.
+
+“This isn’t the Holy Church,” Villy shook his head. “Those left in the dust are to be walked past or trampled. No one should waste their time trying to pick them up and carry others, as that would only slow them down. Of course, the hope is that those who’ve fallen will stand up on their own and keep marching, but if they lack the will to do so, they aren’t worth anyone’s time.”
+
+“… what happened to No Child Left Behind?” Jake asked semi-jokingly.
+
+“Children aren’t enrolled in the Academy in the first place,” Villy answered in a deadpan tone.
+
+“Fair enough, I guess,” Jake sighed. He still wasn’t entirely on board with what Villy said, but he understood the logic. The Order preferred to focus on those already standing out to help uplift them further, even if it came at the cost of those who were struggling.
+
+Culturally, based on his life before the system, Jake found this a questionable approach, but he knew that was how the majority of factions liked to do things, and he reckoned they knew more than him when it came to nurturing talent. Only the Holy Church had a policy of trying to help everyone, but even that had its limits and was ultimately only implemented due to the existence of the Holyland, allowing these weaker individuals to still contribute to the Church as a whole.
+
+Besides, Jake didn’t really have much to say, considering he was one of the main beneficiaries of the Order’s system.
+
+“So, seeing as you didn’t fuck up entirely, how about making this a regular thing so-“
+
+“Fuck off,” Jake scoffed.
+
+“Just a suggestion,” the Viper grinned, clearly enjoying teasing Jake.
+
+“It also took so much damn time to prepare,” Jake sighed.
+
+“Yeah, that’s another point of criticism that I didn’t really see the need to include, seeing as it was your first time. You spent way too much prep time, but again, if you decided to teach more regularly, you would inevitably get more efficient,” Villy said with a smile. “I also can’t say you wasted your time, seeing as spending a month to prepare to get a level while closing in on peak C-grade is pretty damn good.”
+
+“Definitely getting closer to maxing out the profession,” Jake nodded, having nine levels left of C-grade. His class still needed nearly double that, but from experience, it leveled a lot faster than his alchemy.
+
+Especially if he included a cheeky little dragon hunt in there.
+
+“For sure,” the Viper nodded in agreement as he turned a bit more serious. “Now, I do have a small confession to make. I wasn’t so insistent on making you do this lesson just because I thought it would be good for you – which it was – but I also had some ulterior motives.”
+
+“What, record it to bully me in the future?” asked jokingly, having definitely not read the mood right.
+
+“No, to try to sniff out the people behind the ambush in the void,” the snake god said, not a hint of jest in his voice.
+
+“Oh...” Jake muttered as he thought about it a little more. “Wait, why would someone involved in that participate in the lesson? That just seems to be needlessly risky.”
+
+“It’s a long shot, but there is a chance that...”
+
+Villy proceeded to explain his thoughts about the other party wanting to confirm Jake wasn’t injured, as well as some other rather loose reasons, and overall, Jake found the reasoning seriously questionable. But... he also understood that they really didn’t have anything else to go off, and while he had zero faith in this leading to anything, he didn’t see any harm in it. Well, besides completely stomping over the privacy of every single participant in Jake’s lesson.
+
+When the Viper was done, Jake thought for a while before asking:
+
+“So, you've noticed anyone suspicious yet? I didn’t see anything off on my end or had any weird feelings from anyone during the lesson, but I’m also fully aware that my nerves were tense and I wasn’t exactly paying attention,” Jake said.
+
+He also didn’t even question why the Viper hadn’t told him about this plan beforehand, as he fully understood. If Jake had been told this was also part of a plot to try to find a spy from an unknown, powerful faction, he would have been even more stressed out and nervous, and he seriously didn’t need that.
+
+“Nope,” the Viper shook his head. “But I didn’t expect to either. Clearly, whatever method this faction is using doesn’t allow us to easily spot those part of it. The Pantheon of Life didn’t notice they had spies among them, even if they were mortals, so I would have been highly surprised if there was anything detectable to identify them. No, I think the best way is to monitor every single person part of the lesson and see if they do anything suspicious.”
+
+“Hopefully, it leads to something,” Jake sighed.
+
+“But even if it doesn’t, this was still a good idea,” Villy grinned. “Anyway, don’t think too much about it; this is way beyond your pay grade. Just focus on gaining levels and finishing up your preparations for your upcoming evolution.”
+
+“That was the plan,” Jake nodded.
+
+“Oh, and to reward your efforts, I’m even throwing in a small treat,” the god said, leaning forward. “To fulfill your dreams of hunting down a dragon, I’ll help you locate one. A proper True Dragon at that. I already know you wouldn’t be a fan of just attacking some random dragon just out shopping for the family, so I’ll make sure to find one you’ll have no moral quarrels killing. Likely even one that the Dragonflight the dragon belongs to will be happy you killed it for them, as they really hate taking down their own, no matter how much they act out.”
+
+“That... would be kind of awesome,” Jake said, having kind of forgotten to bring up the topic with Villy the last few times they met.
+
+As the god said, while Jake wanted to hunt a True Dragon, he didn’t just want it to be any True Dragon. Most of them were part of the major factions and posed no problems at all, but were simply going about their lives. Even if Jake ignored that it would feel wrong to hunt down someone like that, it would also create needless conflict with whichever Dragonflight the dragon belonged to if Jake decided to randomly kill one of its members.
+
+“Great, I’ll have some people look into it,” the Viper nodded. “It shouldn’t take that long, but it’s not like we’re in that much of a rush seeing the latest bane poison you crafted.”
+
+“Well, someone did delay me by a month or so,” Jake shot back.
+
+“And got another level for it,” Villy pointed out. “And trust me, you’ll need everything you can get. Even if we find a dragon that’s as weak as they come, you’ll still be facing a True Dragon. The weakest of their kind isn’t something a C-grade usually has any hope of facing under usual circumstances, so I am a little interested to see how you’ll do.”
+
+“The power of a True Dragon is exactly why I want to face one, and let’s be honest, if I wait till after I evolve, a similarly leveled True Dragon won’t be a problem unless they’re a truly outstanding member of their race,” Jake said.
+
+“True enough,” Villy fully agreed. “Hence why I’m not trying to dissuade you but just reminding you to make all the necessary preparations.”
+
+Jake nodded as he was reminded of something else. “Speaking of... if I want to craft a bane poison, I’ll need dragon parts. Some blood and scales should be good, however, what I really want is some of their more valuable parts, like a heart or some Record-infused bones, but I was told stuff like that is not easily accessible on the open market.”
+
+“No, again, the Dragonflights get a bit touchy when it comes to killing their kind, and they’re not a fan of people trading the body parts of their slain kin, which, to be fair, is perfectly understandable. I’d guess you would also feel weird about people selling human parts for alchemy.”
+
+“Honestly? Not really,” Jake shrugged. “I would find it weird as fuck, but I wouldn’t really care that much.”
+
+“Oh, let me change what I said,” Villy said. “Body parts of your fellow Earthlings, specifically, which are all sold as delicacies for expensive prices, with the parts of your closest friends and family fetching the highest price. You know, seeing as you’re close to the strongest people from your planet, and the parts of the strongest fetch the best price.”
+
+“Yeah, alright, I would probably end up killing a lot of people,” Jake confessed. “Do the dragons really have that much kinship?”
+
+“Oh, big time,” the snake god nodded. “Amongst their own Dragonflight, anyway. Most True Dragons in a local area also tend to know each other by name due to their rarity, which is why I said it may take a little while to find one for you to hunt. It will need to be a truly ostracized True Dragon.”
+
+“How about a True Dragon that naturally evolved and has yet to become a part of a Dragonflight?” Jake wondered. “Or perhaps a variant that doesn’t quite belong to any particular Dragonflight in the first place.”
+
+The Malefic Viper looked at Jake with a deadpan expression. “Oh, those do exist... and they would all absolutely slaughter you in a fight, no matter what preparations you made. These are monsters who’ve grown up through slaughter and gained incredible power on the way, true geniuses of their kind. I’m not saying they’re on your level, far from it, but that doesn’t mean they’re to be underestimated. No, a regular True Dragon that’s already weak for its kind is the only realistic target.”
+
+Jake wanted to argue, but ultimately had to nod in agreement. The reason he wanted to fight a True Dragon in the first place was precisely due to how famously powerful they were, so it would be realistic for him to want to fight one while still a grade below.
+
+Having clearly noticed Jake’s initial reaction to protest, the Viper continued. “How often do you think C-grades manage to hunt down True Dragons?”
+
+“I would guess pretty rarely,” Jake shrugged, not sure where the Viper was going with that question.
+
+“Right... now, how often do you think mortals kill gods?”
+
+“Even more rarely?”
+
+“Right again,” the Malefic Viper smiled devilishly as he leaned forward. “Now, if we adjust for the disparity in numbers and just focus on the success rate, how do you think the numbers look?”
+
+“I have a strong feeling they won’t be as I assume,” Jake said with a frown.
+
+“You’re so smart,” Villy said in a jokingly mocking tone. “My point is that for a C-grade to hunt down a True Dragon isn’t that much different from a mortal S-grade trying to kill a god. Both are feats of incredible arrogance and an impossibility in the eyes of most.”
+
+Now it was Jake’s turn to stare at the Viper with a deadpan expression. “You don’t need to try to convince me; I was already going to do it.”
+
+Villy chuckled at Jake’s answer as he shook his head. “I’ll pass along your demand for draconic materials and try to find suitable prey for you. As I said, for now, focus on your own work. Oh, and I’ll keep you updated on the void ambushers if we find out anything. Assuming I find it beneficial to let you know. If not, I’ll keep it a secret and tell you at some later time.”
+
+“Yeah, yeah,” Jake waved off the god as Villy gave him a final wave before disappearing, leaving Jake alone back in his residence once more. He didn’t really have to think that much about his talk with the Viper, but instead used it as pure motivation for what he had to do next.
+
+After emptying his wine bottle of beer, Jake headed straight to the laboratory, where it was time to really get into the weeds again and continue working on that bane poison while meditating and slowly moving towards the Meditate upgrade and fixing Palate.
+
+Jake had made good progress in that area, but some things still eluded him, forcing Jake to read back some of the parts in the First Sage’s tome. Still, he had a feeling that the upgrade could come at any time, yet it felt so far away. As he became more confident in initiating the upgrade, he felt as if he could do better or had missed something important.
+
+Still had time and wouldn’t rush it. It wouldn’t surprise him if it still ended up taking a while for him to finally decide to just go for it, and he had a strong feeling that once he did, there would be a lot of upgrades and success coming in short succession.
+
+After he was done with crafting a Dragonsbane Poison and got the upgrades from reading the First Sage’s tome, it was time to begin the dragon hunt in earnest... assuming Villy came through and found a proper target for him, that is.

@@ -1,0 +1,233 @@
+---
+id: bf2265a6-f312-5441-90c9-d560518ce9ec
+page-type-slug: story-chapter-royal-road
+title: "Chapter 87: Recipe"
+slug: 0087-chapter-87-recipe
+partOf: phoenix-ascension-cultivation-litrpg
+position: 87
+ownLength: 1976
+unit: words
+publishedAt: 2026-02-11
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3037897/chapter-87-recipe"
+royalRoadId: "3037897"
+---
+
+If I were to be honest, I was a little curious about what pills I’d gotten. If they were something that could help me break through into the Foundation Establishment, then it was for the better. But if they were something that was about as useful as the Meridian Opening pill… I would rather throw them away.
+
+Also, after all the wealth I had in credit to the Myriad Market, five medium-grade Spirit Stones were… candy. I could eat them and not care about them, which was quite an awful sentiment.
+
+I went from being dirt poor to being incredibly wealthy, though it wasn’t like I actually needed the money for many things. Sure, it was nice to have them, but I could have lived without them or traded.
+
+Making money wasn’t my main objective.
+
+Still, it was nice knowing that I had something to fall back on if things went south.
+
+What I cared most about at the moment were the things deposited into my ‘inventory’, which I could only assume to be my bag of holding.
+
+I decided to peer inside it later, since I still had to look after Shu Wao Tu.
+
+After letting him rest for a few minutes, I checked his meridians to make sure everything went as it was supposed to. I wasn’t disappointed to find out that his new meridians were perfect, and his dantian was healthy.
+
+Any side effects or defects would not be obvious until he started cultivating, but he needed more time to adjust and recoup some energy.
+
+After his impurities were rid of, though, he could once again become a proper cultivator in no time. What he did with such power was no concern of mine, as each had their own path to follow.
+
+If his path happened to cross with mine, though, as the quest had done, then he could only blame his bad luck.
+
+I took out two of the awarded Spirit Stones and handed them over to Shu Xu Ning. “Take these and rent a better place than this, eat well and relax for the time being, alright? I will come look for you when I have everything else ready.” I placed a small Qi point on her as well, which allowed me to sense her location as long as she was nearby.
+
+“Miss Immortal, you’re going?” She asked me, not even looking at the stones.
+
+“Not yet, I still have some things I want to do, and there’s still some help I can give you.”
+
+“Does that mean that you will go after?”
+
+I nodded, and her expression sank almost immediately. “Don’t worry. Our meeting was fated, and if fate wills it, we will meet again. I’ve done all I could, and your big brother-” I then glared at Shu Wao Tu, who flinched and gulped. “I’m sure he knows what’s best for the two of you. No, he'd better know.”
+
+That was a silent threat that I was sure he understood. I didn’t need to say everything outright, since he was old enough and smart enough to get my meaning.
+
+He nodded, and I shot him another glare, then looked upon Shu Xu Ning and patted her head before leaving.
+
+Yo Na followed me out of the house under the gaze of the two siblings, and the two of us made our way into the forest. When we were far enough away, we undressed and changed back into our original forms. The bag of holding hung around my neck, and I deposited both our sets of clothes inside.
+
+“What was that all about?”
+
+“What was what all about?” I asked, flying on top of her and sitting on her back.
+
+“I’ve never been more confused in my life. Are you their mother or something?”
+
+“No… Why are you asking?”
+
+She rolled her eyes and growled, breaking into a sprint. “Are you serious?”
+
+“Yes. I’m not understanding your meaning.”
+
+“Nevermind then. You got the skill, right?”
+
+“I do, yeah.”
+
+“Great, let’s hurry then. The sooner we finish everything, the sooner my son will wake up.”
+
+***
+
+When we approached her cave, I nudged her to stop and spread my Divine Sense in all directions.
+
+“What is it?”
+
+“I’m just checking if someone followed us, is all.”
+
+“What? Why would anybody follow us?”
+
+“I’ve had some run-ins with a human before, and he’s rather strong.”
+
+“Stronger than me?”
+
+“I… I’m not sure, actually. He’s of a lower level, but humans don’t level in the same way we do, so it’s hard to measure.”
+
+“... You can see their levels?”
+
+“Can’t you?”
+
+It was then that she let out a frustrated growl and shook her body, forcing me to get off her. “If I could, I would not have been so surprised, would I now?”
+
+“That’s a fair point. But yes, I can. I got the ability after absorbing the Appraisal Stone. It can tell me more than levels, but so far it’s been a little useless.”
+
+“What? You absorbed that thing and got a new ability? I want to do that too!”
+
+“I could get you another stone like that if you want. I have enough Spirit Stones. I think we also need to head back to the auction after tonight, and maybe in the following days. I will have to look at the list of items now that I can read… Wait! I forgot the Jade Slip…”
+
+After a moment of silence, Yo Na burst out into a hearty laugh, and I looked at her with a ‘What’s so funny?’ expression.
+
+“Well, after what you said to the little girl, going back to retrieve it would be a little awkward.”
+
+“What do you know!”
+
+“I’m not that stupid when it comes to humans.” She managed to sayonly after she finished laughing, and I rolled my eyes.
+
+“I’ll ask for another one tomorrow. Anyway, that man didn’t seem to have followed us. Even if he did, well, it’s not like we can stop him. Let’s go inside already.” I jumped on her back again,n and she hurried inside the cave, passing the numerous Water Crystals that I so yearned for.
+
+Maybe just one…
+
+“Don’t even think about. You’re not getting any more free samples until the elixir is complete.”
+
+Damn it!
+
+Indeed, she knew all along, how could she have not? There was nothing I could do about it, though, besides finish what she wanted me to do.
+
+It didn’t take us long to reach the den of treasures, and she quickly fished out the recipe she wanted me to concoct.
+
+Time for the moment of truth.
+
+When I opened the scroll, at least struggled to, considering the fact that I didn’t have fingers or thumbs, my eyes got blessed by something I’d been waiting for for a long time.
+
+<<Supreme Vitality Reforging Elixir>>
+
+<<This elixir recipe has been created by the illustrious Seven Elixirs Immortal in order to defeat their own mortality and attain ageless life. While their fate remains unknown, they have left several Legacy Zones for fated people to attain their legacy and become an indirect disciple.
+
+<<This recipe has been found in one such place by me, Fu Ye Long Ha, and I have decided to share it with the world. The reasons for that are many, from how expensive it is to refine, to the difficulty tied to it, and lastly to the fact that nobody has ever tried it.
+
+<<Based on the ingredients, this elixir provides immediate healing to the body and soul, while also providing continuous healing. This elixir has been used to awaken people from comas that nobody else could treat. There aren’t many such cases, though, and the few I found documented are from dodgy sources.
+
+<<However, if it can help anyone, then this recipe would be better used by them, rather than collect dust on my shelf.
+
+<<This is a legal copy. If you have stolen or looted this copy, please return it to the nearest Celestial Pill Pavilion center.>>
+
+The introductory page was weird, to say the least. However, it gave me some precious insight into the origin of the elixir. Besides its over-the-top name, considering the fact that it was that old, I began to have some fears.
+
+For one, what if the ingredients have gone extinct? What if it required a special cauldron or something of the like? Not to mention,n it also brought up more questions than it answered.
+
+Why does this elixir require this specific flower?
+
+Unfortunately, I didn’t think I’d have an answer unless I met that ‘Seven Elixirs Immortal’ myself.
+
+Moving on, I continued reading under Yo Na’s watchful gaze.
+
+<<Refining of the Supreme Vitality Refining Elixir>>
+
+<<The following is the direct, unmodified instructions written by the Seven Elixirs Immortal.>>
+
+<< Objects required for the refinement:
+
+<< One large cauldron - Square interior and round exterior. Five side openings for ingredient insertion and one top opening for the tribulation Lightning
+
+Tribulation Lightning
+
+Four multi-colored burning wood
+
+Four single-color burning wood
+
+Nine stalks of Hellgrass
+
+Blue Qilin Starter
+
+Ice Powder
+
+Ingredients:
+
+Three petals of a MoonBloom flower
+
+One drop of Phoenix Essence
+
+Crushed Skull(Whole) of a Leafy Monkey
+
+One Heart-Healing Fruit
+
+One Soulless Fruit
+
+Two thirty-year-old Purple Cherries
+
+Five stalks of Cicada Grass for binding
+
+One Spirit Source Crystal
+
+Five hairs of Purple Ginseng(Any age, the older the better)
+
+Optional Ingredients to boost the success rate:
+
+Spotted Petal Flower
+
+Yellow Root
+
+Water from Water Crystals
+
+Refining Requirements:
+
+Grandmaster Alchemist or better
+
+Foundation Establishment Cultivation Base, or better
+
+Powerful Essence Fire
+
+Refinement steps:>>
+
+After I finished reading the section of that scroll, I ignored the rest and looked at Yo Na, whose expression was rather neutral. If I were in human form, I wasn’t sure what sort of expression I’d have made, seeing as I was in my original form, it must not have been as flabbergasted as I’d wished it to.
+
+“Is there a problem?”
+
+“Problem? Problem… Yes, is there a problem?” I sighed while asking myself, and sat down, then I almost wished I could faint.
+
+The requirements for this elixir were insane! Grandmaster Alchemist, Phoenix Essence, so many pre-requisite materials, and more than that, the ingredients! I didn’t even know what more than half of these were!
+
+I could only imagine the price and, more than that, the time it would take me to collect everything! Not to mention that I needed at least a Foundation Establishment cultivation base.
+
+“Yo Na, are you sure that… That you heard the guy you stole this thing from, right?”
+
+She didn’t immediately reply to my question, and even turned away her gaze after thinking for a few seconds. “Maybe…”
+
+“Maybe? Maybe, hahahaahah!” I could not help but break out into a sort of manic laughter that bordered on exclamation and anger. “Maybe, she says! Yo Na, that guy definitely lied to you. I- This is insane!”
+
+“Insane?”
+
+“There are so many ingredients and materials required, not to mention I need a higher cultivation base.”
+
+“How much higher?” She said in a low, almost meow-like tone and even lowered her head. She was clearly ashamed, and for good reason!
+
+“Just a few more stages, but… It will take me a bit, and I can’t spend the entire time cultivating. Not to mention… I’m also hungry.”
+
+Just as I said that, my stomach began to growl, and it was my time to be embarrassed.
+
+“I’ll… figure it out. But I’m afraid the treatment for your son will take a while longer. Between all of the requirements and materials and everything… Let’s just say that we’re lucky I have so much money now.”
+
+“I can wait…”
+
+“Yeah.” I stood up and stretched my wings, ignoring her confused expression, and finally decided that it was time to see what System had given me as a reward for completing that damned quest.

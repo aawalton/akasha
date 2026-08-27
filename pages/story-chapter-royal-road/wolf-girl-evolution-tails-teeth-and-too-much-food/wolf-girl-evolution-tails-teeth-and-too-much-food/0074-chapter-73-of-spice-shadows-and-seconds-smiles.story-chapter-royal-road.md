@@ -1,0 +1,393 @@
+---
+id: 7394cee3-f02c-57a7-a26d-cacdbe85260c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 73: Of Spice, Shadows, and Second’s Smiles"
+slug: 0074-chapter-73-of-spice-shadows-and-seconds-smiles
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 74
+ownLength: 2025
+unit: words
+publishedAt: 2025-11-27
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2798986/chapter-73-of-spice-shadows-and-seconds-smiles"
+royalRoadId: "2798986"
+---
+
+PoV Luna
+
+Spice betrayal was forgiven.
+
+Eventually!
+
+Soup helped.
+
+Jerky helped more!
+
+But the promise of another spice orb?
+
+That sealed the truce!
+
+Luna sat prim and poised near the fire, ears forward, tail curled neatly around her waist. The very picture of discipline!
+
+The others didn’t buy it, but she didn’t care. Her nose twitched with anticipation.
+
+In front of her sat the orb.
+
+Small. Round. Perfect!
+
+It shimmered faintly in the firelight, gleaming with untold flavor. Spice-scent curled into her nose – hot, deep, and oh-so-exciting. It wasn’t meat, but it smelled like meat wanted to be eaten with it!
+
+Her tongue poked between her teeth.
+
+“Be strong, Luna,” she muttered, eyes locked on the orb. “No bite.”
+
+The temptation buzzed behind her thoughts, loud and gluttonous.
+
+But she knew better now. And Luna had a plan!
+
+Very carefully, she opened her Devourer’s Maw.
+
+The darkness shimmered beneath her paws, smooth and cool and very hungry. The orb dropped in. The shadow rippled. Swallowed it up.
+
+Then, with a thought, she reached again. Her hand dipped into the shadow. It came back full.
+
+The orb sat there, untouched.
+
+Still beautiful. And so very spicy.
+
+“Ha! It worked!”
+
+Her tail wagged wildly. Victory!
+
+She sniffed. Then sniffed harder. Then stuck out her tongue and gave it a tiny lick.
+
+“Mmm…”
+
+Heaven. A tiny fire bloomed across her tongue – warm, bright, just strong enough to tease without burning.
+
+She pinched off the tiniest flake and tucked the rest back into the shadows.
+
+One nibble only! No betrayal spice today!
+
+And now–
+
+From deep in the Maw, wrapped in coiling shadows, emerged the saved drake roast.
+
+Thick. Seared. Glorious!
+
+Luna reached for it with reverence.
+
+The meat still smelled rich and sharp, carrying faint traces of its fiery battle, the very image of vitality.
+
+She smeared the speck of spice across the top, watching it sink into the crust, staining the roast with golden shimmer.
+
+Then – bite.
+
+Crunch. Chew. Melt. Bliss!
+
+The heat and meat collided in her mouth, sparking flavor and triumph and deep, deep satisfaction. She groaned softly through the chew, ears flicking, tail thumping hard against the dirt.
+
+Perfect!
+
+Everything was perfect again.
+
+Veric forgiven. Pack forgiven.
+
+Life very forgivable now!
+
+She licked her chops, preparing for another bite.
+
+Then paused.
+
+Across the fire, Syl watched her. Elbows on knees, chin resting on hand, smile soft and knowing.
+
+Luna froze mid-chew.
+
+Syl’s smile didn’t move. It was… warm. Happy. Proud.
+
+Luna stared at her meat.
+
+Then at Syl.
+
+Then at the meat.
+
+Her paws clutched the roast tighter.
+
+It was hers. Her beautiful, spicy, earned roast!
+
+But… Syl had given her the orb – well, the second orb.
+
+Syl had trusted her with it. Had trusted Luna.
+
+And Syl was her Second.
+
+Second was good. Second was bestest. Second smelled like lavender and mana and soup.
+
+Luna’s jaw trembled. Her tail sagged under the terrible moral weight.
+
+Friendship was very hard sometimes!
+
+With a soft, pained whine, Luna stood up. Trudged over slowly, ears down, roast cradled like a wounded treasure.
+
+***
+
+PoV Syliana:
+
+Watching Luna devour soup had been entertaining enough.
+
+But watching her negotiate with a piece of roasted meat?
+
+Utterly disarming.
+
+Syliana rested her elbow on her knee, chin in her hand, the firelight flickering across her face. The scent of spice still clung to the air, warm and smoky, laced with meat-fat and herbs.
+
+She had finished her own bowl some time ago, but she hadn’t moved.
+
+Didn’t want to.
+
+The Wildling pup sat across the fire in a crouch of pure reverence, clutching the roast like it contained divine secrets. Her ears twitched. Her tail swept slow lines in the dirt behind her. She leaned in, then pulled back, then sniffed, then licked the edge like a nervous thief testing holy ground.
+
+Syl smiled without meaning to.
+
+Luna was chaos embodied – one moment a shadow-born streak of claws, fangs, and speed that made B-rank adventurers question their life decisions, and the next? A soft-eyed girl with a mouth full of soup and a heart full of stars.
+
+Fast and growing ever faster.
+
+Yet so utterly innocent.
+
+She hadn’t realized how deeply that particular contradiction had embedded itself in her.
+
+Until Luna shuffled forward, eyes round with guilt and glory both, and offered the spice-roast like it was the last treasure in the world.
+
+“Second…” she said, voice small.
+
+Syl’s heart stuttered.
+
+That face. That look.
+
+The almost-pout of sacrifice trembling against her lips. The clear ache of wanting to keep it, and the sharper ache of wanting to share.
+
+She kept her voice steady.
+
+“Thank you, Luna, you are most kind,” she said gently, taking only the smallest piece from the edge. “I will just have a little. You can have the rest.”
+
+The change was immediate.
+
+Luna puffed up like someone had whispered victory into her fur. She straightened, eyes gleaming, tail thumping furiously.
+
+“Second bestest! Bestest Second ever!” she declared proudly, then snatched the roast back and bit into it with a sharp crunch of triumph.
+
+Syl laughed quietly into her sleeve.
+
+Trianna snorted nearby. Ray muttered something that sounded like, “That meat’s gone, huh?” Sepio didn’t even look up.
+
+Luna, meanwhile, settled back near the fire with the roast held between her hands, munching and humming softly with every bite.
+
+Syl watched her for another long moment.
+
+The absurd balance between terrifying potential and unshakable sweetness was something she hadn’t expected to love.
+
+But here it was, staring into a plate of meat and spice.
+
+Her father's old words came to her mind again, one of the elven proverbs he liked to mutter when trying to sound ancient and wise:
+
+The smallest flame can rekindle the heart of a forest.
+
+She had always rolled her eyes at that, back when she was just a wee 30 year old kid.
+
+But now?
+
+Now she wondered.
+
+Maybe Luna would be that spark. The way she made them all laugh. The way even Veric had become more talkative, and how they all even started running.
+
+The way she turned a monster’s tail into a game and a meatball into a sacred rite.
+
+Maybe that spark was already catching.
+
+But the campfire crackled, and the breeze shifted, and Syl let the thought drift. To later elven wisdom, things every elf eventually faced. Questions each had to learn and answer on their own.
+
+For no individual answer could ever be the same, each elf picking their wisdoms carefully, on how to deal with themselves, on how to deal with the world, how to live with the passage of time others thought immemorial.
+
+But elven philosophy could wait.
+
+There were more pressing matters.
+
+She glanced east, toward the road. They would make it to Altracia by tomorrow midday if they kept pace. A small but lively trade town. A proper gate, inns, farms, city smells.
+
+People.
+
+Luna would love it.
+
+And possibly try to eat all the interesting stuff in it.
+
+Syl winced preemptively.
+
+Between now and then, she would need to teach Luna… some restraint. Maybe basic coin use. Maybe “Don’t steal entire loaves of bread with your mouth in front of guards.”
+
+And no hunting field animals. Yes, that was a priority.
+
+Also, she was curious about Luna’s skill growth.
+
+That last burst of speed had been extraordinary – and unnatural.
+
+Whatever Luna did, it exceeded all expectations.
+
+And a brief questioning later… It turned out Luna hadn’t even read the System messages yet.
+
+Syl tapped her notebook thoughtfully, the quill already moving in her mind.
+
+The stories always talked about Wildlings with great reverence. And she could see why now.
+
+Despite how well-documented a lot of Skill trees were, a lot was still left to the individual. The levels an indicator, yet not absolute.
+
+This part… she would not leave to fate. And certainly not to time, as most elves would.
+
+“Don’t bite the cattle,” she murmured to herself.
+
+Luna perked up across the fire, ears flicking.
+
+“Cattle bite back?”
+
+Syl paused. Then sighed.
+
+“We’ll talk in the morning.”
+
+“Okay! But if they spicy, Luna claim first!”
+
+Syl buried her face in her hands.
+
+Tomorrow would be very long.
+
+***
+
+“Luna, before you go to bed – let’s check your skills,” Syl said later, quill already in hand, notebook on her lap.
+
+The pup’s ears perked like flags in a storm.
+
+“Yes! Luna strong now! And fasterer!”
+
+She scrambled upright from her blanket nest, tail swishing wildly, hair tousled from her earlier meat nap. With a happy yip, she blinked into the System panel. The familiar glow bloomed before her – floating symbols, tickling her brain.
+
+Too many lines. Too many words. Not enough chew!
+
+Luna squinted at the list of level ups.
+
+Boring, boring, yet awoomazingly nice, yes, Luna still likey, but…
+
+Then her eyes caught it.
+
+Her pupils widened.
+
+Her tail thumped.
+
+Her tongue slipped out.
+
+“Ooooh! Shadow Run!” she read, voice proud and loud. “New skill! Level three already!”
+
+Syl’s quill paused.
+
+“That was… fast,” she said, blinking once.
+
+Luna’s grin cracked wider.
+
+“Fast, yes! Very fast! Shadow fast!”
+
+And then the moment shifted.
+
+Before anyone could blink – before Syl could raise a single finger of warning – Luna shot to her feet with a triumphant, “Wheee!!! Whooo!!! Awoooo!!!”
+
+Then her shadows obeyed.
+
+Dark silk spiraled around her feet. They pulsed twice, Luna tested them once – then launched herself forward in a gliding rush.
+
+Luna certainly didn’t look like she was running.
+
+She slid.
+
+Like the dirt had turned to smooth ice and Luna was the world’s most beautiful, chaotic arrow!
+
+“LUNAAAA–”
+
+Syl’s voice didn’t reach her in time.
+
+Luna skated across camp, whooping. Shadows flared behind her in bursts, launching her into tight, graceful arcs.
+
+Nowhere near as fast as she was when using her Shadow Run Jump tactics, but still fun!
+
+She laughed the entire way.
+
+A streak of silver and black zigzagged between packs and blankets.
+
+Trianna nearly dropped her spoon.
+
+“What in the glowy skies–?!”
+
+Ray ducked instinctively as a blur shot past his head.
+
+“Hey, watch the hair!”
+
+Sepio didn’t flinch. He stared into his fire cup with the empty resignation of a man who no longer had the strength to argue with reality.
+
+“She’s learning,” he muttered.
+
+Luna hit the end of her first pass and kicked off the earth, sliding sideways with a dancer’s twirl – or an attempt at one as she nearly tumbled down on that try. Her eyes sparkled. Her legs burned. Her mouth opened wide in glee.
+
+“Zoom!” she howled. “Shadow Zoom! Zoom Zoom Luna!”
+
+She bounced over a bedroll, spun past the weirdly still Sepio, and zipped full-speed toward Syl.
+
+Syl stood, arms already crossed.
+
+Luna tried to stop.
+
+She failed.
+
+Her shadows caught her too late. The last burst propelled her forward – directly into her Second.
+
+But Syl was faster than her face suggested.
+
+The elf caught the Wildling cleanly in her arms, bracing with one step back and an annoyed-yet-practiced exhale.
+
+Luna blinked up at her, beaming.
+
+“Caught Luna!”
+
+Syl stared down at her.
+
+“It is time to sleep, young lady.”
+
+“But Luna not sleepy!” she lied.
+
+Her grin said otherwise.
+
+“Tomorrow will be busy,” Syl continued, brushing a leaf from Luna’s tangled hair.
+
+Luna yawned hugely, showing every tooth in her head.
+
+“Luna won.”
+
+Syl raised one brow.
+
+“Won what, exactly?”
+
+“The world,” Luna mumbled, eyes already drifting half-lidded. “Beat it with speed.”
+
+Syl softened, holding her a little closer.
+
+“You're ridiculous.”
+
+“Fast-diculous,” Luna corrected proudly.
+
+Another yawn took her. Strong enough to make her scrunch her nose and her tail droop. She took a deep breath, nuzzling her face into Syl’s lap.
+
+“...Second smells nice.”
+
+Within seconds, her body slumped in Syl’s arms, muscles going soft, breath deepening.
+
+The camp had gone quiet again. Ray mumbled something about blankets. Trianna was still giggling. Veric kept sharpening steel.
+
+Sepio finally gave up and laid down flat.
+
+And Luna, conqueror of soup, spice, and sudden shadow speed… …slept.
+
+Probably dreaming of endless zooms, perfectly spiced roast, and a world full of things left to bite.

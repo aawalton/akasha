@@ -1,0 +1,343 @@
+---
+id: 21797ce5-5330-5e46-96a6-62ffef4a3f60
+page-type-slug: story-chapter-royal-road
+title: "312 A Piece of Plazia"
+slug: 0271-312-a-piece-of-plazia
+partOf: the-new-world
+position: 271
+ownLength: 5946
+unit: words
+ownProgress: 5946
+publishedAt: 2021-09-14
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/750776/312-a-piece-of-plazia"
+royalRoadId: "750776"
+markedReadAt: "2026-06-29T21:30:29.701Z"
+---
+
+Once it landed, I seized the mind's fragment around my own conscious, smothering it. It reached out with an insidious curiosity,
+
+"You who crawls beneath the mantle...Who are you, and how have you not perished amidst my inner sanctum?"
+
+I grinned, "Me? I'm Daniel Hillside." I spread my arms,
+
+"And I'm alive because I'm hard to kill."
+
+Chapter Begin
+
+Plazia's piece spoke out, "You are difficult to kill, but only now. You've lived by the mercy of those around you."
+
+Plazia didn't threaten me like I expected. I leaned back, "How so?"
+
+It reached out with malevolence, "The first of your mercies came from the son of that lich you walk with - Alfred Worm. He fell to darkness near his end, but he lived a dignified life. His life's work lives on within you."
+
+My forehead wrinkled as my eyes widened, "Wait a minute, how do you-"
+
+"The second of your mercies came from Schema, who hears all but listens little. He chose to let you live, as anyone like you is deserving of death in his unchanging eyes."
+
+I narrowed my eyes, and it smiled in my mind, "Your third mercy came from the undead mage, Torix Worm, father of Alfred and bringer of death. He could've stripped you bare. He thought to do so many times. You are a surrogate son to him, and so he did not."
+
+Plazia's words carried an evil that crawled under my skin. It spoke out like liquid darkness,
+
+"The fourth mercy you own came from Yawm of Flesh. He chose to embed his legacy within yours, and now you will enact his will or die. Your fifth and final mercy came from my own fangs - I did not sink them into your neck. You may be no sheep, but know you live by the will of those around you, as all beings do."
+
+He was right about that, but how he knew so much about me was eerie, especially the bits from BloodHollow. Plazia seeped out,
+
+"Yet, you understand your weakness well. I found my own weakness in my forgotten memories. I've chosen to live by that weakness instead of dying by my strength."
+
+I parsed his riddle-bound words. Plazia let me live at some point when he didn't have to. Knowing about BloodHollow gave that some validity. He talked about living by weakness instead of dying by strength. If I guesstimated his meaning, he referenced letting the ahcorus take over Svia instead of being glassed by Schema...Probably.
+
+Plazia continued, "That weakness was embedded in my faded memories. They linger as raw emotion, and now, only silence remains."
+
+Plazia bled out, "But I remember what those memories gave me. Warmth. Refuge. Purpose. In their lingering silence, I found peace. In that gloom, I found the quiet quite welcoming."
+
+As a hostage, he spoke in confidence, "Tell me this, Harbinger, are you so welcoming as that silence, or have you forgone me already, as all others have?"
+
+He talked with more eloquence than Obolis, and even just this fractured fragment understood so much about me. As he spoke, one of my minds dissected Plazia's words, and they unnerved me. He researched my background already, but more than that, he was connected to Baldag-Ruhl Somehow. There's no way he could reference my time in BloodHollow otherwise.
+
+Either way, I gave him a nod out of respect, "Huh, you know me, but I know you too. You're using the ahcorus, and you chose to let them overrun the surface." More of my animas went into action, thinking of different ideas, "You sent Wrath to find me as well. If you did, you wanted me here. Now, why you want me hunting you down, I can't say."
+
+I crossed my arms, "How about you explain yourself?"
+
+Plazia laughed, a haunting cackle ebbing out. It spoke with joy, "Do you read poetry?"
+
+I blinked, "Eh, not really. You sound like you might."
+
+"You predict correctly, as I partake of it often. I relish in poems, and I listen closely to the words of the dead. They wrote with the wisdom of the living. From them, I have learned much. I learned that the enemy of my enemy is a friend."
+
+I frowned, unnerved by Plazia's voice, "I'm picking up what you're putting down. Sort of. So, who's the enemy we both share?"
+
+Plazia's fragment oozed, "Schema."
+
+I shrugged, "I'm not against Schema."
+
+"But you are. You see the faults of his governance, and you have made your stance clear - you ally with the eldritch. You may ally with even me, should I convince you too. Your history has told me this."
+
+My hands tightened on my arms, "If working with you involves getting my skin getting peeled off and worn like a puppet, I'll pass."
+
+"Listen closely and dwell on the words I've spoken. They carry many meanings, but one is singular; I understand what you are, who you are, and what you will be. I speak of the mercies given to you as an example. You were but a monster in the eyes of all, yet you rise above your origins."
+
+I tapped my arm, growing impatient, "What's your point?"
+
+The fragment gnarled out like the roots of an ancient oak, "I want your forgiveness for what I am, and in turn, I will give to you purpose and knowledge. That is a priceless offer, as I know of much. I know of Earth and Blegara and Gypsum. I know of the cipher and its secrets and of Schema's lies. You glimpse at a shade of me, but trust in its confidence. My full being carries a light that will expose the dark, even though I dwell within its twilight."
+
+It muttered, "And I will tear you from those shadows if you would allow me to do so."
+
+His last words carried a lingering, ominous pain. I gestured around, "How about we call off the insects then? That would be a good start."
+
+In a flash, the insects retreated. Plazia's fragment stayed in its mental restraints, comfortable as could be. I sighed,
+
+"Ok...If I understand this right, you don't actually want to fight me. You brought me here using Wrath, and now you want to explain something to me. I can't understand why you'd do that. It doesn't make any sense."
+
+It lounged about, sensing my other minds,  "You are the Harbinger of Cataclysm. You are of many. You reek of forces surrounding space and time. Gravitation. Kinetics. Heat. All forces you've mastered. Your mind is honed as well, yet it is not stagnant. I know that it will change if given knowledge. From these observations, I believe you carry the potential to evoke a great change."
+
+Plazia radiated his words as if speaking a legend, "You carry that potential. Others have seen it. I as well. I aim to direct it, but not through manipulation. I wish to give you the truth, and you will direct the ensuing change on your own terms."
+
+My narrowed eyes turned to slits, "So you got some secrets you want to tell me...Cool. The thing is, why should I trust you at all, to begin with?"
+
+"I did not speak to Elysium of what and who you are. My silence speaks for me, as your home remains unscarred." Plazia's fragment trembled, "Even when I may have scarred it with but an utterance."
+
+I tsked. Plazia was right. He talked about my time in BloodHollow, so he knew where my home planet was. He could've told Elysium before my ceasefire if he was so inclined. Earth would've been devastated, and I couldn't have done anything about it. In fact, based on what Plazia said, he didn't act on many of my past events. My curiosity peaked, and I tilted my head, "Point taken. You want to just talk then?"
+
+It reached out towards one of my minds. It seethed inner darkness and primordial hunger, but something else effused from its psyche - a sort of enlightenment. Plazia held some secret or truth that changed him, and he wanted to share it with me. The mind laid bare that raw emotion, and it convinced me more than any words he could've spoken.
+
+But it also terrified me. He was too convincing. My instincts flared as I jerked myself back, and I growled, "A Ruhl nearly wore my soul for its shell. A feeling isn't going to be enough to convince me."
+
+Plazia rumbled, "And you killed my brethren, but I wish not for your blood. I wish to tell you what my full being knows. Meet me beneath the lair of Wrath, and I shall untangle the riddles I've spoken. Your web of ignorance will unweave with my words, and we shall be of one notion."
+
+The piece of Plazia condensed into a small, minute point as it said, "If we disagree, then you will kill me. I shall put my life on that edge, as I endure for more than just survival. I wish to one day live as I did before I became an eldritch."
+
+That was a loaded statement. Fractures popped into the edges of the mind, "Before this was done to me."
+
+I tried holding the splinter of Plazia together, but it ripped itself apart before I could even react. The hollowed memories within turned into a garbled mess. Staying amongst the calming lava flows, I submerged in the mantle of Svia for a few minutes, thinking Plazia's words over. Getting my thoughts in order, I pulled myself back to the void ice.
+
+Knocking on it like a door, Helios let me in while I cooled the magma around it. As I stepped into the steel shell, Amara, Florence, and Helios stared at me. Helios tilted his head, "What did you uncover about our oh so mighty foe?"
+
+I let my arms down to my sides, "Plazia knows about me. He knows everything."
+
+Florence stepped forward, his curiosity peaked, "Ah, so he knows the history of killing Yawm and the like. Did you not expect him to do research or something?"
+
+I waved, "No, I mean, he knows more about me than almost anyone else. And, he's hard to understand. He talks in riddles...Well, sort of. I mean, they're kind of like riddles, but maybe he's just metaphorical all the time."
+
+Helios waved a hand, "A standard hivemind then? Did he also wish to fight you to the death over many decades?"
+
+I blinked, "No. Plazia wants to explain something to me. Apparently, he remembers a time before becoming an eldritch."
+
+Helios's inner brow wrinkled, "Huh. Really? That's...odd."
+
+Amara hissed, "I know my own kind. It is a beast, and it cannot be trusted. It will attack when you are vulnerable. It throws us from our hunt to save itself. Do not listen."
+
+My face wrinkled in confusion, "I don't know. Plazia seemed pretty genuine about us not killing each other."
+
+Florence spread out his arms, "Guys, when an ancient, revered hivemind wishes to not kill us, who are we to argue?"
+
+Amara simmered, "You are a coward."
+
+Florence swung an arm, "And proud of it. Now, any details on the peace treaty? I'll get the pen and ink out if you need them. I'm sure Plazia wants the treaty signed in blood, so I'll make the donation if that's necessary. Now, if the parchment needs to be skin, you'll have to find someone else for that."
+
+I leaned back against the steel bubble, "You know what, I really don't know what he wants. If anything, he might be pulling me in with curiosity instead of threats. If I come wanting to learn, my guard would be down. Maybe that's his aim."
+
+Helios's eyes narrowed, "Has the great Harbinger's confidence been shattered?"
+
+"What confidence I had at least."
+
+Helios rolled his shoulders, "Then we move forward with more caution. It is as simple as that." Helios walked over and gave my chest a hard tap with his gauntlet, "Where must we go, and what must we do to prepare for Plazia-Ruhl?"
+
+I shook off my jitters, getting déjà vu from my time in BloodHollow. My helplessness then gave me some severe whiplash now, but I got myself together, smashing it apart. I wasn't the same person trapped in that cave, and I wouldn't be manipulated again.
+
+Plazia wouldn't end up wearing my skin either.
+
+I stood back up, "We need to head to Wrath's colony. That's where Plazia told me to meet him. He's probably under them."
+
+Florence's jovial demeanor deflated at that, "Oh...Do we know for sure that Wrath is Plazia's tool now?"
+
+Remembering how Plazia knew my past, I nodded, "We were right. Plazia directed me here even before the rebellion with Giess began."
+
+Helios snapped the fingers of his gauntlet, the void ice dispersing from around our steel bubble. Helios said, "He may not have known of your rise to prominence. It is  an easy error to make, as I would know."
+
+Helios's upper lip twitched. I turned a palm to him, "Look, your first impression with me was about as terrible as it could get. That being said, you haven't run out in the middle of a fight, not even against Lehesion. You're gaining ground, albeit slowly."
+
+I tapped his shoulder, "So chin up, ice mage. Someone has to be the cynical jackass of the bunch, and you're just the man for the job."
+
+Florence smirked, "He does have an icy demeanor, doesn't he?"
+
+I laughed, but no one else did. Amara winced, "I hate you all."
+
+I lifted an arm, pulling our steel bubble up from Svia's mantle, "Well, that's enough talking for now. Let's warp to Wrath's colony and meet him. I'm tired of waiting."
+
+Helios opened his status, "Do you know her colony's coordinates?"
+
+I sent Reason a message about it as I spoke, "No, but I will in a few minutes."
+
+Without warning, our make-shift vessel collided with the solid crust of Svia. Everyone lost their footing before I winced back, "Hah, sorry, guys."
+
+I mentally cringed at the simple mistake. Using this many minds for so many tasks overwhelmed me at times, and it led to tiny errors like that. Getting all the different animas working together without gaps took more effort than I'd have thought. It needed abundant organization and keen foresight.
+
+So much foresight that I planned on brainstorming some kind of solution for it. Before doing that, I got us out of Svia's crust, pulling the steel sphere into Reason's colony. Among the toothy tunnels and pressured depths, we rested inside that metal orb for a moment.
+
+Florence made notes in his status about Svia, the Ahcorus, and Plazia. Amara opened up her red status, fiddling with it. Helios waited, meditating for a bit. After Reason sent me Wrath's coordinates, I relayed them to the ice mage, and Helios got to work. He pulled out a dozen apps, each helping him handle the logistics involved with warping.
+
+Helios even constructed 3-D, visual spaces from 2-D maps of Svia. He actually made the areas well enough they mirrored reality quite well. Helios kept at it more than necessary, however. He etched in details, finalized the colors, and added depth to rocks.
+
+Turns out, Helios was an artist.
+
+I quit watching, letting him get everything ready. In the meantime, I sat down and brainstormed a way of organizing my many minds. I had thirteen made right now. Eight dedicated themselves to the furnaces. One read the book in front of my face while another practiced the cipher. The other three helped me cast magic, speak, and visualize my surroundings.
+
+Despite my profusion of multi-tasking, I ended up sharper than average, though nothing too crazy. Just as well, I hadn't actually had any free time since uncovering the mana into mental processing power phenomenon. Pushing those limits, finding its use cases, and discovering those inner workings would take me to the next level, mentally, that is.
+
+Aiming for that, I sat down cross-legged in our spacious metal globule, and I pushed a bit more energy into mental processing power. My mind responded in turn, becoming faster. Even tiny, minuscule amounts of mana made a tangible difference, so I put in a bit more. Once again, positive effects manifested, and the many tasks my minds handled became easier.
+
+I gave it even more juice, and suddenly, my thoughts turned in different directions. Focusing became a burden, and it was as if I was on some kind of stimulant. Considering how little mana I injected, the speeding up process carried no limit. My ability to control it was the deciding factor, and like runaway trains, my psyches ended up running off the rails.
+
+I dwelled on many aspects of my life, my mistakes, and my hardships. Emotions ran rampant, overwhelming me in a surging tide. Anger, rage, hatred, sadness, and even happiness all hit me in a sort of mania.
+
+I grabbed the sides of my head, pulling mana back into the cipheric runes. I bit through my lip, my silver blood gushing out before reconstituting in an instant. I let out a small gasp before settling myself down. Florence peered up from his status work, "So, uh, you ok?"
+
+The sociable albony was as perceptive as ever, though it wasn't hard to notice. I nodded, "I'm fine."
+
+Florence tuned back to his screen, but he kept an eye on me. I waited a bit before doing anything else, scared of what may happen. Before I paralyzed in that fear, my insight mind fed me a, well, insight about what just happened - I just experienced mana devolution. However, that was only the early stages of it.
+
+My insight psyche explained that mana devolution involved a mind running rampant, no longer under the user's control. It was similar to getting too lost in your own thoughts but amplified many times over. If a person couldn't pull their mind back, then the person fell into an insane mania. My eyes widened as a few realizations popped in my head at that fact.
+
+First, I would've 100% have devolved into an animal if not for my blood magic. After all, my mana output vastly exceeded my capacity to control it. By taking a more physical approach to my magic, I avoided being possessed by my own volatile mana flows.
+
+My second realization came from an article I read about mana devolution; ascendant mana carried the highest chance of it occurring. Interestingly enough, quintessence had the least, and that made intuitive sense to me. I mean, quintessence just motivated you to build yourself and others up. Even if you 'devolved' with that mana type, your manifested personality wouldn't be all that bad. It would be like an ambitious CEO or something.
+
+On the other hand, ascendant mana was the energy of consumption. Of the advanced mana types, I gained it first from my exposure to inter-dimensional miasma. If I fell into ascendant mana's influence, I'd be a raging monster hell-bent on eating everything in my path. I'd be like the worst incarnation of an eldritch, one that evolved rapidly and couldn't be killed.
+
+That's probably why Schema considered me such a risk factor. It's also why Spear considered letting me live to be such a huge blessing. I represented a real chance at becoming something abominable. Despite the gloom cast by those realizations, I also gained some confidence from these facts.
+
+Not discovering this processing facet of my mana probably saved me a lot of headaches. Considering how difficult it was to control, I'd never have managed this early on. It would've consumed me like a hungry shark mauling an injured fish. This also explained why Baldag-Ruhl made this armor like this.
+
+Baldag-Ruhl intended on this metal to bolster his mental capabilities, and that's why it generated so much mana. Torix and my experiment with the rip in space-time ended up shifting the carapace's evolutionary path, making it more a dimension than just a mana shell. Feeding it eldritch helped me generate ascendant mana too.
+
+Peering at my own skin, the dark gray metal sheened from the quintessence overhead. It could've blessed me with my talent for runes and gravity even. At this point, it spiraled out of control, a forbidden relic further bolstered by Schema's system. With my cipher runes enhancing it even further beyond, this armor left me awash in limitless possibility.
+
+It was an amazing, utterly unique artifact.
+
+Tapping into that unending potential meant mastering this aspect of it.  Even if it would be a challenge, I'd faced plenty of those before. It was time for another, so I prepped my mind for a flood of emotions, disciplining myself to prevent the ensuing chaos they'd cause. I closed my eyes, and I oriented several personas to that end. Dribbling mana into each anima, I ramped up my mental processing.
+
+It expanded, and the five free minds began wobbling. They struggled with controlling the overflow of thoughts, each preventing my descent into madness. I put one furnace burning psyche to the job of managing those minds. This psyche acted as a manager of the other Daniels, setting them straight and helping them stay on task.
+
+I put more of the furnace psyches to this new task, and my thoughts flourished from it. I found the upper limit of productivity for this manager Daniel to be right at seven minds. Any more, and it no longer assisted them all. Any less, and it had gaps in its schedule, causing it to micromanage. Finding this balance, I managed a careful equilibrium of augmented minds.
+
+I kept at this process, entering a deep state of meditation. Taking slow, shallow breaths, the different consciousnesses acclimated to the mana flows. I wasn't about to suddenly master this ability, but I gained a much more defined idea of what I could and couldn't do. Knowing my limits, I kept this manager Daniel over the 'free' minds. I also put fewer minds on Matter Conversion in general.
+
+Even over just a few hours, I gained quite a few skill levels in that mythical skill. Seven times more than usual, in fact. Combine that with the processing power, and I could put four furnaces to three minds now. These adjustments gave me two more psyches to work with. One of those psyches became manager Daniel. He put mana into the free minds and helped keep them from spiraling out of control.
+
+For the other freed consciousness, I put it on insights and magic duty. Once it was all said and done, everything flowed smoother compared to before. Manager Daniel stopped me from messing up the simple stuff while getting more processing power out of each mind. Having dual psyches put on insight patrol also meant I'd respond faster and better to situations.
+
+Eh, most of the time.
+
+My speaking and thinking self stayed at the forefront of all those minds. After an hour of practice, it turned from a wonky attempt into a solid structure. Gaining a method for A Manifold Mind gave me a lot of breathing room. Everything clicking into place, I peered around. Helios kept reaching out, envisioning various warp summons. Florence and Amara kept at their relevant studies. I turned a palm to Helios,
+
+"Are you ready to head out?"
+
+Helios took a breath, calming himself before he snapped his fingers. A picture-perfect warp spawned, one leading to another colony like this one. Helios cracked his neck and stood, "Of course I am. I'm a Novas, after all."
+
+He walked through the portal before we all followed, the veil snapping shut behind us. Once within Wrath's domain, we found more green drone slimes rolling about. Enamel lined the tunnels as reinforcement, and the same sterile, burning scent effused this place as well. Bruiser slimes came up to us over the next minute, each of the fighters deep blue in coloration, just like Reason's guards.
+
+Unlike Reason's troops, these slimes charged us with unquenchable ferocity. I stood between the blobs and my team, holding each of them in my fingers. They snapped several toothy shards and spears against my skin, snapping their chosen weapons against me. They recreated those tools over and over, their biomass shrinking over time.
+
+When Wrath showed up, the guardians wrestled against me while surrounded by piles of shattered teeth. Wrath rolled up before spreading her form thin. She swallowed the expanse of debris before forming blades of her own. With needle tendrils, she sliced into each of the slime guards. From within, she expanded bushes' worth of spikes from their insides. Those slimes gurgled before she pulled them into her steel blue membrane, assimilating each of them.
+
+Florence shivered, "Sheesh. It looks like Wrath also lives up to her namesake."
+
+Wrath trembled, "I do. You've visited me, Harbinger. Finally. We may kill my species' ultimate enemy...together."
+
+Unlike with Reason, Wrath lacked the same nonchalance before battle. She stayed aware of her surroundings, several thin feeler tendrils inspecting around her at all times. Wrath's spikes and teeth also carried a different composition, being more than simple crystals. One of the claws tapped me, and it mirrored some organic fusion of graphene and adhesives based on the hardness.
+
+How she got graphene, I didn't know. As for the adhesives, they turned dull carbon to shimmering gold. When ready for battle, Wrath exuded danger, both majestic and deadly. I smiled at her, spreading my arms, "It's good to see you too. We'll be focusing on scouting for now, but we'll be spilling blood soon."
+
+I sent over a telepathic burst of bloodlust, and Wrath quivered in joy. I grinned, "I can promise you that much."
+
+Wrath receded, "Then killer of wolves, what have you visited my colony for? Plazia rests beneath every colony, and mine is no closer than the others. We have spread my domain far and wide, but not deeply. Reason or Awe would serve you better if burrowing deeply was your goal."
+
+Her feelers groped Amara and I. Wrath shivered, "But you have visited Reason already. And you, little one-" Wrath pooled up near Amara.
+
+Avoiding the same aggressive conversation again, I cut in, "She's with me. She's my technician."
+
+Wrath's tendrils touched Amara's hair. Wrath uttered, "Of course she is. She holds bloodshed in her skin and blood on her hair. I love its taste, little one. You also carry the skin and flesh and bone of your leader. You serve him well for the Harbinger to indulge such gifts."
+
+Amara leaned back, turning her palms away from Wrath, "I...I have done what I may."
+
+Wrath shuddered, "We may one day taste each other, should you desire."
+
+I turned to Florence, who turned to me. We both gawked at each other, each of us having a conversation with that glance. Helios rested his face on his hands, "A razor queen who wishes to mate with our eldritch technician. Ah yes, how charming."
+
+An awkward silence passed before I spread my hands, "Alright guys, do whatever the hell you want to on your off time. We're on a mission right now, so stop all this."
+
+Amara pushed away Wrath, who showed no signs of doing the same. Unlike Reason, Wrath stood by herself, the drones around here giving plenty of space to their queen. Even the guards kept their distance, no slime wanting to be devoured without warning.
+
+There may be multiple kinds of devouring going on if I had to guess.
+
+Either way, that was none of my business as I pointed down, "Take us to the bottom of the colony, and we'll take it from there. Don't worry about the burrowing."
+
+Wrath balled herself up before firing herself away. I pulled everyone along, keeping pace with Wrath. We winded through the tunnels fast as an echo, the twists and turns passing by my eyes like a roller coaster ride. Seconds later, we rested at a much higher depth than Reason's colony depths. Enamel struts remained a rarity here, and the supporting tunnels still let us move around.
+
+Before leaving, Wrath let one last tendril feel over Amara as the razor queen left here. Once Wrath departed, Amara mumbled under her breath, "Perhaps...perhaps not all razor queens are bad."
+
+Florence covered his mouth under his black mask, "Oooooh."
+
+Helios sighed before shaking his head in disgust, "I would've never have imagined, not in a thousand lifetimes, that I'd prefer going to a different world with Hod instead of you, Amara."
+
+Helios lost tension in his arms, and they flopped on his sides, "And yet, here I am, wishing he were here instead. Their bulbous eating contests were far less disgusting than...whatever this is."
+
+Amara cackled before hissing, "Is that jealousy I hear?"
+
+Florence and I bust out laughing at Helios. The ice mage simmered, "Wrath's disposition may explain why she's allied with Plazia, hm? Regardless, may we please fight the world-ending horror instead of experiencing this grotesque coupling? I would much prefer the former to the latter."
+
+I got my chuckles out before wiping away a tear with a branch of armor. Damn, I hadn't laughed that hard in forever. I sighed, "Ok, ok. Let's go get him."
+
+Before I could use my newfound, fancy elevator technique, insects composed of magma crawled out of the ground. These insects assimilated together, forming a blob of lava. This lava then spoke out in a familiar and ominous voice,
+
+"You have come and with others of use. They bring a wealth of talents, ones we may turn to our own uses, soon enough."
+
+Amara lifted her palms to the living magma, "So this is Plazia? He is less than he first appeared to be. I'm disappointed."
+
+The magma tilted its head, "Amara, it is good to meet you. I studied you when Yawm first stole you from the prison your rulers commanded. It is from my research of your origins that I uncovered the inner machinations of Schema's system. Your research into cipheric energy flows was groundbreaking in that regard."
+
+The magma smiled with igneous teeth of blackened stone, "So while you may be disappointed in me, know that the feeling is far from mutual."
+
+Amara shivered before grabbing her elbow and pulling it against her side. She snapped, "How do you know so much about me? Are you so shameless in your spying?"
+
+Plazia chided, "Spying is merely gathering information others wish to hide. My curiosity is never-ending, and so I engage in all methods of obtaining information. That pursuit sustains me, and from it, I know much of everything, spawn of the Builders. Remember that the next time you judge my surface, for I am like a book; my cover only shows but one of my many pages."
+
+Florence spread his hands, "So, I've heard from Daniel that you're not trying to kill us. I just, you know, wanted to verify that."
+
+Plazia opened dark, umbral eyes of igneous rock, and they bent into a raised brow,
+
+"I aim for far more than your deaths, silver tongue. Your demise would mean little but the loss of your powers, for it is in living that your value is manifested. In life, you may help me rise above my corruption. You may offer us salvation."
+
+He referenced all eldritch there at the end. Amara took a step back and snarled, "Salvation? You speak as Yawm did, and he tormented many. You'll find we are no fools, and if you wish to bend us to your will, we will retaliate in kind."
+
+I listened as Plazia cackled. He reverberated from the stone all around us, "No. I manipulate only when I must. You each carry your own ideas and virtues. I will aim those virtues at a new goal, a far greater one than any of you may imagine. Follow my children, and I will offer each of you my truest form."
+
+A piece of the ground glowed before more of his glowing insects walked out of this spot. Where rock once stood, a tunnel formed. Some of Plazia's vessels stayed behind, holding the tunnel upright. Helios found nothing wrong with the mana, and Amara couldn't sense any cipher shenanigans either. All of our senses showed nothing as well, but we prepared for the worst.
+
+I charged dozens of singularities into my blood. Amara's hair grazed all of our surroundings where it could. Florence prepared several messages in his status for help, and Helios generated a portal. Unlike other warps, Helios dragged this one behind us. I'd never seen someone do something similar, yet he did.
+
+I created a shell of Event Horizon around my teammates, and I generated an antigravity well ready to stop a tunnel's sudden collapse. After we set everything up, we paced down the tunnel for about a hundred yards. We reached an excavated cave. It stood twenty feet tall and forty wide, kind of a tight squeeze for all of us at that point.
+
+Plazia-Ruhl spoke from the bowels of Svia, "I invite you forth."
+
+On the wall farthest from us, a spearhead cleaved through dimensional space. I blinked, recognizing the dimensional slicer to be one of the Sentinels' weapons. Reaching out my hand, I readied a swarm of singularities at the entrance point. No violence came our way, so I stayed my assault for now.
+
+He could've reached us at any point, so I noted that. He brought us here for some other reason.
+
+The violet, cackling blade sheared space-time before a Sentinel's hands grabbed the dimensional tear. These sharpened gauntlets colored dark azure instead of the bright turquoise of most Sentinels. Many black tubes lined the hand's palms, but the fingers ended in sharpened claws, gripping into the sliced fabric.
+
+Once pulled opened, a complete, azure Sentinel walked out of this warp. Cipheric runes coated the outer plating, and primordial mana oozed from every iota of it. That dark blue energy spawned lightning which clashed into the Sentinel's surroundings at random. The sparks dissipated against the shield of Event Horizon I made earlier.
+
+Once past the veil, the Sentinel's primordial lightning died down. In its wake, the mana warped the space around us, bending it to the twisted Sentinel's will. This hollowed guardian sheathed its dimensional slicer onto its back, the air around it popping with volatility. It held the dimensional tear open with comfort, as I often did.
+
+We gawked at the being, and from under its plates, a discordant thrum of cracking ebbed out. At first, I believed it was insects under its skin. Listening closer and finding absurd sums of mana, the Sentinel used furnaces underneath its armor at all times. Quite a few of them, actually. Helios gasped while stepping back, "You...how many furnaces are you using? Four? Five?"
+
+Plazia-Ruhl raised a hand, one that showed the convoluted tubing of an Overseer's gauntlet. He grasped the large fingers into a fist,
+
+"I am wielding several hundred, but not here. They lay throughout Svia, and they establish my domain upon this world."
+
+Sensing the mana around him, I verified his claims. The energy coursing through the Sentinel's armor paled compared to my own, being about one-fifth of mine. He struggled with that much while his body both incinerated and healed in tandem.
+
+For him, this was likely the limit of his mana potential. Anymore, and he'd burn away to ash. At this apex of his potential, Plazia spread out his hands, his polished Sentinel armor glistening in the magma's light behind his warp,
+
+"I am Plazia-Ruhl, of Many Faces, and I have much to show you, Harbinger."

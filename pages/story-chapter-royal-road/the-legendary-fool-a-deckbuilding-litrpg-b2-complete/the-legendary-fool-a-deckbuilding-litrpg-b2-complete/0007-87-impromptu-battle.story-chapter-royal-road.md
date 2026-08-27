@@ -1,0 +1,89 @@
+---
+id: a669967e-b0c1-53e0-9527-9b6b6bf94b73
+page-type-slug: story-chapter-royal-road
+title: "87: Impromptu Battle"
+slug: 0007-87-impromptu-battle
+partOf: the-legendary-fool-a-deckbuilding-litrpg-b2-complete
+position: 7
+ownLength: 1277
+unit: words
+publishedAt: 2024-05-14
+link: "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/1635754/87-impromptu-battle"
+royalRoadId: "1635754"
+---
+
+Tom fought his instincts to break out into a jog as he stalked after the Academy professor. The wash of the afternoon sun bathed his skin with its comforting golden glow, his gaze unobscured by its rays as it hawkishly locked on to his target.
+
+He took in his surroundings, noticing the lower footfall at the sleepy time of day. Not more than a dozen people filled his line of sight, which, when considering the wide thoroughfare flanked by peaceful residences and the occasional store or two, meant that they were all too spaced out for Tom to try and blend in within the crowd.
+
+The salt and pepper haired professor took a right turn along the bend, his steps unhurried as he strode forward with an air of cultivated dignity.
+
+Tom took advantage of their momentary separation, taking the opportunity to increase his pace, staggering it only before he rounded the bend.
+
+He spotted his quarry with ease, the academy professor’s pace having flagged as he took his time to appreciate the shops lining the street. However, he kept moving and the stalemate Tom found himself in continued for another five minutes and another left turn.
+
+‘Just where is he going?’ Tom thought, his expression blank as he continued to trail behind the professor.
+
+His question was answered in a most abrupt manner, as the professor took a sharp right without any warning, down a narrow alleyway that looked to be squeezed between two three-story residences.
+
+Tom paused, allowing himself a deep breath as he took in the sparse footfall on the main thoroughfare they had been following so far.
+
+‘If I follow, he will almost certainly know,’ Tom concluded, his expression tense. ‘But it’s not like I have a better option. And patrols seem to be less frequent this time of the day.’
+
+Gritting his teeth, Tom decided to follow.
+
+He had to keep the act up for as long as he could, so he forced himself to maintain a calm pace as he stepped into the alleyway.
+
+Almost immediately, his instincts picked up on the sharp, chilling sensation of danger, causing Tom’s expression to warp in surprise as he leapt to the side. One foot kicked off the left wall and pushed him towards the right, allowing him to gain enough elevation to evade the bouquet of translucent ice that bloomed right where he was standing moments ago.
+
+“Harassing an employee of the Syrelore Academy is punishable by the Crown, you know?” The professor posed the rhetorical question in a clipped tone, a hint of anger audible in his voice. “Which of my students sent you?” He followed through with a real question this time, the anger in his tone only growing as Tom landed on the ground unhurt.
+
+‘His students?’ Tom thought, perplexed. ‘Oh right, the Nobles.’
+
+Tom saw a brief window of opportunity where he could exploit the misunderstanding, also noting that the bloom of ice had intended to immobilise instead of harm.
+
+Wisps of steam roiled off his body as he activated his Uncommon Card- Lifeblood’s augmentation ability, the increased blood-flow circulating through his body filling him with an energy that surpassed the limits of his body’s normal function.
+
+“What are you-!” The professor’s word of protest died in his mouth as Tom shot forward with clearly malicious intent. He extended his right hand outwards, the build-up of a minty blue energy intending to serve as a deterrent.
+
+The professor’s visage twisted into a grimace as Tom continued charging, forcing him to release a sharp icicle in self-defence. His expression cycled from dismay at being forced to kill his attacker to shock, as Tom’s body twisted mid-sprint— balancing on his left leg alone, he lowered his upper body just enough for the sharp icicle to harmlessly sail over him, before resuming his charge.
+
+Realising what had just transpired, the professor brought his arms before him defensively in a last ditch attempt, not having even the time to charge another icicle, let alone lob it at Tom.
+
+Unfortunately for him, Tom was just too quick as he landed two successive blows on his abdomen. The air was knocked out of the professors lungs, his eyes widening with astonishment as he took in the shadows wreathing and blurring Tom’s already moving figure.
+
+Cancelling the uncommon Lifeblood's ability in favour of the common The Shadow card, Tom positioned himself behind the professor before he had recovered from his earlier melee attack.
+
+He looped his right arm around the professor’s neck, applying pressure on the carotid artery on both sides of the neck with practised ease. The moment Tom noticed a build-up of frost energy on the professor’s left hand, a last ditch attempt at self-defence no doubt, his free hand shot forward and forcibly directed it to his own visage.
+
+This way, if the professor actually decided to fire the icicle, he would be impaling himself before he did Tom.
+
+That moment of impotence cost the professor his consciousness and Tom immediately released the chokehold, his moments too refined not to have done something of the like before.
+
+Non-lethal takedown was the knowledge contained in the bright bronze star Tom had wrested away from Zallark’s memories, the ordinary dungeoneer’s experience as a bar’s bouncer in his hometown proving to be invaluable for Tom.
+
+While he still had other ways of knocking an opponent out, none could achieve his purpose without leaving a mark on his opponent. And he did not wish to hurt an ordinary academy professor in the slightest.
+
+It was well past nightfall when Tom burst into The Warm Hearth’s foyer, stumbling inside the inn with a stagger.
+
+“Sirs, are you alright?” A concerned voice asked, sounding out from the other end of the room.
+
+“I-I’m fine,” Tom slurred. “Just fine, my good man,” He assured as Tom walked forward, his arm looped around the unconscious academy professor’s waist.
+
+It was testament to his strength that he managed to hold the professor upright, with his arm looped around Tom’s neck for support and make it seem like he was actually standing.
+
+“Sirs, it is not my place to ask, but are you perhaps drunk?” The receptionist asked.
+
+“Yesh,” Tom nodded, his eyes tracking the male receptionist’s approach as he moved to support the academy professor from the other side. “You must understand,” Tom began, his tone dropping conspiratorially low. “My friend here, he’s….,” Tom trailed off, as if he forgot what he was about to say.
+
+“He is?” The receptionist kindly offered, jogging Tom’s memory.
+
+“Ahhhh, yes. He’s a professor with the academy, young man,” Tom stated, calling upon Zallark’s age to sound sagacious. “So, if it leaks out that he was blind drunk in a tavern, it won’t be… you know,” He made a show of rummaging in his pockets, before taking out a single gold coin and offering it to the receptionist.
+
+“Sir, what do you mean by this?” The receptionist innocently asked, his hesitation written on his expression.
+
+“You know what I mean,” Tom retorted, even as his head swayed. “Take it, quickly, or I will have to assume you have intention to leak this information. And young man, trust me, you do not want to make an enemy out of an academy professor,” Tom impressed upon his final words, the hint of a warning audible in his tone.
+
+“Y-Yes sir!” The receptionist stuttered as he grabbed the coin and nodded enthusiastically, clearly intimidated. “Should I assist you to your rooms, sir?” He asked hurriedly.
+
+“No need, young man,” Tom replied. “I’ll take it from here. Just make sure you let no one in until the professor has recovered”

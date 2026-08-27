@@ -1,0 +1,209 @@
+---
+id: 33e57275-fe17-54c3-9024-cc3f9f6d1918
+page-type-slug: story-chapter-royal-road
+title: "Chapter 545: Demise"
+slug: 0068-chapter-545-demise
+partOf: reborn-as-a-demonic-tree
+position: 68
+ownLength: 3103
+unit: words
+publishedAt: 2026-03-13
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3148769/chapter-545-demise"
+royalRoadId: "3148769"
+---
+
+Umbraholme, the City of Darkness – Celestial Empire
+
+The chamber was bathed in blackness, the only illumination a faint silver glow radiating from the carved runes of concealment etched into the stone walls—soft enough not to disturb the shadows that clung stubbornly to every corner.
+
+A dozen cloaked figures sat around a long obsidian table, their faces hidden beneath layered hoods and veils of shadow. The silence was suffocating, pierced only by the low, gravelly voice of a reporting man.
+
+"Shadows are dropping left and right," he announced, each word heavy. "Casualties are in the hundreds—and it's only been a few days since deployment. It's... a massacre, Mistress. If the current trend holds, our presence in the wilderness will be wiped out by week's end."
+
+Mistress Veilshade did not immediately respond to the dire report. She leaned forward from her throne at the head of the table, fingers slowly interlacing before her.
+
+The report was hard to believe. Something had gone terribly wrong, and they needed to figure out what—and fast.
+
+"Do those numbers include the hired mercenaries?" she asked at last, her tone deathly cold, making everyone stiffen.
+
+"Answering, Lady Darkness," the Shadow looked down at his notes. "Casualties among the mercenaries have been reported, but at a far lower rate than our own."
+
+"They have a way to pick us out then," she mused. Her fingers began to drum lightly on the armrest—slow, methodical taps that echoed in the quiet chamber. Her rhythm stopped, and she eyed the reporting Shadow. "You mentioned the number, but not where we are bleeding."
+
+The Shadow hesitated. "It's all over, Mistress. Every location we have targeted has mounted a resistance to our presence."
+
+"Even that city far away from the Ashfallen Sect, what was it called? Desolark City?"
+
+"Yes," another Shadow answered from across the table. "Even there."
+
+"We believe it's the work of the All-Seeing Eye," the first Shadow continued. "There have been reports by both the Shadows and the hired mercenaries that they feel constantly watched. The populace feels it too."
+
+"What about outside the cities?" Mistress Veilshade asked.
+
+"The feeling reportedly follows them anywhere they go. It's subtle and apparently doesn't bother the populace anymore. But it's caused many hired muscle to quit on us as they say it's too unsettling, paired with the rate at which we are getting picked out."
+
+Mistress Veilshade's expression darkened. "This god sure is living up to his name. Does he have some kind of clairvoyant capabilities or perhaps divine awareness? But he's a desolation cultivator, isn't he? Have any of our agents caught sight of him?"
+
+"An agent hasn't been able to set foot on Red Vine Peak, the mountain on which he supposedly resides, without being instantly captured."
+
+Mistress Veilshade hung on that last word. "Captured? What do you mean by that?"
+
+"While many agents died while fighting patrolling cultivators, most were captured in the lands surrounding the All-Seeing Eye by a Nascent Soul Realm mist demon and supposedly imprisoned in a shadow dimension. We haven't been able to enter this shadow prison as its entrance is heavily guarded by a family of devout worshipers and two massive lunar affinity Ents."
+
+This was all deeply concerning news.
+
+The oaths they took should prevent them from talking, but given that they possess a shadow dimension, it indicates they have a shadow Monarch on their side. Such a person could undo those oaths.
+
+"There was also another urgent report I wished to discuss," the Shadow continued. "An agent by the name of Crow, who visited the Frozen Star Sect, was killed. What's special about his case is that the assassination was carried out by a member of the Covenant protecting Stella."
+
+"Stella is at the Frozen Star Sect?" Mistress Veilshade asked with surprise.
+
+"All three members of the golden sap project were. They banded together to take over the sect and enslaved the old Patriarch."
+
+"Ao Lingxuan? That ice dragon, right?"
+
+The lurking Shadow nodded. "Stella was seen leaving the Frozen Star Sect on the dragon's head and traveling eastward. She has likely arrived at the Ashfallen Sect by now. Zephyrine and Janus have stayed behind to run the sect in her stead."
+
+"Why didn't you report this earlier?"
+
+"The Frozen Star Sect initiated a lockdown, so it took a few days for our agents to escape and send the message."
+
+"I see," Mistress Veilshade sighed. It's not like we could have done anything to intercept her, considering she was riding a Monarch Realm ice dragon across the frozen lands.
+
+"Hold on, how did our agents know Crow was assassinated by a member of the Covenant?" Mistress Veilshade inquired.
+
+"Upon discovering the body, the assassin came up behind them and asked if they were present in the Frozen Star Sect for Stella. Since that wasn't the sole reason they were there, they said no and were spared."
+
+Mistress Veilshade pursed her lips. While not as powerful as the Eternal Pursuit Pavilion, her Silent Thorn was the second most feared information organization in this layer of creation. She knew what it took to run and command such an organization, which meant she also comprehended just how far above them the All-Seeing Eye and his forces were.
+
+Not even the Chairman could pressure me to this extent.
+
+"Lady Darkness, what is our next move?" a Shadow asked.
+
+It was a good question.
+
+"For now, cease all operations, and tell all Shadows to return to the darkness. This is frankly a war we cannot win. Not against the All-Seeing Eye, at least. The Ashfallen Sect has captured our people, meaning our plans are compromised moving forward. I need you all to assess whether there's any way to reach a peaceful resolution to free those prisoners. In the meantime, I need to speak with Councilman Faelorian Lysanthos."
+
+Murmurs spread throughout the room.
+
+It was scarce for a Monarch to speak to another outside of organized meetings with the World Tree. But Mistress Veilshade believed it was necessary. Faelorian was currently the only Monarch in the Celestial Empire who had been actively threatened by the All-Seeing Eye. She needed to know what he did to receive such targeting and to check up on Floridawn.
+
+"Before I go, has the Chairman made any moves?" she asked the room.
+
+"No, Mistress. It has been oddly quiet from Empyrea as of late, despite the noble houses growing restless regarding the encroaching desolation and monsters in Floridawn," a Shadow at the far end of the table reported.
+
+"What about the Empyrea guard?"
+
+Another Shadow answered her question. "Lady Darkness, they have mostly withdrawn from Floridawn to Empyrea, leaving the city to fend for itself."
+
+That raised alarm bells.
+
+"I need eyes on the movement of the Empyrea Guard. Wherever they go will point us to the Chairman's objective."
+
+A round of agreement echoed through the room.
+
+With that, the meeting drew to a close, and Mistress Veilshade prepared for her meeting with another Monarch.
+
+***
+
+Mistress Veilshade visited Floridawn alone. A risky move, but the darkness of twilight shielded her. Not to mention a talk between Monarchs desired no spectators. She wanted to confront Faelorian one-on-one.
+
+Taking a moment to pause above Floridawn, she was shocked to see it reduced to such a state. It would seem the appearance of that shadow angel marked the beginning of their actual assault, she thought as she scanned the ruined landscape infested with beings of twisted wood and dotted with small forests of demonic trees. Their blood-red leaves rustled in an unbothered winter breeze, providing some color among the gloomy ruins.
+
+Below her feet, the residence of the reigning Monarchs and a few noble houses of the Flower Accord looked like islands among the desolation. Defensive formations burned brightly around them, warding off the encroaching destruction with an aurora of green.
+
+I wonder how long they can keep those up for, Mistress Veilshade pondered. Even from here, she could see the desolation Qi hissing against the defenses, endlessly eating away at the protective shell, only for the formation to swiftly fill in the gaps. Just what kind of monster is the All-Seeing Eye? I knew gods were heaven-favored, but to drive the rulers of a city containing billions to such a state without ever showing yourself?
+
+Monarchs were powerful; nobody would deny that. But this level of overwhelming dominance felt like a step above. Yet the desolation Qi cloaking the land like a deathly fog was most certainly at the peak of the Nascent Soul Realm in intensity, while possessing the dao insights of a Monarch and the weight of an Inner World. It was baffling, to say the least.
+
+What is this weird gaze I feel on me? she pondered, looking around. She was shrouded in shadow so nobody should be able to perceive her. Is this what the reports spoke about? The All-Seeing Eye's gaze? I should get out of the air...
+
+Zeroing in on Faelorian's sprawling estate that loomed over the rest, she plummeted down and punched through the defensive formations. They swiftly sealed overhead to keep the desolation out.
+
+She felt the movement of the estate's many guards, but with a small pulse of her spiritual pressure, they stood down. Everyone knew interfering with a Monarch was pointless and would only anger them.
+
+Waiting outside for a few uncomfortable minutes, Faelorian didn't show any signs of acknowledging her presence. Deciding to enter his residence, she pushed the ajar door and found the halls inside a mess. Furniture was toppled, and the walls showed signs of battle.
+
+Has the Covenant assassinated Faelorian already? was her first thought. Sinking into the shadows, she proceeded forward as cautiously as possible. Room after room, they all showed the same chaos. Faelorian is a very meticulous man. He would never allow his home to be left in such a state. So why is it like this? I would track his presence via his spiritual pressure, but the building is decked out in formations to suppress spiritual senses to an extreme I've never seen before.
+
+Rounding a corner, she finally laid eyes on the man she had come to see.
+
+Faelorian, with his usually pristine robes caked in dirt and his hair a disheveled mess, was digging a massive hole in one of his many living rooms. Not with his techniques or even a shovel like a mortal farmer would, but with his bare hands like a raving dog.
+
+Getting closer, she saw his eyes were unfocused, and he seemed delirious.
+
+"Councilman Faelorian, what are you—"
+
+"AHHHHH!!!" he screamed at the top of his lungs and snapped his focus toward her with his hands balled in shaking fists. His nature Qi flooded the room, making the whole place come alive. "You have finally shown yourself!" he rasped as if short of breath. "Finally, I can lay eyes on the Covenant..."
+
+"It's me, Faelorian," Mistress Veilshade said smoothly as shadows coiled around her feet, ready to defend her from any threats. "Get ahold of yourself. What in the heavenly nine realms happened to you?"
+
+The man paused, his hands still raised. Only after a long moment did he let out a long sigh and relax—if only a little. His gaze still carried a deep paranoia. "Why have you come to visit me, Lady Darkness? To laugh? To sneer at this old fool? Perhaps to kill me?"
+
+"I came to talk," she said honestly. "Is... this a bad time?"
+
+Faelorian collapsed onto the side of his hole with the awkward grace of an elderly man reaching the end of his years. "Now is as good a time as any, considering I'll be dead soon."
+
+He said it with such certainty that Mistress Veilshade almost believed him for a second. "Dead? Don't be ridiculous, Faelorian. We Monarchs don't die. Not of old age, or at the blade of another. We stand above all. Is it that threat the Covenant made that's got you this worked up?"
+
+"Do you believe in inescapable fate, Mistress Veilshade?" Faelorian said, meeting her gaze with deathly seriousness.
+
+"No."
+
+"Neither did I, until the Covenant marked me for death," Faelorian said as he kept his all-consuming gaze locked onto hers. Contrary to the state of his clothes, hair, and surroundings, his gaze held the clarity provided by absolute certainty. "Ever since I tried to capture that herald, I've suffered terribly. It started off subtle, a feeling of that dark god's interest. I even located his eye in the sky—but that all changed. A few days ago, the intensity of the gaze became maddening. I feel constantly watched from all angles, and no matter how many formations I put up or what I do, it's inescapable."
+
+Mistress Veilshade had noticed that feeling too, the moment she set foot within the land taken by the All-Seeing Eye, but not anywhere to the extent that Faelorian was suggesting. If she had to describe it, it was like knowing someone was glancing at you from a crowd, but when you look, everyone is looking away.
+
+"So you feel watched? That doesn't mean they can kill you," Mistress Veilshade reasoned. "You're letting it get to your head."
+
+"No, no, you're not GETTING IT!" Faelorian snapped, taking Mistress Veilshade by surprise. "I can feel it, my coming death. The heavens whisper of my demise as if fate has already woven my end."
+
+"Sounds to me like you've gone mad and are manifesting your own demise," she countered. "You're raving like a madman, Faelorian, and letting the All-Seeing Eye's tricks get to you. Remember, he can't hurt you here. Just calm down and try to think straight."
+
+Faelorian snorted and heaved his weary body up from his seat in the mud. "Maybe I will be able to once I've dug him up," he grumbled and got back to work.
+
+"What do you mean?" Mistress Veilshade asked while standing on the edge of the hole and peering in.
+
+"I was told by a reliable source that the All-Seeing Eye extends his power through roots in the earth. I'm going to cut it and free myself of this torment," he insisted. "After trying everything else with no results, this is all I'm left with."
+
+"Why are you using your hands?"
+
+Faelorian chuckled. "Are you more stupid than I thought? The ground is soaked in desolation. Shovel's turn to rust, and my techniques rot and wither away. Everything the All-Seeing Eye touches turns to dust," he pointed at his head, "including my mind, apparently."
+
+"Why didn't you try this first?" she asked curiously.
+
+Faelorian glared up at her. "Did you not listen to my story? I briefly captured one of the dark god's heralds for merely a few minutes and earned a marking for death. Do you really think the All-Seeing Eye won't smite me down when I cut one of his roots?!"
+
+"Smite down a Monarch like you in your own house? Please, be serious," Mistress Veilshade chuckled. Monarchs didn't die, not that easily, at least. She knew Faelorian had spare bodies ready to harbor his soul and many life-saving artifacts. It would take the All-Seeing Eye showing up directly to threaten him even a little.
+
+Faelorian shook his head and went back to his work without another word. A silence settled between the two for a while until Faelorian seemed to strike what he was looking for. Pulling away the earth, he exposed an ethereal, almost ghostly-looking root filled with a suspiciously familiar black liquid.
+
+The cursed sap I found at the sap harvesting outpost? Mistress Veilshade's eyes widened, but she didn't warn Faelorian. She was curious to see what would happen next.
+
+Desolation, as thick as smoke, billowed off the root and into the room with a hiss. Both of them instinctively protected themselves with auras of Qi while the rest of the room began to crumble around them.
+
+"Finally," Faelorian whispered under his breath as he withdrew an axe from his spatial ring. It began to immediately degrade. Not wasting any time, Faelorian struck down with the might of a Monarch, only to barely manage to cut through the root. Grunting, he shrouded the axe in Qi this time and struck again and again. The entire building quaked with each strike.
+
+The root turned out to be far thicker than either of them had expected. It was like cutting into an underground tunnel.
+
+Just as Faelorian was about to cut halfway through the entire root, he struck the section containing the black sap. The moment the sap came into contact with the air, it violently bubbled and turned into a miasma that flooded the room.
+
+Mistress Veilshade instantly recognized that this sap acted far differently from the one she had trialed a few days ago. It was violent and engulfed the room in a fashion that suggested sentience, like a swarm of insects.
+
+Faelorian screamed in pain and fell to his knees as the miasma seemingly worked alongside the desolation and engulfed him.
+
+Mistress Veilshade had seen enough. She swiftly encased herself in shadows and evacuated. The miasma continued to seek her out as she wove through the house. Still, she managed to outrun it by leaving the residence, rocketing into the sky, and putting the defensive formation of the building between herself and the miasma. Even from outside, she could hear Faelorian's howls of pain.
+
+The trapped miasma hissed angrily against the formation's green aura before switching targets and swarming toward the terrified guards. No matter their level of cultivation, they were unable to fight back. She watched in silence as the guards fell to the ground in agony, only for their skin to turn ashen and their bodies to slowly morph into bark.
+
+"That was unexpected," Mistress Veilshade muttered as she watched the horrors unfold beneath her. "While this miasma has no hope of killing Faelorian, it's concerning how much more violent it is compared to before."
+
+She stayed there in the air, pondering what to do for a while longer when her sixth sense for danger told her something terrible was about to happen. Listening to it, she shot further into the sky and activated all of her life-saving artifacts.
+
+The following seconds felt agonizingly long as she poised herself to respond to any threat.
+
+Yet nothing could have prepared her for what happened next.
+
+Just as Faelorian had prophesied moments earlier, the All-Seeing Eye didn't seem to appreciate having its root cut and answered with the wrath of a slumbering dark god.
+
+The ground erupted, showing that everything until now... had merely been a hint of the dark god's true power.

@@ -1,0 +1,305 @@
+---
+id: dd2dd181-2038-539f-b736-a7c3156f2178
+page-type-slug: story-chapter-royal-road
+title: "Chapter 73: Selim"
+slug: 0073-chapter-73-selim
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 73
+ownLength: 2804
+unit: words
+publishedAt: 2026-06-25
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3590242/chapter-73-selim"
+royalRoadId: "3590242"
+---
+
+Qalathar — Warehouse District, Northwestern Quarter
+
+The warehouse sat in the gut of the district, three streets removed from the nearest caravan lane, positioned with the deliberate inconspicuousness of a building that wanted to be forgotten.
+
+Inside, smoke occupied every vertical inch of the space. Tobacco smoke from the cigarettes and pipes that Selim's men nursed at their posts. Beneath it all, the acrid chemical tang of alchemical processing, the smell of product being handled and packaged and prepared for transit.
+
+The warehouse's interior was arranged for function. Wooden crates lined the walls in stacks four high, each one stamped with the sigils of legitimate merchant houses whose names had been borrowed, rented, or stolen to provide the freight with a pedigree that would survive a customs inspection. Selim sat at the largest table.
+
+He sat the way a man sits when the chair beneath him has long since surrendered to his size. Legs extended beneath the table's edge, ankles crossed, the broad expanse of his belly resting against the tabletop like a sack of grain. His robes were expensive, silk the color of aged ivory, embroidered at the cuffs. The fabric strained across his torso. It had been tailored for a man twenty pounds lighter, and Selim had not been that man in a long time.
+
+A cigarette hung from his lower lip. The ember at its tip pulsed orange with each inhalation.
+
+His eyes were half-closed. The lids heavy. The expression of a man who had been sitting in this chair, in this warehouse, conducting this particular category of business for long enough that the danger had become furniture. Something present but no longer worth looking at.
+
+Across the table, Rustem sat perfectly still. His eyes were sharp and never still, always searching for danger.
+
+He was younger. Mid-twenties. The kind of lean that came from living hard rather than eating carefully, the muscles of his forearms corded beneath sun-darkened skin. Beyond Selim and Rustem, there were fourteen more.
+
+Selim's men. They moved through the warehouse with the unhurried ease of dogs in their own yard. Some leaned against crate walls, arms folded. Others sat at the secondary tables, where a game involving carved bone dice and small piles of silver coins produced intermittent bursts of argument and laughter.
+
+None of them were alert.
+
+Rustem noted this. Yet did nothing.
+
+Selim was powerful.
+
+Not in the way that mages were powerful. His power was the other kind. The kind that accumulated in ledgers and debts and the quiet knowledge of which officials could be purchased, which routes could be used, which palms required silver and which required silence.
+
+Selim had been running product through Qalathar's warehouse district for eleven years. In that time, he had survived three purges by the Ashkeri's internal security apparatus, two attempts on his life by rival operators, and a territorial dispute with a competing network.
+
+He was, in the precise terminology of the trade, untouchable.
+
+Not because he couldn't be killed. Because the cost of killing him exceeded what any interested party was willing to pay.
+
+The cigarette burned down to a stub. Selim extracted it from his lip, examined the ember with languid interest before crushing it against the table's surface. A black smear joined dozens of identical marks that scarred the wood.
+
+"Show me," he said.
+
+Rustem stood. He crossed the floor to a stack of crates near the warehouse's rear wall. The crates bore the stamp of a spice merchant based in the southern trade corridor, a legitimate operation whose manifests had been duplicated.
+
+Rustem pried the lid from the nearest crate.
+
+Inside, nestled in packing straw, rows of ceramic vessels. Each one was stoppered with wax and stamped with a sigil that Rustem recognized as the alchemist's mark.
+
+Hayyan's mark.
+
+He lifted a vessel. Carried it to the table. Set it before Selim.
+
+Selim's hand moved with care, understanding the value of what he was handling. He cracked the wax seal with his thumbnail. Tilted the vessel until a thin stream of powder spilled onto the table's surface.
+
+The powder was white. The grains were fine, almost weightless, and where they settled on the dark wood, they produced a faint iridescence that shifted between blue and violet.
+
+Snow Dream.
+
+Selim wet the tip of his index finger. Pressed it into the powder. Raised the finger to his nose. Inhaled. His eyes closed. The heavy lids settled, and for three seconds, the fat man didn't move.
+
+Then the lids opened.
+
+"Hayyan?" he asked.
+
+"Nobody else." Rustem returned to his chair. His hands found the armrests. "First quality. Same batch parameters as the last three shipments. Consistent potency, consistent grain structure. Hayyan doesn't cut corners."
+
+Selim nodded. The motion set the folds of his chin in gentle oscillation.
+
+"Good." He resealed the vessel. "How many units?"
+
+"Two hundred and forty. Forty vessels per crate, six crates." Rustem paused. "Same volume as last month. Hayyan says he can increase production if the demand holds, but he needs assurance that the payment schedule won't slip again."
+
+Selim's mouth curved.
+
+"Hayyan will be paid when I decide Hayyan will be paid. If the alchemist has concerns about the schedule, he is welcome to find another distributor." The curve deepened. "I'm sure the Ashkeri's security division would be delighted to learn where his laboratory is located."
+
+Rustem's jaw tightened. He said nothing.
+
+The threat was not aimed at Hayyan. It was aimed at Rustem. A reminder of the game they both operated within.
+
+Selim brushed the remaining powder from the table with the edge of his hand. The grains scattered across the packed earth floor.
+
+"Half goes to the palace," he said.
+
+Rustem blinked. "Half?"
+
+"One hundred and twenty units. Packaged for official delivery. The palace procurement office will send a bonded courier before dawn."
+
+Rustem leaned forward. The chair beneath him creaked.
+
+"And the other half?"
+
+Selim's thick fingers found the interior pocket of his robe and produced a fresh cigarette. He placed it between his lips without lighting it. Rolled it from one corner of his mouth to the other.
+
+"Not your concern."
+
+Rustem's hands pressed harder against the armrests. The wood groaned beneath his grip.
+
+If it had been anyone else — any other man, in any other chair, speaking to him with that dismissive, half-lidded contempt — the response would have been immediate. Rustem had built his reputation on the directness of his responses. Men who disrespected him discovered, in short order, that the discovery was also their last.
+
+But Selim was not any other man.
+
+The fourteen men in this warehouse answered to Selim. The Ashkeri patrols that conveniently avoided this district during operating hours answered to Selim. The customs officials who stamped the false manifests without reading them answered to Selim. The network that moved product from the southern caravan routes and every component of it — every handler, every driver, every bribed official and compromised guard — functioned because Selim had decided it would function.
+
+Rustem swallowed the anger. It went down like broken glass.
+
+"I'd like to know," he said, keeping his voice level, "where one hundred and twenty units of first-quality product are going. Hayyan would want to know. For his records."
+
+Selim's mouth curved again. The unlit cigarette tilted upward.
+
+"Outside."
+
+"Outside?"
+
+"The Sultanate's borders." Selim found a match. Struck it against the table's edge. The flame caught. He held it to the cigarette and drew until the ember established itself. "The Empire. The Republic. Perhaps some of the minor kingdoms, depending on who's buying."
+
+Rustem stared at him.
+
+"You're exporting."
+
+"I'm expanding."
+
+"The Sultan —"
+
+"The Sultan," Selim interrupted, the cigarette bobbing between his lips, "buys his half. One hundred and twenty units, delivered on schedule, consumed by his apparatus without question or complaint. The Ashkeri receive their dose. Their Circles swell for the duration of their watch. The walls hold. The Titans are repelled. The Sultan is satisfied."
+
+He exhaled.
+
+"The Sultan doesn't care about health," he continued. "The Ashkeri are not men. They stopped being men when the surgeons finished with them. No addiction. No withdrawal. No emotions. A Fourth Circle mage becomes a Fifth for one hour, then returns to baseline. The Sultan gains additional defensive capability at a fraction of the cost of training more mages. The transaction is perfect."
+
+He ashed the cigarette against the table's edge.
+
+"What happens outside the Sultanate is a different market."
+
+Rustem shifted in his chair. The leather of his belt creaked against the wood.
+
+"A different market," he repeated.
+
+"In the Empire, a man without Circles will sell his mother's bones for a taste of what Snow Dream provides. For a few hours, he feels mana in his channels. He feels connection. The warmth that every mage describes and every non-magical commoner has spent his entire life being told he can never experience." Selim's half-closed eyes found Rustem's. "That's not a market. That's a gold mine."
+
+"And when they burn through their own core tissue—"
+
+"They buy more." Selim shrugged. The motion rippled through his torso. "Addiction is the business model, boy. A customer who can walk away is a customer you have to convince. A customer who needs you is a customer for life." The smile returned. "However short that life may be."
+
+Rustem's hands released the armrests. He pressed his palms flat against his thighs. Looked at the floor. Looked at the soldiers lounging against the crate walls. Looked at the dice game, where a burst of laughter accompanied someone's loss.
+
+He knew the calculus. Selling to the Sultan was safe. Guaranteed revenue. The palace paid on its own schedule, but it paid. And the implicit protection that came from being a supplier to the state apparatus meant that the Ashkeri's security division looked through Selim's operation rather than at it.
+
+Selling outside the Sultanate was something else.
+
+"The Empire has mages," Rustem said. "If they trace the supply chain back to us—"
+
+"The Empire," Selim said, and the dismissal in his voice was so complete it might have been delivered with a wave of the hand, "is bleeding from the ears. Their mages are dying on the southern front. Every resource they possess is committed to a war they are slowly losing against enemies who have been killing them for centuries." He drew on the cigarette. "The Empire will not come here."
+
+He leaned forward. The table groaned.
+
+"And if by some miracle they send someone — some ambitious mage, some idealistic fool with a commission — they'll find the desert, the wall, and twenty thousand Ashkeri between them and this warehouse." The smoke left his nostrils in a slow, satisfied exhale. "No mage above Three Circles enters the Sultanate without the border garrisons flagging them." He spread his hands. "Below Three Circles is nothing. They'll be dead before they could cast anything."
+
+Rustem forced his shoulders to loosen. Leaned back. Let the chair take his weight.
+
+He didn't like it.
+
+The arrogance of assuming that distance and desert and the Ashkeri's border protocols would insulate them from consequences that, in Rustem's experience, always found a way to arrive.
+
+But the argument had the weight of evidence behind it. Eleven years. Selim had operated for eleven years.
+
+Maybe Selim was right.
+
+Maybe the Empire wouldn't come.
+
+At one of the secondary tables, the dice game had turned into a dispute. Two of Selim's soldiers were arguing over a throw — the bone cubes had landed in the narrow gap between a table leg and a crate, and the question of whether the result counted had produced a debate whose volume was climbing.
+
+Rustem watched them. Four men clustered around the dice. Two more leaning against the wall behind them, offering commentary. Another three at the next table, cards in hand, their attention divided between their own game and the escalating dispute.
+
+The two guards at the entrance had turned fully inward. One of them was calling something across the warehouse, his back to the door, his voice joining the general noise.
+
+Fourteen men. None of them watching the street.
+
+Selim reached for the vessel of Snow Dream and turned it between his thick fingers, examining the wax seal.
+
+The tremor came.
+
+A vibration that traveled through the packed earth floor. The dice on the disputed table jumped. The ceramic vessels in the open crate clinked against each other.
+
+Rustem was on his feet before the vibration had fully passed through the building. His eyes snapped to the entrance.
+
+The guards at the door hadn't moved. One of them glanced at the floor, then at his companion. Shrugged.
+
+Selim hadn't risen. He sat in his chair with the vessel in his hand and the cigarette in his mouth and the expression of a man bothered by a minor inconvenience.
+
+"Sit down," he said. The cigarette bobbed. "It's nothing. Another one testing the wall. Two in one day. Rare, but it happens."
+
+Rustem remained standing.
+
+"Sit down," Selim repeated. "You're making my men nervous."
+
+Rustem looked at the soldiers. None of them appeared nervous. Most of them hadn't even registered the tremor.
+
+Rustem lowered himself back into the chair. His pulse was elevated.
+
+He breathed. Tried to relax. Watched Selim's men throw dice and argue over the outcome.
+
+The brazier nearest the entrance popped. A coal shifted. Sparks rose.
+
+Then something struck the doors from outside—a concussion that blew the entrance inward and rolled pale blue gas through the gap.
+
+Three shapes.
+
+They came through the smoke. A single, fluid surge of movement that crossed the threshold and fanned into the warehouse's interior in the time it took Rustem to draw half a breath.
+
+The first guard was still facing the warehouse floor when something took him at the base of the skull. His legs folded beneath him and he dropped straight down.
+
+The second guard managed a quarter-turn. His mouth had begun to open — to shout, to scream, to form whatever word his dying brain offered as a response to the impossible.
+
+The blade that took his throat didn't wait for the word.
+
+Two seconds. Two dead.
+
+The dice game ended.
+
+The four men at the table scattered. Chairs crashed. The table flipped. Dice and coins flew in every direction as bodies that had been lounging moments ago snapped reaching for weapons.
+
+Too slow.
+
+The tall shape crossed the floor in three strides and met the first soldier before the man's blade had cleared the scabbard.
+
+The greatsword didn't slash. It crashed. A descending blow that began above the tall figure's head and ended at the soldier's collarbone, splitting the man from shoulder to sternum with a single stroke.
+
+The third shape was faster than the other two.
+
+Each cut targeted a specific failure point — the gap beneath the arm where the ribs met the shoulder joint, the inner thigh where the artery ran closest to the surface, the soft triangle of exposed throat.
+
+Three men fell in rapid sequence.
+
+Rustem stood.
+
+His wand was out. He didn't remember drawing it.
+
+Get out. Get out. Get out.
+
+Across the table, Selim moved.
+
+The fat man lunged from the chair toward the warehouse's rear wall, where a narrow door was set into the stone. His hand found a cord hanging from the ceiling beside the door.
+
+He pulled.
+
+The cord connected to something in the wall. A mechanism.
+
+An alarm. A signal.
+
+Selim's mouth opened.
+
+"ASH—"
+
+The word died at the second syllable.
+
+A shape was already behind Selim.
+
+White hair. A face beneath the hair that was young and scarred and carried an expression so empty of hesitation it could have been carved from the same stone as the walls.
+
+A demon.
+
+The sword was already moving.
+
+Rustem saw the arc. The blade traveling on a horizontal plane that intersected with the circumference of Selim's neck.
+
+The cut was clean.
+
+Selim's head separated from his body with a wet, tearing sound.
+
+The body stood for a full second. The neck stump, level and smooth as if it had been sanded, produced a single arterial pulse that sent a fountain of dark blood skyward before the heart recognized the absence of the brain that governed it and stopped.
+
+The body dropped.
+
+It landed on its knees first, then tipped forward onto the belly.
+
+The white-haired figure turned.
+
+His eyes found Rustem.
+
+Rustem didn't think. Didn't calculate. Didn't weigh options or consider outcomes. The animal brain, the part that predated language and logic and every higher function, seized control.
+
+He ran.
+
+He made it four steps.
+
+The tall shape closed the distance. The greatsword caught him at the base of the skull.
+
+Rustem's head hit the packed earth before his body did.
+
+His eyes stayed open.
+
+Then nothing reached them.
+
+And Rustem stopped with them.

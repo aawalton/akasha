@@ -1,0 +1,349 @@
+---
+id: 4df3b897-1009-5888-9533-1f0a48b520a2
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 214"
+slug: 0030-the-path-of-ascension-chapter-214
+partOf: the-path-of-ascension
+position: 30
+ownLength: 5778
+unit: words
+ownProgress: 5778
+publishedAt: 2023-03-31
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1153816/the-path-of-ascension-chapter-214"
+royalRoadId: "1153816"
+markedReadAt: "2026-06-29T19:18:29.937Z"
+---
+
+Chapter 214
+
+Luna felt a ripple in space, and like everyone else, narrowed her spiritual perception into the Clans' moon to inspect the group who came out.
+
+Tier 13s, and with the overly full feeling that came with a successful Folded Reflections reward. Seeing that, everyone’s attention retreated off the now thoroughly scanned team and spread back across each of the eight moons.
+
+The nerves across the highest Tiers were palpable, and translated to the various spiritual senses trying to shove the others away from their area of influence. But with so many spiritual perceptions layering, it was like trying to shove the ocean away with one's hands.
+
+It just flowed back in, but the exercise was more about demonstrating displeasure than actually accomplishing anything.
+
+In the Empire at least, it was outright illegal for higher Tiers to spread their perceptions so widely on a regular basis, as well as being rude, but Minkalla paid no heed to decency at the best of times.
+
+Thirty seconds later, when another spatial ripple appeared on the Federation moon, everyone repeated their swarming, to see that it was only a pair of Tier 14s leaving from the fourth floor with new Concepts. Luna and everyone else returned to a more neutral stance before four quick exits to various moons from floors five and six raised their hackles. None of the entrances gave them anything of consequence, and she quickly remembered why she hated Minkalla.
+
+She was half tempted to bring out her tail, just so she had something to flick.
+
+The waiting for the final floor’s reveal and the unknown fate of her children were like two sore spots that were also rubbing her fur the wrong way.
+
+Normally, things weren’t quite so bad, but with the fourth floor Courtly Warfare, she knew the various groups would be preventing anyone from fighting a boss undisturbed. It would help them better finish off the last of their kill missions, which would form a bottleneck on the final level of the seventh floor.
+
+As tensions rose like boiling water trying to escape the pot, a fight broke out between two Republican and Corporation Tier 40s. They at least had the manners to fight each other in the outer system and keep their attacks limited in scale, but the gas giant that was already on its last leg was obliterated by a stray attack, creating a pretty swirl of gasses trailing perpendicular to the rest of the system.
+
+The fight at least provided some entertainment that was more exciting than counting the spires of the planet again, during the lulls between teleports.
+
+Luna was just getting ready to start scratching something when another ripple appeared on the moon under her.
+
+As her spiritual perception swept over them, she instantly teleported next to her charges and brought them all to the hospital, with her heart racing. They were well into Tier 12, which made her wonder when they had been forced to Tier up. More importantly, she could feel the spiritual damage that always accompanied a new Innate skill slot. Skills were not yet placed inside them, but that didn’t directly tell her anything surprising.
+
+Even with her acting to shield her charges, everyone over Tier 25 in the system was already hovering over the moon, demanding answers to the most important question.
+
+What was the final floor?
+
+She used all of her spiritual sense to wrap up her children, but she could feel others, notably the Tier 45’s from each Great Power, ripping her shielding away and trying to inspect the four of them.
+
+Minkalla was a neutral ground by treaty, but each Great Power had the ability to staff their planet with one Tier 45, and their largest job was to learn about the newest up and comers each Great Power had sent through the Forge.
+
+Watcher Eru, the Empire Tier 45 representative, was doing his best, but even with his help, their efforts were shaky.
+
+As they materialized, Luna finally had the opportunity to inspect her charges, and she didn’t like what she saw.
+
+Liz was ostensibly the best-off out of all of them. She was missing an arm, yes, but was otherwise limited to an array of small injuries and a not-quite-healed scar on her throat. However, while the injuries that she still had were minor, the fact that Liz, with as much focus as she’d given to her self-healing and regeneration enhancements, hadn’t healed through them all passively meant that she must have been several times over normal healing limits.
+
+That Aster, with a shattered ribcage, shredded and torn foreleg, missing tail, and skin covered in third-degree burns, was the next best-off spoke to the degree which Liz’s healing had already carried her. Still, at least most of the fox’s wounds were superficial, save for a bit of internal bleeding that wouldn’t prove life-threatening for a few more days.
+
+Susanne was missing a leg and an eye, with raw fourth degree burns rendering half her head a charred and burned mess, down to the bone. Several of her limbs were covered in fractures, and there was basically no part of her body that wasn’t bruised. She’d broken three fingers, cracked her collarbone, and a portion of her exposed skull had a chip of bone missing. As she was doubtlessly far over her healing cooldown, that could prove an issue.
+
+Matt was unsurprisingly even worse off. He was the physically toughest of the four by a substantial margin, but that just meant he tended to throw himself into harmful situations with even less regard for his physical well-being than the others. His hands were slightly blackened and had so much nerve damage, she wondered if he could even properly hold his sword. He was missing half his hip and right leg, had a broken left foot, a shattered arm, half a missing hand, and a fractured jaw with half his teeth missing and only a single one fully intact. To top it all off, his chest was a mess of puncture wounds, one of which had torn one of his lungs to bits and caused some worrying damage to his heart. That his entire body was an off-color purple from a forming bruise was almost an afterthought.
+
+It would be inconvenient to fix, but he had [Bandage]s covering the worst of his wounds, and he could be stabilized well enough to make a full physical recovery. What worried her more was his vacant, unfocused and catatonic expression, as well as the way he was limply hanging off of Liz.
+
+That was not a good sign, and her claws were out in worry at the worst possibilities.
+
+Luna refused to allow herself to panic, however. His spirit was intact, and his Concept felt very healthy. He hadn’t failed Folded Reflections, that much was certain, so she had a chance at fixing whatever was wrong.
+
+Looking to Liz, who seemed to be at least mostly conscious, she was about to ask when her [AI] received an update from the girl. At the speeds Luna was processing, that was faster than her speaking. It was a good sign too, as it showed she remembered their exit procedures.
+
+The message was thankfully short and to the point. “Final floor Mind Over Matter.”
+
+She passed the information on to the waiting horde of watchers faster than she could even allow herself to properly appreciate a double-Concept final two floors.
+
+That satiated most of their curiosity, and most left, but the Tier 45s’ spiritual perceptions kept sweeping her charges, trying to catch any hint of whether they had reached Minkalla’s core at Tier 11. The masks they wore were in no way strong enough to hide their real cultivation from such a Tier difference.
+
+It was also a question she wanted answered.
+
+Both Tier 12 and Tier 11 delvers could gain an Innate slot, but it wasn’t required to fill the slot immediately. Some did, but others left it open to absorb a skill after they left. It was tricky, as the Innate slot wanted to be filled, and even an errant nudge of a core skill could push it into the Innate slot, but no amount of upgraded [Analyze] studying would reveal that particular tidbit. It would be even worse for the other Great Power watchers, as they had to contend with Watcher Eru fighting their scrutiny to protect their proper identities.
+
+Instead, they were looking at how far along into Tier 12 the kids were.
+
+It was also what Luna was investigating.
+
+They were a little more than a third of the way through Tier 12, which nearly guaranteed the fact they had to Tier up early which was expected if disappointing. That meant it was just a question of when they Tiered up and what the Tier 45s were trying to sense, but that wasn’t so easy a task.
+
+Before a full second passed from their exit, the spiritual perceptions vanished, and Watcher Eru appeared next to her, using his range advantage to help keep anyone from easily intercepting AI messages.
+
+“What's wrong with Matt?” That was her first question and most pressing concern.
+
+Even as healers rushed in and started casting [Bandage] on their wounds, since actual healing would need to wait, Luna didn’t have the luxury of time if something serious was wrong.
+
+Some matters of the mind could be time sensitive.
+
+Liz paused for an agonizingly long two seconds as she clearly mulled over how to say what happened without giving too much away to anyone who might be tapping in. “A hefty amount of spiritual overstrain, and then… He saw his Image in person.”
+
+Luna paused hearing that, as her mind ground to a halt.
+
+They had found a white hole?
+
+That seemed impossible, but they were talking about Minkalla, after all. Anything was possible, and if the planet really came from the higher realms, the fact it might have something that didn’t exist in the lower realms shouldn't be surprising.
+
+As she processed that information, Luna inspected Matt a bit more closely and had a moment of realization at just what that meant for him. She just needed a single piece of information to know if it was a bad thing.
+
+“Liz, sitrep? Quickly!” Luna was counting the milliseconds as they ticked by at a glacial pace.
+
+“Situation three-N.” Liz responded, and her mouth began to twitch into a smile, which would have been well earned in any other situation.
+
+Situation three-N meant they finished Minkalla at Tier 11, and Tiered up on their exit. How they had accumulated enough Genesis Energy to get so far into Tier 12 was something she would find out in due time, but the implications for Matt settled into place immediately.
+
+Matt hadn’t doubled his mana yet.
+
+And he was undergoing an Inspiration.
+
+Luna finally allowed herself to panic as she threw her Domain at Matt.
+
+***
+
+Matt couldn’t believe it.
+
+A white hole existed.
+
+It was real.
+
+That fact seemed like a mantra resounding through his mind.
+
+It made him feel like he had found his place in the universe, despite not knowing he was adrift before.
+
+The epiphany felt like he was in a pool of water that perfectly matched his body temperature, allowing him to forget that anything else existed.
+
+He felt at peace, despite being in serious physical pain.
+
+Almost without his control, he felt his spirit start to seemingly expand and merge with the world around him. It was trying to do something, and he wasn’t in the right frame of mind to analyze or question it, he was just able to experience it.
+
+Wake up.
+
+Matt’s mind jolted into awareness, as a presence far beyond his own slammed into his spirit and mind. His cultivation was utterly crushed, his cores slowed to an utter standstill, but the sheer bliss he felt seemed to fight it, pushing against the suppression and even making some headway.
+
+His head was stuffed full of cotton, and he could barely understand what was being said… Or not said, messaged. His AI was alerting him to several Highest Priority messages from… Luna?
+
+With no cultivation, even his thoughts felt agonizingly slow as he accepted it.
+
+“Wake up. You need to use your Talent.”
+
+His Talent? But that was automatic. The messages kept coming though.
+
+“You’re undergoing an Inspiration. I’m stalling it, you need to fight it, you need to use your Talent.”
+
+Panic fought through Matt’s clouded mind, even though he wasn’t sure why.
+
+A voice cut through the fog.
+
+You are about to Tier up twice in quick succession.
+
+Oh. OH!
+
+Matt’s panic finally fought through his brain. His maximum mana doubled with every Tier, but none of them knew what would happen if he didn’t double his maximum on a given Tier, whether he would be able to quadruple his mana, or would miss out on his Talent’s greatest power. He tried to mimic what Luna was doing, suppressing his own cultivation, but his Inspiration had already started, and there was no stopping it now.
+
+He needed to double his mana now, and the fastest way to do that, he sent a message in response, “House. Drop house.”
+
+He’d barely even sent it when Matt suddenly found himself inside Luna’s house where he dropped his own house immediately. Then before he could realize the transition they were next to his mana crystal.
+
+Even before his house had bonded to him as a growth item, the mana crystal it ran on was already perfectly matched to his own, and the millions of mana it currently held were more than enough to fill his pool a dozen times over.
+
+Liquid poured down his throat, even though his mouth was closed. As it was absorbed into his stomach and began to concentrate his mana, his spiritual sense finally was able to perceive Luna properly.
+
+His manager usually had a wild air about her pale skin and dark hair, but today, it looked like she had gone through a week long bender, with bloodshot eyes and sallow skin. If that wasn’t enough, right before his eyes, he watched as the blood vessels in her eyes burst, and her nose started leaking blood like an artery had been cut.
+
+Seeing her assistance was in no way easy or free, Matt tried to hurry along the process of the mana concentration potion, and redoubled his efforts to slow down his spirit’s expansion.
+
+Both were futile.
+
+His spirit seemed to be already on the final stages of expansion, and the potion was beyond his control. Luna seemed to notice the same thing, and her skin turned translucent as her presence redoubled.
+
+His inspiration seemed to halt for a moment, but that was when he saw Carol, Susanne’s manager, appear next to Luna before she almost instantly collapsed. Whatever she had done had earned Luna a moment of reprieve, and together, they resisted his spirit’s expansion for the few seconds needed for the mana potion to take effect and to attain his Tier 12 maximum mana again.
+
+At first, he almost didn’t believe it when Luna’s power vanished, and his expanded spirit seemed to find harmony with the realm around him. It was like he was a part of the realm itself for a moment, like he was connected to everything.
+
+That was when he understood.
+
+White holes were real, and he was one of them.
+
+During that moment of understanding, he felt everything snap into place. It was the heart of Minkalla. A place of impossible gifts, something which the Realm shaped itself around, the sort of thing which wars were fought over, a form of matter that could do the impossible and shaped the unthinkable.
+
+And it was him.
+
+He was it.
+
+Words didn’t do it justice, it was just himself and the Realm… and everything was at peace. He couldn’t even properly process what he was experiencing, what he was thinking… nothing mattered, only the feeling that everything was profoundly right.
+
+Then, the moment passed, and darkness claimed him once again.
+
+***
+
+Liz was dead on her feet, a very chaotic scene unfolding before her. Luna had vanished to places unknown along with Carol and Matt, leaving her, Susanne, and Aster unsteadily standing under the attention of countless high-Tier individuals, with only the resolute Tier 45 man standing next to them providing any form of solidarity.
+
+She started opening her mouth to ask what was going on, then, their surroundings were different.
+
+They were in the entryway to a hospital. A flicker of movement later, Matt was lying next to them on the floor.
+
+Luna was floating next to him, and she looked almost worse off than them, with blood pouring from her eyes, ears, nose, and mouth, and with semi-translucent skin dripping off her face. Liz couldn’t even properly process what she was seeing before they were elsewhere once again.
+
+They were in a private room with four beds. Aster was comically small for her bed, Susanne was just bewildered, and Matt was firmly unconscious in the bed next to hers. A healer in white robes was hooking him up to a series of tubes and wires connected to his bed and a rack of monitoring projections next to him, and Carol appeared in the middle of the four of them with drying streaks of blood running from her nose.
+
+“Luna is fine. Recover first, we’ll talk in a day or two. You can trust the healers.”
+
+With that, she vanished once more.
+
+The healer finished connecting Matt to his bed and moved over to Liz. “I’m going to be casting some spells on you. Would you mind removing your mask? This room is well-warded and I need accurate readings.”
+
+Liz hesitated for a moment, but with Carol already vouching for him, she reached up and started removing the amulet that shielded her spirit from inspection. It got caught in her hair and on her ears, and with only a single arm, she was struggling just to get it that far. Fortunately, the healer caught on and assisted her with gently pulling the chain over her.
+
+A couple of spells later, he nodded and scratched down some observations on his notepad.
+
+“You need rest. I’m going to cast a sleep spell on you, if you’re alright with that.”
+
+She gave a jerky nod, the healer waved his wand, and she knew no more.
+
+***
+
+Matt groaned as he woke up, a paradoxical combination of intense pain, clouded thoughts, and incredible clarity and strength. He struggled to sit up, prompting a healer to appear in their room and consult a bank of machines next to his bed. The rest of his team was in the room with him, but only Aster and Liz were awake. Susanne was sleeping peacefully, for all that her face looked quite ghoulish. Most of the dried blood was gone from her face and his, giving Matt a clear but very unpleasant view of just how much of her skull was visible.
+
+The last few seconds of consciousness he’d experienced came back to him, and a grin spread across his face.
+
+Liz spoke up, mirroring his thoughts. “So, you think it’s fair you just get to skip Tier 12?”
+
+Aster inspected his spirit through their bond and whined at him slightly in question, so Matt answered through shattered teeth, “You chnow ith. Bu’ I'm more confushed about what happened to Luna. She tyied to delay the inshpirathion, why is she in shuch bad shape?”
+
+The healer next to his bed provided an answer, tapping through a screen displaying Matt’s vitals.“Inspirations are a merging between someone and the realm itself. The person undergoing the inspiration can slow it down or delay it on their side, but outsiders need to fight against the realm in order to interfere, which can lead to straining or even broken Domains in extreme cases.”
+
+Matt was feeling guilty at hearing that and asked, “Is she all’right?”
+
+The healer shook his head. “I’m not allowed to speak about patients, but if you have any further questions about general medical knowledge, I will be happy to provide what I can.”
+
+Matt tried to compare the nosebleed he got when he pushed his Concept too far to the dismal state Luna pushed herself to before he lost consciousness, and shuddered as he realized how far his manager had pushed herself to ensure he didn’t ruin his future because of the inspiration. If she had simply stopped helping him when he had doubled his mana, that would have been more than anyone could have asked, but instead, she pushed herself beyond reason to give him time to take the mana concentration potion.
+
+He had never considered Luna a friend or even a particularly good person, but he had respected her ability to train them. Now he had to face the fact she put her money where her mouth was in her pursuit of ensuring he had the best foundation possible.
+
+All he could do was hope she’d be alright.
+
+Matt was too far over his healing cooldown for any proper healing spells to be applied to him, but his wounds had been cleaned while he was unconscious and bandaged with semi-mundane techniques. They couldn’t even give him proper prosthetics, thanks to just how fragile his condition was, and it would be a couple weeks before he was ready for them.
+
+The machines he was connected to were also acting as life support in addition to monitors, compensating for his half-functional heart. That was the one surgery he did have, as everything else needed to wait until magic would work on him again.
+
+His arm was placed in a basic sling, and he had been told in a rather serious tone that he would have problems if he tried to use his arm for anything at all. By the healer’s accounting, moving his fingers did count, and they would be able to tell.
+
+His leg and hip were measured for a prosthetic leg for once it could be installed, as his condition was too fragile for even the basic connection enchantments to actually work on him. In the meantime, Matt would be in an AI-controlled wheelchair, and even that hurt when he shifted his weight.
+
+Teeth weren’t exactly crucial to his physical health, but it was a relatively simple procedure to have his mouth scanned, and ceramic replacements flash-printed and glued into place. It would allow him to talk normally, though he wouldn’t be using the teeth for anything else for at least a month. He and the rest of his team were on an all-soup diet for the time being.
+
+Matt had been in and out of consciousness the entire time, and trying to catch up on reading his mail while bed bound and waiting for treatment. He happened to catch a few snippets of conversation from the nurses and occasional healers while being wheeled between hospital rooms. “Medically inadvisable” was perhaps the most polite description they had for what he had been doing in Minkalla, but it sounded like an old complaint rather than anything unique to him.
+
+In the end, the only thing that didn’t hurt anymore was his spirit. Apparently, it had been healed as a part of his Inspiration. All of the spiritual strain he accrued during the final battle and the subsequent spiritual expansion from the new innate slot was gone, though there were still occasional aches when he tried to use skills. The healers diagnosed it as phantom pain, and assured him that it would pass in time, but to limit skill usage as much as possible, and to utilize only his [AI]. Even that was to be sparingly for the next week, and only then could he slowly work back up to full magic use.
+
+After the installation of his false teeth, Matt wheeled into the group convalescence room, just as Aster whined at her dessert. Jello, it seemed, wasn’t an acceptable replacement for food, let alone a good snack.
+
+“Hey guys. I can speak now!”
+
+He grinned to show his new teeth and snorted at Liz’s snort of, “Finally.”
+
+“How’s everyone doing?” None of them looked very good. They were all in their own wheelchairs, just as covered in bandages and [Bandage]s as he was, but this was the first time in the past few days that they’d all been properly awake and in the same room.
+
+Liz smiled as Aster flicked her ears to express her happiness, still missing her tail.
+
+“We’re good.” Liz’s first words were sweet, and matched her honest and relieved smile at seeing him, but the smile quickly turned teasing as she continued. “Just, you know, complaining about how you skipped all of Tier 12.”
+
+Matt gave a one shoulder shrug as he gestured towards his missing leg and sling. “It cost me an arm and a leg, so I feel like I paid my dues for it.”
+
+Aster snorted. “If it worked that way, my missing tail would get me all the way to Tier 50. It's clearly more important than the limbs you lose twice a year.”
+
+Susanne snorted. “It's good to see you up and about. You seemed out of it there, after the end.”
+
+Being cagey about the hidden exit reward wasn’t quite necessary at this point, as Carol or Watcher Eru were protecting them, but after months in Minkalla it was a hard habit to unlearn. Neither of them alone had the power to fully stop prying eyes from outside their moon, but it was far easier to detect such an intrusion and stop anyone from speaking further, along with wiping the sound from the air in the room. It was probably just Carol though, as Watcher Eru had likely moved on to other, more important assignments. Matt had to think that Carol was wondering what Susanne was talking about, as they had yet to talk about what had happened in their Minkalla run.
+
+Aster yipped her agreement. “Yeah, tell us about it. What is an inspiration like?”
+
+It wasn’t exactly a secret that he’d undergone an inspiration, it had happened when literally every eye in the system had been on him, after all. “It was weird. At first, I didn’t even realize what was going on. It just felt comfortable. Like I was floating in a warm bath before my spirit started to leave my body. It—” Matt paused as he considered how to explain it. “Saying I became one with the realm is accurate, but it doesn't explain it. It was a really nice feeling without it being addicting or anything. The best way I can explain it is that for a moment there, the edges of where I ended and the realm began seemed to blur, which is when the Tier up happened. My spirit seemed to reach Tier 13 without the essence it would normally take to advance. After that happened, all the essence rushed in and started to make my essence core match by Tier.”
+
+Liz tisked. “I wish it could always be that easy. Sounds really nice.”
+
+Matt thought about Luna’s sunken visage and shook his head. “Without Luna’s help there, I would have, you know.”
+
+He wasn’t about to say anything about doubling his mana with each Tier here, but the others understood his point without him needing to say it directly.
+
+They all stayed silent for a long moment before Matt asked, “Any news?”
+
+Susanne nodded. “Word from Carol, which boiled down to sit tight and wait for another few days as we- and Luna- heal.”
+
+Their Manager hadn’t had her Domain break, but it had been seriously strained. “I still can’t believe she was actually hurt, let alone so badly,” Matt mused, to general agreement from the others.
+
+The woman had always seemed like an implacable mountain. Untouchable and unbreakable.
+
+With orders to stay inside the hospital, the four of them relaxed.
+
+Even as Tier 12 to 13s, they were still exhausted after nearly a full year of constant fighting, in addition to the insane pace they’d set beforehand to prepare for it, and the rest was absolute bliss.
+
+Matt wasn’t sure about the others, but he spent at least fourteen hours a day asleep for the first week, waking up only long enough to wheel to the bathroom and then back to his bed. Fortunately, his Concept was in good enough shape, thanks to the Inspiration, that he could handle moving between his bed, wheelchair, and bed without assistance.
+
+The only notable news they got was that Bradley and Jill, the lava mage and his archer wife they met inside, made it out of Minkalla with both the floor and exit reward at Tier 12. The now Tier 13s were more than happy with their progress inside the Forge, and invited the four of them to a dinner once everyone was out of the hospital, though their conflicting schedules threatened to force the date back some. All four of them easily agreed, but did let the pair know that they were so badly injured, they probably wouldn't be released for a while. At worse they would see them in the Empire proper at some point.
+
+The days seemed to pass quickly as they recovered, and by the start of the second week, Matt and the others were conscious enough to start getting news from the moon base around them.
+
+The news reports had no right to be as interesting as they did, but they mainly listened to the interviews with the Tier 14s who hadn’t been able to create their own Concept, and needed to rely on Minkalla for the process.
+
+Some of the stories were long, others short, but it gave Matt a new appreciation about how easily he had created his own Concept. Even without Aunt Helen pointing the three of them to Liz’s brother's house to experience the Ascension, he had already had his phrase and a decent idea about his image. In theory, he could have made a Concept at any point, so hearing about the other side of the coin, he gained some insight on what many people had to go through.
+
+How it felt to spend centuries searching for how you fit into the realm as a whole without the certainty Matt had felt since he was fifteen.
+
+Part of it was the pure emotion that the people in question had during their interviews, but Matt and the others found it entrancing, and had the station on nearly constantly in the room.
+
+After nearly two weeks of their recovery, Matt was growing irritated after being unable to get any of the hospital staff or Carol to tell him how Luna was doing, beyond just ‘recovering’. He was about to start demanding to see Carol in person to get some answers in a way she couldn’t just ignore, when a black cat walked in through the door opened by one of the nurses.
+
+Even knowing their manager was a cat, it took Matt’s brain a long moment to put the human manager who haunted a good number of his dreams to the normal sized black housecat. The only similarities were cat Luna’s fur was the same ink-black shade as human Luna’s hair, and the identical purple eyes.
+
+As the cat jumped to the wheeled table the healers used for their tools, she spoke. “While this was delayed, it’s time we debriefed the four of you.”
+
+Matt was about to ask how she was doing, but Aster was faster with her AI to send the message.
+
+“How can you speak human language in your animal form? I want to be able to do that!”
+
+Cat Luna just glared at Aster, or rather cat Luna looked at Aster, but with how cats always looked like they were glaring, he couldn’t read her expression to be sure which she was doing.
+
+After a deep sigh that didn't fit her form at all, Luna answered, “There are a few different methods, but I’m vibrating the air manually with [Air Manipulation]. Yes, it's quite convenient, but not the topic I wish to speak on at any length, as you flatly can't do it yet. Once you have a few centuries to spare, we can revisit the subject.”
+
+Matt took the opportunity to interject. “Are you ok? You looked, um, rough.”
+
+Luna turned her glare onto him, but getting the full brunt of it, Matt suspected she was just tired. Her eyes, while almost luminescent, had a slight sheen to them, like cataracts were starting to form.
+
+“If I said I was fine, I’d be lying, but I’ll live. My human body is little more than a pile of flesh, and holding it together is more effort than it's worth, so you get to deal with my beast side, which is smaller and easier to manage.”
+
+As she looked like she was going to continue, Matt spoke first. “Thank you, Luna. Just thank you. I would have been screwed if you didn’t wake me up. Beyond that, thank you for giving me enough time to get the mana concentration potion down. If I can repay you somehow in the future I will.”
+
+Luna just blinked at him before yawning. He noticed the teeth seemed sharp enough to cut even the light landing on them, but it didn’t seem hostile at all.
+
+“Matt, the only thing I desire from any of my students is their best, and I accept nothing less from them or myself. I am doing what I see as my job, nothing more and nothing less. And besides, it's really not that bad. I didn’t even crack my Domain. Just exhausted myself.”
+
+Matt wasn’t sure her body falling apart could be described as ‘not that bad’ by anyone but Luna, but he felt he understood.
+
+Standing up and stretching, she jumped down onto the floor before padding over to a table, where she picked up a cup with her mouth and jumped over to the sink, where she put it down and filled it.
+
+Matt didn’t miss the fact she didn’t use her Domain to just lift or manipulate the object, just her mouth and paws, and knew how bad that meant things were.
+
+Once she had taken a drink, she continued. “Now that I’m mobile, we’ll be departing soon. We need to get out of this system. Somewhere the entire Realm won’t be watching.”
+
+Luna narrowed her eyes as she glared at all of them, and this time, Matt knew it was a glare without a doubt.
+
+“You have questions to answer.”

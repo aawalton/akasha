@@ -1,0 +1,407 @@
+---
+id: 301f4ebb-d4f3-55b1-be88-86d28a7a18de
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 353"
+slug: 0051-the-path-of-ascension-chapter-353
+partOf: the-path-of-ascension
+position: 51
+ownLength: 5592
+unit: words
+ownProgress: 5592
+publishedAt: 2024-09-27
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1823506/the-path-of-ascension-chapter-353"
+royalRoadId: "1823506"
+markedReadAt: "2026-06-29T19:19:18.900Z"
+---
+
+Chapter 353
+
+Fabian Lacor didn’t like being dressed down like a child by a foreign noble, but he put on his best contrite expression and begged for forgiveness, which seemed to work when combined with his Talent to slink into the metaphorical shadows.
+
+The lordling left after he promised to get the magical rods distributed to the hospitals by the end of the day.
+
+Fabian noted two things.
+
+The first was just how quick the lordling was to notice the issue, but only when he was on the world.
+
+The second was that despite the warning there would be a second check up to ensure he did as he promised, there was no check up.
+
+Fabian could work with this. Some plans would need shifting and adjusting, but he could most certainly work with this.
+
+***
+
+Tara Felgrave, President of the Vimar Republic, stared off into the distance, seeing beyond her office’s walls and to her country beyond. She had been doing a lot of that recently, but she still wasn’t sure what to do, and the proposal on her desk on how the Empire intended to switch her people’s currency to the ‘credit’ had only derailed her thoughts further.
+
+Part of her hadn’t really expected to survive this long. She had expected to be killed or locked away, which at her age would have amounted to the same thing, to make room for the new order that was seemingly more and more inevitable as time passed. Except instead, they sent her a message through Councilor Samuel that they would help fund her efforts.
+
+And while her eyes may be going, Tara could still see that Councilor Samuel seemed terrified of their new lords. Many of her fellow country leaders dismissed that as the man simply being fearful, but Tara had known Samuel before he was pulled ‘out of the veil’ as he called it. He was never a fearful man, but he seemed terrified of offending these new leaders, and she trusted his instincts.
+
+She had asked him why he was so afraid of them but he hadn’t explained much, and his words still echoed in her mind as she twisted them around and looked for the deeper meanings.
+
+“They didn’t mention it, and that can’t be an accident, so I won’t say too much. But the Republic Immortal told me they were akin to gods of combat, the likes of which are rarely seen even among millions of planets, which is why they were being given thousands of worlds despite the Empire officially losing the war.”
+
+When she pressed he had clammed up, but Tara gleaned a lot from that short statement.
+
+None of it good.
+
+Which is why she was concerned about accepting Duke Moores’ faustian bargain.
+
+Tara paused as she stumbled over the plural address of the dukes, but waved it off as unimportant. Maybe it made more sense in their language but in her’s it conjugated weirdly.
+
+That was for her democratically elected successor to deal with. They would be one of the last truly representative leaders of the Vimar Republic chosen by their people, and that thought broke Tara’s heart.
+
+The offer of ten billion credits a decade had been… Large, but without context. Tara had had no frame of reference to equate it to. Depending on a credit’s value relative to her own nation's Kenthals, that could be a large amount of money or it could be a weekly paycheck to an office worker.
+
+With the arrival of the administrators, she finally had a frame of reference.
+
+She was an attractive young woman who could have fit into any Vimar Republic college campus without anyone batting an eye. Al’Ta was her name if Tara was pronouncing it correctly. She had used one of the tablet things to chat with Tara, and answered all of her questions while explaining the document that had been sent out.
+
+Her appearance made it hard to imagine this woman as an immortal who was over 8000 years old, and had been doing administrative work with her company for just over two thousand years. Tara had asked about the seemingly young woman's experience, worried her country was getting someone inexperienced assigned to them, just to find out the woman had been doing her job longer than the Vimar Republic had existed several times over.
+
+How were they supposed to resist an Empire that had thousand year old immortals working as an admin?
+
+What did that say about the rest of the Empire?
+
+Nothing good for her people, Tara was sure of that.
+
+Tara had tried to learn more about the general situation and Al’Ta had been willing to share a little.
+
+Through their chat, Tara learned a lot of incidentals, but when she tried to ask about their new Dukes, the conversation ended almost immediately. It was all too telling for Tara and reminded her of Samuel’s reaction.
+
+The main positive thing Tara had learned was the credit was currently valued at about one for every two and a quarter kenthals. That number could fluctuate as her people's purchasing power increased, but so long as she or her successor didn’t try to hyper inflate their currency, her people would be able to buy credits at a one for one ratio, which would double her people's wealth.
+
+Tara had been worried about hyperinflation, but Al’Ta had explained that was functionally impossible with how the Empire controlled the credit economy. Learning this Empire had something like forty different economies depending on power was more than a little shocking, and didn’t make a lot of sense, but it was also irrelevant to Tara.
+
+What was of concern was that things like the cost of food and housing were strictly regulated by the Empire, and she was expected to start getting her country into a ‘proper state’ as soon as possible to smooth over the transition.
+
+In theory, it seemed great that this Empire mandated everyone had a place to sleep and that food was to be made available at low reasonable prices, but Tara couldn’t help worrying.
+
+Why would a monarchy care about such things?
+
+The Moores had said the immortals let mortals live their own lives, but if that was true, and the striking down rule was so important, why couldn’t they just leave them alone?
+
+Tara knew that was an impossibility, which is why she was trying to preserve what she could.
+
+The issue was that such efforts would be expensive. A billion credits a year, roughly 2.25 billion kenthals, was a lot of money, but not nearly enough.
+
+Tara couldn’t help but worry that the idea behind the Moore’s action was to trap her by giving her just enough to feel like they weren’t hindering her, but not enough to make real strides in her efforts.
+
+If that was true, then accepting the deal truly would doom her people.
+
+Tara’s mind went to her plans. The plan she had refined after reading the relevant section of the document the Moores had provided.
+
+Tying in with museums and pivoting them into general cultural keepsakes was a good idea, but Tara feared it wasn’t enough.
+
+Vimar and Soerilia as a whole needed to remember their roots, teach their kids their ancestral language and traditions, because Al’Ta made it very clear that Empire standard would be the only official language teachable in schools after integration or to be used for official business.
+
+If language and culture was relegated just to museums, it would be far away and be lost even faster.
+
+Part of Tara scoffed at the idea.
+
+Was she whistling into the wind?
+
+Were her actions pointless?
+
+She didn’t think so, but she was old. Having rejected the ‘awakening’ and magical healing devices, she knew she had at best another decade in her before she returned to Soerilia itself. Why should she spend her final years struggling to resist the inevitable?
+
+It all felt so hopeless and nihilistic.
+
+What was the point when an administrator working for a company was two thousand years old?
+
+Were the Moores right in that this bland faceless Empire culture was the only thing that could endure the time and size that these immortals seemed to operate on?
+
+Tara wished she could confidently say they were wrong, but the more she learned, the harder it was.
+
+That didn’t mean she was about to give up.
+
+Even if it was pointless and the younger generations spurned her efforts, she would do it anyway.
+
+If she and people like her didn’t try, the younger generations wouldn’t have the option to reject their past, as the past would be lost to time, impossible to claw back.
+
+That thought was what kept Tara going in the face of the seemingly inevitable.
+
+Immortals and immortality changed things.
+
+Tara hated the very idea, it seemed anamatha to what was right and proper, the natural order. But it seemed that immortality was what was natural after people reached a certain level of power.
+
+But if immortality was unchanging, maybe she could use that?
+
+Not for herself. She hated the very idea, but maybe she could gather a group of youngsters who would be eager for such power and longevity and teach them the ways of Vimar and her many cultures?
+
+If some of them could reach immortality, then there would be permanent first generation Vimarians who were free from the inevitable cultural drift. They could be shepherds for Soerilia and her descendants.
+
+Already today there were lost cultures which had been destroyed, absorbed, or forgotten only to be remembered in museums.
+
+That was exactly what Tara wanted to avoid.
+
+The more she thought about it, the more that seemed like a good idea.
+
+There had been something in the packet about being able to go off world to go to a place where her people could advance further and reach immortality. The Moores had said they would subsidize a number of people to do so.
+
+Tara’s mind raced as she called Al’Ta, who immediately answered, which made Tara wonder just how many administrators they had brought? Were there thousands of immortals waiting around for someone to call them?
+
+Immortality just seemed like endless work.
+
+Either way, Tara was happy to get a quick answer to her question.
+
+Even without immortality one could truly become long lived, reaching over a thousand years old, and the Duke’s were willing to sponsor people who wanted to advance.
+
+Al’Ta did mention that cold weapons were preferable to hot ones. Swords and bows over guns.
+
+That would take some thought.
+
+Al’Ta said there were schools on the neighboring world which could teach such skills, and the Moores knew the owners. They were offering slots for those who wanted to learn. While Tara thought it would be good to send people to take advantage of those skills, she didn’t think it was a good idea to push younger people off world.
+
+If she wanted to preserve her culture, these people would need to be in the culture, living it, or they were no better than wall carvings to be looked at by her current people. A curiosity for children to marvel at before moving onto the next wonder.
+
+Al’Ta’s comment about guns not scaling to the power levels needed gave her pause. Was that just a ploy to get them into the Empire’s mindset?
+
+It didn’t seem like it, even Samuel mentioned that the immortal he interacted with had a sword and metal armor in his office, but Tara couldn't help but doubt.
+
+Where was she supposed to get melee specialists on Soerilia after guns had taken over warfare so completely?
+
+The answer was surprisingly obvious once she let her mind wander.
+
+Grand Secretary Gerard, of the Palkar Union.
+
+He had hated this as much as she had, and better yet, the Palkar Union had a sect of ascetic monks who continued to train in melee weapons. She didn’t know too much about them, but their reputation was that of fierce combatants of a hundred weapons. And should one be foolish enough to enter melee range with them, they were in for a world of hurt. Not that useful on a modern battlefield, but now…
+
+If their reputation rang true, Tara desperately needed their skills.
+
+However, she knew she couldn’t let the Palkar Union and their religious beliefs take over her idea. Their religion, like every other, should be preserved. But if given full control, they would probably only preserve their own culture and heritage.
+
+No, this needed to be a planet wide effort with their support. Not the other way around.
+
+The more she thought about it, the better her idea sounded, and Tara called out to her secretary to set up a meeting with Gerard.
+
+Part of her longed for that portal thing. That, if nothing else, would be nice to have access to. As it was now, she’d be spending ten hours on a plane, but she could manage the sacrifice.
+
+Anything for Vimar and its people.
+
+No. That was the wrong way of thinking now. It wasn’t about just Vimar now, but about everyone else who shared this sky.
+
+Anything for Soerilia and its people.
+
+***
+
+Captain Yosef Yilik hadn’t quite believed it when he and his team were pulled out of a six month long mission to infiltrate the Balsar dictatorship, topple the military controlled government by killing the grand general, and secure The Joined Provinces of Turistia’s southern border.
+
+Thousands of hours of work went down the drain, along with millions of taxpayers’ hard earned money.
+
+Then, they were asked if they volunteered to gain magic and fight monsters. It seemed like bullshit, but he and his men, Raven Team 4, were told magic existed by President Westley Bakerfield himself.
+
+It all seemed too fantastical, but they had proof.
+
+President Westley had with him a bar of copper and steel that he gleefully touched to Sergeant Martin. Martin had nearly lost an eye when they had taken over a military outpost just days before they were recalled, and the wound was still red and gnarly to look at, but they had all suffered similar injuries over the years. It was nothing new.
+
+That was what it meant to be a Raven.
+
+With a small pulse of light, the wound on Martin's face rapidly healed.
+
+It was like magic.
+
+Yosef caught himself, it wasn’t like magic, it was magic.
+
+“By the Founder’s testicles.” Yosef breathed out as he stood and moved to Martin's side along with the rest of the team.
+
+They made way for him and he gripped Martin's head in his hands and twisted the man's face up, ignoring his pleas.
+
+“Hold still Martin. For fuck’s sake. We are trying to see your ugly mug.”
+
+“Yeah, me too Captain Y.”
+
+Looking to President Westley, Yosef asked, “The stitches are still there, and there’s a small scar? Is that normal?”
+
+The President pulled out a small tablet and started poking at it before handing it to Yosef. “Should be. This is just a magical tool that can heal, where a real healer can do so better. I watched as Marcus Daltor’s finger was regrown, so I know it's possible.”
+
+Yosef took that in while holding a hand out to the empty air. “Knife.”
+
+His single word had a dozen blades removed from various hidden locations and he picked the one that had the best shape for what he was about to do.
+
+“Hold still Martin, or I might accidentally stab your eye, and then we can see just how good the healing magic is.”
+
+Martin bitched as Yosef cut and removed the stitches, but he never even flinched.
+
+Yosef then turned his attention to the magic wand along with everyone else, including President Westley. “Can we use it again?”
+
+“No, this one is drained. While it can refill on its own, that will take a few days, and I don’t have enough mana to charge it myself.”
+
+Thankfully, President Westley had a case full of the rods. “I have a dozen for the Ravens to share.” At the protests, the President's eyes hardened and the men shut their mouths. “These are mostly getting passed around to hospitals. A few countries were… Reprimanded for trying to hoard them for the military. Out of our initial shipment, this was considered an acceptable number for the Ravens and your upcoming mission.”
+
+All of the Ravens got serious as President Westley explained the riches available on the other continent, and how the Communists of the Greater South Plains had failed to land a beachhead and lost an entire unit of people in the attempt.
+
+Yosef would scoff at the average GSP soldier, but the Barebacks, the special force equivalent of the Ravens, were just as good as them. And when it came to amphibious landings, better. Maybe. The Ravens specialized in airborne entries but they were no slouches in the water. If they had failed, things could not be simple or easy.
+
+Here there be monsters was once just a saying, but it seemed all too true now.
+
+President Westley explained that because of the JPT’s distance to the foreign continent, they needed to get in there early and secure valuables fast before safely extracting. If they could set up a secure landing zone somewhere, all the better, but their main job was to use some of the new magic tools to find and secure valuables while gathering information about where the greatest threats were.
+
+The Ravens were never given easy jobs, but this was one for the record wall.
+
+Letting his gaze travel from the box of metal rods which would be their lifelines in this hostile land, Yosef pulled one out.
+
+“Kepler, get over here.”
+
+Corporal Kepler nearly teleported over to Yosef’s side, vibrating with excitement. The man had pulled his back a few years ago, and it was only daily stretching that allowed him to move, but they had all seen when Kepler hadn’t been able to do his stretches and turned into a eighty year old man.
+
+Poking him with the rod, Yosef felt a small click and then a pulse of light washed over Kepler.
+
+Kepler dropped like a rock, and Yosef immediately moved to catch his screaming Raven as he clutched at his back, even as his legs spasmed widely.
+
+Just as Yosef was starting to prepare to knock him unconscious with a blood choke, Kepler stopped moving and screaming as if a switch was thrown.
+
+Instead, he started laughing. “Oh, by the Founders! Ha! I love this magic shit! Sign me the fuck up!”
+
+Twisting out of Yosef’s grip, Kepler popped to his feet and without bending his legs put his palms on the ground.
+
+“It doesn't hurt!”
+
+Yosef contemplated punching Kepler in the mouth, but he refrained with great effort. If President Westley wasn’t still there, he might have. And he still might later.
+
+“Get up idiot.” Turning to President Westley, Yosef continued, “You said we could get this magic ourselves sir?”
+
+“This way. They set up a temporary awakening center. From the instructions, it seems as simple as pushing a button and so far it has been exactly that simple. Really interest—”
+
+They traveled to an aircraft hangar, and when he saw what was inside, Yosef whistled.
+
+The contraption took up about eighty percent of the available space and nearly reached the struts that held up the ceiling. How was it in any way shape or form, temporary? It looked more solid than the building it was in!
+
+President Westley must have read his face as he gestured. “They said the permanently installed ones are four times the size, but more efficient. Still, this should work for our needs.”
+
+There were a dozen technicians crawling over the device, and Yosef studied them.
+
+“Like ants crawling around.”
+
+He was about to turn around to glare at Boisie, but President Westley nodded. “Less effective than ants as well. We were told not to break anything, but we can’t even open the device. It's basically a black box. Shame, as I’m sure we could learn a ton from it. But at least it works. Take a seat, gentleman.”
+
+There were twelve seats. For all their bravado, Yosef could feel that most of his men were nervous.
+
+“NCO’s with me.” Yosef ordered as he stepped forward and took the closest seat. He was just as nervous, but he didn’t let it show. And if they died in whatever this was, his lieutenants could keep everyone else in line.
+
+Why did magic need such a large device to be given?
+
+The screen was next to his chair, and he read it as it started telling him about the process.
+
+It was a lot of magic mumbo jumbo, but he tried to follow it. One interesting bit was that all the information about his ‘Talent’ was confidential, and no one could read the screen except him. Looking around to test it, Yosef saw that even though he could see the other screens, he couldn’t read anything on them. They simply looked blank.
+
+After a few minutes of explanation that stated in a dozen ways that he really shouldn’t share about his Talent unless he was very sure he wanted the information getting out, he felt a pulse of something.
+
+Yosef would have likened it to a shot of coffee, but that was a lie. It felt like warm water was spreading through his body. It was like pissing oneself in a dream and deeply uncomfortable. He wanted to twist and squirm even as he couldn't help but look at the crotch of his pants as he made sure he hadn’t just pissed himself in front of everyone.
+
+Thankfully, the feeling passed almost immediately, and the screen next to him told him to wait. As he sat waiting he couldn't help but feel…something. The faint breeze sharpened on his skin, his blood pounded in his veins, and he felt the faint sweat on his brow, and the way in which it beaded and would drip down his face if he let it be. If he really pushed himself, it almost seemed like he could feel the touch of the breeze on his chair.
+
+What… what was happening?
+
+Yosef tried to figure out what was going on but it was like he had a new limb and it was unwieldy at best and uncooperative at worst. A few minutes later the readout pinged and provided an explanation.
+
+Tier 1 Talent: You know how fluids near you will act.
+
+Primary effect: Your spiritual sense directly enables you to sense fluids.
+
+Secondary effect: Innate Understanding of how fluids you sense will act.
+
+As soon as he read it, things clicked. Now that he knew what he was looking at, it all just made sense, in more ways than one. He wasn’t entirely sure what ‘spiritual perception’ was, but he could tell that it was letting him feel the air itself within a few feet of him. Beyond that, he just instinctively knew that the slight motion of air within the room would break against the chair, and the ways in which that air would deviate, just like he knew his eyes were open.
+
+It was like he had a sixth sense of an air tunnel.
+
+But it wasn’t just air. As he grabbed his water bottle and took a drink to wet his newly-dry mouth, he knew the exact way the half-full bottle would slosh in on itself on its way to his mouth, then the way in which it would splash around once inside his mouth, how it would travel down to his stomach.
+
+Martin stood up and walked about the room, passing inside Yosef’s newest sense, and as he did so, Yosef got a sense for the water inside the man’s bottle. With some focus, he tried to focus on the man himself.
+
+The feeling was weaker, but noticeably there. Trying to sense the fluids inside of Martin’s body felt like he was trying to listen to what was happening in a neighboring room that also happened to be sound proof. When he tried to do the same to the men who hadn’t just been awakened, he still met resistance, but far less. It was like living in a shitty apartment again. You might be in your own space, but you heard every bump and scrape in the neighboring unit.
+
+After hitting accept that he really understood not to share what his Talent was, Yosef stood up and looked to President Westley, who held up a hand. “Officially, I can’t ask, and our new overlords have made it clear we can’t institute it as a rule. But if any of you would like to share, we are still trying to understand a lot about these Talents. We would be grateful.”
+
+Yosef had to think about it for a moment, and while the military knew everything about him down to how often he shit, this felt different. Not because he didn’t trust them, but because this was an advantage unique to himself.
+
+Also the fact that the machine which had just given him said magic powers had made him type out that he shouldn't tell people his Talent. Twice.
+
+If the people who were able to give out such powers felt they were better kept to oneself he was inclined to believe them.
+
+Even now, he knew one of the techs working on the machine behind him was walking behind him thanks to how the air shifted around them. He didn’t need to see or hear them, but he knew.
+
+If he told anyone, he’d lose that advantage.
+
+He also knew his decision set the tone for the rest of his men, and to that end, he looked directly into the President’s eyes. “For operational security, I feel it's best we keep our Talents to ourselves.”
+
+One of the hanger-ons one made to say something, but President Westley stopped them. “Don’t. We asked and they answered, which is all we can do. I won’t risk falling into the bad graces of our new overlords for this. They made it clear they take this seriously, and when I asked about it, the administrator said even some married couples don’t share the full details of their Talents. Let us assume they have good reasons for this choice and not rock the boat so to speak.”
+
+As the next set of men went into the vacated chairs, Yosef tried to project an air of confidence for them, even as his mind raced to their upcoming mission.
+
+Only one man decided to share his Talent, Lance Corporal Muz, because of how obvious it was.
+
+A small jump sent him nearly thirty feet across the room, and when he made a vertical jump, he easily caught the strut forty feet in the air.
+
+Yosef was half sure Muz was going to snap his ankles when he dropped, but he landed like he took a single step which implied the power was more than a simple increase to jump height.
+
+That was… useful.
+
+The next week was a blur as they were kitted up with new magic stuff in addition to their old gear, before they entered a rift where they got to experience fighting monsters.
+
+They moved through it easily, but all of them noticed how more power flooded into them.
+
+Yosef tried to direct most of the power to his physical core, but between his sloppy control and the warnings about going too far in one direction, he went with something like a sixty forty split instead of a seventy thirty.
+
+His new Talent proved quite useful, and as he trained with it he found that the sense it granted wasn’t only limited to sensing fluids. Other magical things had a certain kind of presence to them, and as he practiced with one, they both improved. But the main thing was that it was now impossible to sneak up on him. Nothing could approach him from behind without moving air, and no matter how quiet they were, he knew when it was approaching.
+
+He understood that he might not be able to react to something like a bullet before it hit him but the increase in senses gave him a boost in confidence to making it out of even the worst disaster alive. Of course, with magic, there probably were things that could approach him without moving air and he tried not to forget that.
+
+It was a new sense, but one that felt like a limb that he had always had, though it would be incredibly easy to turn it into a crutch.
+
+He warned his men about that, but he could only hope they would heed his warnings.
+
+And how easy it would be to fall into that habit. His new sense changed everything. As they were parachuting down to a small rocky high point along the edge of a mountain range, Yosef’s body subconsciously adjusted his pull cords to better catch the winds and dodge the turbulence. It took some concentration to sense things at any particular range, but once he had sensed it, it was second nature to account for it.
+
+The moment they landed, Yosef cut himself free from his chute and raised his rifle as he scanned their surroundings. They had been briefed about how much stronger and more dangerous these monsters would be.
+
+Seven seconds.
+
+It only took seven seconds for contact to be made.
+
+A creature like an armadillo and a porcupine had a baby galoped at them from one of the cracks in the nearby mountain.
+
+The monster crossed the few hundred feet between them in record time, racing down the mountainside with a shower of small rocks tumbling down in its wake. With no time to waste, Yosef called for open fire.
+
+The cracks of rifles was like popcorn and the smell of cordite was heavy in the air, but the creature hardly seemed to be bothered by the armor piercing rounds that should have shredded it.
+
+Given the sprays of dust and stone in the area around the creature, his team had either drastically decreased in accuracy, or the creature’s armor was deflecting the bullets like armor plating.
+
+Calling for his men to shift left as a unit, they did so and spread out.
+
+Hundreds of rounds traveled down range, and while most did nothing, some were effective.
+
+Blood started to flow as some of the heavy rounds found their marks, and the monster began to stumble.
+
+Taking a moment, Yosef gathered himself and concentrated on his weapon and the air around them.
+
+Even without his Talent directly making the assessment entirely trivial, he could feel the cross wind and use that in conjunction with twenty years of practice to account for the deflection, and dialed in a shot that would hit the monster head-on.
+
+Yosef kept both eyes open as he looked down his scope and put the chevron on the creature's eye.
+
+He caressed the trigger and grinned as the creature reeled back, head shaking. Its angry roar turned into a pained cry.
+
+With the creature turning its side to them, their shots finally started penetrating the hide and blood started to flow. But even when Yosef’s experience expected the creature to run, it turned back at them and started its lumbering run once again.
+
+It died less than a hundred feet from them, and Yosef was about to call for a perimeter to be set when he felt a rush of essence stronger than he had felt from the lizard rift they delved earlier spread to him and his men. Apparently its toughness came from it being some kind of extra magical creature, and that meant its essence was that much stronger.
+
+It was thick and heavy like syrup, and the feeling of increased power that flooded into his limbs as he sent the essence to his physical core was incredibly additive.
+
+Yosef wanted more.
+
+He wanted this every day when he woke up, and another before he went to bed. He was starting to understand how people drove themselves to kill monsters to reach immortality.
+
+It felt good.
+
+Really good.
+
+It was like… the tide rising and carrying him along with it. There was a momentum in the surge of power that almost made sense. Part of him wanted to explore that feeling more, delve into it, languish in that feeling like soaking in a hot tub.
+
+He instinctively felt there was something there. Something he wanted to reach out and connect to. However the larger part of him knew how dangerous their current location was, which was only reinforced when one of his men called out.
+
+“Contact left. Two miles.”
+
+Yosef turned and started barking orders. “Alpha, eyes on contact. Bravo, watch our six. Charlie, start scanning for high magic concentrations. I want to know what is around us before this next monster arrives.”
+
+That feeling of understanding was just under the surface, begging for a few hours, a comfortable chair, and a good whisky, but Yosef pushed it down. He’d deal with that later. There was a mission to handle first and this place was more dangerous than the briefings had stated and if he didn’t want to go out like the Barebacks he needed to be locked in and not distracted.
+
+And another monster meant more essence which meant more power and Yosef was more than happy to grow stronger if it felt this good.

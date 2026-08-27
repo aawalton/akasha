@@ -1,0 +1,233 @@
+---
+id: c7ba62e2-dcef-5d24-95a3-96e8c84fca11
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6 - Cow on the Road"
+slug: 0006-chapter-6-cow-on-the-road
+partOf: sherly-the-most-virtuous-holy-cow
+position: 6
+ownLength: 2813
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2525709/chapter-6-cow-on-the-road"
+royalRoadId: "2525709"
+---
+
+Chapter 6 - Cow on the Road
+
+”Alright, Sherly, let’s try and align your knowledge with ours.”
+
+Sherly turned to look at Ishuin, who was walking beside her. The humongous crab mount that the elf had been riding on when they had first met was now carrying a bunch of survivors.
+
+The caravan, The Cancer’s Claw, moved at a walking pace. They were on one side of a wide dirt road, clear of any bushes or trees that might hide ambushers, like monster packs or bandits. Not that Sherly knew if such a thing was common in those parts, or the entirety of Sinzodia, for that matter.
+
+Still, she kept her limited eyes peeled and her exceptional ears constantly scanning. Even the clouds above could be hiding some sort of danger, for all she knew.
+
+“Sherly?” Ishuin prompted. “You’re being a little paranoid, with your ears constantly moving about like that.”
+
+“The potion’s ran out,” Sherly explained. “It’ll take me ages again to regenerate any of my wounds. I’d rather not get taken by surprise.”
+
+“We have scouts and watchers constantly running around the caravan, Sherly. If there’s an ambush, they’ll find it way before we even get there. And technically, this part of the region should be safe from bandits or monsters.”
+
+“But not demons?”
+
+“They’re a bit more complex than the more natural and organic things. If I were to tell you more, it would be after we’ve determined how much of our worlds align.”
+
+Sherly forced herself to relax. “Fine, fine. What do I need to do for that knowledge alignment thing?”
+
+“You seem to know a great deal about The Great Zodiacs from your world, do you mind talking about them?”
+
+“I’m not an expert on them,” Sherly started.
+
+“Wouldn’t hurt to know, just to see what’s different.”
+
+“You might not like it either.” Sherly looked around. She could see a number of people were surrounding her. Not in a suffocating way, but the soldiers had placed themselves subtly in order to make sure she didn’t have a way to escape. “I’ve had my fair share of religious people getting angry at me for not believing in their god.”
+
+“I see,” Ishuin rubbed her chin. “I suppose they’re not gods in your world, then?”
+
+That invoked a reaction from Sherly, who turned towards the elf and found her smiling. Now that she looked more closely, Ishuin didn’t have much height on her. But what she lacked in that aspect, she made up for with intuition.
+
+“What are they, then?” the elf asked.
+
+“They’re a medium of fortunetelling. Depending on how into it you are, you either read about them for amusement, to see if the date of your birth has anything to do with your personality, to superstitiously predict what would happen to you throughout the day, or even to check if the person you’re interested in is compatible with you.
+
+“Of course, they’re all just a bunch of well-researched, statistically based, pseudo-predictions and claims. They don’t tell you who you are, what you’re going to be, what’s going to happen to you, or if you should buy your next burger with large bills or pocket change.”
+
+Sherly checked if Ishuin was still listening to her rant. The elf was in deep thought, noticing a second too late that she had stopped talking.
+
+Around them, a bunch of the caravan people were frowning. Sherly, with Ishuin’s blessing, had retained her ability to speak. With such a close-knit group of people, they had obviously overheard what she was saying.
+
+“It’s all about the zodiacs in my world,” Sherly clarified. “They have nothing to do with The Great Zodiacs of this world.”
+
+“They just might,” Ishuin interjected. “The Great Zodiacs of Sinzodia do not determine a person’s personality, or their future, or whatever else you said, Sherly. But they do favor people who are particularly close to their ideals and virtues. For example, you do have a Cancer in your Zodiacs, correct?”
+
+“Cancer the Crab,” Sherly replied. “In our world, they’re defined as protective people, almost on the verge of overprotectiveness. They’re sensitive to things and have good empathy towards others.
+
+“Of course, those are just general traits, based around statistics and overgeneralization. There can be people born under the Cancer Zodiac Sign that are cold or can’t even defend themselves.”
+
+“Protection, understanding, and intuition,” Ishuin began. “Those are our Cancer’s virtues. Not to blow my own horn, but those are the qualities I also excel in. Suffice to say that I’ve earned a great deal of Cancer’s favor, enough that I’m qualified to lead the people of this Cancer’s Claw.”
+
+“I see. Wait…” Sherly caught on something interesting. “This Cancer’s Claw?”
+
+“Correct. When corruption hit Taurus, the Cancer’s Claws were immediately formed in order to protect Crustia. Eventually, that responsibility extended to other surrounding territories, which is the primary reason why we’re roaming outside. Cancer’s territory spans multiple kingdoms, Sherly. A single caravan alone will not be able to protect the Zodiac’s lands.”
+
+“How many are there?”
+
+“We’re the fifteenth division, and the youngest one. But including us, there are only eight divisions currently operating.”
+
+“Why’s that?”
+
+“No one’s left to continue them.”
+
+“Oh… I’m sorry.”
+
+Sherly fell silent at that. Just within this small conversation, she had needed to absorb and accept many things.
+
+First, though it pained her to admit, her current situation wasn’t some prolonged nightmare. The inkling hope that she was suffering from some sort of coma-induced dream was now gone. The pain she had suffered at the hooves of those demon-cattle was real. The people, Ishuin for the most part, she was talking to were not some patched-up imitations from her memory.
+
+This world was real, life and death here was real, and her being stuck in the body of a demon-cow was real.
+
+The second thing Sherly had to accept was a lot more jarring than the first. But before she could contemplate on it alone, Ishuin seemed to have caught the change in her demeanor.
+
+“Something wrong, Sherly?” she asked.
+
+“A lot of things,” the cow admitted.
+
+“Can’t say I envy your predicament, to tell you the truth.” Ishuin gestured among the crowd walking alongside them. “I’m pretty sure none of them do.”
+
+Sherly observed those eyes. They were judging her. Some were in disbelief still, that a demon-cow was walking amongst them. Some had hate in those eyes. She couldn’t blame them for garnering such an emotion. Though she would prefer for none of it to be directed at her.
+
+She sighed and decided to move on to more productive topics.
+
+“So the Great Zodiacs in this world are like your gods?” Sherly asked Ishuin.
+
+“Correct,” the elf Wielder replied. “I assume the concept of gods and divinity between us is the same, then?”
+
+“I’m not so sure. You speak as if your god, Cancer, walks among you, goes into meetings with you or your people, and generally mingle with the crowd from time to time. Like your president, or your king, or your leader.”
+
+Ishuin tilted her head and raised an eyebrow. “Your gods don’t do that, then?”
+
+Sherly had the urge to scratch her head. She also struggled to hold back a laugh.
+
+“I’m not sure how real our gods are. We probably have too many.”
+
+As expected, the elf struggled to understand what she meant.
+
+“A lot of our gods are only depicted in books. Religious people will tell you that they’re real. Less religious people will tell you that they’re not. Sometimes, people will make a big deal out of something and say it’s a miracle from their god, or a test, or whatever.
+
+“But actual deities mingling with the people? Governing them? Leading them?” Sherly shook her head. “No. None of those.”
+
+“I can’t imagine such a thing,” Ishuin said. She turned to the cow girl and smiled. “Tell you what, when we get to Crustia, I’ll pull some ropes and schedule you for a meeting with Lady Kansa.”
+
+“Lady Kansa?” It was Sherly’s turn to tilt her head in confusion.
+
+“Lady Kansa, the Zodiac of the Cancer. Our goddess. You didn’t think they wouldn’t have their own names, did you?”
+
+“Weird name.”
+
+That small comment earned Sherly death glares from all the people that could hear her. Even from those quite a few distance away, who were clearly listening in on their conversation.
+
+“Oh, give me a break!” Sherly yelled. “Kansa of the Cancer! It’s so obvious! Of course, I’ll say something about it!”
+
+“No one gave it voice, Sherly,” Ishuin said, giggling slightly as she gestured for all the hostilities to stand down. “Lady Kansa finds it funny.”
+
+“That no one’s pointing out the obvious?”
+
+“I think she’ll like you.”
+
+Sherly blinked. She realized what Ishuin was leading towards.
+
+“I suppose since Taurus, or whatever his name is, has been corrupted, I have no choice but to get the favor of a different Zodiac.”
+
+“Exactly.” Ishuin gave an approving nod. “I can hold back my people just fine. But if Lady Kansa declares you as a peacekeeping demon-cow, an ally of Crustia, then everyone in all of her territories will have no choice but to acknowledge as such.”
+
+Sherly pondered for a moment. “I guess that’s pretty helpful. It should force them to keep to themselves, at the very least. I can handle glares and stares just fine.”
+
+Ishuin cleared her throat. “What I’m trying to say is that they won’t even resort to such a thing.”
+
+“Are you sure? Even with declarations or laws, you can’t dictate what an individual should feel. As long as I look like a demon-cow, there’s no guarantee that someone won't have prejudiced notions about me and act upon it.”
+
+“Ah, that’s true, I suppose. If that’s the case, then there’s no other choice but to help you turn into a chilim.”
+
+Again, Sherly blinked. This time, not out of confusion, but out of realization.
+
+“I didn’t think you’d be open to help me out.”
+
+Ishuin smiled, placing a hand on Sherly’s head. “Let’s just say that I admire your bravery. And I’m also willing to bet that you’ll turn into a really pretty cow-chilim. If that happens, you’ll be destined for great things.”
+
+“I don’t need to be great, Ishuin. If I can turn back anywhere near what I looked like before, that’ll be a definite win for me. Thank you.”
+
+Just then, Kasta and the dog-zilim approached Ishuin.
+
+“We should be able to stop by the crossroads,” said the human. “No signs of any danger that we can find.”
+
+“Good,” Ishuin said, nodding. “We’ll find a good place to bury the dead, then give the survivors some time to mourn. In the meantime, Maymay, go with Sherly and find some monsters to hunt. If we’re lucky, she’ll be able to evolve into a zilim before we get to Crustia.”
+
+“Hello, Maymay,” Sherly said, bowing.
+
+“Hello, Sherly,” said the dog-zilim, greeting with a brilliant shine. One of her brown dog ears was folded down, while the other was perked up, twitching every now and then. Her black eyes stared with smothering intent, but fortunately enough, she caught herself staring. “Sorry, but it’s not everyday that we get to speak with a demon-cow. I don’t mean to offend!”
+
+“None taken. I look forward to working with you, so I can prove my innocence.”
+
+“No, I think what you did back there is plenty enough proof. I’m just really not used to it.”
+
+“Then I’m willing to spend as much time with you as needed to make you comfortable with me.”
+
+At that, Maymay blushed.
+
+“Ain’t you got some nice words in that mouth of yours, Sherly?” Kasta commented. “Hitting on a girl like that, you might just nab her, if you keep that up.”
+
+“I like dogs,” Sherly admitted. “I worked part-time in a dog daycare, back from where I came from. Depending on the day, I got to play with a dozen to two dozen puppies. I’m still trying to decide if I also like dog-zilims, though. But so far, I think they’re pretty cute!”
+
+“Ain’t that lucky for you, Maymay!” Kasta said, tapping the dog-zilim’s back with a bit too much enthusiasm.
+
+“Stop it!” Maymay said, covering her face.
+
+“That reminds me,” Sherly started, turning to Ishuin. “I would very much like to extend my gratitude to Duis. If not for his potion, I wouldn’t have been able to contribute as much back in the village.”
+
+The elf Wielder scratched her head. So did Kasta and Maymay. Sherly could read the obvious.
+
+“I think it’s best to distance yourself from him for a while, Sherly,” Ishuin began. “He’s a bit bitter with the whole situation. Regardless of the purpose and result, he still thinks that you’ve robbed him of his greatest treasure. I suppose if you can retrieve a Ruingrass, that would be your best bet to calm him down.”
+
+“He’s not the most flexible person out there, Sherly,” Maymay added. “He’s not bad, per se. Just a tad bit stubborn.”
+
+“Stubborn turned bird-zilim, more like,” Kasta said. “Ain’t nothing we say to the guy will humble him down. But he ain’t got the rank to push people around, so you ain’t got nothing to worry about him. Just make sure you have some space between you and his wings. When you were eating, he tried to rally some folks to spear you silly. Not his best, mind. I do apologize for him.”
+
+“I see.” Sherly sighed. She decided to disregard the fact that the bird-zilim had tried to kill her. She rationalized it to him being emotional at that time. Still, she chose to follow their advice and distance herself from him for now. “I suppose that was true. From what I could tell, I did take a really valuable potion from him. How much exactly are we talking about?”
+
+“A common Ruingrass Potion will net you about 200 gold coins,” Maymay started gesturing over to Ishuin.
+
+“The one you took, however, is probably double that price because of Duis’ expertise. As a Wielder, he can learn Skills that would improve his craft. Which is a bit of a shame because despite it not being likely, he’s still trying to climb the ranks of the Cancer’s Claw.”
+
+“What’s so wrong about that?” Sherly asked, her curiosity now piqued. “If he has the capabilities to do it, then why not let him?”
+
+“That’s the thing, cow girl,” Kasta started. “He ain’t got what it takes to lead the caravan. He’s in it for the fame and the comforts, not really spending his efforts to earn that right. The things he wants to do and who he wants to be ain’t meeting at the center. So he’s stuck flying around like a headless bird trying to fulfill both sides.”
+
+“And now that I’ve taken something valuable from it, it’s going to rub off on him the wrong way.” Sherly sighed again.
+
+“We’ve tried to talk to him about taking Alchemy seriously, or dropping it to focus on improving his fighting skills, if he wants to lead his own Cancer’s Claw,” Ishuin said.
+
+“But the dude’s more stubborn than Taurus on a bad day,” Kasta finished. “He ain’t dropping either anytime soon.”
+
+“You know we don’t say that anymore, Kasta.”
+
+“Ah, right. Force of habit.”
+
+“Is it because he’s corrupted?” Sherly asked. “Taurus, where I came from, is the sign of stubbornness or refusal to change. I’m actually surprised he got corrupted in this world.”
+
+“Steadfastness, strength, and stability,” Ishuin said. “Those are Taurus’ values before he became corrupted. While those still remain true to this day, those are now used for dark and evil notions. His influence now halts innovation completely, often to the point of reducing everything he could reach back to nothing, which was the original state of all things before any changes had occurred.”
+
+“Yeah, that sounds completely unhinged.”
+
+“Well, we’ll deal with that some other time. For now, we should try and settle in for the day.”
+
+Ishuin gestured ahead. Sherly followed where she was pointing at and saw more than what she had originally expected.
+
+The settlement on the crossroads was a collective of not just one, but many different buildings. Three of which were watchtowers made out of bricks. They stood beside each of the three roads that met in the middle.
+
+The closer they approached, the more Sherly realized that she wasn’t looking at a settlement. They were heading towards a town that was directly in front of the crossroads.
+
+This one wasn’t on fire. Regardless, it still made Sherly a little apprehensive. She turned to Ishuin.
+
+“Do you think I should just stay outside?” she asked. “I’m not sure if the people in there will be alright with me.”
+
+The elf Wielder smiled. “We’ll just have to see, won’t we?”

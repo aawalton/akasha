@@ -1,0 +1,167 @@
+---
+id: 0621e5d8-5dcb-5e12-af67-6efb7888a766
+page-type-slug: story-chapter-royal-road
+title: "Chapter 46"
+slug: 0053-chapter-46
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 53
+ownLength: 2475
+unit: words
+publishedAt: 2026-07-23
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3714173/chapter-46"
+royalRoadId: "3714173"
+---
+
+The next few hours disappeared before a deluge of explanations. If I were to try and boil it down, it… well, it wasn’t really doable. Or, maybe what I learned was more about how the system – kismet or whatever - actually mostly made sense when you started looking at it through a certain angle.
+
+If you were a Scout who mostly worked as an actual scout, without the capitalization, sneaking about and avoiding conflict wherever you could, you’d have a much easier time unlocking avoidance skills and the like. Meanwhile, a backstabbing Scout would be better off trying to unlock melee options. The talents you picked affected your skill options, as did your demeanour.
+
+Also, humanity as a whole had the world’s biggest leg up with our Starved Growth trait. We just needed to get a handle on the whole enslavement thing, then we were back in business. That part where earning skills outside of your natural comfort zone, temper and Class was hard, sometimes nigh-on impossible? It got a whole lot easier when you had a cheat code.
+
+If I had any doubts about the efficacy of our trait, it was shot down when Cuilcis calmly explained that your average person who didn’t invest in Tethered-assisted skill-learning would usually only unlock somewhere between ten and fifteen skills. For life! That seemed crazy low to me, but emphasized just how effective our trait was. Also, how much we’d earned for fighting for survival. The others were all on the comfortable side of twenty-five skills earned at this point and I had thirty-one!
+
+The real challenge here would be in identifying which skills would be worth unlocking, and which would be a waste of effort. Obviously, I was wildly biased toward passive skills in general, due to my positive quirk improving their efficiency – but I couldn’t help but feel there was a massive cheat there, just waiting to happen. As long as we could unlock enough passive skills early on, they would grow on their own as we struggled through our lives. Once unlocked, with enough skill increases, they’d eventually land humans in a spot where our basic level of competence was much higher than any other race with similar builds and attributes – even if they had dozens of levels on us.
+
+Hence, when Cuilcis finally announced that our time was over for the day, I could barely contain my eagerness to get at the scroll.
+
+He held the thick scroll possessively in front of his scrawny chest, raising a finger. “We had an agreement. Three days of labour. I am calling in my first day today.”
+
+Our eyes all shot toward the scroll in his hands. “But… our skills?”
+
+“Indifference. That is up to you to manage.” With a curt nod, he granted. “Today, I am being magnanimous. The job that is needed will only require six hours of labour from you in total, if you do not dawdle. You may still find the time to peruse the list after that. The only reason I will accept you completing this job as a full day’s work is that the opening is time-limited.”
+
+“Is it going to be dangerous?” Nix asked.
+
+“Clearly, yes. Else, I would have engaged somebody less expendable.”
+
+“Well, fuck you too.” I laughed. Then I sobered, and said. “Listen, mate. I know that we haven’t gotten off to the best start here. Yet, I want you to realize something. Us? Right here? We represent the chance for something amazing. If we pull off half of what we’re planning to do – and no, I’m not telling you anything right now – we’ll be among the untouchables of Last Chance, too strong to mess with. So, I think you should take this time to consider just how expendable we are. You’ve still got time to adjust, and make sure we stay friends for the future.”
+
+“Friends? Denial. This is blackmail. It cannot possibly end in friendship.” He hesitated. “But, I will attest to the possibility that we can cultivate future business arrangements. Also, I would never send you out to die.”
+
+“Awww. That’s almost sweet of you.” Nix said.
+
+“That way, you would not return with the goods I desire.” He continued.
+
+“Oh. Forget what I just said.”
+
+A few minutes later, we found ourselves tossed back out in the streets, marching for the edge of the settlement. I pulled a small handcart, of the non-mana-propelled kind, along behind me.
+
+“I have to admit. I don’t quite get his attitude. Why didn’t he give us more information on the targets? It can’t simply be because you ticked him off. It would be illogical for him to get us in danger for no reason.” Steve said.
+
+I shrugged. “I mean, if we all die, his secrets are safe again. But honestly, I’d just chalk it down to being pissed off. Hey, if pissing people off was a skill, I’d probably have earned it by now.”
+
+Nix laughed. “No doubt. I remember, you did threaten to kill Elio back then.”
+
+I snorted. “That self-absorbed blind asshole absolutely had it coming.” After a moment’s silence, I asked. “Any of you know if he made it? Him and Ciara?”
+
+“No. We’ve talked about it.” Nix shrugged. “They did get on the walls to begin with, and unleashed some hell. They went back down pretty quickly, though. He probably ran out of mana. We lost sight of them after that, and they weren’t part of the group who made it past the Kadren to fight back.”
+
+“They’re likely either dead or enslaved, then.”
+
+That lowered the mood for a while, and conversation was limited as we marched in a westerly direction.
+
+I spent the time considering our situation. I still had one day to go before I could pick up my new shield, meaning the stupid buckler was still my only protection. When it came to our current task, I hadn’t sensed any particular animosity from the short Tibidi. The limited information, it seemed, stemmed from the fact that whoever tipped him off didn’t know a whole lot, and also didn’t have the highest Identify skill.
+
+Still, I had to admit that, “A family of beasts have been discovered to be living in a pond. Their bodies will be good for trading, as long as you do not ruin them. You should survive the encounter.” Wasn’t the most informative ever.
+
+We debated back and forth for a while, eventually agreeing that we weren’t going to touch the scroll until after we’d returned victorious. Sure, having so much potential information right at your fingertips and not using it sucked. But getting jumped because we weren’t paying attention would suck worse.
+
+That still couldn’t stop Nix form trying to earn the Running skill for herself. She convinced Steve to activate and share his Agility buff, which, along with his Peaceful Rest talent made us all feel like we were filled with energy, moving faster, more naturally than normally. The blue-haired bundle of energy sprinted back and forth, emptying her stamina and cursing all the while.
+
+After a while, she nudged Haddock into joining her. And she was thoroughly infuriated when he earned the skill a few minutes in.
+
+That was all the entertainment we had, though. We followed the sparsely travelled foot path running along the west ridge, alert for any dangers.
+
+Oh, Steve loved it. He skipped ahead of the rest of us, hidden by Invisibility, ensuring that nothing was going to jump us. He returned every now and then, telling us about weird formations in the surroundings, beautiful birds, once even a particularly interesting migration of a blue ant-like insect. Frigging nerd.
+
+Nothing happened, outside of another of those mana carts trundling along toward Last Chance. The owner – a tired-looking Moagie – tensed up when he saw us, but waved cautiously in response to our greetings. Then, it was nothing but wary trudging and shaky nerves for a while.
+
+“This should be it, right?” Steve asked.
+
+We finally paused our journeys on a tiny rise in the path, looking in a northerly direction down upon… nothing.
+
+I frowned. “Yes. Regular grassland, followed by a large area dotted with pools. And there we have the pool he pointed out. The one shaped as three ovals in a row.”
+
+“Meaning, now’s probably a decent time to talk about tactics. Figure out how to get the jump on… whatever’s down there.” Nix said. It wasn’t quite a question.
+
+“Now would be a good time to simply observe, I think.” Steve said. “Also, to hide. I… think I’ll activate my invisibility… and up our Perception a bit.”
+
+I noticed my eyesight sharpen into clearer definition. Then, it faded again, as the edge of the invisibility talent messed with my optics.
+
+Steve relaxed noticeably next to me. Then he cocked his head. “Huh. I thought I’d have to go down there to spot anything. But there they are. A Level 21 Edgestealer.” He waved the rest of us over to him and pointed. ”Centre of the pond. Look for an eyestalk. No, wait. Stalks.”
+
+I squinted at the pond, well off in the distance. My Identify refused to activate.
+
+“Mine says Level 18 Edgestealer.” Haddock said.
+
+“Level 23 here.” Nix said. “Oooh. They’re all cuddled up right next to each other? So cute!”
+
+I snorted. “That’s certainly a word.” Sitting down, I kept facing the ponds while I mused. “So, an unknown number of beasts lurking right under the water. No fewer than three.”
+
+“Four.” Steve corrected.
+
+“No fewer than four. And fairly high levels. On top of that, Cuilcis wanted us to do as little damage to their bodies as possible. Any ideas?”
+
+Silence.
+
+Eventually, Nix wrinkled her nose. “We’ve been watching for a few minutes now, and I’ve only seen the eyestalks above the water. Do we know if those Edgestealers can actually survive outside of water?”
+
+“Huh.” I mused. “So you’re considering having Haddock drains those pools of water or something? Clever.” I scratched my neck. “He said they’d attacked travellers before. Even if that’s with some sort of ranged attack, they’d have to be able to go outside to fetch the bodies to eat them, right? Yeah. I can’t see them trapped in water being a survival tactic in bloody grasslands like these.”
+
+“Damn.”
+
+“Love.” Haddock asked. “Could you explain again how your Delayed Firebomb works?”
+
+“The talent description?”
+
+He shook his head. “How does it work, with your quirk?”
+
+I frowned. “I’ve been wondering that as well. I mean, your quirk says something like AoE attacks count as attacks too, right?”
+
+“Oh. Yeah. That part is kind of weird. The actual description is, lemme just find it… You cannot use offensive talents to target enemies (including Area of Effect Talents).” She shrugged and smiled happily. “Of course, since the system always warns you when you’re about to choose something that won’t fly with your quirk, I was happy to find this one doesn’t count. I think, honestly, that the reason why it works is that the initial priming part of the talent counts as the attack. What comes after isn’t counted as being part of the attack itself, but more as something that follows the attack. Like, an after-effect or something. Maybe a summoning. Like, summoning a beast wouldn’t be an attack, even if the beast is always hostile.” She shrugged. “Don’t care, really. Long as it works.”
+
+“You’ve had it fail, right?”
+
+She nodded. “The initial aiming part of the talent? That one actually burns. If the targeting effect damages an enemy before the actual firebomb goes off, the whole talent cancels and collapses. But it’s so small, I can usually make it work. Just ask Liam. I planted one between his legs, and he didn’t get burned. Well. Before the actual explosion.”
+
+I winced and reflexively placed a hand on my private parts. They still felt tender.
+
+Haddock started nodding softly. Then, a grin softly grew behind his beard. “I think I know how to handle this. We might avoid a fight. First we scout, and make sure we’re damn sure we’ve spotted them all.”
+
+“Really? That sounds like wishful thinking. How are you intending to pull that off?” I asked.
+
+Ten minutes later, we were standing a hundred meter from the Edgestealers, watching our notifications.
+
+Nix jumped with a tiny squeal. “There goes another one!”
+
+“That makes… four. No. Five.” I watched another notification emerge.
+
+“Want me to toss in another Firebomb?” Nix was practically vibrating with excitement.
+
+“Last one was the Level 23 one.” I grinned. “I think that’s the lot. How about we wait two minutes, then back off and prepare ourselves, in case something else emerges? You can take off the lid, if you’re ready, Haddock. I’ll guard.”
+
+The lid, in this case, was a series of huge, thick slabs of stone, summoned by Haddock, all specially prepared to cover the entire pond, with place to spare. With one tiny opening, off-centre.
+
+I prepared myself, buckler and swordbreaker ready against whichever stalk-eyed and likely tentacled monster might emerge to feast on us.
+
+The construction disappeared from the face of the earth, as Haddock mentally did whatever he needed to cancel the summoned material.
+
+Slabs of stone were replaced by an opening, out of which billowed thick, heady smoke.
+
+Nothing arrived.
+
+It had been like ice fishing, if your fishing teacher was Crocodile Dundee. Probably not the best of analogies. Regardless, the tiny opening in the stone slabs was just big enough for Nix to drop in the primer to her Delayed Firebomb talent. Then, we just had to wait, and, hey presto! Edgestealer Boil!
+
+It took her three casts of her Firebomb. Or, rather, about ten attempts. After the first firebomb went off, the Edgestealers had been so frantic underneath the stone slabs that they kept bumping into her primer and disrupting the unleashing of the firebomb.
+
+“Ugly fuckers, aren’t they?” I stood at the edge of the pond, looking down upon the corpses in the murky soup that was all that remained of what had, minutes ago, been countless cubic metres of water.
+
+“They really are. They’re like a mix between hermit crabs, Komodo dragons and… snails?”
+
+“With extra ew!” Nix added. “I’m glad I boiled them. Look at those zits.”
+
+“I think they’re called pustules.” Steve said, leaning right over the edge of the pond. “They’re pretty amazing, though. I think they’d be surprisingly fast. Oh. And am I the only one who was expecting tentacles?”
+
+A chorus of noes erupted. For a while, we just stood there, watching the slightly charred, but mostly intact corpses, and trying not to breathe through the nose.
+
+Eventually, Nix was the one to point out the elephant in the room. “So. Who’s going down there to get them out?”

@@ -1,0 +1,355 @@
+---
+id: 0c7d7e87-ba90-5cc2-8943-de05127df5ab
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 441"
+slug: 0140-the-path-of-ascension-chapter-441
+partOf: the-path-of-ascension
+position: 140
+ownLength: 5958
+unit: words
+ownProgress: 5958
+publishedAt: 2025-09-08
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2585257/the-path-of-ascension-chapter-441"
+royalRoadId: "2585257"
+markedReadAt: "2026-06-29T19:22:28.638Z"
+---
+
+Chapter 441
+
+With a grab, the skill orb appeared in Allie’s hand and they all couldn’t help but stare at it. Even as an Ascender, Matt had only seen the rare skill shard variants a few times.
+
+Sending a wave of spiritual perception into the orb, Matt felt at the skill and tried to identify what it was.
+
+Skill orbs were rare versions of skills that could be used hundreds, thousands, theoretically millions of times. For a Tier 8 skill like [Fireball], that was good but not too useful, as most skill shards of that Tier and type were plentiful. However on Tier 26 and higher skills, or truly rare and or powerful skills, a skill orb was worth a fortune.
+
+For Tier 14 and 20 skills, it was more questionable. A skill of either of those Tiers in a skill orb could be worth anywhere from a piddly sum to a blank cheque to, which put them in a weird middle zone.
+
+What they never were was useless. A skill orb wasn’t just a thousand skill shards bundled up. They were special and could be modified inside the orb to a degree, which massively amplified their worth as groups could have a higher-Tier or more skilled member modify the skill and then give out that post modified version, saving a lot of work.
+
+Matt would have been ready for either outcome given how they had found this skill, however he wasn’t sure what they had found.
+
+The skill structure was… weird.
+
+It was almost similar to Rah’s Realm’s skill structures in that it was a tad more simplistic in the shapes of the conduits and bends than the current day skill shards. Rather the skill’s structure looked like spaghetti with zero cohesion to how things were put together, making the skill a tangled mess that was hard to parse.
+
+Allie poked it, asking while trying not to snatch the orb, “What does it do?”
+
+Susanne looked at Matt, “What does the story this guy wrote say? He’s got to explain it right? Easier than parsing this mess.”
+
+Matt skimmed the summary until he found it. “Yeah I got it. The unfortunate person was given a skill that let them return home safely in some manner but they hadn’t gotten what they expected. Hold on for a moment. I’m trying to parse the context. My [AI] is telling me there is a lot of sub-text about a way to make it safer for explorers to return home. Their language seems to really revolve around naming new ideas around people directly, and this idea of a safer way to return home has a lot of names attached to it so my [AI] is assuming this was a really big deal for this person.”
+
+Matt paused as he read the best raw translations. “I’m not entirely sure how much of this we can trust. It's all written in a very elaborate way to say the least. It's utterly consistent so I and my [AI] are assuming this is just the normal style of writing but it’s… unique. Listen to this translation. I’m using as direct a quotation as possible. ‘I pressed my hand to my Ninth Char and proclaim I am the one to fulfill’ and then he goes on to list a dozen names ’I proclaim my valor according to the Farl Fes tradition’. When they describe escaping the ship they ‘leap through walls as when Sisre escaped capture’— Sisre is clearly a name to give context, but without that additional information, I’m afraid we aren’t really understanding what they are trying to say. It's entirely possible things happened how they literally describe them, but this culture seems like a very context-heavy society and language so I’m hesitant to trust too much of what this guy says.”
+
+Zack, still inspecting the orb, pointed out, “Some information is better than nothing.”
+
+As best as Matt could glean, according to the narrator's speculation, someone must have seen them leave the strange area and sold the information to a rival immortal who ambushed and captured them. Through a series of not-quite-trustworthy tales of high heroics, the person fought free and boarded one of the escape pods, launching them all at the most distant dots of lights on the screens.
+
+However, having never flown on one of the ships, the person in question didn't know that escape pods initially chose the most distant objects they could and expected the pilots to disengage when safe.
+
+That might have been fine but, with the ships being such mana drains, the person didn’t realize they would keep coasting forever at their speed until they were deep in space where there was no mana except what they themselves generated.
+
+Correctly assuming it would take far more mana than they would be able to produce to stop and turn around the ship, the person hoped to reach another star where they could start looking for connected worlds drifting through chaotic space. The person incorrectly assumed that being a nearby world, it must also have connections to passing worlds, not understanding the greater mystery that was chaotic space.
+
+Matt couldn’t help but wince as he read that final passage to the group.
+
+The person in question had then been trapped in his rudimentary equipment which even when fully built out into the more advanced mother ship, couldn’t be sure which distant star he had come from. In the end he didn’t want to spend hundreds of years flying through space at an even slower speed to arrive at the wrong world.
+
+Skipping ahead, Matt found his suspicions confirmed. The person had waited on the most normal world he could find and poured all of his mana into it for thousands of years until it finally awakened a core and started making connections with chaotic space.
+
+Matt also realized why the [AI] had struggled to settle on a name or even gender for the narrator.
+
+It was because part way through his story, the narrator started calling the orb his own name’s folly when he realized how the skill worked.
+
+Sadly, the man never directly talked about what made the skill so bad, leaving them questioning its effects.
+
+Allie, still cackling at her luck, ushered everyone off the asteroid. “Let’s scan this place and pack it up. I only have about three more minutes before I can’t recall to the other system. Let’s move, people!”
+
+Her words spurred not only them on but the others, who quickly grabbed everything of value they could from both the rudimentary space platform as well as the planet below.
+
+Instead of agreeing and moving along with the others, Matt said, knowing the captain would hear and start preparing for it, “Might as well see where we are as well. This might be a lucky real space crossing deeper into the Breach.”
+
+After the resource gathering crew was done in their limited time frame, the Unsparing tore through reality, their shields fully activated. They needed to be ready in case the worst happened and they dropped into the third or possibly fourth layer of chaotic space, prepared to dart back inside at a moment's notice.
+
+Thankfully, they weren't in the third layer of chaotic space. Rather, they were in a much calmer region. Allie, able to feel her relative position to her teleportation waypoints, tentatively placed them on the far side of the great powers from the Breach.
+
+Returning back to real space where it was easier for Allie able to teleport them back to the original star system than if she had had to do so from outside the universe's barrier. She could have done so but it would have caused additional, unnecessary spiritual strain, when she would already need to push herself to make a waypoint as quickly as possible so they could return to this world again.
+
+Aster, who was celebrating with Allie, slapped the teleporter with her tail. “Are you going to make a waypoint? Lila might want to come check this place out. In fact, a lot of people might want to come check this universe out. Might be worth our time.”
+
+Their still-crowing teleporter calmed down slightly and mulled the idea over. “There is an argument for it, but I’m not sure we can spend months sitting on our asses like that. If I force a waypoint to form as quickly as possible, I need at least three months at an absolute minimum. I don’t have the Boss here to help and heal me, so that’s going to put me on my ass for at least a few years afterward. More realistically, it would take closer to five or six months if I don’t want to take myself out of commission for a while.”
+
+Liz offered her own suggestion: “What about we check the skill, then make a decision. If it's valuable enough and we think people will care, we spend the time to make the waypoint. If it's not, we move on.”
+
+With no one arguing, they quickly moved deeper into the ship.
+
+Everyone was grinning or laughing with each other, excited for the prize they had found.
+
+After testing the skill orb in the nearest scanner and getting an error, Matt quickly went through the ship's log and found the crew member who was an accredited appraiser. The woman in question was already standing just a few feet away eagerly looking at the skill as if expecting the machine to fail.
+
+It was almost nostalgic for him. On the Path, they had had one such man assigned to them for all of five minutes before Luna took over collecting their loot and giving them what she deemed it was worth if they wanted to sell something.
+
+“Oh this is a beauty. Most certainly a strange realm skill. Unlike Minkalla which makes nice and pretty skills, the products of strange realms or even the rare ruin that allows for a similar choice over the final skill usually look like this. Strange and bent out of shape. We aren’t sure why it happens but it's harmless. Makes modifying a bitch until you untangle it first, but there isn’t anything inherently wrong with the skill or the orb.”
+
+Allie made grabby hands. “If it's safe, I want to absorb it. We’ll figure out what it does when I absorb it.”
+
+The appraiser didn’t try to stop Allie but Liz did, holding out a hand to block her. “Hold on, Allie. Let's see what skill this is. If it's not useful, you are wasting a lot of money if we decide to sell it. Less usage makes it more valuable.”
+
+Allie grabbed Aster and moved her face in front of her own, letting Aster put on her best puppy eyes. “But I want my prize.”
+
+The teleporter didn’t however reach out again.
+
+Seeing she was good to continue, the appraiser looked back at the skill and helpfully added, “I can puzzle it out but it will take a little while. Give me a few minutes to parse through everything and get the skill into a readable state.”
+
+Matt set his [AI] to do the same but couldn’t determine what the untangled skill was meant to do given how unusual its structure was.
+
+The appraiser had little such issue.
+
+With a nearly identical untangled skill, she uploaded the final form.
+
+“Given what we know from the story I think this works by marking a location similar to [Recall] or [Tether]. It's using… I want to say older, but that’s only because I know this is old, because these structures are kind rudimentary, and for some reasons it's not just putting down one marker but half a dozen, each with its own variation. There is another node here. I have no idea what it's doing. Even my [AI]’s skill testing module hasn’t really seen this type of cluster before. It looks like a dozen things stapled together instead of any coherent spell effect.”
+
+Liz leaned forward, grinning, looking at the skill orb like it had just given her a foot massage. “Any chance those dozen variations make sure the node is noticeable from anywhere in the Realm and not just the local real space like the story suggests?”
+
+The appraiser’s eyes were wide with excitement but she shook her head. “We’d have to test it to make sure, but that's what I suspect."
+
+That got Matt excited.
+
+Another way to guarantee someone can find their way home? One that didn’t rely on a seeker and the vagaries of their methods? Any such skill would be worth a monarch's ransom to anyone who regularly left settled space. Nobody would rely on it, but every extra safeguard was an extra chance to make it back alive should things go badly.
+
+The crew reacted with similar fervor hearing the appraisal, as anybody who had the skill could use it to negotiate for a larger share of their explorations similar to a seeker even if to a lesser percent.
+
+Hearing all she needed to, Allie immediately pressed a finger to the skill orb.
+
+Unlike skill shards, skill orbs imparted their skill instantaneously into the spirit at whatever depth the cultivator wished.
+
+Allie eagerly cast the spell before saying, “I can feel this location. Now let's test it.”
+
+She vanished the next instant.
+
+A minute later she reappeared already talking. “I can feel this location from outside the other chaotic space node. It's actually interesting how the skill works. Once I cast it, I set the location I was standing at. Then when I teleported away, I could feel the location I set. Pretty normal if really cool that it still worked when I went out the other node into chaotic space again. But what’s really interesting is that I can activate a secondary ability of the skill and it gives me a general idea of the shortest path between the two points. It even pointed me back through the world node so we know it accounts for real world speed and isn’t just looking at the nearest world node.”
+
+Pumping her fist, Allie shouted as she started to celebrate. “This thing is worth a fortune! I’m the fucking best! None of you believed in me but I believed in me! When I—”
+
+The rest of the crew who were watching started rapidly talking about the find and debating the merits of taking the skill or the value.
+
+The same went for all of them, except for the teleporter in question who stopped mid-celebration to pout at Aster. “But I already can feel my waypoints. This is useless to me. Aster nooooooo. Do something! Why didn’t you test the spell? Why didn’t you stop me? My money. Nooooo!”
+
+With long historical precedent, skill orbs found in an exploration were usable by the crew members and they could choose not to for an extra payout from the buyer. Such came about because it was impossible for the buyer to be sure someone hadn’t absorbed a copy of the skill in transit without checking. Instead of forcing the issue, they offered additional payouts of eighty percent of the fair market for the skill to anyone who could prove they didn’t absorb the skill in-transit via spiritual inspection.
+
+For rare and valuable skills, or ones that didn’t have a skill shard equivalent, that value could be astronomical.
+
+For the crew, the problem was the skill they had found was quite possibly an explorer’s single most-wished-for ability.
+
+Accidents happened and in fights the winning side’s seekers could die, leaving a vessel to navigate blindly with only general energy levels to guide them. It didn’t happen often but it happened.
+
+Few such teams safely made it back to settled space and the ones that did were often traumatized by the experience.
+
+With an ability to know where a set point was, any exploration team would pay handsomely just for that added sense of security.
+
+The issue arose in that while more than one person with the skill in a crew was useful, the usefulness was greatly reduced. Guild’s contracts weren’t ironclad, so any of the crew members could take their newfound skill and start their own team or join someone else's. But Lila’s guild was one of the best, a guild they had fought to get into, and if they took the skill, they might get put into new teams and ships, breaking up long standing groups to maximize their newfound value.
+
+Matt’s thoughts went along similar lines.
+
+He didn’t intend to sell; rather, he’d prefer they use it as a betting tool with the other Ascenders.
+
+They all explored chaotic space somewhat regularly, and would bet handsomely against them for the opportunity at the skill. Not to mention its sheer exclusivity, they could get a lot out of it if they played their cards right and made smart bets.
+
+That was if Lila didn’t just take it from them. Her dragonnic nature to hoard meant she had really interesting items they might not be able to resist. The skill would be perfect for her guild and in that case, it might be worth not taking the skill himself for the additional payout.
+
+Probably not, but he considered it.
+
+Ultimately the allure of a new spell intrigued him too much and he, like everyone else in their group of seven, pressed his finger to the skill and directed it into his inner spirit, near his core.
+
+The sensation of absorbing the skill was strange.
+
+Normally, when a skill entered a cultivator's spirit, they were doing exactly that. Taking the very skill structure from the skill shard and bringing it into their spirit.
+
+The skill orb didn’t do that at all.
+
+Rather, the skill appeared in his spirit as if it had always been there.
+
+It wasn’t Matt’s first time absorbing a skill from a skill orb but it always felt strange and he liked to try and glean more information about the process.
+
+Beside him, Liz pulled back her finger and said dramatically, “I chickened out and put it in my outer spirit. Once everyone who wants the skill takes it, I’ll maybe go for a second and see how it gets converted.”
+
+Matt, unbothered by his own failure, shrugged. “I’m just going to play with my new skill and not talk about the chance that any use of the orb is its last.”
+
+That earned him a glare from pretty much everyone until Matt warded away the superstition with a gesture.
+
+Along with everyone else, Matt cast the spell he was tentatively calling [Home].
+
+Ignoring its stretched and distorted appearance, the spell was of a different design philosophy and that became clear when he sent mana into it. Instead of a quick and snappy response as his mana entered the skill structure to let him aim or interact with the spell, Matt had to wait for the entire skill to be flooded for it to activate at all.
+
+When it did, he was surprised to find he didn’t have intent controls at all like modern skills.
+
+The skill had the magical equivalent of two buttons. Pressing the one that took precedence in his mind, Matt was once more surprised to find the skill didn’t place a spiritual marker like most tethering skills. Rather, [Home] captured a dozen snapshots of the space he was standing in and imprinted it into the skill’s structure, so there wasn’t an active mana cost, just a small reserve, in a manner Matt couldn’t hope to follow even if those very structures weren’t a tangled mess.
+
+Interestingly enough, even when the skill was in its passive reserved mode, Matt could feel the spot he marked. It was like a general awareness that would easily fade into his background awareness if he wanted it to but could be brought to the center of his attention if he desired.
+
+By sending more mana into the skill, he activated the other ‘button’.
+
+As Allie said, it gave him an understanding of how best to return to his saved point. In his case, it told him he had already arrived.
+
+Pulling his mana from the reserve portion of the spell, Matt felt his connection to the spot fade.
+
+As the crew members decided if they wanted to absorb the skill or not, the five of them immediately started looking to see if they could afford to buy out everyone else so they could bet a usage of the orb with the other Ascenders.
+
+Given the low percentage they had to pay out to the ship and crew, they could manage it, but claiming the orb even between the seven of them might cost them quite a lot of other value, even ignoring the payouts to the crewmembers who chose not to absorb the skill.
+
+Thankfully, most of the crew ended up taking the skill, knowing they might not get another chance for a long time.
+
+Eventually the skill would start to make its way back into rift drop tables the moment any of them entered a rift, just as if the skill was a truly newly created skill, but even for a Tier 14 skill that might take a long time, let alone a Tier 20. Considering the distance the skill seemed to work at and that it worked across chaotic space, Matt would bet [Home] was closer to Tier 44 than 14 when it did get found as a reward.
+
+Given the complicated nature of the skill, no one would be making one with Rah’s methods either.
+
+Sadly, when Liz reabsorbed the skill for a second time and brought it into her inner spirit, where her Tier 1 Talent affected skills, the skill simply shattered under the transformation.
+
+They hadn’t expected it to transform, let alone the skill to be good, but it was still a loss given that skill orbs had an unknown amount of times they could be used before they too broke.
+
+Some skills orbs had been used tens of thousands of times and others broke on the third usage with no one being able to tell what caused it or when it would happen.
+
+Given the nature of the skill, Matt expected Allie to insist they wait around but instead she replied, “Nah we don’t have to stay, let’s leave. We got everything interesting.”
+
+Matt could tell she was fucking with them and wanted someone to ask but none of them were willing to give her the satisfaction.
+
+Aster, with a glint in her eye, looked over to Rah instead of giving into Allie’s games. “Rah, do you have any idea what she is hinting at? You're the skill master here.”
+
+Rah looked at Allie who gave him a challenging smirk.
+
+With his own quieter but no less challenging quirk of the lips, Rah replied, “I assume the spell's method of recording the location is enough to work with her ability to create waypoints allowing her to passively pick up waypoints as we travel. Normally I wouldn’t think such a coincidence is likely but given her attitude and that she was the one who was right at every turn, I have no reason to suspect this is anything but a fated opportunity for Allison and as such went with the best case outcome I could think of.”
+
+Allie's jaw dropped.
+
+She didn’t even play the act up, rather she looked honestly surprised and everyone caught it and realized what that might mean.
+
+Aster immediately pounced and asked. “Is that true?”
+
+Finally getting control over herself, Allie shook her head. “I fucking wish! I’m going to need to modify the skill before I can do that but it's more about exposing more of my spirit to the skill’s recordings than anything else. Even after the modification, at best I see myself being able to slowly gain the waypoint as if I was spending a lot of time at the marked spot.”
+
+That meant she wouldn’t be able to force a second waypoint to appear if they found a more interesting location without canceling the skill or waiting for it to finish.
+
+And that was if Allie was correct at all and if her modifications worked.
+
+Matt personally believed in her and her tendency to do the impossible.
+
+She’d figure it out eventually and like she said, she was already deeply connected with her waypoints so she didn’t actually need the skill for its original purpose like everyone else.
+
+That settled, they re-entered chaotic space only a few hours behind where they wanted to be and still well ahead of most of the other teams.
+
+Sadly, most wasn’t all.
+
+As they entered the world Magnus’ Talent said was valuable enough to explore as a main target, they found another team. They had only recently arrived and were still setting up a more thorough exploitation setup than the Unsparing usually did on the world below. They clearly wanted to delve the rifts for the first clear business as well as loot the over worlds Natural treasures.
+
+If the numbers they saw were representative, it looked like a fully mobilized guild was staking their claim to the Tier 19 world and intended to not only take the overworld items but the first delve rewards as well.
+
+The main ship was a dozen times larger than theirs and made entirely out of Tier 36 materials.
+
+It also had dozens of smaller ships that ranged in Tier from Tier 15 all the way up to Tier 37.
+
+The instant they entered real space and the others saw them, said group went on high alert ready to defend their world.
+
+The Unsparring was on high alert as well given that they were entering a yet un-scouted system, but they weren’t faster than several higher Tier spiritual perceptions waves that tried to probe past the shielding the Unsparing had installed.
+
+Annoyingly, they didn’t even get to bluff their way through as the guild was the same one whose exploration team they had looted a few months ago.
+
+Gladstone's Exploration Pack.
+
+Their pilot didn’t wait around to see what the other group had to say and immediately tore back into chaotic space and took off in their prearranged escape route.
+
+Matt watched the sensor readings as they flew away at their best cruising speed.
+
+Sadly, it wasn’t enough.
+
+Or rather, their opponents were determined to pressure them.
+
+Two Tier 30 ships exited into chaotic space and then a moment later were followed by two Tier 35 ships.
+
+All four ships immediately turned and followed their wake.
+
+The two Tier 30 ships were slower than them with their current speed and they almost immediately recognized that fact and turned around, leaving them to be chased by the two Tier 35 ships, which seemed to keep up with them easily enough.
+
+Matt watched for any other surprises and was happy to see the mothership and guild leadership hadn’t decided to chase after them.
+
+Their cannoneer called out, asking for permission to fire their rear facing cannons, which Matt finally noticed were the same size as the rest of the weapons, which went against most ship design conventions. It was overkill for most ships but he chalked it up to Lila being Lila and pissing enough people off that she liked having really big cannons protecting her rear.
+
+No matter the reason, Matt was happy to have them there.
+
+Their captain looked at them but Zack just waved. In minute-to-minute ship combat, they weren’t going to interfere with the experts. Not when none of them had any real experience with it.
+
+Before any shots were fired, a message was sent to them from one of the ships. “I am Vice Pack Leader, Vincent Arbon. We only want a reasonable remuneration for our guildmates' pain and suffering. Give us everything you took from the world you pushed our people out of and we will let you go.”
+
+Matt was still formulating a proper response when Allie called out through a comms channel with a cocky grin, “Eat my ass!”
+
+In-person, she however added, “Fire at will! Fuck these guys, we aren’t giving them shit!”
+
+The cannoneer didn’t wait for a second command and immediately started firing.
+
+Their first shot was a massive deep topaz-colored beam which tore a hole in chaotic space as it raced across the massive distance between the two groups of ships.
+
+The beam was noticeably weaker when it arrived but there was still enough energy that it turned one of the Tier 35 ships’ shield opaque as it slammed into it. They took the blow head-on without diverting, while the second ship, seemingly waiting for them to attack, returned fire.
+
+Having already encountered the same guild once before, they were ready when the two ships had cannons way larger than typical and it was only thanks to their pilots’ skill they dodged the massive blast of energy.
+
+The Unsparing immediately sped up to its true best speeds but the two higher-Tier ships refused to let go of their trail, using their higher-Tier engines and materials to match their technological advantage and steadily close the gap.
+
+At the sight, Matt felt surprisingly helpless, which was a new feeling for him.
+
+He was relying on higher Tiers to do a lot of work, both fighting and fleeing; and he didn’t quite like it. Given how he wasn't a pilot and he couldn't easily fight in chaotic space this energetic, there was little else that he could do.
+
+Keeping his Concept running, he ensured everyone on the ship was able to donate their passive regen to the ship’s stores, allowing them to slow the rate at which they burned through their energy reserves.
+
+Those reserves took a noticeable dip when their luck finally ran out and one of the trailing ships landed a direct hit.
+
+Being both oversized and over-Tiered, the shot knocked down their shields. It didn’t have enough energy to damage the hull but it didn’t need to. Chaotic space rushed in and tore at their ship's physical structure the moment the shields went down.
+
+The maintenance crewmembers got the shields back up and running in less than a second but the damage was done and their hull and external components took non-trivial damage.
+
+Almost immediately, they lost about three percent maximum speed from their engines as components were scared from their exposure.
+
+Even before their engines were damaged, they were only keeping ahead by burning a lot of mana and every hit that forced them to fully rebuild the shielding would drain even more.
+
+Their captain called out a few orders but their cannoneer and pilot were already perfectly in sync. Mostly their commands kept the rest of the crew busy and preparing for the worst case scenario.
+
+Matt did notice that their cannoneer was very good. That shouldn’t have been a surprise, given he was the best Lila’s guild had to offer, but he hit three out of four shots even through the other ships’ desperate doges. If they had been closer, or if they had comparatively stronger weapons, he would have taken both ships out on his own, but it took him two shots, hitting one after the other, to break their shields. He had done so to one ship twice, trying to force them out of the chase and give them some breathing room but the chasing ships had started cycling which ship led the charge instead of letting the Unsparing do as they pleased.
+
+They had been targeted by big fish.
+
+Not only big fish but a proper guild’s big fish.
+
+Despite being far more freeform, the various exploration teams could be ranked similar to the Realm’s various armies, with the more prestigious units, or rather exploration groups or guides, generally being stronger, better combatants, or just better equipped than comparable but less-well-known teams.
+
+Gladstone's Exploration Pack wasn’t a top-level group, but they were well established and had good ships, which meant with their five Tier difference between ships, they were close to being overwhelmed at the first mistake.
+
+Thankfully, Lila had continued to adjust her ship as she Tiered up and that meant, despite being made out of Tier 30 components, she had used the best she could steal or salvage off her enemies’ ships. That, combined with spending mana like it was free, kept them far enough ahead of their pursuers that they were still able to dodge most shots.
+
+They didn’t necessarily need or want a kill on their opponents but they needed to make it clear they weren't pushovers, even if they were lower Tiers.
+
+After talking it over, Matt and everyone else followed Allie and Zack as they headed to one of the hatches. He didn’t need to follow them but neither had anyone else and Matt didn’t want to be the only one sitting on the bridge.
+
+Opening the hatch exposed the other Ascender team to the remnants of chaotic space trapped in their fragile mana barrier but they easily healed through the acid-like damage.
+
+They had all practiced and could shut the door fast enough if the barrier went down and they were in real danger.
+
+Looking backward, Matt used his [AI] to overlay the pursuing ships for the duo, wanting to help where he could.
+
+Zack created a harpoon of deeply pearlescent swirling energy that screamed danger to Matt’s everything.
+
+Then, before they could ruin their own ship by letting the free-cast bomb detonate, Zack tossed it through Allie’s accelerator spell.
+
+An instant later, the arcane spell impacted the rear ship's shields with a bright explosion as it materialized in its shields with no warning at all, just a moment before the Unsparing’s own cannon fire arrived.
+
+Seeing the success, as large portions of the ship's hull went flying and both ships peeled off, Matt clapped Zack on the back, even as Aster grumbled to Allie who immediately started preening again.
+
+Not a combat-useful spell given how long it took even Zack to create, the arcane spear wasn’t meant to deal damage directly. Rather, it was a design Zack had come up with during his downtime after the war. Created with a specific mix of unstable combinations of mana, held together by his Talent, when they came in contact with mana shields, it caused utter and unadulterated havoc.
+
+The yet-unnamed spell wasn’t a shield breaker in the traditional sense, as those spells usually tried to overload the shield projector. Rather, the particular concoction of energies didn’t like homogeneous mana types and when it came into contact with something as uniform as a mana shield, they reacted violently, sending a wave of the arcane mixture through the rest of the shield, further destabilizing it.
+
+For all of its advantages, the spell came with a downside. Mainly that it didn’t affect the projector and the crew could reestablish the shields fairly quickly if they cycled them properly.
+
+Still, it had been enough and allowed their cannoneer to cause serious damage and the second Gladstone's Exploration Pack ship had chosen to save their comrades rather than continue to chase them down.
+
+Without running another set of divinations from their seekers, they were flying a little blind, but they still had some of the less valuable planets marked and chose another one of them that was deeper into the breach, hoping to get back ahead of the other guilds.
+
+Matt took the reminder of their relative power for what it was and made a note to remind everyone they needed to rein in their bravado before it cost them severely.
+
+That and he needed to encourage the rest of the crew to donate more mana so they could fly at their max speed longer without it looking suspicious.

@@ -1,0 +1,231 @@
+---
+id: abdec69a-67c4-534e-97e8-bb555f809230
+page-type-slug: story-chapter-royal-road
+title: "252 Energized"
+slug: 0211-252-energized
+partOf: the-new-world
+position: 211
+ownLength: 2946
+unit: words
+ownProgress: 2946
+publishedAt: 2020-04-18
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/483997/252-energized"
+royalRoadId: "483997"
+markedReadAt: "2026-06-29T21:28:13.520Z"
+---
+
+With our goals set, we walked through the dimensional rift. Pacing out onto a pale mountainside, a snowstorm whirled around us, the winds deafening. The crisp cold woke me up, the scientists shivering even through their lead-laden hazmat suits.
+
+Torix shouted over the howling tempest,
+
+"Excuse the scenery. This is one of the few locations that won't allow the eldritchified landscape to sink into our study."
+
+A strange, three-headed beetle crawled under Torix's foot. Torix stomped the insect below his heel, quashing it against the dark stone,
+
+"Ahem, mostly."
+
+Following behind him, Spear and I carried several rugged computers, measurement devices, and battery cases. Setting them down, the scientists got to work setting up the various equipment. Spear closed the gateway while I stood guard.
+
+As they did, the icy cold stung, melting over their heated suits. I lifted my hand, noting how it didn't feel even cool to the touch. If anything, it felt no different than the air. For the scientists, it made working the tech difficult, so Torix mouthed an incantation. Dark mana pulsed through his palm, creating a shield of shade that deflected the wind. It softened in color, turning semi-translucent, the blizzard bounding around the buffer.
+
+Using its protection, the researchers connected the power sources with the analysis devices. Not knowing much about any of it, I let them work. In the meantime, I stepped outside the barrier and inspected our surroundings. As I did, the view below the mountain top opened for my viewing pleasure.
+
+Vibrant forests miles below us covered the ground to the horizons. Upon closer inspection, I found wounds scattering the landscape. Mana pollution soaked into every region, pools of purple creating circles of dead trees in the forests below. The life on Giess struggled against silvers and eldritch alike, the battles below foreboding a grim reality.
+
+Giess was dying. Staring at the havoc, it seemed distant though not altogether unexpected. Lehesion burned through the planet's mana to fuel the rebellion's efforts. This would wreak havoc on the world's wildlife, and that meant the silver's infestation would spread. Combine that with the growing blots of mana pollution, and Giess was all but done for.
+
+The scientists behind me set out to stop that. Chemistry sets, Petri dishes, even Geiger counters sprawled out over cheap, plastic tables. It let them approach the inspection from a variety of angles. As they finished the set-up, I kept my eyes peeled for interruptions.
+
+I found a variety of eldritch creeping around, small vermin hiding in the snow. Some insects hid in gaps between the icy blanket, the cold unable to stop them. While harmless for us, they exposed how deeply the life of Giess now fell. Even the tops of mountains carried the classic signs of a fringe world.
+
+As I stared off in the distance, I spotted more signs of Giess's fall. Dozens of growing rifts created tiny plots of mismatched environments. Without the wildlife handling these infestations, Giess was ill-prepared for the interdimensional terrors. The only respite from the eldritch came from the forests of spires where the silvers thrived.
+
+Between both of those crushing forces, Giess drowned. It was a shame, but I didn't have time to mourn a dying planet. Using Event Horizon, I sterilized the area outside Torix's shield, stopping the insects from piling up. Ice beetles, foxes breathing out cold air, even an estranged silver or two came near. I culled them without much thought, the scientists trusting me in that regard.
+
+With the preparations complete, I paced back into Torix's protective barrier. On a metal stretcher, several sets of hands looked ready to inspect Lehesion's tail. I turned to those here,
+
+"Be ready for anything, alright?"
+
+Rob, Scotty, and Amanda gave me solemn nods, each of them ready for the worst. Torix stared with intent, his grimoire opened for quick access to spells in case of crisis. Spear whirled his dimensional slicers overhead, prepared to retaliate against whatever came nearby.
+
+The pivotal moment arrived, and I opened my dimensional storage. From it, I pulled out the chunk of Lehesion's tail, the flesh no longer radiating with his usual golden aura. As I set it down, it warmed my hands like a fireplace in winter.
+
+It showed no signs of life, so the scientist closed in after a few seconds. In a sudden spur of motion, the tail writhed, spazzing with abandon. I grabbed it, pinning it in place with a gravity wells and my hands. The aura soaked around the tail once more, Lehesion's presence growing.
+
+Torix gestured to the scientists, "Hurry. We've little time to work with."
+
+As they set up to work, the tail heated in my hands. A glow spread over it, the yellow aura turning blue. It grew more luminous before shining even brighter than a blue sun. Creeping out of it, a relentless, unknowable amount of energy coursed into the tip of the tail.
+
+Those around me panicked, but despite the blinding light, an insidious presence leaked out of the tail chunk. The presence merely whispered, yet it left my ears ringing with pain. Despite the volume, no one else reacted to the sound. They only reacted to the light.
+
+Blinded by the gleam, the scientists blinked in blindness, even my eyesight muddled. As my eyes healed, a warmth washed over me. It reminded me of what sunlight used to feel like. It intensified over the next few seconds, and the air hissed in my ears, squealing out in agony.
+
+At the same time, the Geiger counters rocked towards their maximum values. I turned towards them, finding them capped out at 10,000 roentgen. I stared at the device, a bit confused at the reading before one of the scientists stumbled. Torix howled,
+
+"Cover the tail."
+
+Shaking off my confusion, I wrapped my armor around the flesh chunk, my body molding over it in a second. The metal composing my body, ten times the density of lead, held in the glow. Carrying the irradiated mass in a pocket of dark metal, the blue shine ceased. Amanda stumbled forward, falling onto her knees. As she vomited into her glass facemask, Torix channeled a spell over the area.
+
+It lessened the warm glow from the tail, but it still singed my skin a bit. I winced, imagining the devastation it must be dishing out to the scientists. Rob and Scotty fell right after and vomited as they did. Turning towards the scientists, I found Spear taking a few steps back, even the Sentinel affected by the sudden burst of radiation. Torix and I stayed standing, only the two of us unharmed.
+
+In fact, Torix was less injured than I was. Having fire eyeballs, the guy wasn't blinded by the light. He already acted, rushing towards the scientist's aid. I tried doing the same. Several of them began convulsing in their suits, and I stared at them, helpless to heal their injuries. Torix flipped his grimoire, pelting several spells into the area. Healing auras smothered us, and their shaking stopped.
+
+Torix let out a sigh of relief, staring at the scientist below him.
+
+I murmured, "What the fuck just happened?"
+
+Torix checked a scientist's vitals using a spell,
+
+"They've suffered acute radiation poisoning. The tail might as well have been ten nuclear reactors all at once."
+
+Torix scrambled, a ball of activity,
+
+"Even with lead shielding, this level of radiation is toxic. It's as if we stumbled into the core of the sun without the heat it would emit."
+
+The lich sent a dozen messages before turning towards Spear,
+
+"Can you still cast your dimensional warps?"
+
+Spear held it together before nodding,
+
+"I am able."
+
+"Then we shall need a medical unit to offer them iodine and to wash them off. The sudden flash of radiation shouldn't have been fatal, given our medical resources."
+
+Torix turned towards me, "I will need you to pilot much of this machinery after they've left. Only the two of us are resistant to the radiation."
+
+I stared at the rows of nobs and dials, the machinery looking more like a monster than any eldritch,
+
+"Uh...ok."
+
+Around us, the eldritch beyond Torix's veil evolved. They mutated in an instant, assimilating the radiation at a moment's notice. Even the smallest beetles turned into a dog-sized abomination. Before they finished their disgusting reformations, I evaporated them with Event Horizon.
+
+I frowned, "So that's why Schema doesn't like nuclear weaponry? Yeah, it makes sense."
+
+Spear cleaved through dimensions as he gasped in exhaustion. From the portal's opening, the industrial bay of Mt. Verner buzzed with activity. Torix organized a unit of medical personnel before we began. Spear couldn't stand any longer, the remnant unable to endure the exposure. Torix pulled the Sentinel's arm over his shoulder and lifted him up. Spear stared at Torix as the once frail lich pulled him to safety through the portal.
+
+I pulled the rest of the scientists out using gravity wells. Torix turned towards the medical personnel flooding the scene. Workers peered at the crisis from afar as Torix shouted,
+
+"Remove their clothing and have them washed. We must limit their exposure to radiation." He mouthed spell, a shield passing over those present, "That shall prevent those present from being irradiated, though everyone will need decontamination at some point."
+
+As the stretchers came unto the scene, I stood surrounded by the equipment we intended to use for inspection. With Lehesion's tail tucked in a ball of metal beside me, walking through the portal wasn't an option. The radiation might harm the people there, and it could give away our location too. If the tail came to life, then it may escape as well.
+
+Walking through the veil wasn't worth the risk, but it still stung, watching the scientists be carried away. I waited there, minutes stretching on like tiny eternities. After a while, Torix walked through the dimensional slice. He sighed,
+
+"They've administered the iodine and Prussian blue. They shall live, though they'll likely need to get used to new hairstyles, no doubt."
+
+Torix pointed at the portal,
+
+"The research must continue despite this crisis. We'll need to cover this space with a panel of your armor. It shall prevent the enormities of radiation from leaking onto Mt. Verner."
+
+I began shredding portions of skin from my arm, the injuries healing in seconds. As I did, Torix walked over and put a hand on my shoulder,
+
+"Your suggestion to keep the research elsewhere besides for Elderfire and Mt. Verner saved dozens of lives. That was an excellent use of foresight."
+
+I molded the dark metal, using quintessence to melt it. After hovering it over the circular warp, I created a wall of metal over it, curving it around the warp. I turned to Torix,
+
+"I just know I can't heal people, so I have to think more carefully about this kind of risk. Otherwise, people will just die around me. In the end, I will always be the final survivor, and the last thing I want is to be standing on a mountain of corpses. My friend's corpses."
+
+Torix stared down at his own hands, "Ah...Perhaps I will be similar given time. This new body's resilience is the only reason I didn't vaporize instantly. We're fortunate that we prioritized the creation of this new body over researching the tail."
+
+Torix pointed at my ball of metal by my side, "Speaking of which, it's contained in that bulb?"
+
+I nodded, grabbing it in one of my hands like a metal basketball. Torix sighed, "Let us inspect if it is researchable still."
+
+I grabbed the armor and jerked. A tear opened, releasing a plume of blue light. It was as if a star stored itself within, the light bright enough to pierce the clouds above. Torix paced over towards a table, picked up a dosimeter, and put it over the pillar of blue light. Torix winced,
+
+"That blue light is the Cherenkov effect. I doubt the electrical equipment will hold up with these levels of radiation. This will require good old fashioned magical inquiry."
+
+Torix picked up a scalpel and a petri dish, aiming to gain a sample. I pulled most of the tail hunk out, the light blinding. As Torix walked back over, the scorching warmth faded from my hands. The evanescent light waned, along with the tail's structure.
+
+Some kind of self-destruction began, and the tail melted. Before it finished, I drilled tendrils of my armor into it. Draining it, I devoured the nanomachines spread throughout the chunk. It wasn't enough. Torix attempted taking a sample, but the flesh hunk, along with the energy it carried, degenerated into mush.
+
+I kept the golden mush in a gravity well, preventing it from soaking into the snow and soil below. Torix took a sample of it and tried analyzing it, but the lich cursed as he viewed it,
+
+"This is patently absurd. To think they'd create self-destructive implants throughout the tissue." Torix grabbed the petri dish, smashing it into the stone below,
+
+"It's useless. All of it. Dammit it all."
+
+We stood there for a moment, the wind howling outside Torix's bubble,  muffled like music from behind a building. The muted blizzard only made the moment worse as Torix shook his head,
+
+"I had hoped to discover our enemy's greatest weakness. Instead, I've hospitalized three of our best workers, along with over a hundred thousand credits worth of equipment."
+
+He sat down onto the stone below, letting himself flop down. He crushed stone to powder, so I followed suit. I didn't let myself slam down like he did. Otherwise, I might cause a kinetic explosion. Torix stared down,
+
+"Bah, this isn't my first failure, though it still carries a familiar sting. We've gained nothing from this golden opportunity."
+
+I pulled up the golden blob that once was Lehesion's tail, "Hah, golden."
+
+"You're not helping."
+
+"Sorry." An awkward moment passed before I pointed at the blob, "What do you want to do with this?"
+
+"Dispose of it how you will. There was no recognizable cellular matter within the petri dish, and the radiation has left it utterly. It is but a liability given it no longer offers anything of value. Even the nanomachines self-destructed."
+
+I sighed, using my armor to drain it. At the very least, it carried an enormous amount of mana. Feeling the extra weight, I leaned back,
+
+"Well, that sucked."
+
+Torix nodded, "Indeed."
+
+We waited for another moment. I shook my head,
+
+"Man, why in the hell was Lehesion letting off that kind of radiation? Why did the tail connect with him as well, even from this distance?"
+
+Torix scoffed, "Perhaps they wished for a clean source of energy."
+
+He and I laughed, but mostly to defuse the shitty situation. As our pity laughter died down, I sat up,
+
+"Wait a minute...I mean, they actually might be doing that."
+
+Torix's blue, fire eyes sparked white, the flames building in his hollowed sockets,
+
+"By Schema, you might be right."
+
+He stood up, walking back and forth, "Now that I'm dwelling on the matter, this was by no means a true failure. There is much to learn, though it may be through inference and deduction rather than observations alone."
+
+I pushed myself up, not quite as excited as he was, "I guess, though it won't be as concrete we hoped."
+
+Torix lifted his hands, "For some of the information, perhaps, but some of our deductions will be based on fact. The first of which is that mana is coursing through Lehesion."
+
+I pursed my lips, "Didn't we already know that?"
+
+"The difference is in the sheer scale of the event. Think about it. The amount of mana contained within that tail dwarfed all the mana on Giess combined."
+
+I raised my eyebrows, "What? Really now?"
+
+"As hard as it may be to fathom, it's true. If the rest of Lehesion mirrors that state-"
+
+I spread out my hands, "The guy's a living supernova."
+
+"Precisely, perhaps even greater. It would rival cosmic events with the sheer scale of mana being produced and filtered through him."
+
+I grimaced, "The kind of mana needed to take down a spatial fortress?"
+
+Torix shook his head, "No, the kind needed to evoke a cosmic event which far outweighs the energy required for something simple as taking out a spatial fortess."
+
+My stomach sank, "What in the hell would they even need that kind of energy for?"
+
+"I've no idea, but we know they have it. That alone is valuable."
+
+"Well, we also know they can produce that kind of energy too."
+
+"Precisely so. If the Adair Family managed to recreate novas worth of mana, then they've connected Lehesion to a far greater power source than Giess alone. The question lies in what exactly could supply that level of energy."
+
+We pondered possibilities for a bit. I recounted the radiation and what it felt like. Memories of the malevolent presence returned, and with it, a cold wave of dread. That fear washed over me like jumping into an icy lake. I shook my head,
+
+"They...they couldn't have. That's impossible."
+
+Torix tilted his head, "What couldn't they have done?"
+
+I blinked, my heart racing in my chest. When the tail first ebbed blue, my ears were left ringing. It was like a quiet explosion. It reminded me of a booming voice I'd heard before. I pondered aloud,
+
+"They...they might be using Eonoth somehow."
+
+One of Torix's fiery eyes expanded as if he was raising an eyebrow,
+
+"Eonoth? Perhaps I've forgotten who that was, though it sounds familiar."
+
+I stared where the tail once was,
+
+"An Old One. They might be using an Old One."

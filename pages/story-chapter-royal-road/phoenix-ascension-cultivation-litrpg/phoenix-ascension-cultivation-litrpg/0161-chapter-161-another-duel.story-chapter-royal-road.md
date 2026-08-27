@@ -1,0 +1,201 @@
+---
+id: 07eb995e-71f2-576a-85b7-0bb9e63ec9d0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 161: Another duel"
+slug: 0161-chapter-161-another-duel
+partOf: phoenix-ascension-cultivation-litrpg
+position: 161
+ownLength: 2048
+unit: words
+publishedAt: 2026-08-11
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3798740/chapter-161-another-duel"
+royalRoadId: "3798740"
+---
+
+The air went quiet for that one moment when Lei Bai spoke. All the Qi in the area gathered toward his ‘Brush’ character, becoming stronger and fiercer than before. The pressure rolling off of it in waves was greater than I would have expected from a mere Qi Condensation disciple.
+
+Lei Bai, for what it was worth, was a powerful cultivator of his own level, and I was sure that he would achieve many things in the future.
+
+As the technique reached its peak, Lei Bai let out a ferocious roar, his voice turning coarse.
+
+When there was no more Qi to absorb, or it couldn’t absorb any more, the character hummed violently as it began breaking off into countless pieces.
+
+Upon closer inspection, all those pieces had turned from the ‘Brush’ character into many sorts of attack-type words.
+
+‘Slash’, ‘Pierce’ and ‘Thrust’ being the simplest, with some five to six character phrases being thrown into the mix.
+
+They weren’t fully fledged poems, far from it in fact, but they were effective.
+
+Peng Li’s pupils constricted as he watched all of those attacks rush toward him like a gushing stream.
+
+He only had a few moments to react before all of those characters would turn him into a paste. The power behind those characters was no joke.
+
+Each one of them seemed to have some laws corresponding to the type of attack. There were many attacks from many different weapons.
+
+Some were from swords, spears, halberds, or bows, while others were a little stranger, such as whips, razors, and daggers.
+
+However, no matter what weapon it was supposed to imitate, each character’s laws, while minuscule, accumulated to a point where it would pose a threat to many people.
+
+I was wondering how Peng Li would deal with such a crushing attack.
+
+Needless to say, I was not disappointed.
+
+Before a moment could pass, Peng Li had made his move.
+
+Raising his sword forward, he’d used a new technique I’d never seen before, as Qi gathered around the blade.
+
+It was also stealing away the Qi from Lei Bai’s attack while also corroding anything it came in contact with. If air could rot, it would have as well.
+
+A foul odor filled the area, and as Peng Li released some of the Qi, it was already corrupted.
+
+Lei Bai’s spell absorbed the corroded Qi, which made it not only lose its effectiveness, but it got literally poisoned.
+
+Character after character, sentence after sentence disappeared, and the technique became unstable as it was unable to support itself.
+
+Some of them still managed to hit Peng Li, though. A ‘Thrust’ pierced his leg and a ‘Slash’ cut across his arm. Blood gushed out everywhere, dyeing the arena floor with blood.
+
+When the ‘Cleave’ character fell on him, and a giant axe appeared out of thin air, I thought he would be done for.
+
+However, he dodged the fatal attack just in time as it hit his shoulder, and the affected arm went limp.
+
+He held on tighter to the sword, which devoured every bit of available Qi with an insatiable hunger. More and more of the corrupted and rotten Qi entered Lei Bai’s technique, and even Lei Bai himself.
+
+Peng Li took that moment to attack as he slashed with the sword, its blade extending to over thirty times its size.
+
+It destroyed any characters it came into contact with, rotting them away and forcing them to disappear while advancing ruthlessly.
+
+Lei Bai was too weak to fight back; his technique was going to disappear, and he would run out of Qi.
+
+It was a shame.
+
+Lei Bai’s spells were interesting and very entertaining to see, but he just couldn’t get on the same level as Peng Li.
+
+He’d used such a simple technique to drain Lei Bai’s spell and used the opportunity when he was exhausted to cause him to make a mistake.
+
+That one single mistake cost him the match.
+
+Peng Li’s Qi sword pierced right where Lei Bai’s heart was, and although he didn’t die, he wasn’t far from it.
+
+Blood seeped down his lips as he coughed up a mouthful of blood. The characters around him disappeared, and he fell to the ground.
+
+The fight ended.
+
+Peng Li watched Lei Bai collapse, although he didn’t look any better. The grip he had on his sword tightened; it was clear that he wasn’t happy about the win.
+
+Thoughts such as ‘I should have finished this faster.’ Or maybe ‘How could such an inferior man be so strong?’ must have been flowing through his head in that moment.
+
+Peng Li looked really angry, and I was glad to see that he had the stereotypical young master attitude.
+
+It would make kicking his ass in his own sect that much easier.
+
+◈◈◈
+
+The next fights weren’t nearly as entertaining as the one Peng Li was in. Right after the arena got cleaned of blood and Lei Bai was taken to get his wounds healed, the elder that announced the fights spoke again.
+
+He was hesitating a little, looking around until the patriarch gave him a firm nod.
+
+The elder took a deep breath and announced that number fourteen, Shi Wei Don, and number three, Pei Hua, would be fighting.
+
+I was a little interested in the Pei Hua woman, but not awfully so. She had a trace of my kin’s bloodline, but something like that couldn’t be considered rare.
+
+Especially not if they have a feather or essence blood. The quality and quantity all depended on the strength of the giver, though.
+
+And yes, one could not just ‘acquire’ a bloodline like that. It had to be given by the Spirit Beast via some sort of ritual.
+
+I took part in such a ritual… once.
+
+It didn’t go well, to say the least.
+
+But that was all in the very distant past. At the moment, I wanted to know if this woman was worthy of bearing the bloodline.
+
+If she wasn’t, I would find whoever gave it to her and kill them myself. How could they dare to give something so precious if someone wasn’t worthy?
+
+Though seeing that it was so thin, maybe it was inherited from her mother or father. It was entirely possible, but that also meant that it was unfortunate.
+
+Without a powerful parent to boost the bloodline gifted, then the child would have an inferior version, and then their child would have none if any at all.
+
+It was a shame, but that was simply how the world worked.
+
+The fact that Pei Hua had made it so far in her cultivation was impressive, but I couldn’t help but wonder how much of that was the bloodline helping.
+
+If it even did.
+
+Shi Wei Don was another member of the Golden Claw Sect, who looked like a lion- go figure.
+
+When the fight started, he rushed straight toward Pei Hua. She dodged skillfully in the very last moment, avoiding a claw attack with enough strength to sever her shoulder.
+
+The moment she got the opportunity, she summoned a set of familiar, yet very weak flames.
+
+Phoenix Fire.
+
+She shot it toward Shi Wei Don without any technique, but it had a good amount of strength behind it.
+
+The man’s… hair, mane thing caught fire, but it was clear she didn’t do any damage to him.
+
+However, as the fight went on, she’d gotten more daring. Summoning flames at his feet, behind him, or pushing him into them.
+
+She used a coward’s technique to dodge and to bait Shi Wei Don into dealing damage to himself.
+
+The way of the Golden Claw Sect was very direct and violent, which meant that he didn’t wait to act, and did so before thinking.
+
+Being a dumb muscle brain had its advantages, but in such a duel they were almost negligible.
+
+Pei Hua kept her distance until Shi Wei Don ran out of Qi, and that was that. He couldn’t fight anymore, and she was declared victor.
+
+Another fight ended just like that. I was a little proud of her, to be fair; it wasn’t every day you met someone who used Phoenix Fire… Unless they were a Phoenix.
+
+Her existence was also a reason not to reveal my flames. Once they sniffed them, they would figure out that something was fishy, and I wasn’t about to have that.
+
+There was very little excitement about this fight, though. When Pei Hua won, she returned to her side and started meditating.
+
+I nodded in approval and did the same, waiting for the next round to start.
+
+Since I was in a preliminary round, there was a high chance I would need to fight twice in the same day, which was fine.
+
+It wasn’t like any of them were a challenge. Maybe Peng Li, but even then, I’d already planned a strategy against him.
+
+It would work well on him, and even better on anyone else.
+
+Right after her were number ten, Jiang Chi, one of the twins, and number seven, Qi Rian, the strange Spirit Beast man.
+
+I was a little eager to see how he was going to fight, honestly. The Qi in his name reminds me of the Qilin elder that Meng Mao knew, but it would be ridiculous if every Qilin had the surname Qi.
+
+At the same time, the only other thing I could think of was spirituality, and… Qi Rian wasn’t the most spiritual person I’d met.
+
+They did the bowing routine and started the match.
+
+Qi Rian went in strong with a powerful punch that barely missed Jiang Chi, although it didn’t seem like that to my eyes.
+
+Much like any movement technique user, each action was deliberate. There wasn’t any waste of energy allowed, and it seemed that Jiang Chi was pretty good at that.
+
+He was also cheating, though. Sapping Qi from his sister while using a special technique in a duel should have been cheating by technicality, but since the judge hadn’t said anything…
+
+I was just going to enjoy the show.
+
+Unlike the Golden Claw Sect members, though, Qi Rian did have some thought behind his attacks. After seeing that none of his attacks hit the mark, he’d stopped and started thinking.
+
+I could basically see smoke coming from his brain.
+
+Unfortunately for him, whatever the Qi link between the twins was doing had finished, and Jiang Chi went on the offensive.
+
+With a thunderous step, he arrived in front of Qi Rian and unleashed a series of strikes that hit every weak point. By the time he was gone, the Spirit Beast in disguise had a total of sixty-four marks, and he collapsed to the ground in a puddle of his own drool.
+
+My pupils contracted when I saw that move. It was very familiar to a blind monk I saw, almost one-to-one, actually.
+
+I didn’t think about it before, but maybe this world and my old world were more connected than I’d originally believed…
+
+Putting that aside, since there was nothing I could do about something like that anyway, I waited for the next fight.
+
+There really wasn’t anything to do in the meantime, and Meng Mao would probably have a heart attack or heart demon if I were to go train alone anymore.
+
+So the only thing I could do was watch. The only issue I had with the previous fight was just how short it was, as there were no flashy techniques. Although the Heaven Cloud Sect had some interesting techniques, and was definitely worth looking into. I had no intention of joining any sect, and I wanted to deal with humans as little as possible now.
+
+I’d had enough of them; they were starting to irk me.
+
+Plus I had to go see father, and from what I’d gathered, he was part of some powerful clan or coalition. He had to be, as Mother wouldn’t mate with just anyone; that much was for sure.
+
+As I was having random thoughts, my name was called out. Everyone’s gaze turned toward me, and I had no choice but to walk onto the stage.
+
+Seriously, everyone looking at me was so creepy!
+
+In the arena, I met my opponent. Someone from Pei Hua’s sect, number two, Ling Zhi.

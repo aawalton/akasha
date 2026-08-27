@@ -1,0 +1,283 @@
+---
+id: c7f05b05-3067-5dc3-abbe-534da30b8e75
+page-type-slug: story-chapter-royal-road
+title: "Chapter 616 - Is He Okay?"
+slug: 0616-chapter-616-is-he-okay
+partOf: mythrans-master-of-all-continued-completed
+position: 616
+ownLength: 2950
+unit: words
+publishedAt: 2018-06-22
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/226687/chapter-616-is-he-okay"
+royalRoadId: "226687"
+---
+
+It was just a normal day, pretty much the same as every other day, then a 'thwip' sound was heard. A webline shot out and snagged onto a nearby building, and a dark figure swung through the night. He used the building as a launching point and flung himself across two streets and over another building before he shot another webline to snag a billboard not far away.
+
+Spider-Man swung underneath it and propelled himself up into the air to give himself a better vantage point, then decided what to swing from next. He was wearing his black costume with the white spider emblem on the front, because tonight he had a special meeting to get to.
+
+I really hope Black Cat is ready for what I have planned. Spider-Man thought as he swung from a webline attached to a fire escape's railing. Her sex drive gets so ramped up when she's fighting thugs.
+
+He smiled under the mask and his speed increased as his anticipation grew. He heard a scream from the street below him and didn't shoot another webline. He dropped down at the speed of gravity plus his momentum, and shot a webline at the streetlight at the last second.
+
+His spider-sense went off and he pulled on the web, did a twisting flip and dodged the knife as the purse snatcher tried to fend him off. He landed and webbed the knife and the guy's hand, grabbed the guy by the collar and tossed him up into the air. He quickly shot several webs between the building and the light to catch the guy, then pulled the purse out of the criminal's hand.
+
+Spider-Man casually walked over to the startled woman and handed her back her purse. “Here you go, ma'am.”
+
+“Thank you.” She said, and Spider-Man shot a webline up to the top of the building and pulled.
+
+Black Cat is so sexy. Spider-Man of Marvel Universe 616 thought as he swung through the night. I can't wait to...
+
+*COUGH* *COUGH*
+
+(Author's Note: I took that 616 joke a bit too far, especially for non-comic book fans. LOL
+
+I was tempted to have it be a delusion of Ren's while he was unconscious; but, I changed my mind. Let's get on to the actual story instead, shall we?)
+
+*COUGH* *COUGH*
+
+“Owww.” Ren said and tried to lift his hand to rub his very sore chest.
+
+“Don't move.” Denise said and caught his arm.
+
+“Fainting shouldn't hurt this much.” Ren said. “What happened?”
+
+“Ren, you didn't faint.” Denise said and clicked her fingers off to the right. Ren glanced that way, and she did the same off to the left and he looked there, too. “You had a stroke.”
+
+“No, I didn't.” Ren said, and the women around him exchanged glances.
+
+“Ren, just stay still.” Elise said through her happy tears. “The ambulance is on it's way.”
+
+“I couldn't have had a stroke. If I did, then I wouldn't remember some things because I'd have some brain damage, right?” Ren asked.
+
+Denise nodded. “Brain cells die during a stroke because the blood flow to the brain is interrupted long before any symptoms appear.”
+
+“Well, I felt fine right up until my arm started to tingle, and I feel fine now.” Ren said. “How long was I unconscious?”
+
+“1 minute, 27 seconds, from the time I got the call.” Denise said.
+
+“So, taking into account Gloria's reaction time and the time it took for you to pick up the phone, let's round it up to two full minutes.” Ren said. “A stroke victim wouldn't be awake so soon, let alone talk properly.”
+
+Denise's eyes widened. “I'll be right back!” She said and hopped up off the floor and ran to the bathroom. Elise, Barbi, and Gloria watched her disappear for only a few seconds and she was back in view with a small medical case. She came back over to Ren and dropped to her knees, popped open the case, and it was full of little vials of liquid.
+
+Denise searched frantically for what she needed and picked up the vial. “Close your eyes, sweetie.” She said and Ren closed them without hesitation. She prepped a syringe with one hand and took out some of the liquid, pushed the plunger slightly to squeeze the small bit of air out, then carefully injected Ren in one of the large blood vessels in his neck that went directly to his brain.
+
+“Ow.” Ren said.
+
+“I'm sorry I had to do that.” Denise said and leaned over him to give him a kiss on the lips. “Now that I know what happened to you, I had to start the treatment for it right away.”
+
+“For what?” Ren asked.
+
+“TIA.” Denise said.
+
+Elise, Barbi, and Gloria all had confused looks on their faces, but Ren's eyes widened.
+
+“Oh, damn.” Ren sighed. “It was a stroke after all.”
+
+“What's TIA?” Elise asked.
+
+“It stands for Transient Ischemic Attack, or in layman's terms it's a mini-stroke.” Denise said. “Instead of a full blockage that a stroke would entail, that causes massive damage to brain cells and potential hemorrhages, there was only a small temporary blockage for a few minutes that caused similar effects.”
+
+“But... how...” Elise tried to ask.
+
+“I can take a guess and say it was because of his seizure the other day, but that's just a guess.” Denise said. “I think that broke loose a lot more than just your memories.”
+
+Ren tried to take in a deep breath and gasped instead. “Why does my chest hurt so much?” He asked. “That's not a stroke symptom.”
+
+“Ren, your heart stopped.” Denise said, and he blinked his eyes at her. “I had to do strong chest compressions to keep your heart pumping.”
+
+“Well, I guess that explains it.” Ren said. “I think you can cancel the ambulance.”
+
+“No, we can't.” Denise said. “You're going to the hospital and you're getting a full diagnostic to see if there are any other potential life-threatening things in there.” She said and tapped his forehead with a finger. “This time we were very lucky. Once you have one, no matter what kind, the risk is very high for another.”
+
+Ren sighed. “I wanted to go back into the game.”
+
+“It's not back online yet.” Barbi said, and everyone looked at her in surprise. “According to the rumors on the other gaming boards and Ren's fan site, something has delayed it.”
+
+“They should have just used the last backup for...” Elise stopped talking and thought about the timing. “Barbi, when did it shut down?”
+
+“Close to 2 am.” Barbi said.
+
+“Oh, boy.” Elise said.
+
+“What is it?”
+
+“The shutdown might have interrupted the latest backup.” Elise said. “If they have to use the backup from the night before, they could lose up to 4 game days worth progress.”
+
+“It updates the backup every night?” Ren asked, and she nodded.
+
+“We couldn't schedule it for more than that because there's too much to keep track of, and the servers would be going all the time if we backed up after every game day.”
+
+“Oh, man.” Ren said. “If they revert it back...”
+
+“Game-wise, everything you did for the last 4 days will be like it never happened.” Elise said.
+
+*
+
+“I don't understand these glyphs.” Edward Torren, the CEO of Sid Tec said.
+
+“Me, either.” Max said. “But, according to the skill information files, an enchanter can combine symbols or make his own to achieve results.”
+
+“So what did he do?” Edward asked again.
+
+“It took my search algorithm a while to find this in the game footage.” Max said and sent him another video file, and Edward played it.
+
+**
+
+“If I hang these around the building, I can create an artifical Aura.” Onscreen Ren said. “If it works, people that work for House Neram will gain experience while they work for the house while they are inside it.”
+
+**
+
+Edward turned off the video and smiled. “That damn crazy genius.”
+
+“You see? He did it intentionally!” Max said.
+
+“Max, according to the map of the call functions you gave me, Ren enlarged his Aura and covered the Human Kingdom and half the High Elven Kingdom!” Edward said. “That covers a good portion of the continent, and all on the sea side where the update would be accessed even more quickly!”
+
+“Yes! He crashed the system!”
+
+“No, even your own analysis says it was the player inquires after the update failed that caused the cascade.”
+
+“It was still his fault!” Max said. “If he hadn't...”
+
+“Elise warned us, remember?” Edward said. “She came here personally and...”
+
+“That doesn't matter!” Max said. “The data recovery on the last backup is done, but I don't want to start the game up again because the same thing is going to happen!” He exclaimed. “Don't you see? We're stuck!”
+
+“Then what do you recommend we do?” Edward asked.
+
+“I've already got half the team working on putting a bottleneck on the call functions, and the other half is expanding the help libraries for both the Water Works update and the main help system.”
+
+Edward thought about the division of labour. “Who's working on fixing the update?”
+
+Max looked at him blankly.
+
+“We have a golden opportunity to fix the glaring mistakes in the update.” Edward said. “You can see that, right?”
+
+“We can't just rewrite the entire update.” Max said. “It'll take a week, maybe more.”
+
+“No, don't rewrite it. I want a new update made to patch the errors.” Edward said.
+
+“But...”
+
+“Don't give me that baloney about taking weeks.” Edward said. “I know full well a patch can use previous files in different ways, and that's barely a few hour's work, especially if the whole tech department is working on it.”
+
+“But...”
+
+“It's all right. You don't have to worry about it.” Edward said. “Now that you've given me all the evidence required by the lawsuits, I think we are done here.”
+
+Max sighed with relief and stood up. “I'll get back to the tech department and start...”
+
+“No, Max.” Edward said. “I warned you before that if you interfered with Ren Haddon again, I'd fire you.”
+
+“Wh-what?” Max stared at Edward like he had two heads. “You can't be serious.”
+
+“Unfortunately, I have to be.” Edward said. “Not only did you divulge privileged client information to a third party for public dissemination, you also falsely accused them.”
+
+“It wasn't false!”
+
+“This company is being sued because of your stupid and irresponsible mistake, and I can't have you working for me anymore.”
+
+Max scowled at him. “I helped build this company! I wrote nearly all of the code for everything this company has ever done!”
+
+“Yes, and look where it got you.” Edward said calmly. “You're so full of yourself that you believe that you have a say in the matter.”
+
+“I own 10% of this company!”
+
+“Yes, and if you hadn't sold me the other 25% you had two years ago, we would be on equal footing right now.” Edward said and smiled. “How is the 40 foot boat doing these days? The fancy house? The luxury car?”
+
+“You bastard.” Max grumbled.
+
+“In business terms, I think this would be a 'hostile' takeover.” Edward said. “Although, I'm not an outside entity trying to take over, since I already have controlling interest.”
+
+“You can't do this!”
+
+“Did you really think that giving out anyone's name, let alone his, and stating they caused the game shutdown, wasn't going to get you in trouble?” Edward asked. “Don't make me laugh.”
+
+Max stood there and glared at the other man. “I thought we were friends.”
+
+“We are friends, but friends have certain obligations to each other.” Edward said. “I've let your bumbling mistakes go over the years, mainly because their impacts were negligible in the long run; but this...” He sighed “I can't let it slide, Max. Not this time.”
+
+“Then suspend me without pay or something.” Max said. “You can't just...”
+
+“It's already done.” Edward said and hit the intercom button. “Are his things packed?”
+
+“Yes, sir. Security is waiting by the door with the box.”
+
+“Thank you.” Edward said and let the button go. “Goodbye, Max.”
+
+Max took in a long breath through his nose and let it out through his mouth. “If you think...”
+
+“I've already got a tech team removing all company bought equipment from your house.” Edward said. “Any personal files will be put on a removable storage drive and delivered back to you.”
+
+“You have no right to enter my house!” Max exclaimed.
+
+“I have to sever all ties to you because of the lawsuits, Max.” Edward said, sadly. “I can only hope that the lawyers will go easier on the company if you are long gone by the time it gets to court, or they let me settle.”
+
+“Fuck you!” Max said and stormed out of the office. The two security guards escorted him to the front door of the building, passed him his small box of personal items, and shut the door behind him.
+
+*
+
+The ambulance came a few minutes later just as Barbara and Donald came in, too. Barbara remained calm as the EMTs checked Ren out while Denise told them everything that happened. They praised Denise for her quick thinking and for keeping a cool head as she performed both life-saving procedures, then they loaded Ren onto the stretcher and took him out of the room.
+
+“I'm so glad this place has an elevator.” One of the EMTs said. “These stretchers are a bitch to carry up and down stairs.”
+
+No one said anything and they pushed the stretcher into the elevator. The two EMTs were alone in the elevator except for Ren, and everyone else walked down the stairs to meet them at the bottom. They loaded him into the ambulance and only one person was allowed to go with him.
+
+“Go with him, Denise.” Elise said and took out her keys. “We'll follow right behind you.”
+
+“Elise...”
+
+“You saved his life, and if anything else happens, I want you there for him.” Elise said adamantly. Denise put a hand on her arm and nodded, then climbed into the ambulance with Ren. The ambulance drove away and the Hummer H2 with Elise, Barbi, Donald and Barbara followed it.
+
+Barbi had already sent texts to Stella and Lisa about what had happened to Ren and that he was fine. They were going to the hospital for a checkup and would be back later, or they could meet them there.
+
+*
+
+Gloria stood in the driveway and wasn't sure what to do. Ren had just collapsed in front of her, and it hurt her to see him so helpless, especially after seeing how capable he was in the game. She stood there and watched the two vehicles drive away, and when they were out of sight, she took a deep breath and let it out, then decided what to do.
+
+“I need to get to work.” Gloria said and walked over to her car, got in, and drove down to the gate. The guard there let her out without any fuss, and she sped down the road towards her day job at the garage. She had completely forgotten about all of the paperwork that was still on the table in Ren's room, which included her severance check.
+
+*
+
+“Ren!” Lisa said as she read the texts Barbi had sent. “Stella, we need to go!”
+
+“No, we don't.” Stella said.
+
+“He's hurt!”
+
+“Denise did the right thing and administered the proper drugs for a TIA, and they are only taking him to the hospital to make sure there is nothing else there for us to worry about.”
+
+“But...”
+
+“We need to get food.”
+
+Lisa frowned and put her phone away. “How can you ignore this?”
+
+Stella turned to the younger woman and put her arms around her. “Hey, it's okay.”
+
+“No, it isn't.” Lisa said and her tears flowed. “We almost lost him, and we weren't even there for him!”
+
+“Lisa.” Stella said with a stern voice, and Lisa looked up at her face. “No matter where we are and no matter what we are doing, there is always a chance Ren might be hurt or injured.”
+
+Lisa caught her breath and put her arms around Stella.
+
+“That's why we always have someone nearby for him, so that when anything happens, a trained professional will be able to take care of him.”
+
+“But... but...”
+
+“I know it's hard.” Stella said and hugged her tightly. “My heart hurts for him, just as much as yours does, but he has people there to watch over him and to be there for him.”
+
+Lisa hugged her back just as tightly.
+
+“Let's get the shopping done and make sure that we take care of Ren's other needs right now.” Stella said. “He needs us to do what we have to do, so he can be safe in more ways than just physically.”
+
+“I... I think I understand.” Lisa said.
+
+“Good.” Stella leaned down slightly and gave her a quick kiss on the lips. “You push the cart and I'll toss the rest of the items in.”
+
+“O-okay.” Lisa said, her face slightly red. Stella let her out of the hug and grabbed an item off the nearby shelf. Lisa went behind the cart and took the handle with both hands, and Stella smiled.
+
+“Shopping speed round!” Stella said and tossed the large can of tomatoes into the cart. “Try to keep up!”
+
+Lisa smiled as Stella took off at a jog, and she pushed the cart much faster than she had ever pushed a cart before.

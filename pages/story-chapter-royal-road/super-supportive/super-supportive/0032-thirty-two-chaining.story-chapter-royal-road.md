@@ -1,0 +1,311 @@
+---
+id: 918f5e3d-2fc0-50e5-971b-36899ae6c41f
+page-type-slug: story-chapter-royal-road
+title: "THIRTY-TWO: Chaining "
+slug: 0032-thirty-two-chaining
+partOf: super-supportive
+position: 32
+ownLength: 4034
+unit: words
+publishedAt: 2023-05-01
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1198333/thirty-two-chaining"
+royalRoadId: "1198333"
+---
+
+Over the next few days, Alden grew more comfortable with his new routine.
+
+The sleeping capsule woke him up with a false sunrise each morning, and his interface gave him his task list for the day. He always had around an hour and a half of personal time before he had to be at the lab for the first exam session.
+
+He hid out in his pod until the last minute, taking advantage of the privacy and the temperature control. He ate whatever snack he’d stashed the night before, thought over the lesson he’d had with Joe the previous evening, and got in touch with his friends.
+
+Their time was out of synch, so for the past two mornings his call had reached them when they were in class. Only they never were in class. Somehow they always both managed to be standing out in the faculty parking lot when he called, even though he’d suggested that they just let him text them an update.
+
+He thought it was only half to assuage Jeremy’s nerves. Boe just enjoyed seeing how often he could manipulate teachers into letting him do whatever he liked.
+
+Everything seemed to be going well at home. Aunt Connie wasn’t wise to his absence. The school thought he had a severe case of mono. And his friends were busy planning out Alden’s future for him.
+
+They were spending way too much time researching high schools and personal trainers on Anesidora considering the fact that they themselves would never be taking advantage of those things.
+
+He started to tell them not to do it. He was really looking forward to figuring it all out for himself as soon as he got home. But it wasn’t like they were taking something away from him, and they were having fun. Boe was particularly interested in finding ways to spend every single dime of Alden’s money.
+
+He’d begun by suggesting fairly normal purchases, but now he’d moved on to more creative things.
+
+“I’m not ready to try experimental gene editing on myself, thanks,” said Alden on his fifth morning at LeafSong. They were using voice-only today. While they talked, he was making an effort to stretch in the confined space of the capsule.
+
+“Where’s your sense of adventure? You could be a super superhuman if you just paid this guy to inject you with the stuff he made in his attic.”
+
+“Uh-huh. I like Jeremy’s suggestion better this morning.”
+
+“Right?!” Jeremy said. “It’s almost a million per year, but you get customized meals, healer access, and a chauffeur.”
+
+He was talking about the amenities at a fancy, all-inclusive apartment complex in F-city.
+
+“He should cook for himself and walk. On legs with genetically superior musculature.”
+
+Alden laughed. “I’m going to go broke just making these phone calls every day. You two go back to class. Talk to you again tomorrow.”
+
+“Wait a minute,” said Boe. “I have info about the sailor Rabbit.”
+
+It took Alden a second to realize he meant Manon. They hadn’t spoken about the boater in a couple of days.
+
+Considering the fact that he lived with the other humans, he really didn’t have that much contact with them. As Manon had promised, they were all decent in passing, and they didn’t bother him during lunch breaks. Everyone seemed to want him to stay out of their way, and in return they stayed out of his.
+
+It wasn’t what he’d expected or hoped for, but it was working.
+
+“What is it?”
+
+“I think she might be one of the first people who ever selected the Tailor Environment skill.”
+
+“It’s a popular one for Rabbits, though.”
+
+“Yeah. Now. But thirty-something years ago when Manon first became an Avowed it wasn’t. I can’t find anyone else from her generation that has it. It only became well known about fifteen years later, when a guy from India chose it and turned himself into a successful television personality with it.”
+
+“That’s interesting,” said Alden. “But I don’t really get why it matters.”
+
+“Well, you were saying the other day that you thought your own skill had a lot of unexplored depth to it. And that maybe, with practice, it could be developed into something more flexible.”
+
+“Right.” Alden wasn’t able to share the fact that he was learning from Joe or the details of their conversations, but he could give his friends a rough idea of the more obvious things they’d discussed by implying he’d come to the realizations on his own.
+
+“I was just thinking that after spending three and a half decades with her skill, Manon can probably do more with it than rearrange furniture. I have no clue what, though. I followed all her social media accounts. She presents as all open and friendly to her followers. But I think it’s bullshit.”
+
+“Why do you say that? The others have kind of been jerks, but Manon took care of it for me. She’s cooler than I thought.”
+
+Boe paused. “Yeah?” he asked.
+
+“Yeah,” said Alden. “I was really suspicious about her, but she hasn’t done anything wrong. And she helped me out with the Pineda thing.”
+
+“That’s great!” Jeremy spoke up in a chipper voice. “You didn’t like her at all the last time you mentioned her.”
+
+“I was probably paranoid for no reason. She’s fine.”
+
+“She is?” Boe’s tone was strange. “She’s the one who told her little fan club that you had lots of money the second you arrived, remember? So isn’t it her fault if they thought the clueless new kid could be bullied out of tens of thousands of dollars?”
+
+Alden frowned up at the smooth white ceiling of the capsule. That was right. Manon had told them all about his overpriced lab coat the morning he arrived. He’d almost forgotten.
+
+“I mean…I guess it’s normal?” he said. “Like if someone walked up wearing a giant diamond necklace I might comment on how much it costs.”
+
+“You’re comparing a luxury good with a piece of functional equipment , but I see your point. Just don’t be too forgiving. I think your first impression was right, and something’s off about her. When people ask her what she can do with her power, she only talks about arranging throw pillows and organizing offices for her clients. But she did a ‘Meet Your Senior’ interview with her college newspaper years ago—don’t even ask me how long it took me to find that—and she made it sound like her skill was for something else.”
+
+“What?”
+
+“She was pretty cagey even then. I guess that’s normal. Especially for a C-rank. If you’ve got a good thing, you don’t want other people catching on and competing with you. She wouldn’t say what the skill was called, but she said it was ideal for working in human resources. Which is an incredibly dull thing to want to do with your superpower on the surface, but I’m sure you see—”
+
+Alden sat up straight. “Text me the full skill description for Tailor Environment.”
+
+“Sure,” said Boe.
+
+“Because that’s way different than arranging furniture.”
+
+“Right? And she did have a couple of small jobs along those lines before her skill became a known quantity. Almost as soon as it started getting popular, she hard pivoted into interior decorating, and now she acts like it was always her dream career.”
+
+Alden checked the time. He was suddenly way more interested in figuring this out, but he only had a few minutes to get dressed and head over to the lab.
+
+“Thanks, Boe.”
+
+“I only spent so much time on it because I like digging up dirt on people. Have fun disposing of bombs.”
+
+“Ah, there’s not so much of that lately. The gifted students were in the first sessions. These are the normal ones. They get less dangerous stuff to play with.”
+
+Jeremy spoke for the first time in a couple of minutes. “Why do you sound disappointed?”
+
+“I’m not. It’s just boring. I only got to use my skill on one project yesterday. I spent the rest of the time cleaning up ordinary trash.”
+
+“Poor baby Avowed,” said Boe. “Living a life so lacking in drama.”
+
+“I want practice. Not drama. Now let me go. I’m going to be late.”
+
+As usual, by the time he emerged from his sleeping capsule Alden was the last person left in the dorm.
+
+He grabbed some clothes from his locker and used one of the empty showers to change. The turtlenecks weren’t as bad as he had initially feared. They were warmer than he would have liked, but whatever fabric they were made of wicked moisture much better than his cotton t-shirt did.
+
+“All right,” he said quietly after he’d pulled one on over his head. “It’s time for your desensitization training.”
+
+He felt a sudden tension in his mind, and he tried not to be bothered by the fact that he wasn’t sure if it was his own. Was the gremlin a foreign passenger or just a foreign-feeling part of him?
+
+Either way, it was about to get its daily dose of medicine.
+
+After he finished dressing, he stood still with his eyes closed and carefully recited the requester’s half of the wordchain for peace of mind. It was the one he’d been learning at the consulate before he’d become a universe traveller, and he’d decided to make it step one of his new gremlin-improvement regimen.
+
+Finalizing the contract with Joe had been eye-opening. On the one hand, Gorgon’s gift was clearly valuable. The System had told Alden it was exerting a stabilizing effect on his existence, which sounded like a plus. And Joe had said it was “fussy” about “contract alignment.”
+
+The professor had been sorting out inconsistencies and doing all the magical labor for the tattoo on his end of things. Alden thought maybe the reason he’d had so much trouble was because the gremlin was a perfectionist about the very part of such contracts that would be the most dangerous to the weaker party—misunderstandings created by misaligned intentions.
+
+Since Alden would most likely always be the weaker party when he was contracting with wizards, this was a wonderful feature. It would be especially useful if he could figure out how to understand what parts of such an agreement were causing the disconnect.
+
+The gremlin was a genius.
+
+In some ways.
+
+Unfortunately, in others, it seemed to be simple minded.
+
+Wordchains were the main example of the problem. Ranting about the unevenness of the Velras was one thing. Members of that family would always be getting a little more than they gave when it came to chains. It was one of the perks of their class. But the fact that the gremlin went around hissing about other peoples’ imbalances so often was more concerning.
+
+A wordchain had a natural time delay. In theory, you said the requester’s half, got whatever perk you’d asked for, and then paid it back in the near future by reciting the portion for sacrifice.
+
+Or, if you were irresponsible, you just waited for it to snap back on you on its own terms.
+
+The gremlin’s whining served zero purpose if it was just detecting a state of karmic flux that would eventually be put to rights by the chain itself. And after its passionate freak-out during the tattoo session, Alden had started to worry about what was going to happen if he dared to become uneven himself for a brief time.
+
+So, on his second day at the university, he’d given it a try.
+
+The first thing he’d realized was that he was awful at wordchains. He’d been right to wonder about it after watching Lute Velra cast one on all those other musicians at Hannah’s funeral. Chains were way more demanding than anyone had ever told him.
+
+Alden knew his pronunciation of the words was above average, and he’d thought he was at least semi-decent at focusing his mind. His hand signs looked like the ones he’d seen in video demonstrations.
+
+He’d worked hard.
+
+But when he cast a couple of the ones he was most familiar with, the gremlin had remained silent. And Alden highly doubted it was taking a nap.
+
+He’d kept at it, making tiny tweaks to the peace of mind chain, until after a few dozen tries, he’d finally hit on a combination that made the gremlin start grumbling at him.
+
+In the moment, he felt relieved to have finally gotten the wordchain right. But when he thought about it now, he was just pissed off.
+
+The requirements for the chain were incredibly specific. Too much wrist motion with your hand gesture would turn it into a dud. And it apparently wasn’t okay to modify some of the more difficult pronunciations even a little bit.
+
+To learn wordchains efficiently, you wouldn’t need a classroom setting or an instructional video—which was what he’d always had. You’d need a competent private tutor to stand over you correcting your form and smacking you on top of the head when your breath pauses were too long.
+
+Alden was now fairly sure that the wordchain teacher at the consulate couldn’t manage to cast them regularly herself.
+
+He wanted hours of his life back.
+
+The gremlin wasn’t much of a tutor, but it did let him know when he got the chain right. By complaining. At first, it was only a little upset. Alden had been sitting in his capsule at the time, waiting for curfew, and when he finally hit the right combination, he felt a warning from it about his unevenness followed by a really enjoyable lack of concern for its opinion.
+
+So I am supposed to notice it when peace of mind kicks in, he thought.
+
+He’d always assumed the effects of low level wordchains were just too small to detect.
+
+Turns out I was never casting them in the first place.
+
+In his unnaturally peaceful state, he easily drifted off to sleep. Only to be woken twenty minutes later by the gremlin’s complaints. Still only mildly annoyed, he’d listened to it for a while. He’d even tried to soothe it by explaining out loud that he wouldn’t remain a lopsided peace-stealing wretch for long.
+
+“I’ll say the other half tomorrow night,” he promised it. “And then I’ll be nice and even again.”
+
+But for whatever reason, this new part of his brain expected near instant gratification. Maybe it was a little dumb. Or maybe it just didn’t trust Alden. Whatever the case, it grew louder and more insistent over the next hour, finally busting through his pleasant mood.
+
+“I’m not going to give up an entire category of magic because you don’t understand how it works!” Alden snapped at it. He hoped the sleeping pods really were completely soundproof.
+
+Uneven!!!!!
+
+“I’m uneven because this is a process, you jerk! I’m supposed to be blissed out right now, and you’re ruining it!”
+
+Alden had the unique experience of feeling like his own brain was hissing at him. He endured until curfew, then took one of the sleeping pills.
+
+“You can complain to me while I’m unconscious,” he’d told the gremlin in a triumphant voice.
+
+Apparently it had done exactly that because when he woke up the next day, his jaw hurt from grinding his teeth all night long. But at least he didn’t remember it.
+
+From the experiment, he learned about a couple of important things besides his own incompetence with wordchains. One was that the gremlin didn’t get tired. It was complaining just as loudly in the morning as it had been when he went to sleep. Another was that it could only bother him incessantly, not actually force him to correct the wordchain.
+
+He’d worried it might be able to, since his eating restrictions were so ironclad.
+
+Finally, he discovered that it could learn. Albeit at a snail’s pace.
+
+Instead of enduring all day and using the sacrifice half of the chain at night like he’d planned, Alden went ahead and said it when he woke up that morning. As soon as he started trying to pay up, the gremlin fell silent, and after a disheartening number of attempts at the chain, Alden earned himself a quieter—but more anxiety-ridden—mind.
+
+The peace of mind provided by the minor wordchain only lasted about three hours, so the blowback had the same time limit on it. By lunch, he’d equalized, and he gave the gremlin another dose. This time, it waited a little longer before it started complaining.
+
+So, in theory, if he just kept at it he would eventually teach this part of his mind not to have such a knee-jerk reaction to wordchains.
+
+Now, four days later, he was seeing a marked improvement.
+
+Not that this is the best thing ever for my mental health, he admitted to himself as he finally cast the wordchain. It had only taken him four tries this morning. A new record.
+
+He finished dressing and left the bathroom.
+
+Between his first attempt and today, he’d gone through ten cycles with the peace of mind chain. This morning, he expected to get at least a full hour of calm before things got noisy in his head.
+
+After I completely master this chain, I’ll start on another. He was hoping the gremlin didn’t have to be trained on every one individually.
+
+He wondered if taking Chainer would have helped him, or if the accumulated debt would have driven him mad.
+
+Probably the second one. But Gorgon would have warned him before he took it, right?
+
+Somehow? Maybe?
+
+Aliens were hard to figure out.
+
+Alden requested a cart through the System so that it would be waiting for him when he took the elevator down. Then, he stepped through the curtain into the locker room and stopped at the sight of a woman standing there.
+
+She appeared to be around thirty. She was wearing cargo pants, a sport bra, and a helmet/fencing mask that completely obscured her head. She was tightening the laces on a pair of combat boots.
+
+“Hi, Thwart Hog,” said Alden.
+
+A second after he said it, he realized that he probably wouldn’t have spoken at all under normal circumstances. Manon had suggested he avoid contact, and while his questions about the other Rabbit were fresh in his mind again after the phone call, he knew her advice wasn’t bad in this case.
+
+To make matters worse, a few more seconds passed before his sense of propriety broke through the wordchain-induced calm and reminded him to stop placidly examining the reclusive, masked woman while she finished getting dressed.
+
+He looked away. “I’m just on my way out. Nice to meet you. Have a good day.”
+
+He strode purposefully past her toward the elevator and jabbed the button.
+
+“Normally, I wouldn’t care, but you look like you’re just a kid…” Thwart Hog had a raspy voice and an Australian accent. “You’re not having some kind of emotional breakdown, are you?”
+
+Surprised, Alden glanced over his shoulder. “No, I’m fine.”
+
+Thwart Hog opened one of her lockers and pulled out a heavy vest. “You were hiding out in the bathroom, begging for mental fortitude over and over, so I thought someone ought to ask. Guess your mates should have your back, but they seem like wankers.”
+
+“Oh, I’m not with the boater,” said Alden. Then he realized she might not know the term either if she didn’t live on the island, so he clarified, “The wankers. And I’m all right. It was a peace of mind wordchain, but I’m just practicing. I recently realized that I’m not very good at them.”
+
+“Don’t chain myself,” said Thwart Hog, zipping up the vest and reaching for a jacket embossed with sigils. “Glad you’re not losing it. People do sometimes. Even on easy jobs.”
+
+“Are you…?” Alden was about to ask her if she was really unregistered, but it was a dumb question considering her obvious desire for privacy, so he changed his mind halfway through the sentence. “Are you a Brute?”
+
+She was buff as hell and dressing in something that looked like it might be armor, so it was a reasonable assumption. Though she could have just been a fitness nut with job-specific gear.
+
+“Yep. Strength type. I’m personal security for one of the students here. Politician’s kid. Looks flashy to have an Avowed bodyguard.”
+
+“Cool,” said Alden.
+
+She didn’t offer her rank, and he didn’t ask. As he stepped onto the elevator, he wondered if they’d have another chance to talk. It seemed more likely that they’d never see each other again, all things considered. And despite the mask, she didn’t give off evil villain vibes.
+
+He rode the elevator all the way down, thinking. Then instead of getting off he went back up.
+
+Thwart Hog was standing right there, apparently about to head out herself.
+
+“Forget something?”
+
+“I wanted to ask you a question,” Alden said. “You don’t have to answer.”
+
+“Didn’t think I did,” Thwart Hog replied, stepping in beside him and pressing the button for the ground floor.
+
+“Manon—that’s the middle aged woman with the brown hair, the Rabbit— said you were here last year, too. So you must have seen a little more of the boater members than I have. Are they…hard to get along with? Or is it just me?”
+
+“Anesidorans almost never get along with Avowed who refuse to live on their fancy prison island with them. Especially the ones who were born there and think it makes them special. They take it personally.”
+
+“Oh. I see,” said Alden. “I guess that’s probably true.”
+
+Thwart Hog turned her mask to face him. “If you’ve got a real question, you should ask it without circling around it. Do I look like I have lots of spare time? Or like I care what they think?”
+
+She did not.
+
+Alden shoved his hands into his pockets. “I’m sorry. I’d ask outright if I knew what to ask. They’re just…not what I expected when I came here. That’s all.”
+
+“Unfriendly, aren’t they?” said Thwart Hog. “To everyone except each other. Been here off and on for around eighteen months now. Seen plenty of people come and go. Don’t usually enjoy the company, but I don’t go out of my way to avoid it. As soon as this bunch arrives, I want to hide out.”
+
+“Yes,” said Alden, relieved to have someone else put it into words.
+
+Thwart Hog grunted. “You’ve got an American accent. Not an island kid. And I guess at your age you’re probably wondering if all Avowed are like these ones.”
+
+That wasn’t exactly the case, but he had started to wonder if Hannah and her friends were outliers. “It’s my first ever assignment. I affixed really recently. Technically I’m not even registered yet.”
+
+The woman’s whole posture brightened. “Don’t!” she said at once. “You can’t see the world if you’re stuck on Aneshitora.”
+
+Alden held back a groan. He immediately knew he’d never be able to say Anesidora without thinking of this ever-so-memorable alternate name at the same time.
+
+“I want to be a superhero. And I don’t think I would like to live my whole life in hiding.”
+
+They stepped out of the elevator.
+
+“Think again. And try to want something easier. But to answer your curiosity, yeah. Something’s not right with this group. I don’t know what. They creep me out. And you shouldn’t think they’re standard. You’ll get along fine with other Avowed probably.”
+
+Alden climbed into the cart that had just arrived for him. “Thanks for talking it over with me.”
+
+“Stop wordchaining so hard in the showers,” said Thwart Hog. “Makes people worry.”
+
+Alden laughed.
+
+The promised text message from Boe had arrived while they were talking, and as the cart headed toward the examination building, Alden opened it. His friend had chosen to respect the expensive connection fee by fitting an essay into a single message.
+
+There were about fifteen questions and twice as many theories there, but Alden focused in on the information he’d asked for. Manon’s base skill description was only a few words.
+
+“‘Tailor Environment (Level One) — You have a knack for arranging possessions so that they suit their owner.’

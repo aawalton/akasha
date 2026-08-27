@@ -1,0 +1,165 @@
+---
+id: 8b8420d9-4130-5d2f-8542-5c55da21f615
+page-type-slug: story-chapter-royal-road
+title: "Chapter 56 – Paladin without a Party"
+slug: 0056-chapter-56-paladin-without-a-party
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 56
+ownLength: 2070
+unit: words
+publishedAt: 2025-12-03
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2814316/chapter-56-paladin-without-a-party"
+royalRoadId: "2814316"
+---
+
+Serena, Kalen, and Kiva sat down by the underground forest entrance while they waited for Liora to locate the badger. Serena had a deep sense of unease within her stomach. The mana here felt wrong. Given the choice, she would rather avoid this place altogether. But she did want to advance her rank in the Guild.
+
+Since becoming official adventurers, their conditions had steadily improved. They didn't have to starve anymore—there was always enough money to buy themselves a meal at a local cafeteria. Thanks to the Guild, they had a roof over their heads, even if the beds were far from comfortable.
+
+Not to mention all the new things she had seen and learned in Cyene. Life in the city was completely different from life in her little village. It was easier, yet harder at the same time. For example, Serena would have loved to cook for themselves by buying the ingredients. But they didn't have a kitchen where to cook, so they were forced to buy more expensive meals at the cafeteria.
+
+They also couldn't walk wherever they pleased. The Elite district was strictly off-limits to people like Serena. Apparently, one had to reach a certain social standing to go in there. She was determined that one day she too could become a disciple for one of the nine paths. To one day become an Elite herself, along with her brother. Perhaps, Kiva, too, if the girl was willing to put in the effort.
+
+With Liora by their side, Serena felt it was entirely possible. The magpie supported them with her amazing skills and often completed quests completely on her own. Quests that were too difficult for Serena, Kalen, and Kiva to complete. It did make Serena question exactly how strong the magpie truly was. But she didn't worry about it for long. Liora was their friend and companion after all.
+
+As they waited for Liora's return, Kiva suddenly jumped to her feet. "Somebody is coming from the tunnel!"
+
+Kalen instantly drew his sword while Serena prepared her staff. Was it a monster? Another one of those sneaky snakes? Or perhaps a kobold?
+
+However, from the clatter of armor and steady footsteps as well as the flickering light of the torch, she realized that it was another adventurer.
+
+"Is someone there?" Called a somewhat familiar male voice. Serena couldn't recognize who it was right away, and she couldn't see the man yet. She concluded that it must be one of the adventurers she met in the Guild Hall. A great deal of people gathered there every day.
+
+"Yes, we're here!" Serena replied.
+
+"What are you doing?" Kiva hissed quietly.
+
+"What? They might be lost," Serena pointed out.
+
+"That's Damien!" the weasel girl whispered.
+
+"Don't fear! I'm coming to help you now!" The pompous voice said in the dark, and Serena realized that Kiva was right. It was Damien. Out of all the people to run into the dungeon, it had to be him.
+
+Serena chastised herself for answering so casually. They should have fled into the forest the moment they heard his voice. Perhaps it wasn't too late yet.
+
+But the torchlight came closer, and Serena was able to discern his face. She suspected that Damien could probably see them, too, since they had their own torches.
+
+"Geh!" Kalen exclaimed, unable to contain his displeasure.
+
+When Damien realized who the group was he had run into, then his eyebrows scrunched together in a scowl. "It's you three! I should have known."
+
+"We came here first!" Kiva protested.
+
+Damien's expression grew sour as he regarded Kiva as one would look at a worm. But he didn't reach for his sword this time, although his hands did inch closer to the hilt for a moment. He took a deep breath, inhaled, and then exhaled.
+
+"Look, I don't want to work together with bottom-of-the-barrel adventurers such as yourself. But I, Damien Stolte, the gracious man that I am, am willing to cooperate with all sorts of people and show them the light," he said, flicking his blonde locks out of his face.
+
+Serena couldn't help but feel annoyed. People like him were born with a silver spoon in their mouths. They had the money, the looks, everything Serena craved to obtain for herself and her brother. Worst of all, they didn't even know how good they had it.
+
+"What are you even talking about? Working together?" Kalen growled, taking a step closer to Damien.
+
+"Yes, you see. Your group and I are currently working on the same quest. As adventurers, it is our duty to cooperate to achieve the best possible results and lose the least amount of lives. As worthless as yours might be," Damien said.
+
+This ticked Serena off even more. Their lives were worthless? It looked to her that this pompous man was left alone without a party and wanted to take a class advancement test. But obviously, it would be more advantageous to do it with a group of people rather than alone. He was left without a party, so he came to them.
+
+"Why should we go with you?" Serena stepped close to Damien, peering straight up at his blue eyes. The man took a half-step back. "We already have a party, but you don't. Why should we ruin our synergy for somebody who doesn't even show us basic respect? You drew your sword on Kiva last time, trying to banish her from the city!"
+
+"Yeah! We are doing quite fine on our own! We don't need you!" Kiva hissed from behind Kalen's back.
+
+"How dare you? I am Damien Stolte. I—"
+
+Serena poked his metallic chest plate, forcing him to take another step back. "I don't care who you are! You were rude to us, rude to my beastkin friend. I have no intention of working together with you!"
+
+She turned on her heel, ready to head into the forest. Liora would surely find them without an issue.
+
+"Wait!" Damien called, but Serena ignored him. "Wait! Please…"
+
+The arrogance in his words diminished with his plea, and Serena paused for a moment.
+
+"I-I'm in a lot of trouble because I was falsely accused of something I didn't do. If I don't reach bronze rank by the end of the week, then I'll be removed as a Disciple of Silver Sword, and I'll never be able to enter the path again. The dungeon is teeming with monsters. It is nearly impossible to get through alone. Even for someone with my talents."
+
+"Then why the hell do you need us? Go ask your friends!" Kiva snapped.
+
+Damien clenched his teeth, then muttered something under his breath.
+
+"What?" Serena asked, but Kiva started laughing.
+
+"How dare you laugh, you uncultured mongrel!" He snapped, his face growing red.
+
+"But you're the great Damien Stolte?" Kiva mocked in an attempt to mimic his voice. "How come you don't have any friends?"
+
+Damien's face grew even redder, and for a moment Serena felt that he would draw his sword. However, something was holding him back. He took a deep breath, his face slowly returning to a normal color.
+
+"I merely haven't found people of a high-enough caliber. I can't make friends with every riff-raff I meet," he said.
+
+"Then you won't mind that this riff-raff will go their own way," Serena said pointedly.
+
+"No, wait!" He exclaimed. "I'll pay you!"
+
+They paused, looking back at him skeptically.
+
+Damien cleared his throat. "If you join me on this quest. I will pay you handsomely."
+
+"We don't need your money, and we don't intend to carry you until the finish line," Kalen spat.
+
+"Who said anything about carrying?!" The blond man exclaimed, and a large shield suddenly appeared in his arms. "I am a paladin. You have my word that if you accept me into your party, not a single one of you will have a scratch."
+
+Serena regarded him. His armor and shield certainly looked expensive. She had no doubt that it was able to block a lot of damage, unlike the stuff that they purchased with their meager earnings. Perhaps it wouldn't hurt to have a tank at their party.
+
+"Sister, please, don't tell me you're actually considering letting him in? What if he attacks Kiva while she has her back turned?" Kalen said.
+
+"I would never stab somebody in the back! I am a disciple of Silver Sword. We uphold honor above everything else," he said.
+
+"What you said to us in the Guild wasn't very honorable!" Serena pointed out.
+
+Damien flinched back, then nodded. "Yes. I… I might have made a mistake. But nobody has reached heights without stumbling a few times! I will become the Pillar of Silver Sword one day! It is my destiny!"
+
+Serena couldn't believe her ears. Was he actually apologizing in some roundabout way? He had given her the impression of never admitting his faults, but perhaps she had judged him too hastily. Maybe he wasn't an irredeemable case. Maybe there was a bit of good in him.
+
+"We won't take your money," Serena said, and Damien clenched his fists. "But you may join us on this quest."
+
+"Serena!" Kiva and Kalen protested at the same time.
+
+"Wonderful!" Damien proclaimed with a wide smile.
+
+"We want to pass this quest, too, right? Tank is exactly what we're missing," Serena said. She had taken the elemental mage class, Kiva had taken the shadow rogue class, while Kalen had taken the swordsman class. All good at dealing damage, but not particularly good at taking it.
+
+She and Kiva, in particular, were vulnerable to attacks, and Kalen didn't have a shield to protect himself with. They just couldn't afford it, hence why he had no choice but to take a more offensive class instead of a defensive one.
+
+"As if he'd protect us. He'd just let the first monster that appears tear me to shreds!" Kiva said.
+
+"I would not! In my name as a disciple of Silver Sword, I will do my utmost to protect all of you from attacks," Damien said, placing his fist on his heart.
+
+Serena couldn't believe that she was thinking this, but he appeared sincere. Was it wise to trust him? Her logic said no. That she should look out for her brother, Kiva, and Liora. Perhaps it was guilt that was urging her to help him.
+
+After all, Liora had stolen the pass for their sakes and later framed Damien for it. At the time, Serena hadn't felt guilty, but he had received punishment for something he hadn't done and was in trouble. Being removed as a disciple was considered shameful. He could never become a disciple of the same pillar again, and it was unlikely that another pillar would be willing to undertake him.
+
+"Just this once," Serena said.
+
+Kiva walked up to Serena and whispered. "What about Liora? Once he sees her true form…"
+
+"Don't worry about it. Liora is clever. I'm sure she'll change back to her magpie form," Serena calmed her.
+
+"I hope you're right…" Kiva growled.
+
+"Well, what are we waiting for? We have a badger to find," Damien announced.
+
+"We don't take orders from you! Serena will lead us," Kalen said.
+
+Damien gritted his teeth but nodded. "Very well. Lead the way, Miss Serena."
+
+"We are waiting for our familiar to return. She scouted the forest to find the badger," Serena explained.
+
+"Familiar?" He cocked his head.
+
+"The magpie. I'm sure you've seen her around the Guild," Serena said.
+
+Damien grimaced. "That menace of a bird is yours? Such a rude creature! It keeps mimicking my voice and twisting it to sound shrill and annoying! You should train your familiar better!"
+
+"Liora mimics whatever she hears. She can't twist sounds," Kiva said with a grin on her face.
+
+"Lies, I don't sound like that!" He objected, but his voice did indeed come out somewhat shrill. He must have realized that because he flinched back. After clearing his throat, Damien continued. "Are you sure you can trust a bird to lead the way?"
+
+"Liora scouts for us all this time. I don't see a reason not to do it now," Serena replied calmly.
+
+Just as she said that, she saw Liora in her true form flying just behind Damien. He hadn't noticed her, but Liora's eyes glowed faintly in the torchlight. The magpie's glare said enough–if Damien did something unsavory, she wouldn't let it go.

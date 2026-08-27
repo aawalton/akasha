@@ -1,0 +1,161 @@
+---
+id: a7477ef5-69ab-588c-8ec1-6403b21fdce7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 638: Overwhelming"
+slug: 0108-chapter-638-overwhelming
+partOf: rise-of-the-living-forge
+position: 108
+ownLength: 1933
+unit: words
+publishedAt: 2026-08-25
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3863530/chapter-638-overwhelming"
+royalRoadId: "3863530"
+---
+
+Uriel’s eyes glowed in the darkness of the Devil’s Den. The rest of the Menagerie surrounded her. All of the noncombatants — namely, Thane, Wallace, and Ida — had retreated to the upper floors of the building to avoid getting caught up in what was to come.
+
+And come it would.
+
+“They’re coming,” Art said quietly. His grip on his cane tightened. He stared down at the cards in his other hand, lips pressed so thin that they’d gone white. “And they’re strong. The Guild sent a small army. I don’t know how, but they figured out we were behind the attack already.”
+
+“You don’t think Arwin’s team…” Monica started.
+
+“They’re fine,” Madiv said sharply. “They would not fall so easily. Among them are our strongest. The Guild must have just somehow been waiting for them to leave in order to strike.”
+
+“Their efforts will be rewarded only in blood,” Uriel said. Her voice echoed through the dark. It felt… empty, without Lillia. But it would be far emptier still if there was nothing left standing when Lillia and the others returned. It was their duty to protect this place.
+
+“A lot of it,” the Beast said with a cruel grin. He nodded to Art. “But I recognize a few of the faces on those cards of yours, boy. Master and Grandmaster ranked adventurers. You’re nowhere near that. None of you are.”
+
+“Don’t need it,” Vanessa said, cracking her neck. “And we ain’t too far. Add in our gear and half of us bein’ Sunset… I’d say they’re going to have a hell of a time. I know I will. Our definitions of that will just be different.”
+
+“And do not forget who stands guard,” Esmerelda said. Her voice was cold and angry, and a huge bag that looked about three sizes too big for her was slung over the old woman’s back. “I have seen men far greater than goons crumble before me.”
+
+“I somehow doubt that an old woman with a few potions will do little against the strike force of the Guild,” the Beast said. “But I will enjoy watching what you can do. Either way… I will have an enjoyable fight. Ensure that you do not fall, Uriel. I need you to survive.”
+
+“You think scum like this will threaten me?” Uriel snarled. Angry arrogance wound through her reverberating words. “I will tear these fools limb from limb and feed them to the tree in the basement. Death is the only thing that awaits any who stand in our path. Come. Let us go meet them.”
+
+“Wait, shouldn’t we wait in here?” Vix asked from the corner of the room. “Where the Devil’s Den can back us up?”
+
+“No,” Madiv said with a shake of his head. “It would be better to pick them off in the streets, and then retreat back to the Den when we have no choice. If we start the fight backed into a corner, they could just try to attack the building from the outside. It will not go well for us.”
+
+“He’s right,” Art said. His jaw clenched. “Fuck. I wish Anna and Reya were here. We need more bodies. There are at least thirty people coming. But we’ll have to make do. I’ll remain within the Den to avoid becoming a burden and keep an eye on the fight. Vix will deliver information to everyone. Fight hard, but don’t over-commit. We have no healer. It’s better to survive than to trade yourself for a kill. We’re just buying time until Arwin and the others return.”
+
+“Let’s rip ‘em up,” Vanessa said with a hungry grin.
+
+“I am in accord,” the Beast said. “Shall we begin?”
+
+Art’s jaw set. He rifled through his cards. Then he collapsed them back into his deck and gave the others a sharp nod.
+
+“Go.”
+
+***
+
+Two’s hands clenched into fists. He stared down at the two women laid out on the beds before him, helplessness beating on the walls of his mind like a sieging army.
+
+There was nothing he could do.
+
+Everyone else was out fighting. One and the rest of Setting Sun would have met the Guild upon the battlefield by now in attempt to pry the Demon Queen and Hero free from the Guild’s clutches. Half the Menagerie would be hunting the Deepmind, the other half defending their street.
+
+And here he sat doing nothing.
+
+Anna and Reya were beyond anything he could do to assist, now. They’d both entered the Leyline. The hardest part of their task was complete. But until they recovered, they could do nothing but rest. And Two couldn’t exactly leave them alone and unattended.
+
+Two ran a hand through his hair, resisting the urge to curse. He didn’t know who was fighting. Who was dying. But he should have been there. And he suspected that Anna and Reya would have given nearly anything to stand by their guild as well. None of them just wanted to sit around.
+
+But unfortunately, that was the hand they’d been dealt.
+
+One couldn’t change reality.
+
+What would happen would happen. And Two would keep watch over the two to make sure no complications arose until Setting Sun returned from their task or his charges woke up. That was his duty. And he would—
+
+Something prickled against the back of Two’s neck.
+
+A frown crossed his lips.
+
+What?
+
+He sent his mind out, traveling through his connections to the volcano that Setting Sun’s headquarters resided within. Then he sent it further. Rodrick wasn’t the only one with an ability to cast his gaze outward.
+
+Two stood perfectly still for several long seconds.
+
+Then his face paled.
+
+That can’t be.
+
+There were easily fifty adventurers — all of them at least Master Tier — heading straight toward him. And that many powerful adventurers, this far out away from the Kingdom… that was no coincidence. Their base was not something that someone could stumble upon randomly.
+
+The Guild had discovered Setting Sun’s base.
+
+He didn’t have the faintest idea how, but it didn’t matter. Two was no fool. He wasn’t about to delude himself into thinking this was a coincidence. The Guild were coming… and he was the only person in the entire volcano who wasn’t asleep right now. Every other member of Setting Sun was out fighting.
+
+One man was nowhere near enough to head off a force like this.
+
+Two’s throat constricted. He stared down at the two unconscious women laid out on the bed before him. They were counting on him to protect them. There was certainly no way they could fight back against the Guild, even if they’d been awake.
+
+Damnation. What do I do?
+
+***
+
+They were losing.
+
+Arwin’s breath came in ragged gasps. Blood trickled from his lips and his body ached from where he had taken massive blows from the Deepmind’s mighty arms. The rest of the Menagerie weren’t in much better shape.
+
+Olive leaned against the wall, her cursed arm hanging before her like a dead lump of wood. Lillia gasped for breath, her shadows fighting to keep the darkness around her. Kien and Elias had both been thrown around the room so many times that they could barely stand.
+
+Rodrick knelt on one knee, his sword driven into the ground to give him something to stand by. Maeve had fallen to her knees behind him, her voice hoarse and cracked.
+
+They’d only been fighting for minutes. Five, maybe ten. Every single one of them had used almost every scrap of power at their disposal, flinging it against the Deepmind relentlessly. They hadn’t even managed to scratch it once.
+
+All the while, the huge skeleton had idly flicked them around like rats in the cage of a cruel child.
+
+Arwin could barely even still stand. Fear and dread beat at the walls of his mind, but he refused to allow it in. They had not yet fallen. As long as they still stood, he would never give in to the Guild. He would fight until they put him six feet under the ground — and even after they did, he’d keep going for a day longer.
+
+“Damn it,” Arwin growled. “Koyu. Come on. We need you. Don’t you have anything for me?”
+
+“No,” Koyu said grimly from behind him. “I’m sorry, Arwin. Forgive me. But I don’t understand it. The Deepmind… it can’t be a lich. It can’t be. My master died. At best, he should be a ghost, formless, like me. Whatever this is… he’s just gotten too powerful.”
+
+“Fuck,” Arwin hissed. “I can’t accept that, Koyu. I need something to work with.”
+
+“There’s nothing,” Koyu said. His voice broke. “Arwin. We can’t win this fight. Look at the crown. All the power we’ve gotten in the past weeks is nowhere compared to all those daggers. The Deepmind has all the knowledge of an ancient lich with the power of hundreds upon hundreds of incredibly strong adventurers… not to mention the Leyline. It isn’t something we can fight anymore. We were playing into its hand from the start.”
+
+“Arwin,” Rodrick said grimly, pushing himself to his feet. “We need to regroup. I do not see a way to win, and the Guild will be closing in. We can’t let this thing consume our power and get even stronger.”
+
+Arwin’s jaw clenched. His entire body screamed in defiance. But he couldn’t deny it any longer. The Deepmind had completely eclipsed them.
+
+I can’t let everyone die here. I won’t.
+
+“Damn it,” Arwin hissed. His stomach burned in anger and shame. But he’d made a promise… and it seemed he was going to follow through on it.
+
+“Finally realized the truth, have you?” the Deepmind asked. Its ghastly, skeletal grin curled downward. “I suppose that means our fun is over. I won’t be letting you leave after you came all this way to find me.”
+
+It raised a hand.
+
+A barrier of sickly green light snapped into being over the exit. Two more materialized in rapid succession right in front of the first, practically blocking their way out entirely.
+
+Arwin clenched his teeth. He felt the power that still lurked in his body, drinking deeply from it. Magic hung in the air around him in a thick cloak, hissing as he drew on even more strength. “Get everyone back to Eleven. Get them out of here. I’ll open a path.”
+
+Rodrick’s eyes narrowed. “Arwin—”
+
+“Do it,” Arwin snarled. “This is an order.”
+
+Rodrick’s jaw set. “Understood.”
+
+“Lillia,” Arwin said, glancing to her. “Get me there.”
+
+She gave him a sharp nod.
+
+Then he burst into motion.
+
+The Deepmind brought a hand hurtling down toward him.
+
+Shadows materialized before Arwin, giving him a ramp to leap off. He sailed through the air over the monster’s hand. A beam of light shot from its other hand for him, but Lillia’s shadows materialized into a shield in its path, buying Arwin just enough time to clear it before shattering.
+
+Wind screamed past Arwin’s face as he shot toward the barrier, the Menagerie racing across the ground behind him. The world almost seemed to still around him for a moment. There was one card he hadn’t pulled yet. Gehenna’s ultimate ability that allowed it to evolve.
+
+It wouldn’t be anywhere near enough to bring the Deepmind down… but it would be enough to buy his people a way out of here.
+
+It had to be.
+
+Arwin let out a roar of defiance.
+
+Then, with all the power that had gathered within his armor, he called upon Gehenna’s true strength and activated [Power Overwhelming].

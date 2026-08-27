@@ -1,0 +1,129 @@
+---
+id: ae6c69dc-5292-5e5b-941f-d35435b7b9b0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 353 : Magical Speedrun"
+slug: 0054-chapter-353-magical-speedrun
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 54
+ownLength: 2110
+unit: words
+ownProgress: 2110
+publishedAt: 2026-02-23
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3082770/chapter-353-magical-speedrun"
+royalRoadId: "3082770"
+markedReadAt: "2026-06-29T19:43:35.482Z"
+---
+
+The days seemed to fly by as we made collective progress towards the island. Vee was deadset on creating her farmlands and had been investing all her time and effort there. Leon was busy building the outposts on the edge of the island, as he couldn't create the main fortress until the treehome was grown.
+
+That left me on tree growing duty, and boy was this thing hungry. I had thought my job the simplest of the group, but this thing's appetite was ferocious, even giving Vee and me a run for our money. If we had been willing to let it grow slower, my expenses would've been significantly reduced, but we wanted our home as soon as possible.
+
+Size-wise, the tree was already on the verge of surpassing a normal mature tree, yet compared to the Feirelle tree, it was pitifully small. If we had included Caelthal in the comparison, we would have been nowhere near our goal.
+
+On the positive side, the spirit of the tree seemed poised to awaken. I was keeping [Nature Commune] active at all times and periodically checking on its progress, which felt like it could be born at any moment from now.
+
+I'd also made more progress in [Nature Magic] and reached level four after a few days. My spell reward was [Bloom], and it was what allowed me to create artificial tree life forms. This was how Trixie had made the branch sprites and also how that bear monster had spawned evil treants.
+
+I hadn't expected both to be from the same spell, but after some thought, I found that it kind of made sense. With the way [Nature Magic] seemed to orient itself, it was like every spell used resources from the previous tiers. If you invested time in nurturing healthy plants, then you could have strong guardians right away.
+
+Of course, you could target any plant and turn it into artificial life, but the result was far more effective if it was something homegrown. The primary reason for this was actually a little funny, as it seemed to boil down to random plants not trusting the spellcaster.
+
+Yes, the plant life you just "birthed" didn't trust you if you didn't personally grow it beforehand. However, it would temporarily follow your commands as a sort of gratitude, but eventually the control would slip, expedited if the caster was too weak.
+
+I took a page from Trixie and created quite a few branch sprites and other small plant creatures to help around the island. I was pretty much throwing around [Nature Magic] willy-nilly as I was desperate to get it to level five.
+
+I grew crops for Vee, harvested seeds from fruits she collected with [Seedrend], and all sorts of other plant-based activities. I tried creating some new spells for it, but none of them were groundbreaking achievements worthy of extra proficiency experience.
+
+But, eventually, I reached my goal and got level five. The reward was [Phytokinesis], which would let me move and manipulate almost all plants. If I put enough effort, even magical plants would be forced to obey my mental commands, although I felt a little icky about going that far.
+
+With that hurdle finally taken care of, I switched back to [Dust Magic]. I started grabbing low-hanging fruit and making a few quick accomplishments by creating an affliction version of [Erosion], which I called [Crumble], and by making a debuff that already had the name [Abrasion].
+
+Those combined with a few modifications to [Scouring Edge] meant that I quickly reached level five in [Dust Magic], which rewarded me with [Sandstorm]. Just like I predicted, the official version used the concepts from [Scouring Edge] rather than my thrown-together solution using [Wind Cutter] and was more efficient as a result.
+
+However! My version was more durable, and it seemed like the original design didn't care if the sand was destroyed upon contact. Combining the two was the obvious choice, which gave me double the efficiency.
+
+With another magic done and dusted, I moved to [Steam Magic] since it was also on the verge of hitting level five. I made a damaging affliction with relative ease and just named it [Boiling]. Arguably, it was way worse than [Burning] from [Fire Magic] as it seemed to have a considerable effect on internal damage.
+
+From there, I started making variations of existing water spells with a burning twist. None of them were enough to get officially named, it seemed, but I still felt like I was gaining experience for these creations, as even [Chaos Elements] had gained another level.
+
+Eventually, I reached level five and was rewarded with [Flash Boil], which particularly tickled my fancy. The spell superheated the water, causing it to violently explode into scorching water and steam. Anything and everything that exploded was terrific in my book, so I was delighted by the result.
+
+That meant I was only one step away from reaching my goal, and only [Magma Magic] was left. However, I actually had a pleasant surprise in that regard, as thanks to Sylbera, I had already achieved level three!
+
+The reason this happened was a little confusing: according to Vee, volcanic rock was a good fertilizer, and she was using it as a top dressing for her crops. Vee also took advantage of the opportunity to do a tiny bit of expansion to the island, to "round out the edges," which was where the majority of the experience came from.
+
+The third level gave me [Igneous Shell], which was a surprising addition. The spell had three effects; the first two were a combination of an offensive defense, which was to be expected. The real surprise, however, was that it also gave the target resistance to magma, with most of that going towards heat resistance.
+
+I recall someone telling me that most lightning mages don't live long, but what about the magma mages? They have to get to level three before they can protect themselves!
+
+I'd experienced firsthand the terrors of extremely high temperatures, and while I'd overcome that fatal weakness through [Blaze Slime], the same could not be said for ordinary people. Yes, the dwarves had some natural resistances against it, and people like Dewi would even burn themselves to raise their defenses, but to be forced to wait this long for protection was absurd.
+
+Actually… Now that I think about it, isn't [Steam Magic] just as deadly? Heck, even [Ice Magic] has serious potential risks if you aren't careful... Are all the intermediate elements double-edged swords?
+
+The more I thought about it, the more I realized how true this was. If I weren't a slime, there was a good chance I wouldn't have lived this long. I couldn't help thinking of my past self, who was the supposed dimensional mage prodigy; if I didn't have a good tutor, wasn't there a good chance I'd die in a teleportation accident?
+
+This really settles it. Slimes are the best.
+
+Other than my rapid magical progress, with only a few extra levels to go, I'd also dealt with quite a few sieges from the mermen. So much so that my race went up.
+
+<Racial Experience threshold reached. Chimeric Cluster Slime (Prismatic) is now LV 6.>
+
+<19 Trait Points are now available.>
+
+The mermen were practically mindless with rage, and just the sight of me would cause them to scream with bloodlust. There was a surge of attacks, and then gradually they began to calm down, but I still hadn't gained my legend point for defeating them entirely, so there must still be a few surviving stragglers.
+
+Seeing so many mermen had panicked Leon, who even accused me of lying about defeating them. However, he soon calmed down when he saw how effortlessly I took care of them. Compared to the deepwater mermen, these ones were chumps.
+
+One interesting tidbit was that many of them had the Infiltrator mutation, even though they weren't sirens. Combined with that, they had a lot of Emblems and even classes that clearly indicated that they'd been quite deeply embedded within the human territories around the ocean.
+
+I should send the humans a bill for saving them from such a massive espionage infestation.
+
+Speaking of which, I'd yet to see any signs of Vanessa, which made me believe she must have been collateral damage when I destroyed Azulean. Vee continued to tease me about her, even going so far as to say, "Alpha must miss her."
+
+Naturally, I pointed out the absurdity of such a claim and even mentioned that she'd be consumed with blind rage to kill me, which would most certainly throw a wrench into any feelings for Sylvain.
+
+Vee was ever the teasing troublemaker, and I couldn't help but feel that Trixie had rubbed off on her far too much. Even Leon had fallen victim to her antics, and her current goal seemed to be trying to convince him to ask for a mermen butler to help him overcome his past trauma.
+
+While he seemed to like the idea of getting a helper, he didn't want one that was a mermen. The more Vee pressed, the more he dug in his heels and outright rejected the idea of having an assistant.
+
+Sylbera was proving quite a success, though, and Vee was genuinely treating her like a real person. It was getting to a point that I was even a little concerned, but soon squashed those fears when I realized that I could still easily turn off Beta and [Roleplay] with a mere thought. Whatever concerns Loreleia had about the trait didn't seem to apply to a subservient [Sub-Core].
+
+While I hadn't gained a new level in [Roleplay] or [Core Collective] yet, Omicron and Pi had reached levels six and four, respectively. I still felt a pang of guilt at my repeated crushing of Pi, but I'd gained a considerable stockpile of pink slime shards now.
+
+I offhandedly mentioned this to Vee, and she joked that I could use them to economically conquer a kingdom. However, Leon overheard her and quickly dismissed it, saying that the market would promptly crash if I flooded it with my supplies.
+
+With that in mind, I started changing the types of slime cores Pi had to assume. My next stockpile was blue slime shards, as I figured I could probably make a super Mana potion with them. We also tried a few brown slime shards, burrowing or sprinkling them into the soil, but there was no immediate noticeable effect, so we weren't sure if it helped.
+
+And that was how our days continued to pass by. Eventually, I reached [Magma Magic LV 4] and received [Obsidianize], which allowed me to instantly turn any magma or lava into solid obsidian. The idea behind it seemed to quickly turn any attack into a quick defense at the drop of a hat.
+
+In my opinion, that seemed rather underwhelming for a fourth-level spell. After some experimentation, I found that the magically formed obsidian was equally as susceptible to the reverse effect with [Molten].
+
+This meant that you could attack with a wave of magma, solidify it into obsidian to block something, and then instantly turn it back into magma for another attack. If there were a [Magmakinesis] further down the road, I could already imagine some handy applications for this effect.
+
+Just one more level to go. I have to make sure I reach it before accidentally getting [Nature Magic LV 6]...
+
+While I was thinking about observing the hometree. The spirit inside it was beginning to stir, and I felt like we were moments away from it awakening. I quickly informed Vee and Leon, who both seemed eager to witness its birth.
+
+"Are we going to give it a name?" Vee asked.
+
+"I suppose so. Any suggestions?"
+
+"I don't have any suggestions, but I do have one crucial request," Leon said, his tone serious.
+
+Vee and I both turned to him, gesturing for him to continue.
+
+Leon sighed, as if gathering his courage. Whatever he wanted must have been very important.
+
+"Whatever you call it. Please… I beg of you. Do not call it Syl-something."
+
+Vee let out a snort as she held back from bursting out in laughter.
+
+"No problem. The Syl names are all for me and my personas," I quickly agreed.
+
+"Damn, I was looking forward to meeting Syltree," Vee snickered.
+
+"I'm sorry, Mistress Vee, but that's a terrible name…" Sylbera sighed, shaking her head.
+
+Leon and I shared a chuckle while Vee gasped in shock, evidently not expecting her loyal helper to turn on her so thoroughly.
+
+Sorry, Vee, the Syl names are all for us.

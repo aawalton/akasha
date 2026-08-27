@@ -1,0 +1,137 @@
+---
+id: d543a269-c22c-577d-8fa8-0855e59cb433
+page-type-slug: story-chapter-royal-road
+title: "Chapter 376 : Decoration"
+slug: 0078-chapter-376-decoration
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 78
+ownLength: 2151
+unit: words
+publishedAt: 2026-04-22
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3303617/chapter-376-decoration"
+royalRoadId: "3303617"
+---
+
+The temple guardian didn't last long and was promptly devoured, and as expected, he was not a mutated human despite his appearance. I had assumed he would be some type of strange mutation off-branch from mermen or something similar, but strangely enough, he was actually a pure crab.
+
+"Decorator Crab?" I wondered out loud.
+
+I paid more attention to what I had actually eaten, and, to my utter astonishment, the "human body" was, in reality, all plants. I was intrigued and spent some time scrutinizing the profile I had acquired while trying to trace the crab's evolutionary path.
+
+Decorator was the only evolutionary shift it took from its crab species, and from there it underwent two mutations. From what I gathered, these crabs were the champions of disguise, as they attached algae, sponges, seaweed, and even small anemones to hooked hairs on their shells. Thanks to this, they appeared like part of the reef or a clump of plant life.
+
+Of course, that was just the base form, and it was obviously incapable of passing as a mutated human, so it had to mutate twice to achieve this. The first mutation gave it natural control over plant life attached to its hooked hairs, almost like a severely restricted form of pseudo-elemental. The second mutation allowed it to "shape" the plants to create disguises, a mutation of a mutation, just like my own Chimeric was an improvement over Mimic.
+
+"What an interesting monster… To think it was only tier four. The [Dungeon Master] must have spent quite some time tinkering with evolution paths to discover it."
+
+Regrettably, nothing this interesting monster had really tickled my fancy. In terms of disguises, I beat it by orders of magnitude, and if I wanted to control plants, I could use magic or some of the traits from the Plant Horror profile.
+
+"Actually… Couldn't I combine the Plant Horror with the Decorator Crab, graft plants onto me, and then disguise them as something else? Like just clothes?"
+
+It was a fun idea, maybe something for a little side project to pass the time. However, for actual battle, I found it lacking. My slime itself was too powerful now, and these neat little tricks with weird traits had unfortunately fallen by the wayside.
+
+"Maybe I could give it to a persona to play with? Vee did say she wanted a farmer…"
+
+However, that's not to say this experience was worthless, as it opened up some insights into [Dungeon Masters] that I had previously overlooked. With their ability to spawn monsters, they could explore all sorts of evolutionary paths to find strange and weird combinations.
+
+Can't I do the same thing with my slime dungeon? I could spawn slimes and use them to discover strange or weird evolutions for me. Then I could eat them! While I'm unsure if [Primordial Slime] would gain their ability automatically, at the very least, I could discover new slime traits from them.
+
+Once again, I was bubbling with excitement about my future slime dungeon. At first, I just wanted to use it to gather rare or hard-to-find slime colors for my collection, but now I can also use it to research slime evolutions. The hardest part would be resisting the urge to eat them until they bore fruit.
+
+Okay, okay, calm down, Syl. You still need to actually become a [Dungeon Master]. Plus, I'm sure there's a whole other kind of system in place that would need to be learnt. No doubt it's got its own points, rules, and progression.
+
+After reining in my desires, I looked at my gains. My previous monster killing, combined with defeating another guardian, had no doubt given me a plethora of experience. Not only that, but there was also the racial experience I was gaining through my personas and whatever I was gaining from Vee through [Companion Growth LV 11].
+
+<Class Experience threshold reached. Riftmancer is now LV 9.>
+
+<26 Skill Points are now available.>
+
+<Racial Experience threshold reached. Chimeric Cluster Slime (Prismatic) is now LV 12.>
+
+<11 Trait Points are now available.>
+
+Another two Riftmancer levels, and two race levels. Things are looking good!
+
+The racial levels were ludicrous as I was only contributing ten percent myself. As for my personas, I wasn't sure whether their distribution could change, so there was a good chance that half of any experience they gained would go straight to me!
+
+Actually, now that I think about it, I don't think they can adjust their ratios. They gain experience based on the level of [Split Personality], right? If I assume max level removes all experience penalties, then are they only gaining thirty percent since the skill is level three? It doesn't sound like much, but there are four of them.
+
+Putting the math aside, I finally looked at my freshly leveled [Spatial Severing]. Licking my lips, I activated [Skill Deconstruct].
+
+<Do you wish to deconstruct the skill [Spatial Severing LV 3]?
+
+Warning: this cannot be undone.>
+
+Let's go!
+
+<Skill [Spatial Severing LV 3] has been lost.>
+
+Once again, I experienced the bliss of information flooding into my core. Unlike deconstructing magic, which only helped uncover their governing symbols, I actually received some useful information.
+
+As I had estimated, and secretly hoped, there were indeed underlying dimensional principles here for me to comprehend and add to my magical repertoire. Since there were no present threats in this now vacant temple, I took the opportunity to digest it.
+
+I had no idea how much time had passed when I finished; however, one thing was certain…
+
+"It's not enough!"
+
+Frustratingly, I had seen hints and fragments of what I could apply to finally get the attack spells I so deeply desired, but I hadn't gotten enough. [Spatial Severing] was like a foul temptress who teased me and left me only wanting more.
+
+The issue was that there were three components to the skill, and rather than gaining enough of the part I wanted, I had instead gained insight into all of them. There was the ability to attack dimensional entities, which followed the "lens" principle like my afflictions, and anything that passed through would be able to strike across the veil.
+
+There was also the "attack-enhancing effect," which was entirely useless at this point, as I had no dimensional spells to even apply this to! Last but certainly not least was the cutting aspect, which was what I desperately wanted. From what few insights I had gleaned, this was a major aspect of dimensions, effectively on par with how heat went hand in hand with fire. Once I had it, a whole new avenue of [Dimension Magic] would be at my tendrils.
+
+Well, at least now I know that it's probably better to level it up a bit before deconstructing. If I had done it at the first level, I would probably have only gained scraps.
+
+The biggest downside was that I hadn't received enough to learn the skill again for free. Thankfully, my skill points were in good shape, so I spent a point to regain the skill.
+
+<Skill [Spatial Severing LV 1] obtained. Skill Points remaining: 25.>
+
+Now I just need to get it to level three again as quickly as possible. I should also consider taking apart [Folded Geometry], though I might wait until it reaches level five.
+
+[Skill Deconstruct] was dangerously addictive for me; I'd probably put it at second or third, with eating new slime cores still solidly at number one in terms of my vices. I was even looking back at [Personal Rift] and wondering if I should eventually take it apart, even if it cost me another trait point to repurchase it.
+
+Or… Should I grant it to a [Split Personality] and have them deconstruct it for me? Then I could take the insights from their memory…
+
+The idea was a little absurd, but I couldn't find any faults in my reasoning; it sounded perfectly plausible. Yes, the persona wouldn't be able to use it, since there was no way I would waste a trait point like that, but it shouldn't affect the ability to take it apart. The only downside was that I'd only be able to take apart a very low-level version of the skill, although perhaps that was fine?
+
+I already have a lot of understanding thanks to using the skill a ton, not to mention I have already discovered [Rift Door], which I'm positive is related. In theory, I should gain a lot of new insights.
+
+One of the reasons I wanted to take it apart was because the way [Personal Rift] behaved was a little reminiscent of an aura. I had yet to make my dimensional aura, but now I imagined that something like [Personal Rift] would be ideal. The only other idea I had for an aura spell was a weakening effect that applied [Displaced] to my enemies.
+
+I was ready to continue my exploration of the dungeon, but before I left, I combed through the temple for any leftovers or treasures. I did find the holy symbol the crab had left, although when I picked it up, it seemed entirely drained of whatever magical effects it had.
+
+"Something shiny for Vee, I guess." I shrugged and pocketed it.
+
+Speaking of Vee, I focused a little on our bond, and to my surprise, I found that her group must have discovered the route to the lower floor, since she was at the same depth as me. However, she was quite far away, which made me realize how far I had actually traversed this floor.
+
+This dungeon is massive… I hope I'm not biting off more than I can chew.
+
+It was something to be cautious about, but when I examined the level of monsters I'd fought, it seemed to be on par, if not below, Dran's dungeon. Yes, Dran focused more on hordes, so a lot of his monsters were nothing but plantoid fodder, but, in my opinion, the boss monsters he created were of a slightly higher quality. For example, the two guardians I had fought couldn't compare to the medusa vine.
+
+Dran focused more on growing his plants, while this dungeon focused more on expansion; is that the difference?
+
+The [Dungeon Master] system was an enigma, but even so, this seemed like a reasonable, educated guess I could make. If I measured myself up against Dran, I felt like the current me could defeat him as long as Juniper didn't intervene.
+
+Which means I should be capable of defeating this [Dungeon Master]!
+
+I also had the suspicion that one of the three gods would've sent me a quest or something as a warning if I was completely out of my league. Especially Mother, since this was her idea in the first place.
+
+Searching the rest of the temple, there were various idols made from decorative metals and other forms of gems, shells, or similar materials. I grabbed it all since I had plenty of space to spare, although I was a bit miffed that there wasn't an enchanted item or something similar.
+
+With nothing left in the temple, I just needed to find an exit point, which didn't take long. With that, I once again let myself out into the dungeon and began another rampage through the monsters, as [Spatial Severing] wasn't going to level itself!
+
+Using Vee as my waypoint, I began trying to better traverse the dungeon. I had regained [Mapping] through all my exploration; it was only natural at this point, yet it had given me no benefits at all. I'd hadn't discovered this previously, probably due to Simon's dungeon being a beginner one, but apparently dungeons could restrict [Mapping] if it wasn't a high enough level!
+
+<Your [Mapping] is too low-level to track your current location.>
+
+That was the error the system gave me when I tried to use it. I even tried using my gold-rank adventurer tag with it, but it made no difference. Fortunately for me, I had Vee as my lighthouse in this shrouded dungeon, helping me gain some bearings on my current location.
+
+I went through room after room, with [Spatial Severing] reaching level two again, much to my delight, and I felt that [Folded Geometry] was probably close to reaching level four! Delighted, I tore open apertures and traversed the dungeon through impossible entry points, which was when I found myself in another massive room with a sizable air pocket.
+
+"Did I find another guardian?"
+
+I glanced around the room, yet I couldn't sense any other presence. However, while I didn't find any monsters, I detected an extremely large object deep within the room, brimming with Mana. I used a few more senses in the hopes of deciphering it, but the best I got was its general shape: an arched rectangle.
+
+I gasped with a sudden realization.
+
+Did I just find the doorway to the Hall of Glory?

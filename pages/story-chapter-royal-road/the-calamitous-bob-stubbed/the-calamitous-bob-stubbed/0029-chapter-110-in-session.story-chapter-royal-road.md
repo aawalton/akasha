@@ -1,0 +1,393 @@
+---
+id: d1eea2f9-b6f3-5d12-885a-95d4fafa3acd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 110: In session"
+slug: 0029-chapter-110-in-session
+partOf: the-calamitous-bob-stubbed
+position: 29
+ownLength: 5142
+unit: words
+ownProgress: 5142
+publishedAt: 2023-03-17
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1140568/chapter-110-in-session"
+royalRoadId: "1140568"
+markedReadAt: "2026-06-29T21:15:42.326Z"
+---
+
+Ereska listened patiently, then complained with Viv about dishonest scholars, the worst! They whined together for a good twenty minutes and felt much better with themselves, then it was time to think about solutions. Ereska’s advice was to avoid the ethics committee.
+
+“They will just add more roadblocks, and even if you deal with everything, you still have to go through a trial. The easier and faster way would be to discredit him with his sponsors.”
+
+“Isn’t that the Academy?”
+
+“You mentioned they had a private facility at the edge. It means that Sterek is paid by other interests. Does this spell have military applications?”
+
+“Massive ones. It would revolutionize logistics.”
+
+“Logistics? Transporting things?”
+
+Viv sometimes forgot that most history books only talked about glorious charges and massive spells here. She knew better.
+
+“Logistics is absolutely essential to any military actions, especially offensive ones. No food, no water, no shelter, and your elites will barely function.”
+
+“Oh yes, fighting versus getting to the fight. I read about it. But I digress. If this has military application, it is possible that the Helockian army supports it. If it revolutionizes logistics, the merchant guilds might have an interest in it as well. They will drop Sterek the instant you demonstrate to them that you have a finished product. It will then be up to him to go through the administrative pain of challenging you. Not that he could prove you stole his research.”
+
+“An elegant solution for Sidjin. Sterek has to demonstrate his progress, right?”
+
+“Undoubtedly and regularly. No one trusts experimenting mages with money unless they are fine with losing all of it. And the building.”
+
+“I think I have an idea,” Viv said.
+
+There was still the matter of the contract, but she could do little about that for now. Nevertheless, she paid a messenger to send Solfis a quick request to place the mage under protection. The answer was prompt and derisive, the golem politely reminding her that he knew Sidjin was an ‘important asset’ and that he was slaughtering mages back when France was still a monarchy, and god that was fucking weird. She had never considered it that way.
+
+The next day was the last before classes resumed. Viv ate a surprisingly good breakfast at the dormitory and donned street clothes before a quick visit at the library, which had its own building. She found a copy of the mage servitude contract and swore softly under her breath.
+
+No matter how she looked at it, Elunath was shafting her good and he knew it. The agreement was non-binding on her end which means she was free to take it or not, but that was the only good thing to it. If she did not sign it then all of the favors she would be doing for Elunath would amount to absolutely nothing. They would be entirely wasted. If she did take it, the years shaved off would be determined by Elunath himself who was an interested party and, as far as she could tell, an arrogant asshole. It was literally bending to an overlord and hoping he would be merciful. She had no recourse. Finally, the servant contract meant all her magical research would belong to him, he could direct her to any project he saw fit including dangerous ones, and he could order her around at all times. She was only marginally protected against suicide missions, sexual advances and so on. Only the most basic of human decencies.
+
+She had asked a few questions about Elunath to Eraska who had confirmed the man was stubborn and fundamentally attached to his word. It meant he would not cheat but also that he would not negotiate. He was rather known for that, in fact. Viv wondered if one’s element altered one’s mindset. If it were true, she would be eminently destructive and the harbinger of change, haha.
+
+Hmmm.
+
+A quick research on the other Elemental archmage still active revealed it was a blue-aligned woman who spent her life on a ship she propelled by herself off the coast of Halluria. She was notoriously removed from the affairs of this world. There were talks that the dean of the Academy was on his way to a red elemental alignment, but those were mostly rumors. It would still be profitable to ask him and so Viv sent a request for a talk.
+
+As soon as she was done, Viv hired a buggy to the Five Fishes tavern, which happened to be close to river Shal’s estuary at the edge of the city. The Ocean went on forever to the north as they arrived through modest and dirty streets. Most of the folks around were fishermen and dock workers of various ethnic groups. The tension was palpable.
+
+The Five Fishes smelled of straw, sweat, and predictably of fish soup. Viv ordered a bowl and was pleasantly surprised at the herbal and slightly citrusy flavor. The innkeeper invited her to a ‘private room’ where the golem waited in retracted form in the company of the woman who had guided Viv to Arthur. Her name was Lim the Fell-Handed if memory served, and her prim dress gave her the countenance of the head admin at a concentration camp. There was also a man who thought himself hidden behind a darkness concept. Compared to Irao, his work was extremely sloppy. Viv ignored him.
+
+//Your Grace.
+
+//It appears your Academy stay has begun in a beautiful fashion.
+
+//I expected you might be dragged in an unsanctioned duel with a thin-skinned noble student first.
+
+//On account of your abrasive personality.
+
+“I do not have an abrasive personality.”
+
+Lim’s eyes widened and her mouth puckered. A single accusatory finger silenced her.
+
+“I have a short fuse; that’s not the same thing as being abrasive.”
+
+//You have a problem with authority.
+
+“I have a problem with idiots claiming authority over me. Anyway, I’m not here to discuss mandates and legitimacy. This place is such a wreck that deciding the rulers based on some farcical aquatic ceremony might improve the situation.”
+
+//I hypothesize that you wish to keep Sidjin alive.
+
+Viv remembered the slightly creepy fact that Solfis could monitor her health from afar and his comments could therefore be interpreted several ways. At least the answer was easy.
+
+“Yes.”
+
+//The bounty was left with a renowned assassin group.
+
+//Renowned in the sense they have lasted almost three years.
+
+//We must dispose of them, as the hit cannot be recalled.
+
+“Fucking great. Ugh. Can you handle that part?”
+
+//Naturally.
+
+//There is also the issue of Sterek.
+
+//I estimate the likelihood that he or one of his associates ordered the hit at 81%.
+
+“That’s lower than I anticipated.”
+
+//I expect the Glastians will want Sidjin dead at some point in the future.
+
+//However, his identity so far has been protected.
+
+//Therefore, it will take some time before the news of his survival reaches Glastia and its government comes to a decision.
+
+//The 19% accounts for Glastian citizens with a personal grudge.
+
+“Damn, Sidjin is more popular than I am.”
+
+//For now, yes.
+
+//We must decide how to proceed with Sterek.
+
+“For this, I have an idea but I need someone to find out when his investors will come for a demonstration. I also need someone to map the wards around his workshop, if possible.”
+
+//I will assist.
+
+“Now, onto another matter. A private one. You two, scram.”
+
+Lim the Fell-Handed left without protest, soon followed by a slightly miffed assassin.
+
+“He is unfocused,” Viv remarked while they were out.
+
+//Good help is hard to come by.
+
+//You had a remark?
+
+“I’d like your opinion on this contract Elunath selected.”
+
+Solfis scanned the page for a second. Viv expected he had read and understood the content in a fraction of a moment and taken the rest of the time to formulate an answer,
+
+//I want to state without exaggeration and without deception that I have made an example of entire mage families for less.
+
+//This is an insult to you, as the Imperial Heir.
+
+//I wish nothing more at this junction than to walk into his home in my old frame and tear his spine out with my bare hands.
+
+//According to Harrakan law, his head would then be conserved and displayed above the ministry of justice for no less than a month.
+
+“Yes yes it’s bad, I get it. What can I do?”
+
+//Find an alternative.
+
+//However, we already struggled to travel here and this is our best option at the moment.
+
+//Considering this, I would advise three avenues of approach regarding Elunath.
+
+//First, we can leverage Harrakan secrets to an extent.
+
+//However, we must not reveal how much you have, or we will be wrung dry.
+
+//Elunath might care about his reputation, but he cares about knowledge even more.
+
+//This extends to your control over the Harrakan army and Harrakan facilities.
+
+//If Elunath does not know the extent of your capabilities, all your contributions will be rated higher
+
+//Second, we can use the underworld as well as expeditions to acquire new material of interest.
+
+//I shall do so myself.
+
+//Third, we might be able to leverage ourselves as deniable assets.
+
+“You mean his request for someone who can get their hands dirty?”
+
+//Yes.
+
+//Although this presents a risk, I believe I can take measures so that our operations cannot be traced back to you.
+
+//We should keep ourselves in his mind first.
+
+//By providing obviously ‘liberated’ artifacts.
+
+//I need to learn more about his interests and stake in the city.
+
+//Understand how he operates.
+
+Viv nodded slowly. She perfectly understood Solfis’ reasoning. Right now, she needed Elunath alive and well. After she was transformed, he would become a liability. It would be useful to get to know how he functioned and how he defended himself. Sometimes, the golem’s mindset could be predictable.
+
+//I will have everything I can done on my end.
+
+//I shall send you a message when any of my current tasks has made progress.
+
+“Good, because classes start tomorrow and I need all the knowledge I can get.”
+
+//Make connections.
+
+“I will try.”
+
+***
+
+Viv left soon after to visit Sidjin because she had to make sure he was fine. The buggy she hired ran down to the edge of the Shal and over an impossibly long bridge clogged with wagons and travelers. They left the main road for a cleaner stone path that ran between large estates. Here, the terrace farms she had spotted on her arrival were prevalent. They bore orchards and vineyards as well as paddies, most of them either empty or in the process of being harvested. Men and women in simple clothes labored with songs, piling colorful bounties on large carts drawn by placid cornudons. The air here was still warm, yet a breeze coming from the sea made it bearable.
+
+The buggy left her by an old open gate and asked for seven iron bits which was robbery, but Viv didn’t mind. The poor lad dragging her ass up the cliff was red and out of breath despite his enhanced stat so that was fine. She walked through the entrance to children racing across an inner court cluttered with half-filled crates. A harried woman asked her to wait while shirtless laborers loaded the late shipment. Soon, a shaved, fat man in a sweaty robe wobbled to her, a tall thug by his side.
+
+[Estate ruler, not dangerous, one who follows the path of estate management and agriculture. Greedy, mind for business, gruff.]
+
+[Farm fist: not dangerous, one who follows the path of laborer and enforcer. Decent melee combattant. Stupid. Pillar.]
+
+“A lady caller not two fucking days into his stay? What is this place? A bordello?” the merchant roared in heavily-accented Baranese.
+
+Viv was unimpressed, especially when a small wave of intimidation tried to roll over her.
+
+“Where can I find him?” she replied.
+
+“I’m of a mind to just kick your skank ass out of my property.”
+
+“Careful, that sounded like a threat.”
+
+The thug took a step forward and that was the perfect opportunity to test the new, non-lethal options she had been working on. Viv formed a palm and used colorless telekinesis to hit his ample frame in the solar plexus. He crashed backward with a pained ‘oof’.
+
+In the silence that followed, the thug crawled to his knees and vomited his past three meals.
+
+“You can’t use magic against civilians,” the merchant coldly stated.
+
+“Looks to me like I can. Feel free to whine later. Now, show me where Sidjin lives or I’ll look for him myself, and your doors won’t like that.”
+
+Viv finally released her grasp on draconic intimidation. She could tell her own brand of intimidation was different. It felt cold and reptilian, more a promise of consequences than a contest of will. At the same time, her coating spread quickly over her form to assume the semblance of spikier earth infantry gear.
+
+It was a bit of a gamble. Academy rules were nominally strict on law enforcement against casters who harassed citizens, but she knew the real score. So long as she didn’t kill anybody, she would receive a slap on the wrist at worst. Maybe a fine. The rich didn’t care much about fines.
+
+Viv expected two things to happen. Either the merchant would bend, or he would threaten. It should be clear force would not work against her.
+
+To her surprise, the merchant picked a third option. He started to laugh.
+
+“Hah! Thank Maranor someone’s wearing pants in this couple. That lad felt too soft by himself, all soft-spoken and polite and whatnot. No spine. No presence! I tried to screw him over and do you know what he said? I think not,” the merchant grumbles in a fairly good imitation of Sidjin’s northern accent.
+
+“I think not! No insults, nothing. Not even a little threat! The man’s gotta grow a pair if he wants to survive around here. Talks like a Baranese countess.”
+
+“I can only assume you’ve not seen him fight.”
+
+“Pah! There are no good fights to be found around this city. He got to have more bite, you hear? Anyway, please excuse me for a second.”
+
+Viv was not sure what to say. She thought a man who could woodchip a navy patrol boat and dig a wormhole through the fabric of reality could afford to speak quietly but the merchant meant well in a weird, culturally different sort of way. Probably. She decided to let it go for now.
+
+The merchant looked after the farm fist who was quickly recovering. He spoke a few words and the surrounding laborers rushed to bathe him in healing magic, led by a fussy woman who kept sending glares at Viv. The farm fist stood shortly after looking no worse for wear. He nodded towards Viv.
+
+“Follow Lud, woman. He’ll guide you to your man. You can stay after dark, I don’t mind.”
+
+“Why thank you,” she replied sarcastically.
+
+Lud led her through a fairly basic and really cluttered stone complex. It was obviously an extremely busy period for the estate. She finally found Sidjin’s quarter on the side of large fields, separated from the terraces by a tiny vegetable garden. His house was a two-storied wood and stone edifice designed with sturdiness and function in mind. It was completely unadorned. She knew for sure it was his because it was bristling with a complex array of defensive enchantments. Compared to the rest of the estate, it practically shone in her mana senses. She approached the door and knocked. There was a rush of feet inside and she soon found herself nose to nose with a clearly relieved Sidjin.
+
+“I knew it was you, you always knock the same way.”
+
+“What can I say, I am a creature of habit.”
+
+“And also a liar.”
+
+“Apparently. Let me in?”
+
+“Yes! Sorry, please give me a moment, it will be just a few seconds.”
+
+Sidjin fiddled with runes he had apparently carved in a nearby support beam. The curtain of energy covering the entrance shimmered.
+
+“Alright you can walk in, I attuned the ward to your presence.”
+
+“How did you manage to fortify this place so well?”
+
+“The fear of being murdered by a dockrat assassin paid by a two-bit research thief proved to be a powerful motivator. Your ally’s warning came just in time.”
+
+He considered his next words.
+
+“I will admit that it’s all terribly inefficient and mana-intensive but this is a rental and I am not spending a single iron bit making those wards permanent. Not for that insufferable scrooge. I bet he will see the glyphs and charge me for damage.”
+
+“Wait, you said just in time? You were already attacked?”
+
+Sidjin gestured Viv in. The main room had everything from a kitchen corner to a hearth and even a bathing space separated by a small curtain. Everything was either old or brand new, and Viv suspected Sidjin had bought some of it himself. The witch’s attention soon came to a strange assortment of burnt logs kept in a washbasin. It did not take her long to realize her mistake.
+
+“Sidjin, why is there a carbonized corpse in your living room?”
+
+“Oh! Oh, sorry. I was so busy finishing the defenses that I did not take the time to go out and dispose of it. Came yesterday through the roof just as I was finishing the charge. It was a surprise.”
+
+He looked sheepish.
+
+“Not very romantic for a first visit.”
+
+“Not really, no.”
+
+“Sorry, let me make some tea quickly. I have pastries as well, with mushrooms and grilled shellfish. Surprisingly tasty.”
+
+Viv sighed and disintegrated the remains.
+
+“You can’t just solve everything by offering tea and snacks, dear, but yes please do.”
+
+They moved to a pair of wicker chairs. Sidjin mentioned a pair of killers, one of them intercepted by Solfis’ men. They were the lower ranks of the guild after him, however, those who had hoped to grab the prize on his head quickly, underestimating the risks. More serious people would come after him very soon. It made every trip through town a hazard, though even assassins preferred the night. They had enemies as well.
+
+Sidjin was quite aggravated. Viv came to the rescue.
+
+“I got an idea that might help us. Two in fact. One is about humiliating Sterek and the other is about slaughtering the assassin group to the last man. Or woman. I don’t discriminate.”
+
+Sidjin paused and then added a small crab meat tart to Viv’s plate.
+
+“Sometimes I feel that I exhausted all the misery and bad luck of my life to meet you. Sometimes I think I am still in that dark pit, dying and hallucinating a happier life. It scares me,” the man said.
+
+Viv slowly grabbed his hand. His thin fingers closed over hers with slightly more strength than necessary.
+
+“I’m real, Sidjin, never doubt it. If that comforts you, you’re not smart enough to imagine me.”
+
+The fallen prince gawped, then chuckled.
+
+“Perhaps you are right. Yes. Sorry, it appears I am still carrying this prison with me.”
+
+“No need to apologize. Some of your scars are just more visible than others. But let’s change the subject! Show me around?”
+
+“Yes!”
+
+Viv aptly steered the conversation towards Sidjin’s newest linen which steered the couple towards the bed. The fallen prince had a short nap after their lovemaking. When he woke up, he was feeling refreshed and so was Viv. She related her newest exploit with magic.
+
+“I smacked someone with a telekinesis spell. It worked well but was perhaps too localized. I would need something more spread out to push them away without, you know, breaking ribs.”
+
+“Please consider that you would be hitting them with a wall rather than just with the spell then.”
+
+“Non-lethal does not mean pleasant.”
+
+“Hitting people with walls can be quite lethal on occasion, Viviane dear. Just keep it in mind. In any case, congratulations on your progress. It will help with more than just combat.”
+
+“Is it possible to use telekinesis to throw weapons at people?” Viv asked, thinking of Gambit from the X-men who she had found darkly charismatic back when she was twelve.
+
+“Yes, in fact some Viziman blademasters specialize in those techniques. However, it takes a lifetime of dedication to use it well.”
+
+“Too bad.”
+
+“Since you are here and settled, would you like to practice portal magic again?”
+
+“I’d love to.”
+
+At this stage, Viv could feel and visualize the space she had to twist. It really helped that she could think of space as something malleable. Visualizing a grid in the air was the most useful mind technique she had come up with, and she had been inspired by old school sci-fi for that. It was a wonder Sidjin had come up with the entire construct on his own. The next step was to pick a destination and that was hard because the mage solution was to use a very advanced set of coordinates. Instinctive casting did not like that. She would have to find a workaround. It was also entirely possible a witch like her would only be able to visit places she’d already been to.
+
+In any case, she was still making progress and portal magic was arguably complex, so that was fine.
+
+“You have a lot of projects, currently,” Sidjin remarked later.
+
+“And classes haven’t even started,” Viv complained.
+
+It was later time to head back. The witch used coating just in case but no threats materialized. The price was not on her head anyway, at least not yet, but she would be stupid to take too many risks. The trip back took a while because there were no buggies to be found around the estates. She made her way back by nightfall.
+
+School started the next day.
+
+The breakfast room was crammed with students in uniform that morning. Columns of grey and dark-blue clad casters made their way to the main building, the gates of which were opened for the first time since Viv had arrived.
+
+So far, most of Viv’s business had taken place in the administrative building, a smaller structure nestled against the walls. The main building was rectangular, massive, and topped by a cupola. She was tempted to gasp when she entered.
+
+Rather than a more traditional structure, the Academy’s main corridors were uncovered all the way up to the roof. A dome of impossible proportions displayed a blurred image of the sky in strange colors with outlines of stars and celestial bodies. It also let the outside light in, so much that Viv felt she was still in the garden. Bridges crossed the gap between various wings, allowing students to go from one faculty to another without the need to go back down. The general feeling was one of a village inside of a grotto, perhaps. It was rather unique and charming. All of the walls displayed formulae, painting, extracts and quotes from famous scholars and the occasional statue. The humdrum of conversations resonated through the vast open space. Viv just made sure to stay close to Eraska who had offered to accompany her and let the lazy tide carry them both to the main amphitheater.
+
+It proved to be large enough to welcome all of the students. Viv and Ereska managed to find a pair of seats on the side and waited a while, surrounded by a riot of colorful mana. Soon, professors in crimson regalia walked to the overly decorated podium. The dean came in last. Viv was not really surprised when she recognized the ‘technician’ who had keyed her into the wards just after her admission. If she were to accept a known revolutionary in her place of learning she’d probably want to check them out as well.
+
+“Welcome students both new and returning, welcome to the Academy. Welcome to your home away from home. Welcome to the greatest center of knowledge on Param!”
+
+The students cheered good-naturedly, some of them beating their chests to produce a loud rumble. It was all Viv could do not to clap as a force of habit.
+
+“I am Dean Tallit and it is my honor to welcome you here in these hallowed halls. Yes indeed, the honor is also mine. The Academy has endured through the achievements of generations of talented people and now it is your turn. The time has come for you to leave a mark in history. To surpass yourselves and your forefathers. You are not quite yet the elite of the continent’s spellcasting but work hard and you will be.
+
+“For those of you who just joined us, I have a message. There are many people who have helped you reach the place you are here right now, your parents, elders, partners, mentors, friends, and relatives. You have worked hard to display the degree of commitment and mastery of the arcane arts we expect of those who would join us. You will be expected to continue upholding the standards of excellence you have shown so far, yet just as before, you are not alone. The staff and your seniors are also here to guide you on the path to greatness in a spirit of camaraderie and wholesome emulation. Do not hesitate to reach out rather than drown, and remember that your new community goes beyond previous allegiances. Do not stunt your progress through restrictive views. New friends might be only a seat away.
+
+“Now to everyone, I would speak of the duties that come with the privilege of learning.”
+
+Viv could see more than a few rolling eyeballs in the ranks, which was just as expected.
+
+“Our Academy has not endured throughout the ages because we are powerful, though we are, rich, though we are…”
+
+“Or handsome!” someone roared in the front row.
+
+A low laugh spread across the room and the dean indulged it for a moment.
+
+“Or because you are witty, though you clearly are,” he allowed.
+
+More people laughed this time. The dean appeared pleased with himself before he continued.
+
+“No, the reason why we have endured — not thrived, endured — is because we have always kept ourselves separate from the world’s troubles. We have always maintained a careful neutrality, acting as guardians of knowledge so that our civilization and its fruits might be preserved through the multiple crises. You will find many relics of the Old Empire around you. Let them serve as a reminder that the advancement you take as granted can disappear in a moment, without warning. It can happen to the Academy. Our current standing and continued existence depends on your behavior. Civilization and order can only prevail through consistent efforts. The staff and myself will do our utmost to safeguard our existence and the future of mankind on the continent.
+
+“You will find that the coming months will challenge your focus as you apply yourself within your walls, yet find yourselves unable to ignore what happens beyond. I understand. You have come here to acquire the means to influence the world around you, one way or another, for what is magic if not binding reality to one’s will? The sense of powerlessness might feel unfamiliar and unpleasant. You will experience it. When it comes, take a step back and reflect. I will remind you that your efforts must be applied consistently and thoroughly, or you will be left behind by those who have chosen to complete their curriculum. The world never stops, and consequently there will always be another crisis, another issue to distract you. To stay committed to your studies is not just salutary for the future of our institution but for yours as well.”
+
+Viv had expected empty chatter, but the dean’s choice of words warned politically-minded casters to stay the fuck away from the brewing problems. It was clear the dean expected conflict in the near future, a conflict significant enough to shake the Academy. Viv’s mind wandered to the current ethnic conflict Solfis had announced but she had so far seen little signs of. Probably because she lived in a sheltered environment. It was not enough to justify the dean’s words as she doubted many people cared. There had to be something else.
+
+Fortunately, it was none of her business. At least for now.
+
+Unfortunately, it meant there would be scrutiny. That would be a problem, especially in a world with paths and social skills. It made hiding things much harder.
+
+The rest of the speech centered on lesser topics and she filtered it out. Eraska was busy looking at people and Viv chose to emulate her. She didn’t learn anything except the fact that free candidates like her were scattered, displaying a complete lack of unity.
+
+It took quite a while to go through several teachers’ greetings, then another ten minutes for everyone to trail out and towards their classrooms for their first lesson, in Viv’s case it would be on the fundamentals of magic. Ereska pointed her on the right path then left to find her own friends. Viv walked to an old classroom and took a random seat. The windows showed the wall on one side and the domed interior of the Academy on the other. Clumps of students arrived and spread across the long tables lining up the room. Most of them seemed to know a few others and all of them gave her a wide berth. In fact, there was a circle of social stigma around her two seats deep and counting. It appeared to be more shyness than scorn from the way people carefully avoided looking at her and the distinct lack of hissy whispers. Just like she expected, they were all much younger than her, but not as young as the young man now sitting by her side.
+
+“Can I sit taken? I mean, sorry. Is this seat taken or can I sit here?”
+
+He was quite nervous.
+
+“Go ahead,” she invited.
+
+“Thanks.”
+
+Viv inspected her unexpected neighbor. He had short black hair and a thin face with a pointy chin. She noticed two tattoos trailing up from his brow and disappearing into his hairline. There was only one other person she knew with tattoos like that: Orkan the Halurian warborn turned inquisitor. This young man was definitely thinner and softer. The tattoos didn’t match as well. The most surprising feature was his aura, however. While most other casters mostly shone with two colors, one dominant and one less, he had four and they were each very powerful, rotating calmly around his person in a well-defined and harmonious circle. Ratty clothes under a brand new robe completed the image.
+
+Between his age and his aura, Viv realized there was only one option. He was a magical genius.
+
+“Hello, my name is Viv.”

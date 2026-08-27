@@ -1,0 +1,493 @@
+---
+id: 04c0d2d2-7e9a-5b00-81e6-f66194a71ad7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 139: Of Zooms, Awooms, and Terrain Travel"
+slug: 0141-chapter-139-of-zooms-awooms-and-terrain-travel
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 141
+ownLength: 2163
+unit: words
+publishedAt: 2026-07-08
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3649988/chapter-139-of-zooms-awooms-and-terrain-travel"
+royalRoadId: "3649988"
+---
+
+PoV Luna
+
+The stew was awoomazing!
+
+Her Second’s cooking was different from town cooking, but still tasted awoobsolutely delish!
+
+Important discovery!
+
+Monster-bird tasted rich and sharp and a little smoky after Syliana worked proper stew magic on it, and the broth had soaked into everything until every bite became warm, spicy, meaty victory.
+
+Luna had eaten three bowls!
+
+Then a fourth bowl for tactical confirmation.
+
+Then a fifth because Syliana smiled when Luna asked.
+
+Hehe!
+
+Best stew.
+
+Best Second ever!
+
+Possibly best monster-bird, though the monster-bird had contributed mostly by losing.
+
+After dinner, Luna became extremely round and very sleepy.
+
+All Second’s fault!
+
+She had made warm stew, then more warm stew, then let Luna have extra broth because Luna had used very convincing eyes! After that, Syliana brushed leaves from Luna’s hair, tucked the blanket around both of them, and let Luna curl against her side near the fire.
+
+The forest smelled like damp leaves, cooling stew, smoke, old bark, and Second. Far away, night insects sang. Closer by, the fire popped softly. Syliana’s heartbeat moved steady beneath Luna’s ear.
+
+Good sounds.
+
+Safe sounds!
+
+Luna pressed closer with a happy little rumble while Syliana’s fingers moved slowly through her hair.
+
+“Mhm.”
+
+“You are going to fall asleep sitting up,” Syliana murmured.
+
+“No. Luna guarding.”
+
+“You are drooling on my sleeve.”
+
+“Guard drool.”
+
+“Pfft. Of course.”
+
+Luna smiled into Syliana’s arm.
+
+Pack was far away, but Second was here, and Luna was brave!
+
+Her friend was warm. Solid. And smelled like herbs, leather, smoke, magic, and care. So Luna stayed tucked against her and let the happy stew feeling settle deep in her belly.
+
+Also, Luna had gone fast!
+
+Very fast.
+
+Awoomfast!
+
+The thought made her ears twitch even through sleepiness. Her shadows stirred under the blanket, curling lazily around her feet as if they also remembered running down walls, under stone, over roots, past the ‘gravity’ thingy, and straight through Syliana’s very brave regret.
+
+Then Luna remembered something else!
+
+“Oh!”
+
+Syliana’s hand paused.
+
+“What is it?”
+
+“Skills dinged before stew. During awoom!”
+
+A moment later, the messages returned in Luna’s mind, bright and clear and important.
+
+【Shadow Run Lv. 12 → Lv. 13】【Run Lv. 19 → Lv. 20】
+
+And then System meanie told her things again!
+
+Efficient Stride: Running now uses 20% less stamina during sustained movement.
+
+Ehehe!
+
+That meant Luna could go faster for longer, yesh!
+
+Luna’s tail thumped beneath the blanket.
+
+“Hehe! Shadow Run likes awoom!”
+
+“I gathered that when you ran under the ravine overhang.”
+
+“Was good under-running!”
+
+“It was something.”
+
+“Second liked?”
+
+Syliana was silent for a moment.
+
+Luna tilted her head back to look at her.
+
+Her Second’s mouth had gone very serious in the way it did when she was trying very very hard not to smile!
+
+“I liked surviving it.”
+
+Luna considered that…
+
+Acceptable!
+
+“Luna also liked Second surviving!”
+
+“I am truly honored,” Syl dipped her head.
+
+Luna nodded solemnly, then nuzzled back into Syliana’s side.
+
+“And Run got level twenty,” she added, quieter but very happy.
+
+Syliana’s hand stilled for only a breath. Then she bent down and kissed Luna between the ears.
+
+Luna froze.
+
+“My amazing little wolf,” Syliana murmured. “I’m proud of you.”
+
+Luna’s tail thumped once beneath the blanket.
+
+“Second proud?”
+
+“Very.”
+
+She pushed her face into Syliana’s sleeve, suddenly very happy and very embarrassed.
+
+“Mhm,” Luna managed.
+
+Syliana’s arm curled around her and held her close until Luna stopped feeling like the good thing might escape if she moved.
+
+Eventually, Luna mumbled into Syliana’s sleeve,
+
+“Efficient Stride means Luna can now run better!”
+
+“It sounds useful.”
+
+“Less wasting.”
+
+“That sounds very useful.”
+
+“Going faster optional.”
+
+Syliana’s fingers paused.
+
+“Optional?”
+
+“Yesh.”
+
+“Will it remain optional?”
+
+Luna thought about this with great seriousness.
+
+“…Sometimes.”
+
+Syliana laughed softly.
+
+Luna liked that sound too!
+
+She would practice tomorrow, probably after breakfast. Maybe before breakfast if there was a good slope.
+
+But for now, Syliana was warm, the blanket was soft, stew was still happy inside Luna, and the fire smelled like sleep.
+
+So Luna guarded very carefully, with closed eyes, against Second.
+
+For safety!
+
+***
+
+By morning, the road felt different beneath Luna’s paws.
+
+Though not because the road had changed – roads remained suspiciously straight human suggestions that Luna didn’t really care for.
+
+Her running did!
+
+At first, she pushed too hard, because pushing hard was fun and also correct in most important situations. The trees blurred, shadows snapped beneath her paws, and the road tried to disappear behind them.
+
+Then Luna eased back.
+
+Just a little bit!
+
+The difference showed only after the first burst ended.
+
+Getting fast still cost Luna effort. Launching forward still pulled at her legs, lungs, and shadows as speed always did.
+
+But once she reached a steady pace, the run stopped taking as much from her!
+
+And she didn’t slow down at all!
+
+She was still fast enough for both forest and road to blur beneath her paws and for Syliana’s cloak to snap in the wind behind them. But the longer Luna held the same pace, the easier it became to keep holding it.
+
+Oh!
+
+Luna’s ears perked.
+
+Hehehe!
+
+Now Luna could do a longer zoom!
+
+She tested it across the next stretch. Faster at first, then steady. With no sudden pounces or sharp sideways bursts. And no grabbing the next shadow just because it looked fun.
+
+The speed stayed, and the tired came slower!
+
+Luna’s tail started wagging happily.
+
+Syliana’s hand stayed relaxed in Luna’s fur.
+
+“Thank you,” she said.
+
+Luna’s ears flicked back.
+
+“Bwuh?”
+
+“For holding the pace. This is much easier to ride.”
+
+Oh.
+
+Luna’s tail wagged once, quietly pleased.
+
+“Second comfy?”
+
+“Much more comfortable.”
+
+Luna held the steadier run with sudden seriousness.
+
+“Luna can do comfy awoom!”
+
+“I appreciate that.”
+
+Luna accepted this as both the same thing and excellent praise.
+
+She held the pace until the next bend in the road, then glanced back with great restraint.
+
+“Tiny faster?”
+
+“A tiny bit.”
+
+“Awoom?”
+
+“Yes Luna, tiny awoom.”
+
+Yesh!
+
+Luna gave her a very responsible tiny awoom.
+
+Mostly!
+
+***
+
+The next few days became running days.
+
+Good running days!
+
+Luna still missed pack sometimes. The road behind them looked too empty, and her ears kept expecting voices that were not there. Ray should have been complaining somewhere nearby. Trianna should have been saying something funny. Veric should have been walking solidly behind them. Sepio should have been grumbling about something while pretending not to care.
+
+That hurt.
+
+But pack was not gone forever. Pack was training, and Luna was training too! When they met again, Luna would show them better running, better zoom, and better awoom!
+
+Also, Second was still here!
+
+Second made stew, gave head pats, rode on Luna’s back, and said proud things that made Luna’s chest feel warm and strange.
+
+So Luna was brave!
+
+A brave Genius Apex Predator could miss pack and still run forward.
+
+And Luna could run very far now!
+
+They made excellent progress, going far further, far faster!
+
+Her Second still insisted they keep near roads, villages, waystations, and other signs of civilization instead of cutting straight through every deep forest Luna found interesting, but even with that restriction, the distance vanished beneath Luna’s paws quickly!
+
+Roads were useful after all.
+
+…Just a little bit.
+
+Mostly because Second liked them!
+
+Not Luna, nuh uh!
+
+…Though roads sometimes had snacks.
+
+Made Luna feel very conflicted about that human ground improvement.
+
+She huffed.
+
+The new Run improvement helped most after Luna stopped trying to turn every stretch into a challenge against the horizon. Bursts were still bursts and Luna loved them! Sharp turns still cost effort. Launching through ravines, trees, and all the suspiciously climbable terrain still made her body work a hard.
+
+But once Luna reached a steady pace, she could hold it longer.
+
+Much longer!
+
+Luna practiced it across old roads, forest edges, hill paths, and long open stretches where the wind pressed through her fur and Syliana’s weight stayed steady on her back. Sometimes Luna wanted to go faster so badly her paws almost twitched apart from her brain, but she held the pace anyway.
+
+Mostly.
+
+But when she did, the System noticed!
+
+【Run Lv. 20 → Lv. 21】
+
+【Vitality +1】
+
+It wasn’t such a big meanie after all, yesh!
+
+Luna suddenly was going just a little faster, and felt just a little less tired.
+
+She almost tripped from excitement.
+
+Almost.
+
+But she did not, because mature comfy awoom required dignity.
+
+“Second! Run ding again!”
+
+“I noticed.”
+
+“And Vitality!”
+
+“Yes, you’re training hard, aren’t you? Good job.”
+
+Ehehe!
+
+“Because Luna is very durable runner.”
+
+“Because you have been running for hours.”
+
+“Same thing!”
+
+There was, however, one thing Luna really didn’t like about the roads near civilization.
+
+Weak monsters.
+
+So many weak monsters!
+
+Little biting things in roadside ditches. Skinny predators watching from tree lines. Big insects with crunchy shells but no satisfying fight inside them. A few horned things that looked promising until Luna jumped at them and they immediately reconsidered their entire lives.
+
+Disappointed!
+
+Luna was so very disappointed!
+
+Her Second said this was exactly why they were keeping near civilization.
+
+Luna said civilization should cultivate stronger monsters!
+
+Syliana said absolutely not.
+
+Feh!
+
+Still, weak monsters were not useless. They were okay practice. Luna could test turns, short bursts, steady pursuit, and stopping before she accidentally turned a minor threat into a crater.
+
+Sometimes she even let the monster run for a little while first.
+
+For training!
+
+And the next morning, Luna found a better test.
+
+The road bent around a narrow ravine where rainwater had cut deep through stone and packed earth. There was a safer crossing farther along the trail, but Luna saw the far edge immediately.
+
+And her paws already knew the answer!
+
+Syliana’s hand shifted in her fur.
+
+“You can make it?”
+
+Luna’s ears perked.
+
+“Yesh!”
+
+“Cleanly?”
+
+“Comfy awoom, almost like zoom!”
+
+Syliana breathed out once, and Luna felt the familiar tightening of reinforcement magic through the body on her back.
+
+“Then show me.”
+
+And so Luna ran!
+
+Proper running first. She let the pace build, held it steady until the edge came close, then pushed hard at the last moment, letting her skills all fall in place, for just the briefest moment.
+
+The ravine opened beneath them.
+
+For one beautiful breath, there was no road at all. Only wind, Syliana balanced low against her back, shadows trailing from Luna’s paws, and the far side rushing closer.
+
+Then Luna landed–
+
+And her shadows immediately let her slide forward with nary an impact!
+
+She still felt it push through her legs, but it did not scatter her stride. Her paws struck, caught, and kept going! The road continued under her as if the ravine had only been a rude interruption.
+
+Syliana’s hand stayed steady in her fur.
+
+For several breaths, she let Luna keep the pace.
+
+“That was clean,” she said, warm and quiet.
+
+Luna’s tail lifted.
+
+“Hehe! Luna did good jump?”
+
+“Very good jump. And the landing was very smooth too. Impressive.”
+
+“Yesh!” Luna’s chest warmed, “Luna did comfy ravine awoom!”
+
+“Haha, that you did.”
+
+The System chimed twice when she did so too, and she only now noticed!
+
+【Jump Lv. 18 → Lv. 19】【Shadow Run Lv. 13 → Lv. 14】
+
+Luna’s ears shot up.
+
+“Jump ding! Shadow Run ding!”
+
+“I am not surprised,” Syliana said.
+
+Wuh!
+
+But Luna was!
+
+A little.
+
+But only because she had done such a good jump that even Shadow Run approved.
+
+After that, every ravine, ditch, washed-out road cut, collapsed streambank, and suspiciously jumpable hole in the ground became a training opportunity.
+
+To Syliana’s visible dismay…
+
+Calm running was never an option.
+
+And then, on the third day, somewhere between long hills, steady pace, and all the delicious effort, the System chimed again.
+
+【Dexterity +1】
+
+Luna was very pleased.
+
+Her Apex Predator paws were improving!
+
+Even then, the monsters near civilization remained disappointing, but that was fine. Luna’s Maw still held plenty of proper strong meat from better prey, and Syliana kept turning it into stews, soups, roasts, and travel food. Weak roadside lizards did not deserve seasoning when Luna already carried victory meat!
+
+And by the time the road narrowed into older logging paths winding between densely forested hills, Luna felt properly accomplished. They had gone far! Even with Syliana insisting they stay near roads, villages, waystations, and other weirdly sensible human things, they were already reaching the edge of an entirely new region.
+
+Or so her Second said!
+
+Luna lifted her nose.
+
+Woodsmoke.
+
+River mud.
+
+And people?
+
+“We’re here?” she asked.
+
+“Nearly,” Syliana said, nodding approvingly.
+
+She had been teaching Luna some language between running–
+
+But Luna still didn’t know why!
+
+If few words do trick, why say a lot?!
+
+But Second insisted.
+
+And gave jerky when Luna did good, so Luna did great!
+
+Hehe!
+
+Signs of civilization appeared gradually through the trees: chopped firewood stacks, reinforced fences, and old lantern posts maintained beside crossroads.
+
+Then came smoke.
+
+Village smoke!

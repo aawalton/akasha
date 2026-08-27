@@ -1,0 +1,105 @@
+---
+id: 735f9fed-d8e8-561a-a4af-8db478862154
+page-type-slug: story-chapter-royal-road
+title: "Chapter 62"
+slug: 0062-chapter-62
+partOf: savage-divinity
+position: 62
+ownLength: 2918
+unit: words
+publishedAt: 2016-05-05
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/68885/chapter-62"
+royalRoadId: "68885"
+---
+
+A dozen onlookers watch as the clang of iron upon iron fills the air. Darting forward, I thrust at Dagen, who steps aside and pelts me on the shoulder. “Too obvious, you roll your shoulder when you are about to thrust.” A smile sits on his bearded face, ragged and unwashed, his weathered skin wrinkled by his mirth. Taking my stance once more, I launch another attack, this one parried, and our sparring continues. Every strike I make is blocked, every block I place is broken through. Bruises and welts form all over my chest and arms, while Dagen stands before me untouched. Soon, I'm panting for air, my iron sword in the dirt, while he stands, relaxed and smiling without even a sweat.
+
+“How... How do..” I manage a few words between pants.
+
+“I can read you because you have no guile. You're a smart bastard, but that just makes it easier to know what you're going to do.” Patting me on the back, he tries to reassure me. “I can see that you're trying to add in feints, but they're too obvious, no blood thirst, no intent to actually strike. It makes it easy to spot. The trick is to at all times be ready to turn an attack into a feint, and a feint into an attack.”
+
+It's amazing how so many words can mean absolutely nothing.
+
+As soon as I catch my breath, we begin sparring once more, this time with spears. Despite his gruff, almost wild appearance, Dagen is a good man, and a good sparring partner. I've been sparring with everyone I can, having gotten tired of letting Sumila beat the crap out of me. Nobody laughs at me getting trounced by a cute, button nosed, freckled girl, but I still feel humiliated. Plus she always looks so happy when sparring with me, no sympathy at all.
+
+An errant swing leaves me open, and Dagen sweeps my legs out from under me. “You can't be doing that in battle, taking wild swings like that. You won't only have one enemy, war is no duel.” His hand extended, Dagen helps me up, his beard and hair messy and wild, but not from the sparring. He arrived like that, with his long, arched eyebrows giving him a sinister look. If someone hadn't told me the man was a Sentinel, I could easily mistake him for a bandit, or worse. He looks every bit a villain, through and through, like a wild, wide eyed murderer. It's very jarring from how he acts, almost comical. We continue to trade blows, sweat dripping down my brow beneath my full-faced helmet.
+
+I was given some armor supplied by the Imperial Armory. Gearing up on the Imperial dime is one of the perks Akanai received along with her promotion. The outfits are pretty fancy for something meant to fight in. A gray silk long shirt, with a lamellar breastplate and skirt over top, It's essentially little metal plates sewn onto leather, but it feels nice and sturdy, a safe, weighty outfit. Everyone looks ridiculous in them, like they're wearing shirts that are a few sizes too big, but if it helps keep me alive, I'm going to wear it. It comes complete with bracers, shinguard, boots and helmet, and is a giant pain to put on and take off, requiring aid. It's no fun helping Huushal get dressed in the morning, and less fun having him help me. I bet Fung has pretty servants helping him.
+
+Not only did I also get to stock up on medicinal herbs, but I also received weapons, an iron long-spear and shield. No more breaking my weapons with a single strike hopefully, although the iron shields lack the little holsters for a short spear. Everything is great, but heavy and difficult to get used to, so I've been sparring in full armor to acclimate to it. It's more draining than I imagined, and we soon take another break. Grinning evilly as I pant, Dagen brings out his spiritual weapon, a long-handled, spiked war hammer, looking like a regular hammer on steroids.
+
+“No, no, I don't want to fight with Spiritual Weapons.” My sword is too tiny. It's not fair.
+
+Swinging it about like a staff, he laughs wickedly. “Your enemies won't care what you want, Sentinel. I'll be kind and wait for you to draw your weapon though, as long as you do it within five heartbeats.” Our previously silent audience begins to chat, chuckling at my plight and making bets.
+
+Fuck. Giving with everything I have, I put my practice at Lightening to use. Circulating my chi with a thought, I allow it to fill me, to buoy me up, lessening my weight. Speeding up, I move to attack, my sword chiming whenever it comes into contact with Dagens hammer, the reverberations moving up my arm and throughout my body. We continue our furious exchange, Dagen landing several light hits on me, using only the shaft of his weapon, deliberately avoiding the use of the hammerhead. After a few more strikes, my body can't handle it anymore, and I rip my helmet off, throwing up into the grass.
+
+Ever since the story of how Ghurda made me throw up spread around, all my sparring partners seem to have taken it as a goal. The onlookers cheer and groan as coins change hands, the result of gambling on how many hits it would take before I yakked. Travel gets boring, and soldiers tend to be a gambling bunch. A cup of water is in Dagen's hand when I stand back up, urging me to drink. “You did good lad, cost a few Sentinels a good amount of coin, you did.” Contrary to how he looks, Dagen is a big softy, very kind to everyone. “You're a natural at Resonance.” Well shit. More things I'm doing without knowing about it.
+
+“What's Resonance?” Shaking his head, he ignores my question, motioning me to move on.
+
+“It's my turn, little Rain. Move aside.” Adujan approaches with her weapon in hand and hip checks me lightly with a small mocking smile, before bowing slightly to Dagen. She’s gotten much saucier, swaying her hips when she walks. She didn't used to do that, she used to stomp around, but now, she sashays. It's very noticeable with her hips swaying side to side, and rather alluring. If it wasn't for her prickly attitude, I'm sure she'd have as many suitors as Sumila. Big Huu and Little Rain, neither of us like our nickname, especially the way she says it. I tried to direct Fung towards her, hoping to use him as a barrier for the incessant mocking, but he didn't bite. Not yet at least, because he looked mighty interested. She seemed pretty interested in him as well, and I'd like to see them together. I think they make a good match, the orphan and the prince. A real Cinderella story.
+
+So far, the travel itself isn’t bad, with only a few hours of scouting that require my attention. The rest of my time is spent practicing my chi, Lightening myself while I sit fully armed and armored atop Zabu. I can tell when it isn't working because Zabu will turn to look at me, judging me for being so heavy. I'm not fat, just big boned. Seriously.
+
+There isn’t actually any change in mass, because that would be impossible. Directing my chi, I have it push up and ‘lift’ myself, thereby reducing the downward force gravity exerts upon me. It's like filling myself with helium, or at least that's how I picture it. It’s how everyone leaps around on the treetops, but it takes a large amount of concentration, and my chi rapidly depletes after a few minutes at max. The key is short bursts of Lightening, at the proper times. I find that way too complicated, so instead I’m going for slow and steady. No need to make myself weightless, just a small enough boost that Zabu doesn’t mind all the extra weight from my gear, or so I can move just a tiny bit faster.
+
+“Enough rest. Come.” Tanaraq taps me on the head with the flat of her sword. “Put your helmet on.” Sparring isn’t the same as warfare, but any practice is better than nothing. With a deep breath, I grimly face Tanaraq for more punishment.
+
+The night is dark by the time we all finish sparring, Huushal limping back to our tent with me. He groans as he lays down on his bedroll beside me. “By the Mother, how do they all manage to hurt us so much, especially through our armor?”
+
+“I think it has to do with vibrations.” My back to him, we chat quietly. “Elder Bolin did the same I think, sending chi through his attacks, jarring our inner organs. This is just another version of it.”
+
+He laughs. “That’s not a very good explanation.”
+
+My shoulders shrug, even knowing he can’t see me. “If I knew how, I wouldn’t be in as much pain as you are.”
+
+“Bah. Useless.” He’s quiet for a moment before he speaks again. “I do not mean to nag, but as your friend, I feel I must speak. You should rethink your stance on Mei Lin. She truly loves you. It is something you should cherish. I make no judgment, only offer my thoughts. If someone loved me as she loves you, I would never leave her side.”
+
+“Ah, not you as well. Gimme a break. I love the girl to bits, but like a little sister. I don't see how hard that is to understand.”
+
+“You say that often, but you don't see the way you look at her, Rain. The two of you were impossible to separate this past month.”
+
+Well.. He's not wrong about that. I may have overindulged the little brat, but she was so sweet and vulnerable, it's difficult to say no to her. Plus, she somehow manages to smell clean all the time, like a cool spring breeze. “I was just indulging her. She's so adorable, and riding with me makes her so happy. I would do anything to have her be happy, Huu, she's family.”
+
+“That is the problem, Rain. You indulge her. You should take a stand, and either refuse her, or accept her wholly. It is a cruel thing to lead her on if you've no intentions of marriage. I still think you should marry her though, a man could do far worse than marry a woman so in love.”
+
+Tch. I can't argue with him if he's right. I should man up, and just tell her no. A firm no. No more sharing the saddle, no more sleeping next to her, no more rubbing her back when she asks. I can't keep letting her think she has a chance, not when I know she doesn't. She needs to stop chasing me, and I have to be the one to make her. In a stern, but loving letter. No, that's a terrible idea. “I understand. Thank you for speaking up, Huu.” I can't just let him win like this though. “You should do something about Sumila as well. You can't just keep pining away for her, a man should take action.”
+
+“What?” I hear him shift around, turning to face my back. “How did you know? Did my Pa tell you?”
+
+Fuck. It'd be rude not to turn around, but it feels... juvenile. Whispering in the dark, face to face, sharing about relationships and whatnot. I regret bringing this up. Sighing internally, I turn over to face him, moving back a bit when I realize he's closer than I thought. His wolfish yellow eyes almost glow in the dark. “No one told me. You stare so much it's a wonder your eyes are still attached.” At least it's dark enough that I can't really see the rest of him.
+
+“Do you... Do you think she knows?”
+
+“She'd be blind and dumb if she didn't. You should court her. Bring her flowers, compliment her looks and actions, speak to her more. Just staring makes you creepy.” Poor guy has zero game. His go-to move is drooling as she walks by, the big doofus, and Adujan seems to have moved on from him. “She's a lovely young woman, and other men will not wait idly by while you yearn for her in silence.”
+
+He sighed loudly. “It is useless. She has no feelings for me, this I know.” God dammit. He sounds like a lost little puppy.
+
+“Well, then maybe you should focus on your fans. Plenty of the women have been eyeing you lately, especially with all the stories we've been telling.”
+
+“Really? Like who? What have they said about me?”
+
+Big Huu has twin sisters fawning over him, and he doesn't even notice. Damned Mr. Popular, pining after Sumila,who would probably be receptive to him anyways.
+
+I wonder if I can just throw a sleeping pill down his throat without him noticing.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Moving through the dark mountain forest, my eyes are peeled as I peer through the gloom, watching for any sign of ambush or traps. We used that card often enough against the Society, so I'm understandably paranoid. So far, after 11 days of travel from Shen Huo, everything has been uneventful, just the way I like it. That was all out on the open plains however, and the last stretch of our journey moves through heavily wooded and uneven terrain, except for the main path. Barely more than a dirt road, the soldiers march along shoulder to shoulder, four in a row, their footsteps almost shaking the ground. Surrounded by trees and rocky outcroppings, every twist and turn holds a potential ambush, and it's the Sentinels' jobs to scout them out. That means I get to ride ahead of all the professional soldiers, exactly where I do not want to be.
+
+Sumila leads the five of us, moving as a unit, covering ground and making sure no surprises lay in wait. The earthy scent of dirt and trees filling my nose, while beads of sweat form to ward off the warm summer air as I ride about in my ridiculously stuffy armor. It's like a goddamn oven in here, my enclosed helmet causing the sound of my breath to echo in my ears. Sumila motions to stop and we all pause, each of us straining our ears and eyes for whatever caught her attention. Moving slowly, we ride through a break in the trees, the sunlight gleaming down on the ruined remains of a small hamlet. Maybe 30 shacks, lined up together in ruins, the pitiful remains of a bamboo fence surrounding the entire space, it did the inhabitants no good in fending off their attackers.
+
+Sumila signals for us to scout out the shacks, splitting up the party. For once, I'm thankful for my helmet, because it hides my tears as I walk under the swaying corpses of the former inhabitants, their rotting flesh hanging from crow-picked bones, their bodies tied to posts and used for sport. The sour rotting stink of the hamlet makes me gag, wondering why we hadn't smelled it earlier, a cesspool of filth and decay. More dead are strewn about in a haphazard manner, the former residents killed as they tried to escape from the slaughter grounds that they had once called their home. Heads were taken from many of the bodies and nailed onto a crossbeam within the central grounds, the sun-dried faces contorted in various expressions of death. Fire pits and pots hold remains as well, bones broken open, the marrow sucked out for sustenance. Fucking Sadists and Cannibals, I should kill every last one of them. I just need to be stronger to do it.
+
+Dismounting from Zabu, I make my way to the closest hut, bracing myself for what I may find. The door opens easily with a small creak, and I look upon the grisly scene left behind, the ground a canvas of blood and flesh. Far worse than anything I could have imagined, a tiny voice sobs in terror, while a second, more distant voice in my head begins screaming angrily for vengeance. Tiny broken bodies litter the shack, shattered and left on display, nailed into the floor in macabre poses, leaving little doubt as to whether they suffered before sweet death claimed them. Their childish dead faces are twisted in a grimace of pain and suffering, even after so many days of rot, with what the unmistakable marks of human teeth marring the flesh.
+
+Fifteen. Fifteen tiny heads, each barely larger than my two fists, which hang clenched at my sides, blood seeping through my nails. Shaking uncontrollably, whether from rage or despair I cannot tell, I step into the room, moving carefully through the milieu of sickening practices, praying that whoever did this is still here, for if I find them, I will make them pay dearly for this. I will make him regret crossing paths with me.
+
+My walk through complete, I light a torch and set fire to the hut, destroying this unholy display is all that I can do for the dead for now. Moving on, I continue to light huts on fire, unable to bring myself to search them.
+
+I once believed that no one deserved to be tortured, to feel pain and suffer like I did.
+
+I was wrong.
+
+The Defiled deserve worse.

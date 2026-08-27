@@ -1,0 +1,239 @@
+---
+id: e038ad42-585d-55d6-828f-625fb14f319a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 63: Academy"
+slug: 0063-chapter-63-academy
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 63
+ownLength: 2404
+unit: words
+publishedAt: 2026-06-11
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3525290/chapter-63-academy"
+royalRoadId: "3525290"
+---
+
+I stood in the doorway and stared.
+
+Each crystal was roughly the size of two closed fists side by side. The color varied from piece to piece. Some were the pure, glacial blue of deep ice, others carried a faintly violet undertone.
+
+"What is all this?" I asked.
+
+The question was unnecessary. I knew what mana crystals looked like. I'd handled them. I'd seen them used as power sources in field equipment during my months on the front. Small ones, mostly. The kind that fit in your palm and powered a communication crystal for a week before going dull.
+
+These were not small.
+
+Krause stepped past me into the vault. He moved with the careful reverence of a man who spent his professional life surrounded by other people's wealth and had developed an instinct for treating every item as if it might shatter at a careless breath. He lifted a thin envelope from a brass tray bolted to the wall beside the door.
+
+He broke the wax seal with his thumbnail. Unfolded the letter. Held it up to the mana-glow strip and read, his voice settling into the measured cadence of an official recitation.
+
+"Deposit executed on behalf of Archduke Roderich von Hexenzeit." His eyes moved across the lines. "Total contents: three thousand, one hundred and seventeen mana crystals. Classification: Grade A. Current market valuation based on weight and quality standards as assessed at time of deposit, adjusted for present-day commodity pricing..."
+
+He paused. Lowered the letter by an inch.
+
+"Seven hundred and fifty-one thousand Golden Crowns."
+
+Asena made a sound beside me. A single, sharp inhalation that she cut off before it could become anything louder.
+
+I looked at the shelves. At the rows of crystals extending from floor to ceiling, each one identical in its careful placement, each one worth more than most knights earned in a lifetime.
+
+"Grade A," I said. "What does that mean?"
+
+Krause opened his mouth to respond, but Asena was faster.
+
+"It's the highest classification." Her voice had dropped into the register she used when explaining technical specifications. "Grade A crystals are extracted from deep-vein deposits. The kind of mine where the ambient mana concentration is dense enough to produce crystals with near-perfect lattice structures."
+
+She stepped closer to the nearest shelf. Didn't touch. Just looked.
+
+"These aren't commercial grade," she continued. "Commercial crystals, the ones you'd find in a Magitek shop or a military supply depot, are Grade C or D. Mass-extracted, often from surface deposits or secondary veins."
+
+Her jaw tightened.
+
+"Grade A production is rare. Hexenzeit territory controls some of the deepest crystal mines on the continent, and even they produce limited quantities per year." She looked at the shelves again. Counted, silently, her lips moving. "This deposit... three thousand crystals of this quality. This is roughly equivalent to a full year of Hexenzeit's Grade A output."
+
+A year of production.
+
+The calculation assembled itself in my mind.
+
+Roderich von Hexenzeit had given his firstborn son the equivalent of one year's production from the family's most valuable resource. As a severance package. A buyout. The precise mechanism by which the Archduke had converted the inconvenience of a magicless heir into a financial transaction.
+
+Here is what you're worth. Take it. Disappear.
+
+I turned to Krause.
+
+"What can I do with the contents?"
+
+Krause folded the letter and slipped it back into its envelope.
+
+"You have several options, Herr von Hexenzeit." He clasped his hands behind his back. "The most straightforward is liquidation through the bank. Kessler and Braun would purchase the entire deposit at the assessed market valuation. The funds would be credited to an account under your name, held in Golden Crowns. The advantage is immediacy and simplicity; the transaction could be completed within the week. Golden Crowns are universally liquid. They can be deployed, transferred, or invested through any financial channel in the empire without the logistical complications that accompany physical crystal holdings."
+
+He tilted his head.
+
+"Alternatively, you retain the crystals and manage their disposition independently. Private sales, direct transactions with buyers of your choosing. This approach requires more effort on your part, but it affords greater control over pricing and timing."
+
+"Thank you," I said.
+
+I extended my hand. Krause took it. His grip was dry and precise.
+
+"The vault remains at your disposal, Herr von Hexenzeit. Access protocols are unchanged. Should you wish to arrange a liquidation or partial withdrawal, you may contact me directly through the bank's main office."
+
+He produced a card from an interior pocket and placed it on the nearest shelf beside the crystals.
+
+"We value the Hexenzeit relationship," he said. "Deeply."
+
+The street outside Kessler & Braun was bright after the vault's underground silence.
+
+Asena walked beside me with her arms folded across her chest. She hadn't spoken since we'd left the vault.
+
+"Is it really worth that much?" I asked.
+
+The question sounded naive even as I said it. But the truth was that I still lacked the intuitive understanding of this world's economy that would have let me feel the weight of the number rather than merely knowing it.
+
+Seven hundred and fifty-one thousand. The digits were large. But large relative to what?
+
+Asena exhaled through her nose. Her stride didn't break, but her head tilted.
+
+"If you liquidated the entire deposit at once through the bank," she said, "yes. That's the number. Seven-fifty, give or take whatever the day's spot price does to the final figure."
+
+She unfolded her arms. Her right hand rose, index finger extended, the lecturer's gesture.
+
+"But that's the floor price. That's what you get when you hand three thousand Grade A crystals to a banking institution and let them set the terms. They'll buy at market valuation, which means they're purchasing at wholesale and reselling at retail."
+
+She dropped the hand.
+
+"If you sold in smaller quantities — individual crystals or lots of ten, twenty — directly to Magitek shops, independent magi-engineers, alchemists, anyone who uses crystals as raw materials for their work and buys them at the point of consumption rather than through a wholesale intermediary..." She paused. "You'd see fifty percent above bank valuation. Maybe a hundred percent, depending on the buyer and how badly they need the supply."
+
+"Double."
+
+"Possibly. Grade A crystals are scarce at the retail level. Most of what reaches the shops is Grade C. A magi-engineer who's been building devices around C-grade components her entire career and suddenly gets her hands on a Grade A crystal?" Asena's mouth twitched. "They'd pay through the nose. And thank you for the privilege."
+
+We turned a corner. The commercial district's storefronts scrolled past, a scrivener's office, a shop selling enchanted household implements that were probably Grade D powered and barely functional.
+
+"The other option is bulk sales," Asena continued. "Large blocks. Fifty crystals, a hundred. For that, your buyer is institutional. The Academy, primarily. They consume Grade A crystals for advanced research. Experimental spell matrices, high-density ward testing, anything that requires a clean power source without the noise that lower-grade crystals introduce. They'd pay ten, maybe twenty percent above bank valuation. Less markup than retail, but less effort on your part."
+
+I nodded. The mental arithmetic was straightforward.
+
+At bank price: seven hundred and fifty-one thousand. At retail premium, selling crystal by crystal over months or years: potentially one and a half million. At institutional premium through the Academy: somewhere around nine hundred thousand.
+
+The problem wasn't the number. The problem was context.
+
+I still didn't know what seven hundred and fifty-one thousand Golden Crowns could do.
+
+The figure needed a reference frame. A unit of measurement against which to calibrate its practical value.
+
+I thought about the front. About the soldiers I'd fought beside. About the supply chains that fed them, armed them, kept them functional.
+
+A soldier's annual cost. Not his pay. Pay was only part of the equation. Food, equipment, housing, medical supplies, replacement gear, ammunition for spell batteries, the logistical infrastructure that moved all of it from production centers to forward positions. I'd seen the requisition forms during my months in Grenzheim. I'd read the supply manifests that crossed Mira's desk.
+
+One hundred Golden Crowns per soldier per year. That was my estimate. Perhaps low for well-equipped front-line units. Perhaps high for garrison militia. But as a baseline, a rough average across the spectrum of military expenditure, it held.
+
+Seven hundred and fifty-one thousand crowns divided by one hundred came out to seven thousand five hundred and ten soldiers for one year.
+
+A small army.
+
+Seven thousand soldiers sounded like a force. But in a war that stretched across hundreds of leagues of front line, in a conflict that consumed entire garrison towns and reduced defensive grids to smoking wreckage overnight, seven thousand soldiers for a single year was nothing.
+
+A drop in a burning ocean.
+
+I needed more. And more importantly, I needed something that generated revenue continuously. A well, not a bucket. Because the bucket, however full, would empty. And when it did, every plan that depended on its contents would collapse.
+
+But it was a start.
+
+A good start.
+
+"If you knew of shops," I said, "or magi-engineers who'd be interested in Grade A supply — I'd want to sell at the retail premium. Small quantities. A few crystals at a time. There's no urgency for large sums right now, so there's no reason to leave margin on the table."
+
+Asena glanced at me. Her eyebrows rose by a fraction.
+
+"I know every Magitek shop and independent engineer within twenty blocks of my storefront," she said. "And half of them owe me favors."
+
+"Good."
+
+"I'll put together a list. Buyers I trust, quantities they'd take, prices they'd pay without choking. We can start moving product within the week."
+
+She stopped walking. We'd reached the corner where the commercial district's southern edge met the narrower streets that led to her shop.
+
+"Where are you going now?" she asked.
+
+I looked north. Past the rooftops of the commercial quarter, past the administrative buildings and the cathedral spires, toward the upper city where the Academy's towers rose.
+
+I pointed.
+
+"It's time to go back to the Academy."
+
+I'd intended to return to the Academy eventually.
+
+Even before Asena had handed me the copper chest and its contents, even before the vault and its three thousand crystals had redrawn my understanding of what resources I possessed, the Academy had been on my list.
+
+I needed to see my old quarters. Whatever Kaspar had left behind — notes, materials, equipment. The data of a hundred and twenty-one experiments, might still be there.
+
+Beyond the room, the memories themselves contained information I hadn't fully processed. Names. Faces. Relationships that existed in the spaces between the formal curriculum and the social hierarchy.
+
+But after Asena had placed that small leather notebook in my hands, after I'd read the entries and cross-referenced them against the books on the library's shelves, the visit had shifted from useful to essential.
+
+There were people inside those walls I needed to find.
+
+Kaspar had built a small network. Quietly, carefully, with the methodical patience of someone who understood that someone without magic needed every other advantage he could acquire. The Academy hadn't offered him friendship. Contacts. Connections forged through transactions rather than sentiment.
+
+The first was a fixer.
+
+The notebook contained his name beside a string of transaction records — dates, quantities, prices — that traced a relationship spanning nearly two years. A researcher, mid-level, whose official work involved cataloguing monster specimens for the Academy's biological archive. His unofficial work involved something considerably more profitable.
+
+He sold monster parts.
+
+Cores, glands, bone fragments, organ extracts — the biological components that alchemists and experimental magi-engineers required for their work but couldn't easily obtain through legitimate supply channels.
+
+Kaspar had been his best customer. Consuming monster-derived compounds at a rate that would have bankrupted a less resourceful individual.
+
+The fixer was still inside. The notebook's most recent entry, dated shortly before the Academy expedition.
+
+Beyond the fixer, there were others.
+
+Researchers. Students. People whose names appeared in the notebook not as transaction partners but as observations — brief annotations in Kaspar's precise handwriting that assessed their capabilities, their interests, their potential.
+
+Elke Hartmann. Third year. Theoretical alchemy. Brilliant. No Second Circle. Faculty ignores her.
+
+Gregor Weiß. Fifth year. Biological engineering. One Circle. Publishes under his supervisor's name because his own carries no weight.
+
+Lena Schulze. Second year. Materials science. Three Circle but treats First Circle like furniture. Don't bother.
+
+The pattern was obvious once I recognized it. Kaspar had been mapping the Academy's population for talent.
+
+People like him.
+
+Whatever his intention had been, I had a different one.
+
+The Academy's main entrance was unchanged.
+
+The gates rose before me in the late-afternoon light — massive iron constructions set into walls of pale stone that climbed four stories before terminating in crenellations that were decorative rather than defensive.
+
+I passed through the gates without challenge. The guards recognized the Iron Cross insignia, or recognized my face from the Chronicle's front page, or simply didn't care enough to stop a young man walking through doors that were, technically, open to the public during daylight hours.
+
+The main hall swallowed me.
+
+Cavernous. Vaulted ceiling lost in shadow above. The floor was a mosaic of colored stone that depicted, in sweeping geometric patterns, the fundamental Circle formations that every student learned in their first year. Students and faculty crossed the space in every direction, their robes creating a river of color.
+
+I was halfway across the hall, my eyes on the small leather notebook, still absorbing entries I hadn't fully parsed, when the shoulder hit me.
+
+The impact caught my left side. Hard enough to knock the notebook from my fingers and send it spinning across the mosaic floor. Hard enough to push me a half-step sideways, my boot scraping against stone.
+
+A voice followed. Loud. The kind of volume that was designed to carry, to ensure that everyone within a twenty-meter radius understood that someone important had been inconvenienced.
+
+"Fuck off — watch where you're walking. Do you have any idea who I am?"
+
+I turned.
+
+Before I could place him, before the name could form on my tongue, the recognition traveled the other direction.
+
+His eyes found my face.
+
+The white hair.
+
+The scars.
+
+The Iron Cross insignia on my chest.
+
+"Holy shit."
+
+I looked at him.
+
+Darius von Dravenmoor.

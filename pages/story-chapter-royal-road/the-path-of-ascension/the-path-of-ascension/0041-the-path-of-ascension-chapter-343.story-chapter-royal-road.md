@@ -1,0 +1,203 @@
+---
+id: 9ebe76dc-883c-5998-9f70-c5b898f0dcdb
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 343"
+slug: 0041-the-path-of-ascension-chapter-343
+partOf: the-path-of-ascension
+position: 41
+ownLength: 5004
+unit: words
+ownProgress: 5004
+publishedAt: 2024-08-19
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1765757/the-path-of-ascension-chapter-343"
+royalRoadId: "1765757"
+markedReadAt: "2026-06-29T19:18:55.403Z"
+---
+
+Chapter 343
+
+Matt was fighting a battle of epic proportions when his [AI] alerted him that relief was about to arrive, and he happily stood from his desk, letting the projections of paperwork fade away as their seneschals were about to arrive.
+
+It had been close to fifty years real-time since Matt had seen Cato in person, although that meeting had been very brief when they came out of the rift for a quick press tour, and to read him in on Matt’s real Talent. The seneschal had been hardworking and vetted numerous times, along with agreeing to more stringent measures than AI backed oaths to keep Matt’s secret. Some of them had not been used since the last dynasty. Not that Matt expected they’d need any of them. All of their possible seneschals had been well vetted and deemed trustworthy enough before even making it to their desks. And Matt did trust Cato. They had been in, if not constant contact, regular contact over the years as he prepared things for Matt once the war ended, which had built a lot of familiarity.
+
+Frankly, without Cato taking care of things on the outside, Matt would have turned into a hermit the moment the war ended, as a million and one responsibilities were suddenly heaped onto him. Let alone starting a guild, Matt wouldn’t have dared open a sandwich shop.
+
+After their family reunion meal, the three of them gave into necessity and started going through a century and a half of backlogged paperwork. Most of it had been already taken care of, but a part of the correspondence couldn’t be handled by their seneschals, and even that had taken a few hours of concentrated work to push through.
+
+That was annoying, but not awful; it was what followed that had been overwhelming and made Matt want to pull his hair out.
+
+Liz and Aster didn’t have it nearly as bad, as they weren’t trying to create a guild with the express purpose of giving things away while also hiding the fact they made realm changing amounts of mana. Cato had done most of the leg work, but even just reviewing the convoluted legal structure that his seneschal and a team of Empire lawyers had put together had taken Matt five hours to parse through.
+
+In the end it boiled down to him opening a charity, not for the purpose of creating a charity guild, which would necessitate too much openness with their budgets, but just to hold all the patents they would create.
+
+The workers would be hired by a separate corporation with a contract that was nearly identical to a charity guild contract, but had the advantage of secrecy clauses. In exchange for not being able to take a piece of the eventual revenue of any products made, which was the typical contract for researchers, his researchers would be paid three times over the standard royalty based contract, with payouts for each project they were a part of that met standard breakpoints.
+
+As was explained in the brief, research teams needed to be able to fail without fear of reprimand, else dead projects had the habit of never ending and wasting resources, so there were payouts even for failures. One of the clauses that he had wanted to add was that in the event of successes, Matt would even fund the researcher’s own projects that they could claim personal rights to, so long as they weren’t directly derivative of what they created with his guild. He didn’t like the last addendum to the clause, but as was pointed out, it wouldn’t do for someone on one of his teams to create something, leave it half assed, and then create their own complete thing on Matt’s mana. And of course, the guild kept right of first refusal to any results of these products. It would go rather against the point of it all if they funded research that then got sold into the same locked ecosystem that so much else was stuck in.
+
+That wasn’t what his guild was meant for.
+
+He wanted to help people. Preferably low Tier people, who needed all the help they could get.
+
+All of it wouldn’t have been possible without the Emperor effectively rubber stamping the venture via the express method of adding his wife, Carissa, to the board of directors. She had already sent in a letter that due to her pregnancy, she would be unavailable to show up to any meetings, and temporarily relinquished her rights to Matt.
+
+Anyone foolish enough to look at that and then try to mess with Matt or his guild deserved whatever disaster fell into their lap.
+
+It wasn’t the only oversight he was given, as Harper had contacted Cato and made it clear that a few of their operatives would need to be given jobs to prevent spies from getting too close to things the Empire deemed important.
+
+Matt didn’t like the open ended nature of that, but he also acknowledged he had little recourse to refuse if he wanted to keep his mana source hidden.
+
+No, that was taken care of. But instead, there was a larger issue that Matt needed to talk to Cato about. Better yet, now that Cato was here, Matt could hopefully blast through the remaining paperwork with his assistance.
+
+Together, the three of them met the three seneschals at the estate’s front gate and escorted them in. They could have left that to the staff, but it had been so long since they had seen them, it was good to see them in person. And Matt, at least, needed the excuse to get out of the office.
+
+All three were exactly as Matt remembered them, with the exception of Liz’s seneschal Isabella, who was now Tier 25, having graduated and been rushed to the break point while the war was ending. Tier didn’t directly tie into competence, since thinking faster didn’t make one smarter or more knowledgeable, but it did increase perception, which crammed more moments into each second.
+
+Aster's seneschal, Alice, was still Tier 41, and had an uncanny resemblance in demeanor to Luna that always caught Matt off guard. She was also the only one carrying anything. The binder was perfectly ordinary, not even spatially expanded, but Matt felt Aster’s wince upon seeing it. It was sure to be unpleasant to go through that much paperwork.
+
+Matt wanted to gloat, but he was sure Cato had more than his fair share of the same.
+
+Proffering his hand, Matt broke protocol. “Nice to see you again, Cato. How have you been?”
+
+Cato blinked at Matt’s outstretched hand in a subtle rebuke, before taking it and shaking firmly. “You break protocol, My Lord.” Having said that, he bowed slightly after taking back his hand. “It is my duty to show my fealty upon seeing you after so long.”
+
+Matt had wanted to avoid exactly that, but he was distracted by Liz who cleared her throat.
+
+“Before we go our separate ways, we intend to host a party to celebrate the end of the war, our noble houses’ founding, and Matt’s guild’s founding. We want to bring in everyone relevant. It's a bit last minute, but should be workable.”
+
+Isabella chewed her lip before saying, “That's possible but the Emperor is expected to return and hold court within a month, which puts a firm date that this needs to happen before. Anything after that date is considered…” She searched for a word before finishing. “Uncouth, and I would recommend against it.”
+
+Alice’s shaven head gleaned as she pursed her dark lips into what might almost be construed as a frown. “In addition, hosting a party with your celebrity on such short notice will force people to choose between your party and any others that are being hosted at the same time. That will step on many toes.”
+
+All eyes turned to Cato, who just flipped his ever present chain around his pointer and middle finger with a snick. “It will step on toes, but if we go big enough and invite literally everyone, you can avoid most of the blowback by dint of ruining everyone’s parties, and letting them mingle with even more people than normal. The higher nobility and—” He turned to Matt and asked, “Do you intend to invite guild and corporation leaders to this as well?”
+
+When Matt nodded he continued. “The higher nobility, guild, and corporate leaders will balk if they don’t have their own exclusive areas to get away from the rabble, but if you flatter them a little, they will be happy for the excuse to mingle with their public rivals while being able to claim inability to ignore your offer, even if they have to mingle down a little at the same time.”
+
+Isabella had been nodding along, but Alice threw a wrench into the plans. “The cost of such a venue and catering it last minute to the degree that those nobles will expect will be exorbitant to say the least. In the realm of ten to fifteen Tier 40 mana stones. Possibly more.”
+
+In raw mana, that was as much as Matt made in two weeks. Of course, his actual mana stones were worth nowhere near that much, but they were rich enough between their status as war heroes, Ascenders, and in Matt’s case a mana generator, that they could afford it even without relying on their higher-Tier connections. They couldn’t make a habit of it, but this was a unique occasion.
+
+The three of them shared a look before Liz nodded. “The event serves a variety of purposes, so while the price isn’t irrelevant, it’s worth it.”
+
+In a mirror of their look, the three seneschals looked to each other, silently communicating. A moment later, Isabella nodded. “I’ll run point on this then. I’ll have a plan prepared by this evening and we will present it tomorrow morning for the lord and ladies’ review.”
+
+Matt, seeing that they were done, turned and started talking with Cato as they walked deeper into the estate. “So, I like what you have set up for the guild, but I’m not entirely happy with the stance on not buying out other people's guild contracts. A number of the best and brightest are locked into millennia long contracts, and us not offering any kind of buy out feels counterproductive to my larger goal.”
+
+Cato frowned but didn’t disagree, and they walked on in silence until they had reached the office Matt had taken over. “It's not impossible to offer them, most old and established guilds and corporations in fact ride the line of espionage with their buyouts. Buyouts in general are a bit of a legal loophole more so than intended law. All contracts must have exit clauses and offering to cover those clauses happens, but they are… bad form at best, and will cause the guild to stall if we irritate too many established players before even getting started. While your goals are laudable, My Lord, giving away anything for free is going to make a lot of enemies. Not offering buyouts will cut off most easy avenues of reprisals. We can offer them, but you never indicated a time crunch, so we can simply wait for the researchers' contracts to naturally end before we hire them after they refuse to renew. It would also allow us to start with a smaller, and therefore less unwieldy, guild structure in the early years, making any growing pains more manageable.”
+
+Matt pursed his lips but didn’t have a rebuttal that wasn’t based in petulance. He wasn’t in a rush, but he didn’t want to wait for all the wrong reasons. He hadn’t thought becoming an Ascender had truly changed him, but his initial reaction was to say he didn’t care and anyone who did could pound sand. That wasn’t how guilds and corporations worked, it was how bull headed Ascenders acted when they thought their might on the battlefield transferred into civilian life.
+
+That was an ego check that Matt took to heart.
+
+“You're right. I’m apparently still in Ascender mode, and I’m trying not to be. If I suggest something that is bullheaded for no reason, yell at me.”
+
+“Assss you command, My Lord.”
+
+Matt rolled his eyes at Cato’s flat expression paired with a stressing on his snake-like talking.
+
+“I’m not going to yell at you for telling me I'm being an idiot.”
+
+“You're being an idiot.”
+
+Matt paused at the sudden interruption, his jaw working but no words coming out. After a moment, he managed to get out a single word without laughing. “Oh?”
+
+“The idea of making a charity guild is fine My Lord, but those things are small scale and usually for social issues or particular issues that arise on a specific planet. Your intentions will step on a lot of toes of very powerful people. Individually, they might not be able to disrupt you and your plans, but if you create something truly revolutionary that disrupts an established market, you will find the established powers have little remorse or hesitation to come at you from any and all angles. If we simply act as a research guild, and after developing something, patent and sell said patent to the established powers, we can avoid a lot of conflict.”
+
+Matt hadn’t been sure where Cato was going, but he nodded along as he listened. Instead, he inspected Cato and compared it to what he knew of the man. Cato had left his previous noble charge because the man needed a nanny, and Cato wasn’t that. He was willing to steer the train off a cliff if that was his order, but he would recommend a more sensible plan. That was the main reason Matt had chosen the man to be his seneschal, and he valued the fact he was willing to speak up if he thought Matt was going to make a mistake.
+
+Finally, after he was done with his inspection he said, “You are entirely right, Cato, I’m sure I’m going to piss off a lot of the established powers. Not even just my Talent. I already have a discovery nearly ready to ship, that I worked on with someone I knew in the army. This is why I had you look into aperology.”
+
+Cato looked at Matt with his slitted eyes blinking slowly as he processed what Matt said.
+
+Connecting to the wall projector, Matt showed a projection of a rift.
+
+“In your opinion, what is the most valuable thing that can be pulled out of rifts Tier 4 and below.”
+
+“Growth items.” Catos answer was immediate and sure, but he frowned as Matt shook his head.
+
+“Think more obscure. Rarer. Only normally seen in low Tier rifts.”
+
+Cato’s eyes started to flick side to side as he sifted through information on his AI.
+
+It took almost two minutes, but he eventually focused on Matt and said, “Aura.”
+
+Matt grinned as he changed the projection to show some of his and Erwin’s early findings back when he was just a baby Tier 6.
+
+“With a friend's assistance –Erwin, you should have already processed his application– I discovered a way to repeatedly and consistently create aura rifts in the Tier 3 and 4 range. Most of our time was spent reinventing the wheel, but we made a genuinely new discovery thanks to my mana sub-aspect.”
+
+Matt couldn’t help but smirk as Cato’s slitted eyes widened into circles, large enough to almost eliminate the whites of his eyes. He knew Cato had researched guilds, corporations, and noble family holdings when Matt indicated he wanted to create a guild, and from the reaction, he had already put together the consequences of such a creation. It was petty, but his reaction tickled a deep part of Matt, which was mainly why Matt hadn’t informed him earlier. They had enough time that the delay wouldn’t hamper them, but the aura rifts were one of the things Matt had done himself. It wasn’t about his Talent, even if his Talent had enabled the discovery and that made it special for him.
+
+“I could ship the information today and it would work, but I want to spend a decade or so refining the information before we publish it. I’m aware that I’m going to stomp on the toes of a lot of companies. Especially the companies that create Bottled Concepts. The subsidies they and their Tier 35 workers get for creating Bottled Concepts are immense, and while it won’t immediately ruin their jobs, the dissemination and propagation of auras will eventually eliminate or at least severely limit the need for bottled Concepts to advance past Tier 4. Those who rely on those subsidies and tax credits are going to be pissed. But Cato, here's the thing.”
+
+Matt looked deep into Cato’s eyes and held them, letting all of his determination shine through. “I. Don’t. Care. This can and will help an uncountable number of people. I won’t just patent it and sell the product, even if I could make a fortune in doing so. It’s not like money is a direct concern, after all.”
+
+Cato swallowed before correcting Matt. “More than a fortune. More like four or five fortunes. That discovery would be worth a king title at the least. Are you sure that isn’t something you desire, My Lord? In fact, I think I’m underselling it. This discovery will have the other Great Powers clamoring for it. If the method is exportable the profits could be mind boggling.”
+
+Matt was about to speak when Cato frowned. “Also, My Lord, I think I should mention that you won’t just eventually ruin the Bottle Concept companies with this news. They will almost certainly take a massive loss in their share prices the moment this news breaks. That will make a lot of very powerful people very angry. Those same companies would pay through the nose to be the ones distributing such a method, as it would let them diversify their holdings over a longer time and prevent a sudden downturn in share prices. In fact, they would probably see an upsurgence. This will make enemies, My Lord.”
+
+Matt chuckled lightly and asked a separate question. “What would you do, Cato? Be straight with me. If you were sitting on this, how would you play it? Even if you didn’t have my Talent. Would you just sell it to the highest bidder? Honestly?”
+
+Cato didn’t answer immediately and instead pondered the question. “I’d like to think that I would do the selfless thing, but I don’t know. This is an unheard of opportunity and I have never pretended to be a saint.”
+
+“What if you thought you could do more? If you believed the well wasn’t dry. Does that change your decision, or make it easier? With my Talent, I can afford to test the hard way, but while I may not be Talented at aperology, I have a knack for it. There is more low hanging fruit for me to gather.”
+
+It didn’t seem possible, but Cato’s eyes widened even further before he settled down and nodded. “That would change things. I would at least like to think I would do the same thing as you, My Lord, and make it free. Help as many people as possible without bureaucracy getting in the way.”
+
+Matt nodded. From all the reports Matt read about him, he knew Cato wasn’t a selfless person, but he was a good person. He always tried to avoid hurting others in his plans, even if it made things harder or lessened his own success, so long as it was within tolerable limits. He could also be ruthless if he thought it was worth it, which was what Matt needed.
+
+Cato was right when he said the guild was going to make enemies, which was exactly why Matt needed someone who could assist him without crumpling in the face of everyone they were going to piss off.
+
+He needed someone who cared, but could be ruthless enough to push through the obstacles.
+
+He needed Cato’s unwavering support for what was coming. At least until he had a Vice Guild Leader to take over the day to day operations.
+
+“I see My Lord. Thank you for enlightening me.”
+
+Matt waved Cato’s bow away. “I’ve lived with my Talent for a long time so it means less to me than you. But to answer your comment about me being an idiot for this whole venture. I know, but I refuse to hold back. I—” He paused as he thought he might have seen an issue. “Did you see the budget for the guild’s researchers? I don’t think I ever saw it in the packets you sent over.”
+
+“I assumed it hadn’t been settled on what is safe to launder, so I didn’t bring it up.”
+
+“For the time being, I have secured one hundred billion mana a day for the guild. We ca—”
+
+Matt had expected Cato to be shocked at how much mana the Emperor was willing to launder, but Cato hit him with something he didn’t expect. “Then the Emperor already knows about the aura rifts. That makes a lot of things easier. Or at least, that is how we should play it. Even knowing your Talent, the Emperor funding the guild is where my mind immediately went.”
+
+He hadn’t considered that angle, but it was a good one. Being on the other side of the secret for so long, he had only considered explaining away his mana through a combination of Manny, Mara, and Leon. But from an outside perspective, it made more sense that the funding was just a reward for the aura rifts that they were trying to keep under wraps. It might not be a permanent solution, but it was a fairly long term one. And so long as they invented something useful to the entire Empire, the funding could continue unabated and unquestioned.
+
+“Does that change your recommendation?”
+
+Cato pulled another chain out of his spatial ring and went back to spinning it around his fingers for almost five minutes, but Matt gave him the time to think.
+
+Eventually he nodded. “I can and will do a more detailed analysis based on this new information, but my preliminary answer is no. In fact, I believe it's smarter to play things even closer to the vest in light of the scale of our changes.” Seeing something in Matt’s reaction, he hastened to add, “Not out of fear, but so as to better position yourself for the inevitable fallout. There aren’t a ton of people who dabble in aperology, but there are a few. Thankfully, there aren’t any guilds or major noble houses who do more than dabble. That said, I know of one who is going to be a problem. Mackenzie Harrington, a Tier 45 with an aperology Talent that allows her to make rifts. The exact limits of her Talent are unknown. Additionally it's unknown and unlikely that she can affect rift rewards, but she works for the upper echelons of Empire society and she is… Protective of her monopoly on higher Tier rift creation.
+
+“She is both wealthy and well connected thanks to her making hand made rifts for those who can afford her skills. I’ll need to look into her more, but from what little third and fourth hand knowledge I know of her, she would rather see any information about aperology locked away rather than freely disseminated. She hasn’t done it in a long time, but when she was still making a name for herself, she did things like create perfect farm rifts. In the middle Tiers, not the lower Tiers, but she would see these advances as stepping on her toes. We will want to garner as much good will with other guilds, corporations and noble families as possible before we inevitably confront her, which means slow playing the beginning, and if possible, giving a small head start to powerful noble families as a show of good faith. They will appreciate the advantage even if they know it won’t last, and you won’t have to compromise on making everything free.”
+
+Matt frowned at the analysis. He knew of Mackenzie Harrington but he hadn’t considered that she was going to be an issue. She exclusively dealt with higher Tier rifts and was very secretive of her work, with clauses in her contracts that meant any rifts she created couldn’t be opened to the public. There was mass speculation about her actual Talent set and what it did, but no one really knew.
+
+Matt knew he could ask the Emperor, but her Talent wasn’t the issue. It was her attitude, which was apparently worse than he knew. She cultivated an image of aloof and busy rather than petty and vindictive, but Matt believed his seneschal more than second hand knowledge that was undoubtedly controlled by a PR team.
+
+He had considered trying to bring her onboard, but Erwin had brought up a good point. Some research teams were built around trying to maximize a Talent set, but anything that was built off that foundation was incredibly hard to re-engineer into something that could be mass produced, or even just created without the Talent.
+
+Matt wouldn’t exclude those with Talents because pushing the bounds of what was possible had value, but it wasn’t what he wanted for his aperology department. He wanted things that could be deployed far and wide.
+
+But this information that Mackenzie might deliberately try to make trouble wasn’t what Matt wanted to hear. His initial reaction was to just wait for her to make a move and then tattle on her to Lila, but that was childish, and not the right way to handle these kinds of things. Fight fire with fire and politics with politics. No matter how amusing it might be to see a woman who used her Talent for pure profit, and then used that profit to keep her monopoly, get chewed on by a dragon.
+
+Matt was also no saint. If he was, he would voluntarily walk into a cage to just make mana for everyone, probably inside a Tier 47 rift with its incredible time dilation. The fact he wasn’t that self sacrificing didn’t change the fact he detested Mackenzie and her ilk. It was one thing to profit from one's Talent, but it was another thing to run interference to ensure no one threatened your interests.
+
+Not that Matt would let this stop him.
+
+Still, this was good to know, as now he knew who he should target for the upcoming party. That was the idea behind inviting everyone, after all. No matter how much he didn’t want to spend a week schmoozing with nobles, guild leaders, and corporations leaders, it was the time to set the foundation of what was to come.
+
+“Also, Cato, I intend to dedicate a team to enchantments similar to the [Bandage] talisman back when I was at the Tier 10 tournament. I don’t have any ready to drop, but I intend to fund an entire department with similar goals.”
+
+Cato’s already pale skin went almost transparent. “My Lord, can we keep the Empire shaking revelations to a minimum. Or at least the ones that will conflict with existing interests? Or at a minimum keep to one at a time? The rune guilds are expansive and tied up in a coalition of guilds that don’t take kindly to anyone outside their ranks creating runes at all, let alone giving them away for free.”
+
+Matt just laughed. “I’m going all-in, Cato. There is no stopping this train. And I don’t intend to stop with these. If we find someone with a good idea for a project, or who is willing to sign up with our conditions, I’m willing to fund almost anything.” Bobbing his head, Matt equivocated. “In theory, at least. Even a hundred billion mana a day won’t stretch across endless teams, but point being, I won’t limit my scope just because it will step on established interests. I intend to focus on low Tier items and issues because they are the people in the most need, and anyone who sees their profits as more important than progress that can help people can get bent. It won’t be easy, and I want to avoid making enemies, but I won’t avoid doing something because it will make enemies. Maybe I’m naive, but I think enough people are decent and can see these things as good things. It's not like I won’t let them make a profit.”
+
+Cato raised an eyebrow at that statement, and Matt explained, “I don’t intend for us to make things. At least not on any kind of scale. So those companies can make and sell our products, but they won’t have a monopoly or patent preventing their competitors from undercutting them if they price their goods too high. Margins might be thin, but they won’t be nonexistent.”
+
+“That is a good angle, My Lord. And one we, or rather you, should mention often and loudly at this upcoming party. Speaking of the party My Lord, is there anything else you need of me immediately? If not, I ask your leave to go and assist with the preparations. I need to start laying the groundwork for a number of notable non noble guests, as I am the most familiar with them thanks to our prepwork.”
+
+Matt dismissed Cato with a wave. “My only issue was with the buyouts and I agree with your reasoning, at least for now. Better to start small and grow organically. We can pick this back up once you have some more time.”
+
+Looking back at his desk, Matt sighed. “I’ll just return to my paperwork then.”
+
+By the time he turned back around, Cato was already gone before he could try to weasel a clone out of the man to help.

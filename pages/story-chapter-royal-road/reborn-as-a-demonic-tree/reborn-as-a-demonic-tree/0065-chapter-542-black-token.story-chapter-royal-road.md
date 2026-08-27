@@ -1,0 +1,201 @@
+---
+id: 9d5e691b-651c-516a-a4bc-9e52fe749d45
+page-type-slug: story-chapter-royal-road
+title: "Chapter 542: Black Token"
+slug: 0065-chapter-542-black-token
+partOf: reborn-as-a-demonic-tree
+position: 65
+ownLength: 2730
+unit: words
+ownProgress: 2730
+publishedAt: 2026-03-06
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3124014/chapter-542-black-token"
+royalRoadId: "3124014"
+markedReadAt: "2026-06-29T19:03:46.020Z"
+---
+
+Stella was back in the Lion's Den gambling hall.
+
+Not because she had a newfound addiction to gambling, but because a week had passed since she first set foot in these frigid halls, and it was finally her last night here in the Frozen Star Sect.
+
+Tomorrow, she would return home to Red Vine Peak and Ashlock.
+
+Sitting in the corner of the gambling den with her hood up and minding her own business, she idly fiddled with the small stack of chips she had before her. Nobody was with her, besides Maple, who was nestling in her hood and fast asleep.
+
+"I wonder if they have finished their meeting yet?" Stella muttered to herself, letting out a sigh. The reason she was hiding away in the corner of the Lion's Den and looking shifty was to avoid that very meeting. It regarded the future of the Frozen Star Sect, who would manage it moving forward, and whatever else they could talk about. She honestly couldn't care less. Besides raiding the vault for everything it had and enslaving Ao Lingxuan, there wasn't much else of value here.
+
+Especially since she had finally found the Fleshfruit trees yesterday, concluding her original purpose for coming here. She had no plans to stay in this frozen hellhole a second longer if possible, which is why she had avoided the meeting, in case someone demanded that she fulfill her role as the new Matriarch of this sect and actually stay. Ridiculous. Couldn't she own the place without ever setting foot here again?
+
+"Is this seat taken?" a man asked her.
+
+"No. I mean, yes—" Stella tried to correct herself, but it was too late. The chair was pulled back, and the man slid into the seat across from her.
+
+Glancing up only a little, she eyed the newcomer. He looks even more shifty than me, and that's saying something, Stella thought, staying silent.
+
+The shifty man placed a small stack of chips on the table.
+
+Does he want to gamble with me? Stella mused, swinging her legs around and facing the man more directly. I have some time to kill and don't care if I win or lose, so I suppose I can humor him.
+
+"What games would you like to play, Miss..."
+
+"You can pick one," Stella replied, not interested in giving her name or coming up with a fake one. She also wasn't that well-versed in gambling games, so she left it up to the expert.
+
+The man smirked, tapping the edge of the table with one gloved finger. It was hard to get a read on him, as his face was partially obscured by a pointed hood, and he possessed a thick black beard. "How generous," he said. His voice was smooth—too smooth, like silk trying to hide rotten flesh beneath. "In that case, let's play something simple. A game of trust."
+
+Stella raised an eyebrow. "That's a terrible game for gamblers."
+
+"Ah, but it's the most interesting one," he replied, dealing out cards from a worn deck with a practiced flick. The cards were old, with edges curled and faces faded. He'd used them many times before, possibly for many similar situations.
+
+Stella was intrigued by this mysterious guy's motives. She accepted the hand she was given but didn't glance at it. Instead, her gaze stayed locked on him.
+
+"What's your name?" she asked flatly to hide her curiosity.
+
+The man tapped his cards into a neat pile, never trying to meet her gaze. He smiled. "Names are like coin, don't cha think? Too many are handed out, and they lose value. But you can call me Crow if you so desire."
+
+Stella snorted. "Cute. Did you come up with that all by yourself?"
+
+"I did," Crow said proudly. "After I fell off a rooftop and landed in a pile of them. Crows, that is. They didn't seem to like me and attacked. I took it as a compliment."
+
+Stella wasn't sure if he was serious. "I guess it's lucky you weren't eaten."
+
+"Don't be ridiculous." Crow leaned in, smile widening. "They only eat the dead."
+
+A silence stretched between them.
+
+Stella gave in to the uncomfortable silence, flicking her eyes to her cards. Nothing good. A pair of threes. Or was that good? She had no idea what a game of trust even entailed. "So what are we betting? Chips?"
+
+"No, that's far too boring, money comes and goes," Crow leaned back in his chair, producing a black token from his coat. It shimmered unnaturally beneath the tavern's lantern light despite its dark color. "Do you know what this is?"
+
+Stella squinted at it and drew a blank. "I have no idea."
+
+"Good. Not someone in the know then," Crow said. "Trade it in with the right person, and you'll learn something worth killing for. How's that for a gamble?"
+
+Stella detected the faintest killing intent from his words, piquing her interest further, but she kept her expression neutral. "And what do you want in return for that token?"
+
+Crow smiled. This time, it reached his eyes, which were mostly obscured by his pointed hood. "Nothing much. You seem like the careful observer type. Perhaps you've heard or seen some interesting things as of late? You see, I just got here."
+
+Stella guessed what Crow was after. If only he knew who he was really speaking to. She smiled and went along with his little game. "A careful observer I may be, but I'm just as careful with sharing what I know. That token of yours better be as valuable as you claim if you want a word out of me."
+
+"Hence the game of trust," Crow said, fanning out his cards with their backs facing her. "Whoever has the highest combined number gets to ask a question. If you win, perhaps I'll let you learn the true value of this token of mine."
+
+"A game of trust, huh?" Stella threw her hand onto the table, the cards fanned out to display their worthlessness. "I'm not sure I trust your dealing."
+
+"I assure you it's fair, though it looks like I'm the winner this time," Crow said with a light chuckle, flipping his cards around to show far higher numbers.
+
+"What a lucky guy," Stella joked, but she didn't care for the game. She wanted this fool to ask the questions he wasn't ready for the answers to.
+
+"First question then," Crow leaned forward. "I've noticed people feel rather restless around here. Why do you think that is?"
+
+"A change in leadership will always do that," Stella replied.
+
+Crow gathered the cards on the table and set them aside while idly keeping the conversation going. "Oh? So there's a new leader?"
+
+Just got here, my ass. You're obviously poking around for something more specific.
+
+"You had your question," Stella said, taking three cards from the top of the pile. "Now draw."
+
+Crow chuckled. "You weren't lying about being closed off, Miss Observer. But you are right, those are the rules of our little game of trust," he said as he took three cards for himself and showed them. "Three queens. Lucky me, I have a harem."
+
+"Three queens?" Stella snorted, showing her far less impressive hand. "Did you really shuffle this pack?"
+
+"Maybe I forgot," Crow shrugged. "Second question then. Do you know the new leader's name?"
+
+"Stella," she replied.
+
+Crow hesitated. Just for a moment, but it was enough to tell her that she'd hit a nerve. The name Stella meant something to him, telling her all she needed to know.
+
+"I see," Crow said, straightening himself out. "Have you seen her? Did she perhaps have blonde hair and pink eyes—"
+
+Stella tapped the pack of cards between them with her finger. "Draw."
+
+"Ah, of course," Crow replied, his smooth tone masking his concern, though he shifted in his chair upon inspecting his cards.
+
+Stella smiled. They are bad, aren't they? She had used aether Qi to manipulate the pack, and there was no way for Crow to know. After all, she was wearing her Phantom Veil Amulet. It obscured her Qi, making her appear like a mortal.
+
+"Triple ones?" Crow said, unceremoniously dropping his bad hand onto the table. "I really should have shuffled the pack. Fine, ask away. What is it you wish to know?"
+
+Stella knew exactly what to ask. "What is someone from the Celestial Empire doing so far from home?"
+
+Crow tilted his head, as if genuinely surprised by the boldness of the question. Then he gave a slow clap, amused. "Straight to the root of my background, hmm? You don't play around. Most ladies start by asking to see my handsome face, but you already know I'm not from around here." He leaned in, the blue light of the cavern catching the edge of his smile. "Let's just say I'm seeking answers for someone who values secrets more than spirit stones."
+
+Someone working for an information guild or a private client, then? It can't be the Eternal Pursuit Pavilion, as they have an outpost here, so there would be no need to gather any intel. But he reacted to my name, so this organization is definitely aware of me in some way. She appraised the man a little more. His cultivation realm was somewhere in the Star Core Realm, good but nothing special. He had approached her, believing she was a mortal. If he really wanted to learn about what was going on around here, he could have gone to the Pavilion or asked any one of the other cultivators in this gambling den.
+
+Yet he had picked her, a mortal.
+
+He wants to remain as undercover as possible. He even went to the trouble of running this little game to make us look busy while we converse.
+
+Stella didn't react to his words outwardly and simply went back to drawing cards. Of course, she got all tens and knew she had won, much to Crow's growing confusion.
+
+"If you're from the Celestial Empire, I'd assume this person you're all the way out here gathering information for must be a Monarch?" Stella mused aloud. "Then my question is, what earned their attention to these faraway lands? Couldn't they learn all they need through the Eternal Pursuit Pavilion stationed here?"
+
+Crow looked up, and Stella caught sight of his face for the first time.
+
+His eyes were an unsettling milky white. He scrutinized her and seemed to draw a conclusion. His lips curled up in an unsightly way.
+
+"Word travels slowly in these frozen lands," Crow said finally, rolling a chip between his fingers, "but fast enough in the right ears. The Pavilion has fallen silent. The leader of this sect has changed. And... mixed rumors have spread. A Monarch's spiritual sense can't be everywhere at once, you see. But when an entire region goes quiet overnight? That draws attention. Hence, I'm here to uncover what happened."
+
+He was oversharing, and despite his childish name, Stella knew for a fact that Crow wasn't a fool. The way he conducted himself was too clearly rehearsed. He had done this many times before—it was just unlucky that he had picked Stella out of the crowd as his prey. Crow didn't know it, but she had noticed him shifting a blade down his sleeve and into his waiting hand under the table. He planned to silence the mortal before him, likely with a blade to the stomach.
+
+Oh, if only he knew.
+
+"You're right," Stella said suddenly, her voice curious, as her hand snaked under the table and caressed his thigh. His body tensed in confusion. "I really should have asked to see your handsome face first. Your eyes are so... unique-looking. They remind me of my own."
+
+Crow chuckled. "Surely you jest."
+
+Stella pulled back her hood.
+
+Crow's grin faltered, then collapsed completely as his eyes locked with hers. His face drained of color, pupils contracting in horror.
+
+"Y-you're Stella—"
+
+In a blur, her hand moved from his thigh, and she seized his forearm beneath the table. Placing her finger on the dagger's hilt, she drove it down into his wrist, planting the tip into his bone with a sickening crack. His mouth opened in a silent scream as shock and agony overtook him.
+
+She wasn't done.
+
+Her free hand shot out, fingers clawing onto the back of his neck like a vice. She yanked him across the table, sending cards and chips scattering, their quiet clatter drowned out by the ragged choke of breath he managed to draw in.
+
+"Last chance," she hissed, her tone cold as their surroundings. "Who sent you here?"
+
+Crow tried to respond, but blood bubbled at the corner of his lips as he twisted in her grip. "As if I'd ever tell a runaway experiment like you," he spat, teeth stained red. "Kill me."
+
+Stella pulled his head back and forced him to meet her gaze. Her earrings pulsed faintly—and her pupils turned black, spiraling into infinite depths. Bloodlust erupted from her body like a tsunami, drowning him in its invisible force. Crow began to tremble violently, his entire body locking up, but his mind resisted.
+
+He was willing to die with his secret.
+
+"Your employer must be rather fearsome," Stella said, "but if I were you, I'd reconsider because, unlike them, I can torture you even in the afterlife."
+
+Still, Crow remained tight-lipped.
+
+Stella watched him for a long moment, eyes as merciless as the void.
+
+Then she sighed in defeat.
+
+"A shame. We didn't get to finish our game."
+
+With one hand, she twisted his bleeding arm under the table until the bone snapped like a twig, then with the other, she wrenched his head sideways in a single, brutal motion. His spine cracked, and his body went limp instantly, the last breath leaving his lips in a pained whimper like the loyal dog he was.
+
+She let the corpse slump forward onto the table, his head landing amidst the scattered cards with a dull thud. Blood pooled rapidly, darkening the cards and soaking into his clothes.
+
+Stella reached forward, plucked the black token from his coat, and tucked it into her robe.
+
+"Thank you for the entertainment, Mister Crow," she said calmly, brushing off her sleeves.
+
+Nobody had seen the murder. Or if they had, they knew better than to say a word.
+
+Stella idly opened a rift to the aether that swallowed Crow alongside his chair. With his body and, more importantly, his soul secured, she brought out her gem-encrusted Pavilion pendant.
+
+Intending to send a message to Janus asking how the meeting was going and to report what had happened, she was surprised to see a pending notification from Tiberius, the Celestial Warden.
+
+"What does he want from me now?" she wondered, opening the surprisingly long message.
+
+Stella, a large amount of information about you, the Blood Lotus Sect, and the Ashfallen Sect was purchased by anonymous buyers in the Celestial Empire just now. My best guess is the Monarchs have taken notice of your father's activities, and there's a chance they might target you as they also took an interest in the Frozen Star Sect. Be especially cautious of agents from the Silent Thorn. They serve Mistress Veilshade, a shadow Monarch and famed information dealer. You can usually identify them by a black token they sometimes carry.
+
+Pulling out the black token from her robe, Stella sighed and repeated Crow's words.
+
+"I'm seeking answers for someone who values secrets more than spirit stones. How annoying," she clicked her tongue. "A bit late, Tiberius—they are already here." Pocketing the pendant and token, she made her way toward the meeting room in a bad mood.
+
+This place was already compromised. They were going to have to leave for Red Vine Peak tonight.
+
+At least I got this token out of it, Stella thought as she blinked through the aether. I wonder if I can really trade it for information worth killing for. Either way, it might be worth using this to infiltrate this Shadow Monarch's organization.
+
+She frowned. If these agents were already here in the Frozen Star Sect, they had no doubt infested Red Vine Peak and its surrounding cities, too. While she was sure Ash could handle it, she had to hurry home. If for no other reason than Ash worrying about her.

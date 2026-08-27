@@ -1,0 +1,203 @@
+---
+id: 338b8430-6a9b-5c68-8a92-9a5a9603b2b3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25: Not Even A Thank You"
+slug: 0025-chapter-25-not-even-a-thank-you
+partOf: the-gift-of-loot
+position: 25
+ownLength: 2465
+unit: words
+publishedAt: 2026-05-15
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3400677/chapter-25-not-even-a-thank-you"
+royalRoadId: "3400677"
+---
+
+Thomas drove home so exhausted that he felt numb. Looking back, he was probably a hazard on the road.
+
+Zach was no better, nodding off almost as soon as they hit the main winding road back up the mountain to Tahoe. He only woke up once they were in the city again, saying, "You missed my stop."
+
+He had just driven right past the park.
+
+"Sorry." Thomas hit the turn signal and immediately pulled over. That would normally have been a risky move, but after the System Announcement, road traffic was light.
+
+"No worries." Zach stretched, reached for the door, then paused. "Hey, I was thinking about heading up to the mountains for a few days. I gotta find some peace and quiet to rebalance my mana. I need peace and nature, you know?"
+
+It made sense that Zach's Gift with mana came with more maintenance than most people's. "Well, you better not start a wildfire."
+
+He grinned easily. "If I do, I'll be sure to put it out again."
+
+"My apartment's actually up the hill a little, by Ski Run," Thomas said, meaning the area of town and not an actual ski run since he was not a literal millionaire who could afford a condo in a world-famous ski town. "Want me to give you a ride? It'll save you a couple miles."
+
+He nodded. "If you don't mind waiting a couple minutes. It won't take long for me to pack my stuff."
+
+Thomas agreed, and Zach got out of the car to jog to wherever his tent was. He didn't mind the wait as he had something to do.
+
+Thomas reached into the back and fished out the box with the skill shard. Opening the lid, he stared inside for a moment. He only had one more skill slot left until he reached the next level, and if there was a way to swap out skill shards, he wasn't aware of it. Though... he'd already made his decision. No point in waffling. Picking up the shard, he focused on it. It liquefied in his hand, sinking into his skin.
+
+Focusing inward, he felt the energy of the shard dart straight towards his core, where it seemed to bind with both the healing energy and the thin shell of Wellspring mana that had managed to attach there. His stomach felt warm for a second, almost uncomfortably so. Then it settled down, and it was done.
+
+He checked his status screen.
+
+Skills 2/2:
+
+Basic Predictive Sight Against Adversaries
+
+Living Architecture
+
+He'd done it. But just in case, he also dug out a B-grade healing crystal and absorbed it, as well as another Adaptive mana. There was still a lot of Wellspring mana flowing in his veins, so he got the uncomfortable feeling that he'd eaten too much.
+
+Well, he'd be spending it all again soon.
+
+****
+
+Zach returned a couple of minutes later with two tight packs. He tossed them in the back of the car, and away they went.
+
+As soon as Thomas pulled up to the apartment, he knew there was trouble. His nephews—Ashton, Kingston, and Braxton—were outside on a school day. They were taking turns jumping their bikes off a ramp made of plywood leaned against a log they'd put out in the middle of somebody's parking spot.
+
+Before he blew his top, Thomas did a quick inward check. Was it Tuesday? Wednesday? He couldn't remember, but they should be in class.
+
+"Damn it."
+
+"Something wrong?"
+
+"Those kids are my nephews, which means my brother didn't get up to take them to school again." He sighed. "And they're going to be all up in my business while I'm trying to regrow their father's hand."
+
+"Leave it to me," Zach said.
+
+The nephews recognized the car and stopped their bikes to stare as Thomas pulled up. With a cheeky grin, Zach grabbed the sword.
+
+Cutting off my nephew's limbs will not solve this,Thomas thought, but he didn't say anything. He trusted the guy not to be a psycho. It came with the territory of running through two high-stakes dungeons together.
+
+Sure enough, Zach got out of the car and immediately proceeded to balance the extremely long sword on one finger, saying casually, "Are you Thomas's nephews? The ones he said wanted sword lessons?"
+
+"Yeah!" all three yelled.
+
+Thomas, deciding that the coast was clear, slipped upstairs to the apartment.
+
+****
+
+He found it a complete mess, with a load of dirty dishes in the sink. The door to the bedroom, formerly Thomas's bedroom, was locked.
+
+Thomas shook the knob impatiently, called Derek's name, but received no reply. So Thomas reached to the top of the doorjamb and grabbed the bedroom key, then he unlocked it and let himself in.
+
+Derek was a lump on the bed, and seeing his brother there, he shifted and pulled the covers up.
+
+The last of Thomas's patience snapped.
+
+"Are you kidding me right now? Get up." He smacked him on the shoulder. "You didn't take your boys to school today. What the hell, Derek?"
+
+"Leave me alone," Derek said, sounding like a child, even though he was older than Thomas.
+
+He had never seen his brother like this. Not even when Tiffany, his wife, ditched him and the boys to live with the boyfriend she'd made while in rehab. Then again, Derek liked to give the impression that he knew everything and was in charge of it all.
+
+"Up." Thomas pulled back the cover. "You lost your damn hand, Derek, not your legs."
+
+Derek tried to pull the cover back up. "I'm sleeping."
+
+"You've been sleeping for days." This time, Thomas ripped the top cover away completely.
+
+Derek squinted at him. "What do you want?"
+
+"Sit up," Thomas said. Derek scowled but complied.
+
+"I can't do anything right-handed, okay? Is that what you want to hear? I can't even make coffee for myself. I kept reaching with the stump." He waved his arm in front of Thomas. "You think it's safe to drive like this? One-handed?"
+
+People do it all the time, Thomas almost snarked back. "So what's the answer? You're just going to give up? No, never mind," Thomas said before Derek could answer. He didn't know if his brother needed a hug or a kick in the ass, or what. But Thomas was not his therapist, and frankly, he was exhausted. "Give me your arm. I think I have a solution."
+
+Derek stared at him like he was insane, which was mildly insulting because he had literally lost his hand in a magical dungeon. But slowly, he extended his arm.
+
+Thomas took it by the elbow, touched the stump, which, thanks to a previous healing crystal, was completely clean and not irritated, and focused on his Living Architecture skill.
+
+Immediately, he felt his healing energy wash out, and... he realized he wasn't exactly sure how to build a hand. Yeah, there were bones and nerves and flesh and tendons, and... stuff. Obviously. And he knew what a hand looked like, but it wasn't like Thomas had ever gone to medical school.
+
+The Living Architecture shard was silently asking for answers that he didn't have. And suddenly, Thomas understood why the National Guard guys had mentioned that no one had qualified for this shard. Surely they had healers in their ranks by now, right?
+
+But he had not gone through all of this just to give up. He held the image of what was supposed to be there, then silently grabbed Derek's other hand for a nice comparison. He pushed harder, and the edge of the stump started to glimmer in a way that reminded him of Adaptation mana.
+
+Derek exclaimed in surprise and almost twitched out of Thomas's grip, but Thomas growled, "Hold still."
+
+When Thomas pushed harder mentally, that was when his Wellspring mana took over.
+
+Suddenly, the motes that had been so strong they had literally locked up his muscles when he'd absorbed them rushed to the front. Thomas had a moment of panic until he realized that the motes were sort of reinforcing both the Healing and the Adaptation mana.
+
+And just like that, a new hand started to grow out of Derek's wrist.
+
+"Thomas, uh, something is coming out of the stump."
+
+He didn't blame Derek for sounding worried. Right now, it looked like a baby-doll hand had sprouted from his stump.
+
+"Don't move," Thomas said again, mildly impressed that his voice sounded certain in his ears. Inside, he was freaking out and wondering why he hadn't practiced this ahead of time. At least Derek wasn't screaming in pain.
+
+He doubled down, staring hard at Derek's remaining hand, willing the Wellspring mana, the Healing mana, and the Adaptation mana to copy it, but as a mirror image. It wouldn't do Derek much good if he had two right hands.
+
+And slowly but surely, kind of like watching one of those growing plant videos, the pink wrist and hand started to form. It had the fleshy, pale look of skin that had never seen daylight. Obviously, Thomas was not skilled enough to match his tan.
+
+Finally, it was done.
+
+Releasing his brother, Thomas sat back, breathing hard. He felt like a wrung-out rag, and his own hands were shaking so much he had to press them flat to his knees.
+
+Derek was just staring at his hand. Slowly, he flexed his fingers into a fist, then out again. Then he brought his other hand over and poked it. "It's... back," he said, shocked, looking up at Thomas. "How did you do it?" But he didn't give his brother time to answer and instead pressed his brand new hand over his eyes, turning away.
+
+Thomas let him have a minute. He needed one too. He felt like he had been running a marathon, and Thomas had never been exactly a marathon runner.
+
+Finally, Derek scrubbed his face and dropped his hand.
+
+"Okay," he said. "This is your Gift, right? Okay," he repeated, breathing out sharply, "you need to go to the hospital."
+
+Thomas blinked at him. "Uh, what?"
+
+Derek sat up straight, projecting an air of authority. "Look, if you can do this," he flexed his fingers, "there are people who need you. Oh my God, Thomas, you can get surgeon money. Better than surgeon money. My hand doesn't hurt. This is amazing."
+
+"No," Thomas said flatly.
+
+Derek looked at him like he was an idiot. "Why not? Do you know what people would pay, right? How you could help people—"
+
+Thomas had to stop that line of thinking right there, because damn it all to hell, he did feel a twinge to help. And he didn't know if it came from his mana, the shard, or just basic human dignity.
+
+"Oh, yeah, that's a great idea, Derek. Why don't I just fix people openly with magic? Maybe put it on TikTok to monetize those clicks? And then the next thing I know, I get my ass kidnapped by... I don't know, a cartel or something, and I'm stuck fixing people at gunpoint."
+
+Derek's mouth opened slightly. Whatever he was about to say, Thomas did not want to hear it.
+
+"Let me make things very clear for you," Thomas continued. "I have a healing ability that can regrow limbs. If the wrong person finds out, I start being a resource. It's not that I don't want to help people," he said, "I do. It's just that... the world is about to go to shit."
+
+"It's not like that. And I never said anything about TikTok." Derek jutted out his chin stubbornly. "Go to the government."
+
+"Do you think the government's going to exist in six months?" Thomas asked. "When everybody has magic powers?"
+
+He had never really verbalized it like that, but it hung there between them.
+
+"So you're not even going to think about it?" Derek asked. "You're working part-time as a paralegal's assistant. Now you can rival world-class hospitals all by yourself. If things go down the drain, you'll be valuable. You'll have experience doing something everyone is going to need. This will set you up for life."
+
+Thomas was not going to take advice from someone who had failed his first dungeon and had just been moping in bed for three days.
+
+"Derek," he said, "if anyone asks, I healed you using a one-use item called a Shroud. You have no idea what I just went through to get this ability. You've seen dungeons for like two seconds before your hand got bitten off, while I was just in a dungeon for over a day. Do not test me on this."
+
+Derek wasn't intimidated by him. He could see it in his eyes. He might have said something they both would have regretted, but then one of the nephews made a childish shout of glee from outside.
+
+Breaking the glare off, Derek slid out of bed and went to the window. He visibly stiffened. "There's some guy with a sword talking to my kids."
+
+"That's Zach," Thomas said. "He's fine."
+
+He was so tired that his eyes burned. Or maybe he was just... tired of Derek. The man was acting this way because he was overwhelmed and wanted to reestablish control in his life. In many ways, Derek was brittle. Once his sense of self had been punctured, he completely collapsed. Now that he had it back, he felt like he had something to prove. There was no in-between.
+
+Predictably, Derek didn't listen and charged right out of the room. Thomas heaved a sigh and went after him.
+
+He made it just outside as Derek was walking up to them, practically snorting fire, but the almost-confrontation was thwarted when the kids spotted their dad. They had been lined up in a row, tallest to smallest, each holding a long straight stick, while Zach flourished the actual sword and showed them a couple of fancy moves.
+
+But the second the kids saw their father and clocked that he had two hands again, they ran over to swarm him.
+
+Dodging past the exclamations and rapid-fire questions, Thomas caught Zach's eye.
+
+Say one thing for Zach: He could read a room. Quickly, he sheathed the katana, then tossed it to Thomas.
+
+Thomas caught it easily. Zach gave a little salute, slung his packs, and walked away.
+
+Thomas did too, back up the stairs, past an apartment that looked like a disaster zone.
+
+With the key in hand, he went into his former bedroom, locked the door, and flopped down on the bed. The boys would be amped up for hours, and Derek could sleep on the couch.
+
+He fell asleep.
+
+Derek hadn't even said thank you. He was his brother, but Thomas would remember that.
+
+He should have given him two right hands.

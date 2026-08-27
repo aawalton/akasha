@@ -1,0 +1,139 @@
+---
+id: bc6a0547-6b3a-53b0-8dcf-6d9056f581d6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1210 - The Calm Before the Lesson"
+slug: 0082-chapter-1210-the-calm-before-the-lesson
+partOf: the-primal-hunter
+position: 82
+ownLength: 2840
+unit: words
+ownProgress: 2840
+publishedAt: 2025-11-26
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2795110/chapter-1210-the-calm-before-the-lesson"
+royalRoadId: "2795110"
+markedReadAt: "2026-06-29T19:31:51.863Z"
+---
+
+“So you’ve decided to keep him in the dark?” the Primordial asked as he looked at the Viper with a smile.
+
+“Hey, while I have some confidence in Jake’s acting skills, I’m far more confident he’ll prove himself a better actor when he doesn’t know,” Vilastromoz shrugged. “What I said wasn’t untrue either. This will be healthy for him.”
+
+“I’m not talking only about that,” the smiling god said, tilting his head slightly.
+
+“Oh, I know,” the Viper ignored what Eversmile was hinting at and changed the topic entirely. “I take it you haven’t made any progress either?”
+
+“No… the traces of karma have all been severed in a fashion I haven’t quite seen before,” Eversmile shook his head. “If I didn’t know better, I would think you had been involved. Few are capable of exercising the concept of oblivion to such an extent.”
+
+“I’m aware, but it was worth a shot nevertheless,” the Viper let out a sigh.
+
+Eversmile had agreed to assist in trying to figure out who exactly had been behind the ambush in the void. As the premier user of karmic magic, there was no one better at tracking down people than him, but for him to even start tracking, he needed a trace.
+
+However, it appeared that the final implosion that had destroyed the gods and avatars behind the attack had completely removed them from existence, leaving nothing behind for Eversmile to start working with.
+
+The Malefic Viper had known this would likely be the case after even Aeon hadn’t been able to reverse time and get a proper look at the ambushers. Whatever item they had used was of immense power, and no one seemed to have the faintest clue as to who was capable of crafting something like that.
+
+“What I can confirm is that the people your Chosen identified were indeed dead,” Eversmile continued. “Their karmic ties had been severed in a fashion that only death could cause. Their Truesouls had been extinguished and returned to the system, which begs the question of how they were still moving about.”
+
+“We also have no fucking idea why an organization that powerful would need Jake so desperately that they’re willing to risk exposing themselves after having stayed hidden for so long,” Vilastromoz scoffed.
+
+This was still the part that bothered him the most. Jake was talented and had some unique abilities… but he was still only a mere C-grade. No matter how powerful his Bloodline was, what he could do wasn’t capable of directly using his powers on a god. Jake could pour out every bit of his special energy in an attempt to assist a god, but it would add up to nothing more than a droplet in an ocean.
+
+The only two scenarios the Viper could see were one where they wanted Jake to affect the evolution of some member of the younger generation, or the far worse off option, where they wanted to see if they could somehow extract Jake’s Bloodline or figure out how he did what he did.
+
+Something that historically had proven itself not to be possible, but sometimes, people still got greedy… no matter the consequences.
+
+“Have your investigations revealed anything?” Eversmile also asked after a little.
+
+“Nothing substantial, but I believe the theory that they’ve made use of World Wonders and other separate realms holds water. I have a hard time seeing how else they could have stayed hidden so perfectly,” the Viper shook his head.
+
+World Wonders remained one of the least understood things in the entire multiverse, with many of them yet to be completely explored. The Emerald Forest still had many parts that no god had been able to enter; no one had ever even seen the eye of the Vortex Pinnacle or the deepest layer of the Mycotic Depths. Especially places like the Mycotic Depths with multiple entrances were a prime hiding location, not to mention the Vortex Pinnacle, which was perhaps the best in the multiverse.
+
+Especially when one factored in another aspect of the World Wonder… it was one of the few things in the multiverse allowing traversal between universes without fully crossing through the void.
+
+As was seen on the Great Planet primarily controlled by the Pantheon of Life, the Vortex Pinnacle could appear in separate universes and did so by effectively bridging the void, creating a passage that could theoretically be used by gods to travel through. Usually, this wouldn’t be necessary, but if one were trying to stay as inconspicuous as possible, it could be an idea.
+
+Without skills to hide oneself, more skilled gods could detect the ripples in the void and track someone down. Of course, all of this was still theoretical at this point, as they severely lacked information… which was part of the reason Villy had decided to “force” Jake into his recent teaching assignment.
+
+“How confident are you that they will have someone in the audience?” Eversmile questioned. “I cannot see a world where they would take such a risk for so little gain.”
+
+“I’m not saying it’s a sure thing, but I do find it highly probable,” Vilastromoz answered. “If they truly are as obsessed with Jake as I believe they are, they will want to confirm his current state personally. After returning to the Order, he entered isolation instantly without seeing anyone. My hope is that they believe whatever he did to summon Oras left him more strained than first thought, so they’ll need to confirm he’s still in a state to be useful.”
+
+Eversmile slowly nodded, though he evidently remained understandably skeptical. In truth, the Viper also thought it was a bit of a Hail Mary, but at this point, he was willing to take any chance they could get, no matter how minute.
+
+The plan was to monitor every single participant who would take part in Jake’s lesson to see if one of them acted in any way suspicious afterwards. It was a substantial undertaking and would require a lot of resources, but the Viper was more than willing.
+
+“Vilas,” Eversmile said after they were both quiet for a little while. “Based on their actions, I truly don’t believe they intend to kill or even injure Jake. This situation isn’t comparable to-“
+
+“We. Don’t. Know,” the Malefic Viper interrupted the other Primordial as his aura flared. He closed his eyes for a moment and took a deep breath before he stood up. “Just keep a lookout. Hopefully, you’ll glean something from one of the students in his lesson.”
+
+Eversmile sighed before just nodding. “All I’m asking is that you don’t escalate this needlessly.”
+
+“Then let’s hope I won’t need to,” the Viper said, getting a reluctant nod in answer before Eversmile teleported away, leaving the snake god alone.
+
+Vilastromoz stared into the empty room for several seconds as he just sat there, thinking. His attention was only grabbed when he detected Jake using his token to teleport around the Order and smiled as he saw his Chosen really putting in effort to become a… well, perhaps not great, but passable teacher.
+
+--
+
+Jake disguising himself rarely, if ever, went well, but he still tried. As preparation for his own upcoming lesson, Jake had decided to attend some of the highest-rated classes on formations and ritual magic to hopefully learn how not to mess it up entirely when it was his turn.
+
+It wasn’t entirely a waste of time to attend these lessons as the teachers were highly skilled individuals who clearly knew what they were talking about. Jake’s only major problem was that he’d noticed the quality of a lesson going down significantly the second it was discovered who he was.
+
+Once they knew, it was as if they tried to turn the lesson into a one-on-one with Jake without making it too obvious. The teacher would grow nervous and double-check with Jake after every sentence, and Jake had even noticed that sometimes the entire lesson plan was thrown in the trash due to the teacher trying to talk about something he or she believed Jake would find more engaging.
+
+This sucked normally, but was especially horrible when Jake was trying to take inspiration for his own classes. What’s more, Jake couldn’t bring himself to just leave before time, even if he was discovered, as he would feel like too much of an asshole by walking out.
+
+Granted, there were rare occasions where the teacher clocked Jake as the Chosen of the Malefic Viper, but didn’t allow themselves to be too affected, and instead treated Jake like just another attendee. Jake appreciated these teachers immensely and their ability to recognize that Jake was clearly trying to stay anonymous, as he didn’t want special attention to be paid to him.
+
+On this particular day, Jake had once more tried to stay anonymous by using a different mask and common Order of the Malefic Viper robes to hopefully hide himself. Coupled with Shroud of the Primordial, Jake shouldn’t be the easiest to pick out of a crowd, but he evidently still stood out occasionally, primarily on account of still being a C-grade.
+
+The lessons Jake attended on the rare occasions he did were usually designed for a grade above him or at a level where C-grades couldn’t participate, making him instantly stand out. Most of the time, Jake got identified during practical aspects of the lessons where the teacher had people summon certain runes or small parts of formations, forcing Jake to use his mana and thus release some parts of his presence for all to feel. This was primarily because Jake only attended lessons that were difficult for him, and controlling his aura perfectly while also struggling to do formation magic wasn’t exactly easy, thus giving him away.
+
+However, this time around, the lessons Jake chose to attend weren’t ones he particularly needed. Instead, he purposefully chose topics of formation and ritual magic Jake had little knowledge of, which also meant he attended lessons meant primarily for mid-tier C-grades, making Jake not stand out at all in the audience. Plus, whatever practical aspects there were, Jake could easily pull off while still staying as inconspicuous as possible.
+
+The lesson hall Jake appeared in was a huge auditorium where every student had their own small segment. Seeing as everyone present was at least C-grade, the design of the hall made proper use of the fact that everyone had high stats. As an example, Jake had his spot in the middle section of the auditorium, which was just five kilometers from the podium below, with those furthest away nearly ten kilometers from where the teacher would be.
+
+There was room for roughly two and a half thousand attendees in this particular auditorium, making it one of the smaller ones. In Jake’s opinion, even these smaller ones were stupidly humongous, but the scale of the multiverse tended to be like that.
+
+Sitting down in his section, Jake waited for the teacher to arrive. Around him, he saw a few students chatting with some, even sharing sections, having taken the class together. Nobody bothered Jake until the teacher arrived, at which point everyone quieted down.
+
+The entire lesson lasted approximately five hours and centered on the use of purification rituals in relation to animal handling. In other words, something Jake didn’t really care about, but he still got some good notes.
+
+Less than an hour later, Jake was in his next lesson, this one revolving around ritual-casting healing spells, something Jake wasn’t even capable of, seeing as he wasn’t a healer in the first place. Even so, Jake left four hours later with more solid notes.
+
+It was also noted that most of these classes were multi-part, even if Jake chose to attend only one. He also found a few “special” lessons that were one-offs, but they were incredibly rare. There were simply too few topics where a single lesson would be enough for the average student to gain anything meaningful from the experience.
+
+This was one of the first things that became very clear to Jake. He would have to structure his lesson in a fashion that required extremely limited foreknowledge, as he didn’t have the time to get everyone up to speed. In other words, it needed to be incredibly general. Yet at the same time, he wanted it to offer something unique. Sure, he could just do a lesson about how to draw straight lines in magic circles, but that would just be too damn embarrassing.
+
+The next few weeks passed with Jake taking the task of putting together a single three-hour lesson far more seriously than he had expected he would. Likely more seriously than anyone who knew him expected.
+
+Jake continued to study other teachers, taking inspiration from them on how to structure lessons, how to speak, how to maintain attention, and, perhaps most importantly, how to make the entire experience interesting.
+
+Villy did remind Jake that he didn’t really have to put in too much effort, as just the mere fact that Jake was the one doing the teaching was more than enough to garner all attention and interest from the audience. But… Jake wasn’t known to do things half-assed, but wanted to do his best and make the experience actually beneficial for the students who attended.
+
+Bane poison crafting and research had been put on a back burner as Jake took a break from that branch of alchemy in general, as he spent all his time preparing for lessons and meditating while still working on his Meditate skill and the subsequent repair of Palate of the Malefic Viper during any downtime.
+
+As the date for the lesson grew closer, Jake slowly began to actually feel prepared, though he was definitely still incredibly nervous. He didn’t like being in front of huge crowds, he didn’t like presenting, and he definitely didn’t like teaching… but Jake also knew that sometimes, doing something he didn’t like could indeed be healthy for him.
+
+He just hoped that at the end of the day, it would end well for everyone involved.
+
+--
+
+The teacher for the upcoming lesson wasn’t the only one who was incredibly nervous leading up to the Chosen of the Malefic Viper’s lesson. It was decided there would only be a thousand attendees, significantly fewer than usual at such an event.
+
+Naturally, this led to quite a bit of competition to secure a spot. Several of the internal factions of the Order leveraged their political power to get a few slots, but the vast majority were distributed based on performance and recommendations of respected teachers and experts within the Order.
+
+It didn’t matter if the students even dabbled in formation and ritual magic to the factions that wanted a member there, as ultimately, simply attending would be a massive boon.
+
+This was the first time the Chosen of the Malefic Viper would give any kind of lesson, and the sheer Records associated with such an event were nothing to scoff at. The exclusivity of limiting it to only a thousand people made the opportunity more valuable and increased competition further.
+
+As the day approached, all the slots had slowly been filled, with the excitement of the event growing by the day. The Malefic Viper’s teasing words about the D-grades celebrating being able to attend a three-hour lesson that likely wouldn’t even include any useful knowledge hadn’t even been hyperbolic in the slightest.
+
+On the day itself, all one thousand members of the Academy showed up, not a single one missing, and every one of them at least two hours early. These were all geniuses in their own right or scions of powerful factions, with many taking the time before the lesson would actually begin to mingle and make friends with other influential figures.
+
+Risen, dragonkin, humans, elves, beastkin, and monsters of all sorts, all in a shared great mood as they looked forward to what was about to happen. Jake would have been relieved if he had known what kind of conversation many of them had, and what the higher-ups behind them had already talked about before this lesson.
+
+Expectations had been severely tempered, and truthfully, no one besides the most optimistic of the bunch had come expecting much from the lesson itself, considering the complete inexperience of the teacher. It was everything around the lesson and the significance of this being the Chosen’s first one that mattered most. No one doubted the talents of the Chosen, but so far, he had done nothing that indicated he was good at, or at all interested in, teaching. Even if he was, few did a good job during their first time, but needed a lot of practice before anyone would classify them as decent.
+
+All of this is to say, nearly everyone had arrived with their expectations already as low as they could go, and it was up to Jake to prove them wrong…
+
+… well, that, or bomb even worse than any of them could have possibly seen coming.

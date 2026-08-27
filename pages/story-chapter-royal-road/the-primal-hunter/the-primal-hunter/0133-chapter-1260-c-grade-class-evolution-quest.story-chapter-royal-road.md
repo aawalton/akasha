@@ -1,0 +1,153 @@
+---
+id: a7910cbc-e731-598b-993e-e9416d179cc4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1260 - C-grade Class Evolution Quest"
+slug: 0133-chapter-1260-c-grade-class-evolution-quest
+partOf: the-primal-hunter
+position: 133
+ownLength: 2736
+unit: words
+ownProgress: 2736
+publishedAt: 2026-02-20
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3074701/chapter-1260-c-grade-class-evolution-quest"
+royalRoadId: "3074701"
+markedReadAt: "2026-06-29T19:35:11.970Z"
+---
+
+Evolution quests notoriously got more and more difficult every grade. This difficulty was highly dependent on the class, profession, and race the person trying to evolve had, and dependent on how well one had done while progressing through their grade, the evolution quest could either be trivial or an insurmountable wall.
+
+That’s also why sometimes picking the best class or profession when evolving wasn’t actually advised. The better the Path, the higher the requirements to keep progressing, with the evolution quests getting more powerful. To Jake, killing prey of a higher grade than himself was normal, but for the vast majority, even killing one B-grade while still in C-grade would be the achievement of a lifetime.
+
+It wasn’t that rare for people to slowly lose sight of their Path over the many years they progressed through C-grade. Sentiments changed, people developed, and sometimes, the class and who the person would become just didn’t mesh that well anymore, making it difficult to go further. Towards the end of C-grade, one’s Path was starting to truly lock in, and while a bit of variety and diversification remained healthy, the core of one’s power and abilities would be set. Trying to more or less fully change one’s Path in C-grade was difficult to say the least.
+
+Jake’s Path was simple and not one he had strayed from. He relied on the same things now as he did while in D-grade. His archery, his arcane affinity, katars for melee, and, of course, the glorious superiority of the Perception stat were the core of Jake’s class, and he saw no need to ever change that. Sure, some more complicated concepts could get mixed in, such as curses, the concept of time, and several others, but those would always be auxiliary to support the core of his Path.
+
+That’s also why Jake wasn’t worried as he opened his Class Evolution Quest. Jake knew he had stayed true to his Path and the class he’d chosen when he evolved to C-grade in the first place. He was still a hunter who just sought to fight the strongest foes he could, finding enjoyment even, no, especially when his life was on the line. Those moments allowed Jake to push himself, and the sheer euphoria of beating a truly powerful opponent was simply unmatched, a sensation that never got old.
+
+The system window appeared in front of Jake, and he was also reminded that the system always had a bit of flavor text before the actual quest was presented. He remembered them usually just feeling like the system praising him and calling him a good little hunter, and well, it didn’t seem to be any different with this one.
+
+Class Evolution Quest
+
+A hunter you remain, and even as you refine and progress on your Path, you never once lost sight of your goal. Continuing to embrace your human Legacy, you make use of all tools available to you, progressing what you deem suitable to your Path, yet still specializing when you deem it beneficial. All to fulfill the singular uniting goal - a goal forever in sight, yet impossibly far away. Even so, you march onwards, growing more powerful with every step as you aim to do the impossible and truly reach the edge of all horizons. If you continue, one day, your sight will encompass all existence, and your arrows will be capable of striking all that you see.
+
+Jake paused reading, a smile on his lips from how nice the system was being. He really was awesome, wasn’t he? In all seriousness, Jake did like these minor recaps that helped confirm to him that he hadn’t gone wrong on his Path. He also suspected that this was the role of these messages. Also, from what he’d heard from others, they didn’t necessarily have to be positive if the person in question had stumbled through their grade, doing a terrible job along the way.
+
+Continuing to read, Jake finally got to the actual quest objectives. Here, another stark difference between Evolution Quests as one advanced in grades was shown: not only did the quests get harder, but they also got more complex and weird. Or perhaps vague was a better word, as Jake sure felt like two of his objectives were a little vague.
+
+Objectives: Slay at least 150 B-grades (150/150).
+
+The first objective? Easy. Self-explanatory. He just had to kill a whole bunch of B-grades. This communicated to Jake that it was fully expected that he would have gained the last few levels of C-grade by killing B-grades. Of course, Jake believed he had surpassed expectations, as it didn’t say that at least one of those B-grades had to be a True Dragon. Jake also found it a bit suspect that it required 150, which also just happened to be the exact number of levels in C-grade. Coincidence? Probably, but Jake still made a mental note.
+
+Now, this quest objective had been one Jake fully expected to see. The second one? Without a doubt, that one was a bit weirder and definitely way more vague.
+
+Successfully glimpse and do not lose sight of the Event Horizon (1/1).
+
+Did this mean that if Jake hadn’t picked the Event Horizon, he wouldn’t have been able to evolve? Would the quest just have been different? Was it even necessarily related to the skill in the first place, or did they just refer to the same thing? So many questions, yet Jake had already completed the objective that he still didn’t fully understand.
+
+His best theory was that this objective was more or less an expression of a Perception Check. It talked about him glimpsing it and not losing sight, which all seemed very Perception-related. He could be entirely wrong, but Jake was a simple man and saw no reason to dwell on the matter more than he had to. He had a full view of the Event Horizon, and that’s what mattered!
+
+Proceeding to the third and final quest objective, this one had somehow gotten both more and less vague.
+
+Slay a powerful foe that pushes you beyond your current horizon (1/1).
+
+Having the objective of slaying a powerful foe was a simple matter, but what exactly did it mean to push himself beyond his current horizon? Again, all Jake could do was guess that it referred to him surpassing his current limits and getting stronger during a fight to win. That, or it just meant Jake had to be pushed to his limits and manage to overcome, his victory resulting in Records that would realistically push him beyond his current limit or horizon.
+
+Hard to say, but again, Jake had already completed it. A part of him would have loved it if the objective didn’t merely say (1/1), but would actually include how many times he had done it. As things were, Jake wasn’t even sure what fight he had managed to do this in. There were so many candidates, including powerful foes Jake had slain that weren’t B-grades, such as Ell’Hakan, or even those who were below C-grade, assuming the fight with Valdemar in the Colosseum of Mortals counted.
+
+Shaking his head, Jake just accepted that he’d already done it... and with that, Jake had successfully completed his Class Evolution Quest before even obtaining it. It was definitely harder than the D-grade quest that had only required him to kill 10 C-grades and 1 C-grade at least 15 levels above himself.
+
+Jake wasn’t sure how to feel about the quest being so “easy” from his point of view, even though he knew it would likely appear ridiculous to others. Just killing 150 B-grades would be a tall order, not to mention the other vague objectives.
+
+Then again, if Jake couldn’t complete his Class Evolution Quest effortlessly, what chance did those with fewer achievements in C-grade have? Even compared to other geniuses in the multiverse with top-tier Paths, Jake stood out and had accomplished the most. His performance in Nevermore and gaining the Sacred Prodigy title alone put him head and shoulders above pretty much everyone else.
+
+Besides, Jake knew that going above and beyond Class Evolution Quests still mattered and would contribute to a better B-grade class, so it wasn’t like it actually mattered that Jake’s quest had been automatically completed already.
+
+He wondered how hard his profession would be, but alas, he still had a bit of alchemy to go before he would see that one. Perhaps he’d already completed it, but who knows. As for his Race Evolution Quest, Jake still wondered if he would even get one this time around. Villy had been surprised, to say the least, when Jake hadn’t in D-grade, and seeing as there was no precedent for a human not having race evolution quests before, Jake could only wait and see.
+
+Jake continued to mull over matters and his final plans before it was time to evolve to B-grade, until finally, it was about time to get the hell out of Minaga’s dungeon. He opened his eyes and checked the countdown, confirming they would be free soon.
+
+Dungeon shutting down in: 0:27
+
+Casper had also opened his eyes and even gotten on his feet, though he looked a little wobbly.
+
+“What were you doing before? Because that didn’t look like meditation but like you were straining your brain muscle a bit too much,” Casper asked with a raised eyebrow.
+
+“I just got my Class Evolution Quest and was going over it,” Jake answered truthfully, seeing no need to hide that kind of thing from his friend.
+
+“Oh?” the Risen said. “So, how is it? Does it seem doable, or is it annoying?”
+
+“Already completed all the objectives,” Jake shrugged. “They were just a bit vague, so I tried to figure out when I had completed some of them.”
+
+“Of course, you’re already done before even starting,” Casper sighed, shaking his head. “And, yeah, those objectives do get a bit obtuse, and from what I heard, it only gets worse at the end of B and A-grade, not to mention whatever the hell happens when you reach the very peak of S-grade.”
+
+“I’ll be sure to let you know when the time comes,” Jake said with a smile. “Speaking of time...”
+
+Dungeon shutting down in: 0:01
+
+Without further warning, the dungeon shut down, indeed providing no rewards or anything like that, definitely losing the place another star. Jake and Casper’s reality disappeared as they promptly reappeared outside the dungeon.
+
+“Congratulations!” Jake instantly heard Minaga yell before he could even release a quick Pulse of Perception. “You two actually did it! Oh wow, kind of didn’t expect you to, as I feared that final boss would be a bit over-tuned.”
+
+“It was,” Casper said with a sharp tone.
+
+“But you did it!” the Unique Lifeform refused to let go of his positive demeanor. “Both of you, even! Happy that you didn’t die, Casper.”
+
+“Hey, I could also have been the one who’d died,” Jake protested, crossing his arms as he tried to defend his friend.
+
+Minaga and Casper just threw him a look before continuing to talk.
+
+“The final boss was definitely a bit too much. The first two phases were fine, and the idea of the golem at the end was also nice, but it was too strong and too focused on a single target. I understand the thought process behind making it simple-minded, which should theoretically make it easier to beat, but as things are, it’ll just result in the weakest party members being killed off if any group entering is the least bit unbalanced or lacks the ability to fully cover one another,” Casper gave some actual feedback.
+
+“Yeah, that’s what I feared,” the Minaga image nodded and sighed. “I will definitely do some fine-tuning, maybe even scrap the final phase entirely. Or maybe make it conditional. Like, if you kill the boss too fast, it’ll activate. In that case, with information about the dungeon readily available, people will only trigger that final phase by choice, and knowing what it entails, cannot blame anyone but themselves if they lose a party member.”
+
+“That’s an option too,” Casper nodded, considering the Unique Lifeforms alternative proposal.
+
+“Can we talk about the Jones orb?” Jake chimed in.
+
+“What about it?” Minaga asked, crossing his arms.
+
+“Pretty sure it’s gonna kill nearly every warrior, healer, mage, and pretty much anyone without a high-level movement skill,” Jake said, remembering just how damn quick those orbs had been, especially in the latter parts of the dungeon. Jake and Casper both had to use boosting skills not to get rolled over, and they were both pretty damn quick in the first place.
+
+“Too fast?” Minaga asked incredulously, acting as if he were looking elsewhere. “Oh... oh gosh, would you look at that? I accidentally made it twice as fast as it was meant to be! What a mistake that I surely couldn’t have made on purpose. Though if I did do it on purpose, I hope the ones who experienced that mistake will consider why that was the case.”
+
+“I personally thought it was fine,” Casper said with a deadpan expression.
+
+“On second thought, yeah, totally fine,” Jake also spoke with a monotone voice.
+
+Minaga just looked at the two of them for a few seconds before clicking his tongue. “You two are really mean, you know that, right?”
+
+“Wait till you hear our review of the dungeon,” Jake said with an evil smile.
+
+“... be nice, okay? And do remember to take into account that I usually spend a few thousand times longer making them than I did with this one, as I reckoned you would like to see it done before reaching S-grade. Actually, considering that, aren’t any shortcomings of the dungeon kind of your fault and not at all on me?”
+
+“Yeah, we’re not gonna take excuses into account,” Casper crossed his arms. “There are definitely a lot of points of criticism, and I will provide you with a written report of feedback later, outlining all the issues I identified, but overall it was... fine.”
+
+“Fine?” Minaga asked. “Fine as in fine, or fine as in fine?”
+
+“Fine, as in slightly better than okay,” Jake elaborated on the Risen’s behalf.
+
+“That’s... somehow both worse and better than I’d expected,” Minaga muttered.
+
+“As I said, I’ll give you a proper written report,” Casper reiterated. “But for now, I really need to go rest.”
+
+The Risen had forced himself to appear strong, but it was evident he was close to peeling over simply by standing.
+
+“Understandable, you do look like shit,” Minaga nodded before looking at Jake. “Meanwhile, you look totally fine.”
+
+“Life is a lot easier when you don’t have a crazy, lightning-ridden golem chasing after you,” Jake shrugged. “Oh, one question, though. Did you take inspiration from the Altmar Empire with that golem?”
+
+“Yeah, a little,” Minaga nodded. “Took inspiration from many kinds of golems, but the Altmar were one of them.”
+
+Jake slowly nodded, wondering if Minaga knew about the Neurotar – the race that had created Rigoria – and if he did, if those had also been part of the inspiration for this dungeon.
+
+“I’m leaving now,” Casper said with a sigh as he started walking off. “See you two around.”
+
+“Have a nice recovery,” Jake waved at him, not even going to question that the Risen just wanted to go recuperate in peace. He’d earned it.
+
+“Bye! Remember that report when the experience is still fresh on your mind!” Minaga yelled after him, waving enthusiastically before turning back to Jake. “You know, I would also totally accept an in-depth report about your experience from you, that way, you can really outline-“
+
+“Yeah, I’m off to do alchemy,” Jake waved off the Unique Lifeform as he also turned to leave. “Keep working on the dungeon! It had some fun ideas, and with polish, it could become pretty good.”
+
+Minaga nodded with a big smile before the projection disappeared. Jake also flashed a smile as he walked toward the teleporter that could help take him back toward Haven. He planned on checking in with a few people, checking out some other things he’d neglected, and then finally, as he’d told Minaga, it was alchemy time!
+
+Yeah, Jake really wanted to see that Profession Evolution Quest, and being so close to B-grade, he prepared to make the final push.

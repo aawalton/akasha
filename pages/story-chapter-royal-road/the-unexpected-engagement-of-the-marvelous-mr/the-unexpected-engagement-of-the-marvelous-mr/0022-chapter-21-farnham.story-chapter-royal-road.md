@@ -1,0 +1,199 @@
+---
+id: fc96ef54-e0cd-5b23-90c1-b6ac0578cf3f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21 - Farnham"
+slug: 0022-chapter-21-farnham
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 22
+ownLength: 1789
+unit: words
+publishedAt: 2022-06-13
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/926672/chapter-21-farnham"
+royalRoadId: "926672"
+---
+
+After the third time the brute choked Eleanor until she blacked out, she stopped struggling. It was never long before she regained consciousness, but the transition was painful. She went from insensibility to reeling through a nightmare while confusing details were etched into her memory.
+
+The stench of the man. The panic when he held her nose or mouth closed for too long. The lines of wood grain snaking along the floor of the wagon, leading to the boot of one of her captors.
+
+They drove for what felt like an hour, but Eleanor realized it was more likely her terror and discomfort that made it seem so long. Then the wagon stopped, but no one in the back got out.
+
+The man with the pistol shoved the muzzle of his gun under her chin.
+
+“Not a sound.”
+
+Minutes passed. The back of the wagon dropped.
+
+The driver said, “To me.”
+
+He held her until she could be handed back to the brute. As the brute dragged her toward a bleak old building, a flicker of red-orange light caught her attention. She looked around.
+
+There was a fire on each side of her. That meant they were in Saitsville.
+
+Saitsville was the main work district for the city, and it was the only place that had been allowed to keep the iron burn cages; the rest of them had been removed decades ago. With mingled defiance and pride, the workers kept them burning day and night.
+
+The brute finished dragging Eleanor to the building. Another man opened one of the double doors, and she was hauled inside.
+
+The place was derelict. Supplies had been leaning on the walls for so long they were bowed by their own weight. Ratty tools that weren’t worth stealing were left out on the abandoned worktables.
+
+The brute marched Eleanor up an old set of stairs which led to a supply loft that spanned the whole length of the building. They were so close to the roof, the only reason the men could stand up was because it was sloped. Wooden partitions came out from the wall, but they were built to keep one pile of materials separate from another. They didn’t create rooms or provide any privacy. There were no lanterns either. The light came from the open ceiling hatches and the two gable windows, one at the front and one at the back of the building. The floor of the loft opened onto the main level. In some places, there wasn’t even a railing to warn people of the long drop.
+
+Beside the first partition, there was a wooden chair. The brute told Eleanor to sit with her arms on the armrests. The man with the pistol kept his gun pointed at her while the brute and the last man tied her up. They bound her chest, ankles, elbows, and wrists. Every lashing was pulled tight. The rope at her chest prevented her from even drawing a full breath.
+
+When they were done, the men stepped back.
+
+“There we go,” said the man with the pistol. “Pretty as a picture.”
+
+He wasn’t jeering. He sounded like a man who was proud of his work.
+
+“What do you want?” Eleanor asked.
+
+Two of the men snickered when they heard her tremulous whisper. The brute did not.
+
+“Here, should we gag her?” he asked.
+
+The pistol holder shook his head. “Gag her? You can barely hear her. Besides, Gaffer will be here soon.”
+
+“Who’s going to watch her?”
+
+“Do you have orders to be somewhere?”
+
+The brute shook his head.
+
+“Then I guess we all do.”
+
+The three men settled down to wait. The pistol holder leaned on the sill of the front window and stared at the street below. The brute sat behind Eleanor. She could hear him moving. The last man paced in a leisurely manner, moving in and out of her line of sight. As time passed, the acute terror faded, leaving Eleanor feeling weak and nauseous.
+
+She closed her eyes to rest and only opened them when she heard the man with the pistol stand up and push away from the window.
+
+“He’s here.”
+
+The brute went downstairs to admit the man they called Gaffer. A few seconds later, Eleanor heard loud, slow footsteps moving up the stairs. She turned her head enough she could see who was coming.
+
+Gaffer had short cut, sandy-gray hair. It was feathery and thin. His eyebrows were thick and the exact same color as his hair. The light was too dim to make out his eyes, but they were fastened on her the same way hers were fastened on him. His skin was tan, and his features were large and blocky. His clothes were something you might find on a tradesman—not fancy, but not worn or grimy. He was only slightly smaller than Mr. Russel, but the printer had given off the aura of a gentle giant. There was no gentleness in this man.
+
+Eleanor didn’t know him.
+
+But he knew her.
+
+“Eleanor Louise Serrs.”
+
+Despite his mellow voice, Eleanor felt her heart beat faster.
+
+The man looked at the two underlings that had stayed behind. “Good job. Was anyone with her?”
+
+“Yes, Mr. Farnham,” the pistol-man said. “A gentleman.”
+
+The other one said, “It wasn’t him though. We checked.”
+
+Mr. Farnham hummed from his throat and nodded to acknowledge this news. Then he raised his eyes to Eleanor again.
+
+“Where is he?”
+
+Lady Serrs watched him walk around until he was standing in front of her.
+
+“Well?” Farnham leaned toward her and raised both eyebrows.
+
+“You mean me?” Eleanor said. Her voice was still choked, but at least it was audible.
+
+“I do.”
+
+“I’m sorry. I don’t know what you want me to say.”
+
+“Tell me where he is.”
+
+“Who?”
+
+“Ryce Penn.”
+
+Eleanor’s mind went blank. When her sense of reality returned, it brought back a few bitter realizations. Rage crawled up from her queasy stomach, reaching every inch of her body. Her breath started to come in heaves and tears blurred her vision.
+
+“You,” she said. “You stupid, stupid man! Idiot!”
+
+At last she understood her father. Sometimes there weren’t enough adjectives to spew out the proper helping of wrath.
+
+She went on, “You think I’m engaged to him, don’t you? You think I’m actually engaged to him!”
+
+Farnham squatted down so his motionless face was level with hers.
+
+Eleanor tried to reason despite her sense of wounded justice and frustration. Now, of all times, she needed to be coherent.
+
+“Mr. Farnham, I’m sorry that you fell for it, but our supposed relationship is nothing but a joke. I don’t know Mr. Penn. We’ve only met twice, and only because circumstances forced it. I don’t know where he is, and he doesn’t spend his days walking around with me.”
+
+“I’ve read his letters—”
+
+“They were a prank to upset my father.”
+
+“You’re his fiancée.”
+
+Her voice rose: “No, sir, I’m not.”
+
+“Why should I believe you?”
+
+Eleanor tried to take a deep breath, but the ropes stopped her. “All right, Mr. Farnham. How can I help you?”
+
+When the man smirked, it only straightened one edge of his perpetual frown. “Help me,” he said as he stood up.
+
+“Yes. How can I help you? I can’t tell you where he is because I don’t know, but I’ll do anything else I can to facilitate this.”
+
+“You’re offering to help me catch Penn?”
+
+“I’m going to do whatever you ask because the sooner your plan fails, the sooner you’ll realize you were wrong.”
+
+Farnham turned. An open hand as large as Eleanor’s head slammed into the side of her face.
+
+When the shock passed, Eleanor slowly straightened her head. Her jaw and cheekbone throbbed, and her stinging skin felt hot. She couldn’t fully open her left eye.
+
+Mr. Farnham pulled a knife. It had a long straight blade with a fuller. The only other one Eleanor had seen that was like it had been in a weapons collection.
+
+“You think I’m stupid? You think I’m wrong?” Farnham shrugged with one shoulder. His voice was as mellow as ever. “That’s fine.”
+
+When he grabbed her right arm, she clenched her trembling hand into a fist. One slash, and the blade was through the sleeve of her dress and through the skin of her arm. A well of red blood spilled out, saturating the material.
+
+“But you don’t talk to me like that. Ever. Say ‘yes, Mr. Farnham.’”
+
+Eleanor’s mouth opened, but she couldn’t speak.
+
+Farnham put his hand over her other arm. Another slash. Another welling of blood. The first cut was already dripping.
+
+“Say, ‘yes, Mr. Farnham,’” he repeated.
+
+“Y-yes. Yes, Mr. Farnham. Please. I’m sorry.”
+
+He raised the blade. She tried to pull away when she felt the knife tip gouge into her neck, but he followed her movement. A trickle of hot blood rolled down her skin.
+
+She held her breath so she wouldn’t sob. She knew where the carotid artery was. He couldn’t have named it, but he had a butcher’s knowledge of how to kill.
+
+“I could flick my wrist,” Farnham said. “You’d be dead. You know that. I can see you know that. Maybe you’ll bleed out because of the cuts on your arms. It’s not much to me, Lady Serrs. I want Penn. And you won’t give me your help, because I don’t get given things. I take things. Do you know where Penn is?”
+
+“No.”
+
+The knife pulled away. Another roll of blood followed the track of the first.
+
+“I believe you. Did he say how to get a hold of him?”
+
+The instant Eleanor squeezed her eyes shut, her lashes were soaked. “He told me to use the Quotidian Journal.”
+
+“Now there’s a thought.” Farnham turned to the man with the pistol. “How come we never thought of that? Can we use it?”
+
+The man raised his hand in a lazy gesture. “He wouldn’t come before. But now that we’ve got her? More likely.”
+
+“Go on then. You take Ty and this letter. I’ll stay here with Scott. When you come back, bring the rest.”
+
+“Yes, Mr. Farnham.”
+
+The man with the pistol stopped to grab the letter Farnham had pulled from his pocket, then he and the other man left. Farnham drew out his handkerchief as he came toward Eleanor.
+
+“Mr. Farnham,” she stammered, “please.”
+
+He stopped. “What is it?”
+
+“He knows you’re looking for him?”
+
+Farnham nodded.
+
+“He won’t come for me. Ryce Penn doesn’t love me.”
+
+“I guess we’ll have to see, won’t we?”
+
+He put the gag in her mouth and tied the ends at the back of her neck. He jerked hard to make the knot as tight as possible.

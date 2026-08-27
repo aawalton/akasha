@@ -1,0 +1,109 @@
+---
+id: 36e440ee-c18a-53f5-abcc-4744b0051672
+page-type-slug: story-chapter-royal-road
+title: "Chapter 543: The Demon Queen"
+slug: 0109-chapter-543-the-demon-queen
+partOf: rise-of-the-living-forge
+position: 109
+ownLength: 1667
+unit: words
+ownProgress: 1667
+publishedAt: 2026-01-14
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2942446/chapter-543-the-demon-queen"
+royalRoadId: "2942446"
+markedReadAt: "2026-06-29T20:01:55.230Z"
+---
+
+Lillia let out a slow, measured breath. She leaned back on her bed, pulling her knees up to her chest as she let the blanket of ever-present darkness in her room envelop her. It had been a few days since the Mausoleum had been completed.
+
+Everyone was hard at work with their own projects. Arwin spent much of his time in the Infernal Armory, continuing his preparations for Anna’s armor. Vix and Wallace occasionally joined him. Madiv had emerged once or twice to confirm he was alive, but the rest of his time was spent ‘preparing the Mausoleum for the intruders that were sure to defile its pristine surfaces’.
+
+Lillia laughed to herself.
+
+There were a thousand different things happening throughout the Devil’s Den all at once. She could feel her utensils hard at work in the kitchen. She could hear every single muted conversation rolling through the common room. She could sense the presence of each individual residing within her Hearth.
+
+She was aware of the Menagerie. The adventurers that had been attending the Devil’s Den for weeks and those who had come for the first time today. She could feel the pulse of the tavern itself as it watched over everything at her side.
+
+There were so many thoughts drifting through her mind that it was starting to get a little difficult to tell which ones were hers. This was the loudest the Devil’s Den had ever been and the quietest it would ever be again.
+
+Every passing day came with faces, new and old. Their reach would expand. Their domain would stretch farther over Milten until the city was theirs in its entirety — and then their march would continue.
+
+Already, Lillia’s domain had crept past the edges of the tavern. She’d yet to let anyone know about the full extent of her reach. If Lillia was honest with herself, she wasn’t actually entirely confident where it ended.
+
+The more parts of the street Arwin awoke, the more the Devil’s Den’s mind grew. There was a connection. Somewhere, somehow, each expansion wove its way back to her. Perhaps it was because of her class.
+
+For all the numerous beliefs, visions, and desires bouncing around in Lillia’s skull that belonged to others, there was one thing she knew to be hers beyond a doubt. The Menagerie was hers. Everyone without malice who took shelter under her roof, who stepped upon the Menagerie’s street, fell under her wings.
+
+It was her duty to protect all those who warmed themselves by her Hearth. But in recent days, the others had been outpacing her. Olive had been getting stronger in leaps and bounds. Lillia had watched her sparring sessions with Reya and Kien. All three of them had advanced by so much that it was difficult to believe who they’d been just a short while ago.
+
+Art and Rodrick had been hard at work ever since the latter’s return. Their changes were far more subtle, but there was no denying their growth. They were always working on some plan or another. Ones that even Lillia’s senses hadn’t quite managed to piece together.
+
+Maeve and Elias hadn’t been around the Den for as long as the others. They were helping with some of the dungeon deliveries between their own dungeon runs. The two of them were a bit of an enigma, but Lillia could literally see their strength advancing with every trip they took. They very well might have been the most dangerous combatants the Menagerie had.
+
+Esmerelda was — well, Esmerelda. The woman was an enigma. But she, too, had changed. Her heart had softened. Perhaps the honor of that change could be attributed to Thane. Esmerelda spent much of her time in her shop along with Vanessa, teaching the other woman the ways of her trade. What little time remained had been, up until recently, spent with Madiv.
+
+Though Lillia knew Esmerelda would never admit it, she got on quite well with the vampire.
+
+As for Madiv, he too had advanced. He would advance further still once his communications with the Mausoleum were complete. Lillia looked forward to seeing just how far he would come.
+
+And then there was Arwin. She didn’t let her thoughts linger on him for long. He was a risky subject. One that would be far more liable to pull her mind to things entirely unrelated to what she needed to focus on right now. Things that could wait until the night.
+
+Everyone else advanced.
+
+Everyone but her.
+
+Perhaps that was being too harsh. Lillia hadn’t been stagnant. She knew for a fact that her cooking had improved. The effects she could impart into her food had grown stronger. Those who slept under her roof found themselves stronger and stronger with every passing day.
+
+But within Lillia swirled an ocean of power. So much that it was practically inconceivable. Ever since Arwin had advanced his body, she’d stored every single scrap of power that she’d gathered.
+
+And she’d gathered quite a bit of power. The constant pushing of her limits, all the people staying within the Den… it had amounted to a significant reward indeed. Power that could have probably would have already advanced her an entire Tier had she not Sunsetted her class.
+
+Lillia had seen firsthand just how significant the changes this power could wreak were. Arwin had shown her. When she’d told him that she had an idea of how she would spend her own power, she hadn’t been lying.
+
+There was no doubt in her mind that she could have advanced some time ago. She certainly had more than enough strength stored up to take the next step. It was not potential or a lack of power that held her back.
+
+The path before her was dark, and yet it couldn’t have been clearer.
+
+She just wasn’t sure if it was the one she wanted to walk.
+
+A small smile pulled at the corners of her lips. The Adventurer’s Guild had tried so hard to keep her and Arwin on the same, controlled path. They’d done it so well that she and Arwin had been walking side-by-side since they were children.
+
+But saying that they’d walked the path wouldn’t have been accurate. They were not the same people. A knot twisted in Lillia’s stomach. Arwin loved to point out that she held superior tactics in battle. That he only charged forward into battle with no thought but that of victory.
+
+He meant the words as a way to disparage himself and compliment her own skills. But every time he pointed that out, Lillia couldn’t help but wonder if he would ever realize that she respected his abilities just as much as he respected hers.
+
+I would give a great deal to have courage like that. To charge ahead armed with nothing but the absolute confidence that I would find the way forward no matter what rose to stop me. Doesn’t he ever wonder how it was we were so perfectly matched?
+
+For all the things I tried to defeat him back when we were enemies, never once did I get the upper hand. We were evenly matched. But right about now, I think I’d like some of that courage. Moving ahead when the future is so unknown… it scares me.
+
+Lillia ran a hand through her hair. Then she let out a short huff of air that could have been mistaken for a laugh.
+
+What if I change myself into something I don’t want to become? What if the changes are more than just physical? Or if they’re enough to make me into a real monster? What would Arwin…
+
+Then Lillia paused.
+
+He wouldn’t care.
+
+She didn’t even have to ask him to know what his answer would be. Lillia could picture him introducing her new monstrous form to some new member of the Menagerie with a completely straight face.
+
+Ah, yes. I’m Arwin. This is my towering 9 foot tall demon girlfriend with horns the length of her arms. She made dinner.
+
+Lillia snickered. The rest of the Menagerie would probably react pretty much in the same way. Sunsetting wasn’t going to turn her into a monster. But, if it somehow did, nobody would change. Her guild wasn’t going anywhere. And it was her job to make sure they never had to.
+
+She blew out a breath, shaking her head and letting her gaze rise up to the ceiling.
+
+Sunsetting was freedom. The way to accomplish her goals was simply to go out and take what she wanted from the power that waited within her soul. There wasn’t some sort of plan she could come up with. She couldn’t strategize a way to win because there was no true enemy.
+
+Freedom was a new concept to Lillia. From the very moment she’d began training to be the leader of the Horde, she had never known the meaning of the word. There were aways constraints. Limits and requirements on her shoulders. The lives of her soldiers and the orders of her advisors.
+
+None of them were here anymore.
+
+This was far more Arwin’s domain than hers.
+
+Lillia was the Demon Queen. That hadn’t changed. She was who she was. But she wasn’t just the Queen. The Queen had been the Guild’s pawn. Just as the Hero had. Lillia wasn’t just anything. The bindings of her position no longer held her. And even if Arwin wasn’t here right now, she’d spent enough time with him for more than a little to rub off.
+
+Not everything had to be carefully planned out. A general plan of where she was going and the knowledge that the Menagerie would be at her side, no matter where she ended up, was sometimes all that was needed.
+
+Lillia’s eyes closed.
+
+A faint smile still lingered on her lips as she let herself sink deep into her soul — and all the gathered energy churning deep within the Demon Queen rushed up to obey her command.

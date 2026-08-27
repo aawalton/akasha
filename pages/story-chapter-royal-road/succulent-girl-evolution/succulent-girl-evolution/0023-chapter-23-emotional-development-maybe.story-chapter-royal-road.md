@@ -1,0 +1,135 @@
+---
+id: 30c50ff7-7585-5857-b98d-1cbecdd38c35
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23: Emotional Development (Maybe)"
+slug: 0023-chapter-23-emotional-development-maybe
+partOf: succulent-girl-evolution
+position: 23
+ownLength: 2033
+unit: words
+publishedAt: 2025-09-16
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2604958/chapter-23-emotional-development-maybe"
+royalRoadId: "2604958"
+---
+
+Miss Magpie sighed, letting go of the cold and imperious demeanor she held before.
+
+“I can see why Bubbles likes you.” She walked up to the edge of the water and rapped Miss Fish’s snout with her beak, almost in annoyance. Miss Fish flinched at the contact, but didn’t retaliate. “You two share a similar disposition of earnest goodness—a purity that is rare in this world, and would make me a criminal if I were to take advantage of that.”
+
+Miss Magpie stood up from the water and ruffled her feathers, and Bubbles was relieved that she still seemed willing to help. “I will admit, it will be a huge shame if this land were to become a desolate wasteland for however long your poison lasts. It would help no one if you were to proceed with your suicide mission.”
+
+She glanced at Link with exasperation, and Bubbles thought she saw his lips twitch upwards with a (knowing?) smile. Miss Magpie gave Bubbles a grim look, making her stand at attention and try to look as innocent as possible, despite not having done anything remotely wrong. She sighed, a long, drawn-out chaaaak that seemed almost mournful.
+
+“All right. Let’s discuss terms that would make you more comfortable. The Prime Family is, if nothing else, fair.”
+
+“You… uh… blub.” Miss Fish began blubbering gently. It appeared the sudden reversal in Miss Magpie’s demeanor was too much for her to handle.
+
+“There there, Miss Fish!” Bubbles said cheerfully, reaching out to pat Miss Fish’s snout comfortingly. “I told you Miss Magpie is nice and dependable!”
+
+Gathering herself, Miss Fish nodded for Miss Magpie to speak.
+
+As the two conducted their business, Bubbles walked over to Link. “That was a scary exchange, huh?”
+
+“It was nerve-wracking, but I’m glad it seems to be working out,” Link agreed. He glanced at her, his green eyes narrow slits in the dark. “So… you are also a Guardian?”
+
+“Oh, yeah, I guess so. Rock did call me his Guardian when we first met with Miss Fish,” Bubbles said proudly.
+
+“I see. That explains much, then…” Link trailed off.
+
+“Like what?”
+
+“Nothing,” he said evasively. He flicked his bushy tail. “Pardon me. While the carp and bird are occupied with their own discussions, I’d like to ask the mana mineral what the lay of the land looks like.”
+
+With nothing better to do, Bubbles followed Link to the other end of the shelf where she nearly stumbled over a tiny pot.
+
+“Oh! Hello, little one. I’m glad to see you’re safe.” A small glow appeared in the wall behind the pot: Rock Two, dutifully illuminating the tiny wisteria.
+
+[She is safe for now, but she cannot stay here for long.] Looking behind her, Bubbles was interested to note that Rock Two had somehow split his consciousness: there was one glow where Miss Fish and Miss Magpie were talking, and a second glow at the wall where Link was, just like the glow that was now where Bubbles and Wisteria were at. [As you can see, although water is plentiful here, there is no sun in this cavern.]
+
+“But once we clear out the invasive wisteria, she can go out, right?” Bubbles said confidently. “It’s only temporary.”
+
+[Perhaps.] Rock Two hesitated, then he said, [I wish I did not have to burden you with this task, but… would you be willing to take this plant away from here?]
+
+“Don’t give up hope!” Bubbles said reprovingly to Rock Two, smacking a root against the wall. Rock yelped at her action.
+
+[You are too disrespectful!]
+
+[Peace, young one. She means well.] Rock Two’s glow rose up, tracing the mineral vein until it was above the sprout. Bubbles had the impression he was fixing her with a solemn stare. [You recall the important and special properties of this plant, yes?]
+
+“Right. Really good at healing, right?”
+
+[And warding off malignant spirits. In the old days, around the time when my Guardian was freshly hatched, humans used to come here whenever they had incurable illnesses. Back then, we had prepared small, comfortable, safe groves to house the most sick patients. This forest was a local legend; those with the most incurable illnesses, with nothing left to lose, would have their loved ones bring them here, and we would care for them. The wisteria flowers, before they were plucked, kept the troublesome spirits away so that the patients could rest in peace. The flowers themselves, which we fed to the patients, would combat the diseases in the body.
+
+Eventually, the humans decided to harvest the wisteria flowers and bring them to town, selling them for profit. They overharvested, so I had to bring up predators to protect our bounty. However, once we successfully deterred the scavengers, the animals I brought in to help protect the bounty began partaking of the wisteria as well…]
+
+Rock Two paused, sighing. [I am rambling. However, the wisteria is important. Even if we are not able to preserve the wisteria’s properties here, it is too important of a plant to let it fade away.]
+
+With Rock Two’s more detailed information, Bubbles thought. “How come the humans aren’t harvesting the wisteria anymore? I would think with the current overgrowth, they would be able to help with the harvesting.”
+
+[A long-sighted view that ultimately turned out to be quite short-sighted,] Rock Two admitted gravely. [The corrective actions we took—raising the predators to chase off the humans, ultimately adapting the vines so they could defend themselves against their former protectors—were too extreme. I was not concerned about the short-term consequences as things played out… With time on my side, I always assumed I could just let things run their natural course, and then rebuild from the ground up if it ever came to it. However, I did not anticipate developing an attachment to my chosen Guardian.]
+
+Bubbles inadvertently glanced to where Miss Fish was, still absorbed in conversation with Miss Magpie. Link had finally joined them, and Rock Two’s light was bright as he hovered over the three of them. Miss Fish looked a lot more cheerful now, and the trio appeared to have constructed another map (although in miniature, given space constraints) similar to the one Link had made earlier.
+
+[If it were up to me… I would have just left this forest to its fate. But seeing my Guardian’s turmoil at any suggestion to leave…
+
+In any case, the humans are no longer an option. They are long gone, absorbed into the closest town. I doubt there is still any human who remembers where we are located.]
+
+[How unfortunate,] Rock said thoughtfully.
+
+“But what will happen to little Wisteria if we plant her elsewhere?” Bubbles wondered. “Won’t the same thing happen? She’ll get eaten up before she grows, and then she won’t exist anymore… Unless…” she nudged Rock privately. Should we…?
+
+[That should be the last resort. I am not comfortable with the idea of stealing away a family member’s precious resource.]
+
+But he’s asking for us to preserve her…
+
+Unaware of the conversation Bubbles was having with Rock, Rock Two answered her question. [I realize it is a difficult task, and you are welcome to decline. But if possible, I ask that you transport the wisteria to another one of my nodes. I will alert the local Guardian to your arrival, and we will do all we can to care for it better there.
+
+I realize it is bordering on too much to ask… but I know my Guardian would greatly appreciate your promise to preserve this wisteria. As will I.]
+
+Looking at Miss Fish’s battered face, now glimmering with faint hope, Bubbles knew Rock Two was right.
+
+“Okay,” she agreed. “We’ll take Wisteria… only if all else fails!”
+
+[I agree to this stipulation.]
+
+~ ~ ~ ~ ~
+
+That night, Miss Fish took them all to another chamber, an open-roof underground lake similar to the one where she had first brought Link and Bubbles, but this time without cauldrons in them.
+
+“You may rest here. We have confirmed the wisteria have not made their way here yet. When dawn breaks, feel free to depart through this hole,” Miss Fish said to Miss Magpie. “Will you be able to find your way?”
+
+“Not a problem.”
+
+“All right, then… sleep well, everyone. I will come retrieve you tomorrow so that we may commence with the plans.” Bubbles and Link nodded, and Miss Fish disappeared into the water with a flick of her tail.
+
+Miss Magpie yawned as she flapped into Bubbles’s leaves. Miss Fish had given her a recovery pill while they were planning, freshening up her feathers and aching body so that now she was good as new.
+
+“Thank you for agreeing to help,” Bubbles said gratefully to Miss Magpie. “I really like Miss Fish. She’s nice.”
+
+“Yes, yes,” Miss Magpie said, some of her previous annoyance returning. Despite that, she still nibbled on Bubbles affectionately, albeit a little harder than before. “You two are very similar. I have a good feeling about her, just like I do with you.”
+
+“Will the magpies be able to help Miss Fish save the forest, and defend my Master’s home at the same time?” Bubbles asked hesitantly. That question had been on her mind ever since Link had started pointing out the nitty-gritty details of delegating resources appropriately. As much as she wanted Miss Fish to recover her home, she didn’t want her home to be lost in the process.
+
+“That is a concern,” Miss Magpie said quietly. “However, based on what we know of the humans’ timing when it comes to organizing large groups of people for a large objective, we should have time to finish this objective and return to the Remraf Estate with full force.”
+
+Reassured, Bubbles settled down, letting the tips of her roots dangle in the cave water.
+
+“I also was not completely honest with you earlier about why I was searching for you.” Bubbles twitched, interested. “I was worried about you, that is true… but the reason I’m worried is because…”
+
+Miss Magpie clicked her beak, as if trying to snatch the right words out of the air. “Let me put it this way. The humans already had plans for the land before you made your presence known. The discovery of your existence merely delayed the inevitable. Your escape may have delayed it a bit more, but… make no mistake, the humans will eventually drill into the earth. We can harass them, hinder their work, but it is only a matter of time until they break through our defenses. Do you understand?”
+
+Dread built in the bottom of Bubbles’s being. “So… you’re saying my home will get destroyed eventually, no matter what?”
+
+Miss Magpie didn’t confirm Bubbles’s question, but her silence didn’t reassure her either.
+
+Bubbles thought back to the confrontation Miss Fish had with Miss Magpie earlier this evening, when she had experienced the disquieting realization of how little influence she had over whether or not the magpies would agree to help the forest… and once again, that same frustrated pang shuddered through her.
+
+“It’s not fair!” she burst out, simultaneously relieved to expel these tight, uncomfortable feelings, while even more angry as a quiet voice in the back of her mind reminded her that the humans were still going to clear the garden of all she loved, regardless of how she felt. “It’s not fair at all!”
+
+[Please calm down; Link and Miss Magpie are trying to speak with you.]
+
+Her consciousness throbbed, making it seem as if everything around her was shaking. The cavernous, open-roofed cave pond they were in didn’t give her any sense of claustrophobia before, but now it all felt too tight—as if the walls were holding her back. The water and open sky were mocking her, as if taunting her inability to do anything other than travel along the ground; she couldn’t swim like Miss Fish, and she couldn’t fly like Miss Magpie. The shaking of her senses intensified.
+
+Why did everything have to shake around her? Why couldn’t she be the one shaking things?!
+
+Suddenly, she found herself flying through the air, and then she plunged into the dark water.

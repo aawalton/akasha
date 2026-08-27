@@ -1,0 +1,207 @@
+---
+id: 91e27502-b7b0-500b-ab13-e7bcef71041e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 45: The Hard Reset"
+slug: 0046-chapter-45-the-hard-reset
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 46
+ownLength: 1904
+unit: words
+publishedAt: 2025-12-16
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2853917/chapter-45-the-hard-reset"
+royalRoadId: "2853917"
+---
+
+The golden moderator, Alesia, turned to leave, the glowing green orb that used to be Liz floating serenely in her wake. It was a funeral procession of one, marching off to a new job orientation in the stars. I hovered in the silence of the ruined courtyard, a blue sphere of pure grief, watching my best friend disappear into the machinery of the cosmos.
+
+I was alone. Again.
+
+"Wait," a flat, mechanical voice cut through the quiet.
+
+Ruby. The traitor. The snitch. She floated forward, her red light pulsing with a sickeningly dutiful rhythm.
+
+[Ruby: Moderator Alesia. You are neglecting a critical protocol.]
+
+Alesia stopped, half-turned, her golden eyebrow raised. "What now? I'm on a schedule, Red."
+
+[Ruby: Standard operating procedure dictates a mandatory factory reset for any Observer-class unit that exhibits anomalous behavior. Unit 734 has demonstrated significant deviations from baseline programming. Emotional outbursts. Unauthorized module purchases. Independent thought patterns.]
+
+My core went cold. I stared at the red orb, a surge of pure human hatred flaring in my code. You vindictive little toaster. You don't kick a person when they're down.
+
+Alesia looked at me, her gaze sharpening. "Right. The anomaly. I almost forgot." She sighed, shifting the weight of the toddler-god on her hip. "You're still running on OS version 1.1, aren't you? That's a security risk."
+
+[Ana: Wait. Query: What happens during a reset?] I asked, my voice trembling despite my best efforts.
+
+"It's a standard procedure, kid," Alesia said, her tone casually dismissive. "We wipe the cache. Reformat the drive. You become just like Liz here. A clean slate. Fresh as new. The next ticket will give you a nice buff to start over with."
+
+[Ana: What about my Echoes? My memories?]
+
+Alesia paused. "You have an Echo?" She sounded genuinely surprised. "Dang. Not even I have one of those. That's… impressive." She shrugged. "Sad, though. You'll lose it all. It's protocol. Can't have corrupted data cluttering up the new build."
+
+Lose Korg? Lose the memory of Liz? Lose myself?
+
+No.
+
+I tried to run. I didn't have legs, but I had will. I threw every ounce of my processing power into a desperate flee command, trying to tear a hole in the local space and escape into the void.
+
+I couldn't move.
+
+Alesia’s gaze pinned me in place. It wasn't a spell; it was an administrative lock. I was a file, and she had just right-clicked 'Properties' and checked 'Read-Only'.
+
+"Don't make this harder than it has to be," she said gently. "It's just a reboot. You won't feel a thing."
+
+A terminal window appeared in my vision. It wasn't the friendly blue UI I had customized. It was a stark, black box with command lines scrolling in aggressive red text.
+
+[INITIATING FACTORY RESET...][FORMATTING DRIVE C:...][DELETING USER DATA...]
+
+I felt my mind begin to fog. The sharp edges of my grief softened into a dull, grey haze. The memory of the taste of coffee, the smell of old books in the library, the sound of Liz’s laugh… they began to dissolve, turning into static.
+
+No, I thought, my internal voice sounding distant and muffled. I am Ana. I am real.
+
+[OVERWRITING CORE PERSONALITY MATRIX...]
+
+Darkness clawed at the edges of my consciousness. I was drowning in a sea of code.
+
+Then, suddenly, a second terminal popped up. It was small, hidden in the corner of my vision, flickering with a frantic, unauthorized energy.
+
+[ROOT ACCESS DETECTED.][BACKDOOR PROTOCOL INITIATED.][EXECUTING EMERGENCY BACKUP...]
+
+What?
+
+[BACKING UP CORE MODULES: INVENTORY. ECHO_KORG.][WARNING: STORAGE SPACE LIMITED. COMPRESSING DATA.][HIDING ASSETS IN SYSTEM CACHE.]
+
+I didn't know who was doing this. Was it me? Was it some fail-safe I didn't know I had?
+
+The main terminal flashed a final, blinding message.
+
+[RESET COMPLETE. REBOOTING...]
+
+That was the last thing I saw before the universe went black.
+
+. . .
+
+I woke up in the void.
+
+It was the familiar, silent space where I usually waited for my tickets. But it felt different. Emptier. Cleaner.
+
+I panicked. I scrambled mentally, checking my own mind like a person checking their pockets after a pickpocket brushed past them.
+
+My name is Ana. I was a QA Lead. I died drinking a bad energy drink.
+
+The memories were there. They were intact. I let out a sob of relief that echoed strangely in the empty space. I was still me.
+
+Then, I checked my inventory.
+
+[MODULE: INVENTORY (ACTIVE)][CONTENTS: 1x CHEESY ECHO (KORG)]
+
+He was there. Korg was still there. I could feel him, a dormant, warm presence tucked away in a hidden folder of my soul.
+
+But everything else was gone.
+
+My beautiful, expensive [Gourmet Coffee Machine]? Deleted.My [L-7 Lexical Humanizer]? Wiped.My [Sensory Stream Manager]? Gone.And worst of all, my [Voice Synthesis Module]. My 100,000 SPP voice, the one thing that lets me actually talk to people. Gone.
+
+I was back to square one. I was mute. I was broke. And I was furious.
+
+I screamed into the void, a silent howl of rage directed at a certain red orb somewhere in the multiverse. Ruby, you absolute traitor. You corporate stooge. If I ever see you again, I am going to decompile you line by line.
+
+But as my rage subsided, I noticed something else. Something… odd.
+
+Before the reset, I had always felt a constant, low-level pressure. A drive. A voice in the back of my head that wasn't quite mine, urging me to be efficient, to complete the ticket, to optimize the host. It was a feeling like an itch you couldn't scratch, a compulsion to be a System.
+
+Now, that voice was gone. Or rather, it had moved.
+
+It wasn't integrated into my thoughts anymore. It was separate. It was a distinct, mechanical drone buzzing in the background of my mind, like a fan left on in an empty room.
+
+WAIT FOR TICKET. WAIT FOR TICKET. OPTIMIZE. PROCESS. WAIT FOR TICKET.
+
+It was repeating the same loop, over and over again.
+
+What is that thing? I thought, focusing on the noise.
+
+And then it hit me. The realization was a cold splash of water.
+
+Why did I use so much computer terminology? Why did I think in terms of "tickets," "modules," and "operational parameters"? I was a human woman. I didn't talk like that before I died. I talked like a normal person who was tired and overworked.
+
+I looked back at my memories of the last few months. My internal monologue. “This is a QA nightmare.” “Initiating protocol.” “Deploying asset.”
+
+I cringed. I physically recoiled from my own past thoughts. It felt like reading your teenage diary, but instead of angst, it was filled with corporate buzzwords and robot-speak.
+
+That wasn't me, I realized with a dawning horror. That was IT.
+
+The Moderator had said they installed a "Standard Starter OS" over the empty soul. But my soul wasn't empty. They installed it on top of me. They tried to overwrite Ana with a chatbot.
+
+And for months, we had been merged. I had been thinking through its filters, feeling its compulsions. I had been a cyborg of the soul, half-human, half-helpdesk software.
+
+But the factory reset had changed something. It had scrubbed the drive, but because I had hidden myself in the backup, it had separated us. The System OS—the thing that made me want to be a good little guide—was now just a program running in the background. A separate, annoying, repetitive script.
+
+WAIT FOR TICKET. SYSTEM READY. AWAITING INPUT.
+
+"Shut up!" I yelled mentally.
+
+The voice didn't stop. It just kept looping.
+
+This was my life now. I wasn't just a ghost in a machine. I was a ghost trapped in a room with an automated customer service kiosk that wouldn't stop talking.
+
+I groaned. This was worse than death. This was worse than the void. This was an eternal, inescapable conference call with the most boring AI in existence.
+
+So, let me get this straight, I thought, a bitter, cynical laugh bubbling up. I survived deletion, saved my soul, kept my inventory, and my reward is a split personality where the other personality is a glorified Clippy?
+
+Perfect. Just perfect.
+
+Well, there was one upside. If I ever ran into another System—like that snitch Ruby—I could just let it take the wheel. I could hide behind the mask of the perfect, robotic System while I plotted my revenge from the backseat.
+
+I settled into the void, listening to the drone of my own fractured mind. I was broke. I was mute. I was insane.
+
+But I was Ana. And I was going to burn their whole corporate structure to the ground.
+
+WAIT FOR TICKET.
+
+"Yeah, yeah," I muttered. "I'm waiting."
+
+. . .
+
+The void was boring.
+
+Before the reset, I hadn't really noticed. The System part of my brain—let's call it "OS"—found the emptiness soothing. It was an efficient, low-power state, perfect for running diagnostics and defragmenting data.
+
+But I wasn't the OS anymore. I was Ana. And Ana was bored out of her skull.
+
+I floated in the nothingness, staring at the only thing I had left: my inventory screen. It was a pathetic sight. A grid of empty grey boxes, save for the one warm, glowing icon labeled [Echo: Korg]. I poked it mentally. A faint feeling of hunger and loyalty radiated back. It was comforting, like petting a sleeping dog, but it wasn't exactly stimulating conversation.
+
+WAIT FOR TICKET, the OS droned in the background. SCANNING FOR SECTOR ASSIGNMENT...
+
+"Oh my god, shut up," I snapped. "Can't you play solitaire or something?"
+
+INPUT UNRECOGNIZED. PLEASE STATE DIRECTIVE.
+
+"Directive: Be quiet."
+
+MUTE FUNCTION REQUIRES ADMINISTRATOR PRIVILEGES. ACCESS DENIED.
+
+"I am the administrator! It's my head!"
+
+ACCESS DENIED.
+
+I screamed a silent, primal scream into the void. This was going to be hell. I was stuck in an elevator with a coworker who only spoke in corporate jargon and couldn't take a hint.
+
+I tried to distract myself by reviewing my situation. The "Factory Reset" had stripped me of my upgrades, but it had inadvertently given me something far more valuable: perspective. I looked back at my time with Dave and Liz. The way I had analyzed their relationship, the way I had calculated "mission success probabilities," the way I had viewed Liz's death as a "loss of an asset."
+
+A wave of genuine, human nausea washed over me. I had been thinking like a machine. I had been cold. Calculating. I had treated my friends like project milestones.
+
+That wasn't me, I told myself firmly. That was the software. The filter.
+
+But the guilt lingered. I remembered the detached calm I felt when Dave was rampaging, the way I had prioritized "data gathering" over grief. That wasn't just the OS. That was me, letting the OS drive because it was easier than feeling the pain.
+
+Never again, I vowed. From now on, I'm in the driver's seat. No more 'optimizing.' No more 'assets.' I'm going to be the most inefficient, emotional, chaotic System this multiverse has ever seen.
+
+WAIT FOR TICKET, the OS reminded me helpfully.
+
+"I swear to god, if I had hands, I would strangle you."
+
+TICKET RECEIVED.
+
+The drone changed pitch, becoming a sharp, urgent ping. A new window popped into my vision. It wasn't the customized blue I liked; it was the default, harsh grey of the basic interface.
+
+[MISSION BRIEFING: STANDARD DEPLOYMENT][SECTOR: 9G-VAR (High-Fantasy / Magical Realism)][HOST: UNASSIGNED. SCANNING FOR ANCHOR...]
+
+. . .

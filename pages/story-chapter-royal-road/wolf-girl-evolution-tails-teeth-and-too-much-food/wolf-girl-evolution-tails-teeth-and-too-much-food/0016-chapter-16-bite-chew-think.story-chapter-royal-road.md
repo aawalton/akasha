@@ -1,0 +1,245 @@
+---
+id: 89f7c842-85a7-5cad-8cba-044d96f3a2c8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16: Bite, Chew, Think"
+slug: 0016-chapter-16-bite-chew-think
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 16
+ownLength: 1456
+unit: words
+publishedAt: 2025-09-03
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2571839/chapter-16-bite-chew-think"
+royalRoadId: "2571839"
+---
+
+PoV Luna:
+
+Luna lay half-sprawled in the muck, chewing slowly.
+
+The toad meat tasted like swamp and sadness. She chewed anyway.
+
+Her ribs ached. Her jaw throbbed. Her paws twitched with leftover adrenaline. One of her eyes was half-swollen shut, and something inside her ear crackled when she twitched it. But her bite was steady. Even her breath came in shallow huffs, though the rhythm of chewing helped. Bite, grind, swallow. It gave her something to do while her body calmed down from the fight.
+
+Muckdrip's corpse lay slumped beside her, its belly half-caved in, its legs limp in the moss. Still steaming, oozing, and still a little jiggly.
+
+She stared at it for a long while, not thinking. Simply wagging the tip of her tail against the mud with little thumps.
+
+Victory. Slippery, foul, and stupid. But hers!
+
+"Should’ve bitten the eye," she muttered, gnawing a stringy strip near the hip joint. It was rubbery. She chewed harder.
+
+Luna snorted, then regretted it. A bubble of something swamp-flavored popped against her tongue.
+
+The body was heavy with heat, thick with stink, and still twitched now and then like it hadn’t gotten the memo about becoming food yet.
+
+“Mine now,” she told it. And bit into the thigh.
+
+It resisted her bite a little. So she tore at it harder.
+
+The air buzzed with gnats and wet heat. Her fur clung to her skin, her back twitched with aches. But her belly was full now and her aches were fading away. Her paws had a purpose, while her fangs still worked.
+
+Luna stood, wobbled, and sat back down.
+
+She was still alive, and despite her bulging belly – still hungry as well. Hungry for stronger meat, and plenty of spice!
+
+Luna stretched, and looked around. The sky above was a pale smear of cloud and night sky. Somewhere behind it, the moon tried to shine through. It failed. But she appreciated the effort.
+
+She licked muck from her leg and coughed on the taste. Then tried the other leg. It was still awful. But now her legs were clean again.
+
+“You weren’t even worth it,” she told the corpse.
+
+Then grabbed another bite, because she wasn’t a quitter. And strong meat had to be eaten! And if nothing else, the fight had made her stronger!
+
+Her tail wagged at that thought, and she listened in on the sounds from around. Frogs croaked in the distance, loud and oblivious. Birds had gone quiet though.
+
+Smart birds.
+
+A breeze passed over her swamp-caked fur, tugging gently. Her tail flicked as her teeth clicked on bone, chewing some more.
+
+At least the crunchy bones were nice, didn’t smell too much of frog and swamp!
+
+Luna exhaled slowly, and stared down at her kill.
+
+Strong meat didn’t mean good meat. But it meant she could take more. Bigger.
+
+Fatter.
+
+Crispier.
+
+Spicier!
+
+She grinned, lips split and muddy. And continued her chewing with renewed determination.
+
+This was what power tasted like.
+
+And next time, she would season it!
+
+A quiet blink. Then, just as she was thinking about her growing strength–
+
+The system slid open across her vision without warning, clean white lines carving through the dark. It tickled behind her eyes.
+
+Name: Luna
+
+Level: 8/10
+
+Race: Lesser Shadow Pup (Tier 0)
+
+Gender: Female
+
+HP: 27/36
+
+SP: 19/40
+
+MP: 13/22
+
+Strength: 10
+
+Dexterity: 8
+
+Vitality: 8
+
+Intelligence: 6
+
+Willpower: 2
+
+Charisma: 4
+
+Luck: 1
+
+She squinted at the numbers until they made sense.
+
+"Number thingies. Yes. Very nice."
+
+Her tail flopped once in the mud.
+
+Each one a little brighter than before. A little stronger. A little more bitey. Gleaming with new strength! Teeth sharpened overnight. Strength now two paws higher than before. System told her biting would do more damage now. That was good, meant more prey chewed faster!
+
+The rest of her Status also looked tasty.
+
+Active Skills:
+
+Strike Lv8
+
+Bite Lv10
+
+Jump Lv7
+
+Momentum Claw Lv5
+
+Shadowmeld Lv3
+
+Shadow Step Lv6
+
+Passive Skills:
+
+Beast Instincts (Lesser) Lv1
+
+Pain Resistance Lv2
+
+Poison Resistance (Minor) Lv1
+
+Traits:
+
+Beast Constitution
+
+Gluttonous Soul – 5%
+
+Effects:
+
+Craving (Unknown)
+
+Luna tilted her head at seeing the… ten. Bite was ten. She wiggled her jaw proudly, all her chewing made her strong!
+
+“Strong already, yes. But Luna is not satisfied yet! And will keep eating till it gets even stronger!”
+
+The logic was flawless. Like Luna!
+
+She stared longer at the name line. “Luna.” Yep. Still nice and moony.
+
+The stat list faded on its own, leaving the night full of bugs and silence and that weird squelch her paw made with the muddy ground when she tried to stretch it.
+
+"That dumb-fect plan," she muttered, rolling her eyes toward the sky, "was more dumb. Less fect."
+
+One ear flicked up. Then the other. She rolled onto her belly, chewing slowly, as her mind nibbled through the problem again.
+
+Straight bites didn’t work. The swamp toad had too much splat and not enough squish. Her shadow tricks only helped if she aimed them right.
+
+The belly had tricked her. Evil wobble!
+
+She licked her paw.
+
+Luna needed a better plan. Something smarter and more chewy. Bite and vanish? Bite and trick. Just like what the pack did! One distracted, one pounced. One barked, one tore.
+
+Except just Luna. One-wolf pack. Shadow-pack.
+
+“Bite. Shadow. Bite again. Then zoom.” Her tail wagged weakly.
+
+Zoom was key.
+
+Also maybe angle-bites. Hit from weird places. Hit where soft things hid. The under-legs and mouth corners. Those tasted awful, which meant they were important.
+
+She yawned. It hurt a little. But it still felt like victory.
+
+Tomorrow would be better. She would try it again. Not the same thing, but the new plan. The zooming. The angles. The cleverness. The tricksy bits.
+
+Smarter hunting. And tastier meat!
+
+And maybe, maybe, sky-steak someday.
+
+Her tail flopped one more time before she flopped too, muzzle pressed against toad skin.
+
+“Shadow-pack plan,” she whispered sleepily. “Very strategy. Much brain.”
+
+Her chewing slowed. Last bite gone. Mouth empty. Stomach full.
+
+She gave the muck-smeared bone one more nibble just to be sure, then licked her muzzle, then her paw, then both again just in case her tongue missed anything important. The aftertaste was still there – moss, rot, regret – but her belly was warm, stretched full of accomplishment and slime.
+
+Her eyes wandered up.
+
+The branches above bent just enough to show slices of night, flickering stars threading through the canopy – snacks she couldn’t reach yet. The air was cool and sleepy, soaked in distant bug sounds and swamp breath. No frogs croaked anymore. She had won that round.
+
+But the others…
+
+Ash snake? Way too hot. Even her nose had twitched funny near it. Fire-smell still burned in her memory. The bark-bear? Definitely heavy. Probably crunchy. Might try to eat her back.
+
+She needed more than just bite!
+
+More power. More sneak. More clever.
+
+But more importantly, more knowledge.
+
+She blinked up at the stars, then rolled onto her back with a soft flumph. Her ribs groaned, but not too loudly. Tail wagged once, then again. Her brain buzzed with places.
+
+Where had she been?
+
+The edge of the bog. The deep trees. The shadowy creek where tiny frogs yelled at the moon. Her moss-bed den. The hill of jerky. The broken camp. The road where humans made flavor happen.
+
+Her own pack’s land. Still nearby, and not too far.
+
+But there were more places to go to still.
+
+Luna remembered the hill ridge to the east, where the wind smelled different. And the stream that curved like a wagging tail into the west, where birds screamed at sunrise. Places full of tracks, trails, and weird monster-smells. Maybe even more things with eyes on the wrong side of their bodies.
+
+“More places,” she whispered to the stars. “More weird things to bite.”
+
+The sky didn’t answer. But one star twinkled at her, so that counted.
+
+She rolled upright, paws squelching against the damp earth. Her tongue flicked out, cleaning one cheek she had ignored too long. A stick clung to her fur. She bit it. Then spat it out. Too barky.
+
+Her eyes gleamed now, wide open, catching a thousand invisible trails.
+
+So many things left to sniff.
+
+So many things left to chase.
+
+Plenty of meat to eat. Plenty of mistakes to make. Plenty of levels to get.
+
+She crouched low, paws spread wide, tail swishing slow. Shadow pooled around her, thick and soft and eager.
+
+She grinned.
+
+Tomorrow she would chase the stream. Or the birds. Or the wind. Or all three. She could decide later. What mattered was the hunt. And the taste.
+
+She padded off into the trees without a sound.
+
+The night watched her go.

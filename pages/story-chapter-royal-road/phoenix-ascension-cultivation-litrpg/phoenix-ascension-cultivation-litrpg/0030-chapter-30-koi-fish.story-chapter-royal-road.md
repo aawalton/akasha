@@ -1,0 +1,303 @@
+---
+id: ab91a919-cfe8-5ffe-b7f6-27b3357e3961
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30: Koi Fish"
+slug: 0030-chapter-30-koi-fish
+partOf: phoenix-ascension-cultivation-litrpg
+position: 30
+ownLength: 3440
+unit: words
+publishedAt: 2025-10-01
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2644287/chapter-30-koi-fish"
+royalRoadId: "2644287"
+---
+
+Mother woke up as soon as the buzzing arrived, and she looked at the arriving figure with a scornful expression.
+
+“What do you want, Ichel? The moon is barely halfway through the starry sky!”
+
+“It’s bad news, bad news, your Lordship!"
+
+“What bad news, what happened, what’s so urgent?”
+
+“The local forest lord got into a fight with humans and it seems like they destroyed each other. We’ve found corpses of both around their territory.”
+
+I flinched a little upon hearing the news, both because it was the first time I’d actually heard the thing’s voice and also because I was the one who destroyed both of them. At that moment I could only hope he doesn’t mention the pile of bags of holding right next to said territory.
+
+“That?” Mother gave me a glance with the tail of her eye. “What about it? What does it have to do with me?”
+
+“Lordship, the humans that died were somewhat important figures to the five sects. I am afraid they won’t let go of this matter.”
+
+“Five Sects? Hmph!” Mother scoffed, raising her head. “What do I care about these humans? You promised this territory was far away from their issues. I had to move my Vital Nest once already, do you want me to move again? You should know how much energy it takes to do that!”
+
+“Your Lordship, I’m just trying to look out for you. You are strong, but the humans have the advantage in numbers, and some are even at your level-”
+
+When the bug guy said that, Mother’s feathers flamed to life as she stood up, anger evident in her voice. “You dare insinuate that a mere human can compare to me? I am the Lord of the Thousand Li Forest and Myriad foot mountain! I moved because I worried for my daughter’s life, but don’t you think that was because I am weak!”
+
+Even I took a step back as flames shot out of the top of her wings, tracing them with a flaming lane that lit up the night sky.
+
+Ichel’s buzzing sped up as he lowered his head in obedience. “My apologies, your Lordship, this one doesn’t dare, doesn’t dare. However I hope you can take my words into consideration and be on the look out for any cultivators in this mere Kong Lin Forest.”
+
+After saying that, the bug left; mother’s blazing figure remained as the sole focus in the picturesque landscape.
+
+She turned, our eyes locking mid air, a complicated expression strewn across her face. Without saying anything, I could tell that even she was worried.
+
+“Little Flame, mother doesn’t blame you for what you did.” She began, walking toward me with large steps. “However, you're far too young to attract the attention of five human sects.” Mother paused and sighed. “Ichel was right, they have humans that may be on par with me. To speak the truth, Mother has not managed to advance in a few centuries. I can’t break into the spiritual stage no matter how hard I try.”
+
+“Mother, what are you saying?”
+
+She looked in the distance, toward the forest we’d left. “I’m saying mother will have some trouble killing them.”
+
+“Mother-”
+
+“Don’t worry, Little Flame.” She flapped her wings and said with a confident, arrogant tone. “These human trash can’t do anything to me. Come? Let them come! Mother will take care of all of them. I am older than their entire nine generation’s agespan combined, they think they can kill me? Mother has a few tricks up her sleeve!”
+
+That reassured me more than it should have. Mother walked back on the nest and I scuttled over, tucking myself in her warm feathers and went back to sleep.
+
+***
+
+When morning arrived, Mother was still sleeping, but the sun had woken me up. I plopped out of mother’s warm embrace and stretched my wings. Looking left and right, I nodded to myself, impressed by their beauty, despite the ethereal, ghost-like hint they took on.
+
+It gave them a sense of uniqueness. That didn’t mean I couldn’t make it go away with a simple thought.
+
+Besides that, it was obvious that I’d grown some during the night. My feathers seemed sturdier, their length ever so slightly longer, and I felt a little taller.
+
+Closing my wings, I walked toward the edge of the nest and admired the view. The sun had yet not fully risen, and the dark sky began to shift to a faint purple.
+
+Yin and Yang mixed together, creating the perfect harmony of heaven and earth. I took a deep breath and absorbed the last breath of Yin using the Ghost Qi Technique, and my body naturally absorbed the first breath of Yang.
+
+For a moment, my body was in perfect harmony.
+
+Then, I released the breath, and the sky shifted to orange, the sun appearing beyond the horizon.
+
+I released the breath and the chill from the Ghost Qi Technique left along with it. Despite my nature as a yang creature, my body became deathly cold during specific times of day.
+
+During sunrise and sunset.
+
+It wasn’t particularly pleasant, but it wasn’t something I couldn’t deal with either. However, I feared that my cultivation wouldn’t be able to advance any further. The Ghost Qi Technique was truly too evil.
+
+The way I saw it, I either had to remember or learn another technique that suited me better, or modify the Ghost Qi Technique so it didn’t have such ugly side effects.
+
+I couldn’t for the life of me figure out why the only cultivation technique I was allowed to remember was this accursed thing! My feathers stood on their end and fire unintentionally covered a small area surrounding me.
+
+It was the Phoenix Fire, and not the Nirvanic Flames. It seemed that whenever I got angry one took precedence over the other in terms of burning down the nest.
+
+Sigh.
+
+Were the heavens pulling a prank on me?
+
+I jumped down from the edge and spread my wings, feeling the freedom of a Phoenix soaring above the heavens. The forest turned into a blur below my feet, and the landscape became nothing more than a flat surface for me to look at.
+
+My goal was to find a peaceful spot to sit down at and maybe hunt. I spotted a river not that far away from me, and glided down, looking for a nice landing spot. Soon, a tiny cliff that stood right above the river entered my sight.
+
+The grass bent under my weight as I stepped over it, and walked to the edge of the cliff, sitting down on my fluffy butt and enjoying the cool breeze.
+
+I didn’t have the time or energy to do a thorough inventory of System last night, but a new day and a good sleep gave me all that I needed to stare at a flooded wall of text.
+
+“System, show me myself, stats and skills.”
+
+Details
+
+[Name: Fa Xiaolan][Race: Phoenix][Class: Elemental Phoenix][Level: 12][Hit Points: 2906][Equipped Titles: Tiny Blood Lord][Bloodlines: Phoenix][Cultivation: Qi Condensation VII][Qi: 5309]
+
+Stats
+
+[Strength: 273][Dexterity: 231][Perception: 242][Charisma: 170][Intelligence: 207][Skill Points: 20]
+
+Active Skills
+
+[Peck: Beginner]
+
+[Nirvanic Flames: Intermediate]
+
+[Iron Claws: Beginner]
+
+[Strengthened Constitution: Beginner]
+
+[Stealth[Lesser]: Beginner]
+
+[Tail Whip: Beginner]
+
+[Lord's Call: Novice]
+
+[Side Step: Intermediate]
+
+[Myriad Qi Needle: Beginner]
+
+[Shadow Cloak: Beginner]
+
+[Heaven's Protection: Novice]
+
+[Dragon Flames: Beginner]
+
+Passive Skills
+
+[Evasion: Expert]
+
+[Poison Resistance[Greater]: Novice]
+
+[Dragonbone Tempering: Beginner]
+
+[Pain Tolerance: Intermediate]
+
+Bloodline Skills
+
+[Phoenix Fire: Intermediate]
+
+[Phoenix Reflex: Novice]
+
+[Ember Step: Novice]
+
+[Ellemental Wave: Novice]
+
+[Precise Flame Control: Novice]
+
+It felt good, seeing my stats being so high and so many skills were available at my beck and call.
+
+But, what was that Dormant Core thing? Was it my beast core? Why would it be dormant then?
+
+Ah, I really should look into it later.
+
+I couldn’t really tell if the Dragonbone Tempering skill really did anything, but besides getting hit, I had no sure way of verifying. But how could I even test that?
+
+Getting hit in the same way, by the same attack at two very different points in time… might as well tell me to go look for Phoenix feathers- Oh, right.
+
+I giggled and pulled a looser one out with my beak, then held it in my claw. I did have Phoenix feathers. If a human were to see this floating down the river, I wonder what would they say? How would they react?
+
+Would it be considered the fortune of their lifetime? Or would they throw it away because I haven’t fully matured yet?
+
+Either way, who cared? I threw it anyway. The nest was full of them.
+
+I didn’t think about it further, and instead began pondering over ways I could get stronger. Raising my cultivation base was out of the question. Despite my original thoughts, the Ghost Qi Technique scared me deeply. Its effects at condensing Qi were amazing, but beyond that, I didn’t know what would happen.
+
+If only I could find-
+
+Achoo!
+
+A sudden, soft sneeze pulled me out of my thoughts, and I looked around, then behind, and finally below.
+
+In the river below, a rather fat koi fish with black and orange spots fought against the current, swimming with my feather in its mouth.
+
+I stared at it for a moment, then it spotted me, and its eyes widened before giving me a pleading look.
+
+“What? You want me to help you?”
+
+It nodded frantically, though it didn't let go of the feather.
+
+I considered the matter for a second. Helping the fish go upstream would not give me any benefits, but I would reap good karma.
+
+However, wasn’t there a myth about the fish leaping over the dragon gate, becoming a dragon? If I were to help the fish, would that not destroy its path?
+
+I shrugged, it wasn’t for me to consider.
+
+Jumping off my feet, I flapped my wings and took the skies, quickly scanning for a lake. After finding one nearby, I dove down and grabbed the koi fish with my claws, then headed toward the lake.
+
+It dropped in with a sharp plop sound, and swam around happily with my feather in its mouth.
+
+“Thank you, oh mighty Fire Bird. I didn’t know what would have happened if you hadn’t saved me.” It spoke with a soft voice after placing the feather between itself and the edge of the lake, making sure it didn't float away.
+
+“Fire Bird?” That brought a giggle out of me. Who would have guessed a mere koi fish would dare call the mighty Phoenix a ‘fire bird’. “Why are you so obsessed with my feather?” I asked, trying to sate my curiosity.
+
+“Lord Fire Bird, how could I let go of such a beautiful feather? The moment I saw it, I jumped out of my hiding spot and grabbed it. However, how could I know that the river would be so strong this morning? I didn’t have the strength to go back to my hiding spot. That’s when Lord Fire Bird saved me. This little one will be forever grateful.”
+
+The fish spoke with a surprising eloquence, and its soft voice made me think it was a girl.
+
+I sat down and decided to converse a little more. Talking to the fish wasn’t so bad. After all, the only beasts I’ve spoken to so far were the snakes and mother. I didn’t think normal beasts would be able to talk.
+
+“Little Fish, who were you hiding from?”
+
+“A turtle. A really bad, big and mean turtle!” The koi fish shuddered when she mentioned the turtle, and I found that a little amusing.
+
+I chuckled, “What is a turtle doing in a river?”
+
+“Chasing me, for the most part. Oh, Lord Fire Bird, you don’t know how much that turtle has wronged me! First, it entered my pond. And it was a beautiful pond. So many lotuses and pink flowers, plenty of insects for me to eat and also some spiritual plants. There were some funny stones at the bottom too. When I touched them I suddenly got a little faster, and then a lot, lot faster! The insects I had trouble catching couldn’t escape me anymore. It was a good life.
+
+“But then… but then…” Her voice shook as she recounted to me the story, and I couldn’t help but feel suspicious of the ‘funny stones’ she spoke of. Were they the same kind of stones as the ones I found at the bottom of the Qi Lake?
+
+“Then, the turtle came! And I thought I could swim faster than him, but I couldn’t! And then I had to jump high, very, very high! I landed right around the river, and I only managed to survive after slipping inside. But the turtle didn’t relent, and chased me even inside the river.
+
+“Lord Fire Bird, then I swam up as much as I could, but I got tired. I was very tired, and then I found a tiny opening at the bottom of the river, and I hid there for three days and three nights. Three! Oh I got so hungry, but I didn’t know if the turtle was still there.”
+
+“And then you saw my feather and you thought it was food?” I giggled. Listening to this little fish tell the story of how she survived a strategy was interesting.
+
+“Heavens no, Lord Fire Bird. But something told me that I had to have it. Something deep, deep within my soul told me that if I had it, good things would happen. And I was right! Lord Fire Bird saved me and brought me to this nice place. It’s not as nice as my old lake, but it’s much quieter!”
+
+It was then that the tiniest of growling escaped the fish’s stomach. She sank to the bottom of the lake, biting down on the feather and lowering her head in embarrassment. “Lord Fire Bird… this… This little one is ashamed.”
+
+“Hahaha!” I let out a hearty laughter and stood on my feet. “Wait here, as a reward for telling me a good story, I’ll feed you something nice.”
+
+I then took to the skies, using my magnanimous words to hide the fact that I was also starving. It didn’t take me a long time to find and kill a boar. I used the technique mother liked so much, and tried to hit its nape with my beak.
+
+It took me a few tries, but I finally managed using my Peck skill. Using Strengthened Constitution, I picked up the fresh corpse and flew back toward the lake, where the little fish waited for me.
+
+“Lord Fire Bird… this… I can’t eat all of this.” The koi fish said, but I ignored its misunderstanding.
+
+“Which part do you want?” I asked as I began chopping off bits of the flesh using Iron Claws.
+
+“Ehh, I don’t know. I’ve only eaten insects and plants, I’ve never tasted such a big animal.”
+
+Then you get the belly and the innards.
+
+After chopping it up in nice pieces, I threw the innards I didn’t want, like intestines and kidneys, alongside the fat belly meat. I hadn’t considered how such a small thing would eat those, but imagine my surprise when she used a Skill to break the meat into smaller pieces.
+
+It looked like a sort of underwater air slash, or rather, air beam. Water beam?
+
+“Little fish, what is that?”
+
+“Lord Fire Bird! I discovered I can shoot out bubbles very fast if I focus, and this has helped me hunt a lot of insects. Unfortunately, even that didn’t stop the turtle from chasing me…” The little fish complained, but took energetic bites from the meat. “Oh Lord Fire Bird, this is amazing! This little one has never eaten anything so tasty before!”
+
+I smiled, though mostly with my eyes. It wasn’t like my beak could bend like human lips could. “Eat then, eat all you can.” For some reason, seeing the little fish enjoy the food made me really happy.
+
+Of course, I also ate as much as I could, and by the time we were both done with the carcass, only the skin remained on its bones, and also the brain.
+
+Splitting its skull open revealed the slimy delicacy, and I saw the little fish look at it with a desiring expression from the corner of my eyes.
+
+“Heh,” I snorted lightly and threw it in the lake. It wasn’t like eating it would give me any more benefits. My body was already pretty tough and the small amount of nutrients from a normal beast would not help my growth.
+
+“Thank you, Lord Fire Bird!” The little fish did a few loops around the sinking brain and shot a couple of water beams at it, breaking it into tiny bite sized pieces that it then devoured.
+
+I couldn’t believe my eyes, but that little fish was actually quite gluttonous. It ate the entire thing in less than three breaths of time, and it even burped after!
+
+“Lord Fire Bird, this one thanks you for the care, and for the feather. Lord Fire Bird, I pledge my allegiance to you!” The little fish jumped out of the water and onto the ground, flopping onto her belly and bowing her head.
+
+“This…” I didn’t quite know how to react at that moment… to think I would get a fish subordinate… The heavens truly played games with me.
+
+***
+
+I didn’t sit around for much longer. After leaving the fish, and promising I would come back every so often to feed it, I went in search of her lake. That turtle probably claimed ownership of the lake, but I wanted to confirm my theory.
+
+It took me an hour of flying downstream to find the lake she was talking about. It was situated in a rather remote area of the forest, and after seeing just how far away the river was from the lake, I could tell that she underestimated herself.
+
+The river was approximately one hundred and fifty feet away from the lake, meaning she must have jumped really high and basically flown over the forest, then surviving the fall before sliding into the river.
+
+I had to give her credit, she was a tough fish. I suspect she didn’t tell me the whole truth, but maybe she didn’t know what she’d done either. That little fish seemed too innocent to lie.
+
+There was a chance she used a large bubble to attenuate her fall or even surrounded herself with it, thus giving her the ability to float. Such a thing sounded difficult, much more difficult than a simple bubble shot.
+
+Perhaps she was worth taking under my wing? Such a talented Spirit Beast would definitely go far— becoming a dragon wouldn’t be outside the realm of possibility— and she could help me get more water affinity.
+
+Ellemental Affinity
+
+[Fire: 500%]
+
+[Water: -150%]
+
+I know, you didn’t have to remind me.
+
+I rolled my eyes, almost unable to believe System’s gall. Whatever— I wouldn’t be in the negatives for very long, not if the little fish helped me.
+
+With that thought in mind, I advanced toward the lake. Without knowing just how strong that turtle was, I wouldn’t be as daring as to literally dive into it. I landed a good distance away from it and activated both of my stealth skills.
+
+I wouldn't be able to stay like that for long, so I hurried with big steps and listened carefully.
+
+Taking a whiff of the air didn’t tell me anything. A Phenix’s sense of smell wasn’t as strong as a wolf, fox or other land animals. Our vision though, well it seemed to be much better. That was normal, considering we had to hunt from way high above.
+
+That allowed me to see that the turtle the little fish was terrified off wasn’t exactly swimming in the lake, nor was it exactly moving. I doubted it was alive, in fact, as its carapace had been smashed to bits and the head had been severed.
+
+I couldn’t say the scene shocked me, but I did find it weird. Approaching carefully, I heard voices. They didn’t seem to belong to spirit beasts, but I couldn’t be sure if they were human either.
+
+Had they discovered the special properties of the stones?
+
+That was a hard question to get an answer to. But why else would they be here?
+
+I creeped closer through the bushes, making sure to not bend the grass as I stepped and approached, and finally got a clear view of the scene.

@@ -1,0 +1,399 @@
+---
+id: 4da6bc65-338f-5269-869a-c831665191e8
+page-type-slug: story-chapter-royal-road
+title: "450 Preparations"
+slug: 0410-450-preparations
+partOf: the-new-world
+position: 410
+ownLength: 3692
+unit: words
+ownProgress: 3692
+publishedAt: 2025-07-13
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2430733/450-preparations"
+royalRoadId: "2430733"
+markedReadAt: "2026-06-29T21:35:27.626Z"
+---
+
+Hod struck a pose.
+
+"Hod ready. Hod always ready."
+
+Torix coughed into a hand.
+
+"Ahem. Why am I here, exactly? Aren't I busy scouting?"
+
+I gave him a nod.
+
+"Because we're going to build you a new body before we head out."
+
+Chapter Begin
+
+Torix's eyes flared.
+
+"Excellent. I shall make the arrangements for such a thing to take place. Bah. There's simply so much to do. I wonder what I should use for the ink?"
+
+I swished my hands as if writing.
+
+"Maybe actual ink?"
+
+Torix rolled his fire eyes.
+
+"If there is one aspect we disagree upon, it's your evident lack of vivacity in regards to your aesthetics."
+
+Torix turned, swirled a hand to generate a pen made from a huge peacock feather, and dove into thought. A moment later, a portal opened up, and Torix stepped through it. He left before Chrona lifted herself upright. From outside, a wave of shade covered Hod's home. I looked up, finding one of her massive wings covering us all. She jumped up before flapping her wings just outside Hod's wind arrays. The trees bent below from the force of her flying. She echoed her thoughts.
+
+"I shall gather a few of my new supplies and tools. May you all have an excellent preparation as well."
+
+She flew off, gliding to her home. Amara took a breath.
+
+"I will need to come with you, but I'm unable to protect myself from our likely enemies. It stems from your skill at amassing the hatred of others."
+
+I pointed at her.
+
+"It's a talent. But yeah, I can build some defensive gear...That being said, shouldn't my artifact do a good job at defending you already?"
+
+Hod walked over and put a wing around Amara's shoulders.
+
+"Hod find excuse for things too."
+
+Hod leaned to me, rubbing two taloned fingertips together while raising his eyebrows.
+
+"Hod want shiny things like Amara, if Harbinger happen to have them."
+
+Amara grumbled.
+
+"I simply wish to live. Do not lump my concerns with your obvious greed."
+
+Hod looked at her.
+
+"Hod want survive too, but Hod different from pretty lady. Hod need things so that Hod have will to live. Shiny things give Hod will to live. Therefore, Hod best defense come from good, shiny things."
+
+I unraveled his words before shrugging.
+
+"I've got a few minutes. Let me see what I can scrounge up."
+
+I tossed a few different beads of metal to Hod, who stared at them with wondrous amazement. He held a childish awe in his blank eyes, and the endearing look bought me over. I sent a few messages, giving Hod permission to sort through recycling bins and disposals before they were processed.
+
+After that, I left the others and headed to my golem creation facility. Floating in from above, I rolled my shoulders. Taking a moment to draft up my ideas, I set out a few blueprints onto a panel of marble. The etched stone always inspired me, the polished, glossy surface like a mirror at the right angle. Having carved out a detailed set of instructions on the soft stone, I constructed a set of shields using the references.
+
+It began with two towering barriers, each of them as tall as Amara and curved to help cover her from different angles. They operated on a gravitational anchor, each shield mirroring the other's position around an unseen circle. To equip the gear, the wielder needed to step into the circle and mentally link with the tool.
+
+The shields lacked my trademark spikes, each plate smoothed to a polished sheen. The slick metal helped disperse force when it blocked something instead of meeting the impact head-on. While I might prefer the opposite, Amara needed something to reduce the force she'd experience. Of course, the shields themselves carried all my standard runes along with one augment over my standard gear. They would help mitigate rebounding forces.
+
+I also installed a bit of an autopilot mode, one that revolved around combat. In essence, I made a hybrid between my golems and constructed weapons. This single-minded perspective gave the shield a quick, rapid response compared to my other golems but limited the depth of its calculations.
+
+The lightning-quick defense mirrored defensive treasures designed only for protection. However, this gear still carried a subtle sentience. That intelligence would let it carry objects or rotate to help its central operator travel. The towering shields also had a few gravitation sigils to help Amara carry them. Otherwise, it would be far too heavy to carry around. With the strength to lift it aside, the ground would crumble beneath her feet just from hoisting it up.
+
+By the time I finished the gear, Torix had already hovered above the facility, his impressive mind handling a dozen calculations in tandem, all for the upcoming ritual. I floated up behind him through the roof's opening.
+
+"How long do you think it will take to get this set up and finished?" I asked.
+
+Torix interlocked his hands behind himself.
+
+"Two weeks. I've done this ritual several times, and I'm not learning new material as I create it. That's one of the few reasons that I required several days for the spirit formation on Blegara. The other involved the skeptiles. While showing ingenuity and creative license with their magic, they lacked any true structure to their arrangements."
+
+Torix floated off the ground.
+
+"It's a shame. They remind me of many budding ritualists who show promise yet yield little in the way of results. Their sorceries simply aren't formed upon a firm foundation, and that results in their dedication to many rituals that aren't feasible."
+
+I nodded.
+
+"There are times to follow the heart, but I'm guessing rituals don't fall into that camp very often?"
+
+Torix walked on the air.
+
+"It's a matter of discipline. Love is for family and children. Thought is for all else. If not handled in such a manner, then life becomes one fleeting motivation after the other, and there's little to ground oneself on."
+
+I held Amara's dual-tower shields in my hand.
+
+"Dreams devolve into daydreams. Pies in the skies, so to speak."
+
+Torix tilted his head at me.
+
+"Ahem. What?"
+
+"Oh, it's a phrase for a dream that's achievable but lacks any real follow-through."
+
+Torix gave me a slow nod.
+
+"I'm not a fan of that particular adage. It seems rather clumsy and unintuitive. To be frank, it reminds me of something Hod would say out of context."
+
+I smirked.
+
+"It does, doesn't it?"
+
+"Then why do so?"
+
+"Sometimes, I say metaphors and phrases from my old life to keep that way of speaking alive. It keeps me grounded and near my roots."
+
+Torix pushed up imaginary glasses before letting out a deep breath.
+
+"A fool's errand."
+
+I couldn't help but smile.
+
+"Eh, we'll agree to disagree. Now, let's go get the ritual set up."
+
+We flew off. I turned to him as Torix formed a black cloud beneath his feet.
+
+I said,
+
+"So...Where are we going?"
+
+Torix stayed upright as we coursed across Mt. Verner.
+
+"Antarctica. It's a large, uninhabited area that is utterly teeming with monsters. Strangely enough, there seemed to be a collection of life there in the form of krill before Schema's systemization. This gave way to some of Earth's largest creatures, known as whales. Fascinatingly, via eldritchification, they've turned into some of this new world's strongest monsters."
+
+I blinked.
+
+"That's both cool and a bit sad."
+
+"Apparently, they are to be feared even by the bravest of explorers."
+
+I sighed.
+
+"They were beautiful, majestic rulers of the sea. It's a shame they've eldritchified."
+
+"It's to be expected given the sheer amount of animals they consume."
+
+"Ah, so eldritchification is kind of like mercury poisoning."
+
+Torix's eyes flared.
+
+"Mercury? The element?"
+
+I peered at the sprawling metropolis of Mt. Verner.
+
+"It's toxic for most animals. It builds in our bones and organs over time, and our bodies can't get rid of it. In fact, it would often be released in large amounts whenever the body's bones began breaking down in old age. The main problem arrived from it settling in our brains, though. It led to insanity, aggression, and other permanent neurological disorders."
+
+I furrowed my brow.
+
+"Since it couldn't be cleansed, the ambient mercury in the environment would collect in herbivores, then the predators that ate them. This amassing continued until the food chain ended. The system is likely handling that mercury issue, but if it isn't, then heavy metal would inevitably kill any eldritch that devoured enough of it. Well, assuming their biology is anything like ours."
+
+Torix's eyes flared even brighter.
+
+"Fascinating. The apex predators would ingest those creatures, each of them acting as repositories for the toxic metal. It then amassed within the largest and oldest creatures, resulting in further aggression. Hmm, that sounds very similar to an eldritch infestation and unhandled rifts. I rather like that connection when compared to the pies in the skies metaphor."
+
+I smiled.
+
+"It's an idiom, to be more precise."
+
+Torix waved me away.
+
+"Semantics. Tell me, was this mercury outbreak considered apocalyptic?"
+
+"It was something nearly no one talked about or cared for. People kind of ignored it."
+
+"My my, now that is simply a recipe for disaster."
+
+I peered at the entrance depot for Mt. Verner.
+
+"It could've been if humanity kept pumping mercury into the ocean. Still, not every problem requires immediate solving."
+
+"That inaction in the face of doom stems from society never having faced its fall. In fact, to not act preemptively is an old-world perspective. Anyone within an integrated world isn't going to handle a widespread issue so passively. Eldritch outbreaks are a stark lesson in that regard."
+
+I shrugged.
+
+"Humanity picked and chose our battles. That concept hasn't changed, but the rules around what's necessary to intervene in, well, let's just say they've been rewritten."
+
+We flew in through one of the entrance depots for Mt. Verner, many soldiers checking people coming and going. I gave them a nod with a flare of my dimensional wake, verifying my identity. Torix amassed a flare of his dominion mana for the same purpose, but he already knew the guards by name. The lich eyed a thin soldier.
+
+"Ah, Terence. How are you?" Torix said.
+
+Terence had a set of cutesy pins made by children, and he wore them to work every day from the looks of it. The guy stood up straighter under torix's gaze. He coughed into a hand.
+
+"You know, good and bad depending on the weather."
+
+Torix gave the guard a sharp glare.
+
+"Or your activities the night prior. Do tell me you're not letting Ashley slouch in her studies?"
+
+A beaming grin popped up on Terrence's face.
+
+"Oh, I'm not letting her get away with anything. She's on the straight and narrow, even though she's only seven."
+
+Torix peered forward.
+
+"Excellent. She'll be a talented array master, given time. Let's pray she can avoid running around naked in the third floor's library, unlike some rather special students I've had previously."
+
+Terence flushed red.
+
+"I made my bets, and I lost. Some would call it brave that I followed through."
+
+Torix cackled.
+
+"Or ill-advised."
+
+We left with Terrence, red as a tomato. After heading to the second floor, we found Amara. She put a hand onto one of the glass receptacles for the eldritch. A monster gazed back at her. It was an octopus covered in keratinous spines and dry scales, and its color shifted to the same shade as its surroundings. The skin molded the same texture as well, making the illusion far more complete.
+
+It reminded me of a horned lizard, cuttlefish, and chameleon wrapped up into a single creature. It gazed at Amara with intelligence in its eyes before reaching out with a tentacle. Amara put her hand onto the glass, and it did the same with its appendage.
+
+The illusion of a connection shattered as the octopus squirted acidic blood from its eyes. The acid sizzled in the air but had no effect on the glass, and the eldritch lunged at the barrier before a burst of electricity knocked it back into the cage. Amara winced as the smell of cooked flesh floated in the air. She turned to us.
+
+"I will listen to Helios and attempt to create a better cipheric study instead of this...Hopeless pursuit of mine."
+
+She squeezed her hands to fists. Water leaked from her hands, and the eyes in her palms leaked warm water. They looked like tears.
+
+"I wanted more for us, but even after all these years, nothing has shown me any way of saving them."
+
+Torix glared down at her.
+
+"Perhaps a more selfish pursuit would help you. Aside from that, your drool is beginning to pool beneath you. It's rather unbecoming."
+
+Amara's saliva slid down her arms and fell from her hands. She turned to us, the burned eldritch smelling like a feast to her. She wiped her mouth and gulped.
+
+"Simple to say when you lack both smell and hunger."
+
+It smelled like a seafood barbecue, so I actually agreed with Amara there. She raised her hands, her eyes peering from her palms.
+
+"What have you both come here for? Is it to mock my foolish attempts at healing my kin?"
+
+Torix stood beside her.
+
+"Daniel wished to grant you a defensive artifact for our travels. It is a tower shield. You shall have around two weeks to master it while he and I are developing a complex ritual for my new body."
+
+I floated the shields over. As they landed on the ground, they cracked the floor, fissures reaching out on the ground like crackles of lightning. She grabbed it with her hand, the gravitation array spurring to life. Once attuned to the device, Amara hummed for a moment before swinging it like a ram. The other shield wooshed through the air, wind coursing over us. She laughed.
+
+"Though heavy as an ox, it wields as light as a feather. I like the clean design without spines as well. It makes it easier to move in cramped spaces."
+
+I put my hands on my hips.
+
+"I know the feeling. I can't tell you how many doorways my shoulder spikes have taken down. Same with my head spines. I'm the bane of doorframes and chandeliers alike. Also, if you can get the new cipher division up and running, I'd really appreciate it. I want to have a few test runes to study and try out while we head over to the other world."
+
+Amara hissed.
+
+"Let's hope this isn't a death pit like Giess."
+
+I frowned.
+
+"Schema didn't direct us to this path, so I doubt it. That bloodthirsty AI always has a habit of pulling us into utter chaos."
+
+From around a corner, Diesel walked up with a clipboard in his hand. The engineer had a thin sheen of sweat and grease streaks across him, and his compass flopped through the air by his side, the chain keeping it near him.
+
+"Hey, guys. I've been talking with some of the albony, and they're giving us some useful information about systemization. I was going to send it in my field report, but I just saw you guys. I thought to myself, 'Hey, why not tell them in person.' So yeah, I'm here now."
+
+Standard systemization. It was a topic of conversation I was always curious about yet never broached. In all honesty, my path for leveling diverged so much from the norm that galactic standards offered me little in the way of faster leveling or guidance. If anything, sticking to my own ideas helped me keep pace far better than taking a more standardized approach.
+
+Still, understanding a normal sentient's perspective would let me create a better society for standard people. Otherwise, I may end up creating unnecessary bottlenecks out of ignorance or setting up trials that were really death traps. As I dwelled on those thoughts, another of my minds listened to Diesel. He swung a pen in his hands as he talked.
+
+"We've taken a few of their leveling guides, and the albony have been willing to exchange their accrued training protocols in exchange for more resources in the future."
+
+I frowned.
+
+"More? They're unwilling to give that for free after we gave them a planet, gear, security, and cities?"
+
+Diesel shrugged.
+
+"I'm the idea and execution guy. I don't ask why. I ask how and when."
+
+His words reminded me why I gave him such a high position in the first place. His focus was impressive. As industry hummed around us, I dove into thought. Torix didn't need that much time to say what we all thought.
+
+"This is absurd. They're leveraging for further benefits even after receiving an enormous amount from us already. They are in debt, one that they will likely be unable to pay back. It's shameless and to an extent where I'm personally reconsidering helping them in the first place."
+
+Torix threw out his hand in disgust.
+
+"To think I offered them scholarships to my academy. Shameful."
+
+I walked up to the eldritch cage.
+
+"I think there's a bit of a culture clash here. I remember this same situation arising from my dealings with Obolis. He took advantage of my general ignorance of galactic standards. If anything, the albony could perceive our generosity as a sign of weakness or even stupidity. It's good that this issue is quite simple to rectify."
+
+My guildmates turned to me. With a gravity well, I set the horned octopus into a vat of water, letting it heal from its wounds.
+
+"I'll be arranging an exact price for the planet, the cities, the resources, and every other item I've given them. Alfonso has a record of those transactions, which is part of why I hired him. Until now, I've chosen not to cash in on these debts since I wanted to give them room to develop and breathe after what had befallen them."
+
+I reorganized the sand, moved the acid, and pooled the acrid smoke in the desert exhibit with gravity wells.
+
+"But they're still trying to worm their way into my pockets. It's unfortunate, but I've already learned my lesson from Obolis. My accepted goodwill has just become a loan with interest, and they'll have to pay me back as a collective faction. They'll need to generate that wealth under the laws and constraints of my guild as well."
+
+Amara shivered.
+
+"You understand that is similar to indentured servitude. You've told us you despise that policy, yet you enact it now. Has the wolf finally smelled blood?"
+
+I stepped away from the cage.
+
+"It's simple. We had an agreement based on goodwill. I would give them land, security, and wealth to begin the albony's new step forward. They tried to change that arrangement."
+
+Torix's eyes flared green.
+
+"How so?"
+
+Without looking, I stopped a wave of sparks from smothering a worker in the distance. The lights spiraled in a gravity well.
+
+"If I accepted this deal for their training arrangements, it implies that we're on equal terms already. That is an attempt to establish a precedent where everything I gave them was not only free but deserved. That's why they presented a bartering position. The audacity of it is almost inspiring, but being bold doesn't always work out."
+
+Torix scoffed at me.
+
+"Quite the tone you're taking on. You're using your primordial aura, aren't you?"
+
+I smiled, dollops of the mana oozing from me.
+
+"You could tell?"
+
+Torix interlocked his hands behind himself.
+
+"It's as if I'm speaking with a different person entirely. I quite like it."
+
+I gazed down at them.
+
+"I don't often use this dimensional wake when near allies as I'm less agreeable. I save this for enemies or friends who are treading that border."
+
+Diesel blinked.
+
+"You sound more like Plazia."
+
+I raised my brow.
+
+"I'm not as sardonic as he is, though I carry a bit more of an edge to my words now than before. Regardless, it's a far better mindset when going into negotiations with people lacking shame, etiquette, or decency."
+
+Torix scoffed.
+
+"Or sanity. You've given them a hand up. They slackened their wrist and body, letting you pull them up like a corpse. Putting a more numerical set of terms to your relationship should prevent them from doing so once more in the future."
+
+I nodded.
+
+"And they'll understand how valuable a goodwill relationship can be since the other races still have it. That being said, I also think Alfonso will do all he can to prevent the situation from souring further."
+
+Torix scoffed.
+
+"And what makes you say that?"
+
+I smiled.
+
+"He's smarter than he looks."
+
+I took a breath.
+
+"Anyways, is there anything else you'd like to mention, Diesel?"
+
+Diesel nodded.
+
+"Whenever the system began, there was a time limit established based on the development of the planet. Other races weren't allowed to just come here whenever they wanted to, but that limiter is getting lifted soon."
+
+Torix brushed off his chain robes.
+
+"How are you so certain? That process shouldn't take place until after a decade has passed. I believe it's been a little over seven years since the beginning of Schematization, so we still have quite a while before other races begin plundering the planet."
+
+I smiled, the expression sharp as a thorn.
+
+"Before they try to."
+
+Torix let out a cackle.
+
+"Indeed. It will be quite the sight to see established empires and forces attempt to wrestle control of this planet only to meet a guild far outside the normal constraints of a backwater such as this."
+
+I raised a brow, and Torix coughed into a hand. The lich mused.
+
+"Backwater according to their standards, of course."
+
+I turned to the others, shifting my dimensional wake.
+
+"Alright. Is there anything else you need to say, Diesel?"
+
+Diesel scratched his clipboard.
+
+"We think that Schema is going to create a siege quest of our planet for several invading forces."
+
+My eyes flared red as Event Horizon coursed over everyone, the aura as heavy as grief.
+
+"Schema's doing what now?"

@@ -1,0 +1,377 @@
+---
+id: 4fa31ace-5e5c-5a22-a988-c6a58a9f0cb4
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 247"
+slug: 0034-the-path-of-ascension-chapter-247
+partOf: the-path-of-ascension
+position: 34
+ownLength: 5268
+unit: words
+ownProgress: 5268
+publishedAt: 2023-08-04
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1299976/the-path-of-ascension-chapter-247"
+royalRoadId: "1299976"
+markedReadAt: "2026-06-29T19:18:38.926Z"
+---
+
+Chapter 247
+
+Sergeant Ballor flew through real space around the farthest planet in the Hwah system while tending to his assigned patrol with his squad.
+
+Everyone was on edge, and Lance Corporal Alvarez had almost let loose a dozen different spells at eddies of space dust, but Sergeant Ballor neither reprimanded nor blamed him. Word from higher-ups was that Light and Shadow were almost done with The Path of Ascension, and everyone with half a working brain knew that meant war was looming over them.
+
+As a garrison bordering the Federation, and especially as one stationed near a gateway to a five link nexus system, they would be on the front lines.
+
+This region was registered as a Tier 23 battlefield, restricting anyone above that from participating. Ballor himself was only Tier 22, but he was glad that only a small minority of the people here had Intents.
+
+While he didn't understand the history behind the treaties, he well understood the effects. The agreements segregated battlefields by Tier, putting a legal cap on the Tier of the participants, and a practical floor on who would participate, while also limiting fights to taking place in the outer systems on specially-made fortress planets, like the one his squad patrolled around. Whichever Great Power controlled the fortress controlled the system, but they weren’t allowed to interfere with its population beyond collecting a reasonable, set number of taxes. They would only permanently change rulers in the negotiations at the conclusion of the war, which was infinitely far away as far as most of the mortals were concerned.
+
+Ten generations of mortals could come and go before a war ended.
+
+Sergeant Ballor had thought it was an odd way to wage war when he was a low Tier, but now, as a Tier 22, he was grateful for those rules. When he was a child, he hadn’t even known that the planet he was on was occupied by the Republic, as life had been basically the same as usual under the occupation. It did explain why his parents were so worried at the time, but there had been no blown-up cities or anything of the like.
+
+Civilized fighting was a good thing, as far as he was concerned.
+
+Once upon a time, he’d thought that Tier 15 would have the weakest battles, but that had changed after actually experiencing it. It had the largest battlefields by far, with up to millions of people involved in a single engagement. Those areas were home to some truly old monsters who had spent tens or even hundreds of thousands of years honing their techniques, wringing every scrap of power they could from their limited essence and the mere two Talents they had to work with and contend against. He much preferred the low 20s. A rare few people stuck around even if they had developed an Intent, but the fact that there could be more than one on a battlefield managed to make them less dangerous overall, as they checked one another while everyone else fought around them. It basically created two battlefields in one, and a victory in either would usually result in the other half surrendering, cutting down on casualties.
+
+Getting ransomed back was humiliating, but it was better than being dead.
+
+Sergeant Ballor was scanning a suspicious-looking meteor when Corporal Vetta held up a hand and everyone froze, getting ready to fight.
+
+“I felt a ripple in space.”
+
+Her words caused Sergeant Ballor to immediately call back into headquarters, and he found the channel inundated by reports of a similar nature.
+
+Waiting for a moment, he got the order he wanted.
+
+“All patrol squads return to base.”
+
+Calling out through his squad's channel, he relayed the order and they all turned and fled back to the super massive fortress of stone and enchantments.
+
+It was beautiful, and normally a site that he loved to gaze at, but with his position protecting the rear, Sergeant Ballor kept most of his attention behind him. The spatial ripples were now so apparent, his spiritual sense could feel something in chaotic space trying to tear a hole open into reality.
+
+They were halfway there when the message reached them as a system-wide broadcast.
+
+“Light and Shadow have reached Tier 25, and war has been declared by the Republic, Sects, and Federation.”
+
+Sergeant Ballor felt his stomach sink, and with his best speed, he grabbed half his squad while Corporal Vetta copied his actions. They had a Tier and speed on the Lance Corporals, and speed was what clearly mattered.
+
+They almost made it.
+
+Behind them, Sergeant Ballor cursed as seven hundred and fifty-two ships ripped their way out of chaotic space like a tear in a fabric.
+
+The ships seemed slow as they drifted through, but Sergeant Ballor knew that was for good reason. Before they fully materialized in realspace, their cannons fired with a pulse of mana, sending a torrent of projectiles in their direction.
+
+Sergeant Ballor cast [Bulwark] behind himself and didn’t bother to dodge. Corporal Vetta fell into his pile of troops, and they all grabbed onto each other and him.
+
+The first salvo passed them by, and most of the shots splashed on the planet's shields harmlessly.
+
+The salvo of point defense shots were directed at the returning scouts, but that was what Sergeant Ballor wanted. They took the hit and were sent flying to the planet even faster.
+
+Sergeant Ballor’s nascent Intent was strained, but he had protected his squad, and with the additional boost of speed given to them by the attack, they passed through the shields and flew to the indicated rendezvous position.
+
+Healers flew to his team and inspected them and their light mana burns, but after they were okayed for duty, they got their first assignment.
+
+Their squad and entire platoon was being used to reinforce the defensive battalion.
+
+Sergeant Ballor sighed in relief. That was exactly what they had prepared for, and it indicated that things weren’t going too badly.
+
+The sky flashed overhead as more shipboard cannons fired hundreds of thousands of mana with each shot, but their planetary shields would hold for quite some time. His squad had just reached their position and rejoined with the other scout squads of his platoon, when the planet seemed to shake as the anti-ship cannons fired.
+
+The beams of mana were as wide across as an elephant, and with his spiritual sense, Sergeant Ballor was able to watch as eleven ships’ shields failed and were blown into glowing bits of molten metal.
+
+Eleven wasn’t a bad first salvo, but it was a drop in the bucket when compared to the hundreds of ships disgorging their troops as fast as possible.
+
+The ships stopped their bombardment as they increased the power of their shields, trying to protect their troops, but another two dozen ships were blown up as the planet's cannons focused on them.
+
+Then, all at once, the cannons stopped firing and returned to their shielded positions
+
+Sergeant Ballor sighed. “Squad, get ready to repel the assault. We are here to reinforce any teams that look like they are struggling. Follow me and watch your asses.”
+
+With the ships defending their troops, the mana cannons weren’t cost effective anymore, and they would need all the mana they had to weather the storm surge of the war.
+
+It took almost an hour for the Federation ships to empty themselves and form a defensive line that could act as their own base of operation, as well as a shield against any additional mana cannon shots.
+
+Sergeant Ballor watched the Federation squads form into platoons, then watched the platoons formed into into companies, and finally, the companies into battalions.
+
+He counted almost fifty thousand troops and cursed. That put them at almost three-to-one odds, which would be a problem, as it looked like these were some of the Federation’s elite soldiers. The Empire was used to outnumbering their opponents, so even with a fortress planet behind them, their chances were less than ideal. He wouldn’t bet on them keeping the planet, but it wasn’t a guaranteed loss either.
+
+The first probing attack came down at another section of the planet, so Sergeant Ballor and his squad had to sit there and watch as spell and blade flew back and forth.
+
+A giant fire elemental appeared and started killing Federation members, which let him know Lieutenant Poplar was there defending the position.
+
+When the losses started to rack up, the Feddies pulled back with their wounded carried between the ambulatory members of that platoon.
+
+Another dozen probing attacks tested the planet's various sectors before their section came under attack.
+
+Sergeant Ballor kept his cool despite watching well over a hundred Feddies falling on their location. He wanted to let loose his attacks, but that wasn’t his job, and the defenders instead opened up with coordinated bursts of fire, targeting the weakest sections of the formation.
+
+The Feddies deployed shields, both magical and physical, but they still lost almost a dozen of their members that were caught on a bad angle or had their shields bypassed in various ways. Still, they pushed through the spells and arrows to close with the defenders.
+
+Defenders took to the air to engage with their sector’s assailants, which kicked off the full fledged melee.
+
+Spells and blades flashed back and forth, causing blood from both sides to flow, but Sergeant Ballor just kept watch.
+
+When he noticed that one of the teams was taking more serious injuries, he called out. “Mark, Corporal Vetta, Attack.”
+
+“Aye.”
+
+Her single-word response was punctuated with a shining blue bolt of mana that punched through the chest of one of the attacking Feddy’ Tier 23 leaders. He wasn’t dead, but he reeled back, blood spraying even as the defenders pressed the advantage.
+
+Sadly, his subordinates were able to protect him long enough for them to retreat into a mass of their comrades.
+
+Their squad only occasionally intervened in the fight with a handful of precisely aimed strikes, which led the Feddies to cut their losses and run before too long. Eight dead Imperials compared to thirty-two dead or captured Federation soldiers was a win for this particular fight, though not every front had such good luck. Before too long, Ballor’s squad was put directly on the wall.
+
+It took the Feddies almost a week to test each sector at least once, and in that time, their side had started taking serious casualties. After the probes, they settled into the real siege.
+
+Sergeant Ballor knew this would be a slow whittling down of their defenders while the Feddies tried to keep their troops as intact as possible. Eventually, they would go for one final push.
+
+The planet might fall in a week or a decade, but it would fall.
+
+The Feddies were the only ones getting reinforcements here, making it a simple game of math. They just needed to survive.
+
+***
+
+Lucius tried to control his breathing, but exhaled out a little too heavily, prompting a coughing fit that seemed to clear the lung that was full of blood. Spitting to clear his mouth, he took a deep breath as the healer came up to him and repeated the healing for the hole in his chest.
+
+He was well over his healing limit, but their side was so close to victory, and he wanted to earn as many merits as he could before the end of the first battle. He was so close to completing his Aspect that with just a little time with a master, he could become a true powerhouse.
+
+With his body mostly intact, he rushed back to the fortress and rejoined his team in trying to break into the last bunkers of the Empire, still holding onto the planet with their fingernails. He’d rather kill them all after the friends he had lost in this siege, but capture was the order of the day.
+
+They had spent almost seventy thousand lives to take this Tier 35 fortress down in a record six months, and they were so close, he could taste it.
+
+There were only seven bunkers still standing, and his Cohort had the honor of taking one of them down. Just as he was gathering his mana to help burn through the reinforced bunker, he felt a small ripple in the space right outside their base in orbit of the planet.
+
+One person stepped out.
+
+Lucius’ initial reaction was to laugh at the ridiculousness of the planet's reinforcement being one person, but when he saw the blue hair waving like it was underwater, he knew they were all dead.
+
+Duke Waters had arrived.
+
+No matter the humiliation, their army scattered like so many bugs dispersing after a rock was lifted.
+
+Lucius tried to tear through space, but he felt Duke Waters' power commanding space to stay still. He had come in through a door then shut and locked it behind him.
+
+It was utter madness for anyone, but Duke Waters was crazy enough to do it.
+
+Lucius waited for the order to surrender, but it never came. Two hundred Tier 35s from their reserves swept in, unleashing lightning bolts which could crack mountains, fireballs that could burn away the oceans, beams of light blinding to even look at, and orbs of darkness swarming like flies. All a deluge of attacks falling upon the lone figure.
+
+None of it even came close.
+
+The air around the Gladiator rippled like a pond with a stone tossed inside, and it swallowed the first spell, then the second, and the third. Attacks dimmed and sank away, as effective as an unawakened seeking to attack the ocean itself with pebbles.
+
+The arrogant asshole spoke far too slowly, his every word stretched out as he mocked them with his inferior cultivation, but his voice and smile alike echoed as it reached each of them. “That's not nearly enough. Where are your elites? Where are your generals? Heck, where’s Maya? I haven’t been able to slap her around lately, I’d love to catch up.”
+
+The way he spoke of Grand Shaper Maya was disrespectful, but Lucius would have cursed her ancestors to her face if someone said it would get their Gladiator to arrive.
+
+She was the only chance any of them had to survive this encounter.
+
+He cast his mind back to one of the speeches their generals had granted for morale, saying that Duke Waters would be focusing upon the Sects and Federation. He wouldn’t stop the Republic, with Grand Shaper Maya aiding their overall assault.
+
+Oh, how wrong he was.
+
+The generals were rushing forward at Duke Waters, and Lucius hoped that the seven of them could take, or more realistically, delay or distract the mage long enough for the rest of them to flee into chaotic space. That still wasn’t entirely safe for them, but Lucius was confident that most of them could follow the teleporter connections back to the Republic and reenter real space before their Domains and spirits were too weakened.
+
+Lucius cursed his lack of an Aspect once again, as it would almost entirely shield him from the aquatic demon’s ravages, but he could still manage.
+
+As their dwindling reinforcements attacked Duke Waters once more, Lucius threw his Domain at the fabric of reality and could feel the others near him doing the same, but it did nothing. Horror overcame him as he realized his life was at the mercy of the man slaughtering the strongest members of their army with his arms crossed above the fortress planet.
+
+The fear started to make it hard to breathe, and Lucius struggled against it, but the horror turned to terror as he realized he shouldn’t need to breathe.
+
+He tried to use his essence to cover that biological need, but found it was already doing so.
+
+His body demanded air.
+
+His body demanded he breathe.
+
+Lucius started to panic as he felt his vision going black, as his brain started to starve.
+
+He tried to urge his essence into providing for his body, but it seemed useless.
+
+He needed to breathe.
+
+The air seemed like a distant memory, but that could have been the fading grip he had on his consciousness.
+
+It seemed almost like an unimportant afterthought, but his [AI] blipped out a message that he knew he needed to read.
+
+With the last bit of his consciousness, he read that the seven generals were dead, and command had been passed onto one of the colonels, who thankfully initiated a surrender vote for the army.
+
+Lucius never got to see the end of the vote as he passed out.
+
+He woke up a second later as the power demanding he couldn’t breathe vanished like the tide drawing back.
+
+He and his entire cohort coughed and sputtered as they tried to orient themselves. Lucius coughed so hard he felt his recently healed lung tear once more, and forced his body to stop breathing despite the instinctual horror that had held him. It told him he needed every breath of fresh air in case Duke Waters decided to change the rules of reality once more.
+
+The monster himself snorted and waved. “Bah, I should have stuck with the Sects.”
+
+Lucius twitched as he repressed a shudder.
+
+It wasn’t cowardice to know when you faced an opponent stronger than you could handle. And when a solitary Tier 31 could repress tens of thousands of Tier 35s, they were officially a monster.
+
+“Put down your arms and allow yourselves to be taken into captivity. Yada, yada, yada. I’m sure you know the drill. Try to fuck around, and you’ll find out.”
+
+Lucius laughed.
+
+Tens of thousands of dead for what? The Empire troops were freeing themselves from where they were captives in the Republic's base prisons, crawling out of their armored holes.
+
+They had been on the brink of defeat, but they had still won.
+
+Against all odds and reason, they had won.
+
+Just because one man had shown up.
+
+The only good thing was that Duke Waters couldn’t be everywhere at once, and if he was here watching them surrender, he wasn’t at other locations relieving their sieges.
+
+As an Empire soldier with half their face burnt to the skull grabbed Lucius’ hands and cuffed them with a cultivation suppression manacle, Lucius let himself get led to a cleared-out area that they were all sitting in. Healers from both sides moved among the worst of the wounded, stabilizing them, and when one came to check on him, Lucius shook his head. He couldn’t get more healing if he wanted to.
+
+They might have lost this battle, but he was just glad to be alive.
+
+So many others weren’t so lucky.
+
+***
+
+Su Yu laughed as his fist surpassed the pitiful flesh of the Empire’s cultivator, vanquishing their arm in a single strike.
+
+His [Thousand Fists of Heaven] once again proved its utmost superiority as his Sect’s greatest technique bypassed shields, slipped past armor, and annihilated the flesh of all those it struck.
+
+A fighter sought to exploit a perceived weakness, striking from the side with a spear crackling with blue lightning.
+
+But Su Yu was no novice; he had cast aside all of his foes within this chaotic melee, and had in fact withheld much of his aggression in anticipation for this very maneuver.
+
+He gracefully spun, lashing forth with a kick carrying a perfected [What Was Once Complex Returns To Simplicity]. Mana rippled and splashed as though it were water from a cupped palm, and while the Empire’s cultivator sought to dodge and attempted to interpose her shield, trying to sacrifice a portion of her body to survive, it was for naught.
+
+He had been personally mentored in his creation of this technique by Lady Yun Me, as a reward for exemplary service in a previous border skirmish.
+
+It was his grandest accomplishment, standing proud above all else, and he hoped to live up to his previous legacy this day. [What Was Once Complex Returns To Simplicity] was an adaptation of Lady Yun Me’s own metal specialty. The Unyielding Anvil was a master of defense, armor, and protection, having forged five wondrous techniques of her own which she would only bestow upon those who proved themselves worthy through blood.
+
+Three defensive techniques wrought to stop a mountain and two offensive techniques to flatten one.
+
+Su Yu knew the simple truth, that to survive was meager when contrasted with the glory of victory. He had chosen his reward to enhance his capabilities of tearing the life from the meager barbarians, where he was close enough to feel the spray of their blood upon his jade like skin.
+
+Even then, [A Finger To Tear A Hole In The Sky] had been truly difficult to decline. The Unyielding Anvil was truly set to become one of their most venerated Elders, such was her might and her wisdom.
+
+With nothing remaining of the interloper but a dispersing cloud of essence, Su Yu returned to vanquish the man still recovering from his suddenly-missing arm, closing the distance with a smile. For each barbarian he slew upon this battlefield, the closer he grew to earning yet another personal lesson from the Lady, and the honor that such an achievement would bring him.
+
+The glory it would bring his Sect.
+
+With two lessons from Lady Yun Me herself, his petitions to his sect to permit him to ascend to Tier 25 would surely be met, and with his third Talent, he would bring them and himself honor and glory upon those hallowed battlefields.
+
+For all that he may have been no Young Master or Dao Child, Su Yu had glimpsed the truth beyond that.
+
+He followed the path of the Unyielding Anvil. The titles of the young meant nothing. The resources dedicated to those who were believed to be worthy were nothing more than a shortcut to power that he could reach through hard work and time. And power earned by one's self bestowed the greatest honor upon its bearer. Then, those around him would be forced to give him face.
+
+Seven blows later, the Empire cultivator died with a grievance on his lips as he tried to surrender.
+
+Su Yu couldn't allow that.
+
+He needed to collect as many heads as possible before his Sectmates decimated this fortress enough for the Empire's cowardly leaders to surrender. For once that order was given, even he would not dare draw the ire of the Elders and Watchers.
+
+Still, there was a silver lining to the Empire cowards being used to surrendering. The laughable wretches expected him to allow them to surrender, which provided the perfect amount of time to dart in and finish them off.
+
+Fools, all of them.
+
+The only way to fight was to remove the option of victory without the death of your opponent. It bred cowardice and weakness in cultivators that might have otherwise won the fight, or at least taken their opponent with them.
+
+Su Yu was fortunate enough to kill two more foes before the general surrender was called for. Sadly, both of those kills had their merits shared with others, but he had gotten the lion's share, as was his right. The Flowing Hammers Sect warriors had been too weak to finish off their opponents themselves, and their failure stood as a blemish upon their honor.
+
+His Sect brothers and sisters would have never needed help to kill weak Empire cultivators.
+
+Returning to their mobile base, he was called into Senior Sister Song Zexian’s command tent, where he was bestowed the accolades and rewards he had earned. To his satisfaction, such rewards included a Natural Treasure to enhance his body’s strength.
+
+The strong got stronger, as was their right.
+
+To consolidate his gains, he returned to his quarters and began to meditate.
+
+Five breaths in, three out. Two breaths in, four out. Su Yu repeated the same pattern until his heart and mind were calm, and he was able to reflect on the battles he had fought in the last year.
+
+He could have finished off the dozen Tier 23s who ambushed him much more cleanly if he had held back a little. The scar on his abdomen was a reminder of his mistake, and why he had requested it be left. The fight with the ambushing Tier 24 had been as clean as could be, but he needed to be careful of letting future ambushers get that close.
+
+The Empire was weak, but the Drowner proved even the most pathetic could possess hidden strength. It would not do to underestimate them.
+
+Once he had settled his mind and body, Su Yu started to absorb the treasure.
+
+They would be fighting once more before too long.
+
+Of that, he was sure.
+
+And he needed to be at his peak.
+
+***
+
+Darok sighed as they flew through chaotic space away from the teleporter tethers that linked the Great Powers.
+
+Flying away from the established lanes was rarely done for good reason, and he felt the terror of being lost to the known realm to wander the emptiness of chaotic space, until they either went mad or found a planet through sheer time and chance.
+
+He had seen the reports of such survivors, and he had no wish to be one of them.
+
+Still, this was their mission.
+
+That didn’t mean he liked it.
+
+Shoving his lunch away from him, he went to the hangar where his crew was working on their armor.
+
+The Cavalry and Juggernaut division's armor that had been devastated in their last mission were now fully repaired, and they weren’t sore thumbs when compared to the Skirmish Squadron.
+
+As he walked through, his men returned his nods, and the ones not actively working on their armor called out greetings. He could tell the men weren’t exactly happy with this mission, but none of them had balked. Mercenaries were rarely picky, though. Darok liked to think his men just had more of a conscience.
+
+It was good they were in top shape physically and mentally, as this mission had one way it could go right, but a million ways it could go wrong.
+
+Still, the rewards were just too damn good to pass up.
+
+On the far side of the hangar, he looked at the small squad of Sect cultivators slowly moving through combat poses. It looked almost meditative with how slow the movements were, but there was more to it than that. Even Dao Child Maven did those sets of movements daily without fail.
+
+The woman had walked out of a meeting halfway through without so much as a word when it had run late, simply to join the others in their… stretches, he supposed.
+
+He had seen some weird things from Sect fighters in his time, but this one took the cake for the most outlandish.
+
+After checking in with his supply officer, Walter, Darok went to his meeting with Dao Child Maven.
+
+The woman, with her snow-white skin and ink-dark hair, was objectively attractive. Contrary to most Sect stereotypes, she was a flirt too. Every woman on board who was even remotely interested in the same sex had been hit on. That could have caused problems, but Dao Child Maven took both polite and direct refusals with good grace and aplomb, which he was grateful for. Some other Sect cultivators wouldn’t have.
+
+Thankfully, Maven had set her sights on his second in command, Emily, which was about as good of an ending as Darok could hope for. Emily wasn’t necessarily a lesbian, as Dao Child Maven seemed to be, but she identified as ‘horny’ and would sleep with anyone who caught her interest. She was also a consummate professional, and wouldn’t do anything more than flirt with anyone when on a mission, but the degree to which they were circling around one another kept them both occupied.
+
+And that was all Darok could ask of his people. What they did in their personal time was none of his concern; what they did while under contract was.
+
+Meeting up with Emily, he found her checking in with their squad leaders and waited outside the door for her to finish. It wouldn’t do to step on her toes after all.
+
+When she exited the meeting to go to their meeting with Dao Child Maven, Darok asked. “Any new problems?”
+
+Emily nodded. “Alliva and Miguel got into a fight, but their squad leaders handled it appropriately.”
+
+Darok nodded. If it was officially reported to him, he would need to act as the mercenary company leader and punish them officially, but Emily wasn’t so tightly bound by the rules. That was by design, of course, as it allowed them to play good cop bad cop, and a number of things could be handled before becoming larger issues.
+
+A fight amongst the company was hardly unique, and half the company would happily break a glass over someone else's head while off duty. Fighting when they were underway, though, was another matter, and he’d have strung the two of them up if necessary.
+
+The feud of the few couldn’t endanger everyone else.
+
+Emily knew that, and if she said it was handled, he could trust that it was.
+
+Changing the subject, he asked, “What do you think of the mission Dao Child Maven had outlined?”
+
+Emily shook her head. “It's fucked. Capital ‘F’. I don’t like it, but no one is asking us.”
+
+Darok nodded his head. Emily was right, or at least, she shared his viewpoint on the mission.
+
+They weren’t technically breaking the set laws of war, but they were skirting damn close. Too close for his liking, even with the historical precedent backing them up.
+
+Closing his eyes for a moment, he promised himself he’d retire when this mission was over.
+
+This job was just too damn stressful.
+
+When they reached the meeting room, they found Dao Child Maven waiting with a stack of paper in front of her. Her second in command, Yuan Chu, might have been a muscled wall for how he stood behind her without moving.
+
+“Good day, Captain Darok, Lieutenant Emily. The Elders have finalized their designs for our approach, and desire that our first strike be as impactful as possible, to redirect attention from the primary engagements. This one trusts that you will keep a firm grasp upon your men, as we come ever closer to overstepping our proper bounds, and a single hair out of place will result in our unbinding from the rules of war, deep within enemy territory.” Her mouth worked for a moment before she gave a sardonic smile. “None of us will survive that, and I don’t intend to die so young.”
+
+Darok nodded along with Emily. They were both worried about the same thing. Even then, one rogue Tier 36 could squash them all, even if they didn’t technically break the rules. Grief and loss were more than enough to push even the most sane of cultivators over the edge.
+
+That was why they simply wouldn’t get caught.
+
+A million ways to go wrong.
+
+One way to go right.
+
+“I have assembled a full list of contacts and reports, review it and inform me of any concerns you notice. This one has been as thorough as possible for it, but possesses not the experience the two of you have in such situations.”
+
+Darok looked down at the packet of information Dao Child Maven slid over to him, and that Emily had labeled ‘Operation Ventillyria’.
+
+They were so going to die.

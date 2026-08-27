@@ -1,0 +1,147 @@
+---
+id: 6ea611af-ad2f-5640-8648-38e4ea07bec4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 47"
+slug: 0054-chapter-47
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 54
+ownLength: 2241
+unit: words
+publishedAt: 2026-07-25
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3723491/chapter-47"
+royalRoadId: "3723491"
+---
+
+I won the absolute pleasure, of course. Something about being strong enough to actually haul out the ugly bastards, and tough enough to be able to survive a hit, should one of them be playing dead.
+
+There were no surprises, though. No horror-movie last-minute revivals. Just the stench of boiled seafood with the strangest mix of decay and honey. The scent was everywhere and stuck to my damn skin. Once I finally got to it, though, the monsters weren’t too heavy – maybe sixty pounds apiece. They were awkward, though, with long, spindly legs that detached if you tried to pull on them. Wading through the mess of half-hardened mud, vegetation and monster parts didn’t make things easier.
+
+Eventually, we managed and got the beasts up, out and onto the cart. From then on, things became a lot easier, and we teamed up to make the wooden cart move along the bumpy almost-road.
+
+We’d all leveled, once, except for myself, and I was right on the cusp of Level 24. That was a lovely surprise. For once, a battle with no real danger, that still gave everybody a tangible reward.
+
+Steve immediately flung his point into Jack of all Traits, and helped us all by sharing a Strength buff, whenever our heavily loaded cart hit any difficult passages.
+
+Haddock put another point into Temporary Storage, promising that he’d start crafting stuff for it as soon as we were done learning about skills.
+
+Nix saved her point. She’d just maxed her latest choice out, and wanted to focus on skills before making another choice.
+
+I followed her example. Rather, I knew what I wanted and wasn’t going to touch my points until I had Burgeoning Aggression. Just two more levels!
+
+Finally, we made it back to Last Chance safely. A lot of eyes veered our way, as we rolled into the settlement with a cart filled with dead monsters – but they turned away again just as fast. Clearly, it wasn’t a rare occurrence. We dumped the cart in front of Cuilcis’ office and walked off, tired and smelly, even as he raced out to investigate the quality of his goods.
+
+Ten minutes later, Nix was sighing in deep satisfaction. “I have the best husband in the world! Ademia or Earth!”
+
+“I’m not disagreeing.” I mused. “These baths are amazing, but I’ll admit, having somebody who can craft privacy screens at a whim? It’s lovely.”
+
+It had taken a bit of discussing with the bath managers, explaining that the walls were just temporary, but now we were private, and didn’t have to look at Moagie dangling bits. I shuddered at the memory. It was sad that this world didn’t have Charisma, Appeal or attributes like those, because Moagies sorely needed them in spades.
+
+Haddock chuckled from behind our own private walls. “Less lovely, once I’ll have to craft our castle by hand. Sometimes, I miss not being able to create anything permanent with my powers.”
+
+We cleaned up, with me having to have my water refreshed three times to get the stench and slimy residue off. Then, we retreated to our rooms, after having bought ourselves five pieces of parchment and some sort of charcoal stick which apparently was what made it up for pencils on Ademia.
+
+“I swear to God, I’m getting the Running skill, even if it kills me and everyone around me!” Nix extolled.
+
+“And you’re not just saying that because Cuilcis was looking straight at you when he talked about people who clearly hate running?” I grinned.
+
+“He didn’t… did he?”
+
+“Nah, I’m just messing with you.”
+
+“Uuurgh. You really must have a skill to piss people off!”
+
+I laughed. “Among many other horrible skills. Now, how about we find some actual good skills to add to the bunch?”
+
+Steve carefully unfurled the scroll. Then he stared at it and blinked. “Well, that’s a mind game, all right.”
+
+“What?” I said.
+
+“It’s not in English. It looks like that weird shorthand they use in courtrooms. But my head, or the system, kismet, whatever, actually translates it to English.” He flipped the scroll for us to see.
+
+To me, it looked like Arabic or something. But, within a split second, it rearranged itself in my head and looked like the Queen’s English. “That is a mindfuck. Thank God for system shortcuts, eh?”
+
+Nodding, Steve started reading out loud from the list. We then spoke up if a skill sounded good, and we wanted to add it to our own lists. Lists, which Haddock was composing to the side – our very own to-do list. Afterward, we’d make a complete copy of the list. Yes, we’d promised Cuilcis we wouldn’t. I’d call this payback for trying to kill me and sleep soundly afterward.
+
+The organization of Cuilcis’ list was simple. It seemed to fit with the over-all organizational scheme of classes and everything. Offensive, defensive and general skills. Most skills had a handful of words attached to them, describing the essence of the skill.
+
+We started with an easy sub-list. Offensive skills. Not easy as in short, because there were dozens of available skills, some more exotic than others. More that Nix and Haddock didn’t’ really want any offensive skills, while Steve was going to stick with spears. We argued over whether they should learn the Unarmed skill for survival purposes, and put it down as maybe. Eventually, they all agreed they wanted the Throwing skill, for the potential utility of it.
+
+There were also skills for all different kinds of magic, and Nix was planning to eventually get talents that would let her unlock at least all four elemental magics. A bit disappointing that the available talent selection hadn’t proved more helpful for her in that regard yet.
+
+There was one lovely surprise on the Offensive Skills list. Apparently, there were categories for causing damage which would enhance the damage of anything under that umbrella on top of anything else you got from the weapon skill itself. Steve decided he’d want to experiment a bit with other piercing weapons to unlock Piercing Damage. Meanwhile, Nix was insulted she hadn’t unlocked Magical Damage yet, but considered that she might need to use additional types of magic on top of just fire and water.
+
+Me? I was still banned from that entire damn list. No Reflective Damage for me, though it was right there on the scroll!
+
+The Defensive list was a lot more interesting, for me at least. The number of different resistances, to begin with, was extremely expansive. Of course, I didn’t fear that I would be unable to earn any of those, since every single example of a hostile magical element being tossed at me had given me the equivalent resistance skill so far. I did groan at one of them. “Mental Resistance. Goddammit!”
+
+“What?” Steve asked.
+
+“Well, I hoped this damn place wouldn’t have mind control or crap like that. Somebody with crappy Mental Power and Control like me is just waiting to get puppeteered like a damn muppet.”
+
+“Whatever floats your boat, love.” Nix waggled her eyebrows. She smiled at Haddock. “I think we’d better all have that one added to our lists.”
+
+All told, there were few other surprises on the defensive lists. Plenty of desirable skills, of course, and I put every single resistance skill on my list. I might eventually find an opportunity to earn at least basic resistances against all magics out there. Even… Curse Magic and Decay Magic. Those seemed like skills I’d need extra prep time for.
+
+As for the others, they all agreed they’d need what we termed the ‘basic defensive package.’ Armor, Dodge and Resilience along with the three types of physical resistance – Blunt, Piercing and Slashing. Some of them had already unlocked a few – Steve, unsurprisingly, nailing the most among the three – but they all agreed the pain would be worth it to unlock and increase the list of potential life-savers.
+
+“Okay. I need to say it. I think we’re getting shafted.” I eventually said.
+
+“What do you mean?” Steve asked.
+
+“Well.” I huffed, searching for the words. “Look at the list. It’s decently long. Seems pretty thorough. But it’s dull as fuck. Where are all the super hero skills?”
+
+“I am not sure I understand. Your Shield skills are already markedly improved, you said, from increasing the skill to… twenty, was it?” Steve frowned
+
+“Twenty-three.”
+
+“Ah, yes. Any of these skills seems to be able to improve accordingly, to the point where, eventually, we’ll be able to ignore normal laws of nature.”
+
+“Sure. And that is absolutely something we’re working toward. Just tell me something. Where is the… Telekinesis? The Mind Control? Flying? Do you remember Cuilcis’ exact wording? Did he ever agree that he would give us an extensive list? Or did he just toss us the poor man’s list?” I raised an eyebrow.
+
+“That is… a concern. We should mention that tomorrow. Things are only impossible until they’re not.”
+
+“…sure. We’ll say something.”
+
+“There is one skill there on the Defensive list, that sounds like real magic.” Nix interspersed, standing over Steve’s shoulder. “Mana Shield. Applying your mana to defend yourself. Whatever that means, I want it.”
+
+I snorted. “That’s just because it has the word mana in it. But I agree. Same for me, even if I barely have any mana. It sounds cool.”
+
+We spent a good while poring over the General Skills. Finally, Haddock said what we all thought. “This is like going through pamphlets at the career advisor’s!”
+
+“Right?” Nix jumped on the idea. “This is, like, two thirds crafts. I mean, it’s lovely that you can get skills for…” She waved at the list. “digging, pouring, mining, construction and all sorts of stuff.”
+
+Haddock smiled. “It’ll make it easier to build our house.”
+
+“Castle. Yes. But it also sucks. Because that leaves room for a lot fewer useful general skills than I’d expected. And I’ll be honest. I didn’t go to another world to master my Cooking skills.”
+
+Haddock proved to be a wise man, and didn’t take the bait. Rather, he nodded in agreement. “Agreed. Yet, I can still see a good number of skills I need. Endurance looks nice.”
+
+“It really is.” I agreed. “And if you get it, I can show you how to get it up to the next rarity. Fair warning, though. It’s a lot of work.”
+
+“I’m not afraid of work.”
+
+We pored over the options, commenting and debating from our own experiences. Yes, professions and craftsmanship options dominated the general skill list. But there were also a lot of lovely choices.
+
+There were a lot of physically attributed options I also had, like Athletics, Climbing, Leaping and Running – yet I also found a bunch available that I hadn’t even considered. Swimming, Riding, and Rowing, for instance, would likely be earned automatically, should I find myself in the right situation. Dancing too, though I shuddered to think how many skill points I’d need to not embarrass myself.
+
+To my surprise, Wrestling was actually an option, and I put that one on my wish list immediately. Being able to take down an attacker without resorting to talents? That could be useful – as long as the system didn’t interpret it as an attack of sorts. I believed it could be done.
+
+Then came the sense-oriented ones. I already had Spot, but I should’ve really guessed at the existence of the rest. Listen, Olfaction, Tasting and Sense were all present, and should all be useful in one sense or another.
+
+Following that, we came to the more obscure ones. Beast Taming, Sleight of Hand and Tracking all seemed useful in one way or another. I wasn’t going to try my hand stealing from anybody, or pal up to any alien beasts myself, but Steve seemed in love with the idea of taming local beasts. Steve already had Tracking, and agreed that it was a must-have for all of us.
+
+There also was Meditation. Regaining mana faster. All three of the others had that one already. Clearly, I hadn’t used my own mana enough to unlock it yet, but I damn sure would. Also, Mana Efficiency, which was like Endurance, but for mana.
+
+At long last, we found ourselves stomped.
+
+“Release Pheromone?” Haddock’s face screwed up in confusion. “There’s also Pheromone Primer, Pheromone Modulator, and Pheromone Signal.”
+
+“Aren’t those like… farts?” I said. “Farts with superpowers.”
+
+Steve looked at me, shaking his head. “I am not a merry man. David Attenborough would be appalled. Pheromones are chemical signals that an animal releases to trigger a specific reaction in others of its kind.”
+
+“I mean…”
+
+Ignoring me, he continued. “My guess is that these Crisiuns, who the list was made for, might look like humans, but aren’t. Not fully. Also,” He added with a disparaging look. “You are a child.” Under his breath, he muttered something about prune juice and warriors which made no sense to me.
+
+We spent a good while more, comparing wish lists, discussing our experiences and how we’d earned specific skills, and debating just how much of the good stuff Cuilcis might be trying to hide from us. However, after a certain point, we had to admit that the day had been long, and we were starting to argue in circles. Besides, we didn’t know what the tiny stone-face of a merchant might try to foist on us tomorrow.

@@ -1,0 +1,213 @@
+---
+id: 70d874ff-03d7-5101-b31c-5629f5a9daef
+page-type-slug: story-chapter-royal-road
+title: "458 Rebirth and Oasis"
+slug: 0418-458-rebirth-and-oasis
+partOf: the-new-world
+position: 418
+ownLength: 2367
+unit: words
+ownProgress: 2367
+publishedAt: 2025-08-03
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2488090/458-rebirth-and-oasis"
+royalRoadId: "2488090"
+markedReadAt: "2026-06-29T21:35:43.388Z"
+---
+
+I jolted between it and Opal. The eagle's claws shattered against my armor, unable to tear through my dimensional fabric. The eagle raised its head, cawing. The sound built like an ancient eruption waiting to blow. Before it could do anything more, I gripped its neck, broke it, and pulled its head off. Simultaneously, I tore its wings from its shoulders and twirled its legs into broken slinkies with gravity.
+
+It fell, a broken image of space's majesty. Opal gawked at it, stunned by the sudden danger. I smiled as my armor snatched the corpse. The metal ground the bones, and as the corpse crunched below us, I smiled at Opal.
+
+"Hey, we're gonna make it out here."
+
+My armor grinned over my face, the teeth jagged.
+
+"You can trust me."
+
+Chapter Begin
+
+I hit the side of my head.
+
+"Hey, bad armor. Bad."
+
+It pulled back with a metallic echo, and Amara let out a sigh. Amara murmured her words.
+
+"You've shown your teeth as you try to ease prey into your nest. How is that supposed to comfort her? You will be left with force as your only option."
+
+I shrugged.
+
+"I'm not going to exercise that level of control over her. I don't want the headache, and if she wants to leave, she can. I'll make a city and use the warp station to return home if I have to."
+
+I gestured to the multicolored horizon in the distance.
+
+"Regardless, we don't have months to wait on securing this location. If anything, I'm getting to it now before something else dangerous comes out of nowhere."
+
+I floated down, and the others followed. Opal held her palms to her sides, using flares to hold herself upright, kind of like Ironman. She moved them overhead, bolting her beside me. The others flew down with Amara holding onto Chrona. Everyone else stopped well above the surface, but I continued my descent.
+
+Without slowing myself, I slammed into the ground. As predicted, the dimensions I held had maintained all their momentum. Their hidden mass magnified my weight, unleashing a devastating force. It would've been more than enough to leave grievous wounds on the party above, but I opened my dimensional storage above my head. I kept the entrance as large as I could.
+
+A football field-sized opening sucked in all the kinetic forces that went up toward the sky, right where my party flew. Everything else around us vaporized in a circular shockwave, and my allies watched our surroundings disintegrate. Sitting over a crater of magma and obliterated monsters, I reached out my hands.
+
+I cooled the region, the entire area turning from a flaming wasteland into a lukewarm patch of obsidian. Taking a moment, I melted my body and constructed a large monolith from my remains. I walked out of nothing, rejuvenated and focused. After carving and implanting runes on the spire, I put several radiant blue cores into it.
+
+A colossal forcefield launched out of the ground and carved through the stone beneath us. The radiant shield matched the crater's size and scope. I passed along its outer line, creating a barrier out of my dimensional fabric. Once encapsulated, hexagonal enchantments formed over the sky, the forcefield complete.
+
+I installed further support using rebar and girders of my dimensional fabric. The metals and cores held the chaotic manas at bay, cleansing the area.
+
+On this alien world, I created a batch of stable terrain at its finest, including clean air and a pleasant climate of around room temp. After getting the situation stable, I crafted my classic sets of golems for an important new city.
+
+An executive, two architects, two vanguards, and two guardians looked back at me a day later. The golems radiated power, each of them high-level and competent. I had them go out to settle and excavate the area. In the meantime, Opal gasped, guffawed, and exclaimed many times. I remembered a few bits.
+
+"That's impossible. A barrier won't hold without a city infrastructure-"
+
+"You need thousands and thousands of long-term residents to establish-"
+
+"What's the point of even getting this much set up since we're not even going to stay here?"
+
+Opal spoke that line as the architect built another main building for the capital of this planet. I watched with satisfaction, knowing how quickly they could turn a bare patch of dirt into a thriving metropolis. Turning to Opal, I grinned.
+
+"This planet is going to be mine."
+
+Opal put her hands on her temples.
+
+"What in Schema's name are you talking about? This...This is nonsense. Pure and utter nonsense."
+
+Chrona, Hod, and Amara had already scoped out their personal areas and rooms, having called the most spacious spots with the best views already. This wasn't their first rodeo, after all. Opal still followed me along like a surprised tick, her words of astonishment sucking my focus dry. I ignored her, marching forward through her questions.
+
+Progress would be made, and noone would stop it.
+
+By the end of the first day on the strange planet, I established our first city. After some thought, I named the planet Rebirth. This was its capital, and it would be called Oasis. We had a celebration dinner using a few of the local monsters, herbs, and mana-laden fruits my vanguards found nearby.
+
+I sterilized everything with Event Horizon, and Opal gawked while we ate in an alabaster hall complete with chandeliers, hanging robes, and quite a few lighting fixtures I bought from Phorescia. Opal sat at the table, her cross salivating at a pair of glowing eyeballs I found in a squid from a floating ocean nearby. Opal crossed her arms.
+
+"This...This is unsanitary. It has to be."
+
+We devoured the meal, everyone of us eating like complete animals. Without any social pressure or societal expectations, none of us had to dine in an orderly fashion anymore, and I sure as hell didn't care. I tore a thigh apart with gravity, siphoning it into my mouth like a conveyor belt. Unable to speak, I thought over with telepathy instead of talking.
+
+"Hilariously enough, this is probably the cleanest food you'll have ever eaten. It isn't sterilized. It is genuinely sterile."
+
+Hod dragged his face across the table, eating entire plates. His mouth was a void, his shadow powers manifesting in an eerie fashion. Opal recoiled at the sight.
+
+"That's repulsive. And kind of scary."
+
+Hod stopped eating, staring at her with a stern expression.
+
+"Hod understand."
+
+He spread his arms and breathed all of his air out.
+
+"Hod magnificent."
+
+He put his face back on the table, breathing deeply. Like a hungry, hungry hippo, he moved his head back and forth, siphoning mounds of food at a time. Opal gawked at him, her shoulders drooping.
+
+"Have I entered some bizzaro world, or am I dreaming?"
+
+Amara sliced a fruit apart using her hair. Each strand wrapped around a cube fruit slice, and she ingested the energy-laden flesh, her belly swollen. She spoke with juice dripping down her chin.
+
+"This...Is ecstasy."
+
+Opal massaged her temples.
+
+"Oh please, Mother Light, don't let them corrupt me."
+
+***********************************************************************
+
+We rested during the night, everyone sleeping soundly except Opal and I. I meditated with my legs crossed in a courtyard. I made the area to train on a pleasant, flat surface. It resided on the tallest structures in the middle of the dome. Here, under a boundless sky, I could soak in the radiance of the heavens themselves.
+
+This planet actually had six moons, each in different stages of waxing and waning. They reflected pale light that kept the forest active even deep into the night. I could feel each of the moons' gravitational fields, and they fought tooth and nail while circling the larger overworld. Each carried scars from hitting the other, and those collisions created several planetary rings along their primary line of orbit.
+
+Opal sat nearby, enjoying the ambiance from the cascading light tones. Each moon carried a different reflecting color, making the night a dance of celestial lights. Taking it all in, she flopped down onto the marble floor.
+
+"This has been the easiest transition I've ever seen on a new planet. If I'm honest, the breadth of your magic is something beyond anything I've ever seen or experienced. It's eye opening...And humbling."
+
+Her voice was soft as a nursery rhyme, but the sadness was evident. I opened my eyes and looked at her.
+
+"Comparison is the thief of all joy. It's a saying from my home."
+
+Opal let out a strained laugh.
+
+"Yeah. The luminari say it like this, 'No two lights shine the same.' It's supposed to demonstrate how pointless it is to compare us as we are all so different."
+
+I gave her a nod.
+
+"It seems fitting."
+
+She peered at me with her cross glowing.
+
+"Yeah, well that's how it's supposed to be taken. Instead, people use it as a phrase to show how certain people will always burn brighter. I used to think I was one of those bright lights. Now, I feel like nothing more than a smoldering ember. To learn this late on in my life that some people are simply born better."
+
+She shook her head.
+
+"Hah. Wow. What a life we live, huh?"
+
+I peered down at her.
+
+"I can sense my surroundings. You're not channeling manas, studying books, practicing skills, or doing anything right now. You're lying down and stargazing. There's nothing inherently wrong with that, but unless you're an astromancer, it isn't strengthening you."
+
+I faced forward.
+
+"I know you can feel the volumes of mana I'm wielding. It's difficult, strenuous training. I do this all the time without rest or breaks. Even as we ate, I did so. I will do so until I die."
+
+I gazed back at her.
+
+"Here you are, trying to rationalize the difference between us as something innate. Why? Because that means you don't have to change or do anything. In that regard, it's comforting to think other people are simply born better. It admonishes you of personal responsibility, but no matter how you complicate the situation with philosophy and phrases, the truth is simple."
+
+I breathed deeply.
+
+"You've been wasting your time, and I haven't."
+
+That wasn't perfectly true. My armor gave me an innate advantage, as did my initial start in the tutorial alongside system-led events. However, I was absolutely certain that Opal also had a few advantages over me as well. She was centuries old, and she was born into an established empire. Her system-based education exceeded my own by leaps and bounds. Opal also had gained certain skills and trees that the luminari had researched for millennia.
+
+She was given a tailored environment to grow in, one far more forgiving than mine. Despite those advantages, she immediately put all the differences between us as something innate. Some of our potentials were dictated like that, sure, but I outworked her a hundred times over today while she idled about.
+
+If that happened every day for years, the differences between us would inevitably become vast. In fact, each day would become more sizable than the last, given the exponential gains that came from skills and the system.
+
+It was a part of giving people power. The more power people could obtain, the more different people's power would inevitably be.
+
+My thoughts tumbled in my mind as Opal kept her gaze on me for a while. Her hair flickered in all directions behind her, the internal chaos of her mind reflected in the locks above her head. She peered away, hurt for a moment. Not wanting to make an enemy of her so soon, I pinched the bridge of my nose.
+
+"Look-"
+
+She took a breath and stood herself upright by grabbing a sphere of light. Opal shook her head.
+
+"No, you're right. I'm over here throwing a pity party while you're over there showing why you're so far ahead. So, uh, thanks. It's easy to forget that time matters when we're so close to being immortal from the system. We can live so long and yet do so little. I've had that thought about other people, and it's been a while since I've had someone think that about me."
+
+She stepped away.
+
+"So, yeah. You're right. I think I'll let this world be my crucible."
+
+I smiled.
+
+"Then go out and find your fire."
+
+Opal left, and hours later, the sun lifted over a skyline of many shapes and sizes. All carried the depth of detail, and the shining sun dappled over the many surfaces and textures, exposing their brilliance and scale. I watched it alone, taking a moment to focus on my perspective and outlook for the day.
+
+This was the first sunrise I'd seen here, and I didn't want to miss it. Rebirth would be one of my planets, and I didn't want to ignore the opportunities it presented, after all. Once the sun's rays began burning my poor eyeballs, I went to wake everybody up. Before I could, Other Hod sauntered up to me. Shadows rippled off his body. His hollow eyes pierced through his surroundings, and he carried a depth to him he lacked before. He murmured, his voice full of power.
+
+"It's good to see you, Harbinger."
+
+I leaned back.
+
+"Damn, you sound awesome."
+
+As he smiled, he flexed one arm, shadowy musculature rippling.
+
+"Hod awesome, indeed."
+
+We laughed before I turned to him.
+
+"Have you been eating eldritch artifacts?"
+
+"I have. I induldged in that amber plating you gave Hod sometime ago. I've also eaten pieces of the Seer that guarded the Shattered Spires. Other relics have found their way to me, and it has made me stronger than I was."
+
+I rolled my shoulders.
+
+"You want to spar before we wake the others up? I'd like to see your progress."
+
+Other Hod cracked his neck.
+
+"Hm. I've wondered where we rest in comparison to another, and I've been training with Shalahora. He's unveiled a few truths amidst the darkness we wield. I may show those truths to you while you unviel the truths you understand as well."
+
+My runes glowed with a power unbounded. I smiled.
+
+"Then let's begin."

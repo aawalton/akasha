@@ -1,0 +1,225 @@
+---
+id: 5770b852-c1ab-58e3-82d9-27a966d589b1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14 – Gnoll"
+slug: 0014-chapter-14-gnoll
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 14
+ownLength: 2107
+unit: words
+publishedAt: 2025-08-27
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2551478/chapter-14-gnoll"
+royalRoadId: "2551478"
+---
+
+Liora did her best to avoid the humanoid hyena who leapt around with the agility of a cat, snarling viciously. She had no clue how she could even defeat this creature—it was far above her level. There wasn't even enough time for Liora to aim her Air Slashes.
+
+There was a good thing about this rampage. The humanoid hyena didn't care much for its subordinates. Any of the little guys who happened to be unlucky enough to be in the way were thrown aside like ragdolls or stomped into the ground. It was clear that this was a rule based on pure fear.
+
+Liora took advantage of that. She would fly straight at the little hyenas, Pecking them lightly if the opportunity presented itself. Many of them were too busy trying to scramble out of the way to try to bite Liora.
+
+When the humanoid hyena leapt after Liora, it would often kill the little hyena that happened to be in the way.
+
+[You've defeated <Giantmaw Hyena – Level 4>. Experience gained.]
+
+It almost felt like cheating. She wasn't even Pecking these hyenas very hard, yet the System awarded her with experience.
+
+Just a bit more and I should reach Level 10. That should make it easier to fight this monster. I'll take every little advantage I can get.
+
+This mayhem continued for a while, until the little hyenas decided that it'd be much safer to leave the place altogether and began scampering towards the exit.
+
+Liora went after them, and the humanoid hyena followed, jumping straight in the middle of the hyena pack, crushing one to death and mauling another one accidentally.
+
+[You've defeated <Giantmaw Hyena – Level 5>. Experience gained.]
+
+[You've reached Level 10.]
+
+[New skill obtained – Fade.]
+
+[Fade – At [Basic] level momentarily dims your presence, making you semi-invisible and muting your footsteps, flight, and voice.]
+
+"Liora, get out of the way!" Renir warned as she stared too long at the System screen.
+
+Fade!
+
+Liora couldn't observe the effects herself, but the confusion on the humanoid hyena's face was clear right away.
+
+"Liora, where did you go?! Are you just going to ditch me?" Renir wailed dramatically. It was just an act put on for the hyena's sake. Although Liora doubted that the stupid creature understood much.
+
+But she didn't waste time, instead using her momentarily invisibility to Peck mercilessly at the hyena's hand/paw. It yelped and released its hold on the gem. Liora instantly snatched and flew straight for the exit.
+
+"You have no idea how happy I am to see you!" Renir sniffled. Or at least it sounded like sniffling. He couldn't actually do that since he was still a rock.
+
+"Later!" Liora reprimanded, flying full speed towards the exit. Fade effect lasted only for a few seconds, and the humanoid hyena was already hot in pursuit.
+
+She managed to make it out of the cave safely and instantly shot up into the night sky. But she had underestimated the humanoid hyena's jumping ability. It launched itself high in the air, easily reaching over the decaying treetops. It managed to reach Liora's leg and snatched the gem, inflicting a deep wound on Liora in the process.
+
+The pain was agonizing, and she could feel hot blood dripping down her leg. Unable to hold the gem, Liora could only helplessly watch as it slipped from her talons and fell towards the ground.
+
+"Caw!" She screeched and dove after it, ignoring the pain.
+
+The hyena couldn't change its trajectory mid-jump, but its eyes were locked onto the gem. Why did it even want it so badly? But it didn't matter. It was her gem. Her most precious treasure. She wouldn't allow this smelly mongrel to have it.
+
+Liora held her wings close to her body, accelerating her fall towards the gem. With her uninjured leg, she reached out towards it.
+
+The gem is mine! It's mine!
+
+"Liora, hurry!" Renir urged helplessly, lying on the ground. The second it took her to reach him felt like an eternity. When her talons closed around the gem, she had only one wish—to never let it go. To keep it with her at all times.
+
+Something strange happened at that moment. The gem disappeared.
+
+[New trait unlocked – Inventory.]
+
+[Warning: You're not supposed to possess this trait. Its full functionality will be locked.]
+
+What?! Where's the gem? It's gone, yet it feels like it's still here.
+
+I'm here! Fly up!
+
+Liora was startled to hear Renir's voice inside her head, but she obeyed. The snarling hyena ran after her, seemingly just as confused as she was about the disappearance of the gem.
+
+Defeating the hyena comes first. After that, we can make sense of what the hell just happened.
+
+Liora agreed. She began circling increasingly higher in the air, letting Shadow Glide hide her presence. The hyena wasn't going to give up that easily. It followed her relentlessly, chasing after her from below. Liora suspected that it was the smell that was giving her away. This hyena likely could track her to some degree, at least.
+
+Fade!
+
+This helped. The hyena threw its head around in confusion. It could smell her general location, but couldn't pinpoint it. Liora took this opportunity to fly high up—so high the hyena wouldn't be able to see or smell her.
+
+Let's see how you like an Air Dive to the skull, stupid hyena!
+
+It's a gnoll, actually.
+
+Whatever!
+
+Liora dove down. She couldn't even properly see the gnoll in the dark, that's how high up she had flown. There would be very little time for correcting any trajectory errors. But she wouldn't be able to defeat this thing without taking a few risks.
+
+The gnoll came into sight, frantically searching the sky for Liora. Their eyes met. The gnoll snarled and jumped straight up, intending to swat her out of the air. Clearly, it had never faced a bird falling. Liora's sharp beak collided with its paw, nearly severing it off and sending the creature flying back to the ground.
+
+That's for injuring my foot!
+
+Liora didn't pause, using the gnoll's momentary confusion to launch an Air Slash at it. Then she flew straight at it and let out "Buh-rup".
+
+[You've successfully mimicked the skill <Paralysis Croak>.]
+
+The gnoll seized, but not fully. It gave Liora enough time to put a safe distance between them, but it wasn't enough to fully stop the monster. In fact, it looked even angrier than before.
+
+The gnoll let out an ungodly cackle, far worse than the one the corrupted hyena had. Liora couldn't tell left from right anymore. She didn't understand what she was hearing or where she was going. The trees, the gnoll, the sky—they all blended in one giant mess. Sounds became a torturous jumble so that every sound felt like a hammer against her head.
+
+Fly up, up!
+
+Renir's voice echoed in her mind. It was the only thing that was clear to her. So even if she couldn't understand her surroundings, she flew up.
+
+Faster, faster. Try to keep your eyes open. If you close them, I can't see either.
+
+Liora couldn't even properly sense her wings, but she mechanically beat them. It was beyond confusing when her body was sending her mixed signals, insisting that she was actually flying down. Only through sheer willpower did she ignore these.
+
+The higher she flew, the more sense the world seemed to make. Renir kept encouraging her to go up, although she had no clue how he could make sense of anything in this mess. Eventually, she was high enough to be out of the gnoll's skill range.
+
+Liora saw the gnoll snarling below her viciously, occasionally attempting to jump up. But she was way out of its range.
+
+Why don't you finish this? I think a well-aimed Air Dive should do the trick. It's been losing a lot of blood through its wound.
+
+So have I. I have no other choice but to finish this fast.
+
+Liora took aim and dropped. Some distance from the ground, she Faded—vanished mid-air, leaving the gnoll confused. It smelled the air, hoping to find her. But when it had smelled her, it was already too late. She crashed into its chest, puncturing its lungs.
+
+It tried to use its Maddening Cackle, but instead of sound, blood came out of its mouth. Liora flew some distance away from the gnoll, just enough to be out of reach of its claws. It wanted to jump after her, but partial paralysis prevented any fast movements.
+
+"This for stealing my gem!" Liora said and unleashed as many Air Slashes as her remaining mana allowed.
+
+[You've defeated <Gnoll – Level 13>. Experience gained.]
+
+[You've reached Level 11.]
+
+Get the glimmerstones from its claws before the little hyenas get their bearings!
+
+She didn't need to be told twice. Despite the pain in her leg, Liora flew up to the dead gnoll and pulled the four glimmerstones embedded in its huge nails. By the time other hyenas realized what had happened, Liora was already a long distance away.
+
+This is bad! You're bleeding! You need treatment. Dammit, and we can't rely on evolution like last time.
+
+Liora's mind was turning hazy as the adrenaline slowly subsided in her bloodstream. At this rate, she would bleed out to death.
+
+Show status.
+
+[Status]
+
+Health: Critical
+
+Mana: Drained
+
+I need to get to Dr. Reius.
+
+Renir said something more into her mind. It sounded urgent, but Liora was barely conscious at that point. The last thing she remembered was crash-landing into a window.
+
+When Liora woke up, she found herself in a warm, comfortable place which was… smelly.
+
+What's that smell?
+
+Not a clue. But I'm glad to see that you're well enough to complain.
+
+"CAW!" Liora fluttered her wings in panic. "What the hell?! You're in my head!"
+
+That was the wrong thing to do. Her leg flared up in pain, and Liora was forced to lie back down.
+
+Status.
+
+[Status]
+
+Health: Wounded
+
+Mana: Flowing
+
+"Calm down, calm down! You're safe," Dr. Reius ran up to her, just as disheveled as before.
+
+You're not the one who scared me, doc.
+
+Couldn't handle my dazzling presence, little thief?
+
+Why are you in my head?
+
+Well, I believe that—
+
+Renir didn't get to finish that thought as Dr. Reius picked her up. Liora was in pain, Renir was talking inside her head, and this human was now holding her. She was about to lash out.
+
+"Shhh! Shhh! I'm not sure what happened, but you are safe here. Nobody will hurt anymore, Miss Magpie," the doctor said gently and took her over to a cupboard which seemed to be filled with food.
+
+He held her gingerly in one hand while with the other, he slowly poured a mix of seeds and grains into a bowl. The sight of food calmed Liora. She watched him prepare the meal eagerly. Once it was ready, he set her down next to the bowl, being careful with her injured leg.
+
+Liora made sure not to put any weight on it and began eating. She had no clue what kind of magical grains these were, but they instantly filled her with energy.
+
+"This is most unusual… Your eye color has changed," Dr. Reius said when she was almost done with her meal.
+
+She froze.
+
+Changed?
+
+Changed?
+
+"I believe your eyes were dark blue, yet now they are a vibrant amber color. How did that happen?"
+
+This man is getting too suspicious of you. You should fly away.
+
+I haven't finished eating.
+
+Is food all you care about? What if he figures out you're a monster?
+
+I'm not a monster! But I think he already suspects I'm not a normal magpie.
+
+When did that happen? I happened to be eaten by a hyena—ABSOLUTELY HORRENDOUS experience, by the way—and you are already getting discovered by a human.
+
+Shut up! You're a human too. Stupid one, too. Who just gets stuck in a rock?
+
+"You're not a regular magpie, are you? I've never seen a bird so intelligent. This goes beyond magpie capability."
+
+Okay, time to bolt.
+
+Liora grabbed the last beakful of food and flew off.
+
+"No, wait! I don't mean any harm!" Dr. Reius called behind her, but Liora was already out the door and away.
+
+In less than a few minutes, she was back in the safety of her watchtower. The presence of the dull, cooing pigeons and her little spider friend weaving its webs in the corner calmed Liora.
+
+Alright, let's get something straight once and for all. Why are you in my head?!
+
+Well, you kind of broke the System.

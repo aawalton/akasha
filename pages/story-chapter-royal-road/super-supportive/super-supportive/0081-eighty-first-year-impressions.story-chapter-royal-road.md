@@ -1,0 +1,729 @@
+---
+id: 3888c56d-27c5-5013-85b9-61928005c75b
+page-type-slug: story-chapter-royal-road
+title: "EIGHTY:  First Year Impressions"
+slug: 0081-eighty-first-year-impressions
+partOf: super-supportive
+position: 81
+ownLength: 5446
+unit: words
+publishedAt: 2023-10-08
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1367761/eighty-first-year-impressions"
+royalRoadId: "1367761"
+---
+
+Their group of four had been walking for several minutes when Kon suddenly stopped, threw his arms around his chest in a self-hug, and stomped his feet rapidly while giggling and saying, “Yes! Yes! Yes!”
+
+
+Alden, Maricel, and Tuyet stared at him.
+
+
+They were on a paved walkway, heading past a tall classroom building with reflective windows, so there was a second Kon doing the victory dance alongside the first.
+
+
+“Delayed realization?” Alden asked.
+
+
+“Haha!” said Kon, throwing his hands up in the air and spinning to face the other three. “No. Not delayed at all. I almost burst an organ trying to hold myself back so that I wouldn’t hurt everyone else's feelings. Yasmin’s an Audial Brute, but even she shouldn’t be able to hear me now so…YES! I am one of the chosen! I’m going to be a superhero. I’m going to get so freaking powerful, and I’m going to get my own personal magic gym suit, and I’m going to eat waffles at Cafeteria North every day, and it’s gonna be STELLAR!!”
+
+
+Tuyet smiled. “You’re so excited.”
+
+
+Kon grabbed her by the shoulders. “You should be, too! Holy aliens, you must have kicked butt. Or darted butt? Anyway, you did it!”
+
+
+“Darts?” Maricel asked. “Is that what your mastery is?”
+
+
+Alden had been wondering, too. He’d heard Tuyet was a Meister, but he hadn’t caught what her weapon was.
+
+
+After a few seconds of begging interspersed with excessive praise from Kon, the girl reached into a yellow purse that matched the dress she was wearing and produced a shiny metal case the size of a hardback book.
+
+
+She opened it to show off eight pale, gleaming darts. They had needle-sharp points, and they looked like they were made of nacre, though Alden assumed it was really some other material.
+
+
+“Are they coated with poison? Or are they magically enhanced?” Alden asked.
+
+
+Maricel had been reaching out to touch one of the darts, but at that, she yanked her hand back.
+
+
+"I do magical enhancement,” said Tuyet. “They’re safe right now if you want…?”
+
+
+She held the case toward Maricel.
+
+
+“Yeah, Tuyet’s sweet.” Kon watched Maricel pick up a dart. “Most Meisters won’t let you breathe on their tools unless they’re trying to kill you with them.”
+
+
+“You sound like you speak from experience,” said Alden.
+
+
+“I just wanted to hold the whip for a minute. Lexi could have shared.”
+
+
+“Did your brother…?”
+
+
+“He got in, too!” Kon chirped. “I didn’t want to say that in front of everyone else either, since they were talking about the school being unfair to A-ranks. And he is one. But then you showed off by getting in at B, so I’m sure they all feel awful anyway.”
+
+
+Tuyet tucked her dart case back into her purse, and they headed toward the street that separated the high school’s campus from the larger university one. “I can’t believe it’s only us and Vandy,” she said to Kon. “Everyone else is going to be mad at us, aren’t they? We’ve always gone to school together, and now—”
+
+
+“They’ll get over it,” said Kon. “Most of them will, anyway. And the ones who don’t, we can’t do anything about.”
+
+
+“Didn’t you want them all to get in, too?”
+
+
+“That would have been great, but when everyone gets their ranks and classes, you know things are going to change a little. Even if you don’t want them to.”
+
+
+Tuyet’s face fell.
+
+
+“Hey!” said Kon, dropping back to nudge her with an elbow. “We’re still together. And some people we know have already gotten in, not to mention all the people who’ll be in the programs for Arts and Sciences. This is supposed to be happy. Alden and Maricel are happy. Aren’t you?”
+
+
+Alden glanced at Maricel. Her expression was blank. He suspected she wasn’t happy in the way Kon meant. Satisfied, probably. Glad that she’d done what she’d set out to do. But she was here in hopes that getting more powerful would eventually get her back home to her family.
+
+
+Even Alden was feeling envious of Kon and Tuyet. The separation from their classmates Tuyet was upset about was sad, but it was so minor compared to being forced to leave everything behind and come to a new country. Getting into that was going to be a real downer, though. And Maricel still wasn’t speaking.
+
+
+I guess I should say something?
+
+
+“I think Maricel and I might have slightly different goals, so we see it in another ligh—”
+
+
+“I’m happy,” Maricel interrupted suddenly. “I’m happy I got in.”
+
+
+She plastered on a smile and turned to Tuyet. “I’m still a little upset about my hair, though!”
+
+
+Alden watched in surprise as Maricel, who’d been so prickly and withdrawn most of the day, turned and gestured dramatically toward her hair. “Look what I did to myself! Just look at how terrible it is.”
+
+
+“No! You’ll be beautiful with short hair as soon as it’s trimmed!” Tuyet exclaimed. “The woman who cuts mine is really nice. I can send you her contact information.”
+
+
+“Maybe I should have bangs like yours? They’re so cute!”
+
+
+Oh. She’s going to do bubbly now, Alden thought, a little confused. Okay.
+
+
+By the time they’d crossed the street, Tuyet had pulled out a cell phone, and the girls were looking up pictures of celebrities with short hair.
+
+
+“What were you going to say?” Kon asked, shoving his hands into the pockets of his jacket.
+
+
+“Nothing important,” said Alden. “I’m glad I’m in. I want to focus on skill development, and I want to be challenged. So this is great for me.”
+
+
+They passed a classroom building that had the high school coffee shop on the ground floor. There were a few students doing homework at tables and booths. A girl near the window was making orange juice jump from one tall plastic cup to another, like a leaping fountain.
+
+
+“I’m happy to be going to school in general,” Alden added. “It’s been a while.”
+
+
+“I don’t really know anything about American schools except for what I've seen on television. Did you have to leave in the middle of term?”
+
+
+I’m probably going to be seeing Kon at school for the next few years. Not telling him now is just going to be more awkward when he hears about it on his own.
+
+
+“I was selected back in February,” said Alden. “I walked out of school that day in a daze, and I never got the chance to go back. I was summoned right after affixing. I only made it back to Earth at the beginning of last month.”
+
+
+“Wow,” Kon said. “That...is a really long assignment. I guess it explains why you’ve leveled a few times, though, if you were doing a lot of work with your magic while you were gone?”
+
+
+Alden looked at him. Kon sounded surprised, but not completely shocked the way most people had been so far. “Usually people freak out a little when I tell them that.”
+
+
+“Do they? Yeah, that makes sense. Especially in intake. In F. It is crazy that someone our age got a posting that long. That’s not normal. But you’re a Rabbit. So it doesn’t seem totally impossible to me.”
+
+
+“Kon’s parents get summoned a lot,” Tuyet said from behind them.
+
+
+“Not a lot, but a couple of times a year usually. They’ve been on Artona II for three days. They’ll be home in ten.”
+
+
+“They get summoned together?” Alden asked.
+
+
+“They’re ballet dancers,” said Kon. “They’re Brutes. Dad was supposed to be a strongman, and mom was supposed to be all about that superspeed. But they were both dancers before they got selected and they ignored a lot of the normal tweaks people with their subclass would make and specced themselves for their thing. He still leans strong, and she still leans fast. But it’s all for the sake of the dance!”
+
+
+He flung out his arms and leaped dramatically.
+
+
+“They call it a Dancer Brute or Graceful Brute build at the arts schools. People have been trying to define it as a whole new subclass for the past thirty years. It’s kind of working? The System’s been loosening up about letting Brutes hybridize in new ways, especially once they get past low levels.”
+
+
+“They get summoned…to dance?”
+
+
+Kon nodded. “With the Anesidoran Avowed Ballet. If you’ve only seen regular ballets, then you should think of it as a more intense version. Plus acrobatics and spell performances. Most of the group goes. They still spend more time touring on Earth at this point, but human performing arts are finally starting to catch on a bit on the Triplanets.”
+
+
+“I’ve never seen a ballet at all.”
+
+
+“Me either,” said Maricel.
+
+
+Kon’s mouth dropped open. “But why?”
+
+
+“I guess I could have gone to one, if tickets for that kind of thing aren’t expensive? But I never even thought about it. They’re not very popular at home with people our age.”
+
+
+And if it was an Avowed group on a rare American tour, tickets would definitely have been too expensive for him. Any kind of superhuman sporting event or performance allowed to take place was always sold out in seconds.
+
+
+“That’s terrible. You have to go. I’ll take you both. They’re doing some special shows in February for Lunar New Year. Maybe we can invite our new classmates and make it a first year field trip!” He looked like he was completely energized by the idea. “And afterwards we’ll have a party.”
+
+
+But you’re about to have a party in a few days, thought Alden. How much socialization can one man plan?
+
+
+It sounded exhausting to him.
+
+
+“I went off topic,” said Kon. “Were you going to tell us what you were summoned for? What job did you do?”
+
+
+“I was going to tell you about it. But now we’re talking about parties and superballet, and you’re going to think I’m depressing.”
+
+
+“I won’t!”
+
+
+“I completely kill conversations when I talk about myself these days,” Alden warned. “I silenced an entire room full of people trying to introduce myself. At this point, it should be listed as a talent on my profile.”
+
+
+“Try me. My brother is a conversation serial murderer. The trick is, once one dies, you just have to walk away from the body fast and start a new one. I’ll think up an emergency conversation starter right now…and…yes, got it.”
+
+
+He grinned at Alden.
+
+
+Okay.
+
+
+“I got summoned as a lab assistant. Volatile materials disposal. It was a decent job. Not that hard, and the money was amazing. Then I accepted a side quest from a mad scientist, the teleporter broke, and I ended up trapped in a chaos-corrupted area on Moon Thegund. Some people died. I was living there with an Artonan kid for the past half a year. She’s my favorite person. It’s good to be back on Earth.”
+
+
+Kon blinked several times. He looked like he was processing.
+
+
+When Alden turned back to see how the girls had reacted, they both had blank expressions. Even though Maricel, at least, had already heard part of this.
+
+
+“That’s not that bad,” said Kon after a few seconds. “I don’t know what you’re so worried about. I don’t even have to use my emergency convo idea.”
+
+
+“Really?” Alden was stunned.
+
+
+Kon shook his head. “No, not really. It sounds like it was awful. And I actually know who you are now. We heard a rumor about you in school a few months ago. They said a brand new Avowed had died in a teleportation accident. I guess that’s not true?”
+
+
+“I was just missing for a long time.”
+
+
+“I can see why you might not want to bring that up. But I’m not rude enough to freak out about it to your face after you just said you didn’t want things to be awkward. We can pretend like your backstory is boring, average stuff. ”
+
+
+“Is…is that what we should do?” Tuyet said tentatively.
+
+
+“Is it?” Maricel asked, too.
+
+
+Alden felt himself relax. “I’d like that. Thanks.”
+
+
+“Everyone,” said Kon, sweeping a hand out over the group. “Alden is boring and average. We’ve agreed. It’s done.”
+
+
+“So average,” said Maricel.
+
+
+“So average,” Tuyet repeated after hesitating for a second.
+
+
+“It’s a shame, but I’ll just have to try to be interesting enough to make up for how boring you are,” Kon told Alden.
+
+
+“What was your conversation starter going to be?” Alden asked him.
+
+
+“Our student ID's!” said Kon. “If you check, they’ve already sent them. They’re with our Anesidora ID’s. We’re officially CNH students now.”
+
+
+Tuyet gasped, and Maricel reached up to prod her interface.
+
+
+Alden opened the ID section with a mental command. Sure enough, it was right there.
+ 
+
+
+********
+ 
+
+
+The ID wasn’t the only quick part of becoming a member of the student body now that they had been admitted. Onboarding new Avowed was something the school was adept at. The forty-one students who’d been accepted this cycle were directed to a meeting room. The principal and a few other faculty members were there to shake hands, congratulate them, and pull individuals aside for course advisement.
+
+
+While they were waiting their turn, everyone was supposed to mingle, make friends, and fill out a housing form that had been sent to their inboxes. You could request which dormitory you wanted to stay in and who you wanted for roommates. The dormitory request probably wouldn’t be honored. The roommate one would, provided the people you requested also requested you.
+
+
+Technically, you weren’t required to live in student housing. But it was free, convenient, and the school encouraged it so strongly that almost everyone did. Alden thought he should at least try it.
+
+
+Standing in a corner, he looked out over the group of teens who were engaged in anxious roommate negotiations with people they knew or half-knew from school and intake. A couple of them were calling friends who were already in the hero track or another program to find out if they had free space.
+
+
+“Maricel, be my roommate.”
+
+
+His fellow corner-dweller shook her head. “I know you heard them say the co-ed dorms were full. Anyway, I want to live with Tuyet, and I don’t think she wants to live with boys.”
+
+
+Alden groaned. “I’m going to get stuck with someone awful.”
+
+
+He was watching Winston Heelfeather, still in his sunglasses, zip around the room introducing himself to people. How did he get in? I know speed types have an advantage, but…
+
+
+“Ask Kon,” Maricel suggested.
+
+
+Alden wanted to ask Kon. “I would, but just look at him. He’s talked to six friends since we came into the room, and he’s air texting students who already live here at the same time. He’s probably got a dozen possible roommates, and they’re all people he already knows.”
+
+
+“Just ask. He might say yes.”
+
+
+“I don’t want him to say yes because he feels obligated after hearing my tale of woe.”
+
+
+Maricel peered at him over the can of cherry soda she was drinking. “You’re not confident about this kind of thing, are you?”
+
+
+Alden tried not to look offended. He was sure he did anyway.
+
+
+“You seemed so in control this morning, handling the people being mean on the bus.”
+
+
+Ignoring jerks is completely different from imposing on nice people.
+
+
+“And afterward, when you were telling me why I would get into school and they wouldn’t…I used that in my interview.”
+
+
+“What?”
+
+
+“They asked why they should let me in when I didn’t really want to be a hero. The others from intake did make sure to talk about what I’d said in front of the faculty—about wanting to go back home. And the interviewers told me this wasn’t a place for someone who trying to run away from their problems.” She looked angry. “So I said what you did. That going back home was a serious goal. And it meant more to me than anything. And getting stronger is one of the best ways to do that, so I’m going to work so much harder than everyone else. They must have believed me. Because here I am.”
+
+
+“And almost none of the others from the bus this morning are,” Alden added.
+
+
+She took another gulp from the soda.“Can I ask you for a favor?”
+
+
+“Sure.”
+
+
+“Don’t…don’t let them know that I hate it here. Kon and Tuyet. And everyone else.”
+
+
+He looked down at her. Her cheeks darkened.
+
+
+“It was a mistake,” she muttered. “Not trying to get along with people in intake. My roommates can’t stand to spend time with me. They leave me out of everything. My counselor said he was tired of me ‘clinging to a negative attitude.’”
+
+
+Well the Shaper counselor sounds like a dick.
+
+
+“At home, I used to be somebody with lots of friends,” she said. “When I first moved here, they called every day, but now it’s less. Having lunch with that stupid group made me remember. I want…I think I should try to be a little more like I used to be while I still can. Or it will be intake all over again. I hate Anesidora. But I don’t want everyone to hate me, and this is their home, so…”
+
+
+“I understand,” said Alden. “I won’t say anything.”
+
+
+A few minutes later, Maricel left to go to her advisement. Alden sighed and worked himself up to brave the group of people standing around Kon.
+
+
+As soon as he spotted Alden, he waved and started introducing him to everyone. It was too many names and classes to memorize at once, so Alden only bothered to remember the girl with the tongue piercing he’d “rescued” earlier. Astrid. A-rank. She was a Morph Brute.
+
+
+“Oh,” a girl with dark hair and blue eyes who was standing beside Astrid said. “I guess they did let a B in this time after all. I thought they might have already met their annual quota or something.”
+
+
+“Nope." Alden pretended he hadn’t heard the clear note of condescension in her voice. “There are at least two of us here. Kon, do you have your roommates picked out yet?”
+
+
+Nothing for it but to ask.
+
+
+“Yeah,” said Kon apologetically. “I’m rooming with Mehdi.” He pointed to a boy with perfectly gelled hair. “And a couple of guys who are already on campus. Since Lexi’s being a stubborn ass—”
+
+
+“That’s nothing new,” someone said.
+
+
+“I know it’s not,” said Kon. “But I assumed since we’re brothers he’d prefer me to people he barely knows.”
+
+
+“We’re going to be the party room, anyway,” said Mehdi. “He’d hate it.”
+
+
+Kon brightened. “You should be Lexi’s roommate, Alden!”
+
+
+“Um…”
+
+
+“He thinks he’s going to put together a room full of silent people. He’s already talked Haoyu into it.” Kon paused. “My brother is clean. And he doesn’t snore—”
+
+
+“That’s the best you can do to sell him?” Mehdi laughed.
+
+
+Kon glared. “He’ll be gone every weekend for sure. He studies or trains all the time, and as long as you don’t interrupt him or forget to hang up your towels there are no explosive temper flares”
+
+
+“Oh my god, Konstantin, you’re making it worse.”
+
+
+“I think Fountain Jeffy is looking for roommates,” Astrid piped up.
+
+
+“Fountain Jeffy?”
+
+
+“The guy with the blue mohawk who jumped in the fountain.”
+
+
+“Jeffy got in!!” someone shouted, miming the shirt-ripping moment.
+
+
+“Where is he?” Kon asked, looking around. “That was fun.”
+
+
+“Vandy gave him a speech about following rules. And now he’s standing around in the men’s room trying to dry off his pants.”
+
+
+“Thanks anyway,” Alden said. “Nice to meet you all.”
+
+
+So I can choose from a guy who’s clean and quiet until he explodes, and an excitable guy who jumps into fountains and takes off his clothes. I mean…both are fine but neither would be my first choice. I guess the party room wouldn’t be either, though.
+
+
+Where are the friendly but low-key people?
+
+
+Low drama potential. It had to be here somewhere. He scanned the other boys.
+
+
+There were two Brutes loudly trying to outbrag each other about their duels. There was a boy with a tablet who was editing photos of himself in the gymsuit to make himself look slightly taller. A knife Meister—the very one who’d cut Maricel’s hair— was on the verge of stabbing Winston for interrupting him during a call. An Object Shaper was chatting up girls and trying, without much success, to show off by molding an aluminum can into some animal shape.
+
+
+And then there was Max.
+
+
+Alden’s fellow B was pretending to mind his own business while he played games on a handheld console, but he was glancing up often enough that Alden thought the gaming was just a cover for his eavesdropping.
+
+
+Alden went to the bathroom to examine his other option. He walked in just as a tan guy with a mohawk, wearing no shirt or pants yelled, “You idiot!” and tore the electric hand dryer off the wall.
+
+
+All right then. That’s a nope for me.
+
+
+Alden tried to quietly shut the bathroom door before he was noticed.
+
+
+“You’ve got two shirts!” Jeffy said suddenly, staring at Alden’s reflection in the mirror. He was holding the dryer in both hands. There were dents in the metal case. His soggy jeans were in a pile on the tile floor.
+
+
+“Sorry for interrupting,” Alden said quickly. “I think I’ve got the wrong bathroom.”
+
+
+“Can I have one of your shirts?”
+
+
+Alden stared at him. Then he looked down at himself. He wants my clothes?
+
+
+Jeffy tossed the hand dryer in the direction of the trashcan without looking. It hit the wall with a crunching sound and then clanged onto the tile floor. He walked toward Alden.
+
+
+“Gimme a shirt, man. Please?” he said, holding out his hand. “Mine got messed up.”
+
+
+You ripped it in half yourself, thought Alden.
+
+
+Jeffy leaned toward him, and Alden leaned back, still gripping the bathroom door handle tightly.
+
+
+“I can’t meet the faculty with my bellybutton showing,” Jeffy hissed. “There was this girl, and she said they expect students to be professional. And maybe they would throw me out and replace me with someone who wasn’t a ruffian. I think it’s Anesidoran slang for people who behave like dogs.”
+
+
+“No. It isn’t. It’s—”
+
+
+“Because it’s ruff. Like ruff ruff,” Jeffy said seriously. “They have so many new words here, and I wasn’t paying attention to see if the System translated that one. So I—”
+
+
+“You can have one of my shirts,” Alden interrupted. “It’s fine.”
+
+
+“Do you have a power that will dry pants?”
+
+
+“I can set them on fire with my candle lighting spell,” he said. “I don’t recommend that.”
+
+
+Alden stepped into the bathroom and took off the green plaid shirt he’d been wearing over his tee. “Here,” he said, shaking it in the other boy’s direction.
+
+
+“Can I have the t-shirt instead?”
+
+
+Dude.
+
+
+“Plaid will make me look like a farmer.”
+
+
+Alden threw the shirt at him. “I think you should be more worried about the fact that you just broke the bathroom. The school’s going to care way more about that than your clothes. Konstantin might fix this for you if you ask him quick enough.”
+
+
+He stalked out and left the boy there. For real? They let in a person who beats up appliances because they’re not drying his pants fast enough, but I’m a waste of the faculty’s time just for being a Rabbit? What kind of elitist Anesidoran shit—
+
+
+He sighed at how easily his thoughts had taken this path. Maybe he was a little upset about what Instructor Klein had said.
+
+
+Getting in because of the commendation isn’t something I have to be embarrassed about. I think Alis-art’h was more generous than she should have been, but it’s not like it’s fake. The star is there on my profile with my level and my rank. Think of it like its own separate stat.
+
+
+And I have the emergency response merit from LeafSong. There can’t be a lot of other teenagers walking around with one of those either.
+
+
+It wasn’t important. He was in. He would learn everything he could. He would get stronger. He would put his life back on some kind of track.
+
+
+He would get himself a roommate.
+
+
+He glanced at Max.
+
+
+Maybe there would be solidarity in them both being B-ranks? But he’d also be worried he was being analyzed all the time. Alden had secrets. Living with someone ambitious, observant, and good at manipulating others would be stressful even if they weren’t enemies.
+
+
+Determined, he walked over to where Lexi was sitting at the conference table and sat down beside him.
+
+
+“Hi,” he said, “I didn’t get the chance to introduce myself earlier.”
+
+
+Kon’s brother strongly resembled him. They were both good-looking, with light brown eyes and straight dark hair. But in contrast to Kon’s expressiveness and easy smiles, Lexi looked like someone had carved ninety percent of his personality away and left only suspicion and annoyance behind.
+
+
+“When you wouldn’t let go of my Mind Writher?”
+
+
+“Did you really expect people not to try to fight you?”
+
+
+Lexi huffed. “What do you want?”
+
+
+“Kon says you’re looking for quiet roommates. Quiet is fine with me. I clean up after myself. And I plan to spend a lot of my free time locked in my room studying.”
+
+
+It was all true. Even if Alden had wanted to become a party animal, he didn’t think he was going to have time for it. He’d be privately learning magic on top of all his schoolwork.
+
+
+“I do have a cat,” he added. “He’s quiet, too. And he will stay in my room if you don’t like cats. Did you already have your apartment full or…”
+
+
+“It’s going to be me, Haoyu, and probably a guy I know from Arts once I get him to answer his calls. There’s one more bedroom in the apartment.” Lexi examined him. “You haven’t been on the island long, have you?”
+
+
+“I just got here. I’m still in intake.”
+
+
+“Yeah. That’s okay then.” His eyes flicked up to Alden’s name tag. “Alden.”
+
+
+Hey, he used my name instead of calling me B-rank. Or Rabbit. He can’t be that bad.
+
+
+Lexi held out his hand, and Alden shook it.
+
+
+A second later, a notification popped up letting him know Lexi had added him to his housing form and asking him if he wanted to do the same. Five minutes after that, while he was on his way out the door to meet with his course advisor, Haoyu added him to the form, too.
+
+
+Even though we haven’t met. So he must just trust Lexi.
+
+
+If it didn’t work out, Alden could always try again. There was bound to be some roommate shuffling right after everyone moved in, wasn’t there?
+
+
+The teacher advising him gave him permission to take a couple of classes for credit even though they were already well underway. In addition, he would be auditing two more. It would either make it easier to breeze through them when he took them in a later quarter, or with instructor permission, he could sit the finals and receive credit for those, too.
+
+
+He would also be taking a phys ed/self-defense hybrid with everyone who’d just gotten in so that they would be extra well-prepared for their first full combat courses in January.
+
+
+He walked out ten minutes later with his new schedule finalized. Tomorrow was Sunday. It was a week until he officially had to start classes and move into the dorms. But according to the advisor, he could begin this Monday to get a jumpstart if he didn’t mind commuting.
+
+
+So…that’s what we’ll do.
+
+
+He pulled out his tablet while he waited for a bus and studied his new schedule. If he did everything that the school required, he would be busy. If he did everything that they strongly recommended, he was going to have about two hours of free time at night, meal times, and weekends to himself. And that was it.
+
+
+They said I could skip the study hours if my grades were good.
+
+
+That was almost two hours a day, but it was set aside for everyone to do their homework. So he wouldn’t know if he needed it or not until he actually got to class.
+
+
+“Hey! Do you want your shirt back?”
+
+
+Alden looked up from his tablet to see Jeffy had just strolled up to the bus stop. He was squinting in the late afternoon sunlight.
+
+
+He’s not going to strip right here is he?
+
+
+“You can keep it for now. Just give it back when it’s convenient.”
+
+
+Jeffy nodded.
+
+
+“I’m a Brute,” he said.
+
+
+“I assumed.”
+
+
+“Aquatic.”
+
+
+Wait, aquatic?
+
+
+“But that’s dumb, so I’m going to ignore as much of the water stuff as I can and put everything the System will let me into Strength.”
+
+
+“Uh…so, I haven’t looked into Brute subclasses a lot, but I think Aqua Brutes are cool. And all of the enviro ones are pretty uncommon. And you shouldn’t just give up on the idea before you even try to—”
+
+
+“Who wants to grow gills?” Jeffy said. “I only took it because the internet said high rank Aquas were shoe-ins for school. Thought it would make up for my grades. But now that I’m in, I’m going full building-puncher!”
+
+
+But there are so many building punchers, Alden thought, feeling exasperated in spite of himself.
+
+
+Maybe the instructors would be able to explain to Jeffy that being able to breathe underwater and endure pressure and temperature extremes was a good thing. Plus there was at least one high level Aqua Brute who could see in near total darkness.
+
+
+They boarded the bus. Right before it left, Maricel jogged toward the stop and climbed aboard. Winston blasted through the doors right behind her, his sunglasses swinging from the strap on his neck.
+
+
+It was standing room only, and they all ended up together, gripping the handrails near the front.
+
+
+“When I used to stand on buses, I had to focus on balancing,” Maricel noted. “Now it’s just easy. I don’t even have to think.”
+
+
+“Super perk!” shouted Winston. Then he grinned at Jeffy. “You got in, too, man. Way to go!”
+
+
+“You’re in intake?” Alden asked Jeffy. “You didn’t leave with us from the dorms, though.”
+
+
+He was obviously not a local. He had an accent that didn’t really sound like an accent at all to Alden, so he was American. But he would have remembered him if they’d met this morning. The mohawk was hard to miss.
+
+
+Jeffy nodded. “I tried to run.”
+
+
+Winston looked like he was holding back laughter.
+
+
+“Run?”
+
+
+“Yeah. From the dorms to Celena North. To show them I meant business.”
+
+
+“You…tried to run the entire width of F-city, the bridge, then most of Apex?” Alden didn’t know whether he ought to admire the ambition or despair at the stupidity of doing that the morning before your physical testing.
+
+
+“He left at one AM!” said Winston. “His roommates helped him sneak out.”
+
+
+“A police drone tried to stop me from running on the highway. But I didn’t know police drones were real, and it looked evil. So I swatted it away, and I wasn’t accepting messages through my interface because they would have distracted from my process, so they sent an actual cop after me.”
+
+
+What poor soul had been assigned to grab a teenage newbie who thought running on the street instead of using the plentiful sidewalks was a good idea?
+
+
+“She made me sit on the ground and read aloud all of the traffic rules in the U.S. to Anesidora legal guide.”
+
+
+Maricel looked like she was struggling not to laugh.
+
+
+“We are allowed to run on the roads if we go fast enough and get licensed for it,” Winston said. “That’s why you see people doing it sometimes. I'm going to--”
+
+
+With flawless timing, a boy running on the street passed the bus as it slowed to make its next stop.
+
+
+Winston’s face fell at the sight of the better speedster.
+
+
+“Awesome,” said Jeffy. “That’s what I wanted to do!”
+
+
+“Isn’t he one of our new classmates?” Maricel asked. “I think I recognize him.”
+
+
+“That’s Finlay,” said Alden. “From Scotland. He’s really nice. He beat me up in like two seconds.”
+
+
+They all stared after the speedster as he threw out a hand to signal a turn. Alden suspected they were each thinking the same thing—superhero school was going to be pretty different from everything they’d done before.
+ 
+
+
+*

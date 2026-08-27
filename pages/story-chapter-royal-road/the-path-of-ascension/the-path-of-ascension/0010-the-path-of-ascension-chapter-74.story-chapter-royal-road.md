@@ -1,0 +1,281 @@
+---
+id: eb6e1bf0-c7cb-5c27-8a2f-7624bba5f6f9
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 74"
+slug: 0010-the-path-of-ascension-chapter-74
+partOf: the-path-of-ascension
+position: 10
+ownLength: 4595
+unit: words
+ownProgress: 4595
+publishedAt: 2021-10-11
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/765238/the-path-of-ascension-chapter-74"
+royalRoadId: "765238"
+markedReadAt: "2026-06-29T19:17:44.688Z"
+---
+
+Chapter 74
+
+Matt carried a pouting Aster to the enchanter shop, and found that the building was spatially expanded to at least three times its normal size. It was so large he couldn’t see the opposite wall of the building, even though it should have only been a dozen feet away. It shouldn’t have surprised him, given it was a Tier 10 enchanters shop, but it seemed excessive.
+
+While he started walking towards the back to speak with a salesman, Matt got distracted by the rows of enchanted items. All of them were in protective glass, and some cases blocked his spiritual sense while others he could feel through. After scanning one of the items that was protected, his AI told him that it was a special item made by the owner of the shop.
+
+Matt didn’t know if that meant the proprietor designed the enchantment from scratch, or if they had just modified something existing, but it was interesting.
+
+The item in question was a flying hairpin that had an armor-piercing enchantment. The hairpin was displayed using a wigged mannequin head. It secured the hair in a bun, leaving the mannequin’s long neck exposed. With a sudden thought, Matt popped up and peered over the rows of shelving. He caught a glimpse of his redhead bobbing in and out of view two isles over, so he called out to Liz.
+
+“Hey, come look at this. I think you’d like it.”
+
+Liz meandered around on her way to the container and half nodded, and half shook her head.
+
+“They’re pretty, but it's not practical. I have armor on when we fight, which covers my head.”
+
+“I was thinking about when we aren’t preparing for a fight. I at least have my sword in a spatial ring. This would give you something to defend yourself with around the city or wherever we are.”
+
+Matt kept a straight face. The argument wasn't wrong, but it wasn't his primary motive. Liz typically kept her red hair in a long braid that fell to the side of her head. She rarely tied her hair up, which was a shame, because she had a long elegant neck that he couldn’t resist. Liz was a weapon in and of herself and didn’t need any further protection, but if she bought his excuse and got the hairpin, he'd get to enjoy the view of her seldom seen neck.
+
+Liz ran a finger over the glass, then started to play with her hair, raising it and spinning it into a bun before she shrugged.
+
+“Yeah, I can make it work. It’s not a bad idea. It just seems kind of expensive. It’s a Tier 7 mana stone for a Tier 6 item.”
+
+“I don’t see us advancing that quickly in the next few months, so it’s a good investment.”
+
+Matt didn’t say they weren’t lacking money, but they really weren’t. Now that they were Tier 6, it was no longer economical for them to delve Tier 5 rifts for growth items. However, they still had made more than most guilds could have earned in a comparable time. So, they were insanely wealthy for their Tier in both mana stones and contribution points.
+
+With a mental fist pump, Matt watched as Liz picked up the little slip by the glass container and slipped it into her hand cart.
+
+As they wandered the store together, Matt made a few mental notes for things to try and recreate. A bracelet that created a bubble that blocked rain while flying seemed easy enough, while also being useful, so he set his AI to research the design. With his extra mana regeneration of 80 MPS, he had mana to spare. He figured while he wasn’t fighting, it was a good way to stay productive.
+
+He reached the clerk, put on his best smile, and asked, “Hi, is the enchanter in?”
+
+The man seemed unimpressed and stared at Matt blankly for a moment before asking, “Why?”
+
+Not used to the curt attitude, Matt cocked an eyebrow but answered truthfully, “Well, your LocalNet listing said there was a Tier 10 enchanter here that was on The Path. I wanted to get his help and look over an enchantment for a weapon I bought.”
+
+“So you want a weapon enchanted,” the clerk replied in a bored, monotone voice. “Put it in the bin over there, and Kelley will get to it in the next few weeks. For an additional Tier 6 mana stone, you can be bumped up to a higher priority.”
+
+Seeing where the misunderstanding came from, Matt smiled at the man. “No. I need to enchant the weapon myself, but I want to see if there is anything else I can get out of the weapon, and possibly have the enchanter watch me lay the enchantment.”
+
+“So you want a lesson?”
+
+Seeing as how the man seemed incapable of understanding what he wanted, or at least didn’t care to, Matt just nodded. “Sure. When can I meet with him?”
+
+The man lazily swiped at the pad in front of him for what felt like a year and finally said, “He can do an hour lesson now for a Tier 7 mana stone. Standard disclaimer applies. He’ll teach you what he wants, no matter how much or little that is. Though he’ll target your wants or desires.”
+
+Just wanting to end this pointless discussion, Matt nodded and sent the payment over with his AI. He didn’t carry that much money on hand; they kept it stored in their team’s bank account for safety reasons.
+
+The clerk looked disinterested to the extreme as he led Matt back behind the counter and to a room with a metal banded wooden door. With a loud rap, he waited. When nothing happened, he started to pound and kick on the door until it opened abruptly.
+
+The clerk only said, “Lesson.” Before he walked away.
+
+The man, Kelley, Matt assumed, looked wild with his beard and hair spiking in every direction.
+
+“You here for a lesson?”
+
+“Not really, but that was the best way to get past your receptionist.”
+
+Kelley glared at the wall and growled, “Sorry, he’s my sister’s kid. So what do you want, if not a lesson?”
+
+Matt cut to the chase and summoned his weapon from its ring, holding it parallel to the ground so the enchanter could inspect it.
+
+“I have a growth sword that only I can enchant, but it’s got a few advantages.”
+
+He didn’t get any farther before the Tier 10 man snatched the weapon and turned back into his room, shouting, “Shut the door when you come in!”
+
+Matt did as he was told, sending Liz a message to keep her in the loop.
+
+Aster, who was still in his arms, stopped pouting and started sniffing around while still being held.
+
+The enchanter had his sword on a table with a light so bright, Matt had to squint. He pulled out his and Aster’s sunglasses to spare their eyes.
+
+Kelley hummed over his blade for a while, and without looking up, asked, “It’s a Tier higher than you? Is that intentional?”
+
+“Yeah, I can handle the physical weight, and I figured the spiritual weight isn’t a huge problem if I just keep the enchantments at my own Tier.”
+
+Kelley tapped at the blade then ran his finger down the flat, as if he was inspecting something through feel.
+
+“You can remove the enchantments, right? Hmm. Yeah, I can feel that. I can also feel that only its owner can do the work.”
+
+He looked up at Matt and shugged, “While this whole thing is interesting, what do you want?”
+
+“I have a blueprint here bought from the Empire Market, and wanted to get it inspected. It was done by a lower Tier enchanter than yourself. If I had known this city was going to be here, I wouldn’t have wasted the contribution points.”
+
+Kelley looked at Matt in a new light. “You already have access to the Empire Market? Huh, must be a seeker.”
+
+“Something like that, yeah. Can you help?”
+
+The Tier 10 glanced at a pile of armor and then firmly nodded. “As long as you aren’t total garbage at enchanting, I think I can walk you through the process. I have some scrap iron you can practice on. And I don’t want to work on that armor anymore, so you’re a useful distraction.”
+
+Kelley asked for the blueprint and inspected it, finally asking, “Can you afford these enchantments? They’re pretty standard, but this sword doesn’t have a slot for a mana stone like a crafted one would, so it’s unable to have its own reserves.”
+
+Matt carefully said, “Mana isn’t a problem for me. Act as if I had an unlimited supply of it for the purposes of the sword’s enhancements and skills.”
+
+That earned him another odd look, but the man was a part of The Path, so he knew that everyone had their own secrets. Matt didn’t expect him to ask anything more, but when he did, it was a question he hadn’t thought of.
+
+“When you say unlimited supply, do you mean as a stream? Or as a pool? I can do some interesting things depending on each answer.”
+
+“As a stream. Think regeneration, not capacity.”
+
+It was more than he wanted to share, but Matt was intrigued by the enchanter. Besides, he had already accepted that the man would get a pretty good guess of his Talent when he watched Matt enchant. It was a price he was willing to accept for his new sword, and he was ok with it since the enchanter was a Pather. Kelley wouldn’t be under any actual restriction, but Matt felt that anyone who made it to Tier 10 as a crafter would know how to keep their mouth shut.
+
+If he had to, Matt would ask Liz to throw her parents’ names around if Kelley tried to blackmail him.
+
+“Oh, that’s interesting. You want the standard runes for repair durability and sharpness. This has them all as major runes. I’d drop the repair one to a minor one and save the space.”
+
+Seeing Matt’s skeptical look, the enchanter explained, “All growth items can repair themselves to a degree. As long as they’re mostly intact, they can fix themselves. I’ve seen swords be shattered, then fix themselves with a little time and metal, if most of the pieces are gathered back up. The point is, we can free up some space and add either another rune or a skill. You have a second advantage with this being a growth item. It doesn’t need the rune to take in your personal mana, which gives us just enough room to fit something else.”
+
+The man pushed things around until he uncovered a pad of paper that served as a desk mat. Ripping off the top and stained sheet, he started sketching with a pencil he pulled from nowhere.
+
+Catching Matt’s puzzled look, the man smiled cheekily. “At Tier 10, you can handle a small, specially made spatial ring. If you know a Tier 30 enchanter, they can make a cubic foot of space into a ring if they’re good. But be prepared to pay out the ass in contribution points. The only reason they do it is so that lower Tiers buy things for them.”
+
+“Wait, what?”
+
+The man looked at Matt’s cores and asked, “Did you just Tier up?”
+
+“Yeah, why?”
+
+“Go and look at something at Tier 5 that you’ve seen the price of.”
+
+Matt checked his AI and found a growth item that he knew was seven thousand contribution points. He was shocked when he saw that the price had doubled in its value.
+
+“Why the fuck is it fourteen thousand contribution points?”
+
+Kelley grinned evilly at him. “When buying an item under your Tier in the Empire Market, you take a penalty to the cost. Double the price for the item for each Tier it is under your own. It prevents higher Tiers from monopolizing the market. But it also means that some things can get incredibly expensive for higher Tiers. At least for low Tier things, like growth items that only sell on the market. Most of the time, you can buy things with mana stones. But when you need a particular item, it can be worth it to offer services in exchange for an item, when dealing with a lower Tier person. I had to spend around forty thousand for a Tier 8 rare item to trade for this ring. Its original price was only ten thousand, but it was two Tiers lower than me. The Tier 30 who also wanted it would’ve had to spend almost one hundred sixty-eight billion contribution points.”
+
+Matt’s jaw dropped, “That’s an impossible number.”
+
+“Yeah, it’s absurd, but that’s why he traded for an item. This little beauty is worth around a hundred thousand contribution points, but no one makes them. They’re incredibly hard to make, and it needs a Tier 30 or higher. But who’s gonna spend that much for an item that they’ll only use for five Tiers at most? I was lucky to come across someone offering to make one in exchange for an item.”
+
+“What item was it?” Matt couldn’t think of something that would be so rare that it was worth the cost of a ring like this, and also interesting enough for a Tier 30 to buy.
+
+“A Tier 8 rift reward. That’s all I can say. The Tier 30 made it a condition of the deal. But don’t expect that to happen all the time. If it’s not unique, or so rare that it can’t be bought, good luck. A Tier 30 would rather spend mana stones than contribution points for something below their Tier. And most people would rather have the money, as you don’t get ten times more contribution points when selling to someone a Tier higher. The extra is just lost.”
+
+Matt wanted to slap himself for Tiering up. He had wanted to buy other things, and hadn’t seen it as an issue. But now, anything Tier 5 and below was incredibly expensive. He didn’t know what to do.
+
+“Fuck me. I didn’t know that. I would have bought some more shit while I was still Tier 5.”
+
+Kelley had gone back to sketching, but still answered him. “Eh. It’s not that big of a deal. Tier 5 is the lowest Tier that shit is really sold on the market, and that’s for growth items. After that, there’s a lull of shit sold, as most things aren’t so valuable that there isn’t a standard market. Most would rather get the mana stones anyway. Services dominate the market until Tier 14.”
+
+The man paused, “Well, Tier 10 has the special Concept bottles for sale, but they’re expensive. Although, if you’re on The Path at Tier 10 and don’t have your Concept, you probably don’t have enough contribution points.”
+
+Kelley tore off the sheet of paper he was drawing on and tossed it to the side, then continued. “Everyone on The Path gets access to the market at Tier 10. Tier 5 for crafters on The Path. It’s how I knew you were a seeker. They always get access early, which gives us crafters a market to buy from and sell to.”
+
+“Alright, look at this.” The enchanter held up a drawing of his swords with runes and formulas he only half understood, “If we made the suggestions I said earlier, we can either supercharge the runes to handle more mana by expanding them a little, or add something else. A fire enchantment is always popular.”
+
+Matt thought that over. He’d avoid fire out of respect for his fox, who was still watching everything with bright eyes. But the idea didn’t really resonate with him either. He was already adding [Mana Charge] and [Mana Slash] to his weapon. He’d rather increase their efficiency and double down on what he was good at.
+
+He could look to add another rune, and he had explored that option before. He still thought that expanding his sword was a lackluster ability, as the expansion was made from mana, not real metal. Adding an element to his attacks had its advantages, as it could enhance his overall damage output. If there was something that he wanted, it was a way to make things bleed more for Liz.
+
+But that wasn’t a standard rune in any database he had seen.
+
+“Can you give the blade a bleeding effect?”
+
+Kelley paused in his drawing for a heartbeat before shaking his head. “Nope. I know of a rune for it, but it’s at least Tier 20, as that was the weapon I saw with it. None of the databases I own have a bleed rune in them either.”
+
+“That’s what I expected. Can we make the two skills more efficient then?”
+
+“Maybe. But that would mean putting a higher Tier skill on it, then crippling the skill. It will be better than the Tier 6 skill pattern, since it would technically still be a Tier 7 skill. That’s only possible because the weapon is already Tier 7, by the way. But sure, we can manage.”
+
+“Let’s do that then.”
+
+With that, Kelley showed Matt a page with a drawing of his blade, along with the runes and their approximate locations. He was messaged with a much more detailed version of the design that showed the runes interacting in three dimensions.
+
+It was more complicated than anything he had done before by a mile.
+
+“I don’t know if I can do that.”
+
+Kelley looked surprised at that. “I thought you said you’ve enchanted before?”
+
+“Yeah, a few things that my AI created, but nothing this complicated.”
+
+“Can I see?”
+
+Matt didn’t see why not, so he sent the man a recording of his few tests, including his weapons enchanted from the golems’ fortress.
+
+“Huh. This is an interesting light rune. Tell me more about it?”
+
+They went off on a tangent about how AIs tested and tried to create their own runes.
+
+They became fully sidetracked once Kelley tried to quickly remake Matt's light rune.
+
+“It's not very efficient, but it's very simple. It also produces a bit more light than the one we use.”
+
+Matt's rune was lighting up the entire room in a blinding fashion. Even when Kelley threw a blanket over the rune, it still illuminated the surroundings.
+
+Kelley was an amazingly knowledgeable person, but Aster quickly grew bored of his talk, so Matt let her out and told Liz he would be here a while. They had already blown over the hour the lesson was supposed to last, and had no sign of slowing.
+
+He and Kelley talked about runes for another three hours, until they started testing Matt’s ability to enchant.
+
+Matt didn’t think he was that bad, but Kelley nearly laughed him out of his shop when he saw Matt’s mana control. It was embarrassing, as he had been working on it during their breaks. But apparently, he was woefully behind what a normal crafter at Tier 6 would have.
+
+It took five attempts on blanks for Kelley to allow him to try. The first two failed and destroyed the slab of metal, but the final three succeeded. The last two were even passable, according to Kelley.
+
+Matt was nervous when he enchanted his blade, and botched the first attempt almost immediately. Unlike the standard items, it didn’t fall apart when its spirit was damaged. Instead, the blade refused to allow him to modify its spirit until he fed it a few thousand mana. It was like watching a crack in a wall expand, but in reverse. The crack slowly closed and smoothed out. It was as if it never happened.
+
+In his second attempt, Matt finished the entire enchantment in a single go. It took nearly forty minutes, and almost 200,000 mana to enchant the blade. He half expected Kelley to say something about the absurd amount of mana directed into the blade, especially without tapping into the city's reserves. But the man pretended like nothing was amiss, which relieved Matt.
+
+When the weapon was finished, he squashed the idea of testing the skills, and settled for testing the runes. When they held mana, to his and Kelley’s satisfaction, he sent some mana into the skills, but just enough to see that the mana flowed through the proper channels. He let it dissipate instead of releasing the skills.
+
+Shaking the man’s hand, Matt asked, “What do I owe you for the enchantment work and help?”
+
+Kelley looked slightly insulted when he waved Matt off. “Don’t worry about it. It was a fun distraction, and I learned something new with that light rune, which is worth way more. Let’s just call it that Tier 7 mana stone my nephew charged you. Don’t be a stranger, though. When you want to talk shop, swing by or message me.”
+
+Matt smiled at the Tier 10 man. They had only known each other for a short time, but he felt as if he was friends with the man already.
+
+It wasn’t hard to agree, and he hurried to find Liz.
+
+To his dismay, she was across the city, and had just sat down for dinner with Aster.
+
+Giving up on joining them and telling them to enjoy themselves, he grabbed food at a food cart, and went back to their room in the Seven Suns building.
+
+Along the way, he was intercepted by Juni, who carried a bag with him. “Everyone is to wear Seven Sun colors apparently, so do you want a full suit made? Or get your armor colored?” Seeing Matt’s disinterest, he added, “We also have arm- or headbands.”
+
+That made the choice easy, but Juni looked disappointed with Matt’s decision.
+
+The gold and dark red armbands were simple enough, and seemed large enough to tie onto Aster’s armor as well. He wondered if he could get her to wear it as a headband, and laughed at the mental image.
+
+If he played his cards right, he figured she might even go for it. A little flattery worked wonders. Besides, he really did think she would look cute in it.
+
+He quickly changed before finding a training room to test out his new sword.
+
+***
+
+Matt stood with nearly four hundred other people in a field, across from an equal number of people from the Queendom.
+
+They weren’t here of their own free will, but because they had been called here as the counter neared zero.
+
+Matt was just happy he had enchanted his sword yesterday, and hadn’t decided to wait.
+
+This was an assembly called by the Empire’s army, and Colonel Throne was addressing everyone while he hovered ten feet above the crowd.
+
+“Today is the day that the Queendom’s main force is entering the planet, which nearly coincides with the first wave of Pathers. There will be five waves of Pathers joining us from across the Empire. It takes time to travel that distance, but we will have everyone here in the next three months. There will be about fifteen million Pathers joining us here over that time. But since the war is starting when the queendom breaks into real space, I want to cover a few things.”
+
+Matt tried to listen to the man, but something was nagging him. There was a resonance with his Concept as the man stood there and hovered over everyone.
+
+His musing was interrupted as the Tier 33 continued. “As this is intended for training and not actual bloodshed, my soldiers will be pulling people out of combat. We will be assisted by a second planetary level AI that will be linking with your own AIs. We will only be reacting to the information about whether or not you can survive any attack. If you wish to keep something hidden, feel free to restrict your AI. But don’t bitch to me when you get pulled out because of an attack you think you would have survived. I. Don’t. Care.”
+
+There was a murmuring at that, and while the Colonel let the crowd buzz, he felt something at the man’s feet. It seemed close to his Concept, so he used his own to probe the area. It caused the Tier 33 to immediately glance at him. He was afraid he pissed the man off, but he got a grin instead. Suddenly, what the Colonel was actually doing became more clear to his spiritual senses.
+
+The man was using his Concept to harden the air, so he floated. It felt like a standard ability that all Concepts could do, much like how monsters could lock down fighters in a rift, if they had general Concepts.
+
+Matt flexed his own Concept, but instead of willing mana regeneration to those around him or repulsing objects, he willed the air to harden in front of him. He tapped it with a finger and felt a slight resistance, before what felt like a plane of glass broke, and his hand went through it.
+
+He looked up to see the Colonel nod at him as he continued speaking. “This is a game meant to sharpen the weapons that you will become. To that end, you will earn points like in any real war. However, unlike in a real war, if you sacrifice all your accumulated war points, you will be able to buy back your ‘life’, and rejoin the fighting.”
+
+Throne held up a hand and said, “You may choose to not rejoin the game, and cash out your points, but know this. If you’re dead, you can’t spend your points unless you cash out. However, you can spend your points as you wish while you’re alive. Yes, that means you can spend your points right before a big battle. The Empire even encourages that. That comes with a second caveat as well. If you have zero points, you can’t rejoin the fighting. You need to give up at least one point to rejoin. For those on The Path, note that you can choose to leave the side you have chosen for the cost of twenty thousand points. Good luck to those that choose that route.”
+
+The man glanced to the sky. Following suit, the gathered crowd all witnessed ships ripping through space, as if they came from behind some hidden screen. Matt counted four different designs, but as he watched, hundreds, and then thousands of ships arced down to the clear area in front of the two buildings.
+
+Right in front of their two groups.
+
+“Those are our Pathers. Welcome them, try to recruit them, fight for your side for wealth and glory. Good luck.”
+
+Like that, the man vanished.
+
+Juni called out to everyone, “Alright. We have access to the ship's logs and have cross-checked them with the people arriving. We will highlight anyone who chose our side blue and anyone unchosen as green. Do your best to sway them to our side. The kingdom started with a number of contribution points to hand out, so anyone who brings someone over to one of the kingdom representatives will get one point. Anyone who directly recruits someone will be given ten points.”
+
+He turned away and moved into the mass of oncoming people.
+
+Matt just looked at Liz. “That looks like a pain. Want to skip this and go wait on the side?”
+
+She didn’t even wait for him to finish, already disappearing into the crowd.

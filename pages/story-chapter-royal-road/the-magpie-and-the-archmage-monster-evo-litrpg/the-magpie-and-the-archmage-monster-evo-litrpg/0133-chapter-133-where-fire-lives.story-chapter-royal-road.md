@@ -1,0 +1,161 @@
+---
+id: 7e29aa52-2491-5c7b-9cdc-119dee081c3a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 133 – Where Fire Lives"
+slug: 0133-chapter-133-where-fire-lives
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 133
+ownLength: 1934
+unit: words
+publishedAt: 2026-06-08
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3508276/chapter-133-where-fire-lives"
+royalRoadId: "3508276"
+---
+
+"No, no, no, and a thousand times no!" Cee flailed her front legs desperately on Liora's back while simultaneously shaking her head as much as she could.
+
+"No. Simply no. We are searching for a different place," Liora said, ready to turn around and fly back to Abylport. Even if it would take her half the day.
+
+You cannot! We are so close to breaking another layer of my seal. The fire mana node is right there!
+
+"Renir, I don't know if you noticed, but that's a freaking volcano over there!" Liora shouted.
+
+They had flown a great distance to find this little island far into the sea. Liora had been nervous returning over the vast waters, constantly gazing down to see whether there was an angry swarm of merpeople down there, eager to throw harpoons at her or something. But no such thing happened.
+
+Instead, she got to fly mindlessly for half a day while Cee watched around, looking for fire mana nodes. If it weren't for the map function, which Liora had unlocked, she likely wouldn't have risked flying out so far into the sea. It was disorienting the first time she dared to open it, as it appeared like a translucent map, similar to those in video games. However, she quickly learned to manage it and realized how actually neat it was.
+
+With the map, Liora could fly closer to the islands as they checked for mana nodes. They found more water nodes underwater and a few wind nodes high up in the sky. Out of pure frustration of finding an unoccupied wind node, Liora and Cee attempted to do the attunement ritual.
+
+But as it turned out, Liora wasn't made for hovering in the air. It would have been impossible to perform the ritual, which was a small consolation. Their efforts at the mage school weren't completely wasted.
+
+But a fire node appeared only once they had flown a considerable distance south.
+
+Unfortunately, for Liora and Cee, the island they had reached was a volcanic one. Not one of those old ones, either, that had vegetation growing right next to black volcanic ash. No, she could see magma flowing out of the volcano and lazily trickling down onto the soil and then further into the sea, where it made a horrible bubbling noise and turned into a hard, blackened form. The whole beach was made of igneous rocks and black sand.
+
+But that wasn't even the worst part. The worst part was that, for some reason, the island was filled with monsters. The most common seemed to be weird armadillo-like creatures with black, obsidian-like scales and glowing red eyes. These dog-sized weirdos gathered around the magma and were eating it.
+
+That's right. They were eating magma as if it were honey flowing down the mountain and not molten rock that should burn their faces off by coming too close. Yet somehow they were completely fine. Thriving in fact.
+
+The beach was littered with crab-like creatures who were rummaging through the volcanic sand, occasionally putting something into their mouths. Meanwhile, in the distance, among the rocks and cliffs that covered most of the island, Liora saw some bat-like creatures gliding about, catching large insects that looked like honeybees. If bees ate lava, that is.
+
+Yes, and the fire mana node is here somewhere.
+
+"It's actually one of those rocky outcroppings. Oh, is that a wyvern I see there? Yup, that is definitely a wyvern. Looks like it has made its nest right on the mana node," Liora said and turned herself around. "Nope. We're going home."
+
+"A w-w-wyvern?! Yeah, we're leaving. Good call, Liora," Cee said, spinning another layer of webbing to surround her cocoon with. As if that could protect her from the heat radiating from the island.
+
+No, no, no! We are so close… I need to break that seal!
+
+Then you go fight the damned wyvern. I like my feathers not burning, thank you very much!
+
+Liora…
+
+No!
+
+Liora!
+
+Stop making that whiny, miserable voice of a wounded puppy. No, is a no.
+
+But imagine… If we break another seal, we can go to one of my treasure troves. I think one of them isn't too far.
+
+This made Liora pause. One more attunement was required to charge the crystal. Then another piece of Renir's seal would be broken.
+
+Liora turned around and looked at the wyvern nest. The formidable creature, even at a distance, looked like it could swallow Liora whole. It was larger than the rock wyvern she encountered before and had patches of brightly glowing skin. It was, without a doubt, a higher tier than the rock wyvern.
+
+But she didn't really need to defeat the wyvern. All she needed was to get to the mana node in its nest and do the attunement ritual there. Ten minutes would be enough.
+
+"No, Liora, please, no. Whatever Renir promised you, I'll give you more," Cee begged. "I really hate fire, you know!"
+
+"You don't really own anything valuable," Liora noted.
+
+"What do you mean? I have the Bracelet of Four Elements and a Divine Glimmercore. Don't you want a Divine Glimmercore, Liora? I hear you can obtain the power to flood the planet," Cee said.
+
+"No, thanks. You can keep it. Perhaps you can use it to flood this island," Liora suggested.
+
+Cee squirmed. "Oh, come on! You said there's a wyvern over there. I bet it can breathe fire. Renir, can wyverns breathe fire?"
+
+I mean… it does look like a fire wyvern, and they are known to breathe fire…
+
+"Yes," Liora said. "Renir, I don't want to be a roast bird."
+
+Hear me out, you two. I have a plan.
+
+"He says he has a plan," Liora said.
+
+"I bet it involves you distracting the wyvern and me making the attunements in the meanwhile, doesn't it?" Cee said.
+
+"I don't like that plan. Is that your grand plan, Renir?" Liora prompted.
+
+I mean… You don't have to distract it for long.
+
+"You're right, Cee. That is his plan. You know what. Let's search someplace else," Liora said, ready to fly past the island.
+
+How about you evolve first?
+
+This made Liora pause.
+
+Evolve?
+
+Yes! You are only four levels away from evolution, and this is the prime place for farming experience. Look at all these monsters. Imagine the glimmerstones you can get from them.
+
+Liora, with her new fancy Guild features, could see that most creatures were actually around the same level as she was, around Level 35. Most were white in color, except for the bat-creatures and the wyvern. Bats were over level 40 and a yellow color. Likely a beatable opponent.
+
+The wyvern, however… It was level 52 and had a solid red color. There wasn't any chance that Cee and Liora could beat them. Especially when it could just safely roast them from afar.
+
+But if Liora were to evolve again, then keeping it occupied for ten minutes wouldn't be such a crazy thing to ask.
+
+"What is Renir bribing you with now?" Cee whined, her legs trembling fearfully.
+
+"What if… we evolved before we attempted this task. Plenty of weak things to fight around here," Liora noted.
+
+"They are all fire monsters. Besides, I still have ten levels to go until my next evolution. It would take way longer until I can evolve," Cee protested.
+
+"I only have four levels. Maybe, let's see what I evolve into. Perhaps, I can distract that wyvern for long enough for you to do the attunement ritual," Liora said, already dreaming of all the shinies she would get from Renir's treasure trove.
+
+"No… I don't want to fight fire monsters… NO!" Cee whined.
+
+But Liora's mind was made up. She was tired from all the flying anyway and needed rest. Not to mention that Liora truly was curious what she could evolve into next. An even larger bird? That sounded nice. There was nothing wrong with becoming a more powerful bird. Especially when she would always have the convenience of turning into her small magpie form.
+
+"You can always just play the supporter. Lay out some ice webs. I bet those crabs on the beach hate ice," Liora pointed out.
+
+Cee glanced at the crabs below, and Liora did a deliberate swoop to fly closer to them. They were definitely larger than normal crabs and had an obsidian black shell.
+
+These don't spit fire, do they?
+
+No. Obsidian crabs are merely resistant to it. Very weak to ice by the way. Just beware their pincers. They are sharp enough to cut stone with ease.
+
+"Renir confirms that the crabs do not spit fire and they are indeed weak to ice," Liora said.
+
+Cee grew thoughtful. "I wonder if they taste good. I always have some good crab meat."
+
+"OH! I also love crab. We should try catching them and cooking them over the magma. I snatched some salt from Abylport so we don't even have to eat them unsalted!" Liora cheered.
+
+"You're a genius. Let's eat the crabs!" Cee was looking much more enthusiastic now.
+
+Before they attacked any crabs, Liora and Cee found a secluded spot among the rocky outcropping and settled themselves for a quick nap. They woke up once the sun had already set.
+
+The island was far from dark during the night. The continuous flow of magma illuminated the nearby surroundings while covering the rest of the island with an eerie reddish glow. Liora imagined that this was likely what hell looked like. Dark and covered with rocks and lava.
+
+Most creatures seemed to have disappeared during the night, likely settling into some hidden nooks to sleep. But the crabs were still busy, picking up whatever it was that they found in the volcanic sand.
+
+"Okay, time for some crab breakfast!" Cee said eagerly. "By the way, this doesn't mean that I'm okay with this crazy plan of yours. Training here is alright… I mean, I would prefer non-fire creatures, but their levels aren't too high, so that's fine. But unless your evolution is something super awesome that can match up to that wyvern, I still don't agree with this whole crazy plan."
+
+"Hey, I agree. As I am now, I have no intentions of taking on a fire-breathing flying creature. The only advantage I have is being able to swim, but frankly, I'm not too eager to dive into water."
+
+"Yeah, I don't want to meet any more merfolk. You think they are mad about what we did?" Cee asked.
+
+"I bet they are hella mad," Liora nodded. "But let's not think about that. We have crabs to catch."
+
+Liora flew above the crustaceans, hidden completely from sight thanks to her Shadow Glide trait. Cee, in the meanwhile, wove webs made out of ice. Once she had a large enough web ready, they chose a target crab, and they dropped the web right on top of it.
+
+The crab screeched fiercely, clearly hating the cold feeling on its shell. Liora was about to swoop down and Rend it with her talons when all of a sudden the crab cut the web loose with its pincers. Then the crab made a horrible, metallic-like screech that reverberated through the whole beach.
+
+"This feels familiar…" Liora noted.
+
+Liora, fly up! These guys…
+
+Renir didn't get to finish the thought as all of the crabs suddenly clustered together, screeching shrilly while froth bubbled at their mouths. Liora hurriedly flew up as a jet of boiling water flew right past her.
+
+…spew boiling water.
+
+Goddammit, Renir! Tell me these things before the fight begins.

@@ -1,0 +1,113 @@
+---
+id: 53ce0d4f-95cd-5272-ba14-e9902b0ab87c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 159 - Purge"
+slug: 0161-chapter-159-purge
+partOf: savage-divinity
+position: 161
+ownLength: 3253
+unit: words
+publishedAt: 2017-01-09
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/111728/chapter-159-purge"
+royalRoadId: "111728"
+---
+
+Moving into the clearing, Ravil's stomach writhed as he surveyed the death and carnage. Bloodshed was one thing, but this was sick. Bodily fluids from at least a half-dozen villagers were scattered about, like a grisly painting plucked from a mind drowning in madness. A ring of intact heads sat in a neat row, all facing the smouldering fire pit, a morbid audience to a repulsive meal, their faces forever twisted in fear and agony.
+
+Fucking Defiled, the Father take them all in blood and fire.
+
+This was nothing like the streets of Shen Huo, where death was cruel but quick. A knife to the ribs or club to the head ended things in an instant, no fuss and minimal mess. Not the Defiled, no they liked to make their kills suffer even after death, desecrating corpses in unspeakable ways and putting on a show for their own depraved amusements. Signalling to the others, Ravil swallowed his rage and disgust and made his way across the field, bow in hand and nerves drawn tight as he surveyed the area for signs of danger, survivors, and the boss,
+
+This was no time to be sick, throwing up would have to wait.
+
+Motioning for his men to spread out, he moved towards Lei Gong, the old bastard sitting in the grass with his cane across his knees. A sorry sight, more so than usual at least, his eyes were closed in concentration as he healed himself, the bright red skin around his face visibly swelling into fluid-filled blisters. Several fist-sized clumps of hair were missing from his head and beard, the skin on his hands blackened and burnt. His clothes hung in charred tatters and his chest and abdomen bore several neat slashes, perfectly spaced and gushing with dark, infected blood. Seeing him like this made it difficult to remember Lei Gong was a former Lieutenant Colonel and not a diseased, filthy beggar.
+
+Swallowing hard, Ravil whispered, “The Mother above, what happened here?”
+
+He almost jumped out of his leggings when Lei Gong cracked open his eyes and spoke. “Took ye long enough, what'd you do, stroll all the way here? Found meself a Demon I did, a fresh one. Felt it turn and came running, smacked it around until some shit-stain Defiled started flinging fire around like a monkey flings shit. I'm guessing they both came from the village up north, where the stink originated. Didn't see any others, but that doesn't mean they aren't around, remember those tracks?” Wincing in pain, he gestured behind Ravil with his chin. “If not fer Officer Falling Rain over there pulling my ass out of the fire, I’d have been done in, no shame in admitting it. Distracted the Defiled bastard long enough for me to send em both running fer the hills. It cost me something though, take care they don’t circle around to finish the job.”
+
+Resisting the urge to rush over and check on the boss, Ravil arched a brow and pursed his lips, pretending to care about the old bastard’s injuries. “You going to live?” Easiest for all if he died heroically, with songs sung about his last stand against a fearsome Demon. “Need me to send you along, quick and painless?”
+
+“Ha, don’t sound so heartbroken, ye” -- cough, cough -- “black-hearted rogue, I’ve suffered worse injuries in whorehouses. This ain’t nothing serious.” Wiping the blood dribbling from his chin, Lei Gong smiled and wiggled his bushy-white eyebrows, now with singed tips. “Ye'll have to alert the army, the Demon’ll be a tricksy one if given time to grow, incredible speed and...” Touching his chest, he waved the unhealthy-looking fluids for Ravil to see. “Poison from the look of things.”
+
+Damned if he wasn’t starting to respect the tough old whore-son. “So what now?” Casually glancing away, Ravil scanned the area, almost overlooking the boss before a familiar shield caught his eye. Even then, the sallow skin and near skeletal frame wrapped in peasant clothing made the boss nearly unrecognizable. Mother help him, please be alive.
+
+Snorting, Lei Gong settled back into his seated posture. “I stop holding yer hand and go back to treating my injuries. Yer a big boy, ye know what to do. Don’t let Falling Rain leave before I’ve had a word with him, knock him out if ye have to. They call him ‘undying’, so I expect he’ll survive a love tap or two, haha.”
+
+After making sure the old bastard’s eyes were closed, Ravil rushed over to the boss in a panic to check for breath. Feeling the warm air brush his palm, he let out a relieved sigh, shoulders sagging as he thanked the Mother out of habit. Mother this and Mother that, he sounded like one of those Mother lovers who bought into the whole Militia ideal, always prattling on about Her glories.
+
+Still, only the boss could fall asleep after a life and death struggle, treating it like any other day. Hell, pallid appearance aside, he seemed in better shape than Lei Gong, with only a gut wound which had already sealed, the boss's famed healing skills hard at work. Glancing around at the staring Sentinels and bandits, he fixed them with his fiercest glare. “What’re you all gaping at? Bug-eyed, fish-mouth, witless idiots, didn't you hear? There's a Demon running loose. Secure the area, set camp and keep your eyes open. I want two squads on sentry duty at all times in staggered shifts, the rest of you cover up those bodies, the jattuya’s are already circling. We’ll give these poor bastards a proper send off after things are settled. You, go fetch the horse and bear cubs.”
+
+Taking up position in front of the boss, Ravil twirled an arrow in hand and stared at the healing Lei Gong, contemplating filling the former Lieutenant Colonel full of arrow holes. With all his poking around, the crafty bastard already knew too much and this was the perfect opportunity to silence him. Still, it seemed a poor end to a man who just fought a Demon, and the boss might get upset if Ravil wasted his efforts in saving the old beggar. Putting the arrow back in his quiver, Ravil did what he always did when faced with tough decisions: he left it for someone else to deal with.
+
+If the boss wanted Lei Gong killed, then he only needed to say the word and Ravil would put an arrow right between the old bastard's eyes.
+
+After a half hour, the runner returned with the Boss’s pets and Ravil dumped the furballs out next to the boss, lowering them to the dirt still inside the saddlebags. Cuddly as they seemed, they were still bears and he was certain they’d bite if given a target. Regenerating his eyes had felt like having hot coals inserted into his skull, and he was in no rush to experience what regenerating a hand was like.
+
+After a little careful prodding to get them out of the bags, the quivering cubs quickly found their bearings. Letting out pitiful cries, they charged into the boss’s limp arms, pressing their noses against his skin as they pawed at him. The heartfelt reunion reminded Ravil of his quin Jinx, and he once again wished he hadn’t left her behind with Rustram. A sweet animal, dumb as a bag of rocks, but she always chittered happily when he stroked her thick fur. It couldn’t be helped, the quins were too distinguishable for work in the shadows. Still, it wasn’t all bad, she’d be happy with the other quins, getting fat and frolicking about. The beast had probably forgotten all about him by now, happy as a kid in a candy store.
+
+An irritated groan snapped Ravil out of his revelry as the boss propped himself up to pet the cubs, casually scanning his surroundings. “Argh, cold noses! You guys are lucky you’re cute, or I’d fatten you up for eating. Dammit, I’m gonna go broke feeding you little trashcans, aren’t I?” Playing the fool, he shot Ravil a puzzled glance, silently asking if it was safe to speak openly. Shaking his head ever so slightly, Ravil motioned towards Lei Gong, unsure if the tricky old bastard was still listening. Catching on, the boss nodded sagely and spoke in a loud, stilted voice, “Hello, stranger. Are you an Ascendant?”
+
+Talented in so many areas, the boss could be forgiven for being a terrible actor. “No, I’m Ravil, of the Mother’s Militia. I’m here with Lei Gong though.”
+
+“I’m Falling Rain. Err... nice to meet you.” An awkward silence filled the air as they both struggled for words, trying to communicate in the open without giving themselves away. The boss went back to scanning his surroundings, frowning as he studied the old bastard. “Why’s his blood black?”
+
+“Demon was poisonous, he says he’ll be fine.”
+
+“Weird, it didn’t poison me...” Putting aside the bear cubs, the boss stood and brushed himself off, barely able to hold his head up as he ambled towards the old bastard. Almost falling to his hands and knees, he carefully inspected the cuts, gingerly moving aside the shreds of cloth for a better look. “Damn, it’s not poison, something’s eating away at his flesh. Caustic claws and mind fuckery, Demons are just full of fun surprises.” Turning back to Ravil, he cocked his head. “Anyway, let’s go for a walk, I think --”
+
+Without warning, the old bastard’s hands snapped up and clinched the boss, pulling him into a deadly embrace. Ravil’s bow snapped up, arrow ready to fire as Lei Gong’s cane pressed against the boss’s throat. “Release him.” The Sentinels took their cue from Ravil, surrounded the old bastard with bows at the ready.
+
+“Ha, I knew it, the Mother’s Militia is in cahoots with the Bekhai. Yer reaction proves as much.” Grinning wildly as he hid behind the boss, Lei Gong’s eyes were wide with glee as Ravil cursed his own stupidity. “It’s those bears, ye figured they were his, that's why ye were so eager to follow the horse’s trail. Finally! Ain't nothin' more irritating than a half-solved puzzle. My money was on the fox brat Yuzhen, so I tried to leave it be, no harm no foul after all. Couldn't walk away though, not knowing for sure bothered me something fierce.” Grinning through the pain, Lei Gong chuckled quietly in admiration at the boss. “Clever little runt. Brave too, didn’t even blink when I introduced meself, just laid down to sleep without so much as a ‘how ye do’. Don't scare easily, do ye?”
+
+The boss gasped out a reply as he clutched at the cane. “Not true. Your stench terrifies me.”
+
+Ravil’s chest swelled with pride. Even helpless in his enemy’s grasp, the boss gave no face. “You’re surrounded. I’ve twenty men with arrows trained on you. Release him now.” Well, eight Sentinels at the moment, the former bandits slow to react.
+
+Hearing his words, they reached for their bows only to freeze in place before their arrows were drawn. Dropping their weapons, the former bandits and Sentinels collectively gasped in fear as they shivered uncontrollably. An intimidating presence settled on Ravil, crushing him beneath its weight, his arms trembling as he fought to keep still.
+
+Smirking, Lei Gong shook his head. “Now Ravil, someone as savvy as you should realize that numbers mean little against an expert with Aura. Be a good lad and put yer bow down while I have a little chat with the Officer here. Damn me, but yer tough as nails. Thought it’d be hours before you woke, what with yer gut wound and all. Guess they don’t call you ‘undying’ fer nothing. You prepared to speak terms?”
+
+Coughing behind the cane, the boss gasped, “Ready.” Grimacing in distaste, Ravil lowered his bow, pausing as a soothing sensation enveloped him, like washing his face in cold spring water. All his fears and doubts were pushed aside as his body staggered under it’s newfound freedom. The boss spoke once more. “Aim.” Ravil’s bow snapped back up and trained on the old bastard’s balding crown as all around him, the others raised their bows as well, still shivering, but in control of their actions and focused on the task at hand, waiting for the command to loose.
+
+Silence reigned as Lei Gong took in the situation, his mouth opening and closing as he peered around, disbelieving his eyes. “By the Mother’s Wet Cunt... Condensing an Aura so young, this old man has seen it all. New waves overtaking the old... Ha...” Shaking his head, Lei Gong sighed. “I wanted some company on the long walk into the Mother’s embrace, but it’d be damn shame for one so talented to die young.” Releasing the boss, Lei Gong slumped in place, no longer an imposing, wild warrior, every bit a tired old man waiting for death. “Least I’ll be spared from watching the Purge, I don’t think I’ve the stomach for it anymore.”
+
+Ravil nearly loosed his arrow before the boss’s upraised hand stopped him. “Hold,” he gasped, coughing in fits as he struggled to stand. “Lower your weapons. Keep healing yourself, old man... Buy me a few hours... can neutralize the Demonic corrosion... save your life.”
+
+Shaking his head, Lei Gong sighed and laid down, unable to sit upright any longer. “Maybe ye can, maybe ye can’t, but it don’t matter. Ye won’t let me walk away, I know too much. My curiosity cost me much this time, but better to die free than live out my remaining days as a slave.”
+
+A wheezing laugh escaped the boss’s mouth as he massaged his throat, and Ravil worried the lack of air had made him loopy. “I said the same thing once. It really does sound idiotic from this end. No need for a slave's oath, I don’t want a stinky old man serving me. Make an oath of secrecy. You keep your mouth shut regarding my ties to the Mother’s Militia and all our activities, and I’ll let you walk away, hale and healthy as can be. Maybe. You still might die if I can’t find the right herbs, so no promises.”
+
+Without waiting for an answer, the boss staggered away towards the forest. Directing a Sentinel to ready the horse and pack the boss’s bears, Ravil hurried to the boss’s side. Supporting him as he walked, Ravil whispered quietly, “Are you sure about this? There’s no guarantee the old bastard won’t speak, and this is our best chance.”
+
+“I’m never sure of anything, but there’s been enough death today. He saved my life, so I should try to save his, it’s only right. Besides, he’s not going anywhere, not until he’s treated at least. I need to find some--” Stopping in his tracks, the boss stared down at the body of a village girl.
+
+A damn shame, she was a pretty young thing in life, but at least she was spared torture, her body whole and intact. Sensing the boss’s anguish, Ravil spoke without thinking. “You were close?”
+
+“Sort of.” The boss knelt down and clasped her hand. “Her name is Ai Qing. She saved my life. Dragged me out of the lake, fed me, washed me, and cared for me for weeks while I recovered. A kind soul, her hard work earned her nothing but misery, scorned by her fellow villagers, and an early death alone in the woods.”
+
+The silence sat heavily on Ravil as he watched, uncomfortable seeing this side of the boss. A soft-hearted fool willing to fight for the dignity of cripples, a man who risked everything to help a group of strangers, and though Ravil was grateful, he worried for the boss. Good men often died young, for causes not their own.
+
+After an awkward pause, Ravil cleared his throat and mumbled his condolences. “She did the Empire a great service.”
+
+“Ha. You think that’s what went through her mind while she lay dying? I doubt it. Her last thoughts were probably filled with regret, cursing having ever met me.”
+
+“...Boss, it’s not your fault she died, and she’s just... err...”
+
+Smiling sadly, the boss looked at Ravil and shook his head. “And she’s just a village girl, right? A good trade, her life for mine, a nobody for a ‘Hero of the Empire’... Bullshit. I’ve probably had more near death experiences than she has years of life, she had better odds of making it to eighty years old than I do. All she wanted was to see the world. She dreamt of becoming an herbalist or physician, so who knows, what if she was only a few years from discovering a new, life changing treatment? Maybe that old man was supposed to be the next great philosopher, or that skull belonged to a brilliant musician, or someone here was supposed to give birth to a hero of destiny... So much potential lost, you should understand this best. A year ago, you couldn’t even hold a bow properly, half a year ago you were ready to give up and die in obscurity, and look at you now. How is my life more valuable than any person here? Why was I brought...” Sighing as he stood, the boss grimaced and stalked over to his waiting horse and cubs. “Sorry, I’m just having an existential crisis. Don’t worry about it.”
+
+Grabbing the horse’s reins, Ravil struggled to order his thoughts. Clearing his throat, he looked up and spoke his mind. “Boss, I’m just a street rat and don’t know much. I’m not gonna say everything is as the Mother wills it, because I think that's a load of crap, always have. I make my own decisions, and though Fate may shit all over me in the end, they were my choices. It’s the same for her, she made the choice to save you, and I’m thankful for her sacrifice. Given the chance, I’d make the same trade she did, my life for yours. You’re the best man I know, and I owe you more than I can repay in ten lifetimes.” Shrugging sheepishly, he added, “Course, it don’t mean much coming from me, I don’t know many good men, but the others all feel the same.”
+
+After a long pause, the boss leaned over to pat him on the shoulder, smiling sadly. “Thank you. It actually means a lot coming from you, I thought you still hated me. I don't need any martyrs though, what I need is living soldiers. It takes too much time and money to train new ones.” Clapping himself on both cheeks, the boss turned the horse east. “Alright, enough sappy bullshit, let’s go save the Lord of Thunder.”
+
+Chuckling beneath his breath, Ravil followed behind at an easy run. Just saving the Lord of Thunder, nothing too impressive here.
+
+It was great having the boss back.
+
+“So Ravil, what’d I miss while I was gone? And what was Lei Gong talking about when he mentioned a purge? Am I misunderstanding, or was he worried I was gonna throw up on him?”
+
+Almost missing a step, Ravil goggled at the boss. No matter how many times it was brought up, he kept forgetting the boss’s greatest weakness: an utter lack of common sense.
+
+The boss wasn't going to like this. If a few dead villagers was enough for an existential crisis, how was he going to react to a full-blown Purge?
+
+Chapter Meme

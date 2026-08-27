@@ -1,0 +1,187 @@
+---
+id: f3688f18-71b4-5959-86ba-a0521e3aeaa8
+page-type-slug: story-chapter-royal-road
+title: "105 Betrayal"
+slug: 0063-105-betrayal
+partOf: the-new-world
+position: 63
+ownLength: 3122
+unit: words
+ownProgress: 3122
+publishedAt: 2018-03-22
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/202853/105-betrayal"
+royalRoadId: "202853"
+markedReadAt: "2026-06-29T21:23:00.365Z"
+---
+
+Elijah shoved the ball of energy towards my neck. My armor ripped open, a mouth full of teeth biting his hand. The energy ball went into my dimensional storage while I reared back my right leg. With my armor being separate from the face on my skin, I could still speak.
+
+“More than it takes to break you.”
+
+I lifted my right leg, kneeing up towards Elijah’s stomach. Right before it landed, I created the same telekinetic pads and gravity vortexes that I do for my fists. My knee bounced off the pad, launching a telekinetic bolt into Elijah’s stomach. He keeled over, his wing releasing me as blood splattered onto the ground.
+
+I gripped the ground with telekinesis, letting me get my footing even while floating. I stepped forwards, snapping a hook into Elijah’s jaw. My fist snapped back just short of his chin, cracking a wave of kinetic force into his face. His head whiplashed, before I stepped forwards with a right hook. The crater beneath us deepened at the impact.
+
+I whipped another hook into his jaw. Spit, teeth, and blood spurted from his mouth, his face shaking back and forth. He reached out towards me, but I took a step backwards. I was just short of his grabbing arms. As he pulled them back, I stepped forwards. I rotated on my heels, launching another hook into his right side with my left hand.
+
+His ribs cracked as my left hand bounced backwards. I pulled the fist back, letting me turn all that momentum into my right hand. A monstrous right hook collided with Elijah’s face, the dull pop of breaking bone ebbing out. He was in my domain, fighting with my rules. Like this, he didn’t stand a chance.
+
+Learning that after only a few seconds, Elijah snapped his fingers. The light surrounding us waned, making him fall down. Before he landed on the ground, he waved his wings. The gust of wind was overwhelming, like withstanding a tornado’s wind.
+
+It pushed me back, my telekinetic footing unstable. I fell towards the ground as he flew up. With my back on the dirt, he passed above me. As he passed the crater we created with our battle, Hod and Althea struck at his wings. Their simultaneous attack made him fumble mid flight. He fumbled in the air before crashing down onto the ground again.
+
+I sunk into the earth, burrowing my way up to where he landed. I shot out of the ground, my fist connecting with the back of his spine. Fissures formed around me as the pressure of my attack pushed into the ground. Giant slabs of hardened dirt cracked upwards, sending Elijah up off the ground.
+
+Before he landed, Althea fired two bolts into his wings. Both shots connected, causing the wing to fall off of him. I stepped forwards, pulling my fist close. As I turned on my feet, I extended my footing with telekinesis. I let my arm hang wide as I dragged my arm over my head.
+
+As the blow closed in on Elijah’s gut, I pulled the fist in with all my strength. The overhand right tightened, turning into a compact punch that struck like a cannon. My arm bounced back, Force of Nature letting me weave in gravity and telekinesis with ease.
+
+Elijah received the full brunt of the strike, his body propelled backwards. He shot into the dirt with an earth-shattering shockwave and sound. From inside the freshly made crater, I turned around, lunging towards his falling wing. I caught it, hugging it against me before the wing landed on the ground.
+
+I landed by rolling on the ground before sinking my teeth into the piece of Elijah. I jumped up, the ground moving under my feet like I was in a car. Elijah stood from the attack already, blood pouring from his wounds. Althea and Hod did another synchronized strike. This time, Elijah was ready.
+
+He ducked down, sacrificing his last remaining feathered wing. Hod and Althea severed it, but Elijah grabbed Hod’s face mask. With ease, Elijah pulled him up as I dashed towards him. Elijah stomped the ground, fractures crawling outwards. From these fractures, fire crept out and a portal of lava opened beneath him.
+
+Before I could reach him, Elijah shoved Hod into the portal. I reached out with my gravity magic, creating a vortex that pulled up from where Hod was. The lava floated upwards, like a waterfall of magma. Hod fell up too. Before the red hot liquid touched him, an idea clicked in my head.
+
+When I used gravity, I pulled the fabric of reality in, condensing it over a single point. I would close my hand, closing the force in. Instead of crushing it down, I opened up my hand, stretching the reality around Hod. I held it there before discharging my rune. The effect stamped onto him, lingering.
+
+Skill learned! Anti-Gravity Manipulation - Just as there is a force that pulls all objects together, there exists a force that repulses all matter as well. You have found it. +1% to ease of Anti-Gravity Manipulation. +1% to power of Anti-Gravity Manipulation.
+
+I finished this in a moment. The lava that was falling up towards him now fell away from him, like he was repulsing it with nothing. The notification passed by the corner of my vision, unnoticed.
+
+Elijah overcame the force, holding onto Hod as he pushed him into the pit of lava. Hod submerged. The cracks dissipated over a second, the portal closing in an instant. Elijah grinned,
+
+“One of your friend for one of mine.”
+
+Althea landed after her dash, her feet dragging across the ground. With a dagger in her left hand and a cannon as her right arm, she fired bolts at Elijah. They drilled through the air as I charged towards the fallen seraph. As I reached him, his amputated wing flexed.
+
+As it did, feathers harder than steel shot towards my eyes and neck. I covered my face by crossing my arms before Elijah slammed his fist into my unprotected stomach. The force of the blow dented my armor, keeling me over as he raised a hand. Energy coalesced into his palm before he struck down at my head.
+
+The white energy burned like a wildfire, disintegrating my skull. A moment later, it detonated, a wave of force blowing me backwards. It was like swallowing a grenade. I tumbled through the air, half my vision missing. I flopped against the ground before pushing myself up.
+
+My silver blood gushed from my face, drenching the ground beneath me. The nerves in my head and body fired off, like I was coated in flames. Pins and needles spread out over my entire back and legs. My arms felt weak. A puddle of my blood formed beneath me. Like staring at a mirror, I stared into the puddle, seeing a reflection of myself.
+
+A portion of my head was missing. The upper left part, including the eye socket, was just gone. A portion of my brain was exposed, some of it missing. Tendrils of my armor criss crossed around in the meat of it, reinforcing it from damage. It was disgusting and the sense of violation was palpable.
+
+Deep in my head, the cool breeze around me brushed against it. It was like putting an ice into your nose and holding it there. My hand shook as I touched where my skull should be. When my fingers passed where they would normally stop, it made the injury real.
+
+The bones over the injury regenerated, my silver blood coming together to form skin. I shivered as my injury healed over the next twenty seconds. The entire time, I was paralyzed from my waist down. There was a mental paralyzation too though. Seeing something like that and knowing it’s yourself...It’s haunting.
+
+Once my head regenerated, my eye did the same. Strands of my armor molded through it, making the organ from something soft into something hard. Feeling returned to my legs and belly. As my helmet regenerated over the skin and hair of my new face, I glanced up.
+
+Elijah had created another tornado, this time with his arm. It already caught Althea, whipping her through the air before slamming her into the ground. A crater formed underneath her as a pillar of blood formed from her mouth. Elijah leapt into the air, stomping towards her.
+
+I stood up, but my legs weren’t working right. I watched as he fell towards her. Althea rolled over, leaping away from Elijah. A tectonic explosion of energy radiated out, sending out a shockwave. A cloud of dust billowed out a moment after.
+
+Althea landed onto the ground before Elijah dashed out of the cloud towards her. Althea looked at me while I reached out an arm towards her. Relief spread out over her face before she turned to Elijah. She morphered her arms, sheathing her dagger and placing the rifle along her back.
+
+Elijah reached her as she morphed her arms. They were enormous clubs as Elijah laughed,
+
+“Does the little girl believe she can harm a seraph? I doubt-”
+
+Althea’s right fist collided with his face, his bones cracking out with a satisfying pop. Before Elijah was sent flying away, Althea grabbed his leg with her other arm.
+
+“I know.”
+
+She slammed him back and forth, tossing him like a ragdoll.
+
+“That I can.”
+
+Viens crept up her face as she increased her eyebrows. She flashed her teeth, rage contorting her beautiful face.
+
+“Beat the shit out of you.”
+
+She formed craters as Elijah’s body was pulverized against the ground. She threw him towards an unharmed portion of the world tree’s root. She dashed towards him, slamming her fist into his gut. His blood spurted onto her, but she ignored it entirely. She howled, rearing back her fists and pummeling Elijah’s face.
+
+The bones in her arms broke and the skin on her hands tore. Her assault ceased after a final blow that beat Elijah through the enormous root of the world tree. Elijah dashed back towards her, Althea side stepped his dash. She rolled across the ground. My legs started working again, finally.
+
+I stood up, stumbling forward before I got back my footing. I charged my runes before dashing towards Elijah with an explosive burst. Elijah was laughing at Althea, chasing her as she ran away.
+
+“So the little girl breaks her arms before she can even kill me then? Pathe-”
+
+I dashed into him, slamming him into the ground. We rolled on the ground before he kicked me off of him. I flopped through the air before landing on my feet. I dug my arms and feet into the ground, slowing down my drag backwards. Elijah stood up, sweat falling from his forehead.
+
+Wounds covered him, along with his tattered white robe. Splotches of red soaked it from head to toe. Four stubs gushed blood from his back from his severed wings. He heaved his breaths,
+
+“Neither of you can kill me. I’ve been blessed by his holiness.”
+
+He tore of his robe, revealing eldritch runes littering his body. I reached him, slamming my fist into his gut. He grinned at me, blood leaking from between his teeth,
+
+“It doesn’t matter.”
+
+I slammed a hook into his face. Two of his molars were sent out of his mouth.
+
+“His gifts will save me.”
+
+I slammed three consecutive hooks into his side before whipping another hook up into his jaw, all with the same arm.
+
+“And they will destroy you.”
+
+Just like with Dakhma, the eldritch runes glowed. They didn't shine red. They shined a bright white, like Elijah's light magic. I didn’t let him complete the ritual. Legions of the named ones sprinted towards us. During the fight, the shockwaves of our strikes kept blowing them away.
+
+Now that we were finally standing still, they caught up.
+
+Elijah smirked, “They will buy me the time I need.”
+
+I slammed hook after hook into his stomach, turning his bones to mush. My fists punched holes through his robe, waves of kinetic energy bursting out from the back of Elijah. As the named ones fell into range, I extended Event Horizon out. As they ran into the aura, a surge of power flooded my system.
+
+Elijah slammed a fist across my cheek, rupturing the metal of my face. I grinned at him as it healed, the wounds snapping back into place. I laughed at him, my armor grinning and laughing with me. Elijah’s smirk turned into a frown as each of my strikes increased in power.
+
+Every hook was empowered by my overcharged runes. I slugged at him, keeping us pinned with an enormous gravitational vortex beneath us. I powered it with the named one’s life force. My quick, compact punches turned into a slugging fest as I hit on Elijah like a punching bag.
+
+He attempted fighting back, but I twisted, contorted, and molded my armor, deflecting his strikes. Without him being blown back, he couldn’t escape my full onslaught. It was a freeing feeling, like finally being able to use your own trump card. It turned the tides of our battle.
+
+Like with Dakhma, the tendrils of flesh kept forming over him. I converted his body into pulp as quickly as it transformed. With all the excess mana from the named ones, I kept us right beside each other with gravity. I could rear back and slam my fists with unobstructed destruction. He wasn’t sent flying backwards anymore.
+
+No, he faced the full force of my fists. As more named ones came in, I gained more mana to play with. I overcharged the runes over me, unleashing them with every strike I used against Elijah. I extended the gravitational warp beneath us, increasing its intensity.
+
+It pulled us both down and the ground up. Pinned on this makeshift arena, Elijah and I struggled just to stand. Any named that came near us was instantly crushed into the ground, unable to approach. Elijah glanced around as I struck him. Horror spread across Elijah’s face. His eyes widened as his hands shook in terror.
+
+Malice spread over my face,
+
+“That’s right Elijah. They only make me stronger.”
+
+Elijah shouted out in between my strikes, “Stop...Run...a...way...you...idiots.”
+
+My laughing drowned out his cries, however. They turned into weakened grunts as the flow of mana increased. It was like I was in an ocean of raw energy, drenched in the overwhelming power. It fueled me as I tore Elijah apart.
+
+Seconds dragged on into minutes, his eldritch form unable to complete itself. Elijah suffered the entire time. He gasped in agony as I tore him apart. He choked on his own blood, sharpened pieces of his own bones digging into him each time I hit. It sounds brutal, perhaps even a bit evil, but I couldn’t help it.
+
+I hated Yawm, and I hated his followers. For all I knew, Elijah killed Hod in that portal. A part of me wanted him to suffer. A part of me wished he would howl out in agony as I wrenched out his guts. It was a primal part of me, but I couldn’t deny it existed. At that moment, it surfaced with all the hate and rage and wrath that came with it.
+
+Elijah recieved all that pent up rage in full. By the time the named ones discovered what was going on, it was over. The bodies pinned down near us melted, revealing Elijah to them. He was broken, every piece of his shattered beyond recognition. With his face destroyed, he reached out and spoke with a broken jaw,
+
+“Please...help me.”
+
+I lifted a foot and stomped his skull, caving it in. His death notification appeared beside my view. I had learned from the fight with Dakhma. I didn’t give Elijah a moment of rest, punishing every moment where he was vulnerable. It cut the fight short, far shorter than with Dakhma.
+
+Just as I let my guard down, cracks ushered from the earth beside me. Fire spread from these cracks, scorching the earth. A pit of lava formed, erupting upwards. I raised my fists, ready for the fight. A moment later, the lava fell off of Hod. Gashes covered his body, his shadow form leaking black blood.
+
+He glanced at me, the red, featureless eyes menacing. He stepped forwards, out of the lava before falling onto the ground. I shifted Event Horizon off him. The portal disappeared a second after. As Hod hit the ground, he opened his mouth and let out the eldritch energy within him. His head raised up as streams of the energy were released.
+
+That makes it sound cool, but it was like he was barfing,
+
+“Bleeeeeeeeeeehhh...Bleeeeeeeeeehhh...Oh, Hod going to hurl again...Bleeeeehhhh.”
+
+He finished puking before his face slapped against the ground.
+
+“Hod feel better..”
+
+I sighed out, my fists lowering. I pulled back my helmet before dragging my hands across my face. I turned towards elijah, his mushed corpse resting beside us. I picked it up, dumping it into my armor mouth. My armor assimilated the energy, the metal shivering over my skin in pleasure.
+
+I shook out the fighting jitters, turning towards the assault team of Torix. The plumes of smoke were massive, far larger than I imagined they would be. In the corner of my eye, someone was standing. I turned around, expecting Torix. It wasn’t.
+
+It wasn’t human. It was porytian, the species Yawm hailed from. Slender, muscled limbs covered in bark skin, it heaved for breath, a green glow webbing outwards from its eyes. Wherever the green traced, the veins and muscles were large and tense. It had large hands with thin fingers, spiking a dormant fear in me.
+
+It lifted a hand, an unmatched grace in the movement. Somehow something as simple as raising a hand was elegant and refined. A main of leaves trailed down its back, acting as a mane of ‘hair’. Above its head, I read it’s name and level.
+
+Ajax Volan, the Void Eater(lvl 4327)
+
+He leapt up off the tree, sifting through the air with more grace than birds. He landed in front of me. As he did, a few of the outer named ones caught up to us. I lifted my fists and tucked in my chin.
+
+Ajax waved his hand behind him, some unseen wave slicing behind him. Reality split, two halves forming. They slid against each other, separating before snapping back together. The named ones behind him weren't so lucky. They fell apart, all them sliced with laser precision wherever the split in reality had been.
+
+With a deep, pained voice, Ajax raised a hand,
+
+“Come.”

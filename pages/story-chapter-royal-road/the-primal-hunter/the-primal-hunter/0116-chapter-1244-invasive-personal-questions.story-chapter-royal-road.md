@@ -1,0 +1,173 @@
+---
+id: a5ea425c-1c0e-54c4-aa8f-520bdc68da35
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1244 - Invasive Personal Questions"
+slug: 0116-chapter-1244-invasive-personal-questions
+partOf: the-primal-hunter
+position: 116
+ownLength: 2622
+unit: words
+ownProgress: 2622
+publishedAt: 2026-01-29
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2991436/chapter-1244-invasive-personal-questions"
+royalRoadId: "2991436"
+markedReadAt: "2026-06-29T19:34:11.475Z"
+---
+
+Jake continued to be confused by the Unique Lifeform’s overenthusiastic level of interest, especially when he considered one tiny detail…
+
+“Didn’t you already know about it?” Jake asked. Minaga had been around while he was visiting the Pantheon of Life, and based on what Jake knew, was fully aware that something was going on between him and the goddess.
+
+“I fail to see how that’s relevant,” Minaga countered. “Besides, even if you claim I already knew, this version of me doesn’t. Also, can you blame me for being curious to hear details directly from the source itself?”
+
+Jake was about to answer that he definitely could blame him when Casper chimed in. “Now I feel like I’m the only one in the dark… but man, what happened? Who is it?”
+
+“It’s-“ Jake was about to answer as Minaga quickly stopped him.
+
+“Don’t answer!” the Unique Lifeform yelled before grinning and looking at Casper. “You should guess.”
+
+Casper stared at Minaga before shaking his head. “How the hell am I supposed to know? I suck at this kind of thing.”
+
+“Which is why it’s fun having you guess,” Minaga insisted, and at this point, Jake was also getting pretty curious himself as he joined the Unique Lifeform in staring down the Risen.
+
+The poor guy stood there for a few moments with his eyes closed before speaking.
+
+“So, starting from the women in your immediate orbit, allow me to rule some out. Miranda isn’t an option, as I would have definitely known, and I don’t think she’s interested in the first place. I know you had a thing with Carmen, but she would rather punch you in the face than make anything official. Then there is that succubus Irin and the new Chosen of Duskleaf, but seeing as both of those were former subordinates of yours, I don’t see it. That leaves only a few other options, like maybe Reika or Maria, but… yeah, no. Also writing off all your creations as… ew, and finally, I guess there is Dina from your Nevermore Party, but she also seemed to have zero interest in you.”
+
+Jake stared at Casper, who sounded almost like Jacob with his analysis of Jake’s interpersonal relationships. He had been spot-on so far, and as he kept speaking, he remained bullseye with everything he said.
+
+“Then I guess we have all the people wanting to get close to you for your Bloodline or your status as the Chosen of the Malefic Viper, of which I don’t doubt there are many, but I’m also very confident none of those enter your eye. Not even sure the Malefic One would allow you to make it official with any of them. So… in conclusion, it’s not someone I really know, but if I had to guess, based on your personality, they have to be a lot stronger than you are now. Definitely above C-grade if not even higher. Going by you saying Minaga already knew, and seeing as you two went to the Pantheon of Life together, I would venture a guess it happened there, and whoever it is, they’re a person with status within the Pantheon of Life.”
+
+To say Jake was gobsmacked would be an understatement, as his old friend and coworker certainly didn’t have this kind of ability to analyze relationships. Then again, should he be surprised that Casper had grown in the many years since the system arrived and had-
+
+“Thank you for your insight, Lyra, very nice of you,” Minaga spoke with a nod.
+
+“No problem, she says.”
+
+Casper grinned from ear to ear as he looked at Jake. “So, was she right?”
+
+“Yeah,” Jake nodded. “Though this does raise some questions… why does she know so much about my life?”
+
+“Can’t blame a girl for following the news,” Minaga shrugged. “You are fully aware that people are constantly keeping track of you and trying to learn about your personal life, right? People who gladly publicize what they learn?”
+
+“Who is that bored?” Jake sighed, though he kind of already knew.
+
+“The Primordial Church, for one,” Casper shrugged. “They try to learn anything and everything they can regarding anyone with high-level blessings by Primordials, and as a Chosen, it’s natural they want to learn as much about you as possible. The Court of Shadows also sells information about you, and from what I know, one of the most requested pieces of information pertains to your relationship status.”
+
+“Ah, the life of the most eligible bachelor,” Minaga said in a wistful voice. “It’s almost unfair… despite all I’ve achieved, not once in my life have I experienced being sought after by so many.”
+
+“Because you’re a Unique Lifeform,” Casper said in a deadpan tone.
+
+“I know, discrimination is truly rampant in the multiverse, and I truly understand the struggles of the Risen, having gone through the same myself,” Minaga continued as he tried to put a hand on Casper’s shoulder, only for it to phase straight through, seeing as he was merely a projection capable of producing sound.
+
+Casper, back to ignoring Minaga, looked at Jake. “So, who is the mystery woman who managed to lock down the Chosen of the Malefic Viper?”
+
+Seeing no reason to beat around the bush, Jake just answered. “Artemis.”
+
+The Risen looked at Jake for a few moments before raising an eyebrow. “You said that as if I’m supposed to know who that is. I reckon there are a lot with that name in the multiverse. Shit, isn’t there even a god with that name?”
+
+Jake just kept looking at Casper as an odd look began spreading across his face.
+
+“A god… from the Pantheon of Life… and…” Casper finally seemed to get it as he stared at Jake. “Seriously?”
+
+“It kind of just happened,” Jake shrugged.
+
+Casper frowned deeply as he put a hand on his chin. “Wait, wasn’t the Lord of the Hunt in Nevermore an image of Artemis? Was that where you first met her?”
+
+“It was,” Jake confirmed. “And her projection sent a message to her true self, some more things happened, and after I went to the Pantheon of Life, we had a talk and… yeah, here we are.”
+
+“Lyra actually has a good question. How are the Pantheon of Life and the Order of the Malefic Viper taking this? Wouldn’t the Chosen of a Primordial and a high-ranking newly promoted Godqueen from another Primordial faction getting into an official relationship have quite the ramifications?” Casper questioned on behalf of his ghostly girlfriend, clearly also curious himself.
+
+“There are for sure, but I’m not going to share more than that,” Jake said, not wishing to reveal anything big and political like the upcoming alliance between the Order and Pantheon of Life.
+
+“That’s fine, I already know the details regarding all that stuff,” Minaga rejoined the conversation. “What I want instead is some of the real details. Are you gonna have a big wedding? Plans for kids yet? Public or private education? How about all the other interested parties who would love to intrude on the relationship? You gonna have a harem? Wait… is Artemis going to have a harem?”
+
+Casper started laughing and shaking his head as Jake tried to process the barrage of invasive questions. Turning to the Risen, in part to avoid answering any of what the Unique Lifeform had thrown at him, Jake raised an eyebrow.
+
+“What’s so goddamn funny?”
+
+“Sorry, sorry,” Casper said, still struggling to suppress his laughter. “I just imagined you with a harem, and… fuck, it’s too funny to think about.”
+
+“I could totally pull off a harem,” Jake said obstinately, crossing his arms.
+
+“No, you can’t,” Casper started, full-on laughing again. “You really can’t.”
+
+“Hey, let’s be fair to Jake here!” Minaga came in to defend the poor Chosen. “He could totally gather a harem. Would he then end up absolutely miserable and be unable to retain this harem as everything quickly spirals into disaster? Obviously, but he could get one started.”
+
+Jake felt very attacked, but he couldn’t exactly argue against what they said, as he knew that any follow-up questions would tear him apart. He barely knew how to be a partner to one person, and based on everything the Sword Saint had said, maintaining and developing multiple relationships at once while balancing them all would be… complicated. And Jake really didn’t like complicated.
+
+“For your information, I never wanted one anyway,” Jake said, fully aware he was sounding a bit like a protesting kid.
+
+“Sure, because such a thought has never crossed any guy’s mind before,” Casper chuckled, shaking his head. “And I totally agree, the notion seems absolutely exhausting even to think about.”
+
+“You forgot to answer any of my other questions,” Minaga continued pressing.
+
+“And I’m going to continue not answering any of your very invasive questions,” Jake answered.
+
+“Alright, fine… but at least let me know if there will be a wedding and what role I’ll play so I can start preparing,” Minaga said in an almost pleading voice.
+
+“You’ll know if there will be one when invitations go out, but even if there is, how could you attend? You’re a clone stuck in a dungeon here on Earth,” Jake said.
+
+“Wow, and you called me insensitive earlier, just to weaponize my disabilities against me? So what if I can’t leave the immediate area surrounding the dungeon? You can just have it here!”
+
+“Anyway, not going to spill all the beans as you two clearly want me to. It’s called a private life for a reason, and I’m going to keep it private,” Jake shook his head, having decided to go back to ignoring Minaga. “You wouldn’t like it if I began asking overly invasive questions about you and Lyra either.”
+
+“That’s a bold assumption,” Casper said with a smile. “Have you considered that I’m more than willing to share all our dirty deeds? Because let me tell you, despite being a ghost, Lyra is — ouch, I was just joking!”
+
+Halfway through his sentence, Casper’s locket lit up with a ghostly light, seemingly sending a jolt of pain through the Risen’s body. Jake couldn’t help but smile at his friend as he continued what he wanted to say.
+
+“You two do remember to keep everything a secret, right?” Jake asked the Unique Lifeform and the Risen. Sure, they had already confirmed they would, but Jake wanted another reassurance anyway.
+
+Minaga nodded, Casper doing the same, though his old friend was clearly still curious. “I gotta know how it all works with her being a literal goddess and you a mortal?”
+
+“Not sure what you mean?” Jake asked.
+
+“You know… logistically…” he continued, scratching the back of his head.
+
+Jake stared at the Risen before sighing. “I have no idea what you even mean. I find it weirder that your partner is a ghost. You are fully aware that gods are just regular people who’ve lived for a long time and gotten real powerful, right?”
+
+“I guess… but still,” Casper said, continuing to be embarrassed by his own train of thought. “Considering the sheer difference in power, if she happens to get a little too enthusiastic, can’t it get… dangerous?”
+
+“Nah, that’s not really a thing that happens,” Minaga surprisingly came to the rescue of this awkward question. “Same as you don’t randomly explode the body of an E-grade while coincidentally bumping into them, truly powerful people instinctively never really harm their environment either. No matter how much they lose themselves, that part of their control stays. Also, Artemis is a Godqueen from the Pantheon of Life, so I’m sure she has a Golden Leaf of Yggdrasil if an accident somehow still happens.”
+
+Okay, Jake would like to partly retract his statement about Minaga coming to the rescue. Only partly, though, as at least some aspects of what he said made Casper nod in understanding. The Unique Lifeform didn’t make things any better with his next sentence either.
+
+“No, rather than logistic questions, I would ask moral ones. Artemis is a god who has lived for many eras, while Jake is a tiny little mortal who hasn’t been alive for even close to a millennium. She’s, like, a million times older than him. Also, as you mentioned, there is a massive power imbalance to consider. Can we truly call a relationship with such a huge age disparity ethical?” Minaga also pointed out.
+
+“Sure?” Casper said instantly, as if the question was weird. “Who cares at this point? Taking time dilation into account, we’re all old fucking men by now, going by pre-system standards, and while the age disparity is huge, it’s so huge it just seems dumb to even think about.”
+
+Jake nodded in full agreement with everything the Risen had sai-
+
+“No, if we need to point out a problem, it’s the disparity in maturity, but if we go by that, Jake would never be able to find anyone, so I think we can give him a pass on that one.”
+
+Once more, Jake had to partly retract his agreement as the two dungeon engineers continued having fun bullying Jake. He liked it way more when he and Casper were bullying Minaga together.
+
+“That’s fair. I’m just trying to stir up trouble for the fun of it anyway,” Minaga shamelessly admitted.
+
+“Alright, alright, enough about my relationship. Can we actually get to the damn dungeon already?” Jake asked with exasperation.
+
+“Fine,” Casper agreed. “Just one more thing to finish off the topic. I also completed the Colosseum of Mortals and saw the Lord of the Hunt. I remember how she looked, her presence, and let me just say, from one guy to another…”
+
+Casper put his hand on Jake’s shoulder and gave him a big approving smile as he spoke a single word. “Nice.”
+
+That one word and the Risen’s look communicated all that had to be said as Jake gave him a smile in return. “Yeah, you'll definitely be invited to the wedding.”
+
+“So there is going to be a wedding!?” Minaga yelled, Jake and Casper both entirely ignoring him as they turned toward the actual building representing the dungeon.
+
+Jake hadn’t gotten a proper look at it before, but the main building holding the entrance to the dungeon was a decently large cubical structure with overly-adorned walls and plenty of space inside for all sorts of things. When it came to the actual entrance, it was just a single gate at the far end of the singular large room inside the structure.
+
+Not to say the inside was just one big empty space. Instead, it reminded Jake of a big mall with staircases on both sides leading up to several stories of balconies where plenty of shops or whatever could be built. Jake wasn’t sure what Minaga had planned for the building to be used for, and quite frankly, all of that was for him and Miranda to figure out.
+
+Wanting to make sure Jake was right, he looked to Casper.
+
+“I take it the large gate inside is the entrance?”
+
+“Yep,” Casper nodded. “Though it’s closed right now, and you’ll need special access to enter. Minaga has already reprogrammed the gate to lead directly to the fifth-stage dungeon, so once we enter, we’ll be surrounded by B-grades already.”
+
+Jake followed along as he nodded before he caught on to something. “Wait… we?”
+
+“Yes, we,” Casper said with a small smile.
+
+“What? This is an early-access trial run of the dungeon. Of course, you can’t enter without supervision, and who’s better than the head consultant on the project!” Minaga said cheerfully.
+
+After looking at the two of them for a bit, Jake just shrugged. “You know what? Sure, sounds like fun.”

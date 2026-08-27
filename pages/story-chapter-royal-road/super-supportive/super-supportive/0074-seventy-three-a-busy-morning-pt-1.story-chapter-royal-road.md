@@ -1,0 +1,901 @@
+---
+id: c458818f-0b0a-50c9-872c-7316d63ae9dc
+page-type-slug: story-chapter-royal-road
+title: "SEVENTY-THREE: A Busy Morning, pt. 1"
+slug: 0074-seventy-three-a-busy-morning-pt-1
+partOf: super-supportive
+position: 74
+ownLength: 8299
+unit: words
+publishedAt: 2023-09-14
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1342372/seventy-three-a-busy-morning-pt-1"
+royalRoadId: "1342372"
+---
+
+*
+ 
+I’m nervous.
+
+
+It was eight o’clock on the night before the talent testing, combat assessment, and final interview. They were the last hurdles Alden had to clear to become a student at Celena North High. He stood in front of his closet, staring at his clothes without really seeing them.
+
+
+His laptop was on his bed. Victor was lying beside it rubbing his head against the edge of the open screen, which showed the latest message from the school’s admissions office. Alden had read through it several times. It was congratulatory. The bulk of applicants were cut prior to reaching this stage, and he should be proud of himself for making it this far.
+
+
+I think, before, I would have been.
+
+
+He suspected that applying to one of the most difficult programs on the island would once have been a rollercoaster of hope, desperation, and anxiety. But until now, he hadn’t felt even a glimmer of stress about it.
+
+
+I’m more stressed about the fact that I haven’t been stressing.
+
+
+Jeremy’s visit had been fun. Except for Boe’s absence, it had been normal in the best way. Just hanging out with a friend, talking mostly about things that weren’t too serious.
+
+
+But there were so many little moments when Alden realized he wasn’t matching up to who he had been. He kept thinking about the enchantment on the NesiCard. When he held it away for too long with his preservation, it couldn’t be put back again. It would either partially reattach, but the card wouldn’t work anymore, or it would just fizzle into nothing when he dropped it.
+
+
+I’m like that. Partially the same, but not enough to work exactly how I used to.
+
+
+So the nerves were welcome. He would definitely have been a nervous wreck if he were an alternate-universe Alden who hadn’t lost a percentage of his life to a disaster. This was milder, but still a reminder of the old him.
+
+
+He couldn’t even figure out what to wear.
+
+
+Assuming Neha wasn’t totally off-base, and he was destined to pass, he wouldn’t just be meeting some future teachers but also many of his future classmates tomorrow. Graduates from the high school’s hero program were funneled straight into the university program. Both tracks were so intensive that they didn’t allow for much free time. So these are people who I’ll be spending most of my days with over the next few years.
+
+
+Not the gym shirt for sure. People would think he thought he was hot shit. That was never a good thing.
+
+
+And not his Rabbit housekeeper outfit. Unless he wanted to commit social suicide right off the bat.
+
+
+He had dressed up a little for the first and second interviews. But the interviewers themselves were in casual clothes both times, so at this point, it would probably seem like he was trying too hard.
+
+
+Is the skull shirt too villainous? Is that a thing in hero school?
+
+
+He doubted it. He could think of a few superheroes whose public personas were deliberately dark. Maybe it would counteract the Rabbit factor that was inevitably going to be the first thing people remembered about him? Or maybe it would make people think—
+
+
+Ugh. Never mind. I’m getting ridiculous. I’ll just go for safely boring like every other self-conscious, fashion-clueless teenager ever.
+
+
+Jeans. Plain brown t-shirt. The dark green plaid shirt unbuttoned over the top instead of a jacket.
+
+
+Done.
+
+
+Casual. Comfy. Inoffensive unless there was a secret society of plaid-haters among the Avowed.
+
+
+Before he shut the closet, he gave the newest additions to it a look and shook his head. A few days ago, he’d received a parcel from LeafSong. It had been teleported in and delivered by a courier. Alden had had to sign for it like it was something very important. But it was just the paper copy of his certificate of merit for responding to an emergency on the campus and a new human necessities package, identical to the one he’d received on his first night there.
+
+
+They’d thrown the contents of his locker out, and they were upset about it because the turtlenecks, jogger pants, and alien hygiene supplies had been given to Alden instead of loaned. They felt like they’d trashed his possessions, so he got all new ones. Right down to the intimidating hooked razor and the tin full of tooth gum.
+
+
+He shut the closet door and went to read the email from Celena North yet again. Athletic shoes were a must, but protective gym suits would be given to them when they arrived. No armor, weapons, or magic items for the test unless they were completely necessary for power function.
+
+
+Ingredients for spell impressions had to be provided by the prospective student. Enough for ten casts if you wanted the impression to be considered part of your power set for admissions purposes.
+
+
+I wouldn’t even be able to show off my spell impression if I wasn’t rich now. I guess money is a superpower, too, huh?
+
+
+Temper spheres cost two hundred argold. And they almost always lasted for two uses, but sometimes only one. Alden was bringing twelve of them just in case.
+
+
+No unnecessary magic items…
+
+
+Alden’s fingers went immediately to the auriad around his neck. It was coming with him. There was really no question about that. He wasn’t sure he was even able to leave it behind for an extended period without the connection between them being damaged, and if he was, he still hated the idea so much it wasn’t happening.
+
+
+He’d bought a wide leather cuff bracelet, and he’d spent the past several days breaking it in and making sure it completely covered the authority control tool no matter how he moved around. If he was in a situation where the bracelet wasn’t convenient or allowed, he’d wear the auriad around his ankle and cover it with a sock.
+
+
+It’ll be fine.
+
+
+The only thing left was to figure out what the heck to have along with him for preservables tomorrow. He was assuming he could bring anything he wanted, since items were completely necessary for his main skill use. It wasn’t as straightforward as a Meister showing up with their tool, but he didn’t think the school was going to be that picky about it.
+
+
+The problem was, he knew how test day worked in general but not what he’d be asked to do with his skill specifically. There were blog posts and videos online from people who’d participated in the past. Lots of advice for the more common class subtypes, none for anyone with a skill similar to his.
+
+
+He had some thoughts about the combat assessment, and he suspected being a teenage battle prodigy might not really be the point of it. So there was a case to be made for trying to show off some creativity and flexibility instead of sheer efficacy. But some of his ideas were so creative that they might make the assessors think he was just being a clown.
+
+
+When he was having a bad night and trying to distract himself by coming up with unique materials to use as shields, a bouquet of helium balloons sounded like a really good idea. But maybe that was sleep deprivation talking and he would look like he’d lost his mind to experienced heroes.
+
+
+He’d actually gone to the trouble of tracking down a florist’s shop that sold balloons just to see what holding a single one felt like. He’d been almost positive the skill would work on one but he wasn’t entirely sure how a lighter-than-air item was going to react.
+
+
+It had been absolutely fine. Instead of feeling the downward weight he was used to, he had the same upward tugging sensation he would have had if the balloon was unfrozen in his hand.
+
+
+I swear it would work. The balloons or their ribbons would all be touching. They’d count as a single stack. If a string snapped or a few popped when they weren’t being preserved it wouldn’t matter much. I could adjust the size by dropping some on purpose, or I could adjust the distance between the bouquet and my body by choking up on the string and then re-preserving.
+
+
+But if a man showed up to hero school with a balloon bouquet, everyone was going to want him to prove he knew what he was doing with it. And regardless of whether it succeeded or failed epically, it was definitely going to be unforgettable.
+
+
+Alden hadn’t had much time to practice. His skill was only just back online. What time he did have had been spent working on his trait under Bobby’s guidance and experimenting with the new enchantment-moving feature, which was one he most likely wouldn’t even have an opportunity to use today. Another month would have been ideal, but he didn’t have that.
+
+
+In the end, instead of ordering up fifty balloons from Dragon Rabbit, he settled on a couple of items that he thought would show off his skill’s flexibility without being confusing for him to handle or making him look like he was joking around.
+
+
+All that was left to do was try to get some sleep.
+
+
+He’d gotten a couple of good luck texts from Connie and Jeremy. He thanked them, then placed a call to Boe.
+
+
+“Guess what, Boe?” he said as he transferred Victor to the floor and tried to brush cat hair off the bed. “I’m actually nervous about doing a good job tomorrow, and I’m mildly worried about what people will think of me at my former dream school. It’s a miracle. I may be turning back into a normal-ish person. You’re supposed to be here to give me a sarcastic pep talk. Or something.”
+
+
+He paused.
+
+
+“Call me back, okay? As soon as you get this…even if it’s just to tell me to knock it off for a while.”
+
+
+He wanted the call notice to flash, but it didn’t. Jeremy had said Boe was getting in touch every few weeks. It had been nearly two months now. And still no word.
+
+
+Alden lay in bed, using his auriad to practice some of the string figures for the spell that would brutally crush small objects. Now that he’d memorized the patterns, practicing them and funneling his authority through the tool in the necessary way was relaxing. Not easy enough to be mindless yet but almost.
+
+
+He’d be able to cast this spell. One day.
+
+
+For now, there just wasn’t enough of him unfettered by the affixation. The patterns required a more forceful use of his free authority than the elementary school graduation spell he’d learned with Kibby. He got tired too quickly. He couldn’t push all the way through yet.
+
+
+The next one in the book is nice, he thought, staring up at the dark ceiling after he’d completely exhausted himself. It would pull heat from target area. A small one—held within the the bounds of the final pattern in the sequence. It would freeze room temperature water in around half a minute. I’m going to make my own ice when I’m on the Triplanets and carry it around in my pockets to throw in drinks so I don’t scald my tongue anymore.
+
+
+It was important to have goals as a wizard, right?
+ 
+
+
+*******
+ 
+
+
+The alarm Alden had set through his interface woke him up at 4:00 AM. His eyes snapped open.
+
+
+It’s today. Power testing. Final interview.
+
+
+Rest of my life starting. Maybe. I guess I could always flub it and declare myself retired.
+
+
+He rolled out of bed. He was already buzzing with nervous energy, so he decided coffee was a bad idea this morning despite the early start.
+
+
+He got dressed, grabbed his things, and filled a dish with expensive diet cat food that wasn’t poisoned despite Victor’s feelings on the matter. He read the email from the school again because his overhyped brain said it might have changed overnight—nope—then headed out the door.
+
+
+The halls were devoid of people, and so was the common area. Alden went down a floor. As soon as the elevator opened, Gustavo waved at him from the beanbag chair he was occupying in front of the big screen tv. <<Hey! There’s The Warren’s one and only hero school candidate!”>>
+
+
+“Hi, Gus. How’s the soccer?”
+
+
+“The football is <<magnificent>>,” said the night counselor.
+
+
+“I Americaned it up again. Sorry. Football,” Alden walked over and handed the man a compact red umbrella with a sturdy wrist strap.
+
+
+<<I will treasure this,>> Gus said dramatically. “Thank you so much.”
+
+
+“You can keep it if it means that much to you.” Alden grinned and targeted him. “But I would appreciate it if you handed it back to me.”
+
+
+<<Your weapon for the day?>>
+
+
+“Yes. I assume I’ll be carrying people and switching out between things they give me all day? But just in case they’re really strict and won’t let other people entrust me with stuff for some reason, I figure I’d better have an object ready to go the second I walked through the doors.”
+
+
+<<Rabbits are the most prepared class.>>
+
+
+“Are we?”
+
+
+<<We are the handsomest, the richest, the cleanest, and the most thoroughly prepared for every eventuality. Forty-eight seconds? It’s no trouble. A Rabbit man carries all he needs to survive the ravages of interplanetary travel upon his person.>>
+
+
+“Huh,” said Alden. “I hadn’t thought of it that way. But we should be the most prepared class.”
+
+
+Gus nodded, stood from his beanbag, and gave a full bow, arms flared outward. It was a fancy Artonan “Welcome to the House, Very Important Person” bow. Gustavo did a lot of work on Triplanet weekends as a fill-in butler.
+
+
+After standing back up, he returned the umbrella.
+
+
+“Thanks.”
+
+
+<<Make us proud, Hero Rabbit!>>
+
+
+“I’ll try.”
+
+
+“Big smile!” said Gus, as Alden entered the elevator. <<When you get downstairs, make sure you smile for them all.>>
+
+
+Who all?
+
+
+A few seconds later, the doors opened again, and Alden flattened himself against the back of the elevator, clutching his umbrella in both hands, as he was greeted by squeals, cheering, and applause.
+
+
+Ohmygodwhatisthis!? he thought frantically, while dozens of overlapping subtitles blitzed across the lower half of his vision, and Emilija and Paolo dove into the elevator to drag him into the crowded lobby.
+
+
+“That one’s ours!” Natalie Choir called from where she stood on top of a chair across the room. Hadiza was standing in a neighboring one. They waved at Alden wildly, and he just gaped at them.
+
+
+<<Look at his face! He is turning so red!>> Emilija shouted over the other voices as she grabbed the front of his shirt and tugged him through a gaggle of cheering Meisters.
+
+
+<<I told you he didn’t know we did this!>> Paolo shouted back.
+
+
+People from every class in the tower were down here. There must have been at least three hundred of them. An Adjuster Alden had met at a couple of events patted him on the back and shouted <<Good luck!>> in Turkish.
+
+
+A pair of Rabbits from the eighth floor were saying the same.
+
+
+He finally managed a startled “Thank you all,” just before he and his handlers broke through the back edge of the crowd at the lobby doors.
+
+
+<<You’re one of the first ones to come down,>> Emilija said, straightening her ponytail and smiling at him. <<Good luck on your big test day!>>
+
+
+A moment later, the lobby burst into cheers again as a girl Alden thought was an A-rank Life Shaper emerged. She looked embarrassed but not shocked at all the cheering and clapping.
+
+
+The other Shapers in the room were being particularly loud.
+
+
+<<It’s so fun that we get to cheer for a Rabbit,>> Emilija said in a satisfied voice. <<Natalie and I came down to cheer for the last batch of hero school applicants during our second morning here at the dorms. It’s not as exciting when you don’t have a class representative.>>
+
+
+“So this send-off happens every time?” Alden asked.
+
+
+<<For the intake residents who reach the final stage for the hero track at Celena North,>> said Paolo. <<Since you all leave first thing in the morning together and have the big practical testing day. There are usually parties for the art school finalists and the other programs in Apex since their application processes are different.>>
+
+
+“I didn’t know.”
+
+
+<<Because you’re married to Neha’s schedule and never check the community calendar anymore.>>
+
+
+That was true.
+
+
+When the Shaper girl reached the doors, she and Alden made their escape together just as another explosion of sound erupted in the lobby.
+
+
+“It’s lovely, isn’t it?” she said as she adjusted her backpack straps. “Helps a bit with the nerves.”
+
+
+“It is nice of them.”
+
+
+It was still hours until sunrise. It had rained overnight, and the lights from the windows of the apartment towers were reflected in the puddles. A bus was parked outside the Brute tower. They crossed over toward it and headed up the steps.
+
+
+<<We’re going to be full,>> the driver said. He was brushing powdered sugar from a donut off of his uniform. <<No loading the seats with your bags and gear. >>
+
+
+Alden hadn’t bothered to find out how many people had made it to the final round from intake, so as he walked down the aisle to the back, he counted the seats.
+
+
+Sixty of them.
+
+
+Annually, the high school accepted two hundred and fifty students for the hero track, give or take a few. They held the practical talent tests every two months. So it stood to reason they’d be taking in around forty new students this time. On top of that, the teens from intake would be a fraction of the applicants, since all the island-born people and the non-natives who’d already left the intake dorms would be included.
+
+
+Lots of people are going to be disappointed at the end of the day.
+
+
+And that wasn’t even counting all the ones who’d been kicked in the first and second interview rounds.
+
+
+He snagged one of the window seats and sat tapping his umbrella against his leg while he listened to the bellows and shouts of encouragement coming from the Brute lobby. It was so jammed with people that their well-wishers actually spilled out of the doors onto the sidewalk.
+
+
+Watching the bus fill was interesting. Nobody took a seat next to anyone until they ran out of space and had to start. A lot of these people must know each other. They’re probably friends.
+
+
+Avowed had a tendency to divide up along class and rank lines. Especially the high levels. Alden had thought Anesidora would be this way. Apex existed for a reason, and it was just how human relationships usually worked. But even so, outside of the rare classes, it was a little more stratified than he’d expected. Even in intake.
+
+
+So there was no way those two S-rank Adjusters didn’t know each other. And the thirty or so Brutes on the bus had to have been hanging out together before now. But there was still tension. And not a lot of talking.
+
+
+Everyone wants it. They’ve got to be feeling that even more than I am.
+
+
+Finally someone came to sit beside him.
+
+
+She was wearing a black hoodie with the hood up, and she had long dark pigtails sticking out the front. Her hands were shoved into the pockets of her jeans, and she plopped into the seat beside him. She folded herself in half and stuck her feet against the back of the seat in front of her. Her sneakers weren’t quite as dirty as Alden’s had been on Moon Thegund, but they were headed in that direction.
+
+
+“Hi,” he said.
+
+
+“Hello,” she muttered. “Maricel. S. Shaper of Ground. Philippines. First time taking the practical.”
+
+
+Well, that’s one way to do it. “Alden. B. Rabbit. America. First time taking the practical, too.”
+
+
+She didn’t look at him. “Rabbit?”
+
+
+“He’s that guy,” one of the Brutes sitting in front of them whispered to his neighbor. “The guy who got stuck on a planet with no System for a couple of years.”
+
+
+At that, Maricel turned to see Alden better. She had very dark brown eyes.
+
+
+“It was a moon. And it was only half a year,” said Alden. “Um…I have a movement trait that involves ground. It’s a really interesting element.”
+
+
+“Ground’s not really that great here on Anesidora, though,” the Brute in front of them said. He turned around in his seat to peer at them over the back. He was wearing sunglasses around his neck, though that didn’t seem like a practical choice given the day’s activities, and he looked like a stereotypical surfer dude. “To really play with ground as a high rank shaper you’re basically taking bites out of the island itself, right? And I bet they frown on that. I’m Winston.”
+
+
+But that is not the name of a surfer dude.
+
+
+He had his name tag up. His full name was Winston Reginald Heelfeather. He was from New Hampshire. He was a speedster. A-rank.
+
+
+“I’m glad somebody started talking finally. It was a bummer to come out of the lobby pumped to show off my talents and get on board the gloom bus. This is my second time going through this, and it was a gloom bus last time, too.”
+
+
+“You participated in the acceptance cycle two months ago?” Alden asked.
+
+
+“Yeah. I was so close to making it. Just a few little hiccups on the interview portion. They love speedsters, but they play mind games. Today I’m wearing these, so they can’t see what I’m thinking.” He pointed to his sunglasses. “Like a pro poker player.”
+
+
+Alden wondered if maybe Winston had failed last time because he was the kind of person who thought wearing sunglasses indoors during an interview was a clever idea.
+
+
+“God, it would be embarrassing if I didn't make it this time. I'd have to start a general studies program at Franklin High and move into the dorms there while I prep for the next round. So what did the aliens do to you on the moon?”
+
+
+“Idiot,” said a girl halfway down the aisle. “You can’t just ask someone a question like that.”
+
+
+“Hey!” said Winston, whipping around too fast to pass as a regular human. “I’m just curious. It’s not like he has to answer.”
+
+
+<<I’m more curious about how a Rabbit ended up on this bus with us,>> his neighbor muttered in Portuguese.
+
+
+“I think rumors have gotten garbled,” said Alden, choosing to answer the speedster’s question, since if he didn’t the rumors would get even more garbled. “I wasn’t with a bunch of Artonans on the moon. Just one friend. A little girl. We tried to stay out of the corruption as much as we could. We watched a lot of television and had language lessons. And I learned to operate a greenhouse and drive a magic car. When help came, we headed for it.”
+
+
+“But what are you going to do in hero school if you get in?” Winston asked as the driver shut the bus door and started up the engine.
+
+
+“What are you going to do?” Alden countered.
+
+
+“I’m going to run really fast, grab bad guys, use my superior strength and knowledge of judo to pin them to the ground, and get lots of sponsorship deals from sports drink brands.”
+
+
+“You know judo?”
+
+
+“No. Not yet. It’s a goal, man. But…what’s a Rabbit hero supposed to do?”
+
+
+Alden sighed. “I want to be battlefield support,” he said. “I haven’t got it down perfectly. My skill is potentially good for things like shielding and medical evac. It’s flexible. I’m sure I’ll figure more uses out as I go along.”
+
+
+<<They only accept around a dozen B’s a year,>> Winston's seatmat said. <<They’re not going to take a Rabbit no matter how interesting his backstory is. B-rank Rabbits get sixteen to twenty foundation enhancement points usually, and five of them are completely useless. Physically, this guy’s just a human.>>
+
+
+Wow, he’s devoting a lot of early morning energy to being a dick.
+
+
+The dick was also assuming that Alden had gotten the average number of extra foundation points with his skill. Which was ten, as Jeremy had pointed out when he was going through his initial selection process. Bearer of All Burdens had only come with three and a half.
+
+
+Authority cost for affixing a base skill is in a range, obviously.
+
+
+I only got twelve and a half foundation points to start with. And that was with the signing bonus…which…damn. What a scam that is if it actually used my own authority. I don't think they can just gift you more...can they? And getting points early isn’t that great. Unless you’re someone who plans on it taking you years to level. I should definitely have taken The Fragile Atmosphere tool.
+
+
+Or maybe not.
+
+
+If his body was just a little weaker, if his affixation was just a little smaller, he might not have made it out with Kibby. His free authority might have overbalanced too quickly. He might not have survived the teleport. It was hard to say what the value of taking those few measly points had been.
+
+
+Alden was so lost in pondering how the Earth System made its calculations and presented them to Avowed that he was on the verge of forgetting to respond to the other boy, when Maricel spoke up.
+
+
+“You’re a Brute, too, aren’t you?” the Filipino girl asked the asshole quietly. She was still folded-up in her seat. “All you Brutes are point-obsessed. Just because your own skills are pathetic doesn’t mean ours are.”
+
+
+“Hey! My skill isn’t pathetic,” said Winston. “I admit I haven't completely figured out what it does. It’s some kind of force-adjustment thing that turns on automatically as soon as I start to run at a certain speed? But it’s not—”
+
+
+<<Shapers aren’t that much better than Rabbits. What did you get? Thirty points?>>
+
+
+“I said I was an S-rank. Were you even listening?” Maricel replied in an acidic tone. “And my foundation points don’t matter. They’re not what’s going to get me into the program.”
+
+
+“Someone’s confident,” the girl across the aisle from them said.
+
+
+<<It’s her first time,>> someone else replied. <<She doesn’t know anything.>>
+
+
+“Look!” Alden said loudly, pointing out the bus window. “They’ve decorated the arena for Halloween.”
+
+
+Everyone ignored him. Apparently hostility was more appealing than the orange and violet spiderwebs of light being projected across the smooth metallic surface of the stadium where many of the Avowed sporting events were held in F-City.
+
+
+Well, I tried.
+
+
+“I know enough,” Maricel said. “I know I will be getting into the stupid hero school today. And I will go to the stupid hero college. And I will become a superhero as fast as possible, so I can leave this place behind for good. <<I’m going back home to my family! Everything between now and then is an obstacle.>>”
+
+
+That shut most of the others up.
+
+
+Finally, the Life Shaper Alden had left his building with earlier said, “You…you know that’s a fine goal. To be a superhero in your hometown. But putting it like that…it isn’t really the best way to impress the interviewers.”
+
+
+“Don’t help her, Sue. She’s the competition.”
+
+
+“It doesn’t matter,” Maricel muttered, tucking her neck and yanking her hood as low as it would go so nobody could see her face. “If I don’t get into hero school, I will just train. I’ll train until I can lift the earth from four kilometers away.”
+
+
+<<That’s ambitious.>>
+
+
+“It’s crazy is what it is,” someone said. “She’s a nut. How’d she make it this far?”
+
+
+“That’s…two and a half miles?” said Winston. He was gesturing in the air, probably looking up the unit conversion. “Is there even a Shaper alive who can do that? The Gloom works across miles, I guess? But I don’t think there’s a Ground Shaper who does…”
+
+
+“Why that distance?” Alden asked curiously. It was so specific. “If you don’t mind answering. No pressure or any—”
+
+
+“That’s where the seabed is in this part of the South Pacific.” Maricel spoke in a flat voice. “Four kilometers below us. That’s where all the ground I’ll ever need is.”
+
+
+“To do what?”
+
+
+“I don’t care if some politician decides I’m not popular and exciting enough to allow back home,” she said to her knees. “If I can’t get to Manila by becoming a hero, then I will rip up the earth below us. And I will build a bridge. I will walk back to my family.”
+
+
+The silence that fell was oppressive.
+
+
+“Oh. You’re a cool person!” Alden exclaimed.
+
+
+One of Maricel’s feet slipped, and the sole of her sneaker squeaked against the plastic backing of Winston’s seat.
+
+
+Ah…way to go, Alden. That must have sounded like you were making fun of her with the others.
+
+
+“I’m being serious,” he said, when she didn’t look at him. “After we both get accepted, if you don’t hate the idea, we should hang out?”
+
+
+<<God. Everyone is a lunatic this morning,>> someone farther up the bus whispered. <<Now the B-rank thinks he’s getting in for sure, too.>>
+
+
+Alden didn’t care how it sounded. He didn’t care that leaping to initiate a friendship with a stranger wasn’t like him at all. It was a pure, visceral reaction—one of the strongest he’d had to another person since arriving back on Earth.
+
+
+Maricel didn’t want to show off. She didn’t want a branding deal. She didn’t want to fit in. She didn’t even want to save people.
+
+
+She just wants to go home. She just wants her family back.
+
+
+She wanted it so desperately, she’d do anything for it. She was willing to walk across a planet.
+
+
+Realistic? Not at all. But even if it wasn’t realistic, something about it felt real.
+
+
+And she’d stood up for him. It might have only fanned the argument…but…yeah. She was cool.
+ 
+
+
+***********
+ 
+
+
+The bus put them out at Celena Circle, a sort of mini-park in the middle of the high school campus. The circular green space’s central walkway split and branched off in three different directions. The left path went to the School for the Arts, right to the School for Sciences, and central to the School for Superhuman Studies and Talent Development.
+
+
+They should just give up and change the name since nobody ever calls it that, Alden thought as he hopped off the bus. The rest of the trip here had been uneventful except for a few ugly looks and whispers, thankfully.
+
+
+Maricel hadn't responded to his friendship request, but she clearly didn’t have a problem speaking her mind and she wasn’t telling him to buzz off, so he decided she was still considering it. He activated his skill and his trait as the two of them trailed behind the others up the concrete walk.
+
+
+“See,” he said, taking a bounding step forward. “Ground.”
+
+
+She watched him for a second, then asked, “Did you take that just because you’re a Rabbit, and it makes you bounce a little?”
+
+
+“I consider the comedic potential to be a drawback. I can make it look pretty much like a normal run. Or I can go extra bouncy with it. My trainer and I have been practicing to find all the ways that are easiest on my joints.”
+
+
+Rrorro wasn’t going to be around to fix him if he destroyed himself again. And just because other healers would be available to him didn’t mean he wanted to repeat the experience.
+
+
+As they passed under a streetlamp, Maricel threw out her hand and made a cupping motion with the middle finger extended in a point. A chunk of dirt at the edge of the sidewalk pulled loose and floated over to them.
+
+
+“Ground,” she said, directing it toward Alden with a gesture. A yellow flowering weed stood on top of the softball-sized clod.
+
+
+He held out his left hand since his umbrella was in his right, and she dropped the dirt in it. He grinned as some of the damp soil slipped through his fingers to plop onto the sidewalk. “You gave me a flower. We’re definitely friends now!”
+
+
+She sighed and stared ahead of them to where the other slowpokes—Adjusters and Shapers mostly—were walking. “I shouldn’t have been so honest on the bus. They’ll all talk about it. It will make me look bad to the admissions committee.”
+
+
+Alden plucked his weed free of the dirt and tossed the rest of it into the grass.
+
+
+“Yeah…” he said quietly. “That might not have been the best idea. I’ve been operating on the ‘Pretend You’re a Hundred Percent into It’ model myself for a while now. Not brave enough to tell a bus full of competitors that being a superhero isn’t my very first priority.”
+
+
+She pulled her hood back for the first time and looked over at him. “It’s not?”
+
+
+He shrugged. “I want to get stronger. I want to be in the best superpower development program I can get into. And that’s here since I’m not trilingual enough for the other big Apex schools.”
+
+
+“…why seriously pursue combat talent development if not for hero work? Especially if you’re a Rabbit. You’ll get work work anyway, won’t you? From the Artonans.”
+
+
+Alden tucked the flower into his shirt pocket. “I want to survive if I’m ever attacked by demons. Or if some wizard summons me and forces me to fight alien sea monsters. Or if a bomb explodes in my face.”
+
+
+She stared at him.
+
+
+“I don’t know why you’re giving me that look,” Alden said mildly. “You’re planning to build a land bridge from here to Manila. We’re both at hero school for different reasons from most people.”
+
+
+“Ha!” she said, still examining him. “Okay…”
+
+
+“Anyway, I did really want it once. The superhero thing. Maybe I will again.”
+
+
+They followed the group. Just before they hit the hero program’s section of the campus, the sidewalk wound between a pair of stately stone buildings. They looked like they belonged on a European aristocrat’s family estate instead of an island that was less than a century old.
+
+
+Architecture-wise, both Celena North’s high school and the adjacent university campus had an identity crisis. The buildings were all grand and expensive-looking, but they didn’t go together. Contemporary structures sat beside traditional ones from multiple cultures. These two out-of-place manor houses were part of the dorms that he and Maricel might be staying in one day.
+
+
+Some of the windows were lit, and they’d already passed by a couple of people out running.
+
+
+“Early risers,” Alden noted. It was five thirty AM.
+
+
+“Apex schools aren’t for lazy people I guess?”
+
+
+“That’s why you’re going to get in.”
+
+
+She frowned at him. “You seemed really confident about that on the bus, too. I think you’re the only one.”
+
+
+“You’re an S. Ground Shaper is a great class for hero work. And even if you don’t want to be a hero for the normal reason, you still want it more than most of them do.”
+
+
+“How do you know that?” she said skeptically. “There are a lot of ambitious people in this group.”
+
+
+“I was listening. Your ambition is to become so powerful that nobody can stop you from being with the people you care about. I don’t see how a guy whose current life goal is to advertise vitamin-laced fruit punch is going to compete with you.”
+
+
+She frowned down at her feet. A minute later, she said, “It’s Alcantara. My last name. I’m fifteen.”
+
+
+“I’m Alden Thorn. Sixteen.”
+
+
+“Thorn is a good name for a hero.” She considered it a moment longer. “It might be better for a villain, though.”
+
+
+“That can always be my backup plan.”
+
+
+A few minutes later they arrived at their destination. Despite the division of the high school into distinct educational tracks, a lot of the spaces were shared. Hero students took classes with the art and science kids, and they used the same dining and entertainment facilities. But this particular building was mostly just for the future heroes.
+
+
+It was a huge cement block, doing its best to hide from the more attractive buildings behind a line of narrow, leafy trees Alden couldn’t identify. There was no sign out front in reality, but the letters on his interface served the same purpose.
+
+
+[CNH MagiPhysical Education]
+
+
+“It’s just PE, with an M on the front,” he muttered. “No big deal.”
+
+
+Maricel was staring at it, too. “So this is where we fight.”
+
+
+Alden grimaced and tightened his grip on his umbrella. “It’s not all going to be combat testing. But…yep. This is where we fight.”
+
+
+“Do you think they’ll let me shove dirt into that mean Brute’s lungs?”
+
+
+Alden side-eyed her. “I’m going to guess the answer to that is no,” he said. “Also…since we’re friends now—”
+
+
+“I’ll treat you like a fellow S-rank.” She smiled at him. “Out of respect.”
+
+
+“You know, that’s not necessary. They’ll just take one or two B’s today, right? Two max. So they’re probably going to compare me to other B’s. Maybe the weaker A’s. You and I are worlds apart. If they pit us against each other, I’ll be feeling really respected if you just wave at me, and then gently trip me or something.”
+
+
+They stepped through the double doors and headed down a short hallway into the building’s gymnasium. There were wooden bleachers, but the resemblance to Alden’s former high school gym ended there. It was a massive space. The ceiling high above them was transparent; the floor was smooth, white, and unmarked by lines. The second he entered, he had to approve an area-customized name tag for himself.
+
+
+“You now have the letter B on your forehead,” Maricel informed him.
+
+
+She had an S on her own, but Alden was barely paying attention to it. “There are so many people here.”
+
+
+He had thought there would be a couple hundred. But there were more than twice that many, and people were still pouring through the doors.
+
+
+“Look how many of them are B’s,” she noted. “It’s a lot more than I expected.”
+
+
+Alden scanned foreheads. Around one in four were fellow B-ranks.
+
+
+“So I just need to beat a hundred plus people. No sweat.”
+
+
+“You’ve got no idea,” a familiar voice said, and Alden turned to see Winston Reginald Heelfeather slipping around a lost-looking A-rank nearby. He wiped his sunglasses on his shirt and then put them on.
+
+
+“Some of these people have been trying for a year or more to get in. They’re on the verge of being too old. The hero track won’t even take you once you hit seventeen, no matter how amazing you are. You have to wait and shoot for the university program instead. But that means some of them have had time to level. And then there are the locals…” He leaned toward Maricel and whispered, “The locals are terrifying. If you need any advice from someone with some experience, let me know.”
+
+
+Alden stared around at his fellow B’s, trying to guess classes based on subtle cues. It was a fairly useless thing to do. Unless someone was showing off talents at this very moment, then he couldn’t tell much. Only the Meisters were easy to pick out as a whole class since they had all brought along the tool of their trade. Mostly weapons, of course, both Artonan and Earth-based. Meisters could be craftsmen or artists, too, but getting into this program with those powers wasn’t going to be easy.
+
+
+That guy has a big flashlight. Is it because he walked over in the dark, or does he use it to do something?
+
+
+People were filling the bleachers. The group from the intake dorms was all huddled up together in a big pile, and Winston headed over to join them.
+
+
+“I guess it would be strange if we sat with some other clique, wouldn’t it?” Alden asked.
+
+
+The island kids were so obvious. They were all broken up into smaller friend groups that were joking around with each other despite the anxiety in the air being so thick you could practically taste it. A few of the S’s were relaxed.
+
+
+Maricel shrugged at him, then she headed toward an empty space in between the intake kids and a large posse of silent A’s and B’s who looked like they might puke at any minute. Some of them had bags or shirts for teams at Franklin High, so he was guessing this was a group who was hoping to transfer schools from there to here.
+
+
+Maricel sat precisely in the middle of the empty area.
+
+
+I guess my new friend and I are loners today, Alden thought as he joined her. But at least we’re loners together.
+
+
+He didn’t mind it. Though he’d been actively trying not to be a recluse since arriving on Anesidora, hanging out with one or two interesting people had always been more his speed than inserting himself into big groups. “Loners together” had been business as usual all through middle school with Boe.
+
+
+A moment later, a hush fell over the room, and the few people still milling around hurried to find seats as a group of twenty adults entered. Most of them were chatting, yawning, and sipping from travel mugs. But the woman in front of the pack was all business.
+
+
+Her black hair was pulled back in a tight bun at the nape of her neck, and she was wearing a form-fitting gray body suit with black athletic shoes.
+
+
+“Good morning,” she said in a carrying voice, as she strode to the center of the gym. “As all of you should know after enduring the selection process to get here, I’m Head of Program Saleh. You can call me Principal Saleh, Director Saleh, or whatever equivalent term of respect works best with your native tongue.”
+
+
+She stood tall, arms loose at her sides as she scanned the crowd of hopefuls.
+
+
+“However, I will ask you not to call me Ghosten. I’ve retired, and another hero now wears the name.” She smiled and lifted an eyebrow. “If you can beat me in a fight, you can call me by my first name. Lesedi.”
+
+
+I would like to see someone other than me try that, thought Alden.
+
+
+Lesedi Saleh was a U-type, and she was one of the rare, rare Avowed who’d moved up from their original rank designation. She’d gone from A to S. And her power set was nightmarishly hard to deal with in combat. She was strong, fast, and agile enough to be mistaken for a balanced version of a Brute, but on top of that, she could phase through solid objects.
+
+
+There seemed to be limits on how long she could use that skill, from what Alden had seen on old videos of her in fights and demonstrations, but it didn’t change the fact that having it made her extra scary.
+
+
+She could deliver devastating strikes without receiving any in return.
+
+
+It was a very tight and tidy package of talents for a U. Many of the uniques seemed to have powers that didn’t quite go together or even ones that outright clashed. It was as if the Artonans had designed them at the end of one of their parties, when all the wizards were drunk and making a botched version of a Sky Shaper who communed with small animals on the side seemed like a hilarious thing to do.
+
+
+Bedlam Beldam has made it work for years, but it can’t be easy…
+
+
+“Congratulations on coming this far,” Principal Saleh continued. “As high ranks, you represent the top fifteen percent of young Avowed.”
+
+
+She’s including B’s with high ranks. That’s good of her.
+
+
+“As young people who have made it to the final stage of this selection process, you represent a much more exclusive percentage. Now, before I finish my welcome speech, let’s take care of a few matters.” She paused. “Those of you who have been through this on multiple occasions should now be seeing interview times and room numbers appearing on your interfaces. If your slot is in the next half hour, please proceed there now. There is no need for you to listen to information you’ve heard more than once before. As usual, you will note that returnee interviews are only five minutes long. If you fail to impress your committee in that time frame, you will not be allowed to return for power testing. Good luck to you all.”
+
+
+A few dozen people stood, including many from the Franklin High group near Alden and Maricel. They left quickly. Some of them were grim-faced, others sweaty and wide-eyed.
+
+
+“To the two of you who sent special testing requests into the school last night,” the principal said in a disapproving tone, “you may stay and observe today if you wish, but you won’t be allowed to participate. Your applications have been rejected for this cycle. We are pleased to accommodate unique powers and unique situations, but the window to notify us passed a month ago. Others who made such requests were prepared and respectful of our faculty members’ time. You were not. You may try again in December.
+
+
+“To the rest of you, thank you for all the hard work you’ve done to get here. The School for Superhuman Studies and Talent Development provides a close-knit community of like-minded young people, and an excellent but grueling educational environment. As students hoping to join us, you are prepared to commit to a complete academic education on top of the talent development program we are known for. If you are accepted, you will not be allowed to neglect either. You will devote twice as much time to your schooling as most of your Avowed peers do, and it is our hope that in turn you will reap more than twice the results.
+
+
+“Your personalized schedules for the morning are being sent to you now. Some of the times listed are very specific. Showing up late to anything will result in your dismissal. Please look over them now, and if you have any questions, let us know immediately.”
+
+
+All over the room, people started scrolling through schedules with their fingers.
+
+
+Alden’s own arrived, and he flicked through it with a thought.
+ 
+
+
+[Alden Thorn - B4✶ - Locker 311]
+
+
+
+06:30 - Special Talent Assessment - MagiPhys Lawn, Green Tent
+
+
+07:38 - Substance Abuse Testing - Room 1002
+
+
+08:00 - Gym Suit Fit Check and Usage Instruction - Main Gym
+
+
+08:45 - Runner Group B2 - MagiPhys Track
+
+
+10:00 - Combat Group 2 or Private Assessment (TBD) - Main Gym
+
+
+11:30 - Interview - Room 1005
+
+
+12:00 - Lunch - Locations Throughout Campus
+
+
+
+* Please remain on campus until rejections and acceptances have been announced.
+
+ 
+
+That’s a busy morning.
+
+
+“Why is there a drug test when we’ve already had one as part of our physicals?” a guy sitting on the far edge of the room asked loudly.
+
+
+“The physicals most of you had done months ago?” Principal Saleh said in a light voice. “Why wouldn’t you have to do another one?”
+
+
+“It’s just…I don’t think…”
+
+
+The principal raised her voice slightly, “Random substance abuse testing will be a feature of your life in most countries if you become a superhero or superathlete. It will also be a regular occurrence as a student in this program. Here, it involves spitting into a vial, wiping a drop of blood onto a magic test strip, and stepping briefly into a scanner. If that’s a problem for you, for some mysterious reason, then you should choose a different school and a different career. Any more questions?”
+
+
+There weren’t.
+
+
+“All right,” she said. “You are dismissed. I look forward to seeing you all throughout the day.”
+
+
+People started to stand and exit.
+
+
+“Which dining commons are you going to for breakfast?” Maricel asked, propping her foot up on the bleacher to tighten her shoelaces.
+
+
+“I don’t have a breakfast time slot,” said Alden. “I have Special Talent Assessment now.”
+
+
+“What’s that about? I don’t get to do that.”
+
+
+“I think it’s probably for people who are coming in with less common powers. To make sure the faculty know how we work before they start throwing us at other students.”
+
+
+“Oh…” she said. “What do you do? Other than your bunny run?”
+
+
+“Let’s not call it that. I preserve stuff.”
+
+
+“It’s a kitchen Rabbit skill? You turn food into pickles? Or jam?”
+
+
+In that moment, Alden experienced an unexpected mix of horror and amusement. The thing was…instant pickling absolutely sounded like a skill the Artonans would include in the Rabbit class. There were plenty of kitchen-focused Rabbits out there. And it would even be useful for preserving all of the dead things and magic plants that wizards used for potions, tool creation, and spells.
+
+
+There’s no way that skill doesn’t exist. It’s got to be on the list somewhere. People are probably walking around Anesidora with it right now.
+
+
+“I think I’ve told dozens of people ‘I preserve stuff,’ without explaining any further,” he said in a stunned voice. “They all assume I’m a pickle maker. That’s definitely what they all think.”
+
+
+“You don’t do that?”
+
+
+“I surround objects someone else gives me with an invisible protective barrier that stops them from changing and prevents outside forces from interacting with them.”
+
+
+“Oh!” she said in a relieved voice. “Good! That’s so much better. I was thinking maybe you could instantly pickle peoples’ body parts, but it didn’t sound like it would work very well.”
+ 
+ 
+
+ 
+
+*

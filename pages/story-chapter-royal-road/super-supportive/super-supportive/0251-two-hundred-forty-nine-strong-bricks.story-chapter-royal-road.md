@@ -1,0 +1,297 @@
+---
+id: 0c36dc61-a8e0-5b51-bc60-674075f4bfad
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED FORTY-NINE: Strong Bricks"
+slug: 0251-two-hundred-forty-nine-strong-bricks
+partOf: super-supportive
+position: 251
+ownLength: 4301
+unit: words
+publishedAt: 2025-10-11
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2668592/two-hundred-forty-nine-strong-bricks"
+royalRoadId: "2668592"
+---
+
+249
+
+******
+
+Alden spent Friday morning sitting out in front of the cottage again, practicing his finger dexterity exercises while he tried to let his thoughts settle into their new, slightly different shapes. The ideas he’d examined on the inward path last night were clearer now than they would be later, and the wounds were still numb enough that he could think about them without getting too emotional.
+
+Yenu-pezth had been willing to focus their discussion on confidence. He was sure he could have asked to talk about paint drying, and she would have found a way to make that helpful for him. This was a much more relevant topic.
+
+He had been confident in ways he no longer was. He was becoming confident in new ways. The nightmares he’d chosen were a tool for gaining confidence by recognizing what he was capable of now that he was a little more powerful and experienced.
+
+Sitting here, the question his brain wanted to mull over was one Rel-art’h had put in his head, though the knight couldn’t have known he was doing it when he was telling Alden that Stuart lacked the kind of confidence the family wanted him to have.
+
+Don’t I lack it, too?
+
+I’m not confident I’ll go bravely to my next binding and however many more there will be afterward. And I’m not confident that two or three things won’t fall on me at some point and make me loathe my affixation—my self—to a deadly degree. I’m definitely not confident I can do most of what knights seem to be supposed to do.
+
+And it’s not like this is some new lack of confidence. I don’t remember feeling super sure I could handle these things on the day I chose to keep my authority sense either.
+
+Does that mean I chose wrong?
+
+By the art’hs’ standards, or by their standards for Stuart anyway, perhaps it did.
+
+I’m a goner, I guess. Someone better plan my second funeral.
+
+Alden set down the twig he’d been twirling.
+
+Someone he didn’t recognize was walking along the stream with a bundle under their arm that was likely a change of clothes. The siblinghold had a heated outdoor bathing pool in that direction. Alden had glimpsed the edge of it through the trees once on a walk with Stuart, but even if he hadn’t, he could have guessed something like it was out there after seeing multiple people head that way and then return after an hour or two with wet hair.
+
+Is that one a knight or not?
+
+He couldn’t tell. The knight members of the family often wore their uniforms at home but not always.
+
+If they are a knight, does that mean they were completely confident in their ability to live like they do now before they went to their first binding? Is that the expectation for everyone or only for the Primary’s favorite?
+
+Or…only for people who have obvious disadvantages?
+
+Like mind traps in their head. And painful childhoods. And being the wrong species.
+
+I don’t think confidence like Rel-art’h talked about is necessary. Because I didn’t have it. I still don’t. And I don’t feel like I made a mistake when I said yes to keeping my authority sense.
+
+If he was giving advice to a person in the exact same situation he’d been in when he’d chosen to keep the sense, as well as his memories of Thegund and Kibby, he would tell them…
+
+That the choice I made was the less reasonable one. The more dangerous one. Not smart.
+
+Affixation was worse than he could have imagined, and the complications that came with being what he was weren’t ones he wanted. He could see that he had, in some ways, been illogical.
+
+But I was sure.
+
+Not that he’d succeed. Not that he’d be happy. Just sure of a couple of solid bricks in his tiny confidence wall.
+
+I wasn’t confident I could do it. I was just confident I wanted my memories and my magic.
+
+Knowing what you want isn’t nothing. And wanting something you might not be capable of doing isn’t wrong, especially if you’ve got your eyes open to the realities of the situation and you’re not just imagining yourself to be much more perfect than you actually are.
+
+Wanting something that might be too hard for you, knowing the risks, accepting them—that’s not a tower of confidence built on your illusions. It’s a few real bricks.
+
+Surely, the point of the choosing season young Artonans had in the Rapports was to give them time to make those bricks.
+
+And if Stuart’s got his made, then whatever happens…even if it costs his life…
+
+His stomach twisted. Taking several slow, deep breaths didn’t untwist it.
+
+Yeah. Okay. I understand why the whole family is losing their minds. The weird thing from an outsider’s perspective is actually that they don’t freak out and try to stop every one of their kids.
+
+As for Alden’s own bricks, he’d found a few last night on the inward path that he doubted he would have recognized, or respected, without Healer Yenu’s prompting.
+
+“I sent a message to Dalat-orni, who tutors the girl Kivb-ee, asking him if she has said anything to him about your time together.”
+
+“Why did you do that?”
+
+“For a perspective other than your own that might show me what you do not know about yourself. She has told him that you named her your instructor for language, that you make meals more creative and impressive than the ones she enjoys with the Quaternary, and that you are better than everyone other than her father at braiding hair.”
+
+“I’m not that good.”
+
+“Did you try to be that good for her?”
+
+“Yes.”
+
+“Was it hard?”
+
+“A lot of the time.”
+
+And he would do it again. He was confident that he would try to make bad situations better in small ways once he found himself stuck in them. A brave face, a wordchain, taping up signs to warn people that an ambassador’s residence wasn’t a place of refuge—he knew he was someone who could do that much. And he had significant evidence that he would do much harder things for some people he ended up in danger with. He hadn’t left Zeridee behind, and he was mentally stronger today than he had been then.
+
+Feels all right to acknowledge that, he thought, as he stood and stretched.
+
+His Earth day would start with a meeting he had scheduled with the volunteer coordinator at an Apex healing hospital. He needed to get ready for that.
+
+A while later, before he left the cottage, he added a note to the study journal and set it on Stuart’s cushion:
+
+“When we tell someone we’re going to build something, and they say it’s not possible, we should probably ask ourselves what they actually know about the project before we accept their opinion. Are they just counting the bricks we’re holding without respecting what they’re made of? And are they measuring how far we have left to go without seeing our determination to get there?
+
+“This applies to brothers who say a friendship won’t work. And to lots of other things, I’m sure.
+
+“That’s what I think after thinking all morning. See you tonight.”
+
+He would trust Stuart to apply the thoughts to knighthood, in addition to friendship, if he wanted to.
+
+******
+
+******
+
+Alden flew from Matadero to his interview in a drizzle that made the nonagon much less fun than usual. He hadn’t passed a single potential entruster on his way from the teleportation alcoves to the hangar, so he’d left the cube with only normal human amounts of rain protection instead of magical shielding. He’d thought keeping his shoes and socks in his messenger bag so that they didn’t get wet was the right call, but now, he’d been sitting in the volunteer coordinator’s warm office for several minutes wearing those dry shoes, and his feet still hadn’t thawed.
+
+The coordinator was a woman in a navy blue polo shirt who had an office that was barely big enough for a desk and three chairs. She spoke to him mostly in Chinese, and she had the air of a pleasant person who was trying to get his business taken care of well but quickly.
+
+After a couple of references to his course requirements for Instructor Marion’s class and mentions that he’d probably be doing all of his volunteering here at this branch of Anesidora’s healing hospital system since it was closest to campus, Alden realized he hadn’t communicated well enough in his application and when he first sat down here and introduced himself. There was no natural opening for him to correct it since the “interview” had been five questions before they’d moved straight into her explaining expectations for volunteers. So he awkwardly interrupted her flow to make the point that he was afraid had been missed.
+
+“I want to be here,” he said, scooting even closer to the desk. “Seeing what kinds of jobs there are and learning how I could make a difference in this setting is important to me. It’s convenient that I have a class next quarter that gives credit for something like this, but I wanted to do this anyway. I don’t mind traveling down to F and the other hospitals. I hope you’ll let me. I hope I’ll be useful, and if I am useful, I don’t think I’ll just quit volunteering here for good once my class is over.”
+
+The coordinator paused for about ten seconds, which seemed like a much longer period of time given the pace she’d been going at. She took a sip from a disposable cup rimmed with lipstick marks, her brown eyes darting around to check whatever she had on her interface.
+
+<<Do you think you might be interested in a career in healthcare, then? You’re in the hero program at your school, so I assumed not. We do have a job shadowing agreement with Celena North, but students who want to do that need to be in pre-med sciences or have the Healer class.>>
+
+“I don’t have to job shadow, just volunteering is fine with me. I don’t know for sure what career I want, even though I’m in the hero program, so I’m trying to explore options. I’m serious about doing my best at whatever you give me here.”
+
+<<You’ll probably be surprised by how boring most of your volunteer hours are, even if I give you permission to volunteer through the System.>>
+
+“Volunteer through the System?”
+
+She picked up her cup again. <<We’re not a normal hospital, and we don’t serve a normal population. Some Avowed Healers don’t even do scheduled work. They just wander in when they’re in the mood to practice their talents. Most are better than that, but…we have a lot of powerful, irregular ways to help sick and injured people. The System does the bulk of our organizing and decision-making for us. Keeps things running smoothly.>>
+
+“So if you give permission I can volunteer through the System, and it will decide what I do?” Alden asked.
+
+<<Not quite. It would recommend you to staff members, and then they’d have to confirm.>>
+
+“Can I volunteer that way?”
+
+<<Usually I’d make someone your age work for a couple hundred hours before I considered it.>>
+
+That sounded like a long time. “I think my skill might be easier to make use of if the System helps people understand when I can help.”
+
+<<Some wizards work here. They have a tendency to accept the System’s recommendations even if the task is inappropriate for someone who isn’t used to a medical setting.>>
+
+“I speak Artonan.”
+
+She wasn’t swiftly rejecting him, and she’d brought up the possibility of letting him volunteer through the System in the first place. He didn’t know why she was considering it for him, but she seemed to be.
+
+“I’ve used my skill on injured people before without freaking out,” he added. “I ET’d with a classmate recently. Whether I’m doing boring jobs or hard ones, I’ll try to be professional and learn from the experience. I won’t pester busy doctors or healers. I’ve helped dispose of dangerous and disgusting things in an alien lab before.”
+
+She held up a hand. <<All right. I’ll take you seriously. Let me start this meeting over by telling you how volunteering will work if you do it that way. Avowed with powers that can be used in a medical capacity… >>
+
+******
+
+Not only did she take him seriously, she also issued him his own navy blue polo shirt and sent him on a practice run through the facility.
+
+Go volunteer. Call if you have any questions. Wear this name badge at all times; not everyone has an interface. I’ll receive updates on everything you do, and I’ll read them, too, until I’m sure of you. I might send you some tips.
+
+Alden ran through her instructions one last time while he checked himself in the mirror of the restroom he’d changed in. The name badge said “Alden Thorn” in small print beneath the nickname she’d given him. Pause Button Rabbit.
+
+She said all volunteers got an informative nickname. He was allowed to change it if he could think of an equally succinct way to convey his skill to people who’d never heard of it before.
+
+I look fine. “System, loop me in at Central Crescent Healing Hospital for sixty minutes.”
+
+That was the official way to volunteer here in English. Later, he might be given permission for distance volunteering, which would enable the System to teleport him, but currently he had to be physically present at one of the locations he was authorized to help at.
+
+He waited, tense, until he started to feel like that tension was wasted.
+
+If people were dying here every couple of minutes for lack of one Pause Button Rabbit, it would be an incompetent hospital. I just need to calm down and walk around hoping someone wants me for something.
+
+It was less structure than he’d been expecting, but having the System involved seemed like a good thing. After all, it knew what he could do. Although, that did bring to mind a wrinkle unique to him. He set off down a pale blue and white hall, reading signs and nameplates to get his bearings on the way to the elevator.
+
+[System,] he typed, [when I’m volunteering, do you base the task recommendations on my real abilities or my fake profile?]
+
+[The fake.]
+
+Alden wondered if asking it to be a bit flexible on that, without getting him into trouble, would be a bad idea.
+
+[You have gym in ninety-seven minutes.]
+
+Alden read the words. [Thank you. That’s a helpful reminder.]
+
+It was pointing out that volunteering to exhaust his skill right now didn’t even make sense. Which was decent of it.
+
+He spent a while exploring and introducing himself to people who weren’t busy. Interface notices told him where he could and couldn’t go.
+
+Central Crescent had a special emergency department in a separate building where the System ET’d patients who were too dangerous for other hospitals. Alden wouldn’t be going there. But he was allowed in the walk-in clinic, on most of the patient floors, in the cafeteria, and in the janitorial closets. The waiting rooms were also his territory.
+
+A chat with a fellow polo-shirted volunteer who was in charge of the gift shop today gave him ideas for the kinds of things he could do when his magic wasn’t needed by anyone.
+
+“There are always lonely patients who want to chat, and the nurses know who they are,” she said, while she cut the tape off of a cardboard box and opened it to reveal a stack of coloring books. “Nothing is ever as clean as it could be. And filling the hospitality carts with what people actually want to snack on or play with is the key to popularity.”
+
+“Got it.”
+
+“It takes a while for everyone who works here to get used to having you around and get familiar with what you can do well. If you find a chore that nobody else seems to want, and you do it regularly, it will become yours and people who you didn’t know appreciated it will notice when you stop.”
+
+“Finding something nobody else is doing sounds difficult. But I’ll—I’m getting an assignment!” he exclaimed as the notice came across his interface.
+
+The gift shop lady took a step back, startled by his increase in volume.
+
+“I wasn’t sure I’d get to do anything.” Alden snatched his messenger bag off the counter. “But I’m going to the potion dispensary!”
+
+“I’m glad for you?”
+
+“Thank you!”
+
+Nerves and excitement clashing, he rushed out. The System gave him directional arrows so that he didn’t get lost traveling down a couple of floors and turning left at an intersection of hallways. He approached a beige door that said Authorized Personnel Only, and when it swung open to admit him automatically he got a little thrill out of it.
+
+I’m authorized for something.
+
+White tile floors gave way to pale, surprisingly unvarnished wood. Tall, gray metal cabinets stood along both walls, their contents invisible. A man in a nurse’s scrubs was checking the label on a vial that had just dropped into one of the cubbies on the front of a cabinet.
+
+He glanced at Alden but didn’t say anything as Alden followed directions toward a window that had been cut out of the wall in the middle of the hallway. There wasn’t much to see through the opening, just a wooden wall and a door that blended into it. But there were two people waiting in the window for him.
+
+One was a man with a chiseled jaw and a large nose whose name tag said Dr. Abbasi—Healer/MD, and the other was an Artonan man in a long-sleeved white robe more similar to an angel costume than the lab coat of the doctor beside him.
+
+“Look, Panna! Look how fast the volunteer came. Look who the Contract has sent us,” Dr. Abbasi said, in Artonan, as he swept his arm grandly toward Alden. “I recognize this young man. They say he has been commended. You have to agree he has a trustworthy dance.”
+
+Trustworthy dance? Is that an expression I don’t know or did he mean some other word?
+
+“His honorary title is ‘Pause Button’,” the doctor continued. “Doesn’t that sound next door to perfection? Go tell your wizard it will be educational for him to help her.”
+
+The Artonan, Panna, had the same earthworm hair color as Ambassador Bash-nor, but his demeanor wasn’t similar at all. He was slouching under the doctor’s gaze and sighing like he was enduring something very exhausting. “She will not like having a volunteer.”
+
+“No. She will. We’re helping her. Because I’m sure she didn’t mean to start a day-long project when she’s supposed to be in charge of our potions.”
+
+“She did mean to. She had an idea of rare worth to test,” Panna muttered.
+
+“She has so many of those, though. Isn’t she tired of them, yet?”
+
+Panna sighed for so long it sounded like he’d sprung a leak. Doctor Abbasi turned to Alden, “Hello,” he said. “I asked the System if it could help me get our hospital’s extraordinary potion and medical device wizard to modify a potion for one of my patients. And it sent you. Is your nickname ‘Pause Button’ because you pause certain processes?”
+
+I want to get whatever this is right. Alden tried to stand a little straighter. “I can preserve things and beings. I have to hold them, but when I do, I protect them from change. My skill does pause everything going on within a protective shield. It doesn’t have a specific connection to potions, though.”
+
+Panna looked at the doctor. “That is useful. He can hold your patient until Master Ladda has finished testing her idea.”
+
+The doctor gave him an incredulous look. “We’re not having him hold an adult man for ten hours when he can just hold whatever experiment she’s working on for ten minutes.”
+
+“I have to go to school soon,” said Alden, wondering what would happen if he told Panna that after school he had to go to Rapport I. “If the Contract says I can do this, I’m sure I can. Should I put on my commendation so that I look more trustworthy and the Master of Potions won’t feel worried about leaving me with her important project? I have automatic embroidery patches in my bag. If that would help.”
+
+The doctor gave him a few blinks. Panna, who Alden was assuming was the wizard’s ordinary class assistant based on the fact that he wore no embroidery of any kind on his angel robe, turned one eye to him and another toward the door.
+
+“That is not necessary, Alden Ryeh-b’t,” he said. “I will convey your presence and the Healer’s request to Master Ladda-ser…who is a Master of Healing Objects for Humans. She is still working on being recognized for mastery of potions.”
+
+He disappeared through the door.
+
+The doctor beckoned Alden closer. “Don’t think that Ladda-ser is scary just because Panna-ser is hard to get past. She likes humans. It can be hard to tell because she’s extremely introverted. He keeps people from bothering her.”
+
+Alden raised an eyebrow.
+
+“She’s supposed to be bothered right now,” the doctor said. “She’s at work, and I brought her work only she can do. Are you new to volunteering with us? Your skill sounds interesting.”
+
+“It’s my first hour volunteering,” Alden said. “I’m glad someone needed me.”
+
+“You’ll get to use that skill on something cool, I think. She makes amazing things for us.”
+
+Panna-ser reappeared and ushered Alden back into a workshop that was toasty and meticulously neat. Almost everything must have been tucked away in the drawers that covered the walls. There were several empty tables, and a woman with dull brown hair that matched her wizard garb was leaning over one. Her nose was very close to a human…doll…that was naked except for a clearish red blob sitting on its chest like a misplaced jellyfish.
+
+The doll was an average-looking adult male. It was around eighteen inches long, which was the one thing keeping Alden from thinking it was a dead or unconscious body. Thankfully, its eyes were closed. The realism was uncanny.
+
+The wizard didn’t let her attention flick away from the project at all. It was  Panna-ser who told Alden to pick up the doll, and the blob with it, without letting either be disturbed for a single instant.
+
+Alden stepped over and eyed the model, settling on lifting it by its feet and head because grabbing it anywhere else seemed weird. As soon as he’d picked it up, Ladda-ser drew in a breath and titled her chin up to regard him. Briefly, she seemed like someone who was confused about why her toy had been taken away. Then, in a quiet voice, she said, “I am inventing an enchanted heart for humans to wear while theirs are being healed. It will stick to the chest. We have ones like these, but they don’t work for you. I will make them work for you.”
+
+Alden looked at the jellyfish. Enchanted external heart? “Hyektch.”
+
+“Please do not drop it.”
+
+“I won’t.”
+
+She looked from him to a chair across the room. He went to sit in it, even though she hadn’t actually said to, in case it made her feel better about leaving him alone with this thing she’d made.
+
+After she left, the assistant stood guard over Alden like he could somehow prevent disaster just by being present. He explained that this device, if it worked, would be one that anyone could grab and slap onto the chest of a person whose heart had stopped, and its use wouldn’t be an impediment to other healing magic.
+
+He also explained that the doll was a specially made medical research tool. “What else would it be?”
+
+Alden refrained from replying, “A middle-aged dead guy you shrank with a spell.”
+
+The specially made medical research tool had body hair, testicles, toenails…
+
+About ten minutes after she’d left, Ladda-ser returned. She walked straight over to where she’d been standing and even leaned over in the same way, like she wanted everything to be exactly as it had been before the interruption.
+
+Alden tried to put the doll back in precisely the right place on the table in front of her, thinking that would help her get back into the zone.
+
+What she’s doing sounds important. Panna was already shooing him out of the workshop with one hand and gesturing for silence with the other. They’re an odd pair. But I got to help a researcher do research on an enchanted heart, even if it was only for a few minutes. Maybe because I helped, it becomes real one day.
+
+The assistant was glad to get rid of him, the doctor was nowhere to be seen, and the System was telling him he wasn’t allowed in the dispensary anymore since he didn’t have business there. But Alden felt himself smiling as he left.
+
+He knew he had preserved the strange doll as perfectly as anyone could, and that seemed to be what was needed.
+
+Before he left the hospital, he found one more chore for himself by standing at an entrance and offering to dry peoples’ umbrellas with a quick application of his skill so that they wouldn’t have to shake water all over the place or stuff them into plastic bags.
+
+Things I can do well. Strong bricks are strong bricks, even if they’re small.

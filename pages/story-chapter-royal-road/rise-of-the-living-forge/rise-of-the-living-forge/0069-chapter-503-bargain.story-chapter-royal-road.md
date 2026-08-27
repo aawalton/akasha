@@ -1,0 +1,167 @@
+---
+id: 8b791359-a77f-5979-8ee3-72cab07e2b18
+page-type-slug: story-chapter-royal-road
+title: "Chapter 503: Bargain"
+slug: 0069-chapter-503-bargain
+partOf: rise-of-the-living-forge
+position: 69
+ownLength: 1780
+unit: words
+ownProgress: 1780
+publishedAt: 2025-10-16
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2681182/chapter-503-bargain"
+royalRoadId: "2681182"
+markedReadAt: "2026-06-29T20:00:38.552Z"
+---
+
+“You can’t do that,” Thane said.
+
+Vireth stared at him.
+
+He stared back at her.
+
+“What?” Vireth asked, so stunned that the malice in her voice completely cracked.
+
+“You can’t just go around claiming people,” Thane said. “That isn’t how it works.”
+
+“Do you have the slightest idea as to what I am?” Vireth asked. “Are you dense? Esmerelda told you what I am. What we are. I know. I overheard it.”
+
+“Well, yeah. She did.”
+
+“And you still refuse me?” Vireth’s red eyes narrowed in anger. “You refuse the power that I hold?”
+
+“I didn’t say that,” Thane said. He swallowed, but he was far too deep now to change his mind. “You keep saying you want a wielder. Not a slave.”
+
+“They are one and the same. You will be my vessel.”
+
+“No,” Thane said. “I won’t. And they aren’t the same. You’re a Devil bound to the form of a weapon. And, just like you said, Esmerelda has told me about your kind. You’ve existed for hundreds upon hundreds of years, and you’ll live long after I’m dead. But you won’t just settle for someone to mindlessly swing you around. You’re picky. That’s why it takes so long. But if you’re picky, that means you’re looking for more than just a pair of hands to hold a weapon. You need someone who is actually working with you.”
+
+“What are you implying, boy?” Vireth asked, her words a dangerous whisper.
+
+“Cursed weapons wait so long to find somebody because your true strength will remain hidden unless you’re working together with your wielder,” Thane said. “And if we’re going to work together, you can’t just go throwing ultimatums around. That isn’t what a good business relationship is based off.”
+
+“You think you know better than I?” Vireth let out a cold laugh. “You think that you bring anything to bargain with beyond your mere existence?”
+
+“Yes,” Thane said. “Because the alternative would mean that you really don’t give much of a shit who you’re bonded with. And, if that’s the case, we can just find you some random drunkard in an alley.”
+
+Vireth paused.
+
+Neither of them spoke for a second. Then her eyes narrowed.
+
+“You realize that you are attempting to bargain with a Devil,” Vireth said. “That does not tend to end well. It is in your best interests to avoid getting on my bad side.”
+
+“I think it’s probably in my best interests to avoid getting walked all over,” Thane said. He swallowed, then set his jaw. “I’m done with that. Either kill me now or come to an agreement that suits both of us. It’s up to you. But I’m not going to just be a tool.”
+
+“Do you think I’m bluffing?” Vireth asked. Her voice dropped to a soft whisper as she closed the distance between herself and Thane with a single, blurred movement. “I am a Devil. We do not bargain. We take.”
+
+“Then kill me,” Thane said. “And enjoy sitting in storage for the next few hundred years — assuming Arwin doesn’t eat you.”
+
+Vireth’s fingers twitched. She held his gaze for a long second.
+
+Then, to Thane’s surprise, her lips pulled up into a grin.
+
+“I would accept nothing else from my wielder. Very well, Thane. Let us discuss exactly what it is you demand. We shall see if we can come to an agreement. And, if we cannot, I will kill you and the consequences can be damned. That, boy, is a promise.”
+
+***
+
+Time snapped back into motion. Thane stumbled, a lingering frost still pressed against his neck like the fingers of the reaper himself. The purple magic flowing around Esmerelda’s fingers swirled to life in misty streams and Vanessa finished her jump back — only to find that the black smoke pouring from the axe was gone.
+
+“Run!” Esmerelda snarled, finishing the sentence that she’d started only a mere second ago. “Find Arwin! I’ll deal with this!”
+
+Thane jumped forward before Esmerelda could let the magic fly. He put himself right between hers and the Axe, throwing his hands up.
+
+“Wait!” Thane yelled. “Stop! Don’t do anything! It’s okay!”
+
+Esmerelda’s magic flinched back as if in surprise. Her eyes flicked from Thane to the axe behind him in an instant. Then her lips went thin in anger as realization flashed through her gaze.
+
+“Release the boy, Vireth. He is not yours to take. That is my assistant. Do not think you can deceive me. I have worked with your kind longer than any other. This one is under my protection.”
+
+“You’re not speaking to Vireth,” Thane said. “It’s me, Esmerelda.”
+
+“What’s going on?” Vanessa asked.
+
+“Be silent,” Esmerelda snapped. Her eyes didn’t leave Thane for so much as an instant. It felt like she were trying to bore a hole through his soul with her gaze alone. “Bare your soul to me.”
+
+“Bare my… huh?” Thane blinked. “How? I can’t do that.”
+
+Esmerelda’s lip curled into a sneer. “You expect me to buy that? I will not give you another warning. Leave the boy, Vireth. Now. We will find you a different wielder. But if you attempt to steal my assistant, then you will discover exactly what the Curse Broker is capable of. I am no mere merchant subject to your whims. Do not forget the full extent of my powers… or the other Devils that I have contracts with.”
+
+“It’s me, Esmerelda,” Thane said. He held his hands up. “Vireth can’t speak right now. I’m not holding her. It’s just me.”
+
+Esmerelda stared at him. A terse moment dragged by. Then her hands lowered slightly, confusion playing across her features.
+
+“…Do you really expect me to believe that?” Esmerelda asked. “The smoke vanished. That means Vireth has bonded with someone. It certainly wasn’t me, and it clearly wasn’t Vanessa either. That only leaves you.”
+
+“Right,” Thane said. “It was me. She froze time or something and then we spoke. But we made a deal.”
+
+“You expect me to believe that a child managed to convince a Devil to come to a contract? One that left them with free will over themselves?” Esmerelda asked with a snort. “I am not a fool. Last chance, Vireth.”
+
+“Can’t I prove it somehow?” Thane asked. “There has to be some way, right?”
+
+“Insult Vireth,” Esmerelda said instantly. “No Devil would ever allow their wielder to—”
+
+“Vireth is… uh, clunky. Her axe is clunky.”
+
+Esmerelda stared at Thane.
+
+Vanessa did the same.
+
+“That was awful,” Vanessa said. “You can’t call that an insult.”
+
+“I did my best,” Thane protested. “What am I supposed to say? I don’t want to be mean!”
+
+“Call her fat,” Esmerelda said.
+
+“She wasn’t fat,” Thane said.
+
+“That’s also just a shit insult,” Vanessa said with a scoff. “You gotta be more creative. Cut deep. An insult should hurt.”
+
+“How am I supposed to do that? Just tell me what to say!”
+
+“That’s not how it works,” Vanessa said. She patted her heart. “An insult has to come from here. The heart. Nobody can give you—”
+
+“Say Vireth a pathetic little shadow with no more power than a field mouse. One who has to beg for even a scrap of power and would be better off used as a shit-shovel for a pigsty,” Esmerelda said, her eyes narrowed. “And say it now.”
+
+“Wow,” Vanessa said. “Color me wrong. That was a good one. Say that.”
+
+Thane repeated the line, wincing slightly.
+
+No sooner than the last word had left his mouth did Esmerelda’s eyes go as wide as saucers. The obsidian axe behind him trembled in the barrel.
+
+“Godspit,” Esmerelda whispered. “You were telling the truth. Vireth never could have debased herself like that. She’s too proud. You really managed it? You made a contract with her?”
+
+“Yeah,” Thane said, blowing out a relieved breath. “We came to a reasonable agreement.”
+
+“Unbelievable,” Esmerelda muttered.
+
+“What’s the agreement?” Vanessa asked, tilting her head to the side. “Do you have to sacrifice a bunch of people every full moon? Because I can think of a few that would be good sacrifices. I can make you a list.”
+
+“I—”
+
+“Stop!” Esmerelda barked, throwing a hand up to stop Thane. “Don’t say it. Never tell anyone your contract. That stays between you. The fact that you’re able to speak freely at all means you maintained control over your body. That’s… impressive. I hope you didn’t give up anything too important.”
+
+“I didn’t,” Thane said. “We came to a mutually beneficial agreement.”
+
+Esmerelda pressed her fingers to the bridge of her nose. “Yes. That’s what everyone thinks. It rarely is. Do you really think you're going to outsmart something that’s lived for more than ten times the years that you have? Damn it, Thane. This never should have happened. I—”
+
+Thane yawned.
+
+“Sorry,” Thane said, covering his mouth. “I didn’t mean to interrupt.”
+
+Esmerelda’s eye twitched. “I am trying to scold you, boy. Your idiocy just got trapped you with a Devil. For life. Do you understand the severity of this? We’re going to have to speak with Arwin. Not even I can break this kind of contract, but I’m sure he could. Maybe we’ll just feed him the damned weapon. I don’t care about the rules. I’m not losing the only competent assistant I’ve ever had to some damned hussy of an axe.”
+
+“Hey!” Vanessa said. “Watch your words. Have some respect for my people.”
+
+“Sorry,” Esmerelda said.
+
+“It’s okay,” Thane said through another yawn. He rubbed at his eyes, but the urge to flop down on the spot was nearly overwhelming. Thane swayed. Darkness prickled at the edges of his vision. It felt like he’d been awake for weeks. “I think I covered everything. We were discussing the contract for a while.”
+
+Esmerelda started to say something, but she paused midway through when a thought struck her. A pensive frown crossed her lips.
+
+“…just how long did you spend determining the details of your contract?” Esmerelda asked. “A few hours shouldn’t have tired you out that badly.”
+
+“Well, I wanted to make sure we covered everything,” Thane said. Every word was a fight to push out. The darkness pushed further inward, swallowing the world until nothing but a tiny pinprick of light remind. But even through it, he managed to find the strength for one more response. “I think it took something around a week.”
+
+“A week?” Esmerelda exclaimed in disbelief. “You kept her stuck in your mind making a contract with you for a week?”
+
+But Thane didn’t hear her. He’d already collapsed to the ground, unconscious. There was a lot of sleep he had left to catch up on.

@@ -1,0 +1,341 @@
+---
+id: 24c63c1f-c597-54c7-a495-1fb4ac9316af
+page-type-slug: story-chapter-royal-road
+title: "189: The Demon Diva"
+slug: 0211-189-the-demon-diva
+partOf: there-is-no-epic-loot-here-only-puns
+position: 211
+ownLength: 3909
+unit: words
+publishedAt: 2023-12-12
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1440421/189-the-demon-diva"
+royalRoadId: "1440421"
+---
+
+“What...sort of teacher... has a torture device... as a wagon?” Estal puffed as the wagon cheerfully made its way through town with all the students aboard it and Estal at front holding a spoon and ladle that glowed, absorbing her mana to power its momentum.
+
+“It’s not a torture device. It’s legal in more towns than it is not, so by debatable means, it’s a learning tool!” Mr Jones said brightly.
+
+“Why do I have to wear... this frumpy outfit,” Estal whined as the gray and white apron settled over a thick blouse billowed in the passing breeze.
+
+“It enables the wagon to absorb your mana better, as does the instruments in hand. The hat is just to complete the look, however,” Mr Jones admitted as they left the town, having to slow down to let a confused but excited girl in a dress pass by and the girl made Mr Jones’ nose itch, like smelling something familiar but not entirely pleasant.
+
+It was an interesting slime she carried, Mr Jones hadn’t seen that particular kind before. The woman... Well, the thing that was pretending to be a woman, was also interesting.
+
+Still, he had his lesson plan and by hell, he was sticking with it!
+
+“I can’t go back into the Dungeon, my punishment will get extended,” Estal said and Mr Jones waved her off but stiffen as they passed a sleepy looking inn where an old wrinkled hag was waving goodbye to a serious looking boy.
+
+The two shared a look and Mr Jones hackles went up and the old woman’s nostrils flared.
+
+‘Boil yer head in cow urine and then may they use your heart as sausage filling! Horrible saggy sausages!’ Ghu cursed in a tongue so old it was collecting benefits from the gods.
+
+‘I hope your customers rate you an unsatisfying three of five stars every day!’ Mr Jones yelled back in a language not yet spoken in this world.
+
+‘At least they choose to come here, those innocent brats have no choice but to go to your hell house!’ Ghu yelled back louder and slammed the door.
+
+Saucy old hag. It was weird to see her so alive again after the Gray had been so persistent over the years. Weird, but annoying.
+
+“Ohh, the teacher has a crush!” Deo said and Mr Jones gave him a look of such utter revulsion that a nearby bird fell to the ground dead.
+
+“He sure does! That is pure love!” Estal said between sweaty huffs. Mr Jones scooted away from her in horror as the students all began to giggle.
+
+“This lunch lady is ready to serve,” Estal warned as she pushed the wagon over a hill.
+
+Before Mr Jones could get too far, someone stopped the wagon and Mr Jones smelled the scent of success!
+
+He turned with a smile to see Ruli glared at them.
+
+“You’re outside the school. This alarms me,” she said to him and then blinked as she spotted Estal, pale and sweaty in the large uniform.
+
+“What are you doing here this close to children? I thought you called children ‘ugly womb gremlins that are illegal to set on fire’?” she asked with a raised brow.
+
+“The moody one bribed me with cake,” Estal grunted and Grim shot her a shushing noise as if trying to keep his bribing secrets private.
+
+“We’re on a field trip to Delta’s Dungeon as she requires the aid of a demon and she called upon me,” Mr Jones said with a smile and then blinked as Ruli seemed to glare at him, her foot digging into the wagon and causing it to groan.
+
+“And why does she need you when I’m here?” she asked curiously.
+
+“Perhaps she needs history lessons. Do you have complete historical knowledge of the world? Perhaps she needs help with a math puzzle? Do you enjoy puzzles?” Mr Jones pressed, used to Ruli’s temper as he had taught since she was a young child himself.
+
+Ruli grumbled and pulled her foot away.
+
+“I can research stuff and any puzzle can be beaten if you just beat it hard enough,” she argued.
+
+“Ruli, join us!” Deo patted the wagon.
+
+“Kid, there isn’t enough room for a spare set of my shoes, let alone-” Estal turned and blinked as the wagon now seemed to be much longer than before and had more ornate details on the wood.
+
+“My class has exactly enough room as needed for my students,” Mr Jones said firmly.
+
+“I graduated,” Ruli protested but climbed inside and sat next to Deo who handed her a juice box. Ruli took it without complaining.
+
+“You will always be my student, Ruli,” Mr Jones said softly and the woman actually looked troubled by that fact and not at all touched.
+
+Students... you chain them to a reality layer once or twice to force them to graduate and they take it personally!
+
+But really, if Ruli hadn’t somehow vanished into a pocket dimension for three months and become untraceable, Mr Jones wouldn’t have eaten three desks, two bicycles, and a whole novel about ducks using robots to fight evil.
+
+It had been a binge he wasn’t proud of.
+
+However, since then? He had to teach Deo and Grim. His patience had vastly improved. He only ate a desk or two every so often now.
+
+---
+
+“Ah, I’m very busy... ohhh busy mayor things,” the crazy old woman in a gray bathroom cried from the window, peeking out behind the curtains with wide-eyes. Serma stared, feeling like she was intentionally being ignored.
+
+“Mayor... Darknessbane, please open up and welcome the ‘crowned’ princess, Serma,” Lorsa said with loud thumps on the door.
+
+“I would rather not! I have so much... paperwork about the ‘repairs of the main road’?” the woman said then went quiet.
+
+“Who the hell thinks this is worth my time? Who do they expect me to find to fix the road? This is why I use these as kindling!” the woman roared and a desk smashed through a nearby window with a dozen important looking documents floating away in the wind as if to let out cries of mercy.
+
+Serma was almost sure she could hear the paperwork cry ‘freedom’ as they vanished into the distance.
+
+“Lorsa, this woman seems unstable. Should we leave?” she asked and the Guard Captain gave her a smile that didn’t reach her eyes.
+
+“Mayor Darknessbane is a respectable woman, she just doesn’t like responsibility or people or official business or people or unexpected guests or people,” Lorsa explained.
+
+“We’re people,” Mas said as he took a turn holding Mule.
+
+“Excuse me?” Imp asked, looking insulted at the idea of being a people. He shooed a dozen butterflies trying to land on him and Serma tried not to feel envious that butterflies didn’t land on her.
+
+Was it her perfume?
+
+A second later, Mule sat on her head and formed little gooey appendages with a small ‘poi’. It made Serma feel better but it seemed like the local wildlife took three steps back from her, even insects were avoiding her now...
+
+The door suddenly opened and the crazy old woman wearing nothing but fluffy boots and a robe emerged wielding a spatula like a knife.
+
+“What is that?” she sniffed a dozen times before coming near Serma. The girl stiffened as those intense yellow eyes looked into hers.
+
+“Lorsa, you didn’t tell me the princess was such a...” Darknessbane took another deep whiff as if enjoying the scent.
+
+“Prolific monster,” she almost growled with a grin. Serma was a what?
+
+“Well, she isn’t-” Lorsa tried to say but Serma was suddenly whisked inside by the crazy old woman.
+
+“What’s your tool? Fish knife? Great axe? Oh, I love a good double-ended blade and an army to mow down! It’s always nice to meet a fellow hobbyist in population control!” the mayor beamed as she seemed to pour Serma a massive glass of putrid whisky.
+
+“Did you just confess to being a serial killer?” Serma asked as the others followed them in.
+
+“Psh, no,” the woman said with a snort. Oh good, that wasn’t as bad as Serma thought.
+
+“I don’t have patterns or preferences. Just that they’re tough to kill,” the mayor went on.
+
+“Poi,” Mule said with a hum as if singing.
+
+“Mila, this is the king’s daughter,” Lorsa said with a strange tone and Serma tried not to grimace at the connection to that man.
+
+“So many kings really and they all suck,” the mayor said and Lorsa sat down and slammed a wine bottle down with such force it made a clear ringing noise.
+
+“Look at her,” Lorsa seemed to almost order and Serma felt oddly exposed as Mayor Darknessbane looked at her fully for once, taking her all in.
+
+“You see it. I think she has his confused nose-” Lorsa said and Mila’s voice had gone from cranky and moody to just... flat. Instantly, Serma felt in danger, like she was sitting across from a wolf.
+
+“Welcome to Durence, now do what you came to do and go,” the mayor said and there was a tense silence.
+
+“My father is... I get why you don’t like me because of him. He’s vain and cruel and hurts everyone around him-” Serma stood up, holding Mule like a pillow to ease the tightness in her chest.
+
+“Kid, shut up. Your father was an idiot and he was cruel because he did things without thinking of others. He hurt everyone he ever met and I’ll never forgive him for that,” the mayor stood up as well and turned as if needing to take a deep breath.
+
+“Well... whatever. You can sit here and be a sad drunk or whatever but I’m going to do my duty and complete the local Dungeon and earn my throne. If you wanna feel sorry for yourself and sit in the dark like a crazy cat person then you can just... do that... thing I just said,” Serma said hotly while glaring at Mila’s back.
+
+“Yeah! Serma is a good person because even though she’s a princess, she just ended up helping me out and letting me fulfill my dreams! I bet you never had a nice prince or princess ever just help you out so maybe you don’t understand,” Mas said and Serma shot him a warm smile.
+
+“Urgh they’re making me wanna hurl,” Mila grunted and reached around for a pen and a stamp. She moved fast, scribbling on Serma’s head what felt like a signature and stamping Mas’ head with an official stamp that looked to be a sword, a fang, and claw buried into a hunk of cheese.
+
+“I have a condition before you go in. Find the one called Alpha and the one close to an anxiety attack, Gentle of the Fairplay. Get advice from them before going. I’ll pay for your inn rooms,” Mila sighed.
+
+Serma smiled and was about to say something when she spotted the Imp demon pressed against a wall, looking so pale he might faint.
+
+“King Taker,” he kept whispering over and over. Mila gave him a long look then dismissed his existence so entirely Serma had to convince herself to remember Imp was real.
+
+“What’s a King Taker?” Mas asked as they left the house with Mila watching them go.
+
+“The precursor to a King Maker,” Lorsa said with snort.
+
+Serma couldn’t see anyone with any sanity wanting to spend a night with that weirdo woman.
+
+---
+
+Mila watched the group go, feeling the urge to drink until she woke up with a hangover under the kitchen sink again.
+
+Damn girl was his clone.
+
+A little more fire to her, but that would be her mother, wouldn’t it be?
+
+“Oh Dur... you would have been wrapped around her fingers,” Mila said and shut the door, trying to keep out the guilt that wanted in.
+
+A voice at the back of her mind kept whispering.
+
+‘You had a chance to be the same...godmother’ a nasty voice of her own making said.
+
+What had Durence said?
+
+‘Right so it's sorted. Mila, you can be the godmother of the first one to find you. That’s your rule?’
+
+Yep, that was what she had promised.
+
+Mila needed to stop drinking or getting attached to people. Mila eyed the whisky in her hands then snorted.
+
+“People it is!” she said and went inside.
+
+---
+
+Delta was being invaded by a dozen children, two demonic presences, and worst of all, Estal.
+
+Who knew a letter could be so effective?
+
+Ruli looked as good as ever and Delta was pleased to see some of the stress on her face had eased off. The man next to her...
+
+Delta felt odd and as she peered at him and he back at her, she spotted pen ink on his fingers, tiny paper cuts and coffee stains on his tie while he seemed on the verge of setting fire to the world or getting back to the kids he was in charge of.
+
+“A teacher,” they both said at the same time in surprise.
+
+“Yeah, you learn a lot about how to hate pigs, hot springs, yappy trees, and little mushroom people here,” Estal said briskly.
+
+“Parent meetings but the child didn’t tell them about homework,” the demon said.
+
+“After school clubs you didn’t agree to but can’t quite turn down!” Delta responded quickly.
+
+“Punishing eating in class but having chocolate in your drawer,” the man was heaving in excitement.
+
+“Just giving everyone a pass on a test that doesn't matter because you’re tired!” Delta yelled.
+
+“TEACHER!” they both scream.
+
+“You can... skin three rabbits in a minute if you use the knife longways  instead of upwards,” Ruli interjected with a smile. It struggled to last as both of them stared at her.
+
+“I mean. I once counted an entire skeleton to make sure a Skeleton Ghost couldn’t escape. Patience master,” Ruli continued to say.
+
+“Skeleton ghost?” Delta blinked.
+
+“A spirit that haunts bones. Once it chooses a skeleton, if even one bone escapes it can rebuild itself out of other parts,” Mr Jones explained and Delta looked impressed... but Ruli looked oddly moody.
+
+Taking the kids to the Lake Room, she sat the two down as everyone went for a swim in the high noon setting. Occasionally the Moon Fish darted past, causing squeals of delight. Waddles was also present but he didn’t let any of the kids come close to his knife throne.
+
+Delta wanted to say he was being nice but likely he just didn’t want child blood on his blades.
+
+Mr Jones looked troubled.
+
+“Opening an actual gate to the Abyss is no simple matter. It requires a lot and I don’t even know if some of the demons in this world are still around or not,. The Duck is... unhelpful,” he admitted, making Delta’s hopes fall.
+
+“The need to recover a student is important so I won't give up trying to think of a way to help. As a fellow educator, I value your commitment to your students,” Mr Jones said and Delta giggled and waved him off. What a swell guy.
+
+“A kid, eh...” Ruli muttered and she seemed to be putting whatever was bugging her to the side to give it a serious thought.
+
+“So, you’d be eternally grateful if someone was to rescue this little doe of a girl?” Ruli asked and Delta nodded.
+
+“Indebted,” Delta said seriously.
+
+“Betty... I will suffer to see her safely returned. To know that she's in the Abyss and can’t get out is something that is hurting me and I won’t rest until she’s out,” Delta said firmly.
+
+Mr Jones smiled slowly.
+
+“Okay, first, don’t say you’ll do anything in front of a demon again. It sends the morally wrong message,” Ruli said quickly.
+
+Delta winced but Mr Jones just winked at her and Delta had to stifle another grin.
+
+“Second, you could have just asked me. I have a legit door to hell cooked into me,” Ruli said with a sigh. Delta stared at her.
+
+“You... do? I thought Mr Jones here said it was really hard to open a door?” Delta asked confused and the other demon was giving Ruli a bewildered look borderline close on horror.
+
+“Not hard, just annoying,” Ruli admitted and rolled her neck.
+
+“Ruli, a proper door requires procedure and proper respect given to both the demon king and the Brother for a bridge to be-” Mr Jones began and Ruli ignored him.
+
+“YOU OLD GOAT, I NEED TO SPEAK TO YOU NOW!” Ruli boomed with a voice that was deeper and as coarse as hot coals rubbing together. Her voice ripped into the space before her, pushing Delta’s mana aside with ease.
+
+In the gap where the mana parted, a flash of red fire mingled with shadows before a door formed out of red gold and dark jewels. There was a painting of a near-naked woman wearing a wolf pelt and little else holding a knife to a shadowy figure’s throat and looking both attractive and dangerous at the same time.
+
+“Urgh... I told him to change that,” Ruli moaned.
+
+The doors parted to reveal a monstrous being of colossus sizes and pressing power that made Delta want to break into mad gibberish speeches of random factoids.
+
+“Dad!” Ruli hissed and the monstrous being shifted until a well dressed man in a suit and tie stood before Ruli with impressively dark hair and brown eyes so dark they tinged on black. Other than a strange feeling of inhumanness, Delta only felt a slight-
+
+Delta’s cheeks tinged hot pink and she mentally began to recite the name of trees.
+
+This was Ruli’s father? Who was a super demon?!
+
+“Oh King of the Abyss, I bow,” Mr Jones said and Delta nearly screamed in panic. No one told her she had royalty coming! WHAT WAS THE PROTOCOL!?
+
+“FERA! TEA AND CRUMPETS!” she hissed through the walls.
+
+“Hello, love. You are looking more bloodsoaked and beautiful every decade I see you,” the man said and looked around the lake room with a slight curious smile. Waddles had lowered his duck head in the direction of the man as well.
+
+The man turned, seeing a dozen children splashing in the lake
+
+“Oh, look! Offspring by the dozen. I didn’t know they reproduced like frogs these days,” the man said with a clap of his hands.
+
+“Dad, I need help,” Ruli said, but her voice was thick like she was swallowing a lemon. The man blinked then looked on the verge of tears. It was tragically beautiful and Delta wanted to paint a picture of the demon every time his face changed.
+
+“Say the word, my little dagger. Their kingdoms shall be ash, their children orphans, their dogs free, and their stock markets crashed,” he said with a sweet tone and took Ruli’s hands who looked entirely done with the man already.
+
+“Dad, what have you got against soup stock?” Ruli muttered and the man huffed.
+
+“It’s the sign of an inferior chef! A true chef needs only the bones of thine enemies,” the king of hell said.
+
+Wait... if he was the king... and Ruli was his kid...
+
+Delta’s mind was exploding.
+
+“Dad, this is my very special friend, Delta,” Ruli said and the handsome man turned to her and blinked.
+
+“Oh, I will never forget a form like yours. It must have been nearly ten or twelve years ago. You look much more delectable in mana form,” the king smiled and went to kiss Delta’s hand, his own power making her avatar solid and firm.
+
+“We’ve met?” Delta managed to ask around the urge to make cavewoman noises.
+
+“You were unconscious, so sadly we couldn’t meet as fate would have intended. You were a soul orb, it wouldn’t have been right,” the demon king said with a sigh.
+
+“Dad, let go of her hand,” Ruli said stiffly and the man laughed and obeyed. Delta felt as thought she had been denied some inner treasure as his warmth faded.
+
+That was so... not like her! What the heck! She hid behind Ruli who seemed to grow more pleased as her father raised a brow.
+
+“Is he an incubus?” Delta whispered.
+
+“He’s the Demonic Avatar of Lust. Battle, ‘love’, treasures, and dreams. Pops can make people crave things so badly they’d bend the knee to him. He’s also the strongest demon in one versus one,” Ruli explained.
+
+“What do you desire?” the demon king asked sweetly and Delta used Ruli as an anti-seduction shield in a panic.
+
+“A child,” Ruli said and the demon king stood up.
+
+“Not possible. I can never truly allow myself to ever give myself to another as I did your mother. And I gave myself to her a lot,” he said and he visibly sighed like a love-sick teenager. Ruli closed her eyes and seemed to be regretting this meeting by the second but she powered on.
+
+“Ew, and we want one that’s already in the Abyss. A kid that’s near the Duck of Wrath place,” Ruli said quickly.
+
+“Only if you agree to pass a message on to your mother for me,” the king said and Ruli hesitated then nodded.
+
+“Her eyes are like exploding stars, her smile like the fangs of a marrow sucking worm, her shapely body like a-” he began to recite and Delta was enraptured by the sheer passion.
+
+“Write it down, you weirdo!” Ruli ordered and the man actually meekly turned to pull out a quill and parchment. The man actually slipped into a blood soaked envelope and put a kiss on it as if to seal it.
+
+“That much magic could turn a normal human to an upper-class demon,” Mr Jones muttered as the letter glowed.
+
+“But it's like a passionate letter from long distant lovers of two nations. We have to respect it,” Delta said quickly and thought of the many books of a ‘demon king’ coming to seduce a normal single woman with three cats.
+
+It was coming true!
+
+“Give me a week to get her. I’ll need to get a loaf of bread for the Duke and his ducklings. It has to be the good stuff and for that I’ll need to trade with the Governor of Greed,” he sighed.
+
+“But Betty might not last a week!” Delta said in panic and he brushed a thumb across her chin and smiled. Delta was upset because of... Bettlejuice or something?
+
+No, wait, Betty!
+
+“Back, you devious man of unholy unclean thoughts!” she warned and the man bowed as if it were a compliment.
+
+“I’m telling mum you’re flirting with my friend who is like a teeanger to you. I bet that’ll impress her,” Ruli said and the king looked pained.
+
+“I must go! I left the souls of the evil on a slow burn!” he said quickly, kissing Ruli on the head and vanishing through the door where it vanished with no hint it had ever been there.
+
+Delta just felt worried about Betty. That girl was all alone.
+
+---
+
+“Feed me points! Evolve me! Fight me! Give me a hug!” Beta screamed as she hugged a flailing tentacle monster and crushed it, absorbing its essence into her as a near endless horde of mindless beasts charged her.
+
+This was amazing!
+
+In the midst of a hundred monsters, she spotted a rotted tree monster and her world went red.
+
+“TREE!”

@@ -1,0 +1,175 @@
+---
+id: ba6eb1fb-72de-5792-b07f-1f8d30573021
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4: Meat Thief, Skill Creep"
+slug: 0004-chapter-4-meat-thief-skill-creep
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 4
+ownLength: 1497
+unit: words
+publishedAt: 2025-08-21
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2535652/chapter-4-meat-thief-skill-creep"
+royalRoadId: "2535652"
+---
+
+The morning sun poured over the den clearing, soaking into her fur like a warm bath. She sprawled on her side, paws twitching as she dreamed, tail flicking now and then in sleepy triumph. Nothing beat a nap in stolen sunlight.
+
+Her jaws worked on their own, little teeth grinding something stringy. Leftover bird bits clung stubbornly to her tongue. She blinked awake, sneezed, and licked her chops.
+
+Terrible taste, but the victory was hers!
+
+Her belly rumbled in restless boredom. She had beaten poison, leveled her bite, wrestled her way into the sun. Now what? Sleep was good, but new flavors called stronger. New enemies. More meat.
+
+Her ears perked at a steady crunch nearby. The alphas hunched over the last ribs of the Earthen Bear, jaws working slow and deliberate. The bones were thick, still slick with scraps. Her nose twitched furiously.
+
+The smell was better than bird, better than feathers, maybe even better than jerky.
+
+Well, not really, but hunger did make one less picky!
+
+They weren’t guarding it, at least.
+
+She slid to her belly, ears flat, tail tucked for balance. Step by step, she crept closer, paws soft against the dirt. Every breath she held, every muscle trembled with excitement.
+
+Stealth mode. Perfect plan.
+
+Her claws flexed. Strike pulsed. She lashed out at the rib.
+
+The bone skittered across the rocks with a loud clatter.
+
+Every head turned.
+
+She froze mid-crouch, eyes wide. Dust puffed from under her paws. Her ears drooped, then swiveled back upright as she forced her tail to wag in guilty cheer.
+
+Slowly, carefully, she lifted one paw.
+
+“Awoo?”
+
+The silence stretched long enough for her to grow uncomfortable under her own fur. One of the alphas snorted, rib still clamped in his jaws. The others turned back to their meal with amused huffs.
+
+Relief surged through her chest. She pounced on the skittered bone with triumphant squeaks, tail wagging so hard her back legs almost lifted off the ground.
+
+It wasn’t much, just a scrap, but it was hers now! She gnawed, chewed, and wore at the rib until splinters tickled her tongue. Every crunch sang victory. Every swallow tasted like rule-breaking joy.
+
+The system flickered faintly.
+
+【Strike Lv.1 → Lv.2】
+
+She nearly dropped the bone in delight. Even stealing scraps counted? Perfect. Her eyes gleamed as she clamped her paws tighter, chewing with renewed vigor.
+
+Meat thief. Skill creep. Absolute genius.
+
+She tore another shred free, wagging furiously. This was the best plan ever.
+
+Until her teeth slipped, the bone clacked loudly again, and one of the elders growled from the shadows.
+
+She froze, rib still jutting from her mouth. Her ears sagged flat to her head. Tail gave a cautious thump, then another.
+
+The growl faded. She bit down hard, swallowing triumph in defiance.
+
+So what if it was stolen? Food was food. Skill was skill. She would eat every scrap the world tried to hide from her.
+
+Her belly grumbled again, proud this time. She licked her chops and curled over her prize, eyes gleaming with mischief.
+
+“Awoo,” she whispered to herself, smug as the sun.
+
+The clearing erupted behind her. Angry yelps, heavy paws pounding the dirt. She bolted, rib clamped tight in her jaws, tail streaming behind her like a banner of defiance. She squeaked, half laughter, half panic, as two packmates snapped at her heels.
+
+They chased her halfway to the stream before giving up, grumbling loud enough for her to hear. She slowed to a trot, then flopped dramatically in the grass with a triumphant wag. Totally worth it. The rib was still hers.
+
+She dragged it under a low bush and gnawed with ferocity. 【Bite Lv.2】 thrummed in her jaw, each crunch cleaner, sharper. Splinters cracked away like brittle bones, the taste earthy but satisfying. Her ears flicked with delight at the rhythm.
+
+【Bite Lv.2 → Lv.3】
+
+Her head shot up, eyes shining. She barked a laugh through the rib clamped in her mouth.
+
+“Oho. Bite stronger now. Fear me, squirrels!”
+
+Her tail slapped the dirt as she wiggled in place, puffed with pride. She bit again, imagining rabbits scattering, foxes fleeing, squirrels begging for mercy.
+
+Yes. The forest would tremble at her might!
+
+The rib cracked apart at last, leaving only dry splinters. She licked them up anyway, chewing until her tongue felt gritty with marrow dust.
+
+Full again, happy again, stronger again.
+
+But energy still buzzed in her paws. She needed more. Her eyes landed on a tree nearby, its trunk thick and rough. Perfect.
+
+She crouched, claws flexing, then struck. Strike surged through her foreleg. Her paw slammed bark, knocking loose chips that fluttered down like dry leaves.
+
+Again, and again she tried. Until her paws hurt and she wheezed with exertion. But it was worth it!
+
+【Strike Lv.2 → Lv.3】
+
+Her nose twitched with glee. Three skill level ups in one day. She was unstoppable! She lifted her paw to admire the faint scrape across her pads, grinning toothily. The tree stood scarred now, marked by her power.
+
+She leaned forward to sniff the bark. Damp, earthy, sharp with sap. Different from meat, but not unpleasant. Her jaw flexed. A thought sneaked in, bold and irresistible.
+
+“Trees are just wood-flavored prey, right?”
+
+She tilted her head, testing the idea aloud. Then she opened wide and gave the trunk a decisive chomp.
+
+Splinters stabbed her gums. She coughed, shook her head violently, spat out bark shreds. Tail wagged anyway.
+
+Not tasty. Not tasty at all. But maybe worth training.
+
+She growled playfully at the tree, ears back, and circled it in challenge.
+
+If squirrels lived here, then chewing the tree was basically pre-hunting. Preparation. A strategy only a genius would understand!
+
+Her belly groaned, equal parts full and restless. She flopped onto her side beneath the bush, panting happily, tail brushing dirt in lazy sweeps. The rib, the skills, even the bark – everything had made her stronger.
+
+She licked her lips, already dreaming of the next bite that would carry her higher. Meat thief. Skill creep. That was her path.
+
+The tree loomed overhead, scarred and still. She squinted at it one more time, then muttered through a silly grin.
+
+“Next time, tree. Next time.”
+
+The tree still stood quiet and stubborn, but her ears perked at a sudden rustle above. A squirrel darted along the branch, fat and careless, its nose buried in a pine cone.
+
+Her eyes locked. Tail stiffened. Fate had delivered her a challenger!
+
+She lowered into a crouch, every muscle trembling. Both her skills were ready to pounce. This was the moment her genius training had prepared her for.
+
+The squirrel flicked its tail, arrogant in its distraction.
+
+She lunged.
+
+Her paw slashed wide, claws swiping empty air. Bark showered down as her aim went astray. But her jaws found purchase with a sharp crack. Teeth sank into fur and flesh. The squirrel screeched, blood warm across her tongue.
+
+Her tail wagged so hard she nearly lost her grip.
+
+【You have learned: Jump Lv.1】
+
+Her paws hit the dirt with a thud, prey dangling from her mouth. Triumph flooded her chest, bright and dizzy.
+
+Her first squirrel kill, first leap. And another victory snack!
+
+She dropped the twitching body at her paws and pranced in a quick circle, yipping loud enough to startle a bird from the bushes. Tail wagged, ears perked, eyes gleaming.
+
+She had done it. All by herself.
+
+Tearing into her kill, fur and bone crackled between her teeth. The taste wasn’t perfect – bitter in places, chewy in others – but every bite filled her belly with pride.
+
+She gnawed until only scraps remained, tongue darting out to catch the last trace of blood on her muzzle. Her system window flickered faintly in the corner of her eyes.
+
+【Jump Lv.1】
+
+Her ears twitched at the thought. She tested it immediately, crouching and springing upward with all her strength. Her paws barely cleared a bush before she landed in an ungraceful heap, but her grin split wide across her muzzle.
+
+She bounced back to her kill, sat squarely atop the remains, and puffed out her chest.
+
+“Told you, tree rat. Apex predator!”
+
+Her tail swept the dirt in steady beats as she gazed toward the branches.
+
+The forest felt different now. The birds above weren’t just noises. The squirrels weren’t just smells. They were prey. Food. Victories waiting to be chewed!
+
+Her belly was warm, her paws tingled from the fight, and her jaw still buzzed with the thrill of blood. She flopped down across the squirrel’s carcass, stretching long and content, nose pressed to the fur as if to savor it one last time.
+
+The sun filtered through the leaves, dappling her coat. She sighed, a happy little squeak, and closed her eyes for a breath.
+
+Stronger today than yesterday. And tomorrow, stronger still!
+
+Her ears twitched at another rustle in the trees. She cracked an eye open, muzzle curling into a grin.
+
+Round two, maybe?

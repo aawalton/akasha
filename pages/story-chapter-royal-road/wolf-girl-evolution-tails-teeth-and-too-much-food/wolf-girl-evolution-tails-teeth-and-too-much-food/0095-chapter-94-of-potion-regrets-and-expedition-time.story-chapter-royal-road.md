@@ -1,0 +1,415 @@
+---
+id: 7dc48e9f-7e7f-58e5-b6b8-9ed902bd464a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 94: Of Potion Regrets and Expedition Time"
+slug: 0095-chapter-94-of-potion-regrets-and-expedition-time
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 95
+ownLength: 2051
+unit: words
+publishedAt: 2026-02-02
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3006114/chapter-94-of-potion-regrets-and-expedition-time"
+royalRoadId: "3006114"
+---
+
+PoV Luna
+
+Eventually – after Luna had learned one very hitty pose, rejected three overly talky ones, and been gently but firmly turned away from attempting to stand on a wagon wheel – her pack found her.
+
+Because everybody was almost ready now!
+
+And it was time for the checking phase!
+
+Luna didn’t know what it was about, at first…
+
+But with Second’s clever explanation, she understood it immediately!
+
+She nodded to nobody in particular.
+
+Checking meant standing still!
+
+Uh huh!
+
+Definitely!
+
+Another weird human habit. If Luna were ready, she would just go!
+
+And Luna was always ready!
+
+And…
+
+There was another thing.
+
+Standing still meant suffering.
+
+Woo…
+
+Syl repositioned her first, guiding her a few steps back from where Luna had wandered a little too close to someone sharpening a blade. Sepio adjusted her placement again when Luna drifted sideways to sniff something interesting. And Veric quietly stepped in front of her once when she leaned a little too far forward, blocking her line of sight with sheer bulk.
+
+“Stay nearby,” Syl reminded her.
+
+“Yes, Second!” Luna said earnestly.
+
+She stood very still.
+
+For almost three whole seconds!
+
+Then her weight shifted. Her tail flicked. Her heel rocked up and down.
+
+And she stared at the clouds passing by.
+
+…Standing still was hard.
+
+Ferric’s voice rose again in the background, carrying clearly across the gathering.
+
+“Remember,” he said, “ants might be weak individually, but they are practically never alone. Which is why everybody here is at least of C rank.”
+
+Luna’s ears perked.
+
+Never alone.
+
+She squinted, brow furrowing as she thought very hard.
+
+Never alone sounded like pack!
+
+But ants weren’t fluffy.
+
+Or friend-shaped.
+
+And they didn’t howl!
+
+So they were kinda like wolves–
+
+But not really.
+
+Luna didn’t like that.
+
+She edged a little closer to her Second without quite realizing she was doing it.
+
+But the ever-watchful Syliana noticed anyway.
+
+A quick consideration, and a slight smile later, Syl knelt briefly and pressed a small bundle into Luna’s hands.
+
+Luna took the curious bundle and immediately palmed and sniffed at it.
+
+Potions!
+
+Familiar shapes. Familiar smells. Sharp and sweet and tingly with promise of zooms and mana!
+
+“These are for you, to use when necessary,” Syl said calmly.
+
+Luna accepted them with both hands, holding them very carefully. She stood still, for just a mere moment, imagining all the awoomazing possibilities!
+
+Then she nodded, before hiding them in the Maw.
+
+For later ‘careful’ use!
+
+Definitely!
+
+“Yes, Second!”
+
+Then she leaned in close.
+
+“Luna promises not to drink them unless something is very wrong,” she whispered, very seriously!
+
+Syl relaxed slightly.
+
+“…Or very boring,” Luna added after a moment of consideration.
+
+Syl did not relax.
+
+***
+
+The meeting point for the expedition was full of people.
+
+Almost everybody from the guild gathering was here, packed into the space in a restless, irritated way. Armor shifted constantly. Final checks on all the weird human stuff and straps were being made. Weapons were checked, rechecked, and adjusted a third time out of pure nerves.
+
+A lot of standing!
+
+And a whole load of waiting…
+
+Luna was really starting to itch for some action!
+
+Especially since this sort of waiting… Luna knew it!
+
+It was what happened right before movement – right before the pounce!
+
+Where nerves should steady and there was only prey in sight!
+
+Yes, Luna knew it well.
+
+It was the Apex Predator way!
+
+…But the adventurers were more fidgety than that.
+
+Weird!
+
+Clusters of adventurers talked in low voices, and Luna found herself listening in.
+
+“Ants, huh. Hate ants.”
+
+“Eh, they’re better than spiders. Just many.”
+
+“Only if they don’t jump you. Or splash you with their acid.”
+
+“Argh, don’t remind me. I hate what that stuff can do to armor.”
+
+Luna tried to understand, but failed.
+
+Human worries were weird!
+
+They were more worried about their stuff getting splashed than getting hurt.
+
+She focused her attention back on Guildmaster Ferric.
+
+He stood near the front, finishing up a quiet exchange with a few veterans. When he turned back toward the crowd, the volume dropped automatically. People straightened up a little more. Feet shifted into ready positions without conscious thought.
+
+Impressive!
+
+Ferric cleared his throat.
+
+“You’ve all heard the basics already,” he said, voice carrying easily. “But I’ll repeat the important parts.”
+
+Instantly some groans followed. But there were a few nods.
+
+Luna would rather just go already!
+
+“Ants aren’t dangerous individually,” Ferric continued. “If they were, we wouldn’t be standing here. The danger is that they are practically never alone.”
+
+A few people muttered agreement.
+
+“They move fast. They respond to disturbances immediately. And once they start pouring in, numbers matter more than individual strength.”
+
+Murmurs followed. With a particularly loud opinion making itself known.
+
+“That’s why I hate ants.”
+
+Ferric ignored it.
+
+“This is why we will be staying together. No giving chase, or playing hero here. We won’t be splitting up either. And you don’t assume one dead ant means the problem’s solved.”
+
+A pause.
+
+Then the shift.
+
+Ferric straightened slightly and said the words everyone had been waiting for.
+
+“Alright. We’re heading off–”
+
+And before the sentence even finished, like a shadow arrow loosened from its sheath…
+
+Luna was gone!
+
+Only a streak of shadow where she once stood was burned into everybody’s eyes.
+
+One moment she stood at the edge of the formation, knees bent just a little too much, eyes bright and locked forward–
+
+–and the next, she exploded into motion!
+
+A streak of shadow tore down the road like it had been loosed from a siege bow. Air cracked, the sound whipping against cloaks, making them flap violently. Dust kicked up in her wake.
+
+Only the voice of somebody yelping could be heard.
+
+Nobody moved, Ferric, pack, and all.
+
+For a full heartbeat, the entire expedition just… stared.
+
+Boots stayed planted. A man froze mid-step, foot hanging awkwardly in the air before slowly lowering it again. Another adventurer blinked hard, like their eyes had skipped a frame.
+
+“…Did,” someone started, then stopped.
+
+“…Was that–” another tried.
+
+Behind them, a woman finally said what everyone was thinking.
+
+“We didn’t even move yet.”
+
+Ferric slowly closed his mouth.
+
+Silence stretched.
+
+Then Veric’s voice rumbled from somewhere near the front, dry as dust.
+
+“…Hrm. She took ‘heading off’ very literally.”
+
+A few nervous laughs broke out.
+
+A beat later, Luna’s party was the first to move.
+
+None of them were surprised.
+
+Syl groaned the instant the blur tore past them, the sound low and tired, already turning on her heel as if this outcome had been written into the morning itself. There was no pause, no hesitation – just the practiced motion of someone who had learned, very quickly, that reacting late was worse than acting annoyed.
+
+“Of course,” she muttered, starting forward.
+
+Ray followed a half-step behind, dragging a hand down his face hard enough to leave his skin flushed. Whatever he said under his breath was lost to the noise of the gathering, but the tone carried well enough.
+
+It was the sound of a man mentally tallying up how much effort this was about to cost him.
+
+Sepio didn’t say anything at all.
+
+He shifted his shield into a more secure position, metal clanking dully as leather straps tightened under practiced hands. His shoulders rolled once, settling into a heavier stance as he broke into a jog. There was no hurry in his movement – but there was resignation.
+
+He just knew, from experience, that there was no point in tarrying or complaining. And wasting energy on it would be unwise… Who knew exactly how long this chase was going to last?
+
+Veric moved past Guildmaster Ferric without breaking stride.
+
+As he did, he reached out and gave the man a friendly pat on the shoulder.
+
+Just a brief, solid gesture – firm palm to armor – that somehow carried welcome to this problem with it, before Veric continued after the others with long, ground-eating strides.
+
+Ferric blinked at the touch, still staring down the road.
+
+“See what you have done?” Ray called back as he passed, voice edged with complaint and familiarity rather than real anger. He didn’t slow down. Didn’t even turn his head. “Now we gotta catch up to that!”
+
+His gesture down the road was unnecessary. Everyone knew exactly what that meant by now.
+
+Sepio grumbled something indistinct from inside his helm, the sound muffled and clearly irritated. His pace increased another notch, armor settling into a faster, heavier rhythm that spoke of endurance rather than speed.
+
+A few more beats passed.
+
+Then Ferric exhaled through his nose and rubbed his temple.
+
+“…Right,” he said. “Well.”
+
+He raised his voice again.
+
+“After her,” he said flatly.
+
+That finally broke the spell.
+
+Like tension snapping, the rest of the gathered adventurers stirred all at once. Boots scraped against stone. People startled, waking from a shared daze. Ferric blinked hard, then once more, the reality of the situation crashing in all at once.
+
+Seeing people still not moving, his posture snapped straight.
+
+“Moving out!!!” he barked, louder than before, voice cracking like a whip across the gathering as he stepped forward himself.
+
+That did it.
+
+The expedition finally surged into motion.
+
+Rough lines formed and reformed as faster adventurers pulled ahead and slower ones struggled to keep pace. People adjusted, corrected courses. Until an equilibrium was reached.
+
+Voices spilled out over the noise of armor and boots.
+
+“Damn, I knew she was fast, but that’s just–”
+
+“…She didn’t even wait.”
+
+“So she was still going easy on us, after all.”
+
+One of them laughed, sharp and disbelieving.
+
+“Wildlings, man,” another voice said between breaths. “They really are something else.”
+
+“Gahaha! That’s our Luna!” rang out the voices from the Proper Human Team as they took off, laughter mixing with genuine pride as they surged forward.
+
+Behind them, the rest hurried after – some grinning, some swearing, some already breathing hard – the pace of the entire operation now set by someone who hadn’t waited to be told to go.
+
+And far ahead of them, the blur was no longer visible.
+
+But its impact lingered, dragging an entire expedition forward.
+
+Whether they were ready or not.
+
+***
+
+Before the group began to move, and before even more waiting rules could be negotiated…
+
+This was it!
+
+The start.
+
+Luna felt it instantly – the shift in the air, the collective forward motion as people fell into loose lines and clusters. Boots started moving. Gear shifted around. The sounds and smells changed from waiting to going!
+
+And Luna was ready!
+
+She bolted ahead!
+
+The moment there was open space ahead of her, she surged forward, laughter bubbling up as her feet barely touched the ground. Wind rushed past her ears, shadows responded to her call. Her legs stretched, moved, and flew!
+
+Her entire body vibrated with excitement at finally being able to move properly!
+
+A glorious sound tore free from Luna’s chest.
+
+Awooo!
+
+For several glorious seconds, the road was hers.
+
+Luna ran, and leapt, and ran some more!
+
+She skidded once just because she could.
+
+And slid on the shadows with graceful flair!
+
+Then–
+
+When she was finally a little satisfied–
+
+She slowed down.
+
+A little bit!
+
+Then stopped entirely.
+
+Turned around.
+
+Oh.
+
+The humans were still back there.
+
+Waaay over there.
+
+Walking.
+
+Just… walking.
+
+“…Why?” Luna asked the universe quietly.
+
+They were so slow!
+
+Painfully slow.
+
+The march forward crawled along at a pace that made her tail droop in disbelief. Step. Step. Step. Careful. Measured. Sensible.
+
+Only Veric seemed to be trotting a little faster, long strides eating up ground without fuss.
+
+Her pack followed close behind, pulling away from the rest of the expedition.
+
+Luna approved of that!
+
+But for the rest of them…
+
+She circled back toward the rest of them, pacing in front of the line, tail flicking with growing impatience.
+
+This would not do!
+
+This pace was unacceptable!
+
+Luna considered her options.
+
+Then smiled.
+
+Helping was good!
+
+Helping pack was important.
+
+She would just have to headbutt the slower adventurers into shape!
+
+Gently!
+
+But also enthusiastically.
+
+Yes, it was all coming together now!
+
+Luna would make them all…
+
+Move!
+
+Ehehe!
+
+Luna grinned, tail wagging hard.
+
+Proper pace required encouragement!
+
+And adventurers were about to find out that Luna could be very, very encouraging!

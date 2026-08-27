@@ -1,0 +1,249 @@
+---
+id: 8ea67b29-e5dc-5eb4-84f4-30716308637d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18 – Genesis"
+slug: 0019-chapter-18-genesis
+partOf: rock-falls-everyone-dies
+position: 19
+ownLength: 2083
+unit: words
+ownProgress: 2083
+publishedAt: 2023-01-30
+link: "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1100867/chapter-18-genesis"
+royalRoadId: "1100867"
+markedReadAt: "2026-06-29T22:50:53.725Z"
+---
+
+The rock sat at the center of the planet, deep beneath the earth, watching the prompt. Waiting. Because it had just appeared, and the message was finally filling in. What would the quest give it?
+
+It had worked so hard for it.
+
+Processing quest...
+
+Distance to Bottom of mountain = 0
+
+00000000000000000000000
+
+ERROR!
+
+Location <Bottom of Mt. Tartus> not found!
+
+Resolving…
+
+ERROR!
+
+Location <Mt. Tartus> of <Tuonela mountain range> not found!>
+
+Resolving…
+
+ERROR!
+
+Location <Tuonela mountain range> in <Blessed Continent> not found!
+
+Resolving…
+
+ERROR!
+
+Location <Blessed continent> on <Planet Dirt> not found!
+
+ERROR
+
+ERROR! <Planet Dirt> not found!
+
+ERROR_TOO_MANY_ERRORS
+
+Resolving…
+
+Obfuscating…
+
+Finished
+
+Tutorial Quest
+
+Roll out
+
+Reach the bottom of the mountain.
+
+Current Altitude: ????
+
+Difficulty: Legendary
+
+Rewards: ??? (Legendary)
+
+STATUS: UNRESOLVED
+
+The rock watched the final error, trembling, and the newly forged planet shook
+
+No.
+
+It could not accept it. This was not meant to be.
+
+It had worked so hard… and this was the result? At the darkest hour, the hero finally despaired, for it had now lost two things.
+
+Two of the few things it had.
+
+And so the planet raged. With strength, it did not yet know, and abilities it had not yet tried to discover, it began shattering itself further. The rock activated [Gravity Cannon], and flung the moon far away, for its gaze felt like a judgmental glare, and the oceans shifted.
+
+It raged, and the earth shook, shattering all the mountain ranges, for they reminded the rock too much of its quest.
+
+The shattered mountain ranges reminded it of itself, so it flung the chunks of rock into outer space.
+
+It raged on, and the oceans boiled.
+
+And then… the rock was done raging—because it did not feel any better. It had never felt emotions like these before—and it did not like it.
+
+Would waiting make it go away?
+
+It tried to wait, but again it felt too restless. Some annoying thing buzzed at it for a moment, but it went away soon enough. The rock was full of energy, but had no goals to put it toward. Everything was gone. Except…
+
+It still had its levels. It had grown—it was bigger now. Could it perhaps solve this issue? It had been clever before.
+
+The rock decided to try, taking a look at some of its new skills. It had many. Could they solve the problem?
+
+It began using [Create Mountain] and [Sculpt Earth], shaping a new mountain from the shattered ground, a copy of the one it still remembered.
+
+It had flown over the mountain before, and it had rolled down its slopes. It had waited hundreds of years on the mountain, and it had rolled down it in a brief moment. It knew the mountain well.
+
+And using its new authority, the rock assigned the mountain the name <Mt. Tartus>, connecting it to the quest. It waited, waited for the system to come in and resolve things.
+
+And it did.
+
+Tutorial Quest
+
+Roll out
+
+Current Altitude: 0
+
+ERROR
+
+You are Mt Tartus, distance invalid.
+
+STATUS: UNRESOLVED
+
+And it failed again, the destination falling just outside the rock’s reach. It finally felt despair, for a brief moment, as that golden goal it had struggled towards was finally plunged out of reach.
+
+Was the system perhaps vengeful against the rock? Being petty because the rock had caused it trouble before?
+
+Perhaps, but the rock did not care anymore.
+
+After trying and failing again—it felt easier to accept the quest was unresolved. Waiting there, like a permanent itch.
+
+Waiting was easier when you had no hope.
+
+But a rock could not wallow around in self-pity forever. The quest was only one of the two things the rock had lost. It still had levels. It still had stats.
+
+It had grown. Become the biggest rock of all.
+
+For the rock had travelled the solar system and seen that many of what it thought kin were just imitators, giants of gas masquerading as rock. No true kin of stone. And they did not have the spark.
+
+And even if there were bigger ones out there... what did it matter? Had its size really brought it any gain?
+
+It had found no success with size. At the beginning of its quest, the humble pebble had wanted to become the greatest rock of all, and all it had thought of was size. But now the [Planet] knew better. Size was one thing, easy to measure, a number it could grow as long as it rolled forward, crushing everything in its path.
+
+But what of beauty?
+
+The rock looked at its surface, and saw a shattered planet, with no signs of life on it. No music. That was the only beauty it knew.
+
+The rock could see it now—imagine it now.
+
+When it had sat upon that mountaintop for a millenia, had the birds always been singing there, a song that the rock had not been able to hear? Had the wind played a soft melody as it blew through cavernous holes, like giant organs played by the air itself? It remembered its old mountain, and thought that perhaps... there had been beauty there.
+
+The rock had created no beauty itself. It had only rolled forward and destroyed, seeking the quest and growth. What had it intended to do after completing its quest?
+
+So focused on the numbers it had been, that the rock had forgotten everything else. Perhaps because the numbers had been its only companion. Perhaps because it had truly been alone, clinging to the screens of numbers that followed it through thick and thin, just as eternal and patient as the stone.
+
+But was there beauty in the numbers?
+
+Diameter: 12 747 201 m
+
+It looked at the number, grasping for that satisfaction it had once felt seeing it grow. But it felt none now. It had reached the peak, and the satisfaction was so fleeting. That melody still played in its mind, never to be forgotten. But the numbers... they all began to blend together eventually. Perhaps there was a brief satisfaction, but now, seeing the peak, they lost all meaning.
+
+The rock closed the screen, its one faithful companion, and again thought of that jade statue, that song it had sung for it, and looked over the destroyed surface.
+
+The rock realized... it was an ugly rock. No music would spring from this barren surface. Even it knew that much.
+
+And then, resigned, it sat back to wait, wallow out eternity like it had back on that mountaintop. It had seen no beauty then, and it saw no beauty now. Except it now knew it, and that made all the difference.
+
+For a long time, it watched the vast field of crushed rock circle the planet languidly, and slowly, the surface calmed. No more hellfire. Just silence.
+
+It watched those rocks in its orbit spin and spin, around in endless patterns of gravity...
+
+And it remembered something.
+
+Experimentally, almost on a whim, it reached for that familiar feeling—the tapestry of gravity—and began to paint patterns in the sky. Gradually, the field of rocks began to gather together, into three familiar shapes.
+
+Rings.
+
+And they spun and danced, and the rock realized it felt the faintest spark of beauty from the dance. It was almost rhythmic now, as if they were following a song. A song that still played in its mind.
+
+And as it continued the dance of rock on and on... the song in the rock's mind changed. Becoming something new. A song it had not heard before.
+
+The [Planet] stirred. Perhaps... the rock could create beauty too?
+
+It looked over the mountain it had carved and recognized a clumsy sort of artistry there too. A beginner's work. But… perhaps it held the beginning of beauty in it too?
+
+It had many new skills. Many new paths to explore. And lots of time.
+
+Could it make the stones sing?
+
+Then and there, the rock decided on a new goal for its life. It had become the biggest of rocks and seen what stood at the peak, and found mere strength meaningless. What was the point of being the strongest if you only left destruction in your wake? No, strength for its own sake had no meaning. It had no quest to strive for, so it needed a new goal. No more blindly rushing forward, destroying.
+
+The rock was done with that path. Now… it wanted to become beautiful.
+
+It was a [Planet] now. A grand being with equally grand abilities. To truly become the best rock of all…
+
+It would have to become the most beautiful [Planet] of all.
+
+And so the rock began creating.
+
+Slowly, so so slowly, over eons and millennia, it experimented and learned. And leveled. New abilities, but most importantly, new skill.
+
+Its first efforts at plant life had been clumsy, misshapen things that resembled melted candlesticks. But eventually... it sculpted trees from gemstones, and their emerald leaves rang in the wind like chimes.
+
+It raised and sculpted mountains for those trees to rest on, and shaped them so the wind would blow through their labyrinthine peaks just right, then hit the trees...
+
+And then the trees began to play a song. The three rings remained above it all, dancing to the new melody in patterns that grew ever more complex, ever more beautiful.
+
+But the music was still missing something. It needed singing.
+
+So the rock, the newly reforged [Planet], thought of people. It had created a world that played melodies in the wind—but to sing with… you needed people.
+
+What sorts of people should it create? The rock looked over its [Natural Selection] and [Origin of Species] skills, and remembered that jade beauty. That form… it wanted to capture it. Bring it back. That golden dream, capturing even a fringe of its image.
+
+The rock reached deep into itself, dragging out veins of jade, and started sculpting them into people, then imbuing them with life.
+
+Clumps of Jade slowly rose up, small cragged figures, far from the sculpted figures in the [Planet's] mind. It began guiding them along, shifting things just right, and slowly, the people evolved, and began to sculpt themselves. Into shapes the rock had never even dreamed of.
+
+But all still beautiful, a rock’s sort of people. They crafted hair from the finest gemstones, and polished their jade skin so it gleamed in the sun. A united people, for the rock knew not of men and women or their differences.
+
+And the rock did not need to teach them, for the people saw the world around them, and began to sing on their own.
+
+And slowly, so so slowly, the rock watched as a [Planet] filled with life. More and more life. People, animals, plants. Mountains, lakes, forests.
+
+Songs, so many songs, and the [Planet] listened to them all, spinning the rings around to each tune.
+
+It felt content.
+
+This beauty did not feel as fresh as that first flame of beauty had, because what could surpass the flame of first love? But the rock was pleased with what it had created. A world of jade, gem and stone that sang. There were conflicts and war, but the rock cared not, for the warriors sang as they charged to battle and bloodshed. It was a fine world. Fit for the greatest rock of all.
+
+However.
+
+One thing still bothered it.
+
+The quest. The damned quest.
+
+It was still there, waiting, unfulfilled. And the rock wanted it solved. It wanted to know! It needed to know!
+
+The years had not made it easier. At first, it had tried to ignore it, but the more content it became with beauty, the more restless the rock grew. Once the hook was in, could it ever truly be fished out?
+
+What was the reward for the quest?
+
+What would happen when the numbers reached the end?
+
+Could it really just ignore it, and leave it unanswered? Of course not!
+
+But the rock was big now, and significant. A [Planet] full of life. It could not evade the gaze of the system anymore. It was being watched too closely for that—it would not be able to sneak the quest through any simple measures.
+
+The rock hatched a plan. For it was a cunning rock, and had fooled the system many a time before. You just had to know where to look, how to distract, and then a small piece could be snuck away and snipped…
+
+And so, the rock enacted its plan.

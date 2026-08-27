@@ -1,0 +1,567 @@
+---
+id: 88b1b25e-4a00-559c-9b4d-63f6594fe8e3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 51: One"
+slug: 0051-chapter-51-one
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 51
+ownLength: 3882
+unit: words
+publishedAt: 2026-05-26
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3449836/chapter-51-one"
+royalRoadId: "3449836"
+---
+
+The moment one of the sentries broke into a run toward the town hall, the other turned north, sprinting for the garrison barracks where the first patrols of the morning shift were assembling.
+
+I watched them go.
+
+If the attack didn't come, if the countdown was wrong, if the elves delayed by a day or a week, then every seal I'd forged or claim I'd made would come crashing down around me. The letters would be examined. The forgeries would be detected. The sentries would remember me as the lunatic on the wall.
+
+I only thought about it for a second, because I already knew. The attack was coming.
+
+I didn't run.
+
+That was the hardest part. Every nerve in my body was screaming at me to sprint south, to close the distance as fast as possible.
+
+I didn't.
+
+The ritual site was on a hilltop south of Grenzheim. The refugees had left hours before dawn. Even if I'd mounted the fastest horse in the stable and ridden at a dead gallop from the moment my eyes opened, I could not reach the hilltop before they had everything ready. I couldn't prevent the ritual from starting.
+
+I had tried.
+
+I tried sneaking past them. I tried attacking them. I tried knocking one of them out.
+
+It only took one.
+
+Just one of them had to remain standing to activate the ritual.
+
+Yet I didn't need to stop from starting.
+
+I only needed to end what came after.
+
+The stable near the south gate was quiet. The stable master was the same young man from the previous loop. He was adjusting a bridle when I appeared in the doorway.
+
+"I need a horse," I said.
+
+He looked up. His expression was open and unhurried.
+
+"Authorization from—"
+
+The gold crown coin landed on the crossbeam with a sharp click.
+
+His eyes found it. The coin vanished into his pocket.
+
+"Third from the left," he said automatically, already turning toward the stall.
+
+"Not the fastest," I said.
+
+He stopped. Turned back.
+
+"I need the smartest. The one that'll find its way home if I let go of the reins."
+
+The stable master's brow furrowed. Whatever he'd expected me to say, that wasn't it. He studied my face for a moment, then tilted his head toward the far end of the stable.
+
+"Fifth stall," he said. "The chestnut mare. She's not the fastest animal in here, but she's got more sense than half the soldiers I've met. Let her loose anywhere within ten leagues of this stable and she'll walk herself back before sundown."
+
+He paused.
+
+"She also bites."
+
+"She'll do."
+
+The mare regarded me with dark, intelligent eyes as I approached her stall. Her ears tracked me. When I reached for the bridle, she turned her head and nipped at my fingers.
+
+I pulled my hand back. Extended it again, palm flat, the way the riding instructor at the garrison had shown me. The mare sniffed. Considered. Decided I was acceptable.
+
+I saddled her. Led her out. Mounted.
+
+She moved beneath me with a sure-footed confidence. She read the terrain through her hooves and adjusted without being told.
+
+I pointed her south.
+
+The gate sentries were gone. Already pulled to their alert positions by the horn that was now sounding in continuous pulses across the garrison quarter. The gate stood open, unmanned, as the town behind me lurched toward mobilization.
+
+The ridge road unrolled beneath the mare's hooves.
+
+I rode at a steady canter. The pre-dawn light was strengthening, turning the hills from gray shapes into rolling carpets of brown and green.
+
+My eyes moved constantly. South, toward the front. Toward the hill where the ritual would begin.
+
+There was time.
+
+In the silence of the ride, with the wind against my face, I said the words that needed to be said.
+
+It had been years, but my lips moved.
+
+"Father."
+
+The words were barely audible above the wind and the hoofbeats.
+
+"Give me strength for the unthinkable."
+
+The mare's ears flicked back, then forward. Listening. Dismissing.
+
+"Forgive me for what I'm about to do."
+
+The sky didn't answer. The wind didn't change. No shaft of light broke through the clouds to signal divine acknowledgment.
+
+I didn't know if He existed. I didn't know why the Sins had appeared, or what cosmic architecture had built the system that governed my deaths and resurrections, or whether any of it operated under the authority of something that could be called God.
+
+But in this moment, riding south toward something that would require me to cross a line I had never crossed before, I needed to know.
+
+Not whether He existed.
+
+Whether the cruelty I was about to commit was justified.
+
+Silence.
+
+The wind blew. The hooves drummed. The hills rolled past.
+
+No answer came.
+
+Yet, somewhere between one breath and the next, the knot in my chest loosened. Not by much. A fraction.
+
+My mind arrived at the answer on its own.
+
+Cruelty would be letting innocents die.
+
+Thousands of them. The soldiers in the trenches. The people in Grenzheim. Lucy, spinning through Vael's common room. Mira at her desk, quill in hand. The laborers, the merchants, the sentries with their complaints and their ledgers. Every sleeping child, every waking mother, every old man stirring in a bed he believed was safe.
+
+All of them would die if I did nothing.
+
+All of them would die if I did the wrong thing.
+
+All of them would die if I hesitated.
+
+I leaned forward against the mare's neck and rode.
+
+Twenty minutes south of Grenzheim, the hilltop came into view.
+
+A high knoll rising to the west of the ridge road, its crest bare and windswept, commanding a panoramic view of the lowlands.
+
+Nothing yet. The hilltop was empty against the gray sky.
+
+The mare maintained her canter. I let her set the pace, conserving what she had.
+
+My eyes never left the hill.
+
+Minutes bled.
+
+The hilltop grew closer. Still empty.
+
+Then.
+
+Light.
+
+A column of gold erupted from the crest of the hill.
+
+The pillar climbed. Ten meters. Twenty. Fifty. Until it pierced the overcast and kept rising.
+
+The ritual had begun.
+
+I kicked the mare's flanks.
+
+She surged. The steady canter broke into a gallop. The road climbed. The hilltop loomed above me, its crest bathed in golden light so dense it was almost solid.
+
+I left the road. Drove the mare up the hillside at an angle, cutting across the slope where the grade was gentlest. The animal's hooves tore through wet grass and loose soil.
+
+The crest appeared.
+
+I saw them before the mare's head cleared the ridgeline.
+
+The dome. The shimmering hemisphere of golden energy. Inside, visible through the distortion, four figures stood with their palms pressed against their chests. Outside the dome, Yulia.
+
+She stood at its edge, her back to me. Her thin frame silhouetted against the golden light.
+
+I pulled the reins. The mare skidded to a halt three meters from the crest. I swung from the saddle and released the bridle.
+
+The mare, true to the stable master's word, immediately turned and began walking downhill.
+
+My boots found the hilltop grass.
+
+Yulia heard me.
+
+She turned. Her face was wet. The tears had been falling before I arrived and they hadn't stopped.
+
+"Kaspar." Her voice cracked on the name. "I'm sorry. I'm sorry. I'm sorry—"
+
+The same words. The same loop of desperate apology that I'd heard.
+
+I didn't look at the dome.
+
+I looked at her.
+
+The girl who had run through a minefield. Who had watched forty-one people die around her and kept running.
+
+I looked south.
+
+Beyond the hill, beyond the ritual's blazing light, the no-man's-land stretched toward the dark tree line. Shapes were already emerging from the forest. Moving north. Crossing the kill zone where the mines lay silent and the automated defenses had been neutralized by the column's power.
+
+The numbers were still small. Hundreds, not thousands.
+
+They could still be fought.
+
+The defenses could still be reactivated.
+
+If the ritual stopped.
+
+I turned back to Yulia.
+
+The bile was already climbing. A hot, acid presence at the back of my throat that announced itself with a churning in my stomach so violent I nearly doubled over.
+
+"I'm sorry," I said.
+
+The words were quiet. My voice had abandoned me somewhere between the ride and this moment.
+
+Yulia's apology stuttered. She blinked at me through the tears. Her brow furrowed. She didn't understand.
+
+"The dome," I said. I pointed at it. At the four figures inside. "The defenses. The mines. The spell batteries. They're all disabled. Because of this."
+
+She followed my gesture. Her jaw tightened.
+
+"If this doesn't stop," I continued, and every word cost me something I would never recover, "the elves will cross the line. All of them. Thousands. They'll reach the trenches. They'll reach Grenzheim."
+
+Her eyes came back to mine.
+
+"Everyone dies. Everyone in that town. Every soldier on the front."
+
+She was shaking.
+
+"I know," she whispered. "They... they promised."
+
+"I know they did."
+
+"Family." The word came out broken. "Family."
+
+"There's one part left, a piece of the ritual," I said. "One thing that can stop this. But it's not inside."
+
+Yulia's brow creased. Confusion layered over the grief and the guilt and the fear.
+
+"I don't—"
+
+I let the mana flow.
+
+The mint-burn ignited in my lungs. Not the gentle flow of a training exercise. This was a release. A full, open channel from all nine cores through the respiratory tissue and outward. The blue vapor that curled from my lips was dense enough to be visible. Dense enough that Yulia flinched back a step.
+
+The mana flowed through my chest. Through my shoulders. Down my arms, threading into the tendons, settling into the muscles of my forearms and my wrists and my fingers where they gripped the sword.
+
+The blade sang free from the scabbard.
+
+"May God guide my sword," I whispered.
+
+The words were for no one and everyone. For the girl standing in front of me and the thousands behind me and the thing inside my chest that had made its decision before I'd mounted the horse.
+
+Yulia's eyes dropped to the blade.
+
+Her mouth opened.
+
+Understanding arrived.
+
+I saw the moment it hit her. The exact instant when every fragment, the sword, the mana, the apology, assembled itself into the picture she had been too close to see.
+
+Her eyes widened.
+
+The tears stopped.
+
+For a single heartbeat, she was perfectly still.
+
+Then her shoulders dropped. The trembling ceased.
+
+She didn't step back.
+
+She didn't scream or run or raise her hands in defense.
+
+She looked at me.
+
+The blade moved.
+
+Fast. Faster than I had ever swung it. The mana in my arms drove the steel forward in a single, linear thrust that compressed every hour of training into a movement that lasted less than a heartbeat.
+
+The point entered her chest just left of center.
+
+Through her clothing. Through her skin. Between the ribs. Into the organ that sat behind them.
+
+Her heart.
+
+The resistance was nothing. The blade's edge was sharp enough that the tissue parted rather than tore.
+
+Yulia's eyes found mine.
+
+Surprise. Brief and immediate.
+
+Then something else. A flicker across her face that rearranged the surprise into anxiety.
+
+Then peace.
+
+The tension that had lived in her jaw since the day she'd crossed the minefield released, and for one instant she looked younger than I had ever seen her. Not a girl who had carried the weight of forty-one deaths and the impossible mathematics of sacrifice.
+
+Just a girl.
+
+Her mouth moved. Whatever she tried to say never reached the air.
+
+Her legs folded.
+
+I caught her.
+
+My free hand found her back as the sword withdrew. I lowered her to the grass with a care that was absurd given what I'd just done, cradling her weight against my arm, refusing to let her collapse into the dirt.
+
+Her eyes were open.
+
+They were already emptying. The light behind them dimming, the irises losing their focus.
+
+"I wanted to find another solution," I said.
+
+Tears. They ran from my eyes and fell onto her face.
+
+"I couldn't."
+
+My voice broke on the second word.
+
+No answer came from Yulia.
+
+She looked like she was sleeping.
+
+I held her for three more seconds. Counted each one. Let the weight of her body against my arm carve itself into my memory, because this was a thing I had done and I would carry it and I would not flinch from carrying it.
+
+Then I laid her on the grass.
+
+Closed her eyes with my fingertips.
+
+And stood.
+
+Behind me, the dome flickered.
+
+The golden light stuttered. The shimmering energy that enclosed the ritual circle pulsed once, twice, and on the third pulse, cracked.
+
+The cracks spread. The pillar above it wavered, its column of light thinning.
+
+The dome collapsed.
+
+The four bodies inside the circle collapsed.
+
+Pyotr hit the ground first. His arms, which had been raised, fell to his sides. Nadya followed, crumpling sideways, her legs folding beneath her. Ivan and Anya went down together, the boy's arm still around his sister's shoulder as they fell.
+
+I ran to them.
+
+Pyotr was closest. I dropped to my knees beside him and pressed two fingers to his throat.
+
+A pulse. His chest rose and fell in shallow breaths. His skin was gray.
+
+Nadya. Alive. The same weak pulse. The same shallow breathing.
+
+Ivan and Anya. Both alive. Both unconscious. The boy's hand was still gripping his sister's shoulder.
+
+They needed care in the next few hours.
+
+But they were alive.
+
+Behind me, from the south, a sound began.
+
+Distant at first. Then growing.
+
+Explosions.
+
+I pushed myself to my feet and turned south.
+
+From up here, the view was panoramic.
+
+The elven vanguard was dying.
+
+The first detonation was a mine. A burst of compressed force that erupted from the earth directly beneath an elven scout.
+
+The second was an ice array. The familiar line of blue-white light erupting from buried runes, turning a ten-meter strip into a frozen sheet that caught three more elves mid-stride.
+
+Then lightning.
+
+A branching arc of electricity leapt from rune to rune across a twenty-meter grid. The bolt didn't discriminate. Every elven body within its boundaries convulsed, spasmed, dropped.
+
+The automated defenses were firing.
+
+All of them. They came back in a cascading wave that rolled south from the trench line toward the forest. The elves who had crossed into the kill zone found themselves standing in the middle of the weapon system they'd been told was neutralized.
+
+From the hilltop, I watched them die.
+
+The elven formations shattered. The orderly advance that had been flowing north broke apart as soldiers scrambled. Some turned south, sprinting back toward the tree line. Others froze, paralyzed by the sudden reversal, and the defenses consumed them where they stood.
+
+In less than a minute, the kill zone had reclaimed itself.
+
+But the damage was already done.
+
+Hundreds of elves had crossed the no-man's-land before the ritual fell. Hundreds who were now inside the defensive perimeter, past the mines, past the spell batteries. They'd reached the trenches.
+
+The sounds of fighting drifted up from the lowlands.
+
+The Iron Cross was fighting for its life.
+
+"They need me."
+
+The bunker entrance was empty. No elves outside, not yet. The vanguard that had crossed the kill zone had reached only the trench network. I entered the bunker at a sprint.
+
+The transit corridor swallowed me. The familiar descent, the packed earth reinforced with timber framing. The sounds of battle reached me before I'd gone thirty meters.
+
+The ring of steel and magic in enclosed spaces, amplified and distorted by stone walls.
+
+I kept the sword low, blade angled along my right leg. The corridor was too narrow for wide swings. If combat found me here, it would be thrusts and half-cuts, elbow-work and pommel strikes in a space barely wide enough for two men.
+
+The corridor leveled. Opened into the staging chamber.
+
+Chaos.
+
+The subterranean chamber that had been my first introduction to the forward operating post was unrecognizable. Maps had been torn from walls. Equipment lay scattered across the floor. Communication crystals sat dark and silent on their shelves.
+
+People moved through the wreckage. Soldiers, some walking, some being carried. A medic worked on a body laid across a supply crate, her hands slick with blood to the elbows.
+
+Wounded lined the walls. Seated on the floor, leaning against stone, clutching injuries that ranged from superficial to mortal.
+
+I moved through the chamber toward the northern corridor that led to the forward trenches.
+
+The fighting was ahead. I could hear it growing louder with each step. The clash of blades. The detonation of close-quarters magic. Voices raised in fury and pain.
+
+I was three steps into the northern corridor when a hand seized my arm.
+
+The grip was iron. It yanked me sideways with enough force to slam my shoulder against the corridor wall.
+
+"What the hell are you doing here?"
+
+I recognized the voice before I saw the face.
+
+Thom.
+
+He stood against the wall, one hand locked around my upper arm, his body braced in a posture that was half-standing and half-leaning. His uniform was torn. Soot blackened the left side of his face in a pattern that traced the path of a near-miss.
+
+His left hand held me.
+
+His right arm ended just below the elbow.
+
+The stump was wrapped in a tourniquet of torn cloth, cinched tight enough to press the flesh white around its edges. The blood had soaked through the first layer and dried to a dark crust.
+
+His face was a war between three expressions that fought for dominance. Surprise, that I was here at all. Anger, that I had left my assigned rest period and thrown myself into an active combat zone. Relief, faint and fighting for space behind the other two, that I was alive.
+
+"The refugees," I said. The words tumbled out in a rush. "I noticed they were gone this morning. All five. Left the lodge before dawn. I found them south of here, on a hilltop west of the ridge road."
+
+Thom's grip on my arm tightened.
+
+"They had a ritual," I continued. "An elven ritual. The ritual was strange. It disabled the mines, the spell batteries, everything. That's how the elves crossed the kill zone."
+
+"I stopped it," I said. "The ritual is down. The defenses are back."
+
+"You stopped—" Thom's eyes narrowed. "How?"
+
+My mouth opened. Closed.
+
+The image of Yulia's face appeared behind my eyes.
+
+"I stopped it," I repeated.
+
+Thom read my face. Whatever he saw there, he didn't ask again.
+
+"Stay here," he said. "Don't move."
+
+He released my arm, turned toward the corridor, and shouted.
+
+"SOMEONE GET WENDT! CRITICAL INTELLIGENCE! NOW!"
+
+The shout hit the corridor like a shockwave. Heads turned. A soldier twenty meters down the passage repeated the call. Another picked it up beyond him. The message propagated from voice to voice, bouncing through the subterranean network, passed from one throat to the next like a relay.
+
+I leaned against the wall and waited.
+
+My hands were shaking again. The adrenaline that had sustained me since the hilltop was beginning its retreat, and the tremor in my fingers was the first symptom of the crash that would follow.
+
+I didn't look at my sword.
+
+I couldn't.
+
+Minutes passed. The fighting continued in the trenches ahead. The sounds filtered down through the corridor. Between detonations, between the clash of steel, I could hear voices calling for medics.
+
+Then footsteps. Multiple sets.
+
+Five figures emerged from the corridor.
+
+Four officers flanked a fifth. Their hands rested on weapon hilts. Their eyes swept every shadow, every doorway, every angle that might conceal a threat.
+
+At the center, Commander Wendt walked with a measured stride.
+
+His uniform was filthy. Dust caked his shoulders. A gash along his left temple had been hastily sealed with what looked like medical adhesive. His eyes, beneath the dirt and the dried blood, were the same small, dark intense points I remembered from my first day on the line.
+
+"You called me," Wendt said to Thom.
+
+His voice was flat. The world was ending around him and his vocal cords hadn't noticed.
+
+Thom nodded toward me.
+
+Wendt's gaze shifted. Found me against the wall.
+
+"Report," he said.
+
+I pushed off the wall. Straightened my spine.
+
+"Commander. The five refugees, the ones we recovered from the no-man's-land months ago, left the Iron Cross lodge in Grenzheim before dawn this morning. They traveled south on horseback. I tracked them to a hilltop northwest of our position."
+
+My voice was steady. I don't know how.
+
+"They were conducting a ritual. An elven ritual. The ritual generated something that disabled the defensive grid across the entire front. That's how the elves crossed the kill zone without triggering the mines or the spell batteries."
+
+Wendt didn't interrupt. His officers didn't move.
+
+"I disrupted the ritual," I said. "The defensive grid came back approximately—" I calculated, "—fifteen to twenty minutes ago."
+
+Wendt's eyes hadn't left mine.
+
+"The four participants inside the dome are alive but unconscious," I continued. "Severe mana depletion. They'll need medical attention. They're on the hilltop."
+
+I didn't mention Yulia.
+
+Silence held the corridor for three beats.
+
+"Understood," he said.
+
+That was all. Just acknowledgment of a fact that had been reported and filed in whatever internal archive kept his world organized.
+
+"Congratulations, soldier," Wendt said. "If we survive this day, this will be the medal I'll be proudest to pin. But we need to survive first."
+
+His eyes moved past me to the corridor and the sounds of fighting that filtered down from above.
+
+"Commander," I said. "The communication crystals. The ritual was creating the interference across the entire front. If the ritual is down ..."
+
+Wendt was already turning.
+
+"Haas," he said to the officer on his left. "Get to the relay station. Try the crystals. All of them. Every frequency."
+
+The officer, Haas, broke from the formation and sprinted down the corridor toward the staging chamber.
+
+We waited. Haas returned at a run.
+
+His face was different. The controlled blankness that every officer in Wendt's detail maintained had cracked.
+
+Hope.
+
+"They responded," Haas said. His breath came in gasps. "Garrison relay at Grenzheim. They responded on the first hail."
+
+Wendt's chin lifted by a degree.
+
+"And?"
+
+Haas's mouth opened. Closed. Opened again.
+
+"Reinforcements are already en route, sir." He swallowed. "They were mobilized before we made contact. Someone in Grenzheim initiated a full military alert. The garrison, the wall guard, every available unit. They're moving south."
+
+The corridor went quiet.
+
+"Who authorized?" Wendt asked.
+
+Haas looked at me.
+
+Then back at Wendt.
+
+"A Hexenzeit, sir." The name came out strangely, as if Haas wasn't sure he was pronouncing it correctly. "Letters bearing the Hexenzeit family seal were delivered to the garrison command and the town hall logistics office. The authorization was accepted and acted upon immediately."
+
+I raised my hand.
+
+Every eye in the corridor found me.
+
+"Kid," Wendt said.
+
+The word was the same one he'd have used for any recruit. But the tone had shifted by a fraction.
+
+"You're one of a kind."

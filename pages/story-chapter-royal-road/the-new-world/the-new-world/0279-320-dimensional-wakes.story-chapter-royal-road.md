@@ -1,0 +1,195 @@
+---
+id: e7f01178-0163-5c89-86fb-c598d8c11fa5
+page-type-slug: story-chapter-royal-road
+title: "320 Dimensional Wakes"
+slug: 0279-320-dimensional-wakes
+partOf: the-new-world
+position: 279
+ownLength: 2583
+unit: words
+ownProgress: 2583
+publishedAt: 2021-10-01
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/759889/320-dimensional-wakes"
+royalRoadId: "759889"
+markedReadAt: "2026-06-29T21:30:46.760Z"
+---
+
+I gave him a slow nod, "There's one issue that's still popping out to me."
+
+Plazia lowered his arms, "What would that be?"
+
+I pointed at the pile of unconscious people, "Uhm, they can die at any point. Exposure, roaming eldritch, the sun drying them out. Honestly, there's a lot of ways for them to meet the reaper right now."
+
+Before my words left my mouth, a group of metallic spiders crawled from the barren dirt. Their dark gray exoskeletons sheened red, and the eyes glowed a bright crimson. They put the humans into silken weaves, nesting them into cocoons. As the spiders finished rounding up the people, they crawled back into the ground.
+
+I pointed at the giant metal spiders, "Like that. It looks like those civilians will be people smoothies before we know it."
+
+Plazia waved a hand, "Those spiders absorb thermal energy from their captives. They simply place their victims into their colonies, cast metabolic magic over them to make them sweat, and harvest the sterilized liquid and radiating heat. They are some of the most benign eldritch for this reason. It's why I chose them as captors for the aftermath of the conflict."
+
+I frowned, "I'm guessing they keep their captives till death?"
+
+"They will, but that isn't a matter of concern. I planted that eldritch's colony, and I know where it is. We can save the people therein whenever it's convenient for either of us."
+
+I put my hands on my hips, "Alright. I gotta admit this was pretty perfect then."
+
+Plazia gave me a bow that oozed confidence, "Why, thank you, Harbinger. I aim to please."
+
+I pointed at him, "Speaking of which, I need a test subject."
+
+"What for, precisely?"
+
+"I'll be testing a new aura of mine."
+
+Plazia peered at my shoulder pauldron, "Like that pale aura over you now? I've long wondered what that is."
+
+I spread the Rise of Eden over Plazia, including him in the aura's effects. Plazia froze in place, unable to process the changes. I pulled the dimensional wake back, and the hivemind gasped,
+
+"I...That was incredible. The clarity. The strength."
+
+I shrugged, "The everything, really. It's called the Rise of Eden. It gives me stats, and those stats are potent. You can also experience Event Horizon if you want. It will be agonizing, unlike that last one. In your case, you're very vulnerable to that aura since it's more an AOE tool. It tears groups apart. You, being a cluster of bugs, kind of have those fighting mechanics about you."
+
+Plazia grounded his feet, "Isn't that your original aura? I've seen its impacts during your encounters, but my spies couldn't parse its specifics. It seems to melt anything it touches. I...I'll experience it, but only for a moment."
+
+The runic sigils spread over my skin flared a menacing red, oozing out with murderous intent. My armor grinned a jagged smiled as I frowned, "You ready?"
+
+Plazia stammered, "Y-yes."
+
+I reached out Event Horizon over him, and Plazia's knees wobbled. He channeled mana from his furnaces, revving out some kind of healing magic. He shook his head, confusion spreading over him, "Ah...This is rather potent. It's like swallowing a bowl full of nails...Made of glass...Through my nostrils."
+
+I laughed before Plazia peered up at me in defiance, "It's a cluster of fun, isn't it?"
+
+I gazed down at him, "That's half the effect."
+
+Plazia tilted his head, wondering what the other half entailed. I stated with my voice imbued by aura's dominance,
+
+"Kneel."
+
+Plazia fell onto one knee, and the hivemind gasped, "This...This is how you controlled the eldritch on Blegara. Hah. Madness. Truly this is madness."
+
+He enjoyed the challenge, pushing himself back up despite his legs wobbling. I smiled, "Damn. Impressive."
+
+He almost got up before I pointed down and seethed, "I said kneel."
+
+Plazia collapsed, falling onto his arms. He cackled, "That's incredible. What a tool at your disposal. It's wicked, I must say."
+
+I pulled Event Horizon back, and Plazia's Sentinel armor calmed, no longer jittering under the surface. The insect swarm maintained itself despite how powerful Event Horizon was, and Plazia remained able to speak and function. If anything, he appreciated the aura instead of fighting it.
+
+I gave him a nod out of respect, "That was a good effort."
+
+Plazia kept his healing magic going, siphoning it into himself, "I take pride in my control, whether it's of myself or others. To face a test of my control is a delight I rarely meet. The novelty alone is worth it."
+
+I raised my brow, "Well, those are the two auras I've had up until now. My new energy type means I have one for my primordial mana now."
+
+Plazia brushed the dirt off his sentinel armor, "And that's what dictates the aura's composition?"
+
+"Yup."
+
+Plazia spread his arms, "That was ascendant mana just now, and the previous one was quintessence then?"
+
+I raised my brow, "Yeah. Exactly."
+
+Plazia crossed his arms, "And now you're dissecting primordial mana. You need a subject, and you want me to be that individual?"
+
+I waved my hands out, "Hell no. I have no idea what it's going to do. It could kill you-" I snapped my fingers, "And just like that. The last thing we need is you suffering death or permanent damage. Instead, just throw a patch of insects out, and let's see how they deal with it."
+
+Plazia raised a hand, forming umbral insects out of the corner of the room.  They glimmered in the crimson light oozing from my runic markings. I stepped up to them, and primordial mana funneled into my sigils. I turned to Plazia, "Take a step back. This could get messy."
+
+Plazia did so before sitting on a basalt throne, his favorite resting place given his propensity for them. I stared down at a pile of beetles, and I funneled mana into my body. As I did, the sensation of primordial mana oozed into my mind. It assimilated with my flesh and blood, coursing into my veins like injecting an ichor.
+
+It left a different sting than quintessence or ascendant mana. Primordial mana placed an aura of perfectionism and judgment over me. I was a judge over a courtroom, all under my grasp, and I decided anything and everything that occurred. In fact, my surroundings popped out with detail as if I viewed them through a magnifying glass.
+
+In a sense, the confidence and precision of the energy struck out to me. I kept funneling the mana until I jittered under the energy's fluctuations. It spawned an almost demonic urge to destroy and recreate. I felt like a god given life, and everything appeared impure and weak to me. The desire to evaporate my surroundings and replace them with better, superior replacements surged in my chest.
+
+They turned into whispering voices. They rose in volume, shouting in my mind to devastate and replace. A compulsion to reduce the insects rushed over me, along with the desire to create better beings in place of them. They deserved nothing better. Their deaths served my vision, a better vision. I soaked in this confidence, one grounded in knowledge and control instead of absolute power.
+
+And I silenced it.
+
+The mana storm quelled like a puppy struck by an iron chain. My mind wielded a brutal, engulfing wave of power over the mana and its undirected will. I gave it a smile as it relinquished any attempts at retaliation. This wasn't my first time tolerating mana with its own mind and output, and I also experienced the sensation from ascendant mana, which proved much more volatile.
+
+That one combined with my armor's persona, turning into an almost demonic apparition. It arrested control of me at one point while fighting mutated people in Springfield. Compared to then, I rested on a massive pile of real-world experience and an even more giant pile of willpower. That granted me absolute control of my mana and its processing.
+
+So I channeled primordial energy once more, keeping the mana tame. It floated off my body in congealed dollops, like a liquid, navy-blue fire rising off of me. Ascendant mana crackled out like lightning, a thick, choking miasma, while quintessence arrived in a saturated wave, like air soaking into your skin. This mirrored flames and plasma, the assuredness of the mana coming across like a gentle warmth.
+
+Plazia murmured, "And you're certain this is your first time summoning primordial mana?"
+
+I wallowed in the wake of the energy, "It is. It's different, I gotta say." I stepped forward, getting within inches of the beetles. My feet left marks on the stone. From me, the mana left geometric, straight lines crisscrossing the stone. They expanded into polygonic, orderly shapes behind me as if I reorganized the world in a mathematical design. I raised my brow at the beetles, "Sorry little guys. I hope you'll be fine."
+
+I reached out with my new dimensional wake. It coursed in a wave, a strange, dulling of my emotions. My eyes sharpened as an unknown precision crossed over me. It washed over me like water, an incoming orderliness that gave me absolute stability. It soaked deeper than the skin, a stronger, more potent version of the primordial mana before it.
+
+As the new dimensional wake washed over the beetles, they remained unaffected. I nodded, the sensation clear to me. I mouthed, "Yeah, this has nothing to do with anyone else. Compared to the other mana types, this one is purely internal."
+
+Plazia leaned over, peering at the beetles, "I would envision Primordial mana being the opposite. It's mana about controlling your outer world and crafting it in your vision. How would that leave everything unaffected?"
+
+I closed my eyes, saturated in the primordial mana's ooze, "That's just it. It's in my vision. The world isn't being recreated. I'm creating something new from my mind and it alone." I reached out a hand. I generated ice, as I would with quintessence. This same ice spawned into existence, but it carried a particular shape.
+
+I generated a sculpture, one mirroring Althea. With my photographic memory, I envisioned her midway through firing her rifle. The barrel coalesced from ice. The shape of her figure and the focus in her gaze all came together. Before I opened my eyes, I knew it would be lifelike. As I gazed upon my creation, it was a mirror image of my memory.
+
+Precision. Accuracy. Those words described the sculpture. It carried no flaws, the ice oozing a cool fog from its lower base. Plazia stepped up to it, and I molded my aura away from the hivemind. He tapped an eyelash, the ice breaking off,
+
+"I didn't realize you dabbled in any kind of artwork. You enjoy sculpting?"
+
+I shook my head, "Not really. The only thing comparable to art is my work with the cipher. As for actual artistry, I've never really been much of one." I gazed at my palms, nodding at the energy, "But maybe I am now."
+
+Before I pulled the aura back, Plazia stepped to his beetles. Plazia moved his arms while inspecting himself within the dimensional wake, "What a strange sensation."
+
+I frowned, "Huh...What's it like?"
+
+Plazia reached out a hand, "I'm being peered at from every angle by all-seeing eyes. They pierce through my shell, and they see my form in disdain. I'm held by strings, an odd puppeteer granting me benevolence by allowing me to exist." The hivemind shivered, "It's quite uncomfortable, though nothing when compared to Event Horizon. That aura asserted absolute dominion as if I were worthless."
+
+I pulled the dimensional wake off of Plazia, "Well, that's good. Based on what it's shown so far, I'm thinking this primordial aura should be pretty useful for crafting, in particular the cipher. I'll be able to make some very precise carvings. With this, I might even be able to push past some bottlenecks in my sigil slicing, actually."
+
+Plazia nodded, "It's interesting. I believe that the primordial aura operates better under fine control. Perhaps you should use the Rise of Eden to generate the raw materials and energy for various inscriptions during your crafting. Think of it as outlining. Filling in the finer details thereafter, that can work under the might of this...This other aura."
+
+I said, "I'll have to play around with it and see what I can do later. For now, I'll call it my primordial aura."
+
+Plazia leaned back, "It's provenance, an absolute assertion of your will."
+
+I frowned, "Huh, it's hard to say. Not having a system lay out all the details means I could be missing something. It's kind of fun, though, like exploring a dungeon I've never seen."
+
+Plazia crossed his arms, "That assumes a lack of danger. Your perspective is warped in that regard, as most risk death. You merely tread into the unknown to find gain."
+
+I put a hand over Plazia's shoulders, "Man, you know what? You're cool, Plazia."
+
+I shook him a bit, Plazia jerking around. He mouthed, "Your expression of joy is obnoxious."
+
+I gave him a grin, "And so is your vocabulary, but here we are."
+
+The hivemind actually let out a cackle before I gave him a light pat on the back. I stepped forward, stretching my arms, "Well, I have to head out."
+
+Plazia peered at the runic markings, "As do I. There are details I must refine before we begin our dimensional processing. Establishing those finer details shall consume me."
+
+I sent Helios a message, asking him to come back. A warp opened seconds after, and Helios stepped out with a drink in his hand. It left an aroma like a fruity version of coffee, quite delectable by the looks of it. The albony royal caught me staring.
+
+Helios snapped, "What? I can't enjoy Velauh?"
+
+I leaned over it, "Velauh, huh? It looks pretty good."
+
+Helios pulled it close, "And it looks to be mine as well. You can't have any."
+
+I rolled my eyes before Helios raised an arm, "Where are we going?"
+
+I frowned at his Valauh drink, "To wherever you got that drink."
+
+Helios shook his head, "I'm no chauffeur."
+
+Plazia stated, "You fooled me."
+
+Helios's left eye twitched before I raised a hand, "We're going to Earth."
+
+In silence, the warp specialist did his thing, popping out another dimensional leap for us. Before stepping through the veil, Plazia raised a hand. A psionic construct crawled out of the ground, and Plazia gestured to it,
+
+"Use this to contact me. Hide it within your dimension, and simply seize control of it if you wish for a meeting. I will let you know if I am available to discuss details."
+
+I gave him a thumbs-up, "Will do. Cya, Plazia."
+
+I scooped the bug thing into my dimension, and Helios and I stepped through the portal, landing on the side of Mt. Verner. Chrona rested in the distance, many gialgathens roosting along the upper portion of the mountain. Eltari flew along the lower valleys as well, and a growing cityscape encroached on the forest. I smiled at it, our city thriving. Wanting to take things to the next level, I rose a palm to Helios,
+
+"You're dismissed. I'm heading out."
+
+He rose his brow under his dark mask, "Where exactly are you off to?"
+
+Quintessence suffused my surroundings in an unbridled wave,
+
+"I'm going to go do some hands-on expansion real quick."
+
+I smiled, "We need some more cities."

@@ -1,0 +1,145 @@
+---
+id: 58fb0980-fe03-5d5b-b975-af1208bab455
+page-type-slug: story-chapter-royal-road
+title: "215 (II) Admittance [II]"
+slug: 0227-215-ii-admittance-ii
+partOf: path-of-the-deathless-book-4-completed
+position: 227
+ownLength: 2291
+unit: words
+publishedAt: 2025-11-30
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2806679/215-ii-admittance-ii"
+royalRoadId: "2806679"
+---
+
+—UUUUUUCCKKKKKK!
+
+VULTEGS! L-LISTEN THE FUCK UP! WE’RE… WE’RE GOING TO DO SOMETHING VERY SPECIAL.
+
+I’M CALLING THE LORDS OF CUNTING LAW! V-VULTEG'S, GET YOURSELVES BACK TO VULKETH! FROM WHEREVER YOU ARE. WE’RE GONNA… IT’S TIME FOR A RETRIBUTIVE INCURSION!
+
+I’VE TAKEN THIS SHIT FOR THE LAST TIME. I’M DONE WAITING INSIDE MY TOWER LIKE I’M SOME KIND OF—THOSE FUCKS ARE LAUGHING AT ME. ME! A GOD! YOUR GOD! FUCKING ADAM ARROW AND HIS CORPSE-SHEDDING—I DON’T KNOW WHAT HE IS TO ARROW. I DON’T CARE WHAT HE IS. I DON’T CARE IF THEY’RE BROTHER, SISTER, PET, MASTER, SLAVE, SEX-PARTNERS! DON’T CARE DON’T CUNT-FUCKING CARE!
+
+WE KILL HIM! WE KILL ADAM ARROW!
+
+ARRRRROOOOWW! SHEDDERRR! DO YOU HEAR ME? IF YOU GET THIS NOTIFICATION, I’M GONNA FIND URRI’S CORPSE AND SHOVE BITS OF HIS SHIT-STUFFED DEAD ASS AND FUCK HIM UNTIL THE SHIT IS PREGNANT AND SHOVE UP UP YOU AND FUCK YOU AND MAKE THE SHIT BABY FIGHT YOUR CORPSE BABIES YOU FUCK FUCK YOU FUCKKKK—
+
+-Lord Scorn’s Message to all Vultegs
+
+215 (I)
+
+Admittance [II]
+
+As Shiv and Irons re-entered Miriam Hall, they went to the right wing of the building instead. They went up five flights of stairs and then moved down a long marble hallway that was polished to a near-reflective sheen.
+
+There were no decorations along the walls or ceilings of this place. Everything was pristine and white, without a speck of dirt or any hint of scratches whatsoever. There was also the taste of chemistry in the air. Soaps and disinfectants meant to cleanse the atmosphere of bacteria.
+
+Shiv noted how wide this hallway was. It was large enough to fit perhaps five orcs lying in a row, head to foot. It was also tall enough to accommodate a small-sized Dragon-Knight standing up. This made it positively cavernous compared to all the other hallways in the building, and it gave the feeling of a tunnel leading into an arena rather than just another administrative area.
+
+"This place feels ridiculously wide," Shiv said. He picked up a faint distortion in the air as well. It pulled on him. It crashed against him like soft, rippling water spreading across a once placid lake.
+
+"That's because it's spatially enlarged," Irons grunted. "So you don't have much Dimensionality, do you?"
+
+"I don't have any Dimensionality," Shiv replied, "barely have Portomancy."
+
+The Captain grunted again. "Adam does, though. It's part of his arsenal now."
+
+Shiv held himself back before he could confirm anything about Adam’s Skills. “Best that you ask him about his skills personally. I don't think it's my place to be giving away the Gate Lord's secrets.”
+
+Irons raised an eyebrow. "Gate Lord?"
+
+Shiv bit back a wince. "And that’s why I'm not saying anything else."
+
+After a near-minute of walking, they turned around a corner, and Shiv briefly stopped dead. Next to them were two iron doors, two iron doors that suddenly twisted aside and crashed hard against the walls. It was then that he realized they weren't doors at all, but the fronts of tower shields.
+
+Behind them were two golems, each bearing a scepter of some kind. One was shaped like a crescent along its edges, while the other was a quill on one end and a blade on the other.
+
+The golem on the right had a single gem for an eye, socketed at the center of its face. The rest of its body was a thing cast from bronze and veins of mithril. "What's this so late in the day, weeks after the beginning of the cycle, where most young have already been marked and blessed? Is that Captain Irons, I see, and an unknown boy in tow? How frivolous a body, how odd of a soul."
+
+Compared to its counterpart, the golem on the right seemed a thing of reinforced titanium, with a streak of adamantine splitting its face down the middle. It had two eyes, and to Shiv's surprise, they were made from flesh. They glistened like gelatinous orbs, and the golem blinked, constantly teary-eyed. "Another comes to join the chorus. Another, I see, that I will someday mourn, that I will long remember. Tell me your name, small one."
+
+Shiv wasn't sure what to make of these golems, but Irons shot him a look. "Go."
+
+"Go what?" Shiv asked almost dumbly.
+
+"Tell the Mourning your name."
+
+"Mourning," Shiv said, and his eyes settled on the golem to the right. "Right. I'm Marcus Unblood. I'm from," Shiv paused as he racked his brain, "Old Brunswick, somewhere around there. Yeah, I got poisoned during a Jotun attack, and most of my friends also got killed. It was really bad. I went into a coma, and my heart beat really, really slowly, so they thought I was dead too. They loaded me inside a corpse freezer, and now, well, I woke up earlier, so here I am."
+
+As Shiv finished rambling, the two golems simply regarded him for a second, then they turned to each other.
+
+"This one is nervous," the leftmost golem said. It shook its scepter, and its bladed edges began to gleam with a pale sheen of power. "I like the nervous ones, the anxious ones. They take their studies seriously. They are burdened with the need to become."
+
+"I pity them," the golem called Mourning said. It stroked something with its quill, and Shiv briefly saw an imprint of a symbol manifest in reality, but then it faded like ink dissolving upon the surface of water before he could memorize it. "For they are weighed by duty and will never know the true succor of joy." Then it made a sound like breathing in. "I bid you, as Keeper of Mourning, as the Archivist of Regret, of Potential, of Possibilities and Failures."
+
+"And I spur you as Keeper of Ambition," the leftmost golem carried on. "The one that dreams, the one that hopes you will see every glory, desire, and even those that you cannot fathom, the one that strokes legends, the one that strikes down horrors and turns them from nightmares to bedtime stories."
+
+And at once they lifted the implements they carried, and with a resounding click they clashed said implements together. A brief flash sparked from the point of impact, and Shiv looked away. There was an imprint of light that lingered in his vision, but then the golems receded, the ground beneath them groaned, and a rush of cold air spilled over him and Irons.
+
+Behind the golems, an even longer path was revealed, but it was plush and vibrant, the color of blood, rich and healthy blood, the kind that would flow from an elder vampire's throat once slit. Along the path were tall chairs, each of them almost throne-like in their own regard, and they continued running forth. Along descending steps, Shiv saw rows of these chairs sprawl forward as if parts of a rolling hill. The entire auditorium was built like an amphitheater, and as the carpet got to the very end, there was a stage at the bottom, a stone stage with a series of spells carved into its surface.
+
+They circulated around each other in patterns so complex that it took Shiv a moment to separate all their greater parts. There was a series of rings at the center, eight in total. All the major magical lores and mana types were included, but then there were approximately twenty-five other rings randomly interspersed through the sides. They didn't all intersect, and one was only connected through a few mithril circuits, an island bound to the rest of the spell by a single bridge. At the center of the stage was also a small pedestal that carried an orb.
+
+Irons strode past Shiv, and he only caught up a moment later, too entranced was he by the sight of the auditorium before him. As they walked down, Shiv looked to his left and right, and then looked up again, as he saw more chairs built above on another level to this place. It was vast. This area wasn't just cavernous. It was colossal. There were enough chairs to seat thousands of students.
+
+Slowly, a childlike smirk crawled over Shiv's face. This place gave him a strange feeling, the feeling that something wonderful might happen, the feeling that he was a young adventurer entering a dragon's hoard. He'd only heard stories about that a few times when he was still in the orphanage.
+
+And among the many fables and fairy tales the Matrons told, he liked that the best. Of course, his memory of these fairy tales was quickly ruined by the other children asking if there were Omenborn hiding within the hoards as well. Which the Matrons most assuredly replied to them that it was unlikely, and the worst they needed to worry about was perishing nobly against a brutal behemoth of a dragon.
+
+"There is usually a ceremony for such things," Irons began. His gruff voice echoed far and wide through the auditorium, and Shiv continued scanning his surroundings, trying to see if there was anyone else here. So far, he saw no one, tasted no vitality in the air, but he still had a faint feeling he was being watched. By whom or what he couldn't say, but his guard remained up.
+
+"Ceremony," Shiv replied, "with all the kids walking this carpet? The ones who are ordained?"
+
+"Yes, these seats are meant for established instructors and witnessing Pathbearers."
+
+Shiv shot the surrounding seats another look. "Witnessing?"
+
+"Yes, Phoenix Academy has a great many alumni. A good amount still works within the city, and they are always looking for new apprentices. The Ceremonies of Ordainment take place over several days, and recruitment begins from then on. Thousands of students are sworn in over those days. Their Paths are declared, their highest skills are revealed, their initial dedications in terms of college and specific skills will also be decided, and from there, their futures are sculpted in turn."
+
+"Huh," Shiv said, surprised about how proactive and fast-paced everything was in the capital. "So Adam went through this too, huh?"
+
+"He did," Irons said.
+
+"And did he get picked out and recruited on the first day?"
+
+"He did," Irons repeated once more.
+
+Shiv snorted. "Figured. It's kind of hard to miss someone like that, huh?"
+
+"The thought of him squandering his true potential is even harder," Irons declared. He looked over his shoulder and stared at Shiv. "He was talented, but he was also prideful and soft. That made him sharp, but brittle, dangerous to himself and those around him. He needed to be fashioned with more discipline. So I deigned to accept him and a few others into my class ahead of time, as well as offering to include them in the academy militia."
+
+"Wait, you're the one who recruited Adam?" Shiv asked, his mouth falling open.
+
+"I am among the many who did," Irons said. "Young Lord Arrow is someone of a great many talents and of near-tireless dedication. Do not mistake my criticisms for scorn. It is because of that promise that I was compelled to pick him up. Promise that I did not want to see tarnished, and I was not alone in such thinking. Heratana, the Hero Hydromancer in charge of the city's water purification, also took him on as a pupil, though he was one of her tertiary apprentices, and not her direct disciple. Even so, it suited her needs just as well. It taught him much better control of his water magic, and in turn, he helped resolve a few inconvenient matters on her end as well."
+
+"She's a Hero, though," Shiv said. "He was a student at the time. What'd she need his help for?"
+
+Irons almost laughed. "Some Heroes have less-than-stellar Awareness, as you might be able to attest, especially if they're non-martials."
+
+Shiv took that jab gracefully and nodded. "Okay, I get it." The Deathless looked around and huffed. "Well, looks like no one's gonna be recruiting me."
+
+"At least not initially," Irons said. "But once you are enrolled, then you should make a name for yourself."
+
+"I hope not," Shiv muttered under his breath. "Last thing I need is more attention."
+
+The captain didn't pause for a moment. "I fear it might come to you regardless. You don't seem to be the quiet kind."
+
+"Would you believe me if I said I was trying?"
+
+"I do believe you. And I pity you. I don't think it matters."
+
+This time, Shiv did wince. "Maybe I'll find a Master Chef or something. Say, you know if the Academy has cooking courses or something?"
+
+"We do," Irons replied. "But considering your cover and background, it might be difficult for you to get in."
+
+"Maybe for Marcus," Shiv said.
+
+"But," Irons cut him off, "if Marcus suddenly shows a High-Tier Cooking Skill, that might provoke questions as well."
+
+And that briefly stymied and soured Shiv's mood. "Shit, you're right. Okay, godsdammit, I can't do it in the open. I need to think more about it. You know if someone here worked with Hero-Chef Georges Archambault before?"
+
+Irons froze. He turned and stared at Shiv before spinning on his heel and doubling his pace toward the stage. "It is best that you do not invoke his name at the Capitol."
+
+And there it was again. Georges’s mysterious exile and the purchase of his debt. Roland Arrow had kept Georges close by for a reason. And now Shiv was another step closer to learning about his mentor's mysterious past. "And why is that?" he ventured.
+
+"Because serving the ends of a revolutionary group and successfully poisoning two Auroral Avatars would have normally seen Georges Archambault publicly executed instead of simply excommunicated."

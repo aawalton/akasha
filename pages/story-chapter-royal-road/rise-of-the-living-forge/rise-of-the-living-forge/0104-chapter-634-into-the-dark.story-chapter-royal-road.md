@@ -1,0 +1,163 @@
+---
+id: b801d2be-5594-5e2d-9cbd-38b582129903
+page-type-slug: story-chapter-royal-road
+title: "Chapter 634: Into the dark"
+slug: 0104-chapter-634-into-the-dark
+partOf: rise-of-the-living-forge
+position: 104
+ownLength: 2016
+unit: words
+publishedAt: 2026-08-18
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3829725/chapter-634-into-the-dark"
+royalRoadId: "3829725"
+---
+
+Everyone ate as much as they could — and then a bit more after that. Even with the ashy taste in Arwin’s mouth brought on by the knowledge of what would come in the next few hours, Lillia’s food tasted every bit as good as it always did. Not even the awful concoction of dread and nervous pre-fight adrenaline swirling through him could change that.
+
+The meal ended too fast.
+
+Nobody said at first. They just rose. All of them knew what was to come.
+
+One and Eleven remained silent as well. But, even without words, Arwin knew that they were all out of time. He could see it in One’s eye. He glanced to Eleven. She gave him a slight nod.
+
+Arwin looked back to the Menagerie. To the odd gathering of people that he’d come to know as his closest friends. As his guild. Some were newer, and some had been here with him from near the start. He wished Reya and Anna were present as well. All of them could have used their backup. But, in some ways, he was glad that they weren’t.
+
+At least they would be safe.
+
+He let out a slow breath.
+
+“Give me one second,” he said to Eleven.
+
+She just nodded.
+
+Arwin let his gaze return to everyone else. “I’d like to thank each and every one of you for being a part of the Menagerie. I know not all of us are here right now. But most of you have stood by me and Lillia, even though we stand in the face of near certain death. Our story has been a ridiculous one. I don’t think even I would have believed so much a word of it had someone told it to me just a single year ago. And I didn’t plan for everything to come to a point like this so quickly. I thought we had more time. To prepare. To live. But we don’t. And this is more warning than I got the last time the world came crashing down around me. So, all things considered, I don’t think we can complain too much.”
+
+A few chuckles rolled through the room.
+
+Lillia stepped up beside Arwin, putting a hand on his shoulder as she let her own gaze travel over everyone in the room. “Everyone here is forever a part of our family. No matter what happens tonight, remember that. We are proof that the Guild’s existence is built on nothing but lies. That the Monster Horde and humans’ true enemy have never been each other. No matter what happens tonight… you are all the future.”
+
+“Except for you, Beast,” Arwin said. The corner of his lip curled slightly. “You’re kind of just here. No offense.”
+
+Everyone burst into laughter.
+
+“None taken,” the Beast said with a chuckle. “I’m just along for the slaughter and to see the end. For what it’s worth, I hope you lot bring the Guild crashing down. It’s a long time in the making. I’ll be more than happy to watch them burn. Should certainly be fun. Just save a few fights for me.”
+
+“I get the feeling you’ll have more than enough fighting on your hands soon enough,” Arwin said. He drew in another slow breath, trying to still his pounding heart. But it was pointless. He couldn’t. And, he supposed, perhaps it was better that he didn’t. Some moments weren’t meant to be silent. He opened his mouth, searching for words for several seconds. None came to him. He coughed into his fist, then cleared his throat. “I expect you to come back alive. Every single one of you.”
+
+“Greedy, are we?” Esmerelda asked with a smirk.
+
+“Incredibly,” Arwin said. His own mouth curled into a mirthless smile, and somewhere from the pit of his belly, a pang echoed through his being. “I’m hungry beyond belief. I will not be satisfied unless we take the Guild down and are all here to celebrate it. Do all of you understand? This is an order from your guild leader.”
+
+“I reckon we’ll do our best,” Wallace said, rolling his shoulders and baring his teeth. “We’re a hardy lot, here. Especially if there’s a good meal waiting for us when the day comes to an end.”
+
+“You just ate,” Rodrick said with a laugh.
+
+“Yeah? I’m a dwarf,” Rodrick said. “Arwin ain’t the only hungry one here.”
+
+“Just make sure you follow your own orders,” Madiv said, piercing Arwin with a sharp look. “I think we all know you well enough. But would venture to guess that we agree. This won’t be a victory if we aren’t all here at the end. So make sure you and everyone heading out to the Deepmind make it back.”
+
+Arwin nodded. “We will.”
+
+“You’re prepared, then?” One asked.
+
+Arwin felt the words catch in his words in his throat for a moment. Then determination washed over him in a cold wave. He gave the older man a firm nod.
+
+“Yeah. We’re ready.”
+
+“Eleven,” One said. “It is time to begin. I will move first.”
+
+Eleven gave him a sharp nod. She snapped her fingers, summoning a spinning disk of hissing magical energy into being in the air alongside herself. Then she swallowed.
+
+“One…”
+
+“Save it for when this is over,” One said.
+
+“Right,” Eleven said.
+
+“Good luck,” Arwin said.
+
+One let out a raspy laugh. “Save the luck for yourselves. I do not need it. It is high time the Guild pays the price for what they took from me.”
+
+For some reason, despite One’s hunched figure and immense, debilitating injuries, Arwin believed every word that he said.
+
+“Give them a blow from me as well,” Arwin said.
+
+The portion of One’s mouth that could still fully move pulled into a half-smile. He clasped Arwin on the shoulder with a heavy, calloused hand. For a moment, it seemed like he would say something.
+
+But he didn’t.
+
+Instead, he just nodded. Then he turned on his heel. And, as he moved toward the portal, a change passed through his body. One’s limping gait turned normal. He rose almost a foot in height as his back straightened. Loud cracks split the silent air of the Devil’s Den as his metal fingers unclenched. Lines of power ignited within his scorched armor. Ripples of power coiled out from him like flame emanating from the mouth of a dragon.
+
+Then, regal as a king, he stepped through the portal.
+
+It snapped shut behind him.
+
+Eleven looked to Arwin.
+
+“Six and I will hold the way back to make sure the Guild doesn’t attack the Den from within. The Guild will strengthen their defenses when they know what’s happening. There won’t be a way to re-open the portal after that, so I’ll have to keep it open the whole time. We’ll fight for as long as we can. Thirty minutes. That’s all I can promise. Don’t take longer than that.”
+
+“We know,” Arwin said.
+
+Eleven nodded. “Go the moment it opens. The Guild will realize we’ve breached their defenses within seconds. I won’t be able to get you directly to Deepmind’s area, but it’ll be close. Right outside it. You might have to take a few people out to get in. Move as fast and quiet as you can. The longer it takes the Guild to realize the scale of what we’re doing, the more precious minutes we might be able to buy.”
+
+She pressed her hands together. Concentration creased her features. An angry buzz built around her fingertips. Arcs of coiling red energy danced into the air, hissing and popping. This portal was clearly a hell of a lot harder to pull open than the previous one had been.
+
+Everyone shifted. Arwin’s team — Lillia, Rodrick, Kien, Koyu, Elias, and Maeve — moved into position, readying themselves.
+
+Eleven’s teeth gritted. She pulled her hands apart with a snarl.
+
+There was a howl like the wind tearing through mountain peaks. Then, with a tearing noise, a new portal tore through the air before Eleven.
+
+Arwin plunged into it, and the Menagerie followed after him.
+
+The world shifted in an instant.
+
+All the comforting darkness of the Devil’s Den evaporated, replaced by the dim rays of the moon peaking through thick gray clouds overhead. He stood in a wide courtyard, brimmed by huge bushes covered with beautiful crimson red flowers.
+
+A massive tower, easily the size of half the Menagerie’s entire street, rose before him. It was without windows and bore only a single, plain metal door at its center. A large man clad in heavy plate mail that shimmered with magical energy stood guard alongside it, a huge broadsword propped up against the wall beside him.
+
+His eyes went wide as he spotted Arwin and the Menagerie pouring into the courtyard before him.
+
+He shifted.
+
+Arwin’s muscles tensed.
+
+[Scourge] pumped through his veins.
+
+He exploded forward. Even as the guard’s mouth opened and he grabbed for his blade, Arwin was upon him, Caldera materializing in his hands. His swing was halfway done by the time the very first utterance of noise was starting to escape the guard’s throat.
+
+Then there was a wet crunch.
+
+All the magic within the man’s helm wasn’t even close to enough to stop Arwin and Caldera. The hammer let out a muted thump as it impacted the wall of the tower through the man’s head.
+
+The guard crumpled, dead well before he hit the ground. He hadn’t stood even close to a chance. Killing him had been as easy as breaking a doll.
+
+Regret cut through Arwin. That man might not have been one of his enemies. Perhaps he had simply been an adventurer with hopes of making a difference. He might have had a family. Dreams. Morals. Or perhaps he’d been fully aware of what the Guild’s true goals had been. Maybe he knew what lurked beyond the door at his back.
+
+Arwin didn’t have the luxury to get an answer.
+
+He never would.
+
+His gaze lifted to the metal door. Even without touching it, he could tell that it was thick. Magic coursed within its entire being. This one door was nearly as powerful as some of the strongest items that Armor has made.
+
+And from beyond the door, the scent of blood and ash and death and rot coagulated in the air. It was so thick that it almost made him choke. If he’d borne even even the slightest doubt that the Deepmind was beyond the door, this dismissed it.
+
+There was something immensely evil waiting for them.
+
+The rest of the Menagerie rushed up alongside Arwin, taking their positions around the door. He heard another portal cut open behind them as Eleven presumably made to open a path for Six. But there was no time to worry about her anymore. He just had to trust that she’d do what she said she would.
+
+“This looks tough,” Olive said, squinting at the door in concern. “It’s practically solid magic. How—”
+
+Arwin leaned forward. His jaws clamped down on one of the hinges, and his teeth cut through the metal like it was butter. Magical power coursed into his body. The door had been full of strengthening and toughening enchantments meant to keep anyone from breaking it down.
+
+His lips curled in amusement.
+
+How unfortunate for the Guild that all those powerful enchantments were now his gain.
+
+He crouched, biting down on the second hinge. Then he grabbed the door handle. Magical power poured out from it and into him until nothing remained. Arwin peeled the metal back like it were nothing more than thin aluminum. The horrid scent of evil grew stronger.
+
+Before him was a pitch black passageway. Not so much as a scrap of the moon’s light made it into the miasma. Arwin’s jaw set.
+
+“Stay close,” he said, clenching Caldera in a tight grip. The hammer sent a trill of excitement and hunger through his mind. At least one of them was looking forward to this.
+
+Then, with his people at his back, Arwin plunged into the darkness.

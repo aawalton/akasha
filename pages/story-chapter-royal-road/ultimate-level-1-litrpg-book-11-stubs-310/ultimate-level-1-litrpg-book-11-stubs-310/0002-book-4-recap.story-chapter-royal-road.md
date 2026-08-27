@@ -1,0 +1,175 @@
+---
+id: 3f92eff2-3e1a-536f-96ed-fb24931b1a36
+page-type-slug: story-chapter-royal-road
+title: "Book 4 Recap!"
+slug: 0002-book-4-recap
+partOf: ultimate-level-1-litrpg-book-11-stubs-310
+position: 2
+ownLength: 1257
+unit: words
+ownProgress: 1257
+publishedAt: 2024-06-03
+link: "https://www.royalroad.com/fiction/76259/ultimate-level-1-litrpg-book-11-stubs-310/chapter/1661973/book-4-recap"
+royalRoadId: "1661973"
+markedReadAt: "2026-06-29T20:31:39.889Z"
+---
+
+The Story So Far
+
+Welcome back to book four, Ultimate Level 1: New Dreams!
+
+Here is a quick recap of the story so far.
+
+Book 1:  Max wanted to be a baker but as we know, a mysterious god (or gods) gave him a black skill.  He was assaulted, bound and tossed into a wagon, unsure what would happen next.  Getting out he took on the alter identity of Seth Pendal and grew stronger, learning that his black skill, Consume, can steal stats if they are higher than his base (unmodified) ones.  After picking up a few skills, some good loot and killing a Fanatic Elf in Windsor Wheel (and picking up a sweet skill), Max flees to the next town, Rumstant.
+
+There he finds out quickly he needs to group up, joining forces with Tanila, an elven Mage, Fowl, a Dwarven Warrior and Batrire, a Dwarven Healer.  They have some fun, beat a few floors and eventually Max must reveal a little about himself and the power he possesses.  They share some about their own secrets and the party gets to work, attacking dungeons, stopping a shade (ok, well they held it off) and working at getting stronger.  Max also learns the power of books and knowledge (always read books, especially Ultimate Level 1!).
+
+Book 1 ends with Max sharing that he believes he met a goddess, one that has given him an unfair advantage of better loot and harder bosses and dungeons to fight.
+
+Book 2: Max comes out swinging, upgrading his weapon skill to all melee weapons! They find out dungeons are really giving them some extra love, even locking them in so that they can only escape if they win (or die… but they don’t… or did they?)
+
+Random luck? Curse of the Gods? Strings of Fate?  Something leads Caleb to find and follow Max and the old reunion doesn’t go well, causing Max to find out he’s being followed.  A little bit of torture and some payback nets him new skills and knowledge about the people seeking his life.  Realizing that they may be closer than he thought, Max goes all in, telling the others.
+
+It’s a whirlwind of finishing up a few things, helping Aimee his local baker friend level up and then ditching town as they race off to Peltagow.
+
+As always, Max’s gotta pee and that leads to a massive gain in stats and skills when he’s ambushed at night, killing a host of thieves and killers who came out during the full moon.
+
+Max finds out his sonar skill can help him cheat at some gambling and he takes all the gold he can from the Beaver’s Casino, entering the capital with enough cash to stay at a nice place.
+
+Consume and Max have some problems as the skill wants to be a little more bloodthirsty and Max fights it off, continuing the dungeon crawl through the capital.
+
+A bad rare spawn causes Batrire to almost die and left without enough money to pay the bill, Max steps into the Colosseum to try and earn a little gold while not losing his soul.
+
+Some bad stuff happens… people die (not Max) and between killing an Elven Fanatatic and a Nobles son, Max gets out from the fights with almost nothing.
+
+Thankfully Fowl bet everything on him winning and they get enough cash to pay for Batrire’s treatment.
+
+Everything is looking up, Max and Tanila go for a walk… love might have been in the air until they are surrounded by elves ready to kill them both.
+
+With no where else left to turn, Max gives in, letting Consume take over.
+
+Book 3: The elvish group finds out the hard way they weren’t prepared for what stood before them.  Consume shows Max the power it has and soon he’s filled with more stats and skills than one might imagine possible.  They get a free ride to the guard place, find out his skill can also remove the killer aura and end up in the city, looking like he didn’t do a thing.
+
+They sign up to join the Golden Axe Faction, pledging to be part of that group and begin grinding with haste.
+
+A massive breakout of 4 Dungeons leads to the city being overwhelmed from all sides and the group goes out, barely surviving a massive ogre break.  It leads to some growth and they get a chance to see the power of tower climbers who come and save the day.
+
+Between learning they can break the dungeon (Forest Fires can be your friend), winning a drinking contest, celebrating a birthday party and growing closer, the biggest life thing is Max and Tanila finally admitting their feelings.
+
+Upon hitting lvl 50 everything changes.  Two options are on the table and the group attempts what hasn’t been done in generations.  They enter the demon dungeon, hoping to defeat it and earn the boon that comes with it.  Flexing their brains they outthink a dangerous area and Max has to let Consume out to save his friends.
+
+After enjoying an all you can eat demon buffet, Max rejoins the group, facing down a demon way stronger than they should have and pull out a win.  Avoiding a tricky demon lord they get the boon and head off to the dragon dungeon. (We’ll gloss over the epic abilities/spells Max picked up there).
+
+The dragon dungeon is a cake walk. Because the dragon wants to meet the ones who pissed off the demons.  A little talk, some quick discussion and Max gets to prove his value to the dragon, all with the hopes of getting some door prizes.  Consume shows up, proving to the lord of the dungeon that he’s worth betting on and picks up a cool dragon tooth, dragon scale and mark (shhh that's a secret).
+
+Now with that done, they pop off to the tower, and unable to resist the chance, go kill a few of the mobs on the first floor of the tower.
+
+Book 4 - Flip the page - Find out.
+
+Current Stats & Skills:
+
+Max Hoste
+
+18-Year-old Human Male
+
+Level 1
+
+Exp 1/1000
+
+Tower Experience:  .5%
+
+HP:  1630/1630
+
+MP:  1140/1140
+
+Stamina: 815/815
+
+STR:  161
+
+DEX:  157
+
+CON:  163
+
+INT:  114
+
+WIS:  114
+
+Defense of the Dragon  - .5%
+
+Defense of the Demon - .5%
+
+Demon Essence:  - 340
+
+Leather Boots -   1 DEX + 5% Speed Bonus while running
+
+Black Quick Pants -   2 STR/DEX +10% Movement Bonus
+
+Ogre’s Black Tunic -   3 STR/CON/DEX + 10% Magic Resist +10% Attack Damage
+
+Black Bracers -   3 STR/CON +15% Damage decrease slashing/piercing
+
+Belt of the Golem -   4 STR/CON +25% Damage decrease slashing/piercing
+
+Scout Spider Helm -   5 STR/CON/DEX. Invisible State, Grants Minor Poison Resist
+
+Cloak of Spider -   5 Dex. Spider Walk - 5 mins / 24 hour cooldown
+
+Green Ring -    1 DEX
+
+Black Rabbit Ring -   2 DEX
+
+Ring of the Golem Prince -  4 CON +25% magic resist
+
+Black Boss Band -   20% Stat Increase
+
+Skills:
+
+Baking    - Common
+
+Consume    - Epic
+
+Melee Weapon Mastery  - Rare
+
+Shield     - Rare
+
+Berserker    - Uncommon
+
+Elemental Mastery   - Uncommon
+
+Stealth    - Rare
+
+Dual Wield    - Rare
+
+Power Strike  - Uncommon
+
+Backstab  - Uncommon
+
+Evasion  - Uncommon
+
+Archery  - Rare
+
+Haste  - Uncommon
+
+Festering Touch  - Common
+
+Death Magic  - Uncommon
+
+Conceal  - Epic
+
+Regeneration  - Rare
+
+Armored Warrior  - Rare
+
+Intimidation - Rare
+
+Dark Magic  - Rare
+
+Rampage  - Rare
+
+Weakness  - Rare
+
+Demonic Magic  - Rare
+
+Demonic Summoning  - Rare
+
+Demonic Teleportation  - Epic

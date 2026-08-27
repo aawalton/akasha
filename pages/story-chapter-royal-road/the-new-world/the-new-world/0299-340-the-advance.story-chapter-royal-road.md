@@ -1,0 +1,155 @@
+---
+id: 47d7a09c-d16a-5b6b-a623-f31260163500
+page-type-slug: story-chapter-royal-road
+title: "340 The Advance"
+slug: 0299-340-the-advance
+partOf: the-new-world
+position: 299
+ownLength: 3553
+unit: words
+ownProgress: 3553
+publishedAt: 2022-05-19
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/910143/340-the-advance"
+royalRoadId: "910143"
+markedReadAt: "2026-06-29T21:31:27.571Z"
+---
+
+I grimaced at far-off primevals, ready to rip them apart. Event Horizon spread over my allies, and I roared,
+
+"We are legion, we are strong, and we are harbingers to this planet. Tell me, who here is ready for Leviathan's calamity?"
+
+The golems roared. I shouted,
+
+"Let's give this planet its first taste of omen, and let's make the message undeniable."
+
+Chapter Begin
+
+Before we surged into the distance, I gazed in front of me. I'd have to leave ten golems behind, two constructors and eight assault golems. They would protect this city when I left. Aside from them, ten evolved golems gazed forward with unwavering resolve, ready to jump into the fire with me. They formed an elite unit, the best of the best but also showed the limit of my current abilities.
+
+If this plan failed, I'd have to rethink my strategy to settle Leviathan-7. That meant establishing in a less monstrous area. I'd be fighting these primevals the entire time for dungeon hearts while stowing away elsewhere. In the ossuary, it rained bone shards and blue cores, however, and I wanted those resources at my disposal. I also didn't want other rulers getting in my way.
+
+While the ossuary guaranteed hostility, it also ensured secrecy. No ruler would stumble through here and dismantle these cities. They'd never get that far. For my guild to gain this ground, we needed this surge to succeed. That pressure mounted before I spread my arms and covered the golems in Event Horizon. It was now or never.
+
+My armor grinned. Runes charged over my skin. Mana crystallized then disintegrated into plasma. It flowed through my wake as I compressed time over myself. My surroundings dulled and dimmed as if I felt the world through cotton. Arcs of lightning shot across my hands as I shouted,
+
+"Let the legion rise, and the monsters fall."
+
+We dashed through the dense barrier of our first city here. It swirled by us, the constructors running this place letting us by. My three converted star beasts flew in, bolstering our numbers to fourteen total. Composing a more massive number but less fighting strength, the coreless golems fell in line behind us all, and they became a tertiary force.
+
+We shattered the skyline as we left, and I carved the ground with singularities. This path of devastation gave us a way back to the city as we lacked a map. It attracted nearby primevals, my force keeping them behind us. After crossing many miles, the primevals grew in number. For the most part, avoided them.
+
+We couldn't clear out the entire planet of the beasts, so we aimed to create safe pockets instead. Collecting blue cores would come after establishing a few cities. To facilitate that harvest, we moved until the primeval's density reached its apex. With plenty around, we began our offensive.
+
+I landed onto the glistening ground, peering around for primevals. Several fought nearby, so I lifted my hand and throttled their battles with singularities. Each concussive blast shell shocked their bouts before I shouted at them. Once aware of me, the dueling primevals raced towards me in fits of rage.
+
+They dashed and darted around me, each one an elemental storm in their own right. They tore off my limbs and evaporated my skin, but I remained living. Continuing this cycle, I herded a dozen different primevals. I died several times a second, becoming a vaporous being without a body. As the number of primevals grew, they followed me like they were the end of the world.
+
+Where they gathered devolved into a pure, apocalyptic wave of destruction. Elemental forces lashed out in rage and anger. Thunder boomed, and lightning crawled. Heated blasts set the world on fire, and the rays of light melted that fire into goopy plasma. They remade the entire battlefield into a flowing pit of raw energy, their might uncontainable, their wrath uncaged.
+
+Except to me.
+
+As their overwhelming powers left my body in ruin, I charged mana into my dimensional wake. The orbital bombardment wouldn't work since the primevals would simply follow me into the sky. I needed to pin them down first. Doing just that, liquid power solidified into crystals before hissing into plasma.
+
+The primevals gazed at the pooling aura of ascendance, the crimson energy far less tasty than quintessence. Distracted by the luminous ether, I returned to the corporeal, my mind and body whole. Raising my palms, I shot forth a cacophony of dark dollops in all directions. A portion of the landscape converted to energy, becoming fuel for a gravitational fire.
+
+Singularities rained, the dark orbs swallowing bodies and bones whole. Those voided spheres fed on the primevals and imploded after. Hiding in the distance, my core golems resided in the folds of algae, hidden from our enemies. They darted, ducked, and dove around the aftershocks of the gravitational implosions.
+
+Firing upward, I propelled myself over the kelp clouds and into the vast void above as the primeval's recuperated below. My core golems lobbed several attacks before I fired myself down. I thinned into a needle, gravity wells pulling me towards the ground. Right before landing, I flattened myself into a solid cylinder.
+
+The world whitened, the force of the explosion mind-numbing. Nothing of me remained, the opal shards tore into fractured crags, and the power cracked and cleaved into the shining opals below. No primeval died from the onslaught, but deep down, the glowing ossuary roared out with a psionic wave. With the energy melting my arms, I siphoned everything to the center of my impact's blast radius.
+
+My cored golems escaped the radius of the gravity well, and they found behemoths to hide in. They ripped and gouged the monsters apart, concealing within their shells, hides, and scales. Those behemoths crawled to escape, the golems like monstrous parasites. Below the meatshields, I turned to mush as the primevals destroyed my body several times a second.
+
+It wasn't enough. A few seconds passed before the bones below burst forth with splintered trees of opal. The branches impaled me before I flowed around the tiny needles. The primevals stood below as a gamma burst erupted once more. Devastating disintegration. Silencing sound. The colossal consciousness erased the material world over it, starting anew.
+
+It made the destruction of my orbital bombardment look mute and powerless. All near the epicenter of the bright explosion evaporated to bits, then mist, then nothing. I caught as much of the wave as I could with my dimensional shield, and my golems kept their blue cores covered.
+
+In the wake of this monstrous detonation, shiny, blue spheres fell in bunched piles. Ready and waiting, I snatched them up with another gravity well, and I lobbed more singularities at the two remaining star beasts. Like before, I scooped up several dozen blue cores before the star beasts recovered. They glared down at me, their forms radiating out flares and waves of radiation.
+
+And from above, my legion swarmed.
+
+Bursting from the charred remnants of behemoths, my assault golems ripped out of the cooked shells they hid in. They launched themselves into the fray, sonic booms erupting from their speed. Several collided with a primeval, the star beast rippling around a core golem. My creation shot out spiky tendrils in all directions, lapping up the monster's energy.
+
+The remaining parts of the primeval darted in a spiral above the golem. It charged energy before I blew it up once more with a singularity. Six more assault golems fought over the remains, each of them hounding for the scraps left behind. It put a smile on my face as the primeval scrambled for survival.
+
+Portions of the star monster's body shattered against my golems' enhanced plates. The other star beast tried charging a blast in my direction, but the remaining core golems joined the fray. Each soldier lobbed out a different attack, the skyline near them erupting with color.
+
+A wave of splintering needles shot out of one golem. Another elite condensed the plasma monster with a gravity well. The last core golem spread its arms wide, a wave of frigid energy unleashing at the eldritch's center. Others caught the light from wafting onto the opals below. The combined casts condensed the eldritch's body into a ball, the primeval frozen in place.
+
+I devastated the monster with a singularity before my elites fought over the remaining scraps, eating it alive with teeth of steel and a hunger unending. Despite their ravenous nature and my sharp eyes, a piece of glowing dust landed on the opals. In the distance, the star beast regenerated its shining body instantly.
+
+I took a deep breath, somewhat disappointed. Even if my core golems turned this into a contest for killing, the primevals refused to go down nice and easy. Peering close, I noticed the star beast lost an inkling of size when it reformed, and my opinion changed. This waste of time turned into a notch of progress.
+
+However small, it showed a shift in the otherwise stagnant battlefield. These weren't eternal battles with no victor. These were the slow, inevitable demises of these demigods. While I smiled, the golems fought. They coursed around the piled-up shards, wielding the bones of the behemoths above. My elites landed beside the rejuvenated star eldritch.
+
+They took over a portion of the shining opals below, blocking charged beams with barriers of bone. Whirling light crossed my entire horizon, the single rays splitting against the opal shards. My elites waved their arms behind their blockades, sending steel needles up from below. They melted into molten iron that condensed over the fire monster.
+
+Though a reasonable effort, the steel didn't hold the eldritch, and the primeval returned to a complete form. However, the golem's attacks slowed the star beast down. One of my ascendant primevals charged energy into its arms. Another core golem joined in, and they assaulted the starry mass from all angles. Coordinating with my star monster, my golems leaped away when my converted eldritch leaned in.
+
+The ascendant primeval washed the enemy monster in crimson light, slicing it apart. As the light faded, my golems raced in to devour the remnants. Needing fewer fighters, two core golems flew towards the kelp above, destroying the eldritch-producing material. The two constructor golems below already molded the opal surface where the gamma burst exploded.
+
+They created a twenty-foot-deep, circular indentation for the city, and I marveled at their efficiency. The constructor elites erected bone columns for reinforcement, filled in the hollow structures, and protected the material as fast as my eye could follow. The war golems improved by orders of magnitude as well, six or seven of those golems rivaling my physical might.
+
+They lacked my skill or ingenuity, but they still acted as the raw muscle needed to dismantle this area's dangers. It put a smile on my face, the eight elites I left behind at our old city being more than enough to protect it. Appreciating the progress, I stared at a palm, taking a breath. This would work.
+
+We were winning.
+
+Supporting my soldiers, I lobbed out well-timed singularities at the primevals. The disruption mounted further as I moved close, firing out with psionic bullets at the enemies. These were psionically charged balls that flowed into the minds of the eldritch. From within, they poisoned the monsters, and that weakened the enemy.
+
+We continued blitzing, whittling the two primevals down over the next few hours. I let the battle drag on because these golems learned more about fighting. By the end of the bout, I left the cored golems and helped the constructor golems build our second city. At the moment, the perimeter wasn't set, so this place required constant maintenance.
+
+The aftermath of the fighting left scars scattered over the city's surface. However, the constructors repaired the damage as it was done. I spent the next hour building up the central monolith, charging runes over it with my grimoire, and setting up a barrier. As mountain cleaving strikes and river writhing shockwaves unleashed in the distance, I finished the city's pillar.
+
+Slotting ten blue cores into the monolith, I siphoned mana into them. They indulged, filling the cipheric markings with ease. In minutes, the field flashed online, and an ethereal web spiraled above, the barrier a feast for the eyes. It guaranteed the city's perimeter. I installed the telepathic points across the city's boundary, and the constructors used it to wield the forcefield over us.
+
+Protecting the haven of humanity, the constructors directed the writhing barrier against the primevals. Anytime one of the star monsters came close, my elites plumed the border out to them. Upon contact, defensive energy burst, and the enemies exploded into a fine mist. In fact, the two constructors did the job of all nineteen constructor cores I made for the city prior.
+
+We didn't need many of the cored constructors to run this place. Keeping that in mind, I generated the storm runes for two blue cores. They fit into extra slots in the monolith, and the psionic network encompassed the city. The golems synced together, and I helped command them. The assault soldiers killed the two remaining primevals, and after getting a good-sized zone set up, I terraformed the place.
+
+Sigils slotted onto the monolith, and from their powering, the toxic air changed into oxygen and nitrogen. The sweltering heat reduced to a pleasant, roomy temperature. The booming impacts muffled into slight echoes, and the radiation caught on the barrier above. Lastly, gravity lessened and stabilized, the body pulping fluxes in gravitation ceasing.
+
+I rested against the pillar, taking a breath of relief as attacks from behemoths bounced off our city's outer shell. Each time a colossal eldritch landed on the shield, they zapped into bone shards, their rainbow bones tumbling down the side of the sphere. The clinking chips created a pile on the city's outskirts, erecting a natural wall over time.
+
+While connected with the colossal consciousness below, those shining bones pleased it. It counteracted the intrusion of our city, letting the giant rest on its laurels. I couldn't even imagine how much longer that would last, but I had no means of fighting such an overwhelming foe at the moment.
+
+It rested here millennia, perhaps even millions of years. Its life cycle gave us time to work with here, but I had no idea how long that might last. It also made me wonder what happened to the primeval's blue cores here. They died in their fights, but no corpse lingered here. Learning what happened to those bodies might be an excellent opportunity for me.
+
+And I didn't want that taken from me by the other rulers here. I wouldn't allow it.
+
+Snapping me out of my contemplation, an assault golem flew in from outside, and it landed beside me. It fell into a lunged position, its head lowered. With a hand raised, it offered dozens of blue cores to me. I thanked him and let him join his brethren in the battle around us. Over my raised fingertip, a few cackling blue dungeon cores orbited my hand.
+
+The glistening surfaces put a smile on my weary face. As other rulers established themselves on the safer side of the planet, we established dominance on Leviathan's darkest reaches. The others probably fought amongst themselves to establish control over each other. By comparison, I surrounded myself with a blue core factory and opal bone farm.
+
+By the time I left here, handing over a hundred blue cores to Schema would be nothing, which ensured a high ranking in the lottery. Letting that sink in, I enjoyed the progress. Ah, it was excellent. Standing up, I shook off my contentment and went about establishing myself here. This hellscape would be mine before long.
+
+Three primevals destroyed a patch of kelp in the distance, interrupting my thoughts. I winced at them, hoping they didn't plow into the city. If something like that smashed into the barrier while I wasn't here, the settlement might not survive. Standing back up, I got to work. We waged war for hours, establishing a larger control zone around the immediate city.
+
+In this valley of cleaved bone, we touched the land with civilization. It was this dead zone's first taste of society, and I aimed to make it a long-lasting meal. Having learned from my expansion on Earth, I brainstormed some issues that might crop up here. The first and most obvious culprit was city-to-city travel.
+
+Caravaneers wouldn't function here as travel risked everything, and working roads were a must. Peering at the vast expanse of bones, algae, and monsters, that seemed like a pipe dream. While I stared out, a core golem fought a behemoth just above the ossuary. My core golem dismantled the giant monster, turning it into a pulpy mass of blood and flesh.
+
+Despite the onslaught, the behemoth struggled back with a classic, eldritchian tenacity. It shot out a few swinging slices and beaming blasts. As it did, my assault golem molded the opal bones to protect itself. My eyes widened as I snapped my fingers. That would work.
+
+Instead of making roads on the surface, I'd connect them through tunnels in the bones below. The giant consciousness wouldn't allow a vast sphere, but it would accept a small tunnel without any problems. Moving forward with that idea, I charged all the blue cores to their maximums and installed a few generators. They were simple piles of dimensional fabric.
+
+With a constructor golem's help, we spiffed up the place, so it didn't look horrific to look at. Once spiffed up, I spent the many hours necessary for this city's defense. I made twenty more assault golems, but I adjusted their aptitude. Instead of waging war, these golems preferred acting as guardsmen and maintenance workers.
+
+I left eight of them behind to keep this city defended. They'd work with the constructors and the whirling shield to keep this place safe. With the assault golems, guardsmen, and the converted star beasts, I walked to our city's perimeter. Up against the wall surrounding the city, I bent the bones while walking forward.
+
+While walking, I tore off my arms over and over. The falling stream of limbs melted on the ground before smoothing out into a circular tunnel with a flat floor. At the same time, I etched runes onto the tunnel's surface, these runes mirroring the pillars of the city. We continued this process, following the line of singularity craters I left above.
+
+At one third the distance to our other town, I set down a blue core and guard golem. They linked telepathically to the city behind us, extending the network further. I added two more guardposts for the entire tunnel, ensuring they put the appropriate mental pressure on the surrounding rainbow bones to keep it in place.
+
+If they put too little psionic tension, then the tunnels would collapse. If they applied too much, then the bones would gamma burst this place into oblivion. Finding that happy medium, we reached the other city I crafted. The constructor golems kept the up and running, as did the assault golems who fought outside. I called the eight assault golems to join me, leaving eight guardsmen to replace them.
+
+As the golems funneled in, I took a moment to inspect the place. The constructor golems expanded the buildings up when we left. Content with the progress, I paced out with my group of golems before telepathically connecting the two cities. The constructors spoke with one another, which revolutionized the utility of these settlements.
+
+Before connecting them, these colonies were tiny bubbles crisscrossing the surface of Leviathan-7. Once connected, the towns acted as a united front where core golems could rush over to help any city struggling nearby. In minutes, extra guardsmen from surrounding cities would pour in to stop an attack, making each city many times more potent.
+
+This security disarmed the chaotic nature of Leviathan-7 in many ways. Even if a group of primevals attacked a city, these connection points ensured our survival. The more we expanded, the more remarkable that defense became. Before feeling too satisfied with myself, I shifted to a primordial aura. Always the cynic, the wave of cold calculation rushed over me, and with it came many issues regarding the road system.
+
+How would the golems communicate? Hundreds of golems talking would create all kinds of chaos, and that wouldn't do. Would supply lines be safe? A group of primevals could crush a road system, killing people and destroying resources. I also wanted to get a grip on what the rulers did elsewhere in this world. They might give me a chance for further gain.
+
+Those questions and a dozen others piled on in tandem, and as always, I rushed to fix them. As primordial mana oozed over me, droplets of the mana funneled upward. They rained into a surging, semitranslucent ooze of navy blue. It piled up at the end of navy blue fire that burned on my skin. I clapped my hands together, the mana coursing into my body until I almost burst.
+
+Clarity infused into my mind, and I smiled at all that was to be done. It was time to get to work.

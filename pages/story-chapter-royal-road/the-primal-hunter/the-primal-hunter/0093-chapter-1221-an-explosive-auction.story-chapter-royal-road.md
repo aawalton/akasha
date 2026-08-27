@@ -1,0 +1,201 @@
+---
+id: 107bc838-cdc7-56d9-ad7c-be809bf69ecf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1221 - An Explosive Auction"
+slug: 0093-chapter-1221-an-explosive-auction
+partOf: the-primal-hunter
+position: 93
+ownLength: 3107
+unit: words
+ownProgress: 3107
+publishedAt: 2025-12-16
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2853356/chapter-1221-an-explosive-auction"
+royalRoadId: "2853356"
+markedReadAt: "2026-06-29T19:32:12.698Z"
+---
+
+Jake watched as the Malefic Viper kept observing the auction house from afar while slowly sipping on his drink. He was seemingly waiting for something... or perhaps someone.
+
+As he was sitting there, a female beastkin approached him with a smile on her face. “Sorry I was late; you know how my old man can be.”
+
+“Hey, it’s your work and a priority in your life, who would I be to judge something like that?” the Viper answered in a kind tone as he stood up to greet her.
+
+What happened next nearly sent Jake reeling as the woman closed him and embraced the Viper. He returned her hug as their lips touched for a brief moment before quickly disengaging from their public display of affection.
+
+“I’ve missed you,” she said, holding his hand as she sat down. “How did your mission go? Did you find it?”
+
+“Still looking,” the Viper shook his head. “We’ve found some evidence that the facility had once been on a few planets, but they somehow keep moving it around. We theorize that some kind of high-level space magic is at work, but it’s too early to tell for sure. It may also just be a really talented team at assembling and disassembling.”
+
+The last part was clearly a joke as the woman laughed. “In either case, I hope you find it soon. The City Lord trusts your organization’s expertise.”
+
+“And I do not take such trust for granted,” the Viper responded. “But enough about me, how about you? Are all your preparations coming along well?”
+
+“According to my father, we’re way behind schedule,” the beastkin woman answered in a deadpan tone.
+
+“So things are coming along?” the Viper chuckled.
+
+“Yep,” she also smiled. “Okay, there have been some problems with the hired security. You know how those formation masters are, needing everything to be just perfect. The other security personnel are also a bit of a hassle to deal with, but their leader keeps them on short leashes so they don’t cause too many problems before the big auction.”
+
+“I did hear a lot more security was hired this time around,” the Viper slowly nodded as he suddenly seemed curious. “Hey... off the record, are the rumors true about what will be auctioned off this time?”
+
+The woman seemed apprehensive for a moment before leaning in. “Yeah... no idea why the seller is even willing to part with it, but it’s the real thing. My mom confirmed it personally, so no doubt about it.”
+
+“Hm... alright, that definitely explains why there are so many people coming these days and why the City Lord got stricter with the rules,” Villy nodded. “Anyway, not that it concerns me too much, not like I have anything to do with the auction.”
+
+“Actually... there will be a social gathering before the actual auction, and I was wondering if you’d be willing to accompany me?” the beastkin woman asked with hope in her voice.
+
+The Viper hesitated for a moment. “Would that be alright?”
+
+“Definitely,” the woman said with a bright smile. “Dad also said it’s okay, and seeing as he’s the one hosting it, you’re golden.”
+
+“In that case, wouldn’t it be rude of me to reject?” Villy said, still seeming a bit unsure even though he agreed.
+
+“Great!” the woman said, squeezing his hand. “And afterwards...”
+
+The Viper just gave her a knowing smile, but before anything more could happen, a waiter arrived to take the woman’s order.
+
+At that moment, the vision began to speed up as the ordering and following conversation was skipped through, time returning to normal as the woman got up to leave once more.
+
+“Remember, don’t be late!” she said, before leaning in and giving him a quick peck.
+
+“I wouldn’t dream of it,” the Viper responded in the same soft tone he’d used throughout the vision so far. He watched her walk away, and as he did, the oddly comforting smile slowly warped into the kind of smile Jake was far more used to seeing on the Viper’s lips.
+
+Once more, the vision began skipping forward. This fast-forward gave Jake some time to properly collect his thoughts as he seriously needed a moment to understand the scene that had just played out.
+
+Clearly, the Viper was in some kind of romantic relationship with the woman, and at the same time, he was doing some kind of work for the City Lord. From what the woman said, it also seemed that her family was involved in running the auction house, an auction to which the Viper had just been invited.
+
+Jake knew the Malefic Viper well enough to understand this entire situation was fishy as fuck and likely due to the snake god’s machinations. Based on how he’d looked at the auction house, the place clearly interested him, yet he had acted apprehensive when the woman invited him...
+
+Before Jake had time to think much more, he had been skipped forward to the auction. During the fast-forward, all Jake had seen was once more the Viper just walking all around the absolutely massive city, touching random places and leaving a bit of mana behind.
+
+At the auction, Jake inhabited the Viper, who stood beside the beastkin woman in a large gala room. She was wearing an elaborate dress, while the Viper had on a rather spiffy suit.
+
+The two were standing together as a large beastkin man wearing a very fancy-looking suit approached them, causing the woman to light up.
+
+“Dad! I thought we’d missed you!” she said with a bright smile.
+
+“We had a lot of last-minute preparation,” the beastkin man said to his daughter before turning toward the Viper. “And finally, we get to meet. I’ve heard much about you from the City Lord, and it’s a shame we haven’t been able to encounter one another despite you dating my daughter.”
+
+His tone was an odd mix of politeness and harshness that the Viper definitely didn’t take to heart based on his response.
+
+“It’s truly a pleasure, and I also find it regretful our schedules never aligned before today, but as they say, better late than never,” the would-be snake god chuckled before quickly changing the topic. “I must say, the venue is absolutely stunning. From what I briefly saw of the auction hall before, that too looked perfect.”
+
+“Bah, save your empty flattery,” the beastkin man waved him off, though it was clear he appreciated what the Viper said.
+
+“I’m genuine,” the Viper said in the same soft tone Jake just couldn’t get used to. “It’s all beautiful, and as you can see, my ability to judge beauty is truly second-to-none.”
+
+He said the last part while leaning slightly towards the beastkin woman, who blushed a little at the compliment.
+
+“You've got quite the silver tongue, don’t you?” the beastkin man said, his demeanor a lot mellower and friendlier compared to before.
+
+“I’m just an honest man,” the Viper smiled before seemingly suddenly having a thought. “Say, I had the impression the City Lord would also attend today, but I haven’t seen him? I’d really hoped to catch him as I have something important I would prefer to give him in person.”
+
+“He will only be there for the auction itself,” the beastkin man said, shaking his head.
+
+“I see,” the Viper let out a loud sigh.
+
+“Why the long face?” the beastkin running the auction said as he crossed his arms. “Just attend it yourself.”
+
+“I don’t have that kind of money,” the Viper said, his hands raised in defense of his own poverty.
+
+“No one told you to buy anything, but giving an extra number out shouldn’t be a problem, and besides, having more people there makes for more competitive betting even if you don’t bet yourself,” the man said, inviting the Viper into the auction hall itself.
+
+“I would be remiss to miss being there,” the Viper relented. “I guess the real bidders will be the A-grades today, right?”
+
+For the first time, Jake had confirmed that there were A-grades present, which only made Jake wonder how strong the Viper was even more than before. Jake did find it a bit off that he hadn’t been able to feel the Viper’s grade despite the minor displays of magic, but he wasn’t going to question it too much as he just enjoyed being along for the ride while looking forward to when the real juicy stuff began.
+
+Luckily, he wouldn’t have to wait for long.
+
+“They are indeed,” the male beastkin confirmed. “So better be on your best behavior. I know you’re friendly with the City Lord, but that won’t be enough if they make an unfortunate enemy. You might be a peak B-grade, but the gulf between grades is truly enormous and not one any of us can expect to pass.”
+
+“I’m fully aware,” the Viper nodded solemnly. “Yet I still hold hope in my heart to one day evolve...”
+
+“From what I understand, you’ve been peak B-grade for a few centuries already, correct?” the male beastkin asked with a raised eyebrow. At the Viper’s confirmation, he continued. “I guess that still makes you young, so I’m not going to say it’s hopeless, but it definitely won’t be easy.”
+
+The Viper kept nodding as the male beastkin sighed. “Look, I can put in a good word with the rest of the Golden Road Emporium, and if you do us some favors, perhaps someone can find a good teacher or something.”
+
+“That would be much appreciated,” the Viper said, his face lighting up with the suggestion.
+
+“You’d better appreciate it,” the man huffed as he looked at his daughter. “But if you want to pay me back...”
+
+“I understand,” the Malefic Viper nodded in understanding. The female beastkin in question clearly also noticed as she took his arm and leaned into him. Returning the sentiment, the Viper also put his arm around her, an act that made the father look a little miffed, but he didn’t say anything.
+
+“Oh well, I'd better get back to work; we’re not entirely ready yet,” the beastkin sighed.
+
+“I understand, the Viper said as he extended his hand in greeting. “It was truly a pleasure to meet you, sir.”
+
+The father of what appeared to be the Viper’s girlfriend took and Viper’s hand and shook it, nodding in approval... not noticing the faint traces of poison the would-be snake god released into him upon contact.
+
+A few minutes later, someone delivered a plaque to the Viper that would allow him entry to the auction.
+
+After retrieving this plaque, time sped up yet again. The next time things returned to normal, they found themselves in a huge auction hall with several large booths, each filled with people wearing elaborate clothing. Below was a stage with the male beastkin from before, standing there looking his best, as a pedestal was placed right in the center of the stage.
+
+Several of the people in the room didn’t even try to hide their auras as they blatantly flared their power as A-grades.
+
+Items were being displayed there, and during the fast-forward, Jake had seen several items being auctioned off. There were a few weapons, a set of armor, what looked like a meteorite, and several other things that were probably valuable, but Jake had no way of knowing. Not that it mattered, as evidently only the next item was of any true value.
+
+The hall had gone silent as the auctioneer introduced it.
+
+“And now for the thing I’m sure you’ve all been waiting for. As I’m sure you all remember, there was a recent system event for A-grades only, during which certain rewards were given. It can only be assumed that most of these rewards are long gone or currently being used by those who received them... but one person decided that money was more important than this potentially priceless treasure.”
+
+Faint murmurs were heard throughout the room as everyone showed intense interest in the item about to be unveiled.
+
+“Rather than give you a lengthy explanation, trying to sell you this once-in-a-lifetime opportunity... how about I just let you all lay eyes on it directly? Now feast your eyes upon the Eye of the Magus!”
+
+The pedestal in the center of the stage had its middle lowered into the floor, but was now being raised again, this time with an item sitting on top of it. Jake watched on with interest as the so-called Eye of the Magus was revealed, and... alright, it actually looked fucking disgusting.
+
+What was revealed was a severed hand seemingly fused into a piece of rock. This hand was somehow alive, clenching a large eyeball that barely fit in its grasp, with the eye also alive as it darted around, seemingly not looking at anything in particular.
+
+However, despite looking gross, Jake knew this thing was the real deal. It exuded a powerful magic and something more that Jake was particularly sensitive to at the moment.
+
+Concepts... It’s like a wellspring of concepts.
+
+In many ways, the item called the Eye of the Magus reminded Jake of what was beyond the gate. Naturally, the Eye of the Magus was infinitely less potent, but likely also far easier to digest. Moreover, it seemed to primarily hold magic-related concepts, hence the name. Jake’s thoughts were also confirmed shortly as the auctioneer spoke after having given everyone time to marvel at the item.
+
+“Truly a wonder only the glorious system could conjure! A treasure to all mages or just those interested in magic! However, I must warn you that, from all our tests, it would be inadvisable for anyone below A-grade to even attempt to gain benefits from the Eye of the Magus,” the beastkin man began.
+
+“However, to the one who does successfully absorb it, be ready to see your magical prowess expanded to all new levels! Comprehend the true nature of the world with the perfected assistance of the system itself, gaining insights that are truly priceless... though of course today, we are going to put a price on it.”
+
+The hall was abuzz with excitement as the auctioneer took a deep breath. “Bidding starts at fifty million Credits!”
+
+That last sentence really threw Jake for a loop. Fifty million? That was nothing! Jake had billions of Credits as a damn E-grade, and sure, Jake was probably the most filthy-rich E-grade around, but still. Jake’s only conclusion was that inflation had truly gone crazy over the many eras.
+
+“Fifty million!”
+
+“Sixty!”
+
+“Seventy!”
+
+“One hundred!”
+
+The bidding for the Eye of the Magus instantly picked up speed as nearly all the A-grades in the auction hall wanted it. Again, Jake understood why, especially for those who were around back then. Records were a lot harder to come by, and there were fewer opportunities for growth. They didn’t have stuff like Nevermore or other World Wonders; there wasn’t an expansive teleportation system across universes that allowed one to travel freely and seek out anywhere one wanted for inspiration.
+
+Even now, this Eye of the Magus would be viewed as an item of extreme value. Jake understood why all these people wanted it... but also knew that none of the current bidders would be the ones walking away with it in the end, because Jake was inhabiting the being that would surely obtain the Eye of the Magus.
+
+So far, the Malefic Viper had just quietly observed the situation and allowed the bidding to continue. The price just kept going up, and as the excitement was getting to a high level... the Viper made his move.
+
+It was subtle, but Jake clearly felt the faint usage of magic from the would-be Primordial. He activated Touch of the Malefic Viper, and as he did so, the room erupted in chaos mere moments after.
+
+Throughout, several of the B-grades present suddenly seemed to fall incredibly ill, with many falling over and throwing up blood. They were mainly the weaker family members of the powerhouses, instantly catching their attention.
+
+The bidding stopped, but before the auctioneer could say anything, his eyes also opened wide as blood began running from his eyes, and he also threw up blood.
+
+Besides the Viper, the beastkin woman looked panicked as she practically flew out of the booth down towards the stage. “Dad!”
+
+The security was on the move instantly, but nobody stopped her, knowing who she was... which also allowed the Viper to subtly follow her onto the stage.
+
+All around the large auction hall, the auras of powerful A-grades erupted, some of them already in mid-tier A-grade from the looks of it. The security also quickly moved to lock everything down and ensure there wasn’t too much panic. There were also several healers present who immediately began working, with everyone trying to locate the source of the attack.
+
+“Dad... Dad, what happened?” the beastkin woman asked with concern as she kneeled down beside her father. The Viper also moved closer, a face full of concern. A perimeter of guards surrounded them, leaving only the Viper, his assumed girlfriend, and the auctioneer within. Alongside the Eye of the Magus, of course.
+
+“Sir, here,” the Viper said, hurriedly reaching into his spatial storage and taking out a red potion.
+
+The man looked at it with surprise for a moment before quickly accepting it. At the same time, the Viper also took out two other bottles, handing one to the woman. “Here, drink; it’s a resistance flask.”
+
+As he said this, he downed a flask identical to the one he gave the woman, making her follow along. After she had consumed the bottle... the Viper’s demeanor changed.
+
+“My love,” he said, leaning in close as he placed a hand on her cheek. She looked at him, confused as he spoke again. “You’ve fulfilled your role perfectly, and now it’s time for your final act.”
+
+Before she had time to understand what he was getting at, the Viper’s hand started glowing. Her face began to swell instantly, along with the rest of her body. The only thing she had time to do was look at the Viper with eyes full of confusion and sadness as he blew up like a balloon within less than a second before bursting open.
+
+A massive explosion of poison gas consumed the entire chamber, and a second later, the auctioneer also exploded, suffering a similar fate. Elsewhere throughout the city, thousands of magic traces left by the Viper also activated, exploding as corrosive gas was released throughout, taking not just the auction hall by surprise as the entire city was seemingly attacked at once.

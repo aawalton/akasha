@@ -1,0 +1,509 @@
+---
+id: c65f699f-1fa5-53da-b59f-00681d737012
+page-type-slug: story-chapter-royal-road
+title: "Chapter 132: Tide"
+slug: 0052-chapter-132-tide
+partOf: the-calamitous-bob-stubbed
+position: 52
+ownLength: 5480
+unit: words
+ownProgress: 5480
+publishedAt: 2023-08-25
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1321526/chapter-132-tide"
+royalRoadId: "1321526"
+markedReadAt: "2026-06-29T21:16:32.433Z"
+---
+
+It was all wrong.
+
+Tuk’s old man had told him: “Son, the war is like a tide”. He had said so while mending their nets on the coast of lake Kital, by the shore, where beasts made truce with man for the duration of a drink. His weathered hands worked deftly, calmly, with confidence. Tuk’s old man had survived two wars and brought Tuk’s mother as captive the second time so he wasn’t spewing fish gut. He’d said that the tribes crashed against the rock of Baran and fought. If there were enough tribes or if the Baranese hadn’t received help in time, Haluria would win hard. The waves spread to bite at the belly of the westerners. The warlords would bring treasure and slaves aplenty. Food. Clothes, arms and armor. Then, inevitably, the tide would follow the crevices of the earth to find the farther fruits. It dissolved. The westerners regrouped and received reinforcements while the warlords bickered over the best prizes. The wave retreated.
+
+Sometimes, the Baranese got the better hand but the Halurian numbers were so high that the line would crack somewhere, inevitably. Fewer prizes would be obtained. The warlords united more, however, and the war devolved into bloody battles with more than enough corpses.
+
+Those who overstayed their welcome were always caught and slaughtered. The sweet spot was in the middle when the two masses split after the initial shocks. That was when the getting was good and even slingers could get something, even being at the bottom of a very tall shit heap. Tuk’s old man had said slingers died less and also that a sling could kill a Harren, or chase off some of the jungle’s predators so Tuk was a slinger. A decent one. It was not Tuk who had messed up. It was the war. The tide had not happened. He was beached like a trout and just as fucked.
+
+Beyond the gates of the captured watchtower, the battle was already lost. Didn’t take a clan leader’s genius to see that. The Baranese knights had swept everyone else. Poor fuckers didn’t even get a chance. Even the warborns had been smushed; but that wasn’t how Tuk knew. Tuk knew because half of the Baranese army was celebrating while the rest smashed whatever was left of his side’s regulars. Towards the front, Warlord Varak was locked in a duel with some westerner asshole in red armor so showy it screamed ‘fuck me in particular’ to any desert blade, but, pity there weren’t any. And that was the fucking problem now. And it was Tuk’s problem. Because Tuk was going to die. It was only a matter of time before someone came knocking. He stepped back from the battlement and rushed downward.
+
+The tower was tall and it sat on a small elevation. Murderholes let enough sun in not to miss a step of the long, winding stairs clinging to the walls. He rushed into the cold sun of winter and saw other slingers manning the low crenelations around the inner courtyard. Short wall. Never meant to stop an attack. Place was deserted when they arrived. Now, they should leave as well. Slick and quick. He moved towards Chief Emki.
+
+“Chief, bad news, I—”
+
+“The fuck you where? Baranese are coming!”
+
+“On the tower, chief, you—”
+
+“Shut up and go. Pelt the softlanders. NOW!”
+
+A part of Tuk screamed to tell the chief it was for nothing. Stupid. They had to leave or they would die here. No need to fight to the death. Not trapped just yet. There was a small door at the back, but Tuk was a slinger, the chief was the chief, and his feet were moving before the first of those thoughts could coalesce. It didn’t occur to him to stop the chief until he was halfway up the wall and by then, it was too late. He arrived just in time to see a small, dark star arc down on Lug and with a loud ‘whomp’, his friend’s head was gone.
+
+Tuk froze where he was when more of those damn spells turned the top of the small battlement into a mess of missing chests, severed legs and other body parts. It smelled horrible. There was a hand next to him, cut at the wrist. It was just so… clean. So precise. Like done with the sharpest blade. Here was a Efestar-cursed hand, and there… nothing.
+
+“Tuk, snap out of it!”
+
+A stone came in sharp focus, then the hand, then blood, so much blood. Running slingers. Someone grabbed his shoulder and pushed and down he went, back where he came from.
+
+“Get to the gate!”
+
+And off Tuk was, still running before the sentence was finished despite knowing for absolutely sure it was fucking useless. They had a mage. This was a gate.
+
+“Did someone manage to off the caster?” He asked hopefully.
+
+“No. He got a shield. Can’t get through.”
+
+Tuk watched chief Emki go from pillory to pillory, killing the villagers they’d kept here for pleasure and relief. He walked to the screaming women and struck down one by one so the softlanders would not recover them, as was the way of the desert. Tuk thought he should be here at the front with the others instead.
+
+Tuk placed his hands against the door, ready to offset the blow of the ram. It slowed them down. Didn’t know the point. He ought to fucking run back to the jungle and the lake and the fishes. There were screams on the other side. Softlanders with their weird sing song voices. Womanly, the chief had called them. Sure didn’t look like soft skin and ribbons right now.
+
+“Steady!” a senior said. “Steady!”
+
+But there were no rams. A gash into a starless night opened in front of Tek and it also opened the senior. He fell with a gurgled scream. The gash carved down with a hiss. Strange. Shit like that should be deafening.
+
+An aura hit him like a fist to the jaw. It was cold and reptilian, uncaring. There was no bluster or grand declaration here, no claim to glory like the warlord’s aura had. Just the promise of death, a pointless one. There for a moment, gone the next. Immediately forgotten. He was just meat.
+
+That was it. Weeks of walking, of shitting his bowels out because some of the water had gotten rancid, of not enough food and digging latrines and shooting harriens with his stones just not to fucking starve, just to die here to defend a doomed tower no one gave a shit about? No. No. He’d rather slather his balls with honey and dive them in a pike’s mouth.
+
+Tuk turned and ran.
+
+He ignored the screams of outrage, then of fear, of pain. The doors smashed open. Light dimmed, somehow. He turned and looked. Baranese infantrymen in nice armor with bloodstained spears. A monster.
+
+It was a she. That was just so weird Tuk did a double take. A she, softlander caster, like a faceless but with tits. Just unthinkable. Was Tuk still alive or hallucinating, stung by a puff fish on his pier? He could see her face and the soft, strangely colored hair and she was the only one in the courtyard without emotions on that smooth skin, pretty like a statue. So out of place. There was terror, rage, agony, but only one person was calm. Around that face things were less nice. She wore armored robes coated in something dark and thick, something that coiled and seethed at the edge. Tendrils rose above her head to form horns, and he could spot scales forming and splitting on her bracers, her pauldrons. The tendrils moved and merged and split as he watched. It felt alive. Alive and hateful, so very hateful. A couple of stones pinged on a transparent shield formed like the inside of a hive. A shadowy whip killed another slinger. Then, the she-mage found chief Emki. Her face twisted briefly with anger. She lifted a monstrous hand just as the chief lifted his dripping cleaver. He was dragged through the air.
+
+The she-mage smashed him once against the ground then another time, then again on some spear rack. Finally, she sent him against the wall and what fell on the ground was more mush than man. A few soldiers had formed a line at the entrance of the tower. Tuk ran towards them. There was a woosh, a wave of black fire like the breath of some mythical beast, then they were gone.
+
+Tuk kept running expecting to die. He turned again. There was an old man with a bow aiming towards him among the softlanders. Tuk was dead. He was so very dead. Not even enough time to pray. The codger loosed but that puncture between the shoulders never came. The arrow clattered against the wall, then Tuk was through. He didn’t know how the old man could miss and he no longer cared.
+
+There were shoes with cleanly cut calves standing in orderly rows where the shield wall used to be. Feet positioned properly. Just missing the rest of the person. He found Dala with the other women in the middle where they’d been cooking. The fire was doused. Why douse the fucking fire? Who were they saving the food for? It was so stupid, just something Dala would have done. The old, fat lady who led the kitchen glared at him, her decorated knife over her wrist. Dala also had hers out, hovering over her wrist. She was bleeding a little. The other two girls were on the ground sobbing and watching the expanding pool of their blood.
+
+“Tuk, you good-for-nothing! I should have —”
+
+It was too late for Tuk. He had disobeyed. It was over. He was free and damned and he was scared but he felt so… so liberated when his hook connected to the old bitch’s face. The fat hag smashed against the cauldron, splashing a dying girl with hot soup. She sobbed softly.
+
+“Come with me!” he told Dala. Her knife clattered on the ground. He dragged her by the wrist but the entrance was shut. Soldiers there, approaching slowly. They saw him. He veered right and climbed with Dala, her small calloused hand in his own. He wasn’t sure why he’d picked her. She was small and ugly and she didn’t know how to say no and she would just cry when anyone raised their voice and he should have gone to the back exit instead of going in to save her, that stupid head. He turned and looked in those big brown eyes, surprised and a little dumb. Liquid from unshed tears. Fuck.
+
+Tuk slammed through the door. The city waited before him. The battle was fully over. Whatever resistance there used to be, it was gone now.
+
+There were no ropes here, no way down. He turned and grabbed Dala’s hands.
+
+“Sorry. I don’t know why I did that. Sorry. I wish we could have run.”
+
+“I didn’t want to die with her. Or inside. I didn’t want to die smelling leek with her small eyes on me. So. Thank you.”
+
+They stayed there and watched. It smelled cleaner here. The crisp air clawed at Tuk’s lungs, drying his sweat. He shivered, suddenly cold. Dala pushed herself against him. It was nice.
+
+The soldiers arrived a moment later. They were in no hurry. They formed a small shield wall by the gate, with the old man who had missed Tuk and another officer with a short beard. They didn’t seem sure on what to do.
+
+Tuk felt the she-mage arrive long before he saw her from the gradual aura of cold patience that froze his brain. Something promised violence in a way a knife under the nose didn’t. How many things did one have to kill to get that sort of skill, he wondered? What horror must one commit?
+
+She stepped out and watched them with a raised eyebrow. Her armor still shone from that viscous coating, though he could see now that it was almost like mist in places. She walked to the battlement and peered out. Tuk was frozen. He wasn’t sure what to do. Was she toying with him?
+
+The bearded man swore something in the Baranese voice. The woman turned and the old man slapped the back of his head. Tuk still didn’t dare move.
+
+“Why not die?” she finally asked in broken Halurian.
+
+Her voice lacked the harsh intonations of the noble, and her accent was that of the desert. He’d heard it in the camp. She sounded like a mushroom peasant. That was so weird, so unexpected, Tuk didn’t know what to do. He felt like laughing.
+
+“Why you not die?” the she-mage insisted, a finger pointing at his dagger.
+
+Why not attack her? Why not depart this world with honor? What was honor to a slinger and what difference would it make, Tuk wondered? To use your own blade or let the spears do the rest. They said softlanders did bad things to captives but they said a lot of shit and now he was stuck in a tower with a girl he might love, waiting for the end.
+
+The she-mage wanted an answer.
+
+Tuk grabbed Dala tighter. Had to impress the she-mage.
+
+“Huh. I didn’t wanna.”
+
+Well done Tuk you fucking bard. You great talker.
+
+“You do not want death,” the woman stated.
+
+“Yes.”
+
+“No fight?”
+
+“No.”
+
+“Come with.”
+
+Tuk blinked for a few seconds at the departing, armored back of the she-mage. The soldiers grabbed him and Dala. He didn’t resist. Every breath felt like a strange blessing, so full of smells. He hoped it would last.
+
+***
+
+Viv reclined in her seat, relaxing for the first time in two weeks. She was just missing a bath. And a mojito. Sidjin massaging her soles.
+
+A knight in bling armor walked past the waiting room. He greeted her with a nod, which Viv returned while noting it was not exactly Baranese etiquette. The members of the White Orchard were still not sure what her status was and, to be honest, neither was Viv.
+
+The room was deserted again. To be honest, it wasn’t much of a room. Spartan only began to describe it. The chairs were wood, unadorned. No pillows. The walls were also void of any decoration. Nobody had even put a vase with some faded flowers in a token effort to make it look nice. The border fortress was purely functional and designed for quick evacuation, which made sense but would it kill them to add a painting?
+
+Viv shifted in her seat. She had already been waiting for close to an hour and practiced fine spell tuning behind her back for most of the duration. She didn’t mind Jaratalassi’s lack of punctuality. A lot more important people wanted a piece of the man of the hour. A convoy of richly dressed men and women had trailed in and out until the room was finally empty.
+
+His majordomo came in.
+
+“Milady, the general will see you now.”
+
+Viv walked through unadorned (of course) corridors.
+
+“Is this place always so gloomy?” Viv asked the majordomo, a tall black man she suspected might double as a bodyguard.
+
+“The general has taken the initiative to bring proper tea on every trip, because he has been disappointed so many times. He would bring carpets but as a general, he has to set an example.”
+
+“What about booze?”
+
+“I will not confirm or deny any information about the general’s cellar.”
+
+They found Jaratalassi in a small office with the same bare furniture as everywhere else. The man’s uniform was a pristine white but he had deep pockets under his eyes and a few more gray hairs in his beard. He watched Viv get in, then blinked owlishly.
+
+“Viviane? What are you doing here?”
+
+Viv felt paranoia claw at her chest with cold fingers. She readied a shield and looked around.
+
+“You called me here?”
+
+“Oh, yes I did.”
+
+False alarm, though the majordomo looked at her curiously.
+
+“Sorry,” the general said. “It has been a very long week.”
+
+“And you have yet to celebrate,” Viv reminded him.
+
+Jaratalassi glared. Then he removed two small glasses from a drawer as well as an old bottle with a tattered label, handwritten. Viv had spent enough time drinking homemade hooch in Provence to know this was the good stuff.
+
+“Want some? As an apology for the wait.”
+
+“With pleasure.”
+
+“Kit, do we have any of that jerky left?”
+
+“I’m afraid not sir.”
+
+“Damn shame.”
+
+“I’ll see what I can do.”
+
+The majordomo left the both of them alone. Viv taught him how to clink glass, then they sipped from the bottle. It was floral and powerful with a sweet, persistent aftertaste after the alcohol had scraped every taste bud clean. Viv thought it was nice. She also detected a hint of life mana, which only enhanced the drink.
+
+“I see you’ve proven the worth of your ‘combined arms’ approach to sieges and maneuvering. You have identified its weaknesses well according to what my reports say. I should demote someone for letting a warborn reach you.”
+
+Viv shrugged.
+
+“I wouldn’t have done it if I were not confident in my close quarter potential.”
+
+“Yes. Though I would advise you to get a bodyguard.”
+
+“Oh I have some pretty good ones.”
+
+“Yes, well, in any case I am not confident this is the best use of war mages, however I cannot deny that you saved the lives of many men and so I grant you full grade for your thesis. You proposed a strategy, then went to the battlefield and proved its viability, as is fitting. Well done. Write a paper and you will have graduated.”
+
+“You don’t want to see me work as part of a team?”
+
+Jaratalassi waved her concerns aside.
+
+“You’ve done it during training. And I cannot grade you for logistics since your attunement is ill-suited to it. Actually, I can, because of the portal spell. Full marks.”
+
+The majordomo returned at this moment with grilled skewers. He waved his hand over them, possibly a skill, then gave it to them.
+
+“Poison free,” Jaratalassi explained to a flabbergasted Viv.
+
+“Oh.”
+
+“Always a concern. But I digress. You pass, that is all.”
+
+He sighed.
+
+“Is something wrong? I have never seen a sadder victor,” Viv said.
+
+“Yes the White Orchard knights said the same thing, but they miss the point.”
+
+“Alright, what is the point then?”
+
+Jaratalassi stared and Viv got the feeling he was calculating if the rant was worth the energy expenditure.
+
+“Where are the rest of them?” He finally said, pointing at a wall where a map of the border was pinned.
+
+“You mean the rest of the Halurian invasion?”
+
+“Yes! Yes, dammit. We are celebrating as if the danger was gone but we have only faced the forces of a single warlord, a fraction of what we would usually fight off. Where are the rest of them? All border fortresses report no contact. No scouts have detected anything more than piddling raider bands. Where’s the meat, the faceless mages, the desert bone bowmen? The capital warborns? Where have they gone?”
+
+“Any contact north or south?”
+
+“Nothing north, but those are crags and mountains, and you would lose half your army to monsters trying to cross that hellhole. As for the south, it’s tundras and the deep forests of the wild folk but we would know if something was off. There are still merchants and coastal cities there. They have to be somewhere.”
+
+“I never asked in class because I didn’t expect a straight answer, but don’t you have a spy network?”
+
+“Spies!” the general bellowed, arms raised. He refilled his cup before speaking again.
+
+“Spies in Haluria. Hah, you do not get it. You think there are peddlers and travelers and normal trade there. There is not. Think families, only larger. There are no strangers admitted unless they are vouched for and here for a purpose. Everyone knows everyone and if no one knows you, you are dead. That is the reality in Haluria. We cannot place spies because we cannot even establish contact to turn someone. The only snippets we get are from rare prisoners and when their leaders betray each other. Even then, it only goes in one direction.”
+
+“But there is a diaspora, a recent one. Surely, they know someone you could convince.”
+
+“You might be onto something,” Jaratalassi admitted, “yet even then Halurian society would be difficult to penetrate, not to mention each warlord would require their own spy network. Do not count on me to organize such a thing. My time is better spent juggling the various knight’s giant egos and I assure you, it takes more dedication than it should. If only I could work with the Entikku girls…”
+
+“That order of female soldiers?”
+
+“Yes. Disciplined. Celibate, sadly.”
+
+He took another sip.
+
+“They’re on the Glastian wall. A pity that. Anyway, I believe I am due some shut eye. You should rest as well. Sardanal knows when the next catastrophe will occur.”
+
+He yawned.
+
+“Off you go, strange witch. See you again on the battlefield, hopefully on the same side.”
+
+***
+
+It took a day for Viv to get supplies and a way home with a caravan of wounded soldiers. She said goodbye to a proud Cernit and his men, and paid a visit to the camp of the Order of the White Orchard. The knights were having some sort of political games based around having the biggest tent and inviting people in for wine and sweetmeats. It felt like a more elaborate version of a high school clique dynamics. Fortunately, the victuals made up for it.
+
+Nobody tried to bed or even flirt with Viv, something that would have happened in another place with lots of hot-blooded young warriors and a dearth of ladies. A lazy analysis revealed that a couple of senior knights from different factions prevented their juniors from trying it. That was fine since some of them didn’t look a day over eighteen, but she still wondered if it was a mark of protective respect or if she was ‘radioactive’. It was possible the Enorians didn’t like her much, even the rebels. It wouldn’t surprise her if the Baranese preferred to wait until she survived a bit longer before making ties, if not their leaders then at least his subordinates.
+
+Or maybe they just didn’t like her.
+
+Viv realized she should try to talk to Sangor, establish a good relationship with her neighbor. She’d postponed that for too long because important matters had required her attention, yet she had to resign herself to the obvious. Harrak needed diplomacy. One that Solfis would have as little to do with as possible.
+
+Finally, she was ready. As they departed, she considered her progress.
+
+Arcane Constructs: Intermediate 4
+
+That was a nice bonus considering she had not been truly enchanting, but rather using forged signs in new and creative ways. The largest bonus was shield mastery, however.
+
+Beginner 2 to 6
+
+That was a massive improvement not born just from her use of shields in combat but also from their power and adaptability. With aegis as a base, she could change the nature of the shield to better answer the threats she was facing. This didn’t just extend to her magical shield but to the way she held her physical one as well, though it felt a little redundant. Viv wondered if she could anchor a shield on, well, her real shield, and strengthen them somehow. She would have the experiment later. In any case, her defenses were now extremely powerful, well in line with her very important project of not dying.
+
+Finesse: 24
+
+That was a pleasant surprise, though not necessarily that helpful. Viv depended on her mental statistics for reacting to danger by casting defensive. A higher finesse would open options to dodge more effectively since shadow transportation had conditions and took some time to activate. It would also help with her perception to some extent. Not exactly the most useful advantage but it was always good to have.
+
+All in all it had been a good haul. There was only one important matter to attend to before she could get back to the Academy and attend to her unfinished business there.
+
+***
+
+They had first met in an empty cave with still water and a dead world beyond. Now, their last meeting for a while would happen in a meadow by the sea. The sky was just as gray but it was snow, not death. The air smelled crisp like a winter morning with a hint of iodine, far away from the bustle and refuse of humanity. Sleepy trees waited in silence for the return of spring. It was secluded and peaceful.
+
+Arthur barely had to stand to wrap her arms around Viv, her heavy serpentine head resting on the witch’s hair. Arthur smelled of mana and she was very, very hot. Her scales were smooth. Viv hugged her back.
+
+After a while, they parted.
+
+Arthur was taller and much stronger than Viv now, she who had once fit in her arms. Was this how it felt to have a teenage kid? To have who once depended on her be her own person, with her own plans and projects, with her own ability to affect the world? It tore at Viv’s heart but at the same time, she felt proud. It was just a shame it had taken so little time…
+
+Mother, I must go.
+
+I must fly and see.
+
+I want to meet others like me.
+
+“I know. Judgement said you would outgrow me. I just didn’t think it would be so soon.”
+
+Not outgrow.
+
+Become my own.
+
+I waited so long in that cave.
+
+Now I am free.
+
+You saved me, mother.
+
+“I think we saved each other.”
+
+Of course, after.
+
+I am mighty dragon.
+
+“When you meet the others, don’t fight them, please?”
+
+Of course I fight them.
+
+Arthur stood again and spread her wings.
+
+Fight to learn.
+
+“Remember the green one we met in the Deadshield Woods. Large and dangerous? His name was Wind over Spring Meadow or something?”
+
+He is stupid.
+
+Lives in forest like a tree.
+
+Cannot eat fish or get back brushed by wise humans who know what to do.
+
+No pillows.
+
+Complete idiot.
+
+“He’s much bigger.”
+
+Mother fought much bigger foes.
+
+Ate them.
+
+They were delicious.
+
+Also, older dragons do not kill young dragons. I know this.
+
+Sparring is important.
+
+“Okay. I believe you. Just be careful, please?”
+
+Just like mother.
+
+“Consider me officially terrified.”
+
+Carefully do not-careful things.
+
+“I was not the best role model, alright?”
+
+But you were!
+
+Make den.
+
+Acquire servants.
+
+Acquire pillows.
+
+Acquire food.
+
+Acquire gold.
+
+Pour gold down enemy throat!
+
+Very scary.
+
+Mother best model.
+
+“I just want you not to get hurt.”
+
+Life hurts.
+
+“Don’t go philosophical on me now, you know what I mean.”
+
+Arthur rolled her head dramatically.
+
+Yes yes yes.
+
+I am not gone for good.
+
+I return often.
+
+For important scritches.
+
+“Please do. And send me letters if you can.”
+
+Yes.
+
+Paid upon reception.
+
+“You know you can spend some of your own money?”
+
+Can.
+
+Will not.
+
+I go now, find more gold!
+
+“Go then,” Viv said, feeling misty-eyed.
+
+I will return.
+
+When I return can I be treasury minister?
+
+“Who taught you that?”
+
+Solfis said it was called that.
+
+Can spend money.
+
+If not my own!
+
+“You’re ready to be a politician then. Off you go you small rascal, and come back safe.”
+
+You be safe too, become part better.
+
+Then we live forever.
+
+“Good plan.”
+
+Mother.
+
+Try to grow wings.
+
+Is very important.
+
+“Okay.”
+
+More so than scales.
+
+I go now.
+
+Despite Arthur’s words, she still hugged Viv for another minute, then she stepped back. Viv expected the dragon girl to spread her wings, but instead mana shifted and a large portal opened to a rocky landscape blasted by the winds.
+
+This is how I win.
+
+With magic!
+
+Bye bye!
+
+The portal closed as she took off.
+
+“Wait, I never taught her that!”
+
+***
+
+After the separation, only one thing could salvage the day. Viv teleported back to Sidjin’s mansion on the edge of Helock. She moaned her dismay to find no one was around the lab. Surprised, she made her way up the stairs to Sidjin’s study where he would sometimes retire to read between two research sessions. She noted that he purchased some fencing equipment, eager to regain his former shape now that he was feeling much better. To her surprise, she heard voices coming from the closed room. Male voices. They quieted down when she approached. Her presence was known.
+
+Viv knocked on the door rather than turning tail.
+
+“Come in.”
+
+Sidjin’s voice was cold and regal, not a voice she had heard before. The crammed study hosted two men on top of its owner and the mass of books he had managed to accumulate in a short period of time. One of them bore a strange resemblance to her loved one down to the wavy hair and short beard. The other was a northerner with the aura of a mage and heavy armor. He felt out of place in this cozy retreat, though Viv wore her armored robe as well. But Viv was home and he was a stranger. Sidjin was tense though a stranger could not tell with how in control he appeared.
+
+“You allow your whores free reign over your house, brother?” the man said.
+
+And then he recoiled almost instantly, smacked by Sidjin’s rising aura of intimidation.
+
+His skill tasted differently than hers. It spoke of a great harvest, of bones exposed to the sun. It was less who he was and more what he could do, what he had done, and would do again. It felt less personal than Viv’s skill but Sidjin was also more distant when he fought. The mage reacted by standing between the two brothers with his hand clearly on a focus.
+
+“Cast a spell in my house and I will consider this an attack,” Sidjin warned.
+
+“Would it be too much to expect you two to behave?” the northerner mage asked in a calm voice.
+
+Not just a bodyguard then.
+
+“If you insult my paramour in my house again, I will kill you where you stand.”
+
+Viv had let Sidjin defend her because it was him who was really targeted, and also because he was the host. Appearance and honor were important. That didn’t mean she couldn’t add her contribution now that he had made his position clear. Especially because the enemy mage’s jaws were clenched.
+
+Viv deployed her own intimidation, immediately clashing with two auras. Sidjin’s brother tasted like hot sand and a sharp blade while the mage was final heat. Hers was younger but no less powerful for it. Her soul spoke to them of wings, scales, the woosh of a breath that could scour the very rock. Cold carnage.
+
+“We’ll send you back to Glastia in picnic baskets,” she helpfully added.
+
+Now the small study was very, very cramped. Viv wasn’t sure what effect she was having on the other two. They sure didn’t react. After a while, the other prince spoke slowly, articulating every syllable.
+
+“I need an answer, brother.”
+
+“I will speak if and when I decide. In the meanwhile, get lost. Now.”
+
+The other prince waited for three seconds just to be a twat, then he made his way out. Viv stepped aside to let him pass. The mage stopped and glared, his eyes reddening.
+
+It was a cheap trick, just channeling mana in the iris. Only fine tuning was required. Viv turned her own iris fully black and shook her head in her best ‘now fucking what’ expression. He left.
+
+Sidjin sat down heavily for a quarter of a second, then he jumped back up and she was in his arms a moment later. His hand patted her back. He smelled of soap and of Sidjin.
+
+“I am sorry you had to see that.”
+
+“Relatives? Will you be fine?”
+
+“I do not want to concern you with my problems.”
+
+Viv broke the hug and stepped back, eyebrows raised and arms crossed.
+
+“It will affect you anyway, will it not?” he asked with a sad smile.
+
+“I mean I just threatened to turn a Glastian prince into a small, easily transportable format so…”
+
+“Right. I was dead until recently, at least officially, so now there is the matter of the heir to the throne and my position in the list. My brother dear would like me to officially renounce my title.”
+
+“Oh, succession wars. How exciting!”
+
+“Duels, actually.”
+
+“Ah, well I have just the guy.”

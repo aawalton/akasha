@@ -1,0 +1,257 @@
+---
+id: bc26a48d-bc12-5f7d-934a-798b30cbcb14
+page-type-slug: story-chapter-royal-road
+title: "6 - Soaring Through The Skies"
+slug: 0006-6-soaring-through-the-skies
+partOf: rise-of-the-dragon-queen-evolutionprogression
+position: 6
+ownLength: 2358
+unit: words
+publishedAt: 2025-09-06
+link: "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2579994/6-soaring-through-the-skies"
+royalRoadId: "2579994"
+---
+
+Stella slept on a bear pelt while clinging to a soggy bag of copper coins. She also had a golden horn stuffed with dragon scales and a translucent healing jelly thing.
+
+Beneath an outstretched wing curled three baby dragons; two were red, and the third blue, like the wing it lay beneath.
+
+Despite the large makeshift shelter above them, Stella was soaked from the morning drizzle. At first, she was sleeping peacefully, mouth open with plenty of drool. That was until her shelter collapsed.
+
+“Ouch!”
+
+Covering her in heavy branches from all sides.
+
+“That's it! I hate the woods!”
+
+She kicked leaves, dirt, and twigs off of her and then moved away towards the fire pit. Her tail twitched angrily as she flapped her wings, pushing away the debris and drying herself in the same instance.
+
+The three dragon pups clung to roots sticking out of the soil as they were nearly blown away. Stella noticed them after folding her wings against her back and apologetically dusted each of them off.
+
+“I'm sorry, I didn't mean to wake you like that. We just need to get a better home.”
+
+Their three cute faces looked at her with clueless expressions.
+
+I should really give these guys names. It's been three days now.
+
+The two red hatchlings would've been identical if it weren't for the difference in eye color. One had blue eyes and the other had green ones. The blue-scaled hatchling had red eyes and sapphire-colored scales that were a shade lighter than Stella's.
+
+“Okay, how about Sapphire… And you two can be… Fire and Smoke.”
+
+She held up the blue-eyed hatchling as if it were a gift from the heavens.
+
+“Y’know why your name is Fire?”
+
+She lowered it to the fire pit and pointed it at the blackened sticks.
+
+“Because you’re the only one who can use your fire! So use it! Use it now because I'm cold!”
+
+Fire didn’t do anything except yawn so big that a tear formed in one of his eyes.
+
+“Okay, guess you can’t do it on command yet. Guess I can always do it.”
+
+Stella set down the hatchling and scooted it and the others to one side. Then she took a deep breath and released a violent inferno into the pit.
+
+The branches were incinerated as a large wall of flame swelled upwards. Stella cried out as it grew abruptly, then fell silent as it died down just as suddenly. The remaining flame was merely a spark dancing on a hill of ash.
+
+“I don't suppose any of you could get some firewood?”
+
+Smoke promptly hopped into the fire pit and climbed the hill of ash, looking quite determined.
+
+“Wow, I didn't know Smoke was so intelligent! Look at him go, isn't he just the cutest!”
+
+He then snuffed the remaining flame by laying on it, seeming very content once he'd done so. Smoke then curled over the heated spot, sneezed out a puff of smoke, and closed his eyes.
+
+Stella felt a headache coming on.
+
+Forget it. It's cold and wet, so it'll take me forever to find good firewood. Also, my [Elemental Breath] has been acting up lately. I don't trust myself to cast it properly.
+
+It had been three days after her most recent evolution. She was now a fledgling, which seemed to entail gaining wings and growing up a bit. She also found her [Elemental Breath] was coming out in larger bursts. The system had informed her that it was due to her evolution.
+
+She’d been practically a toddler before, but her evolutions also increased her growth and overall power. That meant she had to adjust to the increase in power affecting her skills as well as her body.
+
+I'll forget about my breath for now. The bear pelt is cozy and wards off monsters, so I shouldn’t have to worry about fighting. I should try out the fun parts of being a dragon while I adjust.
+
+[I don't recommend that.]
+
+“Be quiet. You know full well I have to learn how to fly. If I don't, then I'll be a useless, flightless dragon girl. Sounds lame, doesn’t it?”
+
+[You have failed many times and injured yourself in the process. This time, you might break something important.]
+
+Well, you can't stop me! Especially now that I know I heal a lot faster than regular humans.
+
+The system fell silent, and Stella headed deeper into the woods, seeking the tallest tree. It was the same search she’d done in days gone past, hoping to find one that would allow her to fly a measurable distance. During her previous attempts, she'd managed to glide, but not far.
+
+Since then, she had done wing exercises daily, which mostly consisted of flapping while running in circles. She hoped her new wing strength and control would allow her to go beyond just gliding.
+
+The forest of her new world was beautiful. The trees were taller than she was used to on Earth and much more vibrant. The air was also extremely clean, and her surroundings were mostly quiet. Not so quiet as to be off-putting, but enough to be relaxing.
+
+Back in my old reality, I would have heard cars or smelled smoke. But here, everything is perfect… Or it would be if it wasn't full of giant, scary monsters. Oh, well.  It’s not like I can’t handle them.
+
+In this world, everything else seemed to grow larger and stronger. And the principle of evolution, of skills, and of magical abilities, applied to every creature. Or at least, as far as Stella could tell.
+
+Even something as helpless-looking as a dragon hatchling grew faster and stronger than Stella could’ve imagined. Her three maybesiblings, Fire, Smoke, and Sapphire, could hunt and survive on their own with much success.
+
+Sure, her presence made things easier. But she had little doubt they'd be fine without her.
+
+In only three days, the hatchlings had become very dear to her. Whether it was messing up her training or dragging large fish into camp, they’d enriched her solitary life.
+
+[What about me?]
+
+You are an annoyance. All you do is complain.
+
+[...]
+
+Stella abruptly ran into a massive tree. After rubbing the soreness from her forehead, she stepped back and was delighted to see that the tree went far above the existing canopy.
+
+“It's huge!”
+
+It was the tallest tree she'd ever come across, but now she would have to climb it. She blinked down at her human hands and then scowled, willing them to change.
+
+She'd been practicing her shapeshifting alongside her wing strength and breath control, but it had taken the lowest priority. It was the hardest ability for her to use or control, but it was by far the most useful.
+
+Maybe I have to harness the mindset of a dragon.
+
+[How will you accomplish that?]
+
+By acting like a dragon.
+
+Stella put her hands to the ground and began to walk around the tree, tail twitching as she tried to maintain her balance and keep from face-planting into the dirt.
+
+She circled the tree a few times before giving up and rubbing the dirt from her palms.
+
+“Well, I've tried everything. I'm going to have to Mulan this situation.”
+
+She lunged upward and tried to wrap her arms and legs around the tree. For a second, she remained latched to it, grunting with effort. Moments later, she slid down until she hit the ground, huffing in defeat.
+
+[Mulan?]
+
+“Yeah, you've never heard of that movie? It's awesome. I'll sing the song to you.”
+
+Stella proceeded to climb the tree while singing. Well, she wanted to climb the tree, but each attempt was a failure.
+
+I just have to make it to that big branch above me, then I can take a break!
+
+Her rising frustration gave way to even more determination. She willed her body to change for the thousandth time, expecting it to fail, only to find that at last it answered her call.
+
+Her hands became claws, and her feet, too. Climbing was easy after that. She scaled the tree to the top and then her body reverted of its own volition.
+
+If I fall, that'll be it for me today. I have to make this count.
+
+Stella took some time to catch her breath and admire the sun as it neared its apex. Above the canopy, every breeze unsteadied her. After firming her grip, she found it was fun to be thrown around by the wind.
+
+When she finally felt rejuvenated, she stood.
+
+Don't look down. Don't look down. Whatever you do, don't look down…
+
+She spread her wings, scowling at the horizon.
+
+I will fly!
+
+A strong gust of wind nearly threw her backward. Stella clung to the top of the tree, waiting for it to pass before shakily getting back into position. She couldn't afford to hesitate any longer.
+
+She jumped.
+
+The wind blew beneath her wings, filling them up and making her soar higher. She nearly panicked, but had to tell herself to remain calm, to move her wings only slightly.
+
+Below, she could see the tops of trees and pockets of fog. She could barely believe it, but she was flying and the wind was only carrying her higher and higher.
+
+It was like a dream.
+
+Can you believe it, Eyeball? I'm really flying!
+
+[I commend your abilities, but your current altitude is dangerous.]
+
+Dangerous?
+
+It was then she began to cough uncontrollably. As the wind pulled her upwards, above the clouds, the air grew thinner until there was nothing left to take in. Through a wave of panic, Stella tried to angle herself downward.
+
+The clouds bent away from her as she plummeted downward, still coughing. She rapidly lost altitude, struggling to collect herself. Tears ran down her cheeks when she at last took a full breath.
+
+After her first few breaths, she was nearing the tree tops. Still coughing and gasping, she tried to control her wings. But panicking and falling fast, it was immensely difficult.
+
+I have to… focus.
+
+A moment of silence gave her the ability to think clearly, at least for a moment.
+
+She clenched her teeth, summoning her [Elemental Breath]. Tendrils of mist escaped her lips, swirling in the air as she took in a long breath. She released it all at once, the force driving her far upward.
+
+She nearly panicked once more as she began to fall, but quickly composed herself.
+
+I can do this! I've been training after all!
+
+She straightened out her wings, and once again she was gliding. But this time, she took control and began to angle herself where she wanted to go. Gradually, she flapped her wings, feeling the air leave and then fill them again.
+
+In the midday sun, her wings were a brilliant diamond color.
+
+The forest is so dense that no one will see me. I feel like I could fly around forever.
+
+…but it's probably time I get down, my wings are getting tired.
+
+It was then that Stella realized she didn't know how to land.
+
+Wait… HOW DO I GET DOWN?!
+
+Stella attempted to land many times, but was eventually forced to crash when she flew into a tree.
+
+“Ouch!”
+
+***
+
+Stella survived her crash landing but had somehow ended up covered in someone else's laundry.
+
+After taking undergarments off her face, she realized she had landed on—and destroyed—someone's campsite.
+
+Wow, this place looks fancy!
+
+There were lanterns and big tents and mugs of coffee. Stella had also landed on what looked to be very classy clothes.
+
+She was happily looking through them when voices caused her to lunge into the nearest tent.
+
+“Jaramiah, when will we be able to leave this—Jaramiah! Look! The camp has been—”
+
+“It's probably just some animal, Elizabeth. Might even be the boar I was looking for.”
+
+I need to get out of here!
+
+“I can't stand this! You and your boar!”
+
+“Elizabeth, you insisted on coming. Now, you might've thought I was cheating, but I really do just hunt. This is my favorite time of year, try not to ruin it.”
+
+Elizabeth proceeded to pout and Jaramiah tried to calm her. Stella took that moment of opportunity and put as many clothes over herself as possible. Then she slowly pushed open the pale flap of the tent and peeked out.
+
+Hm… I don't see anything…
+
+“JERAMIAH! THE THIEF!”
+
+Stella received a frying pan to the back of the head and promptly took off running. Fear leapt in her throat, threatening to come out in a scream as she ran for the trees.
+
+With so many clothes tangling her up, she wasn't hard to catch up to. She gasped as she was tackled and pinned.
+
+“Rotten thief! You're a pervert! How dare you—” Jeramiah cut off when he took in her face.
+
+The man fell silent upon seeing the culprit. Maybe he had assumed she'd be a man that was fond of stealing women's clothing. Whatever he expected, it wasn't a young woman with unnaturally blue hair.
+
+“What… are you?”
+
+In his clear amber eyes, Stella could see her own had turned red. Her face was a snarl, her teeth sharper than she'd remembered them being. In her fear, she had shapeshifted, though only slightly.
+
+She was reacting like a cornered animal, rather than a girl lost in the woods.
+
+I really am a dragon.
+
+The brief shock the man experienced was enough to loosen his grip. Stella took her chance, shoving him away and heading deeper into the forest, winding away from the camp.
+
+When she was certain she wasn't being followed, she sat down and began to take in her surroundings.
+
+I don't know where I am…
+
+She looked down at her hands, wondering if, amongst everything else, they'd turned into claws. They hadn't.
+
+For some reason that she couldn't put her foot on, she felt insecure. It wasn't like she disliked being a fierce otherworldly creature. But she didn't belong with humans anymore. Would they all see her as a monster?
+
+Wait, I smell something.
+
+She tilted her head back and took a deep breath.
+
+It smells like… A boar!

@@ -1,0 +1,147 @@
+---
+id: 8c90aec7-539c-5914-9109-c4d13a3f1da9
+page-type-slug: story-chapter-royal-road
+title: "Chapter ??? Non canon cannon vampire"
+slug: 0124-chapter-non-canon-cannon-vampire
+partOf: the-calamitous-bob-stubbed
+position: 124
+ownLength: 1347
+unit: words
+ownProgress: 1347
+publishedAt: 2025-04-01
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2166297/chapter-non-canon-cannon-vampire"
+royalRoadId: "2166297"
+markedReadAt: "2026-06-29T21:19:04.969Z"
+---
+
+Boring. Boring. It was so boring. The fools who had teleported them may have a solid grasp of space magic but their threat assessment abilities were… lacking. Ariane sniffed the air. Ichor. Meat. Ash. And an undercurrent of excitement that smelled like bloodshot eyes and cheap energy drinks. They wanted a show. Well, the girls were going to give everyone a show. One they wouldn’t regret. She closed her eyes.
+
+They were on a planet, a real one, but the currents of fate were too interwoven to allow for a stable gate going outward. That meant the culprits were closed.
+
+“Wepwawet, do we have access to nuclear weapons?” Ariane asked.
+
+“Technically yes,” the god replied, “but only after a massive kill streak and as a stylish finisher. Viewers don’t like them so much when they’re used mid-game.”
+
+That meant the abductors were not below. They wouldn’t risk it.
+
+Predators never looked up
+
+“Wepwawet, would you say that the goodies we can teleport to us are stored… nearby? Say, from where the show is being ‘broadcasted’?”
+
+“Hmm, I suppose so? Why? Whatever you intend to do, do it quickly. Our viewers are losing interest.”
+
+“Can you purchase and activate a beacon but without sending it to us?”
+
+“I can try.”
+
+There was a bleep, both closer than expected and quite diffuse. A distant cloud shimmered for the briefest of instants. It was a floating base hidden behind some sort of dimensional veil.
+
+“Clever. Everyone, leave the sorry mortals alone. I have found better prey,” Ariane told the others.
+
+From the depth of her Magna Arqa, Ariane pulled a stone dragon the size of an airliner.
+
+“Hey, that’s cheating!” Wepwawet complained.
+
+“All aboard Air Ariane flight to disaster!” Ariane replied.
+
+“Wait… our view count is increasing?”
+
+The dragon was flying forward at great speed less than a second later. Automatic defenses activated near their destination, striating the sky with rays. Ariane cast a shield or dodged the rest, mindful that some of her allies might not survive too much acceleration. She aimed a hand at the camouflaged base.
+
+“Shieldbreaker.”
+
+Her old spell found the veil and peeled it off, revealing the tender hull hidden behind.
+
+“Cat, if you could gently knock?”
+
+“On it,” the gunslinger replied.
+
+A purple rocket roared in front of them. Incandescent debris fell in a shower of heated metal down, forcing insects, sorry, the contestants to run for their lives. Ari frowned when the dragon flew into the… mostly circular blast hole.
+
+“So why does the hole have cat ears?” Julietta asked.
+
+Cat complained about aliens. Ariane could only agree. Aliens were to be eaten, exploded, subjugated, or made into lovers. And also subjugated but a little more gently.
+
+The dragon dropped them into a wide corridor decorated with direction panels and intestines. It felt futuristic but also, somehow, very cheap. Barely functional. Ariane glared at the panels. As an American, she hated the very idea of learning foreign languages before she could have fun.
+
+“Hold on, buying a translation package,” Cat mumbled. “And done. This here says bridge, and this is ‘specimen lab’.”
+
+“I’m interested,” Julietta said, perking up.
+
+“I am formally offering you a job as my planetary secretary,” Ariane offered Cat.
+
+Alas, the brunette refused her. Even after being offered dental and a competitive salary. The audacity! Nevertheless, she and Julietta split off to visit the specimen lab while Ariane made her way to the bridge. A spell tried to grab her. She sliced it off with her claw. Space magic?
+
+“They want to teleport us away. Oh so when you invite us in it’s all fun and games but when we graciously visit your house and sample your delicacies, suddenly it’s not so entertaining anymore? Goodness. No manners.
+
+Grasping claws and clenching jaws,
+
+Jumping craws and closing maws,
+
+Come to play us as a treat.
+
+But now it’s our turn to EAT.
+
+Seal space.”
+
+The base shivered. Lines of light blinked yellow, then red. A sound like a siren blared through the alley.
+
+“I think they might know we’re here,” Elaine commented.
+
+They moved fast, past aliens that looked disturbingly like tall humans with colorful eyes and hair.
+
+“Really? We’re doing aliens as big humans now? Isn’t that super lazy?” Elaine complained.
+
+“Well Ridley Scott did it with ‘Alien Prometheus’ so…”
+
+“If the bar were any lower it would pierce through the planet’s crust. Just warn me if we get bought by Disney.”
+
+They winced in horror. One of the aliens used the distraction to shut a massive vault gate in their face. Ari tsked. Elaine checked her nails.
+
+“After you?” the chimera suggested.
+
+Ari planted her claws in the thin interstice, then she pulled. The gate twisted in a cry of tortured steel and mangled actuators, just enough for the vampire to push her head through.
+
+“Here’s ARI!”
+
+They were on the bridge. It looked surprisingly boring, lacking entirely far too many blinking lights and beeping thingamabobs. And they were not wearing hats. In the center of the room, a large hologram showed the island, surrounding storm and the blinking icons of struggling teams. The crew’s face was a mix of horror and more horror but surprise as well.
+
+“Welcome to this week’s episode of species feud!” Ari roared. “Today, we ask the public how long can someone survive without a pancreas!”
+
+“I can regrow them so we can give it several tries!” Elaine helpfully added.
+
+Ari grabbed the captain.They had a proper steering wheel! She slammed him on it.
+
+“Let’s spin the wheel of misfortune today!” Ariane yelled.
+
+Elaine healed the captain. Not completely, but enough that he wouldn’t die from acute vampire poisoning. Ariane stopped.
+
+“Errr. Why?” she asked.
+
+“I follow a set of rules,” Elaine explained with the emotional exhaustion that came with explaining herself again and again and again. “I should heal someone if it is reasonably feasible, and may only attack someone in self-defense or if they endanger my patients.”
+
+“So is he a patient?”
+
+“Well…”
+
+“Because you just healed him, which makes him a patient, but at the same time he is actively trying to harm us and the other people he teleported there, so that makes him an enemy. From a purely Kantian approach, then you should indeed heal people who are not active threats but from a utilitarian perspective then by healing him, you are merely prolonging his sufferings and possibly leading to further harm down the road as I doubt someone who must have made a ton of money in bloodsport management will repent.”
+
+Elaine crossed her arms, clearly unamused.
+
+“Also what happens if your morality shifts, like you consider your decisions and their results and conclude that you had made the wrong choices before? And how long does the patient phase last? Imagine, for the sake of the exercise, that one of your patients is well enough to leave the room and then attempts to attack you, but he is not really a danger to you yet still attempted to kill you, would you —”
+
+Elaine lifted a finger. Without looking, a beam of pure heat so potent it reminded Ariane of Earth’s own sun seared the very air, silencing everything. The beam cut a glowing path through the captain’s head, his wheel, a pulpit, the outer hull, and a mountain behind it. Fresh air rushed into the bridge while more alarms screamed in their ears.
+
+“He pulled a gun,” she explained.
+
+“Spoilsport.”
+
+Before they could continue debating ethics, the back of the bridge cracked opened, demolished by an eldritch abomination of pure nightmare, an unholy amalgam of flesh, feathers and horns, tentacles grasping at the stars of past eons in a jealous grasp for the mortality it had lost. The profane beast screeched a discordant song that bypassed eardrums to whisper madness into its victims’ very souls.
+
+“Oh, hey, it’s Julietta! Hi! Does anyone here have new genetic material for you?” Ariane asked.
+
+The fleshy dread incarnate grabbed what looked like the pilot.
+
+“You are NOT the father!” Ariane announced.
+
+“Girls, we are breaking every record!” Wepwawet joyfully said.

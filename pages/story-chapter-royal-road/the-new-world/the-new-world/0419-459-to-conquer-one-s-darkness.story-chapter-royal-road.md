@@ -1,0 +1,271 @@
+---
+id: e4daf43c-1d44-5463-858e-d8b491077568
+page-type-slug: story-chapter-royal-road
+title: "459 To conquer One's Darkness"
+slug: 0419-459-to-conquer-one-s-darkness
+partOf: the-new-world
+position: 419
+ownLength: 2605
+unit: words
+ownProgress: 2605
+publishedAt: 2025-08-06
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2495760/459-to-conquer-ones-darkness"
+royalRoadId: "2495760"
+markedReadAt: "2026-06-29T21:35:45.332Z"
+---
+
+As he smiled, he flexed one arm, shadowy musculature rippling.
+
+"Hod awesome, indeed."
+
+We laughed before I turned to him. I rolled my shoulders.
+
+"You want to spar before we wake the others up? I'd like to see your progress."
+
+Other Hod cracked his neck.
+
+"Why not? I've been training with Shalahora, and he's unveiled a few truths amidst the darkness we wield. I may show those truths to you if you have the time."
+
+My runes glowed with a power unbounded.
+
+"Then let's begin."
+
+Chapter Begin
+
+I compressed time and channeled quintessence through my runes. Hod appeared in front of me, slicing a wing coated in dark flames. I turned sideways, the blade crossing past my face. At the same time, I shoved my palm out. I grabbed his head and squeezed. His form immaterialized before rematerializing below me.
+
+A chain of shadows wrapped around my wrist, and he pulled. The force behind the tug defied reason. The ground beneath us shattered, and the dimensions I wielded budged. I gave him a nod.
+
+"Impressive."
+
+I threw my arm to the side, and he let go of his manifested chain. It whipped through the air, howling out like the tortured lamentations of the damned. It inflicted a psionic wound as the shadow steel shattered against the town's forcefield. I frowned.
+
+"Ok, creepy metal you've got there. Either way, it's going to be difficult to change my momentum."
+
+Other Hod grinned before leaping from my shadow. He carved his wing across my back, and my eyes widened. The flames didn't just burn my body - they singed my soul. As I tanked the psionic damage, he flipped over my head. Like an acrobat of hate, he raked spiked chains across my shoulders, and his claws cut into my neck.
+
+But they shattered.
+
+Too dense and too hard, my body was heavy as a mountain, and I bolted that mass at him. He met my charge. As we collided, I remained still. He launched away from me like a bullet. His form splattered against the edge of the barrier in the distance, and my eyes widened.
+
+"Are you ok-"
+
+He sliced the back of my neck. Another wave of psychic rot grew in my mind. I shot out a dozen spines from my back, but his form once more turned into miasma. He dispersed into a haze that clouded the sun while throwing out a dozen lamps from the luminari shop.
+
+I gawked.
+
+"You didn't."
+
+He let out a low chuckle.
+
+"Oh, but I did."
+
+The light-siphoning lamps cast the battlefield in streaking shadows. Other Hod danced amidst the darkness, and as he routed my retaliation, he spoke aloud.
+
+"Shalahora has taught me something about the shadows we wielded."
+
+He sliced my shoulder, his form a moving specter. He murmured,
+
+"No matter how much a darkness may look the same, they are always different in how they manifest."
+
+He bolted out of one shadow, and I threw out a heavy jab. He immaterialized, jumping from another shade to my side. I struck out again. I tore through six more shadow clones of his before he raked my thigh with his claws. Other Hod's voice oozed from our surroundings.
+
+"I was using the darkness that naturally existed all around me. It was like trying to use iron ore as a sword. It was the unrefined essence of something, and it lacked weight."
+
+Each of his strikes held something sinister and biting. They amassed power and eventually achieved a strange resonance. My minds were savaged by the forces, and my body eroded near every cut and wound. It led to dry sand leaking from my wounds as if my blood were made of desert dunes. The strange affliction mounted as Other Hod kept up his onslaught.
+
+"I am a creature born of another's soul, and I've stolen the mind of someone I respect. That hate is something I've carried for a long time, and it's something I will never forget. Now, I use that hate as a weapon. It leeches into the minds of my foes, a breed of darkness that is all my own."
+
+As the cuts kept mounting, my body weakened. I dried out, my metal turning brittle. I deteriorated into a desiccated corpse that still moved and walked. Other Hod let out a low laugh.
+
+"But I am also not one, but two. Hod carries a darkness as well. He and my master shared much through their histories, and their powers aligned more than one may imagine. They both watched their homeworlds fade, one to darkness and the other to an encroaching drought and endless dunes."
+
+Dark dust piled around me as I crumbled into sand. Even as my mind faded and my body collapsed, I could feel the hate. It was a curse, a bitterness against the sand of a dying world and of a place forgotten. Other Hod doubled his efforts.
+
+"That is the darkness he holds. He carries the death of his world. Shalahora taught us to put that weight into our strikes and onto our enemies. Our pain becomes our power, and we wield our wounds."
+
+He materialized in front of me while slicing down.
+
+"How does it feel, Harbinger?"
+
+I liquified, my body rematerializing in an instant. I grabbed his neck while pressing down with Event Horizon. The aura stunted his technique, making him material as I squeezed down. The shadowy figure squawked, and I smiled. I scoffed.
+
+"It's a very dry magic. I bet Torix would be more than a little offended."
+
+I threw him sideways, condensing my wake around his body. Event Horizon stole the mana he needed for his skills, and, unable to immaterialize, Other Hod collided with the stone floor. He left two craters on the training ground before crashing into a building. It collapsed before he stepped out. Darkness dripped from his mouth and side. He warped in front of me before bowing.
+
+"What do you think?"
+
+I gave him an approving nod.
+
+"Excellent work. Build that psionic poison if you can. It will let you kill foes that you can't even physically touch. Considering the caliber of foes we'll be facing, you'll need that sooner rather than later."
+
+Other Hod put his shadowy wings and massive hands together.
+
+"Thank you for the lesson."
+
+"You too. And here. Take this."
+
+I took out some of the rainbow liquid from L-7. I wrapped some of my dimensional fabric around it before floating the dark orb over to him. Other Hod grasped it, and he marveled.
+
+"What is this?"
+
+I grimaced and thought over.
+
+"Psionic death incarnated. Research it and see if you can't find more inspiration for your mental erosion. I think it could be a source of breakthroughs for you."
+
+Other Hod put it into his dimensional storage for his ring. As he did, our spectators walked up to us. Chrona and Amara had woken up and walked over to watch halfway through our spar alongside Opal. It made a lot of sense considering how deafening the noise and shattering the reverberations were. The largest of them was probably like an earthquake. Hm, a few of them were, actually.
+
+Opal pointed at Other Hod. Her cross frowned.
+
+"What was in the orb?"
+
+I turned to her with pinched fingers and a raised hand. I spoke with an awful Italian accent.
+
+"If I told you, then I'd have to kill you."
+
+Chrona smiled.
+
+"Ah, you have watched many of the DVDs as well. For context, that is a phrase often used by agents of espionage."
+
+Opal's shoulders drooped.
+
+"Ohhh, that makes sense. Either way, I'm taking it literally. So, what's the plan for today?"
+
+I kept glancing at her mind as she said that. It retained a remarkable level of disinterest, and that's why I let her stay here. Otherwise, I'd send her back and have Shalahora see if she was an agent of Elysium. She'd already been cleared by him once, but a second time wouldn't hurt our situation. She could've been taken control of between arriving here and seeing us.
+
+Those thoughts traversed my mind as I pointed at everyone present.
+
+"I'm here to see where you all are at. Also, no one is allowed to use the gear I've given them since I want to know what you all can actually do on your own."
+
+Opal leaned back.
+
+"Gear is a large part of someone's strength. Knowing how to use a weapon can make a huge difference in the results of a fight, and some builds revolve around it."
+
+I shrugged.
+
+"If that's the case, we can have multiple spars, one with weapons and one without. In our case, the second spar would involve a few select pieces of equipment that I gave them."
+
+Amara let out a long sigh.
+
+"This will be agonizing."
+
+Other Hod walked up. Blood still trickled from his wounds.
+
+"It's a matter of opinion. I find ignorance more painful than losing in battle."
+
+Amara sneered.
+
+"Personally, I find pain more painful, but what do I know, really?"
+
+Other Hod laughed.
+
+"Would you rather lose a thousand fights or never remember your forgotten past?"
+
+Amara's sneer turned into a full-on snarl.
+
+"You know which choice I'd take."
+
+Other Hod shrugged.
+
+"That is my point. How about you all? Who wishes to lose their fight first?"
+
+Opal stepped forward, her steps light and eager. She turned to me.
+
+"I'd love to get a few pointers."
+
+The others stepped away from the training grounds. I raised my hands.
+
+"Then I'm ready whenever you are."
+
+She darted forward as a ball of light. I raised a palm to block her initial assault. Her glow alone scorched stone, but I tanked the damage as she crashed into me. My palm thrust did nothing, and the heat from her attack left my arm glowing white. I lifted a hand, and pillars of ice stabbed toward her from the ground.
+
+She flipped away, using acrobatic maneuvers. I guffawed at the wasteful movements before dashing towards her. I reached her and swung down. She dodged by a hair's breadth before my hand crushed the stone beneath us. A shockwave propelled her away, and she twirled in the air.
+
+A trail of light followed her, and she built a strange momentum. Every subtle shift created a growing resonance. It kept compounding as Opal let out laughs mid-combat. While my way of fighting relied on desperation and resolve, hers was valleity and joy. Every shift was a whim made in the moment as if she felt her way across the battle.
+
+She followed some strange intuition of how to move, and it predicted many of my actions. Each impact from her strikes left a lingering light in my body as well, and it burned with energy and anger. Those sensations flooded my mind with rage, and I struggled to contain myself as we continued.
+
+My frustration mounted as she darted away from every strike with a precognitive sense for battle. While it wasn't often the case, her abilities were undeniable; she was better at physical combat than I was. Her technique and the depth of her understanding defied reason, and she was one with motion. She left me curious how she'd contend with Althea, as their styles of combat were similar.
+
+Unlike our sniper, Opal was someone who built damage and speed as she fought. Opal's stats improved with each passing second, as did her reserve of mana. She imbued more and more of her strikes with light, and she held nothing back. I became a glowing mess of molten metal while she fell into her own way of being.
+
+The training arena was the field, and she was the scythe. Her enemies were the wheat, and she was the harvest. It left me in awe as my body began to melt into molten slag. Curious about her limits, I sped myself up a bit by compressing time. She kept up with the pace, adjusting to the change in acceleration easily.
+
+I smiled, overjoyed at her ability. I hastened further. Opal hit a breakneck pace, her shifting momentum straining to its absolute limits. I laughed with her since Opal's attitude and joy were infectious. I accelerated again, a living bullet. I darted back and forth, using mana to comprehend the speed and pace of everything that happened.
+
+Tiny strikes of mine began connecting. Opal's cross narrowed before the lines across her body glowed. A living star, she radiated energy and animism. She swarmed with the fury of the sun, and she heralded the coming of a comet.
+
+To retaliate, I surged, my form a blur. I routed her attacks. I changed each strike midswing, the bones of my body creaking. My armor grinned as I left swaths of poisonous mana in my wake. I became motion. I became the slaughter. As her body amassed wounds, I reached up with my hands. I grabbed her shoulders and pressed her down into the arena.
+
+She gawked at me in horror while I sat down in front of her. I smiled as she heaved for mana, air, and stamina. I nodded.
+
+"I can see how the eldritch would struggle with you. You build the damage of your strikes over time, and they eventually burn them from the inside out. Once fully set up, you can go on a rampage with near-limitless stamina, right?"
+
+Opal had only her head outside the ground. She leaned it back, staring at the sky.
+
+"You're just a monster, aren't you?"
+
+I karate-chopped my hand at her, lightly tapping her head.
+
+"Let's just focus."
+
+She looked at me and gave a quick nod. Her hair regained its fiery composure.
+
+"Yeah, you pretty much got the gist. I have quite a bit of utility magic, too, but it isn't that helpful in combat. I can teleport if I have some time, but as you've seen, it can take a while. Heh. It's pretty much an essential skill for any Fringe Walker, considering how much solo work we have to do."
+
+I tapped my chin.
+
+"I wish I could warp. Hm, I kind of can, but it's extremely slow and only one way."
+
+Opal gawked at me.
+
+"You can portal yourself? Since when?"
+
+I scoffed.
+
+"I build cities. How? You've seen that already. Anyways, I think you're doing pretty well with what you have. You're kind of like a star primeval combined with Althea. You're not as strong as either of them, but-"
+
+Opal snorted.
+
+"What? Then either?"
+
+I nodded.
+
+"Yeah. The star primeval far exceeds anything you've shown me, and Althea is an anomaly. Her damage is much greater than yours, and she is far more explosive. She's not as good in a melee, but she's far better at dealing with area attacks given her innate evasiveness."
+
+Opal tilted her face away but kept her cross aimed at me.
+
+"Who is this Althea anyway?"
+
+Chrona leaned over, raising her brows. She made an imitation of Hod's voice.
+
+"Harbinger lady friend."
+
+Everybody burst into laughter. Other Hod smiled.
+
+"Hod enjoyed the joke."
+
+I turned to him.
+
+"You guys can talk now?"
+
+Other Hod raised his large, umbral hands. He held a gap between his index finger and thumb.
+
+"Only a minute amount, but enough to ask and evoke emotion."
+
+I let out a sigh, a small smile finding my lips despite myself.
+
+"Then who's up next?"
+
+Opal sighed.
+
+"Wait one minute. What is a primeval?"
+
+I stood up and pulled her out of the ground.
+
+"Actually, I'm glad you asked."
+
+I opened my pocket dimension.
+
+"Get ready. They're a handful."

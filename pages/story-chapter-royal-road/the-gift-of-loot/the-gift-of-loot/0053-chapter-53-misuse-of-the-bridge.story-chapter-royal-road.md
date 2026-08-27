@@ -1,0 +1,293 @@
+---
+id: 186b1403-42ea-56ba-a9f2-e79008114dd1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 53: Misuse of The Bridge"
+slug: 0053-chapter-53-misuse-of-the-bridge
+partOf: the-gift-of-loot
+position: 53
+ownLength: 3556
+unit: words
+publishedAt: 2026-07-10
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3658743/chapter-53-misuse-of-the-bridge"
+royalRoadId: "3658743"
+---
+
+An eye blink later, they landed on the forest floor near Jo's truck. The purple rope of energy hissed and sizzled on his wrist, connecting Thomas to the wizard as if it were a leash.
+
+"Fuck this." Thomas hurriedly backed up a step. That only had the effect of pulling the rope tight and almost tripping on Zach, who had collapsed to his knees, winded after teleporting an extra person.
+
+"Oh no you don't," the wizard said with a grin, jerking the rope to pull Thomas back.
+
+The wizard had a very punchable face, so Thomas punched it.
+
+Pain bloomed over his own cheek and jaw as Thomas's head snapped to the side. His first thought was that the wizard had punched him back, but he had been so fast that Thomas hadn't even seen him move.
+
+What—
+
+That was the moment when Jo came in like an avenging, sneaky assassin, stabbing the hilt of one of her hunting daggers into the wizard's back.
+
+Thomas screamed as he felt the sharp agony of the blade in his own back and the hot, wet splash of his own blood as a wound opened up.
+
+The wizard laughed.
+
+Thankfully, Zach was quick on the uptake, and with a snap, he sent his gathered ribbon of fire off to the side before it, too, hit the wizard.
+
+"That's right," the wizard cackled, and dragged Thomas close, wrapping an arm around his side to keep him standing. More purple ropes of energy snaked around his chest. They sizzled against his skin, but they were nothing compared to the sword slash. "All damage transfers to your healer."
+
+Even as Thomas squeezed his level 3 core for a rush of healing, a part of him was indignant. Why was he the damsel in distress in this situation?
+
+"Let him go," Jo said, with the frozen calmness of her Still Waters skill, "or we'll kill you."
+
+"You'll just be killing your teammate," the wizard replied. "You aren't in control here. I am. If you make one move that I don't like, I'll make him believe he is being buried alive while being eaten by every creepy-crawly his imagination can come up with."
+
+One hand came to grab the back of Thomas's neck, and with it, he felt a drop of the man's disgusting dark mana slip under his skin.
+
+This is what he had done before Thomas realized, when he'd been caught up in those vivid dark hallucinations. He hadn't realized they'd been caused by the man's mana.
+
+This time, with his body flush with Adaptive Wellspring of Healing mana, he forced the foreign mana out before it could take hold and paralyze him in a dark dream.
+
+There was a moment where he sensed the wizard's surprise. Either he knew what Thomas had done or was confused about why he hadn't locked up in fear and pain.
+
+In any case, he'd given Thomas an idea. The wizard wasn't the only one who could inject mana.
+
+With a sharp movement, Thomas twisted in the man's grasp, putting one hand over his core on his stomach and the other on his shoulder. Thomas added his own healing mana, creating a supportive bridge to override the man's heartbeat and breathing rhythm with his own.
+
+Then Thomas deliberately held his breath.
+
+He instantly felt the strain on his own spirit. This was borderline, but it wasn't necessarily an attack using Healing mana. No harm was coming to the wizard. His heart still beat, and Thomas knew that he could hold his breath until they both passed out. Then the bridge would either break, or he would simply start breathing again. The wizard was in no physical danger. Thomas was just holding him still.
+
+The wizard, though, predictably freaked out. He gaped like a fish for a second, then slammed his fists into Thomas's body and clawed at his wrists to push his touch away. But they were bound together by the purple mana rope. Thomas simply tanked every hit, and the healing running through his system had already all but closed up the sword wound. It dealt easily with a few punches and kicks.
+
+Then Zach and Jo stepped in, each grabbing one of the wizard's arms to hold him still.
+
+"Break the dark binding," Zach growled in the man's ear.
+
+Thomas said nothing, just locked gazes with the wizard. The man was making terrible, empty gasping sounds as he tried and failed to breathe. His face was rapidly reddening. Thomas's own lungs burned, and the muscles in his throat were starting to spasm with the need to take in air. He didn't care.
+
+He glared straight at the wizard, even as his own vision started to tunnel.
+
+He was going to keep this up right until they both passed out. Then, when he woke, because he would wake first with his self-healing abilities, he'd do it again.
+
+The next moment, lightning crashed down all around them in four corners, caging them in. Thomas had the thought, Crap, he's got lightning on top of everything else.
+
+Then a booming voice, as if from the heavens, yelled, "Stop this at once!"
+
+The wizard broke first with a grimace. The purple ropes dissolved, and Thomas released the bridge to punch him again, right in the face. This time, the pain didn't ricochet back.
+
+The wizard fell out of Zach and Jo's grasp, hitting the ground with a gasp.
+
+Then lightning bolts fell in a curtain, separating the wizard from Thomas and the rest of his team from him.
+
+"Fuck, what now?" Thomas said as he turned.
+
+Up on the top of the hill stood Robert Ross with at least three guards. Thomas's confusion about how they got there so fast was cleared up when, with a flash that looked like lightning, a guard suddenly positioned Tad Woolworth next to Robert before zipping away for more personnel.
+
+Robert held what looked like a crackling ball of energy in his hand, and Thomas had no doubt he was the one responsible for the lightning curtain.
+
+It seemed the Ross-Astor family went for electric powers. That was interesting.
+
+"No one moves," Robert said. His eyes swept over the scene as if weighing them all.
+
+For his part, Thomas was happy to stand there. His back stung where the last of the dagger slash was closing up. His jaw still twinged from where he'd apparently punched himself. And there were red welts on his arms from the damned purple mana rope, though those were fading before his eyes.
+
+The wizard was just standing to his feet, visibly trying to collect his dignity, pulling down his sleeves. At that point, he looked less like a wizard and more like an accountant.
+
+An evil accountant, Thomas thought. The type that steals your taxes under your nose. Then maybe kills your cat on the way out.
+
+Robert's gaze snapped to the man, and Thomas thought he saw a little bit of distaste in his expression. "You're one of the Brighten creatures, aren't you?"
+
+"I serve Tabitha Brighten, yes." The wizard straightened, smiling what he likely thought was a charming smile. "Mr. Ross, there has been a misunderstanding."
+
+"They're thieves," Tad said, jumping in to point a finger at Thomas and the others. "That's what we came to warn you about. De'Montvallon's built a team to scam you."
+
+"Oh, that is some bullshit," Thomas growled.
+
+Tad shot him a look. "If you search his bag, you will find Woolworth property that he stole from me."
+
+"The Mace?" Thomas was getting heated now. "I took that after sparing your life when your little CrossFit group ambushed me—"
+
+He stopped when Zach put a hand on his shoulder. His friend's gaze was on Robert, who didn't look the least bit impressed by what Tad had to say.
+
+In fact, Robert acted like Thomas hadn't spoken at all. His focus was all on the wizard. "You attacked a guest in my home, a verified healer."
+
+"He's not part of your Family; you have no claim on him," the wizard sneered. "As Woolworth said, they are thieves. In fact, that one," he gestured dismissively to Zach, "is the de'Montvallon brat."
+
+"I am well aware," Robert drawled.
+
+"Are you aware, then, that they have stolen a level 5 Hollow Shadow mana from our prime dungeon?"
+
+"Listen to him," Tad insisted, jumping in again. "The Brightens are not your enemies here, Mr. Ross. The Coven was only looking for fugitives."
+
+Thomas had to practically grind his teeth to keep silent. Zach, probably sensing this, caught his eye and shook his head once in warning. For her part, Jo kept silent and so unnoticed Thomas suspected she was on the verge of using her Gift for escape.
+
+"And my two dead guards?" Robert asked.
+
+"An unfortunate necessity," the wizard said smoothly. "This little group of thieves was dug in like ticks inside your dungeon, and we had to fuel a spell in order to force them out."
+
+"Dark blood magic, you mean. One that almost poisoned my land."
+
+Finally, Robert turned to address Tad.
+
+"You're telling me that the Brightens killed two of my men on my land to help me. Then the right hand to Tabitha Brighten herself attacked a healer in my home—not because setting a healer before a witch is like putting a bloody steak in front of a wolf—but, again, to help me." He paused for a second. "Do you think that I have 'fucking idiot' tattooed across my forehead?"
+
+"You know that my family's loyal to you," Tad insisted. "Look who that healer is with. He's working for the de'Montvallons against the Ross-Astors. They're trying to fracture the West Coast families. They're–"
+
+"You have fallen in with dark wizards, haven't you, Tad?" Robert said heavily.
+
+"That's not—"
+
+Robert's voice, which had been stern but somehow cordial, sharpened. "Shut up."
+
+Tad's mouth snapped shut.
+
+Robert nodded. "I'll be speaking to your father and recommending a mana purge. You have taken dark mana, haven't you?"
+
+Tad went very white in a way that suggested he'd struck home.
+
+Finally, Robert's gaze turned to Thomas. "And you. You're one of the de'Montvallons."
+
+"I'm really not," Thomas said.
+
+Jo shook her head in agreement.
+
+Zach, meanwhile, gave a lopsided smile. "I left a while back."
+
+Robert leveled an unimpressed look. "Did you?"
+
+"That can't be news to you," Zach said. "Not in these circles."
+
+Robert's mouth twisted into something that was a frustrated snarl. "I sent a request through your family. It's a simple ask for a high level healer, a few hours of their time, and generously compensated. Do you know the answer I received?"
+
+Zach winced as if he already knew, but stayed silent.
+
+That was good because Robert didn't wait for an answer. "They want permanent access rights to not only this dungeon, but to four other feeders in exchange. That is a direct violation to the treaties we've had for decades. Your father has sent the message that things have changed now the System Integration is on us." His jaw visibly clenched. "Then the next thing I know, I'm contacted by the Dark Elves, not to swoop in and help, but to pass a message that one of my feeder dungeons has been attacked. They then send a level three human healer with no Family entanglements, who gets attacked by a Brighten asset under my own roof." Now his gaze fell to Thomas. "One that proves he's able to heal physical damage at a snap of a finger. Exactly what I need. So what exactly are you playing at?"
+
+"Nothing," Zach said. "It's just the weird currents of the universe."
+
+Both Thomas and Jo grimaced.
+
+Robert looked from them to the wizard and back. "You're both lying to me."
+
+"Someone needs a healer?" Thomas blurted. It was like he couldn't help himself. He'd literally kept quiet for as long as he physically could.
+
+"Badly." Ross looked between the two, and then with determination, he settled on Thomas. "Can you reconstruct an old injury? Specifically, a missing limb?"
+
+Ah, crap. He had been really trying to keep this under his hat, but he needed this guy on his side. Plus, if he tried anything, he'd find out that Thomas wasn't the usual pacifist healer.
+
+"I've rebuilt a hand before, if that counts," he replied.
+
+Robert blinked, then nodded. "I'm out of options that don't involve mortgaging my family holdings to another Old Family. Help me with this, and I'll personally see to it that the Brighten Coven regrets ever setting foot on Ross-Astor land. They will not bother you and yours again."
+
+There was really only one answer that Thomas could give.
+
+"Who needs help?"
+
+Honestly, he would have done it for a nice mana payment. But getting the Coven off his back? That was icing on the cake.
+
+****
+
+Thomas didn't think that he'd be driving down to Sacramento again so soon. Only, of course, he wasn't driving; he was being driven in one of a fleet of five black SUVs.
+
+He felt a little like a celebrity.
+
+Things went pretty quickly after he agreed to Robert Ross's terms. The wizard was taken away—oh, the man tried to fight back, but whoever had zipped everybody there also quickly zipped him away.
+
+Zach had volunteered to go with them, to make sure that not only the wizard was taken care of, but that a proper message was sent to the Brighten Coven.
+
+Thomas had absolutely zero love for the Coven, but he was glad he wasn't part of that duty.
+
+Jo was pretty much free to leave, which she did after triple-checking with Thomas. He assured her he could take care of himself, and she needed to go back to her daughter.
+
+Meanwhile, Thomas would accompany Robert Ross to see who needed healing.
+
+Zach didn't seem to have an issue with Thomas going off to heal alone, but did mention in his laid back, faux surfer dude way it might be a real good idea to heal more than one person to cement goodwill.
+
+Well, as long as Robert was going to provide the healing crystals, he had no problem with that.
+
+They took the streets that curved around the outskirts of town. The smoke in the air was gone, but the downtown skyline was odd, with chunks of several buildings literally missing. There was also a lack of traffic on the streets, as if the entire city was still shocked.
+
+"So how did you meet Mr. De'Montvallon?" Robert asked.
+
+"Sold him some mana," Thomas said, honestly. "We got to talking and decided to dungeon dive together."
+
+"Hmm. Well, if you knew his father, you would know why people would be worried."
+
+"I don't think he's his father," Thomas said.
+
+They engaged in more small talk, and Thomas had to fend off light attempts to recruit him into the Ross-Astor. No thanks, he'd rather be a free agent. But at least now he and Robert were on a first-name basis.
+
+"And you've had no medical training?" Robert asked.
+
+"No," he said. "I was working in a law office before this. Healing was just a... interesting surprise."
+
+"Hmm." Robert looked out the window. "Well, we're here."
+
+The estate was every bit as massive as he expected it to be. It had a huge vista of the nearby Folsom Reservoir and sprawling grounds that suggested about half the water went to maintaining lush greenery.
+
+"You mentioned you needed a reconstructionist," Thomas said. "Can you give me any more information?"
+
+He probably should have asked before, but he really didn't want to psych himself out of this. If he couldn't fix it, then the deal with the Coven would likely be off, and they'd all be screwed.
+
+The man's lips pressed into a thin line. He looked briefly angry, but Thomas didn't think it was at him. He was angry at himself.
+
+"I know the news has been suppressed, but you're local enough to have probably heard what happened downtown. The dungeon overflow?"
+
+"Yes." Also, it hadn't escaped his notice that the dungeon overflow had been of electric wisps, and the Ross-Astors seemed to have lightning powers. His guess was that it was their dungeon.
+
+"My daughter was accompanying me into the city," Robert said. "I was attending a meeting. We were separated by a few floors, and... one of the creatures got to her. We did what we could with healing crystals, and the talents and expertise of some of our magical healers, but they couldn't save everything. Then, I did some checking and heard rumors of a possible healer somewhere in the Lake Tahoe-Reno area."
+
+Thomas felt a little cold. Had Derek been talking? "Oh?"
+
+"We have contacts with the National Guard, and it seemed they were finally able to pass off a shard that they'd been trying to find someone compatible with. If the description of that shard were to be believed, that person would be able to help my daughter."
+
+Thomas nodded. That helped explain why he had been so respectful to him from the start. He'd suspected who Thomas was.
+
+"Zach and I were called in to help with the Brighten dungeon when it was on the verge of an overflow," he said, because there was no reason to keep that to himself at this point. "We cleared the dungeon, and it seemed to have reset the curse, or whatever they did to it to make it so difficult for level 1s. But we don't have the Hollow Shadow mana."
+
+"If Tabatha Brighten lost it, her father would be very displeased, and as you can imagine, as the leader of a coven of dark witches, that is not a favorable place to be. It's no wonder she sent her creature after you," Robert sighed, then added, "I regret that Tad Woolworth was pulled into it. He comes from a good family."
+
+Thomas made a noise, neither agreeing nor disagreeing. He sensed Robert would really like it if he forgave Tad for trying to feed him to the dark wizard. Nope, and he was definitely not giving that mace back, even if he never used it again. Screw that guy.
+
+Their car finally came to the end of the long estate driveway. There was a manservant or butler or whatever the PC term was, waiting for them. Robert spoke to him, and several people were sent out.
+
+One returned with a slim black box that almost looked like a jewelry case, which was presented to Thomas.
+
+Thomas's greedy loot heart gave a thud as he saw three level three Healing crystals lying on a velvet cushion, and one precious level 4.
+
+"Payment for you, and obviously the mana that you need to do this," Robert said diffidently. "Let me know if you need any more."
+
+"This is a good start." Thomas took the box and tried not to clutch it too hard. "Please, let me see her."
+
+****
+
+The little girl was, at first glance, not that bad off. She was sitting with a nanny on a blanket under the shade of a tree. About nine or ten years old, she was playing with a plastic tea set and expensive-looking toy ponies.
+
+Seeing her father approach, she got up and ran with a limping gait, and when she threw her arms around her father's waist, Thomas saw that she was missing most of her fingers.
+
+The crystals had healed her of any burns or scars, of course, and left the stumps behind. Same as it had with Derek.
+
+"Emily," Robert said, "this is Thomas, and he'd like to see if he can help you."
+
+"Are you a healer?" she asked, looking at him with no fear.
+
+"I am," he said. "Let me see those hands of yours. Oh, ouch. Okay, let's see what I can do. You had twelve fingers and twelve toes, right?"
+
+"No!" she laughed. "I had ten! But now I only have three fingers and four toes."
+
+Oh yeah, she had definitely been healing-crystalled in the head. That wasn't the official term for it, but no kid who had just lost so much could laugh about it so soon. Either that, or she had faith in her father and thought that this was a temporary situation. Imagine being able to grow up with magic.
+
+"Okay, let's sit down," Thomas said, motioning to the shade under the tree. "This might feel a little weird, but it shouldn't hurt."
+
+Thomas absorbed the level four healing crystal, which washed through him like a hit of the really good stuff. Then he took the girl's hands into his own and concentrated on his Living Architecture skill.
+
+Twenty minutes later, the girl was again playing with her ponies, running back and forth with them in an imaginary race. Her grip was perfect, as was her gait.
+
+Meanwhile, he and Robert walked across the lawn to the main house for a cold drink. It was hot in the valley.
+
+"She can't be the only one in your Family that needs healing," Thomas said.
+
+Robert nodded in acknowledgment. "No, but she's my daughter. My heir."
+
+"Let me see the others," Thomas said. "If you give me the mana, I'll heal them."
+
+What good were loot and mana crystals if you didn't use them?

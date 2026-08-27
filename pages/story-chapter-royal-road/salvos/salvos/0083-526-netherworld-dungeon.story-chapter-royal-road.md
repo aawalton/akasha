@@ -1,0 +1,121 @@
+---
+id: 23dd64c9-eb3f-5fe4-9aac-3ea6cffcb9b6
+page-type-slug: story-chapter-royal-road
+title: "526. Netherworld Dungeon"
+slug: 0083-526-netherworld-dungeon
+partOf: salvos
+position: 83
+ownLength: 1660
+unit: words
+publishedAt: 2023-03-27
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1150293/526-netherworld-dungeon"
+royalRoadId: "1150293"
+---
+
+526. Netherworld Dungeon
+
+Now Entering [Dungeon: Remnants of the First Demon Kingdom]
+
+I was in a Dungeon. I had been in plenty of Dungeons before— it wasn’t unfamiliar territory to me. I knew what to expect whenever I entered one. According to the Adventurers Guild back in the Mortal Realm, Dungeons formed when multiple monster Lairs were clustered close together.
+
+It was a simple enough definition. So there was no reason for me to be gaping in shock at what I saw. But this was the Netherworld. There weren’t monsters here. There weren’t Dungeons here.
+
+At least, that was what I thought. But evidently enough, I was wrong.
+
+I swept my gaze over my surroundings. I stood in a vast circular chamber with black brick flooring. The ceiling was made of the same white rock that blanketed the Netherworld, but it was carved into a dome overhead. Chandeliers hung overhead, carrying these inert crystals that seemed like they would have glinted with light long ago.
+
+But this place was completely abandoned. A relic of the ancient past. Rusted weapons lay at my feet, and broken armor was scattered around the floor. It looked like a battle had taken place here long ago. Bits of rubble and debris were clumped together around the corners of the room. If there had been furniture here once before, there was none now.
+
+Four different doorways led out of the room, but two of them had collapsed, leaving only the exits just ahead of me and to the right. I frowned as I took in this scene.
+
+“The Remnants of the First Demon Kingdom, huh?”
+
+I wondered if that meant there was a Demon King before Regnorex came about. Or maybe it meant that this was Regnorex’s first attempt at creating a kingdom? I wasn’t sure. I was curious about what it meant. I wanted to delve down into one of those corridors leading further down this strange structure.
+
+But first, I needed to [Rest]. So I did.
+
+—--
+
+Defeated [Archarachne - Lvl. 169]!
+
+Experience is awarded for defeating an enemy at least 10 levels above you!
+
+Less experience is awarded for defeating an enemy with the help of others!
+
+…
+
+Defeated [Hellwolf - Lvl. 90]!
+
+Little-to-no experience is awarded for defeating an enemy at least 50 levels below you!
+
+Class [Draconic Apprentice] Level Up!
+
+[Draconic Apprentice - Lvl. 125] -> [Draconic Apprentice - Lvl. 126]
+
+Gained 2 Secondary Skill Points!
+
+I had killed a lot of wild Demons on my way here to this mountain. But most of them offered very little experience. So I didn’t level up— well, I did level up in my Class, but not in my Subspecies. Even though I had partially helped with killing a Primeval Demon with my [Sacred Hellfire].
+
+But I could tell I was getting close to my next level. Which would bring me to Level 159. After that, I would reach Level 160. And I was getting a little bit excited about it. Which seemed quite odd— or at least, I would have found it odd to be excited about a regular level up before I hit my Level 150 evolution.
+
+Now, I knew that every five levels, I’d get a Grand Skill Point. Well— it seemed like I would receive a Grand Skill Point for every five levels. After reaching Level 155, I was awarded a Grand Skill Point that I ended up spending on [My Flames Shall Burn Until Eternity Ends]. My [Divine Essence of the Angelic Devil Princess] couldn’t level yet, but I knew it could in the future. So for now, most of my Grand Skill Points went to what was available.
+
+I still hadn’t seen the brand new effects of my leveled Grand Skill, so maybe it wasn’t really much of an improvement. However, I hoped it was something good.
+
+I could test it out now— it had been quite a while since I entered the Dungeon, and I was mostly recovered. But I decided against it. I was going to save [My Flames Shall Burn Until Eternity Ends] for when it was necessary.
+
+I considered sending my clones out to investigate the rest of the Dungeon while I was resting. I could only summon nine of them right now. I still had one left in the Mortal Realm— she was guarding over my children just as I instructed her. Together with Willy, she would keep Novis, Bellum, and Oriur safe. Or… at least, I hoped that was the case.
+
+I didn’t actually know what she was doing back there. The moment I had crossed through the planes and exited the Mortal Realm, I lost all connection with her. But I knew that she was… me. Maybe not as me as I was. And yet, she was still me— a replica of me. And she would hold the same regard to my children as me.
+
+And I knew she was alive since I couldn’t muster up the magic to summon ten of my clones. However, I didn’t even summon a single one of my clones to scout the area, because if something happened to them and they died, they would explode, and the blast could potentially alert the Demons outside. I could still hear the fighting— the crackle of thunder, and the howling of [Hellhounds]. The occasional muffled explosion was audible even from where I stood, but I knew that as long as I didn’t leave this Dungeon, whatever was happening outside wouldn’t bother me.
+
+It was strange. I never thought that the Netherworld would ever change so drastically. But it did. It wasn’t the corruption, nor was it a natural disaster. It seemed to ravage the entirety of the Netherworld as far as I could see when I was above the mountaintop.
+
+I sighed and got to my feet.
+
+“No use wondering what’s been happening…”
+
+I murmured to myself as I raised my head. I was fully recovered now. The Netherworld was… collapsing or whatever, and I didn’t want to deal with Level 181 [Hellabominations] flying around. So I decided to do the only thing I could do right now.
+
+“Time to investigate this Dungeon.”
+
+I marched forward as I dragged a Divine Nebular Scythe behind me. I had created it during the free time I had while resting. It took a while considering it was a rather powerful weapon. But I was glad I didn’t need to activate my [Divine Essence of the Angelic Devil Princess] to even use Divine Essence like I had to before my evolution.
+
+I started down the dark corridor as my footfalls echoed around me. I created a ball of glowing gray flames, shining light ahead so I could see where I was going. I swept my gaze around as I began to descend down a winding path.
+
+This corridor was clearly artificial, but it was designed like a cave tunnel. As if the architects who built this place didn’t know how a regular corridor worked. There were markings on the walls— etchings that had once contained magic within them, although the power had now faded, and these scratch marks were all that remained.
+
+I narrowed my eyes. I couldn’t read these words. Even with [Universal Language Comprehension] at Level 2, the symbols on the walls were gibberish to me. And maybe they were.
+
+I searched for anything that could give me a clue about what this place was— any hints as to why this place was built, or how it had fallen. The corridor continued winding until it led me to a small room. It was about ten feet across— still relatively large, but tiny compared to that vast chamber I had previously been in.
+
+There was an altar in the center of the room. A stone tablet lay horizontally on the altar, and a jagged knife was left at its side. Another doorway continued on to a descending corridor with a statue waiting to its right, but I glanced down to see an inert spell circle carved into the ground.
+
+“This is… a summoning ritual?”
+
+I poked the ground a few times with a frown. I closed my eyes, focusing on my spatial senses— I tried to reach for any remnants of mana strands left behind. But I found nothing. This place must have been abandoned such an incredibly long time ago, there was no residual mana left from even this ritual circle.
+
+I tapped a finger on my chin as I walked up to the altar. I inspected the tablet, but it was just a blank slate. If it had words written on it before, it had faded long ago.
+
+“Why is everything here made out of stone, anyway? Can’t the Demon King just bring over paper from the Mortal Realm?”
+
+I wondered aloud as I shook my head, before picking up the jagged dagger. Its metal surface immediately collapsed and turned to dust. I blinked. I stared at the hilt of the blade as my brows snapped together. I sensed motes of mana dissipating into the air with the broken blade, before shrugging.
+
+“Weird.”
+
+I tossed the hilt aside and continued down to the next hallway. I passed by the statue, but barely paid it a glance. I would have entered the hallway, if the statue didn’t move.
+
+“Wait, what—”
+
+I backed away as [Angelic Premonition] blared in my head just in time. I leapt back as the statute swung down with a clawed hand, narrowly missing my face. I flipped in the air and landed on the inert ritual circle as I frowned.
+
+“Who are… you?”
+
+The statue drew back as its entire body creaked. It had the body of a [Hellhound], but it stood on two legs. It reached out two clawed hands, hissing as it bared its fangs. I stared at it as it eyed me with a pair of crimson eyes.
+
+[Gargoyle - Lvl. 161]
+
+“A Primeval Demon…?”
+
+I blinked. And the [Gargoyle] lashed out.

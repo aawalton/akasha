@@ -1,0 +1,141 @@
+---
+id: 3297ef74-0ab8-57f7-a7ef-77de7e64a4de
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1306 - Arachnec Nest"
+slug: 0180-chapter-1306-arachnec-nest
+partOf: the-primal-hunter
+position: 180
+ownLength: 2793
+unit: words
+publishedAt: 2026-05-01
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3341387/chapter-1306-arachnec-nest"
+royalRoadId: "3341387"
+---
+
+“Welcome to the Nest,” the Archweaver said, spreading out his arms, showing off the home of the Arachnecs.
+
+After traveling through the Tunnel Mound, Jake and his escort found themselves portaled to a large circular room, made entirely of white bone and some fleshy bits here and there, though, on the gross scale, it was significantly toned down compared to what Jake was used to.
+
+Releasing a Pulse of Perception, Jake got a snapshot of the entire nest, and... yeah, it was pretty damn massive. The Nest was a bit reminiscent of the Tunnel Mound, sitting atop one of the many islands floating around Venus, but unlike the mound, this was an enormous mountain. What’s more, the majority of the Nest was actually beneath the ground, and after traveling there, Jake only found himself in the upper portion.
+
+Countless barriers were interspersed throughout the Nest, sealing off or monitoring dozens of facilities, with the most barriers sealing off the very bottom of the Nest. There, Jake saw what he could only call a massive spawning chamber filled with eggs, and in the middle, an Arachnec, likely the caretaker of all these many eggs.
+
+Jake was momentarily confused that undead creatures would come in eggs, but he quickly got an idea of how it worked. The eggs were more like pods, fueling power into the Arachnecs, with their forms slowly molded and designed by the caretaker in the middle. At least the roughly one hundred long, spindly arms it had made Jake believe it would be quite good at putting together undead spiders.
+
+Exiting his thoughts to not give away he’d already seen the entire Nest, Jake quickly reacted and nodded as he looked about and motioned towards the many “caves” carved into the walls of the chamber, going up the walls as spiral walkways lined the chamber all the way up. “Quite a sight, indeed. Are all of these leading to Tunnel Mounds?”
+
+“Not all, but many,” the Archweaver answered. “Unlike the Venusians, we do not construct villages but rely on large nexi in the form of these Nests. Each Nest is an invaluable resource, and throughout our recorded history, very few have been allowed to fall.”
+
+“How many Nests are there in total, if you do not mind me asking? And do they have classifications of being big or small, or some other way to differentiate the importance of each?” Jake asked, really not expecting an in-depth answer to those questions.
+
+Unsurprisingly, he didn’t get any, at least not for the first part. “The total number of Nests is not something that can be shared with a guest, no matter how honored they might be. In regard to classifications, all Nests are equal besides the very first one that served as the origin of all Arachnecs. A place you might one day see, but not yet.”
+
+Jake nodded, already happy to at least be told that there was some super Nest out there in the Minor World. Which was admittedly a bit of a scary prospect, because Jake had already detected several A-grades within the Nest he currently found himself in. He couldn’t tell exactly where they were, due to the sheer number of creatures inhabiting the massive complex, but he guessed they were mostly hidden, doing their own thing, absorbing the dense death and poison energy in the atmosphere. Speaking of...
+
+“Do you require my assistance to remain comfortable within the Nest?” the Archweaver asked, definitely wanting to know if Jake could handle the powerful death affinity lingering everywhere. Understandably so.
+
+The Nest was a death trap to anything not already dead, and Jake reckoned that most peak C-grades would likely find themselves dead within an hour if they were teleported there. Even weaker low-tier B-grades would struggle.
+
+Before his evolution, Jake could probably have managed, but not forever. He would have had to constantly consume resources, and it was entirely possible that the mental strain from having to defend himself against the environment continually would have eventually led to his suffering.
+
+Post-evolution, Jake was naturally much stronger and could withstand the atmosphere pretty well, especially seeing as he constantly kept Scales active. Not that Jake necessarily needed the scales, as Primal Spirit of Man’s ability for him to resist hostile environments was already a massive boon that was likely good enough for him to exist in this space on its own.
+
+Scales did help with mana regeneration and stopped whatever unwanted energies could seep through his other defenses, so Jake preferred to keep them up. Palate was also constantly working as Jake took in the environment, analyzing all the toxins that filled this Minor World. Even the inside of this Nest, besides the heavy death affinity, still had plenty of toxins everywhere. So, Jake didn’t want any help from the Archweaver; in fact, he would find it very annoying if the B-grade did anything to limit the energies affecting Jake.
+
+“No, I’m totally fine as things are,” Jake answered in a reassuring voice. “I actually prefer taking in the atmosphere like this.”
+
+“Interesting. Do you have the ability to absorb and benefit even from energies that wouldn’t otherwise lead to growth?” the Archweaver asked a question that was super monster-coded.
+
+All monsters absorbed energy from the environment, but the type of energy they could absorb was naturally limited. Every single one could absorb pure mana, as it was pure, but it helped the most to take in energies aligned with one’s affinity. That’s one of the reasons why the Arachnecs filled their domains with death energy, and why the Life Pool of the Venusians was so full of powerful life energy.
+
+That some energies were more beneficial than others also meant that some could be downright detrimental. For example, living beings who hadn’t specifically adapted to it couldn’t absorb the death energy within the Nest to grow stronger. Even if there were some pure mana in the environment, they couldn’t possibly filter it out and would end up absorbing too much death affinity mana, leading to a very bad time.
+
+The Archweaver had clearly clocked Jake as a life-affinity creature and could also detect that he didn’t use the death affinity, which should by all rights mean that he couldn’t absorb the energy in the atmosphere and benefit from it. Yet he had now just said, in a roundabout way, that he could. Something that required a skill like Palate, where one didn’t directly gain experience from the environment, but gained other benefits.
+
+Hearing that such abilities existed, Jake ended up just nodding, seeing no need to hide it. He also didn’t believe he would be able to in the long run, either.
+
+“I do indeed. I can take in the atmosphere and slowly become more attuned to the concepts I absorb,” Jake said, even giving away some free information.
+
+“Oh? Would you humans happen to have a relation to the Scaled Miresnakes?” the Archweaver asked, now giving Jake some interesting information.
+
+“No, but I’m interested in hearing more,” Jake said with a smile.
+
+“Rather than words, I shall show you. There’s bound to be some at the market. Several of them are part of the Nomads, and as they share this ability of yours, they’re particularly suited to dealing with my kin,” the Archweaver said, motioning for Jake to follow as they fully exited the tunnel hub area.
+
+They came straight into a large cavern with what was effectively a city within it . This was definitely the most open area of the entire Hive, not just physically. Most of the Hive was sealed away by the barriers and was only accessible to Arachnecs, but the same couldn’t be said about this city.
+
+For an undead spider race all about spreading the supremacy of death, there were a surprising number of other species. Granted, most of them did appear to be undead, with several skeletal figures walking around, many belonging to races Jake didn’t recognize, though all of them were naturally undead forms of monsters. Something that in itself confused Jake as he frowned.
+
+“There are a lot of intelligent undead. From my understanding, most undead are without any sapience or even sentience in many cases,” Jake shared his observation, a bit unsure what caused so many seemingly random undead spawns to be intelligent.
+
+“Is that so?” the Archweaver said, looking at Jake curiously. “The norm beyond the Boundary, I assume? While I cannot deny that many undead who naturally spawn are unintelligent, the majority do show sapience. Granted, they are not the same as they were in life, but become something new in death.”
+
+This... was something that went entirely against what Jake knew. Undead were one of those races that, very much like elementals, were generally unintelligent monsters that could be spawned in suitable environments.
+
+Areas filled with death affinity energy would spawn random undead creatures, making use of whatever died there. From what Jake knew, in the first era, there were no intelligent undead at all. They were all mindless creatures that sought only to spread more death, and were seen as a natural calamity in many cases.
+
+That was until the Blightfather stepped in. He created the Risen and affected the very Records of the undead throughout the multiverse. His affinity forged a Path for all undead creatures, which was why many called him the Primordial of Death, the First Lich, or many other such monikers.
+
+Jake, while still following the Archweaver towards these Scaled Miresnakes, closed his eyes and took a moment as he felt for something. He even took a deep breath of the toxic atmosphere and carefully tried to analyze the energy filtered through Palate, and while it was faint, Jake soon felt it. It was unmistakable.
+
+Blight.
+
+The affinity that had given name to the Blightfather.
+
+And an explanation for how undead creatures like the Arachnecs had even come to be in the first place. All intelligent undead had some blight energy within them, without any exceptions. Risen naturally had the most, effectively running on the damn stuff, but these Arachnecs clearly also possessed it. At least the ones referred to as “nobles” by the Archweaver.
+
+As for how the blight affinity had appeared in this world, Jake assumed it had just happened naturally. Wherever there were undead, there was death, and wherever death existed, the Blightfather’s Records would have an effect. The same as how all snakes carried some Records of the Malefic Viper, seeing as he was their Forefather. Or how all plants and even life itself had a faint connection with Yggdrasil. They were simply beings of such immense power that their influence echoed throughout all of existence, leaving marks they weren’t even aware of.
+
+“I see. Our worlds certainly do have some differences,” Jake said, actually finding himself surprised that the Archweaver hadn’t asked him about the outside world at all. Fortunately, the Arachnec instantly told him why it hadn’t.
+
+“Save your words for when we commune with the Nestmother. I will hear your answers to her questions when the time is right,” the Archweaver said, also informing Jake that the leader of this place was something known as the Nestmother. He wondered if this Nestmother was the creature he saw deep below, serving as the caretaker of the growing Arachnecs, but reckoned he would learn soonish.
+
+For now, they had other plans and other creatures to see. Namely, the Scaled Miresnakes, which they soon came upon.
+
+The market had several buildings that were made of stone, and even a few of some odd black wood, but these snakes were in a camp off to the side with several large tents, several of which looked Venusian in design.
+
+At this camp, Jake saw several monsters of the beast variety, which he questioned, given the hostile environment. However, he soon noticed that in the center was what looked like a lantern that radiated an odd white light that created a barrier around the entire camp, warding off the death energy to some extent. It still meant that the monsters couldn’t make use of the environment there, but at least it wouldn’t harm them either.
+
+Approaching the camp, some of the ones within noticed, and Jake saw the utter shock on their faces. Several of them ran over, including a few snakes who didn’t actually run, but more slithered over.
+
+One thing Jake had immediately noticed in this Nest was how different the use of Polymorph was compared to the rest of the multiverse. Most monsters created humanoid forms for themselves; this was done for a variety of reasons, but they all effectively boiled down to making it easier to interact with the enlightened races of the multiverse.
+
+Seeing as there were no enlightened beings in this Minor World, the monsters had never developed this culture, which was how this world had come to have snakes with arms. Yep, they looked like perfectly regular large snakes, each more than eight meters long, except they now had two thin arms on each side. It looked downright bizarre, but looking at the forms of some of the other monsters, it wasn’t that odd.
+
+Jake had naturally guessed these were the Scaled Miresnakes the Archweaver had talked about, and a quick Identify confirmed it.
+
+[Deathscale Miresnake – lvl 401]
+
+He quickly guessed that the term Scaled Miresnakes referred to several variants of Miresnakes, with these having developed the death affinity. Snakes were known to be very adaptable to their environments, so it wasn’t odd to see variants like these. Their scales were pitch black, and their eyes looked entirely hollow with black irisis, save for a white slit down the middle for the pupil. Very creepy, but he also guessed they had some ocular skill based on the feel their gazes gave off.
+
+These snakes, alongside several others in the camp, had hurried over and practically prostrated themselves as the leader of the group, a weird, six-legged, goat-like creature, spoke.
+
+“We greet the lord,” the beast said, infusing his voice with a bit of Willpower, likely to relay intent through it and make himself understandable. “How may we serve you?”
+
+“At ease, Nomads,” the Archweaver said, raising a hand and waving them off. This casual action seemed to make all the B-grades shiver slightly, really hammering home that Archweavers were considered pretty scary amongst the Arachnecs.
+
+“I have come to introduce the Miresnakes to this guest,” the Archweaver said, motioning towards Jake.
+
+Only now did the goat-guy seem to notice Jake was even there, much unlike the five Miresnakes. All of them had been sneaking looks at Jake while trying not to catch the ire of the Arachnec.
+
+The goat-guy looked at Jake for a few moments, definitely confused why the Archweaver had introduced him as a guest, but ultimately, he just nodded. “May I know what the honored guest wishes to talk about?”
+
+“Nothing of any immediate concern. I was just curious when I heard about their ability to absorb energy and digest it to adapt to their environments,” Jake answered casually, making them all stare at him.
+
+“Has the guest never met our kind before?” the one Jake assumed to be the leader of the Miresnakes asked.
+
+“No, this is my first time seeing one,” Jake answered as he shook his head, remaining casual in his response, in part to make them relax despite the hovering Archweaver. However, that’s when Jake was reminded that he’d forgotten something rather important. Something that, outside of his Minor World, wasn’t something anyone would comment on, but that here was quite attention-grabbing.
+
+“But... your ability to speak our tongue...” the Deathscale Miresnake muttered, getting the attention of the goat-guy.
+
+“It spoke ours?”
+
+“Mine too,” another beast said, confused, with several others nodding in agreement.
+
+The Archweaver stared down at Jake with an incredulous look, as Jake had definitely just unintentionally shown off perhaps the most overpowered function of Myriad Tongues in the multiverse. The sheer scale of system-fuckery on display as Jake spoke, and everyone had his words live-translated into whatever their most familiar language was, wasn’t something any regular skill or ability could do.
+
+“Just a small skill of mine,” Jake tried to downplay and remain casual, but he could already feel the Archweaver stare at him, even more curious about his existence than before. Jake still didn’t know whether that was a good or a bad thing.
+
+It certainly didn’t get better when the Miresnake continued staring at Jake before asking in a confused tone:
+
+“Even so, are you sure you’re not related to my kin? Because when I look at you, it makes me feel the same as the time I saw the Great Sea Serpent... no... it’s almost more oppressive...”

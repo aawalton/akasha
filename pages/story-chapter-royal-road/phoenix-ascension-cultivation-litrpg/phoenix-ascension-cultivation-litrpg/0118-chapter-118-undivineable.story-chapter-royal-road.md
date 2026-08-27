@@ -1,0 +1,213 @@
+---
+id: 22ead495-7e69-52c7-8562-c905c37099dc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 118: Undivineable"
+slug: 0118-chapter-118-undivineable
+partOf: phoenix-ascension-cultivation-litrpg
+position: 118
+ownLength: 2128
+unit: words
+publishedAt: 2026-04-25
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3318236/chapter-118-undivineable"
+royalRoadId: "3318236"
+---
+
+After killing the Death Grip Vulture, I went around the forest and hunted all beasts at most five levels above me. That way I had victory assured.
+
+Finally, after finishing suing Blade Wing one last time, I cut the head off a weakened bear-type beast, and got the notification I’ve been waiting for.
+
+[You have levelled up!]
+
+[Elemental Phoenix Heir Lvl 29 has become Elemental Phoenix Heir Lvl 30!]
+
+[Bloodline Skill: Flaming Rebirth has been acquired]
+
+Aaand… That was it? I did get a pretty cool sounding skill, but I was expecting to get the evolution! Wasn’t it every ten levels? What gives!
+
+[Evolutions do not happen every ten levels. The levels between evolutions increases the higher level you have.]
+
+Oh that’s bullshit. Why didn’t you tell me!
+
+[You never asked.]
+
+I’m going to kill you!
+
+[\(”˚☐˚)/ Officer I didn’t do anything!]
+
+What… What officer?
+
+[... Nevermind.]
+
+I let out an exasperated sigh and flew up to sit on a branch. It seemed that the evolution I was waiting for would not come just yet. That was fine, but I wished I’d known in advance.
+
+Taking a quick look inside my bag of holding, I counted all the cored I’d gotten.
+
+Including that of the Death Grip Vulture I’d killed before, there were now ten Spirit Beast cores in my possession, most of which were above level thirty five.
+
+Content with my haul, I let them sit there and decided to inspect my new skill.
+
+[Bloodline Skill: Flaming Rebirth]
+
+[Absorb all the fire energy within an area and a controlled amount from your body and surround yourself with it. The energy will become a protective shell that will protect you for a certain amount of time. At the end of the protection phase, regenerate yourself to the maximum amount of health, and create a giant explosion that deals damage to everything in your surroundings. The effectiveness of the skill depends on the user’s fire affinity and intelligence.]
+
+That was a very interesting skill to say the least. Very on brand for a Phoenix, which begs the immediate question…
+
+Why had Mother not used it?
+
+[She didn’t have the skill.]
+
+System replied, and though its voice was mechanic, I swore I could find some hint on emotion.
+
+[Certain skills are rare enough that even a high-leveled Spirit Beast cannot get them. This one is one such skill.]
+
+[And besides, that skill does not make the difference between friend or foe unless she had those order skills, which she didn’t.]
+
+[Your path is very different from your mother’s already.]
+
+I see…
+
+So even if she had it she would not have used it anyway.
+
+Letting out a sigh, I waved off all the notifications. I didn’t have time to wallow about the past. Considering the time, the full moon would come soon. It was really hard to believe that I’d done so many things in less than a month, and it was alread time to say goodbye to the Hu village.
+
+I flew back toward it for the moment and changed into my human form using Perfect Disguise, the tunic morphing perfectly around my body. I also changed into the appropriate clothing, since wearing nothing was a little too embarrassing.
+
+I draped the hanfu over the armor since it was most convenient, and walked through the gate. The village was about as lively as ever, with more cultivaotrs than usual roaming the streets as usual.
+
+I wondered what in the world was happening, but I was pretty sure one of the people waiting for me to return would give me a good explanation.
+
+Speaking of, I was wondering which ones to visit next.
+
+Shang Hue was definitely out of the question, since I barely knew her. She came from a rich family as well, so it was hard to interact with her. And to be honest, she also freaked me out a little.
+
+The siblings were better left alone for now, if they even decided to stay in the village.
+
+Naturally, the best choice was Xing Ya Chen, so I headed toward the Myriad Pavillion to ask what was happening. The road there was surprisingly filled with cultivators, their power ranging from low Qi Condensation to high Foundation Establishment. There were even some Core Formation cultivators, but they only made up one percent of the total numbers of cultivators.
+
+Making my way through them, I caught some glancing my way for far too long, but forgave them. I was in a hurry and frankly that really warrant my attention.
+
+Entering the market itself, I was surprised to find even more cultivators.
+
+Did every cultivator in the area come here??
+
+I struggled to get to the floor where the Heavenly Pill Pavillion was located, and when I got there, it was to my surprise to find a peak Core Formation cultivator just loitering around. He was an old man with more white hairs in his beard than I had orange on my head.
+
+He was currently looking at the pills and other alchemical resources in the pavilion with interest, and the poor Xing Ya Chen was sitting behind the counter, almost shivering.
+
+His eyes widened when he spotted me, and a smile appeared on his lips. The old man noticed the sudden change and looked at me as well, and in that moment I only wanted to leave the way I came from and never look back.
+
+However, I couldn’t just ignore him now, so my only choice was to do what I’d originally gone there to do, but with more steps.
+
+“Miss Xiaolan!” Xing Ya Chen walked forward and bowed respectfully, and I gave him a courteous nod. Then I looked toward the old man and bowed, since he was older and stronger than me.
+
+“I am Fa Xiaolan. With whom do I have the pleasure of making acquitances with.”
+
+“Ho, ho. A young’un like you that’s also respectful is hard to see around these parts. This one’s name is Ming Laotian, an elder from a village a few ways away from here.”
+
+*Never heard of him...
+
+"It's a pleasure to meet you, Senior Ming. I can't say I've heard of your prestigious name but I myself am a new arrival here."
+
+"Oh?" He raised an eyebrow. "Hmm, new arrival, red hair, and a woman. Say girl, do you do alchemy as well?"
+
+"I-" I was about to reply, but Xing Ya Chen gave me a scared look. However, it seemed that my hesitation was enough of an answer for the old man.
+
+"Ah, so you're an alchemist. Are you the one that concoted those pills that will be sold at the auction today?"
+
+So that's what this is about...
+
+"I... Yes. It was me."
+
+"Ohoho, wonderful. I was eager to meet their creator. I haven't had the chance to see them myself, but the rumors were so interesting even an old man like me had to participate."
+
+"What rumors exactly?"
+
+How did rumors even spread about me?
+
+"That the pills created by this alchemist were worth a fortune, and that somehow this small old Hu Village were the ones to auction them off. The comission they would get would probably be worth a good percentage of their total net worth.
+
+"They refused to say who was the alchemist, but they had a slip of the tongue when advertising and revleaed that it was a woman. Now the orange hair was just an assumption from me.
+
+"And if you're curious to know why, it's because they used the pill that they tested as proof. Since it was less valuable bcause it'd been slightly damaged, they were willing to take the risk.
+
+"When I first say it, I sensed a very rich and intense Fire Qi emanating off of it. Cultivators with high fire affinity had red hair and crimson eyes, and you just so happen to have both.
+
+"With you saying you just arrived, which only made sense considering where we were, then the deduction was pretty obvious."
+
+He took a small break, then ran a hand through his beard and started chuckling.
+
+"Of course, that's just a theory, but I am ninety nine percent sure you were the alchesmist, so all I had to do was ask."
+
+I stared at him, stunned.
+
+What sort of fucking monster is this old man?
+
+"Senior Ming Laotian comes from the presitigous Ming Clan of the Emeral Grotta City. Their clan is known for their investigation methods, and it is said that they can divine the fate of the heavens themselves with a high enough cultivation."
+
+"Hohoho, Junior Xing Ya Chen is almost right. Unfortunately one cannot divine the fate of the heavens, since they are above all."
+
+I barely held in a scoff at that. I knew better than to show disrespect toward the heavens in front of another cultivator, but it was still funny hearing that.
+
+It merely showed how narrow minded these people were.
+
+Nevertheless, I smiled. "It is a great honor to meet senior Ming Laotian. I will make sure to remember your prestigious name, and may Heaven give you a long life."
+
+"Hohoh, thank you, young lass. Now, I suppose you came here looking for this young lad?"
+
+I nodded. "I'd originally come to ask him a question, but I have my answer now."
+
+"That's good then. I'll leave the two of you alone, since I haven't yet had the chance to visit the city yet."
+
+With that, he disappeared. Surpsingly enough, ther weren't that many cultivators on that floor, and most didn't even pay attention to that old man.
+
+"Miss Xiaolan-"
+
+"It's already the time for pills to get auctioned?" I cut him off, but he didn't seem to mind.
+
+"Yes. It's the last day of the Yearly Auction and it gathered a lot of people. We had to move the venue outside otherwise we could scarecly fit one third of the cultivators."
+
+"I see."
+
+That was good, since that meant I would get a lot more Spirit Stones than anticipated. I wasn't expecting to become such a rich bird in this little Hu Village, but life found a way I supposed.
+
+I wasn't planning on staying and watching though, since tonight would be the full moon.
+
+With so many cultivators around, I had no doubt that some of them had come because of Meng Mao's message. The added challange was unwelcome, as I wanted to get it over with quick.
+
+Seriously, he could have just asked for a duel.
+
+It was too late for regrets, though. If I failed to get the flower this time around, I would just buy it. It wasn't like I could concot the elixir right now, since I needed a lot of materials and ingredients.
+
+Seriously, just what did I agree to?
+
+Speaking of Yo Na, I hoped she found a better way to store her baby than inside my dantian. Something told me that he didn't mind sleeping in there, though, I wasn't sure why.
+
+Anyway, I was going to pay her a visit later. Right now I had to get ready for the last
+
+***
+
+Ming Laotian made his way through the Myriad Market. Nobody seemed to be noticing him as he expertely manuevered by the crowds, and finally escaped into the streets.
+
+He wasn't walking too fast, nor was he walking too slow. However, his speed was both at the same time. If any outside were to see him, they would only see a small old man strolling by.
+
+Finally, he reached a house and made a few hand signs, opening the door and closing it as swiftly right as he entered.
+
+The room he found himself in was far more spacious than what the outside of the house indicated, showing a clear understanding of the Space Dao.
+
+Wether or not the room was already there, though, it was hard to tell.
+
+He hurriedly sat down at a table and pulled out a few objects, amongst which was a mirror plated with gold.
+
+Ming Laotian set it down in the center of the table and surrounded with with various treasures, such as crystals and herbs.
+
+His fingers started moving in an intense fashion, making hundreds of hand signs a minute. The old man's voice whispered through the room as Qi moved according to his will.
+
+Finally, his eyes opened wide and he pointed two fingers at the mirror.
+
+Inside the reflection appeared the image of a beautiful woman with red hair and crimson eyes, smiling playfully at him. He looked at it with curiosity and expectation, but just as he was about to peer deeper inside her secrets...
+
+The mirror cracked!
+
+He flew back, falling together with his chair, and whispered to himself a fearful tone.
+
+"Undivineable existence..."

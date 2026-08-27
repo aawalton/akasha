@@ -1,0 +1,199 @@
+---
+id: 08799a79-9ad5-5179-9958-a267c8f1c5b4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 127: Settling"
+slug: 0127-chapter-127-settling
+partOf: phoenix-ascension-cultivation-litrpg
+position: 127
+ownLength: 2486
+unit: words
+publishedAt: 2026-05-17
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3406361/chapter-127-settling"
+royalRoadId: "3406361"
+---
+
+Peng Li sat in meditation at the top of the Fifth Finger Tower. His crossed legs shook as he whispered strange words in a foreign language. The Qi moved in accordance with his will, gathering around his dantian in a spherical shape.
+
+He hadn’t absorbed it yet, as those that cultivated his technique could not absorb pure Qi. Instead, it needed to be transformed, shaped and changed to fit the cultivator’s body. Waving his the cork of a bottle sat atop a table popped open, and out of it flowed a dark stream of energy.
+
+Following his command, it flowed into the Qi, tainting it and turning it dark. After the substance had been integrated with the pure Qi, only then did Peng Li will it toward his meridians, and absorbed it into his dantian.
+
+The walls of his inner world shook as a dark, bubbling lake situated in the center grew larger. The pressure emanating off of it made it so the walls showed signs of cracking, and the more tainted Qi he absorbed, the more painful the sensation was.
+
+In the real world, veins bulged on his reddened face, blood seeping out of his seven orificies. It was the crucial moment that would decide his next steps. If he failed breaking through into the ninth layer of Qi Condensation, then he would need to heal for a period of time, which would put him behind his peers.
+
+If he succeeded, however, he could follow the path his grandfather, the Patriach of the Reaper Sect, laid out for him. However, that all depended on wether or not he could endure the torturous process.
+
+Fragmented whispers escaped his lips as they moved faster and faster, the swirling Qi in front of his stomach growing thinner. Soon, all the dark, tainted energy entered his body, and was now fighting to escape.
+
+The pressure in his dantian reflected on the outside, with his muscles bulging and a dark liquid seeping out of his skin alongside blood.
+
+Gritting his teeth, Peng Li struggled to breathe, but using the technique his grandfather taught him, he managed to hold on, not passing out.
+
+In the inner world, his walls already had spiderweb-like cracks all around, and all they needed was one final push. It came from the outside, Peng Li’s hand moving to his bag of holding, taking out a pill after a few moments of having touched it.
+
+He cursed himself for not taking it out earlier.
+
+Finally, with an herculean effort, he pushed the pill between his lips. The Qi Condensation Pill instantly melted in his mouth, the pure energy rushing through his meridians, cleansing them and pushing out the tainted Qi though his pores.
+
+When it finally reached his meridian, the energy from the pill made its way into the lake, causing it to bubble even more wildly than before. Soon, the bubbling turned to boiling, and the pure Qi exploded out from the middle of the dark lake like a geyser.
+
+That was the last straw that caused his walls to break, and as they did, his inner world expanded.
+
+The lake grew larged, and as the Qi from the pill cycled through his body, clearer. All the tainted energy he’d gathered up until that point began gushing out of him like a waterfall.
+
+His eyes, nose, mouth, and pores bled with the dark good, staining his clothes and spreading an awful retch into the air.
+
+However, he couldn’t care less.
+
+Peng Li had endured for many long years, and he’d finally done it.
+
+He’d reached the ninth layer of Qi Condensation using the Grim Reaper Cultivation Technique. It was a technique developed by his ancestors, which required building up tainted Qi. The reason was simple - Fortify his meridians, fortify his dantian, fortify his muscles, bones and body.
+
+He hated that damned technique. Every moment of his life had been filled with pain ever since he started practicing it. His Qi was muddled, it didn’t flow right, it barely listened to him. Techniques only successfully activated two out of ten times, and even cultivating by itself was a very painful, sluggish endeavor.
+
+Yet, Peng Li endured, because his grandfather reassured him that it was for his own good. He’d never believed the old man, but he didn’t really have any choice except to do as he was told.
+
+In that moment, though, covered in stinky dark goo and blood, Peng Li had felt the most alive since he started cultivating.
+
+He called upon the Qi in his dantian, and it listened. He performed a series of hand signs and threw his palm forward. The Qi flowed out through his meridians, gliding like melted butter and reaching the end of his palm, where it became a powerful Qi Blast attack.
+
+Peng Li couldn’t help himself but smile, happy, accomplished. The Qi listened, it flowed perfectly, and he finally left alive.
+
+However, he quickly composed himself, because he knew that this was only the beginning.
+
+Next up was the Four Corner Sword Realm, the most sought after and limited Secret Realm in the area of Golden Arch City.
+
+***
+
+One would think entering one of the biggest cities in the area as a Phoenix would be difficult. But no, as it turned out all one needed was a giant golden cage that sealed off any inspection skills from the outside, and my aura inside.
+
+Was it humiliating? Yes.
+
+Was I still fat from Overeater? Also yes.
+
+But at the very least we didn’t attract that much attention… Is what I would have said if we actually hadn’t. As it turned out, a giant bird in a giant cage would attract plenty of gazes, not to mention who it was that got me inside the city.
+
+Still, it wasn’t the worst of fates, really. At least we passed through the city quickly, and headed toward his manor.
+
+That meant I couldn’t get a good look at the surroundings, though. Using my Divine Sense and, well, eyes, I could see some of the bigger attractions.
+
+A giant pagoda here, a giant pagoda there, a river coursing through the middle of the city, plenty of tall, fancy looking buildings. It was basically what I imagined a city to look like. In comparison to the Hu Village, this place was pure luxury.
+
+The people were dressed very well too. Hanfus made out of silk and cotton, golden embroidery and ornamental jewlery that cost more than the entire village combined. Cultivators also littered the street, with Qi Condensation and Foundation Establishment ones being the most common, with the odd Core Formation one here and there.
+
+I could not fully feel their aura, but I could more or less guess based on the level. That couldn’t be that accurate of a gauge, but better than nothing.
+
+Their probing glances didn’t escape me either, but they couldn’t feel squat because of the cage. What a coincidence it was that he had it on hand…
+
+Yeah, he was definitely enjoying this.
+
+The thing that shocked me the most about the city was its name sake. ‘Golden Arch’, I never understood that, but I supposed I did now.
+
+Because it was really hard to miss the giant Golden Arch welcoming you into the city. It was gigantic, and not only was it gigantic, it also had people in it.
+
+As it turned out, the Golden Arch was a giant building.
+
+“Pretty impressive, isn’t it?” Meng Mao caught me staring, and I could only nod. “It’s actually made out of pure gold, periodically reinforced with Qi. It’s used as a giant marked. That’s where this city’s branch of the Myriad Market is located as well. Each floor of the thing can house about six to eight shops of various sizes. It’s truly giant vanity symbol to show the surroundings just how rich we are, even though gold is worthless.”
+
+I nodded, honestly impressed by the whole thing.
+
+After passing by and witnessing its imposing height close up, we made our way toward’s Meng Mao’s house.
+
+Or rather, castle. Apparently Meng Mao was so loaded that he had a giant house in the north side of the city. It had three floors and spanned about two of Mother in length. There was an impressive lack of walls, save for a long bush of sorts.
+
+However, that didn’t mean the place wasn’t secured. In fact, judging by all the inscriptions on the ground and hidden talismans, this building was probably the safest place in the entire city.
+
+When we entered, a certain sense passed by me, a threatening aura descending upon me for a second. It took Meng Mao two finger movements to stop whatever was happening from happening, and we could safely enter the house.
+
+The doors opened by themselves, at least I thought so initially before seeing two identical butlers holding them open. I gave them a good long stare, just to make sure that they were twins.
+
+They were, indeed.
+
+“Welcome home, Master Meng.” They said in unison, their voices not sounding a year past fifty.
+
+Giving them a quick scan, I looked at their levels.
+
+[Yu Pei, Lvl 40 Cultivator]
+
+[Yu Ming, Lvl 40 Cultivator]
+
+Yep, twins. The same level as Yo Na as well, so they must be strong. Considering Meng Mao is level forty five, then these two must not be so far off.
+
+I couldn’t help but wonder what a level one hundred human looked like. Just imagining what a level one hundred Spirit Beast was like seemed scary, in all honesty.
+
+I was but a level thirty bird, a mythical bird, but bird nonetheless.
+
+The two butlers didn’t as much as give me a glance. They closed the door behind us and followed us inside.
+
+Meng Mao walked at a casual pace, allowing me to take a good look at his decorum.
+
+The hallway had minimal anything, really. There were no paintings, no plants, no chandeliers. It was a big waste of space if you asked me.
+
+Still, light was plentiful and the red carpet looked comfortable.
+
+“Can you let me out now?” I asked out loud. The two butlers paused in unison for the briefest of moments before returning to normal.
+
+“Soon. And I do apologise for the cage, but I needed the people to see me bring you in.”
+
+“Sure, sure.” I rolled my eyes and sat down. I could have broken out any time I wanted, it wasn’t hard, but forcing him to carry me was kinda nice in its own way.
+
+A sort of petty revenge, if you will.
+
+With that in mind, though, I figured it was best to put my priorities in order while he was carrying me to who knew where.
+
+First, steal whatever he wants to me to grab, and the Qilin Horn, then absorb the Qilin Horn. Second, I would like to get some good dirt, some proper dirt for my nice seed so I can break into Foundation Establishment realm.
+
+Third, get my money and buy the ingredients I need for Yo Na’s elixir, and refine it after breaking through.
+
+Fourth… maybe look for more of the ‘Lone Cultivator’ equipment. I’d forgotten, but the tunic was actually wrapped around my bird body. Maybe that was why we got so many stares…
+
+Anyway, that was only optional. My priority after dealing with Yo Na’s request would be to keep moving south to find Father, wherever he was. Maybe that dragon guy knew something. What did he say his group was called? Tiger Spirit Alliance?
+
+What a pompous name…
+
+Either of those options were good.
+
+I felt my cage rattle, and when I awoke from my thoughts, I saw that Meng Mao put me down and opened the door. I walked out into a beautiful room, actually decorated that time around.
+
+Looking around, it was clear that it was a bedroom of sorts, with a big, comfy-looking bed, writing desk, chandelier for light, a dressing, and other things that were useless to me.
+
+“You can stay here while we wait. The man I want you to rob is going to throw a party for his grand daughter, and what better time to give her such a perfect gift as yourself?”
+
+Party, gift?
+
+“Don’t look at me like that.” Meng Mao said as I glared at him. “It will work out fine for the two of us, alright?”
+
+I scoffed and kicked off my feet, jumping up and onto the bed. I didn’t say anything either, but started preening myself. My feathers needed to be in the best of conditions in order to be a so called gift.
+
+They were really pretty, too. The ones at the end of my tail were a little ghastly, but otherwise fine. Usually I would try to cover them up with Qi, but that wasn’t needed anymore.
+
+Meng Mao gave them a glance as well, but didn’t comment.
+
+I was hoping they were going to return to normal, but so far nothing like that has happened. Well, on a closer look, something did change. From the few feathers I had, most were grey and translucent, but one took on a red-orange hue, much like all the others, while another became slightly blue. There was one with a hint of purple into the mix.
+
+My best guess was that each color represented an element I had, which wasn’t exactly optimal if I didn’t want my enemies to know.
+
+Ah well, something to worry about later.
+
+With everything done, and after flying for so long, I was feeling a little tired.
+
+Taking advantage of the comfortable bed, I tucked my wings in and got into a comfortable position, and slept on the spot.
+
+The bed was really comfortable and warm.
+
+***
+
+Ye Mo took a sniff of the air, his nose twitching.
+
+The forest was quiet, and the wind didn’t tell him anything he wanted to know. Some people cut wood, and some others left.
+
+That was normal, since the auction had ended, and there was no point to people staying in the small village anymore.
+
+As for himself, he was ashamed to say that he’d temporarily lost track of the Phoenix. He would need to perform a powerful divination in order to find it, and get a sense of direction.
+
+He didn’t know why, but any and all signs of it had disappeared out of nowhere, and he found that rather annoying. His goal was to find it, grab it, and bring it back. This task of his had already taken too long, and his Lord surely wouldn’t be happy.
+
+Clicking his tongue, he looked toward the place where the Moon Bloom was a few nights ago, and got a strange feeling about it. The wind there was weird, and a faint aura of Death emanated from  it.
+
+Left with no other choice, he headed there, seeking to know more.

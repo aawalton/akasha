@@ -1,0 +1,117 @@
+---
+id: af244952-3e04-59a9-aea9-1b40de8e5e0f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1310 - Stuck In The Middle"
+slug: 0184-chapter-1310-stuck-in-the-middle
+partOf: the-primal-hunter
+position: 184
+ownLength: 2637
+unit: words
+publishedAt: 2026-05-12
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3386728/chapter-1310-stuck-in-the-middle"
+royalRoadId: "3386728"
+---
+
+Jake was a bit surprised at hearing these words, as he raised an eyebrow. He had not expected the Arachnecs to willingly allow him to leave the protection of the Nest and get dropped right in the middle of bickering A-grades.
+
+Well, it turns out his expectations were entirely correct, as that indeed wasn’t the plan. The Archweaver waved his hands as a bubble of magic appeared, and at the same time, he saw the Nestmother above also weave a magic circle that synchronized with the B-grades. So, yeah, it seemed Jake was going to drop in remotely.
+
+“Step within this zone, and your senses shall be projected to above the Nest, where-“
+
+“I get the gist of it,” Jake shrugged, not seeing the need for a long explanation. “They have reached an impasse in whatever negotiations they’re doing and decided to bring me into the mix.”
+
+It really wasn’t that hard to figure out based on what Villy had said and how he’d seen them act through his Sphere of Perception. He did wonder why they were in such a hurry to have him step forward, but perhaps time wasn’t really on anyone’s side here.
+
+The Arachnecs perhaps feared that more Venusians were coming, and while space had been locked down, that didn’t mean more Arachnecs weren’t on the way to the Nest at this very moment.
+
+Additionally, these were not the only two forces in this Minor World. While the Nomads appeared neutral, Jake wouldn’t be surprised if they also had some powerhouses who wanted to get involved, not to mention the solitary, powerful figures, such as the Great Sea Serpent or the super Bog Lord the Shaman had briefly talked about. If they heard that a chance to enter the world beyond the Boundary had appeared, they would certainly also rush to the Nest.
+
+Delaying reaching any kind of conclusion wouldn’t be beneficial to either the Venusians or Arachnecs, and from what Jake had gathered, the most important thing for both remained to find a way beyond the Boundary. Their desire to accomplish this goal seemed to border on obsession, leading Jake to believe there was more to it than a mere desire to explore the outside world. It was also a little odd that so many A-grades had appeared, including some peak A-grades, yet no S-grade had ever appeared. Shit, based on everything, Jake didn’t even believe they knew the term S-grade.
+
+Jake watched the bubble that would project him to the outside world for a few moments before stepping onto it. When he got inside, he felt as if he had stepped into another world, as he appeared in the world above, surrounded by powerful A-grades.
+
+It was a bit unfortunate that Jake couldn’t feel their auras, as his form was just projected, but he could still tell that the Venusian carrying a large cleaver was the strongest. His posture was full of arrogance and confidence, as if nothing present could possibly threaten him.
+
+“So that’s the human, huh?” this large, armored Venusian with two small horns on its head asked.
+
+The Oracle exchanged a look with one of the thin frog variants nearby before she looked towards Jake.
+
+“When did you meet my disciple first?” the Oracle asked, making Jake momentarily confused until he understood.
+
+Trying to see if I’m actually me or some illusion.
+
+“I met the Shaman when he and his comrades were fighting a Boglord,” Jake answered, gladly confirming he was indeed himself. “Something you also asked about when we first met you inside the Venusian Village.”
+
+The Oracle nodded along before asking one more clarifying question. “What did you say this world was classified as from your perspective?”
+
+“A Minor World,” Jake answered, his response definitely getting reactions from the other A-grades, perhaps because they found the term insulting. Something Jake quickly addressed. “Minor, as in small. Which it truly is compared to what lies beyond the Boundary. Which is what we’re here to talk about, right?”
+
+Rather than beating around the bush, Jake cut to the chase immediately, thinking that he had more than confirmed his identity already. At least the Oracle had given an affirming nod to the other Venusians after Jake had answered.
+
+The horned Venusian looked at Jake for a moment before he let out a loud laugh. Once he was done, he looked directly at the projected Jake. “You’re quite straightforward. Surprisingly so for someone in your situation.”
+
+Jake raised an eyebrow at that comment, also a bit confused why the frog wasn’t just going along with Jake getting to the point. “And what exactly is my situation right now?”
+
+“You’re one of the living, so how could you willingly dwell among the dead? We know you’re a prisoner of the Arachnec, no matter the term they fallaciously use to describe your current circumstances. That’s also why you’re not truly here, but just being a projection from within your cell,” the horned A-grade scoffed, Jake finally getting what he was trying to do.
+
+He wanted to establish that of the two factions, Jake belonged more to the Venusians, and that since he had been effectively kidnapped, the Arachnecs should “free him” if they wanted to even start negotiating. Of course, they were more likely than not going to reject this, but if Jake started raising a fuss and the Arachnecs eventually ended up killing him, the Venusians would benefit far more than the undead spiders. They were the ones who had him right now, and they were the ones that they believed outside factions would seek revenge on.
+
+Despite his rough appearance, the horned frog had a nice noggin in there, assuming Jake was correct.
+
+“He truly is a guest, and we are simply keeping him safe from this invasion,” the Nestmother said in a dismissive tone. “We did not force him to come here, and he has shown much interest so far in our people. It’s also only a given that he will have to be closely watched within our domain. As you know, our soldiers are not known for their intelligence, so it’s safest to keep one of our nobles with him. If any of that has been interpreted as limiting his freedom, that’s naturally a misunderstanding.”
+
+The bullshittery was strong with this one. Had they technically never said Jake was a prisoner? Sure, but the Archweaver had not-so-subtly hinted that his decision to follow or not wasn’t truly a choice. Even if he had “willingly” followed the Arachnec back to the Nest, it had definitely been under duress.
+
+“I’m genuinely impressed with your ability to spew out something so profoundly fallacious with a straight face,” the Oracle decided to butt in. “Are you telling me that if he’d said no to the Archweaver you sent after him, the human would simply have been allowed to leave, no questions asked?”
+
+“No, of course not,” the Nestmother said with a smile. “We would have at least needed to know why an Envoy from the world beyond invaded our territory and hunted down my kin alongside Venusians. Hundreds of my kin. When we concluded he had been misled into helping them to kill my kind, our investigation would have naturally ended. Fortunately, he was willing to come here as a guest and not as a subject under investigation.”
+
+So, the Arachnec’s strategy was to pin the blame for Jake being here in the Nest on the Venusians. Which, technically, they were. Jake had asked the Shaman about anything to hunt in this Minor World, and the frog had pointed Jake at the Arachnecs, while he could certainly have chosen many other monsters. The sole reason he’d chosen the Arachnecs was that the Venusians loved any situation that included slaying Arachnecs.
+
+“Or are you about to tell me that it was he who wanted to hunt down my kind in the first place?” the Nestmother continued. “Because I have a difficult time seeing why he would have any hostility towards my kind. From what I understand, he doesn’t even have an innate hatred of the undead.”
+
+“How about we actually let the human speak?” the Oracle said, looking towards Jake with the hope that he would confirm that he hated the undead. Something he gladly pleaded ignorance to having realized.
+
+“I’m not entirely sure what you want me to say,” Jake shrugged. “I’ve already told both sides I entered this world on a casual exploration trip with no real goal. No real knowledge of what this world held. I still don’t, for the most part, but I can say I’m learning a lot right now.”
+
+If Jake had to choose a side, he was still more partial to the Venusians right now, primarily because he liked the Shaman and thought frog people were more interesting than nasty undead spiders, but he had no real hatred for either. He found himself feeling very neutral between the two factions, something he wanted to communicate very openly. In part to avoid pissing off either side, and in part because that was how he really felt.
+
+“Hey, do clarify, what do you think about the undead?” the horned Venusian asked, glaring at Jake suspiciously.
+
+“No particular feelings,” Jake said, gladly meeting the eyes of the powerful A-grade. “In the world beyond the Boundary, undead are not that rare, and I even have a few friends who are undead. Not Arachnecs, mind you; this is my first time encountering that race. As a general rule, I don’t judge individuals based on the race they belong to, but on who they are and sometimes the actions of their faction.”
+
+Jake added the last part as a bit of a veiled threat, though he still wanted to put emphasis on mainly judging individuals. He felt that based on how everyone treated him, and how they all wanted something from him, he at least had enough leverage not to be pushed around.
+
+He also didn’t like being treated like some kind of prize for whatever faction won this verbal spat to claim. These A-grades clearly viewed Jake as some magical key that would allow them to enter the rest of the multiverse.
+
+It was arrogant to say, but wasn’t the truth here that Jake held all the power? Sure, in terms of raw power, they could all easily crush Jake, but doing so would mean they would fail to achieve their goals. His death would be a loss to everyone. So he only had to make sure he didn’t piss off someone enough to lose their cool and kill him, and fortunately, A-grades were long-lived individuals who he seriously doubted were impulsive enough to randomly lash out.
+
+“Even if you find yourself feeling neutral towards the Arachnec, as a part of the living, are you even able to stay within their territory for extended periods?” the Oracle asked, her voice sounding full of concern. “At the very least, it must be problematic, as going by the affinities you’ve displayed so far, it’s no place for your personal growth.”
+
+Jake was reminded yet again that this world was not familiar with the existence of Enlightened races, which made this a pretty good point. Jake shouldn’t be able to absorb the energy within the Nest to refine and grow, as he wasn’t a death-affinity creature.
+
+Even the Nomads he saw within were unable to make use of the environment, and they even made zones that protected them from the dense death mana within. The Deathscale Miresnakes were living beings cultivating the energy of death, but Jake definitely wasn’t... because as a human, he couldn’t absorb environmental energy and grow from it in the first place.
+
+“I’m more than capable of staying within indefinitely if I wanted to,” Jake nodded, seeing disappointment on the Oracle’s face as he continued before allowing her to fully conclude he’d taken the Arachnec’s side. “However, it is true that staying within would hinder my progress.”
+
+Staying trapped anywhere for too long would hinder Jake’s progress, as he would eventually run out of prey. Unless he stayed to do alchemy, but even then, being confined would mean missing system events and whatnot, which would definitely hinder progress, making his words totally truthful.
+
+Which was probably a good idea, based on how the frog next to the Oracle looked at him. He could subtly feel it, but something affected his real body down within the Nest through his projection. It came from that thin frog who seemed to have quite a high position within Venusian society, and if Jake wasn’t wrong, it was some kind of lie-detector skill.
+
+It was definitely impressive that it worked despite being used only on a projection of the real Jake. If he wasn’t wrong, it carried traits of karmic magic, once more showing that these natives of the Minor World were pretty talented and had some interesting magic up their sleeves.
+
+Oh, and for the record, Jake purposefully didn’t resist the frog using his magic, allowing it to pass through Shroud. Being immune would have raised some flags for sure, and he wanted to reserve the right to reactivate the skill if he really had to hide something important while still making the frog think he was probably telling the truth.
+
+He did wonder why the Oracle had bothered with the prior questions to confirm his identity, though. If she could have just asked Jake if he was the real him and had the frog confirm it, why didn’t they do that? His best guess was that the Arachnecs didn’t know this skill worked even on projections, so they wanted to keep that part hidden from the undead spiders.
+
+It was honestly exhausting being trapped between these two factions with so much hatred between them. This definitely wasn’t the first or the last time they had been in a situation like this, and Jake could tell that both sides wanted to just slaughter the other and were struggling to hold themselves back. Especially the horned frog looked ready to pounce at a moment’s notice. Still, he kept calm and spoke again.
+
+“And there you have it,” the frog said, pointing his large cleaver towards the Nestmother. “Let’s say we agree he’s indeed your guest. We don’t, but let’s act as if we do. If that is the case, once his tour is over and he’s done exploring your little Nest, he’ll surely want to leave and go somewhere where the environment doesn’t actively suppress his growth. Perhaps he could even visit the Ancestral Village. We have many places there that would certainly suit him very nicely.”
+
+The Nestmother looked at the horned frog with narrowed eyes. “That sounds perfectly fine, and we’ll reach out when his visit is over, so you can come and escort him back to your village, if that’s what he wants. Now, with everything settled, how about you return since your purpose for being here is over?”
+
+“Certainly, the Nest cannot have that many interesting places to explore, and as we’re already there, wouldn’t it be easier if he just came with us now?” the horned frog said with a smile. “Actually, why are we even discussing this? Let’s ask him.”
+
+The frog turned towards Jake and looked straight at him. “What do you want to do? Stay here in the Nest with these Arachnecs or come with us back to the Ancestral Village and meet with the Circle?”
+
+Jake felt all eyes turn to him, and even the Archweaver observed his actual body as Jake really felt put in the spot, stuck in the middle between two powerful factions. He knew that if he agreed with either side, he would piss someone off, and as a B-grade surrounded by A-grades, that definitely wouldn’t translate into having a good time.

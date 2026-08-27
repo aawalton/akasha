@@ -1,0 +1,439 @@
+---
+id: c833a48b-a079-59a8-9b64-3c12c3749f26
+page-type-slug: story-chapter-royal-road
+title: "SEVENTEEN: Boe, Part Two"
+slug: 0017-seventeen-boe-part-two
+partOf: super-supportive
+position: 17
+ownLength: 5029
+unit: words
+publishedAt: 2023-02-22
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1120008/seventeen-boe-part-two"
+royalRoadId: "1120008"
+---
+
+Boe, Part Two
+
+“You’re really skipping school for this?” Alden asked as Boe dragged a chair noisily across the tile floor toward his table.
+
+Over the past hour, the bakery had filled with customers, and there was a steady buzz of conversation. Everyone seemed to be buying gooey, buttery cinnamon rolls the size of Alden’s head, and he was trying not to resent them for it.
+
+“It’s no biggie. My GPA’s so bloated from all the advanced classes they’d have to fail me for a week straight before I even noticed.”
+
+Boe tossed his ugly knitted scarf and a new, even uglier, knitted hat onto the table.
+
+“Well, if we’re both cutting should we call Jeremy? He’ll feel left out.”
+
+“No,” Boe said. “He actually has parents who care about what he does. It’ll upset them if we turn him into a truant.”
+
+That was depressingly true.
+
+Aunt Connie was Aunt Connie. If Alden dropped out of high school, she would be upset, but it would probably take her several weeks to notice it had happened.
+
+And Boe’s parents were chronically checked out. Alden had only been over to his house a few times when they were younger, and his father and mother had just sat staring at the tv for hours on end. Twelve-year-old Boe was the one who usually cooked meals and cleaned the house. It was an uncomfortable dynamic.
+
+On the other hand, Jeremy’s parents weren’t quite helicopters, but they did regular family pancake breakfasts and came to take pictures of him and his older sister at every school event.
+
+“This place has a nice vibe,” Boe noted as he sat down with a coffee. “Hipster, but everyone’s minding their own business. We should be good to talk here if we keep it quiet. So you got Chainer, then? What rank?”
+
+Alden frowned at him. “You know, I wasn’t expecting you to be amazed or anything. But, you’re being weirdly nonchalant about this. Except for the fact that you’re apparently worried about phone tapping like we’re in a spy movie.”
+
+Boe shoved his glasses up on his nose, and then, in a deadpan voice, he said, “Oh my God, Alden. You’re the chosen one. Can I have your autograph to show my grandchildren one day?”
+
+“Jeez, I should have told Jeremy first. You’re such a buzzkill.”
+
+Boe rolled his eyes.
+
+But, in a slightly apologetic tone, he added, “You’re right. Sorry I’m the rain at the parade. It’s just that I am surprised, and I don’t deal with sudden changes well. And I’m a little pissed that you’re probably going to run off to superhero land and leave me behind here.” He smiled bitterly. “I don’t know if you’ve noticed, but I’m not great at making new friends.”
+
+Alden squirmed in his seat. “It’s not like we’ll never see each other again. I’ll call and bother you all the time. You’ll get sick of hearing from me.”
+
+“Everyone says things like that, but it never works out in the end.” Boe stared down at the coils of his scarf, and cleared his throat. “Anyway, you have to give me the details. I’ll have you know that my own childhood superhero obsession was epic, embarrassing, and not that long ago. You can’t just keep all the good parts to yourself.”
+
+Alden smiled. “Well, like all the best origin stories, mine started in the bathroom of a public high school…”
+
+They talked quietly until the bakery people started glaring at them for taking up a table. Then, they moved their conversation to the streets.
+
+“So you woke up early enough to steal Chainer right out from under the nose of some jerk in North Dakota. Nice. And lucky. Maybe lucky enough to make up for your shitty ranking.”
+
+“Stop calling it that. It’s top 15%. It’s solid.”
+
+“Solid if you wanted to be something normal. But you want to be an unpopular type of superhero. You’ve already limited your options a lot by deciding on that. Major cities don’t pay for solo sidekicks, and they aren’t big on paying for pre-made pairs or teams. Throw the B-rank in, and you just look like a PR nightmare.”
+
+“Rude.”
+
+“Honest. Governments are cowards. They don’t like new ideas. The State of Illinois may have said it supported Hannah Elber and Arjun Thomas after the Drainer incident, but it’s totally why they were fired when their contracts came up for renewal. You know that. And they were an A and an S. B-rank is going to be hard. You’re lucky the Polish guy was trying to offload the class fast without alienating anyone.”
+
+“Yeah. You don’t think Chainer’s too much of a double-edged sword, though, do you? I don’t want to get to Anesidora in a few months, register at a new school, and find out that all the island kids hate my guts because I sold the class to their ancestral enemies.”
+
+“Nah,” said Boe, slapping the button for the crosswalk they were waiting at. “That won’t happen.”
+
+“You sound confident.”
+
+“It’s because I’m smart. I know things.”
+
+“About superhuman politics?” Alden said doubtfully.
+
+“Well, some. I’m not an expert, but I know Bedlam Beldam is a big supporter of the Velra family. A lot of people are. It’s all very dramatic. Like a superhero soap opera. They’ve got just as many friends as they do enemies. So only half of your new schoolmates will hate you. Sixty percent of them tops.”
+
+“Comforting.”
+
+"And this Andrzej guy's suggestion that you play dumb about it isn't bad, right? Maybe you can pull off a miracle and sell it to one faction before the other one gets around to throwing their hat in the ring. They can't complain if they think you're a clueless outsider who didn't even know they wanted it."
+
+Alden frowned. "That sounds really hard to navigate. But yeah. It would be ideal."
+
+Boe side-eyed him.
+
+Then, with a sigh, he said, “Listen, I know you’ll want to take this the wrong way, but try to be open minded. You do realize you can just…not play the game, don't you? You haven’t registered. And since I stopped you from shouting that you were an Avowed over the phone earlier—”
+
+“Wow. You really were worried about spies.”
+
+“What? You think there isn’t something scanning our calls for keywords?”
+
+Alden honestly didn’t know. “I guess it’s better to be safe than sorry?”
+
+“Right. As I was saying, you’ve only given your name to one person, and he probably won’t even notice if you don’t show up on Anesidora. He’ll just assume you’re in different academies. You could trade Chainer for some quiet little class, stay here in Chicago, and grow up to be an elementary school teacher.”
+
+“An elementary school teacher?” Alden had respect for the job, but it had never featured on any of his to-do lists. “Where’d you get that from?”
+
+“I think it suits you,” Boe said seriously. “And you’d still have super powers. You could take Audial Brute. I bet it’d fix your tinnitus. And you’d be a total pro at overhearing kids gossiping in your class. They’d think you were psychic.”
+
+“Boe—”
+
+“You’d probably hardly ever get summoned, so you wouldn’t be found out. What’s the downside?”
+
+Alden stopped walking. Boe did, too, but he wasn’t quite meeting Alden’s eyes.
+
+“Gorgon said the same thing,” Alden said. “About maybe not registering.”
+
+“Ha. Did he really? Well, that’s because it’s not a bad idea.”
+
+Alden wished, not for the first time since he’d been selected, that his dreams of being a superhero had included a little less fantasy and a lot more reality. Maybe then he would know how to answer his friend. And how to handle the uncertainty inside him that was gradually turning into fear.
+
+If I make a mistake here, I’m screwing up my whole life.
+
+He shivered, and it had nothing to do with the temperature.
+
+He’d enjoyed the distraction of focusing on the class trade. But now Boe had casually pointed out that even that wasn’t a safe zone. If Alden made his presence too well known through the trades, people might get curious about him. They might look him up.
+
+He couldn’t have that if he planned to be an Avowed in hiding.
+
+And if I did intend to be an illegal superhuman, I really would need “a quiet little class.”
+
+Alden’s self control was okay, but it probably wasn’t good enough to last a lifetime. If he had awesome powers, he was going to slip up and use them eventually. And if his physical stats were high enough, then even something unavoidable, like being involved in an accident, would out him.
+
+People tended to notice if you got hit by a bus, and the vehicle came away from it with injuries worse than your own.
+
+He and Boe stood together, while early morning traffic rushed past on the street beside them, for a long time.
+
+Finally, Alden had an answer. “I think I would regret it.”
+
+Boe shoved his hands into his pocket and looked up at the sky. “Which part?”
+
+“The part where one day I’m watching the news, and I see that some eight-year-old kid just lost their parents in a villain attack…and I wonder if maybe in some small way it was my fault. Because I was supposed to be there, but I was too afraid to try for it.”
+
+Alden exhaled sharply, his breath fogging in the cold.
+
+“Yeah,” he added. “I think I would regret it a lot.”
+
+Boe had never been a warm and fuzzy sort of person. If anything, he’d ranged from robotic to ill-tempered when Alden had first met him. It was only time that had brought out a few of his more human qualities.
+
+He was loyal, sarcastic, funny…
+
+But for some reason it was only now, as Alden watched his friend’s face twist into a forced smile, that he realized he had never once seen Boe look sad.
+
+And he did look so sad. Nearly devastated.
+
+For a second, it was like a cloud had passed between the two of them and the early morning sun.
+
+Then the look was gone just as suddenly as it had come.
+
+“I guess I shouldn’t have expected anything different from you,” Boe groaned. He gave Alden a light punch on the arm. “You’re such a noble doofus for an otherwise smart guy. I honestly think you’d probably feed me the same line if you were a useless freaking F-rank.”
+
+“I wouldn’t,” Alden said, still feeling off-footed by the strangely dark moment. “I’m not suicidal.”
+
+“Sure you’re not. Anyway, since you seem to be committed to playing superhero let’s get to the consulate. I want to see the magic table.”
+
+“Gorgon says you won’t be able to access it.”
+
+“It’s still a magic table. How many chances am I going to get in my life to disrespect an important Artonan artifact?”
+
+“Wow. Okay. No. If you break the table, Gorgon’s supervisor will come for me, and she apparently consorts with demons.”
+
+“Sounds hot.”
+
+“Gross, you perv.”
+
+Boe laughed. “Anyway, what was your special clue?”
+
+“What?”
+
+“From the demon you consort with. You said you thought he was giving you a hint about what class you should choose. That should be your number one priority. Classes are way less figured out than everyone likes to think. If an Artonan prisoner was setting himself on fire to give me hints, I’d run with them.”
+
+“Let me take your luggage.”
+
+Alden had the pleasure of seeing Boe look just as baffled as he had been the night before.
+
+“Huh?” he asked.
+
+“Let me take your luggage.”
+
+Boe’s nose wrinkled. “Oh. That’s the clue?”
+
+“My best guess is that he had to be vague. I think maybe it’s a metaphor.”
+
+“I bet it’s an anagram,” Boe mused.
+
+“You just want it to be an anagram because you like puzzles.”
+
+“Eulogy. Mettle gauger. AK.”
+
+“I’m sorry,” said Alden. “Are we speaking in tongues now?”
+
+“Shut up. It’s a really good solve for first thing in the morning. Clearly eulogy is about Hannah’s funeral tomorrow. Afterwards, you’re supposed to travel to Alaska and gauge your mettle. Duh.”
+
+Alden laughed.
+
+“Rogue eagle amulet?” Boe muttered as he squinted into the distance. “No, that’s not it. I can’t make anything with the remaining letters.”
+
+“You’re literally making the sentence more obscure, man. I was hoping you’d help me simplify the problem, not…”
+
+Boe was a few steps ahead before he realized Alden wasn’t keeping pace with him anymore. He turned back. “You coming?”
+
+Alden gave himself a shake and hurried to catch up. “I just realized…what if I’ve been putting too much thought into it, too? What if Gorgon was actually keeping it really simple for the dumb human? What if it’s a spell name? Or a skill?”
+
+Boe’s eyebrows lifted. “Well, yeah. That would make it way easier. Some classes do have eccentric talent names. Full sentences are less common, but they’re a thing.”
+
+“Right?” Alden was getting excited now. “There’s an Adjuster spell called ‘Hold my hand until sunset.’”
+
+It was an unpopular capture spell that magically glued your hand to your target’s.
+
+“How romantic,” Boe said dryly. But then, with a bit more enthusiasm, he added, “Beldam has a passive called ‘Cats are better in nines.’”
+
+“See! I bet I’m right. I’ve never heard of one called ‘Let me get your luggage,’ though.”
+
+“Me either. And the sentence names are memorable. Since we don’t know it, it’s probably not often used. Which would mean it could only belong to one of the classes that gets a stupidly long skill or spell list.”
+
+“People still haven’t tried out everything on the Adjuster spell list,” Alden said hopefully. “So maybe?”
+
+“I think you’d have read about it if it was an Adjuster spell, you mage geek,” Boe replied. “If it was a B-rank specific one you might have missed it, but…it could be Wright? They get so many skills to choose from they say their list looks like the Oxford English. That one S-rank spent two years trying to pick the best one from it when she hit Level 10, and nobody thought it was a waste of time.”
+
+“Yeah.” Alden frowned. “If we’re on the right track, it would most likely be Wright or one of the rares. The other major classes have fairly narrow lists at B-rank. Shaper’s a maybe, but it doesn’t sound anything like one of their skills.”
+
+“It’s not Shaper.” Boe’s tone was dismissive. “Their stuff is all kind of obvious as far as System naming goes. If anything, it sounds like it might be a—”
+
+“A what?”
+
+Boe suddenly grabbed onto the sleeve of Alden’s coat and stopped walking. “Is that who I think it is?” he asked quietly, staring ahead of them.
+
+There were quite a few people on the sidewalk. Alden scanned them, looking for someone suspicious, but before he could identify the problem, Boe hissed, “The man across the street from the consulate! The one trying to look normal while he stands around in board shorts in February.”
+
+Alden finally spotted the board short wearer. “Oh, my gosh! It’s Skiff!”
+
+The water-shaping superhero looked out of place here in a business district, wearing street clothes.
+
+Well, mostly wearing street clothes. The swim trunks didn’t really go with Skiff’s puffer jacket.
+
+“Shush, fanboy. Take my hat.”
+
+Before Alden could ask why he should do that, his friend had shoved the hideous stocking hat onto his head.
+
+“So,” said Boe in a conversational voice as he yanked off his scarf and wrapped it around the entire lower half of Alden’s face. “Maybe we’re not as smart as we think we are. You said the trading interface listed locations, and I didn’t think anything of it. And I guess you didn’t either.”
+
+Behind his new muffler, Alden frowned. “Yeah. But ids are private.”
+
+“Sure. Only they’re not very, are they? To find out who someone is in real life you’d just have to go to the consulate they were trading from and wait for a teenager to appear during regular school hours.”
+
+Alden’s eyes widened. Crap.
+
+He hadn’t realized how valuable Chainer was to certain parties when he’d left this morning. He’d have taken the listing down if he’d known. He hadn’t authorized autotrade of course, but his information was there for anyone to see. Advertising was the whole point of the platform. It had never occurred to him that he shouldn’t do it.
+
+“Bud vey canf do vad?” he protested around a mouthful of wool as Boe tightened the scarf. “Wha ‘boud my privafy?”
+
+“Even in an ideal world, your civilian right to privacy is only good for the next three months,” Boe said quietly, stepping back. “In reality? You get it… right?”
+
+Alden did. He didn’t like it, but he did.
+
+It would only take a phone call.
+
+Once someone from Anesidora had seen the listing—whether they were for or against the Velra family—they could just call up one of their friends on the Chicago hero team and ask them to run down and have a look at the consulate. See if any likely young people strolled in at an odd hour.
+
+Follow them home. Find out who they are. Kill them in their sleep.
+
+Okay. That last was ridiculous.
+
+Probably whichever faction they belonged to, all they’d really want was to give Alden lots of nice stuff in exchange for Chainer.
+
+Which would have been great, except for the fact that he didn’t just want nice stuff. He wanted nice stuff without becoming involved in superhuman politics.
+
+Even Gorgon couldn’t keep him out of it. Bribery and social pressure were apparently fine with the Artonans. The alien would only be allowed to step in if people were threatening or mind controlling him.
+
+“New plan,” said Boe, still speaking quietly. “We walk right past the Aquatic Idiot and head for the bus stop. Even if your nemesis in North Dakota happens to work for someone on the island and he described you to them, you don’t have any noteworthy features that’ll stand out when you’re bundled up in winter wear. We should be good.”
+
+Alden hadn’t considered that B74 might have ratted him out. But it was possible at least. He did live in the Dakota zone, so he was connected to the Avowed community if not the island itself.
+
+“Leff go,” said Alden. He coughed and worked his lips until they were mostly free of the scarf. “We’ll catch Skiff’s attention if we stand here too long.”
+
+###
+
+“Quit turning around to look out the back window, Alden. You’re not going to see an A-rank Shaper chasing the bus down the street in his swim trunks.”
+
+“I didn’t think I was,” Alden lied as he spun back around in his seat. “I’m just making sure we made a clean getaway.”
+
+“We did. I told you. He didn’t even glance at us. I think he was playing Sweet Smasher on his phone.”
+
+“I couldn’t use my peripheral vision because someone mummified me with wool.”
+
+“Well, mine worked fine. You’re in the clear for now.”
+
+Alden grumbled, but he did his best to let himself relax. “I didn’t expect it to be like this. So chaotic. I wanted time to think and plan.”
+
+Boe slouched down and wedged his feet against the back of the seat in front of him. He pulled out his own cell and started typing. “It’s exciting being a superhuman, right? You were only chosen…nineteen hours ago? And you’ve already made a pal in Poland, discovered the consulate’s secret basement level, and possibly sparked a minor political war between Anesidora’s social elite.”
+
+Alden snorted. “Imagine what I’ll do next week.”
+
+“Hopefully you’ll have quietly acquired your final class by then, affixed it, and be in the middle of learning how to use your new powers. You need to get at least a little prepped before you dive into the Anesidoran shark tank. Any other outcome means you’ve screwed up.”
+
+Alden raised an eyebrow at him. “How do you figure? Even if I find out what Gorgon meant, it’ll probably take me a while to get my hands on the specific class. And then I don’t have to affix it right away. I could still hang around on the trading platform in case something amazing came along.”
+
+“More amazing than Chainer? The class that has you looking over your shoulder for a legit superhero tail? Or more amazing than a class recommended for you, specifically, by a powerful alien being you’ve spent the last few months befriending?”
+
+“Well…”
+
+“Mmm,” Boe said, his lips pursing. “So you’re still hung up on Adjuster.”
+
+Guess I’m transparent. “It’s the obvious choice for what I want to do.”
+
+“You mean it’s the class Hannah had.”
+
+There was no judgment in Boe’s voice, but Alden felt defensive anyway. “It’s not just that.”
+
+Boe set aside his phone and glanced out the smudged window. “I know. Adjuster’s easy—”
+
+“It’s one of the most complex classes to master!”
+
+“Don’t fly off the handle. I mean it’s easy for you. Emotionally. It’s the one you know the best. You like tons of things about it. It excites you. And you actually have a real-life, extremely personal example of someone using it in a way you admire. If the System had given you Adjuster yesterday afternoon, you’d have affixed it before you left that bathroom stall.”
+
+Alden couldn’t argue with that. He probably would have.
+
+“Adjuster’s not scary for you,” Boe continued. “You’re a shitty B-rank and that makes your future even harder to grasp, so it’s probably the only class you feel sure won’t be garbage.”
+
+“B’s not shitty,” Alden muttered again.
+
+But his heart wasn’t in it.
+
+He’d been so wrapped-up in new experiences that he hadn’t analyzed his own feelings very well. And now that Boe had done it for him…
+
+“You’re right. I guess. I…wanted to be an S or A-rank Adjuster. I know that’s lame to admit. But it’s the only thing I really imagined for the whole superhero daydream.” He sighed. “Right now, it feels like I’m scrabbling at the edge of what I want. If I could just get my hands on Adjuster, part of me thinks I would finally be standing on solid ground.”
+
+“You can have it if you want it.”
+
+“Maybe. If I sell Chainer to the Velras, or their enemies, I could probably get enough money to pay off any Adjusters who want to trade. But there might not be any even then—”
+
+He was interrupted by the sound of Boe laughing at him.
+
+“Is my suffering amusing to you?” he said, put out.
+
+“No, but your total lack of business acumen is. Are you serious? Alden, they sent a freaking superhero to find you. Within a couple of hours. Even though I knew a little bit about the situation, I would never have guessed it was that important to them. But now that I do…”
+
+Boe crossed his arms over his stomach and smiled up at the bus’s grimy ceiling.
+
+“You’re not going to trade Chainer for money and then sit around hoping you’ll be able to buy your dream class with it. You’re going to tell someone what class you want, and then they will fetch it for you like a golden retriever.”
+
+Alden blinked. “That can’t be right…”
+
+“We’re talking about powerful, rich Avowed. Ones who’ve managed to maintain an iron grip on an ultra rare class despite other powerful, rich Avowed trying to stop them. As long as you don’t ask for something impossible, then I bet they’ve got the budget for it. And the resources to lay their hands on it. It’s what they do for their own kids. They can do it for you, too.”
+
+“So you think I should give it to the Velras?”
+
+Boe shrugged. “I don’t really care about which side of that little spat wins. Do you?”
+
+“Nah,” Alden admitted. “It’s like trying to pick a team when you don’t even understand what sport they’re playing. I just want them to not ruin my life after the fact.”
+
+“You could sneak past Skiff into the consulate when it’s busy…or even better, head to the consulate in New York where there probably isn’t a super waiting to pull you aside and give you a speech about his faction’s noble cause or whatever. Slap Chainer up to autotrade in exchange for your pick, and then vanish. Let them, or even some lucky selectee off the street, race to give you what you want first.”
+
+“That sounds perfect,” Alden admitted.
+
+“Can you request a bonus with the autotrade though? You didn’t mention it.”
+
+Alden shook his head. “No, it’s just for classes. People always ask for, or offer, money separately. In their notes section. It’s probably something you’d have to make legally binding outside the trading platform. And then you get online and do the trade.”
+
+“That’s a problem then,” Boe said.
+
+“I don’t need money on top of a specific class.”
+
+His friend gave him a severe look. “Last I checked, you wren’t swimming in cash.”
+
+“Yeah, but I don’t have to be. School is paid for on the island, and you have to stay in the dorms the first couple of years anyway. I’ll have a little bit from my parents. It’ll be fine.”
+
+“It would be way more fine if you didn’t sell the extremely valuable thing you’re holding for nothing. Being poor sucks.”
+
+“I don’t think—”
+
+“What about supplies for your hero work?”
+
+Alden blinked. He hadn’t thought that far ahead. He would be a student first. Working as superhero was still a long way away.
+
+“You don’t even know what you’ll need,” Boe continued. “You might need to buy weapons. Or chemicals. Or an armored vehicle. You might get a power that requires some expensive resource to shine. You might—”
+
+Alden held up a hand. “All right. I get it. Some money on top of the class would be better. Then…if I’m not going to be totally neutral, I guess the Velras are the way to go?”
+
+“They’re the perennial champs as far as I can tell. And you’d think they’d have a pretty decent non-disclosure agreement for the people who help them out, or whatever the Anesidoran equivalent is. As long as you trade it to them quickly, before other parties have the chance to tell you not to, you might still be able to feign innocence. I bet they’ll keep their mouths shut.”
+
+Boe seemed to be in high spirits now, apparently lifted by the thought of Alden bossing around an elite family of Avowed for even the briefest period of time.
+
+“So!” he said cheerfully. “All you have to do is decide: Do you want your hunting dogs to get you Adjuster? Or do you want them to get you whatever Gorgon recommended?”
+
+“Do I have to pick?”
+
+“Afraid so. Unless you want to say ‘to hell with it’ and affix Chainer right now. Just think….you could have new, uber-rich adoptive parents by nightfall. Whether you want them or not.”
+
+“That’s terrifying.”
+
+Alden contemplated the pattern on the bus seats while he tried to sort himself out. When Boe put it like this, it really was an either-or situation.
+
+Did Alden trust his own knowledge more than Gorgon’s advice?
+
+The alien knew what he wanted to do. They’d talked about battlefield support. Gorgon had said that they weren’t real friends but that he was fond of Alden and wished him well.
+
+They’d done the mysterious blood thing.
+
+And while Alden knew Gorgon wasn’t all-knowing, he was probably more-knowing than most humans.
+
+“I guess I’d have to go with Gorgon’s suggestion. If we can even figure out what it is.”
+
+“You guess?”
+
+“Ugh. Fine. I’m sure. Gorgon is frying his skin off for me. I trust him, and I don't have to be married to Adjuster. I can leave it behind if I have to.”
+
+“Well, brace yourself for a rocky divorce,” Boe said merrily. “The desk demon’s idea of a great class for a future superhero is pretty far outside the norm.”
+
+Alden stared at him.
+
+“That’s what I was looking up on my cell a minute ago.” Boe lifted the phone from his lap. “I was wrong about the anagrams. And you were right. He was trying to make it easy for you. ‘Let me take your luggage’ is a skill from one of those classes that gets to choose from a bajillion of them.”
+
+“Oh my god. Which one?” Alden asked, sitting up straighter. His heart was starting to race.
+
+“You know that movie where the girl gets a job as a personal assistant to a megalomaniacal fashion magazine editor? And her boss tortures her, but it’s all right because she gets to wear great clothes?”
+
+“Boe, now’s not the time—”
+
+“Have you ever imagined what that chick’s life would have been like if she had millions of evil bosses and they could all summon her by snapping their fingers?”
+
+“Boe!”
+
+Alden snatched the phone away from him and stared at the screen.
+
+Boe had pulled up a skill list. It was massive. Alden recognized nothing on it, and he had to scroll for a comically long time to get to the top of the page and read the class name.
+
+When he finally managed to, he stared at it in shock.
+
+Boe leaned over and patted him on the arm. “Congrats, man. It’s rare and popular. You’re lucky the Velras are the ones who’ll have to nab it for you.”
+
+Alden couldn’t pull his eyes away from the screen, but he knew from Boe’s voice that his friend was wearing an evil grin.
+
+“I mean, it’s also the very definition of a noncombat class since the Artonans created it because they wanted magical housekeepers and secretaries. But I hear the pay is fantastic.”
+
+“What the hell?” Alden whispered.
+
+Glaring at him from the top of the screen in poorly-chosen bubble font were the words Skill List — B-Rank — Class: Rabbit.

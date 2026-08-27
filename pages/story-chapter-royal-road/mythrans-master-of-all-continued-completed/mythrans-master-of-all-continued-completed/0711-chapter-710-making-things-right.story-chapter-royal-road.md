@@ -1,0 +1,203 @@
+---
+id: 3afae7c1-d146-54dd-9960-3f3be4ca8387
+page-type-slug: story-chapter-royal-road
+title: "Chapter 710 - Making Things Right"
+slug: 0711-chapter-710-making-things-right
+partOf: mythrans-master-of-all-continued-completed
+position: 711
+ownLength: 2989
+unit: words
+publishedAt: 2018-09-24
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/293202/chapter-710-making-things-right"
+royalRoadId: "293202"
+---
+
+“R-Ren!” Seldanna gripped his shoulders to try and push him off, then realized that they weren't on the bed anymore and stood inside a dank cell. “Wh-what is this?”
+
+“It's a little trick I learned from Xuunah.” Incubus Ren said. “It lets someone enter someone else's memories to help them deal with what happened to them.”
+
+“Wh-what?” Seldanna turned at the sound of the cell door opening and her eyes fell upon Murdrasu. “NO!”
+
+“Yes!” Murdrasu said and grabbed her by the back of the neck. “You are mine now, and you will feed me!”
+
+“Ren! Help me!”
+
+“I am helping you.” Incubus Ren said and followed Murdrasu out of the cell as he dragged Seldanna out and down the hall of the underground cavern, then into a small cave with ritual markings all over it. Inside was a pentagram, upside down of course, and a small altar.
+
+“Stop! Please!” Seldanna pleaded, and Murdrasu only laughed. He always enjoyed it when they struggled. “Ren! Help!”
+
+Incubus Ren walked over to the altar and knelt by her head and cupped the sides of her face. “I'm right here, Seldanna.” He said in calm voice, and some of her panic eased. When Murdrasu unsheathed the Vampiric Blood Sword, Seldanna screamed and made him laugh.
+
+“Don't look at him.” Incubus Ren said.
+
+Seldanna averted her gaze to look at Incubus Ren instead. “R-Ren...”
+
+“Shh.” Incubus Ren said and kissed her. Seldanna caught her breath as his emotions of comfort and calmness filled her, and then Murdrasu shoved the Vampiric Blood Sword through her abdomen. The blow didn't kill her, it only allowed the most amount of blood to be harvested as quickly as possible.
+
+“Yesssss, that's it.” Murdrasu said as Seldanna's blood filled the sword and its power filled him. He withdrew the sword before it took everything from her, and then he cast a Minor Healing spell on her to close the wound without healing her internally. “You'll be fine in a week.”
+
+Murdrasu left the ritual room and Zunala and Katori came in. Incubus Ren broke the kiss at this point and the succubi saw the state Seldanna was in.
+
+“I really wish he would heal the internal injuries, too.” Katori said and helped Zunala pick Seldanna up.
+
+“He enjoys the feelings of pain and suffering from us too much to do that.” Zunala said and they carried Seldanna back to her cell. They laid her on the bare earth floor and tended to her as much as they could, which wasn't much with almost no resources except scraps of cloth and bits of discarded meat for her to eat.
+
+Seldanna's eyes never left Incubus Ren's, though. When the succubi left and they were alone, Seldanna couldn't hold her tears back.
+
+“How could you let him do that to me again?” Seldanna asked as she sobbed.
+
+“I didn't let him do it, because it already happened.” Incubus Ren said and knelt by her. Seldanna tried to move away; but, her damage was still debilitating and she cried out in pain. “Easy, now.” He said and touched her face, and the pain lessened. She stared at him with wide eyes, and he sat down next to her and pulled her into his lap. “I'm going to do for you what Nathalia did for me.”
+
+Seldanna caught her breath as Incubus Ren kissed her again and filled her with his emotions. Over the next several incidents, Incubus Ren stayed a constant presence for her as she relived her worst experiences. He stayed right by her side and helped her deal with it, and as he did, she became stronger in her resolve. It took her a while, and eventually she had had enough.
+
+Murdrasu opened the cage door and she used her considerable strength to lunge at him and knocked him into the cavern wall. She punched his face over and over as she screamed at him that she hated him for what he did to her all those years. She was breathing heavy when she stopped and Murdrasu was left unconscious at her feet. Her own Vampiric Blood Sword appeared in her hand and she ran him through with it. All of her stolen power flooded out of him and came back into her, and her body glowed as she absorbed it all.
+
+“That felt good, didn't it?” Incubus Ren asked, and Seldanna turned towards him with the same murderous look in her eyes. She lunged at him with the same intent to kill him for putting her through all of this again. Instead of running or defending himself, Incubus Ren opened his arms and caught her lunge, then hugged her tightly. Seldanna tried to fight; but, he held her tightly and tenderly. Her frustration over everything bubbled up and she started to cry once more.
+
+“There, there.” Incubus Ren said and rubbed her back and kissed her cheek. “You made him pay for what he did to you.”
+
+“But... but... it's only...”
+
+“No, it's real.” Incubus Ren said and leaned his head back to look her in the eyes. “You can feel all that power, can't you?”
+
+Seldanna was going to deny it, then nodded. “I do.”
+
+“That's your own reclaimed power. All those years of having it sucked out of you by that unscrupulous bastard mean less than nothing now.” Incubus Ren said and gave her a brief kiss on the lips.
+
+Seldanna felt the truth in his words. “If... if it's over, then... why are we still here?”
+
+“Now that you're done with this part of you, you just have to want to leave.” Incubus Ren said.
+
+“I...” Seldanna looked around at the cell that she had spent so much time in, both during her life and in her memories, and she took in a deep breath and looked at Incubus Ren. “My King, I discard this part of myself and I will never dwell upon this place ever again.”
+
+Incubus Ren beamed a smile at her, and Seldanna gasped at the sheer flood of happy emotions he filled her with. The dream image faded and they were back on the bed, skewered by her Vampiric Blood Sword. He still had the same beaming smile, however.
+
+“We... we're still stuck.” Seldanna managed to whisper with what little air she had left in her lungs.
+
+“Just store it.” Incubus Ren said.
+
+“Wh-what?”
+
+“You don't need to touch it. It only has to be within your Area of Effect, or your shared Area of Effect. Just concentrate on it and store it.” Incubus Ren said.
+
+Seldanna's mouth dropped open in shock. After a few moments, she recovered from that and did as he said. The sword disappeared and the immense weight on both of them disappeared. She took in a huge breath as her chest closed over, thanks to her high Regeneration, and she saw Incubus Ren's chest was healed as well.
+
+Incubus Ren rolled off on her and laid beside her. “So, how long are you going to hate me?”
+
+Seldanna propped herself up on her elbow and used her free hand to rub the spot over his heart. “Perhaps a year, even if you become this version of you again.” Seldanna said, and he felt she was completely serious.
+
+“Then we'll have to stay inside the Sanctuary for that long.” Incubus Ren said, and he felt her utter shock. He put a hand on hers and smiled. “I just hope you can stand to see me so much.”
+
+“My... my King.” Seldanna almost moaned and leaned down to kiss him. Incubus Ren rolled back over her and caressed her breasts through her bikini top, and she stored that and her bottoms without being asked. He gave her a huge smile and suckled on her chest for several minutes, then moved down between her legs. She stared at him as he pleased her there. She had built up a good resistance to him by this point, then he filled her with how she had felt each time he kissed her there, and she finished and fainted.
+
+Ren left the roost in his elfling form and went down to Zetaya's room. He made himself double in size and hugged the Greater Fire elemental, then they sat down in one of the lava pools and he told Zetaya about all the things he had done since the last time they had met.
+
+A month passed by, then another and another, and all of the occupants started to get nervous about being away for so long. Despite Ren's constant reassurance that everything was fine, when the full year had ended, they were all desperate to get back.
+
+“Oh, all right.” Ren laughed when they all pretty much tackled him and forced him to open a portal back to the bedroom in Aurora. “I guess we should go home.”
+
+They let out a sigh of relief as they left the Sanctuary, and the succubi flopped down on the bed.
+
+“I never thought I'd miss this old thing.” Seldanna said and pat the mattress, and the other succubi laughed and cuddled into her.
+
+“It is nice to be back.” The Marilith Demon said as she caressed Ren's face briefly, then she slithered out of the room and went back to her own.
+
+“Ren, I think I'll go to the Pixieland ride.” Suniva said. “It's been so long, that...”
+
+Ren chuckled and checked the All-Seeing Mirror, then cast a Small Portal spell for her.
+
+“Ha ha!” Suniva laughed, gave his cheek a kiss, then flew through the small portal.
+
+“Ren...” Artemis started to say, and he reached up and cupped the side of her face. “It's okay. You can stay here.”
+
+“Her seething anger is tolerable for me; but, it takes away from her enjoyment of her time with you.”
+
+Ren nodded. “I'll distract her by bringing Zetaya with me this time.”
+
+Zetaya made the sound of breaking branches in a fire, and Ren laughed.
+
+“It's okay. I'll explain that it wasn't your fault that your connection was cut off.”
+
+Zetaya made the sound of a forest fire, and Ren gave the Greater Fire elemental a hug.
+
+“You can stay inside the spawn point if you're nervous.”
+
+Zetaya nodded and Ren looked at the succubi. Seldanna, Ellaria and Chenoa still looked like full fledged succubi; but, Katori looked like she was completely human. She still had all of her succubi abilities like flight, Regeneration, Seduction, and her Emotion Siphon ability, however. He kissed Seldanna first, as was her right as the Sovereign, then he kissed the other two succubi, and looked at Katori. She averted her eyes from his gaze, despite all this time, and he took her hand and lifted her from the bed.
+
+“None of us think less of you for not wanting to look like a succubus.” Ren said for the hundredth time, and the shared Aura filled with support and acceptance for her. “You will definitely meet someone now.”
+
+“It... it's not that.” Katori said and blushed. “You... you almost killed yourself for me.”
+
+“I promised I would, way back in Shargon Caverns, remember?” Ren asked, and she caught her breath. “I said I would give you everything you would ever need, including my life if it was necessary.”
+
+Katori's face crumbled and he hugged her tightly as she cried.
+
+“Shh, it's okay.” Ren said. “You don't have to feel guilty about that, or about needing someone of your very own.”
+
+“But...”
+
+“There's no rush, and we aren't going to kick you out if you don't find someone.” Ren eased the hug and looked up at her tear-streaked face. He gave her a piece of cloth and she wiped her eyes. “That's not how things work around here.”
+
+“But... if I do...”
+
+“Depending on if they are from the county or not, you can move back to the roost or I can build you a house nearby.” Ren said. “You don't have to worry about that right now, though.” He chuckled. “Just go and have fun, and if something develops, then we can start thinking about where things might go from there.”
+
+Katori took a shallow breath and nodded. Ren stepped into the air and gave her a kiss. She shivered from the touch, even though he didn't try to fill her with emotions, and he stepped back down to the floor.
+
+“You should get back on the bed and let the others comfort you for now, and I'll be back tonight.” Ren said, and she did as he said. Seldanna and the other two succubi accepted her with both open arms and hearts, and he cast a Large Portal to the underground chamber. “Ready, Zetaya?”
+
+Zetaya nodded and they stepped through the large portal together.
+
+********
+
+Lisa sat at her computer and she didn't know what to do. Stella had texted her and told her not to go into the game because Ren was trying to fix it, which was a surprise to her, and then several minutes later, Stella texted her again and told her that Ren was done and that everything should be fine.
+
+Unfortunately, Lisa had spent a long time in the game, and now that Ren had fixed everything, she wasn't sure how she was going to feel when she went back in. She was nervous that all of her gained knowledge was slightly out of date and that her abilities might activate to try to give her all of that new information all at once, which would be a very bad thing.
+
+Lisa had a lot of experience with information overload and she knew without a doubt that if she had to absorb all of that information as soon as she appeared in the game, she would have a splitting headache for days. With little confidence and a sorrowful sigh, she picked up the VR headset and laid down on her bed, then relaxed and prepared for the pain.
+
+“Flow Login Start.”
+
+********
+
+Lisa appeared in the white loading area, and then it morphed into a gigantic library with hundreds of thousands of books. “What in the world?!?” She exclaimed and looked around at it, then received a popup.
+
+System Notice!
+
+Due to the inadequacy and ineptitude of the previous caretakers, steps had to be taken to ensure the continued existence of this creation. Under the new management system, the creation's integrity is now paramount, as is the safety of those that visit this creation.
+
+Welcome to the new F.L.O.W.!
+
+Lisa laughed and dismissed the popup, then she morphed into her character Lara, the Sage of Ages, and the immense library faded away and was replaced by her closet. Except, it wasn't a closet anymore.
+
+“R-Ren... you...” Lara looked around at her comfortable apartment. It had a bed, table and chairs for two, a small kitchen and a full bathroom with a hot tub and stand up shower. “I love you so much.”
+
+Lara examined everything and saw that it all worked, then walked over to the door of her apartment. She took a deep breath and reached for the door handle, and saw a note was taped there. She plucked it off the handle and read it.
+
+Dear Lara,
+
+I figured you would be worried about all the changes and repairs I've made, so I've installed a buffer under the panel by the door. Just place your hand on it and concentrate on your abilities. I couldn't do a lot of this work myself, since it's content I don't have direct knowledge of (and Vasalor said I can't peek), so if anything feels off, it's because I didn't want to cheat and it's all Vasalor's fault. Have fun, and don't try to suck it all in at once.
+
+P.S. I doubled your time compression, so you don't have to rush.
+
+I love you, Ren
+
+Lara put the note on the table beside the couch and opened the panel beside the door, then she laughed at the popup she received.
+
+WARNING!
+
+Do NOT push the big red button!
+
+This is the big red button and it should never be pushed for any reason!
+
+This means you! Don't even think about pushing this big, red, shiny, and enticing button!
+
+Don't do it! Please, leave it alone! Pushing this button is bad! BAD!
+
+Lara dismissed the popup and looked at the big red button, then felt a very strong urge to push it. It made her laugh again, and she put her hand on it. She took a breath and concentrated on her information gathering abilities as she closed her eyes, then pushed it. She caught her breath as the information flowed into her in a steady stream, and since she had lots of experience with gathering in this fashion, she easily compared the old information she had and the new information, and was very glad when she discovered that there was almost no difference.
+
+Lara relaxed and the information flowed faster, and she let it fill her up. She lost track of time as she kept absorbing information to compare to what she already knew, and when the information slowed down and then stopped, she let the button go. She had been tempted to accept a secondary class and continue to do other things; but, she really liked what she could already do and didn't want to mess that up or get distracted by trying to keep leveling up and using other skills that she wasn't familiar with.
+
+Lara closed the panel and touched the door handle, selected the Aurora Library, and opened the door to appear in that Library. She smiled as she stepped out because she wasn't bombarded by new information, so she shut the door and walked over to her desk and sat down.
+
+I wonder if I could get Ren to show me that big library from the loading screen? Lara asked herself, then picked up her book and started to read.

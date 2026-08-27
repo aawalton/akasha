@@ -1,0 +1,237 @@
+---
+id: 3bb0ab83-aa5c-5f8a-b722-92d9e5c3c615
+page-type-slug: story-chapter-royal-road
+title: "Chapter 90: The Workshop"
+slug: 0090-chapter-90-the-workshop
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 90
+ownLength: 2301
+unit: words
+publishedAt: 2026-07-20
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3703106/chapter-90-the-workshop"
+royalRoadId: "3703106"
+---
+
+The corridor of the Palace of Justice was packed, and I was the thing it had all come to see.
+
+I walked it slowly. Spine straight, chin level. Nobles in their layered silks pressed in from the colonnades. Journalists shoved past the rail with charcoal sticks already moving, sketching me before I'd taken three steps. Voices came at me in a wall.
+
+"Herr Hexenzeit—"
+
+"—a word for the Chronicle—"
+
+"—the Sultanate, is it true you—"
+
+I didn't answer any of them. I kept walking.
+
+It cost more than it should have.
+
+That was the part none of them could see. To them I was the man who'd walked out of an Imperial high-security prison stronger. To me, every step was a negotiation. A month in the dark, no food, no water, nine cores burning at full throughput until they rebuilt me from the marrow out.
+
+Even I have limits, I thought.
+
+The worst of it was that I couldn't focus on the walk. My head kept turning inward, away from the river of faces, back to the things I hadn't had time to read.
+
+They'd been sitting in the lower edge of my vision since the cell door opened.
+
+That one I understood. At least part of it.
+
+It was the second message I kept circling back to.
+
+I let myself look at it properly.
+
+Lust.
+
+It pulled at me. The implication of it. A new curse circling, drawn — passion for power, it had said, watching me sit in absolute darkness and pour everything I had into rebuilding myself. I'd done it to survive. The grimoire saw something else.
+
+My foot caught the edge of the runner.
+
+It was nothing. A wrinkle in a long red carpet that ran the spine of the corridor, the kind of thing a man steps over a hundred times a day without a thought. But I wasn't looking at the floor. My distracted boot found the lip of the rug, and the new body came down wrong.
+
+I went to my knees.
+
+A sound went through the crowd. The Hero of Grenzheim, the man who'd walked out of a treason trial like a king, down on the marble in front of the entire court.
+
+My hand shot out for balance.
+
+I felt someone stagger under the grip, heard a startled grunt, and when I looked up I was holding a fistful of someone's formal robes, my knuckles white against the deep red, and a young face was staring down at me in frozen alarm.
+
+Darius von Dravenmoor.
+
+Of everyone in this hall. In the half-second I knelt there, fist knotted in Darius's robe, I made the mistake of looking past him.
+
+I found Sera.
+
+She stood one rank behind her brother, gloved hands quiet at her sides, and her slate-gray eyes were already on me. Not on the drama the rest of the corridor was drinking down. On me. Cold and steady and reading.
+
+She thought I'd done it on purpose.
+
+I could see it plain as print. She watched me kneel at her brother's feet with his collar in my hand and a court full of journalists turning to capture it, and she didn't see an accident. She saw a move. A man placing a son of House Dravenmoor in a frame in front of every pen in the Empire.
+
+It made me smile before I could stop it.
+
+Everyone in this hall thinks I'm a piece, I thought. Varen's piece. Khalid's piece. Elara's piece she failed to take. They've spent the morning sliding me across their boards and none of them once asked what I wanted.
+
+She's the only one who looks at me and sees a hand on the other side of the table.
+
+So I'll play.
+
+I rose.
+
+I drew my hand from Darius's collar up across his shoulder, settled my arm there like a man leaning on an old friend. The boy flinched under it. I felt the small jolt run through him.
+
+"Thank you," I said. "I won't forget it."
+
+I watched Sera's face while I said it.
+
+She was good. She was very good. To anyone who hadn't spent a hundred deaths learning to read the millimeter of a flinch, she didn't move at all. But I had spent them.
+
+She was furious.
+
+Darius made a small noise. "I—" he started, to no one, his collar still crooked where my fist had pulled it.
+
+The journalists hit us.
+
+They surged the rail, charcoal flying, voices climbing over each other.
+
+I walked out of the Palace of Justice almost laughing.
+
+The carriage was waiting in the shadow of the east gate, two Iron Cross knights at the doors and Major Brauer filling half the bench inside.
+
+I climbed up.
+
+We hadn't gone fifty meters before the soldier across from me cleared his throat.
+
+"Sir. We're to bring you to the palace. Prince Varen's instruction. Private wing, the same quarters as before." He said it like good news. "You'll be safe there while things settle."
+
+"No," I said.
+
+Brauer turned his head. Fifty-three years, thirty of them in the regular army, a face that had been disappointed by better men than me. "No?"
+
+"I'm not going to the palace."
+
+"Son." Brauer didn't raise his voice. "You've just walked out of a treason trial. The court found the case unproven, which is a polite way of saying half the nobility still thinks you sold the southern front to the elves. The streets aren't friendly. The palace is the most defended ground in the Empire."
+
+"The palace," I said, "is the place Prince Varen thinks he has control. Yet it also belongs to Prince Kasimir and Princess Elara, both of whom spent these last weeks trying to put my head on a spike." I leaned back into the bench. "Tell me, Major. Where do you think someone tried to kill me this last month?"
+
+Brauer's brow lowered. "In the prison."
+
+"In an Imperial high-security cell. No light, no visitors, four guards on the door, two of them yours." I let it sit. "Pull the rations from that cell. Have an alchemist look at them. You'll find it."
+
+The soldier across from me had gone very still.
+
+"They reached me in there," I said. "In the one place in this Empire that's supposed to be unreachable. So you'll forgive me if I don't find a prince's hospitality reassuring. The palace is a board with two players who want me dead and one who wants me useful, and 'useful' has a shelf life."
+
+"Prince Varen—"
+
+"Prince Varen kept me alive today because a dead hero is worth nothing to him and a living one is worth a great deal. That's not loyalty, Major. That's accounting. I trust the accounting exactly as far as the numbers hold." I put my boot flat against the floor of the carriage and didn't move it. "I'm not going to the palace."
+
+Brauer studied me, saying nothing.
+
+He sighed.
+
+"Where, then."
+
+Asena was waiting in the doorway of the workshop before the carriage had fully stopped, and she was more frightened than the last time I'd seen her.
+
+The sign still hung over the front: VORALBERG MAGITEK. The smell of the place reached me through the open door even before I climbed down. Hot metal. Oil. Crushed crystal and the faint bite of mana run through copper.
+
+"Kaspar." My aunt crossed the threshold and stopped short of touching me, her ice-blue hair pulled back rough, her pale eyes moving over my face, my hair, the breadth of my shoulders under the borrowed coat. Whatever she'd braced for, the reality of me unsettled her more. "Are you— God. Are you all right? You look—"
+
+"Different," I said. "I know."
+
+"They said treason." Her voice cracked on the word.
+
+"It's over." I let my hand rest on her shoulder. "The charges are dismissed. Unproven, technically. I'm a free man."
+
+She searched me a moment longer, then something in her loosened and she pulled me into a hard, brief embrace. Eren came off the doorframe and folded into the hug before he could decide not to.
+
+We stood like that for a breath in the smell of metal and oil. Then Asena stepped back and wiped her face with the heel of her hand.
+
+"Inside," she said. "You're filthy. You smell like... shit."
+
+Behind me, Brauer leaned out of the carriage. "We'll post a rotation, son. Two of ours on the street, two at the back." He didn't make it a question, which was his way of letting me win the larger fight by conceding the small one.
+
+"Sure," I said.
+
+He nodded once, and the carriage pulled away.
+
+The bath was a tin tub in the back of the workshop. I sat in it scrubbing a month of the dirt off my skin and watched the water go gray and then brown and then gray again.
+
+I'd barely gotten the worst of it when Asena knocked on the door.
+
+"There's someone here for you."
+
+I looked up, water sheeting off my arms. Already?
+
+"Front room," she said. "Pacing a hole in my floor. He says he's from the Academy. Just kept saying it was important and that he'd wait." She hesitated. "I can send him off. You've had a long day."
+
+I thought about it. The Academy. Who from the Academy would track me to a magitek shop on the day of a treason trial?
+
+"No," I said, reaching for the towel. "Let me see him."
+
+He was wearing a track into the floorboards by the time I came down, and I knew him before he turned around.
+
+Rolf Mercer. Mid-twenties, wiry to the point of looking underfed, in Academy robes worn through at the cuffs and the elbows. There were curls of copper swarf caught in the wool near his hem and a smear of chalk dust ground white into one sleeve.
+
+He spun at the sound of the stair, and his face was a mess of nerves.
+
+"They sent me from the compound," he said. "You weren't there."
+
+"Herr Hexenzeit. Sir. I— I heard you'd been—" He stopped. Started over. "I didn't know if you'd—" Stopped again.
+
+"Sit," I said, and gestured at the bench by the cold hearth.
+
+He sat on the very edge of it, knees jittering.
+
+I took the stool across from him and toweled at my hair. "It's been months." I studied him. "You didn't track me to my aunt's shop to tell me how the weather's been. What is it?"
+
+He swallowed.
+
+"I have a prototype," he said. "I needed you to see it. You specifically. Today, if I could, because I— well. I wasn't certain you'd be available much longer." He had the grace to wince at that. "It works. Sir, it works."
+
+I looked at the canvas folder clutched against his side, and the satchel at his feet.
+
+"Asena," I called. "Eren. Come down. You'll want to see this."
+
+He set it on Asena's main bench, and it was bigger than the first version. This one was the size of a loaf of bread. The casing was cleaner. The seams were tighter. The glyph lattice on its faces had been redrawn entirely.
+
+"Crystal's loaded," Rolf said. His hands were shaking.
+
+He fed mana into the cube.
+
+I felt it go in. That was the thing none of them could appreciate the way I could. I watched the mana enter the lattice and split into discrete threads and run the recursive loop. Where the old prototype had jammed, it now ran clean.
+
+The cube cooled.
+
+The air around it began to drop, a slow blooming cold that spread out across the bench, and Eren put his hand near it and yanked it back with a delighted yelp, and Asena leaned in with her professional frown deepening into something else entirely.
+
+It was nearly a product. A finished, sellable, repeatable product, the kind of thing you could put in a crate and ship.
+
+"Rolf." I kept my voice level. "How many of these can you make?"
+
+He flushed with the question, mistaking it. "It's— I know it's not perfect, the casing tolerances still need work, and the crystal life isn't where I want it, but—"
+
+"How many."
+
+"With a proper bench and a hand or two helping? Some dozens a month. Three, four dozen, maybe, once the process is set." He said it like a confession of inadequacy, watching my face for disappointment.
+
+He didn't get disappointment.
+
+"Dozens won't do it," I said.
+
+His face fell. "Sir—"
+
+"We'll need hundreds." I straightened. "Soon. Far sooner than you're thinking."
+
+Asena looked at me sharply. "Hundreds of what, Kaspar? What is this for?"
+
+I turned to her. To both of them.
+
+"I need your help," I said. "All three of you, together. Rolf builds, you two build with him. We start in this workshop, with these benches, because the casing tolerances aren't set and the crystal life isn't where it needs to be and the first ones will fail in ways we can't predict yet. So we don't start big. We start small. Small enough to fix our mistakes cheaply." I let a slow smile come up. "But it has to be something that makes the whole capital turn its head. Something every noble in every marble hall is going to want the moment they hear it exists. That does two things. First, it builds the reputation. Second, it provides capital, since the next steps cost more than I have, even now."
+
+"What next steps?" Rolf asked.
+
+"I'll explain those when it's time." I put my hand on the cold, humming cube. "For now there's one mission. The four of us, this bench, this cube."
+
+"We're going to build the first air conditioner in Silberwald."

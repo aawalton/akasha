@@ -1,0 +1,137 @@
+---
+id: 315ec1e9-6991-5b23-8d55-4cb2cffcde94
+page-type-slug: story-chapter-royal-road
+title: "270 (I) “The Choice of Virtue” [II]"
+slug: 0336-270-i-the-choice-of-virtue-ii-2965363
+partOf: path-of-the-deathless-book-4-completed
+position: 336
+ownLength: 3061
+unit: words
+publishedAt: 2026-01-21
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2965363/270-i-the-choice-of-virtue-ii"
+royalRoadId: "2965363"
+---
+
+The enemy of your enemy is not your friend. The enemy of your enemy is, however, something you can use.
+
+A great many Pathbearers like to anthropomorphize things. This leads to mistaken assumptions and attributions of emotions where none exist. The dragon that you manage to lure into battle does not care for you. You might be able to feed it. You might even be able to coexist with it in peaceful times. But it does not care for you. It does not have that same emotional capacity as a human does. This has been examined by Biomancers over and over again.
+
+But it goes beyond this. Perhaps there is a third party pursuing the warband you are hunting. Perhaps you choose to strike a deal. This does not mean you are friends. Never assume friendship. Never assume anything closer than common interest. And always be prepared for betrayal.
+
+The way the world is structured makes the act of sabotage too enticing. If you are the one who slays the most enemies, if you are the one who betrays and kills, that comes in the form of new levels and potentially Skill Evolutions. You will discover this in one of two ways: as you are betrayed and struck from behind by someone you thought was going to part with you in peace, or when you are the striking party, because your ally might eventually be an enemy themselves.
+
+Look to your left, and then to your right. See the faces of the students around you. Know that this is the only peace you will know. The hierarchy is to follow thusly: your squad first; your broader contingent; your collective force; and finally, the idea of the nation you serve.
+
+This sounds borderline theoretical, but on the battlefield, that is the foundational truth. And ultimately, the one that you must trust the most, the one that you must understand the most, is yourself. Do not let someone else take hold of the situation.
+
+Decide first. Make the world react.
+
+-Captain Harry Irons, TacStrat 101, Phoenix Academy
+
+270 (I)
+
+“The Choice of Virtue” [II]
+
+"Oh, so you finally noticed he was there," Headmaster Hymn said, picking up his cup of hot tea and loudly sipping it in front of Shiv—who felt a spasm of rage travel through his body. His fingers twitched automatically, and they veered in the direction of Hymn’s throat, as if they wanted to discover just how fragile the man's vertebrae were.
+
+"That's it?” Shiv spat between clenched teeth. “That's all you have to say to me? He corrupted and nested himself in Adam's Awareness skill over two days ago, and you're telling me that you noticed but didn't feel like saying anything?"
+
+Hades slurped from his cup even more loudly. Nearby, his personal fireplace crackled, and it reeked of the Headmaster’s piss again. The man had been communing with Uva—three ugly ceramic mugs were placed upon his messy, paper-strewn table. Two were filled with a translucent substance and half-drained. It appeared the liquid—whatever it was—could be imbibed by Psychomancers psionically.
+
+The third cup was left for Shiv, and it was filled with hot chocolate instead.
+
+"What did you want me to say? ‘Hey, kid, you have an orc inside your soul’? Your Awareness skill has likely been fully compromised since the moment you decided to take a trip through our sewers."
+
+“Yes!” Adam and Shiv cried at the same time.
+
+Hymn yawned and leaned back in his plush chair instead of offering any kind of apology. The thing creaked violently, and for a moment, Shiv thought the Headmaster was going to topple over, but he managed to balance himself in a most awkward and precarious position. "Has he tried to hurt either of you yet?" Shiv folded his arms and adopted a sour expression, while Adam turned positively vicious. "Ah, I see. So he's given you the beating hello. No shame in that. The orc does that to practically everyone he likes. The fact that he hasn't left Young Lord Arrow dead is to be expected. He is just the orc's favorite type of person: upright, noble, and extremely trainable. He’s trying to manufacture another Valor for himself again."
+
+"You piece of shit." Adam's voice hissed out from the back of Shiv's cape, and he emerged in a burst of motion. Wriggling free from the dimensional fabric, Adam turned, uncaring that he was exposed, uncaring that he was standing out in the open within the Headmaster's office. Hades lifted his mug in a salute, but Adam was on him. He practically climbed over the desk, and they were face-to-face with scant centimeters between them. "Tell me! Why didn't you warn us? Is this supposed to be another test? Another play on your part for the Brokers to assert more control? Or does this just amuse you? The fact that I now have to suffer a growth that can re-sculpt my soul at any time, that has taken me apart and put me back together on a whim—no, on an impulse."
+
+While Adam seethed, Hades simply looked on and nodded as if he was taking constructive feedback from a gathering of concerned parents, rather than facing down a raging Hero.
+
+Adam's face twisted. "A warning. A hint. Some assistance. Anything. You knew all this time, and you said nothing. Nothing!”
+
+The Headmaster smiled. "It's likely what spared all our lives. Well, your lives. If I had given him away, I would have been embroiled in a fight with the orc myself." He took another offensively loud drink from his mug. "And I don't want that. It’s painful and he’s scary.”
+
+Adam's jaw fell open. "You don't want to. Because he's scary. That's your ultimate excuse, yes?"
+
+Hades closed his eyes and nodded. "I don't want to, and you can't make me. I fought that orc before. It was a miserable experience. I won. I consider it partially a fluke, and I don't want to try again. And no, Culturist, before you emerge from the boy’s cape and start making your speeches and whining about how much you despise being a slave to the System and the Challenger, I've heard it before: it won't be able to make me feel bad enough to start another feud with you. I'm retired. I enjoy my peace right now. And I wish to continue enjoying the peace."
+
+At this, the Culturist emerged from Shiv's cape as well, rising like a looming mountain of muscle and bone. He glared down from beneath his feathered hood at his old nemesis, baring his sharp teeth like some kind of starved animal. But the Headmaster didn't even look at him, simply rolling his eyes and having another sip as he gestured at the table. "I didn't bake anything for you. I also most certainly didn't invite you onto my campus."
+
+Shiv studied the Legendary orc, and Hawgrave emerged a second later, her fractured dimensional blade pointed toward the Culturist. "Hey, big guy, no. I see how you're looking at Mr. Creep over here. You start a fight here, you're gonna be fighting all of us."
+
+Her words made the Culturist close his mouth. He asserted himself over his inner animal and shook his head. "Ah, I apologize. It's been too long since we've done this, and I've been starved of a proper conflict."
+
+"And that's why you've taken to bullying children?" Hymn asked, winking at Adam. He didn't even bother addressing Hawgrave. "Oh, how the Challenger's mighty champion has degenerated."
+
+"Do not call me that. Never call me that," the Culturist said. His voice wasn't angry, but there was a plea there. A desperate request that bordered on the verge of humiliation. "I come here with my selfish desires sated. I intend to give them as much as I take, perhaps more. And also, you need to watch your campus more carefully. The students and the faculty here are proving to be undisciplined, allowing unnecessary feuds to fester."
+
+"Ah, yes, you're talking about the little incident with Scoutmaster Athena, along with the Houses. We really interrupted a proper bloodletting. She was getting on my nerves, but since she has tenure and a great deal of backing from House Stormhalt, I couldn't just see her fired. However, if she'd struck down a child or two, or did something so egregious that her position became politically untenable..." Hymn turned his palms upward in a helpless gesture, trying to insinuate that he would have no choice but to see her removed from the academy.
+
+"I am glad to see the lives of your young pose such high significance to you," the Culturist replied dryly.
+
+His words added to Adam's misery as he unfortunately found himself in agreement with the orc. "Are you serious? You knew about that too, and you just let it happen! You knew and… What even is the point of you being Headmaster?"
+
+"For me? Safety, security, a place to do research, people I can boss around and annoy without any repercussions, state-granted resources, a free annual portrait painting, a nice office, political connections, government-subsidized meals, discounts in various savory and unsavory establishments…" Hymn let out a satisfied sigh and threw his head back with relief, shaking out his white, shoulder-length mane. "There are a great many things I enjoy about running an academy, aside from the students. Frankly, the students are in the far end of the negative category, if anything."
+
+"I would be amused if any of your faux callousness was true at all," the Culturist said, staring Hymn down. He raised a hand to brush his hood off again. "Behind your indifference is a broken spirit. And it's such a pitiful thing for a Legend to experience."
+
+The orc's words painted a frown on the Headmaster's face. "Well, now that the jabs have been traded and you're all in my office unscheduled and unprompted, sneaking past my secretary to interrupt my important time of self-reflection—"
+
+"You were literally just drinking tea and looking at illustrations of naked people," Shiv muttered.
+
+"For that is how I self-reflect. Clarity, boy, comes from taking the right fluids in and letting the right fluids out."
+
+Shiv shot the Headmaster's desk an uneasy look and shoved his chair backward slightly. He refused to make any contact with the wood at all. There was no telling what he might contract, and what crust might remain.
+
+"I've come here to tell you to prepare yourself," the Culturist said, restarting the conversation. "I'm present now, and you understand what that means."
+
+"No," Hymn replied nonchalantly, "no, I do not. If you're trying to provoke me into whatever fight you wish to start, you can forget about it. As I said earlier... Besides, I see what you're wearing. I know that belongs to Valor. You'll have a new plaything to annoy, one far more deadly and capable than I, and one that probably shares your attitude towards me."
+
+The Culturist said, "But it's more than that. I wish to know about the girl."
+
+"What girl?" Hymn replied. His tone remained even, but his body tensed. He knew who they were talking about.
+
+"I was there," the Culturist said, his voice falling low. "I was present during your séance with the other Seeker, the one you seek to claim as an apprentice. Now, she is a fascination to me as well. She is one of them.” He held his arms out over Shiv and Adam to his sides, though he was smart enough to not lay them on their shoulders. Shiv would have been fully ready to start another fight if he'd dared. “And she too will need to be trained thoroughly if she wishes to survive the System's whims. And I am curious to see if she survives metamorphosis."
+
+"You mean the very same kind of metamorphosis that you're forcing on the Young Lord here?" Hymn gave Adam a near-apologetic expression. "I pity you, boy. I really do. Becoming an orc is an ugly thing. The Challenger loves inflicting people with Orcish Skills, but you... You're about to get a full dose. A dose that is more than most people can bear at all.”
+
+Shiv suddenly remembered his own experience in Gate Theborn, and his horror rose. "Wait, is he gonna start getting Orc skills too from this?"
+
+"What?" Adam breathed. "I’m going to turn into a felling orc?"
+
+The Headmaster nodded casually. "Well, he is sustaining the existence of an entire orc inside him. His Heroic-Tier Awareness will likely be the first that changes, and after that, it will spread to his other skills as well. But that's not guaranteed. The orc skills will be issued if the Culturist decides, and judging him so far, he will likely wish to test your mettle when the itch next comes upon him."
+
+But before Adam could turn his fury upon the Culturist, the Legendary orc shook his head and said a single word: "No."
+
+Hades raised an eyebrow. "No? What do you mean by no? You don't intend to inflict him with an Orcish Skill?"
+
+"I may break his flesh, I may sunder and rebuild his mind, but I am done with that mistake. I am done with this dead end that I am, this dead end that the Challenger has made of me." The Culturist drew in a long breath and then centered himself. "Adam Arrow. Of the trials you can expect from me, know that this isn't one of them. The goal here is pain, but also to see you made more than yourself. And going from individual to monster is not that. It would be mere degeneration."
+
+"Well, your self-loathing certainly has grown since the last time I've seen you," Hymn muttered. "You know, there really isn't anything wrong with you. This philosophy you have, this idea that you are misshapen, that only the pure of heart and noble of intent can truly reach the higher tiers of evolution... I think it's simply a delusion. And I will tell you again and again, you are enamored with a story of freedom that doesn't exist."
+
+"Then you are to explain Valor Thann to me," the Culturist said, a faint heat entering his voice. "You are to explain why I have been trapped at Legendary-Tier for so long, even in worlds with higher thresholds, why I am not sufficient, why the Challenger remains the only one of us who has reached divinity, who has gone beyond Legendary."
+
+"Because you are comparing individuals harvested from an extreme, narrow, and limited data set. Think about this: how many people will reach the Legendary Tier at all? How many people stay alive at Legendary Tier for more than a few centuries, not even mentioning long enough to approach the end of their natural lifespan? And then how many people might be able to strive beyond that? Valor Thann might be an outlier among Legends, but still, all Legends are already extreme outliers. So, any conclusions you might make here are inaccurate regarding the generalities of any population. Frankly, I think you should confront the actual issue troubling you."
+
+"And what might that be?" the Culturist asked, voice low.
+
+"That you live under a mad tyrant God who refuses to allow you to change your morphology or twist your neurology and constantly bends you to his whims, strikes you down when you try to rebel against him, and basically makes you miserable for considering alternative modes of thought? That is my best guess." Hymn shrugged. "You are not alone here. I feel the same way about the Songbringer every time she demands sexual favors from me. You have any idea how hard it is to piece your shattered pelvis back together and to finally remove a long, burning rod covered with hooks and slick with baby oil from you—"
+
+"Okay, yeah, enough detail!" Shiv interrupted. “Godsdammit…”
+
+"My point is made." He shook his head and reached out over his messy table to squeeze both Shiv and Adam by the shoulders. "You have my pity, boys. You are now about to suffer the company of the only orc Legend who actually wishes to be a noble and virtuous person, and then bellyaches about it like a teenage girl with a sweet tooth she can't control every single time he fails. I suppose the incessant, self-pitying whining will be the thing that finally drives you over the edge into madness, Young Lord Arrow. You will find yourself brutalized, coughing blood, and then he will be healing you and telling you how the System is oh so cruel. How ‘this world is so determined to feast upon injustice, yet in its flattened state finds itself unable to cross that final threshold, because only the noble and just might be able to find the inner strength to master that final barrier’ or some such nonsense."
+
+"Spare me your feelings. If you have the capacity to remove him, then do so," Adam nearly begged.
+
+"Unfortunately, my pity is all I wish to offer at this moment. He is too much of a dangerous foe, and I am far too lazy to intervene on your behalf. I'm already trying to help one member of your sorry trio; the rest of you will have to deal with your own issues." Hymn looked the Culturist, who had his lips pressed together tightly, up and down and scoffed lightly. "Besides, he's not so bad. He hasn't killed either of you yet, for good. And he's also expressed a willingness to train you—in between bouts of incredible violence. That's not entirely a bad thing. You might even come to like him."
+
+With every syllable that left Hymn’s mouth, Adam turned a new shade of red. "He literally shoved himself inside my soul and tore me apart. He ripped me apart. I felt every bit of that."
+
+"Yes, and I'm sure it's exceedingly painful. However, so is life. So is being a High-Tier Pathbearer. I'm not going to say you'll like him specifically—"
+
+“You literally just fucking did!” Adam practically shrieked in a seizure-inducing rage.
+
+"—but eventually, you'll take what you can from this life. And sometimes what we get is a big, existentially challenged orc with god-issues and no fashion sense who likes to share his philosophical insights with people in between bouts of torturous or fatal training."

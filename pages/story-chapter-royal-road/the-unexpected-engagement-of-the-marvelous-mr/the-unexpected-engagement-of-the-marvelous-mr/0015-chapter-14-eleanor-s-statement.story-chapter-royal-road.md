@@ -1,0 +1,249 @@
+---
+id: 2811cecb-6f83-5da7-b3ba-932bfe4099e1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14 - Eleanor's Statement"
+slug: 0015-chapter-14-eleanor-s-statement
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 15
+ownLength: 2174
+unit: words
+publishedAt: 2022-06-04
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/920552/chapter-14-eleanors-statement"
+royalRoadId: "920552"
+---
+
+Eleanor and Haley were in the library. He had pulled up a chair so he could sit beside her as she looked at the photographs he laid on the desk in front of her, one by one.
+
+They were almost halfway through the stack before she dropped her hand to touch one of the photos.
+
+“Him. That’s Penn.”
+
+In real life, his hair was anything from blond to brown depending on the light and angle. His eyes were equally indecisive, mixing green and brown in equal measure. The monochrome photo could show none of this, but the shape of his nose, his jaw, and his eyebrows were all the same.
+
+“That’s the man in your bedroom and the man you met at the warehouse last night?” Haley asked.
+
+“Yes.”
+
+“The same face both times?”
+
+Eleanor picked up the photo and drew it closer. “Yes.”
+
+“That is the man we know as Ryce Penn. Congratulations. You’ve had the honor of seeing his real face.” Haley went to pick up the photos she’d left on the desk.
+
+“He’s very handsome, isn’t he?”
+
+Haley dropped the photos and had to fumble to pick them up. “Is he?”
+
+“Yes.”
+
+The inspector glanced at her. She was looking at the picture with narrowed eyes, as if debating its merits, and her affirmation had been dispassionate—almost clinical. He found that vaguely reassuring.
+
+She went on, “He was also charming and well-spoken.” There was a short silence, then she shook her head and passed Haley the photo. “Never mind.”
+
+Haley received the picture and put it with the others. “What is it?”
+
+“It’s nothing.”
+
+“Miss Serrs, what will it take to get you to tell me what you’re thinking? Do I have to ask you a thousand questions? Shall we start with did you smell anything?”
+
+Eleanor’s stomach lurched, but when she raised her eyes, she saw the telltale tension in his cheek. He was joking.
+
+She relaxed. “In my experience most men rely on superficial things to try to gain a woman’s favor. I wondered—if Mr. Penn is as egotistical as you say, he might have assumed he had a decent chance of winning me over.”
+
+“But you rejected the idea?”
+
+“I recognized my own desperation. A part of me still wants to believe that it was Penn who sent those invitations. It would make it less personal.”
+
+As the inspector put the photos away in their envelope, he tried to think of something he could say to reassure her. Before he thought of anything, she spoke again.
+
+“Mr. Haley, I never apologized for not telling you about the flour. I’m sorry. I hope you’ll forgive me.”
+
+He took his time putting the envelope back in his jacket pocket. “As a police officer, I can’t condone what you did. But I understand why you did it, and I don’t blame you.” He stood up from his chair and picked up the papers that included her written statement and his notes. As he folded them, he said, “I hope that, someday, you’ll feel inclined to share with me a little more freely.”
+
+“Of course.”
+
+“All your thoughts. Not only the ones I badger you for.”
+
+Eleanor said in a teasing voice, “I can’t imagine that’d be worth your time.”
+
+But there was no humor in Haley’s response: “The moment Penn broke into the house, I was convinced he was the culprit from beginning to end. Most of us were. But not you. What you learned saved me a lot of time and trouble. It’s important for a detective to keep an open mind, and I’ve found the most reliable way to do that is by making use of the minds of others.” He hesitated. “Not that—not that I’m encouraging you to go out and do anything like that ever again. Please.”
+
+Eleanor smiled. There was too much desperate honesty in that please.
+
+He went on, “I think it takes a year off my life every time I have to rush into a room to see if you’re all right, and I’m down by two as it is.”
+
+Eleanor stood up. “All right, Mr. Haley. I’ll try not to do it again.”
+
+“You’ll try?”
+
+Haley smiled when he heard Eleanor’s laugh. Of course she turned her head away, but when she looked back at him, he was still watching her.
+
+“How did your father take it?” he asked.
+
+Eleanor’s smile faded. “I think he’s given me up.”
+
+“Given you up?”
+
+“Like a bad investment.”
+
+“Did he…”
+
+Eleanor sighed. “He had quite a few things to say to me. I’m surprised you didn’t know. Even across town, you should have been able to hear it. Then he left the room, mid-rant. I didn’t know there was an upper limit to how much he could yell, but I seem to have found it.”
+
+She had tried to sound lighthearted, but her face betrayed her.
+
+She went on, “It’s probably a good thing you came here to get my statement. I think I’ll have to stay in for a few days.”
+
+“Is it the duke?”
+
+“No. My aunt. I think I scared her badly.”
+
+“I’m sorry, Miss Serrs.”
+
+“Thank you for your sympathy.”
+
+As she led him out of the library, he asked, “Did you tell them what you learned?”
+
+“I told my aunt and my cousin. I didn’t get a chance to tell my father.”
+
+“He doesn’t believe it anyhow,” a voice said from behind them.
+
+It was Edward. He sauntered toward them with his easy gait.
+
+“Mother tried to talk to Uncle Erravold after you went to sleep,” the baron said. “He claims it’s another one of Penn’s tricks.”
+
+Haley waited until Comtess caught up with them. “And what about you, my lord?”
+
+Edward put his hands in his pockets and shrugged. “I have to admit, I’m not sure what to make of it. But I think the joke has gone on long enough.”
+
+“Amen,” Eleanor said.
+
+“Eleanor,” Edward swung toward her, “Mother wanted me to track you down and tell you she’s waiting for you.”
+
+Eleanor turned to the clock in the hall and muttered, “Blast!” She turned back to Haley. “Please excuse me. That took longer than I thought it would.”
+
+“It’s all right, Lady Serrs. I know my way.”
+
+“The book!” Eleanor darted away.
+
+“She’s got the book!” Edward called after her.
+
+Eleanor changed directions and went for the back stairs.
+
+Edward shook his head. “Poor girl.” He looked at Haley. “You’d think Mother had gone blind for how she insists Little Ellie has to read to her.”
+
+“She’s reading to Lady Serrs-Comtess?”
+
+“She’s being kept track of.” The baron shrugged again. “Well, there are worse ways. I used to catch them arguing with each other about what they were reading. It’s a good time for Mother. God knows, I’m too lazy to argue with her.”
+
+Haley smirked.
+
+Edward motioned toward the front of the house. “Let me show you to the door, Inspector. Maybe we can walk there slowly and linger when we arrive.”
+
+“You want to talk to me?”
+
+“Guilty. I know I don’t technically have anything to do with this, but a man can’t get tied up and thrown into a kitchen without feeling like he has some rights to a scrap or two of information.”
+
+“What can I do for you, my lord?”
+
+“It’s this nonsense that Eleanor came home with. Do you think Penn was telling the truth? That he didn’t send those invitations?”
+
+“I’m inclined to believe that, but I don’t know for certain.”
+
+“Oh, Uncle Erravold! He’s too much fun to pester. Not that I do it. Ha! No. But I am jealous. You can tell Penn that yourself.”
+
+“If I get the chance, my lord.”
+
+They arrived at the front door. “So that’s it then? The case is over?”
+
+Haley stopped beside the baron. “I’m afraid I’m not following you.”
+
+“It’s only some invitations and a few letters in the paper. There’s been no crime. Even when Penn came here, he didn’t steal anything.”
+
+“He broke into this house—that is a crime.”
+
+“I know he knocked me around a little, but I’m not one to hold a grudge.”
+
+“I doubt the duke will be so lenient.”
+
+“Oh, right. I forgot about him. Damn.” Edward sighed. “Then are you going after Penn for breaking and entering?”
+
+“Of course I’ll be keeping an eye on Penn, but my first concern is learning who sent those invitations.”
+
+The baron leaned on the nearby table and offered the policeman a lopsided grin.
+
+“Inspector Haley, far be it from me to tell you your job, but if a real crime has been committed, shouldn’t you be paying attention to that? Those invitations, while in very poor taste, weren’t illegal, were they?”
+
+After glancing around the hall, Haley stepped closer. Using the same familiarity the baron had used with him, he said, “This real crime—who was hurt? What was the damage? A broken windowpane. Maybe a little of your pride?”
+
+“A little,” Edward admitted.
+
+“Maybe a lot of the duke’s pride?”
+
+“He had more to hurt.”
+
+“Not much then. Hopefully, no lasting damage. But whoever sent out those invitations has made Lady Serrs’ life unbearable.”
+
+The baron laughed. “I think that’s a bit much.”
+
+Haley gazed at him until Edward’s smile disappeared.
+
+“All right, yes,” the baron said. “But do you really think that the best way to handle this is by making a bigger deal out of it?”
+
+“You want me to leave it alone?”
+
+“I’m worried about Eleanor! I think the sooner this dies down, the sooner her life can get back to normal.”
+
+“I agree with you, my lord, and I will try to keep my investigation discreet, but I’ll feel much more comfortable when I know whoever sent those invitations has no further plans for interfering in Lady Serrs’ life.”
+
+Edward’s growl became a grumble: “That makes sense, I suppose.”
+
+Haley took a step toward his hat, then stopped and turned back. “Lord Comtess, am I right in thinking you know Lord Gervase Fitzmon, Marquess of Newel—Lord Ryder Massey, Earl of Suherham—and Dominic Winfield?”
+
+Edward laughed. “Their proper titles and everything. I’m impressed, Inspector. How do you do it?”
+
+“I’ve had some practice.”
+
+“Yes, I know the old boys. I guess that was a bit obvious. His Grace wouldn’t want his daughter marrying some random stranger, so they were bound to run in our circle—well, Dominic was a little bit of a stranger, but we took him in.”
+
+“You knew they had all courted Lady Serrs?”
+
+Edward leaned toward him. “Inspector, everyone knew.” He leaned back. “I shudder to imagine all those whispers over tea and behind fans. I couldn’t even escape from it at the club!”
+
+“Why was so much attention given to it?”
+
+Edward shrugged awkwardly. His face was more twisted than normal, and he wasn’t grinning. “The whole thing was a bit of a botch up. After Little Ellie turned down her second victim, rumor got around that Uncle Erravold was setting up the matches—”
+
+“I’m sorry, the duke set up the matches?”
+
+Edward’s smile reappeared. “He didn’t tell you, did he?”
+
+“No. His Grace failed to mention that fact.”
+
+“It isn’t unheard of among…well—let’s not dodge the truth—among us my-blood’s-redder-than-yours aristocrats, but we usually know beforehand how it’ll turn out. When Eleanor said no, people wanted to know why. They wondered if something was wrong with the suitors, or if they had wanted to propose in the first place, but then, after she rejected the third one, they kind of assumed there was something wrong with her.”
+
+“What kind of something?”
+
+“Well, a woman would have to be insane to turn down Fitzmon! Never mind the other two.”
+
+“Did she ever say why she refused them?”
+
+“No. She never spoke a word, and believe me, I would have been the one she spoke to.”
+
+“Did you ever ask her?”
+
+“I did. She refused to answer, and after the look she gave me, I had absolutely no intention of asking a second time.”
+
+Haley unconsciously nodded with empathy and rubbed his jaw. Then he looked up at the baron. “They didn’t all present their suits at once, did they?”
+
+“God bless you, no! It was farcical enough as it was. That would have only made it more idiotic.” He crossed his arms. “Though, as I say it, it might have made her refusals more understandable.”
+
+“Do you know what order they applied in?”
+
+“I know Dominic was last, but if you want to know whether it was Fitzmon or Massey first, you’d have to talk to my uncle.”
+
+The baron watched as the inspector considered all he’d heard. His dark head was bowed. One arm was around his chest, and one hand was still at his chin. Most of his face was motionless and smooth, but his brow scowled.
+
+The lines on his forehead disappeared when he raised his eyes. “Is the duke in right now?”
+
+Edward motioned back toward the house. “Lucky you, he is. I’ll show you the way.”

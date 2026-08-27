@@ -1,0 +1,183 @@
+---
+id: f33211fc-f5bb-59f8-94ea-ef30ff2384e7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5: Awoo of Awakening"
+slug: 0005-chapter-5-awoo-of-awakening
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 5
+ownLength: 1530
+unit: words
+publishedAt: 2025-08-21
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2535653/chapter-5-awoo-of-awakening"
+royalRoadId: "2535653"
+---
+
+By evening, her belly was round with squirrel and her chest puffed high with pride. She stretched long in the dirt, paws kicking idly, tail sweeping back and forth in happy rhythm.
+
+The forest smelled good. She smelled better. Apex predator!
+
+But something buzzed beneath her fur. Even deeper inside. An itch deep in her skull, like paws scratching against thoughts. She sat up, ears twitching, nose wrinkling.
+
+The world flickered.
+
+【Knowledge Shard Assimilation Complete.】 【Language Comprehension: 34%】 【Intelligence +2】 【Cognition: Increased.】
+
+Her ears perked tall.
+
+A new prize! From that shiny ball she had bitten.
+
+Her tail thumped wildly against the dirt.
+
+Her brain, though, stuffed itself with too much. Thoughts tumbled one over the other, crowded like meat jammed into a skin. She groaned, flopped on her back, and let her legs wiggle helplessly.
+
+She blinked up at a tree and the word jumped at her.
+
+“That’s a tree.”
+
+Her ears twitched. She blinked again, faster this time. Another thought chased it.
+
+“Wait. What’s thinking?”
+
+Her tail wagged despite the confusion. And then, clear as meat on her tongue:
+
+“Tree looks delicious.”
+
+She barked a laugh at her own brilliance, rolling to her paws and circling the trunk. The bark still bore the scars of her earlier strike. It smelled woody, sharp, not nearly as tasty as squirrel, but her jaws worked anyway.
+
+She gave it another bite. Splinters again. She spat them out with a shake of her head, sneezed twice, then licked her lips.
+
+Her brain fizzed louder. More words clattered into place, too fast, too bright.
+
+“Wood. Splinter. Chew. Bad flavor. Victory snack? No. Maybe.”
+
+She sat, chest heaving, eyes wide. The thoughts didn’t stop. They multiplied, sprouting new ones like weeds!
+
+She chased one, only to bump into another. She growled at them, then wagged her tail because growling at thoughts was funny.
+
+Her eyes wandered back to the squirrel bones. Words tagged them too.
+
+“Bone. Sharp. Crunch. Delicious marrow.”
+
+Her ears folded at the sheer noise inside her head.
+
+Too much. Far too much. Yet her tongue lolled in a silly grin. More thoughts meant more ways to eat, right? More words meant more kinds of food. Probably.
+
+She flopped belly-first onto the bones and licked one clean, savoring the earthy tang. The system flickered faint again, but no words came this time. Only her own:
+
+“Bone snack. Yes. Good snack.”
+
+She curled around it, tail wagging steady. Her eyes drifted to the treeline, to the pack shadows beyond. New words danced there too. “Pack. Wolves. Rules. Teeth. Food.”
+
+Her head tilted. So many words, none of them chewed yet. Her tail wagged harder.
+
+She rolled to her feet, eyes bright, ears perked.
+
+“More. More words. More food.”
+
+The forest seemed wider now, filled with hidden flavors and shiny thoughts waiting to be bitten. Her belly was full, her brain fuller still, and she didn’t know which thrilled her more.
+
+She lifted her muzzle to the dusky sky and let out a squeaky, triumphant call.
+
+“Awoo!”
+
+And this time, even her thoughts howled with her.
+
+The pack sprawled across the clearing, bellies round from meat, paws twitching in dreams. The night air hummed with crickets, and above them the moon glowed full and fat, bathing the den in silver. Wolves dozed easy beneath its light.
+
+She did not.
+
+Lying on her side, eyes open, thoughts swirled thick and restless. Too many. Too strange. Every time her ears flicked, another idea landed in her skull like a falling berry.
+
+What were names? She chewed the thought like a bone. A name was… something? A sound that belonged to you. “I.” But what was “I”? Was it the nose that sniffed? The teeth that bit? The tail that wagged? Maybe all of it.
+
+Her belly gave a small growl. She licked her lips and thought of humans. Why did they cook food? Did fire make meat taste different? Was fire spicy?
+
+Her tail twitched. Probably. Spicy fire-meat sounded incredible.
+
+Her gaze drifted upward. The moon loomed vast and round, glowing like a giant bone polished smooth. She tilted her head. The moon looked warm. Friendly. Hers?
+
+She blinked at it, and in that quiet, it almost felt like it blinked back.
+
+The thought landed with weight: she needed to speak. Not whine, not yap. Speak.
+
+Her heart thudded, tail wagging with anticipation. This was important. This was her first big thought, her first real choice. A decision that would shape her forever.
+
+She scrambled to her paws, puffed her chest, and lifted her muzzle to the sky. Breath gathered, her whole little body trembling with conviction.
+
+Her jaws parted wide–
+
+[[[AWWOOOOO!!!!!]]]
+
+The clearing erupted in chorus. The pack woke as one, voices spilling upward to answer the moon. Great throats carried deep, rolling notes. Pups squeaked high-pitched howls, tails wagging furiously. The song stretched across the forest, sharp and wild.
+
+And she, caught in the middle, threw her own squeaky voice into the sky.
+
+It felt good. It felt right. Her chest vibrated, her ears rang, her tail wagged so hard she nearly toppled. Her howl joined theirs, bright and silly but true. For a moment, she was one with them, every heartbeat thrumming with pack and moon together.
+
+But then the thought slammed into her again.
+
+No! Not that!
+
+She was supposed to say her name!
+
+Her tail stuttered, her howl cracked into a confused whine. She stamped her paws, ears flicking wildly. Darn it! She was going to say it. She was going to stand tall under the moon and claim herself. Instead she had just awooo’d with the others like a pup with no thoughts at all!
+
+She huffed, glaring at the moon as if it had tricked her. The moon only glowed back, round and smug.
+
+Her chest still puffed with leftover pride. Her first attempt hadn’t worked. But the idea remained, shining sharp inside her skull. A name. Hers.
+
+Next time, she promised silently, nose twitching. Next time she would do it!
+
+She remained sitting in the clearing, chest heaving, ears twitching. Her little howl still tingled in her throat, but her face burned hotter than jerky spice.
+
+Then flopped onto her side, tail still wagging despite her grumble. The moon hummed over her, and the pack’s song lingered with warmth in her ears. She curled tight, muttering through a squeaky sigh.
+
+“Awoo… name later.”
+
+But she refused to fall into dreams, too busy chewing on the thought of what that name might taste like.
+
+No, she would not wait!
+
+Name too important, and all hers!
+
+The pack’s voices faded slowly, the last notes drifting into the forest until only the crickets sang. Wolves stretched, yawned, and tucked noses beneath tails again, as if the whole chorus had been nothing more than a shared breath before sleep.
+
+She sat her rump on the dirt with a squeak, tail wagging despite herself.
+
+“Dumb mouth. Betrayed me.”
+
+The words came out in a mutter, half growl, half sigh. She pawed at her muzzle as if she could scold it into obedience. Her big chance had been stolen!
+
+She was supposed to speak, to declare herself under the moon’s light, not squeak along like the rest of them.
+
+But the thought hadn’t gone away. It still shone bright and silly inside her head. What she had meant to say – before the dumb lugs joined in – was her name.
+
+Her name shall be Luna!
+
+The thought rolled through her mind like fresh meat on her tongue. She tasted it carefully, savoring each bit.
+
+“Luu-na.”
+
+Soft. Round. Whole. Just like the moon that had watched her tonight.
+
+Her tail thumped the dirt faster. Yes. That was it. That was hers. She puffed her chest with pride, eyes glimmering in the moonlight.
+
+The moon’s glow seemed warmer now, agreeing with her. She tilted her head, gave it a grin, and wagged harder.
+
+Around her, the pack slept on, unknowing, unbothered. That was fine. Tomorrow she would tell them. Tomorrow she would say it out loud, for all the forest to hear.
+
+Her belly gave a small groan, interrupting the thought. She snorted a laugh.
+
+Full of squirrel and scraps, yet already hungry for more. Tomorrow, she promised her stomach, she would find something new to bite. Something stranger. Something that made her stronger.
+
+And maybe she would name that too. Food deserved names, didn’t it? Bird: F-tier. Jerky: spicy victory. Squirrel: gamey but good. Bark: wood-flavored prey. Her tail wagged at the thought of a whole world of meals waiting to be named.
+
+She curled her tail close, nestling into its warmth, and laid her chin on her paws. The itch of too many thoughts eased at last, softened by the rhythm of her wag.
+
+“Luna,” she whispered, this time shaping it carefully with her silly little mouth. The sound cracked and squeaked, but the meaning was hers.
+
+Her grin widened, toothy and proud. Tomorrow, the world would know it too.
+
+The moon watched as her eyes slid shut, her tail still sweeping the dirt in happy beats. Her last thought before sleep was simple, warm, and smug:
+
+Luna. Meat-eater. Name-biter. Moon’s chosen pup.

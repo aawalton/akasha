@@ -1,0 +1,373 @@
+---
+id: f7316308-35b6-5bc0-b261-6013d0737b4a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10: Shattered"
+slug: 0010-chapter-10-shattered
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 10
+ownLength: 2569
+unit: words
+publishedAt: 2026-04-10
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3257199/chapter-10-shattered"
+royalRoadId: "3257199"
+---
+
+Fire rained from above.
+
+I had died so many times in this corridor that I thought I understood its cruelty.
+
+But I had never seen this.
+
+Even when I'd been thrown into a cell, forced to listen to distant screaming while iron bars kept me helpless, I hadn't witnessed what happened behind the first wave. My mind had always narrowed to one immediate truth: the next wyvern, the next dodge, the next set of teeth around me. I hadn't spared a thought for the people who stayed back.
+
+Some part of me had assumed they survived.
+
+That Magitek, those rune-armored soldiers who moved like living fortresses, would form a wall.
+
+The Six Circle mage would snap his fingers and turn the sky into ash.
+
+That the rear lines would hold, even if we didn't.
+
+Now that expectation died.
+
+The screaming from beyond the gate continued. Yet the mages that were supposed to fix everything weren't advancing. They couldn't. They were pinned in place.
+
+The seven mages and their ring of soldiers were still there, except they weren't standing.
+
+All of them lifted off the ground at once, dangling in the air as if some invisible hand had seized them by the neck.
+
+The Six Circle mage, arrogant, untouchable only moments earlier, clawed at his own throat, face twisted in disbelief.
+
+A sick cold spread through my gut.
+
+If something could do that to him… then what chance did the rest of us have?
+
+The gate groaned wider, and the darkness beyond it poured out.
+
+From the top of the monumental doors, shapes crawled into view. Wyverns, yes, but not only the enormous ones that hunted me in my loops.
+
+Smaller versions clung to the metal and stone like insects on a hive wall. They had leaner bodies, shorter wings, and faster movements.
+
+Hatchlings? A different breed?
+
+They skittered along the doorframe and the cavern wall, claws scraping grooves into rock, then launched themselves into the air with frantic wingbeats.
+
+The cavern walls seemed to come alive. Some wyverns spewed fire in sweeping arcs that turned shields into glowing strain and cloth into instant ash. Others dove low and simply snatched soldiers in their teeth or talons, lifting them screaming into the air, then dropping them as if they were nothing but meat.
+
+They attacked and consumed anything in their path.
+
+Still, there was resistance.
+
+For the first time, I truly saw what "an expedition" meant when it wasn't filtered through my own panic and imminent death.
+
+Magic erupted everywhere.
+
+A spectacle of the impossible.
+
+Chunks of ice formed in midair with crackling snaps, condensing from nothing into jagged boulders that slammed into winged bodies and sent them tumbling. Plants burst from the stone floor, vines and thorned growth surging upward, wrapping around legs and wings, yanking wyverns down mid-flight. Beams of light, blinding lines like cutting lasers, sheared through necks and skulls.
+
+Everything a mind could imagine, if I had grown up believing imagination could become a weapon, was being cast.
+
+I watched wyverns die.
+
+They fell from the ceiling like birds shot from the sky, their bodies twisting as they crashed into the ground.
+
+Yet even that victory was its own disaster.
+
+A dying wyvern was a collapsing building made of scale and bone. When one hit the stone, it didn't simply land; it crushed. Three or four people vanished under its weight in an instant.
+
+Still, my attention snagged on something else. Something that made the chaos around it feel suddenly smaller.
+
+Three wyverns.
+
+They were larger than any I had ever seen in my loops. Not merely bigger, they looked unique. Their scales weren't obsidian-black like the others. They were red.
+
+Their eyes were not the feral stare of a beast. They looked intelligent.
+
+They didn't dart around in hunger or rage blindly.
+
+They watched. Observing the cavern like a battlefield map. Measuring lines, noting spells, and reading formations. They looked at the fighting the way a commander looks at an engagement, deciding where to apply pressure next.
+
+For a moment, they stopped surveying the cavern. Their heads turned in unison. Focus tightening to a single point.
+
+I thought they were looking at me.
+
+My mouth went dry. My fingers twitched toward the hidden hilt at my hip.
+
+But I understood as I followed their gaze.
+
+They weren't looking at me.
+
+They were looking at the mages.
+
+At the ritual circle.
+
+At the men and women who were supposed to be our aces.
+
+I stood there and for a second my mind tried to split into two instincts that didn't agree.
+
+Run.
+
+Or do something.
+
+Fear rose fast and hot. It whispered all the reasonable things: You have no mana. You can't fight them. You're nothing to them. Leave. Live longer.
+
+But something else pushed back. My stubborness. I had survived too many restarts to accept helplessness as a final answer.
+
+I shook my head sharply, as if I could fling the fear off my shoulders, and ran.
+
+The ground was slick in places. My boots skidded once, and I nearly went down hard, but I forced my legs to keep moving.
+
+I pushed through toward the ritual site.
+
+Toward the ring of runes and mana crystals that still pulsed faintly on the ground.
+
+I reached the first soldier and grabbed his legs.
+
+"Come on," I grunted, bracing my feet on the stone and hauling downward with both hands. His armor was heavy, far heavier than I'd expected, dead weight hanging from whatever held his throat.
+
+"Wake up!" I pleaded, even though I didn't know if he could hear me. "Get down!"
+
+He didn't budge.
+
+Not even a centimeter.
+
+It felt like trying to pull a man who'd been nailed to the sky.
+
+I let go and stumbled to the next one, grabbing at boots, at calves, at anything I could get leverage on. I shook another mage.
+
+Nothing.
+
+They remained suspended, strangled by an invisible noose.
+
+My chest tightened with frustration. This was exactly the kind of moment I hated most. When I needed to do something, I didn't even know what it was.
+
+I forced myself toward the center.
+
+Toward the mage who had shown six Circles.
+
+He was still lifted off the ground like the rest, but his eyes were open wide. He couldn't move his arms properly. His fingers trembled near his throat as if he were trying to pry something off himself.
+
+I stood beneath him, staring up at the man. I didn't know his name. I didn't know what he was called beyond "Six Circle."
+
+But if anyone could understand what was happening, it was him.
+
+"How do I free you?" I shouted.
+
+He stared down at me, jaw working, but no sound came out.
+
+Finally, the sound of wings stopped.
+
+The sudden quiet in the air was so wrong that my skin prickled. A heavy vibration rolled through the stone beneath my boots.
+
+I turned.
+
+Three enormous shapes were approaching from behind me.
+
+The red-scaled wyverns.
+
+My hand went to my sword.
+
+Metal rasped as I drew it. I lifted the blade and pointed it at the nearest wyvern, trying to keep the tip steady.
+
+In that moment, I felt exactly what I was: a child holding a stick in front of a lion.
+
+Yet my heart still hammered.
+
+I had already died. Over and over. Fire, teeth, acid, crushing darkness. Death had become a doorway I kept walking through. The thought of dying again didn't terrify me the way it once had.
+
+"A knight?"
+
+The voice slid into my head as if it had always been there.
+
+I stiffened, sword raised, the tip trembling in front of the nearest red-scaled wyvern. Its jaws hadn't moved. Its throat hadn't flexed. There was no sound in the air that matched the words.
+
+Yet I understood it perfectly.
+
+I swallowed hard.
+
+The wyvern's eyes remained fixed on me like I was an insect that had climbed onto the wrong boot.
+
+"No," a second voice answered, equally calm. "He only carries a sword. A knight is far more powerful than that."
+
+Another. One of the other red wyverns spoke without opening its mouth.
+
+My grip tightened on the ornate hilt until it bit into my palm. Sweat slid down my fingers, making the weapon feel slippery.
+
+"There are still knights?" The third one asked.
+
+"I don't think so. Their race prefers to use magic."
+
+The nearest wyvern took another slow step forward. Its claws clicked against stone.
+
+"Who sent you into our master's territory?"
+
+Master? Territory?
+
+The suspended mages behind me suddenly felt less like an accident and more like a message.
+
+I swallowed and forced myself to answer.
+
+"Territory?" I said, my voice hoarse. "We didn't know."
+
+"Lie!"
+
+The wyvern's gaze shifted, not to me, but past me, toward the man with six Circles still glowing faintly.
+
+"He knew," the voice said, colder now. "He knew this was our territory."
+
+I followed the wyvern's stare.
+
+My image of the mage collapsed.
+
+I turned my face back toward the wyverns, forcing myself not to shake.
+
+"We can leave," I said quickly. "We don't want to fight."
+
+The nearest red wyvern's head tilted slightly.
+
+"Child," it said, and the word wasn't an insult so much as a diagnosis. "Do you truly believe that? Who enters another's territory with an army and does not intend to fight?"
+
+"Unfortunately for you," the voice continued, almost conversational, "only death remains. That way, no one will find you."
+
+No one will find you.
+
+The sentence struck a deeper. It wasn't just we will kill you. It was we will erase you.
+
+I adjusted my stance. My sword rose closer to my face, both hands on the hilt.
+
+"I can't let that happen," I said.
+
+I didn't even know if I meant I can't let you kill them or I can't let you erase us. Maybe both. Maybe neither.
+
+The wyvern's gaze sharpened.
+
+"You have a peculiar scent," it said. "Ancient magic. Yet you overestimate yourself."
+
+"I know," I said.
+
+I wasn't delusional. I wasn't a hero. I was someone in a borrowed body holding a decorative sword.
+
+But I had one advantage no one else had.
+
+I could die. It wasn't final.
+
+If dying bought information, then death was a price I could afford.
+
+I kicked off the ground and charged.
+
+The other two red wyverns didn't move. They didn't lunge. They didn't even react with interest.
+
+I sprinted straight at the nearest one, sword leveled, mind running through everything I'd learned the hard way: watch the tail, watch the mouth, don't blink, don't hesitate.
+
+The world narrowed.
+
+Everything around me blurred. I focused on the wyvern's body. The slow flex of its legs, the subtle shift of weight, the way its muscles moved beneath red scales.
+
+Its tail twitched once, heavy enough to smash a person into paste if it swept sideways.
+
+Its mouth began to open.
+
+Rows of serrated teeth appeared. Heat rolled out in a foul breath that smelled of rot and sulfur.
+
+Now, my mind screamed. Dodge!
+
+I held my gaze on that maw until the last possible second, forcing myself not to flinch away. When the jaws opened wide enough, I moved left, trying to slip past the bite line, trying to get close enough to strike for the softer parts.
+
+I thought I was ready.
+
+I wasn't.
+
+A massive forelimb snapped out. Faster than the opening of its mouth, faster than my sidestep. It wasn't even a clawed strike. It was a casual, contemptuous swat.
+
+The paw hit me.
+
+My ribs screamed. Air exploded out of my lungs. My vision whited out at the edges as my body lifted off the ground.
+
+I flew.
+
+For a weightless instant, I was nothing but a rag doll thrown by something that barely needed to try.
+
+I slammed into a stack of supply crates.
+
+Wood cracked. Something inside the crates shattered. Splinters bit into my back and shoulders through my robe.
+
+I hit the ground hard, grit and ash filled my mouth.
+
+I tried to inhale and coughed instead, choking on smoke and shock.
+
+Pain radiated out from my ribs in waves. My abdomen was split open.
+
+Not completely, my guts weren't spilling out, but the cut was deep enough that blood poured, running down my stomach and soaking into my robe until the cloth turned heavy and dark. Each breath dragged pain through the wound like barbed wire.
+
+I looked up through blurred vision and realized something almost worse than the injury.
+
+They weren't taking me seriously.
+
+The three red-scaled wyverns didn't rush to finish me. They didn't pounce. They didn't clamp their jaws around my throat and end the lesson. They barely even looked at me anymore. Their attention was already drifting past me, toward the ritual circle and the suspended mages, like I'd been nothing but a distraction.
+
+My hand flew to my abdomen, pressing hard against the gash. My fingers sank into warm blood. I tried to stop the bleeding.
+
+With my other hand, I planted the sword tip on the stone and leaned on it like a crutch. The blade trembled under my weight. It wasn't made for this, neither of us were.
+
+I forced my legs to move anyway.
+
+Somewhere behind the pain, my mind still worked.
+
+The three monsters were too close to the ritual site. If they reached the mages, if they decided to end the expedition, then everyone who had any chance of stopping this would die in seconds.
+
+I bared my teeth and dragged air into my lungs.
+
+Stand.
+
+My knees wobbled. My vision swam. The pain tried to fold me back onto the ground.
+
+Stand!
+
+I bit down hard, jaw clenched until it ached, and pushed myself upright. My body trembled, but I stayed on my feet.
+
+My mind was polluted with pain. But my eyes locked onto one thing with sudden, ruthless clarity.
+
+The ritual circle on the ground.
+
+The runes still glowed faintly. Around the circle, the mana crystals the soldiers had placed still held a remnant of inner glow, dimmer now but not dead.
+
+Power sources.
+
+If the wyverns had seized the mages by the throat, then maybe the solution wasn't to fight the wyverns.
+
+Maybe it was to break the mechanism that made the gate and this trap possible in the first place.
+
+I moved forward.
+
+Each step was a scrape. My boots dragged. I kept my right hand pressed to my abdomen, feeling blood ooze through my fingers with every movement. With my left, I used the sword as a cane, the point clicking and skidding against stone.
+
+Step.
+
+Step.
+
+My legs threatened to buckle. My breath came shallow and ragged. Still, I reached the edge of the ritual formation.
+
+The nearest mana crystal sat in its position.
+
+I stopped.
+
+I released my weight from the blade and raised it overhead with my left hand. The sword felt impossibly heavy.
+
+My right hand remained clamped to my wound.
+
+My left arm trembled.
+
+I stared at the crystal and drew one last breath. Then brought the sword down with everything I had left.
+
+The point struck the mana crystal dead center.
+
+It shattered. The crystal exploded into a spray of glittering fragments.
+
+The light in the runes blinked. Faltered. Seconds later, it went out.
+
+At the same instant, the suspended mages and soldiers dropped.
+
+It worked.
+
+They weren't dead.

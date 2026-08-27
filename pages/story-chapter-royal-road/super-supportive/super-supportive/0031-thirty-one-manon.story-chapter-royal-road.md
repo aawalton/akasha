@@ -1,0 +1,309 @@
+---
+id: 3bd7e533-f86d-5710-b3bb-b2b5773c1efa
+page-type-slug: story-chapter-royal-road
+title: "THIRTY-ONE: Manon"
+slug: 0031-thirty-one-manon
+partOf: super-supportive
+position: 31
+ownLength: 4135
+unit: words
+publishedAt: 2023-04-27
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1194129/thirty-one-manon"
+royalRoadId: "1194129"
+---
+
+Joe spent the next ten minutes exclaiming over the man Alden had rescued and the cases of supplies he’d brought. He divided his time pretty equally between them, so it was hard to tell which he was happier to have returned to him.
+
+Alden didn’t want the professor to think up any additional errands, so as soon as it was possible, he made his escape and left the Summonarium behind.
+
+He walked across the dark campus, enjoying the strange night sounds of another world and relishing in the first real freedom he’d had all day. The only thing left on his task list was his sleep curfew. And that was one assignment he was looking forward to completing.
+
+I don’t even know where I’m supposed to sleep, though.
+
+At lunch, the other humans had mentioned dorms, but Alden had no idea where they were.
+
+“System, can I get one of those carts? And a shower? And a bed?”
+
+He wondered if it would just give him a map and tell him to walk there himself since he was no longer on duty. But he must have been authorized to use the carts in his free time, too, because a couple of minutes after he made his request one of them rolled to a stop beside him.
+
+Alden collapsed into a seat gratefully.
+
+He had a lot he needed to think about and almost no energy left to do it with. There was a ton of stuff to unpack from the trip to Moon Thegund. He was sure he could come up with a few dozen questions just about that last teleportation cycle.
+
+If every day here is as long as this one has been, I’m going to be a wreck in no time.
+
+And that reminded him. He finally had time to call his friends and let them know he was alive.
+
+“System, I want to place a video call to Boe Lupescu in Chicago, Illinois.”
+
+Video, audio, and texting from here all cost the same absurdly high price, so why not? The connection fee was five hundred Argold, plus three every minute. Alden couldn’t decide if it was fair or a total scam. On the one hand, he was instantaneously communicating across dimensions. On the other, holy crap…even if he only talked for a second, this call was going to cost more than a month’s rent on the house.
+
+He accepted the price, marveling at the fact that he had enough money not to second guess the decision, and around a minute later, Boe answered.
+
+Unlike the larger, circular image he’d gotten when he received a video call from Keiko Velra, the picture he had of Boe was a normal cellphone camera image.
+
+Boe was sitting up in bed. Behind him, a large gap in the blinds showed the half-lit windows of a neighboring building.
+
+“Shit. I woke you up,” said Alden. “Do you mind talking right now?”
+
+Boe rolled his eyes. “Gee…no. I’m far too busy to accept a call from my friend who disappeared in his death lab coat hours ago and hasn’t been heard from since. Try again later.”
+
+“Sorry. It’s been crazy, but I should have called before this.”
+
+“It’s fine.” Boe climbed out of bed and walked over to flip the light switch by the door. “You look like you’re in one piece. I’m glad.”
+
+“Thanks,” said Alden. “And yeah. I’m okay. I’m on a university campus, watching amateur wizards take exams. It’s not too dangerous. I’m going to be here for twelve days…well, eleven now.”
+
+His friend raised an eyebrow. “That’s a long assignment to get out of the blue. How do you want me to handle your aunt?”
+
+“I’d like to keep her in the dark. Until I can talk to her in person. But you’ll have to do more work to make her think we’ve just been missing each other in passing.” He gave Boe an apologetic look. “Do you mind occasionally stopping by my place and making it look like I’m still there?”
+
+He knew his friend would say yes, but he felt a little guilty for asking.
+
+“I can do it. If some of your stuff is missing when you get back, consider it my service fee.”
+
+Alden nodded. “And make sure Victor’s bowl is full.”
+
+“Got it. Lie to your aunt. Feed your cat. Tell everyone at school you’re seriously ill?”
+
+“Oh right, school…” It was amazing how a few days could make school feel like a foreign concept. “They might call Connie after a few unexplained absences.”
+
+Boe had just grabbed Alden’s own cell phone from the top of his dresser.  “Jeremy and I can figure something out. He’s absolutely losing his mind, by the way. Like, it’s bad enough that I’m texting him right now because there’s no chance he’s sleeping.”
+
+“He looked way more freaked out when I left than I was,” said Alden, remembering the expression on Jeremy’s face. “And I was pretty freaked out.”
+
+“Yeah, he drove me and Gorgon insane today.” Boe shook his head. “I guess it felt like a game to him until you actually got summoned? Or…on some level I think he assumed all Avowed were untouchable, and then he realized he could still knock your pitiful ass over with a single punch.”
+
+“Tell him that was because I was surprised by the way an outside impact affected my skill drain, not because I couldn’t actually take it.”
+
+“Sure it was.”
+
+“It was. Sophie—that’s my new griveck coworker—seems to think my magic senses are screwed up.”
+
+Boe shoved his glassed up on his nose. “There was a lot to unpack in that last sentence. I have questions.”
+
+“I doubt I can answer them,” Alden admitted.
+
+“Why are you calling an alien combat machine by a girl’s name?”
+
+“Sophie suits her kinda well actually.”
+
+“Oh wooow…okay. I thought your friendship with Gorgon was an isolated incident, but now I’m starting to worry there’s a pattern.”
+
+“Don’t be xenophobic.”
+
+“I’m not. But I do have a healthy respect for species that are literally known for their overactive prey drive. Have you ever seen video of a griveck hunting? The way they kill things is nightmare fuel, and killing things is their number one favorite pastime.”
+
+“Sophie offered to let me burrow underground with her when I’m tired.”
+
+Boe snorted. “I’m pretty sure the Artonans will give you a nice bed in a nice room, maybe even with some nice human beings. Why don’t you try that out first?”
+
+“Headed there now,” said Alden, looking around. The cart seemed to be taking him to the outskirts of campus. Dark red lamps lit the pathway here, but there were fewer of them than there had been in more central areas. “The other humans on this assignment are…I don’t know. They’re fine, but I’m not their favorite person, I guess. Have you heard of boaters?”
+
+“Like sailors?”
+
+“No. Like an Anesidoran club of people who recommend each other for Triplanet jobs and try to keep the best positions in-group.”
+
+While he explained the situation and the strange lunch conversation, Boe was typing on Alden’s cell phone with his free hand.
+
+“You’re right,” he said. “That sounds odd. Rabbits are known for being rich, but I’ve never heard anyone suggest that they’re expected to pay for other humans’ personal expenses when they’re working together.”
+
+“Yeah. I couldn’t tell if they were hinting that I should, or if it was just part of the Manon praise and worship.”
+
+“Let me remind you that even if they’re making a fraction of the cash you are it’s most likely still more than your aunt’s entire annual income. An easy, twelve-day event that regularly hires a crew of low rankers? That’s sweet. They’re not hurting for money.”
+
+“Do you think maybe Manon’s just showing off for her friends?”
+
+Boe was still staring at Alden’s phone. “Maybe. She seems successful enough on the island.”
+
+“What?”
+
+“I looked her up just now. Since you don’t have Earth internet. She’s a decorator for the upper crust. Has her own website. Does events and interiors. She uses that C-rank Rabbit skill that lets you rearrange furnishings to perfectly suit the owner.”
+
+“Tailor Environment?” It was one of the “must-choose” Rabbit skills, popular enough that Alden had heard about it before he did any of his recent research into the class.
+
+“Yeah. I’ll see what else I can find. But don’t make waves with the off-brand union, I guess?”
+
+Good advice. Waves were bad when you were barely treading water to begin with.
+
+“I had things to tell you, too,” said Boe. “Most of them can wait. You should give me contact permission, though, so I can call you whenever. On your dime, obviously.”
+
+“I was going to ask you about that. You’re cool with talking to me this way, right? You’re not worried about the System spying on you?”
+
+“Huh? Why would I be?”
+
+“A few days ago you were all paranoid about phone tapping,” Alden pointed out.
+
+“Yeah, by our own government. The System is obviously spying on all of us. There’s no point in trying to avoid that. You should call me through it so that our fellow Earthlings can’t butt in.”
+
+The second phone in his hand rang.
+
+“Speaking of Earthlings butting in, here’s Jeremy. Please make your assignment sound like a fun vacation when you talk to him. I don’t think he’ll sleep for the next few days if you don’t.”
+
+“Alden’s talking to you right now!?” Jeremy’s voice shouted from the phone. “Are you serious?! Why didn’t he call me first? Can I talk to him? Let me talk to him! How badly did he get blown up?”
+
+“He can hear you. You’re on speaker.”
+
+“Hey, Jeremy,” said Alden, trying to think of the most lighthearted thing he could say about his day. “I didn’t get blown up at all. I’m at the alien equivalent of an Ivy League school, riding a golf cart around. Did you know they have a vegetable here that tastes like steak?”
+
+Human accommodations were on the top floor of a narrow, three-story building with no signage. Alden took an exterior elevator up, and the door opened directly into a locker room.
+
+Surprised, he stepped out onto a mat and looked around. Most of the lockers were shut, with the user’s name displayed on a small screen at the top. Alden took his time examining the set-up.
+
+The first thing he noticed was that the room was air conditioned, which immediately improved his mood. The second was that he was probably the last person to arrive. He counted fifteen occupied lockers, and there had only been fourteen humans total at the orientation meeting this morning, including himself.
+
+Someone named Thwart Hog had two lockers, both of them decorated with travel-themed fridge magnets. Everyone else was using an ordinary sounding name.
+
+Avowed could set a preferred public name with the System. Alden’s was just “Alden,” no last name. He hadn’t seen a reason to hide his identity since he intended to be aboveboard as a superhuman.
+
+He was guessing, from the well-used look of Thwart Hog’s lockers and the obvious desire for anonymity, that the person wasn’t affiliated with the boater. They were probably here on a separate long-term assignment, and there was a good chance that they were an unregistered Avowed.
+
+Alden selected the locker nearest to the elevator. It was just a mini-closet, but since he didn’t have anything other than his coat and shoes to store right now, it was more than enough space. When he shut the door, his name appeared on the display, and he received a System message telling him he would be informed if anyone tried to access his belongings.
+
+Well that’s nice.
+
+There were two curtained exits from the locker room. Judging by the sound of running showers, the one on the right must lead to the bathroom. He stepped through the curtain on the left instead and discovered the sleeping area. The accommodations were nearly identical to pictures he’d seen of capsule hotels. Everyone got their own pod of personal space, just a little larger than a double bed, with a panel that could be shut for privacy. The capsules were stacked two levels high.
+
+Several of them were occupied with the panels shut. A man in a bathrobe was climbing into one of the upper pods, and a woman was reading a mystery novel in one of the lower ones.
+
+One side of the long room was entirely capsules. The other was half capsules at the far end, but the end closest to Alden had a narrow table and a cushioned bench. Several people in pajamas and loungewear were sitting there with tablets or computers plugged into the table’s adaptors.
+
+Manon, her damp gray and brown hair pulled back in a scrunchie, was going through an interior design magazine with a highlighter. Nobody looked up or spoke when Alden entered. Though he would have liked to keep it that way, he had no idea which capsules might have been claimed by the others. They didn’t have names on them like the lockers.
+
+How popular would I be if I stole their friend’s job, butted in on their private party, and took one of their beds?
+
+“Hi,” he said to the room in general. “I’m just getting in. Which of the beds are free? And what’s the shower situation?”
+
+Everyone present cast a glance his way, and then they all went right back to what they’d been doing. Like he was so unimportant they couldn’t be bothered to speak to him.
+
+Before Alden could process the pure weirdness of this behavior, Manon answered him.
+
+“Alden!” she said, setting aside her magazine. “We’ve all been wondering where you were. Long day?”
+
+So she’s going to be friendly? He was disinclined to accept it at face value, but it was easier to respond to at least.
+
+“Yep,” he said. “The professor wanted me to run some extra errands after the lab exams were over.”
+
+“Wow, you’ve got a lot on your plate for your first day here. You must be   tired. Let me show you around.” She stood with a smile and grabbed a large rectangular case from the seat beside her. It was made of cream colored fabric, and a round leather tag hung from the zipper.
+
+“This is yours.” She stepped out from behind the table and held the case out to him. “It was on the floor in the locker room when I arrived, and I didn’t want it to get stomped. Lots of traffic in and out of the elevator.”
+
+Alden took the fabric case and saw that his name was stamped on the tag. This must be the “human necessities” package Bti-qwol had promised him right after he was summoned.
+
+“Thanks,” he said to Manon. “I’m looking forward to having clean clothes.”
+
+“I’m sure,” she said. “I’ve been caught off-footed by a summons quite a few times over the years. Hazard of the Rabbit lifestyle. When I wasn’t much older than you, I ended up arriving at a posting with nothing but a swimsuit and a bottle of tanning oil!”
+
+She laughed. “It was only a table-arranging assignment, but it was still embarrassing to be walking around laying out candles and dinnerware in a bikini.”
+
+She had a warm laugh and an easy smile. She was wearing bunny bedroom slippers. If Alden had met this woman before he met her friends, he would have felt at ease around her.
+
+Manon led him to the pods at the far end of the room. “These four are unclaimed,” she said, pointing. Then she leaned toward him and whispered, “To be completely honest with you, it’s because of the neighborhood.”
+
+She gestured at the last sleeping capsules in the line. The bottom one was shut tight, and a sticker that said Get off My Lawn was pasted to the privacy panel.
+
+“Thwart Hog?” Alden guessed.
+
+“She’s…not too much trouble.” The creases around Manon’s dark eyes deepened in concern. “She was here last year as well, so she must be a regular employee for one of the faculty. We’ve only spotted her a few times in the past, and she doesn’t seem to want to interact. Thankfully. But if you feel uncomfortable around an unregistered, I could swap spots with you?”
+
+Alden wondered if the offer was serious or if she just thought it was a polite thing to say. After all, what did it matter if he was here or a few capsules over? They were all sharing the same room.
+
+“It’s fine,” he said.
+
+“Well, if you see a woman walking around in a fencing mask, it’s best to ignore her and let her ignore you.”
+
+“A fencing mask?”
+
+“It’s similar to one at least. We can’t see her face through it.” She sighed. “It’s concerning, but what can we do?”
+
+After that, Manon filled him in on shower etiquette—no more than fifteen minutes per person in the evenings, ten in the mornings—and left him to his own devices. Alden carried his goodie bag back to his locker and opened it, both curious and nervous to see what supplies he’d have to work with for the next several days.
+
+He was fairly horrified to discover a bunch of black turtlenecks and matching black pants. The pants had a stretchy waist and looked like overly voluminous joggers. They’d be comfortable if nothing else. But a turtleneck?
+
+I’ll sweat to death.The fabric felt like cotton, but it had a sheen to it. Maybe it’s cooler than it looks?
+
+There was a device in one corner of the locker room that vaguely resembled a washing machine. If the turtlenecks didn’t work out, he guessed he could just do laundry every night.
+
+He’d also been given a brown garment that he thought was a bathrobe. Or maybe pajamas. He wasn’t sure. It looked like a long pillowcase with holes cut out for his head and arms, and though it was a nice, soft pillowcase, he didn’t think it was something he was supposed to wear to work.
+
+Totally normal human briefs had been provided. They were still in the plastic packaging, and at the sight of them, he felt love for his fellow man.
+
+He did wonder why the Artonans were willing to provide underwear from Earth but nothing else. A toothbrush would have been nice, but instead he got gum. And not even sticks of gum, but a single blue disc pressed into a little metal canister with a picture of an alien molar on the cap.
+
+The System helpfully translated the writing on the bottom, and Alden discovered that the gum was re-usable. Which reminded him of that one creepy kid in elementary school who would eat old pieces off the bottom of desks.
+
+For deodorant, there was a tube with a rollerball applicator full of some kind of cream. And there was a straight razor that looked like a miniature butcher knife with a sharp hook on the end. Alden didn’t necessarily have to shave, and he decided that if the mood struck him, he’d only do it with the lab coat on.
+
+Maybe the extra dexterity would keep him from chopping his own nose off or accidentally piercing it with the awkwardly placed hook.
+
+The last thing in the case was a bottle of multivitamins. That was probably a good thing. He didn’t know the nutritional content of the food here, but considering how much of his diet had been made up of unwanted fruit juice today, he doubted it was balanced.
+
+He took a pair of pants and his super stylish pillowcase robe with him to the bathroom. When he opened the curtain, he almost walked right into the stocky, angry guy from the medical team.
+
+“Sorry,” Alden said, stepping out of the way. He tensed up as the guy passed, but all he got was a grunt and a glare.
+
+Could’ve been worse.
+
+The bathroom was far less communal than he’d feared. Toilets were hidden away in their own individual closets, and though there were only four shower stalls, they were spacious and private.
+
+The showers were more of an adventure than he would have liked, though. They had a wash cycle, during which soapy water the temperature of the sun blasted him from every angle, followed by a cold water rinse cycle. And then a bonus moisturizer cycle, which was just odd. It misted him from head to toe with something herbal and oily before he realized what was happening and that he needed to escape.
+
+He managed to towel most of the stuff off, and it was good to be clean even if he did smell like alien body spray.
+
+By the time he was done, the bathroom was empty, and he could briefly pretend that he had the whole place to himself. He checked out the rest of the space, discovering that one of the toilet closets was actually a storage closet. Manon’s cooler was there alongside cases of drinks and bags of snacks. There were also some cleaning supplies and an unloved wevvi dispenser gathering dust.
+
+Alden debated the morality of taking a granola bar from the boater and decided that they owed it to him for making his lunchtime unnecessarily hostile.
+
+It was a good granola bar, too. Lots of dark chocolate chips.
+
+With fifteen minutes remaining until the System sent him to his sleep capsule like a naughty toddler, he finally left the bathroom. He’d been hoping to be the last one up so that he wouldn’t have to chat again, but Manon was still at the table. She’d set aside her magazine, and now she was filing her nails.
+
+“ ‘night,” said Alden, striding past her with purpose.
+
+“Just a sec, hon,” said Manon. “I wanted to talk to you without everyone listening in, and if you’re going to be as busy as you were today, there won’t be many opportunities.”
+
+Alden glanced pointedly at the capsules. They weren’t far away.
+
+“Sound proof,” said Manon. “For a restful night’s sleep.”
+
+“Of course,” said Alden.
+
+Manon glanced up. “I won’t beat around the bush. Everyone was at their worst when you arrived. Karl in particular.”
+
+Alden assumed Karl was the angry one.
+
+“But that’s no excuse,” Manon continued, looking back down at her nails. “You’re just a kid. And it’s always better to keep things friendly and professional on a job. So don’t worry about it. I had a talk with everyone for you. They won’t bother you anymore. Or ask you to chip in to cover Pineda’s lost salary.”
+
+It took Alden several long seconds to process what she’d said. And several more to rein in his surprise. Was that what all the talk about money was leading up to earlier? Did the members of the boater think that he should give them the money he was getting for being on the medical team?
+
+They hadn’t actually gotten around to suggesting anything like that. And Alden didn’t think he was so bad at picking up context clues that he would have missed strong hints in that direction. But maybe..
+
+“I told them I’d cover Pineda,” Manon added with a soft smile. “It’s my responsibility as the founding member of the boater anyway.”
+
+“Oh,” said Alden, still off-footed. “Okay.”
+
+Maybe they usually split money from jobs with members who weren’t summoned? Or something like that?
+
+“So don’t worry about it anymore,” Manon said. “And if anyone gives you a hard time, come straight to me, all right?”
+
+She’s so nice, thought Alden.
+
+But wasn’t she a little too nice?
+
+No. He hated thinking that way. Some people were kind when they didn’t need to be. He really did believe that. And it was a dick move to assume that someone’s positive qualities were fake when you didn’t have any proof.
+
+If something’s off I’ll figure it out tomorrow. When I’m not so tired. And paranoid.
+
+“Thanks,” he said. “I’ll do that.”
+
+She grabbed her magazines and headed for her sleeping capsule. “Good night, Alden,” she said. “See you bright and early. And help yourself to any of the snacks in the storage area if you want. They’re for everyone.”
+
+She climbed into a top bunk and disappeared.
+
+Alden went and fetched another granola bar for himself, then headed to his own capsule. The short ceiling was a little claustrophobic, but the bed was comfortable. There was a reading lamp that pulled out from the wall and a small shelf.
+
+The sleeping pills were in a little storage cubby.
+
+He didn’t need one.
+
+Almost as soon as he settled under the crisp, clean sheets and put his head down, he was asleep.

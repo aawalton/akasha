@@ -1,0 +1,153 @@
+---
+id: f243005f-6dcc-502b-898a-546aabbbe5d5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 594: New Weapons"
+slug: 0162-chapter-594-new-weapons
+partOf: rise-of-the-living-forge
+position: 162
+ownLength: 2334
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3422660/chapter-594-new-weapons"
+royalRoadId: "3422660"
+---
+
+The first few rooms of the dungeon had nothing within them of note. They were populated entirely by kobolds which, as Kien had noted, had taken to using weapons and tools to fight with. The monsters had been armed with an assortment of mismatched equipment. A fair bit of it had actually been somewhat decent, with a few slightly magical swords an other items having fallen into their possession from some unfortunate adventuring groups. They’d set up traps all over the dungeon and employed a number of different strategies ranging from ambushes to mad rushes.
+
+None of it mattered. The kobolds posed about as much resistance to the Menagerie as a breeze of wind did a castle wall. Their weapons broke harmlessly against Arwin’s armor, the magic stolen from within them. Their traps were torn to pieces and their best attempts at strategy did nothing at all to Vanessa barreling at them screaming like a madman.
+
+The kobolds were definitely slightly more intelligent than normal monsters. They weren’t quite to the point of reasoning or genuine knowledge. The only way to describe their eyes would have been to call them empty.
+
+The intelligence they bore was more akin to an animal that had figured out to point the sharp end of a pointy stick at its enemy. There could still be no alliance or conversation. It was actually amusing in a somewhat gruesome sense. The kobolds’ intelligence didn’t help them at all.
+
+There was really only one thing that it accomplished. The poor kobolds were just smart enough to feel terror at the sight of the Menagerie plowing through their defenses like it was nothing. As it turned out, poison weapons only worked when someone was actually in the right stage of mind to stab somebody with them.
+
+And when a half-naked woman charged into battle screaming like a madman, the kobolds were clever enough to realize that nobody with any sense at all would do such a crazed thing unless their poison was entirely useless. It seemed the kobolds hadn’t quite developed to the point where they could recognize that Vanessa was just a complete madwoman.
+
+As such, the Menagerie made very swift progress through the dungeon. None of the preparations that the kobolds had readied were anywhere near enough to so much as slow their advance. The only time they hesitated was when they initially tested to see if the kobolds would simply turn and leave if given the option.
+
+Unfortunately for the monsters, they chose to fight to the bitter end. They didn’t seem to quite be able to comprehend the possibility of a peaceful retreat. But that was just fine for the Menagerie. If their opponents weren’t truly intelligent and were just as bloodthirsty as a random dungeon monster, then they didn’t have to worry at all about the absolute slaughter that followed.
+
+But, oddly enough, Lillia didn’t participate much in the fights. She just stood at the back of the party and observed. The kobolds never even got close enough to her to force her hand. Given the fact that they’d come here because of Lillia in the first place, it was slightly odd.
+
+“Is there a reason you aren’t fighting?” Arwin asked as they did the final rounds of the latest room they’d cleared. It had been just over thirty minutes since they’d entered the dungeon. And, at this rate, he was pretty sure it wouldn’t be much longer at all before the entire thing had been cleared. They were almost certainly nearing the end. “I thought the whole reason we came looking for a dungeon in the first place was so you could test out how much stronger you’ve gotten.”
+
+Lillia cleared her throat. “That was definitely a big part of it. Sorry. I didn’t mean to make you all do the fighting for me.”
+
+“Don’t worry,” Vanessa said, planting her foot on the corpse of a kobold and yanking her axe out of it with a grunt. “It’s my pleasure.”
+
+She definitely meant that. Blood was splattered all across her, and not a single droplet of it was hers. Arwin had no idea what in the world a normal Thug was capable of, but he got the feeling that Vanessa might have been a little bit of an outlier. It was either that or she was just really, really passionate about the job.
+
+“We can tell,” Kien drawled. “But it does seem like something of a wasted opportunity. Are you concerned about anything?”
+
+Lillia coughed into her fist. “No. It’s quite the opposite, actually.”
+
+“The opposite?” Kien frowned. “What do you mean?”
+
+“I… well, shit. There’s really no way for me to put this that doesn’t seem a bit rude now that I think about it.” Lillia sheepishly rubbed the back of her neck. “I’ve been waiting for an enemy that’s actually worth using my abilities against.”
+
+“What, are we just along to do the grunt work for you so you can have a fun fight later?” Arwin burst into laughter. “That’s cold, Lillia.”
+
+“No problems here,” Vanessa said with a shrug. She slung her axe over her shoulder, spraying blood from its blade across the room in an arc. Some of it splattered against Kien’s face. He sent her a flat look. She winced. “Whoopsie. Sorry about that. Let me just…”
+
+Vanessa wiped his cheek with her thumb — which was even bloodier than the surface she was trying to clear off. All her efforts managed was to get even more blood on Kien’s features. Vanessa pulled her hand back, then studied her work for a moment. Then she nodded.
+
+“There you go. All cleaned up.”
+
+“Hm,” Kien said.
+
+For some reason, it didn’t look like he believed her.
+
+“I didn’t really think about the way it would look,” Lillia said through an embarrassed laugh. “I promise I wasn’t just planning on making you do everything. It’s just that I’ve gotten some really big upgrades. I haven’t had a chance to test how much more powerful Sunsetting my class has made me, and I’ve gotten multiple upgrades since then. Using my new abilities against anything that isn’t worth the battle just feels like a waste.”
+
+“I’m with you.” Vanessa gave her a thumbs up. “Everyone wants their first time to be special.”
+
+“That is so loosely related to what I just said that I don’t think we can even acknowledge either as an attempt at a joke,” Lillia said with a sigh. “You need to screw your head on right. There are things in life other than references to — oh, godspit.”
+
+A sly glint passed through Vanessa’s eyes. “What do I have to do with my head?”
+
+“Never mind,” Lillia said. “You’re hopeless.”
+
+“Thank you,” Vanessa said. “And for your information, waiting always makes it worth the while. You just gotta find the right partner to tango with. There’s nothing like beating the shit out of someone strong enough to put up a good fight when you’ve got a shiny new weapon to test out.”
+
+“Fighting in itself should not be an act to be enjoyed,” Kien said. “It is a means to an end.”
+
+Vanessa sent him a sidelong look. “Agree to disagree. Also, you got something on your face. No idea how it got on there.”
+
+Kien ignored her comment, turning to the door at the far end of the room and heading over to peer through it. He turned back to them.
+
+“It’s the boss room.”
+
+“Ooh,” Vanessa said. “Lucky for you, Lillia. Looks like you’ve got your chance to actually test your abilities out. You’re not getting a better one today. Just make sure you don’t wait too long. This dungeon has been a bit too easy, so I have no plans of sitting out of the fight. I’ll kill the boss for you if you don’t do it first.”
+
+She’s right about one thing. The dungeon has definitely been pretty damn easy. Given the fact it’s an Expert level dungeon, I had expected a lot more.
+
+But it was dawning on Arwin that it wasn’t the dungeon that was lacking. It was his own perspective. If their group had just been random Expert level adventurers, the kobolds poison and magical weapons might have actually posed quite a problem.
+
+He just wasn’t a random adventurer anymore. The power Sunsetting his class had given him far eclipsed anything within his tier. If Arwin was honest with himself, he wasn’t actually sure how powerful he was anymore. The Gehenna armor hadn’t even gotten scratched up to this point. He almost certainly could have cleared out the entire dungeon on his own without even breaking a sweat.
+
+Hell, I might have been able to send the Infernal Armory in here in the Gehenna armor and had it do the whole thing without me. My own abilities wouldn’t even be needed.
+
+Just how much more powerful have we become?
+
+“Don’t worry,” Lillia said. Her eyes narrowed. “I have no plans of sitting back for the rest of the day. Give me a few seconds at the start of the next fight. I can’t just wait around forever. I’ll test something out against the boss. Then you guys can keep fighting as normal. Is that okay?”
+
+“Sure,” Arwin said with a shrug as he pulled himself from his thoughts. He didn’t have any abilities he specifically wanted to test here anyway. The dungeon had already been more than enlightening. “I think we’re all pretty curious to see what you’re capable of anyway. I don’t suppose you’ll tell us before we fight the boss?”
+
+“Where’s the fun in that?” Lillia grinned. “You’ll see in a moment.”
+
+The four of them headed down the last hall of the dungeon, over to a stone door flanked by a pair of flickering purple torches. It wasn’t the biggest boss door that Arwin had ever seen. It was only a few feet taller than him, but it was still about as grand as one could expect from a random dungeon.
+
+He paused to make sure that everyone else was ready. They all gave him a nod. Thus, without further hesitation, Arwin braced his shoulder against the door and pushed.
+
+Stone scraped against stone. But if the door had tried to pose Arwin any resistance, he certainly didn’t feel it. He shoved it open without any trouble at all.
+
+And before them laid the boss room. It was large and circular, with damp moss running along the walls and hanging from the ceiling in thick strands. The stench of kobold hit Arwin harder than any of the monsters blows had managed to. He didn’t have to look hard to find out why.
+
+There were no fewer than two dozen kobolds scattered through the room. And, sitting in a throne made of old weapons and armor melted together in some wretched amalgamation of metal and magic, was a kobold clad in glossy gray armor that stood easily twice the height of all its brethren. It held a large metal staff burning with magical energy across its lap.
+
+[Kobold Arch Chieftain - Expert 8]
+
+The rest of the Menagerie poured into the room behind Arwin as screams of anger rose up from the kobolds. They all scrambled for their weapons, readying for the fight as the chieftain rose to its feet.
+
+“Give me a second,” Lillia said, stepping forward. “You can have your fun after I see what this can do.”
+
+Then her shadow warped.
+
+Arwin caught something shifting within it out of the corner of his eye. And then, as they all watched, a portion Lillia’s shadow detached from her entirely.
+
+It peeled away from the ground to rise up, darkness twisting to form into a fully three dimensional body. Within moments, a shadowy replica of Lillia stood before them. But the darkness hadn’t copied her perfectly. Or, at least, it hadn’t copied this form of her.
+
+Two massive horns curled from her head , hissing and popping as dark arcs of purple magic crawling across them. Her features were wrong — nothing more than a pair of dead, glowing purple orbs with a jagged smile that looked like it had been carved by a knife.
+
+There was only a single part of the shadow that wasn’t completely black.
+
+It was wearing her armor.
+
+“Shit,” Vanessa breathed. “What is—”
+
+The shadow stepped to the side, into one of the many patches of darkness cast by the dim lighting in the room.
+
+Then it vanished.
+
+The Kobold Chieftain let out a screech of fury, thrusting its staff toward them. The tip of the weapon ignited with orange light. But whatever magic it had been planning to call upon never had a chance to manifest.
+
+Lillia’s shadow rose up behind the monster, the jagged smile on its features splitting open as its arms both transformed into blades of pure darkness.
+
+There was a thunk.
+
+Then the Kobold Chieftain’s head tumbled from its shoulders, landing at its feet with a wet splat.
+
+The staff fell to clatter to the ground by its side. There was a moment of silence, broken by the monster’s body pitching backward. It hit the throne and slid down unceremoniously, dead long before it had fallen.
+
+Arwin’s eyes widened.
+
+Transforming aspects of the body into shadows was the armor’s ability. And I guess this is what it meant when it said her shadow could wearing her armor simultaneously. But that entire shadow form is completely new. That must be from Sunsetting her class. Can it do literally everything she can?
+
+A terrifying realization passed over Arwin. The armor had never specified it only worked on a single shadow. It had said ‘shadows’.
+
+His eyes flicked down to the ground at Lillia’s feet. Deep within the darkness, two dim purple eyes flickered in wait. The hair on the back of his neck stood on end.
+
+She can make more.
+
+Lillia might have just become one of the strongest assassins in the Kingdom.

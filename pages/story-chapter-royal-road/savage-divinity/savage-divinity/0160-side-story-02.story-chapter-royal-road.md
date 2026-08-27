@@ -1,0 +1,69 @@
+---
+id: a497167d-23b9-59b3-8bd7-1764dd92c318
+page-type-slug: story-chapter-royal-road
+title: "Side Story 02"
+slug: 0160-side-story-02
+partOf: savage-divinity
+position: 160
+ownLength: 1726
+unit: words
+publishedAt: 2016-12-30
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/110004/side-story-02"
+royalRoadId: "110004"
+---
+
+“See, it's easy ya?” Presenting her handiwork for Rainy to see, Lin-Lin stood proudly with hands on her hips. Eyes filled with confusion, Rainy tilted his head left and right, still having trouble understanding the simple concept. He was usually so smart and quick to learn, how  come this was so difficult for him to understand?
+
+Beaming from her chair, little Tali hopped to her feet and mimicked Lin-Lin's posture. Chest puffed out and hands at her side, the precious child's twin braids dangled behind her as she stared up at Rainy with a confident smile, her childish voice ringing melodically. “Easy, ya?”
+
+Pressing his palms together, Rainy lowered his head. “Language still not good. Explain one more, but slower.”
+
+He was so cute, making such a big deal about learning to braid. Switching to Common, Lin-Lin went over the directions once more. “You take the hair, divide it in three, and cross, cross, cross. Then you tie it up with a ribbon and you're done. I'll show you again when we come home, we have to leave now, Daddy is waiting.” Lifting Tali into her arms, Lin-Lin kissed the sweet child on the cheek. “You've been such a good girl, let's get you something to eat.” Abandoning his toys, Tate followed behind, hoping to share in whatever treat his sister was about to receive. The two darlings were inseparable, still getting used to life with Rainy's family.
+
+Tearing a sweet bun in two, Lin-Lin gave half to each of them, grinning as they cramed the morsel into their mouths, leaving nothing but smears of red-bean paste around as they chewed voraciously. Armed with a wet cloth and a big smile, Rainy wiped their tiny hands and chubby cheeks before the mess could spread. “Don't eat so quickly, no one steal your food.”
+
+Holding up an index finger, Tate tilted his head and asked, “One more?”
+
+Mussing Tate's hair, Rainy grabbed another sweet bun and split it for the twins. “Give kiss goodbye first, then go find Papa. I leave now.” After saying his goodbyes, Rainy watched them scamper away with their prizes in hand, shouting after them, “Chew slow!”. Shaking his head, he put on his jacket and picked up his pack before turning to Lin-Lin and patting her fondly on the head. “All right, let's roll out.”
+
+Smiling as she skipped along the snow-dusted path, Lin-Lin studied the scrawny foundling from the corner of her eye, singing happily as she followed him to the village gate. Head down and shoulders hunched, Rainy seemed nervous, more so than usual at least, his eyes darting about in search of danger. Trying to rouse his spirits, she bounded ahead and turned to face him while skipping backwards. “Don't worry Rainy, we're just going on a nice winter stroll, ya? A short walk through the mountains to pick herbs, it's perfectly safe. We go to this field all the time and you'll be home in time for dinner, safe and sound.”
+
+Flashing a sad smile, Rainy nodded unconvincingly. “Yes, perfectly safe. Nothing to worry about.” Clamming up, he returned to his brooding, all gloomy and sad as if facing punishment instead of going on a trip. Honestly, he was so dramatic sometimes, a silly worrier, never wanting to go out and play. No, he preferred burying his nose in books or sneaking off on his own to practice the Forms. So boring, she'd been looking forward to today's trip for days now, barely able to sleep last night for excitement, but Rainy was playing the part of sourpuss and dampening her enthusiasm. So sad, Rainy was scared of everything, even his own shadow.
+
+No problem, this was only the first of many trips. Rainy would come around once he saw there was nothing to be afraid of. Grabbing hold of a dangling strap from his pack, she resumed skipping beside him, looking forward to the trip once more. Rainy always pretended to be so grown up, she wanted to see him laugh and play for once.
+
+The village gate in sight, Lin-Lin ran and leaped into Daddy's arms, laughing as he swung her about. After making sure Rainy had everything they needed, Daddy took her by the hand and led the way out of the village through the ankle-deep snow. “Okay my lovely little Lin-Lin, let us see how your studies have been faring with a short quiz.”
+
+“No Daddy, I wanna go play in the snow...” Trying to tug her hand out of his grasp was an exercise in futility, her cheeks puffed up and eyes forming a single tear each.
+
+Wise to her tricks, Daddy stared straight ahead, avoiding her pitiful gaze. “Now, now, I promise you'll have plenty of time to play on the way home, after our work is done. Now tell me, what is the primary use of Jade Banyan tree-bark and how is it administered?”
+
+Glancing back at Rainy for help, he shrugged and smiled, gesturing for her to answer. So unhelpful, he never wanted to play. If he asked, she was sure Daddy would relent and let them have fun. Pouting as she stomped along, Lin-Lin hung her head and answered the question. “Umm... to reduce fevers, boil in water for two hours, then...”
+
+The day passed slowly as Daddy continued to quiz them both, the questions escalating in difficulty. Rainy was soon answering questions more difficult than hers, leaving her wide-eyed with shock. He was so incredible, barely able to read when he first arrived, but after two short months, he knew more than she did.
+
+Maybe she should study harder...
+
+At first, she found it odd that Daddy wanted to teach a timid, illiterate foundling, especially after refusing so many offers from rich nobles. She didn't mind since it was fun having someone to teach, but after a few days, she realized Daddy had found an unpolished jade. Rainy had an incredible memory and was full of surprises. No matter if it was cooking, cleaning, studying or training, he always asked all the right questions and practiced with almost inhuman determination and focus, improving by leaps and bounds in everything he tried.
+
+She already asked him how he memorized things so quickly, but it was no help. It seemed simple enough, using a pattern of words and ideas to better remember dry information, but his connections made little sense to her. How did 'devoted aspiring cellar cabinet' help him remember a medium-sized shrub with reddish-brown stems and white, fuzzy, brush like flowers?
+
+So silly.
+
+Arriving at their destination right on schedule, they settled down for a quick picnic lunch in the field, made with love by Rainy. After their meal, Daddy brought him away for a lesson in herb picking, leaving Lin-Lin to grub about in the snow and dirt for winter roots by herself. Lips pursed in a grimace, she grumbled in disappointment, the trip nowhere close to fun-filled as she'd imagined. Rainy had been so busy with the twins lately, always running off immediately after his lessons, no longer staying behind to read stories to her. With Mi-Mi gone on a training trip in search of a weapon heart, and the other children her age learning their trades, curling up beside Rainy while he practiced reading was one of her favourite things to do of late, smiling as he did all the voices and made the stories come to life.
+
+Now he spent his time reading to the twins, leaving her all alone with no one to play with.
+
+Lost in her self-pity, a light impact struck her shoulder and exploded into a cold, billowing mass of powdered snow, sending a chill down her back as it penetrated through her winter clothes. Yelping in shock, she turned to see Rainy's devilish grin as he bounced a second snowball in hand. “Teacher says we're done with work.” With an exaggerated wind-up, Rainy pitched the snowball at her.
+
+Shrieking in delight, she dodged the icy projectile and dove into the snow, retaliating with a snowball of her own and hitting Rainy square on the chest. The games began in earnest and they traded throws back and forth, laughing and playing as they ducked behind trees and slid down the icy hills. Daddy joined in and they turned to building snow forts and a snow family, Rainy grinning from ear to ear as he traipsed through the snowdrifts alongside her.
+
+He looked much more handsome when smiling, the doom and gloom melting away from him as they played.
+
+After a few hours, Daddy clapped twice and announced it was time to return home. Breathless and overjoyed, she flopped down on the snow and stared up at the afternoon sky, unwilling to leave just yet. This was so much fun, she wanted every day to be like this. Rainy padded over and stood next to her, more relaxed than she'd ever seen him. “You have fun today?” Still panting from all her laughing, Lin-Lin nodded wordlessly. “Tired?” Another nod. Shaking his head, Rainy extended his hand and Lin-Lin reached up to clasp it, allowing Rainy to gently lift her to her feet. Brushing the snow from her head and shoulders, he smiled and pinched her cold-numbed cheeks. “Adorable. Come on, we can't stay any longer, it'll be dark soon. Let's go home and have a nice hot dinner, the twins love having you around.”
+
+Nodding happily, she turned Rainy away and hopped onto his back on a whim. Normally she asked Daddy to carry her, but he was holding all the herb boxes and Rainy didn't seem to mind. Gently wrapping her arms around his neck as he chuckled softly, she yawned and nestled against his shoulder as he set out. “Thank you Rainy.”
+
+“Anytime.”
+
+Closing her eyes, she gathered her chi and Lightened herself as much as possible, easing his burden. It was more difficult than walking on her own, but Daddy always said she should spend more time practicing. Mi-Mi was stronger but her shoulders weren't as comfy and she didn't like being a 'pack mule'. So long as Rainy was willing to carry Lin-Lin around every day, she'd become an expert at Lightening in no time. Feeling Rainy's warm cheek pressed against her own, she smiled and snuggled closer to him, his steady footsteps lulling her to sleep.

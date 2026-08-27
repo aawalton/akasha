@@ -1,0 +1,177 @@
+---
+id: c7b43dbf-ec6b-5951-88b8-6f86cf2aa4e7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 33: Wolf With a Plan"
+slug: 0033-chapter-33-wolf-with-a-plan
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 33
+ownLength: 1273
+unit: words
+publishedAt: 2025-09-20
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2616061/chapter-33-wolf-with-a-plan"
+royalRoadId: "2616061"
+---
+
+PoV Luna
+
+Luna bounded into camp, dragging her prize with all the pomp and wag a wolf could muster. She released the deer with a victorious huff, tail held high, chest puffed even higher.
+
+Trade goods delivered. Spice currency secured!
+
+Yes!
+
+She waited for the chorus of praise. For spice to be flung at her paws. For soup to be ladled straight into her jaws!
+
+Instead, the soft-skins gawked at her. Wide eyes. Slack mouths. Dumbfounded silence.
+
+Luna tilted her head at them.
+
+Was her new-pack… useless?
+
+Her nose twitched toward their bags.
+
+Jerky. Definitely jerky.
+
+That saved them. Dum-dum they might be, but dum-dums with jerky were worth forgiveness.
+
+Her ears perked as the elf-lady stepped closer. Syliana. Calm scent, steady eyes. Luna’s tail wagged on instinct. Good elf. Clever elf. Recognized the Apex Predator in front of her without hesitation!
+
+“Good eye!” Luna barked proudly, planting her paw atop the deer as if presenting the spoils of war.
+
+Prey offering: complete.
+
+The weird humans didn’t cheer at that. They muttered instead, voices spilling like tangled sticks.
+
+Questions rained down, fast and clumsy. Where did she go? Did she find the corruption? Could she lead them there? Or did she forget? Did she even know what she was doing?
+
+Luna rolled her eyes. Trade. They had said the word first! Surely even two-legs weren’t so bite-brained as to forget their own offer!
+
+But before they could continue on with their human nonsense, Syliana approached, crouching beside the deer. Her hand holding something very interesting out for Luna!
+
+Spice!
+
+Jerky wrapped in neat paper, the scent wafting glorious into Luna’s nose. Her golden eyes lit up.
+
+Yes!
+
+The elf smiled at her, giving her a piece first to chew on! She understood! The great elf-lady knew!
+
+New-pack hierarchy adjusted instantly.
+
+Elf-lady Syl instantly became her new favorite person. No longer simply clever. She was Second. Second-in-Command of Luna’s grand new pack! Even if the rest were dum-dum.
+
+Her Mom and sister held top rank, of course. But Second Syl?
+
+Definitely next.
+
+Luna yipped happily, snagging the jerky from her hand. She tore off a small strip, chewing with deliberate smugness. Only a little, though. Spice deserved respect.
+
+And proper enjoyment required her two-leg form!
+
+Besides, chewing slowly gave her an excuse not to answer the barrage of dum questions.
+
+Sepio stepped forward, armor clinking, face sharp. He poked at her with his hand, like an annoying stick she was really considering biting now.
+
+“Does she even understand us?”
+
+Her ears shot flat.
+
+Rude! So rude!
+
+Her teeth flashed as she nearly lunged to nip his boot. How dare he insult her genius ears.
+
+But Second Syl lifted her hand, calm again, and her voice cut clean through his doubt. Smooth. Assured. Defending Luna’s honor!
+
+“Yes,” Syliana said. “She understands quite a lot more than you might expect.”
+
+Luna’s tail wagged hard enough to smack dirt into the air. Correct answer. She puffed her chest higher and chewed louder, jerky snapping proudly between her teeth.
+
+See? Luna was Apex Predator. Trade Queen. Jerky Enjoyer!
+
+Her Second had spoken.
+
+With a bit more coaxing, and another bite of jerky slid her way, Luna allowed Second Syl to ask questions.
+
+Yes, Luna had returned. Obviously. Tail wag confirmed.Yes, she had found the ugly. The corrupted ogre. Big. Stinky. Still biteable.Yes, she would lead them there. Of course she would. What else were new-pack for?
+
+The deer at her paws counted as payment for jerky. Valid prey. Proper trade. And the jerky in her mouth? That was bonus payment. Honored deal.
+
+But Luna wanted soup too. Soup was spice in water form, and spice was everything nice!
+
+Second Syl tilted her head at that, confusion tugging at her words. Soup didn’t seem like important information to her.
+
+Silly elf. Very silly. But that was fine. Luna could explain again later. And again. And again. With tail wags, ear flicks, and sharp barks until they finally got it.
+
+Or in her human form, if that didn’t work!
+
+She licked her chops, tail sweeping across the dirt. The camp smelled of bags, leather, metal, and still a bit of broth left in the pot. Enough to make her stomach whine. She yawned wide in protest, tongue flopping long.
+
+Why did these pawless weirdos do everything in the daytime? The sun was rude, burning her eyes. Nights were better. Softer. Hungrier. Huntier.
+
+Her eyes drooped for a moment. A nap would have been nice. Curled in her spot, soup in her belly, jerky under her paw. But not today.
+
+Today she had a pack to lead!
+
+She shook herself hard, ears snapping upright. Tail lifted high, swishing in proud rhythm. She planted her paws, chest puffed out.
+
+Her golden eyes gleamed as she looked across the confused two-legs. Then, with all the authority of an Apex Predator, she barked:
+
+“Let’s go!”
+
+The sound cracked through camp like a command!
+
+Sepio nearly dropped his pack. The others just blinked in disbelief.
+
+Syliana, though, only smiled.
+
+Luna wagged once, satisfied. Yes. The new-pack would follow!
+
+***
+
+PoV Syliana:
+
+The trek had not been graceful.
+
+Syliana had no doubt the wolf pup knew where she was going. Wildlings rarely moved without purpose. And this one’s nose was sharp enough to drag them through four days of wasted searching in less than half a day.
+
+But guiding a hunting wolf and guiding a line of armored adventurers were two very different things.
+
+Luna bounded far ahead, tail flashing like a silver banner. She leapt clean over bramble walls, slid under half-fallen trunks, blinked through shadows without slowing. Every time Syliana expected her to slow down, the pup vanished – only to reappear farther along, wagging impatiently as if to say hurry, hurry!
+
+Meanwhile, the rest of them hacked with blades, swore at roots, and dragged boots through knee-high thickets.
+
+At least they were moving now. Even Sepio had stopped voicing complaints, though mostly because his breath came ragged from the pace. His armor whispered against itself no matter how often he tried to steady it.
+
+They had split the group wisely. Two of them held camp, while Syliana advanced with Sepio and the rogue, their steps trailing Luna’s bouncing path.
+
+And soon their patient advance was rewarded.
+
+The forest began to change.
+
+The air thickened, clinging damp and foul to her skin. Sick mana pressed in from every side, like being submerged in water that wanted her gone.
+
+Even Luna slowed. Her eager loops around their ankles ceased. Squirrels went ignored. The pup’s ears pressed forward, golden eyes narrowing. She growled once, sharp and low, and flicked her tail in warning.
+
+Silence.
+
+Or nearly silence. Sepio’s armor still rasped faintly with every shift of his shoulders.
+
+They stepped into the edge of a clearing.
+
+Corruption had chewed its way across the ground. Roots pulsed black beneath the moss. Stones cracked, bleeding tar. The very earth looked ill.
+
+Ruins rose through it. Their old walls strangled by vines, pillars bent like broken teeth. Beyond them, something shifted. Large. Too large. A slow groan carried through the dark.
+
+Luna’s posture stiffened, tail lifting halfway. She wagged once, focused, and not at all cheerful. Her gaze locked sharp toward a cluster of twisted trees at the ruin’s edge.
+
+Syliana followed the line. The branches moved. No wind stirred them.
+
+A hulking shape tore itself free of the bark. Its limbs dragged heavy, dripping foul sap. Each step landed with a groan that rumbled through the clearing.
+
+【Enemy Identified: Corrupted Treant】
+
+Syliana’s fingers tightened around her staff.
+
+They had found the place.
+
+…And it was worse than expected.

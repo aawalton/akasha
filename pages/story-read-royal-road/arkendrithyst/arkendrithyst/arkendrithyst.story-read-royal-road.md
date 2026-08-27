@@ -1,0 +1,53 @@
+---
+id: 5ee69a87-b4dc-5d38-a690-cab69b8589ed
+page-type-slug: story-read-royal-road
+title: "Ar'Kendrithyst"
+slug: arkendrithyst
+world: arkendrithyst
+unit: words
+author: "Arcs"
+rank: c-rank
+royalRoadTags:
+  - "LitRPG"
+  - "Portal Fantasy / Isekai"
+  - "Slice of Life"
+  - "Adventure"
+  - "Fantasy"
+  - "High Fantasy"
+  - "Magic"
+royalRoadSeriesStatus: completed
+link: "https://www.royalroad.com/fiction/26727/arkendrithyst"
+royalRoadId: "26727"
+---
+
+A social worker father and his adult daughter crash land on a desert full of crystal plants and little else. The city walls of Ar'Kendrithyst rise in the distance, but as the pair hike closer they see those walls are more like mountains, and the mega-metropolis is long dead. 
+
+Luckily, the adventuring city of Spur is alive and green and hospitable, and well outside of Ar’Kendrithyst’s shadow.
+
+Follow Erick Flatt as he tries to make a nice life with new friends in a new home with his daughter at his side, but this land is rarely as kind as its people, and Erick will need to change if he wants to live the life he wishes to live. 
+
+What to expect:
+
+Slow burn storyline, worldbuilding, father-daughter relationship, Erick is the MC, Jane is the side character, slice of life, numbers in blue boxes but also high fantasy, trying to understand magic, creating new magic, living the easy life but forced into dealing with problems, problems becoming very large, massive changes, traumatizing content, and most of all: character growth. 
+
+Book 1 Completed. 
+
+Book 2 Completed. 
+
+Book 3 Completed.
+
+Book 4 Completed.
+
+Book 5 Completed. 
+
+Book 6 Completed.
+
+Book 7 Completed.
+
+Book 8 Completed.
+
+Book 9 Completed.
+
+STORY COMPLETE! 
+
+[Participant in the Royal Road Writathon Challenge]

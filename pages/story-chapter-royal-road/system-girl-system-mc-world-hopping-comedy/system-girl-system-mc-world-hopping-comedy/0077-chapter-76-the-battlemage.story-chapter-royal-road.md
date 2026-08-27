@@ -1,0 +1,165 @@
+---
+id: cda0a304-e1fa-577c-9169-92edc242d097
+page-type-slug: story-chapter-royal-road
+title: "Chapter 76: The Battlemage"
+slug: 0077-chapter-76-the-battlemage
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 77
+ownLength: 2223
+unit: words
+publishedAt: 2026-05-09
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3376589/chapter-76-the-battlemage"
+royalRoadId: "3376589"
+---
+
+Ren was in the middle of getting comprehensively beaten up.
+
+He was sprawled in the dirt of the makeshift training ring, staring up at the darkening sky, trying to remember if his ribs had always hurt this much when he breathed. Kaelthos stood over him, the tip of his wooden practice sword resting lightly on the grass.
+
+"Your guard dropped again, My Lord," Kaelthos said, his voice completely devoid of judgment. It was just a statement of fact.
+
+"My arms weigh a thousand pounds, Kael," Ren groaned, slapping the ground in submission. "My guard didn't drop. My muscles went on strike."
+
+Kaelthos offered a hand. Before Ren could take it, a sharp, rapid crunching of gravel announced someone approaching at high speed.
+
+Sylas appeared at the edge of the ring. The butler was never out of breath, and he never ran unless the estate was on fire, but he was power-walking now with an urgency that made Ren’s stomach twist. His usually immaculate tie was slightly askew.
+
+"Master," Sylas said, his voice tight. "We have a situation. Regarding the young miss."
+
+Ren was on his feet before the sentence was finished, the pain in his ribs forgotten. The wooden sword clattered to the dirt. "Lily? Where is she? Is she hurt?"
+
+Kaelthos’s hand instantly dropped to the hilt of his real steel sword. The stoic warrior’s jaw clenched. What most people in the household didn't know was that Kaelthos had a secret, aggressively sentimental streak when it came to the baby. Lily had a habit of toddling up to the terrifying, scarred elf and handing him random pieces of garbage—a wilted dandelion, a smooth pebble, a particularly interesting clump of dirt. Kaelthos kept every single one of them in a small, carved wooden box under his bed. If anyone threatened the source of those treasures, he was ready to start taking heads.
+
+"She is unharmed, sir," Sylas said quickly, raising a hand to placate them both. "She is safely indoors with Mira. The situation is... diplomatic. It concerns a guest at the inn."
+
+"A guest?" Ren frowned, grabbing a towel to wipe the sweat from his face. "What guest?"
+
+Sylas took a steadying breath. "I am afraid I have miscalculated, Master. A woman rented one of the premium suites last night. She gave her introduction as a minor noble, which is common enough, so we thought nothing of it. But this evening, it came to my attention that she travels with a contracted spirit."
+
+The statement hit Ren with the force of a physical blow.
+
+"Wait," Ren said, his voice dropping to a harsh whisper. "A contracted spirit? So she’s an elf? Then how the hell is she a noble?"
+
+"She is a half-elf, My Lord," Sylas explained, swiping a bead of sweat from his forehead. "There are a very few half-elven nobles in the State Army who have been elevated for exceptional service. And we just so happened to be hosting one of the most prominent."
+
+Ren started walking toward the inn, his strides long and fast. Sylas and Kaelthos fell into step behind him.
+
+"What else do we know about her?" Ren demanded.
+
+"She is Lady Parisa," Sylas said, rattling off the information he had scrambled to gather. "One of the most decorated battlemages on the continent. She is heavily favored by the King himself. She earned the honor to start her own noble family line through pure, violent merit on the northern front."
+
+Ren swore under his breath. A decorated war hero. A powerful mage. A half-elf who had fought her way to the top of a deeply prejudiced society. And she was staying in his inn, inches away from the biggest secret in the kingdom.
+
+"Tell me we have a bargaining chip," Ren said, pushing through the back doors of the kitchen. "I need something to work with."
+
+Sylas racked his brain as they hurried down the hall. "She caused a bit of a ruckus in the storefront earlier today over the instant ramen packets. Isara reported she was extremely frustrated by the purchase limit. It appears she is a... fanatic."
+
+"Ramen," Ren muttered. "Of course. Okay, that's going to be hard to work with, but let's see if it's enough to keep her quiet."
+
+[Ana: A battlemage obsessed with sodium and preservatives. You attract the weirdest demographics, Ren.]
+
+"Tell me about it," Ren thought back.
+
+They reached the private study. Ren didn't bother changing out of his sweaty tunic; there was no time for propriety. He threw open the door.
+
+Lady Parisa was standing by the window. She was tall, athletic, and wore a traveling cloak over a sharply tailored military tunic. The moment Ren walked in, she spun around and rushed toward him, extending a hand with surprising enthusiasm.
+
+"Lord Fenris!" she greeted him, her grip like a vice.
+
+Ren shook her hand awkwardly, thrown off by her eager demeanor. He had expected cold arrogance or hostile demands. This aggressive friendliness was disorienting.
+
+They sat down at the heavy oak desk. Ren prepared to offer tea and small talk to gauge the waters, but Parisa didn't beat around the bush. She leaned forward, resting her elbows on the wood, and got straight to the meat of the matter.
+
+"I know your daughter is a half-elf," she said.
+
+Ren opened his mouth to speak, to formulate a lie, but Parisa cut him off immediately.
+
+"And I find it admirable," she declared, her eyes shining with genuine conviction. "I find it truly moving that you show her so much love and favoritism. To keep her close, to provide her with a dedicated elven staff... it is unheard of for a human noble. Do not worry, Lord Fenris. As a half-elf who has been dragged through the grinder of noble circles, I will not feed her to the wolves. I will not spread rumors of her heritage to the society gossip."
+
+Ren let out a long, silent sigh of relief. He finally had a grasp on her character.
+
+Okay, Ana, Ren thought. What do you think?
+
+[Ana: Yup. From the enthusiastic greeting to this speech, it is clear she has good intentions for Lily. She genuinely believes Lily is just an illegitimate half-elf, which is the perfect cover story. Worst-case scenario here: she avoids noble circles to bypass prejudice, but she keeps her mouth shut. Best-case scenario: she becomes a powerful, silent ally who genuinely wants to spare a kid the hardships she faced.]
+
+But if that was the case, Ren mused, she would have just kept quiet and acted like she knew nothing. She wouldn't have demanded a meeting. She wants something else. I need to probe her.
+
+Ren cleared his throat, adopting a mask of polite gratitude. "I appreciate your discretion, Lady Parisa. Truly. So... what is it that you want from me?"
+
+Parisa puffed out her chest, sitting up straight. She adopted a stiff, dignified posture, clearly trying to project an aura of profound wisdom and generosity.
+
+"The little one has great talent in magic," Parisa proclaimed, puffing her chest. "Her latent mana capacity is astounding. Therefore, I, in my magnanimity, will graciously agree to teach her all I know. I shall take her on as my personal apprentice."
+
+Alarm bells went off in Ren’s head.
+
+From what Sylas had gathered, this woman was a battle maniac. A frontline terror. If she rubbed off on his innocent, grape-eating angel, Lily would become a tiny, silver-haired ruffian setting fire to the curtains.
+
+"My Lady," Ren said smoothly, holding up a hand. "I cannot accept such a generous offer. We could never pay off a debt of that magnitude."
+
+Parisa’s smug expression intensified. "It is but a trivial matter. You may pay me for my generosity... through a steady supply of your packaged ramen noodles."
+
+To Ren, it suddenly seemed like this entire grand gesture was just a convoluted scam to bypass the store's purchasing limit. She was holding a mentorship hostage for soup.
+
+Ren leaned forward, offering a counter-proposal. "My Lady, I shall send fifty packets of ramen to your estate every month, free of charge. Just please, let my daughter live a peaceful life. You taking her as an apprentice will lead to unwanted attention. I just want to give her a normal childhood."
+
+Parisa looked baffled. The dignified facade cracked instantly. "You do not wish to use her power to further your family's honor? All you want is a normal life?"
+
+Ren nodded firmly. "If you teach her combat magic, people will hold expectations for her. They will expect her to fight for the crown. I do not wish for my daughter to ever have to go to the front lines."
+
+Parisa stared at him for a long, silent moment. She looked at his messy hair, his dirty tunic, and the fierce, protective set of his jaw.
+
+Then, she broke.
+
+The stoic, decorated war hero vanished. Her shoulders slumped. Her lower lip wobbled.
+
+"But... but I want a student!" Parisa wailed, suddenly sounding like a frustrated teenager denied a pony.
+
+She slammed her hands on the desk, abandoning all pretense of dignity. She launched into a full-on tirade.
+
+"All my peers have protégés of their own! They parade them around the academy! But I have no one! No one wants to learn from me! No noble house wants its precious, pure-blooded child to be taught by a half-blood upstart! It’s not fair!"
+
+She buried her face in her hands, her shoulders shaking with dramatic sobs. A tiny, glowing blue hummingbird—her contracted spirit—popped out of her collar and began frantically buzzing around her head, trying to pat her hair with tiny wings to console her.
+
+Ren sat there, utterly baffled by this turn of events.
+
+Ana, Ren thought, rubbing his temples. What do I do with this? She's throwing a temper tantrum in my office.
+
+[Ana: I think the best course of action is to play it cool. I also don't want this battle maniac anywhere near Lily right now. But there might be a massive plus side to this meltdown. If someone of her stature becomes a genuine ally, she could be incredibly useful in the future. You need powerful friends, Ren.]
+
+Ren sighed, pulling a clean handkerchief from his desk drawer and sliding it across to the weeping mage.
+
+"Lady Parisa," Ren said, keeping his voice calm and soothing. "Please. Breathe."
+
+Parisa sniffled loudly, taking the handkerchief and dabbing at her eyes.
+
+"I will arrange for a formal mentor for Lily soon," Ren continued gently. "She needs to learn the basics first. The foundational tutor will teach her about the arts, science, and history. Safe, boring things."
+
+Parisa let out a pathetic little hiccup, looking like she was about to start bawling again.
+
+"But," Ren added quickly, raising a finger, "no one said a person can only have one mentor."
+
+Parisa lowered the handkerchief, her red-rimmed eyes peeking over the fabric. "They didn't?"
+
+"No," Ren said, leaning in. "When the time comes, if Lily decides she wants to learn how to defend herself, I shall not stand in your way. To that extent, I will let you visit every month. You can act as an aunt figure. It is up to you to win her heart. And, as per our prior agreement, you will be given fifty packets of ramen every month as a guarantee of my goodwill."
+
+[Ana: You and I both know you're bribing her so you can later hold it over her head if she ever tries to turn on Lily. I love the idea. Pure capitalist manipulation disguised as family bonding.]
+
+Parisa wiped her nose aggressively on the fine linen handkerchief and looked up at Ren with an expression of profound, teary-eyed gratitude.
+
+"Thank you," she choked out. "Thank you so much. From this day forward, I shall tell the world that Lord Ren Fenris is like a brother to me!"
+
+Ren blinked. "Wait. What?"
+
+Parisa vigorously rubbed her eyes, suddenly pumped up with a manic, enthusiastic energy. "Being an aunt is way better than being a mentor! Yes, yes! An aunt is like a mentor who doesn't have to grade homework!
+
+She stood up, pacing the study, her spirit buzzing excitedly behind her. "What I always wanted was a family of my own. That is why I wanted a student so badly. To have someone to pass my legacy to. You have given me something way better. I promise to love Lily as my own blood!"
+
+[Ana: Well, that backfired spectacularly. Ren, salvage this before she moves in and starts knitting sweaters.]
+
+Ren cleared his throat loudly, holding up both hands to halt her pacing. "Can you please not tell everyone that? Remember, I don't want too much attention on Lily. Please keep this between us. A secret alliance."
+
+Parisa stopped, nodding vigorously, a conspiratorial gleam in her eye. "Yes, yes! Anything for my little niece and my new younger brother! Our lips are sealed!"
+
+Ren slumped back in his chair as she marched out of the office, humming a happy, martial tune, her spirit doing loops in the air.
+
+Ana, Ren thought, letting his head thunk gently against the hard oak of his desk. This is going to be a massive headache. I can already feel it. How did I end up with a high-level, emotionally unstable older sister?

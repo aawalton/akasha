@@ -1,0 +1,235 @@
+---
+id: 14609352-49b9-5dd8-9f54-f821f983c9b6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 96 – Caged, Not Claimed"
+slug: 0096-chapter-96-caged-not-claimed
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 96
+ownLength: 1922
+unit: words
+publishedAt: 2026-03-13
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3146339/chapter-96-caged-not-claimed"
+royalRoadId: "3146339"
+---
+
+To Liora's relief, sailing away from the island, she saw that the fog was already clearing away. The further they sailed, the weaker it got.
+
+To Liora's chagrin, she and Cee were put in cages. Tiny cages. Liora would have turned into her magpie form to feel more comfortable, but she didn't want to reveal all her abilities. So she was forced to endure near claustrophobic conditions on the ship.
+
+"I do feel bad for the bird and the spider. Beating the shapeshifter and those mages would have been much harder without them," the swordsman said.
+
+"They are talking monsters. We can't just let them go free," the lancer objected.
+
+"Tyrants! Why do you get to decide what we can or can't do? Who put humans in charge?" Liora protested.
+
+"Hear! Hear! This is racial oppression," Cee added. "Racism! Racism against monsters!"
+
+"We're not racists. We just want to be sure that you mean us no harm," the lancer said.
+
+"Shut up, Mister Lancer! You're all just racist," Liora complained and demonstratively pecked the metallic bars. Obviously, she couldn't break the with her beak alone, but the message at least was clear.
+
+"Lancer?" The man frowned at her.
+
+"We never did introduce ourselves…" the swordsman added.
+
+"Rude humans! No manners!" Cee accused.
+
+"Absolutely atrocious," Liora added.
+
+"My name is Donovan," the lancer introduced himself.
+
+"I'm Nord," the swordsman said and pointed at the archer who was staring over the railing into the sea. "And that's Freida."
+
+"Elric the mage was her brother, so… Do forgive her at the moment," Donovan said. "I think she needs some time."
+
+Liora looked at the woman. Tears were quietly dripping down her cheeks. There was no sobbing or loud wailing, just quiet tears.
+
+For a moment, she pondered whether there could have been anything she could have done to save the mage. But the shapeshifter had swallowed him so suddenly, nobody even managed to blink in time, much less react.
+
+It was yet another harsh truth of this world that Liora hadn't experienced before. People died. They were killed by monsters. Currently, she was a monster, and she had killed people. Part of her couldn't even blame Morgana for putting her into this cage.
+
+Another part tugged on the cage bars insistently, checking if perhaps they would give way this time around. She was a bird! Meant to fly free high in the sky, not be trapped in a minuscule cage where she couldn't even open her wings.
+
+"Calm down, beastie. We merely want to understand where you two came from and what your goals are going forward," Morgana said, putting her hand on Liora's cage.
+
+Liora let out an angry caw and went to bite her finger. Perhaps a loss of a finger would teach her a lesson.
+
+But Morgana pulled her hand back and wagged her. "No biting!"
+
+"This is animal abuse! I shall sue you," Liora squawked.
+
+"I don't think we have the right to sue…" Cee noted.
+
+"We should!"
+
+"We totally should!" The spider agreed.
+
+Pipe down, Liora. Yelling won't do you any good. Just go along with them for now. As unfair as it all seems, I know Morgana wouldn't hurt you two. She has a rather strong sense of honor, all things considered.
+
+If that were true, she wouldn't have put me in a cage.
+
+In her defense, if I were in her place, I would have probably done the same thing. Okay, probably not. But some other people might have.
+
+You traitor!
+
+Despite being supposed prisoners, Liora and Cee were treated well. They were hand-fed juicy shark meat, which Liora ate with delight. Only Morgana dared to feed her, which she seemed to delight in.
+
+When they reached Abylport, the skies were completely clear of fog. People were gathered at the port and cheered when they saw their ship approaching. There weren't many people, but it looked like all those who had chosen to remain in the city had come.
+
+Morgana and her crew were treated like heroes and promised a feast, but the Pillar was wholly focused on getting the city back and running. She commanded to spread the news of Abylport's salvation and to get back everyone willing to return.
+
+While that was done, Liora and Cee were brought to the Adventurer's Guild. Guildmaster, a large, strong man with a missing eye and bald head, studied them with great interest.
+
+"Talking monsters, Captain?" He asked in a gruff voice, poking at Cee's cage. The spider hissed at him.
+
+"They helped us quite a lot. At first, I thought them to be magical familiars, but their master was nowhere to be seen," Morgana explained.
+
+Would it be bad if we pretended to be your magical familiars?
+
+No! Do you want a target on your back? Just say your master is missing or something.
+
+"Our master is missing!" Liora said.
+
+"Yes, missing!" Cee confirmed.
+
+"He's a great mage."
+
+"Mage!"
+
+"Any way to confirm this?" Morgana asked.
+
+Liora hurriedly withdrew her Guild Ring, showing it to the two.
+
+"A Guild Ring? So you really are a magical familiar," Morgana hummed.
+
+"What about the spider?" the guildmaster asked.
+
+"Where are you supposed to put a ring on me? I don't have fingers," Cee protested.
+
+"We do make specialized rings for more… unusual magical familiars, but I do admit spiders are quite a rarity. I've never seen a non-aggressive monster spider. They even eat their own siblings," the Guildmaster noted.
+
+"It's a good thing you're not my sibling," Cee said, nodding her head.
+
+Morgana and the guildmaster both stared at us. After a moment, the woman asked. "What is your goal?"
+
+"Find our master," Cee said.
+
+Liora nodded. "Find shinies and good food while we are at it."
+
+"Grow stronger," Cee added.
+
+Morgana scratched her chin in thought for a while. "What do you two say to becoming my magical familiars instead?"
+
+"You're no mage!" Liora protested.
+
+"No!" Cee protested.
+
+Don't steal my bird thief and magical spider apprentice, Morgana!
+
+She can't hear you.
+
+I know, but hell, I never expected her to try to recruit you two. We don't have time for Morgana's shenanigans. We have seals to break.
+
+"Don't be so hasty, you two. I promise I'll treat you well," the woman smiled and leaned closer to their cages. "Loads of shark meat and other tasty treats for you two. I'm a Pillar, you know. I have loads of money."
+
+"We are not going with somebody who puts us in cages," Cee said firmly, crossing her front legs.
+
+"Do… Do you have shinies?" Liora asked, a bit intrigued.
+
+"I have loads of shinies. I wouldn't mind sharing some with you if you worked with me," Morgana nodded.
+
+Liora, no!
+
+But shinies…
+
+"No!" Cee also protested.
+
+"Is there something in particular you want?" Morgana asked.
+
+"Resonance crystal!" Liora said.
+
+Oh! You clever bird. Ask it to be imbued with wind, earth, fire, and water elements.
+
+"Imbued with wind, earth, fire, and water elements," Liora added.
+
+"That's quite a specific request," Morgana retorted.
+
+"It is valuable and beautiful. I want it," Liora said unabashedly. After all, one didn't need to explain why one would want something shiny. It was only natural.
+
+Morgana burst into laughter. "What kind of creature did you evolve from? A magpie?"
+
+"Yes."
+
+"Wait… for real?" She blinked.
+
+"Yes."
+
+"You weren't supposed to tell her that!" Cee grumbled.
+
+"Talking spider is way weirder than me evolving from a magpie," Liora countered.
+
+"I have to agree there. Normally, only dragons or monsters close to evolving into beastkin can talk. Yet you don't look to be anywhere near a beastkin… or insectkin, I guess."
+
+"Spiders are arachnids, not insects!" Cee protested.
+
+"Then I have no clue what kind of humanoid you'd become if you even can become one. What would you even be? Human spider? Spiderman? HA! Imagine something as ridiculous as that!" Morgana laughed.
+
+But neither Liora nor Cee was laughing. The spider instantly became sullen, her legs drooping. Liora knew that Cee wanted to become more humanoid again, so learning that there weren't known spider-like humanoids must be a painful blow for her.
+
+"On second thought, no. I don't need your shinies! Release us," Liora demanded.
+
+"Sorry, sorry! I didn't mean to offend. Do you really want to evolve to be more human-like?" Morgana asked.
+
+"Yes! Being a spider isn't fun when everyone runs the moment they see you," Cee said.
+
+"Tell you what, if you become my companion, I'll do everything in my power to help with your quest. Sure, I've never heard of a spider evolving into a human, but I've certainly heard even crazier tales. Like a regular house dog becoming a Divine. A spider becoming a human doesn't sound that far-fetched compared to that."
+
+Dog becoming a Divine?
+
+Well, it wasn't exactly a dog. It was a magical familiar moon canine, whose owner was captured and sold into slavery on the other continent. The familiar determined to save their master fought monsters and evolved again and again. In the crazy chase after their master, they became a Divine, but unfortunately, their master was already dead by the time that happened.
+
+That's quite tragic.
+
+Indeed.
+
+"Come on. What do you two say? Join me, and I'll do my best to help you two. You'll be safe and fed, and nobody will question why two monsters are roaming around the town," Morgana urged.
+
+Liora and Cee shared a look. The spider didn't look convinced, and Liora, too, was on the edge. While getting Resonance Crystal would be great, she didn't want to be bound to Morgana for the rest of her life.
+
+What do you think?
+
+Hmm… I say you agree to go with her temporarily. Help her with whatever she needs help with in exchange for a fully attuned Resonance Crystal. Don't agree to any lifelong partnerships.
+
+"Not magical familiars," Liora said. "But we can hang around for a while."
+
+"If you don't put us in cages!" Cee added.
+
+"You want to test me for longer? Clever critters. Very well. But I can't let you two out of cages yet. I still have to make sure you two won't try to murder me the moment I let you out."
+
+Liora cawed while Cee let out a dissatisfied hiss.
+
+"Sorry, buddies. If you forged a familiar contract, it wouldn't be an issue…"
+
+She's smarter than you gave her credit for.
+
+She's good at getting what she wants. But don't give in.
+
+But I don't want to sit in a cage.
+
+I'll give you an incantation to get out later, but for now, bear with it.
+
+Liora let out an annoyed sigh. "No contract."
+
+"No contract," Cee repeated.
+
+"Then you'll have to wait. See you tomorrow, beasties!" Morgana waved and slowly made it to the door.
+
+Liora could see what she was doing, deliberately taking slow steps. She wanted them to change their minds. Perhaps, if there was no other way out of the cage, she might have caved. It was so annoyingly restrictive. But Renir had promised to let her out, so she would trust him.
+
+Morgana threw a last glance at them as she lingered at the door. But when it was clear that Liora and Cee wouldn't cave, the woman left.
+
+"Please tell me you can get us out of here!" Cee whispered.
+
+Yes! It is a tricky incantation, and it will take a good chunk of your mana, but if you repeat carefully, it'll be fine.
+
+Liora nodded. It was time to break free.

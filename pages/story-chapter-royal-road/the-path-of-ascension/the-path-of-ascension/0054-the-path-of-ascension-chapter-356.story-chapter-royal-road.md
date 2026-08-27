@@ -1,0 +1,315 @@
+---
+id: 503f304e-86b8-58d0-9e75-c5da60b85450
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 356"
+slug: 0054-the-path-of-ascension-chapter-356
+partOf: the-path-of-ascension
+position: 54
+ownLength: 5160
+unit: words
+ownProgress: 5160
+publishedAt: 2024-10-07
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1839350/the-path-of-ascension-chapter-356"
+royalRoadId: "1839350"
+markedReadAt: "2026-06-29T19:19:25.814Z"
+---
+
+Chapter 356
+
+Matt listened as Tholly finished his report. “Discounting the application that Wraith’s friend sent in, we’ve intercepted sixty-three applications from likely spies, eleven attempted infiltration's through false-identity applications, one spy who’s been undercover for some decades, nine attempts at embedding divination anchors within our premises, and six distinct sources for divination's attempting to bypass our wards.”
+
+Matt had made sure to call Aster to figure out what the story was there, but he supported the otter’s attempts to find a job based on her own merits. Fortunately, she was considered qualified for the position, and the certainty that she wasn’t just looking for a quick resume-boost made her an easy pick.
+
+They did make sure to extend the offer to Cameron herself, rather than her false identity. While a part of Matt would be amused by the inevitable antics that would no doubt arise from Cameron trying to pretend to be someone else while working… it was easier to just make it clear from the start they knew what she was doing and not make her play out some two-bit comedy movie.
+
+Shaking his head, Matt concentrated on the vast amount of spies trying to infest his guild. “Do we have an idea of why the other Great Powers would be so insistent on getting in here?”
+
+There was a small pause between Matt’s question and the answer. “I apologize my lord, I hadn’t realized there was a misunderstanding. Most of these attempts, all but one false identity attempt in fact, have been traced to entities inside the Empire.”
+
+Matt’s mind, which was mainly turning over aura rifts, refocused onto Tholly. “Wait, what? Really? I assumed it would be the other Great Powers trying to pry out our secrets.”
+
+“And I’m sure they are my lord. Or at least they will. We have little in the way of defenses against true deep-cover spies, and that is but one way the other Great Powers may attempt to undermine our counterespionage efforts. While Titan’s Torch is performing cutting-edge research in many fields, most of our research fields are not ones which other Great Powers care about. Our impact will be much more local, and to that end, it is local entities who, even if they are incapable of outright stealing our discoveries, can better position themselves to take advantage of our discoveries if they know of them beforehand.”
+
+Matt pursed his lips trying to not take that personally. He understood that profits made the realm spin, but spying on him? Risking the ire of an Ascender for profit?
+
+There had to be more to it. “Do we have anyone pegged who is spying on us or examples of what they are going for?”
+
+Tholly replied almost instantly. “The most obvious are the rifts, but I suspect you knew that my lord. The second largest project of interest is the travel engine.”
+
+Hearing that, Matt set his jaw. If people were trying to steal his patents and then claim them as their own, they were going to find out he wasn’t beyond knocking some sense into them. And if they were too high Tier, he was sure Lila would be happy to chew on some people for him.
+
+“Oh?”
+
+Tholly didn’t seem to notice Matt’s tension as he said, “A few notable companies are already retooling their engine lines seemingly in preparation for the new design.”
+
+“So they aren’t trying to steal and pass off the designs as their own?”
+
+“No one that we have noticed has been trying to do that. I suspect few would. Few people wish to draw the ire of an Ascender, and while the reputation your team has for being easygoing does exist, it is not especially widespread. Ascender Worldwalker and Duke Waters have driven home the lesson that it is better to work around Ascenders rather than trying to get one over them.”
+
+Pulling Cato into the conversation, Matt pinged him with a brief so he could get caught up. “Do you think it would be worth it to issue a statement that I don’t care if people spy so long as they keep their reasons to setting themselves up for future efforts?”
+
+Matt got two instant responses. “That is an awful idea, my lord.”
+
+Tholly’s response was almost pleading as he said, “Please don’t create that much work for us, my lord. Even on a very basic level, the more attempts there are, the more likely spies are likely to slip through and reach more valuable information.”
+
+Matt sighed and rubbed his temples. He hated the political aspect of the guild and being a noble in general.
+
+“Ok. I hear you two. Bad idea: I'll keep it to myself. But what can we do here? Should I go and punch someone for spying? Frankly I don’t care if they are just trying to position themselves better for the information, so I’m not really feeling a beat down.”
+
+“That would be ill advised.” Cato’s words were clipped, and Matt took them to heart.
+
+“Ok but we should be doing something right?”
+
+Tholly was the one to answer this time. “We are my lord. Anyone who we can find actionable evidence against will be charged with all appropriate charges. Alas, just maneuvering into a good position with information that seems stolen based on loose evidence isn’t actionable. They will claim they got the information through an unknown information broker or the like, and that might even be true. It's even properly true in some cases. Information about new technologies that are going to be open for opportunity are going to be very valuable, and companies will pay a lot to not be caught flat footed.”
+
+Matt nodded as he understood that. His issue was that he didn’t like people spying on him like this. It felt invasive and wrong.
+
+“Should we do a press release or the like to try and stop people from reselling the information like this? If everyone finds out then they are on the same page.”
+
+Cato’s response was too fast for Matt’s liking. “I would advise against that as well, my lord. At least in the case of the travel mana engine. We are not the only ones trying to corner that market, and announcing just how far along we are is asking for someone else to jump ahead and dispute our plans by releasing something half baked and making a mess of the patent process. Our current plans are historically the best, but if you desire, I can look at early announcements.”
+
+Matt waved even though Cato couldn’t see him. “No, it's fine. I just feel antsy knowing people are spying, and I can’t do anything about it. I feel like I have no control. Thank you, Cato.”
+
+Turning his attention back to Tholly, Matt asked a few more questions about how their security was going before Matt felt reality warp as Liz stepped across Lily to hover over the guild.
+
+Matt was going to fly up to her, but she dropped in next to him and flopped into a nearby chair.
+
+He didn’t need to ask what was wrong and just gave her a few moments to collect herself.
+
+“Kalfla has a new government.”
+
+It took a moment for Matt’s mind to pick up on the country's name and he was thoroughly confused. “Well, it’s about to anyway. I started putting pressure on the countries to start catching up with our goals. They decided the homeless issue was enough of an issue that they were going to… rebel isn’t the right word, but they decided that getting the homeless off the street was best accomplished by arresting the homeless. Annndddd, I took that personally.”
+
+Matt fully understood that. Them flaunting her orders like that would have irritated anyone.
+
+He just wondered if she had broken the veil in doing so. That would be less than ideal, but he wouldn’t mourn its loss for too long. The longer things went on, the more he felt they should have just revealed everything day one. But Cato’s words about keeping to what they chose being the best course of action rang in his mind.
+
+However, Liz smiled, which surprised Matt. “I’m not the only one who took offense to that, thankfully. Kalfla wasn’t a great place to begin with, but their movement to arrest the homeless sparked off a sort of revolution. A revolution that was made easier by certain leaders… ‘vanishing.’ Apparently the parts of government that hadn’t taken leave of their senses thought disappearances would be better optics than knowing they were arrested by an external power so once they knew the gig was up they moved on their own to clean things up. Sadly the attempt was only half successful, their absence only further fanned the flame of revolution, and while there’s no new power yet, there’s officially a splinter government that’s pretty rapidly taking over from the previous one. Only so much I could do to make it completely nonviolent, but it’s been mostly bloodless.”
+
+Liz rubbed her face, her smile vanishing. “I got the factional leaders read in, but I’m still angry at the situation. I know I said I’d help, but… could you take point on Soerilia? At least for a bit? I’m worried I might do something unwise if I have to keep arguing with those idiots for the next decade. Something, probably the arrests, set me off, and I want to make sure I figure out what’s up before I snap.”
+
+Matt ran his fingers through her hair in the way he knew she liked and nodded. “Sure. I’m happy to do so. Want to hear about our latest efforts on making aura?”
+
+Liz nodded. “That sounds wonderful.”
+
+“You only love me for my distractions.”
+
+“You are distracting.”
+
+Matt went on to tell Liz about his most recent projects, which helped him sort his own ideas. So by the time she was ready to go back to work, he was reinvigorated and ready to crack down on it.
+
+He had his own idea about sharpness aura. While they had discovered they needed a weapon to help condense elemental aura, Matt believed that crutch was part of what was limiting them from making non elemental aura.
+
+Team two had managed to create a Tier 6 light aura rift with no seed just under six months ago, and while they’d been unable to replicate the feat, it was neat to see that it was possible. Hopefully, if their investigation bore any fruit, it would be useful in making sharpness aura.
+
+After learning that weapons were the key to elemental mana types, Matt and the guild’s aperologists were split on the non-elemental mana auras. Half of the aperologist believed that they simply hadn’t found the right weapon seed mana type combinations for the non-elemental aura types, but the other half believed that non-elemental auras either didn’t need or outright couldn’t use weapons as seeds.
+
+If the latter was true, that would explain why no one had been able to recreate things like sharpness aura, but it seemed to contradict what they did know about aura rifts.
+
+Matt was, however, willing to try it.
+
+With an ingot of perfectly pure Tier 6 iron, Matt used his Concept to splinter the block of metal into a handful of incredibly sharp metal shards.
+
+Tossing half of the shards into the rift circle, Matt found the next open rift slot. They had needed to institute a rift Tiering up and creating schedule with so many of them on the island, and while it slowed them down, it prevented failed tests. Which would be more costly in the long run.
+
+Once it was his turn, Matt created a rift with the seed of sharp metal shards and metal mana from a sword cultivator with a sharp sub-aspect.
+
+His first fourteen attempts only yielded normal rifts and Matt dispersed them, looking for something different while slightly tweaking ratios as he went.
+
+Matt knew that he wasn’t Talented at aperology, but like cooking, he felt like he had a knack for the art, and so he trusted his gut.
+
+They had already seen that there was something strange with how rifts classified weapons, and so far, they had always needed a weapon to form the rift. But what if it wasn’t necessarily a weapon in and of itself?
+
+What if it was only that a weapon had something that the rifts needed instead of it being the weapon itself, and there was something that had what the weapons had, but wasn’t necessarily a weapon?
+
+It seemed like there must be something like that, but Matt didn’t know what that could be.
+
+So he started experimenting.
+
+His first experiment was to take a sword and sharpen it to a razor's edge. It would be worthless in a battle, the smallest sheer force would break the edge, but if someone wanted a really good shave, this was the blade for it.
+
+It… didn’t do anything.
+
+There were some basically cosmetic changes to the monsters, to be sure- some birds gained razor-sharp feathers, and the terrain was more likely to be spiky and jagged- but there was no meaningful difference in the mana and essence of the rift, not in the ways Matt was slowly beginning to associate with aura rifts.
+
+After more experiments to make sure that he wasn’t just unlucky, Matt went back to the basics.
+
+What did aura need?
+
+Well, it needed normal aperology things. It needed his mana. It probably needed a weapon. And it needed… an appropriate environment. The appropriate environment wasn’t usually too much of a hurdle, as their formations could simulate some basic external conditions, enough for them to work with level 1 and 2 mana types at least.
+
+They’d tried a bunch of seemingly-appropriate environments, mostly metal and earth based for sharpness, but none of it had worked.
+
+Which now made little sense to him. After all, they weren’t trying to make elemental aura so why were they using elemental mana? Sharpness was non-elemental, and applied equally to glass, metal, and even chitin.
+
+There was however, one mana type that they hadn’t experimented too much with, despite it being well within their capabilities. It was even a mana aspect they’d used regularly but only as support instead of as the main mana type.
+
+Neutral mana.
+
+Neutral mana was a bit odd, as far as mana went. It wasn’t really elemental in the end. It didn’t have a manipulation spell, it didn’t have any special associations, and skills that used it were as basic as they got, just standard mana constructs given marginal form. Some people went as far as to call it the element of magic itself, or said that neutral mana was mana-aspected, but arcane mana fit that description just as well as neutral.
+
+It was sometimes called a level zero mana type due to its almost anti-complexity. If higher-level mana types were intricate paintings, neutral mana was the blank canvas upon which the art was created. Its effects were basic, but completely element-agnostic.
+
+Just like sharpness aura.
+
+Sharpness was basic but non-elemental, and as he’d worked with aura, Matt was getting familiar with the ways in which even basic elemental aura wasn’t really basic. Flame aura wasn’t heat aura, but both were fire aura. Wave aura wasn’t ocean aura, but both were water aura while neither was water, and so on.
+
+The guild had tried dozens of different mana types to get sharpness aura to form but nothing had worked which led Matt to asking himself: What if sharpness worked the same way?
+
+What if it wasn’t just a type of non-elemental aura, but rather a type of neutral aura in the same way that heat aura was still fire aura but fire aura wasn’t heat.
+
+With a wave of his hand, Matt cleared his testing area and reassembled it.
+
+Elemental injectors were primed with neutral mana sub-aspected with seemingly-relevant sub-aspects. Cutting, sharpness, severing, and anything else Matt thought might be useful.
+
+Swords flew out into their respective arrays, and Matt changed the formations to simulate the sorts of environments where non-elemental rifts abounded. That was actually trickier than it sounded, as despite the fact that non-aspected rifts were the most common types of rift, there weren’t many environments that actively supported their formation.
+
+That made things far harder but he made it work.
+
+Then he triggered the tests, and much to his surprise, every single sword he was testing with was absorbed into the rift. All at the same time. That was not expected, but was definitely interesting.
+
+It took a few more tests with Erwin, Aisha, and Theodore all watching for them to notice what was going on, but they managed to catch it.
+
+Before the rift started absorbing the swords, it started breaking it down into something.
+
+It wasn’t mana, but neither was it essence or aura.
+
+It was something simpler, but more robust, despite only lasting for an instant before unraveling like an unstable isotope.
+
+Which shouldn’t have happened.
+
+Essence was inherently stable, and everything that had essence was more stable. Even high Tier stars didn’t operate through fusion, because even with their immense gravity, the high Tier hydrogen was unable to go critical. They produced heat and light because that was what their fundamental nature, as dictated by their essence cores, said they did.
+
+Or at least, that was how Matt understood the phenomenon. At any rate, all of that meant that whatever the rift was pulling from the aura wasn’t based in essence, or it would have been more stable.
+
+Even at Tier 6 speeds, it was dissolving faster than any of them could perceive, the only evidence that it had ever been there was the very peculiar decay patterns- none of them recognized the particular blend of more traditional energies left behind afterwards. Fortunately, they already had orders out for more advanced sensor tech that probably would help them figure out what was happening, but those tools were projected to still be decades away from arriving.
+
+But something weird was happening, and in their field of work, ‘something weird’ was the best sort of discovery to have. On a hunch, Matt tried imbuing the swords he was using to form the rifts with his own mana, giving them an inherent boost towards aura-production and hoping that would bridge the gap.
+
+The added variable made things harder, and on top of a dramatically higher rate of sword absorption his de-aspect chance was close to eighty percent, but Matt trusted his gut and pushed through the dozens of failures that never reached Tier 6, and then the further failures that didn’t end up with an aura rift.
+
+With each failure he tweaked his mana types, going with what he felt was best, like a chef tasting their ingredients as they cooked.
+
+Stepping into the fifteenth variation of his neutral mana rifts, he got exactly the surprise he was looking for upon seeing the monsters inside. He was so prepared for another failure that he almost didn’t recognize what he was seeing at first.
+
+Tier 1 Kobolds. But instead of the lizard-like monsters, these seemed like a nightmare version of a typical Kobold. They had shards of varying lengths of metal sticking out of their backs, almost like a porcupine. Their teeth and claws were also replaced with shards of metal, and after killing one, Matt exited the rift to call the others in.
+
+This was exactly what he was hoping for.
+
+Poking his head out of the rift, Matt found only two of his team. “Erwin, Theodore, get in here!”
+
+He sent a message with the time of the instance creation queued for Aisha so she could join them if she exited her own rift instance in the fifteen minute window. After the third failed test they had all gotten bored enough to go back to their own tests.
+
+Erwin immediately oohed and aahed at the new monster variation, while Theodore raced ahead to start looking at the rest of the rift.
+
+It wasn’t much but Matt was happy that at least a few people in the Guild were comfortable enough around him to do something else around him. Far too many of them would have pretended a random acorn was of incredible interest if he looked at it for too long.
+
+It was only by showcasing his imperfections after the ice aura rift that a few of them had started to realize he was just like them, except he could just punch a little harder. It was a good thing too, because he had started to consider making his own island just to get away from the gazes that tracked his every movement like he might obliterate them for the smallest irritation.
+
+There was still a long way to go, but Matt was happy with any progress he could get even if it was just on his own team.
+
+Theodore’s disappointment was short lived as he moved to join Erwin inspecting the kobold.
+
+Aisha came in a moment later, panting. “Oh good I didn’t miss the cycle.”
+
+“Interesting, the protrusions are nearly steel in their makeup.” Looking up at Matt Erwin asked, “You used the Tier 6 weapons right?”
+
+“Yeah, just had them imbued with more of my mana. Old mana that is. I think using my mana was wrong but this is a great start. Finally something weird.”
+
+Aisha offered her own suggestion. “Or the rift is just trying to make the kobolds more lethal and this isn't relevant to aura rifts?”
+
+She very well could be right but the only answer was to try it. To that end they exited the rift, registered it as interesting so others could check it out if they wanted, tagged it for no destruction, and started testing.
+
+Erwin and Aisha started rifts identical to Matt’s method except using other weapon types, while he and Theodore tried to recreate the rift exactly as it was but using other neutral mana sources they had samples of.
+
+When they did succeed in creating a new kobold rift, they attempted to Tier it up, but they failed the coinflip and the rift de-aspected. They did, however, prove that the rift itself was a stable configuration and could be recreated.
+
+It took a week’s and thousands of rifts, but eventually they managed to create a Tier 6 kobold rift.
+
+The kobolds in the rift at Tier 6 were almost five feet tall, well muscled, with tails as thick as Matt’s biceps and last but not least sharp spikes sticking out of their backs and jutting from their body, ready to tear any flesh that got too close to them.
+
+Best of all, the kobolds had wisps of aura lingering around the spikes giving the monsters a sinister appearance.
+
+And it wasn't just any aura, but sharpness aura.
+
+“Fuck yes!”
+
+“Finally!”
+
+Matt slapped Theodore on the back before snapping the neck of the nearest kobold.
+
+Dragging its body out of the rift as fast as he could without tearing the rift apart, Matt flew into the sky, holding his prize aloft.
+
+He had only one word to say. “Success!”
+
+His voice echoed through the island and grabbed everyone's attention, but Matt was more than happy to let everyone see.
+
+Titan’s Torch wasn’t just a guild wasting money recreating what he and Erwin had done at Tier 6. They were moving forward, creating new, realm changing things.
+
+It was everything Matt wanted for his guild, and he took a minute to bask in the glow.
+
+Instead of flying to him like he expected, all of the aperologists flew right into the still open instance to inspect a fresh specimen of the variant kobolds.
+
+Looking at the corpse in his hand steadily losing aura, Matt activated the harvesting bottle to collect what remained.
+
+He intended to return to the rift to nerd out with the rest of his aperologists, but Kees stepped in front of him.
+
+“This is an opportunity, Guild Leader, should you wish to capitalize on it.”
+
+Matt raised an eyebrow and obliterated the monster in his hands with a flex of his will. He thought he had a good idea of what Kees was going to suggest, but he wanted the older man to speak his mind.
+
+“We have less than five years before the deadline you set goes live, and the Emperor has stated that he should have a deal worked out from the other Great Powers before then, so we have to launch on your stated schedule. We can turn this into a great publicity moment. Non-elemental aura rifts being impossible to create and stumping the guild, solved by the guild leader himself. The headlines write themselves.”
+
+Hearing that Kees wanted him to give an interview, Matt immediately tried to deflect. “Do we really need more publicity? The news of aura rifts is already well propagated, and I’m, well, me. I don’t think anyone doesn’t know of it. It can just be part of the package we release in five more years.”
+
+“It's not about the aura rifts, Guild Leader. You are correct about everyone knowing about the aura. It's about the guild's prestige. Titan’s Torch is a new charity guild without any substantial creations. An Ascender being the leader is great for the short term, but showing that you are actually invested in the guild and working with and in it will ensure that even when you need to go and do Ascender things, and leave the guild for centuries at a time, people are still willing to invest and assist. Otherwise, we might only see assistance and help when you are personally at the helm, because people will be investing or rather trying to gather favor with you personally.”
+
+Matt tried to catch the man in a logical flaw to get himself out of more interviews. “Then I’m the wrong person to do the interviews. It will seem like exactly what you fear since I was the one to create the rift.”
+
+“No, Guild Leader. It's the fact that you are hands on that is important. Even if someone else made the vital discovery, I would push you to do the interview. This is important for the long term growth of Titan’s Torch.”
+
+Cursing the man under his breath, Matt agreed to do an interview in a month or so, and then returned to the rift before the instance cycled.
+
+The Tier 6 rift was a little smaller than average, but that was something they had noticed as they tried to make higher Tier aura rifts.
+
+Rifts grew in size as they Tiered up, which meant more monsters. While rifts could have variation in monster density, that was usually tied to how strong the individual monsters were. They generally had a similar amount of total essence to be harvested for a full clear. Aura rifts, they had found, were typically five to ten percent smaller than their non-aura rift compatriots, and even more interesting was the fact that the total aura per rift didn’t scale up.
+
+A Tier 4 rift had enough aura to create 2 to 2.5 aura potions, but that number didn’t scale up for a Tier 6 rift, which had five or six times as many monsters on average.
+
+It was a very interesting factoid that further killed the idea of large scale aura farms done in high Tier rifts that could be sustained on higher Tier worlds. That, combined with the difficulty of keeping an aura rift from de-aspecting meant Matt expected very few high Tier aura rifts.
+
+A few worlds would make them to answer the demand of the Tier 14s who were stuck without a Concept, but they would be the exceptions, which wasn’t something Matt minded.
+
+With the revelation that they needed to treat sharpness aura as an elementally neutral form of aura, Matt modified the Emperor’s own Tier 4 aura rift instructions to account for neutral mana, rather than elemental.
+
+It took an infuriating 523 attempts, but when they succeeded the entire guild stared at the Tier 4 sharpness aura rift.
+
+It was beautiful.
+
+It also sent everyone into a frenzy, trying different materials as seed items for neutral mana.
+
+Sadly, few of them worked.
+
+What they did create was a neutral-mana movement aura that Matt thought might be popular.
+
+Or at least, Olivier loved it and instantly started throwing out bets for which Matt could use the aura type as his stake.
+
+That sparked a flood of messages in the Ascender group chat, with everyone making requests for what his guild needed to make next. Sien’s requested dream aura was basically impossible, doubly so considering none of them personally knew anyone with the Level 5 mana, so they’d have to first find a source of the ever-elusive mana type. And if dream mana was anything like simple illusion mana, it would be a nightmare to work with.
+
+Healing aura, as requested by Krodag, was already on his list and in high demand for obvious reasons, but Matt didn’t think there was any real chance he’d make it within the decade. Maybe a century but even that was optimistic with the zero progress they had seen so far.
+
+Max, of course, wanted mind aura, which was technically more possible than Sien’s requested dream aura, but only because Max could provide the required mana type herself. But even then, Matt wasn’t sure if making aura from a level 5 mana type would be possible before he eventually threw in the towel and ascended out of sheer boredom.
+
+When he shot that down, she pivoted to requesting thought aura.
+
+While the idea of tackling aura for a level 3 mana type when he was still working on getting level 2 mana types to work was a bit of a long shot at best, she rightfully pointed out that it could be used for some interesting AI applications. Apparently, the Federation sometimes used aura in their highest-quality cybernetic implants for various things, and a steady supply of thought aura could lead to some impressive refinement of the basic AI implant, if nothing else.
+
+He made a mental note to prioritize thought aura when the time came to hit the level 3 mana types, as Shadi would likely find the stuff as interesting as he did. He was definitely interested in improving the gear that low-Tiers had access to, but that was, once again, a long ways away.
+
+In the meantime, there were level two elements to experiment with, as well as finding ways of making neutral aura for defense, strength, and even ranged fighters.
+
+It was just a matter of throwing their head at the wall until something broke.
+
+Sadly, with only a few years left until the release of the formulas, Matt had to give another interview.
+
+Suddenly a disaster in Soerilia was looking like a good thing.

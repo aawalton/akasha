@@ -1,0 +1,161 @@
+---
+id: f4cdad6a-3e7a-5f6f-be91-21577fbc3af1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 56: About Those Classes..."
+slug: 0056-chapter-56-about-those-classes
+partOf: the-gift-of-loot
+position: 56
+ownLength: 2204
+unit: words
+publishedAt: 2026-07-15
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3681380/chapter-56-about-those-classes"
+royalRoadId: "3681380"
+---
+
+Thomas had never been so hyper-aware of driving the exact speed limit in his life.
+
+Logically though, he knew that if somebody wanted to go so far as to imprison him under the guise of him breaking a law, he probably didn't actually have to break any laws. They'd just make something up.
+
+Not a happy thought.
+
+Employment while incarcerated was legal. In fact, Thomas knew that many wildland firefighters were serving prison time as work crews to clear brush. It was a voluntary and popular position where people could get kicked off for bad behavior.
+
+However, now it seemed the government was taking it to a whole new level. The next logical step was instituting a draft. Wait, wasn't it possible to draft health care workers? What about healers?
+
+Thomas gripped the steering wheel and firmly told himself to stop spiraling. It sort of helped.
+
+____
+
+"Should we... do something?" Jo asked, later. "Help Twitch out somehow?" She seemed as torn as Thomas felt.
+
+Thomas had met the rest of his team at a pre-arranged point at a park in Reno not far from the convention center. Thomas had driven his beat-up sedan, Jo had arrived in her ex-husband's pickup truck that she pretended to hate but treated like another one of her children, and Zach teleported.
+
+According to him, it took the same amount of energy to teleport from South Lake Tahoe 60 miles to Reno as it did to travel one mile.
+
+"This skill is made for long distance," he said with a grin. "Teleportation mana is wild, man. I'm in love."
+
+Thomas didn't want to tell Zach how to live his life, but he really hoped he didn't exhaust himself of mana again. As the man's Gift made him his mana, that could literally be a mistake that could cost him his life.
+
+In any case, they'd listened with concern while Thomas relayed his encounter at the Government Marketplace.
+
+"I don't know how we could help," Thomas said. "Technically, no, legally he should be locked up in a jail cell. Maybe out on bond if he was lucky..." He trailed off and ran a hand back through his hair, agitated. "There's work release programs for people already incarcerated but that's not for people awaiting trial. It's blatantly illegal." He sighed. "Or it was."
+
+"I am not liking the sound of that ankle monitor," Zach muttered. "Did you get any feel from the mana?"
+
+"No."
+
+"Did it seem like he was in any pain?" Zach pressed.
+
+Thomas shook his head. "No, in fact he was able to sneak out to get word to me really quick. So he might have some freedoms but... I just don't know."
+
+"Yeah no," Jo said dryly, "I wasn't planning on it anyway, but now I really don't think I'll be working for the National Guard ever again."
+
+"There are freaky times ahead, my dudes," Zach said wisely. "No offense to your gangster friend, but this doesn't sound like an emergency."
+
+"He's not a friend," Jo corrected. "But yeah, I agree. Though, I have a feeling he's working on a way to get himself out. He seems to be the type."
+
+Thomas couldn't disagree.
+
+Zach nodded. "The best thing we can do is dive some really cool dungeons, absorb high-level mana, and make sure no one can put us in chains." He paused. "Plus, I have a teleporting skill, so no one's catching me, and if the worst happens, I'll get you guys out."
+
+Thomas huffed a dry laugh. "Thanks for that."
+
+Zach's solution to all threats was to find a way to get stronger. From what Thomas had seen of the world since System Integration was announced, he wasn't wrong.
+
+He had already been fairly circumspect with his healing, and he didn't think the Ross-Astor family would be talking, since he kind of sort of had a side deal with them for access to their Swamp dungeon. But from now on, he was going to have to be a whole lot more careful about his abilities.
+
+That wasn't even touching his Gift of Loot.
+
+"Speaking of dungeons," Jo said, "did the two of you get the list of dungeons that the elders sent me?" When Thomas and Zach nodded, she said, "So, what are your thoughts? Because I have a thing or two to say..."
+
+____
+
+About an hour later, after the sun set, they went to the Convention Center, which housed a portal to the Elf World.
+
+Crossing over from one planet to another was so mundane that it was boring. The Dark Elves called it a 'stable portal', and the way they set it up made it so someone just had to walk from one hallway into the next. During the daytime on Earth, fire doors closed off the hallway to keep any hitchhikers out.
+
+Hathas, one of the elders, was waiting for them on the other side. After some brief pleasantries, he escorted them to the official portal room, where they would be able to access the dungeons scattered across the planet.
+
+The portal... well, Thomas didn't want to think "Stargate," but it was a giant stone ring that required people to plug in coordinates to activate it.
+
+Traveling through this portal cost Shadow mana, which was the currency the Dark Elves used. Thomas and his team were expected to pay for that part themselves.
+
+Their team was still in negotiations with the Dark Elves to be their Earth-based consultants, but as an act of good faith, the elders had released some useful info about the System, and specifically the dungeons they would be able to access. In return, they (Jo, really) answered some clarifying questions on local culture and human history.
+
+As soon as the countdown ended and full System Integration swept over the Earth, the System restrictions would be lifted. The Dark Elves planned to start their own colony near the Lake Tahoe basin, and they wouldn't be the only race to do so. At least the Dark Elves claimed they wanted to make allies of their new neighbors.
+
+Thomas wanted to think the best of them, but he also couldn't recall a time ever in human history where a colony moving into an already established area had gone well for the natives. So... he was moving cautiously.
+
+It was probably a good sign that the Dark Elves hadn't asked for anything too weird yet, mostly just climate maps and charts, which Jo had printed off Wikipedia, and one United States history book she had gotten from the local library.
+
+"Which dungeon have you chosen?" Hathas asked.
+
+"The Griffin Trials," Zach said.
+
+He spoke for the rest of the team because for some reason the elves thought he was the leader, despite being the youngest. It had something to do with Zach's messy childhood where he beat the crap out of Light Elf kids in a blood sport tournament.
+
+Thomas did not understand why that was supposed to prove the strength of the next generation. Jo had said it sounded like one of her daughter's Naruto shows, and Thomas had agreed.
+
+"Griffin Trials? Oh yes, in Wood Elf Territory," Hathas nodded. "That is a standard choice. And we have a village there, though be warned, it is not nearly as prosperous as ours here." He sighed. "None of them are."
+
+Thomas held up the guide he had printed out from the files Jo had passed along. It beat paying a premium price from the Elven Marketplace. "I have a quick question if you don't mind." He flipped to the back of the guide, which showed the loot table. "What's with the .001 chance of a Griffin Tamer class?"
+
+"Well, it's admittedly a low chance, yes, but as the chances are stackable it is very popular with our young who have not reached their level five class election," Hathas said, then blinked at them. As he did, the eyelid slid sideways across his eyes. "Is something wrong?"
+
+Perhaps he wasn't good at reading puzzled expressions on human faces.
+
+"I'm sorry, there's a way to influence your classes like that?" Thomas asked.
+
+"Well, yes, don't you know?" Hathas looked at Zach questioningly.
+
+"No, my family held back information whenever they could," Zach said. "Plus, I wasn't expected to start delving until System Integration was announced, for the increased strength of the Gifts."
+
+Hathas snorted. "Well, it is very basic information," he said. "So I have no reason not to give it to you now. You are aware that at level five you are presented with a choice of starting classes, yes?"
+
+They all nodded.
+
+"After you complete your level five core and consolidate your first five layers—not as you're level four and building to five. Every year a student gets that wrong—anyway, the System," he made a gesture upward of acknowledgment, which Thomas noted some of the elves did whenever mentioning the System. It was a little bit like when very religious people crossed themselves, "presents you with pathways to further yourself. These are based on your experiences and trials during the first five layers of your core."
+
+Hathas crossed his arms in thought for a moment before nodding to himself. "So, for example, if somebody wished to be an eventual Grand Archer, they would choose dungeons where their archery skill could be improved. Perhaps one with monsters that need to be shot in the air. They would also choose skills in archery or precision and train themselves outside of the dungeon."
+
+He paused. "There is still some disagreement about whether your actions outside a dungeon influence the classes, but I strongly suspect that they do. In any case, if you wish to aim for a particular class, then it is best to fully dedicate yourself. That includes choosing dungeons that may confer a bonus chance at achieving that class."
+
+"So if you want to be a Griffin Tamer," Jo said, "whatever that is, then you would redive this dungeon over and over?"
+
+"Yes, exactly so, and there are young hopefuls who do that. We do not have any Griffin Tamers among our people as they are traditionally a Wood Elf class, but it has happened. Do you have any aspirations for it?" he asked politely.
+
+They all shook their heads. Thomas figured with his luck and experience he would be offered the 'Griffin Veterinarian' class. His personal goal was "Combat Healer," though he didn't remember seeing anything like that in the loot tables. He'd have to go through the guides again.
+
+"We mostly picked this dungeon for the chance of Adaptation mana," Thomas said.
+
+"Ah, yes." Hathas nodded. "That is a good choice for magical flexibility. Though it's odd that Adaptation is a reward for this particular dungeon. The System," he gestured upward again, "can be very mysterious."
+
+"Let's say you don't like any of the classes you were given," Zach said, "do you get to try again?"
+
+Hathas smiled. "It is said that the 5th level is the first stepping stone along a very long path. You are required to pick something, but it is entirely possible to rededicate yourself to a different path in the next five levels."
+
+His brilliant yellow eyes shifted briefly to Thomas, making him wonder if he knew about core rescission. Only healers were able to burn down their core back to a base level and start again. This was to escape the heavy Burden of healing mana.
+
+It seemed that question time was over as Hathas changed the subject. "Healer Thomas, please flip to the back of the guide." When Thomas did, Hathas pointed one long blue-gray finger at a series of numbers. They weren't really numbers on the page because the elves used a runic system, but when Thomas looked at them, the System helpfully translated them into numbers in his mind. "Input those coordinates into the panel here."
+
+The panel was the same. When Thomas stepped close, the holographic panel showed English letters and standard numbers zero through nine.
+
+Hathas continued, "It is good practice to double-check to make sure that you have correctly inputted the numbers. More than once, someone is in a rush or gets lazy and inputs the wrong coordinates, which do not error out. Then they end up on a completely different side of the planet. If it happens to be in Light Elf territory, it can be... troublesome to get them back."
+
+Thomas inputted the numbers, double-checked them before pressing enter, or the equivalent.
+
+The panel flashed green with: Destination Coordinates Accepted. Cost: 50 Shadows.
+
+When Thomas pressed the 'Okay' button, the 50 Shadow mana crystals were removed from his system account.
+
+"You guys owe me some Shadows," he said. That had cost almost his entire savings.
+
+"You know I'm good for it," Zach said airily.
+
+"How many?" Jo asked, then carefully notated her portion in a tiny flip book when Thomas told her.
+
+The screen started a 10-second countdown and they all turned to the portal ring.
+
+Thomas half expected a water effect, just like in the Stargate movies. But instead, the middle flashed white, and suddenly they were looking at filtered daylight in a wooded forest.
+
+"Best of luck with your dive," Hathas said formally.

@@ -1,0 +1,157 @@
+---
+id: 31058569-b39a-58fa-a6bd-d3ed2ad4827f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 43 - Eleanor Waiting"
+slug: 0044-chapter-43-eleanor-waiting
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 44
+ownLength: 1220
+unit: words
+publishedAt: 2022-07-05
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/942341/chapter-43-eleanor-waiting"
+royalRoadId: "942341"
+---
+
+Eleanor was in the living room, watching the street through the front window.
+
+Earlier in the evening, she’d made some pretense at reading, but when she noticed she was distracted and tried to focus back on the book, so much time had passed as she sat there, seeing nothing, that the sunlight had slipped from the room. It was too dark to even make out the words. She gave up then and went to the window to wait.
+
+Miss Tessa came in at one point and asked her something. Eleanor shook her head without really hearing the question.
+
+Sometime after that, Taylor entered the room and lit the reading lamp that was by her book.
+
+“Thank you, Taylor.”
+
+He’d bowed and left.
+
+When a car pulled up outside, Eleanor’s hands tightened over the bandages on her arms. Two figures got out. Eleanor recognized one of them as he passed under the street lamp.
+
+Her whole world went cold.
+
+She was still standing by the window when Taylor lit the room’s central light and announced that Chief Inspector Haley wanted to see her. He had a guest with him.
+
+“Send him in.”
+
+Eleanor turned when she heard them in the door.
+
+When Haley walked in the room, he seemed like a stranger. All the warmth, all the kindness, was gone. There was no smile for her. Eleanor had to look him in the eyes to convince herself it was him and not Penn in disguise.
+
+“Good evening, Lady Serrs.”
+
+“Good evening, Chief Inspector.”
+
+“This is Rubin Altis.”
+
+Eleanor forced herself to look at the man. “How do you do?”
+
+Mr. Altis had been doing badly. Grumpy. Put out. But Eleanor sounded so meek, Altis found himself saying, “I’m honored to meet you, Lady Serrs.”
+
+Haley went on, “Earlier this evening, I arrested Ryce Penn for breaking into Mr. Altis’s apartment. While we had Penn in custody, he claimed that he had stolen this book from you.” The inspector held it up. “Mr. Altis says that Penn is lying and that the book came from his apartment. It seems to be something in the way of a private journal, and Mr. Altis decided he’d rather not have me look at it. We thought it would be better to bring it to you, to see if you recognize it.”
+
+Haley put the book in her trembling hands.
+
+Altis waited in an agony of tension as Eleanor examined it.
+
+“It looks like one of mine.”
+
+Haley noted how curiously flat Eleanor’s voice was.
+
+She looked up. “But that doesn’t mean much. So many journals are sold, and they all look the same. May I look inside, Mr. Altis?”
+
+Altis growled and groaned, then mumbled a reluctant yes.
+
+He added, “But, please, Lady Serrs, what you might see…”
+
+“I know. It’s private.”
+
+Eleanor walked over to the chair with the reading lamp and sat down. Both men watched as she flicked through several pages, then stopped to read. She only read for a few seconds, but if Altis hadn’t been enduring such awful mental torment, he might have realized it was several seconds longer than she should have needed to see the handwriting wasn’t familiar.
+
+She closed the book, stood up, and returned to them.
+
+To Haley, she said, “It isn’t mine.” She handed the book to Altis. “I’m sorry that you’ve been put through all this trouble.”
+
+He hugged the book to his chest with a relieved, “Oh!”
+
+Haley turned to Altis. “If you wouldn’t mind waiting for me in the hall?”
+
+Altis bowed several times as he left. “Thank you, Lady Serrs. And it was a pleasure to meet you.”
+
+“Likewise,” she murmured.
+
+Then Haley and Eleanor were alone.
+
+“Lady Serrs”—Haley hesitated—“do you have something for me?”
+
+“I’m sorry…but I don’t know what you mean.”
+
+Lucas’s head jerked in a single nod. He fixed his eyes on the floor. “Thank you for your time. Good night, Lady Serrs.”
+
+“Good night, Chief Inspector.”
+
+Haley left. Eleanor couldn’t bring herself to see him out.
+
+When she heard the front door shut behind them, she groped for the nearest chair and sat down. She was still crumpled there when Taylor came to check on her ten minutes later.
+
+“Lady Eleanor—”
+
+She put a hand to her face so the butler wouldn’t see her expression.
+
+“—is there anything I can do?”
+
+“No,” she breathed. “No, thank you.” But when the butler turned to go, she cried, “Wait!”
+
+He returned.
+
+“Taylor, I don’t know what to do.”
+
+The butler took a deep breath. Then he pulled a nearby chair close and sat down beside her.
+
+“Lady Eleanor, I think you’re lying to me.”
+
+Eleanor blinked. Some of her swirling emotions subsided as she was drawn back to her childhood. It was the only other time Taylor had ever said those words to her. She looked at the butler’s profile. It was made of strong, simple lines and belonged to a face that stared straight ahead.
+
+He went on, “When you don’t know what to do, you look confused or, occasionally, angry. Right now you appear to be very scared and very sad.”
+
+Eleanor closed her eyes so the tears would at least have to struggle to escape.
+
+“To me,” Taylor said, “it would seem like you do know what to do, but you don’t want to do it.”
+
+Eleanor nodded.
+
+She felt a hand on her shoulder and opened her eyes. Taylor was standing again, holding out his handkerchief. She took it and used it to wipe her face.
+
+“Lady Eleanor, whatever happens, I will be here for you as long as I can be.”
+
+“Thank you, Taylor.”
+
+The butler extinguished the central light as he left.
+
+The crying didn’t last long, but as time passed, the numbness grew worse. Eleanor had to force herself to her feet. She walked over to the front stairs.
+
+Each step was a labor. She was exhausted before she reached the landing, but once she was there, she made her way over to her aunt’s room and knocked. There was no answer. When she knocked again, she thought she heard a quiet voice call for her to come in.
+
+Lady Helena was sitting in a chair next to her window with a book laying on the table beside her. Her room was at the front of the house, so her window faced the street. She had been keeping a mirror of the vigil Eleanor had kept downstairs.
+
+“That was Inspector Haley, wasn’t it?” Helena said.
+
+“Yes.”
+
+“Strange for him to visit so late. Is everything all right?” When her niece didn’t answer, Helena turned away from the window to look at her. “Eleanor, you look pale. Do you need to sit down?”
+
+Silence.
+
+“Aunt Helena, I have to ask you something.”
+
+Her aunt nodded.
+
+“How sick are you?” Eleanor had to swallow. “And how long have you known?”
+
+Two tears appeared on Helena’s cheeks. Eleanor had never seen her aunt cry before.
+
+“This is about Edward, isn’t it?” Helena asked.
+
+“Yes.”
+
+Lady Serrs-Comtess put a fist to her mouth, but the loud moan escaped around it, and with it came the sobs.
+
+Eleanor went to her, knelt down beside the chair, and held her. She tried to shush and comfort her aunt, even while her own tears streamed into Helena’s white hair.

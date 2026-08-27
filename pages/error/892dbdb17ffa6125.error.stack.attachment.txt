@@ -1,0 +1,2 @@
+Error: pages_for_view: unknown filter field claimedAgent on page-type 019db533-f381-7442-b3a6-1f55aa178acf (no propertyDefinitions blob)
+    at BroadcastChannel.c (http://localhost:3044/node_modules/.vite/deps/@electric-sql_pglite_worker.js?v=2d069bb5:198:13)

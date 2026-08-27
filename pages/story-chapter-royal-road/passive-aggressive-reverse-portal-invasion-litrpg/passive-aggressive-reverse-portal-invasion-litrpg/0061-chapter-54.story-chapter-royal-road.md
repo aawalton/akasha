@@ -1,0 +1,177 @@
+---
+id: 73e461f2-9af7-53ff-973c-ba9237f78b9b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 54"
+slug: 0061-chapter-54
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 61
+ownLength: 2009
+unit: words
+publishedAt: 2026-08-11
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3799024/chapter-54"
+royalRoadId: "3799024"
+---
+
+“Seriously, if this was what camping was like back on Earth, we’d have done it more often!” Nix spoke with her mouth full, lounging in part on her soft, fluffy bed roll, in part on Haddock.
+
+Steve snorted, squatting over an open fire. He winced as his elbow touched his burned leg and said. “Except for the monsters. And the near deaths. And hurting all the time. But being able to carry anything you need inside your Personal Universe instead of logging the weight around is the best.” He beamed, before his face scrunched up in confusion. “Wait – weren’t you guys going to be building a cabin in the wilderness? I’d have thought you camped all the time.”
+
+Haddock snorted and made a so-so movement with his hand.
+
+Nix’s upper lip curled up. “Cabin? Yes. Wilderness? No. We had a plot reserved on a friend’s land in Wyoming. There was a forest right there, and even a small lake. But if you thought I’d live without electricity and wifi, think again!”
+
+“And showers.” Haddock added.
+
+“And showers. Though, those heated bathtubs back in Last Chance do a pretty good job of making up for the lack of real amenities.”
+
+“Speaking of.” Steve perked up. “Haddock, you think you can help me here? We’ve got what I’m promised should be some great dessert here. But I either need some help with how to toast them properly, or we’ll all spend ages sitting here with sticks, and still end up messing it up.”
+
+“What do you need?” Haddock said, slowly getting up. He winced with every move, limping slightly, clearly favouring his left leg. He was the one who’d gotten hurt the worst, and didn’t have my level of Self-Heal to recuperate.
+
+Steve and Haddock dove into a discussion that sounded somewhere between advanced cooking and Robot Wars.
+
+Meanwhile, I moved closer to Nix. “How’s the hand?” I asked. “When you took that final shot to your hand, I thought you’d gotten hurt bad.”
+
+She waved it around a bit, then grimaced. “Okay, yeah, I shouldn’t do that.” She grinned weakly. “Seriously, I don’t know how you stand the pain. I’m at fifty health, and it’s distracting as hell! Everything hurts.”
+
+I shrugged. “I used to pay rent by being a sparring partner for overly aggressive douchebags. I’m used to pain.”
+
+“That sounds… horrid.” She commiserated. “Anyway, the hand is doing fine. And I finally got Mana Shield. That is going to be an absolute life saver!”
+
+Defensive skill
+
+Mana Shield
+
+Active skill
+
+Most people spend ages learning how best to use armor, shields or their own bodies to properly take a punch. Others use their minds. You have learned how to add a layer of protective mana to a part of your body. Every level in Mana Shield improves the protective effect and reduces the mana cost.
+
+Cost: 10 mana/minute for activation + damage dependent
+
+She raised her arm, hissing slightly, then layering it with a shimmering blue glove. Keeping her arm raised, she slowly turned it, looking at it in awe. “It’s not perfect. Activating and moving it about is a bit slow. Also, I doubt it would protect me from a super heavy blow…” She trailed off.
+
+I looked at the glimmering layer of magic. It looked like a living thing, moving and adjusting slightly along with her arm. “I’d have it active all day if I could.”
+
+She snorted. “Oh, you think I’m not? I was just meditating, waiting for my mana to regenerate. Haddock and Steve are both bothering me to teach them.”
+
+“As will I!” I grinned ruefully. “But I honestly doubt I’ll get it. My attributes suck for it, and I’m not sure I have the brain for it in the first place.”
+
+“But you have the brain for pain! Wait. That sounded cornier than I expected. What I mean is, you’ve got all these toughness-based skills. We all got Self-Heal today, and I just know I’m not going to level it if I can help it.”
+
+I snorted. “Well, it mostly wasn’t on purpose. But yeah. And hey. We all got Resilience to Uncommon.”
+
+We very much did. The upgrade was super nifty.
+
+Congratulations. You have unlocked the higher rarity of a skill:
+
+You have taken three different kinds of damage during a single engagement and survived.
+
+Defensive Skill
+
+Improved Resilience
+
+Uncommon Passive skill
+
+Others may try to dodge what life throws at them. Meanwhile, you face it head on, and keep going. Every level in Resilience slightly improves the overall toughness of your body, reducing any damage done to you.
+
+In addition, once a day, you may double the effect of Resilience for a full minute.
+
+That might not sound like much – but I could feel the difference. The improvement from the skill went up from ‘marginally’ to ‘slightly’ and the effect was undeniable. It was like… Well, anybody who’s ever tried exercising from nothing until they get in actual shape has had one of those moments. A moment, where they truly notice and marvel at the improvement from one exercise or another as their strength grows. A tempering exercise that used to be painful, now little more than pressure. Holds that had your muscles trembling and giving in, now reduced to a bitter-sweet burn.
+
+I was at eighteen Resilience, and when I tried to slice at myself with my skinning knife, my skin actually resisted. It still made me bleed – the knife was made for skinning magical monsters – but it resisted! I couldn’t wait to see what would happen when I got it to twenty-five.
+
+“How’s Haddock taking the Dodge mess?” I asked.
+
+She shot a brief glance at him. Her bittersweet smile was so tender, it almost hurt to look at. “The big lug doesn’t do well with failure. He’s beating himself up, telling himself how he should’ve done better, never mind how he’s never been the fighting type.” She paused, then blurted out. “Thank you for stepping in. It could’ve gotten ugly.”
+
+“Eh.” I waved her off. “Anytime. We’ll try again when he’s healed. And we were always going to protect the big guy. Just make sure he has a healing cake on him, in case things go south.”
+
+“Already done!”
+
+I chortled to myself. Healing cake. My life was so weird.
+
+The Dodge increase, Uncommon in rarity, was even better.
+
+Congratulations. You have unlocked the higher rarity of a skill:
+
+You have evaded ten attacks that would have otherwise hit you during an engagement.
+
+Defensive skill
+
+Improved Dodge
+
+Uncommon Passive skill
+
+Survival is an art form. One you had better hone in order to stay among the living. Every level in Dodge will slightly improve the speed and accuracy of your dodging actions and reduce the stamina used.
+
+In addition, once a day, your Agility will count as double for Dodge for the duration of a full minute.
+
+I was faster, smoother, more elegant when I tried to evade attacks. Also, all those extra effects we’d started amassing from gaining higher rarities? Well. By themselves, they might not be insane. But combined, they’d grant me something approaching invincibility for a full minute, where I could run at double speed, dodge most things and shrug off moderate blows like they weren’t even there. Also, ignore one full-on death blow, remove a debuff and regenerate my stamina fully. Yeah. Collecting higher rarities was absolutely the way to go.
+
+Shouting disrupted me patting myself on the back. I looked up, half expecting to see the dessert on fire. Instead, I saw Haddock jumping up and down, pointing down at the fire, shouting. “No fucking way. No fucking way!”
+
+I scanned the outskirts for any monsters lurking to ambush us, then realized that there was nothing there. This was all about the bonfire. The formerly brightly burning bonfire, now reduced to softly glowing embers, and the weird-ass contraption currently whirling above them.
+
+Steve turned toward us. His hands were clenched at his sides, and he looked like he was about to explode. Or on drugs. Or both.
+
+“Soooo.” He started, sounding like a tire slowly losing air. “My family might be a bit weird.”
+
+“Your family’s weird?” I raised an eyebrow, glancing from him to the thing gently circling around the embers. It looked like a mix of fly swatters, a miniature rotisserie and a barbecue grill. “And what about that has Haddock yelling?”
+
+Ignoring my question, Steve shrugged. “Well. We like to tinker. And when we get together for Thanksgiving in October, we have a tradition where we mess about in the workshop and build the weirdest creations for roasting marshmallows. Whoever builds the coolest, weirdest thing that still works wins a prize.” He chuckled.
+
+I squinted, absolutely not following. It looked like the thing could spin, tilt, be height-adjusted and… possibly drive a car. It was weird. “So, you helped Haddock create this contraption for roasting…”
+
+“Enager Leaves.” Steve said. “You’ll love them.”
+
+“Nobody cares about the leaves!” Haddock’s eyes gleamed with constrained joy. “I won the prize!”
+
+“Huh? You what? But… oh!” I slapped my forehead, when I finally understood what he was hinting at.
+
+He told us. Gleefully.
+
+Congratulations. You have unlocked the higher rarity of a skill:
+
+You have created a construction that meets the minimum level quality required by the skill, without a single break throughout.
+
+General skill
+
+Construction
+
+Rare Passive skill
+
+Everybody builds. There is always a need for construction. Hiding. Protection. The joy of creation. Wherever life evolves, construction arises, in one form or another. You have learned how to build, to make the world a better, more convenient place for yourself. Every level in Construction will moderately improve the speed, accuracy and longevity of your construction efforts.
+
+In addition, once a day, you may activate Zone of Solitude. Zone of Solitude creates a ten-meter-radius circle around the builder. No senses will enter or escape the circle. It will last for five minutes and your Construction will be improved by five for the duration.
+
+“Wait.” I barely contained my laughter. “You’ve been throwing yourself into danger, risking your life for nothing, and you get the rarity increase building a fucking toaster?”
+
+He flung up his hands. “Right? It must have been the complexities and all the small details that unlocked it. Anyway, the upgrade? It changes everything. Not just that Zone of Solitude, which… I don’t know. It sounds dangerous to use, but also lovely for concentration and the increase. But the breakthrough!”
+
+I frowned. “Yeah, you’ve lost me there. What breakthrough?”
+
+“You saw the cage I made against the Ravagers?”
+
+“Oh. The flying one? Sure.”
+
+“Well, before that, I’d been unable to construct something out of thin air. My constructions need to be… structurally sound or thereabouts. Make a base amount of sense, seen from a building viewpoint.”
+
+I wrinkled my nose, considering. “That does seem logical.”
+
+“Except, I got to thinking. And a lot of constructions need materials dropped down from above.”
+
+“They do? I mean, I’m not in construction, but-”
+
+Haddock wasn’t to be stopped. Clearly, when he was talking about something he was enthusiastic about, his usual reserve went right out the window. “Top-down constructions. Roofing. Anything with a crane, really. Of course, they don’t actually drop anything. But they do lower them, letting them go at some point. And from then on, it’s just a matter of perspective.”
+
+“Listen, mate. I am absolutely not catching whatever you’re getting at.”
+
+“I can drop shit on people’s heads from above!”
+
+I blinked. I did not see that one coming. At all. “When you say ‘shit…’
+
+“Rocks. Logs. Walls! Pre-made housing. Anything construction-like. Timing is going to be a bitch, because size and mass make it harder for me to summon anything with precision and at the right time, but…”
+
+“You can drop a two-ton wall on somebody.” I wasn’t sure if it was a statement or a question. “Did… my life turn into the fucking Looney Tunes when I wasn’t watching?”
+
+“Only in the best possible way!”

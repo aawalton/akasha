@@ -1,0 +1,375 @@
+---
+id: 9e0d08b8-cfab-5da8-b1c4-ccab7865ee2e
+page-type-slug: story-chapter-royal-road
+title: "380 A Changed Albony"
+slug: 0340-380-a-changed-albony
+partOf: the-new-world
+position: 340
+ownLength: 2036
+unit: words
+ownProgress: 2036
+publishedAt: 2025-02-27
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2091831/380-a-changed-albony"
+royalRoadId: "2091831"
+markedReadAt: "2026-06-29T21:32:54.391Z"
+---
+
+I shook my head at how insane the situation was, and seconds passed like eons. We all looked around before a flash of mana crossed over us. A muscled albony appeared, black stripes lining his furred body. He glanced around, his eyes pale and blind from birth. He stared at his hands.
+
+"And here I imagined you'd all be too stupid to figure it out."
+
+He squeezed them into fists.
+
+"Looks like I was wrong."
+
+He smiled at us.
+
+"Excellent work, uncle...And Harbinger."
+
+Chapter Begin
+
+Obolis walked up, his hands shaking. Helios put a hand on the Emperor's shoulder.
+
+"You survived. As the Carnage of Ostaltia should."
+
+Helios lowered his arm before narrowing his eyes.
+
+"Victoria wasn't savable then?"
+
+Obolis winced. Helios tilted his head.
+
+"Hm. You're emotional, aren't you? Perhaps the worst has happened?"
+
+Obolis's arms fells to his sides. Helios nodded.
+
+"Then the Empire is no more."
+
+Those words sunk into the place like a knife between the ribs. Obolis reached out his hands.
+
+"Helios."
+
+His nephew put a palm on Obolis's chest, stopping the hug. Helios raised his brow.
+
+"This weakness isn't fitting for a king. The Empire needs you more than ever, so make yourself whole from these pieces."
+
+Obolis trembled. Helios made a fist and gave his uncle a light punch in his chest. Leaving his hand there, Helios stared at Obolis.
+
+"The albony need you, not this shell you feel you've become."
+
+Obolis tried speaking, but his words bled into nothing. Helios leaned close.
+
+"Be what you must be, not what you are. Isn't that what you told me? Hm?"
+
+Helios walked away from Obolis, leaving the Emperor there in a state of shock. Near us, Helios peered at his own corpse before sneering.
+
+"I appear to have been blended into a fine paste before being reborn. Blegh."
+
+Shalahora and I peered at each other before I turned a hand to Helios.
+
+"Uh, shouldn't you give him a hug or something?"
+
+Helios leaned close to me, his eyes like slits.
+
+"What do you think we were given in our time of need? No words of encouragement, I assure you."
+
+Helios leaned back and snapped a finger, the void ice shattering around his corpse. The freshly melted blood pooled down before he picked up his clothes, armor, and possessions. They dripped with fluids and chunky bone, but Helios left his mask fragments behind. He simmered.
+
+"Agh. Why must everything be so disgusting?"
+
+Helios turned to us.
+
+"Surely you all must be busy? Let's move."
+
+I frowned.
+
+"What's going on here?"
+
+Helios shook his head.
+
+"I'm joining your guild...If you would allow it."
+
+Obolis stared at Helios. Obolis's jaw slackened when he heard the words, his eyes watering. Caught between a rock and a hard place, I raised my palms to them both.
+
+"I'm not a part of this."
+
+Helios raised a hand to me.
+
+"Oh, but you are. Know that I wished to end this without theatrics, but it wasn't meant to be so."
+
+Helios's face wore an empty smile.
+
+"You should stay and learn much of what Obolis understood before entering the lottery. Of what he hid from even us, his loyal subjects."
+
+Helios's ire transformed from angst to deserving rage in an instant. Obolis shook his hands.
+
+"No, Helios, there's a misunderstanding. I didn't know-"
+
+Obolis turned to me. His expression changed as the Emperor peered back at Helios.
+
+"I can explain. If I told you all about the lottery beforehand, then Schema-"
+
+Helios shouted, "You wanted to rebuild the Empire, so you risked our ignorance. We walked into a deadly game without prior knowledge, something you had on hand. You could've taken away our positions, but no. You knew some of us would die and measured that risk."
+
+Helios put his hand on his chest.
+
+"We, who gave you everything. Our loyalty. Our dreams. Even our lives. You converted us from your kin to a measurement. We are no longer people to you. We are a calculation for your gain, your legacy, and your history."
+
+Helios took a step. Void ice spawned from his feet.
+
+"I am a calculation no more. I will no longer walk in your shadow to a valley of death."
+
+He took another step, and my hair stood on end. Helios's voice hardened to iron.
+
+"I will walk my own path. I will forge my own way."
+
+Obolis grimaced.
+
+"Everything I've done is for the albony."
+
+Helios walked off, opening a warp to Mt. Verner.
+
+"All you do is for yourself."
+
+The warp closed behind him, and we sat in tense silence. Plazia coughed on his hand before melting into the ground. Wishing I could just leave like that, a while passed before I let out a long sigh.
+
+"We should go."
+
+Obolis simmered.
+
+"You should."
+
+I turned, walking out of the room and floating upstairs. In the medical bay, Shalahora sighed.
+
+"To this day, I still lack any knowledge of familial affairs. To press onto that nerve is beyond me."
+
+I put my hands on my hips.
+
+"Me too, buddy. Me too."
+
+Plazia's eyes melted onto a wall, and a mouth of jagged rock hissed.
+
+"Perhaps Florence may help you?"
+
+I snapped a finger to the wall.
+
+"Good idea."
+
+One of the albony surgeons looked at us. She dropped her scalpel and turned to the doorway.
+
+"I'm not paid enough for this."
+
+True to her word, she left the building for a different path in life. I couldn't blame her as Plazia molded out of the wall, walking out of magma. The twisted Sentinel sliced through dimensions before sighing.
+
+"I bore of drama. You individualized species reak of it."
+
+He stepped through, reaching Mt. Verner. Shalahora followed, and Kessiah had already evacuated earlier. That left me for last. I put a hand through the portal before it clamped onto my arm. I pursed my lips before Obolis stepped up. He wrinkled his brow.
+
+"Will you accept him into your guild?"
+
+I shrugged.
+
+"I don't see why not."
+
+Obolis's face gnarled up like old roots.
+
+"Doing so is an insult I'm unwilling to bear."
+
+I sighed.
+
+"Unwilling to bear? Holy shit. Ok, I didn't want to have to do this, but-"
+
+I walked to him, the portal trying to grind through my arm.
+
+"If I have to choose between you two, I'm picking Helios every time. He hasn't lied to me. He sticks to what he says and doesn't take advantage of people. Sure, he's gruff around the edges, and the guy can have an attitude. That's all surface-level. Underneath, he's a good guy."
+
+I tapped Obolis's chest plate.
+
+"We both know you're not. From our talk on L-7, you agreed with Schema aiming to cull the weak rulers. Separate the spoiled from the spoilers, right? Hell, from what Helios is saying, you looked forward to having your empire cleansed."
+
+Obolis leaned back.
+
+"I-I never considered the implications-"
+
+I raised my brow.
+
+"Helios mentioned everything that needed to be said. You could've gotten rid of the albony's titles. They didn't have to be rulers, but now you're trying to say you never considered that? You're trying to lie to me like you tried lying to Helios."
+
+Obolis took a sharp breath. I frowned.
+
+"Yeah, I saw it. He did too. You're off your game right now, which makes sense. You've lost everything, and this must be a shock. However-."
+
+Obolis closed his eyes before squeezing his hands into fists. I lowered my arm.
+
+"You need to take this loss on the chin and quit ducking it. It's not befitting of a king."
+
+I turned to leave. Obolis snapped.
+
+"The artifacts? The income? If you accept Helios, then you lose them. It's in your hands now. This relationship continues or ends because of you."
+
+I glared back and leaned over him.
+
+"That's where you're wrong. I'm not ending anything. You're letting your ego get ahead of what's best for your people. You did that in the lottery."
+
+I gestured to the empty room.
+
+"Look at how that worked out for you."
+
+Obolis glared while heaving for breath. I grabbed the tightened portal over my arm and pulled it back open.
+
+"I'll be here whenever you calm down. Till then-"
+
+I gave him a two-finger salute, and Obolis bristled. I walked through the portal, stepping into Plazia's lair. Insects cleaned Helios's possessions, and the icy albony stood tall. I walked up.
+
+"It's good to see you again."
+
+He gave me a curt nod before I pulled the lug into a hug. He leaned his face away at first before sighing. He squeezed back, and I let go. Helios sneered.
+
+"You weren't going to let go until I returned the gesture?"
+
+"Hell no."
+
+Helios grinned.
+
+"You're as obnoxious as Florence."
+
+I pointed at him.
+
+"Speaking of, he needs to see you."
+
+Helios raised a palm.
+
+"I wish to clothe myself first beforehand. I want my dignity."
+
+That made sense. Before anything else, Shalahora manifested from the shadows.
+
+"Do not blame Obolis for his words. He has lost everything, and he is falling apart."
+
+Helios frowned.
+
+"Why do you care?"
+
+Shalahora peered down.
+
+"I...I feel for his pain."
+
+I nodded.
+
+"I'm not taking it personally. If anything, I feel bad for the guy. He's obviously bitten off more than he can chew, and now he's starting to choke."
+
+Shalahora dispersed.
+
+"It is a burden he chose to bear, but it is one he can no longer undo. Now, he wears the mantle of his species. It will crush him as it crushed me."
+
+Shalahora's words lingered.
+
+"Do not let it crush you, Harbinger."
+
+After he faded, Helios sneered.
+
+"He's cheerful, isn't he?"
+
+I shrugged.
+
+"What can I say. The guy has a...Dark side."
+
+Helios facepalmed.
+
+"To think I missed this idiocy."
+
+We exchanged banter, but in the back of my mind, Shalahora's warning rang out. Despite my jokes, I took the Sovereign's words to heart. He had a reason for everything he said, and I would heed the wisdom in them.
+
+While we talked, Plazia finished sanitizing Helios's clothes. Helios put them on, taking his time and being meticulous with every article. I watched as he did, fascinated that an upright, fully furred tiger wore clothing and armor.
+
+Helios scoffed.
+
+"Enjoying the show?"
+
+I raised my brow a couple times.
+
+"Always."
+
+Helios laughed before shaking his head.
+
+"When was the last time you've even worn anything?"
+
+I looked up.
+
+"I think during that dinner party that Ophelia and Florence organized. Was it a suit or something?"
+
+Plazia read a dusty book.
+
+"No. At that time, you molded your armor into a suit. My children told me it looked awful."
+
+I spread my hands.
+
+"You were spying, even then?"
+
+Eyes of magma opened in the walls.
+
+"I am always watching."
+
+I put my primordial wake over him, knowing how insidious it felt.
+
+"Me too, buddy."
+
+Helios narrowed his eyes.
+
+"You've mastered your primordial energy. That is incredible fluency."
+
+My eyes grew distant.
+
+"My lottery was...Challenging."
+
+Helios grimaced.
+
+"Mine as well. I need to discuss the details of it with you and now."
+
+"Same. I'll get the others."
+
+When I opened my status, Helios put a hand on my arm.
+
+"There are details of my experience that the others shouldn't hear. It will be a burden for them to bear."
+
+Remembering the psionic liquid and my other secrets, I nodded.
+
+"Ah...Alright. Who needs to know?"
+
+Helios pointed at Plazia.
+
+"Aside from that informational kleptomaniac? Torix and you. That is all."
+
+Plazia cackled.
+
+"I am of many faces. To wear them, I must know them."
+
+Helios grabbed his gauntleted wrist.
+
+"Seeing and knowing are distinct concepts. You should learn the difference."
+
+A wall smiled.
+
+"You speak of sight? Would the blind preach to the able?"
+
+Helios inspected his hand.
+
+"There is more than one way to see."
+
+Plazia cackled.
+
+"And there is more than one way to be blind."
+
+I raised my brow.
+
+"Remind me not to try and one-up Plazia."
+
+Helios stared at me and clasped his armored hand into a fist.
+
+"Enough chatter. There's much to discuss and little time to do so."
+
+I frowned.
+
+"About the lottery?"
+
+Helios's face gnarled.
+
+"No. Of Elysium. Of Schema...And of my uncle."

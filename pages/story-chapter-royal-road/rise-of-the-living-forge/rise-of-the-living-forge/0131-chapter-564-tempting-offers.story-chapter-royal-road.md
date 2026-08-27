@@ -1,0 +1,151 @@
+---
+id: f3a1d384-a387-5960-a4f2-62b91f6d51b3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 564: Tempting Offers"
+slug: 0131-chapter-564-tempting-offers
+partOf: rise-of-the-living-forge
+position: 131
+ownLength: 2016
+unit: words
+ownProgress: 2016
+publishedAt: 2026-02-25
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3091400/chapter-564-tempting-offers"
+royalRoadId: "3091400"
+markedReadAt: "2026-06-29T20:02:38.049Z"
+---
+
+“These croissants are really good,” Arwin said through a mouthful of pastry. “Have you tried them?”
+
+“I made them, Arwin,” Lillia replied.
+
+“That doesn’t mean you’ve tried them. I don’t put on every piece of armor I make.”
+
+“That’s… fair,” Lillia admitted. “But yes. I’ve tried them. I’m not quite at the stage where I don’t sample my own work. There’s always more to improve upon. The learning never stops.”
+
+“That’s a very dedicated—”
+
+“I also get hungry.”
+
+“Ah. Makes sense. I know I’d get tired if I spent all day in a kitchen full of delicious food,” Arwin said. He let his gaze drift down to the excited crowd beneath them. Madiv had worked everyone into quite the fervor. “How much did you make? I can’t believe you’ve managed to feed this many people for so long.”
+
+“I’ve been preparing a while,” Lillia replied with no small amount of pride. “But the reserves are starting to run dry. We’ll run out pretty soon. Fortunately, there isn’t much longer left in the auction.”
+
+“Nor is there much more time for someone to make a move,” Arwin said. Some of the amusement left his voice as he swallowed the remainder of his pastry and frowned. “Hasn’t this been a bit too peaceful?”
+
+“It almost sounds like you want something to go wrong,” Lillia observed. “Everything being smooth is a good thing. There are a lot of powerful guilds here. There’s always the chance that nobody was stupid enough to try to mess with them.”
+
+“Or they’re saving everything up for a big push right at the end, when everyone’s guard is down.”
+
+Lillia glanced at Arwin out of the corners of her eyes. “Well, if they do, then I suppose things will have gone pretty much how we thought they would, no? Just slightly out of order. Either way… our point will be made. Maybe it’s counting my eggs before they hatch… but I think I’m a little more worried about what in the world we’re going to do with all the gold that we’re going to have after this.”
+
+“That’s a good question as well.” Arwin scratched his chin. Then the corner of his lip twitched in amusement. “Gold-plated bathhouse for the Devil’s Den? I’m sure Uriel would appreciate it.”
+
+“She’ll scratch the life out of it,” Lillia replied. “Absolutely not. I suppose the smartest thing to do would be to invest it into the street. We should start fixing up all the other buildings. Maybe attract a few more crafters our way. Put the rest into a vault.”
+
+“I’m on-board with that,” Arwin said. “But let’s not let ourselves get too carried away. I’m still a bit too convinced that something is going to explode and everything will go wrong in the worst possible—”
+
+Reya’s semi-translucent face appeared in the wall beside Arwin. He nearly leapt out of his chair, choking down a curse as he stumbled over his own feet.
+
+“Hiya,” Reya said, stepping out fully into the room and turning fully corporeal. “Sorry. Were you doing something?”
+
+“No,” Arwin said, gathering himself and flopping back into his chair with an embarrassed cough. “Just talking. Was everything good with our new VIP member?”
+
+“Yep,” Reya replied. “I’d say he’s onboard. It took a bit of convincing, and there’s a small chance he thinks that the other VIP rooms are empty, but everything worked the way we wanted it to. Were we specifically targeting Bronze Dragon from the start?”
+
+“No,” Lillia replied. “He just fit the bill. Good job, Reya. What’s the situation outside looking like?”
+
+“The gang has it handled,” Reya replied with a thumbs-up. “I think we’re probably going to have to pay some taxes to Milten soon, though.”
+
+“What?” Arwin asked. “Why?”
+
+“Because we’re filling up a bunch of their ditches with bodies,” Reya replied. “And there’s a cleaning fee if you pollute too much.”
+
+“Ah,” Arwin said. “Yeah. That might be wise.”
+
+“What about the Guild?” Lillia asked, her tone darkening. “They’re here, aren’t they?”
+
+“Not in the auction itself,” Reya replied. “I’ve been keeping an eye on things, and Madiv knows everyone who came in here. I checked in with him between the auction sections. The Guild hasn’t sent any overt representatives yet. Just people connected to them. They’ve still got reps, though.”
+
+Arwin’s lips thinned. “I almost wish they did. The Secret Eye?”
+
+“Same,” Reya confirmed.
+
+“Which means they’re definitely watching. Just… not the way we’d hoped they would,” Lillia said. She crossed her arms in front of her chest and leaned back in her chair with a sigh. “Lovely. I suppose we’ll just have to sit back for now and see what it is they’re up to.”
+
+“Not much else we can do yet,” Arwin agreed reluctantly. He nodded back to the auction platform below them. “For now, don’t let it bother you. We’ve all worked too damn hard to get here to let the vague existence of the Guild ruin the moment.”
+
+“Yeah,” Lillia said with a small smile. “You’re right.”
+
+“Just… keep your guard up,” Arwin said. His expression darkened slightly. “Especially after the 2nd round is done. If there was any time to try and make a move, it’ll be that.”
+
+“Don’t worry,” Reya said. “They’re not the only ones that can prepare. If they try something, we’ll all be ready for them. We still haven’t had to use our special surprise yet. Anyone strong enough to try and cause us real trouble is going to earn themselves a real bad time.”
+
+***
+
+“Drink?” the cloaked man asked, holding out a rather depressing mug of ale. If someone had pissed into a similar mug, it likely would have been hard to tell the two apart in color — or flavor.
+
+A ragged-looking man sitting across the table from the one in a cloak curled his lips in disgust. The dark, ratty hair that hung down his back in a thick mane hadn’t seen the better side of a comb in weeks. It stood out in stark contrast against the fine linens and beautiful clothes draped over the man’s body. Dirt and small scratches marred his tanned skin beneath his clearly expensive robes, dark bags hung under the disdainful gaze that turned to the drink presented to him.
+
+“That,” the ragged man said, “is not a drink.”
+
+The first man blew out a sigh. He set the mug back down on the table. The thud it made echoed faintly through the room the two of them sat in. These were far from appropriate lodgings. The table didn’t even belong here — they’d made the bartender lug it up from the common room some hours ago.
+
+“Not every job is going to be comfortable. And you’ve never been one for such things in the first place,” the hooded man said. He tapped a finger on the wood. “This is the only other inn in this shithole of a city.”
+
+“Therein lies the problem,” the ragged man replied. He shifted in his chair. A loud, grating rattle filled the room as the heavy manacled chains connected to his wrists ground across the floor. “Remind me why it is we’ve chosen this little… hovel when there is supposedly a top-rated inn just a few streets away?”
+
+“Because of the rumor—”
+
+“Rumors,” the ragged man repeated. Anger sparked in his dark eyes. “You fear rumors? With me standing by your side? You are even more of a coward than I thought.”
+
+“Perhaps I am,” the hooded man allowed. He raised the mug to his lips and took a sip. Then he grimaced, setting it back down on the table and subtly pushing it away from himself. “But I persist.”
+
+“Unfortunately,” the ragged man said. “Persisting might be the only accurate word you can use. This certainly isn’t existing. Being dragged around like a caged animal. Watching others stumble and butcher through what I could do easily. Watching them ruin the art that I have trained my entire life to master.”
+
+“You are a caged animal,” the other man replied. “And never forget it, Beast. Or have you already forgotten your own name?”
+
+“You could only dream. That is not my name. It is only the one you gave me,” A raspy laugh bubbled up from the ragged man’s lips. “But it would be quite convenient, wouldn’t it? To wipe away anything but the tool you seek? To be able to use my powers without having to sate my hunger? Would you like that, Mask?”
+
+“Don’t call me that,” the hooded man replied. “You don’t know who might be watching. The Secret Eye—”
+
+“Are in the Guild’s pocket,” the Beast replied. “And it sounded like we were using our titles instead of our names. But you should be careful. It is often the handler who the caged animal mauls first. Humanity or not, I still have my memories. And if you don’t enjoy that title, then I would be happy to use your other one, H—”
+
+“Be silent,” the hooded man snarled, pounding a fist into the table. “Do not speak so carelessly! You will not refer to me at all.”
+
+The Beast’s lips curled into a smile. “Calm yourself, Guildsman. There is nobody here. Nobody watching. If there were, I would have killed them. I do not like you… but I tolerate you. As little as I enjoy being paraded around like some toy — first to the Proving Grounds, and now here — I am not fool enough to bite the hand that feeds me. I remain hungry. And so I will follow your commands.”
+
+“As you should—”
+
+“I will follow you,” the Beast continued, his lips pulling back to reveal two sickly black rows of rotted teeth. “Until the day you can no longer sate my hunger. And then I will kill you, and I will savor every moment of it.”
+
+The hooded man shifted uncomfortably. “Perhaps. But you will not have to hold your hunger for much longer. We will have use for you very soon. There is someone we need removed.”
+
+“There always is,” the Beast replied through a yawn. “Ensure they are worth my time.”
+
+“They will be. It is a member of a top-ranking guild. More than enough to satisfy you for a short while, I should think. You should be happy. Milten is far from the center of the Kingdom.”
+
+“My limitations?”
+
+“Almost none,” the hooded man, his lips pulling into a smile beneath the shadow of his cowl. “The optimal time to act will be very soon. And, so long as you deal with our target, I couldn’t care less what happens to the city.”
+
+“A dangerous offer,” the Beast said. A flicker of interest passed through his dark eyes. “Are you sure you mean those words?”
+
+“Nobody would notice if the entirety of Milten was wiped off the face of the world,” the other man replied with a shake of his head. “There is nothing here that the Guild cares about. Do as you will.”
+
+“It has been quite some time since you were so desperate to have someone killed. I’m almost curious enough to ask what it is they did… or why someone worth such effort is out in the middle of nowhere.”
+
+“Some auction,” the hooded man replied wearily. “It hardly matters. All the relevant people will still be in the auction house when you act. Just leave that area alone and the clean-up will be easy.”
+
+“You just said I had free reign.”
+
+“There’s always a catch.”
+
+“I suppose there is,” the Beast allowed. “So I can do whatever I wish so long as I kill this target of yours when they emerge from the auction house?”
+
+“Correct.”
+
+“I accept.”
+
+There were two loud clicks. The manacles attached to the Beast’s arms snapped open. They fell away, crashing to the ground with enough force to severely dent the wood beneath them.
+
+“A tempting offer indeed.” The Beast rose to his feet, his lips pulling into the faintest of smiles. “One that I suspect you shall come to regret.”

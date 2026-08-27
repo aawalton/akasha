@@ -1,0 +1,187 @@
+---
+id: 56a6e86d-78be-5fc1-9f72-66f3b30594c1
+page-type-slug: story-chapter-royal-road
+title: "039 - Do Not Attack the Hyenas!"
+slug: 0039-039-do-not-attack-the-hyenas
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 39
+ownLength: 2372
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3517660/039-do-not-attack-the-hyenas"
+royalRoadId: "3517660"
+---
+
+As I rushed to the eastern gate, confirmations from both parties came in—along with questions about what had happened.
+
+While I ignored the ongoing skirmishes, the dozens of hyenas following me did not. Isolated gnolls either retreated to the south-eastern edge of the fortress or fell to their jaws.
+
+When the eastern gate came into view, I gave the signal in party chat. Here the gnolls had mostly killed the rebellious hyenas already and they were gathering for a counterattack—their focus firmly on the inside.
+
+I laughed and screamed as my followers gathered around me. While hyenas weren't as cowardly as depicted in the media, they wouldn't mindlessly charge a waiting enemy. They were hunters, but smart ones.
+
+Which was enough. The gnolls' attention wasn't on my party rushing the gate. Even as the first tower guard fell to one of Liz's projectiles, none of them noticed. Only when another fell out of his tower, screaming, they noticed. But at that point Stephen's potion of Bottled Mist was already arcing through the air, over the gate.
+
+I leapt off toward the gathered group of gnolls. The bottle shattered in their midst and covered the whole area in a thick, white, scentless mist.
+
+Ignoring the gnolls, I ran straight for the gate. I still needed to provide my party with a way in. Ten feet from the gate I got that +2 bonus from Jamie back. Having activated that toggle for this operation, I could feel his tension, his anxiety, his anticipation.
+
+I jumped and twisted—I had no idea what emotions Jamie would be getting from me—and rammed my shoulder into the thick metal bars of the gate.
+
+My hope had been for the gates to blow outward in an impressive show of force. Instead they screeched and bent. Far enough for the others to get in, but far less impressive than I hoped. Those gnolls knew how to build sturdily.
+
+In the dense mist I couldn't make out Jamie's approach, but I didn't need to see him. My nose tracked his now familiar scent perfectly.
+
+When he passed through the opening, I gave his hip a bump with my head before we turned toward the confused gnolls. We'd clear the space before the rest of the team would follow.
+
+The gnolls were higher level than the kobolds had been, mostly level 10, but they fell all the same. Unlike their four-legged brethren, they relied a lot more on sight and were severely hampered by the mist.
+
+The shared awareness felt like more than the sum of its parts. The slightest hint of a presence that Jamie sensed made me focus on that foe, causing my senses to give Jamie a perfectly clear understanding of their location and movement.
+
+The first to follow was Stephen, wielding his brand-new magical combo of cleaver and chef's knife. He wouldn't get the shared threat awareness, but his cleaver gave him information about injured foes in his proximity. Thanks to the work of the hyenas, who were now also braving the mist, there wasn't a shortage of those.
+
+When we had cleared the way toward one of the towers, we gave Liz and Ash the signal to follow and guided them there. They'd warn us of approaching threats and pepper anything that poked out of the mist with their ranged abilities.
+
+The mist was weirdly calming. There was a bloody battlefield going on around us. The air reeked of blood and spilled guts. My head was covered in the blood of foes. And yet it felt strangely distant without the visceral visual reminder of the carnage.
+
+["Boss incoming from the west. Large gnoll lady with a hyena-skull staff and a crown of teeth. Definitely caster, we'll hold."] Ash warned.
+
+Jamie and I made our way to meet her. Ash repeated the warning in local chat. The others were way off, around the south gate, but if they could they'd make their way over for a boss.
+
+Just as we cleared the mist and laid eyes on the Gnoll Queen and her royal guard, she slammed her staff into the ground and laughter filled the area, louder, more intense than one person could laugh, humanoid and feral at once. And I felt it worm into my mind, could feel it transform my fighting spirit into obedience and submission. Around us the battle shifted once more as the hyenas' allegiance was magically altered.
+
+The hell I'd just let her take my babies away from me! I'd just gotten them.
+
+I slammed on Power Through and switched into the Might of the Meek version of the kobold.
+
+"Oh, no, you won't!" I shouted as I held out my clawed hand and activated Magical Missile. The bolt of pure arcane energy crashed into her, her HP dropped by a good 20%, and the laughter paused.
+
+["Open fire! Don't let her cast that spell!"] I wrote in party chat.
+
+Jamie and I ran to face the approaching gnoll warriors of the royal guard, all female. Moments later a water balloon hit the Queen squarely in the face.
+
+In our preparations, we had learned that Liz could imbue her attacks with pepper spray. And that water balloons did count as a delivery mechanism. Judging by the intense reaction, the gnolls' resistance to the putrid scents of rotting flesh didn't give them any defenses against the vile power of pure capsaicin to the face.
+
+I nearly regretted that I had gone with the kobold and its spell. The effects of the unicorn's horn would have been worth studying.
+
+But for now, we were facing off against a whole bunch of pissed gnoll warriors who matched our level.
+
+Behind us, Stephen stepped out of the mist, flanked by several of the hyenas who were once more on our side. They seemed to have taken a liking to him and his magical weapons. The chef's knife was supposed to improve an enemy's ingredients when looted. Maybe that translated to them tasting better to the scavengers, too.
+
+"I'm not here to be brave, but I'll do what I can to help."
+
+I called the riot shield from my inventory onto my right arm, mirroring Jamie's shield on his left.
+
+"We'll make the openings, you do what you can."
+
+In the mists, I had barely needed the training with Liz. But here it was invaluable once again. I couldn't outrun those foes, couldn't do my hit and run. I held my ground, blocked what I could, and swiped my claw at any opening I could find.
+
+I was still hopelessly out-skilled, and only the shared damage and healing through Jamie's Oath kept us from getting whittled away. The jab of a spear pierced my ear, and that's when my barriers started giving way. The warrior laughed at my panicked expression. The timer on my fear debuff had 21 hours remaining.
+
+The kobold's panic felt exactly like a human's.
+
+To make matters worse, I felt Jamie's resolve give way, too. He felt my fear, and he needed me to survive this.
+
+And then a golden explosion scattered the royal guard like a holy hand grenade. The other party had successfully made their way here. Jason ran, with impossible speed, to one of the guards before she could get to her feet and slit her throat, before he retreated into shadows again.
+
+And just like that, the fear was washed away. With our combined forces the royal guard fell. The queen managed to unleash some final panicked spells. Spectral biting jaws and flechette-like teeth that shot out from her hand.
+
+But the minute had long passed. I downed a mana potion, transformed into the unicorn, and hit her with the Desecration of the Damned. That totally incapacitated her and gave Ash, the lowest level member of our entire group, time to descend from his tower. To finish her off with a point-blank Mana Expulsion.
+
+I toggled off the emotional bleed-through on the Oath and turned to the hyenas. Those who lived would be free from the Gnoll Queen's rule. I wouldn't dare control them like she had, but they had paid a heavy toll. Out of nearly fifty when this began, only a dozen or so were mostly unharmed.
+
+I waded through remains of the battlefield, touching dead gnolls to loot them. Any healing potion I found, I used on those hyenas who'd been hit the worst, but were still alive. Jamie, the only one besides Constance who even could loot, started doing the same. There was lots of sniffing, and a bit of nibbling and aggression when unknown boundaries were crossed, but they accepted the outsider who was helping their pack.
+
+I didn't know where this would go, if I would lose them once I was busy doing other things and the former matriarch ascended back to the throne, but right now my duty was to make sure that I saved any I could.
+
+In the end, 18 made it. They were Created. They weren't even real. And I could accept that for all the fantastic creatures the Blessing had thrown at us. But them? They felt real, and so did my responsibility for them. I hoped that free of the gnolls and with an alliance to us Blessed, they'd thrive. We were certainly murdering enough foes to provide them with an endless source of carcasses. And if those ran out, I'd have a huge supply of those plain rations.
+
+Anthony approached me, carrying the Queen's staff.
+
+"There's been some loot in the Queen's chambers. We figured you'd at least want to have this though. Considering your title and all."
+
+"Title?" I asked as I took the staff from him.
+
+"Under your name. Hyena Matriarch."
+
+I examined myself. He was right. A title, right under my class. Huh.
+
+"Huh," I said.
+
+Then I examined the staff before I stored it in my inventory, vowing to never use it.
+
+It was this staff that had allowed her to control the minds of the hyenas. Since the apocalypse began, I had gotten my mind messed with multiple times already. I hadn't taken a liking to it, and it was not something I saw myself doing anytime soon.
+
+Eventually I'd get nice loot, too.
+
+"Not what you hoped for?" Anthony asked.
+
+"They are already our allies. No point in forcing my will on them." I knelt down next to a nearby hyena and gave him some scritches.
+
+Anthony looked troubled. "Can we trust that they stay like that?"
+
+"They are feral beasts and have been created to get killed for experience. But I'm pretty sure that if they act up, I can return and beat up their alpha again. And they'll behave again."
+
+"Why do you care about them so much, when you can slaughter the gnolls like nothing?"
+
+I took a moment to formulate the tangle of my thoughts.
+
+"The gnolls have been programmed with malice. They hate us because they are meant to, and that hatred has been written into their very core. The hyenas? They run on instinct. Just like I do, half the time. They don't carry mindless hostility."
+
+Anthony nodded. "I see where you are coming from. Makes sense." He looked around, a bit awkwardly. "We'll head back soon. Everyone has levels and Tasks to process."
+
+"I'll catch up. I've got some things to do."
+
+"Will you be with us today?"
+
+I laughed. "Is that the 'force them to commit' thing you do with people on the brink?"
+
+Anthony paused. "Not only that," he admitted.
+
+"Yes, today. I, too, have a bunch of Tasks to process." I'd gotten an entire level just from all the kills.
+
+"See you later, Eve. And thanks. I asked you to help us this morning and you succeeded."
+
+"Anytime, Anthony. Just because I'm weird, doesn't mean I don't care."
+
+With that he left me alone. I started making signs.
+
+NO LOOT
+
+HYENAS UNDER BLESSED PROTECTION
+
+DO NOT TRESPASS
+
+I DO NOT WANT TO FIGHT YOU
+
+BUT I WILL
+
+I had no intention to fight anyone, unless they really didn't leave me a choice. But I figured this would make them reconsider.
+
+I set the signs up in all directions, even across the river.
+
+Then I removed the hyena shape from my collar and ate the Gnoll Queen's heart. This, too, came with spells. But I had little intention of keeping her shape. I wanted the transformation count and I wanted the first kill bonus. I carved out more Gnoll hearts. They weighed little and I could always get the Gnoll shape back by eating more. I did the same with hyena hearts. At midnight the shape would leave my rotation, but this way I could return to it for a while yet.
+
+I didn't feel like returning to the fire station. No one, besides Jamie, knew how close to disaster we'd been. But I shared my farewells with the hyenas and started on my way back.
+
+Halfway there a notification appeared.
+
+[Eliminate the Demon Warlords (City-wide Task)
+
+Eliminate three out of five Warlords of New York.
+
+Status: 0 / 3
+
+Timer: 29 days 23 hours 59 minutes]
+
+There was a whole sub menu with subtasks. Identifying strongholds (1 / 5) and identities (1 / 5). Identifying weaknesses (0 / 10) and embodied sins (1 / 5).
+
+Information I had gathered or inferred about Mammon had been noted.
+
+"Are those subtasks city-wide or personal? Why doesn't it have rewards?"
+
+"The subtasks are personal, but you are highly encouraged to share. And this isn't the same kind of Task as you've been doing so far. This is the Blessing's best guess. If you don't push back to this degree, if you don't kill three leaders in a month, it projects that New York is a lost cause. But it will reward success and also taking steps toward success. This is what the Blessing is meant for. To give you what you need to fight back and guide you on your way there."
+
+A month to kill something like Mammon. I'd panicked against some gnolls with spears.
+
+But what had Lucy said about me? A human who does nothing but cheat? Time to find the cracks in this system. Those fights would never be fair.

@@ -1,0 +1,121 @@
+---
+id: 2703d2e6-1216-5e16-b417-ae24bde6aede
+page-type-slug: story-chapter-royal-road
+title: "359 (I) Truth is a Weapon [II]"
+slug: 0473-359-i-truth-is-a-weapon-ii-3419754
+partOf: path-of-the-deathless-book-4-completed
+position: 473
+ownLength: 3173
+unit: words
+publishedAt: 2026-05-19
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3419754/359-i-truth-is-a-weapon-ii"
+royalRoadId: "3419754"
+---
+
+And what a shame it is to see so many who are lions on the battlefield turn to lambs for the slaughter in the forum.
+
+You listen to me now, my dear sweet girl—your Tier, in and of itself, does not matter. Your skills, in and of themselves, do not matter. They only matter in relation to the person you are facing and if you are ample of skill while they are lacking; a Legendary warrior remains but an Initiate victim when forced to take stage in the theater of hearts and minds.
+
+What worth is your Tier when you lack the proper means to contend? Who will tighten the grip around their sword when their will was stripped before the fight ever truly began?
+
+—Kathereine the Songbringer to Veronica Chandler
+
+359 (I)
+
+Truth is a Weapon [II]
+
+"They both serve tyrannies," the Harbinger declared. "Where she is a tyrant for her personal pleasure of stories, he is an enforcer for communal tyrants from a Higher-Tier chain of civilizations. And though they have come under this tyranny due to different reasons, both think they are essentially justified."
+
+Uva had repositioned herself back in front of Shiv, her Psychomantic threads reared back as if a nest of snakes about to strike. Produveral acknowledged her protectiveness but paid her no true heed. Her defiance would be symbolic at best, and based on his earlier words, he might even appreciate such conviction. But that was it. She could make a doomsday stand to defend her lover and friends, but her efforts would be but condiments to a tasting of tragedy.
+
+Yet, beyond the despair and under both the Usurper-Narrator and the Farwalker's notice, there was something else that bloomed: Shiv's understanding of them. He studied both of their personalities, how they viewed the world, and how they reacted to different things. He already knew how to lead Evanescia on to some extent. Her desperation to break from her eternal isolation and actually be a character herself had made her vulnerable. She knew about that vulnerability, just as she knew there would never come another like Shiv and his cohort. This was a unique opportunity for her to face off against a thematically unique Pathbearer, a perfect antagonist for a realm made from stories.
+
+A true tension bomb in the building.
+
+Produveral was the greater enigma for a moment, appearing out of nowhere to extract Shiv and his beleaguered companions—but he betrayed himself all the same, with every word he spoke, with his naked condescension toward Evanescia, and now with the genuine awkwardness and shame that lashed at his spirit. He seemed an interesting individual, though dry in some regard; immense power aside, he hid his aged character behind casual speech and a posture of general disregard. But he was also truthful, sometimes to his own detriment.
+
+He hadn't lied about his social skills being dogshit. Otherwise, he would have known that giving Shiv so much information about his personality would leave him vulnerable. That being said, it wasn't as easy to manipulate him as it was Evanescia. Any overt psychological attack or provocation would be detected in an instant. Shiv likely wouldn't survive reprisal. The best he could do would be to surprise the Farwalker using his Garden of Wounds and Broken Things to survive whatever first blow came, and then briefly stun him by escaping from reality with Continuity Error.
+
+So far, no one possessed any skill capable of contending with Continuity Error. It was one of Shiv's absolute advantages, and he prayed it would remain that way for a good long while. But the Unique skill also carried severe disadvantages: It burned through his Vitae, for one, and he needed to dodge a mana-intensive attack to keep himself fueled when he went Backstage.
+
+Another matter: he couldn't bring Uva, Adam, or the Culturist over with him. He certainly couldn't take abandoning them. With his fragile state, let alone the Harbinger's near-death condition, he might just shatter completely and condemn himself to an emotional death followed by a very literal one.
+
+No, he saw only one path to an easy escape, and that wasn't committing to either of his would-be captors’ demands. Instead, he needed to provoke Produveral into breaching Evanescia's confinement, and then he needed them focused on each other long enough for him to swap positions, carrying his Severed Shadow, along with his companions, over to the Tutorial or wherever they could get to.
+
+"But this will require a tremendous act of persuasion on our part. True persuasion. We cannot exploit an obvious psychological wound with the Farwalker. He is not that kind of individual. He is not without weakness, but his flaws are things he is aware of and that he tries to contend with. He is, in essence…" The Harbinger trailed off, not from pain but as it tried to fully conceptualize the nature of their new adversary in a proper summation. "Despite the immense power he wields, he is self-aware enough to know that he is imperfect and that he might be doing something improper when it comes to our capture. Such makes him the Pathbearer who is aware of and potentially seeks to further his own virtue when he can."
+
+And that makes him the bigger problem right now. Shiv sighed internally. You know, I really didn't appreciate how traumatized Longinus and Sullain were. Made them pretty easy to manipulate.
+
+"One's refusal to master their own inadequacies is as much an admission and surrender to corruption as an indulgence to drugs, wealth, or power." The Harbinger hesitated and groaned as a new crack formed along his torso—causing a bloody gash to open inside Shiv’s armor. He bit back a hiss of pain. He didn't ask his skill why that happened. They were both thinking of the same thing. The armor they wore, the original part of it that Plum Blossom’s gift had fused with, had been the first gifted to Shiv by the orcs, a bribe for him to look the other way as they butchered the Inquisition army.
+
+There were few thoughts more centering than remembering your own corruptibility.
+
+But that thought led to something else. Shiv recalled the lesson he got from Valor at a maneuver afterwards. The disappointment had taught him, had encouraged him to change his ways and to keep a closer eye on himself. It wasn't that long ago, but he looked upon that version of himself like an elderly man would, seeing a foolish child who'd grown much. Now, with hindsight and all, the weakness of his behavior was evident. He had lost power in that exchange. He had taught the orcs that he could be bought, that they could influence and change him. Whatever the armor offered, it wasn't nearly worth that.
+
+But the after-shame that lingered with that realization was mirrored by a similar feeling coloring Produveral’s sympathetic core.
+
+Suddenly, an idea struck him like a lightning bolt, coiling through the Harbinger before it settled in Shiv's mind.
+
+He knew where to strike now. The Myth before him was someone who sought virtue, who knew enough about his behavior and what was right to be ashamed when Shiv pointed out how he willingly kept himself blind out of sheer disrespect for Evanescia.
+
+"And he clearly feels bad about what he must do with us. He's trying to justify our capture and his installation of a kill-spell or mutilation of me as a justifiable option. It is clear that whatever profile he got of us is outdated or inaccurate. He feels some measure of sympathy towards us. We should continue fanning and increasing that sympathy, and we should strike him along the axis of his virtue. Instead of lying or trying to assault his fragile mind or unbalanced emotions, we should burden him with a growing realization of his moral or virtuous inadequacy."
+
+And so Shiv did. “Alright, hold on. I'm gonna need you to explain this to me very, very carefully. You want me now to go with you—if you can get me out of the Fairwoods at all—”
+
+“I can,” Produveral declared.
+
+“He cannot,” Evanescia snarled, the pitch-black eyes of the gangly creature she inhabited narrowing.
+
+Shiv held up a shaking hand and silenced the two. It was a strange feeling, having so much influence over two beings of such power, especially in his wretched state. But that was just a thing. To wield the truth, to wield something that someone wanted, meant them surrendering to you. His power wasn't so great, but his worth had never been higher, with him intrinsically tied to their objectives and emotions.
+
+Grasping that caused part of his Harbinger to snap into place. It wasn't being fixed, but it was gaining levels prodigiously. An entire new stretch of gold emerged where a section of its body was on the verge of collapse, but the agony it brought forth was nearly enough to make Shiv black out.
+
+Harbinger of Tripartite Ruin 249 > 2[error]
+
+Shit… What the hells does that even mean?
+
+“If you can get me out of here at all,” Shiv continued, “your offer is to put me in a separate cage where Animancers I don't know and don't trust will reach into my new, hard-earned, pre-Legendary skill and castrate it in some way so I don't turn into a danger for, who, you? All the other Myths? Your worlds? I really don't get it, not one bit, so you're gonna have to explain, because right now, it sounds like I'm trading a new cage for one I'm already in, and one I might have a way out of since me and ‘Nescia already have a story thing planned.”
+
+“And I will honor the tension between us. Whatever structure our character arcs take, whatever developments come, I will honor it. You know I will. Just like I have honored the quest rewards I promised and then some.”
+
+The triumphant expression she was going for didn't translate well to the thing she was wearing, with hair-thin lips pulling back to the edges of its face to reveal multi-rowed, needle-shaped teeth, and a shiver almost ran down Shiv's spine. Almost. The thing was ugly and predatory, but he'd faced a Tarrasque. No kind of animalistic fear could compare to that a world-ending monster the size of a mountain invoked.
+
+Besides, what was it, uh, Evanescia, going to do, eat him? Yeah, real original. That was basically his first experience down in the Abyss. And at least with the cave biter, it wasn't that bad once you bled out.
+
+“It's less of a castration and more of an adjustment,” Produveral defended himself. “You're reasonable and a hell of a lot smarter than your profile indicated, so I'm going to be a little straight with you. I can't tell you everything about the procedures because you still need to be further scanned and interviewed by Chorus, but Harbinger of Tripartite Ruin is a bad skill for a reason. There's no broadly available and effective counter against it, for one. You can break just about anyone who's had a bad day or suffered a bad hand in life. Unless they're physically, emotionally, and mentally harmonious, you can turn them to glass and crack them, and you can do it across time. The worst part is, this isn't even the Delved version of the skill. It can get worse. You can get so much harder to contain.”
+
+“And that’s necessary? Containing me?” Shiv’s question was genuine.
+
+“It sounds bad, but yeah, it is necessary. I want you to think about what you did to that god there.” Produveral pointed at the eldritch egg that the Dreamtaker now resided in. “This shouldn't be possible. Even Unique, three Legends shouldn't be able to bring down a god, no matter if it's an insane one. Except that wasn't the situation at all. Except only one of you is a Legend, and a low one at that, who is also using his only actual Legendary Skill at sub-one percent efficiency.”
+
+That statement hit Shiv like a blow across the jaw. “Huh? What? I'm using Leviathan that badly?”
+
+Produveral let out a snicker. “Oh. Like you wouldn’t believe. Frankly, I'm probably still being too nice. Your usage is downright abysmal. The Void Leviathans I've fought had been accumulating overflow tides for not seconds but centuries, kid. I want you to think about that now. Your strength is being spent minute by minute, second by second. You're not constantly circling your overflow tides and keeping them in existence, so they fade out. What do you got? Maybe a few minutes of strength amassed on a good day? Some Leviathans have been building up their tides for literal eons, longer than most empires have existed. That's what makes it a Legendary Skill. The creatures it originates from view their strength as a constantly building investment; economy more than muscle.”
+
+That insight nearly broke the Harbinger in half. “Oh, fuck… Godsdammit… I really feel dumb now. Of course I should have been constantly trying to cycle and gather tides. In retrospect, it's kind of obvious…”
+
+“Yeah, it's the way it goes when you need to reinvent the wheel. From what we can tell, you're not formally trained at all. And despite that, you might have the most active combat hours for a technical amateur I know.” He folded his arms and shrugged. “But back to the point, what saved you wasn't Leviathan. Even if you managed to amass a century's worth of strength, you wouldn't have been able to beat down a god so easily. You could splatter their body in all kinds of ways, crush them, overpower them, rip them in half. It wouldn't finish them off. Not when all that divine power keeps flowing through their Avatar, and they can continue using their skills.”
+
+“Ah, but you speak only in theory,” Evanescia broke into the conversation. She gestured with pride at Uva and Shiv, and then her gesture dropped before she got to Adam. It was clear she resented him for some reason. Maybe it was the fact that he still remained beyond her grasp, or perhaps how he managed to ambush her using his arrows when he went to seek Uva. “These three are unique. That uniqueness gave them an edge in the battle against the Wanderer. He was brought down not only by his own mounting madness, but also their determination and strategies.”
+
+Produveral nodded. “I'm not actually saying any of them are unskilled. They'd probably outperform most people their age by a magnitude and a half, even the Deathless with no training. What I am trying to point out, however, is that even with Unique Skills, it shouldn't have been able to bring down a god. Even if Longinus was an insane fool, he should have been an insane fool capable of ripping through three kids in an instant. But the Deathless here can strike beyond a god’s Avatar and at the Divinity themselves. You were destroying Longinus' sense of self, breaking his emotional control, and effectively leaving him more like a rabid animal than an actual divinity.”
+
+He snapped his fingers, “And that's the thing about the Harbinger: there's no counter for it. Once you learn how to use it better, you can do all kinds of nasty things. Wait for someone to have a bad day, whisper something to them, make them finish themselves off. Yeah, a Harbinger can do that real easy. Find an enemy, kill their children, mock them for not being able to protect their young from you, watch them turn to glass. Yeah, real bastard move, but I've seen it done before. And it can do a hell of a lot more than that. You're barely scratching the surface of that skill. It is a dangerous fucking skill, and I mean that with full emphasis. You haven't even figured out how to skim-strike yet, or how to whisper your thoughts across time, or how to punch misery or specific emotions into a person. You're not physically beating them to death anymore; you're just physically reshaping their personality, punch after punch, blow after blow.”
+
+“You know, everything you're saying just makes me like this skill more, right?” Shiv raised an eyebrow. “Sounds like a hells of a lot of power I'm supposed to just give up because your Chorus said so.”
+
+“Just some safeguards and restraints. A good word from me, and maybe we can just keep it to an alarm every time you use it. An internal surveillance system so that we know you're not actually out there toppling worlds or pissing off a group of people so that you can trigger a planetary genocide without doing the deed yourself.” Produveral grew impassioned at this point. He broke from his folded-arm stance and was actively reaching out to Shiv, trying to implore him. “I won't say it's fair. None of this is fair. I have an adjusted skill too. Practically every Myth has at least one Animantic surveillance system inside them. It's the only way this project can still work.”
+
+“Project? What project?”
+
+“Civilization. Coexistence. Some barest semblance of order to keep everything working.”
+
+Evanescia sneered at his words. “Your civilization works because powerful Pathbearers like you and dominant gods establish systems of order through force, violence, or faith. Those lesser than you abide by the rules or find themselves removed from the System's grand narrative.”
+
+“Yeah, that's how it looks from far away, huh?” The Farwalker sounded like he was talking through clenched teeth. “You know, another problem I have with your stories, Narrator, is that you keep telling the same ones. Loop after loop, the same boring little tales, constrained within your fairy Courts.
+
+His lips twisted into something of a smile.
+
+“How about I tell you a story, for a change? It doesn't have a theme. The ending's a bit abrupt, but it's still a story. Once upon a time, there was an empire that spanned a small planet. Living there wasn't great. But it wasn't the worst either. And it was filled with people, people with lives and aspirations and Paths and dreams of their own. One day, in another corner of the galaxy entirely, an asshole with an overpowered Awareness Skill nobody even knows exists sees their world, he sees the people living their lives, and he decides that he doesn't like the way they dress or speak or live. And because nothing is stopping him and he wants to, he flings a piece of tungsten that hits their little world at three times the speed of light.”
+
+And for a brief instant, a shadowy representation materialized behind the Farwalker. Something zipped through the foliage above, so thin and fine it might as well have been a hair. It struck the dark, vague representation of the world, and the shadow burst, revealing a chasm of flame as the blazing core of the planet spilled out like yolk from a cracked egg.

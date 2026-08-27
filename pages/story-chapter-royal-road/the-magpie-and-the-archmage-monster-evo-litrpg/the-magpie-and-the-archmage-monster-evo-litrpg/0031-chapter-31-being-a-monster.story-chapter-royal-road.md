@@ -1,0 +1,189 @@
+---
+id: 47473779-536d-53a5-a0fc-fa139474056e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31 – Being a Monster"
+slug: 0031-chapter-31-being-a-monster
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 31
+ownLength: 2064
+unit: words
+publishedAt: 2025-10-06
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2654758/chapter-31-being-a-monster"
+royalRoadId: "2654758"
+---
+
+Liora learned that satyrs were surprisingly nimble and resilient creatures. Despite being hit by a fully powered Air Dive, the satyr survived. It looked like Liora had just lightly Pecked it, rather than launched a fully powered murder strike. The satyr looked pissed, bleating at her while scratching the ground with its hoof.
+
+Why is it fine? It's like I haven't done anything at all.
+
+Satyrs are resilient against physical attacks, oddly enough. If you want to deal with it, use magic. Just not Poison Shot. They're resistant to that, too.
+
+Liora released Air Slashes at the satyr, but it jumped out of the way. The little goat man jumped rather high, trying to hit Liora with its horns. But its jumps couldn't compare to the full aerial mobility that she possessed. After lots of back and forth, Liora finally managed to hit the satyr's leg with her Air Slash. It was very effective, and one more Air Slash was all it took to defeat it.
+
+[You've defeated <Satyr – Level 14>. Experience gained.]
+
+[You've reached Level 19.]
+
+Yes, I'm so close now!
+
+One more level and you'll evolve.
+
+Liora retrieved the two glimmerstones from the satyr's horns and began to think about her evolution. Last time, she hadn't changed much, but what would happen during the next evolution? Logic would dictate that she would grow stronger and larger. Would she stop looking like a magpie?
+
+Hey, if I evolve again, will I change a lot?
+
+Well, you won't suddenly become a tiger if that's what you're wondering.
+
+No, I mean. I won't look much like a magpie. I'll be a bigger bird, no?
+
+Yes, you'll likely look more like a monstrous bird than a magpie.
+
+Liora sat down in a tree and shuddered.
+
+I don't want to appear monstrous. Maybe the evolution thing isn't for me after all.
+
+Why are you so attached to your magpie self? If you were a human before, then surely a slight change in size isn't such a big deal.
+
+Hey, I like being a magpie. I don't want to be a monster.
+
+Just as she thought that, another satyr ran out of the forest, looking frantically at the dead one in the mud. It let out a series of creepy bleating noises that could be some weird satyr language. But eventually it waved dismissively and hurried back from where it came.
+
+Hey, follow him. You might find a whole village of them and get to Level 20 tonight.
+
+I don't want to commit satyr genocide. Also as I said, I'm not sure if I even want to evolve further.
+
+Oh, not this again. Can you at least look at the evolution window before you decide? Also, do you know what satyrs do to human women?
+
+Liora shuddered. His question already told her enough. There would be no mercy against these goat men. She silently followed the retreating satyr who was muttering something in his odd language.
+
+Eventually, they reached what could be described as a little village of sorts. There were huts made out of mud with a small window and door in the front. It would have been cute if it weren't for disproportionately large cages sitting by each hut. Some of them were not empty.
+
+Snivelling women sat in a few, shaking and looking fearfully at the bunch of satyrs that were dancing in the middle of their little village while they drank from some makeshift wooden cups. Liora felt anger rise within her as she observed the sight.
+
+Did they…
+
+Not yet. The women are still dressed and only have minimal bruises. Although what these guys do is still not as bad as what goblins do.
+
+Liora didn't even dare to ask what exactly these monsters did. One thing was clear—it was the kind of horror no woman should ever experience.
+
+I'm going to free them.
+
+She decided to start with a powerful strike in hopes of scaring some of the satyrs and disorienting the others. Withdrawing her holy wand, Liora began to chant as quietly as she could, "Cleansing light, obey my will. Purge this blight and make it still."
+
+[You've successfully mimicked the skill <Holy Light>.]
+
+Satyrs closest to her turned their heads at her chant, but they couldn't react in time. A powerful beam of light struck one satyr and forced others to clutch at their eyes as the light blinded them.
+
+[You've defeated <Satyr – Level 15>. Experience gained.]
+
+Liora put the wand back in the Inventory and flew up before any of the monsters could notice her. Using the night sky as her cover, she got high and Air Dove at another satyr. It was still disoriented from the light and didn't even know that Liora had marked it as her target.
+
+It didn't kill the satyr, but with her strike, she sent the confused monsters flying in every direction, making them crash into their brethren. She let out a hearty Buh-Rup in hopes of further immobilizing the satyrs.
+
+[You've failed at mimicking the skill <Paralysis Croak>.]
+
+[Your skill <Mimicry> has reached [Expert] Level.]
+
+[Mimicry – At [Expert] level, you can perfectly mimic sounds that you have heard before and memorize them. There's a 70% chance of mimicking sound-based skills and incantations. An appropriate amount of mana will be consumed at each attempt.]
+
+When the notification appeared, she only saw one thing—70%. With the increased success rate, she tried to croak again.
+
+[You've successfully mimicked the skill <Paralysis Croak>.]
+
+The satyrs around her seized up and convulsed, unable to move properly. She used Air Slash on every satyr she could reach. They couldn't handle magical attacks at all, dying left and right like flies. Those satyrs who were further away ran away, bleating for their lives. She didn't bother chasing after them.
+
+[You've defeated <Satyr – Level 14>. Experience gained.]
+
+[You've reached Level 20.]
+
+Looking around the satyr village, it appeared like a murder scene. Dead satyrs lay in blood while Liora stood victorious in the center. It left a foul taste in her beak, but there was no way she could let these monsters keep doing what they were doing to those women.
+
+She hopped around from one dead satyr to the next to replenish her mana using Mana Conversion and collect glimmerstones—32 in total. But this wasn't the real prize of this battle. She turned and looked at the woman in the cages. They were staring at the scene in both horror and awe.
+
+Do you think they'll be able to get back home safely?
+
+I'm not sure. There are a lot of monsters in this area, not to mention that it's nighttime. It'd be better if you flew with them. Unseen, of course. I think they are rather scared of you.
+
+Liora agreed. She launched weak Air Slashes at the cages, breaking their wooden doors open. The women trembled, but Liora flew away and hid in the shadow of a nearby tree.
+
+It took a moment before they mustered the courage to move out of the cages. But once they saw that there was nobody around, one of the women, the oldest one by the looks of it, grabbed one of the torches that had survived the onslaught and gathered other women into a group.
+
+They huddled together as they hurried through the dark forest, fearfully looking from side to side. Liora flew behind them, staying out of their sight. It had been the right choice to fly with them because there were more satyrs and some kind of small fox monsters that were creeping up on them.
+
+Liora disposed of them before the women even noticed. This continued for a few hours, and she began to tire as did the women, their pace slowing down considerably. But eventually they stumbled upon a road where a group of adventurers found them.
+
+It should be safe for them now.
+
+Yes.
+
+You don't seem very satisfied. You just saved a whole bunch of women from the most horrible fate one could imagine.
+
+I did, but they never should have been subjected to such horrors in the first place.
+
+That's just how the world is. Don't tell me that your old world was some utopia where this kind of thing never happened?
+
+Liora would have liked to say that it never happened. But even with her fragmented memories, she knew that wasn't true. There might not have been satyrs in her old world, but it was still filled with monsters. Except these were even worse because they wore human skin.
+
+With a heavy heart, Liora flew back to Satyr Lake. She didn't really want to see those nasty creatures anymore, but according to Renir, they were off-course and needed to set their path straight. As soon as the lake was in sight, she found an abandoned hollow in an old willow tree and settled herself in there.
+
+I'm so tired… I'm going to sleep.
+
+Wait, wait, wait… Don't you think you should trigger your evolution first? It might take a while.
+
+I don't feel like it right now.
+
+She fluffed up her feathers and settled her beak underneath her wing to sleep.
+
+Hey, no! Don't you dare to sleep! We are doing evolution first.
+
+Sleep first.
+
+No! Evolution!
+
+Liora tried to ignore the loud gem in her head, but he just kept pestering her, not letting her sleep in the slightest. Annoyed, she threw him out of her Inventory and glared at him.
+
+"Knock it off!" She screeched at him in his own voice. It was uncanny how much she sounded like Renir.
+
+Previously, she still had some of the magpie raspiness, but with her Mimicry at [Expert] level, it was gone, and it was as if she had stolen Renir's voice.
+
+"Okay, first of all, that is creepy. You need to mimic somebody else's voice. I don't really like arguing with myself. Second, you NEED to evolve," Renir argued.
+
+"But I don't want to be a monster!" She screeched, her voice cracking. It was a good thing that she was a bird, otherwise, she might have given away how distraught she actually was. "I don't want to be like those…"
+
+"...satyrs?" Renir finished.
+
+"Yes. I'm not a monster. I don't want to be a monster."
+
+"Okay, I understand. I guess I never imagined that this change might be difficult for you. First a human, then a bird, and now—"
+
+"I'm not a monster!" She insisted.
+
+"And I'm not a rock. Look, even if you become something else, it doesn't mean that you won't be you. You'll still be Liora, isn't that right?"
+
+"But what if I change on the inside too? I definitely changed when I became a magpie."
+
+"Well, then I'll beat some sense into you," he said firmly.
+
+She blinked at him.
+
+"I won't let you stray from the path. We're both humans, you and I, but only we know that. I don't know what I would do if I were alone. Forget those mages using me for whatever world-ending plot they have planned. If I were alone, sitting somewhere as nothing more than a shiny rock, I'd go insane."
+
+"We're both humans…" Liora mimicked.
+
+"Yes. You might be a bird and I might be a rock but one day we'll be humans again!" Renir said triumphantly.
+
+"You'll be a human, but I'll always be a monster…" Liora said dejectedly.
+
+"Wow, no, no. You can evolve beyond that."
+
+"What do you mean?"
+
+"Right, it feels normal to me, but you came from a different world, so you don't know, do you? There are beastmen, birdmen, and other humanoid races. You could definitely evolve into a more human-like form eventually," he said, then muttered. "It might take a long time, but I imagine breaking these seals on me won't be any faster."
+
+"I could become human-like again…" Liora gaped. She never even dared to dream of such a possibility.
+
+Frankly, she didn't know how to feel about it. She had been satisfied as a magpie—there was freedom in that simple life. But things were changing. She didn't know what she wanted to be. A human, a bird, or something else entirely. All she knew was that she didn't want to be a monster.
+
+"I'll evolve," Liora nodded.
+
+"That's my magpie! Let's check those evolution options. I'm sure we can find something that suits you," Renir said confidently.

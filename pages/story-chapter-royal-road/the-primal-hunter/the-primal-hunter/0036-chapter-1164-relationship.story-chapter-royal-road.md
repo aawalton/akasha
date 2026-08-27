@@ -1,0 +1,203 @@
+---
+id: b66d7e31-9ddf-5185-b668-1d9e3dbe0602
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1164 - Relationship"
+slug: 0036-chapter-1164-relationship
+partOf: the-primal-hunter
+position: 36
+ownLength: 3052
+unit: words
+ownProgress: 3052
+publishedAt: 2025-09-23
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2622837/chapter-1164-relationship"
+royalRoadId: "2622837"
+markedReadAt: "2026-06-29T19:30:24.134Z"
+---
+
+“Should we call someone to—”
+
+“Absolutely not,” the wood elf goddess shut down Jake’s suggestion before he even had time to make it.
+
+“We will need replacements, though,” Jake muttered.
+
+“I’ll handle it, no way we’re letting anyone see this,” Artemis sighed, making Jake chuckle as he ran his fingers through her hair.
+
+The two of them were lying on the remains of what had once been a large couch, the rest of the living room also not in the best state. Artemis had been a lot more passionate than Jake had expected, not that he was complaining in any way.
+
+Now she had luckily calmed down, which was also good, as Jake was already sore enough. Besides, a bit of cuddling had never done anyone harm, and it was a good excuse for Jake to ask some more questions.
+
+“You think the King or Jasper noticed anything?”
+
+“That question is almost insulting. What do you take me for?” Artemis said, sitting up and looking down at him over her shoulder. “I reckon all the Unique Lifeform sees is you sitting in meditation down in your alchemy lab. Suggestive illusions can be quite varied, so I can’t tell you exactly what he sees.”
+
+“A little scary to imagine one’s sense of perception being messed with like that,” Jake muttered.
+
+“Oh, stop it, not like it would even work on you,” Artemis joked.
+
+“True, but still,” Jake said as he also sat up and wrapped an arm around Artemis, who willingly leaned into him. “If it did, I would be afraid all of this could have just been an illusion of your making.”
+
+“Suggestive illusions are incredibly effective precisely because they’re realistic and born from the mind of the afflicted,” Artemis said with a smile. “In other words, unrealistic and absurd situations like this would never appear in them.”
+
+“Hey, you don’t know the messed-up things my brain can come up with,” Jake chuckled, looking down at Artemis, who was surprisingly comfortable in her birthday suit. Again, not that he was complaining.
+
+“Oh, I think I have a fairly good idea,” Artemis smiled flirtatiously up at him before turning a bit more serious. “We should clean up, though.”
+
+Waving her hand, Jake was forcefully lifted off the ground as he floated up in the middle of the room, with Artemis floating up alongside him. At the same time, everything in the room began to move as the furniture reassembled itself, as if time had been rewound... probably because it had.
+
+Less than three seconds later, the entire room was back in the same condition it had been only a day prior, with not a single sign of anything having happened. With everything fixed, the two floated down once more and landed on the couch.
+
+Jake was a bit disappointed when Artemis instantly clothed herself, but he still followed suit and did the same as he commented on what had just happened. “Quite the use of time magic.”
+
+“Just a little trick,” Artemis chuckled as she looked at him. “All gods are proficient in both space and time magic, at least enough to do things like this.”
+
+“Still, rewinding time like that is neat,” Jake shrugged, no matter how basic it was considered.
+
+“I’m pretty sure you could learn to do it in... maybe B-grade? A-grade at the latest. As long as the objects you’re rewinding time for don’t contain too much energy, it’s quite simple. Granted, if the same item is rewound too often, it will be negatively affected as it becomes disconnected from Realtime, but that’s rarely a concern,” Artemis gladly explained.
+
+“So you’re saying we should do it somewhere that isn’t the living room next time?” Jake joked flirtatiously.
+
+“As I said, doing it to the same objects a few times won’t affect them negatively,” Artemis shot right back. “So, have no concerns regarding that.”
+
+“Damn, you’re gonna make me feel all lazy for having you do the cleanup every time,” Jake joked.
+
+“Just view it as one of the boons of having a Godqueen girlfriend,” Artemis shrugged.
+
+That word instantly stopped Jake in his thoughts. He looked at Artemis inquisitively, who raised an eyebrow in return.
+
+“I think I’ve been pretty clear on my intent from the very beginning, even if things have admittedly moved forward faster than I originally intended—something I take full responsibility for,” Artemis said in a serious tone. “I’m not interested in anything casual, but demand some level of commitment. I was never the casual type. The only way this will be allowed to be considered a mere fling is from my perspective, and only in a scenario where you fail to achieve godhood.”
+
+Jake was initially taken aback by Artemis’s level of seriousness, but from her words, it was clear she had considered matters a lot more than he had. He was horrible at these kinds of things and wasn’t sure what to say... also, when it came to commitment...
+
+“You’re not running from this conversation,” Artemis said, having seemingly read his thoughts.
+
+“I wasn’t going to,” Jake sighed as he tried to gather his thoughts. “I’m just not sure what to say...”
+
+“Do you disagree with anything?” Artemis raised an eyebrow. “To be clear, if I’ve misread things and you’re not interested, I’m not so pathetic as to—”
+
+“No, no, no, not like that,” Jake quickly clarified. “It’s just... relationships in the past haven’t been the best experience from my point of view.”
+
+Artemis looked like she was about to say something as Jake quickly continued, “But I’m definitely on board. I know it’s my problem to deal with.”
+
+“Hmm,” Artemis nodded as she looked at him. “Betrayed by a partner in the past, so you’re now only interested in casual relationships. That way, you can’t find yourself in a situation where you’re genuinely hurt again because feelings never get too deep?”
+
+Jake stared at Artemis for a second or two as she chuckled.
+
+“Come on, that’s not unique in the slightest,” Artemis said, clearly amused. “Though I would be interested in what happened if you’re willing to share.”
+
+“You’re just gonna make fun of me if I tell you,” Jake sighed.
+
+“Likely, but that doesn’t mean you shouldn’t. I may have a reputation for being prudent, but don’t for a second think you have more relationship experience than I do, especially during my mortal days.”
+
+“Alright, alright,” Jake surrendered as he briefly gave an overview of his unfortunate youth. It was something he didn’t really think about anymore, but when reliving the experience, it still sucked to remember.
+
+Artemis patiently listened and nodded along. In the end, the more Jake talked, the more he realized how utterly meaningless those days had been in the grand scheme of things. It felt like memories from an entirely different life, and he could barely relate to the person he’d been back then.
+
+A sentiment Artemis seemed to somewhat share. “I have a hard time imagining you taking such a passive approach to the matter, but I also believe that the core of the problem wasn’t that she was more interested in someone else. It’s the betrayal behind her actions and the deceit that went with it. Something piques my curiosity, though. Why hide it? It seemed inevitable that something like that would be found out, so it seems the smartest thing to do is just break things off beforehand.”
+
+“Cowardice, I reckon,” Jake shrugged.
+
+“Wouldn’t it be riskier to keep it hidden?” Artemis wondered aloud. “That amount of bad karma created will be far more substantial that way, not to mention the reaction when you find out. I’ve seen people killed for less.”
+
+“Well, murder wasn’t exactly legal in my world before the system,” Jake chuckled.
+
+“Not even in cases like that?” Artemis seemed genuinely surprised. “What if you formally proposed a duel? If you all didn’t have levels back then, your level of power should have been relatively equal.”
+
+At this point, Jake couldn’t help but laugh at the notion as he imagined Artemis standing in a courtroom arguing why her decision to stab a guy in the neck was totally justified. Then again, perhaps there was a time and place on Earth where her logic would have been acceptable.
+
+“Your world was odd,” Artemis decided to just laugh along. “More similar to the Holy Church than any other faction, from the sounds of it.”
+
+“Perhaps,” Jake said, not knowing enough about all the factions in the multiverse to argue either point.
+
+“Anyway, what did you end up doing?” Artemis returned to the topic at hand. “After the initiation, that is. Did you track down that woman and finally get your revenge? How about the man?”
+
+“No,” Jake said, thinking about the matter a bit. “I never saw the point. It had been many years since I’d last seen them, even when the system arrived. They’re not characters in my life anymore and haven’t been for a long time. Shit, I don’t even know if they’re still alive or not, and quite frankly, I didn’t care either.”
+
+“Likely the healthiest response,” Artemis said. “Well, if we’re talking exes, I know all of mine are dead for sure. None managed to reach godhood.”
+
+Jake nodded along. “I figured. If they had, I wouldn’t be sitting here right now.”
+
+“Not necessarily,” Artemis shrugged. “It’s far from unusual for gods to get together, but equally as likely for them to split up again. Eternity is a long time, you know. Many gods do like to have one divine partner, though, and then take mortal lovers whenever they fancy or if they intend to have a child.”
+
+Jake remembered that two gods producing a child was considered borderline impossible, which resulted in all the children of gods Jake had ever heard of coming from unions between a god and a mortal. With that in mind, it seemed more out of necessity that sometimes gods took mortal partners. What she said did make Jake curious about something, though.
+
+“How about you? Ever had any children?” Jake asked. Considering how old Artemis was, it would almost be surprising if she hadn’t.
+
+“No,” Artemis shook her head, surprising Jake a little.
+
+“What?” Artemis commented, shaking her head. “I never felt like the time was right, and one has to be careful when selecting a partner, especially when it comes to the firstborn.”
+
+“I see,” Jake said.
+
+“On that note, there’s something we should also make clear,” Artemis said in a strict tone. “I naturally know of the other partners in your life, namely the succubus and the Runemaiden. From what I gathered, there could be mo—”
+
+“There’s not,” Jake quickly clarified. “And I made it clear with both that—”
+
+“It’s fine,” Artemis waved him off, remaining stern. “I’m not against you having other women in your life. Honestly, I would have been disappointed if you didn’t. In the end, they’re both just mortals, and even in the event of them making it to godhood, I see nothing negative coming from you, having a positive relationship with a god from another large faction. Especially not the Runemaiden, as having someone like that as an ally can prove quite valuable.”
+
+Jake just listened, as he genuinely had no idea what Artemis was about to say next. All he knew was that her logic regarding relationships definitely wasn’t what he was used to.
+
+“However, I do have some basic demands,” Artemis continued, keeping a serious look on Jake. “I’m not going to accept being considered second. When it comes to anything official, I’m your partner.”
+
+“Alright,” Jake readily agreed.
+
+“Also, don’t go around taking other lovers without at least consulting with me first,” Artemis said, Jake finally feeling like they had some common ground when it came to relationship logic... or not...
+
+“We need to at least make sure they aren’t part of any factions considered antagonistic towards either the Pantheon of Life or the Order of the Malefic Viper. It could cause quite the political misunderstanding if you’re found sleeping with someone I would view as an enemy. Of course, I will extend the same courtesy to you if I ever meet someone I consider worthy of taking in as a lover.”
+
+Jake would be lying if he said he didn’t feel quite jealous if Artemis went to him and said some other guy had caught her interest... but at the same time, he was already quite a hypocrite himself and had a lot to think about. Ultimately, he just nodded in approval, prompting Artemis to continue.
+
+“Finally, no children,” Artemis said, even more stern than before, though her next sentence was definitely a turn-on. “I demand your firstborn.”
+
+Logically, Jake knew Artemis was saying it for pragmatic reasons due to how Records worked and whatnot, but it still made him smile goofily. The wood elf goddess noticed his facial expression and chuckled.
+
+“Not yet. You’re still early on your Path towards godhood, and the later, the better,” Artemis said, looking at him slyly. “Of course, that doesn’t mean we can’t get plenty of practice in the meantime.”
+
+Jake was about to make a move as Artemis held a finger up. “Not now, though. I’ll have to report this to the Mother Tree and Nature’s Attendant, as it has implications for the relationship between our two factions. I don’t believe they plan on making any public announcement, especially not without first discussing the matter with you and the Malefic One, but I should at least inform them... even if I don’t think they’ll be surprised.”
+
+“The Viper is definitely also going to tease me,” Jake muttered, already imagining Villy’s cackling.
+
+“You know, the mere fact that I even enter the mind of the Malefic One is an honor, so I’m definitely not complaining,” Artemis said with a smile.
+
+Her words were casual, but they did bring up something Jake thought was worth mentioning. “This is a relationship as equals, right?”
+
+“Would you accept it any other way?” Artemis joked.
+
+“No... but if we are equals, then you should also accept being more casual around the Viper,” Jake said. “If the two of us are equals, then so are the two of you.”
+
+“That... is something I’m genuinely not comfortable even considering,” Artemis sighed. “Perhaps one day, but not now. Especially not when I feel that I owe the Primordial so much.”
+
+“I just wanted to mention it,” Jake said, knowing when not to push the subject.
+
+“I understand,” Artemis said with a smile as she looked toward the ceiling for a moment. “The notion of you considering the Malefic Viper your equal was something I found ridiculous. That the Malefic One should even share this sentiment was even more of an impossibility. Why would a being like him view a mere mortal as his equal? However... now I kind of get it. I reckon others will also view our relationship as equally absurd, though most will definitely assume it isn’t actually as we represent it.”
+
+“I don’t give a damn what others think of our relationship, and that goes for both the one with the Viper and you,” Jake shrugged. “As long as the people involved know the truth, the opinions of others are irrelevant.”
+
+Artemis chuckled and shook her head. “That simplistic view of things is truly part of your charm.”
+
+“Overcomplicating things never leads to anything good,” Jake insisted.
+
+“Perhaps not,” Artemis sighed. “Alas, I would love to stick around, but I should really be going. Ah, but don’t worry; I won’t be too long this time around.”
+
+After saying this, she walked over to Jake, who easily read what she was going for as she got a nice goodbye smooch on the way out.
+
+“Don’t let those two bully you,” Jake said with a smile.
+
+“Oh, please, they’re way more likely to celebrate,” Artemis chuckled. “See you later, Jake.”
+
+“See you,” Jake said right before she teleported away. As she did so, all the barriers she had placed around the palace also disappeared, allowing the King and Jasper to once more be aware of what was happening inside.
+
+Neither of them did anything, though, almost as if they hadn’t even noticed something was amiss.
+
+Mental magic really is bloody scary, Jake thought to himself, once more extremely happy he had an overpowered Bloodline that would allow him to shrug off that kind of magic.
+
+Looking around the cleaned-up living room, Jake couldn’t help but consider the last twenty-two hours or so as he went to sit down. He also thought about the conversation they had just had and all his past relationships. He thought about Madeline and Andrew and all that had happened back then.
+
+He genuinely hadn’t thought about those two, at least not since returning from the Tutorial. It really felt like everything with them had been an entirely different life, perhaps because it had been. Back then, Jake had suppressed his own Bloodline and hadn’t been himself. He had just been a bored passenger in his own sucky life.
+
+Now, he felt like he was truly alive. As if he were living in a world where he actually belonged, surrounded by people who understood and respected him for who he was, even if they did admit to finding him a bit unusual. But hey, all the strongest people were weird, so no shame in that.
+
+People like Andrew or Madeline weren’t even worth thinking about. He had heard about neither on Earth, meaning they weren’t people strong or influential enough for him to care about, assuming they were even alive. Neither deserved the scarce Records of him even acknowledging their existence, and if they met on the street one day, Jake doubted he would even bother recognizing them, though he doubted the two would even dare act like they knew him either.
+
+Having thought about it, Jake felt better. He liked Artemis, even if things had turned serious a lot faster than he’d expected. Jake did feel a bit weird about officially having a girlfriend again, but he was looking forward to what it would all entail.
+
+And honestly... going from a cheating ex-girlfriend studying for an art degree with no job prospects to a wood elf hunter Godqueen was quite the upgrade, if he said so himself.

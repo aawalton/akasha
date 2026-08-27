@@ -1,0 +1,319 @@
+---
+id: b4b36ffa-f4b3-56b5-b7f8-81e33d14d6b5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 38: It's delicious!"
+slug: 0038-chapter-38-its-delicious
+partOf: phoenix-ascension-cultivation-litrpg
+position: 38
+ownLength: 2711
+unit: words
+publishedAt: 2025-10-20
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2691563/chapter-38-its-delicious"
+royalRoadId: "2691563"
+---
+
+The moment I took that step, the world began to spin. It took a miracle for me to get ahold of my senses and stand upright. Well, not a miracle, really.
+
+[Skill: Mental Fortitude(Novice) has been acquired]
+
+Whew, that saved me.
+
+But that wasn’t the only thing I got.
+
+[Skill: Stamina Regeneration(Novice)  has been acquired]
+
+[Skill: Stamina Conversion(Novice)  has been acquired]
+
+The first two were self-explanatory, though I didn’t feel much of an effect from the second one. However the last one intrigued me the most.
+
+[Stamina Conversion]
+
+[Activate skill to Convert your HP into Stamina]
+
+Well… yeah alright that makes sense. So in a pinch I could give up some HP to boost myself, kind of like a last resort.
+
+I’d always assumed that if my stamina reached zero, I would straight up die. In retrospect that couldn’t really be the case, but my body would be unable to take much more beatings beyond a certain point.
+
+That being said, the easiest and best way to recover stamina was to eat. As a Spirit Beast, the effect eating had on me was at least a hundred times better than of humans. Having lived both types of lives, I could tell with certainity that Spirit Beasts have it so much better if they were to hunt each other.
+
+However, there was no Spirit Beast in the vicinity. There wasn’t anything to hunt. But… there was food around.
+
+I gulped.
+
+I wouldn’t be able to use Stamina Conversion either way, since it was an active skill. Active skills used Qi. Spirit Beasts naturally had Qi they could use, even if it was a little. Realistically speaking, usual Spirit Beasts wouldn’t buy the skills I did if they could even understand what System said.
+
+I couldn’t exactly appraise, but the skills of the intelligent beasts I’d fought were all Bloodlines Skills.
+
+Those required stamina and would feed off the Spirit Beasts’s energy, which realistically, were massive.
+
+However I wasn’t in tip top shape per se. I didn’t have a lot of time to rest between fighting the demons, walking back to the lake, then rushing to the nest.
+
+The worry I had for Mother also made it so I had forgotten to eat, which lead me to this current situation.
+
+Stamina Regeneration was doing almost nothing, but it did give me enough energy to walk over to the corpse of the nearest human.
+
+I grit my teeth and activate Strengthened Constitution, sacrificing yet more spirit stones and a little bit of dantian space.
+
+This couldn’t go on.
+
+I steathily drag it into the forest while looking up at Mother.
+
+She was managing.
+
+Seriously, Mother was amazing. She fought these cultivators off with nothing but her body, clawing, pecking and screeching at them.
+
+If only these fuckers would just die already! So frustrating!
+
+Scouting the area for the cultivator chasing me, and making sure he wasn’t anywhere near me, I begin digging in.
+
+I’d never thought I would do this. Eating humans. On one hand, I was a human once, though that part of me feels like a dream now.
+
+I didn’t think they would be tasty either, as humans were, simply said, predators. They had muscle, not fat, and muscle was harder to chew and not nearly as tasty.
+
+I take off his shirt and take the firest bite, pulling at the man’s arm. It was still warm, as he hadn’t died long ago.
+
+Tearing off his flesh and muscle, I ignore the taste of… chicken? A combination of pork and chicken I would say.
+
+What the fuck, why is he so delicious?
+
+All my inhibitions flew out the window. Humans were delicious! I bet if I could cook it the meat would be tender and the fat would give it the perfect aroma.
+
+Holy shit.
+
+I hadn’t eaten anything this good ever since the boar I hunted, and it doesn’t even come close to this!
+
+I rip and tear, and chew and swallow. I eat and my stamiana recovers rapidly. My once wilting body now full of energy.
+
+[Skill: Overeater(Novice)  has been acquired.]
+
+Eh? Am I really that much of a glutton?
+
+[Overeater]
+
+[Convert excess energy into bonus stamina. The more excess stamina, the more weight the user would gain.]
+
+Eh? Am I going to become fat? But wait, isn’t this skill amazing?
+
+Basically, the more I ate, the more stamina I would have. Aside from the weight gain debuff, the rest of that skill was too strong!
+
+Overpowered, even.
+
+Humans, where are they? I need more corpses!
+
+I ate as much of the human in front of me as I could, stripping his limbs off their meat and digging into his torso for all the good organs. Finally, and with some difficulty, I cracked his skull open and ate his brain.
+
+It didn’t taste good, but it was nutritious.
+
+His eyes were still open, the expression of shock he had when he died twisting into a strange, yet comical expression.
+
+Why not?
+
+I gouged his eyes out and swalloed them.
+
+Feeling more refreshed than ever, I rushed back into the fight.
+
+I still had the two golden cores tucked under my wing, though I wasn’t really sure how to use them. That Hei Tu or whatever guy used them quite well as a passive weapon, so maybe I could too?
+
+That would no doubt require Qi though. I wasn’t sure I was willing to risk even more Demonic Qi entering my dantian for something that might not even work. However I couldn’t leave them out here either.
+
+I’m only at Qi Condensation but maybe…
+
+I focused real hard on the cores, trying to will them inside my dantian. Higher rank cultivators could use their dantian as a storage compartement as well.
+
+Key point being higher.
+
+I doubted the dantian of a Qi Condensation newbie could hold even a quart of a golden core, let alone two.
+
+My suspicious were more or less right. They didn’t even budge. Even if I used Qi, they wouldn’t have entered. My dantian simply refused to accept them.
+
+That being the case, I had no choice but to keep them under my wings, do something with them, or throw them away somewhere safe.
+
+Fucking hell then.
+
+I sprinted toward the bag of holding, plopped it around my neck and used the spirit stones to open it and store them inside. That didn’t bring any risk to the Demonic Qi spreading, at least.
+
+As long as I had spirit stones in hand.
+
+It took me lees than a breath of time to return to the battlefield, and when I arrived I saw my two dragons locked in fight with a cultivator.
+
+He didn’t look to be weak, but couldn’t exactly fight my dragons. They couldn’t do much to him either, so three were at a standoff.
+
+That was, until I arrived.
+
+I jumped and kicked at him, the barrier cracking under my sheer strength. Granted, Strengthened Constituion was active from before, but that was another issue.
+
+It burned Qi much slower than the two stealth skills, so I could keep it turned on for a longer amount of time.
+
+I pecked, and the barrier shattered. Then my two dragons bit at his neck and limbs, killing him.
+
+Without hesitation, I made the two surround me as I began devouring their friend. I couldn’t do so for long though. The Quasi Golden Core Cultivator would appear here any moment now.
+
+Once I slipped out of stealth, I was like a sitting duck. However, I couldn’t afford to activate more skills. The more I did so, the more the Demonic Qi would spread.
+
+Therefore I could only fight!
+
+I picked my next target— a middle aged man whose beard began to turn white. He looked rather strong, at least at the middle stage of Foundation Establishment. The aura he emitted while channeling Qi told me as much.
+
+However, his split concentration would give me an advantage. If he fought and went all in, the formation would break. If he fought and only half assed it, he would die.
+
+There was no winning.
+
+Ember Step, Elemental Wave, Paralyzing Screech!
+
+Two dragons, attack!!!
+
+My screech paralyzed everyone in the vicinity, although that only affected their body. They could still channel Qi just fine to keep the formation active.
+
+The wave of Phoenix Fire weakend their defenses and themselves, barried and all, and the Ember Step I used to get in front of him created a lingering wall of fire that threatened his barrier.
+
+Add in to the two dragons attacking, and he had no choice.
+
+Biting his lower lip, he weaved a series of hand signs and cursed with words I was not going to repeat. His barrier strengthend.
+
+Left with no other choice but to defend or die, he gave up on maintinaing the formation.
+
+One down.
+
+I could tell that I finally picked a good one, as the formation sealing Mother’s strength visibly weakened. She was able to use a portion of her flames, which gave the cultivators even more trouble.
+
+Good job Little Flame. I don’t approve of this recklessness, but keep it up. You should also be careful, that quasi cultivator is rushing back here.
+
+Mother’s praise made my chest feel warm. We were battling like a duo, me on the ground and her in the sky. Together we would show these insuferable humans what a Phoenix was!
+
+As for that quasi cultivator— as Mother called him— I  had a plan.
+
+A reckless one.
+
+However, I still had a few minutes before he arrived, which I planned to use effectively.
+
+I left the two dragons to deal with the middle aged guy, to either distract him or kill him, it didn’t matter.
+
+Rushing to the one nearest to the center of the formation, I used the combination of Elemental Wave and Ember Step to eat away at his barrier, then kicked and pecked and clawed and scratched until it shattered into a million pieces.
+
+Talismans are really only worth this much in the end.
+
+I scoffed and summoned Phoenix Fire at his feet, spreading it out and layering it. The heat surrounding us rose at an alarming rate, and the clothes on his body began to melt alongside his skin.
+
+One fried human coming right up!
+
+Was that what a chef would say?
+
+Anyway, he smelled quite good, especially the fear.
+
+He didn’t want to give up on the formation, but what choice did he have?
+
+Screaming in defeat, he undid his hand sign and waved another series, protecting himself.
+
+Two down!
+
+Mother’s seal had weakened once again, and the cultivators up in the sky began looking worried. She summoned a whole lot of fire as she screeched, and from the feeling alone, I could tell that I only needed to get one more cultivator to give up.
+
+And just in time, the Quasi Golden Core Cultivator arrived. He looked quite angry, and one hit from him would kill me.
+
+It would definetly and without a doubt, kill me.
+
+However, I had some confidence in my speed and Phoenix Reflex.
+
+Without hesitation, I ember stepped out of his first Qi attack— a simple one without any technique behind it. Then I dodged by relying on Evasion and Phoenix Reflex and sped closer toward the center.
+
+At the same time, I looked left and right, and spotted an unassuming looking man. He looked young and weak, but the gaze in his eyes as he observed the battlefield spoke of an old monster.
+
+Of course, that could be for any number of reason.
+
+I decided to gamble, and I was two for two so far, if you counted the last five minutes. I’d say my luck is quite good then.
+
+Obviously, the guy at the center was a decoy. What sort of formation expert would put the most important piece in the center of the formation? That would be foolish.
+
+They wouldn’t be at the edge of the formation either, but scattered somewhere in between amongst the decoys and back-up.
+
+These ones had some back up of course, but that strategy only worked if the person they sealed couldn’t resist.
+
+Against any other beast, that would work just fine.
+
+However they decided to mess with Mother— a Phoenix veteran who can turn Foundation Establishment cultivators to ashes with a casual breath.
+
+Alright then, I’m sorry for what I’m about to do.
+
+Not really.
+
+There would be no mercy for pieces of shit like you who dared attack Mother.
+
+With a quick turn of my feet, I rushed toward the the unassuming man.
+
+“Oh no you don’t!” The Quasi Golden Core Cultivator behind me screamed, flying at his top speed toward me.
+
+He also prepared an attack at the same time.
+
+As I arrived in front of him, I pretended to prepare a high kick attack, but as I sensed the Qi attack approach me, I  dodged using Ember Step instead.
+
+The attack from the quasi cultivator barely touched the barrier, but that was enough to shatter it. The shockwave and actual shock the man felt made him vulnerable for a moment, and before he knew it, his head flew off from his body.
+
+I didn’t hold anything back and used Tail Whip to sever it.
+
+[You have slain Tai Ming, Lvl 4 Cultivator]
+
+What?!
+
+He was a decoy, he was a fucking decoy.
+
+“Hehehe,” the quasi cultivator chuckled as he stopped in front of me. “Did you really think we would not place the most important guy in the middle? That was where the center of the formation was, of course he would be in the middle.
+
+What. The. Fuck?
+
+To say I was livid would be an understatement. I wanted to slap my face and then go to whoever designed this formation, then slap him too.
+
+“You’re quite smart for a bird,  unfortunately, this ends here.”
+
+He prepared another Qi attack, but I wasn’t willing.
+
+With the bag of holding around my neck, I had to have something to deal with him.
+
+It didn’t take me a lot of thinking— not that I had time to think— and using the remainder of my spirit stones, I took out all the weapons they gathered.
+
+Throwing the before me, I forced my will upon the ownerless weapons and made them explode.
+
+I also used Ember Step at the same time so I would bear the burnt of the explosion with my back.
+
+“What the heee?!”
+
+I got sent flying toward the center, and his Qi attack got interrupted. Now that it was all but confirmed that the man in the center held the key to Mother’s freedom, I didn’t hesitiate.
+
+Flame dragons, to me!
+
+The momentum gained from the explosion— an explosion which halved my HP— sent me barelling toward the cultivator.
+
+Of course, I barely managed to do that in the fraction of a second I had to come up with a plan.
+
+But it paid off.
+
+I shaped myself like an arrow as I darted toward the man standing in the middle, and the barrier melted like butter as we met.
+
+My head spun, but I still had enough momentum to penetrate his torso with my beak, half of my head fitting nicely inside amongst his innards.
+
+I wasn’t sure if he screamed in pain or not, as the sounds were muffled, but the two dragons jumped at his neck nonetheless.
+
+[You have slain Bai Feng, Cultivator Lvl 12]
+
+[XP Acquired]
+
+[You have Leveled Up]
+
+[Elemental Phoenix Lvl 13 has become Elemental Phoenix Level 14]
+
+A level twelve foundation establishment expert gone just like that. Neither of us expected that, I bet, but the detonation of more than a dozen weapons and my hard skull lead to that.
+
+And maybe also the fact that between the time I detonated the weapons, to the moment his barrier broke, less than a second had passed.
+
+I was travelling fast.
+
+And also the impact havled my HP once again.
+
+I wasn’t sure if I was below the twenty percent mark, but that didn’t matter anyway.
+
+The seal has been lifted.
+
+Mother was free.
+
+And she let out a glorious screech as the blue sky turned to an ocean of flames.
+
+Screeeeee!

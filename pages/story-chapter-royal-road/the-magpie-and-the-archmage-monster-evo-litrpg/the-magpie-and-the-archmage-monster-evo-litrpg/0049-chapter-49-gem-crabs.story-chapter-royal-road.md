@@ -1,0 +1,205 @@
+---
+id: 23afc141-0368-52e5-943a-19da720bfb66
+page-type-slug: story-chapter-royal-road
+title: "Chapter 49 – Gem Crabs"
+slug: 0049-chapter-49-gem-crabs
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 49
+ownLength: 1884
+unit: words
+publishedAt: 2025-11-17
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2767732/chapter-49-gem-crabs"
+royalRoadId: "2767732"
+---
+
+That must be the caster kobold?
+
+Liora dodged another incoming rock projectile and Lunged at the closest kobold.
+
+[You've defeated <Kobold – Level 4>. Experience gained.]
+
+Yeah. But it seems we're lucky. There's just one of them.
+
+How is that lucky? He's shooting rocks at me.
+
+Liora dodged another incoming rock and then Faded. She didn't like stuff being flung at her.
+
+Kobolds looked around in confusion, not understanding where she had suddenly disappeared. In the meantime, Liora flew as high up to the cave ceiling as she could and then used Skypierce on the mage kobold.
+
+She collided with the kobold with force that shook the whole cave. Skypierce really was quite a powerful move.
+
+[You've defeated <Kobold Shaman – Level 3>. Experience gained.]
+
+Liora had not expected to defeat it so easily. Flying up from the point of impact, she saw that there was nothing left of the monster. Only two glimmerstones stood at the place where it had been.
+
+Wait… did I just decimate it?
+
+Mage classes in general usually have weak defenses. This little guy didn't have enough time to throw up a shield. Not even a scale left.
+
+Liora was surprised by how weak they were. When they were fighting in a tight cluster in the tunnel, they appeared much stronger. Yet in reality, it appeared they were no stronger than the hyenas.
+
+Realizing that, taking care of the remaining kobolds was easy. Fly, Lunge, Air Slash, two kobolds defeated. Rinse and repeat until all of them were gone.
+
+[You've defeated <Kobold – Level 5>. Experience gained.]
+
+[Your skill Lunge has reached [Novice] level.]
+
+[Lunge – At [Novice] level provides you with a small burst of speed, followed by a Peck which inflicts 275% damage to your target.]
+
+Defeating all of them hadn't even been enough for her to level up; that's how much weaker they were. On the other hand, each kobold had a glimmerstone to it, except for the shaman, who had two.
+
+But something unusual happened after a while. The kobold corpses turned to shimmering dust and then disappeared into the cavern walls. As if the dungeon was reabsorbing them. Once all the kobolds had disappeared, she heard a heavy thud and a chest appear near one of the hanging strand curtains.
+
+What is that? And what happened to those kobolds?
+
+It's a chest. It appears whenever you clear out a dungeon room. It contains various dungeon loot, equipment, and treasures.
+
+Treasures?!
+
+Liora didn't even listen to Renir chatter anymore, instead swooping straight to the chest. Much to her disappointment, there was a lock in front of it.
+
+Hey, what gives? It's locked!
+
+You either need to find a key in another room or lockpick it.
+
+Oh, hell no! There is no way I'm going to be blocked by some measly lock.
+
+Liora flew up as high as the cavern ceiling allowed her and Skypierced straight towards the lock. The chest exploded into splinters, unable to withstand the force of her mighty skill. She puffed out her chest proudly and tossed the broken wood scraps aside with her talons.
+
+Or I suppose you could do that…
+
+Inside the chest were five glimmerstones, which Liora snatched and deposited in her Inventory.
+
+[Your skill <Glimmerlust> has ranked up to [Novice] level.]
+
+[Glimmerlust – Rewards your desire to hoard glimmerstones. At [Novice] level provides you with a 0.02% power and speed bonus per glimmerstone to all your skills.]
+
+[Current boost: 5.02%]
+
+"Chak-chak-chak!" Liora called out triumphantly.
+
+I knew that hoarding glimmerstones would be useful! See that power boost!
+
+Well, it's still not that much, but it is quite the leap. It's safe to say that with each new level, the multiplier will increase.
+
+I'm going to be the most powerful magpie in the universe!
+
+Calm down, birdbrain. You still need to get those glowshrooms.
+
+Oh, yeah. By the way, you didn't tell me what happened to those kobolds. Why did they disappear like that?
+
+It's because they're not technically living beings. They're spawns from dungeon essence.
+
+Spawns?
+
+Yeah. The monster you encountered outside the dungeon—they're much like animals. They eat, they breed, and as you saw with your treant friend and the chimera guardian, they can be intelligent. Dungeon monsters are nothing more than shells made for fighting. Dungeon master's puppets.
+
+That's kind of morbid… I'll just think of them as robots then.
+
+Ro-what?
+
+They are these mechanical things that can move on their own. Kind of.
+
+Like golems?
+
+I don't know what a golem is.
+
+A large mechanical thing that can move on its own. With magic.
+
+Close enough, I suppose.
+
+Liora proceeded to collect the glowshrooms. With the kobolds gone, it was an easy task, even if she had to shield her eyes every time. With mushrooms collected, it was time for her to complete her second quest.
+
+Where do I find more of these kobold shamans?
+
+I suspect there might be one in each separate cavern.
+
+But then I'll have to fight a bunch of kobolds each time. That's annoying.
+
+Think about all the glimmerstones. Besides, we might be lucky enough to find a Pulse Stone in one of the chests.
+
+Liora couldn't argue with that. That was the main reason they came to this dungeon in the first place.
+
+So she flew back to the main kobold hub and sneaked into the tunnel next to the current one, using Fade to remain hidden. Kobolds remained oblivious to her presence, and she made it into the next cavern without issues.
+
+This cavern was littered with a bunch of luminous, pretty crystals which appeared to grow out of the walls, ceiling, and cavern floor. There were a few kobolds there, standing by the crystals, but mostly the cave was populated by little crab-like creatures that had shells made from shiny crystals.
+
+How pretty…
+
+Liora's first instinct was to snatch all the crystals and then grab all the crabs. Unfortunately, the kobolds noticed her hovering in the air and staring at the crystals and attacked her. Two of them charged in her direction while the remaining two pulled out wands and began flinging rocks at her.
+
+She dodged the rock barrage with ease and attacked one of the kobolds with Holy Light.
+
+[You've defeated <Kobold Shaman – Level 6>. Experience gained.]
+
+She then Lunged at the kobold closest to her. Much to her surprise, it didn't die in a single hit, although the damage she'd done was clearly great.
+
+The remaining shaman shot more rocks at her, which she once again dodged and used Holy Light.
+
+[You've defeated <Kobold Shaman – Level 4>. Experience gained.]
+
+This biggest threats taken care of the remaining kobolds was easy enough. She used Holy Light on both, defeating the injured one in one shot and the other one in two.
+
+[You've defeated <Kobold – Level 9>. Experience gained.]
+
+[You've defeated <Kobold – Level 9>. Experience gained.]
+
+Oh, I see why they were tougher. These two were higher-level.
+
+Yes, it appears that they were about to reach their next evolution.
+
+But even then, they weren't a tough foe. Liora used Mana Conversion to recover her mana, noting that the shamans gave her more mana than the regular kobolds, and then she claimed her glimmerstone prize. Just like in the previous cavern, the kobold corpses turned to shimmering dust and got absorbed into the walls.
+
+Hey, where's the chest?
+
+To get that, you need to defeat the gem crabs too.
+
+Liora looked at the shiny crabs scuttling about from one crystal to the next.
+
+Why aren't they attacking?
+
+They only attack when provoked. Do be careful, the moment you attack one, all of them will rush at you.
+
+Do you know their weaknesses?
+
+Uh… I think I just froze them all.
+
+Liora wanted to peck him. Why is it that this man solved everything with overwhelming use of magic? This was likely the reason why people decided to seal him in a rock. She couldn't even blame them if Renir's answer to any problem was burning it to a crisp or freezing it.
+
+I can't use ice magic. Any chance you could teach it?
+
+How about you train the magic you have now? Holy Light could definitely benefit from an upgrade. And you shouldn't forget that you can combine your skills.
+
+Stingy…
+
+But he was right. She hadn't been combining her spells in combat because it required a lot of concentration. This was a perfect opportunity to train since the opponents weren't strong. She didn't even have to worry about destroying the ecosystem since the monsters weren't even alive.
+
+Liora focused on creating Poison Slash, this time commanding the System to use the rock serpent poison just to see if she could. Initially, it was hard to tell whether it worked, but as the poisonous blades formed in front of her wings, she saw that this poison was definitely different from the toad's. That was a purple color and viscous like sludge, while this was light green and translucent like dirty river water.
+
+She aimed the Poison Slash at one of the shiny crabs, creating a small gash in its shell. It was a shame to ruin such a perfectly shiny surface. She'd rather stash the crabs in her Inventory. But the crabs obviously didn't share her sentiment.
+
+The moment the crab was hit, it let out a shrill scream, which alerted all the other crabs. They all scuttled towards her, sniping their claws and frothing at the mouth.
+
+"Chak-chak-chak!" Liora taunted. "Good luck catching me, slowpokes!"
+
+She hit another crab with Poison Slash, hoping that the potent serpent toxin would take care of them eventually. The second crab also let out a shrill scream, and the crustaceans grew even more agitated. They gathered together into a large cluster, bubbles at their mouth growing larger and larger.
+
+And then, like one, they spit the bubbles at Liora. Contradicting her logic, which said that bubbles shouldn't be able to move that fast or even be dangerous in any capacity. Yet the incoming jets of bubbles forced Liora to dodge and weave out of the way.
+
+Horrified, she discovered that the shiny crystal that was hanging on the wall behind her was riddled with holes. It cracked as it lost its integrity and crumbled to the cave floor with a loud crash.
+
+What the hell are those super bubbles?
+
+Yeah, they didn't appear so threatening when frozen.
+
+You're so useless, you know that.
+
+The crabs didn't relent, but kept releasing jet after jet of bubbles, puncturing holes in everything they collided with. They were fast, too, even with her Aerial Agility, Liora had trouble keeping ahead of the relentless attacks. She couldn't even find an opportunity to counterattack.
+
+"Caw!" Liora cursed. "Stupid crabs!"
+
+She Faded, giving her a brief moment of respite, and attacked the first crab she saw with an Air Slash, forgetting to combine skills again. It did crack the shell, but she realized that Air Slash alone wouldn't be enough to take the crabs down. The two poisoned ones were more sluggish than the other, but it'd probably take a while for the poison to finish them off.
+
+The Fade wore off, and crabs resumed their bubbly attack.
+
+"Caw! Caw!" She screamed. "You damned pests! I won't be defeated by seafood with legs!"

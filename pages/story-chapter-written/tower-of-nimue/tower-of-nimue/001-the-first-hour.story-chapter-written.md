@@ -1,0 +1,230 @@
+---
+id: fdf7bbd4-cd3d-5537-8b8e-7b9f4c0f8377
+page-type-slug: story-chapter-written
+title: "The First Hour"
+slug: 001-the-first-hour
+partOf: tower-of-nimue
+position: 1
+ownLength: 3487
+unit: words
+---
+The coffee machine still worked, which should have told me something.
+
+I stood in the second-floor hall at St. Brigid's, a paper cup filling under the spout, six minutes left on a shift that had run twelve hours. The machine hissed and ground. Behind me the night shift did its 4:51 things — somebody laughing too loud at the station, a call bell in 214 I'd already flagged for Devon, the HVAC cycling. I'd mapped the hall without meaning to. Two exits. Crash cart by the elevators. The drunk in 210 who swung if you woke him wrong.
+
+I always did that. Counted the room. Even off the clock, even holding a bad cup of coffee. Who's breathing, what's between me and the door, who's going to need me before it's over. My mother called it not being able to sit still in my own life. I called it my job.
+
+Then text appeared in the air, and it wasn't on my phone.
+
+It hung a foot from my face, right where my eyes wanted to focus. Blue-white, flat — a color that gave off no light and threw no glow on the wall behind it. The letters were all one weight, like no hand had ever made them. It didn't flicker. The fluorescents buzzed straight through it and it didn't care.
+
+```stat-screen
+THE SYSTEM HAS DESCENDED.
+Assessment of local lifeforms is complete.
+```
+
+Coffee ran over the cup and scalded my fingers. I left them there.
+
+```stat-screen
+99.4% of assessed lifeforms do not meet the threshold for Ascension.
+Culling will complete in: 00:60:00
+The unascended will be cleared.
+```
+
+A clock started counting down in the corner of my eye, white and even. *00:59:58. 00:59:57.* It moved when I turned my head. Inside my eye, not in the room. I couldn't blink it off.
+
+Down the hall, Devon laughed. Then he stopped.
+
+He dropped between one step and the next. No stumble, no hand to the chest. His clipboard clattered. He didn't put his hands out. People who faint put their hands out.
+
+I was already moving. The cup hit the floor behind me and I was down over him — two fingers at the carotid, my other hand tipping his jaw — before I'd decided to. *Airway. Pulse.* The algorithm ran because the algorithm was the only thing that worked when nothing else did. No pulse. No breath. No wound. Pupils blown and fixed, the blue-white text reflected in them.
+
+I started compressions anyway. Elbows locked, found the spot, drove down. *One and two and three.* I was thirty-one and I'd brought people back from worse. You didn't feel anything until after. You worked.
+
+The dropping sounds were everywhere now. The laugh at the station. The call bell in 214, gone quiet. Soft thuds through the whole hospital, the whole city. A species being switched off.
+
+A small line resolved under the first, like a footnote.
+
+```stat-screen
+Resuscitation will not restore an unascended subject.
+This is not a wound. There is nothing to repair.
+```
+
+It wasn't cruel. It wasn't gloating either. It was telling me. It had watched me do compressions and decided I could use the information. It didn't hate Devon. It had measured him, gotten a number, found the number too low, and now it was letting me know — helpfully — that I was wasting my time.
+
+I did six more. Then I stopped, because the System was right, and I'd never once kept doing a thing that didn't work.
+
+I stood. My knees were wet. Not blood. Coffee. I'd knelt in the coffee. I noted it and let it go. *00:57:12.*
+
+A hand closed on my wrist.
+
+Priya, from peds, two stations down. Still up, still breathing. One of them. Her face had come apart. "Nimue. Nimue, what *is* it, what do we — you always know what to — tell me what to do, *please—*"
+
+For a second I felt exactly what Priya wanted. Not a plan. Not the exits. She wanted somebody to hold her face and lie to her. *It's going to be okay, I've got you.* The warm thing one scared person hands another. I reached for it in myself and it wasn't there — like feeling for a tooth that should be there and isn't.
+
+So I gave what I had. I turned my hand inside Priya's grip, a transport hold, and squeezed once, hard. "Stairs," I said. "South stairwell, away from the windows. Now. Go." Hands, not heart. It was all I'd ever had, and it had always been enough, and it was why I went home to an empty apartment and told myself I liked it that way.
+
+Priya looked at me like she'd been handed a rock. Then she went, because my voice was the kind you obeyed. South stairwell. Away from the windows.
+
+I didn't know yet why the windows mattered. I found out eleven seconds later, when the sky came down.
+
+---
+
+It came down with no sound, and the silence was the worst part. Something that big should have roared.
+
+Through the window at the end of the hall — the one facing east, over the river — the city was folding. Not falling, not burning. Folding. The towers and the bridge and the whole low brick sprawl of my life creasing inward along lines that hadn't been there a second before. And up through the seam of it, in no hurry, came the Tower.
+
+I had nothing to measure it against. It just went up — past the clouds, past where my neck could crane — a dark fluted column that wouldn't settle into stone or metal or glass. Rings scored its surface, floor over floor. I started counting them, got to about a hundred, and couldn't be sure even of that. It was the kind of tall that broke counting.
+
+It threw a shadow, long and black across the dying city, and the shadow fell the wrong way. It stretched *toward* the brightening east — toward the dawn — instead of away from it. Nothing the sun lights does that. Something on the far side of the sky was lighting it, something I couldn't see. The shadow's edge crossed St. Brigid's and the fluorescents died, and the call bells died, and the coffee machine went quiet, and the air changed.
+
+It went heavy, then wrong. Gravity stopped pointing straight down and started pointing toward the Tower. I felt it in my inner ear — a pull that wanted to tip me out the window and downhill toward the thing on the horizon. Under it, a hum started, so low it sat in my teeth and the long bones of my arms. One held note, from nowhere.
+
+Then the smell. Ozone, sharp, like a match held too long. And under that, a city with the power off — that flat dead stillness when ten thousand machines stop at once.
+
+*00:54:40.*
+
+I should have been on the floor. I should have been screaming. Instead I'd already stepped out of the window's sightline and put my back to the wall by the crash cart, and the tally was still running. Exits. Threats. Who's breathing. The one part of me the System hadn't switched off.
+
+Then I heard the kid.
+
+---
+
+It came from 218, a four-bed bay, and it was the sound a kid makes when the thing he's screaming about is in the room with him.
+
+I went down the hall without deciding to, same as I'd gone to Devon. The door to 218 stood open. Three beds with three dead in them, slack and gone. In the fourth, sitting up, a boy of about nine, a cast on one arm, his back jammed into the corner of the headboard. Alive. One of them. And between me and the boy, something had come through the window.
+
+The window was gone. Not broken. Gone — a clean seam in the air where the glass should be, the same seam the city was folding along. Something had come through it.
+
+It was low and fast and had too many joints. Greyhound-sized, all angles, wet grey hide. Where its face should have been there was a cluster of blue-white System light, like it was reading its own prompt out of the dark. It moved like it was being deleted and redrawn a frame at a time. It stood between the boy and the door, and it was turning, slow, toward the loudest soft thing in the room. The kid.
+
+I reached three ways at once. Not in a line — all of it in the same breath.
+
+A box of light opened over the creature — the System, posting its flat text, like it had for Devon. I read it. The boy screamed and the thing gathered its legs, and some cold flat part of me read the words a half-second faster than I should have, because I was already leaning in, already wanting the rules more than I wanted to look away.
+
+```stat-screen
+THRESHOLD WARDEN — Floor Spawn (Tier 0)
+A scout. It hunts by sound. It is fragile and it is fast.
+```
+
+*Fragile.* My eye snagged on the word. Fragile, hunts by sound, the light-cluster is the face, the face is the eyes — go for the eyes. A flaw, a hole in it, the whole thing suddenly a system I could break. *Show me how you break.*
+
+And in the same half-second my body did other math. The boy was nine and pinned and screaming and the thing was a step away, and I'd already decided there couldn't be a clear line between it and the kid. I crossed the room and put myself in the line. My body the wall, my back to the thing, my hands coming up around the boy's head the way you cover a patient when the bed goes over. *Not him. Through me first.* It cost me the door, and every read after the first. It was the dumbest possible move and I made it before I could count the cost, because something older than the tally had run its own numbers and come back with a child.
+
+And my right hand closed on the IV pole by the bed. Steel, chest-high. I tore it off its wheeled base, because the third thing in me — the oldest, the meanest, the part that ran codes on no sleep and didn't lose — was not going to die in a corner covering a kid. It meant to win. I came off the headboard already turning, the pole up in both hands like a staff my hands already knew, and when the warden launched — silent, all angles, the light swelling — I drove the point into the middle of it. Into the reading face. Into the eyes the System had named for me.
+
+It went in wet. The hum spiked into a shriek that wasn't sound. The warden came apart around the pole, grey and blue-white, dissolving the way the city was dissolving. Then it was gone, the pole clean in my hands, and the boy was crying into the front of my scrubs.
+
+```stat-screen
+Floor Spawn neutralized.
+Anomaly logged: subject engaged a Tier 0 hostile prior to Ascension.
+Recorded.
+```
+
+I stood there with the kid's good arm clamped around me and the dead pole in my fist and my heart finally doing the thing it only did after, never during. I read the word *anomaly,* and the flat *recorded* under it, and understood what I was inside of.
+
+It was scoring me. It had watched me cover the boy and read the warden and put the pole through its face, and it wasn't impressed and it wasn't angry. It took a note. I was a number getting refined. Every reflex I'd built over thirty-one years was data, on its way to a verdict on what I was worth.
+
+*00:49:03.*
+
+I peeled the boy off me, crouched, got a grip on his good shoulder. "What's your name?"
+
+"M-Marcus."
+
+"Marcus. Can you run?"
+
+He looked at the cast, then at me, and nodded.
+
+"South stairwell. There's a woman down there named Priya. She's scared like you. She'll get you out." I didn't say *it's going to be okay.* I'd never said it when it wasn't true, and I wasn't starting with a kid I'd just hauled out of the worst hour of his life. "Go. Don't stop for anybody who isn't moving."
+
+He went. I pulled the pole out of the empty air where the warden had been, weighed it, and turned toward the seam and the folding world and the Tower. The clock said *00:48:51.* The only direction left that wasn't down was up.
+
+---
+
+The city I walked into wasn't the city.
+
+The streets were mostly where they'd been — asphalt, dead traffic lights, cars stopped at angles where the drivers had stopped. But the Tower filled a third of the sky now, and everything leaned toward it. The wrong-gravity tide pulled at my gut with every downhill step toward the seam where my world ended and the trial began.
+
+I'd thought I would be alone out here. I wasn't, not yet. The other 0.6% were on the streets too, and the first hour was teaching them fast what the System meant by *the unascended will be cleared.*
+
+It wasn't violent. That was almost the worst of it. As the clock ran down, the dead just got subtracted. A man slumped over the wheel of a stopped bus thinned out and went, like fog clearing off glass, leaving an empty seat and the smell of ozone. A woman who'd died on a bench with her grocery bags came apart between one of my steps and the next, and the oranges she'd been carrying rolled into the gutter and kept being real after she wasn't. All over the city, gently, the System cleared the table. Not erasing them in anger. Tidying. Filing the dead away like a machine reclaiming storage. On schedule.
+
+And the living were learning the cost of standing still. I passed a knot of them packed around a parked car like the car could save them, holding each other, not moving. System text bloomed over their heads in the flat blue-white, and I didn't stop, because I'd already read the lesson back in 218. Engage, or be cleared. The ones who went for the Tower lived to reach it. The ones hugging the car would still be standing there when the count hit zero.
+
+I didn't look back to watch. One look had been enough for Devon. Looking back didn't move anybody forward, and forward was the only verb I had left. *Survivor's guilt,* the clinical part of me called it, the thing going sour in my chest. I put it behind the engine and let it push. I'd lived through the first hour. Most hadn't. The least I could do was not waste it standing in a street holding a stranger, waiting to be tidied away.
+
+So I walked. The Tower grew. The hum worked deeper into my bones. A dozen others were converging on the base now, drawn down the leaning streets, none of them talking, each one alone in the crowd. I fit right in. No party. No guild. One woman, an interface only I could see, a stolen IV pole, and a dead city emptying behind me one body at a time.
+
+Halfway there, another line surfaced — not a warning, not a culling notice. Something flatter and stranger, posted to no one in particular.
+
+```stat-screen
+One hundred floors stand between the ascended and the apex.
+Each is a trial. Each trial yields essence to those who survive it.
+Ascendant designation: HARVESTER. The Tower keeps what you cannot.
+```
+
+*Harvester.* The word sat there, oily and strange. I had no frame for it and no time to build one, so I set it aside with everything else I couldn't use yet — *essence, harvester, the Tower keeps what you cannot* — and kept walking. Whatever it meant, it meant up.
+
+My name, I thought, with the flat black humor that had carried me through every bad night of my career. *Nimue.* My mother told me once, on a rare gentle night, that it was an old name. A story name — a woman from a drowned legend who learned every word of a great wizard's magic and used it to shut him in a tower of air, alone, forever. *The lady who masters the tower,* my mother said, half a joke, half a warning. I was six and didn't get why she looked sad saying it.
+
+I got the shape of it now, standing in the Tower's shadow with up the only way left. I let it go. Legends didn't clear floors. *Work* cleared floors. And work was the one thing I'd always been able to do.
+
+---
+
+The threshold was a seam in the world.
+
+It stood at the Tower's base where a door should be and wasn't one — a vertical wound in the air, taller than three of me, edged in the System's blue-white. Through it: nothing. Not darkness. Darkness is the absence of light in a place that has light to lose. This was just nothing, starting exactly where my dead bright broken world stopped, showing me nothing of the other side.
+
+The others were reaching their own seams, scattered along the base, each one alone. *00:11:46.* The clock had pushed me the whole way, and now it wound down toward zero behind me. The culling nearly done. The city nearly empty. The choices narrowing to one.
+
+I stepped up to the line. The tide pulled hardest here, trying to pour me through. The hum was a chord now, deep in my sternum. The ozone stung. I set the foot of the pole down on the dead pavement. Dead world behind me, the trial in front. One step, and only one way it went.
+
+The seam didn't open.
+
+Instead the air in front of me set, and the System resolved one more box of light. This one was different. The others had reported — state, rules, the count. This one had a blank in it, and the blank was mine to fill.
+
+```stat-screen
+ASCENSION THRESHOLD — FLOOR 1
+The Tower does not admit the empty.
+Before ascent, an anchor is required.
+
+Pre-ascension conduct: recorded in full. Every reflex, every reach
+under threshold conditions is held. One will be retained as Essence
+Slot 1 — the foundation, which the Tower cannot strip.
+
+Select the anchoring reflex.
+
+WHEN THE SYSTEM FELL — WHAT DID YOU REACH FOR?
+```
+
+```stat-screen
+ANCHOR — SELECT ONE
+The shard you name becomes Essence Slot 1. It cannot be unmade.
+
+[ A ]  LAST STAND
+  "Not him. Through me first." You made your body the wall between the warden and the child.
+  PASSIVE — all damage you take is reduced by 10%.
+  ACTIVE — Bulwark: halve the next hit you take. (2-action cooldown)
+  ANCHOR — +3 VIT.  HP 100 → 130.
+
+[ B ]  KILLING EDGE
+  You tore the pole from the wall and drove it home. You were still moving when the prompt found you.
+  PASSIVE — your strikes deal 15% more damage.
+  ACTIVE — Lunge: close the gap and strike at triple force. (3-action cooldown)
+  ANCHOR — +2 PWR, +1 SPD.  Basic strike 20 → 24 (27.6 with Killing Edge).
+
+[ C ]  OPEN EYE
+  You reached for the interface itself — tried to read the thing eating the world. It left an eye open in you.
+  PASSIVE — enemy weak points revealed (crit 18%, +50% crit damage), and every Harvest hereafter offers one additional essence.
+  ACTIVE — Read: expose a target's resistances; +20% damage to it. (2-action cooldown)
+  ANCHOR — +2 ATT, +1 INS.  Focus 50 → 60.
+
+AWAITING SELECTION.
+```
+
+Under it, three possibilities started to take shape out of the blue-white air — three versions of one instant in a hospital room, three reflexes that had fired in the same few seconds, each of them true, each of them me — the realest things I'd done in the worst hour of my life, maybe in all of it. The body thrown across a kid. The steel torn loose and driven home. The cold flat reach for the reading itself. *Show me how you break.*
+
+The Tower waited. The clock counted down. Behind me the last of the unascended thinned into ozone and were gone, and the dead city went quiet, and there was no one left to watch. No one but the System, and whoever I was about to decide I'd been all along.
+
+I stood on the line. The question hung in the air, the one only I could see, and the seam waited to be told what to make of me.
+

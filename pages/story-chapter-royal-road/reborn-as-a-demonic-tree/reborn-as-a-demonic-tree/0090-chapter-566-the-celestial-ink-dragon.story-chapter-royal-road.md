@@ -1,0 +1,201 @@
+---
+id: b538b980-87ba-5858-b29d-4038c85c0e59
+page-type-slug: story-chapter-royal-road
+title: "Chapter 566: The Celestial Ink Dragon"
+slug: 0090-chapter-566-the-celestial-ink-dragon
+partOf: reborn-as-a-demonic-tree
+position: 90
+ownLength: 2725
+unit: words
+publishedAt: 2026-05-11
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3383665/chapter-566-the-celestial-ink-dragon"
+royalRoadId: "3383665"
+---
+
+When Kaida had acquired enough Qi to evolve from a B-grade Midnight Ink Lindwyrm, the system had offered Ashlock a single option.
+
+[Celestial Ink Dragon (???++)]
+
+While Midnight Inkwings are considered one of the apex divine beings that possess the ink affinity, there exists its ancestor—The Celestial Ink Dragon. Thought to be extinct, the Celestial Ink Dragon possesses a long, flowing body of divine ink that, at their maximum length, can span between dimensions. Rumored to be the ancient scholars of the heavens, Celestial Ink Dragons have heightened comprehension of heavenly texts, allowing them to decipher even the most complex runes, lost techniques, or divine edicts inscribed in ink. However, the biggest difference between the lesser Midnight Inkwing and the Celestial Ink Dragon's scales is that the Celestial Ink Dragon can shed their scales and control them from range, letting them dominate battlefields with floating talismans, formations, or bind even demigods with their divine contracts.
+
+After evolving into such a rare and powerful race of ink dragon, Ashlock hadn't expected Kaida's race to evolve any further. Still, just in case, he had pre-approved any evolutions with the system, so Kaida wouldn't have to leave the Eternal Realm for his approval.
+
+[Notice: Kaida has exited the Eternal Realm]
+
+[Celestial Ink Dragon: Kaida [SS] has completed his evolution]
+
+"As expected, Kaida didn't evolve again and is still a Celestial Ink Dragon," Ashlock mused to himself as his vision blurred and he honed in on the Eternal Realm's entrance. "But that doesn't mean he hasn't drastically grown in strength. At the SS-grade, he skipped the S grade entirely, putting him comfortably in the realm of Monarchs and on par with Larry."
+
+While Kaida's growth seemed explosive, it made perfect sense. He had evolved into the extinct progenitor of the Midnight Inkwing dragons—a divine being with virtually limitless cultivation potential. Combined with a steady supply of Ashlock's truffles and pills, along with the Eternal Realm that offered ideal training conditions and time dilation, Kaida possessed every advantage needed to cultivate at an extraordinary speed.
+
+Arriving at the entrance to the Eternal Realm, Ashlock waited with Thanatos for Kaida to emerge. After a long moment, a massive shadow began to stir within the celestial fog.
+
+"What the hell? Just how big is Kaida now?" Ashlock muttered in disbelief as the cavern itself seemed barely large enough to contain the looming figure.
+
+Just as the shadow appeared ready to step forward, it suddenly began to shrink. The celestial mist rushed inward as if drawn in by a powerful vacuum before surging outward once more. From the roiling fog, a figure finally emerged.
+
+A human.
+
+Kaida had taken on a human form but was very clearly still inhuman. At a glance, he appeared to be a tall, slender, scholarly-looking young man. However, upon closer inspection, one would notice his long black hair made from flowing ink, seeming to merge with his inky robes, which shimmered under the light. A pair of subtle dragon horns poked out of his forehead, barely drawing attention away from his golden serpentine eyes. Meanwhile, talismans made from dragon scale orbited him and hummed with barely restrained power.
+
+Kaida's entire presence was threatening, from his looks to his spiritual pressure and the floating talismans engraved with words such as Bind, Silence, and Disperse. Even the way he strode forward was filled with purpose.
+
+"My Master, I have returned," Kaida said in Draconic. His voice sounded as deep and ancient as his heritage.
+
+"Welcome back, Kaida. I see that you're human now?" Ashlock replied.
+
+"I always found it disgusting when I saw dragons and other monsters take on this inferior form," Kaida replied with a scowl. "But now I understand, as my true form is far too grand and cumbersome to navigate this world with. I'll reluctantly have to settle for a more practical form like this."
+
+"Right... and how does that work exactly? Taking on the human form, I mean," Ashlock asked. When the system had offered him a human body, a while ago, he had said no, and then his soul had been reshaped into that of a tree. He couldn't imagine trying to pilot a human body anymore. Even if it were somehow possible, it would feel so wrong.
+
+"I don't know how it works for other dragons or monsters, but since reaching the Monarch Realm, my true body can span between dimensions. What you see now is only the tip of my true form, crafted from ink," Kaida explained as he continued to stride forward with purposeful steps. That's when Ashlock noticed his oddly elongated shadow—it didn't match the size and proportions of his body at all. That's when Ashlock sensed that his true dragon form, which he had glimpsed in the celestial fog, was lurking in Kaida's shadow.
+
+If Kaida didn't feel threatening enough with his Monarch Realm spiritual pressure, the knowledge that this human form was only the tip of the iceberg made Ashlock wonder if Kaida was even stronger than Larry now.
+
+"Since you're in the Monarch Realm, you must have unlocked a domain?" Ashlock asked curiously. "If so, what can it do?"
+
+If it was anything like Larry's domain, it was bound to be unique and would bring a lot to the battlefield, which was heating up as of late.
+
+Kaida flashed a smile, which exposed his shark-like teeth. "I'd rather show you my domain than explain if that would be alright with you, Master."
+
+Ashlock was very glad that Kaida still saw him as his Master, as, with his evolution, he had broken free of his control and was now stronger than him.
+
+"That's fine with me. You could battle with Thanatos here, or is there someone else you would like to fight?"
+
+"Is Stella around?" Kaida said with light amusement.
+
+Ashlock was glad that she wasn't here.
+
+"She's training to reach the Monarch Realm, as is Diana," Ashlock said, pretending as if it were a shame. "You could battle Larry?"
+
+Kaida shook his head. "Larry is undefeatable—everyone knows that. While he might not be the strongest in terms of offensive power, fighting him is like hurling techniques into the endless sea—a pointless endeavour."
+
+That was accurate, but also made Ashlock concerned. Wouldn't that make Larry the perfect test subject, as he couldn't be harmed? Then there was Kaida's suggestion of Stella, with whom he had a feud.
+
+"What about Magnus?" Ashlock hesitantly suggested. "He recently reached the Monarch Realm."
+
+"I'd kill him in seconds," Kaida stated as if it were a fact. "That man is a good warrior in the sect. I don't wish to discourage him."
+
+This was one of the longest and most in-depth conversations Ashlock had held with Kaida, which made him unsure if his character had changed much since evolving. He had always been a serious dragon of few words, besides his rather childish feud with Stella. But that care for Magnus raised Ashlock's opinion of him.
+
+"I see," Ashlock paused as he tried to think of who else Kaida could fight. There was Elysia, but she was busy defending their advances into Floridawn. Zephyrine might be down for a brawl, considering the stories he had heard about her and Ao Lingxuan. Besides that, he only had his Generals or Ents to offer.
+
+"I should fight Astralis, and after killing him, ask for Nymeria's hand," Kaida said randomly, making Ashlock double-take.
+
+"Huh? Come again?" Ashlock said in disbelief.
+
+"What's the problem?" Kaida asked, tilting his head.
+
+"You won't fight Magnus because it would be too easy, but you will fight Astralis, who is a realm below? That won't be a fair fight at all."
+
+"Besides your guardian beast, none of these fights will be fair," Kaida pointed out. "At least by killing Astralis, I can win Nymeria as a trophy."
+
+"What? Is that how courting between dragons is usually done?" Ashlock asked skeptically. "I think you could go about it without killing her father in the process."
+
+"How about we ask her opinion on the matter?" Kaida suggested.
+
+Ashlock sighed. "She's with Zephyrine and Stella's brother in the spiritual spring."
+
+"Great, a worthy stage for the battle. Can you open a portal there for me?"
+
+Ashlock felt this was a bad idea, but he was also curious just how strong Kaida had become, and he knew that if things went badly, Zephyrine could step in and put an end to things.
+
+"Fine, here you go," Ashlock said as he set a waypoint and then blurred his vision as he moved north to the spiritual spring. Due to the immense distance, it took a moment as the wilderness rushed below him until he honed in on Zephyrine's spiritual signature. She was in her majestic deer form, half asleep on a rock, while Nymeria, Janus, and what Ashlock assumed was his disciple were practicing fighting.
+
+Zephyrine noticed his presence first; her eyes opened, and she sniffed the sky. "Ashlock, is that you?"
+
+"Yes, it's me, don't worry."
+
+"Has Stella returned yet?" Zephyrine asked.
+
+After sorting things out quickly at the Frozen Star Sect, Zephyrine had returned with Jasmine, Janus, and his disciple. But since Stella was busy in the Eternal Realm, the group decided to detour to the spiritual springs after dropping Jasmine off. Zephyrine had wanted to recover her Qi after fighting with Ao, and Janus had taken the opportunity to train against the Primal Overlords residing there.
+
+"She has not returned. I'm here because I have a visitor for Nymeria."
+
+"Nymeria?" Zephrine asked, and the dragon girl lowered her sword and perked up. Unlike Kaida, who had an almost unsettling inhuman vibe, Nymeria was far more humanlike, as she was half human and half dragon. Though she still had silver serpentine eyes and scales running down her sides, along with a single horn she had inherited from her father.
+
+"Is it Kaida?" Nymeria asked with a hopeful expression. "I heard he went into the Eternal Realm to train as well."
+
+"It is him," Ashlock confirmed with a sigh. "Zephyrine, if things get out of hand, please step in."
+
+The deer frowned at his words. "What do you mean by that..."
+
+Ashlock opened a portal, silencing Zephyrine as Kaida stepped through the swirling desolation. His unrestrained spiritual pressure blanketed the entire area, making Zephyrine quickly stand up and stare down at the dragon. Janus swooped down, grabbed his disciple, and teleported away to a neighboring mountain peak.
+
+Only Nymeria reacted to Kaida's presence with a beaming smile.
+
+"Kaida! You have a human form now!" she bounded over to him.
+
+Ashlock could hardly blame her excitment. While Nymeria wasn't fully dragon, she definitely still had some of the dragon's traits in both personality and looks. While she could likely settle for a human as a partner, a dragon with the divine lineage and strength of Kaida was a far better option. His human form was handsome too, despite all its draconic extras.
+
+"Nymeria, I wish to best your father in battle for your hand," Kaida said bluntly.
+
+"Okay," Nymeria replied without hesitation. "But don't kill him, alright? Just crack his scales and blind him in one eye, and he should accept it."
+
+"Then we have a deal," Kaida grinned.
+
+Ashlock was in disbelief at how straightforward courtship between dragons was, but if he removed their human-like appearances from his mind and imagined them as two giant lizards with wings, the animalistic way of courtship made much more sense. They were prideful dragons that would probably eat their own children if it made them stronger or saved their reputation. These weren't two human lovebirds, despite what it appeared to be on the surface.
+
+"I'll summon him here," Zephyrine said, surprising Ashlock as she got in on the action.
+
+"I suppose she is a monster as well, who respects strength above all else," Ashlock muttered to himself.
+
+Moments later, the shadow of Astralis approaching on the horizon darkened the skies. His wrathful spiritual pressure exploded outward, heralding his approach.
+
+Kaida gently leaped into the sky to await Astralis. The mighty dragon didn't take long.
+
+"KAIDA!" Astralis roared, his booming Qi-empowered voice wiping out every tree between them. "You dare challenge me, the mighty Celestial Star Dragon, to a duel for my daughter's hand!"
+
+"Dare? I don't need your approval for Nymeria," Kaida scoffed as the skies overhead responded to Astralis's power and showed a glowing constellation. Kaida looked up at the technique with disinterest. "Astralis, while I respect your courage to face me in battle, I'm only using you to show off my new power to my master."
+
+Astralis was rapidly closing in. His titanic dragon form was rushing toward them with cosmic Qi burning along his wings. "I don't care what you think you're using me for. I don't care how strong you've gotten; no dragon can steal from my hoard."
+
+"Classic dragons," Ashlock mused to himself. "They treat everything, even their own children, as their property. Astralis is likely more mad that Kaida is so openly stealing from him than anything else."
+
+The power radiating off Astralis suddenly glowed fiercely, and the constellation in the sky brightened. "Let's see an ink dragon stop a falling star," Astralis sneered as he landed on a nearby mountain peak, causing it to fissure.
+
+Soon, the late-afternoon sky turned to midday as a burning ball of cosmic Qi descended upon them. It spiritually compressed the air below it as it fell, making even Ashlock feel its might from so far away through his roots.
+
+Zephyrine swiftly teleported over to Janus in a single step and shielded them with wind. The fact that a Monarch like Zephyrine felt the need to get out of the way and shield the weak despite their distance from the battle told Ashlock all he needed to know.
+
+This was going to be a deadly attack.
+
+Kaida remained unfazed as he stared at the approaching cataclysmic attack unleashed by a peak Nascent Soul Realm dragon.
+
+"Acting superior now isn't going to save you," Astralis sneered.
+
+"It's not that," Kaida said, "I'm just pondering how I can counter this flashy technique of yours with the least effort."
+
+Astralis let out a grunted laugh. "Such confidence from a youngling."
+
+"Age and experience don't win battles," Kaida said calmly. He then unleashed his Monarch Realm soul pressure that he had been restraining since Zephyrine said she would call Astralis. "Authority over this reality is what truly matters. Now, let's see how you survive against what I'm about to show you."
+
+Astralis narrowed his eyes. "You've ascended into the realm of a Monarch. But even so, you shouldn't be able to prevent a falling star."
+
+"We will see about that," Kaida said and snapped his fingers. "Primordial Calligraphy Domain."
+
+In an instant, Kaida's body transformed into his true self. Like an iceberg rolling over and showing the world its true size, he took on his dragon form. He shadowed the entire mountain with his long, serpentine body made entirely from ink, as if the heavens themselves had crafted him from a brushstroke. Compared to Astralis, who was large and mighty, Kaida looked far more mythical, as if he shouldn't exist.
+
+Kaida glanced upward at the looming attack and uttered a single word.
+
+"Consume."
+
+One of the many scales orbiting him shot upward to meet the descending star.
+
+The dragon scale detonated the moment it made contact, imploding as it dragged the blazing mass inward and compressed the falling star into a single, blinding point.
+
+For a single heartbeat, the world held its breath.
+
+Then the light erupted outward, detonating in a supernova high above them. The explosion was deafening as Astralis's attack, which likely would have vaporized the mountain and anyone standing on it, was turned into a celestial firework show by a single one of Kaida's scales.
+
+Kaida turned to gaze at Astralis. "Is that all you have?"
+
+Astralis didn't answer with words and instead lunged at him, exploding the mountain beneath him. Perhaps he thought he could beat Kaida in a melee battle?
+
+Ashlock felt bad for him.
+
+"Bind," Kaida said, and another one of his scales rushed forward.
+
+As with the previous scale, it seemed in his domain, his commands were absolute, as the massive dragon was suddenly bound by an unseen force and crashed headfirst into the peak below Kaida.
+
+What followed wasn't going to be pretty.

@@ -1,0 +1,329 @@
+---
+id: e30f33d2-ce61-5f07-8a96-43ff850c1195
+page-type-slug: story-chapter-royal-road
+title: "175: We have the Technology."
+slug: 0196-175-we-have-the-technology
+partOf: there-is-no-epic-loot-here-only-puns
+position: 196
+ownLength: 3432
+unit: words
+publishedAt: 2023-05-12
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1211187/175-we-have-the-technology"
+royalRoadId: "1211187"
+---
+
+Delta watched as Maestro and Fera pushed the He-Ro bots harder than before, Maestro pulling a double duty of fighting and protecting Numb and Billy’s cocoons of evolution. In the back of her mind, Nu continued the fight against them in the Symbolic Space, using more devious tactics than Delta had used.
+
+The Agility He-Ro nearly crushed the glowing cocoons despite Maestro turning the room into a literal storm of blazing bullets and vines.
+
+“No!” Delta cried out as the robot raised one of its spider-like legs to stomp down.
+
+In a blink, the two glowing eggs were yanked out of range as Mharia held one in each hand with a scowl.
+
+“Metal men… what happened to good old flesh and blood?” she complained.
+
+“Take them down to the next floor. Hide them behind the waterfall,” Delta told her quickly, and Mharia began to move.
+
+“You sure? These are first floor monsters. Not sure what might happen if they get more Mana mid-evolution,” she said, and Delta didn’t hesitate to nod.
+
+“Better odd than dead,” she said firmly.
+
+“This Dungeon in a nutshell,” Mharia sighed and took off, the He-Ro about to jump at her when Maestro intercepted it with his cane, their bodies locked in a struggle.
+
+“A true performer is willing to break a leg,” Maestro warned, and all the mushroom turrets in the room turned to their locked bodies, beginning to fire bullets.
+
+“Maestro!” Delta reached out, but the bullets thundered into the center of the room impacting both Maestro and the He-Ro unit. The barrage didn’t stop until a few seconds later when smoke and dust slowly bloomed outwards like a decaying flower.
+
+“You think this will stop me? The proud bard of the Delta Dungeon?” Maestro called, and the smoke was whipped away as the mushrooms around the room began to twang in notes similar to a stringed instrument.
+
+It was a continuous chord intermixed with two heavy thrums.
+
+Maestro looked wrecked, his suit in burning pieces and one arm gone, and the He-Ro Unit looked thicker in places, producing a near constant whistle that made the air around it ripple.
+
+“It isn’t over until the robot screams!” Maestro declared and buried his cane into the head of the He-Ro unit, causing it to pierce clean through.
+
+---
+
+Fera looked around her ruined tavern, mentally taking note of which liquors would need to be replaced. She and the robot had both grown a few inches, but the robot was still the taller beast.
+
+She had used all her ammo, her mixtures, and even experimented with a few drinks, but she had to admit the robot could hold its drink. She slowly pulled herself out of the wrecked bar as the Strength Unit emerged from a wall, pushing wooden beams out of the way.
+
+The only true change the robot had undergone so far was the massive golden mane of hair it had grown when Fera dunked a Delta Surprise drink over its head.
+
+Unlike Fran, this hair was clearly held together by dreams and hairclips.
+
+“You’re a cold one,” Fera admitted as she rubbed her lips with the back of her hand. The robot only moved closer.
+
+“But you see, unlike you, I don’t have ice for blood,” she spat and held her hand out. Outside the bar, the third unchanged unit watched the fight without getting involved.
+
+Cocky tin can.
+
+She opened her hand to reveal a red crystal.
+
+“I have fire,” she said and crushed the gem, causing a tiny spark of fire to ignite. All across her bar, smashed bottles glinted as their contents spread across the floor in such volume that they formed a thin waterline across the entire bar.
+
+Fera closed her eyes as for the second time in so many days, her bar exploded
+
+Fran better give them hell, or she would bar him for a week.
+
+---
+
+Maestro watched as his cane cracked, huffing to himself in dark amusement.
+
+“I guess you don’t want to join my fanclub?” he joked, and the cane shattered.
+
+His own form followed suit not long after.
+
+---
+
+Fera has been defeated.Maestro has been defeated.
+
+Danger level 7: No loot. No rewards. No retreat.
+
+---
+
+Yattina was rubbing the grass all around her as she scurried about like an insect.
+
+“Binding. Bonding. Interlinked mana of base existence,” she exclaimed. Lim tried to shift her, but she was so lost in her new sight that she couldn’t be moved.
+
+Someone stepped in front of her, and she looked up slowly at the long muscled legs of a Guardgoyle. The muscle continued until she was staring blank-faced. In one eye, he looked like a stoic man-monster with wings, but to the other eye, her new eye… he was a glowing angel of beautifully constructed life.
+
+Thriving, singing, humming life. Tears sprung to her eyes as the angel bent down to be eye level with her.
+
+There was no spark or attraction, but Yattina wept all the same as if she had seen a piece of artwork or heard a passionate sonnet.
+
+“Don’t crush the grass,” he intoned, and Yattina blinked.
+
+“I… what?” she spluttered.
+
+“Everything is Delta. Crush the grass, you crush Delta. Don’t,” he explained.
+
+“Eye see…” she said, and Lim gaped at her.
+
+“What?” she asked, feeling self-conscious.
+
+“W-We should go,” he said, and they turned to see Deo emerging from the feast hall with Poppy in tow. The girl looked annoyed to be disturbed, but since it was Deo, she didn’t say anything clearly.
+
+Just as they were about to speak, the entire Dungeon shook so violently that Yattina was thrown on her rear and Lim nearly went head first into the well, only saved by the Guardgoyle at the last moment.
+
+From the connecting kitchen, a spout of fire raged out, burning a perfect semi-circle in front of the door.
+
+“What in the world?” Yattina grunted as she stood up. The entire Dungeon’s system was going crazy. Turbulent flashes of orange intermingled with flares of deep blue raged like a sea.
+
+The Guardgoyle was also looking at the same thing when he spoke.
+
+“Dark things this way come. You all need to leave as fast as possible before they reach the second floor,” he warned.
+
+What dark things?
+
+Yattina didn’t feel right about this at all, especially those strange voids in the mana sea.
+
+Like deep hungry nightmares that moved ever closer.
+
+---
+
+Delta wished she could do more, but watching Fran emerge from his side of the boss arena as Captain Fran the Defender instead of his base form was… chilling. It turned out his base form had a cap of strength because his only way to become stronger to threats was to transform entirely.
+
+Exponential strength that never ran out was still a bit beyond Delta at the moment.
+
+The Agility and Strength units were trailed by the lone third unevolved unit. The Strength Unit looked to be radiating heat, leaving scorch marks as it walked, and the Agility unit had forgone a head entirely, becoming a round torso with just legs and swords that buzzed harshly.
+
+“What words could I say to such twisted designs?” Fran rumbled, his tall ogre-like body rippling with power.
+
+“Don’t try. I’ve looked into their hearts. There’s only pain,” Delta said, hands clenched.
+
+“Then I shall save them from this existence or perish trying,” Fran roared, Bacon, his steed, charging at a moment’s notice.
+
+The clash between Fran and the He-Ro units sent sand flying everywhere. The Strength Unit was clearly having an easier time than the Agility unit. One of Fran’s massive lances lifted and flung the Agility unit across the boss room, where it landed on the wall and scuttled along like a nightmarish spider, circling around Fran.
+
+The Strength Unit tried to grapple both lances in an effort to keep Fran pinned, but the massive goblin yelled, veins pulsing in his bare neck, as he lifted and then slammed the Strength Unit down with a bigger explosion of sand.
+
+The Agility Unit moved to the exit door, and Delta blinked as it began to employ something similar to Maestro’s sonic blasts, breaking the door down as the Strength Unit and Fran tussled.
+
+Fran managed to aim one of his lances and hurled it with all his might, the air rippling outwards in a harsh boom of sound as the lance flew forth. Delta winced as the Agility Unit jumped away and the lance cracked the door off its hinge.
+
+Fran hadn’t had the time to come to grips with this form’s power…
+
+The Agility Unit was gone before Fran could throw his other lance. The Strength Unit didn’t seem interested in leaving as it charged Fran, its feet shifting to something that almost ‘glided’ through the sandy ground.
+
+The unevolved unit followed the Agility Unit at a much slower pace, almost casually walking through the ruined door.
+
+The two powerful titans clashed once more, metal against infuriated pig flesh and goblin spite.
+
+---
+
+Vanguard the word Guardgoyle stopped before the steps of the third floor, back to the second, as if hearing something. Yattina frowned, but she could ‘see’ two of the dark sucking holes in the mana sea move closer.
+
+“We might not make it to the circus in time,” he admitted, and Lim tensed up.
+
+“What is going on?” Deo asked, all smiles put aside for a serious frown now.
+
+Vanguard was quiet, and Yattina had the strangest feeling he was hesitating because of her.
+
+“Fairplay has sent in robotic units called He-Ros,” he said, his wings covering him like a heavy cloak that obscured some but not all of the tension in his shoulders.
+
+“No,” Yattina said instantly. She wasn’t exactly calling the monster a liar, but the idea that such things had been let loose in a Dungeon with fewer than 10 floors, fewer than 5 even, was ludicrous. Foolish.
+
+Terrifying.
+
+She moved before anyone could catch her. She rushed up the stairs, her heart beating as she ran past the near-still tree that was Wyin.
+
+“Rushing to your death will accomplish nothing,” Wyin said with a low tone that made Yattina stop for a moment.
+
+“They’re made to not harm people! I can stop them, stop this stupid madness,” she growled back and rushed out of the boss room, knowing fully well that Wyin could have stopped her.
+
+The beautiful and warm jungle she had traveled through before had utterly changed. The sun had dipped, and the bird songs had stopped. In the distance, a near constant buzz droned all around the jungle.
+
+Yattina didn’t know where the stairs to the second floor were since she had used the secondary Dungeon entrance.
+
+In the far distance, a noise like a low groan blared out, and a tree exploded.
+
+Something grabbed her hand, and she turned in surprise to see one of those interesting frog creatures from before that she hadn’t had the pleasure to personally inspect. This one looked odd, all garbed in dark cloth, and even their head was obscured by a strange white woman’s face that looked demonic with teeth like fangs.
+
+“Who are you?” Yattina asked, and the assassin-looking frog tilted its head.
+
+“The shadow on the moon,” it intoned, voice too flat to give any hints of feminine or masculine traits.
+
+“Listen, I need to get close to the units. I need to shut them down,” she insisted, and the assassin seemed to think it over.
+
+“It’s too dangerous,” it decided, and Yattina smacked its arm in frustration.
+
+“You don’t understand. If it keeps adapting, keeps feeding, it will explode!” she yelled into the far too quiet jungle.
+
+“I…” the shadowy frog hesitated.
+
+“I can shut them down. I have the authority!” she pleaded. In the distance, Lim’s voice called to her, and she felt bad leaving him behind, but he was safer back with his friends.
+
+Then Yattina was moving, her vision showing the frog was moving them through vents of… steam?
+
+Scented steam with a hint of lavender, rose, and tragic backstory.
+
+They arrived shortly at a part of the jungle that Yattina hadn’t seen on her tour. A long bridge of sorts where a battle of chaotic proportions was taking place.
+
+Three frogs were fighting off a heavily mutated He-Ro unit. The sight of the machine made Yattina ill, mostly from what her new eye was showing her and the fact that these things had been used at all in a group.
+
+To her eye, the He-Ro unit was a bundle of energy-like flesh strapped around a singing piece of metal. The song was not of love or purpose, but the insane screeching of something that had lost grip of reality long ago.
+
+The largest of the frogs swiped at the far too fast machine with a large staff, making cleaving attacks that left chips in the bridge. The second frog was a much older one that was both commanding the other two and performing frankly impressive martials arts for its given age.
+
+The last frog was the most visually interesting. A cloak-covered frog that was holding a hand up, conjuring forth things that were of the Dungeon but not. They looked like shooting green wisps that emerged from the trees and grass with stout arms and round heads.
+
+When the He-ro unit wandered too close, the frog made a heavy slashing motion with her hand, and the spirits stormed around her like a funnel. The unit clearly didn’t ‘like’ the things as it outright avoided them at all costs.
+
+Yattina stumbled forward, her body being rocked left and right as the battle raged on the big bridge.
+
+She watched as the He-ro unit came within inches of beheading the giant, and she threw her hand out.
+
+“On the authority of Fairplay!” she screamed, pouring every bit of her outrage into her voice.
+
+“I, Captain Yattina of rank two, demand you cease operations!” she said, and her voice carried across the jungle, stilling the sounds of a waterfall, deafening the bees, and ceasing all wind.
+
+The spider-like robot shuddered slowly to a crawl, then jerkily twitched its arms. It turned to her slowly.
+
+“Ack…Acknowledgement. This u-unit is shutting doooo…” it droned and folded in on itself. There was a few seconds before Yattina let out a shuddering sigh.
+
+She wasn’t sure if that was actually going to work! Yattina moved closer to see that the thing had no head anymore and looked like a demented spider. She was going to have words with whoever unleashed these things when she got back to the surface.
+
+There came an odd sound like air hissing, and the undefended body of the unit bent, then exploded outwards as its core was grasped in a clawed hand extended by a steel cord. Yattina saw it pull back in, face frowning in confusion.
+
+Why was the claw red?
+
+She looked down to see that where her stomach should be, there was now a sort of hole where the claw had also tried to yank on her too.
+
+She stumbled back and could barely watch as an unseen He-Ro unit stepped out of the shadows of the far end of the bridge. Right… she had been singular when commanding. She had told the destroyed unit to shut down.
+
+She hadn’t said she wanted all units to shut down. How stupid of her. A rookie mistake.
+
+She was bleeding out, and all Yattina could think about was how pretty the sky was.
+
+What a lovely place to die.
+
+---
+
+Deep inside Yattina’s body, a secondary battle of sorts was occurring. Orange motes banged on bones to demand an increase of red blood cells to account for the loss occurring. The bone marrow didn’t respond, as it was bone marrow.
+
+This annoyed the mana greatly.
+
+There were only two things this mana collective despised.
+
+Gazebos and lazy bone marrow.
+
+It had a moment to think to itself. A body was just a dungeon that… moved, right? A body really was just a dungeon that took food in and produced stuff that other people wanted.
+
+So, if it just ‘pretended’ this human body was a Dungeon…
+
+It stuffed some mana into the bones and demanded red blood cells.
+
+It got… reddish orange brownish ones. That wasn’t quite right, but as the mana went to work, the ALPHA system kicked in and began to assign the excess mana to abilities to prevent mana poisoning.
+
+Lungs? It could do better. Now she could hold her breath much longer! The mana looked at her muscles and just nudged them to be far more compact. A mix of oxygen and mana would skip that pesky mortal limit.
+
+Oh, while it was here, it could turn her liver into a proto-steel!
+
+It reached her brain and found there was zero drive to reproduce or seek fleshy pleasures. The mana saw no defect and moved on. And at last! The Delta Seed replacement! One of the few things in this body that was a work of art!
+
+It just hooked the body up with maybe twice the average connectors than most people might have for their seeds.
+
+It wasn’t cheating. It was min-maxing.
+
+Now, it would work on the anti-gazebo weaponry…
+
+---
+
+Devina reached down, using her magic to heal the deep wound in the human. She was reacting to it much better than Devina thought she would.
+
+She winced as Giant was flung back by the new form, the transformed He-ro unit that had devoured its kin. It had only gained some of its spider-like features, but it retained its head.
+
+“Adapted. Tainted captain weakness. Removed. Command unit in place.” it said with a harsh metallic tone.
+
+“W-w-w-w-weakness removed. Core stability at 35%… error, cannot adapt.” it rambled as it moved forward.
+
+It pointed its hand at Devina as it formed something like a sonic blaster.
+
+“Goal remains. Reach core. Damage core. Return. Strength Unit will return to side soon. We will become one.” it said, and Devina raised up a spirit barrier to protect her, Giant, and Gramps.
+
+The elder frog grimaced as the shield was torn apart a moment later.
+
+“Damage? Why?” Devina demanded, rage in her voice at the idea.
+
+“That is the mission,” it rumbled.
+
+“That explains nothing! What logic do you have for doing this?” Devina asked, hoping to confuse it.
+
+“I exist to serve. I serve. I have a purpose. I am a tool of the god- error. Tool of Fairplay. I am their weapon.” it said as it charged its cannon once more.
+
+Devina covered the human with her body, hoping to at least save her.
+
+“NOT TODAY!” came the sounds of a furious river and power. Devina looked up to see Rale with his fist out, diverting the sound waves with his… muscles?
+
+What a glorious sight. Devina wouldn’t mind nearly dying so much if this happened…
+
+“New threat. You are but one. I will win,” the robot declared as it stomped closer. Rale rubbed his nose with his fingers before he twirled his trident.
+
+“You see one, but I see Bob,” he countered.
+
+“…Error. Element ‘Bob’ not recognized,” it said then a moment later the entire bridge erupted upwards as Bob, the giant worm, swallowed the robot whole.
+
+“Devina, get the guppy somewhere safe. Me and Bob can’t hold back here,” he said as he turned back to the others.
+
+Devina began to shake her head.
+
+“It’s powerful, I fear that-” she began, but he grinned, and her heart skipped a beat.
+
+“Don’t fear, for I will always be here,” he said, and the sun shone down on him, making him almost glow.
+
+“I’ll be back once the human is safe. Do not dare perish on me, or I’ll be beyond upset,” she warned and helped Giant to his feet and let Gramps take the human.
+
+“Hurry back… I can slow it down, but you have the power to truly defeat it, I can feel it,” he said, and Devina moved as she saw Luna setting traps to slow the robot down if it got past Rale.
+
+---
+
+Unseen by the frogs, a form stepped out of the shadows to watch the battle with a tilted head.
+
+Renny made motions of taking off invisible gloves and rolled his neck.
+
+Surely the lord of the rivers wouldn’t mind the Ringmaster taking a shot? There was something delicious inside that robot that Renny simply had to sample.
+
+A sort of in between life and death energy that made his toes curl.
+
+It would be his little ‘midnight snack.’

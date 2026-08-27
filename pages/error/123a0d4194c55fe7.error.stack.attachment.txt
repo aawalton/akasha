@@ -1,0 +1,3 @@
+Error: getPages(<any-type>): TypeError: Failed to fetch
+    at td (https://alanwalton.com/assets/src-CzpkxtOW.js:7:399983)
+    at async https://alanwalton.com/assets/supabase-CNYCKVq3.js:23:53828

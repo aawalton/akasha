@@ -1,0 +1,137 @@
+---
+id: efbf2344-6245-5806-bddc-f72b7082a695
+page-type-slug: story-chapter-royal-road
+title: "Chapter 578: The Auction"
+slug: 0145-chapter-578-the-auction
+partOf: rise-of-the-living-forge
+position: 145
+ownLength: 1819
+unit: words
+publishedAt: 2026-03-24
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3187679/chapter-578-the-auction"
+royalRoadId: "3187679"
+---
+
+“I feel like I’m going to get stabbed.”
+
+Neil’s voice echoed through the dark corridor, repeating itself back to him nearly three times before the echo faded into the emptiness. He held his daggers in a loose but confident grip, his senses keen as he followed the marginally suspicious member of the Menagerie through the shadows.
+
+The armored woman before him paused to glance over her shoulder. Her stance shifted, giving him another look at the smooth wood making up her right arm beneath the armor she wore. There was no doubt in his mind that the arm was real wood.
+
+It was a prosthetic, but she moved and used it with such ease that it shouldn’t have been. If Neil hadn’t known better, he would have assumed that the wooden colorization had simply been painted on. But he was more than aware of what had happened during the Proving Grounds. Even if he hadn’t memorized ever detail, he knew enough to recognize a certain cursed wooden arm.
+
+“If I was going to stab you, I’d have done it already,” Olive said. “There’s no reason for me to waste the time wandering all the way out here to do it. I’ve got better things to do.”
+
+“It wasn’t you that I suspected would stab me,” Neil replied. “The Menagerie has nothing to gain from removing me. And I’d be willing to bet that Reya is pretty damn dedicated to their cause. She doesn’t strike me as a cutthroat.”
+
+Olive’s lips twitched into a small smile. “You’re right. She isn’t. So relax. There’s nothing to be worried about. We’re already getting close to the edge of the street. I’ll set you out in a crappy old house and you’ll march forward. No looking back. I’m sure you can understand why we’d rather our secret entrances remain secret.”
+
+“And doubly so for the new ones,” Neil said.
+
+“What makes you say—”
+
+“No dust on the ground. Doesn’t smell like mildew. Only one pathway. Come on. Give me a little credit, please,” Neil said with a shake of his head. “I might be older than you are, but that doesn’t mean I’m hard of the head. I’ve done my fair share of looting and plundering. I know a new secret passage when I see one.”
+
+“Oh,” Olive said. Then she shrugged, turning and starting back off. “Well, keep it to yourself. We’re going out on a limb to make sure you get out of here.”
+
+“There’s nothing to worry about from me. And not that I’d be giving the information away in the first place, but who would even want to try and get their hands on a passage that just leads into your auction house?”
+
+“You’d be surprised,” Olive replied.
+
+The two of them walked in silence for a short while longer. But there was only so long they could walk. The passage really wasn’t all that long, and it was only around a minute later that they arrived at its conclusion, a small wooden ladder that had clearly been a temporary decision that led up a ladder to a trapdoor just above them.
+
+“Convenient,” Neil said. “Thanks for the trip.”
+
+“Don’t thank me too hard. You paid for it, after all.”
+
+Neil grunted. “Yeah. She rinsed me. Does she do that to—”
+
+“Everyone?” Olive finished. “Yeah. You don’t have to feel too bad about that. She’s not one to let any amount of profit pass her by. From what she mentioned when she was asking me to show you out, it sounded like you ended up doing pretty well for yourself. Don’t feel too bad.”
+
+“How reassuring.” Neil gave Olive a wry grin as he reached for the ladder. “I suppose I’ll have to keep that in mind when I’m crying myself to sleep over all the value that she squeezed out of—”
+
+A not-so-distant rumble shook the ground. Neil stumbled, grabbing onto the ladder to keep his balance. His gaze shot up toward the trapdoor, but the sound hadn’t been that close. It was definitely on the street somewhere, but not directly above them.
+
+“Shit,” Neil exclaimed. “Are you serious?”
+
+“Relax,” Olive said, pushing past him and launching herself up the ladder. She pushed the trapdoor open and poked her head out, glancing around before pulling herself out of the tunnels. Her head popped back into view a moment later. “Move it. Get out. That tunnel isn’t that structurally sound. I wouldn’t want to sit around in it if things get serious.”
+
+That was all the motivation Neil needed. He shimmied up the ladder and popped out in the shadow of a ruined house beside Olive. Another rumble shook the ground, this one followed by a number of yells. Something was going down. He started to turn toward it, but Olive’s hand clamped down on his shoulder.
+
+“Not your problem,” Olive said firmly. “Move. Straight ahead.”
+
+“But—”
+
+“We’ll be fine,” Olive said. “I can assure you that we don’t need your help. Not right now. If anything causes us enough trouble to need backup, one extra body isn’t going to make a difference.”
+
+Her words weren’t insulting. There was a matter-of-factness to the way Olive spoke that made it abundantly clear there had been no attack within them. She simply didn’t see a single way that he could be helpful. And, if anything, that was somehow the most insulting thing she could have said.
+
+Do they realize that I’m from Bronze Dragon? A high-ranked combat — oh, who cares. I think the Menagerie have proven they know what they’re doing by this point.
+
+“Best of luck,” Neil said. “Do try not to die.”
+
+“I’ll do my best,” Olive replied dryly. “Now get moving.”
+
+Neil didn’t need to be told twice. He set off at a brisk pace, vanishing down a side alley and leaving the Menagerie’s street and their impossible auction at his back. His bag felt heavy with all the winnings he had in it. But nobody stopped him.
+
+For that matter, this section of the streets was completely empty. Everyone must have been off watching the auction house and whatever was happening back at it. But something told Neil that, no matter who it might have been attacking the Menagerie, they were probably going to be fine.
+
+***
+
+“I have to say, I was really expecting more of a challenge,” Rodrick said, looking down from his spot on the rooftop at the splatter that had once been an assassin.
+
+Uriel shook the bottom of her large, armored boot off. “I was not.”
+
+“Don’t let that ego of yours get ahead of you,” Rodrick warned. “One must always be aware of their limits. Even when they are as powerful as you are.”
+
+“I am more than aware of my limits,” Uriel replied. “But there is no threat posed to me by some fool assassin that thinks they can dash past me and try to break into the Mausoleum by force. What, did he think that the window would be open and we’d have the final few items just sitting around waiting to be grabbed?”
+
+“Never underestimate some idiot’s greed,” Rodrick replied. But he couldn’t help but at least slightly agree with Uriel. This was more pathetic than he’d planned for. Then again, after the Beast, maybe a slightly easier final challenge had been earned.
+
+At the end of the day, we’re still only a fledgling power. Even though we’ve got enough attention to draw people to us, I suppose the massive crime syndicates or truly powerful thieves aren’t going to be mobilising the best of the best to go after us.
+
+Next time, eh?
+
+And it wasn’t like a few scarily competent people hadn’t tried. There had been a number of powerful entities that had joined the auction normally, only to try and sneak out from their rooms and rob either the Menagerie’s stores or others during the auction’s proceedings.
+
+Unfortunately for all of them, they’d had the misfortune of trying that particular trick after eating Lillia’s cooking. And Lillia had grown stronger recently. As it turned out, eating her food while within a building that the Menagerie owned still gave her quite a bit of influence over anyone stirring up trouble.
+
+It wasn’t enough to do anything crazy. She couldn’t make them kill themselves or knock themselves out. They’d probably have had to been eating in the Devil’s Den for something like that. But she’d had more than enough control to send them marching dutifully out of the Mausoleum and into the Devil’s Den during the first auction interlude.
+
+As far as Rodrick was aware, they’d arranged themselves before the demon tree that Lillia had growing in the basement of the den.
+
+There probably wasn’t much of them left at this point. That tree always did seem to be hungry, no matter how many people they fed it.
+
+A brush of ice coiled over the back of Rodrick’s neck and pulled him from his thoughts. He glanced to the right as he found Koyu standing beside him.
+
+“Anything?” Rodrick asked.
+
+“Nothing significant,” Koyu replied. “You?”
+
+“Just a stain,” Uriel said in disgust. “I need a bath.”
+
+“You always want a bath. But it won’t be much longer. The Auction is just about done. You can relax after everyone has left and there are fewer people trying to try something stupid at the last second.”
+
+Koyu coughed into his fist.
+
+“What?” Rodrick asked.
+
+“Not quite correct,” Koyu said. A note of amusement entered the Lich’s voice. “The final item just sold. Quite the price, too. A Dungeon Heart.”
+
+Rodrick’s eyes widened. “Shit. The Dwarven Council?”
+
+“Unsurprisingly,” Koyu said with a nod. “We certainly rinsed them. I hear they’re not happy.”
+
+The corners of Rodrick’s lips twitched. “Good.”
+
+There was a rumble from off to the side. All of them looked over as the gates to the Mausoleum started to grind open, sending dim green light spilling out into the street. No more than a moment passed before people started to pour out from within the building — the participants that had stayed back to watch the VIP section were leaving.
+
+At the same time, members of the Menagerie would be carefully escorting the VIP members out one by one to make sure none of them knew who the others were and to avoid anyone getting murdered on their street. Most of them would have already been removed by this point, taken out during Madiv’s closing speech.
+
+The VIP members would have been told that they were being taken out as a special favor to increase their safety, while each of them was led through a passageway that Uriel had dug a short while ago — one that would promptly be filled and sealed as soon as the day was at its end.
+
+A wide grin pulled across Rodrick’s features.
+
+They’d done it.
+
+The auction had been a success.

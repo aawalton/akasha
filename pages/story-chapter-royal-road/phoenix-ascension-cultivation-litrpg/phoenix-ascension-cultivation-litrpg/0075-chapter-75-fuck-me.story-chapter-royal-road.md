@@ -1,0 +1,233 @@
+---
+id: 017bae75-222c-5572-a4b5-1f31a30c9d00
+page-type-slug: story-chapter-royal-road
+title: "Chapter 75: Fuck me"
+slug: 0075-chapter-75-fuck-me
+partOf: phoenix-ascension-cultivation-litrpg
+position: 75
+ownLength: 2358
+unit: words
+publishedAt: 2026-01-14
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2943782/chapter-75-fuck-me"
+royalRoadId: "2943782"
+---
+
+[Congratulations! Evolution Successful!]
+
+[[Elemental Phoenix] has evolved into [Elemental Phoenix Heir].]
+
+[Welcome to the race!]
+
+[An unknown being has taken interest in you.]
+
+[Achievement: Second Time’s the Charm… wait no- Unlocked]
+
+[Achievement: The Great One’s Eye - Unlocked]
+
+[Beast Core has automatically ranked up from Dormant to Dormant I]
+
+[Skill: Order(Novice) has been acquired.]
+
+[Skill: Ruler’s Authority(Novice) has been acquired.]
+
+The string of notifications I got when I woke up wasn’t nearly as high as the first time I evolved. The process was also painless, like drifting into a nice sleep, instead of what had happened during my first evolution.
+
+Back then, I had no choice, but it was really peaceful the second time around. I didn’t know if I had anything to owe to Yo Na, but her help had been appreciated.
+
+Both of us had returned to our original forms, though, as staying human was a little uncomfortable, not to mention I didn’t have any clothes on.
+
+“Are you done?” Yo Na asked, jumping from somewhere high above. “Is my baby safe?”
+
+“He’s safe, don’t worry,” I assured her, but noticed that her expression had frozen momentarily. “Everything alright with you?”
+
+“You’ve changed.”
+
+“Of course I did, I evolved. Speaking of, how much time had passed? I have places to be.”
+
+Yo Na didn’t heed my question, though, and instead went and dug through her treasury, finally pulling out a mirror. “What? Fine.”
+
+She placed it on the ground, and I looked upon it.
+
+And I was shocked.
+
+I did look different, much more different than before. It wasn’t obvious, but not only had my appearance changed— Going from fully orange feathers with some yellow and red here and there, to orange feathers with yellow and red here and there, AND my chest feathers had become white and all pretty like.
+
+If I was cute before, tiny and yellow, then now I could say that I was even cuter, to the point where I wanted to squish myself.
+
+And there had to be a good reason for that… and I could bet that I knew what it was.
+
+System… details.
+
+Details
+
+[Name: Fa Xiaolan]
+
+[Race: Phoenix]
+
+[Class: Elemental Phoenix Heir]
+
+[Level: 21]
+
+[Hit Points: 3771]
+
+[Equipped Titles: None]
+
+[Bloodlines: Phoenix]
+
+[Cultivation: Qi Condensation: VII]
+
+[Beast Core: Dormant Core I]
+
+[Qi: 5729]
+
+Stats
+
+[Strength: 346]
+
+[Dexterity: 305]
+
+[Perception: 338]
+
+[Charisma: 267]
+
+[Intelligence: 310]
+
+[Skill Points: 15]
+
+Charisma was my lowest, but that didn’t mean it wasn’t a good amount. With it being almost three hundred, it was no wonder that I was so cute. It seemed that without the title, my stats fell by quite a bit as well, but it was worth the price of integrating into human society, at least for now.
+
+Once they would once again stand against me, then that title would definitely come in handy.
+
+I had other things to look at now, but I could feel a certain feline’s intense gaze on me.
+
+“What is it?”
+
+“What’s the plan now that you’ve evolved?”
+
+“Same as usual… fuck. How much time has passed since I started?”
+
+“Time? I didn’t check the sun, but I took a nice nap while waiting for you to get it over with.”
+
+She took a nap… my protector… took a nap…
+
+I heaved a heavy sigh and refused to think about it further. Since she couldn’t tell me how much time passed, I had no choice but to go into the village and see for myself. Either way, I was sure the auction had already started.
+
+But before that, I wanted to check the achievements quickly and the description of the newly acquired skills.
+
+I hadn’t gotten a new element or any water-related skills, but I supposed that was natural, since my new evolution seemed to be more focused on leading.
+
+Speaking of that, though, I couldn’t help but wonder what that unknown entity was, and why it had taken an interest in me. By all means, it was strange.
+
+For a moment, I wondered if it had something to do with the Nemesis tab, but after giving it a thorough check, there were only the same bastards and the Core Formation cultivator. I waved it away, unwilling to look at them for a second longer, swearing revenge in my heart.
+
+System, what is that about?
+
+[Information Locked]
+
+God damn it, I thought we got over that!
+
+[My apologies, but I cannot disclose that information.]
+
+I was tempted to sigh again, but I felt like I was sighing too much lately, and I couldn’t help but wonder why. Anyway, after confirming that, I was eager to see what the achievements were skills were all about. Of course, I claimed them instantly.
+
+[Achievement: Second Time’s the Charm… wait, no- has been claimed]
+
+[+10 Strength; +10 Dexterity; +10 Perception; +10 Charisma; +10 Intelligence]
+
+[Achievement: The Great One’s Eye has been claimed]
+
+[No possible rewards. Entity n%uW = I is watching you with great interest.]
+
+The moment I claimed the second achievement, a shiver ran down my spine before I could even finish reading it. It felt as if someone had peered through the very fabric of space and looked at me. That feeling only lasted for a second, though, and it faded almost as soon as it appeared.
+
+A shiver ran down my spine, and I looked at Yo Na to check if she’d sensed it. It didn’t look like she did, as she looked at me with a confused expression.
+
+Dread coursed through my body at the thought, but since they were only watching me, that meant that they didn’t have any bad intentions, not yet, at least.
+
+However, the knowledge of my every move being watched was… uncomfortable.
+
+It took me a moment to get over it, and when I did, I looked at the two new skills I’d just obtained.
+
+[Bloodline Skill: Order]
+
+[Allows the user to create a ‘party’ with them as the leader. Experience gained while in the ‘party’ gets distributed equally to every member unless the ‘leader’ changes the distribution. While in a ‘party,’ the group is considered an ‘Order,’ and they gain access to everyone’s vital information, such as health points and energy resources. This skill does not scale with anything. The number of people in an ‘Order’ increases with skill mastery.]
+
+[Bloodline Skill: Ruler’s Authority]
+
+[The user has a certain amount of control over species of inferior bloodline and/or level than the user. The user must, however,  have a friendly relationship with the target; the skill will have no effect. The skill allows the user to influence decisions and give commands. While under the effect of the skill, the targets gain certain buffs that scale with the average stats between the user and the target. Members in an ‘Order’ do not have their decisions influenced, but gain the buffs. The buffs for ‘Order’ members scale the same as previous, plus a fifteen percent buff.]
+
+I stared at the skill descriptions with wide-open eyes. Not only was there more information than before, but it wasn’t vague in the slightest! Was this the power of being an heir? You didn’t have to guess what your skills did anymore?
+
+Either way, those skills were… interesting. Clearly, they were all related to being a ruler, but the terms were a little bit strange. I’d gotten used to them by now, or at least I thought, but they kept getting crazier, it seemed.
+
+Not to mention they were crazy good, yet they required me to have… friends? At the very least, if not friends, then followers. It was a crazy concept that I wasn’t sure I could get behind. I always went solo, but if I wanted to win this ‘race’, I had to have a team, or a party, as they call it.
+
+Now that was fine and all, but now I had three skills related to ruling, if you included Lord’s Call, which I never really got to use.
+
+I suppose it was also part of the reason I got the evolution option in the first place? Or was it because I’ve been hanging out with people? It was hard to guess, but I supposed it was hard to find out.
+
+Just out of curiosity, I asked System, and the reply was… well, expected.
+
+[Information Locked]
+
+I wasn’t sure what it was locked behind, but I didn’t bother to ask.
+
+With all of that done, my head was churning with ideas and potential members. The most obvious of which was, of course, the cat watching me fiddle with System screens.
+
+But I supposed it was time to check up on the siblings, then head to the auction. If all went as expected, then I could get an antidote of sorts for the big brother and help the little girl get stronger so she could fight the ciao fatty.
+
+Now that I thought about it, I did have a thunder core I’d yet to absorb…
+
+***
+
+The auction hall was bustling with sound. It was the morning of the first day of the yearly auction, which lasted a total of seven days. Naturally, the auction had yet to start, and patrons who came from all over the continent took a seat and greeted their acquaintances.
+
+Xing Ya Chen looked at them from above, his nervousness reaching a peak after not seeing Fa Xiaolan during the entire time. She hadn’t appeared ever since she gave him the pills, not even for the appraisal, so it was hard to say for sure what she had planned.
+
+Will she even come? Does she even know where we are… Damn it, Miss Immortal, are you not aware that your pills will be the most important item here?
+
+To say he was nervous would be an understatement. And indeed, he was right. The Hu village’s yearly auction, even for the Myriad Market, was a small one compared to the bigger cities. The fact that they were even allowed to auction those pills was a miracle.
+
+What sort of strings did the branch manager pull… Ah, to think he made me stay here. If he had given them to the Golden Arch City branch,h I could have moved there… damn it.
+
+Xing Ya Chen had been eager to change cities since the Hu Village could not even be considered a proper town compared to his origins. However, he had no choice but to sit still.
+
+He had an urge to bite his nails, but knew that it was a bad habit, so he decided against it. Touching his bag of holding, he felt the absence of the pills. Xing Ya Chen still couldn’t believe that he had had such expensive things in his possession.
+
+Naturally, he knew that he had no right to keep them, but it hurt him nonetheless.
+
+He noted that there weren’t that many figures of influence yet, and that would have been the usual for an auction in the Hu Village. However, the branch manager sent out a few messages to the richer people in the area, to the people with more influence, saying that something incredibly valuable has arrived at their branch.
+
+Which was true, but the short notice also meant that they couldn’t be there on the first day, and for that reason, the manager delayed the selling of the pills until later.
+
+Xing Ya Chen himself didn’t know when that would be, but he had hoped that Fa Xiaolan would have shown up for the first day.
+
+Much to his dismay, it didn’t seem like that would be the case. And if she wasn’t there, he didn’t particularly care about the auction.
+
+There were some interesting items, but none that he needed or cared about.
+
+Among the items he thought of, though, was a very rare stone. It wasn’t as valuable as the pills, and it was only a one-time use item, but if used right, it could be priceless.
+
+It revealed the information of any person, item, or beast, stripping them down to what the elders called ‘statuses’. He wasn’t sure what that meant, and since nobody really knew what they meant, the stone wasn’t considered to be very valuable.
+
+The fact that they had one here was rare, but not something anyone would ever go crazy for. After all, what was the use of a one-time use item that showed you information you couldn’t interpret? Thus, it was considered a fancy party trick and nothing more.
+
+Besides that, the yearly auction presented the usual. Items considered valuable for the area but trash in others; it was a matter of perspective, and Xing Ya Chen’s perspective was rather twisted.
+
+He retreated from the balcony where VIP’s would soon be seated and decided to return to the Heavenly Pill Pavilion until it was time to sell the pills.
+
+It was then, just as he turned, that the door to the auction house opened, and the entire room fell into silence.
+
+His heart skipped a beat as he looked at the figures entering, and his jaw dropped almost all the way to the floor.
+
+There, right below him, was the immortal he admired so much, Fa Xiaolan, somehow becoming even prettier andmore attractive than before. The air about her had changed, taking on a mystical charm he could not put his finger on.
+
+And if that wasn’t shocking enough, accompanying her was a woman of such beauty that it was hard to look away. He wasn’t sure if the two were related, as they looked quite alike, and every different time. Like two sides of the same coin, yin and yang walking together, grabbing everyone’s attention.
+
+Following behind them was a girl he’d never seen. She was tiny, probably no older than ten or eleven, but he could sense a powerful aura within her.
+
+Fa Xiaolan must have sensed his gaze, as she looked up, and their eyes met. It was then that a fire seemed to have lit inside his stomach, and his heart simultaneously raced and skipped a beat.
+
+She smiled and signaled for him to come down, and in that moment, there was only a single thought in his head.
+
+Fuck me.

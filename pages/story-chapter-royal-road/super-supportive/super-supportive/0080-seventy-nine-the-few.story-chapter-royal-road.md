@@ -1,0 +1,850 @@
+---
+id: 47406a23-c582-51de-9be4-0bea3254f185
+page-type-slug: story-chapter-royal-road
+title: "SEVENTY-NINE: The Few"
+slug: 0080-seventy-nine-the-few
+partOf: super-supportive
+position: 80
+ownLength: 5849
+unit: words
+publishedAt: 2023-10-04
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1363774/seventy-nine-the-few"
+royalRoadId: "1363774"
+---
+
+.
+ 
+ 
+Alden stretched out on the bench where he'd planted himself after his interview had ended. The weather outside was pleasant enough, and it seemed like a good place to decompress and kill time. He turned his thoughts toward his priority contact list, and it appeared. His attention lingered on Boe's name at the top for a few seconds. Boe would have had so much to say about his magic, the interview, and all the people he'd met today. The more time passed without hearing from him, the more Alden dwelled on random details of their last few days together, as if they had some special significance. 
+He was upset about me moving away and leaving him behind. He said so. He hardly ever admits stuff like that. But then he turned the conversation right back to what was going on with me, and I let him. Then Skiff was watching the consulate, and we were researching powers, and Hannah's funeral... It had all happened in a couple of days. Those couple of days had been insane, and the insanity had all centered on Alden. It would have calmed down, if things had gone the way they expected. Alden would have gotten his head on straight after coming back from LeafSong, and he wouldn't have just brushed past the fact that becoming Avowed meant leaving his oldest friend behind for good.
+ 
+What if that was the last time...? 
+ 
+He threw the thought as far away from himself as he could and selected Jeremy's name from the contact list like it was a lifeline."Hey!" Jeremy said as soon as the call connected. "How'd it go, man?" 
+
+
+He was in the backseat of his dad’s car. His family was taking a trip this weekend, and his older sister, Sarah, was leaning over in her seat to see Alden’s face on the cell phone screen.
+
+
+“It was an eternal morning,” said Alden. “An S-rank Ground Shaper from Manila gave me a flower, and we had our first ever fistfights together. I ran around a track in every possible way you could imagine except for normal running. I met a lot of people, fought some of them with an umbrella. I had an interview with some superheroes.”
+
+
+“All Jeremy’s done today is drop a fried chicken sandwich on the floor of the car and then eat it anyway,” Sarah informed Alden.
+
+
+“What else was I going to do? Let good food go to waste?”
+
+
+“There was hair on it!”
+
+
+“There was not. And even if there was, it probably belonged to someone related to me. So it doesn’t count.”
+
+
+“Gross.”
+
+
+“Family germs aren’t real germs,” Jeremy said. “Tell her, Alden.”
+
+
+“Alden’s got class. He’s not going to agree with that.”
+ 
+“If I could eat floor chicken right this second, I would,” Alden said with a grin. “Sorry, Sarah.”
+
+
+“Told you.” Jeremy adjusted his seatbelt. “You’re done with everything now, right?”
+
+
+“I just have a long lunch break ahead of me. They make the final decisions this afternoon. We’re supposed to stay on campus and wait to hear if we got in." He sighed. “I don’t think I did. The assessments didn’t go badly, but my interview was…well, at least one of the interviewers thinks I’m a waste of time. And the other two only asked me the blandest questions. It was like they didn’t really care what my answers were.”
+
+
+“Screw them, then." Sarah spoke passionately. “They don’t deserve us.”
+
+
+“Us?”
+
+
+“She just had a bad scholarship interview,” Jeremy told him. “I guess that makes you bandmates or something?”
+
+
+“You rose from the dead!” Sarah said. “Did any of the other superteens do that? No! They did not. They should be begging you to come to their school.”
+
+
+“I wasn’t actually dead.”
+
+
+“And we’re very glad about that!” their mom called from the front seat. “But, Alden, don’t encourage my son to eat things off the floor. We’ve only just gotten him civilized.”
+
+
+“Sorry, Mrs. Levi.”
+
+
+For the next few minutes, he watched the Levis chatter. Jeremy, his parents, and his sister had always seemed like a wholesome sitcom family. Alden was sure it was different from the inside, but he couldn’t help being slightly fascinated by them.
+
+
+A text notification popped up, and when he checked it, he found it was from Maricel. [I am at Cafeteria North.]
+
+
+Is that an invitation?
+
+
+“I think someone wants me to have lunch with them,” Alden said.
+
+
+“You can’t tell?” Jeremy asked.
+
+
+“They just told me they were at the cafeteria.”
+
+
+“You should go. It can’t be that interesting to watch me and Sarah argue about whether the animals we just saw out the window were goats or sheep.”
+
+
+“They were hair sheep,” said Alden. “I saw them, too, but I didn’t want to side against you.”
+ 
+
+
+********
+ 
+
+
+Cafeteria North was the university campus’s largest dining hall. There were plenty of other places to eat, including a dining hall and a coffee shop for the exclusive use of students in the high school, but it seemed like almost all of the applicants had chosen to eat here today.
+
+
+It wasn’t open to the public, so for most of them, this would be their only chance to try it out.
+
+
+It’s even cooler than it looked in pictures, Alden thought as he passed through a short hallway that was themed to look like an alley between old buildings. A moment later, he found himself standing in a place that might have been transplanted here from a postcard. The university website said the cafeteria was “an homage to the most beautiful city squares in Europe,” and though Alden didn’t have the real-life experience to say whether or not they’d gotten it right, they’d definitely made it impressive.
+
+
+The floor was cobblestone. The transparent ceiling overhead was so perfectly clear it would have been difficult to believe it existed if not for the lack of Anesidora’s usual wind. And the different food options took the form of individual restaurants around the edges of the square, complete with indoor or “outdoor” seating options. 
+ 
+At the center of it all, was a giant marble fountain. On weeknights, there was supposed to be live music from student bands, but right now there was a soundtrack of people singing in German.
+
+
+The cafeteria wasn’t particularly crowded, even though they were in the middle of what should have been the lunch rush. Alden assumed a lot of students took advantage of the weekends to get off campus and enjoy the rest of Apex.
+
+
+He found Maricel sitting at a table under an umbrella, just getting started on a steamed seafood platter that looked like it was meant to feed three.
+
+
+“You cut all of your…um…” Alden stared at her. “Your hair looks nice!” 
+ 
+He sat in the chair across from her and pulled his own lunch out of his bag.
+
+
+“It looks like I asked a Meister of Knives to chop it all off for me with five seconds left before a duel.” Maricel was twisting the tail off a whole lobster. “The first girl I fought grabbed me by my ponytail and dragged me around the dueling block. So it had to go. My mother is going to cry when she sees it.”
+
+
+“I know a Rabbit who’d love to work on it for you.”
+
+
+Maricel shoved lobster meat into her mouth with a hand and glared at a clam. She seemed a little more feral than the last time Alden had seen her.
+
+
+“…how was it today?” he asked. “Other than the ponytail grabbing.”
+
+
+“I did all right. Maybe. <<I don’t know>>. It’s a <<blur>>. Did you win any at all?”
+
+
+“Are you just assuming I lost all of my fights because I’m a Rabbit? Rude.” Alden opened the lid on his takeout container. “I definitely won one. And lost two. And the others were more complicated…more people involved…but I don’t think I did badly at combat. Especially not compared to most of the other B-ranks I saw.”
+
+
+“Your evals?”
+
+
+“They haven’t come in.”
+
+
+“They will soon," she said. "Mine showed up an hour after the combat assessment finished. It’s just a paragraph of notes from the heroes watching you. One of the Shapers gave me permission to contact them and talk about it more, though.”
+
+
+“That’s really great, Maricel! That means they thought you were a serious contender, right?”
+
+
+“I don’t know. The interview was bad. There is a boy sneaking up on you.”
+
+
+Alden turned in his seat to see Kon, wearing an innocent expression, standing a yard away.
+
+
+“I wasn’t sneaking!” he protested, holding up his hands. “I was walking normally. Are you two saving seats for other people from intake, or…?”
+
+
+“We don’t like the other candidates from intake,” Maricel said. “We fought with them on the bus.”
+
+
+“We didn’t,” said Alden. “It was just a tense morning. And I don’t even really know any of the other people from the bus.”
+
+
+“I don’t like the other candidates from intake,” Maricel clarified.
+
+
+“You do like shellfish, though,” Kon said, his eyes on the enormous platter of food.
+
+
+“It was free.”
+
+
+Kon grabbed a chair beside Alden, and Alden carefully put his arm between the Adjuster and his lunch.
+
+
+“What are we having?” Kon asked, smiling and peering into Alden’s container.
+
+
+“I am having vegan chili, chips, and guacamole. I don’t know what you’re having.”
+
+
+“You should both get the free food,” said Maricel.
+
+
+“I already ate,” Kon replied. “But there’s a lady who comes through the square every now and then with a waffle cart. I’m going to sit here until she reappears. Or until Alden decides to be friendly and let me taste his magic chili.”
+
+
+“It’s magic?” Maricel said, standing up from her seat to look at Alden’s lunch. She frowned. “It looks healthy.”
+
+
+“It is healthy,” he said. “I am a lowly B-rank who has to maximize everything, so everyone knows I deserve to be here. You S people eat your waffles and your lobsters, and stop drooling over my nutritionally balanced lunch.”
+
+
+“It smells like my grandma made it,” said Maricel, sniffing the air.
+
+
+“It smells like my grandma made it, too,” said Kon. “That’s how you know it’s magic. One of them hates to cook, and the other thinks growing boys have to be fed meat at every opportunity. I don’t think she’s ever encountered vegan chili in her life.”
+
+
+Then he looked at Maricel. “You’re an S?”
+
+
+She nodded.
+
+
+“She’s a Shaper,” said Alden. “Ground.”
+
+
+“That’s a good subclass for hero work! Hey, since nobody else is sitting with you two, I’m inviting some people I know over to meet you.”
+
+
+Maricel narrowed her eyes at Alden, as if this was somehow his fault, but it couldn’t be helped now. Kon was already saying, “Yes, we’re in front of the fish place,” to someone through the System.
+
+
+Alden scooped up some chili and guacamole with a chip and leaned across the table to set it on top of one of Maricel’s shrimp. By the time he sat back down, he was another chip short, and Kon was making crunching sounds.
+
+
+Watching the expressions on their faces was almost worth the loss of the food.
+
+
+Maricel held a hand over her stomach. <<It’s warm,>> she said in a breathless voice.
+
+
+“Now I know what it feels like to be embraced by an avocado,” said Kon.
+
+
+They both stared at Alden’s remaining lunch with big eyes.
+
+
+“No way. Get your own private chefs.”
+
+
+A few minutes later, Alden was completely surrounded by Anesidoran teens. Kon had dragged the neighboring table over, and there were now nine people sitting together, with two more on the way after they fetched their lunches.
+
+
+They were all varying amounts of nervous and hyped, and the conversation was all over the place. Alden had given up on catching everybody’s name, and he was just letting it all flow around him.
+
+
+How did I end up at the popular kids’ table?
+
+
+That was what it seemed to be—a transplanted collection of cool kids who all knew each other from school had found themselves here together. They were mostly a year younger than him; they’d gotten their S’s and A’s right on schedule. A couple of them were unhappy about their subclasses, but most had managed to trade into exactly what they’d planned for. Everyone was worried Kon had made a mistake with his choice and would have to go to CNH Sciences instead.
+
+
+It’s crazy that they’ve always known this was where they were headed.
+
+
+For everyone in intake, it came like a lightning strike. Or a lottery win. There were people still walking around in a state of shock months in, trying to get used to the idea that their lives were not going to be anything like they had thought.
+
+
+Even if you’re someone who wanted it, like me, that’s not at all the same as knowing you’re going to get it and really understanding what it is you’re getting.
+
+
+Just listening to them talk was highlighting the worldview differences and the experience gap. Some of them had their talent choices mapped out for the next five years. Their combat evaluations were trickling in, and the excitement about the names of the heroes who’d watched their performances was high but definitely different than it would have been if Alden had been sitting with other “globies.”
+
+
+“Titania gave me advice about balancing my stats! She was my aunt’s roommate in college.”
+
+
+“Blade of Red was one of my evaluators…he thinks I’m stupid. Next time I see him around Harmonia Promenade I’m going to have to hide my face.”
+
+
+They’d been sitting around for almost an hour when Alden’s own evals finally came in. Everyone else had been loudly announcing when they received theirs and reading some of the comments out loud. He glanced over his and winced.
+
+
+They were complimentary. Judah Blake—an Adjuster who’d risen to popularity when he’d caught a speedster in a flashy lightnet spell on an interstate during rush hour—even said he’d enjoyed watching Alden more than any of the other students he’d evaluated today.
+
+
+But there was a clear note of, “You did really well for what you are,” in three of the evaluations. And while Arjun Thomas’s critiques and compliments were thoughtful and implied that he was taking Alden’s ambitions seriously, there was also an uncomfortably strong warning that he should be resting right now and not letting people “push him into things.”
+
+
+What people are pushing me into what things? Alden wondered, baffled. Also, how is it not unfair for Mr. Thomas to be my evaluator?
+
+
+Alden didn’t know whether the superhero would be biased in his favor or against him, but it seemed really unlikely that he wouldn’t be biased in some kind of way. Unlike Hannah, the Brute had always kept his distance. But if Alden had been trying to evaluate Arjun, his own emotions would get in the way. He didn’t see how it could be much different in reverse.
+
+
+[Did you finally get them?] Maricel texted.
+
+
+She was crammed in between a tall boy with a mole on his nose and a petite, anxious Meister girl with bob-cut black hair. She and Alden had been texting occasionally for privacy. Maricel couldn’t do it mentally, so Alden always knew when one was incoming, since her fingers started waving around.
+
+
+[I’m doomed,] he texted back. [They feel sorry for me and think I should do some other meaningful thing with my life.]
+
+
+At least nobody else in the group was likely to ask him to share. Kon was busy trying to carry on three different discussions at once, and the others had started treating Alden like he didn’t exist after the initial novelty of having a Rabbit in their midst wore off.
+
+
+It was absolutely an elitist thing, since they kept trying to cajole Maricel into talking.
+
+
+You couldn’t even blame them for it. They thought she was likely to be chosen. Apparently, she’d been more impressive than she let on during her combat and skill assessments, and chopping off her hair had left an impression on people. Depending on what they thought of their own chances, she was either competition or a potential future classmate.
+
+
+Alden was just some weak boy Kon the social butterfly had bumped into, and he would probably disappear from their lives after today.
+
+
+The waffle cart finally appeared. While everyone was eating hot waffles covered in sinful toppings and Alden was staring at the mountains of whipped cream with longing, they all received a message announcing that the last of the interviews and personal assessments had just been completed. The faculty members involved in the selection process were now meeting to make their final judgments.
+ 
+
+
+[Thank you for all your hard work today. Please enjoy your time on campus while you wait.]
+
+
+ 
+“It’s nice that they tell us,” Alden said.
+
+
+Before anyone could reply, another message appeared.
+
+
+[We have one final question for all applicants. 
+Please read through the following legal agreement. 
+If you agree not to disclose the final question, choose I Agree.]
+
+
+Alden was surprised.
+
+
+But he was just about the only one. Except for Maricel, whose brows had lifted, the others were still chewing on their waffles and talking about other things while they made scrolling motions in the air.
+
+
+Maricel shrugged at him.
+
+
+Alden selected the “I Agree” option, and the final question appeared:
+ 
+
+
+[During today’s combat assessment, injury realism was set to 40-75%, depending on the severity and nature of the injuries received. Students accepted into the Superhuman Studies and Talent Development program here at Celena North High will sometimes be expected to train with minimal or no realism reduction. In the future, combat training may also involve encountering talents that were off-limits on the gym floor today. This includes, but is not limited to, mental manipulation .
+
+
+If you wish to pause your application, you may. If you choose, you may return during a future admissions cycle with no need to redo the written application or pass the first two interview stages.
+
+
+Do you still wish to be considered for admission today?]
+
+
+[Yes/No]
+ 
+
+
+It’s meant to be a shock, Alden realized. Finding out that the injuries that felt so real weren’t as bad as they should have been.
+
+
+The lighter punches and kicks, at least, were most likely close to realism, and it was the things like broken bones, eviscerations, and burns that had been heavily reduced.
+
+
+It makes sense that the pain reduction is a feature of the gym. You need to be able to give the fights consequence and keep people from getting sloppy, but too much pain would just mess everyones’ heads up.
+
+
+Oh, not just pain either. Realism.
+
+
+Alden had thought he heard something in his arm snap when the S-rank speedster hit him earlier. So the gym must be capable of much more disturbing effects when the faculty wanted it to be.
+
+
+He clicked yes. He didn’t feel any hesitation about the surprise question. And even if everyone here thought he stank, he still wanted to get into their school, so what else was there to do?
+
+
+It’s not like there are Artonan-made combat gyms to practice your powers in all over the island. 
+
+
+When he was finished, he looked across the table. Maricel was still biting her lip. She hadn’t made her decision yet.
+
+
+“Whoa,” one of Kon’s friends said. “That whole table is clearing out.”
+
+
+He was gesturing toward a group of other applicants sitting in front of the cafeteria mini-restaurant that served French food. Alden had been glancing at them from time to time because Max was sitting there.
+
+
+“It looks like they’re all B’s. They probably got destroyed in some of their duels, so I guess if they didn’t know it wasn’t completely realistic…” a girl said.
+
+
+<<But that’s Mei from school!>> someone else protested. <<She already knew, so why is she giving up ?>>
+
+
+“Maybe she’s still upset about getting B. She was expecting a higher rank.”
+
+
+“Maybe,” said Kon, watching the people leaving the cafeteria. “But that Adjuster has been nudging the other B’s to quit all day.”
+
+
+“What Adjuster?”
+
+
+“The one guy who’s still sitting at the table.”
+
+
+“His name is Max,” said Alden.
+
+
+“You know him?” Kon asked.
+
+
+“No. I just met him earlier. We had our running test together.”
+
+
+“How do you nudge someone to quit after they spent months applying?” someone asked.
+
+
+“He seems…I don’t know how to put it.” Kon frowned. “He’s cutthroat friendly? And really good at making people mad when he wants to be, too.”
+
+
+“He suggested to a big group this morning that offering everyone the chance to leave combat assessment early could be the school’s way of seeing if we had a reasonable sense of our own limitations,” Alden said.
+
+
+Everyone exchanged looks.
+
+
+“I’m impressed,” one girl said. “That sounds surprisingly legit. Even if it’s wrong.”
+
+
+<<Did he not know?>>
+
+
+“It’s not his first time doing this, so he definitely knew,” said Alden.
+
+
+“Well, he’s evil. Is there a school for villains?”
+
+
+“What a jerk!”
+
+
+You guys all know how everything here works, and it’s not like you tried to give those of us who don’t a heads-up, thought Alden. All day long, the locals and the returnees had had little advantages over the newcomers. There’s a difference but not much of one.
+
+
+Alden thought Max’s strategy was cutthroat, as Kon had said. Definitely not sportsmanlike. But he wasn’t quite willing to call it evil without further evidence. Even the suggestion about quitting after a single duel was just one-upping the school’s own lie.
+
+
+The school gives people an excuse to take the easy way out. Max makes it even easier for them to do it.
+
+
+“The people who really want to prove themselves or test their strength stick around anyway,” said a Sky Shaper wearing a dark blue pantsuit. She sat so straight in her seat that it felt like a condemnation of all the slouchers at the table. “Deceitful suggestions aren’t going to knock you out of the running if you were serious to begin with.”
+
+
+“I was just watching him because I was trying to check out all of the Adjusters,” said Kon. “And then I realized he was winning duels by goading people into kill-shotting him—”
+
+
+“Hey! He’s that guy. I saw that. A spear right to the chest. Ow.”
+
+
+“—I was petrified they’d pair him with Lexi,” Kon concluded. “I texted him so many warnings.”
+
+
+“People who allow themselves to be goaded into kill-shotting aren’t serious candidates either,” said the girl.
+
+
+<<You’re always so self-righteous, Vandy.>>
+
+
+“All of us who've chosen to be here today are trying to become heroes,” Vandy said in a surprised tone. “What kind of hero would throw a spear through someone’s chest because they said something annoying?”
+
+
+A few people shifted in their seats. A boy rolled his eyes.
+
+
+“At least we won’t have to worry about him. He’s just a B. Sometimes they don’t even pick any.”
+
+
+“By my powers, I’m so nervous now that I know they’re doing the final judging,” the Meister beside Maricel said. She shoved her half-eaten waffle aside and pressed her forehead to the table.
+
+
+“By my powers” was the dorkiest bit of Avowed lingo Alden had learned so far. He’d heard a couple of these guys say it. He wondered if it sounded cooler in other languages.
+
+
+“It does feel like we’re waiting for them to decide our whole futures.”
+
+
+<<If one of us doesn’t get in, we can do the late December cycle. We’ll still be able to start in January and have our first full quarter with everyone else.>>
+
+
+“Can I have your waffle if you’re really too nervous to eat it, Tuyet?”
+
+
+“You know, statistically…a lot of us won’t get in,” one of the guys said slowly. “They’re going to accept forty to fifty students today. If all of us got in, we’d be a quarter of the whole group.”
+
+
+“Let’s be a quarter of the group!”
+
+
+“How many people are left anyway?”
+
+
+<<I saw a lot of globies leaving already.>>
+
+
+“So many of the repeaters got cut during their interviews.”
+
+
+“I saw some people crying and having talks with the faculty during combat. I’m sure they left.”
+
+
+“Yeah, plenty of them balked as soon as it was time to duel. Dominic from my class shook his head and said, ‘I think I made a mistake,’ and walked out.”
+
+
+“It was worse than I thought it would be.”
+
+
+“You’ve been training for six months, Justine. What did you have to be scared of?”
+
+
+“You think having people run at you with swords stops being scary because I’ve trained more than them?”
+
+
+Maricel texted Alden, [I said yes to the question. Did you?]
+
+
+He nodded.
+
+
+[Most of them are so confident,] she said.
+
+
+[They are. It’s interesting to listen to them, though.]
+
+
+[Do you think it will be mostly people like these, who grew up here, who get in?]
+
+
+He was surprised she didn’t know that already. [It will be. So many high-ranking Avowed are born here. And you see how much prep time they’ve had compared to us.]
+
+
+He did think this group was being too optimistic about their chances in general, though. A lot of candidates had left, but there were plenty who hadn’t. It would be surprising if this whole friend cluster was accepted.
+
+
+The afternoon wore on.
+
+
+Most of the food places closed to prep for dinner, and Cafeteria North cleared out except for current students occasionally wandering through to grab something from the 24/7 snack shop.
+
+
+Maricel started up a quiet conversation with Tuyet. Alden wondered if it was his imagination or if she was smiling more than she had been earlier.
+
+
+Among the other hopefuls, the energy was turning anxious.
+
+
+“I heard one time they left people waiting so long that they didn’t get home until the next day.”
+
+
+“That’s just a rumor.”
+
+
+“I’ll die.”
+
+
+<<My whole family keeps calling to ask if I know yet.>>
+
+
+“We could go for a run to blow off steam?”
+
+
+“Brutes can go for a run. The rest of us are tired from fighting you monsters.”
+
+
+“We could do tricks with our powers?”
+
+
+“We’ve already showed off all our tricks at school, haven’t we?”
+
+
+“Alden, just preserve us all, so we can timeskip to the good part of the day,” Kon said suddenly.
+
+
+Silence fell.
+
+
+Alden had been resting his head on his arms, trying to plan out how to maximize the next couple of months so that he’d be in better shape to try again next time after the school rejected him. At Kon’s words, he looked up.
+
+
+Everyone was staring at him as if surprised to find him sitting among them.
+
+
+Yeah, hi. I’m still here.
+
+
+“My legs hurt too much,” he said to Kon. “They made me hop around the track like a frog. Backwards. I don’t want to haul your heavy asses around for hours.”
+
+
+Kon grinned.
+
+
+I think I’ve found a pure extrovert. How can he not be tired of interaction after getting this much of it?
+
+
+“Wait, does the Rabbit control time?” another guy demanded. “Because if the Rabbit controls time, you should have opened with that when you introduced him. Instead of saying, ‘He makes a shieldbrella.’”
+
+
+“I don’t control time.”
+
+
+“Instructor Plim would not shut up about the fact that you might control time,” Kon said. “I spent ages with her today. She’s a fan.”
+
+
+“I think she’s a fan of weirdos in general.”
+
+
+“Yeah, we’re her favorites, but—”
+
+
+“Does Alfred control time or not?!”
+
+
+“No,” said Alden. “My skill just prevents time from having an effect on things I’m carrying. I think.”
+
+
+If he really dug into it, he had to start asking himself questions like “What is time?” And then his brain would break.
+
+
+“No wonder, Kon.” The guy looked from him to Alden. “You know he wants his ultimate spell path to be something temporal? Since he’s trailblazing it, nobody knows what the System is going to offer him when he levels. Probably, he’s an overpowered repairman.”
+
+
+“Go bite your mother. It’s pure time control.”
+
+
+“Your object reading skill could be a hub instead of a launchpad. Maybe your next spells are something that make use of it in a completely different—”
+
+
+“Time. Control.”
+
+
+<<If the Artonans could actually reverse time on a large scale, I feel like they would be doing it a lot. And if someone could heal a person the way you fix objects, that would already be happening. And they wouldn’t share time travel with anyone else.>>
+
+
+“Just accept the fact that they aren’t stupid enough to accidentally give human kids a universe-breaking ability.”
+
+
+Kon was ignoring them. “When I become the master of time, I’m going to call myself Kontempus,” he said to Alden. “With a ‘K’. So you have to pick a different superhero name for yourself.”
+
+
+Alden smiled. “How did you know I wanted that one?”
+
+
+“I’ve got a message from the school!!” someone screamed from all the way across the cobblestone square.
+
+
+It happened at the exact same moment that Alden’s own message notification flashed. A few people squealed or swore, surprised despite the fact that this was what they’d all been waiting for, but most of them fell silent.
+
+
+“I can’t open it. What if you all get in, and I don’t?” Tuyet whispered.
+
+
+“Well, it’s on your interface, so it’s not like we can open it for you,” another girl snapped, suddenly irritable.
+
+
+All around Alden, people were freezing or taking deep breaths. They were reaching up with shaking fingers to open their messages.
+
+
+To start with, he watched them instead of opening his own. Ten seconds later, almost every face underwent a massive change. Smiles fell. The boy who’d just been teasing Kon stood and stalked away.
+
+
+“I didn’t…I didn’t get in,” a girl said, her lips trembling. “My whole family went to this school! And I didn’t get in.”
+
+
+She burst into tears, and her friend did the same a moment later. They hugged each other.
+
+
+Alden looked at Maricel. Her jaw was set. She nodded once.
+
+
+In other parts of the room, people were crying, running away from their tables, or in a few cases, shouting with glee. A boy with a bright blue mohawk jumped into the fountain at the center of the square and ripped his t-shirt in half from the neck down.
+
+
+“Jeffy got in!” he bellowed.
+
+
+“Did any of us get in?” A girl with a long ponytail was looking around the joined tables. “Did we all fail?”
+
+
+“I've been admitted,” said Vandy. The Sky Shaper stood up. “I’m going to go tell that boy to get out of the fountain. There’s a sign that says not to do that.”
+
+
+“Only Vandy?” said Ponytail, watching the other girl jog toward the fountain. “I know she’s an S, but…Rodrigo, did you?”
+
+
+He shook his head.
+
+
+“Yasmin?”
+
+
+Yasmin cried harder.
+
+
+“I…I got in,” said Tuyet, looking stunned. “I got in. You guys! I got in! I can go to school with all of you—”
+
+
+Alden winced.
+
+
+“We didn’t get in! Only you and Vandy!”
+
+
+Tuyet’s face fell.
+
+
+“I got in,” Kon said quietly from his seat beside Alden. Despite seeming relaxed enough up until now, he looked very relieved.
+
+
+“Your power doesn’t even do anything though,” one of the others muttered.
+
+
+Kon raised his eyebrows.
+
+
+“Well it’s true, but…sorry. I’m going to go. I need to think.”
+
+
+He stood up quickly and left.
+
+
+“How’d everyone else do?” Kon asked.
+
+
+Nobody answered.
+
+
+“I got in,” Maricel said after the silence had stretched so long that it became awkward.
+
+
+“They only took the S’s.”
+
+
+“It’s not fair.”
+
+
+They had to know better. CNH didn’t only take S’s. They had the advantage, but there were more A’s in the program than there were representatives of the highest rank. It just hadn’t worked out that way for this particular clique.
+
+
+Alden finally opened his own message and read it, already knowing what it would say…
+ 
+
+
+[Dear Alden, we are pleased to inform you that you have been accepted into Celena North’s preparatory program, as a Y1Q2 student in the School for Superhuman Studies and Talent Development. Congratulations! Please proceed—]
+ 
+
+
+What? That’s not what it’s supposed to say.
+
+
+He read it again.
+
+
+They let me in.
+
+
+Excitement ran through him, but it was slightly tainted by confusion.
+
+
+I did it! I guess? Even though Instructor Klein said I was a waste of time…that’s…I think I might have misunderstood something.
+
+
+The sound of a chair scraping loudly on the floor broke his concentration.
+
+
+“You’re just leaving while Yasmin’s crying?”
+
+
+“Yeah,” Kon said, giving all of his friends an apologetic look. “The acceptance letter says we’re supposed to meet some of the faculty and the other people who got accepted in half an hour, so…”
+
+
+Maricel and Tuyet had just shoved their chairs back.
+
+
+Alden stood up.
+
+
+“Wait, did you get in, too?” Kon asked.
+
+
+“I did.”
+
+
+Maricel let out a relieved sigh.
+
+
+That was nice of her.
+
+
+Everyone else was staring. After a second, Kon broke into a smile. “That’s great! That Max guy just blew heaven a kiss and left looking like he was walking on clouds, so I knew he was in. And the number of B slots are so limited…you’re probably the only other one this time. Way to go!”
+
+
+“Thanks,” said Alden. 
+ 
+He could feel himself smiling. He’d dreamed of going to this school for years. And it had been such an unattainable dream. And now it was happening. It was a little too thrilling for him not to feel thrilled. 
+ 
+Despite an undercurrent of disappointment.
+
+
+They half-assed my interview, but it wasn’t because I was pre-rejected. It was because I was pre-accepted. No reason to traumatize and grill the moon victim who’s already got his foot in the door.
+
+
+Damn it.
+
+
+Neha was right. It’s a good thing, too, but…
+
+
+But he’d tried really hard. He’d spent twenty hours on the stupid essay. He’d been training with Bobby as much as she would let him. He hadn’t chickened out during their combat assessment.
+
+
+I’ve been doing my best. I wanted it to matter more.
+
+
+He would just have to make it matter. He was here to train his powers and get stronger. He would do that.
+
+
+Kon clapped him on the shoulder as he pushed his chair back under the table, and Alden smiled at him. “Guess we’re classmates.”
+
+
+They headed toward one of the exit alleys.
+
+
+“What Q did you get?” Kon asked.
+
+
+“Quarter 1,” said Maricel.
+
+
+“2,” said Alden and Tuyet.
+
+
+“Nice. I’m 2 as well. So we’ve all pretty much got the same amount of High ahead of us. Before we hit uni together. And then…the world!”
+
+
+Maricel blinked. “We’re going to be classmates for a long time.”
+
+
+“It’s going to be epic,” said Kon. “Let’s go shake hands with the principal and make our best first first-year impressions!”

@@ -1,0 +1,159 @@
+---
+id: e8efe2b0-d077-594a-a60e-671d74b8f4f3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13"
+slug: 0013-chapter-13
+partOf: the-speed-of-light-monster-evolution-litrpg
+position: 13
+ownLength: 1838
+unit: words
+publishedAt: 2025-08-22
+link: "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2538601/chapter-13"
+royalRoadId: "2538601"
+---
+
+Tachyon could only think of one thing.
+
+Thank god I got out of there… Those horses were giving me very weird vibes.
+
+After winning her one on one with the stallion and leveling up, she had taken the spoils from the chest and skedaddled before anything else could happen.
+
+She was sure that she would lose control over the Controlling Stone quickly after leaving, but she honestly felt that she would have trouble fighting against monsters of her own race if she had stayed.
+
+Surprisingly, she had not gotten a notification saying that she had lost control of the stone. But she simply shrugged and assumed that she would eventually.
+
+Pulling some snacks from her bag of holding, she munched quietly as she looked at the new goodies she had gotten.
+
+Mana Cast Skillet [F-Grade, Common]
+
+Sturdy cooking equipment that may or may not be able to be used as butt armor, or hat, or weapon. Its main use is however, unfortunately, for cooking.
+
+Enchantments: Self-repair, Self-cleaning.
+
+Tachyon’s eyes scrunched together.
+
+Another dud… That’s three in a row! How am I supposed to use a skillet! I don’t have hands! She screamed internally, and then a new use for her mana threads popped into her head.
+
+Slowly but surely her thin strands of mana wrapped around the handle of the skillet. However, her strength and control were not proficient enough to handle the heavy object.
+
+Trying to lift the skillet her threads would snap and break, forcing her to concentrate harder and try again.
+
+Tachyon was not sure why, but she soon found herself focusing more on lifting the object. The new challenge was not only entertaining but was helping her manipulation of mana increase rapidly.
+
+Is this how it feels to have opposable thumbs? I wonder what I could do with this thing anyway? I don’t have a fire to cook anything, Maybe I should just bop something over their head with it?
+
+She thought, lifting it slightly and feeling the weight through the strain on her thread.
+
+A few minutes turned to a few hours as the sun faded behind the mountain. Tachyon was somewhat tired from the mental strain of practicing with her mana thread and decided to bed for a quick nap, another day in the tutorial passing.
+
+Being a monster Tachyon was already adept at keeping track of her surroundings as she slept. Even in the arena she would wake the moment she heard the distinctive human steps.
+
+Only after an hour of sleeping, she heard the shifting of sand, forcing her awake.
+
+It was still nearly pitch black out. But she quickly summoned several light magic carrots to illuminate the surroundings.
+
+Standing she tried to feel for the mana in the air but was unable to find the source of the sound. Letting her magic carrots spread out to light up several spots she noticed something slithering in the sand towards her.
+
+Tachyon began stomping on the ground, trying to kill whatever it was beneath her. However the sand was absorbing some of the power she was putting into her strikes, saving whatever it was.
+
+She began backing away and summoning more carrots at her side, when she felt a tug on the mana string attached to the skillet she had forgotten about. The skillet lifted as she backed away, a long and slender object shooting out from the ground countless fangs bared only to slam into the lifted skillet ringing it like a gong.
+
+Her eyes went wide as she saw the coincidental counterattack of the very spectacular skillet, its mystifying metal thwarting the attack of whatever that was.
+
+The slender thing began to wriggle and move again, and without thinking Tachyon picked up the skillet with her thread, slamming it into the thing again. And then again, and then again.
+
+She heaved a breath of relief when she saw it had stopped moving. But there was no notification telling her she had killed it.
+
+Tachyon lowered her head to look at it more closely, a light carrot also moving to give her a better look.
+
+The slender thing looked like a snake without a head, one end filled with sharp looking spines rather than teeth, its body the same color as the sand it had shot out from.
+
+Suddenly the snake-like thing wriggled and shot upward, causing Tachyon to shriek as the pan slammed into it once more from the side, the metal ringing out as it sent the monster flying.
+
+Quickly she ran over and began stomping her feet on top of the thing, sending several magic carrots at it as well for good measure.
+
+Seeing the notification finally come, she gave a snort, satisfied with the proportional force used to defeat this troublesome opponent.
+
+You have killed, Juvenile Desert Sandworm Level 9. Experience earned.
+
+But before she could bask in her victory the sound of buzzing hit her ears. Tachyon raised her head, summoning more light magic carrots to both illuminate the surroundings but defend herself.
+
+The buzzing began to grow until she saw the reflective sheen in the distance. A swarm of insects flying directly toward her.
+
+She quickly consumed enough of the magic carrots into her shoes, allowing herself to fly and get some distance away as they followed.
+
+Tachyon began to circle the insects, shooting a constant barrage of light magic into the swarm.
+
+You have killed, Desert Drainer Level 7. Experience earned.
+
+The swarm continued its insistent charge toward her, however. Tachyon’s skillet was trailing behind her, still connected by the thread of mana she had created.
+
+And all the while bombarding the swarm with magic carrots, she began swinging the skillet back and forth, each swing creating a gong-like sound as it smashed into an insect.
+
+Tachyon couldn’t help herself from snickering as the sound began to overtake the buzzing as she used the skillet to take the insects out of the air. Sending each one to the ground like a falling star one by one.
+
+After a few seconds of keeping her distance while also plastering insects to her skillet and blowing them up with her magic, the swarm had died down enough for her to begin charging forward to finish the job.
+
+She crashed through the remaining swarm like a car on a highway through a group of mosquitoes smashing on a windshield.
+
+Once she was finished, she felt that not just killing the rest of the insects with her skillet and magic was a categoric mistake.
+
+Landing to the ground as the sun began to rise, only led to her increased dismay. Bits and pieces of broken and smashed insects were strung across her spiked cuirass.
+
+“Grosssss…” she whined. Dropping her skillet into the sand for now as she instead used her thread of mana to pick the pieces off herself.
+
+Never again… Never again will I do that. She thought as her entire body shivered from disgust, a passing thought that she wished she knew water magic lingering.
+
+As she finished cleaning herself as best she could, she realized that after killing so many monsters, she still had not leveled up.
+
+Even though the monsters were all roughly level 10 or below, she had easily killed forty of the Desert Drainers. Perhaps the monsters no longer gave enough experience at her current level.
+
+Tachyon had thoughts on going higher up the mountain, but it may have been time to go through with it despite not finishing her entire journey around the mountain.
+
+There was the seasoning time limit ticking down steadily before the participants joined the tutorial with the monsters. And the fact she wished to get to level 20 as quickly as possible for her next evolution.
+
+She pulled a few grapes and blueberries from her bag as she mulled over the idea, weighing her options.
+
+There was the possibility of obtaining new equipment that would be very helpful, and the Controlling Stones gave experience as well as points that she could use later. On what exactly she wasn’t entirely sure, but it had to be for something good right?
+
+However going deeper into the mountain may give just as many rewards. There was no telling if there were stronger monsters further up the mountain or even more rewards. Well, there was a little telling.
+
+Just like when she had first gotten her here, Tachyon could feel a stronger concentration of mana further up the mountain. That was on top of the eyes that never seemed to stop observing her from the peak.
+
+And then there was the last reason to go to the deeper part of the mountain and towards the peak itself.
+
+The unknown.
+
+The unknown possibility of better and more sweet treats.
+
+With her last thought, that was the nail in the coffin.
+
+Tachyon finished her remaining treats and looked down at the skillet that had acted as a great weapon for her in the previous battle. The skillet had already cleaned itself of all the insect splatter it seemed, which was an effect she wished her cuirass had. But she picked up the tool and stored it for later as she began walking around the mountain once more, looking for a way up the slope.
+
+It took her some time circling the mountain, the terrain turning from the tannish sand back into a thriving forest by the time she found an opening allowing her to climb the steep slope of the mountain.
+
+Climbing, or more like hoping from one dirt platform to another as she scaled the slope eventually gave way to an opening between two large boulders.
+
+Tachyon looked down, seeing just how high she had come. The trees below were just barely above her head attesting to how high she had climbed.
+
+The air felt denser as she breathed in. Not as if it had thinned, but as if it had filled with something else, weighing it down.
+
+She was surprised she didn’t notice, but the air had filled with more mana. Why she hadn't a clue.
+
+Looking around toward the opening, the surroundings looked much like the ground floor below. Dense trees, grass, the chirping of birds. But there was a new heaviness to the area. The mana contributed to it. That she was sure of.
+
+But it seemed there was something else. Something deeper in.
+
+Walking forward Tachyon saw the space open up, surprising her with how expansive it was. Even feeling larger than the ground below.
+
+It didn’t make sense however, she couldn’t deny what she saw.
+
+She moved inward, scouting out the area as she galloped through the trees. Her magic carrots ready to go if she encountered anything.
+
+That was when she smelled something in the air. It smelled of sweetness she hadn’t partaken in before. A new aroma that tantalized her senses.
+
+She did the obvious thing and followed it, eventually coming to a cave entrance.
+
+Her nose going to the sky she breathed in deep, letting the breath out after considerable time.
+
+“Someone cooked here.”

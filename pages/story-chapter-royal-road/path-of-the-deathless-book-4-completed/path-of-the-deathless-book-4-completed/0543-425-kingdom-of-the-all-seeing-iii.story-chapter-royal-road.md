@@ -1,0 +1,223 @@
+---
+id: fcc80a0d-0fb3-569d-8da9-ee73c4ffc8b3
+page-type-slug: story-chapter-royal-road
+title: "425 Kingdom of the All-Seeing [III]"
+slug: 0543-425-kingdom-of-the-all-seeing-iii
+partOf: path-of-the-deathless-book-4-completed
+position: 543
+ownLength: 5762
+unit: words
+publishedAt: 2026-08-06
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3778671/425-kingdom-of-the-all-seeing-iii"
+royalRoadId: "3778671"
+---
+
+ATTENTION, Pathbearer! Your strife rating has exceeded minimum safety thresholds. You are in grave danger. The System has its eye on you. If you continue to venture into the high-risk districts of the Twelve-World City, expect to face countless dangers and extreme threats!
+
+However, it does not need to be like this. If you head to the great Elsewhere Basin District, you will find the Servant-Emperors of Nautapolis and the cities they carry upon their backs. If you are willing to stay for a spell and if you have the wealth and means to purchase a temporary citizenship, your strife can be lowered by a considerable degree, and your every whim will be looked after, so long as you abide by the rules of the contract.
+
+The Servant-Emperors of Nautapolis guarantee the safety of all Pathbearers who dwell upon their colossal shells, rated as the most secure locations for a Master-Tier or lower to start a family without fear of plague, war, or sudden death, and all twelve of the Servant-Emperors possess the Kingdom of the All-Seeing skill, ensuring that even the most hidden threats are detected and promptly dispatched without fail.
+
+Though space in the Shelled Cities is extremely limited, you seem to have an account at the Bank of Mythenmost—a remarkable achievement for a mere Master-Tier! As such, your local Preservers' Lodge and the Farwalkers strongly suggest that you take a relaxing, alleviating vacation into the safest realm in all Integration!
+
+Treat yourself before the System treats you.
+
+(Disclaimer: Upon entering into a contract with one of the Servant-Emperors of Nautapolis, your privacy will be forfeited, and all weapons must be surrendered. Furthermore, a seal will be placed upon your soul in the form of a Blessing that will transform into a Curse upon breaking any local law. It is strongly advised that you do not break any of the local laws, for the Servant-Emperors will not grant mercy to those who perform acts of subterfuge. You will be noticed, and you will be stopped. Do not make things uncomfortable for your fellow guests. This has been a message from the Prefects.)
+
+—Cities of the Servant-Emperors of Nautapolis: The Safest Realm in All Integration (Travel PsyAdvertisement in Chorus)
+
+425
+
+Kingdom of the All-Seeing [III]
+
+Once more, Adam returned to the start of his Delve. He found his reflection staring back at him as before, but something had changed within and without his body. Inside his head, it felt like a brood of burning needles was trying to wriggle its way out from his brain matter. Outside, however, the world began to change, starting with a layering of unattuned mana that crusted over the mirror, usurping Adam's reflection.
+
+What followed was at once disturbing and uncanny. The crust burst open, and a wall of eyes stared back at Adam. In a strange instant, he found himself staring at his own reflection again. But then he realized it wasn't a reflection at all. This was his true self. He had grown a layering of visual sensors that allowed him to peer out from the mirror. But he could hear from it as well. Everything his gaze rested upon grew laden with these new, bright, and piercing eyes, their cores burning like orbs of incandescent mana while their outer irises glowed the color of a vivacious sky.
+
+As the agonizing bloodthirst built within Adam, so too did his infectious Awareness spread. It crept across the entirety of his bedroom in a moment and then continued exploding forth. Information greeted him, and information proved to be the vector of his expansion. Everything he heard became laden with the eyes of his Kingdom of the All-Seeing. Every footstep outside was bestowed with his mana. Everything he saw, furthermore.
+
+It took less than twelve seconds for his Awareness to spread and subsume every square centimeter of Starhawk's Perch, within, without, between every crevice, and then deeper into the soil underneath. It grew along the structural supports like moss. It covered the frescoed glass that he'd burst through before like an additional sheath of reinforcement plating. It crawled higher and further, expanding out like a fungal infection from the castle itself. And it went beyond dead matter. All that was sound carried Adam's Awareness as well. Everyone who walked, who sat, who talked, who could gaze further became catalysts for Adam's growing kingdom, and it was from their Awareness that he siphoned even greater sources of power. Their sight, their hearing, their senses of smell and touch: it all further fueled Adam's new evolution.
+
+It had taken him twelve seconds for him to swallow Starhawk's Perch. It took half that time for him to drown all of Blackedge in his senses.
+
+It wasn't just sight, taste, and sound. He could feel everything as well. There was a level of tactile Awareness that wasn't there before. He could press his senses, run his fingers across every texture of matter that existed within his town. But then he went further. He felt the faint coolness of the sky, and he realized then that a layer of eyes was being painted over the canvas of the firmament above as well.
+
+As he focused on his spreading Awareness, however, he didn't feel overwhelmed, namely because his full consciousness was gliding through the expanse of his kingdom. All that information wasn't flooded into his mind at once; the skill gave him time to process, allowed him the choice to direct the critical mass of his focus.
+
+It was hard to describe his present state. Though there was a bud of pain threatening to bloom inside his brain, the torment grew ever more distant as he focused on his broadening senses. A sublime state of flow took hold inside of him. It wasn't like he stopped hurting, but the hurt was separated from his present thoughts. He sank down inside of him, as himself. As his Awareness drowned the world, so too did Adam drown within his own mind. A trance came over him. He embodied all his eyes at once. He was the totality of his Awareness, and no other thoughts intruded. While he was in the state, he viewed his kingdom and studied everything that moved, everything that was.
+
+While he learned, his senses crept across the horizon, carried by the wind, by the light, by all that could be seen, heard, felt, smelled, and tasted. Soon, Adam’s capacity to witness and imbibe information was beyond even the great Abyssal chasm yawning below Blackedge, passing through the dead city of Lost Angeles west of the town and into the vast wilderness leading east.
+
+Adam glided through the world. He manifested over the world. He became a glove that wore the world. Though he couldn't affect anything directly, he could still feel. He could see. He could smell. He could taste. He was a traveling organ that sensed and savored. Time grew ever slower as his meditative trance granted him all the focus he needed, all the eternities that were required for him to sift through the sea of impulses and feedback that made up the patch of existence he consumed.
+
+He didn't even need to invoke his Divination skill this time. Whisper was already discovered the moment Adam's Awareness crept into the dungeons, and he pierced the spatial veil that the orc used to shroud himself, a bubble that separated the external reality from the internal. It was a potent skill, a fusion of Stealth and Dimensionality, but the barrier containing it was merely a thin threshold, a light membrane that allowed things to cross over at its user's volition.
+
+After all, for Whisper to pull you into his silent world and slit your throat, he had to allow matter to cross over, and Adam's senses were more than merely visual or auditory.
+
+As the Paragon noticed the orc, so too did the orc notice him. The eyes that spread out from Adam gleamed bright, and he learned then that his manifestation of external awareness was visible to everyone else.
+
+Outside Adam's door, Rose was just about to knock when she found herself coated in blinking orbs of azure incandescence. She flinched back, halfway in horror, more out of curiosity. “The fuck's that boy doing now?” she muttered to herself.
+
+At that statement, he snapped out of his trance and emerged. Most of his kingdom collapsed. As he kept his Awareness locked on Whisper, he suddenly realized the depths of his skill. He wasn't going to suffer the immensity of all he tasted, all he felt, all he saw or heard. He could keep patches of reality focused upon. He could channel his Awareness, then pose a focused spotlight on specific areas while the rest of his eyes closed, but they closed slowly, and Adam could still feel the rest of his kingdom waiting for him to bid those eyes to open once more. For he knew if they shut entirely, they would be lost and need to be reopened. That was a problem for later. Right now, there was an orc to slay and a god to face down.
+
+He didn't leave his room this time. He summoned his bow and ignited an arrow. The Shard of Exalted Flame cleaved straight down, piercing through layers of stone, wood, and steel until it struck Whisper. It detonated inside the orc, and Adam strode, his soul and arrow as one. As he emerged from Whisper, leaving the orc's Magical Resistance shattered and the itch inside of him seared clean, Adam noted in surprise that the Challenger didn't emerge from the darkness this time.
+
+Adam stood alone. His presence burned away the shadows, and he found himself the only Divinity in the bowels of Starhawk's Perch.
+
+A series of disbelieving chuckles escaped the downed orc. He lay shaking, as if something fundamental had been shredded from his soul. His eyes looked up at the Paragon, and no longer were they the sickly yellow tint he knew, but azure bright, mirroring Adam's own, sole eye, bereft of the Divinity besides. “That was a wonder. You are a wonder. But what wonder are you, Adam Arrow? What are you?”
+
+The Paragon didn't reply. Instead, he felt the encounter come to an end as the orc vanished from his gaze. Reality shattered. A period of peace followed. This time, however, Adam knew what was coming and prepared himself. He didn't wait for the encounter to start. His Kingdom of the All-Seeing was already expanding, and every eye snapped open once more as he immediately plunged down into a meditative trance.
+
+There, in that state, he couldn't think sophisticated thoughts. Everything he had was committed to viewing, to watching, to observing. He couldn't know and consider the weaknesses that he had laid upon himself, how exposed he was, how undefended, how unreactive, but in that instant it didn't matter either. For the second encounter was one that needed total surveillance, and total surveillance it offered.
+
+When the Encounter started, Adam ended it. It took less than a second. His kingdom stretched beyond Blackedge, and everything within Blackedge was observed. Previously, he couldn't see inside the people. He couldn't place his hand upon their brows to feel the heat swell around their temples, to feel their bodies stagger and shiver as they walked up steps, as they suffered the exhaustive toils resulting from the mere act of strolling.
+
+There were seventy-two infected in total, scattered all across the town. Most of them were concentrated in the patio behind the castle, mingling among the wedding guests. Isabella stood among the patient zeros. Of course.
+
+When he rose, he shot her without a moment's hesitation and felt the sting of regret only in the aftermath. The others were cut down with greater ease. Some of them were scattered among the residential clusters. People he had to eliminate post-haste, for the close proximity of the population there would cause a chaotic spread he just couldn't control. Everyone he struck with his divine aura combusted and died, just like before. Yet the explosions inside of them weren't so intense, for the plague that ate at them was not at the height of its festering.
+
+Even so, a burden of flame and ash lingered in the aftermath. Adam traversed the town, manifesting in the flames he'd cast and sweeping through the rising bonfires in the guise of his Hydromantic form. The waters that made up his Physicality dashed the fires before they could consume wood and rise to greater heights, and with that, he shot himself skyward, materializing over Blackedge in a flash of ascending wings, painting the sky with a new star of azure light before night could ever dream of encroachment.
+
+Sinking down into his Awareness was an addicting thing, made even more so by the fact that it served as a means of respite from the pain that constantly clawed at his flesh. That scream for him to dive down and butcher and bleed and sink his teeth into meat and taste blood and savage and slay. It wanted him to be a reaver, to defile the very idea of his Heroism, to shatter his Domain and make a mockery of his virtues. But Adam refused. Adam sank and drowned himself, only to surface momentarily as he made every subsequent decision thereafter.
+
+This new skill was more than Awareness. It was the acceleration of his thoughts. It was lifetimes lived in a trance of peace and contemplation, of quiet observation. It was that trance that guarded him, that gave him the greatest foundation to endure the torture of the crown.
+
+When the third Encounter arrived, Adam was ready. His Divination had failed him last time, and his Awareness surged blind, seeking the horizon, though he didn't know which. Now he expanded in all directions. He became all directions, and he traveled, carried by all impressions, and so the distance became nothing at all. It was like every curve in the distance, every landscape, was just another patch of existence he could paint with his growing eyes.
+
+He found Vicar Sullain just as he loaded into the Delve. He resided atop Flamecrown Castle of all places, so far inland that it felt like a century before Adam finally got there. When he did, all of Adam's localized eyes locked onto Sullain at the heart of the Republic as the Vicar invoked a chain of crushing wards that spiraled around him and swelled wide. He was in the process of creating a magical fortress. Stones erupted beneath him, and spiraling strings of serpentine flame began to coil about him, creating an animated series of constructs to guard his person. Then he began shaping that spell which had devoured Blackedge in a sea of falling magic. A chain of Dimensionality, widened until it became a chasm, a sea of parting static between his two foremost hands. Adam realized then, breaking from his stupor, that he needed to strike his enemy down now, before the Vicar had the chance to bring his magical dominance to bear.
+
+As Adam surfaced, it felt like he was drowning in the opposite direction. Instead of being spared of misery in philosophy or sensation, now he was returned to his mind but drenched in an ocean of pain where once he knew only bliss and focus. He needed to suffer. He needed to dip from one surface to another. He needed to cross as he survived this, as he used what he had to overcome what was already inflicted upon him.
+
+The shards he fired came in an endless salvo. He invoked These Arrows, My Memory as the past instances of him began shooting as well. One became ten, became twenty, and then more, until the streams of his incandescent projectiles slashed through the storm, scythed off dimensions, and traveled, bearing the power of a nascent god. The first among his arrows pierced through the Vicar's wards like daggers would a curtain.
+
+The interwoven shapes of attuned mana weren't yet concentrated nor crystallized, and Adam caught Sullain unaware, instead of the things being the other way around. Rivers of incandescent flame tinged with an azure glow and fueled by righteous intent struck the Vicar one after another. Adam fired with such frequency across space and time that there was no separation between his arrows. Each one was stacked against another. Each one struck Sullain one after another.
+
+The Vicar responded, quailing back like a serpent struck by a falling hoe. His metallic body twisted and writhed. He tried summoning shields, batting the magic aside, but the first of Adam's arrows impacted Sullain and burned him in more ways than one. Though his Magical Resistance was potent, he still suffered, for his soul was stung. For his nature had been polluted by sin, and before the God of Heroism and Tyranny, sin would see itself made ash.
+
+“No! No! I am not ready! I cannot let you do this! I will not! I will not! I will strike you down! In reality! In this hell! I will not be denied my revenge! Even if this is a lie! Even if I am a lie!” Adam heard Sullain's desperate screams as if the Vicar was right beside him, and he might as well have been, for Adam's Awareness was coiled around him, forming a cylinder that painted the sky above, that dotted Sullain's coiling body, that coated the outer edges of the volcano curving up, that painted the clouds passing by. Everything within that section of the world was a part of Adam. He could feel Sullain as if he had the bastard seized by the throat.
+
+With that feeling in mind and a proper victim to sate his itch, Adam descended, flinging himself out from one of his arrows, emerging in a burst of flame as he exposed himself to Sullain. As he joined in the fight in a frenzy of bloodshed, a berserk state took over Adam, a berserk state that wasn't even made necessary by the skill.
+
+He was fury. He was wrath.
+
+Tendrils of incandescent water coiled out from him as he wielded his weapons, falling and lashing, striking Sullain in a whirlwind of slicing limbs. He tried to conjure spells to dash at Adam, used his Hydromancy to pry him apart. He failed to muster himself as the manifestation of the Paragon burned his soul to the quick. Between the pain and the panic, Sullain's shaped spells collapsed one after another, rendering him only capable of flinging the barest of cantrips.
+
+Even so, the Vicar was an Omnimancer, perhaps the finest magical mind on Integrated Earth. A rainstorm struck Adam. It was a rainstorm of paltry, thin droplets, nothing compared to what he'd faced before. Yet even that almost proved enough. Patches of Adam's Hydromantic form were blown away. Blasts of concentrated Pyromancy threaded thin openings through him, pierced a clean gap through Adam's abdomen.
+
+Adam combusted, becoming the phoenix as he slammed himself down upon the colossal Vicar. He drove his body against his enemy once, thrice, and ten times more, returning the pain he suffered in a Phoenix Riposte: detonations of fire were scarred upon Sullain's presence, but it was his soul that suffered the greater hurt. Burn scars lined his mana, and he faltered and waned, grew weaker as Adam's onslaught continued.
+
+Between the Shards of Exalted Flame, Herald of Deepest Fathoms, and Phoenix Riposte, Sullain crumpled, crashing down on the edge of the Yellowstone volcano. Adam rode him all the way, clinging tight to him using his watery limbs, firing arrow after arrow at point-blank range. Echoing instances of where he once was in the past unleashed their salvos before vanishing.
+
+“Mercy! Mercy! Do not kill me! Get away! Spare me! No more! No more! Do not burn me like you burned my home! I do not deserve this! I do not!”
+
+The Vicar's desperate cries of revenge turned to curdled screams. His colossal vessel, nearly a kilometer long, fell and blasted a furrow down the upper half of the volcano, sending glass and stone flying in all directions. Shrapnel chipped through Adam but passed, as his form was fluid. He rejected any solid damage, and he struck a final blow as he sank his sabre deep into Sullain's forehead and continued pushing further. In his other hand, he shaped his Shard. It burned bright, and he brought it down without even firing it from his bow. More of the same followed, and he began excavating the outside of Sullain's skull. Blow after blow, impact after impact, fire crawling deeper and deeper until the Vicar’s metallic head was pitch black, until his cries became incoherent, until Adam's itch went sated and numb.
+
+For now, only for now. But before he could bring down a final impact to make right what was already wrong, he hesitated.
+
+Adam returned to himself. The frenzy of violence that took hold inside of him broke, and he stared upon Sullain. His skull melted, the man inside exposed. Within the colossal serpent was Sullain as Adam remembered him within the Rubix Well: a withered old man, shattered of his greatest skill, scarred spiritually, ruined fundamentally and irrevocably. He looked out from that chasm of melted glass, his flesh falling away from his bones, coming undone in horrific hives of burn wounds, but his eyes were still bright, still filled with fear. His jaw quivered, and he begged and pleaded, even without words. Adam saw him for the pitiful, broken thing he was.
+
+And Adam remembered, and Adam recalled, Vicar Sullain was already dead. He fell, as pitiful as this creature before him was about to fall, but this clone, this effigy, was not Sullain, not nearly. The true Vicar had slain fifty thousand orcs of Master-Tier and dozens of True Heroes besides in a magical duel before Shiv finally brought him down. Vicar Sullain faced Roland Arrow for months before he finally managed to inflict a near-fatal blow on the town.
+
+Vicar Sullain had been a wretched monster, but above all, he'd been what the cruel hand of fate had made of him. His life was a tragedy unparalleled.
+
+And this pathetic facsimile wasn't Sullain. It wasn't even close.
+
+Adam lowered his Shard, still burning in his hands. He held it by its haft as he deactivated his Herald of the Deepest Fathoms, allowing his Hydromancy to recede back into his flesh. His one real eye met Sullain's gaze. The broken Vicar stared back, his mouth quivering, and his lips shuddering. His eyes rained tears, but they evaporated before they could ever get to his cheeks. He nodded at Adam and bowed his head. “T-t-thank—”
+
+“It's not for you!” Adam hissed, but he wrestled his rage under control before it could overtake him again. In that moment, two things roared inside him that urged to sate his lowest, most base desires: to pretend this was the Vicar and to hurt him as Adam had been hurt inside. But it was something higher, something truer: dominance. Peace. He had defeated his enemy, but he had shamed himself in doing so. He had lost control. Sullain could have been pinned down. He could have been overcome with greater ease.
+
+The mists around Adam began to swell and expand, and far above, above this reality even, something loomed: that palm he brought down upon his bedroom to protect his mother and those few he managed to spare during his last attempt.
+
+He could have used that to pin Sullain down. He could have used that to bring a surgical end to things, to silence all force and violence besides his own. Instead, he fed the violence. He betrayed his Domain.
+
+As Adam looked down, he realized he was bleeding. Parts of him had burst and ruptured, but the damage started from within. It was his soul that was cracked, and that's why there was so much pain, so much more pain than before.
+
+But the Paragon found himself dulled to such a thing. There was always pain. There was always failure. But that was the past and present. What mattered was the future. What mattered was what he did now.
+
+“You're not him, you realize this?” Adam spoke the words more for his own sake than Sullain's, but the false recreation of his dead enemy nodded vigorously as he continued trying to form words. It was then that Adam saw how badly burnt the man's throat was and realized he couldn't muster the power of language even if he wanted to. A bitter laugh escaped the Paragon, and he looked away. “I see the System's game. I see what it's doing. It's tempting me in so many ways. This is about more than my skill. This is about who I am. It wants to break me, or it wants me to break myself. I see you. I see you.”
+
+Adam's rage became something higher. It became exalted. It went from fury, the kind that curdled in your stomach, of a fire that needed to spread and destroy, to something colder, something higher, something absolute. It was one faith directed upon another. It was one faith created in opposition to a present existence, to his present existence.
+
+The System was his enemy. The Challenger might be one of its greatest avatars, but it was the System that wanted this, that made it all possible. It was the System that drove all this strife, all this death, all this struggle, as if there wouldn't be enough of that even without its vulgar hand intervening, giving people incentive greater than even the material to betray their friends, to butcher millions, to slaughter each other for power.
+
+It was codified into the levels. It stained everyone's soul, and Adam was no exception.
+
+Mana. Magic. Legend. That near-inexhaustible fuel derived from ruin and conflict.
+
+But where it wanted war, where it fed chaos, Adam wanted order. Adam wanted to know what it was like just to enjoy a measure of peace, just to gaze at the horizon and marvel at the real world's beauty in tranquility and serenity. He wanted that without worrying about what horrors lingered in the dark, what other dreaded monster he was going to have to kill—that might well finally see him and all those he loved and cherished slain too.
+
+But for that reality to be made manifest, he needed to govern himself. He needed to be his own ruler.
+
+Loathsome as the voice carried by the mists was, it was right about one thing: He had to be the one to hold his own leash. He had to be the one to dominate himself if he wished to turn that dominance upon the world. He should have grasped some of this; Adam realized that now. Shiv's pursuit of virtue was an internalized attempt to structure order, and Adam needed to do the same, but not only for himself, for everyone. A vision came to him, a vision that connected to a dream both he and Shiv shared nearly a month ago back at the academy: a gate eternal, a place of peace and respite. There would be no gate eternal so long as Integration was the way it was, so long as people were the way they were. His mist, his Divinity, needed to spread.
+
+The Challenger was but a facet. The Challenger was but a puppet. A distraction.
+
+Adam needed to choke all that was wrong to death from the inside. He needed to become invincible and anathema.
+
+Something caught him by surprise. The third Encounter ended, and the fourth was to follow. Adam repositioned himself, firing a shard that carried him back to Blackedge. When he arrived, the town remained as it was. Only now did the sun slowly begin to sink. Only now did the moon grow clear on the distant horizon as a patch of clouds parted. Adam waited and waited, wondering what he had to face next, but inside there was a feeling, a guess, and it solidified as the objective for his fourth Encounter loaded.
+
+Initiating Encounter (4/5)
+
+Encounter 4 Objective: Defeat the Deathless assassin before he claims your life.
+
+A tired sigh escaped Adam. “Of course. I get it. I'm the System's weapon, molded to suit the design of your final death, and all that drivel…”
+
+Twilight arrived, with night about to descend, but from above a patch of quicker darkness spread. It gnawed at Adam's senses, filling his very veins with dread. As he turned his Awareness upward, sinking into that trance which allowed his great kingdom to spread, he found his gaze smashing against that impenetrable midnight. To his horror and disbelief, he couldn't see through it. It was as impenetrable and unknowing as actual dark was before his awareness ever evolved, before he obtained his original Path.
+
+A long-distant memory assailed him now, of him as a child, looking down a long and dark hallway, holding a candle, wondering what lurked beyond his sight and his hearing. Crying out for his father when the dread became too much.
+
+He wanted to do that again right now for some reason. It was childish. Pathetic, even. But the urge was overwhelming, all-consuming. Then he realized that he was carried by the dark. The dark was more than just shadow, more than unknowing, more than sound-dampening and sensation-quelling. It was the manifestation of fear of nothingness. It was dread, and from within it, the Deathless would soon arrive.
+
+Where Adam's eyes swept through the world and swallowed everything, it glided and spilled away from the expanding tendrils of black like water, unable to breach the film of oil. Even eternity after eternity, even as his trance ran on, he couldn't find a way through. He couldn't find a way to see without other ideas and options.
+
+Adam surfaced from his subconscious state and used his Divination to see if that would grant him a path out of this crisis. It wasn't so. It gave him insight into his enemy, but the System screamed at him, wailed that the Deathless was here, that he was coming. Yet it didn't tell him exactly where Shiv was. It didn't imprint his location upon space, a set of coordinates for Adam to shoot at. Instead, it represented the Deathless as he would be in the eyes of the System: a colossal flame sweeping across Blackedge, a flame that was great enough to swallow continents, soon worlds.
+
+The flame hit Blackedge first, consuming the town in a devastating blaze of figurative proportions. Then darkness followed. Everything went black and blank. Adam tried to push back. His courage allowed him to slash and shred. He fired his arrows, attempting to pierce the nothing that drew close, that swallowed, that sealed away all that was around him. It was like he was trapped inside a silo, and the space he was allowed to see narrowed from an entire world to that of a few meters at most—and closing.
+
+The Paragon's breath quickened. His heart hammered fast and hard, but before despair could truly find a hold inside his mind, there was one more thing he could do. One more thing that might just see Shiv stop before he struck.
+
+Adam acted. He called upon his Zone of Absolute Dominion once more. A palm slammed down, unleashing the fullness of the skill without anything held back. It struck the dark, held the shadows in place, and parted the dread from Adam's soul, like a hand ripping away moss clinging to a body.
+
+Suddenly, Adam could think, see, and feel again. Adam could breathe again, but a thumb’s width away from his face, manifested in a shroud of gleaming gold and broken mana, was Shiv—pinned beneath his crushing palm at the very last moment.
+
+Yet it wasn't Shiv as Adam knew him. Instead of his friend, Adam saw something sharing the odd design of his eyes: rings surrounded by and filled with dark pools. The creature wore Shiv's armor. It moved like him. It had his skills, but it wasn't him.
+
+Shiv's skin wasn't gray, he didn't have tusks, and his irises weren't yellow. Shiv wasn't an orc, though he'd come close that one time, when he was separated from his friends. He nearly fell before Adam ever did.
+
+The Challenger-claimed Deathless sneered at Adam in a disgustingly familiar expression. “Neat trick, you lucky son of a bitch. Didn’t see that palm coming. Didn’t see it at all.”
+
+Adam swallowed—but his face hardened. He felt his mists waning ever so slowly, but for now, he was the only one with authority within a hundred meters. His vapors warred against the dark and became an impenetrable bastion against whatever this skill was.
+
+But his Awareness failed. Even with how overwhelming it was, it failed him. But it didn’t seem to be a problem of potency, but rather his fear—it felt thicker and harder the more his fear grew.
+
+Then that’s not a problem of Awareness, is it? Adam assuaged himself.
+
+But… something still felt lacking.
+
+“Well…” The false Shiv tried to shrug. “Put me down then, Arrow. Finish me off like the System—what the fuck!” A sputtering growl of surprise escaped him as Adam drove a jet of accelerated liquid through his own head.
+
+There was no point in conversing with this cretin, but there would be a use to him in battle: Adam was here to Delve for a Legendary Skill—and he wasn’t going to come out of this with the second-best choice.
+
+He needed the finest skill possible; he needed something that pierced through all shadows, that defied distance and all limitations he could imagine and beyond.
+
+And he would do this as many times as it took to achieve that.
+
+Again, Adam thought to himself, even as his itch began to return. Again. As many times as it takes. However much it takes.
+
+If he was going to ever rip the System down and shine in place of its foulness, he wasn’t going to uncover that path by debasing himself with weakness and surrender—not even to the slightest extent.
+
+Where the Challenger stood as Adam’s first and unwanted worshiper, Adam took himself as his first and final slave.
+
+Phoenix Riposte 155
+
+Vectors of the Eternal Ascent 284
+
+Herald of the Deepest Fathoms 188 > 190
+
+Zone of Absolute Dominion 250 > 254
+
+These Arrows, My Memory 220
+
+Shard of Exalted Flame 221
+
+The Dark Flees the Dawn 3 > 7

@@ -1,0 +1,377 @@
+---
+id: 3700d292-fb17-57e1-a226-63741cebe6ba
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 402"
+slug: 0100-the-path-of-ascension-chapter-402
+partOf: the-path-of-ascension
+position: 100
+ownLength: 5950
+unit: words
+ownProgress: 5950
+publishedAt: 2025-04-14
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2202076/the-path-of-ascension-chapter-402"
+royalRoadId: "2202076"
+markedReadAt: "2026-06-29T19:21:13.230Z"
+---
+
+Chapter 402
+
+Matt just blinked at his bond, waiting for her to crack.
+
+With a slow smile, Aster broke before he did, adding some much needed levity to the gathering.
+
+Liz flopped onto the long couch in the suite, letting an arm cover her eyes. “Good luck. He's not able to describe much. I pestered him for days.”
+
+Matt held up his hands as everyone, even Susanne and Zack, both heaped insults onto him.
+
+Allie’s might have been the worst. “I curse your scones to be dense and tasteless.”
+
+That was just rude. His baked goods were fantastic and there was no way he’d let them be more dense than they were meant to be, or tasteless.
+
+Still, he let everyone gang up on him, throwing out sillier or more ridiculous insults.
+
+Finally, when they died down, he threw up his hands. “Fineee. It's just confusing is all. It's not like anything that came before that was more tangible. The Truth is weird. I can feel it, and if I act in accordance with it I… I don’t really have a word for it. It's all so new, which is why I wanted to talk to someone who already has a Truth and knows me to get some answers.”
+
+Phoenix Liz, who had flopped over similar to human Liz, uncovered its face and squawked at him.
+
+“I know I said that before, but it's true.”
+
+Zack, however, had a question Matt could actually answer. “Did you create the full thing or do you just have an idea of what it's supposed to be?”
+
+“I might have the full thing? Or at least a candidate, anyway. It feels like how a Truth feels in a mind-echo, but it seems like every time I experience one, there’s always the disclaimer that Truths are tricky things and impossible to actually put into words. Let alone that everyone’s Truth will feel different, so what I’m dealing with could still be incomplete. I get the first part of that, anyway, ‘I Am The Master Of My Own Destiny’ really doesn’t do it justice, it’s so much deeper than that. Like trying to describe your Image, really. No matter what you say, what words you use, you just know that it’s impossible to fully convey, even with telepathy. It’s a sense of profound rightness, something that’s incredibly satisfying to know. It’s like a warm, cinnamony hug around my existence from the Realm itself. I feel it constantly, so that might mean that it’s an enlightened Truth, but also it definitely waxes and wanes a bit based on what I’m doing, so it could be enforced and I’m always enforcing it? It’s a constant whisper from the Realm that I am Right and am doing the Right Thing, as though I can talk to it and get a look at the inner workings for how it all works, deep down. If that makes sense...”
+
+Aster flicked her tail at him, sending a small wave of cold air at him. “I’m with Liz, none of that was helpful.”
+
+Matt pulled her down to the couch next to him. “Not my fault. Domains are weird. I did my best to describe what I’m feeling.”
+
+Susanne took a nearby seat, curling up into it. “I actually think I understand what you're saying.”
+
+Matt perked up. “Oh?”
+
+Everyone looked at the swordswoman, but she simply nodded. “I won’t say I understand all of that, but I think I understand what you meant about connecting the Realm to yourself. I’ve been feeling around for my Aspect and have been meditating over what an Aspect really is. Conventional wisdom calls it the first true connection between yourself and the Realm. At Tier 35 and higher, you are truly starting to become a force of nature. A mover and a shaker in any Realm. That's not a small thing, even if it's small.”
+
+The others seemed confused by her last comment, but Matt thought he understood it. “I need to tie my Truth to myself and through myself to the Realm.”
+
+Liz righted herself and raised a finger. “What does that actually mean though?”
+
+Allie nodded along. “Yeah, I’m lost here.”
+
+Matt looked to Zack, hoping for an answer from the only true researcher of the group, but the newly gray-haired man held up both hands as if to forestall Matt’s hopeful gaze.
+
+Seeing there was no rescue, Matt tried to explain. “It’s… okay, bad metaphor time. What I have right now is a seed. It’s a tiny glimpse at the underlying clockwork of the Realm, and now I need to water it and plant it in good soil and make sure it gets enough light such that it can grow up to be big and strong. But the soil is the Realm, and the sun is me, but I’m also the seed, and the seed isn’t not a tree, but it also isn’t a tree yet, and it still needs to grow up so that the seed is actually anchored in the Realm, instead of just being in a place that it could grow in.”
+
+“What about the branches and leaves?”
+
+Allie's question caught Matt off guard. “I don’t know, I said the example was bad. If I had to answer, I’d say the branches are an enlightened Truth as they reach out, but I think the example falls apart more than it helps.”
+
+Aster jumped to her feet and dragged him upward. “You said things resonated with your Truth. Let's test it. Obvious thing first!”
+
+Matt felt ice start to creep up his legs locking him to the ground.
+
+“Ok, Mr. Master of your own Destiny, I’m locking you in. Use your Truth to do something.”
+
+“That’s really not a good idea,” Liz murmured, a sentiment echoed by Susanne, but Aster was relentless.
+
+Allie poked him with a stick and murmured “Do something” repeatedly.
+
+He didn’t even know where she had gotten the stick from. She hadn’t summoned it out of her spatial ring, nor had she teleported, but he pushed that question off as he turned inward, looking for that little speck that told him the Truth of the Realm, and the way in which he could arm himself with the full might of the Realm itself.
+
+A glimmer of that reality flickered through Matt’s mind, but it was weak and feeble, and the moment he tried to actually touch it, he felt it dent and crack under his fingers, like a Tier 0 ingot of metal. Except unlike the metal, his metaphorical arm began to crack and deform as well.
+
+But he persisted, tapping into his Intent to reinforce his spirit that didn’t feel quite right but worked nonetheless. Unfortunately, he then ran face-first into a second problem.
+
+His nascent Truth didn’t have nearly enough power to punch through that much ice, let alone Aster's ice.
+
+“Tone it down some. My Truth is a seed, not a tree.”
+
+Aster blew a raspberry at him, but the ice trapping his legs thinned until it was more of a suggestion of a restraint rather than an actual inhibitor of his movement.
+
+It didn’t make any actual difference, and as Matt pushed his Truth into the restraint, he felt the glimmer of an Aspect begin to yield well before the ice started to give whatsoever.
+
+“Can you go less?”
+
+Aster rolled her eyes, but the ice thinned until it was mere frost stiffening his clothes.
+
+Closing his eyes, Matt focused on his Truth. It was a layer deeper than his Intent, which was already a layer deeper than his Concept, but it was somehow more a part of him instead of being farther away.
+
+His Truth was almost like a gem shining and spinning, but it was also empty like an egg.
+
+Except all of those descriptions were wrong because his Truth was there. It was just growing.
+
+Matt tried to move, but let the restrictions Aster’s frost put on him prevent his movement, despite being strong enough to physically break through.
+
+At first, nothing happened, but as he let the feeling of being locked in place grow and bubble, he felt his Truth brighten as it reacted to encountering something it found against its principles.
+
+Matt stoked that feeling, and felt Aster’s restriction break.
+
+In practice, the ice holding him in place was hardly doing that, but what little resistance there was had vanished.
+
+It wasn’t much now, even as the spark of light in his Aspect that was his Truth dimmed, but also grew imperceptibly larger.
+
+Matt would have been content with that, but he felt there was more to his Truth he didn’t quite understand. His Truth needed more to grow into a healthy Truth, but it also had depths to it that he had yet to understand.
+
+Part of his journey to make his Truth would be fulfilling both of those requirements, but he had time.
+
+He was already well ahead of where his Tier needed him to be, and he knew he should be content and take his time; but he had a new power and wanted to figure it out immediately and leverage it into more power for himself and his friends.
+
+“And that’s enough.” Liz was there suddenly, hands moving in a sweeping motion and picking up a cloud of red blood - unusual for her, these days - from the surroundings.
+
+Oh.
+
+That was from him.
+
+Matt opened his mouth to speak, but couldn’t get any sound to actually come out. Not that it stopped his spirit from speaking.
+
+“I really think I,” his spiritual perception-speak broke down into the equivalent of a coughing fit, “I was getting close, though.”
+
+“Mmm, yeah, no. We can revisit this later, preferably when you’re already in a healing pod. Zack, could I get a serenity [Reconstitute] on Matt’s upper thigh? Give it a few thousand mana.”
+
+Matt took a look at himself through his spiritual perception, and tried to wave Liz off. She was seriously overreacting, he still had the bones of his left arm, and half his face was absolutely fine. Interestingly, he could even see the faint golden handprint from his stygian gossamer if he used the right senses. The way his lower torso was disintegrating into a starscape was cool more than concerning, and Zack’s spell was patching it up quickly anyway.
+
+“Honestly, it’s fine,” he reiterated while flooding his body with mana, first with his lifesap, then with [Regeneration] to get muscles back in his arm. Essence-control wasn’t quite feasible without them, and [Telekinesis]-ing his fingers was just a pain. “See, it’s fine!”
+
+A stabbing pain in his existence while he was mid-sentence caused his spiritual voice to break, but that didn’t undermine his point that much.
+
+“Uhuh,” Liz crossed her arms, “And if you saw me melting into a puddle, would you be… wait. Bad example. Uh. If you saw me becoming petrified, I’m sure you’d be totally fine with that.”
+
+“Well that’s completely different,” Matt shrugged. Then shrugged again, because the first time hadn’t worked, but the second time he had enough muscle mass back to make the movement visible.
+
+“You, mister, are on bed rest. Stop playing with yourself, or I’ll have to drag you into the other room personally.”
+
+Aster wolf-whistled and Allie laughed, while Susanne and Zack shared a glance at one of the guest rooms.
+
+***
+
+It took three weeks for Jericho and Esmeralda to find them a target, but eventually they did.
+
+Or, they thought they did.
+
+All subsequent tests just found more information pointing to the academies, which prompted the six of them to look into them further.
+
+Matt knew about them in general, but he didn’t really know much beyond the fact that they produced elites. That obviously wasn’t all they did, but it was their main purpose, which made it suspect that they or their people would be hostile against Matt, Liz, or Aster, prompting them to dig deeper.
+
+Most academies started as more competitive higher education.
+
+For the average citizen who only wanted a degree for a job, they just went to a college for their higher education. On the other hand, academies served the exceptional who wanted to go further.
+
+The academies were both more restrictive in who they accepted, and also demanded more from those who passed.
+
+Bracketed in Tiers, low Tier academies taught their students to be well rounded. Even a graduate from a Tier 5 academy would be passingly familiar with all of the crafting skills and a skilled delver having at least one skill, if not more. Academically, they would all graduate Tier 5 with at least two bachelors’.
+
+Many from those academies would then leave as Tier 5s and go out and live successful lives as businesses and low ranking noble families snapped them up, but that wasn’t the end.
+
+If one wanted, they could continue to a higher Tier academy, where they could get their Master’s by Tier 10 while also learning more skills, rounding themselves out.
+
+That went all the way to Tier 20, where one received their Hidden Master’s degree and were considered true experts in their fields.
+
+Their seneschals were that type, having risen their way up and were prime examples of anyone so dedicated.
+
+If that was all, things would have been fine, but people were people, and people were insular. People liked groups, them versus us, and that mentality held true even in academies.
+
+Secret societies and shadowy cabals infested the academy system from top to bottom.
+
+Most were benign, and acted as nothing more than clubs with a shared identity who looked out for each other while in the same academy, but others were far more clannish, requiring lasting loyalty that extended beyond the academy walls.
+
+That painted such a bad picture, Matt called up Cato to ask for confirmation of what Matt was reading, which he provided. At the same time, he cautioned Matt that the document was only half the truth.
+
+One didn’t have to join a secret society. In fact, most academy students never joined one, though not for lack of trying, as those that did join a society tended to do better and go farther, thanks to the challenges and opportunities that being in a secret society brought. They all had different focuses, too. Some made great protective amulets, others focused on secret skill modifications, some taught their members how to be summoners, and more.
+
+After listening to Cato’s comments, Matt asked, “So what do you think of the information about the video being made with an academy’s software?”
+
+“As with all things, My Lord, it depends. If we can find a software that has been published even in small amounts, I’d put my money on someone just using it to distance themselves from the method of making the video. If we can’t find such evidence, and the software seems truly unique, then it was most certainly a society behind who made the video.”
+
+That was close to Matt’s own thoughts on it all, though he didn’t like that. He had been hoping Cato would have better news.
+
+“What's the worst case scenario with the societies?”
+
+Cato took a long time to reply, which only made Matt more nervous. “Worst case depends a lot on the truth of rumors I've heard. Most societies are… harmless. It's a school tradition without much behind it. My own society was of that type, but there were rumors about societies who were far more powerful and demanded steadfast loyalty, even out of the academies. If the rumors are true, the strongest societies are led by dozens of Tier 46s, guiding them from the shadows. These are people who control Empire-wide corporations, guilds, even noble families. Those societies have an uncountable amount of people in various positions inside everything. They could be the principal, a teacher, a lowly janitor, or anywhere in between. Those types also tend to be incredibly loyal to the society. I would caution you, My Lord, that not all societies are like that, and I don’t actually know if any are, but those are the rumors.”
+
+That fit what Matt saw in the government documents, but it only painted a picture he didn’t like.
+
+It wasn’t exactly a surprise that they had high Tier enemies, but a high Tier secret society was about the worst possibility Matt could think of. How were they supposed to get their vengeance against a group whose entire purpose was to be secret? It was doubtful there would be a convenient list of members for them to find.
+
+After sharing what Cato said, Matt went back to looking through the information, but, having a better idea of what he was looking for, he found the relevant notes in the Imperial databases. Clicking into the first, Matt blinked as he checked his permissions to make sure he actually had full access to the document.
+
+There were only a few tens of thousands of words about the secret society, the Dust Fall Order, who, according to the reports, were believed to have orchestrated the downfall of at least one Ducal house, at least three guilds, and over a dozen corporations in their seven hundred thousand year history. ‘Suspected’ being the key word because, as the document made sure to mention at least a dozen times, there was little evidence to link any of the acts to them.
+
+The same went for each of the other five highest profile secret societies.
+
+The Society of Stagnation, the Order of Progress, and the Circle of Ever Flame were Matt’s three most suspected secret societies. The Round Table of New Men and the Rage of the Forgotten weren’t written off; it was just that their modus operandi didn’t quite fit in with what they had seen in any of the attacks on them.
+
+The thought almost made Matt laugh.
+
+All of the societies were known for their secret maneuvering, but the three he picked out were the ones that seemed more likely to have overlapping goals with the three of them. Or believed goals. Everything was speculation.
+
+The Keepers of The Golden Age, or more derisively the Society of Stagnation, hated progress in seemingly any form, and were known for attacking research and development groups while also championing a resurgence of older laws. Because of that, they tended to have more noble members. From the reports, they were a group who rarely found recruits thanks to not accepting anyone they deemed unworthy, which was pretty much anyone who wasn’t from a noble family that was at least a hundred thousand years old.
+
+They would have obvious reasons to attack Matt’s guild, as well as his aura potions. The same logic would apply to Liz’s research group, but it didn’t make sense for Aster’s attacks, as they seemed to have zero involvement with bloodlines unless it had to do with their technical advancement, which wasn’t what Aster was working on.
+
+She had shared what she had learned when they returned to the room, and people had been encouraging her workers who were in charge of winter bloodline materials to be more selective with who got the items.
+
+She had only been able to catch a few of the bad actors, but they were mostly Tier 15s who wanted to keep the prices of winter bloodline materials down. Aster's act of buying them up was hurting more than the Winter Wolves, and they had taken matters into their own hands.
+
+The Winter Wolves had been Aster's initial suspect, but even with eight months of investigation, she hadn’t found a single link to them. Initially, she had been sure they were responsible for stirring the pot, but now wasn’t so sure.
+
+And the Society of Stagnation didn’t have a history of attacking beasts, leaving a question mark there.
+
+It was possible both the society and the wolves were attacking the three of them, but that seemed unlikely.
+
+The second secret society, the Order of Progress, was the polar opposite of the Society of Stagnation and, according to the Empire's information, the two orders were sworn enemies.
+
+That might have made Matt inclined to like the Order of Progress, but they were just a different flavor of bad. They might believe in progress, but the progress they believed in was progress controlled and doled out by them and them alone. Wealth and power were their bread and butter.
+
+Eyria de Solis would fit into their group like a glove, which made Matt suspicious given the timing of the attack so shortly after their confrontation. Was she a member, and attacked them in anger? It seemed too obvious, but it was a possibility.
+
+Additionally, the Order of Progress was also known for its corporate espionage and hackers, feeding into Melinda’s information about them holding the information for ransom.
+
+They wanted to push Empire society forward, but they wanted to be the primary beneficiaries of said growth.
+
+The Circle of Ever Flame was a mixed bag, but still suspicious enough to warrant Matt looking into them.
+
+They weren’t as societally driven as the other two orders, but they were business minded. Almost exclusively so. They had noble families in their ranks, as well as guilds, but their main focus was on accumulating wealth in all its forms and a lot of their members were in charge of corporations. One report estimated as high as one tenth of a percent of all higher Tier businesses were owned or funded by members of the Circle.
+
+They were less about innovation and more about making money, which put them at odds with the Order of Progress, but what made them stand out to Matt was their history of attacking market disruptors.
+
+That description fit all three of them.
+
+The information about the group was speculation, just like the others, with only a few members ever being confirmed.
+
+In addition, it all fit too nicely with Melinda being contacted through information found in corporate espionage.
+
+Or their attacker could have been one of the numerous smaller secret societies.
+
+Thankfully, Esmeralda and Jericho came back just a week later.
+
+“We believe we found where the software originated.”
+
+Liz leaned forward, blocking Allie from doing the same. “Who, what, where, how?”
+
+Jericho coughed. “The how is bet—” Realizing who he was talking to, he stopped and chuckled softly. “Sorry, in the corporate world like this, we usually try to pretend we are doing things legitimately. We hacked into dozens of academy repositories and looked for information about anyone who did anything with video software. We then cross referenced that with people who stopped doing so. That is fairly typical for something you want to keep clandestine. Sifting through that, and comparing the names to the academies they came from and/or still work at, along with the locations of the attack on the generator, we actually found a match. Raffi Opolski, a Tier 20 teaching assistant at the Ravens Loft Tier 10 Academy. He's been there for five hundred years and is well respected by his students and academy staff alike.”
+
+“Could it be a set up?”
+
+Susanne's question earned a nod from Esmeralda. “It very much could. That said, I think not. When he was Tier 5, he developed a video software from the ground up that isn’t noted anywhere except a single personal journal, who complained that Raffi had beaten him in a competition and mentioned how the software wasn’t even that good. Said journal was deleted, which the owner complained about, but we found a backup of it on a scraper server from an illegal pirate website. In addition, when we say we tracked the information burst to him, we didn’t track it to his office or his home. We tracked it to a safe house we have good reason to believe is his. When a fight between delvers happened in the area forty years ago, alerts went out and he flinched mid-lecture at the same time the warning signal was broadcast.”
+
+It was a lot of tangential information, but that was how these things went.
+
+If it was him, fantastic, but if they hit the wrong guy they would have genuinely fucked up. And for all that Matt was angry at the perpetrators, he didn’t want to harm the wrong person.
+
+Allie snatched at the air. “Ok, I have a waypoint just two worlds away. Let's go check out Mr. Opolski and see what shakes loose.”
+
+Liz’s face was hard as she stood. “Let's mask up and go in quietly.”
+
+A second later, after they donned masks, Allie [Teleport]ed them across the Empire.
+
+Matt hated to admit it, but Allie made everything so much easier. Instead of nine months of travel, they had arrived in a second.
+
+Pushing through, they arrived at Ravens Loft Academy, where Mr. Opolski taught.
+
+From their scant information, the academy didn’t have a societal lean, but with just how secret everything was, they wouldn’t be able to tell even if it did.
+
+However, before they even neared the academy Mr. Opolski scanned them and everyone else approaching the academy with his spiritual perception.
+
+That wasn’t suspicious in and of itself, but it was unusual for someone teaching a class to be on the lookout for anyone even entering the city near the academy.
+
+They were Tiers stronger than him, well trained in how to obfuscate themselves, and masked, so went by unnoticed, but it made them far more suspicious of the man.
+
+Making sure to keep their distance, they watched him for a full week before they followed him going to an apartment two cities over that didn’t officially belong to him. There, he sealed the deal by entering a well disguised room even their spiritual perceptions hadn’t been able to find.
+
+The moment he opened it, all of that stealth vanished, giving them a good long look at a very advanced hacking suite, and Allie teleported the six of them into the room. Allie, Susanne, and Zack vanished just as quickly as they had appeared, leaving the three of them.
+
+Liz had appeared directly in front of Raffi, and, with a slight puff of breath, threw him onto the room's couch.
+
+Instead of fear or panic, Raffi laughed self-deprecatingly. “Ah, it was too good to hope I’d escaped notice.”
+
+Liz smiled innocently, cutting his next words off with a squeak as she hardened the air around his throat. “Your next words should be helpful.”
+
+“What do you want me to say? If you're here, I’ve been caught.” He pressed his hands together making it easier to cuff him. “Take me away. I have no objection. I played the game, made a gambit and failed.”
+
+Liz towered over Raffi silently, the smirk unmoving from her face, and Matt could tell she was contemplating just killing the cretin. He could read it in her every move and gesture.
+
+Matt shared a pulse through his bond with Aster wondering if they needed to step in, but Liz spoke before they decided.
+
+“I think you have fundamentally misunderstood your position here, Raffi.”
+
+With that said she hooked a toe under the couch and kicked it into the far wall just hard enough to send dust and pictures flying, but Raffi was held in place by her hardening the air around his wrists and ankles.
+
+“The situation you are in—”
+
+A flicker of fear traced across Raffi’s face, and Matt watched as he realized just how much danger he was in, but it was quickly replaced by calm indifference, and he cut Liz off. “I assure you, you will find torture ineffective. Let us talk like reasonable people. I have information you want, but I’m also willing to die if I must. I always knew that was a risk when I made my move, and death is a better alternative to what you could do to me.”
+
+Piercing the man’s veil with his spiritual perception, Matt could feel Raffi start to spin up his core in preparation to detonate it. It was less of a threat to them and more a threat to their source of information.
+
+It was a good play, if he was actually willing to go through with it.
+
+Few people were willing to actually kill themselves, let alone via one of the most anathema methods. Dying was one thing, but deliberately sacrificing all of that hard work which had gone into one's cultivation took a stern will, even if death was already inevitable.
+
+Sadly, death via core detonation wasn’t so easy while Aster was around.
+
+The air took on a sharp quality as the temperature dropped and ice started to condense on everything, but Raffi drastically misinterpreted the ability as he shouted. “I wouldn’t do that if I were you. I’ll do it.”
+
+His shivers weren’t only from the cold, but Liz held up a hand, and the temperature rose slightly, which seemed to set him at ease and gave him a measure of confidence, but that did nothing to stop the frost that had started to creep onto his cores.
+
+Liz’s smile faded, but she remained silent. Despite the heat, Matt almost quivered at the chill coming from her eyes.
+
+Raffi’s demeanor slowly melted further. “I have information I would be willing to share if you forget all about me.”
+
+“Why did you attack me?”
+
+“Why shouldn’t I? You are a plague to the—”
+
+This time, Liz didn’t wait for him to finish, and slapped him across the face hard enough to crack his jaw.
+
+As he was healing, she calmly spoke. “Don’t insult my intelligence by trying to play up the drivel. You wouldn’t do so after refusing to name your organization unless it was bait.”
+
+Raffi’s jaw slowly moved back into place, and his eyes met Liz’s again, though a small forced smile was now on his face.
+
+Her tone was calm and deadly flat once more. “Which society are you a part of and who ordered you to do the hit piece on me?”
+
+Raffi's smile turned genuine. “I’m far too loyal to tell you that. If I die, the trail ends with me. The society behind me will protect what I hold dear in the event of my death. Here is what I’m offering. I can give you the information about the remaining blood research facilities. In exchange, I go free unharmed and untracked. The society behind me will also back off, despite the repeated provocations you and your husband have been doing.”
+
+There seemed to be real fire in his eyes when he glared at Matt.
+
+Liz stared down at Raffi. “Anything else you’d like to say?”
+
+“I’ll blow myself up.” He clearly mistakenly saw it as an actual threat to them.
+
+Liz shook her head as she crouched next to Matt. “No. No, you won't.”
+
+Raffi tried to spin up his core, but panicked as he found his core chilled and unresponsive as Aster's spirit space fully locked onto him.
+
+Liz leaned in close. “Raffi. If you really were the person who found the blood magic research facilities, you should have the barest inkling of what I’m willing and capable of doing to you.”
+
+Surprising all of them, he spat in her face in a rage, as his carefully laid plans fell around him. “Fuck you, you stupid bitch! You think you're so clever. All your reforms and new rules you’re testing out... You think we didn’t see!? That I didn’t see!? Everyone with eyes can see that you are weakening noble power, ready to push more reforms. Take away from those of us who clawed our way out of the faceless masses and kick us back down. I won’t go back! You do it, but it doesn’t matter for you because you are above the rules as a high and mighty Ascender. But not today. No, not today! If you think me, with twenty minutes of editing, can ruin your reputation, wait until you see what happens to you when I die! You’ll be questioning your own actions when you see the proofs we publish.”
+
+Panting, Raffi stared at Liz as she wiped away the phlegm with a finger, and flicked it back onto him.
+
+What he couldn’t see was the tiny drops of golden ichor that was mixed in with it.
+
+“Does it feel good to get that off your chest?”
+
+Once more, he almost mustered up the ability to speak, but failed as Liz’s ichor crackled and ignited across her body. “While you are really testing my patience, unfortunately for you, I’m not a rabid dog who will snap because you want me to kill you, Raffi. Now I want you to listen to me. I’m more displeased at the group behind you than any emotion I have towards you. I want to know who they are. If you give me that, and the information, I let you go without torturing you. If you're really helpful, I’m even willing to help. Get you a new identity. You joined this society for a reason, did you not? I can probably help you fulfill those reasons.”
+
+“I won’t be—”
+
+Liz cut him off by leaning forward like she was whispering into his ear. “Last chance. Call your puppet master, because you all fucked up and I found you. Now I’m thinking about calling in every favor I have with Shadow, and then go into debt to set her loose on your origination. Every facility she can find, raided the moment your guard is let down. Every agent identified and publicized. She’s got nothing but time on her hands after being so fucking scary that all of the other Great Powers didn’t want to fight her anymore.” Raffi was about to speak when Liz added. “Oh, and you’ll give me the information about the blood research facilities still hidden. You may be willing to die, but I assure you, that isn’t an option any more. You aren’t getting around Wraith's suppression even with that bomb in your brain. I already disabled it.”
+
+“I'd rather be tortured.” The words were growled out with such anger Matt almost respected it. “You’ll get nothing from me, and then you'll have to suffer as you are attacked from the shadows when you least expect it.”
+
+Liz smiled. “Funny you mention that.”
+
+As she spoke Allie, Zack, and Susanne appeared in the room, holding all of the data storage devices from both safehouses.
+
+Raffi quivered as they stared at him, and they could see from his facial tics and frantic eye movements that a decision had been made.
+
+Aster swished her tail. “You've got no cards left. You shouldn’t have let yourself become someone else's sacrificial pawn.”
+
+Raffi’s face settled into horror as he realized he had just lost all value to them.
+
+Staring down at him, Liz smiled. “It's fine you didn’t want to talk to me, but I’m sure the Imperial investigation team can get you to talk. After that, you’ll be destroying asteroids and recreating them for a long, long time.”
+
+A quick [Teleport] from Allie, and they left him at a secure facility where the professionals could take a crack at him.
+
+They would surely get some information out of him and it was only a question of which was faster to crack: Raffi or the data.
+
+If worse came to worst, they could always ask Kurt, their former Trainer when they were on the Path, to mind control him. They had discounted it because of how much they knew he hated doing so, but it was always an option.
+
+Leaving the man as Imperial agents confined him, the six of them returned to the Capital.

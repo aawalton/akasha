@@ -1,0 +1,897 @@
+---
+id: 68a0083c-8931-567d-adda-5d46283da938
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED EIGHTEEN: Unfolding"
+slug: 0119-one-hundred-eighteen-unfolding
+partOf: super-supportive
+position: 119
+ownLength: 6395
+unit: words
+publishedAt: 2024-02-12
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1515215/one-hundred-eighteen-unfolding"
+royalRoadId: "1515215"
+---
+
+118
+ 
+ 
+ 
+ By the time Alden finished cleaning up after himself, he was the last student left in the gym except for Maricel, who was talking animatedly to Fragment about what she’d seen the other Ground Shapers doing at Earthbox.
+
+
+He headed toward the locker room, wondering how he was going to haul his exhausted body to North of North and if the recovery sauna was going to be powerful enough to save him. The sound of his own name made his hand pause just before he pushed on the door.
+
+
+He nudged it open a crack instead of shoving straight through.
+
+
+“…like he’s special or something. It’s just catching balls.”
+
+
+Winston.
+
+
+“I only caught a glimpse,” said Kon. “But Waker throws so that you can barely see the things coming before they’re on top of you. Catching them might not be impossible, but it’s not like it would be easy.”
+
+
+“And the balls were throwing themselves back! It was great! Instructor Klein was mad because I kept looking over there instead of at him.”
+
+
+And that’s Jeffy. I hereby forgive you for making my plaid shirt smell like cheap body spray, Jeffy.
+
+
+“Don’t you want the instructors to help you when you’re figuring something new out with your powers?” Haoyu said cooly. “This is a school. They’re teachers. They teach. It’s not that confusing.”
+
+
+I’m going to buy more copper appliances for the apartment.
+
+
+“It’s not something new,” Winston retorted. “It’s catch. He’s just a B, and Big’nLittleSnake was so focused on him toward the end of our session it wasn’t even as hard to dodge as usual!”
+
+
+“It was new, idiot,” Lexi snapped. “If you actually paid attention to other peoples’ abilities instead of getting jealous over stupid—”
+
+
+Alden threw the door open and hurried in before Lexi could get himself into trouble. He pretended not to notice the hush that fell over everyone. The running showers were the only sound in the room.
+
+
+Alden smiled blithely around at them all and texted Haoyu. [Make Lexi come with us to use the sauna today.]
+
+
+Haoyu gave him a surprised look.
+
+
+[You’re good at making him do things,] Alden said. [I’ll pay for the guest pass and the reservation.]
+
+
+******
+
+
+“You can’t keep saying, ‘I guess we’ll invite Kon instead,’ when you want me to agree to things,” Lexi complained as they walked beside the busy street that ran between the edge of campus and North of North. “I know what you’re doing!”
+
+
+“It’s not like I’m lying when I say it,” said Haoyu. “Kon and I get along. I really might have invited him instead.”
+
+
+“Why do you keep asking me to come here anyway?”
+
+
+“For your health and happiness. But today I insisted because Alden wanted you to come, too.”
+
+
+Lexi looked back. Alden was several steps behind them. “Why are you making me come to your grossly fancy potion sniffing facility with you? And…do you need one of us to carry your bag or something?”
+
+
+“No. I’m fine. I think I just pulled a muscle. Everywhere.”
+
+
+Lexi rolled his eyes, and reached over to take his duffel from him.
+
+
+“Thanks. You A-ranks are so handy. And North of North isn’t grossly fancy. It’s a very good amount of fancy. Right, Haoyu?”
+
+
+“Exactly.”
+
+
+A few minutes later, when they stepped into the gym, the girl who often guarded the lobby presented Lexi with a velvet gift bag full of swag in honor of his first visit.
+
+
+“The smoothies and frozen yogurt are free,” said Haoyu.
+
+
+“The showers are big enough for ten people.”
+
+
+“Spirit waxing might be real.”
+
+
+“Are you two trying to sell me a membership or what?”
+
+
+In Alden’s opinion, the place was more than worth the price of the membership that evening.
+
+
+What was that? he wondered while he stood under warm water in the rainfall shower. He remembered the feeling of his fingers, and his skill, wrapping around tennis balls he probably shouldn’t have been able to catch. How was I doing it? What was it that happened?
+
+
+He didn’t know. It was frustrating not to know but exciting to think that Bearer had something like that to show him.
+
+
+When he arrived at the sauna, there was nobody inside except for Lexi and Haoyu. Usually, there would be a few other people taking advantage of the potion-infused steam, but if you hung around for long enough you’d hit a patch or two when everyone else was gone. Alden’s roommates were sitting on the bottom bench, their hands moving through the air as they worked with their interfaces.
+
+
+Lexi glanced at Alden, eyes lingering on the left side of his chest for a moment.
+
+
+“It’s not real,” Haoyu whispered loudly as Alden sat down beside him. “He got it because he wanted to look more mature than the rest of us.”
+
+
+“Haoyu, don’t tell him the truth. I want everyone to think I’m a serious Avowed.”
+
+
+“Sorry,” said Haoyu. “It’s very, very real. He killed some people for a wizard, and the tattoo makes it so he can never reveal the locations of the bodies.”
+
+
+“That’s right,” said Alden. “I’m a dangerous Rabbit.”
+
+
+Lexi looked at him. “You might be.”
+
+
+“You do know I’m kidding about the murder, right?”
+
+
+“I know that. But what was with your reaction time in class today?” Lexi asked. “You were moving completely differently than you were a couple of weeks ago.”
+
+
+Haoyu groaned. “Lexi, you can’t even relax and joke around with us for a second?”
+
+
+Silence fell, then Lexi cleared his throat. “Knock knock.”
+
+
+Alden stared at him.
+
+
+Haoyu’s eyes lit. “Who’s there?”
+
+
+“Alexei,” Lexi muttered. He looked like he already regretted doing this.
+
+
+“Alexei who?” Haoyu asked.
+
+
+“A lexicon is a kind of dictionary. Do you want to buy one?”
+
+
+Haoyu’s grin was huge. Alden thought he was probably wearing a similar expression.
+
+
+“You have your own family knock knock joke!” he exclaimed.
+
+
+And he was brave enough to deliver it, too.
+
+
+“Lexi. Kon. It’s perfect,” Haoyu said.
+
+
+Lexi’s face was way too red for the amount of time they’d been in the sauna.“My dad made it up when we were little. He thinks it’s hilarious. Can I ask you about gym now?”
+
+
+“I was going to answer you anyway.” Alden shifted, trying to get comfortable.
+
+
+The two of them were watching him expectantly.
+
+
+This is hard. The parts of it I do think I understand would make me sound crazy. Oh, I could feel my goals aligning with my affixation better than usual. I suspect I was establishing my authority over reality more properly, and that was making the skill more effective in a number of ways that I can’t quite grasp just—wait…stop running away! Come back, you guys! I don’t want new roommates!
+
+
+“I don’t think I should’ve been catching some of those,” he said instead. “Most of those. When it comes to Big Snake’s faster pitches, I don’t usually have time to think, ‘Left ankle. Right hip. Shoulder.’ It’s more like ‘Yikes! Motion! Duck!’”
+
+
+He arched his back, trying to stretch it out. “Also, I was very focused on…my mindset. So I wasn’t paying great attention to details. He was throwing them at least as fast as usual, right?”
+
+
+Haoyu and Lexi exchanged a look.
+
+
+“I was busy trying to beat Instructor Klein,” Lexi said. “But…”
+
+
+“It was getting noteworthy toward the end of class,” Haoyu told him. “Not the speed of the individual pitches; he was throwing at what looked like his normal top speed for you.”
+
+
+Alden nodded. Snake threw harder at some people than others, depending on what they were doing with their powers and how suited they were to playing high-speed dodgeball to begin with.
+
+
+“But he was throwing a much larger number of pitches at you. For the last half of the session, he wasn’t even giving you time to return one before the next was in the air. And he was throwing more multiples your way. You would have needed to be an Avowed octopus to catch all of them.”
+
+
+“I’ve got to watch my footage.”
+
+
+“Before you do,” Lexi said, “let me ask—you didn’t know, right? That you could catch something that was being used as a weapon against you. That was why you were so excited even with the first one?”
+
+
+“I’d never done it,” Alden replied. “Of course Big Snake isn’t trying to hurt us for real, but it’s a situation where both parties know his goal is to hit us, not pass the balls to us. So it was a decent test.”
+
+
+A much better test than I expected.
+
+
+Alden had hoped it would be a first step toward sorting out his perception of incoming enemy projectiles. Only a baby step, he’d thought, since it wasn’t a perfect model of an actually dangerous situation. That was all.
+
+
+“I ended up glimpsing something way different than I’d planned. I have practiced playing catch with my skill, but it was to get the hang of preserving objects instantly, instead of halting their momentum and then preserving. It wasn’t like—”
+
+
+“You couldn’t always do that?” Lexi’s face was intent. “It’s something you figured out through trial and error?”
+
+
+“It actually took a lot of practice to be able to do it naturally every time.”
+
+
+“Could you tell when you were on the right track to getting it?” Haoyu asked at once.
+
+
+“How many times would you say you had to try?” Lexi asked at the same time.
+
+
+“Um…you two definitely shouldn’t use most of my experiences to judge your own progress. I learned a lot of what I know about my skill and my trait during a crisis. There were really unique pressures holding me back in some ways and driving me forward in others.”
+
+
+They both looked embarrassed, which wasn’t what Alden had wanted at all.
+
+
+“I don’t mind talking about it with you,” he said hastily.
+
+
+He was surprised to realize that it was closer to a truth than a lie. Maybe it was only because he’d just heard them defending him when they didn’t even know he was listening, but it was a relief, for a change, not to have that internal clench at the thought of possibly being asked a question about Thegund. He was sure it would be back when he was in a different mood, but for now…
+
+
+“I played catch with Kibby all the time. She threw gravel. Small pointy rocks aren’t the most pleasant things to catch, but that worked out for the best because it encouraged me to grab them with the right idea in mind instead of the wrong one. At the time, whenever someone tossed something to me, I had a feeling that I needed to stop it and get a good grip on it before I preserved it.”
+
+
+And when feelings and intuition were all I had to go on instead of my authority sense, it made activating the skill exactly how I wanted to seem like rocket science. It was good they’d asked about this one, now that he thought about it. Instant preservation of moving objects was one of the few things he’d made progress with prior to gaining more deliberate control over his affixation.
+
+
+“Practicing my way out of it worked. I got it right more and more often.”
+
+
+Soon enough, even without his expanding senses changing how he understood his magic, halting the rocks properly would have become a knack in the normal way for human Avowed, he was sure. Just one of those things you could do thoughtlessly once you’d gotten the hang of it, the magical equivalent of riding a bicycle.
+
+
+“Now it’s not hard at all. I—”
+
+
+The sound of the door opening drew his attention.
+
+
+Lute Velra walked into the room wearing a towel around his waist and drinking an orange smoothie. “I see,” he said, wafting steam dramatically toward his nose with one hand, then slurping from his drink. “So this is where the spoiled people do their homework.”
+
+
+“Isn’t it indecent for you to call someone spoiled?” Lexi asked.
+
+
+“Lute!” Haoyu said. “What are you doing here?”
+
+
+“Alden invited me. Sorry I’m late. I had to make sure I tried all the free samples.”
+
+
+He was peering into the tiny cauldron on the pedestal at the center of the room. He didn’t have his patch on, and from this angle, in all the steam, it was impossible to tell he had a false eye.
+
+
+“You might want to drink the smoothie fast,” said Alden. “There’s no food allowed in here. When other people show up, they’ll glare at you.”
+
+
+Lute looked over to answer. “Hey! You have a tattoo!”
+
+
+Before Alden could respond, Lute was right beside him examining it.
+
+
+“Does it go around the side? It looks like it goes around the side.”
+
+
+Alden lifted his arm.
+
+
+“Oooo…a mysterious triangle.”
+
+
+Alden snorted.
+
+
+“You should’ve said you had one!” Then Lute frowned. “Now mine is even dumber. You probably got yours doing a deal with a wizard, and mine’s a fancy letter V my grandmother designed back in the dark ages.”
+
+
+“Under slightly different circumstances, an ancestral tattoo would actually be awesome,” said Alden.
+
+
+“Yeah. I guess. But that’s dependent on your ancestors being awesome.” He sat down. “So now Haoyu and Lexi just need to get summoned for something serious or secret, and we’ll all be inked.”
+
+
+“That’s not on my to-do list for the near future,” Haoyu said.
+
+
+“Mine either.”
+
+
+“Fine. But Alden and I are getting ahead of you.” He sucked on his straw. “So! Now we sit around and recover together.”
+
+
+“We’re recovering from an intense MPE class,” said Lexi. “I don’t know what you think you’re recovering from.”
+
+
+“I’ll have you know I used the stairs instead of the elevators to get to all my lessons today.”
+
+
+“Okay,” said Alden. “I’m glad you both came. But now I really do have to review the video to see if I can figure out what I was actually doing with my skill earlier.”
+
+
+“There’s entertainment?” Lute asked. “Can I watch?”
+
+
+“I don’t mind. You don’t have your own homework?”
+
+
+“My homework is boring.”
+
+
+They all ended up watching, even Lexi, who claimed he needed to study his own efforts far more than Alden’s.
+
+
+It was always strange to view the gym footage. The first time Alden had seen his body in high definition from every angle, wearing the unitard and doing the kinds of things they did in MPE, he hadn’t recognized himself. In ways both good and bad.
+
+
+His reaction had included important concerns like: Is my accent slightly different than it used to be? Is my hair funny? My face gets so red when I’m working out, and it makes so many expressions. I bet everyone thinks I’m a creepy tomato head.
+
+
+And there were some more positive observations. Watching himself do magic was incredible. He looked so much more like a superhuman when he used his skill than he’d realized. Alden from a year ago would have thought the guy on the video had cool powers. On top of that, he looked athletic, which was gratifying. He was aware that he was in great shape; he could feel it. But seeing himself move in ways he couldn’t have before was still exciting.
+
+
+And as for moving in ways he couldn’t or, rather, shouldn’t…
+
+
+As they hit the fifteen-minute mark of the recording, Alden watched through his interface as two projectiles came toward him in rapid succession. He paused it.
+
+
+[Lexi: Double miss.] He was typing in their roommate chat so that they wouldn’t bother the man and woman who’d come to relax on the benches across from them.
+
+
+[Haoyu: Single miss.]
+
+
+[Lute: You’re going to get hit in the shoulder and the knee.]
+
+
+Every now and then they were playing this guessing game, trying to decide whether or not Alden could make the catches.
+
+
+[Alden: Double miss. These ones are too fast.]
+
+
+He started the video. The him from just a short while ago threw his body forward to grab the first ball with his right hand before it hit his shin, and then, even as he raised his arm to send the ball back to Instructor Waker, he was snapping up and twisting his spine around to catch the second ball with his left hand even though it had already gone past him.
+
+
+What the hell? thought Alden, thrilled and confused at the same time.
+
+
+“Damn,” said Lute from right beside him. “You are so much better than I imagined you being.”
+
+
+[Alden: Hey.]
+
+
+[Haoyu: That’s right. Give him the annoyed font.]
+
+
+[Lute: Seriously, though. You look like you’re using the self-mastery wordchain even though you’re not.]
+
+
+[Lexi: Did your skill give you some kind of temporary enhancement?]
+
+
+[Haoyu: A speed boost maybe? That would be amazing!]
+
+
+Alden doubted that was it, but he didn’t know what it was either. He rewound and watched again in slow motion.
+
+
+Incoming fastballs that should have hit him one right after the other. Catch. Release. Catch. Release. Smooth as silk.
+
+
+He watched it twice more at regular speed. Then in slow motion. Then one more time, focusing on the fingers of his right hand as they manipulated the ball into the correct position for the return.
+
+
+[Alden: I don’t think my body’s moving faster than I’m capable of. But I was concentrating so hard on intercepting the pitches with my magic that I lost my sense of self-preservation a little.]
+
+
+The all three looked at him.
+
+
+[Lexi: What does that mean?]
+
+
+[Alden: I tuned out everything else. I’m pretty sure I wouldn’t have twisted around that hard and fast to catch a ball normally. I’m getting whiplash just watching myself. It explains why I’m this sore.]
+
+
+There was your normal best, and then there was your ‘I’ve managed to convince myself that catching the ball is the purpose of my existence, and I’m too busy feeling my authority to notice if things hurt or not’ best.
+
+
+[Lute: Don’t your super stylish turtleneck jumpsuits stop you from injuring yourselves?]
+
+
+They all turned to look at him.
+
+
+Haoyu narrowed his eyes. [So you think our superhero suits are stylish?]
+
+
+[Lexi: They don’t prevent self-inflicted muscle strain unless you’re doing something completely insane.]
+
+
+I might not be moving that much faster, Alden thought as he watched himself miss one pitch then catch another. But I sure am moving in the right direction more often than not.
+
+
+And he moved more and more correctly the longer it went on. By the last few minutes of class, even the balls he missed were bare misses. To start with, some of them had caught him completely by surprise, but at the end, he was always reaching for the spot they were coming toward with one hand or the other. Big Snake seemed to have decided that the harder catches were helping the most. He’d even started throwing a few of them wild, instead of playing the villain and always aiming for Alden’s body.
+
+
+“Your eyes,” Lexi said as they approached the end of the video. Then he seemed to realize he’d spoken aloud, and he looked over at the other sauna users apologetically.
+
+
+[Haoyu: I was going to say that too. His visual processing must be really great.]
+
+
+That’s not it.
+
+
+Alden remembered the feel of catching. He didn’t remember seeing the balls coming at him very often at all.
+
+
+[Lexi: No. Look at his face again during that fast series of throws earlier.]
+
+
+[Lute: The one where Teacher Snake hit him like fifteen times just for fun?]
+
+
+[Haoyu: I don’t think it was for fun. I think he just decided to try out a bunch of different things to see how Alden reacted to them. That ball that hit the floor right in front of him and exploded probably couldn’t have been hand-caught by anyone in our class. It was an experiment.]
+
+
+Alden was backing up the video to find the part Lexi meant. It was an absurd looking moment. If he hadn’t been so lost in what was going on with his skill right then, the sight of almost twenty inbound objects would have made him throw up his hands in defeat. But apparently, when he was this deep into it, he was all business.
+
+
+He’d watched his body and his hands last time. He knew he would miss almost all of these pitches. There was no way he could have caught them. Now, following Lexi’s prompting, he watched his face.
+
+
+I look exhausted.
+
+
+He was gasping.
+
+
+I look calm.
+
+
+He remembered that.
+
+
+I look…
+
+
+Shocked, he zoomed in on his face even closer.
+
+
+What the hell am I doing?
+
+
+He caught a ball and returned it. A dozen others hit him or whizzed over his head. He caught a second and returned it. He lunged sideways, so that his fingers brushed the final one in the volley, but they couldn’t close over it in time.
+
+
+Alden replayed the scene again.
+
+
+“Did I close my eyes?!” he exclaimed.
+
+
+“Maybe you can hear the balls with your ears,” Haoyu whispered.
+
+
+[Lexi: Are you reading Instructor Waker’s mind?]
+
+
+“Not using your eyes makes you one hundred percent cooler. I’m perpetually fifty percent cooler than the rest of you, so I should know.”
+
+
+“Oh my god, Gym Alden was temporarily psychic,” said Alden.
+
+
+Haoyu laughed. “You do know gym you is you, don’t you?”
+
+
+[Lexi: You all remember we’re not supposed to be loud in here, right?]
+
+
+[Alden: How did I catch them with my eyes closed???]
+
+
+Lexi blinked at him.
+
+
+[Lute: Are you seriously asking us to tell you how your own powers work?]
+
+
+[Haoyu: Maybe you just remembered where all the balls were and caught a couple that way.]
+
+
+Could that have been it? With that many heading at him, a couple of lucky catches…would still have been too lucky
+
+
+[Lexi: That wasn’t it. Zoom out so you can see yourself and Instructor Waker at the same time.]
+
+
+Alden did. Big Snake threw the huge volley, and then followed it up with a few more.
+
+
+[The last one,] Lexi texted. [The one your fingers barely touched. He threw that one right after you shut your eyes. You couldn’t possibly have seen it, but you still went for it.]
+
+
+He was right. And since Alden hadn’t been reading Big Snake’s mind…
+
+
+[Lute: You guys, look at his face. He’s smiling at his own footage.]
+
+
+Of course Alden was smiling. How could he not be? This was a part of his skill he hadn’t thought to look for. He was always so focused on preserving the burden and using the preserved burden in different ways and finding the limits of the preservation…
+
+
+He’d needed a broader view. Even though he’d known his skill was special, he still hadn’t been looking at it through a wide enough lens.
+
+
+A skill for a lifetime. One called The Bearer of All Burdens.
+
+
+During my last affixation, I even took the “defogging package” she recommended. I enhanced Bearer with the [Sensitivity] option. I assumed all it could do for me right now was help me see and feel enchantments so that I could use the new skill facet properly…because that was what we were talking about using it for at the time.
+
+
+He had never wondered if it could do anything for solid objects. Nobody had ever entrusted him with an object he didn’t more or less know the location of.
+
+
+Until today.
+
+
+His eyes and brain hadn’t been quite fast enough to direct his body toward the burdens he wanted to bear, so his skill had stepped up to the plate. Closing his eyes once he’d fallen all the way into the effort…
+
+
+I was just letting go of a less capable sense so that another one could do its job better.
+
+
+******
+
+
+“Fine.” Haoyu was slurping up noodles at the kitchen table. “You’re right. Ramen noodles are good with minestrone.”
+
+
+“In the absence of a professional chef and a full kitchen, ramen noodles are good with everything,” Lute replied. “Alden, you’re about to trip over the ottoman. Again.”
+
+
+Stop talking so much, thought Alden, halting his slow, blindfolded walk through the apartment. It’s making it hard for me to sense my soup.
+
+
+Somewhere in this place there was a mug of minestrone that Haoyu had told him to preserve. They’d come up with this scheme on the way back from the sauna. Lute had asked if Alden could practice his newly discovered ability by using it like a much more limited version of a lost thing finder skill, like Roman Velra had. Haoyu had volunteered to be his entruster. And Lexi had suggested they use supper as a motivator, since Alden’s stomach was growling.
+
+
+Now he was wearing his sleep mask, and he was trying to find both his food and the particular mental state that had allowed him to catch pitches he couldn’t see.
+
+
+“Stop sniffing for it,” Lexi said. “The whole apartment smells like minestrone. You’re not going to get it that way.”
+
+
+“I’m not doing it on purpose! My nose is just inhaling more than usual on its own.” He paused. “Haoyu, you know where the mug is, right? I don’t know if this will work if neither one of us knows where the thing I’m looking for is hiding.”
+
+
+“I know where the mug is,” Haoyu confirmed. “And I want you to preserve it. It’s getting cold. It’ll taste bad. You’re ruining the supper I made.”
+
+
+“Pressure him more,” Lute said.
+
+
+“I’ll be depressed if that mug is still full of cold soup and soggy ramen in the morning. And you’ll starve to death.”
+
+
+“Too much pressure,” said Alden, fumbling his way out of the living area. “I’m going to my room. Maybe I can sense the soup better from in there.”
+
+
+Okay, he thought, after he’d closed his door and pulled off the mask. Let’s do this right.
+
+
+He went to kneel on his learning cushion and consider everything he knew and everything he suspected.
+
+
+First of all, he told himself, it wasn’t a neat little trick. So don’t let yourself think of it that way.
+
+
+Catching things with his eyes closed was neat. And it did seem like a fun party trick. But when he’d actually been doing it, his intentions had been more serious.
+
+
+I started thinking of myself as The Bearer of All Burdens instead of Alden. That’s a little embarrassing now that I’m not so deeply lost inside my own affixation.
+
+
+But the effects of it couldn’t be denied. It wasn’t only that he’d been letting his magic lead his hands to the tennis balls’ locations; he’d also been so efficient about it. The more he’d watched the video, the clearer it had become. In the last three or so minutes of class, he hadn’t just been catching more balls, he’d been going for the best ones. He’d obviously started to get a sense for which ones he could actually reach in time.
+
+
+If being in that headspace had worked once, it would work again. He just had to find a way to get himself there.
+
+
+He slowed his breathing and let his eyelids fall shut. I should take a look at myself. I should do it like I mean it.
+
+
+He went backward in his mind, all the way to a better learning cushion in a worse place. Backward to the soft voice of an Artonan kindergarten teacher and the achingly hopeful presence of a grieving girl who kept reaching for a learning partner so that she wouldn’t be alone in the chaos anymore. Back to the moment when he’d first returned the friendly pat.
+
+
+There was a spot where the universe made room for Alden. A spot that was him. And when he finally found himself…
+
+
+I have the authority to move here.
+
+
+He delivered a wizardy fistbump for the first time in months. He sent it rippling out like a tiny, undirected pulse since there was no Kibby here to receive it.
+
+
+I can move like this. But not all of me.
+
+
+He remembered the excitement, satisfaction, and joy of that first deliberate exercise of his authority.
+
+
+And the inevitable horror.
+
+
+Hi, he thought at the rest of himself. How’s it going? I know you’re me, too.
+
+
+It was unpleasant to think of himself in his entirety, so often—too often, he suspected—he divided it. He pretended that he was his free authority, and his bound was more like an attachment. A useful one he couldn’t extricate himself from…but still an attachment.
+
+
+That’s a big self-directed loving lie.
+
+
+He sighed and let go of that lie for now.
+
+
+He knew how to. Denial was a luxury that his last affixation had stripped from him in a profound way, so it wasn’t like he could ever really trick himself into forgetting his true nature. It was just an uncomfortable thing to fully acknowledge in a quiet moment like this.
+
+
+Accepting that I was mostly The Bearer of All Burdens, and only a little bit free, didn’t feel that bad earlier when I was focused on doing my job right.
+
+
+The Bearer of All Burdens could not fist bump Kibby. It…he…could not use an auriad. He would never make an ice pop or light a promise stick. The Bearer’s infinite futures had been severed, for the sake of single purpose.
+
+
+I can bear the hell out of some burdens.
+
+
+Now…where was Haoyu?
+
+
+They were close enough to each other right now that Alden was sure he could have sensed his roommate with the part of himself that was free; he’d never tried it for a host of reasons. And anyway, it was an entirely different kind of sensing than Bearer used.
+
+
+There. That weight.
+
+
+Judging by the direction, Haoyu was still in the kitchen.
+
+
+My target has entrusted me with a mug of soup. It’s true that it’s not the most meaningful thing I’ve ever been charged with protecting, but it’s still been placed under my care.
+
+
+Nothing happened.
+
+
+I’m not feeling it like I was in gym.
+
+
+He wasn’t falling into his role as naturally as he had earlier. Too many thoughts running through his head. Too many desires outside of his purpose. Less urgency.
+
+
+Maybe if the soup was in terrible danger.
+
+
+He chuckled.
+
+
+I’m super distractible when I’m hungry, sore, and tired. What else can I do?
+
+
+He remembered the way the skill had felt more alive as he aligned with it.
+
+
+Just pick some feature of the skill I know how to access and give it deliberate attention. Maybe that will put me in the zone.
+
+
+He focused on the targeting ability.
+
+
+I don’t usually think about you or work on you much. I haven’t bothered to conceive of you as something more interesting than a button on a machine yet. How ungrateful of me. You stayed fixed on Kibby for months without ever failing. I wanted you and needed you, but I haven’t been appreciating what you do.
+
+
+Alden tried to think about what this part of him was—what it truly was. He thought of it as a small fraction of his power, and that wasn’t wrong. But as he explored it, he found that there was something fundamental about it.
+
+
+This piece of the affixation runs through everything else Bearer is. Like wires or the roots of a tree.
+
+
+He was enjoying the origami metaphor for other parts of his skill and he felt like he should keep it consistent, so…paper roots? You could twist paper into root shapes, so that wasn’t the most ridiculous thing. But then there had to be an acknowledgement of what the targeting feature did. It pointed him toward his entruster. It gave him that feeling that they were significant. So significant the universe tilted toward them a little.
+
+
+Also, when I target someone the feeling isn’t forceful.
+
+
+Now that he considered it, that was interesting. He felt pokes and pinches when other Avowed targeted him, but he didn’t think he pinched back the same way with his own targeting. Maybe Kibby would be able to tell him what it felt like for sure the next time he saw her. But on his end of things, at least, it was a more receptive process.
+
+
+Like I’m opening myself up or holding out a hand? Should I try imagining it’s something with roots that opens and tracks things?
+
+
+It’s pretty special. It keeps me connected to my entruster over long distances.
+
+
+Alden fixed his mind on his sense of Haoyu. All right, so if I wanted to acknowledge and strengthen this part of the skill then…
+
+
+It had never occurred to him to try targeting someone more by manipulating his bound authority. For one thing, it didn’t seem necessary. His targeted person was targeted, and he could protect things they entrusted him with. It was such a basic part of the skill that it had gone overlooked.
+
+
+He worked at it for a while, growing engrossed just as he had on his last night in intake when he’d first started reimagining the affixation.
+
+
+Eventually, as he’d hoped, focusing intently on even a small part of the skill like this helped him align himself with the whole thing. By the time he’d discovered a way of thinking that helped him become a little more receptive to his target and increase his awareness of Haoyu’s location, he felt relaxed and more at home with himself.
+
+
+My entruster is there, he thought. Now where is the thing he told me to preserve?
+
+
+He stood and left the room.
+
+
+Eyes still closed, he turned and walked a few steps to the end of the hall. He was careful to keep his thoughts quiet. If he took time to question it, he was sure he would lose it.
+
+
+It needed to be more like an instinct for now.
+
+
+He bent and his fingers closed around something, preserving it instantly. He opened his eyes.
+
+
+Of course they put my soup on the floor under the polar bear head.
+
+
+He carried it toward the kitchen to reheat it. All three of the other guys were in the living room.
+
+
+“I got it,” said Alden, lifting the mug.
+
+
+Haoyu and Lexi looked at him. Lute turned around in his chair to look, too.
+
+
+“No eyes?” Haoyu asked. “Or did you just get hungry?”
+
+
+“No eyes,” Alden confirmed with a grin. Then he yawned. “But I am very hungry. And sleepy.”
+
+
+“That’s a fun new power discovery,” said Lute. “I’m going to hide things you need in awkward places. To help you train. Good luck finding the toilet paper tomorrow.”
+
+
+“Thanks. You’re a true friend.”
+
+
+“That took you two hours,” Lexi said.
+
+
+Alden checked the time. “It did. Sorry. I thought I was faster than that, but I got kind of invested in the process.”
+
+
+He went over to the microwave.
+
+
+“You can have fresh soup,” said Haoyu. “You don’t have to eat the training soup.”
+
+
+“I’m going to eat the training soup and the fresh soup if you don’t mind. It smells awesome.”
+
+
+“Take a selfie with your mug,” Haoyu said. “I’m sending them to my mom. To prove I rock at cooking.”
+
+
+“Will do.” Alden watched his dinner rotate around on the glass plate. “Hey…heliotropic flowers are cool, aren’t they?”
+
+
+“Huh?” said Lute.
+
+
+“You know. Flowers that always turn to face the sun and follow it across the sky. Like daisies. They’re a targeting flower. If you were gonna be a flower you’d want to be a heliotropic one.”
+
+
+“They’re pretty cool,” said Haoyu.
+
+
+“Man, you need sleep,” said Lute.
+
+
+“Were you imagining yourself as a daisy when you were trying to target your soup cup?” Lexi asked slowly.
+
+
+“Wait!” Haoyu cried. “Was that what you meant?”
+
+
+“Not exactly.”
+
+
+He’d played around with imagining he had an origami targeting shape pointed at Haoyu. Not the soup. And it wasn’t really a daisy; it was just a kind of unfolding feeling like a flower opening toward the sun that had gotten him the stronger sense of Haoyu’s location that he’d wanted.
+
+
+“What exactly did you mean then?” Lexi asked.
+
+
+“Mmmmm…good minestrone. I’m just doing some metaphor stuff, Lexi. Trying out everything. Approaching magic from new angles. No big deal.”
+
+
+“Is it working for you?”
+
+
+“Sometimes. It did take me two whole hours to find my supper though. That’s forever. So maybe don’t take my advice.”
+
+
+Alden ate every bite, then he pulled the leftovers out of the fridge and refilled the mug.
+
+
+[Lute: There’s a birthday thing for Uncle Benjamin tomorrow night. It’s not a huge party. Like fifty people. I’m getting an invite from Aimi. Do you still want to come?]
+
+
+Yuck, thought Alden. “Yes.”
+
+
+“I’m going,” Haoyu said.
+
+
+“How many more times do you think you’ll have to practice until you can reliably find your entrusted object?” Lexi asked.
+
+
+He’s got a one track mind.
+
+
+“You mean until I’m good at it?” Alden said.
+
+
+“I just wondered if you knew…”
+
+
+“I can reliably find it already, probably. If time isn’t an issue, I’m sure I could do it again. But I’ll keep practicing until I get a lot faster. I want to find a way to hit that point I was at in gym today at will instead of after half an hour of having a superhero pelt me with fastballs.”
+
+
+“How far away do you think—?”
+
+
+“There’s a distance limit on how far away my target can be from whatever they’re entrusting me with, so not that far. Haoyu could probably tell me to go find something he’d left downstairs but not across campus. And he might need to have at least a general idea of where the item is himself before he can tell me to get it. We haven’t tested that. That would make it way less useful for finding lost objects. But this is still a good way to train myself. And maybe I can have one of you throw some stuff at me. I’ll help you with whatever you want to practice, too.”
+
+
+“Your new codename is Ball Catcher.”
+
+
+“You can go to that party alone, Lute.”
+
+
+“Cotton Balls?”
+
+
+“By yourself.” Support the creativity of authors by visiting Royal Road for this novel and more.
+ 
+*

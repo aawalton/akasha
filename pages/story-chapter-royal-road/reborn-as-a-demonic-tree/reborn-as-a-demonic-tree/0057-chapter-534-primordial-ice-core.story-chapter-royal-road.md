@@ -1,0 +1,189 @@
+---
+id: 521ec144-be4b-56da-a6d9-e098fa1ca7e4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 534: Primordial Ice Core"
+slug: 0057-chapter-534-primordial-ice-core
+partOf: reborn-as-a-demonic-tree
+position: 57
+ownLength: 2823
+unit: words
+ownProgress: 2823
+publishedAt: 2026-02-13
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3051298/chapter-534-primordial-ice-core"
+royalRoadId: "3051298"
+markedReadAt: "2026-06-29T19:03:29.536Z"
+---
+
+After entertaining a few ideas, Ashlock ultimately decided that absorbing the primordial ice core was the best decision.
+
+While a little primordial ice Qi remained inside after Bob's feast, it wasn't enough to do much with, but what it did still contain was the dao knowledge of primordial ice Qi. Something he was very curious about, as learning a dao didn't just make his desolation Qi more efficient and destructive against that affinity type, but he could also infuse his desolation Qi and many of his system-granted skills with any dao's he had knowledge of—so long as the Qi was present for him to control, as he couldn't produce it directly.
+
+"I currently possess dao knowledge of Shadow Law, spatial, desolation, soul, harmony, aether, lightning, fire, water, earth, wind, metal, illusion, poison, blood, sunlight, and demonic. I also have some vague knowledge of many others, and I'm hoping to improve them by sending more people into the Eternal Realm. Yet, ice has been missing from the list until now, so this would be an entirely new dao to add to my arsenal. Though I wonder what would happen if I were to infuse primordial ice dao into the desolation Qi I'm emitting to slowly destroy Floridawn with? Adding daos drastically increases the Qi cost and mental load, so I haven't bothered until now, but ice Qi adds a unique quality to the attack that might make it worth it. Actually, on that note, wouldn't it be insane to add ice dao to the desolation beam I shoot from my Crown of the Withered Sovereign?"
+
+While imagining such a destructive attack, it was amusing to recall how he had once been given the opportunity by the system to choose ice Qi as his affinity. But he had gacha-rolled for spatial instead. It was crazy to even begin to imagine how much different his life would have been if he hadn't made that gamble. Would he even be alive right now if he had? The ability to create portals and move his forces across such vast distances had given him the edge he needed for victory so many times.
+
+Ashlock pondered for a moment, feeling nostalgic as Thanatos carefully analyzed the ice core in his hand. It let off a cold vapor, and if not for the General's high cultivation, it likely would have frozen his hand solid. If this were a self-sufficient Star Core, he might have given it to Bob or fitted it into Moros. Unfortunately, it closely resembled a battery that had been charged up over a long time and was now nearly empty.
+
+Even the dragon's will that had been inside was almost entirely gone.
+
+"Thanatos, bring the primordial ice core to my Inner World, and then deliver the souls to the Grove of Eternal Rebirth," he instructed. Those souls could turn out useful for the Covenant once they had Fleshfruit trees that could grow new bodies.
+
+His General bowed and sank into the shadows.
+
+After saving Thanatos the first time from Councilman Faelorian Lysanthos's clutches, Ashlock had requested Nox to link his ethereal root network to the shadow throne of Tartarus. The result was that the shadow dimension and his domain were intertwined, giving Thanatos instantaneous mobility anywhere within his domain.
+
+It was somewhat nice not having to constantly create portals for him.
+
+Bob, on the other hand, was going to be a different story. He had grown from a desolation-filled slime that was around four meters tall to a mile-long, grotesque ice centipede in less than an hour. No matter how strong Bob was compared to anyone else, Ashlock doubted that anyone in all the nine realms could change their affinity and body shape so effortlessly. Bob's sheer adaptability was unbelievable.
+
+"You did a good job, Bob," he told his General through Abyssal Whispers. "But I'm going to need you to detach and stop eating the dragon."
+
+"Oh... okay," Bob said reluctantly, and slowly pried himself free from the dragon's back like a spine given sapience. His innumerable jagged ice legs flailed uselessly in the air as he rose into the sky. Ashlock had Moros float closer, and he almost laughed at how Bob's current form somehow made the flagship look comparatively small.
+
+However, the dragon corpse dwarfed both of them. He knew nothing about the dragon, nor why it had come flying toward the Ashfallen Sect.
+
+All he knew was that Stella was somehow responsible.
+
+The question now was what to do with a dragon corpse the size of a mountain range, still radiating primordial ice Qi into the surrounding area. Already, the ground around it was freezing, and snowfall was coming from the clouds overhead.
+
+"I could raise this corpse into an Ent, which would make it way easier to move, and there's a chance it maintains strength close to the Monarch Realm despite lacking the primordial ice core due to the Qi still infused into the skeleton's bones," Ashlock mused, "but I think I will wait until Stella gets back. That Qi has been in those bones for a long time, and I doubt it's really going anywhere soon, so I can always raise it after Stella has given me the go-ahead. Now, if this corpse belonged to a Monarch Realm monster, that would be a different story. But a Nascent Soul Realm Ent, no matter how strong, isn't going to make a big difference in the war at the moment."
+
+Perhaps this mountain-sized pile of bones could be useful for something else that he hadn't thought of yet. Pill ingredients came to mind, as did weapons. His gaze, which was idly on Bob, who was still pulling himself free from the dragon's bones, led him to another thought.
+
+"Wouldn't the bodies grown by the Fleshfruit trees need skeletons?"
+
+It was known that the Fleshfruit trees could grow heart-shaped organs to lure prey. So, assuming there was a way to make them grow entire bodies wasn't a giant leap. But there was no evidence to suggest they had a way to grow skeletons as well.
+
+"A fresh body with a skeleton made from the bones of a primordial ice dragon? Yeah, those souls I just had Thantos hand over to the Grove of Eternal Rebirth are certainly going to come in handy."
+
+His vision zoomed out, and he took in the full form of the dragon. How could such a giant beast even exist? Darklight City could have been built on its back, which raised a problem.
+
+Just how was he going to move it? Even for him, lifting the corpse with telekinesis was going to be impossible.
+
+"Bob, I'm going to head back," he said, "Can you stand guard over this dragon's corpse alongside Moros and not take a single bite until I return?"
+
+"Okay, Father!"
+
+Bob gave him the go-ahead, so he left his General to it, and his vision blurred as he returned to his Inner World. Thanatos was already there, waiting near Stella's empty home with the primordial ice core in hand. The grass surrounding her house was already freezing over, so he decided to be quick.
+
+He floated the primordial ice core out of Thanatos's hand, away from Stella's house, and once they were over a patch of land that had been brought to ruin by his desolation Qi, he cast Abyssal Maw on it. Black vines erupted from the ground, cocooning the ice core.
+
+The moment his vines cracked into the core and began to break it down, he felt a sudden insidious chill at the back of his mind. However, before it could concern him, he felt it being suppressed.
+
+[WARNING: Soul Forest has been triggered by the latent will of Ilyzathar]
+
+Ashlock glanced at the warning and wasn't too concerned. Compared to Ig'Zal, who had been the one to upgrade his mental defenses, this attack felt like nothing more than some harsh whispers. They faded soon enough, and the ice core was successfully devoured.
+
+Yet, nothing happened. Ashlock didn't feel like he understood ice Qi any better. "System?"
+
+[Activate {Nocturnal Genesis [S]} for two days to complete assimilation of primordial ice dao?]
+
+Ashlock spiritually blinked at the system message. Even with the capabilities provided by an S-grade meditation skill, it would still take two whole days to reach maximum comprehension?
+
+"Surely Bob will survive two days without me watching over that ice dragon corpse," Ashlock said and decided to accept the system's prompt. His consciousness slowly began to fade, and rather than enjoying a peaceful sleep under his nine moons, he was somewhere else—a white void.
+
+And then came the cold.
+
+It wasn't the burning sting of winter winds nor the biting cold of dark nights. This chill was deeper, a frost that gnawed at the very essence of his being. The kind of cold that came not from temperature, but from understanding—a rejection of motion, of change, of heat, of life.
+
+A single flake drifted before him. It turned in slow, deliberate spirals, more complex than any snowflake found in the mortal world. It held a million facets, each one reflecting fragments of worlds frozen in time—battles halted mid-swing, civilizations entombed in rime, stars locked in their final flicker.
+
+That's when Ashlock realized he wasn't just going to absorb and somehow understand ice dao. He was going to experience it in its more primordial form.
+
+***
+
+Ashlock awoke from his frozen nightmare to Thanatos standing exactly where he had left the General.
+
+"Welcome back, my Lord," Thanatos said, bowing deeply like a well-trained butler who was a shadow angel of death on the side.
+
+Ashlock looked around frantically. "What year is this?"
+
+"Year?" Thanatos asked, sounding confused. "The same as before. Exactly two days have passed since you fell asleep."
+
+"No, that can't be," Ashlock insisted. "I was in there for at least a few centuries. I watched the ice of glaciers melt, one drop at a time. I saw snowstorms that held realities and defied the flow of time. I... I... has it really only been two days?"
+
+"Yes, my Lord."
+
+Ashlock opened his system menu.
+
+Idletree Daily Sign-In System
+
+Day: 3735
+
+Daily Credit: 27
+
+Sacrifice Credit: 827
+
+[Sign in?]
+
+"No way," Ashlock said in disbelief. If he really had spent centuries in that nightmare, like he had feared, then his daily credits would have been in the thousands. Yet they were most definitely only twenty-seven, unless, of course, his system was lying to him. "Where is Stella? I want to see her."
+
+"The Princess is still at the Frozen Star Sect and is far out of range, my Lord. Do you want me to go and retrieve her for you?"
+
+"No, it's okay," he said, slowly calming down. If only two days really had passed, then he had little to worry about. Just as he was getting his head straight, a series of system messages flooded his mind one after the other.
+
+[You have successfully comprehended Primordial Ice Law]
+
+[Monarch Realm ascension requirements:
+
+Possess an Inner World: 1/1
+
+Comprehend Desolation Law: 80%
+
+Devour the souls of nine Monarch Realm beings: 0/9]
+
+Ashlock was unsurprised by the affirmation of comprehension of Primordial Ice Law, and he even understood the difference between a Primordial Law and a normal Law. Primordial meant from before the heavens, so it was effectively raw dao that was untainted by the heavens and the memories from that affinity's Origin.
+
+[Notice: Magnus Redclaw has exited the Eternal Realm]
+
+Thanatos's gaze snapped toward the direction of the Eternal Realm's entrance.
+
+Both of them could feel it.
+
+The undeniable presence of a Monarch.
+
+Ashlock perked up and was glad to have something to direct his mind toward to drown out the horrors he had just experienced.
+
+"Magnus really succeeded in reaching the Monarch Realm while I was gone? I can't believe it. Thanatos, let's go and greet him." Since nobody else was around, he didn't want the Grand Elder to return to an empty place with nothing but a voice in his head after achieving such a feat.
+
+***
+
+Magnus had been against the usage of the Mystic Realmwarp fruit, as he believed having a way out would take away from the experience that a life-or-death situation provides. While he did stand by that statement to a degree, he had been told there was no other way to leave the Eternal Realm besides the Patriarch deciding to forcefully pull him out, as the time limit had been removed.
+
+The moment he finished the final bite of the fruit, it was like a cosmic entity had taken notice of his desire to return home. Saved from the void, he felt the many layers of creation blur around him in a spectrum of stretched colors as reality bent around him. The process of travel humbled him once again. If the Eternal Realm's existence hadn't been enough, the experience of leaving it in such a reality-breaking way, simply by eating a mere fruit, reminded him of the insurmountable gap between him and the Patriarch.
+
+Could another god, even with the help of grand formations and sacrifices, achieve a similar result? He doubted it. Ashlock's capabilities really set him apart from the rest.
+
+Just as quickly as the experience had begun, it abruptly ended. Magnus took a second to reorient himself and was once again standing in the celestial fog of the Eternal Realm. He glanced around, marveling at the thought that every one of these little shards was a pocket realm that had once been created by a Monarch like him. He raised his hand and let the shards drift past his hand, catching sight of each of the tiny worlds stored within.
+
+Now that he had one, he realized they were far more than pocket realms. They were a reflection of the person who made them, almost like a mirror.
+
+Is that why they appear as shards of glass here in the celestial fog? Because they are windows into the souls of past and present Monarchs?
+
+He wasn't sure, but he resonated with the idea.
+
+Then why did I absorb that pocket realm and turn into this... humanoid volcano? he wondered, furrowing his brows in thought. The answer was that he had no idea. Almost all information regarding the Monarch Realm and beyond was more legend than documented fact. No Monarch had an incentive to share their experiences with the world, lest it give rise to someone else who may one day match their power and threaten them.
+
+Perhaps I inherited the pocket realm in a way? Or maybe it had even belonged to a relative of mine, and I had gotten lucky with choosing it? Though I had felt drawn to that pocket realm, so maybe it chose me? Mhm, there is also the possibility that any person ascending to the Monarch Realm within a pocket realm would cause it to collapse, or maybe it was a feature of the Eternal Realm all along?
+
+Too many questions, and only guesses for answers. Why and how it had happened were ultimately not important. Magnus had spent a long time in that pocket realm and ensured it was effectively empty. It didn't seem to have any purpose—there were no hidden inheritances, monsters, or even formations that would suggest the place had been used for cultivation by anyone. It was simply there, a pocket realm filled with fire and volcanoes.
+
+Now it was inside him, in a way.
+
+Magnus sighed and lowered his hand, watching the many shards pass around him. He looked up at the seemingly infinite number of them.
+
+I know they say there's always a higher mountain, but I really let myself believe the Monarch Realm was the absolute peak. Yet faced with this, he was reminded how insignificant he truly was—no different from anyone else who called the ninth layer of creation home.
+
+His hand slowly curled into a fist. For some, such a realization might hollow everything out, making all effort feel pointless. But for him, it did the opposite. If the Monarch Realm, once an impossible dream, could now be revealed as just another step on a much taller climb, then the next step was just as reachable. Learning how little his current height meant only confirmed that he could ascend even further.
+
+Magnus turned and left the Eternal Realm behind. The threats Ashfallen faced were on the constant rise, so he knew he would return someday soon.
+
+But until then, he wanted to relax and enjoy the simple things reality had to offer.
+
+Feeling the celestial fog wash away around him, he stepped out into Ashlock's Inner World and blinked at the unexpected being heralding his return. The shadow angel floating before him simply met his gaze.
+
+"Welcome back, Magnus Redclaw," Ashlock's hundred overlapping voices echoed in his mind, shaking his freshly formed Inner World to its core.
+
+Magnus sighed.
+
+Sometimes, he wished the Ashfallen Sect could be a little less reality-breaking.

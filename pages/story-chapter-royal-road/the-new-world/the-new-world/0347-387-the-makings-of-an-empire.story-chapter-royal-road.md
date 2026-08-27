@@ -1,0 +1,211 @@
+---
+id: 4ff34952-26d1-571e-a43e-52c56a840110
+page-type-slug: story-chapter-royal-road
+title: "387 The Makings of an Empire"
+slug: 0347-387-the-makings-of-an-empire
+partOf: the-new-world
+position: 347
+ownLength: 3059
+unit: words
+ownProgress: 3059
+publishedAt: 2025-03-06
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2106752/387-the-makings-of-an-empire"
+royalRoadId: "2106752"
+markedReadAt: "2026-06-29T21:33:10.076Z"
+---
+
+Before I fell into my work, a crash erupted in the distance. Trees fell as an architect golem sliced the forest apart with its bladed feet. Kessiah walked beside it, pointing it in different directions. Further out, a guardian golem inspected people, ensuring nothing happened here. The executive toiled away in the inner sanctum while the vanguards patrolled near Springfield and other towns.
+
+Mt. Verner was safe. Plazia would secure Blegara after we talked, and Schema hadn't dropped any tasks at my feet about what I needed to do next. It left me plenty of room to prioritize new tasks. Considering what I could do, I set up another plan for the near future.
+
+It was time to conquer Earth.
+
+Chapter Begin
+
+Making that happen required a lot of steps. The most integral part involved handling the roaming eldritch and general dungeons. Eldritch could spill into their surroundings and morph an entire landscape in a few months. Stopping that saved people but also gave me official, Schema-verified control of an area.
+
+Given my planet ownership, I'd take a percentage of the experience and credits they earned in controlled zones. My gains for killing an eldritch reduced to nothing because of my level, but my guildmates' rewards wouldn't be. The percentage of their earned experience was worth more than what I would get if I killed the eldritch myself.
+
+That's why this was the best path to capping my level. The decision seemed intentional by Schema. He limited the experience I gained through the over-leveled experience reduction. In turn, my only way of capping my level was by building an empire and controlling an area. This weaponized my greed and desire for power, turning it into a force for good.
+
+Greed was good. In this context, at least.
+
+However, levels didn't matter as much to me in the grand scheme of things. Honestly, I'd wanted to do this for a long time. After the Yawm situation, I headed to Giess to get rid of my unknown status. In the process, I got embroiled in the war between Elysium and Schema. Helping Earth would've drawn Elysium here to use against me during that time. I fought a proxy war on Blegara before signing the ceasefire between Elysium and my guild.
+
+I was finally primed to help Earth, and I did. It lasted a few months before Schema pulled me into the lottery. It was one thing after another, and it felt like I had barely helped Earth after all this time. Thinking about it rationally, I had done what I could.
+
+The reality was that most of this guilt came from my warped sense of time. It had barely been five years since the system started on Earth, but I had probably experienced a decade of actual living—maybe more.
+
+The lottery added six months, not including my time magic. Having many minds made each second feel like several. I also never slept or ate anything, and that didn't even include the weird time flow of each rift.
+
+Even sitting on the stone shelf beside the others, I experienced a life of slow motion. My allies shifted with floaty movements, the sound around me bleeding in with a low drone. I did many things simultaneously, channeling mana into my cipher runes while thinking. My magic and skills left me out of touch with the real world, including what I was doing and the pace I did it at.
+
+Taking a moment, I pinched the bridge of my nose and furrowed my brow. This feeling of inadequacy wouldn't disappear, but I remembered what Torix said earlier. I was doing my best in a crazy situation. We all were. That eased this feeling, but I aimed to get the rest of this guilt out of me.
+
+To make that happen, I'd take care of Earth.
+
+While searching for a starting point in the empire business, I found nothing to bite on. In fact, I knew next to nothing about my Sovereign, empire, or guild statuses. The messages always mentioned different rights but never explained anything in depth. It didn't help that I hadn't even spent a few minutes reading through them, either.
+
+Taking a moment, I stopped that line of thinking in its tracks. It wasn't productive, and I gave myself some slack. Finally having the space to read, I opened my status screen and reread the empire messages. They contained little information outside of the Sovereign ones.
+
+The class could give me a lot of money if I owned a lot of working cities and planets, but I didn't understand those systems that well, either. Wanting more info, I opened up a glossary for the system terms using my obelisk.
+
+While Schema hoarded most information on his censored web, he kept this specific part out in the open. I started reading the guild rankings first.
+
+Hello system user! This is a guide detailing the various rankings of guilds. Each guild ranking is established based on the organization's influence. For a simplified understanding, each rank-up usually signifies a tenfold increase in influence over the previous rank. Here are the specifics:
+
+F Tier | A Hodgepodge, local group with little influence over even singular dungeons.
+
+E Tier | This is an organized local group with an understanding of regional threats, dungeons, and factions. There is an established presence of control over an area, with usually more than ten members.
+
+This rank is given a % of the revenues and experience within their controlled spaces. Usually 1-3%.
+
+D Tier | This large organization has regimented control over a wide area of over twenty larger dungeons. This guild often has established 1-3 cities and has a large-scale presence over several regions. Guilds of this rank often have one hundred or more members.
+
+This rank is given a % of the revenues and experience within their controlled spaces. Usually 2-3%.
+
+This guild rank usually has established at least one city with a warping station and currency conversion establishment.
+
+C Tier | Guilds of this rank have a national or multi-national level of influence. Often, they can control 20-30 cities with hundreds of dungeons under their direct control and clearing. They can even have slight sway on a planetary scale, though usually multiple C-tier guilds are required to have that level of effect.
+
+This rank is given a % of the revenues and experience within their controlled spaces. Usually, 3%.
+
+This guild rank usually has established at least ten cities with a warping station and currency conversion establishment.
+
+This guild controls an economy, allowing for far greater taxation.
+
+B Tier | These large, sprawling organizations usually control large portions of a planet. They can have significant control over a planet's surface, and allyships between B-tier guilds are decisive for a planet's overall state of being.
+
+This rank is given a % of the revenues and experience within their controlled spaces. Usually 4-5%.
+
+This guild rank usually has established at least one hundred cities with a warping station and currency conversion.
+
+This guild controls an economy, allowing for far greater taxation.
+
+This guild controls a large functioning army, allowing for war against other planets.
+
+A Tier | These are guilds with a total planetary influence. They are almost always dominant within their home world and solar systems. These guilds usually have established mining operations outside planetary bounds, such as on nearby moons or asteroids. They also can hold vessels off-world.
+
+This rank is given a % of the revenues and experience within their controlled spaces. Usually 5-15%. *Excluding planetary ownership rates.
+
+This guild rank usually has established at least a thousand cities with a warping station and currency conversion establishment.
+
+These guilds control an economy, allowing for far greater taxation.
+
+These guilds control a large functioning army, allowing for war against other planets.
+
+This guild usually has one to multiple species operating at a lower and upper class via passive questing.
+
+S- Tier | These guilds have branched out to multiple planets' worth of contact and control, allowing them to influence entire star systems. They have many economies, cultures, and species under their wing. They almost always control multiple planets, and their combat ability makes eldritch less of a threat than other high-tier guilds.
+
+This rank is given a % of the revenues and experience within their controlled spaces. Usually 5-15%. *This excludes planetary ownership taxes.*
+
+This guild rank usually has established at least ten-thousand cities with warping stations and currency conversion establishments.
+
+These guilds control an economy, allowing for far greater taxation.
+
+These guilds control enormous armies, allowing for war against multiple planets.
+
+These guilds usually have multiple species operating at a lower and upper class via passive questing.
+
+These guilds have accomplished S tier bounties, quests, and assignments given by Schema or Schema-verified Speakers.
+
+S Tier | These guilds have branched out to multiple solar systems' worth of contact and control, allowing them to influence entire galactic segments. They have innumerable economies, cultures, and species under their wings. They always control multiple planets, and their combat ability allows them to handle any threat.
+
+This rank is given a % of the revenues and experience within their controlled spaces. Usually 5-15%. *This excludes planetary ownership taxes.*
+
+This guild rank usually has established at least a hundred thousand cities with warping stations and currency conversion establishments.
+
+These guilds control an economy, allowing for far greater taxation.
+
+These guilds control planetary destroying armies.
+
+These guilds usually have many species operating at a lower and upper class via passive questing.
+
+These guilds have accomplished S tier bounties, quests, and assignments by Speakers or Schema.
+
+These guilds are given special privileges by Schema.
+
+S+ Tier | These guilds are the highest existence within Schema-owned space. They are ancient, revered, and worshipped organizations that have stood the test of time. The backbone of Schema-based society is founded on these guilds, and they prevent the eldritch from spiraling out of control via fringe worlds.
+
+This rank is given a % of the revenues and experience within their controlled spaces. Usually 5-15%. *This excludes planetary ownership taxes.*
+
+This guild rank usually has established at least a million cities with warping stations and currency conversion establishments.
+
+These guilds control an economy, allowing for far greater taxation.
+
+These guilds own galactic influencing armies.
+
+These guilds usually have one to multiple species operating at a lower class and upper class via passive questing.
+
+These guilds have accomplished S+ tier bounties, quests, and assignments by Speakers or Schema.
+
+These guilds are given special privileges by Schema.
+
+These guilds are always prioritized during galactic councils or during system updates.
+
+After reading through the massive pile of information, I set my guild's actual rank somewhere in the S- to C rank. Our combat ability rivaled what the S- Tier was supposed to dish out, if not a bit more, but we lacked the influence Schema mentioned. I required far more cities, economic influence, and dungeon control to be that level.
+
+Getting to the following breakdown, I opened my imperial menu, which was never mentioned in the status updates.
+
+Hello, ruler class individual(s)! This is a status screen dictating ownership of an empire. Empires can enact vast levels of control within their realm. Those options are listed below:
+
+- City Establishment -
+
+Allows for conditional city establishment assuming:A. Secured area without dungeons.B. No eldritch within city confines.C. Operating economy of larger than 100,000 individuals.D. Permits and documentation acquired from a Schema-verified Speaker.E. Areas allocated for warp and currency conversion centers near the city's center.F. Military control of the area.
+
+- Resource Ownership -
+
+Allows for ownership of all within your controlled domain. If not unlocked, Schema may confiscate particular objects of value.Certain ores, such as orichalcum, will otherwise be confiscated.Any willful illegal activity will result in the loss of owned territory unless this is enabled.
+
+- Passive Questing -
+
+Allows for the application of passive questing to select species within your domain. These species have their rights detailed by you. *Menu available.*There are numerous hierarchical positioning opportunities for these passive questing opportunities.If members leave their passive quests uncompleted, punishments may be enacted. Rewards are also available. *Menu available.*
+
+- Planetary Ownership Rights -
+
+Removes the limit to the number of planets owned.
+
+You may assign ownership of different planets to different guild members. This unlocks various classes for these individuals.
+
+Note - Ownership of planets does not guarantee income. Areas must first have dungeons cleared and processed consistently. A functioning economy exponentially increases income via credit exchange, and Speakers can further elevate spaces via questing and assignments.
+
+Inspecting the passive questing menu gave me some valuable insight into guilds. It was how different caste systems were enabled within empires. For instance, Obolis's empire likely used passive punishment quests to keep subservient species in line.
+
+When he granted me the skeptiles and Vagni, Obolis gave me the right to use this menu however I pleased with them. In effect, it was another name for slavery since the punishments could be damn near anything. They were even free.
+
+On the other hand, the reward menu came out of my pocket, explaining how Obolis kept the albony on top. They could complete easy passive quests for rewards, which got them ahead. The effects compounded, leading to vast economic differences over time. Either way, individuals could overcome these systems, but as a whole, a species couldn't.
+
+Peering at the other bonuses, they explained some of what I'd unlocked over the years. Having Schema recognize my monolith cities during the lottery accomplished more and less than I expected. Pretty much anyone could establish a city anywhere if they fulfilled the requirements. This made my monolith cities seem far less unique.
+
+However, the more I thought about it, the more I dispelled that line of logic. The hardest part of establishing a city was the requirement for 100,000 people working nearby. That was essentially impossible on a fringe world and would've been extraordinarily impossible on L-7. The other conditions piled onto that inconvenience to the point where cities didn't seem worthwhile on questionable planets.
+
+My process skipped all that, letting me ignore the red tape and flaming hoops everyone else dealt with. I could even have dungeons and eldritch within my cities, allowing me to harvest gains from them. That meant that once the dungeoneering problem was solved, the other parts of empire management would fall in place.
+
+That process began with Earth. I wanted everybody in my guild so they'd reap the benefits of my endurance legacy and tree bonuses. It would give humanity a leg up that they needed against the eldritch. Beyond that, offering basic supplies and necessities would help people prioritize leveling.
+
+Most of that could be handled by building a constructor golem and sending them off. It could give food, water, and shelter to people. Beating basic eldritch also wouldn't be a problem, given how much stronger my golems were because of my stats. However, they could be abused.
+
+My constructor golems lacked finesse, being unable to manage themselves or handle complex situations. We needed some task handlers for the big lugs of steel. After consideration, I figured pretty much any guildmate would do.
+
+It was something I'd thought about for a while. My guildmates had survived Yawm's invasion or joined the guild through Torix's recruitment. My legacy allowed them to establish necessities and threats for a settlement, especially with a golem's help. I could run in afterward, sweep the place clean of Eldritch with Event Horizon, and establish a city.
+
+Flying around would take a while, so I figured having Helios with me for warping was necessary. In fact, I could establish a few preliminary cities around major population centers before starting the operation. The warp centers and Schema's shops could help the teams travel faster and manage supplies. I could also model what and how I wanted this done.
+
+Once established, I'd start taking in talent with assigned Speakers for different places. Leaving a stockpile of earnable rings and artifacts in the cities would be the icing on top. With my guild members in each city, we could communicate with our guild messaging. If anything went awry, I could be there in moments.
+
+Income would pour in, and I could buy a ton of obelisks. I'd send them to each city since communication would be vital. We'd need a thousand golems and guild members helping out for the plan to work. I'd sweep to the largest population centers before we all dished out help in more rural areas.
+
+It seemed like a reasonable plan and utilized my guild's full potential. In fact, I could get a reference sheet for the most populated areas pre-Schema. With it, I could send a golem-guildmate team, or GGT, per million people on the given site. Detroit would get ten GGTs, while Lansing would get about two.
+
+It seemed like a reasonable plan for now.
+
+Before moving on, my extra psyches inspected my different status screens while I toiled. I might be missing something they'd find. They handled that while I returned to my current task - making the amulets for everybody. These artifacts ensured my guildmates' safety while I left, letting them go anywhere without worry.
+
+Well, without my worry, that is. After watching Obolis's downfall, I couldn't help but find myself in a similar place. He founded his empire and jumpstarted his species' prosperity, but he hoarded his gifts. Because he never took the time to fully arm those close to him, he lost everyone. I wouldn't be caught dead in the same position.
+
+That's why I would take this moment to ensure my people's safety. It was why I spent so much time on Mt. Verner, even as people died halfway across the globe. I was being selfish, and I couldn't deny that. But if I lost someone because I was conquering a territory instead of protecting them, it would kill me on the inside.
+
+To stop that, I pulled out a dozen blue cores, rotating them above me like a solar system of glowing Neptunes. Taking out my list of deserving guild members, I popped my grimoire out of my dimensional storage. I opened it and faced the cipheric carving I jotted down while Hod trained with Torix. I had a hundred-plus pages to reference.
+
+It was time to deck my guild out.

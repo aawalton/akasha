@@ -1,0 +1,59 @@
+---
+id: 4b924cff-7154-5623-b966-e915996cce52
+page-type-slug: story-chapter-royal-road
+title: "Announcement: New Story and Book News"
+slug: 0005-announcement-new-story-and-book-news
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 5
+ownLength: 543
+unit: words
+ownProgress: 543
+publishedAt: 2025-01-26
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2030629/announcement-new-story-and-book-news"
+royalRoadId: "2030629"
+markedReadAt: "2026-06-29T19:41:56.795Z"
+---
+
+Hi all, I have a few things I'd like to announce.
+
+First of all, I'm releasing a new story, Bookbound Bunny!
+
+(Temp cover for now)
+
+"Books contain countless wonders."
+
+Arakil, once a god of magic, found himself at odds with other deities. Imprisoned within his grimoire, he had to wait until the perfect person came along.
+
+That person was a bunny girl named Lily. An orphan with a frail body that ruined her chances of being an adventurer. But, she had a talent for penmanship and a thirst for knowledge - the perfect foundation for a mage apprentice.
+
+Seeing the opportunity to train a new pupil eager to improve their life, and sensing a chance to work towards his own freedom, Arakil teams up with Lily to foster her magical abilities.
+
+It started as something I only wrote a chapter or two after finishing my Syl chapters for the week. Effectively, I still felt like writing, but I wanted to avoid burnout and experiment with something a little different and new. Fast forward to today, and I've got an entire book.
+
+It's a more lighthearted, cozy, progression fantasy than Syl, but I hope you'll give it a shot. Writing it was a lot of fun, so I hope you enjoy reading it.
+
+The first 8 chapters have been posted on Royal Road today, and I plan to release 1 chapter daily for the first week. After that, it will be released on Tuesday / Thursday / Saturday, at the same time as Syl would.
+
+It's included in the same Patreon tiers as Syl; I considered having separate tiers like some other writers but opted to instead hopefully build people willing to follow "Lunadea," the writer, rather than only a specific story.
+
+Hopefully, it works out; who knows?
+
+Also I mentioned this before but Syl will still continue its usual 3 chapters per week on Monday / Wednesday / Friday.
+
+Anyway, onto the Syl news.
+
+Book 2's editing and audio recording were unfortunately delayed a bit. Considering how much people enjoyed the audiobook, we opted to keep it a synced release, which sadly means waiting a bit more.
+
+I'm keeping my fingers crossed there are no further delays, and I'll get a potential date soon. I really want to give ample notice again for when I need to STUB book 2.Here's the completed full cover, and I can't wait to get my hands on it:
+
+Syl's book 3 is also almost done on Patreon, which hopefully means I can send it to the editors as soon as possible to smooth the release between books.
+
+Book 3 is kind of funny because I originally planned for two major arcs to be in the book, but when I checked my word count, I realized I needed to start wrapping up the book! It can be crazy how the words sometimes sneak up on you.
+
+Speaking of book 3, here's the almost final full cover, only missing the blurb:
+
+Honestly speaking, this is my favorite one. I love the dark, moody colors and the glowing fungus. Once again, big thanks to Tsuu and Mango Media for these amazing covers; I love them.
+
+And... That's it, I think, for the news. Thanks again for your continued support!
+
+~Lunadea

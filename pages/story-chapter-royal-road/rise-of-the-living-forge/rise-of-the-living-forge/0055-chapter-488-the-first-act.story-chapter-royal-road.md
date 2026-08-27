@@ -1,0 +1,156 @@
+---
+id: 60e9f434-bf51-5b87-96ba-6da5f1b37565
+page-type-slug: story-chapter-royal-road
+title: "Chapter 488: The First Act"
+partOf: rise-of-the-living-forge
+position: 55
+ownLength: 2495
+unit: words
+ownProgress: 2495
+publishedAt: 2025-09-22
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2620301/chapter-488-the-first-act"
+royalRoadId: "2620301"
+markedReadAt: "2026-06-29T20:00:11.648Z"
+---
+
+Intense warmth beat against Arwin’s skin. His lips and throat were as dry as bone, a sharp contrast to the evaporating sweat soaking into his clothes. Queasiness swirled in his stomach like a potion within Esmerelda’s cauldron and the smell of brimstone and sulfur lingered in the air all around him.
+
+His eyes snapped open.
+
+Bright orange light poured over the stone platform he sat on. The Mesh was gone. The white expanse was gone, and all that remained was the real world — but something about it was wrong.
+
+Perhaps wrong wasn’t the word he should have used. It was just the first one that his mind managed to muster. His senses felt addled. Mixed, like he’d been spun around a thousand times before being plopped right back down in the same spot he’d been sitting before he’d met with the Mesh.
+
+Arwin went to move. A wave of nausea exploded up within him. He doubled over and retched. A wave of viscous black fluid poured from between his lips. It splattered against the stone before him, coming in a wave that felt far longer than should have been possible.
+
+It went on for nearly five seconds before finally coming to a halt. Arwin shoved himself back, staggering upright as he gasped for air. The taste in his mouth was wretched. Worse than anything he’d ever tasted before. It was like gore and rotted flesh and ash all mixed into one.
+
+He felt like he’d somehow lost ten pounds in an instant. And, judging by the large pool of vile liquid at his feet, that number might not have been an exaggeration at all. Body trembling, Arwin wiped his mouth with the back of his hand.
+
+The queasiness faded. His body slowly returned itself to his control, though the awful taste made no moves of vacating his mouth. He swallowed, then wiped his face again. The vile liquid that had poured from his mouth had started to sizzle against the stone beneath him. That certainly wasn’t helping its awful smell.
+
+What the hell was that? What happened to me?
+
+The conversation he’d had with the Mesh drifted through his head, fragments at a time. His memories were thick and foggy, almost as if they were a fading dream. But still he remembered.
+
+There had been no dream. It had all been real. And, even if his memories had faded, that truth had been etched into his very body. He could feel it. Something was different. Every part of Arwin felt… more.
+
+He was vividly aware of himself in a way that he never had been before. It wasn’t a scientific understanding as much as an innate connection to all the parts that made Arwin who he was. He could feel the very veins running through his flesh, the magic within them pumping through his entire body.
+
+Arwin pressed a hand to the side of his head. The bubbling coming from the volcano beneath him felt oddly centering. Perhaps it just gave him something to focus on. He stood there for several long seconds, just waiting.
+
+The last thing he wanted was a dizzy spell to suddenly hit and send him falling off the edge of the platform into the waiting lava below. But more dizziness never came. Arwin’s newfound connection to his body only continued to solidify.
+
+Whatever had happened to him… whatever Sunsetting had changed, it was done.
+
+And with that newfound clarity came another thought.
+
+Are there changes to my class as well?
+
+He had no idea what Sunsetting would have done to his class, but the Mesh had implied that some of his abilities would change. There was only one way to find out for certain. Arwin summoned his status with a thought.
+
+Golden letters blossomed through the air before him.
+
+Name: Arwin Tyrr
+
+Class: Living Forge (Unique)(Tier: Adept 3)
+
+Specialization: Forbidden Soulmancy
+
+Skills:
+
+[Awaken] (Passive) – All items forged by your hand have the potential to take on a trait, determined by your desires and the components utilized in the item’s creation. Materials with a higher chance to awaken will fight with you to exert their influence on the piece they are being made into.
+
+[Forbidden][Volcanic Presence] – Passion burns within you with such intensity that it become manifest. You are guided by your deep relationship with the soul lava that has molded your soul and your personal path of Dwarven Smithing. You may draw out your soul, empowering your forge and turning it to Soul Lava. Increasing the amount of magical energy you use to form the Soul Lava will increase its intensity and the amount that is manifested. Your Soul Lava can pull all the traits from a magical item and allow you to transfer them onto other items without pre-existing magic. It will consume all materials given sufficient time. This ability can also manifest Soul Flame. You are resistant to all heat created by this ability.
+
+[Arsenal] – You live and die on your equipment, so you might as well make it part of yourself. Bind yourself to [10] pieces of equipment, summoning and dismissing it at will. The number of equipment you can bind to scales with your Tier, up to a total of 10. Unbinding a piece of Equipment will make this skill inactive for 1 day. You may temporarily bind yourself to 1 extra piece of equipment after holding it for an amount of time scaling with the difference between your current Tier and the Tier of the item’s holder. Breaking this bond will not deactivate [Arsenal].
+
+[Dragon’s Greed] – Your hunger for magical power has begun to manifest itself in the physical world. Extend your senses to search the area around you for magical items at the cost of significant magical energy. The range of this effect scales with the amount of magical energy used. At the cost of extra magical energy, the focus of this ability can be targeted to a specific type of magical item or material. It can also detect hidden magical items worn by others.
+
+[Unleash] – A master of cursed items never fights alone. Meld your power with that of an item bearing a soul, allowing it to temporarily manifest itself. The effects and duration of this ability depend on the strength of the targeted item. Stronger items will require increased amounts of magical energy to maintain their bond, and this ability is ineffective on items whose requirements exceed the magical energy you can supply.
+
+[CURSED][Soul Guardian]: Draw upon the connection between yourself and the Infernal Armory, temporarily melding your spirits into one and inserting them into an object capable of containing them. The Soul Guardian’s strength is magnified by your own and is strengthened by any materials within the Infernal Armory. For this ability to function, a Soul Guardian must be crafted. The Soul Guardian is powered by [Soul Flame], and a portion of the damage it takes is transferred onto you.
+
+[Shroud of the Harbinger](../../../../rise-of-the-living-forge/royal-road/rise-of-the-living-forge/chapters/Passive) – Loosen the restraints binding your soul, allowing it to partially meld with the Awakened weapons in your possession and strengthen yourself within any Visions. This ability can be activated, allowing the full potential of your soul to burst free in in a wave of magical pressure around you. The direction and intensity of the pressure can be controlled by applying extra magical energy to this ability. Magical entities impacted by this pressure react in a way dependent on the difference between their strength and that of the source of this ability.
+
+Titles:
+
+[Indomitable Bulwark] – You have withstood a blow that would have leveled a city. Damage from all attacks is reduced by half and your mental fortitude is greatly increased, granting resistance against all types of magical coercion and mental effects.
+
+[The Hungering Maw] – An enormous burst of energy has permanently infused you with magic, but not without cost. You must consume objects or items with Magical Energy equivalent to your current Magical Power every week to survive. Consuming an item temporarily grants you some of its properties. The Hungering Maw’s palate has advanced and it has a significant chance to ignore detrimental effects of items that it has eaten. Its senses have spread to other portions of your being, currently allowing you to smell magical energy and quality within items.
+
+[Stonesinger] – You crafted an Awoken item with a magical component that was beyond your comprehension, and your efforts have attuned you to the whispers of the world. If you listen close enough, you can speak with magical materials – though they may not wish to reply.
+
+[Inevitable End] – Awarded for killing an overloading monster a full Tier above you from a location where it could do nothing but wait for death. Try not to make it a habit. Perceptive opponents will be able to pick up the promise of death that seems to find those who place themselves in your way.
+
+[Couple of Crafters] - Linking your intent with your partner enough times has established a connection between you so long as your goals remain aligned. The dissonance between you and your partner’s intent has been permanently reduced.
+
+[Harbinger of the Forsaken] –You reached out to the deepest reaches of your soul and welcomed the shadow that lurked within into the light. That might not have been a good idea. You can now sense and forge the emotion contained within some materials — whether you want to or not. In addition, Cursed items you craft are shrouded from all but the strongest of gazes.
+
+[The Rot] –You have defeated another Cursed entity, permanently unlocking the full potential of the Cursed Dwarven Smith path. You may now receive [Cursed] Skill upgrades.
+
+[Questgiver] – Your zeal to aid your allies has manifested raw power from mere desire. You may grant a challenging task to an individual at the cost of magical energy. Upon its completion, they will receive rewards directly correlating to the difficult of the task.
+
+It took Arwin a few moments to read over everything. The last time he’d looked over his full status had been quite some time ago. There were definitely changes to the descriptions. Some of his skills had combined. The page was still painfully long, but it had gotten a bit shorter. But that wasn’t all.
+
+Most notably, his Achievements had vanished. They were gone entirely. The Challenges page was still there, but there had been no change to it, so he paid it no extra heed. While his abilities did seem to have gotten slight changes and improvements, most notable in [Awaken], there hadn’t been a massive shift in written power.
+
+It was everything that hadn’t been written that felt different. The power burning in Arwin was like nothing he’d ever felt. Before, the Mesh had flowed through him. Now it was him.
+
+He could feel that he’d gotten stronger. Tougher. And by magnitudes that he wasn’t even sure of yet.
+
+Raw potential burned inside his body. It was just waiting to be used. To be earned. The only way he’d discover just how effective it would be was to put it to the test. To craft and to fight — and to see what power he could claim for himself.
+
+There was no doubt in Arwin’s mind that Mask most certainly had not been Sunsetted. Eleven’s information had been wrong. If Mask’s class had been changed like this, then he never would have been defeated so easily.
+
+Arwin also couldn’t help but notice that [Scourge] was gone. But… perhaps gone was the wrong word. He could still feel the power. It was still there, but it had been infused into him so deeply that it no longer even had a spot on his status.
+
+The power was just… there.
+
+Arwin’s legs tensed. Perhaps it wasn’t the smartest move, but the energy burning in him demanded an escape. It demanded to be tested. His eyes focused on the pathway dozens of feet above him.
+
+Then he leapt.
+
+The world blurred past his face. A delighted laugh slipped from Arwin’s lips as he flew through the air, slamming down on the path exactly where he’d been aiming. And the landing was graceful.
+
+Arwin was a lot of things. Graceful was not one of them. At least, it hadn’t been. But now, with this newfound integration of his magic and body, with this new awareness — he could control his movements in ways he’d never tried before.
+
+His control over everything was absolute. He knew in an instant that, if he’d tried to summon Caldera and swung the hammer with all his might, the blow would hit far harder than he ever could have, even when using [Scourge].
+
+This is incredible. Setting Sun… is every one of their members like this? Twelve certainly wasn’t. Maybe the power manifests itself differently in everyone?
+
+He looked up to where Eleven and Two waited. The two of them were staring down at him. But what he found in their gazes wasn’t what he’d been expecting. There was no knowing look in their eyes, no smug satisfaction that he was feeling what they had.
+
+They were stunned.
+
+Arwin leapt once more. He sailed through the air to land directly before them. Both took a step back, staring at Arwin in disbelief.
+
+“You can move?” Two asked.
+
+“Evidently,” Arwin replied. “Is that abnormal?”
+
+“Yes,” Two said. He stared for a moment longer before shaking his head. “Very. Do you feel… different?”
+
+“I feel incredible,” Arwin said. His nose scrunched. “Though my mouth tastes like death.”
+
+Eleven and Two exchanged a glance.
+
+“Your previous Sunsetting…” Two muttered. “It must have prepared you. Are you able to feel—”
+
+“Yes. I feel the Mesh. It’s like a part of me,” Arwin said, knowing the question before Two could finish asking it. “And when were you planning on telling me that Achievements were a limiter rather than a boon?”
+
+“You saw that the page was gone, did you?” Two asked with a wry smile. “Yes. There’s a reason Sunsetting is so powerful. There’s a reason we guard it. I have to warn you, you’ll have to—”
+
+“Keep it secret,” Arwin finished. The Mesh had told him as much. It had also told him not to speak of their conversation. “Yes. I know. Beyond my guild, nobody will hear of this. I guessed.”
+
+“Good,” Two said. He stared at Arwin for a moment longer. “You feel fine? No side effects?”
+
+“No bad ones so far.”
+
+“Then… I suppose you should go get Lillia, shouldn’t you? We should get all of you ready for what is to come as soon as possible. There’s no reason to delay Sunsetting her class.”
+
+Arwin smiled. If he’d gotten this much stronger, then he couldn’t even begin to imagine what boons Lillia would get from Sunsetting her own class.
+
+I can’t wait to see her reaction to this.
+
+“No. There isn’t. Let’s go get her, shall we?”

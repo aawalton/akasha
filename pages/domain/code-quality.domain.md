@@ -4,7 +4,6 @@ page-type-slug: domain
 title: "Code quality"
 slug: code-quality
 domain-parent-slug: domain/coding
-persona-champion-slug: thea
 required-reading-slugs:
   - domain/file-structure
   - domain/generated-file

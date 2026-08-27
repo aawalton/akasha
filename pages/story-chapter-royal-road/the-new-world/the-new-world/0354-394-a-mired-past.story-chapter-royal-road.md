@@ -1,0 +1,311 @@
+---
+id: f05d598f-0a12-55b7-8170-92c0b9f46f4f
+page-type-slug: story-chapter-royal-road
+title: "394  A Mired Past"
+slug: 0354-394-a-mired-past
+partOf: the-new-world
+position: 354
+ownLength: 2717
+unit: words
+ownProgress: 2717
+publishedAt: 2025-03-12
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2122828/394-a-mired-past"
+royalRoadId: "2122828"
+markedReadAt: "2026-06-29T21:33:25.564Z"
+---
+
+My eyes narrowed.
+
+"And what makes you so sure?"
+
+Neel scoffed.
+
+"Kiddo, I knew you before the system."
+
+I leaned back. Neel stood tall.
+
+"Daniel Hillside. Certified punk. A tough boxer. And someone who took beatings from his daddy before dishing one back. Good one, by the way. That prick deserved it."
+
+Feeling vulnerable, I took a deep breath.
+
+"You. Who are you?"
+
+Neel peered off.
+
+"I know it's hard to believe but-"
+
+He met my eye.
+
+"I'm your grandfather."
+
+Chapter Begin
+
+The shadow of anger loomed over me before I loomed over Neel.
+
+"And you expect me to believe you'd come out of the woodwork after all these years? Excuse me if I find that hard to believe."
+
+Neel kept his eyes on me.
+
+"Hell no. I wouldn't expect you to beleive me even if I told you on the moon. If I'm honest, I still barely believe it myself. Besides, I'm sure plenty of people pretend they're your kin."
+
+My words boiled.
+
+"No. So far, you're the only one."
+
+"Well, just because it's unlikely doesn't make it untrue. And I can prove it."
+
+A temptation lingered in my mind. I could break Neel's psionic barriers and check his memories. I guaranteed any information I obtained that way, and I could skip listening to whatever Neel cooked up. Before I acted on impulse, I calmed myself down. Tearing this man's mind apart felt like crossing a barrier. It would be like choosing to kill for the first time.
+
+I had already destroyed many minds before, but this was for a different reason. As the temptation reared its ugly head, Neel raised his palms.
+
+"Alright, let's see. Hm. Your Dad's name was Jacob. He's an alcoholic. He always talked about his bum of a father. Your mother was Angela. The name fit 'cause she was an angel."
+
+I shook my head.
+
+"You could've just known me before the system."
+
+Neel gulped.
+
+"Ok. So, your birthday was August 12th, 2000. You had an O+ blood type. Uhm, you hated cheese while growing up."
+
+I had no clue what my blood type was, but the cheese comment was strange. I, in fact, had hated cheese. Despised it, really. The flavor grew on me over time; as a teenager, I loved the stuff. At the very least, Neel knew me as a child.
+
+"Closer, but not enough to be my good old grandpa."
+
+Neel took a breath, squeezing his hands to fists by his sides.
+
+"You, Jacob, and Angela always went to Ray's Ice Cream shop on every one of your birthdays. You'd play mini-golf there. You didn't stop going until Angela collapsed on your 7th birthday."
+
+I winced. That was very specialized knowledge.
+
+"Ok, there's some substance there. You could've just seen it happen, though."
+
+Neel's face scrunched up.
+
+"You all went to the hospital, and she was diagnosed with stage four lung cancer. She never smoked, but Jacob did. When Jacob held her hand there, he said he'd quit smoking in the house."
+
+Like a bursting oil pipe, emotions flooded out of me. A plethora of questions erupted in my mind. One took precedence.
+
+"Why haven't I ever heard of you?"
+
+Neel sighed.
+
+"A thousand reasons. I wasn't...I wasn't a good man for most of my life. Ever, really."
+
+I snarled.
+
+"That sounds like an understatement. Where the hell were you when Mom was dying? When my father needed someone to help pull his sorry ass back together?"
+
+Neel peered away, shame striking his face like a hammer.
+
+"I'm as reliable as a sundial at midnight."
+
+"Unreliable, sure, but that doesn't explain anything. I need to know why. Why would you leave your family to burn like that?"
+
+Neel turned a hand to me.
+
+"Do you want the short of it or the whole thing?"
+
+I shook my hands.
+
+"The entirety of it. Every last detail you can scrounge up to stop me from demoting you to a janitor."
+
+Neel walked over and sat at the edge of the base's extension. With his feet kicking over Chicago's ruins, Neel murmured.
+
+"Heh, that wasn't too bad a threat there, kid. The thing is, this guilt in my chest, it's heavier than lead. I'd rather spend the rest of my life in a dungeon than live one more day bottling all of it up."
+
+I noted that this was about him. I walked over.
+
+"Then start explaining."
+
+"I guess I'll start with Jacob."
+
+I stood beside him. Neel stared at Lake Michigan.
+
+"I went to Nam for four tours. By the time I got back, I wasn't a man without a war to fight. I got through it by leaning on the warmth and comfort of a needle, and she never failed me. Well, eventually, that's all she ever did. Then I met Betty, your grandmother. She was the warmth I needed so badly."
+
+His eyes went distant.
+
+"God...She didn't deserve me. I was the worst thing that ever happened to that woman."
+
+I kept my eyes on Lake Michigan, but I listened to the sound of his heart and felt the moisture off of him. He didn't sweat, and his pulse didn't rise. Either he was a psychopath or telling the truth. Neel rubbed his hands down his face.
+
+"After we had Jacob, I got into using heroin again. Well, more than before. I...I just about killed us both. Betty kicked me out of the home, and I just drifted for years. Years and years. I hardly remember even living during those days. I did see every U.S. state, some of Canada. Even a piece of Mexico."
+
+I raised my brow. My voice was like acid.
+
+"Hm. I see where my father got his best traits from."
+
+He winced.
+
+"I deserve that. But, at least I got back to Betty before she died. We had a few good years before she died of Parkinson's. By then, Jacob just hit thirty. You were, hm, about three years old. Angela was an absolute saint. Even from a distance, they were just like me and Betty. I could tell Angela didn't deserve the man she found either."
+
+Neel gulped.
+
+"It's so strange how life moves in these cycles like that. One day you're doin' something you hate. The next, you see that your family's suffering from the same damn thing. It's like a curse. It never leaves yah."
+
+A piece of me hollowed out hearing that. I grimaced.
+
+"Oh, I'm well aware."
+
+Neel leaned back.
+
+"You know, there's a lot of her in you. Angela, I mean."
+
+I kept calm as I turned to face him.
+
+"Why didn't you come by earlier? We could've used the help."
+
+Neel smiled but his eyes carried sadness.
+
+"Son, where you're at, damn near no one can help you now. You're in uncharted waters from what I've heard."
+
+I bit my cheek.
+
+"I'm talking about before, when mom died."
+
+Neel frowned.
+
+"Ah. Yeah...The thing is, I was still struggling."
+
+I suppressed the urge to slap his skull off his head. Neel didn't notice my rage as he kept talking.
+
+"I kept struggling for another five years, being a bum. I didn't end up getting a job until I found Buddhism. I had to let go of the war and what had happened to me. You know, not let it tell me who I could and couldn't be.
+
+You're father and I got close at that time. As close as we could be. It wasn't perfect, but it was more than we'd ever been. I learned about you. Watched a few of your birthdays. You were a fine young man. I was proud of how Jacob turned his life around too."
+
+Neel shook his head.
+
+"Until Angela passed. That...That wasn't good for either of us."
+
+My skin bristled. I'd heard the same tone of voice from Dad lifetimes ago, but it still scalded against my skin. No, more than that. It spiked my adrenaline and ignited my fury. It was an excuse, the kind that justified beatings from flushed fists or screams shouted with booze-laden breath. I held in my anger as I murmured.
+
+"I'm sure you both struggled."
+
+"We did. I know you struggled the most though. It couldn't have been easy dealing with it all."
+
+My gaze hardened.
+
+"Obviously. That's in the past though."
+
+Neel grimaced.
+
+"That's the thing I figured out. Nothing's in the past. We carry it forward. We all do. I thought I had put the war behind me decades ago. I kept on thinking that even while carrying all the pain with me. It gets heavy. So heavy that you just want to run away from it all. From everything."
+
+I raised my brow, my voice like steel.
+
+"And now you think I'm carrying my pain?"
+
+Neel shook his head.
+
+"I don't think I know you half as well as I'd like. I'm tellin' you what I've experienced is all. Besides, you've done more than I could've ever imagined. You can't know just how proud I am of you. If I died today, my life would have been worth it knowing that I was able to make something good with my life, even if it was just you."
+
+A piece of me warmed when I heard him say that. I wanted to reach out and hug him for saying something I would've loved to hear after Mom died. From my father. From anyone in my life at the time. It would've been a healing salve on an aching wound. But those days were long gone, embedded in a brutal past that I'd never forget.
+
+Another part of me roared out in hate. I hated the part of me that wanted this old man's approval. I hated the fact that after all these years, I'd love to hear my father say the same. I hated how much I wanted to hear my mother's voice again. All these thoughts and feelings I had pushed down rushed out, and they threatened to overwhelm me at that moment.
+
+But I was a boy no longer.
+
+My voice was like ice.
+
+"You think the good I've done in any way relates back to you? That I accomplished what I've accomplished because of you in any way?"
+
+Neel blinked in shock. My words were a hot iron against his face. He peered down.
+
+"I...I guess not."
+
+I squeezed a hand into a fist.
+
+"You mean nothing to me, just like my father. He abandoned me when Mom died. You abandoned me before I was even born. Before I could even remember who the hell you are. What makes you think you deserve redemption from me?"
+
+Neel nodded.
+
+"I haven't done half enough, and you're not wrong. But please, hear me out-"
+
+I swung my hand, wind billowing off my arm.
+
+"You think I have to listen to you? I've already made a life out of the ruins you left behind. I'm not going to be like you or like my father."
+
+Neel stood and stared at me.
+
+"You think I don't know that? You broke the chain. Shattered it. That's not easy to do. Believe me, I know."
+
+I heaved for breath, and I radiated anger. Despite my overwhelming advantage in power, status, and ability, I felt small. I felt smaller than I had in years. I snarled.
+
+"One chance. Talk."
+
+Neel raised his hands.
+
+"It was wrong of me to try and steal your thunder. You're right. Who am I to tell you what you think? To tell you what to believe. I'm an old man who's barely made it this far. You're a young gun that's got the world in the palm of your hand."
+
+A slight smile traced up his lips.
+
+"And that's the crazy thing. You've got a big palm. I'm not worried about you one bit. You got them politicians beat by miles, I tell you. In the old world, they fought tooth and nail to get something they didn't deserve. You seized it with your own two hands. Nobody can take that away from you."
+
+He was wrong about that. I was thrown into this position before accepting it. It was something I contemplated a lot. In many ways, every great leader's power was a burden they all carried. On the other hand, every great tyrant's power was a burden carried by all. I strove to be different, but I didn't know whether I achieved it or not. For the most part, all I'd done since the system started was survive.
+
+Now, I was trying to make sure everyone else survived with me.
+
+And this man, regardless of what I felt, was a survivor. He wore scars all over his face and shoulders from battles fought long ago. I'd help him, but it wasn't because of sentimentality or newly forged feelings. He helped my guild and these people. He earned a second chance at life.
+
+But a second chance at being my grandfather? Hell no. That well dried up decades ago. I pulled myself up with a gravity well, making sure to drag the dimensional anchor with me. I sighed.
+
+"Thanks for the talk."
+
+He reached out a hand.
+
+"Wait a minute."
+
+I turned away before trying to fly off. The dimension I carried held me back, prolonging an otherwise ended conversation. Neel spread his arms.
+
+"I know I don't deserve a second chance. I left you to rot all your life, and now I'm coming back after you've already gotten everything you ever wanted out of life."
+
+I closed my eyes. Everything I wanted? I wanted a decent father. I wanted a decent childhood. I'd never have those. I stopped flying away.
+
+"We agree on that. What's your point?"
+
+Neel reached out a hand before pulling it back. Words sat on the tip of his tongue, and he mulled them over before clenching his hand into a fist. He shook it.
+
+"I know...I know this is shameless. I just want to learn who you are. Learn about your past. How you became the man you are today."
+
+I turned to him.
+
+"Why would I do that?"
+
+Neel lowered his arm.
+
+"Because I promise you this: no matter how much you try to deny it, a family matters. It will weigh you down and become a sinking anchor in your chest, and it will hold you back in ways you don't even realize. Here's what I mean. I was beaten by my daddy, and I beat yours. He-"
+
+"Jacob beat me. Is your great revelation about how much of a piece of shit you are? Because that's crystal clear."
+
+"That's why I want you to know what happened. To think it over and know what's going on. I think...I think it's important. I don't know why, but I do."
+
+I paused, slowing down time. For a while, I stood still and enjoyed the sensation of having my minds ripped apart. It was better than having this conversation. After a while, my psyches wandered. I thought about everything that happened and about this situation.
+
+A part of me wanted to accept the apology and give this old man a shot at redemption. A far larger and stronger part of me wanted to move on. To leave this behind. I furrowed my brow, and I took a deep breath. This wasn't something I could run away from forever. It was better to leave it settled.
+
+I furrowed my brow.
+
+"How exactly would you want me to know my family better?"
+
+Neel breathed out, a palpable wave of relief washing over him.
+
+"Thank you. Thank-"
+
+I raised a palm.
+
+"Don't think for a second we're on amenable terms. You've got ground you need to gain before I consider you an effective subordinate. You slip up in any way, and we're done. Do you understand me?"
+
+Neel gave me a two-fingered salute.
+
+"Aye aye, sir. Loud and clear."
+
+"Good. So, about learning about my family. What did you have in mind?"
+
+Neel puffed out his chest.
+
+"I think I got a lead on Jacob."
+
+I closed my eyes. My wake crept over my surroundings, and it suffocated the air. I glared at Neel, and the old man paled. I clenched my jaw.
+
+"So, the old man's still kicking? I wonder if I should change that."

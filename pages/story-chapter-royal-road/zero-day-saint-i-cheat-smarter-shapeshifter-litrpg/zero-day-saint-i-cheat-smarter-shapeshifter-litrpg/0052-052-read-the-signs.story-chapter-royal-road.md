@@ -1,0 +1,267 @@
+---
+id: b965e607-ef3b-576c-80b3-eb1e24f4fcc8
+page-type-slug: story-chapter-royal-road
+title: "052 - Read the Signs"
+slug: 0052-052-read-the-signs
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 52
+ownLength: 2020
+unit: words
+publishedAt: 2026-07-03
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3625152/052-read-the-signs"
+royalRoadId: "3625152"
+---
+
+I stood in front of the plank that led from the boat to what used to be Manhattan. The boat hadn't been originally anchored here, but they hauled it all the way over so it would be as close to a subway station as possible. With Anthony's ability to understand how those spaces connected, New York grew significantly smaller. At least for those who understood how to follow his directions. Supposedly they were rather esoteric.
+
+The plan had been that Jamie would show me how to use the shortest path to get to the club, where the others were busy 'working' on the place. I wanted to thank them and then check out the hyenas. My own babies were making me look bad compared to Helene's.
+
+The moment I stepped on the plank and left the sanctified space of the boat behind, I knew it wouldn't work.
+
+"Nope," I said.
+
+"What's the problem?" Jamie asked.
+
+I took a step back.
+
+"I'm screwed up. The idea of going down into those tunnels is seriously fucking with me. And I can't go to the hyenas if I don't know if I'm being watched."
+
+"That's okay, Eve. You can take some more time off. We'll make sure the hyenas are fine."
+
+"I don't think a day of bed rest will do me any good. It won't fix what I experienced down there. I—" I pushed past Jamie. "Just give me a moment, okay?"
+
+I unclenched my hands. My claws had left bloody marks in my palms. I ignored the questioning glances of the others and the friendly greeting of the dogs and went back into the room I had woken up in.
+
+"How dumb am I if I make my subclass choice to deal with my paranoia?"
+
+"All choices serve the one purpose: survival. You do what you have to do. Just tell me you aren't going for the dragon one?"
+
+Only when Gabriel's voice steadied me did I understand how upset I still was.
+
+"What? Wyrmling Ascendant, an entire class dedicated to a single shape that isn't even useful right now, is not the right choice?"
+
+"It was in your final considerations, wasn't it?"
+
+"Apex Seeker."
+
+"Which also was among your final choices. Can hardly be 'dumb,' can it?"
+
+"Are you being snarky with me, Gabriel?"
+
+"I just wish you wouldn't frame very real concerns as personal failures. What you went through was horrible. Seeking a way to keep going despite the wounds you still carry is not weakness but strength."
+
+"You just say that because you hate casters and because the other choice is pure fire power."
+
+"I don't, and you know it. Apex Seeker is a good choice."
+
+"Yes, I know. I just fear that even when I make a good choice for a bad reason, it makes it bad."
+
+"Protecting your pack? Protecting your friends from the warlords' spying eyes? Those are stronger reasons than you could list for any other class."
+
+"And you already know you'll regret it anyway," Lucy said. "Personally I'm a fan, though."
+
+"Oh? Please do elaborate."
+
+"Casters are nerds, you don't want to be a lesser Ash, there already isn't a lot to the guy. Look at your outfit and tell me a raging beast class fits that? No? Thought so. The dragon thing is a one-trick pony. Your trick is going fast. So yes, pick the one that makes you aware of more things. You are good at puzzling things out—the more you see and notice the better you can deploy your true strength."
+
+"Which is?"
+
+"Really? Fishing for compliments, are we? Fine. Your mind, Eve."
+
+"I agree with the devil," Gabriel said.
+
+"That's twice today. One of you is starting to slack."
+
+I accepted the Apex Seeker. And everything got a lot more detailed.
+
+[Apex Seeker - Subclass
+
+Predator's Perception - Passive
+
+Heightened Senses gains +5 effective levels and gains accelerated progression.
+
+Heightened Senses can contest supernatural stealth, camouflage, and obfuscation.
+
+-
+
+Read the Signs - Passive
+
+You passively notice environmental disturbances that indicate recent movement, habitation, concealment, or predation.
+
+This includes tracks, scent traces, displaced debris, unnatural silence, feeding sites, ambush positions, and escape routes.
+
+-
+
+Seek the Unseen - Spell
+
+Cost: 5 Mana
+
+Cooldown: 30 minutes
+
+Effect: Define a broad category of target. For a short duration, gain instinctive guidance toward the nearest valid match within range. The more specific the category, the shorter the range and the more precise the guidance. The broader the category, the longer the range, and the vaguer the guidance.
+
+-
+
+Uncanny Quarry - Passive
+
+When you have identified or tracked a target, you gain increased awareness of its likely movement, routes, and hiding behavior.]
+
+I could hear the music playing on the other end of the boat. At a glance I identified countless traces of Gabriel, Lucy, and Jamie in the room. I knew how both of my Guides just vanished into thin air and Jamie's exact position and the steps he took there.
+
+All of that was expected. I stared at the chair, which first Jamie and then Gabriel had occupied. And how it carried the slightest traces of Lucy. Left there because they had been on someone who had occupied that chair.
+
+"Hey, you two. While I was asleep. Did you two happen to manifest around here? In close proximity?"
+
+"Yes," Gabriel said.
+
+"Uncharacteristically succinct."
+
+"Indeed," she said.
+
+Lucy had told me how they could have weaponized their own fear against me. If that fear hadn't been real, they couldn't have lied about it.
+
+All the while I was fighting for my survival, they had to watch and wait. Unable to influence whether their existence would continue.
+
+I would have needed a hug, too.
+
+I bounced off the bed.
+
+"Yeah, fair enough. No further questions."
+
+Once more I wordlessly walked past the others. Jamie was leaning against the railing, facing the city. I sat down next to him, my legs dangling over the edge. I scanned the coastline and the buildings beyond.
+
+He looked down at me and smiled.
+
+"Picked your class?"
+
+"Yup."
+
+"What's it do?"
+
+"Sharper senses, can pierce supernatural concealment, Sherlock vision. Oh, and a spell to find a thing. The more specific, the shorter the range, but the more precise the guidance."
+
+"That mostly makes sense. But what the hell is Sherlock vision?"
+
+"Oh, you know, instantly parse tons of small details to make reasonable deductions."
+
+"Well, no surprise birthday parties for you."
+
+"You don't even know my birthday."
+
+"Could always ask Claire."
+
+I got up. There was nothing out there I could spot. Nothing more I could do.
+
+"Let's go," I said.
+
+"Will this help with the tunnels?"
+
+"Not a bit."
+
+I still had eight Attribute points to spend. Two went to Intellect to raise it up to 18, four to Intuition to raise it to 21, and two into Agility, raising it to 9, mostly because it was falling behind. Mind over Matter was now granting me +6, +7 and +2 respectively.
+
+#
+
+I looked down at the steps leading into the gloom of the subway tunnels.
+
+"You know, maybe it would be easier if I became a spider? They totally love living in such tunnels."
+
+Next to me, Jamie tensed.
+
+"Please don't."
+
+"We're not stronger if we are both struggling with irrational fears, hm?"
+
+"Pretty sure that makes us weaker, not stronger."
+
+"I know. I'm just buying time."
+
+"Take however long you need. Want to sit down for a bit?"
+
+"Hell, no. This is not an abyss I want to stare into for too long."
+
+I closed my eyes and snapped my finger. Even without the orca's specialized organs to parse it in detail, the echo allowed me to make out the rough shape of the staircase in front of me.
+
+I snapped again and took a step down, eyes still closed. There were no traumatizing tunnels if I couldn't see them.
+
+If only it were true. They smelled wrong. What was in front of me didn't have the distinct aroma of a New York subway station. It smelled like every subway station. Details erased into one big fucking average, devoid of identity.
+
+Another snap, another step.
+
+My instinct was still to run. I knew that any moment I would get swarmed, and only speed would save me from certain death.
+
+I activated Seek the Unseen and muttered, "A nonhuman supernatural being."
+
+The spell's guidance told me that I'd locate my target somewhere behind me, in the remains of Manhattan. No supernatural ambush ahead. Mundane ones I could deal with.
+
+Next to me, Jamie's flashlight clicked to life.
+
+"Five minutes tops," he said. "Down one tunnel, brief detour through Mexico City, and right back to New York."
+
+"Take the lead."
+
+With a pounding heart and a pit in my stomach, I followed Jamie's lead.
+
+#
+
+My control over my fear had lasted until we had left Mexico City behind. The moment we were back in New York, and I knew an exit out of this hell was ahead, I ran for it.
+
+Even in human shape, or maybe especially then, Jamie had no chance of keeping up.
+
+When he rejoined me at the exit, I was still breathing hard, gasping for air that wasn't as cursed as that below.
+
+He took my hand and guided me through breathing.
+
+"In, two, three. Hold, two, three. Out, two, three."
+
+I tried to follow. He was right—I was hyperventilating. Knowing that didn't make me feel any less like drowning. After a minute or two, the rest of me caught up to the rational parts.
+
+"Damn. I'm not living up to that outfit."
+
+"You woke up after a traumatizing event, and within an hour, you went out to face your trigger again. You know the spiel. Courage is acting despite fear, not being fearless."
+
+"This would hit harder if you didn't call it a spiel."
+
+"If I went for a more sincere speech, you'd have mocked me for it."
+
+There was no counterargument to that. I took stock of our environment. The others had passed this way multiple times before, and I could tell the direction of the club. Despite that, I had zero clue where exactly we were. This method of travel was incredibly disorienting.
+
+And then I noticed it. And the fact that I noticed it meant Jamie did, too, due to his oath, but without any further context.
+
+My hand shot out, grabbed him by his shirt, and pulled him in front of me.
+
+"What the—"
+
+["Do not look at it."] I wrote in party chat.
+
+"What the hell is your strength at right now?"
+
+"With you around? 19."
+
+Jamie straightened up. But he got the message. He wasn't frantically turning to look at the threat I had spotted. It was sitting on a roof across the street. Out of the corner of my eye, it was barely more than a shimmer, nearly indistinguishable from the heat shimmer caused by the sun.
+
+["What do we do?"]
+
+I pulled Jamie along, going the opposite direction from the one leading to the club.
+
+["We kill it. Your level 15 perk didn't happen to be a laser beam, I guess?"]
+
+["Nope, but I can smite through my shield."]
+
+["We should really try to fix our ranged options. If it follows at a distance, I might be able to get it out of the air. Really depends on whether or not I can get the drop on it or not."]
+
+["You haven't fought a demon yet, have you?"]
+
+["No, not after our ambush. Do you think that we can't do it?"]
+
+["I'm not sure. I doubt their scouts are as strong fighters as the warrior caste, but we need to play this smart."]
+
+["If they were strong fighters, we'd have seen a lot more assassinations. There has to be a reason they are keeping their distance."]
+
+["What's the plan then?"]
+
+I looked up at Jamie and grinned. ["How about we airdrop four hundred pounds of octopus on it?"]
+
+["While that is a beautiful statement, please tell me it isn't our entire plan"]
+
+It wasn't. I told him how we'd do this.

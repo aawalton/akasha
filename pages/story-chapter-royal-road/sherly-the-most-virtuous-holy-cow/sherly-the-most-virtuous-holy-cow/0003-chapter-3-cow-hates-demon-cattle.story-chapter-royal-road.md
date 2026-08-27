@@ -1,0 +1,171 @@
+---
+id: a30ae97e-ab8a-5d52-995d-65237c489dfa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3 - Cow Hates Demon-Cattle"
+slug: 0003-chapter-3-cow-hates-demon-cattle
+partOf: sherly-the-most-virtuous-holy-cow
+position: 3
+ownLength: 2340
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2525650/chapter-3-cow-hates-demon-cattle"
+royalRoadId: "2525650"
+---
+
+Chapter 3 - Cow Hates Demon-Cattle
+
+Sherly knew these demon-cows and bulls had to die. She could never justify destroying an entire village, killing the villagers, treating them like nothing but leftovers and entertainment, as anything but evil.
+
+To think that she had been mistaken as being one of these creatures made her want to vomit.
+
+Somewhere within her heart, she reviled these demon-cows and bulls. Even if it made total sense, it was still an uncomfortable feeling to have such pure hatred, she had never known that she was capable of such hate. So she did what any sensible person would do; bury it deep and forget about it.
+
+She also knew she was outnumbered. And it wouldn’t exactly take a genius to conclude that she was powerless against them.
+
+These incarnations of evil roamed the burning village, looking for survivors or anything else worthy of their destruction. One of them mooed loud enough to be considered a roar, conjuring a ball of flame. A poor scarecrow standing innocently near some garden plants instantly burned to ashes. The fire spread throughout the garden, looking as though it would eventually envelop the small hut that had once been someone’s home.
+
+Sherly was angry, but along with that rage was fear. She had acted cool, but she was really in over her head. Her legs shook as she stood there, not knowing what to do. Fortunately, the demons had yet to notice her.
+
+“I was sure you’d at least try to gore one of your kin, before you hesitate,” Ishuin said, tapping the cow girl’s back.
+
+“They’re not my kin,” Sherly mooed with fiery rage, knowing that the elven Wielder would understand her. “But I’m not sure if I can fight them. I came to this world two days ago. And I don’t know how to fight as a cow. I didn’t even know how to fight when I was a human.”
+
+“I shouldn’t be surprised at this point, but you were really human back then, huh?” Ishuin rubbed her chin. “Interesting. In any case, if you’re not intending to fight, make sure you stay away from the battlefield. The Cancer’s Claw will take care of the demons.”
+
+“The Cancer’s Claw?”
+
+Rather than answer Sherly, Ishuin turned towards the caravan and raised her spear. Somewhere within those lines of carts and great carriages, the cow girl could hear Kasta’s voice, shouting to her comrades. Her keen sense of hearing could just make out the human’s words.
+
+“We have the signal!” Kasta proclaimed. “Take your teams! You know your roles, so focus on them! Walk the path of Cancer!”
+
+“May the Great Zodiac protect us!” The earth rumbled at the entire caravan’s response.
+
+Sherly could feel the ends of her hair rising with anticipation. The mana in the air vibrated as hundreds of people began to prepare spells or whatever they called their magic. She merely assumed, inferring from the colorful glimmer in the air accompanying the Cancer’s Claw.
+
+Then behind her, she felt the mana sizzle.
+
+“Careful now, Sherly,” Ishuin began, directing the cow girl’s attention back to the village. “We have their attention now.”
+
+The demon-cows had gathered together into a mob. Sherly noticed that they came in a variety of colors. Some she didn’t even know were possible for a cow or a bull to be. One was purple, another was pure black, and another had beige spots on blue hair. There was actually one that had caught her attention above all the others, though. A golden demon-bull. He was much larger than the rest.
+
+“Is that the leader?”
+
+“That’s right,” said Ishuin. “So long as he’s standing, the demon-cattle surrounding him are shrouded in his magical enhancing aura. It makes them more dangerous, obviously, but they also become harder to kill.”
+
+“So we kill the leader first?”
+
+Ishuin let out a smirk. “Obviously, little cow. Easier moo-ed than done, I’ll have you know.”
+
+“You outnumber them.”
+
+“Keen observation, but what are you implying exactly?”
+
+There was sarcasm in Ishuin’s words. That, at least, Sherly was sure. Neither of them was a cruel, unfeeling tyrant who would callously throw lives at a problem to solve it. So the cow girl immediately understood what the elven Wielder was trying to say.
+
+“Fine. I get it. You can’t have people sacrificing their lives. What’s the plan, then?”
+
+“It’s easy. We keep their attention to us. The others will look for survivors. Then we’ll see if we can chase them away. And if not, then we all escape with the survivors.”
+
+Sherly turned to the elf. It wasn’t a winning strategy at all. Ishuin understood the look, however. Even if it came from a cow who looked like a demon-cow.
+
+“With our numbers, we can quickly comb through the village, while our elite fighters create a deadlock with the demon-cattle. It’s a strategy that’s worked every time, without suffering any casualties.”
+
+Sarcasm, Sherly understood. Confidence and leadership, she also knew to follow. To them, the Cancer’s Claw, she was still a wildcard, an unknown factor. She wouldn’t jeopardize the chance to earn their trust. But that meant she was in an impasse.
+
+“You have a lot of people, Ishuin. Not all of them can outrun those cows.”
+
+“Oh, we can outrun them, Sherly.” The elven Wielder smiled. “Don’t you worry about that part.”
+
+“I can’t help by searching for survivors,” Sherly started, not willing to get into a debate. She understood that she didn’t have all the information, and arguing wouldn’t get them anywhere. “They’ll think I’m a demon-cow.”
+
+“They sure would,” Ishuin surmised. “I guess that means you’re stuck with the fighting. Stay sharp!”
+
+The first of the demon-cows roared. Sherly had only seen it once, so she quickly assumed it was another bursting fireball. As expected, the small flame manifested at their feet, threatening to explode. She gasped and reared, letting the panic distort whatever decision or reaction she had. She was just like any wild animal facing an unknown weapon for the first time.
+
+Completely helpless.
+
+That was when Ishuin moved her spear in a practiced art. The explosion occurred. It rattled Sheryl’s ears, but she clearly saw the flames collide with something invisible in the air. It wrapped around them, enveloping them, but the cow girl didn’t even feel a touch of heat.
+
+When it had vanished, Sherly saw a glimpse of circular ripples and hexagonal shapes in front of her, as the barrier reformed to its neutral shape. It took her another second to catch her breath.
+
+“Aside from healing yourself, Sherly,” Ishuin began, her eyes staring at the pack of demon-cattle. “What else can you do?”
+
+“Meat shield,” Sherly admitted. “I can lock horns with one of them. But with the sheer size difference, I don’t think I’ll last a minute.”
+
+Without hesitation, Ishuin held the cow girl’s horns. It took all of Sherly’s restraint not to panic. Especially since a weird surge of power was penetrating down the bone, all the way into her skull.
+
+She was worried, but at this point, she had no choice but to trust the elf.
+
+“You have one shot, Sherly,” said Ishuin. “I’m not a master at imbuing cow horns, but I’ve enchanted them with enhanced piercing strength. I’m assuming with your lacking expertise, you won’t be able to maintain the effect after a single strike. So you better make it count.”
+
+Before Sherly could even respond, another of the demon-cattle manifested an explosion on their feet. This time, Ishuin not only blocked it, but she also retaliated.
+
+With a strong thrust of her spear, the wind itself turned sharp and assaulted the pack of demons with a barrage of needles. Sherly only noticed this because of the way numerous puncture wounds opened up on the monsters in a seemingly random way. Not to mention she could feel the sudden surge of magic before Ishuin sent her attack.
+
+She couldn’t see actual wind needles, but she could sense it. Hear it, feel it, she didn’t know. As confusing as it was, she didn’t exactly have the time to wonder.
+
+With a single roar, the golden demon-bull ended the wind barrage. The force he created vibrated Ishuin’s barrier, and forced her to take a step back to regain her footing. Then, with a growl that would have been impossible for a normal bull, sounding like multiple chainsaws with broken engines, the demon-bull accumulated mana.
+
+Sherly observed, her knees shaking, as a red shimmering aura surrounded the pack of demons. She understood not what was happening, only relying on her animalistic instincts to gauge how outclassed she was. Unreliable, sure, but she had nothing else. Ishuin wasn’t panicking, but the elf was far stronger and more experienced than she was.
+
+All that hate had disappeared, completely overcome by the fear. And when the shimmering red vanished, and the demon-cattle surfaced from it with their wounds completely gone, Sherly felt like all hope was lost.
+
+“Well,” Ishuin started. “That’s basically why we don’t bother killing them, Sherly.” The elf lightly kicked the cow girl’s side. “Stop shaking. There’s no need to tremble, girl. We’re not the only ones fighting.”
+
+Sherly was about to complain when an arrow whistled past her ear, avoiding her by an inch. It hit one of the demon-cows right between the eyes. The creature complained with a roar, fell to the ground, then promptly set fire to the rest of the pack. Not that said fire was even effective against them.
+
+“You guys started without us, huh?” Kasta said, landing beside them. In her right hand was a bow, behind her waist was a quiver of arrows, oriented to her left arm. Sherly took a moment to get used to the mirrored arrangement.
+
+“Kasta! I’m not carrying you again!” said the birdman, as he landed next to them. “My wings can’t carry two armed people.”
+
+“You’re calling me heavy, Duis?” Kasta pulled an arrow and pointed the sharp end towards the birdman.
+
+“Ah, no. No, ma’am. That’s not what I mean.”
+
+“Guys! Wait for me!” said a third person running from behind them.
+
+Sherly recognized this woman. She was one of those that had abducted her. The crazy part however, was how part of this girl’s hair flopped around in a weird way. The weird orientation of her vision as a cow girl didn’t help, but she eventually understood what she was looking at.
+
+“Dog ears?”
+
+The stranger, who Sherly had initially thought was a human woman, had dog ears for ears. Naturally, her eyes drifted downwards, and she quickly noticed the dog tail.
+
+“Dog girl!”
+
+“Concentrate!” Ishuin commanded, turning Sherly and everyone’s attention back to the pack of demons. The demon-cow Kasta had killed was already standing again. They were starting to look around, noticing other people’s presence trespassing in their territory.
+
+“Orders, ma’am,” Kasta said, waiting for the elf to give command.
+
+But as Sherly watched the arrow leave the head of the demon-cow, an idea came to her mind.
+
+“Ishuin! Do you have an enchantment to increase my mana-regeneration?” She unknowingly interrupted the elven Wielder in the middle of her command with a moo.
+
+Ishuin cleared her throat. “Kasta, make sure the demons don’t leave the square. They’re protecting the golden bull. Keep it that way.”
+
+“Roger that.”
+
+“Duis, did you bring your strongest mana enhancers?” Ishuin didn’t wait for an answer, already reaching out an arm to ask for the item.
+
+The birdman took off his pack and searched it frantically. “I know we don’t ask questions in cases like this Ishuin, but you’re asking for a rare concoction. This can practically keep your mana pool full even if you keep casting until Magic Fatigue. Unless you have replacement ingredients on hand, it might take me months to brew it again! Ruingrass is very rare, I’ll have you know. It only grows on ancient ruins. Takes them years to grow into sustainable amounts. I’m not sure if using this potion—”
+
+“I’m not asking for Alchemy lectures or history lessons, bird-zilim,” Ishuin said, insisting with her hand. “Potions are made to be used. You’re not trying to make a profit out of our cause, are you?”
+
+“What’s a bird-zilim?” Sherly casually asked, feeling a little relaxed now that Kasta and the dog girl were keeping the cows busy.
+
+She only realized now that a bunch of other caravan folk had joined the fray. As she expected, they were only keeping a perimeter, protecting each other rather than attempting to kill any of the demons. Their priority was to keep themselves alive.
+
+“Zilim is the term we use for humanoids, be they elf or human or what have you, that share a characteristic with animals or monsters,” Ishuin explained, while still glaring at Duis.
+
+“Is it a derogatory term?” That earned a stare from the elf. “Sorry. I was just curious.”
+
+“If people call me an elf woman, I do not find it offensive. We call ourselves that, in the first place.” Ishuin turned back to Duis, who now stopped rummaging from his pack. He passed a small vial to the elf. “The zilim referred to themselves as such. As a collective term. To define themselves as separate from Zodiac-spawn. There’s nothing wrong with it, Sherly. If tomorrow, they suddenly wanted to be called ‘lululala’, then they shall be called ‘lululala’.”
+
+“Sounds… I don’t know.”
+
+“Do not concern yourself with such trivial things, Sherly,” Ishuin began. “You’ll come to know our culture soon enough. Then you can decide for yourself what is derogatory and what isn’t.”
+
+The elf presented the mana potion to the cow girl. Sherly looked at it. A small orb, with intricate glass pattern with a secure metallic lid on its protruding top. From within its distorting surface was a blue liquid. It looked like ink, if she were to compare it to another substance.
+
+Or like blue mercury.
+
+“Now, cow girl,” Ishuin began, deliberately not calling her name to try and prove a point. “What do you intend to do with this?”

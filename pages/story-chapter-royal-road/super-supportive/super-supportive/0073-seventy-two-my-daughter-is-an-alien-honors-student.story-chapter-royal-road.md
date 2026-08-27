@@ -1,0 +1,679 @@
+---
+id: d4351424-7ef7-5bea-90ec-bc80a328f061
+page-type-slug: story-chapter-royal-road
+title: "SEVENTY-TWO: My Daughter is An Alien Honors Student"
+slug: 0073-seventy-two-my-daughter-is-an-alien-honors-student
+partOf: super-supportive
+position: 73
+ownLength: 7634
+unit: words
+publishedAt: 2023-09-10
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1338918/seventy-two-my-daughter-is-an-alien-honors-student"
+royalRoadId: "1338918"
+---
+
+*
+
+<<Alden, this is Dragon Rabbit. You need things. I get them for you.>>
+
+“Hola, Dragon Rabbit!” Alden said cheerfully to the faceless and nameless errand runner on the other end of the voice call. “Muchas gracias por la…clothing. Ropa? Ropa! Muchas gracias.”
+
+He was planning to try for a higher score on the Spanish language proficiency exam soon.
+
+“You’re welcome,” said Dragon Rabbit.
+
+Oh no, thought Alden, taking a sip of his coffee and waving off the guy from 912 who was trying to offer him half and half. I’m so bad he switched to English on me.
+
+A girl he didn’t know from the eighth floor slid a notebook across the counter to him.
+
+“Today is Spree day for our intake group,” Alden said, glancing down at the orders the girl had taken from the fifteen—or maybe it was twenty now?—other Rabbits who’d invited themselves over to Alden’s apartment at four in the morning to do prep.
+
+According to Emilija, it was Natalie’s fault. She kept telling people how nice Alden was whenever they asked about the weird moon castaway who’d hired her with his moon castaway money. And since he had empty rooms…
+
+“Apparently we need mohinga, mangu with los tres golpes, and two dozen mini cheesecakes?” He blinked down at the order. He’d offered to feed them all so that they would stay away from his fridge full of meals from Natalie. He'd seen the variety of things on offer in the dorm cafeteria before, so he didn't know why he'd been expecting them to request bagels and donuts.
+
+<<I can get that for you.>>
+
+Of course he could find a multinational breakfast hours before restaurants were open.
+
+“Thank you. I also have a list of things that should be delivered to me via drone periodically throughout the day.”
+
+<<I love Spree days.>>
+
+That did make sense. “It’s mostly tech. A laptop. Some headphones. I’ve got the model numbers.”
+
+<<I can get that for you.>>
+
+“What about an Artonan-made tablet capable of accessing Anesidoran WiFi networks?”
+
+Alden had gotten really used to the tablets at the lab. And Neha had one. So they did exist on Earth.
+
+<<Limited holographic projection capabilities and the multi-angle magic camera?>>
+
+“What does something like that cost?”
+
+<<Not too much for a Rabbit taking part in the Spree.>>
+
+“Yeah. Okay.”
+
+While Dragon Rabbit figured out prices, Alden watched a guy who was going around insta-shining all the metal in the room. He did a girl’s earrings, a boy’s brand new watch, some bracelets, a computer case, aluminum eyeglasses, and even the kitchen sink.
+
+Alden felt someone else brush by him, and a second later, all the wrinkles fell out of his clothes. They weren’t even the ones he was wearing today. He’d just thrown them on when people started pouring in.
+
+The hairdresser and makeup girl from downstairs were in full swing, too. People were getting clipped, brushed, and improved at an alarming pace. And there was a strange rhythm to the chaos, caused by crafty Rabbits making messes everywhere and cleany Rabbits running along behind them and magically tidying up.
+
+Presumably, similar scenes were taking place all over the Warren.
+
+As Alden finished with the errand runner, a schedule popped up on the intake Spree day group chat. He glanced through it, shaking his head in amusement. Hadiza was on beautification duty. She’d be standing by the counselor’s desk, zapping everyone’s stuff with her skill to make it look better before they headed out for the day.
+
+Alden escaped to his bedroom—the one place in the apartment that wasn’t full of other people—and got dressed. He’d bought a dark blue long-sleeved shirt from the gym. The name was printed on it in Artonan logograms. It was how some businesses on Anesidora tried to imply language-inclusivity without having to use tons of different ones in their marketing materials. The English translation was North of North Wellness Center for the Body and Mind.
+
+North had eliteness connotations on Anesidora because Apex was north of F-City. Crescent moons did, too, because of the northern island’s shape. Which was why the gym logo was a man leaping from the bottom tip of a crescent to the top.
+
+Alden personally considered the shirt to be sufficiently snobby for Spree day, but when he emerged from his room, one of the other boys immediately asked if he was going to go with the group of Rabbit guys who’d booked a personal shopping guide to take them around the luxury brand stores at Rosa Grove Mall and deck them out.
+
+“This is it for me,” Alden said, grabbing some meal prep containers from the fridge and tucking them into his magic bag. The books were still in System storage, but now that he was closer to his new metaphysical normal and didn’t feel like the bag was biting him every time he opened it, he’d been carrying it around. “I’m a subtle conspicuous consumer.”
+
+<<You know those are opposite words, don’t you?>>
+
+“I’m going to have a big expensive laptop dropped on me from the sky. It’s very Rabbit. I promise.” He adjusted the note on the fridge door that told people Natalie Choir would be mad at them if they ate his food, then he headed out.
+
+He stopped on the eighth floor to get a schedule update from Neha. A group of Rabbits, most of whom weren’t technically participating in the Spree, were gathered around Hadiza having every small item they owned beautified.
+
+Alden plowed through the group to talk to the counselor.
+
+“How’d interview Number 2 go yesterday?” she asked.
+
+Alden wrinkled his nose. “I officially made it through to the final interview, so we don’t have to blow up my life plan and start over. It was…okay.”
+
+“That much fun?”
+
+The interviewers had been an alumni trio from the school who were taking the weekend off to help out at their alma mater. The interview had been more personal and way less passive aggressive than the first one, at least.
+
+“I think they felt sorry for me.”
+
+Neha blinked. “In what way?”
+
+“Hard to pinpoint. Maybe it was the B-rank thing? Maybe it was the Rabbit had a traumatic experience and now wants to be a hero thing?”
+
+“Probably the second one,” said Neha. “Or a combo.”
+
+“I mean, I’ll take a pity acceptance into hero school if that’s what I have to do, but it’s not my first choice. I'd rather--”
+
+“Hadiza!”
+
+Neha stood up from her chair, and Alden spun around to see all the Rabbits around Hadiza leaning over her worriedly. She’d slumped to the floor.
+
+<<What happened?>>
+
+<<Hadiza? Are you okay?>>
+
+<<She just fell!>>
+
+<<I’m all right,>> Hadiza said. She was staring blankly at the ceiling. Her voice was monotone. <<I targeted Alden’s bag, but it didn’t work. I guess it was too big.>>
+
+“You wore out your…power,” Alden said.
+
+At the same time, Neha said, “Skill fatigue.”
+
+The intake counselor raised an eyebrow at him.
+
+“I used to drop just like that.”
+
+<<I’ve overused mine before, and it just stopped working!>> one of the Rabbit girls said in an alarmed voice. <<I didn’t fall down.>>
+
+Several of the others were nodding in agreement.
+
+“A few people have a synesthesia issue when they overuse their main skill,” Neha explained. “When they hit the wall magically, they feel like they’re done physically and mentally, too. It’s usually a newbie thing. And it’s more common in Rabbits. She’ll be fine after a nap.”
+
+Oh. It actually makes sense for it to be more common in Rabbits, Alden realized while he watched people try to coax Hadiza onto her feet so that they could take her back to her room. Such a large percentage of their authority was bound into a skill on first affixation that they didn’t have much else keeping them grounded. If you tired out your skill as a brand new Rabbit, then you’d tired out most of yourself.
+
+And if you had the synesthesia thing…
+
+“She’ll really be fine,” Alden said to one of Hadiza’s friends, who was wringing her hands while they waited for the elevator. “I did that once and fell asleep in the floor of a laboratory on Artona III. It’s a little like short-term magical muscle fatigue. Three hours later, I was back to normal.”
+
+“It usually takes longer than that to bounce back,” Neha said. She was holding Hadiza upright with one arm. “But he’s right. She’s not hurt.”
+
+Alden felt guilty. He’d have to apologize to Hadiza tonight and explain why his messenger bag was a harder target than she’d thought.
+
+**********
+
+Alden chose to bike all the way from the dorms to the Teleportation Complex.
+
+He’d been using magic again for about a week, and his trait was back in action when he called on it. But although he knew he needed more practice running with it in an urban environment, and there was enough groundish material around to make it work, he hadn’t liked it at all the few times he’d given it a try so far.
+
+He’d mostly used Azure Rabbit in wide open spaces until now—ones without other moving objects in them. Screwing up and smacking into a wall at the lab was fine. Screwing up and launching himself into oncoming traffic or some nice elderly F-rank who was out for a walk would be awful.
+
+Realistically I don’t think I would do either of those things, he thought as he cruised past the place where Aimi Velra had once kidnapped him while he was feeding the ducks. I’m not a klutz. But I still think I’ll stick with practicing in parks for now.
+
+Anyway, Bobby would be annoyed if he hurt himself. She’d had the gym’s gait analysis person come and take video of him running yesterday, and they were trying to figure out if his form was the reason he’d screwed up his knees on Moon Thegund or if it was just a case of it being too physically demanding for very long distances.
+
+There was also superhuman exercise etiquette to consider on the walkways. The faster person was supposed to avoid the slower one. People got pissed if you were obviously using super speed on the far right of shared jogging paths, but they also got pissed if you weren’t obviously using super speed on the far left.
+
+Alden couldn’t quite figure out where the happy middle running location for non-Brutes with a funky movement power was. At least the bike lanes were delineated with paint almost everywhere. It was hard to mess that up.
+
+And bicycles counted as carrying for his skill as long as he was pedaling. So that was cool. He could also stand on trains and buses and shift his weight from foot to foot. He was still working on how to overcome the limitation. Now that he knew to look for it, he’d managed to sense it over the past few days, but it wasn’t really graspable in the way the functional parts of his skill were. It was more like a light fog permeating the whole thing.
+
+He was either going to have to wait a few years for it to fade like she’d said it would…
+
+No.
+
+Or shred it up somehow with his authority….
+
+Appealing, but I don’t think I actually know how to do that.
+
+Or, he was supposed to do the perception thing.
+
+It’s probably that. It seems like exactly the sort of magic that would respond to a change in mental state.
+
+If the moving-around-with-your-object requirement was designed by ancient wizards to teach new Avowed profound lessons about being the Bearer of All Burdens, perception should be a good way to work around that. Or maybe even to prove that you didn’t need the teaching tool anymore.
+
+Whenever he was awake, Alden was pretty much always in possession of an entrusted object lately. It seemed like the best way to tackle the problem. Right now it was one of the enamel bunny pins they’d given all the Rabbits in their welcome bags. He’d gotten someone to pass it to him, and it was currently tucked in his jeans pocket.
+
+I forgot I was carrying it again, he berated himself as he jumped off the bike and left it in one of the racks outside the Teleportation Complex’s main entrance.
+
+The pin was so little. And easy to hold. And his power had chilled out enough that he wasn’t thinking about it all the time like he had been.
+
+The pin stayed preserved as long as he followed the “rules” of the skill, but forgetting about it was a problem when he was supposed to be trying to perceive it as a minor burden.
+
+Keep my skill wrapped around my item. Keep it preserved. Feel the item with my authority.
+
+It was his new mantra.
+
+And he thought maybe that the last sentence was going to be a very important one for him. Eventually.
+
+It was a long-term goal.
+
+The skill came with those interesting illusory tactile features that made it possible for Alden to feel the texture, shape, and weight of the things he held.
+
+It had been useful. Holding onto something you couldn’t properly feel would be hard. But Alden now had an additional sense to work with, and he was betting there would be benefits if he could somehow get the skill’s tactile component to acknowledge that. If he could get it to register him “touching” the things he carried with his authority, maybe new doors would open.
+
+The only physical object he’d ever managed to touch and feel like that was his auriad. Right now, he could trace the loops of it around his wrist.
+
+If it’s possible with that, it should be possible for my preserved burdens, too.
+
+Alden hoped it wasn’t just wishful thinking on his part.
+
+The skill was made for Avowed, not wizards. But surely the designers would have made it flexible enough to work with a sense that they themselves had possessed?
+
+And my authority is what’s being the most fundamentally burdened. The bound authority of the skill is the only part of me actuallytouching the item. If anything it should work better if I can feel it that way, too. It’s logical.
+
+He’d begun trying to train himself to do it in a couple of different ways. And one of his favorite training toys was located here at the Teleportation Center.
+
+He headed into the building and toward the main atrium. He beelined for the customer service desk, and he beamed at the jerkface who’d been rude to him for being a non-resident when he came for Hannah’s funeral.
+
+“No,” said the man as soon as he spotted Alden. “You can’t—”
+
+“I’d like a NesiCard, please,” Alden said.
+
+“You’re an Avowed. You have the System. You don’t need the debit card for children and visitors.”
+
+“But I want one. And there’s no rule against it. You looked it up last time.”
+
+“Why?!”
+
+“Why don’t you want to give me one? It’s not like it’s hard.”
+
+Alden stuck out his thumb toward the man’s fingerprint scanner insistently.
+
+“What did you do with the last three I gave you?!”
+
+“I broke them.”
+
+“You broke—”
+
+“It was an accident. I’m very clumsy.”
+
+“With debit cards. That you do not need.”
+
+Alden nodded.
+
+“Why don’t you just hand him one?” the woman beside him whispered. “We have a whole stack.”
+
+“They’re not for him. What does an Avowed need a card for?!”
+
+“I like them.”
+
+Despite his feelings about this person, Alden had not had any intention of tormenting him when he came here a few days ago. He’d just wanted a NesiCard to experiment with. And this was the place he’d always gotten them before during trips to Anesidora.
+
+But he’d found the card a lot more useful than anticipated. He really did want it. And the island’s self-appointed gatekeeper here really didn’t want him to have it. So this was now a thing they did.
+
+He stretched his thumb toward the scanner. “I want ten argold on the card.”
+
+It was the minimum amount. He’d spend it right away here at one of the shops or restaurants and then…he’d probably break the card again.
+
+This guy should be glad I don’t just sit here at the TC all day burning through his stack of cards.
+
+The man gritted his teeth and handed the card over.
+
+“Thank you. I’ll see you in a couple of days.”
+
+“You’d better not be seri—”
+
+“May the warmth of the Mother comfort you until we meet again,” Alden said in Artonan.
+
+He strolled over to a breakfast spot with a long line and read the menu, trying to make an order add up close to the right amount.
+
+He dropped the preservation on the bunny pin in his pocket and focused his attention on the cashier as he approached. He targeted her. The action was becoming so natural it was almost like pointing with a finger.
+
+“Can I get the steak and egg sandwich with extra bacon and cheese? And scallion pancakes. And a large mocha latte.”
+
+He handed her his card. She tapped it against a panel beside her computer screen and then held it out to him.
+
+It now looked different than it had when he passed it over.
+
+NesiCards were made of red plastic, with a white metallic oval about twice the size of a credit card chip in the center. The oval usually looked plain. Now that Alden’s new target was entrusting him with the object, it looked like it had a simple network of light running through it.
+
+Alden activated his skill as he took the card back. He preserved the whole thing, just like it was any other object. And after he’d collected his order and found an out-of-the-way pillar to stand beside, he started the experimenting.
+
+He let the preservation drop. As long as he didn’t change targets or lose contact with the card, it was still entrusted to him, and that meant he could still see the gold light on the metal oval. It was a tiny enchantment that let the card interact with some of the magic-run gizmos on Anesidora.
+
+Alden slowly and deliberately touched a finger to the the center of the card. He made a conscious effort to focus not on the metal disc but on the magic attached to it. The network of light felt like a spark against his fingertip.
+
+He picked it up.
+
+His newly enhanced skill held it. It stuck to his finger, buzzing against his skin.
+
+Burden of Enchantment.
+
+Preserving the tiny enchantment on its own taxed his skill more than preserving the entire card. Alden’s theory was that this was because the enchantment and the card belonged together on some level. Maybe his skill was somehow preserving that belonging, too, even though they’d been separated. Or maybe it was actively fighting the belonging in order to separate the enchantment from its home.
+
+Two opposite possibilities that deserved more exploration. But either way, there was some factor that made pure enchantments more difficult to hold than enchanted objects.
+
+Alden pressed his finger against the disc again and dropped preservation.
+
+The enchantment snapped back into its position. The network of light looked the same as it had before he’d removed it.
+
+That was the easy way. Now for the experimental way.
+
+Alden focused on the card. He let his mind drift back to the vault, to exchanging pats with Kibby. Using the lightest possible touch he could with his free authority, he tried to scoop up the enchantment.
+
+He’d broken the first two NesiCards this way. But the last one had produced a result…not success but a result.
+
+The enchantment wasn’t like a physical object. When his skill was helping him see it separately like this, Alden could also feel it with his authority.
+
+The defogging package she recommended is awesome stuff.
+
+He managed his scoop-up. His skill activated.
+
+And instantly deactivated.
+
+It felt unsettling.
+
+By going for the enchantment using his free authority like a finger, Alden had gotten the skill to do its preservation thing. But Alden’s free authority couldn’t interact with something that his bound authority was preserving. It was like at the exact moment he grasped the enchantment with one, the other encased it and made it untouchable.
+
+But since it was untouchable he wasn’t holding it anymore.
+
+So the whole thing fell apart.
+
+But this proves that the skill does account for the possibility of grabbing burdens…enchantments at least…with an authority pick-up. Right?
+
+Alden tried again with the same results.
+
+And then a dozen more times.
+
+It made sense to him that this didn’t work. He was just trying to use this method to find his way to one that would.
+
+The Bearer of All Burdens prevented the things it preserved from being impacted by outside forces. Including Alden. He couldn’t poke a hole in a sheet of paper he was preserving with his finger. He couldn’t melt an ice cube he was preserving with his body heat. He wasn’t ever really touching anything he preserved. Which meant the skill was holding it with something like a perfectly object-shaped magic bubble.
+
+But the bubble was currently set up to be tied to his bodily senses. Possibly because if it didn’t work that way, Avowed would end up with synesthesia problems way more complex than the one that had just taken out Hadiza.
+
+Alden didn’t think he would have that problem now. He just needed to find some little, special setting inside the skill that would tie the bubble to his hard-earned authority sense instead. Specifically to his sense of his own skill-bound authority rather than his free.
+
+And then he’d be able to grab whatever he’d been entrusted with. Without using his body parts.
+
+He hoped.
+
+Even if it wasn’t straight-up telekinesis, even if symbolic Burden Bearer stuff prevented it from working on physical objects and it only worked on enchantments, spells, and similar nebulous things it would be amazing. And if it did work on physical objects…
+
+He didn’t want to get ahead of himself.
+
+But I’m going to be so eternally angry if the option to do it doesn’t exist in some form. I don’t think I’ll ever forgive the Artonans if even their ancient Avowed-will-save-us-all faction didn’t account for the possibility that some Avowed might one day want to use actual authority control with this skill in addition to carrying things with our hands.
+
+He kept trying to find the hoped-for feature over the next few minutes, completely losing himself in the activity. It wasn’t nearly as enjoyable as playing with the auriad. Or authority control lessons with Kibby. But it was still very much a magical process, so he could get invested pretty easily.
+
+Maybe I can try—?
+
+He heard footsteps approaching, and he looked up just in time to realize who it was before he was grabbed in a crushing hug.
+
+“Jeremy!”
+
+His friend was squeezing the life out of him. A cat carrier was banging into Alden’s spine.
+
+“I mean I knew you were alive!” Jeremy shouted. “I’ve been talking to you every day. But it’s so good to see you in person!”
+
+Alden hugged him back. Same, he thought. A hundred percent the same.
+
+“It’s great to see you, too. I bought you breakfast if you want it.”
+
+Jeremy stepped back and glanced at the sandwich bag on the table Alden had been standing beside. “You promised me food from a magic cook.”
+
+“I have magic food for our lunch. Natalie made it special for us yesterday even though she was prepping for the Spree. And there’s plenty back in my apartment if the other Rabbits haven’t robbed me. What do you want to do today?”
+
+“I want to see all the best stuff.”
+
+“Done.”
+
+“The gym full of super people?”
+
+“We can go there. Well, to my building anyway. The soft-super gym. It’s still great.”
+
+Jeremy looked him up and down with narrowed eyes. “You don’t look crazy muscular.”
+
+Alden laughed. “You video called me yesterday. Did you expect me to morph overnight?”
+
+“I mostly see your face and shoulders on calls. And you said you were superhuman healthy.”
+
+“Yeah. Healthy. Not a professional bodybuilder. I think Rrorro was aiming for everyday function, not magically packing on pounds of muscle for me.” He paused. “My abs look nice, though. I might have stared at them for way too long on my first day back home. And I don’t think allergies or zits exist for me anymore. And I can see freakishly well.”
+
+“Awesome,” Jeremy breathed.
+
+“I can’t lie,” Alden admitted. “Those things are all awesome.”
+
+********
+
+They spent the whole morning in Apex.
+
+Alden never did that. He used his gym, did whatever business he needed to on the Celena North campus, and headed back down to F-city.
+
+It wasn’t that he disliked the portion of Anesidora that was the main hangout for the high ranks, but he wasn’t used to it yet. He was just learning his way around F, and Apex was more complicated. Approaching certain buildings and neighborhoods set off lists of warnings through your interface.
+
+It wasn’t as if they all said “GO AWAY.” It was usually more like, “DO WHAT YOU WANT, BUT DON’T BLAME US IF YOU DIE.”
+
+Still, that sort of thing made the place feel harder to navigate.
+
+“You should get a motorcycle,” Jeremy said, dangling his I’m a Human Minor card and lanyard in front of the nose of the fat, lazy, purring furball that he swore was Victor.
+
+If not for some of the familiar scars and the bite taken out of one ear, Alden would not have believed him.
+
+They were sitting together on the short grass in a meditation garden—currently devoid of meditators—behind the North of North gym. Because Kibby had asked to see the evil cat, Alden was attempting to film Victor with the brand new tablet that a drone had delivered a couple of hours ago.
+
+“A motorcycle?” he asked while he fiddled around with the logograms that ran the magic camera. Toddlers at the LeafSong party had been using them to take pictures of Avowed in their costumes. Alden would succeed. “You’re as bad as the other Rabbits. They all seriously want me to drive back to the dorms tonight in a brand new car.”
+
+“Motorcycles are cooler. And they seem to be more popular here anyway.”
+
+“Public transport is king. And then mopeds and motorcycles. And then cars. There’s a huge tax on automobile imports. I think they want to discourage people from cluttering up the streets with them. Oh, some people travel around in small boats too.”
+
+“You’re officially an old man now. You think about taxes.”
+
+“I suspect one of the guys in the apartment next to mine is secretly a middle aged accountant in a seventeen-year-old’s body. He brings stuff like this up all the time.” Argold income from the Triplanets was un-taxable, so Alden didn’t really have much to worry about.
+
+Jeremy twirled the lanyard.
+
+Victor yawned and batted at it. Cutely.
+
+Alden narrowed his eyes as he watched through the tablet screen. “Are you sure you’re not feeding him drugged cat food or something? Kibby’s going to think I don’t know what the word ‘evil’ means and give me a language lesson.”
+
+“More proof you’re an old man. You have a daughter that you’re insanely proud of. Your new motorcycle is going to have a sticker on it bragging that she’s an alien honors student.”
+
+“Kid sister,” said Alden. “Did I make you watch too many of her videos?”
+
+Jeremy shook his head. “No, man. It sounds like she’s the best. And I wanted to see who you’d survived your own personal demon apocalypse with.”
+
+Alden finally got the settings just right and let go of the tablet. It perched on its edge in the grass unsupported.
+
+“You know,” he said, trying to keep his tone light, “you can ask me questions about it. If you want to. You haven’t pried, and I know you have to be curious. I don’t mind.”
+
+“Uh…” Jeremy glanced off to the side. “It’s not like I don’t care. Or I’m not interested. But I actually thought a lot about this, and if you want to bring something up on your own…you know, you should do that. And otherwise I’m just gonna be glad you’re here. And not bother you about whatever happened.”
+
+Alden blinked at him. “Total strangers ask me about stuff I’d rather not discuss all the time. You’re my friend.”
+
+“Right,” said Jeremy. “That’s my point.”
+
+Oh. Damn.
+
+“I’m pretty sure you’re the real old man here,” Alden said finally. “You grew all the way up while I was gone.”
+
+“Tell my parents that. They won’t let me have a motorcycle.”
+
+Alden snorted. “So the truth comes out. You’re just trying to live vicariously through me.”
+
+“Yeah. Obviously. You’re a rich, space-faring Avowed. If you’d just get new social media accounts—”
+
+“Yuck.”
+
+“You’d be famous in like four minutes.”
+
+“Yuck.”
+
+There was a soft whirr overhead and a faint trumpeting sound, and they both looked up to see a large purple quad-copter drone dropping down on top of them.
+
+Alden grabbed the cat in case the drone scared it, but Victor just meowed and laid there in his lap like a lump.
+
+So confusing.
+
+“See this is what I mean,” Jeremy said while Alden took his new laptop out of the drone’s compartment. “You ate magic samosas for lunch, and now you’re chilling in a meditation garden in Apex while drones spit tech into your lap. The internet would love you.”
+
+“The internet would want to see some powers eventually.”
+
+“It’s not like you can’t show them some.”
+
+“True.” He caught sight of his friend’s face and suddenly realized that Jeremy looked hopeful. “Ohhh…did youwant to see powers? I didn’t even think about that. We were right in the middle of doing cool power testing and shopping the Wardrobe, and then I got yanked to Artona III.”
+
+“Well, you said you were doing something complicated with a card right now.”
+
+“Not at this very second I’m not. It’s just sitting in my back pocket. Did you want me to preserve something else? People seem to get a thrill out of attacking whatever I’m holding. You’ve already done that once, but it’s better now. I’ve really got that shield thing we talked about going on these days. Watching me screw up enchanted items won’t be fun…but I’ve had way more practice with the Azure Rabbit trait. If we drop Victor off at a pet hotel we can go for a run or something?”
+
+“That all sounds good,” he said hesitantly.
+
+Alden stared at him. “What did you want me to do? Just say.”
+
+“I kind of wanted to see the spell.”
+
+Alden’s mind immediately went to his auriad. Wait. That’s not right. Jeremy doesn’t know about that.
+
+He wasn’t sure if he was going to mention his ability to do non-Avowed magic at all, and if he did, he wasn’t going to do it out in public. Who knew how many audial Brutes there might be around?
+
+Then Jeremy added, “I didn’t want to ask because I know you have to use an ingredient for it, but I thought you probably kept some with you all the time anyway…why are you making that face?”
+
+“Okay,” said Alden, “just to be clear, I didn’t exactly forget I had the Haunting Sphere spell impression.”
+
+He could literally feel that he did right this second if he thought about it. But it was the least interesting, and very nearly the least wanted, part of his entire affixation. And he’d been interested in testing the rest of his powers ever since he actually regained the ability to use them.
+
+“I’d also like to remind you that I was busy at LeafSong, and then I was in a corruption field with no shopping opportunities.”
+
+“Alden,” said Jeremy, “you’re not serious.”
+
+“And, you know, it was a spell I chose specifically because I thought it might be a little useful for support hero work, which I’m not currently as sure—”
+
+“You’ve been on Anesidora for weeks now!”
+
+“True…” It did look worse if you didn’t know that he’d only been magically functional for a matter of days.
+
+“You have a whole magic spell you’ve never done? You do? You’re an Adjuster nut! You wanted cool spells so bad when you were picking your stuff that you complained about the Rabbit options for like an hour. Boe and I thought you were never going to decide. How could you not have tried the one you got?”
+
+“I can make tiny flames to light candles now, too,” Alden said. Since it was included on the fake profile it was fair game for showing off. “I really love that one.”
+
+Jeremy was still looking at him like he’d never seen him before.
+
+“We should go to a Wright shop,” Alden said quickly. “And buy the…thing…the ball thing that makes that spell happen.”
+
+Jeremy gasped. “Did you forget what the ingredient was called?”
+
+“No.”
+
+“I see your eyes twitching. You’re looking it up on your interface! What kind of an Avowed are you?”
+
+“One who absolutely knows the name of his own spell ingredient. It’s a temper sphere. Of course. Let’s go get one.”
+
+**********
+
+The nearest Wright shop was a place that looked like a hardware store, if all the smaller items in the hardware store were stuffed into various kinds of vending machine and all the larger ones were locked in cages with signs on them saying you had to ask for assistance.
+
+“This is uninviting,” Jeremy said, staring into one of the machines. It was full of pouches of colored liquids. Some of them had things in them that looked like chunks of rock. “I’m really getting the feeling that I’m not supposed to touch the merchandise.”
+
+“If you could see what I can see you’d be even more concerned.”
+
+He was peering into the neighboring machine. Everything in it was sealed in metal tubes that were showing up as EXPLOSIVE — GRADE 3 TINKERING LICENSE REQUIRED on his interface. The prices were also provided through the System. Combined with all the buttons, dials, and packages that were glowing thanks to his Sympathy for Magic, Alden felt like he needed sunglasses for his brain.
+
+He shifted his grip on the cat carrier and watched an Asian woman in coveralls direct an electric dolly down the aisle. It had a bunch of bizarrely shaped metal tubes on it.
+
+“It’d be hard to be a Wright,” said Jeremy. “You can stink at being one. Can you imagine how depressing it would be to get a bunch of spells and skills to help you build something amazing—like magic cannons. But then you just…couldn’t pull them all together and engineer the actual cannons because you were missing one talent? Or you were bad at figuring out how?”
+
+“I don’t think it’s actually that much of a problem for them. They have all the workshops for people who don’t have magical engineering skills or full item-creation packages. Even if you’re an unleveled F-rank you can still be the guy who just makes the cannon’s trigger or something.”
+
+“Yeah, but nobody wants to be the superhuman who spends all day making triggers.”
+
+“You’d be surprised!” someone called from the next aisle over. “Good magic triggering mechanisms can sell for a lot of argold!”
+
+Jeremy’s face turned beet red. “I didn’t think I was talking that loud,” he whispered.
+
+“I didn’t think you were either.”
+
+“You weren’t!”
+
+Both of them looked up in surprise to see a man—so covered in gear that he was leaning cyborg—floating up and over the vending machines toward them. His accent was pure Anesidoran, and his System name tag was up. It seemed he was using it as a business card:
+
+[Techno Tarek]
+
+[S-rank Wright ]
+
+[If I can’t make it, I know someone who can. ]
+
+“I’ve got convo picks in my ears. Made by me!” He pointed at his ears. “Better than your usual hearing aides because they only pick up stuff you’re actually interested in. I’ve got hover gear made by my wife! It’s experimental, but there are heroes using it in Delhi and Rome. I’ve got visual layer penetration goggles made by my son! He’s fresh out of uni.”
+
+He paused for breath. “And I’ve got a murder ribbon launcher. Made by my baby girl.”
+
+Jeremy’s face was alarmed.
+
+“What’s a murder ribbon?” Alden asked slowly.
+
+“I’m glad you asked, Alden Thorn.”
+
+“You know my name?” He didn’t have his tag turned on.
+
+“Observe! The murder ribbon—”
+
+The Wright pulled a bulky squarish gun out of a holster on his belt. It looked like one of those things people used to shoot dollar bills. Alden and Jeremy both took a step back, but the man pointed it down the aisle and pulled the trigger.
+
+A hot pink ribbon a few inches wide shot out of it rapidly. It cut itself off at thirty or so feet and drifted toward the floor so slowly that for a moment Alden wondered if it was actually levitating. After several seconds, before it reached the concrete, the whole thing flash-burned away into nothing with a sizzling sound. It smelled like burnt hair.
+
+Jeremy was giving Alden a look that said he expected the Avowed to deal with the other, crazier Avowed.
+
+“Does…does that actually kill people somehow?” Alden asked.
+
+If it did, should he be using it indoors? In a place full of people?
+
+Tarek scratched his head. “My daughter is fifteen. She’s just starting out. Murder ribbon might be an overly ambitious name for her first prototype. But it does give you a second degree burn if you grab it at the wrong moment!”
+
+He held up his hand proudly to show them a ribbon-wide, blistered patch of skin on his palm.
+
+There was a buzzing noise, and all of the sudden, a woman’s voice sounded over the store’s intercom. “Tarek! Stop hawking your family’s stuff to my customers! How many times have I told you—”
+
+“But I’m your best customer, Bridget!”
+
+“You are not!”
+
+“I’m definitely in the top ten!”
+
+“Leave the kids alone, or I’ll cancel your frequent shopper discount!”
+
+Tarek put the ribbon launcher back in its holster. He leaned over to Alden and whispered, “You should buy it. It’s Spree day, and somebunny has money.”
+
+“Um…”
+
+“NO!” shouted Bridget’s voice from the speaker system. “Stop freaking out the new islanders, Tarek. New boy, he’s not a mind reader in disguise. His father’s the Informant. Tarek’s just got infogear screwed into his skull.”
+
+That only made Alden slightly less concerned. The Informant was an old Wright who made cheap magical wearables that were popular on Anesidora, and in a few countries where they were legal. In exchange for the fact that they were sold below cost, they monitored and recorded things that happened around the wearer and sent the intel to the Informant’s private data collection center.
+
+People said that the Informant could look at someone and get a full read-out through his infogear of everything about them that he would find useful. The wearables supposedly only recorded info that had been shared in public spaces, so it wasn’t against the law here on Anesidora.
+
+I guess my name and the fact that I’m a Rabbit in the intake dorms isn’t private. It was unsettling to wonder what else Tarek knew, though.
+
+He smiled at Alden while the unseen shop owner continued to yell at him through the intercom. “Temper spheres are on aisle eleven. White vending machine. Third item from the left on the top row. Good job surviving space, by the way. I’ve been a few times. Wild out there in the big universe, isn’t it?”
+
+“It…is,” Alden said. "Thank you."
+
+The Wright waved and left before his frequent shopper discount could be cancelled.
+
+“It just hit me that you’re really going to be living here,” said Jeremy after a minute. “With super people.”
+
+“Me too.”
+
+“You’re gonna be okay, right?”
+
+“I hope so.”
+
+***********
+
+When they got back to the dorms, Alden was relieved to see that his apartment was his again.
+
+“This place is spotless,” said Jeremy, looking around at everything. “Your pinball machine is so shiny.”
+
+“The other Rabbits are good about tidying up after themselves. At least the new ones are. Nobody’s gotten bored with their cleaning skills yet.”
+
+Alden set the cat carrier down and opened the door so Victor could wander the place. He wasn’t sure how long he was planning to keep the cat here. Jeremy and Connie thought he needed company from home and had insisted that he give it a try. And half of Jeremy’s family was allergic, so it seemed good to give them a break.
+
+But pets aren’t a great choice for student dorm life, are they?
+
+Even if they were allowed at school, Alden would be busy with classes most of the time. And Victor had never been a cat that would tolerate being locked up in the house. It was like trying to keep a tornado in a cupboard.
+
+Although now…
+
+While the cat went to sniff the fridge, Alden set his bag on the sofa and pulled out the carton of temper spheres he’d bought. It looked like an egg carton, with twelve glass balls half-filled with glittery sand in the cups instead of eggs.
+
+Despite the fact that they looked like soap bubbles, they were supposed to be tough enough to throw around and even stand on, so Alden chucked one across the apartment into the kitchen. It bounced across the faux-wood floor and stopped beside the door.
+
+“You just point, and say its name, and it happens, right?” Jeremy asked in an eager voice.
+
+“I think so.”
+
+He could also do a mental target and command. But he figured he might as well start with the basics.
+
+He pointed at the ball and said, “Haunting Sphere.”
+
+What happened next was interesting. And shockingly easy. But having experienced normal casting, Alden wouldn’t be willing to describe it as enjoyable.
+
+He felt the spell impression come alive. A glowing light provided by his interface surrounded the sphere. The hand he was pointing with made a series of rapid signs he’d never learned. His mouth whispered a word he didn’t know. His focus narrowed onto the glass orb until there was almost nothing else in the room.
+
+Then the temper sphere disappeared. Alden’s brain snapped back to normal. About five heartbeats later, a loud high-pitched scream filled the apartment.
+
+Jeremy jumped.
+
+Victor yowled and skittered out of the kitchen to hide under the pinball machine.
+
+The scream lasted a few seconds, and then it faded. The sphere was still invisible. A notification popped up telling Alden the ball would remain invisible for three hundred and seven more seconds, and he could make it scream again if he wanted.
+
+He dropped his hand, clenching and unclenching his fingers to try to rid himself of the feeling of having them puppeteered by the spell impression.
+
+“So that’s how it works,” he said. “I’m glad the apartments are well sound proofed, or they would have heard that across the entire floor.”
+
+“It’s so cool!” Jeremy said. “The ball’s still over there, right? Can I pick it up?”
+
+“I don’t think that’ll mess up the spell. There’s no warning against it or anything.”
+
+Jeremy hurried over to pick up the sphere, and they spent the next three minutes passing it back and forth, being impressed with the fact that there really was a completely invisible object in their hands.
+
+“Wait!” said Alden, a flash of inspiration coming to him. “I wasn’t thinking. Let me…”
+
+He targeted Jeremy, and held out his hand. His friend passed him the sphere, and he wrapped his skill around it.
+
+The preservation activated. The orb stayed invisible.
+
+Alden held it between his fingers curiously. “Now. If it just wasn’t a ball the size of an egg, I would have an invisible shield.”
+
+“Can I…?” Jeremy mimed thumping the ball, and Alden nodded.
+
+Stepping from foot to foot still, he held his palm flat with the ball resting on it, and Jeremy flicked his finger over it.
+
+“A little too high. You missed.”
+
+Jeremy flicked lower, and Alden felt the impact.
+
+“Why doesn’t it fly off your hand?” Jeremy thumped it again. “You don’t even have your fingers around it.”
+
+“Because you’re not really touching it. You’re touching a layer of preservation magic. The dumb thing is that I’m not touching it with my hand either, but it has physical weight to it. The glass even feels a little bit cool. And if I don’t grip it, it still does this—”
+
+He flipped his palm over and there were a series of thumps and the sound of an invisible ball rolling across the floor.
+
+“I’m working on fixing that,” Alden said.
+
+“Fixing it?” Jeremy looked surprised. “Is it broken?”
+
+“No. It seems to be a core feature. Not a design flaw. But I really hope it can do just a little more on this front than it’s shown me so far.”
+
+“Don’t be so hard on Let Me Take Your Luggage. I think it’s bomb for a B-rank skill. And you’ve already started leveling it.”
+
+It is good, Alden thought. Very, very good. And also expensive in ways I don’t want to explain.
+
+“I hope Celena North agrees with you,” he said. “I’ve got power testing this coming Saturday.”

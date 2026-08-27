@@ -1,0 +1,275 @@
+---
+id: 3d947d22-1aef-5395-8c7b-e10a01489133
+page-type-slug: story-chapter-royal-road
+title: "279 A Dark World"
+slug: 0238-279-a-dark-world
+partOf: the-new-world
+position: 238
+ownLength: 4778
+unit: words
+ownProgress: 4778
+publishedAt: 2020-11-19
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/587485/279-a-dark-world"
+royalRoadId: "587485"
+markedReadAt: "2026-06-29T21:29:14.843Z"
+---
+
+I frowned, "I'd hope so."
+
+Torix gestured towards the group, "Here is how we've thought it out. After having a group talk and discussing various skills, we've allocated responsibilities and came up with a course of action."
+
+The lich raised a hand, "It's relatively simple. Alexander will remain at the core of this infiltration. I've tutored him in mind magic before this, and he's able enough that controlling Hybrids isn't beyond him. Just as well, he owns a grimoire with attachments for my warping ritual."
+
+I tapped my chin with a fist, "Like the one that got us to Giess?"
+
+"Precisely. Our team will infiltrate the Elysian camp by claiming they are a roaming group of dungeon clearers trying to find a place to settle. I've discussed this with several other relevant parties, and they've agreed it's a believable background. In the wake of the culling, many mismatched people find solace in traveling for a new home."
+
+Torix turned a palm to Alexander, "This grants them a veil to hide under. Alexender will not be a mage as knowledge of magic has yet to properly proliferate on Earth as of yet. They'll approach the encampment claiming they've heard rumors of this place being an excellent place for settling down."
+
+Torix walked back and forth, "In that manner, they shall spend two days finishing various nearby dungeons to establish themselves in the town. At the end of this period, they'll pretend they've gone to another dungeon, one that is more arduous than the others."
+
+Torix kept pacing, "They shall wait until night has come, infiltrate the encampment, then suppress the Hybrids and warp onto an Elysian world thereafter. After sneaking through the necessary guards and patrols, they shall then create a camp on the natural outskirts of where they've been sent."
+
+Alexander chipped in, "I'll make a warp out while Amara hacks into their system. When she finishes, we get the hell out of there with none of them the wiser."
+
+I frowned, "There's a few kinks you guys need to handle before getting through this plan."
+
+Torix interlocked his hands behind him, "Such as?"
+
+I raised a hand, "For starters, there's the issue of when you'll warp into the other world. If it's in the middle of the day, others will see you and report your warp. You need to make sure wherever you go, it's both rural and at night. Otherwise, you might get caught red-handed in enemy territory."
+
+The lich nodded, "Excellent points. We'll ensure those circumstances are guaranteed."
+
+I looked up, scrutinizing to the best of my ability, "Hmm, outside of that, you've tested Alexander's ability for controlling Hybrids?"
+
+Alexander chipped in, "I've been to several of the raids on Giess before. I've been able to control up to seven of them, but that's all I've got."
+
+I leaned back, a bit impressed, "That's more than me. The last thing would be how to get Amara through the warp. Are you sure it will work for her?"
+
+Isa chipped in, "That's why we're doing the warping at night. It should allow us to take her there without issue. If worse comes to worst, we can try putting her in dimensional storage. I don't know how that's going to work, but maybe Hod or Althea could help us there."
+
+I shrugged, "That's about all I got. It doesn't sound too risky if you handle all of that."
+
+Lester scoffed, "Easy for you to say. We'll be out there on a different planet, surrounded by hostiles."
+
+I raised my eyebrows, "To the contrary, it wouldn't be my first time in that kind of situation."
+
+Lester looked away, "Ah, yeah. Good point."
+
+Torix gazed down at them, "Be prepared for further tutelage until your meeting with Althea and Hod. Both are experienced with infiltration already, and they should offer practical assistance to your cause. Hod can envelop his form into one of your shadows while Althea shall walk along a different plane to follow you all."
+
+Torix stood tall, "Once at the camp, you all may revise the plan as necessary. Keep your safety as a top priority since being captured will result in death. We don't want to lose acceptably competent members such as you all."
+
+Torix tilted his head back, walking off, "It's time to get yourselves acquainted with Hod and Althea. You all shall be accomplishing a few drills of given scenarios along with team-building exercises before leaving."
+
+The four of them pushed themselves up, Alpha's hands leaving cracks on the floor. The golem saw me glancing at them before it peered down as well. Finding the scarred floor, Alpha leaned down and refilled the cracks with stone of the same color before catching up to the others with a light-footed trot.
+
+He was doing his best, that much was sure. I'd do the same. After getting that update out the way, I found myself at Blegara again, everyone quiet in the mornings now. We all understood what was to follow, and many of our team members performed a sort of unconscious meditation beforehand. Their thoughts cleared, and this let them rest before the coming storm.
+
+I let my mind wander instead, and I drifted back towards the ancient eldritch on Blegara. I was curious about how the Vagni survived this long, and I wanted a general understanding of the eldritch here. After hours of culling eldritch, I gained just such a chance. Today, the Hybrid's attacks on retaken portions of the city lightened. We finished a sort of quota for conquering, and everyone ended up leaving early.
+
+Everyone but me.
+
+I skulked along the outskirts of Blegara, exploring the kelpy forests and dark seas, searching for landmarks and the like. It was an exciting voyage, and I saw many things. In those dark depths, the creatures shifted in form, becoming stringy, thin, and see-through. Some of them expanded in size, while others seemed compressed.
+
+These familiar creatures and eldritch worked with the wildlife here to create a cycle of culling. A few amphibious, flying creatures would dip down into the water to catch kelp and fish at the surface. Snapping, explosive predators caught those flying salamanders. Beneath these creatures, a separate ecosystem formed. They reminded me of deep dwellers from dungeons long ago.
+
+It was a kind of evolutionary arms race. The beasts each carried some type of adjustment to their form that gave them a combative ability. Horns, spikes, teeth, claws, and clubs, these fish and crustaceans carried them all. Unlike on Giess, the natural life here had no natural reserves of mana to feed upon. This meant that no matter their tools of choice, they were nothing more than food to the eldritch in the end.
+
+Those eldritch I saw yesterday did just that - devour endlessly. They either rolled along the surface, engulfing stretches of plants and animals too slow to avoid them, or the eldritch darted back and forth, eating anything smaller than them. This resulted in lightning berserkers that ate anything in sight or slow behemoths that rolled across the land like titans covered in endless maws.
+
+I fought a few of them for sport. The giants proved easier for killing as they lacked any real combat ability. They relied on size and digestion to cull most prey, of which neither was an effective means of killing me. Event Horizon and boiling their blood killed them. Their screams weren't so loud down here, under and in the ocean either.
+
+The lightning berserkers, on the other hand, proved far more interesting. They were adapted for their environment, the water acting as a means for mobility. This shifting liquid around the monsters allowed for offputting, rapid shifts in directions. When they did decide to make contact, it was thunderous and decisive. They aimed to cull and murder whatever they touched, and they wished to do so in an instant before any kind of retaliation.
+
+Of course, killing me in one shot was well beyond their means, but taking out a few was kind of fun either way. It was like playing a game of hunter and the hunted, but the prey didn't know who was about to be eaten. Once I had my fill of that game, I dove into trenches along Saphigia's outskirts.
+
+I found that many of the eldritch here were far more benign. The extreme environment forced so many adaptations that the monsters struggled to have the same voracity that most eldritch own. Combine that with the scarcity of food, and the eldritch mirrored normal creatures for the most part. These discrepancies strengthened as I dove deeper.
+
+That wasn't the only interesting tidbit I discovered, however. Along the bottom of the world, at the edge of its depths, I found jewels and precious metals scattered about. These enormous gemstones carried an unearthly quality to them, their sheer size and complexity far beyond anything I'd seen in nature. The voracity of their coloration brought an unusual kind of intensity as well. It was as if they were a color other than one I could see, but my mind was trying to make sense of it despite that.
+
+I took a few of these gems, aiming to carry them back and see what they were. These might explain why the Emperor was so willing to allocate so many resources saving this planet. Either way, I'd found enough perplexing stuff for today, so I whisked my way back to Saphigia, aiming to warp back on my own.
+
+Before I could, I found an unusual current spawning from somewhere off in the distance. After having swum in these seas for so long, I kind of understood where and why water flowed. This current stood out as unusual because the water was both too cold and too copious. Water like this sank. It did not rise and glide along the seabed.
+
+Curiosity came over me, and like any good impulse, it overwhelmed my self-restraint. I followed the flows until I reached an undersea cliffside. Pacing over corals and stone, I poked my head over a stone ledge. There, an enormous scar in the seabed spread out before my eyes. It was a wound of the earth, one that was planetary in scale.
+
+It covered an enormous area, one that made the horizons shrink by comparison. From this pit, water ebbed and flowed out. It seemed like some sort of underwater repository leaking out chilled water here. At the same time, that didn't add up. Pressure underground resulted in heated plumes of magma. Because of that, water trapped too deep underground was always heated as well.
+
+This was dark, cold water, the kind carried at the bottom of a lifeless sea. Searching for answers, I chased down into the pit, a tiny bit of fear racing up my spine. I enjoyed that fear. It proved I was still human if only a little bit. The other, not so human part of me kept me alive as I raced under water far too cold for Blegara. As I dove deeper, I uncovered the cause of this pit.
+
+It was a rift to another world, an eldritch pit unperturbed for what looked like centuries. As I left Schema's system and the updates for my status slowed down, this particular journey scared me. It wasn't my human part that was terrified either. Something about being lost here sent shivers up my spine as if I'd never get back.
+
+With that in mind, I generated a ball of air and kept it suspended underwater. Inside that sphere, I melted some metal, which offered a vantage point of light. Once I walked into the other world, I put a checkpoint in my status. It provided a waypoint if I got lost in this dark, endless sea. However, the sheer loneliness of this vast place wasn't the only part of it that struck me.
+
+The most obvious difference was the pressure. These waters were far more fathomless than Blegara's oceans. The second change was the gravity of this world. It was several times higher than the previous planet. I noticed it despite its small impact on me as it made my gravitation both more robust and weaker in different ways.
+
+Regardless of those changes, the other difference was the lack of life here. In Blegara, bacteria floated in most water, its shallow sea supporting an indefinite quantity of life. This world lacked that, no mana being given from Event Horizon acting as the tell. I learned that a while back while experimenting with the aura in space. Sterility meant no mana.
+
+Other strangeness popped up as I traversed this wasteland. The water proved too cold, well below freezing, in fact. After tasting it, it was very salty. Another weirdness of this place was how still it was.
+
+The water moved, yes, but it was only downward into Blegara. Everywhere else, the water remained still. As I swam along the bottom of the ocean, this lack of water moving proved disorienting. Losing my sense of up and down wasn't out of the question either, the water's pressure feeling similar to gravity in that regard. My bubble of light helped me there as it let me see where the ocean's bottom was.
+
+Another strangeness appeared here. There was no sand, only sandstone. The sand had compressed long ago, the endless stillness leaving its own mark or lack thereof. I kept exploring these various places until I eventually found a vent leading below the planet's crust. Somehow, geothermal activity was retained on this planet despite everything. In this tiny pocket amidst endless gloom, life remained.
+
+It was a shattered visage of what life was like on other worlds, however.
+
+Tiny, minuscule crustaceans harbored around plants and animals feeding on the heated plumes of water. Even meters away from these life blooms, all life ceased in a very stringent line. The water was too cold, and the heat alone from these vents offered a sort of sanctuary amidst the icy chill. Pacing up to this primitive life, I put a hand out for the plants and animals to grasp onto.
+
+They deformed into monstrosities.
+
+My body was a repository of nutrients, warmth, and everything they'd been neglected for millennia. Their bodies rapidly attempted metabolizing my cells and skin, doing their damndest to eat me however they could. My armor's natural defenses overwhelmed them in seconds, but they were pretty dangerous despite their size. An average human would die from contact alone.
+
+Staring down at these creatures, hissed and screamed underwater at my armor's defenses. If I had to sum up these monster's overall feel, it was one of hunger. They existed in such a desolate place that every animal here starved for eternity. This seemed like an ancient world, and after leaving that vent, I swam up to verify my assumptions. Miles of water later, and I eventually crashed through to the surface.
+
+That was the strangest part; ice formed along the crust of the world, oceans forming beneath that. I didn't know why ice was at the surface instead of the bottom of the world, but I crashed onto a frozen wasteland either way. As I reached up my hand, this place still had air yet no wind. I stared up, and the stars beamed down. It might've been hard to notice with a normal eye, but I found them all the same.
+
+These stars, they were dim. It was as if they were close to dying. This lack of light continued despite the thin, lifeless atmosphere here. In the distance, what was once this planet's sun only twinkled as the brightest star here. It was a terrifying prospect, as if this was the eventual fate of my own world. Pondering those thoughts, I walked along with the wastes, finding nothing of note here outside miles of ice.
+
+After getting my fill of this horrifying hellscape, I dashed through the ice, using my system assisted waypoint as a way back. It was strange. I'd rather be trapped in a silver infested world than this place. At least things moved when in those metal forests. Here, everything was very still, as if the planet itself died long ago.
+
+Those thoughts loomed over me as I darted back onto Blegara. Those lifeforms on that world were no doubt eldritch, but they carried a different vibe to them. Most eldritch were monsters of the highest order and a byproduct of hunger. If anything, those animals were the same, but they lacked any choice in the matter.
+
+Hunger was interwoven with their very DNA. It was like normal creatures drenched themselves in starvation for so long that those things emerged from that trial. It gave me sympathy for the animals. They no doubt needed exterminating as they were simply too virulent. At the same time, I doubted humans would be so different if we were forced into that kind of environment and for so long.
+
+In a way, the eldritch were sad, like a story told for too long, and eventually left a mangled mess that shambled forward as a corpse.
+
+Those thoughts swirled in my head as I arrived at a now secured warp at the center of Blegara. We established it today, the added supplies and communication assisting the war effort. The Albony I passed gave me salutes as did other soldiers, and once I got to the center of the teleporter, the smell of ionized air filled my lungs as I stepped out onto the rolling hills of Mt. Verner.
+
+I relished in the feeling of life here. It was a strange feeling compared to the dead world. The places here on Earth, they changed and shifted with the tides of time. Compared to the dreary stillness from before, it left me filled with hope. After giving it some thought, what unsettled me about that old world wasn't pain.
+
+It was deprivation.
+
+In many ways, it was worse than pain. To sit still and be bored wouldn't kill me quickly, but it could rot away my soul given time. Eventually, Earth might mirror that world or be burned away in the sun. I didn't know enough to say. I did know that life had a time limit here and that it would eventually run out. I would remain forever.
+
+I didn't think I could die at this point, honestly. It wasn't like I wanted to, but I lacked any real frailty anymore. In most ways, that was a boon. In other ways, it scared me. Imagining myself stuck in a dying universe, struggling to find anything amidst dying stars...something about that filled me with dread.
+
+I silenced those fears, reminding myself of my potential. If I was a living universe, maybe I could save this one from that same stillness. Time would tell, and it was so far in the future that it might as well be lifetimes away. Maybe I could craft lifelike golems by then, so I wouldn't be completely alone.
+
+I shook off those dark thoughts, lifting my head up. After getting towards Mt. Verner, I spent another night studying with Ophelia and Chrona. While I focused on my efforts near them, the smell of pine and a cool breeze passed over me. I heard cicadas buzzing in the background, and crickets chirped in the night.
+
+Something about that life carried warmth. I'd fight to keep it this way. With that in mind, I spurred forward with continued fervor towards my studying. The night eventually ended as they all did, and I found myself looking forward to seeing the team pulled together after their artificially induced comas by Torix.
+
+I met up with said lich a while after, and I found him hovering the aforementioned members above the ground. As they slumbered, Torix handled a few logistics of our invasion by sending messages through his status. Alpha watched over his shoulder, the golem crouched over as to not tear the roof down.
+
+I did the same, and as I reached Torix, I whispered,
+
+"Are they sleeping well?"
+
+Torix didn't whisper at all, "Indeed, they are. I'm using a sleeping spell I once cast on myself to ensure excellent rest each and every time I succumbed to the urge to do so. Despite their lack of continuous rest, this should put them in an excellent spot to retain the engaged focus I put them through...Mostly."
+
+"Hm, I wouldn't know anymore. I haven't slept in so long, I barely remember what it was like at this point."
+
+Torix shrugged, "I'm of the opinion it's not worth remembering. At best, it was simply wasted time. At worst, it hampered progress more so than helped it. I remember struggling with insomnia when I was younger, in fact. I actually held a myriad of medical issues. It made becoming a lich far easier as I left those mortal woes behind."
+
+Torix waved a hand, "Either way, these three needed this slumber tremendously after that gauntlet I put them through. They are as ready as I was able to make them. They'll be waking up in a few minutes."
+
+"So, you had medical issues?" I said while cupping a chin.
+
+Torix sighed, "Indeed, I did. Many, to be more precise. I suffered from some sort of muscle wasting disease during my lifetime. I escaped my body before my mind and soul rotted underground, however. I remember watching my body be eaten by native wildlife in my world."
+
+Torix raised a hand and squeezed his skeletal fingers, "I was glad to be rid of that meat puppet. This body suits me far better. Perhaps that and the desire to live spurred my necromantic tendencies forward. Who is to say?"
+
+I scoffed, "I think you didn't need anything to mess you up. If I had to guess, you came out like this."
+
+Torix beamed with pride, "Naturally."
+
+I turned to Alpha, "What are you doing here?"
+
+"Watching the master continue his work. I now understand why my creation occurred so quickly. He assisted in organizing it once involved. He improved much of what made me as well. For that, I am eternally thankful."
+
+He gave the lich a bow, and Torix gave him a nod of acknowledgment before returning to his work. I pointed behind me, "It's good to see you two are getting along. I was wondering if you'd like to come with me to Blegara. I just wanted to see if you could fight hand in hand with these guys we're fighting."
+
+Alpha nodded, knowledge of the Hybrids already imbued within his mind,
+
+"I will do so, as my creator commands."
+
+"Eh, I'd like to think it's a request."
+
+"A request from one can be a command to others."
+
+I raised an eyebrow, Alpha coming across as pretty mystic,
+
+"Alright, if that's how you see it."
+
+We paced through Mt. Verner, many watching us as we did. As we paced up towards the upper floors and reached the suites Helios and Florence called home, I found both of them congregating with Kessiah. Florence asked questions, leaning in and focusing on what she had to say,
+
+"And you're telling me that's the norm where you came from?"
+
+Kessiah looked uncomfortable under Florence's scrutiny,
+
+"I...I think so. Remnants come in a few different kinds of upbringings. Mine was, uh, cozy, for the most part. It wasn't until after my mistake with blood magic that my situation turned ugly. And, yeah, that was my fault."
+
+Her hand squeezed tight to her side, and Florence took notice,
+
+"Ah...I'm sorry to hear that. I'm simply curious about what kind of life remnants lead. They're fascinating in that regard since your culture is quite unlike any I've ever heard of. It's also sporadic to find a remnant in imperial space."
+
+Kessiah raised her eyebrows, "Yeah, I think your kind would just kill us for experience the moment they could. You all seem backstabby to me like that." Kessiah turned to Helios,
+
+"Especially you."
+
+Helios shrugged, "And the fact that such a motivation is known showcases our honesty. I do not lie about what I am, though you don't seem to follow the same prerogative, do you?"
+
+Kessiah's eyes narrowed, "Oh, so mister prince man thinks he's so upright and civil because he doesn't lie about what a piece of shit he is, huh? That's just great."
+
+Helios raised his hand and stared down at his claws, "I don't lie about my strength or weaknesses at the very least, unlike others worth mentioning." Without turning to me, Helios murmured, "Oh, it's the Harbinger. He's here at last."
+
+I raised a brow, "Is everything ok here?"
+
+Florence put his hands on his hips, "They're just having a disagreement. It happens, and we'll be civilized adults about it."
+
+Helios scoffed, "Of course."
+
+Kessiah frowned, "Yup."
+
+Florence walked past them both and up to Alpha, who trailed behind me,
+
+"You must be the super golem I've heard so much about." Florence offered the golem a hand, "It's good to meet you, Alpha. I'm Florence Novas."
+
+Alpha gave him a bow, "I am Alpha, as my creators decided is my name. I am here to assist in your mission."
+
+"That sounds excellent. Kessiah and I could always use another bodyguard. That's even more true since Hod and Althea have to assist with some kind of mission for Torix."
+
+Helios glared at the golem, "Will it be able enough to handle the rigors of battle?"
+
+I rolled my eyes before raising a hand, "Can you even identify it?"
+
+Helios turned towards it before trying to do so. Under his mask, his blind eyes widened,
+
+"I...I cannot."
+
+I did it for him and unveiled the synopsis for them all to read.
+
+Alpha(lvl 12,000 | Guild: Harbinger's Legion) - Alpha is a golem crafted from a team of specialists using a robust, mana porous material. It uses three different minds tethered together to create one of the first super golems ever crafted. Typically, such mana hungry creation methods are impossible, but the material from which this golem is made generates mana naturally. Drawing from that mana, this golem holds tremendous power. Those powers are detailed below.
+
+Its first abilities are primarily physical in nature. It stands twelve feet in height and weighs more than most houses. Being harder than steel, the golem retains tremendous flexibility through a floating joint model, and Alpha can easily overpower all but the most physically robust Breakers and Fringe Walkers. Its regenerative abilities ensure its power will last through a battle as well.
+
+Though not as potent, its magic isn't to be underestimated. This golem commands over a dozen common, useful spells that are inherently ingrained in the material from which it was made. It uses these spells as it fights, making it harder to pin down than expected. Given free will, the golem may learn new magic in the future as well. Whether that was wise, time shall tell.
+
+Finally, the golem carries rudimentary mind magic capacities. Being a rarer form of magic, this relatively benign being can crush the consciousness of those untrained in mental warfare. The sheer size of its mind guarantees that several combatants will be required to restrain it quickly as well.
+
+For these reasons, this golem is a fierce force to be reckoned with, and it should not be underestimated.
+
+Helios tilted his head back, "Well then, I look forward to seeing it in action."
+
+Alpha bowed to Helios, "I will aim to not disappoint you as though you lack sight, you see more than most."
+
+Helios stared down at him, "That is a disconcertingly intelligent golem. I pray you made the correct decision in enabling it those mental abilities."
+
+I gave Alpha a pat on the back, "Oh, don't worry, you'll be seeing him in action today."
+
+Helios pointed down the hallway, "Then let us be off. As a warp has finally been established, I no longer need to be your valet."
+
+We all met up and warped towards Blegara, this time directly under the seabed instead of in a coral home. The albony established a barrier to allow for machine setups and the like. We rested under this magically rendered barrier, letting us breathe easily for now. That respite ended in seconds as several guards sprinted towards an exit of the border.
+
+They shot outward, intersecting with a group of Hybrids who came here to attack. I gestured to Alpha,
+
+"How about you show them how it's done?"
+
+Alpha stepped past our team and up to the barrier's exit,
+
+"I shall do so, and in your name."
+
+The runes across his body glowed white,
+
+"Long live the legion."

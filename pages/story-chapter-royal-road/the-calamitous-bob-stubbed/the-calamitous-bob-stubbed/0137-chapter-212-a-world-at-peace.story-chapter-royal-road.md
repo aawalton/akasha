@@ -1,0 +1,553 @@
+---
+id: 1b6e4767-4c03-5f54-b8ee-7d607f965f90
+page-type-slug: story-chapter-royal-road
+title: "Chapter 212: A World At Peace"
+slug: 0137-chapter-212-a-world-at-peace
+partOf: the-calamitous-bob-stubbed
+position: 137
+ownLength: 4866
+unit: words
+ownProgress: 4866
+publishedAt: 2025-06-27
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2389790/chapter-212-a-world-at-peace"
+royalRoadId: "2389790"
+markedReadAt: "2026-06-29T21:19:17.694Z"
+---
+
+Three years before.
+
+The celebrations started with the farewell to the heroes. In the green plains before Sinur’s Gate, pyres were raised to embrace the remains of those who had died stopping the undead horde. Fifty lives for Harrak in only a couple hours of one-directional slaughter. The heaviest casualties they’d had so far, yet the mood was still good. Flags were raised, and bottles were opened to speak of the departed and send them on their way. Priests of Neriad and Enttiku came to speak of death, and there was not a bereaved family who was left alone unless they wanted to be.
+
+Those were also the first to receive their prize, the next step of the celebration. The massive horde had left behind enough fertilizer to guarantee the prosperity of Harrakan farms for years to come. They’d also left a lot of metal: weapons, armor, belt buckles, keys, fake teeth, rings and jewelry. The prize was small for each revenant, but there were simply so many of them that the final pile was monstrous. There were also the necrarch cores, one of which was claimed by the captain of the Sisters of the Eye after her squad successfully bagged one. They would be the only witchpact allowed to bear necrarch facepaints as a result.
+
+Even with the government taking half, it was still a massive fortune for all the warriors and their families. The unexpected boon came a long way towards lessening the stress and loss. It would also help fund a lot of projects.
+
+After that came the feast. Viv was certain Baran and Enoria could provide much more fastuous settings, but no country around could boast draconic guests, and that was cooler than any nice dress. And besides Viv had a nice dress anyway. Properly disseminated around the plains, the dragons ate of the marinated fish with expression of wordless wonder, while a sly Arthur thanked and pampered them. Oh, many of them knew it was some sort of trap, but it was one thing to know, and another to resist that sweet, tangy condiment that came with having minions. The seeds of cooperation were planted. Whatever came next, she would have dragons on her side. Golems and masked hadals mingled with the crowd while the yries mostly stayed in their corner, though they did sometimes make rounds to offer dollops of potent hallucinogens. It was a glorious mess of languages and people each eager to share the dirtiest songs they knew in their own regions. Viv delighted everyone with a colorful fake duel between herself and a Sidjin/Rakan pair. Other mages, passably drunk, illuminated the night sky with impressive displays and the crows lost only seven fingers and no lives in the ensuing mess. It was glorious, pleasant, and otherwise everything Viv was hoping for. Life.
+
+The next day, she bid the diplomats farewell as they would return to their lands to make their reports. Reports of how she welcomed dragons at her table and could wipe out undead hordes.
+
+She hoped they’d get the message.
+
+Still three years later plus a couple of weeks besides.
+
+It was dark and stuffy in the room, one that had never been designed to accommodate a council of the Paramese alliance. That was due to the fact that said room was, in fact, a hastily modified barn with a gate large enough to welcome one of her liberators. Said gate was opened but blocked by curtains. This didn’t prevent the summer air from getting in, and so the place was uncomfortably warm.
+
+It was a necessary condition to have Solfis present at the council.
+
+At the council’s request.
+
+She had no idea why they would voluntarily place themselves in his presence.
+
+Viv could solve the heat problem with a spell but given the vociferating Helockian representative in front of her, it might lead to extreme reactions.
+
+“— absolute gall, limitless arrogance on display by this upstart. This cannot continue to go on. Imagine, no but imagine this sort of shameless action becoming the new norm in international politics! Our entire diplomatic corps would become the laughingstock of the entire world!”
+
+Viv didn’t think the rest of the world communicated with Param beyond the occasional trade ship or army of insectile fate weaving ethnic cleansers, so it wasn’t a really convincing argument.
+
+“Our alliance is based on trust, and respect. There can be no trust when one member blatantly steals a landmark from the other in what must have been a petty and deliberate insult! How dare you?”
+
+There was a lull in the accusation, and a lot of confused glances so Viv sat back in her chair clad in her leadership skill, and raised an imperious brow.
+
+Or at least she hoped she did.
+
+“This is ridiculous. I have yet to hear of a reason why you are accusing me. The Chalice is a magical object of great power that has remained inaccessible for centuries due to strong winds and a potent mana field. I never even considered how I could get that thing to fly.”
+
+Technically true. It was already floating so all she needed was to get it to float in the direction she wanted.
+
+“Why would I even be interested in such a thing? Actually, I am not interested in your explanations. Just tell us if you have proof that I did it. Any proof at all.”
+
+And good luck with that.
+
+With a smile of triumph, the ambassador slammed an object on the table.
+
+It was a bucket.
+
+“This was found on the Floating Stones Society’s recording observation golem!”
+
+Viv’s face twisted in an expression of bafflement that, she hoped, would let others assume she was just speechless.
+
+“A bucket. Your evidence is a bucket.”
+
+She had a better look.
+
+“Not even Harrakan made, apparently.”
+
+Dripping with disdain, Viv huffed, though inside of her head she was going ‘oh shit oh fuck I can’t believe this you big rusty arrogant ASSHOLE’.
+
+“Not a mere bucket! A signature, as inelegant as it is brash! One that, may I remind this assembly, was present on the Frostway statue after she illegally annexed their city! Present on the head of the surveillance golems of the temple of Maranor after Prince Gil was ‘mysteriously removed’ from it, and then arrived in Enoria, reputedly with her, which led to an alliance!”
+
+Damn. The other attendees were being swayed and there was little she could do except maybe sow doubts.
+
+“So the evidence you have of a supposedly theft of a massive object is that an astrology club observation golem had a bucket on it. That is the irrefutable proof you are presenting this council. Some prank.”
+
+“If you have nothing to hide then surely you will not mind me interrogating —”
+
+“None of this,” General Jaratalassi said. “As I warned you before, you may not force oaths upon sovereigns. We all agreed during the last council.”
+
+“— the golem,” the ambassador concluded with another grin.
+
+Viv’s gaze found the quiet golem. There was a wink-like flicker in his malevolent yellow glare.
+
+“Sure. Ask away.”
+
+“Golem, answer me! Were you involved in the theft of the Chalice?”
+
+//User request logged.
+
+//User identified as: pathetic fleshbag.
+
+//Request: denied.
+
+The ambassador was now a nice shade of purple. Dragonfruit purple not eggplant purple for now.
+
+“You DARE!”
+
+It wasn’t a good thing to say. Solfis rotated his shoulders — just that, but the entire council flinched like they’d just been missed by a speeding car. Except Viv who was still pissed off at the giant fool.
+
+“Your Imperial Highness,”Jaratalassi said, “if you could encourage Solfis to cooperate?”
+
+Viv shrugged.
+
+“Solfis, for the duration of this interview, please upgrade the pathetic fleshbag’s status to ‘guest’.”
+
+//Request: regretfully granted.
+
+“This is an outrage!”
+
+//Ask your question, ‘guest’.
+
+Only Solfis could make a flat, artificial voice drip with so much condescension.
+
+“Did you steal the Chalice?”
+
+//Yes. I have it here in my pocket.
+
+Viv resisted the urge to slam her head against the nearest wall.
+
+“What?”
+
+//Sarcasm module delivery made.
+
+//Real answer: no, I did not.
+
+“But did you take part in that theft?”
+
+//I have not stolen anything.
+
+//Ever, in fact.
+
+He must be utterly convinced it wasn’t a theft, Viv realized.
+
+“You lie! You left that bucket on the golem’s head!”
+
+//I sincerely doubt an observation facility would be large enough to accommodate my frame.
+
+//Was it?
+
+The ambassador hesitated then. Unfortunately, it didn’t last long. His expression turned feral.
+
+“In Helock, we cut off the hand of thieves.”
+
+//My hand can be reattached.
+
+//Your head cannot.
+
+“Perhaps we should stop the ‘discussion’ here,” Jaratalassi said with a warning look. “Ambassador, I will ask for some restraint.”
+
+Do not provoke the ancient war golem. Good advice.
+
+“Before we continue, I will ask for a recess. Viviane, a moment of your time please?”
+
+Jaratalassi turned, not waiting for an answer. It rubbed Viv the wrong way but she was kinda fucked right now, so she complied.
+
+Jaratalassi led her to the nearby inn, then directly to a private room. He waved his hand, and Viv saw the sigils of a sound-proof spell escaping from it. It was the first time she’d seen him actually do magic. It was weird how little he relied on it.
+
+“What the fuck were you thinking?” Jaratalassi bellowed. “What manner of nonsense is this?”
+
+She considered denying the whole thing and then just gave up.
+
+“I need it.”
+
+“The fuck you need a huge flying thing like that for?”
+
+“It’s a secret. I will ask you to believe me when I say… it will prove absolutely vital in the future. Not next year, probably, but while we’re still in command. I wouldn’t have done it otherwise.”
+
+Jaratalassi fumed. He was livid. She saw him eye the bottle of brandy on the desk, then he shook his head.
+
+“I’m trying to cut down my consumption recently. You’re not helping. Not helping at all. Now why did you even leave a calling card if you were not ready to face this tribunal?”
+
+“I had no idea they’d pull this off. Many of my subordinates are uniquely competent and uniquely naughty as well. And there isn’t shit I can do to stop them.”
+
+“Whyever not?”
+
+“Because they are really good at what they do and I like them.”
+
+Jaratalassi breathed deep a couple of times. Viv felt like she was in the principal’s office, waiting to see on which of her toes the hammer of justice would fall.
+
+“We are going to return there. You will not have to admit to the crime and I will not scour the deadlands and their mountain ranges to see where you stashed the damned thing. In return, you will pay a fine.”
+
+He glared to see if she would protest. She didn’t.
+
+“You will pay a fine of a hundred gold talents for your ‘prank’ while Helock will be offered a right to seize all of your assets in their territory, which means you will lose control of their  portal network for the next three months until you sign another agreement on the low down. You will accept those terms or so help me Neriad I’ll tan your hide, right here, right now, monstrously powerful caster or not.”
+
+“Oh fine. Fine! Let’s just get this over with.”
+
+***
+
+“You think this is funny? How can something artificially intelligent turn out to be so really stupid? You owe me a hundred gold talents, you giant metal clown!”
+
+With a disturbing calm, Solfis grabbed for his emergency receptacle, returning a clinking bag that looked far too small in his giant hand.
+
+//Here.
+
+//One hundred and eighty gold talents
+
+//This is the maximum amount I believed we might be fined.
+
+Viv grabbed the bag of dough with some trepidation. It was full of shiny, freshly stamped currency. Harrakan currency, to be precise.
+
+Her look of disbelief predictably led to nowhere since her opponent had an in-built poker face.
+
+“Ok, I’ll bite. How do you have money? How do you have so much money?”
+
+//All my children work.
+
+“What?”
+
+//Even Themis.
+
+//She was an advisor for several of our latest government buildings built outside of the walls of Kazar.
+
+“You’re leeching money off your kids? Solfis…”
+
+//They approved of the operation, of course.
+
+“I thought you were hard-wired not to sabotage me?”
+
+//I am hard-wired to protect and defend the interests of Harrak.
+
+He leaned forward. It was as intimidating as it had ever been.
+
+//Instilling fear in the hearts of our rivals is part of my duties.
+
+//And besides.
+
+//They still owe us for Elunath’s estate, which they seized in defiance of their own laws.
+
+//Consider the loss of the Chalice… what would your daughter call it?
+
+“Repossession. And yes, you’re correct.”
+
+//We should have told them to come and get it.
+
+//However.
+
+//I acknowledge the reality we are in, and the fact we need to bide our time.
+
+//I would consider the loss of the gold talents as a necessary cost to keep that fear alive.
+
+//One last point.
+
+//Have you seen the face of that ambassador?
+
+Viv chuckled after a half-arsed attempt at self-control.
+
+“At least the whole thing is pretty funny. I’ll give you that. How did you do it?”
+
+//With Irao’s help, naturally.
+
+“You two idiots will be the death of me.”
+
+Four years later, Harrakan deadlands, undisclosed location.
+
+It was a secret spot, isolated from the portal network and secretive by its nature. Viv and Solfis had selected it not for its scenic view, but because it was one of Old Harrak’s hidden golem fabrication centers, now fully forgotten in the ashes of time. On top of stashes of silverite, the facility contained copper, bronze and steel ingots in abundance, alongside a greater variety of other metals in lesser quantities. No other place would permit the project to proceed without significant supply lines, and supply lines meant spies. Despite the Hadals’ playful way of dealing with them, Viv had no doubt the most talented could slip between the gaps in that net.
+
+Harrak had to be a priority for at least half of the continent’s spy networks by now. With so many people moving in, it would be impossible to stop them all.
+
+“What do you think, Abe? Are you happy to get your old home back?”
+
+The old man shook his head, locs clicking in the still air. He didn’t look happy.
+
+“This will take time away from the delivery of justice. It will take resources away from pushing back the deadlands.”
+
+He sighed.
+
+“I spent my worst years in this place. Without your and Enttiku’s support, I would have spent my last ones there as well. It is not a place of happy memories.”
+
+“Oh. Sorry, that was callous of me.”
+
+“I appreciate the thought, Viviane the Outlander. And yes, I will lead this project so long as Sidjin and Rakan manage the more… complex arcane elements. I was never much of a researcher myself. I understand why such a construct might be necessary. I am merely saddened… that it would prove necessary.”
+
+He turned to her.
+
+“Do you know something I do not?”
+
+Viv hesitated, but not for long. She could trust Abe.
+
+“Judgment said we would need the Master Core. Dragons are sensitive to fate mana, a hue we cannot perceive. In a way, he can peer into the future. If he believes we will need the master core then we probably will. If we end up in this sort of situation then I’d rather stack all the odds in my favor starting right now.”
+
+“A wise decision. You can count on me, Viviane.”
+
+“You will need workers. I will have them carefully selected and vetted. They will also be oath-bound to secrecy.”
+
+“You know there are ways around that. Let me handle the oaths. I am close to Enttiku. She will allow it.”
+
+“Even if it is for this project?”
+
+Abe’s crimson eyes carried only sadness.
+
+“Viv, you didn’t think I would have accepted without my goddess’ express consent, did you? If even she approves of this project, then you can be sure secrecy shall be kept. I will request her guidance for this matter. And one last thing?”
+
+“Yes?”
+
+“Do not make me regret this.”
+
+“You guys should trust me a little more.”
+
+Five years later, year 885 of the restored Harrakan calendar. The in-between.
+
+Viv hovered in front of the planet-sized cowled figure that was the goddess of death. Her own shape in the in between was vaguely humanoid with anchors coming out of her back, as hazy reflections of her physical self. Neriad had said that it was because she was still defining herself. He claimed it was a good thing.
+
+Few good things about the current circumstances though.
+
+“Well that was horrifying. Damn.”
+
+Even as just a soul, her emotions still filtered through in waves of disgust and revulsion. That poor harrien.
+
+“Ok so it’s normal for me to experiment on small animals because the target must have a soul and I needed to know if it worked. Nevertheless, fucking hell. Wow. I didn’t expect that.”
+
+I respect your right to defend yourself to the best of your ability.
+
+I also acknowledge the fact that some of the foes you face are so abhorrent and powerful that you would develop such weapons.
+
+Nevertheless, I am going to do something drastic, though I am loath to intervene.
+
+The voice sounded ancient and all-encompassing, yet it was also filled with empathy and support. A strange combination. Motherly, almost.
+
+Before we do so, I believe another setting would be better.
+
+If you will allow it.
+
+“Of course.”
+
+Viv was pulled into a real world, or at least that’s how it felt to her. It was like when she joined Neriad and Efestar for beers and movies on some rare occasions. Were those real places? Or just imaginary constructs brought together by divine mana? She wasn’t sure, but she was curious.
+
+This one was strange too. While Neriad preferred a glass house next to the sword-covered field where he trained, there was nothing grandiose about Enttiku’s retreat. Viv was now sitting inside of a mud hut of modest size, the place toasty despite the cold fall visible through windows. Herbs and plants dried on walls dotted with many alcoves hiding primitive statues, but also strange tools, masks and other beautiful decorations. Water gurgled in a misshapen teapot in a fire in front of her.
+
+A woman in a coarse dress and furs leaned forward, grabbing the pot with tattooed fingers. She was of middle age with very dark smooth hair held in a sensible ponytail, with some silver at the temples. Her face was rugged, squarish, and wouldn’t have been called pretty by any stretch of the imagination, but it also radiated a sort of magnetic confidence that made her demand attention. Amused eyes found Viv. As she poured tea in an earthen mug, the woman smiled. The tattoos extended to her neck, Viv realized.
+
+“Welcome to my humble abode.”
+
+“Wow, I’m honored.”
+
+“I suppose you could be, though I have invited a lot of dying people here before. Try some!”
+
+The liquid was earthy and flavorful in a sort of cozy way. It was most definitely magical.
+
+“I summoned you here as a courtesy and apology, dear, if I have to be honest. As you know, it is my role to guide the souls to the mysteries of the afterlife.”
+
+“Can you answer a few questions about the afterlife?”
+
+“People always ask me that and my answer is always no. Believe what you will!”
+
+“That’s a copout.”
+
+“The prerogatives of an old and powerful deity. Now, for the serious part. Your change spells are incredibly potent, but they also have… very problematic implications. Some that I hadn’t foreseen. Using them on a human could… precipitate events that would be disastrous for the world, although, it would only accelerate them I suppose. Nevertheless, it is too abominable a spell to use lightly. I am sorry to say I will have to censor it.”
+
+She gave an apologetic smile. Viv raised a hand.
+
+“Look, even without outside intervention, I would never have used that thing lightly. I only ask that, should my people and myself be in real, mortal danger — and by this I don’t mean just in the course of a difficult battle — you will lift the ban.”
+
+Enttiku gave Viv a long, hard look. Viv waited.
+
+“Very well. You can pray and should I agree, I will temporarily lift the ban. Do not abuse my trust, young one.”
+
+“Never.”
+
+“I believe you, yet I must warn you all the same. Now, let us relax and talk about more pleasant affairs. Have you considered using rotating portals?”
+
+“Yes but it’s super fucking hard.”
+
+“I'll let you in on a little secret, it won’t make it simple, but at least it will make it possible. As an apology.”
+
+Viv bounced excitedly. Or at least her soul did.
+
+“A private lesson from an ancient goddess? Count me in!”
+
+What felt like a long time later, Viv was back in her body. The first thing she saw were the remains of her experiment.
+
+“Shit, that’s going to live in my core memories.”
+
+She annihilated the remains before sitting down, a little nauseous.
+
+You have been censured by Enttiku. The change-based offensive spell you designed may not be cast without her express consent. Should you break that edict, you will be cursed, and will die.
+
+“Well at least it means I did something cool. Only cool kids get the rules changed because of them.”
+
+Viv spared her spell array one last glance.
+
+It was pretty simple for something so fundamentally revolting. It just used a few very rare runes and a shit ton of mana.
+
+“I really hope I never have to use it…but if I ever do, I hope I’m angry enough not to think about it too hard.”
+
+Thirteen years after the death of Semeryss (year 893), mountains in northern Harrak.
+
+Viv hovered up the mountain as fast as she could. She could feel her daughter’s distress in her soul, that deep panic that pulled at her mind like icy fingers. Arthur had gone to an unexpected dragon conclave, an event that normally happened only every century or so, but was fifty years early this time. It must have been momentous for Arthur to be called. Now, the dragoness’ fear spread, stronger than it had ever been.
+
+Viv hurried. Something terrible must have happened there. Arthur had been gone for two years as well, leaving her financial empire in the hands of capable servants — except recollection which she had placed under Gale’s responsibility. It was a long time for something wrong to happen. The fact Arthur hadn’t flown all the way down to New Harrak meant that she probably couldn’t. She’d had no choice but to stop there. Maybe she was wounded? Sick? Did dragons even get sick?
+
+She landed in the snow. A gust of frigid wind pushed her hair back. There was a cavern here, a natural thing that magic had enlarged. Discarded bones of some sort of large feathered beasts were piled by the entrance, hastily devoured by an uncaring predator. It was a bad sign.
+
+“Arthur!”
+
+Viv moved in with determination. Her eyes adjusted to the darkness. As she walked deeper through a wide corridor, the temperature increased until it reached an almost intolerable level.
+
+Arthur was there, at the center of an artificial cave, curled on herself. Fire mana was thick here, a power expenditure that must have been a drain on the poor thing. She looked fine from afar.
+
+Daughter!
+
+Arthur raised her head. In her normally malevolent eyes was an expression of impotent panic that made Viv’s heart ache.
+
+Daughter, what is happening to you.
+
+Mother, I am scared.
+
+Mother.
+
+Viv rushed towards the poor thing just as she raised a wing, revealing three suspicious colored globes.
+
+Mother.
+
+EGGS!
+
+Viv stopped in her tracks, then facepalmed so hard she almost broke her nose.
+
+***
+
+“I’m a fucking failure of a parent.”
+
+Mother.
+
+“I thought I was doing a good job with hygiene and ethics and everything and I completely, completely forgot about sexual education. Now my ‘teenage’ daughter has been knocked up and I only have myself to blame for my utter incompetence.”
+
+Mother!
+
+“And here I was going to write a book and dragon care and rearing. Hah! What a joke I am. What an absolute travesty before the gods. I am a complete loser.”
+
+Motherrrrrr.
+
+Stop being so dramatic.
+
+“I’m a moron and a disgrace of a mom.”
+
+MOTHER!
+
+“Do you even know who the father is?”
+
+Of course I do!
+
+Sun-reflected-on-a-shard-of-Obsidian
+
+He is from the fire-breathing bloodline, black of scale like a north sea pearl.
+
+We were flying together, and then we did the mating dance and then… one thing led to another…
+
+“A shorter name? An older man? I’m going to give him a piece of my mind.”
+
+Mother.
+
+He lives on the other side of the planet.
+
+“That motherfucker.”
+
+Mother.
+
+Among dragons, it is the choice and the duty of the mother to care for her spawn.
+
+Or not.
+
+I was merely surprised and concerned.
+
+But we can totally make it work.
+
+“Where did you say he lived?” Viv said, making a tally of all her forbidden spells and which one could possibly turn a giant flying lizard into a coat and handbag combo.
+
+MOTHER.
+
+EGGS!
+
+THREE OF THEM.
+
+“Ok ok ok. Shit this isn’t going to simplify the line of succession.”
+
+Harrak is secure in the presence of the empress’ daughter and soon-to-be-born grandchildren!
+
+This is a cause for much joy.
+
+Now please mother, I need you.
+
+“Right. Right, we need to safely transport them around the mountain edge. Bring them to your Evil Den of Capitalism.”
+
+Not the bank.
+
+I shall build a nursery.
+
+I will acquire and train many minions, mother.
+
+I only need help with the transport.
+
+“We can build some sort of box, fill it with feathers, fire-enchanted stones and gravity runes on the outside. Carry it by turn.”
+
+Arthur nodded her head, the sinuous neck bobbing through the air.
+
+Yes!
+
+Yes, that will work well.
+
+My instincts are pushing me to stay put but there is little food here, and I am concerned.
+
+But with your help, I am sure I can feel safe enough to move.
+
+“Yeah it’s also the father’s job to make you feel secure.”
+
+Mother, we are not humans.
+
+Also, Koro would disagree with you.
+
+“That she would,” Viv conceded, thinking of the spear-wielding temple guard exhibitionist. “Alright. Let’s head back.”
+
+I must select proper borglings for my spawn to bind with.
+
+Like we did!
+
+“The gods dammit this is going to lead to an entire new branch of the government. Well, it’s going to take a lot of time for them to grow so let’s worry about getting them home safe first.”
+
+***
+
+Viv gently petted the scale of her second official granddaughter, whose names were not fixed yet, as they ranged between ‘her-sinuous-adorability’ and ‘Second-spawn-scourge-of-the-Great-One-who-Dared-Defecate-in-the-Gold-Vault’, according to her mother’s mood. In any case, the dragons were supposed to pick their own names and she was too young yet. She was black and she had a personality. Right now though, the little hellion slumbered and since she was quite hot and toasty, it made for a nice lap cover.
+
+In front of Viv was her desk in the green zone, the reclaimed sector of the old capital centered around the Treasury. It smelled a bit dusty but was otherwise serviceable. On that desk was something Viv would have never expected in a thousand years. It was a letter. A letter written over a thousand leagues away on a beige piece of paper so thick and oily it might survive an extinction event. The script was in Viziman, one Viv had learned only a couple of years before and only for commercial purposes. Now her eyes followed the willowy script with a mix of suspicion and disbelief.
+
+“Empress Viviane the Black Witch of Harrak, Pacifier of Enoria, Bane of Halluria, Liberator of Glastia, Reclaimer of the Deadlands, and Vanquisher of Dragons. Greetings.”
+
+Any more buttering up and they’d turn her into a Breton pastry.
+
+“We are the King and Queen of Sandsong, in Vizim. We send you this missive with our apologies for the lack of fanfare and offerings. Fate has tossed us against the reefs, and so we come to you for help. Only you can deliver us from the evil that has befallen us. Only you, in secret, can cross the waves unbeknownst to our neighbors.”
+
+Viv frowned. But why?
+
+“Should you assist us, we are ready to swear allegiance to Harrak forevermore.”
+
+Wow they must be royally fucked.
+
+“We need you, oh Empress. We need the Black Witch of Harrak. We need a Dragonslayer.”
+
+Viv tossed the letter on the desk.
+
+“Squee?”
+
+“Well I mean, I did have a good run. Fifteen years of mostly peace. But nobody can outrun the spark.”
+
+“Squee?”
+
+“You’ll get it later.”

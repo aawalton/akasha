@@ -1,0 +1,305 @@
+---
+id: ff972c43-b6aa-5ea7-a2e6-a5b5be7629c3
+page-type-slug: story-chapter-royal-road
+title: "372 A Broken Trust"
+slug: 0331-372-a-broken-trust
+partOf: the-new-world
+position: 331
+ownLength: 2216
+unit: words
+ownProgress: 2216
+publishedAt: 2023-03-20
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1143855/372-a-broken-trust"
+royalRoadId: "1143855"
+markedReadAt: "2026-06-29T21:32:34.402Z"
+---
+
+The remnant coughed.
+
+"Ahem. I would hope so, yes."
+
+I pulled out Valgus's shackles. I wrapped a chain around the remnant and gave it some mana, enough to psionically isolate. The diplomat screamed before I put my hand over his mouth.
+
+Torix's fiery eyes flared white.
+
+"What madness has overcome you? They are only a messenger."
+
+My armor leaked ascendant mana, and Event Horizon crawled toward the remnant.
+
+I seethed,
+
+"Why is Elysium here?"
+
+Chapter Begin
+
+Torix's eyes locked in on me.
+
+"They landed on Earth quite a while ago. They don't know where this base is."
+
+I pulled my armor back with difficulty.
+
+"You have no idea what they're capable of."
+
+Torix took a moment, looking me over. Torix turned to the Elysium diplomat, his eyes flaring red.
+
+"You. What have you done to my disciple?"
+
+Torix stepped over before raising a hand, and his magic fizzled into nothing. Torix tilted his head.
+
+"What manner of madness is this? Am I losing my mind?"
+
+Torix's anger undid my own. I took a breath.
+
+"The chains. They're from someone called Valgus Uuriyah. They stop magic. Completely."
+
+Torix gave the diplomat a slow nod.
+
+"Ah...Fascinating. I, hm, how to say this. Would you mind giving me a moment to explain? I can guarantee I wasn't colluding with Elysium."
+
+I frowned.
+
+"I never thought you were, but talking with them like this?"
+
+My armor grinned at the Elysium diplomat, and ascendant mana leaked from between my armor's jagged teeth. I pulled my head close.
+
+"We aren't talking to Elysium anymore. If they come here, they die. You can tell them that much, can't you?"
+
+The agent nodded with his eyes. Torix leaned back.
+
+"You're certain you wish to eliminate contact?"
+
+I turned to Torix.
+
+"Yes. I am. They are poison."
+
+Torix nodded before walking over to the diplomat. Torix turned a palm to the chains.
+
+"Would remove them?"
+
+I unwrapped the chains, the effects coursing from the diplomat to me. I numbed as Torix placed a hand over the diplomat's head. They fell unconscious before Torix sighed.
+
+"I certainly have a bit to discuss with you all, don't I?"
+
+I put a hand on his shoulder.
+
+"Before anything else, it's good to see you again."
+
+Torix spread his arms.
+
+"Come now. We're not above a physical gesture, are we?"
+
+We had a light hug before Torix stepped back and looked me over.
+
+"You know, I've long grown exhausted with expressing my surprise at your growth, yet somehow you seem to surprise me each and every time I see you. It's a master's greatest pleasure, I assure you."
+
+Torix reached up a hand, trying to grasp the air.
+
+"And this...It is as if you are omnipresent in this space. How that is done, my mind can only wonder. Fascinating."
+
+Shalahora's eyes widened.
+
+"You can sense his psyches?"
+
+Torix stammered, "Ah, I-I merely have touched upon them with the most minute of senses. It's nothing worthy of mention."
+
+Shalahora stepped up to the lich. The shadow raised a hand.
+
+"It is worthy. I cannot feel them. Are you the Torix I've heard spoken of?"
+
+Torix coughed into a hand.
+
+"Ah, you've heard of me. From whom, might I ask?"
+
+"Your disciple."
+
+Torix stood tall.
+
+"But of course. That is only to be expected, after all."
+
+At moments like this, Torix reminded me of Hod.
+
+Shalahora said, "His words are of high praise to your strategic thinking and methodical mind. He has learned much from you."
+
+Torix stood taller.
+
+"That was from his own observations. He's been a difficult student to guide over the years, but he has found his way and blossomed all his own. My results are derived primarily from his talent, and there can be no doubt about that."
+
+If Torix had lips, he'd be smirking. Torix peered at his status.
+
+"Before anything else, might I ask what your name is?"
+
+"Shalahora."
+
+"Ah, I'm Torix Worm, of Darkhill. Now-"
+
+Torix pointed upward.
+
+"The meetings at Chrona's lair, correct?"
+
+I nodded. Torix clapped his hands.
+
+"Shall we?"
+
+A portal opened, and we stepped through it. The conditioned air inside gave way to the clear air outside. I stepped onto the only solid surface here, the void ice, before I waited for the others to group up. After fifteen minutes, everyone gathered here except Helios and Kessiah.
+
+Torix stood beside me while Althea sat in a two-dimensional gravity well. Chrona and Krog rested farther down the corridor. Florence paced back and forth, nervous energy oozing from him. A cluster of flies congregated over the ice, an unnatural sight foreboding Plazia. Amara stood as far away from Plazia and Shalahora as possible, and Hod stuck to her like glue. Finally, Shalahora hovered off by himself, being as awkward as a shadow could be.
+
+They were my guild's major players, colorful as a rainbow personality-wise. I stood up.
+
+"Hey, where's Kessiah and Mr. Cold?"
+
+Torix opened his status.
+
+"Kessiah is on Blegara working at their capitol. She's been healing soldiers from different empires for extra income. As for Helios, he disappeared at the exact moment you did."
+
+I bit my tongue.
+
+"Hm. Helios was in another lottery. Kessiah was in a protected zone, right?"
+
+"Indeed."
+
+I let out a sigh of relief.
+
+"Good. She got my message, and so did he. They'll come when they can, but record this. I don't want to repeat it."
+
+Torix nodded. I spread my hands.
+
+"Everyone, I need your attention."
+
+They zoned in. I turned a palm to Shalahora.
+
+"Most of you have met, but in case I forgot, this is Shalahora. He is a powerful Sovereign I met in the lottery. He's helped me immensely during the lottery and has the strongest psionic abilities I've ever seen. He'll be able to help us moving forward."
+
+Everyone clapped for a few moments, and the gialgathens growled.
+
+I glanced at Shalahora and said, "I need you to share the memory of Obolis's magic signature with everyone here. We need to get Obolis out of there so he can hear us. The Empire is probably going crazy right now looking for the guy too. I know Florence is."
+
+Florence stopped his pacing, interlocking his hands behind himself.
+
+"It's nothing. It's nothing."
+
+At this point, Florence couldn't convince me otherwise. Shalahora placed an intangible hand on his own forehead before pulling out a memory. A psionic web dispersed over us, and the memory flashed over our eyes. Torix gawked at the sight.
+
+"This is incredible. Simply a stunning display of mind magic."
+
+Scenes of carnage erupted around us while I crossed my arms. Reliving the battle made me sick to my stomach. I again watched Targask, Alctua, Teraz, Drelex, and Entilla die. My left eye twitched before I covered my face with my helmet.
+
+As the sight faded, Obolis made his announcement once more.
+
+"We've uncovered a pocket dimension within these gauntlets."
+
+Obolis cast the spell.
+
+"I'm passing on the sensation of the magical signature used to open and close this. Use it to let us out after you've made the city safe again."
+
+Still befuddled, I shrugged.
+
+"I can't cast it off just that. Trust me, I tried."
+
+Torix's eyes flared green.
+
+"I...That was simply an absurdly strange mana type. I've never seen anything quite like it. I would need several weeks or months to dissect it for replication. However, it is doable."
+
+I peered at everybody else. Hod jumped forward, wiggling his wings.
+
+"Hod use...HOD BLAST."
+
+Nothing happened. Hod wiped his brow.
+
+"Hod do what Hod can. It up to Hod friends now. Even dry man."
+
+Torix glared while Althea burst into laughter. I held mine in with difficulty, but after a second, I turned to the side, letting out a few chuckles. I brushed myself off.
+
+"Anyone else?"
+
+No one answered, so I shrugged.
+
+"I'll hire a mana specialist-"
+
+Plazia's voice echoed, "I may be able to assist you, Harbinger."
+
+The group peered around. Amara's hair bristled as she leaned over. Hod shivered, and Shalahora locked in on the flies.
+
+Krog murmured, "It is present but not psionically. How is that possible?"
+
+I raised my hand, "It's another friend. His name is Plazia, and he's an expert in this. I'm, uh, I'm learning that about him with you all."
+
+I pulled out Valgus's artifact and offered it to the bugs above.
+
+Plazia hissed, "No. You will construct the mana and gain ownership of this thing."
+
+He calmed.
+
+"The Old Ones will corrupt me, but you are incorrigible in your being. This burden will be yours alone."
+
+Hearing Plazia's distaste, I wondered if Shalahora didn't know how to make the mana signature. I turned to the shadow, and our eyes met. He gazed away, unable to tolerate my stare. That told me all I needed to know.
+
+I grabbed the gauntlets.
+
+"Alright. I'll take them."
+
+A few minutes passed, and Plazia pulsed the mana signature at me. After getting a feel for it, I mirrored the exotic, esoteric thought pattern. It created the mana, and that soaked into the gauntlets. They tethered to me, and I shivered. Something invaded the space around me, so I condensed my wake.
+
+From beyond, some entity put its eyes on me. Peering up, I gazed at nothing, yet I stared at something infinite.
+
+Plazia murmured, "You sense something?"
+
+I put myself back in the moment.
+
+"Nothing. Give me a sec."
+
+Taking the next while, I pried into the gauntlets' secrets. I found the pocket dimension instantly, the space feeling like a watered-down, generic brand of my own. I couldn't manipulate anything within, only shifting things around at best. Magic couldn't enter it, and the esoteric magic signature was required to open, close, or move anything.
+
+Having saved all the rulers, it still had its uses regardless of my criticisms. I pried around for a bit, identifying some strange gear and a few rulers I remembered. Most of them were ones I sent into the tunnels to escape Valgus. Obolis intermingled in the group, so I pulled him out. A violet portal appeared, and Obolis floated out of the stasis like a man in a coffin.
+
+I caught him in a gravity well as he fell, and his eyes popped open. He gasped for air, gazing around. As he saw us, Obolis calmed down. The Emperor deflated like a balloon as he murmured,
+
+"I-I'm alive."
+
+Plazia oozed out his words.
+
+"Uncovering that signature within the heat of battle...I'm impressed. You must have experience with ancient artifacts. Should you offer its visage, I'd love to peruse your collection."
+
+Obolis took several breaths. After closing his eyes, he pulled himself upright and stood. Peering around, he found Florence. They met and embraced before Obolis grabbed Florence's shoulders. The Emperor mouthed.
+
+"How many?"
+
+His voice silenced everyone. Florence trembled.
+
+"All of them."
+
+Obolis fell onto his knees. He shook his head.
+
+"No. No, no, no."
+
+Florence peered away, trying to keep it together. He tried to speak, but his voice broke. The Emperor gawked at nothing, looking lost. He moved his hands before Florence grabbed him. Tears brimmed in Obolis's eyes before pouring down his face. Obolis whispered, "My family...All of them."
+
+Florence broke down, and he held Obolis. Obolis gazed forward, his jaw slack. Florence let out small cries at first, but within seconds, he wailed. He rasped. He squeezed Obolis, who stared at nothing. Florence wept until his voice grew ragged. As if realizing where he was, Obolis peered down at Florence.
+
+He moved his arms around him, and they grieved.
+
+I turned away, struggling to keep my eyes on those two. For some reason, I felt like I failed them. I don't know why it was there, but that feeling crushed me. Althea wept beside me, so I held her close. I didn't know if I could cry, but it still hurt.
+
+Shalahora stepped up to Obolis, and the shadow bent over. He said,
+
+"Let me show them."
+
+Obolis kept Florence close. Shalahora placed a fingertip against Obolis's forehead, and he pulled out a thread. It spread over us, casting a web of memories. Images of open fields popped up, albony children playing on all fours. They wrestled in clusters of white kittens, pouncing at each other while one wasn't looking.
+
+All of them were Obolis's children. All of them were dead.
+
+The children fought over who would be hunted in their game. Another memory flashed, showing albony children excited to wear their first facemasks at a store selling them. Another memory showed Obolis smiling at children while they ate different meats at a festival. The last memory showed Obolis holding his grandchildren in his arms and watching a wedding.
+
+My throat burned, but I kept it together. Althea sobbed beside me while several others broke down. On my shoulder, a group of flies landed. Plazia whispered through them.
+
+"Remember their pain, for it may become your own."
+
+Even if he was rough as sandpaper, Plazia was right. I collected my thoughts over the next few minutes, waiting until Florence and Obolis could converse. Ten minutes passed before they wiped their tears and dried their eyes. They joined the others, watching me.
+
+I faced everyone.
+
+"You all have questions, and I will give you answers."
+
+I scowled.
+
+"That starts with the lottery."

@@ -1,0 +1,173 @@
+---
+id: bf56f002-8fed-5114-b4bc-6ca30af77f46
+page-type-slug: story-chapter-royal-road
+title: "Chapter 108 – That's for the Birds"
+slug: 0108-chapter-108-thats-for-the-birds
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 108
+ownLength: 2304
+unit: words
+publishedAt: 2026-04-10
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3254718/chapter-108-thats-for-the-birds"
+royalRoadId: "3254718"
+---
+
+Liora had never felt more gross in her life. The sulfuric stench of ear wax and the feel of her feathers getting clumped with it was no doubt the worst thing she had ever gone through in her life. Was this how Renir felt when he was stuck inside monster stomachs?
+
+But despite her disgust, Liora used her talons and beak to tear at everything she could reach. The cyclops screamed and bellowed, and likely tried to shake her out as she could feel the monster move around and shake. But it wasn't a problem for her. She sank her talons into the cyclops' sensitive ear canal and climbed deeper and deeper.
+
+Her goal was the ear drum. It didn't take long to reach it, and the moment she did, she tore it with her talons. Blood from the ruptured eardrum and the other wounds she inflicted flowed through the ear canal. This was enough.
+
+Liora activated her Featherflash and flew out of the cyclops as a mote of light. It wasn't worth trudging through the bloody earwax. It turned out to be the right decision, because the moment Liora emerged, she saw the cyclops thrashing around wildly. She likely would have been hit if she flew out normally, especially since the giant was smacking the side of its head. It hadn't realized that Liora had already left, likely due to all the pain.
+
+As soon as she materialized, Liora dropped down and away from the cyclops at high speed, activating Fade to remain unseen. Flying down, she saw that Cee had woven a myriad of webs around the cyclops' feet. Many of them were breaking as the monster tried to stomp about.
+
+But the little spider kept jumping from leg to leg, connecting more and more icy webs as quickly as she could. Cee must have used the opportunity when Liora was attacking the monster's ear to get those done.
+
+On their own, the webs didn't seem to do much. In places where Cee managed to clump more icy webs together, they bit into the cyclops' skin, forming a clear layer of ice.
+
+At one point however, the cyclops, overwhelmed by the webs and the pain in his ear, stomped down his foot so hard that it broke all of Cee's webs and sent the poor spider flying in the air. Liora swooped down, changing into the large form, and grabbed her before she could fall to the ground. Liora tried to put some distance between them and the cyclops.
+
+"I'm going to kill you!" The monster roared.
+
+Suddenly, the whole ground began to shake violently as plates of earth and rocks seemed to break apart and slowly float in the air.
+
+"FLY! FLY!" Cee screeched so frantically that some instinctual spidery hissing noises came from her.
+
+Liora moved her wings as quickly as she could, darting away from the scene like a bullet. Thankfully, it appeared that using Featherflash had removed any debris from her feathers. The skill likely didn't take anything that it didn't recognize as part of Liora with her.
+
+It was a great way to get rid of any muck, but it also meant that Liora most definitely couldn't use Featherflash together with Cee. So she moved her wings to the point that they felt like they would break. She could hear the earth rumble and shake more and more.
+
+There was no doubt that all of that would come flying in Liora's direction at any second, turning Liora and Cee into paste. A deep sense of dread settled in Liora. She couldn't dodge that. No amount of Aerial Agility would save her.
+
+A loud boom echoed through the island, and for a second Liora thought that it was the sound of a grim reaper coming for her soul. Then there was the sound of a multitude of fallen rocks as they hit the ground in a rather gentle manner. As if they had been released, not thrown.
+
+"Liora, wait. Stop!" Cee said, poking the Liora with one of her legs.
+
+Liora stopped and peeked behind her. She had turned just in time to see the giant cyclops falling backwards to the ground, one of his lower legs separated, ice encrusting the bloody stump.
+
+By the edge of the jungle Liora saw Morgana grinning from ear to ear as she held her pistol. Nord and Donovan rushed past her at the falling cyclops. The moment the monster fell, a loud boom reverberated through the island, stirring up a giant cloud of dust.
+
+But the two men dove into it without hesitation. Before the cyclops could even get its bearing, they were already slashing at its body. It wasn't random attacks either. Liora could see that their weapons shone with a strange light as they attacked, and they cut quite deep, making blood flow.
+
+The cyclops tried to get up, but Morgana began shooting bullets at it. Not the small one, but rather proper laser shots. It took some time between each shot, but the impact was apparent as each bullet struck a deep wound in the cyclops's skin and made it howl in pain.
+
+Attack, Liora! Help them finish it off before it can recover.
+
+Liora didn't have to be told twice. She flew back to the cyclops, flying low first to give Cee a chance to safely jump off. Once the spider was back on the ground, Liora flew high up in the sky.
+
+Chant this as you attack. It should give your attack ice attribute. Ice, encoat me, bring your will. Strike true and make hearts still.
+
+"Ice, encoat me, bring your will. Strike true and make hearts still," Liora chanted and dropped, allowing the gravity to empower her Skypierce.
+
+She could feel the frosty energy form around her from the chant, draining away the little bit of mana she had managed to recover. But it was enough.
+
+When Liora collided with the cyclops' eye, it didn't matter whether his eyelid was closed. It didn't even matter that the cyclops had raised its hand in an attempt to protect its eye. Like an icy bullet, Liora shot straight through its palm and into the eye socket, destroying it completely.
+
+The monster howled, but Liora used Featherflash to move away to safety and avoid getting hit by its enraged movements. But at this point, it was likely unnecessary. With ice building from Morgana's laser bullets and Cee working on even more ice webs, the cyclops' movements grew slower by the second.
+
+It tried to shake the earth using its earth magic, but all it managed to do was bring up a few tiny pebbles.
+
+"Be careful where you put your mana, monster," Donovan boasted.
+
+Donovan and Nord have abilities that allow them to absorb mana from the enemy with each strike that connects. It's not useful against mages, who generally avoid getting hit in the first place. But against oversized magical monsters like this one, it's a very strong counter.
+
+The cyclops was helpless. With his leg severed, eye destroyed, and even his hearing impaired, there wasn't much he could do besides flail about, trying to aimlessly hit one of the attackers.
+
+But Liora and others never relented. They kept chipping away at the cyclops, one attack at a time. It was very sturdy, and Liora honestly hated watching a creature die such a slow, agonizing death. It even cried out for its giantesses at one point, but obviously, nobody responded. Morgana had already disposed of them all.
+
+"Okay, let's end this. No need to drag this out anymore," Morgana announced
+
+She began charging her pistol, visible motes of energy flowing into it. Everyone else backed away a safe distance. Once the pistol was fully charged, Morgana unleashed her overpowered ray of death, shooting a hole right through the cyclops' skull.
+
+[You've assisted in defeating <Earthmage Cyclops – Level 55>.]
+
+[You've reached Level 28.]
+
+Finally… It's over.
+
+Liora flew over to Morgana, landing on the ground near her while they all watched the sight of the giant corpse. It wasn't a pleasant sight by any means. There was a giant crater of destruction around the cyclops. Not to mention all the bird corpses.
+
+"That's for the birds!" Liora said firmly, glaring at the dead cyclops.
+
+"I hope we don't have to go through this kind of trouble each time we need to attune that Resonance Crystal. Because holy shit was that crazy. I thought I was going to die like hundred times over," Cee complained, flailing her little legs.
+
+Cee is right, you know! If we have to go through all this trouble each time, then we're never going to get you out of that gem at this rate.
+
+Morgana answered before Renir could. "Calm down, beasties. Mana-rich zones aren't exactly that rare, and not each one happens to have a fat cyclops sitting on it. The main problem is usually finding them since they tend to shift around."
+
+And even if there happens to be a monster, it would be unlikely that they would have had the chance to keep absorbing the mana from the mana node undisturbed, as this cyclops did. It even evolved into Earthmage Cyclops. That is not something that can happen just anywhere.
+
+"It would be easier if Elric were still around…" Donovan mentioned.
+
+"Yeah. Mages have a knack for that sort of thing," Nord agreed.
+
+"I'm sure we're going to manage," Morgana said.
+
+Liora and Cee glanced at each other. They didn't need to speak for them both to understand that they were sceptical of the supposed ease of finding mana nodes. Nothing has been easy for them so far. But there was nothing they could do about that.
+
+For the time being it was time to enjoy the spoils of their efforts.
+
+"Dibs on the glimmerstones!" Liora called and flew towards the cyclops, meticulously digging through the corpse to find every possible glimmerstones. And there were a lot of glimmerstones.
+
+Finding one glimmerstone after the next, Liora completely forgot the danger she had to go through to get them. It was paradise. The shiny stones never seemed to end.
+
+"Birdie, do share with the spoils," Morgana ordered.
+
+Do I have to…
+
+Liora, your bird brain is taking over again.
+
+There's nothing wrong with that!
+
+Little thief, be nice.
+
+Ugh, fine!
+
+In the end, Liora did split the glimmerstones evenly. The cyclops possessed 150 glimmerstones, so each of them got 30 glimmerstones. But that wasn't all. Morgana and others, in their haste, hadn't collected the glimmerstones from the giantesses they defeated.
+
+When they collected all the glimmerstones from the giantesses, Liora kept chak-chak-chaking with delight. She just couldn't hold back her joy. Each of them got 132 glimmerstones. This meant that in total, Liora had 940 glimmerstones, which translated into 28,2% boost to the speed and power of all the skills.
+
+"Chak-chak-chak!" Liora cackled. "I'm unstoppable!"
+
+"I think the bird broke…" Donovan pointed out.
+
+"Liora, you're scaring me… Although I do admit that having this many glimmerstones certainly is dizzying. I don't know which skill to pick for myself. I've never been able to afford such powerful skills," Cee cheered.
+
+"Really? That's interesting. I expected such strong beasties as yourself to be drowning in glimmerstones," Morgana said.
+
+"We don't really enjoy fighting," Cee admitted.
+
+Liora didn't really care for the conversation. She wanted to pull out all of her glimmerstones and look at them. To marvel in their shininess. But obviously this wasn't the right place for it. Besides, they had another task to complete.
+
+"What about the attunement?" Liora asked, once she had managed to quell her delights over glimmerstones a little.
+
+"Yes, let's go do that," Morgana said and headed to the place where the cyclops used to sit.
+
+Only now did Liora realize that the crude chair the cyclops had been sitting in was actually made of bones. Not just animal bones either. There were definitely human bones in there, as well as larger humanoid bones which looked like they could have belonged to a giantess or another cyclops.
+
+"Bah, what a disgusting creature. Let's get this over with and leave," Morgana spat. "Birdie, the inscription paper!"
+
+Liora withdrew it from her Inventory and handed it to Morgana. She took it and then withdrew the Resonance Crystal from her Inventory. She then placed both on the bone chair and touched it with her fingers.
+
+The paper burst into flames, disappearing in the blink of an eye and leaving behind glowing ritual lines. They glowed with bright blue light for a few seconds, and the Resonance Crystal glowed yellow in turn.
+
+Before Liora had the chance to properly admire the sight, the glowing lines disappeared and the Resonance Crystal also dimmed, leaving only a quarter of it colored in a gentle yellow color.
+
+"That's earth attunement done!" Morgana said, retrieving the crystal.
+
+"Wait, that's it?" Liora asked in shock.
+
+"Yeah. What did you expect?" Morgana shrugged.
+
+Yeah, it's not exactly a flashy ritual.
+
+Liora's wings dropped. All this effort for a few sparklies. She dearly hoped that the damned Resonance Crystal would really free Renir of another layer of seal.
+
+"Okay, let's head back to the clinic. We'll have lots of healing to do tomorrow," Morgana said, striding away from the boney chair in the direction of the ruin.
+
+"Sure, go ahead. I would like to fly around for a bit longer. If that's alright," Liora said.
+
+Morgana looked at her for a moment, then nodded. "Very well. I'll tell someone to remain by the entrance and wait for you. Don't dally around for too long."
+
+Liora nodded and, with Cee on her back, flew off. However, as soon as the three humans were out of sight, they returned to the bone chair. It was time to do another attunement.

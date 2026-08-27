@@ -1,0 +1,231 @@
+---
+id: 04348e4f-9209-5f1e-934d-245b845fe27c
+page-type-slug: story-chapter-royal-road
+title: "223 His Own Way"
+slug: 0182-223-his-own-way
+partOf: the-new-world
+position: 182
+ownLength: 3540
+unit: words
+ownProgress: 3540
+publishedAt: 2019-08-21
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/394878/223-his-own-way"
+royalRoadId: "394878"
+markedReadAt: "2026-06-29T21:27:08.328Z"
+---
+
+After that display of mine, Transient fell in line. He wasn't as cryptic with his hints or indirect with his phrasing. While I didn't relish in threatening people, it sure got the job done sometimes. Especially after they made me vomit eyeballs, guilt wasn't an issue. Man, who would've guessed?
+
+Sarcasm aside, Transient's change in attitude didn't fix my issues with Growth. This difficulty stemmed from several causes. The least obvious but most impactful being my trait - blood magic.
+
+It was what unified my mana and health into one resource, and I had only learned magic while using it. It was a different style of mana usage compared to more conventional means. Typically, a mage externalized his intents and used a tremendous surge of thought and will to manifest it into reality. This required utter focus, complex formulations, and precise timing.
+
+My magic was the opposite. I sacrificed my physical well being for my magic to manifest. That sacrifice's effect was based on what I sacrificed, however. That's why adding more endurance and size effectively strengthened my magic. I was immolating something more valuable, therefore getting more in return. Since I could exchange blood and bone for mana, the reverse was true as well. This meant my mind strengthened the rigidity and stability of my body.
+
+These factors cleared up quite a few oddities about me in general. For instance, my instinctive learning style, it worked because of blood magic. Your average mage couldn't go by 'feel' at all. It would disrupt the flow of mana, making it all fall apart. On the other hand, my style oriented around intuition and something similar to muscle memory.
+
+This was why most mages relied heavily on their grimoire for practical magic. The algorithms in their grimoires acted as the software of a computer while their reserves of mana acted like the hardware. The better the software, the more efficiently they used the hardware.
+
+My style meant any finesse with my magic should be outright impossible. The result was quite the opposite if what Helios and Torix told me was true. Well, after thinking it over, I figured it out along with why this compendium wasn't exactly optimal.
+
+This virtualization was teaching me using the standard mage's learning curve. That's why the compendium was behind its initial estimate for my pace of learning. I was using an inferior method to gain knowledge for me. Once I understood the roadblock, maneuvering around it was simple.
+
+I would just skip all the convoluted conversion bullshit and use what I already understood. Instead of learning Growth, I used transmutation on my flesh and blood. In layman's terms, I was cutting out the middle man. In this case, the middle man was turning my body into mana then formulating that mana into what I wanted. That part was hard, tedious, and arbitrary.
+
+Why do all that when I could just change my body right into what I wanted from the start? All that other nonsense was slowing me down. Hell, logically speaking, this new style still used quintessence because of blood magic. My body was my mana pool. Using it was no different than using mana in the end.
+
+Subtle as this change was, the difference was immediate and overwhelming. Within hours, I created immense torrents of water and expansive infernos. Using The Rise of Eden, I turned into an elemental tornado of volatile forces. My density, regeneration, and overall mass gave me a tremendous base of material to work with after all.
+
+That was the icing on the cake for me. If I turned myself into water, I gained water worth about double what I sacrificed. Due to my density and mass, an arm's worth of mana could flood a room easily. Combine that with my already vast well of experience with converting my body to mana, and I wasn't a fish out of water anymore.
+
+With that bottleneck broken, I practiced with a relentless fervor. It was how I learned best. After a few hours, I gained several notifications.
+
+Breakthrough Achieved! Elementalist(lvl 21) --->(lvl 36)!
+
+Breaththrough Achieved! Elementalist(lvl 36) --->(lvl61)!
+
+Skill gained! Transmutation(lvl 10) - While others devour to expand their horizons, you use your own will to expand yours. +10% to efficiency of transmutation. +10% to ease of transmutation.
+
+My changed way of doing this yielded enormous results. This was how I was used to doing things, and cross-applying my experience to different fields of study saved me a fuckload of time. Transient was pretty peeved since I ignored all of his advice over the last few hours, but I gave two fucks what he thought at this point. After that eyeball incident, I trusted no one until I got back to that hospital in Belka.
+
+This new tactic even gained me quite a bit of usability with The Rise of Eden. Sure, the extra stats while using quintessence were hella nice, but my magic was pitiful since most of my ascendant oriented skills didn't work with quintessence. Now I could imagine actually using quintessence for something like Star Forger. Force of Nature wasn't about to be usable with quintessence anytime soon though, if ever.
+
+For now, this was enough. After rolling my shoulders, I honed in on the next skill on the list - mutation. It was a natural skill to gain. For starters, I summoned three elementals using the virtualization. The fire, water, and earth ethereal beings hovered in front of me, their bodies mimicking tornadoes of their chosen elements.
+
+Around me, I generated an abandoned set of ruins, vines, and moss hanging on ancient stone. Birds chirped outside the shaded interior, crumbled pillars supporting a massive stone labyrinth.
+
+Once in front of me, I dashed towards the summoned monsters, instigating a fight. They attacked me in sync, each wielding its element with proficiency. As they did, I transmuted portions of myself to fight them. The water elemental summoned a viper of aqua, its fangs rushing towards me. I turned the surface of my skin to fire, a detonation of fire erupting from my frame.
+
+The attack fizzled into nothingness before the earth elemental spiraled in the air towards me. Its fragmented body coalesced into an arm, crushing where I stood. I swung an arm, turning a portion of it to water. Within The Rise of Eden, this conversion of flesh to water proved efficient. A flood plumed from my frame, turning earth to mud.
+
+From my side, the firey spirit flanked. It turned its body into a fireball lunging right at me. Where I stood, I stomped a foot and shot my hands out towards the creature. A wall of icy spines erupted from my frame, the fire melting it to water. The elemental collided into this growing surge of liquid, bursting into an ever increasing fog.
+
+I sunk into the fog, avoiding the earth and water elemental's retaliation. They chased into the mist. Before they caught up, I turned the surface of my skin into pale ice, masking me in white. Hidden within the fog, I used my hearing to leap into the gust of earthen pieces.
+
+I shifted my frame, a tide of water smothering the earth elemental. Turned into a muddy slop, it died beneath me. Angered by the death of his brethren, the aqua elemental turned its body into a floating fist. As it crashed down, I smashed my hands together. As I did, I converted a portion of my palms into wind. The clap's shockwave rippled up the beast's frame, creating a cylinder of water.
+
+I pulled in my hands as it splashed around me. Before it reformed, I stood tall and spread my arms. A vast wave of wind unleashed from my frame, the water dispersing like a water balloon shot by a rifle. As the rain fell from around me, I glanced at my notifications.
+
+Skill gained! Mutation(lvl 10) - Environments and circumstances change, but so do you. +10% to mutations efficiency. +10% to speed of mutations.
+
+Unique skill gained! The basic skills Mutation, Efficiency, Anatomy, Transmutation, and Matter Generation fuse into the unique skill, Inundation. 195 treepoints rewarded.
+
+Inundation(lvl 10) - You live in abundance, drowning your foes with your frame. +10% to matter conversion ratio. +10% to volume of converted matters and energies.
+
+I raised my hands, staring at them. I glanced up to Transient,
+
+"Now this is a skill I could imagine myself using."
+
+Transient started with an unusual silence. It whimpered,
+
+"The mythical skill we had planned will no longer be formable. Skill shift volatile."
+
+I shrugged, "So what? Make a new one."
+
+"It is not so simple. The compendium expended its ability to analyze you when it was assimilated. The previous pathway nullified."
+
+I raised my eyebrows, "Huh...Well, it's not that big a deal. I'll just make a different mythical skill, one that suits me better."
+
+"Impossible. The compendium analyzed your history, status, and fighting patterns. You cannot craft a better-utilized skill."
+
+I shrugged, "Eh, maybe if it was working on what I was like before. My armor evolution as of late makes me quite a bit different now though. Considering I've changed and the compendium hasn't, wouldn't that make it incomplete?"
+
+Transient was left speechless. I waved it away, "Anyways, thanks for the help with quintessence. That shit would've been damn near impossible to make without your help. From here on out though, I'll handle it."
+
+Transient remained frozen in place, unable to so much as budge. It wobbled for a moment before shaking. It shivered, mumbling to itself in a monotone,
+
+"Mythical skill ungained. Purpose incomplete. Failure. Failure. Cannot compute. Mythical skill ungained..."
+
+It repeated that phrase over and over. After about ten minutes of that bullshit, I waved Event Horizon over the damn thing. Its mind shattered as the mana drain muted its thoughts utterly. Those shattered fragments drained into my frame, strengthening me.
+
+I shivered a bit. By destroying its will to resist, I empowered myself. In a way, I ascended by their destruction. It made sense why it was dominion plus augmentation. Their fall was my rise.
+
+Either way, without Transient bothering me and the ability to control the simulation, I went about my own business. The most logical skills to combine into a mythical skill were Quintessence, Elementalist, and Inundation. With that in mind, I spawned hundreds of various enemies and elementals around me.
+
+I rolled my shoulders before pounding my fists together. Learning by kicking ass was more my style. After destroying the first wind golem with a torrent of its own element, I grinned. As I did, my head throbbed with a headache that'd been growing over the last several days. I shook it off, laughing the pain away.
+
+Yeah, this was more like it.
+
+********************************************************************
+
+I stared down at my disciple, already accustomed to the different environment of Belka. To my surprise, my disciple's coordinates led me directly to a hospital upon this imperial world. Once within its confines, I discovered several of my allies. Kessiah, in particular, proved a fruitful encounter as she healed my fractured knee. Her restoring several of my key injuries and lacking aspects eased my life quite a bit.
+
+I always told her that her magic was powerful when harnessed. Hmph.
+
+An old mage's musings aside, I, along with Helios, stood in a rather unused portion of the hospital's hallway. We both were looking for my disciple, his presence known by the staff. They referred to him as the stationary man. To be precise, his presence here stirred up quite the fuss.
+
+A news station covered his presence, mentioning the strange being's refusal to respond to any outside contact. Despite being healthier than any patient currently residing within the hospital, this resident refused to move. They sent a moving crew to take him out of the facility, but this creature's weight far exceeded all but the most active being's ability to move him.
+
+Therefore, Daniel was treated as a statue and oddity. How quaint.
+
+The spectacle expanded until even Helios became involved. Upon coincidence, my arrival coincided with his being called here. With a like-minded goal in our sights, Helios guided me towards the statued man.
+
+And that was how we found a necromancer and world ruler staring down at a dimension. It was quite a sight; Daniel's bench had been long ago removed. He stayed sitting despite no support, his gravity wells in place. Of course they were. Otherwise, he'd collapse the entire building with his heft alone.
+
+I marveled at the magical constructs, the gravity within them contained as I tilted my head,
+
+"Daniel is rather anchored at the moment, isn't he?"
+
+Helios stood, leaning against a wall while facepalming. In silence, he reflected on this interruption to his day. The Ruler of Worlds called to move a statue man from the most excellent hospital of Belka.
+
+In a word, humorous. In another ludicrous.
+
+I snickered at him before nudging the giant with my elbow, "So how do you intend to move him? Perhaps a portal leading elsewhere? You'll find that difficult as he isn't actually sitting there. He's pinned in place by his magic. He won't fall down even if you put a portal beneath him."
+
+Helios stayed there, still brooding over the sheer ridiculousness of the situation. I relished in this more than I'd like to admit, so I continued my teasing,
+
+"Oh, I'm certain we could call in a few more members of the royal family. Perhaps you could use an enormous shard of that void ice to move him. You'd need only rebuild a large section of this state of the art hospital then. It's quite the elegant solution, really."
+
+Helios lifted his head, "I was interrupted from my work...for this. Baldowah kill me already. Why lengthen the torment?"
+
+I waved my hand in a circle towards Daniel, "Perhaps this is a trial sent from Schema to test your will."
+
+Helios stepped up to Daniel, "No. This is entropy incarnate. Nothing more. Nothing less."
+
+I turned towards Helios, "On a more serious note, would you elect to tell me how long Daniel's been here?"
+
+"Ten days. Perhaps more. The hospital staff didn't discern his stay initially. After several days, it became noteworthy. After that first week, he was an oddity that even local news stations took note of."
+
+Helios banged the side of Daniel's face with his gauntlet as if knocking on a door,
+
+"Perhaps this idiot will be more responsive to force."
+
+Helios inspected dents in the metal that composed his gauntlets. I chuckled, "Perhaps not."
+
+Helios rolled his eyes under his mask, his emotional state transparent. I locked my fingers behind me, my chest out, "I shall wait here for him until he returns from his mental odyssey. You may continue with your duties as you were."
+
+Helios glanced down at me, tilting his head, "Mental odyssey...Would you mind elaborating, perhaps?"
+
+"His mythical compendium. It shouldn't require much more in the way of time. It's been quite a while for him to still be within its confines. I'll relinquish you of your responsibility in this matter for now. You may attend to what you wish thereafter."
+
+Helios scoffed, "Confident, aren't you?" He crossed his mammoth arms,
+
+"What else would explain you giving me permission to continue my duties?"
+
+I waved a hand at Daniel, "I'm merely informing you that I shall attend to this responsibility. Nothing more."
+
+Helios turned away, his cape flourishing, "Then see to it. I will not be as lenient should I be called here a second time."
+
+I gave him a shallow bow, "But of course."
+
+After he left, I leaned forward, inspecting the runic markings over Daniel. I tapped one of them with a bony finger,
+
+"Hmmm...I remember them being a distinctly bloody red. Since when did they become white as snow? Curious."
+
+I created a physical cloud of dominion mana, sitting beside my disciple. I shrugged, "The questions mount. I await the answers to my various ponderings."
+
+I opened my grimoire, "But until then, it's time I dive into the depths of mind magic."
+
+I cackled with a bit of glee,
+
+"Perhaps there's more I may learn of it before he returns."
+
+********************************************************************
+
+That headache evolved into a full-blown migraine about a week back. At this point, blood dripped down my nose, out of my mouth, and even my eyes. I already passed the three-week deadline a while back. I figured this chance wouldn't come often, so I fought using my skills, molding as many together as possible.
+
+I glanced at the side of my view. I gained my mythical skill a while back.
+
+Mythical skill gained! The unique skills Quintessence, Elementalist, and Innundation fuse into the mythical skill, An Endless Flood! 104 treepoints awarded!
+
+An Endless Flood(lvl 10) - From your mind, the torrents of the material world erupt, cascading across all before you in an endless flood. Augments creation skills, transmutations skill, and created elements. Increases ease of use for these types of magic as well.
+
+I hadn't closed the notification out for a long time. I liked the name of it since it reminded me of my first mythical skill, A Boundless Storm. In a way, this new skill emulated those words far better. From my hands, I created vast swaths of elemental carnage. I decimated horde after horde of the enemy, yet my abilities never waned.
+
+I wielded more of my mana, the sheer volume mounting to absurd extents. It changed the nature of my onslaught. I created vast icestorms or fiery hellscapes on my own. I wielded the wind with an utter completion, hurricanes left unbounded.
+
+I used Star Forger, melding the skill into my movements. Water to mist or ice, Star Forger's temperature change made these transitions easier. At times, I glowed like the sun, fire erupting from my every motion. At other times, I slid across the virtualization as a phantom of ice, my movements unreadable. I learned to wield earth, mist, magma, and sand. They molded into An Endless Flood, augmenting the potent skill.
+
+After wielding the might of these forces, a few more weeks passed. I used summons of my own to combat the ensuing hordes. I charged them with quintessence, their bodies strengthened, and their minds emboldened. We wrought destruction, the virtualization cracking at the seams.
+
+They lacked any complex movements, so I spoke out to my forces. I gave orders and commands, shouting out for eternal victory. Using Legion of One, I gave them the spirit to continue despite the undying throngs of monsters. They fought for their own lives as we continued on this path of total annihilation.
+
+Our enemies darkened the skies with their numbers, but we bathed the ground in their blood. My body trembled under the strain of forced time dilation as the endless battle ebbed from weeks into months.
+
+From every surface, I bled, my mind disintegrating. I pushed through this, continuing forth. This was an opportunity to use my skills without any limit or consequence. It was a playground I would rarely return to. At the height of the war, a grin spawned onto my armor. The jagged teeth exposed a haunting white light behind them.
+
+This spurred me forward until the damage to my mind began exceeding my ability to regenerate it. Without my mana pouring forth, I ceased the incoming hordes. As I stood atop a mountain of corpses, my bloodstained summons raised their hands in triumph. They survived. I stood above them as their general, my own hand raised. I thundered with the might of a giant,
+
+"We are legion. We are eternal."
+
+As I spoke out the words, the simulation died down. The reality around me shifted. My lungs filled with a bit of dust, making me cough. I stood up, more dust falling from me in clumps. I turned around, finding the hospital surrounding me. That's right. This was where I began the compendium. I hacked up the grime in my throat before turning to the hallway.
+
+I found Torix beneath me, a series of booklets in hand. A cobweb was attached to his shoulder, a spider crawled on its surface. He peered up at me, his skeletal face showing no emotion. I hugged around him, picking him up with a chorus of cracks ebbing out. I leaned back, most of his ribcage and spine shattered. I suspended him with gravity, my eyes wide with shock.
+
+I muttered, "Oh shit."
+
+He raised a frail hand, "And here I believed you wished to send me back to my phylactery." He gestured towards his body, "As you may have surmised, it lacks the rigidity of my previous incarnation. I shall deal with this as necessary, no need to worry."
+
+Torix grumbled, "However, keep the bear hugs to a minimum if you would."
+
+I shifted my mana to quintessence, The Rise of Eden crossing over him with a subtle white tint in the air. Torix's bones and joints began to heal as he gasped,
+
+"I...what is this? Your new mythical skill?"
+
+I laughed before grinning at him,
+
+"No. It's much more than that."
+
+I raised a hand, quintessence ebbing from my palm,
+
+"It's a new aura called The Rise of Eden."

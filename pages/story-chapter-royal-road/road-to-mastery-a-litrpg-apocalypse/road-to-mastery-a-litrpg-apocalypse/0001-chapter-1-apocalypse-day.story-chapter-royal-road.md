@@ -1,0 +1,239 @@
+---
+id: 5f14b944-e160-5cc9-99ad-b6154eee5965
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1: Apocalypse Day"
+slug: 0001-chapter-1-apocalypse-day
+partOf: road-to-mastery-a-litrpg-apocalypse
+position: 1
+ownLength: 2799
+unit: words
+publishedAt: 2022-11-17
+link: "https://www.royalroad.com/fiction/61041/road-to-mastery-a-litrpg-apocalypse/chapter/1042784/chapter-1-apocalypse-day"
+royalRoadId: "1042784"
+---
+
+Jack Rust gazed at the mouth of a cave, black like the night and barely wide enough for a grown man to push through. He clicked a button, and the flashlight burned to life, shooting a wide beam of light into the darkness and dispelling it.
+
+Only rock walls met his sight. This place looked like a shallow slit in the hillside, but he knew that was not the case—another researcher had stumbled upon it and called on Jack to look.
+
+Of course, he thought. By all means, have me explore the dark, dirty cave. I love it.
+
+Jack was an averagely built man. His dark-haired head rose six feet from the ground, but he lacked the musculature to intimidate anyone. At least his younger years of sports had left him with a slim, athletic build, though he didn’t exercise anymore.
+
+His body shape, along with his green eyes and kind smile, made him slightly handsome if you asked most people, or not at all if you asked girls named Maria, of which he had a particularly nasty streak.
+
+It also made him quite suitable to investigate narrow rocky crevices, which is why he was here instead of a person of lower seniority. He didn’t like it, but alas—job called.
+
+It was still better than spending the entire day in a cramped lab full of smelly undergraduates.
+
+Grumbling, Jack made sure the pockets of his cargo pants were secured. He surveyed the rocks carefully, mapping out the sharp ones jutting out of the walls, then ventured forth. His body went sideways, and he kept his eyes glued before him, watching out for errant spider webs or multi-legged annoyances.
+
+Though he could fit pretty easily, the rocks wound tight around him. He felt trapped.
+
+Fortunately, claustrophobia wasn’t enough to stop Jack. If not, he wouldn’t be here.
+
+He was aware of the precautions. He had rehearsed them mentally while crossing the nature reserve. If anything felt off, or if the crevice got dangerously narrow, he would go back. He prayed for that, actually; it would make this excursion a paid field trip.
+
+Unfortunately, that didn’t happen. A few feet ahead, the crevice opened into a cave fifteen feet across and nine to the side. Jack quickly took out a device from his right pocket and let it inspect the air. A moment later, it beeped twice; all clear.
+
+Damn, he thought, but smiled. At least he’d make headway. If he discovered even a single female viper caterpillar here, they could mate it with the one they already had and create enough specimens to last. Plus, the cave looked pretty clean, as improbable as that sounded.
+
+He also checked his featureless gray t-shirt. It looked fine; it hadn’t been caught in any rocks, thankfully. Though simple, it was his favorite shirt.
+
+Jack then looked ahead. His flashlight swung across the walls. If there were carapaced insects skittering around, he didn’t see them. It didn’t matter; he’d only be here for a little while, and poisonous varieties were not indigenous to this area, anyway.
+
+He placed his flashlight on a rock, letting it illuminate half the cave. He then removed a pair of gloves from his pocket, put them on, kneeled beside a patch of moss, and stuck his hands into it. As he idly ran his fingers over the rock, sensing nothing through the gloves, he released a sigh.
+
+What am I even doing?
+
+He was shuffling through moss in a tiny, dark cave in the middle of nowhere, trying so hard for something he didn’t care too much about. It wasn’t that he didn’t like his job; being a biologist could be fun at times, and he even had a PhD—almost. He was financially set for life and at a job more interesting than most.
+
+However, at the end of the day, it was just that—a job—and, if he was being honest, it didn’t fill him. Not at all. It wasn’t the life he dreamed about.
+
+Jack had followed the yellow brick road in his life. He’d done well at school, done well at university, then proceeded to get a PhD—well, almost. He’d taken all the expected steps and still ended up trapped. It was such a shame.
+
+Maybe it was youth’s boiling blood talking—the one he was wasting every day. The clock was ticking, and it would never go backward.
+
+He shook his head. Unfortunately, the world was what it was. His thoughts were only pipe dreams brought forth by the novelty of exploring a small cave in the Greenway nature reserve. He had to survive, somehow, and having a job he didn’t dislike was already better than most. There were bright sides. That was reality.
+
+As the professor would say, everybody had to slave away, so why not do it at something interesting?
+
+But he couldn’t shake off the fantasy. Was this all life had to offer? Was he doomed to spend forty years of his life doing such tiny things, doomed to constantly suppress his inner desire for…something? Anything?
+
+Jack was just a regular guy, and the brutal reality grained on his soul. It wasn’t the rock walls that trapped him; it was everything else.
+
+But there was nothing to be done. He understood that, and at the same time, hated it.
+
+A bump on his fingers shook him awake. Looking down, he saw a little green thing squirming to escape, and like a hawk, he grabbed it. It was helpless in his hand.
+
+Nice! he exclaimed mentally, raising it to take a better look. A viper caterpillar! Going by the color patterns, it was a female one, too. He’d found it.
+
+Whistling in joy, he slowly lowered the caterpillar and dropped it in a small jar he’d been carrying, twisting its lid closed before the little insect could escape. He then wiped his gloved hand on a nearby rock. He smiled; the trip here had taken a while, but it was worth it. At least the searching part had been short.
+
+How long did it take me? Five minutes? Wow. There have to be more of them.
+
+A conscientious worker would have kept searching. Jack took one look at the upturned moss and shook his head. Maybe it was due to his previous, morose thoughts, but he didn’t feel like doing anything. We’ll just wait a couple days for them to breed.
+
+He looked at the caterpillar in the jar. It was tiny and trapped. Just like him.
+
+“What am I even doing…” he muttered into the darkness, sighing. He didn’t want to look for caterpillars in dark caves, then return to his lab. He wanted to feel alive.
+
+It was the millionth time he had that thought, and the millionth time he wasn’t going to do anything about it. This time, however, the universe responded.
+
+Sapience located. Starting Integration…
+
+Branching Immortal System…
+
+Welcome to the New World!
+
+A shiny blue screen snapped into existence in front of Jack’s face. He backpedaled—the screen followed him—accidentally stepping on the glass jar and breaking it under his boot. The caterpillar escaped. Jack’s elbow met a sharp rock. “Woah!” he shouted, more surprised than hurt. A blue screen had appeared in the air. That couldn’t be right.
+
+Before he could consider the issue further, the world shook. Rocks rumbled and groaned, the earth moaned underfoot. Jack’s face paled; an earthquake was the worst thing that could happen in a cave. He fell on his knees and huddled around them, covering himself under a seemingly sturdy protrusion of the walls. The shaking intensified instead of stopping, and a bright cyan light blinded him again, making him hug his knees, pray for his life, and hope for the best.
+
+A few rocks fell from the ceiling, but fortunately, not on him.
+
+It felt like hours before the shaking stopped, but it couldn’t have been more than a minute. When everything stood still again, as caves were supposed to do, Jack finally opened his eyes and met an impossible sight.
+
+A small pond now lay where the far cave wall used to stand, along with a short waterfall sprouting from the rocks behind it. The water was so cold he could feel it even from a few steps away, but there was no ice on its surface. His flashlight had tumbled into the water—he could see it—but he didn’t need it because the pond itself was shining. And had the cave grown larger?
+
+Jack gaped. His mind failed to process what he saw. I’m in a dream, he finally concluded. This is where I wake up.
+
+But he didn’t wake up. Instead, the blue screen kept rolling in his sight, spitting out line after incomprehensible line.
+
+Terraforming complete.
+
+Overseers informed.
+
+Immortal System initiated. Think ‘Status’ to access your status screen.
+
+Creating dungeons…
+
+Status?
+
+Name: Jack Rust
+
+Species: Human, Earth-387
+
+Faction: -
+
+Grade: F
+
+Level: 1
+
+Physical: 4
+
+Mental: 7
+
+Will: 6
+
+What…the…fuck…
+
+Jack was a smart guy, as were most scientists. Unfortunately, no amount of mental muscle could prepare him for what was currently happening.
+
+He struggled to put things in order.
+
+I am fully aware. If this was a dream, I should have woken up by now, but I haven’t. What the hell is happening?
+
+Too many emotions warred inside him. Fear of the unknown; confusion; helplessness; and, finally, an inexplicable relief that he could not deny. He was drifting in a new sea, and, for some odd reason, he suddenly felt alive. He turned his gaze to the blue screen in his face, the one apparently called ‘status.’
+
+This is like a videogame, he slowly realized. Did AI finally conquer us?
+
+He looked at the pond that shouldn’t be there, wondering about a bunch of things. The blue screen obliged.
+
+Ice Pond (E-Grade)
+
+A hidden resource of the Forest of the Strong. The piercing cold of the Ice Pond can heal and forge a cultivator’s body. The deeper you go, the more painful the cold, and the more effective the forging.
+
+There were so many unknown words that Jack’s head spun. The status screen before, the levels, the attributes… Had his world turned into a game?
+
+One thought pushed all others apart. Am I going to get magic? Fuck yeah!
+
+Every child dreamed of becoming a wizard. If reality suddenly malfunctioned or was altered by advanced nanobots, why not let him shoot fire, too?
+
+The relief and excitement flooded him again, even harder than before. He had no idea what was happening, he was completely lost in something that didn’t make sense, but he didn’t reject it. Without even knowing what was going on, Jack instinctively hoped it was true, that the world really had turned into a game, and that nothing made sense anymore.
+
+Because, if that happened, he would be free.
+
+The child inside him awoke. A grin spread on his cheeks, and he neither could nor wanted to stop it. Whatever was happening was dangerous, unknown, and something he could thrive in. His escapism fantasies had turned real.
+
+Assuming this was real, he needed to rush to understand it. Thankfully, he was good with deciphering complex information. All he needed was time.
+
+Suddenly, the world shook a second time. His vision swam for no reason. Odd smells suffused the space, bringing in mind a clean, strong breeze and fiercely swiping grass. New blue screens sprouted before him, and Jack felt an increasing need for them to fuck off. He’d had enough already.
+
+Unfortunately, they did not fuck off.
+
+1,111 dungeons created.
+
+Monster spawning schema complete.
+
+Integration complete.
+
+Welcome to the New World!
+
+Transmitting message from assigned Overlords, the Animal Kingdom (B-Grade):
+
+Welcome to the System world. If your planet did not have magic before, it does now. Monsters and dungeons have spawned everywhere. You have been assigned attributes and Levels, and you have the capability to rise in strength by slaying strong creatures or deeply understanding the world.
+
+We understand you are in a state of shock. Do not worry. Everything will be alright in the end. It is expected that your society will collapse soon, if not already, but you will be fine. We, the Animal Kingdom, will take care of those things.
+
+For now, you should focus on becoming individually stronger. Hunt monsters, conquer dungeons, sink your mind deep into the world, and you will attain power greater than you can dream of. Embrace the new reality.
+
+The first step to that power is the Integration Tournament, which will be held in twenty galaxy days (note: fifteen Earth-387 days) from now. Comprehend even the tiniest corner of the world by then, and endless possibilities will open up for you.
+
+Good luck,Animal Kingdom
+
+You have entered the Forest of the Strong (F-Grade) dungeon.
+
+Forest of the Strong (F-Grade): A forest where only the strong survive. There are three monster groups, each holding a unique resource and representing a unique challenge. Slay the leader of a group to despawn them.
+
+This dungeon is in conquer-or-die mode. Defeat the Dungeon Boss to exit or die trying. We applaud your bravery for entering and wish you the best of luck.
+
+…What? Aliens?
+
+Jack quickly scanned over the screens, barely understanding half of what he read. He was completely lost, so he grabbed onto the few things he knew. He was familiar with games. He knew how dungeons worked; they were special places teeming with monsters, where players could enter for great risk and accordingly great rewards.
+
+Apparently, this new state of the world—the New World, if the blue screens were to be believed—shared many game-like elements, including dungeons. They had probably spawned around the world.
+
+However…
+
+We applaud for bravery for entering. Motherfucker! A dungeon spawned around me!
+
+Jack was livid! As if he didn’t have enough on his plate already. He now had to kill some Dungeon Boss or die trying.
+
+“This is a mistake!” he shouted. “I didn’t enter on purpose. Let me out!”
+
+Unfortunately, neither the blue screens nor the walls replied. Jack was left staring at the ice pond.
+
+He crossed the arms. “I don’t like this,” he said. “At least give me magic.”
+
+Faint blue light suddenly coalesced out of nowhere by the lake. Jack was relieved—he might have been sabotaged, but at least, he was given magic!
+
+As the light expanded and solidified, his hopes were dashed. This wasn’t magic—well, it was, but not his. A short, green, humanoid creature with long ears appeared out of nowhere. It barely reached his chest and was fully naked, as well as skinny and bald. Jack thought it looked like a child.
+
+It then turned around to look at him, and he almost screamed. This was no child.
+
+Its mouth was unnaturally wide and filled with sharp teeth. Its nose was long like a finger, its hands sported short claws, and its yellow eyes were filled with malice. It grinned at him, while Jack could only stare.
+
+Goblin, Level 2
+
+Goblins are weak, primal humanoids who move in large groups. They are barely intelligent enough to cook their food, and they often derive pleasure from torturing their victims. Cultivators are advised to kill them on sight.
+
+“Kekeke…” The goblin chuckled in a high-pitched, grating, evil-sounding voice. “Weak, tasty human… I will eat your legs first, kekeke…”
+
+A myriad thoughts ran through Jack’s mind, all at once. He was terrified of this creature. It wanted to eat him alive. He had to escape.
+
+At the same time, a different part of his brain, the analytical one, couldn’t help but notice how this System manipulated him. It spawned a man-eating monster right in his face, made it clear they were enemies, and said it was okay to kill it. Moreover, it gave the monster an ugly, terrifying visage, as well as opening lines that served to squash any doubts in his mind.
+
+Jack had a PhD—almost—in biology. He knew how evolution worked. Nature was brutally efficient, not comically evil.
+
+This creature was not natural. It was engineered. It was fake, a target for him to kill or die trying. He didn’t know why the System acted like this, but he knew these facts because he had spent half his life studying nature and the other half playing video games.
+
+These thoughts snapped like firecrackers in his battle-addled brain. It took less than a second for all the connections to be made, and then came the realization that they were worthless.
+
+He could only fight.
+
+Now would be a good time for magic, he thought, but nothing came. He scanned around, and there was no sharp rock for him to use. He carried no knife. His car key was electronic.
+
+There was no weapon. There was also no time.
+
+He got up and clenched his fists. The goblin pounced.

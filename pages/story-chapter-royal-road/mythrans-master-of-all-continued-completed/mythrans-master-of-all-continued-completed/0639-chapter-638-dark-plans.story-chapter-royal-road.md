@@ -1,0 +1,225 @@
+---
+id: b8c0a184-fd61-5b45-8de7-8ef41ed71401
+page-type-slug: story-chapter-royal-road
+title: "Chapter 638 - Dark Plans"
+slug: 0639-chapter-638-dark-plans
+partOf: mythrans-master-of-all-continued-completed
+position: 639
+ownLength: 2642
+unit: words
+publishedAt: 2018-07-14
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/233910/chapter-638-dark-plans"
+royalRoadId: "233910"
+---
+
+The Dark Elves led Ren and the others down several hallways to the prisoner holding area. He had to use the Minor Healing spell several times during the trip so that the Dark Elf he held by the throat wouldn't die. He continued to struggle, because he had to, until they arrived at the spot where the High Elven Council was being kept.
+
+One of the Dark Elves waved a hand in front of the door and it unlocked and opened, and he gestured inside. Ren walked in and carried the one he had by the neck and he saw that the High Elves were in individual cells, nearly identical to the ones used for the ghouls.
+
+With his Emotion Siphon ability, Ren could tell who was starting to see the Dark Elves as okay people and not hated enemies and who still saw them as they always saw them. He walked along the cells until he found the two female High Elves. One of them didn't react at all to him or the Dark Elf, the other gave out a strong burst of Hatred.
+
+“Was it this one?” Ren asked and shook the Dark Elf by the throat.
+
+“Yessssss.” The Dark Elf hissed.
+
+Ren used Minor Healing on him again and waved him in front of the cell. The door clicked open and Ren walked inside and shut it. The High Elf's Hatred dulled and was replaced by confusion.
+
+“I know this looks weird because I'm an elfling.” Ren said and tossed the Dark Elf onto the floor. “Was this the piece of garbage that touched you without your permission?”
+
+“Touched me? TOUCHED ME?!?” The High Elf woman stood up to her full height. “He tore off my clothes and grabbed me by... then he used his fingers to... to...”
+
+“I can't apologize for what he did.” Ren said and took out a sword, used the spell Enlarge or Reduce Anything on it to make it twice as big, then held it out to her hilt first. “All I can do is give you his life.”
+
+The High Elf woman didn't hesitate as her Hatred returned in full force. She grabbed the sword and plunged it into the Dark Elf's side, and the sword clanged as it hit the stone floor.
+
+“You BASTARD!” She yelled and pulled the sword out and did it again. “You defiled me!” The sword kept clanging against the stone as she continued to stab him over and over. “You have deprived me of a husband!” *CLANG* “My future children!” *CLANG* “My LIFE!”
+
+Ren stood there and watched as the High Elf woman mulched the Dark Elf. He didn't say anything as she worked through her Hatred and the floor was covered in blood and viscera. When she started to tire from the exertion and her blows were hitting nothing but the floor, he stepped forward and caught the sword by the tip of the blade.
+
+“Allow me.” Ren said, and she turned her head to look at him. She thought about pulling on it to try and swing at him as well, then she realized what he had just done. She let the sword go, and he reduced it to it's normal size and stored it. He took out his hammerpick and the High Elf woman gasped at it.
+
+“Oh, I forgot that it's still giant sized.” Ren said and reduced it to it's normal size, then brought the plow end down onto the neck of the quite dead Dark Elf. It severed the head from the remains, and Ren picked it up and held it out to her.
+
+“N-no, I don't want it.” She said. “I don't need a trophy to remind me.”
+
+Ren nodded his understanding and put the head on the floor, then used the hammer end of the hammerpick and smashed it into mulch. The High Elf woman sighed in relief and sat back down.
+
+“You need to loot it.” Ren said, and she shook her head. “It's just going to stay here until you do.”
+
+The High Elf woman looked at Ren in annoyance and reached out to touch the clothing, then the body disappeared. An odd-shaped dagger, a pile of gold coins, and a black necklace was left in its place. She looked at the dagger, then at Ren, then back at the dagger.
+
+“It's yours. You can take it.” Ren encouraged her.
+
+“It will only invite more beatings later.” She said.
+
+“There won't be any more beatings for you.”
+
+The High Elf woman sighed in resignation and nodded. She stood up to her full height, and the ill-fitting clothing she wore belied her strength and confidence. She put her hands together and prayed, and Ren heard various names and then she invoked Vasalor's name. She knelt in front of Ren and bent over to present her neck to him.
+
+“What are you doing?” Ren asked.
+
+“I asked the makers to accept me back.” The High Elf woman said. “You can kill me without consequence now.”
+
+“I'm not going to kill you.” Ren said and stored the hammerpick. “Why would... oh, I didn't mean this when I said there would be no more beatings for you.” He said. “May I touch your shoulder?”
+
+“Do I have a choice?”
+
+“I did just ask.” Ren said, and she heard his amusement.
+
+“Then no.” She said, to test him.
+
+“I'm going to assume that when you tried to escape and attacked the guards, you were beaten.” Ren said, and she lifted her head to look at him. “If you're no longer a prisoner, there's no need to escape or get more beatings, is there?”
+
+“Wh-what are you saying?”
+
+“It's better to show you, I think.” Ren said and walked over to the cell door. “My Queen, I request you release those reluctant to convert into my custody.”
+
+“Royal Consort, that is not a wise decision.” Lylyth said and walked over to the cell. The High Elf woman in the cell with Ren gasped and averted her eyes, and visibly trembled as her fear filled the room. “You do know they are magic users.”
+
+“Of course.” Ren said. “You've drained their Mana, though.”
+
+“They will regain it back in a few hours.”
+
+“Until then they are just people.”
+
+“You know we normally kill the ones we can't convert.” Lylyth said.
+
+“Yes, I know.”
+
+Lylyth sighed. “You are foolish to think you can control them.” She said. “Very well. You may take them with you when you leave.”
+
+“Thank you, My Queen.” Ren said and she almost gasped at the strength of his gratitude. Tiatha did gasp and put a hand over her heart, and the two Dark Elves that had escorted them stumbled and caught themselves on a nearby wall before they collapsed. Lylyth waved her hand in front of the door and Ren stepped out.
+
+“Please wait here until I return.” Ren said to the High Elf woman, and she looked at him with wide eyes. “I hope I won't be long, but you know how long negotiations can go on.”
+
+The High Elf woman nodded, and Ren shut the cage door, then walked away. She crawled over to the cell door and looked out and saw Ren, the Queen of the Dark Elves, 3 other Dark Elves, and a metal woman.
+
+Who is he? The High Elf woman thought as she saw the elfling that just gave her her revenge, talk to the Dark Queen as if she was just someone he had met on the street and not someone that was the bane of an entire race of people.
+
+“What do you plan to do with them?” Lylyth asked as they left the main prisoner area.
+
+“That depends on if you've been using my idea on the High Lord.” Ren said, and she nodded.
+
+“I sure have.” Lylyth said. “I must say that was a stroke of genius.” She said. “The High Lord turned on the first day.”
+
+“Really?” Ren asked, surprised. “I mean, I knew it was a good way to get to his heart, but to convert him so quickly...”
+
+“We didn't even have to charm him or use Illusion spells.” Lylyth said. “All we had to do was threaten to hurt her if he didn't do what you suggested.”
+
+“Wow.” Ren said and one of the Dark Elves opened a door to the special holding room. “So, he loved her just as much as she loved him.”
+
+“Hidden love and suppressed desires let him accept the conversion almost immediately.” The Dark Elf said as Ren and the others stepped by him into the room. The entire wall was a two-way mirror and the room on the other side was a shambles. Wrecked furniture and torn clothing covered the floor, and Ren wasn't surprised to see Allynna being pleasured very thoroughly by the High Lord Alinar Keacaryn... except he was now a powerful Dark Elf and had dark grey skin and white hair, instead of his normal white skin and blonde hair.
+
+“His personality didn't break, either. He's still just as he was before the conversion, only his loyalty is now to our Queen instead of to his people.” The other Dark Elf said.
+
+“If he had admitted to himself how he felt for her before we captured him, we never would have had the chance to claim him.” Lylyth said and ran a hand through Ren's hair. “Thank you for telling me how to do it.”
+
+Ren smiled. “Who would have thought that a simple unrequited love could change the course of the war?”
+
+“You did, dearest.” Lylyth said and knelt to give him a quick kiss. Her mouth was twice as big as his, so it was mostly his cheek that she kissed. “I suppose you want to take her as well?”
+
+“I would.” Ren said. “Thank you for not trying to convert her.”
+
+“You asked me to keep her safe and to let her have her heart's desire.” Lylyth said. “Her pure unleashed feelings have fed us well.” She smiled. “Not as well as what you gave us, though.”
+
+Ren chuckled. “I'm glad you liked it.”
+
+“It nearly killed me.” Lylyth said and shivered in pleasure. “I had to give a lot of it to my generals.”
+
+Ren raised his eyebrows. “I'm sorry. I didn't think it was too much for you to handle.”
+
+Lylyth chuckled. “I'm glad I sent Tiatha instead of going myself. Taking all of that without having a way to deal with the overflow might have finished me off.”
+
+“I wouldn't have done that to you.” Ren said. “I would have gauged your capacity and just thrown up the extra emotions.”
+
+“You are too good to be true.” Lylyth said and kissed him again.
+
+“Only when I'm awake.” Ren said, and she laughed. “When are you going to release him and send him back to the High Elves?”
+
+Lylyth blinked her eyes and looked at him. “What?”
+
+“Now that you've got him converted, cast a Permanent Full Illusion spell on him to make him look like his old self, and put him back in control of the High Elves.” Ren said. “You can control the entire High Elven Kingdom that way.”
+
+Lylyth's mouth dropped open and Ren felt her surprise.
+
+“Wait, that wasn't what you were going to do?” Ren asked, and her attendant Tiatha started to laugh.
+
+********
+
+Lisa had woken up at what she thought was a reasonable hour and hopped in the shower. She got dressed in loose pants and a blouse that was a bit too big for her. She liked it because it was comfortable and it had a nice light blue color. She went downstairs to the kitchen and saw Barbara dishing out eggs, bacon, and toast onto plates.
+
+“Good morning.” Lisa said. “Did I miss breakfast?”
+
+Barbara shook her head. “Only Ren's.”
+
+“You made a lot.” Lisa said and looked at the food.
+
+“Stella did, actually.” Barbara said and put the pans in the sink to soak. “We ate with him.”
+
+“Did he go back into the game?”
+
+“Yes.” Elise said as she came into the kitchen. “He said he needed to check on that elfling in the starter city.”
+
+“Oh, her.” Lisa said. “I'm glad he doesn't have to feed her like he used to do for Elerlyth.”
+
+“You don't approve?”
+
+Lisa shrugged. “It's not like I can tell him to let her starve, especially since him healing her upgraded her latent ability into the Emotion Siphon ability.”
+
+“So, she really can't feed from others, then.” Elise said.
+
+“It's a side effect to the Ghoul Kissed mark.” Lisa said. “He healed her, so anything she gained from that is tied to him.”
+
+“Almost against his will.”
+
+Lisa nodded and picked up a plate to take some of the eggs and bacon. “I'm sure he would have healed her anyway; but, if he knew it would change her that much...”
+
+“He would have warned her it was a possibility.” Elise said. “As it is, she's tied to him until he maxes her ability.”
+
+“Yes, and if he only levels her once each feeding every couple of weeks...” Lisa grabbed a fork and started to eat.
+
+“She's going to be in his life for a long time.” Barbara said. “Of course, if he did feed her like he did Elerlyth...”
+
+“He would be falling in the same trap.” Elise said. “I'm sure he won't do that, though.”
+
+“It's a good thing he still has that vow he made.” Lisa said between mouthfuls. “We don't have to worry about sharing his game time with anyone else.”
+
+“Um... about that...” Elise said, and Lisa's eyes went wide as the tall redhead explained that she gave Ren permission to do whatever he wanted in the game.
+
+“Are you crazy?” Lisa asked and dropped her fork. “Are you insane?”
+
+“No.” Elise said. “Why?”
+
+“What have I told you about the succubi?” Lisa asked and stood up. “How many times do I have to warn you?”
+
+“It's okay. Ren won't...”
+
+“It's not okay!” Lisa said and started to walk out of the kitchen, her plate of food completely forgotten. “You know what they can do!”
+
+“Ren has more self-control than that.” Elise said.
+
+“It's not him I'm worried about.” Lisa said and jogged by her. “I told you! It's everyone else that has to worry!”
+
+Elise and Barbara watched her run across the house to the elevator. She hit the button and disappeared inside and the door shut behind her.
+
+“I hope she's overreacting.” Barbara said.
+
+“I'm sure she is.” Elise said. “The succubi have limiters in place to stop them from using their full abilities.”
+
+Barbara looked at her. “That doesn't make sense.” She said. “Why would you include their full abilities and then add limiters to stop them from accessing those abilities?”
+
+“It was how they were designed.” Elise said. “The programmers weren't sure if or when they would need access to those abilities, so they added them and put blockers on them.”
+
+“You don't think Ren could remove those blockers, do you?” Barbara asked.
+
+“He can't go in and change their code, not through the game interface, anyway.” Elise said. “I think Lisa is just concerned about them controlling Ren.”
+
+“Can they?”
+
+Elise shook her head. “Even if he wasn't at max level and hadn't pumped up his stats so much, there's no way they can exert control over him or those with him.”
+
+“I hope you're right...” Barbara looked at Lisa's half-eaten plate of food. “...and that Lisa isn't.”
+
+*
+
+Lisa ran out of the elevator and went back into her room. She hopped onto her bed and picked up the VR headset, slipped it on, then laid down and got comfortable. She hoped she wasn't too late to stop what she suspected was going to happen.

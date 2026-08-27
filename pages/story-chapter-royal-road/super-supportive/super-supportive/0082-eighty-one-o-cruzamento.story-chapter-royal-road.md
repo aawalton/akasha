@@ -1,0 +1,189 @@
+---
+id: ef811ad6-cdf6-5f4c-8f92-60d3c33f74e5
+page-type-slug: story-chapter-royal-road
+title: "EIGHTY-ONE: O Cruzamento"
+slug: 0082-eighty-one-o-cruzamento
+partOf: super-supportive
+position: 82
+ownLength: 2310
+unit: words
+publishedAt: 2023-10-19
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1378760/eighty-one-o-cruzamento"
+royalRoadId: "1378760"
+---
+
+81
+
+“How?” Alden asked Victor, picking him up and squinting at his tubby belly. “How are you getting bigger on the diet kitty chow?”
+
+Mrrraoow.
+
+“It’s because there are no vermin here, isn’t it? You need mice to chase. Maybe the dorms will be infested.”
+
+He doubted it. Anesidora didn’t have much of a pest problem. There weren’t even mosquitoes.
+
+He set Victor back on the sofa because the cat bed wasn’t good enough for his orange majesty, then he grabbed his lunch from the fridge. He sent a group text to the girls across the hall, letting them know they could hang out in his apartment while he was gone if they wanted and use his coffee machine.
+
+Natalie responded a second later. [Wait! I’ll go with you! I just need five minutes.]
+
+[Ok.]
+
+He used the time to let his fingers flick through his non-auriad spells. He magically sanitized his hands, blew a puff of air at his cat, and then played a little tune.
+
+Victor yawned.
+
+“Such a critic.” Alden tickled the cat’s whiskers with his ring fingers while chimes sounded. “You know this is majorly impressive stuff, right? For a human.”
+
+Maybe Victor would respect him more when he started smacking, crushing, and freezing things. He was sure he could do the spell that hit things with a square of force now. I wonder how much free authority I would need to cast that spell Jel-nor did.
+
+A lot, he assumed. And there had been a chant with that one. But the mince-it-into-diamonds spell, or another like it, could be a longterm goal.
+
+When Natalie was ready, he met her in the hall. She was wearing pink overalls and a backpack so crammed full of stuff it looked like it was on the verge of bursting.
+
+“Are you going to school today after all?” Alden asked.
+
+She’d gotten her acceptance from the CNH Arts program a few days before Alden, but instead of starting classes right away, like him, she was waiting until the last possible minute to leave intake. Of her roommates, only Hadiza would be going to school with her, and she was upset about leaving the friends she’d made here behind.
+
+“Apartment hunting,” she said in a determined voice. “Again.”
+
+She wouldn’t be staying in the school dorms because they didn’t have full private kitchens. She wanted all of her new equipment to go with her.
+
+“Emilija finally said that if I could find an apartment she can afford to contribute rent for on her stipend, she’d come stay in Apex with me and Hadiza! She thinks I can’t do it, but I have twenty pounds of cake and brownies in here.” She slapped one of her backpack straps. “I’ll bribe my way through every landlord in the city if I have to!”
+
+They hit the lobby then headed out the doors into the dark morning.
+
+“Do you know if bus or train is faster this time of day?” Alden asked.
+
+“I don’t usually leave this early either. I think it’s train through F, then bus in Apex?”
+
+It was windy again, and strands of blonde hair that hadn’t been caught by her ponytail were whipping around her face.
+
+“Want me to carry your backpack?” He kept looking for excuses to experiment with his new magical weight-lifting discovery.
+
+“I’ve got it. Thanks, though. Are any of the hero track people starting with you today?”
+
+“I only asked Maricel. She’s going, but I think she’s a last possible minute person. She didn’t want to leave early.”
+
+“I want to meet her!”
+
+“We’ll all be on campus together, so I’m sure you’ll run into each other.”
+
+They dashed through a crosswalk just before the signal changed, and then headed in the direction of the nearest station. As they passed by the yoga studio Alden had noticed on his first ever trip through the neighborhood, Natalie suddenly said, “I tried to take a class at this place.”
+
+“Yeah?”
+
+The orange light from a shuttered restaurant’s sign made one of the silver buttons on her overalls glitter.
+
+“I think they didn’t want me there. They were nice at first. They said they were used to people from intake visiting, and they didn’t mind that I’d never done a class before. But then it got weird after somebody asked my rank. You wouldn’t think it would matter, would you? For yoga.”
+
+“I wouldn’t have thought so,” Alden agreed. “But I’m still getting used to Anesidora, too. Sometimes things catch me by surprise.”
+
+“Maybe I’m being sensitive for no reason. This place is going to feel smaller if being an S means some people think I’m supposed to stay on the north island. On top of everything else.”
+
+“I’m sure it’s not like that,” he said. He hoped not anyway. “I think this is a D and F-heavy neighborhood except for intake. Hardly any powers on display. Once you go a couple more blocks, you’ve got people throwing spells around in the streets.”
+
+Natalie perked up. “That’s true. I am excited about living in Apex! It’ll be perfect if I can keep Emilija with us. And you’re going to have roommates finally. I can’t believe they left you alone all that time.”
+
+“I’ve liked having the giant apartment to myself.”
+
+He didn’t tell her that he’d asked for it a few weeks ago. Gustavo had made it easy for him. During one of Alden’s nocturnal rambles through the dorm hallways, the night counselor had casually suggested that there wasn’t much point in putting new people in with him when he’d be leaving in a month. Alden had just as casually agreed.
+
+He’d needed it. It was cool of Gus not to make it into a big deal.
+
+Just a little more of a buffer between him and everyone else. Just a little more time before he forced himself into trying for 24/7 normal. No roommates to whom he’d feel obligated to explain the insomnia, or any of the rest of it.
+
+If I was placing bets on my ability to be a great living companion right now, I don’t know if I’d choose me. It’s probably good I’m in a suite that Lexi is actively trying to make the quiet, studious one.
+
+Another block and then an escalator down, and they were inside the station. It was glossy, immaculately clean, and a little over the top—qualities it shared with most of the other public transport spaces Alden had seen on the island. Starburst-shaped chandeliers the size of cars hung from a high, arched white ceiling, and every now and then when you stepped on a floor tile, it would twinkle with embedded lights.
+
+A train had just arrived. They hurried for the nearest car and slipped inside just as the doors were closing.
+
+“Made it!” Natalie said, sliding her shoulders out of her backpack straps and taking a seat. She patted the one next to her, and Alden sat. “Perfect timing! Now I don’t feel so bad about making you wait for me earlier.”
+
+“It was only five minutes. I’m not worried about…”
+
+He’d just recognized someone at the other end of the car. The stocky, brown-haired man had his eyes closed. He was leaning back in his seat with his arms crossed. Possibly resting, more likely watching videos through his interface.
+
+It was the first time Alden had ever seen him not looking like he was spoiling for a fight.
+
+But then he hasn’t spotted me yet.
+
+It was the angry guy from the boater who’d called him “fucking pet” within thirty seconds of meeting him at LeafSong. Karl.
+
+The last time Alden had seen him, he’d been grunting and glaring from across the locker room in the human dorms. As if the sight of a teenager putting on a pair of socks was an affront to the universe.
+
+Alden swallowed. His hand gripped the edge of the seat harder.
+
+The sudden spike of tension was unexpected and unpleasantly familiar, like he’d just received a postcard from eight months ago, when the boater members had been front and center in his mind. Karl had always struck him as unstable, even by the standards of that unpleasant group of adults. And he’d had an endless list of grievances against Alden that had been aired in a stream of sniping criticisms and backhanded compliments as the days passed.
+
+Alden was an ignorant globie who hadn’t done anything to deserve a Triplanets job. Alden was an idiot who’d chosen the wrong button on the washing machine they all shared and stolen minutes from Karl’s laundry cycle. Karl hated being on the same medical team as a fifteen-year-old. He hated Alden’s expensive lab coat, his higher rank, and the fact that he was getting tons of extra work from Joe. He loathed the fact that Alden was making more money than him.
+
+And I don’t think Manon was making him behave like that at all. He despised me the instant Bti-qwol introduced me.
+
+If anything, it seemed more likely that Manon had been tamping this particular member of her crew’s temper down to prevent an altercation. There was giving Alden the outcast treatment so that he couldn’t make friends with the other humans, and then there was starting a fight in the middle of a premium assignment she’d spent years micromanaging and building her twisted relationships for.
+
+“What’s wrong?” Natalie asked. “You were about to say something, weren’t you?”
+
+He selected her name from his contacts list, then texted her. [Let’s get off at the next station and swap cars.]
+
+She gave him a confused smile.
+
+[There’s a guy I’ve met before over there. He’s a huge jerk. I don’t want him to bother us.]
+
+Karl ought to have enough self-control not to start something on a train…but Karl should also have had enough self-control not to pick on someone who was just trying to do a good job and get by on his first assignment.
+
+Alden didn’t want to deal with him.
+
+Natalie mouthed Oh! then nodded.
+
+After they’d swapped cars and claimed new seats, he said, “Sorry. I was probably overreacting, but—”
+
+“No! Don’t be! Some people are creepy and awful to be around, and Hadiza is always saying ‘We don’t owe them our time, so why are we letting them take it?’ about people like that. Or something! She says it better.” She patted him on the arm. “So, you don’t owe a huge jerk anything. Right?”
+
+“Right.”
+
+His stomach sank.
+
+Right. The boater.
+
+Cly Zhao was a superhero and a Sway, and she knew about it. And she had chosen to leave it alone. But Alden had still intended to send the boater members all messages saying, “Hey. It’s really obvious to an outsider that Manon is messing with your brains. I think your friend group and that job you all like so much is scary cult stuff. Maybe you want to get help.”
+
+He hadn’t done it yet.
+
+He’d been so incredibly busy for the past two months, but not so busy that he couldn’t have drafted a few emails. It was just…this wad of pure stress in his chest whenever he thought about it.
+
+He felt as if the messages weren’t enough, like that plan was a copout. Like he was obligated to do something more serious if he was going to address the problem at all. And at the same time, it was too much. The thought of sending a bunch of emails—ones that might put him back on Manon’s radar—made him so weary.
+
+I’m too freaking young to be weary. At this point, aren’t I just being lazy?
+
+It was like he could see the swamp of human suffering Manon had made from the dry, safe place he’d finally found for himself. And he thought he should jump in and swim through it to help everyone she’d trapped there. If he was a good person, he’d want to do that for them.
+
+Instead, he couldn’t even work himself up to shout a warning to them from shore.
+
+A pleasant tone sounded as the train approached another station.
+
+Karl is in the next car. I could tell Natalie to stay here, step back over there, and try to talk to him. I know he wouldn’t react well. He might punch me in the face, but it’s not like that’ll kill me. I could do it.
+
+Just do it, Alden. Stand up, go over there, and do the right thing.
+
+The thought of doing it crushed him deeper into his seat. The weight of not doing it made him feel like there was a planet resting on his chest.
+
+He sat there, immobilized by the competing pressures, until Karl got off the train a couple of stops later. Alden watched him stride toward another set of escalators, brushing past a woman who had stopped to search through her handbag.
+
+Doors slid shut. The name of the station was still scrolling over them—O Cruzamento.
+
+As the train pulled away, Alden was relieved. And he was devastated that he was relieved.
+
+I’m a bad person now, aren’t I?
+
+He closed his eyes.
+
+“Hey, you are okay, right?” Natalie Choir asked.
+
+He looked over. Her smile had faded. Her single dimple had disappeared.
+
+“Yeah! Yeah, I’m great. Sorry. Just really sleepy from the early wake-up.” He grinned at her. It was forced, but even if it was obvious, she would let it pass. She and the other girls were good about ignoring things like that for him. “So apartment shopping! It’s crazy that people our age can do that kind of thing here, isn’t it? What kind of place are you hoping to end up in?”
+
+After a beat, she nodded at him. “Well, I really want…”
+
+He listened to her talk. The train carried him toward hero school.

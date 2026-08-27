@@ -1,0 +1,347 @@
+---
+id: c18a75eb-d58f-5d79-9d48-1a592bcaf013
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17: The Reno Auction"
+slug: 0017-chapter-17-the-reno-auction
+partOf: the-gift-of-loot
+position: 17
+ownLength: 3984
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3372253/chapter-17-the-reno-auction"
+royalRoadId: "3372253"
+---
+
+At ten-thirty the next morning, Thomas drove up to Stateline Park and found Zach sitting on a grassy rise, meditating.
+
+Parking, Thomas got out. He was already frazzled and ran a hand through his hair with a scowl. He hadn't even had time to take a shower that morning. "Hey, sorry I'm late. I had to get my nephews ready for school and drive them there, which was a whole thing. My brother wasn't..." He sighed. "He wasn't feeling up to it today."
+
+Derek had shut himself in his room, apparently not willing to deal with his three loud, obnoxious boys. Thomas had once again picked up the slack, though he'd told his brother in no uncertain terms that he wouldn't be around to do the same this afternoon. Derek had to handle the pickup after school, hand or no hand, and Ashton was not allowed to drive for him.
+
+Thomas hated taking that tone with his brother. Hated being stern with an injured man and telling him to get it together. But Derek had been stunned by the loss of his hand and was acting like his life was over. It was bad, but he had three kids to take care of and he had to pull it together. Thomas just wasn't sure if he had it in him to do it.
+
+Hopefully, there wouldn't be a need, and Thomas would find something that could help him in this auction.
+
+Oblivious to his spiraling thoughts, Zach opened his eyes, stretched, and said, "Oh, I didn't notice you were late," in a totally calm way.
+
+"Yeah, well, we still have plenty of time to make it to the auction," Thomas said, awkwardly.
+
+"Sweet." Standing, Zach walked to the car.
+
+Am I high-strung or is Zach just crazy calm? Thomas wondered. He suspected it was a little of both.
+
+The trip down the hill to the Nevada side wasn't anything Thomas hadn't done hundreds of times before. South Lake Tahoe was too small of a town to fit most big-box stores, so the locals took regular trips for major shopping.
+
+Zach was a decent conversationalist, though he did have a habit of flipping a small ball of fire around his knuckles as if it were a coin. They mostly kept to small talk, and of course, mana.
+
+"I was able to get some air whites last night to mix with my A-grade red," Zach commented. "But the whites were only level 1 D-grades, so I've got a long way to go. The mana inside is burning to get out, bro. You have no idea."
+
+Thomas glanced aside at him to make sure that little ball of fire remained in control. It was. "Why do you need air mixed with fire? Won't that, uh, fan the flames?"
+
+Zach cocked his head. "Nah, it's like the air cools it. The fire will sort of spin out of control if there's nothing anchoring it down, you know?"
+
+He shook his head. "To be honest, my mana doesn't affect me like that."
+
+"You sure? No new need to, like, heal people?"
+
+Thomas started to laugh because no, he was definitely not the doctor or nurse type—
+
+Then he stopped as he was hit with the fact he was currently headed to an auction he'd only heard about through word-of-mouth in a sketchy city he'd already been warned off about. All to find a way to fix his brother's hand.
+
+But there was nothing strange about that, right? Any other brother would do the same... right?
+
+He was driving straight to a situation that might somehow expose his Gift on the slim chance he might find a cure.
+
+"I don't know," Thomas admitted.
+
+Zach nodded as if that made perfect sense.
+
+When the announcement about the System integration came out a couple weeks ago, the American government had made a whole big deal about the economy continuing on as normal, with strict—and possibly unconstitutional—penalties to anyone who challenged that.
+
+Government threats aside, the roads were suspiciously clear in a way that reminded Thomas of the pandemic.
+
+On the plus side, they made good time. The auction was located at the downtown convention center, and they only hit a little traffic as they approached.
+
+"Looks like word of this shindig got out," Zach said mildly.
+
+That was an understatement.
+
+The sidewalk two blocks out from the convention center on either side was absolutely packed with protesters. Many had angry, flushed faces and were shouting "Earth first!" while waving signs with various slogans:
+
+No dungeons. No monsters. No lies.
+
+Keep your levels off our planet.
+
+World Integration = Government Scam.
+
+And of course the ever-popular: Wake Up Sheeple.
+
+Thomas read one sign in stark disbelief. "'We didn't vote for the System?' The Hell? What makes them think that," he gestured vaguely upward. It was a clear blue day and the ever-present System announcement hung there, plainly visible, "gives them any sort of vote?"
+
+Zach snorted. "Guess you haven't been following the news?"
+
+"Uh, a little of it. Why?"
+
+Leaning back, Zach casually waved at a man who was screaming curses with his whole chest at passing cars. "This whole thing has brought out the usual batch of weirdos, plus now people who are scared and have decided that means the System Integration isn't real. Or it's a trick."
+
+Thomas winced. "They're all going to be screwed if they don't wise up in the next five and a half months. The System's coming no matter what, and they'll be starting way behind everyone else."
+
+"Yep," Zach agreed. "I don't know what's coming exactly, but they'll be in deep trouble and will probably be at the mercy of stronger people to save them. I just feel bad for them, especially the kids they're dragging along."
+
+Thomas had been trying not to focus on that detail because many of the protestors had brought their entire families, and the children seemed to be having fun waving the signs.
+
+Thankfully, the auction officials had security keeping protestors out and cars moving into the fenced-off parking lot.
+
+Once parked, they got out and joined a line of about twenty people. There were no National Guardsmen visible or any police presence he could see. That was interesting. Who was running this thing?
+
+To Thomas's relief, no one asked for an ID or credit card—just five dollars cash to get in.
+
+"All right, hold out your hand," the entrance attendant said.
+
+Thomas did, expecting a stamp like the kind he'd received at county fairs. Instead, the lady passed a small machine over his hand that immediately beeped twice.
+
+He jerked his hand back. "What's that?"
+
+The attendant just raised an eyebrow at him. "This says you're a level two, which means you get the special band. Come on now, hold out your arm." She said the last bit in a sarcastic, coaxing way, as if he were a reluctant child. "It won't hurt a bit."
+
+Feeling silly, Thomas complied, and she snapped a red band onto his wrist. He noticed that the group next to him had blue bands.
+
+"Gray is for level zeros with their Gifts still undiscovered," the attendant said, pointing to a sign Thomas had completely missed. "Blues are for level ones, reds are for level twos, and purples are for level threes."
+
+He blinked in surprise. "There have been level threes?"
+
+"Not yet," she said with a wink. "But the day's still young. Head on in, boys."
+
+The inside looked like a larger version of the Crystal Flea Market. In addition to the main auction, various vendors had set out stalls selling items, information, and gear.
+
+One in front had a long line in front of a lady who could have been Miss Cleo's sister. She was promising an accurate prediction of someone's Gifts, no dungeon entrance required, for the low price of $249.99.
+
+"Let's get our shard appraised first," Thomas said, hooking a thumb toward a sign proclaiming: Appraisals.
+
+Zach nodded.
+
+They followed the signs to the auction house appraisal booth. The line was short, and an extremely bored-looking man greeted them with a prepared statement.
+
+"Appraisals cost level 1 crystals per item. Any color, C-grade or higher."
+
+Thomas dropped a C-grade blue on the table.
+
+Embarrassingly enough, he hadn't had time to get a replacement backpack yet, so all he had to carry his mana crystals and daggers was a fanny pack. He felt so very cool at that moment.
+
+The man glanced at the crystal, nodded when he saw the grade, and said, "Okay, what do you got?"
+
+Thomas pushed the shard over.
+
+The man's eyelid twitched slightly as if he hadn't expected the man with the fanny pack to produce a serious item. "All right, one moment." Then, turning, he signaled for someone in the back to come forward.
+
+The woman who took his seat was older, with gray ringlets in her hair. In stark contrast, she was bubblingly enthusiastic. "Hello, dears," she practically sang. "I should let you two know that my Gift is to read shards. Do you mind?"
+
+She didn't wait for Thomas to agree before picking up the shard and holding it to the light. "Oh, this is nice: Minor Ember of Life. This is a support/healing skill. Using water, earth, or healing mana, you can either refresh someone, restore their stamina, or heal up small injuries—depending on what you use." She glanced at them. "Keep in mind this is a minor skill, so whatever you apply won't have a big effect. Think of it as healing a sprain and not stitching up a giant gash."
+
+"Hold up," Zach said, sounding surprised. "You can use different types of mana for different effects?"
+
+"Oh, dearie, yes. It's common for many skills. That's why you should think carefully about the type of mana you absorb. Different types can make different skills do wildly different things." She said the last part in a sing-song voice, as if she'd repeated it many times.
+
+Zach nodded and leaned back with a smile as if he'd just had something confirmed.
+
+She went on. "Now, you have a couple options. The National Guard booth over there—" she pointed with a long fingernail to a section of the building on the right, "will take it off your hands for a flat price. Our auction will certainly take this too, and you can try your luck getting a better price. I can't officially say anything, but since it's a support/healing skill, I'd wager it will get more attention. Everyone loves a healing skill, even if it's a minor one."
+
+Thomas could use that skill too, but he had only one slot for his level, and he wasn't going to add a minor skill to it.
+
+He and Zach exchanged a look, and Thomas said, "We'll put it in the auction."
+
+"Excellent." She pulled out a contract and outlined the terms. The cost for entering any item was a C-grade mana crystal, which seemed fair. The cost was higher if they wanted to add a no-sale price, meaning they'd get their skill shard back if the bidding didn't hit a certain target. They decided to try their luck without one.
+
+Thomas paid the cost out of the loot he and Zach had won yesterday. Then, they and the lady all pressed their thumbs to the contract to inject their mana. Interestingly, Zach did not need the contract process explained to him.
+
+"Oh, a healer!" the lady said, seeing Thomas's mana signature. "I'm surprised you didn't keep this little beauty for yourself."
+
+"I have something bigger in mind."
+
+"Well, our auction is at three o'clock, but you don't have to stick around for it. Now that we have your mana contract, you can return at any point after 5 PM until 11 PM for your payout, or during regular business hours through the rest of the week."
+
+They thanked her and walked off.
+
+"Let's look at the auction stuff first," Thomas said. There was a large sign in the back of the room proclaiming today's auction items, with more being added—like theirs—by the minute.
+
+But they'd only taken about two steps before he was immediately sidetracked by the next table over, which had several clear cases secured with heavy chains. Inside those cases glinted skill shards.
+
+Underneath each case was a label for the level 1s who didn't have basic System access yet. But as a level 2, Thomas could read the shard descriptions just fine.
+
+They were just as flowery and misleading as he had come to expect.
+
+Storm Summon Authority
+
+The Way of Flame Manipulation
+
+Body Is a Fortress
+
+Purge of The Gentle Hand
+
+Proficient Gastronomic Arts
+
+Under each label was another note: D-ranked Earth or Fire Crystal for further description.
+
+"What a grift," Thomas muttered, frowning.
+
+Zach elbowed him in the side. "Wanna bet that Gastronomic Arts is just a fancy way of saying 'Cooking'?"
+
+"No bet, and Body Is a Fortress is definitely constitution or endurance." He glanced at Zach. "The Way of Flame Manipulation sounds up your alley."
+
+Zach was already staring hard at the shard. He reached to place an open palm over the clear case as if he were communing with it. After a moment, though, he withdrew his hand. "Nah, it's not right for me."
+
+"Are those level 2 bands I see?" The booth's vendor had spotted them and come over with a used car salesman smile, despite others having waited longer. "Are either of you interested in these skills?"
+
+Thomas seized his chance. "Do you have anything that can regrow a limb?"
+
+"Sorry," the man said, still wearing the oily smile. "That information would cost you one D-grade crystal."
+
+Thomas's expression went cold. "I'm not asking for details, just if you have anything that makes it possible that's not on display." He raised his voice slightly to ensure it projected. "You're going to charge just to ask what you have for sale?"
+
+The man's smile faded as he pursed his lips. Then he shrugged. "We don't have anything like that, but if I were you, I'd look at the auction preview on the other side of the room." His expression turned a little mean. "But it's not going to be cheap. Now, are either of you interested in something I have?"
+
+Even if Thomas had been, the upcharge on item descriptions had soured him.
+
+With shakes of their heads, they moved on. They passed by plenty of other vendor tables hoping to score a sale before the actual auction. None were overly full, which made sense since the general public had only been dungeon diving for two weeks, max.
+
+Thomas wondered how old some of this stuff was and if it had come from the rich and well-connected who apparently had known about the oncoming System for decades.
+
+"Ooh, is that what I think it is?"
+
+Zach suddenly steered to a table with a handmade banner proclaiming: Extra-dimensional Holding Bags! :)
+
+There was a wall of differently sized satchels and backpacks tucked safely behind the lady vendor, and a sample backpack on the table, with the straps secured by a chain.
+
+Zach went to the sample backpack and immediately stuck his arm in up to the shoulder. "Dude! I could fit my whole quarterstaff in here!"
+
+"And much more," the vendor said with a smile, seeing a pending sale.
+
+Thomas eyed the banner. "Is the term 'Bag of Holding' copyrighted?"
+
+"You bet it is," she said, "But I think my description gets the message across just fine."
+
+"Are these loot drops?" he asked. While he doubted he could pry out which dungeon they'd come from, it was worth a try.
+
+Smiling as if she'd read his mind, she shook her head. "Nope. Let's just say the magic is in the stitching."
+
+Meaning she was probably using a Gift.
+
+"How do they work?" Thomas asked, ignoring Zach, who seemed to be trying to stick his entire head in the bag to look around.
+
+"Dude! There's so much room in here! It's like a closet!"
+
+The vendor shrugged. "Until mana is thick in the air, they'll run on crystals." She pointed to a small side pocket. "Earth and Air will do, and the grade determines how long the bag works. You don't want to use Fire or Water—well, not unless you want to risk your things burning or getting soggy. You'll get plenty of notice before the power runs out," she added, probably sensing his next question, "It will be harder and harder to stick things in."
+
+"That's what she said!" Zach crowed, removing his head from the bag. Then he caught her look and quailed. "Oh, sorry."
+
+The woman turned back to Thomas. "My testing suggests that B-grades will last a couple of months. F-grade crystals will get you about three days, and the range is between there depending on the products you store."
+
+That all sounded good to him. Plus, it was a freakin' magic bag. How was this his life? He was powerfully interested but had already been warned that regrowing a limb was not going to be cheap.
+
+"How much?" Thomas asked, manfully keeping his voice neutral.
+
+"Grade A crystal, any color, for one of the smaller bags. The one that your friend there has is 5 Grade A crystals. Of course, I do take item trades for anything useful."
+
+Damn it.
+
+He was about to ask for the conversion rate she'd take of B's to A's before his thoughts were interrupted by a squeal behind him. "Preston!? Oh my God, is that you?"
+
+Out of the corner of his eye, he saw Zach freeze.
+
+They both turned to the voice, and Thomas's first thought was, I've seen her before.Though he couldn't remember where.
+
+She was blonde, pretty, and extremely fit, as if she slayed at Pilates classes every day. Unfortunately, her pretty blue eyes were only for Zach. She was staring at him as if she'd seen a ghost.
+
+He returned an easy smile that didn't quite reach his eyes. "Hey, Courtney."
+
+As if by some silent signal, three other guys materialized out of the crowd and joined her. The tallest guy, who also looked like he lived at the gym, slung a possessive arm around Courtney's shoulder.
+
+Now Thomas remembered where he'd seen the group before. They were the drunken dude-bros he'd encountered right after his first dungeon. The ones who had pre-gamed on hard lemonades and left the bottles all over the parking lot.
+
+The whole dude-bro group stared at Zach. Thomas might as well have been invisible.
+
+"What are you doing here?" one of the guys, who was built approximately like a brick shithouse, asked.
+
+"Same thing you are, probably," Zach said. "Checking out the auction."
+
+"No, I mean—" Brick Shithouse gestured vaguely at Zach. "What are you doing? Your dad said you... kind of disappeared."
+
+"I've been around."
+
+Courtney reached out to touch his arm. "We've been so worried, Preston. Your family—"
+
+"Zach," he said pleasantly.
+
+She blinked. "What?"
+
+"My name is Zach."
+
+There was a beat of silence, and the tall guy tugged Courtney back into his grasp, laughing as if Zach had just said something charmingly eccentric. "Yeah, okay, sure." Then he stepped closer and lowered his voice. As Thomas was still apparently invisible as a non-entity, he caught his words. "We've been putting together a serious crew. Like actual professionals, way better than the boomer generation. You've seen what my dad can do. Well, I can do it better."
+
+"We've been clearing out level ones all month," the third guy added. Thomas decided to call him Jawline because, wow, why was he risking his modeling career on dungeons? "We're almost at level two. Once we get there, we want to hit the old dungeons with the real loot." He paused for effect. "Take some real power."
+
+"That sounds like a solid plan," Zach said.
+
+Jawline's demeanor grew ugly. "We're not asking you to join some random group, Preston. This is us. Come on."
+
+"Zach," Zach corrected again, "And I've got a teammate." He glanced at Thomas.
+
+Don't bring me into this, Thomas thought, but made sure it didn't come across on his face. He kept his expression perfectly neutral.
+
+Instantly, he was the focus of the entire group. Courtney wrinkled her nose at his fanny pack.
+
+"No offense," Tall Guy said in the tone of someone who absolutely wanted to cause offense, "but what does, uh, this guy bring to the table?"
+
+"Quite a bit, actually," Zach said.
+
+He didn't elaborate, which was good because he didn't know Thomas's Gift, so he was pretty sure the only thing he 'brought to the table' was a car that worked well enough to drive to Reno.
+
+"Prez," Courtney said softly, her big blue eyes on him again, "there are people who would welcome you back properly. You don't have to be out here, scraping by."
+
+"I'm not scraping," Zach said, still pleasantly stonewalling.
+
+It seemed that their patience was coming to an end. Brick Shithouse stepped forward. "Look," he said, intense, "you know what's coming. You want to be in the proper hierarchy."
+
+Behind them all, the extra storage bag lady had abandoned them to their drama and had made a sale.
+
+And just like that, Thomas's patience had come to an end too. "Is that the pitch?" he asked, bored. "Are you done?"
+
+Brick Shithouse looked at him properly for the first time. "Sorry?"
+
+"Have you finally gotten to the join-us-or-else part?" Thomas pressed. "Because I had some shopping to do."
+
+The guy stared at him as if he couldn't decide if Thomas was speaking another language or if it would be worth it to just flatten him.
+
+Time to go.
+
+"You have a good auction," Thomas said pointedly. "You want to go, Zach?"
+
+"Yeah," Zach said.
+
+"Think about it, Prez," Brick Shithouse said. "We won't tell your father where you're at, but... just think about it."
+
+They separated, and Thomas noticed that Courtney glanced back over her shoulder at Zach once.
+
+They walked in silence to the other side of the building, conveniently where the crowd was thickest. Thomas was just glad Courtney's Boyfriend and Friends hadn't wanted to start a fight then and there.
+
+"Thanks," Zach said.
+
+"For what?" Thomas asked. "I didn't do anything."
+
+And though he had questions—he had SO many questions and burgeoning suspicions—he didn't ask. The guy was clearly trying to reinvent himself and get away from... whatever messy history that was. Thomas was not going to get in the way of that.
+
+Besides, his attention was caught by the official auction preview and spread of glorious items.
+
+All were heavily protected by men and women openly carrying guns, who looked like they could have eaten any of Zach's former friends for a light snack. They protected glittering swords that could cut anything (or only specific things), shields made of all types of material including something literally called 'unobtainium,' and scary medieval weapons that would make an Iron Maiden fan piss himself.
+
+There were even a few books that purported to be guides on how to best min-max yourself.
+
+Finally, Thomas found what he was looking for. It was, of course, guarded and had gathered a small crowd.
+
+A Shroud of Bodily Renewal, which looked like gauzy cheesecloth hanging off a mannequin, was a one-time use item completely guaranteed to restore what was lost from a living body. One of the suggested uses was for instant healing after extensive cancer surgery. Inoperable brain cancer? Just slice out the tumor and some of the pesky tissue around it, lay on the Shroud and... voilà. The brain grows back sans cancer.
+
+Oh yeah, and it could easily restore a missing limb, too.
+
+Naturally, something that useful didn't come with a low price tag. The minimum bid was in cold, hard dollars.
+
+It started at half a million.

@@ -1,0 +1,263 @@
+---
+id: f36ba4cd-4aa9-54a7-88a9-1b395383ebaf
+page-type-slug: story-chapter-royal-road
+title: "439 Bloodless"
+slug: 0557-439-bloodless
+partOf: path-of-the-deathless-book-4-completed
+position: 557
+ownLength: 4726
+unit: words
+publishedAt: 2026-08-22
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3850865/439-bloodless"
+royalRoadId: "3850865"
+---
+
+A state of constant peace and pleasure is entropic to a warrior, while enduring strife without relief is disfiguring instead.
+
+If you wish to possess a measure of true fortitude, you must face the possibility of pleasure and peace, and you cannot be misshapen by it. You must taste it, favor it, become addicted to it, then step away from it. For to choose struggle and strain after silken sheets and soft days is a truer choice than any other—an expression of higher need and thought ruling over the basest wants of the present.
+
+In deliberate fasting, one inflicts consequence on oneself, and in the triumphs that follow thereafter that ensure the continuation of your peace, a grander threat—and dark anxiousness—might yet follow.
+
+But before that step, take the first and choose who you wish to become.
+
+—Legend-Philosopher Melaia Kelhaus
+
+439
+
+Bloodless
+
+In dimmest twilight, a man flew across a frigid tundra, and a mountain followed.
+
+With the Tarrasque too dangerous to bring into the confines of Gate Piety, even pacified, and the Slipgate being too precious to risk losing to the Frost Giants, Shiv performed a multi-step transfer. He arranged for the Tarrasque to pass through an expendable dimensional gateway near Torontus after connecting it to a more “apocalypse-accommodating location.”
+
+The choice of the transitional venue was obvious: the Stranger's Garden. Everything there could be restored in an instant, even if the Tarrasque went out of control and started attacking its surroundings with wild abandon. Though it would come with its own consequences, namely the breaching of the tentative peace between the Stranger and Gate Piety, it was far better to let the beast pass through here than anywhere else among the civilized dimensions.
+
+The process of getting to the Jotun gateway took hours. Terrence had to be constantly entertained and lured lest its mind drift toward more destructive thoughts. Shiv's Implacable Dialectic took hold in the Tarrasque, but its mind was far too simple to truly notice the pressure. For it to be constantly zeroed in on him, incessant interaction was required. He waved his frying pan in gestures and flourishes, portraying the art of cooking as something aesthetically grander than it was in truth. But though his performance was gaudy, the food he offered was not. For the flavors he bestowed upon that which he fried would be found nowhere else. The Tarrasque was enchanted, much like the many customers at the Sky-Swallowing Carp. It had a taste of novelty, and it was a novelty only the Nihilist could offer.
+
+Even so, the forces of the North moved with paranoia and terror, staining the world around Shiv. He couldn't blame them. It was stomping forth in a relaxed enough manner for now, but nobody present was under any illusions that a creature the size and weight of a mountain wouldn't cause utterly apocalyptic damage if it decided to begin moving at Legendary speeds.
+
+The three Jotun gods and the Pale, meanwhile, felt a measure of budding relief as well. Their situation was a precarious one, both geopolitically and with the immediate threat the Tarrasque posed to them as well with every moment it was here. They trusted him in their desperation, but part of them still expected a betrayal. Yet, when none came, as he kept to his word and continued playing the Pied Piper for a beast of the end, their hopes arose—and infusions of begrudging gratitude flowed toward him from those who watched his performance. They couldn't help it. In a world inimical to their existence, without allies, alone and isolated, the monstrous empire of the North was a relic left over from a now-digested world. Perhaps the worst truth of all, the sourest note for them to suffer, was the simple fact that they were allowed to exist rather than securing their own existence by their own might and will.
+
+To the south, Yellowstone was always looming, a perpetual threat. They didn't regard them the same way, choosing to use them as a means to sharpen the blades of their civilization and hone their warriors.
+
+There was a brutal insult in that: to be left alive only before the actualization of another.
+
+But though he was fond of the South, Shiv distinguished himself by not sharing the insult. He stayed true to his word all the way, leading the Tarrasque to that looming gateway of static. The size of the distant, enshadowed archway was staggering to Shiv, but it was just enough to accommodate the mountainous bulk of the Tarrasque. With every step the Endhound took, the world shook, and the ground threatened to split under its paws, and it was only with the imbuement of Geomancy that its mass didn't send it plunging deep into the depth of bedrock.
+
+Alright, I just need to get it to sit still in the archway until we've wrapped the mana around it, Shiv thought. This wasn't going to be an easy feat. Distracting the Tarrasque was one thing, but teaching it to listen to orders and stay perfectly still? It would be easier to teach an orc about true love than—Alright, I'm gonna stop myself there before I break my soul in half.
+
+“Wise,” the Harbinger answered. “Especially considering our Nemesis-Beloved is still out there somewhere.”
+
+As the Pale drew back from the disposable gateway, Shiv steeled himself for the task ahead, but was struck silent in words and thought as the gateway’s design revealed itself. Rather than being just another bland arch formed of stone, crystal, or metal, a statue made from Cryomantic frost stood overhead, large enough to disappear past the clouds, and shaped in the form of an armored knight. As they got closer and closer, the ever-present snow falling from the gray skies above thinning, Shiv's mind went from dumbstruck disbelief to recognition.
+
+This was a statue of Jessica, and beneath her was a replica of Rusty, serving as the portal itself.
+
+Shiv whistled quietly. It was one thing to be well regarded by allies. But to be so revered and feared by your enemies that they created representations of you years after the trauma you inflicted... That was a testament and a compliment of another level altogether. You went from merely being a legend in your own story to a myth in someone else's.
+
+But more than mere renown, there was… affection in this work. No one made a sculpture of a hated enemy with such vivid detail. There was something different about the culture of the Frost Giants. They took slaves, they treated those they captured as cattle, and spent their lives without concern, but here they were, revering one of their greatest enemies. Was it because of her power, or was it because of something more fundamental, something their culture had to admire?
+
+The System made everyone warriors to some extent. But what it meant to be a warrior and the worth of being a warrior were things that needed to be decided upon by a civilization and the individuals that existed therein.
+
+“You recognize her,” the Pale whispered, speaking from every flake of drifting snow around Shiv.
+
+As Shiv continued entertaining the Tarrasque with one body, his diplomatic self nodded. “Yeah. Just didn’t expect you lot to put such a nice sculpture up for her, after what she did.”
+
+The winds around him sped up. He felt their intent, sensed the loathing—but there was something else there as well. The Pale lacked a specific empathetic core, but Shiv suspected it was still there—and perhaps all around him. With how intuitively he could feel waves of ambient emotion washing through him, he might very well be within the Pale’s core. “It is not an expression of praise but one of necessity. We are to be reminded of her victory and her mercy. There is great worth in our scars, as there is great worth in facing one’s nightmares. The cold does not forgive, but it will teach—and so too will fine enemies. When you meet her again, Deathless, tell her our young still scream of her when darkest night comes; tell her that we have a shrine of slain warriors dedicated to her hand. And then, tell her that her death is fated, that her end will be red upon and then beneath a realm of white.”
+
+That last claim made Shiv let out a quiet scoff. “I’ll tell her. But I’m going to give you a recommendation: if you want your young to grow up at all, stop throwing them at Jessica Hawgrave. She’s not dying anytime soon.”
+
+“So confident in her prowess,” the Pale breathed.
+
+“Not mainly in hers, no,” Shiv replied, staring back into the cold, where no eyes met his gaze. “Again, you mind yourself; we can be allies, but you show steel or spell while I’m out with me and mine, and I’ll come back with this fire, and there won’t be enough magic ice in all Integration for the effigy you make of me.” The words left him with such nonchalance that the Pale didn’t register the threat until several moments passed. “Anyway. Let’s get this big bastard out of here. Mana frequency.”
+
+An ocean of anger boiled against him. Shiv ignored it. Provoking the Pale wasn’t the best idea, but it was a good lesson to teach. He had control here—and it was his mercy and his choice that the Tarrasque wasn’t running free in a campaign of final devastation across the land. “Pale,” Shiv said again, pressing the shadow-ruler of the Jotunn. “Frequency. I don’t know how much longer I can distract it.”
+
+The ache of humiliation stung the Pale, but the bitter medicine of necessity made it capitulate. A single Jotun Dimensionalist emerged from the obscuring white, holding up a specific sequence of spells—a complicated mess of sigils and connections that would have been impossible for Shiv to memorize without Snapshot.
+
+“Thank you,” Shiv replied with a smirk. “And I get it—I would want to strike me down too. But not right now, alright? You get it. You do. Don’t waste yourself on fights that won’t serve you. And don’t let felling children teach you this lesson.”
+
+The cold winds shuddered once more, and the stain of fear brought with it the cloak of impenetrable stealth. “How can you know? Is your empathy that keen?”
+
+“More than you think. Jessica hurt your children with a blade, Pale. But I don’t think she can cut you down so easily. Me, though… Let’s not trade insults or argue. I’d like you to still be around for a while. So. I’m going to apologize for being a little abrasive just now if you keep being the wise frost-plague thing that you are, okay?”
+
+Condescension aside, his hot-cold tactic of jabbing and then acknowledging the discomfort he caused was bearing fruit indeed.
+
+“Because all tension desires relief, and if you could force relief on someone, then you could shape how they reacted to a certain extent,” the Harbinger said. “But you must keep this in mind as well. As you have placed your edge against the neck of the North but pulled the blade of your own accord, so too has the Faceless Queen done the same to us. It is a ladder all the way down; to climb requires supreme insight before the relish of power.”
+
+Yeah, yeah. I know. So. What does our supreme insight say now?
+
+“That we need to continue our campaign of political reconciliation and bring an offering to the Summer Court.”
+
+Hells yeah.
+
+Harbinger of the Tripartite Path 387 > 389
+
+***
+
+Over in the Stranger’s Garden, a peculiar standoff took place.
+
+The Dread Horizon assumed the duty of addressing the lord of the dimension about the “emergency” they were experiencing while escorting Enchanter Merrielmel over into the Garden to adjust the dimensional frequencies. Though terrified, the elf’s expedition was also overdue, as he had long desired to visit his long-lost brother in the Farwalker observation post. Coming across would grant him the chance to strike two birds with one stone.
+
+Alas, everything had to take shape under the watchful eye of their host.
+
+“Must you loom so close?” Roland grumbled under his breath.
+
+The Supplicant was but meters away—which meant it took up Roland’s entire field of view unless he faced the complete opposite direction. But even if he did, as if the steepled hands the breadth of a mountain rage were not an onerous presence enough, the entire Garden was alight with golden, glaring eyes that poured disgust and annoyance upon Roland as well as Merrielmel, who wisely spent some time in the restroom before crossing with him.
+
+“Complaints uttered by an intruder in my Garden—spat upon the host?” the Stranger’s layered voice boomed in paramount outrage. The noise made Roland wince and nearly gave the poor Enchanter a heart attack, even with protections for him in place to not die from merely looking upon the Supplicant.
+
+Despite all antipathy Roland held toward the Outside and its inhabitants—and especially the Stranger’s Garden for what Blackedge had suffered within this expanse—that rebuttal forced him to grimace in recognition of his diplomatic slight. “I suppose I have overstepped. I… apologize.”
+
+His genuine apology didn't evoke much of a reaction. The Stranger’s countless eyes blinked once. “I remain displeased.”
+
+Roland nodded slowly, unsure how to respond. “I apologize again?”
+
+The Stranger hesitated, clearly bothered by something. “I will continue to stare. It is within our agreements for me to stare at you.”
+
+Roland grimaced. Well, Shiv did claim this thing is becoming more human-like—but he really understated how rotten of a personality it's developing,
+
+“I respect that. It is your prerogative as the host of this place. We thank you again for gracefully allowing our passage and accommodating us for this matter.”
+
+The Stranger gave an incoherent rumble of discontent, but said nothing more.
+
+And somehow, your personality still ranks higher than others I know, Roland thought as Havel and Longinus came to mind. Maybe there is still hope for this one after all.
+
+A great shudder of dimensional pressure interrupted Roland’s thoughts as he turned his Awareness behind him, away from the Supplicant. He didn’t need to look over his shoulder to see the Tarrasque manifesting, for the pressure it displaced was so immense that he was forced to shape a series of emergency wards over Merrielmel before the poor man turned to paste.
+
+Even with those protections, Errielmel gagged and gripped at his chest, struggling to breathe. He started muttering something about it having been a wise choice to bring the Tarrasque here instead of Gate Piety, but his nervous babbling came to an end as the Tarrasque fully took shape in an enveloping eruption of static mana. Shiv came along with it, and true to his claims, he had somehow charmed the colossal beast using his cooking, evident in how he was spinning slices of mana like they were pizza dough atop his frying pan, and the Tarrasque behaved like a well-entertained child, slamming its forehands together in massive explosions of force.
+
+“A-gurn, a-garn, a-gran!” the Tarrasque roared.
+
+“Is it saying again, again, again?” Merrielmel asked.
+
+Roland turned an exhausted frown on him. “I am afraid I do not speak Tarrasque either, Master Merrielmel.”
+
+“Ah, yes, I see…” Merrielmel swallowed awkwardly. “Master Arrow, if—if I suddenly die for some reason—”
+
+“You won’t.”
+
+“But if I do. C-can you please bring… oh, where is that damnable thing? Ah! This!” Merrielmel produced a hexagonal box of some kind from his tasseled coat. “This is the collection of diary entries I have accrued! My brother should find some catharsis from this in the case of my untimely death—as I found catharsis in his.”
+
+“Deathless!” the Stranger suddenly bellowed, briefly shocking the Tarrasque.
+
+“What?” Shiv replied, flinging his fried-mana pancakes into the town-sized mouth of the Tarrasque.
+
+“In the future, I demand to speak to the god-holder instead of you! This one, not the other god-holder that stinks of you.”
+
+“Yeah, sure!” Shiv replied, not really paying attention. “Merrielmel, time to adjust the gateway on this side! Hurry up—I only made enough food for another few minutes.”
+
+“O-oh, yes, o-o-of…” Merrielmel gulped as he realized that meant he needed to approach the Tarrasque. “Oh, dear.”
+
+“Oh, dear indeed,” Roland said dryly, realizing his attempt to uphold decorum had been a mistake—one that might have him on permanent Stranger diplomacy duty.
+
+“You should put your scent on him,” the Stranger growled at Roland. “The other one isn’t good for his behavior. Give him your habits!”
+
+“And his personality remains finer than Longinus’ as well,” the Starhawk whispered sardonically. “At least he asks things of you, instead of just forcing himself into you, and then forcing you on someone else.”
+
+“Starhawk,” Roland almost whimpered. “I really, really do not need this right now.”
+
+“I apologize, Roland.”
+
+A horrible sound of proximal thunder shook the world—but it petered out as a fading whistle. Then came the foulness thereafter—the smell that choked the air. Merrielmel began to gag; some of the Stranger’s eyes nearby closed reflexively, as if faced by a harmful ambient acid. Shiv grew larger and stronger as his plagueflies exploded out of him. And the gateway was colored in a sort of… dappled brown that Roland didn’t want to think about.
+
+“Felling fucking damn broken moon!” Shiv groaned.
+
+“Feels better,” the Tarrasque grunted with glee. “More cooking!”
+
+Roland felt his own eyes swelling and twitching as well.
+
+This was the monster that had killed so many of Blackedge’s people—this was Sullain’s revenge, infused with Shiv’s unique soulstuff. This was a beast of the end; an eater of worlds. All that power, all that size, installed with a set of behaviors formed of Shiv's obsession and the intellect of a growing toddler.
+
+“Holy fucking shit,” someone choked out between gags next to Roland. “I forgot how goddamn loud some of their shits are.”
+
+Roland and the god within him froze. It took someone like Valor to surprise them—but the newcomer did, and before shock could turn to preemptive violence, they recognized the strange figure from his attire, once described by Shiv and Adam after their egress from the Fairwoods.
+
+The man hovering beside him was fanning a hand in front of his face and pinching his nose shut with the other. His appearance was shrouded by a mirror-bright helmet with two gleaming blue optics where his eyes should have been. His body was shrouded by a flapping coat made out of canvas and something glittering—and with the way parts of it were sparking, Roland suspected it was damaged on some level.
+
+“Myth Produveral?” Roland guessed.
+
+“Legend Roland Arrow,” the man replied, miming two finger guns at Roland in a casual gesture. “Glad to finally have a run-in with you—also happy that the kid told you about me, saves me the need to explain a bunch of shit, but I will need you and that one there to take a pill in a moment.”
+
+“A pill?” Roland asked, his right eye starting to twitch again.
+
+“Yeah. For the soul-disease you might’ve just caught. Tarrasques don’t really shart for fun, you know? Spraying sickness everywhere is part of the strategy.”
+
+“Oh, gods!” Merrielmel began to hyperventilate, and then he realized that doing so was less than ideal, which made him hyperventilate harder. “We’re breathing all those particulates in—all that plague-carrying fecal matter…”
+
+Roland did everything he could not to visualize those words. “I… I… I don’t mean any offense, Myth Produveral, but—”
+
+The man's cheeks were inflated, and he only managed to hold eye contact for two more seconds before a burst of laughter escaped him and he waved Roland.
+
+The Town Lord blinked, and then his mouth fell open. “Wait, were you—”
+
+“Fucking with you, yes.” Produveral sighed contentedly and wiped a tear out of the corner of his eye. “The massive farts and shits are normal—enough to choke a mundie to death or splatter them if they’re caught nearby, but since neither of you are mundies, and this weird little Undying Endhound doesn’t actually have any plague skills—yet—you’ll be fine. Just wanted to see if you were as decent a guy as the Deathless mentioned you being—and if you would take medicine from a stranger.”
+
+Roland didn’t have the words.
+
+“Agh, fuck! Agghh!” Shiv cried in the backdrop. “It’s just getting worse. Did something die inside—ah, shit, your stomach’s a mass grave, of course it smells bad.”
+
+“Well,” the Starhawk began with a sigh, “between the unwilling scatological activities and the attempted drugging, it most certainly does feel like I’ve been invited to one of Longinus’ parties again.”
+
+***
+
+Shiv was starting to feel like Endhound was an all-around misleading term. Tarrasques were a bit more like Apocalyptic badgers or skunks than giant dogs, in actuality. Were skunks badgers? Shiv had no idea. He'd never actually seen either.
+
+Regardless, being badgers, they wanted to fight and kill everything, and when they sprayed, the smell didn’t go away. This wasn’t a hard problem for Shiv to resolve since he just set his affected bodies on fire and bypassed matters via targeted suicide. For Roland and Merrielmel, however, a full suite of treatments were required. Not of the health variety, though Merrielmel briefly passed out from anxiety when the Tarrasque got distracted and tried to grab him, but of the “not smelling like a planetary mass grave” kind.
+
+Good thing there’s an Outsider observation post nearby, Shiv thought to himself. And that they got some pretty cool means of scrubbing someone down on a nano-molecular level. But, hey, that’ll give Roland a chance to talk with the Farwalkers and figure things out—they wanna snatch Adam too, now, and I don’t see Arrow Senior any more happy about that than I am. That being said, it’s a thing that can be discussed, and a problem that can be solved. Just like you, huh, Terrence? Hm. Wonder if it likes to be called Terrence…
+
+Shiv trekked across a mountain range within the wonderful winterlands of the Fairwoods. Behind, the Tarrasque sent avalanches crashing forward with each stomp, causing trees to jump up into the air over the horizon—and press down their furling branches like maidens might prevent a gust of wind from lifting their dresses. “Hey, you alright with me calling you Terrence?” He threw another piece of fried Biomancy at the Tarrasque, and it happily inhaled the nibble.
+
+“Food-Terrence,” the Endhound answered, as if that made any sense whatsoever.
+
+“Uh, maybe just Terrence?” Shiv asked. Its colossal red and white irises glowed, and the faintest of paternal instincts activated inside Shiv. Those reactive chemicals went dormant the moment the Tarrasque lifted its left hind leg to scratch the side of its head. “Yeah, okay, you’re Terrence.”
+
+“What in the bloody hells is this?” a choked whisper of disbelief sounded nearby.
+
+Shiv looked over his shoulder and sneered at a most unwelcome sight. A tall woman, dressed in a red fur cloak—still-blinking, somehow still alive—taken from a cartoonish lupine and painted, stood as the head of a group of wolves in similar garments. The literal head—for the wolves had stacked the dog-headed horses they rode upon in a rising ladder that denoted their hierarchy, with the legs of the bottom-most wolf-horse shaking like willows under the combined weight.
+
+The snouts of the wolves sticking out from the pile of bodies howled to announce their arrival, but she refused—in fact, her face grew ever-redder with outrage as her eyes greeted Shiv's from atop her wolf totem pole.
+
+“Oh, shit, Lady Harkness, in the flesh?” Shiv aimed a mocking grin at her. “Fancy running into you here—say, is Evanescia with you?”
+
+Harkness began to groan, and then her expression completely changed in the following instant, turning into a defiant grin. “Deathless!” Evanescia intoned using Harkness as a conduit, and she waved to him briefly before making a clenched fist. “So. You finally return to face me, villain! And you bring a sidekick with you!”
+
+“Uh, no, this one’s actually an apology to you and the Summer Court,” he answered honestly. “I messed a few things last time, and the System wants us to kill the Tarrasque. But at some point, I thought: You know what story Evanescia might not have experienced? A Tarrasque chef.”
+
+“Chef! I AM THE CHEF!” The Tarrasque shouted to the heavens—so loud that one of the clouds fell out of the sky and impacted a distant mountain, and proceeded to scream about its leg.
+
+“Hm. You’re right. That is indeed a story I haven’t enjoyed before.” Evanescia hummed and tapped a finger against Harkness’ chin. “But don’t think it will be enough to distract me from our struggle.”
+
+Shiv expected this—and on some level he accepted it as the cost. If he had to play along with the Usurper-Narrator to stop her from yanking all of them back to the Fairwoods to be her playthings, that’s what he would do.
+
+“Got it. But you know, since I was coming back in anyway, I thought to bring a gift as an apology and all that. You wanna bring this one to Princess Plum Blossom or can I have the honor?”
+
+“You, of course,” Evanescia said. But then she sucked in a breath. “Actually! I have a wonderful idea!” Harkness regained control of her body, and Evanescia’s voice instead sounded from one of the wolves crushed under her horse. “Eileen!”
+
+“No,” Harkness pleaded. “I’ve already been forced to pretend I’m a dog! No more of this!”
+
+The snout made a pouting expression. “Oh, come on! It’ll be fun!”
+
+“And it will,” the Faceless Queen briefly whispered behind Shiv before vanishing again, causing his insides to tighten and his teeth to clench.
+
+“All I need is for you and the Tarrasque to become great friends!” Evanescia explained. “You can be a rival chef who served the Court of Winter but was captured by Summer and must now train their newest wonder: a Tarrasque with Social Skills! It can be a story about self-understanding! And since you have such good relations with dogs, well, it just seems thematic!”
+
+“It really does,” Shiv said, nodding along. “But you know what? Let’s make it more tense. Give her a position of authority! Make her of the Summer Court, and me a newcomer trying to work my way into their graces through my, uh, disciple! I’m trying to start my own cooking school, and only the Tarrasque wanted to follow me. Or something.”
+
+“Cooking!” Terence cheered.
+
+“Shiv, Shiv,” Evanescia chided. “Leave the story details to me, alright? You’ve already brought me the Tarrasque, so let me come up with the rest. But first! This Cycle is still going, and it’s almost time for Plum Blossom’s first dessert. She’s been a bit glum this go around, and I think what might cheer her up is if a monster that almost reaches to her waist and dressed in a chef’s outfit was carried over to the Summer Court by someone who once hurt her feelings!”
+
+Shiv paused and considered how many tides it would take to carry the Tarrasque. “I, uh… I think I get the vision.”
+
+“Great, because Eileen here’s going to be chasing you the entire time to smash you over the head and steal the Tarrasque back in the name of the Winter Court because she wants it for herself.”
+
+“Why would I want this thing?” Harkness pleaded.
+
+“Because it reminds you of your childhood dogs! And because you’re the hero for this little story. Oh, oh, and since you’re the hero, the Deathless actually stole the Tarrasque from you to begin with! That’ll make more drama. Or… Okay, okay, I’ll think about this while you go. But in the meantime! Eileen! Take him to the Summer Court! Make sure he avoids the love proposal climaxes happening across the territories of Spring and Autumn.”
+
+Evanescia’s presence vanished as fast as it appeared, and in the aftermath, Shiv found himself left alone with the Tarrasque, twelve Red-Riding Wolves stacked as a tower, and an old enemy turned unfortunate victim of the Fairwoods.
+
+“So.” Shiv placed his hands on his hips and sniffled. “How’s life, Harkness? Like the new digs you got there.”
+
+Those words nearly brought her to the brink of an aneurysm right then and there.

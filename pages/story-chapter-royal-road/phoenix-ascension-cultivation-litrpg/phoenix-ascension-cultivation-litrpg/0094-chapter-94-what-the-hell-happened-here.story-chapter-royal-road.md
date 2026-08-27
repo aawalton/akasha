@@ -1,0 +1,201 @@
+---
+id: fc91daa2-45f2-58a4-8e40-804d41ed05f1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 94: What the hell happened here?"
+slug: 0094-chapter-94-what-the-hell-happened-here
+partOf: phoenix-ascension-cultivation-litrpg
+position: 94
+ownLength: 2805
+unit: words
+publishedAt: 2026-02-28
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3103008/chapter-94-what-the-hell-happened-here"
+royalRoadId: "3103008"
+---
+
+“What the hell happened here?” I asked Shu Wao Tu after coming to check on the two and noticing three dead people below their balcony, a bloody Shang Hue and a scared Shu Xu Ning.
+
+“There were assassins.” He explained simply, and judging on the evidence I’d already acquired, it was easy to tell that he wasn’t lying.
+
+However, after hearing the confirmation coming from his own mouth, and seeing that my suspicions had come true… I was livid.
+
+Not only had Chiao Zhen sent assassins after children, but I also failed to notice them. If I hadn’t dropped Shang Hue here then…
+
+No, it could also have been because I dropped her here that they noticed. The reason didn’t matter. What mattered was that I failed to detect them, and that the bastard had actually gone through with my suspicion.
+
+Unforgivable.
+
+I clenched my fists and stared out through the broken window at the even more battered rooftop.
+
+“Wao Tu.”
+
+“Y-yes?”
+
+I stared into his eyes, and they didn’t waver. His gaze was steady, like a calm ocean, though just a little turbulent, as if a storm was approaching. “How much do you want to get revenge?”
+
+“I want to kill him with my own two hands.” Shu Wao Tu’s reply was cold and decisive, and I decided that I would let him go through with his plans.
+
+“Very well, good answer.”
+
+After that, I knelt next to Shang Hue, who was sleeping quite soundly, even snoring sometimes. I shook her awake, and when her blue eyes opened and saw me, she jumped to hug me.
+
+“Uh, hello?” I asked, taken aback by the sudden act.
+
+“Why hello.” She smiled after pulling back. “I didn’t think I’d see you again. Thanks for letting me share a room with these children, but I would rather not have had the assassin as well.”
+
+“I apologise for that. I would have given you another room if I could but-”
+
+“It’s fine, it’s fine. It was quite an interesting experience.”
+
+“Was it now?” I said, not questioning what she defined as ‘interesting’. “I hope you weren’t hurt, not too badly at least.”
+
+“Nah, just a few scratched.” She said, standing up, but almost falling down again.
+
+“Are you sure?”
+
+“Pretty sure, yeah.”
+
+If she said so, then I wasn’t going to question her further. Considering she had a higher level than I, I didn’t invasively check her condition. Besides, I had other things I needed to do.
+
+“Alright then,” I turned to the siblings. “You two are coming with me to the auction. I can’t risk having another attempt at your lives.
+
+“The auction? You mean the one at the Myriad Market?” Shang Hue butted in, sitting on the bed next to Shu Wao Tu.
+
+“Yes, I have very little time until I need to do something important and I’d like these two to be safe and ready for their next steps.”
+
+“I see… Hmm, you really care about them, don’t you?”
+
+“I- I don’t.” I cleared my throat. “I am grateful for the support you provided and I will repay this debt of gratitude, but our relationship doesn’t concern you.”
+
+“Oh? I see, I see, that’s fine then. Can I come along?”
+
+“You… Sure, feel free to.” I didn’t have any energy to tell her otherwise, since I felt that she would have challenged me and come along anyway.
+
+We checked out of the inn, feeling bad about all the damage done to the window and the room. I would have to get Xing Ya Chen to slip them a few Spirit Stones for the trouble.
+
+***
+
+Xing Ya Chen had been thinking about Fa Xiaolan ever since she left in a hurry. He had no idea where and why she rushed, but it wasn’t his place to know. However, the way she looked upon hearing some news.
+
+He had a faint idea, since he’d heard bits and pieces of what happened yesterday, but he didn’t pay much attention to it. Besides, would Miss Fa Xiaolan be someone who would react like that?
+
+She probably would be, Xing Ya Chen decided, but he didn’t care much about it. What mattered to him was whether she would return again. He didn’t know why, but he’d begun feeling a certain way about the woman.
+
+Was it her looks, attitude, ability, or all of these factors combined? He had no idea. It was like lightning had struck him, and suddenly, Fa Xiaolan was all he could think about.
+
+It was strange. He didn’t mind it much, but it was strange nonetheless. The worst part was that now he was expecting her to show up again for the auction. Her pills wouldn’t be sold yet, but the most important people would show up in a few days.
+
+They’d come all the way from Golden Arch City and beyond, after the branch manager had spread those rumors. Clan leaders, Sect elders, small families, and even prominent rogue cultivators woulds how up, and Xing Ya Chen was excited.
+
+It’d been a while since the Hu Village was so lively, and just the sum of money that Fa Xiaolan would get was insane to him. To the Myriad Market as a whole, the sum of money from the commission wasn’t exactly insignificant, since it would be at least one hundred Top-Grade Spirit Stones.
+
+Funnily enough, that sum would put Fa Xiaolan on the first tier of Myriad Market memberships- Black. That wasn’t counting the Phoenix Feather, which would be put up for auction sometime soon.
+
+If Xing Ya Chen remembered right, it would be at the end of the yearly auction as the piece du resistance.
+
+Once that thing gets bidded for, the one hundred Top-Grade Spirit Stones from the pills would look like chump change. It wasn’t every day that you could get your hands on a Phoenix feather, after all. Its uses were almost infinite, and everybody was seeking them. However, as the saying went-
+
+“Miss Fa Xiaolan!” Xing Ya Chen’s thoughts got broken by the appearance of the beautiful woman, accompanied by the little girl he saw before nd a man who looked sort of similar to her. What shocked Xing Ya Chen the most, though, was the woman accompanying all of them, and his jaw almost dropped.
+
+“Miss Shang Hue?!”
+
+He was familiar with the woman, of course. Her family was one of, if not the richest, family around the area, and they seldom came to visit the village. They were the proud owners of the Black Card Membership, which was the starting membership, where one’s wealth needed to be at least in the one hundred Top-Grade Spirit Stone range, including assets.
+
+That membership gave the holder, if the owner is verified, free food from all the restaurants and bars in the Myriad Market, a five percent discount on all purchases a bove fifty Mid-Grade Spirit Stones, and the opportunity to win a prize with every big purchase.
+
+And that was the worst membership. Xing Ya Chen was quite jealous of anyone having any sort of membership, since he had to work day and night like a dog to be able to afford his meals.
+
+He’d gotten quite tired of it, and he highly doubted his father remembered that he was even sent to the other side of the continent. Hell, he probably forgot all about Xing Ya Chen.
+
+Surprisingly, Xing Ya Chen didn’t mind that, but he had to admit that he’d grown quite tired of working at the Myriad Market. His most exciting moments all happened in the past month, with the arrival of Fa Xiaolan.
+
+And that woman was a gift that kept on giving, because how in the hell was she acquainted with the young lady of the Shang clan?
+
+Xing Ya Chen would not ask, of course, but even he found it hard to control his expression. Nevertheless, he walked forward and greeted the four with cupped fists.
+
+“Let’s go, Xing Ya Chen.” Fa Xiaolan said and walked in front, already knowing the way toward the VIP lounge. He nodded and followed, not caring about what that must have looked like.
+
+He was the one walking with beautiful women, not the people staring!
+
+When they reached the VIP lounge, Fa Xiaolan stopped, her brows knitted together. “Can you make sure this room is properly sealed? Someone discovered who I was last time.”
+
+“What!” Xing Ya Chen was so shocked, he basically screamed. Other people finding out who was residing within any VIP lounge via an investigation method should have been impossible. If what she said was true— and he didn’t disbelieve her— then it was a major issue for the Myriad Market.
+
+They basically prided themselves on privacy and client-safety. There were way too many cases where two random people killed each other after some heated bidding, so they took every measure to protect the people who needed protection.
+
+“I’ll need to report this to my superiors.” He said, then brought a hand to his mouth. After a few seconds, he removed it and nodded toward Fa Xiaolan. “I’ll bring us to a new lounge. It’s the best, most secure lounge in the Myriad Market. The manager has allowed us to use it today.
+
+Saying that, he turned and climbed a short flight of stairs, turning two corners and opening a door to an even more spacious room than before. Compared to it, the furniture and arrangements in the previous VIP lounge looked like a commoner’s quarters in comparison to an emperor’s.
+
+The sofas were made out of a beautiful brown wood, carved in a dragon-like pattern with realistic scales, with soft pillows encased in soft, red silk and an aroma that relaxes one’s nerves.
+
+It sat against the leftmost wall, and the floor was covered in a simple, yet gorgeous carpet with a simple dragon pattern. Next to the sofa was a coffee table made out of the same material, with tea already brewed and hot, ready to be served.
+
+On the wall that overlooked the auction, there were a few tables and chairs, as well as a pair of binoculars. On top of the tables were Jade Slips with information regarding the items, accompanied by some others that Xing Ya Chen quickly removed.
+
+When Fa Xiaolan walked in, she was met with the beautiful aroma of burning incense, and on each of theroom's walls were potted tree saplings, though she couldn’t quite put their name on her tongue.
+
+Out of all present, though, the little girl was the happiest. She walked in and jumped around the room, feeling the softness of each individual item, but she also pressed her face against the transparent outer wall, looking down at the still-gathering crowd.
+
+The boy brought a palm to his face and covered his eyes, clearly embarrassed. Fa Xiaolan looked at the little girl with a sort of warmth that was hard to put into words, a look that disappeared when she stared down at the auction hall as well.
+
+Shang Yue had no reaction. Her family was used to this sort of treatment, as she’d attended many auctions since a young age. Xing Ya Chen found her presence bizarre, but he guessed that Fa Xiaolan had a way to bring people together even in the strangest of circumstances.
+
+Speaking of which, Xing Ya Chen looked in her direction and noticed that she’d picked up the Jade Slip, her expression unfocused.
+
+***
+
+With the ability to read, I scanned the Jade Slip and looked through each and every item. They were worthless to me for the most part, but that didn’t mean they were useless to anyone else.
+
+This auction was popular for a good reason, but the resources sold here were mostly meant for larger gatherings, not an individual. There were some items that interested me, but mostly for the sake of convenience.
+
+The first thing I looked for was pills. I could concoct them myself, but I didn’t have time or the recipes or ingredients. I was better off buying them.
+
+I took note of the Body Cleansing Pills, Marrow Cleansing Pills, Qi Condensation Pills, Body Reconstructing Pill, and some others that I thought the siblings would need on their trip and for their immediate progress.
+
+There were also a few things, such as weapons, mainly for Shu Wao Tu, who lacked any sort of offensive means.
+
+As for myself, I tried to identify anything that Yo Na’s recipe called for, but unfortunately, there was nothing. The ingredients listed were far too valuable and rare. There wasn’t anything for my Foundation Establishment Breakthrough, sadly, though all I needed was some good soil.
+
+It was a shame, but I could only patiently wait for the things I needed to appear. The auction hadn’t even started yet, so we had time.
+
+Besides looking at today’s items, I looked at the entire list, and the first thing that stood out to mewase the pills I concocted being auctioned off in the last day. If I wasn’t wrong, that was also when I needed to go and steal the Moon-Bloom, so I couldn’t attend, shame.
+
+Besides those, though, there were a few interesting things, such as elemental items I could absorb and rare Spirit Beast Cores I may need. It’d been a while since I truly had a good batch of Spirit Beast Cores to absorb, and I dearly missed all the stats and potential skills I could win.
+
+Maybe I should buy some, just for fun.
+
+After checking the rest of the list, though, I discovered there was little else of interest, so I removed my senses from the Jade Slip and turned toward the others. Xing Ya Chen had found himself a chair, and he sat at a rather nice table on the other corner of the room, while Shang Hue and the Shu siblings, well, one Shu sibling sat on the couch.
+
+Shu Xu Ning was rolling on the floor.
+
+“I hope the branch manager won’t mind us.”
+
+Xing Ya Chen shook his head. “No worries, it’s our duty to keep everyone’s identities a secret. This is his own lounge, but he rarely uses it. These small-scale auctions are of no interest to him,im and he has other things he needs to take care of.”
+
+“I’m glad, then,” I said and turned to look at the auction, checking if Meng Mao had come again. Meeting him wasn’t really on my list of things I wanted to do on any given day, but his deal made me think a little. It didn’t sound bad, and I could steal whatever it is he wanted me to steal, and take the Qilin horn at the same time for good measure.
+
+I really wanted to raise my elemental affinities and unlock some cool lightning-based skills. The techniques were fine and all, but they didn’t feel right. I could not even use them properly yet.
+
+Besides that, I had to think of a way to get Yo Na to give me the Water Crystals before leaving for Golden Arch City or wherever I wanted to go. It would take me a long while to refine her elixir, let alone gather the materials, so completing the quest right away was out of the question.
+
+Then again… How would she be able to find me if I did leave?
+
+Those were questions I had no answer to, nor did I want to speculate about them. Worst-case scenario, I help place a seal around her baby and let her return to the status quo until I have everything I need.
+
+I could not be blamed for that, too, since she’d been the one to threaten me into it, and then System blackmailed me with a quest and sweet nothings.
+
+It was really quite painful, so I definitely had to profit from Yo Na as soon as possible and as much as I could.
+
+After being lost in thought for some time, I turned around and saw that Shu Xu Ning had settled down and was now sitting on her brother’s lap.
+
+I figured that right then was just as good a moment to return what belonged to them. I took out the pipe and showed it to Shu Wao Tu.
+
+“This…”
+
+“It belonged to father.” Shu Wao Tu said, gently grabbing it from my hand. “Did they actually sell it here?”
+
+I nodded, and he sighed. “Bastards.”
+
+Xing Ya Chen’s ears perked up, but he remained quiet. I didn’t say anything either, knowing that there wasn’t much to say. If he had understood, then Shu Xu Ning would too, sooner or later. For the moment, she was still a child, and even though she had gone through a lot, she retained some of her innocence.
+
+And I could not ask for more.

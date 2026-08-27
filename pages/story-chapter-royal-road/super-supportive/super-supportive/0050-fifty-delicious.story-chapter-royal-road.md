@@ -1,0 +1,179 @@
+---
+id: 58b9a35d-a821-5a91-85c3-410b4efe8cdf
+page-type-slug: story-chapter-royal-road
+title: "FIFTY: Delicious"
+slug: 0050-fifty-delicious
+partOf: super-supportive
+position: 50
+ownLength: 1764
+unit: words
+publishedAt: 2023-07-02
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1264921/fifty-delicious"
+royalRoadId: "1264921"
+---
+
+Alden had asked about the demons because he’d been wondering if the big one that had made the trails in the grass, or others like it, might work differently than the bug-types. The grasshopper demons didn’t respond to stimuli and they didn’t seem to eat. If other types were attracted to loud noises or they were more intelligent and capable of seeking prey, that was something Alden needed to know for Plans 2 and 3.
+
+Plan 1 had just become Plan 1 thanks to Kibby’s explanation of chaos potential. Alden had maybe possessed high potential as a child, according to Hannah’s theory about why her bubble spell wouldn’t work quite right on him. Apparently he no longer did, according to Kibby’s assurance that high chaos individuals would demonize very quickly when they encountered corruption.
+
+Thanks, System. But also—and maybe moreso—thanks, Gorgon. Being double stabilized was even better than he’d thought on that first day, while he was dodging around the bugs.
+
+Plan 1 now seemed a little more viable than the other options.
+
+“Alden, why are you cooking all my favorite foods?”
+
+Kibby sat at the kitchen table, completely bundled up in the lab coat with the deep hood pulled so low over her face that he couldn’t see anything but her chin.
+
+“Because we’re going to be spending every single minute we can in the vault from now on, and we won’t have the kitchen anymore.” Alden smashed a bean burger into a pan full of oil with the back of a wooden spatula.
+
+That was about ten percent of the reason. They’d already been eating mostly from the stores in the vault. Alden was just scared that one or both of them were about to die way faster than they otherwise would, and cooking a last meal seemed like the thing you were supposed to do in that situation.
+
+“I have a secret,” he said, pressing the button on the blender box to puree a bunch of Thunder Lettuce. “It’s a secret nobody knows about except for me and one other friend.”
+
+And the System. But the System wasn’t really somebody.
+
+“Are you going to tell it to me?” Kibby asked.
+
+“I am.”
+
+She hopped out of the chair. “I’ll get the ink,” she said eagerly.
+
+Alden rolled his eyes. “No. No contract tattoos.”
+
+The day after she’d first spotted his, she had disappeared into Joe’s old rooms and reappeared shortly afterward with magic ink and brushes. Periodically, she still tried to come up with reasons for them to use it on each other. Alden understood she wanted to look like a Real Wizard, but he was too much of a human to go along with it.
+
+“But it’s the best way to keep an important secret!” she protested. “Nobody will be able to take it from me even under torture.”
+
+The coat was so long on her that it was puddling on the floor. Melty mini reaper, thought Alden. One who needs to watch happier television.
+
+“Listen,” he said, pouring the puree into a bowl, “if someone threatens to torture you, you should absolutely tell them my secret. You should tell them anything and everything they want to know about me. You should even lie to them and tell them I’m a horrible human who forced you to teach him magic against your will…that might be something you would get in trouble for. I don’t really know how people will feel about it.”
+
+“Never.”
+
+“I doubt it’s going to come up. Since nobody knows my secret, they don’t even know to ask you about it. As long as you don’t bring it up yourself, it’ll be fine.”
+
+She didn’t move to sit back down.
+
+He sighed. “Fine. I promise when you’re older and you want to make your first contract, you can summon me, and we can get tattoos together.”
+
+“Really?”
+
+“I swear.”
+
+“On our faces,” she said immediately.
+
+“If it’s going on our faces then I get to pick the entire design. And the size.”
+
+“Yes.” She trotted back over to her chair.
+
+“My secret is that I’m a little different from other human Avowed.”
+
+“Because you can feel your authority,” said Kibby. “Because I am your Instructor.”
+
+Alden dumped some of the canned meat she liked onto a plate.
+
+“That too.” I really am stacking up the abnormalities, aren’t I? “But even before I met you, I was different. I have a friend who gave me something. I don’t know what to call it. It’s a magic thing, and I think it makes me…there’s a way for authority to be more stable and tougher, right? Without necessarily being larger in amount? And maybe that’s part of what gives a person lower potential for chaos?”
+
+“There is higher quality authority. There is also higher attachment and higher control over it,” said Kibby, shoving back her hood to look at Alden with interest. “Most people get better in that way when they practice a lot. But some people start out better than others. I thought you were like that?”
+
+“I don’t think so.” He set their small feast on the table and sat down across from her.
+
+“Your friend gave you a good gift.”
+
+“Yes. I’m going to try to share it with you, but don’t get excited. It might not work. I don’t know how my friend did it, so I don’t know if I even can.”
+
+She looked very excited.
+
+“You’re going to want to eat all of your meat,” Alden said. “Eat until you’re full. And then we’ll try it.”
+
+She started shoveling food into her mouth.
+
+“I’m going to eat my own meal at a normal speed,” Alden told her dryly. “So there’s no point in you racing through yours.”
+
+Kibby swallowed. “Do you have to do a hard spell on me? Is that how it works?”
+
+“No. It’s a little…” Alden tried to think of a way to tell her without it sounding disturbing, but there just wasn’t one. “I’m going to drink some of your blood. If you don’t mind.”
+
+Alden felt like a normal response to someone telling you he wanted to drink your blood was, “Ew. Ick. Get away from me.”
+
+He should have known by now that Artonans were built a little different. A lifetime ago, he’d watched Jel-nor’s assistants peel loads of magical dead things for her so that she could merrily braid their skins into a bracelet.
+
+Kibby’s reaction to his request was extreme enthusiasm combined with a desire to ritualize the event so that it would be even more like something out of a documentary about murder cults. She shuffled around the kitchen in the robe, examining all the dishes critically, trying to find exactly the right vessel for the mystical experience they were about to have together.
+
+Alden stared at her from his seat at the table, trying not to touch the logograms she’d painted all over it. The few he could read said things like, “great power” and “delicious.”
+
+He cleared his throat.“Kibby, you heard me about the no more meat situation, right?”
+
+“Yes. I am not a carnivore, so why does it matter?” She pushed aside a tall glass and reached for a ceramic bowl with gold paint on the rim.
+
+“And you were paying attention when I told you I hear voices in my head?”
+
+She bounced. “I will be like a natural prophet of the ancient times!”
+
+“I don’t think so,” Alden muttered. “Unless the voices they heard were very hard to understand and get along with. Also, this might not work at all.”
+
+“I will fill this with my blood for you,” she said proudly, holding out the chosen bowl.
+
+“Um, no. That thing is huge. I was going to ask you to poke your finger and bleed onto a cracker or something. I’m sure that will be enough.”
+
+“You can’t mix my blood with other ingredients!”
+
+Alden stared at her. Her expression was so offended.
+
+But…Gorgon got to use salsa.
+
+“All right,” he said slowly. “You can use the bowl. But you can only put a little bit of blood in it.”
+
+She marched over with the bowl and a sharp knife and set them in front of him. Then she started shoving up the sleeves of the lab coat to bare her arms.
+
+“One. Finger.” Alden grabbed the knife. “Or I’ll just eat a piece of your hair, and we’ll see if that works.”
+
+Pouting a little, Kibby gave him her right thumb.
+
+“Maybe we should chill it first? So it doesn’t hurt as much. We could take something out of the fridge—”
+
+She reached over and jabbed the pad of her thumb against the knife’s point. She held it over the bowl.
+
+“How many drops?” she asked.
+
+“Three?”
+
+“I’m sure it needs to be more than that. I’m not a very strong wizard.”
+
+“Yet,” said Alden.
+
+She smiled.
+
+“Three is fine,” he added.
+
+“I’ve already done twelve.”
+
+How? Was she bleeding fast on purpose? “Twelve is a good number. Let’s stop there.”
+
+He took the bowl away and made her wrap her finger with a bandage he’d brought from one of the lab’s first aid kits. Then he made her sit on the floor, just in case she was going to faint from whatever was going to happen.
+
+He would have, too, but someone had to sit at the decorated table, or all her hard work would go to waste.
+
+“Why do you look nervous?” Kibby asked.
+
+“Because I don’t know what will happen. Are you ready?”
+
+“Yes.”
+
+Alden wished she’d look away so he could sneakily take the single-drop-on-a-cracker route, but she was staring at him avidly.
+
+Idiot. Just lick the blood out of the special bowl before you chicken out.
+
+He closed his eyes and did it. It tasted a lot like his own blood, though it was unexpectedly acidic.
+
+He set the bowl back down. His pulse was racing as he met Kibby’s eyes.
+
+He could tell she was holding her breath. He was, too.
+
+Nothing’s happening.
+
+It had always been a possibility. He thought it was even the most likely one. Just because Gorgon could do some arcane thing with an exchange of blood didn’t mean Alden could, too. It’s all right if nothing happens. We just move onto Plan 2.
+
+Dimensions away, in the Artonan Consulate building in Chicago, Illinois, a gray hand froze as it was reaching out to lock the front doors for the night.
+
+“Oh my,” said Gorgon, in a language nobody on the planet could have understood. “I wasn’t expecting this.”

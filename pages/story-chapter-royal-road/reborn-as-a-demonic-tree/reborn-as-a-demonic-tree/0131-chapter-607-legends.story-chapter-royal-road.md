@@ -1,0 +1,197 @@
+---
+id: e5dbad60-a651-56b2-a6b6-ed7e6fbb7c08
+page-type-slug: story-chapter-royal-road
+title: "Chapter 607: Legends"
+slug: 0131-chapter-607-legends
+partOf: reborn-as-a-demonic-tree
+position: 131
+ownLength: 3027
+unit: words
+publishedAt: 2026-08-21
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3844912/chapter-607-legends"
+royalRoadId: "3844912"
+---
+
+Amber was up at the crack of dawn the next day.
+
+After working through her morning routine more out of habit than focus, she slipped out of her room in the White Stone Palace to clear her head with a walk. Mortal servants bowed as she passed the long row of empty meeting rooms, their greetings a quiet murmur she barely registered. By the time she stepped into the expansive foyer, she was no closer to settling her nerves.
+
+"Morning, Amber."
+
+She turned, finding the familiar face, and managed a smile. "Morning, Elder Margret."
+
+Elder Margret looked as studious and serious as always, though her smile carried its usual warmth. "Going somewhere so early?"
+
+"Just for a walk," Amber admitted. "To calm my nerves."
+
+"Ah." Elder Margret nodded in understanding. "I heard from Magnus that Grand Elder Diana has great expectations for you."
+
+"Yes, well…" Amber faltered. "I—"
+
+"You'll be fine, Amber." Elder Margret's voice was gentle yet confident. "You're the most talented person the Redclaw family has produced in generations. If anyone can live up to her expectations, it's you."
+
+Amber gave an awkward smile. "I suppose you're right."
+
+"Besides," Elder Margret added, her voice dropping low, "compared to the Princess, Diana has always been the more forgiving one. If you fall short of whatever expectations have been placed on you, I doubt she'll ridicule you for it."
+
+Amber blinked. "Elder Margret… when did you last see Diana?"
+
+"Oh, it's been a while," Elder Margret chuckled. "We used to work together quite a lot on keeping the sect running, but she vanished into the Eternal Realm for some time, and ever since her return, the nature of her business has elevated above mine. We rarely interact these days." She tilted her head. "Why? Has she changed?"
+
+"Um. Yeah, you could say that." Amber couldn't help the small smile tugging at her lips. "Being a Monarch Realm Archdemon makes her a little more intimidating than before."
+
+"What? Diana is an Archdemon now?" Elder Margret's perfect composure faltered for a moment before she recovered, giving Amber a pitying smile. "I see. Well, in that case, good luck. I have a meeting with Kane Azurecrest about pill production and supply issues, so I'd best be going. I'll see you later today at the Eternal Realm."
+
+"Yeah, see you later." Amber waved her off, the smile lingering as the Elder hurried away.
+
+Everyone from the Redclaw family who was of the right age or strength wouldn't miss the opportunity to enter the Eternal Realm, Elders included. After all, they had all seen how explosive the Grand Elders' growth had become through regular use of the Eternal Realm, and the excitement among everyone was electric.
+
+Amber could only keep her cool because she had been lucky enough to experience the Mystic Realm already and even got to witness Magnus's ascension to the Nascent Soul Realm.
+
+Since then, she'd worked herself ragged, climbing from the fifth to the sixth stage of the Star Core Realm. It should have felt like progress. But the true advantage of having access to the Eternal Realm made itself painfully clear when, in the same timeframe, Magnus went from Nascent Soul Realm to Monarch Realm—an entire realm jump.
+
+Stella and Diana had done the same, reaching the Monarch Realm at ages once thought impossible. Most diligent cultivators—even those born into wealthy families and trained from childhood—coasted through the early realms only to grind to a halt somewhere in the Star Core Realm. The ambient Qi density in most places was simply too thin to sustain the leap to Nascent Soul, and between the endless skirmishes with other cultivators and beasts, most accepted their fate of remaining in the Star Core Realm.
+
+Grand Elder Redclaw had been one of these cases. For centuries, he'd been stuck in the middle stages of the Star Core Realm, until Ashlock and the Eternal Realm changed everything. Now he was a Monarch—an existence who could have contested, and likely bested, the Vincent Nightrose who had once ruled the wilderness with an iron fist.
+
+The story of Magnus Redclaw's rise wasn't just well-known. It was legendary, and it was the single biggest reason cultivators were pleading at the gates to join the Ashfallen Sect.
+
+Amber drew in a slow breath as she crossed the foyer and stepped out into the courtyard.
+
+Morning sunlight had just crested the horizon, bathing the stones in a soft orange glow. A gentle breeze rolled through, rustling the leaves of the three demonic trees standing silent watch at the courtyard's edge.
+
+"Morning, you three," Amber said, walking under the trees. They weren't just any old demonic spirit trees—they had once been family. Isabella, Nathan, Terrance. Redclaws that had committed a heinous act during the last Mystic Realm visit and had paid the price.
+
+Amber still remembered the trial as if it were yesterday.
+
+Sixty members of the Redclaw family, aged between twelve and forty, had entered the Mystic Realm for training in assigned groups. Yet upon their return, the largest group had many unaccounted for.
+
+Three survivors from that group were interrogated, and their stories didn't add up. It was later revealed that after harvesting rare flowers, Isabella had baited a Fire Drake to attack and wipe out their group.
+
+While Nathan and Terrance had nothing to do with the Fire Drake, they had forced Harris, a twelve-year-old boy, to act as their scout, and he had died in the process.
+
+Even now, the pendant Harris's mother had gifted him hung from Isabella's branches, as she had been the one to loot his corpse of it.
+
+For their savage actions against members of their own family, they were turned into spirit trees and now serve as a constant reminder that the Ashfallen Sect did not tolerate betrayal.
+
+Amber traced her finger along Isabella's bark. "Why did you feel the need to go to such lengths over a few flowers?" she muttered, focusing on Harris's pendant that swayed peacefully in the breeze. "Did you feel forced to do so? Perhaps trying to prove someone wrong?" Her fingers fell to her side. "Or was it in your nature?"
+
+After hearing about the Mirrored One and the others' sins at Stella's party yesterday, it had got her thinking more about human nature and what drove people to commit certain inconceivable acts. Because in her eyes, Isabella must have given in to greed.
+
+If she hadn't picked up Harris's pendant and robbed the other dead Redclaws for their spirit stones, she would have gotten away with it. Amber shook her head and moved past the trees. The fact that someone within our own family with direct access to Ashlock's resources would commit such an act means others will too.
+
+She walked out of the front gate, the two Redclaws on guard giving her a nod, and strode down a cobbled street lined with single-story pavilions. This is where the majority of the Redclaw family lived, alongside many elite disciples of the Ashfallen Sect. It was still early, but she could feel the ambient fire Qi radiating out from the demonic trees being pulled toward nearby courtyards as people cultivated.
+
+As she got lost deeper into the grid of pavilions, she began to see other elites of the sect. Some had been here since the early days, others were recent additions. Of the new ones, some had been mortals a year ago, but with access to the pills from the Ashfallen Trading Company, they had stepped onto the path of cultivation.
+
+All were loyal to the Ashfallen Sect as a whole, but not to each other.
+
+Everyone here is going to be welcomed into the Eternal Realm this time. While I hope no tragedies occur again, the likelihood is high, Amber thought darkly.
+
+Reaching the great archway with the words White Stone Peak engraved on it, she saw some activity. Cultivators wearing the black robes of the All-Seeing Eye came and went, some nodding her way as they passed.
+
+While she wasn't as famous as the Grand Elders like Diana or Stella, she was still a member of the Redclaw family who had only grown in prestige alongside the Ashfallen Sect. Now with Magnus as a Monarch, they were the only family in the wilderness with a Monarch as the head of the family.
+
+Her family name demanded respect, but it also invited jealousy. As legendary as Magnus's rise to power was, his past as a Star Core Realm warlord for centuries cemented the idea that his rise to power wasn't due to his talent. It was entirely because of the Ashfallen Sect and their resources.
+
+While they weren't wrong, Amber had been there to witness his trial to reach the Nascent Soul Realm, and it had been so impressive she had been plagued by self-doubt ever since. Whatever he had done to reach Monarch Realm must have been even more impressive.
+
+None of these people know what it takes to become a Monarch, Amber thought as she passed under the archway and down the steps. On either side of the pathway were demonic spirit trees shrouded in a perpetual mist.
+
+After a few more steps, the pathway forked.
+
+If she followed the pathway toward Red Vine Peak, she would encounter miniature groves harboring all types of Qi. Many of the elites residing on White Stone Peak depended on these groves to cultivate, as the peak was constantly bathed in fire Qi. The pathway was also rather busy, considering how early in the morning it was.
+
+The sect continues to grow. I hardly recognize any of these people.
+
+She took the other path, which led down to Ashfallen City. It was far quieter, apart from the occasional servant making the trek up for whatever reason. They stopped and bowed deeply toward Amber and waited until she had passed before daring to continue their ascent.
+
+For some reason, their actions made her feel off.
+
+Is it because most mortals are cultivators now? The gap between us doesn't feel as defined as it used to. She pondered some more as she enjoyed the peaceful walk down the winding steps. Perhaps it's because I don't feel like I've earned their respect. They only bow toward me because of my striking red hair and eyes, which are characteristics of my family. I bet no one who greeted me this morning knows my name.
+
+Reaching the bottom of the stairs after an hour, she stepped out of the fog and into the morning light. The sun had risen considerably now and bathed Ashfallen City in a soft gold. The weather was crisp and perfect, calming her soul.
+
+Yet, the sight before her left a lot to be desired.
+
+For all the Ashfallen Sect's wealth, the city named after it was a letdown. Development had exploded, and a few taller buildings now dotted the cityscape, but most of it remained a sprawl of small stone huts. If not for the Ashfallen Trading Company's headquarters looming over it all—a tower of glossy black marble carved into the unmistakable silhouette of a towering tree, its surface shimmering with defensive formations, demonic trees growing from its roof like a divine crown—and the legend that the city had been raised by Grand Elder Douglas in a single night, there would be little here to set it apart from any other backwater town.
+
+She walked down the main street and watched as the city came to life. People left their homes, hanging up laundry between strung lines. Others enjoyed breakfast at tables outside their homes, while their children ran around yelling and laughing. A cart that seemed fit to be drawn by a horse, stacked high with vegetables from the farms, rolled on by, and Amber was surprised to see it was being pulled by a farmer. He was breaking a sweat but otherwise seemed fine.
+
+A miner trudged past in the other direction, a heavy sack of spirit stones slung over one shoulder. He gave her a curt nod as he went.
+
+While they aren't cultivators, those aren't feats normal mortals used to be capable of, Amber thought as she paused in the street and glanced up the mountain. White Stone Peak looked mythical in the morning light from below. Shrouded in perpetual mist, only the blinding white of its pavilions and the palace where her family lived broke through.
+
+"Excuse me, miss."
+
+Amber turned, surprised to find a little girl staring up at her with wide, curious eyes.
+
+"Yes?"
+
+"Are you from the Redclaw family?" the girl asked, a tinge of fear in her voice. Amber couldn't blame her. Her family oversaw the security of Ashfallen City, and streaks of fire from patrolling Redclaw cultivators could be seen carving across the sky at all hours.
+
+Amber crouched down to meet the girl's gaze. "I am," she said softly. "Why do you ask?"
+
+"I…" The girl gulped. "I wanted to ask if we really won."
+
+"Won?"
+
+"The war. Against the scary Celestial Empire. My dad read about it in the news, but he doesn't believe it."
+
+Amber glanced past her and spotted a disgruntled, older-looking man hunched at a table, glaring at a parchment as if it had personally offended him. She didn't need to read it to know what it was. The cult of the All-Seeing Eye ran its own newspaper, dedicated to spreading word of Ashlock's feats. A few of the stories in there were admittedly overblown, so she could understand how a skeptic might dismiss them.
+
+But denying the defeat of the Celestial Empire? That was something else.
+
+"Yes," Amber said, returning her attention to the girl. "We won. Last night I was at a party with the Princess to celebrate."
+
+The girl's eyes went wide in awe. "You know the Slaughter Princess?"
+
+Amber flinched at the name. She forgot that's what a lot of the common folk in the cities knew her by.
+
+"I do."
+
+"What is she like?" the girl asked curiously, "Does she really drink the blood of her enemies to grow in strength?"
+
+"What? No," Amber said, taken aback. The image of Stella sitting quietly on the couch at the party, nursing an undrunken cup of spirit wine, popped into her mind. "She doesn't do anything like that."
+
+"Really?" The girl looked suspicious. "My dad says there's no way a cultivator gets that strong without doing demonic rituals."
+
+"That might have been true a year ago," Amber said patiently, "but things are different now. Your father is wrong. The Princess is just… misunderstood."
+
+The girl's face fell. "So the Slaughter Princess isn't really like the legends?"
+
+"No—"
+
+"But she's so cool in them, though," the girl said brightly, throwing Amber off completely. "I want to be like her when I grow up and protect everyone. Just without the blood-drinking and slaughtering part."
+
+Amber was dumbfounded, unsure what to say.
+
+The father noticed at last and rushed over as if the girl were on fire. "My deepest apologies, cultivator," he said, bowing and tugging his daughter back by the wrist. "What have I told you about speaking to cultivators?" he hissed at her as he hauled her away. "They're dangerous, you know that. Especially the Redclaws…"
+
+Amber watched them leave and felt her mood sour. Snapping her fingers, a sword appeared before her, and she hopped onto it. Making use of her Star Core Realm cultivation, she took to the skies. The noise of the city faded, and she took a moment to calm down.
+
+Well, that was unpleasant. Though I can see now why Stella doesn't make an effort to fix her reputation, she mused as she gazed down at the hive of activity. The mortals were now tiny black dots going about their lives. Some wore the cult robes of the All-Seeing Eye and were devoted to spreading his name. Others went about their lives in peace, enjoying the benefits of living in a city ruled by the Ashfallen Sect, while giving little in return.
+
+On one hand, it angered her. She knew what the Grand Elders of the sect had gone through and achieved to triumph over the Celestial Empire.
+
+But she couldn't quite bring herself to blame them, either.
+
+People from Argentum or Desolark City had seen and felt at least a taste of what the Celestial Empire was capable of. The cities near Ashlock, though? They only knew peace. The war with the Celestial Empire had hardly touched these streets, beyond the occasional moment when Ashlock's anger flared, and a desolation beam carved its way across the distant horizon.
+
+After calming, Amber reframed it. The father was from the older generation and skeptical, and his views remained uncontested due to the peace. While unfortunate, what mattered was the little girl. She was part of the new generation that hadn't suffered under Vincent Nightrose's rule and lived as slaves to the cultivators.
+
+She was growing up under the Ashfallen Sect, and even with a skeptical father, she was inspired by Stella and wanted to be like her one day.
+
+Amber glanced toward the sun in the distance.
+
+Perhaps in time, the memories of the past will fade, and even the skeptical will come to appreciate the Ashfallen Sect.
+
+She smiled and turned her sword toward Red Vine Peak.
+
+Ashlock's towering form jutted out of the swirling mist, dominating the skyline. His crown of branches was relaxed, and even from afar, she could feel the world's Qi being drawn toward him like a funnel.
+
+The time for the opening of the Eternal Realm was drawing near, and the gathering was taking place inside his Inner World. As she drew closer, she saw she wasn't the only one. Many other Star Core Realm members of the sect, including some members of her own Redclaw family, streaked through the sky.
+
+I need to take this opportunity to grow stronger, Amber thought. Until now, I only wanted to grow in power for myself. But now I see this is bigger than myself.
+
+I fight for Ashfallen, a smile broke out across her face, and I will make Grand Elder Diana proud as part of the new force.

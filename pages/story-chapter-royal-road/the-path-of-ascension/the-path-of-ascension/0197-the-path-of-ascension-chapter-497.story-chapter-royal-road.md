@@ -1,0 +1,297 @@
+---
+id: 6f3cee88-f5d2-52e4-bafe-1360db8738f3
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 497"
+slug: 0197-the-path-of-ascension-chapter-497
+partOf: the-path-of-ascension
+position: 197
+ownLength: 5513
+unit: words
+publishedAt: 2026-06-08
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3510870/the-path-of-ascension-chapter-497"
+royalRoadId: "3510870"
+---
+
+Chapter 497
+
+Quill had half expected his involvement in the armor’s construction to wane once all of the Natural Treasures were harmonized. He only turned out to be half right. JR still wanted him there for every step, but most days there was little for him to actually do beyond try to reduce his name's resistance to everything the bird did.
+
+Quill didn’t mind, as it let him watch and learn. That knowledge should hopefully help him when he used the strange realm’s reward and turned the armor into a growth item, and was therefore invaluable.
+
+JR took the harmonized Natural Treasures and stripped them down, discarding anything that wouldn’t be used in the armor over three sessions. Most of Quill's attention was spent trying not to have his heart break at the piles of Natural Treasures left behind. While some were little more than scraps, others were, magically speaking, mostly intact. No one could safely use them for their original purpose any more, but a crafter capable enough to strip the magic out of the treasures could have easily fashioned them into strong items.
+
+JR ignored any questions about the process, but did allow him to observe. The raven gathered the resulting magical energies and strained something burgundy out of it, letting the rest dissipate into the air.
+
+The thin thread of energy was then guided into his name and into a pocket in the scaffolding Quill hadn’t previously understood the purpose of. Not that he really understood after watching the show, as JR hadn’t felt the need to explain anything more than ‘it's beneficial’.
+
+When he tried to find more information about extracting Natural Treasures, he found everything restricted to Tier 40’s and higher who had their Aspects. Unable to question a master crafter further, he was left in the dark, but his distraction didn’t last long as JR got to work.
+
+JR started by taking the corner of his neutronium ingot and threading it through the scaffolding. The sight gave Quill his first glimpse of what the armor would look like. It was a wire frame model taken to the extreme, with some of the threads being only a few atoms wide, but it was beautiful. The neutronium wove around his intangible bones before wrapping back up and running directly under his skin.
+
+Quill had thought they’d been working hard before, but once they started inserting Natural Treasures, it felt like they didn’t stop.
+
+Rather than starting with something more replaceable, JR started with the Tassel of Lament. Despite being Tier 36 when they started, by the time JR finished, the Natural Treasure had been forcibly reduced to the point it matched him at Tier 30. Having portions of his armor sit at different Tiers while inside him after turning it into a growth item sounded like a terrible idea, and one he wasn’t eager to experience.
+
+JR may have only cut away three percent of the Tassel of Lament, but seeing the ghastly holes in something he’d paid so much for hurt almost as much as merging the treasure with his name’s heart.
+
+It wasn’t physical pain, like when they’d first started working inside his name. He’d have been okay, if not happy, with that. But no, the integration was far worse. During the entire multi-month process of integrating the tassel into his heart, he felt like he was being followed by a deeply disturbing feeling that loomed over every interaction and experience he had.
+
+When JR finished merging it, most of the side effects faded, but a feeling of wrongness began to overtake him at random intervals. Sometimes the episodes lasted minutes and other times hours, but he pushed through it.
+
+He had to.
+
+He had one way to end the pain, and that was to finish the armor, but the work was firmly out of his hands. The claws that were in control seemed to be in no rush, though he couldn’t accuse the raven of malingering even if he wanted to.
+
+Quill was the limit. JR was more than happy to push him and as they worked, the more he started to adapt to… whatever they did. He still couldn’t settle on what JR was doing to him and his name when they worked on the armor, but he understood why their sessions were spaced the way they were with an entire month in between.
+
+Or he thought he did.
+
+With each new Natural Treasures they added, new feelings and phantom emotions appeared. Most were benign and easy enough to ignore, like the sudden desires to sing. More often than not it served as a break, and when it came at an inopportune moment it was at least manageable.
+
+Others weren't so ignorable, like when they added the Tier 32 tentacle of gnarled wood. It would serve as the treasure that enabled the armor to improve his mana channels and overall mana throughput, making it one of the armor's core items. It may not be the tassel, but it was just as important.
+
+JR stripped most of the treasure, leaving slightly over half of it. While doing so, he spoke for one of the only times while he actively worked.
+
+His words were slow, quiet in a solemn way, like a drop of water plopping in a small pool at the edge of his hearing. It took Quill several moments to realize the words were being spoken in the same language that had stripped his name from his body. Except instead of commanding the realm this time, they were speaking existing truths and caused far less noticeable ripples.
+
+That was the sound.
+
+The—
+
+JR’s words lulled him deeper with each syllable. “This was a lucky find. Absorbing it normally would only allow you to get half its effect. At least in normal times. Those who are more connected to nature might be able to tap into a little more. If they were exceptionally lucky, they might be able to absorb the treasure and manifest one and a half of the three abilities.”
+
+The raven turned his head to look at Quill mid-speech but the world blurred.
+
+JR’s head had split. It both remained firmly concentrated on the cleansing while another turned to Quill. That might have been normal, but it was no cloning or illusory technique he had experience with. No, JR was doing something much stranger and deeper.
+
+With every degree of his head’s turn, his beak and eyes grew until they were larger than the room. Larger than 『 』, larger than the space station, larger. Deeper.
+
+An abyss.
+
+Quill found himself tumbling into the dark waters that he’d been trying to hone in on earlier. It wasn’t cold. It was nothing.
+
+Everything was nothing.
+
+Everything was…
+
+JR’s words seemed to take an eternity to reach him in the darkness, but they were the only frame of reference, despite the way they seemed to bounce around the space and his head as if there wasn’t his skull to keep his thoughts inside.
+
+“I won’t be able to keep all three at full power, but I will keep about five percent of the other two. Your solidified mana will be slightly more resistant to—” That single word seemed to stretch for an eternity, but the feeling faded as the next words reached Quill's ears as if there hadn’t been a gap at all. “Fire and slashing damage. However, the more interesting effect lies in the third and final effect: the ability to draw nutrients from the surroundings to fuel the user. How nice would it be to have that effect? No, that would be too simple. Hehehe.”
+
+JR’s laugh was filled with the pure glee of someone pulling a clever trick over a higher authority and getting away with it. It was a little sick, self gratifying, and rife with other darker emotions, but more than all of that, it was filled with relief in a successful part of a larger job.
+
+From what he could read of the raven’s body language, it was more that JR needed to celebrate this victory, knowing how hard everything that followed would be and needing to celebrate.
+
+“No. For I am more clever. More devious. What are roots that draw in nutrients but conduits of the flesh? AHAHAHahah!” The second laugh was that of a madman who’d proven the naysayers wrong. “There is no difference at all! No! I will turn a power that should have been discarded into a seedling that will help blur the line between your physical body and mana. What exactly the outcome will be, I’m not sure. It can be as small as letting your healing be more effective, or as strong as letting your healing apply to your mana. We’ll have to see.”
+
+The final words reverberated through Quill’s head and tried to eject him from the dark waters.
+
+It tried to send him out, back into 『 』, but Titan resisted.
+
+They weren’t done. JR may have decided he was done with 『 』but they weren’t done with him.
+
+There was something deeper at play, and he’d almost been able to touch upon it. He only needed to find the words again, and he’d be able to follow it back down. However, the harder he tried to listen, to catch the indistinct murmurings that he’d be able to follow, the farther they seemed to drift away.
+
+Yet he couldn’t stop swiping, which ejected him from the space, where Quill struggled to keep the memories from slipping. He was sure he lost most of what he’d experienced in the darkness, but he was also confident he’d be able to find his way back inside.
+
+Except, he had to deal with the possibility of an intense itching in his skin and muscles as what felt like roots were periodically growing through his flesh.
+
+None of the Natural Treasure integrations were pleasant, but instead of fearing them, he began to savor each one. They were opportunities. Following half remembered instincts, he found that if he listened closely, he could hear JR chanting in that strange language while they worked.
+
+JR’s words were indistinct and impossible to comprehend. Every time he tried, he felt as if he was searching through an endless swamp filled with mist and pitfalls waiting to swallow him up, but he didn’t let that stop him.
+
+Quill wasn’t sure he was meant to hear, and any time he tried to bring the topic up outside their work time, his mind slipped. After the second occurrence, he stopped trying to force it and focused his efforts while they were working.
+
+Something about that state made it possible, and he was confident JR wouldn’t be offering lessons for free once their work was done. It was up to him to be as shameless as possible and take as much as he could from the greedy bird.
+
+Natural Treasures and effects piled up as Quill continued his attempts to find that space again, but the bird never guided him into the state, leaving him to stumble along by himself. It wasn’t until there were only three treasures left, three more chances, that he finally found a path through the mists.
+
+Guided by JR’s ever moving echos, he found an oasis in the fog.
+
+At the center of the clear space, on a beach far too thin to hold him, was a hyper massive alabaster white JR singing. Rather than looking at him, the bird was fully concentrating on the ink dark moon Quill hadn't noticed looming high in the sky, as if trying to charm it down with his words alone.
+
+Quill strained his ears to listen, but found the murmuring quieter than ever. He strained his eyes, but the more he looked, the less he saw. Everything was wrong. Inverted in a way he wasn’t capable of comprehending.
+
+Understanding this wasn't what he needed to find, he unhesitatingly turned away, back into the mist and the unknown.
+
+There was no sudden enlightenment, but as he walked, Quill started to pick words out of the murmuring. While he couldn’t hear it, the image of JR silently singing to the moon started to superimpose itself in sync with the indistinct ripples he could hear.
+
+Quill didn’t make any more progress during the final two treasures, but what he did manage was enough.
+
+While somehow even more difficult to hear, Quill had started to hear JR’s indistinct murmurings any time they worked. He wasn't confident what he’d discover, or more accurately find, should he reach his unknown goal, but he knew it wouldn’t be bad.
+
+If he was correct and successful, it would lead him to being able to speak the language that enabled JR to pull the names out of items. As eager as he was for the power that might give him, Quill had no aspirations of being able to reach the bird's level of skill.
+
+As it stood, Quill could barely catch a snippet of what he thought were dozens of overlapping versions of JR singing or chanting in that language as they worked. He didn’t let his failures stop him from trying to understand something, anything, from the madness.
+
+When they finished the Natural Treasures, he hadn’t succeeded and they had to take a break for Quill to create a higher Tier version of [Item Link].
+
+JR was supremely smug when he presented the documentation for the process of creating an improved variation of the skill at the end of a session.
+
+“Don’t go around sharing this, but study this. I’m giving you enough documentation that you should be able to make a truly unique skill. But even you can’t afford the fees, should you decide to breach our contract and share this with anyone. Emmanuel paid… Lets say, a lot to get you access to this. I promise not to be too smug after you realize what we made and rain down praise.”
+
+Quill wanted to make an offended quip, but as he read, his disregard fell away.
+
+The [Item Link] spread freely by the Corporations was a simplified version of a larger project, like he and many others had suspected. What he and everyone else had underestimated was the scope of the original project.
+
+[Item Link] hadn’t started as a way to stabilize the low Tier crafting market after the creatable skills had disturbed it. Rather, its origin was a locking method to prevent non-growth items from being stolen. It wasn’t until the group in question had begun practical testing that they’d discovered the side effect of increased mana efficacy of the attached item.
+
+When they’d made the discovery, they’d immediately pivoted their research. All had gone well, too well in fact, when they’d discovered the side effect that made item enchanted skills stronger. At that point, the group realized the size of the prize and sold it to JR.
+
+That was when the methodology of the reports changed and he saw the path from what he’d seen on the market, and the original invention of a lock. It pained him to admit it, but he could see where JR, and by extension the Corporations, hadn’t technically lied or even misled anyone when they said there was no better version than what they’d released to the public.
+
+Because there wasn’t. A skill so simple anyone could create it in less time than even the best Rah’s world had to offer, was in fact too simple to be a true skill. It was closer to one twenty fifth of the full spell, because it was actually a small, self-stable portion of the larger puzzle. It wasn’t even right to call the non-neutered version a greater or lesser designation of [Item Link].
+
+JR’s people had both elevated the original idea while also expanding on the efficiency angles, creating something closer to a Tier 20 spell with all of the requisite complexity.
+
+Seeing that, he understood why all of their top people hadn’t started using the better version. Quill wasn’t sure anyone except Rah could make the skills without assistance like he was going to use, for a very very long time.
+
+Even the simplest version designs had complicated skill structures. He noticed there were only three other noted successes, and all three had Talents that assisted them in some unmentioned way.
+
+After some deliberation, Quill settled on calling the still unnamed higher Tier variation of an [Item Link], a [Spirit Print]. He thought he was clever playing off a finger print and it sounded better than the string of numbers the Corporations wanted to call it.
+
+At its core, each [Spirit Print] was a unique lock and key personal to the individual who hand crafted it. Split in two, the skill portion was meant to be a tightly guarded secret that only the creator knew and kept in their core spirit. In the provided information there were thousands of reference keys, but more interesting were the effects listed underneath each variation.
+
+While subtle, the shape of the key half would affect the skill’s properties, such as its capacity or throughput, and he’d need to plan exactly what shape and effects he wanted. By that same metric, he needed to be careful not to over complicate things, because the key side needed to be able to fit with the lock portion that was meant to be given to crafters.
+
+Quill spent two months tinkering with both sides of his [Spirit Print] based on the provided blueprints until he got something he liked. Prioritizing mana throughput more than security, he didn’t use any of the overly complicated measures JR teams had identified for protection. He kept things simple and ensured security two ways.
+
+The first was the order that mana would flow through both halves of the skill. Any small deviation in the item or skill’s pattern would result in massive turbulence, ruining the connection. The second was his link’s raw capacity. Few cultivators would be able to sustain that large of a drain for more than a second or two.
+
+He also set it up so he was able to hand out three types of ‘keys’. One was general and meant to be used to link with items in public places where he’d like to be able to transfer lots of energy easily, like his seat on the Unsparing or around Palustris. The second was for more private usages, like his sword or outer armor he chose to wear. The second level would enable a stronger connection but could still be seen by crafters or other such support personnel without risk to his growth armor.
+
+The third and the equivalent of his master key, was the connection he was building specifically for his growth armor. Its genius lay in allowing him to use the master key like a splitter, enabling him to feed mana into the other two types of keys at will without disrupting the armor.
+
+[Spirit Print], the half of the skill he’d be making at least, would innately be able to handle multiple connections, unlike its lower Tier variant, but its efficiency would pay the price. He’d be able to use it in a pinch without feeling much heartache, but ideally, he’d only be powering his growth armor, his sword, and possibly any outer armor he might choose to wear.
+
+The conduits on his hands and back would give him more than enough general flexibility.
+
+JR was, as he put it, appropriately smug, rather than overly so, after giving Quill the okay on the [Spirit Print] he’d created. Quill would have disagreed, but the bird wouldn’t listen to him.
+
+All that was left of it was to actually start the creation process. Once Rah and Liz turned the Dream’s Delight herbs they’d found into incense, following the currently understood best procedures, he was ready.
+
+After reviewing everything with Rah and JR both, Quill began.
+
+Sitting in a small room only slightly larger than he was when sitting down with his legs crossed, he calmly set the incense alight.
+
+Rah’s advice had been to get as much of the work done as possible before using the incense, but he didn’t have that level of skill. [Spirit Print] was an order of magnitude more complicated than any of the skills they had published. If he had a few hundred years to practice, he might have been able to build up the required abilities, but he didn’t.
+
+The incense was surprisingly tart, and Quill couldn't help but smack his lips as he tried to parse the strange taste. He ended up doing that for several seconds as he felt the herbs take effect, even as he was grateful to it. It was the only reason he was able to make the skill directly inside himself, without a single mistake resulting in serious spiritual damage.
+
+Without the herbs, he’d be forced to make the skill in a blank skill shard, something he had no experience in. Additionally, he’d have to deal with all of that while trying to make a skill so far from his core spirit, where his control was weakest.
+
+The only advantage he had was that at Tier 30, he got another core skill slot, which allowed him to avoid making a hard choice.
+
+Hitting the activation sequence, the walls lit up as projections of the skill he wanted to create started flashing around him. Sometimes it was out of order, other times it played backwards, and the rest of the time hundreds of different projections flashed across the screens.
+
+He was just settling into start making the skill when a raven appeared in the brief moment of darkness between flashes. Titan’s hand snapped out and tried to strangle the interloper, but his hand was unable to close around the feathery neck that wasn’t there.
+
+Taking a few small sniffs, JR chortled at him. “Now, now, get to work. Don’t let me distract you.”
+
+“Then leave.”
+
+JR’s beak split as he smiled. “But how can we leave where we haven’t gone? We need to get to work. Work. Work. Work.”
+
+When the lights flashed a second time, Luna, in cat form, had replaced the raven, with her deep purple eyes the only illumination in the room despite the flashing lights. “Stop dawdling, child!”
+
+You know what you are doing.
+
+Quill stared at the cat as she spoke without speaking. That impossibility cracked his understanding of reality like a mirror. It wasn't until the cracks started leaking that he hyperfixated on the flickering patterns around the room.
+
+He wasn’t sure why it was important, but as Leon then Mara replaced Luna and urged him to complete his task, that was all he could focus on. He needed to copy the flashing images.
+
+Images?
+
+What images? There were images?
+
+The skill.
+
+The skill! He needed to make the skill. He had to make the skill. The only thing that could solve everything was the skill!
+
+Quill wasn’t sure how long the fugue state lasted as he came out of it, but he wasn't particularly concerned knowing he had three weeks before his next meeting with JR. The small room opened up around him, but he didn’t make it fully out as a pain in his spirit prevented him from standing.
+
+Hunching, he sensed inward, fearing something had gone wrong.
+
+Checking his past… two and a half days of effort, he was pleasantly surprised.
+
+The [Spirit Print] was there, and he hadn’t created something wholly off topic, which had been his largest fear. Better yet, after a thorough inspection, he found he’d landed close to where he’d aimed. There were a few, several if he was being honest, unnecessary additions he‘d need to slowly disassemble, but the skill was ninety seven percent the way there.
+
+That was more than enough for him, and he okayed JR adding their planned lock to the armor the next time they met.
+
+Fixing the skill took almost a full year of dedicated effort, and it was during that time that the halfway mark of their vacation came and passed.
+
+Quill hardly noticed it as he worked on cracking flash talismans and his elemental escape talisman side project.
+
+Said side project was only a week or two away from reaching a spot he was comfortable with as a selling point, and he was more than satisfied with the results. It would be his best commercial product to date, and had the possibility to upend another market.
+
+Outwardly, Quill boasted about that to anyone who would listen, but privately he only felt bemusement at his result. He’d spent ninety five percent of his focus on the flash talismans only to have, if he was being generous, moderate breakthroughs. His side project that he didn’t really care about seemed to encounter zero bottlenecks, which just felt wrong.
+
+His state seemed to amuse JR to no end, but he couldn’t help it.
+
+In what felt like a disproportionate amount of effort, for his second idea, Quill managed to create a general aura-based elemental body rune, shattering all of his expectations. He’d originally only been intending to mess around as a distraction after hearing Zonta talk about aura interchangeability as a way to flex his creative muscles.
+
+As it turned out, Zonta was more correct than he knew. Titan’s Torch didn’t take long to come to two conclusions from what little Quill was able to share.
+
+Aura runes did seem to have a stabilizing effect on other types of aura, but there were so many rules and exceptions, no one had been able to make heads or tails of the deeper logic.
+
+With the light rune acting as the stabilizer in a permeate formation, any aura type could be added. It might not have an effect, but it wouldn’t harm anything. However, if they replaced that aura light rune with one that they’d identified that made glass sparkle, only water, wind, and light aura flowed through the formation. Any other aura types would fail explosively.
+
+What came out of their tests was the very tentative conclusion that so long as the aura could be used, it was stable.
+
+Quill had seen that as an entirely new avenue to explore.
+
+Rather than fiddling around with imbuing the aura into the talisman paper itself, he only needed a rune to properly channel the elemental auras he intended to use. Originally, his goal had only been to create one or two of the level one mana types, but his own brilliance had outpaced his plans.
+
+Earth, air, and water escape talismans were some of the best sellers across every Tier. That high demand bred variation and innovation. There were tens of thousands of elemental escape talismans and that gave him a plethora of information to pull from.
+
+The aura rune he created wasn’t based on an ancient rune rumored to have a magical effect. Rather it was a new one that's only known effect was to blend the aura added into a formation into its surroundings.
+
+Converting the formation rune into something usable by a talisman hadn't been easy, and there was a lot of room for improvement, but he was content with the results.
+
+The aura elemental escape talismans were good. Really, really good.
+
+Unlike the normal elemental escape talisman that, once activated, lacked any sense of innate control over the destination, his aura body rune allowed the caster to steer the talisman a few degrees during use. Alone, that wouldn’t mean much, but combined with the elemental body rune converting the caster’s body and merging them with the element in question, most non-matching element monsters wouldn’t be able to track the caster, making escape more assured than older versions.
+
+Quill wasn’t able to increase his talisman’s range over the older talismans, but given the pseudo-elemental body and control over the destination, he was confident he’d be giving several business leaders nightmares.
+
+Or, more likely, they’d be paying him licensing fees as they were forced to pivot some of their production to the new product. While he did intend to profit, he was more interested in tying more boats to his personal flotilla. It might not matter in the end if things came to a true war, like Max warned him was possible, but he wanted as many people tied to his interests, rather than interested in him.
+
+Commercial products were his only coin at the moment, and he’d spend them wisely.
+
+Tim managed to simplify the lower Tier versions by almost five percent, and Quill rewarded him by cutting him in on the profits. Having ground his teeth on helping them break through the Tier 15 barrier for the aura tracking talisman, Tim found that while his Talent wasn’t ideal for innovating new things, it was excellent for refining furnished ideas.
+
+Quill was initially apprehensive about giving the kid access to that much money, and therefore power, but Luna gave him the go ahead. With it, he gave Tim exactly the credit he deserved for his efforts.
+
+It would only amount to less than a full percent of the profit, but it would make the lone, and still sub-Tier 15, Tim very wealthy. Luna already had plans for his yet to be found wealth she refused to elaborate on. She claimed it was revenge for his earlier stunt, but he didn’t mind. He had no desire to pry into one of his people's Talents any more than he hoped someone would look into his.
+
+And they were looking at potential record profits. Elemental escape talismans were expected to make a much larger splash than his resonance ones for a single reason. Aura of those four types were the most abundant in the Realm, as they and their many sub variations represented almost thirty percent of the Realm’s aura production. If he could find a way to tap into even a small portion of them, it would let them outproduce his resonance talismans sales.
+
+The main downside of his talisman, if it could be said to be a negative at all, was that it took slightly more aura than normal. That was due to using aura in the enchanting process itself rather than imbuing it in the material, but he considered it a worthwhile trade off.
+
+Quill went a little crazy in the marketing, enjoying his easy success while fearing it would be the last one he got. They may have been useless to him, but he felt good as he wiped his hands of all of his remaining distractions and returned to his flash talisman project.
+
+His break turned out to be the correct call.
+
+Feeling fresh, he took inspiration from his [Spirit Print] creation fugue and carved his newest liquid mana stone with a ‘simple’ mana transfer rune, following instinct more than logic most of the time. It took dozens of attempts, but he finally figured something out that he thought might actually work.
+
+The transfer rune inside the liquid portion of the gem would pair with a rune on the ‘talisman’ portion of the gem. In actual practice, the linked runes would form a tunnel through the shell as the talisman activated. It was hard, tedious work carving one of the most complicated single runes he’d ever created, and something he’d never be able to manage in a fight but he kept at it.
+
+He’d tried to use transfer runes as a solution twice before, but his new experience and knowledge of [Spirit Print] gave him some interesting ideas. He hadn’t only created the skill in his drugged state, he also learned quite a bit, even if inadvertently. Now he better understood how both [Spirit Print] functioned and how to create skills in general.
+
+He wasn’t dumb enough to be trying to make a new Tier 20 spell any time soon, but he felt he could make any Tier 0 skill after seeing the final skill structure once or twice. He considered it just compensation for his suffering while using the herb.
+
+It still took him twenty minutes to make sure everything was perfect between attempts, but he didn’t mind.
+
+At this point, he was willing to take anything that worked. Blake could refine whatever he handed him, but he needed something to show for his efforts, or Quill's dream would be shoved indefinitely into the ‘we’ll get to it later’ pile that had been growing since they’d started keeping track.
+
+The light talisman he carved on the surface of the liquid mana stone had to be modified to account for the alternative power source, but it only took him a few tries to get something acceptable thanks to his older tests.
+
+Nothing happened.
+
+After a bit of investigation, he found the culprit was a faulty joint in the transfer array. It took a few hours to redesign the transfer, but on his following attempt, the world went white then dark all at once.
+
+Quill hardly minded the tingling as his eyes healed as he happily whisked away the tears from both his emotions and the healing.
+
+Breakthrough.
+
+He’d finally done it.

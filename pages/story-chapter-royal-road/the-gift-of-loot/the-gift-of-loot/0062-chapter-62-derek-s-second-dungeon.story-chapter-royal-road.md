@@ -1,0 +1,283 @@
+---
+id: f595a14c-4f63-5f58-8e4a-95d021208a94
+page-type-slug: story-chapter-royal-road
+title: "Chapter 62: Derek's Second Dungeon"
+slug: 0062-chapter-62-derek-s-second-dungeon
+partOf: the-gift-of-loot
+position: 62
+ownLength: 3161
+unit: words
+publishedAt: 2026-07-29
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3742666/chapter-62-dereks-second-dungeon"
+royalRoadId: "3742666"
+---
+
+- Derek -
+
+Derek stood before the entrance to the Stained-Glass Chameleon dungeon. Someone had even put up a sign nearby with a cutesy drawing of a multicolored chameleon sticking its tongue out.
+
+If Derek were in charge, that bullshit sign would come down, replaced by a placard outlining the dangers: that a hand could be lost in a second.
+
+He had already consulted with a lawyer, and the useless idiot said he didn't have a case for his pain and suffering. First, laws concerning dungeons were still unsettled, and second, Derek's hand had been regrown and he had full functionality. Never mind the days Derek thought he would be a cripple forever, or the trauma his eldest son had gone through seeing how weak his father had been. None of it mattered. He had always known the system was rigged against him.
+
+Now he knew that the System was rigged too.
+
+One of the National Guard army pukes smirked at him. "So, you're going to go in this time?"
+
+Derek's new hand clenched on his hardware store machete. "Shut the fuck up. It's my ten minutes. I'll use them as I want."
+
+Behind him in line, people groaned. A couple of them booed, but Derek ignored them. They were idiots who didn't know what waited for them inside.
+
+He dreamed about it every night.
+
+In one disastrous instant, he had lost the respect of his son and needed his failure-to-launch little brother, Tommy, to bail him out with a quick heal. He had come within a hair of dying.
+
+This dungeon was his white whale. He could conquer this. Then Derek could be a successful diver and get money and loot like he'd seen on social media. Instead of delivering Instacart, he could be rich enough to order it.
+
+Whatever his Gift, he wouldn't waste it like Tommy was with his healing.
+
+Three minutes left on the clock.
+
+As if the universe fucking hated him, he felt his phone buzz in his pocket. It was a Cash App request for a hundred dollars. A text message from his wife came a moment later.
+
+Tiffany: Plz? There going to cut my lights. i got a job starting monday.
+
+No, she didn't. She was too high to remember she had used that excuse last week.
+
+$100 was more than he'd made all day on deliveries, but Derek could use her desperation as leverage. He texted back.
+
+Derek: You gonna call your kids and let them know you still love them?
+
+Tiffany: i tried. Ashton hung up on me 😭
+
+"Oh, then why bother trying to be their mother?" he muttered.
+
+Before he could reply, someone poked his shoulder from behind. "Look, if you're not going to go, can I just have your slot?"
+
+He turned and saw a cute blonde who was probably used to her looks getting her by.
+
+Derek sneered at her. "I got 60 seconds left, and I'm using it. Wait your turn."
+
+The people in line jeered behind him, growing louder as Derek stepped forward. He pretended they were cheers and let the noise carry him to the shifting, multicolored entrance.
+
+Out of pure spite, he waited just outside until five seconds were left. Then he stepped in.
+
+The sight of the closet-sized entrance room made him break out into a cold sweat. He remembered these walls, the smell of his burned flesh, and the horror of looking at his stump for the first time, while Ashton uselessly screamed and asked what he should do.
+
+No, never again. The walls were closing in, and Derek refused to be caught in them.
+
+Letting out a blast of air like an angry bull, Derek pushed through the dungeon door and charged out.
+
+The same dog-sized monster stood five feet away, just like last time. It was shaped like a chameleon with creepy cone eyes and a hood over its neck. But it was made of glass panels that shifted and changed through the colors of the rainbow. This one was orange and red, like fire. It was pretty in its own way.
+
+On seeing Derek, it shot out its tongue. He knew from hard-won experience that it would reel whatever it caught in and go in for the bite.
+
+This time, Derek was prepared and sidestepped, letting the tongue flash by. Then he brought his machete down.
+
+He expected the monster to shatter like glass. Instead, the machete bit into scales just at the shoulder joint. It hadn't been a killing blow, though.
+
+Screaming, Derek yanked it free and brought down his machete again and again. Then, at last, when the thing stopped moving, he leaned back and stomped on its head.
+
+Something clicked in his mind as his Gift unlocked.
+
+The false dungeon forest around him was silent.
+
+"That's right!" Derek screamed. "Fuck you, fucking dungeon!" He kicked the corpse, and it smacked into the nearest oak tree.
+
+Then he stood there for a moment, catching his breath. He had finally killed his first dungeon monster, and he could go out right now the way he came and be a winner.
+
+Nah, he wasn't going to puss out.
+
+First item on the list was to see what goodies the monster left for him.
+
+The chameleon was orange and red colored, which made sense since it had cauterized his wound the first time around. Remembering that, he gave the corpse another kick before he started searching it for weapons or crystals or whatever. There was nothing.
+
+Unbelieving, he carefully went back to the kill site and looked closely at the grass. Still finding nothing, he picked up the monster and shook it in case something was supposed to fall out like a piñata.
+
+The fucking monster had stiffed him. That just figured. He couldn't be allowed one goddamn moment of triumph, could he?
+
+Derek gritted his teeth. Luckily, there were plenty of monsters in this dungeon to vent his frustration on.
+
+He looked around. The dungeon was a standard forest setup, like those he'd seen in the foothills: long golden grass with live oak trees dotted here and there.
+
+An obvious trail cut through the grassland, but he didn't trust it. Just as he hadn't trusted the government guides that should have warned him these monsters had the power to lop off a hand like it was nothing.
+
+So instead of stepping right onto the path of death, he moved parallel to it, hoping he wouldn't pick up ticks in the long grass.
+
+Sure enough, he soon spotted another dungeon monster sitting right on the path, waiting for a stupid dungeon diver to blunder into it.
+
+The first chameleon had been patterned red and orange, but this one was blue and green, shifting like sunlight through stained glass.
+
+Derek snuck up on it, and the dumb monster stayed still right until he got a couple of feet away. Then one of its cone eyes swiveled towards him, and it started to turn.
+
+Lunging forward, Derek brought his machete down on its spine. The monster went down, and he hit it again and again until, finally, with a last strike, he separated the head from the body.
+
+This time, when he kicked the creature aside, he found a small blue crystal underneath the body.
+
+"Hell yeah," he said, picking it up. "Easy money."
+
+Though the government-funded guides were clearly bullshit, he had done some basic research before his first dungeon run. These mana crystals were what fueled people's magical power.
+
+Derek didn't know what his Gift was yet. Maybe it needed blue Water mana.
+
+He made the decision in an instant. Concentrating, the crystal softened, then liquefied before it sank right into his palm.
+
+"What the—" He shook his hand, but the mana was already inside him, and he felt... nothing much.
+
+Just in case, he waited. Nothing happened.
+
+Derek continued in the grass while keeping the path well in sight. His next target was patterned red and brown and hiding right behind the trunk of a tree.
+
+He tried sneaking up on it, but it somehow spotted him, turned, and shot out its tongue. Derek leaped to the side, and the bulbous end of the tongue stuck just where his right foot had been standing a second before.
+
+It seemed like the chameleon was having trouble unsticking itself, so Derek took that hesitation as the weakness it was and rushed forward, bringing down his machete to cut its tongue short.
+
+The creature squealed and tried to run, but he was faster.
+
+"Oh no, you don't!" Derek growled, raising his machete high.
+
+It only took a couple of slashes to end it this time. He was getting better.
+
+Though, the stupid monster skunked him again, leaving no crystals.
+
+Derek told himself he didn't care. He already saw the next monster along the trail: a glittering red fire chameleon.
+
+He was finding his rhythm now, and after he killed it, he was rewarded with a red fire crystal.
+
+He absorbed that too and frowned when it did nothing for him. No cool tricks. What the hell? How was he supposed to activate his Gift?
+
+He kept going. Five more kills netted him another water and an earth crystal. He was starting to grow tired, then his luck came on a double kill. One of the monsters dropped a pinkish-gold healing crystal.
+
+He remembered the one he'd used in the hospital that had done jack-all for his arm except heal over the stump, but then he figured, what the hell, and absorbed it anyway.
+
+Maybe this mana stuff wasn't all it was cracked up to be.
+
+Searching inward, trying to figure out how to use his Gift, his eyes once again landed on the monster that had dropped the crystal. It lay there, gutted by his own hand. He couldn't help but think that it looked like a work of art that had been vandalized.
+
+Shaking his head, he turned away, still foregoing the trail.
+
+He didn't think about the fact that the grass was so high he couldn't reliably see through it. Only luck made him look to the side just as a chameleon, hidden in the grass, lunged at him.
+
+Derek lunged out of the way, but he'd been completely taken by surprise and landed off balance, falling to his hands and knees. The chameleon was still charging forward. He twisted around, one hand out to defend himself, and the monster lunged with its mouth gaped wide to show teeth.
+
+It was about to chomp down on his hand.
+
+No, not again!
+
+Fear and rage from banked embarrassment seemed to pour out of him, and somehow Derek got his other hand up to slap it aside, but as he did, he felt something pour out of him and into the chameleon.
+
+There was a fleshy pink flash, and he felt something rupture inside the monster.
+
+Burning pain struck Derek deep down inside, and he screamed. He rolled away, confused, half in agony, and half wondering what the hell the monster had done to him.
+
+But that wasn't right. He knew that the monster was dead. Absolutely, 100%, he knew it.
+
+The pain lessened somewhat, at least enough for him to stop writhing and think. He got to his feet and turned.
+
+The chameleon just lay there, blood leaking from its eyes and nose. It was stone dead.
+
+He had killed it with... what? His mana?
+
+"I have a death touch?" he wondered out loud. "Is that my Gift?"
+
+If so, that was awesome, but he hurt deep inside. What had that chameleon done to him? No, it felt like backlash, maybe. Did it hurt to cast magic?
+
+As Derek considered that, he found he was able to look deep inside himself. He saw the blue water mana, the brown earth mana, and red fire mana all swimming along in his veins. Occasionally one or two motes of it would collect in his middle. There was no white air mana because none of the monsters had dropped it yet.
+
+Also, there was no trace of the healing mana left in him.
+
+He remembered the flash of fleshy pink when his other hand had connected with the monster. That was it. He had taken standard boring healing mana and made it awesome.
+
+Despite the pain, Derek started to smile.
+
+____
+
+He continued through the dungeon.
+
+The strange pain didn't diminish, but he found he could ignore it, like a light road rash. It was irritating, but it didn't stop him and he thought with time it would fade.
+
+Meanwhile, Derek concentrated on slaughtering his way through the dungeon. He picked up more water and earth crystals, along with one more fire. All of these he placed in his pocket as they weren't doing much for him. Finally, his last kill dropped another healing crystal.
+
+That was just in time because the boss was waiting for him.
+
+It was a huge version of the chameleons he'd been fighting, and it stood right in front of the exit door in a cleared space. It roared out water blasts, stinging pebbles, and gouts of fire.
+
+Not fucking fair. He couldn't use the mana the dungeon had given him that way. Why should the boss? Then again, why should he be surprised? It wasn't like anything in his life was fair anyway.
+
+The boss seemed to go through a pattern of water, earth, and then fire. He waited just out of blast range until the fire was over, then he rushed forward. He had absorbed the healing mana. All he needed was one touch.
+
+The chameleon boss roared a fire hose worth of water at him, but Derek was able to step aside to dodge just in time. It was a level one monster after all.
+
+Just as the boss was inhaling to shoot out pebbles, he slapped it on the side and gave it all of the rage and hate that had invoked his death touch before.
+
+This time the pain from the backlash was even worse. Derek screamed, sinking to his knees because his legs would not hold him. It wasn't just the pain that bordered on agony, he felt waves of guilt and pure grief like had just done something terrible, even though he hadn't.
+
+The monster screamed too, staggering away like a drunk. Then it fell and did not get up.
+
+That made sense. He had felt himself liquefy its organs.
+
+At that moment, he couldn't feel an ounce of the triumph that should have come. Derek moaned, arms clenched against his chest. What the hell? How was anybody expected to do magic when it hurt so much?
+
+Maybe that was what skill shards were for. He knew that they were a scam, being at a very minimum a couple thousand dollars apiece, but if it helped avoid this...
+
+He didn't know how long he stayed like that until the physical and emotional pain finally started to ebb, and he could function again.
+
+Then with careful steps, he went over to collect his prizes from the dead boss.
+
+Three huge mana crystals waited for him; water, earth, and air.
+
+Derek smiled, though he thought he could taste blood in the back of his mouth.
+
+Still, he did manage some satisfaction as he made his way to the exit door. In the safe room beyond stood two chests.
+
+The first was a reward chest with a medium-sized healing crystal, along with a bar of silver metal. He absorbed the crystal at once, hoping that it would help with the lingering pain. It didn't, but the taste of blood vanished.
+
+He had fixed something, and now he was locked and loaded in case he needed to use his killing touch again. The guilt had faded by now, safely buried under the knowledge that had been clearing out the dungeon. Monsters were meant to die.
+
+Speaking of that, he moved to open up the second chest, eager to see the details of his Gift. As he opened it, there was a stupid sound effect of a holy chorus holding a single note.
+
+Snatching the scroll up, he slammed the lid shut and unrolled it.
+
+Gift of Absorption
+
+You are able to absorb all mana types found in dungeon levels 5 and below.
+
+"What? That's it?" He turned the vellum scroll around, looking for more text, but there was nothing. What about his death touch?
+
+He re-read the details of the Gift, growing angrier and angrier. This was bullshit. From the guides, he knew everybody could absorb mana. So his Gift was to do what people already did?
+
+He had been ripped off!
+
+All sense of joy drained away under the realization that once again the universe had proved it was against him.
+
+Derek grabbed up the bar of metal, double-checked that there was nothing else in the room waiting for him, and, feeling sour and sore inside, he left the dungeon.
+
+There must have been a shift change while he'd been in the dungeon, and a new National Guard grunt guarded the dungeon door.
+
+"Congratulations," the man said, without any inflection. "Do you need any medical assistance?"
+
+"No," Derek spat.
+
+The guard seemed a little taken aback. "Oh... uh, I see you have a scroll there. Do you want to register your Gift?"
+
+His useless, pointless Gift? "Sure," he said. Sullenly, he handed it over, and the guard typed it into his database.
+
+"Do you want to register your rewards?" the guard asked.
+
+Derek was already growing tired of this conversation. All he wanted to do was get some dinner and go home. However, he figured he may as well see what he got for his trouble.
+
+"Sure," he said, then moved to the side where a second guard stood with a scanner in hand. At the guard's gesture, Derek sighed and slapped the crystals and the silver bar on the table.
+
+His mood improved when the guard gave him two hundred dollars for everything. Most of it had come from the bar of metal, which had been some sort of pure, special silver.
+
+Huh.
+
+Two-hundred was nothing compared to his old sales manager job, but it was more than he could make during a long shift at one of his gig jobs. This dungeon had only taken him two hours.
+
+As Derek walked back to his car, he felt a faint stirring of hope. He could do this, and do it better than anybody else. If he could find a way to push through the pain of his death touch, he could develop it into a real weapon.
+
+He didn't have to work for other people. He could work for himself, kill monsters, and get loot. He could show his son how real dungeon diving should be done.
+
+Sitting in his car, Derek used his phone to pull up the government list of level one dungeons for this area.
+
+Huh. Demon Chicken Dungeon sounded promising.

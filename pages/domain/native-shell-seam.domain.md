@@ -3,7 +3,7 @@ id: 17cecaf7-fe51-5de2-a862-c9f2f0ce299b
 page-type-slug: domain
 title: "Native shell seam"
 slug: native-shell-seam
-domain-parent-slug: repo/code-repo
+domain-parent-slug: domain/change-harness-device
 ---
 
 # Definition

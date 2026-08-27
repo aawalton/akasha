@@ -1,0 +1,221 @@
+---
+id: 5f969fc4-769f-58cc-9f11-b91fab2f6f8c
+page-type-slug: story-chapter-royal-road
+title: "355 A Sea of Red"
+slug: 0314-355-a-sea-of-red
+partOf: the-new-world
+position: 314
+ownLength: 2922
+unit: words
+ownProgress: 2922
+publishedAt: 2023-01-15
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1088686/355-a-sea-of-red"
+royalRoadId: "1088686"
+markedReadAt: "2026-06-29T21:31:55.989Z"
+---
+
+I shook my head, "I don't think so. They aren't meant to protect Valgus's mind from someone's attack. They stop his mind from becoming unsettled."
+
+I gazed at the asura, "He's not a warrior."
+
+Shalahora's eyes widened as well, and the shadow whispered,
+
+"He's a prison."
+
+Chapter Begin
+
+Shalahora sent out an umbral slice towards Valgus, the lack of light lingering for a few seconds after the blade passed. It cloaked Valgus in a dark ooze, one that the asura tried peeling off. Shalahora thought over,
+
+"If he's a prison, then what is he holding?"
+
+I peered as Valgus ripped chunks of darkness off of himself. I bit my cheek while thinking, "There are a dozen different things it could be. Either way, someone set Valgus up to be a moving fortress, and if we crack that cell open, we really don't know what we're letting out."
+
+Shalahora sent out two more dark slices, "That entity might be what's empowering Valgus to such an extent. He is the container of a spirit, and it emboldens him until he is unstoppable."
+
+I lifted my arms, smothering Valgus in rainbow bones from below, "He could be a host."
+
+Shalahora tilted his head, "Of what?"
+
+I kept piling more rainbow bone onto the asura, "If I had to guess, it's something related to the Old Ones."
+
+Shalahora rolled his eyes, "As everything is, apparently."
+
+"On this planet, yeah, it seems so. Anyways, the point is, I have a policy of not messing with the Old Ones as a rule."
+
+Shalahora tilted his head at me, "Yet you are composed partially of interdimensional energies. You also show forms of the cipher that are based on Old Ones' standard forms. You're doused in their aura and presence, considering you're trying to avoid them."
+
+I tensed my jaw, "Let's just say that wasn't entirely by choice."
+
+Shalahora's stared at me with piercing eyes, "If what you say is true, then you are a walking contradiction."
+
+I threw my hand at him, "You seem to hate the Old Ones even more than I do, but you've struck deals with them in the past just like I have. Sometimes, it's inevitable."
+
+Shalahora peered off, "We are both forged by circumstances in many ways."
+
+Valgus erupted out of the pit of rainbow bones, and he grabbed six pieces of rainbow bone. He tossed them at us, each of his throws tearing us apart. I came with Valgus in front of me, and he grinned with glee. He swiped a hand through my face before I thought over,
+
+"Look, Shalahora, my point is that unsealing this thing in him could be pretty bad for us. It might leave us with more contact with those giant weirdos, and I'd really rather not talk to them anymore. Yeah, that's despite my armor being influenced by them."
+
+Shalahora rushed over and broke an energy dagger on Valgus's back. The shadow jeered, "Armor? You wear nothing."
+
+Huh. While peering down, I watched my legs get destroyed by Valgus. I never thought about it, but Shalahora was right. A wave of reticence passed over me, and I smiled at myself. I'd been this way for years, yet something like that made me feel self-conscious. Hah. I rematerialized myself towards the ground before dodging Valgus's dive downward.
+
+The asura fell into a pit of dark ooze that Shalahora filled. Valgus tore through the tar before dashing towards us. He ripped me apart before swinging at Shalahora. The Sovereign weaved between his strikes as he thought over,
+
+"If we wish to leave his prison unruptured, then how will we rid ourselves of this imbecile? He'd be content swinging at us until the end of time, and I tire of this already."
+
+I shrugged, "You and me both, but at least we know we'll be sent away at the end of the lottery. This ends at that point at the worst."
+
+Shalahora menaced, "But how long will that stop this war-loving idiot? Valgus may hunt either of us down to finish this fight. I know little of this asura's circumstances, but I don't doubt his willingness to throw everything aside for a fight."
+
+Shalahora's form dispersed around several of Valgus's swings before the shadow oozed out, "As for your circumstances, I'm sure you have a home elsewhere, one that Valgus may decimate should he find it."
+
+My shoulders tensed, "Yeah. I'm guessing the same for you?"
+
+"In a sense, yes."
+
+I peered around before looking up, "Well then...It looks like we'll be using some environmental hazards to our advantage then."
+
+Shalahora looked up with me, "Perhaps so."
+
+I raised a brow, "Can you hold him?"
+
+Shalahora washed over Valgus before the shadowed chains pulled the asura upward. Valgus flexed his musculature with enough force that wind erupted off of him, as did Shalahora. I gawked at that, stunned by the simple yet effective strategy.
+
+I lobbed gravitation at him, but it couldn't touch the guy. Telekinesis fizzled anywhere near him, and with some frustration, I materialized an iron pillar under the unyielding asura. He ripped it out of the sharded ground before tossing the metal at me. I split it apart as Valgus laughed, and Shalahora appeared beside me.
+
+I looked at the shadow, "Let's coordinate."
+
+Shalahora let out a disappointed sigh, "I would try anything to stop this simpleton."
+
+We rushed towards the red figure. Valgus clapped his hands at us, erupting a wave of kinetic energy. I blocked with my dimensional shield while Shalahora warped towards a nearby shadow. My allied Sovereign threw a blot of darkness over Valgus while I tried swiping my shield through him.
+
+Valgus waved his arm towards me, and the dark spilled onto me instead of him. The shadows splattered over me for a split second before Valgus swiped his arm in my direction. At the very least, I no longer had to worry about the shadows since I lacked a body. Regenerating above the asura, I erupted a few more bombardments of forces from my shield.
+
+At the same time, Shalahora lobbed sun splitters from below. The large strands of darkness stretched out like dark lines drawn across the scenery for miles. They connected with Valgus from above and below, but the absurd power shattered against the asura.
+
+Valgus grabbed my foot and hurled me towards Shalahora. Shalahora whirled around me before I splattered against the ground. Valgus darted in from above, but I planted my hands on the bone shards. With psionic dominance, I controlled the nearby rainbow bones. Enormous, opalescent pillars shot out of the ground, piercing Valgus.
+
+He grabbed four of them while laughing once more. He snapped them like twigs before hurling them at me. Once more, my body disappeared before I came back. Shalahora wisped beside me, and the shade murmured,
+
+"This has gotten rather dull, hasn't it?"
+
+I pulled back my helmet and dragged my hand down my face, "Yes. It has."
+
+Valgus tilted his head at us, "Boring? Are you two stupid or simply cowards?"
+
+I marveled at his singlemindedness while pointing my thumb at my chest, "You mean me? I'm stupid and a coward?"
+
+Valgus snapped, "Yes. Both of you."
+
+I turned to Shalahora, and we laughed for a bit. Valgus flushed a deeper red while howling, "And you laugh at me? For what cause?"
+
+I shook my head, "How about we call it for today. Neither of us has gotten anywhere."
+
+Valgus's eyes narrowed, "I can feel you weakening with each regeneration."
+
+I blinked a few times, "Uh...No, I haven't weakened. Like, not even a little bit. I'm the same."
+
+Valgus grinned at me, "Your attacks have gotten far more flimsy and less destructive. That is a sign of your weakness in and of itself."
+
+I held back the urge to look at my city nearby, the settlement being why I held back some. I waved a hand at Valgus, "Look, I'm doing just fine. You haven't even dented me."
+
+Valgus scoffed, "You attempt to weaken my resolve since you can't weaken me. Your words will fail as you have."
+
+I leaned back, "Wait...No, I'm serious. You haven't even hurt me at all. This has been a relatively easy fight, all things considered. If anything, it's boring."
+
+Valgus rolled his eyes, "So dying tens of times is considered an easy and boring battle these days?"
+
+It was my turn to grin.
+
+"For me? Yes. Yes, it is."
+
+Valgus's smile dampened before he landed beside me. He swiped me into non-existence, and I regenerated right back in place. I shrugged, "See? Nothing doing."
+
+Valgus swiped me apart again, but I stayed in the same position. He swung seven more times, his cadence building a brutish momentum. I sustained through each attack before ruffling his head,
+
+"You can't do anything but swing at me. I told you when we first fought - that isn't enough. It hasn't been enough for a long time."
+
+Valgus jammed his hand through my chest, but I stared at my gauntleted fingers. I tried mirroring Helios's casual boredom, and I spoke with disinterest, "You are a master of the physical, but I am beyond the physical. Duh."
+
+Valgus wrenched his other hand into my chest wound before splitting my body. With my rived corpse beside me, I reappeared without any injuries, "This is less than nothing."
+
+Valgus gawked at me in confusion before a wide grin crept up his face. He spread his arms and cackled, "Hah, this is a test from Baldowah. I relish in the challenges you've given me, oh mighty one. Gaze at the finality we create, and I shall grant it to this supposed immortal."
+
+Valgus was a broken record, but calling me immortal caught me in the chest for some reason. I'd faced immortals but never considered myself one. As I gazed at the lifeless eyes of my split corpse, Valgus's words rang true. I was just as immortal as he was, perhaps more so.
+
+In all honesty, it shouldn't have bothered me, but I tended to change faster than my ideas of myself did. Trying to reverse that trend, I wrestled out another idea of how to handle Valgus. Turning to Shalahora, I thought over,
+
+"After he deletes me again, blind him."
+
+"Easily done."
+
+I threw myself at the asura, finding him slower in my vision than before. I traced the lines of his swings, predicting where and when they'd land. After a few hits of my own, the guy scraped me. My body disintegrated before Shalahora lobbed shadowy muck over the asura. Valgus clapped his arms at the blob before I opened my pocket dimension while immaterial.
+
+I moved the upper portion of my portal to his stomach. Valgus leaped up, dodging most of the swipe. However, I caught one of his legs, and Valgus peered down in confusion. The wild berserker's eyes widened before he lurched for my portal. I closed it before darting above him. His eyes followed where I was, though he didn't see me.
+
+He growled, "Give me back my limb, weakling."
+
+I left him in silence as I bolted away. Valgus roared out before tearing two of his arms off. He put them onto his thigh, and the bleeding wounds healed. However, his arms didn't regrow, the missing limbs trapped in my pocket dimension. Valgus leaped off of the fresh yet deformed limb with a weakened gusto. Even when mitigated, his jump was more than enough to catch up to me amidst the algae.
+
+The barbarian hunted me down with enraged vigor, and he frothed at the mouth while trying to grasp me. After taking him away from my cities, Shalahora and I met above the clouds of kelp. I thought over to Shalahora,
+
+"I'm using the leg as bait. Let's toss him into that black hole."
+
+"Consumed in darkness...A fitting end for one lost in war and blood."
+
+Shalahora dashed in, his body becoming a writhing, dark foam. He reminded me of ocean waves at night, and Valgus's form was a red star writhing with motion. They tore at one another, a dark tide meeting a raging sun. As they shifted and toiled, I charged mana into my body for several minutes.
+
+With plasma oozing off of me, I pulled Valgus's leg out of my pocket dimension. As I grasped the limb in my hand, Valgus darted at me like a red bullet. While I couldn't use mana on Valgus, I could use it on myself. A ludicrous panel of gravity pulled my arm over my shoulder as I tossed the limb up towards Leviathan-7.
+
+My shoulder ruptured from my torso.
+
+My entire arm splintered into fragmented, glowing mush. At the same time, Valgus's leg fired right at the center of Leviathan. It hit a point where it shrunk in our view before freezing in a spot several miles overhead. We gawked at it, the three of us confused. The first to move, Valgus jumped off the air near him, sending out enormous shockwaves rippling below us.
+
+Reaching his frozen limb, Valgus stuck out his hand to grab his leg. Somehow, he ignored the overwhelming gravitation at that level. However, when his arm passed a certain point, Valgus's eyes widened - he couldn't move his hand. He tried jerking it out with his other arm before that limb reached a point of no return as well.
+
+It left me stunned. I couldn't believe we were so close to the event horizon of Leviathan, but the evidence laid bare before me. Valgus reached into it, and Old Ones or not, he couldn't stop a legitimate black hole's pull.
+
+Shalahora shot toward Valgus, and that knocked me out of my introspection. I created a panel of steel and lobbed it at the asura, hoping to push him into the dead zone he hovered at the edge of. Simultaneously, Shalahora sent shades and dark slices out, and our attacks crashed into Valgus.
+
+Dolloping drops of plasma, Valgus ignored our impacts, his expression grim and muted. After several minutes of struggle, he grabbed the two stuck arms and tore them off his body. He lost a hand and a forearm when he tried to save what he lost. He missed two hands and a leg now.
+
+The asura's jovial, bloodletting smile shriveled into a bitter, hateful glare. Valgus boiled, "I will crush and kill both of you. After I've finished annihilating your being, I'll find your homes. No one, not even a single member of your species, will survive the apocalypse I render."
+
+He drifted down from Leviathan while I crossed my arms. I taunted,
+
+"It's just like I thought. You don't like fighting. You just like winning."
+
+Valgus lost all sense of reason before he dashed towards me. I let out a sigh before some kind of alien presence crept over us. I bit my lip, recognizing the sensation as both familiar yet different. I grumbled, "Is you-know-who back?"
+
+Shalahora simmered, "No. This is a different Old One."
+
+My stomach sank as my vision blurred. Around me, a line of red consumed my surroundings. It rose up and over everything, even Valgus. The asura reached me with a maddened roar, but the crimson wave flowed over him, and all was gone. My sense of sight returned, but no color besides red remained.
+
+They took on different, brilliant shades around me. Bright crimsons, deep maroons, and illuminated burgundies soaked into everything. A sea formed beneath me like dark wine. Above, the sky took on the shade of splintered cherries that plumed in all directions. Leviathan eclipsed, a moon appearing where the celestial body once stood.
+
+In the waves below, mutilated corpses floated. None of the bodies rotted or stank of death. They effused the gritty scent of iron, sweat, and dirt, an aroma that rose from the waves like the muddied blood of war. The paradigm shift continued, pouring into and through every aspect of my being.
+
+My hearing altered. The gentle drift of the waves wobbled in my ears, stretching and morphing into a high-pitched drone. Even slight sounds sharpened until they rang in my ears like whipping blades or clanging swords. Every sound left me irritated, the subtle sounds forming a recursive loop that fed on itself.
+
+I covered my ears with armor, but it blocked no sound.
+
+The essence of this old one effused through my skin, muscles, and bones. It filled my mind, and my thoughts inverted. My thoughts thundered out in rage, and all other emotions fizzled. I tried thinking of happy memories, but only moments of wrath splashed in my mind. It left me unsettled.
+
+Every thought diluted through this new prism, and my every doubt, fear, and emotion devolved into a form of anger. For minutes, I floated in something akin to memory as if I lived the lives of Mars and Ares. My everything melted into war and battle.
+
+I was war and battle.
+
+Gasping for air, I calmed myself as much as I could, but I still writhed with rage. Around me, all was still for a while, and I thanked that pinch of time since it let me adjust to this bizarre world. Once I gained some footing, I peered around, my eyes bloodshot. I spoke with a calm intention, but my voice seethed,
+
+"Where the hell am I?"
+
+An ataractic voice ebbed from within my mind,
+
+"Ah. The Harbinger. We finally meet."
+
+I growled out, "Who are you?"
+
+"You know of me already." It laughed before continuing,
+
+"I am Baldowah."

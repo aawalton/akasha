@@ -1,0 +1,299 @@
+---
+id: 8aec0b88-7d2a-5878-bf63-36714eaed0c1
+page-type-slug: story-chapter-royal-road
+title: "76 To Make Clean"
+slug: 0033-76-to-make-clean
+partOf: the-new-world
+position: 33
+ownLength: 3604
+unit: words
+ownProgress: 3604
+publishedAt: 2017-11-15
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/174369/76-to-make-clean"
+royalRoadId: "174369"
+markedReadAt: "2026-06-29T21:21:53.773Z"
+---
+
+I leaned over, my stare hardening. I shouted, “Who are you?”
+
+Althea frowned, glancing around for her rifle. Unable to find it where she last left it, she reformed her hand before aiming her rifle at the thing. It tilted its head again,
+
+“I tell you to come. You shout. Violent. I pray for Gar’s son.”
+
+Althea and I lowered our guards. I raised an eyebrow, but no one saw it because of my helmet, “What are you talking about?”
+
+He pointed backwards, “Gar’s son come here. He take precious item. Try to sell. Get caught. To be prosecuted by owner.”
+
+He pointed towards himself, “Hod is here to investigate. Will get to bottom of this. Yes, Hod will.”
+
+He leapt upwards, the hooks at his sides shooting towards the cavern’s roof. They clipped into the stone, letting Hod swing himself and use his feathered arms to guide his descent. At the edge of the swing, the clips disconnected. He finished his swing like riding a pendulum. Before he touched the ground, he sent another hook into the roof.
+
+Using this combination of swinging and gliding, he reached us over the next thirty seconds. At seven feet tall, the thin and lithe being exuded quite an intimidating aura. That’s even with his, uh, questionable intelligence. His gas mask protruded out, like a plague doctor’s mask in medieval times. His feet were bare, the talons long and sharp.
+
+When he reached me, he bowed, “Hod glad you both here. Do either of you own metal thing?”
+
+We both frowned at him. Hod’s head rolled up then down in a big semi-circle. It was like he was rolling his eyes.
+
+“The metal with carvings, like the huts here?”
+
+Althea squinted her eyes, “You mean my rifle?”
+
+Hod’s masked face shot back into the air, “Ah, you call it rifle then. The rifle Garb’s son took. Yours?”
+
+She nodded. Hod pointed towards the crevice he entered from, “Come. I show you were he is. You both persecute as see fit.”
+
+I crossed my arms, looking ever so slightly down at him, “You’re saying we have to give him a punishment or something like that?”
+
+Hod nodded, “Yes. Part of tradition. Makes stealing hard.”
+
+I narrowed my eyes, “Why should we trust you?”
+
+Hod shrugged, “No reason. You shouldn’t trust Hod. Hod sneaky. Hod very clever. Hod not lie about this though.”
+
+Althea laughed a bit before I sighed. I tilted my head, “Where are you taking us?”
+
+Hod pointed diagonally towards the ground. I frowned, “Underground?”
+
+Hod nodded, “Surface scary. Drikah will eat you. Can eat whole village in one bite. Nightmares given life. Hod hate them. No, we live beneath them, where it safe.”
+
+Hod glanced around, “No idea why you two stay here. The ancients lived here long ago. They leave mess behind. No fun to enter room and vomit. Hod get nauseous in them.”
+
+Althea spread her arms, “I know right? Tell me about it.”
+
+Hod raised a hand, “Ok. Hod tell you story about it. One time, Hod get-“
+
+I waved off his story, “Tell us while we’re walking where we need to go.”
+
+Hod turned to me, pointing a three fingered hand, “Harbinger smart. Good idea.”
+
+I frowned, “Harbinger? How do you know I’m a harbinger?”
+
+Hod leaned back, spreading his arms, “It obvious. You not like Drikah, Hod, or girl there. You something else…A walking omen.”
+
+I glanced at Althea then back at him, “Uh…how so?”
+
+Hod shrugged, “Hod not know how Hod know. Hod only know that Hod know.”
+
+Althea giggled as I face palmed. I removed my helmet, trusting that this harmless idiot wasn’t faking it. The dumbness was a bit too genuine for that. Hod shot a hook towards the roof,
+
+“Can you two keep up with Hod?”
+
+We nodded, each of us preparing our different methods of movement. Althea shifted herself to her stealth form. Invisibility leaked onto her skin, causing her to disappear from all my senses. My own ascendant mana flared before I sprinted in the direction Hod was grappling too. As we moved, Hod spoke,
+
+“Anyway, Hod tell story now. Hod walk into building. Bad building. Hod fall upward, banging head. Hod Hurt his head. Moment later, pull flip again. Hod throw up. Throw up fall all over Hod.”
+
+Althea laughed a bit as he chatted away. Hod spoke like a chatterbox, a constant stream of bullshit pouring out of his mouth. Some of it was hilarious though, so I didn’t mind. Neither Althea or I spoke that much unless we were doing something. Hod had a way of filling in the gaps, promoting a bit of pleasant chatter.
+
+With his voice as white noise, we the edge of one of the rivers flowing downward. Hod pointed down the hole, “This is where village is. Follow Hod.”
+
+We nodded. Hod Ran through the cavern, his talons crunching into stone as he did. He wasn’t quite as fast as Althea and I, but he kept a steady, controlled pace. Despite him sounding stupid, his eyes scanned his environment with the keenness like an eagle. I guessed that was his bird part coming through.
+
+As we went deep into the cavern, the desert world took a different turn. Phosphorescent roots crawled around the walls, supporting the rock tunnels. Yellow sprouts grew between cracks in the ground. Tiny insects crawled in the shadows of green glowing moss. Silver scaled fish swam in packs within the crystal-clear water of the river.
+
+The deeper we went, the richer the life became. Scaly lizards covered in heated, red scales breathed spurts of fire. Icy rodents would fight these lizards, each of them facing off against one. They huddled into crowds and watched single rodents fight the lizards, like some show of strength. Plants with sweet pools at their pits lured anything dumb enough to fall into them.
+
+Flowers bloomed, though not quite like Earth flowers. These flowers shot out wispy tendrils, each of them fighting for mist. Little bubbles of water would collect on them, and bugs and small birds would collect these droplets of water. Pollen would catch on the insects as they did so, letting the flowers spread out.
+
+The shift in scenery was unbelievable in comparison with the empty, dead surface. Understanding my confusion, Hod spoke,
+
+“The ancients took life from surface. They give it to depths. The cataclysm came. It mess with the ancient’s work. Drikah cover the surface. Sand drowned the seas. Wind stole the clouds. No more rain. No more water. Only here, in the depths.”
+
+Althea yelled as we each ran, “What’s the cataclysm?”
+
+Hod shook his head, “Hod not know. Hod wish he did. Hod would tear. Hod would rip. Hod hate the cataclysm. Hod make it suffer.”
+
+Despite the lack of eloquence, the hatred seethed in his words. I frowned, “Do you know anything about what it was, like who did it, anything?”
+
+Hod stared forward, “Village know only one thing. What caused cataclysm not like Hod. It not like Drikah or girl either. It something else, like you.”
+
+Hod turned to me, “The elders speak. They tell prophecy. They say that something not like Hod or girl or Drikah stole life from surface. They say it brought the Drikah. They say something not like Hod or girl or Drikah will give the sun back.”
+
+Hod adjusted his movements to match mine, his speed falling in line with my own. He ran beside me,
+
+“Hod hope it be someone like you. Did you come to take or give?”
+
+I shook my head, “Neither. My own world’s being churned up and spit out right now. It’s not the best place either at the moment.”
+
+Hod sighed, patting my shoulder, “Hod understand.” He pointed up, “Hod wonder. Is surface as bad as our surface?”
+
+I shook my head, “Naw, it will be soon though.”
+
+Hod clasped his fist, “Hod wish you good luck in journey. May Harbinger win!”
+
+I couldn’t help but grin, “Heh, I sure as hell hope the same too.”
+
+We reached into another cavern deep under the world. At the edge of a clifface, we saw the entirety of the cavern. A pillar stood at its center, ebbing energy outwards. That energy crawled out of the pillar, leaking into the surroundings. Dense clusters of energy ebbed from the surrounding trees, gorging the plants with life. At the center of the pillar, a red core sat spiraling energy.
+
+Althea whispered,
+
+“Well…there’s the dungeon core. Wow.”
+
+I nodded, “That is unfortunate. Like chewing into a shit sandwich.”
+
+Hod turned to me, “What is so bad? The core gives us life. So what?”
+
+I put a hand on his shoulder, “It’s nothing Hod. Where’s Althea’s rifle?”
+
+He pointed towards a village. They lived within huts built out of the trees near the pillar carrying the core. In a staggered fashion, the village was built in tiers that ascended the pillars edge. Hod’s people didn’t need masks down here. They didn’t have a beak like I thought. Instead, it was a plate of armor over their faces that extended out like a beak.
+
+It encapsulated upper half of their heads, covering a bottom jaw full of long teeth. Two glowing white eyes appeared on the edges of the armor. They didn’t have eyelids, and their eyes were perfectly circular. Hod pulled off his mask, showing the same empty eyes. The aura radiating from him was far stronger than the others. A scar ran down the edges of his faceplate, right at the center of an eye. He turned to me,
+
+“Does Hod’s face scare you?”
+
+My armor grinned, leaking a bit of ascendant mana, “Not in the slightest.”
+
+I pointed back at Althea, “Now her face on the other hand-“
+
+Althea shoved me before I could finish. She ran and jumped onto the edge of the cliff face,
+
+“Try looking at a mirror sometime.”
+
+I reached out a hand, creating a gravity warp at her. She already pulled herself out of range though. I sighed as Hod patted my shoulder,
+
+“Do not worry. Hod think you both are ugly. No, not ugly. Hideous.”
+
+I rolled my eyes before he ran and jumped forward. A hook fired into the ceiling once more, letting him swing his way over to the village. I followed suit, using the telekinetic panels to help me keep pace.
+
+Whenever I attempted using gravity, the process didn't flesh out like I thought it would. Unless I burned through an exorbitant amount of mana, I couldn't get enough pull on me to move.
+
+From what I could tell, a gravity well pulled from all sides. While I could manipulate the pull until it reached my own weight for free, the gravity well spread out the pull across all angles. This reduced the power of the skill tremendously. The way they worked right now, putting a well above me would pull about a tenth of my weight, maybe less.
+
+Still enough to throw Althea around like a ragdoll, but not enough to do the same for me. This inefficiency doomed easy travel by gravity. Keeping the well in front of me was impractical as well. It was like balancing a basketball on one finger while running forward at a full sprint.
+
+Using it with telekinesis was much more effective. Even then though, I could run faster on the ground than I could through the air. Practice made perfect though, so I ironed out the kinks as I tried keeping pace with Hod and Althea.
+
+I caught up to them as Hod walked up to the central market place of the village. It looked like there was at least a few thousand here, enough to make up a population. Shop keepers sold a few trinkets in a town square. Off in the outskirts of the town, a few small farms were spread out. A few of them even had pools sectioned off, each of them loaded with fish.
+
+As Hod approached the center of this whole fiasco, several of the town’s children ran up to him. He bent over, laying his hands on two of their heads,
+
+“Hod bring no gifts today. Hod bring friends instead.”
+
+The rag wearing children glanced at us with fearful faces. Althea squatted down onto her knees, waving at them,
+
+“Hey little guys. I’m Althea. The big, scary guy is Daniel. What’s your name?”
+
+The child hid behind Hod, “You…you are like the older Seekers.”
+
+She raised an eyebrow, but Hod smacked his forehead, “Do not insult our new friends. Apologize.”
+
+The kid teared up, “Sorry.”
+
+Althea glanced at him, “It’s ok, it’s ok. You didn’t have to do that.”
+
+Hod shook his head, “Hod knows you are ignorant. Hod do not blame you. Trust Hod when he says the child deserves a smack across his head.”
+
+I put a hand on Althea’s shoulder, “Let’s let it go.”
+
+Althea frowned, but she stood up before Hod pointed towards a larger hut. It was built into the side of the pillar holding the dungeon core. Hod announced his words,
+
+“Hod will explain these two. They own the stolen metal. Hod brought them here. They enact judgement. They give Garb just punishment.”
+
+Several of the nearby members bent their heads to us, saying, “Justice.”
+
+It was a ritual, like giving someone a prayer. Hod walked over towards the shack, glancing up at it. He cawed, a primal, animalistic sound. A gurgling replied. Hod bent down to a single knee. The others followed. From within the shack, a deformed member of their species hobbled up.
+
+Using a staff to support herself, a slender bird thing walked out. A giant tumor pulsed on her back, hidden by a thin sheet of fabric over her hunched back. One of her eyes pulsed with overflowing white energy. The other eye was covered in another bulging tumor over her head. She opened her mouth, drool falling from it,
+
+“Bring them in.”
+
+Hod nodded. He stood, turning to me with his hollow eyes staring into mine like voids,
+
+“Hod must confess…Hod cannot carry you up to her. Harbinger too heavy. Hod just nodded to elder so that Hod would sound cool.”
+
+Althea giggled once more as I facepalmed. I shook my head before running up and jumping towards the hut. The ground cracked as I did so, and Althea leapt up with a grace my weight couldn’t match. Both of us landed at the same time, walking up to the deformed elder.
+
+Behind her, other deformed members of the species sat there. I peered back there, curious about what caused it. The elder standing up at the front glanced back at them with me. She turned back to me, “You wonder why we are deformed?”
+
+I coughed into a hand, “Ahem, uh, yes. Sorry if that’s rude.”
+
+She shook her head, “Of course you are curious. There is no sin in that. I am Jass. I will tell you. Come.”
+
+She walked into the shack, so Althea and I followed. The other members looked worse for wear. Some of them just sat and twitched. Others stared into nothingness as if returning from war. Jass spoke as we walked,
+
+“Elders are Seekers who have been to the surface for too long. We wear masks found long ago. They protect us from the surface’s corruption. They do not protect us forever. Once the tumors begin, they do not relent. Not until after we have been consumed.”
+
+We reached a doorway in the back. From it, feathers and an empty head plate hung. Jass opened the door, “Ever since the cataclysm, the air at the surface does this to us. We are locked here now. Our brethren are the mindless monsters you saw above.”
+
+Remembering the vultures, I winced. Having your species turned into that…well, it would be just like what Yawm has planned humanity.
+
+Jass took her time, walking down each step one foot at a time, “Upon the pillar, our idol drains the corruption. We elders stay near it, prolonging the inevitable. Hod will join us one day. He is brave, despite his odd way of speaking. He means well.”
+
+A light grin traced her lips. She was like a grandma who was too stern to admit she loved her grandson. It pulled a bit at my heartstrings, I tell yah.
+
+Jass reached the bottom of the stairs, reaching a room with shackles spreading out from an adult bird person thing. I turned to Jass, “What do you call yourselves?”
+
+“Eltari. Here is Garb.” She pointed at Althea’s rifle in the corner of the room, “That is yours, I presume?”
+
+Althea paced up to the rifle, reforming her hand into it. The elder’s eyes opened wide, “She is a shifter then? Impressive. The weapon suits her.”
+
+A second later, and a layer of her skin grew over the rifle. From the skin, invisibility inked onto the rifle, making it disappear with her. I shook my head, “Jesus Christ. Ridiculous.”
+
+Jass walked over to Garb, “You both decide his punishment then. What will you have done to him.”
+
+I gave a hard glance at Garb. He was shirtless, showing what was underneath everybody’s capes. They had humanoid muscles, just in different proportions. The chest for instance, the muscle inserted all the way down his ribcage, creating a fan of muscle. Muscle piled onto his back as well, but his arms were stretched out and remarkably thin.
+
+With a thick, muscled neck, the Eltari looked like giant birds of prey. They looked deadly and dangerous. I walked up, looking at him. He glanced up at me, speaking in a gruff voice,
+
+“I mean no harm. I want food for family.”
+
+The elder snapped, “You have no family. I will not let you lie to them.”
+
+Garb stared to the ground. I turned to Althea, “What are you thinking?”
+
+She shrugged, “I don’t care. He won’t be our problem after this.”
+
+I turned back to him, “Alright, if I hear you stole something again, I’m going to snap your beak off and shove it up your ass. Wherever that is.”
+
+The elder pulled out a key, walking over and unlocking the shackles. Garb walked up to me feet, “Thank you, walking nightmare. May your evil spread forever.”
+
+I rolled my eyes as I turned around. After walking back up and back out to the front of the shack. I glanced up at the pillar. Hod landed beside me,
+
+“Hod also think it beautiful.”
+
+I pointed at it, “What would it take for you guys to give that to us.”
+
+Hod’s glance turned hard. He seethed his words, “You would take our idol? Why?”
+
+I shrugged, “Your planet, it’s gone.” I grinned, “I know a planet that still has a fighting chance though. That’s only if you guys are willing to join the fight though.”
+
+Hod’s glance lowered, his eyes cut into an angle. As he glared, he opened his hands and flared his talons, “Hod and the village will not let you steal. Hod will tear you apart.”
+
+Jass walked up to him and lowered his hands with her cane. She shook her head, “Now Hod, there is one way we may leave.”
+
+I raised an eyebrow, “What would it take?”
+
+She pointed upwards, “You must Kill the king of Drikah.”
+
+I glanced at althea, “Shouldn’t be too hard, right?”
+
+Jass shook her head, “No, not her. Only you.”
+
+My shoulders drooped, “Oh….Well then…how big is it?”
+
+Hod murmured, “It’s shadow could swallow the sky.”
+
+I turned back to Jass, “Mind explaining why I have to fight it alone?”
+
+She puffed her chest, “She is like us elders, bathed in corruption. She will draw in our deformed brethren during your battle. If not for her connection with you, then the air would infest her lungs just as it has ours.”
+
+She tapped my chest with her cane, “In you, there is purity. There’s a void, a kind of hunger that is impartial. I do not trust you or her, but I do trust that hunger.”
+
+Hod snapped, “Hod disagree. How can elder give them core? Eltari die. Hod die. All die.”
+
+She glared at him, causing Hod to take a step backward and curl up. She narrowed her eyes, “He spoke of his world dying, yes?”
+
+Hod nodded. She continued, “Then if he can purify the king of drikah, he can purify this world. Simple, is it not?”
+
+Hod nodded, “Yes elder. Hod sorry. Hod not mean to interrupt.”
+
+She turned to me, “The King of Drikah always reaches the top of the sand first. You may have seen it.”
+
+My shoulders drooped, “Yeah, the fucker tore off my foot. I have to purify that?”
+
+She nodded. I glanced up at the core, a piece of me just wanting to reach out and snatch it away. I glanced at Hod then at the other Eltari. With a bit of training, they could bolster our fighting force tremendously. Their mobility would be amazing in the sewers, letting them run their own strike teams to fight back against the quarantine area.
+
+Not only that, but they seemed like good people. Primitive and a bit backwards, but all in all, fine people. Taking the core meant they would all die, every last one. Doing something like that, committing a genocide just to avoid killing a giant sandworm…man, I’d have to be the ultimate scumbag.
+
+I glanced towards the ground, balling my fists. It would take time and a strategy, but I would manage it.
+
+It was time to take down a gigantic motherfucking sandworm.

@@ -1,0 +1,233 @@
+---
+id: 626f6738-5668-540e-8661-d3a6e0232c0b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 640 - All That She Wants"
+slug: 0641-chapter-640-all-that-she-wants
+partOf: mythrans-master-of-all-continued-completed
+position: 641
+ownLength: 2734
+unit: words
+publishedAt: 2018-07-16
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/234599/chapter-640-all-that-she-wants"
+royalRoadId: "234599"
+---
+
+When Dark Elf Ren was finished explaining everything to Lylyth, the generals, and the advisors, none of them could find any fault in the plan.
+
+“R-Ren, I'm sorry.” Lylyth said. “I shouldn't have tried to dismiss your plan without even hearing it first.”
+
+“Are you going to dismiss it?” Dark Elf Ren asked.
+
+“No, it's a brilliant plan.” Lylyth said sadly and turned towards the two-way mirror. Alynna was pressed up against it, and her face had a look of deep happiness as the High Lord plowed into her. She was only an elfling and smaller than half his size; but, she accommodated all of him and was currently experiencing ecstasy.
+
+“Then what's wrong?” Dark Elf Ren asked.
+
+“My arrogance has cost me this version of you.” Lylyth said and leaned her forehead against the two-way mirror. “To be shown someone who can be my equal... someone like me who...” She sighed and turned to look at him. “Will I never be happy?”
+
+Dark Elf Ren stepped forward and cupped both sides of her face. “My Queen, I'm not trying to punish you.” He said and gave her a kiss. “Even like this, I cannot be by your side.”
+
+Lylyth closed her eyes. “My people won't accept it, even though you are more worthy than anyone else I have ever met.”
+
+“Plus, I can only keep this form for about 5 hours.” Dark Elf Ren said. “Not even casting Permanency will work, since it's a function of the helm that I must change back when the time expires.”
+
+“You said this will be the first and last time I will see you as my counterpart.” Lylyth said and opened her eyes, and Dark Elf Ren saw the deep sadness there. “How can you hurt me like that?”
+
+“My Queen, this isn't me.” Dark Elf Ren said and let her face go. “Being this way is what's hurting you.”
+
+“No.” She shook her head. “Showing me everything I ever wanted and then telling me I'll never see it again. That's what's hurting me.”
+
+Dark Elf Ren sighed and tried to reach for her. “My Queen...”
+
+“No.” Lylyth turned away from him. “Don't touch me.”
+
+Dark Elf Ren stepped close behind her and wrapped his arms around her abdomen. “Lylyth.” He said in his gravelly voice, and she shivered. “You're missing my point.”
+
+“What... what's that?”
+
+“Take off your clothes.” Dark Elf Ren said and then two large phantom spider legs appeared in front of her and their claw-like talons tapped on her breastplate. Lylyth caught her breath at the sensation, and her hands reached out and caressed the phantom legs.
+
+They are just like mine. Lylyth thought.
+
+“I'm going to give you exactly what you want.” Dark Elf Ren whispered in her ear, then bit it.
+
+“Ohhhh!” Lylyth moaned and shivered again, and he licked the bite to heal it.
+
+“I'm going to make love to you right here, right now.”
+
+“R-Ren...”
+
+“In this form, you and I are now highly compatible.” Dark Elf Ren said and his phantom spider legs tapped very fast on her breastplate. “You know what that means, don't you?”
+
+Lylyth's breath sped up and her heart beat very fast. “T-Tell me.”
+
+“It took me a while to figure out what you really wanted. Now that I know, and have the ability to give it to you, I hope you're ready for it.”
+
+“S-say it.” Lylyth moaned as the spider legs sped up their tapping.
+
+“I'm going to give you a child.” Dark Elf Ren said, and Lylyth gasped at the truth in his words.
+
+“NO!” One of the advisors yelled. “My Queen, don't let-hm mhm mm!”
+
+One of the spiders covered his mouth with webbing.
+
+“Thank you.” Dark Elf Ren said to the spider and let the phantom spider legs he was generating fade away. “Now...”
+
+Lylyth stored her armor and left herself in just the bodysuit. Dark Elf Ren growled in her ear in frustration and she shook from pleasure. He slipped his hand between her legs from behind and gripped the bodysuit near her special place, then pulled. Lylyth made a girly squeal as the bodysuit tore away and exposed her completely soaked opening. Dark Elf Ren stored his clothing as he moved Lylyth over to the two-way mirror.
+
+“GREAT VASALOR!” Lylyth yelled as Dark Elf Ren joined with her from behind and she braced herself on the two-way mirror, right in front of where Allynna was braced on the other side. It was like they were staring at each other as both women were pleasured against the glass. Dark Elf Ren reached around and gripped Lylyth's breasts, then pulled the bodysuit apart.
+
+Lylyth moaned as he massaged her breasts and kept making love to her, and they both felt the swirling emotions from their unwilling audience. The audience's fear took a backseat to their disgust, need, desire, hatred, loathing, titillation, and arousal as those emotions filled the room instead.
+
+Lylyth's phantom spider legs formed and braced against the wall and pushed her out to meet every thrust of Dark Elf Ren's, and his phantom spider legs formed to grab onto the wall and pulled him in that much harder.
+
+“OH... OHHHH...” Lylyth moaned as Dark Elf Ren sped up his movements, and then he opened his mouth and bit deep into her neck. “AHHHHHHHHHHH!”
+
+Her whole body bucked and convulsed from the overload of pain and pleasure and she had a mind-blowing orgasm. Dark Elf Ren waited for several moments to let her calm down, then extracted himself.
+
+“In Vasalor's name, don't stop.” Lylyth whispered. “Please, don't... don't stop.”
+
+Lylyth's limbs had gone limp and she couldn't hold her own weight, and even her phantom spider limbs hung down loosely. Dark Elf Ren stopped biting her and carefully turned her around to face him. He could see that she was a little bleary-eyed and wasn't really seeing him, until he entered her again and it woke her up.
+
+“GAH!” Lylyth yelled as Dark Elf Ren went in right to the hilt, then he bit the same spot on her neck. He moved in and out slowly, so she would feel every inch of his doubled size, and he could feel it was driving her crazy. “OHHHH!” She yelled as she had another orgasm, and he felt that her body was ready for him now.
+
+Dark Elf Ren licked the wound on her neck to heal it, then looked her in the eyes. “It's time.”
+
+“R-Ren...” Lylyth's voice was filled with both joy and sadness. Joy for what he was about to give her, and sadness because she now knew why this would be the only time Ren would take this form for her. It was because he only needed to do it with her once.
+
+Lylyth kissed him passionately, like she had never kissed anyone before and the only thing in the world that mattered was him. Dark Elf Ren pumped his hips almost faster than the eye could see and activated his mastered Hail Of Arrows ability. It increased the number of projectiles fired within his Aura by 10, and then he finished inside of her.
+
+Lylyth broke the kiss and screamed as loudly as she could. “RENNNNNNNNNN!”
+
+For almost 10 minutes, they stayed that way with him still inside of her, braced against the wall, and Lylyth panted to catch her breath the whole time.
+
+“Ren.” Lylyth finally said in a normal voice. “Thank you.”
+
+Dark Elf Ren disengaged from her and repaired her armor bodysuit in the same instant.
+
+“What did you... oh.” Lylyth understood what he was doing. “Thank you.”
+
+“It's easier than having a huge mess to clean up.” Dark Elf Ren said. “Plus, keeping as much inside as possible doesn't hurt.”
+
+Lylyth nodded. “Will you really not do this with me again?”
+
+“I don't know if I can top this performance, Lylyth.” Dark Elf Ren said and grinned.
+
+“I don't care if you can do it better!” Lylyth pouted.
+
+Dark Elf Ren chuckled, and his voice sent a shiver right down her spine.
+
+“I love that sound.” Lylyth said, then covered her mouth with her hand.
+
+“I love that I can get the big bad Queen of the Dark Elves to react like a woman.” Dark Elf Ren said and equipped his High Elven Court Uniform.
+
+“I always react like a woman.” Lylyth said and dropped the hand, then made it into a fist. He didn't react at all as she swung it up towards his face, then she flattened the hand out and stroked his cheek, then let her hand run through his long hair. “You didn't even flinch.”
+
+“I was waiting to see if you would break your hand or not.” Dark Elf Ren said, took her hand and kissed it. “I need to go and visit Tiatha, and then you can implement the plan.”
+
+“I honestly don't think the High Elven Council members that we haven't converted are going to agree to this.” Lylyth said, doubtfully as she equipped her armor.
+
+“Believe me, if we pull off the charade, they are going to jump through hoops to get back home.” Dark Elf Ren said. “I'll be back in an hour.”
+
+“An hour?” Lylyth thought back to what they just did. “But... you...”
+
+“You didn't need any foreplay to warm up.” Dark Elf Ren said, then laughed. Lylyth visibly shook from the sound, and that made him laugh more. “Maybe I did do foreplay and I just didn't realize it.” He said, and Artemis followed him out of the room.
+
+*
+
+A few minutes later, one of the generals spoke into the silence. “My Queen.” He said. “Can you get us down?”
+
+“Hmm?” Lylyth turned away from the two-way mirror and looked at the wall that the generals and advisors were still webbed to. “Oh, yes.” She waved a hand and the spiders around the Dark Elves stuck to the wall cut the webs holding them in place. The Dark Elves fell to the floor in a heap, then stood up and cleaned themselves off.
+
+“I cannot believe you let him...” One of the generals tried to say, and a phantom spider leg appeared and pierced his chest above the heart, which barely missed killing him instantly.
+
+“He is the Royal Consort and he performed his duty admirably.” Lylyth said and pulled the leg out. “If I didn't need you alive to carry out the plan, I would have decapitated you instead.”
+
+“But... My Queen...” The general gasped as blood flowed out of the wound.
+
+“Yes, I know. He was right.” Lylyth said. “Even though I love him, he could never be more than the Royal Consort.” She said. “Husband? Ruler?” She shook her head. “No, he gave me what I really wanted.” She said and rubbed her belly.
+
+*
+
+Dark Elf Ren stopped walking in the hallway and activated the Polymorph Helm. He felt extreme pain as the process was reversed, and his Dark Elven features melted away like water and he reduced in size back to his normal height.
+
+“I don't know how you can do that.” Artemis said when Ren was back to his old self. “I felt all of your pain, and it was excruciating.”
+
+Ren shrugged. “I've felt worse.” He said. “Plus, it's only for a few moments.”
+
+Artemis chuckled and put an arm over his shoulder. “You do realize that people fight their whole lives to not have that kind of pain, right?”
+
+“They don't know what they're missing.” Ren joked, and she laughed.
+
+“Do you think you'll need help with the Dark Elf healer?” Artemis asked.
+
+“Not at first.” Ren said. “I'll ask if she minds you being there, then we'll see where things go.”
+
+They walked through the corridors to Tiatha's room and Ren knocked on the door. Barely a second later the door opened and Tiatha was there with a huge smile.
+
+“My King.” She said seductively.
+
+“Do you mind having an audience?” Ren asked and she looked at Artemis.
+
+“If you implied that we are going to sleep together, then yes, I mind.” Tiatha said and took his hand. “I have yet to share a bed alone with you. If this is to be our first time, I want all of your attention for myself.”
+
+“I understand.” Ren said. “Artemis, guard the door.”
+
+“Yes, My King.” Artemis took up the sentry position by the door.
+
+“We may need assistance later.” Tiatha said and smiled at the tall metal woman, then she eased Ren into the room and shut the door.
+
+Half an hour later the door opened slightly, and Tiatha poked her head out. Her long black hair was disheveled and a complete mess, and her face still had a huge smile.
+
+“Need a hand?” Artemis asked.
+
+“He keeps trying to please me and when I try to return the favor, he keeps distracting me.” Tiatha said. “I need you to distract him before he can distract me.”
+
+Artemis chuckled. “Tied him down, did you?”
+
+“With an Unbreakable Chain spell and shoved my underwear in his mouth to keep him quiet.” Tiatha said and opened the door all the way, and Artemis laughed at what she saw.
+
+“What spell is that?” Artemis asked as she stepped into the room and Tiatha shut the door.
+
+“It's an old spell my father used to use on me when I was a child.” Tiatha said. “Tickle Monster.”
+
+Ren had tears in his eyes from laughing so hard as a dozen feathers tickled his arms, feet, neck, wrists, and ankles. “HMMM! HMMMMMM!”
+
+“I think you can call off the Tickle Monster.” Artemis said and the feathers disappeared.
+
+Ren was panting heavily, but he wasn't struggling against the chains holding him. “Hm! Hmm!”
+
+“Hush, now.” Tiatha smiled and walked over to the bed. “I had to punish you for not letting me have my way.”
+
+“Hm.” Ren grunted.
+
+“I'll keep him busy.” Artemis said and stored her armor as she climbed onto the bed to straddle his face. “Have fun.” She said and pulled Tiatha's underwear out of his mouth.
+
+“Hey, wait a min-mmhmm.” Ren mumbled into her special place, and it tickled her.
+
+“Keep talking, Ren.” Artemis said and rocked her hips. “More! Keep talking!”
+
+Tiatha almost laughed as Ren kept mumbling into the metal woman, then she remembered what she wanted to do. She climbed onto the bed and started to please him with her hand and her mouth, and it made Ren moan and mumble even more, which made both Artemis and Tiatha very happy.
+
+Half an hour later, the door to the room opened and Ren and Artemis stepped out. Tiatha, still naked, stood behind them.
+
+“My King, you may visit at any time.” Tiatha said formally, even though her hair was still a complete mess. “Artemis, you are a great tag team partner.”
+
+Ren laughed. “I should be angry that you tied me down, but that Tickle Monster spell was too good to get angry over.”
+
+Tiatha smiled as she took out a piece of parchment paper and handed it to Ren. “You may have this as long as you never use it on me.” She said. “Only my father, who has been dead for years, had permission to do it.”
+
+Ren opened the parchment and saw it was the directions and requirements on how to perform the spell. “Tiatha, I don't know what to say.”
+
+“Say you will meet me here again someday.” Tiatha said.
+
+Ren chuckled and stored the parchment, then stepped close to her. “How about you come to my county and see me next week?”
+
+“N-next w-week?” Tiatha asked, surprised.
+
+“Sure.” Ren said. “I've got this big arena battle to fight, and having you there would be an honor.”
+
+“I... I would be delighted.” Tiatha said. “Thank you, My King.”
+
+“No need for titles between us.” Ren said and kissed her. She moaned into his mouth, and a few moments later he broke the kiss. “Just call me Ren.” He said, then he and Artemis walked down the hallway and back towards the special holding cell where Allynna was.
+
+I thought he was just going to give me a false promise about contacting me later. Tiatha thought in surprise. He wants to see me again, even though we already had sex! She blinked her eyes as Ren and Artemis disappeared around the corner. That's amazing!

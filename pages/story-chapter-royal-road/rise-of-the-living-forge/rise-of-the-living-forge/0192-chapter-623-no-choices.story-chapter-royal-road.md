@@ -1,0 +1,153 @@
+---
+id: f4a5142e-f977-53e0-b06b-4e5b655b7fc8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 623: No Choices"
+slug: 0192-chapter-623-no-choices
+partOf: rise-of-the-living-forge
+position: 192
+ownLength: 1919
+unit: words
+publishedAt: 2026-07-29
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3742016/chapter-623-no-choices"
+royalRoadId: "3742016"
+---
+
+Arwin’s words failed him. But the more he looked at One, the more sense the older man’s words made. His features had been carved by battles and years, but the resemblance was there. And it wasn’t a weak one. Even if that hadn’t been enough… there was no denying the armor he wore.
+
+It was definitely related to Blake’s.
+
+“Why?” Arwin managed.
+
+“That’s a very broad question, Arwin,” One replied, gaze unwavering. “Why did I have a son? Because I wanted one. Why did I let him die? Because I was powerless to stop it from happening. Why did I wait so long to reach out to you? Because you weren’t ready. Or because I thought you weren’t. Do you think your mind could have been swayed back when you were still the Hero?”
+
+Arwin didn’t respond immediately. He wasn’t sure what the answer to that question was. Back when he’d fought for the Guild, before he and Lillia’s classes had been changed… Arwin had been tired. Exhausted. But he’d still believed in what he fought for.
+
+What would I have done if One had come and told me everything that I now know? If he’d told me even a small portion of it? Would I have believed him?
+
+Arwin’s jaw worked. At best, he would have gone to confront the Guild on the spot. He’d have shown up demanding answers… and they would have removed him. Just like they’d removed every single Hero and Demon Queen that had come before.
+
+“No,” Arwin said. “Not enough.”
+
+“Not enough,” One repeated. A bitter laugh fell from the corner of his mouth like a lump of lead. “That’s been the answer often in my life. Don’t let it be the same for yours.”
+
+“How did you sit on this for so long?” Arwin asked. “Does anyone else know? The rest of Setting Sun?”
+
+“They know,” One said simply. He looked down into his untouched tea. “There isn’t much I keep from them. And it hurts. But we all know what we’ve gotten into. We know who we’re against. A war against the Guild will not go without death. Not one like this. But first, drink. Calm yourself.”
+
+“I’m calm,” Arwin said. “We—”
+
+“You are not,” One replied. “And you should not be. Your hands are shaking.”
+
+Arwin glanced down. To his surprise, One was right. His hands were clenched so tight that his fingers had started to turn white from lack of blood flow. He forced himself to let them open.
+
+“I’m fine.”
+
+“Drink,” One said. “It is normal tea. Nothing magical. We can’t afford anything like that. There is still much that we must do today. As much as I would have liked to spend an entire day simply speaking with you and telling you of what could have been… we have our responsibilities. This is not a social visit.”
+
+Arwin went to pick up the cup, then paused. His hand was still shaking. He set his jaw. Then he picked the cup up and took a drink.
+
+“There,” Arwin said, setting it back down. He interlaced his fingers and set his hands on the table. “I drank. Now what?”
+
+“We wait,” One replied.
+
+“What? Why?”
+
+“For you,” One replied. “It takes time to gather oneself. Especially when something painful is pulled up. Or would you prefer to barge ahead blindly and simply hope that things work out the way we wish them to?”
+
+Arwin paused for a moment. Then he took another sip of his tea. He paused for a moment. One was right. He was unsettled. But right now, he couldn’t afford to be. The lump in his throat couldn’t be there distracting him when they were focusing on how to make sure nobody else died.
+
+Blowing out a slow breath, Arwin set the cup back on the table. He let time slip by. The seconds turned to a minute. One said nothing. The two of them simply sat in silence.
+
+Then, finally, Arwin gave One a nod.
+
+“Okay,” Arwin said. “I’ve gathered myself. About as much as I’m going to be able to, at least.”
+
+“That’s all one can ever ask for,” One said.
+
+Arwin paused. Then his eyes narrowed slightly. “Was that—”
+
+“A pun. Yes. One of the benefits of going by this name.”
+
+To Arwin’s shame, he let out a small snort. “Fair enough. Why did you call me here, One? We’ve both made it more than clear that your goals are beyond just a simple introduction.”
+
+“They are,” One said with a nod. “The reason I called you here today is to discuss about the Guild.”
+
+“Not much surprise there,” Arwin said dryly.
+
+“No. There is not,” One agreed. “You have seen what the Guild has done, yes? The Dungeon Breaks. The chaos.”
+
+“We’re aware of it,” Arwin said with a nod. “My information source thinks that the Guild is panicking. They’re losing control. That’s your doing, I take it?”
+
+“To some degree,” One said. “Not as big of one as I would like to claim. But some. I will get to that later. Presently, I need to be clear. You are aware of what this means for the guild?”
+
+“They’re unstable,” Arwin said.
+
+“And when a tower, no matter how great, is unstable — it can fall.” One’s gaze bore into Arwin’s. “You understand, yes? The Guild is in a position to topple. For the first time since anyone can remember, the cloth with which they have bound the entire world is fraying. We can end their reign.”
+
+“I know,” Arwin said grimly. “And we’re already taking steps to deal with it. We’ve determined that the Guild has some powerful entity stored within a hole inside the Guildwall. We don’t know why they’re working together, but that’s where all the magic they’re stealing with their daggers is going. And that entity is somehow corrupting a Leyline.”
+
+“What?” One asked, his face going pale. “What do you mean?”
+
+“Wait.” Arwin blinked. “You haven’t figured this out already?”
+
+“Deepmind,” One said. “That is the name of the entity within the hole. We know of it. But we have never determined what its powers are or how it is helping the guild. How have you concluded that it has access to a Leyline, much less that it is destroying one? I don’t believe such a thing is even—”
+
+“It’s possible,” Arwin said flatly. “You can trust me on that. We’re completely certain of it. This Deepmind is corrupting a Leyline. That’s how they make magic stealing daggers. And, somehow, the Mesh doesn’t seem to be aware of it.”
+
+“How is that possible?” One’s brow furrowed tightly. Then his eyes went wide. The man’s lone eye snapped over to Arwin. “But… if it is…”
+
+“The Guild is stealing power and hoarding it,” Arwin said with a grim nod. “The whole cycle… it doesn’t need to exist. The reason the Mesh is missing energy isn’t because there’s some problem with the world. It’s because they’re taking it and never giving it back.”
+
+“Godspit,” One whispered. “It makes sense. If they’ve been doing this in secret for all these years… how much power could they have stolen? How great is the damage to the world? I didn’t think that anyone could even think to harm the Mesh. But I fear you must be right. This aligns with everything we have already found.”
+
+“Do you know why they’re doing this?” Arwin asked. “Because that we haven’t figured out yet.”
+
+One shook his head. “No. But I fear the reason is far darker than we would wish. It suspect it is merely power. Great strength corrupts. And those on top never wish to let it go. The Guild kills the world purely just to maintain the order it has established. That is my belief.”
+
+“You know, I’m not nearly as disappointed as you might think. That’s exactly what I would expect the Guild to do.” Arwin let out a bitter laugh. “But yes. We know that now is the time to strike. We’re trying to find a way to access the Guildwall. We need to deal with this Deepmind. The Guild clearly needs it. So if we take it out…”
+
+“They’ll crumble,” One finished.
+
+“Do you know what it is?” Arwin asked, a trickle of hope entering his words.
+
+“No,” One replied. “I’m sorry. We’ve wondered the same thing for a long time. But beyond a name, we’ve found nothing at all about it. The Guild has kept their secret well.”
+
+Arwin’s heart sank. “Damn.”
+
+“But,” One said, the corner of his lip curling up. “That doesn’t mean we don’t have cards of our own. With the Guild as destabilized as it is now… while we might not know what the Deepmind is, we can get you to Guildwall. Deep into Guildwall.”
+
+Arwin’s eyes widened. “Seriously?”
+
+“Yes,” One said. “And without alerting the Guild as well. But if we do, you won’t have much time. Anything that happens there isn’t going to be quiet for long.”
+
+Arwin’s heart started to beat faster.
+
+“Yeah. But if we can get to Guildwall… that solves almost half of our problems. It’ll let us investigate the hole and figure out what’s in it. Figure out how to deal with it. Can you get us back as well?”
+
+“If you are fast enough,” One said. “If necessary, we will fight to buy you time. But if that happens…”
+
+“It’s all out war,” Arwin finished. “The Guild will know. We’re prepared for that possibility.”
+
+“As are we,” One said. “But it will be a very short war if you do not discover a way to deal with the Deepmind. Our hopes will rest on the Menagerie finding a way to destroy it.”
+
+“We can do it,” Arwin said. “If we have enough time, we can do it. But we’re not ready yet. Even if we were to find it now—”
+
+“More need to be Sunsetted,” One said with a nod. “Yes. I know. Move quickly. Efficiently. Send a second one of your people to begin preparations to be Sunset. We will accommodate for it. The Guild will need time to fully destabilize the kingdom so they can try to take control back. Things will get far worse before they get better.”
+
+“Which… somehow, is a good thing for us.”
+
+“Somehow,” One agreed with a grim half-smile. “Move quickly, but not foolishly. It is very likely we will not get a second chance to make our move.”
+
+“I don’t think we’ll need that long,” Arwin said, brow furrowing in thought. “But I don’t want to move people before they’re ready. I need to outfit everyone properly as well.”
+
+“As you should,” One said with a nod. “Good. Had we known the Deepmind was consuming the Mesh itself… perhaps we could have ended this long ago. But there is nothing to be done over could haves. It seems we have a plan. And until you are prepared to execute alongside us, we will ensure the Guild remains distracted for as long as possible.”
+
+“I’d say we do,” Arwin agreed. “That’s it, then?”
+
+One let out a small laugh. “That’s it. Only the gargantuan task of taking down the Guild itself. Simple.”
+
+“Optimism never hurt,” Arwin said. “And the guild isn’t going to be this badly destabilized again anytime soon. They’ll be ready. This is our one opportunity. So… it’s not like we have much of a choice.”
+
+The other man’s face turned deadly serious.
+
+“No,” One said. “We don’t.”

@@ -1,0 +1,175 @@
+---
+id: 9f6698bf-2422-5a6c-b90f-a64d05424155
+page-type-slug: story-chapter-royal-road
+title: "Chapter 106: A look in the past (3/3)"
+slug: 0106-chapter-106-a-look-in-the-past-33
+partOf: phoenix-ascension-cultivation-litrpg
+position: 106
+ownLength: 2014
+unit: words
+publishedAt: 2026-03-29
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3207575/chapter-106-a-look-in-the-past-33"
+royalRoadId: "3207575"
+---
+
+She returned with her children, holding one hand of each, to their old house, cleaned and proper, with a hot meal waiting for them on the fire, and lots of sweaters, scarves, and gloves arranged neatly on the bed.
+
+“Mom, you made all of these for us?” Fa Hue asked, picking up a ping scarf and putting it around her brother’s neck.
+
+“I… had a lot of free time.” Fa Xiaolan said with a gentle tone, grabbing another scarf and putting it around Fa Hue’s neck. “How does it feel? Do you like it?”
+
+“I love it!” Fa Chen yelled and jumped to kiss her on the cheek, and Fa Hue did the same.
+
+“Thank you, mom!”
+
+She laughed and grabbed another sweater she had made for them, one with a sword pattern, and put it on Fa Chen. However, the sleeves were a little too short, and the entire thing was too small.
+
+“You’ve… grown so much.”
+
+“En! I did! Not only that, look!” He pointed at a chair and made it levitate. “I’m already at the third layer of Qi Condensation! My teachers told me I’m a genius!”
+
+“Me too!” Fa Hue said, and put out her hand, channeling a wisp of mana. “Look, Mom! Look!”
+
+“I’m looking, I’m looking.” She said, forcing a smile on her lips. So young, yet they’ve already surpassed their father. At least, the father that she knew.
+
+“Mom is proud of you two.” She hugged them to hide her sudden grief and stood up, quickly turning around and grabbing a bowl. “Look, eat. You must be hungry.”
+
+“En!” The two said at the same time. “They feed us pills and yucky elixirs at the academy, but they are supposed to make us strong.” Fa Chen continued, then Fa Hue added, “But Mom’s cooking is still the best.”
+
+Fa Xiaolan could hardly hold the spoon steady as she heard her daughter’s words, and she regretted that she had no third arm to wipe her tears.
+
+Placing the bowl on the table, she wiped her face with the apron.
+
+“Mom, what’s wrong? Are you crying again?”
+
+“No, a bit of soup got on my face, that’s all.”  She said in a muffled voice and grabbed another bowl, putting one serving with extra meat for her son, and yet another for her daughter.
+
+Grabbing a piece of bread, she broke it in three and gave one to each of her children, saving the smallest portion for herself.
+
+Fa Chen frowned. “Mom, do you not have any meat?”
+
+“Mom already ate some, honey. Don’t worry and eat, you’re growing, so you need to eat as much as you can.”
+
+“But Mom, it’s not fair. We’re not lacking money, are we? Why can you not have meat?”
+
+“But I did have, just before you came. I was too hungry, see.” She said and grabbed an empty bone.
+
+Both her children frowned, looked at each other, and began eating while smiling.
+
+Fa Xiaolan sighed internally. How could she tell them that money wasn’t the issue, but the fact that the village had very little meat?
+
+Ever since the attack so many years ago, the village had been lacking in cultivators who could hunt, and whatever they could bring back was not enough. The truth of the matter was that they just couldn’t sustain their current way of living, hence why the villagers were really happy after seeing just how many cultivators had awakened.
+
+Fa Xiaolan could say little to that, as she knew her children were destined for greater things.
+
+Destiny…
+
+She chuckled bitterly to herself as she started hating that word more and more. Destiny, what a joke.
+
+Once her children finished eating, she cleaned the table and washed the dishes while they couldn’t stay put.
+
+“Mom, look!” Fa Chen yelled as he started levitating some random household objects. Their mother would have liked to look, but could not bear to. Instead, she pretended to acknowledge her son’s effort with empty words, focusing on washing the dishes.
+
+Her mind had also wandered, thinking about their few resources, and how the sect that was supposed to be protecting them had failed to do so at every step of the way.
+
+If she recalled correctly, their name was the Dark Valley Sect, though she wasn’t sure why they’d chosen such an eerie name. They were, allegedly, a righteous sect. Of course, she was scarcely inclined to believe that.
+
+No sect was righteous.
+
+Her husband told her stories. Whenever he remembered something, or maybe he faked it, but really wanted to drive that lesson into her mind. No sect was righteous; they all had their own motives, and goodwill doesn’t exist, only benefit.
+
+That was applicable in both the mortal world and the immortal world. As for why the villagers saved him?
+
+Because he looked strong, because he had potential, because he could be of use. The fact that he ended up falling in love with Fa Xiaolan had nothing to do with benefits, but with mere emotion and a desire to belong.
+
+No matter how much she pushed him, though, he never mentioned where he’d come from.
+
+With a sigh, she turned toward her children and sat down at the table, smiling. They started talking about all that they did at the academy, how they learned the letters and the numbers, and how they were taught history and geography.
+
+Most important of all, though, was how they were taught the act of gaining immortality through cultivation.
+
+Fa Xiaolan was sure the academy was going to indoctrinate them into being perfect villagers, who would serve the village with all their heart, much like all the people who died fighting that boar had been.
+
+But there was little she could do, besides hope that her children were smarter than that.
+
+Alas, they were happily chatting about being heroes. Fa Chen is more than Fa Hue, but his sister would follow her brother anywhere. Fa Xiaolan loved that about her two children, as she knew that, at the very least, they could always depend on each other.
+
+Time passed, and the three spent as much time together as possible. Walking through the market, hiking the mountains, collecting flowers and fruit, picking wild berries, and most of all, enjoying their time together.
+
+Fa Xiaolan wasn’t sure when she could do that again, as holidays were few and far between. And especially so with the announcement the village head made just a few hours ago.
+
+The Dark Valley sect was going to visit the village.
+
+It was a routine inspection, randomly done every decade or so, to check up on the state of the village and villagers.
+
+And most importantly, to scout for any talented children.
+
+During such times, the village head would hide the cultivating children inside the academy, where a sort of sense-blocking formation had been set up.
+
+It was a gamble,  however, as such a thing could not work all the time, or against anyone. Thankfully, only ‘weak’ cultivators were sent to check up on the village, as Foundation Establishment and above were busy with other matters.
+
+However, Fa Xiaolan had a bad feeling about this visit. Somehow, she knew that something would go incredibly wrong, and she could only hope that her children would be safe.
+
+When the time for them to go into hiding came, she felt wronged. Not only because their short holiday had been cut short, but also because of her gut.
+
+But there was little she could do.
+
+Her children left alongside the other young ones, and she returned to her home. There was nothing more for her to do outside, and the tears she’d been holding back finally began to flow as she clutched her bed.
+
+It was unfair, it was painful, it was wrong. She’d barely had time to see her children grow, and now they were taken away from her for some grander goal. She didn’t give a fuck about it, but what could she do?
+
+She wept until evening came. A presence awoke her from her sorrowful daze, and she knew that the cultivator had arrived.
+
+But something was wrong.
+
+It wasn’t a normal cultivator, at least not of the weak variety. That one had a powerful aura, one that she felt somewhat familiar. It was then that she realised why her gut was telling her that something awful would happen.
+
+Because a Foundation Establishment Expert had come to visit their village.
+
+She walked out and noticed that the sky was darkening. Swallowing, she took a few steps and watched from her garden as a man riding upon a flying sword descended toward the middle of the village.
+
+At first, she watched through the buildings, waiting for him to leave. But after a few minutes, his senses spread out again, that time more aggressive than before. She fell to her knees, barely holding on by using the fence. The cultivator’s pressure was too great, too powerful, too imposing.
+
+She knew that if he wanted, he could slaughter her small village with a flick of his wrist. However, Fa Xiaolan wasn’t sure what had happened for him to suddenly get so angry.
+
+Then, she understood.
+
+The earth shook as the muffled sound of destruction echoed into the distance, toward where the academy was hidden away. Fa Xiaolan couldn’t see what happened, but the vibrations reminded her of an earthquake.
+
+But a darker thought passed through her mind as she truly realised where the sound was coming from. Not only could she hear the destruction, but she could see the massive cloud of dust rising from the ruins of the academy.
+
+Her heart sank, and she got up as the pressure finally disappeared. Fa Xiaolan’s legs told her to run, to hurry; adrenaline coursed through her veins as she rushed toward the center of the village.
+
+The closer she got, the better she could hear the commotion. The cries of despair, the pleas for mercy, the sounds of pain. She entered the main square and saw the cultivation, a young man with tied black hair, black eyes, wearing a dark blue robe.
+
+He frowned as he pointed toward the sky, making revolving motions with his fingers.
+
+Soon, she saw why, as all the children that had been hidden away got dragged toward the man as if they were puppets.
+
+“Did you seriously think that you could hide them from me?” He yelled out in anger, all of it directed at the village head, who was kowtowing with his forehead glued against the ground. “You useless good-for-nothings. What do we protect you for?!”
+
+Fa Xiaolan would have had some choice words to throw at him, had he not been holding her children suspended in the air. They looked at her with tears in their eyes, but she could only clench her fists.
+
+What could she do? What should she do? She was nothing but a mortal woman with no talent for cultivating. She was weak, an insect.
+
+No matter how much she wanted to help her children… She was powerless.
+
+And she hated herself for it.
+
+“So many good seedlings… I can sense- Wait a minute.” He stopped and made a few hand motions, and Fa Xiaolan’s heart sank.
+
+The man brought Fa Chen and Fa Hue closer to him, his intense gaze studying them as if they were naked. “Hahahaha!” His hysterical laugh made her heart drop to her stomach, and her knees turn weak.
+
+Why was he laughing?
+
+He kept laughing as rain began to fall, as if he’d just been told a joke he couldn’t quite forget. Each moment he kept going was another moment Fa Xiaolan died. She couldn’t bear to watch her children suffer like that, to be toyed with like that.
+
+Why…
+
+She asked herself, but the answer was clear, and something her husband always said.
+
+‘Because I was weak. I could not do anything.’
+
+Because she was weak, she could not do anything.
+
+Finally, the man stopped laughing and stared at the siblings, making them freeze.“I can’t believe it. You’re his children.”

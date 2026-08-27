@@ -1,0 +1,139 @@
+---
+id: 34eec372-48b9-5a97-a5a3-2e3191cdfef7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1182 - Seeker"
+slug: 0054-chapter-1182-seeker
+partOf: the-primal-hunter
+position: 54
+ownLength: 2608
+unit: words
+ownProgress: 2608
+publishedAt: 2025-10-17
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2683697/chapter-1182-seeker"
+royalRoadId: "2683697"
+markedReadAt: "2026-06-29T19:30:58.529Z"
+---
+
+Jake had spoken about the Malefic Viper finding the Shimmershroud Planeswarper a god to bless him, partly in jest, but Vilastromoz had taken it seriously. Primarily because he wanted to, mind you.
+
+Introducing talented youth to other gods was a good way to sow positive karma, and it demanded little to no investment from the Viper’s side. All he had to do was share a bit of his knowledge, and it would be a win-win situation for everyone involved.
+
+Finding talented people to bless could truthfully be a challenge, especially those worthy of a Divine Blessing. Sure, there were always some, but for the gods at the pinnacle, they could nearly always have more, even at a time like this, where a new universe had been initiated and the average level of mortals had significantly increased.
+
+What’s more, the Viper had a good track record, and the people he introduced weren’t just worthwhile geniuses but tended to be truly good investments.
+
+Stormild and Aeon had both expressed they were extremely satisfied with the performances of the Sylphian Hawk and swordsman alike, and it wouldn’t surprise Vilastromoz if both of them were on the list for Chosen candidates. In other words, two of the two individuals Vilastromoz had introduced to Primordials had surpassed the level of merely being qualified for their Divine Blessings.
+
+Now, admittedly, the Cosmic Genesis Worm was a bit more, let’s say, complicated. Snappy had expressed a surprising amount of frustration with his new Chosen, yet he didn’t outright state he was dissatisfied. The worm was a ridiculously talented monster for sure, and Snappy would certainly end up turning a profit with his investment, but the worm definitely inflicted a fair amount of stress and frustration.
+
+Vilastromoz didn’t necessarily see this as a bad thing, though. It was good for Snappy to be forced out of his comfort zone by having a Chosen that outright ignored anything their Patron asked of them, while only getting in contact to demand more food.
+
+This Shimmershroud Planeswarper was quite similar to the cosmic worm in how their Paths worked, though with some distinct differences. The worm had a Path that revolved around consumption and even had the ability to create internal worlds where more food could be cultivated within.
+
+Meanwhile, the Planeswarper didn’t even seem to consume most of the natural treasures it acquired. Instead, it was a hoarder that gained power based on the value of the gained goods through a unique ritual to that particular Lineage of monsters.
+
+Due to his lack of insight about the newly evolved B-grade, Vilastromoz didn’t outright want to recommend that any gods bless it, but he would certainly point one or two in the Planeswarper’s direction for them to observe and judge themselves.
+
+As for who would be a good match for the Planeswarper, now that was a bit more complicated.
+
+Right off the bat, not a single Primordial came to mind. None of them seemed compatible with the B-grade’s Path, and when he considered who would be most similar, it was surprisingly the Holy Mother who came to mind.
+
+She was the one with the least combat-focused Path of all the Primordials and was also a hoarder at heart. True, rather than hoard items and natural treasures, she hoarded Truesouls in the form of believers, which wasn’t the most comparable, but it was the closest.
+
+Someone like the Wyrmgod wasn’t even worth considering. Sure, both of them were good at teleporting, but that was about where their similarities disappeared. The Wyrmgod was a master of space magic, something the Planeswarper hadn’t even proven itself capable of, and he was also as much about creating dungeons and whatnot as he was purely about his specialized school of magic.
+
+Looking outside of the Primordials, one figure did come to mind instant. It was someone else who walked a Path where he loved collecting a massive hoard of valuables and was even a decently powerful god. It was another dragon, more specifically, Aurustromoz, the Dragon of Gold. Leader of the Regalflight and the most powerful dragon amongst all the Dragonflights.
+
+Minor snag with that one... dude was kind of racist when it came to giving Blessings. He’d only ever blessed dragons, and he borderline only blessed those from his own clan, so sadly, he wasn’t a serious consideration.
+
+Perhaps a merchant god could also be considered. The Golden Road Emporium, the most powerful merchant faction in the multiverse, did have some decently powerful gods among them, including their leader, Midas. Midas himself wasn’t a good option, though, but some of the other gods working for him could be an option. Especially those in the “acquisition and repossession department.”
+
+There were a lot of powerful gods focused on thievery there, some of whom could be candidates. The problem with these was that the Viper didn’t care to get closer to them and forge a better relationship. They weren’t powerful enough to ever steal from anyone Vilastromoz would want anything from, and besides, why would he ever need to hire a thief?Trying to subtly steal from the dead just seemed pointless.
+
+Besides, why would the Viper ever need those not at the apex of their Path? Because there was one being far better at acquiring whatever one desired than any other. A god who was always at the forefront of any exploratory team and was a master at breaking into anywhere and everywhere, all to fulfill his insatiable demand to collect things he deemed valuable. Be it knowledge, weapons, natural treasures... even entire worlds and people weren’t beyond the scope of his greed. What’s more, the harder anything was to get, the more tempted he was to try. A god always seeking something, thus his name:
+
+The Seeker.
+
+Perhaps best known for being the creator of Jake’s beloved Puzzle Box – the creation of which was one of the god’s hobbies, as he loved sharing the experience of spending a long time trying to break into something. In the words of the Seeker, nothing was ever unreachable; it was just a yet-unsolved puzzle of how to get there.
+
+Unless it demanded too much combat, that is, because the Seeker was quite honestly a weakling. Oh, sure, his level was high, and many compared him to figures like Umbra, the Autarch of the Altmar Empire, Gwyndyr, the Eternal Servant, and other gods that were not Primordials but still at the pinnacle. However, that didn’t mean he knew how to fight.
+
+The Seeker was a thief, a safecracker, an explorer, a scholar, a hoarder, an adventurer-for-hire, a cartographer, and many other things, but a warrior was not one of them. Even when facing far weaker individuals that he should, by all rights, be capable of easily killing, he would just run away. In his view, fighting was a waste of time and effort, and his energy was better spent doing something more productive.
+
+He’s certainly the best candidate, Vilastromoz thought to himself. Moreover, he was someone it was good to get closer to. Even if the Viper didn’t need anything from him here and now, just having a way to get in contact would be valuable, and if he ever did need a fellow god to explore some newly discovered unknown area, there was no better option.
+
+The more he thought about it, the more sure Vilastromoz was that the Seeker would also appreciate the Shimmershroud Planeswarper. The two did walk very similar Paths, but perhaps more importantly, the newly evolved B-grade was a unique creature. That in itself was enough to pique the Seeker’s curiosity, as he had been known to collect and bless interesting and unique creatures in the past.
+
+Ah, but one thing the Viper would have to clarify to Jake was that when the Seeker “collected” a living creature, that didn’t mean he entrapped them or hid them away. No, he merely farmed karmic relationships with them one way or another and observed them, sometimes even stepping in to provide assistance if he believed that would allow them to successfully evolve.
+
+Not out of kindness, mind you. The Seeker did it purely for selfish reasons. Like a flower that needed care, he wanted to make sure the environment for those he collected would allow the most growth and would lead them to live the longest time possible, as when a living being died, he would lose something he’d collected. So he allowed them to be free and hoped they would perhaps even reach godhood to live forever. A long time ago, he had tried to capture them and create “safe” habitats, but he learned that Interesting creatures tended to die quicker when kept in captivity. Especially the more free-spirited ones.
+
+Having decided on whom he wanted to introduce the Shimmershroud Planeswarper to, Vilastromoz only had one more important thing to do. Something that likely wouldn’t be very easy:
+
+Actually contacting the Seeker. Someone who was a mostly solitary god who traveled all the time and loved going to hidden realms all across the multiverse. Oh yeah, he also happened to have some of the best stealth skills in the multiverse, so if he wanted to stay hidden, he would be an absolute pain to find, if it was even possible.
+
+Being put to work by my Chosen once more... what has the world come to, Vilastromoz chuckled to himself. He couldn’t complain too much, and he did feel like he somewhat owed the Planeswarper.
+
+Because the Viper had been more than satisfied with the rewards he’d reaped from the ritual, Invocation having proved itself a worthwhile boon for both Chosen and Patron alike.
+
+“Good news,” Jake said with a smile as he looked at the Planeswarper busily cleaning up the cavern he had evolved in just a few hours prior. “I spoke to the Malefic Viper, and he said he’s on the lookout for a really compatible Patron. So probably don’t accept any Blessings from weird gods until he pulls through, alright?”
+
+“Okay!” Jasper yelled back while he continued putting the items away from the loot piles that had been fully drained during the ritual. From what Jake understood, the little guy wanted to keep them for sentimental reasons. So, yeah, definitely a hoarder as it was all trash now, but Jasper still carefully sorted everything and stored it away.
+
+“Who did the Malefic One consider?” Artemis, who was upstairs in the living room while still listening in, asked.
+
+“The Seeker,” Jake answered, seeing no need to keep it a secret from her. He didn’t want to tell Jasper yet, though. In case nothing came of it, Jake would feel bad if the little guy had gotten his hopes up. While the B-grade wasn’t super knowledgeable about multiversal factions and whatnot quite yet, Artemis had already expressed an interest in giving him a crash course while Jake remained at the Order.
+
+Jasper had already expressed interest in leaving with Jake.
+
+“The Malefic One is planning on reaching out to the Seeker?” Artemis asked with surprise. “I cannot say it doesn’t make sense, but the Seeker is... a unique figure.”
+
+“He can’t be bad, though,” Jake argued. He simply refused to acknowledge that the creator of his beloved Puzzle Box sucked, because how could someone who made something that cool possibly not be at least a little awesome?
+
+“I never said he was bad, and I have even met him a few times,” Artemis said, surprising Jake a little.
+
+“Where? At some divine parties or something?” Jake asked curiously.
+
+“One time at Nevermore, once here on the Great Planet, and twice inside of hidden realms,” Artemis answered. “He’s an interesting sort, for sure. I’ve never had any bad interactions with him, but neither would I call them positive. Not a bad choice, assuming he decides to give his Blessing. Oh, and that the Malefic One can get in contact with him in the first place.”
+
+“You know what? I’m just going to trust the Viper with this one,” Jake said, deciding not to put the cart before the horse. There were several scenarios where this Seeker guy would end up never giving a Blessing to Jasper, so he would bother learning more about the god when he had to.
+
+For now, Jake was back to doing his regular schedule of alchemy, meditation, and, due to the recent mention of the Seeker, playing with the Puzzle Box and solving a few of its levels.
+
+With the ritual involving Jasper complete, Jake began to have very little reason to stick around in the Pantheon of Life. He’d done everything he could do only while there. Also, he found it pretty funny that, despite being the official leader of the mortal delegation of the Order of the Malefic Viper, Jake had not been asked a single time to attend anything political whatsoever.
+
+Still, he would stay a little longer. Dina and the Sword Saint were still somewhere doing stuff, and he hadn’t heard from Sylphie recently, but could feel she was still chilling with those Sylphs at the giant space-unraveling tornado, so she was probably having fun.
+
+Jasper also needed his lessons about the multiverse from Artemis before he wanted to leave. Finally, Jake kind of just wanted to spend some more time with Artemis as he knew that once he returned to the Order, she wouldn’t be around as much as before. Hopefully, the two of them could even get in one more archery lesson before it was time for him to go.
+
+Because... well... he kind of still hadn’t managed to upgrade his archery skill yet.
+
+--
+
+Parameters were set. Payloads deployed. Satellites all synced and in position.
+
+A thick cloud of magical smoke covered the entire far side of the moon, blocking it from all sunlight. This had resulted in the Lunewood forest looking far less lush than before, and many of the monsters below had entered a hibernation state to conserve energy.
+
+Sitting on Earth, within the workshop he would hopefully soon replace with the one on the moon, he analysed the final data and made some last-moment calculations to try to predict the outcome of the attack and spot any faults he’d failed to consider. According to Oras, such calculative measures, where one attempted to gather as much data as possible to create a predictive model outlining the most likely future, were considered a method of divination.
+
+Arnold just called it math.
+
+He was not the type of person who would ever do something unless he felt extremely confident he would succeed. Taking unnecessary risks by not being cautious could lead to loss of life and resources, which, before the system, had been a major legal liability, but was now simply a waste of time and resources, as Arnold was fully responsible for his own funding.
+
+Finishing his calculations, Arnold checked in with the most unpredictable variable in the operation.
+
+“Confirming readiness,” Arnold sent to the Cosmic Genesis Worm.
+
+“Yeah, yeah, I’ve eaten all your metal men and I’m totally ready! Let’s blow up that damn moon!” Sandy responded enthusiastically.
+
+“We’re not blowing up the moon,” Arnold quickly corrected the worm for the two-hundredth and thirty-ninth time. “Move on my command to invade the core room and deploy the golems.”
+
+“Yeppers!” Sandy agreed, using a word that Arnold didn’t believe existed in any credible dictionary, despite its meaning being clear.
+
+“Good, then let us begin. Commencing Operation: Moonfall in three... two...”
+
+“Let’s blow the damn thing to smithereens!” Sandy yelled in excitement.
+
+“One.”
+
+With the final word communicated, Arnold gave the command, putting into motion nearly a hundred thousand drones at once.

@@ -1,0 +1,221 @@
+---
+id: dce446c7-73b8-5ed9-b324-d16fce7ca4d1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 104: A look in the past(1/3)"
+slug: 0104-chapter-104-a-look-in-the-past13
+partOf: phoenix-ascension-cultivation-litrpg
+position: 104
+ownLength: 2231
+unit: words
+publishedAt: 2026-03-23
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3185544/chapter-104-a-look-in-the-past13"
+royalRoadId: "3185544"
+---
+
+I was just about done with dealing with fucking poison users. The time I had left wasn’t much, but I was done, done, completely done.
+
+The smirk on Teng Yu’s face disappeared after seeing that I didn’t die, but I also knew that it wouldn’t be long before I did. However, he must have hoped for an instant death so he could recover.
+
+Certainly, there were a myriad of ways to recover from such burns, and he looked spent.
+
+I still had Qi and my dragons, and I was just about fucking DONE.
+
+I ordered my dragons to coil around and squeeze him, and the moment they did so, his sword dropped to the ground. He’d lost all fight in him. The skill was called ‘Last Stand’ after all, meaning that it was a last resort.
+
+Through my Qi, I could also sense that he’d run out. Whatever reserves he had had been used up.
+
+I also didn’t have much left, so I disabled both of my stealth skills, only keeping Self-Shroud active to keep from prying eyes.
+
+Using my dragons to approach the dying Teng Yu, I got to his eye level. Just as I did so, his grisly mouth opened and spat out a bunch of purple, poisonous saliva. I quickly burned it away using the dragon’s hand and stared at him.
+
+There were no words bigger than ‘Fuck You’ that I wanted to say, but I wouldn’t do anything to give him the pleasure.
+
+I swiped my good wing at his neck, severing his head from the body.
+
+[You have slain Teng Yu, Lvl 30 Cultivator]
+
+[You have slain a Nemsis!]
+
+[XP Aquired]
+
+[You have Leveled  Up!]
+
+[Elemental Phoenix Heir Lvl 22 has become Elemental Phoenix Heir Lvl 23]
+
+[You have Levelled Up!]
+
+[Elemental Phoenix Heir Lvl 23 has become Elemental Phoenix Heir Lvl 24]
+
+[You have Levelled Up!]
+
+[Elemental Phoenix Heir Lvl 24 has become Elemental Phoenix Heir Lvl 25]
+
+Three levels from one kill wasn’t bad. The continuous level up restored my body to its peak state… except for the fact that I was still poisoned.
+
+I quickly undid all my skills except Self-Shroud and started working on burning the poison away from within. It’d already spread far deeper into my bloodstream than I would have liked. Judging by the rate of health loss, I had about two minutes before I died.
+
+Even less.
+
+I quickly got to work, sitting down and using my Nirvanic Flames to burn away at the parasite. Part of me was of half a mind to eat his corpse to get some bonus strength, but there wasn’t much left of him to consume.
+
+The process of detoxifying the poison was about as painful as the process of getting poisoned, but there wasn’t much I could do.
+
+However, I had faith that I would manage.
+
+Eyeing the bag of holding, I decided that I would search it for an antidote if it was too much for me to handle.
+
+***
+
+Meng Mao looked at the scene with an intense sense of stupefaction. At first, he wanted to step in, but the more he watched the Phoenix fight, the more interested he got. His plan then changed to ‘Whenever the moment is most appropriate’, as the bird was simply fascinating.
+
+There were so many skills and techniques a normal Phoenix should not have.
+
+Fire was obvious, Lightning could be understood since she learned how to cultivate using his technique at some point.
+
+However, where had Water come from?
+
+Not to mention the way she used the fire with such control, it was rather impressive. He’d learned a lot from watching her fight, and he could not be more pleased about his decision not to intervene.
+
+That was, at least, until she got it by that last attack, one that he’d seen coming, but was one step too late in stopping.
+
+He sensed that it should have been fatal, though, and knew that the only reason it wasn’t was that he’d recently broken through, and that fellow had no experience in using it.
+
+It must have been a technique revealed to him after breaking through, so it made sense. Still, he found it a pity. That man, if not driven to such ends, would have made for a great asset.
+
+Not greater than a Phoenix, though.
+
+One that was currently dying from getting poisoned, though.
+
+He sensed that she was trying to burn away the poison using her fire, and she could do it just fine on her own… But why should he keep watching?
+
+Meng Mao decided to intervene when she crawled her way to the corpse, no doubt intending to eat it.
+
+“Oh, heavens.” He sighed and took a step, disappearing from his hiding spot and appearing behind the Phoenix.
+
+She turned to face him and felt a prickling sensation near his neck.
+
+“A mental skill? Not bad.”
+
+“It’s you.” She groaned and closed her eyes, stopping herself from devouring the crisp human in favor of expelling the poison.
+
+“It seems like you need some help?”
+
+“Go away.”
+
+“A,w come on, don’t be like that.”
+
+She remained silent, though, something that Meng Mao understood. He tapped his bag of holding and pulled out a white pill. It was so white and pure that not even the moonlight shone upon it.
+
+“Would you be interested in this?”
+
+He felt the Phoenix’s gaze on his pill, but in the end, she shook her head. “I can do this by myself.”
+
+“Are you certain?”
+
+Meng Mao asked that, but he blinked and grabbed where the Phoenix’s head was before she could react. When he wanted to force her beak open, though, he was met by two dragons attacking him in less than an instant, and he felt forced to dodge out of courtesy.
+
+“What are you doing?”
+
+“I’m trying to help you. This is an expensive pill, you know? It will expel the poison from your body.”
+
+The Phoenix seemed to consider that for a moment, then she recalled the dragons and said. “Fine, but don’t expect anything for this.”
+
+“I wasn’t.” He said and threw the pill in her direction. She caught it and, after giving it a quick inspection, swallowed it.
+
+“I’m glad you decided to trust me.”
+
+“Whatever…” She grumbled, though Meng Mao thought she’d been finally moved. He wasn't lying when he said that pill was expensive, and as an alchemist— somehow— the Phoenix should have figured that out as well.
+
+That’s right, I am rich and influential, so accept my goodwill, and there will be more benefits.
+
+“You’ve made quite a mess.”
+
+“Not my problem.” The Phoenix shrugged and focused on expelling the poison. “I hope Chiao Zhen got the message.”
+
+Meng Mao looked through the walls at the fainting fatty and chuckled. “I think he did. You’re quite scary.”
+
+He could feel the Phoenix’s judging gaze through her shroud.
+
+“Alright, alright… I have one question, though. I hope you can humor me.”
+
+“What is it?”
+
+“Why are you going so far for these children?”
+
+She fell silent.
+
+***
+
+The sun shone through a small gap in the shutters of a closed window. It was early morning during one of the hottest days of summer. The rays of sunlight fell upon a woman, whose eyelids fluttered briefly as she awoke.
+
+Her bed creaked as she stood up and stretched, the black hair that decorated her head cascading down her chest. She smiled and pulled the blanket down, revealing two peacefully sleeping babies.
+
+They were not more than one or two years old, and one was clearly a plump boy while the other was a somewhat less plump girl. The two of them almost slept in each other’s embrace, completely ignoring their mother.
+
+She rolled her eyes and carefully got up, unwilling to wake up her children. It wasn’t often that she could enjoy such a peaceful night.
+
+The woman got up and went to a separate room, separated by a cloth. It was a kitchen of sorts, and she had a fireplace, on top of which lay an empty cauldron.
+
+After grabbing a bucket and going to a well in the garden to grab water, she filled up the cauldron and lit a fire. While the waiter boiled, she grabbed some vegetables and a nice piece of meat, preparing them for what would eventually become a soup.
+
+A smile creased her lips as she worked, forgetting herself while cleaning, peeling, and washing the vegetables. She also grabbed some condiments from a cupboard, and after placing everything in the cauldron, she let everything boil and harmonise on the low fire.
+
+The woman was preparing lunch in the morning, as the meat took a long time to cook properly. As for breakfast, she would have to go without.
+
+Her head turned sharply as her front entrance rattled, an expectant look in her eyes. However, that light dimmed, as it was only the wind knocking on her door.
+
+She let out a heavy sigh and sat down, forgetting about breakfast. Thoughts of her husband appeared in her mind, of his death, where he was buried, and how she had to raise their two children alone.
+
+He perished when an army of Spirit Beasts attacked a few months after their twins were born, protecting the entire village.
+
+Her husband was one of the few cultivators in the village, a measly Qi Condensation that barely reached the first layer. As a result, he was treated well. Their food was plentiful, their roof never leaked, and their clothes had rarely been sewn.
+
+However, that luxury came at a price.
+
+And now she was all alone in their nice house, wearing nice clothes, eating good food… Raising two children.
+
+She didn’t get that much more time to lament about her life as the soft crying of one, followed by another, resounded in the other room.
+
+Was she angry at her husband? Of course not.
+
+Did she think him foolish? Definitely. But that was also why she married him.
+
+She loved the man more than anything. At least, she thought she did, until she met their children and knew that loving him first and foremost would be difficult.
+
+Shaking her head, she rushed over to her babies to soothe them and do what needed to be done.
+
+The summer passed, and autumn arrived, then winter and spring, and so the years went on.
+
+The children grew, their features resembling a mix of their parents. The girl looked more like her mother, though, and the boy like his father. A father he never got to meet, but dearly respected.
+
+He’d heard the rumors of the valiant actions of his father, even though his mother never spoke about him. The boy— Fa Chen— admired him and visited his grave every year. His mother stopped taking them when they were about five, but he remembered the spot and always took his sister with him.
+
+Fa Hue was a fragile girl, slightly smaller than him despite being twins, but she always had a smile on her face. She did as he did, bowing to their father’s grave, cleaning it, and lighting up a stick of incense in his memory.
+
+They were the same age, had the same dark hair and eye color, and mostly the same bone structure, but were so different. Fa Chen was outgoing and always willing to help around the house and the village.
+
+The old ladies always called on him for help. He was almost twelve years old, after all. An age that made him excited and fearful. Because it was the age when he would get tested for his potential to cultivate.
+
+He and his sister both.
+
+As much as their mother protested, she knew that it was mandatory. After all, any new cultivator in the village was a cultivator who could protect it.
+
+As her husband did.
+
+He was an outsider, though. Someone who stumbled upon that remote corner of the world with nothing but a wound on his back and a small amount of Qi keeping him alive.
+
+She took care of him during his recovery, and they quickly fell in love. He couldn’t remember much, at least he claimed so. Deciding that starting a new life in the village with the woman he loved was the best plan of action, he remained, worked hard, trained, and eventually started cultivating again.
+
+However, no matter how much he tried, he could not get past the first layer.
+
+But that was enough to deal with many of the Spirit Beasts in the village. He also had some sword techniques that their village had never heard about, so it was only natural that he taught them to everyone, all so they could be better prepared for any danger.
+
+It only took five years since his arrival for trouble to emerge, when a giant boar that could spit out fire rampaged through the forest.
+
+They knew it was only a matter of time before it would get to the village, and the casualties would not be few.
+
+A small squad was formed, comprised of the few cultivators in the village, including the head, and some of the stronger men.
+
+They went out in a party of ten, and only two returned, dragging the body of the boar alongside the bodies of their fallen villagers.
+
+Her husband one of them.

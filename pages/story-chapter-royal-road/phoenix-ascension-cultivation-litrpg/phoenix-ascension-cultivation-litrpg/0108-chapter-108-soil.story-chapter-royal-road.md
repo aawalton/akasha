@@ -1,0 +1,195 @@
+---
+id: 5a69d4b5-dbec-5255-a8d9-c547bf0c0b5e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 108: Soil"
+slug: 0108-chapter-108-soil
+partOf: phoenix-ascension-cultivation-litrpg
+position: 108
+ownLength: 2110
+unit: words
+publishedAt: 2026-04-01
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3220210/chapter-108-soil"
+royalRoadId: "3220210"
+---
+
+What was I, a law abiding bird, supposed to do with poisonous soil? Why did he even have poisonous soil? Was his tree a fucking poison tree?
+
+Damned poison.
+
+And soil was exactly what I needed, yet I had no intention of using that one. Maybe Meng Mao had an idea of how I could clanese it? But then again, it said that it was coarse, and I had no idea if that was good.
+
+Do I have to pay a visit to the Information Pavillion again?
+
+I would prefer to avoid that, as the risk of gathering information was high each time. Who knew if, at some point, they figured out that it was me? A lot of hells would break loose.
+
+So yeah, asking Meng Mao seemed like the best idea. The only issue was that I had to meet the guy, and I had no idea where he’d gone.
+
+He’d come find me eventually, and in the worst case scenario, couldn’t I buy some from Golden Arch City?
+
+Besides that, there were still many things to do. I finished the quest of protecting the siblings, but I still had to see them off safely. There was also Yo Na’s request, and the quest itself, which I really wished I hadn’t accepted.
+
+It was obvious that I would not be able all the ingredients needed to refine that elixir, so her son would continue to slumber in my dantian until I did so. Out of all of those ingredients, the Moon Bloom was the least of my worries.
+
+I didn’t believe for a single second that this village had even one ingredient or material I needed for the refinement, so going to Golden Arch City was basically a requirement anyway.
+
+Not that I minded, since I really wanted that Qilin Essence.
+
+I stood up and stretched, gathering all the things Teng Yu had and walking out of the cave. I’d just remembered that I left the siblings and Shang Hue, and also Xing Ya Chen. I was curious to know if he’d found anything that I might need.
+
+The only question was… where had they gone?
+
+***
+
+Shu Xu Ning found Miss Fire Bird Immortal’s absence quite scary. She wasn’t sure where she’d gone, but it’d been a while.
+
+Truth be told, she was scared of the assassins. Even though miss beautiful lady scared them off, who knew when they would return? She did gain more confidence, as that nice man, Xing whatever, had bought them whatever they wanted.
+
+She was originally apprehensive, since it wasn’t her money, but after her big brother assured her that it was fine, she didn’t hold back.
+
+Of course, Shu Xu Ning didn’t just get whatever she wanted because it looked pretty or sounded interesting. She considered the practicality.
+
+She already had a sword, but she needed a scabbard for it. Naturally, once one appeared, she bought it. It fit the sword like a glove. She also wasn’t in need of armor, since the Fire Bird Immortal had already bought her other items.
+
+Shu Xu Ning found that lady to be very kind, despite the way they’d met. She was happy to have met her, and now things were looking up.
+
+Her big brother had little in terms of weapons and equipement, so he got a sword, some armor, and even asked for a bag of holding. They were lacking in that department, though she saw Miss Immortal carrying more than one around on occasion.
+
+She could have asked for one, probably. Actually, hadn’t she bought one? Maybe she wanted to gift it to them.
+
+Well, what was done was done.
+
+One thing that caught Shu Xu Ning’s attention was a map, which she got, and saw that it was very detailed. Besides those things, though, she wasn’t interested in other things. Did she want some flashy cute items? Yes, but she wasn’t going to abuse Miss Immortal’s goodwill.
+
+As a result, she made do with what she had.
+
+That man, Xing something, had not bid for anything for himself though, nor at any other point besides when she’d asked him to. In fact, he looked rather depressed as he stared at the items fly by, and he let out a heavy, very heavy sigh when the auction ended.
+
+That also meant they had to leave, so they did. That beautiful lady that saved them left, saying that she had to report back to her family, and the Xing guy left as well. Meaning, it was only her and her big brother, again.
+
+“This is too strange.” He said, grabbing her hand. She looked up at him, and noticed his pondering expression.
+
+“Why?”
+
+“Because, people don’t just give out gifts, don’t pay, don’t show goodwill such extravagantly without reason.”
+
+Shu Xu Ning couldn’t understand those words. Wasn’t that what Miss Fire Bird Immortal did? She cured his big brother of his illness, helped him get stronger, and even got them stuff. What did she have to gain from doing all of that?
+
+Her big brother met her gaze, and smiled after a brief moment.
+
+“Are we going to go home?” She asked with big eyes.
+
+“We can’t, whoever wanted to kill us would know we’re there.” He said that, but he also knew damn well who it was that paid assassins to murder them.
+
+“Let’s look for another-”
+
+However, an explosion interrupted him, and the earth shook as a spectacle of lights shot into the sky not that far away from them. Shu Xu Ning shot in her brother’s embrace, scared of the powerful sounds, and held onto his clothes.
+
+“That’s the Chiao estate…” He spoke to himself, though maybe for her as well. His eyes widened, and she felt her brother’s body shake. “Is it her?”
+
+Neither she nor Shu Wao Tu knew what was happening, but they knew it was something big, and most likely having to do with the immortal.
+
+They made the wise choice of going as far away from that battlefield as possible, and observed, or rather, felt, how the battle was going.
+
+That was until all things quieted down, and there was nothing, almost as if someone had cut off all information. Shu Wao Tu had found that weird, and Shu Xu Ning was just happy that the scary sounds stopped.
+
+“Is it over?” He asked himself, feeling quite unsure. Something told him it wasn’t, but if that immortal attacked the Chiao estate, then they should not have a sword hanging over their heads anymore.
+
+He couldn’t relax quiet yet, though. It was his duty to protect Shu Xu Ning, so even if their home was safe, he couldn’t return there quite yet.”
+
+“Big brother?”
+
+“Yes?”
+
+“Are we not going home?”
+
+“We can’t go yet. There are… people wanting us dead, Xu’er.”
+
+“I’m cold.”
+
+“I know.”
+
+“Can we go grab something from there at least?”
+
+“No… we can’t. I’m sorry Xu’er.”
+
+“Mhm… alright.”
+
+She said just as something else shook the earth again.
+
+Knowing that a fight of such scale was not their issue, Shu Wao Tu rushed off through the streets, passing by people and trying to make themselves as inconspicuous as possible. He wanted to find an inn or somewhere they could hide until she came to find them.
+
+However, wether knowingly or unknowingly, the path he took made them take a path to their old home. He wanted to turn away, but he found himself attracted to it.
+
+Just one look.
+
+Mortals and cultivators ran toward or away from the fight, some curious, some fearful, but most just wanting to see a good show.
+
+He didn’t care though. After quite literally getting slapped around, and even kicked, and being given a second chance at life, he wasn’t going to waste it. Before, he’d felt hopeless, useless. He was desperate.
+
+Shu Wao Tu refused to believe that anything good could come out of a free meal, much like what that immortal had done. He took the pill from the fake holy man because he knew it came with expectations, and he didn’t care about what he had to do as long as he had the chance to rescue his sister from that situation.
+
+He once again took the pill from the demonic man for much of the same reason, though he was a little unsure about that. Shu Wao Tu had realised though that both choices, even though they were the same, were wrong.
+
+In the end, it was his sister who saved them, with the help of a very strange, yet weak immortal. He knew she was weak, in a relative sense, but far stronger than he could currently imagine.
+
+That wasn’t to say he looked down on her, just that he knew that she wasn’t the strongest. She was by far the richest, though, and he could not deny that the prospect of becoming an alchemist was tempting.
+
+But alchemists needed money and resources, both of which he didn’t have.
+
+He took a deep sigh as the shape of their house came into view. Shu Wao Tu remembered a time when that wasn’t the case, a time when they had a large estate, with a courtyard, servants, and riches.
+
+All reduced to a run down shack.
+
+He clenched his fists around the hilt of his newly purchased sword, lighting crackling at his fingertips.
+
+Much to his delight, he’d found that his sister wasn’t the only one with a knack for lightning. He also had, while less prominent, a lightning constitution. With a quick feel of his dantian, he smiled.
+
+Fourth Layer of Qi Condensation.
+
+He didn’t sit idle while the immortal was away, and cultivated every single moment of his free time. Because he’d already reached quite a decent cultivation level before he got crippled, he advanced much faster than before.
+
+It couldn’t be compared to his sister, though, who was just a downright monster.
+
+Shu Wao Tu wanted to pat her head, but his hand stopped mid-motion as he sensed something was wrong. Shu Xu Ning also detected that something wasn’t right, and the source of their nerves was the very home they were walking toward.
+
+Or rather… who, or what was inside that home.
+
+***
+
+Right, the auction ended a while ago. It was almost the second day, or… it was? I’d lost track of time. My very first stop was Xing Ya Chen’s shop, obviously. That was after I’d changed into my clothes and took on the human form, of course.
+
+He told me that he hadn’t managed to buy what I’d requested of him. I wasn’t expecting any surprise items to appear though, so I wasn’t really mad.
+
+However, since I was there, I wrote down the ingredients I needed for Yo Na’s elixir and handed it over to him. He frowned for a moment before correcting his expression, then he simply gaped.
+
+“This…”
+
+“I know.” I affirmed, as that was the exact expression I wanted to make when I’d first seen it too.  “Do your best.”
+
+“Aye…”
+
+After leaving him, I went through the city, asking people at random if they’d seen them. Checking the inns landed no result as well, and I had a very strange thought.
+
+Surely they didn’t return home.
+
+It wasn’t out of the realm of expectation, since Shu Wao Tu had a bit of brain damage, but even he wasn’t that stupid.
+
+Then again, the assassins were dead, so all he would get would be another slapping session.
+
+I rushed over to that place, getting a sort of strange feeling the closer I got. Something definitely happened, but what had I overlooked?
+
+There wasn’t anything that stood out to me immediately. Chiao Zhen had learned his lesson, the assassins were dead, and the deminic guy had ran away with his tail between his legs. I doubted he would try anything in the near future, but then why had I gotten this ominous feeling.
+
+I quickened my pace and soon found the Shu sibling’s home, or what remained of it, at least.
+
+Because in front of me was not a home anymore, even as run down as it was, but nothing but literally ruins. The walls had collapsed, the windows had shattered, and there were traces of lightning Qi everywhere.
+
+What had they fought against?
+
+I tought as I stepped inside the rubble and saw no sign of blood or death.
+
+Did he just want to remove this symbol of his past? A bit dramatic.
+
+But the question of where the Shu siblings were remained.
+
+And just as I thought about it, that’s when I sensed it— the smallest trace of Demonic Qi.

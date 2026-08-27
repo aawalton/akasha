@@ -1,0 +1,81 @@
+---
+id: c8f943d1-df9d-534c-8065-0346deaed37f
+page-type-slug: story-chapter-royal-road
+title: "Not a chapter! - Book 2 End, Status Update, and Q&A"
+slug: 0129-not-a-chapter-book-2-end-status-update-and-qa
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 129
+ownLength: 581
+unit: words
+publishedAt: 2026-05-11
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3383723/not-a-chapter-book-2-end-status-update-and-qa"
+royalRoadId: "3383723"
+---
+
+🐾 Hi everyone! 🐾
+
+Book 2 of Wolf Girl Evolution is now officially complete -- ending at over 136k words, which means it ended up even longer than Book 1’s 108k words!
+
+Honestly, it’s been a pretty rocky year for me in a lot of ways, so I’m genuinely happy and relieved that I still managed to keep writing through it all and bring Luna’s journey this far. 💙
+
+And I definitely couldn’t have done it without all of your lovely comments!
+
+Extra thanks and appreciation goes to everyone who took the time to write reviews, leave editing suggestions, or simply share your impressions of the story so far :)
+
+Speaking of editing…
+
+I’ve finally finished doing a full editing pass on both Book 1 and Book 2!
+
+And will slowly update the RR and Patreon chapters as time allows.
+
+The edits included:
+
+correcting the few remaining typos and grammar issues
+
+correcting some System and skill level-up numbers
+
+adding a few missing System messages
+
+smoothing out inconsistencies between chapters
+
+and implementing practically all of your feedback and editing suggestions
+
+One of the bigger changes is that the old “Swipe” skill has now been renamed to “Strike” throughout the story - as, honestly, it never really made much sense for a canine to “swipe” things in the first place. 😅
+
+I also removed the early “Minor Bleed chance” message from the beginning chapters, since it didn’t really fit the System direction the story eventually evolved into.
+
+So thank you again to everyone who pointed things out and helped improve the story along the way. It really does make a difference.
+
+On another exciting note…
+
+I’m currently in talks with publishers regarding Wolf Girl Evolution, which still feels slightly surreal to say out loud.
+
+Nothing final yet, but it’s something I’ve been quietly working on behind the scenes while finishing edits, and I'm expecting to see the first contract draft sometime soon.
+
+As for what’s next:
+
+I’ll be taking a short break from posting on Royal Road until the end of May so I can rest, recharge a little, and properly prepare for future posting.
+
+That said, I’m going to do my best to revive my Patreon during that time and post whatever chapters I manage to get ahead on there first.
+
+And perhaps launch a new story, if time allows :)
+
+At the same time, I know some of you are still waiting for Restoration of Aerthis.
+
+While it’s a story I genuinely want to continue someday, it will unfortunately remain on hiatus until I’m in a more stable place financially and can realistically dedicate proper time and energy to it again.
+
+I don’t want to force it out half-heartedly or spread myself too thin trying to juggle too many projects at once.
+
+Even so, Wolf Girl Evolution and Book 3 remain my main priority moving forward.
+
+And finally, before Book 3 begins, I would love to hear your thoughts!
+
+What have you enjoyed the most so far?What would you like to see explored in future books?Are there characters, cute moments, evolutions, places, or descriptions you want more of?
+
+I always enjoy reading your thoughts on the story, and who knows - maybe some of your ideas will make it to next book :)Several already made their way into Book 2!
+
+Thank you all again for sticking with Luna’s journey so far, and for making this story such a special experience to write. 💙
+
+See you soon for Book 3!
+
+- Aer🐺✨

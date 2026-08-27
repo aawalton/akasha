@@ -1,0 +1,205 @@
+---
+id: 4dbeb39e-4bb7-5469-9977-29686e0cea52
+page-type-slug: story-chapter-royal-road
+title: "302 Prosperity"
+slug: 0261-302-prosperity
+partOf: the-new-world
+position: 261
+ownLength: 3499
+unit: words
+ownProgress: 3499
+publishedAt: 2021-08-31
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/743078/302-prosperity"
+royalRoadId: "743078"
+markedReadAt: "2026-06-29T21:30:07.934Z"
+---
+
+Elysium's vessel landed, its weight leaving a thud even under the ocean. Lifting a hand to the ship, I pulled water from the vessel by generating air and ascending the liquid with gravity. The remnants inside paled as I raised my arm, but they sighed with relief when I made entry easier for them. Moments later, a message from them popped up in my status.
+
+A vessel is asking for permission to enter your city's perimeter. License granted: Y/N?
+
+I selected yes, and a panel slid sideways along the vessel's bottom as they passed into our city limits. Emissaries from Elysium paced out on a fancy space platform that hovered down from the ship's opening. They wore lavender robes with runes glowing under their surface. No matter the enchantments, they exposed themselves to us, any of them death fodder for our guild.
+
+Walking up, I wasn't the only one aware of that fact. Fear laced in the remnants' eyes, each of them having a pinkish purple skin tone with white hair. They gawked at me like I was a demon, a horrific monster made of teeth and claws. Wanting to break the ice, I pointed at the goods shown along the underside of their vessel,
+
+"Do you guys need help moving anything?"
+
+They peered between me and the gear before bowing. One of them spoke with a voice like silk, "We will move it. There's no need to stress yourself or your guild members after such a harrowing battle."
+
+I scoffed, "Thanks for the consideration, but I'll be just fine." I moved my arm in a circle while grabbing a shoulder, "Plus, I've got the strength for it."
+
+I lifted a hand, saturating their gear with antigravity wells. A bit of resistance stopped my magic initially, but I forced through it in a burst. Once cast, the sorcery floated their gear from the ground with a gentle rise. A feather's weight on the heavy boxes would keep them from floating off. I waved a hand over their vessel, casting the same mana saturating spell over their ship, finding the same blip of resistance at first.
+
+Either way, the ship stayed grounded from the crew members inside, but the vessel would be weightless for a few weeks. I gave them a thumbs-up, "There you guys go. That should make this take only a few minutes, tops."
+
+Beads of sweat oozed from the remnants' foreheads as their hearts pounded in their chests. I frowned, "Uh, are you guys ok?"
+
+The talkative remnant spoke up, "I, uhm, yes. We are, of course. We are more than ok. Thank you so much for doing this. We-we appreciate the help."
+
+I raised my brow, "Alrighty then...I don't know if I believe you. Both of you look sick."
+
+The nontalkative one glared at me for a minute, his expression unreadable. Impressed by his grit, I raised a hand to the guy, "My name's Daniel. What's yours?"
+
+The glaring remnant bent over and puked out his guts. I scratched the back of my head, "Huh...yeah, you're sick. Let me take you back to your shi-"
+
+The speaking remnant raised palm as if he were attacked, "No. No. That won't be at all necessary." The remnant emissary glared at his compatriot, "He will walk back himself."
+
+The unspeaking remnant hobbled away while trying to cup his own throw-up. He hacked up his lunch one more time before going back to the vessel, unable to meet my gaze. I blinked at him, "That guy had a nasty breakfast, I'm guessing. Either that, or it was me."
+
+The other remnant's eyes widened in abject terror as I finished speaking. His hands locked up as I looked down at him. He murmured, "No...We're fine. Completely fine."
+
+He might as well have been the Niagra Falls of sweating at this point. Drips formed on his face in realtime, both comical and absurd. I waved my hands, "Look, there's been a misunderstanding here. I have no intention of killing you, your friends, or destroying your ship over there. Don't plant any bugs here. Don't try anything else either. Do that, and you won't have to worry about any consequences for meeting me. Now, what's your name? Mine's Daniel, like I said earlier."
+
+"It's Phalanthorixiatocosadoreauy."
+
+"Damn, that's a mouthful. What about Phalanth?"
+
+"Anything. You can call me anything."
+
+I gave his shoulder a light pat, "It's good to meet you, Phalanth." I gestured to the ship, "What did you guys bring me?"
+
+Phalanth scrambled with his status, the red screen popping up. He coughed into a hand, "Ahem, we have everything you asked for, though we took liberties with what information was, erm, given."
+
+I frowned, "What does that mean?"
+
+"We...we didn't grant high-level access to certain topics, such as our cloning operations or how we plan to enact reforms on Schema's system."
+
+"But you have the general ideas in there, right?"
+
+"Oh, most certainly. There isn't any locational data regarding where Elysium's planets are located or the like, however."
+
+"Well yeah, I didn't want it. Schema can tell me that if I need it. I just want to know what you guys planned on for improving Schema's system. I've seen a few of your worlds already, and you guys have some good ideas."
+
+I stared in disgust at the decaying corpse of a Hybrid in the distance, "Just your methods...They make me sick."
+
+Phalanth gazed up at me, "I, I thought you were a conquerer, some bloodthirsty monster based on the footage and reports. You're more measured than anticipated, I must say. I'm...astonished. I thought you would despise us."
+
+"What? You, individually, no. Not really. You didn't do anything to me or my guild. It's your military I don't like and how it's managed. Your domestic practices seem much more in line with my own way of doing things, outside of the Hybrids and genocide, of course."
+
+Torix paced up, his hands interlocked behind himself. Even our ancient necromancer, who I stood over, dwarfed the emissaries. I never noticed how big we all were, but now it seemed outright strange. Torix peered down at the emissary, "I'll trust there will be no enchantments on the information, nor viral data either?"
+
+Phalanth went right back to trembling, "N-no. Never."
+
+Torix leaned over, an inch or two from Phalanth's face, "We will make you pay if we happen upon them. Perhaps your corpse will dance in a pool of maggots, or I'll make trap your soul in a dying body, over and over. My point being, I'll come up with something that will be quite uncomfortable should you attempt to trick us. Am I clear?"
+
+"Y-yes."
+
+Phalanth seized up as Torix walked past him. Poor guy. More Remnants showed up beyond the diplomats. Two armored ones strode past me with Sentinel-like paneling, their dimensional slicers not as violent as Schema's own spears. It still impressed me that their guards had them at all. Those same bouncers gawked at me while they carried equipment from their vessel.
+
+Their hands trembled as well, both of them anxious as a panic attack. It was probably a strange sensation being beside a mortal enemy so soon. I'd killed many of the Elysian forces, and even the Hybrids exceeded these guards in net power. They were the fodder for the fodder, but that didn't mean I would just murder them in cold blood.
+
+I mean, if someone walks through a person's kitchen, most people aren't worried the owner will rummage through a drawer and draw a knife at their throat. To me, being afraid of me now was akin to that. It mounted unnecessary stress on both of them, along with the six other guards behind them. They might've seen me in action, though, so maybe that analogy didn't hold up.
+
+Either way, I figured we needed people sifting through the incoming stream of new stuff. Sending messages, I collected John McSmitty and several other guildsmen who practiced spyware and the like. They rushed on over, getting ready for some work while I took a portion of untampered land nearby for my own purposes.
+
+Using a spot of sandy stone, I melted the grains into glass while crafting them overhead. Getting the paneling right, I made a sphere of glass for the talks with Elysium, and as I did, my guild chatted away about Blegara and our future plans. It was inspiring stuff, giving me plenty to do in the future. To my surprise, the most excited one of them was Amara.
+
+She arrived earlier, and she already donned the armor I made for her, having grasped intuitively how to wear it. Finishing a curt discussion with Other Hod, Amara walked up to me in metal. The interlocking panels slid without friction, having gravitational augments for them. She stayed light on her feet. Feeling the light rumble beneath her steps, she actually became lighter than before she wore the armor. Perfect.
+
+She even used the wires already, spreading her hair out with a gleeful abandon. With those strands, she menaced those around her like a child just gaining a new toy. Krog glared at her when several of her hairs grazed his wing, and Torix struggled not to pluck the hairs out when she did the same to him.
+
+Amara's fragile image also faded in the dark metal. She lacked eyes, her jawed helm ominous and threatening. It radiated strength, density, and power in a way she'd never had. Amara relished that feeling, standing up taller and straighter compared to her regular clothes. They were just dirty-looking rags by comparison, but it was amazing what a wardrobe change could do for someone.
+
+Those observations washed over me in a moment as she peered at me through a camera without needing to lift her hands,
+
+"Hello, Harbinger. I wish to thank you for granting me your flesh and blood to wear. No eldritch would do the same. It is beyond us."
+
+Oh man, she reacted to the gift oddly like I worried she would. I turned to her, putting my hands up, "It's just payback for helping us get the eldritch here under control. I did the same thing for everyone else in my guild, pretty much."
+
+I lifted a hand and etched with a heated telekinetic point, trying to get the damn glass I worked on to look right, "Anyways, what's up?"
+
+"I would like a few adjustments to the armor you have made me."
+
+"Already?"
+
+"Yes."
+
+"Shit. What do you need?"
+
+"The cameras will shatter well before the armor or the runes on it."
+
+"I figured, but I thought you'd just fight like normal then."
+
+Her hair reached out with the wires I gave her, cutting through the rock beneath us. She stared at a slice in the stone,
+
+"That is right, but I wish to wear this armor even after the cameras shatter. This metal skin needs panels for my eyes on the palms should the electronics fail." She raised her hands, showing them from all angles,
+
+"That, or you could perhaps use scrying instead of cameras. That may work better as you are talented in runic magic. If you did so, no new armors would require a helmet or opening for eating."
+
+She poked where her eyes should've been, "Then no one may gouge the eyes and drink deeply from our skulls. With a tongue of some sort...Perhaps an elongated claw."
+
+I nodded, "That's a great idea...But yeah, why didn't I think of that?"
+
+Amara hissed, "An idea is like a delicious meal. It is delectable, but when another tries it, they may easily think of how it could be better. The server of the meal takes pride in it, and that pride blinds them. The eater is without pride, giving them clarity of thought."
+
+She tapped the glass I made, "Others build on ideas like this, seeing the imperfections with ease. This is why many are more mighty than one."
+
+"Huh. Cool. I know I got a lot better at pretty much everything by listening to other people. Well, besides punching people, but that came naturally to me."
+
+Amara wriggled for a second before giving me a deep bow, "I wish for you to know that these imperfections in your design have left me no less satiated. I will treasure the blood and skin you have given me. It will be my most prized possession."
+
+Oh no, there it was again - the odd reverence. I peered at Amara from my work, "Uh, sure thing. Keep on helping the guild, and there's plenty more where that came from."
+
+She cupped her hands together while backing away, "For your flesh and blood, I will work tirelessly. I leave to do so now."
+
+Amara went to a pile of tech lying under the glass overlay I made. She left me hectic, wondering if anything else I made had holes in it too. Taking a deep breath, I took her input with a grain of salt. Aside from that, Amara enjoyed the armor I made a little too much. To be fair, she gained a lot of agency and control of her life recently, no small part because of that plate mail.
+
+That kind of change could leave someone acting weird for a bit. The reverence would probably fade with a bit of time, and I took comfort in those thoughts. It also helped that Torix directed the remnant workers, leaving me with nothing else to worry about. The lich ensured they organized themselves well.
+
+Thinking on it, Torix was essentially made of my blood and skin too. Amara was right about what she said; it was blood armor. No matter the origin, the suit gave Amara some genuine confidence, and her appreciation gave me a sense of pride. Heeding her story, I mentally stomped that out. Even after I did, a lightness kept a small smile on my face. I finished the glass building's steel supports, enjoying the downtime. When finished, the remnants piled up an enormous stock of goods under the glass. They actually carried most of the cargo in a few trips since I asked mostly for information. That reflected in the items given, though plenty of physical equipment made its way here.
+
+The first items lined up were kiosks that detailed different kinds of information. These touchscreen panels acted as upgraded versions of the terminals they used in their secret bases on Giess. Like those terminals, the touch screens offered a wealth of knowledge but on alternate subjects like distant planets, Old Ones, and Elysium's general practices.
+
+Several of our engineers inspected the info-laden kiosks, ensuring they weren't wired or hacked somehow. They kept away from the actual info since it could exile them. As they authorized the goods, I kept peering at other items.
+
+Several chilled tubes lined up in refrigerated, mana-powered cells. Within them, blood from different remnants, eldritch viruses, monstrous bacteria, and undead samples all sat in stasis. Torix eyed these pieces with a particular hunger, the lich ready to dissect and disseminate the knowledge within. Beyond the specimens, cloning tubes and stasis pods made their way under my glass covering.
+
+These vats contained interfaces along with a variety of discs, likely software showcases. A few of the tubes even held the embryos of different creatures, the tanks ripped right out of a lab minutes ago. Following those vats, book after book on magic piled up until I could fill up a library. They held every shade of color, and they came from every age, state-of-the-art to venerable.
+
+Those tomes made several guildsmen nearby salivate at the prospect of learning their contents. In some of the piles of parchment, I even caught glimpses of the cipher. At that, my own curiosity peaked with the best of them. However, as the haul's mass rose, Elysium didn't stop bringing merchandise.
+
+They gave us a variety of unusable but no less fascinating armor and weapons. These plate mails, shields, and blades reflected with a polished sheen, cipheric markings oozing power along their surfaces. Until I understood the engraving's intent, we weren't equipping anything, not that we could; the armor wasn't made for bipedals, to begin with.
+
+Mixed in with those armors, familiar arrangements of the cipher stuck out. Some nearly mirrored the elemental furnace engrained in my chest, but there was no way Elysium just gave us elemental furnaces. Leaning over them, I contained my surprise when I found several in a pile. I stared down at the single one pocketed in the armor of my chest. Maybe they weren't as rare as I thought, and despite that, Obolis only gave us one.
+
+Huh...That was bad.
+
+That thought fell to the back of my mind as I stared at other treasures. I almost felt like I'd accepted a bribe, but you know how it is. We needed to know what was in these containers, so I perused closer, taking on the absolutely essential duty. I found obelisks of all different kinds. They rested along translucent shelving designed for them. The stylish lineup included a few golden obelisks like what the Emperor gave Torix, but other types dotted the mix.
+
+Obsidian obelisks glowed with red details, portentous and evil-looking. Other ruby obelisks opened red statuses instead of blue ones. Legal or not, they gave them to us. Several of these electronic interfaces wiggled in a jelly matrix, having all of their contents suspended within the clear gelatin. Amidst those jellies, a few showed eyes and cute features along with cooing noises to match.
+
+One of them snuggled up to my finger, being downright adorable. Dawww.
+
+Outside of those ones, most of these obelisks had to be illegal. In fact, a lot of this stuff could be forbidden to us. I spotted different metal drives with the words 'portaling skills' over them. Next to those metal monstrosities, a series of discs held skill names under them. They were compendiums, a few of them even carrying mythical tier skills based on their gray coloring.
+
+One caught my eye, in particular.
+
+Primordial Mana - The Magic of Shaping
+
+At this point, I narrowed my eyes as a worm of suspicion formed in my chest. Elysium vastly exceeded any payload we'd ever received from Schema. So much so, I peered at the goods with apprehension. I picked up a compendium, staring at it from all angles. Like, there had to be a bomb stuffed in here, maybe some destructive spirits or something. I couldn't see them giving me this many furnishings otherwise.
+
+It would take weeks to sort this stuff out and get it to the right people, let alone actually derive the useful intelligence stored within. And the piles kept coming while my guild experienced the same rush of bewilderment as I did. Joining the crowd, Kessiah paced up with Althea, both of them talking about the battle.
+
+I sighed in relief, watching Althea step with her usual grace. Kessiah already read a guild-wide message Torix sent, so she paced up while propping her weight on one hip, "What's up, big guy?"
+
+"Eh, nothing much. I'm trying to figure out all the stuff we got."
+
+Kessiah squinted at the tubes of blood, "Wait...What are those?"
+
+I waved at them while staring at the compendium, "Go find out. I have no idea."
+
+She shuffled past items before inspecting several of the chilled cisterns. The tanks were from remnants, and I'm sure Kessiah doted on them, wanting to know more about herself and her heritage. On the other hand, Torix oozed over everything present as if he wished his mind was a hungry beast that could devour all before him in an instant. He darted back and forth from oddity to oddity, his curiosity overwhelming him.
+
+Althea's curiosity got the better of her as well. She skimmed through cleared kiosks, finding data logs on Old Ones. Considering her experiences with Etorhma, her interest made a lot of sense. She might cure her transformations one day, gain better control, or just learn something she didn't know about herself. Hell, there could be some info on my whole being-a-dimension-thing. We couldn't say until we searched.
+
+Either way, my guild poured over the cleared cargo with abandon while others checked the incoming merchandise for enchantments, spyware, and conduits. These members fused into a growing group of my guild's elite, each staying diligent in ensuring an item's validity and safety. In that ruckus, a pair of thudding footsteps sounded in the distance.
+
+They walked up to me, carrying no hesitation or fear in them. It made me glance up, finding Spear trotting up to me with his dimensional slicers lining his back. He glared at the stock for a moment before shaking his helmed head. Spear turned and pressed a speartip to my chest,
+
+"What is this? What have you done?"
+
+I set the compendium back in its rack, "We agreed to a ceasefire."
+
+Spear pushed the slicer against me,
+
+"No, you betrayed us."

@@ -1,0 +1,503 @@
+---
+id: 32662c43-7ccf-5653-8d50-0ef19ae5dff9
+page-type-slug: story-chapter-royal-road
+title: "264 Family Problems"
+slug: 0223-264-family-problems
+partOf: the-new-world
+position: 223
+ownLength: 6861
+unit: words
+ownProgress: 6861
+publishedAt: 2020-06-24
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/515079/264-family-problems"
+royalRoadId: "515079"
+markedReadAt: "2026-06-29T21:28:39.669Z"
+---
+
+Stepping over a few scattered clothes, I left our room, Althea sleeping soundly in our sheets. I passed through Mt. Verner's upper floor, the top floors delegated for only a few suites spread out by hallways. The people here settled down while night encompassed the day. Looking forward to a night of peace, I walked out of the hollowed mountain, stepping out into a waning skyline.
+
+Finding several piles of craggy, dark metal, I snapped my fingers. The golems sprung to life, more animate than before. They still took a few seconds to fully form, but they didn't mix and match pieces with each other anymore. They created rows that stood as a battalion of sorts, about one hundred strong.
+
+It was an impressive sight. Hard work pays off after all.
+
+Speaking of work, I got back to it, messing around with the cipher inscriptions at my disposal. In the corner of my eye, Florence's friend request came through. After accepting it, I sent him a map of Mt. Verner. I also asked for a talk at some point over the next few days. Settling in, two hours passed in the blink of an eye, my work consuming me as I weighed over a problem with the golem's targetting.
+
+A blip from my status ripped me from my stream of work. It was from Florence. He wanted to go ahead on the talk, so I sent him my location. Fifteen minutes later, snapping twigs and crushing leaves let me know where he was. As he pushed a branch aside, he peered down at me,
+
+"Hah, you enjoy working in solitude, I see. You and I are quite unlike each other in that regard."
+
+I peered up, sitting on a flattened stone,
+
+"This is...I don't know, like therapy for me? I love forests. Always have. I also like working with runes and carving. It keeps me at peace."
+
+Florence tilted his head, "What? You're telling me that helps you focus? If anything, I'd end up depressed working out here." The styled albony flopped down in a cross-legged position,
+
+"No offense."
+
+"None taken." I stared down at my carvings, "You don't mind if I work while we talk?"
+
+Florence raised an eyebrow, "Certainly not. I'll assume your using multi-consciousnesses right now. I was never a fan of them, but their utility in certain situations cannot be denied."
+
+I frowned, "Maybe, but I don't actually know what a muli-consciousness is."
+
+"Oh...How do I put this...they are fragments of your mind delegated to certain tasks. That lich was using them earlier, no doubt. That's the only way he could've handled that kind of workload. That and being a literal genius."
+
+I made a mental note to look that up and do some research on it. I looked up at Florence, "Torix is damn good at working with numbers, hypotheticals, and magic. Since you'll be working under me, I need to know your talents too so I won't waste them. This is also an introduction.  I'll be relying on you after all."
+
+Florence's black mask sheened from a fresh coat of wood stain,
+
+"I as well...I've heard about you from your accomplishments and demeanor. Helios was impressed as well, and that means quite a bit. Obolis's impression of you shines, however, and that's means even more."
+
+"Well...that's good to know."
+
+"Isn't it though?" Florence leaned forward, "You know I've been seeking Obolis's approval ever since I was just a cub. I still haven't earned it. Within minutes of meeting you, Obolis was sold on your bearing. Earning either of those two's respect is hard, almost impossible even. I don't know how you did it."
+
+I raised an eyebrow, "I'm guessing you've tried?"
+
+"Schema knows I have. I remember when I was a child, we were doing a dungeon clearing exercise. It was a simple sort of task, the kind that teaches teamwork and risk management. I led a group of misfits to second place, clearing the dungeon in record speed."
+
+"You broke the record but still took second?"
+
+Florence winced, "Yes. Helios abandoned his group and outpaced us, setting an even better record by himself." Florence stared off into the distance, "That's how it goes when you live in someone's shadow. You can stand as tall as you like, but when you're in the wake of a mountain, you end up lost in a sea of darkness."
+
+I frowned, my grimoire in hand,
+
+"Sounds rough. That's the first time I've heard about school exercises like that though."
+
+"What? Your race doesn't educate its cubs?"
+
+"Eh, I was born before Schema's systemization. I lived the majority of my life without any influence from screens and the eldritch. If anything, I came from a very primitive time."
+
+"Ah, that expains it. It's easy to forget given your position...Wait. how old are you?"
+
+I frowned since I hadn't thought about my age for a long time. For the most part, time blurred together since I didn't need to sleep. I blinked, counting up the months since the systemization. If I included the time I spent in dungeons and rifts where time was stretched, then I was...Damn, I didn't know.
+
+I scratched the side of my head, "Hmm, maybe 22? 25? I really need to start keeping track in all honesty."
+
+"How long are the years on your planet?"
+
+"They're 365 days, so decently long."
+
+Florence opened his status, doing a few conversions using tables of his home world's time. Schema could convert most computations, but some numbers required perspective that couldn't be handled by an algorithm.
+
+Florence leaned back when he finished,
+
+"I'm...older than you are. I'm 33 on your world."
+
+"Damn. Good job living that long. You're obviously doing something right."
+
+Florence blinked, "By Schema...Here I thought Helios was impressive. He's a mere child compared to you."
+
+I shrugged, "I got lucky."
+
+Florence grinned, "Hah, so did I and so was he. We were born into positions in an established family. I was also given an excellent rank and title due to my talents, though I personally doubt what others see in me. Tell me, how were you gifted?"
+
+"I spawned in a dungeon when the system started, so I ended up ahead of the leveling curve."
+
+Florence froze in place, his hairs standing on end.
+
+"You...you were spawned into a dungeon? From pre-Schema to post-Schema...in a dungeon...That's ridiculous."
+
+I looked back and forth, "Yeah, I know. It gave me a huge leg up in levels." I banged my thigh, the metal ringing, "It's how I got this armor too...Though, now it's my skin. Either way, it put me ahead in a big way."
+
+Florence pointed at me, "I could count the number of souls who'd survive a dungeon like that on a single hand, and Obolis is one of them."
+
+I met his eye, "You'd be surprised what you'd be willing to do to survive. You have more in you than you'd think. I know I did."
+
+Staring at me as if I said something profound, Florence nodded in silence. A moment passed before Florence scratched the back of his head,
+
+"Your people, they're interesting. I didn't know what to expect given the nature of this assignment, but they are a simple, industrious people. Perhaps a bit uncultured, but what can you expect from a planet that isn't even a decade into systemization."
+
+I frowned, "Uncultured? What do you mean?"
+
+Florence leaned back with his palms raised,
+
+"I don't mean that as an insult. I'm merely stating a fact. There are certain customs that are expected when speaking with others, at least in galactic terms. Each world is different in how they speak, even the different regions of a world, but there is a general, overarching  galactic standard that is expected from most everyone."
+
+Florence leaned back against a tree, "The humans I spoke with, charming in their own right, but they didn't know that galactic standard. It's offputting to snootier races, though I welcome the change."
+
+"Hm...That's useful to know. What's the galactic standard?"
+
+Florence shrugged, "If I'm honest, you're well past the point of needing to know it. Your gruff, direct speaking suits you better, and your position means no one will question it. They need you, so you can be at ease regarding politeness."
+
+I etched into the metal in my hand with a pointed finger, slithers of silver falling onto the ground,
+
+"I didn't plan on following the code either way, but I was curious about it."
+
+Florence tilted his head, "The most standard approaches involve a beginning sentiment for Schema, such as, 'For Schema.' You would then push your hands together and bow like this."
+
+Florence made a fist with his right hand and pressed it with an open palm. He leaned towards me for a split second before relaxing.
+
+I rolled me eyes, "I don't really do much for Schema. I've found he tends to give you just enough to keep you going."
+
+Florence frowned under his mask, "I don't make the rules, that's just what most large businesses will do before meetings. Afterward, they often resort to the same goodbye gesture. During the meetings, oftentimes self-interest will be disguised as thinking of Schema as well. This creates a hidden sub context to many conversations."
+
+Florence waved his hands, "Imagine it like this." He coughed into his hand, making his voice deeper, "This is business person one. Hello, business person two."
+
+Florence talked in his normal voice, "It's good to see you, business person one." He bowed with his hand gesture, "May this be a productive meeting for Schema."
+
+He spoke in the deeper voice, "For Schema. Now, our business is involved in mining within dungeons. Your mercenary company is excellent, but your prices are simply too steep. Perhaps lowering them would allow us to mine more resources at once, furthering Schema's aims."
+
+Florence turned, immersing himself in his imaginary conversation, "Perhaps, but our mercenaries are excellent for a reason; they are paid well. If we reduce their pay, then worse guards will be hired as a result. These failures will result in missing mining groups, and that wouldn't help Schema, would it?"
+
+Despite being put on the spot, his example gave me a clear, pristine picture of how those kinds of conversations were held. I noted that as Florence turned towards me,
+
+"That was a very...simplified version of what you might hear. That's just a few of the general customs, however. There are also methods for defining relations with other groups, general attire standards, and acknowledging compromises."
+
+"Man, fuck. That all sounds painful. Why not just speak directly?"
+
+"It's just how the customs developed around Schema's universe."
+
+I shook my head, "Why haven't I seen these customs before?"
+
+Florence stared up, tapping his chin with a knuckle, "Hmm, you likely haven't made contact with any businesses. Your guild deals in blood and the shedding of it. That brings political leaders who understand your position. You also tend to sweep away with those pleasantries by getting straight to the point. 'Why acknowledge social customs with a backwater savage?' is what they're thinking."
+
+I raised my eyebrows, "Huh. Let them think that then. It's better than kissing Schema's ass every three seconds."
+
+"It's a choice, that much is certain."
+
+I pointed at Florence with a sharpened fingertip, "You also mentioned educational programs. We have those under Torix, but it'd be nice to hear about someone else's courses."
+
+Florence sighed, "I was never a particularly good student, so I gained very little from the formal education programs we used. For the most part, they involved leveling standards, gaining certain generic perk requirements, learning about common dungeon setups, etcetera. I found that actually clearing dungeons was a far better teacher, but it is undeniably more dangerous."
+
+Florence stared at my grimoire, "Compiling a grimoire with certain spells was also a part of our programs."
+
+I lifted the book with a sly grin, "You won't find these runes in a classroom though."
+
+"Certainly. Those are the same archaic runes that Obolis tinkers with. They're powerful but dangerous. One of my cousins was gifted in those runes, and he created a spell that would give him a better handling of primordial mana."
+
+Florence stared into an abyss, "In the end, his entire soul was siphoned into the spell, and nothing was left but a zombied, umbral husk that cracked like charred paper at the slightest touch."
+
+I shook my head, "He sounds like he didn't actually understand the cipher. It's much better to use these runes to fully realize a subject you already understand, not try and further your understanding of something you don't. That's like trying to learn about explosives by mixing chemicals in your hands."
+
+Florence nodded, "It is and was a recipe for disaster. Obolis said the same, but the old buzzard respected his ambition nonetheless. I would kill for the same sentiment."
+
+I raised an eyebrow, "Then why haven't you?"
+
+An awkward silence passed as Florence's face deadpanned. Florence swallowed before wrestling with his words,
+
+"Huh, you do get straight to the point. Well...Hm...I suppose it's that I'm lazy. It isn't as if I enjoyed what I've been doing, the whole ruling worlds thing. It's a very dry, administratorial duty. It's something that suits Helios's talents, though not his disposition. I, however?"
+
+Florence pinched the bridge of his nose, "I was always someone who enjoyed parties and the like. Sitting in a room and reviewing an endless list of decisions made by other people...It's exhausting, and I couldn't take it"
+
+He coughed into a hand, "So...I escaped my responsibilities however I could."
+
+I narrowed my eyes, and I wanted to ask the guy if he'd run from what I'd ask him to do too. Before saying that, I remembered how I felt when I was forced to kill Yawm or wipe out Giess's cities. The more I thought about it, the more sense it made that he ran away. After all, responsibility was a hard thing to shoulder, and ruling a world definitely sounded like a chore.
+
+I reserved judgment as Florence pointed at me,
+
+"You must think I'm weak. I understand why, but please, try to understand my position. I failed my exams, yet Obolis threw me into an internship for ruling. I failed the goals of my internship, yet he appointed me as the controller of Belegara. I failed the standard productivity protocols for the planet, yet he still demanded I do it."
+
+I leaned back. I opened a can of worms bringing this up. Florence dragged his hands across his face,
+
+"It's obvious I don't want to do it, but I still am dragged into authority each and every time I fall. Obolis, he means a lot to me, but I am not the person he wants me to be. I wish I was, but I'm not."
+
+I kept working as he paused. I stirred something up that he obviously wanted to talk about, so I just let the guy vent for now. After channeling some mana into my grimoire, I floated a few glowing cipher inscriptions onto a new golem I constructed earlier. Florence gazed on in awe, his earlier turmoil fading,
+
+"I've never seen someone use runes like that. It's strange yet stunning."
+
+I scratched the side of my head, "Honestly, this is me trying to compensate for how these golems are about as smart as cloth. I'm trying to get them further along, but they learn so damn slowly. It's a refreshing challenge since it's different then what I'm used to doing, but yeah, emphasis on challenge."
+
+Florence narrowed his eyes, "What are they for?"
+
+"To walk through dungeons and clear them out for people. They're not ready, not by a long shot, but they have the potential."
+
+Florence blinked, dumbfounded by what I said. He tilted his head, "What material did you make them out of? You do know that certain eldritch eat dark iron, right?"
+
+I grabbed a piece of my forearm before tearing the skin off. As I did, Florence gazed on in horror. He fumbled backward as I lifted the metal with a gravity well before melting it. I turned to him as my skin wobbled in a glowing orb,
+
+"They can't eat this. This can eat them though."
+
+Florence gawked between me and the orb, his eyes growing distant. He stood up, walking over to me,
+
+"You're supposed to be a soft, backwater savage, but here you are-"
+
+I pushed him back with a telekinetic wave while moving the glowing metal away from him. He stood his ground, his feet dragging through the grass and stones. I tilted my head towards the orb,
+
+"Sorry about the shove, but you'd have ignited if you got any closer. I didn't want your clothes to catch fire."
+
+Florence's jaw went slack as he let out a nervous chuckle. The cackle kept going until it evolved into a heralding, deep laughter. He laughed until he was letting out tears, something about the situation just absurdly funny to the guy.
+
+It was my turn to gawk at him.
+
+"Uh, you ok?"
+
+Florence wiped away a tear from his eye, "You know, you have a way of making my problems seem so small."
+
+I shook my head with disgust, "Fuck. Was it that obvious what I was thinking?"
+
+"It, in fact, wasn't. I was talking more about what you worry about. You're over here thinking about how to end the eldritch or stop me from catching on fire. I'm wallowing over some petty, personal struggle. It's like I broke a fingernail, and I'm complaining about it to someone who's starving to death."
+
+I tapped the orb of metal beside me with a finger, making the sphere wobble above my hand,
+
+"Eh, problems are relative. If you think about it, my problems don't even revolve around me. I'll never have to worry about eldritch again, and you catching fire doesn't mean I'm in any danger. If anything, I have so few problems that I'm trying to make some for myself."
+
+I turned to Florence, "At least your problems are your own. You have people that expect the world from you. Besides-"
+
+I stared at a golem,
+
+"Sometimes, it's easier to defy expectations rather than meet them."
+
+Florence crossed his arms, "You'd be Obolis's favorite nephew. Of that, I have no doubt."
+
+"Maybe."
+
+"Where's your doubt coming from?"
+
+I reshaped the glowing orb into the middle section of a golem using gravitation. Wielding a burst of quintessent energy, I flash froze the metal. It screeched before flopping onto the ground. It cracked earth and crushed stone as I said,
+
+"Obolis and I would have butted heads all the time. Besides, I wasn't doing well with my formal education either. At least not when the system arrived. If anything, I was a lot like you."
+
+"We shall agree to disagree." He brushed himself off, "I hope you've learned what you needed to know. If you'd allow, I'd like to return to my new quarters to rest. This was a fascinating conversation, but we have quite a bit to do tomorrow. I'd like to tackle it with a clear, well rested mind."
+
+I nodded, "Sure thing. I'll try and think up what you'll be doing in the meantime."
+
+Florence gave me a slight bow, pressing a fist against his palm,
+
+"As always, for Schema."
+
+I laughed at his sarcasm as he walked off. Turning back to my work, I thought up what he'd be handling during our campaign. The fact he withstood my gravitational shove showed he had some combat chops, though that wasn't exactly a rigorous test.
+
+At the same time, he seemed better at ambassador style work. Given his connections and reputation as royalty, that seemed the better place to put him. He also understood far more about how galactic connections formed and operated. That information was something my guild lacked outside of maybe Torix, and even then, our lich worked more on hearsay than experience.
+
+Florence lived the kind of politics our guild needed to succeed in. He also took a lot of stress off of me. Even if I was someone who could get a lot done, I wasn't good at making friends with most politicians. I could make friends with other fighters like me, but that just wasn't the same. It was an arena I'd never fought in, but Florence had.
+
+The other useful quality Florence owned was his natural sociability. He talked with people in our guild like it was nothing. Anytime I tried that, people were overwhelmed, turning into yesmen in an instant. Florence disarmed people despite his presence, and that was invaluable. It let us get an honest, unguarded opinion of what was going on.
+
+Dwelling on those facts, I thought up a new position for Florence in our guild - the peacemaker. It was a simple title, but it would involve understanding our guild, their problems, and acting on them. I'd have him scout out our guild's positions, understand what was going on, then talk with Torix and me about it. Outside of that, he'd handle negotiations with other guilds, and I would be there with him to get a grip on how they're handled.
+
+I drafted up a set of duties for the guy before moving onto Helios. As much as he knew about management and overseeing a territory, a position like that wasted his talents. Trusting in Florence's judgment, I'd have Helios act as a sort of assistant for me. He'd warp me around with Spear helping out, and Helios could offer valuable advice at times. If I ever got into a fight, he'd act as potent support as well, his void ice and warping abilities useful against most opponents.
+
+Given his reputation, he likely owned other abilities I could use as well. For now, I didn't know them, so I'd delegate the best I could with what I knew. As I got more info, I'd adjust.
+
+After finishing up those tasks, I sent them both messages to meet me in the morning. I peered around right after, the mask of darkness draped over the trees around me. Standing near my side, several golems glowed in the darkness, quintessent mana piercing out of the gloom. I tapped the side of my cheek, thinking of ways to improve them.
+
+It would be another long night of trying new methods. I grinned at the prospect, enjoying the new experiment. Those hours passed in a peace I cherished. I spent so long in a different world with odd creatures, sights, smells, tastes, customs, cultures, and geography. It was alien and unfamiliar, like an assault on my senses at all times.
+
+Earth was a cozy, homely place by comparison, and after spending so long away from it, I missed my homeworld. No eldritch roamed near Mt. Verner, our guild locking down nearby dungeons long ago. No silvers established spire forests that loomed on our horizons. Hell, we didn't even have fancy guilds vying for dominance.
+
+Not yet at least.
+
+This let us enjoy prosperity that few people had, and my visit to Giess drove that fact home. I wanted to keep Earth like this, safe from prying eyes and greedy fingers. Considering our world lock would be ending soon, that dream wouldn't remain a reality for long. At least if I didn't do anything about it.
+
+To my understanding, guilds rushed in the moment a world opened up for expansion. They cleared dungeons, subjugated the population, and ruled over their newfound territories with iron fists. The only way to stop that was to establish cities first.
+
+Doing so opened up our guild for attacks, however. If we opened up dozens of branches, it would be a signal flare for the Adair's. Considering what I did on Giess, they might even destroy the entire planet with Lehesion. At the very least, I couldn't guarantee any of our guild branch's safety.
+
+If I left Earth to incoming guilds, however, I would be throwing my homeworld to bloodthirsty wolves. I couldn't iron out an exact solution, so I tucked away my concerns for the night. Rome wasn't built in a day, and I sure as hell wouldn't be building something bigger than Rome overnight.
+
+So, I immersed myself in my golem's construction, having about a battalion's worth ready at my command. I made rounds to several nearby dungeons, and several of the golems I left in them actually kept the eldritch at bay. Of course, they needed simple enemies.
+
+After having experimented for a while, that's what I found the golems best at. They couldn't clear out a dungeon, but they could keep them clear. It wasn't ideal, but it wasn't a bad result either.
+
+With that in mind, I made a few plans to have a meeting with our dungeon clearing community in the morning. A few leaders showed up in the field, so meeting them wasn't a waste of time regardless considering they ironed out the dungeons here. Having my golems take the workload off them would be a massive utility as well. It would be something our guild took credit for, giving us a leg up in establishing more territory.
+
+If I made enough golems, we might even be able to take some cities far from here, maybe even in another state.
+
+These thoughts drifted in my mind as I worked, almost like a pleasant daydream of what could be. After finishing a dozen more golems, the sunrose in the distance, light leaking through tree branches. I took a deep breath, preparing to leave this sort of sanctuary I made for myself. I rolled my shoulders, willing my golems to hibernate here. They fell into piles of dark metal, a patch of the mountain smothered in them.
+
+Returning to our inner base, I met at the crack of dawn with several leaders of our dungeon clearing programs. We organized ourselves on the third floor, near a combat training center for Torix's students. Sitting on a wooden table, three grizzled veterans met my eye.
+
+The first was an older woman named Isa Bennet. She carried scars over her face, and her leather gear matched her peppered hair, old but not out of date. Beside her, a brawny man named Lester leaned towards me, his attention rapt. He had a darker complexion, and despite his size, he lacked any real wounds. In the back, a smaller framed mage eyed me from underneath a robe littered with runes.
+
+His name was Bryan, and he was a man in his mid-fifties with an awesome beard. It was truly majestic. Cool beards aside, I walked in with the three of them waiting on me. I stayed standing with my weight supported by antigravity wells, no one else the wiser.
+
+Isa stared with thinly veiled reverence, "Hello guild leader. You mentioned something urgent for us. We're here to listen to whatever you have to say."
+
+The others nodded. I spread out my hands,
+
+"I've been creating golems that can keep dungeons cleared after someone's reset the eldritch there. I wanted you guys to try and place them in some of the easier dungeons nearby so that you can focus on the more difficult rifts."
+
+Bryan narrowed his eyelids,
+
+"Hmmm, I don't want to doubt you, but we've tried making golems before. They always fail since eldritch can adapt to them quickly. For instance, if you make a stone golem, it won't be long before stone-eaters are spawning in the dungeon."
+
+I shook my head, "I've made these golems out of a substance that can actually eat eldritch. You won't have to worry about them spiraling out of control once a golem's been put in place. Trust me on that."
+
+Lester tapped his chin, "No offense, but that sounds too good to be true. Coming from you, it seems more possible."
+
+I weighed my hands back and forth, "Eh, the golems aren't perfect, don't get me wrong. They'll need weekly checkups from someone competent, but that's a much lower workload than clearing the dungeons once a month. I only have a few of them that work as well, so think of this as a test run."
+
+Isa frowned, her scars wrinkling, "We use the simpler dungeons to teach new recruits and train our soldiers. Losing them would be losing out on a valuable resource."
+
+I raised an eyebrow, "But you can keep a few of those dungeons nearby for those training exercises. This is more so for maintaining larger areas of control." I looked at each of them, "After all, we aren't going to be staying near Mt. Verner forever. I want to expand the guild and to do that, we need cities."
+
+I turned a palm to them, "To make cities, we need dungeons cleared, and given our resources, this could let us make that happen much quicker."
+
+Lester kept his chin down, "What if an intelligent eldritch is in the same dungeon as one of these golems? Could they maybe learn to control it and use it against us?"
+
+I nodded, "Yes. That's a real risk, and that's why I mentioned weekly checkups along with careful placement. We don't just want these golems being put just anywhere. Freshly cleared dungeons would be preferred. They could kill off anything as it spawned then."
+
+Bryan turned to the rift managers, "I'm convinced. I think this is a good idea. We stress our resources every day keeping this area clean. This could let us go out and help a few of the nearby settlements. We could help a lot of people while gaining some much-needed ground."
+
+Bryan shrugged, "We are lacking iron and a few other resources here...I think it's worth a shot."
+
+Isa and Lester thought it over while I waited with patience. After a few minutes of discussion, Isa gave me a begrudging smile,
+
+"You make a hard sell. We'll do what we can with the golems you give us."
+
+I grinned back, reaching out a hand, "Hell yeah. Let me know what you guys think and I'll be back with you all later."
+
+She grabbed my hand, hers small in mine yet firm. I turned to the others, "Oh, Bryan, your runic markings are pretty good. I think tightening up a few of your forms would take your work to the next level though."
+
+Bryan peered at his cloak, then back to me, "I...is that the difference between our markings?"
+
+I didn't want to tell random people about the cipher, so I lied,
+
+"Uh...yeah, pretty much."
+
+Bryan lifted a finger, "I'll go try that out while it's fresh on my mind."
+
+I raised my hand, "Alright then. Let me know how the golems work out later. You're all dismissed."
+
+I walked out, closing a door behind me. As I did, the three of them took a deep breath. Lester spoke out,
+
+"I thought he was going to talk to us about our extermination standards. Thank god that's not the case."
+
+Isa gasped, "Tell me about it. I just about collapsed when he walked in."
+
+Stepping out of earshot, I appreciated each of them putting in an effort to act 'normal' around me. Even if they didn't know how good my hearing was. That meeting managed, I gave them the location of my golem crafting along with which golems to take.
+
+One meeting handled, I moved onto the next one via my messages to both Helios and Florence. I waited for each of them in the open library at the third floor's entrance. Here Torix's academy educated the masses, and we gave our people the ability to fight against eldritch and Adair alike.
+
+I sat near students and scholars, though no one dared share my table with me. They stole glances while they thought I wasn't looking, and they whispered with hushed voices,
+
+"What is the guild leader doing here?"
+
+"Have you been watching his streams? He destroyed Giess singlehandedly."
+
+"He's terrifying."
+
+They were right, and I sometimes scared myself. Either way, a minute or two passed while I soaked in the smell of old paper and aged wood. Coming in first, a portal appeared nearby, and Helios stepped out of it while peering around. He found me, and walked over with his cape hanging behind him. As he came over, I stood,
+
+"How did you sleep?"
+
+Helios peered at the library's books, "As well as was expected. I was surprised to see that your guild made a bed with the right dimensions. Many worlds forget that detail for higher leveled individuals."
+
+Helios turned to me, "It shows a measure of care I did not expect from your homeworld."
+
+"I'm guessing they must have used the same size they do for me."
+
+"Then that explains why the bed was too large." Helios peered up at me, "Though your size seems to vary often since I've known you."
+
+"What can I say, I'm leveling fast?" I said. I lifted a hand to Helios, "I'll be doing more of that today with Obolis, wherever he'll recommend we go."
+
+Helios tilted his head, "Indeed. We could use a brute of your stature considering what we're faced with."
+
+I raised an eyebrow, "Yeah, if that's how you want to frame it, sure. Either way, I've decided what you'll be doing here."
+
+Helios showed no signs of nervousness with his body language, outside of an inaudible gulp. Well, inaudible to most. I raised a hand,
+
+"You're good at fighting, and you like it. You also have a lot of experience with what goes on in the galaxy. I want you to be my advisor, along with helping me and my allies move around with your portalling abilities."
+
+He leaned back, "Of all things, you would ask for my counsel? Strange."
+
+"Uh, yeah I would. You ruled a world and have an education from a Schema ruled world's perspective. I don't. I'll need someone's advice, and even though I respect Torix, he was kind of a recluse. You're someone who's been out and about, and that's something I lack."
+
+Helios paused, giving his new responsibilities some thought. He scoffed from under his mask, "This is a far higher position than I expected. I must say, I'm pleasantly surprised."
+
+I gave him a pat on the shoulder, "Just remember, I fight where others won't. You'll be helping me get there, meaning you'll be going to those same hellholes. Try to have fun along the way."
+
+Helios murmured, "I...I shall attempt to do so."
+
+Interrupting our conversation, one of the elevators at the center of Mt. Verner opened, and a boisterous group of welders walked out. I could tell by the smell they carried. Among a few of them, Florence sauntered out while finishing a story,
+
+"And she slapped me so hard my mask flew off."
+
+The group laughed while Florence looked around,
+
+"In all honesty, I deserved it."
+
+He found us, the styled albony strutting over. As he did, Helios sighed. I grinned,
+
+"You're already making friends, huh?"
+
+Florence nodded while waving at the workers, "They're more open to other species than most. I appreciate that, and it makes this place feel more like a home because of it." He turned to Helios,
+
+"How goes it, brother?"
+
+Helios raised his eyebrows, his disheveled fur ruffling,
+
+"Worse now. You're late."
+
+Florence let his hands flop against his sides, "Eh, there's not much I can do about that now. Anyways, what is it that you need this bright and early in the morning, leader?"
+
+I raised a hand, "I wanted to let you both know what you'd be doing here, and I preferred telling you in person so that we could talk it out if you disagree."
+
+Helios sighed, "It is not our place to argue with those stationed above us."
+
+Florence nudged his brother, "Come now, he's given us the opportunity, so we should take it...Though there isn't much to argue with yet. What will you have us do?"
+
+I met Florence's eye, "You'll be an ambassador and peacekeeper for my guild. You know how to get cozy with people. That's good. Personally, I struggle with it, and that means I don't really know where the average guild person is at."
+
+I pointed at Florence, "That's where you come in. You'll be responsible for keeping tabs on the branches of the guild, getting to know everyone, and letting Torix and I learn what you know."
+
+Florence put his hands on his hips, "Is that all?"
+
+"You'll also be our ambassador for meetings with other guilds. I don't know fair trade deal values or how to make nice with politicians. You look like you have some experience there. I'll have you advise me when making those deals."
+
+Helios crossed his arms, "Would you mind if I 'advised' you already?"
+
+I frowned, "Sure."
+
+"This is a foolish idea. Florence understands nothing of galactic rates or how to maintain alliances with other nations. His lack of order led to the fall of Blegara, and now we'll be going to clean up his mess."
+
+Florence shrugged, "Blegara never wanted to follow the Empire. The people there are headstrong and iron-willed. You would know that if you'd ever talked to them for more than just telling them what to do and when to do it."
+
+Helios glared, "And it was in your hands to crush their iron wills, yet you failed to do so. Your failure is the reason this rebellion lives on, and it is the reason our soldiers die because of it."
+
+Florence shook his head, "If you believe that Belka is any different, you're lying to yourself. They hate us just as all the other planets under the Empire's control do. The way we rule, it can only last so long."
+
+I looked between them, "Stop bickering. We don't have time for it. Do either of you disagree with what I'm asking you to do?"
+
+Helios turned to me, "No."
+
+Florence nodded at me, "Of course not."
+
+I put my hands on their shoulders, "Alright then. Say, you both seem to have a competition of sorts with each other. It's a friendly rivalry. How about this - whichever one of you does your job better gets to be the other one's boss until you're both not under me anymore."
+
+I turned my palms to each of them, "How's that sound?"
+
+Helios let out a long, deep laugh. He lifted his chin into the air, staring down at his brother,
+
+"What about it then? I do enjoy a friendly competition."
+
+Man, they really let their ego get in the way of their work. Florence turned to me then back to Helios. Florence tapped his sides with his hands, fidgeting around before he squeezed his hands to fists,
+
+"That...That sounds good to me. I'd enjoy giving you a good ass-kicking after all these years."
+
+Helios gave him a slow nod, "Oh, I'm certain you shall." Helios tilted his head to me, "Then it's settled."
+
+I gave them a thumbs-up, "Alright, you both get to decide what happens to the other after a few months. Torix and I will decide who did the best job overall. Go ahead and get to it."
+
+Florence turned, walking away with renewed vigor. He stepped into one of the elevators before giving me a salute, "Of course, sir."
+
+As the doors closed, Helios snickered, "Hah, he honestly believes he has a chance to defeat me? Interesting, but foolish."
+
+The elevator doors opened before Florence walked back over to us. He coughed into a hand, "Ahem...So, how would I go about doing what you asked me to do?"
+
+Helios let out another derisive laugh before I tapped my chin,
+
+"In all honesty, I don't know. If I were you though, I would present it like a question to myself. 'Daniel wants me to learn the guild's ins and outs, and he wants me to manage the guild's galactic relations. What's the best way of doing that?' That's how I'd handle it."
+
+Florence snapped his fingers, "Then that's what I'll do. Thanks for the advice."
+
+He sauntered off, getting to work right away. Helios narrowed his eyes underneath his mask,
+
+"You're more clever than you first appear."
+
+I shrugged, "I'm just taking things as they come. Anyways, I wanted to run a few things by you. You know, as my advisor."
+
+Helios raised his eyebrows, "Hm. Speak of your concerns. I'll listen to them."
+
+"So, I've been thinking of using educated golems made of my own melted skin to guard dungeons and rifts nearby. Does that sound like a good plan to you?"
+
+Helios stood there, frozen in place like a statue. A prolonged, awkward pause passed over us before the ruler of worlds shook his head,
+
+"I...I misheard you. Say that again?"
+
+"I made golems out of my metal skin and trained them to guard dungeons. Is that a good idea or not?"
+
+Helios stayed very still, contemplating what I said. He lifted his hands with a slow rise before resting his masked face in his palms. He groaned,
+
+"This...This will be more difficult than I first envisioned."

@@ -1,0 +1,105 @@
+---
+id: e7e18b64-c660-5ce8-92f3-7168311c7e5b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6: Mission Commerce Failure"
+slug: 0006-chapter-6-mission-commerce-failure
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 6
+ownLength: 1748
+unit: words
+publishedAt: 2025-09-07
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2580797/chapter-6-mission-commerce-failure"
+royalRoadId: "2580797"
+---
+
+My new reality had settled into a grim, monotonous rhythm: find boar, display sword pictogram, watch Korg smash, collect loot, dispense one (1) steak as a reward. Rinse and repeat. His Aegis of 21 meant that most low-level forest creatures might as well have been hitting him with wet noodles. He was a walking, grunting, seven-hundred-pound tank, and I was the beleaguered operator, grinding away for the SPP that would hopefully, one day, buy me a sliver of sanity. We were just shy of the 1,000 SPP needed for my Level 1 upgrade, a goal that felt both tantalizingly close and cosmically distant.
+
+During one of our aimless wanders between boar territories, we crested a small, grassy hill. Below us, nestled in a shallow valley, was a village. Not a ruin, not a goblin camp, but an actual, functioning settlement with thatched roofs, curling smoke from chimneys, and the distant, tell-tale sound of a hammer on an anvil.
+
+My first instinct was to turn Korg around and march him back into the woods. NPCs meant complications. Complications meant opportunities for my user to generate catastrophic, achievement-granting misadventures. But as my system-enhanced senses scanned the area, I noticed something that gave me a sliver of hope. Walking among the humans were other figures: a hulking, feline-looking woman carrying a basket, a scaly lizard-man haggling over vegetables, and a few stout, bearded folk I tagged as dwarves. It was a mixed-race settlement. A hub of diversity.
+
+Okay, Ana, I coached myself, the hope of a dangerous, flickering candle in the hurricane of my cynicism. He can walk in there. He’s a Minotaur, not a mindless monster. In a place with cat-people and lizard-men, a bull-man might just be seen as another Tuesday. We can get information. Maybe even find a quest that doesn't involve him trying to eat the quest giver.
+
+The plan was simple: walk in, be cool, don’t smash anything. I projected a pictogram of a hand—my symbol for ‘interact, don’t attack’—and a simple arrow pointing towards the village gate.
+
+Korg grunted his understanding and began to lumber down the hill.
+
+The moment he stepped through the crude wooden gate, it became clear that my definition of ‘blending in’ and the reality of the situation were two very, very different things. The ambient chatter of the villagers didn't just quiet down; it died, strangled in an instant of collective shock. Every head turned. Every pair of eyes—human, feline, reptilian, and dwarven—locked onto the seven-foot-tall, spear-wielding bull-man who had just entered their lives.
+
+A child dropped an apple, which rolled across the packed-earth street with the volume of a thunderclap.
+
+Korg, bless his goldfish brain, completely misinterpreted the situation. He saw a hundred faces staring at him, and his simple brain processed it not as fear or shock, but as adoration. He thought he was a celebrity.
+
+He puffed out his chest, striking a pose that was the same as in Strong Korg button, but looked more like he was preparing to charge. A wide, toothy grin spread across his bovine face. "Korg!" he announced to the terrified populace, as if they had all been waiting with bated breath for his arrival.
+
+I wanted to cease existing. I wanted to find the uninstall script for my own consciousness and run it with extreme prejudice, the cringe was too much. But through the pit of second-hand embarrassment, my QA brain spotted an opportunity. A squat stone building with an open front, from which the rhythmic clang… clang… clang… of a hammer originated. A plume of black smoke rose from its chimney. A blacksmith.
+
+Upgrade, the thought cut through the panic. The spear was for stabbing, but his fighting style was smashing, making it a useless stick with a non-utilized sharp end. If we get him a mace or even a club, the SPP grind will be twice as efficient.
+
+Ignoring the ever-widening circle of terrified faces around my host, I guided him towards the smithy with a new pictogram: a mighty club.
+
+The blacksmith was a dwarf, and he was a perfect specimen of the archetype. Old, bald on top with a magnificent, braided grey beard that was tucked into his belt, and arms thicker than my old programmer’s thighs. When we blocked the sun from his doorway, he looked up from the glowing piece of metal on his anvil, his expression not of fear, but of pure, unadulterated annoyance.
+
+"Oi," he grumbled, his voice like rocks in a tumbler. "If you're here to stand there and look ugly, do it somewhere else. You're blocking my sunlight."
+
+This was promising. He wasn’t screaming. He wasn’t running. Business, for this dwarf, it was a business.
+
+My focus scanned his wares, which were displayed on a heavy wooden rack. Swords, axes, shields… and there it was. A brutal-looking, one-handed mace with a heavy, flanged head. Perfect. No sharp edge for Korg to accidentally cut himself on, just pure, unadulterated smashing power. It would work beautifully with his smash-everything-with-sword-icon-above-their-head strategy.
+
+Time for another training exercise. I flashed a sequence of pictograms in Korg’s vision: a drawing of him holding the mace, followed by a drawing of a very dead boar.
+
+He got it instantly. He pointed a sausage-sized finger at the weapon rack. "Stick," he rumbled, his eyes wide with desire. "Korg strong!"
+
+The dwarf grunted, wiping sweat from his brow with the back of a hairy forearm. "Aye, that she is. A fine piece of work, even if I do say so myself. Solid steel head, oak haft. Cost you a pretty penny, though." He crossed his arms. "Ye be havin' money to pay for that, bull-lad?"
+
+Money. Of course. For a moment, my plan hit a brick wall. Then I remembered the little leather pouch Fipwick had so conveniently dropped. I focused on the inventory slot, and with a mental command, materialized the [Fipwick’s Coin Pouch] directly into Korg's open palm. It appeared with a soft pop and a faint shimmer of blue light.
+
+Korg stared at the pouch in his hand as if it were a venomous snake. He looked from the pouch to the sky, a confused "Moo?" escaping his lips.
+
+The dwarf’s eyes widened, first at the casual display of magic, then at the satisfying heft of the pouch as he snatched it from Korg’s hand. He loosened the drawstring, peered inside, and his bushy eyebrows shot up. "Well, I'll be," he muttered, counting the coins. "Aye, this'll do. This'll be enough for the mace, and then some."
+
+And that’s where the entire social interaction went terribly wrong.
+
+I watched the logic bomb detonate in Korg’s simple mind in slow motion. Sky Spirit give shiny thing. Korg have shiny thing. Dwarf take shiny thing.
+
+The conclusion was simple, direct, and utterly catastrophic.
+
+Dwarf bad.
+
+His happy, goofy expression vanished, replaced by a mask of pure, bovine fury. A low growl rumbled in his chest, and his nostrils flared. Before I could even think to flash a red skull, he brought his fist down on a nearby workbench, which was laden with half-finished horseshoes and tongs. The heavy oak table didn’t just break; it exploded, sending a shower of splinters and hot metal tools clattering across the stone floor.
+
+"By my father's beard!" the dwarf shrieked, scrambling backward, his professional composure utterly shattered.
+
+Korg snatched the coin pouch back from the dwarf's stunned grasp. Then his eyes fell on the mace again. He reached out, plucked it from the rack, and in the same motion, dropped Pokey-Stick to the floor with a sad, metallic clatter.
+
+My non-existent heart twinged. Goodbye, Pokey-Stick. You were a good weapon, but you were useless in our hands.
+
+With the mace in one hand and the pouch in the other, Korg’s gaze swept across the smithy and landed on a second item: a large, heavy-looking smithing hammer with a square head, leaning against the anvil. His eyes lit up—a new equation formed in his tiny brain, one of beautiful, idiotic simplicity.
+
+One shiny stick good. Two shiny sticks… more good.
+
+He needed his other hand free. Without a moment’s hesitation, he dropped Fipwick’s coin pouch onto the floor and snatched up the hammer.
+
+Outside, the sound of shouting erupted, along with the tell-tale clank of armor. The guards had arrived.
+
+I didn’t have time for an existential meltdown. My QA instincts took over. Problem: User has initiated unprovoked PvP in a neutral zone. Solution: Execute escape protocol.
+
+I painted a bright, pulsating golden arrow on the ground, leading out the back of the smithy, through a narrow alley, and towards a low section of the village wall. It was the most idiot-proof "GET OUT NOW" sign I could design.
+
+Korg, now dual-wielding a mace and a blacksmith’s hammer, saw the glowing path. Sky Spirit wanted him to go. He let out a final, triumphant roar at the terrified dwarf and charged, following my arrow with the blind obedience of a golden retriever.
+
+We crashed through the alley, busted through the wooden wall with explosive ease thanks to his Might stat, and didn't stop until we were deep in the relative safety of the forest once more.
+
+Only when the shouting from the village had faded did I allow myself to process the sheer, unmitigated disaster of the last ten minutes. I ran a mental post-mortem, trying to find a single positive outcome.
+
+Then it hit me.
+
+He got the mace. And a hammer. He left his old, crude spear behind. And he left the coin pouch, which the dwarf had confirmed was worth more than the weapon he’d taken. And the damage to the table… well, the leftover change would probably cover that, too.
+
+In the most chaotic, roundabout way imaginable, he had… paid. He had entered a town, caused a panic, committed assault and property damage, and fled from the law, but in the end result of the transaction was financially sound.
+
+A profound wave of exhaustion washed over my consciousness. What was the point of all my careful planning, my pictograms, my reinforcement training? His pure, unadulterated incompetence had achieved the desired outcome anyway, just with more screaming and collateral damage.
+
+This wasn't a game I could guide him through. This was a force of nature I could only hope to redirect in the right direction.
+
+[Mission Commerce: Failure.] The notification compiled itself in my mind, a bitter, final summary. Or maybe… maybe it was a success. I honestly couldn't tell anymore.

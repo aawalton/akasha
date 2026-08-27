@@ -1,0 +1,21 @@
+---
+id: 1ebdce7c-9145-5c8d-b97f-28cfb3c5c980
+page-type-slug: story-chapter-royal-road
+title: "Imminent Break starting now."
+slug: 0751-imminent-break-starting-now
+partOf: savage-divinity
+position: 751
+ownLength: 350
+unit: words
+publishedAt: 2021-09-27
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/757784/imminent-break-starting-now"
+royalRoadId: "757784"
+---
+
+So yea... that break I warned you all about? It's here. Chapter 742 was the end of volume, which I forgot to mention at the end, so at least you're stopping at an... okay point. I pretty much sum up my thoughts here on Patreon but tldr, writing is hard, tying up loose ends is harder, and I want to get this next arc right. I'm gonna take some me time, then do some pressure free writing without deadlines or input, and see how it goes. No idea how long I'll be, but def more than a week or two.
+
+2021 has been a shit year for many, not much better than 2020 tbh, and SD in particular has suffered from a lot of breaks and delays. Some I couldn't help, since wisdom teeth removal and vaccine aftermath is out of my hands, and other things are just me being bad at work/life balance, but since I've started writing, this might well be the first time I've felt pressured to get it right. Not gonna lie, I pretty much hate almost every chapter I release and wish I could do it better, but the release schedule kept me always moving forward even if I wasn't entirely happy with what I had. I can't do that anymore, or at least, I don't feel like I can, so I'm gonna try something new and see how much I write when I allow myself to edit and revise to my dark heart's content. I'll be on Discord as always, so hop on to see if I'm slacking or bother me about when the next chapter will be, though I can't promise I won't kick you for asking.
+
+I would like to thank you all for making it this far. Not just my rant, but the story itself, which began as little more than an idle thought and has since spiralled out of control into this 700+ chapter behemoth. Thanks for sticking with me, and I ask for your patience once more as I sort my shit out.
+
+Take care, and bye for now.

@@ -1,0 +1,123 @@
+---
+id: 26928443-85ac-5672-a09f-3f24611850e5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 666: Please… no!"
+slug: 0088-chapter-666-please-no
+partOf: system-change-system-universe
+position: 88
+ownLength: 2047
+unit: words
+publishedAt: 2026-07-14
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3677945/chapter-666-please-no"
+royalRoadId: "3677945"
+---
+
+Chapter 666: Please… no!
+
+Hall Master Sheen looked Alex up and down with his glowing eyes. The gentle smile on his face turned into a slight frown before returning to gentle. He imperceptibly shook his head, then said, “Did you truly land a killing blow on Davis Grimshaw? You do know that he was one of the Grimshaw heirs being considered for the main branch, correct? Yet you, with the support style of your own branch, were able to land a killing blow?”
+
+“Um… well… yes… actually,” Alex replied. Then, with a sigh, he steeled himself and said, “I know we have only just discussed this, but I don’t see much of any other way, and I know for certain that it is the truth, but I could swear an oath to you that I did as I said I did.”
+
+“Do it,” Hall Master Sheen said without hesitation.
+
+The quick command took Alex by surprise, but soon he nodded and said, “I, Alexander Loo…”
+
+“Stop!” the hall master halted the young man, then nodded. “That is good enough for me. You truly defeated a member of the Grimshaw Clan who had a very good grasp on his darkness affinity. Today has truly been an enlightening day for this old man. It has been one surprise after another, and now, an even more pleasant surprise. You will be rewarded for what you have done.”
+
+“I don’t need to be,” Alex replied.
+
+“And why do you say that?” the hall master asked.
+
+“Because… I do not like killing. I wish I didn’t have to. If they had chosen to go their separate ways, I would have been more than happy to have done the same. That life is not one for me,” Alex explained thoroughly. “I would rather use my talents to learn and help the clan from within. I am not built for fighting and executing—I told my father this before he sent me to the battlefield. Nobody listens to me.”
+
+“I understand,” Hall Master Sheen said. There wasn’t even a trace of disappointment on his face or in his voice. “Then the fix for that is simple.”
+
+“Fix?” Alex asked.
+
+“Yes, a fix. One that will allow you to move to a position more suited to your abilities and… ambition,” the man explained.
+
+“And what is that?” Alex asked. Derek looked at the young man and saw his eyes shining with hope. The guy truly didn’t want to have to fight for the rest of his life.
+
+Derek couldn’t blame him one bit. The adventurer’s life—a life of battles and life-or-death situations—just wasn’t for everyone. Brandi was that way, too. The last thing Derek would want would be to force Brandi into such a life. Though he did hope that her class and abilities would continue to grow in a way that would allow her to protect herself if ever needed—along with the ability to become one hell of a crafter in the Origin System.
+
+“It is simple,” the hall master said. “Just ask it as a reward for slaying Davis Grimshaw. The clan should have no reason to deny someone from your branch of the family that. And if needed, I will back you. It is the least I can do for providing such entertainment to me on this day.”
+
+“That… are you serious?” Alex asked with a slack jaw. “By killing someone… I am able to not have to kill anyone again?”
+
+“That is correct,” Hall Master Sheen said before looking back over at Derek. “You said that you had another friend fighting with you? One who took out the second escort for the Grimshaw boy?”
+
+“Yeah,” Derek replied.
+
+“Who?” the hall master asked.
+
+“Just a friend of mine,” Derek replied.
+
+“And who was this friend? And where is he now? Did he not come with you?” Hall Master Sheen asked.
+
+“Just a friend,” Derek said again. “And he stayed back on the planet since he didn’t want to leave. He was having way too much fun. I have to admit, if I didn’t have certain duties that I have to attend to, I probably would have stayed back there with him. It wasn’t such a bad place.”
+
+Of course, back then, Derek couldn’t wait to get off that planet, but that wasn’t necessarily because he wasn’t a fan—it was because he had a space full of people that he was responsible for. Also, having the space filled took away the skill that he needed the most. He hadn’t done more than open a portal with it since being in the Origin System, but he already had a feeling that he would need to increase its level by quite a bit before he would be able to use it to travel between system tiers.
+
+It was one thing to travel between the Davenresh System and the Universal System, but to travel from the Origin System to any other system—based on the limited information that he currently had—didn’t sound like it was going to be so easy to him.
+
+“Hmm…” the hall master ran his hand over his beard. “So, you are saying that you have no qualms about killing monsters and system users?”
+
+“If they cross me or someone I care about? No,” Derek shook his head. “And as bad as it may sound, I no longer lose sleep over slaying those who were just doing their job if their job happens to put them in my way or has them endangering those close to me.”
+
+“That… does not sound bad at all,” Hall Master Sheen said. “That is how the universe works. It is good that one as young as yourself has already come to such conclusions. Speaking of age, and assuming everything that you have said has been the truth—which I have no reason to doubt—if you truly defeated Nikolai like you say, luck or no, you must have a Mythical-Ranked class. How old are you? You certainly look quite young for your rank and level.”
+
+“Uh… I don’t know,” Derek said with a shrug. “I don’t really pay attention to that.” The Origin System also didn’t keep track of it. “But I’m closing in on my mid-30s pretty soon. I’m getting up there in age.”
+
+Everyone looked at Derek in stunned silence. He didn’t bother denying that he had a Mythical Class—it was easy enough for the man to figure that out. However, he didn’t think much about the age thing. Of course, he could have gone the other way and told him that he was likely centuries old or older, but that could point to some time affinity or void affinity use. So, he went with what seemed to be the truest based on how he thought of himself.
+
+Apparently, that was not the correct call. Apparently, saying that he was centuries old would have been much easier to believe and less suspicious. Oh well… live and learn, he thought. People from the Davenresh System have limited lifespans, so it’s no wonder that they would be younger and also at higher levels. They also don’t know about affinity. Since people from the Origin System know all about that, it makes sense that they would take their time and progress at a slower and steadier pace.
+
+“What?” Derek looked at everyone with a smirk—deciding to play up the role a bit more. “Surely, it’s not that rare to see someone at my level and age. I’ve met plenty of strong people around my age.”
+
+“Your level and age aren’t the problem,” Hall Master Sheen said. “It’s your rank and age. There are countless level 250s who are but 20-years-old out there. They just all have common or uncommon classes and can only hope to become a level 1,000 rare-ranked user who can barely hold their own with a level 500 Mythical by the time they are finished growing. But a young, talented Mythical-Ranked user is quite rare.”
+
+Derek shrugged. He looked at Alex with a shrug. “Pretty sure the guy who beat down the water user from the Grimshaw clan was younger than I am.”
+
+“Is he?” Alex’s eyes went wide.
+
+“I think so… I never asked,” Derek said.
+
+“But he looks… old,” Alex said.
+
+“That’s just because he’s bald and skinny,” Derek replied. “If he had some hair and a couple of extra meals, he wouldn’t look a day over 25.”
+
+“Oh…”
+
+“Anyway, Mr. Hunt,” the hall master cleared his throat. “You must be part of a powerful clan or have some great backing to be at this stage while so young.”
+
+“Eh…” Derek shrugged. “I do okay.”
+
+“Though, I am taken aback that any clan or organization with such a talented member would allow him to travel to such a planet and fight against someone like Nikolai. It is not my place to ask, but I am curious… did your backers give you an item to use to keep you safe? Is that why you fought that man?”
+
+“Oh, that? No,” Derek replied. “I don’t have anything fancy like that. If it’s someone within my range, I’ll fight them myself. If I die, that’s just bad luck. Now… if someone overly strong were to set eyes on me—someone who could squish me like a bug… then they may make someone very angry.”
+
+“I… see…” the hall master replied. “So a backing that isn’t going to interfere with the younger generation’s quarrels, but won’t stand by if an old fogey interferes.”
+
+“Something like that,” Derek replied. He had to wonder if Dave would actually do something or even feel bad if something happened to him.
+
+“Hmm…” the man scratched his bearded chin. “You know, the Loomis Clan is not a bad clan to be a part of.”
+
+“Yeah,” Derek replied with a nod. “Like I said before, I’ve been surprisingly impressed by what I’ve seen. It looks like you actually give your members opportunities and don’t just push all resources onto a single person or branch.”
+
+“It is more of a merit-based system that we use,” the man replied. “But I am happy that you have such a positive view so far during your short time here.”
+
+“I have,” Derek replied.
+
+“You know… it is possible that we could provide you with some extra backing…” the man continued. “Of course, that is, if your current organization or clan would be okay with that.”
+
+“Oh,” Derek waved the words away. “They don’t care what I do. I’m pretty free.” At least, as far as he knew, he was free to do as he wished. He did turn Dave down a time or two.
+
+“Good… good,” the old man said, his smile growing even wider and brighter. “I just happen to have a great, great, great…” he looked up into the air. “Well… I don’t know how many greats… but I have a granddaughter that is around your age. She is quite a beauty and has a great personality. And she is already at legendary rank and hasn’t hit her level 200 class upgrade. She is less than 120 years old. If you would like… I could…”
+
+“No! Please… no!” Derek held his hand up and shook his head fiercely. He facepalmed, placed his hand on his brow, then shook his head and muttered, “How come everywhere I go, someone tries to marry me into their family?” He looked up and sighed, “Thank you for the offer, but I sort of have a girlfriend… maybe,” he said. He and Alanah weren’t exactly dating, but she definitely made for a good excuse. “And she would have my head if I entertained an idea like that.”
+
+“Very well!” the old man replied with a chuckle. “It is only natural that a talented young man such as yourself be sought after for marriage. Don’t be offended by the offer.”
+
+“I’m not,” Derek replied. “It just gets tiring.”
+
+“I understand,” the hall master said. “I won’t bring it up again.” His smile stayed, but there was a small twinkle of disappointment in his eyes. It cleared as fast as it had appeared, and he said, “Speaking of backing, and considering the fact that you are not from the Hunt Clan, would you mind allowing this old man to know what clan or organization you are from?”

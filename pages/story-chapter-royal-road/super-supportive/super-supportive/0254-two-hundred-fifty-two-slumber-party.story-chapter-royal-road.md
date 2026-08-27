@@ -1,0 +1,239 @@
+---
+id: b90d4353-d985-597d-906b-7994cd52ab71
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED FIFTY-TWO: Slumber Party"
+slug: 0254-two-hundred-fifty-two-slumber-party
+partOf: super-supportive
+position: 254
+ownLength: 4048
+unit: words
+publishedAt: 2025-10-26
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2705240/two-hundred-fifty-two-slumber-party"
+royalRoadId: "2705240"
+---
+
+252
+
+******
+
+“You’re here! How did you get here?”
+
+The amount of delight in Stuart’s voice as he dashed across the art’h summonarium toward Alden was ridiculous considering how recently they’d seen each other. It made Alden glad he hadn’t waited until tomorrow morning to come.
+
+“Esh-erdi and Evul,” Alden explained. “He’s been sending me confusing messages over the past couple of hours. Just a few words at a time like, ‘Even a peanut can’t persuade Stu-art’h to enjoy my company more than yours.’ And, ‘I have never been afraid of lightning, but maybe you should be.’ So I knew you two were together…and then a little while ago, I got a teleport from Evul. He must have talked to her, too.”
+
+Alden and Stuart were trying to be somewhat responsible by routing him through the teleportation facility at Matadero for all of his visits. But it was hard for Alden to resist the convenience of leaving directly from the apartment living room when someone else was dangling the offer in front of him. He’d only just returned from North of North when Evul’s message came. After stuffing his feet back in his sneakers and saying goodbye to Lute and Haoyu, here he was.
+
+He’d donated all of that money to Anesidora’s teleportation infrastructure; he figured he could do this several more times before he developed feelings of guilt about the cost of his personal travel.
+
+“Where have you been?” he asked. “And why was Esh-erdi there?”
+
+We definitely look like we’ve had different evenings.
+
+Stuart wore very dark green harem pants and a short coat in the same color with paler green and gold leaves embroidered around the hem and cuffs. The mark that indicated he was a declared was on one shoulder. Alden was in a t-shirt and shorts.
+
+“I went to a ceremony at DawnStep to renew my oaths,” said Stuart. “Lind-otta and Esh-erdi were there, but renewal was probably their secondary motivation. During Welcome End, many knights make a point of doing something to acknowledge the ones who will soon join them. Lind-otta and Esh-erdi were able to meet some declared and encourage them.”
+
+Oaths.
+
+“What was the ceremony like?”
+
+“It was a good one. Let’s not talk about it here, though. I’d rather avoid answering my family’s concerns about why I decided to go to a ceremony suddenly and why that ceremony and whatever else they can think of. A summonarium is not a place to be in if I want to avoid people.”
+
+On the way down to the cottage, Stuart brought up the note Alden had left for him in their study journal. Actually, he quoted the whole thing from memory. Alden was glad he’d considered his words for so long before he wrote it.
+
+“What does my family truly know about the project of building myself? And do they know anything at all about the project of our friendship?” Stuart was saying as he slid open the cottage door. “They certainly act as if they know more than me, but how can they?”
+
+“That’s what I was getting at.” Alden dropped his Forgetful Traveler’s bag beside the low table and took a seat on the teal pillow that was his favorite of the butt-friendly cushions in the cottage. “That you might want to ask yourself those question, not that I had opinions about what you should decide the answers were.”
+
+“Tonight I wouldn’t mind hearing your opinion about my family’s qualifications to judge my decision making.”
+
+Too much pressure, man. I think I know what you’d like to hear right now, but I can’t just say, ‘Olorn-art’h is totally wrong. Jozz-art’h is a dork. Rel-art’h doesn’t get you as well as I do! Ignore them no matter what the cost!’
+
+“The bricks I was talking about in the journal are our abilities, our wants, and the things we’re confident in,” he said instead. “My brain steeped in that topic a lot last night on the path—how when I was younger I built a tower out of these confidence bricks that were made of my image of myself and who I imagined I’d be when trouble came. And that did give me a sense of pride and a direction, so those weren’t bad bricks, but most of them crumbled over this past year. They were too weak for what came my way. Now I’m trying to make stronger bricks. And my tower’s currently like…”
+
+He held his hand an inch above the table.
+
+“Only this big,” he said wryly. “But I hope it’s the kind of tower that won’t crumble.”
+
+“I think I prefer stone towers to brick ones.”
+
+“Your tower can be built of whatever you want.”
+
+Stuart made himself a cup of tea then sat down across from Alden, who’d just pulled out a pack of square-cut paper and dropped it on the table. He reached for the yellow top sheet. “You were going to tell me about the oath ceremony.”
+
+“The event went well. None of the new ones failed their oaths, so all eleven of them are declared now.”
+
+“Some people fail?”
+
+Problem number nine hundred and ninety-nine—what if I’m discovered one day and the Triplanetary government decides the only way I’m allowed to keep breathing the free air is if I complete knight oaths, but I’m one of the ones who fails?
+
+“Sometimes a person lacks a conviction they need,” Stuart said, “or they have one that is unacceptable. We shape our oaths using a series of memories we’ve all witnessed in preparation. There’s one about a wizard’s vengeance against someone who killed his family. It’s good for a hn’tyon to empathize with the wizard’s suffering, but his use of his power to torture his enemy must be strongly rejected. That memory is one that helps define our understanding of the oath not to cause purposeless harm. A person might think the wizard’s <<emotional release>> was enough of a purpose for his actions, but then they would be rejected from the <<communion>> of the ceremony. Someone who felt that way would fail.”
+
+Well, I could make an oath like that, but that’s a simple one. A ceremony designed to kick you out if you’re too different to be in communion with other knights sounds terrifying. Even if I wasn’t worried about being deemed a danger to society or something, imagine trying it and finding out that…
+
+“How many people were at the ceremony?”
+
+“Several hundred.”
+
+Imagine trying it and finding out that several hundred knights think you have crappy morals.
+
+Stuart held his cup close to his nose and inhaled the steam rising from it. He hadn’t drunk any of it. He seemed more interested in using it as a hand warmer. “There was another oath ceremony happening here in Rapport I around the same time. I’m glad I went to DawnStep instead. I liked meeting the declared from outside the Rapports. They have such a variety of backgrounds and reasons for wanting to walk the path of highest onus.”
+
+“Had you not met any declared like that before?”
+
+“A few in passing when I went to DawnStep to visit family. If I was a student there, I would see them much more often, but I still wouldn’t know any of them well. Our elders advise the two groups not to become attached. Meetings should be swift and casual or structured and formal. They have separate housing on campus and different times to use the training facilities. If they attend a class with a declared from a Rapport, they aren’t supposed to be learning partners.”
+
+Alden had been listening too closely, and worrying too much about how his morals compared to a high-intensity alien standard, to put more than a couple of folds in his sheet of paper. “That sounds awkward for everyone.”
+
+“I think it is,” said Stuart. “But there’s no way to avoid it. Most of them have different needs than Rapport-born knights do in the early years, so blending us together would create more problems than separating us. For example, now that Welcome End has begun, it will be surprising if more than three or four people in the Rapports who’ve decided to undergo first binding this season change their minds. Here, the declared have ideas about who their first squad will include. They’ve been getting closer to one another and seeking out compatible partners ever since the end of their choosing seasons.”
+
+He said it like it was just a fact. Alden had no idea how he managed that sometimes…talking casually about these important things that he had missed out on and was still missing out on.
+
+“But for outsiders, becoming declared introduces them to a new community and new choices. Give me a moment to look up the latest number with my eyerings.” Stuart lowered the teacup back onto the table but kept his hands wrapped around it. “Right now, there are twelve hundred and thirty-five people saying they will go to first binding before the winter. Last year, there were a similar number at the start of the Welcome End for the northern Rapports, and almost seventy of them delayed or changed their paths.”
+
+Seventy wasn’t huge considering how natural it would be, in Alden’s opinion, to get last minute cold feet about affixation. But if only three or four of those who backed out were from the Rapports… “Almost everyone who’s not sure at this point is an outsider.”
+
+“That’s right. It’s understandable. Despite declaring and preparing themselves, they haven’t been immersed in the decision like we are, and they were recently introduced to opportunities they weren’t aware of. Since they’ve completed their oaths, they’ll also definitely be welcomed to live among us as a votary. It’s something that will appeal to some of them.”
+
+“Would they not have been welcome to do that before?”
+
+“If they’re above average wizards, willing to complete an education in needed areas and swear to serve, yes. But they’re not all talented enough to enter Rapport service that way and become the type of votary you’re familiar with. Even though they’re DawnStep students, only a few of them would be accepted at such a prestigious school through the regular entrance examinations. But exceptional wizardry isn’t everything. We also have people like Enyl-tirg living here.”
+
+“Enyl-tirg who made our learning cushions. The craftswoman?” Alden looked across the cottage to where the cushions were.
+
+“She lives in Root,” Stuart said. “Her abilities as a wizard aren’t impressive, but she’s still a votary because she has devoted those abilities to making learning cushions and performing thread enchantment for the people of this Rapport.
+
+“Even if her artistry one day becomes famous and surpasses that of the finest craftspeople on Artona I, she will make no fortune for herself.  When I asked if she would create a gift for you, she was happy to do it, but because I’m not a knight yet and I wanted your gift to truly be from me, personally, instead of from my family, I had to figure out how to pay the Rapport for her efforts. I cleaned expired potion and spell ingredients out of cabinets and supply rooms all over the village.”
+
+That Stuart had bartered for the learning cushion by going around and cleaning everyone’s cupboards was a better backstory for it than Alden could have imagined.
+
+“I didn’t think it was possible to like my cushion more, but now I do.”
+
+Stuart beamed. “Enyl-tirg will be glad. You can meet her sometime if you want. We don’t recruit wizards to the Rapports to do jobs like hers, but of course we want people with her character among us.”
+
+“Like the outsider declared.”
+
+“Yes. Most outsiders who inform the Rapports that they’d like to be knights are attracted to the path for the wrong reasons. Their numbers are pruned and pruned again, until eventually the candidates are known to be serious and have proper intentions. At that point, they’re invited to consider serving with us in other ways that suit them. Some don’t feel they can be useful if they aren’t knights, so their mentors try to show them there are other places among us for people so committed. Like Enyl-tirg’s life. The Primary takes his children to her for their first learning cushions, and she has two children of her own who’ve just begun attending the Rapport school. Her descendants are likely to become knights and votaries. Her presence here strengthens us.”
+
+To Alden, it sounded like the Rapports tried to make outsiders have a belated and abbreviated choosing season of their own.
+
+“Because their <<cohort>> loses a significant number of members before first binding, they shouldn’t be doing the same things declared do here in the Rapports,” Stuart said. “It’s too soon for them to be imagining future squads and searching for deeply compatible people. I’m sure many of them do anyway, but the element of uncertainty makes it impractical….There’s also more uncertainty about their survival.”
+
+The remnants of his smile faded.
+
+“Their deaths will outpace ours in the early years. It’s much better than the old ways, but far from perfection. We’re still experimenting with things like squad size. Small groups that stay together for a while seem to be best for most Rapport-born newlings, but they’re trying a different method for the outsiders now. They’re working in larger groups with more frequent member swapping at first, and then they form lasting squads later. Or they form pairs that go together to different squads.”
+
+Stuart stared into his cup. “One of the new declared is named Yaril. She’s going to send me a message after first binding to let me know she’s well. She has a brother who’s already a knight, so she is probably better prepared than most.”
+
+Alden heard a little wish in his voice. For the other declared’s wellbeing or for the message or both.
+
+He folded paper quietly for a couple of minutes. Most of the questions that swam to the surface of his mind were too dark for the hours before they both went to bed.
+
+Just how much death are we talking about? And what kinds of deaths? And as a follow-up, how is Ryada-bess doing? Have you heard?
+
+“I helped at the healing hospital in Apex earlier,” he said instead. “I assumed I would only be having a talk with the person who manages volunteers, but I told her I really wanted to be there, learning. So she let me get started right away.”
+
+Stuart’s eyes met his. “You said you thought that volunteering there would be a part of your choosing season.”
+
+“It is. I want to try more things I think could be fulfilling for me and find out if they’re something I want to do. So that I don’t look back and feel like I gave up on possibilities without appreciating that they existed.”
+
+Already did too much of that.
+
+“Was volunteering today fulfilling?”
+
+“It was only an hour, but…”
+
+“You liked it.” Stuart’s lips were turning up again. “I can tell.”
+
+“I did. I really did.” Alden set aside his half-finished origami ryeh-b’t. “It’s probably first day enthusiasm, but since I left there this afternoon, I’ve thought of a hundred things I could do to help that I never considered. They’re mostly not life or death, but they still matter.
+
+“Today I met the dispensary wizard. I held one of her experiments so that she could leave and modify a potion for a patient without losing her work. That’s not huge, but it makes the patient’s life easier, the healer’s, and the wizard’s. And it made me think I could reduce the friction there even more. If I talk to the wizard’s assistant every time I see him, and I remind him that I’m easy to get along with and competent, he might call me himself the next time something like this happens instead of arguing with the staff and telling them his wizard’s too busy. And that’s just one thing I can do right now, with no training. In the future…”
+
+“If you decide you want to work more at houses of healing in the future, I’ll help you,” Stuart said. “It fits with your skill well already, but you’ll get stronger and have the opportunity to choose other abilities. I could help you to identify complementary ones, or I could…of course I’m just reminding you that I will be very happy to help you if you want it, not pushing you to let me. It’s your choosing season.”
+
+“I know,” said Alden, glancing away. “Thank you. I wish I could have been friends with you before I ever chose the first time.”
+
+For some stupid reason, that came out sounding heavy and a little gloomy. He hadn’t meant for it to. When he looked back around, though, he found Stuart looking pleased, most likely over the word Alden had used for friend.
+
+At least he didn’t catch any stupid gloom from me then.
+
+“So how many knights are there?” he asked. “If there are twelve hundred declared planning to go to first binding, and that’s around half for the year…”
+
+“It’s more than half for a year’s time. The Welcome End that coincides with the turning of seasons in the southern Rapports always has fewer. The total will probably be between sixteen and seventeen hundred new knights for this year. And that means there will be more than forty-five thousand knights.”
+
+“That sounds like a large number,” said Alden, “but not nearly large enough to save entire dimensions.”
+
+“It’s too few. And most are young. But our strongest are now very strong compared to the past. And knights work with others.”
+
+Alden’s finger circled a nick in the table’s smooth surface. “Don’t answer if it’s rude or wrong of me to ask. I’m just curious. How strong is your father?”
+
+Stuart let out a short laugh. “If it’s rude to ask, then many people have been rude to me in the past. Although I guess it would be rude if he were a regular person. How should I answer you, though? What unit of measure would make sense? The vastness of his authority is almost as incomprehensible to me now as it was when he first embraced me with it as a child.”
+
+Alden thought about it. “I don’t know how I was expecting you to answer either. Even if you told me how many average wizards it would take to match him, I don’t think I’d have an accurate picture of what that meant. I’ve seen what Lind-otta and Alis-art’h can do, but I don’t know how to compare that to your father’s Cleaver of Strength.”
+
+“Aunt Alis says Father is stronger than her. Father says the highest ranking knights have all gone so far down their paths that it’s not reasonable to discuss which of them is stronger anymore.” Stuart studied him. “You probably shouldn’t think you’ve seen what Aunt Alis can do, though, unless you understood it much better than I realized. The most impressive part of what she’s doing isn’t that she’s moving dirt around. It’s that her command over each grain of dirt approaches perfection more closely than any other’s, and she understands what the ground should be. Her influence there will last long after she departs, and if Thegund ever has a corruption incident again, that will be the last place to fall. Instead of the first. Because Aunt Alis has told the ground to remember its nature.”
+
+Ground. An Artonan element. Rocks that last for ages and soil that supports life. If the ground insists on following its nature, then can chaos reach the grass rooted in it? Or the bugs and bokabvs that eat the grass?
+
+“So she’s that strong,” said Alden.
+
+“She is. And saying she’s that strong still doesn’t create a good comparison, because what we’re talking about is so different than what Father does. Even wizards who know better might struggle to feel that establishing a highly stable patch of ground on Thegund requires as much power as cleaving a bunch of demons.” He paused. “For a clearer understanding of their power, I guess we could compare their abilities to destroy a humanlike civilization on an Earthlike planet, but…if I speak hypothetically of them doing something like that, will you think of them that way often? I don’t want you to.”
+
+“Of course I won’t.”
+
+Stuart opened his mouth.
+
+“No. Wait.” Alden held up a hand. “You’re asking that seriously. Um…I think I already suspected your father could destroy human civilization all by himself if he wanted.”
+
+“I don’t believe he could do it completely by himself,” Stuart said. “But only because I don’t think he could find Earth and travel to it without assistance.”
+
+He’s taking the singlehanded part of singlehandedly destroying civilization so literally. I was going to let the Primary use System teleportation and still give him full credit.
+
+This kind of thing was why Alden had asked him to wait. “If you really don’t want me to have a clear mental image of how your father and aunt would demolish things on Earth at the front of my mind the next time I meet them, you probably shouldn’t paint the picture in detail. To be honest, I will think about it. I don’t think I’ll worry about it at all or that it will make me dislike them, but if you want me to see them in a different light, then maybe you shouldn’t say much more. Until I have the chance to get to know them better.”
+
+“All right. I’ll just confirm that they could do it.”
+
+“Both of them?”
+
+“Aunt Alis would probably be faster.”
+
+“I see.” Alden snorted. “How did we end up talking about this? What a way to start our sleep party.”
+
+“Did you mean to say sleep party?”
+
+“When friends go to each other’s houses to spend the night together for fun it can be called a ‘sleepover’ or a ‘slumber party’ in English.”
+
+“What do human friends do when they slumber party?”
+
+“Nothing surprising,” said Alden. “Stay up too late talking. Eat favorite foods. Play games. Watch movies. We’ve done all of that together before if we count watching my classmates duel as a movie.”
+
+“We should watch a real movie from Earth. And you’ve never eaten my favorite food.”
+
+“What is it?”
+
+“Oh…it’s not proper food. Or proper treatment of food. There’s a specific kind of bread I like to dip in something like sauce. I shouldn’t have mentioned it. I don’t think I could ever serve it to another person.”
+
+“What kind of bread and sauce?”
+
+Stuart purpled.
+
+“Humans dip plenty of bread,” said Alden, amused that he could be embarrassed by something so small. “Even at expensive restaurants. I’m sure I’ll think it’s proper treatment of food…and if you don’t tell me, I’ll have to assume the worst. I’ll imagine you soaking chunks of bread in the ceremonial wevvi.”
+
+The way Stuart’s eyes went round at that.
+
+And then the fact that he didn’t say he would never do such a thing.
+
+“Stuart, no. Really?” Alden pushed himself up onto his knees and leaned across the table. “The wevvi! How could you?”
+
+“It’s a childhood comfort!” Stuart said in a high voice. “Father ate it that way in front of me when I was small, and I didn’t know it wasn’t normal. He says he was trying to make me laugh the first time, but I didn’t understand it was funny. I mimicked him, and I liked it so much that he didn’t want to take away the experience. So we started eating bread in our wevvi every time we had it together.”
+
+“I have to try it. Do you have the right kind of bread? Can I eat that kind of bread?”
+
+“Yes, we have it, and yes, you can eat it. But…”
+
+“‘Midnight snack’ is something people do at human slumber parties. So is ‘playing pranks’. After most of your family goes to sleep, why don’t we sneak the wevvi cart all the way down here and make the ceremonial wevvi and dip the bread?”
+
+“Because every part of that plan is very improper, Alden.”
+
+******

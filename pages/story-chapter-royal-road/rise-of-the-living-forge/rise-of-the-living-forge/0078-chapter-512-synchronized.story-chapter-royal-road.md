@@ -1,0 +1,107 @@
+---
+id: acf81550-82c0-51ab-b6f3-3eb58d449149
+page-type-slug: story-chapter-royal-road
+title: "Chapter 512: Synchronized"
+slug: 0078-chapter-512-synchronized
+partOf: rise-of-the-living-forge
+position: 78
+ownLength: 1679
+unit: words
+ownProgress: 1679
+publishedAt: 2025-11-05
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2734790/chapter-512-synchronized"
+royalRoadId: "2734790"
+markedReadAt: "2026-06-29T20:00:55.691Z"
+---
+
+“So, what was it you were going to tell me earlier?” Lillia asked as they watched rivers of black magma slither through the lines running throughout the floor of the Infernal Armory.
+
+“Oh, right,” Arwin said, blinking and shaking his head. “Sorry. I got caught up and forgot. I think people have started to use the whole delivery as more of a dungeon bail out service. They’re intentionally calling us in during boss fights.”
+
+Lillia let out a small snort. “That isn’t the smartest usage of those. We have a 30 minute timeframe, and it’s not possible for us to always make it. We’ve actually been late to a number of orders… but the profit the deliveries have been bringing in more than covers the losses on delivery time. Fine for us. But for someone relying on us to save them, it’s not a very reliable method. There’s a good chance we show up too late.”
+
+“I’m aware,” Arwin said. He knelt at the pool of lava centered in the middle of the room and scooped a large handful of it up. “But something tells me the adventurers aren’t. I think they’re betting on the fact that Reya and Olive are usually on time. Even if it’s just 70% of the time, that’s a fairly reliable backup plan.”
+
+Lillia’s nose scrunched. “70% is a terrible backup-plan. You should be at least 95% confident in anything you stake your life on. What kind of idiot gambles with their life like that?”
+
+Arwin sent her a sidelong look. He supposed it made some degree of sense. Lillia had been the war leader of the Horde. And, unlike Arwin, whose entire job in the Adventurer’s Guild had been to defeat the Demon Queen and look pretty for propaganda pamphlets, she’d actually managed her army.
+
+A real leader wouldn’t go throwing the lives of their men away for no reason. Sure, there were times when sacrifices were called for or even required in order to achieve victory — but taking pointless risks was just stupid.
+
+Unfortunately, the majority of adventurers didn’t get to where they were through sheer intelligence and skill. The vast majority of the men that Arwin had fought alongside back during the War hadn’t made it there because of their sharp intelligence. They were there because they’d been the ones that had survived and gotten strong. For every powerful fool were a few hundred dead ones.
+
+“You’d be surprised,” Arwin said. Then he stuck the fistful of black magma into his mouth and started to chew on it.
+
+Lillia squinted at him. “Isn’t this Magma from your soul? Do you even need to eat it? I can’t imagine it could get much closer to you.”
+
+Arwin let out a response that came out more as a muffled grunt. It was a little difficult to convey much of anything through a mouthful of molten rock even in the best of scenarios.
+
+He pulled the magma back out from his mouth, merging it with the unrefined ingot of Nightiron in his hand and squeezing them together like two different doughs. “It just feels right. It’s also kind of fun. Also, the look on Wallace’s face every time I do it has gotten me into a bit of a habit.”
+
+“Fair enough,” Lillia said. She watched silently for a few seconds as Arwin worked the impurities out of the Nightiron. “Well, if people are actually relying on Reya and Olive to save them in boss fights… I don’t know if I like that much. I suppose it’s good experience. But it’s a risk.”
+
+“Yeah,” Arwin said. He grabbed another chunk of Nightiron and added it into the molten ball. He could hear the song and desires of the material echoing clearly through his mind, but this part of the process was just second nature to him now. Holding a conversation with Lillia while working was no trouble at all. “Though they’re both more than capable of handling themselves. Reya has a soul weapon that lets her slip right through walls, and Olive is terrifyingly strong. They’re getting a lot of experience from this. But I don’t want them getting killed because some ditz bit off more than they could chew.”
+
+“Yeah,” Lillia said with a nod. “Hm. And we’ve just added Vanessa to the roster as well. She’s going to be helping with the deliveries. I think I’ll just talk to all of them after we’re done today. They’re the ones in danger, so they should be the ones who get to make the decision on how we proceed.”
+
+“Makes sense to me,” Arwin said. “Just wanted to bring it to your attention.”
+
+“Yeah. Thank you.” A thoughtful frown played across her features for a second before she banished it with a shake of her head. “But, for now, tell me more about the armor. What’s the approach here?”
+
+“I’ve got to finish preparing the metal first,” Arwin said, adding another chunk of Nightiron into the growing chunk of magma in his hands. “Once the impurities have all been purged, we can actually get started with the real work. I’ve got some of Rodrick’s hair—”
+
+“Anna?” Lillia asked.
+
+“Anna,” Arwin confirmed. “So we’ll use that to bond it to him. I’m thinking we’ll make a basic core as well. Nothing as complex as what I’ve got in the Gehenna armor, but it’ll give it a significant edge over all other magical equipment. Enough to let him punch well above his weight class.”
+
+“As if he doesn’t already do that,” Lillia said with a wry smile. “And that’s where I come in, right?”
+
+“Exactly,” Arwin said. “I’ll need extra energy to draw on from both you and the Infernal Armory while we create the core. It’s a pretty intensive process. Once that’s made, the rest of the armor should be pretty simple. I’m going to be keeping this one pretty basic to focus on its most important functions.”
+
+“So I saw on the blueprint,” Lillia said. “You already have all the monster bits you had written down for use?”
+
+“Yeah,” Arwin said. “The Infernal Armory has a pretty big stockpile of random stuff that everyone’s brought back from their dungeon runs. Should be easy enough.”
+
+Lillia grinned. “You’re almost making this sound easy.”
+
+“Easy always ends up being a such a relative thing, doesn’t it?” Arwin asked, matching her grin with a wry one of his own. Then he glanced down. The desires within the ball of metal and magma he held were no longer marred by any interference from impurities. It was ready to work with. “You’ll have to tell me when we’re done. You ready?”
+
+“I am. It’s been a while since I’ve seen you work. This should be fun,” Lillia said. “Let’s do it.”
+
+Arwin reached into the mass of Soul Magma and pulled several consolidated chunks of black metal free from within it. They was so dark that their surfaces practically seemed to absorb all the light in the room. This was even better than Arwin had hoped.
+
+Other members of the Menagerie might have been best served by something a little more complex. But Rodrick didn’t want attention. He didn’t want a multitude of abilities that distracted him from his main goal.
+
+No, Arwin knew Rodrick well enough to know exactly what kind of armor the man would want. Something understated and effective. Something focused. And this material was exactly that.
+
+Arwin returned the remains of the magma ball into the lake at his feet, then set the chunk of Nightiron down on the anvil beside him. He was going to need both of his hands for this.
+
+“Give me that shiny gemstone that keeps changing colors based on the light,” Arwin said to the Infernal Armory. “And get us ready to begin creating a Core. You have the energy for it?”
+
+“For a piece like this? I always have the energy.” The Infernal Armory’s hissing laughter echoed through the room. Judging by the flicker of surprise on Lillia’s expression, she heard it too.
+
+A slot in the wall opened up and a black tendril coiled out from within it, wrapped around a glossy white gemstone. The Armory deposited it in Arwin’s palm. But, the moment it touched Arwin’s palm, its color changed to a pitch black, one nearly identical to the Nightiron on the anvil.
+
+This would be the perfect basis for the core. It suited both Rodrick and the armor perfectly. Arwin let his attention slip over each of the pieces, delving into their desires. The most important step of making a core actually came before the work truly started.
+
+He’d learned the long way that the true purpose of a Dwarven Smith wasn’t forcing anything to become something. He wasn’t the king. Arwin was just a guide that helped bring out the true potential in the metals he worked with.
+
+His eyes landed on one of the chunks. The metal already understood his plan. It could hear his own song just as easily as he could hear its — and they were synchronized. He could even smell faint traces of magic within the metal. It made him feel like dew on a seaside plant under a setting sun.
+
+Yes. This is the piece.
+
+Arwin picked the metal up. Then, in his other hand, Caldera materialized. The weapon slammed home into his palm, eagerness already burning within the hammer. It was just as excited to make this as he was.
+
+“You ready?” Ariwn asked.
+
+Lillia nodded. “Yeah. Let’s do it.”
+
+Black tendrils coiled out of the walls of the Infernal Armory. They twisted through the air like strands of seaweed swaying in a gentle ocean breeze. Then they slammed home. Several drove into Arwin’s back, and another connected with Caldera.
+
+They merged with Lillia as well. Arwin felt her presence brush across her mind as the Infernal Armory connected all three of them. Energy twisted through Arwin as their songs synchronized.
+
+Then it calmed. Aligned.
+
+And a grin split his lips.
+
+“Then let’s get this armor made.”

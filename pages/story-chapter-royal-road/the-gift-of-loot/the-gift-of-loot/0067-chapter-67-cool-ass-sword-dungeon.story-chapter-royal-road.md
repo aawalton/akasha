@@ -1,0 +1,215 @@
+---
+id: c31c2ebf-161a-5146-baeb-e54461563983
+page-type-slug: story-chapter-royal-road
+title: "Chapter 67: Cool-Ass Sword Dungeon"
+slug: 0067-chapter-67-cool-ass-sword-dungeon
+partOf: the-gift-of-loot
+position: 67
+ownLength: 2874
+unit: words
+publishedAt: 2026-08-10
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3796427/chapter-67-cool-ass-sword-dungeon"
+royalRoadId: "3796427"
+---
+
+Finding himself standing upright was a surprise because less than a second ago, he had been sitting on a park bench. Apparently, rearranging someone through teleportation was also something Zach could do.
+
+Zach had popped away before he could comment, leaving him alone in the literal middle of nowhere. The sea of grass on either side of the two-lane highway was so brown that it looked dead. When he turned, he saw hills not too far in the distance. There were no cars visible on the road as far as he could see, which was quite a bit.
+
+About 30 seconds later, Zach and Jo appeared.
+
+"Great timing. I just got back home," Jo said. Then, before Thomas could get a word in, she shrugged off one of three packs she had on her shoulder and shoved the first into his arms, the second into Zach's. "Here."
+
+"What is this?" Thomas asked, already looking into his.
+
+"I bought survival gear, the real stuff," she said proudly.
+
+Thomas quickly looked inside and saw everything had been neatly packed: water purification tablets, a Swiss Army knife, more freeze-dried meals, and what looked like a compact, lightweight stove. He caught the brand and saw that this was no Walmart quality. Jo had gone to an expensive camping outfitter store.
+
+Zach was happily shuffling around in his. "Sweet! Mountain House, I love their breakfasts. Thanks, Jo."
+
+"This is the good stuff," Thomas added, surprised. "Are you sure—"
+
+"Do not talk about paying me back, after all you've given me," Jo said. Then she hesitated. "...Though these bags are kind of heavy, and I hear that your fancy magical packs take care of weight." She held hers out with a pleading expression.
+
+"Yeah, it does." His backpack held about a closet full of stuff, and he was nowhere near filling it, even with the box for the unicorn. He stuffed his new survival pack into his spatial bag and added Jo's along with it. Zach's messenger bag took care of his own.
+
+"All right. The dungeon should be about a mile and a half that way." Zach pointed towards the hills. "I didn't have any pictures to get us closer, but the guide said it was on the Trout Peak trailhead."
+
+Jo started to walk with them, and then she did a hilarious double take at the sight of Kevin, who was riding along Zach's shoulder and looking like a caterpillar on a leaf. "What the heck is that thing?"
+
+"Oh, Jo, meet Kevin. He's my pet. Kevin, meet Jo. She's my teammate."
+
+"It's an energy vampire," Thomas said. "The fur is so soft. Touch it."
+
+Jo looked back and forth between them as if unsure if she was the butt of a joke or not.
+
+"Thomas, do you want to introduce your little friend?" Zach asked pointedly.
+
+"No, I'd like to keep everyone in one piece," Thomas said.
+
+Now Jo looked even more uncertain. "Um, what?"
+
+Thomas sighed and pulled out the box with the psychotic unicorn toy. "Kind of a weird story..."
+
+_____
+
+Thomas had kept his Healing Sight on out of a force of habit, but it came in clutch as they started up a trail at the base of the hill. He stopped. "Heads up, there's a group of three coming down a couple hundred yards off."
+
+Instantly, the other two came to a halt.
+
+"Hikers?" Jo asked uneasily. "Out here?"
+
+"Probably more divers," Zach said, then determinedly shifted his pack on his shoulder. "Everybody just walk normal. We don't give them hassle, they won't hassle us, maybe?"
+
+"If they do, I can hand them some hassle," Jo said lowly.
+
+They heard the other group well before they saw them, as they weren't trying to be quiet. Though, when the other group came around the bend of a cluster of scrubby trees, everybody paused. Thomas scanned all three of them. Their bodies were alight with half the colors he couldn't even name, but nothing about them screamed sick or injured or that they needed him.
+
+He blinked and mentally reeled himself back in, feeling embarrassed, as if he had just used X-rays to scan under their clothes. He hadn't even thought about doing it: he just scanned them without their permission.
+
+Of course, now that he was in for a penny, he also scanned them with his Eyes of Riches. Yup, they'd just come from a dungeon, though judging by what they had on them, it hadn't been a stellar run.
+
+"Hey there," said the man in front. He was in his late 30s and had a rifle slung over his shoulder, but it wasn't raised. Interesting that he was using a rifle. Guns didn't work in Dungeons. That had to be for self-defense outside.
+
+"Good afternoon," Jo replied.
+
+There was a pause as everybody seemed to size each other up.
+
+"You just came from the sword dungeon?" Zach asked. From anyone else, those words would have sounded like a prelude to violence. Somehow, Zach made it sound friendly and casual.
+
+"Yeah," a woman replied, clipped.
+
+Zach smiled. "So, how was it?"
+
+There was another, smaller pause, and the lady said, "Watch out for the daggers, they'll try to come at you from behind."
+
+"Well, that'll be fun," Thomas muttered, though loud enough for the other group to hear them.
+
+Jo pointed to a little side trail that curved around the trees. "How about we just pass to the right?"
+
+"Sounds good," the man said, and the two groups carefully moved past each other, giving a wide, respectful berth. Thomas kept an eye on them as they continued heading down the trail.
+
+Once they were out of sight, Zach gave an explosive sigh. "That was so needlessly tense. I would have liked to talk, but they were not in the mood."
+
+"The whole world's on edge," Jo said.
+
+"They thought we were going to rob them," Thomas added, then chuckled darkly. "I don't know why; it wasn't like they had much." He caught others glancing at him. "Eyes of Riches, remember?"
+
+Zach sent him a sideways smile. "Not much to you is a lot to the normies, Mana Man." He craned his neck to look up the increasingly steep trail. "The dungeon shouldn't be far now."
+
+_____
+
+The rest of the hike was sketchy as hell, with some close-to-vertical climbs along a crumbly dirt path.
+
+It was no longer a mystery why the National Guard wasn't covering this place. But though the way getting up there was difficult, to say the least, Thomas found that he was only having a little trouble. His level three body was insane. Normally, he would have been huffing and puffing even without the near-vertical climb, but he was handling it just fine, even with a backpack, and so were Jo and Zach.
+
+Finally, they made it to the top and found the Flying Sword dungeon.
+
+The energy curtain that made up the entrance was flashing a sort of metallic gray and white color. There was no clock to show the countdown of the instance, so they all stepped in one right after another to make sure that they all arrived at the same place.
+
+The level three room was comfortably large for all of them and sparsely decorated with nice tile floors.
+
+As they waited the ten minutes to be safe, Thomas set down his backpack and grabbed the guide. "So, this dungeon only has one page dedicated to it, but it looks like it's structured a little differently than we've seen before." He knew Zach had read through it and Jo had been apprised on the way up. Still, it had become a habit for him to recap what they were about to face so everybody was on the same page. "It's going to be one large room with the sword monsters flying above us and diving at regular intervals."
+
+"And where is the boss?" Jo asked.
+
+"I guess it's supposed to show up after we beat all the minions and a medium-sized sub-boss," Thomas said. "Remember, if it's too much, we always have the option to back out." They'd done so in the Griffin Dungeon without advancing further through it. That had been a tough level four, and they'd gone hog wild killing the easier nestling griffins.
+
+"I think we got this," Zach said confidently.
+
+Thomas spent the rest of the time pulling his halberd from his backpack and then rearranging the contents inside. Jo secured her Blood Thirst sword to her belt, and Zach had a quick conversation with Kevin, letting him know that he was going to ride safe and snug in his bag and that he'd be let out the moment it was safe again. Kevin let out a sad little chirr but didn't try to wiggle out of Zach's grasp as he placed him in his extra storage bag.
+
+The door in front of them was painted as if with a metallic sheen. Once the ten minutes were up, they opened it and walked through.
+
+Thomas had been prepared for the dungeon based on the description, but he still found himself surprised when he walked in. It was kind of like a giant warehouse that went on and on. He stood on the same tiles that were also in the entrance room, and in the far distance, he saw hints of walls. Only instead of a roof, there was just open air, stretching up and up. Where he assumed a normal sun would be, he saw the hint of artificial fluorescent lights.
+
+Then there were the flocks of flying swords. They moved around like birds, twisting in the sky in the same way that a flock of swallows would, as if they all had one mind and decided to move at the same time. Each sword was a different shape and size, and there were even occasional lone-wolf swords and daggers that forwent the flock.
+
+Each flying weapon had a hilt with three crystals embedded in it, sort of like Thomas's old penknife that used to capture the souls or the essence of enemies. Only these mana crystals apparently allowed the swords to fly.
+
+As they watched, a nearby flock of a couple of dozen swords curved lazily towards them. Thomas almost expected to hear the sounds of wing beats, but there was nothing except for a whistle as they literally cut the air.
+
+Then, as had been described in the guide, a medium-sized, sort of flat sword—Thomas didn't really know the name of it—peeled off and then dove straight down towards them.
+
+Jo moved first to step right in front of it. Her Blood Thirst sword was more of a fencer-style, and she mostly used it to pierce and inject poison, but this time she cut across the flying sword's edge as it came close. The blade was knocked off its flying line, flew past them, reoriented itself with a flip, and then came around for another pass.
+
+"Remember to hit the crystals on the hilt," Thomas said. "That's what lets it fly."
+
+"Right." Jo's voice was controlled and without any inflection. She was using her Still Waters skill to steady her hand and make every cut precise. This time, when the sword dove in, she struck out with pinpoint accuracy, shattering a red crystal. The sword seemed to stagger in the air, and Jo easily shattered the second. The sword dropped and clattered to the floor, where it thrashed like a dying animal.
+
+Jo stepped back. "Your turn, Thomas."
+
+Thomas moved into place and brought his halberd down. He didn't have Jo's sense of accuracy, but the hammer end of his halberd worked just fine to smash the last crystal, and the sword simply stilled, dead. Next to it lay a mana crystal. It hadn't fallen from the hilt; it was loot that had just appeared.
+
+This mana crystal was a dull gray, and Thomas suspected what it was even before he brought it up to look at it with his System. "Wow, metal mana. I think it's a B-grade, too, judging by its size."
+
+Zach cheered. "Awesome way to start a dive."
+
+Jo was 100% in business mode, keeping an eye on the flock that was coming for another pass. They wouldn't get much time between swords, and if they took too long to kill one, others would still be peeling off and coming at them, and they would find themselves overwhelmed. "These are going to start coming two and three at a time as we keep going through the dungeon, right?"
+
+"Yeah, that's what the guide says, but it gives no details. It could be more," Thomas said. "We'll have to go carefully."
+
+She nodded and turned to Zach. "They don't have blood or pain to trigger my Throwing Blades skill."
+
+Zach didn't even blink. "Yeah, okay." He shoved back his sleeve, holding up his arm.
+
+"Wait—" Thomas started.
+
+Jo quickly flicked her blade and opened a shallow cut along Zach's forearm. It was barely deeper than a bad shaving cut, but Thomas did not like to see that at all.
+
+"You can't keep cutting him to fuel your skill," he said firmly.
+
+"It's fine," Zach said, but paused. "Uh, you didn't poison me, right?"
+
+"Of course not," she said, as warmly as a computer. "I'll hold back shooting my blades unless we get into deep trouble, so I will not need a refill."
+
+"That's cool, then."
+
+Thomas wanted to say it was very much not cool. Instead, he stepped to Zach and put his hand loosely over the cut. It only took a tiny zip of power from his Living Architecture to seal the wound.
+
+Zach looked at him like he was overreacting, which he was, but Thomas felt a whole lot better. He did not like to see his teammates cut each other, even if it was completely voluntary. Instead, he turned his attention to the nearest flock of flying swords, which had come out of their circle and were flying over again. Another one was circling down, and Jo was readying herself.
+
+"Let me take this one," Thomas said.
+
+Jo nodded and stepped back.
+
+A big sword—he wasn't sure if it was a longsword or a greatsword, but it was something like that—began its dive towards him.
+
+Thomas held up his halberd. The new decorative lines and etchings glinted in the dungeon's fluorescent light.
+
+Now... how to activate the enchantment.
+
+There was nothing like a switch on the thing, yet he instinctively knew what to do. All it took was to concentrate like he would a mana crystal. A part of him reached through the halberd. No, that was wrong. He was traveling in a flash from his own hand, up the handle and to the head. Then, he was out.
+
+A beam of pure white light lanced out of the blade of the halberd and caught the incoming sword's square crystals. The sword dropped from the sky like an Acme anvil.
+
+When it hit the floor, it started to twitch feebly. The once brilliant white, blue, and red crystals were dim.
+
+"Whoa," Zach said from behind him.
+
+Thomas stepped forward and ended it with a quick chop that broke the fragile crystals. Then he stood there for a second, leaning against the halberd, breathing.
+
+"What is wrong?" Jo asked like she was ticking something off a checklist.
+
+Thomas looked inward, confirmed what he suspected. "Damn it, that took a lot of Light mana. Like a good third of it."
+
+Except something odd was happening. While a huge portion of his Light mana had been used in one big gulp, he felt like it was refilling from his core at a pretty fast clip. That had to be his Wellspring mana doing its renewal thing. It was working even faster on Light than it did for Healing—
+
+"Thomas, duck!" Zach barked.
+
+Thomas reacted without thinking, hitting the floor. He heard a clang of metal on metal above him and just to the right.
+
+He looked up, turned, and sat up, seeing Zach holding the first sword that they'd killed. He'd used it to knock away a flying dagger that had come at him from behind. It must have been one of the ones that were flying around without a flock.
+
+The blade of the sword Zach had used was disintegrating in his hand.
+
+"Thanks," Thomas said breathlessly, getting back to his feet.
+
+Jo stepped forward to engage the backstabbing dagger as it came in for a second wobbly pass.
+
+Zach nodded. "No problem, bro. Those other divers weren't kidding about them coming from behind." He looked at the sword he had been using, which had disintegrated, leaving only the handle. He tossed the handle away. "Looks like we can use the dead swords, but they only have one hit in them."
+
+Thomas glanced down at the long sword he'd just killed, scooped up a level three earth mana that had dropped, and stood to help Jo finish off the backstabber. It only had one crystal left in it, and Thomas was able to break it with his increasingly trusty halberd.
+
+But he didn't find a mana crystal lying beside it. Instead, he found an entire shield.

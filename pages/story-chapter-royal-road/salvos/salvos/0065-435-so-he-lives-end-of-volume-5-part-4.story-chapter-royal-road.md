@@ -1,0 +1,117 @@
+---
+id: 0ed28432-6479-59d6-b741-c555334d48ae
+page-type-slug: story-chapter-royal-road
+title: "435. So He Lives (End of Volume 5 Part 4)"
+slug: 0065-435-so-he-lives-end-of-volume-5-part-4
+partOf: salvos
+position: 65
+ownLength: 1797
+unit: words
+publishedAt: 2022-10-14
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1015560/435-so-he-lives-end-of-volume-5-part-4"
+royalRoadId: "1015560"
+---
+
+435. So He Lives
+
+A large undulating figure lay waiting in the throne room. The soft glow of the ritual circle illuminated the expansive chamber. It radiated the faint traces of magic— wisps of translucent strands of mana trailed off the sigils decorating the gray marble floor, fogging up the room with a blue aura. The spell itself sang as the ritual continued. A soft humming echoed in the background like the low droning of a distant choir.
+
+Levithus held still, only raising his head when he heard the heavy double doors groan open. Even then, it was a subtle movement. He knew who it was before even seeing the lumbering figure.
+
+“Enter, Ira.”
+
+“Greetings, Lord Levithus.”
+
+A giant [Cambion] stepped forward as his name was called. Ira was tall. A giant by most metrics. Yet, when he came to a halt before Levithus, he looked like a mere Human child standing before an adult Cyclops.
+
+Levithus spun around, his tail turning behind him, coiling around in a long extended motion even as his head didn’t move. He faced Ira as he asked.
+
+“I take it Gula and the others are dead?”
+
+“Yes, Lord Belzu. They perished in Alyras, trying to procure the other treasures of our King.”
+
+Ira bowed low, speaking softly. Levithus sighed.
+
+“Unfortunate.”
+
+The Primeval Demon couldn’t lie and say that the loss of most of the Dukes and Duchesses upsetted him. But he’d already known that this could happen before he summoned them to the Mortal Realm. This was always a sacrifice he was willing to make. No— it was a necessary sacrifice that Regnorex had told him to make.
+
+After all, it was for the greater good. For the sake of all Demonkind.
+
+“Their deaths will be mourned; their sacrifices remembered. Today, the Humans can claim their victory. But while the battle is lost, the war will be won.”
+
+Ira looked up as Levithus turned, casting his gaze to the ritual circle behind him. The Primeval Demon stared at the magic as it pulsed and grew stronger. The gray marble floor shifted, turning into a sickly pale color as his voice boomed.
+
+“The ritual has already begun.”
+
+Levithus watched as the decorated floor of the throne room was replaced with a rocky terrain. A pure white floor. Like the floor of the Netherworld. The ceiling began to crumble as the magic spread out, revealing the sky above and letting in a beam of light down into the darkness.
+
+But the sunlight was overwhelmed by the light from the ritual circle. A pillar of light extended to the sky, touching the blue dome overhead and gradually painting it red. Levithus looked upon his work as a satisfied smile spread across his serpent-like face.
+
+It was a slow transformation. But reality itself was warping— shifting. Changing. Space itself was being displaced. It wouldn’t happen overnight. But this was just the start. Levithus looked on at his works as Ira backed up. The Primeval Demon continued..
+
+“And once it is finished, all of the Human Lands will become hell.”
+
+Helena Warshade cast her gaze over all the gathered parties in the Conference of Alyras. The meeting room was far less crowded on the first day of the meeting just two weeks ago. They weren’t present for a myriad of reasons. Some were dead, others injured. But the main reason for their absence was because they weren’t necessary.
+
+They didn’t need to be here. The Conference of Alyras started out as a more… ceremonial gathering. There had been a lot of politicking involved, as expected whenever multiple countries and factions present at the same table. After all, as groups were, they only cared about their self-interest. It was a simple fact of life— of politics.
+
+As the leader of the Rising Veterans Company, Helena was used to navigating this annoying landscape of appeasement and diplomacy. She’d prepared for weeks of negotiations— for a drawn out meeting with each of the factions opposed to an alliance against the Demons in the Inoria Empire. Now though? After the siege of Alyras? After those seven Archdemons wreaked such havoc and took so many lives?
+
+It was clear now that it was in everyone’s self-interest to fend off this Demon invasion. This was always evident to the Archmage, but unfortunately it was difficult to parse for others. It always took a disaster— a catastrophe— for action to be taken. Even then, not always.
+
+So Helena Warshade still had to convince the remaining parties that were averse to this coalition by speaking with them efore the meeting began. Or, rather…
+
+Intimidation. It wasn’t direct intimidation. She simply made it clear the stance her company— and all adventurer companies— would withhold operations in any nations that refused to cooperate. The other Honorable Companies were with her on this issue, and they held a vast swathe of influence over most smaller companies. And even if some refused to cooperate, they could entice and bribe them to their side.
+
+So the votes were cast. The meeting was short. Helena Warshade prevented any protracted argument from being held, shutting them down her stare alone.
+
+“All votes in favor, then?”
+
+She asked. Her gaze swept over the room. Over Peris Dolonia— the Crown Prince of Dolonia looked dissatisfied, but he nodded and raised his hand. Over the [Bishops] from the temples. Over kings and prime ministers.
+
+There was not a single vote against the decision. With a small nod, she stepped back and made the declaration.
+
+“The Conference of Alyras has concluded. All parties involved have agreed to form a coalition to
+
+Princess Rana Alyras sighed in relief as the announcement was made. Gannon Norwood simply lowered his head, acknowledging the decision with a small nod of gratitude and regret that it hadn’t happened sooner. Thorsten Sigfried looked like he approved the decision, but the other [Bishops] weren’t as pleased.
+
+Helena Warshade didn’t care to appease everyone. She knew what was needed to be done, and she was going to ensure everything would be done to ensure that Demon invasion was repelled. The fallout of these decisions could be dealt with later.
+
+The meeting finally came to an end as all the attendees funneled out of the room, and king Artik Alyras and Laux Lionfist prepared to make the announcement for the public. Helena Warshade excused herself and returned to one of the private meeting rooms. A pair of guards— Diamond Ranked soldiers— stood there. The sigil of the Vaun Qieur Empire was clearly emblazoned on their clothing, but they stepped aside for her as she entered the room.
+
+There, she closed her eyes and activated a simple spell. A barrier that encased the room as the door closed shut behind her. She raised her head and faced a figure seated in a chair at the center of the room. Kaitlin Darkhelm waited next to the bound figure. The Commander of the Vaun Qieur Empire’s Swordsguard Forces.
+
+Helena Warshade had asked Kaitlin Darkhelm to join her in hunting down the Archdemons, but the knight refused. Kaitlin had said she had a security asset that needed to be protected in Alyras. Helena didn’t understand it at first, but now she did.
+
+A woman sat in the chair, with her hands cuffed but otherwise not treated too badly. She raised her head, and it was clear she’d been a slave once with the marks on her neck and face. A gladiator of sorts, probably.
+
+The Archmage of Mavos Academy met the woman’s gaze and spoke simply.
+
+“Now, tell me why Commander Darkhelm holds you to such high value?”
+
+The woman raised her head, looking limply up at the Archmage. Alix sighed.
+
+“The Primeval Demon, Belzu, is still alive.”
+
+And that changed everything Helena Warshade knew.
+
+Author's Notes:
+
+(Originally written on September 10th)
+
+There's a lot of things I'd like to say about this part. First and foremost, I feel like I could've done better. Unfortunately, time constraints and all the shit happening in my life made it hard to focus on writing these past two months. But my biggest regret is still the chapters in the Beastmen Plains.
+
+Now I'll peel back the curtain between author and reader for a little bit. As a serial author, I cannot structure my work the same way traditional authors do with their novels. Traditional sword and sorcery fantasy novels are structured this way: first 70% of the book is setup, and the last 30% of the book is climax. It's completely fine in a novel because you can binge it all at once, but for a serial you'll have to wait two to three months of irl time before you get to the climax, and that's tiresome to read.
+
+So, when I write, I write in arcs that follow this same format over a smaller scale. And it’s always a pain in the ass trying to balance setting up the necessary plot threads I need to introduce and resolving the old plot threads within the confines of this arc. Ten, twenty, max.  However, the necessity of having a resolution/climax every ten chaps can sometimes force plot threads I want to introduce at that moment to be pushed off to later on.  And I think that’s the issue with the Beastmen Plains arc with the [Witch].
+
+That arc was necessary. It needed to happen. But it was supposed to happen... a hundred chapters ago. It was supposed to be how Salvos advanced to Level 100 in her Class-- adopting the baby Wyverns and destroying the corrupted island to become a [Draconic Apprentice].
+
+Unfortunately, I had to push off that arc because of the delicate balance of setup/resolution needed for serial writing.  And because it was pushed off, the problem only became more jarring, at least to me, when it felt like it interrupted the siege of Alyras arc. I also had to push off another mini-arc I had planned this part to next part because of this...
+
+Anyway, serial writing is difficult and requires a lot of planning if you want to do it well. I made some mistakes, and I will continue to make mistakes, but I think what's important is that I keep trying to do better. Also, that I keep delivering the chapters.
+
+I've had a lot of shit going on in the past two months, yet I never went a whole week without posting, did I? In fact, I posted at least three chapters even in my "off" week. Others in my position would take a full month or two off, but I don't do that shit. I kept writing and I'll keep writing and I'll keep improving. I am 22 years old, and I've got a long way to go still as an author.
+
+Thanks for reading!

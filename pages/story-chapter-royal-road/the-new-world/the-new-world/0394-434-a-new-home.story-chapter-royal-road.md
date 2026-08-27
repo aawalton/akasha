@@ -1,0 +1,599 @@
+---
+id: 431c71cc-d63a-53dd-8268-35f2ca3e2a9d
+page-type-slug: story-chapter-royal-road
+title: "434 A New Home"
+slug: 0394-434-a-new-home
+partOf: the-new-world
+position: 394
+ownLength: 5685
+unit: words
+ownProgress: 5685
+publishedAt: 2025-06-06
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2334217/434-a-new-home"
+royalRoadId: "2334217"
+markedReadAt: "2026-06-29T21:34:53.014Z"
+---
+
+He scrambled back to the fridges, and his eyes opened wide.
+
+"You...You're not who I think you are...Are you?"
+
+I frowned.
+
+"I am."
+
+Mana glowed over my frame. It dolloped like glowing poison floating across space. My runes blurred the air around me and molded gravitation to protect all that surrounded me. I sat down, my legs crossed, and my torso was still taller than the bar. A sad smile crossed my face as I loomed over the man as a titan of metal, violence, and potential.
+
+"I am The Harbinger of Cataclysm."
+
+Chapter Begin
+
+Joshua peered up at me. A slideshow of emotion crossed over his face, from contortions of fear to the open gawking of surprise. It settled on unease, and he peered down. Before he even attempted to say something, I raised my hand.
+
+"There will be no consequences for how you've spoken to me or treated me up until now. I'm not hiding myself amongst you all just so that I can find excuses to punish those that don't deserve it."
+
+A palpable wave of relief passed over the barkeeper. He took a breath.
+
+"That's...That's good to hear."
+
+He put a hand over his chest.
+
+"God...If Nissa knew. She'd blow a gasket."
+
+"I prefer to hear her criticisms over having her hide them. That's the most pivotal reason I chose to hide here. I wanted to listen to what people had to say when I wasn't around. It gives me a perspective I can't find any other way."
+
+Joshua frowned.
+
+"And I was here lecturing you on how to live your life. I'm such a fool."
+
+I waved my hands.
+
+"Absolutely not. That was a valid perspective, and I understand it well. A part of me wants to go out adventuring with them. It's a lot of fun to take on smaller jobs that don't have such brutal consequences. However, now you know why I'm not joining them in their journey."
+
+Joshua's eyes grew distant.
+
+"You can't put everything to the side and abandon your responsibilities. There's still so much that needs to be done."
+
+A soft smile traced my lips.
+
+"I couldn't have said it better myself."
+
+Joshua put a hand on his forehead.
+
+"The gray skin. Here I thought it was from the cloak or a hardening enchantment. And the confidence. It was absolute since I met you. I've never felt fear aside from admitting who you were to me...Why? Why would you, of all people, be scared of me?"
+
+I leaned my elbows onto my crossed legs.
+
+"I've been lying to you since we met. You were taking a genuine interest in my path, and it felt wrong to continue putting up a charade."
+
+"What about the others?"
+
+I turned to the rooms, Nissa snoring loudly. I smiled.
+
+"Eh, I'd rather they didn't know."
+
+Despite himself, Joshua glared.
+
+"I'd say they're putting a genuine interest in you, just like me."
+
+I smiled.
+
+"You see things too clearly. They know something's a bit off, but they're not panicking to find answers. Instead, they'd rather know me as my false identity. It's something they choose to believe in. On the other hand, you never bought it from the moment I walked into this place."
+
+Joshua sighed.
+
+"But you didn't kill them on their mission. From what I heard, you got them out of a sticky situation, so it's not like I had a reason to mistrust you afterward. I will say, there's a small chance my mind kept finding inconsistencies in your story. Like a drug fiend trying to kick an old habit, I just couldn't let it go."
+
+I shook my head.
+
+"The part of you that didn't give up on figuring out who I was is the same part of you that persevered after your loss so long ago. You're a fighter, Joshua, and I respect anyone who can stand up after facing tragedy. There is dignity in that."
+
+Joshua's eyes reddened, and the man turned before scratching his nose.
+
+"Thank you kindly."
+
+After he had a moment to collect himself, Joshua stood and grabbed a glass. For the first time, I noticed how it was the same glass he always polished during his downtime, and his hands shook as he rubbed it down.
+
+"So...What has you taking the time off to pull off this spy mission of yours?"
+
+I lifted a hand, the bright gray crisscrossing my armored skin.
+
+"I'm injured. Severely."
+
+Joshua fumbled his glass before catching it. Cold sweat dripped down his brow.
+
+"Ooh, clumsy me. I...Uhm, how long is it going to take to heal?"
+
+I clenched my hand, sparks of pain rippling across the wounds.
+
+"A few weeks, from the looks of it. I should have just enough time to help them with a few missions and gather a bit more intel. After that, I'll be heading to Blegara to face some eldritch horror."
+
+Joshua's left eye twitched.
+
+"Normal situations for you, then?"
+
+"Oh yeah. That kind of thing happens every day. This slow-paced adventurer lifestyle is the unusual part."
+
+"Slow paced? You go on life-risking missions once a week."
+
+I shrugged.
+
+"I'm intimately familiar with death. Walking near it isn't unusual anymore. In all honesty, I think everyone who's survived this long after systemization is like that. I've seen those three walk the line between the living and the dead many times already."
+
+Joshua nodded.
+
+"I...I suppose. I guess that's why you want to help them start their journey?"
+
+My runes glowed, humming like a gentle far off rumbling.
+
+"It shows me what people are fighting for. These few weeks off have been eye-opening. I feel the progress of the places I've forged, and it bolsters my ambition. It makes the endless war and violence seem worth it, most importantly."
+
+Joshua gulped.
+
+"What are you warring against?"
+
+I scoffed.
+
+"If I told you the name of our enemies, you would die, as would I."
+
+He dropped his glass again. This time, he lacked the deft control to catch it. Despair rang over his eyes before I lifted a finger. A gravity well hauled the glass upward back into his hands. A visible relief washed over the man before he set it down. Joshua mouthed.
+
+"Thank you."
+
+"Never a problem. I can reinforce the glass if you'd like-"
+
+"No. I...I want the glass to remain as it is."
+
+I nodded, not wanting to pry. After a few moments, Joshua peered up at me.
+
+"What's your plan with those three?"
+
+I sighed.
+
+"I'm going to prepare them as well as I can. They're barely ready to clear dungeons, let alone travel the wilds. As they are, they'll die whenever they face any eldritch that's an outlier. It will be a swift, painless death, and I'd rather see them grow old."
+
+He gazed at the glass.
+
+"That's good."
+
+A silence signalled that Joshua didn't have anything else to say or add. I took a breath before shrinking myself down to my standard size. Standing, I rolled my shoulders before cracking my neck. Joshua rolled his hand.
+
+"I know I've been asking a lot and telling you very little, but...How did you do everything you've done up until now? It all seems impossible."
+
+I turned, walking to my room.
+
+"I endured. Oftentimes, that's all that can be done."
+
+Stepping back into my hole in the wall, I put back on my leathers. After a while of thinking, I practiced my new wake abilities. The funnest one to mess around with was the primordial constructs. They carried a vitality that the other skills lacked. In general, The Rise of Eden was about as boring an ability as they came, but it also offered immense utility.
+
+On the other hand, I was genuinely afraid of Event Horizon. I could devour someone's thoughts and memories now, and that held an evil, malevolent potential. It gave me chills whenever I pulled it forth, yet, inevitably, I would direct this ability against another person. Their memories, mind, and soul would become fuel for my armor.
+
+And that terrified me.
+
+After hours of waiting, the others awoke once more. They continued their morning ritual, and Joshua served them the tonic as usual. He juiced my tonic up more than normal, adding extra herbs and an aged pine water. It was like tasting the Rocky Mountains' wind all over again. Ah. After we enjoyed the morning, we got our plans ready for another mission.
+
+In that flow, we continued completing mission after mission. Each one of them had some odd twist and turn, but they never rivalled the raw lethality of our first dungeon. They also had lower rewards overall, and as the days turned into weeks, I suspected Jamal chose worse dungeons to delay their trip.
+
+It gave my body and mind time to heal after facing the ends of oblivion or whatever the hell lies between dimensions. As that time passed, I gained greater memories of what happened with Marcella. Even more so, I learned what happened against the leviathan in the gloom. It had pierced into my mind, and in rage, my mind pierced into it.
+
+Wielding the new shade of Event Horizon, I had torn into its psyche. However, it existed as something so colossal and so massive that it had hardly noticed my obtrusion. I was a bee on a bear, and though I stung it, the bear barely noticed. It left me humbled even more than facing the Old Ones.
+
+They existed as peak entities, so getting squashed by them was only natural. Some random creature in the void? I was supposed to be above that, and yet I wasn't. Not even close. I might have to find some means of absorbing the interdimensional energy to expand my dimension's abilities. Otherwise, a rip in space would unleash one of those beasts onto Earth, and I would be unprepared.
+
+As I came to that unsettling conclusion, I took the others to one of the parks nearby. Nissa, Jasmine, and Jamal followed along, each of us aware of the nooks and crannies of this neighborhood by now. We landed in the largest park here. It was called Island Park, and the expanse opened up to a moat that circled a patch of green turf.
+
+Ivy encircled the pillars of bridges that crossed the artificial streams. Kinetic augments kept the water flowing despite no source for the flow, and magic filled the stream as it evaporated. Trees pocketed the ground, old oaks spreading leaves out to provide natural shade to anyone visiting.
+
+The majority of the park opened up to an opening in the middle of the area. That gave us a vast space to fight on, though other citizens lounged about on floating blankets or in obelisks. Facing Nissa, Jamal, and Jasmine, I spread my hands.
+
+"Which one of you wants to go first?"
+
+Nissa stepped forward before cracking her knuckles.
+
+"Ooh, don't threaten me with a good time."
+
+I stepped forward, my steps controlled.
+
+"Then start whenever you're ready."
+
+She smirked.
+
+"Remember, you're the one who demanded we spar."
+
+She dashed forward, throwing a haymaker at my face. I stepped to her side, Nissa's punch sliding past my face. At the same time, I pressed onto her foot with my own while hitting her gut. Her momentum pushed her forward, and she fell onto my fist. I pushed her up in a slow punch that sent her flying several feet away.
+
+She flopped down before I dashed forward. I caught her before she oriented herself. As I held her by her foot, she let out a gasp.
+
+"Ow."
+
+Jasmine and Jamal's jaws slackened. Jasmine murmured.
+
+"Since when did you know how to fight like that?"
+
+I shook my fist as if it was hurt while setting Nissa down.
+
+"I used to box a little back in the day. Monsters forced that skill to evolve into something else entirely. Regardless, who's next?"
+
+Jasmine stepped forward. She took an entirely different approach, feeling around my attacking range. I eyed her the entire time, keeping my body relaxed and ready. After a few probing jabs, she struck in an all-out swinging back kick. I shot downward, and her foot slid over my head. I grabbed her leg and pulled her up.
+
+She fell down as I lifted her off the ground. Wrapping my free arm around her waist, I swung her head toward the ground before stopping an inch from the turf. I smiled.
+
+"You done?"
+
+Jasmine scoffed.
+
+"Uh, yeah. Sure."
+
+I flipped her over before setting her down. Jamal stepped up before raising his hands in a boxer's stance.
+
+"I'm just saying, man, but I used to do some boxing back in the day, too."
+
+My eyes widened.
+
+"Oh really? I'll box alongside you then."
+
+We went at it for a few minutes, and I could tell Jamal lied to me straight-faced. The guy boxed like someone who watched a few montage videos on YouTube, got hyped up, then told everyone he knew all about it. While not physically painful to watch, it left a sour taste in my mouth before I gave up on actual boxing.
+
+He leaned way too far back, leaving his midsection wide open. I faked a jab up high before he raised his guard. A simple left hook flattened the guy after that. He kneeled on the ground, groaning.
+
+"Dude. Not cool."
+
+Jasmine laughed.
+
+"Why'd you say you boxed?"
+
+Jamal shook his hands in frustration.
+
+"It was to make a connection, dammit."
+
+Nissa pointed at Jamal from the ground.
+
+"Yeah, connecting his fist to your stomach."
+
+Jamal rolled over.
+
+"You must've had the same strategy swinging wide like that."
+
+Nissa grunted.
+
+"I took him too lightly. It'll be different next time."
+
+Jamal scoffed.
+
+"What'd you call him again? Mister Bottle, right?"
+
+Nissa ripped up some grass before tossing it at Jamal. He choked out laughter, and after a while, they recovered. We went at it a few more times before they started landing blows of their own, which made perfect sense. I wasn't using more strength than they were, and half of the reason I flattened them so easily was because they weren't applying themselves or their strength.
+
+After all, we fought as superhumans now. Techniques changed as the degrees of force rose. In particular, staying grounded turned from an advisable strategy to absolutely necessary. If you got off balance, your opponent could ragdoll you once you weren't able to put force on your feet.
+
+This continued for a few hours, and for a first session, they learned quite a bit. I was still the best fighter of the bunch, but the Daniel I showed them gave hope for an eventual victory. I was strong, but not domineeringly so. That gave them the leeway to test out new strategies, try out moves, and test their limits.
+
+To my surprise, Nissa picked up the basics far faster than the others, and her eagerness and exertion yielded results. Jamal kept his distance, only sparring as needed to maintain some kind of dignity. On the other hand, Jasmine was an instinctual fighter. That made her incredibly predictable, and I taught her to rely less on her instincts and more on her training.
+
+She could bend backwards out of the way of a strike, but that left her with far fewer options for movement than if she simply slipped a punch instead. Still, she held the most potential of the three, though she didn't relish fighting as Nissa did. It got me thinking. I mean, enjoyment was a form of talent in and of itself.
+
+The more someone enjoyed something, the less effort it required to actually participate in the activity. Even if someone had a better multiplier for learning or retaining knowledge in a given field, that didn't mean they would be better in the end. They still had to persistently apply themselves, lest they be left behind, as a certain lich might say.
+
+Either way, I left each of them battered, bruised, but far more able to face the world. It was something I dreaded, yet understood the necessity of - they must march towards their goals on their own. I had learned that during this entire excursion. By offering people every solution to every problem, I robbed them of suffering and struggle.
+
+It turned out that not all struggles were meaningless, and not every bout of suffering came without growth. These three were prime examples. They fought tooth and nail day in and day out, and they smiled the most after a challenging dungeon, not the easy ones. It was a reality of life I experienced alongside them. For there to be joy, one must face the hardships that life throws at them.
+
+Our spars elevated their standards as we dungeoneered as well. We began killing eldritch as we explored. Nissa learned more about applying her magic for lethal intent, from freezing opponents' blood to robbing the air from their lungs. Jasmine gained a cat eye effect that enhanced her perception, giving her better vision and reaction times. Jamal...Well, he was offered a merchant class given how he sold everything off.
+
+He seemed more than okay with that.
+
+As our tenure came to an end, I couldn't help but feel a sense of loss. I had laughed and lived here for nearly a month, and it felt natural. Unlike whenever I faced world-ending horrors, I could relax and calm myself. The entire event had a cleansing effect on my perspective and mind, effectively grounding me from the insanity that was to come.
+
+Despite the growth and prosperity we shared, not all of us enjoyed the situation. The entire time, Joshua carried a sort of repressed gloom. An emotional malaise smothered him, becoming like a cloud that dampened the room he lingered in. He tried to hide it, but even his customers noticed his dimming mood.
+
+The day before our departure came, he kept polishing the same glass as he always did. The closer we got to leaving, the tighter Joshua held that glass. He gazed at it like a memory, as if it carried the weight of another world, one we couldn't see yet he could feel. It left all three of us sad, but we had an inventive solution.
+
+Jasmine, Joshua, Nissa, and I set up a thank-you party in the inn's backrooms. We'd expanded the barebones rooms into something far more presentable, each of us smuggling in boards of wood that matched his tavern's aesthetic. Over the last month, we nailed together the three rooms into proper parts of an inn.
+
+It gave the entire expanse the same handmade touch that separated Joshua's inn from everywhere else. At the same time, we put some of our earnings into a pool of money where we bought exotic drinks from Blegara, the albony, and even far-off planets using Schema's exchange currency center.
+
+New glasses lined the backrooms alongside barrels and wine racks. A rustic stone floor covered it all, and we had the lamps set in place for moody, ambient lighting. It had been a miracle to make this all if not for Joshua respecting our privacy. He had never walked back into these rooms a single time since I arrived.
+
+And yeah, more than a few talismans were involved. We bought noise-cancelling, vibration sinks, and a set of enchanted curtains that blocked the vantage point here. Having finished all of those prerequisites, we all walked up to Joshua, sitting at his bar. He polished his favorite glass, and we watched for a while.
+
+After a minute, Joshua peered down at us.
+
+"What in the hell are you all doing?"
+
+Jamal raised his hands.
+
+"We have a problem."
+
+Joshua let out a long sigh.
+
+"Besides yourself?"
+
+Jamal grinned.
+
+"Of course. Here's the thing, when Daniel carried us to our room yesterday, Nissa's incredibly huge, bulbous, arguably fat-"
+
+Nissa smacked Jamal's head. Jamal coughed into his hand.
+
+"Her head hit one of the doorways, and a portion of the room collapsed."
+
+Recognition lit Joshua's face.
+
+"Oh...Please, don't mind that. I should've done something with those rooms forever ago. It's a shame you all have been living back there as is."
+
+He peered at the curtain that obstructed our rooms.
+
+"It might be better if it all fell to pieces."
+
+A bit of melancholy fell over us before Jasmine walked over and grabbed Joshua's arm.
+
+"Come here, old man."
+
+Joshua gestured at his bar.
+
+"What if a customer-"
+
+Jasmine rolled her eyes.
+
+"No one's shown up in the last half hour. It'll be fine."
+
+Joshua took a deep breath before following her pull. Despite himself, a slight grin rose on Joshua's lips. After walking past the curtain, he stepped through the noise and smell-cancelling magic. Joshua's eyes widened.
+
+"The floors and rooms. How did you do all this? And, those are candles. What else is that?"
+
+I rubbed my fingertips together.
+
+"The essence of tobacco. That's what the shop owner said, at least."
+
+Joshua breathed deep.
+
+"It smells...Good. Real good."
+
+Nissa nudged Joshua with her elbow.
+
+"Do you hear that? You always talked about how you liked Westerns, so we got an old record player and started up-"
+
+Joshua murmured.
+
+"The Ecstasy of Gold. Ennio Morricone."
+
+Jamal patted the man's shoulder.
+
+"From The Good, the Bad, and the Ugly. You mentioned it a while back."
+
+Joshua blinked.
+
+"It was my grandfather's favorite film. I loved it too."
+
+A mischievous grin spread over Nissa's face.
+
+"Oh ho, you haven't seen anything. Behold."
+
+She walked over and opened one of the new doors. Joshua ogled at everything before him as if stepping into another world. Joshua gawked.
+
+"How did you hide this?"
+
+I grinned while waving one of the many talismans in my hand.
+
+"We have resources at our disposal, so we used them."
+
+While Joshua soaked it all in, the four of us stepped into the center of the room before Nissa pulled out a comfy purple cushion. Gold frills decorated the edges, and an indentation sat in the middle.
+
+Nissa shoved it at Joshua. The barkeep gawked at it.
+
+"What is this?"
+
+Jamal crossed his arms.
+
+"That's for that glass you always polish. We figured it should have a special place since you like it so much."
+
+Joshua's grizzled mustache furled, and his eyes watered. He lifted it up.
+
+"All of this. I don't know what to say."
+
+Jasmine stepped forward.
+
+"We all wanted you to know that-"
+
+Her words caught in her throat. She blinked, her eyes tearing up.
+
+"We wanted you to know that everything you've done for us all these years. We appreciated every moment. All the tonics. All the drinks. All the laughs. All the-"
+
+She blinked out tears.
+
+"All the good memories. You made this town special. You made it a home. We'll never thank you enough for everything you've done for all of us."
+
+Joshua covered his mouth, emotion building on his face. He took a shaky breath.
+
+"There's something I need to tell you all."
+
+Jamal raised a hand.
+
+"You know you don't have to."
+
+Joshua gave him a curt nod.
+
+"I know. I want to."
+
+Joshua furled his hands.
+
+"I...When the culling happened, I lost my wife and my three kids."
+
+Our eyes widened, and Joshua held up a jittering hand.
+
+"I worked at a ranch in Tennessee, and when the culling happened, I was at work. I...I was able to help my people pull through the tutorial before heading back to my home. It had-"
+
+He blinked tears.
+
+"It had burned down. At first, I thought it was because they had been to the tutorial, but they hadn't died from a monster's claws. They never left the house. I found them, you know."
+
+Jasmine put a hand over her face. Nissa gasped.
+
+"I'm so sorry."
+
+Joshua pushed through as he spoke.
+
+"They had died before the culling began. A faulty wiring job did them in. My wiring job. See, I'd built that house from the ground up, and like some hole in the Earth, it had swallowed everything that mattered to me. My labor had become something evil, my highest sin."
+
+He pointed a shaking hand at us.
+
+"You three...You remind me-"
+
+He struggled through his words.
+
+"You remind me of my kids...So there's no need to thank me...There was never a need. You've given me more than I could ever repay."
+
+By now, Jasmine and Nissa were struggling not to weep. Jamal wiped a few tears back, and my eyes watered alongside them. Nissa and Jasmine walked forward, giving the man a hug. They held each other like a father holding his two daughters. In that embrace, Joshua wept. In that embrace, he found healing for a mistake no man should have to bear.
+
+And in giving a home to others, that man may have found he's made a home for himself.
+
+After we had our talk, we took a while to decompress. Bottles were opened aplenty, stories were shared, and laughs were had. They told me about all the times Joshua helped them. They reminisced about all the times Jamal started up some get-rich-quick scheme. I heard about the fights Nissa started with regulars and how Jasmine wanted to start up some insane organ shop.
+
+We all drank the night away, and by the time the moon rose over the sky, the three adventurers slumped against the floor in odd places. If not for the system, they'd of run their bodies ragged already. It amazed me how well they functioned despite this lifestyle, and I couldn't help but smile at them.
+
+I would miss them, as would Joshua. He and I gazed at each other before the barkeeper took a breath.
+
+"This place is going to be a whole lot emptier without them here bothering me."
+
+I nodded.
+
+"We know."
+
+Joshua took a sip from his favorite glass before setting it down on the cushion made for it.
+
+"If you ever find the time, come by. It wouldn't be the worst thing to happen to this place."
+
+I raised my glass.
+
+"I'll keep that in mind. I might even bring some friends."
+
+He closed his eyes, and a sad smile spread over his face. As he fell asleep against the wall, I performed my standard ritual. I hauled the three musketeers to their new rooms, and I followed suit by picking up Joshua. He felt twice as heavy, his build far more along than theirs. After grabbing his glass, I walked over to his room.
+
+I'd never been inside, and I couldn't help but have a burst of curiosity at seeing it. As I opened his old doorway, the hinges let out a loud squeak. When my eyes saw his room, a burst of sadness came over me. All along the walls, burnt paintings, photographs, and fixtures decorated the space. A few pieces escaped unscathed, but most carried irreparable damage.
+
+In particular, the pictures held the most damage of all. Only someone who knew the people in the images would recognize who was in them. At the corner of the room, an old mattress sat alongside handmade covers. They, too, carried the burns from a fire. As I walked over and set Joshua on his bed, I found one of the least damaged images. It showed a woman with dark skin and lively eyes. She had ruby red lipstick applied, and she stood in front of several glassware projects.
+
+All of them had a similar motif, and it looked like she'd made them herself. A handyman had married a handywoman, and I smiled at that thought. It was fitting. As I held the glass in my hands, I turned back down to the photograph. My eyes widened as I recognized her signature artistic flair in the glass.
+
+All this time, he'd held her so close, and it made my heart ache.
+
+As I prepared to leave, I took one last glance at the room. Here was a man who had everything taken from him. He'd lost all he ever wanted and more. It made me feel like an arrogant ass for telling him I did the impossible by enduring.
+
+Yet I never endured this. This man knew of pain. Of loss. Of a broken life and shattered dreams. Seeing the momentos made me want to see Althea.
+
+She still worked alongside Torix to uplift the Shattered Spires, and the project had expanded into an economic renaissance. They had filled in much of the infrastructure for the town by now, and I was needed for the finishing touches.
+
+Lost in thought, I set Joshua's glass down before walking to the center of the bar. Taking a moment, I allowed my dimensional wake to manifest. The Rise of Eden encompassed the inn, and it held its full fury. Wielding the new ability of the aura, I drenched the area with its buffs. I soaked it into the fabric of reality here, a place that had felt like home for me over these last few weeks.
+
+After spending the night channeling my runes, I felt the others awaken in their rooms. By now, my body and mind had fully healed. I was The Harbinger once more, and I felt ready for war. Standing up without my hands, I stepped outside my room while leaving my possessions. I wouldn't need them any longer.
+
+The three musketeers waited for Joshua, but he wasn't up. I figured as much. I took his place behind the bar before making five tonics since I'd memorized the recipe by now. I walked over to Joshua's room, leaving the drink beside his bed. As I set it down, he woke up. His eyes widened.
+
+"Are the others gone?"
+
+I shook my head.
+
+"They're not leaving without saying goodbye."
+
+He relaxed.
+
+"Good. That's good."
+
+I turned.
+
+"I'll give you a minute."
+
+Once outside his room, the adventurers and I chatted the morning away, none of us tackling the real topic at hand. Everyone had already packed their things into their storage rings last night, so we waited for Joshua. The barkeeper walked out of his room while cracking one of his shoulders.
+
+"Do any of you feel better than you should?"
+
+Nissa furrowed her brow.
+
+"Now that you mention it, yeah. I do. Normally, mornings are pretty awful."
+
+I scoffed.
+
+"Guys, you get wasted every night. Mornings being awful comes with the territory."
+
+Nissa pointed a finger at me.
+
+"Listen, Mister Bottles, just because your liver is made of iron doesn't mean you get to judge us. You drink even more than we do."
+
+I raised my hands.
+
+"Guilty as charged."
+
+Joshua leaned against his bar. He finished the tonic I made for him before nodding at me.
+
+"Looks like you don't need me for this anymore, do you?"
+
+I shook my head.
+
+"Eh, it's not the same. I'll have to come by from time to time to pick up some. It's free, after all."
+
+He smiled, and we talked. After a while, the time had come. We all got up and walked over to the door. Joshua put his hands on his hips.
+
+"It was good seeing you all. Whenever you all come back, just remember that my bar's open to you all anytime."
+
+Nissa and Jasmine hugged him again, and he squeezed them back. Joshua shook his head.
+
+"Now, now, we already had our dose of sappiness last night. Let's leave like we lived together."
+
+Nissa gestured to Jamal.
+
+"Miserably then?"
+
+Joshua's mustache crinkled in a smile.
+
+"Of course."
+
+As we turned and walked away, Joshua put on a strong front. He told us to be careful and watch our backs. He talked about how we should never sleep in the open or in too dark a hole. As he came out of sight, I followed the others to the edge of the city. There at customs, we gazed at each other for the last time in a while.
+
+Nissa walked up and hugged me.
+
+"You're terrible, you know that?"
+
+I hugged her back.
+
+"And you're head is bulbous."
+
+She laughed before Jasmine gave me a hug. She murmured.
+
+"Thanks for taking care of us."
+
+I smiled.
+
+"It was never a problem."
+
+Jamal walked up, hand raised. I grabbed it before he pulled me close and gave a bro hug. He scoffed.
+
+"Dude, try to keep that hardass attitude. It fits you like a glove."
+
+I nodded.
+
+"And you should become a merchant. It fits you a lot better than being an earth mage."
+
+He rolled his eyes again before we gave each other one last look. I frowned.
+
+"I'll miss you all. We have to meet up once you're all back."
+
+Jamal nodded.
+
+"Of course. You'll have to hear about my strapping, handsome, eclectic adventures as I swoon the ladies and-"
+
+Jasmine nudged him.
+
+"We'll miss you, too. See you around?"
+
+I took a breath.
+
+"Of course."
+
+After they left, I turned back. Once out of their sight, I flew up and back toward Mt. Verner. The city was changed for me, becoming somewhere to settle down after finishing the tumultuous conflicts afflicting the planet. Those thoughts raced through my mind as I stood in my suite. I changed out my leathers and hung them in the closet in my room.
+
+It was my first piece of clothing since entering the system.
+
+As my armor rippled over my skin, I stretched my arms. Over a hundred minds swirled in my head, their psionic might formidable and everlasting. The muscles in my body flexed like cables of orichalcum, and my wake spread forth, encompassing all of Springfield. Runes thrummed over my skin, their energy overwhelming and palpable.
+
+I enveloped the city in The Rise of Eden, saturating its buffs onto my home. Unshackling self-imposed limits, I held the pocket dimensions inside my body with ease. I took a breath as if firing a bellows, and I breathed out a cloud of quintessant mana. Breathing it in and out, I hummed with power.
+
+I was back, and hell would freeze over before someone stole this from me.

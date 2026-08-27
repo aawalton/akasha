@@ -1,0 +1,165 @@
+---
+id: 580565f7-e64b-5207-b274-95eda1f86f39
+page-type-slug: story-chapter-royal-road
+title: "519. Disillusion Part Three"
+slug: 0075-519-disillusion-part-three
+partOf: salvos
+position: 75
+ownLength: 2051
+unit: words
+publishedAt: 2023-02-25
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1123120/519-disillusion-part-three"
+royalRoadId: "1123120"
+---
+
+519. Disillusion Part Three
+
+Was this really it?
+
+Haec shifted where he stood as he glanced around the throne room. Rows and rows of Primeval Demons kneeled before the vast ritual circle with their heads bowed low. There were legions of Archdemons of all shapes and sizes, waiting at the back ranks. This was the greatest army of the Demon King. All of them were loyal to a fault.
+
+And Haec stood ahead of them all.
+
+He wasn’t nearly as high-leveled as the Primeval Demons at the front ranks. Certainly, he was an Archdemon approaching his next evolution, but so was Taburas, yet she was not here. So Haec didn’t understand why he was standing at the very front— at the right hand side of the Demon King.
+
+“It is time.”
+
+Regnorex’s rumbling voice snapped Haec back to attention. The Demon King’s gaze was fixed only at the ceiling. Or, rather, what was left of the ceiling. The domed roof was being consumed by a massive rift in space. It was a portal that reflected an image of another world on the other side.
+
+It was the Mortal Realm. Haec had only ever seen it twice before. The first was a long time ago. But since then— since joining the Demon King’s forces— he had only seen it once more. Unlike most of the Demons in Regnorex’s armies, he was never allowed to cross through to the other side.
+
+He was never given a Lair or a Domain to rule over, nor was he ever allowed to leave Regnorex’s side while in the Demon King’s castle. But he was also sent on the deadliest missions, and the most dangerous tasks. After all, Haec had been taken under the direct tutelage of Regnorex, even if he didn’t understand why.
+
+But Haec didn’t care about any of that. None of it mattered, because he had undergone all those trials for a single reason. And it had all culminated to this.
+
+He was finally going to the Mortal Realm. It had been his goal. He had done Regnorex’s bidding all for one reason.
+
+And that was to see her again.
+
+Haec closed his eyes, watching as the vast portal overhead fell upon the army. The Demon King strode forward as he bellowed, and his army followed.
+
+“Now stand. Draw your arms. Ready for battle. Brace yourself for salv—”
+
+And the portal… flickered. Haec blinked, watching as the image reflected above blurred. Regnorex halted. His eyes narrowed as he glanced above.
+
+“This is…”
+
+He trailed off as the image focused for a moment, showing the picture of a silver-haired girl. A… Demon? Haec’s eyes went round at the sight of that figure. His jaw dropped and he whispered.
+
+“That’s…”
+
+And Regnorex clenched a fist. A black aura wisped off him, and Haec stumbled back. The kneeling Primeval Demons flinched, while the Archdemons dropped to the ground. A powerful overwhelming force shook the room— the intense pressure sent cracks rippling across the floor. It was the fury of the Demon King.
+
+“I see.”
+
+Haec gasped as he collapsed to the ground, Regnorex’s rage palpable, bearing down on his shoulders. But still, he didn’t tremble as the Primeval Demons did. The fear wouldn’t keep him down, because he knew what he saw. He forced himself back up and raised his head, glancing up at the flickering rift.
+
+Even though the image was blurred— even though she looked so different from the last time he saw her— he was certain it was her.
+
+It was Salvos.
+
+His companion.
+
+And Haec just smiled.
+
+Now Leaving [Nexeus: Mortal Realm].
+
+I plunged through the summoning ritual, and nothingness engulfed me. But before I temporarily lost sense of my entire being, I twisted my arms, yanking the threads of mana behind me. I forcefully dispersed whatever extraneous pool of mana gathered for the spell, expending as much magic as I forced it to teleport me through the planes.
+
+And then I was flying through the fold between the planes. The little bit of empty space between the Mortal Realm and the Netherworld. It was a trip that happened both over an eternity and an instant— like going to sleep, but somehow remaining partially cognizant. But I activated [Full Phase] and [Fragmented Pocket Dimension], covering me in a layer of true space, so that time flowed more linearly from my perspective.
+
+As I settled into traveling through that corridor of emptiness, I glanced back towards where I came from. I saw a bright image there— I saw a large gathering of figures gaping down into the hole. Clayton Skyshredder, Helena Warshade, Alder Ashford, and a plethora of other [Mages] hurriedly circled around the summoning ritual, casting their spellsas they began to dismantle its magic.
+
+I watched as specks of the glowing image began to flake away. My companions huddled the closest to the summoning ritual. I saw all their worried faces. Daniel, Edithe, Saffron, and Orgaf.
+
+But there was so much more I was leaving behind. Willy. Novis. Bellum. Oriur. Jaakko. Helen. Zack. Rana. Lamarr. Gallus. Veronica. Mountaintooth. Amberarm. Sharpbraid. Minnow. Xidra. Centina. Kron. Rachel.
+
+And so many more.
+
+It was the life I had built up for myself in the Mortal Realm. And I was abandoning it all, casting myself back to the Netherworld as I finally shed my disguise and revealed my true self to them all. I did wonder how most of them reacted to the fact that I was a Demon. I really hoped that they would acknowledge me— accept me— for who I was. If not immediately, then eventually.
+
+But I couldn’t stay. I had to leave them behind. To save them, I had to go.
+
+It was just like when I was first separated from Haec— back in Lucerna’s Lamp. I had tricked the Greater Demon into falling through the portal, only to be grabbed myself and pulled to the other side. Ever since then, I had been trapped in the Mortal Realm.
+
+It felt like it happened so long ago. Years had passed ever since then, and I had experienced so many new things. The world I knew— the world of bloodshed and death; of rocks and wild Demons; of survival and battle— was long behind me. I now knew what it was like to live, rather than just surviving.
+
+I knew what it was like to wander about aimlessly without fearing of a sudden attack. I knew what it was like to walk through the streets of cities and be hounded by food vendors and street sellers. I knew what it was like to sleep. I knew what it was like to eat.
+
+Even if I didn’t enjoy all these experiences, I never had the chance to experience any of that while in the Netherworld.
+
+I had gone to school. I had made friends. I had learned and studied and sat through hours of boring lectures.
+
+I had touched grass. I had soared through the clouds. I had seen pretty flowers, and I had raised my own children.
+
+I fought with jerks. I befriended princesses, and I met kings. I saved lives as often as I took them.
+
+I even spoke to a living rock once before.
+
+There was so much more to living than just surviving. It was just as I said to Belzu, but the Mortal Realm was a wonderful place. And while the Netherworld was my home, I wanted to do so much more than remain trapped in that hellish world of survival. I didn’t want to just be trapped forever.
+
+And that was why I had to go. For a promise I made to my first ever companion, and for my own self. I couldn’t just let myself be pinned to a single place.
+
+The world of mortals was truly beautiful, but I wouldn’t just stop there. I was going to travel to the Spirit Plane. I wanted to see the Spirit Lord, and I wanted to speak with the Fairy Queen.
+
+There was so much I wanted to do. There was so much I had to do.
+
+Returning to the Netherworld was the start of what needed to be done. I would find Haec, and I would bring him back with me.
+
+The portal to the Mortal Realm continued to fragment. It hadn’t felt like it had been that much time since I entered the summoning ritual, but time didn’t work the same way here. I could clearly see dark clouds gathering overhead at the other side, even when the sky had been clear just before. It must have been over half an hour since I went through, and the image flickered.
+
+I watched as it slowly faded, and my companions let out a silent cry. Daniel stepped back from the summoning ritual, turning to Clayton Skyshredder. He protested, and Saffron joined him. But the Headmaster of Mavos Academy wouldn’t listen.
+
+Orgaf gritted his teeth and turned away, leaving only Edithe there. She raised a hand, staring at me even as the remains of the portal closed around her. I smiled, nodding at my companions one last time.
+
+“Goodbye.”
+
+I whispered softly, before shaking my head.
+
+“For now.”
+
+And the last of the portal vanished. All I stared at behind me was an encroaching emptiness. For a moment, my gaze lingered on the space of nonexistence. Then I slowly swept my gaze forward. I looked towards my destination.
+
+Towards the end of the tunnel.
+
+And there it was. A place that was so familiar, yet so foreign. The Nehterworld.
+
+My home.
+
+But it wasn’t the vast white canvas that spread out endlessly in all directions. I didn’t even see the dark red sky that never changed.
+
+No— I saw a sight that I would normally see in the Mortal Realm. It was a large throne room, with legions of figures standing in wait for me. They wore partial bits of clothing that mimicked mortal dress, but it was like they didn’t actually know the reasons why mortals wore said clothing. A few of them wore pants on their heads, while others had shirts wrapped around their shoulders.
+
+It was the Demon King’s castle. And Regnorex himself waited for me with a welcoming party of Primeval Demons.
+
+Heloomed over the other side of portal as a terrible black aura burned around him. His gaze locked with mine, and I could sense his anger, even from what felt like an infinite distance. His mouth moved, and I heard nothing for a few moments. Until—
+
+“So the Devil’s Daughter decides to interfere!”
+
+His voice came out a distorted mess. I somehow heard his words even though I wasn’t even in the same plane as him. I was quite literally in broken space, with my own bits of reality covering me, wholly separated from the Netherworld. Yet, the Demon King bellowed, and I flinched.
+
+“Do not think that just because your father is a Primordial Demon, I will spare your life! You have nowhere to run! You will die by my hands!”
+
+I bit my lower lip, drawing closer and closer to the end of the tunnel.
+
+“Huh.”
+
+I could feel Regnorex’s power even from here. I knew that the moment I went through, I would be dead. His gaze bore into me, and I… grinned.
+
+“Good thing I’m not going there!”
+
+I stuck my tongue out at the Demon King, before raising a hand. I hadn’t been idle, even as I flew through this empty space. A shimmering light flickered over my body, and my [Fragmented Pocket Dimension] rippled. Regnorex paused as I laughed.
+
+“[Greater Teleportation]!”
+
+And I vanished as the Demon King screamed in a rage. The image of his castle vanished, replaced with a shining golden disc overhead. I crashed into an invisible ground, watching as the fractal world around me shifted.
+
+Regnorex’s roar echoed in my ears for a moment as I lay there, chuckling softly. And then I heard it. A slow clapping. I raised my head to see a crimson figure sitting before me with his legs crossed.
+
+My dad smiled at me as I tried to get to my feet.
+
+“Congratulations, my daughter. You really put on quite a show this time for your old man.”
+
+And I collapsed to the glass-like ground in exhaustion, groaning.
+
+“Ouch.”

@@ -1,0 +1,235 @@
+---
+id: 8aed5b78-6d10-51e4-ac79-b1a0b81917f7
+page-type-slug: story-chapter-royal-road
+title: "193 A Conflict of Interests"
+slug: 0152-193-a-conflict-of-interests
+partOf: the-new-world
+position: 152
+ownLength: 2622
+unit: words
+ownProgress: 2622
+publishedAt: 2019-03-24
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/345997/193-a-conflict-of-interests"
+royalRoadId: "345997"
+markedReadAt: "2026-06-29T21:26:01.840Z"
+---
+
+Grotokia looked to the camera and raised his hand, "Five, four, three..." The rest of his countdown was him moving his hand. As the interview started, he steepled his fingers and stared at the main camera,
+
+"Tonight, we'll be looking at Chrona and Daniel, two contestants in Giess's yearly tournament. On the one hand, Chrona has been a regular combatant of the competition for the last decade. On the other, Daniel is a newcomer who hides his identity. We'll be discussing what they think of each other, what their strategies are, and what the intend to do if victorious. Only here with the Galactic Filming Corporation."
+
+He turned to me, "Now, recently your hotel room was bombed by someone who also tried hiding their identity. Based on the reports coming in, the body was evaporated in the explosion. Is that right?"
+
+Before I did anything, I pulled out my obelisk and started recording the interview with it. The glass orb made sure I had back up footage if these guys tried framing me. With that handled, I spoke up.
+
+"Yes."
+
+"Experts are speculating that a special interest group sent the assassin to stop you from winning the tournament. Mind weighing in on that with your own thoughts?"
+
+"I don't think it was a gialgathen at the very least," I said while raising a hand.
+
+Grotokia jimmied his papers, "They have a strong motivation for doing so considering how dominant you've been in the tournament. This is also the strongest center for gialgathen support on the continent. I don't mean to dismantle your argument, but the odds are stacking up against that claim."
+
+I could see what the guy was trying to do. He was giving me a compliment while guiding me into condemning the gialgathens. Torix and I covered this line of questioning over the last few days, however, so I had an answer already prepared.
+
+"Think about it. There was nothing left of the assailant, right? A gialgathen would have smothered everything in blood and guts considering their size. Even then, the bomb exploded inside our room. A gialgathen couldn't have gotten inside, and I've never seen one using complicated tech. They're too good at magic to need it." I waved my fingers,
+
+"They use their tails for most tasks. Hard to create and use a bomb without something more dexterous like fingers."
+
+Grotokia leaned towards me while cupping his chin, "Couldn't they have just thrown the bomb inside?"
+
+"Malakai was guarding the gate. They couldn't have."
+
+"But what if Malakia was the one to throw in the bomb? Seems likely given his previous lack of success in the tournament. He could have been bitter and resentful of you."
+
+I shook my head, "He wasn't. Malakai almost died from the explosion. Even then, we'd have known he was throwing the bomb in." I tapped the side of my helmet, "I have good ears and good eyes. I would have known."
+
+"Are you sure that Malakai didn't deceive you into believing it couldn't have been him?"
+
+I was about done with Grotokia goading me into this bullshit. I rolled my eyes, "Yes, I'm sure. Malakai earned a great reputation built over decades. He's not someone to flip on a dime over something like this. Besides, this is just random speculation on your part with no solid proof."
+
+Grotokia took a sharp breath, "That's what we're here for. To get firsthand accounts of the incident. Moving on-" Grotokia turned to Chrona, "As a long time supporter of Emagrotha's methodology, what do you think of Daniel's rapid rise to prominence?"
+
+Chrona sent a telepathic wave to the voice caster who spoke out for her. Since I didn't hear her voice in my head and in my ears, she spared us a ton of confusion.
+
+"Emagrotha believed in a strong sense of personal responsibility. She'd have treated Daniel with a tremendous level of respect given his obvious ability." Chrona looked at me, "I will do the same."
+
+I raised a palm to her, "Likewise."
+
+Grotokia coughed into his hand, sending up bubbles inside his pressurized suit, "It's good to see sportsmanship so close to the match. At the same time, tension surely must be high. If you didn't already know, Daniel has begun to represent an anti-gialgathen movement-"
+
+I cut him off.
+
+"Thisbey represents that bullshit. Don't put words in my mouth."
+
+Grotokia turned towards me, his heart rate elevating like he was nervous. "You're clearly the figurehead of the anti-gialgathen groups rising to prominence across Giess. I don't think it's something you have a say in anymore."
+
+What the fuck was this guy talking about? He didn't get to tell me what I was here for or what I was doing.
+
+"What the fuck are you talking about? Of course I have a say in it. I have nothing against the gialgathens. My opinion on them is that they're strong as hell and a proud people."
+
+"If that were the case, then why didn't you make that more clear early on? Seems like your trying to avoid taking responsibility for your actions."
+
+Fuck this guy.
+
+"I'm not big on media. I'm here now because I have to be. I'm a man of action. I go out into the world and act. Thisbey's the opposite. He sits around and talks all day. That's why he tries to use my own image to support his racist bullshit. He needs my positive image to use since he doesn't have one."
+
+The reporter coughed into his hand, water swirling in his helmet,
+
+"Thisbey's a known philanthropist, environmentalist, and-"
+
+"And a piece of shit that bribes media until they support him like mindless drones. Case and point - you."
+
+Grotokia was rendered silent for a bit. Chrona's voice actor burst into laughter, his eyes focused on his mic. Grotokia sent him a dirty glare, silencing the voice actor. It didn't matter. Chrona's tail was whipping behind her, and she was baring her teeth like a puppy wanting to play.
+
+"This is most certainly the best interview I've ever been a part of," the voice actor spilled out while wincing. He was a true professional, doing his job despite his ever-rising chance of getting fired. I admired the guy for his dedication.
+
+Grotokia didn't.
+
+"Your unfounded speculation and accusations aside, let's get back on topic. Chrona, you're a known supporter of Emagrotha's philosophies, right?"
+
+Chrona nodded her head, the voice speaking up, "Of course. She was wise well beyond her years despite being ancient."
+
+Grotokia pointed at Chrona, "You do realize that Emagrotha was a supporter of slavery? Right?"
+
+Chrona glared at the reporter, "No, she was not. She believed they should earn their freedom instead of being granted it."
+
+The reporter waved his hand, "You don't honestly think that, do you? By making them 'earn' their freedom, the espens were held to a standard they couldn't hope to reach at the time. If Emagrotha's policies were followed through with, espens would have been servants to the gialgathens for at least sixty more years. Their only way out would have been through Schema's system. Even that would have taken years."
+
+For once, the reporter made a good point.
+
+"Emagrotha warned that granting freedom without recourse would lead to espens becoming parasites. Like a seer, she predicted the stagnation of the espen people that continues to this day. Despite having this 'system' you speak of, your average espen has hardly become a force to reckon with. If anything, they've grown fat, lazy, and content."
+
+Grotokia turned to me, "What's your thoughts on the matter?"
+
+"Hmmm...There's truth to both sides. On the one hand, slavery is outright unacceptable. Period. You don't earn your freedom. It's a part of this whole being-alive-thing we got going. As a race though, we need to involve ourselves more in dungeon clearing and silver extermination as a whole."
+
+I turned to the main camera, facing the audience, "It's how I got strong. It's how anyone watching can get strong too."
+
+Grotokia nodded, "So what I'm hearing is that you believe in the espen people reaching their full potential, not earning the right to live a free life? If so, that's an important distinction to make."
+
+I sat back and thought about it. Now that they were arguing about politics, I wasn't able to keep up. Chrona spoke up,
+
+"And that is why, even a quarter century after that A.I. came, the espens still rely on gialgathens for guidance and protection. Because you all wanted to gain without making the proper sacrifices. It disgusts me."
+
+I raised a hand while trying to speak up, but Grotokia egged Chrona on, "Really now? Doesn't that sound elitist? Not everyone can be exceptional like Daniel here. He's a rare exception."
+
+Chrona glared, "The poor and weak starve and die. That is the way of life."
+
+"So what about orphaned children? Should they starve and die?"
+
+Grotokia cornered her as fast as a horde of bees swarming a bear stealing their honey. That's to say really fast.
+
+Chrona leaned back, "Well, I didn't say that."
+
+"It was implied based on what you just so confidently announced. Have you not thought out these principles your spouting as facts?"
+
+Chrona held her head up high, "The rules apply to fully grown individuals, obviously."
+
+Grotokia gestured a hand while leaning back into his seat,
+
+"That's short-sighted. What about disabled people? They should all up and die?"
+
+Chrona snapped, "Yes. They should. The same applies to vultures like you."
+
+I looked down while supporting my head in my hands. Chrona was a complete dumbass, letting her emotions get the better of her. It was like she didn't even consider the consequences of saying this kind of shit. Grotokia played it up, looking solemn while staring at the main camera,
+
+"I think that's all the public needs to know about your viewpoints. Any more and they may vomit." He turned to me, "On to lighter topics, you've shown the ability to generate massive implosions in battle. Some speculate it's the result of tiny singularities. Is that true?"
+
+I sighed, looking up at the guy. Lying about my ability wouldn't do me much good since any expert on the topic could verify I was using singularities. With that in mind, I nodded. Grotokia leaned towards me,
+
+"Ohhh, now that's interesting. There's only a handful of combatants capable of that feat. No one knows how it's done either. Mind explaining?"
+
+He confused me a bit with his explanation. I unlocked my singularity skill, becoming the first person to have it. If other people were using it, they must have done so through indirect means. My method was direct enough to get a skill for it. Considering my unique circumstances, few could replicate my way even knowing how to do it.
+
+With that in mind, I said,
+
+"It takes a mastery of gravitational magic, an ocean of mana, and finesse."
+
+"So you're telling me you use magic to create the singularity? Just raw magic?"
+
+"Yeah. That's what I just said."
+
+Grotokia let his arms flop on his desk, "Wow...That's amazing. You used Schema's system to make that happen?"
+
+"Yeah. No other way to make it happen."
+
+"You all heard it here first. Daniel's an amazing example of what Schema's system can enable you to do as long as you master it. Even tiny black holes aren't out of the question when that A.I.'s involved."
+
+He started sounding like an infomercial. Weird.
+
+"Uh...yeah."
+
+Grotokia turned to me, "A few more questions and we'll be done. You neglected to tell us who you are. Are you willing to shed some light on why you're keeping your identity hidden?"
+
+This was a question Torix and I drilled several times. I glanced at the camera, "Fame attracts media, which as I mentioned, I hate. It's common sense to avoid what you hate."
+
+Grotokia pointed at me, "But you are an espen...right?"
+
+Even if I hated this facade, it was necessary to get the espen people moving. That's why I nodded,
+
+"Yup."
+
+Grotokia let out a deep breath, "Of course, of course."
+
+He was that worried I wasn't one. It was pretty pivotal to this social movement that Thisbey was constructing.
+
+Grotokia turned to the camera, "That's all the time we have. Thank you all for tuning in to Galactic Filming Corp's very own, exclusive interview. Coming up next, Lehesion's acolyte versus Emagrotha's follower. Who. Will. Win? Find out here."
+
+The cameraman gave us a thumbs up. As he did, Grotokia leaned back into his chair and mouthed, "It gets harder to do every year."
+
+I stood up, brushing myself off while talking to Chrona,
+
+"You shouldn't have let your emotions control you like that."
+
+Chrona snapped with a telepathic wave, "And what difference does it make? I could care less if I'm hated by your kind."
+
+I rolled my eyes, "You serious? You're one of the strongest gialgathens alive. What you do reflects onto your entire species."
+
+Chrona winced at my words, staring down at the stone beneath her.
+
+"I...I suppose you're right. I could've managed myself better."
+
+"Well, yeah. I could have too though. This fucker right here nearly got under my skin too."
+
+Grotokia let his hand flop onto the table, "Are you serious? You put me on blast that entire interview!"
+
+"Uh huh. It's called fighting fire with fire. To have a good defense, you need a good offense. Anyways, is this over with?"
+
+The camera guy gave me a nod. I pointed at everyone, "Oh yeah, is this mandatory?"
+
+Grotokia murmured, "It is. It's a part of a contractual obligation if you want to continue participating in the tournament."
+
+I spread my arms, "How is that even possible? Schema gives the rewards. Why would he make interviews mandatory?"
+
+Chrona answered, "I asked in my first interview as well. Schema had no part in the tournament's creation. It was formed by a group of Speakers to help motivate the populace."
+
+My eyes widened, "Ahhhh. That makes sense. They put that caveat into it I guess."
+
+Chrona spread her wings, "One of them did. I gathered a few details on the matter. It was good meeting you, Gray Giant. May we meet in battle tomorrow."
+
+She flew off, sending enough wind out from her take off to knock some camera supplies over. I caught two of the cameras with gravity wells, stopping them from losing their footage. After a few thank yous, I was off and back to our base. As I arrived, Kessiah and Althea waited for me at the entrance. Trotting up to them, I spread out my hands,
+
+"Damn guys. You didn't have to wait for me."
+
+Althea's arms were crossed, and Kessiah's hands were on her hips. I glanced at them, "So uh...what did I do wrong?"
+
+Althea snapped first, "What didn't you do is the real question. What kind of answers were you giving?"
+
+It was my turn to cross my arms.
+
+"What are you talking about? My answers were fine. Maybe not great, but hey, I did my best."
+
+Kessiah shouted, "That was your best?"
+
+Alright, something was off here. I didn't do that bad.
+
+"Ok, what's going on here? Is this a prank or something."
+
+Althea's eyes narrowed, "Wait a minute. What kind of interview do you remember giving?"
+
+"Eh, I tried being impartial. I was pretty rude to the interviewer, but he had it coming with how he structured his questions. He tried making me into some kind of icon for Thisbey. I shut him down pretty hard though."
+
+Kessiah and Althea glanced at each other. They looked back up at me. Kessiah sighed, "Yup, they edited the footage."
+
+I tilted my head, "Wait...what?"

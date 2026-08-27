@@ -1,0 +1,25 @@
+---
+id: cbb51135-d4a7-588c-9a9b-d590dc0f1449
+page-type-slug: story-chapter-royal-road
+title: "Countdown to LitRPG Con officially starts / progress update."
+slug: 0043-countdown-to-litrpg-con-officially-starts-progress-update
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 43
+ownLength: 208
+unit: words
+publishedAt: 2026-07-01
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3616322/countdown-to-litrpg-con-officially-starts-progress"
+royalRoadId: "3616322"
+---
+
+The Center for Dungeon Management, Book 1: Gate Crashers [Now 7x Chapter Releases Weekly!]
+
+In the United States, the Center for Dungeon Management (CDM) manages anything related to gates, like licensing crawlers, enforcing harvester safety standards, and prosecuting gate crashers–people who enter gates without licenses and dungeon rights.
+
+Dorion has aspirations of joining a guild or a crawl team, but to do that, he needs levels. Since he can’t afford a crawler license or gate fees, he signs on with the Pittsburgh branch of the CDM. By day, he is a cog in the machine of dungeon bureaucracy. By night, he volunteers to cull unclaimed gates, a CDM initiative to prevent dungeon surges.
+
+The crawler industry isn’t what Dorion expects, but when his little sister appears on his doorstep looking for a place to stay, his goal of becoming a professional crawler turns from a career objective into a necessity. He needs the money and the stability to give his sister the life he wished he had.
+
+Solo Leveling meets Grimgar, Ashes and Illusions–This litRPG explores dungeon tropes through the lens of government administration. The MC isn’t an overpowered crawler making headlines. He’s a normal guy with a clipboard, an overflowing inbox, and a dream.
+
+Read it today!

@@ -1,0 +1,409 @@
+---
+id: 05fdd04b-fd61-53b4-844e-5ac38e41d738
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 355"
+slug: 0053-the-path-of-ascension-chapter-355
+partOf: the-path-of-ascension
+position: 53
+ownLength: 6489
+unit: words
+ownProgress: 6489
+publishedAt: 2024-10-04
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1834969/the-path-of-ascension-chapter-355"
+royalRoadId: "1834969"
+markedReadAt: "2026-06-29T19:19:23.541Z"
+---
+
+Chapter 355
+
+Liz tore her way into Lily’s real space and let her spiritual perception spread outward to find Matt before letting their spiritual perceptions mingle in a hello. It had been too long since they had seen each other, but before she could get excited to see him again, she felt that Matt was irritated through the contact.
+
+Mentally cursing, she twisted space around and appeared in the office he was ruminating in, situated at the top of his guild.
+
+“What's wrong?”
+
+There were any number of plates that they were juggling, and if something was wrong, she wanted to know.
+
+Matt reached out with questing fingers. When said fingers found her pants, they hooked into them and pulled her down to his lap where he hugged her.
+
+Both bodies relaxed into the hug, with phoenix Liz relaxing into a golden, boneless puddle of feathers and coos.
+
+After a long hello kiss, Matt leaned back and gestured to the desk where a combination of paperwork and data packets were mingled together.
+
+“Things were going pretty well until yesterday, when I had the five year meeting with Soerilia’s Arbitration Convention. Only three quarters of them have managed to meet their first year benchmarks, and not a single one has hit the second year benchmarks if you exclude the Roland Project where, surprise surprise, they are actually ahead of the projected timelines.”
+
+Liz frowned and quickly scanned through the details Matt sent her.
+
+The more she saw, the more irritated she got.
+
+Before she started judging too harshly, Liz asked for a follow up question. “What did they have to say for themselves?”
+
+“Excuses.”
+
+Liz snorted. Matt’s dry delivery was enough to get her to laugh. “Yeah, I figured that much. Were the excuses at least good ones?”
+
+“Some were. A few had serious internal issues. Mostly with the countries whose leaders refused to become awakened, but not only them. Almost every country that had a leadership change in the last five years has made almost zero progress on reaching the benchmarks we agreed on, but they weren't the only ones to drag their feet.”
+
+“But?” Liz could feel it coming from a mile away.
+
+Matt grinned, but it was hollow. “But I frankly don’t really believe any of them are going to make meaningful progress. It's clear most of them think their positions are irreplaceable, and think if they just drag things out, they can remain in power forever. I kinda get what Max talks about, how she doesn’t even need to read minds to, well, read minds.”
+
+Slumping back, Matt ran a hand through his hair. “I was so tempted to just blow the roof off the place and tell the world. What is the point of going through the slow integration if their leaders are just going to drag their feet at every opportunity? I tried to make it clear that I would replace any leaders who continue to delay and avoid making meaningful progress, but I don’t think they really believed me.”
+
+Liz took all of that in, and her phoenix self gave Matt a general peck on the head. “Ow.”
+
+Liz hopped off Matt’s lap with a grin and pulled him to his feet. “Ok, enough of that. We haven't seen each other in almost five years, and it's been too long. Let's go for a walk, and we can chat about more fun things. How has the guild been? Halfway to the date you want to go public, how’s it going?”
+
+Liz could feel as Matt’s mood improved. “We’re so close to a non-elemental aura breakthrough. Level two mana type research has been progressing steadily, and I think we’re about ready to start tackling some of the tougher L2’s. We are so close, I can feel it.”
+
+Matt looked down at her. “Enough talk about my stuff. How was your research team? What did you learn about your bloodline and mana type?”
+
+Liz smiled through both bodies. Her phoenix form preening as it showed off its sleek feathered form.
+
+“We learned a lot, actually. Most of it good. Some of it not so much.”
+
+“Oh? The mana type or the bloodline?”
+
+Liz had wanted to avoid this topic for a little while, but now that it was coming up, she decided to just get it over with. “Minor issues in the bloodline. Ichor is toxic to mortals.”
+
+Matt nodded slowly before freezing for a moment. “How bad?”
+
+“Pretty bad. Contact can result in burns, and if any gets inside them… We had a Tier 2 dire mouse drink some Tier 2 ichor, and it died in under a minute. At Tier 10, it wasn’t deadly, but it left some serious wounds that would probably kill it in time. But at Tier 15, it’s completely fine. Well there are still some issues, same as general contact, but it actually might end up almost net positive? It acts like a really powerful general physical boost, and while the long-term effects can be… bad, there’s potential for some refinement, making for an interesting potion ingredient.”
+
+As they had discovered in their testing, Liz’s new blood, her ichor, contained an enormous amount of power, which led to a multitude of interesting results.
+
+One of which was that her body was slowly growing stronger all on its own. It was only a fraction of a fraction of a percent, but as her blood existed, it grew stronger. Making both her body and any magics she cast with her existing blood stronger in turn.
+
+Her research teams believed that raw physicality and energy was the main reason her ichor broke some of her older blood spells, especially the ones dealing in curses or subtle magics.
+
+Ichor was anything but subtle, so even if it was still technically blood, it just didn’t fit into those old sub-uses of blood mages. Liz could probably use them again with some more modifications, but her Tier 25 Talent meant that by default, the spell tried to use what was quite literally a fusion of fire and lightning for something meant to go unnoticed.
+
+On the other hand, her phoenix body was more different than would otherwise be obvious from a surface level examination.
+
+Phoenixes weren’t innately very malleable, but millennia of research meant that there were somewhat expected trends and established methods by which a phoenix could change their base element, without interrupting their coveted Rank two bloodline power of rebirth.
+
+The eternality of flame was at the core of the rebirth, calling upon the idea that a fire snuffed but relit was nonetheless the same flame afterwards. Changing that iconography wasn’t straightforward, but just about every element had a parallel function that could be drawn upon. Water used the water cycle, ice the concept of melting and refreezing, air the breath of life, and so forth.
+
+Liz almost fit that mold. Almost.
+
+While it was difficult to truly measure, as they only had the one Liz, it seemed like ichor-based rebirths contained an innate power boost after a rebirth. Normally, phoenixes didn’t inherently get anything from a rebirth beyond a restored physical state, but Liz received a measurable degree of empowerment in the wake of a death. Even when suppressing her Domain.
+
+Granted, with the number of natural treasures she’d consumed and degree of Concept mastery she was operating at, it was basically impossible to isolate the effect that the rebirth would have entirely on its own. She had an appointment scheduled a few decades out with someone capable of mirroring bloodlines for a better test of the bloodline’s power on its own, but until that happened, there was a fair bit of blind-firing going on.
+
+Of more practical interest was the fact she now had enough ‘bloodline energy’ for up to two more rebirths, so four total, before she’d need to molt and reset.
+
+Liz was personally most excited for the changes she’d encountered when experimenting with her Rank 1 affinity. It was a normal affinity in every sense of the word, in that it boosted the power of her skills using ichor or a related element. But like all affinities, it had its own unique quirks.
+
+For example, the fire affinity of a phoenix allowed for minor fine-control of flames, even without a skill, and minor resistance to fire. In contrast, the affinity of a hellhound was more focused on conjuring fire and making the flames around them hotter. But in Liz’s case, before the change, it had always been a moot point, as her Awakening had mostly cut her off from the ‘minor’ affinity bonuses.
+
+Until now, that was.
+
+She happily demonstrated that, with no mana whatsoever required, she could conjure a golden flame on her palm and got it to dance between her fingers.
+
+But it wasn’t quite the same as before. The range of her control was incredibly limited, to the point where holding the flame more than a couple inches away from her skin required visible effort from Liz, though she could ‘throw’ the ichor without much trouble. Furthermore, she could freely manipulate the form of that ichor, smoothly changing it between a gleaming liquid to flickering flame and crackle of lightning. The problem, however, was that the affinity had lost almost all innate resistance to ichor, meaning anyone with the affinity could conjure and manipulate a highly dangerous substance. But only directly on their skin, with no protections at all against that substance.
+
+That particular comment prompted Matt to ask the important question. “How will that affect our kids?”
+
+Liz rubbed his arm. “It’s… complicated. And still under investigation. I’ll probably have to do some body modifications to make myself more resistant to ichor on the inside, and then make sure that those are heritable. That, at least, is a bit of a solved issue for other elements, so it shouldn’t be instantly lethal. If you did them as well, it would help. Even then, it would be like void affinity, so not very good for long-term health, but it’s something that could definitely be treated. Absolute worst-case scenario? They’ll need semi-regular healing until they become immortal.”
+
+Matt nodded slowly as he processed everything. “That's good to hear. I was worried when you mentioned the blood being dangerous to mortals.”
+
+“Void is dangerous to mortals as well.”
+
+“Void is dangerous to everything.”
+
+“Exactly.”
+
+That earned a chuckle, which Liz considered a win as it was pulling Matt out of his bad mood.
+
+Looking down at her, he asked, “So what are your plans for the next couple of years?”
+
+Liz shrugged, almost dislodging herself. “Next few years? Not much. Hang out with you really. After your aura goes live, however, I’d like for us to start delving again.”
+
+A glint appeared in Matt’s eyes as his manifestations started to glow slightly.
+
+That was something new.
+
+“Your eyes are glowing.”
+
+“My eyes are always glowing? White holes, remember? Who are you and what did you do with my wife?”
+
+Liz sent him a picture taken via her [AI]. “No, your eyes were actually glowing. Like I haven’t seen before. They didn’t do that after you created your manifestation. I’m sure of that.”
+
+“Huh. I wonder when that started?” Matt’s eyes went distant before focusing back on her. “No one in the guild noticed it, but that doesn't mean it wasn’t happening. That’s not the sort of thing we focus on.”
+
+That was true, and just as Liz was about to ask a question when Matt reached out and squeezed.
+
+The world around them trembled with power, and for a brief moment, Liz felt her Domain be brushed aside like a cobweb. It snapped back into place after just a second, but both of them had felt it.
+
+Throwing her arms around him and giving him a kiss, she congratulated him. “I guess you just needed a little downtime to figure out your meld.”
+
+Matt looked flabbergasted. “I… What? Really? I haven’t even tried to use my meld after the war. I spent months trying to figure out the trick and now it starts to work? Really?”
+
+Liz laughed in the shared joy, even as she felt Matt pull both of them through a [Portal] to the moon.
+
+From there, they spent two days sparring and testing the meld.
+
+Matt had said before that the meld was like trying to wiggle your ears. Once you managed it at least once, it was only a matter of time before you eventually figured it out. Their best guess was that he’d done something in his rift experiments that helped him slip into the precise blend of dauntlessness and endlessness that his domain meld depended on. With practice, he was able to maintain it for longer and longer, but it remained incredibly tiring, and Liz grew better and better at working around it as she practiced in its effect.
+
+It was also incredibly fun and a good way for Liz to work off her own stresses.
+
+Still, they couldn’t spend too long having fun, and so before long, their sparring moved into the bedroom where they spent another day getting reacquainted with each other.
+
+Laying there, Liz was returned to the real world as Matt brought them back to their earlier conversion.
+
+“You said something about delving?”
+
+It took Liz a moment, but she nodded. “Yeah, I’ve been chatting with Sien, Allie, and Aster. Allie has been pushing for some more interesting rifts, the kinds we never really were able to hit while on the Path, and Sien got talking about various hidden realms and unique rifts they have in the Sects. Which Allie is permitted to delve as part of her buyout. Then, in addition to that, Sien said she’d be willing to toss some delve slots up as betting fodder, and that got Max talking about some Corpo rifts she enjoyed when she was around our Tier. Even Ellen mentioned that the Clans have some neat ones as well.
+
+“Anyway, long story short, there’s some neat rifts in the Tier 28 and 29 range in the Sects that we want to delve, and because stronger is obviously better, Allie said we should try team-delving a Tier 29 rift once we all get some spare time. She’s still working on expanding her waypoint system, and Zack is, I think, playing with his new spell array thing. You’ve got your aura rifts, I’ve got to prepare for our other planets showing up… Basically, it’s still a few years away, but the five of us delving something fun in the Sects seems like a good way to get back in the swing of things, yeah?”
+
+Liz could see as Matt processed all of that before he cocked his head to the side. “Hey, wait. I didn’t see any of these conversions, and I don’t see any threads about it.”
+
+Liz grinned. “Girls only thread. Sorry big boy, but you aren’t invited.”
+
+Matt pulled back and put a hand over his heart. “I’m wounded. Hey wait, why isn’t there a boys only thread? I’m starting one.”
+
+A moment later, his attention came back to her. “As for the delving, it sounds fun. The aperology department is actually about to split in half. Half of us are going to continue with aura rifts, and the other half is going to start working on other projects like making custom rifts. Maybe we can end up making fun rifts for us to delve?”
+
+Liz leaned up, giving the idea more of her attention. “Oh, that could be very fun. I assume you are going to start low, right? Finally going to pull delvers into the guild?”
+
+Matt nodded. “I already talked to Mathew and Vinnie, and our first delvers are going to be their schools best at Tier fighters. They’ll technically be contractors, because Kees brought up the fact that being officially part of a research guild means they can’t keep much of what they find in the rifts. But if they’re contractors, their contracts can allow for more flexibility of rewards. Theodore's Talent is great, as it allows us to know the rift drops. Oh, remind me to tell you about the Lamia rift later. The drops were so weird. But just knowing a drop table can only tell us so much. We need blades in hand and boots on the ground to delve the rifts to gather more actionable feedback if our custom rift ideas can come to fruition. I just worry about someone getting hurt.”
+
+Liz understood where Matt was coming from, if he was making rifts and someone died that was at least partly on him, but it was also a reality of life. Rifts were dangerous.
+
+“What about the tether project you were trying to create?”
+
+Matt shook his head. “There’s a team working on it, but currently it’s looking like we can’t get it under Tier 20 materials, which obviously don’t work for the Tier range we’re experimenting in. If they can’t make any progress in a decade or so, I’ll shelve it for something more immediately useful. I’m sure there has to be a way, but it's going to be incredibly complicated to get any teleportation function to work with low Tier materials, that's for sure.”
+
+Their small talk continued for another few hours before they both had to get to work. Liz would be taking over dealing with the political stuff for a little while so Matt could focus on his guild.
+
+Liz liked politics about as much as Matt did, but unlike her husband, she could put up with them. Thankfully, enjoyment of politics wasn’t a requirement for participating in them, because there was no way she was going to run the duchy herself. Despite his dislike Matt was more than competent, even if he tended to handle things with less finesse than she normally would.
+
+That was fine, though.
+
+Long term, the two of them having two distinct styles of governance would ensure that people went to who they felt would handle their requests in the way they wanted, and Matt and her could both play into that and flip the switch when necessary to best effect.
+
+The first thing she did was go through the documents from Soerilia, and she had to shake her head.
+
+Screw their past selves, she was tempted to just appoint a baron and wash her hands of the problem, but they had started this unveiling and they needed to see it through personally. She just needed to remind herself that strangling some of the country's leaders wouldn’t actually be helpful. Even if they weren’t intent on keeping a light touch.
+
+As Matt had said, far too many of the countries had failed to meet their first year’s benchmarks, which the other countries had used as an excuse to start dragging their feet. The other countries weren’t necessarily wrong for that, but they were using it as an excuse to skip more than was appropriate. The idea had been for the world leaders to move their countries together in a sort of lockstep to keep from crashing local economies when an innovation wasn’t taken up by one country, but the first year benchmarks were incredibly simple.
+
+The only one they had all universally hit was spreading the healing devices through their hospitals and getting young and skilled doctors brought to Lily, where they could be given a crash course in magical healing. Part of that was undoubtedly Matt yelling at various world leaders in the first days of the magical devices not being appropriately distributed, but Liz suspected something else was at play. A quick check of the plantarty AI confirmed that all of the country leaders kept at least one healer near them.
+
+Liz contemplated reprimanding them for misuse of something that was supposed to be used in hospitals to help injured civilians, but all but a few countries rotated the healer in question in something like an on-call system, which meant the healers were still able to help people with their skills.
+
+Having read the typical unveiling information packets, Liz checked how Soerilia was explaining the magical healing. From the reports, there could be some very amusing cover stories.
+
+Soerilia wasn’t one of them. They went with a breakthrough in stem cell medical technology. Liz would have rather they tried explaining it as nanobots or something funnier.
+
+All told, stem cells weren’t the worst cover story. It even matched the biological signs… well enough. Her own blood healing looked even more like actual stem cell med-treatments than simple healing-aspect spells did, but she wouldn’t expect someone unfamiliar with magical healing to be able to tell the difference.
+
+That was the only bright spot. A full half of the countries had failed to solve their homeless problems, which should have been easy. They were providing plenty of resources for handling all of it, but from what she could tell, they just kept dragging their feet. Retrofitting hotels, refurbishing apartments, setting up shelters was not complicated, and they all got people off the streets to where they could get the help they needed in a controlled environment.
+
+There was one country that especially caught her eye as being far too liberal with exile compared to what the statistical models said they should be having to do. Exile was a last resort, for people who absolutely refused civilization, not the thing you did because you didn’t want to build an extra bunkhouse.
+
+Gah. There were plenty of countries who were citing drug issues and mental illness as reasons why they’d missed their goals, as though those weren’t oftentimes self-creating issues. Actually, she knew they’d been providing plenty of clearview to Jesmaop. What were they requesting more for? The number of addicts who had been treated was definitely below the amount they should be able to treat with how many doses of the stuff they’d been supplied, and now they were asking for more?
+
+Something was going on there.
+
+Some nobles, usually first-generation ones, didn’t care about their mortals and were happy to let them waste away if they wanted, no matter the current political pressure. Liz however, refused to let her and Matt fall anywhere near that particular class of noble. Even from a simple cost-benefit analysis, a productive mortal was just as expensive as a wasteful mortal, but was far more likely to actually be a net benefit to society.
+
+That logic should have held extra true in a fully-mortal government, where they couldn’t rely on the excess productivity of high-Tiers to support mortal needs. Yet some of these countries seemed adamant to do everything they could to avoid helping their people.
+
+Thankfully, it wasn’t everyone.
+
+A number of the countries had taken the money they were giving them and were making good changes that would see their integration into the Empire all the smoother.
+
+Liz loved him, but she was sure Matt would just go over there and yell at people until they did what they were supposed to, but Liz saw another opportunity. Carrot and stick.
+
+She drafted a proposition to have some of the countries who were actually meeting their benchmarks open their borders to the homeless, and offer them the same that they had done for their own people. That would put pressure on the recalcitrant countries, who would either get their own programs started, or the people would leave and be given the help they needed. It might exacerbate her issues with the country that kept exiling their homeless, but she’d make sure that it didn’t turn into a disaster.
+
+Either way, it was a win.
+
+After getting the administration team to look over the proposition, Liz had it distributed along with the rewards for any countries who did actually take in and properly care for refugees.
+
+The other first year benchmarks were more hit or miss. Some countries seemed adamant in refusing to make public transport reliable and free, while others had already been doing that and took the money for said projects to improve or expand their coverage.
+
+Another issue that shouldn’t be an issue was chemical pollution.
+
+Mana was already a very efficient energy source, and what miniscule waste products it did produce were easily recyclable or otherwise dealt with by tossing them into a rift. And while the planet did have some mana-based energy producers, they were decidedly in the minority. She could relate to the difficulties that would come with retrofitting a lightning-based power grid to be a mana-based one, but that didn’t excuse their refusal to stop burning coal instead of, at the very least, refitting their generators with new mana-based reactors.
+
+A handful of countries on Soerilia had blatantly refused to change, and in fact started burning more coal in what she presumed was some sort of act of defiance.
+
+Liz genuinely couldn’t understand the logic, but the unveiling best practices had ways to deal with this. She implemented a few of them hoping to, if not reverse these counties' decisions, keep the madness from spreading.
+
+With Soerilia handled, she turned her attention to their own nobles. While they only had a single planet, the next five years promised to bring them another fifty planets as their particular section of chaotic space became the center of a local spatial whirlpool of sorts.
+
+That meant most of their prospective nobles were still spread across the Empire, but a few had arrived at Lily, and she scheduled meetings with all of them to get a feel for them.
+
+She was meeting with one of their counts when she got a high priority message from the administrative team overseeing Soerilia.
+
+One of the countries who had been unwilling to help their homeless populations had decided that instead of doing what they were supposed to, or letting their people leave to go to a neighboring country who had started taking them in, they would arrest all of the homeless.
+
+Liz’s blood turned to lightning, and a wave of power burst out of her as she finally lost her temper. Before anyone could even register that anything had happened, she’d used her skills and Domain to put everything back the way it had been before her outburst.
+
+Soft touch, Liz, soft touch.
+
+She was trying to prove she was more than just a hot-tempered Ascender. To do that, she needed to make sure she was delegating properly. Some guards arresting the offending politicians would do adequately, and would send the appropriate message to the appropriate people.
+
+***
+
+Aster jumped into the air, body a perfect aerodynamic missile of fox. She paused at the top of her arc before dropping down nose first, plunging into the snow. There were no rabbits, mice, or moles for her to snack on, but the image would make for an amazing picture with her tail alight with tendrils of illusory colors.
+
+The director directed the photographers to each side and Aster twisted left then right, giving them each a good view of her flank.
+
+These images would make for amazing material for her ice cream containers.
+
+As they were getting ready to change scenes, Alice pinged Aster’s [AI] and she nodded. Even as she sat there and let the makeup artist pat her now human face with various makeups.
+
+They all had the appropriate Talents and it took only seconds to do what would have taken her minutes, and the results looked twice as good.
+
+As she moved from pose to pose, Aster chatted with Alice. “So how did they react to the news?”
+
+“As we expected my lady. The winter wolves immediately said they would support the expansion of ice bloodlines, though their contracts were looser than we expected. Closer to variation 6d.”
+
+Alice sent over the contract, and Aster scowled. The photographers took even more pictures so Aster turned the expression into one more stylized.
+
+Damn, she looked good.
+
+But she was also irritated.
+
+With Matt making his own guild wanting to change the realm, and Liz already taking the bloodline research angle, Aster wanted to improve the Empire in her own way. After chatting with the other bloodline people she knew, she decided to offer support for the various ice bloodlines. It would be a pseudo sponsor program, but not limited beyond having some version of ice or cold bloodline. Aster had expected the winter wolves, the bloodline clan with a stranglehold on the Empire’s winter rifts, to balk. But they had instead played it smart, and were at least nominally supporting her initiative.
+
+That was annoying!
+
+They should have been like movie villains and immediately resisted her so she could crush them directly. But instead, she needed to actually play the game of politics and public relations.
+
+Not that Aster wasn’t ready for it, but it would take longer.
+
+She had considered just ignoring the winter wolves and having Matt eventually make ice and winter rifts outside of their control, but they couldn't just stay in their lane and quietly slip into obscurity. No, they needed to resist and struggle, trying to keep their position as the most dominant winter bloodline.
+
+Aster was tempted to crush them and dismantle their control entirely, but that was the petty part of her speaking because they were trying to nose into her venture.
+
+They were assholes, not truly evil, and should be treated as such.
+
+Still, if they were going to try and counter her opening maneuver, she was going to strike back.
+
+Just not immediately.
+
+She and Alice had a plan to deliver one firm but calculated strike to the winter wolves, but it would take time to set up and prepare for.
+
+“Ok, let's go with plan Alpha then. I—”
+
+Aster paused as she got a different message.
+
+Cameron had arrived!
+
+She was actually a little early, which meant whatever she wanted to talk about was probably more serious than Aster had thought, but that was fine. It was good to see her friend either way, and Cameron had said she needed to vent.
+
+Alice thankfully went and escorted her friend into the photo shoot area, and feeling mischievous, Aster grabbed her and pulled her into the shoot.
+
+Cameron resisted, but their Tier difference made that futile. “Aster stop! I’ll mess up the photo shoot! Stoooppppp.”
+
+Aster laughed as she pulled her friend into a hug before grabbing her face and squishing her cheeks and pressing their faces together.
+
+The photos were adorable and were instantly sent out in her bond academy group chat. Because it was a normal, non-secret chat between a bunch of academy friends and only including a single Ascender, it would take up to a few months before everyone saw the picture, but Aster knew the reactions would be amazing and worth the wait. Really it was their own faults for not staying close to the Capitol so they could hang out easier.
+
+“Ugh I’m covered in your makeup now, Aster. It's all ice based, this is gross!”
+
+Seeing that she had finally gotten a smile out of her friend, Aster gestured for the makeup artists who quickly came and got Cameron camera ready. It would ruin her original photoshoot, but they should have enough good material for a few decades of branding. And it was more important to have fun with her friend.
+
+It took a little prodding but Cameron did get into it and they went through a dozen scenes in both human and beast forms. The pictures came out incredible. They had better be for what Aster was paying for this, but even ignoring the images for her ice cream company, the pictures with Cameron were worth the price.
+
+An hour later and freshly out of their respective showers, Aster and Cameron curled up on a loveseat in her penthouse room.
+
+“What's up Cameron? You said you needed to vent, so here I am.” Aster held her arms out wide but got a hand shoved into her face for her efforts. “Rude!”
+
+“Yeah well, it's your fault. I’ve been trying to apply for junior steward assistant positions, or lower, since your guys entered the war. But anywhere I apply tries to give me jobs I’m not qualified for. Damn it Aster! This is your fault!”
+
+Aster felt a pang of genuine sorrow for her friend. She knew how much her Magma Otter friend wanted to rise through the ranks on her own merits, and their close connection was hampering her career.
+
+“Sorry.”
+
+Cameron’s hair flashed as she nodded and sighed. “Yeah, I know. It's not really your fault, but I can’t complain to anyone else.”
+
+Aster wanted to offer Cameron a position in her duchy, but knew that would go over about as well as an ice bath for the Magma Otter.
+
+Even trying to get her a position in Matt and Liz’s duchy, or even Allie’s or Zack’s, would be met with the same response that Cameron hadn’t earned it yet.
+
+Wanting to bring up the mood, Aster transformed into her fox form and tackled Cameron, who instinctively transformed into her otter form. Their wrestling used to be a ton of fun, but Cameron was just too low Tier for Aster to let loose like they did in the academy.
+
+Her friend was only nearing the peak of Tier 16 in two hundred years, and needed to hurry up!
+
+Aster was thinking about how she could otternap her friend and drag her through a few rifts when she had a thought.
+
+Cameron needed to advance, and she needed a job that wasn’t just handed to her.
+
+Jumping on Cameron and causing repeated ooph’s, Aster yipped, “I know how to fix this!”
+
+“Stop jumping on me, you stupid fox! Your feet are like daggers! How are your paws so damn small? All the pressure is right on me.”
+
+“Lalalalalala. I can’t hear you. I have an answer, though!”
+
+“Fine! What is your answer?”
+
+Finally letting her up, Aster sat next to her friend and poked her face with her cold nose. “Matt’s guild—”
+
+“That’s just more nepotism, Aster!”
+
+“Let me finish! You apply under a pseudonym. Matt was complaining a few months ago how hard it is to find good, reliable administrative staff. Too many people just want to work for him for a couple decades so that they’ve got it on their resumes that they worked for an Ascender, then move on. You have your degrees, so you should be a perfect fit for the lower level positions, which is where you want to start anyway. You said you wanted to see these places from the ground up, and here is a perfect chance!”
+
+Cameron sat up and started worrying her paws. “It still feels too much like nepotism. Also, it's illegal to apply under false pretenses.”
+
+“That's why applying to Matt’s guild is best! Even if it does come out, he’s not going to press charges. It's worth a shot. And if you get the job, I can get you a mask that will hide your identity so you can be sure your eventual promotions are all because of your efforts. It's perfect!”
+
+It would also give Cameron access to rifts, which meant she would advance faster. Matt had talked about letting his people delve once they had rifts of the appropriate Tier or be carried. At least, she thought he had. She was pretty sure he had. Even if he hadn’t, she could mention it and get him to do it anyway.
+
+Easy!
+
+Two problems solved.
+
+Cameron would get a chance to prove that she was competent, and she would advance so Aster had a good partner to play with again.
+
+Maybe she could get all of her academy friends jobs at Matt’s guild so they could advance faster as well? Probably not, but the idea was worth considering when she had more time.
+
+It would also put them close together, as eventually, Matt and Liz’s capital would be near hers with how their duchies were doing to mirror each other, so it would be super easy to pop over and say hello.
+
+Aster needed her friends, damn it!
+
+“Aster, this will never work.”
+
+“You won’t know until you try! Come on, I'll help you fill out the application.”
+
+“What do you know about filling applications?”
+
+“I’ve done it loads of times. It's easy.”
+
+“When have you ever applied for a job? You are an Ascender.” Cameron looked aghast, and Aster’s mind raced as she came up with a convincing answer.
+
+The one she landed on wasn’t even a lie. “In my folded reflection lives. So really, I have more experience than you do at this.”
+
+“Did you get any of those jobs in your other lives?”
+
+“That's irrelevant!”
+
+Cameron smacked her with a nearby pillow, speaking around a full mouth. “It’s incredibly relevant!”
+
+It took almost ten minutes to convince Cameron to try, but eventually she caved, which told Aster exactly how much Cameron wanted this.
+
+Finally, Aster had enough of her dawdling. “Come on and hit send. I’m growing old here! If you send it now, it will go out with the pulses and it means it should arrive at Lily in like a day or two at most.”
+
+“I just looked it up, it takes a month on average for standard messages to reach Lily!”
+
+Aster flicked her tail in dismissal. “A month, a day, same thing really.”
+
+“No, it's not!”
+
+Instead of waiting around doing nothing, Aster demanded they go to a nice restaurant. Aster wanted Cameron to meet Cynthia, and the actor was in the Capital right now so the timing was perfect. If Cynthia had the time, they might even be able to sneak onto one of the sets she was working on.
+
+There were four ascender movies currently being made about the last war, and two of them were actually more serious types instead of the comedic ones, which meant they were the perfect distraction for Cameron until the news of her application came back.
+
+Then, once Cameron was settled and on route to her new job, Aster would return to plotting the downfall of the winter wolves and preparing her ice cream's new flavors. She sent a message to Alice to tell an annoying peacock that they needed to have a chat sooner than later about the roll out of new flavors, and she needed to get her tail feathers over to the Capital pronto.
+
+Before she could get distracted with work, Aster dragged Cameron to get ready. If they looked good enough, maybe they could get a spot as a background character or two, which could be fun.
+
+Maybe Allie would like to crash the movie sets as well? She and Cameron would probably get along great!
+
+One message later, Allie popped into the room already wearing a hat and fake mustache. Her sudden arrival scared Cameron enough that the otter actually passed out. “I’m ready bitches!”

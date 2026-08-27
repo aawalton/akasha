@@ -1,0 +1,245 @@
+---
+id: 3777dfb1-eac2-5f7c-abc2-08cbac9f4bd4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21"
+slug: 0021-chapter-21
+partOf: the-speed-of-light-monster-evolution-litrpg
+position: 21
+ownLength: 2521
+unit: words
+publishedAt: 2025-09-10
+link: "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2589358/chapter-21"
+royalRoadId: "2589358"
+---
+
+Gregor channeled mana into the staff, his skills amplifying the magic as it activated with the staff as a catalyst. The monsters he had under his control had finally worn down the intruder, cornering it by finally forcing it to slip up and crash into the cave wall.
+
+His magic activated, and two spikes of earth skewered the horse from both sides against the wall. Only he did not get a notification for the kill.
+
+How is that possible!? A skill?! He thought. Was that how the beast managed to evade the fireballs before?
+
+He had not seen it use the skill in the plume of fire, smoke, and debris from before. He knew she had used a skill from the activation of mana, but he assumed it was another of her movement-type skills she had been using since she entered the cave.
+
+Gregor put all his focus into his mana sense, trying to locate where the horse girl was, but couldn’t pinpoint them. But suddenly, he felt an intense influx of mana in the open.
+
+He turned his head in the direction, seeing something else shimmer into view. This wasn’t the horse he had begun the fight with. The white mare, with only a fraction of his mana, was one he was certain he could win against.
+
+Something had happened.
+
+She evolved…?
+
+But it wasn’t just a normal evolution. It wasn’t possible to increase her mana presence in such a way. She had to have evolved into a rare species. Even then, this was night and day.
+
+Coming into view as he laid his eyes on the new beast, he felt a shiver run down his spine.
+
+Two sapphire blue eyes pierced through him, nearly causing his heart to skip a beat. The mare’s once pearl white skin, covered in blood, was now a sharp silver white. On all four of her legs, white fire burned and seared the ground she stood on.
+
+Gregor could hear himself gulp as his grip on his staff loosened all the more. He looked down to see his hands sweat, as if the temperature in the cave had risen considerably.
+
+He turned to the troglodytes still surrounding the mare, stunned in both confusion and fear.
+
+“What are you idiots doing?! Kill her!” he roared.
+
+Tachyon felt herself black out slightly as she accepted the race evolution prompt, but thankfully came to in what felt like a moment later.
+
+She instantly felt her body suddenly refreshed and stronger than ever before. The new notifications of titles and stats flooded her vision, but what she was more concerned with were the new skills she had gained from the evolution and the new selection she could choose from after hitting level 20.
+
+New skills have been obtained.
+
+Fire Magic - Uncommon
+
+Heat Mirage - Uncommon
+
+You have gained insight into your skills, Fire Magic and Light Magic.
+
+Skills have combined.
+
+New skill obtained: Fire Light Magic - Unique.
+
+You have gained insight into your skills, Heat Mirage and After Image.
+
+Skills have combined.
+
+New skill obtained: Fire Light Clones - Rare.
+
+Without having a chance to check the descriptions or the options of her new skill selection, she felt as if there was a breeze in the cave that wasn’t there before.
+
+Looking down, she saw flames surrounding her and began tiptoeing to put them out in a panic.
+
+“Oh no, oh no, I’m on fire!” she shrieked. But had little time to debate if it was actually harming her or not as she sensed the Bruisers rush her. The mages beginning to activate spells as well.
+
+Tachyon grunted in displeasure and was forced to put the flaming hooves she had to the back of her mind, as they weren’t currently harming her. Instead, refocusing on the battle and what exactly she would be doing to not die.
+
+The Bruisers closed in, and Tachyon turned instinctively, summoning her light magic carrots. Only this time, they were not only bright vegetables of light. Now they had turned into flaming ethereal carrots of light.
+
+She wasn’t preoccupied with how different the spells looked for now, but more with how powerful they were.
+
+Tachyon fired a volley of her own. Two at the incoming mass of fireballs, and two at the pack of Bruisers closest to the wall.
+
+The moment the carrots connected, she was astonished to see the havoc it wrought. With only two of her normal-sized carrots, she had intercepted a majority of the fireballs raining down on her from above. The explosion from the impacts far greater in strength and size than she could have imagined.
+
+The Bruisers fared no better as the carrots effortlessly slammed into their chests. While before, they would be able to tank several of the carrots with ease. Now the power of her evolution shined. A fist-sized hole was punched through the Bruisers at the point of impact. And that wasn’t the last of the effects.
+
+A moment after the impact the monsters went up in sterling white flames. The scene making Tachyon do a double-take at the damage.
+
+You have killed, x4 Troglodyte Bruisers Level 16. Experience earned.
+
+You have killed, x2 Troglodyte Bruisers Level 15. Experience earned.
+
+But the damage was done, and she now had a way out. She felt another surge of mana at her feet. Gregor, trying to skewer her.
+
+Tachyon sprinted forward, building up speed with each flaming step, burning her hoof-prints into the ground. She was pleasantly surprised to find herself gaining speed more quickly than usual. The fact attesting to an increase in stats.
+
+Breaking through the opening, she tried to raise herself into the air, but her shoe’s duration was far over. She only had the option of running on the ground for now.
+
+Skidding to a stop, she turned once she was out of the encirclement of troglodytes and tried to get a count on the monsters remaining.
+
+Outside of Gregor still standing at the top of the mound next to the Controlling Stone. There seemed to only be ten mages left, and half as many Bruisers.
+
+She was faster, stronger, and fully healed, thanks to her evolution. It was time for her to finish this up.
+
+Tachyon’s eyes went to the floor again, an influx of mana beginning to well up.
+
+She jumped to the side and began running once more. Jumping, side-stepping, and running all to build up speed and dodge the spikes of earth. Tachyon began getting into a rhythm of feeling out the mana changes in the earth and air as she weaved through the cave. Her sensitivity to the changes miles ahead of before.
+
+This was to say, the fight had become nearly a walk in the park. With no one to keep up with her speed, she was running circles around the troglodytes, literally.
+
+The opportunity gave her a chance to reach her new skill selection. Hoping something was there to help her finish the fight in an instant.
+
+Please select from listed skills and skill upgrades.
+
+Armament of the Unicorn - Rare
+
+Natural Motion - Rare
+
+Hermes’s Aerial Combat - Rare
+
+Mana Motion Platform - Rare
+
+Status Homeostasis - Uncommon
+
+This time around, she had gotten a batch of entirely new skills. Or perhaps they were all improved because of her higher level? Either way, the majority of them being provided at Rare already boded well for her.
+
+The problem now was to have enough time between dodging attacks, even if she was managing easily for now. To read the descriptions and weigh the options.
+
+Tachyon continued to run, dodging spikes of earth that were becoming more and more frequent by the second. The Bruisers, at this point, formed what defense they could around the mages who continued to fire off fireball after fireball.
+
+She was more surprised at their ability to use so many spells for so long. The fight had been going on for at least ten minutes by now, and they had continued a nonstop barrage of fireballs the entire time.
+
+Her momentum built further. Gregor and the other troglodyte mages’ insistently shot off magic to no purchase of their target. Tachyon began the stranglehold of her speed.
+
+Continuing to make her rounds around the cave, that might have well been a race track at this point. She began closing in, making her orbit smaller and smaller.
+
+As a result, the Bruisers and mages began to crowd the mound that Gregor was on. The Elemental Troglodyte began shouting and screaming at the others, but none were willing to stand their ground and be turned to a smear on the cave’s floor.
+
+She took advantage of the situation, continuing to tighten her grip on the group of monsters as they became an easier and easier target for her and her built-up momentum.
+
+Once they were all in the same spot around the Controlling Stone. Gregor pushing and shoving for them to give him more room. Tachyon took a moment to go over her skill options, ready to make a final decision as well as a final blow.
+
+Armament of the Unicorn - Rare
+
+This skill will manifest the physical horn of a Unicorn to the user’s head. The horn will amplify any physical attack as well as absorb the user's magic and mana to enhance attacks.
+
+Natural Motion - Rare
+
+This skill will greatly increase all physical abilities for a set period of time and will empower the user.
+
+Costs a small amount of mana and stamina.
+
+Duration: 5 Minutes.
+
+Cooldown: 10 Minutes.
+
++20 to all stats.
+
+Hermes’s Aerial Combat - Rare
+
+Increases any attack performed from the air. Gives the user access to the fighting style of the Messenger of the Gods Hermes.
+
+Mana Motion Platform - Rare
+
+This skill gives the user the ability to create up to two platforms from their mana. The platforms may absorb elemental effects based on the user's magic. Once the user steps on the platform they will be partially refunded the mana used to create said platform.
+
+Costs a moderate amount of mana.
+
+Stability and sturdiness of the platform scales off Agility.
+
+Homeostasis - Uncommon
+
+Moderately increases Resistance to ailments and increases status regeneration.
+
++5 to Resistance. +1 to Resistance per level.
+
+Almost every skill was a jackpot. Some of them gave permanent bonuses and effects, others even gave per-level bonuses.
+
+Tachyon quickly dismissed the Hermes’s skill. Chalking up his continued appearance to the use of his shoes. The Natural Motion skill seemed to be a rarer version of her previous Blood Doping skill, which was now a part of her legendary skill.
+
+Armament of the Unicorn would be a helpful skill, a new way to attack would always be a boon. However, she wasn’t entirely sure how she would enjoy a horn on top of her head. She was already dealing with a stick between her ears.
+
+Homeostasis was a great addition and would help her compensate for her rising mana and stamina costs of her skill, however, what she needed right now was a way to finish this fight.
+
+The Mana Motion Platforms did catch her eye, reminding her of how she used to battle the Bruisers in the early stages of the caves.
+
+It was between the Unicorn skill and this Platform skill. But perhaps she wouldn’t need to choose so soon.
+
+It’s time for an experiment. Tachyon thought.
+
+Storing her speed that was now far surpassed her previous max, she skidded to an abrupt stop. Mana welled at her feet as she saw fireballs incoming from above, and the earth spike forming at her hooves.
+
+Jumping to the side, she began using bursts of her legendary skill to ricochet off the walls, leaving deep, searing hoof marks. Each jump launched her to the opposite side of the cave, allowing her to dodge the incoming spells and confuse the troglodytes at the same time.
+
+However, each time she landed, she kicked up more and more debris, breaking apart the wall more with each leap.
+
+But she soon reached her desired speed and position. Right above Gregor.
+
+She unleashed her momentum all at once as she landed on the ceiling above him, summoning a dozen magic lightfire carrots to lead the way and hopefully destroy his sphere of defense. Along with any remaining troglodytes caught up in between.
+
+Tachyon’s magic hit first, some of them intercepted by fireballs, but many of them slammed into the light blue sphere surrounding Gregor, exploding on impact. The explosions torched the surrounding monsters to a crisp.
+
+You have killed, x3 Troglodyte Bruisers Level 16. Experience earned.
+
+You have killed, x2 Troglodyte Bruisers Level 15. Experience earned.
+
+You have killed, x4 Troglodyte Fire Spitters Level 17. Experience earned.
+
+You have killed, x3 Troglodyte Fire Spitters Level 19. Experience earned.
+
+You have killed, x3 Troglodyte Fire Spitters Level 18. Experience earned.
+
+A moment later, Tachyon collided with the sphere, the impact sending a shockwave large enough to push the burning bodies outward and dousing the flames lingering on top of it.
+
+She gave a click of her tongue as she saw the sphere crack, a spiderweb of white lines cascading over the outside.
+
+Even with her increased stats, along with her new top speed. The defensive barrier would not break.
+
+But she knew she was on the verge of shattering it. She could feel the mana in the barrier and the lack of it within Gregor.
+
+He was putting everything he had into it. He wouldn’t be able to survive another attack like that. And for good measure, Tachyon would make sure of it.
+
+You have learned, Mana Motion Platform - Rare
+
+Tachyon felt a wave of knowledge hit her briefly. And she immediately activated the skill, a bright blue platform forming between her and Gregor.
+
+Gregor’s eyes grew wide in confused panic as his gaze went upward and he saw a second one form on the ceiling among the falling rubble.
+
+Tachyon summoned another pair of light fire carrots, the first shooting to the top platform, the second consumed by the platform between them.
+
+“W-we can talk about this! I-I’ll give you the stone! I can be your underling! I own this cave and I’ll give you it!” Gregor stammered.
+
+But Tachyon put all four hooves onto the platform, her already fiery legs igniting further as the flames ran up her entire body. Turning Tachyon into a flaming comet.
+
+She bent her knees and shot upward, twisting mid-air as she landed on the other platform. She repeated the motion several times as her body became a white streak of brilliant fire. And then she removed the platform below as she came down for the final strike.
+
+The crash created a fiery burst and a crater that completely flattened the Controlling Stone, the mound, and Gregor.
+
+You have killed, Troglodyte Elementalist Level 23. Experienced Earned.
+
+You have captured a Medium Controlling Stone.
+
+You have received 50 control points.
+
+Experience earned.
+
+New Title earned: Kings Queens and Castles 2
+
+Congratulations! Your race level has increased to 21. +14 to AGI, +12 to MAG and +7 to STAM, +25 Free Points.

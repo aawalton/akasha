@@ -1,0 +1,267 @@
+---
+id: ce0d2bc8-15e7-5b3e-a49d-564c34a7dfaa
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED TWENTY-FIVE: Here-to-There V"
+slug: 0227-two-hundred-twenty-five-here-to-there-v
+partOf: super-supportive
+position: 227
+ownLength: 3682
+unit: words
+publishedAt: 2025-06-20
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2372864/two-hundred-twenty-five-here-to-there-v"
+royalRoadId: "2372864"
+---
+
+225
+
+*****
+
+In a desert on Artona I, the sun glinted off the white roof of a train that sped across the sand without any need for rails. It was only four cars long, but it was on course to join a second, longer train soon, according to what Alden had learned from the others as they loaded all of the furniture and luggage into the last car before boarding. The Here-to-There caravan hadn’t found their next ride at any kind of terminal, but out in the desert itself, waiting for them in a horseshoe-shaped depression that was full of tumbleweeds. The train had been ordered in advance, and it had come with no driver.
+
+Now that they were all aboard and underway, Alden was alone in a room reserved for the wizard class at the back of the first car. He looked at the golden brown panels that covered the windows without really seeing them.
+
+He’d managed to wash off the grit, sweat, and sunscreen with shower wipes. His tank top had dried quickly enough to be decent, and now his socked feet were propped up on a gray couch. This room was private, dark except for a couple of domed lamps he’d left glowing on tables, and marvelously cool. The temperature control panel was easy to use, and he didn’t have to worry about making anyone else chilly, since Stuart had said he would have this place to himself for the duration of the trip.
+
+With all of that in his favor, and since it was the middle of the night on Anesidora, Alden should have been able to sleep without a potion. He definitely would be able to with one, but he’d been tapping an injector against the velvety fabric of the couch for several minutes now, reluctant to use the drug and let it put a stop to his swirling thoughts.
+
+He’d texted Stuart a few times. Not as cautiously as he probably should have. Probably, he should have said, “Wow! I made a water shield! How did that happen?”
+
+Or something. It was hard to estimate how ignorant he ought to act about his own skill to come across as a talented, but not unprecedented, human Avowed.
+
+What a reversal it was to go from having no real clue what Ro-den meant, no matter how clearly the professor explained how having an authority sense worked, to not quite recalling what it was like to do magic without one.
+
+Alden had been so excited by the new insight into his skill that he’d let some of his fear of discovery go, and he’d texted Stuart his thanks as well as questions that Stuart had barely been able to reply to because they were so busy.  The Primary’s son had merely smiled and said he was glad Alden had figured something out and that there was no reason to give him credit for anything.
+
+Alden was sure there was plenty of reason to give Stuart credit. In fact, he was a couple of threads of self-control away from saying something crazy and trying to pass it off as a wild guess.
+
+Perchance, Stu-art’h, did you come over to my spot in reality and hold my hand while I used my skill? I know, I know…it sounds ridiculous. But the thought that you might have done that popped into my head for some reason. And if you did, then some credit is definitely due, isn’t it?
+
+Fortunately, he hadn’t sent any questions along those lines. But he very much wanted a detailed explanation of…well, everything that had happened… and the thought that he might not get more than he already had was frustrating.
+
+I’ve got my own authority sense. The Bearer of All Burdens is my skill. I should be able to figure myself out.
+
+The only sounds in the room were the ones he made as he shifted and breathed. He closed his eyes and tried to cut out the questions and fears that were unimportant so he could get to what was useful.
+
+Did Stuart notice anything unusual about me when he helped like that?—a question that was loud in his mind but pointless. He couldn’t control what had already happened. And it was less a legitimate question than it was an anxiety.
+
+Alden had just been using his skill. Avowed used skills. There was no reason to think he’d given himself away yet. Stuart would be acting differently if he had.
+
+So he could let that go. And the alarmed part of him pointing out that Stuart doing this in the future would be a huge issue…that part of him needed to shut up because Alden didn’t have an answer for it.
+
+He didn’t know what wizards felt from him when he targeted them; it couldn’t be like Lute’s method when he was giving and taking chain debt, because that method made Lute’s power impossible to miss. If Alden worked the same way, then there was no point in his fake profile. As he grew stronger, summoners would eventually notice that the Rabbit didn’t feel like the mid-rank they were paying for, even if they were fuzzy on how strong was normal for humans of different ranks and ages.
+
+He didn’t think he’d have been given the quiet profile at all if he was doomed to out himself with simple targeting in a couple of years. So that either wasn’t a problem, or it was a problem that had a solution she thought he could manage.
+
+What had happened today, though, was different. Stuart had brought them close enough together for them to get a sense of each other’s authority. It had only lasted a short while, and Alden had been distracted by an epiphany. Yet he still had an idea of Stuart’s power relative to his own.
+
+The son of the strongest person in the whole Artonan empire was much stronger than Alden Thorn, random dude from Earth.
+
+To satisfy his ingrained human urge to slap a letter grade on Stuart, he’d need to go grab Lute and try to measure the two of them side-by-side with an authority stare or scan or whatever such a thing should be called. Since that wasn’t ever happening, he had to settle for knowing that Stuart’s power was closer to that level than to his own. But he was sure he’d notice if Stuart’s authority doubled in strength between now and the next time he felt it. Which meant that Stuart would know the same thing about him.
+
+This one’s a problem for next month. Or next year.
+
+He suspected he was lying to himself about the urgency, but he managed to set that particular issue aside, too.
+
+I bet partnered authority control exercises continue throughout a wizard’s education and they make the kindergarten exercises look like patty-cake.
+
+That was another thought churning around in his head. He’d wondered before, but he had enough data points now that he’d be shocked if he wasn’t right about it.
+
+Without Kibby, the only authority control practice Alden got was spell casting, but that didn’t seem to be normal for wizards. Three of the people he was traveling with today had been put in a squad together specifically so that they could get to know each other existence-to-existence. Emban wanted to deliberately deepen her connection to Ryada on that level. Esh-erdi and Lind-otta held each other’s places in the universe in some kind of full intertwining of their selves. Alden wasn’t sure how you made that happen with another person, but even if he assumed knights went a hundred steps beyond what was usually done by wizards to get to this particular bond, they must have started from the pat-pat exercise.
+
+There had to be so many miles between learning to locate the authority of the person kneeling beside you and getting so close to each other that you actually accessed each other’s skills and mind. It just made sense that regular wizards traversed some of those miles together, too.
+
+And it would explain why Stuart was comfortable and skilled enough to jump right in and do whatever he had done to help Alden out. Lending other wizards a hand might be something he did ten times a day in class at LeafSong.
+
+Alden stopped tapping the injector. This wasn’t something he was worried about, and it wasn’t directly related to what he could glean about his skill from his puddle shield adventure. He should drop it and come back to it later.
+
+He wasn’t quite ready to.
+
+It felt good. And it felt good for me.
+
+His vocabulary wasn’t up to the task. That was becoming more and more of an annoyance. He knew he was in another species’ realm, trying to describe experiences that had no equivalents in his language or his past experience. He should accept that it was going to take a long time for him to even be able to think about his own authority sense in a way similar enough to an Artonan to be sure he truly understood conversations about such things.
+
+For sixteen years, he’d been a mushroom, and now he sometimes had moments like this, when he wanted to define the feeling of one awakened being uplifting another to support the act of his dominion over reality.
+
+“Don’t be so dramatic,” he said. “You were never a mushroom.”
+
+The rest of the description of what had happened today was as accurate as he could manage, but the mushroom comparison was wrong. He’d been an ordinary human being, and that was a special thing to be, too. It just hadn’t prepared him for this major new part of his life.
+
+At all.
+
+Even figuring out the degree of kindness and intimacy Stuart had shown him was hard. He had to guess based off of clues that were based off of assumptions about a culture that he was pressing his face to the window of.
+
+He was left with, “It felt good. It felt good for me.”
+
+Like Stuart had given him a dose of authority-friend vitamins, which was probably so different from whatever Stuart had thought that he’d stare at Alden for twenty minutes if Alden said those words out loud and then call Yenu-pezth to fix him.
+
+I liked it. But there’s no way I can reciprocate for now. Let’s leave that…
+
+For now? Did I really just think that?
+
+He swallowed. A few hours on Artona I made Earth feel so far away. And vice versa. This must be what happened when the places you moved between didn’t have the hold of a home yet.
+
+Let’s leave that, too, he told himself. What have I learned about my skill?
+
+He thought back to the feeling of the water flowing into his palm and to the sound of Stuart’s words in his ears. Back to that instant before the creation of the puddle shield. He tried to break it all down to find the essence of what had happened and what he needed to know.
+
+I realized I haven’t been accepting my burdens properly, and…
+
+He let the rest of the thought sit in his mind, fully formed but unwanted, until it drove him onto his feet and across the room to a cubby in the wall where passengers could place a tulip-shaped cup under a spout for water or wevvi. He drained the first cup of water quickly and carried the second back to the sofa, where he sat sipping it and working on the problem of himselfuntil he could speak the painful thing aloud. So that he could no longer hide from it.
+
+“I’m angry that my skill is a skill for servants.”
+
+The words settled into the room with him and watched him like vultures.
+
+“I don’t mind that it works better when I’m suffering and making sacrifices, but I’m angry that’s not enough for it. I resent being transformed into a tool that’s not supposed to work without another person’s permission.”
+
+Yes. That was in him. It wasn’t an anger that overwhelmed all the good he could find in Bearer, but the emotion did have teeth.
+
+“When I said I wanted to be a support hero, even back then, this isn’t quite what I meant.”
+
+He suspected that after all these months, he had only accepted burdens in a way close to his skill’s ideal a handful of times.
+
+He suspected he’d gotten closer than usual today in part because he’d decided to obey Stuart’s instructions even though they went against his own preferences.
+
+Alden hadn’t thought going slow would work; he hadn’t had that idea on his own. He’d used his skill exactly as Stuart requested, right down to timing it with the flow of water cutting off and trying to give himself a “comfortable” handle. He’d done it that way just because he wanted to show he trusted Stuart’s advice.
+
+“I don’t usually accept burdens properly, and I don’t usually accept my entruster properly.”
+
+Maybe he should focus instead on how lucky he was that Bearer allowed him to find all the wiggle room he’d already found.
+
+When I do accept correctly…I bet that’s when I’ll get that feeling again. Most likely. Depends on how much that nudge from Stuart was helping.
+
+“That feeling” wasn’t nothing. It was such a strong sense of authority over his burden, right before it was preserved, that catching it with his eyes closed should be child’s play. Catching it without using his body would be less like child’s play, but he didn’t think it was too far out of reach.
+
+That was really exciting.
+
+He just had to get himself there again.
+
+Alden sighed. He’d managed some of it deliberately before—the accepting his entruster better part. It was just that he usually had to spend quite a while thinking of being more open to them by imagining sun-seeking paper flowers.
+
+So…he’d keep figuring that out, making it closer to what had happened today. Once he learned to be right with his entruster, he hoped he’d naturally start accepting the burdens more perfectly.
+
+It was cool, looking at that puddle and knowing I had power over it in that way.
+
+If Stuart had asked him to preserve a portion of the water in a complex shape, he thought he could have done it easily.
+
+And my shield felt strong.
+
+How strong was it really? The koobas were lightweights.
+
+Where was Torsten Klein with a dog crate when you needed him?
+
+******
+
+******
+
+After a while of chasing down more thoughts, he texted the System to ask if what he and Stuart had accomplished with the puddle had showcased the true form of the “defogging package” he’d taken with his last affixation. He didn’t expect a solid answer. He definitely didn’t expect an answer in the shape of an Artonan woman appearing in the room and telling him they could talk face to face if he promised to inject himself and go to sleep afterward.
+
+“Are you serious?”
+
+She smiled at him from her place on the couch. Today, she was shoeless and wearing rings on her toes like Healer Yenu. That was new.
+
+“All right,” he said. “I agree.”
+
+She launched into her answer right away.
+
+“One of the reasons I advised you to take a more artistic approach to thinking about your affixation was so that you’d find beauty within yourself instead of picturing chains holding you back. Another reason was to mix you up a little so that you wouldn’t get too comfortable turning your powers off and on like light switches. As you’ve learned, there are fewer limits than you thought during your darkest days on Thegund. And now that you’ve come this far, I’ll ask you…isn’t deciding you’ve found the true form of something just another way of limiting it?”
+
+Alden frowned at her. “Limits are very real. I can feel them.”
+
+“I know.”
+
+“And there are a lot of limits. I definitely noticed everything that was being torn away when…affixation is about limits.”
+
+“So it is,” she said calmly. “Which is why you should be cautious not to add ones of your own to the way you think of yourself.”
+
+“Entrustment is such a massive, unfair, real limit. I had to wash it down with two glasses of water a minute ago. Is that why you’re answering this way?”
+
+“I’m answering this way because it’s true. And also because you’ll feel a little more like yourself now that you’ve said that to me. You’d feel even better if you said it to Stu-art’h.”
+
+“Oh my God. No. He doesn’t deserve that. He almost cried when I confessed I was disappointed in my stupid pest control spell. He’s already worried I hate myself. And I don’t, by the way. You know that. It’s just… ”
+
+Such a long time passed, and both of them let it.
+
+“Hey,” said Alden, gazing across the room toward the wevvi and water dispenser, “how do you like my new clothes and my new nightmares? I think they were both great things to choose.”
+
+“Yenu-pezth has mastered her art,” she replied. “You’ve begun to rid yourself of burdens you didn’t want to bear. Which is well within your limits. The description of your skill that I showed you even says so, doesn’t it?”
+
+That which I have will to bear. The one I choose to serve.
+
+He remembered.
+
+“It does.”
+
+“And your new clothes are so handsome!” she said, her warm voice brightening. “Not the most handsome options available to you—”
+
+“I know which ones you think are most handsome, and they’re the ones most likely to end up in the stomach of a demon on the backside of reality.”
+
+“No. If you were on the backside of reality, no clothes I could give you would hold up.”
+
+“What?”
+
+“Your pezyvas are gorgeous! And Stu complimented them so thoughtfully that I dare not compete. What do you think of my Emban, my Ryada, and my Bithe?”
+
+Alden leaned into the couch. The first time they’d spoken there had been a couch. It had been softer than this one. “It relieves me that they seem like me and people I know in so many ways, and at the same time, it scares me.”
+
+She waited.
+
+“Is Bithe all right?” he asked. “If I said something that hurt him…I really didn’t mean to.”
+
+“I’m afraid I won’t tell you how Bithe is feeling or why, but rest assured that I know how pure your intentions were.”
+
+Alden was a little surprised. “You’ll pry Stuart open like an oyster and feed me one of the worst moments of his life, but you won’t tell me how to be nicer to Bithe?”
+
+“That’s correct.”
+
+But you’re the one who brought them all up!
+
+“How’s Emban doing?” he asked.
+
+“Her business.”
+
+“Ryada?”
+
+“The same.” She was giving him a look of mischief he decided not to engage with.
+
+He thought of that little tock sound Emban had made and her squadmates’ quick responses to it. And then of Ryada’s insistence on cleanly killing the toy koobas and respectfully folding up their bodies. Then there was Bithe and his ability to attract vatha…which should not be called a sign.
+
+“They’ve been through something hard that I’ve been through, too,” he said. “They’ve dealt with serious troubles I know nothing about. And they chose to follow a more difficult path than they had to. I admire them all. Naturally. I’m glad your knights have you and every single benefit the Triplanetary Government grants them. They deserve so much.”
+
+But it’s difficult not to compare everything they have with everything I don’t. And it’s not getting easier as I learn more.
+
+“Nobody can hear what I’m saying in here, right?”
+
+It had just occurred to him that he was saying an awful lot out loud in a place that wasn’t the usual private mind space they used for conversations, unless she’d moved him there without him knowing. This room was supposed to be an area set aside for wizards to say wizardy things to one another while maintaining proper discretion from the regular folk on the train, but…
+
+“It’s only us, Quiet Rabbit.”
+
+He crossed his arms over his stomach and looked toward the ceiling. Nothing to see but wood panels and inset lights that were turned off.
+
+“Please, won’t you just tell me what Stuart would think of me if he knew? If you tell me that he’ll respect the situation I’m in enough to let me stay quiet, I’ll call him here and tell him right now.”
+
+She didn’t answer.
+
+He had an ache in his chest like a pit was opening up in it.
+
+“Really?” he said. “I want to be a good friend to him. I want to tell him so he’ll have support from someone who knows. What you do to us and how helpless…I just want to tell him I believe he’s going to be a great knight and have those words matter more than they would coming from the person he thinks I am. He deserves that. But I’ve lost a lot, and this secret touches absolutely everything I have left. It’s my whole life.”
+
+“If you only needed to know how Stu-art’h would react this very moment, and that would be enough for you to make your choice, what an easy gift that would be for me to give you,” she said. “I’m sorry it’s not like that. Stu-art’h will live a long life, I hope, and if you tell him, your secret might belong to him for many years to come. I can’t predict what he will think in a year or ten or a hundred.”
+
+“I already know that,” Alden said quietly.
+
+“I know you do.”
+
+Could you really not find a better friend for him than me?
+
+He wanted to get away from this conversation.
+
+“I’ll sleep now.”
+
+“You should. May your nightmares be the ones you chose.”
+
+He pressed the injector to his skin and said, “Pierce.”
+
+******
+
+******

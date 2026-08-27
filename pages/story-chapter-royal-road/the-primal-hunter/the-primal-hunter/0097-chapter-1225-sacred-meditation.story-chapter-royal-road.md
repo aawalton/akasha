@@ -1,0 +1,129 @@
+---
+id: 4a5fbf55-4260-56e9-a369-aefb2bba2722
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1225 - Sacred Meditation"
+slug: 0097-chapter-1225-sacred-meditation
+partOf: the-primal-hunter
+position: 97
+ownLength: 2827
+unit: words
+ownProgress: 2827
+publishedAt: 2025-12-22
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2868783/chapter-1225-sacred-meditation"
+royalRoadId: "2868783"
+markedReadAt: "2026-06-29T19:32:20.234Z"
+---
+
+The Malefic Viper did have to agree that waiting for Jake to fully wake up wasn’t the most satisfying experience. Usually, he could at least get a sense of how Jake was doing, but in his current state, not even a Primordial could get a peek. Jake’s soul had gone somewhere only the system had authority, after all.
+
+All he could thus do was wait impatiently to see if Jake would open his eyes. From the looks of it, Jake hadn’t experienced any soul damage that was too bad, and while he had definitely exhausted himself, he’d luckily also worked on getting a meditation skill that should rapidly help hasten his recovery.
+
+Of course, that wasn’t the main benefit Jake would get from this. Jake’s progress would accelerate going forward due to this upgrade. The Viper also saw that Artemis knew, though she was still clearly more worried about him waking up than his improved potential.
+
+An endearing trait the snake god approved of.
+
+While waiting, the Viper also had a bit of an odd thought. Seeing that the First Sage had taught Jake so much, wouldn’t his dear Chosen be considered at least half a disciple by now? And if that was the case, Vilas would be the senior brother, right? Definitely a bit weird, but he still found the thought funny, and he could only be grateful that his Master’s transcendent existence had also ended up benefiting his Chosen.
+
+Not to downplay what Jake had done. He had truly accomplished something extraordinary that the Viper couldn’t imagine many – if anyone else – doing, even with the direct guidance of the First Sage. He had managed to gain access to something normally only gods were allowed to approach. Sure, this access was extremely limited based on the aura he released earlier, but the mere fact that he had even touched upon it was unheard of.
+
+To be clear, this didn’t mean Jake was suddenly half a god or anything like that… he was just one tiny little step closer and had taken this step far earlier than usual.
+
+Being able to peer into concepts with the help of the system through a Meditate skill wasn’t anything exclusive to gods, and many got skills capable of doing so at higher grades, with it usually revolving around their specialization. A water mage would be able to meditate on the concept of water and those immediately surrounding it; a sword-user would be able to meditate on sword-related concepts; and so on and so forth.
+
+When they did so, the system would provide them with curated and limited Records during their meditation, effectively feeding them scraps. It could be compared to them getting a single leaky pipe installed in their souls, allowing the system to drip out concepts when it so desired.
+
+Meanwhile, Jake had gained limited direct access to the ocean that served as the main reservoir. If it weren’t limited, Jake would have drowned with absolute certainty. Even gods risked losing themselves when exploring the endless sea of Records.
+
+“Does it usually take this long to wake up?” Artemis asked after several more minutes had passed with seemingly no progress.
+
+“I like how you think there is any semblance of ‘usual’ in this entire scenario,” the Viper chuckled and shook his head. “But I would just give it a bit. You know as well as I do that the mind’s comprehension of time while in that state isn’t exactly the most logical or stable, and unlike us, Jake didn’t anchor himself before going in but just took the dive.”
+
+Artemis slowly nodded in acknowledgment as she joined the Viper in silently waiting. Several more hours passed with Jake just sitting there completely unmoving. His aura was stable, and there were no fluctuations of energy or anything like that.
+
+However, about five hours after Artemis had spoken last… something stirred. The Viper felt Jake’s aura slightly change, and in the very next moment, it spiked and grew even more powerful, making the Viper smile.
+
+Success.
+
+Finding his way back proved more challenging than Jake had first expected. He also realized that this was the final part of the upgraded meditate skill he still needed to figure out. He effectively had to chart a path between his Soulspace and this weird space that seemed to exist nowhere yet everywhere, using his Truesoul as the gateway to it.
+
+Luckily, his way back proved a lot easier than the way there. In fact, all he had to do was travel in whatever direction lessened the pressure from the massive gate, which was leaking concepts. Again, Jake wasn’t sure he was actually going anywhere or if he was just distancing his mind from the gate of concepts, but either way, it seemed to work.
+
+Slowly, Jake began to feel his senses return. He vaguely started to feel the energy running through his body, and right as that happened, Jake also instantly became aware of what was happening around his body, courtesy of his Sphere of Perception.
+
+Through his sphere, he saw that Artemis and Villy were both there waiting for him. They were just standing there, seemingly not interacting much, and Jake couldn’t help but smile when he saw the relief on Artemis’ face upon also feeling that he was nearly back.
+
+Shortly after, Jake returned to his Soulspace. As he appeared, Jake found himself standing in the gazebo that had housed the tome left by the First Sage. On the backside of the gazebo, a large plane of golden light had appeared, which was what Jake had walked out of; instinctively, he knew this would now serve as the connection between himself and the weird, mind-realm of concepts.
+
+To clarify, Jake didn’t actually have a portal there. Everything in the Soulspace was a representation of Records, and this was just the expression of Jake’s overly simplified understanding of how to enter this realm. One could almost call it a trigger that Jake subconsciously knew he had to enter this new state of ultra-deep meditation simply through entering.
+
+Seeing this gate appearing was definitely not a surprise… but what was a surprise was what Jake found in the gazebo besides the portal. Jake had expected the Legacy of the First Sage to have been consumed during this entire process of enlightenment, yet right there in front of him was the tome of the First Sage, still fully intact from the looks of it.
+
+While Jake should definitely focus more on the notifications that he’d just gotten from the system and the sensation of having suddenly grown stronger, he instead couldn’t help but open the tome.
+
+As he did so, he found all the pages blank. Jake was disappointed but not really surprised as he nodded in understanding. Yeah, it made sense that the book had consumed the Records infused by the First Sage to build that road of golden pages, and…
+
+Oh, never mind. After flipping through more of the book, Jake realized it was only the section he’d already read that had been removed from the book. There were even more sections Jake didn’t fulfill some unknown requirement to access yet, and while he certainly tried, he found himself unable to open the next chapter.
+
+Shaking his head, Jake couldn’t help but smile. Just how many Records had the First Sage left for Jake? Just how much had he given him? Also, was the system really okay with a transcendent being providing Jake that much? Sure, he’d spent five charges of his Path of the Heretic-Chosen, but the trade still seemed unbelievable.
+
+Closing the book again, Jake had a good feeling he wouldn’t be able to get anything out of it before he reached B-grade, anyway. Speaking of B-grade, Jake had a few notifications he needed to check, which either confirmed that he had completed tasks on his pre-evolution checklist or brought him one step closer to the actual evolution.
+
+Starting at the top of notifications, Jake looked at the most boring ones first. Expectedly, fixing and upgrading his Palate of the Malefic Viper had been recognized by the system and given him a few levels. Three, to be exact.
+
+’DING!’ Profession: [Heretic-Chosen Alchemist of the Malefic Viper] has reached level 343 - Stat points allocated, +35 Free Points
+
+…
+
+’DING!’ Profession: [Heretic-Chosen Alchemist of the Malefic Viper] has reached level 345 - Stat points allocated, +35 Free Points
+
+’DING!’ Race: [Human (C)] has reached level 338 - Stat points allocated, +45 Free Points
+
+Getting levels was, of course, great, but it was truly overshadowed by what came next. Seeing as it was a race skill, Jake’s other skill upgrade hadn’t resulted in any levels gained, but Jake quite frankly didn’t care much as he excitedly opened and saw the upgrade he’d been working towards for so long. It was a long time coming, and it also answered another question Jake had been asking himself for a long time:
+
+The rarity that came after mythical.
+
+[Serene Soul Meditation (Epic)]
+
+-->
+
+[Sage’s Meditation of Enlightenment (Sacred)] – Surrender parts of your being and glean that which lies beyond the boundary as your soul takes half a step into the realm of divinity. Allows you to enter a state of meditation, increasing regeneration of all resources to an extreme level. While in meditation, you gain supreme control over your own energies and soul, allowing you to freely traverse your Soulspace. Delving deeper, you can establish contact with the Gate of Enlightenment, enabling you to explore myriad concepts. Be aware that spending too long at the Gate of Enlightenment may have adverse effects. As a result of your connection with the Gate of Enlightenment, you experience extreme calmness and clarity while meditating. This connection also slowly nurtures your soul, mending minor flaws and injuries. While in meditation, all connections to the outside world are entirely cut off, and no outside stimuli can force you out of meditation.
+
+This skill was truly the Meditate skill to rule all Meditate skills. All the existing effects Meditate usually provided had been supercharged to all-new levels, and he’d even retained the beneficial effects of Serene Soul Meditation, such as the ability for his mind to more easily remain calm. Furthermore, it could now even heal and mend his soul. Again, technically, his old Meditate skill also could, but the effect was so slow that even healing minor soul injuries would take so damn long. Before, his best way to handle a soul injury was truly just to sleep, while now, meditation was definitely the best choice. Then again, maybe he could even sleep while meditating… food for thought.
+
+Needless to say, increased recovery was not the reason this skill had been given the rarity it had. Sacred rarity was one Jake didn’t even remember hearing about before, but as he read the description of the skill, it made sense. Now, Jake wasn’t entirely sure if sacred rarity was just the natural next rarity after mythical or something special given to skills created by mortals that included divine aspects.
+
+His new Meditate skill seemed to have gained the sacred rarity exactly because it was related to the divine. Also, Jake finally got the answer to what the gate was called. A part of him had thought that it was just something he’d created through his own mind, but apparently, it was something recognized that even had a name. Gate of Enlightenment seemed like a simple name for something so important, but then again, it was quite an apt one.
+
+Being able to experience myriad concepts, as the description stated, was bound to accelerate Jake’s learning, especially when it came to certain alchemical disciplines. Sure, it would be incredibly useful when improving something like his archery, but when it came to something like ritual magic or even transmutation, a better understanding of concepts was far more valuable.
+
+Especially the broad-spectrum understanding Jake could gain would prove useful. Even from his brief experience in gaining the skill, Jake had gleaned some insights into nomological laws that he believed he could apply. Small Feng Shui-like insights that would optimize and improve his magic circles going forward by a tiny bit.
+
+One thing Jake found a little funny about the updated description was how the part from Serene Soul Meditation warning him that spending too long within his Soulspace was gone and had now been replaced with the warning that he shouldn’t stay in front of the Gate of Enlightenment for too long. Jake didn’t really feel like he needed a warning for that one, as the danger was self-evident, but oh well.
+
+Overall, Jake was fully aware that the true value of his upgraded Meditate skill wasn’t something he would immediately feel. It wouldn’t instantly make him a lot stronger or suddenly make him realize all the secrets of the multiverse, but instead, it was another tool that would allow Jake’s potential to soar, allowing him to grow even stronger and hopefully remain the strongest person at his level.
+
+… At least Jake didn’t think he would gain any immediate power boost from the upgrade. The thing is, Jake had kind of forgotten something. He’d felt the increase in power, but before now, he hadn’t even really thought about where it came from. However, as he scrolled down, he was reminded of something pretty damn important that he’d somehow kind of forgotten even existed:
+
+Titles.
+
+More accurately, the Prodigy titles. Jake’s Mythical Prodigy had already been great before, but now, it had been upgraded.
+
+[Mythical Prodigy] – A genius ahead of the curve, not even the mythical eluding him. It feels as if your Path has barely begun, yet you refuse to be confined to the expectations of your station. Creating a mythical skill while below C-grade is no easy feat, and the achievement of a true myth in the making. Be proud, affirmed in your Path. +100 all stats +20% all stats
+
+-->
+
+[Sacred Prodigy] – A genius that has stepped beyond the curve, not even allowing that which is considered sacred to elude him. Your Path has truly begun to be defined, and by your own definition, you are a being that stands at the apex. Creating a sacred skill while below B-grade is a near-unprecedented accomplishment and the sign of a true sacred prodigy. May your Path continue to prove supreme as you are one step closer to divinity. +500 all stats +30% all stats
+
+Jake had felt himself grow more powerful after getting the Meditate upgrade, but seeing as he’d just been in quite a weird state, he hadn’t been entirely sure if what he felt was correct. The stats from the levels also factored in to make Jake think it was just that, but now, it had become clear exactly where all the extra stats came from.
+
+The title had been upgraded to give not only 400 more to all stats compared to before, but also an extra 10% to all stats, stacking additively with all his other amplifiers. Given that Jake now had more than 100% more to all stats from all his many titles, that increase of 400 was in reality closer to a thousand in all stats.
+
+To put it in perspective, Jake got around 200 stats per level in his race. In other words, this title was roughly equivalent to 18 race levels, seeing as there were nine stats in total. Of course, Jake only got race levels when he also gained profession and class levels, but this title was still roughly five levels worth of pure stats. Adding on the ten percent extra, Jake couldn’t help but have a big grin from ear to ear.
+
+In a short amount of time, Jake had managed to not only fix Palate of the Malefic Viper but also upgrade his Meditate skill to an all-new rarity that had netted him a massive title, making him noticeably stronger. His profession was also nearly maxed out by now, leaving only his class straggling.
+
+Not to worry, because Jake planned on getting that caught up sooner rather than later. He still had a dragon to hunt after all. But before that, Jake had two important things to do.
+
+The first thing he had to do came as the result of perhaps the only downside of all Jake’s recent upgrades. Seeing as he’d just gotten a lot of extra stats and whatnot, he definitely needed to craft a lot of new batches of both poisons and potions for his upcoming hunt. If not, he feared his old ones would feel inadequate. A truly relatable struggle that he was sure all other C-grades could totally empathize with.
+
+Secondly, perhaps an even more important immediate task. Maybe, just maybe, Jake should actually open his eyes and speak to the two gods impatiently waiting for him to get his shit together and stop feeling proud of himself while reading his system descriptions.

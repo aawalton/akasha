@@ -1,0 +1,221 @@
+---
+id: 2f20ff6a-ab66-5a28-8875-534c85eaa27e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 41: The Ogre Returns"
+slug: 0041-chapter-41-the-ogre-returns
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 41
+ownLength: 1486
+unit: words
+publishedAt: 2025-09-30
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2641328/chapter-41-the-ogre-returns"
+royalRoadId: "2641328"
+---
+
+PoV Luna
+
+Everything moved all at once.
+
+Metal clanged as Sepio’s shield came free. Veric swore loud enough to shake moss from branches. Trianna shot straight up a tree, bow already bending. And Ray blinked out of sight behind a stone arch, the air snapping where he vanished. Syliana’s hands glowed steady, her conjured shield pulsing light a heartbeat before the roar hit.
+
+And Luna?
+
+Luna darted forward, nose low, ears high, breath sharp.
+
+Ready for action.
+
+The stink was here! Heavy now. Ogre stink. Sap and rot mashed with blood and wrong bark. It pressed on her tongue until her hackles rose.
+
+A mere moment later it crashed through the ruins.
+
+It was bigger than before. Wrong-shape muscles bulged under its cracked skin, every lump swollen with strength that should not exist. Across its back, fungal growths pulsed and split, dripping black sap that stank of rot. The smell poured into the clearing, heavy enough to sting Luna’s nose until she sneezed once, ears flat.
+
+And it charged right at her!
+
+Luna had to jump away! But there was no time.
+
+Shadow Step!
+
+Corruption, stone, and even trees flung around as the ogre’s own momentum took the lumbering brute straight through the space she just occupied. And then far beyond, the dumb ugly not able to stop itself from crashing through the trees behind them.
+
+Too fast. Too strong. Too close! Her paws pattered frantic circles in the dirt, tail whipping her own side. Think! She had to think faster!
+
+Then Syl’s voice cut through the roar.
+
+“We need to trap it! Use the arch! Funnel it!”
+
+Luna’s ears flicked tall. Oh! Good plan! Stupid-big monster, narrow-stone bite! Make the rocks chew it for them.
+
+Then it would be her turn. Bite until ugly stopped moving! Yes!
+
+She barked, proud bark. Agreement bark!
+
+Sepio thudded forward, shield raised like a wall. Veric spun his blade into a wide grin-snarl. Trianna’s bowstring creaked above, arrow already waiting. Ray fiddled in shadow with a sharp-smelling glass thing. Syl’s presence shimmered with magic, calm and bright, steady as always.
+
+All while Luna ran tighter loops, nose twitching to every path the ogre might crash through next. It was turning now.
+
+To the left!
+
+She cut across fast, paws carving marks in the dirt, leaving warnings sharp and clear. Apex Predator herding prey! She barked again, short and sharp. Follow me, dum-dums!
+
+The forest broke.
+
+The ogre crashed through once more, roar shaking stone loose. Feet slammed, snapping roots, cracking mossy pillars. Each swing of its corrupted log of a hand ripped bark, flung chunks of ruin into the air.
+
+But it no longer held the same momentum. They could react now!
+
+Herd it.
+
+Kill it!
+
+Luna lunged close, teeth bared, bait-snarl loud. The ugly turned, stupid heavy head dragging its stink to follow her.
+
+Perfect. Tail wag. Ears tall.
+
+The dance had begun!
+
+Her paws flashed quickly, looping, drawing it toward the arch where the stone still stood strong. Dust rained from every strike, but she kept moving, fast-fast! Others pestered it with arrows, made noise in the right direction.
+
+But it was Luna who led the big brute! Showing teeth then vanishing. Bark, Shadow Step, bait it more! Circling, nipping at space!
+
+Its roar shook her ribs, but her grin stretched wider.
+
+Now they would corner it.Now they would crush it!
+
+And then–
+
+Her jaw snapped once in promise.
+
+Luna would bite!
+
+And she would hunt!
+
+It bellowed, a roar that rattled stone loose from the ruins. Then it swung.
+
+The first blow smashed into the wall where Ray had been crouching. Stone exploded into shards, moss and dust flying in a choking cloud.
+
+But the rogue was already gone, his outline flickering away into shadow before the log of an arm had even landed!
+
+Trianna’s bowstring twanged sharp. Arrows hissed through the air, striking deep into the ogre’s chest. The hits were true, strong enough to punch through its cracked bark hide.
+
+Yet the beast only snarled. Its one working hand yanked the shafts free, tossing them aside like splinters.
+
+Sepio thundered forward, shield high. Each step sank his boots deeper into the dirt. He braced, a wall of steel and muscle, drawing the monster’s gaze away from the arch.
+
+Veric’s roar joined the fight, bright and reckless!
+
+His greatsword shone with red light, runes blazing as he swung. Sparks burst when the blade bit into the ogre’s thigh. Black sap-ichor sprayed across the moss, sizzling when it touched stone.
+
+Syl’s voice cut steady through the chaos.
+
+Words sharp, rhythm unbroken, the nonsense words making mana flow!
+
+Magic pulsed in waves, wrapping around them all. Shields of light. Strength pressing into tired limbs. Swiftness filling their feet. Her hands never faltered, even as the ogre’s shadow stretched tall over her.
+
+Luna’s paws circled fast. Tail stiff. Drawing attention. Barking sharp, sharp, sharp!
+
+She darted in at the legs. Bite, snap, dodge! Her teeth found corrupted flesh. Bitter. Wrong. Her tongue curled at the taste, but she held for a heartbeat before springing free. The beast stumbled, only for a blink.
+
+But that was enough!
+
+Distraction! Push! Bite again where it was already hurt!
+
+Yes! Pack tactics!
+
+Her grin flashed wide as she bolted around the ogre’s heel. If they drove it deeper into the ruins, the stones could trap it.
+
+Funnel it. Crush it!
+
+Then meat would follow.
+
+But the ugly refused.
+
+It planted its feet hard, ground shuddering with the impact. Its arms swung wild, one a great trunk smashing through the air.
+
+The other more grabby, shorter, if just as deformed.
+
+One blow tore a wall free, rubble scattering like broken teeth. Another clipped Veric, tossing him sideways in a spray of dirt. He cursed loud even as he rolled back up.
+
+Then the corrupt thing turned.
+
+And its next swing slammed straight toward Syl!
+
+No! Her Second!
+
+The air snapped. Stone split under the impact.
+
+Luna’s ears flattened tight. Her bark cut low into a growl, chest tight with fire.
+
+That blow had almost crushed her Second.
+
+And no ugly was allowed to bite her Second!
+
+Sepio took the blow for her.
+
+He lunged forward, shield raised high, meeting the ogre’s swing head-on.
+
+He tried to angle it, like with the tree monster. It had not been enough this time.
+
+CRACK.
+
+The impact sent him flying backward through a half-broken wall. Stone shattered, rubble raining in a choking cloud of dust.
+
+The others gasped. Syl’s breath hitched sharp in her throat.
+
+Luna froze, ears pressed flat, tail stiff. Her chest locked tight, every muscle wound until it hurt.
+
+Then the pressure burst from her throat. A growl ripped out, deep and fierce, rolling into bark after bark.
+
+Her fangs gleamed. Her tail lashed.
+
+Move, pack! MOVE!
+
+She lunged first. Paws hammered stone. She darted in close, snapped at the ogre’s knee, ripped back before the swing landed.
+
+Bite, release, dodge!
+
+Her bark rang again, sharp enough to sting the air, dragging its glare to her.
+
+Ray blurred into shadow, sprinting toward the rubble where Sepio lay buried. His blades flashed once in a feint before he vanished into the dust.
+
+Veric roared louder, rage pouring through every word. His greatsword burned hotter, runes blazing red. He slammed the blade across the ogre’s arm, ichor spraying black and foul.
+
+The beast barely flinched.
+
+It stomped forward, shaking stone apart. Each step crushed moss and rubble into powder. Its eyes glowed pale green, fixed bright on the rest of the pack.
+
+This wasn’t working!
+
+And the others knew that too.
+
+The narrow path they had chosen cracked apart. Pillars snapped. The walls meant to funnel the monster caved in under its fists. Their trap was breaking.
+
+The ruin itself betrayed them!
+
+And every crash pushed them closer together. Boxed. Cornered.
+
+Luna dashed left, claws scraping stone, tail stiff with panic and purpose. She barked hard, high and fast, snapping her fangs to lure it.
+
+Chase me, ugly! Over here!
+
+The ogre turned. Its swing tore through air, wide and crushing.
+
+Luna blinked out, Shadow Step snapping her body through darkness. She reappeared on its far side, hackles raised, fangs bared in a grin of defiance.
+
+Her chest pounded. Ears rang with her own heartbeat.
+
+Not enough.
+
+Syl’s voice lifted over the chaos, spell-song steady, words spilling light. Barrier after barrier bloomed across the pack, shimmer stacked on shimmer. But Syl’s skin gleamed with sweat, her face paling with each one cast.
+
+Trianna’s arrows flew in a constant storm, striking true, each shaft sinking deep. Each one striking where the heart should be.
+
+Yet every hit seemed swallowed by the monster’s mass, green light burning stronger with every wound.
+
+And Sepio – still gone. Still under stone.
+
+Luna’s growl deepened. Her claws raked the broken floor until sparks cracked against the ruin.
+
+Their shield was gone. Their wall had fallen.
+
+And now her Second stood exposed.

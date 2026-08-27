@@ -1,0 +1,247 @@
+---
+id: c8fbb2df-e1d6-5260-b6fe-30592534f016
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 382"
+slug: 0080-the-path-of-ascension-chapter-382
+partOf: the-path-of-ascension
+position: 80
+ownLength: 4489
+unit: words
+ownProgress: 4489
+publishedAt: 2025-01-24
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2028215/the-path-of-ascension-chapter-382"
+royalRoadId: "2028215"
+markedReadAt: "2026-06-29T19:20:26.203Z"
+---
+
+Chapter 382
+
+Ra’thala couldn't help but look to where Ascender Shadow, Allie, had vanished. He and Ascender Titan, Matt, were dozens, if not hundreds of planets away at the Ascender’s own fiefdom and traveling to his guild, but none of that was at the front of his mind.
+
+Like a specter of the night that sought to take his life, the information he had spent his last few days learning refused to reconcile itself with everything he thought he knew.
+
+Hearing Ascenders were the strongest people of their Tier in this Realm was one thing, but learning that to earn that title they needed to reach Tier 25 in less than two hundred of their years was beyond shocking. Their years weren’t exactly the same length— his Realm didn’t have standardized years across planets— but they were easy to convert. Once he had done the conversion, he realized these people had gone from unawakened mortals to the peak of his Realm in less than a Divines’ lifespan.
+
+And they did it with minimal help.
+
+Sure, they had some support and trainers, but that didn’t change the fact that they earned their power by entering Monster Dens and killing the monsters inside, instead of just killing the spill off that escaped from full rifts.
+
+Their cultivation was different; certainly that could account for some of their speed, as they weren't limited by the ambient essence and others cultivating near them. But the fact remained they had effectively raced through his entire former Realm in a little longer than an early Divines’— a Tier 5’s— total lifespan.
+
+It had taken Ra’thala almost an entire day to actually believe that, and even then, he had needed to go over the insurmountable amount of media surrounding each Ascender’s Ascension before it really sank in.
+
+It was only after he truly understood what made one an Ascender that he could appreciate his new acquaintances and Yun Me, who had reached their level through grit and effort.
+
+Even Susanne, who acted like Ascender was a nigh impossible goal, had only failed at the final hurdle, and from the media reports, could have completed The Path of Ascension if she had been just a dozen years faster.
+
+From his perspective, the difference between two hundred and two hundred and twelve years was nothing.
+
+He knew immortal cultivators who had been in seclusion longer than that, trying to work their way through a bottleneck in their cultivation, and these people had gone from nothing to the peak of his old Realm in that time.
+
+It made him wary of even being near them.
+
+Sure, they had defeated him in combat, and this new information didn’t inherently change his relative power, but it did put things into a new frame of reference.
+
+These weren’t pampered children raised to their position and given everything they could need or want, they were the most brutal, efficient killers who could be sourced out of countless quadrillions.
+
+Even more shocking was learning they were still pushing themselves to become stronger. Not just in advancing in Tier, but they were constantly honing their spells, their abilities with their weapons of choice, and formulating new tactics to make themselves stronger in their Tier despite only having rivals among themselves.
+
+All of that made him feel like that small boy who had cheated his way into being a Celestial. Small and unworthy of interacting with such prodigies.
+
+He knew it wasn’t logical, but that didn’t stop him from feeling that way.
+
+Matt floated into the air and opened his arms. “Our capital planet. Palustris. It's a fire-aspected world, and a prize at its Tier.”
+
+Ra’thala wrenched his mind to the present and looked around with all of his senses.
+
+Eyes widening, he took in a deep breath and cycled some of the ambient essence through his spirit. Having not yet created a cultivation method that would let him form his twenty sixth layer of cultivation, he couldn't keep this uniquely fiery essence but his cycling let him get a feel for it nonetheless.
+
+“A worthy world.”
+
+An understatement to be sure. Anyone from his Realm who practiced a fire cultivation method would love to get their hands on this essence. It danced like it was alive and ready to burn any of his enemies to a crisp.
+
+Wanting to share a little, Ra’thala continued, “I never found such a world myself, but I heard a tale of a similar world, except this one was filled with seemingly endless oceans. A dozen families fought over the world, but it was all for naught, as one of the defeated parties, angry at their loss, destroyed the Sky Bridge, sending the world adrift. We didn’t know that Chaotic Space was traversable, and so the world and its people were lost.”
+
+That was another thing he hadn’t known of before his ascension, and something that seemed obvious in hindsight.
+
+They had known that people too strong for a world could tear through reality and pull in destructive energies, but no one had thought to send themselves into that area to explore, as these people had learned to do.
+
+Or if there were people or families who had learned of that secret, they hadn’t shared.
+
+He suspected there were. He personally knew of at least three families who had consistently sold treasures not found on the connected worlds who he now believed had discovered how to traverse the dangers of Chaotic Space, and were raiding passing planets for their treasures before Sky Bridges naturally formed. Possibly even ones far enough out they wouldn't form bridges.
+
+Matt nodded at his words but indicated a cluster of rifts to the side that didn’t look naturally formed. Too uniformly spaced. “I have something of a hobby of creating rifts to study and also to keep delving from getting repetitive. You said you wanted to check them out. We can do that before or after the visit to the guild, but I’m happy to walk you through them.”
+
+Ra’thala didn’t know him that well, but he believed he read reluctance in Matt’s body language, and so shook his head. “Let us go to the guild first. Work then play as they say.”
+
+Matt grinned and flew out of the planet.
+
+Letting his sixth sense stretch out, Ra’thala searched around them to find both of the planet’s moons were not just inhabited, but terraformed, and had their own essence cores.
+
+That wasn’t entirely new to him, but it was rare that people bothered to go through the effort if the moons weren’t inherently inhabitable, and he doubted they were given what he could feel.
+
+It was also a reminder just how powerful and influential these Ascenders were.
+
+An entire moon was dedicated to one of their personal projects.
+
+A Tier 25 doing so in his Realm wouldn’t have been that unusual, but Matt wasn’t at the peak of the Realm— just halfway there. No one would have allowed a Tier 12 to have such wealth in his Realm. People would have descended upon them to plunder the accumulated wealth like a pack of ravenous wolves.
+
+Surely a benefit of having such a large and interconnected government, but not without its downsides. The wars these Ascenders were founded for dwarfed anything he had even heard tales of in his Realm, and he kept that in mind even as he saw the grandeur of this place.
+
+Still, it was impressive, and he let himself bask in the feeling of the new and unusual before it became commonplace.
+
+Buildings were spread out to make what he would call courtyards or estates, and people moved between them along carefully placed walkways. Laboratories staffed with dozens of people all working in unison on whatever tasks they had.
+
+It felt like the Royal Academy of Isha’tl he had visited when he was a Deity and on his path of vengeance.
+
+He hadn’t been in the right frame of mind to really appreciate it at the time, but he had learned several spells there and earned himself a good bit of resources from treasures of the stars he had traded with the academics there.
+
+Sadly, the academy had been leveled when the royal family had been defeated by a neighboring world, who themselves had been kicked out of their own world after losing their Almighty— their Tier 15— in a battle.
+
+Ra’thala set his new [AI] to correct him anytime he used his old Realm’s terminology and once more marveled at the skill.
+
+Having absorbed it, he was shocked at how delicate and intricate the skill’s structure was, but while that was impressive, it was dwarfed by what the [AI] allowed him to do. So much was just a thought away, and it was easy to get lost in the amount of information available.
+
+Before he could get distracted once again, they landed at a large central building and stepped inside, where Matt walked him through connecting his [AI] to the LocalNet, giving him permissions to be on the world and access to the research ongoing at the facility.
+
+Deliberately not looking through the list, Ra’thala looked to Matt and blinked at him to lead on, then corrected himself to a small hand gesture his [AI] said did what he wanted.
+
+Leading the way, Matt guided him through the halls as he spoke. “I sent a message here as early as I could about looking for people who had a special interest in skill making, or rather skill modifying. There aren't too many who bother to make skills here, but there are a few. I even know one. A summoner who helped train me when I was Tier 6 but he’s still a few months out. Thankfully, the guild has a few people who have both dabbled in the subject and are eager to listen to you talk about it.”
+
+As they arrived at the room set aside for them, Ra’thala didn’t miss that it was spatially expanded, though to a smaller degree than he had seen at the Capital, where space was at a premium.
+
+His attention was drawn away from that to the people waiting for them. Almost all of them were stronger than him, and Ra’thala felt a small twinge of unease at the thought of teaching these people until he realized they weren't the people he was projecting onto them.
+
+They weren't old hands who long since would have mastered anything he had to share, but instead like fresh Celestials who needed guiding, and he had done that a time or two even if he had never been anyone's master.
+
+That settled him into a place he was more familiar with, and Ra’thala went over the basics of skill creation using the simplest physical boosting skill as a starting point.
+
+Being of a higher Tier than himself, they learned quickly, and he never needed to repeat anything more than twice. And half of those instances were because of translation issues, as his [AI] was seemingly still finetuning his language conversion just as he was learning Empire Standard.
+
+One of the men, Erwin, raised a finger in question. “The size is a bit of a problem. It's larger than our standard size by almost half. Is that reducible?”
+
+Ra’thala thought over the question for a moment before shrugging. “The size is larger than some. In fact, it's a touch larger than what I would call average, but it's larger for two main reasons. One, it's a foundational skill that is like a block of marble ready to be carved. Many of the skills that build off of this will trim away pieces, which bring its size down. Not to the degree your peoples have seemed to create skills in, but something closer. Second, the skill is easier to make if it's a little larger. More margin for error. Additionally, we just don’t really run out of skill space, so having slightly larger skills isn’t really that big of a deal. I never met anyone who wasn’t an immortal skill collector that needed to use what you call the outer layer of skills.”
+
+Realizing he hadn’t really answered the man's question, Ra’thala added, “As to if it can be reduced? I’m sure it's possible, but I don’t know if it will be worth the results.”
+
+Erwin started murmuring to himself, but Matt nodded as if he had expected Ra’thala’s answer and held out a hand. Another person appeared long enough to drop a small bag into it before vanishing once more.
+
+Tossing the bag to Ra’thala, Matt said, “A collection of blank skill shards of various Tiers. They let us transfer skills to other people and are the perfect way to test a lot of our theories about skill size and what Tier each skill is considered as its impossible to put a higher Tier skill into a lower Tier skill shard.”
+
+Ra’thala pulled one of the small gems out of the bag and looked at it.
+
+It was blue, similar to the light blue color of mana itself, but a shade darker. Unlike the skill shard he had absorbed the [AI] skill out of, this one was hollow.
+
+Or not hollow. That was the wrong word.
+
+It was filled with a more solidified energy similar to his spirit, just static and viscous.
+
+It would be difficult to create a skill in such a structure, but Ra’thala believed he was up to the challenge.
+
+He liked to think of creating a skill like creating pottery: his spirit was the clay and his cultivation the wheel upon which the clay was spun.
+
+Being so far away from the center of his spirit, carving the skill structure into the blank skill gem was like trying to carve his desired shape in the clay with foot long sticks, but Ra’thala had enough experience to manage though he almost destroyed the skill shard as he realized he needed to treat it differently than his spirit.
+
+Line by line, he carved the beginner body strengthening skill into the skill shard.
+
+He initially tried to make the skill smaller, fearing the skill shard couldn't contain the larger skill, but while things were a little cramped thanks to his small errors working so far away from the center of his spirit, he had enough room to carve a near perfect example of the skill. At least it was better than anything a Celestial made when going for such skills, and would work perfectly fine.
+
+It took almost two full days of carving, but when he pulled his attention out of the skill gem, he found almost a thousand people crammed into the now larger room.
+
+Blinking, he found Matt just a foot away with his eyes glued into the skill shard in his hand.
+
+“Do you know what you just did?”
+
+Like a spell was broken, a murmur broke out as everyone started talking at once but Ra’thala was just thoroughly confused.
+
+He had just done what was asked of him.
+
+Wiggling the skill gem, he responded, “I created the skill for you all as you asked. It was a bit more difficult making it in an outside source, but it's quite handy if someone else can absorb it later. Or even just view it without absorbing it.”
+
+Matt laughed, but it had an edge Ra’thala couldn't place. It wasn’t anger or anything targeted at him, but there was something there nonetheless.
+
+His worry evaporated when Matt grinned at him. “Ra’thala, when we mentioned making the skill, we meant for you to make the skill in your spirit and then push the skill out of your spirit as if you were discarding a skill. With a blank skill shard in hand, you can safely eject it inside.”
+
+Ra’thala blinked his confusion. “Eject a skill? Why would you do that? I didn’t even know that was possible.”
+
+That caused another stir, but even as they reacted, Ra’thala realized that it should indeed be possible, just unimaginably wasteful. But for a people who absorbed skills instead of creating them, it was entirely possible for them to fill up their spirit with skills.
+
+Matt dumped a bag of blank skill shards into the air where they floated on display, as Ra’thala started to understand what was going on. “These are almost considered trash. They are, or rather were, damn near useless for anyone who didn’t want to transfer a skill. No one had ever tried to create a skill inside of one. Not successfully at least. After seeing you do it, we obviously started trying for ourselves.”
+
+Looking up from the floating skills, Matt met Ra’thala’s eyes and asked, “Unless your method is somehow safer, what happens when you mess up creating a skill?”
+
+Ra’thala winced but answered. “Spiritual damage. It is both painful and takes a long time to heal. It can also make breaking through to the next Realm harder, and in some cases, impossible until the damage is fully healed. Which takes longer than being healed well enough to fight normally.”
+
+Everyone he knew had messed up at some point, and it was a lesson that was taught the first time. Creating a skill was to be done carefully in small steps, and preferably in secluded meditation for good reasons.
+
+Ra’thala watched as Matt started carving inside a skill gem he grabbed. “All true for us. Except, when you fail when working inside a blank skill shard. Which is something none of us have succeeded in even while watching you.”
+
+As he said, the skill structure fell apart, taking the skill shard with it. Crystal turned into dust and then into nothing, but there was no wince of pain or discomfort as the skill creation failed.
+
+Ra’thala opened his mouth before shutting it. Reaching for another skill shard, he deliberately failed in the creation of a skill and watched as the shard fell apart without any harm to himself.
+
+“I thought you wanted me to make the skill in the shard and knew something I didn’t. I figured the difficulty of making the skill was why your people didn’t do it often.”
+
+Matt barked a laugh. “You surprised us, that's for sure. No one in the Realm knows of this, or if they do, they aren’t sharing. And I’ve checked sale records, no one is buying lots of skill shards, so I doubt there is anyone really using this to their advantage. And frankly, no one really develops new skills in this Realm.”
+
+Ra’thala could only smile that he had even inadvertently shown, or possibly taught, these people something new.
+
+It felt good and put him on more of a level playing field. Part of him wanted to keep his method to himself but that would be cruel with so many eager and expectant faces after all the kindness he’d been shown and it was obvious why they were failing and so he explained his method in detail to the eager listeners.
+
+That seemed to open the floodgates as nearly everyone in the room started asking him questions at the same time, but they instantly stopped as Matt held up a hand.
+
+All except Erwin, the man who had spoken earlier. While everyone else had what Ra’thala would call a healthy fear of the Ascender, Erwin seemed oblivious that he was ignoring the man's clear instruction.
+
+From the bemused and tolerant expression on Matt’s face, Ra’thala put together that they had a history together, which was both why he could get away with such acts and why he was the only one.
+
+“The skill you created. I’ve been analyzing the structure Matt sent over and watched you create it. Why did you create this extension before the surrounding area? It just seems to get in the way. Why not create it after the surrounding protrusion?”
+
+Ra’thala reviewed what Erwin was saying and nodded in agreement. “That would be a more advanced method. The protrusion creates an area of stability that makes all of the smaller, more delicate work that follows easier. That's why we make all four of those platforms first. It's possible to not make them, as they aren’t needed for the function of the spell, and if I was recreating this skill for my personal use I wouldn’t bother. But I’m making a show model, so I followed standard practice for all novitiates.” Feeling the word wasn’t exactly the one he wanted, he surged his cultivation to speed up his perception and searched through a few dictionaries for what he wanted. “Novices.”
+
+The first question answered opened the floodgates, and Ra’thala answered a few more questions, quickly sketching out a few more generalistic skill patterns that were commonly used by low Tiers in his world.
+
+Of special interest was the basic [Fury of the Blade] that he had started with, a [Draw Heat of the Stars] that coated one’s blade with fire, a variation of that same skill that sent out a small dart of flame called [Sun Flare], and [Star in My Hand] which conjured a small plate-sized shield of mana on the caster’s hand.
+
+There were more, but those four were the ones that the actual team members selected to work on the skill project were most interested in.
+
+Ra’thala had half expected all of the people there to be working on the project, but as it turned out, most of them just wanted to see a new discovery in the making, as he accidentally showed everyone what blank skill shards could be used for.
+
+Which was a question he had to ask. “When you say the skill shards are useless, what is going to happen now that they have a use?”
+
+Matt made a gesture Ra’thala didn’t quite follow. “The price will rise once we release the information. Eventually it will stabilize and new rifts will be created that regularly drop blank skills, as well as popularizing the rifts that already drop them. Currently, most blank skill shard rifts are just destroyed and recreated to have a more useful drop.”
+
+Having heard about that, Ra’thala asked about the rift creation methods and was given the promise of a full walkthrough once they were done getting the teams started.
+
+A process Ra’thala didn’t fully understand until Matt explained.
+
+His people were going to take what he had taught them and iterate upon it using their own methodologies, trying to standardize and simplify the skill creation method.
+
+When Ra’thala asked if Matt had any hope that they would succeed, because he doubted it, as the skills had been boiled down over tens of thousands of iterations in his realm to reach the widest audience, the Ascender simply shrugged. “What does it matter if they fail?”
+
+Ra’thala was baffled at the question. “But the costs? I heard you allocate a number of resources to them that I admittedly don’t have context for, but if those Tier 30s are excited for the resources, that indicates it’s costly enough they couldn't gather it themselves, and therefore valuable. If that value is wasted, won’t you be upset? My method at least works and can be shared immediately at no cost.” Realizing how that sounded, he added, “Not that I believe my methods can’t be improved upon, but it seems wasteful.”
+
+“Okay, but what does it matter if they fail?” Matt just repeated his question, which forced Ra’thala to reconsider his position.
+
+Finally he gave up. “I don’t know. They fail and waste the resources and time.”
+
+“Yeah, but is that such a bad outcome? Sure, I might lose some money, some time where those researchers could be doing something else, and it delays the rollout of the idea. But out of those outcomes, the only one that really bothers me is the last one. So what if it wastes resources? It's just money. Money can be made, time would be used no matter what they were doing. But the possible reward is something that can let the poorest people make up for their own lacking wealth by spending some of their time. Most people in our Realm don’t delve, but there are a number of people who do. Ninety nine percent of them start by buying either normal weapons or, if they are magically inclined, magical wands that cast specific spells. They are a money sink, so not everyone can afford them. But everyone has time. For those without money but willing to dedicate some time each day to making a skill, even a skill that is slightly larger than normal, they can get not only a leg up, but something that will advance with them, instead of needing to be replaced every few Tiers.”
+
+Matt paused for a minute before he continued. “Realistically, the skills will break into something like five percent of the target audience, but even that is enough for me to try. The blank skill stuff is way cooler in my opinion, but will probably be limited to research. I know Liz would love to test some of her more esoteric skill ideas without risk, but others will follow in her footsteps, and who knows what else will come out of the discovery? So yeah, I’m willing to roll the dice and spend an inordinate amount of resources in the hopes we can create an even simpler skill. My people don’t have much experience in creating skills outright, like yours, but we do have extensive experience in modifying them. I’m hoping by mixing the two together, we can make something better.”
+
+Ra’thala was about to respond when Matt gestured outward. “I didn’t have much growing up, but I had chances and opportunities. One of my goals has been to help everyone.”
+
+“Creating more ladders.”
+
+Matt looked at him oddly and Ra’thala realized he spoke in his native language, and so explained the saying to which Matt nodded.
+
+“Exactly.”
+
+Grinning, Matt tapped his temple. “Also, you should check your [AI]. I reported your finding to the Emperor, and he has seen fit to reward you. Normally, that would only be if you decided to share the discovery, but it was so public that the cat is out of the bag. Credit will still be given to you, or your name can be left out of it.”
+
+A quick peek had shown that the Emperor had already been very generous with his reward, and no matter the laws of this land, wealth put a target on one's back.
+
+Ra’thala’s pride liked the idea of his name being attached to the discovery, but he shook his head. “I’ll take the anonymity if it's all the same.”
+
+Matt laughed and agreed, before clapping his hands together and rubbing them. “Okay, the next stop is the enchanters. They want to go over every rune you know so they can see if anything is worth iterating on. This is fun, isn't it?”
+
+Ra’thala couldn't help but agree: It was fun.

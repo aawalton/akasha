@@ -1,0 +1,191 @@
+---
+id: 5920aabb-d811-5ad1-80ce-68eec237c79d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 62: Refining Pills V"
+slug: 0062-chapter-62-refining-pills-v
+partOf: phoenix-ascension-cultivation-litrpg
+position: 62
+ownLength: 2527
+unit: words
+publishedAt: 2025-12-15
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2850664/chapter-62-refining-pills-v"
+royalRoadId: "2850664"
+---
+
+“I’ve been waiting…” A familiar voice said, one that I’d hoped to never hear again.
+
+Yo Na.
+
+I slowly turned around, watching the entrance and keeping alert. If she wanted to try anything, I would bolt out of there faster than she could react.
+
+“Relax, little bird. I’m not going to hurt you.” She said, as if I was going to believe her. What sort of psycho waits in the darkness of someone’s home?
+
+“What do you need?”
+
+The large panther walked out of the darkness, the faint light from the outside revealing her large figure. She smiled— at least I thought she was— I wasn’t sure how much showing her fangs could count as smiling.
+
+She didn’t get much closer, though, just enough for me to smell its stinky breath. Yo Na glanced behind me, at the materials and cauldron I so smartly took out before checking if everything was safe.
+
+“As I thought, you’re no ordinary bird.” Yo Na said with an attempted giggle. I wasn’t sure if she was laughing or snarling, to be honest.
+
+“And for that reason, you decided to trespass?”
+
+“Oh, this is hardly trespassing. You know, I owned this mountain before whatever it is you did created this hole, right? Just be grateful I allowed you to live here.”
+
+Well, she wasn’t wrong about that. I was the one who technically destroyed her home, but still. Well, it wasn’t me either… it was caused by me— Whatever that’s something else entirely!
+
+“You wouldn’t be here without reason, so what is it?”
+
+“Simple, really.” She purred, disappearing into the shadows, then reappearing behind me. She sniffed the cauldron and gave it a tiny nudge, setting it upright. “I want you to refine a pill for me.”
+
+“Re-refine a pill? Do you think I’m some sort of alchemist for hire?”
+
+She hissed, baring her fangs. I took a step back, thinking of other ways for me to escape, considering she blocked the only exit. “Be thankful, the alternative was less peaceful. Now, it’s not something I know how to do, but I have the recipe memorised.”
+
+“What sort of pill is it? What is it called?”
+
+“I don’t know its name, but it’s meant to help heal injuries to the soul. I snatched it from a human who came to steal the flower that blooms on top of the mountain. He wasn’t alone, though, so another group of cultivators took it away. They do that every new moon, and I have no way of stopping them.”
+
+She sounded agrieved and angry. I didn’t understand why she wanted that flower or why she cared so much about it, but it must have had something to do with that pill she wanted me to refine.
+
+“And you think I can?”
+
+She chuckled, a true chuckle that time around. “Not really, but I know you can take it from them. You can fly, can’t you?”
+
+I nodded. “Let’s say I were to agree to your… proposal,” I said, but in reality, it didn’t seem like I had much of a choice. Her claws, fangs, and attitude all but forced me to do as she instructed.
+
+That really annoyed me, but she was far stronger than me, so I could not easily refuse. If she wanted to hurt me afterward, I had no way of stopping her, or the price I would have to pay would be too great.
+
+Thankfully, she only wanted me to refine a pill for her. I had no idea what a Spirit Beast wanted with a pill, but it wasn’t my place to ask.
+
+But I still wanted to try fishing some benefits out of her.
+
+“What’s in it for me?”
+
+“I DON’T KILL YOU!” Her mouth opened wide as she yelled, and though my heart raced, I kept a poker face.
+
+“We both know that would be hard to achieve.” I wasn’t entirely lying, but it wouldn’t be easy to escape her claws. Quite frankly, I didn’t want to find myself having to face this angry cat. Not in my current state, at least.
+
+Yo Na pressed her claw against my neck. I didn’t shiver, though feeling its cold sharpness against my bare flesh was a little unnerving. “Why don’t we try?”
+
+“Are you sure you want to threaten the bird you need to refine a pill for you?” Hearing that, her expression froze for a moment, and I reveled in my tiny victory before continuing. “By the time you figured out if I did something to it, I would be long gone. Do you really want to play this game?”
+
+Yo Na growled and retracted her claw, cursing silently. “Fine, what do you want?”
+
+Now it was my time to be stumped. I threatened her, but I didn’t really consider what I wanted her to give me. However, I didn’t have to say it immediately, so my reply was simple.
+
+“We can figure that out later. First, I need you to tell me the recipe.”
+
+She didn’t seem keen on that idea, but I figured I would find something I wanted soon enough. Then again, if the difficulty was too great, I would rather not anger the kitty.
+
+“It’s simple. You need three petals from that pink flower on top of the mountain. Those petals need to have captured the scattered moonlight as well. Then you will need a soul-nurishing fruit; any fruit would do, as long as it has strong properties. The other ingredients are a few thin strands of purple ginseng, the head of a leafy monkey, and… a drop of Phoenix Essence.”
+
+What the fuck was that last part?
+
+I had to do a double-take, my vision scattering under Yo Na’s calculating gaze.
+
+“What did you say the last part was?”
+
+“Phoenix Essence. I know you have it, you’re a Phoenix, after all.” She sounded very sure of herself, and the revelation bothered me more than I think it should have. Of course, she figured out I was a Phoenix; any idiot could find that out if they watched me.
+
+But maybe I should not have made it so obvious… my fight against the Water Serpent must have been a dead giveaway. But I didn’t sense her watching me… then again, I didn’t sense the little girl entering the battlefield either, so it was clear that my divine sense wasn’t working properly.
+
+“You want me to use my essence for a pill? You also didn’t tell me the heat level, ingredient ratio, or refinement time for each ingredient. Do you think I can just guess and hope everything goes well? The slightest miscalculation could make this entire place explode, and I cannot afford another set of ingredients!”
+
+I probably could, but the more I played it up, the better. Besides, some of the ingredients she wanted were hard to come by. The flower petals, for example.
+
+As for my Phoenix Essence… I knew it was important, but I did sell a feather imbued with a tiny bit of essence, so using a little more couldn’t hurt, right? I wasn’t sure if the cost was worth it, though.
+
+I will make sure to milk her for everything she’s worth, hehehe…
+
+Yo Na looked a little perplexed after hearing my scolding, and her ears drooped slightly. “I did not think about that… I have the scroll in my cave, I could go grab it or—” A light lit up inside her eyes. “Or you could accompany me?”
+
+Well, that was a sudden invitation. I wasn’t sure if I should accept or not. The risk was getting killed, but she could do that to me anyway. As for trapping me and making sure I didn’t do anything funny to the pill…? Impossible, we don’t even have the key ingredient, and I would be the one who needed to snatch it!
+
+Ah, yeah, that was also something I had to do. Snatch it from however many cultivators there were…
+
+“Alright.” I agreed and followed her out of the cave. I wasn’t going to put the things back in the bag of holding, so I left them there after making sure they were safe. Besides the occasional wind, the cave had no other sources of contamination, so it was a good place to store materials.
+
+Once outside, Yo Na’s figure moved so fast it was hard to keep up, even with flight. Not to mention she passively blended in with the shadows, which the forest had plenty of. After losing her about three times, she grabbed me with her huge paw and placed me on her back.
+
+“Hold on tight.”
+
+I grabbed onto her skin with my claws, and after she let out a pained groan, we set off at a speed faster than my flight. It was insane, but it did put the strength difference into perspective.
+
+The surroundings became a blur in my eyes, but I quickly adjusted. I still wasn’t able to see much, but at least I wasn’t feeling dizzy.
+
+Before long, we went down to the base of the mountain, and after a few sharp turns and jumping from branch to branch, we reached a cave that was so remote and well-hidden, it would be hard for anyone who didn’t know of it to find.
+
+Yo Na snuck in through the shadows, somehow making me partially camouflaged as well, and made her way through a winding corridor until we entered a large cavern.
+
+Unlike the path we took to get there, the cavern was extremely luminous, due to all the blue crystals growing out from the ceiling, walls, and floor.
+
+I wasn’t sure what sort of crystals they were, but the aura they gave off felt vaguely familiar.
+
+I hopped off, wanting to inspect them, but Yo Na grabbed me and brought me deeper into the cave. The crystals didn’t dwindle, but instead grew even larger in both size and quantity. The desire to touch them grew even stronger, but I had to control myself, lest I wanted to draw the ire of the big kitty.
+
+Eventually, somehow, we walked into an even bigger area of the cave, and at some point, I couldn’t help but ask myself if she was rich, or something.
+
+But living in such a big cave all by herself must have been lonely…
+
+Or so I thought, but that was when I saw something I wasn’t sure I should have. Tucked in a far corner, sitting in between some yellow-colored crystals, was a tiny cub. It was small, way too small for what its mother looked like.
+
+It also wasn’t awake, but neither was it sleeping. Somehow it seemed to be stuck in an in-between state. From afar, I couldn’t tell what ailed it exactly, but if I had to guess, Yo Na wanted me to refine the pill for her baby.
+
+Pretending I didn’t see that, I turned to look at Yo Na’s face. Despite being devoid of emotion, I could see some wear and tear on her, almost as if she was tired, or rather, exhausted.
+
+We moved past that initial place and approached what looked to be a small hoard of treasures. It had scrolls, some spirit stones, weapons, gold, and other shiny things, as well as pracitcal items, like fur and leather.
+
+She put me down and gave me a ‘stay right there’ look, then went scouring through the pile of riches. She pulled out the occasional spirit beast skeleton as well, though that wasn’t as surprising.
+
+After about five minutes, she took out a really nice-looking scroll and handed it to me. I struggled to open it, but managed relatively quick. I’d already gotten some experience with opening those, after all.
+
+However, I’d once again ran in the dilemma that set me on the path of helping the siblings to begin with— I couldn’t read it!
+
+“Can you err… read it?” I asked, feeling a little more than embarrassed.
+
+Yo Na looked at me with a half-guilty, half-worried expression.
+
+“I… can’t, really. What I’ve told you so far is what I gathered from the guy I stole it from. I was hoping you… could read, you know?”
+
+If I could have, I would have definitely face-palmed. Great, now the two of us were stuck, unable to read. Just what I needed. That little girl struggled to read the cultivation technique, so I somehow doubted she would be able to accurately translate a pill recipe. That meant that I could only focus on the previous quest, so this entire trip went nowhere.
+
+After what felt like an eternity, with me lost in thought and Yo Na prowling around, I sighed. “I will be able to read soon… ish. As soon as I finish my business in the village—”
+
+“You went to the village?” Yo Na cut me, suddenly, looking at me with a surprised expression.
+
+“Yeah… I wanted to learn to read from a girl, but I got a quest that awarded me the ability to read so—”
+
+“A quest? What’s that?” Yo Na once again cut me off, and it was beginning to get old. Though it was hard to get mad when a panther about five times my size was asking me questions.
+
+“You know, from the system. I get quests at random points, I’m not sure why either.”
+
+“Your system… gives you quests?” Yo Na looked like she’d heard the most outrageous thing in existence, and honestly, I couldn’t blame her. Before it evolved, System didn’t give me any quests but now it was handing them out like they were free.
+
+[Quest]
+
+[Help Yo Na with her request.]
+
+[Reward: Increased Water Affinity, 1 Mysterious Pill.]
+
+Speak of the devil… Did you have to show up the moment I mentioned you? You’re definitely doing this on purpose, aren’t you?
+
+Then again, I didn’t mind. The rewards were very enticing, namely the increase in Water Affinity. I couldn't care less for a Mysterious Pill, unless it was a Foundation Establishment Pill or something. But what were the odds System would give me exactly what I wanted?
+
+Back to Yo Na, she seemed a little shook, if not outright confused. It seemed that not all systems evolved. That was good to know, so I could keep my mouth shut in the future.
+
+“Yes, so I just need to continue my business in the village, get my reading skills, read the recipe, and then refine the pills as long as it's within my capabilities.”
+
+“And… if it’s not?” She asked while looking at me, though her eyes lingered behind, far away into a remote corner.
+
+“Well… I coincidentally got a quest to also help you, so… I will do everything in my power to do just that.”
+
+Yo Na’s gaze froze for a moment, then it went back to me, and her fierce expression returned.
+
+“You'd better. And tell me what you want, you’ve had enough time to think, right?”
+
+Lady, I didn’t have any time at all…
+
+I wanted to complain, but decided against it. Instead, I walked toward a nearby blue crystal under her watchful gaze and… touched it.
+
+[Would you like to absorb Water Crystal[Lesser]?]

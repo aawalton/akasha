@@ -1,0 +1,259 @@
+---
+id: daffcbd9-df4b-50a2-82bf-e133e8a0f8bb
+page-type-slug: story-chapter-royal-road
+title: "FIFTY-SIX: A Polite Request"
+slug: 0056-fifty-six-a-polite-request
+partOf: super-supportive
+position: 56
+ownLength: 3422
+unit: words
+publishedAt: 2023-07-23
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1286971/fifty-six-a-polite-request"
+royalRoadId: "1286971"
+---
+
+As always since coming to Moon Thegund, Alis-art’h woke feeling peace and tranquility. She slid from beneath the heated blankets of her bed and threw on a silk robe—her uniform for the day.
+
+Here, there was nobody around who would whisper behind their hands and wonder what it meant for the future of the Triplanets that she had dared to stay in her pajamas for work.
+
+Indecorous bliss, she thought, humming to herself as she brushed her dark lavender hair and read the messages scrolling across her mirror with one brown eye. They arrived from Artona I with a delay of almost an hour, reminding her of just how delightfully far out of reach she was at the moment.
+
+The original plan was for her to be at home right now, doing all the things a nurturing mother should do with a healthy set of newborn wizard triplets. Nursing them, racing to their cribs at their every cry, coddling their tiny authority senses to be sure they were developing properly.
+
+Diapers.
+
+Thank goodness this corruption mishap had occurred just a week before she was scheduled to give birth! She’d waddled herself straight into the Grand Senate’s emergency session and volunteered for duty. With enthusiasm that at least a few senators seemed to have mistaken for hostility…but the point was that she was off the hook.
+
+And this was the easiest assignment she’d taken in decades. They didn’t like to have the Quaternary at a post like this. Too longterm and low import. Yet here she was—months away from the political morass, family drama, and the immense stress that came from trying to like your own babies.
+
+It was just so hard when they were in that frightening needy stage. They couldn’t even talk to her yet, and she was always scared she might accidentally smoosh them with her authority in a fit of postpartum confusion.
+
+Some of the spouses in the household adored newborns. It was best to leave the triplets to them. Alis would take a vacation from work and fall in love with the little creatures when they were old enough to toddle around and make comprehensible sounds.
+
+Three, she thought, gliding out of her suite and entering the travel dome’s dining room. I’d like to get to know them when they’re around three.
+
+First meal was a beautiful spread of breads, jams, and smoked meats.
+
+No nasty military rations on this trip. There had been time to fully outfit the ship with everything she could possibly need, and if she wanted something beyond that, they could just zip right over to the other side of the moon and fetch it.
+
+“You’re awake early, Knight Alis-art’h,” said Rrorro from the opposite end of the dining table. “Greetings on the new day. I am honored to be in your presence.”
+
+“No need to rise!” Alis said quickly.
+
+But not quickly enough.
+
+Dammit.
+
+The icorlax was already hovering respectfully over her chair, her rainbow-colored wings creating a small gust in the room.
+
+Rrorro was new to Alis’s team of Avowed helpers.
+
+She had secretly wanted to work with an icorlax ever since she was a girl. Such an interesting people. Soft feather-scales, four-clawed feet, the colorful wings. And they were known to promote a sense of wellbeing in their companions. Great for teambuilding.
+
+But theirs was a rare species, and besides that, they didn’t handle violence well. Emotionally. This had seemed like the perfect opportunity to invite one along for an easy, stress-free job and make a new acquaintance.
+
+Officially Rrorro was the team healer. Only nobody was going to need healing because why would they in a place like this?
+
+Alis was just supposed to have one with her at all times when she was on duty.
+
+“Rrorro, I’ve told you. You don’t have to be so formal anymore. We’re going to be here for months cleaning up. You just perch back and help yourself to some of these nice candied lunefruits. I know you like them. It’s another great day for crushing the chaos out of an ugly moon, and all you have to do is watch through the dome!”
+
+She glanced up at the transparent roof of the travel dome. It was completely coated in a thick layer of dust so that she couldn’t even see the gloomy sky overhead. Oops. She’d meant to cast a spell over it yesterday to ward off the clouds of falling dirt.
+
+The Triforming she was doing was messy.
+
+“I will clean the dome while you are away this morning, Knight Alis-art’h. By the time you return for second meal, it will be pristine.”
+
+“But Rrorro, I can do it in just a few moments with a…”
+
+A spell. Hmmm…maybe she’d been taking the wrong approach to relaxing the icorlax. The voyage here had taken ages, and the Avowed still hadn’t gotten any less stiff around Alis. She knew she was intimidating, but she wasn’t that intimidating, surely?
+
+Rrorro had known how long the trip would be when she agreed to come along, so she shouldn’t be mad about the assignment. Maybe she was one of those people who was more comfortable with a task, and the lack of work for a healer was only making her feel out of place?
+
+“Yes, thank you!” Alis said. “Please clean off the dome. That will be a big help.”
+
+She took her seat so that the icorlax would stop hovering, and she smeared some bright green preserves on a piece of hot flatbread.
+
+The rest of the small ground team arrived as first meal progressed. There were six of them total living in the dome. Two wizards besides Alis had come down to the corruption zone with the group. They were old friends. Understanding about the pajamas. She’d left the other Artonans in orbit or ordered them to aid the locals in de-inconveniencing the cities that had been left without the services of a Contract for so long.
+
+She’d have to rejoin them and start behaving appropriately once the corruption was repaired. The Contract reestablishment phase of the operation was going to be a bother, but there was some satisfaction in knowing they’d finally be giving this place a proper, fully-functioning one. It would enable even non-wizards to communicate and travel around the Triplanets with ease. A vast improvement in their lives that had been far too long in coming.
+
+Alis smiled and bit into her breakfast. She still had a long time before she had to associate with everyone on the ship. For now, she could just relax with her preferred companions.
+
+In addition to the three Artonans and the icorlax, there was an Avowed lortch who had worked as a secretary for Alis before becoming too elderly to travel with her on her usual assignments. The pay for a trip of this length would set him up nicely for retirement…if Alis couldn’t convince him to deviate from his species’ customs and accept some rejuvenation treatments.
+
+Kraaaa, the griveck, clawed his way up to the table last. Alis could just tell by the backwards tilt of his helmet—which he didn’t need after his last set of enhancements but had chosen to wear since it had an excellent non-System translator—that he was gazing at everyone judgmentally.
+
+“You know I could catch my own food if I wanted to,” Alis said, looking up at the enormous Avowed as she added flaked fish to another piece of flatbread. “On a planet that actually had animals tasty enough to be worth the endeavor.”
+
+Traveling with grivecks was a riot, usually, and she and Kraaaa had been working together on and off for years. But he wasn’t at all happy with the treats she’d had stabled on the spaceship especially for him. He claimed the small herd of Balkons were too domesticated to make good meals.
+
+Alis sighed.
+
+It had been hard to convince everyone that she needed to devote part of the ship to a bunch of angry alien livestock in the first place. And they’d almost eaten their handler twice. She was doing her best. It wasn’t her fault that Moon Thegund lacked sufficiently entertaining food options for a griveck so powerful that the most satisfying prey would actually be his traveling companions.
+
+<<I think the boredom is eroding my mind,>> Kraaaa said in an eerie high shriek that was only partially modulated by the helmet’s translation function. <<A few hours ago, I thought I sensed prey.>>
+
+“No eating demons,” Alis said promptly. There was nothing else out here he could have been sensing. “Even if some small fry comes this way, it’s just not a good idea. Kill it or run it into the smash zone.”
+
+<<Can we fight each other after you are done battling dirt? I don’t want my skills to dull.>>
+
+Rrorro gasped in horror.
+
+Alis glanced at the healer. “What a suggestion, Kraaaa! Of course not. My goodness. Violence is so…violent. Perhaps this afternoon you and I should go for a peaceful walk together instead. Far, far away. A little friendly exercise of our legs.”
+
+Kraaaa made the terrifying sound that was a griveck’s laugh.
+
+<<Yes. We will exercise our legs. And our claws. And our teeth.>>
+
+I hope he doesn’t actually expect me to use my teeth, Alis thought.
+
+The conversation turned to the plans for the day. People filled her in on what she’d missed while she slept. Back home, someone was in a tizzy about that giant explosion a few days ago at Worli Ro-den’s old facility.  They wanted Alis to go and get proof that it had been an act of deliberate sabotage by the former owner.
+
+Something she had already decided not to do.
+
+She wasn’t that invested in Ro-den’s situation, but her brother had looked mildly unhappy when he told her the man had been pulled from Thegund. So she would just wait a while before turning her attention to it.
+
+Let the corruption work on the site for a few more months so she could say that there was no way to be sure whether or not some angry scientist might have planted a bomb there before he was hauled off by the authorities. And how could anyone expect her to rush over for such a petty personal vendetta, when there was chaos to beat into submission?
+
+Creative beating was Alis-art’h’s preferred method.
+
+Very stress relieving, and she liked looking behind her to see the nice flat and fertile chaos-free land she’d left in her wake.
+
+One of the Artonans handed her a tablet, and she read over the notes they’d made on the area that was to be cleared today. Atmospheric readings, altitude and depth of the corruption zone, numbers that indicated a million tiny fractures in this patch of reality that she would be fixing by overwriting it with a stronger version of her own making.
+
+She supposed to the untrained eye it must look like she was only lifting millions of thells of soil into the atmosphere and then slamming them back into the ground again for her own amusement. And…yes. That was what she was doing. But there was technique involved. It required extraordinary control and quite a lot of thought to operate on this scale.
+
+“It’s not boring,” she said to Kraaaa as she stood up from the table. Everyone was bustling, making preparations to leave the dome. “I have to use both sides of my brain for it.”
+
+<<I wish someone with great power would attack you,>> said the griveck. <<I do think I need a challenge. The prey sense is only getting stronger. Perhaps it is the icorlax.>>
+
+Rrorro let out a strangled squawk of horror. The healer had been about to step out the dome’s hexagonal door with a bucket of cleaning supplies.
+
+Oh no. When she offered to clean did she mean she was going to scrub it with her hands? I thought she must have some kind of spell impression that would help at least.
+
+Alis hadn’t done exhaustive research into the icorlax before they left Artona I and the Contract behind. She preferred to let Avowed show off their non-essential skills and spells when the need arose instead of digging into every single detail of their power set. It made for fun surprises when you were getting to know a new person.
+
+“Rrorro, it’s just a joke. Kraaaa would never slaughter a shipmate. It would be rude.”
+
+The healer threw the door open wider and leaped back. A moment later, two people stepped in.
+
+Staggered in, Alis corrected herself, staring at the filthy pair in shock.
+
+People were not supposed to be alive within the corruption zone. No rescue orders had been issued.
+
+One of them was, she thought, a human male. Under all the sweat and blood and dirt. Though that didn’t seem right or possible at all. Maybe he was a tall Artonan with unusual bone structure? He was wearing a long red coat that was partially melted and full of holes.
+
+His companion, a small girl, was also not right or possible in this context. One of her hands had a corruption wound, and the other, with a dark blue auriad wrapped around it, was gripping his tightly.
+
+They both reeked. In the organic way and the chaotic one.
+
+The humanish person smiled faintly through cracked lips at the sight of the gathered wizards and Avowed and collapsed onto his knees. The girl never let go of his hand. Her eyes landed on Alis and widened.
+
+“Knight Alis-art’h,” she said in a loud, firm voice. “I am Kivb-ee, and this is Alden. We are friends of your brother. We politely request assistance.”
+
+A small, colorful parrot-person ripped Alden’s shirts in half like they were made of tissue paper and shoved clawed hands covered in a fine layer of scales against his chest. A moment before, they had done the same thing to Kibby. He heard them saying things rapidly.
+
+It was Artonan, but he could barely understand any of it.
+
+Sound was strange. His vision was strange. It was like his senses were no longer properly connected to his brain.
+
+We did it, he kept thinking as he lay on his back in the floor, staring up at the ceiling. He and Kibby had thought this place was made of dirt when they first approached, but it was just coated in the stuff. We made it out.
+
+He had run through a cloud of dust particles that made it hard to breathe until he’d come to a short but enormously wide cliff in the landscape. It was fifteen or so feet of sudden topographical difference in a smooth crescent-shape that extended as far as his blurred vision could make out.
+
+Why had the Artonans dug out the soil? Or squashed it flatter?
+
+Alden didn’t know. It didn’t matter.
+
+The crescent was the bite someone had taken out of the chaos pizza. It had to be. On the other side, Kibby would be safe.
+
+There was no way to climb down, so he’d jumped. He’d landed badly and heard something snap. He wasn’t sure if it was an ankle or a wrist or a muscle. He still couldn’t feel pain.
+
+Probably the parrot-person knows what it was.
+
+He thought he was supposed to know the name of their species, but he couldn’t even make himself want to remember facts right now.
+
+We did it. We made it out.
+
+Kibby’s grip tightened on his hand. He’d dropped preservation on her a while ago—was it minutes or hours?—when he thought they must surely be out of the chaos. Based on the way the maps had looked. He’d had to do it. To ask her if they’d come far enough.
+
+Because Alden couldn’t tell anymore.
+
+His authority sense was so overwhelmed by the sensation of the machine the System had given him cracking and cracking, that he didn’t even have the bandwidth to feel the chaos if it was there. Kibby said it wasn’t. She said they were safe here.
+
+He reasserted the skill. It cracked. He reasserted it. He raged against it accidentally. It cracked. He reasserted it.
+
+Kibby made sure to keep the auriad around her wrist pressed against his skin. She’d borrowed it from him as they approached…to keep it safe?
+
+That’s right. We aren’t sure what they’ll think if they find out it’s mine. She’s making sure they don’t take it away from me.
+
+Alden was glad one of them had remembered.
+
+She was talking quickly to the people in the room. Answering questions.
+
+The parrot-person’s hands were cold on Alden’s chest. They asked everyone something in an anxious tone. Alden’s brain deciphered it for him slowly.
+
+“I have never encountered this species. Without a Contract assisting, it’s a little difficult to know what I should…can someone bring me a ————?”
+
+“He’s a human!” Kibby sounded offended on Alden’s behalf. “He’s the best human. He is the best Avowed in the universe.”
+
+It’s okay, Kibby. I can’t even remember what the parrot-people are called, so we’re even.
+
+Something shrieked. An echoey translation in Artonan followed.
+
+Sophie?
+
+No. He’d seen the griveck when they entered. It was twice Sophie’s size.
+
+“No he’s not the best Avowed, Kraaaa!” a woman’s voice shouted. “He’s a Ryeh-b’t child!”
+
+That’s the pregnant lady from the party. Stuart’s aunt. She’s not pregnant anymore. And she sounds pissed off.
+
+A man in wizard’s garb leaned over Alden to pass the parrot-person a tablet. The device was speaking rapidly in a language he didn’t recognize.
+
+The healer set it beside his head and placed their hands back on his chest, looking from him to the screen and back again with bright yellow eyes.
+
+<<A Ryeh-b’t,>> the griveck said in a tone Alden recognized as pleased from his experience with Sophie. <<Like me!>>
+
+“Not like you,” Alis-art’h snapped. “He’s exponentially weaker than you. He does parties. He’s not supposed to be here. Nobody is supposed to be here. What if I had —————— crushed them both when I was ———————- the moon!?”
+
+“I think I understand his body well enough to get started at least,” the parrot-person announced. “Someone carry him to the medical room, please.”
+
+“I need to stay with him!” Kibby said, smashing her hand and the auriad with it against his. “He needs me.”
+
+“She needs healing, too. But him first. Young Kivb-ee, you cannot keep holding his hand.”
+
+Alden tried to tell Kibby it was okay. She could let go of him for a second. He wasn’t going to fall apart without the auriad. Maybe.
+
+But when he tried to speak, the words were such a croak he couldn’t even make them out himself. Kibby almost head-butted the healer in an effort to stare into his eyes.
+
+“Take my auriad,” she said loudly, looping it back around his neck. “It will keep you safe while you are being healed.”
+
+Someone made a slightly pained sound—one of the other Artonans most likely—but nobody objected.
+
+Kibby’s so cool, Alden thought. She’s the coolest person I’ve ever met.
+
+His authority cracked inside the confines of the skill. He tried to reassert.
+
+It cracked more. He managed to realign it.
+
+I think if they knock me out to heal me, I might die.
+
+He wasn’t scared at all. He wondered why.
+
+Slender arms lifted him easily. It was Alis-art’h.
+
+Stuart’s aunt bit her lower lip and narrowed her eyes at Alden. “Low rank,” she muttered so quietly he almost didn’t catch the words. Her face was tight. “Stuck here for months. Skill active for days. I think maybe I should look at…”
+
+An authority so massive it dwarfed understanding pressed against Alden’s own. It wasn’t trying to hurt him, but it was too much. If he had possessed the strength to do anything but shore himself up, he would have pushed back against it reflexively. As it was, his own power simply lay quiescent, enduring the examination.
+
+After it was over, the other presence backed off. But not completely. Alden still felt an odd pressure and stillness around him. It seemed to help with the cracking. A little.
+
+Alis-art’h’s face was dark as she looked down at him, and then her expression cleared. She smiled over her shoulder. Probably at Kibby.
+
+“Don’t worry,” she said. “Your friend will be fine after some healing and rest.”
+
+Oh, wow, thought Alden. That was one hundred percent a loving lie.
+
+You really could learn a lot about Artonans by watching their children’s shows.

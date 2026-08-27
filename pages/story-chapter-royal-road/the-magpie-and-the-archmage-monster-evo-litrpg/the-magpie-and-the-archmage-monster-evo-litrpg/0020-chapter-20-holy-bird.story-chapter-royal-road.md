@@ -1,0 +1,227 @@
+---
+id: 8877c829-7e4f-5101-ae7f-62d49476c6a6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20 – Holy Bird"
+slug: 0020-chapter-20-holy-bird
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 20
+ownLength: 2068
+unit: words
+publishedAt: 2025-09-10
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2589099/chapter-20-holy-bird"
+royalRoadId: "2589099"
+---
+
+Alright, this is my last chance to get it right. I have only a sliver of mana left. Just enough to handle backlash from one failure.
+
+"I never thought teaching a basic chant like this would be so difficult," Renir complained.
+
+"I'm not a human!" Liora protested. She couldn't actually speak as humans could. Sure, she could form sentences and pseudo-talk thanks to her Mimicry skill, but it was always through words she picked up from Renir.
+
+The ungrateful rock should be amazed that I'm able to mimic his speech to such a degree. No other bird would be able to do it as well as I can. But no, he just complains that he has to repeat an incantation a few times.
+
+I should be the one complaining. I've been practising for so long and haven't even had anything proper to eat.
+
+"Cleansing light, obey my will. Purge this blight and make it still," Renir repeated the incantation.
+
+Liora listened intently. She felt like she could finally nail it perfectly. She could do it.
+
+"Cleansing light, obey my will. Purge this blight and make it still!" Liora mimicked.
+
+[You've successfully mimicked the skill <Holy Light>.]
+
+A bright light beam erupted in front of Liora, creating a rather sizable hole in the floor. The light spooked the sleeping bats, sending them into a frenzy.
+
+Geez! Watch where you aim that thing!
+
+Liora hadn't expected to succeed, so she wasn't even aiming.
+
+"Sorry!" Liora squawked as she dodged a few of the frenzied bats.
+
+"I heard something in that tower!" A voice called from somewhere outside the tower. Liora recognized it. It was the female mage who was in the Blightpeak. What was her name again? Beatrice.
+
+"The gem is there," said the young man, Arvid, his voice quiet in contrast to his companion.
+
+Liora grabbed Renir and put him in her Inventory straight away.
+
+We need to get out of here!
+
+No, I was definitely thinking of sticking around, giving them a warm welcome.
+
+Liora hopped up to one of the smaller holes in the walls and peeked outside. Sure enough, the three mages were making their way up to the old watchtower.
+
+How did they know I was here?
+
+Dammit! They must have placed a locator spell on me.
+
+The young mage suddenly looked as if he'd been doused with cold water. "The gem disappeared!"
+
+"What do you mean? Disappeared? How can it just disappear?" The older man complained.
+
+"The only way would be for the item to be deposited in the Inventory. You can't track what goes on there since it's technically inside a pocket dimension."
+
+"Inventory? For a bird? That's impossible!" The older man growled.
+
+"There is no other way for the gem to disappear," the younger man said.
+
+It's convenient that you can't be tracked from my Inventory, but I only acquired it recently. How come they couldn't track you before then?
+
+The locator spells only work within a certain range. If you have the mana signature of the specific item that's being tracked, then you'll sense its general location when you're within the range of the spell. Even the best locator spells are limited to ten kilometers at most. I guess that theirs has a range of five kilometers tops. More likely that it's at the three or two-kilometer mark.
+
+Alright, good. I won't take you out while these goons are around. For now, it's time to scram.
+
+Head into the mountains. They probably won't search for you there.
+
+But I'm hungry.
+
+Just find something on your way there.
+
+Have you seen the place? There's nothing but rot and monsters around. What am I supposed to eat?
+
+Those moths might suit your bird tastes.
+
+Hell no! I'm not eating those nasty oversized bugs! I'm heading to Christie's place.
+
+Don't drag that little girl into this. If they see so much as a single feather there, that girl and her mother will suffer.
+
+Liora flinched back. She didn't want that. Christie was a nice girl. Dragging her into this mess was unfair to her.
+
+Fine. Then I'm going to that doctor.
+
+I don't trust that guy.
+
+I doubt he'll do anything to me. He did heal my injuries. Besides, his place is too messy and too stinky for those mages to notice anything. Smell alone would scare them off.
+
+Fine, fine! But whatever you do, hurry. I think those guys are making their way inside the tower.
+
+Liora couldn't see them anymore, but she heard some heavy slamming against the door, and a flurry of curses came from below. She hurried over to one of the cracks large enough for her to squeeze through and Faded.
+
+It was a good thing that this skill didn't require mana, otherwise, she might have been spotted. But the few seconds of invisibility that Fade provided gave plenty of time to fly some distance away from the tower and get close to the ground. From a distance, even during daytime, Shadow Glide should provide enough camouflage for Liora to get into the town unseen.
+
+When she arrived in Sunvale, she saw that people were on edge. Even more so than before. Some looked angry while others were glancing around nervously as if expecting trouble to happen.
+
+Liora stayed out of sight, keeping to the shadows and flying from one place to the next only once she was sure that nobody was watching. It was likely that those creeps would ask the poor villagers whether they'd seen a magpie around these parts. What reason would these people have not to admit that one just happened to be flying around? After all, she was just a bird to them.
+
+How annoying. Maybe it would be better if we left this place altogether.
+
+If worst comes to worst, then yes, let's get out of here. But your stealth skills are making things manageable for the time being. I'd really like for you to evolve before we move on to a different place. The monsters here are perfect for beginners.
+
+Are you sure? There are plenty of those corrupted freaks around.
+
+Yes, even with them. With holy magic, it shouldn't be such an issue anymore. This is one of the areas with the weakest monsters.
+
+Why are the monsters weaker here specifically?
+
+It's because this area has low ambient mana, so stronger monsters don't find it very appealing. Without any strong predators around, weaker monsters settle here. Other factors can affect this, but I don't think you'll be interested in the nitty-gritty of it.
+
+No. I got the gist. Less mana means weaker monsters.
+
+Pretty much.
+
+Liora didn't want to deal with even stronger monsters, so she would prefer to stay in Sunvale for the time being. Hopefully, those annoying mages will give up eventually. She had no intention of taking Renir out of her Inventory again, especially now that she had learned to mimic Holy Light.
+
+Sneakily, she made her way to the Dr. Reius house, flying in through the open door. Much to her surprise, Christie and her mother were there talking with the disheveled-looking man.
+
+"You haven't told those men about Miss Magpie, have you?" Dr. Reius asked anxiously.
+
+"No, of course not! I don't know what those bullies want with Miss Magpie, but it can't be good! I would never tell them that I saw her," Christie said.
+
+Aww, bless that child.
+
+The trio hadn't even noticed Liora. Shadow Glide must be masking her presence. But there was no reason to hide from them, so she landed straight on Christie's shoulder.
+
+"Chak-chak-chak!" She said. "Hello, my little human friend!"
+
+"Miss Magpie!" Christie cheered.
+
+"Speak of the devil," her mother chuckled.
+
+"Speak of the magpie," Dr. Reius corrected with a smile.
+
+It seems that the Doctor is trying to keep you hidden. Good. I was a bit worried he might go on to spread all of his findings to the world. Although I still don't like the guy.
+
+It's the smell. Don't worry about it.
+
+"I'm so glad you're safe, Miss Magpie! Those bullies didn't find you after all," Christie cheered, petting the feathers on Liora's head.
+
+So they really have been looking for me.
+
+You did snatch the blightstone from right under their noses. I had hoped that the darkness would mask you enough, but I guess any moron would conclude that it was a bird with dark feathers.
+
+"I'm a bit worried. She seems very comfortable around humans. We should discourage this behaviour," Dr. Reius said, trying to shoo Liora away. But she just fluttered over to Christie's mother.
+
+"Caw!" Liora protested. "I can take care of myself!"
+
+"Don't be mean to Miss Magpie!" Christie puffed out her cheeks at the doctor.
+
+"I-I'm not! I just don't want those mages to find her. I have a strong suspicion that Miss Magpie isn't just a regular magpie," Dr. Reius said.
+
+"Of course not! She's only the smartest and most beautiful magpie in the world," Christie said enthusiastically.
+
+Look at this kid! She's officially my best friend now.
+
+You fall for flattery way too easily.
+
+It's not flattery. It's the truth!
+
+Liora flew over to Christie and gently nibbled on her hair. The girl giggled.
+
+"What do you mean that she's not a regular magpie?" Christie's mother asked, glancing at Liora.
+
+"Now, this is just a theory, so don't take it at face value, but I suspect that Miss Magpie is a magpie that evolved," Dr. Reius said.
+
+This guy actually figured it out. That's bad!
+
+Is it? Aren't evolved monsters common here?
+
+But you didn't start as a monster, did you?
+
+Liora internally chastised herself for calling herself a monster. She wasn't a monster! She was a magpie!
+
+"Magpie that evolved?" Christie asked curiously.
+
+"Like a monster?" Christie's mother looked at Liora suspiciously.
+
+Hey, don't look at me like I am one of those freaky hyenas!
+
+"Miss Magpie isn't a monster!" Christie protested, and Liora cawed in agreement.
+
+"Kind of. I'm not quite sure how it happened, but Miss Magpie is different from other magpies. She is larger, her wings are longer, and neither of you heard her fly in, did you?" Dr. Reius said.
+
+"No, I didn't," Christie's mother confirmed.
+
+"Why is that weird?" Christie asked.
+
+"Magpies are not silent fliers like owls. You can hear their wingbeats. But you can't hear Miss Magpie's," the doctor explained.
+
+He is totally onto us. Time to get lost!
+
+But I'm hungry!
+
+Liora hopped over to the cupboard where she remembered the doctor got the seeds from. Much to her relief, he obligingly poured her the tasty grain-seed mix. She began eating immediately, worried that it really might be time to fly off.
+
+"Is it bad that Miss Magpie evolved?" Christie asked, looking sadly at Liora.
+
+"No. I don't think it is. I'm not sure if she's even aware of it," Dr. Reius said.
+
+Nope, I am a clueless bird. I know nothing.
+
+She just continued eating, pretending not to understand the ongoing conversation. Liora didn't like acting like a fool. But this time it was necessary. She didn't want townspeople throwing pitchforks at her and calling her a monster whenever she appeared in town. Where would she get her food? She would also miss Christie.
+
+"In either case, I don't care what Miss Magpie is. She's my friend and that's all that matters," Christie declared, patting Liora without hesitation.
+
+Both adults watched Christie for a moment, then smiled.
+
+"That's right. It doesn't really matter," Christie's mother nodded.
+
+"Exactly. She's our lucky magpie. So we can't tell outsiders about her," Dr. Reius said sternly.
+
+Both mother and daughter nodded. Liora felt relieved.
+
+See, it turned out okay.
+
+For now. You can't let your guard down, okay?
+
+Liora had to agree there. These three might be accepting of her, but who knows what others would say if they heard about a magpie that could evolve? She suspected not everyone would be so forthcoming as Christie and Dr. Reius. To be honest, she was still a bit skeptical of the quack doctor. Something within her told her to be careful around the man, and it wasn't just Renir.
+
+But Liora's bowl was empty and her stomach full. She gave a friendly nibble on Christie's fingers and then flew away. She needed to get stronger and evolve again. If mages were coming after Renir, she had to be ready to fight them head-on.

@@ -1,0 +1,345 @@
+---
+id: b2aef1aa-e063-5c7d-b27f-eff02c0f6d86
+page-type-slug: story-chapter-royal-road
+title: "Chapter 59: Effective immediately"
+slug: 0059-chapter-59-effective-immediately
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 59
+ownLength: 3725
+unit: words
+publishedAt: 2026-06-05
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3497773/chapter-59-effective-immediately"
+royalRoadId: "3497773"
+---
+
+The mirror was unkind.
+
+Not in the way it had been months ago, when the reflection had shown a boy too soft for the world. The cruelty now was different. The mirror showed me someone I barely recognized.
+
+The body was lean. Months of predawn runs and sword drills and corridor fighting had stripped every unnecessary thing from the frame and replaced it with dense, functional muscle that sat close to the bone. The shoulders were wider than they’d been at the Academy. The forearms, visible where I’d rolled the sleeves to wash, were corded with tendons that moved beneath the skin like cables when I flexed my fingers. The veins stood out across my hands and wrists, the kind of vascularity that came from sustained physical exertion at mana-enhanced intensity.
+
+Not a mage’s body.
+
+The thought arrived without bitterness. A mage's body was a conduit. Slim, refined, optimized for channeling power through circles and matrices. The body in the mirror was a weapon. Built to swing steel and absorb punishment and keep standing when everything around it collapsed.
+
+The scars confirmed this.
+
+Healing magic was remarkable, but it wasn't perfect. The deeper injuries, the ones that had torn through tissue and scored bone, left their signatures behind. A thin line above my left eye where an elf's blade had opened the skin during the corridor fight. The mark traced my brow from the outer edge to a point just above the bridge of my nose — fine as the edge that had made it, pale against the surrounding skin. Another scar, thicker, curled along the outside of my left forearm where the stone fragment had buried itself during the bombardment. Burns on my back that the physicians had reduced from raw, weeping tissue to smooth patches of skin that were slightly lighter than the surrounding flesh and slightly tighter when I stretched.
+
+I turned my head.
+
+The hair was the most disorienting change.
+
+They'd cut it. The palace barbers had taken everything, every strand that still carried traces of the black dye.
+
+The uniform itself was officer-grade.
+
+I hadn't earned it. Not formally. No commission had been issued. But someone — Varen, most likely, or whoever Varen tasked with these decisions — had decided that the Hero of Grenzheim would not appear at a state ceremony wearing the enlisted uniform.
+
+The fabric was dark wool, finer than anything I'd worn since arriving in this world. The cut was precise, tailored to the measurements the palace staff had taken while I'd been semiconscious in the infirmary. The collar was high, buttoned to the throat. Silver fastenings ran down the front in a single disciplined line. The shoulders bore no rank insignia. The sleeves carried no unit designation.
+
+On the left breast, a single emblem.
+
+The Iron Cross.
+
+I adjusted the collar. My fingers found the edge of the watch beneath the shirt, its gold casing warm against my sternum.
+
+I looked at the stranger in the mirror one last time.
+
+Then turned from the mirror.
+
+Major Brauer waited in the corridor with two soldiers flanking the door.
+
+He assessed me in a single sweep. The uniform. The hair. The posture.
+
+Brauer's mouth twitched. The closest the man came to approval.
+
+"Follow me," he said.
+
+The palace corridors were longer than I remembered. The private wing connected to the state apartments through a series of passages that grew progressively wider and more ornate as they approached the public spaces.
+
+The noise reached me before the doors did.
+
+A murmur. The aggregate sound of hundreds of voices compressed into a single space. Beneath the voices, music. A string ensemble somewhere inside the hall, playing something restrained and appropriate for an occasion that was half celebration and half political theater.
+
+Brauer stopped at a set of double doors three times his height. Dark wood inlaid with silver filigree. Two guards in ceremonial armor stood at either side, their faces expressionless beneath polished helms.
+
+"Through here," Brauer said. "The staircase leads down to the main floor. You'll be announced."
+
+He paused.
+
+"Don't trip."
+
+The doors opened.
+
+The Great Hall of the Imperial Palace was designed to make human beings feel small.
+
+The ceiling soared above the crowd at a height that made the chandeliers look like distant constellations. Columns of white marble rose from the floor in double ranks that framed a central space large enough to drill a cavalry squadron. The walls were hung with tapestries depicting scenes from the kingdom's history.
+
+The staircase descended from the upper gallery in a sweeping curve that delivered its occupant to the main floor.
+
+I stepped onto the first stair.
+
+The herald's voice cut through the murmur.
+
+"Kaspar von Hexenzeit. Iron Cross. Southern Command."
+
+Three fragments of identity, spoken into a hall that held every significant political figure in Silberwald.
+
+The applause began.
+
+It started near the base of the staircase, where a cluster of military officers had positioned themselves, and spread outward through the crowd in a wave that was impossible to ignore.
+
+I descended.
+
+Each step brought me deeper into the light and the noise and the scrutiny of more eyes than I had ever faced at once.
+
+The crowd parted as I reached the main floor. Bodies shifted, creating a corridor of space that guided me toward the center of the hall.
+
+They came.
+
+The first wave was genuine. Or genuine enough. Officers in dress uniforms who gripped my hand and said things like well done and honored to meet you with voices that carried the particular roughness of men who had spent time near the front. A colonel whose name I didn't catch but whose handshake nearly broke my fingers. A woman in the robes of the Magical Army's medical corps who simply pressed both her hands around mine and held them for three seconds without speaking.
+
+Behind the officers, the civilians. Merchants and administrators and minor officials who had read the Chronicle's article and wanted to say they'd met the man in it. Their questions were earnest and repetitive.
+
+What was it like? The front?
+
+Is it true about the bombardment?
+
+How did you know about the ritual?
+
+I answered when I could. Brief responses that gave enough to satisfy without giving anything that mattered.
+
+The men wanted the war. That much was clear within the first ten minutes. Every male face that approached me, whether it wore the uniform of a soldier or the silk of a courtier, carried the same hunger. They wanted to know what an elf looked like when it died. They wanted to know the sound a blade made when it found the gap in elven armor. They wanted the violence, the proximity to death, the thrill of combat experienced through the safety of a ballroom conversation.
+
+What does it feel like to kill one?
+
+The question came from a young lord whose hands had never held anything sharper than a dessert fork. His eyes were bright with an excitement that he probably mistook for courage.
+
+"Fast," I said. "It feels fast."
+
+He wanted more. I didn't give it.
+
+The women were different.
+
+They didn't ask about killing. They asked about seeing. About the forests and the coastline and the towns beyond the capital's walls. Their questions carried a longing that had nothing to do with violence and everything to do with walls — the walls of their drawing rooms, their salons, their carefully circumscribed lives.
+
+Is it true the ironwoods grow as tall as mountains?
+
+Have you been in a dungeon?
+
+What does it look like? Beyond the front?
+
+I told them about the trees. About the way the mana made the forest grow beyond anything that should be physically possible. About the beach — the non-classified parts of it, the light on the water, the sound of the waves.
+
+Their faces opened in a way that the men's faces didn't. A wistfulness that was briefly, painfully human.
+
+The first hour passed.
+
+The admirers dispersed. The handshakes thinned. The questions trailed off as the crowd's attention shifted to the next point of interest — a general arriving late, a princess's new gown, the eternal drama of who was standing near whom and what it meant.
+
+Soon the vultures appeared.
+
+I'd been briefed. Brauer had spent thirty minutes in the carriage from Grenzheim laying out the political landscape of the evening with the blunt efficiency of a man who had navigated courts for decades and retained no illusions about their nature.
+
+"Two factions will approach you. Prince Kasimir's people and Princess Elara's people. Kasimir's faction will be cautious. They'll observe. They won't commit until they understand how the wind is blowing. Elara's faction will be aggressive. They'll probe. They'll test your composure. They want to find the cracks."
+
+Brauer's map had been accurate.
+
+It had also been incomplete.
+
+The third faction arrived in silk and subtle menace, and I recognized them before they spoke a single word.
+
+Not from the briefing. From the memories.
+
+The shelves in my mind opened at the sight of their faces. Books detached and floated to my hands, their spines warm, their contents pouring into my awareness with the precision of a filing system built over the years.
+
+Hexenzeit vassals.
+
+Lords and ladies whose families had served the Archduke for generations. Whose estates sat within Hexenzeit territory. Whose incomes depended on Hexenzeit favor. Whose children attended academies funded by Hexenzeit gold.
+
+Kaspar had known them. Not well, he had been removed from his father's house before the age when political relationships solidified into anything meaningful. But he had watched. From the margins of formal dinners and seasonal gatherings.
+
+I knew their names. Their territories. Their debts. Their alliances.
+
+What I didn't know was the last several years. Alliances shifted. Debts were settled or compounded. Marriages realigned the map of power every season.
+
+They approached in pairs and small groups.
+
+The first was a woman in her fifties, her silver hair swept into an elaborate arrangement of pins and braids that must have taken an hour to construct. Lady Margrit von Eschenbach. The memory surfaced: a minor house within Hexenzeit's sphere, controlling a stretch of timber-rich territory along the northern border.
+
+Her smile was the kind that arrives fully formed, as if it had been rehearsed.
+
+"Young Kaspar." Her eyes traveled the length of my body with an appraisal that was neither admiring nor hostile but purely calculating. "You've grown considerably since I last saw you. Though I confess, the last time was at a summer gathering when you were still..." She gestured vaguely at a height somewhere below her waist. "Well. Children."
+
+Her gaze lingered on my arms, my shoulders, the way the uniform sat across my chest.
+
+"Forgive me for saying so," she continued, her voice carrying the crystalline clarity of someone who wanted the surrounding tables to hear, "but you don't quite have a mage's build, do you? More of a... laborer's physique. All that Iron Cross training, I suppose. Manual work does produce a certain type."
+
+I held her gaze. My face gave nothing.
+
+"Thank you for the observation, Lady Eschenbach."
+
+A second pair arrived while the first was still orbiting. Lord Gerhard von Steinfeld and his wife. Kaspar's memories placed them as administrators of a mining district that produced half the iron ore used in Hexenzeit's armories. Important enough to warrant deference, petty enough to wield it like a club.
+
+Gerhard looked at my hair.
+
+He didn't mention it immediately. He spent forty seconds on pleasantries — the weather, the hall's decorations, a compliment about the ceremony's organization that was actually a criticism of the Crown's spending habits — before arriving at the point he'd been circling since he opened his mouth.
+
+"Striking, the hair," he said. He tilted his head. His eyes narrowed in mock consideration. "Quite the statement. The youth these days. Always looking for ways to distinguish themselves. A bit of rebellion, perhaps? A rejection of convention?" He smiled. The expression didn't reach his eyes. "Or is it something... medicinal?"
+
+The word medicinal sat in the air between us, loaded with implication. Disease. Deficiency. Something fundamentally wrong with the body beneath the uniform.
+
+"Who knows," I said.
+
+Gerhard's smile held. His wife touched his arm — a gesture so small it could have been accidental, but I read it for what it was: a signal to move on.
+
+They moved on. Others replaced them.
+
+The pattern was consistent. Each approach was an attack disguised as conversation. Each question was a blade wrapped in silk. They probed my background, my training, my appearance, my temperament. They were looking for the soft tissue beneath the uniform, the vulnerability that would confirm what they already believed.
+
+That I was an aberration. Someone who had stumbled into recognition through circumstance rather than merit. A name that had risen above its station and needed to be reminded of where it belonged.
+
+None of it was direct. Not one word could be extracted from its context and held up as an insult. The art of noble diminishment operated on implication, on tone, on the carefully calibrated space between what was said and what was meant.
+
+I kept my face cold.
+
+Ice over still water. The expression cost me nothing; it had been the default state of every interaction since the beach. The emotions that might once have risen to the surface in response to these provocations were buried beneath layers of scar tissue so thick that a dozen silk-wrapped insults couldn't reach them.
+
+I thanked them when thanking was appropriate. I deflected with single sentences that gave nothing. I met their eyes without flinching and held the contact until they looked away.
+
+None of them expected that. The boy they remembered would have wilted. The Kaspar of their memory was a creature that flinched and retreated and accepted the diminishment as his natural due.
+
+That boy was dead.
+
+I didn't need to ask why no member of my family was present.
+
+One of Roderich's men delivered the explanation with the bored efficiency of someone reading from a prepared statement.
+
+"The Archduke extends his congratulations," the man said. He didn't look at me while he spoke. His eyes were fixed on a point somewhere above my left shoulder, as if the wall behind me had done something more interesting than I had. "He regrets that the demands of his current responsibilities prevent personal attendance at what is, ultimately, a commendation of modest scope. He wishes you continued success in your service."
+
+A commendation of modest scope.
+
+The phrasing was surgical. Not a rejection. That would be too direct, too easily interpreted as a slight against the Crown that had organized the ceremony. Instead, a careful minimization. The Archduke acknowledged the event. He simply didn't consider it worthy of his time.
+
+The real message was beneath the words, where it always was.
+
+Roderich von Hexenzeit would not stand in a room and allow the court to interpret his presence as support for his firstborn son. Support for Kaspar was support for the Iron Cross. Support for the Iron Cross was support for Prince Varen. And Roderich's political position — whatever it was, whatever alliances the last several years had forged — did not include public alignment with Varen's faction.
+
+The chess pieces moved in patterns I could see but couldn't fully map. The released memories gave me the board's geometry — the houses, the territories, the historical alliances — but the recent moves were hidden. Years of political evolution that had occurred while Kaspar was in the Academy.
+
+For a moment, my temples throbbed. The invisible game playing out around me pressed against the inside of my skull. Every glance in this hall carried weight. Every conversation was a move. Every absence was a statement. The sheer density of calculation required to parse even a single interaction at this level of society was enough to make a soldier's head split open.
+
+I breathed through it. Let the pressure pass.
+
+Kasimir’s people were ghosts.
+
+They moved through the crowd at the periphery of my awareness, recognizable by the cluster of their colors and the particular restraint of their body language. They observed. They noted. They did not approach.
+
+Elara’s faction was not so patient.
+
+They came in force.
+
+The first was a lord whose name I recognized from Brauer's briefing — Baron Kessler, a mid-ranking noble in Elara's orbit, whose political survival depended on producing results for the princess's agenda.
+
+"A remarkable story," Kessler said. "Truly remarkable. The Chronicle's account was... vivid."
+
+He tilted his head.
+
+"Though I confess, some elements raised questions among those of us who follow these matters closely."
+
+"Questions," I said.
+
+"The refugees, for instance." His eyebrows rose in an expression of innocent inquiry that fooled no one. "The five individuals from the eastern continent. I understand you personally escorted them from the front to Grenzheim. Housed them. Oversaw their integration into the Iron Cross lodging house."
+
+He paused. Let the silence build.
+
+"And then they performed a ritual that nearly destroyed the southern front."
+
+The words landed in the surrounding space with the precision of artillery. Heads turned. Conversations at adjacent tables stuttered and died.
+
+"Refugees that you brought in," Kessler continued. "Sheltered. Trusted. And who turned out to be the mechanism through which the elves launched their assault."
+
+His eyes held mine.
+
+"One might wonder how the hero of the hour is also the man who delivered the weapon to the enemy's hand."
+
+My jaw didn't tighten. My shoulders didn't stiffen. The ice held.
+
+"The refugees were recovered from the no-man's-land under Commander Wendt's authority," I said. "Their care and housing were standard military procedure. The ritual they performed was implanted by the elves prior to their arrival. No intelligence apparatus on the front, including the Iron Cross, the Regular Army, or the Magical Army's own mage detachments, detected it."
+
+I held his gaze.
+
+"I disrupted the ritual. The defensive grid was restored. The front held."
+
+Kessler's mouth opened to press further, but a woman to his left — Lady Voss, another of Elara's inner circle, whose face I recognized from the briefing — was already stepping forward.
+
+"And the casualties?" she asked. Her voice was softer than Kessler's, which made it more dangerous. "The soldiers who died in the corridors. The civilians who were caught in the bombardment before the grid was restored. The four individuals who drowned when the cages fell."
+
+She knew about the cages.
+
+Of course she did. The Imperial Chronicle's follow-up articles had published the beach account in detail.
+
+"Every one of those losses is a weight I carry," I said.
+
+"Carry, yes." Lady Voss's head tilted. "But does carrying it absolve the decisions that produced it? You acted outside your orders, did you not? A soldier on mandated rest, operating without authorization, making tactical decisions that should have been referred to command."
+
+"If I had referred the situation to command," I said, my voice level, "there would be no southern front to discuss tonight."
+
+"So you say." Kessler again, pressing the advantage his colleague had created. "A soldier who cannot follow orders. A soldier who decides, unilaterally, which protocols to observe and which to discard. A soldier who isn't even a knight—"
+
+The word hung in the air.
+
+"—operating as if rank and chain of command are optional considerations."
+
+More heads turned now. The surrounding crowd had stopped pretending not to listen.
+
+"A private soldier," Kessler repeated, savoring it. "Who disobeyed a direct rest order. Who forged correspondence using an authority he does not hold. Who rode to the front without authorization and took unilateral action that could have gone catastrophically wrong. And who, by the sheer fortune of circumstances, happened to produce a favorable outcome."
+
+His chin lifted.
+
+"Is that the standard we wish to celebrate? Disobedience rewarded because the dice fell well?"
+
+The wall seemed at my back, not that I'd moved. But the conversation had shifted, pressing inward, compressing my options. Every response I could offer had been pre-mapped. If I defended the disobedience, I undermined military discipline. If I invoked the outcome, I conceded that the process was flawed. If I stayed silent, I accepted the characterization.
+
+Cornered.
+
+Before I needed to answer, the crowd parted.
+
+The movement began at the periphery and rippled inward, bodies shifting with the instinctive deference that only one category of person could produce. The ring of spectators opened. The noble vultures paused mid-formation.
+
+Prince Varen walked through the gap as if it had been built for him.
+
+His eyes were alive and looking for blood.
+
+They swept the scene — Kessler's aggressive posture, Voss's calculated softness, the ring of watchers, my position against the conversational wall.
+
+"Baron Kessler," Varen said. "Lady Voss. I trust you're enjoying the evening."
+
+The greeting was a formality that served as a warning. Kessler's jaw tightened. Voss inclined her head with perfect poise.
+
+"Your Highness," Kessler managed. "We were simply discussing the remarkable events at Grenzheim with the young hero. Raising some questions that, naturally, the public discourse has—"
+
+"Questions." Varen's eyebrows rose by a fraction. "About a soldier not being a knight. I believe that was the thrust of your inquiry."
+
+Kessler's mouth opened. Closed.
+
+Varen turned to face the wider crowd.
+
+"An interesting concern," Varen said. His voice carried across the hall with a clarity that silenced the string ensemble. "Who told you that Kaspar von Hexenzeit is not a knight?"
+
+The question landed in the silence.
+
+Kessler's face underwent a rapid series of adjustments. Confusion first. Then caution. Then the particular blankness that arrives when a political operative realizes he may have walked into something he hadn't anticipated.
+
+"Your Highness," he said carefully, "the individual's rank, as publicly recorded, is Runenträger. Enlisted class. The Iron Cross commission rolls do not—"
+
+"The commission rolls," Varen said, "were updated this morning."
+
+He reached into the interior pocket of his jacket and produced a document. Folded once, sealed with the royal crest in crimson wax.
+
+He didn't open it. Didn't need to. The seal spoke for itself.
+
+"By order of the Crown, endorsed by the High Command of the Iron Cross and ratified by the Ministry of War." Varen's voice was measured, each word given its full weight. "Kaspar von Hexenzeit has been accepted into the Knight Formation School."
+
+"Effective immediately."

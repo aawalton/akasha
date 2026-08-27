@@ -1,0 +1,201 @@
+---
+id: 64bbd2b0-06bc-57c4-81b5-b10eaac30f98
+page-type-slug: story-chapter-royal-road
+title: "Chapter 50: Big Fish eat Small Fish"
+slug: 0050-chapter-50-big-fish-eat-small-fish
+partOf: phoenix-ascension-cultivation-litrpg
+position: 50
+ownLength: 2782
+unit: words
+publishedAt: 2025-11-17
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2769917/chapter-50-big-fish-eat-small-fish"
+royalRoadId: "2769917"
+---
+
+To say that the thing in front of me was huge would be an understatement. Not only did it practically tower over me, its mouth, if opened wide, could basically swallow me whole. Yet, despite its size, I did not hear it approach.
+
+Its tail moved about curiously as it circled me. The giant feline had no trouble making itself smaller to easily fit in the constrained space, yet its actual size had not changed.
+
+“A lost baby? Where is your mother, chick?” Its rumbling voice echoed in my head like an earthquake through the earth. There was also no easy answer to its question. But if I told it the truth, would it eat me, or leave me alone?
+
+“She went hunting and left me here to play.” I replied as vaguely as I could, leaving much to the imagination.
+
+“Is that so? And why are you not in your nest?” Its green eyes stared me up and down, but I wasn’t sure if it considered me a snack or a plaything.
+
+“It’s boring, so I decided to get some snacks before she returned.” At least that part was true, and I had the evidence right in front of me.
+
+The giant feline gave me a few sniffs, the suction force almost making me lose my balance. “I see. I sense a strange Qi within you, what is it?”
+
+“Demonic Qi.”
+
+Its pupils shrunk for a moment before returning to a more normal shape. Nodding, it raised its head and looked down at me. “I assume your mother has some way to deal with that. Phoenixes are no pushovers.” It then snorted and walked away, its voice echoing behind as it disappeared into the shadows. “My name is Yo Na. Stay safe, funny bird. And watch your back in this forest, this territory doesn’t belong to you.”
+
+I gulped and nodded, then grabbed the carcass again after calming down. Hurrying up the mountain, I tried to avoid any spot with a lot of light, sticking to the shadows. Once I entered the cave, I ran as far back as I could and heaved a sigh of relief.
+
+The chilly wind blew against the closed walls. I quickly made a fire and started the work of peeling the fur off its body and trying to peck off the disgusting blood. It wasn’t easy, but the mindless process gave me some good time to think.
+
+That was close, but it seems like the Spirit Beasts in this forest aren’t out for immediate blood. At least, that feline wasn’t. Was this its territory? Was I lucky to have landed here instead of anywhere else? Did Mother know? There were too many questions, but I had no answers.
+
+However, since it agreed with my existence, as long as I don’t overdo it on the hunting, I should be fine.
+
+With that in mind, I had many other things to consider. Mother’s egg was currently sitting on my Qi Lake, but it was surrounded by Demonic Qi. The more time that passed, the higher the chances of me perishing, and Mother along with me.
+
+I had to get rid of this Demonic Qi urgently, but I had no idea how. Holy Affinity wasn’t easy to come by, and even if it were, I would need to unlock it and get a skill that could purify the Demonic Qi. It was a pain no matter how I looked at it.
+
+With my cultivation base stagnating, that meant that half of my strength was sealed away. The only thing I had were the Bloodline Skills. Which reminded me to take a look at the new ones I’d unlocked after my level ups.
+
+Bloodline Skills
+
+[Phoenix Fire: Expert]
+
+[Phoenix Reflex: Beginner]
+
+[Ember Step: Beginner]
+
+[Elemental Wave: Beginner]
+
+[Precise Flame Control: Intermediate]
+
+[Paralyzing Screech: Novice]
+
+[Burning Wind: Novice]
+
+[Flaming Talons: Novice]
+
+[Pyro Breath: Novice]
+
+These three skills I neglected to look at and examine in my rush had quite cool names. I could assume what each of them did, but I wanted to look at their description nonetheless.
+
+[Bloodline Skill: Burning Wind]
+
+[Create a gust of wind that rises in temperature during the duration of its usage. It enhances the destructive power of any fire within its area of effect, including enemy fire. The effectiveness of this skill depends on INT.]
+
+[Bloodline Skill: Flaming Talons]
+
+[Coat your talons with the power of the Phoenix Fire, making them deadlier than ever before. This skill increases your cutting power, talon attack speed and instantly closes the wound to avoid bloodloss. The effectiveness of this skill depends on INT and DEX.]
+
+[Bloodline Skill: Pyro Breath]
+
+[Shoot out a gust of fire from your beak. The fire can be of the user’s choice, but the highest effectiveness is with a Phoenix’s innate fire. The duration of the breath, its range and its strength depends on the user’s INT.]
+
+Woah, those were some really good skills. I instantly thought of a few combinations I could do. At the same time, I was worried that I would have too many skills, which was a little redundant. Considering that I couldn’t even use Qi anymore, and the usage of Active Skills would use what little I had, relying on my Bloodline Skills and Passive Skills was the best choice. However, my current skills ranks were low, so the best thing to do would be to find a way to get them higher. The faster the better.
+
+One thing I thought of was that the description did not mention if Fire Affinity had anything to do with effectiveness of the skills, but then again, neither did it mention that the rank of each skill would make them stronger.
+
+Was that something I was meant to figure out?
+
+System didn’t say anything, so I assumed that was a yes.
+
+With those skills in my arsenal I would have a higher chance to survive. I doubted every beast in the forest was as big and strong as that feline,Yo Na, whatever her name was, whose species I didn’t even know and whose level I couldn’t gauge. It probably went through more than one evolution, which means that its level was at least twenty.
+
+But that was on the low end. I myself was really close to level twenty, and my instincts told me that if we fought, I wouldn’t be the one to come out on top. And with that in mind, I couldn’t help but wonder what sort of evolution I would have next.
+
+The first time around, I had so many choices, it was hard to decide. In the end, I felt like Elemental Phoenix was the right way for me to go, but I wasn’t sure why.
+
+And besides some fancy skills, all I got was a useless water affinity that I couldn’t even use! Not to mention my beautiful tail feather had dimmed in color. It should be a crime to make such a beautiful thing so ugly for no reason!
+
+And what’t this about, I’d gotten so many skills, but none were water-based! Was the chance of getting a skill upon level up related to that? Lame! Lame! Lame!
+
+I wanted to start using my evolution already. It seriously felt like I picked the most useless one…
+
+Alright, calm down, Fa Xiaolan, calm down. One thing at a time.
+
+But water made me think of the little koi fish. I hope she was alright, and did as I told her. I didn’t know how much time had passed since then, but hopefully not too much. I was worried that once the sects found out about her, she would meet a fate worse than death.
+
+Such an intelligent koi fish was hard to come by, and it had the potential to become a dragon. If I had known this would have happened, I would have given her more things, but I was sure she could manage just fine.
+
+I took a deep breath and used Burning Wind to warm up the cave a little more, blowing the cold air out at the same time. That also helped me get rid of the disgusting bits on the fur, and finally, it was time to rest.
+
+When I woke up, it was fairly early in the morning. The sun had just risen, but my stomach was already growling. That was probably in no small fault due to the fact that I’d forgotten to turn off Burning Wind. It ate through my stamina like crazy.
+
+The small amount of meat and Qi the boar gave me had gotten used during the night, with the skill turning off when I’d ran out. Not to mention that I still had plenty to grow. Even with the evolution, I was still a chick who used up a lot of energy to grow.
+
+It was time to hunt.
+
+Quietly leaving my cave, I avoided the area where I’d last seen that Yo Na fella, hoping to never see it again. Since eating elemental-based animals would give me affinity toward that element, as small as it was, I decided to head to the river.
+
+The closest water area wasn’t all that far from where I was. However, it was close to a human settlement. It wasn’t one of the big cities, but a series of smaller villages tied together via a set of pathways.
+
+The journey there would be treacherous. Treacherous because I had no idea who or what I would meet. As far as I should be concerned, everything in this forest could and would eat me.
+
+On the way there I’d found a few more tusky fire boars, which I killed and ate. Their cores didn’t give me anything, which left me disappointed, but I’d gotten two more percentages in my fire affinity.
+
+The energy they gave me also filled me a little. I couldn’t tell for sure, since I didn’t have any indicator, but going by feeling alone, it felt like a quarter of the way full. It wasn’t a lot, but it was better than hunting on an empty stomach.
+
+Soon, I heard the coursing water of the river, and I lay low to inspect the area. I couldn’t sense any danger, but it was better to be safe than sorry. I waited by the riverbank, watching the fish pass by.
+
+Most of the time, the river was empty, but there were banks of fish that would show up from time to time. If I had to guess, such a spot would be a great hunting ground for some other Spirit Beasts.
+
+If I were to catch them hunting and kill them while they were vulnerable, then I would have an easy and almost effortless kill.
+
+The mantis stalks the cicada, unaware of the oriole behind, and all that.
+
+I would wait until noon, and if nothing truly showed up, I would have to resign myself to my fate. I really doubted that the small fish could give me anything, considering the tusky fire boar only gave me one percent affinity. So if I couldn’t catch something bigger, then it would be a waste of energy.
+
+And so, time passed. Minute after minute, hour after hour, and nothing happened. The fish were going about their day, and some boars had even passed in front of me.
+
+There were also a few other Spirit Beasts that came to drink from the river, but none that I cared about. Eventually, the sun had risen midway, and I was starting to lose hope.
+
+But it was then that something below the water surface moved. I didn’t peer in to get a closer look, but I heard the violent splashes. The fish swam around frantically, trying to avoid whatever it was that was hunting them.
+
+The creature lunged toward the surface, breaking the thin water barrier and swallowing an entire bank of fish in one gulp. When I saw the thing, it almost reminded me of a river dragon. It had gills and the beginning of a crown around its neck, but it hadn’t gotten to that point yet.
+
+A high level monster.
+
+However, weaker than Yo Na, and closer in strength to me. It would be a tough fight, but after assessing my advantages, I decided to take the risk.
+
+Just as it swallowed its prey, I Ember Step’d out of the bush, leaving a trail of fire behind me. Activating Burning Wind at the same time that I leaped from the riverbank and activating Elemental Wave. Using Flaming Talons, I aimed at the creature’s throat.
+
+A paralyzing screech made it unable to react in time. Burning Wind and Elemental Wave arrivied at the same time as my talons connected with its scales. There was a bit of resistance at first, but after a moment I cut through.
+
+[Skill: Assassination(Novice) has been acquired.]
+
+Blood gushed out of its neck for a second, dying the river water red. However, the effect of my Flaming Talons cauterized it, stopping the bleeding. That was too bad, as letting it bleed to death was part of my plans.
+
+I landed on the opposite side, and dodged out of the way as a water jet destroyed the ground where I once stood. Its screech of pain never arrived, no doubt due to the fact that everything had happened so fast.
+
+However, I had to give it credit, it reacted fast. If I hadn’t used Paralyzing Screech, it would have been able to dodge my sneak attack without any issue.
+
+But I dealt quite a considerable amount of damage thanks to it, and thanks to the new skill I had just acquired.
+
+I would have loved to check it out, but a big serpent had begun chasing after me on land. As it turned out, it wasn’t only a good swimmer, but also a good slitherer. However, my dexterity was nothing to scoff at.
+
+And neither was it, as it caught up to me far quicker than I would have expected. Left with no other choice, I climbed up a tree and used Pyro Breath as I turned around. It hadn’t expected that attack, and even though it managed to dodge, some amount of fire had still hit its body. That time, it let out a pained screech, but nothing more.
+
+It shot a water beam in retaliation. It reminded me of the little koi fish’ skill, so it wasn’t all that far-fetched to say that they were related in some way.
+
+I jumped down just as the branch I stood on got blown to bits, and used Ember Step to create a wall of fire. Burning Wind activated once again, and the temperature around me began rising.
+
+In a few seconds, blades of grass, bushes and leaves wilted and caught on fire, while the wall of flames left behind by Ember Step became taller and stronger.
+
+The water snake roared as the water on its body instantly evaporated, and I took the opportunity of its suffering to create another Elemental Wave.
+
+It was a great mistake for it to chase me out of the water. I bet it was a foolish overlord of the small area, and nothing had given it trouble for some time. It gained courage, and thought that a small orange bird posed no threat to it.
+
+‘It only managed to hit me because it used a hidden attack. Otherwise, I would have never gotten hit.’
+
+And it was probably right, any normal orange bird would not have been able to land a hit on the thing, even if it was a Phoenix.
+
+But who was I? I was Fa Xiaolan, Mother’s Little Flame!
+
+I poured more energy into the Burning Wind, though it was rapidly eating away at my energy.
+
+However, that was the push I needed for the water serpent to be completely dehydrated, and I killed it with a few well placed strikes of Flaming Talons.
+
+[You have slain Water Serpent Lvl 22]
+
+[XP Acquired]
+
+[You have Leveled Up!]
+
+[Elemental Phoenix Level 18 has become Elemental Phoenix Level 19.]
+
+[Skill: Water Shot(Novice) acquired.]
+
+Finally! I sighed and brushed off the notifications for the moment. I was starving and needed to recover some of my energy.
+
+However, just before I could start, a rustle caught my attention. From one of the nearby wilted and burning bushes, walked a small girl that looked no older than nine years of age. She held a basket of dried fruit, and her complexion wasn’t looking too good.
+
+I immediately turned off all my skills, but it was too late, as she let out a tiny cough and collapsed on the similarly scorching ground.
+
+“Oh what the fuck!”

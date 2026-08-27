@@ -1,0 +1,175 @@
+---
+id: c347f7b5-2a30-5e2d-996f-2554c6e8625a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 396 : Endless Slime"
+slug: 0098-chapter-396-endless-slime
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 98
+ownLength: 2374
+unit: words
+publishedAt: 2026-06-29
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3605894/chapter-396-endless-slime"
+royalRoadId: "3605894"
+---
+
+"Master, you've really pulled us into quite the mess," Sylbera said as she examined the situation.
+
+"It's just a few golems, we can smash them up and head home," Sylvain said confidently.
+
+"I was really hoping to learn more about enchantments from here; this is quite the unfortunate situation…" Sylvester sighed.
+
+"Imagine how I feel, now my appearance is compromised… I hope Paeris doesn't blame me," Sylthaeryn whined.
+
+"Hey, quit bellyaching and get to work!" I ordered.
+
+My four personas collectively nodded and then also charged forth, meeting the four golems head-on.
+
+A pair of gauntlets appeared on Sylbera, followed by her taking out a massive warhammer far too large for her dwarven size. She swung it with ease at the golem, who tried to block it with a shield before being sent reeling backward.
+
+Sylvain began casting spells, as half a dozen orbs of water floated around him. It didn't stop there, as suddenly each of the orbs began firing out [Waterjet] spells in succession. The golem tried to dodge at first, but soon the barrage of spells started lining up to push it into the path of another. Despite being hit, the golem seemed to tank the hits quite well, causing Sylvain to click his tongue in annoyance.
+
+Sylvester activated [Glacial Aura] and, rather than direct attacks, began casting icy afflictions on his target. [Frigid] and [Frostbite] were dangerous combos, and both were channeled through [Frost Grasp], allowing him to skip the aiming portion of the equation. The female-looking golem that was his target began visibly slowing, with ice crusting over its skin.
+
+Sylthaeryn, on the other hand, was not so lucky. She fired acidic slime arrows at the golem, but they all bounced off harmlessly. Seeing their ineffectiveness, she quickly swapped her ammunition for something else, explosive arrows, but even those highly compressed explosions didn't even phase her opponent.
+
+"What the hell?" Sylthaeryn cried out.
+
+"Oh, right, information update," I realized and sent over everything that had happened through [Split Personality] to the four of them.
+
+"They're immune to acid, explosions, and fire… You've basically crippled me!" Sylthaeryn shouted.
+
+"Hey, you've still got [Nature Magic]," I reminded her.
+
+"Damn it, I'm supposed to be an archer, not a mage…" she grumbled, but still swapped her focus.
+
+Roots and brambles broke through the ground, unhindered by the slimy terrain as it welcomed them to the surface. At the same time, I could sense that she was searching through our [Core Storage] for seeds, plants, or anything else she could grow into weapons.
+
+"Why not just use metal arrows?" Sylbera suggested. "We have endless alloys, so even if they adapt, we can change the formula."
+
+"Or ice," Sylvain added.
+
+"Don't use ice! If they become immune to that, what am I supposed to use?" Sylvester complained.
+
+I couldn't help but chuckle at my four personas working together, even if it sounded like bickering. At the same time, I knew they were right; depending on how the golems eventually became immune to our attacks, we needed to take that into account.
+
+I wonder if debuffs can remove the immunities they've gained?
+
+It had been a while since I really used debuffs, as most of my enemies weren't worth the effort. However, with a horde of golems, it looked like spreading a plague was the ideal outcome.
+
+[Contagion], it's finally time for you to shine!
+
+Since I was letting my personas fight the golems, I put myself in a more supportive role for now. I gathered the spare [Sub-Cores] that weren't being used by the personas and started working in tandem to cast as many debuffs as possible. With Sylthaeryn struggling, we decided her golem would be patient zero.
+
+To my unfortunate surprise, I learned that the golems were highly resistant to afflictions, but after repeated castings, we eventually managed to get the first batch to stick. [Hexed] was what caused the breaking point, and from there, the rest began stacking.
+
+I wonder if he made them debuff-resistant after I fought the golem back in the Adventurers Guild?
+
+I got to see in real time how Sylthaeryn slowly began to gain the upper hand. Attacks that were previously entirely ineffective now dealt some damage, although after observing a few blows, it seemed to be regaining that immunity.
+
+Do they just constantly get better at overcoming damage? How is that fair?
+
+There had to be a limit, but whatever it was, we had not yet reached it. At least the adaptation seemed somewhat slow, as Sylvain and Sylvester were having no trouble with water or ice, and Sylbera's opponent showed no sign at all.
+
+Is it limited only to magical damage? I suppose if it included physical damage, that would be way too much. Then again, they are golems; physical defense is their specialty, so it's not much of a saving grace.
+
+"Well, aren't you just full of surprises…" Keldenar said.
+
+It looked like he had fully recovered from the poison and was observing the clash between our four combatants. It appeared we were slowly gaining the advantage, but that was when Keldenar began sending in more golems.
+
+"Let's see what you'll pull out when you're pushed against the wall," he chuckled.
+
+Seeing more golems rush in was frustrating, and Sylbera and Slythaeryn tried to even the odds by adding their own combatants. Sylbera surged with earth Mana and summoned a granite colossus that she sent barreling towards the golem fodder. Slythaeryn reached into storage, and I saw her pull out branch trimmings that looked oddly familiar.
+
+Wait, are those from Logan?
+
+Slythaeryn was our dedicated gardener until we found someone better, so she must have done some pruning for Logan. I didn't think a spirit tree would need trimming, but maybe he was treating it like a haircut. Regardless, the branches had a great deal of supernatural life far beyond that of ordinary plants. When it made contact with her [Nature Magic], she spawned several treants from effectively nowhere.
+
+"And here I thought I was supposed to be the one who could pop out an army from my ass," Keldenar commented. "First, you summon four slime lords, and now two of them can also summon? What's next?"
+
+There was visible excitement in his eyes, and unfortunately, he seemed desperate to push us to extremes. More golems started being sent in, and not just cannon fodder this time. Fortunately, the more numbers he sent in, the more I could spread everything with [Contagion], but even with all the debuffs flying around, it was not looking good.
+
+I started controlling the slime terrain to attack with tendrils and other monstrous bits, giving us an advantage, but the golems didn't stop coming. Keldenar seemed determined to continue this battle of attrition, which, if we could work out the issue of numbers, would work in our favor.
+
+With the slime terrain, anything he kills just gets recollected. His golems don't seem capable of destroying my slime outright, and if he doesn't touch our cores, he can't hurt us. I need a slime monster army, if only my [Dungeon Master] Emblem was working…
+
+I even secretly pulled out the CUBE, but it still showed as pending. Then, while I was watching Sylbera and Sylthaeryn command their minions, I suddenly had a moment of inspiration.
+
+Wait, I don't need to be a [Dungeon Master] to control monsters. Apex monsters do that all the time. What if… I create a new persona or two, that's just a monster controller? Could it command a pack of slime monsters for me as a sort of general?
+
+With a domain of slime, much like my slime tower dungeon idea, I could create monsters from the ground rather than just tendrils. The only issue was that manipulating them was somewhat taxing, which is why it was usually better to just stick to tentacles.
+
+It's worth a try. He's not capable of hurting me at the moment. Not to mention, I've finally realized I can dig through the ground to escape. But he's triggering my [Apex Hunter], so let's at least milk the situation for some proficiency experience.
+
+Using information from [Consuming Osmosis], I quickly threw together a makeshift "blade wolf" persona. Its only personality trait was to lead a pack of wolves against my foes; it didn't need to feel or talk, only to instruct the troops. Once that was done, I activated it through one of my [Sub-Cores] and watched the magic happen.
+
+Delta was the lucky core, and it quickly formed itself a body. Naturally, it didn't stick to the barebones blade wolf and enhanced itself [Metal Slime] to give it unnatural resilience and increased its size. Then, around it, multiple smaller wolves began to form; they were effectively smaller duplicates of Delta, and once it had filled out its squad, they charged at the golems.
+
+"Master, that's a brilliant idea!" Sylbera cheered.
+
+"About time we got some reinforcements," Sylvain grunted.
+
+Against the elite golems, these wolves were ineffective. If they weren't immune to acid, they could have won through sheer slime power, but now they had to fight with bodily strength and mimicked monster parts.
+
+However, what they lacked in power they made up for in tenacity, and since the majority were pure slime constructs, even if splattered into slimy giblets, they could reform without issue. Delta seemed to realize its squad of wolves was ineffective against these golems and simply left them. The golems couldn't stop them as they surged across the slimy terrain and went to assault a pack of weaker golems.
+
+Seeing how effective that was, I wonder what other pack monsters I could create. I recalled my previous battles and recalled one monster in particular that had its own generals and soldiers—the ant princess!
+
+And it even had traits for boosting its troops. Would that work on slime minions? It's worth a shot!
+
+I grabbed the next available [Sub-Core], Eta, and crafted a quick ant princess persona for it. While in the process of selecting its traits to borrow, I even received an incredibly welcome upgrade.
+
+<Proficiency gained. [Chimeric Mimicry LV 8] improved to [Chimeric Mimicry LV 9].>
+
+My flexible trait budget was now a whopping eighty-one points; it felt like I could grab whatever traits I wanted without a care in the world as long as I didn't cap them all at their new maximum of level nine.
+
+My ant-princess persona was now ready, and I sent Eta out to fight. I had expected Eta to make royal guards, but it seemed only capable of making regular warrior ants if I wanted reasonable numbers for their swarm. And boy, could that slime ant make a swarm as soon as there were nearly a hundred warrior ants charging into battle. I was genuinely shocked by their number; I hadn't expected Eta to be able to make that many.
+
+Does the species I'm mimicking matter that much? I guess that means my dream of a legion of slime worms would probably only get me one or two…
+
+Watching Eta's ants swarm the field was quite the sight, and it appeared the various buffs were, in fact, working. Sure, there was a lack of those powerful royal guards, but maybe I could create another persona to be them?
+
+I can duplicate the personas, but it was very uncomfortable for them. But, if it's something like a dumb ant, maybe that's fine? They'd fall under the princess's orders anyway…
+
+I was right in the middle of brainstorming how to improve my slime monster army further when suddenly every single golem on the field vanished. I was startled, but then I heard clapping and saw Keldenar above me, standing on a floating platform.
+
+"Honestly, I'm thoroughly impressed. I thought I was undefeatable if I was hunkering down, but you really take the cake," Keldenar praised. "No matter how many slime monsters I break, you just put them back together, unless I can find your core."
+
+I felt a chill. Had he actually found my core?
+
+"Although you seem to have multiple cores… Are they fakes? Are you multiple slimes together? Honestly, I have no idea…" he admitted, shaking his head.
+
+"So you're letting me go?" I asked through a crudely formed body without a core.
+
+"I don't think I can genuinely stop you, even if I wanted…" he replied. "But I do hope you won't leave."
+
+"You might as well hear him out, Master," Sylbera said to me.
+
+I sighed. "Give me one good reason why I should listen to you. You literally attacked me."
+
+"I think we'd make good allies, don't you?" he asked with a smug grin.
+
+"Sorry to offend, but I don't believe you… Why would you ever trust a monster?"
+
+"Well, not only are you probably the first intelligent slime ever, a miracle in itself, but you seem to be pretty sane to me," Keledenar answered. "After all, why did you run away instead of holding my city hostage? With your purple and orange slime powers alone, you could have threatened everyone there."
+
+"I wouldn't do that, that's—"
+
+"Evil?" he interrupted.
+
+"Sure, let's go with that," I sighed.
+
+Keldenar nodded. "See? That's exactly my point. If you're already a tier-five monster, and you can't even bring yourself to using hostages to save your life, then aren't you trustworthy?"
+
+"..."
+
+"Also, there's a lot of stuff even I can't see in your profile. Considering I have [Eye of Truth], which is like [Identify] on steroids, that must mean you're involved with the gods, just like me."
+
+"You did mention that…"
+
+"And you are somehow actually allied with the elves, like for real. I thought you were just a doppelganger or something, but that [Branch Head] Emblem can't be faked. I have to, at the very least, assume the elves aren't dumb enough to give that to a slime without knowing."
+
+Sylthaeryn nodded before I could answer.
+
+"Also… And maybe this is a bit of a stretch, so forgive me if this is a bit rude, but…" Keldenar paused and awkwardly scratched his head. "Screw it, I'll just say it, consequences be damned," he nodded decisively to himself and then dropped his bombshell of a question.
+
+"Were you originally a human?"

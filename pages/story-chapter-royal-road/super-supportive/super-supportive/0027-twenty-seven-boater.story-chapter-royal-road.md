@@ -1,0 +1,363 @@
+---
+id: 4188fed1-b519-5037-8808-9087bc8d4e44
+page-type-slug: story-chapter-royal-road
+title: "TWENTY-SEVEN: Boater"
+slug: 0027-twenty-seven-boater
+partOf: super-supportive
+position: 27
+ownLength: 4611
+unit: words
+publishedAt: 2023-03-30
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1152327/twenty-seven-boater"
+royalRoadId: "1152327"
+---
+
+They took their lunch break during what felt like early afternoon to Alden. Sophie said the way humans sat around a table and ate food other people had slaughtered for them was disturbing, and she wouldn’t come with him to the dining area.
+
+<<Tonight while you are sleeping I will be in the jungle, hunting and butchering my own meals because I’m not a child.>>
+
+“I just eat plants these days, so there’s not much opportunity for butchering.”
+
+The grivek snorted.
+
+Joe was skipping, too. He was busy playing with all the devices the examinees had made, trying to decide which were worthy of a passing score. The lucky few would come back for a brief session this afternoon to perfect their contraptions with his guidance.
+
+“Pick up a to-go basket for me, though!” he said. “I want one of everything. And plenty of napkins.”
+
+Alden assumed he wanted the food wrapped so he could add it to his pocket hoard.
+
+The System provided Alden with a helpful map to the designated lunch spot, and the long walk from the basement lab by himself was a relief. It was the first time he had been alone since he’d affixed his skill. It gave him enough space, finally, to process a few of his new experiences without being interrupted.
+
+He strode down the hallway, his footsteps echoing off the concrete walls, and tried to sort himself out. The first thing he realized was that he was emotionally scrambled. He’d been jumping from one bizarre event to the next so fast, he didn’t know what he felt about it all.
+
+He was in a high-stakes setting full of total strangers, and he’d been reacting to everything without really thinking it through. He needed to ground himself, so he started by trying to address the problem that freaked him out the most.
+
+Knowing he couldn’t refuse to follow quest-related orders was bothering him way more than he’d ever imagined it would.
+
+Nobody had even given him a command he would have objected to yet, with the possible exception of the instructions to take the various pills. But he still felt trapped. The very fact that people like Joe and Bti-qwol could control him made it hard for him to behave normally around them.
+
+Or maybe his personal normal in this situation was vastly different than he’d assumed it would be.
+
+I didn’t expect to be scared of them.
+
+It wasn’t just nerves, though he’d tried to tell himself so several times.
+
+It was fear, and it had made him hesitate to seriously argue with Bti-qwol when she shoved him onto the medical team. The fear was also why he had passively handed the frog over for execution when he probably didn’t need to.
+
+The professor was better, but even there, the relationship was tilted. Alden had been so hyper-alert during the lab session that he felt exhausted now, and his vigilance had less to do with the students potentially creating clouds of toxic gas than it did with the fact that he was trying to anticipate Joe’s every random word and frenetic action.
+
+He sighed and placed his palm against the activation panel for the elevator. I don’t like this version of myself.
+
+How was he supposed to be a superhero when he couldn’t even have a heated discussion with one overzealous personnel manager?
+
+Well…maybe it isn’t that bad. I could deal with her now, couldn’t I?
+
+He was pretty sure he couldn’t convince Bti-qwol to see reason if she appeared right this second, but he did think he could talk to her more naturally.
+
+And he could tamp down at least some of the unwanted fear by reminding himself of all the reasons he hadn’t felt it before.
+
+Getting summoned was something most Avowed looked forward to. He would have been, too, if he’d had just a few days to settle into his new powers first.
+
+You had to do the work, but the work wasn’t terrible. The contract didn’t recommend you for jobs you were completely incapable of, and the Earth-Artona agreement included all kinds of concessions to human morality.
+
+Alden wouldn’t be subjected to dangerous experimentation or deprived of the things he needed to survive. Nobody could harvest his organs or beat him or force him into their bed. Almost everything that most humans would have a serious problem with was covered.
+
+The most obvious exception was that he could be asked to fight and die to protect citizens of the Triplanets. It was called the Interdimensional Warrior’s Contract for a reason, after all.
+
+The Artonans’ mother planet, Artona I, and some of the resource worlds had a demon problem. It was contained-ish according to the rare bits of info that filtered down to regular people like Alden. But sometimes there were disasters, and Avowed got thrown in front of them.
+
+That was most likely what had happened to Hannah.
+
+The scariest thing about being summoned was the possibility of being taken to a battlefield. And that wasn’t something that many B-ranks should expect. Especially not teenage Rabbits who didn’t even have a grip on their skills.
+
+So he could dismiss that concern. And beyond that…
+
+What’s the most horrible thing that Joe could possibly ask me to do? Clean an alien toilet?
+
+Might fall under hazardous waste disposal. Sounds like an honest day’s work.
+
+Hold a bomb? Already did it.
+
+Hold an even worse bomb that’s only a nanosecond away from exploding?
+
+Well, yeah. That’d be bad. How would I offload the thing into the teleportation alcove without dying?
+
+So that was the worst case scenario, and even then, the Artonans would presumably try to keep him from going boom. Dead humans couldn’t be a good look for LeafSong University.
+
+By the time he’d made it to the upper floors, Alden was feeling more settled. And he’d talked himself out of several of his most pressing discomforts by simply calming down and thinking.
+
+The sleeping pill thing, for example, was really obvious when he finally remembered that the days here on Artona III were a different length than they were on Earth. They should be a bit over twenty-six hours long, and the Artonans who lived here measured time in increments that were not quite half hours…there were 54 of them in a day, weren’t there?
+
+Curious and with no clocks in sight, he decided to talk to the System.
+
+“Hey, what’s the local time? Approximately. And what time is it back home?”
+
+[Approximate local time is 28 o’clock.
+
+The time in Chicago, Illinois is 1:43 PM.]
+
+Now he knew that good old Chicago was currently pretty well synched with Artona III time, though that was just a coincidence, and it would shift as the twenty-six hour day rolled over.
+
+Of course everyone is cool with the sleeping pills. I’m probably going to love them, too, if they do something to mitigate perpetual planetlag.
+
+He wondered if he could do with less sleep now that he was an Avowed. He doubted it based on his stats. Maybe if he had been able to add more to stamina and processing….
+
+It was only twelve days, so he assumed the pills would hold him together and then he’d crash once he made it home.
+
+He entered the same room where the welcome breakfast had been held this morning. It looked like it was usually a study space. Large windows overlooked the forested hillside and the campus below them. There were armchairs in the corners and low tables surrounded by plush cushions in the middle of the room. A pair of beautifully carved drafting tables with tall stools stood against one wall.
+
+A dozen people, half of them humans, were eating their lunches.
+
+The humans were all sitting together at the same low table. They stopped talking when he entered, but there was no blatant hostility as far as he could tell. And the medical team was absent, so he wouldn’t have to deal with the asshole who’d called him “pet.”
+
+He thought it was a perfect opportunity to show he hoped to get along with everyone, so he made sure to smile and give a small wave toward the assortment of adults.
+
+A woman with red streaks in her dark hair waved back, and an old guy in glasses nodded.
+
+One in three isn’t great odds, he thought. But it’s better than nothing.
+
+He only had thirty-two minutes left for this lunch break. There was an annoying semi-transparent timer hovering just above the center of his vision as a reminder. He decided he’d use the time to at least try to learn everybody’s name and job.
+
+He headed over to the food.
+
+It was confined to a single table, and it was a much simpler spread than the remains of the breakfast feast he’d seen that morning. Small rectangular baskets stood in a neat row at the back. He grabbed one for Joe and almost dropped it in surprise when he felt the minuscule mental strain that meant his skill had activated.
+
+When he failed to take a step, the skill faded, so he started pacing. The professor was still targeted; Alden could see a white dot to indicate his general direction at the bottom left corner of his vision. And the last thing he’d said was that Alden should grab him a to-go basket. But that was several minutes ago, and Joe was all the way down in the basement.
+
+This is great! Alden thought. The fact that he could be entrusted with something that wasn’t even in the same area as his target was amazing. There had to be some limit, didn’t there? He couldn’t just have someone tell him to pick things up through a phone call from miles and miles away probably. But this was much further than he’d imagined.
+
+Could I have picked up any basket I found on my way here? Or only these, since Joe must have had these ones in mind specifically? And do I have to be near Joe when he tells me to take it?
+
+Walking around anytime he had something in his hands was rapidly becoming a habit, so he barely noticed he was striding back and forth in front of the food table over and over until someone said, “New kid, there are treadmills in the gym if you have that much extra energy.”
+
+It was the woman with the red streaks.
+
+Alden stopped. His coworkers were staring at him. He was grinning like an idiot and carrying an empty basket around the room.
+
+“Sorry,” he said. “I’m still figuring out my skill.”
+
+“We thought you looked really young,” she said, tucking a strand of red-streaked hair behind an ear. “I’m used to being the baby in the group, and here you come along.”
+
+“You’re at least a decade older than him, Naya,” said a woman in an apron sitting across the table from her. “Nobody here thinks of you as the baby of the group.”
+
+“Shut up. I’m twenty-five in my heart.”
+
+Alden blinked. “That would still be a decade older than me.”
+
+Naya had a hand to her chest as if he’d delivered a blow. Her friend in the apron raised an eyebrow and turned around on her cushion to look at him. “You’re fifteen?”
+
+“I’ll be sixteen in a month.”
+
+<<You’re not an S, are you?>> asked a balding man sitting on the cushion beside Naya. He was speaking Spanish.
+
+“No. I’m a B.”
+
+They all exchanged glances.
+
+Alden had no idea why his rank even mattered. “I’m Alden, by the way,” he said as he started double wrapping food in napkins for the professor. “It’s good to meet you all.”
+
+“Yeah, you too,” said Naya. “B is higher than the rest of us. We’re mostly D’s. Some C’s.”
+
+“Sophie is a B…I think,” said Alden.
+
+“Who?”
+
+“The grivek I’m working with. The professor in charge of labs decided I should call her Sophie, and she seems cool with it.”
+
+“How can you tell through the helmet?” one of them muttered.
+
+All the foods on the table had helpful identification cards with little stick characters on them to indicate what species they were safe for. Most included a small human/Artonan shape, but thanks to Gorgon’s little gift hard-passing on every other thing he touched, Alden’s choices for his own lunch were limited.
+
+He grabbed a giant mushroom cap stuffed with salad and a couple of egg roll lookalikes. There was a dispenser of steaming wevvi, of course, but he ignored it in favor of a cooler full of drinks from Earth.
+
+He’d never been happier to see a bottle of orange juice in his life.
+
+“Manon brings those with her every year,” Naya said, watching Alden grab the juice. “They’ll be gone by the end of the week.”
+
+“Oh. Is it all right for me to have one?” He’d just assumed they were provided by the aliens.
+
+“Sure. Manon brings them to share. But if you try to steal from her coffee pot in the dorm, you’re a dead man.”
+
+“Noted.”
+
+Alden resisted the urge to go sit by himself and headed for their table. The old man with the glasses and the woman in the apron scooted over their cushions to make room for him.
+
+“Manon’s a Rabbit,” said the apron lady, staring at him a little too intently for his comfort.
+
+“Is she the woman with the all black clothes? I saw her at the orientation.”
+
+“Yeah. She’s been doing housekeeping for this event since the dawn of time,” said Naya.
+
+<<Twenty-three years. She got a lot of us our jobs.>>
+
+“I got mine through a rec from Pineda.” Naya was sipping from a soda. “They’re the two old hats at this. So I’m sure you get why everyone was unhappy to see some rich kid walk in off the street and replace one of them.”
+
+Alden almost choked on his egg roll. “I’m not a rich kid!”
+
+“Manon said your gear cost like four hundred thousand Argold.”
+
+Oh right. They can just check the Wardrobe. Alden felt his face heat. “I couldn’t afford something like this until recently. Really recently.”
+
+Day before yesterday recently.
+
+“Rabbit thing working out for you in a big way, then?” the man in glasses asked.
+
+“Kind of.”
+
+He wasn’t about to say it was the Velras that were working out for him. A couple of people already had sour expressions on their faces.
+
+The woman in the apron sighed. “It’s just hard to swallow. We all got our yearly invite for this event a couple of weeks ago. But a few people who usually made the list didn’t this time, and then when we got here, we hoped we could talk Markee into letting them come, but she’s retired.”
+
+“That’s the Artonan who used to be in charge of foreign staff for the university,” said Naya. “But now they’ve decided to give students the chance to use events like this for extra credit projects or whatever.”
+
+“It’s bad for our boater.”
+
+“The students don’t understand how we do things.”
+
+<<If the faculty weren’t so used to having us around, Bti-qwol would probably have an entirely different staff this year. We’d all be out of a job.>>
+
+They were all looking at Alden like they expected him to add something to the conversation, but he didn’t know what. And what the heck is a boater?
+
+From context, he assumed it was their group, but beyond that…
+
+“Is a boater an Anesidora thing?” he asked finally. “I didn’t grow up there.”
+
+“Oh I don’t think it’s just an Anesidoran word, is it?” Naya asked the table.
+
+<<It is,>> said the Spanish speaker. <<I never heard it before I moved to the island.>>
+
+Alden turned to him.
+
+<<It’s a group that works together to make sure its members keep good jobs,>> he explained. <<Ours is built around this event and a couple of smaller ones. We don’t mention this posting when we’re talking to outsiders. And when a new position opens up here, we recommend another member for it. It only works when you’ve built up trust with the person in charge of summoning, though.>>
+
+“I can’t believe you’ve never heard of it,” said Naya. “But anyway…yeah. Our boater will fall apart if they keep letting students have the personnel management role. They’re all going to summon whoever the System recommends for a position, instead of asking us who we’d like to work with.”
+
+Awkward. But if they were just worried about keeping their plum gig a secret, that was fine. It wasn’t like Alden had anyone to tell about it anyway. “I won’t mention the job to anyone.”
+
+“That’s good,” said Naya. But she was still looking at him like she was waiting for something.
+
+“Uh…is everyone here in the boater except for me, then?”
+
+“Oh yeah!” she said brightly. “All of us are. And the lortch are sort of affiliated. Only for this event, though.”
+
+So not everyone. Only the humans and the lortch. Maybe it was too expensive to coordinate with other species regularly.
+
+Alden waited for the adults to either invite him to join their super secret job club or tell him that they were sorry he wasn’t a good fit because his skill overlapped with Pineda’s. He didn’t particularly care which they chose, but he expected them to do one or the other. It was the natural thing after informing him that he was the odd one out, wasn’t it?
+
+But they just kept exchanging glances with each other.
+
+What is it?! he thought. I’m right here. I’m not psychic.
+
+His lunch timer was ticking down, so he shoved another egg roll into his mouth. Whatever was in them tasted a lot like steak, and he was determined to eat as many as he could before he had to go.
+
+Maybe they expect me to apologize? he realized. That wasn’t really reasonable, since Alden couldn’t help being summoned. But it didn’t cost him anything, and he didn’t want conflict during the next twelve days. He’d take any olive branch he could get.
+
+He swallowed. “I’m sorry about Pineda. I’m not confident I’m the right fit for the medical team anyway. I don’t have any experience with that kind of thing, and I told Bti-qwol that. But I could talk to her again.”
+
+It would give him an opportunity to practice being himself around her.
+
+“It’s not like that would do us any good,” said the woman in the apron.
+
+“Right. There’s no way she’s going to listen to you,” said Naya. “Manon already tried to talk to her about it right after orientation, and it was a nope.”
+
+Doesn’t that mean they tried to get me fired from one of my jobs? Sort of? He understood it was because of their friend. And he didn’t mind, since he didn’t want or need the medical team position. But it still seemed like the kind of thing you shouldn’t just casually tell someone.
+
+“Well…” he said, standing up to get more egg rolls. “Let me know if there’s anything I can do.”
+
+“You live in F-city, kid?” the old guy asked while Alden was loading his plate.
+
+He had just shoved another half an egg roll into his mouth, which gave him time to think. He could say he hadn’t registered and given up his citizenship yet. It wasn’t like he was in the wrong for waiting until the last minute…but the vibe here was already off.
+
+Nobody was being too much of a jerk, but they definitely weren’t warm and welcoming. They hadn’t even given him their names when he’d told them his. Obviously they were still a little pissed. He didn’t need them to think he was a possible future supervillain as well.
+
+Well, if they would think something like that. What would a Rabbit villain even do? Fold napkins angrily?
+
+He swallowed. “I haven’t found a permanent place yet. I’m applying to schools in Apex.”
+
+Not a lie. But they’d probably assume he was staying in the intake dorms. Teens arriving on the island had to live there for a while if they didn’t transfer directly into a school.
+
+“Fancy,” said Naya. “You think you have a chance of getting into a feeder school there? Even if you’re not applying to the hero programs, admissions can be pretty cutthroat at B-rank.”
+
+“Unless you have good connections?” the woman in the apron suggested.
+
+<<Yes, that would be helpful at B-rank. Do you?>>
+
+It was on the tip of Alden’s tongue to say “no, of course I don’t.” After all, he didn’t have any connections he planned to use. He intended to stay under the Velra family’s radar as much as possible from now on, and it would be gross to call someone like Cly Zhao or Hannah’s mother and ask them to get him into a hero program if he couldn’t make it on his own merits.
+
+But he hesitated before saying as much. He felt like he was being judged, and he suddenly realized why.
+
+They’re only asking me things that would help them decide if I’m an important person or not.
+
+He went back over the conversation in his head. The members of the boater had asked about money. And if he was getting a lot of work as a Rabbit. And they’d asked about rank. And they’d asked if he lived in F-city, which sounded harmless but was probably loaded given the way Anesidora was divided and the fact that B’s sort of floated in between the high and low rankers. And now they were checking to see if he had connections.
+
+Any one of those things wasn’t necessarily suspicious, but all of it together was kind of…uncomfortable. Maybe it was an Avowed thing, but Alden doubted it.
+
+The only adults he regularly interacted with were teachers, neighbors, and Aunt Connie’s friends. You couldn’t really count Gorgon. Normally, by now, someone would have asked him what he wanted to be when he grew up, if he had a girlfriend, if he played sports, or what his parents did for a living.
+
+Adults trying to get to know you almost always asked one of those things or a variation on them.
+
+They’re not socializing, he concluded. They’re trying to stick me in some kind of servants’ pecking order.
+
+Even if he was only half right, it was so soap opera he almost expected to hear dramatic music playing in the background.
+
+“I’ve got some friends who can help me out,” he said finally. “I went to Celena North with them just the other day. One of the deans talks exactly like that guy who spoke first at orientation this morning.”
+
+He watched their faces. There was nothing really obvious in their expressions to indicate that they cared one way or the other. But apron lady’s smile was definitely fake when she said, “That’s great. The campus there is gorgeous.”
+
+After that, the conversation turned more in the direction he had originally expected. He finally got names and jobs for everyone. Ironically, the woman in the apron was a Brute who’d spent the morning hauling luggage for all the examinees.
+
+That was supposed to be me. But here I am on bomb disposal…
+
+The man who spoke Spanish and the woman with the red streaks were both monitors who used heightened senses to detect cheaters.
+
+The old guy in glasses was a Wright who repaired minor problems with equipment. Alden would probably be seeing a little more of him than the others, since he said he often got called to the lab to pick up things the students had broken.
+
+Alden also learned that LeafSong had a few regular Avowed workers he might run across while he was here. And they increased the number of summonees for this event because most of their Artonan staff were off duty during entrance exams, and having magical help around gave “the right impression” to VIP students and parents who were still on the fence when it came to choosing the school.
+
+The only other thing he learned was that the boater had a screwed-up relationship with Manon the Rabbit that they didn’t seem to think was screwed-up at all. They all loved her…because she gave them stuff.
+
+In addition to getting several of them their jobs and providing them with the snacks and drinks from Earth, she paid for everyone to have a phone call home. Alden had no idea what it cost to ship food to Artona III, but he knew what the phone calls cost.
+
+Assuming Manon was making the same amount he was for the lab assistant position and everyone made at least one call on her dime, she was taking a significant pay cut.
+
+Maybe it was how she made friends. Or she was so loaded she just didn’t care? But it still put Alden in a strange position when people kept mentioning things Manon did for them “because she’s the Rabbit.”
+
+Did they think he was supposed to buy them things? Was he supposed to buy them things?
+
+If they weren’t making as much money as him and Manon, it was because they were earning other equally valuable stuff, right?
+
+Alden would gladly trade his entire twelve-day salary for access to a semi-decent spell impression or half a foundation point.
+
+He couldn’t figure out if there was a social expectation of Rabbits in general he hadn’t known about or if it was just the members of this group who thought there was. So he was relieved when his break timer started flashing and he had an excuse to head back to the lab.
+
+He ran into the skin macrame girl and her pair of assistants in front of the elevator. He let them in first because he wasn’t sure if he was allowed to ride with them. There was the whole “no socializing with the examinees” rule, after all.
+
+But they held the door for him, so he joined them.
+
+<<Red coat Ryeh-b’t!>> the examinee said excitedly. <<I passed. I have been invited back to receive additional instruction from the Superior Professor.>>
+
+“Congratulations,” said Alden.
+
+<<I’m Jel-nor,>> she said, grinning at him. <<You will not get to take my test piece!>>
+
+Even the Artonans start conversations by telling people their names, Alden thought. I’m not crazy. The boater members really are kind of off.
+
+“I’m Alden,” he said. “Good luck in the second session.”
+
+The chat ended there.
+
+He was a little concerned when he realized it was the most pleasant interaction he’d had since he left behind Sophie, who was a massive war cat that liked to slaughter jungle creatures in the night.
+
+He hadn’t been looking forward to having his entire evening taken up by the visit to Joe’s probably-terrifying laboratory. But now he was thinking it might be a good thing for him to stay busy, just so he had an excuse not to hang out with the other humans.
+
+Apparently there was a shared housing situation as well, so they’d all be bunkmates.
+
+“Hey, Sophie,” he said after giving Joe his basket of food and watching the professor take everything out of a perfectly good container so that he could squirrel it all away in his wizard’s uniform. “Is there extra space in the grivek dorm?”
+
+<<We make our own sleeping spots underground with the might of our claws every four of this planet’s days.>>
+
+“…that sounds labor intensive.”
+
+<<You’re welcome to dig a burrow next to mine.>>
+
+“Thanks,” said Alden. “If it comes to that, I’ll let you know.”

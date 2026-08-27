@@ -1,0 +1,257 @@
+---
+id: ea339056-f06f-5304-8518-3ce464c55230
+page-type-slug: story-chapter-royal-road
+title: "68 Tasting Deception"
+slug: 0025-68-tasting-deception
+partOf: the-new-world
+position: 25
+ownLength: 3957
+unit: words
+ownProgress: 3957
+publishedAt: 2017-10-31
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/171576/68-tasting-deception"
+royalRoadId: "171576"
+markedReadAt: "2026-06-29T21:21:35.904Z"
+---
+
+I pulled the person closer, glancing at her hand. A glowing dagger was there, with the air fizzling around it. She whipped it towards my neck, the air whistling as she did so. Off reflex, my armor shot out and pierced through her forearm.
+
+The guards aimed their rifles at me, but I shot my armor out towards the barrels. My armor pierced the rifles, tearing them apart before the guards ran away. Turning back to the girl, I grabbed he plasma knife from her hand. I snapped the handle, shutting the blade down. With the same hand, I grabbed her helmet, my hands big enough to wrap around her head completely.
+
+I frowned, “Now tell me why I shouldn’t crush your skull like an egg full of red?”
+
+My armor retracted from her forearm, a high-pitched voice screaming. A second later, she answered in a soft, squeaky voice,
+
+“I…I’m not here to kill you…Just protect camp. Doing my job.”
+
+I identified her,
+
+FearFighter Rogue, Francis Favari (lvl 597) – An upper level FearFighter, this specific kind of FearFighter is usually sent out to kill would be intruders. They often use pathetic looking defenses as cover-ups for their assassination style guarding. This allows them to catch the unaware off guard. Too bad for Francis you aren’t just a big bad brute.
+
+Beating higher level enemies isn’t normally a problem for them either, mainly because their damage specced builds allow them to burst most targets down. Not the best matchup versus a high damage tank build.
+
+I rolled my eyes, “I’m not a dumbass. You FearFighters need to learn when to fuck off.”
+
+From her armor, a speaker sounded out, “We have you surrounded. Let her go.”
+
+On my chest and face, green laser pointers jittered on me. I glanced out in the distance, and along several trees, FearFighters were set up. Instead of rogues, the snipers covered themselves in leaves and brush, making them hard to see. None of them were above level 500 though. I sighed,
+
+“Why not try talking instead of firing first eh? That’s why you all lost your last group of scouts.”
+
+From the speaker, the gruff voice replied, “You’re the one that took down party D-6? Here we thought it was Bloodbull…Alright, we’ll talk. Why are you here?”
+
+I moved the woman in front of three lasers on my chest. She squirmed in my grip, but she made an effective shield nonetheless.
+
+“To get the Freedom Fighters to join the Steel Legion.”
+
+“You want them to join those slave drivers? They barely escaped whatever mutant experiment that went awry. Why do you want to send these humans back to them?”
+
+I shook my head, “I have several of those mutants along my back. You fire, and they may get out. Trust me when I tell you they’re a lot more dangerous than I am.”
+
+Several seconds of tense silence passed. The green dots appeared on the ground beside me. The voice continued,
+
+“Fine. We’ll have it your way. Set her down, and we’ll negotiate.”
+
+I sighed, “I’m trying to be reasonable here. Don’t ask me to give away my only bargaining chip.”
+
+“Damn…Can’t blame me for trying.”
+
+I glanced at the sky,
+
+“You FearFighters are supposed to be about espionage and intrigue, but you swallowed the bullshit these supposed freedom fighters fed you? Mutant experiments…really now?”
+
+I tossed the woman aside, pounding my chest with a fist, “Do you see my title? Have you read my name? I am a messenger of what’s to come. Ignoring my message would turn you from being ignorant to being dumbasses. I wish I had time to dance around the issue, but I don’t. Neither do any of you.”
+
+The green lasers popped back up on my chest. I flared my ascendant mana, my armor sliding back onto my face and grinning. I leaned forward with my fists balled into clubs of iron,
+
+“Unless you want to fight. You’ll find I’m more than willing.”
+
+My intimidation skill leveled several times before the lasers lowered. The woman tried running away, but I lifted my right arm and lowered my hand. A telekinetic wave of energy slammed her to the ground. I raised the arm while clenching my hand, lifting her into the air. From the speaker, the voice ebbed,
+
+“Ok, ok. We get it. We’ll meet at the village head. We aren’t the only guards here, so don’t try anything funny.”
+
+I let the woman drop and stood up straight. She scrambled away from me as I shrugged,
+
+“Eh, don’t aim a gun at me and I won’t raise my fist at you. This is pretty basic guys. Not that hard to understand.”
+
+I walked into the camp, looking a for the biggest tent in the group. I passed by several ragged, dirty looking people. None of them were above level 50. In my eyes, they were stunted. It was like they hadn’t even tried to adjust to Schema. Combine that with their refusal to accept the steel legion’s help, and they were as useless as they could be. Give them a gun and a bit of training, suddenly they become a force to reckon with.
+
+At the same time, them escaping the city had let them live. It wouldn’t let them live forever though. As I reached a shitty looking log cabin at the center of the camp, I vowed to get that message across.
+
+Once I neared it, a long head alien materialized in front of the door. With an overgrown back filled into the suit, it pulled off its helmet, revealing a lion’s mane. It grew all the way down the skull, both golden and majestic. On its furred face, three eyes with the pupils of cats starred at me. Its bottom jaw could split in half, meeting on its nose. At the ends of each jaw bone, a long tusk raised upward. At least it stood on two legs with two arms.
+
+It caught me a bit off guard. Up till now, most aliens looked pretty damn human. This thing did not…Not one bit. It looked as monstrous as any eldritch I’d ever seen. Ignoring it though, I removed my own helmet and reached out a hand,
+
+“I’m Daniel Hillside. Who are you?”
+
+He glanced down at my hand, then back up at me. The gruff voice that spoke over the intercom came out of his weird mouth,
+
+“I’m Tralis, the captain of the FearFighter squadron stationed here. Come in.”
+
+He opened the door, pacing inside. I followed suit. The inside of the cabin changed from rustic to futuristic. Clear slates of polymer covered every surface, letting you see the dirt through like clear plastic panels. A spiral staircase headed deeper down to a lower floor, and scientific trinkets covered the various benches laid out on the surface of the place.
+
+Tralis walked down a spiral set of steps, motioning me to follow. I didn’t.
+
+“I’m not going down there.”
+
+He turned to me, his eyes narrowing, “Why not?”
+
+I tapped my head in frustration before turning back to him, “Tell me why I should trust you first? All I’ve gotten is a few bullets and a plasma blade coming for my throat so far.”
+
+He blinked, all three eyelids snapping shut. He grinned, a grisly visage on his face,
+
+“I’ll do a little introduction then. We are a team of FearFighters contracted to protect a group of Enigmatta. They’re a large faction of scientists. They’re here on this mud ball to study some spacial anomaly or something like that. We are here to help them. After seeing the natives in such bad shape, they decided to help them.”
+
+Tralis leaned against the railing of the spiral stairs, the clear polymer holding his weight easily, “They ended up just using them to make a base of operations. Now the natives do the labor and the Enigmatta are giving them the food and medicine they need to live. You-“
+
+Tralis pointed a finger at me, his suit ending in a sharpened claw, “Are a very hostile entity demanding we listen to some message you have. I understand, being a fighter myself. We attacked first. You defended yourself. It’s a basic misunderstanding. The Enigmatta don’t see it that way. They want you dead.”
+
+Tralis shook his head, “They don’t get it though. Earth is a new planet. There shouldn’t be anyone over level 300. A 740 unknown? I told them it was a death sentence, but they tried sending our top operative to kill you. She accepted like an idiot because she wanted the huge exp boost. You know the rest. Now we’re bending to your demands because you called our bluff.”
+
+His sudden spill improved my trust by at least tenfold. It fit together in my head all nice and neat to, so I walked forward,
+
+“Good enough. Thanks for letting me know.”
+
+He nodded, walking down the steps. As we did, I identified him,
+
+FearFighter Captain, Tralis Navi(lvl 576) – A captain member of the FearFighters, his experience gives him a higher position then most operatives at the same level. Having been tasked with defending several Enigmatta scientists, Tralis is trying to fulfill his mission with few casualties. So far, you’ve been making that difficult.
+
+His Hellion race and lineage also give him access to stealth well beyond the normal person of his level. Their species have elongated skulls for two reasons. One is for balance to offset the musculature of their overgrown back musculature used for leaping. The other is for storing fat during winter months. These enlarges skulls held enlarged brains, owing to their eventual rise to sentience.
+
+Though most Hellions can’t kill you outright, be aware of their trapping, stealth, and burst abilities.
+
+Tralis turned to me as we walked down the staircase, “Does my status line up with what you were thinking?”
+
+I raised an eyebrow and grinned, “You could tell I was reading it?”
+
+He turned forward, “Either that or staring into nothingness for twenty seconds. Figured one was more obvious. Keep your head up and your eyes on these slippery fishmen. They’ll try to put you under the knife if you let them.”
+
+I nodded, “Thanks for the tip.”
+
+At the roof of the underground room, lamps full of white worms offered light. The clear panels lined the entirety of basement as well, the room being much more expansive. About the size of a convenience store, several long steel tables lined the central room. Over them, surgical tools, chemistry beakers and tubes, even holographic panels were floating over the shiny steel.
+
+Six scientists spread out around them, each of them covered in tight fitting suits. Sleek, lean, and with black, tinted panels on their faces, the scientists looked like the embodiment of efficiency. They interacted with holograms and their status with seven fingers, two of them thumbs. The only thing visible underneath their suits were giant, glowing circles.
+
+They could have been eyes. I didn’t know. Regardless, I walked up with Tralis. One of the scientists turned to me. He fiddled with his screen for a moment. I identified him during that time.
+
+Arlo Melak, Enigmatta Scientist(lvl 761) – A scientist in the utility based Enigmatta faction. They focus almost entirely on discovery and exploration, being a premier observation guild. While not the most combat savy, they make up for their lack of might with their minds. Arlo is particularly gifted, having been given the highly sought after Earth mission. He and his hired mercenaries weren’t ready for what was on Earth.
+
+The Enigmatta were formed by a race of deep sea, sentient fish called Angleasteans. They wear highly pressurized suits, full of compressed water. This prevents them from decompressing on surface worlds. Their giant eyes glow with phosphorescent dye once used to lure in prey. The water at the front of their suits is also dyed black to prevent the daylight from blinding their acute senses of vision. While useful for observation, these traits combine into making a very frail and easily killed creature.
+
+I murmured, “I’ve finally entered full sci-fi mode. Damn…You guys look crazy as hell.”
+
+Tralis laughed, “Surely you’ve seen more exciting sights across the galaxy. There has to be a story behind that Rift Closer title you have.”
+
+I shook my head, “Never left Earth before. I closed the rift here.”
+
+Tralis let his jaw mandibles go slack, “Already? A rift here…This truly is a planet of insanity.”
+
+The scientist fiddled with his status as he said through a breathalyzer, “Indeed it is. That’s why we’re here, studying it. This is the unknown you mentioned then, Tralis?”
+
+He nodded. The scientist glanced at me, the foggy outline of the glowing sphere sending a chill up my spine. A line appeared underneath the sphere, forming tiny, glowing needle teeth in the outline of a smile
+
+The thing said, “Sorry for the misunderstanding, Harbinger. I am Arlo, a member of the Enigmatta. We are scientists. There was a spacial anomaly here on Earth, so we came to investigate the nearby area. Not long after, another anomaly formed, and…well, this world has fallen apart since.”
+
+I nodded in agreement, “Tell me about it. It’s ridiculous.”
+
+Arlo raised a hand, “In fact, I was hoping you might discuss it with us. You mentioned never leaving Earth, were you created here by Schema?”
+
+I crossed my arms, “No. I’m human.”
+
+Tralis laughed along with Arlo. After having their fun, the scientist continued, “Seriously though. What are you?”
+
+I uncrossed my arms, “A human.”
+
+The humor melted off them like snow off a fire golem. Arlo murmured, “Really? You’re rate of growth is…remarkable then.”
+
+I nodded, “Yeah, It’s been a shitstorm since Schema arrived. Hasn’t stopped since.”
+
+The scientist scrambled for a second, “Uhm, yes...Well then, you mentioned bringing samples of the mutation for us to see. May we see them then now?”
+
+I nodded, pulling the capsule from my back. I opened it, the squirming insects struggling at the bottom of it. I counted all five, making sure I didn’t lose any. Tralis jumped back at the sight of them, hissing,
+
+“Evil…”
+
+I nodded, “You don’t have to tell me. These things crawl under your skin and play with your corpse like a puppet on strings. They’re bad news, and worse, they spread like wildfire. I’m here to see if we can get the Freedom Fighters to join me and the steel legion in fighting them.”
+
+I gestured a hand at Tralis, “I’d prefer the fear kind of fighter though. You guys kick about a hundred times more ass than the freedom kind.”
+
+Tralis grinned, “Bah, the legion knows nothing of real fighting. We stuck to our battling roots instead of being watered down to glorified merchants. Unlike them, we will only help for a price.”
+
+I shrugged, “You can’t get off Earth, and these bugs ensure you won’t last long while your here. We have them quarantined in the city, but it’s only a matter of time before they break through. Combine that with the eldritch in Springfield evolving faster than normal and you have a recipe for disaster.”
+
+I pointed at my title, “Here’s proof of the eldritch growing, if you needed any.”
+
+Skill gained! Persuasion (lvl 1) – While others fight for favor, you gain it with words. +1% to charm and compulsion when trying to convince another party to change.
+
+Suppressing a bout of joy at the skill, I kept calm as Arlo and Tralis stared at each other. They held it for a moment, like having one of those glances that tells a conversation. Arlo turned back to me,
+
+“We would like to leave, but we have a bit of a conundrum on our hands. You see, there is a group of humans who are hunting this group. That’s why we found them so…dilapidated. These humans, the Freedom Fighters, are being bled to extinction by them. Why? We’ve yet to understand.”
+
+Tralis’s eyes narrowed and his voice hardened, “They eat their own kind. They’re cannibals. They hunt these weaklings.”
+
+I frowned, “Well fuck, sounds like they're already zombies.”
+
+Arlo walked over towards the insects, grabbing one with a set of tweezers. I kept a close eye on the insect before he dipped into a beaker full of suspension fluid. Arlo tapped a sticker on the side of it, and the clear polymer slid onto the top of the beaker. He turned up to me,
+
+“Not quite. From what we’ve discovered of them, they’re still human. They’ve simply lost their minds. If you can help us kill him, then we can migrate this group of people towards wherever it is you need to go. Until then, it’s risky to take the encampment away from shelter.”
+
+I rolled my shoulders, “Sounds simple.”
+
+Tralis nodded, “It would be, but their leader is strong. They call him Bloodbull. He outlevels even you, and we can’t beat him. The fact you got here without being attacked by him is a miracle. If you hadn’t have told us, we’d have thought he decimated our scouting party.”
+
+I raised an eyebrow, “What level is he then?”
+
+Tralis frowned, his mandibles shifting downward, “About 1000. If you help us, killing him shouldn’t be a problem.”
+
+I cupped my chin, “I can act as the vanguard, your snipers will set up suppressive fire while I beat the shit out of him…” I glanced up, “Sounds pretty good to me.”
+
+Tralis patted my shoulder, “It will be good to fight beside a warrior of your caliber. We won’t fail you.”
+
+I shook his shoulder with a grin on my face, “Likewise. I look forward to it.”
+
+Arlo stepped up, “I can set up voice relays on your system before you leave, if you have an obelisk that is. We can give you one if you don’t.”
+
+Lifted my hand, and my obelisk lifted out of it. Arlo tilted his head, “I thought you haven’t left the Earth…”
+
+I smiled, “Doesn’t mean I don’t know someone who has.”
+
+He took the obelisk before fiddling with it for a few minutes. Tralis chattered away about past battles during the time. From what I gathered, most people took very few risks when fighting eldritch. They handled every situation with careful plans, even if they weren’t necessary. After hearing a bit about their builds, I saw why.
+
+They were all glass cannon, and they didn’t even pretend like melee was an option. Guns and magic were prolific, so prolific that many melee styles of combat were forgotten. Only a few species had the tenacity for pulling off a physical build. remnants were the most infamous of those, along with the porytians like Yawm.
+
+Humans were considered bulky and big by most species standards, and our metabolisms were slow. That was a surprisingly big thing. The smaller a species was, the faster it’s metabolism moved. This made the species live its life faster, and that in turn fed into an engine of progress. Instead of five or six thousand years for civilization to invent the internet, it took the Hellions only five or six hundred.
+
+I ended up voicing my opinion against that viewpoint though. First off, it was an almost racist one. A species that doesn’t progress as quickly would also be less likely to inflict nuclear war for instance. You can’t say a whole race is inferior just because it was a larger size. Besides for that, it was outright wrong. I mean, if a member of a species dies quickly, then they can’t learn as much knowledge over the long term.
+
+That results in shallower fields of knowledge, a fact I pointed out on multiple occasions. The biggest example came with how far ahead theoretical physics was of most technological fields. We formulated many of the principles Schema and the eldritch imply, like multi-verse theory.
+
+Tralis and I never got too heated though. We kept things civil. I ended up learning the debate skill during the process though. Now I just needed the unique skill. In Torix’s own words, it would likely take a fancy speech or something like that. In my dictionary, that meant a lot of internal cringing and pain. I would much rather face life or death than a large crowd.
+
+I could tell people to fuck off, but inspire them? I didn’t have much faith in myself for that specific task. Still, I’d bite the bullet and do it. As a wise philosopher once said, failure is the first step to success, and I was ready to fail hard.
+
+But not at killing this Bloodbull guy. From what I heard, he sounds a bit weaker than one of Torix’s guards. Even without the backup from the FearFighters, I’d be fine, in my mind at least. It could be a tough fight, but that was my specialty.
+
+With that in mind, Arlo and Tralis prepared a group of FearFighters as my backup. They were mainly snipers, the ones posted to guard the town. During the operation, the town would be vulnerable, but it was a calculated risk according to Arlo. With me in the vanguard position was the invisible girl I caught, Francis.
+
+Once we readied up, she and I took the front of the formation while heading out towards Bloodbulls current camp. A few feet into the forest, and I could feel the grimace on Francis’ face through her mask. Before the tension became a problem, I said,
+
+“Hey, no hard feelings about earlier, right? You were just doing your mission and I was defending myself, so no need to be antsy.”
+
+She didn’t reply, staying silent. A moment later, she replied with her voice strained,
+
+“I get it. We should have talked things out.”
+
+Something was off about her voice. Like something was eating at her. I kept quiet about it though. There was plenty of horrors lurking out there that could leave you scarred, mentally and physically. I wasn’t about to blame her for something like that. At the same time, I kept my guard up and high. I didn’t want to be caught relying on someone so unstable.
+
+We passed through the forest, every crackling leaf sounding like an enemy behind a bush. The sun leaked through the tree leaves, dousing a bit of light on the forest floor. The wind was cool, a bit of chill biting in it. The ground dried a while back, so it crunched underfoot. The smell of pine, wood and earth floated around us. It was a beautiful day.
+
+Once we passed around the corner, I glanced behind me. Francis was nowhere to be seen. She activated her camouflage without telling me. It was a good thing in my mind. I now knew I couldn’t trust her, even in the slightest. Glancing behind me, the other guards were missing as well. I was alone in the forest.
+
+A leaf crinkled around me. I turned my head, but nothing was there but a wobbling leaf. All around me, the sounds of shifting branches and crinkling pine straw echoed through the forest. The sounds came closer, like a pack of wolfs cornering a sheep.
+
+I grinned. My armor shifted into jagged teeth. My ascendant mana flowed like magma in my veins and through my runes. I focused them, honing them to a deadly efficiency, letting not one drop of mana escape. The air shivered around me, almost excited. I clasped my fists, turning them to blocks of iron. The telekinetic pads condensed, turning my hands into rivets. Oppression reached outward. I was more than ready.
+
+What these wolfs didn’t realize was that they hadn’t cornered a helpless sheep.
+
+They cornered a ravenous monster.

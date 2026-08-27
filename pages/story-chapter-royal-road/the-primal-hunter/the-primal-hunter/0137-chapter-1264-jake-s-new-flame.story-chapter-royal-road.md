@@ -1,0 +1,127 @@
+---
+id: 0b95b773-7c79-5db8-a25d-3d1942322a7d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1264 - Jake's New Flame"
+slug: 0137-chapter-1264-jake-s-new-flame
+partOf: the-primal-hunter
+position: 137
+ownLength: 2854
+unit: words
+ownProgress: 2854
+publishedAt: 2026-02-26
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3095138/chapter-1264-jakes-new-flame"
+royalRoadId: "3095138"
+markedReadAt: "2026-06-29T19:34:38.385Z"
+---
+
+So... yeah, Jake really hadn’t known when he would get a Soulflame. With how the Cradle of Soul’s Kindling worked, it couldn’t guarantee anything but was effectively just a way to optimize gambling by giving one more chance to pull the lever while hoping to hit triple sevens.
+
+Jake had made it a habit to check the item once a week or so, and while the Arcane Soulflames had grown steadily within, there still wasn’t a singular one that truly stood out, and seeing as he could only extract a single one, Jake chose to be greedy. However, he began to realize that pursuing a Supreme Soulflame just wasn’t realistic.
+
+As a reminder, Soulflames had the rarities of elementary, low-tier, mid-tier, high-tier, pinnacle-tier, and Supreme Soulflames. Raising a Soulflame, a single rarity, was already a tall order, and raising it multiple times would be incredibly difficult, as it got progressively harder the more one tried to improve one’s Soulflame.
+
+Seeing as an Alchemist could also only ever have a single Soulflame, it was important to get a good one right off the bat. Okay, technically, one could separate from one’s Soulflame, but that was even harder than upgrading what one had. Due to the connection between a Soulflame and the alchemist’s soul, some level of soul damage was guaranteed during the separation process, making it far too risky to even consider for most. Jake included.
+
+Despite not believing it was realistic for a Supreme Soulflame to be born within the Cradle – and even if it was, Jake doubted it would happen before he reached godhood – there was still hope due to one crucial feature of the mythical item. One that Jake had already theorized when he read the description of the Cradle of Soul’s Kindling before.
+
+[Cradle of Soul’s Kindling (Mythical)] – The Cradle in which a flame may be kindled as it awakens its own spirituality. Nascent Soulflames of hundreds of affinities burn within the internal space of the Cradle, experiencing a cycle of life and death as they struggle and absorb one another while growing in power. Waiting for one of them to ascend to the world outside. Only a single Soulflame can truly be born from the Cradle, the item getting destroyed upon extraction as all others become fuel for the chosen one. The Cradle can be infused with energies to sustain and influence the internal world. The internal world of the Cradle cannot be entered by any being with a Truesoul, and any Truesouls born within will immediately find themselves destroyed, their energies only nurturing the Cradle further.Requirements: Soulbound.
+
+The important part of the description was that it mentioned all other Soulflames within the Cradle being consumed when he extracted his chosen Soulflame. The way Soulflames grew within the Cradle in the first place was primarily through consuming one another, so having a single Soulflame consume the others during extraction had to give it a good boost.
+
+Of course, Jake didn’t actually expect it to absorb the energies from all the other Soulflames perfectly. If it could, he could have just dragged out a high-tier one, and going by how many Soulflames were within, it would have a good chance of reaching Supreme rarity.
+
+Even if Jake didn’t end up getting Supreme rarity, he could totally live with just a Pinnacle Soulflame. As the name indicated, Pinnacle Soulflames were already more or less as good as they could be, and when it came to how powerful a Soulflame was, there weren’t actually any differences between Pinnacle and Supreme.
+
+Instead, Supreme Soulflames tended to have greater breadth in what one could use them for, primarily because of their superior ability to connect with their owner. While no Soulflame could ever be called intelligent, Supreme Soulflames were about as close as it could get.
+
+While they still couldn’t think for themselves at all, they could better interpret and adhere to the orders of the alchemist. In the simplest of terms, rather than having to direct every detail, a Supreme Soulflame would passively do some of the more minor stuff all by itself as long as its user intended it to.
+
+Anyway, as said, getting his Soulflame wasn’t something Jake had planned on happening, but it kind of just did. On that fateful day, a few months after he’d started his alchemy grind, he checked the Cradle and instantly noticed something was different from usual.
+
+Under normal circumstances, the Soulflames were constantly moving about to consume one another, but this time they were far more tightly grouped, without going after one another. Instead, they all seemed to be expecting the arrival of a nearby Soulflame, which definitely caught his attention.
+
+It was Jake’s first time seeing a pinnacle rarity Arcane Soulflame, and he was immediately in a good mood. What’s more, this Soulflame was moving toward this collection of over a thousand lesser Soulflames with a clear intent to consume them all.
+
+Jake immediately paused alchemy for the day as he watched on with interest to see what would happen. As the Arcane Soulflame got close to the collection of Soulflames with all sorts of affinities, both parties suddenly started moving toward one another.
+
+Dozens of Soulflames were consumed by the pinnacle Soulflame in an instant, unable to fight back against the superior flame. With fervor, the Arcane Soulflame consumed over a hundred in rapid succession, but as it did, all the other Soulflames also started to nip away at it.
+
+This was one of the reasons why it was so difficult for a truly powerful Soulflame to appear within the Cradle. The stronger a Soulflame was, the more potent energy it contained, making it appear more tasty to all the others surrounding it. Every act of assimilating and consuming another Soulflame took a bit of energy, weakening it and allowing others to take advantage.
+
+Combined with Soulflames not possessing any intelligence or survival instinct in the slightest, they often just ended up getting themselves killed in situations exactly like this one. With such a tasty Pinnacle Arcane Soulflame, the other flames didn’t even notice one another, but were solely focused on trying to consume the big guy.
+
+Jake watched on with some concern as the Pinnacle Arcane Soulflame fought valiantly, but it was clear that before the day was over, it would be consumed, likely giving birth to a few high-tier Soulflames in the process, at which point there was a good chance those high-tiers would try to consume one another. Ultimately, this would only weaken them and, in the end, they would be consumed by lesser flames shortly after evolving, effectively restarting the entire Soulflame cultivation process.
+
+If this were an actual creature, Jake would have just kept looking on and allowed the Arcane Soulflame to suffer its fate, only wanting to take it as his own if it won... but this wasn’t a creature of any kind at all. Assigning any of his regular values to an Arcane Soulflame would be like watching the battle between flowing lava and a lake. It was just nature doing nature things... except in this instance, Jake chose to step in.
+
+He allowed the Pinnacle Arcane Soulflame to consume as much as it could before finally making his move and activating the core function of the Cradle of Soul’s Kindling.
+
+Immediately, all activity within the internal space of the mythical item came to a stop. Some unknown energy wrapped itself around the Pinnacle Arcane Soulflame Jake had selected, and at once, the entire world within the Cradle started to collapse.
+
+As it collapsed, thousands upon thousands of Soulflames were caught in the process, instantly consumed and turned into a wave of energy that surged into the Pinnacle Soulflame. It was like watching the end of all things, reality itself shattering and disappearing from all sides, with Jake’s chosen Soulflame in the middle of it all.
+
+The destruction of the Cradle soon reached the surrounding Arcane Soulflame, destroying and turning all of them into energy that surged toward the energy-wrapped Soulflame. It greedily took in everything as it grew in power. Jake kept watching as this energy infusion continued, the process taking several minutes, as all he could do was trust the built-in functions of the mythical Cradle.
+
+In the outside world, the Cradle started cracking all over. Jake felt pretty damn nervous as small pieces of it started breaking off and turning into motes of energy that reentered the Cradle, creating small beams of light.
+
+With a final rush of energy, the entire Cradle caught fire. At first, it was a colorless flame, but very quickly it turned pinkish purple and began giving off a very familiar aura. The newborn Soulflame fully emerged from the Cradle, consuming even the physical item in the process as the mythical item was no more, replaced with a flame that floated mid-air.
+
+Jake simply watched it floating there for a few moments, feeling its aura. Soulflames weren’t particularly dangerous as they didn’t have any instinctive desire to attack people, but that didn’t mean they were entirely harmless.
+
+For an alchemist to claim a Soulflame required them to absorb it into their bodies and tame it, and should they fuck up too badly, they risked suffering extreme soul damage or even death. As expected, the stronger the Soulflame, the more difficult it was to absorb.
+
+Yet, as Jake approached the Soulflame, he felt no danger. Instead, the floating arcane flame moved ever-so-slightly toward him, innately attracted to his aura. Seeing this brief movement, Jake couldn’t help but grin as it more or less confirmed he’d succeeded, and a quick Identify on the Soulflame confirmed his thoughts.
+
+[Arcane Soulflame (Supreme)] – A Soulflame created from the arcane affinity of Jake Thayne. After having consumed countless other Soulflames, it has reached the Supreme rarity. Due to its nature as an Arcane Soulflame, its properties are mostly unknown and are to be discovered by its eventual owner.Requirements: Jake Thayne’s Arcane Affinity.
+
+The description was lacking, but it always was whenever dealing with an arcane affinity. Including spoilers in descriptions wasn’t something the system was a huge fan of. Not that Jake complained, he liked learning about his own Bloodline-based arcane affinity.
+
+Seeing no need to delay the inevitable, Jake walked over to the Supreme Arcane Soulflame and reached out his hand. The Soulflame slowly floated over to him and landed on his palm before rapidly spreading all across his body.
+
+Jake caught on fire, yet he felt no pain as the flames consumed him. Instead, he closed his eyes and focused on absorbing the Soulflame into his body and soul, truly making it one with him.
+
+Other alchemists would have likely chosen to use a ritual or something to ensure the assimilation of the Soulflame went as smoothly as possible, but Jake believed he didn’t need it. He was trying to absorb an Arcane Soulflame based on his own Arcane Affinity, and the biggest risk when absorbing Soulflames tended to be the soul, and in that department, Jake had no fear. Especially not after his training session with the First Sage and laying eyes upon the Gate of Enlightenment, an experience that had improved his soul in ways Jake knew he couldn’t even fully comprehend yet.
+
+All Jake needed to do was accept the Soulflame into himself while using his Alchemical Flame to fully assimilate the item into his soul, fusing it with the skill in the process. Alchemical Flame was a simple skill Jake had never really bothered improving much, and in truth, he barely even used it anymore outside of heating his cauldron when doing alchemy. Even then, he didn’t always need to heat it, and the cauldron had the ability to heat using the formations inscribed upon it, with this feature often proving faster and more stable than using his Alchemical Flame.
+
+Outside of producing heat, the only other thing the Alchemical Flame was good for was breaking down environmental mana. Stones or metals Jake couldn’t even leave a mark on using his strongest Arcane Powershot could be melted easily by an Alchemical Flame due to unique concepts of the skill. This unique concept was also why Jake even needed a flame in the first place, as he had to use it here and there when breaking down particularly annoying ingredients.
+
+His current affinity-less Alchemical Flame had gotten the job done, albeit not super well, but with an Arcane Soulflame becoming his new Alchemical Flame... Jake was already looking forward to the result.
+
+Minutes passed as the flame continued to consume Jake’s entire body while slowly seeping through his skin, into his Soulshape, and all the way down to his Soulspace. With his eyes closed, Jake focused and entered his Soulspace to see how things were going there.
+
+Appearing within his inner world, Jake looked toward the arcane-filled sky and saw a new object forming in the world that was his Soulspace. Breaking up the sky was a celestial object: a sun made from his Arcane Soulflame, created as it broke up the otherwise endless sky of crackling arcane energy.
+
+Jake didn’t even have to try to absorb or assimilate the Soulflame. Rather than taking in a foreign item, it was as if he were merely inviting it home, where it had always belonged.
+
+Raising his hand, Jake focused on the Alchemical Flame skill as he sought to merge the Supreme Arcane Soulflame with the skill. This process was the only part Jake had been a little concerned about, as the Soulflame would begin to slowly disperse from his body and soul if he didn’t fully make it part of himself using the Alchemical Flame skill.
+
+Fortunately for him, once more it proved far easier than he’d first imagined it would be. All it took was some mental effort and Jake leaning into the research he had done on Soulflames in the past, and, alongside the unique properties of a Supreme Soulflame, which can assist its user, it truly felt effortless compared to what it could have been.
+
+He smiled as the notification appeared, Jake seeing that he’d just gotten the biggest rarity upgrade to a skill ever in one go, with it even potentially being his easiest upgrade to date.
+
+[Alchemical Flame (Common)] – The flame of an alchemist is one of the most critical aspects of the crafting process. The flame itself is affinity-less and not polluted by the impurities of burning a catalyst. You have just embarked on the path of refining your alchemical flame, and may your path towards the pinnacle be swift. Allows the alchemist to create a moderate alchemical flame, emitting heat. Adds a small increase to the effectiveness of Alchemical Flame based on Wisdom.
+
+-->
+
+[Alchemical Flame (Mythical)] – Any good alchemist has a capable Soulflame, and you? You aim to be among the best. Allows the alchemist to create an Alchemical Flame carrying the properties of a Supreme Arcane Soulflame. The Arcane Soulflame is a paradoxical flame, capable of displaying both pure destruction and absolute stability. Control and usage of the Arcane Soulflame are dependent on the abilities of the alchemist. Adds a significant increase to the effectiveness of Alchemical Flame based on Wisdom.
+
+Looking at the new skill description, Jake couldn’t help but smile. Alchemical Flame was truly one of those core alchemy skills that never really changed much, and even after reaching mythical rarity, it still had a very basic description with lacking flavor text or details of any kind. It was a lot like Concoct Poison and Brew Potion in that regard.
+
+Nothing else in the new skill’s description really stood out to him or was a surprise. In fact, the only surprise was that he actually got experience from assimilating the Soulflame.
+
+You have successfully assimilated the Supreme Arcane Soulflame. Experience Earned
+
+’DING!’ Profession: [Heretic-Chosen Alchemist of the Malefic Viper] has reached level 347 - Stat points allocated, +35 Free Points
+
+’DING!’ Race: [Human (C)] has reached level 348 - Stat points allocated, +45 Free Points
+
+It was just one level, sure, and one Jake had gotten after crafting for months without getting one, but a level was a level. Compared to upgrading a Malefic Viper Legacy skill, it definitely didn’t do much, but Jake hadn’t expected it to either.
+
+Not that he had much intent to think about it, as Jake was too damn giddy to try out his new Arcane Soulflame.
+
+Opening his eyes in the real world, the flames had long subsided as they were now part of him, and raising his hand, a purple-ish arcane flame quickly sparked, flickering and lighting up the room as a mad grin flashed across Jake’s face.
+
+Man, did he have some ideas about how to use it already... he’d read so many damn books about different Soulflames and how they were all unique and all they could do, and all that stuff. Now that he finally had it, it was time to figure out what a Supreme Arcane Soulflame was truly capable of... and hopefully his alchemy lab would survive the experimentation.
+
+No promises, though.

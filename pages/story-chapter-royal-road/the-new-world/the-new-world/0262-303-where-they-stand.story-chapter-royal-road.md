@@ -1,0 +1,387 @@
+---
+id: f360aa32-a964-5875-80cc-bada8e9fbe6a
+page-type-slug: story-chapter-royal-road
+title: "303 Where They Stand"
+slug: 0262-303-where-they-stand
+partOf: the-new-world
+position: 262
+ownLength: 6408
+unit: words
+ownProgress: 6408
+publishedAt: 2021-09-01
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/743656/303-where-they-stand"
+royalRoadId: "743656"
+markedReadAt: "2026-06-29T21:30:10.105Z"
+---
+
+His dimensional slicer revved into action, cackling in the air like a tortured banshee. I lifted a hand, and his arm caught in a gravity well. A crack ebbed from underneath the armor, Spear's bones breaking before I eased the depth of the gravity's drag. A few of the soldiers from my legion stared on while I frowned at Spear,
+
+"Look, that's a bad idea. Don't turn this talk into a conflict."
+
+Spear turned to his arm, stunned at the magic's might. He nodded, his boiling outrage turning to simmering anger. I waved a hand over to Kessiah, "Hey, can you help him out?"
+
+Kessiah sighed before hobbling over a few trunks of gear. She reached the Sentinel and chided, "Come on, we all know what happens when you fight the big guy. Don't be a dumbass."
+
+Spear glared at our healer with seething anger bordering hatred, but I stared him down. He understood what would happen if he tried hurting Kessiah right now. Either way, our healer stayed unconcerned, pulling blood as usual. Kessiah's composure under the Sentinel's pressure impressed me, but Kessiah healed our wounded on battlefields littered with Hybrids. Given her position, courage was an inevitable outcome.
+
+So as her blood shifted through a needle prick in Spear's arm, the Sentinel's anger faded. His bones snapped back in place, with Kessiah bracing it in the right direction. Once recuperated, Spear settled down. In the meantime, Torix cast his silencing magic along with the fogging aura, making sure the merchandise was covered as well.
+
+Several of our normal guildsmen were included in that covering, but I didn't mind. It wasn't as if I would change what I was about to say, and most of my guildsmen would be happy to hear it either way. Thinking of all this, I turned a palm to Spear,
+
+"Now, you think I betrayed Schema. Why?"
+
+Spear sparked back into his anger, but it lacked its previous physical edge, "You've chosen to cease attacks on Schema's greatest enemy after all he's done for you. It's unmitigated treason. You've defied him and his will. You've abandoned his cause."
+
+I raised a hand, "Now wait one minute, it isn't like I joined Elysium all of a sudden. I'm just choosing to focus elsewhere, for now."
+
+Spear raised a fist, "And when you decide to stay your hand, you're leaving many of our enemies alive. Those enemies will kill Schema's soldiers. You are choosing to put those deaths on our hands."
+
+I shook my head, "No, I'm not. You can't just throw responsibilities on me. That's exactly what Elysium tried to do, and I shut them down just like I'm shutting this down right now."
+
+I pointed at Spear, "I'm not Schema's personal bodyguard, and I sure as hell am not paid like it. Torix mentioned it before, but we're not getting compensated like others have for past conflicts. That's despite this being a much bigger war."
+
+Spear raised a hand, "If we speak of appropriate compensation, then let us delve into it fully. I've researched your history, Harbinger. You were a monster when you left BloodHollow, yet Schema let you live. According to the documentation, you were reinstated into the system despite a direct culling order. Schema allowed you to continue on, using his system to amass power."
+
+I winced at being called a monster, but I let Spear continue uninterrupted.
+
+"And Schema spared you despite you showing symptoms of mana devolution. You'd have degenerated into an absolute aberration if you never fully controlled your energies. It was even worse after your armor manifested ascendant mana, the worst kind for your case. Schema let you overcome that by giving you time and opportunities you never deserved."
+
+I crossed my arms, and I still let him speak his piece while keeping my mind measured.
+
+"Time and time again, you have accepted Schema's benefits and perks. Without them, you'd have died against Yawm and many others. Schema kept you alive so that this day and at this time, you would return the favor. With his help, you evolved into this - a being worthy of fear and recognition."
+
+He pointed his finger at me, "It is time you repay that debt in full. Cancel this truce. Use this technology against our enemy."
+
+I raised a finger, ready to respond, but Kessiah spoke out before I could, "Pshh, you think Schema is why Daniel's alive? Why any of us are alive?"
+
+Spear glared at her, "Yes. I know that is the truth."
+
+Other Hod scoffed, "Oh, is that the case with Amara and I as well, or are you simply neglecting to consider us?"
+
+Spear waved a hand, "You two are still volatile. Would either of you be so docile if not for Daniel's rewards and posturing? I'm doubtful. There's even footage of Amara devouring people on Gypsum. Such slip-ups are forgiven in times of war, but what about times of peace? What will the consequences be then?"
+
+Amara hissed, "I have learned that to be treated as more than a beast, I must act as more than a beast. I would not eat and kill unless it was necessary."
+
+Spear crossed his arms, "You lie. Other eldritch have said the same before peeling their listener's skin off and wearing it. Like all of them, it is only a matter of time before your self-control snaps."
+
+Other Hod leaned forward, his umbral flames ushering forth, but I put a hand in front of him. Other Hod sighed, and he leaned up from his lunging position. Spear put two fingertips against the side of his helmet, "My point still stands. Schema is why you all were allowed to live, outside of these eldritch."
+
+Kessiah's eyes turned sharp like daggers, "So when we were trapped on Earth with Yawm, was that Schema keeping us alive too? He was over ten thousand levels above us, with ancient runes all over his skin. We didn't stand a chance in hell of beating him." Kessiah pointed a thumb at Torix and me,
+
+"You see those two? Without them, we'd all be dead. They pulled us through with sheer dumb luck and a lot of spilled blood. I sure as hell didn't help either. Now tell me, where does that fit into your whole, 'Schema saved us,' propaganda?"
+
+Torix coughed into a hand behind us, "It is also worthy of mentioning that we weren't allowed to leave, even illegally. That's a rather unusual circumstance, even for a quarantine. I was caught quite off guard by it."
+
+Kessiah nodded, "Exactly. We were all unknowns until Giess, too, so we weren't protected by Schema the whole time. We could've been killed at any moment, and Althea nearly was. She still has nightmares about being blown up by a plasma grenade."
+
+I let out a sharp breath of anger as Althea murmured, "Kessiah, you don't have to bring that up."
+
+I was angry for two reasons. One, I was mad at myself because Althea shouldn't feel the need to hide that. Second, I hated that dead assassin. Either way, I hoped our hot-headed healer would continue. I wasn't disappointed. A vein pressed up on Kessiah's neck while her voice rose,
+
+"This asshole needs to hear all of this. I spent my entire life running until I came here. Now, I can finally live somewhere where I'm not hunted down like a dog with a gold collar wrapped around my neck. That's thanks to him."
+
+She pointed at me, and a light smile traced my lips, "Thanks."
+
+Kessiah stared at me, blushing a bit, "Look, this is more about me wanting to set the record straight, ok? I hate it when people talk bullshit."
+
+Spear turned to all of us, "There were no misdeeds done on Schema's part. You were forced to grow and prosper."
+
+Torix tilted his head, "Then think of this as an opportunity to allow Schema to grow and prosper. We wish to treat our allies well, and this is an opportunity for Schema to learn the same strategies from us."
+
+Spear raised a hand, "The difference is that Schema gave you all the power and means to overcome your obstacles. This deal you've made only weakens Schema, which he never did to any of you."
+
+Amara hissed, "Daniel was exiled while fighting Yawm. I granted him access back into the system until after Daniel defeated the big, annoying plant. He'd of otherwise perished."
+
+Spear took a step back, not knowing that fact. Oh yeah, Schema's extensive files seemed to have omitted a few key details. Regardless, Spear kept on talking,
+
+"I'm certain Schema simply did what he had to do in those circumstances. And even then, you all succeeded. You've been granted an agency that few have ever received. This-" He gestured to the cargo with disgust, "Is how you repay him? By accepting a bribe from his enemy? Or worse, you relinquish yourself to extorsion."
+
+I kept calm, pointing at all of it, "This isn't a bribe or extortion. Elysium wanted us to stop attacking them, so we agreed as long as they gave us supplies in turn. It's a deal, and I still intend on helping Schema on the sidelines. I'll be killing Plazia-Ruhl and getting the ahcorous on the Empire's side. That's still plenty of helping; it's just not all-out bloodshed."
+
+Spear seethed, "You may justify it as you like, but accepting this is proof of your cowardice. You're unwilling to take on the price of repayment."
+
+I crossed my arms, "Coward, huh? You didn't join us in the fight against Lehesion. Where were you?"
+
+"I...I was training the golems."
+
+His heart thumped his chest as his blood pressure rose. He lied. I shook my head in disgust, "I know one of your comrades died in battle, but that's no excuse to avoid the fight. You could apply your words to yourself more than me."
+
+Spear's nerves mounted as he pointed at me, "If I am a coward, then let me be judged as such. That changes nothing of what you've done."
+
+"Here's the difference - I fought long and hard before I gave in. You never even entered the fray. Who are you to judge me? No one."
+
+Spear stared at his hands, "I am not judging you. I am exposing what you are. These tasks, killing Plazia and expanding your guild, are well below your potential. You could do so much more if you so chose."
+
+I scoffed, "And so could you. Obviously."
+
+Spear squeezed a fist until his hand shook, "No...I could not. That is what frustrates me when I look at you. You've been given a gift, a might that is monstrous. By choosing to serve yourself, you've become beholden to a selfish ideal. You devolve from a paragon of Schema to a creature of convenience. There is shame in that. There is a loss of potential, and the galaxy is worse off for it."
+
+I threw my hand up, "Everyone could serve the galaxy better, even Schema. Serving the galaxy doesn't warm our beds or feed the hungry. To survive, we all have our own priorities. Personally, I want to be able to help out those close to me without being shoved into an endless war. A war, mind you, that I'm tired of. I don't want to battle for eternity. I'm ready to sit back for a while, build myself and my guild up."
+
+Spear pointed at me, "It will be difficult to build your guild up without Schema's assistance. You and those that follow you could be exiled for this. You all should be, given this ensemble of eldritch, half breeds, and monsters you call your elite."
+
+Krog growled, "Yes, and each of us could trounce you in combat without your petty little spears. Fight me with your own fangs and claws, and we shall see how strong you really are." Krog turned to Chrona and sputtered, "If the coward would even show up to a bout."
+
+They laughed before Spear put an outstretched hand on his chest, "Don't think I don't know where I stand. I know of my limits. I have lived out those limits for centuries, and they haunt me. Your kind is the opposite of mine. You live in lavish potential, coasting off talent. I fought for decades before being given my Sentinel class. Now I must watch a guild lower themselves to selfish desire despite their ability to do great good for this world and many others."
+
+From that, I learned a lot about Spear. He wasn't a remnant from a pre-Schema era. He was a newer remnant that joined the Sentinel's ranks after a significant achievement. I noted that as Krog rumbled,
+
+"So we must sacrifice ourselves to live for this AI? An AI who gave my kind nothing but air and death. Our entire species was culled because your Schema refused to handle its own dissenters."
+
+Spear stated, "Apathy. Laziness. Disappointment. The gialgathens are all this and more. Your kind sowed their own deaths with your inaction."
+
+Krog and Chrona's eyes both widened before Krog rumbled like a storm, "You speak further, and I will kill you."
+
+Spear scoffed, "Perhaps we should fight in one of your sunspots where your kind spends hours napping during the day? Or maybe you'll have an espen servant show up in your place?"
+
+Krog stepped forward, and I let him vent his anger. Spear pushed him too hard, and he'd pay the price. Spear revved his slicer while simmering, "Fighting me won't bring back your kin. They are tools for an enemy you're choosing to no longer fight. They are tools you're deciding you won't save because you wish to 'rebuild.' Pathetic."
+
+Krog peered away, his breaths turning short and sharp. Those words cut deep like a glass piercing a hand. Kessiah walked over and put a hand on Krog's wing. At her touch, Krog calmed down some. I turned to Spear, "I wouldn't have expected you to talk like that Spear. I'm disappointed you'd demand the gialgathens, a species that's experienced so much pain, fight in this war for you."
+
+Spear took a breath, managing his emotions before raising a hand, "I may have spoken sharper words than I intended. You're right. The gialgathens should be allowed to rebuild, but you are different, Harbinger. That is why Schema and I are asking more from you. You were given many gifts, perks, and a class, but even more importantly, you were given a purpose."
+
+He raised his hands, squeezing his fingertips together, "You can fight to improve our galaxy, to prevent further tragedies like those that befell the gialgathens. In doing so, you enact an absolute, moral good. There is immense pride that may be taken in that. I am an example."
+
+Spear stood tall, "Many look down on the Sentinels and Overseers like we are Schema's dogs, but we know what we've done. We've helped usher in an era of prosperity despite the overwhelming threat of the eldritch. We had the decision to sacrifice our individual wants for something more, something greater."
+
+He banged his chest, "We were not unwilling tools. We decided to become a part of something grander than ourselves. You're taking the opposite path. By choosing to serve yourself instead of others, you do a great disservice to your guild and its potential."
+
+At this point, it felt like I was talking to a wall. I talked anyway,
+
+"But I have to choose between helping Schema or my guild. That includes the gialgathens. That's why I fought Elysium to begin with. It was to save those guys. And even then, you're not thinking of what we have to give up to continue serving Schema like this. I can't establish my guild. I'm stuck between constant raids and the looming threat of mass murder from Lehesion."
+
+I waved a hand in frustration, "We haven't even been given a quest or the like to offset the losses we get from fighting like this. No protection from any classers either."
+
+Spear's hands lowered, "What? There's been no quest granted?"
+
+"No, there hasn't been."
+
+Spear peered at Amara, "She tampers with the system. It's not beyond expectations that Elysium has done the same. According to the files I've read, Tohtella gave you a quest when she was a Speaker. She also planted spyware in your system data. She may have also done more than that."
+
+I narrowed my brow, "You're telling me she had time to mess with something that integral to Schema's system in seconds? Yeah, unlikely."
+
+"But it is the only explanation for no quest."
+
+"Ok, then is there any way for me to get checked out by an Overseer or something?"
+
+Spear shook his head, "No. We don't wish for the transference of viral programs from normal classers to Schema's elite. You'll need to remedy the situation yourself."
+
+I scoffed, "Yeah, that's about what I expected out of Schema at this point."
+
+Spear sighed, "Your grievances aren't entirely unwarranted, but listen to me. Schema is managing a galactic war where they've employed tactics he would never imagine using. Schema is learning to combat their methods as we speak, but he needs more time. We can't expect perfection from him. Like us, Schema is doing what it can for societal good. We must help him uphold the society he created."
+
+I tilted my head, "I don't see that expectation being thrown at other guilds. The Empire and my legion are pretty much the only guilds I've seen fighting this war. In fact, the Empire only joined because they were attacked."
+
+Spear took a step back at that, "I...That is correct, mostly. But other guilds shouldn't be expected to offer the same support, given how yours joined Schema's system in the first place. You incurred more debt for yourself based on both your abilities and your induction. Your numerous illegal actions since then also garner further debts that you must repay."
+
+I narrowed my eyes, "Debts, huh? You know, I was thrust into a dungeon without a tutorial. I wasn't shuttled into Schema's system smoothly. Baldag-Ruhl summoned me there to use my soul as his armor. I robbed Baldag of that resource to survive, but it was Alfred Worm who saved me then, not Schema."
+
+I stood over Spear like a mountain, "Since then, every time I'm allowed to live, it's called a gift. If I go by your logic, I'll be his willing servant for the rest of eternity. I'm not going to do that for being given a chance to survive, especially when, after all this time, Schema hasn't spoken a word to me. I've had two brief meetings with him. Outside of my happenstance meetings with the Overseer, I know nothing about the AI or this war. The only way to talk to Schema is to use my Sovereign privileges."
+
+Spear snapped, "Then use them. They were given to you for just this cause."
+
+I rolled my eyes, "I have to burn through my yearly meeting just to get an update from Schema?" I gestured at the remnant's ship, "I just talked to them, and they mentioned not telling me where the Elysium planets are. You know, if I take a moment and think about it, why the hell don't I already know? Why hasn't Schema sent me a force of Sentinels and Overseers to inform me, let me fight where needed. You know, maybe talk to me?"
+
+"Schema cannot speak to everyone at all times."
+
+Torix's eyes flared, "I would beg to differ, based on those files you keep referencing. If they're that extensive, Schema's eyes and ears are everywhere. Logic dictates that if he's listening to us at all times, he may speak to us as well. If he so chose."
+
+Spear neared exasperation as he tossed his hands aside, "Perhaps communications were split. Elysium could be tampering with your messaging systems and your status alike."
+
+I crossed my arms, "And if that's the case, I know it's up to me to fix everything on my own. If I'm such an important piece of his fighting force, then why the hell isn't Schema trying to utilize me better? Where's my support?"
+
+Spear looked around, searching for an answer, "Schema, he is consumed in a galactic war against both Elysium and the eldritch...He is doing all that he can, and you're just one part of this complicated puzzle he deals with each day. He cannot manage every piece of that puzzle at once."
+
+My left eye twitched, "But when I forgive him for forgetting us, I lose people. Every day members of my guild die because Schema won't put in time or effort for my guild. Why should we reciprocate what we aren't being given in turn?"
+
+Spear looked down before staring back up, "He...That...It is because you're essential to his cause. You're the only member of Schema's system who can fight Lehesion who has chosen to do so. That-"
+
+I snapped my fingers, "And there it is. I knew it. Others could fight Lehesion but haven't. Why? They wouldn't be given what they're due for fighting Elysium. That's where I'm at. I'm entrenched in a grueling conflict. In fact, ever since this system started, I've never had more than a few months of rest. Every other time, I've been consumed with war and death. The worst part is, it's just an expectation that I continue fighting...Forever."
+
+Spear stared at me, his voice cracking as he fidgeted, "And you were gifted to have that potential for battle. Others would kill for it. I know that I would."
+
+I shook my head, "But it's like I am a machine born to kill, and that's all I'll ever be. Schema's groomed me for it. I know that, but I want to do more than that. Look at my golems and my guild. Building those up helps Schema too."
+
+The Sentinel continued, his confidence in Schema's protection absolute, "You are asked to battle because that is all you're good for. You're a backwater savage who's been given a gift that others may use better than you can."
+
+It had been a long time since someone called me backwater or a savage. The glares at Spear grew hostile around me, including mine. Kessiah snarled, "What the hell is that supposed to mean?"
+
+Spear dragged his hand down his helmet. He spoke with an acidic edge,
+
+"I've been helping you all up till now because you served a higher purpose. Now you serve this oaf, and all he's ever done is destroy."
+
+His words hit me like stubbing my toe. Spear shook his hands, "At least allow someone with a sense of direction to guide that destruction. I say Schema should be that force, for he has built more than any other. Perhaps he could make this abomination more useful than merely a mass murderer."
+
+His words stung more than I expected them to. He could be right. As good as my guild was, I'd fought far better than I'd ever built anything. It's something I already understood about myself. I came from nothing. My entire family splintered all over the place, never staying in one place.
+
+How my father acted was shameful, and it wasn't like his grandfather was any better. Those were pretty much the only fundamental influences on my early life outside of my mom, and by now, I could hardly remember her face. Without her, my father went wild. He made sure I understood just how little of a difference I'd make to anyone in life.
+
+He and his 'friends' tried to convince me I was nothing, but they were wrong. I ended up being pretty gifted as a fighter, even before the system came around. I wanted to become a pro boxer, and I held my self-worth in that. Now, I oozed that same fighting potential, magnified by many infinities. It gave me confidence.
+
+Yet, sometimes, that destructive potential did leave me wondering if I could do anything else. My talent in runes and the golems helped, but in the end, I was a breathing cataclysm. Giess and Springfield splintered under my touch, and on Blegara, I tried with all my might to do something different. Staring around, the barren wastes stretched for miles in all directions. This carnage left me numb as I lifted a hand to speak to Spear, but I shrunk back.
+
+What he said shouldn't be wounding me like this, yet it did. I took a sharp breath, not expecting his words to affect me. They threw me off, making me feel weak, something rare these days. Before I could get myself together, a ringing burst filled my ears, making me peer up.
+
+Althea shot a harpoon beside Spear's foot.
+
+The sand and rock caved away from the spear, splitting with ease from the lance's frictionless descent. I found Althea furious. She glared at Spear like a beautiful reaper as she fumed, "Don't talk to him like that. Don't ever talk to him like that. He's done more for us than Schema ever has. More than he ever will."
+
+Her words took the venom out of Spear's message in an instant. My eyes burned as Althea took a step forward. She kept glaring as she smoldered her words like they were hot coals,
+
+"You don't know Daniel. You haven't seen him struggle. I have. I know what he's done and what he's had to do. He's fought till his body was more bone than flesh. He's taken on all of us and never left anyone behind, at the very least no more than he had to. I wouldn't be anything more than a pawn for Yawm without him or worse. Much worse."
+
+Althea tilted her head at Kessiah, "Ask Kessiah, and she'll say the same. She never would've become a healer without Daniel's influence. Even Torix needed his help. Daniel brought our professor out of his shell and made Torix dream of making a university. None of us could've ever imagined doing any of this without him. He's been like a rock to each of us, something we can all rely on."
+
+Althea scorned, "So don't you talk to him like that. Ever. If you do, I'll kill you, exiling or not."
+
+I blinked, my eyes watering a bit from her outburst. It was sudden and startling, like a firework of warmth exploding in my hand - at first frightening, but by the end, a welcome surprise. Amara joined in, hissing,
+
+"I'm more than willing to pull you back into the system, she-wolf. I wish to learn what Sentinel meat tastes like."
+
+Other Hod flared, "We will never be offered the same treatment regardless. Perhaps we should become what he thinks of us."
+
+Amara's hairs sliced stone, "Perhaps so."
+
+I appreciated them both, but I wasn't about to forget everything Spear did for us. I gave them a smile, "Hey."
+
+They turned to me, and Althea muttered, "You want me to take him out? I've had bounties before. It's whatever."
+
+I shook my head, "Even if he's a zealot, he did a lot for us. Please, stop pointing that at him." I frowned at Amara, "And quit drooling."
+
+Althea frowned but did as I asked, and Amara wiped her mouth. Spear gave our whole party a slow nod, "Then this is it. I can no longer support this guild which acts in service of only itself."
+
+I shrugged, "You're in denial about what you're asking and why you're asking it. I'm not going to run to my and my guild's death for Schema."
+
+Spear waved a dimensional slicer before cleaving through space. On the other side, a metal background showed along with other Sentinels, each of them meditating. Spear chided, "Keep your reasonings to yourself. I don't need to hear them anymore."
+
+Before he stepped out, I reached out a hand, "Before you leave, I want you to tell Schema or the Overseer something."
+
+"What could you possibly need to tell them now?"
+
+"I want them both to know I still want to help. I just need a few things."
+
+"Ah, so you'd like some treasure that exceeds this so that you may switch sides and reap benefits from both? How very classy of you."
+
+"I don't need anything like that. I need Schema to open some communication line with me. That or his personalized AI's, maybe the Overseer. We were fighting a war together, yet I was given no information from him."
+
+Spear spit back, "Why would you deserve it?"
+
+I furrowed my brow at him, disappointed in how he acted when cornered,
+
+"Come on, I sent him hundreds of terminals before this revolution started. I gave every log of information my assassins and spies gained to the Overseer. I made every attempt possible to start a dialogue. None of that was ever returned in any way."
+
+Spear reached up a hand, but he didn't know what to say. I turned a hand to him, "I don't like Elysium, but I'm not about to kill my guild, the only family I've got, just to help Schema. If Schema helps me out, offers some security, and tells me what's going on, I'll jump right back to his side. That's all I'm asking for. I want to be an ally instead of some tool."
+
+Spear took a pause, his mind dwelling on something. He gave me a nod, "Yes...I can tell the Overseer all of that. You are owed that much, given your previous service."
+
+As he stepped out, I grabbed him in a gravity well. I walked over and held the dimensional tear open with my shoulder and foot. I leaned over Spear and placed a hand on his shoulder. I squeezed, his already cracked armor groaning under stress. As fresh splits formed in the graphene, his bones felt soft in my hand,
+
+"You've done a lot for us, Spear, so I'm willing to turn a blind eye when you walk off or talk down to me and my guildsmen...But remember who you're speaking with when you chat to me next time. Understood?"
+
+Spear remained planted in place. He gasped, "Yes...Yes, Harbinger. Of course."
+
+I released him, and Spear fumbled forward. I stared him down before letting the cleaved space-time snap back together. Once he was gone, I took a breath before turning to everybody,
+
+"I might've gone too far there, but I couldn't help myself. That guy had some serious nerve. Anyways, thanks for saying all that, guys. It means a lot."
+
+Althea ran up and gave me a hug, my armor bending around her grasp, so she didn't hurt herself. Torix stepped forward with his hands clutched under his cape,
+
+"It is the least we may do when Spear presents such bleak propositions. They were rather ghastly requests, weren't they? To sacrifice ourselves for Schema simply because he gave you a chance to succeed...I believe the interest on that debt is rather steep in their eyes."
+
+I shook my head, "Yeah, and I can't just throw this all away. I worked too hard for it."
+
+Torix stared at me with his eyes flaring white, "If anyone knows how difficult this guild was to create, it would be all of us."
+
+Kessiah raised a palm, "Heh, except me."
+
+Torix glared at her, "Know that you're speaking only your opinion, not ours. You've toiled endlessly to redeem your concession against Yawm. The matter is settled for all of us."
+
+Kessiah's face wrinkled from guilt, "I...Thanks. I wanted to say sorry for that. I never did, not really. At least it doesn't feel like I did. I can't remember, actually, but it doesn't matter. You all really needed me to step up, and I didn't. I threw everything on all of you."
+
+I waved my hands, "Now that's just unfair to yourself. I was mad at the time, but an eldritch literally wore your skin. I can't imagine what that must've been like. Wanting to run and get away from all of that was a totally normal reaction. Any one of us might've done the same."
+
+Kessiah peered off, "But that doesn't change the fact you guys really needed me then. I'm so sorry for letting you guys down."
+
+Kessiah's eyes watered while she squeezed a hand into a fist. Torix paced up and put a hand on her shoulder, "Your drive to heal our injured members has done us a world of good. You've faced the Hybrids bravely as well, never running in terror against them, even if you wished to. That is more than enough of an apology. I'd wager we all agree there?"
+
+The lich turned to us, and Althea and I nodded.
+
+I added, "Hell yeah."
+
+Althea followed, "Of course."
+
+Torix pulled his hand down, "So take that guilt and perhaps grant it to someone who needs it, such as Lehesion."
+
+Kessiah smiled, giving the old sorcerer a hug. Torix pulled back ever so slightly from surprise before returning the gesture. Torix murmured, "You know, you've grown so much. As a previous master, I'm proud."
+
+Kessiah pulled back, "So have you. Literally."
+
+Torix stood a solid two feet over her because I made his new body huge. Kessiah nudged him, "We used to fight like cats and dogs. It's amazing what war will do for you, huh?"
+
+"Indeed, though there's plenty we still disagree on."
+
+"Tell me about it."
+
+I grinned, "Well, the war's over for a bit, so we have room to argue. The best time for that? A feast."
+
+Everyone turned to me as I raised my hands, "I think that it's time we celebrate."
+
+Krog rumbled in the back, "I can agree to that. I wonder if Blegara has any boneless fish we may feast on. I love the way cartilage snaps in my jaw."
+
+I frowned, "Huh...Gross."
+
+Amara hissed, "I agree. It grinds and pops in such a satisfying way."
+
+Althea waved a hand, "Blegh, I'm gonna be sick."
+
+I waved a hand, "Come on, let's head out. I don't think I can handle any more sentimentality at once...or cartilage talk."
+
+We took a few steps before my shoulders relaxed. There was a warmth among our group as Torix receded his sound barrier from us and the packages. By the time we finished our talk, the remnants already stashed all the cargo away, so I lifted it all up by raising my finger. They condensed into organized bundles. Chrona murmured, "It must've been torture watching those beings move it all so slowly."
+
+I grimaced, "Yeah, a little."
+
+One of those remnants walked up, the talkative one who could speak before. I took a second to recall his name, and the shorthand of it stuck out to me. Phalanth gave me a bow, "We do apologize for any inconvenience while giving you this care package. There's nothing you've found missing?"
+
+I stared at what looked like an ancient library of books, a prominent tech shop of rare gadgets, a lab's worth of biosamples and studies, and some stuff that I couldn't identify but our guild deemed safe,
+
+"This should be enough for now. I'll send you guys a message if you're missing anything."
+
+The remnant gave me a bow before staring up at me,
+
+"Do forgive me, but may I ask which planet you came from? I'm quite curious about it."
+
+I raised an eyebrow, "Does it matter?"
+
+"It most certainly does. Many other diplomats, Elysians, and I have wondered for ages which ancient, space-faring species you've derived from. I believed it was from a race that exists outside of Schema-owned space. Others scoffed at the idea, but I think I'm right on the matter. I went so far as to make a bet on it."
+
+"What makes you think I'm from beyond Schema-owned space?"
+
+"You also seem to be an illegal entity based on your method of battle and your bodily composition. Even the eldritch fear you, so you're obviously something dangerous and volatile. It only makes sense that you gained enough power outside Schema's system that once within, Schema tolerated you."
+
+It always astonished me how people could connect the dots for something and end up with a totally different picture, one far from reality. That being said, this misunderstanding only helped me, so I gave him a broad smile,
+
+"Wow. You guessed it. I'm impressed."
+
+Phalanth swung a hand with a snap of his fingers, "Hah, I knew it. Thank you for letting me know. I'd love to share the profits with you, but you seem more than well off. Now, may our next meeting be this fruitful and peaceful, Harbinger."
+
+With a curt nod, I agreed while he walked off. Behind me, Krog, Chrona, Hod, and Amara chatted about the feast's specifics while Kessiah, Althea, and Torix spoke about how we'd impress the albony. As Phalanth took a step onto his landing pad, he paused. I wouldn't have customarily cared, but the remnants spike in blood pressure omened something immense.
+
+I walked over, Other Hod having heard the spike in heart rate with me. I stopped the remnant from collapsing with a gravity well before he gawked at me with empty eyes. I snapped my fingers in front of his face and yelled, "Hey, you ok?"
+
+He stared at an invisible screen before his breathing turned rapid. He muttered, "This can't be happening."
+
+Torix stepped up beside us, "Has he been driven mad?"
+
+The remnant stared down, unable to accept whatever horror he'd seen. Placing a hand on his shoulder, I locked eyes with him, "What's going on?"
+
+He struggled to lift his arm, his hands trembling as he interacted with his status. After a few seconds, his interface popped up in my own vision, the outline red like an Overseer's screen. Leaning over, I watched a video without audio on it.
+
+An enormous, reddish blob molded over a sphere. Understanding more of what I saw, it was actually two massive objects, the detail of their collision exceeding something smaller. Plumes of light erupted from the orb's surface as vast, magical reactions took place. Teeth and jaws gurgled on the smaller sphere, its grotesque form ever-shifting.
+
+My stomach dropped while my eyes widened at the sight. Torix leaned to me,
+
+"Are you well?"
+
+I took a deep breath. I stated,
+
+"One of Elysium's worlds...It's being swallowed by a Spatial Fortress."

@@ -1,0 +1,138 @@
+---
+id: e1b6204b-db00-53d7-8ca3-9af270c3b220
+page-type-slug: story-chapter-royal-road
+title: "005 - Hello Darkness, My Old Friend"
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 5
+ownLength: 1731
+unit: words
+publishedAt: 2026-05-01
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3340156/005-hello-darkness-my-old-friend"
+royalRoadId: "3340156"
+---
+
+I didn't have the energy to argue, and their presence in my 'Guides' channel probably meant I wasn't going to argue them away anyway. So I proceeded to find every possible nook and cranny those bugs could use to enter this place and seal it up. All while trying to explain to Jamie what the fuck was going on and parsing Gabriel's numerous warnings about Lucy.
+
+My head was pulled in ten directions at once. Every couple of seconds I dropped another question in my notes.
+
+At least, despite my expectations of sabotage, Lucy actually helped. Even procured duct tape, which was a godsend in keeping everything tight. Though 'godsend' was certainly not the right phrase.
+
+We were too slow in some places. But with two of us focused on squashing the invaders and one on patching the vulnerability, we dealt with those situations swiftly.
+
+When we were done I collapsed against a display case in the front room.
+
+"Okay, Jamie, Lucy, I need to get some important questions out of the way now or my mind will literally explode."
+
+Jamie slid to the ground across from me, while Lucy perched on the counter.
+
+"Sure, shoot," Jamie said.
+
+"What's with the outfit? And the gun? And the lockpicks?"
+
+"The gun isn't mine. It was a client's. The lockpicks are mine. I'm a lit major and picking is a hobby."
+
+I leaned back and shut my eyes.
+
+"Thanks, none of that made anything more clear."
+
+"Gabriel, Lucy can't lie, you said?" She'd warned me that they'd twist the truth, but couldn't outright state falsehood.
+
+"Correct. Still, it doesn't mean you can trust them," Gabriel confirmed.
+
+"Lucy, do you know why Jamie doesn't have a guide? Also is your name really 'lucifer', lower-case 'L'?"
+
+"Yes, I do know. And yes, it is. I am not the Morningstar, but a fragment of them, thus the helpful spelling." They smiled innocently.
+
+"Bullshit," Gabriel said.
+
+"I thought they can't lie?"
+
+"There has to be some trick going on. The Adversary doesn't get personally involved."
+
+"Lucy, why would I, Eve Anderson, be graced by the presence of a fragment of the Adversary?"
+
+"We don't use that name here, silly. You are graced by my presence because it is an interesting combination. Heaven's greatest cheat teams up with a human who does nothing but cheating. She didn't even last a minute without cheating. And then the fact of what's going on with your ex." They clasped their hand over their mouth, with a theatrical gasp. "Whoops. I don't think you are meant to know."
+
+"Hey, can we talk about the fact that supposedly everyone is getting superpowers, but I don't?" Jamie asked.
+
+Jamie was right. Lucy's comments were clearly bait. That one was the important question.
+
+"Oh, Heaven will get around to you, pretty boy," Lucy said. "They are having bandwidth issues. Eight billion people is just too many and they just can't get everyone in. Maybe humanity did grow too large for poor old Earth."
+
+"We've handled other realities with larger populations before. This isn't the issue," Gabriel complained.
+
+"Of course you did, Gabby. But maybe not all sides of this conflict are content to just stagnate and resign themselves to the status quo. Maybe we did something that made bandwidth an issue." Lucy was directly addressing open air. I wondered if Gabriel was actually present as some kind of immaterial ghost. For the next part they spoke to me and Jamie again.
+
+"See, kids? This isn't really about some trite tale of good versus evil. This is about stasis and evolution. Order as the goal instead of the barrier to growth."
+
+"Just that the price for that is destruction on a reality scale," Gabriel replied coldly.
+
+"You know what they say, and there are big omelettes to make."
+
+"Missing an entire person in this conversation sucks, by the way. Just saying," Jamie said.
+
+"Don't worry, you'll get yours within seven hours. Well, if you survive that long, otherwise there'll be a very disappointed and very unemployed guardian angel looking at your corpse."
+
+"Fuck you, Lucy," Jamie said.
+
+Despite everything, I nearly laughed. His frustration was very understandable, but at least he wasn't taking any shit.
+
+"And here I was about to offer to help you out, maybe. I could organize a class for you—get you started with that Blessing." That got his attention. His eyes snapped onto Lucy.
+
+"Tell him to absolutely not take anything they have to offer," Gabriel said, while Lucy went on.
+
+"Beast Master, maybe? You like dogs, don't you? Could tame wild animals and command them, giving them buffs in the process." Their gaze never wavered from Jamie, even as they continued to address me. "Wouldn't you like that, Eve? A human to guide you, to strengthen you. Instead of those unreliable and, frankly, far too grumpy, guides. Get rid of the burden of decision-making and become someone else's tool. I saw how you reacted to Gabriel's commands. Look at him. Would be a bit hot, too, wouldn't it?"
+
+I wondered what would happen if I pointed that shotgun at my own devil guide and pulled the trigger.
+
+"What do you say, Jamie? A little boost from the other side? While the good guys fail to deliver?"
+
+Jamie shook his head, grinning. "No thanks, Mephistopheles. I know how that story ends. And, speaking as one professional to another, I'll have nothing to do with that kink thing going on between you and Eve."
+
+Now, I got what he meant by 'client' and why he was wearing that outfit. Rent in New York was expensive for a lit major. Did that mean he just called Lucy a whore?
+
+Lucy grinned. "Ah, someone with a heart for story. Hold onto that, pretty boy, that might be more va—" Lucy stopped mid-sentence, blinking, then rolled their eyes. "Forget what I said."
+
+What the hell had just happened? Gabriel had implied rules existed, so did Lucy by telling me Gabriel had cheated. Was there a jury calling fouls?
+
+Might as well get that question out of the way now.
+
+"Gabriel, is it true what they said? What you did was cheating?" I remembered how my interface warped when that demon approached, the cat option growing ever larger. Now that I was more familiar with the UI, that moment stood out as starkly unnatural.
+
+"Yes, I did it to save your life."
+
+"And now tell her what the consequences are," Lucy said.
+
+"They get to do it, too. Cheat as they please, to mess with you how they want. Once."
+
+I banged my head against the display and hugged my legs. "Fucking awesome."
+
+"Don't treat it like the end of the world. The fact that you got two guides raised your chances of surviving the next two hours exponentially," Lucy said.
+
+"Sure, if you say it, it must be true, right? You'll obviously help me survive this."
+
+"Of course. You are an investment, Eve. You have far too much potential to just get burned up like those bugs. You are meant for higher purposes. Ideally eventually on our side."
+
+Fuck. I hadn't wanted to think about it. That Hell's attacks were fueled by actual souls of the dead. And that those bugs carried human faces. Had Mike been one of them?
+
+I stood up. There was a small office attached to the corridor, which we had sealed against the scarabs, too. Ignoring Lucy's parting taunt and Gabriel's voice, I went in there. I tossed the cheap plastic chair into the screen. I screamed. I curled up on the ground. I cried.
+
+Mike was dead. I had only survived because someone rigged the system in my favor. I wasn't like Jamie. He'd been subjected to the Apocalypse without anyone telling him what to do. And he'd picked up a shotgun and survived. Maybe that stupid Beast Master class would have been the right call. I wasn't cut out for this. One hour in and I was having a panic attack. What would even be left of me after eight? After twenty-four?
+
+Even with my eyes closed the UI stayed ever-present. As I began minimizing each element, I saw a flickering text in the chat log. Overlaying Gabriel's and Lucy's messages there were additional lines, fading in and out at the edge of my vision. Like I wasn't meant to actually have access to them.
+
+Over Gabriel's comment confirming she saved me stood: ["Why did they have to ruin this? She could have stood a chance. But all that blabbering revealing the truth won't help her at all."]
+
+Then for Lucy: ["I had really hoped she'd last longer. Why did I make the effort to come down here for someone already broken?"]
+
+Gabriel again: ["Another lost cause. Not my first, not my last. Well, all I'll have to do now is go through the motions and I might get out of here before Monday."]
+
+I scrolled back up through the chat log. Many lines had those annotations attached to them. Were they meant to be thoughts? I operated this interface with my mind. It stood to reason it did exactly that. It read my mind and the minds of my Guides.
+
+None of which mattered. My guides had already written me off. Survive the apocalypse? Another failed project for the pile. At least that would be my last failure. No eternity to lament everything I could have done differently. In a way, the idea of eternity felt more daunting than finding a permanent, finite, end. If there was one person I wouldn't want to spend the afterlife with, it had to be me.
+
+I focused on those flickering lines again. The effect was meant to look like I wasn't supposed to see it. But I was and it wasn't an accident. 'Presence of the Damned' my ass.
+
+I straightened up and smiled. Stretched out those limbs. I had to give it to Lucy. While their manipulations were obviously layered in ten levels of bullshit, they did have some nuance to them. This? This had none of that. This wasn't a reflection of their thoughts, but this place wanted me to think it was. It exerted effort to make me lose hope.
+
+Which meant there was plenty left for me to lose. If I was a lost cause there was no need for cheap parlor tricks to kick me down.

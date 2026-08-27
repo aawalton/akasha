@@ -1,0 +1,361 @@
+---
+id: 5da1892b-f9d1-55c5-91d3-c36b95daa1e0
+page-type-slug: story-chapter-royal-road
+title: "229 The Battle for Polydra"
+slug: 0188-229-the-battle-for-polydra
+partOf: the-new-world
+position: 188
+ownLength: 6686
+unit: words
+ownProgress: 6686
+publishedAt: 2019-10-04
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/409955/229-the-battle-for-polydra"
+royalRoadId: "409955"
+markedReadAt: "2026-06-29T21:27:21.608Z"
+---
+
+Several of the shining ships turned towards me as I shifted to The Rise of Eden. The enhanced mana generation saturated my blood faster than Event Horizon did. After a few seconds, I changed back to Event Horizon as one of the ships aimed at me. A swarm of fighter jets charged as I discharged a singularity at the frigate.
+
+The blot of black expanded halfway into its hull, the devastation expanding. As it reached its apex, the ship ripped apart inwards. The gravitational implosion rocked outwards with a deafening echo and shockwave. The flameless explosion let me see it all in pristine detail.
+
+The glass shattered on nearby buildings as concrete collapsed. Cars upturned and one building collapsed sideways. The pulse caught several of the fighter jets, sending them spiraling outwards like a shotgun blast. Fireballs erupted across the city as the planes tumbled into buildings, pavement, and the rubble.
+
+The frigate showed one-third of its hull eaten by the singularity. The other two-thirds carried abuse from the chaotic shockwave. It was like staring at a decapitated corpse walking forward off momentum alone, its fate already sealed. Like a helicopter that lost control, the main ship spiraled in circles before collapsing into the city. Its front deck split apart from the back as it crashed into the ground.
+
+The resulting plasmic fire erupted, and the radioactive cores heated to extreme temperatures. Nearby stone ignited as the metal nearby melted. I sprinted forward, the cityscape bending under the weight of my heels. As I leaped up, glass shattered around me, nearby cars sent tumbling.
+
+Leaving a crater behind, I jerked myself forward towards the collapsed starship with a gravity well. Two fighters dashed past me as I did, but Event Horizon killed the crew members.
+
+Dozens of other fighters followed in their flight paths, the crew members fell like flies. After crossing over a few buildings, I slammed into another group of Hybrids and espens. Vaporized on impact, they died without effort. I glared up at one of the two remaining larger frigates. They escorted the massive dreadnoughts encircling the city.
+
+The fleet rallied to defend against me. Two of the cannons on the frigates aimed at me before unleashing havoc. Plasma bolts crashed into the ground where I stood. My surroundings melted into a pit of glowing soup. My health depleted for a second or two, burning through a third of it. Once the initial burst of damage finished, my health bar raced back up.
+
+It wasn't nearly enough to stop me.
+
+From around me, I collected the plasma and liquified rock into a gravity well. It fell from my skin, leaving me in a smooth crater. With the flick of my wrist, I lobbed the plasma and rock back at the frigate, spraying the liquid wide like a net. It caught several smaller fighters, killing them on contact. The frigate faired no better.
+
+The larger vessel mimicked an acid victim, the right half of its hull caving inwards. I stuck my hands outwards, wielding vast oceans worth of mana. I created dense gravity wells within the ship, strong enough to cave in steel. I waved my arms, the gravity wells shifting inside the hulls. Pulling the plasma deeper in, enormous shards of the ship ruptured out. Once weakened, I wrenched out the guts of the vessel.
+
+One swipe after the other, colossal portions of the ship fell apart from the main body. With one last surge of will, I created a telekinetic splice down the middle of the vessel. With a growl, I pushed outwards with all my might, riving the ship apart.
+
+The rippling, aliens sound of tearing cords and shearing metal echoed across the landscape. Two halves of the ship tumbled apart with a shockwave erupting from the telekinetic splice. The plasma cores exploded before I tore the radioactive centers them from the confines of the halved ship.
+
+The superheated cores cast the battlefield in a massive white light like stars. I lobbed them at the last remaining frigate. The ship's diagonally set engines gave it maneuverability. Using them, it shot sideways, dodging the catapulted cores.
+
+My element of surprise all but gone, their forces refined their tactics. I stepped out of my crater, as the ship pulled back. With a blot of gravity, I pulled my hands forward and pulled it back. It charged a bolt at me, firing another shot.
+
+In one motion, I released my gravitational anchor on the ship and shifted to The Rise of Eden. With a burst of quintessence, I generated a pillar of metal in the plasma's flight path. The energy bolt burned halfway through the steel with ease, but I kept piling on more mana into the cylinder of steel.
+
+The bolt slowed down before stopping just shy of me. I coated the gloppy metal in a wave of ice which held it together. The enemy frigate regained stability from my gravitational jerk as I grabbed the sides of the iced plasma. I reared my arms back and chucked the icy log of plasma and metal at the remaining ship.
+
+The force transferred from my arms to my feet and into the ground. A smaller building behind me collapsed backward from the shockwave of toss. The large, iced plasma column slammed into the front of the ship, destroying its central hub. Plasma melted through the ice, coating the vessel in plasma and mist. It crumbled as a shining rain of ice erupted from the impact, a beautiful sight amidst the devastation.
+
+Melting into oblivion, the ship wobbled but stayed standing. I sprinted forward before leaping up. With each step, I created blobs of stone underfoot. The stones exploded under the impact of my stomps, but with them, I ran right up to the ship.
+
+Lunging off the last stone, I landed onto the hull. The smooth, steel shell buckled under my footsteps. The frigate dipped down as my mass interfered with its once effortless hovering. I stuck my hand into the ship, drenching the whole vessel in a monumental wave of mana. The quintessence injected thermal energy throughout the hull, melting a vast portion of the ship beneath me.
+
+The metal depressed beneath me before liquifying. I fell downwards into the molten abyss. Around me, I flooded the hull with more heat. I melted through the ship, my armor glowed white as I passed the final flooring. Landing onto Polydra's ruined metropolis, piles of molten metal pooled into white, glowing sheets around me.
+
+I glanced upwards, finding a gaping hole liquified through the center of the ship. Crew members within caught fire before jumping out of the hell they found themselves in. Others ran from the heat and into the depths of the doomed vessel.
+
+The starship fell into the side of a skyscraper, a storm of glass erupting on impact. The structures both collapsed over the other, utterly demolished. Plumes of dust and fire erupted from the collision. As it passed, I scanned my surroundings, finding the dreadnoughts unmoving. Instead of fighting me, they collected a few final gialgathens from the Hybrid ground forces.
+
+Before they finished, I reared back, grabbing a giant boulder with a gravity well. I catapulted it out towards the nearest dreadnought. It collided with an invisible forefield, a wave of dust sputtering out. I jolted all the remaining rubble near me, no rebar or concrete left for hundreds of feet.
+
+Once out of projectiles, I made some. Using quintessence, I created chunks of iron beside me. Shifting back to ascendant mana, I lobbed the craggy balls of metal at the giant, hybridized dreadnoughts. They clanked off of their forcefields, a thin wave of blue erupting from the collision points.
+
+They stopped collecting gialgathens, several of their warps failing. One of the massive destroyers let out an alien, gurgling echo. Around me, several of the wobbling spires began winding up.
+
+I slammed my fists together, ready for their attempts of retaliation. The first pulsing spire snapped towards me. I countered its blow with a swipe of my hand. The pillar crumbled at my touch, the rubbled ground around me bellying up with fissures.
+
+Before it jerked away, I reached out a hand and pulled it back with a gravity well. The spire bent towards me before I grabbed hold of it. Shifting to Rise of Eden, I extended my armor into the tentacle stopping its escape. It let out a high pitched squeal, the organic being writhing in pain.
+
+Too dense for it to swing me, I snapped my hand towards the next tendril attempting to attack me.
+
+It crushed against my frame, its own body too soft to properly harm me. Slabs of iron fell into the ground as I latched onto it. In my arms, I held two of the massive yet thin tendrils. From above, Krog and four of my gialgathen guildsmen flew to help. Krog rallied them as they let out streams of multi-colored fire at the bases of the living spires.
+
+They writhed in my hands, but I held them in place, using their contrasting pulls against each other. A few seconds later and the resistance let up. The gialgathens melted through the entire tentacle bases. As they gathered up their brethren. The dreadnoughts turned towards us. A Horde of Hybrids ran up to the tentacles bases and up to me. I shifted to Event Horizon, stealing dozens of Hybrid's life force at once.
+
+Their rage-fueled run devolved into a desperate crawl. The Hybrid's mana flooded into my blood, evolving me into a living nightmare. As the mana saturated my body, the dreadnoughts lined up some sort of weaponry at my guildsmen. As they readied to fire, I wielded cities worth of mana in each arm.
+
+I clenched my teeth and fists as I used a myriad of gravity wells to move the spire in my right hand. With a growl, I lobbed it in front of the dreadnought's first onslaught. A wave of arcane lightning bolted into the massive tentacle. The giant spire absorbed the entirety of the attack, violet cracks forming over the superstructure.
+
+The mammoth tentacle crashed into the city before crumbling into a fine ash as if it never existed in the first place. My eyes widened.
+
+Alright, I might want to dodge those beams.
+
+I roared as I chucked the next spire at another incoming burst from the other dreadnought. Another rippling wave of arcane force shot outwards from the point of impact. It disintegrated the tendril in an impressive yet silent display of power.
+
+Having bought them time, my gialgathenic guildsmen pulled large piles of captured brethren out of the torn tentacles. The dreadnoughts turned their attention to me and readied another series of attacks. I ran towards them, my footsteps quaked the earth beneath me. As they let out the deafening crack of readied bolts, I dove into the ground.
+
+As if diving through water, I swam through stone. I burst myself further down. Above me, the ground disintegrated into the fine ash of before. I whipped back to the surface with a cataclysmic jolt, discharging my runes.
+
+Using the burst of power, I shot out like a bullet. I dashed towards the massive dreadnought, wind whistling in my ears. Once more, I drop-kicked at the forcefield, unleashing a kinetic round at the superstructure. The impact created a massive wave across a nigh invisible field of blue energy. It held as I bounced backward, both my legs fine this time. A slight bend in my legs stopped all the force from transferring right into my bones.
+
+As I fell, fighter jets swarmed towards me from all directions. They flocked from the dreadnought's hull. They collapsed towards the ground around me, like bees flying into a fire. Their lives gave me untold vitality as I flipped myself around and shot myself back at the barrier. Anchoring myself with a gravity well, I pressed on while smashing my fists into the forcefield.
+
+The reverberations off my strikes rippled across the entire landscape. The forcefield shivered like a stormy sea as portions of it billowed outward. The shield caved inwards after several blows. I followed it, continuing to ground myself with gravity despite my lack of footing.
+
+At that point, I closed in on the frame of the destroyer. At this range, the cannons couldn't touch me. They were far from helpless, however. From the hull of the dreadnought, dozens of people stormed out. They formed squadrons of seven, five power armor laden warriors in front of two mages. These units positioned themselves on decks spread throughout the dreadnought's surface. Along with them, an enormity of anti-personnel cannons pointed in my direction.
+
+With a flash of color, they unloaded spells, bullets, and energy beams. A rain of blue bolts erupted from the rifles and cannons. They launched rays of navy blue that darkened everything near them. These beams crashed against my skin, the superheated plasma sticking like glue.
+
+On the other hand, the solid bullets crashed against me more like kinetic launchers than piercing weapons. Their speed allowed for tectonic collisions, the projectiles disintegrating against my skin. A few of these impacts knocked the plasma off me, and a few gravity wells in the distance threw their aim off.
+
+With that reprieve, I countered the mage spells the best I could. These multilayered offensives rushed towards me like a fireworks display. Soaring eagles of yellow light dove down from the skies while aiming at my eyes. Delayed orbital bombardments of light shot down out of the clouds. From below, a horde of green bees stung and bit at my legs.
+
+I darted back and forth, creating subtle shifts in my position as they came at me. These subtle jerks evaded many of the crew's spells. On the other hand, some area of effect spells hit me with little effect. That was fine. Tanking those wasn't much of a problem. The violet lightning was, however.
+
+A series of arcane bolts erupted from a group of specialized mages far back on the dreadnought, their violet lightning exploding in a storm fit for demigods.
+
+For the moment, I aimed all my attention at the arcane bolts. With subtle shifts in my position, I edged between the rain of arcane destruction. Many struck me despite my dodging. The flock of energy attacks was too thick. It was like trying to dodge the rain during a thunderstorm.
+
+The electricity stung like a mix of poison and fire. Chunks of my health fell down as I raced for a counteractive plan. I created semi-permanent gravity wells around me, saturating the areas with mana. With those keeping me afloat, I shifted to The Rise of Eden.
+
+I created growing chunks of dirt in front of me. These blocked many of the arcane bolts. Between volleys of arcane magic, I shifted to Event Horizon, wailing on the forcefield with abandon. They changed tactics after half a minute of this dance.
+
+They alternated to a steady stream of arcane strikes, attempting to wear me down. This made switching my mana types far more difficult. On the other hand, I dodging a couple bolts at once was doable. We kept changing our strategies back and forth, each us attempting to stay one step ahead of the other.
+
+With a portion of my focus aimed at this tactical dance, a wave of psionic energy slammed into my mind. Distracted and preoccupied, it hit me like a truck. Oddly enough, a truck of mental force wasn't so bad.
+
+Their psionic abilities didn't cripple me like the last group had. Several reasons explained that. I wasn't an utter novice anymore, and either of my Dimensional Wakes resisted psionics as well. Event Horizon fizzled the mental assaults before they reached me. The Rise of Eden just gave me the raw stats to buffer my lack of experience.
+
+Without the cutting edge of the last psionic onslaught, I kept sharp and on point. The enemy forces rallied more troops, more mind mages joining their ranks. My iron-clad hold over the situation turned brittle over time. Cracks formed in my mental defenses. Attacks I'd otherwise dodge landed on me verbatim.
+
+Despite this offensive, I maintained a steady stream of attacks on the forcefield. This wasn't my first fight, and amidst the chaos, I carved out a stable center of calm. They were dipping into my regeneration, but I held my own. Getting through this shield would change the battle, so I kept focused.
+
+As a few minutes passed, they attempted using complex runic formations in battle. They used their grimoires for these inscriptions. It was ridiculous. Distracted or not, I wasn't about to let these guys spend more than a few seconds on their spells.
+
+One booklet at a time, I ignited their tomes with bursts of thermal energy. I aimed these ignitions during the apex of the mage's ritual. This created severe magical blowback. Mage after mage lost years of work in seconds, and several even lost their lives as their bodies burned to cinders.
+
+Still, juggling all these parts proved difficult over time. Many minds worked against me, my control over fine motor functions dwindling. My offensive crumpled over time. Arcane shots shot into my gut, and their absolute damage was a thorn in my side. Though slight, the rain of bullets and bolts proved distracting. The mental angle of their attack expanded over time as well.
+
+The other dreadnought pincered me in, attempting to block off my escape. My regeneration kept me alive, but my health danced up and down now. The forcefield thinned, the pale force pushed to its absolute limit. As they threatened to overwhelm me, Krog flew up from below.
+
+He let out a roar towards the dreadnought's crew. A dazzling display of lights, sounds, and other illusions engulfed the crew members. For several seconds, the hail of bullets, storm of psionics, and tornado of spells ceased.
+
+It was all I needed.
+
+I reared my fist back and shot a devasting hook into the forcefield. I smashed a tiny hole through the barrier. With a desperate jolt, I slipped into the field as it reformed behind me. The crew members gained an understanding of their surroundings moments later as the illusions faded.
+
+They saw me, no field between us. The battle changed. The psionic assault ceased, and the rain of bullets and spells ended. I stared at the crowd of crew members. Beads of cold sweat formed on a few of the mage's exposed faces. Even the fighter jets ceased coming at me.
+
+A few of the members stared around, gaging their allies reactions. An intercom radiated inside the ship. It was a deep voice like a whale was speaking,
+
+"Hello, warrior. We are willing to negotiate-"
+
+I pointed at one of the nearby individuals. I flooded his system with raw origin mana. As I lowered my hand, the guy's body bulged under his power armor. As it did, the glass panel covering his face shattered. His eyes fell out with a mixture of blood, guts, and grit. This sandy concoction poured from every joint and opening.
+
+Those near him stared in abject horror as the body thudded against the ship's deck. Those at a distance trembled. I roared,
+
+"I'm not here to negotiate. Lower your weapons and shutdown your shield. Surrender immediately."
+
+The intercom radiated out,
+
+"We just need some time to discuss terms that we can agree-"
+
+Krog sent a message,
+
+Krog Borom, the Harbinger's General(lvl 13,000 | Guild: The Harbinger's Legion) - They are buying time so that Lehesion and others may join this battle. We must end this quickly. There isn't time for this.
+
+I took a deep breath, resolving myself for what had to be done. I dashed forward, towards the crowd. They unloaded the same assault as before. It was too late. As Event Horizon reached them, a symphony of screams erupted. After that, carnage cascaded out in an endless torrent.
+
+Blood. Guts. Pain. Bones. Metal. They blended together into a single vision. I let the ascendant mana take me over, my urge to devour overpowering all else. My enemies crumbled. I indulged, ripping and tearing and ripping and tearing.
+
+Minutes passed, the onslaught turning into an utter bloodbath. I was a living weapon, a creature of complete carnage. In my wake, I left piles of corpses. In my path, I was the forerunner of devastation. I was an omen of their downfall and a nightmare given life, a horror given form.
+
+With carcasses spread across the deck of the dreadnought, I held up a robed mage. I squeezed my hand. Like a neck caught in a garage door, the mage's head decapitated from the blunt force. I dropped the body, the remains around me disintegrating.
+
+I turned back to the ship, sprinting towards a wall of metal. I smashed through it, finding myself inside a storage room. I continued my run forward, the standard crew falling to Event Horizon as I passed. A minute of running through the lower portion of the ship and I fell into a large holding room.
+
+Lining the bottom of the dreadnought, the dim room held the echoes of dying gialgathens. I sent a torrent of thermal energy into the ceiling, the glowing metal washing the area with a subtle, orange light. It was beyond anything I imagined. Groups of Hybrids paced around the metallic warehouse, dragging the gialgathens. They either piled them up into holding areas or hung them onto meat hooks across the ceiling.
+
+Once on the meathooks, several masked individuals walked across metal walkways. They implanted tubes that pumped their bodies full of the orange muck that filled the Hybrids. The gialgathens bulged, wires forming in their body as they were processed.
+
+Once finished, a group of Hybrids ripped them from the hook and placed them onto the back wall. A group of quarantined scientists injected them with some sort of clear fluid. This liquid evoked convulsing and squirming in the victims, the hybridizing gialgathens clanking against the hull.
+
+They then placed the creatures into suspension fluid to finish the transformation. Those at Elderfire were right. They were turning the gialgathens into Hybrids.
+
+A wave of nausea, deja vu, and fear raced through me. After holding back the urge to vomit, I was repulsed that people did this. These people and their motivations...they were incomprehensible. Yawm destroyed my city to protect himself. He deformed people into abominations not out of hatred but out of necessity; Springfield was caught up in the aftermath. We weren't targeted. We were unlucky.
+
+This was nothing like that. This was the systematic destruction of a species. Flashes of the holocaust and images from years ago in school filled my vision. These people didn't see the gialgathens as something with a mind or a soul. No, they were animals to be slaughtered and used.
+
+As for the fear, calling it that wasn't quite right. The horror of the situation wasn't lost on me. This was hard to watch. Something simmered under this lining of terror, however. Perhaps calling it an emotion wasn't precise.
+
+It was far too cold and too calculating for that. It was a rationalization of the situation, and it was the only logical response to this. This deserved reconciliation of the same kind and caliber. With my two hands, I swore to wrench the Adair family from their roots.
+
+The reason was simple - they were insane. I've seen and lived with insanity before. It corrupts and bends the individual to perform the most abyssal acts. We were already their enemy. If they aimed this kind of insanity at us, then there was no predicting the outcome. Well, outside of it being bad. I knew that much.
+
+The only way to stop this was to put them down. Perhaps they would attempt to sway me with words. Maybe they would give me their motivations for rebelling against Schema. They would speak in sweet words, saying the ends justified the means. No matter what they said, I wouldn't forget that their good intentions paved the way to this hellhole right here.
+
+No matter their justifications, they would find no forgiveness in me. As I stared at this slaughterhouse for a sentient species, I carved its image into my mind. This would not be forgotten. I would remember what they were capable of.
+
+And they would remember what I was capable of too.
+
+Knowing all I needed too, I dashed down. I shot across the factory floor. Event Horizon would kill the gialgathens. Using the Rise of Eden, I sliced, gored, and pulped every Hybrid, person, and scientist here. One by one, member by member, they fell.
+
+It was a strange scene. These madmen were calm seconds ago as they butchered the gialgathens. Now that someone did it to them, it was suddenly something horrifying. Their hypocrisy wasn't lost on me. On the other hand, their cries, screams, and howls fell on deaf ears.
+
+I killed everyone. I chomped through bone, squashed skulls in my hands, and caved torsos with my feet. I tore off limbs, ripped out organs, and splayed the walls in their blood. Once dead, they evaporated with a momentary passing of Event Horizon. I left nothing behind, cleansing this place of these monsters. They were no different than eldritch. They would be treated as such.
+
+After slaughtering these psychopaths, I sent a quick message to Krog explaining the situation. I kept the details to myself, not wanting Krog to be stricken with horror. With him being informed, I pulled the gialgathens from the hooks and holding cells. I piled them into one corner of the room. The gialgathens inside the tubes...I killed them. They were too far gone, the Hybridization all but complete.
+
+That sadness in Helios at killing Rivaria, I empathized now. Executing the defenseless...It was a hard thing to do.
+
+I numbed myself as I did all of that. It was necessary. Many would call it running away. Maybe I was. I didn't know for sure. What I did know was that I had to keep going. If I let my emotions overwhelm me, no one would be saved. They would all die.
+
+So I took on the persona of the unfeeling Harbinger. More machine than man, I tore through the shuttle, the walls sturdy as cardboard. I learned a bit of the ship's design as I did. The top part of the hull was where the fighting members stayed. Killing them with Event Horizon was simple.
+
+The middle of the ship harbored crew members along with crucial ship functions. The radioactive cores and plasma vats sat here in the center of the battle station, protected by walls of steel and more. Hybridized fluids also gave them stores of mana to use, several semi-Hybridized creatures used as mana batteries.
+
+It was the fate Torix warned me about.
+
+I tore through them, and I emptied the guts of the ship like an internal hemorrhage. The bottom of the ship contained the gialgathens and their Hybridization operation. It acted as the belly of the beast. Armed with that knowledge, I slaughtered every living ship member I could find there.
+
+Some members offered resistance, but environment favored me. I could move through the metal walls with ease. I sensed were they were long before they knew my position. It was simple in the end.
+
+Minutes later, the flaming dreadnought was falling apart. I eradicated vital functions for the vessel, mainly the radioactive cores. With the ship tumbling down to Polydra, I readied the rescue operation. I coordinated with Krog. He and my guildsmen would act as decoys while I pulled out the victims here. Otherwise, the other dreadnought would fire at the refugees I rescued.
+
+With that in mind, I shattered a wall of the holding cell. The open sky filled my field of view as I glanced at the other dreadnought. Krog and the others unleashed an inferno against the other destroyer as I launched myself out. I pulled a massive clump of several dozen gialgathens out with me, a gravity well pulling them along.
+
+As I leaped out, the downed dreadnought crashed atop the shattered city of Polydra. A vast shockwave of kinetic energy and flames erupted, decimating blocks of the town. Hybrids vaporized near the point of impact. Entire buildings collapsed outwards.
+
+Krog pulled away from the other gialgathens, shouting out telepathic orders. They kept distracting the other dreadnought as Krog and I grouped up, passing portions of the city. As we did, Krog led me down to a cluster of buildings that still stood.
+
+He turned to me, "The tunnels under Polydra aren't large enough to move the gialgathens in that manner."
+
+I found three clean but unconscious gialgathens in a pile and threw them to Krog. He caught them between his wings. Switching to the Rise of Eden, I placed fifteen more of the gialgathens into my dimensional storage. The rest I split up into three different clusters. Instead of bending gravity to hold them, I created an actual gravitational force to suspend them.
+
+It strained me, my brow furrowing. Krog nodded at me,
+
+"That will do. Come."
+
+Krog used his tail to smash a hole to the sewers. We jumped into the labyrinth beneath Polydra. As we skulked buy, we met dozens of footsoldiers roaming the tunnels with Hybrids. We killed them all, Krog sending them into disarray before I tore them apart.
+
+Once we carved our way into the depths, we reached a dead end. A few spell casts and a bit of gialgathen blood later, Krog revealed an illusory flooring. A cylindrical tunnel leading beneath the city showed beneath us. Krog and I dove down.
+
+A few seconds later and we landed. Without a gravitational web beneath me, I smashed three feet into a stone. That was after reinforcing it with quintessence. As I pulled my feet from the floor, Krog paced to a doorway littered with the cipher.
+
+He interacted with the doorway, his eyes closed. I pointed at it, "You know how to read that?"
+
+The cipher sheened black, the blue mana lamps near us dimming. Krog shook his head as the stone doors ground open,
+
+"No. I know this how to work this, uhm...interface I suppose? I don't know what to call it. It's similar to one of the status screens of Schema, however."
+
+I inspected the intricate cipher work as we walked past. After committing the image to memory, we entered the hiding place for Polydra's gialgathens. It mirrored a hollowed-out mountain; someone carved the room out of the rock that filled the peak. The maker of this prison created walkways at the edges of the expanse.
+
+Beyond these walkways, room-wide stairs left the rest of the room several feet lower. Marble pillars jutted out of the elevated walkways, supporting the miles of rock above. Cipher inscriptions rippled with the mana of Giess here. My guess, the cipher runes did all the heavy-lifting here. From my experience, marble was actually quite soft for rock.
+
+The entire room carried little in the way of weathering or erosion either. Whoever built this place built it to last. The leviathan's prison was well preserved. In the center of the room, ten raised seats for gialgathens encircled a podium of sorts.
+
+A gialgathen was seated on all of these seats, and they all maintained a meditative state. A hooded figure stood at the center, scars covering an espen face. He opened his eyes before turning to us. The grizzled and gray espen sighed, viewing the gialgathens behind me.
+
+He winced, his voice ancient,
+
+"I see those left on the surface have been treated unkindly. I'm sorry for your loss."
+
+Krog blinked, "It...we've done what we can."
+
+Around the old espen, dozens of glowing lights hovered near him. They carried images of waterfalls, submerged caverns, and aquatic lairs. In some of these orbs, war-torn and wounded gialgathens swam in primordial pools. I turned to Krog,
+
+"I have to try and clear these guys of the tech in them before they turn. As I do, explain how this place works."
+
+The weathered espen turned to Krog, "I see you've allied yourself with a rather arrogant dirtwalker. What will we do Borom?"
+
+Krog grumbled, "Listen to my commander for one. Don't use the word dirtwalker again for another."
+
+The old espen's eyes widened, "Oh...excuse me. I didn't realize that."
+
+I snapped, "Doesn't matter." I set the three clusters of gialgathens down behind me. About twenty plopped against the stone floor. They wriggled for some sort of release from their torment as I walked over to them. Pulling several gialgathens form my dimensional storage, I shifted to Event Horizon. Otherwise, I would exceed my carrying capacity for my pocket dimension.
+
+Digging my hands into the worst looking member of the bunch, I siphoned the life force and metals from the Hybrid embedded into the gialgathen's body. The old espen glanced at Krog as I drilled tendrils of metal through its body. The old guy spoke,
+
+"Are you certain he's here to help?"
+
+The gialgathen I was working on wriggled against me. I forced it down with a panel of gravity, stopping its struggle. It let out hoarse howls as Krog growled, "Obey him and do not question us anymore. We don't have time for your curiosity." Krog turned to me,
+
+"This place is known as Solis, the prison of the ancients. Long ago, it was created by an individual who's name was lost to time. Since then, it has been used to hold enemies who've fought against us in the past."
+
+I bit into a Hybridized portion of the gialgathen's leg, tearing it off and swallowing it. Krog sent out a telepathic wave,
+
+"This old espen is Kaios, a loyal member of the espen race. He's over a century of age, ancient by espen standards. When the espens were freed, he chose to continue serving us."
+
+Kaios bowed, "It is only right."
+
+I finished draining the Hybrid from the gialgathen, the many wounds on its body opening up. Blood poured out of the creature before I turned to Krog, "I need Kessiah here. Where is she?"
+
+Krog turned to Kaios. The old espen turned to the glowing spheres, taking a deep breath. A portal opened at the bottom of the raised platform, a spiral of blue energy maintaining the tear in dimensions. Krog growled, "We need you, Healer of Rivaria."
+
+Kessiah jumped out, landing onto the ground with a bit of stumble. As she got her bearings, she glanced around, finding me. Kessiah ran over, her face pale. She wiped some sweat from her brow while opening her dimensional storage. She pulled out three bags of blood along with some of Torix's rations.
+
+In a very Daniel-esque way, she snapped the bag open over her face with her mouth open. She gulped as much as she could, most of the rest of it soaking into her skin. A bit of color returned to her face before she ripped open a bag of her blood.
+
+The sanguine fluid poured down before Kessiah caught it in her palm. It spiraled into a horizontal circle before Kessiah sat down in front of the injured gialgathen. Kessiah looked like a different person, her purpose and intent obvious - save some lives.
+
+Her patient let out a low groan before Kessiah's bloodshot eyes widened. She snapped like a whip,
+
+"Shut the fuck up. I'm focusing."
+
+Some things never changed.
+
+She channeled the blood into crucial areas, healing the torn arteries, veins, and nerve tissue. After that, she stood and pulled the wounds together. Fusing the skin with a bit of blood, she worked her way to the skull. She snapped her fingers in front of the gialgathen's face while shouting,
+
+"Can you fuckin hear me? Hello?"
+
+The gialgathen's eyes twitched a bit before she threw its head onto its leg while pacing over to me,
+
+"He'll be just fine."
+
+I cleansed the next worst off gialgathens as she worked, but it was kind of mesmerizing. She did her work with diligence and a professional demeanor. A few months ago, I wouldn't have even considered Kessiah and the word 'professional' in the same sentence. Now she was a different person.
+
+I mouthed, "Woah...I'm impressed."
+
+She met my eye, an obvious irritation showing, "Yeah, that's great and all, but would you mind hurrying up? Not all of us can make a river of blood. Working with anemia is a pain in the ass."
+
+She pulled out another three blood bags, and my eyes widened. This was why she looked so tired at Elderfire. It wasn't because she was exhausted with just healing. She drained her blood over the last few weeks for this, giving her a massive stockpile for this situation. She suffered anemia during that entire timeframe.
+
+Maybe she wasn't fighting on the frontlines, but she fought hard in her own way. It gave me a newfound respect for her. With that in mind, we worked through the Hybrid victims while Krog read his status and spoke with us,
+
+"Taking Polydra is going better than expected so far. Daniel, you destroyed most of their aerial forces in your initial assault. The ground troops and those squirming spires must be dealt with for our escape, however. Staying here for much longer risks Lehesion showing as well, and we can't afford to face him head-on yet."
+
+I nodded, "Did our guildsmen make it out?"
+
+Krog clanked his teeth together before murmuring, "We've lost two members so far."
+
+I kept working, "That's expected. We've saved a lot more than two gialgathens. They will be remembered."
+
+Krog shook off a bit of grief as he nodded, "You're right. We have to remember the goal. After cleansing these gialgathens, can you return to the surface and destroy the spires? That will give us much more mobility in the air and on the ground. Cleaning up their ground forces shouldn't be impossible for us then."
+
+"What about the dreadnought?"
+
+Krog shook his head, "Though you did well, it required far too much time for you to decimate the first one. More gialgathens are stored within those spires than the hulls of those ships. We have to rescue as many as we can before they fully...change."
+
+Krog glanced down and to the side, his heart racing with a bit of panic. He silenced those dissenting voices as he took a deep breath,
+
+"Otherwise their forces will overwhelm us here."
+
+"Noted." I finished the last gialgathen present before pulling out the rest of the gialgathens from my dimensional storage. Krog glanced up, "We won't be able to keep them at bay for much longer."
+
+Dust and a few pebbles fell from the ceiling, the ground above us rumbling. Kaios frowned, "Yes, it won't be much longer before Polydra is but ash. I can feel it in my bones. The mountain is about to unravel entirely."
+
+Krog turned to him, "You mean the eruption?"
+
+"Yes. The sea of magma beneath this place is not far from its detonation."
+
+My eyes narrowed as I thought about the Hybrid's covering the surface of the city. Killing them all before Lehesion arrived was impossible on my own. Borrowing a bit from mother nature could bridge that gap though.
+
+I gave the nod as I turned to them,
+
+"I have an idea. One of my attacks was mistaken for an eruption once. Why stop there?"
+
+Krog tilted his head at me along with Kaios. I cackled a bit before Krog's eyes widened. The red and orange general leaned back,
+
+"No, no, no. We can't throw your life away like that. We need you for further assaults."
+
+I stood, my hands embedded into the gialgathen. My armor grinned as I finished clearing the Hybrid from my patient. Reforming my limbs back into forearms and fists, I glanced at them,
+
+"Who said anything about throwing my life away? I'm just finding my limits."
+
+I rubbed my hands together,
+
+"After all, nothing ventured, nothing gained."

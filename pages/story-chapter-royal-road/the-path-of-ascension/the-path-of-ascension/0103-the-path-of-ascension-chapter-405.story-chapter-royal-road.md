@@ -1,0 +1,285 @@
+---
+id: 2c8bd157-55ee-5903-94c5-f6ea65fff4c3
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 405"
+slug: 0103-the-path-of-ascension-chapter-405
+partOf: the-path-of-ascension
+position: 103
+ownLength: 5299
+unit: words
+ownProgress: 5299
+publishedAt: 2025-04-25
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2230844/the-path-of-ascension-chapter-405"
+royalRoadId: "2230844"
+markedReadAt: "2026-06-29T19:21:20.120Z"
+---
+
+Chapter 405
+
+Quarantining sucked just as badly this time as it did the others, but there was a bright spot. A few actually.
+
+The painting of Aiden was easy to lose hours of time looking at, as one constantly found new details they had missed before.
+
+Normally he and Aster would analyze such art based on their shared Folded Reflection lives as siblings but she was entirely entranced with Winter Hornet’s exit technique of turning into mist and trying to recreate it herself.
+
+More interesting, at least for Matt, was checking out the cultivation methods Rah had been given and traded for.
+
+There were three entirely intact cultivation systems and over a dozen fractured systems of this Realm's older methods, but they also shared similarities in their designs. Similar to what he knew from Rah’s methods, there were Realms of cultivation with every ten Tiers being a major Realm, and every fifth Tier being a minor breakpoint. That was similar to their current methods, with every five Tiers needing more essence to advance past. But while their current methods just needed more essence, the older methods had actual bottlenecks that were challenges to break through.
+
+Rah had talked about them, how they could completely prevent a cultivator's advancement and how past mistakes in cultivation methods could increase the difficulty of bottlenecks. He had also mentioned how an inspiration, with its ability to fix one's cultivation, generally made it easy to break through the next few.
+
+In the methods Rah had been given, Matt could see the bottlenecks. They were built into the techniques.
+
+Beyond following this five and ten Tier structure, the techniques were vastly different from the many techniques of Rah’s Realm. Instead of the stars and eddies of Rah’s cultivation, these techniques seemed to work on layering essence in slabs and then carving channels into the structure. It was almost like a skill structure, which is where Matt figured they had gotten the idea in the first place. Instead of building essence up in nodes like Rah’s to boost that aspect of cultivation, the methods instead used the runes carved into the essence as a way to direct power between the layers.
+
+It was also where the bottlenecks came from.
+
+Matt wasn’t sure it was deliberate, but it was a consequence of their design choices. From what he could tell, and extrapolate from Rah’s explanations, the way the runes stacked and moved essence around it was a way to passively boost the power of allocated essence that would be further amplified by surging one’s cultivation.
+
+It was that same boost in power that made the tenth Tiers, and to a lesser degree the fifth, a much harder breakthrough beyond demanding more essence like every method needed. The way the runes interacted with each other made it harder to break through the Tiers in a way Matt found difficult to put to words.
+
+Where Matt just needed to compress his essence to advance to the next Tier, in these techniques there was significant spiritual pressure that needed to be overcome, that was entirely a result of the way the method pushed power between Tiers. That wasn’t because of the runes themselves, though their rudimentary designs didn’t help. It was how jagged the energy flows were between layers.
+
+Matt couldn’t tell from just these examples, but the accompanying notes restated what Winter Hornet implied when he said time, more than malice, saw to the destruction of the better techniques. These were common methods that anyone could get their hands on and were correspondingly worse for it.
+
+With his experience, Matt could see half a dozen ways to smooth out the runes, which he believed would lessen the turbulence. But he suspected that it would also be that much harder to carve into the essence, given his study with skill creation.
+
+What he did find interesting was that out of the three techniques, one of them used even less essence than Rah’s methods to advance to the next Tier. And that was the weakest of the techniques, not even reaching immortality until late Tier 15, if not mid Tier 16, as there just wasn’t enough essence to reach the critical mass where one's own core made enough essence to fuel their bodily functions.
+
+It was also paradoxically the most complicated of the three methods, with runes that tried to do their best at amplifying what little essence they did have.
+
+On the other hand, Nahla of Waves Rise’s cultivation method was entirely different and almost seemed like a half step between an ambient essence method and their compacted rift essence ones. By her time, her people in her lower Realm hadn’t taken the step of using rift monster essence to allocate to their cultivation bases, but they did compact ambient essence, which made them unique out of the three types of methods he had seen so far. It was a rudimentary method that didn’t create that great of a product, but it was a step in a direction Matt suspected would lead them to ditching the whole method for a simple crunch method, given enough time.
+
+What was more interesting were her cultivation notes.
+
+Nahla of Waves Rise was a commonborn woman who had risen through the masses after an invasion of ‘otherworldly beasts’ decimated the seaboard her city had resided on. As one of five remaining cities, there had been a need for adventurers who braved the dangers of the unsettled lands beyond the walls. Through a self-admitted series of lucky breaks, she had discovered a fallen noble’s estate and uncovered their cultivation technique, which was better than the one that was passed around to commoners.
+
+That explained the intricate weave of her cultivation method, which as Rah described was like building a tower. Instead of discrete layers, like their Realm’s methods, or the eddies and swirls of Rah’s Realm’s methods, Nahla’s Realm’s technique seemed to work in two alternating patterns.
+
+The first pattern started at Tier 1, laying a foundation that was designed to be dug into by the Tier 2 method, which dug down and then reached up into the nonexistent Tier 3 region of the core. Once they reached Tier 3, the cultivator would then create another foundation layer which then linked the Tier 2 and 4 layers, creating an interlocking structure.
+
+According to her notes, her people struggled in making the layers and often failed, causing them to lose years or decades of progress as the essence leaked out of the resulting spiritual damage. They, however, didn’t seem to struggle with breaking through. Once they finished a layer, advancing to the next layer was as simple as starting to work on the next.
+
+Still, similar to both their Realm’s and Rah's, her people channeled looser ambient essence through specially made channels to amplify the power of the less dense essence. Though, in her case, the essence was actually aspected essence used like mana pathways in an otherwise compact foundation, which was an interesting twist on the idea. It also explained her affinity with elemental spells, despite not actually being an elementally aspected cultivator, as her cultivation let her fake it due to the types of aspected essence she had laid into her cores.
+
+That raised one vital question Matt really wished he had an answer for: How did she get access to seven different types of aspected essence on reportedly a handful of planets? What did her people know about making aspected rifts, or more likely what uniqueness did their planets have that made their creation seemingly so abundant they had become a staple of people’s cultivation?
+
+The notes after Nahla arrived in their Realm and discovered their much simpler method were… Amusing felt like the wrong word, but Matt couldn’t help but feel a little pride at his Realm having simplified something so complex into something truly universal, that was also stronger.
+
+Nahla had been shocked to arrive and thought she would reign supreme with her ‘superior’ cultivation method, only to learn in raw power she was one of the weakest cultivators of her Tier.
+
+According to her notes, it was only her rich battle experience, honed skills, and ascension bonus that let her dominate the majority of her foes in the early years, as she learned to adapt to the Sects and the Realm itself.
+
+It was there in her notes where she had an interesting thought that she seemed to spend decades agonizing over.
+
+Should she convert to their Realm’s method? She had even devised a seemingly plausible way via a few natural treasure combinations that would allow her to compress her cores and backfill the missing essence. It wouldn’t be quite as good as an inspiration, but it would close the gap infinitely. And when combined with the rest of her advantages, it would let her truly shine.
+
+She eventually chose not to, due to fear of the risks of the untested methodology and fact that some of the natural treasures were only rumored or had only been found deep in chaotic space. But it did give her a few things which she used to great effect. Mainly using some of those same natural treasures to further compress and backfill her previous method to something closer to rift monster essence density.
+
+Nahla had also dedicated a lot of time to figure out how she could directly use monster essence as more than the uncarved foundations of her techniques, but according to her notes, she had never figured it out and still had to rely mainly on ambient essence compacted down.
+
+Through it all, Matt couldn’t help but come to the conclusion that all of this was just a waste of time and effort, and Rah would be better served by going through with Nahla’s idea of crunching her cultivation down.
+
+He didn’t voice those thoughts out loud, Rah was simply too excited pouring over every page and diagram for Matt to rain on his parade like that. But he made a mental note to bring up the suggestion to Rah if he wasn’t able to make any progress in a decade or three.
+
+And who knew? Maybe Rah would be the one who could figure out how to truly use monster essence and have the best of both worlds. Even the possibility was enough for Matt to fund a team with the idea, and funding a friend made it an even easier answer.
+
+At worst, a little time and money would be wasted.
+
+It at least made the three months they needed to spend in quarantine, after having been in contact with a Tier 50 without another Tier 50 to back them up, bearable.
+
+When they finally got the all clear, Allie teleported them all back to Rah’s estate in Titan’s Torch headquarters, before she and Aster flickered in and out of existence half a dozen times over the next few minutes.
+
+When their forms stilled, they were loaded down with bags of snacks and other assorted foods from the group’s favorite restaurants and other eateries.
+
+Allie plopped it all down on an icy table Aster must have had stored in her spirit space with a dramatic sigh.
+
+“Rah, I demand you try everything! Quarantining deserves a good reward, and the best rewards are edible.”
+
+Ciceron, somehow looking even more disheveled than he had been a few months ago, stumbled over to press his head into the ice cold table with a sizzle.
+
+“You okay there?”
+
+Zack tried to stir Ciceron, but the only response was a long groan before he finally spoke into the table.
+
+“I’m so close to an answer, but I can’t figure it out. It’s killing me.”
+
+Luna, still in cat form, sauntered over and smacked the head librarian with her tail. “Clean yourself up. It's unbecoming.”
+
+Ciceron finally pulled his head off the now defrosted table, and barely flickered to Matt’s senses before he was spotless and in fresh clothes.
+
+Rah bowed to Ciceron and held out the boxes of cultivation techniques. “These are from Grand Elder Winter Hornet and might prove enlightening to you as it did for us. I have many new ideas to try.”
+
+Ciceron went to reach for the boxes but a paw swiped them out of Rah’s hand just before the head librarian got to them.
+
+“You can look after you spend some time doing normal things. Eat, and stop thinking so much.” Luna’s purple eyes were magnetic as she stared the other Tier 40 down.
+
+Matt half expected Ciceron to complain, but instead he winced. “How many warnings did I ignore?”
+
+“Only four.”
+
+“Oh good!” Ciceron actually perked up at that and dug in with everyone else.
+
+Matt should have known things were going a little too well, because after the salad Allie got for Luna was devoured, she turned her gaze on him.
+
+That would have been fine, but in her cat form, it felt like she was glaring at him the entire time. No, he was pretty sure she was actually glaring at him.
+
+Having lost his appetite, he set down his fork. “What?”
+
+“What did you do to your spirit, Matthew?”
+
+“Matt doesn’t know what you’re talking about.” Luna just blinked at him and he caved. “On a completely unrelated topic, I wanted to talk to you about Truths. I may ha—”
+
+His voice trailed off as Luna’s claws extended and dug through the table.
+
+Standing, she padded over to look at him from just inches away. “How curious. I’m looking at an idiot.”
+
+That caused snickers from most of the rest of the table, but Liz’s laugh got caught in her throat as Luna turned her glare onto her.
+
+“You could have stopped him.”
+
+Liz threw up her hands, showing her innocence. “I tried, but he didn't want to listen. Aster egged him on, not me!”
+
+“You could have used your feminine wiles. Threatened to kick him out of bed.”
+
+Liz dropped her hands. “Why punish myself?”
+
+That actually broke Luna, and she chuckled quietly as she turned around to face Matt. “What precisely did you do? Speak.”
+
+Matt tried to skip to the actual incident, but Luna made him start from the very beginning. “It was during the skill reveal, and I was talking to Eyria de Solis. She pissed me off, and I had the thought that I helped because I chose to. Not because of the expectations of others. I did so because ‘I am the Master of my own Destiny’. And I felt my Truth sort of form. It’s—”
+
+Luna cut him off with an imperious swish of her tail. “Like a seed. How interesting. It is curious, the means by which my more successful students manage to surprise even me. Well done.”
+
+Matt was just registering the compliment when he was sent flying into the far wall as Luna batted him with a casual paw.
+
+“What was that for?”
+
+Matt wasn’t that hurt and barely registered any pain. All of his broken bones were already healed, but he was surprised.
+
+Luna jumped down onto the ground and sauntered over. “Why didn’t you block that Matthew? Aren't you big and strong enough to do whatever you want? To ignore all good advice that has been told to you before?”
+
+Rolling his eyes, Matt stood up and dusted himself off while fixing the cracks, knowing that Luna had let the wall get damaged to test his manipulation skills.
+
+“I don't think I’m beyond help. I was just halfway across the Empire and didn’t want to bother Allie with something that could have waited. And then the incident with Liz happened, and it kinda got forgotten.”
+
+Matt fibbed about the timeline a bit and hoped Luna wouldn’t call him on it. Thankfully, her attention went to the wall and she hopped onto his shoulder where she dug the tips of her claws into him for balance as she checked his repair job.
+
+“Clear your schedule for the next two months. We will be working on getting your Truth realized enough so you don’t accidentally collapse yourself. After that, we can go from there.”
+
+A part of Matt was tempted to weasel out of that just to be contrary, but his excuse, the society attacking them, didn’t have a target for them yet and so wouldn’t hold up at all. Though they were hopefully close. Their spies had cracked the data storage they had gotten from Raffi and were working to find everyone he had ever had contact with.
+
+The first lead, the woman who had impersonated Liz, was narrowed down to a few people, and Matt really wanted to be there for Liz. Between Aster, Allie, and Susanne, he wasn’t really needed, and the look from both Liz and Aster when he mentioned that was enough to get him to dedicate himself wholly to his Truth.
+
+It was almost kind of nice to return to learning with Luna. She did treat him a bit more as an equal, but she was still an experienced mentor and she was able to guide him through the initial stages of building his Truth.
+
+Most of it was meditation-based, with him carefully embodying his Truth and feeling if he wanted to change his understanding of it, but other parts were careful exercises that pushed his Truth in much smaller, and therefore safer, ways than their impromptu tests.
+
+Not that they were all that safe. Matt’s spirit was far too low of a Tier to handle any sort of failure or accident when it came to something as advanced as an Aspect. That was a power that someone needed to reach Tier 50, not something a Tier 27 who should have only just gotten their Intent should be interacting with.
+
+That, more than anything, limited just how much they could do. Luna’s help did however let him metaphorically plant his seed by reaffirming his Truth.
+
+‘I am the Master of my own Destiny’ was more than a phrase or an image. It was an immutable idea that was like wet clay, still moldable, and Matt’s every action would have an outsized impact on the development of his Truth.
+
+If he didn’t like his nascent Truth, it was at this point he would force himself to change and become different, so that he could better embody a different and eventually more fitting Truth, but Matt was pretty happy with his.
+
+Matt thought it wasn’t that surprising, but Luna grabbed onto it like an actual cat. “What do you trust here, Matthew? Why does the idea of following some orders not have an adverse reaction from your Truth? It's the type that normally refuses to have anyone in command. If we can figure this out, we might be able to make a breakthrough.”
+
+“I don’t know, Luna. Everyone trusts some people.”
+
+Her tail swished in the negative. “No Matthew, people who had their Truths about personal freedoms, especially with anything like your very justifiable fears, don’t usually have exceptions.”
+
+Matt sat there for a long time before slowly speaking his thoughts as they formed. “I don’t mind following orders. Or let me reword that. I didn’t mind following orders in the war and I don’t have an issue with that if it happened again. Does that make sense? It's my choice to follow the orders. Hmm, no, it's not just that. I know I’m not a tactical genius.”
+
+“So, you trust High Command? Their tactical ideas. Does that feel right?”
+
+Matt thought over that. “Yes? In the abstract? I trust they’re doing their best and are probably more skilled at command and seeing the bigger picture? But it’s not just that. I chose to join the Path. I chose to become an Ascender. That also means I chose to accept that I’d be in the army, and that this involves following orders, even if I have more leeway than normal soldiers. But abusing that leeway without good reason just feels… childish. Bsides, it’s not like they are able to force me if I do decide an order is too much.”
+
+Luna stood up and paced around in a circle. “Now there is a good question. What if they gave you an order you disagreed with? On a tactical level.”
+
+Matt hesitated. “What kind of order? And why do I disagree?”
+
+“Does it matter?” Luna seemed surprised and dug deeper. “If yes, then say, killing a mind controlled comrade.”
+
+“Of course it matters. If it’s just a matter of target priority I’d just comply. Like I said, I implicitly accepted following orders when I became an Ascender. But if they wanted me to kill Arthur or Ai'la because they were mind controlled? I’d refuse.”
+
+Luna purred in a way Matt interpreted as a hum of thought. “What if I gave you that second order?”
+
+Matt wanted to reply the same way, but his mind hesitated and his Truth was uncharacteristically quiet.
+
+“I trust you, though. I know you. You wouldn't order that without being very certain it’s the only way.”
+
+That wasn’t really an answer, but Luna just nodded as she continued. “What if I was wrong? In the aftermath, it turned out to be the wrong call.”
+
+Matt once more felt nothing. Not from his Truth at least. “I’d be devastated, but we all make mistakes. Though that's easy to say in a theoretical.”
+
+Luna swished her tail as she pondered the implications of that before she asked. “What if I told you to clean my house?”
+
+“That’d depend entirely on the context. But yes, I guess. But I’d like an explanation. Why does it matter?”
+
+Matt asked the question but then froze as he realized what Luna was getting at.
+
+His Truth, or possibly he himself, had no issues with him choosing to follow the ‘orders’ of people he trusted.
+
+Turning the idea around, if someone he didn’t like tried to order him to clean their house, say a random Tier 40 off the street, he couldn't even finish the idea before his Truth flared its hatred of the idea, like a dog growling at something through a fence it knew was there but couldn’t see.
+
+“Okay, so I won’t be cleaning random houses on a random person’s orders. But if you asked me, no, if you told me to, I'd probably do it. Like, I can’t see why I wouldn’t. I’d trust you have a good reason and I’d be willing to help. But I’d be quite miffed if there wasn’t a good reason, especially as I’d definitely help if you just asked instead.”
+
+“Now why is that? Is it because I trained you? Because you have known me for so long? Or something else? This is good and we need to narrow down on this.”
+
+It took hours for Matt to have an answer but Luna didn’t rush him as his mind raced in circles trying to dig to the heart of the matter. “No, I think it's more than just pure trust, but I can’t quite put it into words as I don’t have a better word at the moment. I trust you, so I’m willing to follow your orders. That trust is because of our connection and shared history, obviously, but the reason I don’t mind the idea of listening to you is because I trust you. And if you were wrong, it doesn't really bother me, so long as it was an honest mistake. We all make mistakes and following someone else's gut turning wrong is still my choice. Now if you betrayed me intentionally, the other stuff wouldn’t matter. You’ve built that trust, earned it. But it’s still my decision. I’m in control. Yeah, I think that might be a better answer. Control of my actions.”
+
+“Interesting, and good. This gives you flexibility to selectively counter your own Truth so long as it's needed. Such a measure is rare, but useful. If Liz or Aster said you needed to break your Domain right now, and you were sure they were themselves and not under outside influences, would you do it?”
+
+Matt’s answer was so easy it was almost scary. “I’d definitely want an explanation but if they insisted I needed to trust them… I’d try to do so in a way that would be most easily repairable, but yes. I’d do it. Even my Truth agrees with that decision, which feels strange. It shouldn't be agreeing with something that would destroy it.”
+
+“Matthew, you are looking at it wrong. As much as it may feel like it, your Truth is not alive. It doesn’t have an opinion beyond what it expresses and it definitely doesn’t have a survival instinct. It isn’t the words ‘I am the Master of my own Destiny’, it's the idea behind them so stop thinking of it so literally. There is no wrong interpretation of that idea, only yours. At this early stage, we can identify the quirks of such a Truth and then either lean into them or try to hammer them out. All things told, this isn’t a bad quirk. When you originally mentioned your Truth, I feared it would be far more limiting. Now let's see how far it goes.”
+
+Matt knew he wasn’t going to like what happened next but agreed.
+
+Luna didn’t hold back. “A world is about to undergo rift breaks, let's say a Tier 5 world. It's full of low-Tier civilians and you are the only person over Tier 5 there, in fact. Someone you trust tells you that you need to let the rifts break and not intervene: what do you do?”
+
+Matt couldn’t help glaring at Luna, who actually reacted by holding up a paw. “It's a distasteful question, Matthew, but a good test.”
+
+It was a good test. Matt couldn't deny that. He also didn’t like what his initial answer was. “I’d ask why, and if there wasn’t a really good fucking reason, I’d never trust the person in question again, and then go try to salvage what I could and beat myself up for not acting immediately. If, let me stress that, if there was a good reason, and I cannot fathom any existing reason that would satisfy me but in the hypothetical that there was, I’d still dislike it but I’d listen.”
+
+Luna reached out and patted his hand, which was weird when she was in her cat form, but Matt did appreciate her and her help. It was actually quite nice and a new side of his usually hard as nails mentor.
+
+“Okay, something else. What if Manny ordered you to give more mana to fund a project you didn’t like? I don’t have an idea, but something like a subsidy for a really evil noble family that treats their people badly and used to let rift breaks happen. He’s insisting that it’s necessary in the grand scheme of things.”
+
+Matt once more had to think about it for a long while. “I’d ask for a reason, but my initial answer is I’d do it. But if the eventual reason wasn’t good enough, I’d start giving where my mana goes far more scrutiny.”
+
+Luna sat for a while before then asking. “Okay, what about someone you trust asking you to do something you don’t want to do, but they don’t have a good reason or you simply know it's wrong. They tell you to kill a child who isn’t in harm's way and won’t become some great evil, or something silly like that. Or if they then moved to do it themselves.”
+
+“I wouldn’t do it. Even my Truth agrees in an easy no and I move to stop them from harming the child as well.” Matt was certain of that.
+
+He was perfectly willing to tell anyone no or outright stop them if he had to, and if he was sure they were wrong.
+
+He wouldn’t just sit by and watch an atrocity happen.
+
+His Truth pulsed and hummed as they were both in agreement.
+
+Luna took several deep breaths, smelling the changes.
+
+“Interesting. Ok what about a friend, but not a close friend. Say one of your Path acquaintances. No, that’s too far removed. Say, one of your nobles, who you have known for a while, and generally think is competent, says you need to do something you are either ambivalent on or don’t have enough information to make your own conclusion on?”
+
+They ran through a few more, and it seemed like, so long as it was someone Matt trusted, truly trusted, his Truth wouldn’t stop him from doing something he personally didn’t want to do. It also seemed to give a lot of leeway if Matt personally put himself in the position where he expected himself to follow orders.
+
+Which Matt did agree was useful, once the heightened emotions from the hard questions wore off.
+
+He wasn’t sure he liked that he was willing to do things he usually thought were wrong because someone he trusted said so, like in the examples of the rift breaks or an example where Mara or Leon told him he needed to extinguish all life on a planet and there wasn’t time to explain. He found that he was generally willing to do something he considered detestable or downright evil if someone he trusted assured him it was needed so long as the decision to act was truly his.
+
+Luna reassured him that these questions in a calm environment weren’t remotely the same as in the heat of the moment, and he shouldn't be surprised if he reacted differently if they actually happened but it was still a glimpse of himself he wasn’t sure he liked. Not to mention that could go in the other direction too which somehow seemed worse.
+
+They tried to drill down to the why, but the closest they got was that Matt didn’t see himself as infallible, and saw himself responsible for his own actions whether he was making the decisions or listening to someone else. He had been wrong a lot in his life, and while he learned from those mistakes, or almost mistakes in the times where he had changed his mind thanks to someone he trusted giving him other advice, he was very aware that he could be wrong. And it seemed that his Truth also knew it.
+
+The last thing Luna had him do was, carefully, oh so carefully, feel out and see if he had any ideas for the rest of his Aspect’s pieces, but he was still completely clueless. She made him repeat out loud that he wouldn't purposefully try for them until he was at least Tier 35 and in a military installation that had the facilities to actually make attempts survivable.
+
+Logically, he knew she was right, in that Aspects were only truly safe to fail after Tier 40, but with so many of the people he interacted with having Aspects at Tier 35, he felt he should be able to make one far sooner than that. He didn’t think he was the next coming of Duke Waters, but having made his Domain Meld, Matt felt he had it in him to push for it a little early.
+
+Like most things, he wasn’t an expert but he was only half a step removed.
+
+To that end, he actually did something he had intended to do for the last little while, and messaged Max for the more advanced mental defense lessons.
+
+Having run into his Truth, and discovering all the ways it could mess with his mind and decisions, he wanted to have a better control over foreign impulses before his Truth grew even stronger and more influential. He’d been putting it off for a while now, but…
+
+It was time to visit the Corporations.

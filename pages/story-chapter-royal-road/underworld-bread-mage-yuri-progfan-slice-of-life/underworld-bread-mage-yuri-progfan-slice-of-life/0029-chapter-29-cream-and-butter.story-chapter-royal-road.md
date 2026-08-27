@@ -1,0 +1,151 @@
+---
+id: c0d238f0-be5f-557f-93c2-b7c904c63e03
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29: Cream and Butter"
+slug: 0029-chapter-29-cream-and-butter
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 29
+ownLength: 1421
+unit: words
+publishedAt: 2026-08-19
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3834070/chapter-29-cream-and-butter"
+royalRoadId: "3834070"
+---
+
+“Thanks for the meal! It was all very good!”
+
+“You’re very welcome, Miss Marina,” Melissa said as she gathered the empty plates. “You two are staying at Mellie’s place, right?”
+
+“Mhm.” Marina nodded.
+
+“If you want, we have a vacant room in our house. It’s probably bigger than Mellie’s.”
+
+“Thanks for the offer, but that won’t be very convenient for your family.” Marina said, “Plus, we enjoy staying with Mellie.”
+
+Considering the way Hecate had been acting, she doubted staying anywhere else would be the same as turning yourself in knowing a death sentence was impending.
+
+“Oh. Right. That is good to hear.” Letting out a small sigh, Melissa’s tone shifted.
+
+“Miss Apis, I felt as if there were things you would like to say about Mellie,” Hecate took the words out of Marina’s head. “Anything that we should know?”
+
+“Mellie is really weird—”
+
+“Drover.” Melissa glared. “You haven’t fixed your bed this morning. Can you do it now?”
+
+“Oh.” Getting up from his seat, Drover left the table.
+
+“I don’t think Mellie is weird at all. If anything, she’s just a little quirky.” Marina murmured. “Like a lot of people are…”
+
+“Mellie came from the capital around a few years ago, and at the time, everyone was pleased to have her. She is a nice kid, really, but we would rather have someone nice and able to contribute to the honey production.” Melissa said, pushing in Drover’s chair. “And that is probably the reason why she chose to live away from everyone else.”
+
+“But you guys were able to meet it before she arrived, right?” Marina asked. “So why does that matter?”
+
+“Honey quota depends on the size of a village. As more and more bees live here, we need to produce more and more honey.” Mellisa took a seat as she continued. “At first, everyone was fine with dividing Mellie’s quota amongst ourselves, but that doesn’t stop Bee-ple from developing a bitter attitude against her.”
+
+“I see…” Marina stood up. “Thank you for the meal, and if we catch any clues about your family, we’ll let you know.”
+
+“My pleasure, Miss Marina, Miss Hecate.” Melissa bowed after walking the two young ladies to the front door. “If you need anything, just let me know.”
+
+“Mm.” Marina nodded as she waved goodbye.
+
+The door closed behind them. There was plenty more for Marina to digest than just the heavy breakfast: the Bee-ple’s views of Mellie, Mr. Alpis and his son going missing, her leveling progress, and Hecate. All was getting entangled with one another.
+
+Strolling alongside Hecate, she tripped on a small pebble.
+
+“You’re racking up more problems than you can handle, my dear.” Hecate held her by the arm. “Are you sure what you’re doing is worth it?”
+
+Regaining her balance, Marina sighed. “Worth it or not, we still haven’t fixed any of these problems.”
+
+“Would you like my assistance?”
+
+“Probably,” Marina smirked. “Are you going to refuse now that I promoted you?”
+
+“Ah. I haven’t thought of that yet. Though… wouldn’t that get me demoted back to where I was?” Hecate pondered.
+
+“Maybe. It’s going to depend on what you refused.” Marina shrugged. “On a separate note, do you have a quick and easy way to find Melissa’s family members?”
+
+“Yes, my authority allows me the power to identify individuals through scent, and those who are blood-related share similar scents.” Hecate proposed.
+
+“That doesn’t sound creepy at all.”
+
+“Oh, don’t you worry, my dear, your scent is the most memorable of all.” Hecate teased. “It's like a combination of—”
+
+“I do not need to know what I smell like!” Marina shouted. “I haven’t showered since I have been here, and it has really been bothering me.” She could feel the icky sensation of her hair grease and the way her clothes stuck to her skin. “Get back to the point, please.”
+
+“The point is, I can locate anyone within the range of my power.” Hecate said, “However, when Mrs. Alpis first mentioned her husband and son, I could not detect them anywhere.”
+
+“Does that mean…”
+
+“Afraid not, my dear. The biggest limitation to this power is the inability to sense anything that is below ground,” Hecate explained. “And of course, they could also very well be outside of my range of detection.”
+
+“But even then, they could still be in grave danger, there is no point for them to go out that far or go underground.” Marina pointed out.
+
+“There is not, hence why we shall make haste in our decisions.” Hecate nodded. “Since I have been promoted to be your lover, may I recommend a plan?”
+
+“Yeah, go ahead.”
+
+“You shall stay with Mellie, and I shall go on the search alone.”
+
+“That is not fair!” Marina refuted. “I want to go with you.”
+
+“My dear, please.” Lying her fingertips upon Marina’s lips, Hecate said. “There is much more to this. I’m sure you can feel it too, and that’s why I can not permit you to join me.”
+
+“Fine.” Marina lowered her head. “Just be careful, okay?”
+
+“As you wish.” A pair of skeletal wings appeared behind her as she walked further. “And I shall return before our… usual endeavors.”
+
+“I–” Shocked by Hecate’s words, she stared blankly as Hecate took off into the sky. Please do… I look forward to it…
+
+Making her way back to Mellie’s hut, Marina stumbled through the doorway unfazed. Even with Hecate tackling the biggest task, there were still many smaller ones that needed to be dealt with. Like the bucket of milk.
+
+“Miss Marina, how was breakfast?” Mellie peeked out of the lab.
+
+“Oh, it was good. Melissa was very nice.” Marina said, “You want to help me process the milk today?”
+
+“Sure.” Heading to the ice box, Mellie carried the bucket of raw milk onto the table. “Do you need any tools or anything?”
+
+“Yeah, I need like every single jar that has a lid, as many as you can get,” Marina said.
+
+“Oh, uhh, hold up.” Mellie rushed back into the lab before returning with a dozen small wooden jars in her hand. “I don’t have many glass jars. Will these work?”
+
+“It’s gonna be harder, but they should work just fine.” Organizing the jars into a line, Marina examined each one for cleanliness. “Do you have a big spoon or a ladle of some kind?”
+
+“I should.” Disappearing once again, Mellie searched for the requested utensil. “Here.”
+
+“Perfect.” With a wooden ladle, Marina began to scoop the cream that had formed on top of the raw milk into the jars. “This is kind of annoying when I can’t see the cream line…”
+
+“The cream line? What’s that?” Mellie asked.
+
+“So, this raw milk is non-homogenized, which means that the fat is not broken down. And because fat is lighter than milk, they float to the top, which forms the cream.” Marina explained, continuing to scoop until a jar is halfway full. “And with this cream, you can make two very important ingredients for baking.”
+
+“Like whipped cream?” Mellie exclaimed.
+
+“Yeah, like whipped cream, we can definitely make some if you’d like.” Marina sealed the jars shut.
+
+“But what about the rest of the milk?” Mellie pointed.
+
+“There is still some cream left, but after that is gone, the milk essentially becomes low-fat milk, which tastes a little worse than whole milk, but still serviceable milk.”
+
+“Oh. I see.” Mellie said, “Can we drink it straightaway like this?”
+
+“Well, I’m not sure exactly if the wild animals carry any parasites, but the safe bet is let Hecate try it for us first.” Marina grinned. “She is immune to diseases after all.”
+
+“Talking about that, where did Miss Hecate go?”
+
+“She is out on… errands again.” Picking up a jar, she redirected. “You want to try something fun?”
+
+“Yeah.”
+
+“Here.” Marina handed the jar to Mellie. “Shake it.”
+
+“Oh. Okay.” Mellie began shaking the jar in the air. “How long do I need to do this?”
+
+“For a few minutes, but you should feel something forming inside it.”
+
+After a moment of vigorous exercise of the jar, Mellie’s wrist was growing heavier and heavier, but she could feel something odd was happening within the wooden container.
+
+“Miss Marina, I think it happened.” Setting down the jar, Mellie opened the lid. “This substance looks quite familiar. I felt like I’ve seen it before…”
+
+“Probably because it is one of the most common commodities that people survive on.” Marina smiled. “That is butter, the greatest dairy product in history.”
+
+“...”

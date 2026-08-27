@@ -1,0 +1,409 @@
+---
+id: 156fb2f7-a0c3-5550-b123-c82f54344202
+page-type-slug: story-chapter-royal-road
+title: "Chapter 82: To Quell a Rebellion"
+slug: 0001-chapter-82-to-quell-a-rebellion
+partOf: the-calamitous-bob-stubbed
+position: 1
+ownLength: 5610
+unit: words
+ownProgress: 5610
+publishedAt: 2022-07-22
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/953871/chapter-82-to-quell-a-rebellion"
+royalRoadId: "953871"
+markedReadAt: "2026-06-29T21:14:40.690Z"
+---
+
+Viv sat at her desk back at the tower, at a loss. The wind brought in the fragrant perfume of the Kazaran tree’s lilac blooms. The apothecary had dropped off a large vat of powerful poison, then left with a huff. Not only did he have a prickly personality, but he also saw himself as a healer and disapproved of Viv’s tactical choices, or so it seemed.
+
+And now she was having doubts.
+
+Viv took out a piece of paper and made a list of the changes she had brought to the expanding town.
+
+Arguably, the third chemical weapon was made by the Yries so it didn’t really count. It was also the most gratuitous act of dickery she had ever witnessed on a land that enslaved people to fund wars. She was going to use it.
+
+Where was she? Ah, yes.
+
+That was more than enough to draw a conclusion. Viv sighed and bent forward, massaging her tired eyes. Then, she looked up at Solfis’ quiescent form.
+
+“Solfis.”
+
+//Your Grace?
+
+“... are we the baddies?”
+
+The golem’s yellow orbs dimmed in what felt like a smug, satisfied half-lidded smile, like a relaxing cat.
+
+//Scruples.
+
+//I have always found the human’s fascination for honorable underdogs curious.
+
+//You fleshy beings often root for the one at a disadvantage.
+
+//It is a phenomenon I can observe but not understand.
+
+//Like altruism.
+
+//I believe that it is born from your species’ fascination with constructed beliefs.
+
+//Which you call stories.
+
+//Let me ask you a question in return.
+
+//Can you accept what Prince Lancer will do to the people living here, should you fail?
+
+“No.”
+
+//And how far are you willing to go to stop this possibility from happening?
+
+“That’s the thing. If I stop questioning myself, if I’m ready to go to any length, then am I better than him?”
+
+//I would argue that being better should not matter.
+
+//This is not a contest of virtue.
+
+//But I know that your fleshy mind does not work like that.
+
+//So instead, I advise you to go out and talk to one of the survivor’s of Lancer’s occupation.
+
+//The main west street baker’s widow will do.
+
+“The one…”
+
+//With that scar on her cheek, yes.
+
+//Talk to her, hear her story.
+
+//Then you can decide how far you are willing to go.
+
+Viv felt like she had been trapped, somehow. Solfis was using emotions.
+
+“Not like you to make me decide based on my heart.”
+
+//Your emotions influence your mind.
+
+//It is unavoidable.
+
+//That same imperfect mind allowed you to come up with all new and exciting ways to hurt people.
+
+The golem deployed with skeletal grace. His horns reached the ceiling without ever touching it. The glow of his orbs shone ominously in the wall’s shadows.
+
+//No matter what, I wanted you to know that, regarding your preparations...
+
+They narrowed in vicious pleasure.
+
+//I am extremely proud of you.
+
+Author’s note: change of focus.
+
+Fifth day of the third month, Reixa, west Enoria.
+
+“To quell a rebellion is not an act of punishment,” the prince said.
+
+His baritone voice rolled smoothly over the assembled troops in Reixa’s main square. Enorian commoners watched from the windows and balconies, enraptured by the royal presence. The collective attention drifted from the prisoner on the gallows to him, their sovereign, their prince. The rightful heir to the throne.
+
+“No, it is an act of healing, a corrective act. To quell a rebellion is to reconcile a people with their rightful ruler. To stop a rebellion is to cure a sickness by suppressing the disease before it sours the body.”
+
+The prince spread his arms and Talan felt the caress of his goddess. Truly, the young questor could not have prayed for a better leader. Prince Lancer was just, frugal, and avaricious of the lives of his men. He understood the nature of power as well as its pitfalls. He had led them to victory at Third Regnos, cutting down the rebel cavalry’s retreat and slaughtering the better part of their nobility. Enoria would be safe under him. Enoria would be powerful and whole once more.
+
+“Order, gentlemen, is the key to peace and prosperity. It does not suffer compromise, nor exceptions. It must be imposed equally and justly across the land. Our task here is nearly done and we will move out soon to pursue this most noble of goals. We will go to Kazar and bring this lost city back into the fold. We will cleanse it of the witch, her followers, and her influence. Order will return to that respected pillar against undeath. First Kazar, then, the kingdom. I know that some of you would prefer to concentrate on the rebels and I hear you. Their time will come, but for now, we must finish this task laid in front of us. It is not a chore, it is an obligation.”
+
+Cheers rose from the ranks. The Bridgers roared first, they who had been the first at his side, then came the line battalion. Talan’s chest filled with the fervor of his cause and the great duty they had to perform. Ah, such a sight they were, the prince and his lieutenants. There was Goodmother Eteia, severe and reserved, she who had sacrificed the joy of motherhood for the cause. Bishop Ereon the brave surveyed his flock with a fatherly smile. Talan’s superior had always championed Maranor’s cause with unwavering faith, eager to see his beloved homeland resurrect from the ashes. The Royal Champion was the last, a tall and silent man handling a greatsword as easily as Talan wielded a toothpick. He stood by the prisoner with the grim expression of an experienced executioner.
+
+It was time. Prince Lancer turned to the kneeling man and called to him. They offered such a poignant contrast, the true blood and the usurper, the silent silver and the gilded gold. The fallen robber baron looked up and sneered. The gash on his handsome face yawned and blood seeped, dying his teeth red.
+
+“I met her, you know?” the fallen man said, and the prince stopped. Talan’s warmth faded a little bit from his chest, because something had gone... off-script. The prince frowned and signaled the executioner, who pushed the prisoner down.
+
+“You, the criminal who stole the name Elix, you have been found guilty of treason, robbery, kidnapping, rape, and murder. I condemn you to death.”
+
+“She’s nothing like you think,” Elix retorted, uncaring.
+
+Talan saw the glint of a vengeful eye in the shadow of the Champion, one last ember of defiance. The voice was muffled, and yet it carried over the silent assembly like a dirge.
+
+“I will be seeing you soon.”
+
+The blade fell.
+
+For all his flaws, the robber known as Elix had turned Reixa into a well-supplied hub of activity. It had come at the cost of villages, as well as the town of Anelton. Those would take two generations to recover from the devastation he had wrought, at least! But Prince Lancer’s group had all they needed to launch the expedition.
+
+It was said that the rebels had defeated a garrison of two hundred men. To defeat them, the prince would be bringing four times that number, plus a war mage and the champion. Talan thought that it was too much, but he also knew that the expedition would keep the men on their toes in preparation for summer, when they would finish off the rebels once and for all. For now, ranks upon ranks of soldiers with their gear walked along the dirty road west, many complaining that the men at the center ‘had it too good’. Sergeant walked up and down the line, chastising those who complained and reminding them that their turn would come. Kazar was such a lost place, away from everything. The prince was right, however, it was a matter of principle.
+
+The light wind of Enorian spring brought the scent of sap and wet earth to Talan. It covered the more pungent aroma of his traveling companions, the squad he led as questor. Talan shivered as he recalled the hell that Regnos had become after the third day, when it seemed like the entire world stank of shit, rot, and smoke. Summer would come again, but for now he enjoyed the simple pleasure of a morning stroll. He was so absorbed in his step that he almost missed the late addition of another wagon to their already large caravan. It bore, to his surprise, the sword and shield of Neriad.
+
+It was no secret that the two churches were sometimes at odds on philosophy and the conduct of war, yet the alliance between light gods was too precious to be sacrificed on details and so the newcomer was received with courtesy. Talan heard the whispers spread through the ranks and finally learned the truth in the late afternoon, as they were already well on their way. They had been joined by a Bishop of Neriad. Their expedition had two bishops. The men were too wise and jaded to rejoice, however. There had to be something going on. The mystery only grew deeper when they were informed that night that the Neriad party would join them ‘in healer capacity’ and under certain conditions. The prince had to accept a ‘peace talk’ with the witch before continuing. He had accepted.
+
+Talan didn’t think the negotiation would lead to anything. Kazar had been forced to submit to the laws they had avoided for so long and some of the population had not shunned their tasks, like true Kazarans. The others had risen against the kingdom, led by the accursed witch and her inhuman followers. Talan didn’t expect that someone who would start a rebellion against order because their privileged treatment had ended would willingly submit to execution. The witch had to be selfish and manipulative. She would let the large town die before sacrificing herself.
+
+On the third day, the army reached Anelton.
+
+“This is what a world without order looks like,” Talan told Regor, the corporal in his squad. The old man did not reply but he nodded wisely. Elix had put the town to the sword. That night, they camped under the stars within walking distance of a massacre. It put Talan’s teeth on edge but they were mercifully left alone.
+
+At dawn the next day, the formation narrowed to enter the Deadshield Woods.
+
+Talan had heard much about the place, the way it seemed to play tricks with the mind. All of it was true. Only ten minutes into their trip and he was not quite sure where the edge of the forest was. The road twisted and turned, but by how much he didn’t know. The squad huddled together and kept their eyes on the dense foliage while they listened to every bird call, every monster screech breaking the muffled silence. Groups of archers were ready at all times to pepper any incoming beast with serrated arrows, but their greatest deterrent was Eteia. Vigilant and somber, the war mage surveyed the land from atop her armored wagon like a queen. But no, it was wrong to be thinking that. Her attachment to the prince was well known, yet so far they had refrained from founding a family. It was not for him to consider that she would rule.
+
+She did look majestic, and her presence comforted him.
+
+Talan shook his head and returned his attention to the road. The column made their slow way on the ancient path even as it resisted the all-consuming green expansion. Sometimes, boughs covered the sky and they walked under a green, luminous arc of intertwined canopies. The union of the breath-taking and deadly muddied his mind. When they stopped at a clearing in the late afternoon, he addressed a quick prayer to Maranor.
+
+“Let me see my purpose through the haze of mortal concerns.”
+
+Talan’s vision cleared and his mind grew cold and focused. The Deadshield woods were an obstacle, nothing more. It would be surmounted like the others.
+
+That night, Bishop Ereon summoned him to his tent.
+
+“Tomorrow, we will meet with the witch for parlay. It will fail, of course, but you will be present and learn what you can.”
+
+“Of course, Excellency. My inspection gift will not fail us.”
+
+“Let your men know that they must not attack, even if the witch is a lawless destroyer. We cannot stoop down to her level. Let the servant of Neriad play his strange game, and do not interfere.”
+
+“Yes, excellency.”
+
+“Good. I will see you tomorrow, Talan. Rest well.”
+
+The questor retired to his cot with some trepidation. The witch. The, and may his ancestors forgive him for mentioning it, Great Black Whore. Would she really come? He could not wait.
+
+Sleep did not come easily that night.
+
+Morning in the Deadshield Woods was a strange affair. It crept upon people like a stalking scalehound, sneaking between the thick trunks. By the time the sun rose above the treeline, the sky was blue and cloudy. Talan made his way to the front of the army and the armored wagon where Goodmother Eteia and Prince Lancer waited.
+
+It was a strange sight, seeing all those important people standing early in the middle of an empty road. He himself came to wait near his own bishop and the older man clapped him on the shoulder with a light smile. The champion was his usual stern self. Neriad’s bishop was different. He was clean-shaven, revealing angular traits and a pointy chin. Black eyes glared at the trail with clear disapproval as if daring it into summoning the witch. For some reason, it seemed to work. They heard a horse coming.
+
+The woman who had caused it all trotted along the path on a powerful mount. She stopped at twenty paces and calmly dismounted, never breaking eye contact.
+
+Elix had been right, she was nothing like he expected. He had been tricked by the many humorous drawings made of her. There was no abundant cleavage or free-falling lush hair. The woman approached and a nightmarish construct of bone unfolded behind her, as tall as two men. Before Talan could recover, a white, scaled form landed smoothly from above. No one reacted in his party and so he believed that they had been warned.
+
+The peculiar trio stopped only a few feet away from his party. Talan had his first good look at the one who had caused it all and realized that his preconceptions had been as numerous as they had been false. She wore a war robe covered in runes that showed signs of wear in several places. A dagger hung from a sheath on her chest while a round shield covered her back. It was a warrior’s attire. Her hair had been tied and held back, and felt natural despite its strange color. The real deal, as were her eyes. They matched her cold expression.
+
+Talan got a first taste of her power. Mana coiled gracefully around her, alive and quiescent yet the might was undeniable. By comparison, Eteia was both warmer and more composed, more structured. The war mage held a staff over a crimson robe of office, while the Prince had picked a brigandine under a doublet. Both the bishops wore robes and the guard was in full plate with their helmet closed. It made things… a little bit awkward.
+
+“Surely you do not intend to take those things in?” the mage blurted, outraged.
+
+The witch shrugged.
+
+“We can talk here. I do not care either way.”
+
+She had an accent he could not place. Her voice went up and down as if she were singing and her ‘r’ possessed a strange, raspy quality. It made her more exotic.
+
+“We will all sit inside,” the Bishop of Neriad intoned with thin patience, “and we will all behave according to the rules of war, with Neriad as my witness.”
+
+“Fine by me, I’ll sit,” the witch said.
+
+Prince Lancer inhaled in a great effort to control his anger before so much arrogance. Talan had no idea how he managed to tolerate so much aloofness from that upstart. Despite the pressure, his answer was fast to come.
+
+“Agreed. And if anything happens…”
+
+“Then you die first,” the witch concluded without care.
+
+A chill went down Talan’s spine before the finality of the statement. The delivery had been casual but the soul power behind it was absolutely overwhelming. If anything happened, the prince would die first. It was an inescapable fact that left no room for interpretation. And the prince just accepted it with a nod.
+
+Unheeding of Talan’s confusion, the party walked into the armored wagon. It was quite nice inside. A central table going the length of the wagon offered basic food and refreshment, though Talan had no doubt that they would be left untouched. He and his side shuffled down with the champion standing guard. The witch gracefully sat on her side, while her marsh drake padded close to her and the skeletal creature kneeled. It looked excessively intimidating.
+
+They were so strange like that, like characters from a tale, not political figures deciding the fate of a city.
+
+The Bishop of Neriad sat at the end, taking the judge seat and starting the negotiations in a low drone. Talan tuned him out to complete his main task: inspecting the foe. It was his speciality, his pride and achievement. Years of inspecting everything until his head hurt had finally yielded a specialized skill which his path had then reinforced. The time had come to use it for the good of Enoria, starting with the witch.
+
+Mana flooded his mind and eyes, a casting subtle enough to be lost between the powerful movements of the other people here. At first, he felt an opposition which meant that the status was occulted. Someone or something blocked his skill. Talan persevered but felt like pushing against a brick wall.
+
+Then there was a susurrus of fabric, the whispers of lost things staring through dark portals. A distant chuckle froze his breath in his chest, and the veil lifted. He could see everything.
+
+She had been protected by Maradoc, god of secrets. Talan felt sweat pearl on his brow but he continued anyway.
+
+[Lost Heiress. Extremely dangerous. Third stage of her path. One who has forfeited other hues in favor of a deep understanding of black mana. Highest stats: all mental stats ( late fourth tier) Highest skills: meditative trance, mana mastery, intimidation.]
+
+More information filtered through his mind as the occultation unravelled.
+
+[Decent melee combatant. Proficient battle caster. Smart. Slayer of men. Undead nightmare. Lucky. On the rise.]
+
+And then the cause of the veil made itself manifest.
+
+[Leader. Revolutionary. Born for magic. Outlander.]
+
+So that was it, the reason why a god had intervened. Outlanders were always the catalysts of great changes and not always for good. Halluria had taken to kill them as a matter of principle. Other countries kept to a more merciful approach. Enoria might change that after the current crisis was over.
+
+An outlander leading a rebellious city. Her special status would not save her though. The interface had revealed that she was no powerful otherworldly mage, and there was only so much one could achieve in so short a time.
+
+He almost stopped there, but curiosity needled him. He could not help but look to the side, to what appeared to be a drake. Such creatures were often kept as pets by the nobility, especially in the north. It would be a waste of time to inspect a mundane animal and yet there was something in those malevolent red eyes that gave him pause, a sort of vicious intellect that no beast should possess. Beasts and monsters could be cunning. They could even hold grudges. They would not, however, patiently inspect a room and check for weapons and exits.
+
+The creature glared at him and bared its teeth as he activated inspection again.
+
+[Juvenile dragon. Extremely dangerous. Highest stat: Finesse (late fourth tier). Highest skills: draconic combat, flight. Others: awoken intellect. Gourmet. Truce. Flame breath. Mana coating. Nascent caster. Adopted daughter. ]
+
+Neriad’s.
+
+Hairy.
+
+Bollocks.
+
+Fuck.
+
+The questor froze in his spot, causing a few curious glares and not giving any shit whatsoever because there was a fucking dragon in the room.
+
+A dragon.
+
+Arguably, it was rather tiny.
+
+Arguably, it was too young to affect the outcome of the conflict but if there was one thing that was certain in Nyil, it was that killing a dragon always carried a cost and usually that cost was other dragons taking a short and incendiary interest in you, your extended family, and anyone else in a fifty leagues radius who wasn’t aggressively fireproof. It was the sort of victory that disintegrated like ash between your fingers, and the prince would taste it, unless he could spare the thing.
+
+Yes, that could be doable. Kill the revolutionary upstart but leave the monster alone. The revolt would be crushed easily anyway, they just had to be careful.
+
+Talan turned to the last member of the party. In for an iron, in for a gold. It could not possibly be worse than realizing one was fighting a dragon, he thought.
+
+He was, of course, completely wrong.
+
+[ HX-013 Experimental Strike Golem, designation, Solfis. LETHAL. Apex being. Irlefen’s Masterpiece. Artificial soul. First of his kind. Ancient. Dragon bone frame…
+
+The description went on, and on, until his mind buckled under the torrent of information. A Duke had fewer titles than that. Gods, the Headmaster of the Helock Academy of Magic had fewer titles than that. And it only got worse.
+
+[Last Defender of Harrak. Rebellion crusher. Undead nightmare. Monster nightmare. Aberrant Nightmare. Human Nightmare. Kark Nightmare. Kingslayer. Walking cataclysm. TEN THOUSAND DEAD.]
+
+Two baleful orbs of yellow light captured his mind as the skill broke and he was caught in a vortex of data and impressions. He was hopelessly swallowed into the crystalline mind of the entity known to the world as Solfis, incapable of resisting its tempestuous pull. There, the soul unfolded like a lotus. It was an immense forest of data slabs, filled with rainbows of light flickering in many hues as streams of thoughts passed through them. It was an impossible labyrinth of logic gates and information rivers. It was a star pulsing in the void. It beat with a frigid aura, and at its core, kept under control by chains that wouldn’t break before the world did, hidden in a well of infinite depth, was the fuel that had kept that adamantine mind going for centuries.
+
+It was rage.
+
+Solfis was animated by an endless, unyielding, and inexhaustible fury, a dark pit of sheer hatred that would melt the soul of a god grain by grain, strand by strand, over the eons, until there was nothing left. The strangely pristine emotion radiated its glacial presence throughout the entire soul. He knew then, that under the creature’s merciless gaze, he was nothing but variables around a squishy, soft target. The entity would grind him and the others to dust on the road to Kazar. He, a questor, would never amount to anything more than a —
+
+//PATHETIC.
+
+//USELESS.
+
+//FLESHBAG.
+
+Warm liquid dripped on Talan’s ungloved hand. It was red. The atrocious pain woke him up from his funk. The others did not react. Was it because they were ignoring him or because they missed the event? He didn’t know. The argument was picking up.
+
+“I will now allow the prince to express his sentiment on the matter. Listening to each other is the first step towards reconciliation.”
+
+The heiress snorted but she did not stop the prince.
+
+“Thank you Bishop Erland. Then I shall begin. Kazar was granted a tax exemption to grow, and it has done so, taking profit from the passing troops and developing thanks to their protection. When I came to ask you to join the war effort, you fled and returned to destroy the garrison I had left behind. You revolted against your king and for this, you must atone. You and your lieutenants will surrender to me and be judged for your crimes. The population of Kazar will lay down their weapons and be subjected to our laws, paying a tribute as a compensation for the lives taken during the event. Do so, and I shall be merciful.”
+
+The prince leaned back. Talan found the terms generous. It fulfilled the prince’s purpose and didn’t involve a siege, mass execution or any sort of sacking. The innocents among Kazar’s government would even be spared. He wondered if the witch would see that.
+
+“Are you done?” the bishop asked.
+
+“I am.”
+
+“Then, Witch Viviane will be allowed an answer.”
+
+The witch took a few deep breaths. Talan noticed the deeper coloration on her strangely pinkish skin and realized that the woman was absolutely livid. When she spoke, her tone was clipped by self-restraint.
+
+“You came to Kazar asking over two thousand gold talents as back payment, barring which you would invade, which you did.”
+
+Talan’s eyes widened. That couldn’t be right. No, she was probably exaggerating, although his questor powers detected no real falsehood. The prince had probably offered incremented payment. For future taxes. Yes, that had to be it.
+
+“You sieged the city, enslaved those who had stayed behind and sold their women to your followers. You took the rest as slaves and sold them Maradoc knows where. You slew all those who resisted and threw their corpses into the desert where they rose as revenants.”
+
+The Bishop of Neriad hissed. Ereon remained quiet and even Talan himself balked at the outrageous treatment. Such measures should only be used on the most despicable of foes. Surely… but he was not there. He didn’t know, so he wouldn’t judge. It was not his place.
+
+“And now you come expecting submission. This is pointless, because we do not matter in your eyes. We are just one more trial on your path to the throne. Everything you have done and will do to us is worth it if you can ascend as king. We’re just trash you need to get rid off. You have no interest in anything I might say beyond ‘yes’.”
+
+“If you understand,” the prince said, “you will do the right thing and surrender. The Kazarans will be treated fairly. They will have a future under Enoria, one they will certainly not have under you.”
+
+“You will understand if I do not take your word for ‘fair’ and it doesn’t matter anyway. Those of us who lived in caves talked to the survivors of your occupation. The whole of ‘Kazar’...”
+
+She said the word in a way that arose suspicion in Talan, as if Kazar was only part of it.
+
+“... is eager to meet you again.”
+
+The threat hung in the air between the two. Once again, Talan felt absolute confidence in the woman’s demeanor. Her soul flared, backing the statement with the ghost memories of past deeds. Deadly past deeds. He did not know how much blood it took to obtain the title of slayer of men, but he did know that no one in his squad had it. It was a bloodsoaked prize at the end of a sequence of butchery. And she had it.
+
+“At the very least you did not waste my time,” the Bishop of Neriad said. “Now, Your Highness, it is time to fulfill my purpose as we discussed.”
+
+“What do you mean?” the witch asked.
+
+“I am here to heal your soul. That is one of the two purposes of my visit.”
+
+She raised her eyebrows and, to Talan’s lack of surprise, the bishop indulged her. Those Neriad followers were always too soft on lawbreakers.
+
+“The rest concerns an internal affair related to the temple in Kazar. I will make my way there with Prince Lancer and talk to the administrative staff. This is not something to concern yourself over, especially considering the circumstances hmmm?”
+
+“We shall see. How do you intend to heal my soul?”
+
+“It will only take a moment, at least down here. You will be disabled during the process.”
+
+Talan looked to the side and, apparently, some did others because the horror spoke for the first time. Its voice was an organic snarl over a monotone, unnatural drone.
+
+//By all means, try.
+
+//I do enjoy enclosed spaces.
+
+“For the last time we are still under the flag of truce. Behave. Now, please give me a moment while I collect myself.”
+
+The bishop closed his eyes and golden light flared under his pale skin, gaining in intensity until the interior of the carriage was lit by a second dawn. As a divine caster himself, Talan knew that the energy the man was weaving was absolutely tremendous and he gripped the table to stop his shaking. There was enough divine mana to burn down a manor.
+
+The bishop placed his hand on the witch’s forehead. The light blinked out. He stumbled back to his seat while the witch tilted forward, held up by the dragon’s sudden presence.
+
+Meanwhile, in the in-between.
+
+Time was meaningless in the in-between since matter did not exist, but it did take a relatively large amount of... experience, for lack of a better term, for Viv to regain a sense of self. It was the second time she was a pure soul, though she had not realized it, and the sudden absence of a brain left her disoriented. None of the usual ways to process things were available to her. She was also hurt, and this increased her unease.
+
+When Viv came to, she found herself in the embrace of something far greater than herself. This sensation of being helped and protected was the first coherent feeling she understood. Then, slowly, the core of who she was coalesced from the tiny white orb that was her soul.
+
+“WE MEET AGAIN,” said the large presence.
+
+“Neriad?” she thought.
+
+“YES.”
+
+Things that felt like hands but were not folded her, closing the tears and placing pieces that had been split back in their natural position. Viv wriggled, feeling that there was something outside like a current, and thoughts. She was in a vast void that felt like an oasis of calm in a moving sea.
+
+She bounced a little bit.
+
+“STOP FUSSING.”
+
+“Oh, sorry.”
+
+It took a long time for the god to finish, but when he did Viv felt an intense relief flood her mind. She was whole again.
+
+The restored part of her returned some measure of control and she perceived Neriad by her side for the first time. The god was absolutely massive compared to her, incomprehensibly so. He pulsed golden and radiant, a pillar that would never give up. She felt solace in his presence, and she also felt humility. His as well as hers.
+
+“HE WHO NEVER DOUBTS IS LOST, I THINK. NOT VERY GODLY, OR SO I HAVE BEEN TOLD.”
+
+“Well for what it’s worth you’re probably one of the best things to ever happen to this shithole of a planet.”
+
+“THANK YOU. THIS MEANS A LOT COMING FROM YOUR KIND OF MIND.”
+
+“Oi. Oh, by the way, could you tell me…”
+
+“I DO NOT KNOW OF YOUR CIRCUMSTANCES. I CAN TELL YOU ONE THING, HOWEVER. DO NOT TRUST MARANOR AND HER SERVANTS.”
+
+“Well, she is your competitor.”
+
+“IT WAS NOT ALWAYS LIKE THAT. WE USED TO BE LOVERS. NOW SHE IS LOST, AND YOU CARRY THE MARK OF HER HATED HUSBAND.”
+
+“... the divine spark of luck?”
+
+“DO NOT MENTION IT TO ANYONE. UNDER ANY CIRCUMSTANCES. DO NOT TAKE THAT RISK.”
+
+“Well, alright.”
+
+“I WILL SEND YOU BACK. AND ONE LAST THING.”
+
+“Yes?”
+
+“KICK HIS ASS.”
+
+Back at the tent.
+
+Talan saw the witch’s eyes open. She brushed back her hair with two hands with a deep breath, then the part of her soul that promised death withdrew. This did not comfort him. She was merely hiding a knife back under her cloak, but it was still there, sharp and naked.
+
+“I guess this concludes our little conversation. If you will excuse me.”
+
+She stood up and the dragon coiled at her side, lazily tracing her shin guard with its serpentine tail. Everyone walked out and watched her mount her horse like some horrific dysfunctional farewell.
+
+“The truce ends in fifteen minutes, was it?”
+
+“Yes,” the bishop replied.
+
+“Farewell then.”
+
+“We will meet again,” Prince Lancer said.
+
+“We will,” she confirmed.
+
+The assembly returned to the wagon where they availed themselves of the displayed victuals, no need to let those go to waste. It was not the Enorian way. Talan’s input was not solicited and so he listened to the various people’s opinions. Eteia judged that the witch was powerful and talented but still relatively green. The champion said that she was clean and freshly bathed, and that the Kazarans probably had a base somewhere in the woods, and that they should be ready to deploy at any time. The prince finished by reminding them of their duties. Talan followed Bishop Ereon outside while they walked to the camp. He wanted to share his findings, but Ereon was in no hurry.
+
+“So, the talks have failed. It has begun,” the old man said bitterly.
+
+Talan wanted to reply but he was interrupted by a hiss, an unnatural sound that sent men scrambling for their blades. Not a moment later, a spear of black as thick as a tree trunk landed in the middle of the camp, killing three men and annihilating their water cistern.

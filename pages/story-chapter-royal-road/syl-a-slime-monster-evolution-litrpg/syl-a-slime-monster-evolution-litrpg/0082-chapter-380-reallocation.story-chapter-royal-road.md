@@ -1,0 +1,155 @@
+---
+id: bfa35da3-ffb1-5468-b98a-0f2900d39bba
+page-type-slug: story-chapter-royal-road
+title: "Chapter 380 : Reallocation"
+slug: 0082-chapter-380-reallocation
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 82
+ownLength: 2172
+unit: words
+publishedAt: 2026-05-04
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3352005/chapter-380-reallocation"
+royalRoadId: "3352005"
+---
+
+Seeing nothing left in the former abyss, I began heading towards the exit. Eventually, I reached the massive door, and to my surprise, it was still functioning despite the former great lord of the ocean fleeing. I tore open an aperture and exited, taking a peek at the door and seeing that one spot was still glowing.
+
+Did Vee and her team defeat one of the guardians while I was fighting that shadow octopus?
+
+That was the likely explanation, unless the octopus was taking the remaining guardians with him as he fled. Although considering how quickly he escaped, I thought the chance of that was low, as no doubt he didn't want to risk encountering me again so soon.
+
+He did swear to get revenge, but I figure he will take his time to accumulate power for the rematch. I need to make sure I have a way to capture or annihilate shadow entities by then, as stealing food from my mouth twice is unacceptable!
+
+I hadn't noticed it at first, but the removal of the CUBE actually had an effect on the dungeon itself. Slowly, as I was cleaning it out of any remaining monsters and treasures, the restrictions within it started to ease up. What ultimately clued me in to this change was my [Personal Rift], as it suddenly could pierce through walls more efficiently than before.
+
+Unfortunately, the same could not be said for other things, such as directly teleporting through rooms, but then I recalled that even Leon had such a function, and he definitely did not have a CUBE.
+
+Unless he was keeping more things from us than I realized… Is he going to run away from the island while we are in the dungeon?
+
+Another thing that eventually eased up was the connection I could feel from my cores, and soon I could sense their proximity. With that in mind, I chose to meet up with Vee and the others to explain what had transpired. After tunneling through space a few times, I found myself emerging into a room with Vee and her elite kill squad.
+
+Why do I feel like they might be better at fighting than I am?
+
+My pride refused to admit it, and I mentally retorted that I could also fight in such a boring and methodical manner if I wanted. Also, they quite literally were me, so any success they achieved was de facto mine as well.
+
+"Good job, gang," I said, finally revealing myself when they finished clearing the room.
+
+"I wondered when you were going to say hello, or if you were thinking you were some silent observer. Sadly, I think you're a few abilities short of sneaking up on us," Vee replied.
+
+I shook my head. Always the venomous tongue…
+
+"No, I just didn't want to interrupt," I said.
+
+"Do we have the time to fool around? What was with the big ominous countdown?" Vee asked and then sighed. "I'm just assuming you're responsible."
+
+"The dungeon master abandoned the dungeon and ran away, so technically it's his fault," I explained.
+
+"I'm surprised he ran away. Even Juniper didn't run away from the dragon, right?" Vee asked.
+
+"I don't think so, otherwise she would have probably lost her CUBE… But maybe the dragon just burnt it and didn't bother sticking around," I suggested.
+
+"CUBE?" Vee asked.
+
+"I'll explain later…" I replied. "But we should try to kill the last guardian and steal what we can. I don't know if it's worth telling Leon so he can try scavenging some more dungeon bricks."
+
+Vee wasn't sure what I was talking about, so I gave a brief rundown of my experiences in the dungeon. I explained the two guardians I fought so far, and how they were linked to a massive door. I also suggested they must have fought a guardian themselves, as one was missing.
+
+"Mistress, do you think it was that jellyfish?" Sylbera asked.
+
+"It was a little stronger than the other monsters, but I don't think I'd call that a guardian," Vee replied.
+
+"Sylbera might be right," I responded. "Despite having a fancy title, I didn't find them that big of a deal. Remember, we're both tier five monsters, so these are a whole tier behind us."
+
+"Are we really that high up on the food chain?" Vee questioned, apparently not realizing her own strength.
+
+The look of horror on Vanessa's face was priceless. As one of the monstrous humanoid races, she probably had a very good understanding of what being tier five meant for monsters. Vee, on the other hand, was even greener than I was about how things worked in the world.
+
+"I can easily check if it was a guardian or not, at least I'm assuming you managed to take a bite out of it," I said, glancing at my personas.
+
+"Master, please forgive me, but regrettably, it turned into water whenever its parts were destroyed or even severed from the main body," Sylbera explained, looking almost ashamed.
+
+"It was almost like a fusion between elemental and monster," Sylvester chimed in with an apt comparison.
+
+"That makes sense…" I sighed in disappointment, but I didn't blame them. I hadn't managed even a bite against the shadow octopus, and that arguably would have been the best prize down here.
+
+Of course, Vee ended up asking a bit about the [Dungeon Master]; her curiosity was showing. Also, as expected, she had some choice words and snarky remarks to make, and she found it hilarious that he swore revenge while fleeing with his tail between his legs.
+
+"That's like classic bad guy talk," Vee said between giggles.
+
+After catching up on the situation, Vee asked if we were going to travel together. I turned down the offer, as I figured we would cover more ground separately, and it had been working quite well before now.
+
+Perhaps, if we were together, we could have stopped the octopus from escaping. If Vee had surrounded the arena in webs, he would have sliced himself like that elf assassin.
+
+It was too late to cry over spilt milk, and we had a strict time limit, as neither of us was sure what would happen once the dungeon collapsed. With that in mind, I informed them that I would be leaving to pick up Leon so he could gather the bricks.
+
+"My [Personal Rift] lets me teleport around, so I should be able to get out and back in a timely fashion," I explained.
+
+"That explains a lot of your movement. I can't believe you managed to figure out a way to cheat the dungeon," Vee whined enviously.
+
+"Work a bit more on your magic, and you too can become a Riftmancer," I teased before tearing open space before her.
+
+"If I didn't know better, I swear you and Mother are working together against me," Vee grumbled.
+
+I gave her a wink, and before I left, I secretly returned the [Sub-Cores] I had borrowed for my temporary workforce. With the biggest threat defeated, I didn't see any need to keep them on hand.
+
+With the walls no longer requiring double the effort for half the effect, I escaped the dungeon pretty quickly. Leaving it, I found the surroundings of the place were rather peculiar, and there was this lingering wrongness to it.
+
+Is this what it means when a dungeon is collapsing?
+
+I noted that the area was vacant of even the most mundane of monsters, and even the ordinary fish had fled. Whatever was going to happen, nothing living wanted to be around to witness it.
+
+I'll warn the others when I get back. We can meet up on the final day, and I'll tear open an escape route.
+
+Sadly, I couldn't sense even the faintest trace of the shadow octopus, and sadly, that meant I had no hope of tracking him down. Wherever he had gone, it was beyond my current abilities.
+
+[Triangulate] lets me store location coordinates, but I wonder if there's a more advanced version that could work with items, or better yet, people. If I could save the personal coordinates of enemies, I could drag them back to me or teleport directly to them.
+
+There were obvious issues with that idea: the coordinates couldn't be saved because they weren't fixed, and they changed even if they moved by a fraction of an inch. But, as crazy as it sounded, I thought there might be something else that belonged to each individual as their own 'identifier', so to speak.
+
+If I could get a spell or skill that lets me query the current coordinates of someone or something, that would solve the issue of constantly changing coordinates.
+
+If such an ability existed, it would probably be a pinnacle skill of Riftmancer, or perhaps a class beyond Riftmancer.
+
+With my dimensional freedom regained, I began casting a simple teleportation to the island. At this point, it was almost routine, thanks to my repeated continental travel back and forth to Caelthal. Once this dungeon was wrapped up, I planned to take a break and fully piece together my [Mapping] and [Triangulate] idea.
+
+Returning to the island and spreading out my senses, I was relieved to find that Leon had not, in fact, run away. Perhaps he wasn't confident in his escape, or maybe the island resort-and-fort idea was growing on him.
+
+I quickly moved to his location and found him in the middle of what must have been an experiment involving his artificer class, as he was in the process of building a metal cage to house the yellow slime core I had given him. He seemed surprised by my sudden appearance, yet he didn't let that interrupt his task at hand.
+
+"We defeated the dungeon," I informed him.
+
+"Blimey, that was quick… It's only been two days since I last saw you," he replied.
+
+"Two days…?"
+
+I was genuinely surprised; it hadn't felt like two days to me. As if my body suddenly realized what had happened, I felt a faint, hazy fatigue descending on my mind. I would have loved to have taken a nap, but it wasn't at a level that hindered my ability to function, and I'd certainly stayed awake for much longer periods.
+
+Back in the day, I would have practically fallen apart for staying up this long. But now that's no longer the case. It's like with each level up, I get, for lack of a better word, less human.
+
+I knew this phenomenon wasn't limited to only me, as I'd heard stories of high-level adventurers sacrificing a week of sleep in case of emergencies. In fact, with the elves, this was even more extreme, as I'd overheard Paeris and Llewel discussing their routine sleep schedule as if it were an unfortunate chore.
+
+I was already a slime, so physically I was always operating optimally, unless I was short on slime mass. Still, I liked sleeping, and I would feel remorseful if I evolved to the point where I no longer needed it.
+
+I snapped out of my moment and returned to the matter at hand. By the looks of things, Leon was finishing up his current task while I had been lost in my own thoughts.
+
+"The dungeon is going to collapse in four days, so if you want to steal more bricks, this might be your last chance," I informed him.
+
+Let's not be vulgar. I'm not stealing it, I prefer to consider it a strategic reallocation," Leon replied, although he made no effort to hide the desire in his tone.
+
+"Sure, sure, whatever you want to call it…" I sighed, waving him off.
+
+Leon quickly packed his experiment away in his shell, which seemed to have its own function, similar to my [Core Storage], as it was the only way to explain where he was keeping all these things. After getting his consent, I teleported us straight to the dungeon entrance, since I now had the coordinates saved and ready.
+
+"I suppose I'll just start digging here then," Leon said, sounding quite cheerful about getting to work.
+
+I shook my head. "No, I think you'd better start on the lower floors in case you run out of time. There are way better materials down there, and there's a door I think you'd love to take apart, assuming you can."
+
+"Oh?" Leon sounded genuinely intrigued. "And how do you propose we reach there? Are you going to escort me through the monsters?"
+
+"Nope, I'll tear open a few holes, and we will be there in no time," I replied, and with a swish of a pseudopod, tore open space.
+
+Leon flinched, especially seeing that the aperture I made was going inside the dungeon. He had grown very confident that his shell, made from 'reallocated' dungeon materials, made him safe from unwanted dimensional tampering, and now I'd directly disproven that theory.
+
+"Oh my…" he gawked at the spatial tear.
+
+"Let's go!" I said, shoving him through. "We don't have time to waste and dawdle!"

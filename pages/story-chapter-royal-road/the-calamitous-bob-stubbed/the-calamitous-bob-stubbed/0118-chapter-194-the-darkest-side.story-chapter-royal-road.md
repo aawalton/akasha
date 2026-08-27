@@ -1,0 +1,549 @@
+---
+id: e07c6e98-4d96-5369-aaf4-7990a5ca463f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 194: The Darkest Side"
+slug: 0118-chapter-194-the-darkest-side
+partOf: the-calamitous-bob-stubbed
+position: 118
+ownLength: 6758
+unit: words
+ownProgress: 6758
+publishedAt: 2025-02-21
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2081196/chapter-194-the-darkest-side"
+royalRoadId: "2081196"
+markedReadAt: "2026-06-29T21:18:51.768Z"
+---
+
+A wave of excitement followed Marruk’s declaration, yet the council was not immediately swayed. They devolved into arguments and deliberations. This was all very shocking to them. It went against tradition, a soldier explained to Viv. A woman could not become a warchief, just as a man could not decide how a child ought to be raised. Those were customs that had lasted since time immemorial. Before long, elite warriors gently pushed them away from the stone while the elders deliberated.
+
+Under normal circumstances, Viv wouldn’t have given Marruk’s bid a snowball’s chance in hell, but these were desperate times. It was painfully obvious in the way the younger soldiers’ eyes glittered when her soldiers distributed steel spearheads, how they whispered and scurried excitedly to fit them on their weapons. Grizzled veterans watched the land ship roll back with the haunted gazes of people who didn’t dare hope, who had been scarred by life so many times that no good news could possibly come without a solid side of disappointment. They were not expecting success, but for the other shoe to drop instead. They had never had any true victories - therefore, it was all a lie. Viv then realized she had come at the very last moment. This was the last stand of the Red Tribe. They were no longer thinking of victory.
+
+Maybe the Steppes would have survived, and the kark bounced back in time, but it wouldn’t have been done by them. Those people were at the bottom of the hole and waiting to see if it would sink lower. So Viv did what she did best: looking supremely confident that yes, she would find a way through disaster once more. The kark hesitantly gathering around them needed her cocky posture even more than the steel being passed around. Marruk played her part as savior with more ease than Viv expected as they walked through the gathered tribes, exchanging greetings and wishes.
+
+“I have spotted Talyk Shadow-Hunter,” Marruk told Viv after she was done screaming salutations to someone.
+
+She pointed at a squat, gray kark standing at some distance over a tiny hillock. Other men in camouflage garbs gathered around him with bows made of bones strapped to their backs.
+
+“The one who was interested in becoming an assassin?”
+
+“He… talked about it. Which is more than I can say about any others. Let us meet him, at least.”
+
+The shadow hunter didn’t show much enthusiasm when they made their way to him, yet when Marruk approached, he eagerly touched her hand. His voice quavered a bit when he addressed the younger woman, and Marruk replied in a comforting tone. They clearly knew each other well.
+
+“You, you are the shaman that kills and rules, yes?” he finally asked Viv in broken northerner.
+
+“That is so.”
+
+The hunters bristled. Viv wondered what was going on until the explanation was given quickly.
+
+“You sound like a northerner too.”
+
+“I studied the tongue in Helock so I would not have an accent. I can speak Enorian as well, if you prefer.”
+
+“No, we are not River Tribe. We do not speak the southern tongue. I am sorry. You do not sound exactly like a Lutenese. It is just…”
+
+“Difficult to listen to a human speaking the tongue of your enemy?”
+
+“I will not allow my hatred to annoy an ally. Apologies.”
+
+“No harm done.”
+
+The shadow hunter nodded. He spoke a few words to his men who settled in shame. Viv realized that Tylek was one of the quietest kark she’d ever met, except for Marruk.
+
+“The girl says you have men who know the way of killing,” Tylek continued. “She says, it is not so different from hunting. Is that true?”
+
+Viv felt a pulse of black mana at her side, so subtle most mages would have missed it. It was difficult to hold back a smile.
+
+“I believe you should be talking to my friend and the leader of our scouts and assassins — when they bother. This is Irao. All you said, and also a good friend.”
+
+The kark jumped back when the Hadal bowed to greet them. He uttered a few words in perfect kark before pointing to the side. Tylek spoke with awe and within ten seconds, they were off to a more secluded corner of the valley. Above Viv, the wind picked up. It moaned over the crest like a dirge. Distant clouds fled west.
+
+Marruk sighed.
+
+“This was the easy part, I think. Tylek will hear Irao out. Maybe we should return to the land ship.”
+
+“I think you ought to greet all of the clans before we return to wait,” Viv said. “Especially those who are not so friendly.”
+
+“Ah, yes. Respect. This, I shall grant them.”
+
+It sounded like Marruk was trying to convince herself when the poor girl clearly wanted to hunker down somewhere after far too much social excitement. Viv gently encouraged her down the slope, towards a waiting group of Kark. Viv could tell they were waiting because they were trying their absolute best to look casual about it, yet when Marruk hailed them, they swarmed her with questions.
+
+Viv let the kark take over. She was rather good at appearing confident though Viv suspected it might be anger propping her up. That, or properly channeled anxiety. The most awkward meeting came from her own clan, half of whom loved her unconditionally while the other half thought their wayward daughter was shaming her ancestors or whatnot. The exchange was tense and as brief as Marruk could manage, then they greeted one last clan on the way to the stone. They were being summoned.
+
+“It was very short. Normally, the old codgers love to hear themselves posture,” Marruk grumbled.
+
+“Is that good?”
+
+“No.”
+
+Fortunately, Viv could tell the discussion had gone in their favor from how grumpy Marruk’s dad was. It was the old shaman who addressed them. Well, he only did so after five minutes of bellowing about the ancestors but Viv was used to it, by now.
+
+“Because of the wealth of steel and allies your warrior Marruk as brought to us in our hour of need, we, the council, grant you permission to challenge Warchief Matar for his title —”
+
+Roars of surprise and approval erupted across the clans, but the shaman’s voice grew to a deafening volume, silencing them instantly.
+
+“Under the condition! Under the condition that should she lose, she would still join us with her warband and the steel she brought for the duration of the campaign. And when she leaves, she would not try to get her gifts back.”
+
+“I accept,” Marruk replied.
+
+The clans beat their chest, whistled, and screamed with approval. Well, Viv wasn’t sure it was approval, but they were clearly animated now. Even the old ones standing on the stone smiled, tension melting from their faces. Nothing had been achieved so far but after decades of hopeless war, something has changed, and that was enough. Enough to believe again. Oh, many remained somber but Viv knew no amount of weaponry could lift the weight of trauma from their shoulders.
+
+“It won’t be that easy, daughter of mine,” Warchief Matar said.
+
+“I know, but I would never have left my tribe alone, even if you had refused me.”
+
+“The first contest will happen as soon as our preparations are complete. It shall be a contest of speed! Each team will select three runners!” the shaman bellowed.
+
+As the clans made to leave the valley, Marruk explained the rules. The contest of speed was a relay race that would last a day, with three runners expected to cross dozens of leagues on dangerous ground.
+
+“The candidate backed by the best hunter wins. Some of my soldiers would do well, but not me. I am too slow.”
+
+“Maybe you should ask Tylek?”
+
+Marruk nodded.
+
+“Yes. I need to show local allies, and there was something else. A person can only participate in one of the events, and I would like you for the contest of wisdom.”
+
+“Wow. That’s the first time someone implies I am very wise!”
+
+“It is more a contest of politics.”
+
+“Ah.”
+
+“I would still ask you to monitor the event. Watchers and scouts will make sure the contestants do not attack each other, as it would be against the rules. You can also save a contestant if it looks like they might die, although it might disqualify them.”
+
+“Sure, I can do that.”
+
+“Thank you.”
+
+“What about the contest of strength? I assume there will be fighting involved.”
+
+Marruk shook her head.
+
+“No. I am already going against tradition. Magic is not strength. It is magic. For the kark, strength is more…”
+
+“Brawn?”
+
+“Yes. I need to prove we are the better fighters.”
+
+Viv hesitated.
+
+“Gear can go a long way, but…”
+
+“I am confident we can win the speed contest. Your magic will help us tremendously during the contest of wisdom, whatever it may be. I think we can win with those two, then if we do, I will allow the third contest to take place anyway. I need… to face my father.”
+
+“Alright.”
+
+Marruk stopped talking. She stopped walking as well.
+
+“Is something wrong?”
+
+“No, nothing.”
+
+“Liar.”
+
+Marruk looked around. Plenty of people milled around. People talked loudly while council envoys sent runners and men to prepare for the first contest. They had a moment.
+
+“It is the first time I talk with my father since my mother died, and it does not end in screams.”
+
+“Is that a good thing?”
+
+The tough kark clenched her armored fist.
+
+“I do not know. There are many feelings. Too many broken links. He could be trying to fill the ditch between us, also. That is because all my brothers have died so he only has me left who has not married into other clans.”
+
+“Fuck, Marruk…”
+
+“I don’t think my people can move on before this is done. I don’t think I can do it either. It needs to stop. The bleeding must be staunched.”
+
+“And I am here to help.”
+
+***
+
+The council rushed to finish the preparations. Viv’s understanding was that they had little time to waste because the northerners were gathering strength, but at the same time, they were glad for the distraction. Even the despondent families started to cook food and build decorations, distracted from their anguish by the unexpected development. Tylek the Shadow Hunter agreed to run for Marruk as their first which was a good sign. Her swiftest soldier would be their third.
+
+“Who will be your second?” Viv asked Marruk.
+
+But the kark would not answer out of fear of being overheard. While the clans slowly moved to the endless plains, Irao briefly appeared at Viv’s side.
+
+“How is it going?”
+
+“Poorly. Good attention. Good hiding. Good aim. No mindset.”
+
+“You mean they don’t think like assassins?”
+
+He nodded.
+
+“Assassins need to blend. The kark cannot blend with northerners, but they could still use tricks. They do not like tricks.”
+
+“Too cowardly?”
+
+“Yes. Too… dishonest.”
+
+The old hadal sounded completely baffled.
+
+“War is dishonest. Why are they like this?”
+
+“Fuck, this is bad. Maybe we can find a workaround?”
+
+“I will think on it more.”
+
+“Me as well. Ah, someone is here for me.”
+
+An old kark warrior calmly explained Viv’s role as observer. Her task was to accompany the first two runners as they made their way across the plain, but she could stay longer to look after others. The first runner would carry a flag to the second, who would take it and bring it to a third who would bring it back to the starting point. Runners could take nothing with them but their clothes, which made it a contest of endurance as well. They were also forbidden from directly interfering with each other. The role of the observers was to make sure that rule was respected, and that the flag transfer was done properly. There would be several observers along the way. Viv was Marruk’s first pick but there would be more. It sounded simple enough.
+
+A crowd of thousands waited in silence for the trial to start, at the edge of the plains where the grass grew as tall as two men. Tylek was there in a simple shirt and short fit alongside another wiry kark she didn’t know. They were not even wearing shoes. The start off ceremony was quick for kark standards. Soon, the two contestants rushed into the sea of grass along with their red flags. Viv took off so she could fly over them and get a good view. She didn’t expect shenanigans but wildlife might be an issue.
+
+Below her, the two contestants walked at a brisk pace along a narrow pathway, walls of shifting green on either side. An old pakar rider bristling with weapons waved at her from the side, so she landed next to him. The two of them kept pace with each other. He tried to talk to her but she couldn’t understand, so instead, he pointed to the side and to her eyes. She got the message.
+
+With both watchers providing cover, the runners kept on. Viv knew they had to have some good skills or at the very least strong related stats, yet they were both conserving their energy. The reason became clear soon enough: the path they were traveling angled east but their destination was to the north, and so they had to enter the sea of grass. Without tools, they had no choice but to brute force it, so now Viv could follow them by the fluttering surface of the sea of grass. They both left a visible trail behind.
+
+From above, the race looked like two lines slowly drawn on a shifting emerald canvas. Viv didn’t lower her guard. Her mental stats allowed her to stay focused for extended periods of time, but even as she kept an eye on things, her mind wandered.
+
+How could she win the war for the kark? A better question would be, how could she convince the Pure League to abandon their expansion? Winning a battle was a thing, but she needed to win a war. And she couldn’t just bring her troops here, not without a mountain of complications. Viv sighed, then she tried to relax.
+
+It was easy to forget about the horrors of this world up here, with the wind in her hair and the floating sensation of traveling over an infinite valley. It smelled like ripe grain and growing things. The light of a late summer afternoon shone on her armored mage robe like a warm caress. Out there, people were dying but here? Here she was airborne and safe.
+
+For a long while, nothing happened. Just two people crossing the sea of grass. Eventually Tylek’s trail left the other behind. If it were up to Viv and she were the other contestant, she would cut a path to Tylek’s trail and follow him to enjoy the fruits of his labor, only attempting to overtake it in the last hour. It didn’t happen. Maybe the other contestant was honorable or perhaps he had no way of knowing where Tylek was. Viv made sure to check with the other overseer on occasion, though they couldn’t really communicate. His wariness towards her never fully faded. Humans probably had a bad rep here.
+
+A large hill eventually rose in the distance as the night fell, but before they reached it, they had to cross a large, flat expanse of low grass. The two picked up the pace then, and the other began to overtake Tylek who made sure to step lightly, and stop regularly. Viv watched them move in the moonless shadows thanks to her improved vision. What was Tylek doing? It was like he was losing on purpose.
+
+She spotted something moving, something large. It was coming from the side. At first, the trail of moving grass hesitated between the two runners, but then it seemed to lose Tylek, resolutely focusing on the other runner instead.  Viv understood that the old shadow hunter was using stealth. Did he know something was coming? She landed next to the pakar raider and mimicked something moving in the grass. He panicked.
+
+“It Sha! It Sha!”
+
+Ah yes, the Sudden Deaths. Kark-eating worms that used ground magic. Too bad Arthur was off doing the gods knew what since she found them delicious. Viv flew out. She couldn’t let the other contestant die and not feel like an absolute asshole, but Marruk had been offered an opportunity: Viv could intervene if someone was about to die. Key term: about to. She moved closer to the warchief’s candidate.
+
+Sudden Death Worms attacked from beneath, through bites. She knew what to do. Somehow, the candidate felt the worm’s presence at the last moment. He jumped to the side with a yelp.
+
+Viv cast deadland domain on the ground. Immediately, the black mana saturated the earth and prevented the worm from swimming through it. The creature burst out with an angry hiss. It was pink and as large as a tree trunk but also quite short, with a large mandible lined by three inward-facing fangs.
+
+“Guillotine.”
+
+Not taking any chances, she severed the thing in four segments, hoping they wouldn’t run away or something. The pieces fell apart. It was all a bit anticlimactic.
+
+“Well, it’s done.”
+
+Whatever. The pakar raider arrived soon after. He hugged the shocked contestant which Viv assumed meant they were close. She didn’t quite follow what they said afterward and anyway, Tylek could use some backup, so she left with a little wave. They sounded grateful so it was probably ok.
+
+Tylek reached the flag-passing spot near midnight. Without surprise, the other contestant had fallen behind, but that wouldn’t have mattered anyway.
+
+“What are you doing here?” Viv asked.
+
+Marruk is my borgling friend.
+
+I want to help her!
+
+I am the fastest; no one can catch me.
+
+“Isn’t it cheating to use a dragon in a race?” Viv asked.
+
+Her daughter waved her concerns away.
+
+Having a dragon on your side is always cheating.
+
+Because it is a dragon.
+
+So Marruk is always cheating.
+
+Therefore, it does not matter.
+
+Because if they want to complain.
+
+I am dragon.
+
+Therefore they will not complain.
+
+If they know what is best for them.
+
+Viv couldn’t fault her logic. A short look at the examiner confirmed he wasn’t in the mood for complaining either, so Arthur delicately bit the flag before taking off like a jet fighter on steroids. Damn gray mana casters and their fancy acrobatics.
+
+So that was why Marruk was confident. Hell, just Tylek would have been enough to get a solid lead. Now, the race was as good as won. Viv still stayed a few hours to make sure nothing else would eat the contestants, and to enjoy what felt like the calm before the storm. She followed the last contestant back with the dawn.
+
+***
+
+Marruk’s last runner was the first to arrive. He was several hours early to the disbelief of the participants, however the observers and other runners quickly returned to confirm that no one had cheated. In fact, Viv’s decision to save the worm victim painted her in a favorable light, for which she got loud recognition. It would have been enough to declare her side the winner, except that the kark insisted on following the tradition to the end. It was a strange and novel experience for Viv to meet people who not only participated honestly, but were also willing to lose out of a strange sense of honor. No one accused her of cheating. No one said she had used sorcery to make her people go faster. No one had ever complained about using non-kark people in the trial. It was all above board, just, and without prejudice. Truly, the kark were doomed as a species.
+
+With the first task complete, Viv expected some delay before they could proceed with the next, however the old shaman surprised everyone by raising his voice before people even returned to the secluded valley.
+
+“Congratulations to Marruk for her victory. The second task starts immediately! For the test of wisdom, your duty is to find what… what happened to the spear shaft clan, then offer succor if it can be done,” one of the soldiers translated in a dark tone.
+
+Somber whispers dampened the mood. Sighs and wails came from all around, audible above the wind.
+
+“What does it mean? They were supposed to be here?” Viv asked.
+
+“They should have arrived three days ago. If they are late with no messengers, then it can only mean one thing. The Pure League found them.”
+
+***
+
+The warchief left with his fastest riders. From the River Tribe’s ill-fated attempt to stop her, Viv could guess this was the usual way of doing things here: ride out with a group of pakar riders in the hope of catching something. Her land ship was not only much faster, it would also carry food, healers, and medicine to help if the worst had come to pass.
+
+“The main host of the Pure League advances slowly because it has many men on foot. Poor soldiers. They hope to earn land,” Marruk explained. “The richer men have horses. They ride to the best pastures or to the lakes and then they kill everyone they find. They leave quickly because the pakar are not as fast as horses, but they have better stamina, then they do it somewhere else until we are enraged. This draws my people into battle. Many times, we lose, and many sons never return. Sometimes we win and the attacks stop for a while. The main army shouldn’t be upon us just yet, so it must be a raid.”
+
+She didn’t say anything after that. Viv clenched her fists. She’d seen death before. A lot of carnage. It would be fine. She was used to it by now, almost jaded. Bodies were bodies, when they were dead. And she would be here to help. There would be survivors. She was going to make a difference. There was no reason to panic.
+
+The land rose a bit though it remained the same tall grass, the same wind that was now losing some of its charm. She just wanted it to stop for a while so she could hear herself think. Later, she retired to her cabin at night to sleep but found that the place was so quiet and deserted she just couldn’t do it. Her ears rang from an absence of noise, an unnatural stillness that screamed that something was wrong. She only managed to close her eyes after hours of meditation.
+
+She knew the clan had been hit when the smoke and the birds of prey became visible the next morning. Every free person climbed to the deck to look ahead even though nothing could be seen yet. Eyes searched the foggy plain for anything they could see. It appeared the spear shaft clan was camping by a small lake when they were attacked. It was still out of view. And quiet. Even with the wind, they would have heard something, anything if it was still ongoing. Whatever had happened, it was now over.
+
+“We’ll be there soon,” Frosthawk mumbled.
+
+No one replied. They knew.
+
+The first they saw of the village was a gaggle of villagers struck in the back as they were running. The raiders hadn’t even finished them off. They’d just left them to bleed out. Frosthawk stopped the land ship there so everyone could drop down.
+
+One of the healers managed to find someone who was still alive. The rest looked towards the village in the distance. Viv could spot smoldering tents, past a wall of grass.
+
+“Alright, spread out. Search for survivors.”
+
+“Be wary of traps,” Marruk said, then she translated Viv’s orders.
+
+As for Viv, she flew towards the village at good speed with a shield ready. The silence confirmed that nobody had stayed behind. Except for the dogs.
+
+They were eating.
+
+Dogs were not common here. Kazar had a solid pack of guard mastiffs, but otherwise they were considered expensive. Those dogs were mutts, and she could see how they could be cheap seeing as they were feeding on kark corpses, of which there were many. They ignored Viv but jumped on Marruk as soon as she came into view.
+
+Viv killed them quickly. Marruk handled the closest ones without trouble and, apparently, without surprise.
+
+“They hunt survivors when they get hungry,” the kark woman explained in a grim voice. “Trained to attack only the kark.”
+
+While they talked, Viv took in her surroundings.
+
+It was worse than what she’d expected. The village was ravaged with a systematic hatred that left her speechless. Every detail came at the same time, but her mind refused to accept them. Even the tales of Lancer’s occupation hadn’t prepared her for that. Even the battle against Octas hadn’t started that badly. Each tent had been burnt to the ground. The pakar were all slaughtered where they stood, then left to rot. They hadn’t even been stolen: they were just slaughtered for slaughter’s sake. It was the same with the rest. Every pottery was smashed, every piece of cloth was burnt. Nothing had been spared. Nothing. Especially not the people. The stench of carrion assaulted Viv’s nose. That one was an old companion. The sight of the dead, this time, was much less so. Old people, teenagers, men and women. Children. One of the healers rushed to a toddler clinging to the headless corpse of his mother.
+
+“Babies keep drinking from the dead,” Marruk explained. “The child might still be alive.”
+
+Viv didn’t wait to find out. She searched around but the raiders had been thorough.
+
+There wasn’t anything left alive here that was larger than a bird. Viv looked around for something to do, somewhere to help.
+
+“Wait, there is something there.”
+
+A knoll stood at some distance from the carnage. There had been an attempt to set it on fire but it had failed. Only part of its surface was burnt. Viv hurried there. She needed some kind of success.
+
+There was a hole on the far side. It was a hiding spot of sorts, maybe? A granary, or perhaps something more? The entrance was blocked by a gate. It was partially damaged and she could spot something on the far side. The raiders had clearly tried to break in and failed.
+
+“Come on.”
+
+She cut it open but the heat of the fire near the entrance made her flinch. It was still enough to see inside. There were kids huddled on the far end of what was obviously a storage space.
+
+Arthur picked that moment to land next to her.
+
+“Oh, here you are. Can you help me with the flames?”
+
+The dragon dispelled the fire with a wave of her paw, and Viv was inside. She needed to learn a spell to quench flames herself. It might turn out to be useful in the future.
+
+“Come and help. Hey Marruk?”
+
+The woman didn’t hurry.
+
+“There are kids there!”
+
+They are dead.
+
+“What? No, the flames haven’t gotten in.”
+
+Suffocated.
+
+Aaaaand of course.
+
+Of course.
+
+That was why Marruk wasn’t in a hurry. Viv should have guessed. She was just being naive.
+
+“Sorry, I should have guessed. I mean, it’s obvious. Happens in fires all the time,” Viv said.
+
+She had a better look at the children. It was harder to see because of the kark’s natural red skin but their lips were far too dark, even though it looked like they were sleeping. Clear signs of discoloration.
+
+“I thought… they might have hidden.”
+
+“It’s not a place to hide,” Marruk explained. “The raiders put them there. They blocked the door, then punched openings in it. For the smoke. It’s quicker and easier than killing the children one by one.”
+
+“Ah. I misunderstood.”
+
+“Don’t stop now. We must keep looking.”
+
+“Right.”
+
+Viv wasn’t sure what to do. She slapped her cheeks to center herself.
+
+“Come on. You’ve seen dead children before. Don’t grow soft now. Not now. I need to be there to help.”
+
+She left the knoll behind, finding the edge of the sea of grass a little farther. Many tracks led out. Maybe more runners. Another larger path attracted her gaze. It led further east.
+
+There was a battlefield there, if one could call it that. Around fifty kark warriors lay dead near the entrance of the village. The way they clumped on the field showed they had never retreated, doubtlessly trying to buy time for the others. It hadn’t worked very well. They’d been left to rot where they fell, but there was also a pile of partially burnt dead humans stacked in a half-assed pyre. One of the raiders at the edge was still unburnt. He had a large gut wound, though it hadn’t killed him. Someone had also slit his throat. It had been done with something really sharp. A kark would have used a spear.
+
+“Wait, the raiders finished off their own wounded?”
+
+Humans can be very cruel, I see.
+
+“They might have thought it was a mercy compared to what the kark reinforcement would have done,” Viv remarked.
+
+Arthur huffed.
+
+“Not that I would blame them,” Viv finished.
+
+We can go after them.
+
+“Yeah. I just… need to see them. And we can scout along the way. I need to understand. Let’s just tell the others we’re leaving, in case they still need us for something.”
+
+A kark blew a horn in the distance. Perhaps a safe signal or something. Viv wasn’t sure she could care anymore. Useless. She was useless here, now that the land ship had arrived. She was no healer.
+
+Fuck.
+
+The veterans on her team back on earth had been right. It just wasn’t the same, seeing a real ethnic cleansing. She wasn’t sure why. Perhaps It was probably because those were just… people. Not warriors clashing on the field of battle for important ideals, but people. Victims. They just never had a chance. Or was it really different? She wasn’t sure. She just wasn’t sure what made it so gutting.
+
+She understood the drinking nights and the lost gazes now.
+
+***
+
+Viv followed the trail from up high. She found it difficult to keep her rage down. It wasn’t even the horrors of what she’d seen, it was the casual disregard for… for humanity. She knew the kark were not humans, but they were people. Dragons were people, as were the merls. Golems too. Doing this to harmless children was something she found hard to process. It was just the perfect blend of casual cruelty and brutal efficiency that set her off, and yet she wouldn’t kill them. Not yet. She had to do things properly now, because she represented the empire.
+
+Otherwise she would have used the raiders’ intestines as garlands. It might still happen.
+
+The raiders had made no attempt to hide, relying on speed instead. She caught up to them after only a couple of hours. There were about a hundred and fifty of them left with around fifty horses laden with food, fabric, and other loot. They wore mismatched armor when they wore any at all, a multicolor convoy of murderers as jolly as they were murderous. Hell, the lead rider wore garish red from head to toe.
+
+Kill.
+
+“No. I am the Empress and you are my heir. We are not at war with them at the moment.”
+
+So?
+
+I am dragon; you are elemental.
+
+We do what we want to do.
+
+“We are safe from repercussions but our people are not. Consider this… delayed gratification.”
+
+Fine.
+
+You always cause the most terror.
+
+I will follow your lead.
+
+For now.
+
+“I’ll land in front of them. I want to talk to them. I need to understand.”
+
+Viv let herself fall from Arthur’s back until she landed far in front of the Pure League raid. The leader saw her and hesitated, so to make sure she would get her answers, Viv raised eldritch walls on either side of her as far as she could control, leaving only one opening: her.
+
+The leader hesitated. He was an older man, scarred, and wearing a red-dyed armor made of studded leather. He had a cruel face. Several heads were attached to his saddle.
+
+Viv breathed deep. He seemed to hesitate and Viv didn’t feel like running after him so she gave them a sign to approach. If they ran, she wasn’t sure what her response would be.
+
+The noble approached along with a burly warrior and a woman with a longbow. Viv didn’t recognize their sigils but she assumed they were Lutenese. Maybe the newly minted nobles who ruled over their stolen lands. Honestly, she didn’t give much of a shit.
+
+He stopped at a good distance.
+
+“Why?” Viv asked.
+
+He only looked confused.
+
+“Why what? Speak up, stranger.”
+
+“Why the children in the oven? Why the dogs? Why… this? Like that?”
+
+He blinked like he wasn’t getting it.
+
+“Stranger, you are not making sense.”
+
+The archer whispered in his ear.
+
+“Oh, you’re a kark fu—”
+
+He winced.
+
+“A peace-lover, ey? Listen, do not believe what the Neriad weaklings tell you. The kark are like locusts. They serve no purpose and they ruin everything they touch, alright? Just look around you.”
+
+He waved at the dusty land, a brown desolation oozing dry soil with every gust of wind.
+
+“What they can’t get, they poison. It’s plain for everyone who has eyes to see.”
+
+He sighed, annoyed. Viv withheld her aura for now.
+
+“You have to understand that we are helping our entire race a favor by doing what needs to be done. You softlanders don’t get it. You look out from your castles and see blood and you get the vapors. The kark must be extinguished, or there will never be peace. If you leave the children behind, it’s just more pain down the road. For everyone.”
+
+The burly man spat on the ground.
+
+“Thankless softies.”
+
+“He’s right. We’re doing this for all of us. You can’t make the kark good. So they gotta die, so mankind can take its rightful place. Become free.”
+
+“Whether the kark fuckers want it or not,” the burly man added.
+
+That was all Viv wanted to know. Wordlessly, she floated up, up, and out of view until the riders left. Arthur picked her up a bit later.
+
+You let them go?
+
+“We follow.”
+
+And they did, for another hour. The raiders led Viv to their main camp. There were around four to five thousand of them. They outnumbered the Kark warriors by a factor of two.
+
+“We know where they are now.”
+
+We could burn it down.
+
+They cannot stop us.
+
+Only their best elites could do so.
+
+“There could be extremely competent dark blades so I wouldn’t bet my life on it, and besides, it can’t be done by us. It must be the kark, or the Pure League will just claim only humans could stop other humans.”
+
+I am not human.
+
+Yet I understand.
+
+It is their war.
+
+“Yeah. Now that we know where they are, we can guide the others here and… make sure the battle starts properly.”
+
+Head back?
+
+“No. There is one last thing we must do. Remember, we are here on legal business. Gotta do things properly.”
+
+***
+
+It was a complicated time for Luten. The governor of the border town smiled anyway, for it was when one was weak that they must appear the strongest. No expense had been spared to make the reception hall a haven of style and elegance. Inside, open windows led to the ballroom where soft music played. Cooling enchantments refreshed the guests as they picked finger food and flutes of exquisite liquor from passing waiters. The gardens awaited the revelers outside, in the warm air of this late summer, its perfumed paths lit with warm candles shining on blooming flowers. Everywhere, the fastuous surroundings and the soft susurrus of conversations denied the rumors that things were not going so well. Luten was not out of money. A generation of its brightest soldiers and operatives had not been lost at the front. Those were merely growing pains while the city refocused on its sadly neglected core: ship-building. No, the core had never been the trade with Enoria, which was now entirely captured by Zazas because of that uppity black bitch, thank you very much.
+
+A complicated time, to be sure. Nevertheless, the governor walked and smiled. He greeted the new nobles, brutes, all of them. He placated the old nobility whose sons and daughters rotted on the dusty plains where the steppes used to spread. He distracted the tense merchants with vague promises. Inside of this courtyard, within those mighty walls, he was prince. Outside, well, there was only so much he could do. The latest expedition had a good chance of finishing off the entire Red Tribe forever, which would open a lot of new, perennial land, but there were other tribes beyond… and he had heard that promise before.
+
+“I was informed that our mages have come up with a suitable way of dealing with the situation, ser. Sardanal’s priests insist that the phenomenon is due to earth being lifted by the wind. More trees and uncultivated patches will permanently solve our problem.”
+
+“It is not sustainable!” the old landowner spat.
+
+“It is better than the alternative, yes? With revitalized land, your domain shall become arable again.”
+
+“It’s looking more and more like a pierced basket, old friend. This is the last time,” the merchant said with clear regret.
+
+The governor feared the merchant might be right.
+
+“Fear not. I —”
+
+A boom. The fortress wall in front of the garden shook. Shards of stones fell from on high.  Something crawled down its smooth surface with sinuous grace. It was white and long as three men.
+
+The governor thought he might be going mad.
+
+“Dr — dragon!” the merchant whispered.
+
+An aura of hatred and domination washed over the assembly, pushing back even grizzled captains. It was fury, barely restrained. It was a promise, also. The intensity of it was breathtaking, yet there was a restraint there that made him want to stop moving in case that last limit vanished, and the entire palace disappeared in a blazing inferno. The beast growled but it didn’t kill them. Instead, its lips pulled back in the macabre parody of a smile.
+
+A form descended from its back. It hovered above them like a dark shape backlit on the sea of stars, but the impression faded and there was a woman instead. She was pale and armored in robes and crystallized mana, with strange void blades emerging from her back. Her eyes were two rings of emerald on spheres of nothingness, and upon her brow was a crown of bone fit for a king. The aura of hatred grew to a suffocating crescendo when she softly stopped in front of him. It was coming from her.
+
+Against all expectations, she handed him a scroll.
+
+He looked at it like it was a venomous snake.
+
+“Take it,” she ordered, and he did.
+
+“My name is Viviane, Empress of New Harrak and elemental arch-witch. By this missive, I am formally notifying you, a representative of Luten,  that following your attack on my embassy, and with the approval of the Paramese Alliance, I am exerting my limited casus belli to declare war on the Pure League. As per protocol, you are granted a one-day period of grace following which I will be conducting military operations. Consider yourselves warned, and may Enttiku have mercy on your souls. Enjoy your evening.”
+
+The woman turned around without another sound. She and the dragon took off amid the screams of panicked guards.
+
+The governor was left holding the scroll as if it were a fireball on the verge of explosion. This was the Empress of Harrak, an arcane juggernaut capable of killing superior aberrants in one spell. Reports from the beastling war spoke of curses to destroy entire armies. The dragon was there too.
+
+Just the two of them could have obliterated everyone present, leaving the entire town a sea of fire.
+
+It was now a very complicated time for Luten.
+
+Who the fuck had decided that attacking her embassy was a good idea?

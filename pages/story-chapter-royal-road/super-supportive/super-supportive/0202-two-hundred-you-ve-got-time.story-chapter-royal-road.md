@@ -1,0 +1,185 @@
+---
+id: 397368af-6ac2-55ac-944b-da513257b082
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED: You've Got Time"
+slug: 0202-two-hundred-you-ve-got-time
+partOf: super-supportive
+position: 202
+ownLength: 2664
+unit: words
+publishedAt: 2025-01-24
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2026734/two-hundred-youve-got-time"
+royalRoadId: "2026734"
+---
+
+200
+
+******
+
+“Disappointed?”
+
+Alden let the last swig of cold water from the bottle sit in his mouth for a second longer before swallowing and answering the instructor. “A little.”
+
+His feet were surrounded by tennis balls. He kicked one lightly with the toe of his sneaker and watched it roll across the sod tiles Instructor Waker had put down for him. With no other students to pay attention to, Big Snake was being more creative. His throws were coming from every direction. Sometimes he was somersaulting over Alden’s head and dropping the tennis balls from above, or he was bouncing them off the walls of their private block.
+
+It was a good workout. The catching and the returns were at a difficulty level that matched the one Alden had found success with before. But he couldn’t seem to fall into the right frame of mind, and when he closed his eyes and tried to force it, he just got pelted. He was sure he’d have earned a concussion from at least one of those throws if he wasn’t in the gym.
+
+“I’m sorry it’s not happening,” he said. “You even got me ground to jump around on.”
+
+Instructor Waker tossed a ball to him, and Alden caught it with his free hand. Preserving it was simple, of course, but he wasn’t getting that feeling that had led his body to move in pursuit of balls he could barely reach. He wanted to find that flow state where it became him, his entruster, and the thing he’d been given to protect.
+
+“You have any ideas why it’s not workin’ the way you want it to right now?”
+
+“No.”
+
+“Have a think about it for a minute,” Big Snake said. “Don’t answer so fast. You’re usually a good thinker. I see you in class.”
+
+Alden was tired and irritated with himself. He was afraid he was wasting this whole session. Thinking sounded like a larger ask than usual.
+
+He fiddled with the lid on the bottle. “I might have fried my concentration today. I spent a really long time studying before I came here.”
+
+“Other classes treatin’ you all right?”
+
+“They’re fine. I do a lot of personal study, so it’s not just school work.”
+
+“That’s good to hear. I think hobbies are important, and bein’ Avowed gives you a leg up on some things. What are you into?”
+
+Alden’s fingers paused their journey around the water bottle. I walked into this one.
+
+“Artonan culture.” Wizardry. “Origami.” And origami of the self. “I was doing parkour in intake, with a group in F. But I haven’t had much time for that lately.”
+
+“Sounds like fun stuff. Hobbies don’t usually weigh that heavy on a person’s concentration in my experience. Do you think maybe you’re a little unhappy to be doin’ this instead of the thing you requested?”
+
+“No. It was too much. I wish I hadn’t asked.” He really did. If he’d gotten to try it, that would be one thing. The hard no, on the other hand…
+
+Keeping my mouth shut would have been safer. Now he feared he’d stirred up fresh drama.
+
+“Forget I brought it up, please.”
+
+Big Snake shook his head. “Not gonna forget that one, and I’m too honest to say otherwise. But we don’t have to talk about it right this second unless you want to. I brought it up because I wondered if your skill was harder to get along with when your target was someone you were feelin’ annoyed at.”
+
+Alden stared down at a gouge in the turf. It wasn’t like he’d never considered the role the entruster played in making it all work. He thought that how he felt about the person he was bearing burdens for probably did matter in some ways. But to what extent it mattered was a question that was inconvenient to explore for a number of reasons. The least of which was that it was hard to weigh the importance of entruster, burden, and bearer against one another.
+
+He remembered Stuart sending balls of mulch at him and encouraging him to think of them as helpless children to get in a more protective frame of mind.
+
+“Now you’re smilin’! Did I say somethin’ funny?”
+
+Alden shook his head. “I do suspect the skill is easier to use when—” I’m sacrificing and suffering, “—I’m in certain moods. But it still works when I’m in a bad one. And I’m not annoyed with you. I’m annoyed with myself.”
+
+Big Snake rubbed a chin that had a great beard today. He shifted from completely clean-shaven to fully facial-haired when it suited him. “What were you hopin’ to learn from the experience? What about it was so valuable you wanted to revisit it?”
+
+“For just a few seconds something stayed preserved even though I wasn’t physically holding it.” He mentally apologized to Zeridee for calling her an “it.” He just didn’t want Big Snake to ask who the person had been.
+
+He probably will anyway. He knows I wanted to practice with a dummy.
+
+The instructor whistled. “That would be a game changer for you. I see why you’re interested. But I can’t think of a healthy way to help you get all the way there tonight. And from personal experience…some of what you can do when you’re at your limit stays somethin’ that only happens when you’re at your limit. Most people who’ve managed to double-on their foundation points have only done it once or twice. First time it happened to me, I was wild chasin’ after a way to make it into an ability I could use whenever I wanted.”
+
+“Aren’t the side effects supposed to be bad?”
+
+“Yeahhh…they’re not great. The System’s got all of our foundation points very specific, very balanced so that we work right. But when you’re filled with adrenaline, and you somehow tap into that extra, you don’t do it in a balanced way.  And if you’re a Brute who’s used to supplementin’ and leveragin’ your foundation points with your other talents, you discover that skills and spells don’t always play nice with you bein’ more powerful than usual.
+
+“I wanted to try it again, though. I worked on it. Even got myself invited to some big parties on the Triplanets and got acquainted with a bunch of wizards while they were in good moods. So that I could ask them about it. I still can’t make it happen on purpose, and I don’t think I’m supposed to be able to. But I figure it will be there for me when I’m in trouble one day.
+
+“So some of what an Avowed can do is like that—last resort, dark days stuff. All the things that aren’t like that, that you’re going to be able to do on sunny days? They’ll come to you with practice. Normal practice. And you’re sixteen. You’ve got time for lots of normal practice, don’t you?” Big Snake barked a laugh. “We’re gonna make you do so much normal practice here before you graduate that you’ll be sick of it! And then when you’re ready for a break, we just shove you straight into uni with an even bigger gym and even more practice.”
+
+To his own surprise, Alden found himself cracking a smile. “You know our gym classes aren’t normal, right? They banned dodge ball at my old school because one guy got a bloody nose.”
+
+“Avowed normal.” Big Snake kicked a ball into the barrier and caught it on the rebound. “What I’m sayin’ is that there’s no rush for this kind of thing. We push you kids hard in class, but that doesn’t mean pushing even harder is better. Challenge yourself but don’t hurt yourself for a trick that’ll belong to you in due time if it’s meant to belong to you.”
+
+“I understand.”
+
+“All right. You want to try a little more of this or switch it up?”
+
+Alden thought about it. “It’s actually good to be doing this in the gym, on the grass, without my wordchain. Practicing the movement trait without worrying about hurting myself is helpful for me.”
+
+“Want me to make you get some more leg work in? I can do that.”
+
+******
+
+The private lesson was only supposed to last until midnight, but it ended closer to 12:30, with Alden trying to protect a dummy and himself from the blows of a club Big Snake was swinging at them…gently, by his standards. Alden blocked with shielded objects of different sizes, shapes, and weight before finally finishing with a sweatshirt he’d brought with him in his duffel bag. He wanted to practice preserving and unpreserving the clothes he was wearing during an attack.
+
+It was worthwhile, he decided about twenty minutes later. He’d showered, and he was wearing the same sweatshirt as he left the MPE building. After the short conversation during their practice, he’d caught a glimpse or two of the way he’d moved on the day he’d managed to catch with his eyes closed, though he hadn’t fallen as deeply into the process.
+
+“Alden.” Big Snake had just stepped out of the door behind him. “Do you mind if I walk with you? We’re headed in the same direction if you’re on your way back to the dorms.”
+
+“I’m definitely going there. I need to collapse onto a mattress as soon as possible.”
+
+They walked across the dark campus together in a silence that Alden kept expecting Big Snake to break. When he didn’t, Alden ended up doing it himself.
+
+“I might miss gym class again. On Wednesday. I expect to make it, but I’ll be on Artona I on Tuesday and I’m not sure when exactly I’ll be back.”
+
+“If you don’t show up, we’ll assume that’s where you are then. No need to call from there unless you just miss us that bad. Too expensive.”
+
+Beneath their feet, the same chalk artist who’d decorated the rooftop of Forthright had drawn another piece. This one featured famous Avowed living their everyday lives instead of fighting against the floodwaters. The artwork was illuminated not only be the pathway lights, but also by the glowing chalk that had been used to draw the light sources in the image. Alden was walking between a firework and a skyscraper with half the windows shining.
+
+“I do know my skill is growing,” he said. “I really know that. And…I know there’s time to figure it out and get better at using it. When I’m thinking clearly, anyway.”
+
+He didn’t want to put the “buts” into words, so they just flowed through his thoughts instead.
+
+When I think of all the terrible things that can happen, getting stronger feels like an answer. I’ve just realized how far Bearer of All Burdens has truly come since I made it back to Earth, and maybe, if it goes just a little bit farther, I can take a nightmare off my plate and put some of the fear to rest.
+
+“You’re doin’ good.” said Morrison Waker. “Have people told you that already?”
+
+“Principal Saleh and Instructor Klein mentioned that my progress in class was enough to take a break if I wanted.” If I was too delicate to handle school was what they meant, though, so it felt less complimentary.
+
+“Not just in gym. You landed on the island and passed through intake without a hitch. Got yourself here to one of the best schools in Apex. And from the outside, it seems like you’re gettin’ along with most of your classmates. New friends?”
+
+“Yeah. My roommates are great.”
+
+“Not too homesick?”
+
+“I’m okay,” said Alden, thinking of the letter he’d sent Baxter Washington earlier. “Most of the time.”
+
+“Then you’re doin’ good. And I don’t mean good for someone who’s been through stuff that other people don’t have to deal with. I’d tell you that you were doin’ good even if you were a globie comin’ here straight from an ordinary situation. You are doing a very good job with this life that came your way unexpectedly.”
+
+Alden didn’t respond for a few seconds after the praise landed. He wasn’t sure how deserved the words were, but they did wipe away some of his worry that he had come across as a person with warped judgment tonight. “Thanks,” he said finally. “I’m trying.”
+
+“So. Are you talkin’ to someone about whatever happened to put you in the situation you described earlier?”
+
+I knew he was going to ask. “Yes.”
+
+It’s less talking and more magically-induced thought sorting so far, but that counts.
+
+And he had talked about it. With Stuart and Boe to varying degrees. With Esh-erdi if that conversation right afterward counted. The school knew he had access to a local therapist, and he’d told them what he was going to the Triplanets for…without giving much detail, but still.
+
+If they try to stick me in a room with a Celena North-branded counselor as well, I think I’ll say Yenu-pezth forbids it. He was working on himself for himself right now. He liked how it had gone on the inward path. One more person trying to pry into him—
+
+“That’s good to hear,” Big Snake said easily. “Just so you know, though, if you ever need another ear, I can make both of mine huge.”
+
+Alden turned his head to look at the man.
+
+“What? Do you wanna see?”
+
+Alden snorted. “No. I believe you.”
+
+Garden Hall was just ahead.
+
+“You’re doing good. You’ve got time. And I’ve got ears. That’s all I wanted to say. Go get some rest.”
+
+“I will. I appreciated the training.”
+
+“It was fun! See you in class tomorrow.”
+
+When Alden entered the dorm, it was quiet. The ripped shirts from the game that had been going on last night were all in a box labeled “FREE.” On the wall above them, the community notice board was displaying dozens of digital sticky notes. Tapping on one would expand it to provide details about whatever event was listed on it.
+
+Hot Potatoes is like three hours ahead of me right now. Even if I concede that I might be overambitious on the scheduling front there’s still not room for…
+
+He glanced at the notes in one corner of the board as he passed. The Celena North Carolers were holding tryouts. A group called Level Heads was meeting tomorrow morning out by the grill. And in the afternoon, an information session was being held in one of the lecture halls for students who were considering transferring to another program.
+
+Alden kept walking. He opened the door to the apartment and headed to his own room as quietly as he could. It was dark except for the kitchen light. Lexi would definitely be asleep by now, and the other two probably would be as well.
+
+After he’d stripped out of his sweats, he opened his laptop to check Happy Avowed Days. His avatar was already asleep, with little zzz’s coming out of his mouth.
+
+Show off.
+
+He considered all of the undone things on the list for today.
+
+You’re doing good. You have time.
+
+The stupid schedule could be sorted out tomorrow, he decided. He would take at least one thing off and put it on another day. Maybe give the avatar a blue messenger bag and permission to eat sitting down at a table instead of while he was doing homework on a nonagon flying over Apex.
+
+He set his alarm and pulled himself up into the loft bed.
+
+That night, he dreamed of Thegund. He chased the sound of Kibby’s whistle, and he couldn’t find her. Instead, he found a horse that jumped like a grasshopper while he threw tennis balls at it. When he woke up, he remembered the whole thing.
+
+Alden wasn’t sure if the changes in the nightmare constituted an improvement in his mental health or a step back, but he hoped he didn’t have to describe it in detail to Yenu-pezth.

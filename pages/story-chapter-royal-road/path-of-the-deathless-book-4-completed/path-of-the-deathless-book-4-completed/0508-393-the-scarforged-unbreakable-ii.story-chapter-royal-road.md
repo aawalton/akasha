@@ -1,0 +1,271 @@
+---
+id: 6a6cad30-ec16-5949-bde0-3894943e1e37
+page-type-slug: story-chapter-royal-road
+title: "393  The Scarforged Unbreakable [II]"
+slug: 0508-393-the-scarforged-unbreakable-ii
+partOf: path-of-the-deathless-book-4-completed
+position: 508
+ownLength: 5483
+unit: words
+publishedAt: 2026-06-27
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3600410/393-the-scarforged-unbreakable-ii"
+royalRoadId: "3600410"
+---
+
+It is said that Chorus survives thanks to the blood and labor of its Martials. It is built up and made great by the wonders brought forth at the hands of its craftsmen and mages, and it is further expanded by its explorers and artisans, but ultimately, it is only preserved from the threats lurking within and without by the tireless work performed by its Diviners and Investigators.
+
+But be not fooled by the name. If you join the Bureau of Unprecedented Occurrences, you will find yourself laden with more labor than any other Pathbearer. You must always be at the forefront of every development. To give this duty perspective, over a thousand new dimensions are dragged into the greater sphere of Integration each day. Of these thousand dimensions, there are countless other threads in the far darkness beyond Chorus that seek to exploit us, as well as infinite treasures on every planet within every star system brought over, containing a multitude of fortunes and a vast sea of dangers—all of which must be located, secured, contained, and then catalogued by Chorus to preserve and protect its people.
+
+To enter the Bureau of Unprecedented Occurrences, you must prove yourself beyond peer and above distinction. You yourself must be unprecedented among all others so that you might find yourself privileged and burdened with all the duties required by your station, and given the honorary title of Farwalker-Mysteria.
+
+And should you prove worthy, what lies before you is a promised path that extends unto eternity. If you can live up to the challenge, if you can keep yourself and your fellow Anticitizens alive, there is a reward. You will experience things few others ever get to. You will be at the forefront of changes that alter Integration. Be blessed with the burdens of intercepting and discovering the weaknesses of civilization-swallowing calamities.
+
+But the peril will see you pitted against enemies that seem to have no weakness against threats that loom beyond your comprehension. Death lurks around every corner. Forever is a thing found on the crossroads between your capabilities and the will and mercy of the System.
+
+So if you are capable, if you are fortunate, if you have the will, the measure, and the urge to guard, to discover, and to be the eyes that come before the swinging of the blade or the extension of the all-wood branch, then join the Bureau of Unprecedented Occurrences today and be the one that charts the path of peace and prosperity.
+
+Systema Non-Servium, Anticitizen.
+
+Through defiance we endure.
+
+—Introduction to the Bureau of Unprecedented Occurrences (Chorus)
+
+393
+
+The Scarforged Unbreakable [II]
+
+“You had your time, Legend Hawgrave. And you proved lacking. Your weapons are insufficient, as is your Physicality. His Toughness endured. I yearn to see him stay alive still despite all that is to come. Now stand aside, and grant my fist its chance to fall.”
+
+Cripple's mechanical voice resounded like a hailstorm of anvils striking a landscape of iron. Each syllable was muttered with such explosive force that the air itself combusted, turning into an inferno that gnawed at Shiv, and gravity grew laden with the full weight of the Ascendant’s impending presence.
+
+Shiv, meanwhile, struggled to stay conscious, battling for every breath, even though his body remained unblemished beyond an external layer of platinum-bright scars. They were scabbed so thick they kept him pinned to the ground. And within that unbreakable hive, Shiv's left lung burst like an overpressured balloon. It was hard to describe how much damage it took to empty one of his lungs—lungs strong enough that he could cause a small gale to form just by blowing hard. Lungs strong enough that his shouts were capable of shattering stone and turning Adepts to a bloody mist.
+
+Legendary physiology changed a man. It made his blood flow with such pressure that it was capable of slicing through steel beams if an artery was severed. It made every organ of him function on the level of a natural disaster rather than a system of biomechanics. His heart beat with the force of a bomb going off, and from it swam forth Shapeless Tides he could wield and direct.
+
+And without a doubt, if he had time to prepare, he was much stronger than the Giantsbane. But he absolutely wasn't stronger than two hundred of her, not even close. He wasn't nearly as skilled as even one of her. When they all came forth, the beating Shiv took went beyond Legendary by far.
+
+The hallway was gone, as was the gate at the end, all the doors lining the sides, the carpet that ran along the floor, and Adam's room. The combined force of all the Jessicas had sculpted the orichalcum insides of the simulation into a massive hollow egg that extended far, far beyond Shiv's gaze. The ground was closer to glass than orichalcum, and with every passing second, he sank further, his body weight so immense that even that ever-toughening red-gold metal couldn't bear the burden of his sacrifice.
+
+As the orichalcum failed, so too did two specific organs inside Shiv: his lungs. They squeezed so often that he was forced to constantly regenerate them using his Aegis of Assimilation. The frequency of his choked lungs only increased as the Jessicas continued hammering away at him like a downpour. Their blades didn't even need to touch his body. Their cuts sailed through the air, passed through each other, and landed upon him with merciless might.
+
+Though Shiv managed to convert quite a few of the impacts into Shapeless Tides, he found himself sacrificing all his overflow vectors as soon as he got them, as the weapons Jessica bore came alive with mana as well.
+
+Though he might be able to convert physical attacks, it demanded a sacrifice of his vectors or the ruination of his flesh and soul.
+
+Yet, though the experience was torturous, it wasn't unreasonable. Rusty was absent, and the magical enchantments imbued in Jessica's replacement swords were all lesser than Master-Tier. Anything greater would see him shattered by sheer attrition alone. Surviving that beating reminded him of a few facts. He was indestructible with this Toughness evolution, but he wasn't invulnerable. His mind was bruised and clouded from all psionic impacts it had withstood. His body remained pinned twice over as the force of gravity became shackles, holding him in place. Time forged a shell around him, refusing to let him leap into the future or even grind the present to a halt. Dimensional wards afflicted him, pulling at him in different directions.
+
+There was a place where Magical Resistance intersected with Toughness. Fire seared flesh. Ice would freeze one's blood still to a fatal halt. Lightning fried nerves and halted hearts. Geomancy allowed for petrification or simply the percussive brutality of falling stone. Biomancy was most subversive of all, capable of making flesh betray itself as a mage of the body could command a skeleton to shed its surrounding meat.
+
+Everything that dealt overt damage could be resisted still by the Onus of the Scarred Unbroken. But spells of the more esoteric nature—the kind that cursed the air to combust around him with every movement, the kind that saw him petrified, the kind that saw his organs rebel and collapse in a devastating cascade—required magical resistance to survive.
+
+But as Cripple's footsteps sounded forth like the steady beat of distant war drums, Shiv struggled to turn his head in anticipation of what was to come. He'd survived an onslaught of might and magic, but an attack of divine design often bore a sting in a league of its own.
+
+“Crippulll,” Shiv slurred, trying to delay however he could. “Lettthh tallghhh.” A bold request considering his tongue rested upon his lower jaw, bearing the mass of a small mountain. Still, he had to try. He'd come too far to see this encounter fail now, and to restart the entire simulation once more would be more demoralizing than educational.
+
+Nearby, Valor looked on in silence, studying Shiv's Toughness and the ways it reacted to trauma.
+
+“I fear I cannot acquiesce to your demand,” Cripple replied with droning coldness. “I have come bearing a singular purpose: to see if you can survive my blow of blows, the very same that saw the Undying Tarrasque ruptured and slain, if only in brief. For as this world seeks to strike you with unrivalled cruelty and might, so must you be an unbreaking anvil, and see wonders sparked rather than ruins made.”
+
+Shiv winced as he recalled that blow. That devastating impact that cost Cripple’s Avatar at the time an arm and delivered the Tarrasque unto the embrace of oblivion.
+
+Wait! You should let me recover! It's not a good test if I don't recover. You should let me shed my scars and regenerate before you hit me again. You hit the Tarrasque when it was still whole. I can't even stand up. This is not a good test, Cripple! You know it's not a good test! You know that!
+
+Such was what Shiv wanted to say, but the words left him in grunts and groans, and the Jessicas around laughed in genuine amusement.
+
+With a heavy stomp, Cripple halted. “Legend Hawgrave, why do you all laugh? What has he said?”
+
+“He says that you should let him recover first before hitting him again,” three of them answered in sync. “That you hit the Tarrasque while it was still mostly whole, and that he deserves the same benefit or something.”
+
+Shiv blinked in surprise. He was impressed that Jessica understood his near-incoherent mumbles quite well—and even as part of this simulation, she was more than willing to translate on his behalf. Of course, she'd brutalized him on a level he couldn't imagine earlier, but seeing as they were enemies in this Delve, he really couldn't hold it against her. “Bank yuh.”
+
+“Don't mention it, Shiv,” the same Jessicas replied with a chuckle.
+
+A metallic rumble sounded from Cripple. Shiv finally managed to turn his head, and the sheer exertion left him lightheaded, spent of tides and stamina. “Again, I will not acquiesce to your demand, Deathless. Your Toughness is to be Legendary, and the circumstances Legends face are rarely ideal. If you are to evolve a Legendary Skill worth having, then you must survive this impact, and the one you protect must survive with you. Do not think of this as an act of scorn or brutality on my part. Think of this as a necessity. You will not be granted ideal circumstances in actual battle, and you will not see those circumstances granted now.”
+
+A low sigh wheezed out of Shiv, followed by a sudden pop as his right lung went as well. He casually restored that lung using his mana hydra and continued his wheezing. At the last of his strength, he curled his finger and wiggled it in the direction of the Ascendant in a taunting provocation.
+
+Fine, you godsdamn coward. Take your best swing! Make it good!
+
+Shiv gagged on the words, but Jessica translated for him once more, and a blazing incandescence swallowed the entire chamber. Waves of crashing pressure washed over Shiv. So powerful was Cripple's aura that Shiv found himself driven across the ground, digging a gouge across the glass crater in which he lay.
+
+Again, there was the reminder that though Shiv was Legendary, gods were not beholden to the same limits, and that continued to apply even within this Delve.
+
+Shiv caught a glimpse of Cripple's Avatar and realized the automaton was the very same that was sacrificed to bring down the Tarrasque. The bot's single eye burned bright with divine flame, and its arms were like a series of metallic slabs stacked together, bunched tight with the inner hydraulics whirring, building to a pitched scream in anticipation of a coming blow. “Master yourself, Deathless, and bear this pain. My blow falls, and now you will learn why I was named Strongest among the Ascendants.”
+
+Ah, shit, Shiv thought. He immediately had his mana hydra’s heads bundle themselves around Adam, forging another cluster of dense tumors. Shiv remembered the description of his Quest. He didn't need to survive. Adam needed to be protected. Shiv could always return and resurrect, but if he allowed Adam to die, that was the true end of the simulation. Maybe this was what the System was trying to test.
+
+“Shiv!” Valor called out, his tone urgent. Cripple hesitated for a moment, its head tilting to regard the Animancy-shrouded Valor, who ignored the many glares from the Jessicas and the glowing eye of Cripple. “When it strikes, resist with all you have. If you are capable, project your cutting edge against its Divinity. Steal from the strike what force you can—Cripple is a raw and brutal thing. As are you. Even the privilege the System grants to the divine is secondary to how much it favors a Unique Skill. Should he actually manage to break you, now would be a fine time to call upon your garden.”
+
+“Be silent, lich,” Cripple declared, its voice harsh and heavy. “This is his duel, his responsibility. He must endure this trial alone.”
+
+“Yes, just as you endured and survived the slave pits on your own. Just as you are the single Ascendant of the Yellowstone Republic instead of one of twenty—or was it thirteen? Just as you fight without needing an Avatar to represent you.” Valor's voice was so thick with derision and judgment that Shiv waited for his Harbinger to trigger from secondhand emotional damage.
+
+But while that didn’t happen, Cripple trembled for a half-second—before exploding into world-splitting violence.
+
+Shiv fancied himself a walking calamity, someone who bore the strength of a small apocalypse in his fists and muscles alone. Yet as the Strongest drew its arm back to throw a haymaker above all other haymakers, the world itself groaned. A crushing weight cracked the floor beneath Shiv like a thin sheet of ice. The will-powered metal walls far away folded and compressed like a tin can beneath the boot of a giant. The two hundred Jessicas were driven down to a sprawl; Legendary though their Physicality might be, they were still caught in the presence of a god, and Cripple was a god of strength and sacrifice.
+
+“My strength above yours. My ruination in exchange for yours.” Cripple spoke those words, and a second voice echoed in the undertow. It sounded like a binding vow, a final promise from Ascendant to Avatar, and then the fist fell.
+
+It struck Shiv harder than anything had ever struck him before. The world vanished. The light that followed was blinding, incandescent if only for a single moment. Shiv saw reality breach, and instead of rupturing, he found himself lodged into a Domain, a place of pure force that battered and ground him from all sides, that crushed and twisted, that hammered and slammed.
+
+Shiv's body was caged within a nest of platinum scabs. The forces acting upon him were unstoppable, unceasing, and utterly illimitable. The Ascendant called Strongest knew nothing of weakness, and with that single blow it cast Shiv through a realm, a hell that was built upon power unrivaled.
+
+But even that couldn't shatter the Onus of the Scarred Unbroken. Instead, the weight Shiv bore and the pressures acting upon him reached impossible heights.
+
+He couldn't move. His bones were creaking, yet the Onus of the Scarred Unbroken held, and so he was caught in a state of perpetually building claustrophobia. His lungs grew so crushed that they felt like twin slabs inside his chest. His heart hammered hard, but it began detonating against his spine, and the tumors inside of him clattered and tightened as they were pressed together. Within that hive of teratoma and mutation, Shiv felt Adam's arm snap, then a leg, then another bit of his body twisted out of place. The Paragon didn't awaken, but Shiv could feel Adam struggling, kicking. The pressures finally passed through Shiv and reached Adam for the first time.
+
+No, no, no, come on, don't die! Just hang in there, just hang in there a while longer—
+
+But then Shiv remembered Valor’s words, and he focused. Stealing force from Jessica was already a nightmare, but within Cripple’s godly realm—actually, it was easy. The damage was coming from everywhere; there was never a moment Shiv wasn’t getting crushed. From that came an inexhaustible source of tides, and though it felt like he was trying to drink a sea empty before it drowned him, he was Legend trying to drink an ocean, and he actually managed to reduce his strain—if only by a meager bit.
+
+From that ocean he swallowed, his tides grew stronger, and the existential annihilation Cripple sought to inflict was driven back as Shiv’s Practicing Atheist Feat triggered in full and caused the godly mana to recoil from his person.
+
+He thought striking back with his cutting aura was beyond possibility until he remembered he didn’t need to physically move his body to trigger the skill. All he needed was an edge and a means to direct his slashes. Thus, he pushed his mana-hydra out, snarling with effort as they were battered by Cripple’s power as well. They slithered out from Shiv—and grew a mess of ridged teeth in a spreading mess of tumors on his back.
+
+And all at once, the teeth came aglow with the crimson of Vitae.
+
+Slashing crescents tore into the godly blows. Shiv felt his Unique Skill chip against but never hew through the all-sundering power unleashed by Cripple.
+
+But sometimes, chipping away at your enemy was enough. Sometimes, a single injury left a gap that became a most treacherous of openings.
+
+The incandescent mana cut out. It was like a cold wind gutting a feeble flame. One moment, Shiv was deep within the Strongest's Domain. Now he was spared that realm of unceasing strength and absolute devastation. The light slowly faded. The ionization died down, but even in the immediate aftermath, the temperature was high enough to reduce a High Hero of Toughness to ashes in a flash.
+
+And then something struck Shiv once more. If he could move, he would have flinched under the impact, expecting another blow from the Ascendant. Yet what happened thereafter surprised him, as it was instead the utterly devastated form of Cripple's Avatar collapsing beside Shiv. The bot was a sprawl of broken bits and scattered mechanisms. Oil seeped out from the tubes within its inner workings, and its reactor glowed bright, hissing incandescent emissions into the air. Detached wires sparked as the Avatar tried to rise, but its single eye began to flicker, and its voice echoed and glitched, crackling as it entered its death throes.
+
+While the Avatar embarked on that final journey, Cripple briefly flickered over its downed form, and it stared upon Shiv and gave him the slightest of nods before it faded once more. “A worthy skill. But thus I, the Strongest, command it to be greater yet. May it be enough for that final step to come…”
+
+Though his lips and tongue were too heavy to muster a reply, Shiv's eyes still managed to widen as a flow of divine mana passed through him, settled inside him, boiling his soul as if flames feeding a furnace, furthering his Legendary refinement.
+
+“This…” Valor’s voice fell low and surprised.
+
+The Jessicas groaned and struggled to get back to their feet, but Cripple’s voice continued to echo through the space: “If you have not grasped this truth already, let me make this plain: I am not a simulation. I am Cripple itself, and I have used the System to deliver an echo of myself to serve as your truest warden in this trial.”
+
+Shiv felt his Toughness thicken and condense. Onus of the Scarred Unbroken was somehow getting even denser, and Shiv felt the scars part around him, turning from a choking cocoon to being akin to an armor of scabs that gleamed with platinum resplendence.
+
+Adjusting Legendary Skill…
+
+Applying Partial Unconfirmed Legendary Evolution: Onus of the Scarred Unbroken (Legendary) > Onus of the Scarforged Unbreakable (Legendary-Unique)
+
+“I have been hiding,” Cripple continued. “I considered returning to the Gate. I considered returning to the Republic. I considered many things. But I felt Longinus’ truest self die. And I heard him before he passed. I heard his whispered voice thanking you. I felt his relief.”
+
+Encounter Complete (4/5)
+
+Another twelve minutes had passed. The simulation reset itself. Yet, as Shiv found himself returned to the doorway where he always stood in guard of Adam, there was a new presence aside from him and Valor. The presence of Cripple's Avatar, restored to its finest condition. Its head was bowed, its body down on one knee, and it pressed its right arm against its chest and glowed faintly with divine energy.
+
+Cripple manifested as a shining mirage, mirroring the actions of its Avatar. “The System has delivered my will. Your skill has been strengthened and refined. I wish I could offer a higher service than just this for the righteousness you’ve done for my brother, but that will take time. I hope you can accept this as an initial offering from this coward of a machine—and an apology as well.”
+
+Both Shiv and Valor stared speechlessly at Cripple.
+
+“You… You’re actually in my Delve?” Shiv said. “This isn’t some weird test by the System?”
+
+“No,” Cripple answered. “My Divinity burns true. Even here. Especially here. An imprint of myself has remained close to you ever since I brought you into my Domain in the Rubix Well.”
+
+The Deathless’s startlement doubled. “You could have done this at any time?”
+
+“The soul of a mortal is not so unassailable for a god—even a false one. But though I am a counterfeit, the power of the Great One themselves is beyond even the System’s in certain regards. Transcendent. And so I did something of worth with this stolen glory. I spent a reward granted by the System, to see your skill made finer.”
+
+“A reward?” Valor breathed. “A reward that was meant for one of your Avatars. Or yourself?”
+
+Cripple and its Avatar both held out a hand. “We do not remember who we are anymore. We have not been ourselves for far too long. Our legends have been forgotten and swallowed by another's. You are right, Legend Valor. You were always right. It was folly to think we could steal our godhood and elope without consequence.”
+
+Slowly, Cripple lowered its hand. “I scarcely remember if I was another way, however. I think… I feel like I have become more myself with this degeneration, that I am purer rather than ruined. But that I am weaker of heart and mind as well.” Cripple unclenched the fist and looked at its relaxed fingers. “I cannot say for certain, but I wish to find out. I ask of you, Deathless—may I return? May I ask you to recollect my brother’s final moments, and to implore you for a greater favor?”
+
+Somehow, Shiv knew exactly what that was. “I’m not going to kill you, Cripple. Not unless there’s no chance to save you anymore. And yeah, you can come back. I—I didn’t mean to hurt you, but you understand that you have to choose.”
+
+“Yes. I do not know what choice I wish to make, but I know what choices I despise.”
+
+Shiv managed to guess that too. “You don’t want to go along with either the Starhawk or the other Ascendants in their schemes with the Great One. You’re done stealing legends.”
+
+Cripple lowered its head once more.
+
+Initiating Encounter (5/5)
+
+Wave 1 activated
+
+Wave 2 activated
+
+Wave 3 activated
+
+Wave 4 activated
+
+Wave 5 activated
+
+An overwhelmed gasp left Shiv as he tried to process everything. “Cripple—Let’s talk once I get out of this Delve, but for now—” All the doors snapped open. “Before they start rushing me, what the hells did you do to my Skill? Why’s it Unique now?”
+
+“I told you: I saw it refined.” And Cripple’s voice sounded more than a little proud. “As for its capability—do not worry, it works much the same, with a single, major enhancement. I am aware you appreciate the adaptive immunity skill you started your journey with as well. An aspect of that has been incorporated into your scars. May it guard you well with what is to come.”
+
+“And what is to—” Shiv growled as the Uvas came surging forth. “Never mind, I’ll figure it out myself. Valor! Out! If I’m not awake in twelve minutes, I failed, and you can come back for another go. Cripple, I hope you didn’t fuck me over with this.”
+
+“See the truth of my intentions when violence next greets your flesh.”
+
+“Remember: Use your enemies to further your logistics; always build up your Tides, and think deeply about what you have, and what you can do,” Valor called out—before winking out in a burst of faint blue.
+
+Shiv wasn’t really in the mood for this cryptic god bullshit, but he didn’t have time to complain. Once again, he tore himself open and socketed Adam inside the wound-holder. Thus far, his body reacted the same way—the flaring pain and generation sensations felt the same. At the same time, his Nihilist sent a tumbling wave of fire down the hall, reducing the Uvas and the orichalcum walls to cooked meat. Shiv gorged himself on the walls as his skin came aglow with—
+
+“What the hells?” Shiv’s jaw tightened as he realized his skin now shone with a platinum-crystal texture that was further lined with veins of red-gold metal. “Okay, that’s more than a few threads.”
+
+“Arrow!” One of the Urris roared.
+
+Shiv rolled his eyes and prepared to face the oncoming Vulteg annoyance—only for a dozen Culturists to teleport in first, striking Shiv with an onrush of blows. Each hit sent a pulse of force through Shiv, and he briefly felt his organs coil before his Toughness woke once more.
+
+Shiv's Legendary-Unique Toughness came aglow with platinum scars, just like its progenitor. However, the moment the first blemish was painted upon his flesh, the rest of his body began to manifest the very same texture as that scar spread and encompassed him in a dense armor made from rupturing bruises.
+
+One moment, the Culturists struck away, their fists, elbows, knees, and feet falling like hurricanes. The first hundred or so stings burdened Shiv with weight, but after that second passed and the scar tissue formed into plates of platinum scab-armor, a chain of uncanny impacts shook Shiv. Instead of gaining new scars or suffering more weight upon his onus, the thick plates of scab armor protected Shiv, and they were perfectly adapted to the Culturist’s blows. The orc's punches and kicks recoiled in detonations that sent silver sparks flying through the hall, strikes going from invasive and penetrating shots to the old impacts that incurred no more damage-debt.
+
+And, to Shiv's growing disbelief, he understood why: The scabs serving as a suit of armor were getting thicker and wider. They were becoming a shell, much like a Tarrasque's shell, but instead of being something of pure emerald crystal, it was lined with a glorious platinum resplendence that Shiv now associated with his new Toughness.
+
+“Remarkable,” one of the Culturists breathed. “Not only do you seem graced with indestructibility, but adaptive indestructibility on top of that. I can feel your Toughness repelling—”
+
+That Culturist teleported away as Shiv called his hollow flame back, forming a dense sphere of Pyromancy around himself to fry every orc annoyance that dared to hold their ground. The Urris took their place, charging into the zone of scintillating fire without fear.
+
+Shiv allowed the first of the Vultegs to strike him—and felt a hefty increase to the weight of his Onus. Yet, after the fourth and fifth punches he took, the structure of the scar-shell protecting Shiv shifted, and instead of being a bursting bruise, it began a dense, dark scar that brought forth the same outcome. After the initial punches, everything post-adaption sent silver sparks bouncing through the world instead.
+
+Cripple really wasn’t bullshitting about that anvil thing, Shiv thought.
+
+“Why don't you break?” an Urri raged. “Why don't you—”
+
+Shiv caught his blow and ripped away the force. A flood of tides flowed down Shiv’s right arm, and he sent a third of it back via a thrust kick that sent the Urri tumbling back into a wall of his comrades.
+
+A vicious grin built on Shiv’s face as he advanced upon his enemies with the feeling of true implacability burgeoning in his chest. He advanced, glittering flames clinging to him, cooking everything within two hundred meters of him. The Urris came, too stupid to plan better, too strong to need any other strategy in most cases.
+
+But Shiv wasn’t most cases.
+
+Shiv was now greater than the Urris could ever be.
+
+Their fists fell like feeble hammers of rotted wood upon an indestructible anvil. He shrugged their blows aside and used them more as force-generators to fuel himself. Need to build up as many tides as possible when I have to survive myself, the Jessicas, and Cripple.
+
+And just when he wondered when the others would arrive, a Jessica appeared, slamming a hammer down on the top of his head.
+
+It just cracked and bounced off with a flash of silver. The Jessica staggered back as she took in her damaged weapon. “What in the felling…”
+
+“You might need something beside—” Shiv shut his mouth before he gave away the game. But it mattered little in the end as another Jessica appeared to drive a longsword into his gut, stroking a new scar over the existing shell and causing it to change.
+
+And though Shiv’s new Legendary-Unique Skill was enhanced as Cripple claimed, it could still be quickly overburdened when faced with a broad range of attacks that never gave it a chance to adjust to a single damage type. The Jessicas slashed, and burdened, and smashed, and stabbed, and kept cycling weapons to keep Shiv’s adaptive indestructibility off-balance and deprived of its former aspect.
+
+In minutes, they brought him down to his knees again, and with every subsequent blow, Shiv found it harder to stay upright at all.
+
+“Fuck,” a Jessica gasped. “This shit is turning into an actual workout. Starting to feel a bit of an ache in my arm.”
+
+The Culturists blinked in and out—but more than a few were “accidentally cut down” by a Jessica when they came into Shiv’s vicinity. The others managed strikes when they could, but they grew sparser and sparser as the hollow flame finally took its full toll. The Urris were beginning to wane as well.
+
+“Cripple!” Shiv called out. “Cripple! If you’re still there, I’m ready. Take your swing again. Let’s see if you can make a victim of me with this second go!”
+
+“Hey, worry less about the bot-god and more about me,” a Jessica hissed from behind.
+
+“Listen, Jessica, I’m already plenty—” Shiv’s words cut off as he felt a spike in mana frequency—the tremoring that came with someone else using an attuned skill you had as well. He acted without thought. His enemy called upon a temporal skill, and so did he. The broken fragments of the Harbinger formed around Shiv, and it hurt to manifest his Pre-Legendary Skill before its full recovery—but he acted just in time as another presence crashed into him.
+
+Two Harbingers cracked, two Toughnesses flared, and two bodies slammed together hard as twin indestructible monsters began hammering away at each other as those around them briefly stayed their hands.
+
+Shiv glared straight into the cold, hopeless eyes of his alternate self and sneered. “Was wondering when you would show up. How do you like my new skill?”
+
+The copy sneered right back. “I liked it more when I was the only one who had it.”
+
+“Yeah, I think you have the wrong way around: I am the only one who has it, because you’re not real, and you’re not getting out of here no matter what happens.”
+
+A faint crack spread across the copy’s neck. “Maybe. But I can keep you here plenty long too. I can take a lifetime from you, while you struggle here in vain.”
+
+Shiv just nodded. “In vain. Well. Time to find out how true those words prove.”
+
+And with that, both Deathlesses sent a wave of overflow tides up along their arms and hands as they wrestled with each other, strength, durability, magic, and more clashing as twin unbreakable anvils embarked on a desperate battle to see who would fall first.
+
+“Check it out,” a Jessica shouted with a laugh, smacking another instance of herself on the chest as they watched—and halted their attacks. “In-Delve entertainment.”

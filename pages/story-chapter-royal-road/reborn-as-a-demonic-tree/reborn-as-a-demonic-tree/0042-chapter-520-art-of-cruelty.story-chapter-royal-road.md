@@ -1,0 +1,129 @@
+---
+id: c0673c7c-bc89-5315-bafb-932903297215
+page-type-slug: story-chapter-royal-road
+title: "Chapter 520: Art of Cruelty"
+slug: 0042-chapter-520-art-of-cruelty
+partOf: reborn-as-a-demonic-tree
+position: 42
+ownLength: 2833
+unit: words
+ownProgress: 2833
+publishedAt: 2026-01-02
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2906083/chapter-520-art-of-cruelty"
+royalRoadId: "2906083"
+markedReadAt: "2026-06-29T19:02:57.115Z"
+---
+
+"Who is Ao Lingxuan?" Stella hissed through clenched teeth as a sudden cold gripped her body, seeping into her bones. She had many theories as to the dragon's identity. Was it Ilyzathar's child? While the dragon seemed ancient, it had been a long time since then. It could also be the father, or perhaps another relative? Or even a totally different ice dragon altogether? Whatever the case, this dragon clearly resented Zephyrine with a burning passion.
+
+"He is Ilyzathar's child," Zephyrine whispered back, confirming the most likely of Stella's theories. "Though he has grown quite a lot since I last saw him."
+
+The massive ice dragon floating before them sneered. "Are you really so surprised to see me alive after you devoured my still-conscious, frozen mother, piece by piece, and then left me to die at the bottom of an impossibly deep chasm? Where I had to fight for my life for centuries before finally breaking through the storm you covered the chasm in."
+
+Stella blinked. She knew she was sometimes labeled as cruel, but it seemed her elder sister was far more adept than she was in the art of cruelty.
+
+"You have it all wrong, Ao Lingxuan," Zephyrine calmly replied. "Your mother was nothing but a living corpse, destined for soul death within years due to Qi deprivation. Her body was leaking so much Qi into the surroundings that it turned magma to snow and her weakened flesh to ice. Due to her state, we only exchanged a few words: your name, Ao Lingxuan, and her request that I protect you."
+
+Ao Lingxuan's fury only escalated further from Zephyrine's overly calm narration of his mother's death and final words. A rage-fueled snowstorm swirled around the dragon as he gathered Qi for something.
+
+Zephyrine seemed to notice it too, and once again urged Stella, "Flee now, this isn't a place you can survive even with your high Nascent Soul Realm cultivation. The difference between you and a Monarch is like that of heaven and hell, not to mention your disciple. The cold alone will kill her—"
+
+Stella had been trying to flee, but the ice Qi seeping into her bones had frozen her spirit roots just enough that it was interrupting her ability to enter the aether safely, let alone drag Jasmine with her.
+
+"None of you shall escape my judgment," Ao Lingxuan bellowed, then roared at the sky, empowering his voice with Qi. "Domain of the Pale Moon!"
+
+In the blink of an eye, a massive pale blue moon dominated the sky. It was like staring up at an ocean suspended in space, rippling as if alive. It stretched from the ice volcano of the Frozen Star Sect before her until the horizon from which she had come. Under its looming presence, Stella tried to comprehend it—but then something horrifying dawned on her. Her consciousness was frozen. While aware, she was unable to act—like a person trapped in ice, painfully conscious of the world around them, while unable to move anything but their eyes. Never before had she felt so trapped in her own body and mind. It was truly baffling. How can one be aware, yet unable to think or finish a train of thought?
+
+It was terrifying.
+
+"Very impressive, your comprehension of the ice dao surpasses anything I've seen before," Zephyrine mused, a hint of genuine awe in her voice. "As expected of an ice dragon who descended from Ilyzathar."
+
+Ao Lingxuan snarled. "This is nothing compared to what Mother once wielded. Luckily, before you took her from me, my mother imparted a hint of her profound knowledge of the ancient cold from before time itself. By comprehending the law of primordial ice dao, I have dominion over the stasis of all things. Whether it be mind, body, or soul. All will remain frozen before me. Including you."
+
+"A lower tier of time dao, I never thought I'd see or experience such a thing," Zephyrine said. While still clearly able to at least think and speak, her body was stiff, and she seemed unable to open her mouth, forcing her to talk through her teeth. "You must have trained hard, Ao Lingxuan."
+
+"I did, like a mad dragon, while dreaming of this moment," Ao Lingxuan grinned triumphantly, as the frozen ground beneath them further ruptured and birthed thousands of towering columns of ice that rose into the sky all around them for miles. While ascending at different times, they all came to an abrupt halt around the same height, which just so happened to be a few meters above where Zephyrine stood. Draped from them were hefty chains of solid ice that began to snake toward them.
+
+"What is it you intend to do to me, Ao Lingxuan?" Zephyrine asked as the chains neared.
+
+"To hold you in place for all eternity," Ao Lingxuan replied, "so I can enjoy my time eating you, piece by piece, just like you did to my mother."
+
+"I see, quite the twisted fantasy you have," Zephyrine hissed through clenched teeth.
+
+"Oh, this is no fantasy. It's very much your new reality, Zephyrine." Ao Lingxuan floated closer, surrounded by chains of ice. "Before my gaze, lesser beings have no right to think or flee—they will simply stay put like eternal statues of ice."
+
+Upon being referred to as a 'lesser being,' Stella felt a subtle buzzing at the back of her mind. In the stillness of her consciousness, anything felt loud, and she had no choice but to acknowledge it. Slowly and methodically, her mind began to move again as her Ruler bloodline kicked in. It would appear the mind of a Crestfallen couldn't be restrained so easily, but Stella still had to wait until she regained total control. So, abiding by Ao Lingxuan's wishes, she remained as a statue on Zephyrine's back.
+
+Unaware of Stella slowly breaking free from his control, Ao Lingxuan continued, his attention entirely on Zephyrine. "Isn't this just like what you did to me, Zephyrine, all those centuries ago? I have now robbed you of all agency. Your spirit roots have frozen, your body has gone cold and dull. Do you feel fear? Or perhaps acceptance of your fate?"
+
+Zephyrine answered his taunting with a question, "Have you ever fought against another Monarch Realm being before, Ao Lingxuan?"
+
+Ao Lingxuan paused, frowning. "I have not. Why would it matter?"
+
+"Do you know why we are called Monarchs?"
+
+"Because we lord over our affinity?" Ao Lingxuan narrowed his eyes. "What are you getting at, Zephyrine?"
+
+"We are called Monarchs because we rule over a part of reality and wield it like an army. Right now, you have led your frozen legion to the howling gates of another Monarch, proclaiming victory without a fight. How can you do such a thing while surrounded by my forces?"
+
+Ao Lingxuan replied, "I still don't understand. Spit it out, you vile beast."
+
+An unmistakable aura of control overtook Zephryine as she met Ao Lingxuan's wrathful glare. "What I'm saying is, I haven't even ordered my forces to put up a fight yet. The battle has yet to begin."
+
+Stella felt the lush white fur on Zephryine's back suddenly stand on end, and the deer easily opened her mouth, to the surprise of Ao Lingxuan, and with a Qi-filled voice, she commanded the heavens. "Summon Domain, Eye of the Storm."
+
+The effect wasn't as immediate as a moon appearing in the sky, but Stella could feel it. The sudden drop in air pressure, the abrupt halting of the freezing breeze, and even the snowstorm surrounding Ao Lingxuan fell to the ground. Thunder boomed in the distance as dense, black clouds filled with crackling lightning of varying colors rolled in from seemingly nowhere, encircling them. The surrounding wall of clouds grew toward the heavens until it looked like an insurmountable wall. If that wasn't terrifying enough, the cloud wall began to rotate, quickly picking up speed and closing inwards.
+
+Ao Lingxuan exerted his domain over ice to try to freeze the encroaching storm, but all he succeeded in doing was turning the outermost clouds to hail, further feeding the destructiveness of the storm. As the clouds reached the outermost ice pillars that Ao Lingxuan had erected, they were obliterated in an instant by the churning storm.
+
+"What is happening?!" Ao Lingxuan began to panic. That aloof aura of an ancient dragon hellbent on revenge faded away, exposing his true nature—that of a terrified dragon abandoned in youth. "Why can't I stop it?"
+
+"When I consumed your mother's flesh, I too learned of the primordial ice dao. Certainly not enough to do anything as impressive as you, but enough to stop you from freezing my storm," Zephryine raised her head like that of an elder gazing down on a child. "While your rise in strength is impressive—even for a dragon—you are still many centuries too young to fight with me, child."
+
+"No, this can't be," Ao Lingxuan hissed with anger, yet the storm continued to close in, fast. More and more ice pillars were devoured by the storm, which was now spinning so fast that a fierce, howling gale rustled Stella's clothes and hair, even though the wall of the storm was still many miles away in the distance.
+
+"Ao Lingxuan, if I had truly wanted you dead as a child, I would have simply killed you myself," Zephryine said, and her words carried an undeniable weight as the world was seemingly destroyed around them by her hands. "I knew your mother's leaking Qi would help nurture your development, but it would also cause problems. As a child, you needed food, yet all the monsters froze to death in the wake of your mother's Qi. I created that chasm, filled it with food for you to hunt, and sealed it off from the world with a storm. Both to keep you safely inside, and to keep anything or anyone that could kill you away. I didn't just hear your mother's last words; I honored them."
+
+Zephryine then turned into a human, causing Stella to fall for a moment before an intense gust of wind cradled her and began carrying her and the still-fainted Jasmine away toward the ground.
+
+"Now, I would offer to call off this fight to save both of our Qi," Zephryine grinned wickedly, cracking her knuckles. "But it would seem some sense needs to be beaten into you. Not to mention, why waste this grand battlefield we have made for ourselves? Now, Ao Lingxuan, let me show you how it really feels to face a Monarch."
+
+Before Ao Lingxuan had a chance to respond, lightning arched from the surrounding storm, striking Zephryine—she then practically teleported forward and planted her fist right into Ao Lingxuan's bewildered face. There was a roaring crack that echoed across the land, followed by Ao Lingxuan's immense body hurtling through the sky, crashing through multiple ice pillars before finally slamming into the ground in an explosion of snow.
+
+Zephryine rolled her shoulder with a face-splitting grin. "It's been a while since I could go all out like this," she said while walking casually through the sky. The air shuddered around her from the sheer aura she radiated. It was in this moment that Stella's bloodline finally overcame Ao Lingxuan's control, and she could think again. Yet, instead of considering how to flee, all that came to mind was Zephryine's earlier statement regarding the gap between a Nascent Soul and a Monarch Realm being like the gap between heaven and hell.
+
+If there is such a gap between me and Ao Lingxuan, how can there be such a startling gap between two Monarch Realms? They share the same realm, yet Zeph is making Ao look comparatively weak. A sheer gap in stage wouldn't result in this difference—is it really because of Zephryine's superior dao comprehension?
+
+This realization worried Stella. While Ashlock was able to quickly raise powerful cultivators with the Eternal Realm, there was only so much he could do to speed up the assimilation of dao knowledge. Stella had comprehended the aether law due to absorbing Valandor's soul, but that only felt like the beginning. She didn't feel ready to face these monsters—not even close.
+
+"Don't disappoint me now, Ao Lingxuan! I was saving these delicate fists for the Celestial Empire, but you will serve as an excellent warm-up," Zephryine rushed after the downed dragon, leaving nothing but booming thunder and afterimages in her wake.
+
+Another earth-shaking boom echoed out, no doubt from Zephryine planting another mean punch into the poor dragon. Stella knew she needed to get out of here. If either of these Monarchs got really serious, she would perish in the exchange like a moth caught in hellfire.
+
+Making sure Jasmine was secured to her back, she went to tear open a rift to the aether, only to be met with ice. It was as if the aether had been frozen solid. She poked it, confirming her fear. The aether was a no-go. Looking to the side at the raging storm filled with lightning and hail that was still quickly closing in, she decided that flying through that was suicide.
+
+There has to be a way out of here. While I can't fight them, I'm still in the Nascent Soul Realm. I'm hardly weak.
+
+She tried to conjure a portal, but the surrounding winds tore it apart. Summoning a sword, it froze to ice and plummeted to the ground. Crafting a dozen swords out of spatial Qi? Same deal. All were frozen instantly and were torn apart by the winds before they could even touch the ground.
+
+The moment her Qi left her body, the overlapping Monarch Domains asserted their dominance and denied her control over her surroundings and affinity. Furrowing her brows, Stella switched back to aether Qi and did something she had never bothered to do before. She concentrated on conjuring a rift by infusing it with aether law. Having knowledge of aether law and actually using it were two separate things, and until now, she hadn't been forced into a situation to realize that.
+
+This time, the rift formed, and instead of being instantly overcome by the overlapping domains, it held firm. While Stella had poured far more Qi into its creation and it took longer than usual, there was something about the rift to the aether that made it unmistakably hers. Almost like a chef who had deviated from the recipe and created a new dish, one that they could slap their name on and nobody would question whose food it was.
+
+Stella had made hundreds of rifts to the aether, but this one felt special. While a small victory, it stood as a testament to her closing the gap. Its presence filled her with a sense of hope that perhaps one day she could stand proudly among the Monarchs.
+
+"Come on, Jasmine, let's get out of here," Stella said, taking one step into the rift before looking over toward the intense battle happening in the distance. "Beat that dragon black and blue, Zeph!" Stella cheered. While she had a little empathy for the dragon, she didn't like being referred to as a lesser being and having her consciousness frozen. Before some stray icicle took her head off, she jumped into the aether. Moving through it posed a whole new challenge as it seemed the Monarch Domains leaked into alternate planes of reality, too.
+
+After what felt like forever, she finally broke free, stepping out far above the chaos and closer to the Frozen Star Sect. Below her, the swirling storm seemed to stretch as far as the eye could see, blanketing the frozen land in darkness. In the eye of the storm, which was now only the size of a small mountain, the battle was in full swing.
+
+To Stella's surprise, Ao was managing to put up a good fight. But it was ultimately pointless. Zephyrine could manipulate the full power of the surrounding storm to blast the dragon with lightning, drown him in rain, pelt him with hail, and throw him around with winds. She could also use the storm defensively to deflect or block attacks and even to empower herself, like the lightning earlier, giving her more speed.
+
+"Ao Lingxuan, you fool!" a voice boomed across the land.
+
+Stella glanced toward the voice and saw a blonde-haired cultivator hurtling toward them from the Frozen Star Sect. It took Stella a moment to realize, but wasn't this her brother, Janus? The man suddenly teleported, appearing over the eye of the storm. He was pissed.
+
+"I told you time and time again that if you tried to fight my sister, this would happen, and you didn't listen!" he yelled down at them. "Cease this madness at once!"
+
+"Don't worry, brother," Stella said, grabbing his angry gaze. "Zeph is just teaching Ao Lingxuan some manners, that is all. I'm sure it will be over soon."
+
+"Sister," Janus blinked in surprise. "You really came."

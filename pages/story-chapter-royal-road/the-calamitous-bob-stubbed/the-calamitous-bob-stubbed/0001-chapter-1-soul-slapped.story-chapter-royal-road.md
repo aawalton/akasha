@@ -1,0 +1,197 @@
+---
+id: f4e50ea5-041c-57e3-8649-7927000078f6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1: Soul-Slapped"
+slug: 0001-chapter-1-soul-slapped
+partOf: the-calamitous-bob-stubbed
+position: 1
+ownLength: 1834
+unit: words
+publishedAt: 2021-06-16
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/700622/chapter-1-soul-slapped"
+royalRoadId: "700622"
+---
+
+At the heart of the world of Niyl stood a mountain of impossible height. Its sheer cliffs of permafrost were vertical walls gnawed by unceasing winds, and in it hid horrid creatures. From grumpy wyrms to ancient elementals, its fauna was the deadliest in the world, while outside, scathing magical gales could scour the flesh from the bones of even the hardiest explorers. And yet, every year, some still tried to climb to its peak, for it harbored the city of the gods: Larrean.
+
+Ah, Larrean, where strolls could last for moments or eons, where demiurges beat the pavement hand in hand with beings as old as time itself. Solemn temples of marble and gold rose next to eldritch constructs of shells and bones. Coral walls encircled crystal towers and obsidian keeps. The air smelled of spring, of brine, of a kiss by the sea, changing with every step. It was an impossible land where only the mightiest could tread and where one could sell a soul to buy a moment.
+
+The only constant in this dizzying chaos of splendor occupied its highest hill. The Apex Palace held the throne of the ruling monarch of this flourishing metropolis and it guarded its spot with a ferocious zeal, for whoever controlled Larrean, controlled the world.
+
+Within reason.
+
+At the back of the palace, two divine guards in golden armor kept their vigil on either side of a stained glass window of epic proportions. The masterwork represented a decade of grueling effort from a legendary artist, each dye, each detail painstakingly placed to render the victory of the current pantheon over the primordial gods.
+
+It suddenly exploded outward in a shower of broken shards.
+
+The figure of a naked man slammed against the ground with a grunt, before rolling several times and crashing against a centennial oak, which cracked under the strain.
+
+“ASSHOLE!” a voice screamed from inside.
+
+The left guard sighed heavily.
+
+On the ground, the King of the Gods stumbled to his feet and held his gorgeous head between two trembling hands. Wheat-colored ringlets adorned a face handsome enough to make angels weep. Right now, however, his charm was somehow diminished by the unfocused brown eyes, the grilled chicken skin stuck to his chest hair, and the scratching of his left ass-cheek.
+
+Maranor, the Goddess of War, stepped out from the remnants of the shattered pane. Fury turned her black eyes into pits. It furrowed her august brow with thunderous wrath and set her raven hair aflutter. It spoke of the desolation of nations.
+
+“Not only do you cheat on me,” the deadly belle intoned, crossing her arms under her modest bosom, “but you do it morphed into a golden manatee? A manatee? Have you gone mad?”
+
+The hem of her white dress slowly turned red with fresh blood, an ill omen if there were any. The King of Gods, who looked no worse for the wear after his recent defenestration on account of being God of Luck as a side gig, ignored it. His overtaxed brain still tried to operate through the cataclysmic hangover harrying him.
+
+The words ‘golden manatee’ somehow cut to the haze of immortal-grade alcohol.
+
+Disaster struck.
+
+The King of Gods, Emeric, smiled beatifically at the memory of his ravishing, plump-nosed shape.
+
+“We were off our arses and thought it was funny,” he replied.
+
+A preternatural silence spread over the entire city. Entire legions of warriors and scholars stopped to a standstill. The dark clouds of fate on the march covered the midday sun like a swarm of locusts.
+
+Somewhere in the depth of Emeric’s mind, an ancient instinct awoke, one that dated back to an era when he was not quite as durable as he was now: his survival instinct.
+
+“Oh SH-“
+
+[Divine Killing Blow]
+
+[Divine Uncanny Dodge]
+
+Both skills fired at the exact same time. A ravine formed in the hallowed ground where Emeric used to stand, on a stone that was reputed to be indestructible.
+
+Maranor now held a two-handed sword as tall as she was. The [Slayer] had ended many beings who had thought themselves beyond the reaper’s reach. Her expression had gone beyond anger to emerge on the peaceful land of unadulterated violence.
+
+She was going to kill him.
+
+He was a dead god walking.
+
+Emeric did the only wise thing he could. He ran, and she followed.
+
+Maradoc sighed when his erstwhile brother-in-arms stumbled into the House of Many Gates, his locus of power in Larrean.
+
+Alcoves occupied both walls which extended beyond the horizons. It was, as they said, bigger on the inside.
+
+As soon as he crossed the threshold, Emeric’s expression changed dramatically. Where a gibbering wreck of a coward bumbled before, now there was a mighty god. Golden energy rippled beneath his hale skin, and he stood without a hunch.
+
+“Is it truly time?” the god of travels and mysteries asked his old friend.
+
+“It could not have gone better if I had planned it,” the other one replied with confidence, “your twin sacrificed a century of schemes with one act of anger.”
+
+“Do not be too confident now. We cannot afford it. I suppose you would like your exit?”
+
+“If you please.”
+
+Maradoc waved a lazy arm and one of the alcoves was now host to a blue portal, which Emeric crossed without hesitation. It closed behind him.
+
+The door banged open.
+
+“Where is he?” his sister demanded.
+
+Maradoc did not reply, even as she came to stand before him with her dread weapon and her even worse temper. They matched hair, eyes, and unyielding scowls.
+
+“Be careful that I do not consider you an enemy as well, dear brother,” the woman finally said.
+
+The room darkened. From the alcoves now came whispers at the edge of hearing, fragments of languages long-forgotten that spoke of things best left alone. Maradoc matched Maranor.
+
+“Remind yourself of who you are speaking to, dear sister, or I will.”
+
+They stood frozen, face to face, entrenched in an animosity that only defiled love could bring. It was the intruder who relented first.
+
+“It’s only a matter of time,” she declared on her way out.
+
+Maradoc’s expression turned melancholic as he watched his last living relative go. They had shared so much, and now he had taken the last steps to unbind his fate from hers. Where she had chosen to go, he would not follow. The cost was not worth it.
+
+He turned back to his books with the vain hope that they would dispel the pain. No one suffered like a god could.
+
+Emeric’s body disintegrated into its component atoms the moment he crossed the space between worlds, just as planned. A world came into view, a blue planet with plenty of land masses colored yellow and white and green. It was nice enough, and devoid of any planetoid-sized orbital squids or anything too unpleasant.
+
+His soul activated a special spell prepared for the occasion, and a small grid flew towards the radiant orb of his psyche.
+
+“No magic, as agreed. Hmm, good development level! How do these metal tubes fly I wonder? Technology? Incredible. Some of those nations are rich too. Excellent,” the mighty soul told itself.
+
+Now, to find a suitable host.
+
+There was one thing that Emeric had always wanted to get, something that had been denied to him for ages, he who had drunk pure mana from the spring of eternal winter and suckled on the teat of the queen of dryads.
+
+He wanted a female orgasm.
+
+He heard it was quite nice.
+
+And the polymorph spell could not get him one. It was too superficial a change to grant him this experience.
+
+“That’s right, I’m going to be a lass. Even if Maranor manages to track me to this world, she will never imagine that I would voluntarily incarnate myself in a womanly shell. This plan of mine is brilliant!”
+
+So, yes, the host, a woman.
+
+His net narrowed down to three billion individuals.
+
+“That many?! Wow. At least I get to be picky.”
+
+She needed to be a young adult. None of that growing up nonsense. And not married, obviously.
+
+She had to have peerless magical potential. Even if the world was devoid of magic, Emeric’s soul could create its own. It would be a shame not to use it.
+
+That still gave him almost six thousand hits!
+
+Well she had to be hot, obviously.
+
+Two thousand.
+
+From a rich nation, from a connected family, and constantly surrounded by attractive people. A formal education. A loyal friend. A good sex drive.
+
+There were still twenty entries and he was at a loss. He found one with mesmerizing green eyes and who was already asleep, which was convenient.
+
+“You will do.”
+
+Instantly, he traveled down and to the body of the host. The mortal soul was torn off with a mighty swing and he held the tiny white orb in his own golden hand.
+
+He was pretty sure the process was painless.
+
+Probably.
+
+He slid inside the now deserted mortal coil. As his essence expanded to fill its new container, he felt a pang of guilt stab his cold and desiccated heart.
+
+“You were kind of shafted there, poor girl,” said the man who had done the shafting, “I guess I could help you.”
+
+There was also the slight problem of soul imbalance between this realm and his own. Could he kill two manticores with one disintegration ray?
+
+“I’ll just send you back in my stead.”
+
+Emeric opened a minuscule portal to some power locus back home and shoved the soul through. As the gate closed, he breathed into it enough energy to reform a body. He left a tiny bit of himself as well, for good luck.
+
+“Let it be known that I am a benevolent god,” Emeric told himself with satisfaction.
+
+He finished his integration.
+
+January 2013, Mopti airport, Mali.
+
+A tall woman in the beige uniform of the French special forces strode to the fortified entrance of the main concourse. She found her target sleeping peacefully against the sandbags, hands on her rifle. She kicked the thick body armor.
+
+“Wake the fuck up, Cinderella!” she said.
+
+“Naskay?”
+
+The woman frowned, concern evident on her brown, handsome face.
+
+“You got a stroke, Viv?”
+
+The smaller woman blinked, emerald eyes drifting around with confusion. She recovered quickly enough.
+
+“Sorry Mouq, errr, weird dream is all.”
+
+“Well get your ass in gear, corporal, the beardies downed a Gazelle helicopter near Konna. We got to blow up the wreck.”
+
+“Yeah, yeah...” the freshly reincarnated god answered.
+
+The intruder stood up and inspected their surroundings. They checked their new host and pilfered memories for a hint on what had gone wrong.
+
+Magical talent? There and waiting.
+
+Interesting background? Back home.
+
+Attractive? Yes, under the layers of Kevlar and ceramic plates.
+
+Surrounded by hot people?
+
+An armored transport rolled to the compound’s gates. All around, fit men and women loaded up and checked their weapons.
+
+“Fuck me,” they said with feeling.

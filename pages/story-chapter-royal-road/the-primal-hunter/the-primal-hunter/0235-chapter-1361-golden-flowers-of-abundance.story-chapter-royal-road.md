@@ -1,0 +1,121 @@
+---
+id: e8a5ab59-c213-5f77-bd02-7c3567e99cf7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1361 - Golden Flowers of Abundance"
+slug: 0235-chapter-1361-golden-flowers-of-abundance
+partOf: the-primal-hunter
+position: 235
+ownLength: 2667
+unit: words
+publishedAt: 2026-07-24
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3720198/chapter-1361-golden-flowers-of-abundance"
+royalRoadId: "3720198"
+---
+
+As with every other area in the World of the Exalted Prima, Jake discovered there was a limitation on how high one could fly within what he’d dubbed the palace gardens. If one went up too far, the same pressure that could be found in the Territories would appear, though it kicked in far quicker, likely due to the limited size of the palace gardens compared to the utterly massive area containing all the Territories.
+
+Not to say this place was small. After flying into the air and getting a better look at things, Jake could only vaguely detect more spatial distortion far in the distance, towards where he could clearly see the palace. The perspective felt all wrong, as if he were looking through some kind of lens, but Jake felt fairly confident that, should one travel far enough in the direction of the palace, one would find yet another barrier leading into another area. Likely the walled-off city he could see surrounding the palace, though that would certainly also be way larger in scope than it appeared from the outside.
+
+Feeling his two Hunter’s Marks, Jake suddenly felt the connection to one of them change, making him frown. It was Jasper’s that had suddenly gotten a lot weaker, and when he looked towards where the small guy was, he realized Planeswarper had just claimed a treasure, or at least tried to.
+
+“Something akin to what happened in the desert?” Jake wondered, recalling when he’d tried to take a treasure there and instantly found himself surrounded by enemies. It was something that happened often in the desert, though in most cases, Jake and company just snuck into an ongoing fight to steal away treasures.
+
+Despite being sealed off, Jake wasn’t worried about Jasper, but instead felt compelled to also get moving himself as Jake dove towards the ground where his Sense of the Malefic Viper had a powerful response. Shortly after, he landed in the middle of a flower bed, surrounded by the stalks of flowers that looked more like massive trees from down on the ground. Jake felt like an ant... no, not even an ant. More like a flea navigating a world of giants, with everything just being way too damn big.
+
+The entire vibe was ruined when Jake stumbled upon a rather normal-sized golden flower sitting in the soil between the massive plants. It was still a little big, standing taller than Jake. It looked a lot like a sunflower with seven leaves, each leaf filled with intricate runic carvings. If he didn’t know otherwise, Jake wouldn’t even have clocked it as a plant at first, but believed it to be an actual gold sculpture.
+
+“I guess it’s time to see what happens when you try to claim a treasure,” Jake shrugged as he walked over and put a hand on the flower. He had expected a blast of spatial energy to seal him off from everyone else or a barrier to appear, but it turned out it wasn’t the environment being moved or changed.
+
+It was the person trying to take away a treasure.
+
+The second Jake laid hands on the treasure, his vision shifted, and immediately he found himself standing in a golden field of flowers, all of them looking like the seven-leafed sunflower from before.
+
+Jake frowned as he confirmed the new area he found himself in. He didn’t even need to use a Pulse of Perception as his sphere was large enough to encompass the entire world he’d been transported to. It was only about fifty meters across before one would hit what Jake suspected to be a system-made impenetrable wall. He didn’t detect any way out as far as he could tell, meaning he was very much trapped.
+
+“Oddly small world. Wonder what I’m meant to do here to leave,” Jake muttered to himself as he tried to float slightly into the sky... only to find himself unable to. In fact, when he finally moved his body, he came to realize that he could barely move at all.
+
+Alarmed, Jake felt the state of his own body, wondering if his stats had been lowered like in the Colosseum of Mortals or anything like that, but no, his state was perfectly normal. Admittedly, that shouldn’t come as a surprise, as Jake would have definitely noticed if he’d lost all his stats. That still made things incredibly odd, though.
+
+Raising a hand, Jake tried to summon some arcane energy. His hand glowed with energy for a brief moment before his mana got snuffed out and disappeared into nothing. Now truly perplexed, he attempted to use Arcane Awakening, and while he briefly felt the skill activate, it was instantly suppressed before it had the chance to do anything.
+
+Even just moving, Jake effectively had the speed of a regular human, maybe slightly faster at most. The only thing that remained wholly unaffected was his Bloodline-related abilities, which didn’t seem like they would help much, given the small space he found himself in.
+
+“Wonder how Sandy would do in a place like this,” Jake continued to mutter to himself, questioning just how screwed the worm would be. Wouldn’t their body alone fill up the entire space? Or would the worm be forcibly shrunk? If they were, would Sandy still be able to float or be forced to crawl on the ground? Many questions, none of which mattered given his current situation. It did make him a little more worried about Jasper, as the little guy could find himself in a similar situation, though fortunately, he could still feel his two Hunter’s Marks.
+
+Looking around, Jake tried to figure out what he was meant to do, which was fortunately when the system just decided to tell him. He heard a faint ringing sound above him, making Jake look up into a blue sky where the clouds had all moved to form words.
+
+Find the 7 seven-leafed flowers and offer them to the sky as you bask in the golden light.
+
+Jake instantly questioned what it meant by the last line of that sentence, but he quickly got his answer as the clouds all evaporated, and a glowing orb of golden flames, looking like a sun, appeared instead.
+
+Instantly, Jake was hit with a wave of heat, reminding him of the desert outside. It was roughly at the level of the outer sections of the desert close to the jungle, making it more than manageable. For now, anyway. While it was subtle, Jake felt all the surrounding flowers slightly channeling energy into the orb in the sky, slowly empowering it over time, effectively putting Jake on a timer.
+
+He also had to make a retraction. Earlier, Jake had said that due to the small size of this area, his sphere was pretty much useless. Well... that wasn’t really the case if he was meant to find some flowers there, now was it?
+
+Not having any desire to be under another hot, burning orb for longer than he had to after just leaving the desert, Jake went ahead and started collecting flowers, having already located all seven of them immediately. He also tried to collect some additional flowers just to see what would happen. They could be picked, and out of sheer curiosity, Jake wondered what would happen if one broke or ruined a flower. Well, that at least wasn’t a concern, as they all appeared to be entirely indestructible, meaning there probably was some way to cheese this test.
+
+Ways that didn’t include having an overpowered Bloodline, that is.
+
+It didn’t take more than a couple of minutes before Jake stood with a fistful of seven-leafed flowers, which he promptly held up towards the sky as he spoke in a bored tone. “I did it.”
+
+Right as he said this, though likely not actually due to him speaking, the flowers all turned into golden light and flew towards the orb, which proceeded to explode with blinding light. Jake lost his vision for a moment, and when it returned, he found himself standing back on the flower bed, the giant golden flower now gone, replaced with a small golden sunflower in his hand.
+
+Something that in itself was incredibly notable, as any item that hadn’t immediately turned into Prima Credits had been of significance in this event so far, be it the Ritual Sacrifice Dagger to unlock a hidden vault or the pearls to better deal with the desert.
+
+Naturally, Jake used Identify on his flower, the result making him raise an eyebrow.
+
+[Seven-Leafed Golden Flower of Abundance (Unique)] – A Golden Flower with seven leaves found within the Palace of Abundance gardens. Can be instantly converted into 7290 Prima Credits or used within the Palace of Abundance for even greater rewards.
+
+First of all, that was a lot of  Credits right there. Not the most he’d seen, but definitely in the top three, instantly hammering home that the Central Domain definitely had superior rewards, and he was already looking forward to what better stuff could be found closer to, or within, the Palace of Abundance.
+
+As for the option of keeping the item for greater rewards within the Palace of Abundance, it was naturally a no-brainer. The last time he talked with Miranda, she’d made it clear that their financial situation was great, so there was no need to instantly convert it into Prima Credits. Better keep it around and hopefully cash in a far superior reward once he found a use for the item within the Palace of Abundance itself.
+
+With his first treasure found, Jake instantly moved on towards the next response from Sense of the Malefic Viper, not wanting to be inferior to Sandy and Jasper. Sandy had clearly also found a treasure and had been transported somewhere, and Jasper remained gone, likely not able to instantly cheese his trial the same way Jake had.
+
+Soon, Jake reached his next target, which was yet another golden sunflower-looking plant, though this one only had five leaves. As with last time, Jake reached out and touched it, instantly transporting him elsewhere.
+
+He found himself in yet another golden field of flowers, though this time around he wasn’t alone and was in a far larger world-space. This field of flowers extended for well-over a thousand kilometers in all directions, and about a hundred kilometers ahead of him stood a single large tree monster.
+
+[Golden Treant of Abundance – lvl 375]
+
+A classic treant, and seeing as this trial had been nice enough to transport him into this small world without even notifying his opponent, Jake quickly entered stealth. The result from there should be rather obvious.
+
+You have slain [Golden Treant of Abundance – lvl 375] – Bonus experience earned for killing an enemy above your level
+
+One arrow was enough to send Jake back to the garden once more, where he claimed his second flower. This one was quite a bit worse, though.
+
+[Five-Leafed Golden Flower of Abundance (Unique)] – A Golden Flower with five leaves found within the Palace of Abundance gardens. Can be instantly converted into 810 Prima Credits or used within the Palace of Abundance for even greater rewards.
+
+While it had definitely been a lot easier to get – again, assuming one couldn’t cheese the first trial as Jake had – it did give far fewer Prima Credits when consumed, indicating its value was far worse. He also believed he was starting to see a pattern in how many Credits these flowers gave based on their leaves, but he needed more than two data points to confirm.
+
+Fortunately, there were plenty more flowers to claim.
+
+His next one came after a trial that once more included combat, where Jake had to destroy a group of four plant monsters. They were easily disposed of, getting Jake a flower with six leaves this time around.
+
+[Six-Leafed Golden Flower of Abundance (Unique)] – ... converted into 2430 Prima Credits or used within the Palace of Abundance for even greater rewards.
+
+With that, Jake more or less confirmed how the value of these flowers worked, though he did pick up more, making him even more sure. The next one especially proved his theory and was by far the easiest to get.
+
+[Three-Leafed Golden Flower of Abundance (Unique)] – ... 90 Prima Credits or used within the Palace of Abundance...
+
+For this three-leafed flower, Jake didn’t even have to undergo a real trial. He simply put his hand on the plant, and when he did so, he felt it resist his attempt to claim it. After a battle of wills that lasted approximately sixty-two milliseconds, the flower lost and shrank to fit in Jake’s hand.
+
+With four data points, Jake was also certain how these flowers worked. While he wasn’t confident that a one-leafed flower existed, if it did, it would be convertible into 10 Prima Credits. A two-leafed would then be 30, a three-leafed was confirmed to be 90, and then 270 for four, and so on and so forth. In other words, it would triple for every leaf added. This pattern had seemed obvious from the get-go, and it really wasn’t surprising as the system loved tripling stuff.
+
+“Wonder how many flowers there are,” Jake said after putting away the three-leafed one. Right then, he also felt that Jasper had turned to the same dimension as him, meaning the little thief had likely succeeded in whatever trial he was undergoing. Sandy had also done a trial earlier and had entered a new one.
+
+Having experienced two trials that required combat, Jake was a little worried about how the two would do, but it seemed like they were handling things despite not being fighters. Maybe they had gotten lucky, or perhaps the trials offered by the treasures were somewhat individualized, so one wouldn’t get an impossible test. Telling those two to fight a powerful B-grade would be the same as Jake getting a trial that required him to give a public speaking on social etiquette... technically possible, but it would be miserable and take way too damn long.
+
+Shaking his head, Jake headed off towards an even stronger response than any prior he’d picked up with Sense of the Malefic Viper. It had just entered his range of detection and was still outside even his Pulse range, but he nevertheless rushed over, wanting to claim it before anyone else got the chance to. Not that he had much competition right now, but better safe than sorry.
+
+It didn’t take him long to reach his destination as he ignored everything else along the way, including a six-leafed golden flower that would probably have been worth stopping for. At least he thought so until he finally reached his target.
+
+The golden flower was well hidden beneath several massive leaves that seemed to have some magic to further obscure what was inside. Making his way through the large leaves, Jake landed on the ground in front of the flower, and when he saw it, his eyes opened wide.
+
+Not only was it larger than any he’d come across before, but it also had more than seven leaves. Not even eight, but nine of them. Going by the pattern, and seeing as there were nine... wouldn’t that be worth over 65,000 Prima Credits? That was a serious amount for one treasure.
+
+It wasn’t even a question what Jake would do next as he reached out and put a hand on the flower, ready to face whatever challenge it would cook up for him. As with every other time besides the three-leafed one, his vision shifted as he found himself in a new space, and as soon as he did, he felt something.
+
+From behind, a familiar, powerful aura washed over him. One capable of giving him pause, surpassing both the Behemoth and Archfiend by a noticeable margin. Jake slowly turned his head as the person spoke in a casual tone.
+
+“How coincidental to run into you here.”

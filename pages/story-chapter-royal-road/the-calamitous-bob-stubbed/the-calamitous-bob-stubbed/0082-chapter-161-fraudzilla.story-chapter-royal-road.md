@@ -1,0 +1,547 @@
+---
+id: 36260cf8-a169-5b35-841e-e5ff777ec854
+page-type-slug: story-chapter-royal-road
+title: "Chapter 161: Fraudzilla"
+slug: 0082-chapter-161-fraudzilla
+partOf: the-calamitous-bob-stubbed
+position: 82
+ownLength: 5487
+unit: words
+ownProgress: 5487
+publishedAt: 2024-04-19
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1602548/chapter-161-fraudzilla"
+royalRoadId: "1602548"
+markedReadAt: "2026-06-29T21:17:38.474Z"
+---
+
+Viv’s enthusiasm lasted as long as it took to take a second look at Turbodzilla. The creature was really, really, really too close for comfort. It wasn’t a couple meters away but everywhere was too close when the thing was the size of a building.
+
+“Ok, back off.”
+
+“Not me. I am going,” Solar declared without even looking at Viv. The large man unsheathed his blade and stalked forward with sure steps. It was an enchanted, Claymore-sized piece, the kind absolutely no one sane should have lent to anybody else but that was Solar for you.
+
+Brick about faced while Viv jumped in the piloting seat of the shield array, pulling it back. She cast a glance at the confident heavy, just a little curious.
+
+[Harrakan Imperial Guard, fourth step. Not very dangerous. Defensive melee expert. Formation fighter expert. Nemeti Killer. Undead bane. THE BRICK: will amplify friendly aura and negate hostile effect of any level through the power of unerring conviction.]
+
+“Gods, I’ll need to have her carry a big flag on her back. Solfis, make a note of it.”
+
+//I am not your secretary.
+
+“Pretty please.”
+
+//This is for the sake of Harrak.
+
+//I will comply.
+
+Viv had to stop the tank because her men were rushing past her to pick their discarded pieces of equipment with various degrees of shame, anger, and confusion. They also smelled a bit of piss which was unfortunate but not exactly surprising. The second reason Viv stopped was that Lak-Tak was frantically urging her off his spot. The Harrakan line reformed just in time to retreat, in good order this time. In front of them, the Nemeti avatar was advancing with the ponderous confidence of a creature fated to succeed. It seemed that Viv’s ability to cheat fate was once again working as the Paramese alliance was slowly recovering, regiment by regiment, in an expanding circle.
+
+Some of the knights were already charging.
+
+Viv watched them, utterly flabbergasted. Long range archers released entire volleys without prompt since the monster was hard to miss anyway. A cloud of projectiles gathered around it like a halo. For the first time since materializing, it stopped slowly plodding forward.
+
+With surprising speed considering its size, the beast pushed itself upward until it stood on two hind legs. Its front paws accelerated on a collision course.
+
+“Shit. Shield to sound enchantment. Sound!” Viv screamed in her communicator.
+
+To her right, Sidjin’s shield activated immediately. For a moment, it looked like Lana wasn’t going to make it but the opaque hemisphere rose just in time.
+
+KSH!
+
+The beast clapped, the shockwave visible with the naked eye. All the arrows and spears were pulverized in an instant, then the explosion traveled outward. The knights and their horses fell. Thousands of men stumbled back. Only Viv’s formation was spared the worst of the damage.
+
+If Hera ever slapped Zeus, it must have sounded like that.
+
+“Fuck I think those knights’ heads exploded.”
+
+//As I suspected, a powerful area-of-effect ability.
+
+//My frame should be able to resist it.
+
+//I will provide assistance to Solar.
+
+And the golem was off towards the mighty warrior. Of course, that fucker had cut the shockwave in two in front of him because why not. Now he was just walking with the blade bare by his side like some Akira Kurosawa character. It was fine. Viv still had a mighty protector.
+
+When are we going?
+
+“You’re impatient to just go fight that off without a plan?”
+
+Yes?
+
+Scales look valuable.
+
+“I am surrounded by lunatics.”
+
+Mages were the next to attempt to break the beast. This time, it let the attacks pepper its hide without much apparent result. Artillery spell exploded and it did slow down but otherwise, the scales were intact.
+
+Viv focused. There was something there, she could feel it. A sort of vibration. She couldn’t quite put her finger on it but her instincts told her that was important and they tended to be useful when the sake of the continent hung in the balance. It wasn’t normal mana.
+
+Oh.
+
+“Tell me Arthur, that big thing over there, wouldn’t it happen to have strands of fate connecting it to something else?”
+
+It has many strands!
+
+Going all around it.
+
+Of course. She’d been so obsessed with the avatar, she’d almost forgotten what had brought it here.
+
+“It's touching the kneeling Nemeti, the ones who are praying, right?”
+
+Of course!
+
+Else, how would it stay there?
+
+“Right. Ban, take the troops around the avatar and kill the Nemeti. All of them, yes. The mages will stay.”
+
+Viv backed up again, mostly because the creature kept walking. While the Harrakans marched south at full speed around the avatar, Viv watched Solar engage it, soon backed by Solfis. He was not alone either. The generals were no fools, they understood that only the most elite fighters could hope to survive that shockwave and so champions gathered to fight. An elite archer, a guy with a spear, she also recognized the crimson-armored champion of the Order of the White Orchard. Edwin Milderry was also charging down the slope with his stupidly large sword trailing behind him. Viv imagined the Enorian monster hunter duke must have been waiting for that moment since the war began. Now, he finally had a perfect target for his path. For a moment, she believed the avatar would simply keep going or clap again, but then, Solar struck.
+
+The slice came like thunder on a blue sky. So far, every projectile the Paramese could muster had left the creature unfazed. Solar’s attack rang like a chime across the battlefield. A thin hairline fracture spread on the creature’s face, just between the jaw and the nose. The avatar paused. Viv had to use a lens enchantment to see the damage but it was enough.
+
+The beast could bleed. Bright red, in fact. It put its colossal weight on its hind paws. The ground cracked under the clawed appendages and it pounced. Solar dove and sliced under it and the beast turned to follow, bloodied at last. The battle was joined.
+
+“Ok, it’s no longer going towards us. Time for an array.”
+
+Under Sidjin’s direction, all four archmages carved a large hex circle designed for the express purpose of overcharging Viv. Soon, reinforcements came. Baranese mages wearing different tabards.
+
+“Jaratalassi sent us!” an old man explained as he picked up on the design in an instant. “Slave to master array? Really?”
+
+“Trust us, trust her,” Sidjin replied without looking up.
+
+More and more casters sprinted or flew her way while the Paramese army split in two to avoid the central conflict and reach the Nemeti as they kneeled exposed. The various mage orders had realized that only their largest constructs could hope to dent to avatar, and they worked hastily to build them.
+
+Viv focused on the inner part of the circle, the casting one rather than the feeding one. Arthur stamped her feet at her side.
+
+Mother!
+
+I want to gooooo.
+
+But I don’t want to leave you.
+
+“Can you defend yourself against this thing?”
+
+Of course!
+
+Air shield for sound, wings, and gates.
+
+I can do it all.
+
+“Then you can go.”
+
+This is not what worries me!
+
+“Sorry, Arthur, I need to focus on this.”
+
+Fine.
+
+Viv added the finishing touch, then she had to wait because more people were plugging themselves into the circle, mostly court casters serving smaller lords. She activated the runes for hyperbeam and waited, the runes rotating in front of her chest where her physical core was. The circle helped stabilize the array and charge it more, then more, then more to a degree the original spell never intended. Power flooded in from casters and the reserves their focus still held. It filled the inner circle, converted to black mana by Viv and her spell. All the time, she kept an eye on the creature but it was too busy fighting the many ants gnawing at its heels.
+
+It was weird how incomplete the avatar felt. There was so much wrong with it, so much that it should be doing. As more power gathered around Viv, her vision obscured. Colors bled out of the air until everything was monochrome and so very sharp. She couldn’t see fate but knowing it was there, the part of her that related to the soul perceived a loss, a handicap more damning than missing several senses. The Avatar should have been destiny marching over the infidels. Instead, it was just a mask, a husk with the appearance but not the substance of inevitability. Viv highly suspected… she’d broken it by simply existing. According to the logic of Nyil, she shouldn’t be here at all to begin with and without the power of Emeric, she shouldn’t have so much impact… but she was here and she was blessed with luck, and predestination served her to make her life interesting. The Nemeti relied on a power that was never meant to be used, only managed.
+
+If that was true, no wonder the Nemeti were desperately trying to off her.
+
+While Viv’s mind was overwhelmed with impressions, the spell reached a paroxysm. Saturated energies manifested as black, dancing forms around her. She pushed because she could absorb a little more energy. Just a little more. There was just so much of it. It was practically solid and so very beautiful. So impossibly so, the ability to bend the world. A blessing.
+
+“V… Viv! The circle!”
+
+The construct moaned. Terror filled the eyes of the mages around her. They didn’t trust her. That was fine. There was enough here to do what must be done.
+
+“Hyperbeam.”
+
+The world went gray. A rift now linked the space in front of Viv to the space inside of the avatar, a rift where nothing was allowed to exist. The hex silenced the entire battle, forcing the two sides apart. It didn’t land perfectly because fate was not yet written, but it landed well enough because Viv had practiced for such a moment.
+
+Colors reestablished themselves. Even Solar hovered at a distance, uncertain. Viv held her breath.
+
+Flesh and scales slowly peeled off the beast’s torso in the following second, cleanly shorn. Blood spurted like a cascade from the ghastly wound. A great crimson torrent stained the golden hide and the intact scale in a dripping blasphemy. The hit was devastating. Even a creature that size must have felt it.
+
+The beast howled, painfully so. Its cry was the echoed cry of outrage of a thousand reptilian throats, and a nail on the thin fabric of causality, a grating sensation that this shouldn’t be happening.
+
+“Fuck you, it should be happening,” Viv said with triumph.
+
+It glared at her. The creature ignored wounds dug by elites in its flanks as it turned its gigantic body aside, its full attention dedicated to Viv. She felt the overwhelming weight of the rage of an empire directed solely at her. Then, the creature charged her down. Really quickly.
+
+“Oh shit.”
+
+THAT was what worried me.
+
+Quick, mother!
+
+Climb!
+
+On the one hand, she could probably shadow walk away.
+
+On the other hand, the rest of the mages might be on the path, her side could use the distraction, and this was the second time in her damn life she could do some offensive dragon riding. It wasn’t really a choice, was it?
+
+“Let’s fly!”
+
+“SKRAAAAAA!”
+
+Viv jumped on Arthur’s back, then she hung on for dear life because the dragon used wind mana to accelerate like a jet, her wings fully open to catch as much as that sweet upstream as possible. Air pressure pulled Viv’s lips back from her teeth in a rather embarrassing display but at least it got her away from the creature. The monster stopped, inertia carrying it tens of meters forward in a shower of upturned soil and collapsing boulders. A drill-sized hand plunged into the earth, tore it off, and threw a veritable landslide at the flying pair.
+
+“Gate?”
+
+Cover me!
+
+Viv raised a transparent shield to stop blunt attacks. The first gravel pinged off harmlessly. Larger boulder coming in. Cut it with a net.
+
+The next was a fucking handball field.
+
+“Arthuuuur!”
+
+Air then air but less crowded. Arthur banked down while behind them, an uphill explosion swallowed where they’d been. That would have been difficult to block.
+
+Time for vengeance!
+
+Fly by!
+
+Arthur roared and dove hard. Viv prepared a thick artillery spell and waited. The dragoness was the first to strike, vomiting thick fire on the back of the beleaguered avatar. The beast turned to strike at Solar who had landed a few good hits, then it tried to unlatch Milderry who’d somehow planted himself sword first in its leg. The fire and spell combo rolled on its back, leaving behind blackened scales but not much else to speak of.
+
+Back, strongly armored.
+
+“I noticed, but I’m not sure we should —”
+
+Fly between legs!
+
+“BEHIND YOU!”
+
+A maw, open and filled with serrated teeth.
+
+It took the pair everything to veer off, both gray mana, aerodynamics, and enough telekinesis to give Viv a headache. The avatar had risen on its leg and taken a tentative bite at the pair. Only collaboration saved them here.
+
+Have saliva on my tail.
+
+Ew.
+
+“You wanted to fly against that alone?”
+
+Mother.
+
+It hates you.
+
+Am just keeping you alive.
+
+Focus.
+
+“Damn. Oh it’s throwing stones again!”
+
+Cover!
+
+Viv sent interception spells at stones large enough to level a barn and wondered if this was what her earth friend Gevaudan meant when he used to talk about ‘bullet hell’.
+
+***
+
+The black tide crashed on the side of the Nemeti formation without resistance. The Nemeti merely kneeled and prayed, uncaring about their demise. Ban surveyed them and sneered.
+
+Pathetic.
+
+Blind idiots relying on the leader to save them and carry the fight. Weaklings. He served the ‘empress’ though he remembered her as a hesitant revolutionary so vividly, it was hard to think of her as some bigwig, because it was a national effort. The outlander girl, the dragon girl, the northern mages, the Hallurians, the Hadals, the heavies, even that old tanned cornudon hide masquerading as a person Poacher were part of the effort. They were part of what made Harrak a force to be reckoned with despite being objectively a group of talented rejects on the continent’s ass boil. He hated the Nemeti because they reminded him of him. Before he was given a chance to make a change. Back when any two-bits prince could destroy his life for five silvers per slave. Leaders couldn’t be trusted to achieve everything. Hell, most of them couldn’t be trusted at all. That was why he was the tip of the spear now.
+
+The girl was lucky she had him. He would show her why. No resistance? That was their mistake.
+
+“Spread out. Kill them all. Any of you cunts who slays less than fifty will be scraping shit off chamber pots till seeding.”
+
+“You heard the fucker, get those machetes swinging!” Poacher screeched.
+
+And they went to work.
+
+***
+
+Up and down, to the side. Viv and Arthur focused on defense and speed, forcing the avatar to fling ever more earth at them to hope to catch them. The ground around it was looking like a moon landing by now, and many of the elites were retreating, bleeding, or dead. Param was running out of options quickly and the gaping wounds covering the beast’s body didn’t seem to hinder it in the slightest.
+
+“Another run!”
+
+Viv didn’t know what else to do.
+
+Between legs!
+
+“Okay.”
+
+Arthur accelerated to a speed that forced Viv to shield her face or be blinded. They closed in under another shower of rocks, Viv preparing an Excalibur. The pair raked the beast’s underbelly with fire and slicing hunger.
+
+“Dodge!”
+
+The time, a tail slap missed them by a handspan. Viv’s ears rang from the shock and Arthur shook. They managed to recover before being caught again. Solar used the opening to slice a finger off while Solfis tore at its open gashes.
+
+“How much can this thing… oh.”
+
+The damage was spreading.
+
+Finally, after all this effort, the avatar was slowly coming apart at the seams. The explanation was not just the wounds but the wave of soldiers rolling over the praying Nemeti from all sides, executing them where they stood. With the power sustaining it being literally cut down, the avatar could no longer fully maintain its presence. Its scales grew less opaque, its blood evaporated. The physical shell slowed down, which Solar used to attempt a decapitation, failing when it was blocked by a paw.
+
+Viv had concerns.
+
+The Nemeti had proven to be as tenacious as they were vindictive, killing themselves to call for a creature capable of reversing the tide of battle. There had to be more aaaaand here it was.
+
+The creature coiled on itself like a cat, or an ouroboros, head resting over its tail. Its defenseless posture should have been enough to allow Solar and the others a killing blow, yet the bleeding essence acted as a shield while the avatar turned from walking disaster to symbol. Power gathered in its center until it was visible as a shimmer in the air. For the Nemeti, that thing must have shone like the sun.
+
+“Another pass!”
+
+I cannot get close.
+
+Too much fate mana.
+
+It could be enough to undo even me!
+
+“We need to stop that thing.”
+
+Cannot get close.
+
+Need some dispersal.
+
+More mana.
+
+“Spells?”
+
+Any mana.
+
+“Get me close to Solar first.”
+
+The pair landed next to the sword saint and the quickly assembling elites. Most of the archers were still there, though their quivers looked empty. Concerned glances betrayed the desperation behind their stoic postures.
+
+“We need mana-charged attacks to disrupt the spell before it finishes gathering.”
+
+“We can do that but you’d better get the mages,” a northern blade dancer told her.
+
+“They’re next.”
+
+“Where should we focus our attacks?” Solar asked with urgency.
+
+“The head, it’s always the damn head,” Duke Milderry spat.
+
+Everyone looked at him.
+
+“What? I’m a monster hunter. That’s a big monster. Get the damn head.”
+
+“We’ll try, then what?”
+
+“I have a finisher spell,” Viv said. “It’s fairly short range, very risky but since the thing is not moving anymore…”
+
+“You can’t get close?”
+
+“Too much fate mana. You will feel it if you get near.”
+
+By that we mean, you will be unmade.
+
+Arthur’s declaration was received in stupefied silence.
+
+I am serious.
+
+It will be your fate not to exist anymore.
+
+“I’d better get going because I feel like this will be all of our fates if that thing goes off,” Viv said.
+
+Arthur crossed the distance back to the Paramese lines at great speed, though by that time they were thin from the bulk of the forces finishing off the Nemeti. She first aimed for the circle where Sidjin still stood, but then reconsidered and made for the command group still monitoring the situation at the back. Arthur landed near Jaratalassi under the absolutely shocked gaze of the assembled strategists.
+
+“Is she… is she riding a dragon?”
+
+“By all the gods…”
+
+“Now’s not the time to be amazed,” Viv reproached. “General, we need mana tossed at that thing, specifically the head. Any mana. Spells, anything, doesn’t matter. It will disrupt its working.”
+
+“Understood, but will it stop it?”
+
+“I’ll stop it alright, I just need an opening.”
+
+“You will have it. Get ready.”
+
+Arthur twirled and lifted off in a burst of air that sent papers flying. It was totally unnecessary.
+
+I have been seen with a human on my back.
+
+Mother!
+
+I am disgraced!
+
+Shame eternal!
+
+My bank will lose reputation.
+
+“I’m not a human, remember dear? I’m half-elemental.”
+
+Oh.
+
+Yes.
+
+That is acceptable then.
+
+And also she’d been seen over the skies of Helock but Viv felt it was not the right time to remind her daughter. The order coursed through the spread out Paramese alliance like a thunderbolt. The mages returned to casting with overwhelming fury, unleashing everything they had but the rest of the soldiers were closing the distance at a dead sprint and Viv realized why. Hybrid casters and ranged soldiers stopped where they were comfortable and attacked as well, then the soldiers themselves threw pebble-sized balls of fire, or fistfuls of rocks, or sprays of water in the general direction of the spell. Individually, they were droplets but there were tens of thousands of people and the newly manifested mana pushed the spent one forward. A nimbus of color formed around the resting form of the avatar like a lenticular cloud over a lone mountain and the alien mana was pushed up and away. The beast stirred but it was not enough.
+
+“Get me closer.”
+
+Viv started casting. It would be difficult. Very difficult. She’d never tried that spell while moving and she knew it was hard to maintain but there was no choice. Already, the shimmer was turning into a radiance and the closest soldiers had to run away, armor eaten away to nothingness.
+
+“Come on come on come on. Ok, dear, we’re going to fly by and I’ll drop from your back, okay? Please trust me.”
+
+“Squee?”
+
+“I know you’re worried. I’ll be fine, I promise. I have a plan.”
+
+The avatar was shaking now, shaking and disintegrating, but the spell was going to go off. She could feel it. They might be too late.
+
+If they were caught…
+
+“I have to go in now.”
+
+You won’t make it!
+
+“Maybe I will! No choice! Go!”
+
+Arthur dove but Viv could read the mana on the wall. They were not going to make it.
+
+And then she saw a form sprint through the deleterious aura. It was Milderry. Even though the fate concentration was thinner, parts of him were already blinking out.
+
+“You old—”
+
+“Have to show you young fuckers how to do everything!” the old monster hunter roared.
+
+His disappearing silhouette jumped, massive sword held high. It didn’t last long, but it lasted long enough.
+
+His massive weapon smashed into the avatar’s left eye, carving it like a melon. Blood and humor poured freely from the devastating wound. For the first time since casting the spell, the avatar reacted. Its head lashed out. The spell shook and fell apart at the seams but it was still strong enough to kill them all.
+
+But that was all Viv needed.
+
+Letting herself fall, she dove right at the avatar. The beast saw her with its one remaining orb. It opened its maw wide to receive the offering. Viv waited for the very last instant.
+
+“Aspect of the destroyer.”
+
+It hurt when Viv went from terminal velocity to no velocity at all. Something cracked and she tasted blood but it didn’t hurt as much as the jaws would have, snapping in front of her nose. The anchors on her shoulder blades strained but they held.
+
+“You missed.”
+
+All her remaining power flooded her conduits until they disgorged mana into the one spell she’d been casting all that time. It was much easier than expected. Perhaps it made sense since she was doing exactly what her aspect was expected to do. Excalibur blades bloomed in a full circle like flowers in front of her, then their cruel tips curved inward to form a ball encompassing most of the avatar’s head. She couldn’t really read reptilian expressions but the thing certainly looked surprised.
+
+“Guillotine.”
+
+The blades snapped shut.
+
+Nyil hiccupped.
+
+Viv swallowed a curse. She was forcefully unanchored, then pushed out, all spells dissipating. The concentration of mana of all sorts at the same place dispersed now that an overwhelming will was no longer here to gather it in one place. There was so much of it that it acted like a wind, buffeting her until she was forced to crash at a distance. The blow stole her breath. A sharp pain lanced through her body, strained as it was by her earlier sudden stop.
+
+“I’m just going to stay here for a minute…” she mumbled to herself.
+
+Arthur landed by her side and they watched the enfolding scene alone with the soldiers far in the back. The coiled form of the avatar dissipated, fading scales returning to nothingness. The vivid blood turned to transparent watery ichor and then to nothing. Even the bones underneath turned to ash. It was not the decay of death but an undoing, a bad dream fading with the morning light.
+
+My loooot.
+
+“Hush, we’re having a moment!” Viv complained.
+
+Anyway, yeah. Pretty awe-inspiring. The disappearance continued until all that was left was a broken skull stabbed through by a corroded great sword. The piece shone strangely in her sights. All that remained of Edwin Milderry, Enorian Duke of Green Edge and monster slayer extraordinaire. Viv approached it, then stopped.
+
+“Should we… bring it back to Green Edge?” she asked no one in particular.
+
+“I don’t think it will work,” Solar replied. “Look again.”
+
+In Nyil parlance, that meant use inspection. So she did.
+
+[Artifact. Duke Milderry’s parting gift. A god with a plan. A man with a claymore.]
+
+“I don’t think he wants to leave,” Solar whispered.
+
+“So it is. May Enttiku carry your soul and may Neriad watch her back, you old bastard.”
+
+Viv prayed to the two gods a bit. She was joined by a general sense of piety from the armies surrounding the remains, all humbled for having witnessed the death of an avatar and the making of an artifact. It was a good one too, and most could sense the old monster hunter had saved everyone’s ass.
+
+Viv breathed out.
+
+They’d done it.
+
+***
+
+All that was left was the mop up. It took a while longer for the Nemeti to finish dying, after which Jaratalassi organized the official looting of them and their camp. The creatures kept little iron and shared a disinterest for wealth, but a camp that size was bound to have some good stuff, Viv hoped. She was unceremoniously dropped by Arthur and decided to help with the sick instead. The avatar’s mana explosion had left thousands of men sick with mana poisoning and she was capable of pulling foreign mana out, though she couldn’t use it for her own. That made her invaluable in saving the most critical patients.
+
+The Harrakans returned with pride but a somewhat frozen expression late in the evening, with Viv welcoming them at the gates. The Knights of the Blue Roses were part of the formation with the need for knightly unity over and offensive poetry back on the menu. Rollo and Ban shared in low voices that slaughtering the defenseless Nemeti had made them uncomfortable. Even as alien as they were, there was something fundamentally upsetting about slitting the throat of a defenseless creature. In a way, Viv was happy they had that much humanity left after the four days of hell they’d been through. She used a brief lull between a victory dinner and the inevitable council to check her progress.
+
+Willpower +1
+
+Always good. She was now at the middle of the fifth tier, something at the upper limit of human capabilities. It would help her last longer in a fight and get one step closer to the level of Elunath at his strongest. Only hopefully without the hubris.
+
+Acuity reflex: Intermediate 8
+
+That reaction speed had allowed her to stop the deadliest projectiles. Many of her skills were on the verge of the expert level. That was how she got the draconic intimidation skill so she had high hopes.
+
+Leadership: Intermediate 8
+
+Speaking of.
+
+And that was it. Not much for stopping this sort of threat, she thought, but the second of four aspects was a powerful game changer and, if she had to be honest, she lacked the foundation to progress much farther. It was always the same here. Practice, prepare, then reap the benefits. She was already very lucky, no need to push it. Even the aspect thing felt very timely. She suspected this brave old Nous had tilted the balance in her favor, helping her along so she could rise up to the occasion. The Nemeti were not exactly conducive to the development of civilization in Param, after all.
+
+So, that confirmed it, there were other gods. Probably a great many. She wondered if pantheons interacted with each other in that city of theirs. She wondered if they warred.
+
+Perhaps there was a dragon god. She might ask Arthur but… maybe she wouldn’t like the answer.
+
+“My love! Food!” Sidjin called.
+
+“Coming!”
+
+***
+
+By the time the closing meeting happened, troops were already departing the field on their way back home, even at night. Most others were celebrating a hard day, or hard days, of battle. The mood was festive and a little bewildered, as if they didn’t believe it had come to a close so soon. Inside of the command tent, the general mood was utter relief. Viv also realized that things have changed because, for once in her damn life since coming on that hellhole of a planet, people were happy to see her.
+
+“Your Ladyship!”
+
+“Capital work.”
+
+“A brilliant display.”
+
+“Is it true that the dragon is your adopted daughter? Your daughter? How did you manage such a feat?”
+
+Viv, unwilling to admit that the road to power was paved with scritches and interest rate policy lessons, simply welcomed the compliments with a warm smile. There were handshakes, bows, and nods all around although Viv didn’t bow since she was the boss thank you very much. After that, the generals had a short meeting where it was agreed the strategy had worked exactly as intended until the whole god summoning fuckery, and it was time for booze and canapes.
+
+“Solfis, please make a note that we need an Imperial Chef. It’s time to recruit.”
+
+//Such fleshbag considerations are beneath me.
+
+“You’re a dear.”
+
+//Just get Brick her flag.
+
+Viv mingled along with Sidjin. Even Solfis slinked out to talk to a spy at some point. The people she met would be an excellent point of contact for the next battlefield, and that one would be social. King Sangor was not the most pleased but he accepted her condolences graciously, at least.
+
+“Sorry, you lost a great man here.”
+
+“His sacrifice honors Enoria and the Nyil. The best expression of gratitude will be to make sure Green Edge flourishes again. His domain will become a new center for expeditions in the Deadshield Woods within the next two years. I will personally make sure it is so.”
+
+“Great. Good luck.”
+
+Seeing that the big man was free, Viv ambled towards him.
+
+“Are you sure you don’t want to conquer the continent in a tide of steel and sorcery?” Jaratalassi asked her as he filled his pipe.
+
+“Not my style, and besides, we’re still very small.”
+
+“Hmmm.”
+
+He seemed disappointed.
+
+“You reckon the alliance will acknowledge me as a sovereign nation yet?”
+
+“While it seems they have no choice but to do so, the terms you can get will vary depending on how you leverage your assets. Baran is firmly on your side at least. The king knows the value of superior logistics. So long as you retain a monopoly, you will also retain his full backing.”
+
+“Also because he can piss Sangor off.”
+
+Jaratalassi lit the pipe.
+
+“Welcome to my world.”
+
+After another hour or so, Viv excused herself before someone else subtly inquired about marriage options. The Harrakan camp was now in drinking mode and she roved from group to group, congratulating people then fucking off before things got awkward. She only remembered her poor temple guard and the plagued people later and felt sorry for it. A brisk walk to their camp confirmed they had received all the supplies they needed, at least.
+
+“Everyone brought extra so we had quite a few boxes donated,” an exhausted priestess of Enttiku told her.
+
+“Oh, good.”
+
+“You intend to bring them back to your lands, do you not? They seem to hope for it. Fervently so.”
+
+“Probably. Not like they are welcome anywhere else.”
+
+“Yes, and they seem rather, ah, motivated.”
+
+Viv frowned.
+
+The priestess focused very intently on her sleeve.
+
+Viv stalked into the camp and past a sleepy Lorn holding a small piece of paper with ‘I give up’ written on it. Panic rose in Viv’s throat. The prisoners were singing in low voices near the center of the camp. When she approached, delirious eyes zeroed on her with laser focus. The fuckers had somehow knitted a big banner and on it they had sewn the semblances a very dead fleshy humanoid, a very dead spider, a very dead man in armor, and a very dead Notzilla.
+
+“It’s her! The Godbreaker!”
+
+“What did I fucking tell you?”

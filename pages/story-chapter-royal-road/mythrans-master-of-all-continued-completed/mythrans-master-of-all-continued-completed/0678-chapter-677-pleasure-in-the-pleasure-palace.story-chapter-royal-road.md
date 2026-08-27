@@ -1,0 +1,193 @@
+---
+id: ddf926a3-0563-5fcc-b0da-2fb4a1d9fe03
+page-type-slug: story-chapter-royal-road
+title: "Chapter 677 - Pleasure In The Pleasure Palace"
+slug: 0678-chapter-677-pleasure-in-the-pleasure-palace
+partOf: mythrans-master-of-all-continued-completed
+position: 678
+ownLength: 2947
+unit: words
+publishedAt: 2018-08-22
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/283973/chapter-677-pleasure-in-the-pleasure-palace"
+royalRoadId: "283973"
+---
+
+“He's here.” One of the dancers said as she caught sight of Ugly Ren, and a ripple of emotions ran around the Pleasure Palace. Ugly Ren had a difficult time sorting them out and couldn't tell if they were all happy at his appearance or annoyed that he had arrived earlier than they had expected. He had only been gone for an hour in real time, which meant he had 2 hours of real time left... or 8 hours of game time. There weren't a lot of customers, though. Since it was the middle of the day in real life on a Saturday, there should have been a lot more people.
+
+“The place is looking a bit dead.” Ugly Ren said in his thick gravelly voice as Gina led him across the main part of the club.
+
+Gina closed her eyes and took a shallow breath. Just his voice is making me horny. “The few that are here said they aren't that fussy on amusement park rides.”
+
+“But the parks are closed, ain't they?” Ugly Ren said.
+
+“Most people stayed until it closed and then they left to go to sleep.” Gina said.
+
+“Oh.” Ugly Ren said. I hadn't accounted for that. He thought. “I'm sorry it's cuttin' into yer business, miss. I'll make sure ta tell Ren that he needs to advertise the Pleasure Palace just like he did with the parks.”
+
+“Wh-what?!?” Gina exclaimed.
+
+“Besides that first message sent as an advertisement when ya first opened, the word about this place has been spreading by word of mouth only.” Ugly Ren said. “It's time ta change that, I thinks.”
+
+Gina looked at him with wide eyes. “You're serious?”
+
+“Deadly serious, miss.” Ugly Ren said. “I'm sure Ren will have the flyers ready by the morning and he'll have them distributed by noon, if not sooner.”
+
+“That... that's great news.” Gina said and led him behind the curtain of the main stage, and Ren felt her emotions deepen and strengthen. She took him up the stairs and over to her personal room.
+
+“Miss, I'm not complaining or anything...” Ugly Ren said, and she smiled.
+
+“I could have borrowed one of the work rooms, but I'm not comfortable there.” Gina said and opened the door. “My office would have been suitable if we were role playing; but, I would have had to clean it up and put away all the important work and business documents so they wouldn't be damaged or lost.” She said and shut the door behind them. “Coming here was much easier than doing all of that.”
+
+“Miss, this is your place.” Ugly Ren said as his shoulder pad took off and flew up to land on the ceiling. “I don't want you to think...”
+
+“What the hell is... oh! That's Teepo!” Gina said in relief, then looked at Ugly Ren. “It's my choice to invite whoever I want in here, because it is my own personal space.” She said and equipped a set of Travelling Clothes to replace her work outfit. “Now use those strong and manly hands to tear these old clothes off.”
+
+“You really want that, don't ya?” Ugly Ren growled, and she shivered as she nodded. He looked at the clothing and saw the weak spots in it, smiled his crooked smile and reached out to her. She watched his hands as they gripped her tunic and shirt, then he pulled. The sound of tearing cloth went right through her and made her weak in the knees.
+
+Ugly Ren caught her before she fell and lifted her up. “I think we better move this to the bed, miss.” He said, and she could do nothing except stare at him as he gently laid her down on her bed. He tore off her top the rest of the way and then he touched the soft skin of her abdomen.
+
+Ugly Ren's rough hands were like electric shocks on her skin and she wiggled and tried to fight the pleasure. He grinned at her and showed off his crooked and mismatched teeth. Gina caught her breath as he moved his hands down to her pants. When he gripped the weak spots and pulled, the tearing sound was much louder this time and went right through her.
+
+“Oh, god!” Gina gasped as she had a small orgasm.
+
+Ugly Ren chuckled and she had another small orgasm, and he felt how happy she was. He could also feel her deep need and her longing for release. He tore off the rest of her pants and noticed that she had on a very pretty set of purple panties and looked at her top.
+
+“Ya wore a matched set, just fer me?” Ugly Ren asked, and she nodded wordlessly. “Thank you, miss.” He said and dug a finger from each hand under the edge of the panties. “I'll gladly pay fer the replacements.” He said and pulled.
+
+The panties snapped like a crack of lightning, since they were made of Spider Silk and were very strong, and Gina stared at him with wide eyes and her mouth open. He let the loose fabric lay in place and didn't move it out of the way yet. He slid a hand behind her back and gripped the back of the bra, then slid his fingers between her breasts and grabbed the bra's front.
+
+“You look like you need some breathing room.” Ugly Ren said and pulled. Two more snaps like lightning were heard as her bra popped apart. The shock of having her top removed so efficiently stunned her and her body trembled as she had another small orgasm. “How's that? Better?”
+
+Gina couldn't speak and only nodded several times.
+
+“Don't worry, miss. I'll take good care of ya.” Ugly Ren growled, and then grabbed both of her breasts with his rough hands. Gina cried out in pleasure at just that simple touch, and Ren could feel her emotions. He was successfully pushing all of her buttons, and he had barely even started. “I think yer gonna enjoy this a little.” He said and proceeded to tease and please her with foreplay.
+
+After about 10 minutes, Gina just couldn't take it anymore. Ugly Ren felt this and changed tactics. He stored his own clothing and Gina gasped as she saw all the scars and wound marks on his Full Illusion body, and her hands traced the ones she could reach.
+
+“What's this?” Gina asked as her fingers found 4 long gashes and puncture wounds on his chest.
+
+“Sabretooth Rock Golem.” Ugly Ren said. “Damn near killed me.”
+
+“N-no!” Gina exclaimed.
+
+“It's not the only thing.” Ugly Ren said and took her hand and moved it to the next set of scars. “Dire Wolf.” He said and moved the hand to his side. “Broadsword.”
+
+Gina's heart raced faster and faster as Ugly Ren kept moving her hand all over his body and pointed out all the damage he had ever taken. When he had created the Full Illusion body, he had been inspired to recreate all the wounds he had received, in the hopes that since Gina liked rough and tough men, having battle scars would drive her wild.
+
+It really did.
+
+Gina sat up in a rush and pushed him onto his back violently with a crazy look in her eyes. “Tell me!” She said. “Is it real? Is what you're saying real?” Her fingers slid slightly into the divots where the Sabretooth claws had punctured his chest. “You're not making this up, are you?”
+
+“Gina, it's the truth. All of it.” Ugly Ren growled. “I even have the loot to prove it.”
+
+Gina's hand slid down and made sure he was still hard, then she quickly straddled his waist and sat down. “OH, GOD!” She yelled and collapsed onto him. “Oh, god! Oh god, oh god.” She kept muttering as she started to move. “I can't... can't believe...” She opened her eyes and sat up so she could move better. “Such a... big strong man!” She said. “Tell me what other monsters you've faced!”
+
+Ugly Ren started to give her the list of creatures he had fought, and her movements sped up as she became more excited. He felt her approach the finish point and decided to mention the biggest creature he had ever defeated.
+
+“I've even killed a giant flying Abyssal Terror.” Ugly Ren said in a deep gravelly voice, and Gina's body gripped him so hard that he thought she was going to tear it off.
+
+“AHHHHH!” Gina and Ugly Ren yelled together as they both finished, and she collapsed on top of him again and hugged him tightly. Ugly Ren felt tears on his shoulder and he hugged her back. They held each other for several minutes and Gina's breath evened out as she calmed down.
+
+“I... I'm a horrible person.” Gina said.
+
+“No, you aren't.” Ugly Ren said.
+
+“I am.” Gina propped herself up on her elbows on his chest. “I judged you for your looks alone and I didn't even think about... or even consider... what you had to go through...”
+
+“It's all right.” Ugly Ren said. “You have a type that just does it for you.” He said. “You like rugged men. There's nothing wrong with that.”
+
+“But, I... I could have already met someone that... if I wasn't so picky on looks...”
+
+“Even if you had found someone like that, if you're not attracted to them or they don't get you excited, then any feats of strength they may have done won't matter.” Ugly Ren said and wiped her face off with a piece of cloth. “There has to be something there to cause a good spark at the first, or you're just wasting your time.”
+
+“Like with Ren.” Gina said. “Even though he's so nice and cute...”
+
+“It's not your fault that cute and cuddly is not your type.”
+
+“I didn't say he was cuddly.” Gina smiled.
+
+“No, I did.” Ugly Ren said, and she chuckled. “I told you before I was banned that if you hadn't found someone in a month, someone that came close to what you were looking for, I would have no problem being that person until you do find someone.”
+
+“I... but... you...”
+
+“For this hour, I will be exactly what you want, Gina.”
+
+Gina blinked her eyes for a moment. “D-did you say h-hour?”
+
+“If my count is correct, we've got at least 25 more minutes.” Ugly Ren said and rolled her over to put her on the bottom. Since they were still joined together, it made her yip in surprise and writhe in pleasure. “I don't intend to let ya waste another moment being sorry that ya like what you like.” He ran his hands down her thighs and gripped her backside tightly, which made her gasp, then he shocked her as he pleasured her as hard and as fast as she could stand.
+
+When Gina finished for the fourth time and was pretty much just riding the waves of pleasure, Ugly Ren lifted her up so that she sat in his lap with her arms and legs wrapped around him. She stared into his different colored eyes as he stared back at her and kept moving. Only a few moments passed and he felt that she was ready again.
+
+Ugly Ren pulled her down hard one last time and finished inside of her, which made her finish once more. Neither of them cried out this time, since they were both well past the point of surprise about what was happening between them and what the other could do with their body. They sat there and held each other for several more minutes, without speaking, and gazed into each other's eyes.
+
+“This is such a wonderful dream.” Gina whispered softly and kissed him.
+
+Ugly Ren felt all of her emotions as she opened herself up to him. He felt her regret that she was so picky, felt her berate herself for that, then she admonished herself for enjoying and wallowing in the lie in front of her.
+
+Ugly Ren broke the kiss and scowled. “No, don't do that.” He snapped at her, and she took in a sharp breath.
+
+“Wh-what?”
+
+“You are a good woman. You don't have to feel bad that you like feeling good.”
+
+“But...”
+
+“If you start feeling guilty about this, just pretend that I'm one of the vibrators you use.”
+
+Gina caught her breath. “H-how do you...” She clamped her mouth shut and sighed.
+
+“You're a strong healthy woman and you know what you want.” Ugly Ren growled and stopped frowning as he slid one of his hands up her back to make her shiver. “You're having trouble getting what you want, so you need to compensate for that somehow.”
+
+“Ren, it's almost time.” Teepo said from the ceiling.
+
+“Miss, it's time for me ta go.” Ugly Ren said and carefully lifted her up and off of him. Gina gasped at the feeling of loss, and then she gasped again when he knelt her on the bed and she saw that he was still rock hard.
+
+“Before ya start ta question it, it's not an illusion.” Ugly Ren said. “It's just as real as the creatures I've beaten.”
+
+“But... but...”
+
+“I can go for hours and not have to stop, miss.” Ugly Ren said, and he felt her utter shock. “Maybe next time ya can give it a bit of a lick or two.” He said and started to move back and off the bed.
+
+“W-wait!” Gina said as she lunged forward and grabbed it with her hand to stop him. “H-how fast...”
+
+“I can finish right now if'n ya want.” Ugly Ren growled.
+
+“You have that much control?” Gina asked in surprise as she looked up at him. Her lunge had made her lay prone on the bed and Ren had one foot on the floor and a knee on the bed, which presented his nether region to her completely.
+
+“Most times.” Ugly Ren said. “Sometimes it does get a mind of it's own, though.”
+
+Gina took a breath and let it out as she looked at it. “What... what's it thinking now?”
+
+“That you have a pretty mouth.” Ugly Ren said in his deep gravelly voice without hesitation, and she shivered.
+
+“S-sixty seconds.” Gina said and glanced up at his face. “Give me one more minute.”
+
+Ugly Ren gave her a big crooked grin and a slight nod, and she went to work. He almost didn't make it. Gina turned out to be very skilled with her lips and tongue, and he had to fight his reactions so that he wouldn't finish right away. Gina had felt this of course, and she worked him over even harder. When the minute was up, he finished for her. As the taste hit her tongue her whole body convulsed in pleasure and she finished as well.
+
+Gina moaned, which was kind of a weakness for him and he really enjoyed it, so he kept going. She didn't let go for almost 30 seconds, then she rolled over onto her back to lay on the bed. Her emotions made Ren think that she was like a cat that had just caught, and ate, the canary.
+
+“Oh... my... god.” Gina breathed out as she gazed up at Ugly Ren in astonishment.
+
+“That's time.” Teepo the shoulder pad said and flew down to land on Ugly Ren's shoulder.
+
+Ugly Ren equipped his Travelling Clothes to clean up. “You made me fight to last the full minute, miss.” He grinned at her and took out 2 coins. He carefully balanced one on the tip of her left breast, then put the other one on the tip of her right breast. “Ya surprised me, miss.” He said and bent over to give her an upside down kiss.
+
+Gina was shocked that he would do that after what she just did to him.
+
+Ugly Ren broke the kiss and stood up straight. “See ya later.” He said and left the bedroom.
+
+*
+
+“You surprised me, too.” Gina said and touched her lips with her fingers. One of the coins slid off her breast and fell to the bed, so she grabbed the other one before it could and rolled to her side to grab the one that fell. When she saw the dragon head on the platinum coin, she stopped breathing and looked at the coin she held in her hand and saw the same dragon head.
+
+“N-no, he... he didn't!” Gina said and equipped her working outfit, hopped off the bed and ran out of her bedroom. “Where...” She ran to the stairs to go down to the main floor and stopped at the curtain behind the main stage. She took a breath and stepped through so that she wouldn't cause a scene and looked around. She couldn't see him, so she walked over to the closest dancer that she could see that wasn't busy.
+
+“Where is...”
+
+“Jennifer took him.” Caramel said and pointed to Jennifer's work room. “She practically threw him through the door, to be honest.” She laughed. “The poor girl has been chomping at the bit since she found out he was here.”
+
+“I guess she would be.” Gina said, her need to find him slightly subdued.
+
+“I did hear him shout that he only had 30 minutes to spare before the door shut.” Caramel said. “I wonder why? We're open all night.”
+
+Gina opened her mouth to say she didn't know, then slid the two platinum coins into her coin pouch. “I'm sure he has his reasons.” She said and smiled, then walked over to her post by the door.

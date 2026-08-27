@@ -1,0 +1,409 @@
+---
+id: 53c53a0e-9647-5178-8451-6c6c238cffa0
+page-type-slug: story-chapter-royal-road
+title: "FORTY-THREE: The Grass"
+slug: 0043-forty-three-the-grass
+partOf: super-supportive
+position: 43
+ownLength: 5467
+unit: words
+publishedAt: 2023-06-11
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1242366/forty-three-the-grass"
+royalRoadId: "1242366"
+---
+
+Alden left Elepta Farm carrying only the few things he’d brought with him from LeafSong, a pair of the irrigation sticks, and the case with the bomb in it.
+
+The sticks were Thenn-ar’s suggestion. “For water.”
+
+Alden assumed they were meant to be a backup of some kind in case the lab’s water supply failed. They didn’t look like much—just plasticky pipes with dome-shaped sprinkler heads on top—but he held onto them like they were precious.
+
+He’d taken the bomb just because he wanted to. A childish impulse maybe, to prove that he wasn’t helpless. How could you be helpless when you had a big magic bomb?
+
+For all I know, it’ll blow up the second one of the chaos bugs touches it, he chided himself. This is dumb.
+
+But if the case could hold a high powered magic bomb, then maybe it could offer a little protection from the bugs. And maybe if a dumb thing was what kept Alden moving forward, then it had some value. Because he really felt like sitting down and waiting for the rescue he knew wasn’t going to arrive.
+
+He’d even considered eating the shard of Stuart’s foot bone, just in case some kind of salvation was going to come in that form.
+
+But he thought the most likely outcome would be nothing. The second most likely would be him passing out like he had that time he’d met Gorgon’s eyes, which would leave him vulnerable to the environment. And the third most likely was that he’d just pass whatever Gorgon had done to him on to Stuart. Which wouldn’t have any positives for Alden and would make the other guy think he was crazy when the gremlin took up residence.
+
+The other possibilities ranged from instant death to triggering a helpful magical experience of some kind, but Alden knew so little it would just be a dice roll.
+
+So, instead, he held the handle of the bomb case tightly. He’d let the putty mold around the hand with the case in it, and when his skill kicked in, it froze into a perfect finger-shaped grip.
+
+He found the path the armored car had taken through the grass easily. The long yellowish blades had all been flattened by the multiple trips the vehicle had made to and from the lab over the past days. It probably had an auto navigation feature of some kind, since it looked like it had traveled the exact same route every day.
+
+It’s almost a road, Alden told himself. Very convenient. I won’t get lost in the grass this way, and at least I can see a little.
+
+He wouldn’t be able to see well enough, though. The crushed stalks were only the width of the vehicle. Any of the demon specks that changed direction quickly would still be able to blindside him by appearing out of the  hip-high grass on either side.
+
+Fast or slow? Alden wondered, starting at the path before him. Fast would get him to the relative safety of the lab sooner, maybe before the numbers of the chaos bugs became too overwhelming. But slow might help him avoid crashing into them.
+
+He didn’t want to find out how well being an Avowed was really going to protect him from something that had killed Joe’s assistants so easily. Thenn-ar didn’t seem like someone who would have given him false hope. He had some kind of survival advantage. He just didn’t know how much of one.
+
+Slow, he decided. Slow and careful.
+
+He took a decisive step onto the path of crushed grass and heaved a sigh of relief when nothing terrible happened to him right away. He traveled at a stroll, keeping his eyes wide open, trying to see every flying hazard and anticipate its moves.
+
+A couple of times, his movement trait saved him. Once, he sprang over a patch of crumbled ground instead of turning aside into the grass. Another time, one of the bugs flew at him swiftly and he managed to leap away from it just before it would have touched him.
+
+Are they bugs? Or something else?
+
+They almost all seemed to buzz like bugs, though Alden only rarely caught a glimpse of a blur around them that he thought might be wings. Thenn-ar had shown him a graph of the life cycle of something that looked like a pretty normal locust, and she’d gone on at length about them. But Alden wasn’t sure if that was a metaphor to explain what the demons were like, or if it was actually what they were.
+
+Maybe high chaos levels change the bugs that naturally live here? And they turn into this?
+
+It was just a guess. So much of what he thought right now was just a guess. He hated it.
+
+He’d been walking for nearly twenty minutes before he finally had his first incident. The black dot shot out of the grass to his right, and though he saw it, he hesitated before trying to dodge. They were getting thicker. He didn’t want to jump out of one’s path into another’s.
+
+It smashed into the sleeve of the lab coat. Alden swore and spun away from it too late. A puff of black ash went up from where it hit, and he held his breath. For all the good that’ll do.
+
+He waited for pain, but he felt none. Pulse throbbing in his ears, he looked down at his arm. He’d already had a few talks with himself about how he was not going to have a freak-out here, in the grasslands, if he took an injury that looked as horrific as the ones he’d seen on the Artonan woman. He wouldn’t lose control until he was somewhere safer.
+
+But such an immense wave of relief washed over him when he saw nothing but a small melted-looking spot on the sleeve of the coat, that he knew he’d been lying to himself. If his arm had turned into a mass of rot and fleshy sawdust, he would have completely lost it.
+
+“You’re the best magic lab coat in the universe,” Alden whispered, staring at the melted patch. “I love you so damn much. I can’t believe I ever criticized anything about you. Joe’s right. You’re gorgeous.”
+
+I swear, when I get home, I’m going to buy another one. Best million dollars I’ve ever spent.
+
+It was also the only million dollars he’d ever spent, but that hardly mattered.
+
+New plan. If we have to take a hit, we take it on the coat.
+
+Up until now, he’d been debating coat vs. preserved putty as the ideal shielding material. He knew his skill could protect things from the demon bugs, since it had protected the girl called Kibby from a flying piece of one, but that had been hard on him. This was better.
+
+He was almost tempted to increase his speed now that he knew the coat worked. But though he was itching to get out of the grass as fast as possible, he resisted. Over the next hour, based on his estimation since he no longer had any way of telling time, he took three more hits on the coat.
+
+Two against his back that he couldn’t possibly have dodged. One more on the side of the hood that he probably could have, if he hadn’t had the hood up. It was so deep it decreased visibility, but Alden thought it could be forgiven since it also prevented tiny demons from drilling into his brain.
+
+They could be friends with you, gremlin.
+
+He was tempted to cast a wordchain just so he could sense the thing complaining about it. He hadn’t felt this alone in a long, long time.
+
+The fifth chaos bug went through the bottom of his foot, exactly as he’d been afraid of from the start. Strangely, he didn’t know where he’d been hit at first.
+
+It wasn’t that the demon’s touch didn’t hurt. It did.
+
+But the hurt wasn’t localized. It wasn’t even pain in the sense of the word he’d always known. It was far more similar to the sensation of his skill being exhausted…only instead of feeling worn out, it was like that invisible part of him was suddenly boiling.
+
+For a few seconds, Alden stood there, gasping and enduring, and then it was over. He felt worse. Unsettled and like he’d been shifted slightly out of some natural alignment.
+
+But he couldn’t feel any injury on his physical body.
+
+He took a step and realized his right foot felt off, like there was something wrong with his shoe. He checked his surroundings, then, dreading what he’d see, he set the irrigators down briefly so that he could lift his foot and look at it.
+
+There was a round hole about the size of a nickel in his shoe, right beneath the ball of his foot. And a patch of sock was missing, too. His skin looked completely unharmed. He poked his exposed foot with a finger.
+
+Feels totally normal, he thought with relief. Good. Go me.
+
+He picked the sprinkler sticks back up and kept walking.
+
+All right, so that’s what happens. It’s a really gross, bordering-on-agonizing sensation. But it doesn’t last long. And I seem okay-ish now that it’s over.
+
+Theories?
+
+Thenn-ar had said Alden might survive because he was an Avowed. So obviously that was the reason for the difference in his reaction to the demon’s touch compared to the assistants’. But why was it different…?
+
+Brushing it off as an, “Avowed are more powerful than regular people!” thing was unsatisfying. If something about himself was going to keep him alive in this mess, then Alden wanted to understand it. So that he could keep doing it. Or do more of it.
+
+He wanted to for-sure survive. Not maybe.
+
+Being an Avowed is better. Why?
+
+Not just being an Avowed. Kibby might be able to live in this demon-infested world, too, according to the scientist. Alden had asked the obvious question about why that was, and he’d gotten the obvious answer.
+
+The girl was a wizard.
+
+“A small wizard,” Thenn-ar had said.
+
+Alden didn’t think she meant size. It seemed more likely that Thenn-ar had been trying to tell him the girl was a weak or inexperienced wizard while working around his limited vocabulary. Alden guessed wizards didn’t have to be born to wizards just like Avowed didn’t have to be born to other Avowed.
+
+So little wizard and me. We might live. Magic—or authority?—offers protection from demons. I’ve heard demons come from chaos dimensions. They are chaos? Or chaos-adjacent? They ooze chaos?
+
+Crap. He wasn’t quite sure. The Artonans were jerks for knowing a problem this bad existed in the universe and not making it a mandatory part of Earth’s elementary school education.
+
+It wasn’t like the knowledge had ever been relevant to his life until this evening, but Alden wasn’t feeling very charitable at the moment.
+
+Assuming ‘chaos’ is even a good translation for what’s happening here, then its opposite is ‘order,’ right? Being a wizard or an Avowed gives you an advantage because…
+
+He was drawing a blank. Being more orderly than regular people wasn’t a particularly solid idea to hold onto.
+
+He stopped walking, waiting for a large group of demon bees to clear the path, and he tried to keep his eyes pealed for incoming threats while pulling every single scrap of information he knew about being an Avowed to the front of his mind.
+
+The best word for it isn’t order, he realized. It’s stability.
+
+“The System told me so itself,” Alden said, surprise and gratitude rushing through him. On top of everything else that had happened, the words had been brushed aside, but they remained in his memory, stored in his own personal Holy-Wow-I-Just-Became-An-Avowed! file.
+
+Everyone was always so hung up on what the Artonans were doing with the Systems. Why did they create them? Why did they offer to share them with other planets? Why did they even want to make Avowed? Why? Why? Why?
+
+It was a Big Mystery.
+
+But around eleven Earth days ago, the System had actually told Alden at least one of its purposes. Outright. Plainly. And so casually that he had assigned it almost no importance.
+
+It was talking about integrating itself with whatever weirdness Gorgon did to me. It was saying the two of them wouldn’t have much trouble getting along with each other because they were similar in some way. How did it put it?
+
+“The presence is exerting a stabilizing effect on your existence, which is also one of my functions.”
+
+So, by becoming an Avowed Alden had been stabilized. And apparently even before that, he’d already been granted additional stability by Gorgon.
+
+And what they stabilized was my existence.
+
+Existence.
+
+It wasn’t something he spent a lot of time thinking about. Part of existing was taking the fact that you did for granted, right?
+
+Avowed weren’t immortal, without a lot of healer intervention, so the System couldn’t have been talking about keeping him alive. It had been talking about…keeping him Alden?
+
+The chaos bugs hit objects or normal people and they changed them. A hole here, a gruesome transformation there. Maybe they were like big reality-altering germs. And as someone who was stabilized—extra stabilized really—Alden wasn’t as easy to alter.
+
+So maybe my most important superpower, in a nasty place like this where chaos exists, is that I’m super good at staying me?
+
+Yesterday, he would have said being extra reality-locked compared to others was the dullest talent he could imagine.
+
+But right now?
+
+“Heck yeah,” he muttered, weaving in between two demons and lifting his bomb up to clear a third. “I don’t need the flashy powers. Give me more of the chaos immunity package, please.”
+
+He wondered if his ability to teleport without as much interference as a B-rank was supposed to feel was somehow related, too.
+
+I need to buy Gorgon more crickets. He seems to like them.
+
+Now all he had to do was figure out how to exist better.
+
+“That’s what it was,” he realized. The demon bees didn’t react any differently when he spoke aloud, so he might as well. “That must have been what I started feeling after I activated the Azure Rabbit trait.”
+
+He’d thought it felt like he'd somehow expanded his own personal space. And several other less-apt descriptions.
+
+“Well, of course I couldn’t wrap my brain around it. Who has language for existing harder than you were a minute ago?”
+
+Probably the Artonans. No wonder Joe couldn’t define the thing he called ‘authority’ or ‘dominion’ properly for a human. Apparently the guy could feel his own position in reality and flex it like a bicep.
+
+So…it’s neat to finally understand it on a deeper level. Now what do I do with it?
+
+Keep the trait active, since it seemed to help. Try to find some other way to expand the personal space sensation more.
+
+“I will get right on that. Eventually.”
+
+For now, he needed to focus more on his walking. The demons were getting thicker.
+
+They became more unavoidable as he went. He got hit by several. Most spattered against the coat. A couple crashed into the bomb case, which took the damage just as well as the coat did fortunately. One went through Alden’s calf, turning an inch-wide section of his jeans into dust, and another smacked off the back of his hand. Both times he had the awful jarring sensation, and then he recovered.
+
+But the second time his trait cut out briefly before wobbling back to its usual functionality.
+
+Careful, careful, he told himself, trying to see and interpret the path of every flying black dot at once. They’re damaging you somehow. Just because you can’t feel where the limit is, that doesn’t mean it’s not there.
+
+The endless grass was starting to change as time passed. It was looking a little ragged in most places. There were lots of rotted, curled, or severed blades.
+
+And a few hours into his journey, Alden started having pay more attention to the ground. There were potholes now. And more of the sandy patches Thenn-ar had told him to watch out for. To his surprise, the ground hadn’t collapsed directly beneath him yet, but once, a hole a couple of feet deep opened up right behind him, like it had just missed its chance to trip him and send him stumbling face first into a demon.
+
+Not dead. Not yet.
+
+He continued on.
+
+A new sound joined the incessant droning at some point. Alden was so intent on staying on his feet and away from the flying hazards, that it might have been going on for ages before he noticed it. And even after he did, he was just so exhausted that it took him a while to register the importance of it.
+
+A high tweeting sound, then a pair of low ones, then some high ones again. Like a confused songbird. He didn’t start paying attention to it until it was pretty loud, and when he finally did…
+
+Oh, he thought. Oh, that’s bad.
+
+It was the whistle he’d gotten from the doctor’s office. It made a slightly different sound every time you blew it.
+
+The kids and their dad didn’t make it to the lab.
+
+They should have. Hours ago. The armored car was fast.
+
+For too long, Alden just stood there, idly ducking and stepping aside whenever he needed to. He tried to tell himself he was analyzing the situation, but he knew that wasn’t it.
+
+He…was afraid to deal with it.
+
+He wasn’t sure what he would find ahead, but he was sure it would be horrible. And it would be hard. And it would be his to handle.
+
+And he wasn’t even handling himself that well right now. He was hanging on by a thread.
+
+I can’t do this. I can’t. I don’t want to try harder than I’m already trying.
+
+A demon bug crashed into his shoulder and fizzled away against whatever protections were made into the coat.
+
+“You coward,” Alden whispered. “Why did you want to be an Avowed anyway?”
+
+He remembered. His own dream felt really distant from him at the moment, though. Dimensions away. And maybe too naive.
+
+So what? You’re just going to leave them in whatever trouble they’re in? You’re not even going to look?
+
+No. That wasn’t it. He couldn’t live with it if he did. Or he didn’t want to be the kind of person who could live with it. One or the other. His motivations were blurrier than he had ever realized.
+
+But at least they were still strong enough, just barely, to make him start moving again.
+
+The car had fallen prey to the unstable ground. A ditch several feet deep had appeared. The car wasn’t stuck in it, but it must have hit it at a wrong angle and a high speed. There was a deep gouge in the ground, and it had rolled once, crushing some of the grass. It lay on its side now. Only one of the shielding devices was still sending out pulses of magic to fry the demons, and since it didn’t make a full dome on its own, the vehicle didn’t really have its protection anymore.
+
+Despite all of that, it looked surprisingly all right. It wasn’t dented or pocked with nearly as much chaos damage as Alden would have expected, given how long it had been out here immobile and vulnerable. It was obviously made of tough stuff.
+
+And the whistle was still chirping every now and then, like someone was playing with it. As he approached, he felt hopeful that it might not be as bad as he’d dreaded.
+
+“Hello?” he called in Artonan, jabbing at the ground ahead of him as hard as he could with the sprinklers, trying to figure out where any soft spots might be. “I walk very slow, but I’m coming!”
+
+The whistle stopped. Had they heard him?
+
+“Hello? This is Alden. The Ryeh-b’t.”
+
+That wasn’t an intelligent thing to say. Who else would be here in this forsaken place, speaking bad Artonan and heading to the lab?
+
+He prodded a spot, and the sprinkler sank way too far into the soil. He worked his way around it carefully. Maybe this was the reason the father and daughters had been sent on their own? Was it an attempt to lighten the heavy vehicle to reduce the chances of this kind of accident?
+
+The magic whistle screeched. Several times. And then it made a deep belching sound that must have been the extra-loud version of its lowest note.
+
+“I’m coming!” Alden said again.
+
+Chirp. Chirp. CHIIIIIRRRRP.
+
+The dad’s not answering.
+
+Normally an adult would answer. Sticking to the whistle felt like a little kid thing to do.
+
+Alden finally crossed through the ditch that had toppled the vehicle and made his way over to it, taking it on faith that if the dirt right below the overturned car could hold the huge chunk of metal, it could hold him, too.
+
+He went around to the front, feeling vulnerable when he had to pass through a thick thatch of uncrushed grass, and peered through the windshield.
+
+Oh. It is as bad as I thought after all.
+
+The car was largely undamaged, but not completely. There was a small puncture in a window, and a large hole was cut through one corner of the roof. Alden couldn’t imagine how that had happened, unless one of the bugs had been unusually potent or unusually massive.
+
+The father and the youngest girl were gone.
+
+He wasn’t sure how they had died, but he assumed there was plenty of chaos everywhere now. Either from the demons changing as they smashed into things or it was just…naturally occurring. It seemed like some terrible miasma in this place must have given birth to the disaster. Maybe that was even what Thenn-ar had been trying to get across when focusing on the dangers of the air.
+
+Neither body had a visible dramatic wound, like the ones Alden had seen on the woman in coveralls. They were just very obviously dead. A little blood here and there, an almost translucent grayness to the skin, the stillness of their pose. The father had freed himself from the harness and climbed into the back with his daughters. They were all sitting there on top of one of the doors, huddled together.
+
+The older girl was still sitting with them, holding her sister’s hand while she blew on her whistle and stared at Alden through the glass.
+
+Oh my god, he thought, tears stinging his eyes. She’s been with them like that for hours.
+
+What was he supposed to say? Did she even know? Did she understand that they were gone?
+
+“I’ll get you out,” he said in English. He didn’t want to make any promises in Artonan until he knew what the next few minutes would be like. “It’s going to be okay. Hang on.”
+
+If the doors are locked, I don’t know what I’ll do. Try to get her to open them from the inside? Go to the lab and get something to cut through it with? Hope a demon punches a hole in exactly the right spot for me?
+
+It was an armored alien vehicle. It wasn’t likely that he could just kick out the windows.
+
+Alden set aside his bomb and the irrigators and tucked the putty into his pocket. While he clambered up the side of the car to try the door handle he was already assuming the worst. He tried to think of how to tell the the girl that he was going to have to leave for a while to get equipment from the lab.
+
+But maybe fate had decided they’d both been punished enough for one day.
+
+The door wasn’t locked.
+
+The car was built like a tank, and the door was so heavy that Alden had to commit to a precarious angle and use his whole body in the battle to yank it open. But he managed it with only minimal damage to himself…caused by falling off and landing flat on his back in the grass.
+
+The wind was knocked out of him, but that didn’t prevent him from scrambling up in a panic to make sure he wasn’t about to get zinged by half a dozen bugs.
+
+The girl had stopped whistling to watch him work. As soon as he disappeared from sight, she started back.
+
+Alden stood back up. His trait was gone. The putty ball was in his pocket again, and he’d lost preservation on it at some point. Probably during the fall.
+
+Is she still targeted? He hadn’t seen the halo over her head. It must have been a System-generated assist, as he'd feared. Well, it doesn’t matter right now.
+
+He had to get her out of the car, away from her dead family, and back to the lab either way. Without crying himself and traumatizing her more.
+
+The whistle was still chirping.
+
+Alden cleared his throat. “I’m coming! I’m safe!” he said in Artonan.
+
+I wonder if she thinks the whistle is the right way of calling me. It would make sense if she did. He’d given it to her just as everything went wrong. And it was a magic whistle. And he was an Avowed.
+
+Maybe I’m reading too much into it.
+
+He didn’t know what to do. It was pretty important to say things gently given the situation. And while he could communicate that they would be going to the lab together and leaving the father and sister behind, he couldn’t do it eloquently. “Your family is dead. Come with me,” worked, but it was so cold and harsh.
+
+He needed her to trust him. And he wanted to make it better for her. Even if only a little bit.
+
+“I’m coming!” he said again. “I’m safe! We’re safe!”
+
+Maybe I could…
+
+Probably it wasn’t the right thing. But it felt better than nothing. And it would help him push through the last few miles to the lab, too. He climbed back up on top of the car and lowered himself into it. He sat awkwardly on the side of the front passenger seat and braced himself with a leg.
+
+It was nice that the car was still offering some protection. There weren’t any bugs inside right now.
+
+“Hello, I’m Alden,” he said. She knew already, but a more formal introduction seemed necessary. “Are you Kibby?”
+
+Her face was swollen, wet, and snotty. “Y-yes.”
+
+“We’re going to the laboratory together,” said Alden. “We’re safe together.”
+
+Her grip tightened on her sister’s hand and she pulled the dead girl’s arm up toward him, as though telling him to take her.
+
+Oh, shit. Hold it in. Don’t lose it, Alden.
+
+“We…” His voice was a croak. He cleared his throat and tried again. “Let’s say a wordchain together. Yes?”
+
+He didn’t know if wordchains were a significant ritual in her family. But they purportedly were to at least some Artonans. And more importantly, the words were pretty eloquent, and he had them memorized. It would sound less clumsy and callous than anything he could come up with on his own, and since it was a common minor wordchain, she might have heard it before even if she hadn’t learned it herself.
+
+Alden closed his eyes and made the hand signs. He tried not to ruin the solemnity of the moment by letting his voice shake.
+
+“My heart calls out to another in good faith. Spare me a portion of your mind’s ease in this hour when my own mind is troubled. Tomorrow, I will grant another an equal comfort of mind.”
+
+He’d gotten really good at Peace of Mind. It locked in on the first try, and he felt like someone had taken a small weight off of him.
+
+Kibby stared at him.
+
+She’s big on staring, isn’t she? I wish she’d talk a little more so I knew what was going on in her head.
+
+“Will you say it for my _______, too?” she said.
+
+The word wasn’t the one Alden knew for father, but he thought that might have been who she meant, since she’d gestured at him. Maybe she thought the peace of mind chain had been for the little sister? Like a prayer.
+
+“Yes,” he said.  He repeated the chain again, deliberately messing up in tiny ways he hoped she wouldn’t be able to detect. He didn’t know if Peace of Mind would double on itself, but he knew that if it did, accepting twice the backlash in a few hours would absolutely flatten him.
+
+Since he was doling out false blessings anyway, when he got finished, he pointed at Kibby and said, “I am saying one for Kibby, too. Then we are going to the lab together.”
+
+She nodded.
+
+Alden performed the chain a third time, then held his hand out toward the girl. She reached back, and his skill activated as he lifted her.
+
+She was still his target. Whatever part of his power was locked onto her had stayed locked even without the System’s help.
+
+Oh thank you, thank you, he thought, waiting a second for the preservation to deactivate so that he could boost her up and out of the car. We might be able to get through this.
+
+#
+
+Alden carried the bomb in one hand, the irrigators in the other, and a frozen Kibby on his back. He’d debated taking the one functional shielding device, but it looked like it was on its last legs anyway. And it was heavy.
+
+For a long time, he just kept placing one foot in front of another, enduring the occasional strikes from the bugs and moving on.
+
+It was harder when one hit Kibby. He didn’t know why, and it didn’t matter. It was just one more mystery to tuck into the back of his mind for a better day.
+
+When he finally crested the edge of the depression in the ground that held the massive laboratory complex, he was so happy he almost wanted to run  toward it.
+
+It was better here.
+
+There were still demon bugs buzzing around everywhere, but only a fraction as many as Alden had been dealing with for the past few hours. Alden didn’t know if it was magic or if the lab had been built in this crater because it provided some kind of natural protection.
+
+But it was a chance.
+
+“Look at this, Kibby,” he said as he strode toward the lab. He’d been talking to her for a while now, even though she couldn’t hear him. It was keeping him together. “We’re going to live here for a while. And we’re going to survive a demon storm. And we’re going to be okay.”
+
+He hopped sideways to avoid a bug. His coat was starting to look worse for the wear. He didn’t know if it could take many more hits.
+
+“Today is the worst day of your life, I know. And it’s got to be the second worst day of mine. But as long as we’re still alive at the end of it, stuff eventually gets better.”
+
+He followed the crushed grass path all the way to the wall of the circular perimeter building. He didn’t know how to open the underground ramp that let the car in and out, so he turned aside into the grass. It wasn’t ideal, but he had to get to one of the exterior doors.
+
+He only had to go about a hundred yards before he found one.
+
+“We stay alive. Help comes. I go back home to Earth. You go to Artona III to live with all your old friends from the lab. That’s the plan.”
+
+The door opened for him easily. Maybe locks just weren’t much of a necessity when you lived in a place like this. He stepped into one of the mudrooms he’d seen on his last trip here. It looked completely unharmed.
+
+When he stopped moving, the preservation on Kibby dropped, and he crouched to let her slide off onto the ground. She stared around at the room in shock and then looked back at Alden.
+
+She said something rapidly in Artonan pointing from him to the room.
+
+He smiled at her. “Sweet, right? From your perspective the trip was easy-peasy. One minute you’re there, the next you’re here. I’m jealous.”
+
+She might have even thought he’d teleported them here.
+
+“Home!” he said proudly in Artonan, pointing at the walls around them. “Me and you are safe now!”
+
+Maybe it was a lie. But it was a lie they both needed.

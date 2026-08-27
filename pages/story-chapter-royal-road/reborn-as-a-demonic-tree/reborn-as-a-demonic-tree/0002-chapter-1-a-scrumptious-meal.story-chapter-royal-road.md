@@ -1,0 +1,161 @@
+---
+id: fed48bf4-ca80-5b6d-ad79-e7bfe49e3dfb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1: A Scrumptious Meal"
+slug: 0002-chapter-1-a-scrumptious-meal
+partOf: reborn-as-a-demonic-tree
+position: 2
+ownLength: 1955
+unit: words
+ownProgress: 1955
+publishedAt: 2023-01-07
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081244/chapter-1-a-scrumptious-meal"
+royalRoadId: "1081244"
+markedReadAt: "2026-06-29T19:01:33.057Z"
+---
+
+Ashlock stirred from his slumber as someone entered the courtyard.
+
+Even though he had been reincarnated in this bizarre new world two years ago, Ashlock doubted he would ever get used to sleeping as a tree.
+
+[Demonic Spirit Sapling (Age: 2)]
+
+[Qi Realm: 1st Stage]
+
+[Sacrifice credits for complete system unlock: 30/50]
+
+Ashlock dismissed the system with a sigh. "I've been in this world for two years, yet I've only been awake for like an hour in total? So sleepy..."
+
+A second ago, he had been surrounded by a raging snowstorm in the depths of winter, but now the slothful tree was greeted with a gentle summer breeze that rustled his scarlet leaves. Yet, even though it had only been a second of sleep for his mortal mind, it took a moment for his tree body to wake up from hibernation.
+
+Still half-asleep, the tree basked in the sun's warmth on his black bark for a while before finally opening his nonexistent eyes and looking around to find the human that interrupted his sleep.
+
+His sight was limited to a few meters in every direction, just enough to see the end of a stone walkway flanked by dark purple grass, overgrown with weeds.
+
+He could also see himself.
+
+But what was he? Well, according to the floating words in his mind that accompanied him for the last year, he was a Demonic Spirit Sapling. Ignoring the rude man that had interrupted his sleep, Ashlock summoned his status page.
+
+[Demonic Spirit Sapling (Age: 2)]
+
+[Qi Realm: 1st Stage]
+
+Skills:
+
+{Devour [C]}
+
+{Basic Spirit Sight [F]}
+
+{Basic Meditation [F]}
+
+[Sacrifice credits for complete system unlock: 30/50]
+
+When Ashlock died back on Earth, he asked his friend to bury him under the enormous tree in his local park. It always gave him a certain feeling when he sat on the park bench under its canopy, like a warm welcome home.
+
+"Seems another season has passed..." Ashlock spoke to himself since nobody could hear him. When he first arrived in this alien world, he tried to talk to the humans who occasionally passed within his limited sight range, but they never reacted, no matter how much he yelled.
+
+The man waited patiently in front of him, but sadly not only was Ashlock's spirit sight limited, but it was also blurry. Like looking through frosted glass, he could make out the shapes and colors, but any fine details were beyond him.
+
+"The fuck do you want, random guy? I have nothing to offer... I'm a tree, for god's sake."
+
+Ashlock had no idea why, but this man came by every so often with a sacrifice to offer him as if he was some patron deity.
+
+After a minute, the man sat down in a cross-legged position and left the rabbit-looking creature he was holding on the ground. Then, as blood trickled out of the rabbit's slit neck onto the purple grass, Ashlock felt a familiar feeling.
+
+Hunger.
+
+Without thinking, he activated his {Devour} skill. Black vines covered in tiny thorns surged from the ground like waiting vipers and wrapped around the rabbit corpse, mummifying it. The black vine pulsed with energy as the thorns bit into the rabbit's soft flesh and pumped out the blood.
+
+Before Ashlock even realized it, the vines loosened up and retreated under the ground, and he felt a rush of power. It was small, but compared to the minuscule energy he absorbed through his {Meditation} skill from the sun, the devoured rabbit gave a week's worth of energy all at once.
+
+Ashlock resisted the urge to use {Devour} on the sitting man. There was no requirement that the target had to be dead. They simply had to be in range and ideally stationary. Ashlock knew the man would give him a lot more energy than the rabbit, perhaps enough to finally reach the 2nd stage of the Qi realm, whatever that meant. But alas, Ashlock was no fool and knew the man wouldn't take being devoured kindly.
+
+The man said some unintelligible words, patted his bark, and left. Ashlock checked his status, and sure enough, the number of sacrifices obtained for the system unlock had increased by one.
+
+[Sacrifice credits for complete system unlock: 31/50]
+
+Ashlock had no clue what complete system unlock meant. He had read many novels and played games back on Earth... wait maybe this was still Earth? The people who visited him were odd, and the creatures looked slightly off, but his vision was so poor it was hard to tell.
+
+"I think it's safe to assume I'm in another world, though. Never heard of anyone cultivating back on Earth." And with that thought, Ashlock activated his {Basic Meditation} skill.
+
+The energy that was chaotically rampaging through his trunk began to calm. Ashlock had no clue how the skill worked, but it allowed him to somewhat control the energies within while also absorbing some Qi from the sun.
+
+"If only it wasn't so slow..." Ashlock had been here for 2 years, and even with over thirty sacrifices and constant {Basic Meditation}, he hadn't seen much improvement.
+
+Except his trunk had grown a little taller, he was now the height of an average man. "But don't trees grow naturally? Sure I'm growing a little fast, but nothing that couldn't happen on Earth. Maybe my bark has also gotten harder? Difficult to test..."
+
+Ashlock tried not to think about it, but he was terrified. What if the man needed some firewood? Or some otherworldly monster snuck into the area he was in. Unfortunately, apart from his {Devour} ability, he could not fight back.
+
+Deciding such thoughts were pointless as there was nothing he could do, Ashlock entered his state of meditation once more, and the world drifted away...
+
+***
+
+"Three this time?" Ashlock saw a trio enter his field of view. "A small person?" Ashlock was only around the man's height, so unless he had rapidly grown in stature, one of them was likely a child... or midget.
+
+"What if there are dwarves in this world?" Honestly, Ashlock had zero clue about this world. Maybe one day, he could learn more.
+
+"If only I could hear them speak, it would make my life so much easier." Ashlock sighed in his mind as he observed the three people.
+
+"Wait... is that a girl?" One of the three had long blonde hair flowing out of their black cloak like a cape. The other two were clearly male, and how they were a step behind the female suggested a potential subservient nature to their relationship.
+
+The girl was holding a bag tightly in her hands which the other two seemed interested in. Of course, Ashlock was also interested in the contents of the bag... although he time skipped when he meditated so he could avoid the weeks or months of boredom, he was still starving for some entertainment.
+
+"Oddly, the system seems to wake me up when someone comes within my range... will that be an issue when my {Basic Spirit Sight} upgrades and I can see further?" These were questions for another time as the girl had opened the bag and brought out a... decapitated head?
+
+The two other men seemed just as surprised as Ashlock.
+
+They both took a step back and drew out some type of long weapon, likely a sword, but Ashlock's blurry vision made it hard to tell. The only reason he could tell the girl took out a head from the bag was that he recognized it...
+
+It was the head of the man who had given him the rabbit last time. A slight tinge of disgust and regret bloomed in the back of Ashlock's mind. The man had been just a blurry figure, but he had provided him with food... "Wait, am I some kind of dog that wags its tail for food?"
+
+"Fuck that." Ashlock dismissed the feeling and focused on the action. The girl dropped the decapitated head on the floor by Ashlock's exposed roots, and he could feel the fabric of her cloak as she backed up against his trunk.
+
+Blue energy illuminated the two swords like light sabers in Ashlock's {Basic Spirit Sight}, and they swung forward. "Wait-" Ashlock screamed as two arcs of blue light surged toward him.
+
+The girl deflected the two incoming attacks with her palm, empowered with a purple light. She then acquired two daggers from god knows where and lunged at the man to the left. The man kicked back surprisingly quickly and vanished from Ashlock's sight.
+
+It was bizarre to only watch one side of the fight. The girl fought just on the edge of his perception. Purple energy flickered across her hands like a flame as she deflected attacks from two sides. Then she dove to the left, dodging a blast of blue energy that disintegrated her hood and some free-flowing hair.
+
+There was just one slight issue... the blast kept going toward a defenseless tree...
+
+"Ahhhh—" Ashlock screamed as the blinding beam of blue light smashed into one of his branches, obliterating it in a shower of splinters. Ashlock watched in horror as his branch tumbled to the ground beside him.
+
+Strangely, Ashlock felt nothing except the escape of energy like a popped balloon, so he quickly tried to seal the hole. Qi that he had stored in his trunk surged toward the hole and slowly knitted the spot closed.
+
+"I'm alive...?" Ashlock didn't know what he expected. It's not like trees bleed to death or something.
+
+Ashlock then watched as purple energy enveloped his fallen branch and hurled it outside his vision. The girl was clearly the culprit as she dashed after the flying branch, and then Ashlock saw nothing.
+
+Sadly, Ashlock had no clue how the fight was going, as it all happened outside his limited range. A few minutes passed until someone stepped back into his field of view...
+
+The girl's black cloak was soaked in blood, and the two daggers in her hands dripped blood onto the purple grass, which made Ashlock feel hungry. If he could lick his lips, he would. She pocketed her daggers somewhere and then dragged two bodies into view. The two men were covered in cuts, and one was clearly missing a hand.
+
+It was the most heinous thing Ashlock had ever seen, but he felt... nothing but hunger. Which was disturbing, to say the least. Where had his humanity gone?
+
+The girl said something he couldn't hear before dumping the two bodies up against his trunk next to the decapitated head. She also brought over his branch. She then collapsed against his trunk, looking up at his canopy.
+
+A while passed, and Ashlock couldn't hold back his hunger any longer.
+
+The desire to devour overtook his mind, and a swarm of black vines mummified the various offerings, including the branch. The sound of metal snapping surprised Ashlock as his vines broke the swords into small pieces and dissolved them by secreting a corrosive fluid.
+
+The process was slow. An hour passed, and the girl seemed to grow impatient, leaving the courtyard. Days went by as the courtyard experienced the cycle of the sun and moon a total of four times. Ashlock had turned his brain off to the passage of time, so the sudden rush of euphoria caught him off guard.
+
+[Demonic Spirit Sapling (Age: 2)]
+
+[Qi Realm: 2nd Stage]
+
+Skills:
+
+{Devour [C]}
+
+{Basic Spirit Sight [F]}
+
+{Basic Meditation [F]}
+
+[Sacrifice credits for complete system unlock: 56/50]
+
+"Oh! I finally reached the 2nd stage of the Qi Realm." Ashlock felt energy shoot up his roots and an immense fatigue wash over him.
+
+[Unlocking Sign-In System...]
+
+He resisted with all his mental fortitude, but he soon fell asleep.

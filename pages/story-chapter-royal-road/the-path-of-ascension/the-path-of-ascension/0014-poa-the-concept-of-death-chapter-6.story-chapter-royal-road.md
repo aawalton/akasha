@@ -1,0 +1,273 @@
+---
+id: 95b0b2b3-ff31-584a-8d6e-260960ed894e
+page-type-slug: story-chapter-royal-road
+title: "PoA The Concept of Death Chapter 6"
+slug: 0014-poa-the-concept-of-death-chapter-6
+partOf: the-path-of-ascension
+position: 14
+ownLength: 4830
+unit: words
+ownProgress: 4830
+publishedAt: 2021-11-24
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/793765/poa-the-concept-of-death-chapter-6"
+royalRoadId: "793765"
+markedReadAt: "2026-06-29T19:17:54.064Z"
+---
+
+PoA The Concept of Death 6
+
+Melinda cursed and rechecked her surroundings. They were on a cliff with a half-decent position, but it wasn't ideal.
+
+“Move right and get into a defensive position.”
+
+She looked over the cliff and added, “Vinny, protect our feet. Don't let them collapse the ground under us.”
+
+Her team immediately responded to her orders and ran along the lip of the ravine, but Melinda felt like she was missing something that she just couldn't see.
+
+Tara let loose an arrow, and someone vanished from the mass of confused workers and defenders.
+
+“Try to not hit the workers.”
+
+Tara sounded miffed as she responded, “They moved in front. That's not on me.”
+
+She loosed another arrow that raced out to remove another of the charging attackers. The ground rumbled underneath their feet, causing them all to stumble, and Kyle and Sam to drop to a knee to stabilize themselves.
+
+Vinnie had both arms in the ground up to his elbows, and his face was pale with effort as the cliff around their group started to disintegrate.
+
+“Stronger than me,” Vinnie spat out with trembling lips. “Best I can do is control the fall.”
+
+Melinda wanted to curse, but avoided wasting time and called out, “Sam! Get something poisonous down there! Medium burn.”
+
+Her poison master teammate pulled a vial of purple liquid out of her waist pouch and threw it to Kyle, who lobbed it into the group of attackers. Tara, having heard the command for poison, held her arrow until the vial was directly over the attackers. Once it was in position, she shot the vial, causing the noxious liquid to spray everywhere.
+
+Melinda didn't actually know what this poison was. Sam was always mixing new batches with various levels of lethality. The one she called for was something that would take at least three minutes to kill a monster of human size. It ensured that she could heal her teammates if any of the poison escaped the control of Sam’s Talent-based manipulation of poisons and venoms, and blew back onto their team.
+
+The liquid started to vaporize once it was free of its glass container, causing a fog of miasma to obscure their vision of the attacking group. Sadly, it was mostly for naught, as a huge gust of wind blew the gas cloud back at their still descending team.
+
+Sam was better, and shunted the poison off to the side, unwilling to fight a wind mage for control over a gas. They had practiced this exact scenario in a rift with wind mage birds, and it was almost always a losing proposition.
+
+An arrow exploded in a flash of lightning as it hit nearby, causing Melinda to flick a look back at Tara, who seemed just as surprised as she was. Matt’s little gift was coming back to pay dividends, but she didn't know how many arrows Tara’s quiver had the time to enchant. She hadn't asked their archer exactly how her new growth item worked, and was only going by the quick explanation that Matt had given at the table. It was something she had overlooked, but it would be good to know exactly how the quiver worked, so she could anticipate its uses in any engagement.
+
+Regardless, it was proving to be a useful addition.
+
+They slammed into the bottom of the ravine, creating a plume of dust and rubble. While everyone else wobbled on their feet, struggling to stand, Mathew stood strong. He was already taking his position at the front of the group, thanks to the stability granted by his Tier 3 Talent.
+
+A huge hunk of wood that was more tree than log flew directly at them, but Kyle quickly stepped forward and swung his massive sword. He deflected the projectile away from their group, and slammed it into the cliff wall.
+
+The group of Kingdom fighters rushed forward, but between Kyle and Mathew, they were able to hold off the attackers long enough for everyone to get into a defensive position around Vinnie. He was busy fighting enemy earth mages in order to keep control of the ground around them. The area outside of Vinnie’s control was full of rising pillars that he shattered, and spikes of earth trying to stab them from behind, which he halted as well. Even the ground around them was being turned to sand.
+
+Their earth mage was effectively out of the fight, but he was heavily limiting the enemies’ avenues of attack.
+
+With Kyle and Mathew acting as a wall of steel, Sam ducked forward to cut overextended legs and arms, putting [Venom Strike] to good use. It would take a full minute to actually kill an enemy with poison alone, but the venom’s effect slowed the reaction speed and coordination of any who were struck. That allowed the melee duo to take their weakened opponents down quickly. Kyle was busy directly cutting through lax defenses, while Mathew's precise strikes with his mace handled the rest.
+
+After a few frantic minutes of fighting, Melinda and her team stood alone while the last few workers retreated down the other end of the ravine, along with the final few defenders. Tara continued to launch arrows at them, but considering their wall of shields, it was more to harry them in their retreat than to actually inflict casualties.
+
+After checking that their backup was quickly approaching, Melinda inspected her teammates. They were mostly fine, except a few light wounds here and there. Against her better instincts, she left them alone to save mana.
+
+Sam was helping Vinnie to his feet and brushing off the clinging dirt from their teammate .
+
+Vinnie said, “We need to be careful. The earth mage retreated, and he's strong as fuck.” He spit out a glob of blood that was a worrying shade of pink, so Melinda moved over and inspected him as he continued. “I think it's a Kingdom fighter. Not another Pather. He's got too many skills, and I think he's using [Entomb], which is Tier 14.”
+
+She found that he had bitten deeply into his cheek and tongue during his fight, and had swallowed a good amount of blood. A quick [Directed Heal] took care of both wounds, but she wouldn’t be able to help with the nausea that would come from his swallowing so much blood.
+
+Kyle, who had walked away from their group, kicked open a box he had found. Multiple chunks of copper ore fell out into a pile. He picked one up and tossed it in their direction after a quick inspection.
+
+“Tier 6 copper. Why is this worth a special hidden mine?”
+
+Vinnie brought the chunk to his hands with a pillar of earth and examined it
+
+“No, this is definitely worth it.”
+
+He bounced the chunk of ore in his hand, showing it off. “This is natural, mana infused copper. Tier 6 version of it as well. It's only found on new planets, as it takes forever to form naturally. This shit is extremely valuable; it's impossible to find the infused version in a rift.”
+
+Seeing their confusion, he shrugged and added, “I don't know every detail about how it's made, but rifts create everything inside right at the moment of the instance first coming into being, while this ore is made over an extended period of time. Otherwise, making it artificially is extravagantly expensive. I think it's made by blasting the ore with buckets of mana over an insane amount of time. Basically, a vein of this stuff so close to the surface is extremely valuable.”
+
+As she watched their reinforcements move along her AI’s map, Melinda asked, “What's it used for?” They were within the influence of the base’s anti-flying runes, so they were forced to proceed on foot, which slowed them down.
+
+“Enchanting, as far as I know. It allows mana to flow with nearly no loss. I'm pretty sure they’re used for permanent rune enchanting; big shit, like the city-wide defenses. I don't really know for sure, but that’s my best educated guess.”
+
+Melinda sent the information back up to headquarters. It was good to know, and they might get some more points out of the find, if the ore really was that useful.
+
+Their reinforcements came in in such a hurry, Melinda was bracing for a betrayal. Instead, she was shouted at.
+
+“Prepare for another attack! We saw them coming back in numbers.”
+
+She didn't hesitate and called out to her team, “Let’s take this wall!”
+
+With the order given, they all rushed to take a position at the now dismantled wall that they’d just brought down. Kyle raced over, and they formed up as a group. Vinnie created a small wall of earth about waist high, which they all fell in behind. The wall slowly grew until it covered the entire bottom of the ravine.
+
+Their Queendom allies ran to the wall and took their places. Not a full minute later, from the other side of the ravine, a wave of at least forty people came down the slope at a run.
+
+At the sight of each other, a variety of spells and volleys of arrows were launched by both sides.
+
+An arrow broke through Mathew’s upraised shield and penetrated through his arm. Melinda quickly raced forward, breaking off the arrow head as Kyle cut the fletching off the back so they could pull it through his arm without causing further injury. Melinda did so, closing the wound just as she removed the arrow shaft.
+
+She slapped his back as she raced down the line to the commander of their reinforcements.
+
+“Why are we holding?”
+
+He looked at her like she was stupid as he shouted, “This is our territory!” Even with her helmet on, he noticed her incredulous look, so he added, “And those were our orders when you reported that there was infused copper here.”
+
+So the Queendom was getting greedy. She made a note that they should be prepared to pull out if things got too hectic.
+
+But for now, she could work with these orders. “I'm a healer, so give me access to your team network.”
+
+He looked surprised at that, but didn't hesitate in giving her access.
+
+Not bothering with him any longer, she ran to the most wounded fighter as another volley came down.
+
+It was a woman with an arrow in her upper calf. Melinda quickly pulled it out and healed the freshly impaled tissue. She did it all with [Directed Heal], as her Tier 1 Talent made it cheaper for small wounds, compared to the wasteful flood of mana that [Ranged Heal] used indiscriminately.
+
+She hurried back down the line as she checked everyone's status. Her team made it through the next volley of attacks unharmed, with only one person dying from taking a [Fireball] to the head. She could’ve probably saved the person, but she had to remind herself to worry about her healing cooldowns.
+
+It was something she usually never had to worry about. With a glance, she saw that both Mathew and the woman she healed had little meters next to their names. They showed her how much healing the average person could take before they started to reach dangerous levels.
+
+In theory, you could always heal someone, even without overhealth, but the body would reject the regrown parts if there was too much stress on the body. Especially after repeated healing, the danger would increase exponentially if the healer made even the tiniest mistake. Baxter said that even he had limits that he couldn't heal past. It just became too hard to be perfect on a cellular level. That didn’t even account for the used-up nutrients that were needed to regrow the missing body parts.
+
+For now, the bars next to each of the people she’d healed were bright green, showing that they had a while before they would be automatically withdrawn from combat.
+
+A third volley was exchanged, and this time, she moved to heal a shattered arm. She was pretty sure that if she hadn’t been there, the woman would have been instantly removed. But she was here, and she was a damn good healer, even without her overhealth assisting her.
+
+She never used more mana than she needed, and she kept her healing limited to what was necessary. She was sure to avoid wasting anything on extraneous maladies. This wasn't a rift where they could retreat if her mana got low, and she had far more people to heal than her usual five.
+
+When the two sides clashed, she was forced to race back and forth, keeping the Queendom fighters on their feet for as long as she could. This was a battle of attrition, and healers always made them last longer than most expected.
+
+The real question was whether or not there was a healer on the other side. She felt that it was unlikely, but it was still a possibility. If there was, it would come down to who was better at managing their mana.
+
+Melinda moved to a knot of fighting that seemed to be entirely focused on controlling the ground. Vines with golden thorns had broken through, extending to trap and shred the legs of the defenders.
+
+“Someone, break that skill!”
+
+If she healed them now, it would do little good. The wounds would be immediately reopened. To make things worse, someone cast a [Fireball] at their feet. It burned the vines and everything else around, making her job a lot harder.
+
+Mentally cursing, Melinda cast [Area Healing] and winced as the 150 mana left her all at once. She could have gotten three normal [Ranged Heal]s or four [Directed Heal]s off with that mana. And that was with her Tier 1 Talent reducing the cost of all healing spells by half.
+
+Still, a green mist rose up and started to mend torn and burnt flesh. For most people, that would be a suboptimal skill, as it would only heal the most basic of injuries, but with overhealth, Melinda was able to set it and forget it.
+
+Another flickering light on her AI alerted her that there was yet another person that needed her help. It was a man standing shoulder to shoulder with her husband, so she made sure to check her team while she was nearby. They were fine, and she waited there while scanning for another injury requiring her attention.
+
+She hopped up on the platform that Vinnie had made for Tara. It was enough of a vantage point for her to inspect the other forces and try to pick out her and her allies’ victims. That way, she could see whether or not people were removed from the fight after a severe injury. It was her only real way of telling if there was a healer within the enemy ranks.
+
+After a while, she decided that they didn’t have one. Tara’s latest shot had hit a man in the lower chest. She expected that the wound was easily treatable by any healer worth their salt, but the man vanished just as soon as the injury was inflicted.
+
+The enemies drew back as their numbers dwindled to half, and they carefully retreated back, about a hundred feet or so out of range.
+
+As the seconds ticked by, Melinda thought that the Kingdom side would retreat again as they had before. But suddenly, a dozen arrows slammed down from above them. The enemy had somehow positioned archers above them on the rim of the ravine, and they were taking advantage of their position to shoot without worry of friendly fire.
+
+Melinda and Tara were both hit. Tara was wounded in the arm, but Melinda was slightly luckier, as the arrow only hit her in the lower torso. It was mostly a flesh wound.
+
+She healed Tara as Vinnie started to raise them a roof, but he started cursing immediately. “Shit! Their fucking earth mage waited for this.”
+
+If the other mage was resisting his new earth workings, it was a massive problem. They were sitting ducks under the rain of arrows from above.
+
+Thankfully, their commander realized that as well and screamed, “Charge in close!”
+
+Melinda and her team did as ordered, and ran at the enemies in front of them. Kyle took an arrow in his leg as he ran, and Melinda was only able to heal it as they engaged with the Kingdom fighters at melee range.
+
+It was a hectic fight, and she had to constantly reposition herself so she wasn't a target for the archers. The Kingdom archers had the high ground, but the side of the ravine they were positioned on top of didn't give them very good angles to their targets. Meanwhile, Tara had her pick of targets, and was busy becoming a menace with her own bow.
+
+A quick glance at her AI told her things were going well. Her team had gotten spread out during the fight, and Kyle’s healing cooldown meter was heavily into the deep orange zone. If he took another hit, she was pretty sure he would be removed from the fight. She checked her team’s status on her AI. She wasn't sure how Sam and Mathew had gotten to the other side of the valley, near where the mine was. When there was a loud explosion and wave of fire in that general direction, she thought they were screwed.
+
+To her surprise, it was the mine entrance collapsing, and then a second burst of fire caused the Kingdom fighters to retreat.
+
+Even the archers above them retreated, and left them to their now ruined mine. Or at least, the Queendom would need to excavate the collapsed ravine wall, and then fortify the place before any mining could actually start.
+
+Melinda checked everyone again, and when seeing that both Sam and Mathew’s outlines were flashing orange, while quickly deepening to red, she took off into a sprint.
+
+Sam stopped her with a near scream. “Everyone back away! They detonated some sort of poison.”
+
+Melinda was going to rush in, but Sam's next words were enough to cause her to stumble to a halt.
+
+“It's affecting our mana, so stay back.”
+
+Melinda didn’t know of any mana related poisons, but their existence wasn’t entirely absurd.
+
+After Sam shouted that last bit, she and half a dozen other fighters who had been nearest to the mine vanished in a quick procession.
+
+Melinda’s anxiety started to escalate off the charts, but she forced herself to be calm. Baxter was there, and he wouldn't let anything happen to her friends.
+
+As much as she wanted to rush forward and get teleported to the hospital as well, she could only join her teammates if she died. That wasn't exactly a good choice, no matter how much her conscience screamed at her that she was the only one who could protect her friends.
+
+Instead, she started to move to the remaining wounded. She was at around half mana after her battle ministrations, and her three fast converting mana stones were empty as well. Still, she had enough mana to cast [Area Healing], and she let its longer-lasting healing take care of the easiest wounds of those up and walking.
+
+That left her with just three people who were too wounded to move. She healed an amputated foot, a shattered collarbone, and an arrow through the pelvis. The amputated foot would need to be checked out by the hospital, as without her Talent, it would be a patch job at best. But she was pretty sure that Baxter would cover for her, and just fake the healing needed. She had prevented the woman from bleeding out and losing her points.
+
+As she finished the last wounded fighter, the leader came over and asked, “Can you move yet? I don't know what poison that was, but I want to get the fuck out of this area.”
+
+Melinda nodded and pointed. “Those two need to be carried, they need to stay off their feet, but let's get out now. I can do healing checks once we’re clear.”
+
+The other fighters had been waiting for just those words.They threw their comrades over their shoulders and started running out of the valley. Vinnie had been put to work, and had created a winding set of switchback stairs that the Queendom fighters were flooding up.
+
+The commander kept pace right behind Melinda, ensuring that they were the last two to leave the now quartered valley.
+
+As they reached the top of the hill, Melinda used a tiny fraction of mana to check herself and the commander, whose name she still didn't know. She didn't have net access to bring up his public profile, and he wasn't on the top one hundred most important Queendom fighters list that she had downloaded.
+
+She stuck out a hand and said, “Melinda. Healer and leader of my Path team.”
+
+The man removed his helmet and returned the hand with his own. “Adam. Tier 7 platoon leader in her Majesty's army.”
+
+He tucked the helmet under his arm, and after letting go of her hand, said, “Marvelous that you found this place and all, but do you know what that poison your teammate talked about was? Or even a guess at what it could be?”
+
+As Kyle, Tara, and Vinnie joined her, she said, “No, and I’m finding nothing inside of us either. So I don't think it was spreading or anything. Our teammate is a poison user herself, so while she might know, I haven't a clue.”
+
+Adam cursed under his breath before saying, “Well I assume we’ll be placed under quarantine and act as a guarding force at the same time. At least until we get a report of what that was.”
+
+With that, he ordered everyone to start felling trees to create a makeshift barrier for them to defend. Melinda didn't have an axe, so she helped haul the logs into place before Adam called a halt.
+
+“We got a reply back from the hospital. Our men were hit with a byproduct of the mining. Something called depleted copper. According to the report, it’s the inverse of the mana infused copper that this place is teeming with. It seems like it's copper that forms around the mana conductive version, and it absorbs the mana of anyone it is near. It’s a nasty byproduct of mining the stuff, but it’s not exactly lethal. That's the good news. The bad news is that we all will apparently need to detox later, and from the cursing I'm getting from Jamie, it’s pretty foul both going in and coming out. At least they didn't actually die. They were brought out as a precaution, since it's easier to treat sooner rather than later.”
+
+Adam shrugged. “So, we’ll be guarding this place for a bit before we make our way back to the neutral city and check ourselves into the hospital. But headquarters is greatly pleased that we pushed the Kingdom back. Leadership expects that they took the little bit of copper they’d already mined, and left us to deal with the dirty junk they left behind. Luckily, we stopped them from getting a foothold, or mining more than a few hours' worth of material.”
+
+Melinda wasn’t in range of a network ,and had to take the man at his word, but it didn't seem too bad.
+
+Adam moved over to her team and plopped down after wiping his sweat-slicked hair. “Fucking Kingdom tried to screw us good on this one, but they managed to fuck it up.”
+
+Tara raised an eyebrow as she asked, “How so?”
+
+“Our analysts did the math, and apparently, they didn't get to blow up the boxes of depleted copper. Or not all of them. If they had broken more of them, the radius of the poison outbreak would have been much larger. They couldn't even do that right. Cowards.”
+
+He ended the statement by spitting to the side over the barrier.
+
+Kyle peered over the edge of the cliff into the ravine. “What if they already disposed of the rest of it?”
+
+Adam looked thoughtful at that suggestion, but finally shook his head. “Maybe, but it’s doubtful. The nearest rift is half a mile deeper into our territory, and that's the only safe way to dispose of the toxic waste. Chuck it into a rift and let the instance cycle. No, I think there’s a few boxes of the stuff sitting down there under the rubble.”
+
+Vinnie just shook his head. “I sure as shit don't want to be a part of the clean-up team that has to work that job. Or the new mining team for that matter.”
+
+Adam raised his canteen to that, and they jokingly toasted to not being so unlucky.
+
+An hour later, their relief team came in sealed suits, and they dropped off some additional suits for them. The suits came equipped with air runes to keep the air breathable, but the long flight back to the main city left Melinda hot and sweaty as she was led through quarantine procedures.
+
+Having someone else scrub her down while she raised and lowered her arms as directed wasn't the most pleasant experience, but it was worth it to know that she and her gear were being professionally cleared of any lingering depleted copper.
+
+To amuse herself while being scrubbed down, she read about the stuff, and cursed at the Kingdom for being so petty as to detonate the boxes of waste.
+
+The material started off as perfectly normal copper when left in a mana rich area. The higher the mana concentration relative to the Tier of the mineral, the faster it absorbed the ambient mana. But as the copper drew mana deeper into itself, the outermost layer had so much mana moving through it. The layer took on the opposite property, and started to repel mana.
+
+That layer would dissolve into the surrounding soil, and then start to slow the growth of the mana infused copper, until it reached an equilibrium.
+
+That was the problem, though. It made mining the special copper annoying if all precautions were taken, and quite dangerous if not. The contaminated soil was separated off and tossed into rifts to be destroyed ,as it could poison the land for months at Tier 6, until its properties were equalized with the environment.
+
+If introduced to a person, the effects were much worse. If the dosage was high enough and left long enough, it could cripple the person’s ability to use mana until it was purged. Then, the body had to be almost fully regrown limb by limb to replace the infected tissue. Apparently, a high enough Tier healer could speed up the process, or you could spend a few million mana to simply overwhelm the absorption properties of the copper.
+
+The best and fastest way to deal with it was to quickly purge the body, and do it quickly.
+
+It took a message to Baxter to completely settle her fears. The dosage her teammates had gotten was nothing to be worried about. It was only one-tenth the most dangerous levels. The army watchers had confirmed that only one-quarter of a box had been detonated, and unless someone directly ate that amount, it was mostly harmless. At worst, without treatment, her teammates would’ve had higher mana costs for a few months. Still, the army wasn't going to risk it, and immediately pulled them out.
+
+An hour later, she met with her teammates, and they were given a chalky white drink that seemed to cling to her insides as she drank. It tasted like rotten sewage dipped in a corpse.
+
+She managed to choke it down while glaring at Baxter, who delivered the potion.
+
+“It can't be made to taste any better?”
+
+She was pretty sure he was fucking with them, or at least her, by leaving out something to make the drink taste at least somewhat palatable.
+
+His cocky grin grew wider. “Nope. There really isn't. It's frog bane. It’s nearly a poison all on its own for how bad it tastes, but it sticks to your insides like a film ,and will grab anything remaining inside of you. Like inhaled or swallowed copper dust, for example. Then, there’s the harpies’ cleanser, which also tastes absolutely awful. But that’s even worse, as it also makes you shit your brains out, on top of coughing up a lung or three.”
+
+He smiled and said, “You can all go home at any time you'd like now, but I’d recommend staying, as you’re going to want more than one toilet to hug. If you have to share, it’ll get messy quickly.”
+
+“I hate you. I hate you soooooo much right now.”
+
+Baxter laughed as their faces contorted, and they all ran to the curtained-off bathrooms. To Melinda's horror, the toilet had a sink right in front of it.
+
+This would not be fun.

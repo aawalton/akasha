@@ -1,0 +1,39 @@
+---
+id: d21326b8-26c3-5fdb-b59e-0bf136f77cf6
+page-type-slug: story-chapter-royal-road
+title: "Side Story Poll!"
+slug: 0444-side-story-poll
+partOf: stray-cat-strut-stubbing-never-lol
+position: 444
+ownLength: 346
+unit: words
+publishedAt: 2023-10-31
+link: "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1392033/side-story-poll"
+royalRoadId: "1392033"
+---
+
+Hello!
+
+So, I’ve been having a lot of fun writing side-content for Stray Cat Strut, and I know I’m not the only one. There have been a few fantastic fanfics that have popped up, and you can’t imagine how giddy it makes me to see fan content of my own work!
+
+Anyway! This isn’t quite about that!
+
+Beatrice (AKA: Electric Prism Synthwave Nova Girl Boom Boom Ranger Sparkles) Smith’s adventures into mercenary work have been fun to write, but they’re only one of many Samurai in the Cybercat-verse.
+
+I’m thinking it might be fun to move on to another side character, to highlight some other location, some other events, and fresh viewpoints. This is meant to be a fairly wide and deep world, and Cat’s point of view is fairly narrow.
+
+So, yeah, I decided to set up a poll!
+
+Here are your options:
+
+Neon Girl Happy-Chan - (Set: late 2020s, Ohio, abused child who's an eternal optimist, focus on early samurai. Tone: Darker, optimistic, early world building)
+
+Deus Ex - (Set: 2050s, An exceptionally lazy girl that just wants to stay home. Makes a few friends and gets dragged into hijinks. Tone:  lower stakes, most cutesy stuff. Meet a lot of the other SCS characters before they become strong)
+
+Grasshopper - (Set 2050s, a somewhat off-kilter young teacher who wants to stay as weird as she is despite her life being upended. Tone: Some comedy, but lots of introspection and time spent in the head of a character that’s very weird)
+
+Emocythe Mordeath Noir - (Set late 2040s, a goth gets more goth-er, fashion and long discussions about appearances and what it means to be a samurai)
+
+Beatrice Hyper Cutie Bubblechan Zoom Ranger Sparkle Girl - We continue her story where it left off!
+
+If there are any other samurai you’d like to see more of, then let me know! Or even just... periods of time within the setting, or areas in the world that you want explored! I’m thinking of doing short arcs with each one, just showing a snippet of a samurai’s life.

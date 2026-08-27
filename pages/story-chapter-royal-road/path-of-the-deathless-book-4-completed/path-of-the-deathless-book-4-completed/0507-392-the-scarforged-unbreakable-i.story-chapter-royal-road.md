@@ -1,0 +1,363 @@
+---
+id: 00b07c11-cfd1-508c-b0de-594a64999873
+page-type-slug: story-chapter-royal-road
+title: "392 The Scarforged Unbreakable [I]"
+slug: 0507-392-the-scarforged-unbreakable-i
+partOf: path-of-the-deathless-book-4-completed
+position: 507
+ownLength: 6146
+unit: words
+publishedAt: 2026-06-26
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3596578/392-the-scarforged-unbreakable-i"
+royalRoadId: "3596578"
+---
+
+Onus of the Scarred Unbroken is not a Restricted Skill—but only just. Any Pathbearer who evolves the skill is placed into the “Special Circumstances” category for Toughness. Though it does not directly enhance a Pathbearer's destructive capabilities and, on its own, does not threaten the development or the survival of civilizations, this skill ensures that a Pathbearer is made functionally indestructible in the face of all forms of material damage.
+
+The connected workload for this skill is also a simple thing to manage: every bit of damage the Scarred Unbroken assumes is alchemized temporarily into an expression of “Onus,” inflicting a weight-like burden upon the Pathbearer. The greater or more acute the damage, the heavier the Onus will become. However, as most Pathbearers who develop this Skill Evolution tend to be Awakened monsters who survive mortal wound after mortal wound across their considerable lifespan, their Physicality is often not lacking, and that allows them to contend with this debt of metaphysical sluggishness.
+
+Furthermore, Awakened monsters with powerful mana fields might find their burden state preferable, as it allows them to be anchored in place and become a fortress unto themselves. A notable user of an Onus Skill that all will be familiar with is Pop Queen Karna, who uses it to treat relativistic bombs as pyrotechnics for her cosmic performances.
+
+Though the weight laden upon the scars grows exponentially as the Pathbearer remains in their Scarred Unbroken state, exceptionally powerful Pathbearers like Pop Queen Karna have been known to carry these scars for centuries before finally releasing them back upon their surroundings. Certain Void Leviathan have been recorded to go even longer, as they are capable of converting the physical forces that act upon them into Overflow Tides, which further lends to their longevity—and why every individual who possesses Leviathan of the Shapeless Tides is immediately elevated into the Restricted Category.
+
+In these cases, when the husk of scars is shed, the Pathbearer assumes a brief period of extreme vulnerability. How long the period lasts is in proportion to how long they stayed Scarred, with certain Void Leviathans entering dimensional seclusion for decades or even centuries to hide from rival pods seeking to prey upon them. In the extremely rare case that a Pathbearer with Onus of the Scarred Unbroken also develops a Legendary-Tier Chronomancy Skill, the consequence the Onus carries is reduced even further…
+
+—“Onus of the Scarred Unbroken”
+
+VII-38
+
+The Scarforged Unbreakable (I)
+
+“Shiv… why haven’t you just tried stalling?”
+
+“Huh? What do you mean?” An Uva was stabbing Shiv again, and he was an instant away from inducing magical brain-death in her to get to the next part. Getting Valor up to speed was the only reason he hadn’t ignited the entirety of the hallway already, and now that that was done, he was prepared to do just that—until the question stopped him. “Why don’t I just… let her keep stabbing me?”
+
+Valor’s nod was so slight it bordered on being imperceptible, and that faint sheen of Animancy mana that allowed him to manifest in the Delve didn't help things either.
+
+Meanwhile, Uva kept stabbing him, painting new platinum scars on his body and slowly building up his Onus—which meant something like "burden" according to Valor. “You know, Valor, when enemies show up in a Delve, I usually just kill them without thinking about that sort of thing too much. There are five encounters, and I guess I had to get through them, but… well, yeah, I didn’t think stalling was… allowed.”
+
+“If the System doesn't want you to do something, it will tell you, Shiv.” Valor's voice was tinged with the slightest bit of exasperation, and he looked on at Uva, his sculpted features turning inscrutable. “That does not mean the System isn't abusive and pointlessly cruel at times, just that anything you cannot do will be stated, obviously, with penalties included. Aside from that, anything and everything is allowed.”
+
+That revelation rendered Shiv speechless, and the only sounds that filled the hallway were of Uva continuing to stab at Shiv like a blacksmith working merrily at their anvil.
+
+“Also,” Valor began, almost hesitantly, “why are you not converting the blows of your enemies into tides?”
+
+Shiv felt his mind go even blanker. I could do that… Shit, I did do that before. I just… Felling hells, I forgot I could along the way. He cradled his skull in both hands as he struggled to come up with a good answer. Ultimately, a long sigh slipped out from Shiv as he did everything he could to not think of himself as stupid. “Yeah, so…”
+
+“You forgot?” Valor finished for him.
+
+A series of bones broke inside Shiv’s body as he squeezed his eyes shut and felt his Harbinger punish him with an onrush of self-loathing. “Yeah. I’m… I’m an idiot sometimes, Valor. You know that.”
+
+“No, not an idiot.” Valor was disappointed, but not at Shiv. Even with his Harbinger dormant, he could see the emotional turmoil within his master, and it was pointed inward—at himself. “Merely mis-trained by your circumstances and deprived of proper guidance for too long.” Valor scoffed as he turned his gaze high, glaring at the unseen hand that tormented every Pathbearer. “I was too reduced to offer you what you needed before, and we were too overwhelmed to gather ourselves until recently, but it is not too late. We can make things better now.”
+
+A humorless chuckle escaped Valor as his posture sagged. “Some Pathbearers espouse breaking from all tradition and being freed by constraining modes of thought. Most of them are fools. To break new ground, you must know what ground has already been tread; otherwise, you are simply reinventing the wheel, so to speak, rather than exploring uncharted territory. The System is making you reinvent the wheel over and over. Your basics have not been hardened and honed. You are simply made to die until your raw capacity to survive surpasses the full weight of harm levied against you. That is the System's great mistake. But it will commit this error upon you no more.”
+
+The pain tied to Shiv's psychological turmoil dulled slightly, and a small smirk spread across his face. “Alright, Valor, what should I do?”
+
+“Right now, wait and practice. You are not to kill her. You are to examine every aspect of yourself instead of rushing through things, using her as an aide.”
+
+Shiv stared at the Uva that just kept stabbing him, her expression blank beside the burning determination to commit homicide behind her colorful eyes. “Uh, alright. So, I just let her keep hitting me for now?”
+
+“For a start,” Valor said, observing Shiv. “We are in no hurry either: Roland knows about your condition and has his own matters to resolve. The Culturist has gone with him to see about Adam’s condition—consider your duel postponed; as it should have been from the start.”
+
+“Godsdammit,” Shiv grunted in frustration. “I wanted to get—”
+
+“No,” Valor cut him off, his tone severe. His eyes burned with corrosive mana, and Shiv’s instincts screamed for him to stand and fight—like he was facing down certain death. “A duel is a sacred thing. It is a significant thing. Yours will stand as a culmination or an evolution to the trauma of two families, but more importantly, it will determine what kind of Pathbearer you become, and who you wish to be as a person. But also, it reflects upon me, as I have chosen to take you as a disciple, and in my exhaustion and diminishment, allowed you to rush into things far too much. No more. You will not shame yourself. You will not shame me. And you will not shame Roland by making things a hurry. There will be a duel, and you will fight it well—with stable foundations and unparalleled power instead of only the latter.”
+
+“Alright,” Shiv breathed, trying to suppress his instincts as his blood screamed for him to kill Valor before he was struck down in turn. “Wait, did you just use an Intimidation Skill on me?”
+
+“No,” Valor answered casually. “But dread, oftentimes, is an appropriate response. It warns you about who you face, and it makes you focus.” Then, without doing anything in particular, Valor shed the killer for the intellectual, and he approached Shiv to examine the scars his body had sustained. “Hm. Remarkable. You claim that you suffer no pain nor true injury and incur only a debt of weight with this skill?”
+
+“Yeah,” Shiv said, frowning as the Uva kept stabbing. It had been minutes, but none of the other Uvas were present. “Shit, stalling might actually work. Fuck. Fuck! Godsdammit! The System knew I was going to just punch shit without thinking.”
+
+“Indeed,” Valor agreed, as he shaped an analysis spell to examine Shiv’s Onus of the Scarred Unbroken. “Hm. I’ve seen these platinum-colored flashes before. Mostly when observing Legendary monsters, who seem to gain instances of absolute indestructibility against certain attacks. But their Toughness is not as lasting as yours. It’s like you are meant to become a reservoir of destruction, incurring a debt of damage that you can then return to the environment or an enemy.”
+
+“Yeah. Except it leaves me exposed after. The moment after I shed my Onus, I was back to the Heroic-Tier baseline—maybe even a little softer than that. Damn Vulteg slamming into me broke a few ribs.”
+
+Valor coughed as his empathetic core filled with envy. “A few ribs. You have little idea how much a Vanguard might envy this Skill Evolution of yours—even Legendary pure Martials. Most of their Skills must work in conjunction with the armor they wear. The best they can hope for due to their Legend is extreme harm diminishment or a means of avoiding certain death. Of course, most Martials do not ever reach Legendary-Tier Toughness.”
+
+“Because they end up dead along the way?” Shiv guessed.
+
+“Quite so, Shiv. You likely understand the perils and costs of achieving a Legendary Toughness Skill more than most in existence. This strikes me as a skill only a powerful hydra might have a reliable chance of developing. These scars are the encapsulation of your Toughness—so many mortal wounds, so much blood taken from you, and yet you are still here. Yet, you have only been made stronger by that which failed to keep you slain. Monstrous. But how else should a Tarrasque bound to the flesh of a man be?”
+
+“Adaptive,” Shiv answered. “I told you about the first skill. Same one the Tarrasque had. Wait, why didn’t that asshole need to go through a Delve to get that skill?”
+
+“For that, I have no answer,” Valor admitted. “But I suspect that Farwalker you met might be able to offer you some hints if you apply the right kind of charm.”
+
+Shiv grunted. “Maybe. Shit, I wonder if this Skill Evolution’s restricted too.”
+
+Valor paused to consider that but promptly dismissed the possibility. “No. It is absurdly potent, but it simply ensures that you are unassailable in many regards. Yet, there is still magic and—Shiv, try to steal some of the force she is exerting on you. You’re letting potential overflow tides go to waste.”
+
+Shiv winced and began doing just that; however, he found it hard to time Uva's strikes. He was much faster than this reduced version of her, but the fractals moved with an erratic buzzing that reminded him of a swarm of wasps rather than an actual blade. The way it struck was equally strange. It cleaved into him one fragment at a time before assembling into an intact bridge and injecting itself forward. If he were of baseline flesh, he would have been shredded apart before being pierced clean through. As such, the damage she inflicted came in an erratic, cascading sequence, and he had to time each one to steal any force at all.
+
+After a few tries, a series of striped vectors rippled out from the site of the impact like a pond disturbed by a falling stone. Shiv decided to commit a synaptic echo within Legion of Self to constantly rip force away from his surroundings and manage its circulation.
+
+Just as he did that, every single door leading down the hall snapped open without warning. Shiv’s nervous system spiked to full alertness, and a groan escaped him. “Well, now I see how this was supposed to go: wait them out instead of rushing through.”
+
+“Correct,” Valor replied. “I remember going through something similar for my Reflexes Delve. I was cast into the Maze City of Nue-Un-Ket and made to evade hunters for half a day. I hid and assassinated my foes at first, but though I slaughtered my way through the first three encounters with ease, everything from the fourth became impassable as the simulation would reset the moment someone touched me, while I had to slay someone to remove them from the field.”
+
+“Huh. How long did it take you to finish that Delve?” Shiv planted himself firmly in the doorway while the horde of Uvas stabbed at him with impunity.
+
+“A bit over two days,” Valor admitted casually.
+
+“Two,” Shiv repeated, pausing. “And just getting touched reset the Delve?”
+
+“Yes.”
+
+“...Are you sure I’m the monster here?”
+
+“In terms of pure power and attrition, yes. But it is as Jessica said: There are things an individual can do that a monster will never be able to achieve.” Valor held up a hand in an almost theatrical gesture. “We are the builders. Architects of our lives and civilizations. Monsters might be primal expressions of elemental power, but they are acted upon and react in accordance. In this, we are mirroring tragedies, for one is born without inherent strength and power to survive the cruelties of a tamed environment, while the other goes from beast to prey when the wilderness is pushed back and civilization sets its roots. But down that long line, when individuals become Legends and monsters become Awakened, the lanes twist and mix, and things that used to bind us blur and blend.”
+
+Shiv clapped sarcastically, and Valor—humming a laugh—took a bow. “Shiv. Tides.”
+
+“Ah, right.”
+
+The seconds passed, and stacked until they became minutes. The world devolved into a sea of buzzing fractals that struck and clashed against Shiv’s form. By now, he was wreathed in a dense hive of platinum scabs—but their mass and depth remained faint, and Shiv’s stolen tides increased his strength dramatically.
+
+Leviathan of the Shapeless Tides 558 > 560
+
+Legion of Self 180 > 181
+
+Memorization 34 > 37
+
+Inertial Overdrive 369 > 372
+
+On the side, Valor continued dispensing directions while examining. “Watch how she strikes and stabs as well: observe her form—no, not that way. Shiv, focus.”
+
+“Yeah. Doing my best.”
+
+“This, too, is good practice. There will be times you must fight in severe emotional distress. Or faced with other urges—”
+
+“Valor, you’re making this shit harder. Please stop talking for now.”
+
+“Ah. I apologize.”
+
+“Thanks!”
+
+Though it took great mental discipline on his part, Shiv did manage to get a few things from Uva’s swordplay. For one, this was a version of her that was incapable of manipulating her physique to the extreme and continued to fight like a grounded combatant throughout. That meant she needed to generate leverage using footwork, strength, and bodyweight.
+
+Huh. I wonder…
+
+Shiv reached out and clutched one of the Uvas by the back of the neck. Instead of closing his hand and ending her life, he let his overflow tides cross over and flow through her contours—and that allowed him to rip the force out of her body before it could be generated. More than that, it mapped exactly where she was generating force and in what direction, wreathing her in a sort of kinetic cartography for him to behold.
+
+“Ah. Now you see.” Valor nodded in pride. “Good, good. This is what it means to properly trailblaze—you use stable foundations to explore further. Some Martials have a variant of this as an Awareness Skill—an Evolution of Body Language, I believe.”
+
+But Shiv’s influence went beyond the sight and theft of forces. His overflow tides circulated out from him, grinding along the silk carpets and blasting through the feeble Magical Resistances given unto these false Uvas. Such allowed him to map out everything in his surroundings and strike at things beyond his reach, yet still connected to him in the second degree. “I haven’t been using my Legendary Physicality well at all,” he muttered.
+
+“Not an uncommon problem,” Valor commiserated. “Especially for an individual who possesses incredibly rare evolutions. It means something when even I have no notion as to how your Toughness functions before you mentioned how it works. The same goes for your Physicality as well. The Culturist might know more as he has traveled to more dimensions than I, but most known fusions and evolutions are recorded in books or Psychomantic Remembrance crystals. And most of them are individual skills.”
+
+“Because the number of monsters who are literary and have an interest in doing an autobiography is pretty small, huh?”
+
+“You jest, but that is the case. You have to evolve a skill worth noting, possess the intellect and language ability to describe said skill, and then see your works published—and stay published over time instead of being suppressed by political entities who despise the notion of an intelligent monster.”
+
+“Huh? Why would—” Shiv stopped talking as he remembered the Republic’s propaganda about the Abyss. “Ah. Yeah.”
+
+“Yes, indeed. Never underestimate just how much of history has been buried, and how much knowledge has been lost. This world is a graveyard in more ways than one. We live in an ossuary of lost progress. Individually, we are more powerful than our ancestors could ever hope to be. Civilizationally, even under the System, I fear we remain but worms seething at hawks.”
+
+“I’m not sure if that’s actually the case anymore,” Shiv replied. Valor turned to him, gesturing for him to elaborate further. “The Farwalker. He was human. From Earth. He told me things about old Earth. Said he was from the periphery. Somewhere called Centauri or something, and that they fought a war against the ‘Core’ to stop themselves from being enslaved by a machine-mind or something.”
+
+“Truly?” Valor’s interest rang clear in his voice. “Shiv, if possible, could you make introductions? There is much I would like to know about the past. Can Hu would be most fascinated as well.”
+
+“You know what? I think the Pruduveral—felling, how do I pronounce his name? The Farwalker will love to talk with you. Mainly because you’re Udraal’s father, and it sounded like he’s a pain in their ass too.”
+
+At the mention of Udraal, Valor’s heart darkened, and his mood soured immediately—more than any time prior. Shiv’s mind spun; where his memory and thoughtlessness betrayed him in combat, he couldn’t stop his mind from zeroing in on the very evident psychological imbalance Valor was suffering before him. A shadow manifested behind Valor, and it drove a dark dagger through his skull over and over.
+
+“It was recent,” the Harbinger whispered, still weak, but now awake enough to return. “Whatever mental wound he sustained because of Udraal was recent… which means…”
+
+Udraal was probably in the Gate, Shiv guessed. And Valor didn’t tell anyone. He probably has a reason for that. Probably. Or maybe I’m wrong.
+
+“Or maybe you must be on guard. We do not think that Valor will betray us. But that is a hope. And he does not need to betray us to put us in danger. Look at his core—there is resignation and pain. He fought with his son. There are conflict scars there upon his psyche. But he hasn’t told anyone. What he hides remains a danger for the rest of the gate.”
+
+Should I confront him?
+
+“Not yet. Not right now. He needs to remain focused, and so should you. And you should not strike at his vulnerability directly. Not when I remain so dangerous and volatile. But that also means another thing: You must ask Valor to leave before your alternate arrives. Because he will strike at Valor. You must face the final encounter alone.”
+
+Shiv swallowed and understood. “Valor. I got something to tell you.”
+
+“Yes?” Valor answered, sounding slightly worried. An Uva prepared to drive her blade up and through the underside of Shiv’s jaw—but she blinked out of existence as the simulation reset. Shiv found himself returned to the doorway and purged clean of scars. “Ah. Twelve minutes exactly. As I suspected. You should stall each time. Otherwise, you might be faced with an hour on the hardest intensity.”
+
+“Yeah, well, let’s try reaching four before we think about five: I still got Jessica to get through. But speaking of five, you know my alternate will have the Harbinger too, right?”
+
+Valor understood immediately. “Yes. Quite dangerous indeed. I will see myself absent for that period—very thoughtful of you, Shiv. You have my gratitude.”
+
+“Don’t mention it. What’s a disciple for, right?”
+
+“For some masters? A puppet of pain and abuse. Others? To disappoint and be disappointed by.” Valor sighed. “I wish people lived up to their own legend more, Shiv. Sullain… I know you despise him, but I knew him when he was better. The things he could do with magic—”
+
+“I understand,” Shiv cut him off. “The first time I saw him, he turned a rain of fireballs into a flock of birds and then back to fire. Even if he came to butcher and burn my home, he performed a wonder, and it’s what I think of every time I imagine the pinnacle of magic.”
+
+Valor bowed his head. “He ruined himself. He was capable of so much. So many of us are capable of so much. But we always fail ourselves, because of the fragility of our hearts, and the weakness inherent in our egos.” He paused. “Few will become great. Few will be wise enough to master themselves. Few upon few is fewer yet, and that control and insight is something I have never been able to teach. I could not save Andra from her blind loyalty to her people and her own urges. I inflicted an all-consuming obsession upon my son and saw him twisted into what he is now, and I could not protect Adam at all. Disappointment is a terrible thing.”
+
+“Disappointment is education,” Shiv shot back. “Disappointment is being alive. If you weren’t there, then it would be some other excuse, some other injury. I’m glad you’re here, Valor. And I didn’t give a shit that you were reduced or broken before. I’m just glad to have someone who cares, and someone who can teach me when I’m doing wrong. I get your disappointment. Hopefully, I don’t end up breaking your heart too, but we’re still alive, and we’re still here, and until that point—if it ever comes to be—we keep building and trying. Architects of our own fate and all that. It’s just a long education for all of us. I guess the System is like a shitty master for everyone.”
+
+“It really is, isn’t it?” Valor mused, turning his gaze up.
+
+Initiating Encounter (2/5)
+
+Wave 1 activated.
+
+Wave 2 activated.
+
+“Second encounter,” Shiv said. The doors flung open. The Urris came marching forth. “Stall?”
+
+Valor considered the opposition. “Remove the Uvas. They are a distraction right now. Absorb force from the Urris—and eliminate the Culturist the moment he appears. He is too dangerous to serve as a training partner. The Vultegs are far more predictable.”
+
+And from Valor’s words, Shiv gained a glimpse of enlightenment. The Urris were far stronger and tougher than the reduced Culturist, but even so, the orc remained the greater threat. Because raw power alone meant nothing if the body and mind wielding it failed to apply it toward a proper purpose. And that was Shiv’s ultimate weakness: he was a Legend—but he was a Legend closer to Urri than Jessica—or Roland.
+
+He was probably stronger than Jessica—much stronger if he used his skill to its full godsdamned potential. He was now outright tougher. But she still humiliated him because combat was more than two rocks slamming together in Integration. It was everything—all the skills he knew how to use against all the skills she could bring to bear, and who could be more creative and complex with the tools they had.
+
+And I’m just not complex.
+
+The first of the Urris drove a mountain-crumbling blow against Shiv’s skull. But no shockwave disturbed the world, and only the faintest of bruises dotted Shiv’s Onus of Scarred Unbroken. Urri was powerful but predictable, and all that power was stolen out of his punch and converted into tides. Every subsequent blow the other Urris inflicted suffered the same fate. They staggered in place, stumbling and tripping in bellows of surprise as Shiv found himself rich with overflow tides to spend—so rich that his Legion of Self was starting to fog his mind with how much force he now had stored.
+
+Urri was much stronger than the reduced Uva, but Uva's skill was more complicated by a magnitude, and it was to her benefit. Urri's might was nullified outright. His blows and attacks were sloppy and brutal, and in Shiv's mind, it was honestly a miracle he became a Legend at all.
+
+But people like the Culturist, Jessica, Roland, and Valor all had a deeper understanding of what it meant to conduct war. Each of them was specialized in a different way, but all of them had a grasp as to what it meant to truly fight on the level of a Legend. And a Pathbearer of that threshold didn’t have the benefit of being simple-minded.
+
+Another twelve minutes passed. The Culturist appeared, and was promptly turned to cinders by Shiv’s Unique Pyromancy—philosophically complicated enemies served as excellent fuel. By the time the third encounter started, Shiv felt a flow come over him like never before.
+
+“Good, very good,” Valor said, continuing to coach Shiv. “Now eliminate your enemies gradually—make sure there is no one left when Jessica arrives. And as soon as she arrives, find a way to contain Adam. Do not even bother engaging with her. It is time to discover if there is a limit to your Toughness.”
+
+“Contain?” Shiv asked. A thought returned to him, and the corner of his lip curved. “I could collapse the Garden on him, but that might just suffocate him or see Jessica slip between the cracks and gaps by shrinking to the size of a grain. But… you remember the anchor?”
+
+“In Passage?” Valor flinched with disgust. “Ah. Very… inspired, but yes. Quite the strategy—one only you might be able to perform.”
+
+“Yep. Well.” Shiv’s mana hydra reared back all its heads before tearing into his body, pulling him open as he dragged Adam into the vivisection.
+
+“Great One…” Valor cringed in muted horror at Shiv’s casual self-mutilation. “Let us never tell Adam about this. I must congratulate you on disturbing me as well, Shiv. I thought myself beyond disgust or revulsion, but watching you re-enact a gore-soaked reinterpretation of what it means to be a kangaroo has taught me the benefit of not having a working stomach.”
+
+“What’s a kangaroo?”
+
+“It is an animal found in Ostraya.”
+
+“Oh, the bot nation?”
+
+“They’re… not exactly a nation, more like an independent series of clusters watching over the local tribes and wildlife. It’s complicated. But I think you would like it. Many interesting Awakened animals have formed packs and small states of their own there, including a race of surface spiders who have since migrated into the void and beyond.”
+
+“Huh, interesting.”
+
+The doors snapped open. The portal came to life. Shiv rolled his shoulders. “Alright. Tell me more about that when we get done with this. For now, let’s see if we can screw Jessica over.”
+
+“Arroooww!” one of the Urris bellowed. “Doesn’t matter if you’re stuffed inside another! I’ll open him! I’ll shit into him! I’ll shit on you!”
+
+“What an odd series of threats,” Valor mused.
+
+“Yeah, Lord Scorn might be a scat-guy.”
+
+“Hm. How distasteful. Kill them with your fire.”
+
+“You got it, master.”
+
+A few minutes and a hall filled with well-cooked bodies later, a door opened, and Jessica stepped forth—only to freeze mid-stride and groan at the sight of Shiv and Valor.
+
+“Hey, Jessica.” Shiv waved mockingly. His torso was a nest of bloated agony, and Adam’s constant thrashing made every second an exquisite exploration of pain. 3 out of 10, Shiv decided. “Glad to see you again. Well. Have at me. I’m all yours.”
+
+“What the fuck is this?” Jessica hissed, pointing her blade at Shiv. “Is that his nose sticking out of your chest?”
+
+Shiv looked down and grinned. “Yup. Have to keep ripping it back open with Biomancy.” A splash of blood tumbled out of his mouth mid-conversation. “Ah, sorry. He’s bleeding inside me while I’m internally bleeding too. Real mess.”
+
+“This is grotesque.”
+
+“And crawling up someone’s asshole or ripping up their kidneys isn’t?”
+
+“There’s a pretty big difference when you’re doing it to hurt someone else instead of doing a wound-womb pregnancy re-enactment,” Jessica gagged. “Fuck, Shiv. Fuck. Just looking at you makes me grossed out. And you!” She waved her sword at Valor. “Piss off.”
+
+“No,” Valor replied. “I do not answer to simulations.”
+
+“Oh, you cocksucking—you’re alright with this?”
+
+“If his method denies you your victory, then I will sing its praises all the same,” Valor said, holding his head high.
+
+Exasperated, Jessica threw up her hands and marched forward. “Alright, Shiv. I was being nice before—made it quick. But now, you’re going to get all of it. I’m going to do things to your ass that will make Katherine wince and weep.”
+
+“Imagine the papers they’ll write about this too.” Shiv snorted. “Centuries-old hag forces her way into supple boy’s asshole.”
+
+Despite being enemies—and a simulation—Jessica barked an unwilling laugh. “Ah. Go to hells, Shiv.”
+
+“Take me there if you can. Because I bet you can—”
+
+She exploded forth as twin wheels of flame ignited beneath her feet. One moment, she was fifty meters away. The next, she was spiking him through the orichalcum walls lining Adam’s room. It wasn’t even her being faster this time—she simply timed her charge perfectly to one of Shiv’s blinks. All the overflow tides he'd gathered were rendered useless without direction, and by the time Shiv regained his bearings, Jessica was gone—
+
+And then found, as she bounced off the small breathing-hole Shiv had made to keep Adam alive. She was smaller than a speck, but her form glowed bright and resonated with a screaming pitch.
+
+“Inertium recoils both ways, Jessica!” Shiv laughed. Condensed upon his chest was a cluster of tides, hollow flames, and the tight-sprung heads of his hydra. Jessica’s armor rendered her a menace against magic; it also made magic exert a very physical force upon her.
+
+The Giantsbane darted through the air and circled behind Shiv. He tried to track her with his Atlas, but lost track of her in seconds. “Shit—agh.” Something slammed into his hip and left a deep scar along his lower back. A hundred more cuts exploded along his rear and groin, each one enough to cleave a mountain in twain. Shiv went from moving like liquid lightning to a tortoise crawling through mud.
+
+“Shiv! Full tumor!” Valor called out. “Even if she cannot hurt you, she might be able to crawl through your organs. Wrap Adam tighter.”
+
+“Shut the fuck up!” Jessica’s frustrated voice squeaked out from inside Shiv’s lower stomach.
+
+Ah, shit, she’s already inside me! And I didn’t even feel it. I hate this! I fucking hate this skill! Hate it! Shiv flinched and twitched from psychological trauma as he felt her lash and shred against his insides. It felt like his intestines were turning to stone, but aside from that, no pain radiated from the scars lighting up within.
+
+“Holy shit,” Shiv murmured. “This skill might be Narrativium. I am godsdamned indestructible.”
+
+Refusing to be sidetracked by his astonishment, Shiv began triggering a sprawl of rapid cell divisions all around Adam. At the same time, he circulated his Shapeless Tides around the Paragon’s form to ensure that the Giantsbane couldn’t get to him even with a gap.
+
+And somehow, the strategy felling worked.
+
+Shiv’s already mangled insides were inflamed further as Jessica went on a frenzy, slashing, stabbing, bashing, and raging like a pack of feral cats packed tight in the same cage. Within a minute, Shiv was rooted in place, the weight his Onus sustained far exceeding his Physicality’s ability to contend with. He was still capable of crawling, but standing up became a feat that demanded most of his tides, so he committed to lying down. As he did, he found himself staring through the hole leading back into Adam’s room, and realized he was in an extended hallway that resembled the first.
+
+System, you’re an unoriginal shit sometimes.
+
+“Shiv?” Valor asked. “Are you well?”
+
+“Just die! What even is this felling Toughness you have? Why are all my cuts glowing?” Jessica ranted inside his stomach, trying to saw through a cluster of teratomas.
+
+“I wouldn’t say well,” Shiv said, struggling to hold a hand up. “But it’s working. I think.”
+
+“It’s bullshit is what it is! I’d have murdered a Jotun Legend three times over by now. That bitch had Legendary Toughness too! What is this?”
+
+A smug smile came over Shiv’s face as he just got heavier and heavier. The ground began to deform beneath him. The air began to distort as rubble and dust billowed away from Shiv, Jessica hitting him hard enough to turn the atmosphere into plasma-soup with every blow.
+
+And none of it did anything.
+
+Minutes passed. Shiv counted the time and did all he could with his Biomancy to stop himself from expiring from the tumors. The damage he inflicted on himself was the bigger problem in the end. Jessica, meanwhile, complained all the way through as she swapped weapons and started conducting a percussive orchestral number by wailing on Shiv’s bones.
+
+Then, suddenly and without warning, she stopped.
+
+Shiv didn’t even realize she was done until he found her standing over him. He tried to angle his head and look up at her to sneer or taunt, but he was so heavy now that he couldn’t even move his lips. “Yogghh gaveuhhh?”
+
+“Yep,” Jessica said, sounding more than a little displeased. “I’m felling done. This skill is bullshit. You’re bullshit. Are you happy now?”
+
+Shiv broke down in a delirious fit of pig-like laughter. “Yuh…”
+
+“Cheeky shit. What even is that glowing scar-stuff, anyway?” He tried to explain things to her, but even his tongue refused to cooperate. “What? Does it convert pain to exhaustion? Or… weight? Me beating your ass for six minutes just made you stupidly heavy?”
+
+“Yuh…”
+
+She snorted again. “Bullshit. Alright. Well. Good for you. Maybe you might even finish this Delve ahead of time, but for your sake, I hope it really doesn’t have a limit.”
+
+“Huh?”
+
+The simulation blinked. Shiv found himself returned to the hallway—and saw everything restored to the way it was. Feeling his body, he found himself healed and stripped bare of overflow tides. But alive. But progressing. He got through it! He beat Jessica—well, he shrugged off her ripping through his ass as hard as she could for six whole minutes.
+
+“Valor,” Shiv said, “I might just be indestructible.”
+
+“You might just be. Absolutely absurd. Even for a Legendary Skill. And the only price is weight and a period of vulnerability when you shed your scars. If this strategy can work, then I suspect it will be very hard for an enemy to truly destroy you without—even with magic.”
+
+“Looks like I might be getting on the Path of the Indestructible too, huh?”
+
+Initiating Encounter (4/5)
+
+Wave 4 activated.
+
+Wave 5 activated.
+
+Shiv froze. His sudden elation plunged as every single door exploded into splinters and a few hundred Jessicas strolled out. All of them were yawning, and none of them had the same weapon.
+
+“Alright, Giantsbanes,” one of them called out. “Time to see if we can rip this dumb kid in half by pulling his cheeks in opposite directions.”
+
+“This is where the fun begins,” another called, sounding like a woman about to go on a stroll through a park.
+
+“Fuck me,” Shiv muttered.
+
+And then, the grand gate at the far end of the hall activated, and from the dimensional static emerged the blazing, incandescent presence of an Ascendant.
+
+Not of Longinus, but Cripple.
+
+“Deathless. I have come to measure your worth. As a sandbag.”
+
+“Shiv,” Valor hissed. “Tumor. Adam. Now.”
+
+Shiv almost whimpered. “Fuck me triple.”

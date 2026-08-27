@@ -1,0 +1,427 @@
+---
+id: 8024dbb7-9467-5a16-b7ec-f1b790d6dfe4
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 169"
+slug: 0022-the-path-of-ascension-chapter-169
+partOf: the-path-of-ascension
+position: 22
+ownLength: 6756
+unit: words
+ownProgress: 6756
+publishedAt: 2022-09-30
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1005520/the-path-of-ascension-chapter-169"
+royalRoadId: "1005520"
+markedReadAt: "2026-06-29T19:18:11.786Z"
+---
+
+Chapter 169
+
+Long Zhiyuan sat in meditation pose and felt the rising sun’s rays fall onto the pillar that kept him suspended a dozen feet in the air. The dawn moved slowly over the horizon and warmed the dew-dampened robe adorning his lower half. The heat felt good on his bare upper chest.
+
+As the light reached his center, he focused on his inner self, where twelve unreal versions of himself were performing various tasks and exercises.
+
+His Talent bestowed him with the ability to create spiritual clones of himself. They could do anything he could, and any benefit was still gained with a one in ten transfer rate.
+
+The first version of himself was working out. That was all it ever did. All day, every day. Today, the training was focused upon his chest, and his clone was lying on a bench, repping away endlessly. His idle clones, as he called them, never grew tired, never ran out of mana, never grew bored, and could do whatever he directed them to.
+
+His Tier 3 Talent granted Long Zhiyuan a new clone each Tier, but the efficiency in transferring the fruits of their labor to himself only improved by a tiny amount over each Tier up. At Tier 12, they were scarcely better than they had been at Tier 1. Regardless, as they could work even while he slept, their poor efficiency was an acceptable trade-off. Though, he couldn’t help but to long for a higher transfer rate to speed up his advancement. As the total number of clones grew, each new one represented a smaller relative increase.
+
+Still they were incredibly useful even now.
+
+The clones could even transfer over muscle memories, which his second clone was taking advantage of. It was currently climbing over obstacle courses without the aid of Revelations, or techniques. Being able to dodge attacks and keep his balance was always a useful skill.
+
+Long Zhiyuan never would admit it, but he had been terrified of heights as a child, and his second clone allowed him to gain the confidence to overcome that. Even if he was pushed over the edge of a cliff, he could catch himself without a technique or his First Revelation.
+
+He had tried it to be sure.
+
+Fears had to be faced and conquered.
+
+Long Zhiyuan’s third idle clone was practicing his martial arts in slow movements. That clone was more meditative than anything, but he kept it role constant, as it helped keep him calm and centered.
+
+His fourth clone was constantly being blasted apart by various elements and dying. Long Zhiyuan had learned at a young age that pain was more mental than anything else.
+
+The fifth idle clone was using [Seven Demons Strike] over and over, gradually learning and expanding the technique to properly work with an open-handed raking strike, instead of a crude punch. The conversion was agonizingly slow, but that was the last of the four basic elemental strikes that he had yet to master, and it should be finished before the trip to Minkalla.
+
+Using a crude, unrefined technique directly from a technique shard, and without using any of the countless improvements outlined within the Sect manuals, would bring shame upon himself and his Sect. It was also the largest sign of someone who was lazy in their advancement in the worst way. Rushing forward without solidifying their foundation.
+
+His sixth and seventh clones were fighting each other, as were his eighth and ninth, along with the tenth and eleventh. The sixth, eighth, and tenth clones were perfect copies of himself with various weapons, but their opponents changed after each fight.
+
+His first two clone opponents were some of the other Young Masters he had fought and killed, but even dead, they still worked for him. Every other day he changed it up, and made the copies of himself fight uneven battles to stress test his capabilities in disadvantageous positions. But currently, he was on a solo fight day which meant an even distribution.
+
+His eleventh clone was shifting between various monsters he had fought, trying to learn the best way to kill rift creatures that were stronger than him. People were more dangerous, but he still needed to delve rifts. And the better he could do that, the faster he would advance in his cultivation.
+
+Sadly, Long Zhiyuan needed to use [Heavenly All Seeing Eye] to properly gather enough data on his opponent, if he wanted to create a functioning copy. That technique, more than any of his others, was his greatest tool.
+
+That was what his final, twelfth clone was for. It endlessly used [Heavenly All Seeing Eye], growing the technique’s structure to better gather data from people and monsters for him to fight.
+
+He hopped down from the pillar when the sun reached his head, and his Servant, Godfrey, waited with a towel at the ready.
+
+As always, he had a pleasant smile plastered on his face.
+
+The Servants were an institution as old as the Young Master system was. They stayed by the side of each Young Master to protect them from attacks above their Tier, and to assist them in their daily living.
+
+Each Servant wore the same purple and yellow robe, and they were notorious for being fastidiously neat and tidy. But Long Zhiyuan never forgot that under the endlessly friendly and servile appearance laid no loyalty to him. Godfrey had only stood by and watched as he beat the man’s former Young Master, Ren Manni, to death in order to take over her position as the Soaring Clouds Sect's Young Master.
+
+Godfrey simply looked on in silence without his smile ever slipping and Long Zhiyuan knew the man would do so again if he was ever killed.
+
+Long Zhiyuan had offered the girl a chance to surrender three times, but she refused each time. Ultimately, he had been forced to rip out her windpipe.
+
+Taking the cloth, he whipped his chest off. After handing the towel back to Godfrey, he asked, “Have my gloves arrived yet?”
+
+Godfrey’s smile stayed constant as he stowed the towel and slipped a box out from his baggy sleeves.
+
+“It came in just this morning Young Master, but you were in your mediation, so I held onto it.” Saying that, he presented the box with both hands and a slight bow.
+
+Godfrey’s voice was pleasant and subservient, which made it easy for some to forget that all the Servants were Tier 35’s, hand trained by the Divine Fist Sect, the home of Grand Sect Elder Winter Hornet.
+
+Long Zhiyuan had seen Godfrey interfere once, just once, when two cultivators were dueling in their flight path to the nearest city. They had refused to move, and in one wave of his sleeve, the two went flying through the nearest two mountains.
+
+Cracking opening the ornate box, he saw two gloves neatly laid out and withdrew the right handed one.
+
+Slipping it over his own hand, it was a perfect fit. The small and seemingly benign claws at the end were hardly noticeable against the black leather.
+
+Flexing his hand, he found the thin glove to be a perfect match to his request.
+
+Tugging the other glove on, he curled his fingers into a fist to confirm that the nails wouldn’t puncture the glove.
+
+“Acceptable. What did they end up using for the materials?” He had only asked for the gloves and provided the general specifications. Everything else had been left up to the Gorgeous Leather Workers Pavilion. The details hadn’t been interesting before, but now, seeing the finished craft, he was intrigued.
+
+Godfrey spoke through his same smile, “Once they heard that the gloves were for Young Master Blood Hand, the Gorgeous Leather Workers Pavilion made every effort, and used all of their resources to fulfill the Young Master’s request. The materials used are all peak Tier 14. The craftsmen used the hide of an Abyssal Ogre for the leather, and tipped the gloves with the claws from a Wight that was nearing Tier 15 as the boss in a rift. The claws were then filed down and polished with petrified orchid petals. The result is a supple yet durable pair of covertly clawed gloves. Runes for durability were added to the leather and runes of sharpness for the nails. The head craftsman stated that it should get through most Tier 14 light armor, and the properties of the Wights should allow it to more easily pierce magical armor. The effect is not perfect, since the Wights are dead, but it should prove sufficient for your trip to Minkalla.”
+
+Long Zhiyuan cringed internally at his moniker, but kept it off his face. He hated the nickname, but claw techniques were so unexpected that they made the perfect hidden weapon. Twice now, it had saved his life in the Clash of Fates, the forced duels used to cull second-rate Young Masters.
+
+Walking out of those death matches with his hands covered with blood had earned him the title. As it went, Young Master Blood Hand wasn't the worst pseudonym, but neither was it what he would have picked for himself.
+
+Still, it was a reminder of the Culling matches organized by the Sects involving Young Masters who wished to keep their position. After Tier 5, you were no longer an Initiate, and could no longer challenge a Young Master for their position. As an Initiate, you could still challenge a higher Tier Young Master, but that became more unlikely the larger the gap became. Instead, you had to either wait for the Young Master to die, or challenge another Sect for their position, assuming they had an eligible Young Master closer to your Tier. If you won, their title would go to your own Sect.
+
+That was the only way to have more than a single Young Master in any Sect but it was also the easiest way for a Sect to grow stronger.
+
+The privileged position of Young Master brought honor and resources to both the Sect and individual. Thus, taking a Young Master position was a good way to deal a blow to a competing Sect as well as strengthen your own. After all, they would be unable to raise a new Young Master until you died, surrendered it, or reached Tier 8.
+
+If a Sect lost their Young Master positions too often, it was considered failed, and would eventually be cannibalized by rival sects. Once the failed Sects bones were picked clean, a new Sect would be raised in its place.
+
+It was kill or be killed for anyone who stepped on the road of cultivation. That was the only truth the Realm offered after all.
+
+However, while Young Masters were given nearly unlimited resources, they needed to prove their worth against their peers at every other Tier after Tier 5.
+
+On specially prepared planets, all the Young Masters in that region of the Sects were required to take part in the Clash of Fates. Devices were set up that locked them on Tier specific battlefields full of monsters and opportunities, and only when half died were the restrictions lifted. Then, and only then, were they allowed to leave. But there were treasures hidden away, so most stayed to search for their good fortune, and to snatch resources from the others which increased the death rate well above one out of two.
+
+In the last Culling he had killed seven of the 261 Young Masters who had faced him, an accomplishment which had earned him more resources and even greater respect. Four of those had found their own opportunities which had ended up further empowering himself.
+
+The strong grew stronger. The weak fed the strong. As was right and proper.
+
+As long as he continued to delve up three Tiers, he was secure in his position as one of the strongest Young Masters of his generation. But that wasn't enough for him. Long Zhiyuan wanted to press his momentum, and delve deep into Minkalla to reap the best rewards.
+
+At the end of the day, power was the only thing that mattered.
+
+He was moving through a few practice swings with a random sword to get used to the new gloves, when Godfrey interrupted him. “The Sect Master wants to see you, Young Master. At your convenience, of course.”
+
+Long Zhiyuan stopped and nodded, putting away the blade and going to see Shining Lilac immediately.
+
+Sect Master Shining Lilac sat in her pavilion with a calm demeanor, watching the youngest disciples going through their martial forms under the direction of Elder Han, but Long Zhiyuan knew the lie behind the mask.
+
+Ren Manni, the prideful woman who had refused to surrender had been the Sect Master’s daughter, and he had killed her. The honor and resources he had earned for her and the Sect were the only things keeping him alive.
+
+He could see it in her eyes.
+
+The second he lost his value, she would be the first to tear him to pieces.
+
+He and the Sect Master had an understanding, and they mostly avoided each other, but Minkalla was too important, so with the upcoming trip he assumed the topic was urgent for her to call on him so suddenly.
+
+Knowing his predecessor’s lineage, Long Zhiyuan had tried to let her surrender, but she forced his hand with her refusal. To challenge a Young Master for their position only had two outcomes for the challenger.
+
+Victory or death.
+
+Challenging your betters had to carry risk, after all. The daggers carried by the Servants weren't for show. Long Zhiyuan had only two ways for the fight to end and keep his life, have her surrender or kill her. Godfrey would have killed him for failing in the challenge if he let her live without her verbal surrender. Surrender was a benefit of the strong but they still needed to lower their heads and admit defeat.
+
+With Ren Manni refusing to surrender even after three offers by him he had been forced to kill her to save his own life and hadn’t hesitated.
+
+From his understanding, Servants used to protect their Young Masters’ lives, but that had only created weak cultivators. The Grand Sect Elder of the era had stepped in and revamped the Servants’ role from that of protectors to what they were today.
+
+Now, every Sect, including those subsidiary to the Great Sects, held a position for a Young Master. It was why the Lower Tiers were the most brutal. There were many people fighting for the scarcely limited slots, constantly competing to see who would live long enough to grow stronger and faster than their peers.
+
+He had been forced to kill Ren Manni to protect his own life, but Shining Lilac didn’t see it that way, and both of them knew it.
+
+As he stood to the side, waiting for her to acknowledge him, he remembered his own time with Elder Han. The man was Tier 18, and not a particularly strong cultivator, but he had a knack for knowing exactly how hard to push the pre-awakened ten-year-olds, and extract the best out of them without breaking them.
+
+Elder Han had ensured Long Zhiyuan’s own time in the outer Sect was productive, and even a little fun.
+
+Half of the games that the children played were cleverly disguised training games which would prepare them for later battles training their small unit teamwork and tactics.
+
+Finally, as the children were ushered into a run to the stream two miles away, Shining Lilac spoke, “Young Master Blood Hand, are you prepared to go to Minkalla?”
+
+Long Zhiyuan nodded to her back. “I am. Do we have a final list of the disciples who are coming with me?”
+
+Shining Lilac gestured with a finger, and a memory crystal flew to him. He had his [Spiritual Self] analyze it.
+
+More cultivators than he had expected had applied to accompany him on this trip. Too many, honestly. Some of them were clearly unsuited to brave such dangers. Pushing yourself was always a good thing, but pushing yourself off a cliff when you had no chance of surviving was stupid. Some cultivators peaked later in life, and that was a perfectly valid path to advancement.
+
+“Minkalla is a charnel house. Prepare your fellow disciples well, as I expect you to ensure some of them return.” Long Zhiyuan resisted the urge to narrow his eyes. The Sect Master’s tone suggested that he would be held responsible if not enough survived the trip, but she continued before he could think too deeply on the implication. “Your fates will be tested in Minkalla, and not only against the other Sects, but also against the Foreign Powers. If you are not careful, even your prodigious powers will mean little. I wish you the best of luck in reaching the core.”
+
+While her words were those of encouragement, Long Zhiyuan knew that she hoped he dove too deep and killed himself. No matter. He intended to reach the bottom no matter what. Though he knew not what awaited him, as the Sects believed that entering Minkalla blind made for better cultivators from those who exited, the journey would certainly not be in vain. Be it a heavens-shattering technique or earth-rendering weapon, the gains would be his.
+
+Any and everything was possible in Minkalla. The stories told of dozens of legends who were common before testing their luck in its ruinous depths.
+
+Still her words about hoping some of her disciples returned was a fair assessment, though worrying. He had seen the numbers before. If one contender from a group of ten returned from Minkalla, it would be a bountiful year.
+
+Long Zhiyuan waited for another few minutes, but when Shining Lilac said nothing else he dipped his head in a bow before he turned and left.
+
+Technically, as a Young Master, he was of equal social standing to the Sect Master and could do away with formalities, but it was a privilege he rarely exercised. He expected others to follow the formalities, so he followed them himself.
+
+Reviewing the list of names, he walked with purpose to seek out a few of the disciples that he knew were unsuitable.
+
+Talking with the weaker disciples, he convinced all but one of them to reconsider and stay in the Sect to grow their skills before venturing out.
+
+Han De refused, saying he had made up his mind to use Minkalla to transform himself.
+
+Death or glory.
+
+Long Zhiyuan disagreed, but said nothing. It wasn’t his place to do more than advise them.
+
+A short two days later, his group boarded the Sect's cloudship and flew to the regional capital of the planet.
+
+They were greeted by Provincial Governor Adam, who was an outer disciple of the Smithing Hands Sect. The Tier 47 Sect was responsible for overseeing this weak planet and all of the on-planet Sects reported to them.
+
+Once all thirty-seven local Sects gathered, he asked, “Are each of you prepared, body and spirit, for Minkalla?”
+
+As the Young Master, Long Zhiyuan reported for his Sect and listened as each of the other Young Masters, or eldest disciples, did the same.
+
+Despite there being thirty-seven Sects represented, there were only nine Young Masters on this voyage.
+
+Five were Tier 13, three were Tier 14, and he was the sole one at Tier 12.
+
+The other Young Masters had all been killed during the Cullings, and their Sects hadn’t raised up a Young Master in time to the proper Tier for Minkalla.
+
+Deep Sky Ravagers Sect was the only one with two Young Masters; two years ago it would have been three, but Long Zhiyuan had personally killed Shen Fung in the last culling, returning a Young Master position to Flowing Grass Sect.
+
+Their two Sects had an incredible enmity already, and he knew that he had to watch his back in Minkalla’s halls. For their blades, and the other Great Powers’.
+
+Still he had practiced fighting both of them with his Talent many times, and was confident in his victory against both sides. Killing them would be harder, but he could defeat them without issue.
+
+Provincial Governor Adam was a charming host, and once they arrived on the large, chaotic ship, he gathered the Young Masters for an elegant dinner. Long Zhiyuan thought the event was a waste of time, but maintained a polite mask during the meal, as was expected of one of his position.
+
+Provincial Governor Adam had a strong backing, and despite their statuses as Young Masters, he had more power than them. However, status was a fickle thing, and the man was sucking up to them in case one of them made it past Tier 20 in the program. Though, they were guilty of the same in hopes of using him as a recommendation to join the higher ranking Sects.
+
+As Long Zhiyuan played the game, the Servants who stood along the far wall never left his mind.
+
+All the men were exactly 5’11, and the women were 5’8. Each of them wore the same robes in the same way, and stood in the same position, hands clasped in front of them. The only way to tell them apart was their facial features. But even then, that was muted, as they all had one of four hair cuts.
+
+Long and unbound, except for a single tail to keep hair off of the face, long and twisted into a bun at the nape of the neck, short and tidy with the hair combed and styled to precision, or cleanly shaven with not a hair in sight.
+
+That was it. No Servant had anything except those four styles.
+
+Most of them had their hair long, either in a bun or loose, but one of the women had a shaved head, and two of the men had the closer cut.
+
+It was unnerving to see so many people look so similar, but with small differences.
+
+His own Servant was the only one who never stopped smiling, but somehow, even that did not seem out of place with the other Servants.
+
+It was uncanny.
+
+After the appropriate amount of time chatting, Long Zhiyuan made his excuses and rose to leave.
+
+Young Mistress Caring Jade joined him, and they silently walked through the ship's spacious interiors until the paths to their destinations split apart.
+
+He thought she wouldn't say anything, but she turned just as they were to separate and asked, “Young Master Blood Hand, can I rely on you and your people to watch my own in Minkalla?”
+
+Long Zhiyuan paused as he thought it over.
+
+Her Sect, Sleek Blades Sect, wasn’t an ally of Soaring Clouds Sect, but it was neutral enough that he didn’t suspect foul play in her suggestion.
+
+A full alliance was out of the question, but nonaggression was possible.
+
+“On behalf of the Soaring Clouds Sect,” he replied, “I can agree on a pact of nonaggression within Minkalla.”
+
+He noticed an almost imperceptible frown flit across Caring Jade’s face before she nodded back, accepting his word. She turned without saying anything more, with her own Servant a silent shadow trailing behind her as they made their way to the Sleek Blades Sect’s quarters.
+
+Returning to his cabin, Long Zhiyuan started his own martial practices. His Talent let him practice at all times but doing it himself in conjunction with his idle clone sped up the progress, and he needed to be at his best for what was coming up.
+
+When they were halfway to Minkalla, he started bringing each disciple of the Soaring Clouds Sect to his cabin and offering his experience to help them with any issues. It was expected of a Young Master to be both a strong fighter and a leader.
+
+Long Zhiyuan didn't care for that expectation, but he would do his job. Anything he did, he would do to the best of his abilities, so he didn’t slack off, and offered whatever he could to his juniors. It wasn't like any of them were a threat. If they were, they would have challenged him when he was Tier 5.
+
+None had.
+
+Few of the disciples had anything large to ask of him, and with those, he simply conversed and ensured that they knew what they were getting into. Those with larger hurdles, he spent more time with and helped them work through whatever individual obstacles they had in front of them.
+
+Most were simple, but Han De was having trouble with his [First Dawn’s Spiritual Might] technique, and the modifications towards close combat necessary for stronger punches according to the Sect’s manuscript.
+
+He had messed something up in the technique’s structure, and instead of strengthening his chest and core, it now focused most of its power into his legs. Han De wanted to discard the technique and try again, not wanting to be thought a coward only trying to run away. Instead of that, Long Zhiyuan convinced him to not be so hasty, and taught him a few new kicking techniques to take advantage of the technique’s modification.
+
+If Han De got a kicking shin guard, he could turn that mistake into a devastating surprise attack.
+
+And if all else failed, it would make for a good escape technique.
+
+There was nothing wrong with running away from a fight you couldn’t win. The Great Sects preached differently, but the Clash of Fates taught him better.
+
+He didn't say it, but he could see in Han De’s eyes that he understood.
+
+The trip itself was mostly uneventful, though he was still unable to get [Heavenly All Seeing Eye] to peer past the surface and find out what techniques people were hiding. Long Zhiyuan believed he was close, but there was a bottleneck that he couldn’t yet overcome. After his continued failures, he suspected that he couldn't do it without a refinement sphere, and intended to buy one before they entered Minkalla proper.
+
+The only eventful thing to happen was when the Titans Fist Sect and Deep Miners Sect came to blows, and eleven of their disciples were slain before they were reigned in by the other Sects.
+
+Those two Sects hated each other to the bone, so it wasn’t surprising. The Sect Masters had a longstanding feud, and that had seeped into the younger generation.
+
+Long Zhiyuan just found it a waste of good bodies ready to enter Minkalla.
+
+They could have killed each other there, and at least served some purpose, after all.
+
+When they arrived at the Minkalla system, Long Zhiyuan knew his time to shine had come.
+
+***
+
+Alexi watched as her team got ready.
+
+Their barracks room was clean and neat.
+
+Alpha team had been preparing for their Minkalla run for the last year, and each of them was at the peak of Tier 12.
+
+They were strong, and would dominate once inside.
+
+When they had been designated Alpha team in recognition of their exceptional advancement, everyone on the team had decided to take new names that started with A’s to honor Mother Virgil.
+
+She had saved them from a life of torment and given them power.
+
+They hadn’t had names, and she had encouraged them to choose their own.
+
+Ashton, Arnold, Aaron, Ajay, Adam, April, Alyssa, Alana, Aurora, and herself, Alexi. It had been fun for the ten of them to come up with names, and their choices were mirrored by the other nine squads.
+
+She was still mad at them for stealing their idea to take names that started with the first letter of the squad designation, but each team claimed to have had the idea first.
+
+Alexi knew that as a lie, as they had come up with the idea on their own, but each team had gone through their own naming scheme.
+
+‘A’ through ‘I’, each had kept the convention.
+
+Still, Alexi knew her team was the best. The friendly rivalry between the teams had turned heated in the last year as they prepared for Minkalla, but Mother Virgil had cautioned them against truly fighting each other, which kept tempers down to a reasonable degree.
+
+She still wanted her team to do the best.
+
+Mother Virgil had promised them great rewards if they managed to reach the core and reap the best prizes.
+
+That was all her team needed to hear to set that as their only acceptable goal.
+
+If Mother Virgil wanted it, she would get it. She had saved them from a life worse than death, and had given them hope.
+
+Even as the runes carved into their very bones increased in power, and pushed their bodies to the limit with their corrupting presence, Mother Virgil always made sure to come and soothe them with her power.
+
+Alexi hadn’t even needed to cajole her team into practicing harder after hearing Mother Virgil's request.
+
+They had already been working hard, of course, but going at one hundred percent at all times was nearly impossible. Still, they had managed it with that goal. That was the power that Mother Virgil gave them.
+
+All of the teams took strength from their savior, and wanted to get strong enough to help protect her.
+
+They had all learned about the other Evil Places that had once ripped the glorious Federation apart in a jealous fit, and Mother Virgil had the arduous task of protecting the survivors of the Federation.
+
+She worked so hard to protect them, and took her limited and precious time to help their insignificant selves. She had helped them recover from being cruelly operated on by the other Powers, who thought they could do whatever they wanted in Federation land and to their people.
+
+Alpha team would be the tip of Mother Virgil’s spear, and they were determined to keep the lead position firmly in their grasp.
+
+Their runes were the most temperamental, but it also gave them the greatest power. They worked hard to keep ahead of the evil that had been put into their bones, but they knew the only way to truly succeed was to reach Tier 35, where they could reign supreme at the top of the mundane wars.
+
+It was more than perfect, since at that Tier, they could turn their weapons on the Evil Empire, who Mother Virgil believed were the ones to do this to them.
+
+Not content with their false monster of Duke Waters, who they propped up with lies and propaganda, they had entered the Federation’s lands and tried to create strong people using wicked methods to fill the void.
+
+Alexi clenched her hand at the thought as she watched Aaron, Ajay, and April checking over everyone's weapons and gear.
+
+They were their specialists in enchantments and crafting. Each member of the team knew their own gear, but after the initial checks, the specialists always looked it over.
+
+Adam, their healer, was moving through each of them and inspected them before stopping at her.
+
+“Hey, boss. How are you holding up?” He flashed a smile and pressed two fingers to her neck, sending a wave of magic into her.
+
+Alexi didn’t lie. Mother Virgil had explained that lying to seem stronger than they were was counterproductive. The power in their bones was growing each day, and if it grew too much, they needed to speak up and tell the official healers or herself, so they could cast a spell to slow their growth.
+
+The spells were painful in a different way, but at least they didn’t threaten to tear their skin apart.
+
+Alexi, as the core focus of the runes that the Evil Empire had implanted in her squad, had it the worst.
+
+A trickle of the rest of the squad's power always seeped into her, and threatened to rip her apart.
+
+Still, right now, it was under control. While the power had built up to an almost uncontrollable limit that had threatened to kill all of them in the last few months, the head enchanter, Jecker, had come to them with a new bracelet that was better at suppressing the power of the runes.
+
+It was good timing, and she was sure that Mother Virgil, in her benevolence, had helped the man come up with it before their all-important delve into Minkalla.
+
+Alexi didn’t know what she would have done if she still had to endure the power levels that the runes had been outputting in the last year for the Minkalla run.
+
+The pain had pushed them all to their limits, but now that it was gone, she and everyone felt light as a feather with their power under control.
+
+Adam gave her a clean bill of health and moved on to helping Ashton, and going over their provisions for the Minkalla run, as was his secondary role. They would need enough food and water for the entire run, and none of them wanted to risk running low on food again.
+
+During one of their training missions, the ration ship had exploded, and they had been forced to eat bugs to survive. It would have been ok, but the bugs had an acidic blood that made each one painful to eat.
+
+None of them wanted to go through that again.
+
+Receiving a message from Mother Virgil, Alexi popped to her feet and called out, “Last checks. Mother Virgil is going to send us off in ten minutes.”
+
+That sent everyone into overdrive, and they were ready and in formation in under three minutes. None of them were willing to make Mother Virgil wait around for them.
+
+While she never said so, they understood that she was busy, and every minute she spent with them was a minute she wasn't holding back the Evil Empire. Even though they wished they could spend every moment in Mother Virgil's gentle presence, they knew that her guiding hand couldn't be everywhere.
+
+All the squads, A through I, vibrated as they stood in formation and waited.
+
+Their anticipation made the seven minutes feel more like seven hours, but Mother Virgil was perfectly on time, and they felt her warm and comforting aura seep into their bones and repress the runes inside of them.
+
+Mother Virgil smiled at them, and Alexi was grateful for her position as the squad leader. It had been forced on her by the Evil Empire, as well as her role as the core of the formation, but it let her stand closer to Mother Virgil than the others in her squad.
+
+That made it all worth it.
+
+“How are you all doing? Feeling ok? Do we need Jecker to look you over again before you go?”
+
+Mother Virgil looked so concerned that Alexi’s heart twisted, but she put on her best smile and shook her head. Pain meant nothing when compared to the weight Mother Virgil shouldered.
+
+Seeing they were okay, she continued. “We are sending a number of other youths into Minkalla with you. You don't need to protect them, as your mission is more important. Reach the core of Minkalla and reap the best rewards.”
+
+Her face hardened, and Alexi grew angry that someone had upset Mother Virgil. “As much as I don't want to encourage you to violence, you will all need to do your best to kill the Empire scum and their doggish allies, the Guilders, to bring them to justice for their evil ways. If you see any of them, remove them.”
+
+Alexi and the others all cried out that they would, and Mother Virgil smiled back at them. “Violence is never the best option, but sometimes it's the only option. Look at us. We, the Federation, have two allies because we are kind and don't commit acts of evil. The Sects and Republic are our friends and allies, while the other Evil Places are content to inflict suffering on us for the slightest provocation.”
+
+Brett, leader of the Bravo team, cried out, “We must kill the filthy beasts and half-bloods as well, Mother Virgil! They can't be allowed to exist after how they treated our kindness. Please let us put them down as well.”
+
+Mother Virgil smiled sadly and sighed. It felt like a weight landed on her shoulder as she let out that breath. “Very true. The beasts who think they are as good as us humans are scum. Right now, they are still wounded and obviously weaker than us. Eventually, they will be put back in their place, but not now. There is no need for you to sully your hands with their unworthy blood at this time. No, we need to bring the Empire to its knees, and cut its head off. Killing their demonic youths who go to Minkalla is just the first step. Everything in its due time, children.”
+
+Alexi wished she could help Mother Virgil more directly, but knew they needed to do their own small part.
+
+For the third time since they started training for Minkalla, Mother Virgil asked, “Are you sure that you want to go to Minkalla? It’s very dangerous. I can’t be sure that you will all come back if you go, and it would break my heart if that happens. They used different types of runes on each of you. Jecker hasn't figured out how to turn them off, but he has deduced that they are activating at different rates, and at different power levels, making it hard to know what will happen next. It will be dangerous for all of you.”
+
+Alexi felt an overwhelming drive wash over her to go to Minkalla. It had been explained that Minkalla was the place to reforge the body and mind.
+
+The Evil Empire had already stolen their past, and the ninety of them had collectively agreed to become strong enough to take their futures away from the Empire.
+
+But to do that, they needed power.
+
+The best place for them to get stronger right now was Minkalla. That made the decision easy. Mother Virgil wanted them to be safe, but they needed to be strong to protect her and the glorious Federation.
+
+Mother Virgil spent a few minutes going amongst each of them and speaking a few words, and giving each of them a small touch.
+
+Alexi earned herself a cheek caress, and she promised herself not to wash that check for the next month at least. A touch from Mother Virgil was too precious to wash away.
+
+To their dismay, they had to leave on a ship to Minkalla, but the squads knew that Mother Virgil was waving them away, sad to see them go.
+
+Minkalla was where they would make Mother Virgil proud.
+
+And they would do it with their enemy's blood.
+
+***
+
+Virgil watched the first batch of rune soldiers leave for Minkalla and wondered if half of them would return.
+
+Probably not.
+
+The first iteration of runed soldiers were good, but there were too many instabilities with the massive power they had given the kids. It was too early to see if they were truly Slayer quality this early into the testing.
+
+The brainwashing had worked wonders, however, and when combined with her Talent, the kids were unshakably loyal. Now was a good time to test how the kids reacted while away from her Talent.
+
+Would any of them start to have their own independent, pesky thoughts? That data would be helpful for later batches.
+
+Lester and Jecker had already created another few iterations of the runes to make a second batch of kids. A more stable batch, which could see a more widespread usage in the special forces. She was quite happy with her decision to not kill Jecker, after all. Lester had been quite right when he decided to save the man. He was more than happy to slice open kids and do horrible things to them in the name of science.
+
+And she had more than enough bodies to throw at the tests. Ninety pre-awakened kids were easy to source after all.
+
+She went back to her office and hoped at least one of the teams would get their power under control in Minkalla, so they might be useful.
+
+An expanded version of the rune soldier program had its uses for special elite troops in the army, but she needed someone to counter Duke Waters. Her gut told her that the answer wasn’t in stable troops, but strong ones.
+
+The bright candle burned the fastest. And she only needed the candle to burn down one house.
+
+Who ever expected the candle to survive the inferno?

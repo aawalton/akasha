@@ -1,0 +1,327 @@
+---
+id: 96832b10-e9cc-5d55-8025-0a68b6f3d71f
+page-type-slug: story-chapter-royal-road
+title: "THIRTY-FOUR: Fishing"
+slug: 0034-thirty-four-fishing
+partOf: super-supportive
+position: 34
+ownLength: 4296
+unit: words
+publishedAt: 2023-05-08
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1206053/thirty-four-fishing"
+royalRoadId: "1206053"
+---
+
+There wasn’t time to panic, though perhaps Alden should have.
+
+In his limited experience, teleports didn’t usually land you thirty feet up in the air, in the jungle, above a shallow-looking pool of water surrounded by screaming teenage Artonans.
+
+Alden dropped like a stone while the System flashed the words ASSUME DIVING POSTURE at him like it thought he could just do that in an instant under these conditions.
+
+He fell feet first, his lab coat flapping around his elbows, and he barely had the presence of mind to hold his breath before he hit the water. It burned as it went up his nose, but Alden was too busy kicking furiously to care.
+
+The coat was not designed for swimming. Nor were the jogger pants. He had to hold the elastic band in one hand to keep them from dropping down and tangling around his feet.
+
+His lungs were burning when he breached the surface. He drew in a huge breath. A tiny waterfall—just a trickle a few inches wide—spilled into the pool from a fern-covered rock face in front of him. Treading water, he turned away from it toward the shore, trying to find the emergency he was supposed to help with.
+
+There was an awful lot of shouting over there. It was a confusing spectacle of Artonan teens running back and forth, yelling hysterically, and waving their arms at him. There were about ten of them. His targeting halo was glowing brightly over the only one who didn’t seem to be panicking, though she was gesturing at him and calling something insistent.
+
+Isn’t that the girl who made the macrame project out of animal skins on the first day? They’d met in the elevator, too. She was one of the ones Joe actually liked. Jel-something.
+
+He started to swim toward her, but then the System translated what she was saying.
+
+<<Alden Ryeh-b’t! Get it! Get the beast behind you. Catch it!>>
+
+Alden spun in the water, heart racing, looking for “the beast.” He expected to see something on the verge of attacking him. Instead, he saw a dark brown shape swimming away from him at an angle. He only managed to spot it because the water was so crystal clear.
+
+It was lightning fast. He didn’t have a sense of its size because he wasn’t actually sure how far away it was. The pool was deeper than it appeared. And he couldn’t really make out the animal’s shape before it darted down behind a rock.
+
+It seemed to have tentacles.
+
+Was it some kind of alien squid?
+
+A squid having a medical emergency? A student that had accidentally turned themselves into a squid? If he didn’t catch them in time would they be unable to revert?
+
+Calm down, you lunatic. You’re not making any sense. You need more information.
+
+“What do you mean ‘catch it?’” he shouted back at Jel-girl. “How am I supposed to do that?”
+
+She had one of the System access tablets, and she waved it at him. <<Hurry! We can’t let it digest too much!>>
+
+Alden felt like “digest” was a very bad word in this context.
+
+Trying to keep his head, he asked, “What did it eat?”
+
+Please don’t say a person. Please don’t say a person.
+
+Four different teens, including the girl—Jel-nor. Right! That was her name!—looked toward a boy lying on the shore. Alden hadn’t even noticed him, because he was being still and quiet.
+
+Really still and quiet. Alden almost thought he was unconscious, but then he made out the guy’s lips moving furiously. He was either casting a spell, praying, or chaining for all he was worth. Then, a girl who’d been standing between them shifted a few steps, and Alden’s mouth went dry.
+
+“Oh shit,” he whispered. “Where is his foot?”
+
+There was blood staining the leaf litter by the water’s edge, but not quite as much as he would have expected. The Artonan boy was obviously doing a good job with his spell, but how long would that last?
+
+Jel-nor read her tablet then gave Alden an exasperated look, as if his question was too stupid to answer.
+
+He stared at her. “You want me to catch something that ate somebody’s foot?”
+
+<<It can be reattached!>> Jel-nor called. <<Just get it back!>>
+
+“I can’t catch a freaking water monster. That’s not what my skill does!” Alden protested. “You need to call one of the professors. And get that guy to a hospital!”
+
+Why the hell hadn’t they already done that?
+
+<<You will catch the mishnen first! Its digestion process is swift. If we don’t obtain the foot quickly too much damage will be done to the tissues.>>
+
+Some of the other teens were looking between the two of them doubtfully and whispering now.
+
+Alden’s mind raced. Was he just being a coward? It was hard to tell because he was, in fact, pretty freaked by the idea of chasing a mystery monster that apparently bit people hard enough to sever limbs. But he didn’t think that was the only reason he was hesitating.
+
+Shouldn’t he go pick up the wounded guy so that he could help him stave off blood loss?
+
+Ever since he got this assignment, Alden had tried to picture what he might do if a medical crisis did arise. And none of his imaginings had involved chasing after a wild animal. He thought protecting the injured person from shock while they teleported to a medical facility made much more sense.
+
+But Jel-nor was supposedly a genius. And she seemed really sure. And the System had let her do an emergency summons for this.
+
+I guess I have to at least try?
+
+“All right,” he said, fighting to remove his coat while keeping his head above water. “Do I get a net or something?”
+
+The Artonans all stared at him like he’d asked them for a pony.
+
+“No net then,” he muttered. “Okay.”
+
+When he’d finally rid himself of the coat and his shoes, Alden took the deepest breath he could and dove underwater. It had been a long time since kiddie swim class in Mrs. McGugall’s backyard pool when he was six, and that was the closest thing he’d ever had to formal lessons. He’d been considering signing up for lifeguard training next summer, but that wouldn’t do him much good now.
+
+He could hold his breath as well as an average human and swim in the right direction with noble intentions. That was about it.
+
+The water stung his eyes, but at least he could clearly see the rock the foot-eater had hidden itself behind.
+
+His only hope was to…what? Stick his hand behind the rock, offer it his own flesh, and hope that his skill activated when it bit down? Like he was noodling for catfish?
+
+Jel-nor had told him to get the animal. Maybe that was enough. But what if if it was an intelligent beast that couldn’t be entrusted against its will? Or what if no animal could be unless it was already captured?
+
+He hadn’t had a chance to test that, and he hadn’t asked Joe because it seemed like a waste of a question when his lesson time was limited.
+
+Crap. I don’t know what to do.
+
+Alden had to surface for another gulp of air before he even made an attempt to catch the creature.
+
+He’d started to lose his pants again. They were in the way. Maybe he should take them off and try to use them as a lure somehow?
+
+He ignored the cries and questions from the shore and dove again.
+
+By the time he got down to the animal’s hiding place, he was already hungry for air. But he kicked his legs free of the joggers and stuffed a rounded stone from the bottom of the pool into them.
+
+His enemy was nearly hidden under the sand. Alden could only make out a single patch of smooth, mottled brown skin. He still wasn’t sure of the overall size of it either.
+
+Big enough to bite off a foot. This is a bad idea.
+
+Shit. Why is this my job? I can think of so many people who would be better than me.
+
+Heart pounding and lungs burning, Alden dropped his weighted pants on top of the mystery monster from a couple yards above and watched, ready to launch himself away at the first sign of attack. He already knew the thing was too fast in the water for him to catch. Since that was the case, he could only hope that it was dumb and stubborn. If it was the kind of animal that would bite down and hold on, maybe there was a faint chance he could drag it back to shore?
+
+But no.
+
+It wasn’t that kind of animal.
+
+The second the pants touched it, the creature shot away in a swirling cloud of sand. Panicking at the sudden movement even though he’d been expecting it, Alden swam away as fast as he could, too. When he made it up for air again and gasped, the animal was still cutting through the pool in search of another hiding spot.
+
+It had almost crashed right into him when it made its escape. And he could see it well enough now. It was like a smooth-skinned crocodile thing with four thick flailing tentacles instead of a tail.
+
+Scary as heck. And about the size of a large dog if you didn’t count the tentacles.
+
+So the pants idea was never going to work. Alden might win a tug of war game with it on land, but he’d drown if he tried it underwater.
+
+Jel-nor was shouting orders. The System was translating them.
+
+But she could go on ordering him to be some Olympic swimming, gator wrestling hybrid until she was blue in the face. It didn’t mean Alden would suddenly become one.
+
+And he’d literally just made his best, spur-of-the-moment effort to fight the baby kraken for her. He was all out of creativity. He needed a tool. Or a spell. Or help.
+
+Alden looked back at the gathered teens to tell them that. One of the girls was on her knees beside the injured boy now, applying pressure to the bloody spot where his foot had been with her jacket.
+
+Where’s the rest of the medical team? Did they not call them? Does the System not automatically summon everyone needed to handle an emergency?
+
+Well, it might not. It seemed like it made suggestions, and the summoners made final decisions. Plus summoning wasn’t entirely free, and it wasn’t like the System itself cared if people lived or died. Probably there were all kinds of intricate rules, settings, and exchanges involved that Alden knew nothing about.
+
+But he really doubted LeafSong was skimping on emergency services. Bti-qwol had complained that there were too many members of the medical team and they never had anything to do. Alden was positive a little local teleport wasn’t too much of burden, considering they were regularly ordered up to dispose of trash in the lab.
+
+Does that mean the System recommended me and I’m sufficient for this task?
+
+He wanted to believe in himself, but it seemed like a stretch. He stared at the foot-eater. It was still swimming around in fast circles.
+
+Maybe…maybe I can do it? If I just get close enough to get a hand on it?
+
+He tried to rearrange his thinking. If he was here, there was something he could do. Perhaps this was a pivotal moment in his life as an Avowed, and he was about to discover some exciting hidden facet of his power.
+
+Yeah. Sure. That’s likely.
+
+Then, he spotted something familiar trailing along with the monster’s tentacles.
+
+It was Jel-nor’s finished project from the lab. Alden was sure of it. The knotted pieces of skin she’d made had been woven into a sort of lasso with a matching bracelet after she’d returned for her second session. It would assist her with summoning something somehow, though Alden had never gotten a clear notion of what that would look like.
+
+I bet it looks like this, he thought. And I bet this isn’t supposed to be happening out in the woods without an instructor around.
+
+“System, I don’t understand my current assignment. Please clarify it.”
+
+It responded without hesitation.
+
+[Assist with minor medical emergency. Nature of the medical emergency is a severed limb, with one individual in need of stabilization and transport. Follow instructions from summoner on scene. Do you require further clarification?]
+
+Alden treaded water. Jel-nor and a couple of the others kept shouting at him, asking him why he wasn’t capturing the crocosquid and ordering him to get to work.
+
+He didn’t like this. He thought what was happening was that Jel-nor and her friends had summoned and tried to control this thing when they weren’t supposed to. It had gone wrong. The System must have authorized an emergency teleport because someone was seriously injured and Alden’s skill could stabilize the victim, but instead of using him that way, the examinees  were hoping he could catch their mistake.
+
+Maybe they think they can dispose of it and fix everything before the school finds out?
+
+That seemed overly ambitious. Did they plan to reattach the hurt guy’s foot all by themselves?
+
+Even if they could do that there’s no way they can hide the fact that I was summoned for an emergency. I’m working for the university. They yanked me away from the lab when I was on duty there. There has to be some kind of notification for the head of the medical team at least.
+
+Possibly if the monster was gone, and they could persuade Alden not to mention it, they thought they could say the accident had happened some other way?
+
+That sounded dumb.
+
+But maybe they were being dumb.
+
+Surely even genius junior wizards could be scared and stupid sometimes. A guy had lost a limb, so it clearly hadn’t been a day for good decisions.
+
+Where does that leave me, though?
+
+<<Time is of the essence, Alden Ryeh-b’t!>> Jel-nor shouted. <<You must catch it right away.>>
+
+If time was of the essence, then this task wasn’t just unreasonable. It was impossible. The only chance they had was if the monster decided to attack Alden, and his skill activated. Fortunately for him, the beast didn’t seem interested in doing that.
+
+Alden swam toward shore. As soon as he started moving, the Artonans stopped yelling at him. Maybe they thought he had a plan.
+
+He did not.
+
+He knew he couldn’t afford to piss off a bunch of wizards, even untrained ones who seemed to be around his own age. But someone here had to be logical. He climbed out of the water, and they all took a step back from him.
+
+Maybe he looked angry? He was only frustrated and nervous. And it wasn’t like he could do anything to them anyway.
+
+Up close, he could see that the boy on the ground was gritting his teeth now. Someone had arranged colorful gemstones in a line on top of his chest, and the kneeling girl who was applying pressure to his wound was definitely casting something.
+
+Alden looked at Jel-nor. He’d thought she wasn’t panicking like the others when he first dropped in, but now he realized she was just holding it in a little better. Her hands were shaking. She was still wearing the macrame bracelet that matched her lasso around one wrist.
+
+“I am not capable of catching that thing,” he said, trying to keep his tone firm and calm. “Not quickly. Maybe I could manage it eventually, if I had time to think up some kind of trap. But if you want to get your friend’s foot back in a hurry, you have to summon someone else.”
+
+She stared at a spot just over his shoulder. <<You…you must capture it,>> she said in a voice that trembled. <<I have summoned you here, and I command—>>
+
+The guy standing nearest her grabbed her by the arm. <<Don’t.>>
+
+His voice was harsh.
+
+<<But we have to—>>
+
+<<If the task is truly impossible, and you try to enforce it that way, he can request arbitration,>> he snapped. <<Being denied admission to LeafSong is not as serious as being charged with Contract abuse!>>
+
+<<I agree,>> a girl added, glancing nervously at Alden. <<My family would disown me if I was involved in that kind of scandal. If you formally enforce after summoning under false pretenses, I’ll report it myself.>>
+
+<<Cowards,>> someone else spat. <<Maybe you two don’t need a scholarship to a good school, but I—>>
+
+Before long, half the group was screaming at each other, and Jel-nor was crying while she held her tablet in a white-knuckled grip.
+
+Alden was so tense he couldn’t unlock his jaw to speak. Not that he knew what to say anyway.
+
+These guys obviously need a grown-up. He was fairly sure he was right about the situation now at least. For some reason, they thought they could hide their crime if they banished crocosquid and got the foot back.
+
+Alden stepped over to the injured person. When the girl casting the spell paused for breath, he leaned over the two of them and said nervously, “Do you want me to hold him? It’s what my skill’s actually good for.”
+
+She blinked up at him, a vague expression on her face as if she were trying to snap herself out of a trance. Surprisingly, it was the victim who answered.  He’d bitten his lips until they bled, and he was panting. But his eyes snapped open and flicked to Alden.
+
+There were rings of golden metal around his irises. Alden had seen a few different Artonans with those. He thought they were probably devices similar to Joe’s smart monocle.
+
+<<I can endure,>> the boy said stiffly. <<I do not require treatment yet. This is merely a trial of suffering on the path to my future.>>
+
+Alden stared at him. Was this guy for real? He was missing a body part. “Are you serious?”
+
+<<An injury such as this is meaningless compared to my purpose. I don’t expect a human to understand. We must…we must draw the mishnen in. It has locked onto me. It will come if we bait it.>>
+
+The girl trying to heal him looked shocked. And it took Alden a second to realize what he meant.
+
+“You mean bait it with yourself? Will that even work? I was just swimming with it, and it ran from me. Maybe it’s not hungry after its last…”
+
+He trailed off because it seemed rude to call his foot a “meal.”
+
+<<Why would it be attracted to you when we are so nearby? A mishnen can only eat a few times in its life. It prioritizes quality.>>
+
+Alden thought this idiot might have just insulted him.
+
+“Well, I’m here to help an injured person,” he muttered. “If you feel so good you want to go fishing, then send me back to the lab.”
+
+<<It will work!>> an eager voice said.
+
+Alden turned to see Jel-nor’s face brightening. <<In the moment it attacks him, you can stop it with your skill! If you bring it onto land, I can kill it. We’ll retrieve his foot and dispose of the beast while you take him to receive medical care. All will be well!>>
+
+Alden side-eyed her. “I mean…I guess?”
+
+But how were they going to explain the foot getting severed and partially digested in the first place? Well, that wasn’t Alden’s business. What was his business was worrying whether or not he could get in trouble for going along with this scheme.
+
+Dangling a bleeding person in a pond to lure squidzilla was extreme. What if it went totally wrong, the guy died or lost another limb, and the assembled teenagers tried to pin the blame on Alden?
+
+Could they do that? Joe had said working under orders would protect him from repercussions. But this group seemed off the rails. Would the System back Alden up if they lied and said he’d misconstrued their instructions or just failed at them?
+
+He wasn’t sure. He wanted to ask the System outright, but he didn’t want them to hear him.
+
+And while they were all hyping each other up to go fishing for their monster, another, more chilling, thought suddenly occurred to Alden.
+
+What if they get me killed on purpose? There was a lot of desperation in the air. The one who wanted a scholarship seemed capable of it. Jel-nor and the injured guy did, too.
+
+They weren’t supposed to be able to outright murder him. But if they deliberately put one of their friend’s lives in danger and then ordered him to protect them…
+
+That’s kind of what they’re doing with this bait plan anyway.
+
+Alden hated making a split second decision under these circumstances. The last thing he wanted was to make a bunch of Artonans furious with him. But he was willing to admit he was in over his head. He punched a button on his interface and started typing.
+
+<<What…are you doing?>> the victim gasped. Alden had to hand it to the guy. He was really sharp for someone who was slowly bleeding out.
+
+“I’m looking for a spell that will help me catch the mishnen,” Alden said. “I have one left to affix.”
+
+The boy closed his eyes. <<That is a worthy thing for you to do,>> he said. And he actually sounded moved. <<One day, when I become a Knight of the Mother Planet, I will summon you often and pay you well to thank you for your sacrifice.>>
+
+Alden smiled in spite of himself. This guy really was serious about…something. Being a Knight? He was also self-confident to the point of stupidity.
+
+“I can’t believe I just wondered if you would try to murder me,” he muttered. “You’re kind of cool. In an insane way. I don’t know what a Knight of the Mother Planet is, but I’m sure you’ll get there, man. Hopefully with both of your feet. Try not to hold this against me when you become an awesome wizard, okay?”
+
+An answer to his message flashed across the screen, and he sighed with relief. Good.
+
+<<I don’t understand?>> the wannabe Knight said.
+
+The girl who’d been healing him must have, though. Her eyes widened in alarm.
+
+Alden gave her an apologetic look. Then, loud enough to catch everyone’s attention, he said, “If it’s any consolation, I called someone who might think you guys summoning a vicious creature you can’t control is interesting and ambitious. I hope it works out for you all.”
+
+About three seconds later, Joe teleported in. He arrived neatly on dry land beside the lake.
+
+I knew it wasn’t normal for the System to drop me in the water, Alden thought. Had Jel-nor been trying to land him directly on top of the monster to facilitate its capture?
+
+The professor was taking a bite out of one of the egg rolls Alden was so fond of, and he wore an expression of lively curiosity on his face as he examined the scene before him.
+
+“Alden, you poor dear!” he said. “Where are the rest of your clothes? Did they get your coat wet?”
+
+He glared at the assembled students. One of the girls burst into tears, and the boy who wanted the scholarship actually prostrated himself on the bloody leaves.
+
+<<Do you brats have any idea how much damage you could have done? What if my assistant couldn’t swim? What if he’d been carrying a large quantity of alkali metal? What if I hadn’t designed that beautiful coat of his to be waterproof?>>
+
+“Um…professor?” Alden gestured at the guy on the ground. Whatever they’d been doing to seal his wound had obviously been forgotten in the shock of Joe’s arrival. The shirt wrapped around his ankle was rapidly getting soaked with dark burgundy blood now.
+
+“Oh, yes,” Joe said in an unconcerned voice. “It’s him. I suppose you’d better haul him around while I deal with the rest of it. Just a moment. Let me…”
+
+His eye zipped around behind its smart lens, and a second later, Alden received a trio of messages.
+
+The first was a System notification letting him know that an official university representative was now on scene and should be obeyed. The targeting halo appeared over Joe’s head.
+
+The second was a proper quest assignment to “offer aid” to the injured student.
+
+The third was a private message from Joe.
+
+[I assume you’re willing to keep your mouth shut about their little infraction, and you don’t care how I handle the matter. Otherwise you would have called the head of the medical team instead of me. Is that right?]
+
+Actually, Alden had made his choice mostly based on the belief that Joe wouldn’t order him to fight a sea monster when he needed him alive to complete his own dangerous quests every night. But it was a nice bonus that the professor might be inclined to help the students get away with their crimes. They’d all be able to summon Alden for whatever they wanted one day, and he didn’t like the idea of them seeking vengeance against him ten years down the line.
+
+He made a zipper motion against his lips, which had Joe tilting his head in confusion, so he added an additional thumbs up.
+
+“Wonderful!” said Joe, rubbing his hands together and turning to admire the  creature in the pool. <<Today, ladies and gentlemen, we will all be learning an important lesson. Mistakes have consequences. And having someone like me fix those consequences for you can be very expensive.>>

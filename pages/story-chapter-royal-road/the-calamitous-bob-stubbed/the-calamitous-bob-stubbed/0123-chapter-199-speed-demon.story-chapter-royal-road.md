@@ -1,0 +1,429 @@
+---
+id: a4a7c71d-d1ff-5f56-a5e3-44a5b4795889
+page-type-slug: story-chapter-royal-road
+title: "Chapter 199: Speed Demon"
+slug: 0123-chapter-199-speed-demon
+partOf: the-calamitous-bob-stubbed
+position: 123
+ownLength: 6057
+unit: words
+ownProgress: 6057
+publishedAt: 2025-03-28
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2156900/chapter-199-speed-demon"
+royalRoadId: "2156900"
+markedReadAt: "2026-06-29T21:19:02.401Z"
+---
+
+The Red Tribe army moved east. Through valleys and plains, they progressed with slow purpose, gathering around the hulking form of the reinforced landship. Nervousness returned as the old heads among them remembered landmarks that their kind hadn’t seen in years, as well as the memories they carried. Most of those memories were tragic: retreats in the dead of night, carrying wounded friends and brothers who would die before the day’s break, starvation, shattered hopes. As armed as they were now, the wood and steel in their hands did little to ward off those old ghosts.
+
+For the occasion, the Red Tribe civilians had woven grass gambeson for everyone, and inlaid them with small bone charms blessed by the ancestors. The gambesons were hard to make and they wouldn’t last long, yet they were effective and a constant reminder that the people were behind their soldiers. Now the gear of clan warriors had gained a pleasing uniformity. Then there were Marruk’s fighters, of course, all armored in dull gray, forming a core of power and experience.
+
+The clan advanced in disciplined columns with the pakar riders dismounted. Speed wasn’t important. Stealth was, and so the steppe warriors treaded lightly to avoid raising a cloud of dust.
+
+Now, the results of intensive farming were obvious. Entire copses of trees, entire fields of tall grass had been cut to harvest cereals, but the wind and the poor earth had turned that dream to ashes. The column walked by abandoned farmsteads, empty barns, sometimes burnt structures and derelict mills. A few enduring places were recently shuttered, their inhabitants evacuated in anticipation for the attack. Discipline let Marruk prevent looting as was, apparently, kark tradition. Nothing could be allowed to slow them down.
+
+To avoid being spotted, the expedition followed a low trail that snaked among higher elevations. It wasn’t because the balloon was disabled that archers on the Border Fortress’ walls suddenly had no eyes. To avoid scouts, Tylek the Shadow Hunter and Irao’s hadals spread out to provide cover though so far, there had been no patrols to be found.
+
+“It could be a trap,” Marruk grumbled.
+
+Viv couldn’t blame her for being paranoid. Not after everything she’d been through.
+
+“If there is one, the hadals will find it. I suspect that they merely rely too much on the balloon.”
+
+“To the extent of not fielding any patrols?” Marruk asked.
+
+“Remember, they know the hadals are here and that they’re capable of wiping out an entire generation of dark blades in a single ambush. Who would want to go out on patrol against that?”
+
+Marruk grunted.
+
+“And there is you, and She-Who-Feasts-on-Many-and-Collects-Much as well. Hmmm, you are right. Who would want to be outside the walls right now?”
+
+Viv was sure they didn’t very much fancy being inside the walls either. Or at least, they wouldn’t after she was done.
+
+The kark army camped without fires barely five kilometers away from the walls. By then, Viv could have seen them if she wanted. The temptation was strong, but there would be no risks taken. The next morning, everyone assembled after a breakfast of cold rations. The mood was serious, yet not as somber as it had been when Marruk arrived. The stout woman had everybody’s undivided attention. It was a pleasure to see that, finally, they had some hope. Not much, but it was there.
+
+Marruk’s voice was heavy with grief when she finally spoke. It wasn’t just the losses over all those years. The state of the Red Tribe ancestral lands was enough to make anyone horrified.
+
+Once again, Sala translated with the occasional sob.
+
+“My kin, hear me. Today, we end the nightmare. Think not of the dead that led us here, or the previous bloody attempts, or the fear in your belly, or your family back at the camp. Do not lose your focus. Grab your spear. Grab your shield. Protect your neighbors, for today, we end the nightmare. Do not scream of glory or hatred. Do not posture. Do not provoke. Strike and block, and advance. Kill when you can. Rest when you must. Watch out for the others. Today, we end the nightmare. It had been for too long and cost us far too much but we are here, finally, at the gates of their castle, with all we need to triumph. They are scared and they should be, because today, we are coming for them one last time. Today, we finish this. Today, we end the nightmare! Forward!”
+
+It was a testament to the Red Tribe’s newfound discipline that barely a growl escaped from their throats. Marruk’s men climbed aboard the Beacon, strapping themselves in in preparation of the siege. The columns advanced with grim resolve, and Viv went with them.
+
+Arthur snuck in behind her. She’d been hiding from the fortress as well.
+
+They will be ready for you, mother.
+
+“No one is ever ready for me.”
+
+Arthur rolled her eyes, something she must have learned from one smug bastard or another.
+
+Please. Don’t try to impress me. I’m a dragon.
+
+You can ride on my back anyway.
+
+Just to scare them!
+
+And if they don’t do well enough, we can always split later.
+
+“I will never say no to this, daughter of mine. Let’s just wait until we’re through the gates because I think I can supercharge the landship.”
+
+I like when we break things!
+
+Viv couldn’t argue with that.
+
+***
+
+The border fortress just happened upon Viv, or at least that was the way she saw it. One moment they were climbing a small hill, the next, they had fields and the keep itself extending in front of them. The early morning light shone on the new battlement, clean and restored, on the towers, and on the monumental gate shimmering with arcane energies. Viv could barely believe her eyes. The shield used life magic. Life! How much effort could it have taken to enchant that? And just for her too.
+
+It was kind of gratifying when enemies built entire strategies around your existence.
+
+The sight of the imposing citadel was enough to give the kark pause, but only for a second. Viv wasn’t that impressed. It was barely larger than a village, and a little less imposing than Green Edge where Constable Tarano had made his last stand. A drying river protected the left approach while a steep hill protected the right, preventing an easy surround. The ground between them was completely devoid of cover to help the Lutenese archers, a strategy that had worked in the past but now would bite them in the ass, for the Beacon was here, and the Beacon loved flat ground. Sounds of alarm from the city emerged with the coming of the landship but from the small number of soldiers on the walls, Viv could tell they’d been caught off guard. Perfect.
+
+She jumped onto the deck. Frosthawk was at the helm, wearing his battle robe and a manic grin.
+
+“Your Majesty? Would you like to take over?” he asked in a tight voice.
+
+“No, that ship is your baby, but I’ll connect to the core and add my mana to the enchantments, if you don’t mind.”
+
+“I will not refuse an elemental archmage acting as my battery. No offense. We’re just waiting for the kark to be ready.”
+
+The columns quickly spread into shield rings while the pakar riders mounted behind the ship. They were quick and efficient. Meanwhile, the first archers of the garrison were rushing to the battlements, carrying buckets of arrows. There was an air of frantic panic to them.
+
+Viv couldn’t see any mages yet. She trusted Arthur and her own instincts to cover her if they tried any weird shit. Now, it was time to do what Marruk said. The warchief strapped herself to the railings next to her father.
+
+Viv moved to the circle in the middle of the ship. Everyone was ready. There was an air of electric anticipation.
+
+“Ready to end it?” she asked.
+
+“I was ready before my mother died. Go.”
+
+Matar gave his daughter one last fond look. He brandished the spear. A plume of dragon fire lit up the sky above the landship. There was nothing left to say, because all that mattered had already been said. He roared, and the Red Tribe roared with him.
+
+It was incredibly loud. This time, Viv didn’t mind.
+
+“Full speed. Go!”
+
+Frosthawk released the landship’s brakes. Wind, both natural and born of magic, snapped the sails. The Beacon lurched forward with a groan of stressed metal, then it picked up speed as it went down the slope. The massive steel beast rushed over fields and dusty roads, past deserted sheds. After five seconds, they’d left the pakar charge in the dust. After ten, the wind made Viv’s hair whip her cheeks. The rumble of the wheels covered everything but Frosthawk’s screams.
+
+“More power! More!”
+
+Viv poured mana into the core until the enchantments glowed like magma. The landship hit a tiny bump in the road. They were airborne for a full second before smashing back down and still, they accelerated. Viv glanced up to see the walls coming towards them at a daunting speed. The animal part of her brain yelled that she was going to get smushed. It was getting increasingly hard to silence it. Panicked people scrambled all over the crenelations. Ahead, the gate’s shield vibrated with power.
+
+“Hahahahaha!” Frosthawk roared. “Now, power to the prow!”
+
+He said that but he was in charge of the enchantments! Viv gritted her teeth as all the available magic was redirected from the sails to the spur and the shield ahead of it. Some idiots tried to shoot them with arrows but the wind was still so strong that they bounced away.
+
+She saw the gates were very close.
+
+“Brace!”
+
+With a cataclysmic explosion, the Beacon rammed through the gate in a deluge of splinters and collapsing masonry. Viv lurched and only being strapped to the deck saved her from being catapulted into a nearby balcony. The landship rolled over a cordon of amassed troops, tossing them like pinwheels, through a nice street, over a gentle set of stairs that sent it flying for another couple second of animalistic fear, and then into the manor of the city’s governor where Viv had delivered her ultimatum. The landship still managed to demolish another set of gates, and half of a garden before planting itself in the main wing with one last, glorious crash.
+
+“Oooooow.”
+
+The posters were right. It wasn't the speed that killed you. It was the stop at the end.
+
+It took a moment for Viv to reorient herself in the cloud of debris. The entire fortress fell silent as both assailant and defender recovered from their ordeal. A few seconds later, all hell broke loose.
+
+Marruk’s, well, ‘marines’, she guessed, dropped from the damaged Beacon with bellows of unbridled fury. Lutenese troops rallied behind them to cover what was left of the gates against the incoming pakar charge and the thousands of infantrymen sprinting behind them. On the walls, archers were recovering to redeem themselves.
+
+Of the mages, there was no sign.
+
+“Let’s fucking gooooo!” Frosthawk exulted as he emerged from the burning manor.
+
+“Frosthawk?”
+
+“Yes,” he replied, quickly regaining his scholarly gravitas. “I shall stay with the warchief and provide support.”
+
+“Thank you. Now, to see what they have in store.”
+
+Let’s gooooo!
+
+“Not you too,” Viv whispered. “Right.”
+
+Viv took off on Arthur’s back. From above, the fortress felt much less daunting. She could see the terror in the eyes of the overwhelmed defenders, and the determination in the face of those who had not engaged the kark. The castle’s keep remained fully closed for now. Marruk had her work cut out for her.
+
+Still no mages. There were mana concentrations across the city but she didn’t feel like hunting them down. Maybe she could lure them out?
+
+Wait, of course she could lure them out.
+
+[Aspect of the Paragon]
+
+“HOW LONG DO YOU INTEND TO HIDE, LUTENESE? MUST I SCOUR THE CITY FOR MICE, OR WILL YOU AT LEAST TRY TO STOP ME?”
+
+“You kark fucker!”
+
+Hey, it worked!
+
+***
+
+Min watched her fellow Lutenese fall into the girl’s trap like spring babies, the idiots. They’d left their array inactive as well. An entire cadre losing it just because of a small provocation.
+
+It was already going to shit.
+
+The Black Witch had entered the city through the gate specifically designed to stop her with the help of a war machine. Gods, but did the woman love her yries contraptions. She’d finally taken flight though, as expected, and just above the city as well. She was in perfect range of the three tactical arrays. Two now, since that vainglorious idiot Kel had just broken cover.
+
+Min had to make it count.
+
+What an idiot. He didn’t stand a chance. She could still feel it, that hollow terror, the feeling of having claws around her throat. The flame that ends everything. Someone so young shouldn’t have this mark on their soul. It wasn’t right. They didn’t have the maturity to not use it.
+
+Sweat pearled on her brow. An old wound on her back ached after the intense work and rude awakening. She was too old for this shit.
+
+“Archmage?” young San asked.
+
+“On my mark. Three. Two. One. Now!”
+
+Massive power flooded from her cadre to her. With expert control backed by her hard-earned [mana mastery], she wrestled the rebellious flood into the array at her feet, triggering the final sigils. The walls of the tower fell around her. She saw the sky, again. She saw the black witch too. And the dragon.
+
+A wave of fresh fear washed over her, mixed with a sense of standing on the wrong side of the war. Min recognized a mix of leadership and intimidation. She wouldn’t let it cow her. With a flick of her hand, a massive thunderbolt erupted between herself and the witch. An instant later, the second bolt stopped a few handspans away from the dragon. The intensity of the attack made the sky over the fortress light up. Two grand spells ought to be enough. The intimidation lessened, but it didn’t fade away.
+
+Even before she could see again, Min knew the attack hadn’t killed the witch.
+
+“Take flight! Now!”
+
+Her cadre took off, mirrored by the other. She couldn’t see the third cadre who’d attacked early. Dust covered the form of the witch. It came from a cracked sphere of conjured stone hovering in the air. An earth shield? This large?
+
+Damn dragons.
+
+Min’s cadre scattered up while she looked back. The witch was unhurt. A massive black shield built like a hive surrounded her form, obscuring it from view. Only the tip of wing-like blades burrowing in the mana weave emerged from this sanctum. It exploded out an instant later. Min deftly flew away from the expanding shrapnel, followed by her cadre, but the third one wasn’t so lucky. Men and women she’d known for years fell as they were cut to pieces. The fools. Why didn’t they listen? Why did people never listen to her?
+
+A hell of black tendrils and spells finished off the third cadre before they could do anything. Lazily, the dragon flew after her. Min felt a cold and amused attention on her. She was right. They couldn’t defeat that monster.
+
+“Alright, stick to the plan! Scatter and cast!”
+
+She made sure to lag behind to offer the most convenient target. Her instincts screamed. She grabbed her custom focus.
+
+“Life shield!”
+
+A ray of black light hit her with unerring accuracy. Mana drained from the monster core with alarming speed but the shield held. The attention on her redoubled. Other members of the cadre made the air around the witch unbreathable, but the dragon contemptuously waved the spell away. A few air blades and lesser bolts bounced uselessly against the combined shields.
+
+The dragon accelerated. A frustrated part of her whispered that the dragon had merely waited to give them some time. It was so damn fast. She felt the way it pulled at the gray mana around it, displaying a control Min had worked her entire life to approach. She fought the dragon for it by pulling at the air herself. Maybe that would slow it down.
+
+“Contest it!”
+
+A few of her cadre members understood her. Still scattered, they fought the dragon for control. To Min’s surprise, the dragon relinquished it. Or rather, suddenly, it wasn’t there anymore.
+
+The dragon and the witch reappeared right in front of her. The dragon could teleport?
+
+She was so dead.
+
+She was absolutely dead. She just hoped young San and the others would get out. Flee and forget this ridiculous affair. Min raised a shield knowing it wouldn’t matter.
+
+Death didn’t come. The dragon and the witch had separated.
+
+Boring.
+
+The dragon spoke in her mind. It was the voice of a petulant young woman, but lower somehow. It was just so strange.
+
+Min watched it leave. The creature flew to the other Harrakan archmage who was covering the kark invaders. Fire roared on a squad of archers.
+
+Min still had the witch next to her.
+
+It kind of stung to be dismissed like that.
+
+“I’m going to assume your plan was to scatter and waste my time by forcing me to come after you?” the woman asked Min in the northerner tongue.
+
+It was frustrating that she had a Helockian accent, along with a strange singsong pronunciation that might be due to her Outlander origins. The Helockian inflections made Min feel like she was scolded by her old professor, and no matter it had happened over a hundred years before.
+
+“Yes,” she reluctantly admitted, “although I expected the gate and ambush to slow you down, perhaps even stop you.”
+
+If the witch wanted to talk, Min was fine with talking.
+
+“Very well. I need some training anyway. I believe you will attack my allies if I do not handle you, so let’s play a game. So long as you only target me, I won’t kill you. Let’s dance.”
+
+“What?”
+
+A telekinesis spell smashed into Min’s mid-section, sending her away, then the ‘game’ was up. The witch teleported to the other cadre and used a telekinesis spell to hit one of its members , but gave him enough time to resume flight before hitting the steep hill below. He immediately cast another spell.
+
+“You are ‘tagged’. Either you land, or I kill you,” the witch said.
+
+Her intimidation once again filled the air. It was cold and uncaring.
+
+“Do as she says,” Min ordered.
+
+“But—”
+
+“Do it! You’re out. The others, her teleportation is short range. Keep your distance!”
+
+And it worked. The witch did teleport. It was easy to predict in the way shadows shimmered around her before she did. The jump was also short range, a bit like the abilities famed assassins were rumored to have. When the witch did, her cadre members would fly away with all their defenses active which would really help stop her spells, even some small beam she did that could catch them. She was too slow to follow them as well. It was a miracle she could fly without gray mana, and Min had to commend her, yet telekinesis was not a replacement to mastery of the air. She was an awkward swimmer competing with fishes. The cadres moved around her with ease, peppering her with spells. It seemed that they had reached a stalemate, but then she learned. The telekinesis spell gave her an agility in every direction, her body somehow tolerating the absurd decelerations and wild direction changes. Somehow, she also figured out her tell and started to use it as a feint, allowing the mages to scatter before teleporting by surprise into blind spots. More of the cadre had to land, then even more as they started to grow tired from the constant casting.
+
+They reached low clouds and she… disappeared.
+
+“Shadow magic! Watch out! Dive!”
+
+Fighting her in the clouds was futile. Min still managed a few ice spells that covered the shield with hoarfrost but they did little. The witch’s defenses were just too strong.
+
+Once she figured out the mages lacked a way to detect her easily, the witch used it in conjunction with her teleport to lose them for precious seconds. She was still slow but now she could come from high and low.
+
+“First cadre, look up, the other look down. The first one who spots her warns the others!” Min screamed.
+
+The countermeasure worked until she realized some people were better spotters than others, and used the weakness of the latter to close in on the former. Between the strain of the constant battle and the ambushes, the last of her teams were eliminated until only she remained, core exhausted and with no more tricks to play.
+
+“I will ask you to surrender now,” the witch said after failing to catch her. “Otherwise I will attempt more lethal spells until your life shield runs out.”
+
+“I accept,” Min said.
+
+She was on her last leg anyway.
+
+“This is it then. Let’s go back to town. And no shenanigans or I’ll get serious.”
+
+Most of the cadres were too tired to put up a good fight anyway. Min accepted. Between two ragged breaths, she gathered the courage to ask what she wanted to know.
+
+“I want to ask, why did you spare us? Your reputation is not one of mercy.”
+
+She shrugged, and the gesture was so annoyingly human. Most sovereigns made themselves superhuman by behavior rather than nature to help their rule. For her, it felt like the contrary.
+
+“You didn’t take part in the genocide. You’re also more valuable to me as prisoners than as corpses, so I thought I’d give you a chance.”
+
+Min could accept that.
+
+***
+
+Viv was done handling the mages and this time, no one had died! She was truly growing as a person.
+
+Mother!
+
+Mother, is this some human treachery?
+
+Come see!
+
+Frowning, Viv hurried back, with the captive mages following at a respectable distance. In the distance, the border fortress was silent, with plumes of fire coming from a few buildings. The Pure League flags on the keep had been lowered, though none had been raised to replace them yet. As she approached. She saw that Marruk’s soldiers manned (or karked?) the battlements while the distinct shape of her daughter clung to the highest spire, wings extended over the stone like an exquisite gargoyle. Her muzzle aimed east.
+
+Viv landed next to Matar a moment later. Behind, the pakar riders and Red Tribe infantry reformed, many of them lightly wounded. There were no more pure league soldiers in the open, but she could see eyes glinting through the murderholes. The battle was won, yet it was not fully over.
+
+What had caught Arthur’s attention was a small group, well, only about a thousand warriors moving towards the fortress, yet the flags displayed gave her a shock. Ducal forces from northern Baran were led by blade masters in shining armor. Knight groups from prestigious orders were there as well, and above them floated cadres of elite Baranese war mages — the kind of which could actually kill her if they tried hard enough. At the center of this unlikely formation was the royal flag of Baran, next to that of the Lutenese prince’s personal guard. Those troops were outnumbered by the kark almost three to one, yet Viv knew that if it came to war, her side didn’t stand a chance. If they really fought, all she could do was hold the back line with the help of the hadals. Even Arthur might get picked off by elite archers here.
+
+She could get an inkling as to what was going on, but she still seethed when King Erezak the Third of Baran addressed her once his troops approached her walls. As usual, it sounded as if the king were much closer.
+
+“Greetings to you, Empress Viviane of Harrak, our dear friend!”
+
+Dear friend my ass, yet protocol dictated a polite response and Viv obliged.
+
+“And greetings to you, King Erezal the Third of Baran. What brought you here, so far from your domain?”
+
+“What else but the best interests of the continent? When two of my dear allies cross blade, it is my solemn duty to intervene, so that pain may be lessened, and mankind soar above our differences for the future of our civilization. Such is my duty.”
+
+Viv gripped the stone with all the patience she could muster. What had the fucking Pure League promised him so he would save their damn bacon? Baran had been up her ass since she’d allied with Enoria, but seriously, that was too much. By now she could see the old twat very well as he looked all regal with his long white beard on a nice white horse in his nice white armor like a fairy tale good king, before the evil emperor put his head on a spike anyway. But Viv still had a few cards to play.
+
+“I fear I am not the person you should address. This is a conflict between the Red Tribe of the kark and the Pure League.”
+
+“And yet I fear you must speak in their name, because the casus belli concerns your empire with the kark as your auxiliary. Otherwise, this war is one of aggression of a non-human species against a member of the Paramese alliance…”
+
+That asshole smiled, and the rest left unsaid.
+
+“War of aggression?” Marruk choked, “He dares?”
+
+Yeah he fucking did, and he could because as much as Viv had every right to wreck the league, the league had every right to go cry to mommy to the king of a foreign nation with the strongest army on the continent.
+
+Erezak had her, and he had the kark, and from his beatific smile, he knew it. And he knew Viv knew it.
+
+It was all very frustrating.
+
+“What do we do?” Marruk whispered, suddenly out of her depth.
+
+“We negotiate.”
+
+***
+
+The negotiations took place in a large tent erected some distance away from the walls under the oath-bound promise of truce of everyone. Even with bringing Frosthawk, Matar, Marruk, Tylek the Shadow Hunter, and Odon the Bellicose, Viv would still have been outnumbered by the other side’s ‘Important People’, had Arthur not decided to attend.
+
+The Baranese and Lutenese delegation were learning that numbers failed to produce much of an effect when a dragon was in attendance. To represent the empire and herself, Arthur had donned ribbons and chimes to decorate her beautiful horns. The arrangement was aesthetically pleasing and that seemed to scare the shit out of the Baranese nobles for some reason. In order to be clear where she stood, Viv still had her anchors out.
+
+The two sides sat, and introductions started. The Prince of Luten and nominal head of the Pure League happened to be a handsome northerner with a long and graying beard. He looked every part the sad yet still noble sovereign which didn’t fail to annoy Viv. What made things worse was that he had never even been near the frontlines to the point that none of the kark had any idea who he was until he was introduced, as was clear from their curious expressions.
+
+The negotiations started with Erezak the Third explaining that the goal of the discussion was ‘a compromise that would soothe both parties’, thus enshrining himself as the arbiter for the duration of the peace talks. Viv had to admit he was.
+
+The word compromise had been carefully dropped for clarity. A compromise didn’t make people happy, it merely solved an issue without descending to violence. That was King Erezak’s goal, in any case. He started with something both sides could agree on: a prisoner exchange. The Lutenese were surprised to learn that some soldiers of the expedition were still alive. Between them and the captured soldiers of the Border Fortress, the kark easily had five hundred prisoners to swap, some of them being quite important. A large part of the border fortress’ soldiers were still free and in control of parts of the wall which would undoubtedly make the negotiations harder. Eventually, Marruk agreed to return the prisoners at a rate of one kark slave per foot soldier, two for officers, and ten for important people like the archmage.
+
+“For the benefit of all and to guarantee their wellbeing, I propose that the prisoners be delivered to my custody so that I may enforce compliance during the exchange,” Erezak said.
+
+“As was already agreed with the Red Tribe, prisoners will be treated in accordance with the rule of Neriad,” Viv replied.
+
+If she gave the prisoners to Erezak, that sly asshole was guaranteed to ‘lose’ them or something, and the kark slaves would never be returned. They would just delay until the matter was buried by time and the opportunity cost of pressuring the continent’s strongest nation.
+
+“Viviane of Harrak, as you said yourself, the Red Tribe has been under tremendous pressure for the past years. Can we really ask them to take care of so many prisoners, including by feeding them? It would not just be cruel to ask, but the health of the captives may not be guaranteed.”
+
+“Then I suppose you’d better hurry with gathering those slaves,” Viv replied without appeal.
+
+Marruk translated for Matar in a low voice. For the sake of clarity, the discussions were being conducted in the northern tongue. That was another low humiliation that made Viv’s blood boil.
+
+Then came the issue of land.
+
+“In order to safeguard the Pure League and its cities against retaliation, we would like the border fortress returned,” Erezak said.
+
+Shock and horror spread through the kark. The fortress was theirs for now, though holding it would be a more direct issue. Marruk believed, they all believed they would finally remove that symbol of oppression from their lives.
+
+Viv knew they would accept a compromise for a promise of peace. They had no choice.
+
+But she did.
+
+“This fortress has been built for the express purpose of conquering and controlling ancestral kark land. It will not be returned.”
+
+“I’m afraid I must insist,” Erezak said, his smile thinning.
+
+Arthur tilted her head, and the smile faded entirely.
+
+“Let me be blunt. You cannot hold this fortress,” Erezak continued. “The Paramese alliance will cover its flanks. That means this castle too. I can offer guarantees that it will not be used as a staging ground for the next thirty years, on my authority.”
+
+He was implying he would fight her for it.
+
+Viv knew he could, but she also knew he really didn’t want to. The people he had brought were honor guards taken from the nearest duchy, and his own elite guard. He could definitely take Viv out, but she wouldn’t go down without a fight, and she was reasonably certain she would manage to escape. Erezak had his victory guaranteed, but he absolutely didn’t want to pay the price to get it.
+
+Viv needed to make one thing clear, and that was that the raw pain and despair she saw on Marruk’s features was now a thing of the past.
+
+“Maybe I can be forced out and maybe you can take this fortress back. Maybe you even bring reinforcement from Baran, but I will be perfectly clear. If I am made to leave, I shall return, and at that point… I’m bringing everyone.”
+
+“Your casus belli expires this year, Empress.”
+
+“A casus belli is still valid while operations are ongoing,” Viv corrected.
+
+She had read the fucking manual. Nobody here was going to outlawwyer her.
+
+“I have six months or more. Believe me, I will only need three.”
+
+Erezak merely shook his head.
+
+“The kark cannot hold this place.”
+
+They were going to fight.
+
+Unless…
+
+“I think we can accept it if it’s razed to the ground.”
+
+She turned to Matar and Marruk, who slowly nodded. They could live with that.
+
+The carefully neutral face of the Lutenese told her they intended to rebuild soon enough, but that was ok. She had a plan.
+
+Eventually, the compromise was that the Lutenese would keep anything east of here, and also that their citizens would have the right to recover the food and belongings they’d left behind within the next two weeks. The border fortress would also be evacuated by both parties, and the local civilians given one day to empty everything. Baranese troops would, under oath, make sure the agreement would be respected. The kark triumph was not perfect, though it would never have been in reality. The Pure League was running out of manpower and willpower for their futile expansion. Resisting a foreign attack was another question entirely.
+
+Viv stayed with the tense kark during the whole process. Both sides stopped at a good distance from the walls after the city was evacuated. Viv and Arthur rose above the city, held aloft by kinesis rather than true flight. It was her time to shine. She needed to cast. Even though her mana mastery meant she could use her aspects on the move, it was still easier to cast large workings while stationary.
+
+Marruk was worried. Worried and disgusted that the fortress was still there. It was not just the stones that made this place important. The strategic location made it important. So long as this gap between the two territories existed, it would be valuable to build defenses on it.
+
+That was fine. Viv had the solution.
+
+Erezak and the prince were not exactly smug, but expectant. They’d managed to turn a military disaster into a diplomatic stalemate. She was pretty sure they were happy with themselves, especially because they intended to return here. It wouldn’t be in a year or two, but they would.
+
+The fortress awaited, wounded but still standing.
+
+Viv called upon her power. Black mana flooded in a circle around her. Silverite symbols flew to their positions, amplifying the spell. Patiently, she gathered them. It wasn’t a very complex spell, but it was going to be a big one. Circle after circle of repeated sigils reinforcing each other blinked into existence. The concentration of black mana suffused the air with a colorless aura. Above her, clouds darkened. The light changed to the drab radiance of a deadland morning, and still, Viv poured more power into the hex. Layer by layer, it powered up until it was as complex as her Storm of Zamhareer. Storm wouldn’t do, though. She wasn’t here to destroy what could be rebuilt. She wasn’t here to blight the land either, though it could have worked. It was much harder to do on an open ground.
+
+No, she had a better tool for that.
+
+“I bring change.”
+
+[Aspect of the Guardian]
+
+[Sequence: Eldritch Walls]
+
+Tentacles, tendrils, limbs and roots surged from the blood-soaked ground, grasping to the skies in ominous columns. Up they went, then up again. The streets were first, then the walls and roofs of empty roads, statues, fountains, then the fortifications. Many trees bearing mutating flowers merged into mighty pillars, reaching horrors of chthonian architecture that meshed and divided without reason, Viv leaving her magic to work itself. Then Arthur took control of the spell, and Viv let her. Scales grew now, eyes, fragments of anatomy of the deep sea creatures she had hunted at night when they rose, certain of their invincibility. The titanic tree expanded its boughs until they darkened the land where the fortress used to stand, and after almost two hours of work, it was done. The result was a grotesque parody of the tree of Kazar, but just as it had stopped the advance of the deadlands, this one would prevent Luten from rebuilding anything for a very, very long time.
+
+Viv and Arthur landed in front of the horrified Baranese delegation. Fearful eyes followed her when she approached, and even their archmages huddled together with muttered curses.
+
+Champion’s Leadership: Expert 2
+
+“Right! That’s the castle done with. We’re done here. A good day to you!”
+
+Let those fuckers try and fix that.

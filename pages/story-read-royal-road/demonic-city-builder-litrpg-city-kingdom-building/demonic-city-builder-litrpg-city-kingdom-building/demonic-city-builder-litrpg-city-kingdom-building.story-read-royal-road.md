@@ -1,0 +1,60 @@
+---
+id: 8de5e8a3-4e36-57d3-9edc-f03ca42891e6
+page-type-slug: story-read-royal-road
+title: "Demonic City Builder [LitRPG, City & Kingdom Building]"
+slug: demonic-city-builder-litrpg-city-kingdom-building
+world: demonic-city-builder-litrpg-city-kingdom-building
+unit: words
+author: "Cattacomb"
+royalRoadTags:
+  - "LitRPG"
+  - "Progression"
+  - "Anti-Hero Lead"
+  - "Kingdom Building"
+  - "Psychological"
+  - "Action"
+  - "Adventure"
+  - "Fantasy"
+  - "High Fantasy"
+  - "Magic"
+  - "Male Lead"
+  - "Mythos"
+  - "Non-Human Lead"
+  - "Strategy"
+  - "Strong Lead"
+  - "Supernatural"
+  - "Survival"
+royalRoadSeriesStatus: ongoing
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building"
+royalRoadId: "168862"
+---
+
+He filed 101 support tickets. The System turned him into a demon. 
+
+Kairon is a system clerk that finally gets his own city charter. So he does what any good bureaucrat would. He reads the entire Terms of Service, identifies a loophole, and exploits it.
+
+Unfortunately doing so ended up calling down a pillar of hellfire that roasts him, all his villagers, and everything else within a league alive.
+
+Now he's a demon that's got ten confused imps, a giant tower with a floating eyeball, and a rudimentary system that tears buildings through rends in reality.
+
+A MC that wins through competence, scheming, and middle management.
+
+---
+
+What To Expect:
+
+A rational, scheming MC who wins through contracts and fine print
+
+City rings, demonic rituals, spawning grounds, and buildings torn through from another plane
+
+A theocratic empire that will never stop hunting him
+
+An endgame where the little things leading up to it matter
+---
+
+Now hiring! Experience working with imps preferred but not required. New chapters M-W-F + bonus. Gorgeous cover art by @Shen Fei. 
+
+Feeling impatient? Patreon now has 17 advanced chapters. 
+
+ANNOUNCEMENTS:
+Book 1 (up to about chapter ~50) will stub near late August for KDP and Audible. The story continues on without delay!

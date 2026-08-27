@@ -3,7 +3,7 @@ id: 01a01185-9e77-7001-8b75-7914a5469ed1
 page-type-slug: page-type
 title: "Story written"
 extends-slug: story
-files: stories:**/*.story-written.md
+files: akasha:**/*.story-written.md
 body-shape-slug: text
 slug: story-written
 domain-parent-slug: domain/narrative-story-written

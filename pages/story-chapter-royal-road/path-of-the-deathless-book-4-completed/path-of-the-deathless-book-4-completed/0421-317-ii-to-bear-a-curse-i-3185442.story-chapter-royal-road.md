@@ -1,0 +1,167 @@
+---
+id: 056581ed-eab5-55fb-be6b-af5d901b8b9e
+page-type-slug: story-chapter-royal-road
+title: "317 (II) To Bear a Curse [I]"
+slug: 0421-317-ii-to-bear-a-curse-i-3185442
+partOf: path-of-the-deathless-book-4-completed
+position: 421
+ownLength: 2383
+unit: words
+publishedAt: 2026-03-23
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3185442/317-ii-to-bear-a-curse-i"
+royalRoadId: "3185442"
+---
+
+317 (II)
+
+To Bear a Curse [I]
+
+Shiv shot out from the dimensional rift with frying pan drawn and a willingness to commit violence coursing through his veins. He found himself at the communal square of a frost-strangled village. Every building was encased by a thick layer of ice, and within that ice were shadows that danced and laughed at Shiv before dissipating like ink, casting his sanity in doubt.
+
+“I saw them too,” Uva confirmed. “This Queen is playing mind games with us. She is trying to make the fear set in, but I have been filtering it.”
+
+“Is that why I’m feeling calmer than normal?” Adam asked. “I was wondering why I went from feeling the urge to soil myself or break down crying to not even thinking about it.”
+
+“Benefits of Psychomancy,” Uva said. “And lessons learned from surviving in a realm of madness far worse than this.”
+
+For a few moments, Shiv waited for an attack. None came. Fifty meters overhead shivered three Aberrant Fractals. They shifted about like a constellation of blades, waiting to plunge down on anything that dared to provoke Uva. Flashes of sight and sound leaked over from her. The other Fractals she controlled were moving parallel with the wolf-man riders. If that was what they were. The Fractals saw the world through strange dimensions. Things were elongated and misshapen to them, the same way they appeared like twisting fragments of space to people's eyes. Shiv still managed to glimpse cloaks trailing in the wind. Cloaks of vivid crimson, wrapped around plate-armored bodies coated by ice. Huge, thin snouts jutted out from tight hoods barely above to contain the faces of the wolf-men, but something about them seemed more animalistic—and comical—than the Fae Shiv knew by far.
+
+Really is like I wandered into a storybook. At that thought, Shiv squinted at the buildings around him. They seemed to be made of some kind of stone, but even with the layout half-buried under a meter of snow, it didn’t exactly give him a rustic folklore feeling. Then again, Shiv hadn’t been included in the storytelling sessions the Matrons hosted for the other kids. The few games they did try to play with him had everyone as noble hunters, one girl they hated as a grandma, and Shiv as an unwilling wolf. Which made biting one of the other kids an easy choice when they got a little rough.
+
+There wasn't anyone to bite in the village. In fact, there didn't seem to be anyone at all. His Atlas might have given him a misreading earlier. That thought lasted until he looked downward. A glint of biology caught his attention. It led back up into the house with the smoking chimney Uva had seen from afar.
+
+And what a house it was.
+
+It was constructed from healthy, bright-brown bricks instead of stone, and a roaring warmth radiated from its surface. Though cold gales battered the house's walls as hard as they could, not even the windows were frosted. This single house with a door half Shiv’s size, with barely a 10-meter-wide garden in the back, was an unassailable bastion before winter’s crushing will.
+
+“Well, that's a naked trap if I've ever seen one.” Adam came to a stop behind Shiv, dragging Toasty with him. Suddenly, the fairy stopped crying and shaking and stared up at the sole place untouched by the falling waves of ice and snow.
+
+“You think so?” Shiv asked as he moved on the house to investigate. “Because this feels… weird.”
+
+“Shiv, do you know what we call a single safe place surrounded by enemy territory?”
+
+“Bait?”
+
+“Correct.”
+
+“Well, there's still someone alive in the basement of this bait. I think I'm gonna go kick down the door and see what comes out to bite me.”
+
+Instead of taking the front door, Shiv barrelled through the wall like it wasn't even there. Brickwork crumbled away into dust, and with the first step he took, the wooden floorboards gave way beneath him. He didn't fall, however. He used his Shapeless Tides to keep himself aloft. Bouncing up and down, he saw a tea set, a very comfortable-looking rocking chair, and a staircase leading up to a set of rooms beyond his sight. This house looked lived in—inviting. Large enough to host a community of goblins or three adult humans.
+
+Meanwhile, the basement below could have contained an entire nest of basilisks. The space was vast and half-excavated. It looked like someone had been trying to make a tunnel for themselves—and said someone lay atop a mountain of rubble, wheezing weakly as blood seeped out from her many wounds. The armor the young woman wore looked like it was forged from dying starlight—and was rapidly dimming by the second. But all those details were eclipsed by the beak-shaped visor of her helmet. A groan escaped her as Shiv stared down for a heartbeat, and then the armored Raven looked up.
+
+The World Quest to kill the Deathless popped up with a flash of white light. The Raven went stiff, and she let out a wet cough. “Well. You’re an unexpected sight. Unless I’m hallucinating, I think I might be looking at Aviary’s newest embarrassment.”
+
+Shiv dropped—and swapped his physical body for the Severed Shadow halfway. The head of a mana hydra snaked out from his Revenant and ripped away the Raven’s many wounds. Another swap ensued as he brought his physical body back. The Severed Shadow didn’t need to be risked. He landed the same moment the Raven tried to sit up, and he caught her by the neck, pinning her back down in an overwhelming display of Physicality and Reflexes.
+
+Inertial Overdrive 270 > 271
+
+“You’re a Hero,” Shiv said, feeling the Raven’s body tense up. “Low Hero. Faster than you are strong. Toughness is Master-Tier at most. I’d say less, considering how soft the skin and tissues around your face feel. Here’s how this is gonna go: I'll snatch you now, question you later, and you don’t do anything dumb, so I don’t have to pull you in half. How’s that?”
+
+“Reasonable,” the Raven said, feeling at the now-closed injuries across her body. “But I fear your prudence will not help you. We are in hostile territory now, the both of us. She’s not going to let me live, and she cannot let you go. Not with how you forced her here.”
+
+“Shiv!” Adam’s telepathic shout interrupted him before he could ask anything more. He grunted and shook his head.
+
+Shiv snorted as he stood up. “You can tell me more on the other side. We’ll have all the time in the world.”
+
+“What?” The Raven asked. “I—”
+
+Shiv’s chest split apart in a flash of light as his Severed Shadow cleaved across reality once more. He tossed the Raven into his Cape of Innermost Depth before calling his physical body back. “Adam. Raven secured. No one else around. Caught her trying to tunnel out—not sure why she’s the only survivor or how she kept the frost from taking the building. Uva. New subject for interrogation. Aviary. No need to be gentle.”
+
+“Already burrowing in,” Uva replied. A loud cry of alarm sounded over her thoughts, and Shiv heard the Raven begging for a softer touch. “We’ll know what she knows soon—without any chance of deception.”
+
+“I forgot how damned terrifying you are,” Adam commented dryly. “Shiv. I have eyes on something nearby. I’m doing a quick… check…” The hesitation in Adam’s mind gave way to utter disbelief. “Broken Moon. You must be jesting.”
+
+“Adam?” Shiv called out.
+
+“Shiv. I think you should come over. I think I know who the Usurper Queen is.”
+
+Shiv wasted no time. The ground exploded around him as he bulldozed his way across the land toward where his friend was standing. The village square was choked by a distorting haze, but Shiv could see eight frozen bodies around Adam. They were all kneeling, and the frost magic bled off them thicker than the steam in the air. Looming over them and Adam himself was a statue that drew in all that Cryomancy. The snowflakes in the air obscured her visage at first, but as Shiv closed in, his sheer speed created a vacuum in the air, and he laid eyes on his enemy for the first time.
+
+His old enemy. A weary sigh escaped the Deathless the moment he saw her face. That arrogant, aristocratic sneer. That vicious twist in her lip. That glare in her eyes as she drank in another’s pain. Though she bore a curved crown that carried a miniature moon overhead, though she wore a flowing dress made from sapphires and icicles, though she carried a goblet filled with over-spilling wine, there was no mistaking the appearance of Lady Eileen Harkness of New Albion. “Oh. That’s why the Quest said she wanted to make our reacquaintance.”
+
+“Quite,” Adam muttered.
+
+Uva’s mind just tensed with animosity.
+
+But none of them were prepared for the statue itself to respond.
+
+“Me.”
+
+Her voice came with its own notifications. The text lingered longer than the echo in her voice. The ice sculpture’s eyes lit up with incandescent mana, and an annoying laugh slipped out of her. “It has been some time, mastiff. Why, you look like you’ve been feeding yourself well. A bit too large even for a mastiff. I would daresay your presence would scare a bear out of the woods.”
+
+“Harkness,” Shiv replied with a shrug. “I kind of expected we’d run into each other again. And that I’d pull your head off your body and use it to disfigure your corpse. Didn’t think you would end up taking over the Fairwoods of all places, but hey, I never got to butcher a queen before. Guess I’m going to get more than a little satisfaction from dealing with you.”
+
+“There’s that vicious boy I know and loathe. And people think I’m arrogant.” Harkness scoffed. “What Tier are you now? High Master? Low Hero? I imagine you must’ve climbed quite fast with all that favor conferred upon you. So fast that the System itself seeks your resolution through a World Quest. Respectable. Envious, even. And utterly delectable. I’m not sure if I want to bring you back to home office as a prize or kill you here and now for my own selfish urges.”
+
+Shiv chuckled mentally. “Low Hero…”
+
+“Don’t boast to her,” Adam said. “Keep her in the dark.”
+
+“I know,” Shiv replied. “Give us an edge. Especially since she has some god-shit inside her now. You saw her eyes, right?”
+
+“Hard to miss,” Uva replied.
+
+“I see you are still alive as well, Young Lord Arrow. Looking a bit more water than fish out of these days, aren’t we, hm?”
+
+Adam didn’t need a face for Shiv to know he was scowling. The Gate Lord’s hydrokinetic form crashed with unstable waves, but then stilled as he looked up at the moon blotting out the sky. “Are you in that castle up there?”
+
+“Ah. Always the sharper of the two. Even with your senses muted. Yes, quite the grand visage, isn’t it? I had the queen’s abode redesigned to my desires. How does it look?”
+
+“Hard to judge,” Adam answered. “I’ll have to walk the halls to be sure. It requires no master to make a castle look grand from the outside. True quality is usually hidden within.”
+
+“Another childish statement inherited by your father? How delightfully naive.”
+
+“Oh, I apologize for the misunderstanding. I was more referring to how the structural integrity of the castle is more vulnerable when bombed from the inside,” Adam drawled.
+
+“Haha. Forgive me. I didn’t expect the little hawk to develop such subtle venom.”
+
+Shiv's lip twitched. “Yeah. That’s us. Real subtle. You won’t even notice me carving my way up your asshole when it happens.”
+
+“Shiv. Riders. They’re seconds away.” Uva’s warnings came with visuals. “Should I intercept?”
+
+“No,” Adam said. “Let them close. I want to see them.”
+
+The red-robed wolf-men were riding in from behind and hidden behind a curtain of crashing ice. Shiv and Adam both turned as the enshrouded forms of the cavalry appeared. First came the howls, then followed the laughter, and finally they emerged, bouncing up and down through the thick of the frost.
+
+But there was something deeply wrong with the wolf-men. A wrongness that grew ever-more evident as they drew closer.
+
+“Do they look…” Adam started.
+
+“A little flat?” Shiv offered. “Like Uva when I accidentally fell on her.”
+
+He heard her blow a breath out through her nose in annoyance.
+
+Adam’s eyes flashed as he Analyzed the wolf-men. Shiv blinked and suddenly remembered the Analyze Skill existed.
+
+Memorization 29 > 31
+
+“What?” Uva cried in utter disbelief. “You haven’t used it at all after getting it? Not once?”
+
+“Doesn’t really go through my mind when I start fights with people,” Shiv muttered as he tried using the skill himself, targeting the front most of the new arrivals. “Kinda just guess based on how tough they are or how big their mana field is.”
+
+Adam sighed. “Shiv… Sometimes I just…”
+
+“Can’t tell if I’m really godsdamned stupid or really smart? Yeah. I ask myself that all the time too.”
+
+With a flash of mana in his eyes, the Analyze Skill activated. The riders bounced to an awkward halt before the Deathless. They reared back on their enormous, wolf-faced horses, who were all whistling a jaunty tune in perfect sync. And if that wasn’t enough, they were all thinner than a slice of bread.
+
+The riders themselves promptly drew their blades at the same time, each one gleaming bright in the light. “BEHOLD! WE, THE RED-RIDING WOLVES OF THE QUEEN OF THE MOONS, HAVE COME TO INVITE YOU FOR TEAAAA! THE QUEEN INSISTS! SHE REALLY, REALLY INSISTS!”
+
+Their voices were so loud that Toasty was blasted off his feet, Adam lost a chunk of Hydromantic bodymass, and Shiv’s ears rang like someone had clapped him on both sides of the head.
+
+Name: Rolf the Red-Riding Wolf, Knight of the Winter Court
+
+Age: [Number too large to process]
+
+Race: Saturday Morning Toon (Fae)
+
+Path:
+
+Knight of the Winter Court
+
+Skills:
+
+Morning Showtunes (Narrative)[Error][Error][Error][Error]…[Error]
+
+“What in the Broken Moon is a Saturday?” Adam muttered.

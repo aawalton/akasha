@@ -1,0 +1,179 @@
+---
+id: d072f92d-82ad-5c3f-8c1e-2dc35755b2f3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22"
+slug: 0025-chapter-22
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 25
+ownLength: 2005
+unit: words
+publishedAt: 2026-06-11
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3523265/chapter-22"
+royalRoadId: "3523265"
+---
+
+My eyes opened to a grey morning. I wasn’t sure what surprised me the most. That my trick worked and I survived, or that, somewhere in the middle of the ordeal, I actually managed to fall asleep dipped in mud and cuddled up with a huge rock for a teddy bear.
+
+My body felt weird and unresponsive, like my muscles refused to work properly. With a grunt and a soft, crackling sound from my hand, I realized that wasn’t the case. Rather, the mud had hardened all over my body and was currently weighing me down, locking my movements in place.
+
+I checked my character overview to get an idea how long had passed. Judging from the time remaining on my debuffs, it was nearly noon. Seven hours and change to go on the concussion debuff, and I’d been passed out for at least… eight hours. Huh. The sky sure didn’t look like that. Little by little, I eased myself around and checked out my surroundings.
+
+Last night, I’d been able to see absolutely nothing. Today, I could clearly see… well, little more. A heavy fog filled the landscape, hiding anything that was more than a few hundred meters away. What I did see within that area? Nothing. Blessed, dull, peaceful nothing.
+
+I didn’t try to plan. Planning, historically, wasn’t my strongest suit. I was more used to taking it on the chin and keeping up. Additionally, half of me was still sure the other shoe would drop and I’d get offed every second. Instead, I took stock of what had happened yesterday and where that had left me.
+
+Sitting with my back against the boulder, softly shivering from the cold, with my gaze slowly scanning the horizon to ensure nothing was going to jump out at me, I checked over the system.
+
+Current overview:
+
+Liam Berg
+
+Level: 12. Progress to next level 37%
+
+Class: Fighter
+
+Path: Path of Fortitude
+
+Quirks: Enforced Anti-Violence, Tier 5. Passive Power, Tier 4.
+
+Status: Concussion (minor), Damaged Muscles (medium)
+
+Traits: Starved Growth (Temporary)
+
+Health: 219/710
+
+Stamina: 710/710
+
+Mana: 70/70
+
+Health regeneration: 8.5 health/hour
+
+Mana regeneration: 42 mana/hour
+
+Stamina regeneration: 99.4 stamina/hour
+
+Attributes:
+
+Strength: 13
+
+Agility: 15 (-8) = 7
+
+Dexterity: 8
+
+Fortitude: 26 (71)
+
+Perception: 11 (-3) =8
+
+Mental Power: 7
+
+Mental Control: 9 (-3) = 6
+
+One talent point available. Apply now? Y/N?
+
+Huh. That was… I’d gained about seventy health during my race, somehow? Oh. Fragments of the run returned to me, pain-filled moments of lucidity. I’d earned three levels during the scramble to escape. And somewhere mid-run, I’d realized that my stamina was going to run out and I would drop to the ground if I didn’t use some of my points.
+
+I couldn’t even find it in me to disagree with night me. All three attribute points had gone straight into Fortitude for added health and stamina. On top of that, I’d gotten three talent points to work with. Two of those, I’d dumped straight into Improved Defense, maxing it out and making the efficiency of my Fortitude explode to where I had seven times the health of your average person, if healthy. The third point, I’d… left unused?
+
+Giving it some thought, it actually did make a surprising amount of sense. Surprising, because I’d been feeling pretty damn desperate, and yet I’d still kept myself from tossing the final point into anything. But then again, what could I perceivably have used it for? Another point to Wheel of Magic, perhaps, to increase my ranged attacks, but at that point I was already running on fumes for stamina and even a fully maxed Wheel of Magic was unlikely to kill a lizard who could just run away. Nothing else among my options would’ve made a real difference.
+
+I sure didn’t mind it now. Having a single point to play around with might turn out to be the difference between life and death for me.
+
+Attribute points and talent points aside, the night’s trials hadn’t gone unrewarded.
+
+My existing skills had also earned some increases. My Concentration skill jumped to three. No surprise there. Using my Deflect and Wave of Reflection talents to proper effect took a good deal of concentration. Even less surprising was Endurance rising all the way to eight and Stamina Regeneration to four. Running a marathon while dodging firebolts was a taxing business. But at least, with the added regeneration, now it only took me seven hours to fully regenerate my stamina, instead of ten. Identify had gotten a few boosts as well, from me trying to spot enemies during the chaos.
+
+My defensive skills had gotten the real workout, though. Armor leapt by six. Blunt damage resistance by four. Parry by three. Shield by a full seven points. Even Arcane Resistance got a single bump, though it was anybody’s guess where that came from. The stupid lizard spat fire, not arcane.
+
+Equally unsurprising, my skills had been joined by the arrival of a handful of new skills. Some of those, I’d seen coming. Some were self-explanatory, like Climbing, Leaping and Stealth, which all stayed at level 1. Others had me frowning and reading the small script.
+
+You have earned a new general skill:
+
+Athletics
+
+Passive skill
+
+Some people are more physically gifted than others. They are the ones who always seem to stand out, do better when they use their body. Every level in Athletics will marginally improve your physical efforts. Your jumps will be higher, your sprints more explosive.
+
+This new skill, already at Level 3, was an absolute keeper. Exercising had always been part of my life – where new schools, foster homes and, on one occasion, orphanages, turned every aspect of my life upside down, going to the gym gave me a sense of stability and consistent progress throughout it all. And now, it would appear, my efforts would start paying back dividends.
+
+You have earned a new general skill:
+
+Running
+
+Passive skill
+
+Running is an art form. One with a nigh-unlimited limit for improvement. Every level in Running will marginally improve your running speed and reduce stamina use.
+
+I had honestly not seen that one coming – especially considering the overlap with Athletics and Endurance. So, you could actually have several different skills all working to influence a single action, all at once. This meant that both Endurance and Running would reduce my stamina use while running, at the same time as Athletics and Running would improve my speed and Stamina Regeneration help me recuperate it faster. Depending on how much the skills actually helped, the upper limit for improvement seemed inconceivable. Heh. Running was already at Level 5 from the night’s trials. No wonder.
+
+You have earned a new general skill:
+
+Self-Heal
+
+Passive skill
+
+You are no stranger to being hurt. Your body has suffered, and as a result, is adjusting. Every level in Self-Heal will improve the speed at which you regain your health, and marginally reduce the duration of temporary debuffs. The healing rate of Self-Heal cannot be affected by quirks or other talents.
+
+Given that I’d scarved down every single healing item I snatched from Elizabeth, and was essentially on my own in a strange land, this wasn’t just a boon. It was a literal life-saver! I checked out my overview and noted what I’d missed the first time around. Self-Heal was at Level 2 right now, and was apparently improving my natural healing speed by twenty percent. Meaning, if I got it to Level 40, I’d be able to fully heal in about a day’s time instead of four days! This also explained how my improved health didn’t match the weak sunlight coming from above. I hadn’t slept for a full eight hours, but less. For a second, I tried to figure out the math for that, but gave up and moved on. That would be a task for when I wasn’t concussed.
+
+You have earned a new general skill:
+
+Spot
+
+Active skill
+
+There’s looking and then there’s looking. You are swiftly learning the difference. Every point to Spot will increase the odds of you detecting anything actively hidden.
+
+Cost: 1 stamina/second
+
+The existence of the skill wasn’t a surprise, really. But it was the first active skill I got. I could already tell that I was going to be using it a lot. Obviously avoiding ambushes, traps and the like was a massive encouragement – but it would also ensure I used my stamina on a constant basis, consistently improving Endurance. It was only at level 1 right now – but I foresaw massive increases in the near future.
+
+That led me to my new defensive skills. My ‘friend’, the Glimmerscale, had kindly helped me gain Fire Resistance at Level 3. But he wasn’t alone in his efforts. Piercing and Slashing Resistance at Level 1 along with something called Shadow Resistance proved one thing: I’d been extremely fortunate to live through the night. They weren’t the only new defensive skills either.
+
+You have earned a new defensive skill:
+
+Dodge
+
+Passive skill
+
+Survival is an art form. One you had better hone in order to stay among the living. Every level in Dodge will marginally improve the speed and accuracy of your dodging actions and reduce the stamina used.
+
+At Level 2, it had barely improved. Yet, that was going to be one of my major focus points. Anybody forced to spend time in the ring knew that avoiding a hit, where possible, beat tanking it. The same was likely to be even more applicable when the enemy had claws, teeth or spells.
+
+The second last new skill was another testament to the gruelling events of the night.
+
+You have earned a new defensive skill:
+
+Resilience
+
+Passive skill
+
+Others may try to dodge what life throws at them. Meanwhile, you face it head on, and keep going. Every level in Resilience marginally improves the overall toughness of your body, reducing any damage done to you.
+
+That one, I adored. I honestly couldn’t tell the difference yet, but my mind was kind enough to start speculating on its own. Natural armor! Bulletproof eyes. This was the start of my Superman epoch.
+
+Then, there was just one final notification left. However, what a notification!
+
+Congratulations. You have unlocked the higher rarity of a skill:
+
+You have spent the full capacities of your stamina ten times over during a single engagement.
+
+Endurance evolves to Higher Endurance.
+
+Higher Endurance
+
+Rare Passive skill
+
+You are no stranger to toil or long hours watching your stamina slowly drain. Every level in Higher Endurance will moderately reduce the stamina consumed by non-talent use.
+
+In addition, once a day, you may refresh your Stamina fully.
+
+That was insane! Not only did the wording of the skill change a bit – now it would reduce the stamina ‘moderately’ instead of ‘marginally.’ It also granted me a second wind, allowing me to press on through something that would have otherwise left me out of juice.
+
+The implications were what really got my mind racing, though. If Higher Endurance was a rare skill – were there other rarities out there? Would I be able to go through my stamina a hundred times during a single clash and unlock a godlike skill?
+
+Also, there was no way that this was confined to the Endurance skill alone. No, there had to be other conditions that would allow me to unlock higher rarities of other skills. I just needed to experiment!
+
+All told, I felt quite good about the night’s gains. No. That was wrong. I felt like utter shit. My body was lacerated, my equipment and armor half-ruined and I was in a situation I would only wish on somebody like Leo, and possibly Edelgard, my third-grade math teacher. That being said? If I managed to heal up in peace, I felt better equipped to survive whatever this damn place was going to throw at me.
+
+Now, it was just a matter of figuring out what I was supposed to do from here. Easy peasy.

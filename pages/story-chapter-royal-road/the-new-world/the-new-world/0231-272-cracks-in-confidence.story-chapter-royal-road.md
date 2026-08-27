@@ -1,0 +1,407 @@
+---
+id: a9dec4c2-6d30-524c-997b-0d2a177783ce
+page-type-slug: story-chapter-royal-road
+title: "272 Cracks in Confidence"
+slug: 0231-272-cracks-in-confidence
+partOf: the-new-world
+position: 231
+ownLength: 6262
+unit: words
+ownProgress: 6262
+publishedAt: 2020-10-05
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/564603/272-cracks-in-confidence"
+royalRoadId: "564603"
+markedReadAt: "2026-06-29T21:28:58.524Z"
+---
+
+We all stared at the sight, no one able to move. I expected Lehesion to win, but in the end, Eonoth bailed him out. I didn't even understand the attack he used or why I was liquified while no one else was. I was the toughest guy here probably, yet I was the only one turned to mush. None of it made any sense, yet it was as real as Schema's arrival years ago.
+
+In that same vein, this event was a passing of a torch. Everyone felt it. Schema had dominated the galaxy for centuries. Now, these rebels took a stand against him and won by the looks of it. Because of that, everyone around me carried an intense uneasiness. Their hands shook, their mouths gaped, and their eyes widened. It was too much for many, some people breaking down on the spot.
+
+Most accepted the reality before them. Schema's forces, in particular, didn't let up for even a second. They didn't surrender or fall back. These were hardened veterans ready for war and death alike. Schema's fleet let out a series of attacks during the aftermath of the Spatial Fortress's demise, and this put the Adair's forces on the back foot.
+
+Lehesion would change everything, however. He turned towards them, peering with his easy arrogance. He soaked in his victory for a second, taking a deep breath from the void around him. Turning to us, Lehesion stared at the Nebula Drifter. He found us.
+
+Spreading his wings wide, he charged himself with energy. I shouted at Obolis,
+
+"Get us out of here."
+
+Obolis looked at his status, "It will take at least fifteen more minutes before we can warp."
+
+"What the hell is this thing even good for then? Looking pretty?"
+
+Obolis growled back, "Exploration. It was never meant for battle. This...this was supposed to be an observation."
+
+"Well, we're about to all die if we don't do something and now."
+
+Everyone began panicking. We were fish in a barrel with nowhere to escape to. A few individuals began pushing and fighting each other. Many laid on the floor, stricken by panic and surprise. They were simply unable to handle their reality being flipped on its head like this. I had to admit, it did kind of feel like fate just German suplexed our heads into the ground.
+
+I shook that feeling off. I'd gotten close to dying many times, and this was no different. I clapped my hands, the echo silencing those panicking. Behind me, Lehesion blasted himself towards us as I calmed everyone down,
+
+"Listen, everybody. We can't warp everyone out of here in time. We have two porters I know that can get some of us out of here. Anyone else, volunteer and do what they do. One of the ones I know will help you guys. The other one will help me while I fend Lehesion off."
+
+A random alien shouted, "Have you lost your mind? Did you just see what that thing did to the Spatial Fortress? Lehesion will tear you to pieces."
+
+Huh, they thought Lehesion made that attack. That made a lot of sense, considering everyone was frozen in place. It seemed like I was the only one that knew what actually happened. I had to let Schema and the others know soon. Otherwise, they might all think the fortress stood no chance. Against Eonoth, sure, but Lehesion was close to becoming an endless meal.
+
+That would have to wait. I raised a fist, "Helios, come here."
+
+The stern albony crashed himself through the crowd, bumping several people to the floor. I pointed behind me, "You've fought this guy, and you know what we need to do against him."
+
+Helios grimaced under his mask, "I have dreamed of this day. You don't need to speak another word. I will help you."
+
+I gestured a hand to Obolis, "Start warping people out of here. Start with children and people who can't survive in space." I turned to everyone else,
+
+"Think of a way to transport people quickly. Even if this station goes down, not everyone has to die. We have to be selfless here. Come on, we've fought the eldritch, every last one of us. Now we need to fight off that looming sense of panic. Crush it like it were any other enemy. Once that's gone, clear your heads, and let's get going."
+
+Obolis and Helios didn't so much as give me a parting glance as they flew into motion. The Emperor grabbed the sides of his head while murmuring, "Think Obolis. Think."
+
+He tapped his fists against his temples for a second before raising a hand, "Of course." He pointed at Giess while charging an elemental furnace. From it, he created a portal to the planet. He looked at the crowd, "Everyone, come. The planet isn't getting glassed. After we've escaped there, we can warp somewhere safer after evacuating."
+
+Lines formed in seconds while Obolis created a dozen portals. I met Helios's eye,
+
+"Are you ready?"
+
+Helios stared without fear,
+
+"Let us show him what we're capable of."
+
+He lifted his hand, "I cannot survive space without protection. I can create a warp that will allow you to defend from outside the base. When the Nebula Drifter is ready to escape, I shall help you escape."
+
+I nodded, "Don't let me down."
+
+Helios mouthed, "Are you ready?"
+
+I rolled my shoulders and grit my teeth, "Always."
+
+He opened a warp into the void around us, the air siphoning out from around us. I leaped through it, the portal closing behind me in a fluid shift.  Floating forward, I found myself just outside the glass viewing room. It was an awe-inspiring sight, though the panic didn't help the view. Around me, the cold of space sunk in. It was like I dipped myself into a vat of cold water, my back especially chilled. From all angles, the void pulled me apart as well.
+
+It was like people with cables were trying to pull my insides out, but I held together well because of my sheer physical tenacity. I would need that toughness for what was coming. I faced the gold gialgathen, heating myself with mana. As my skin glowed, I charged my runes and saturated my blood with mana. I pulled out a vast number of mana shards, keeping them on my back and out of Lehesion's view. Beating him was out of the question for now, but a bunch of singularities would slow him down surely.
+
+As he expanded in my sight, a wave of nervousness passed over me. Seeing his full potential made me feel insignificant. No, I was insignificant.  This battle taught me that. I was strong relative to my surroundings, but I was just like Lehesion - big fish in a small pond. For the first time, I jumped out into the ocean, and it showed me I still had a lot of growing left to do.
+
+I would need to prioritize myself more and focus less on other tasks. I resolved that to myself as Lehesion approached. Looming close, his frame traversed towards me at an unfathomable speed. I reached out a palm, trying to fend him off in case he tried ramming himself into the space station behind me.
+
+He didn't.
+
+Lehesion slowed to a stop about a mile from me. He squinted for a moment before giving me an ominous smile. He sent out a telepathic wave to me alone,
+
+"Ah, the Harbinger. What are you doing here out in space? Perhaps you wished to view me in battle. Though understandable, surely you understand what I must do now that I've seen you? After all, your destruction of Giess's cities did not go unnoticed by the Adair family. It was impressive, though foolish given who you've made enemies with."
+
+Lehesion told me a few things when he said all that. First, the guy could link with everyone, but it wasn't like he knew where every individual was that he connected with. Second, Lehesion hadn't warped here for some reason. It would've saved him about two minutes on the way here and back.
+
+As I thought about that, he gave me a smirk,
+
+"They're enraged by what you've done."
+
+I pulled myself back into the conversation. This was bad, but not the worst outcome. People were escaping on the space station while we chatted away. To keep him talking, I kept on my toes in the conversation,
+
+"Yeah, they are mad, but you're not. If anything, you didn't say that like you cared at all. You chose not to warp here either. Why?"
+
+Lehesion blinked, confusion spreading over his face, "I chose not to warp because the portalling here left me exhausted. As for why my ire isn't aimed at you...I don't know why. Those you killed were my countrymen, those that follow my cause."
+
+The Adair family had really progressed with the whole brainwashing thing since last time,
+
+"Is that really your cause? I don't think so."
+
+Lehesion scoffed, his cool confidence returning,
+
+"But of course it is. I am here to cleanse this universe of that entity from earlier. His monstrosity was strong, but I destroyed it with a single swipe of my tail once I was serious."
+
+His eyes, though glowing with golden energy, grew bloodshot as he spoke. Something about this conversation stressed him out quite a bit. My guess, the guy was saying one thing and thinking another. It wasn't like he actually wanted to turn his entire species into drones. He didn't believe he killed that fortress on his own, either.
+
+I kept the conversation rolling, aiming to get him thinking,
+
+"We both know you didn't stop that thing on your own. If anything, you were going to die earlier."
+
+Lehesion gazed down at me, "And why is the giant beast gone while I remain here?"
+
+"Eonoth."
+
+Lehesion froze in place, his legs and tail shaking. He looked away while shaking his head,
+
+"I...No, it was I that unleashed that spatial rend. I am the one who collapsed timelines. I...I-"
+
+"You didn't. Eonoth froze time, but he forgot to freeze me. If he didn't roar then and there, you'd still be in that eldritch's belly. You'd be a neverending meal for that monstrosity, whether you believe me or not. If anything, I think your mind is lying to you, but your body isn't. Look at yourself. You're shaking."
+
+Lehesion's face twitched before his eyes widened. He stared down, finding his wings closing and his hands quivering. Lehesion shook his head,
+
+"I am not afraid. Since I was born, I've never once felt fear."
+
+I kept pressing, trying to keep him distracted as long as possible,
+
+"Until now."
+
+His fear betrayed his confidence, "I...what was it that I fought earlier?"
+
+I raised an eyebrow, "Wait a minute, they didn't tell you?"
+
+"I am put in front of beings of all kinds. It is not my role to question, only to obey their orders."
+
+He was being warped all over the place to help facilitate the Adair's rebellions. I frowned at his answer, saddened by his mental fall,
+
+"Ah. I see. You fought a Spatial Fortress. That isn't the only one Schema has, and he'll send more to fight you in the future. You got lucky this time. Eonoth bailed you out. He's an Old One, however. You can't expect him to be there for you every time you need help. Hell, he might be feeling fickle one day and let you sit in one of those giant eldritch for a few millennia."
+
+Even with his shattered mind, Lehesion's body remembered the agony of being devoured. He twitched while blinking, "I...I will be trapped forever?"
+
+"Well, yeah. After all, it isn't like you can die. We both know that."
+
+Lehesion stared down, dwelling on what I said. He shifted in place, an unsettling reality looming over him. As he did, something in his head clicked, and clarity washed over him. It was as if he got full control of his mind back. In anger, he glared back at me, "Are you truly so different?"
+
+He was trying to turn the conversation onto me. That was good. I kept up the chat as I crossed my arms, "Oh, really? How?"
+
+Lehesion's eyes narrowed. He dropped the lie about killing the fortress on his own. The gears of his ancient mind began turning,
+
+"You saw Eonoth's attack. That should be impossible. He froze time across this entire dimension. All was absolutely still besides for I alone. I know why I was allowed to move during that time. You, however? That should be impossible...unless-"
+
+Lehesion's eyes widened, "You exist within a different timeline...as I do."
+
+It was my turn to be confused. I frowned, "Uh, I don't know what you're talking about."
+
+He gave me a sly grin, mistaking my confusion as a solid lie,
+
+"Don't pretend as if you don't comprehend my meaning. Did another Old One reincarnate you as well?"
+
+So, reincarnation, huh? I had no intention of getting information out of Lehesion here, but hey, if I could, why not? I peered away as if I was caught lying,
+
+"I...I don't know what you're talking about."
+
+Lehesion cackled before giving me a slow nod, "That is why someone so young is so able, hmm. Did they gift you with that body as well? That would explain how you're able to sustain my blows. Given your minuscule size, you should've been reduced to paste."
+
+"Come on. You're just big. I am not small."
+
+"Indeed, I am rather large in stature, but deflections aside, you must have promised the Old One something in return for your revival. I can sense there is some oath in your blood, though I cannot read it."
+
+I remembered my contract with Yawm. That was the only oath I was literally sworn to, but I wouldn't have to worry about that for another thousand years. I raised my eyebrows,
+
+"So, you're telling me you think I was reincarnated for a promise with an Old One?"
+
+"No. I know you were. There exists no other means of gaining the strength you have in such a short time. You will grow to manifest as an utter demon if you are allowed to grow."
+
+"Like you?"
+
+He peered down at me, "You will never match me, neither in might nor in mettle. I was given the time and ability to expand my horizons using two lives. You, you will not be given your second chance."
+
+I raised an eyebrow, "Because you'll stop me?"
+
+Lehesion spread his wings, "Indeed. I allowed you to live last time because I underestimated your tenacity. This time, I shall leave nothing in my wake, not one atom of you remaining."
+
+I hovered myself out from in front of the Nebula Drifter, circling Lehesion,
+
+"Are you sure you're able to? If I remember correctly, you needed Eonoth to save you last time you were in an actual battle."
+
+Lehesion shook as he seethed, "I would've been victorious regardless of his interference."
+
+"Or, you know, maybe a meal for that eldritch. I can say I've never needed some ruler of time and space to bail me out. I've done everything I'm known for all on my own. I took this armor from the hands of someone who wanted to use me to create it. I fed that armor and expanded its abilities using the cipher, knowledge I gained on my own."
+
+Well, outside of Eonoth and Etorhma. Lehesion didn't need to know that, though. I kept my introduction needlessly long and dramatic to waste time,
+
+"I killed the Destroyer of Worlds, Yawm. I saved my homeworld while you destroyed your own. I didn't need two lives to do it either. You were wrong earlier. I wasn't reincarnated. I did it right the first time."
+
+I pointed at Lehesion, "Somehow, you managed to fuck it up both times, even with someone giving you all the advantages in the world."
+
+Lehesion grimaced, his teeth snarling,
+
+"Shut up."
+
+I spread out my hands, "And now your mind is so weak that even I can get you this riled up. A supposed god versus some dude who isn't even thirty. Think about that."
+
+Lehesion let out a mental growl, my skin bristling at it. He roared,
+
+"I said, be silent."
+
+His voice was acid on my skin, the tone and force behind it palpable as a punch to the gut. Despite his outrage, the guy was already sentenced to kill me, so I figured getting him mad didn't matter at this point. I waved Event Horizon over him, speaking with as much authority as I could muster.
+
+"No."
+
+Lehesion recoiled for a second, taken aback by my voice and how it boomed. I surprised myself, kind of stunned that I could muster up that much of a presence. Lehesion lifted his head, indignation saturating him,
+
+"You think the voice from such a limited being will evoke fear from me? Laughable. I will silence the voices of dissent in my mind. I know who and what I am. I am the end and the beginning, the ruthless and the kind. Hear my proclamation."
+
+He fumed, "You will not be the only one who is killed today. Your entire species will be culled, eliminated for angering me. There will be nothing left but salted earth and scorching air. The oceans of your world will evaporate under my fires. The plains will crumble under my wings. When I am finished, you and everything you cherish will be nothing."
+
+Oh man, I just wanted to distract the guy. I raised a hand,
+
+"Listen, Lehesion, we're just talking. You don't have to bring my home planet into this just because you're angry."
+
+"And my wrath shall spread far and wide like a plague across your homeworld, wherever it may be."
+
+A shiver ran up my spine, but I kept myself together,
+
+"I saved your entire species, whether you like me or not. In exchange for doing that, you'd kill off my entire planet?  I thought you said you were ruthless and kind?"
+
+Even with his fractured mind, Lehesion knew I had saved the gialgathens from all becoming Hybrids. He gave me a nod, "Then instead of killing your race, I will unleash enough pain and torment onto you to rival your species's extinction. Be ready for it."
+
+I raised my hands, "Come on then."
+
+He shot towards me, snapping his tail with absurd speed. I anchored myself with gravity and smacked my arm against his strike. The metal bones in my limb shattered, but I rebounded his first attack. Within a split second, my arm was fully healed, and Lehesion grimaced,
+
+"You've strengthened yourself since the last time we fought then?"
+
+"Yeah. I did."
+
+Lehesion coalesced his aura into his body before rearing his tail back. Smashing it towards me, I predicted the attack's angle, creating a portal to my dimensional storage there. He pulled back, remembering this tactic from last time. I shot forwards, using my pocket dimension as a kind of bloodthirsty shield. Lehesion snapped his jaws at me, but I unloaded a singularity between us before it landed.
+
+There was nothing for the singularity to feed on, and it reacted differently than usual. It sucked us both in, tearing through the top portion of my left arm and shoulder along with the bottom of Lehesion's jaw. As it imploded, we were both slung apart. My vision twirled as all sense of up and down was lost. I stopped myself from revolving, trying to spot the giant gialgathen.
+
+As I did, an upside-down Lehesion glared down at me, his lower jaw regenerating. Collapsing his aura into his frame, he smashed his tail at me before I got a grip on what the hell was going on. His limb snapped onto my torso, and it carved a foot deep into my chest. Stuck in there, the kinetic impact rippled out of my back, blowing my insides apart.
+
+Because of my gravitational anchor, I didn't actually fly back. Lehesion grinned at my opened guts, but his smile didn't last long. My armor laughed at him, the jagged, metal teeth menacing and monstrous. I held onto him, piercing my hands and ribs into his tail flesh. He whipped the limb about, confusion spreading over his face,
+
+"What is this?"
+
+I shot back using telepathy,
+
+"This is what a real monster is."
+
+The same fear Lehesion owned for the Spatial Fortress manifested in his chest for me. Like a growing infection, I drilled through his bones and tendons. Lehesion snarled his teeth before breathing in the vacuum around him, readying a breath of golden flame. I whipped my body around, putting his tail between me and his attack.
+
+Without hesitating, Lehesion unloaded one of the beams from earlier. A portal from Helios spawned in front of his mouth and towards the back of his body. The portal redirected a part of the blast, leaving a deep wound in Lehesion's back. At the same time, his tail guarded me against the worst of the remaining blast. Despite the redirection and barrier, his beam scorched through me, singeing my skin and bones like a fire burning twigs.
+
+I stayed alive, however, and I still drained his essence with each passing second. I turned his flesh into my own, the shattered god becoming a buffet. His aura rippled back out of his body, knocking me off of him. It disintegrated the tendrils of my armor ingrained through his body while driving me back. Before I could reorient myself, he shot forward and clapped me with his tail.
+
+I braced for impact. His attack collided with me, smashing into my chest. Ribs broke, my chest caved in. Silver blood spluttered out of my mouth. I laughed with no sound as I got a grip on where I was. It turns out, without his aura enhancing his tail, Lehesion wasn't actually all that overwhelming. All those levels from culling Giess were paying off.
+
+I turned myself towards the angle of his attack, reaching out with a singularity. He pulled away from the gravitational lure, sidestepping it while darting away. The hungry point yanked me towards its center before I jerked myself back. It fizzled into nothing, the first one I ever failed to properly ignite.
+
+Lehesion taunted,
+
+"You've developed your body since we last fought, but your magic has grown stagnant."
+
+I winced at his words because the giant frog dragon was right. I was prioritizing a lot of different tasks right now, and my splintered approach led towards fewer gains in my own development. Those haunting thoughts cropped up with memories of the elemental furnace along with saving the gialgathens. Pride bloomed in my chest.
+
+Even if I hadn't gained personal power, I'd helped people. That was worth it in the end.
+
+It did make this fight a bit harder, though. Lehesion closed the gap and swiped at me once more. I slapped his tail aside, the gialgathen no longer able to bully me with his physical might. Without his aura helping him out, I could clobber him on contact. He shot out a dozen tail swipes over the next second, and I kept pace by deflecting with my arms, elbows, and knees.
+
+I saturated myself with quintessence, my skin glowing a bright white. Lehesion burned himself each time he attacked me, and I gained some ground. I pushed the legendary figure back, his attacks unable to stop me. Even if he believed himself holy, that didn't make it so. I could win this. I growled back to him in my mind,
+
+"And you never once learned to fight against someone on equal footing, did you? You just relied on your natural talent to keep you afloat."
+
+He sliced his tail while biting with his jaws. I grabbed his limb, two of my fingers breaking while I established a firm grip with the other three. At the same time, I pulled him to me while smashing his face with my fist. His teeth cracked along with a bone in his jaw. My body infested his as I made contact, ripping more chunks out of his face.
+
+I taunted right back, "Look how that worked out."
+
+Mana filled Lehesion, and crystallized mana appeared over his skin. These scales formed under my hand that grabbed his tail. These mana plates exploded outward, leaving my left arm in tatters while he got distance from me. My arm regenerated while I pulled myself to him. He was faster than I was, however.
+
+With a gap between us established, Lehesion charged another attack. I bit my tongue at the sight. I got him angry earlier, and that made him run at me. In a physical confrontation, I was his equal, maybe even his better. However, once Lehesion began using his large scale spells, I couldn't keep up at all. Knowing all that, I bolted towards him as fast as I could, trying to interrupt his casting.
+
+I didn't make it in time. Lehesion created many emerald serpents, each forming over his head. These aetherial beings slithered through space before eyeing me. I neared him before one of the snakes bit at me. I pulled myself with gravitation, evading the first, second, and third strikes of the serpents. The bites after that sliced into my arms and legs, their fangs injecting caustic venom.
+
+I pulled at them, but the serpents were strong. They jerked at all angles, stopping me from escaping before Lehesion breathed deeply. My mind raced for a solution before I tried something new. Instead of trying to outdo the apparitions, I tried eating them. Just as I ate lightning, I reached at them with my armor. The snakes writhed in pain before the one restraining my right arm released me.
+
+New skill unlocked! Energy Siphon(lvl 10) - You've learned to drain many things, and now energy is one of them.
+
+As Lehesion unleashed his golden beam, I pulled my arm in front of my face. Several of Helios's portals spawned at once, each trying to buy me time. Lehesion blasted into them, sustaining through his own blast. The edges of the warps cracked, but they bought me a few seconds.
+
+I wracked my brain for a solution. Thinking of Helios's tactics, I used my dimensional storage as a shield, trying to block the ray of energy. Helios's portals shattered, Lehesion's beam firing at me right after. My shield actually absorbed the light coming at my face, right shoulder, and some of my torso.
+
+The rest of me disintegrated.
+
+Not all of that was from Lehesion's attack. Every ounce of energy I stored in the shield cost me mana. Spending mana meant spending health, so I still took a massive amount of damage even when blocking the attack. I contained the blast from outright killing me, however, and that was all I needed.
+
+Lehesion's blast stopped, and he inspected the damage done. With only a piece of my upper half left, I willed the ray of light I absorbed from Lehesion to fire back out. In a flash, I shot out the beam at his head. He jerked his neck sideways, avoiding the blast. Using the rest of the stored energy, I cleaved his torso in half.
+
+He roared in agony, his serpents dissipating as he lost focus. I stared back at my dimensional shield as my legs regenerated, kind of surprised by how damn useful this thing was turning out to be. In the corner of my eye, I saw two new skills as well.
+
+Unknown skill gained! 500 tree points awarded for pioneering a new skill! Dimensional Shield(lvl 10) - By breaking the laws of physics, you trade your life to nullify incoming attacks.
+
+Unknown skill gained! 500 tree points awarded for pioneering a new skill! Dimensional Reversal(lvl 10) - After placing an opponent's attacks in stasis, you've learned to wield their own fangs against them.
+
+They were the kind of skills I really needed, and they gave me a method of countering Lehesion's massive attacks. The gialgathen gawked at me with utter surprise as he telepathically spoke,
+
+"You've been hiding tricks up your sleeve, haven't you?"
+
+Of course I wasn't. Risking my life for the surprise factor wasn't actually something I wanted to do. I got these skills out of desperation. Having Lehesion think I was stronger than I was would help me out right now, however. I grinned,
+
+"I'm sure you have a few tricks up your sleeve as well."
+
+Lehesion frowned, "Allow me to show them to you by enacting your death."
+
+I pointed at the battle raging on behind him, "You sure about that? What about them?"
+
+Lehesion turned, spotting the Adair's fleet. His eyes widened as he saw many of their forces facing destruction. Even with the Spatial Fortress destroyed, it wasn't as if Schema was helpless. Using his personalized A.I.'s, Schema organized his unit's attacks around his main fleet. By using his vessels to peel back layer after layer of the Adair's offensive, Schema gained ground.
+
+On the other hand, the Adair's fleet lacked the same training and systematic approach. They were a larger but more divided force. This left many of their sentient eldritch and wilder Hybrids as easy pickings for group tactics. Combine that with Lehesion's glaring absence, and the rebel's victory was quickly turning into a defeat. Lehesion grimaced at the sight before glaring back to me,
+
+"The next time we fight, I will muster every ounce of my power against you."
+
+I pounded my fists together, "Anytime then. Go on, save your new owners."
+
+Lehesion narrowed his eyes before staring back up at the Nebula Drifter. He grinned with an ominous joy in his eyes,
+
+"Ah, that is the vessel you arrived from, is it not?"
+
+I scowled, "You'd bring normal people into this?"
+
+The thought passed in Lehesion's mind, and he considered it for a second. He shook his head and frowned, "No. I wouldn't. I have yet to sink so low."
+
+Impressed by the guy, I raised a hand, "Then we can keep fighting, or you can go back. It's up to you."
+
+Lehesion looked down, indecision spreading over him. That indecisiveness died as a foreign force overtook him. A series of convulsions robbed him of his self-control as his eyes dilated. The Adair's wrestled complete dominance of him once more, and without warning, he began charging a beam. Lehesion blasted at the Nebula Drifter as I reached out with a singularity at the center of his chest. It siphoned his body inward, deforming his frame.
+
+The damage was already done, however.
+
+His blast passed through the Nebula Drifter, disintegrating the mental and glass at an atomic level. Not even a trace of debris remained from the shuttle, the entire vessel consumed by his strike. My stomach sank as I roared at the golden monster. The Gialgathen regenerated before smirking at me, his pupils dilated. Tohtella's cold voice rang in my ears,
+
+"You've wasted enough of Lehesion's time. Because of you, we've lost many lives."
+
+Unlike Lehesion, Tohtella didn't even try to fight me. Using Lehesion's body as a vessel, she darted away from me, taunting all the while,
+
+"From what I've seen, you cannot be killed. You and Lehesion are alike in that way. Since you cannot be controlled either, we will use other means of dispatching you. The first of which involves eradicating your will to live rather than your life itself. Look forward to it."
+
+A portal appeared behind Lehesion, and the gialgathen darted into it. It closed behind him while I lashed out where he was in frustration. One second of control and that piece of shit just destroyed everyone. I grabbed the sides of my helmet, squeezing so hard I left finger imprints in my helm.
+
+Flashes of Althea passed through my mind, along with all the memories we shared together. I remember getting her to control her eldritch half, and when we used to cook together and go on dates. I should've cherished those times more. I remembered Torix and all the lessons he gave me, along with his snappy retorts. He was kind of an asshole when we first met, but the guy was like a father to me now. I wanted to make him proud.
+
+Kessiah, Hod, Florence, even Obolis, they might all be dead along with everyone else. My heart pounded in my chest like a jackhammer as something like a panic attack came over me. Before I let myself go entirely to the panic, I remembered Althea's restorative abilities. She could regenerate from anything after thirty seconds as long as she wasn't still taking damage.
+
+With every ounce of my strength, I shot myself towards where the Nebula Drifter once was. As I arrived, I peered around, struggling to find Althea in the vast void of space. She would be the smallest inkling of color in this empty place, but I should've been able to find it. As the seconds turned to minutes, you'd think my dread would grow.
+
+It actually disappeared.
+
+She would survive that kind of attack, so if she wasn't here, she wasn't vaporized in the first place. Verifying my thoughts, a message from Obolis cropped up.
+
+Obolis Novas, the Finder of Secrets(lvl 23,987 | Class: Founder | Guild: The Empire) - Send me your coordinates.
+
+I replied that I was right where the Nebula Drifter once was. A few seconds later, a warm breeze blew from above me. Someone created warp that let out air, so I went to it, finding and diving through the portal. My feet dragged across dirt as Helios closed the opening behind me. Surrounded by my guildsmen and a forest clearing, I took a deep breath of fresh air.
+
+"Man, it's good to see you guys."
+
+Althea ran up to hug me, so I warmed my skin a bit. It was cold from space, and I didn't want her skin to peel off on me. As she hugged me, I held her too. Even though it was just for a second, I thought I'd lost her. Torix put a hand on my shoulder from behind, his skeletal hand squeezing hard,
+
+"It's good to see that while you might not be his equal, you are at the very least a suitable distraction. Well done."
+
+I scoffed, "Eh, I do my best."
+
+A nervous chuckle ran through the crowd around us. It looked like most people escaped from the vessel before Lehesion blew it away. Along the outskirts of the group, Obolis paced back and forth, his mind thinking of hundreds of different possibilities. Helios stared in the distance, trying not to hurl. Wrath skulked in the surrounding woods, culling a few wild eldritch to keep these high society people safe.
+
+I turned to those here, "Is anyone missing from my guild?"
+
+Hod, Kessiah, Torix, Althea, and I were here. They gave me a few congratulations on my fight, everyone counting it as a win. It was a victory in some respects, but it showed a glaring weakness I needed to address. I could stop Lehesion if he chose to fight me, but restraining the guy was outside my power. That much was impossible for me.
+
+They would find Earth, and when they did, Lehesion would ravage its surface until no life remained. Combine that with the fact the Adair family was after our heads, and we had a lot on our plate. Before thinking about it further, I gave Althea a squeeze to clear my mind. With that moment of respite, I was ready to talk.
+
+I gave a light shout,
+
+"Everyone, we need to talk in private. Let's get these guys out of here before we have another meeting."
+
+Helios sighed before waving his shoulders. The guy's shoulders and chest were slumped, so I reached out a hand,
+
+"Hey, you alright."
+
+He pushed my hand away, "Of course. I'm fine."
+
+Torix mouthed, "The portals shattering takes its toll on the caster's body. Even one as gifted as Helios would be feeling the side effects."
+
+"Ah, that makes sense."
+
+Despite that sickness, Helios got all of Obolis's guests out of here, along with most of his crew. Not all, however. Some perished in the wake of Lehesion's blast, and that solemn air permeated all the crew members. The high society folk were far less effected, probably because they were prioritized during the evacuation. They hadn't suffered yet, but the crew already lost friends and loved ones. That made it more real.
+
+It was a wild situation either way, so I couldn't blame people for not knowing how to handle it. Reactions ranged from sheer shock to unbridled fear. A few were impressed by me. Others were disappointed. I could never make everyone happy, and I had long ago accepted that. Regardless of what I did, someone would complain, so I took their opinions with a grain of salt.
+
+Once they were gone, a few core members of our guilds were left. We gathered around into a circle. We needed to discuss Lehesion's reincarnation, my liquification, and even the rebel's flawed victory. We had to get to the bottom of it all and fast since the clock was ticking before the Adair's found Earth. Once they did, I would lose another home along with everything I'd worked hard to build.
+
+And that didn't even include the collapse of Schema's society.
+
+Man, we had a lot to talk about.

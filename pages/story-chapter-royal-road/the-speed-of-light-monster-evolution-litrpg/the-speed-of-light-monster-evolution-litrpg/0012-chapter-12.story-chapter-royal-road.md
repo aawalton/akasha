@@ -1,0 +1,147 @@
+---
+id: 395002cb-f181-5e78-a305-41ff90b2364c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12"
+slug: 0012-chapter-12
+partOf: the-speed-of-light-monster-evolution-litrpg
+position: 12
+ownLength: 1890
+unit: words
+publishedAt: 2025-08-20
+link: "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2533160/chapter-12"
+royalRoadId: "2533160"
+---
+
+Tachyon’s foot slammed against the hard exterior of the rock-like lizard below her. Ending the fight of the 3rd Controlling Stone she had visited today.
+
+You have killed, Pummus Armadillo Level 10. Experience earned.
+
+Taking down the stone pillar swiftly after, she looked down at the chest that appeared.
+
+Sadly, Tachyon had not been able to level up or find much of anything useful since her cuirass. The two previous chests filled with pairs of red and blue liquid inside glass shapes. Which she might add she couldn’t open because of her lack of thumbs.
+
+But she might soon have a way around that. Every hour, her senses and skills were improving. She was able to control her rare skill quite well by now and her expertise over her light magic carrots were becoming even better.
+
+And with her control over her magic improving, there were some interesting side effects. She was ever so subtly able to control her raw mana. Nothing substantial so far, but she was able to feel the internal mana within her with more sensitivity. That was also on top of being able to control the mana from her body to form small stands with it.
+
+However, there was no real use for them that she could find. Well, almost no use.
+
+She opened the chest to find it to be another dud. More glass containers filled with red, blue, and this time green liquid. Tachyon almost left the chest out of sheer disappointment but sighed and placed them in her bag of holding as she moved over to the more important activity.
+
+Tachyon had found a new sweet treat. A large red fruit she had once been given in the arena, only this one was fresh from the source.
+
+The mana threads that were in their infancy did have one singular yet spectacular use as of now. Which she displayed by having a near transparent thread move from her head to the tree holding the delectably aromatic object. That she then pulled from the brown stick and placed it right into her mouth.
+
+Her eyes closed as she let out an ecstatic whine of pleasure, each movement of her mouth sending shivers down her back from the sweet taste filling her mouth.
+
+“Mmmmmm!!! I take back everything about getting stronger. I think I’ll just stay in this tutorial for the food!”
+
+One after the other, Tachyon pulled apples from the trees. For everyone she put into her bag of holding, another would enter her mouth, for recovery reasons.
+
+The tree empty of any more fruits. She moved onto her next destination.
+
+Looking into the sky she was finally close enough that craning her neck upwards was necessary to see the peak of the faint light pillar indicating the Controlling Stone she was originally meant to navigate to.
+
+She prepared like she had for all the other Controlling Stones she had taken before. A quick run to build and store up her momentum, then summoning several pairs of light magic carrots. A bite of some treats for good luck and she was off to conquer another Controlling Stone.
+
+The area around her had turned from a forest into a more barren landscape. Tachyon wouldn’t exactly call it dirt, but there were very small rocks of yellowish color covering the ground. There were sparsely any trees now, and those she saw were just large and green with red flowers on them sometimes.
+
+And it was hot. Which was surprisingly not that big of a deal for her. It felt homey even.
+
+Moving forward ,she came close enough to the pillar of faint light that it disappeared entirely. Coming into view around the stone pillar was something she wasn’t expecting. Not in a million years.
+
+Horses with red colored hides and hair grazed and pawed at the ground. Tachyon’s mind suddenly froze as if flash-banged by a skill.
+
+These were Broodsong horses. They were the same race as her, well, her previous race. She had never seen any outside of her mother and father. So seeing them here was more than just a little surprise.
+
+But the more she thought on it as the heads of the horses craned upward to meet her eyes, the more she understood it made sense if the monsters were taken from Earth the same as she was.
+
+She looked around, the group of Broodsong horses numbering close to twenty much like the other groups of monsters around the Controlling Stones.
+
+A particularly large stallion grunted next to the Controlling Stone, his hide such a deep red it nearly turned black.
+
+Tachyon wasn’t particularly fond of other monsters, even those of her same race. Every monster she had ever encountered had tried to kill her, after all, she had only met others inside the arena.
+
+But she felt conflicted. Her eyes were drawn to the Controlling Stone. She needed the experience the stone gave even if she didn’t wish to fight the other Broodsong horses.
+
+Would they allow her to take it, however?
+
+She looked into the eyes of the stallion, getting her answer immediately.
+
+It does not look like it. She thought, her front leg beginning to paw at the ground as her legs began to glow red, pairs of white wings unfurrowing at her hooves.
+
+The stallion seemed to activate skills in kind, its whole body lighting up in flames in the already avid heat.
+
+Tachyon readied herself to fight off the entire herd the moment the stallion activated several skills. However, what happened instead was that the other horses began giving way, moving enough to give them ample space.
+
+She stomped her foot down into the ground, sinking slightly. The Broodsong stallion reciprocated the gesture with its own, leaving a flaming mark on the ground.
+
+Tachyon let out her magic light carrots first, wanting to keep her distance and finish the fight quickly.
+
+However, each of her spells were met with a fireball counterpart midair. Stopping them dead in their tracks as the magic collided.
+
+She had become somewhat adept at sensing mana, but she was still unable to gauge just how much the stallion had. Could she risk getting into a battle of attrition with magic?
+
+Tachyon looked around to see the other Broodsong horses still present and quickly decided against it.
+
+Her hooves dug at the dirt, her Leg Strength skill giving her a small burst of swiftness as she got up to speed. Her Blood Doping skill activating as well, increasing her stats enough for a noticeable boost in movement.
+
+She could see the surprise in the confused Broodsong stallion’s eyes but they were quick to change gears and move themselves to meet her.
+
+The stallion dug at the ground, leaving fiery hoofprints with each stride as it moved closer. As it did, more fireballs continued to rain out from all around it.
+
+Tachyon obliged, sending out magic light carrots in the same fashion until they were only a few feet from one another.
+
+By now, her Forceful Momentum skill had continued, and she stored the extra speed. At the same tim,e she activated her After Image skill, the brief cover of invisibility proving vital to winning the fight.
+
+The flaming Broodsong stallion continued its charge, even finding its own burst of speed at the last moment to collide with the after image left by Tachyon’s skill. But the moment it did, that was when she knew she had won.
+
+The last of her skills activated as she rushed forward as if teleporting, her Light Charge skill propelling her forward with all the strength and momentum of a supporting Forceful Momentum skill behind it.
+
+Tachyon slammed into the side of the stallion, flinging it comically several feet to the ground from the blow.
+
+She had taken some burn damage from touching the flame-covered stallion but nothing a few minutes of healing wouldn’t be able to rectify.
+
+The battle was quick and decisive. She had more and better skills.
+
+Tachyon moved over to the fallen stallion, its eyes already showing its acceptance of its fate. And she bowed her head to it, sending several light spells to finish the job.
+
+You have killed, Flamesong Alpha Stallion Level 11. Experience earned.
+
+Congratulations! Your race level has increased to 17. +4 to AGI, +2 to MAG and STAM, +5 Free Points.
+
+The voice confirmed her victory as she walked back to the Controlling Stone, surprised once again to see that the other Broodsong horses surrounding the stone, their heads bowed deeply and their knees bent in reverence.
+
+This is weird… I’m just going to get whatever is in the box and go eat some more treats. Tachyon thought, feeling more uncomfortable by the second.
+
+Brilliance.
+
+That was all Scarlett could think of when she saw the mare that had defeated their herd’s leader.
+
+The sheer overwhelming power of the mare had been like nothing she had ever seen before.
+
+In their home, the stallion had been a powerhouse. At its evolution, it had received a rare race, giving it control over the fire that donned its entire body and left it at the top of the food chain.
+
+Nothing could contest its authority, but Scarlett had witnessed something of a miracle.
+
+The fire element was pure destruction, the aspects of it meant to burn and destroy anything it touched. But this mare bathed in beautiful white, like a beacon on the rough tan sand, was able to compete with the fire magic as if it was but a child's game.
+
+It matched the stallion’s firepower with ease, forcing it into a close-quarter fight. But even with the superior firepower, the mare did not back down, choosing to meet the stallion.
+
+However, it was all a ploy to secure the final blow. Scarlett was dumbfounded by the raw speed at which the mare moved, nearly teleporting forward in a single stride in mere seconds.
+
+The stallion struggled to match, only managing a few steps before it was forced to activate its finishing skill, a Hard-boiled Charge meant to completely incinerate the opponent. She had seen such things many times before, even more in this strange place they had been forced to, new and fierce monsters at every corner, trying to take the stone pillar that called to them.
+
+But to not only Scarlett's surprise, but the rest of the herd, the stallion’s charge passed through the image of the mare. And before she could understand what had just happened, the stallion was on the ground. Its entire body a twisted mess of broken bones.
+
+The mare reappeared out of thin air as it walked over to the stallion to finish the job and all Scarlett could feel was reverence. The speed the mare had displayed, the power? She was in everyone’s mind the greatest thing they had ever seen.
+
+Worthy of worship. Worthy of their loyalty.
+
+Scarlett and the others bowed their heads to their new majestic god.
+
+The Matriarch of the new Equestrian age! Their new ruler and guiding light! The Brilliant Speed of Light! The Mare of Light!
+
+However, when Scarlett and the others raised their heads, ready to do their god’s bidding, she was nowhere to be seen. An empty open treasure box wedged open next to a newly reforming stone pillar.
+
+“My lady, Mare..?” Scarlett muttered confused.

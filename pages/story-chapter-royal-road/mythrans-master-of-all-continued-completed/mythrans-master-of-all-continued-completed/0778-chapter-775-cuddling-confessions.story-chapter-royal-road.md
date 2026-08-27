@@ -1,0 +1,323 @@
+---
+id: 90cfa30a-f936-509f-87b3-6685ab78b322
+page-type-slug: story-chapter-royal-road
+title: "Chapter 775 - Cuddling Confessions"
+slug: 0778-chapter-775-cuddling-confessions
+partOf: mythrans-master-of-all-continued-completed
+position: 778
+ownLength: 3218
+unit: words
+publishedAt: 2018-11-27
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/310147/chapter-775-cuddling-confessions"
+royalRoadId: "310147"
+---
+
+The make-out session between Ren and Dilseffa went on for quite some time. It didn't look like it was coming to an end anytime soon, then Dilseffa started to chuckle. That made it harder for her to keep her lips in the right kissing position. When she started messing up and the kisses became really sloppy, she started laughing.
+
+Ren broke the kiss with a bark of laughter. “Ha! For some reason, I think you're enjoying this!”
+
+“Hahaha!” Dilseffa laughed and put her head on his shoulder and hugged him tightly.
+
+After a few moments, Ren thought he felt a tear on his neck, so he slid his hands up her back and tucked his head into her neck. He pressed his lips to her skin and held them there for an extra long kiss, then moved slightly and did it again.
+
+Dilseffa took several deep breaths to calm down. “Ren, thank you.”
+
+Ren chuckled. “Now I know how Tee-one feels when I thank him for helping me.”
+
+“He's your Dedicated Servant Crafter, isn't he?” Dilseffa asked.
+
+“Yes, and now I realize how... superfluous it is... to thank him for doing what he really wants to do.” Ren said as he lifted his head from her shoulder and leaned back slightly to look at her, and she lifted her head and looked at him.
+
+Dilseffa's eyes were wide because she understood what he meant. “I'm... I'm you and you're him.”
+
+Ren smiled and nodded. “You're letting me hold and snuggle you, and that's more than enough thanks for me.” He said and gave her a kiss on the lips. “I appreciate it and I'm very flattered that you let me.”
+
+“Oh, Ren!” Dilseffa almost sobbed and kissed him hard, and they stayed that way for several moments, then she broke the kiss. “When my mother finds out...” She took another breath and let it out. “I think my mother is really going to like you.”
+
+“Even though I'm not one of you?”
+
+“Even though.” Dilseffa said, then gave him a feather light kiss as an apology for the hard one she had just given him.
+
+“Aww.” Tiyaphi and Yuwen said together, then they laughed.
+
+“We're trying to have a tender and intimate moment here.” Ren said to them; but, they could feel his teasing emotions.
+
+“Uh huh.” Yuwen said with a grin. “I hope you don't expect to go and meet my family.”
+
+“What if I do?” Ren asked, curious.
+
+“I don't need their permission to accept you into my life.” Yuwen said, confidently. “It would be nice if they like you, that much is true; but, they don't have any say in who I choose to be with.”
+
+They all looked at Tiyaphi, and she laughed.
+
+“My mother is going to be absolutely thrilled to hear that I have an Inamorato.” Tiyaphi said. “My father, though...” She smiled. “He might sign everything over to you right away.”
+
+“Ha ha! Can you imagine that?” Yuwen asked. “You walk in the door and they get one look at Ren...”
+
+“...and all the paperwork is instantly produced and signed over.” Tiyaphi laughed.
+
+“That could be both good and bad.” Dilseffa said. “It would be good that your families would accept him right away; but, it would be bad that they would absolve themselves of all of their family concerns so easily.”
+
+“It would definitely be a relief for my father.” Yuwen joked. “He's always been an explorer and hates that he has to stay home and care for the land.”
+
+“I'm surprised that he hasn't handed everything over to your brother.” Dilseffa said. “He already runs everything himself, anyway.”
+
+“I've been gone for almost 3 months, so he probably has.” Yuwen laughed. “For that matter, Jaasom and Krinca are probably already married.”
+
+“Oh, I hope not.” Dilseffa said. “We haven't been to a good wedding in ages.”
+
+“That's because they're boring most of the time.” Yuwen said. “All pomp and circumstance.” She stuck out her tongue. “No, thanks.”
+
+“The last one I went to was fun.” Tiyaphi smiled. “It was two deer and Pastor Grizzlor was officiating.”
+
+Ren thought about what she said for a moment. “Forgive me if I'm wrong; but, would Pastor Grizzlor be a big black bear by any chance?”
+
+“He is.” Tiyaphi said.
+
+“The deer... did they end the ceremony by sharing a salt lick?” Ren asked.
+
+“How did you know that?” Tiyaphi asked, surprised. “You weren't here, and it happened while the caravan was deployed.” She said. “No one you've met could have told you about it.”
+
+“Where Adventurers come from...” Ren stopped talking because he wasn't sure how to explain to them that it had been a scene in Barbara's favorite television show with a talking bear, so he glossed over the details. “...we've heard stories about similar things.” He said, and assumed that one of the programmers must have been a fan of the same show. “Plus, deer there love salt licks.”
+
+“They do here, too.” Tiyaphi said and sighed wistfully. “It was such a sweet ceremony.”
+
+“Well, I'm glad I missed it.” Yuwen said. “Who needs a big ceremony to announce that you're staying with someone?”
+
+“Us.” Ren said, and the three Pervarian women startled a little and looked at him.
+
+“Wh-what did you say?” Dilseffa asked.
+
+“We had our big ceremony right in front of the whole delegation, remember?” Ren smiled. “You made your declaration, then...”
+
+“That's not...” Dilseffa started to say.
+
+“It doesn't count for that, does it?” Tiyaphi asked at the same time.
+
+“We... we already...” Yuwen took several breaths and started to hyperventilate.
+
+“Calm down.” Ren commanded them, and he felt their churning emotions settle and their breathing even out. “You might not see it that way, since it's not a marriage; but, it was a formal ceremony and I made you members of my dynasty.”
+
+“You're right.” Dilseffa said. “I... no, we... didn't see it that way.” She admitted. “It's just...”
+
+“It's too new for all of us to accept it for what it really means.” Ren said, and she nodded slightly. “I wonder if everyone else knows what it really means.”
+
+“I'm sure Tatya does.” Artemis said. “As the head of the delegation, she would have to know at least some of the formal rituals for things like that.”
+
+“She's a member of a prominent family of fighters, too.” Yuwen said. “Kenkoth wasn't exaggerating when he told you that she was the best at devising new strategies for defeating her opponents.”
+
+“I didn't know that she was the head of the delegation then.” Ren said with a smile. “I assumed he was only praising a colleague.”
+
+“You still knew she was important.” Dilseffa said. “When she approached you that first time...”
+
+Ren chuckled. “I almost lost that duel.”
+
+“I really wanted to fight you like that next.” Yuwen said with a huge smile.
+
+“Mires would have just loved that!” Dilseffa said and laughed.
+
+“Oh, he would definitely have been really jealous.”
+
+“I was so turned on by that fight.” Dilseffa said as she remembered it. “I wanted to sneak away and take care of my urges so much!”
+
+“It sounds like you all had a great time.” Tiyaphi said. “I'm sorry that I missed it.”
+
+“I've got it recorded if you want to see it.” Ren said, and the three women caught their breath.
+
+“You do?” Yuwen asked.
+
+“Once I gained the device to do it, I record everything that happens around me.” Ren said.
+
+“E-e-e-everything?” Dilseffa stuttered and her embarrassment burst out.
+
+“Everything except moments like that.” Ren said right away. “It's the one rule that Adventurers have. Once clothing comes off, no one but those participating can see anything.”
+
+“But...”
+
+“Even the compressed time does the same thing. No one but those inside can see things that are going on.”
+
+“But... you showed that... with Rimsoh in the carriage.” Dilseffa said.
+
+“None of us were naked and it was recorded while inside the effect.” Ren said with a grin. “I've got all your training and our games of Tag saved, too.”
+
+“That's a relief.” Yuwen said and then smiled. “Will you ever cease to amaze us?”
+
+“Possibly.” Ren chuckled. “Once you get used to having me around.”
+
+“I hope I don't ever get used to this.” Dilseffa said and rested her head on his shoulder. “I want it to feel new and exciting every time.”
+
+“You can try sitting in the other direction to change things up.” Ren said with a grin, and she laughed.
+
+“I'll stay right here for now.” Dilseffa said. “Can you show us the fight?”
+
+“Of course.” Ren took out the device and created a display in the middle of the carriage. Since it could be seen on both sides, he chose the scene with his encounter with Tatya and played it. They all watched it in it's entirety and enjoyed the spectacle.
+
+“Wow.” Tiyaphi said when it was over. “You did that... right there... in front of everyone.”
+
+“The emotions they let out were amazing.” Yuwen said. “I've been near people a few times and felt something similar; but, what they let out was head and shoulders above anything that any of us had felt before.”
+
+“Including Tatya.” Dilseffa said. “She didn't really say anything about it, though.”
+
+“You just had to be around her for a while after it happened.” Yuwen said. “She wasn't scared or regretted it or anything, she just thought about it. A lot.”
+
+“No wonder.” Tiyaphi said and looked at the paused display. “I can't believe none of you gave them Respect after that display.”
+
+“That's what I said.” Ren chuckled and played the rest of the video.
+
+Tiyaphi wasn't surprised at all at Ren's reaction and the threat of challenging them all, then the video ended. “That's all? What happened when you left?”
+
+“I took the recording device with me, so I don't know.” Ren said. “I went and participated in the birth of my son, ran a few errands, spent a really long time with the Sage of Ages, then went back to the castle.”
+
+“So... you... you're not recording everything everywhere? Or eavesdropping on things? Or spying?” Dilseffa asked. It had been a question she had tucked into the back of her mind ever since Rimsoh had accused him of it. She knew there wasn't any real basis for it; but, it was a nagging question for her and she thought that now would be the best opportunity to ask it.
+
+“I've been severely tempted to do just that.” Ren admitted, and he felt surprise from the three Pervarian women. “I haven't, though.”
+
+“Why not?” Dilseffa asked. “You have that device and no one seems to be able to detect it.”
+
+“The answer is simple, really.” Ren said and gave her a little squeeze. “I would be spending all of my time listening and looking for information, that I would miss out on everything else.”
+
+“What? Why?”
+
+“Who do I put the devices on? How many? Where do I put them to get the most coverage? What if there's multiple people and different conversations going on? Will they drown each other out or will their conversations sound like it's all together?” Ren laughed. “Do I listen in on the King of the Human Kingdom all day and every day, or his wife, or his daughter? Why not all three?” He continued. “Or the High Lord of the High Elves? His handmaiden? Her mother? What secrets would I discover if I put one in their meeting rooms? Their bedrooms?”
+
+Tiyaphi, Yuwen, and Dilseffa were stunned by this information.
+
+“You know the High Lord of the High Elves?” Yuwen asked.
+
+“Not personally.” Ren smiled crookedly. “I do know his handmaiden's mother quite well.”
+
+“You slept with her?”
+
+“I had been kind of playing with her for months.” Ren said. “Teasing, kissing, licking...”
+
+“R-Ren...” Dilseffa whispered as she felt his body's reaction against her thigh.
+
+“It was only recently that I went all the way with her, as a thank you.” Ren said and let out a small taste of Yllana's pleasure. “She really, really liked it.”
+
+“Oh, god.” Tiyaphi almost moaned as she felt it. Dilseffa snuggled into Ren's neck and started to nuzzle it, and Yuwen crossed her legs to try and stop herself from enjoying it.
+
+“I'm also the Royal Consort to the Queen of the Dark Elves and I've pleasured her several times.” Ren said, and the three women shivered. “She would probably kill me if I tried to record her meetings, or anything else for that matter.” He chuckled. “Especially if I wasn't there at the time.”
+
+“So, you... you haven't... eavesdropped on anyone.”
+
+“I didn't say that.” Ren said.
+
+Dilseffa stopped nuzzling his neck. “Explain.”
+
+“Most people don't know how good elfling hearing actually is.”
+
+“And?”
+
+“I don't enlighten them about it.”
+
+“So, you do listen.”
+
+“Most times unintentionally, since until recently, I couldn't turn it off.” Ren admitted. “I've been nearby people and about to leave certain places, and I would overhear people talking about me or something I had done.”
+
+“Did you stay and keep listening?” Dilseffa asked.
+
+“Of course not.” Ren said. “It might have been about me; but, it's still an invasion of privacy.”
+
+Dilseffa sighed in relief and closed her eyes.
+
+“I try my best to not interfere in most situations, just in case my Trouble recipe activates.” Ren said. “I do not want that to happen anymore.”
+
+“It still does, and there's not much we can do about it, except avoid it as much as possible.” Teepo said. “The last time could have been bad.”
+
+“What happened?” Yuwen asked.
+
+“I overheard Rimsoh telling Mires that he wanted to kill Dilseffa.” Teepo said.
+
+Ren felt shock go through Dilseffa and she stiffened up, then surprise came from Yuwen and Tiyaphi.
+
+“He wasn't joking when he said it, unlike what he claimed, so I told Ren right away.” Teepo said.
+
+“You... you knew.” Dilseffa said.
+
+“I did.” Ren said.
+
+“Then... then you...”
+
+“I didn't do anything.” Ren said.
+
+“Wh-what?” Dilseffa leaned back and slid her arms out from around his neck and rested them on his chest to push him away.
+
+“Like I said, I didn't want to trigger my Trouble recipe.” Ren said, then he gained the Angered condition and the three Pervarian women froze as they felt the change in his emotions. “If I had stormed over to him like I wanted to, then broken his arms so that he could never touch you in anger...”
+
+“You... you...” Dilseffa couldn't make herself form the words she wanted to say.
+
+Ren closed his eyes and took several deep breaths to calm down and lost the Angered condition. “At the very next opportunity I had to bring it up, I told you about how ferrets and rabbits behave where Adventurers come from.” He opened his eyes to look at the woman on his lap. “Before you accuse me of trying to manipulate you, they really do act that way and I gravely feared for your life.”
+
+“But... but not... for that reason.”
+
+“It was for that reason.” Ren said, and her eyes widened. “You see, if it was just a person and they said something like that... well, in some circumstances it can be taken as a kind of joke.”
+
+“Wh-what? How?”
+
+“If you annoy someone and they turn and say, 'I'm going to kill you for that!', it's not a real threat of intent to commit murder.” Ren explained. “However, if talking to other people, and saying in a serious tone of voice that you want to kill someone, that's considered uttering a threat and the intent to kill is implied.”
+
+“So... so you...”
+
+“With the way ferrets act against bunnies, plus the way Rimsoh said he wanted to kill you, added together and became a serious situation.”
+
+“Then you... all you said was to be careful.” Dilseffa said. “You didn't warn me...”
+
+“I did warn you.” Ren said. “If I had just accused him of it right away, you would have laughed in my face and ignored me.”
+
+Dilseffa opened her mouth to deny that she would do that, then she remembered what she had said to Rimsoh at the time. She had told him that she would have believed his explanation instead of Ren's, if Rimsoh hadn't admitted to actually saying it. Tears sprang to her eyes and she started to cry.
+
+“I could have... still been... with him.” Dilseffa said between sobs. “I could have... been so stupid...”
+
+“Hey, now.” Ren used his Water Absorption ability to dry her tears. “Don't think like that.”
+
+“But... but... I would have...”
+
+“No, you didn't.” Ren said. “I gave you a warning and I asked Artemis to keep a close eye on the two of you. There would be no chance for him to try anything at all with her watching.”
+
+“But...”
+
+“You don't know how glad I was that you saw through his manipulations that day.” Ren said. “I didn't hear any of your conversation with him, not until you were close enough to the tower and then made your declaration.”
+
+“You... you didn't?” Dilseffa asked, surprised. “I... I thought...”
+
+“No.” Ren shook his head. “Teepo didn't tell me, either.”
+
+“Nope, I didn't.” Teepo said. “If it doesn't affect Ren directly or indirectly, he doesn't want to know about it.”
+
+“But...”
+
+“Teepo would be talking constantly if he had to tell me about every single conversation that happens inside my Aura.” Ren chuckled. “Without adding in the new Aura boosts, it's about 2,000 feet now.”
+
+“Oh, my god.” Dilseffa whispered as she started to calm down. “The... the whole caravan is easily within that distance.”
+
+“It is, and I have no clue what's going on around me or in the other carriages.” Ren said. “Not only don't I know, I don't want to know.”
+
+“You are being a little short sighted about that.” Yuwen said. “Kenkoth would give his left arm to hear everything that's going on in the caravan.”
+
+Ren smiled. “I'm sure he would.”
+
+“You're not going to tell him what Teepo can do, are you?” Yuwen asked.
+
+“I will if it comes up in conversation, or if he asks about it.” Ren shrugged. “Other than that, no.”
+
+“Why not?” Dilseffa asked.
+
+“It's like spilling secrets. Other people's secrets.” Ren said. “What would any good information officer do if he knew something like Teepo could be used like that?”
+
+They didn't answer, and Ren suspected it was because they knew what would happen.
+
+“Teepo would be confiscated, or they would try to confiscate him, then they would try to use him for themselves.” Ren said and didn't feel any surprise or outrage from them. “It'll never happen, though.”
+
+“Why not?” Tiyaphi asked.
+
+“Teepo is my best friend.” Ren said. “I can't sell, trade, loan, or give away my best friend.”
+
+“On that note, we should be stopping for lunch in a few minutes.” Teepo said.
+
+“What? How do you know that?” Yuwen asked.
+
+“Teepo's my time counter and the best scout that anyone could ever have.” Ren said.
+
+“Hey, you didn't do the 'he is my best scout, I'm your only scout' joke.” Artemis chuckled.
+
+“That's because Teepo is no joke.” Ren said and grinned, and Teepo chittered in laughter.

@@ -1,0 +1,199 @@
+---
+id: ae2263d3-d4ea-50aa-b2f3-9d2d7937255a
+page-type-slug: story-chapter-royal-road
+title: "65 Preparation"
+slug: 0022-65-preparation
+partOf: the-new-world
+position: 22
+ownLength: 4146
+unit: words
+ownProgress: 4146
+publishedAt: 2017-10-24
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/170093/65-preparation"
+royalRoadId: "170093"
+markedReadAt: "2026-06-29T21:21:29.262Z"
+---
+
+Finding the most productive way of spending my time, I set out to build the rest of Althea’s rifle. Fortunately, the stock wouldn’t be as difficult as the barrel to build. The barrel required tremendous precision. The stock of the gun required some, but not the laser like precision the barrel needed.
+
+With that in mind, I reached the center of the Steel Legion’s encampment once more. Setting up on a wooden work bench, I resumed work on the rifle. Making the stock was simple. Before I started, I allocated ten of my dungeon skill points into the Carving into Oblivion skill. Since the breakthrough, I’d reached ninety in the skill. Maxing it out with the bonus skill points from dungeon cores was plenty efficient now.
+
+Once I finished that, I checked my tree points. The past few days, I performed different tasks than normal. That meant gaining different than normal skills. I gained some points from the cooking skill, a foraging skill, and even a few points in Resourceful. After allocating about fifty more points into the tree, I closed my menu. It was time to make a rifle.
+
+With a burst of ascendant mana, I willed my armor to bend. The metal contorted, flowing into the shape of a shitty stock. It turns out that making a five-foot stock wasn’t hard. It was downright demanding. With a surprising finesse, I began making the adjustments needed.
+
+It needed tiny grooves for grip, recoil adjusting design, maybe a hollow interior for making. After trying a few times, I gave up with my brute force approach. Sketching it out and getting an excellent understanding of the stock would help.
+
+Making something with the armor required excellent conceptualization of it. Sure, the barrel required greater precision, but it was something very simple. Understanding it inside and out didn’t take longer than a few seconds. The stock for the rifle I had in mind though? It would be a feat of human ingenuity if I had anything to say about it.
+
+With that in mind, I asked and received a set of blank blueprints. gave me a few sticks of chalk, letting me draw what I needed. Starting with separate parts, I drew pieces of the gun’s design from memory. My intelligence held onto those memories with an iron grip, making the visualization easy. My dexterity made my hand steady. I didn’t have an artistic hand, but I could draw straight lines with mechanical precision.
+
+An hour later, all the tiny bits were drawn out, each of them labeled with their purpose. After imagining how they’d fit together, I created the parts. One piece at a time, I made different parts by stretching out my armor. I cut off the pieces then, letting me make them one part at a time. I learned this approach from Torix.
+
+He always mentioned the power of divide and conquer tactics. Nothing is complicated after it’s broken down to its base parts. Understand those parts and how they work together, then you’re a master. At least that’s how Torix says it.
+
+It held true here. I finished setting up the various parts of the stock before a notification appeared.
+
+Skill unlocked! Living Forge(lvl 1) – You form weapons from your own body. +1% to ease of formation and maximum charge of self-composite weapons.
+
+It was a pleasant bonus, allowing me to gain skill levels even from this forging process. With the pieces made, I set out on carving the runic inscriptions onto them. Since the only thing large enough for the runes was the handle, I etched in the basic rune for stability. As I did so, a sense of serene calm and understanding rushed over me.
+
+Engraving the signs onto the piece wasn’t like marking something onto the parts. It was like unleashing my understanding of the rune onto the metal. Instead of trying to write out a representation of what I was thinking, I wrote out my complete understanding of my thoughts.
+
+When I finished the marking, it was almost like staring into a memory or living out an experience. The mark carried a depth like Torix’s markings, but they weren’t foreign. They were entirely my own, like leaving a piece of my life in a symbol. Once I leaned back from my creation, the letters turned out rougher and grittier than I imagined. They looked a little like me I guess.
+
+My guess was that this was because of the level 100 in the skill. After months and months of training, I had two skills reach their pinnacle. So far, the benefits of both were palpable. The next test involved figuring out another unique skill.
+
+Before that though, I finished up the parts of the rifle before heading back towards my tent. Once inside, I put the rifle together. Once it was completed, a notification appeared.
+
+Omen, Cannon of Cataclysm (lvl requirement: 600) – Made by the Harbinger of Cataclysm, this harpoon rifle is composed of an unknown metal, but the hardness and flexibility of it is amazing to behold. Combined with the enchantments for stability, efficiency, and devastation, and even a novice cannoneer can wreak havoc.
+
+The enchantments reduce ammo consumption by two thirds, doubles focus and stability, and triples the drilling speed of fired rounds. Charge limit set by quality of runes. Can only charge with arcane blood. Uses 10 mana per bolt.
+
+Charge: 6,000/6,000 or 600/600 shots left.
+
+The fact that the charge was only 6,000 drove home how amazing Torix’s son was. Alfred Worm made a gem that could hold a million mana, well over a hundred times the charge of this rifle. I couldn’t even make something 1% as incredible. It put into perspective how ridiculous it really was. I wondered how in the hell he made it.
+
+That’s when a realization shot through my mind like whip cracking across bare skin. It wasn’t because of Alfred Worm. It was because of Baldag-Ruhl. The runes that fucking hivemind used were what carried the power to form that mana gem, not Alfred’s genius. Thinking back on the intricacy of the ritual reminded me of it.
+
+That’s what I needed to learn. Not my own runes, not how to wield oppression or punch harder and faster. I needed that knowledge so that when I met Yawm, I could dive into the other dimension. Using Baldag-Ruhl’s ritual, I could rupture dimensions and come back. Hell, that’s assuming I couldn’t just beat Yawm’s ass with the runes outright.
+
+Bubbling with excitement, I picked up the rifle and polished it with the technique I now called sandpaper palm. Normally my armor is black, but when polished, it’s a deep, shiny gray. It reminds me of the polished magnets you could buy at stores, at least in appearance.
+
+Finishing the rifle up in a few minutes, I carried it over towards Althea’s tent. I knocked on it, and Althea replied,
+
+“You can come in.”
+
+I unzipped the tent, walking inside. Althea sat over her table, reading an old tome no doubt given to her by Torix. Her room was cleaned, a new, black bookcase holding everything in it. All in all, I was very pleased with the change.
+
+I grinned, setting the rifle at the entrance,
+
+“Here yah go. Made this in case you needed it. Learning to use it should make you much, much more powerful. Enjoy.”
+
+I turned to walk out before a set of arms wrapped around my back and lifted me into the air. A pleased giggle sounded through the room, almost euphoric. She spun me around with an astounding ease, like I was light before setting me down. I turned to her with an eyebrow raised,
+
+“What’s the big deal?”
+
+She walked over and picked up the rifle, marveling at the polish and detail of the runes. She stared inside the barrel, then she stared at the notification of the gun. She whispered in awe,
+
+“Omen…wow.”
+
+She turned to me then ran up for another hug. Lifting me up again, she beamed,
+
+“I can’t believe it. Thank you, thank you, thank you, thank you!”
+
+She said the words so fast they blurred together. She set me down again, continuing, “This is…perfect.”
+
+I raised an eyebrow, “Did you need it this bad?”
+
+She nodded, “I did. I’ve been researching stronger combustive materials than just gunpowder. I can produce gunpowder using my shapeshifting. The problem is, the other explosive materials would break the bone of my gun. I’d end up ruining my arm each time I fire a shot.”
+
+I frowned, “Ouch. Sounds painful.”
+
+She nodded, “There’s all kinds of problems that come with it. The recoil, the smoke made from the gun letting air into the chamber, all kinds of problems. This, this’ll do a lot for me.”
+
+She picked it up, forming her arm into the open socket. She grinned, “It’s perfect. Just perfect. I normally just convert my body into the ammo and the gunpowder needed for the explosions. Now, I’ll be able to use stronger stuff. The bolts will fly faster, and they won’t do so much damage to me.”
+
+“It does damage to you?”
+
+“Well, yeah. The bolts and gunpowder costs health, firing the weapon obviously does damage to me. Now the gun will take that damage for me, and I can focus on making just the ammo and powders. Wow. The enchantments are so strong too. I’ll be able to practice now.”
+
+The dots started connecting in my head, painting a picture. Althea sacrificed health for damage. Way back when I gained my first damaging ability, agony, I struggled to use it. It hurt me so bad that I had to adjust to it over a few weeks. There came points where I just didn’t know if I could keep on using it. I ended up doing it, but I couldn’t blame someone else for not being able to go through with it. It just hurt that bad.
+
+Althea may have been in the same place, just stuck on the pain part. I’m sure she didn’t want to invest 60-70 of her dungeon core points just on pain resistance either. Damage skills would take precedence for a sniper after all. The new rifle would help her more than I imagined it would.
+
+I grinned, “Well, uh, good. Glad to help. I gotta go though. See yah later.”
+
+She swung the rifle, aiming down the iron sight, “Leaving already? You just got here. I uh, need your help with using the runes.”
+
+I shrugged, “I have to go talk to Torix.”
+
+Althea frowned, “Oh…Ok…” She grinned at me, “See you later Daniel.”
+
+I nodded, smiling back, “Cya.”
+
+Leaving her tent, I passed by back to Torix. After a quick hello, Torix sent me the files for the images of the runes used by Baldag-Ruhl. As they downloaded, I ate a meal of Torix’s rations and paced back into the forest. Something about the trees let me keep calm.
+
+Once out there, I leaned against a tree and started my study. Compelling was an understatement. Maybe it was because I was ignorant, but I didn’t remember the runes being so impressive. Each of them, from the tiniest scratch to the ones dug deep as trenches, amazed me. The Power within them leaked through even digital photos.
+
+Walking by them so many months ago, I hadn’t even recognized the detail in them. It was like listening to a great composer after trying to make music. You can’t fully understand the complexity of a genius’s work until you’ve at least tried at his craft.
+
+It reminded me of looking at E=mc^2. Sure, I got the gist of it, but I didn’t understand how it worked. A physicist on the other hand can, and with that understanding comes a great humility. How can a person understand the height of a mountain until he has climbed one, or some Chinese proverb like that.
+
+Now that I understood normal runes, I understood the differences Baldag-Ruhl made. Subtle tweaks were adjusted, along with new characters I did not know. There were so many adjustments, it didn’t even feel like Baldag-Ruhl had learned the language. It seemed like he invented it.
+
+The excitement filled my belly, making me grin as I tore of sheets of armor from my leg. Flattening them out, I began testing the runes on the metal. The precision and intricacy of the new language flat out decimated the old one. The bizarre changes in the angles and lines of the language made it complex. Unlike the previous rooms, the depth of the carve played a pivotal role as well.
+
+This added another dimension to the complexity. There seemed to be no structure in the runes either, each of them different. At a quick glance, I recognized over three hundred different characters. That list grew and grew and grew. Within an hour of researching the runes, I made a revelation.
+
+No two characters were the same.
+
+The closer I glanced, the more evident this became. Within each rune, extra lines and etchings of depth were added. Unlike with snowflakes or trees, the differences between each character were deliberate. If I write a letter a thousand times, each letter will be different, but I don’t mean for them to be. I’m trying to replicate the same letter.
+
+That simply wasn’t the case. Even when finding the same characters, the depths were nothing alike and neither were the grooves within those depths. It was like someone had taken a language and fused it with another language, exponentially increasing the complexity of it. Parsing through such dense blocks of information would infuriate anyone.
+
+Torix couldn’t understand the language because there wasn’t a single language being used. This was an evolved version of the magic runes, combined with another old language from elsewhere. In other words, I wasn’t about to understand it before Yawm came out. At least not here.
+
+Once inside the rift, I’d find a sentient eldritch and get them to teach me. Ally myself with one enemy to fight another. They may know the underlying language set into the grooves of each rune. Who knew, I may get comprehension of how this ritual was set up.
+
+Just knowing this information exists was invaluable. Often, I wondered how Schema bent dimensions and reality. Using this dual language while wielding an infinitely more complex algorithm, that could have let Schema re-write reality. If it let Baldag-Ruhl tear dimensions, what’s to say it wouldn’t let me do even more?
+
+That kind of tampering was far off in the distance though. Maybe when I was sent out towards the eldritch world, I could figure some of it out. I had no way of knowing without getting there. Since we’d be in there for a while, setting myself up for study would be the priority. Torix gave me a library of books to sift through, and Baldag-Ruhl’s runes gave me a focal point for later study. Now I needed to set up learning my class.
+
+To make that happen, I needed a plan. After researching how to make plans for a bit, I figured out two core principles for them. First you had to come up with a strategy, then you had to come up your tactics. A strategy would be like choosing to focus on getting a class instead of leveling. Tactics would be how I went about getting my class.
+
+I came up with the strategy: get a class. Leveling would take a back burner to that for now.
+
+Skill unlocked! Strategy(lvl 1) – Other people fumble around without purpose. You aim your thoughts and your actions towards a goal. You give yourself purpose. +1% to efficacy of strategies. +1% to strategy formulation speed.
+
+Getting a skill like that was a nice bonus for starting on something like this. I didn’t let it distract me. I turned my efforts back towards answering a simple question. How am I going to get another mythical skill?
+
+I got lucky with boundless storm. It wouldn’t happen again. I had dozens of skills now, and most of them were simple and situational. Coming up with unique skills would require me to try and make them. With that in mind, I used my obelisk to create a list.
+
+It didn’t require making the entirety of the interface come out. The list integrated into my current interface, allowing me to manipulate it with thought. I didn’t need to click or move boxes. They shifted as I thought for them too.
+
+Staring at my list of skills, I separated them into a few clusters. These clusters were made of skills that were similar or had a theme. A perfect example was a cluster I called movement. It was made of five skills, acrobatics, physical fitness, sprinting, traveler, and jumping. These skills all involved movement. Turning them into a unique skill shouldn’t be that hard.
+
+So to get started on that, I did a bit of research on unique skills. I found out a few things. Unique skills did require five normal skills to make them. They could also be made from less skills though. Any skill that reached 100 could be used as two of those five skills needed for unique skills. If a unique skill reached 100, then it also worked like that for mythical skills. A level 100 unique skill would take up two of the slots required for a mythical skill.
+
+The other aspect about unique skills I figured out was just how simple they were to make. They required five skills used together all at once. Even if you had the five skills, they wouldn’t turn into a unique skill unless you used them at the same time. This gave me a quite a bit of hope. It meant I wouldn’t need to get hundred more skills. I may be able to make a few unique skills with little effort.
+
+Up till now, I made my skills based on what I needed right then and there. I didn’t want to waste my time on useless skills for the most part. That was still the case, and it had the advantage of giving each skill a purpose.
+
+With that in mind, I headed back out the city. The first unique skill I wanted was one for the movement cluster I made. It took five minutes before I was approaching suburbia. Instead of running through the street like normal, I ran through the backyards. I could’ve just plowed through fences and the smaller trees, but instead I weaved my way around them.
+
+It was basically advanced parkour. I hopped fences. I pushed myself over cars. I spun around trees and leapt through windows. It was a lot of fun. Trying to engineer the easiest pathway took a good bit of skill, and using my new, athletic body to accomplish the feats was fun. Of course, I had to support quite a bit of my bodyweight using telekinesis. Hopping a flimsy wooden fence wouldn’t work otherwise.
+
+Over the next two hours, I got better and better. My focus honed, and I learned a few techniques for moving past common obstacles. My speed improved, sometimes obstacles making me faster instead of slower. By the time the sun was setting, I could run at full speed without destroying my surroundings. I crashed through quite a few obstacles to get to this point though.
+
+At the apex of my sprint, I jumped through a window and into a house. Before I touched the floor, I pushed myself over a countertop, swinging my legs over it. After landing onto the floor, I took a step and pushed myself up and over a couch. A telekinetic pad stopped it from crushing as I leapt over it. As I landed, I rolled on the ground before leaping up and out the other side of the building.
+
+Landing on my feet and through the window again, I rolled again before pulling myself back into a full sprint without missing a beat.
+
+Unique skill gained! (Requirements: Maneuver through a complex environment without losing speed) Fuses the skills Acrobatics, traveler, physical fitness, sprinting, and jumping into the unique skill Phaser. Gives half of missing tree points from skill fusion (153 total points gained)
+
+Phaser (lvl 1) – A poet paints with the written word. A musician composes with sound. You create art with motion. Fluidity of movement is increased with level of skill.
+
+Making unique skills was a simple and brutally effective means of getting of power. Phaser would no doubt be useful later if not right then. Fusing the skill gave me 153 tree points as well, letting me increase my rank in my current tree. With a huge grin plastered on my face, I slowed down to a walk and put the points into Cosmic Soul. It did not disappoint.
+
+Fight and use every part of your being to do so. Some would let fear freeze them in place. You put that fear behind you, letting it push you forward. You fear the weakling of your past, sacrificing who you were for who you will be. You turn the frozen fear into fire and fury. +25% learning speed of soul related skills. +25% total learning speed of oblivion related skills. Ability upgraded! [Cosmic Soul (Tier 2) – The size of your soul is limitless. + 40% scaling and handling of related skills.]
+
+You understand that you are the manifestation of your thoughts. A being that reflects what lies within outward. Your beliefs become thoughts. Your thoughts become actions. Your actions become your life. You’ve chosen a life of ambition. +25% learning speed of soul related skills. +25% total learning speed of oblivion related skills. Ability upgraded! [Cosmic Soul (Tier 3) – The size of your soul is limitless. + 60% scaling and handling of related skills.]
+
+Whenever I reached out towards oppression, the ability was different once more. Malleable and moldable like putty, I shifted and controlled the area it affected. I created complex shapes, allowing me to move it. What set it apart completely was the density of it. I could condense the aura, making it stronger.
+
+Trying with all my might, I could make it about half size and double the strength. The feat required intense mental strain, even with all my willpower, but it could be done. Being able to control oppression with a fluid handling would allow me to use it even in groups of allies. It still wasn’t quite ready for something like that, but by the time I maxed out Cosmic soul, it would be.
+
+Crossing one checkmark off the list of unique skills I aimed at, I glanced at the next. Getting the skill in only an afternoon made me wonder why no one else tried this. If you could get so skilled so quickly, then why didn’t everyone do it? The reason popped in my head like a splash of cold water on my face.
+
+It was the leveling perks and level 100 perks I had. Having so many leveling bonuses combined with so many points in each attribute made gaining skills easy. A normal fighter wouldn’t have the precision or control I did, so getting Phaser would be arduous at best. Diversifying my skill set allowed me to take full advantage of these bonuses.
+
+An idea popped into my head. I already knew several people who understood many skills that I didn’t. If I spoke with them and gained a few more unique skills, I could be more than ready for the venture into the eldritch rift. Maybe I could get a mythical skill while I was there.
+
+Interrupting my thoughts, the earth under my feet quaked. Only by a bit, but enough for me to notice. I glanced towards Springfield. The suburbia bled into taller buildings that were swallowed by the dark, yellow forests of Yawm. Beyond the sea of sickly looking leaves, a blot of gray fog covered the city scape. The world tree lied at its center, hidden in a miasma of dense mana.
+
+Bright streaks of green thunder arced in slow motion from the center of the fog. They grew in intensity over time, so slow you could hardly notice them. It was like they were frozen in place. It wasn’t until the ground shook that they even seemed to move.
+
+They’d become something like the background of a computer, still and lifeless. Seeing them from the same angle everyday made it seem that way. As I stared at the cloud of gray, the fog pulsed like a beating heart. The lightning shifted a bit before a shockwave shot through the air. The ground quaked for a second, then all was still. There was only one thought coursing through my mind at that moment.
+
+Was it time to see the world eater?

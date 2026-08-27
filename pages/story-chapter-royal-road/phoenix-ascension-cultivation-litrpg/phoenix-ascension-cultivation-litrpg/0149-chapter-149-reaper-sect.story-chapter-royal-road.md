@@ -1,0 +1,237 @@
+---
+id: b617d320-929c-54a2-9ce3-79d080f41a27
+page-type-slug: story-chapter-royal-road
+title: "Chapter 149: Reaper Sect"
+slug: 0149-chapter-149-reaper-sect
+partOf: phoenix-ascension-cultivation-litrpg
+position: 149
+ownLength: 2973
+unit: words
+publishedAt: 2026-07-11
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3663815/chapter-149-reaper-sect"
+royalRoadId: "3663815"
+---
+
+Travelling to the reaper sect was not on my list of things to do, as it was quite far away, if I had to be honest. Not that I minded flying there, but the issue was that I wasn’t allowed to fly there.
+
+I had to ride in a carriage. As expensive as it was, and as comfortable as it was, it was still longer than me flying there.
+
+At the very least Meng Mao wasn’t one for conversation during the trip, and I really didn’t feel like talking either. I much preffered sitting quietly and not bothering anyone.
+
+Mainly because I was ruminating over my gains. Since having reached the peak level of the Divine Lightning Construction technique, I’ve been thinking about ways to push it past the Core Formation Stage and into the Nascent Soul Stage.
+
+Having a Lightning Nascent Soul would aid me greatly in my pursuit of mastering all the elements, and maybe I could create something unique using my own heritage.
+
+Although for now I had little idea on where to start on that front. I’ve created and modified many techniques before, though at some point techniques would become utterly unecessary.
+
+I was wondering if the same would go for skills, but it was still too early to say. The process of modifying a technique was complicated, as one had to understand it first. Even though I’d reached full mastery of it, I still hadn’t learned everything about it.
+
+The sword forms and steps were in my mind, but without using them, I had little chance of actually understanding the technique. But the tournament and the secret realm would give me plenty of opportunities to test them out. I wasn’t even going to use my fire unless I was really pushed to do so.
+
+And I had a pretty good sword now, though maybe I shouldn’t flaunt it and just use what I already had.
+
+Looking out the window, I couldn’t say I was very impressed by the landscape. It was mostly forest and hills, with a lot of bushes and overall it was boring.
+
+I bet it was much more impressive from above, but no, I had to sit in the carriage in my human form with this man.
+
+I closed my eyes and mediated, hoping that time would go faster if I didn’t pay attention to the road.
+
+Much to my dismay, it didn’t. The road was as long and tedious as I’d expected it to be. In all honestly, flying would have been faster, and Meng Mao could fly as well, so the only reason why he’d insisted to take the carriage was to show off.
+
+It was a nice carriage after all. Painted with a shade of purple and deocrated with golden and jade. There was the pattern of a dragon and a phoenix on it as well, which stood out like a sore thumb in the povery that was Golden Arch City.
+
+Well, poverty compared to the sects, I supposed.
+
+It was also the first time he’d attend since he became the leader of the clan, so it was natural that he would need an entrance.
+
+But still, was such a show really necessary? It was just the two of us and a carriage, and well, the carriage master. He hadn’t even brought someone important, it was literally just the two of us, we could have flown.
+
+Okay now that the rant is over, I could focus better on mastering the technique. I could think about the steps at the very least.
+
+And such, time passed.
+
+Before I knew it, we’d arrived at the source of one of the main river branches on the continent. It came down like a waterfall, ravaging the the ground below.
+
+At the very top of the waterfall there was a mountain, which I could only guess was the source of the river. On top and alongside that mountain there were many buildings. From houses, to pagodas, to what I could only compare to castles.
+
+They were all built from dark materials, black, gray, dark shades of red and even some brighter shades, but mostly very dark and dull.
+
+It stood in stark comparison to the lush vegetation around and the blue sky and bright sun shining above.
+
+I could tell that it was our destination though, the one and only Reaper Sect.
+
+As for how we would be getting up there?
+
+I’d shot Meng Mao a look and a smile creased his lips. Tapping the back of the carriage two times, there was a sudden sound, and out of nowhere two large wings sprang out from the bottom.
+
+The horses drawing the carriage also grew wings out of nowhere, and with a quick flap, we took to the skies.
+
+I stared, no, glared at him, for making me ride on the ground while we could have flown that entire time.
+
+He looked at me apologetically, and shrugged his shoulders. “It’s way more fun this way. We can be fashionably late and have a great enrance.”
+
+“Nobody is going to care about a flying carriage!” I’d lashed out, barely controlling myself not to slap him in the face. “Why did you put me through all of that?!”
+
+“Hey I am a victim too!” He feigned innocence. “Besides, this allowed you to get a better view of the continent, right?”
+
+“There were only trees and hills the entire damned way! I could have seen everything from the sky!”
+
+“Oh now you’re just making a mountain out of a moeheill. We’re already here so stop making a fuss.”
+
+“I’ll bite your arm off.”
+
+“How scary.” He looked outside and parted the curtains. “Just look at this, because this is true wealth and power.”
+
+I had to admit that from above, the sect looked much more grand. Roads spread as far as the eye could see, with pagodas and pavilions at every step of the way. There were many living quarters, with kitchens and training areas, as well as many fields filled to the brim with medicinal herbs.
+
+And that was only the first layer. Higher above was what I could only assume to be the sect, and it was far more majestic than what I could have imagined. It looked similar to one of the bigger sects back when I’d still took part in their childish fights and contests.
+
+At the very bottom of the second area was what looked to be a slave quarters, where apprentices or lesser disciples worked day and night for a chance at starting to cultivate.
+
+They weren’t true slaves, but they might as well have been. Coincidentally, they were also the backbone of the sect. Without them, many things would not be possible.
+
+At the same time, the sect elders and anyone with any sort of power, did not care about them. At least, that was how it was in most sects where I’d come from, but I wasn’t expecting this world to have done it any differently.
+
+No matter where you go, you needed cheap labor, and what better ones were there than aspiring cultivators?
+
+Moving my gaze higher, I saw what could be considered the true start of the sect. The buildings were far fancier and more well-built, although they were just simple bamboo houses.
+
+They were all bunched together similarly to barracks, and there was a kitchen preparing foor for the disciples day and night.
+
+Peering closer, I saw the inside of one such house. It was simple, with a praying mat, a bed, a table, chair and a shelf. Besides a washing basin somewhere in a corner, there was nothing else.
+
+And they didn’t need anything else.
+
+The true outer disciplies had to train everyday to increase their cultivation, and if they fell behind they would go back to the pit of hell they’d crawled out from.
+
+Such was the fun of the cultivation world.
+
+I couldn’t see anything else higher up, as there was a formation protecting them from spying. I could see vague outlines, but they were hazy and may as well just have been fake images.
+
+However, the last thing that stood out was a large arena in the middle of the Outer Sect, equipped with places for at least three hundred people to sit and watch the people fighting.
+
+There were already many people gathered around it, and some were using it for practice, but they were all disicples of the Reaper Sect.
+
+A fair bit further away, there were finally some different colored robes, and there were actually other carriages around.
+
+They were all fancier than Meng Mao’s though.
+
+I saw him wince as his eyes fell on the crowed of elders and disciples from the other sects, then promptly closed the blinds. I couldn’t help but chuckle inwardly.
+
+My amusement slipped through my expresion, as he gave me an annoyed look. “I can’t compete with these bastards, alright? They’re an entire sect while I’m a single clan.”
+
+“I wasn’t judging.”
+
+“You definetely were.”
+
+I closed my eyes and ignored him, waiting for us to land.
+
+Soon, the carriage touched ground, and we’d stopped next to the other carriages and mounts.
+
+Many gazes fell on me as I’d gotten out, but thankfully I’d already masked my entire being using Perfect Disguise. I’d changed everything down to my aura, no one would be able to recongise my anymore, that much was for sure.
+
+With the skill upgraded, it should be able to fool even some Nascent Soul old bastards, but they wouldn’t bother to attend a competition between juniors.
+
+I’d pasued as I’d thought of that.
+
+Was I a junior now? Would I have to slap myself and kowtow to some old fart to appease their unhappy nephews and grandsons?
+
+Or worse, would I need to act cute and lady like?
+
+A sudden feeling of wretching rode up my throat as I’d thought about needing to brown the noses of these people. I was not going to do that, definetely not.
+
+Still, I had to be careful not to offend anyone… too badly.
+
+When Meng Mao got out, some of the gazes that were on me switched to him, but not for long. Their presence went back to inspect me.
+
+Was I dressed weird? I just had the tunic and some hanfu thrown over so I looked a little respectable. Were the clothes too masculine?
+
+Was I doing something wrong?
+
+“You’ve made yourself too beautiful, that’s why.” Meng Mao talked to me using his Divine Sense. He didn’t have a skill like Telepathy but it’d seemed like he could use some other form of it just fine.
+
+“If you could use this technique this entire time, why didn’t you? And what do you mean I’d made myself too pretty? This is an average woman!”
+
+“Is it?” He chuckled internally, completely ignoring my first question. “You have to be careful now, don’t bring too many disasters upon my name.”
+
+“Anyone with half a brain can tell we’re not in any way related.”
+
+“There are many people here who don’t even have that much.”
+
+I shrugged off his comments and walked behind him as he approached the sect elders and their disciplies. I could tell that he wasn’t used to having so much attention on himself. He was a man who worked from the shadows, showing himself like this would be strange to anyone.
+
+However, he must have a reason. Perhaps, after the Guo clan was going to get screwed over by him, Meng Mao was finally to firmly establish himself.
+
+He did seem like he had a big dream of making a name for his clan, and I could not help but wonder just what he would do to achieve that.
+
+But it wasn’t any of my concern either.
+
+When we finally entered a non-awkward distance, some impressive looking fellow walked forward, waving toward Meng Mao with a wide grin on his face.
+
+“Mao Mao, I didn’t think I’d ever see you outside your little piece of paradise. I see you’ve finally decided to enter the bigger world.”
+
+Meng Mao’s lips twitched, but he hid it by bringing his hands forward and cupping them. “Senior Wu is too kind. I’ve only come here because of my niece. Her father begged me to give her an opportunity to see the world.”
+
+“Is that so?” The man named Wu looked toward me, and I’d copied Meng Mao’s gesture and pressed the back of my right palm on my left palm, extending my arm forward.
+
+“This one’s name is Fa Xiaolan. It is an honor to meet the esteemed Elder Wu.”
+
+“Oh, so well-spoken, good lass.” He nodded and turned back to Meng Mao. “Had I known you had such a beautiful sister, I would have married into your family long ago.” He’d joked, though he clearly meant that as a compliment toward me.
+
+Meng Mao chuckled awkwardly. “Actually, she’s related to me by means of her father…”
+
+“Ah, well… Now this is awkward, hhahah.” He let out a booming laugh and patted Meng Mao on the shoulder, then returned to his original group.
+
+“I did a favor for him some time ago, nothing important but you shouldn’t mention this to anyone.”
+
+“Then why did you even tell me?”
+
+“You were going to ask anyway.”
+
+That was actually a fair point, as I was going to ask him something about that. Well, now that I had my answer, I knew not talk, I guess?
+
+Anyway, most of the other people ignored us when we entered the range of their groups, but the people that were with the man named Wu walked up to greet us.
+
+There were about five of them, with two from the same sect. Their disciples were following quietly behind, eyeing me like predators.
+
+I wasn’t too thrilled about destroying their chances at entering the secret realm, but I was not going to hold back just because they were children. Cultivators were cultivators, and if they were old enough to participate in a secret realm then they were old enough to get beaten up.
+
+“Meng Mao, was it?” A beautiful woman walked up, cupping her fists in greeting. “I am Purple Monarch Butterfly, but you may call me Shang. I belong to the Scholar Domination Sect. Any friend of brother Wu Tien is a friend of mine.”
+
+“Oh, you flatter me.” Meng Mao greeted her. “I have heard of you, Purple Monarch Butterfly, mostly rumors though. I’d heard that when you fought against the demonic Spirit Beasts, millions of dazzling butterflies clouded the sky and swooped down upon the enemy, killing them in a few minutes.”
+
+She chuckled, hiding her smile with her sleeves though her eyes shone with pride. “It was one of many battles I’d taken part in. I’m ashamed to say I haven’t heard of your name though.”
+
+“That is normal.” Meng Mao said without any self-pity in his voice. “I come from Golden Arch City, born and raised there. I just want to help my niece her make a name for herself.”
+
+The Shang’s woman’s gaze drifted to me, her Divine Sense quite rudely invading my privacy. “Already at the ninth layer of Qi Condensation with a bone age of… Well she’s a little old but not that old. Good job.”
+
+Her praise did not sit right with me. What, was I supposed to be at the Foundation Establishment stage when I wasn’t even one years of age? How rude!
+
+Looking around, I did notice that the people I’d called kids were more like teenagers. Well, they all sort of looked like children to me, so what difference did it make?
+
+Was it possible that these teenagers were holding back their cultivation just so they could participate in this sword realm? I didn’t believe for a second that the disciples chosen to be here were not talented enough to have broken through into the Foundation Establishment stage by now.
+
+This just showed how important this place was for them.
+
+And I was going to snag a place for myself, what a joyous ocassion.
+
+The others also introduced themselves, though all they did was do some short exchanges. None of them treated Meng Mao as an equal, not nearly as much as Wu Tien did, but they also had different circumstnaces connecting them.
+
+I’d managed to identify the five major sects though. The Golden Claw Sect, the Heaven Cloud Sect, the Fiery Expanse Sect, the Scholar Domination Sect, and the Reaper Sect. There were about five contestants from each sect, all fighting for one fo the twelve spots to enter the secret realm.
+
+Besides those, there were also three contestants from smaller sects that I didn’t know the name of, and another few from small clans.
+
+Though, out of all of them, it seemed like I was the only lone one. Another great way to stand out if you’d asked me.
+
+They were also dressed rather lavishly, and all had some sort of weapons. The vast majority were swords, but there was the ocasional spear or halberd, and even the rarest of bows.
+
+There were a good number of body cultivators around as well, though I doubted their bodies were stronger than mine. I would love to see them try.
+
+Oh, that also reminded me that I had to pull out my weapon. Deciding which one to use wasn’t hard. Sword of the Elements was out of the discussion, since I was still refining it… slowly.
+
+Naturally, the only valid choice was the Elemental Sword, which was as good as it was basic.
+
+Still, I could’t ask for a weapon more suited for me than it.
+
+Just as I was thinking about pulling it out, a sudden presence descended upon us, and two figures walked out from within the protected area of the sect.

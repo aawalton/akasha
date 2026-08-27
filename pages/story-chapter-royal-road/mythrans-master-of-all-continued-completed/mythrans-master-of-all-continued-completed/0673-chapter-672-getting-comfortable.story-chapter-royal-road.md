@@ -1,0 +1,251 @@
+---
+id: 91963042-9b29-53ae-b640-134c3fb091bd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 672 - Getting Comfortable"
+slug: 0673-chapter-672-getting-comfortable
+partOf: mythrans-master-of-all-continued-completed
+position: 673
+ownLength: 2966
+unit: words
+publishedAt: 2018-08-17
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/282493/chapter-672-getting-comfortable"
+royalRoadId: "282493"
+---
+
+“This was what you wanted the spell for?” Fire Dancer asked, amazed.
+
+“I told you I would use it to make you happy.” Ren laughed. “There's a lounge chair there, and a desk and comfy chair there, and a small shelf of books that are required reading behind it. The rest of the books are upstairs in rows of shelves.” He said. “Off to the right are the closets and dressers full of clothing.”
+
+“I can make my own clothing, Father.” Fire Dancer said as she opened a closet. Her anger tried to come back to the surface through her amazement, and she fought to keep it in check as she opened another closet and a drawer.
+
+“No, no. They aren't for you to wear.” Ren said and she looked at him with wide eyes. “I know you can make your own. They're just examples for you to use as a model and then you can form your own with Fire.” He said and walked over to a mirror on the wall, grabbed the edge of it, and pulled. “There's even an all-around mirror for you to use!”
+
+The mirrors unfolded from the wall and moved along a track easily, and Ren stopped when they made a complete circle.
+
+“The middle one is a door.” He said and flew up to pull on the handle, and it opened up. “Just stand in the middle and you can see all around you.”
+
+Fire Dancer couldn't help herself and stepped in, then gasped as she saw herself. “Th-that's me?”
+
+“Aren't you just the most beautiful daughter ever?” Ren asked and flew in as he shut the humongous door. Hundreds of reflections appeared around them, and they could see themselves at every angle. “Yeah, I know I'm biased because I'm your father, but still.” Ren beamed a smile at her. “You look just like your mother.”
+
+“I... I do?” Fire Dancer asked.
+
+“If you promise not to be upset, I can show you.” Ren said.
+
+“Why would I get upset?” Fire Dancer asked, and she glared at him.
+
+“Your temper is right there at the surface, trying to break free with any excuse.” Ren said, flew over and unhooked the mirror from the wall, then pushed them back into place against the wall. It left the front mirror still exposed and he took out a picture frame with a piece of spider silk cloth in it.
+
+“The Full Illusion spell can create anything I can picture in my head.” Ren said as he landed on the floor, then leaned the frame against the wall. He enlarged it until it was about 800 feet tall, then thought back to the first time he met the Fire Deity, then he remembered meeting the real one after she had cast off all of her creations. He put the two images together, made sure that her breasts and nether regions were covered in flames, then cast Full Illusion on the spider silk canvas.
+
+Fire Dancer gasped as her mother, practically her spitting image, appeared before her in the picture frame. Fire Dancer looked from the frame to her reflection in the mirror, and the only real difference that she could see was that she wore Fire-created clothing in the mirror and a flame bikini in the picture.
+
+“I told you.” Ren said and smiled. “She's still the most exotic woman I've ever met.” He said. “I mean, she was the Deity of Fire, and she wanted to meet me!” He laughed. “I was so outclassed, it wasn't funny!”
+
+“Unlike with me?” Fire Dancer asked and looked at him with squinted eyes.
+
+“Actually, you're a lot more powerful than her.” Ren said, and that made Fire Dancer pause. “I was really weak then, too. She could have killed me in a snap and I wouldn't have even known I was dead.” He chuckled. “And yet... she needed me. She needed my help.”
+
+Fire Dancer sighed. “You've told me all of this.”
+
+“Yes, and I'll tell you it all again whenever you want me to.” Ren said. “She lives on in you, and in me.” He said. “As long as we remember her, she will never truly be gone.”
+
+Fire Dancer reached out and touched the cheek of her mother's face on the picture. “I didn't even know her.” She said. “How can I miss someone I never met?”
+
+“The heart is funny that way.” Ren said and flew up to lightly pat the hand Fire Dancer had on the painting, then he stored the painting.
+
+“Hey!” Fire Dancer's anger flared.
+
+“I'm just hanging it up so you can see it whenever you enter the room.” Ren said and pointed to a large empty spot on the wall.
+
+“You planned to make it?”
+
+“Of course.” Ren said. “I've got one of you, too.”
+
+“Where?”
+
+“Look up.”
+
+Fire Dancer looked up at the ceiling and saw herself sitting on the throne with hundreds of Fire elementals around her. “Wh-what...”
+
+“It's a reminder for you to not get too lost in this retreat.” Ren said and hung up the 800 foot tall painting of her mother on the wall. “You can take breaks here, but you are still the ruler of the realm.” He said. “This place is for relaxing after your work is done.”
+
+“You don't have to tell me that, Father.” Fire Dancer said, annoyed. “I remember mother's dying wish.”
+
+“I know, but this place is tempting.” Ren said. “It's why I wanted to wait to introduce you to it.”
+
+“You were going to make me acclimate slowly, were you?”
+
+“You got it.” Ren said. “The first time I had access to new knowledge, I stayed up all night and didn't sleep at all.” He said, then chuckled. “Rosie was pretty mad.”
+
+“Rosie?”
+
+“She was the librarian at the time I went to learn all about the elements.” Ren said. “When she realized I had stayed there all night reading, she screamed at me and kicked me out, then told me not to come back until I got some sleep.”
+
+“Ha ha!” Fire Dancer laughed. “I like her!”
+
+“Me, too.” Ren said. “She was one of the first people to like me for who I was and not for what I could do for them.”
+
+Both Ren's and Fire Dancer's emotions shifted from happiness to sombreness at the same time, then they exchanged glances.
+
+“So... um...” Ren looked around for something else to show her.
+
+“I think it's time for bed.” Fire Dancer said, and Ren flew behind her as she left the room and entered the bedroom. Her clothing shifted from every day clothes to a frilly nightgown, and he recognized it as one of the ones that he had added to the closet. He held in his smile as she climbed into bed; but, she could feel his emotions and knew he was happy that she had changed her clothing.
+
+“Goodnight, Deity of Fire.” Ren said as he landed in front of his spawn point.
+
+“Sleep well, Deity of Fire.” Teepo said from his shoulder.
+
+“Pleasant dreams, Deity of Fire.” Suniva said and waved from the closest window in the spawn point building.
+
+“Please, don't kill us in our sleep, Deity of Fire.” Artemis said from the edge of the doorway. Teepo chittered in laughter and Ren clamped his mouth shut so he wouldn't laugh.
+
+“I'll... try not to.” Fire Dancer said and stopped herself from smiling. “Goodnight.”
+
+Ren entered the spawn point building and equipped his armor bodysuit so that there would be no way for anything to happen. Suniva stayed in her 4 foot tall form and also equipped her armor bodysuit. Artemis did the same, and the three of them climbed into bed together.
+
+“These bodysuits are a little awkward.” Suniva said and pat Ren's chest through the bodysuit.
+
+“That's because we just spent 6 months in bed together with nothing between us.” Ren said. “But, that's also why I spent 6 month in bed with you, so we wouldn't be tempted to have sex right away.”
+
+“Ren.” Artemis said.
+
+“Yes?”
+
+“You do realize that the Deity of Fire can hear us, right?”
+
+“Why else do you think I left the windows out of the building but left the holes?” Ren asked. “I know she can hear us because I want her to hear us.”
+
+“But...”
+
+“I'm not hiding anything from her. If she wants to know something, I'll tell her about it.” Ren said. “I'll also do everything I can to repair our relationship. Not only will I give her anything she wants, I'll also make anything she needs me to make.”
+
+“Ren...”
+
+“We are going to be here for years, Artemis. No, decades.” Ren said, and they felt the gravity of those words. “Just us. I love you and I love Suniva. I want you to be here with me, so that I can spend this time with my daughter and not have to worry about you.”
+
+“Ren.” Suniva said. “How long...”
+
+“A week.” Ren said. “I can last a week.” He chuckled. “I think.”
+
+“But...”
+
+“The cell block is completely empty now.” Ren said. “I'm going to assume that I need to go in there and repair the damage I did.” He leaned over and kissed Suniva on the lips. “That's going to take a while. Once I get the place all fixed up, we can sneak off and fool around a little.”
+
+“Geez, Ren. The deity of Fire can still hear us.” Artemis said and Suniva giggled.
+
+“I know.” Ren said and kissed Artemis, too.
+
+“Are we staying in bed after the hour?” Artemis asked.
+
+“We'll stay in bed for as long as the Deity of Fire does.” Ren said.
+
+“Are you going to give her a Sustenance ring, too?” Suniva asked.
+
+“She doesn't really need it, but yes.” Ren said. “I'm not sure the Mana boosters and Stat boosters I can provide will work on her, since she's the Deity of Fire; but, we'll find all that out eventually.” He said and kissed them both again. “Goodnight.”
+
+“Goodnight.” They said and cuddled in, then they all drifted off to sleep.
+
+*
+
+Fire Dancer laid in bed and stared at the spawn point building as her father and his wenches talked. She really could easily hear them, then she berated herself for thinking them both as wenches. Since the only one Ren had made was Artemis, she hadn't suspected he was sleeping with the Fire pixie as well.
+
+I wonder how all that came about? Fire Dancer thought, and then Ren said he would tell her anything she wanted to know. I wonder if that is actually true? She asked herself, then he said he would give or make her anything she wanted. I guess we will find out tomorrow.
+
+Fire Dancer felt the currents of Fire that flowed throughout the realm, and they let her keep track of everything that existed and to maintain or change their forms when necessary. If she didn't make sure she had them set in her mind, things tended to go out of control.
+
+Unfortunately, Fire Dancer could only feel the emotions of those that had a Fire Affinity within her Aura, and not everything in the entire realm, which was how the uprising had had the chance to sprout in the first place. She knew there were others in the realm that were still thinking of trying to overthrow her tyrannical reign, and she wanted to dig them out and absorb them before their views could spread any further.
+
+He said he would do anything to repair our relationship. Fire Dancer thought and smiled as she relaxed. She fell asleep, but not completely. She had learned long ago to stay awake just enough to be alert and wary of her surroundings. If anything moved within her Aura and immediate surroundings, she would know it and wake instantly to deal with it, whatever it was.
+
+*
+
+Ren, Suniva, and Artemis woke just over an hour later, then stayed in bed. They didn't talk, because they knew that Fire Dancer would hear them, and they didn't try to get up or move around for the same reason. Ren's hands had groped Suniva and Artemis; but, with the armor bodysuits in place, neither of them had felt much... and they all missed that feeling.
+
+By the time 'morning' came around in the Fire Realm, Suniva and Artemis had stored their armor bodysuits and were clutching Ren's hands to their chests greedily. He hadn't objected to this, mainly because he still had his armor bodysuit on, and he knew they needed to be touched just as much as he wanted to touch them.
+
+They felt Fire Dancer wake up 6 hours later, so Ren let Suniva and Artemis go and they equipped their bodysuits again. The three of them got out of bed and walked over to the door of the spawn point building to watch the Deity of Fire wake up. Teepo landed on Ren's shoulder and watched as well. Fire Dancer rolled over in bed and huffed loudly.
+
+“Some days I just don't want to get out of bed.” Ren commented, and she turned her head to look at him.
+
+“That's because you have someone in your bed.” Fire Dancer said, and he smiled.
+
+“It wasn't always that way... and even now, especially when I'm on Adventurer's business, I don't want to get out of bed at all.” Ren said. “Having someone else in the bed helps some days; but, most of the time it's because I'm weary and I don't feel like facing the day.”
+
+Fire Dancer nodded. “Yes, that's it. I'm weary.”
+
+“That's why I'm here. That's why we're all here.” Ren said. “You don't have to be weary anymore.”
+
+“That's easy for you to say.” Fire Dancer said and sat up. “You don't have to police an entire realm to make sure no one else is trying to overthrow you.”
+
+“I thought you killed the last of them?” Ren asked.
+
+“They were the ringleaders, yes.” Fire Dancer said. “That doesn't mean I've gotten rid of them all.”
+
+“Oh.” Ren said. “I don't suppose you know who they are? Their followers?”
+
+Fire Dancer sighed. “I can't detect dissent unless they are within my Aura.”
+
+Ren smiled. “If you would excuse me from my Teepo duties for today, I'll fix that.”
+
+“What? How?” Fire Dancer asked.
+
+“The same way I extended my Aura in the Earth Realm.” Ren said. “I created an artificial Aura.”
+
+“You can't possibly mean to cover the entire realm like that.” Artemis asked.
+
+“Well, not on the first day.” Ren said. “It's going to take a long time, depending on how far the realm goes. It may be weeks before it's done.”
+
+“You're serious?” Fire Dancer asked.
+
+“Sure.” Ren said. “I'll make a small one at first, just to make sure you can handle the extra emotional strain, then...”
+
+“I can handle it!” Fire Dancer said, angrily.
+
+“I said to make sure, I didn't say in case you can't.” Ren said, and he felt her push her anger down. “I know you can do it; but, it's going to be tough to do that and your duties at the same time.”
+
+“I'll manage.”
+
+“You always have.” Ren said. “So, what do you say?”
+
+“You can leave my sight, but you need to take one of the greater elementals with you so I can keep an eye on you.”
+
+“It's not necessary, but I'll gladly accept the company.” Ren said. “Suniva and Artemis? Stay here, please.”
+
+“But...” Both women said at the same time.
+
+“I'm not going far for the first Aura line. Only 10 miles.” Ren said.
+
+“Artemis can see us from the top of the new addition at that distance.” Teepo said.
+
+“All right.” Artemis said. “I am going with you when you do the next one.”
+
+“Excellent.” Ren said and looked at Fire Dancer. “Deity of Fire, I'll get started right away and should have it done by this evening.” He said and took out a modified Sustenance ring. “I was going to wait to give this to you, then I felt your furtive sleep last night and I realized I should have given it to you yesterday.”
+
+Fire Dancer held her hand out and Ren placed it on the tip of her finger.
+
+“Just equip it and it will resize to fit.” Ren said, and she did it. The ring appeared on her finger, and she stared at it.
+
+“I only need to sleep for an hour? Really?”
+
+“That's all we slept for, then we cuddled for the rest of the night.” Ren said and motioned to Suniva and Artemis. “It takes a day to kick in, though.”
+
+Fire Dancer smiled at him and made a fist, the ring glowed for an instant, and then she sighed. “Oh, that's nice.”
+
+“What did you do?” Ren asked, curious.
+
+“I activated it.” Fire Dancer said. “This is my realm. I control all aspects of it.”
+
+“Including the time?” Ren asked.
+
+“No, that was set by Vasalor himself when it was created.” Fire Dancer said. “I just removed the time requirement.”
+
+“Oh.” Ren sighed. “Then I'm really sorry that I didn't give it to you yesterday.”
+
+Fire Dancer chuckled. “There is a lot that you don't know about me, Father.”
+
+“I want to know it all, Deity of Fire.” Ren said, sincerely. “When you feel like sharing, and have the time to spare, and after we finish work...”
+
+“Stop. Stop!” Fire Dancer laughed and held a hand up. “I get it. We're both busy.” She said. “A Greater Fire elemental is waiting for you in the throne room.”
+
+“I'll leave right away.” Ren said and bowed to her, equipped his platinum armor, then disappeared from sight.

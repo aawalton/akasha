@@ -1,0 +1,249 @@
+---
+id: a467621f-9897-56df-81cd-c81bdbfdea58
+page-type-slug: story-chapter-royal-road
+title: "Chapter 71: Qalathar"
+slug: 0071-chapter-71-qalathar
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 71
+ownLength: 2761
+unit: words
+publishedAt: 2026-06-23
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3580891/chapter-71-qalathar"
+royalRoadId: "3580891"
+---
+
+The settlement was a collection of sixteen tents arranged in a loose oval around a central fire pit that had been scooped from the sand and lined with flat stones. Four wagons sat at the oval's southern edge, their canvas covers bleached by the relentless sun.
+
+People moved between the tents.
+
+They were few. Perhaps thirty. Weathered faces beneath headwraps of faded fabric. Merchants, most of them. I could tell by the way they arranged their wares on low tables outside the tent flaps — bolts of cloth, dried meat in strips, ceramic vessels stoppered with wax, bundles of dried herbs tied with cord. The displays were modest. The prices, chalked onto wooden boards in a script I didn't recognize, were not.
+
+A settlement like this lived on visitors. Every caravan that passed represented a transaction that kept the tents alive for another week.
+
+We were visitors.
+
+The moment we crested the dune and descended toward the fire pit, eyes found us. The gaze of people assessing whether the newcomers carried coin, goods, or trouble.
+
+One of the merchants — a woman in her fifties whose headwrap was dyed a deep indigo that had faded to blue-gray at the edges — rose from her stool and crossed the distance between her tent and the oval's perimeter before we'd taken ten steps into the camp.
+
+She spoke.
+
+The language was not Imperial. Lena answered.
+
+Her pronunciation was imperfect, but the woman's face shifted from evaluation to something warmer. The professional warmth of a merchant who had confirmed that a transaction was possible.
+
+"She's asking if we're buying or selling," Lena murmured to me as the woman gestured toward her tent. "I told her buying. Supplies. A place to sleep."
+
+"You speak Kumsuri?"
+
+"Enough." Lena's tinted lenses reflected the tent's interior as we ducked through the flap. "The Formation School's language module covered conversational phrases. I supplemented it with a grammar text."
+
+The differences were everywhere once I started looking.
+
+The currency that changed hands when we paid for our supplies wasn't the Golden Crown. The coins were silver, smaller than Imperial currency, stamped with a geometric pattern on one face and an inscription in the Kumsuri script on the other. Lena handled the exchange. She'd memorized the conversion rates before we'd crossed the border.
+
+The clothing was the most visible change. Every person in the settlement wore variations of the same essential garment: long, flowing robes of light fabric that covered the body from throat to ankle. The material billowed in the desert wind. Our Imperial clothing, even stripped to the lightest layers we carried, felt absurd by comparison. We bought robes.
+
+The merchant woman produced three from a chest in the rear of her tent. Pale linen. The weave was coarser than Imperial cloth but lighter by half. She showed us, through gestures, how to wrap the fabric across the shoulders and secure it at the waist with a woven belt that kept the layers in place without restricting movement.
+
+I changed in the tent's curtained section and emerged feeling, for the first time since we'd entered the desert, like the heat had retreated from an assault to a negotiation.
+
+Henrik looked at himself in the polished metal plate that served the settlement as a communal mirror. He turned left, then right.
+
+"Could get used to this," he said.
+
+The map cost more than the robes.
+
+The merchant who sold it unrolled the parchment across a low table and weighted its corners with stones.
+
+The desert filled the map's center. A vast, pale expanse marked with the scattered symbols that represented settlements, water sources, and the routes that connected them. The symbols were in Kumsuri script. Lena translated, her pencil moving across her notebook as she recorded the key landmarks.
+
+The route to the capital was marked in red ink. A line that threaded between settlement clusters, following the path of compacted sand where the footing was stable and the dunes were lowest.
+
+Five days.
+
+The merchant confirmed it through a combination of Lena's halting Kumsuri and a finger held up five times with emphatic precision.
+
+Five days to Qalathar.
+
+The name sat in the air between us after Lena spoke it. I repeated it silently. Qalathar. The Sultanate's capital. The seat of whatever government had grown from the bones of a dead Titan and the ambitions of an Eighth Circle Mage two centuries ago.
+
+I paid the merchant from the pouch of converted currency that the Iron Cross's logistics office had provided. He produced, as part of the purchase, a small Magitek device — a compass of brass and crystal, no larger than a pocket watch, whose needle didn't point north. It pointed toward the nearest settlement on the map's route, recalibrating as the user moved.
+
+Henrik tested it. The needle swung, steadied, pointed southeast.
+
+"Reliable?" he asked Lena.
+
+She examined the device with the focused attention she brought to every mechanical object. Turned it over. Pressed the crystal face. Watched the needle respond.
+
+"Crude enchantment. But functional." She handed it back. "It'll hold for a week before the crystal needs replacing."
+
+Enough.
+
+The days compressed into a rhythm.
+
+Wake before dawn, when the temperature sat at its lowest. Walk. The sand beneath our boots shifted from loose dunes to compacted flats to stretches of gravel that crunched with each step. The compass needle pointed. We followed.
+
+Settlement to settlement.
+
+Each one was a variation on the first. A ring of tents. Merchants. Horses. The same gazes and transactions.
+
+By the third settlement, I could count to twenty in Kumsuri and ask for water without Lena's help. By the fourth, I could string together broken phrases — still mangled, still slow, but enough to haggle over dried meat without someone translating every other word. At that pace, Gluttony was doing its part. Devouring the language the same way it devoured everything else. The settlements grew as we moved north. The second had held perhaps fifty people. The third, eighty. The fourth was closer to a proper village — a wooden palisade, a market square, children who didn't flinch at strangers. It wasn't until the fifth that the notification appeared.
+
+Although we advanced toward civilization, the desert did not grow safer.
+
+If anything, it turned more dangerous.
+
+The mutations were constant.
+
+Between the second and third settlements, a column of insects erupted from a dune two hundred meters to our left. Not the ants we'd fought earlier. Something smaller. Winged. A cloud of bodies the size of sparrows whose wings hummed at a frequency that set my teeth vibrating in their sockets. They passed over us in a wave that lasted thirty seconds, the cloud disappearing over the southern dunes as abruptly as it had arrived.
+
+Henrik watched them go.
+
+"Sand wasps," he said.
+
+"Aggressive?" I asked.
+
+"Only when the hive is threatened." He tucked the guide away. "They eat sand beetles. Which eat sand scorpions. Which eat whatever's smaller than a sand scorpion. The food chain here is vertical. Everything's eating something, and everything's been changed by the mana."
+
+Between the third and fourth settlements, the ground birthed something larger.
+
+A shape moved beneath the sand fifty meters ahead of us. A rolling disturbance, a wave traveling through the dunes the way a wave travels through water, the surface rising and falling as the body beneath it moved.
+
+We stopped.
+
+The wave passed our position. The sand settled.
+
+Whatever it was, it was large enough to displace a ridge three meters wide and deep enough that only the pressure of its passage registered.
+
+Henrik's hand rested on the greatsword's grip. His knuckles were white.
+
+"Desert wyrm," Lena said. She didn't reach for her blade. Her eyes tracked the disturbance's path. "Subterranean. They surface to feed at dusk."
+
+"It isn't hunting us?" I asked.
+
+"We're too small." She adjusted her tinted lenses. "A wyrm that size is looking for things the weight of a caravan. If we'd been traveling with wagons and horses, we'd have a problem."
+
+The wave diminished into the distance. The desert resumed its silence.
+
+But the monsters weren't the only thing that grew more frequent as we traveled deeper into the Sultanate.
+
+The soldiers appeared on the third day.
+
+The first patrol we encountered was a group of four, moving along the same route that the compass directed us to follow. They materialized from the heat haze ahead — one moment, empty horizon; the next, four figures walking in formation with the unhurried precision of men who owned the ground beneath their feet.
+
+They were Ashkeri.
+
+The Sultanate's military.
+
+The briefing materials had mentioned them. Katja's intelligence package had included a section on the Sultanate's security apparatus.
+
+The description hadn't prepared me.
+
+They wore white.
+
+The fabric was heavier than civilian robes, a fitted tunic beneath a layered outer garment that fell to mid-thigh, belted at the waist with a broad sash of woven leather. Their boots were brown, calf-high, with pointed toes that curled slightly upward.
+
+The masks were what caught and held the eye.
+
+Bronze. Or something that looked like bronze. A warm metal that had been worked into half-face coverings extending from the bridge of the nose to below the cheekbones. The upper edge curved around the eye sockets, casting the eyes themselves into permanent shadow. The lower edge left the jaw exposed.
+
+Above the masks, helmets. Conical, close-fitted, ringed at the base with a band of the same bronze-colored metal. From the helmet's peak, small plumes of white — feathers. They moved in the desert wind like the crests of waves.
+
+At each soldier's waist, a sword.
+
+Long. Curved. The scabbards were leather wrapped in cord, the hilts extending from the wrapping with the graceful arc of a design optimized for the draw-and-cut in a single motion. The blades were longer than Imperial swords, the curvature adding reach that a straight blade couldn't match.
+
+The patrol passed us without stopping. The lead soldier's eyes, shadowed beneath the bronze mask, swept across us in a single assessment. Our clothes were common, but the weapons we carried were wrong, too foreign. Still, his gaze moved on without lingering. In a state that lived and died by caravan trade, strangers were the economy. We only needed to be unremarkable enough.
+
+The patrols grew more frequent after that.
+
+By the fourth day, we encountered them every few hours. Groups of four or six, moving along the routes. Some traveled on foot. Others rode animals I hadn't seen before. Something between a horse and a camel. Long-legged and narrow-chested, with hides the color of wet sand and eyes that tracked movement.
+
+At the fifth settlement, the largest yet, a sprawl of mudbrick structures and permanent market stalls that qualified as a proper town, we saw them use magic.
+
+The incident was mundane. A merchant's cart had overturned on the settlement's central thoroughfare, spilling crates of dried goods across the packed-earth road. Two Ashkeri soldiers arrived. One of them extended a hand toward the cart.
+
+The earth beneath it moved.
+
+The packed earth simply shifted, rising beneath the overturned cart in a smooth wave that righted the vehicle and settled it back onto its wheels. The soldier lowered his hand. The merchant bowed. The patrol continued without breaking stride.
+
+"Most of them are mages," Lena said quietly. "Yet every Ashkeri must use weapons in combat. The briefing mentioned it, but seeing it in practice..."
+
+After five days in the desert, the three of us were tired.
+
+The heat had drawn everything out. Every reserve of moisture, energy, and tolerance for sand in places sand should never reach. My robes, which had felt like liberation on the first day, were now salt-crusted sheets that scraped against skin that was itself crusted with dried sweat.
+
+My lips had cracked. The trace mana Mana Breath pulled into my tissue kept my body functional, but it couldn't replace water, couldn't replace food, couldn't replace the simple human need for shade and rest that the desert denied with every step.
+
+Henrik walked with his shoulders hunched forward, the greatsword dragging at his back. Lena had stopped writing. Her notebook was sealed inside its case. Even her relentless documentation instinct had been beaten into submission by the fifth day of sand and sun.
+
+But we were close.
+
+The compass needle pointed south-southeast and the distance between settlements had compressed from hours to minutes. The traffic on the route had changed. Where the first days had seen only our footprints in the sand, the final day's trail was a highway.
+
+Caravans.
+
+They moved in both directions along the route. Long columns of wagons and pack animals and walking figures that stretched across the dunes in lines that took minutes to pass. The scale was staggering. Some caravans numbered dozens of wagons, their canvas covers emblazoned with merchant house insignia in scripts and colors that represented trade networks spanning the continent. We joined the flow. Three more bodies in a river of thousands.
+
+We climbed the last dune.
+
+And stopped.
+
+The wall came first.
+
+It rose from the desert floor like a cliff face.
+
+White stone. The material was unlike anything I'd seen in Silberwald — smoother than quarried stone, as if the wall itself had been transmuted from the desert sand.
+
+The wall was twenty meters tall.
+
+The height was a guess calibrated against the Ashkeri soldiers patrolling its top, whose figures, at this distance, were reduced to white specks moving along a walkway that ran the wall's full circumference. Symbols covered the surface.
+
+They began at the wall's base, where the white stone met the sand, and climbed in vertical columns that extended to the parapet. Hundreds of them. Thousands. Carved into the stone to a depth of perhaps a centimeter, each symbol filled with a pigment so dark it might have been black.
+
+The symbols were not Imperial.
+
+The wall wasn't just a wall. It was a ward matrix of a scale and complexity that dwarfed anything I'd encountered. Every symbol was a node. Every node was connected to every other node through harmonic links that wove the wall's entire surface into a single, continuous spell.
+
+The gates were set into the wall at regular intervals. We approached the nearest.
+
+It was enormous. Fifteen meters wide. Ten meters tall. The doors — two slabs of dark metal, each one thick enough that the hinges supporting them were riveted columns of bronze the diameter of tree trunks — stood open to receive the endless flow of caravans that poured in a stream of wheels and hooves.
+
+The gates were painted.
+
+Every surface. Every square centimeter of the dark metal, from the ground to the apex where the doors met the wall's stone, was covered in the same symbols that marked the surrounding stone. The smell hit me.
+
+Iron.
+
+The blood was so thickly applied, and the smell so concentrated, that the metal beneath had become secondary to the coating.
+
+Henrik's stride faltered. He recovered, but his jaw had set into a rigid line.
+
+"Barbarians," he said.
+
+His hand rose. Pointed at the gates. The painted symbols. The dark substance that gleamed in the light.
+
+"It's their tithe. They use it for protection."
+
+"Blood?" I asked.
+
+"A powerful alchemical component," Lena said. "If you have no limits."
+
+I didn't understand the full scope of it until we were close enough to the gate's flanking guards that their faces became visible.
+
+The Ashkeri we'd seen on the route had been at a distance. Bronze masks. White uniforms. The general impression of disciplined soldiers performing a security function.
+
+These guards stood within arm's reach of the passing crowd.
+
+Their masks covered less.
+
+The soldier nearest me had a jaw that was wrong. The mandible was too heavy, the bone structure too pronounced, the teeth behind the parted lips too numerous and too sharp. The canines — if the word still applied — extended past the lower lip in points that caught the light.
+
+His eyes, above the bronze half-mask's shadow, were amber. A darker, more saturated amber, with vertical pupils.
+
+The soldier beside him was different. The wrongness was in the hands. The fingers that rested on the curved sword's hilt were too long by a full joint, the nails thickened into something closer to claws, the skin between the fingers faintly webbed.
+
+I looked at the next soldier. And the next. Each face that the masks left exposed carried its own deviation from what I understood as human anatomy.
+
+"Man-made mutants," Lena said quietly. "The Sultanate's specialty."

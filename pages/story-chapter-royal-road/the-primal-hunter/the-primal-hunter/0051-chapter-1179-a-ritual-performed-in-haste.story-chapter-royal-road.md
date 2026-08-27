@@ -1,0 +1,125 @@
+---
+id: 8fd58d6b-7ae2-52c7-91b5-9529dd7c91fe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1179 - A Ritual Performed In Haste"
+slug: 0051-chapter-1179-a-ritual-performed-in-haste
+partOf: the-primal-hunter
+position: 51
+ownLength: 2948
+unit: words
+ownProgress: 2948
+publishedAt: 2025-10-14
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2676083/chapter-1179-a-ritual-performed-in-haste"
+royalRoadId: "2676083"
+markedReadAt: "2026-06-29T19:30:52.750Z"
+---
+
+The ritual slowly began to come alive as the lines drawn on the ground within the cavern, connecting all the loot piles, glowed with the color of Jake’s arcane affinity as he poured in his energy.
+
+Needing a moment to think as the ritual began winding to life, Jake closed his eyes and calmed down. He had no idea what the fuck was going on or what had happened with Jasper, but he could make an educated guess. The Warpsnatcher had gone somewhere called the Drifting Planes and stolen the jewel from a bunch of far too powerful monsters and barely managed to escape back to Jake’s residence using the special token Jake had given him.
+
+Jake was also fully aware that for this kind of soul injury, there were very few ways to fix it, but all tended to require either a Transcendent skill or direct involvement from the system. Jasper’s current situation wasn’t that much different from Jake’s back during the Tutorial when he had overdrafted his own soul to kill the King of the Forest. Back then, his savior had been the system fully healing him upon the completion of the Tutorial.
+
+Jasper’s only real option was doing the same thing now, but rather than leaving the Tutorial, he could choose to evolve. If he did so before deactivating his boosting skill, none of the soul damage would be permanent; however, if he deactivated it, chances were his option to evolve in the first place would disappear due to soul damage.
+
+Perhaps that had been why Jasper had dared this kind of heist in the first place. He wanted to use the system as a perfect healing tonic should he overexert himself. Likely, he had returned with the intent of evolving down in the cavern amongst his treasures, as Jasper had told Jake prior that he needed to evolve there.
+
+It was a long shot, but maybe the Warpsnatcher had even considered that Jake could help should something go awry. No matter what, he doubted Jasper had planned on suffering his current injuries, as the state of the little guy was quite horrid.
+
+Ultimately, whatever thoughts Jasper had didn’t matter anymore. Things were clearly messed up, and if Jake wanted to pull off this ritual to help Jasper, he needed to do it now or never.
+
+Jake opened his eyes once more when he felt his arcane mana had properly propagated throughout the entire ritual circle. At least the part of it he needed to activate for this first part. The many piles of loot collected by Jasper over a long period of time began emanating energy, and the Shimmerfur Warpsnatcher in the middle did his part as he started greedily absorbing portions of this energy.
+
+As a reminder, Jasper had always planned to absorb Records and energy from his stash during the evolution process. It was standard practice for Shimmerfur Warpsnatchers to do so, as the sudden infusion of Records right before evolving could help achieve a better evolution and even help guide the direction of the evolution somewhat based on the nature of the consumed loot.
+
+Consuming powerful natural treasures before a big evolution wasn’t anything weird for all monsters. In fact, many only became able to evolve in the first place due to consuming some extremely powerful natural treasure, and when he looked at the Supreme Crystal of the Drifting Planes held tightly, Jake began to suspect this was one such item.
+
+“Tell me a bit about that crystal Jasper brought back,” Jake said to Artemis as he continued guiding the ritual.
+
+“It’s from the Drifting Planes, which is a common name given to a collection of minor worlds that exist outside of the regular universes. Some believe the Drifting Planes were once a single large world, but were at some time broken apart and became the many fragmented smaller worlds it is now,” Artemis began her explanation, adding a lot of fluff Jake didn’t need to know, but when factoring in she was delivering the entire speech in less than a second, he didn’t complain. In fact, learning more about the item and even where it came from would only prove beneficial due to Sagacity of the Malefic Viper.
+
+“These Drifting Planes aren’t too dissimilar to that world called Yalsten, you talked about. Also similar to Yalsten is that the Drifting Planes contain unique energies and treasures born from the environment itself. Most valuable are the jewels from there, but as these jewels cannot last for long outside of the unique environment of the Drifting Planes, and they can’t even be put in spatial storages, which is why they are most often consumed by the creatures within.”
+
+Jake listened as he continued working, memorising everything she said.
+
+“In fact, many creatures go to one of these Drifting Planes with an energy intensity suiting them with the hopes of obtaining one of these jewels. This is especially true for the monsters closing in on an evolution, as it’s well known that consuming one can help a monster overcome a wall and be able to evolve. Seeing as Jasper had a mythical version of these jewels, even a peak B-grade would have wanted it. It’s a miracle Jasper even obtained one and made it back here.”
+
+If Jake’s guess was correct, Jasper had completed his evolution quest upon stealing the jewel and was indeed planning on using it during the evolution. At least that would explain why the Warpsnatcher still clung tightly to it even now.
+
+“So, a natural treasure suited even for peak B-grade monsters to consume in preparation for an evolution,” Jake nodded.
+
+“A peak B-grade would likely need more than one jewel, but for a C-grade, it’s already more than most would be able to handle,” Artemis said, her voice calm as she observed everything that was going on with the ritual so far.
+
+“Can use?” Jasper asked from the center of the ritual circle, looking concerned and tired. The boosting skill was naturally still going at a maintenance level, but Jake saw the wounds his potion had healed before beginning to reemerge, showing that the little guy wasn’t doing well at all.
+
+“I’m not going to tell you what you can or can't choose during the evolution,” Jake said to the Shimmerfur Warpsnatcher in a serious tone. “You are the master of what you become entirely. I’m just here to provide you with an extra boost along the way, and while that jewel will certainly affect the outcome, we are already in completely unexplored territory, so I can’t tell you what the effects will be.”
+
+This was a conversation they had already had several months ago when Jake and Jasper originally agreed to do this ritual, but he still found it pertinent to give a reminder. Primeval Origin Energy or Jake Juice, as the enlightened called it, was something fully beyond Jake’s conscious control, and all he could do was faintly guide it.
+
+Jake performing this ritual in the first place was in part for him to explore ways he could control the energy better. He wanted to better direct it towards helping with the evolution, and at least feel as if he had some control over the ritual.
+
+To clarify, Jake wanted no control over the evolution itself, and he doubted the system would allow him to either. If Jake knew one thing, it was that the system was big on choice. Sandy hadn’t been forced into becoming the space worm they were today, but could have chosen not to go down that evolutionary Path. All Jake had done was give the option.
+
+That remained all Jake hoped to do, though this time without a special system-provided item to function as the catalyst to make it happen. Instead, he would infuse his Primeval Origin Energy into Jasper through the many loot piles in a quasi-direct fashion.
+
+A few minutes passed as Jake ensured everything was as it should be, and he even found a small error he rapidly fixed on the fly as he moved on to the next stage. Jasper had already been infused with a lot of energy from his own loot piles, while all Jake had done was lightly assist in the process.
+
+Now it was time for him to take a far more involved role.
+
+“Be ready, Jasper,” Jake said, keeping his tone and demeanor serious. “I’ll begin to slowly introduce Primeval Origin Energy into the ritual. Remember, even if you feel like you want to evolve, wait till I’m done or tell you to go ahead... or until you can’t hold on any longer and just need to go for it.”
+
+Jasper nodded, the small movement clearly painful. It was clear the Warpsnatcher’s body was deteriorating at a more rapid pace than Jake had first feared, and it was even beginning to turn stiff.
+
+Pushing things along, Jake sought deep within himself and touched upon the pool of energy that usually remained hidden away and guarded by his Bloodline. At his behest, it answered as Jake slowly felt the Primeval Origin Energy surface and enter his body right from where his heart was.
+
+The deep rhythmic sound of his heartbeat echoed in Jake’s mind as the slightest tinge of energy exited his fingertips and mixed with his arcane energy to enter the ritual circle. As his heartbeat slowly sped up as more and more energy wormed its way out, it apparently became audible as Artemis looked at Jake with a mix of interest and concern.
+
+“Jake, would it be alright if I informed other parties that may be interested in observing and lowered the barrier of the palace to allow this?” Artemis asked Jake a moment later, having seemingly remembered that perhaps this was something they should do. “I’ll make sure to inform them that they should only observe without revealing themselves and not-“
+
+“I don’t care,” Jake spoke out loud, not bothering with telepathy. Despite it not looking like he was doing a lot, Jake was very focused in that moment, and he didn’t have time to think about much else as he struggled to ensure the Primeval Origin Energy and his arcane affinity properly mixed.
+
+Usually, he would use Jake Juice by directly infusing it into items he held in his hand or, at the very least, into an object not too far away. Now, he had to make the energy travel through the lines of the magic circle, through the loot piles, and into Jasper. All while keeping it tightly wrapped in his arcane energy, as that was the only thing that could contain his Jake Juice without making it affect stuff around it.
+
+He was reasonably sure that if he poured Primeval Origin Energy into the ground haphazardly, it would alter the soil in some way, but ultimately end up completely wasting the valuable energy. That’s why he had to ensure it got to its destination in one piece.
+
+At the same time, Jake also wanted to subtly affect the Primeval Origin Energy somewhat. One of Jake’s biggest fears when using his unique energy was that he would accidentally end up turning someone into a living calamity. With the Demon Prince, it had been a bit too close for comfort, and the memory of Temlat, his first and perhaps only disciple he would ever have, still lingered in the back of Jake’s mind as a cautionary tale.
+
+That’s why Jake wanted to influence the Primeval Origin Energy to be more, well, stable. He knew the energy was incredibly volatile by nature, but he hoped that by mixing it with some of his stable arcane energy, he would turn it gentler and more controlled. Jake already knew that there were certain similarities between his Jake Juice and arcane affinity, and he hoped that would smooth the process.
+
+As expected, Jake also soon noticed that a few more eyes had found themselves observing the otherwise unassuming cavern in the last few seconds after Artemis lowered the barrier around the palace meant to stop them from doing so. He instantly clocked the observers as Yggdrasil, Duskleaf, Nature’s Attendant, and two separate Minagas. Villy was naturally also observing, but he had done so since the beginning.
+
+Several more minutes passed as the entire aura in the room began to change. Despite not a single iota of Primeval Origin Energy leaking, it still affected its surroundings slightly, and Artemis clearly felt it. Needless to say, so did Jasper, who was in the center of it all and had continually been absorbing energy and Records like a champ so far.
+
+However... now was the time to get serious. Jake Juice had been flowing for a while, and he felt confident in controlling it better now. Additionally, while he couldn’t be certain, he had a feeling that the introduction of the concept of stability had worked at least somewhat.
+
+Perhaps more importantly, Jasper was struggling despite his apparent success. Absorbing all that energy while also keeping his boosting skill active was taking a constant toll that was only getting worse with time. While Jake wasn’t entirely clear on the Warpsnatcher’s state, he knew he had to hurry things up or everything would be for naught.
+
+“Jasper, prepare yourself; we’re entering the final stage,” Jake said as he took a deep breath.
+
+Right before Jake truly made the final push, Jasper did something surprising... the small cat-like creature took the jewel he had been holding tight until now, and with a struggle, pushed the far too large item into his mouth. Somehow, he managed to get the jewel all the way in, fully consuming it despite the seemingly physical impossibility of the act.
+
+At that moment, Jake began to wonder if he could even dare to call himself reckless, because a C-grade consuming a mythical rarity natural treasure made for B-grades was definitely up there with Jake trying to eat a fragmented World Core using Palate.
+
+He also knew that now he really had to hurry. With a final deep breath, Jake activated Invocation of the Malefic Viper and empowered Sagacity, granting him even more control over the entire ritual circle.
+
+That’s also when Jake learned something else. Sagacity made items better based on his Records and knowledge related to the crafting process, and this seemingly had quite the effect on his Primeval Origin Energy.
+
+He didn’t have time to consider any of this, though, as he was too busy pouring in a flood of Primeval Origin Energy. Jake’s heartbeat sped up and became audible enough for even Jake to hear it echo throughout the cavern.
+
+With every beat, the entire ritual circle pulsed with light and power, sending another surge of energy into Jasper. The Shimmerfur Warpsnatcher took it all in like a sponge as one by one, the piles of loot around the cavern lost their luster and energy, and every single item lost its energy and thus the majority of its Records, all to feed Jasper’s evolution.
+
+These piles were emblematic of Jasper’s Path. They were all the treasure and seemingly insignificant items the Warpsnatcher had gathered throughout his life and stored in the Hunting Ground. It was the culmination of decades, if not more, during which the little guy had thieved, collected, and stored everything in an odd formation. After today, all of those piles would become absolutely useless, with many of the items even turning to dust as if exposed to desolation. This was something that would have happened even without Jake’s ritual, but now, all of those Records were further influenced by the Primeval Origin Energy.
+
+Soon, nearly all the piles were fully consumed in the ritual. Jake kept focusing on keeping everything going as he raised his gaze and saw something that wasn’t good.
+
+Jasper, standing on his two hind legs in the center of the ritual circle, was still absorbing all the energy coming to him, but his state had deteriorated rapidly. All his old wounds were back, many of them leaking blood visually. What’s more, his fur had begun to lose its luster, signifying he couldn’t keep the boosting skill going for much further.
+
+If it dropped, it would all be over. Jake wanted to say something, but the little guy was already swaying as he tried to keep his eyes open and his consciousness intact. Rather than speak, Jake acted as he gritted his teeth hard enough for the taste of blood to fill his mouth as he pushed himself as far as he could.
+
+One final heartbeat echoed throughout the entire cavern, bringing with it a shockwave of Primeval Origin Energy mixed with his arcane affinity. From the perimeter of the circular ritual, this energy began travelling inwards, and as it passed through the circle, it destroyed the entire thing, dragging with it all the remaining energy and Records still lingering within.
+
+Upon impacting the loot piles, it forced out whatever was left as the ritual circle rapidly grew in size before finally striking Jasper in the middle. The impact was almost physical, and in that brief moment it struck, Jake realized it had been too much for the already weakened peak C-grade to handle.
+
+In an instant, the luster on Jasper’s fur began rapidly fading. The boosting skill was no longer active, and the Warpsnatcher’s eyes lost all focus as they shut closed, the little guy falling forward with no signs of consciousness.
+
+Jake’s eyes were open wide in disbelief, and he was about to yell something, but just before the last hair lost all shine, one of Jasper’s eyes barely opened, a faint light within shining right as the Shimmerfur Warpsnatcher’s entire body disappeared.

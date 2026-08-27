@@ -1,0 +1,133 @@
+---
+id: c049c04d-6c92-562d-83dc-d278410426a2
+page-type-slug: story-chapter-royal-road
+title: "269 (I) “The Choice of Virtue” [I]"
+slug: 0334-269-i-the-choice-of-virtue-i-2961994
+partOf: path-of-the-deathless-book-4-completed
+position: 334
+ownLength: 2979
+unit: words
+publishedAt: 2026-01-20
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2961994/269-i-the-choice-of-virtue-i"
+royalRoadId: "2961994"
+---
+
+There are two lies that a Pathbearer might believe in after facing a traumatic defeat: one, that they cannot control anything—that they are merely an insect caught upon the tidal waves of fate.
+
+And two, that they are meant to control everything—that they simply didn't exert their strength enough, that they simply didn't overcome the will and whims of the world to rule and dominate.
+
+Both things are untrue. There are some things beyond your control. There are things you cannot know. There are adversaries you can't best at present.
+
+But that does not mean you are late. That does not mean you cannot change anything. Even an Adept has choices against a Legend. Even an Adept can find opportunities to alter the trajectory of their future. And even an Adept can learn, can develop. That is ultimately the salvation of one's soul: to learn, to develop, to evolve, to go beyond one's previous limitations. Whatever you survive, whatever does not break you, can change you for the better. The world is a cocoon. It is our metamorphosis, and from that, you should take heart.
+
+So as you recover from your wounds and rebuild yourself from ruin: know, understand, learn. You are still here. This fight is not over. No matter who you are, no matter what you suffer, no matter what urges or addictions have hold of you…
+
+You can still choose. And the choice to step beyond your emotions and suffering is something that can make a Pathbearer blossom from the ruins of who they were.
+
+-Valor Thann
+
+269 (I)
+
+“The Choice of Virtue” [I]
+
+As Shiv and Adam stared at him in bafflement and didn't move, the Culturist sighed and clapped his hands together. “Also, you may find that there is a more pressing matter, one regarding the capital's noble students, and their families, by extension, that demands our attention at haste.”
+
+"What do you mean?" Adam asked warily. He was still shaking, but slowly recomposing himself. "What are the students about to do?"
+
+The Culturist let out a slight sigh and turned his scornful gaze upon the other orcs, some of whom waved back at him with bright smiles on their faces. "It is not what they are about to do," he said. "It is what their families are in the middle of doing. It seems that idle hands have led to unfortunate outcomes."
+
+"You godsdamn dumb sons of bitches!" Shiv groaned. "Is this because you had Solzimort steal their family heirlooms and hide them in each other's mausoleums?"
+
+"Allow me to pre-empt their response,” the Culturist answered instead. “The answer is yes, and we should intervene under the guise of your Perfect Semblance before any unnecessary bloodshed follows."
+
+Adam narrowed his eyes. "What? You stalk us for days, you infest my soul, you seize one of my skills, you inject yourself like some kind of eldritch parasite, and now you're concerned that some students might get killed? I don't buy it."
+
+"It's unnecessary death," the Culturist said. "And it will likely burden you with regret if you don't spare them from slaying each other. I simply seek to get ahead of the problem. And that is a lesson you must learn, as Pathbearers of extreme favor. You will intervene, Deathless. I will assist. Young Lord Arrow, you should accompany us as well. This will be most educational for you too. There is a great benefit in actively studying someone else's social and rhetorical techniques. It should be especially useful for you, considering your high level of Awareness."
+
+Adam's mouth fell open slightly, but it was Jessica who interrupted. "Okay, again, why do you think we're going to let you go anywhere, unpredictable killing machine that you are?"
+
+"You can accompany me, if you do not trust me. I intend to reside within the Deathless's cape. And on top of that, I am the one who seems to be most aware of the happenings. This is a situation engineered by the other orcs to cause destruction and distractions among the nobility. Doubtless, it will eventually spiral out of hand, requiring the authorities of the Republic to step in."
+
+The Culturist paused and folded his arms as he stared the other orcs down. All of them now looked away or pretended to speak to each other, trying to seem as innocent as possible. "And I suspect it's part of their ploy to endear me to you. Because I am one of the few orcs who play at heroism, at nobility. I am one of the few who wishes to understand what it means to care for another—truly in the human sense, or at least in the sympathetic sense that most orcs lack."
+
+Sage of the Enkindled Heart: And from there, bonds will be formed. You will start thinking of the Culturist as someone different, as a creature to be trusted. But even this revelation on his part is an act of higher deception and honesty interwoven together. Him telling you this reveals things to us, but it also makes us think of him as abnormal, as an orc that stands beyond the others in terms of nobility, no matter how twisted his previous behavior. But never forget what he told you. He couldn't beat the itch, and he will hurt you again, even if it is under the guise of training. For now, though, there might be some use to be gained from him. Just don't forget what he is. Don't forget what he will do, for he will eventually remind you.
+
+A blur of motion drew Shiv's eyes to the Educator. The Forgotten Ascendant flicked her brush and let it slide down one of her sleeves. The utensil vanished, and she swept the orc with a stern look before she turned away, shaking her head like a tired parent. "Playing at guilt and redemption will not teach you the truth of feelings, orc."
+
+"I know. But at the source of all things is behavior, and I seek to emulate behavior even if I don't have the same impulses. I have indulged in conflict. I have made my intentions known. And now I think we should move on to more pressing matters. It will still take a day or two before your slipgate is complete, will it not? In the meantime, we must do as actors on the stage, and play on."
+
+But then the Culturist paused, as if something had just occurred to him. He turned on Adam once more and let out a sigh. It sounded almost remorseful. "And, if this is not enough, if I have indeed affected you so truly, then I give you my apology. I cannot give you an emotional one. I cannot offer you condolences. I cannot prevent myself from going to war against you—from using you against the Deathless. But I can declare myself before we fight. I can try to train you. I can make you better. I can keep you from breaking. It may not seem enough, but that is all I can offer right now. And you know the System will eventually try to inflict worse on you. That it does not care. But I do. Because of cruelty and curiosity. And also philosophy. I genuinely wish you to grow. Such will be my chosen virtue."
+
+Every single tendon in Adam's body was drawn taut. His fists were clenched. His mana fields rippled and writhed, preparing to lash out. His eyes were locked on the orc that had hurt him so, that had beheaded him, yet kept him alive, that had burst free from his face to strike his friend. But shock and anguish were giving way to a cold, hard rage, and the Gate Lord clenched his teeth together as he forced out the following words: "Chosen Virtue. Tell me, do you feel any more like Valor when you perform a deed of goodness? Or does it feel hollow? Do you feel like you're less than a complete Pathbearer every single time you do something noble and feel nothing, even if you succeed?”
+
+The Culturist didn't say anything, didn't react openly, but the unnatural stillness that gripped his body told Shiv that Adam's words had disquieted the orc.
+
+A subsequent surprise followed. "So be it, then," Adam said, his voice bleak with weariness, but also resolute in his declaration. "Let's go to the Scouting class, Shiv. See these pointless noble feuds settled before any students have to die unnecessarily."
+
+For a moment, Shiv was about to ask Adam if he was alright, but Sage of the Enkindled Heart stopped him. Of course Adam wasn't alright, but he knew that himself. He knew that, and he was trying to face it. So, Shiv instead settled on, "You sure about this?"
+
+"It's the most meaningful choice I can make right now." Adam sounded listless as he stared down at the ground. There were storm clouds behind his azure eyes, storm clouds that were turning and growing. The Deathless could see a sea of blazing anger flooding into the Gate Lord's core. And it kept building and building and building.
+
+"I despise you. I loathe you for everything you did and for what you are." Adam said each word with crisp clarity. There was no snarl, no bark behind the words. It was pure, and it was true, but it was also weary. He was exhausted. "And I think you're right." That took Shiv by surprise. "I think you're right. I think that we should go save these idiot kids from continuing their stupid feud over some dead fools’ trinkets or equipment."
+
+He took a step forward and stared the orc down. "I also think you were inevitable. That if not you, the System would have sent someone else for me. Someone else to trouble me. Someone else to make my life a misery. Until I survived that as well, or until I found myself struck down."
+
+"Such is the inevitable outcome," the Culturist replied. "I wish things were different. I wish the System had any appreciation for its true heroes, its proper nobles. But thus far, I see no evidence of this. The life your father has led, the life Valor has led, and is not too different than the life I have led."
+
+The softest scoff left Adam. "And so, now that you've scratched your itch and your need to submit, you find yourself moving up toward the ladder of actualization. And you think that if you can make me stronger, that if I could best you or potentially inspire you, you might be able to find your freedom in Shiv or me." Adam grew quiet and looked the orc up and down. "How many people have you done this to? How many people have you imprinted yourself on, only to kill them in the end?"
+
+The Culturist held Adam's gaze without blinking. "Far too many Rangers, far too many Heroes and Legends, far too many disappointments. Perhaps you will be different."
+
+"And how many people have you said that to?" Adam followed up. To this, the Culturist didn't reply. The Gate Lord released a humorless laugh. "Kodoku."
+
+"What?" Shiv asked, unfamiliar with the word.
+
+The Culturist was about to respond when Adam held up a hand. "It's an idea from a foreign land," he said. "It has one hundred poisonous insects placed within a single pot, and they are made to kill each other until only one remains. The one that remains glistens with empowered poison mana, and it becomes a god among insects, a slayer of its own kind, the apex predator. That's what's happening to us right now. We're two of these insects. So are the others who come into contact with us. So are the other Legendary Pathbearers. Integration is the jar."
+
+"And some among us have noticed that," the Culturist said, now looking upon Adam with newfound appreciation. "Some of us have learned to hate the fact that there is a jar. That we are constrained in it. That we are still just insects tearing into each other. And that we believe that beyond the jar, beyond Integration, there are those who watch us with bemusement. And the creatures that Integration feasts upon have already created their own jars within jars, their own chains of predation."
+
+"From the System, there comes the Challenger. There comes the Ascendancy. There comes the Great One," Shiv guessed.
+
+The Culturist looked at him. "And then, eventually…"
+
+Shiv licked his lips. "Us. If we survive, if we're one of the last insects left in the jar."
+
+"But the metaphor is incomplete," the Culturist declared. "Because there aren't just poisonous insects. There are also those that are harmless. The leaf-eaters. The dumb feeders. The small, the supple. They are the ones on campus being provoked into violent action by another's machinations. They are those who turned away from the Martial Path, despite the brutality of this world. They are the Pathless. They are those who could never claim dominance. And though I cannot fully sympathize, though they inspire the urge inside me to rise, I am horrified by them. I am horrified they exist. I am horrified they cannot preserve themselves."
+
+"But we can," Adam finished. "You because you wish to rebel against your own nature and your god. Me because this is my nature. Shiv because he wishes to be more than a monster." He huffed and nodded. "Then tell me this final thing before we go. The other orcs, did they plan this with you? Was this always the outcome?"
+
+"I suspect it's more accurate to claim they planned it for me because they wish to inflict their domination upon me as much as they do upon you, upon Shiv." The Culturist leaned down and got close to Adam. Jessica took a step forward, just in case. "Remember, Gate Lord. One hundred poisonous insects, minus a few without a chance at all, and no true allies. Eventually, they all have to eat each other. All of them."
+
+Sage of the Enkindled Heart: The implications here are two-fold: The Culturist and the other orcs cannot be aligned—not truly, in the end. But deeper than that: You and Adam know this. The System has hinted at this. You, Uva, and Adam have spoken of this. A hundred poisonous insects. It will make you fight. Integration will force that at some point. It will use all its power. And you must be better. You must be sharper. You must not fail if you seek to prevent that outcome.
+
+Shiv let out a frustrated growl. "Jessica, put your sword down, and get in my cape with everyone else. We're going to class."
+
+The Giantsbane shuddered with near disbelief. "Seriously? You're willing to let him step inside your cape? You're letting him stick close to us after everything he did?"
+
+"We're willing to do the same for you," Adam replied without looking at her.
+
+"That's different," Jessica said. "I'm not an orc. I didn't reach into your soul and plant myself there like a parasite."
+
+"No, you did cut your way up Shiv's ass," Adam noted. "Quite brutally, I must add. You should be glad he's willing to entertain you as much as the Culturist. And also, we need you, we need him, we need all the other orcs from the Tutorial for Blackedge. Everything else can wait. Everything else must wait." Adam paused. "And everything else is going to come. We only have so many choices.”
+
+“Adam?” Shiv asked, concerned.
+
+“I'm fine." The Gate Lord stepped away from him. "I'm fine. Just let me have silence. Silence. For now.”
+
+Adam was the first to enter Shiv’s cape, and he never made any contact with his friend as he did. The Deathless was about to call out to Adam once more when a gentle hand gripped his shoulder. To Shiv's surprise, he found the Educator shaking her head at him.
+
+"No," she said. "Give him time. I know that look on his face. I have made that look before. After I realized the depths of my folly. After I understood what the System was going to do to me. What this false godhood would take from me. Give him time. The true face of the System is revolting, and it takes a period to swallow."
+
+Shiv let out a begrudging breath, but did as she asked. However, he wasn't content to let other things slide by so easily. "Jessica," he called out, "you stay close to the Culturist."
+
+The diminutive swordswoman turned to stare at the orc looming over her, but he simply offered her a respectful bow. "No need to think such thoughts, Giantsbane. You are the superior blade. I can tell so from the very way you swing."
+
+She sneered. "If you think licking my ass is gonna make me lower my guard, you got another thing coming. I know your type. The humble ones have to die first."
+
+"I am not humble, just honest," the Culturist retorted. "And you should be with yourself as well."
+
+"Fuck's that supposed to mean?" Jessica asked, squinting.
+
+But the Culturist didn't answer that. Instead, he found joy in being inscrutable, and he offered Shiv the very same bow, though there was a slight smirk on his face as he slowly leaned down and pulled himself into the dimensional fabric.
+
+"Guys, guys, what's happening out there? There was a lot of fighting earlier and a whole lot of talking. Did someone die? Hello?" Radio's voice came as a barely heard squeak. Electronic pops sounded at the end, and then it was followed by a shriek. "Holy Cripple, that’s a nasty-looking orc! Hey, Bossman, can you tell me when you’re going to let another one of these oversized murder oxen in here? The last one nearly turned me into a groin piece!”

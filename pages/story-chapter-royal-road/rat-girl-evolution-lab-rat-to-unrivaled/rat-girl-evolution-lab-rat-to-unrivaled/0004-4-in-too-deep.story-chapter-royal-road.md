@@ -1,0 +1,297 @@
+---
+id: 8dd909a1-83c4-5231-b0fc-11971c4adbff
+page-type-slug: story-chapter-royal-road
+title: "4: In Too Deep"
+slug: 0004-4-in-too-deep
+partOf: rat-girl-evolution-lab-rat-to-unrivaled
+position: 4
+ownLength: 2625
+unit: words
+publishedAt: 2025-09-04
+link: "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2572828/4-in-too-deep"
+royalRoadId: "2572828"
+---
+
+“H-Hello?” she ventured, stirred by some deep, rudimentary logic which told her that when spoken to in human words, human words had to be the ideal way to answer.
+
+[Loading initial level…]
+
+[Level found]
+
+[Current level is 3]
+
+[Loading current statistical ability measures…]
+
+Stats successfully measured.
+
+Total mana: 9
+
+Mana power: 7
+
+Mana control: 2
+
+Physical enhancement: 2
+
+Mana regeneration rate (per hour) : 3
+
+Level up detected: 1 - > 2
+
+Level up detected: 2 - > 3
+
+Two spell points gained.
+
+Five spells are currently available for unlocking.
+
+Which spell would you like to unlock?
+
+“Which… spell?”
+
+The words seemed to.. echo? Strangely in her head. What was the word for an echo in the eyes? No, before that, what was the way to describe something that, rather than being both seen and heard, was halfway both and halfway neither?
+
+Currently available spells:
+
+Energy Stream: A continuous push of raw kinetic energy formed from mana, fired in a straight line.
+
+Energy Wall: A wall of raw kinetic energy formed from mana, which stops anything until breaking.
+
+Flame Stream: A stream of fire ignited by mana, fired in a straight line.
+
+Freeze Stream: A stream of freezing air cooled by mana, fired in a straight line.
+
+Enhanced Impact: A burst of force emitted from the point of impact when striking with the hand wearing the system watch.
+
+ERROR.
+
+Please relocate system watch to applicable limb in order to use this spell.
+
+“Huh?”
+
+It only then occurred to her, that maybe speaking aloud while trapped in a tunnel, unable to move, and potentially, no, probably being hunted down, might not be the best of ideas.
+
+She lowered her voice to a whisper for the next line.
+
+“Um… Energy Stream?”
+
+Energy Stream selected.
+
+Cost: 1 spell point.
+
+Please CONFIRM or DENY.
+
+“Confirm…?”
+
+Confirmation received. Please say ‘Energy Stream’ with sufficient volume to use the spell, and ‘Cancel’ to stop it. It can also be manually canceled with the usage of the button on the side of the system watch.
+
+“Energy Stream.”
+
+WARNING: The system watch is not currently on a limb. Please confirm usage or cancellation.
+
+She stared, or let sit, or whatever the term was, the former rat let the words do it, or did it to the words, for a while.
+
+If I send out the energy now, it might push me far enough back to dislodge me…
+
+But on the other hand, it might also send me sliding deeper into the tunnel, or worse, just crush me against the side.
+
+She clicked her teeth impatiently.
+
+What do I have to lose?
+
+“Confirm.”
+
+She felt the mana within her stir, twitching, as it followed a series of moments both entirely like and of the exact same nature as when she had been drained of her energy by the gems, or when she had sprinted like the wind.
+
+Only this time, it was as though something, someone else was controlling the mana. She was no longer the author, merely the parchment.
+
+Pain.
+
+“Cancel, Cancel, CANCEL!”
+
+The force had been vented directly from the ‘system watch’, driving it and its twin needles into her side, and then continuing further, crushing her against the narrow walls of the tunnel, and threatening to snap her ribs before pushing straight through her chest.
+
+“Tchh.”
+
+The rat clicked her tongue in irritation. If only it was pointed forwards, or…
+
+The inkling of an idea struck her, though just considering it sent a throb of pain back through her bruised ribcage. Still, with no other choice, she continued.
+
+“Energy Stream.”
+
+As the spell was cast, she focused every nerve in her body on the process, waiting only a fraction of a second after it began to push out of the system watch before cancelling this time.
+
+Then, concentrating, closing her eyes, she attempted to replicate it.
+
+The same energy, the same pattern, the same spell. If the watch could do it by using her body, she should be able to as well, right? It wasn’t all that complicated. It was just the same as what she had done before…
+
+Sliding down her body, coiling through her legs, building up, and coming out…
+
+Mana slipped free, evaporating into the air. It didn’t carry any force.
+
+Okay, um…
+
+With a sigh, she repeated the process. “Energy Stream. Cancel!”
+
+It took two more tries, copying and analyzing the structure of the spell and the watch as the device cast it, before she could do it on her own. But eventually, her attempt succeeded and a weak, puttering jet of energy flowed out of her feet.
+
+It was far weaker than the one from the system watch, but she found that with sufficient effort it could be dialed up, first until it matched it, and then a little bit farther, until the structure broke apart and it turned into raw mana spewing off in all directions without a hint of kinetic energy to them, forcing her to dispel the casting.
+
+Was it the disparity in those two stats, ‘Mana Power’ and ‘Mana Control’?
+
+Or was it the situation she was in? It surely couldn’t be that easy to cast a spell while unable to use her body. After all, she could feel just how much of the structure, the pattern, and the technique was dependent on the flow through her body, and just how key syncing up the mundane nerves to the magical ones was for the sake of it.
+
+On comparison to the effortless, emotionless movements of the system watch’s casting, her own was subject to human—
+
+That was a sentence she wouldn’t finish, not even in her own head.
+
+Her own casting was subject to the limitations of a flesh and blood being.
+
+She took another look at the stats, seeing that her current mana level had fallen to 4 points out of 9.
+
+That wasn’t a lot, in comparison. It was less than half of her maximum. But it was only a single point through all that experimenting, meaning that she still had plenty left to propel herself. That was, if she still had the will to dare to try it once more.
+
+If the tunnel kept growing smaller, narrowing and becoming tighter, then it would be suicide for her to shove herself even deeper inside it with magic.
+
+But if that wasn’t what had happened, and she had grown bigger instead, then she had no choice. And surely, sooner or later, the humans would come looking for her either way. She knew that, on some level, even if they had to rip open the earth above her head, they would find her.
+
+And so she gritted her teeth, braced her core, exhaled, and cast the spell one more time.
+
+Grinding of flesh against stone, the scraping of burns on the rough surface, the creaking of her bones, it all came at once, it all blended into one, and yet it stayed distinct and different as through it was three, four, five, a dozen different forms of pain, of agony, of fear pressing into her body and mind alike from all directions, crushing her just as the tunnel itself was crushing her.
+
+And then it began to ease up, and her speed increased, until she felt the last dregs of her mana burn out, and her power starting to disperse into the air as the structure broke apart once more.
+
+She took a moment there, just to rest. And then a second, and a third.
+
+She pushed herself to her paws… To her hands and knees, and slowly followed the way, feeling it grow steadily wider above her head as multiple, smaller tunnels, too small to even look inside, branched off into it.
+
+And then she was out, tumbling into a ditch and feeling the midnight breeze caress her injured skin in what she could only describe as sheer euphoria. It was wonderful.
+
+The rat found herself resting again. She needed to get up, to keep moving. She knew that. But the truth of the matter was, some part of her just didn’t care, so overwhelmed by the relief of everything.
+
+There had been so many close calls, so many moments in which the rat had already begun to assume that it was over — that she was already dead. The adrenaline left her, the energy draining away and leaving her as nothing but an aching, quivering, pathetic mess so grateful for her life that in that moment, she couldn’t even muster the strength to move, or the fear to be inspired to run from her potential pursuers.
+
+Maybe they didn’t know; maybe they assumed she had burned with all the other rats, and they weren’t even looking for her. How wondrous that that would be, to have been written off as a pile of ashes, to be free to flee and live her life without…
+
+No. Not without their interference. They had made sure of that.
+
+She would never be free of them, even if they forgot all about her.
+
+Not until she could forget them in turn, or at least put them away, out of her mind for good. And she would never be able to do that, never be able to move on, to ignore the torture and torment and pain and mutilation of her and all her kin.
+
+Not until they were dead.
+
+And that got her moving, when fear wouldn’t. Her own life? Inconsequential, maybe.
+
+But their lives had weight, even if in the wrong direction, and they had value, even if only to themselves.
+
+And she was determined to steal it away, and to render them into piles of worthless dead flesh just as hideous and unnatural as what they had done to all the rats in their labs.
+
+She still had her tattered, burned, smokey lab coat. And in its pockets she still had three of the stolen items.
+
+Scalpel, cube, system watch.
+
+That last one had come disconnected at some point, the needles slipping out of her flesh without the walls to keep them pressed in.
+
+She took it out now, and with a moment’s hesitation, pressed it into her left wrist and tied the straps tight.
+
+The pinch of pain was minor in comparison to all she was already feeling, but as the glowing letters popped up again, she felt a sense of relief.
+
+[Current level is 3]
+
+[Loading current statistical ability measures…]
+
+Stats successfully measured.
+
+Total mana: 9
+
+Current Mana: 1
+
+Mana power: 5
+
+Mana control: 3
+
+Physical enhancement: 2
+
+Mana regeneration rate: 3
+
+She had gained a point of control. That much was nice to see. She raised a hand, now, and repeated the command for her one spell.
+
+“Energy steam!”
+
+This time it shot from her left hand, as textbook and uniform as always. Something about it felt off, though, now she had figured it out in method alone, as though she was being turned into a puppet on a spiritual level each and every time she cast.
+
+She called it a second later, only partially from the feeling, but more so motivated by the desire to allow her drained mana to regenerate as much as possible.
+
+Her stomach rumbled.
+
+I guess I’m still growing, huh.
+
+That was a painful thought, though not as painful as the pangs of her belly, or the gnawing thirst that she only noticed now. A scent distracted her, one she had previously dismissed as having been only left over from the tunnel. This water wasn’t stagnant, though, but smelled sweet, clean, fresh.
+
+Her legs moved towards it on their own, pulling the rest of her along with them, hurrying through the woods until she found herself teetering over the edge of a small, fast, clear creek, trying not to lose her balance and fall into it as it appeared suddenly under her.
+
+She failed.
+
+Gulping at the fresh water, she almost didn’t care.
+
+It was bliss being pumped down her throat and into her veins, smoothing the roughness from the fire, and the squealing, and the torn pain of her thrashing in metamorphosis that she could still feel twisting in her bones now.
+
+Clean, unsullied water, with barely any trace of anything despite its location in the woods, with dirt walls holding it in, and trees and bushes hanging over it from all directions. Perhaps because of the smoothly worn stone that made up the bottom of the river? Or perhaps…
+
+It didn’t matter.
+
+She just needed to drink, drink, drink—
+
+Something choked her, and she spat out a clump of fur.
+
+It wasn’t the only one in the water, being swept away by the fast current as all the burned hair, and then all the unburned hair peeled off her, showing soft, pale, pinkish-white human skin beneath until there was no hair left anywhere a rat should have it, but for the top of her head.
+
+On instinct, she cast her eyes upwards. She didn’t have time to spend looking at her reflection, no matter how ugly and humanlike she might have become.
+
+No, there was no time to be pondering nature either. She had to do something about her hunger, and to figure out how to make a decision about her next steps.
+
+Wandering around in the woods wasn’t exactly an ideal strategy for vengeance, nor even one for survival, really. It just wasn’t practical.
+
+She took another look at the surface of the system watch, loosening the straps a little to fit her larger, albeit still slender, wrists.
+
+[Current level is 3]
+
+[Loading current statistical ability measures…]
+
+Stats successfully measured.
+
+Total mana: 9
+
+Current Mana: 1
+
+Mana power: 4
+
+Mana control: 3
+
+Physical enhancement: 3
+
+Mana regeneration rate: 3
+
+A point in physical, huh. She had somehow gained it in less time than it had taken for her to regenerate a full point of mana. Just as the thought occurred, another one appeared, ticking into existence.
+
+Was it due to her new form? True, it seemed like the system measurements had been made for humans. Did that mean her own would be inaccurate, for not being human enough? Or would that only affect the measurement of human physical abilities and enhancement, since that was the only way they were different from the magic of a rat?
+
+Could rats even cast magic, normally? She had never been able to, before, had she? Or had she just never tried?
+
+Was there a difference between being physically and mentally unable? Or, rather, more pressingly, was there a difference between being mentally unable, between being unable of conceiving, and merely being unable to come up with the concept on her own? If she had been told, could she have done it? What if she had been actively taught or trained, as those humans had done with other tricks, could she have then?
+
+Did it matter?
+
+Yes. It does matter.
+
+For the first time, there was something to her wondering that was actually applicable to the real word, to the right now.
+
+As much as she hated to admit it, the humans had magical knowledge and abilities that far exceeded her own grasp, and even what she had once considered possible. Even her position as one so very new, with less than a day of even understanding the concept, was enough for her to be sure of that much.
+
+And so, if she wanted to kill them, she would have to get much stronger.
+
+And if she wanted to get stronger, she would need to find other people.
+
+Humans…
+
+Yes, there was only one choice, one real choice ahead of her. She needed to figure out her powers, and there was a perfect reversal of fortune for that.
+
+It was time to find some test subjects.

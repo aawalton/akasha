@@ -1,0 +1,313 @@
+---
+id: 6f0d589d-4da2-5f65-8954-8ebc6b2ca93d
+page-type-slug: story-chapter-royal-road
+title: "322 Hero of a Thousand Fates"
+slug: 0427-322-hero-of-a-thousand-fates-3207913
+partOf: path-of-the-deathless-book-4-completed
+position: 427
+ownLength: 5144
+unit: words
+publishedAt: 2026-03-29
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3207913/322-hero-of-a-thousand-fates"
+royalRoadId: "3207913"
+---
+
+Under most circumstances, trying to change a Path you already possess is an act of ontological suicide.
+
+The Path one bears serves as the foundation to one's power, and it also decides what Skills one can build towards more effectively, as well as others you will never be able to reach. However, I am not one to accept limitations, and I have conducted a great many experiments when it comes to the alteration of one's Path.
+
+Animancy alone is not enough. When accumulated legends are present within a Pathbearer’s soul, changing their nature requires a significant act of deviation or retro-continuity. I managed to achieve the change of a Path through exploiting eldritch magics. I have twisted the very fabric of time within a Pathbearer, resulting, of course, in them going insane and their soul promptly shattering into countless pieces. As the bits that still held onto their legend were pried in one direction, the other aspects I managed to control went to another.
+
+This killed them, naturally.
+
+But it was a good proof of concept that Paths at least could be modified.
+
+With that as inspiration, I realized I didn't need to reconstruct a Path entirely. If I broke it down but kept the Pathbearer alive, I could rebuild it. I could shape it and sculpt its new foundations after I restored it and make it something new, something greater.
+
+Just as Skills can evolve, Paths might be able to evolve as well. And the easiest way I have found to approach this is through a transplant. A shared moment between two Pathbearers, a point where both their legends connect in the form of a shared struggle, is taken, and then this fragment of the soul is transferred from one to the other, ideally from one far more powerful to one much weaker. With this, if I apply the right means, and if the recipient is strong enough, they can transform. They can become more than the broken thing they were.
+
+Or can all go wrong and they will die again. But such is the cost of discovery. Science and magic demand sacrifice. Not mine, of course, but sacrifice. For a great many people, paying that cost is the most noble thing they can do.
+
+—Udraal Thann, “Notes on Paths and Path Evolutions”
+
+322
+
+Hero of a Thousand Fates
+
+Restarting Narrative Cycle
+
+Commencing Season of Spring
+
+Pain.
+
+As the flame of consciousness kindled within Adam, his existence became one of ineffable suffering. His flesh and soul were a hive of misery. A cluster of thundering headaches exploded in the back of his brain over and over again, making it hard to hold onto individual thoughts. Groans slipped out from his mouth, and they died down to whimpers as His throat felt too raw to manage a full scream. Even incoherent, Adam instinctively knew that things were broken inside him. Critical things, delicate things, things that couldn't easily be put back together.
+
+He wasn't sure how long he lay there upon the soft and fragrant soil. It could have been minutes; it could have been weeks. His awareness cut in and out as he drifted between the threshold of oblivion and the torturous hell of consciousness. Cold sweat poured down his body and matted his long, crimson hair to his face. His recollection of the world proved feverish; he barely remembered who he was or how he got here. At one point, he thought he tried to rise, but that might have been a dream too.
+
+When he finally gathered himself enough to form any thoughts, he was face down in the dirt, drooling onto grass that was partly inside his mouth, babbling words that made little sense.
+
+The pain never truly got better. But the misaligned pieces inside him drew closer. Even though every cell of his body still felt like it had been battered and broken, his mind finally managed something approximating a recovery.
+
+Adam Arrow blinked and tried to roll over.
+
+That proved to be a mistake. The moment he placed weight on his left arm, there came a terrible crack as something in his elbow splintered apart. He gagged, delirious from hurt, and he emptied his stomach right next to his head before collapsing onto his back again. Flashing sparks of flame danced before and behind his eyes as he stared up at the bright sky. With that image, he recalled something. An incandescence coming to claim him. He recalled an ocean of liquid fire rising up, the sting of his soul being devoured. He recalled—
+
+Shiv!
+
+Uva!
+
+His eyes snapped open as memory returned to him. She had wrapped herself around him, shielding his body, using the Fae she'd hijacked and herself as an additional barrier. Shiv dove down, and he shoved something in Adam's mouth just before everything went bright. The Gate Lord couldn't really remember what it tasted like. The texture had been akin to paper, but the flavor... Well, it was hard to describe. It was hard to even fully grasp. Something had changed inside Adam. Something had changed as bits of incandescent shrapnel were cleaved free from the Watchtower’s conflagration. The pieces speared into Adam just as he was forced to swallow, and the last thing he saw of Shiv was him going Non-Sequitur, jumping free from his body, leaving only a Vitae clone in his wake.
+
+A clone that was consumed by the divine fire.
+
+Desperate strength combusted inside Adam and pulled at his bones. It didn't matter how much he hurt now, with the memory of his companions fresh in his battered mind; he rose like a man possessed, staggering to his feet with the help of his vector wings. Without warning, even worse pain ripped through him, and he fell to his hands and knees. Every time he moved, it felt like razor blades were splitting his muscle fibers open across their length and molten metal was coursing through his veins. But somehow, using his Reflexes Skill hurt even more. A paroxysm of torment tore through him, his wings nearly cut out in an instant, flickering like the skill wasn't working right.
+
+Adam gritted his teeth and slowly worked his way to his feet, but felt his legs quiver as his power of flight cut in and out. He was like a newborn foal struggling to relearn how to walk. His body threatened to buckle. His mind refused to bend. And somehow there was enough left to his soul that it served as a proper tiebreaker. Adam stood; he didn't fall. He suffered, he endured, and he looked around, taking stock of his environment with his single remaining eye.
+
+Single eye? Adam's thoughts were dull. His Seer of Horizon skill was still active, and so he could sense the world around him in vivid detail. At least that skill wasn't damaged, but there was a part of his vision that was missing. Seeing directly through his own perspective felt wrong. His depth perception was messed up. It took casting his perception out from his body via Seer of Horizons for him to regain full visual capacity.
+
+“Bloody hells… Bloody… felling hells.” Adam cupped the right side of his face. He felt a hot patch of wetness there; it was still bleeding, his wound fresh. Evanescia had carved a trench into his skull, and the pounding ache throbbed with every heartbeat. But it told him a few things. The fact that his fingers brought him blood instead of a dried scab meant he hadn't been unconscious for that long. Being able to form those deductions also meant he didn't have brain damage.
+
+Hah. Two small victories already. Adam tried to smile, but he just didn't have it in him. If I experience a third good turn, someone might just hop out of nowhere and tear my legs off before beating me to death with them. It was a cynical thought, but all too justified. The System liked using him as a pain puppet. He couldn't go long without suffering. The fact that his disfigurement didn't even traumatize him was telling. This was just another day in his life since that bastard with the raven helmet snatched him away right before his wedding.
+
+I'm still alive, so I'll deal with it. Deal with my missing eye and whatever she did to my soul. Gods, it's like I've been dragged through a field of rusted kitchen knives…
+
+Adam studied himself using his Seer of Horizons. Turning his Awareness around, he regarded the damage done to his body and especially to his face. There was an open chasm that continued weeping spills of red where his right eye should be. Adam sneered as he regarded his wound. He licked a bit of the blood streaming down his face and scoffed with annoyance. “She bit clean through my optical nerve. Who even does that? Hm. At least it's a clean wound. Probably. A Biomancer should be able to re-grow the eye without too much difficulty. A Biomancer like…”
+
+Adam took in his surroundings once more. He didn't know where he was. A series of towering oak trees loomed all around him. It seemed like he'd found himself in a forest clearing. A carpet of dried autumn leaves blanketed the grass. Looking down, Adam could clearly see where he once lay: a patch of flattened green amidst the sea of brown and reds. He'd cleared quite a bit of space with his earlier thrashing. A gentle breeze crossed through the woods, and a phantom orchestra followed. A whistling of wind came first. The leaves rustled thereafter. Distant chirps and strange, slow heartbeats became the ambience.
+
+“Where am I? And where are…” Though Adam strained his ears and nose as much as he could, he couldn't hear Shiv or Uva. He couldn't smell them. He was alone here. Aside from a few squirrels staring down at him from a branch over forty meters away, and more birds than he could possibly count, he was alone.
+
+Or so he thought.
+
+“Ah. You’re awake. Good. I wasn’t sure if I had done enough to preserve you from the coma.”
+
+The low baritone of the voice vibrated Adam's bones. He was too used to being ambushed for any kind of startlement. Still, he closed his eyes, more frustrated than horrified with regard to his inferior stealth.
+
+Adam turned to find the Culturist perched atop a branch, one far too thin to accommodate his weight. He was, for some reason, squatting with his arms folded behind his back, and he looked down at Adam as a mother owl would at her least promising chick. His stupid, feather-eared hood completed the image.
+
+“How do you keep managing to do that?” Adam growled. “Just using your Legendary Stealth to intimidate your lesser, or what?”
+
+The Culturist let out a soft laugh. “The answer is far simpler than you might assume. It is not the doing of some great Stealth Skill, though I do possess a passable one. When faced with someone with extremely acute senses, the goal often is not to avoid making any and all noise, masking your scent, and hiding from their gaze. Trying to make yourself nonexistent is a foolish goal, lest your name is Valor Thann. Instead, the goal is camouflage; for your target to notice, and then disregard you as part of the scenery.”
+
+Adam studied the tree branch again. Instead of rushing through things, he spent a few moments contemplating what the orc had just said. A Legendary Pathbearer who had lived for centuries usually had countless skills that aided infiltration. Adam chose not to be overwhelmed by the theoreticals and focused on the most probable possibilities. “Did you come in as a gust of wind, or were you one of the birds on the trees, chirping away while shape-shifted?”
+
+The right corner of the Culturist's lip quirked as he offered the ghost of a smirk. “The latter. My weight is still that of an owl.”
+
+“Of course it is,” Adam rasped. An explosive headache made him clutch his skull. It felt like the center of his brain was on fire. The very act of thinking seared him to the marrow. But just as the attack came, it faded, and he found himself in control of himself once more. “Why… why always an owl?”
+
+The Culturist tilted his head in curiosity. “That is the question you wish to know before all others?”
+
+“That’s the question I want you to answer while I try not to black out. Some sound in the background might keep me grounded.”
+
+“Ah. Well. It came as the result of a formative experience I had with my ten-thousandth Vaketh-Bakal. She was an Owl of Aviary, and was hunting me through the streets of New Albion. I was shifted and split into a swarm of rats and ravens while she adopted her namesake. It was… quite a battle.” The Culturist breathed out, reminiscing on better, bloodier times. “I was the better mage. My Tier was greater. My Awareness was sharper.”
+
+“But she won?” Adam guessed.
+
+“But she won,” the Culturist confirmed. “Because she knew the city. And she knew how to use the dark. And where my Awareness would have prevailed in any other circumstance, the scream of steam automata paired with the shadows gas by the Londium gas-lamps made the city her hunting ground. I died, and took a wonderful lesson with me into my next reincarnation. And I adopted some of her strategies over the next few cycles.”
+
+“She killed you more than once, did she?” Adam taunted.
+
+Suddenly, the Culturist stopped speaking. The Gate Lord guessed that he struck the orc’s nerve at first, but his Cognitive Therapy told him it wasn’t so easy. Moreover, Adam wasn’t Shiv. Where the former focused on staying sane, the latter was a mad bastard at baseline whose mind regenerated to a stable state regardless of what he did to himself, and so he could fully commit himself to being an emotional and psychological terrorist.
+
+“No,” the Culturist whispered after a few seconds of silence. “I tried to learn from her. Honestly. Most people would have found that prospect pure madness. She knew what I was. I knew what I was. Orcs always fall to their most brutal desires. But she accepted me. She taught me. She recruited me, and we performed missions for her Faceless Majesty’s Highest Service. Those were good days. Good times. She was… wonderful.” The orc’s voice grew fragile. “I tried to love her. Genuinely. I… I think I did. And I think she loved me too. Truly. Despite what I was. Despite what I would inevitably attempt to do.”
+
+Suddenly, Adam's headache was a secondary matter. His mouth fell open. “...What? She fell in love with you?”
+
+“I do not blame your incredulity.” The Culturist sighed wistfully. “It came as a surprise to me as well.”
+
+Adam's face twitched. “How… Are you playing with me?”
+
+“No. I thought she was playing a game with me. At first. But then she got us a pair of matching telepathic rings. That was more vulnerability than she offered anyone else. With who she was, it was more meaningful than it would have been for any other. For what greater expression of love could a spy grant?”
+
+Adam was utterly speechless.
+
+The Culturist changed into a normal sitting position, letting his legs dangle below the branch. “I slaked my desires elsewhere, and we pretended to be people for a time. I held the shape of an elven man, and she pretended to be herself. We ventured across Earth for twenty years. And they were good years. I kept the itch at bay carefully, and she remained open and honest with me constantly. And somehow we lasted.” Breathing in, he ran a hand across the side of his feathered cloak. “Toward the end, she made the cowl for me.”
+
+But the System wasn’t one for triumphant love. There was something else coming. Something cruel. Adam could feel it. “So. What happened? You finally lost control? You lost to the itch?”
+
+“No,” the Culturist said immediately, appearing almost offended. “I knew my limits. I was careful. I was prepared. Always. I knew what I am. She knew as well. We had our means.” Then the orc’s lips pressed together, and Adam could see a storm brewing behind his eyes. “Those twenty years were perhaps the best of my life. But the Challenger, though briefly amused by my cross-species dalliance, one day decided that he'd grown bored of my domestic bliss. And so another of my kind ‘found out’ about her and me. He was granted knowledge of my whereabouts. Without my knowing, he studied me. One day, when I was away briefly, the interloper came into our lives, transformed into my shape by a piece of equipment much like your friend's mask, and carrying a telepathic ring of his own. One that was given to him, meant to tap into unique Psychomantic mana frequencies. Something he used to complete his disguise. When I returned, I found her first. I found him after. I buried her. He is still alive. He has not reincarnated since.”
+
+With that, the Culturist elaborated no more. Adam’s mouth was dry; he was torn between asking if the orc was okay and moving on to something else as quickly as possible. He couldn’t be sure the Culturist wasn’t still playing mind games right now, but something about the story felt… hopelessly real. The Culturist was different from most orcs, the Challenger was bored and cruel enough to do such a thing, and the outcome was bleak enough to be a believable ending.
+
+Or he’s just using his charm on me. Damned orcs…
+
+“You should look through your notifications,” the Culturist suddenly said. “I managed to preserve your Awareness Skill. It was practically the only skill I managed to fully preserve. The rest of your soul, however… I think you will need a Hero-Animancer to examine the changes. The damage the Usurper-Narrator dealt to your soul was immense, but the Deathless did something to you afterward as well. I am not sure if it is what he fed you, or the pieces of divine flame he severed and sent into your body as shrapnel. But you have been changed. The damage is the least of what you now face.”
+
+“Changed?” The word left Adam as his heart ceased to beat. With a hollow feeling inside, he pulled up a flood of notifications that had been gathering in the back of his mind.
+
+Skill Gained: [Error—Path Altered]
+
+Skill Gained: [Error—Path Altered]
+
+Skill Evolution: [Error—Path Altered]
+
+Skill Evolution: [Error—Path Altered]
+
+Skill Fusion: [Error—Path Altered]
+
+Curse Lost: [Error—Path Altered]
+
+Skill Lost: [Error—Path Altered]
+
+Skill Lost: [Error—Path Altered]
+
+Path Lost:
+
+Archer
+
+“Oh, fuck.” The sight of his mangled eye socket didn’t bother Adam one whit. The ruin of his soul—of who he fundamentally was—brought him close to emptying his stomach again. “No… No… I can’t… I can’t be…”
+
+“Call upon your skill status,” the Culturist suggested gently. Adam hesitated. He didn’t know what he was going to see—didn’t know if he wanted to face whatever horrid truth was waiting for him. “It’s not all damage. There is something else. Something even I have not seen before. I would have consulted Legend Valor, but alas, I could only cross over to you because of our connection—and because I was no longer being blockaded by Evanescia’s power. I stabilized you as best as I could, but these changes are beyond me.”
+
+Mustering his shaking courage, Adam drew upon an overview of all his skills. The text that greeted him tightened his insides into dense knots of stress, and left him in utter disbelief.
+
+Name: Adam Arrow
+
+Age: 20
+
+Race: Changeling
+
+Path:
+
+Archer [Path Evolution Required]
+
+Feats [2/4]:
+
+[Error]
+
+[Error]
+
+Skills:
+
+[Error]
+
+[Error]
+
+[Error]
+
+[Error]
+
+[Error]
+
+[Error]
+
+[Error]
+
+[Error]
+
+…
+
+Seer of Horizons (Heroic) 200 [Skill Evolution Imminent]
+
+[Error]
+
+Blessings:
+
+Hero of a Thousand Fates (Unique - Standalone) - Stranger from afar, come to this verdant valley of stories and strife to walk your own Path in defiance of greater plots or divine schemes. You bear a mutilated fragment of a Highest Power within your soul. You have survived the will of the absolute, and emerged whole despite them. The taint of the gods slides from you like water off stone. Walk your own Path, Hero. A fate all your own awaits at the end.
+
+Curses:
+
+[Immune]
+
+“I don’t…” Adam licked his lips as he tried to process what he was seeing. “I don’t understand. I don’t understand.”
+
+“I share your dread,” the Culturist said. At some point, the orc had descended from his branch to arrive beside Adam. “I Analyzed you several times. At first, I thought the state of your soul to be terminal, that you were certain to die. But then I managed to hold onto your Awareness, and I realized something else was at hand.”
+
+“A Path… can evolve?” Adam breathed. His eyes were locked on a single line of text that defied everything he knew about the nature of his existence.
+
+“Not usually. Not naturally. Not to my understanding.” The Culturist went down on one knee so he could better meet Adam eye-to-eye, though he still had to lean down. “Paths are decided when they are bestowed upon us—or determined through our deeds. Were you bestowed, or did you earn, Young Arrow?”
+
+“Why does that matter?” Adam asked. He was still entranced by the [Path Evolution Required] text.
+
+“I’m not sure it does. Fundamental to our existence under the System's purview as they are, the nature of Paths themselves is not very well understood. But I do think that it is important to know everything about how your Path came to be so that we have a guess as to what it might become.”
+
+Adam swallowed. “E-earned. I earned.”
+
+“Are you sure?”
+
+“Yes!”
+
+The Culturist let out a heavy breath. “Your Blessing. I’ve never seen it either. Nor someone with complete immunity to Curses. It is unprecedented. The kind of thing that might draw Udraal Thann’s attention. Or might be his doing as well.”
+
+“No.” Adam shook his head. “If this was him, he would have told me. He already talked about what he was trying to do with my… my sister. He told me that he wanted me dead so that my father would take in Shiv. Godsdammit… I don’t understand.”
+
+“Breathe,” the orc whispered.
+
+Despite the animosity he held toward the Culturist, Adam listened. The orc may be a monster lurking inside his soul, but he might also be the only reason why Adam was still alive at all.
+
+Better the monster you understand and know… Adam somehow managed a sarcastic thought. “Could this… could this have been done by Shiv? By Uva?”
+
+“I suspect the former had a hand in things. You are likely still here because of him. But where either of your companions is is beyond me. Before you woke, reality fluttered in a rush of flipped pages as the seasonal loop restarted. Every dimensional pathway leading in was summarily closed off. But there is a difference in the air. There is more mana suffusing this realm as compared to before. Far more. And it only seems to be growing. I suspect that has something to do with the Deathless as well. I know not what the Broken Watchtower’s function is, but find it disquietingly possible that one or both of your fellow High-Favored have been given to the flames.”
+
+“No,” Adam immediately snapped. He refused to accept that. “They’re not dead. I would… I would feel it.”
+
+“Would you, now?” The Culturist’s voice wasn’t mocking, but inquisitive. “Hm. I would agree with your first statement. I do not think they are dead. But if they are truly alive and free of will right now is another question. A narratively bound Deathless is a very potent character to be trapped between the pages of a story. Or if the ever-building strife within him can be granted to the Fairwoods instead… Sister Mettabon would make that prize double at the least.”
+
+“What about Evanescia?” Adam ground out. Rage and fear washed through him as he remembered the featureless Fae, how she sank her hand into him, ripping out his eye and inflicting herself upon his soul.
+
+“Ah. The Usurper-Narrator. I glimpsed her through your memories when I was rebuilding your mind. I have not seen a trace of her either, and I have been wary. I doubt I can hide from her the same way I escaped your attention. If the powers she displayed thus far were any indication, she can possess anyone within the Fairwoods, and appears to be nigh-omniscient to all things within the borders of this dimension. But she has not come for us, and that tells us a few things.”
+
+“She might still be unconscious,” Adam said. “Uva—she managed to claim the body of one of those Red Riding Wolves. She knocked Evanescia out.”
+
+“That she did.” The Culturist let out a hearty laugh. “Quite the feat for our little burgeoning Seeker. But I do not think that is the reason why we are unharmed. The Usurper-Narrator is old and likely has contingencies against such things. After Uva struck her, she faded into the Fairwoods like she was a part of them. Since she has not come for you yet, she is either indisposed for some reason, unable to find you, or is watching passively.”
+
+“But why would she?” Adam asked. “I can’t stop her.”
+
+“We cannot stop her,” the Culturist corrected. “I suspect she would resolve me with little issue.” He noticed the look on Adam’s face. “This is not humility: She summoned the power of someone beyond Legendary-Tier. That Chronomancy Skill she used at the end was like nothing I could ever hope to muster. But she wouldn’t even need that. I would not be able to break out of her narrative cage as the Deathless did. I would become a prisoner immediately. And she is not the kind that leans toward mercy, considering what she did to your eye. That begs the question again: Why are we not being cast into the Flame?”
+
+Adam crossed his arms and tapped his fingers against his bicep. “So. She doesn’t know where we are, or she is playing a game of some kind. Or… maybe we are already trapped; characters in her book.”
+
+“A paranoia-inducing possibility, but why are you broken if such is the case? Why do I not remember being sacrificed to the Watchtower?”
+
+And the moment the orc mentioned the Watchtower, Adam flicked through the other notifications and felt his stomach twist in pain once more.
+
+Quest Failed: Stop the Usurper Queen from reassembling the Broken Watchtower.
+
+Failure: Cedes complete authority over Seasonal Resets to the will of the Usurper Queen.
+
+“She is not the kind to obtain a toy and not play with it immediately,” the Culturist said. “Not from her observed behavior. If my Psychology Skill’s simulation is accurate, she would have placed all three of you together on an adventure immediately to see how you react so she can better understand you, and find the right narrative to turn you hopeless and docile. Until you bend and fold to her artistic whims.”
+
+Adam saw where the Culturist was going. “Well. That leads us down another question: Why can’t she notice me?”
+
+“Perhaps due to your new and Unique Blessing. Perhaps it is what Shiv fed you still being active. Perhaps it is your new Path.”
+
+“New Path…” Adam muttered, almost unable to accept it.
+
+“You should try to evolve it,” the orc said. “You must. I understand you are scared.” He reached out and placed a large, warm hand on Adam’s back. A large, warm hand that covered his entire rear torso. “I understand. But I am here to do what I can to guide you.”
+
+“And I am your victim, not hers,” Adam added wryly.
+
+“No.” The Culturist shook his head. “The Deathless is my enemy and victim. My itch is dull now, but I will indulge using him if I can. I cannot promise I won’t harm you if the circumstances go sour, but I know which of you is to be cultivated through gentle labors, and which can be fed by fire and pain. You’re the vibrant, flexible, but gentle little flower in my garden. I must be careful with you. Somewhat due to Shiv, but mainly because your pain will inspire dark things in Valor.”
+
+Adam stared blankly at the orc. “Culturist. Never compare me to a flower again. Please.”
+
+“As you wish.”
+
+Disturbed by the orc’s analogy and despite the overwhelming existential dread festering within, Adam’s mind focused on the [Path Evolution Required] text once more, and a new notification appeared before him. The System’s presence felt different. There was a sense of foreboding in the air, like he was about to embark down a road without light, without a clear direction. Adam Arrow had always been a creature of day; shadows and darkness were adversaries to overcome, and the unknown was something to discover rather than to accept.
+
+But now he had no choice.
+
+That fight had left him broken and altered beyond his understanding. Without a proper Path or functioning skills, he couldn’t go out looking for Shiv or Uva—and no matter what he felt, he wasn’t going to abandon them to their fates. Ultimately, that defined him as he knew himself more than anything. Responsibility. To his friends. To his people. To his family. To himself.
+
+He wasn’t sure what the right thing even was sometimes, but he was going to try to do good as best as he could.
+
+There were already enough bastards across Integration. The System rewarded them enough.
+
+He just wanted the better angels to win for once.
+
+He wanted to be one among the better angels.
+
+He wanted there to be hope.
+
+Faintly, his Shattered Star flickered to life behind his head. It blinked in and out of existence, but when it burned now, it didn’t bring with it an azure light, but a myriad of colors—and the faintest trace of incandescence besides.
+
+Path: Archer [Path Evolution Required]
+
+Path Evolution Initiated
+
+Restoring Legend…
+
+The Culturist looked past Adam and let out a quiet gasp of awe. “What?” Adam said, briefly distracted by the notifications. But then he saw it: his Shattered Star was fully ablaze again—but the broken pieces were beginning to rebuild themselves. The fragments spiraled around Adam and expanded by his sides, becoming something that mirrored a set of wings. At the same time, a halo formed over his head as the Shattered Star rose overhead, settling in place like a crown of celestial flame.
+
+Domain Gained: Heroism

@@ -1,0 +1,31 @@
+---
+id: 6442500b-2358-5a5b-9a4f-9054e1fbbd8f
+page-type-slug: story-chapter-royal-road
+title: "New Story!"
+slug: 0794-new-story
+partOf: mythrans-master-of-all-continued-completed
+position: 794
+ownLength: 248
+unit: words
+publishedAt: 2018-12-21
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/317150/new-story"
+royalRoadId: "317150"
+---
+
+This is going to be an anthology book series that focuses on stories that have cool concepts. I will be writing / rewriting and expanding, and in some cases make completely new, some of the things I have read and seen. The prologue sets up this series, and each book will have a different story. I'm planning on 30 to 60 chapters for each book.
+
+I hope to publish daily with occasional breaks.
+
+The first story is a complete rewrite / retelling / massive expansion / only using some of the ideas from Reborn Into Starwars! Summoned into Fantasy by TTT144. Yes, I have permission. Although, I've actually created a whole new universe for it to exist and it's not Starwars. It's my own creation.
+
+The Hunter trilogy has been completed.Bookworld Online: The Rogue Necromancer has been completed, too.
+
+I've been writing another story, called Morbid, about a boy named Arnold and his adventures in normal (and weird) life.Fair Warning: there's some sex scenes in it and profanity, and Traumatizing Content. The tags are on it.
+
+Update: Apparently, the warnings and tags weren't enough and Morbid has been removed from here for excessive sexual content. It's currently being reuploaded and edited on another site, Scribblebub.
+
+I have submitted another story and am just waiting for approval.
+
+It's called Bookworld Online: Marsh Man. Go give it a try.
+
+If you want to read some of my other works, just click my profile and click Fictions. It lists them there

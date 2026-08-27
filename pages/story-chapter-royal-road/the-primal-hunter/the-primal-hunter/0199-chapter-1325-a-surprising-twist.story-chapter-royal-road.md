@@ -1,0 +1,159 @@
+---
+id: 5616ecae-4b87-54ec-8581-5de71364d9fd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1325 - A Surprising(?) Twist"
+slug: 0199-chapter-1325-a-surprising-twist
+partOf: the-primal-hunter
+position: 199
+ownLength: 2872
+unit: words
+publishedAt: 2026-06-02
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3483385/chapter-1325-a-surprising-twist"
+royalRoadId: "3483385"
+---
+
+Miranda was slow to react as the sudden attack had come seemingly entirely out of the blue. He hadn’t given off the slightest killing intent, and even as he unleashed his attack, his facial expression remained neutral.
+
+Despite her too-slow reaction, Miranda managed to teleport backward, as Holstred was far faster, and successfully blocked the initial blow. Lillian and the wyvern weren’t as lucky, though, as both were struck hard, spewing blood into the air as the sole C-grade of their group lost his arm, and Lillian had her entire chest region cut up.
+
+A ritual circle appeared beneath Miranda as she prepared to unleash a counterattack, but suddenly, William retracted all his metal strings and just stood there as Holstred’s sword hit him across the chest, sending the metal mage flying backward and into one of the indestructible walls of the space station.
+
+Miranda took the chance to surround the mage with a sphere of mana, ready to unleash an attack of her own as she yelled.
+
+“What the hell are you doing!?”
+
+His actions made no sense at all. He’d attacked, only to not follow up, but instead allowed himself to be struck by Holstred. It was utterly nonsensical.
+
+The metal mage slowly stood back up as blood dripped from his mouth and onto the floor.
+
+“That confirms it,” he muttered, looking up at the group. “This isn’t real.”
+
+Miranda’s movement immediately stopped as her eyes opened wide. “You mean... this is a simulation?”
+
+“Yeah,” William slowly nodded. “And I believe I’m a simulation. So is everyone else besides you.”
+
+“Do you have any proof?” Holstred asked, not having let down his guard or lowered his blade.
+
+“Nothing besides the circumstantial,” William shook his head. “The circumstances make no sense, and every prior stage has been part of a simulation. However, I do believe you can prove it to yourself. Feel how the concepts behind your attacks feel slightly off, and especially take note that we appear unable to improve our understanding or power in any way. Our current states are set, because we cannot gain more Records as simulations.”
+
+“Is that how you figured it out?” the wyvern asked, a new arm already rapidly regenerating, and the beast seemingly not at all offended after suddenly being attacked.
+
+“No, I just felt that my karmic connections with everyone felt off,” William shook his head. “Usually, merely being in proximity with one another altered karmic relations, with this effect being more pronounced when conversing and spending time together. Yet the connections between everyone here remained entirely unaltered. The only one who seemed to have the slightest shift in her karmic bonds was Ms. Wells, leading me to conclude she’s the only one here who isn't a simulation. My earlier attack should have caused a drastic shift in our karmic connections, yet the only change was, once more, with Miranda. So while I don’t have any physical proof, I’m entirely confident everyone besides her are simulacrums.”
+
+“You mean to say the system purposefully made a flawed simulation, and the purpose of this stage is to realize we are in a simulation?” Miranda asked, “Or, I guess if I’m the only real person here, I’m supposed to realize I’m in one.”
+
+“I don’t feel like a simulacrum,” the wyvern muttered as he closed his eyes for a moment. “But I do agree, something is amiss. I cannot meditate on a certain natural treasure I’ve absorbed, which I was able to do even within the second and third stages. So something is definitely different about me.”
+
+Lillian, who was pretty hurt, had finally managed to recover somewhat as she sat on the floor. “So if we’re all simulations and she’s real…”
+
+“I assume all of us are in separate simulations with our actual selves, undergoing identical tests,” William shrugged.
+
+Miranda listened and slowly nodded, finding herself somewhat convinced, though a small fragment of doubt still lingered. “I want to perform some more tests to confirm the truthfulness of your words.”
+
+“Feel free to,” William nodded. “I believe you would have figured it out even without me here, given the ten days available to do so. As for me... my true self will see you on the other side. I do hope you won’t have any animosity due to the actions of this simulacrum.”
+
+Without any further warning, William summoned his metal strings once more, making them whip around his own body before they proceeded to cut him up into dozens of pieces, killing him instantly.
+
+The other four stood there and stared at the metal mage who had just killed himself in a perhaps unnecessarily gruesome way.
+
+“So we have to kill ourselves or what?” the wyvern asked, not seeming very keen on the idea.
+
+Miranda didn’t answer as she just stood there for a bit. William had seemed so utterly convinced this was indeed a simulation that he was willing to kill himself. If not, he would have truly just died.
+
+Within the simulated stages, one couldn’t truly die... and the system had said that the Administrator Test would take place within a simulation...
+
+That’s when Miranda realized something. She had assumed that whenever they were teleported by the metal platform into the Tutorial and, later, into the world with the Unnamed City, they were entering a simulated world. However, what if they’d been inside it from the very moment they were summoned to the Seat of the Exalted Prima?
+
+The more Miranda thought this, the more she convinced herself.
+
+“If that’s what we need to do, then I’m more than willing to take the gamble and-“ Holstred started saying, but he didn’t get further as Miranda’s gaze shifted.
+
+She blinked, and rather than standing in the bloody hallway, she found herself in a garden, with stars shining down through the glass bubble overhead, giving the entire hemisphere an ethereal glow.
+
+“Welcome to the Administrator’s Terrace,” she heard a familiar voice from off to the side as she saw William sitting relaxed on a stone, reading a book.
+
+“I take it you’ve been waiting for a while?” Miranda asked, after getting her bearings and now believing she was finally back in reality. She also wasn’t surprised, seeing that William had managed to break out of the simulation before she had, given that he was effectively the one who broke Miranda out of hers.
+
+“Not that long,” William politely responded, closing his book and putting it away. “You were also rather fast. It only took you a few hours, with ten whole days available.”
+
+“Only because your simulacrum realized something was off,” Miranda sighed, shaking her head. “And given that I would expect the others to arrive shortly.”
+
+“Oh,” William muttered as he was in thought for a couple of seconds. “It may actually take a while. Even if my simulacrum realizes something is off, it won’t dare take action right away. I would guess the only reason it did in your simulation was that it recognized you as the only real existence. If it were me, which the simulacrums are, I would need a lot more certainty before daring to take action against you.”
+
+“That’s a little comforting, I guess,” Miranda said, not sure if he was being truthful or wanted to reassure her. Either way, the actions of his simulacrum would prove whether his words were true or not. Perhaps another hidden benefit of this system event. “Say, have you just been sitting here waiting?”
+
+“I have,” William nodded. “I’m fairly sure we’re supposed to head over there, but I assume you will need to be the one going there first.”
+
+William pointed toward a faint beam of light at the other end of the hemisphere, looking almost like an objective marker from some video game.
+
+“That does sound accurate,” Miranda said with a light smile. The objective of the final stage wasn’t merely to enter the Administrator’s Terrace, but to claim her role within it. “Rather than waiting around, let’s head over there now and see if there’s more to this stage than breaking out of the simulation.”
+
+Miranda didn’t believe there would be, but seeing as their destination was only a couple of hundred meters away, it would be truly foolish to sit around and wait, only to learn that they weren’t fully done with the Administrator Test yet.
+
+The metal mage nodded and stood up as Miranda started walking toward the light beam. The two of them quickly got there and saw a simple wooden gazebo right under the light beam. When Miranda saw it, she noticed that the beam covered the entire gazebo, prompting her to turn to William.
+
+“Hey, try to enter,” she asked him, mostly to satisfy her own curiosity and confirm something.
+
+“Alright,” William nodded as he walked over to the faint beam of light. When he reached out to touch the light, his hand stopped, making the metal mage shake his head. “As you probably guessed, I can’t enter.”
+
+“Good to confirm,” Miranda nodded as she also walked over, and upon reaching out, her hand faded through the light effortlessly, allowing her to enter the gazebo. William, who stood just outside, also suddenly had his hand phase through right after she entered, confirming it was a requirement for the Administrator Candidate to go through first.
+
+Inside the gazebo was a single table with small open boxes lined up on it. Each of the boxes contained a single ring that looked similar to the one she’d seen Jake with, though this one appeared far less complex.
+
+It wasn’t hard to figure out what to do next as Miranda picked up one of the rings. As she did, a system message appeared, marking the true end of the Administrator Test.
+
+Congratulations, you’ve passed the final stage of the Administrator Test. You have been successfully promoted to Administrator of the Seat of the Exalted Prima.
+
+Rewards: Administrator’s Seal of the Exalted Prima (Epic). Participation in the Chief Administrator Selection.
+
+Using Identify on her new ring, she confirmed it was a much lesser version of Jake’s mythical rarity ring. This one still gave some stats, but its primary function was that it could teleport her back to the Seat of the Exalted Prima.
+
+“Well, that’s it,” Miranda said, looking at William. “You should also take a ring and become an Administrator.”
+
+William stared at the boxes hesitantly, as he looked conflicted. “I’m not sure I should. I have no intention to compete with you or Lord Thayne for the Chief Administrator role, and even if the two of you somehow don’t end up with the title, there are others the role would fit better.”
+
+“Oh, I know,” Miranda nodded, not wanting to hand William more organizational power than necessary either. “However, we don’t know the nature of the Chief Administrator Selection. If it’s a vote or something where each Administrator can take the role of supporting another, it would be beneficial for us to have as many Administrators on our side as possible.”
+
+Miranda didn’t believe anyone in the Milky Way Galaxy would be foolish enough to compete with Jake, but she still felt the need to consider the option. There were also some slightly unknown factors, such as Kindroth already being an Administrator. It was a bit of an open secret that his god, and thus Kindroth himself, had a connection with the Holy Church, and the Church had proven itself very bold in the past. Again, she didn’t believe he would try something, but preferred his current role of working with the Milky Way’s leadership. That didn’t change the fact that he led the most populated planet in the galaxy and had a lot of pull when he really wanted to, though.
+
+Compared to him, William felt like a safer option, even if he probably shouldn’t, given his substantial personal power and former connection with the Primordial of karma. A connection Miranda didn’t believe could ever be perfectly severed, as there was no way a Primordial would simply give up and forget about someone he’d invested quite a bit into as a research subject.
+
+“Alright,” William agreed with a sigh as he also took a ring, becoming the second Administrator promoted that day, jumping straight past the Candidate stage.
+
+With rings in hand, the two of them went outside the gazebo, with Miranda taking out a set of chairs and a small garden table. The atmosphere was nice, and Miranda had nothing against waiting there for their three other party members to arrive.
+
+However, the next person they saw was not a member of their party. A human walked towards the gazebo and naturally spotted Miranda and William, who were not trying to hide themselves. She recognized this person as one of the higher-ups of Valhal in the Milky Way Galaxy and gave him a nod. The poor guy looked rather nervous as he went in and took a ring.
+
+Six more people ended up appearing before any of Miranda’s party members made their way to the gazebo. From what she gathered, they came from three separate groups, and all of them were people who were already considered part of her “camp.”
+
+The eighth person to arrive was Lillian, and to Miranda’s surprise, it wasn’t even William who had been the primary reason for her realizing something was wrong. She’d detected that things felt off herself, and once she voiced her thoughts, William had come out in agreement, helping Lillian confirm to herself that it was indeed all a simulation.
+
+When it came to the wyvern and Holstred, William was the primary reason they realized something was off, but it sounded like they had started to suspect things themselves after about a day and a half in the simulation. In other words, their group of five had all successfully passed the final stage of the Administrator Test with a nice eight days remaining.
+
+Eight days that Miranda would spend menacingly sitting right outside the gazebo, taking note of every single person who became an Administrator, while also making damn sure they knew that she knew.
+
+Better safe than sorry when it came to the Chief Administrator Selection, which was what truly mattered. Ideally, these hundred days with the Administrator Test would end up being a complete waste of time besides any gains from the experience itself, as Jake ended up being the one selected anyway.
+
+But unfortunately, things often didn't go ideally.
+
+“I’ve been called back by the Malefic One,” Jake said to the Great Sea Serpent whom he’d invited into his cave. He motioned to his surroundings, making the ritual circle give off a faint glow. “In my absence, you are to defend this circle, as its destruction would be an inconvenience.”
+
+The peak A-grade nodded in acknowledgment as he carefully inspected the ritual circle, something Jake had hoped the snake would do. It would help sell Jake’s competency as there was no fucking way the Great Sea Serpent could understand head or tail of the damn thing. Jake had no idea how it worked; he had just followed the blueprint to the letter.
+
+“Truly a marvelous creation,” the serpent said, full of admiration. “If you are required elsewhere, would I have the honor of escorting you past the Boundary? I will warn you, though. I have detected several of the major forces keeping track of my location, including the Bog Lord, who appears to have been informed of your presence.”
+
+“That’s of no concern,” Jake said, shaking his head. “This magic circle will allow me to travel directly beyond the Boundary in a fashion entirely undetectable to the natives of this world. Since no one has dared look inside the cavern during these last few months, they will simply assume I’m still here if neither of us leaves.”
+
+“I see. Truly, our ignorance knows no bounds. The power of the Malefic One is truly beyond comprehension, which is why this may be presumptuous of me, but could I be witness to the activation of the ritual?” the Great Sea Serpent asked, striking Jake as very nervous.
+
+“Very well,” Jake simply agreed, knowing the snake wouldn’t get much out of it. “Also, regarding your promise of bringing me to meet the other factions again within a year, I’ll try to think of a solution.“
+
+“Pay it no mind, I shall address that situation when the time comes,” the peak A-grade said, seemingly not even thinking about it as a real problem.
+
+“I’ll think about the matter nonetheless,” Jake said as he raised a hand in a theatrical manner. “May we meet again.”
+
+“If and when the Malefic One wills it, so we shall,” the Great Sea Serpent answered, slithering back as Jake activated the teleportation circle.
+
+A faint connection was established that Villy took hold of, and through his power, Jake was whisked through the void and back to the Order of the Malefic Viper, where his final preparations for the Chief Administrator Selection would take place.
+
+That, and what would come after. Because once the Milky Way’s Seat of the Exalted Prima had been claimed, it was time to look towards the other myriad galaxies of the ninety-third universe that had their own Seats.

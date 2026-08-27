@@ -1,0 +1,133 @@
+---
+id: dfb7330b-b93b-5dd7-b864-be88852bef1b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1340 - A Peaceful Faction"
+slug: 0214-chapter-1340-a-peaceful-faction
+partOf: the-primal-hunter
+position: 214
+ownLength: 2866
+unit: words
+publishedAt: 2026-06-25
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3589421/chapter-1340-a-peaceful-faction"
+royalRoadId: "3589421"
+---
+
+The first week within the World of the Exalted Prima had been a rather relaxing one, allowing everyone time to prepare and plan how they wanted to approach the event. People experimented, worked on professions, constructed defenses, and overall just mentally prepared themselves for when the event would truly begin.
+
+As for the second week? It was the exact opposite. A complete slaughter and period of pure panic as all the forces tried to rapidly expand, crushing all others in their way. Only the Territories that knew they were weak tried to play defense, hoping to perhaps convince an invading force they were better off as Vassals than eliminated. Unfortunately, this very rarely worked, as why would the powerful factions want weak allies?
+
+Things were more violent when factions that were already enemies met one another. The Holy Church and Risen ended up with many bordering Territories within the first few days, and despite it perhaps not being the best strategic move, both factions refused to back down and went all out against one another.
+
+Some did get very lucky with their placement, though, even if they were in proximity to one of the major factions in the multiverse. Of course, there were those who happened to be placed next to allies or even to other galaxies already ruled by their factions, making alliances a natural next step.
+
+However, even in cases where it was an entirely different faction, one could get lucky and be placed next to a faction with no intent to rapidly claim other Territories. The Court of Shadows had no great desire to control a large area, as that would only make it harder for them to defend. All they would do was destroy at least one Beacon for each Territory, seeing as they had no desire to be eliminated.
+
+Most other factions also gladly approached the Court as allies despite their small area, knowing that the organization of assassins was nothing if not trustworthy once an agreement had been reached. Some weaker factions even “hired” them and formed alliances to gain protection from the Court.
+
+The actions of the large factions were often predictable, as they had a clear MO and a well-known code of ethics. That’s why most breathed a sigh of relief when placed next to the Dao Sect, as they were known to be pacifistic in most cases, preferring to avoid conflict unless absolutely necessary.
+
+This expectation was precisely why the Dao Sect’s actions took everyone by surprise.
+
+There was no sign of their otherwise peaceful demeanor as the Dao Sect’s forces swept across any area they were placed in, destroying every single Territory Beacon unfortunate enough to be close to their starting locations. There was no mercy, no negotiation, and no desire to take any Vassals or form alliances. Just pure slaughter.
+
+Even the other major factions were not spared. The United Tribes, Dragonflights, Holy Church, Risen, Endless Empire, Altmar Empire... any faction, no matter who it was, they would gladly engage in combat, the members of the Dao Sect even showing happiness when they got the chance to battle the more powerful factions. Even the Order lost several Territories to them.
+
+This sudden shift in action came as an utter surprise to many who believed they had a solid understanding of the Dao Sect, and the matter seemed extra odd as the demeanor of the Dao Sect’s members remained the same. They were polite as they slaughtered armies, spoke kindly while ripping off one’s head, and gave compliments for one’s efforts and valiant resistance as they obliterated the Territory Beacon.
+
+There was no malice in their actions. No true aggression or killing intent either. Instead, it was more like every battle was nothing more than a friendly spar from their perspective, and that killing one another was a valuable experience for both parties. Even as Dao Sect members died, they did so with smiles on their faces and looks of reflection, never holding even the slightest shred of negative emotions
+
+Clearly, their mindset regarding this event was vastly different from usual, and many wondered why, though they didn’t have much time to, as they instead had to deal with the fact that the Dao Sect had entered this event with the intent of fighting seriously. Something that had rarely happened before... and the prospect sent a shiver down the spine of all those familiar with the faction led by the Daofather.
+
+“Appears real, yet is clearly not,” Eron said with a smile as he watched the ‘life’ fade from the eyes of the Chief Administrator. Yet, despite life fading, the spark remained lit as it merely disappeared upon death, having returned to the true world once more.
+
+He also knew that even these sparks were not entirely as they should be. They were wrapped in something foreign, something that should not exist. Something artificial, reminding Eron at every moment that he found himself within a simulation and not the real world.
+
+Eron kept watching as yet another Territory Beacon fell a moment later, the woman responsible for its destruction appearing in front of him shortly after.
+
+“I believe we are done here,” she said, a hint of disappointment in her voice.
+
+“We are,” Eron acknowledged as he looked her over. “I understand you find this unsatisfactory, but we are sure to meet worthy opponents. Perhaps not today or tomorrow, but we will encounter them.”
+
+“I know,” she said with a nod as she looked toward where the Chief Administrator had turned into motes of blue light. “I simply feel that neither my opponent nor I have benefited from any of my bouts thus far due to the disparity in power.”
+
+“Suffering defeat at the hands of those far superior to oneself is a valuable experience in its own right. Allows your opponents to broaden their horizons and look toward greater heights. Yes, some might become discouraged, but others will set you as their new goal and push forward, making you a memory to temper their Paths,” Eron said in a comforting voice.
+
+“Perhaps you’re right. I just prefer when it’s a mutually beneficial interaction,” the swordswoman sighed again before turning serious. “As you said, all we can hope for is that the next opponent will be more suitable. Do we continue the expansion?”
+
+“We shall,” Eron nodded, and the disciple waved her hand as another similarly dressed swordsman who had been waiting nearby teleported over and cupped his hands, standing behind her without saying a word. Despite them both having the same rank, she was his senior, and the Dao Sect had a stringent culture of respecting seniority.
+
+Eron set out toward the next area with the two of them, occasionally getting information about more successful missions elsewhere as five teams had been deployed from his Territory, each with power rivaling the two escorting him.
+
+As the Chosen of the Lifesoul Daolord, Eron had also been given the role of Chief Administrator in one of the larger galaxies ruled by the Dao Sect, and considering he was not specialized in combat, had been assigned people who were.
+
+Ten B-grade core disciples of the Sword Palace had become Administrators alongside him and entered the World Wonder to guard him and assist Eron in his endeavors. Eron was still relatively new to the Dao Sect and found it a little silly to call these people disciples, but that was simply how the Dao Sect operated. One was either a disciple or an elder, and all elders were gods. Which isn’t to say all gods were elders, as even some gods remained disciples even after their ascension.
+
+The Dao Sect was a faction very different from all the others in the multiverse in many ways, which was also why they found themselves so isolated. Their members rarely, if ever, gained power through killing. Instead, they walked Paths that allowed them to progress without violence. Even those specialized in combat could continue to grow merely by improving themselves, though they had to undergo trials, some of which could prove fatal or lead to the total collapse of the soul.
+
+Due to this, the members of the Dao Sect didn’t have much true combat experience. They had some, and they sparred regularly while also fighting within spiritual journeys created by elders or other powerful members of the sect, but true life-and-death combat wasn’t something many of them had seen.
+
+Killing another meant forcing a soul back into the cycle to be cleansed of all comprehension and understanding of the world. It was to rob someone of their experiences, rob those who held them dear of someone they cared about, and destroy any potential for a future for that person. And all one would get in return was a karmic debt.
+
+To clarify, this reluctance to kill was no mortal judgment, but one grounded in the Daofather’s ideological belief that the purpose of life was to comprehend the mysteries of existence, and that killing would only set back the combined comprehension of all sapient beings in the multiverse. That didn’t mean they would act to stop others from killing, either, as respect for others’ Paths was also a core creed. There were instances where the Dao Sect would move to slay someone or a faction, but those were few and far between.
+
+Sometimes, members of the Dao Sect also went out into the world on pilgrimages, with some having taken part in the Nevermore Leaderboards event and the like. Eron was one such example, as well as the party members he had entered with. Plus, seeing as Nevermore was a World Wonder and a dungeon, it was far more acceptable to kill and act violently in the mega-dungeon compared to in the outside world.
+
+Still, the vast majority of their elites hadn’t taken part in Nevermore or any other similar public event. Unlike other Primordial factions, the Dao Sect didn’t care much about their status or using an event like Nevermore to recruit members. At least not directly.
+
+Yet, for the World of the Exalted Prima, and even when it was a competition for the Seat of the Exalted Prima, the Dao Sect had gone all in. This had not seemed suspicious to others, as the faction was known to take part in events like these, and they did take over galaxies, nearly always to the betterment of those living there. Killing Prima Guardians was also a given, as the system-created creatures had been inherently antithetical to the teachings of the Dao Sect.
+
+Even so, many questioned why the Dao Sect would be so aggressive within the World of the Exalted Prima, despite the answer being incredibly obvious:
+
+Because none of it was real.
+
+Within this world, there was no death. No true loss. Temporary setbacks, yes, but there was never any threat to life, no matter how hard one fought. Yet, at the same time, it was fully realistic, creating the best environment for those who wanted to avoid killing to still gain life-and-death experience.
+
+It was the ultimate sparring ground. The ultimate chance to battle the geniuses of the multiverse in true combat and learn from one another. It was all like one giant spiritual journey for the soul, but shared with everyone else. A collective opportunity for growth for the entire multiverse, and the Dao Sect would be foolish not to take part and enjoy it. Those from the faction focused on martial skills did like fighting, after all.
+
+Finally, they acted like this because it was the will of the Daolords. They had been tasked with doing their best to ultimately claim the World Wonder. For such an order to come from the supreme Daolords was rare, especially when all of them agreed in unison, as, contrary to the belief of many outsiders, the Daolords were actually quite competitive with one another, and the internal factions within the Dao Sect were often in conflict. All for mutual improvement, of course.
+
+“Eron, there appears to be another force ahead,” the swordswoman said as she spotted potential enemies far before the Bloodline Patriarch could.
+
+“Can you see where they’re from?” he asked in a calm tone.
+
+“Not from this distance,” she shook her head. “But they do appear humanoid.”
+
+“Perhaps the Holy Church again,” Eron muttered, wondering if his Territory would take down the third Beacon of the Holy Mother’s faction within the first week.
+
+“No... no, it does not appear to be them,” she said with a slight frown as they got closer, before her eyes suddenly opened wide, glimmering with delight as she smiled with glee like someone who’d just gotten accepted into medical school. “Ah!”
+
+“Oh? Which faction?” Eron asked, mirroring her smile.
+
+“Valhal!” she said with excitement as she sped up her flight.
+
+Eron could only let out a sigh and shake his head with a light smile. Valhal should be a good opponent to temper the disciples, and if need be, he would support them. While he admittedly wasn’t much of a fighter himself, that didn’t mean he wasn’t confident in beating, well, pretty much anyone.
+
+Or, at the very least, force a stalemate. Few could slay the unkillable, after all.
+
+Again, Jake thought disappointed as he watched the blue motes of light fade away, as all that had been summoned by the now destroyed Territory Beacon faded away into nothingness.
+
+“That makes it... damn, thirty-nine already?” Jake muttered to himself, having really gone on quite a tear over the last week. Nearly forty Beacons had been destroyed by him alone, and throughout it all, he’d met a grand total of zero opponents he couldn’t effortlessly kill.
+
+Making matters worse, the majority didn’t even try to fight. They put up some symbolic resistance, asked to be made Vassals, and upon rejection, gave up entirely. Jake would have at least wanted to see more types of summoned defenses, or maybe gather more intel on how difficult it was to destroy barriers at different upgrade levels, but nope, nobody wanted to give Jake even that. Which, fair, they didn’t really owe him anything, as he had kind of come to destroy their stuff.
+
+Also, despite invading so many Territories, Jake had not encountered a single major faction yet. He hadn’t even met a faction affiliated with a major faction. At least not to the point where they tried to use it as a defense to keep Jake from attacking them. Making matters worse, none of the other invading forces sent by the Milky Way Territory had encountered major factions either, making him feel as if they were really on their own little island with no worthy opponents anywhere nearby.
+
+While Jake found this incredibly disappointing, Miranda was ecstatic. Their Territory was expanding rapidly, and as they grew in a circular pattern, they increased the buffer zone between their borders and the Beacon every single day. That, and the daily income was only going up.
+
+The fact that they weren’t in any immediate rush to expand their defenses also meant Miranda could focus on some of the special structures suited for long-term plans. Jake hadn’t been back to the Beacon since leaving to conquer their many neighbors, but he was confident that by the time he returned, the city would be entirely different from what it was now.
+
+Regarding the others from his Territory, they had at least found some challenge, though that was only due to their inferior power. Especially one person had managed to have some truly good bouts.
+
+The Northpeak Wyvern had taken part in many attacks and fought several B-grades while still only a peak C-grade himself. In his latest battle, only a day ago, he’d even faced a Chief Administrator in a prolonged battle that took several hours, with the wyvern coming out on top, half-dead in the end.
+
+A peak C-grade in this kind of system event, truthfully, wasn’t that useful, even if that peak C-grade was powerful for their level. The disparity between grades was simply too big, and the kind of opponents they would end up facing were geniuses who had been fully capable of also crossing grades on their own.
+
+That’s why it was fortunate that it would no longer be an issue for the big ice lizard.
+
+Jake had started flying toward the next Territory where he happened to overlap with another group from the Milky Way Galaxy. A group that had suddenly grown explosively more powerful within the last day, and as Jake approached the border, he saw something glinting in the distance.
+
+A large, scaled creature more than a hundred meters in length flew in the air, reflecting the sunlight from above using its body that seemed to be made entirely of ice. The very air itself froze in its surroundings, and with every wingbeat, cold winds capable of creating a new temporary ice age for anything below blew.
+
+Looking good, Jake thought with a smile as he used Identify on the newest asset of the Milky Way Territory, as they could no longer refer to the Wyvern as, well, a wyvern.
+
+[Boreal Frostpeak Dragon – lvl 350 - Divine Blessing of the Everfrost Dragon God]

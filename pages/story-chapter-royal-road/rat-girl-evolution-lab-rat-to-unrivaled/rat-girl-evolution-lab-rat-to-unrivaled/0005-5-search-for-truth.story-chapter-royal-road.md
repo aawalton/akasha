@@ -1,0 +1,207 @@
+---
+id: 29b31e34-0726-5990-b6f7-e23aa25fc781
+page-type-slug: story-chapter-royal-road
+title: "5: Search for Truth"
+slug: 0005-5-search-for-truth
+partOf: rat-girl-evolution-lab-rat-to-unrivaled
+position: 5
+ownLength: 2513
+unit: words
+publishedAt: 2025-09-04
+link: "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2572842/5-search-for-truth"
+royalRoadId: "2572842"
+---
+
+Coming to the decision that she needed to find humans was far easier than actually finding them, and making her way down the river was just about the best option that came to mind. Everyone needed to drink, after all. Even humans.
+
+At first, the foliage she needed to navigate only grew thicker and more troublesome the farther she grew from the human buildings. It was thick enough to force her to often drop back onto all fours, which felt more natural, almost, although she regretted the loss in visibility from being so much lower to the ground, amongst the thick undergrowth that had threatened to trip her in the first place.
+
+At times, she even needed to slow to a crawl, until with frustration she gave up on the idea entirely, choosing to splash through the river until it thinned out again.
+
+It’s not pleasant to make this much noise, but if they’re pursuing me, I might as well prioritize speed. I need to get far enough away that I can focus on food.
+
+All of the plants she had tasted so far had been worthless: far too bitter, tough, or lacking in substance. They were incomparable to the grapes, or even to her dull, grassy-looking pellets. Still, the rat tore off one of each that looked different, chewing on them forlornly until she could find something, anything to eat.
+
+The gnawing of her teeth on the plants was only a manifestation of the gnawing in her stomach by her hunger, after all. She needed food, needed to eat, to ease this pain, to fuel her body so it could grow—
+
+Grow? As in grow more human?
+
+Maybe she didn’t need food after all.
+
+If it was just going to result in her growing more mutated, more monstrous, then there was no need for her to keep eating.
+
+Although, if she didn’t eat, she would die, right? Just wither away to nothing, become a corpse? Or….
+
+Visions flashed before her eyes, of those other rats in the cages, stripped of what made them themselves, left in shells of bodies that were no longer their own. Better to die than to become like that. Better to become like that than to become human.
+
+“No, that’s why I can’t die.” She said the words aloud, as if trying to convince herself of them.
+
+“I’m not that selfish.”
+
+If they were left alone, to their own devices, there would be more rats like that. She wasn’t nearly foolish and naive enough, despite her lack of worldliness, to make the mistake of thinking that burning the inner-world and outer-world she had come from would be enough to stop them for good.
+
+Light.
+
+She dove back into the bushes, which had now thinned out, and then froze.
+
+There, off in the distance, flickering lights. Tiny from how far, blending together into a single blob of orange and yellow blurriness she could hardly tell didn’t share a single source.
+
+Did lights mean humans?
+
+She had never seen any other creature use lights, but then again, she had never really seen any other creatures at all, apart from humans and rats. Glimpses of other things, in other cages, but how could she know what they really were, or what they really did, while they were still locked away in a cage like that? It wasn’t a real way to find out what they were capable of, how they lived. No more than it had been for her.
+
+She needed to get closer.
+
+This time she went low to the ground on purpose, gripping dirt, roots, and rocks with paw-hands a fusion of both human and rat, creeping under vines and through bushes while doing her best to not rustle even a single leaf.
+
+The crackle of flames, well contained. The sound of voices, chattering in words outside the range of her hearing. The smell of roasting. That of roasting flesh and other things cooking. All human things, or at least those not the domain of rats. She crept closer still.
+
+There were four of them… No, there were five, no, six. Two off to the side, looking outwards into the woods while the middle four sat around a large fire, one that gave off those scents of food that made her belly react as though it planned to rip its way out of her abdomen and drag itself over to rob them blind of anything even slightly edible.
+
+That was, anything she could eat in good conscience.
+
+She could still smell the scent of blood and death. As she drew closer, she could see it as well. Hanging from the tree within their circle of light, corpses, strung up and dangling. They were rat-like, or closer to rats than humans, at least.
+
+Bigger hind legs, longer ears, and shorter tails. But certainly still in the same family. And in the expected fashion of any who humans laid their hands on, they reeked of pain and suffering, limp corpses dangling from ropes even as another of them was charred over the fire.
+
+The lookouts held torches, foolishly. The light was on them, right up by their faces, meaning it would look all the darker over by where she was, by comparison. She didn’t know how well humans could see in the dark normally, but blinding themselves was probably only going to worsen any such disadvantage in that category.
+
+Should she sneak around them?
+
+It would be smarter, probably, only…
+
+She didn’t have another way to get food.
+
+Wandering around in the forest and just hoping to stumble on to an edible source of food would give her a limited time span, certainly. Maybe longer than dying here, but then what? She needed to progress in order to go back, rather than running forever, and how was she to do that? How was she supposed to progress to the one who humans feared, when she spent her life fleeing from them at every occasion?
+
+Something started burning, something deep inside her, as she observed them. Weak, so weak. None of them that she could see gave off even the slightest hint of mana, and while that only meant they weren’t using any, her watch used a tiny bit just to keep itself active, so they didn’t have those….
+
+Wait, could her watch be used for this? She had, she had had something…
+
+She tapped on it, bringing back the oddly echoing voice, and hit the same part as she had originally.
+
+[Current level is 3]
+
+[Loading current statistical ability measures…]
+
+Stats successfully measured.
+
+Total mana: 9
+
+Current Mana: 9
+
+Mana power: 4
+
+Mana control: 3
+
+Physical enhancement: 3
+
+Mana regeneration rate: 3
+
+One spell point available.
+
+Four spells are currently available for unlocking.
+
+Which spell would you like to unlock?
+
+Currently available spells.
+
+Energy Wall: A wall of raw kinetic energy formed from mana, which stops anything until breaking.
+
+Flame Stream: A stream of fire ignited by mana, fired in a straight line.
+
+Freeze Stream: A stream of freezing air cooled by mana, fired in a straight line.
+
+Enhanced Impact: A burst of force emitted from the point of impact when striking with the hand wearing the system watch.
+
+Yes, a “spell point”.
+
+Interesting…..
+
+Fire and freeze were both attacks of some kind, she could only assume. And attacks would be helpful, certainly. But would she just end up using all her mana in order to set them on fire? And what would a “freeze stream” even do?
+
+It would hold them in place? Would they freeze, or would the air? Freezing the air is such an unclear phrase…. And then, does that keep them frozen in place even after it ends? It wouldn’t, right? That would be even more dangerous to rely on than the fire, then. If there was only one, she could freeze them with the watch while cutting their throat, but with five there was no way her mana would last.
+
+Defense would be the same problem, with energy wall. It was useless at actually ending anything, and with only 9 points of mana, she could only expect to waste her time when messing around with that, just like her futile attempts to huddle under a log when the humans had merely pulled the whole thing up and subjected her to another round of needles.
+
+No, the only real choices were flame and impact, and with the risk of flame…
+
+Enhanced Impact has been learned.
+
+Mana cost: one point per usage.
+
+Please make sure to properly equip watch on the correct limb when utilizing this ability.
+
+She wanted it on her right hand, right? The stronger one? Wait, was the impact additive, or multiplicative? No, no, no matter which way it was, she wanted it on her faster hand, if only for the sake of landing more reliably.
+
+Her head barely reached the bottom of the nearest guard’s ribcage, even when she stood fully upright, with her new height and all, making striking his eyes or throat, the most vulnerable areas, tricky. His belly was open, at least. And maybe if the force was strong enough, she could destroy the ribs and the heart beneath….
+
+The rat found her teeth gritting, and cut it off instantly, equal parts to quell the risk of noise as to move her mind away from the irritation of having teeth that were halfway to being human.
+
+If I could sneak away, test this out, and get a feel for how strong it is….
+
+She shook the thought out of her head. It would take quite a distance to be safe with the level of noise at risk, and then she would need to be able to find her way back in the dark. And depending on how long it took her mana to regenerate, the world might be light again by the time she had recovered, if it worked the same way as the inner and outer worlds had.
+
+And all that time, she would keep growing weaker, and hungrier, and her odds of succeeding would likely become lessened, with the added knowledge and all. No, she needed to move now.
+
+The guard on her side held a… a spear, it was? She had never seen one before, but the object repulsed her. A sharp blade at the end like a scalpel, but with a circular shaft made of wood, one that looked worn and gross. It was the opposite of the refinement and cleanliness of the scalpels, as horrid her memories of those were. At least this spear looked to be made for fighting, for actual opponents, not for torture and experimentation on the helpless and weak.
+
+Her hand reached down to her pocket, finding the scalpel that she had stolen, the one still glistening with magical power to her mana sense. She had no idea what it did, but it might go deeper than her claws, at least.
+
+She gripped it in her left hand, leaving the watch-clad one free for her new magics.
+
+It shook, faintly, the equally faint light glimmering off its shiny metal. The shaking grew stronger, spreading down her fingers, her hand, her wrist, her arm. It soon filled her very bones, and she was forced to bite down on the sleeve of her coat to keep her teeth from chattering as she trembled.
+
+They were humans.
+
+Humans, just like the ones from the lab. Just like the ones who had made her. Who had made her life a living hell, and who had made her into this. They would do things, she knew. Horrible, horrible things, should she ever fall back under their control.
+
+No, that’s not it. That’s not why you’re afraid, not to this extent.
+
+They were humans.
+
+Humans, just like those from the lab. Just like the ones who she had never been able to fight back against, to escape from, to resist with anything that could be considered a worthwhile effort.
+
+She had always fought against them, yes.
+
+But deep down, some part of her had never really expected to win. It was just the principle of the thing. She was a rat, not a toy for them. If she had no choice but to be tortured, she might as well make it as hard as she could.
+
+But this time, she had a choice.
+
+Not a good one, with all her other options being desperate gambits even more so than this current plan. But they existed. She could still run, she could still hide. She could still escape from humanity, for just a little while longer.
+
+No. You can’t escape from them, not like that.
+
+At that moment, deep down, the rat became completely certain of the truth she had merely pondered before. The shaking ceased.
+
+There is nothing they can do to me that’s worse than what the shame of having fled here would do. If I fight here, I will likely die. And if I run, I will likely die. I might as well die having spent this one chance on vengeance.
+
+And so, despite her pounding heart, she moved.
+
+First she circled around to the side, placing as many trees before her and the lookout as she could. The human was still, awfully so. I hope he’s asleep.
+
+Back and forth she crept between trees, never staying out in the open for long, and she was filled with gratitude for how stained her once-white outer fur, no, her lab coat, had become. Just a few more steps, just a few more…
+
+Her eyes widened with joy. He really is asleep!
+
+Pointed teeth were bared, as her lips pulled back into something halfway between a smile and a snarl. Don’t bother trying to wake up. This will be the last sleep you ever have.
+
+She took a few more steps closer, and then ducked behind a bush, checking it again. He was asleep, not just leaning against the tree and looking down, right? He was actually. Perfect. Her pace sped up, cutting a straight line towards him in the faster possible route to—
+
+Crunch.
+
+Shit.
+
+She had grown lazy, looking at him as prey, not as a threat. Deep in the back of her mind, without her even realizing, two thoughts had formed.
+
+Why should she hide from a sleeping man? Why should she look at her feet, when her perfect chance was right ahead?
+
+Those combined factors led to a single, painful result.
+
+When his eyes snapped open, there she was, right out in front of him, completely exposed.
+
+Every muscle in her body locked up, in a fraction of a second deciding that maybe, just maybe, he didn’t see her. Maybe he would go back to sleep, drifting off again without ever letting his eyes process what was before them, the threat that planned to steal away his rest, and his life.
+
+Instead he let out a yell, grabbing for his spear, and thrusting it at her face.
+
+Left with no choice, the rat ducked forwards under it and plunged the scalpel into his gut.

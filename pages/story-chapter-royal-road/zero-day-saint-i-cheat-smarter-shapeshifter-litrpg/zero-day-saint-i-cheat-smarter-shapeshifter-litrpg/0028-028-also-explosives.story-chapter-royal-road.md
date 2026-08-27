@@ -1,0 +1,290 @@
+---
+id: 7a9878b2-0413-5606-be6d-1ff46cb99b90
+page-type-slug: story-chapter-royal-road
+title: "028 - Also Explosives"
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 28
+ownLength: 2762
+unit: words
+publishedAt: 2026-05-26
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3447356/028-also-explosives"
+royalRoadId: "3447356"
+---
+
+"Oh, I love her. Can we keep her?" Lucy's voice in my head said. The idea of Liz and Lucy bonding was a terrible one.
+
+Liz raised her hands defensively. "I'll leave you two to it, I need to find Constance."
+
+I started up the coffee machine again and searched, unsuccessfully, for any breakfast cereal. The fridge was decently stocked already, with several ready-to-eat options and even milk—but no cereal. I sighed and picked a gas-station tuna sandwich from the fridge. Supposedly it was good to eat for another couple of days.
+
+Jamie had observed me quietly, leaning against the couch and sipping his coffee. "Looking for something specific?"
+
+I unwrapped and sniffed the sandwich. The metallic scent of the tuna stood out more sharply to my enhanced senses. "Nothing specific-specific. Just cereal. I'm a person of habit."
+
+"Put it on the list. We'll find some."
+
+"I suppose I could. Figured it was for more important things."
+
+He pushed away from the couch. "Come on, I'll show you. It's split by priority."
+
+On my minimap I saw a couple others sleeping and some milling around the building.
+
+"Is that a new collar?" Jamie asked.
+
+I brought Jamie up to speed on everything that had happened and what I'd unlocked since we lost contact last night.
+
+When we entered the room that had housed the pillow-fort, Jamie faced me.
+
+"Eve. May I hug you?"
+
+I shrugged. "Yeah."
+
+He did. "I've been so fucking worried about you."
+
+I returned the embrace. "You shouldn't. I seem to be great at not dying."
+
+After a moment he pulled away again, holding onto my shoulders. "This is where I should either slap or choke you. And if either of those wouldn't cost me my class I'd be sorely tempted."
+
+He probably had plenty of reasons, though I wasn't sure what specifically miffed him. "For what?"
+
+"For you suddenly being out there on your own. For Ash suddenly going 'I think Eve just flew by at 200 miles per hour.' For that reckless attack against the golem. Have you talked to Gabriel? She manifested when you went down. I know the jokes about biblically accurate angels. But her aura right then? It both felt biblical and apocalyptic."
+
+"Suddenly being on my own wasn't my fault. Ash speculating about U.F.Os also isn't my fault—"
+
+"It was you, though, was it?"
+
+"Yes, but that doesn't mean he gets to snitch on me and make everyone worry."
+
+"Eve," Jamie growled. I thought there was humor in it. I hoped there was.
+
+"As for that last point. I apologize. It was reckless. And yes, I got my scolding from Gabriel."
+
+Jamie handed me a dry-erase marker and pointed at the whiteboard behind him. I went and inspected the list, copying the entries to my notes. Most were expected, and I could quickly attribute some handwriting to specific people. Various ingredients for cooking for Stephen. Specific books for Ash. 'Anything compact and heavy that's good to throw' for Liz. What stood out was the lack of any medication. In a group of our size, I'd expect at least a handful of people would need something on the regular. Nobody had written anything in the high-priority group yet.
+
+"No medication?" I asked, while I began adding my own needs. Sneakers (size 6) went into medium. Cinnamon toast crunch (or store brand) went into low. Along with 'A kite (large)', 'balloons', and 'helium tank'.
+
+"Nope. All cured by the blessing. Ash got some significant—" he stopped himself mid-sentence. "Actually that's not for me to talk about. All bodily ailments have been cured."
+
+"Huh," I said once more. That explained the lack of a headache before. I had attributed it to Annika's spell, but maybe my caffeine addiction was gone, too? Which came with the uncomfortable question of avoiding caffeine now. Eventually it would get a lot scarcer.
+
+Jamie looked at the list. "Eve. I have no idea what you are planning, but I somehow think it involves more reckless risks."
+
+"Very moderate risks, at most. Which reminds me. I need you to tie me up."
+
+Jamie's eyes went wide. "Excuse me?"
+
+I looked around the room and ripped a length of cord off one of the now discarded tents. I put it on the table and held my wrists out for Jamie.
+
+"Just the wrists. And leave some of that cord, so I can hold on to it."
+
+Jamie shook his head and tied my wrists with remarkable care. I ensured that the cord was firmly secured before I held onto the loose end with my right hand and pulled the cord into my inventory. The entire length vanished at once.
+
+"Perfect," I said.
+
+"You're really just going to be all smug and force the poor less brilliant me to ask what this was about?"
+
+"Let me have the simple pleasures. This is the emergency release when I, as a crow, get tied to a kite. For flying practice."
+
+"Sure. That's not the most absurd thing I heard today."
+
+"You got any plans for today?" I asked.
+
+"I've been waiting to talk to you about those. Others are going to attempt to crack the mall, but we aren't exactly a great addition there." Jamie looked away.
+
+"Why not?"
+
+"Well, on the one hand we are a bit high level. We are too many to always team up, and they need to figure out how to deal without you and me. Especially considering your tendency to be unavailable."
+
+He still wasn't telling me the uncomfortable part.
+
+"And on the other hand?"
+
+"Jason needs to go with them. He has trap finding skills, which are essential against kobolds. And people think it's better if you two don't team up."
+
+I sat against the wall and hugged my knees.
+
+"He hates me. And he's right to do so."
+
+Jamie crouched across from me. "Eve. You can't blame yourself for anything last night. None of us were prepared for this."
+
+I reminded myself of Gabriel's words. "You say that. But while you were locked up, fighting against that spell tearing your mind apart… I was having a nice stroll with Lucy. The moment I got a grasp on my mind I should have returned and helped them."
+
+"Would they have let you?"
+
+"Why wouldn't they let me help them?"
+
+"Lucy. It sounds like things were fine thanks to them. Would things have stayed fine if you had started helping others?"
+
+Before I could reply, Lucy did, having manifested behind Jamie. "Absolutely the fuck not. Can't be giving out freebies."
+
+Jamie didn't even turn. "See? You, Eve, must accept that you have limitations. As unpleasant and painful as they are." He turned around. "Lucy, long time no see."
+
+"Hey, golden boy, how's the end of the world treating you? Ready to ditch that Paladin class for a Dark Knight yet?"
+
+"Can't say I am, Lucy."
+
+"You know how it is. Had to ask."
+
+Their interplay was endearing in the weirdest way. And I was not sure if they were cooperating to distract me or not.
+
+"Gabriel? Can you join us, too? I'd appreciate your insight on next steps."
+
+Gabriel appeared next to Lucy, giving Jamie a rueful smile.
+
+"What about your guide?" I asked Jamie.
+
+"Ah, they are a bit more shy than yours. They'd rather stick to me."
+
+"Fair enough. Let's discuss options. You mentioned the dungeon run. What else needs doing? Gabriel, what's next in line now that the seal is in place? How do we win this war?"
+
+Jamie let Gabriel answer first.
+
+"To answer your last question first: I cannot be your general. I am your guide, Eve. My job is to help you. Personal guidance, not strategic guidance. Right now, mankind has ten years to repel Hell. That timer might accelerate, depending on events across the globe. More important for the local fate of the Blessed will be the tasks the Blessing will lay out some time in the next 24 to 72 hours. Until then, you have some liberty to do as you please. I do encourage working on fundamentals."
+
+"Fundamentals being levels, supplies or combat practice?" I asked.
+
+"All of that. I recommend you try to reach level 10 today. It'll help with supplies, since you'll unlock the ability to loot Created then. That will likely provide necessary sustenance."
+
+"An entirely new thing? Loot? Why didn't you tell me before?"
+
+Gabriel just smiled at me, letting me figure it out on my own. Damn, she was good.
+
+"Because," I mused, "I'd have tried to rush for the loot, taken unnecessary risks—"
+
+"More unnecessary risks," she said.
+
+"More unnecessary risks to get to level 10. Yeah. You are right. Still really patronizing of you."
+
+"Yes, and I do not like being like that. But my priority is your survival, not being nice about it."
+
+"Thanks, Gabriel."
+
+"Be aware that you'll have to return to a sanctified space after reaching level 10 to unlock the ability to loot."
+
+"As for immediate concerns," Jamie began, "there are people who could use us as escorts through the city. Claire is building a network and people would like to get from A to B without dying to anything along line C. We are in the upper echelon of levels in the city right now, so we could do a lot there."
+
+"How dangerous is it out there now with the seal formed?"
+
+Gabriel replied. "Depends on where you go. The Blessing will make areas around the immediate clusters of Blessed not particularly dangerous, though roaming solo Created can go anywhere. The further you get away from those safe zones, the riskier it gets. And Hell will be focusing on fortifying their chosen domiciles right now, but that doesn't mean they won't send some lesser demons out to pick off strays."
+
+"So yeah, besides that there is looting, scouting, mapping, and cleaning out those roaming Created," Jamie said.
+
+"This isn't like with Jason's family, right? Those people that need escorts are safe?"
+
+"Yes. It'd be a kindness to help them, but I don't think anyone expects an Uber today."
+
+"Will you accompany me to the zoo, Jamie?"
+
+Jamie paused for a moment. "Why?"
+
+"I might have forgotten to mention that if I can get my hands on a tiger heart, I can keep that shape. And today is my only chance to be a discount buffalo."
+
+I hadn't immediately noticed when I had infused the Cape Buffalo shape. I only noticed when I walked Jamie through everything. The reason that Golden Retriever had been listed with its ATP price was that different shapes granted by the collar would come with different costs. My daily rotation always seemed to be one ATP. Tomorrow that buffalo would cost me 3.
+
+"Right," Jamie said. "Eating hearts to get shapes. I assume that's just a 'wild' kinda deal and not a 'clearly evil' thing?"
+
+"Pretty sure it is. Nearly certain that it's grounded in shapeshifter folklore. And we might also just not know where the zoo went. Ash wanted to ask Claire, but I'm getting the distinct impression that he got stuck there."
+
+"He barely slept and then spent hours chatting with her. Utterly fascinated by her class."
+
+"Anyone told him it came from Hell?"
+
+Jamie grimaced. "I didn't tell anyone about it. Not everyone connected the dots on who that mystery-You was."
+
+"Do you think it's wise keeping that a secret?" I looked past Jamie. Lucy was uncharacteristically silent throughout the conversation. They sat crosslegged on a table, giving off a very cat-that-ate-the-canary vibe.
+
+"I am not sure of my 'wisdom', but I don't want to stoke any unnecessary distrust."
+
+"Valid," I said, not fully paying attention. When Gabriel had noticed that I had noticed Lucy, she in turn stiffened a bit.
+
+I held up a hand, stopping Jamie from replying. I stepped to the side so I could clearly see both guides.
+
+Lucy grinned. "Yes?"
+
+I looked between them. "Did they win?" I asked Gabriel. Lucy's grin widened.
+
+"Only on the last game," Gabriel admitted through gritted teeth.
+
+"Did either of you play chess before?"
+
+"No. But similar games exist throughout the worlds."
+
+I turned back to Jamie. "Where were we?"
+
+"Zoo?"
+
+"Right. Let's check on Ash and Claire." I turned to leave. "Also, do you still have that katana?"
+
+Jamie fell in step beside me, manifesting the katana in his hand, before he held it out to me. "There you go."
+
+I took it. "Thanks." Of course there wasn't any reason for me to bring it up besides asking for it. Yet it felt weird to not go through the motions.
+
+When we were out of the room, I heard the quiet squeak of the marker on the whiteboard.
+
+"Lucy?" I purred.
+
+"Hm?" came the quiet reply from behind us.
+
+"Are you imitating my handwriting?"
+
+"Of course not."
+
+They couldn't lie. I resolved to not give them the satisfaction of returning to check out their shenanigans. I was not responsible for them.
+
+#
+
+Claire had set up just across the street, on the balcony of a first-floor apartment. As I climbed the stairs, I could already follow the discussion between her and Ash, going through thought experiments regarding her multi-tasking. Something about multiple selves sitting in a room, tackling a problem, and different picture books to spur creativity. I could see Ash's angle. Even an identical copy of the same mind would end up going down different trains of thought to solve a problem if presented with varying stimuli. Like the seed in a random number generator, or a video game.
+
+I stepped out on the balcony, startling Ash, who'd been too absorbed to notice our approach. "Hey, Ash. Hey, Claire."
+
+"Oh, Eve. You are done with your shower."
+
+["Hello, Jamie. Eve."] Claire wrote. I'd gotten more greeting than the last time. Eventually there'd be a 'hello'. Certainly.
+
+"Yes, I am. Thank you for the coffee."
+
+Ash turned, running a hand through his hair. "Ah, that was nothing."
+
+"Might have been my last one. Not because it was bad, mind you. But supposedly I am not addicted right now, so it would be a waste of future painkillers to go back to it now. Just for the ritual of it."
+
+That was the first time Claire's plushy reacted. She was in the body of a particularly cute rat from a well-known creature collecting game. When I mentioned that I was giving up on coffee, she turned to look at me.
+
+Ash also turned, though his brow was furrowed. "If you like the ritual… Why not drink decaf?"
+
+I didn't have a good answer to that. It should have been quite obvious. "Do we have decaf?"
+
+"Actually, I don't know. But it can go on the list."
+
+I was clearly trying to juggle too many thoughts at once. "Yeah. What about the zoo?"
+
+"Right! The zoo I came here to ask about. That zoo." Ash bit his lip. "We know where it is, but there's a problem."
+
+"It's a profane space?" Maybe locking up animals in inadequate environments for our own amusement wasn't as noble and education-motivated as we tried to make ourselves believe.
+
+He nodded. "Big one, too. Shifted the entire landscape. Claire had told me about that tower you also saw. Similar to that."
+
+Now that was noteworthy. Not only had Claire seen Mammon Inc., no, she also knew we'd been there, too. Since when did she have eyes on us when she'd called out to me at that mall?
+
+I postponed that question and focused on the bigger issue. But if I was going to stay true to my word, there was only one answer.
+
+"Okay, no zoo today. What do you think we should do, Jamie?"
+
+So far he'd stayed quiet and hadn't said anything besides greeting the two.
+
+"Just like that 'no zoo'?" he asked.
+
+"I got a debuff that makes me more susceptible to fear effects. If it's just us two going in there, I'm prone to freezing or panic at an inopportune moment and get us both killed. Has to be something lower-risk for the next two days."
+
+"But then we likely got the Blessing's task to deal with."
+
+"Yeah. That tiger heart might have to wait a while. I just hope no one else kills it and doesn't preserve the body."
+
+["A lot of self-damage?"] Claire wrote.
+
+"Explosives?" I asked.
+
+["Yes. You?"]
+
+"Much more varied kinds of recklessness. But also explosives."
+
+Of course the only other person who'd gotten the same debuff I did was Claire. I did not like that. At all.

@@ -1,0 +1,285 @@
+---
+id: 2b265db7-c720-5652-88ef-b7a3aca23721
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 342"
+slug: 0040-the-path-of-ascension-chapter-342
+partOf: the-path-of-ascension
+position: 40
+ownLength: 5095
+unit: words
+ownProgress: 5095
+publishedAt: 2024-08-16
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1761579/the-path-of-ascension-chapter-342"
+royalRoadId: "1761579"
+markedReadAt: "2026-06-29T19:18:53.128Z"
+---
+
+Chapter 342
+
+Matt took in a deep breath as they returned to the capital. Allie had teleported back most of Team Zero, the only exception being Arthur, who wanted to check in on one of his many-times grandchildren who intended on entering Minkalla the next cycle.
+
+Just a moment after they arrived, Allie turned and waved as she started walking away. “Ok I’m off. I’ll check back into the Capital once a month for the next year, but then only once a year.”
+
+Before she was able to teleport away, Aster pulled her into a hug, which bought everyone else enough time to give their wayward teleporter their own goodbyes.
+
+Matt took the time to slip Allie a ring he had prepared right after the war ended and ignored the eye roll he got in return. He knew Allie was in a rush to go and venture through the Empire, but really she could have waited a few days.
+
+Still, it was what she wanted to do and he supported that.
+
+Allie was always one with a heavy wanderlust, and she had complained numerous times during the war about how sparse her waypoint network was anywhere not near the war front. Frankly, Matt doubted that she would be returning to a more settled life once she filled in the Empire, and he expected she would instead start sneaking into the other Great Powers and creating waypoints through their territories.
+
+Which was exactly why she got a ring full of mana stones as a gift.
+
+It cost Matt nothing, but that much mana in stone form was good for trading, fueling ships, or refilling their mana pools should any of his friends get in a fight and need the boost.
+
+Two and a half billion mana should see even Allie out of any potential issues she might get herself in, and it had only taken Matt a minute to make.
+
+As Allie vanished with a wave, Zack turned and bowed slightly. “I shall also take my leave. I have much to attend to before I begin my tenure as a Duke, but any of you are always welcome to contact me directly on my AI. I just need some time alone before I settle in.”
+
+Aster draped herself over the man’s shoulders, resisting his efforts to shrug her off. “You better tell us when you’re getting married,” she said with a wink. A moment later, she yelped as a bit of purple lightning coursed across Zack’s arm, collapsing on the floor dramatically.
+
+“That will not be for some time yet,” he said seriously.
+
+Aster pouted, then shot an inquisitive look at Susanne, who gave a nod.
+
+“Bah. You’ve known each other for… decades? Centuries? How long has it been?”
+
+“That’s not that long,” Ai’la pointed out. “And Path marriages notwithstanding, it’s generally not considered a good idea to get hitched when you only know someone from a war setting.”
+
+Aster waved her hand dismissively, conjuring and shooting a snowball at the crafter, who easily dodged it.
+
+A few rounds of goodbyes, and one more stockpile of mana stones later, they were down one more member.
+
+General Darrow nodded to everyone remaining. “It was an honor serving with you all. I wish you all the best as you advance. I can’t do much, but if you ever need anything, feel free to reach out.”
+
+After checking the ring Matt handed him, Darrow protested, “I can’t take this. It's way too much. I—” realizing what he was doing, he laughed lightly. “I’m being foolish. Thank you, Matt. It's not much for you, but it will prove helpful as I advance.”
+
+“If you need more, feel free to reach out. You know how little it costs me to help, and I’m happy to do so.”
+
+After Darrow turned and flew into space, no doubt returning to High Command, Sebastian took his leave. His voice was quiet and he was clearly holding back a few emotions as he went around and hugged everyone.
+
+“I’m going to miss you guys. Shame Morgan isn’t here with us.”
+
+They all collectively sighed at their fallen comrade, who had so nearly made it all the way to the end of the war. Matt laughed as Greed reached out and grabbed the ring he tried to hand to Sebastian. Even as the other man flew away, he was bartering with his emotion to get the ring back.
+
+Susanne sighed lightly as she looked out to the capital orbiting beneath them. “I guess it's my turn then. I’ll see you around, I expect. I intend to stick around the capitals. I’ve been wanting to match blades with some of the experts since I reached Tier 25. Or at least I will be for the next five years or so. Maybe a decade, but if Zack hasn’t gotten out of his funk by then, I’ll go chase him down.”
+
+Matt was thankful that at least one of their friends would be remaining close.
+
+With just four of them left, Dena sighed. “I’m going to join a PlayPen, serve as the leader for a rotation or two. I enjoyed watching kids take their first steps to greatness, and it’ll be a good way to find my feet again. We had plans, but... Eric and I really enjoyed our time at our PlayPen, and I need something to do.”
+
+Matt pulled her into a hug and tried to reiterate. “If you need a—”
+
+“I know. I can come to you guys. I am doing better, I promise. At least well enough that I won’t fall apart. Don’t worry about me doing something stupid. Pace and I are working to collaborate for supporting each other, and Morgan’s family is giving her some pushback, so that’ll keep me busy in my spare time. I just need some time to adjust, is all. Check in on me, for sure, but you don’t need to worry about me.”
+
+Matt was, in fact, worried about Dena doing something stupid, but not in the way she implied. She and Allie hadn’t exactly been subtle in their talks in the few months between the war ending and the ceremony. He just hoped she wouldn’t do something stupid in her quest for revenge. For all that he liked Allie, she would be happy to facilitate a hit in another Great Power, even if it would undoubtedly cause massive issues.
+
+After giving her a ring full of mana stones, they were back down to the three of them.
+
+It felt good. It felt right.
+
+At least until Aster waved, and his stomach dropped. “Well. I’ll see you guys around. I—”
+
+Aster snorted and ruined her act, which caused Matt to let out a breath of relief.
+
+“You're a shit head.”
+
+“I know.”
+
+Liz threaded an arm into Matt’s even as phoenix Liz went over and pecked Aster for her bad joke.
+
+“Let's go to the Moore estate and settle in.”
+
+Matt fully agreed, and was more than happy to return to Mara and Leon's estate in the Capital. It was exactly as it was before the war, and it was good to reset themselves.
+
+Amusingly enough, they didn’t even spend any real time in their rooms, instead taking over one of the kitchens where Matt cooked a dozen meals, with Aster working on desserts.
+
+It was a good way to burn a day before their seneschals arrived, which was the main thing they were waiting on.
+
+They all had plans in motion that they needed to check in on via their seneschals, as they had been distantly involved at best while the war was active.
+
+While they were waiting, Matt checked in on one of their other Ascender benefits, the Horizon class cruise ship they had been given.
+
+They each had one, and currently they were simply sitting in orbit. They were fully furnished with the best the Empire had, but for the first time since they got them over a hundred years ago, they expected to use them as they traveled to their duchies.
+
+Checking in on that, Matt leaned forward, causing Liz to slide off his shoulder and the phoenix Liz and fox Aster to slide off his lap in a flurry of wings and tail.
+
+“What was that for?” Aster followed up her question with a bite that Matt ignored.
+
+“I was just checking when our first planets will arrive. It's been updated, and well, look.”
+
+Aster flicked her tail in a shrug. “My first planet won't be arriving for another six years, it says. That’s kinda fast I guess? I don’t really have a frame of reference for these things.”
+
+Liz’s eyes widened as she found what he did. “Not ours. Our first planet to be delivered is apparently a Tier 3 world from the Republic, a place called Soerilia, and it will arrive in just over a year. That's so fast. Too fast.” Raising an eyebrow at Matt, she asked. “Think it's a mistake?”
+
+Matt shook his head, “I doubt it. Look at the rest of the delivery schedule. A glut of worlds will be arriving soon, and we are slated to get all of them. I—” Matt paused as he thought he realized what was going on. “Aster, send me your assignments.”
+
+While he and Liz were content to share a duchy together, Aster wanted and got her own. It was just a good thing they could share, as with his guild, Matt was going to be very busy and he didn’t want to be an absentee lord. Between himself and Liz they should be able to make enough time in their projects that they equaled one standard Duke.
+
+After comparing the lists, he nodded. “I bet I’m right. Allie and Zack both had a bunch of things they wanted to do outside of their duchies, so they’re skewing the faster deliveries to come to us, because we’re already ready to start managing them.”
+
+Aster nodded her understanding and crawled up onto Liz’s lap, just to get sent flying again as Liz stood up a heartbeat later.
+
+Phoenix Liz pointed a wing at Aster and laughed, all that got her was getting tackled as Aster righted herself and the two started to wrestle.
+
+Matt’s attention was pulled from the show as Liz spoke. “Look deeper Matt. Did you see our capital world?”
+
+Matt hadn’t and indicated as much, to which Liz laughed. “Tier 27 fire-aspected planet from the Sects. That’s so rare. Not a ton of infrastructure, what with it only being settled for a millennia, but still! It’s so friggin cool.”
+
+“Pretty sure it will be quite hot.”
+
+“Har har. But really, this is awesome. Mom’s going to be so jealous. I bet we can get a flight of phoenixes to settle at our capital as well. They love fire aspected places, and an entire planet will be like paradise for them. Really, all fire aspected bloodlines. Ventuslisa is their current favorite planet in the Empire, but that one’s only Tier 23.”
+
+Aster pretended to gag. “Disgusting, wretched, abominable, detestable, disgusting! A fire planet? Where is my ice planet? My duchy is slated for being a normal world. Oh it's Tier 30 though. Never mind. Ha, ha. My capital is better than yours.”
+
+Even in her fox form, Aster managed to gloat, but Matt hardly minded. Planets with an essence attribute were incredibly rare. He had seen a nature-aspected moon when he visited Amelia Galley, but that was the only example he had personally seen. It was hardly the only planet in the Empire with an elemental aspect; there were thirty two in the Empire, but that was a fraction of a percentage of the total planets. They were also incredibly in-demand planets, with anyone who had that elemental bloodline or those who aspected their mana to that element flocking to the worlds in question. Their environments were cultivation paradises, and seeing as they were going to get one, a fire one in particular, warmed Matt’s heart.
+
+Considering most of these rewards were probably from Zack, Allie’s, and Aiden’s payout and they were getting it, it was clear they had been given the planet as a gift.
+
+It made Matt wish he had given everyone more mana stones before they had left, but there was always next time.
+
+Both Lizzes bounced around. “Oh, I'm so excited. I bet we can find so many unique rifts in the world. I looked up Ventuslisa a while back as a place to visit and I loved the images of the fire rain forest. It looked so pretty with the unique flora and fauna the abundance of fire essence creates. Sadly it's on the far side of Tur'stal’s kingdom and would take years to travel to.”
+
+Phoenix Liz paused in her bouncing to cock her head and squawked. “Oh, maybe we can turn one of the planet’s moons into Ichor? Have one for lightning and blood as well. Have the trifecta of what makes up Ichor. That would be so cool.”
+
+Matt pondered the feasibility of the idea and shrugged. “I doubt it's that easy to do, but I’ll put it on the list of long term goals. If it was easy there would be more than a handful of planets with aspected essence, so I'm sure there is something that makes it harder than just dumping in a load of elemental mana to make elemental essence.”
+
+That didn’t seem to bother Liz at all, and she pulled him down for a kiss before springing off. “Oh, this makes me so excited. Maybe I can convince mom and dad to move the planet faster? It's slated to be one of the last to arrive.”
+
+Matt had already looked into why it was taking so long and pointed out the reason. “Nah. If they untether it now, it’ll start drifting closer to the Clans. Until the chaotic space currents shift in a couple decades, you’d need to pull it upstream, and I doubt anyone short of the Emperor himself could pull a Tier 27 world that far upstream.”
+
+Liz blew a raspberry at him. “Don’t bring logic into my fantasies! I’m super excited, though. Oh, I want to publicize this. Oh!”
+
+Both Liz’s turned puppy dog eyes on Matt. “Let's hold an end of war party. We can announce both your guild's founding and our noble holdings!”
+
+Matt wasn’t against the idea and after a moment agreed. If they were going to actually be nobles, and Matt wanted to be a right and proper lord to his people, he needed to interact with other nobles and parties were one of the main ways that happened. The timing also worked as the war had just ended, and everyone expected the Emperor to hold court shortly after he returned, so nearly every noble was on or on their way to the Capital.
+
+“Sure, let's do it.”
+
+Liz punched the air in sync with her phoenix form, causing Matt to laugh. Making Liz happy was worth it on its own, but it really was a good idea. Doubly so that hosting their own party meant they could avoid the endlessly stream of invites he was sure they were already getting now that it was clear they were remaining in the capital instead of vanishing like Zack and Allie.
+
+Aster huffed. “I’m going to hold my own party and force everyone to decide which one they should go to.”
+
+Matt laughed. “That could be fun. We each hold a party at the same time and force people to decide who they want to snub by not attending.”
+
+“It's wicked. I’m actually tempted.” Liz looked positively evil at the suggestion.
+
+Her and Aster’s villainous plans were interrupted by the front door of the estate opening which set off a few subtle pings.
+
+Spreading his spiritual perception, Matt was on guard until he realized exactly who had shown up.
+
+Travis and Keith, Liz’s older brother and his husband, and the two family members Matt had first met when they were just Tier 4s.
+
+Cranking his perception and activating his combat buffs, Matt was the first to arrive in front of the duo, but Liz and Aster were only a moment behind him where they all lowered their perceptions to Tier 20 speeds.
+
+“It's good to see you two!”
+
+“Travis! Keith!”
+
+“Ha! I’m stronger than you now! Taste my vengeance!”
+
+As the three of them talked over each other, Travis and Keith reacted to their presences. “There they are, the Heroes of the hour!”
+
+That praise caused Liz to pause mid jump. “Ahh, now I feel bad for wanting to bully you.”
+
+Travis ruffled Liz’s hair before pulling her into a hug. “It's ok, no matter how strong you get, you’ll always be my baby sister.”
+
+Liz mockingly mouthed the words “baby sister”, but she didn’t pull away.
+
+Matt instead fought with Aster on who got the first hug with Keith. Aster won by dint of creating an illusion over Keith, making Matt miss the actual person, so Matt just hugged both of them.
+
+“It's good to see you, Keith. How have you been since our last message?”
+
+“Good, good. Really, just the same old same old. Delve once a year, work on other things the rest of the time. It becomes a routine pretty quick. How are you guys doing with the war? Or rather, how are you guys holding up now that the war is over?”
+
+Matt didn’t want to lie and say he was doing fine or good. He had lost friends and was far from either of those descriptions but he didn’t want to bring down the mood right after seeing them for the first time in so long. Messages just weren’t the same as in person contact.
+
+“We are… As well as can be and getting better day by day. It's great to see you two though. And unexpected.”
+
+Travis laughed as he leaned in for his own hug. “We were all the way at dad’s capital and we left the day we heard the news of the war ending. We are only lowly Tier 20s, and our best method of transportation was slow.”
+
+Aster poked his puffed up cheek causing him to let out a puff of air. “Why didn’t you just hitch a ride on a shipping liner? Fifteen just arrived today, and they have been flooding the capital since the war officially ended.”
+
+Keith tried to hide his laughter but failed, causing Travis to sigh. “We—” Looking at Keith, he corrected himself, “I thought it would be better to fly ourselves.”
+
+Matt snorted at that. “Well, you are still the first ones to arrive, so you are doing better than everyone else.”
+
+Travis perked up at that and started into the estate proper, talking over his shoulder. “I bet Sam and Annie won’t be free for a while. Backline Generals like them always have a ton of stuff to do post war, or so he says. What—” He spun around and his eyes narrowed in on phoenix Liz. “Oh yeah, your new bloodline. Congrats, by the way. But wow. That’s weirdly subtle. I mean, it’s clearly not a normal phoenix when you look closer, but something like an ice phoenix is very obviously other.”
+
+“Because ice bloodlines are the superior element. We are so cool!”
+
+Both of the siblings ignored Aster, and as Travis transformed into his own phoenix form to inspect his sister as they walked, Matt walked with Keith further into the house where he settled them into their room.
+
+Like their own rooms, the rooms came equipped with every amenity, but Keith seemed well used to them as he put their spatial rings on the holders which distributed their content to the appropriate venues in the rooms.
+
+Looking around, Keith gestured Matt and Aster over. “Under no circumstances can you let ‘you know who’ know about this, but I want to share.”
+
+Keith flashed a small hand sized sphere that looked like petrified flesh. It took him a moment to properly identify it, but his eyes widened in surprise once he did so. Aster, after pinging him to tell her what it was, played up her surprise even further, making an illusion of herself shattering like glass and vanishing into the breeze.
+
+“How’d you get one of those?” Liz asked with a bit of awe, and Matt couldn’t help but agree. Descendent Decanters, like the one Keith had, were exclusively dropped in rifts above Tier 40 and allowed anyone to have a kid. Whoever provided essence to the item would be a parent, be it a singular Tier 1 or an entire group of Tier 40s. Considering how much fertility dropped for immortals, it was an incredibly desirable item at the best of times.
+
+With Manny preparing to have a kid, they were actually impossible to buy at the moment, along with all other reliable child-producing methods. That Travis and Keith had one was surprising both from a rarity perspective, but also in what it represented.
+
+Keith answered with a hushed tone, “Leah got it from a delve a couple decades ago, and instead of selling it, she gave it to us. We’re really grateful, because otherwise there was no way we’d be able to be part of the upcoming noble generation. Neither of us wants to body morph to go for a child the biological way. Not that the timing matters that much, but… well, you’d know why we’d want to do it this way, Liz. Kids between generations and all.”
+
+Matt nodded along, still shocked. It made sense that Leah got it. Despite only being the second oldest sibling, she was the highest Tier at Tier 44, meaning she had a chance for it to actually drop from a rift. It also made sense why Keith was being secretive. If Mara and Leon found out, they would probably explode from the happiness of finally being grandparents.
+
+It was then that Keith dropped a second bomb on Matt. “Currently Sam, Erin, as well as Alice are planning to do the same. We’ve joked we are going to bury them under grandkids after denying them for so long.”
+
+Matt chortled at the idea of Mara and Leons reaction to the fact they would be grandparents four times over. They might explode with happiness.
+
+Then his laughter stopped as he realized the potential.
+
+He was still lost in thought when phoenix Liz came in and cheered over the Descendant Decanter as if she hadn’t seen it in human form.
+
+Matt couldn’t help watching her as she congratulated Travis and Keith. It could easily be five of them instead of just four. The current date for the birth was thousands of years away but it suddenly felt very close to Matt. He found that as he thought over the idea that he didn’t hate it. The idea that his and Liz’s child would be raised with at least four other cousins was comforting, not scary.
+
+Liz shot him a look which told him she had gone through the same thought process and they would talk about it later.
+
+But not here.
+
+Frankly, Keith and Travis were foolish to bring out the Descendant Decanter anywhere on the Capital. Mara and Leon might arrive at any time if the Emperor teleported them back, and the siblings seemed intent on turning this into a surprise for the ages. Mara and Leon’s no snooping rule could only apply if they knew there was someone to accidentally snoop on, and a quick scan would surely reveal the secret if it was just sitting out in the open.
+
+No matter his own complicated feelings, Matt was ecstatic for Travis and Keith. “Come, let me cook something up to celebrate.”
+
+Aster immediately agreed. “Oh yeah, I just made some ice cream as well. We need to celebrate this before the terrible duo come back!”
+
+As if the arrival of Travis and Keith was the signal the others needed to arrive, Erin and two of her harem members arrived, then shortly after Daniel arrived, turning the evening into a party.
+
+With the new arrivals, they decided that instead of cooking they should go out to eat. After some good natured arguments, they settled on going out to a twin-Red Feather restaurant just two buildings over, which they had gone to before with the extended family as they wanted something quieter. As Ascenders, they had standing invitations to eat for free at pretty much every restaurant in the Capital but that would come with interviews they didn’t want to deal with.
+
+Matt was still shocked at just how spatially expanded the Capital truly was, as they had to fly for almost two hours to reach the edge of the building they were in before they could exit. Each building was like its own, not so little, self contained world. Spatial expansion was one of those things that was easy to take for granted, but added so much livable space to a crowded place like the Capital that when he really thought about it, Matt was slightly overwhelmed.
+
+He wanted his guild to fundamentally change the world in a similar way to how spatial expansion changed how people lived. It was a lofty goal, but it all started with a single step. The first person to create a folded space surely had no idea just how far their idea would grow and morph.
+
+With how old spatial expansion was, it wasn’t like they could study the actual history of its development, but they had enough information to make guesses. It started small and mostly for higher Tiers and the wealthy, but thanks to its usefulness, the demand, and the value of spatial items, there were more and more crafters willing to make them. Some number of those crafters improved the contraptions, building off each other, lowering the Tier of the spatial items, removing the need for exotic materials, and making cheaper methods to enchant them. Until eventually, someone created the first closed spatial item that didn’t need an aperture, and items like spatial rings were born. The same process repeated until they reached where they were today.
+
+Some suspected they had reached the end of major advancement and were simply chasing the nines as it was called, but Matt didn’t believe so. Nominally, spatial rings were only usable by people above Tier 15, and while Talent-made ones did break that rule, most people just chalked that up to Talents being Talents. Or the rings were made for specific items and unable to hold anything else but they were expensive and specific enough that only delvers could really afford them. Matt felt all of that signified there was still progress to be made for the non-Talented methods of research.
+
+Not that spatial items were high on his personal list of things to delve into, aperology took that slot. It was however something so useful that any advancement was a net positive for everyone, and if someone came to his guild with a good idea that wasn’t already being worked on by another company, he’d happily fund it.
+
+Spatial items weren’t perfect.
+
+That was but one of countless things that he could do with his mana. Individual discoveries existed, and tremendous amounts of research was done on so many things, but so much of it was, in his opinion, wasted. Or at least not fully utilized for all the good it could do.
+
+Most high Tier research was directed towards optimizing a specific person’s Talent or Domain creations, or tweaking outputs in specific non-replicable situations. And it was almost always in service of making something new and specific. If a high-Tier wanted a new sword, that almost always required bespoke research to tailor it for their essence and Domain, but that research was barely applicable to common crafters trying to learn something new to further their own skills.
+
+His own mana concentration array was a perfect example of that. The odds of someone else ever using it were basically nonexistent, but a huge amount of resources had been directed into it.
+
+That was all fine, and Matt even understood why it was like that. Cultivation became so individualized that artisanal crafting was the better option at the higher Tiers. Combined with higher Tier crafters wanting to push their skills and their fellow higher Tiers being the only ones who could facilitate that it all made sense.
+
+But with his guild and with his mana, Matt wanted to improve things from the base up. Better enchantments for the common mortals, better rifts for beginning and low Tier delvers, better mana density on high-Tier worlds, all to help out the lower Tiers who couldn’t afford to just fix their own problems by dint of their individual power.
+
+Even now, the air was positively starved of mana in a way that was still shocking every time he noticed it.
+
+With that in mind, combined with the reminder of the incredible amount of essence swirling around them, made Matt spontaneously grab a wisp of environmental essence and use it as leverage against his core, crunching it and advancing to Tier 26 and letting that wisp of essence fade back into the air around him. Manny hadn’t officially told him to advance as fast as he could, but he could read between the lines and there was no need for him to be any weaker than he had to be any more.
+
+With his Tier 25 Talent, it was easy to take his mana pool from 41,943,040 to 83,886,080 in a matter of seconds.
+
+He’d need to crunch his mana a few times before he even considered Tiering up to Tier 27 but his regeneration increase would help while he stockpiled mana for Manny. He knew the Emperor had his own plans and as much as Matt would love to just flood the planet with mana he knew that was a bad idea. Things, while not great, were stable and no one was in danger at this moment which would have forced Matt’s hand.
+
+Feeling his own Tier up, Liz and Aster followed suit which raised some eyebrows from the people they flew past but no one commented, not even Liz’s siblings for which Matt was grateful.
+
+Instead of letting his mind go down the path of his mana Matt instead focused on his family and enjoying his time with them.
+
+Who knew how much time he would get with them going forward? He wanted to treasure every minute he had.

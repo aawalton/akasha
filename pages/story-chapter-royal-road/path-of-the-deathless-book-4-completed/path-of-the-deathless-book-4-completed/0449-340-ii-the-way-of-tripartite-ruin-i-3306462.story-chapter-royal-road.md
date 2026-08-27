@@ -1,0 +1,119 @@
+---
+id: 59d7c6ad-0e6f-5104-a044-564c559facc5
+page-type-slug: story-chapter-royal-road
+title: "340 (II) The Way of Tripartite Ruin [I]"
+slug: 0449-340-ii-the-way-of-tripartite-ruin-i-3306462
+partOf: path-of-the-deathless-book-4-completed
+position: 449
+ownLength: 3010
+unit: words
+publishedAt: 2026-04-22
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3306462/340-ii-the-way-of-tripartite-ruin-i"
+royalRoadId: "3306462"
+---
+
+340 (II)
+
+The Way of Tripartite Ruin [I]
+
+“Deathless!” Longinus' bellow was so laden with anger and confusion that it carried a physical blow behind its weight. It was only thanks to Shiv’s Sage of the Enkindled Heart that he managed to endure the pull behind the call and keep focused. “How did you do that, you little rat?” A hateful laugh escaped him for good measure. “How the fuck did you avoid my gaze?”
+
+Sage of the Enkindled Heart 175 > 177
+
+Shiv ignored the god as he crashed down upon the cylindrical ravine left in the grill station. The edges were among the cleanest Shiv had ever seen left by an attack. It hadn't been done by flame, and it didn't seem to have been caused by a cut, either. Rather, it was like an entire portion of the metal simply ceased to exist, exposing the topside of the massive grill to the broken convection plates below. Fixing that issue was simple: With a casual twist, Shiv made a knot of metal, and that constrained the erupting Pyromancy.
+
+But then there was the rolling tide of fire he had to deal with.
+
+And before that, Longinus himself.
+
+The first blow came—but Shiv was ready. Still, the god was godsdamned fast. Unlike before, Longinus didn't try to overwhelm him with a storm of fluid lances. There was just one weapon this time. One weapon, one rider, one galloping Divinity. Longinus streaked forth from beyond the horizon, his body like the falling shadow of a distant meteor. A fraction of a second before he pierced Shiv, the Deathless reverted himself across time. Two seconds were displaced. Longinus tore a clean path through where Shiv once hovered.
+
+Strider of the Unbending Path 190 > 192
+
+Shiv re-materialized—and another godly shadow appeared before him. It was pure instinct and desperation that stopped Shiv from being run through, but Longinus was a god still, and the Deathless found himself driven back, carried aloft by the charge. Half of his accumulated Shapeless Tides were spent in less than a second. As he drove his vectors against the lance head, the weapon creaked; the Divinity infusing it with power and malice unleashed pluming tides of hatred and lust. It was like an injection of hostile emotion—Psychomancy wrapped with a festering Social skill.
+
+The god's will felt like the corruption of love. It begged Shiv to succumb and fold, to give himself to another's glory, and to accept his joy and reverie as a slave eternal.
+
+Longinus' face became a portrait of pleasure as he drove Shiv into the shanties he'd been trying to protect. The billowing avalanche of flames headed in that direction was scattered in a puff of smoke. Shiv's Magical Resistance thundered around his body, and his tides were driven to the brink. Longinus' lance pressed against Vitae, cracking the outer surface of Shiv's being and threatening the crust of his soul within. Walls came asunder, and then followed the unmistakable feeling of splattering flesh.
+
+Time remained still for everyone but Longinus, Shiv, and a few of the time dimensionals, but only the god and his target possessed the ability to contend with each other. Only they had the speed, the capacity for harm. Yet it was barely so for Shiv. The air around him combusted along with the barracks and everyone within, and Shiv felt more of himself crumble and break.
+
+He had Longinus exactly where he wanted him.
+
+“There's no point in fighting me. Doesn't matter if you're a Legend or an Initiate. You're going to be mine. I will bend you down and use you as I feel like.” Longinus laughed with a voice worn by drink and desire. “For a moment, I thought you were Valor. Who else could avoid me? Who else could hide from you? Well, I guess I have my answer today. That's an interesting skill you got there. I'm going to crack you open, and then I'm going to figure you out bit by bit. But I won't rip any knowledge out of you, don't worry. You're going to tell me. You're going to explain every aspect of yourself to me, and I'm going to enjoy learning you in and out.”
+
+Every utterance that escaped the Wanderer was infused with festering desire, and the very words he spoke fanned the fire of his Domain. Shiv looked into his emotional core and saw a beacon of incandescence there, combusting, fueled by envy, granting Longinus speed like never before. His form also looked more ethereal than before, fainter of divine mana and presence, like he was more ghost than material.
+
+Shiv prepared his dodge. It was time to go Backstage again. He just needed Longinus to finish that thrust in full and expend as much power as he could. Shiv intended to stay longer this time, to cut at Longinus from every angle, to strike and make him question his sanity. But to do that, Shiv needed an investment of vitality. Thankfully, his enemy's attacks offered all he could want.
+
+“You know something, Longinus?” Shiv growled as he concentrated his rage. The god's emotions bore down upon him, tainting the waters of Shiv's consciousness and twisting his emotions. The first tendrils of affection crept into him, but Shiv wasn't about to stay on the defensive, nor was he about to endure this debasement for much longer. “Kathereine tried this shit on me when I was much weaker, and it didn't take then. And you? Well, you're no Songbringer at all.”
+
+For the first time in days, Shiv called upon the twin Blessings reciting within him. The Composer and the Challenger's powers activated. The Song of the Vigilant began playing, forcing his focus to remain before the encroachment of alien emotions. The Icon of the Paindrinker flared upon his chest. A weight of harm, malice, and destruction descended upon the world, and that applied to more than physical ruin.
+
+Pain was also under the Challenger's portfolio. And it was exactly what Shiv intended to inflict upon his adversary.
+
+Once more, Shiv drew upon Master of Rage to empower his Psychology, and his eyes became hell pits of enkindled flame. Emotionally charged plumes of darkness erupted from him and crashed into Longinus' core, splashing and searing his heart. The attack came with a calculated risk. Longinus’ consuming desires breached through Shiv's heart, and for the briefest of moments, he knew true love for the man that had victimized his mentor. But the moment didn't last. Longinus, goaded by Shiv's infectious rage and offended that a mortal dared taint his emotional core, let out a snarl of absolute fury. His lance exploded with power, turning into a flood of mana as a thread of destruction punched clean through Shiv, his damaged Toughness offering no protection after his Magical Resistance was breached.
+
+For half a heartbeat, Shiv's upper body disintegrated. There was simply nothing of his torso left. Nothing of his vitality. True death should have taken him in that instant, but it wasn't to be. He dodged at the same time, and Continuity Error triggered. Longinus' mortal blow was retconned, pulled Backstage alongside Shiv, and assimilated into a source of vitality for him to draw upon. A second ignition consumed the world. This one was no dimmer than the incandescence which shrouded Longinus, but it was the detonation of life untrammeled, of life enduring, everlasting, against the hand of non-existence, beyond the will of the System itself. Shiv crossed over the border once more and felt more empowered than ever before.
+
+This new Unique Skill was a game-changer. Fuck me, I should have just died… Should’ve… But…
+
+Inertial Overdrive 296 > 301
+
+Continuity Error 203 > 206
+
+There was no world where he could defeat a god as a Low Legend. Perhaps he could survive for a time, manage a retreat somehow, but victory was far beyond his grasp. He remained a wasp trying to sting a giant to death. Perhaps some of his blows might hurt, but the injuries he dealt remained too distant from fatal.
+
+But if he could retreat whenever he wanted, if he could carve and slice his enemy after stealing the mana they used to destroy him, then he had a way of skirmishing like no one else. Then the way he fought could take on an incomprehensible quality that not even a god could counter.
+
+An eight-meter-long lance remained embedded within Shiv's Severed Shadow. It impaled him, but it was also contaminated by him, wrapped in the Vitae that granted him his undying nature. On the other side of Integration, Shiv saw Longinus suddenly come to a halt. The god was confused. More than that, he looked different. The magical frequency that painted his person and the incandescent mana were dimmer on the outside, seemed to have a faint screen of something layered over it. Shiv didn't understand what was happening to Longinus, but he didn't get to consider that for long, for bits of his vitality were being shredded free.
+
+“Shit,” Shiv hissed. His temporal field was still active. He dropped it and immediately bade his body to flow into a series of savage cuts, unleashing the full power of his cutting aura across dimensions to carve Longinus to the quick and to the bone.
+
+Yet Shiv wasn't the only one possessed of an esoteric skill. The moment he tore through Longinus' manifestation, his ghost-like form came apart like a bifurcated mirror; the divine mana infused in that section of his being was shed like a sheet pulled free from a bed. From within the destroyed ghost came another instance of Longinus, plunging forward in a new charge, going so fast that Shiv couldn't respond in time to deliver another blow. He was too surprised anyway. The Longinus that was just cut down faded from reality, his mana parting into motes, his vague silhouette vanishing without any proof he'd existed at all.
+
+“Another decoy?” Shiv muttered. Something about how Longinus just faded made him think otherwise. The moment he destroyed the ghost, there came an immediate counter-attack. Now Longinus was gone. Shiv had no idea where he was once again. Seconds passed; the Wanderer remained absent. Shiv searched around and used his Atlas from across reality's veil for the first time. It still functioned, thankfully, and allowed him to highlight portions of the silhouettes, even though they were vague and featureless, like clay figures devoid of any specific aspects.
+
+Even so, he sensed the survivors at the edges of the shantytown poking their heads out of what windows remained, hiding in their narrowed rooms under uncollapsed stairs inside cupboards, even.
+
+But no matter how hard he looked, Shiv couldn't find his quarry. The god was nowhere to be seen, and Georges was altogether missing as well.
+
+A very admonishing-sounding tongue click sounded from behind Shiv. “Come on, what'd you expect? Fighting a god's never easy. They're not like Pathbearers. You can't just hit them a few times or cut them open and expect them to die. Maybe you can break an avatar, but well, that's not so simple either, is it?”
+
+Shiv turned to face the girl that didn't exist and let out a grunt. Despite just meeting her, her presence felt comforting. He might be going insane, but his insanity offered him some measure of solace. “Hey. Still yourself?”
+
+She frowned. “Existentially, I don't know. How should I? It feels like it, because I can only see things from my own perspective, but then again, does that mean it's true, or are you just simulating all this in your head? Am I just a series of sensory impulses that you're receiving to guide you along, thanks to a messy flood of narrative inputs you're getting directly from being on the other side of the System?” The girl just shrugged. “Wasn't that a mouthful? Let's just go with 'yes'.”
+
+“Happy to hear that. Anyway, you got any idea on how I can lure this bastard out, or where he might have gone? You think he ran off or something?”
+
+But it wasn't the girl who answered. “Absolutely not,” Sage interjected from his right. “Longinus is paranoid, but he sees everything and everyone here as his property. He would not abandon the Boiling Toad to an unworthy adversary, and there is simply no one worthy in his eyes. His emotions are erratic, extreme. He chases the very limits of depravity but also the highest peaks of intensity. There might be a point where he suffers enough harm and chooses his self-preservation over a hopeless battle, but we haven't gotten there yet. No, he is hidden and likely watching. That skill he just used allows him to attack us without risking himself. It was the slightest sliver of his Divinity we cleaved through, and we didn't even leave a proper scratch. He is basically shedding his skin and flinging it at us as an attack.”
+
+“Yeah, well, his husk is still strong enough to permanently kill me in one good hit,” Shiv rasped. The realization of that made him feel queasy. He hadn't faced anyone like that in quite some time.
+
+Sage pushed his spectacles up his nose. “The girl and I concur; you shouldn't keep trading with him. At most, you should briefly dip out and draw his attention, but if you want my advice, be patient. Personally, I would keep dragging this out until he reappears somewhere in his kitchen, confused about what is happening, and then tear into him as much as I can. After that failed attack of yours a moment ago, you have enough vitality to last you maybe an hour out here.”
+
+The thought bothered Shiv. “You want me to wait an hour without doing anything? Just stick around until Longinus shows back up?”
+
+“Yup, you got it.” Shiv looked at the girl who never got to be Adam's sister or Rose's daughter. She snorted at him as if he were a particularly stubborn mule. “Come on, you know better. Sage?”
+
+“She's right.” Sage sided with the girl immediately, which kind of annoyed Shiv. His Psychology Skill rolled his eyes. “Please, you know she's right. We don't know enough about Longinus' skills, and he probably has a plethora. He ranks among the most powerful beings on Integrated Earth, and considering he's been in the Fairwoods for countless cycles, he likely developed a few skills here as well. Narrative skills. You remember what those Red Riding Wolves did to you with a single tap to the head. We can't afford that kind of mistake with a god.”
+
+“So you really want me to just stay hidden in the Backstage until his paranoia burns out, and he reappears?” Shiv concluded.
+
+The girl scoffed. Her hawkish face twisted in amusement. “I would recommend that you wait before you tear into him, even when he shows up in full. Your skills are still damaged. You need some time to repair your soul. Though you're hurting him, you're just chipping bits of him away. I'm going to be very honest with you, Shiv. I think you're going to be down here for a few days, maybe even a week. It's going to be a bit of a marathon fighting him. Because you have no business killing him. You're like a Pathless guy with a pickaxe trying to bring down a titan, swinging over and over again until you get to his core. Any other time, in any other world, that titan would hit you once, and you'd stop existing. Him stabbing you once with his lance cracked your skills and broke part of your soul. But this isn't any other world, and you aren't any other Pathbearer. And you just might be able to bring him down with that little pickaxe inside of you.”
+
+She thrust her index finger forward, jabbing at the gleaming blade which glowed at the center of his chest. “But you're going to have to exercise a bit of patience. Something that Longinus doesn't have. And you're going to want to keep him guessing. Keep his mind reeling. You're going to want to keep playing mind games.”
+
+“Damage his sanity just as much as you strike at him physically and spiritually,” Sage agreed. “We have the tools to do this. We simply need to stick to our strategy and execute. We are no longer in a brawl, Shiv. We can’t win that. We are not his equal. Not even remotely. But we can wage a campaign. Because even a mosquito can sting a bear to death given enough time.”
+
+“Be the mosquito,” Shiv breathed. He considered his options as the battle-frenzy gripping him cooled. “Yeah. This… I can work with being a mosquito. I can work at being a nightmare instead of a monster. I can be patient.”
+
+“Good, because we’re going to be getting to know Longinus pretty well,” the girl replied. And then she looked away from Shiv and regarded the environment of the Boiling Toad. “And I think I got some recommendations on how you can make his life a living hell right now to pass the time, and some on how to get some levels after.”
+
+“Oh?” Shiv said. “What’s in your head?”
+
+“Longinus thinks everything here belongs to him, right? Well. We break everything here. We start setting slaves free here and there. We ruin his cooking operation and shit in every bowl of porridge he’s going to drink out of.”
+
+A sneer spread across Shiv's face. The sheer vindictiveness of the girl was delightful. “You know, Adam’s sister, I kinda feel bad you don’t actually exist. I think we could have gotten along real well.”
+
+She cheesed him with a smug grin. “We’re getting along real well right now, you oversized shit. Now, try to fix those skills of yours, and then see about tearing up some cooking stations and ruining some meals. The Wanderer’s here got a lot of feelings—let’s give him some more. See what it takes to make the cunt cry.”

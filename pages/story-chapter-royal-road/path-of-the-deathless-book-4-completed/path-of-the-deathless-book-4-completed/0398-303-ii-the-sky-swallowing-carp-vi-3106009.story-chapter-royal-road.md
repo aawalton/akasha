@@ -1,0 +1,211 @@
+---
+id: d36dbc82-49d3-52af-b2dc-5105a806849a
+page-type-slug: story-chapter-royal-road
+title: "303 (II) The Sky-Swallowing Carp (VI)"
+slug: 0398-303-ii-the-sky-swallowing-carp-vi-3106009
+partOf: path-of-the-deathless-book-4-completed
+position: 398
+ownLength: 4494
+unit: words
+publishedAt: 2026-03-01
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3106009/303-ii-the-sky-swallowing-carp-vi"
+royalRoadId: "3106009"
+---
+
+303 (II)
+
+The Sky-Swallowing Carp (VI)
+
+The lean-meat echoes molded themselves around the gristle-marrow spheres, encasing the second and third layers with the first. Only then did Shiv call upon Candles’ aid to heat up the grilling station again—at a low simmering burn. The purpose here was twofold: to heat the substance at the heart of the meatballs with a slow flame, and to properly cook the lean meat on the outside as well.
+
+For approximately two minutes, all seemed to be going well. And then Shiv ran into a problem he'd foolishly forgotten to anticipate. Slow heat made the water evaporate.
+
+“Godsdammit,” Shiv grunted to himself. He almost plunged his Biomancy into the test meatball being cooked before he pulled back. His touch would bring ruin to the masterpiece, and despite his inner anguish, he had to serve more as commander than cook to see this done. “Shroom-orcs, hold on to as much hydration as you can.” He turned to Adam. “I need your help—and wipe that stupid look from your face. Why the felling hells are you smirking at me right now?”
+
+Adam failed to fully suppress his amusement. “I just find it remarkable how much this consumes you. I find it commendable. And enviable.”
+
+Immediately, Shiv felt a bit bad for snapping at Adam. “Oh. Uh. Yeah. Sorry for—”
+
+“What do you need me to do?” Adam asked. “Is it the moisture? All the water inside the mushrooms is being boiled out of them?” Shiv briefly found himself speechless. Adam just laughed. “You forget, Shiv. I might not be any kind of cook, but my Awareness is unm—” He silenced himself and frowned in the vague direction of Shiv’s Severed Shadow, and then Valor thereafter. “Is more than sufficient when it comes to trivial matters such as this.”
+
+Shiv didn’t even need to tell Adam what to do in detail. His body quivered as it turned to currents of splashing water, and a thin mist of dew-like drizzle circulated free from his form into the steaming meatball.
+
+“Careful,” Shiv breathed anxiously. “Avoid the grill. It’ll—”
+
+“I know what I’m doing,” Adam replied, licking his lips. “I’ll make sure not to soak the meat, either. I just need to keep it slow and feel my way in…” Seconds passed. The confident expression on Adam’s face slowly faded until his resolve dimmed and his eyes narrowed. “Shiv. Why can’t I feel the mushrooms?”
+
+“Because I diced them up extra thin and small, so they don’t ruin the texture of the meat. If they’re too big, they’ll ruin the experience.”
+
+“Ruin the experience how?” Adam asked.
+
+“Imagine you take a bite into soft but firm meat—and then there’s a squishing feeling as you find yourself chewing on something with a rubbery texture and then feel more water building up in your mouth.” Adam let out a slight shudder of disgust. “Yeah. I’ve seen that look before. I made this mistake before. Georges chewed my ass out more than once when I left some oversized lotus chunks inside a gelatinous meatball dish. People don’t like it when they feel what seems like foreign material in their meatballs.”
+
+“Alright, but then how am I supposed to find all the mushroom pieces? I’ll grope around if you want me to, but I feel that’s not exactly efficient…”
+
+“It isn’t.” Shiv had his Severed Shadow glide into position beside Adam and reached out using his Hydromancy. A far weaker field of bright, watery mana merged with the moisture flowing out from Adam, and Shiv pulled his friend in the direction of the shrooms hidden within the meat. “Just go in the direction I pull you. You’ll feel them.” Shiv was on the verge of saying something else, but then a subtle string slipped into the skull of his physical body. The Shapeless Tides running along his Severed Shadow flared bright with counter-translucent mana, but he bade them to calm, allowing Uva to reach into his mind. Meanwhile, she did the same thing for Adam, and once more, the three of them shared a unified consciousness.
+
+“Been a while since we got to do this,” Uva said.
+
+Her Psychomancy was a heavy but comforting presence; it held a warmth and might Shiv missed feeling. But there were gaps and rips he could feel. Uneven aspects to her strands and divots within her mind. She was holding bits of her own psyche together with her mind magic, and it was only then that Shiv found himself altered by how much harm she'd suffered during Blackedge’s defense—how she was forcibly holding herself together, hiding away her deepest scars and sealing away unaddressed wounds.
+
+Shiv flinched. “Uva…”
+
+“Later,” she said, echoing what he'd promised earlier. “Privately. Just us. Right now, I just want to pretend to be an actual person living an unfavored life. So. Let’s finish making these… Orc Manifold Meatballs together.”
+
+An awkward worry bled over from Adam. He could feel Uva’s fragility as well—and it was an act of deep trust for her to show this part of herself to them; however, he also found himself feeling like a third wheel on a bicycle at present. Then came the mournful loneliness. His mind drifted to a withered girl laying in a hospital bed, her body so thin and deprived there soon would be no separation between her and the sheets.
+
+“We’ve all taken our share of hurt,” Uva said softly, squeezing Adam’s mind in acknowledgement of his pain as well.
+
+“Then, I suppose we should distract ourselves with a measure of shared triumph,” Adam replied, forcibly lifting his own flagging spirit so as not to bring the other two down.
+
+It struck Shiv just how human Adam was compared to him and Uva. But that made the Gate Lord all the more radiant. Adam wasn’t beyond death. His mind didn’t naturally regenerate from trauma or psionic attacks. There were things that terrified him; a lifetime of nightmares had all but been bestowed upon him by the System after all he'd endured, all he'd survived. Even through all that, he was still here, still fighting, still strong, still shining.
+
+His dawn was broken, but that only made it shine brighter.
+
+It was wonderful to be loved, heartening to have worthy warriors at your back, and glorious when the two were found in the same people. The world had left its share of marks on Shiv, and he would mourn the one he couldn’t save, but couldn’t claim this life had given him nothing. He could say it didn’t spur him to bring his culinary creation to its final state.
+
+With Uva’s Psychomancy tethering Shiv to Adam, there was no need for manual adjustments. The Gate Lord saw what Shiv saw, felt what Shiv felt—and found himself utterly discombobulated by how Shiv now occupied two different bodies. Shiv gave Adam a moment to figure out which body was actually physical before highlighting the shroom-bits using his Atlas. What came aglow before his eyes was beheld by Adam and Uva as well, and thus the hydration within the shrooms endured even as the heat climbed.
+
+“I think it would’ve been wiser for one of us to direct the heat away. Create temperatures using Pyromancy rather than war against it with water magic.”
+
+Adam cast a brief look at Candles, who tensed. He lifted a skeletal finger and pointed it at his face. “You… want me to… stop something from burning.” He sounded like Adam just told him to commit a series of unspeakable acts upon a small, defenseless kitten.
+
+“Adam, don’t torment the poor man. He’s been helpful enough.” Shiv gathered his own fire mana in anticipation of the next meatball to be made. “I’ll handle it. My Pyromancy isn’t that strong, but it’ll be good enough for this. Good suggestion, though. Let’s see how this first one turns out.”
+
+Following the instincts ingrained within him after years of cooking and The Chef Unwavering, Shiv looked on with bated breath and narrowed eyes as the gray muscle tissue of the orcs darkened into a rich, brownish color. A fine layer of crust began developing on the outside as well. The Deathless ordered the orcs possessing the outer layer of the meatball to turn to make sure every bit of it was cooked evenly, and that nothing was harder in one place than another. Under his careful ministrations and aided by his friends, the pristine glow of The Chef Unwavering lit his first official meatball up like a gem.
+
+Trailing strings of smoke climbed high up toward the ceiling, and the bioluminescent veins lighting up the room drained it away using microscopic pores along their sides. They inhaled and drew the steam and heat away, keeping the temperature and air quality within the room at a stable equilibrium. As the first  Orc Manifold Meatball sparkled bright, Shiv found himself possessed by motion. He rushed back toward the freezer, guided by a will that resided deeper than his subconsciousness, that lurked within his skill. Both Adam and Uva were confused about what he was trying to do, but he returned, grasping a handful of lathered orc fat using one of his mana hydra.
+
+From there, he laid the fat upon the grill, and it began to sizzle and pop along the flat and gleaming metal surface. Shiv called out to the orcs and directed them toward the spread-out smear of fat with a gesture. The echoes were only all too willing to abide. They rolled over, tumbling and twisting, wrapping every bit of the already well-burned outer layer in a final film of salted orc grease.
+
+The crunchiness had been doubled. The flavors would feel like surfing along a rising and plunging wave: extremely salty at first, followed by a dimming to a sour or sweet flavor, then a hardness that seemed almost nut-like in its blandness; finally, the steaming hot marrow flowed out, bathing everything in a cataclysmic climax that never overstayed its welcome, thanks to the juicy pieces of mushroom nested in the lean meat-mash of the exterior.
+
+The Chef Unwavering 80 > 82
+
+With a final spark, Shiv knew his great work was done, and two more levels arrived in recognition of his efforts despite not laying his own hands on the meal. Yet, there was still a question as to how the meatball might taste, and how good it might feel to chew, to swallow. He salivated beholding the crusted orb with gluttony. But then he noticed Kune standing in his periphery, and he realized the right thing to do. A chef couldn't judge their own food reliably. They were either too extreme in self-criticism or too lenient because of confidence or delusional narcissism.
+
+“Alright, Squire, you ready to be my first customer?” Shiv turned to her with a wide and genuine grin.
+
+Kune stared back at him. Her shell-shock was no weaker than before, her body tensing as if anticipating a coming fatal blow. She swallowed, and her soft blue pupils dilated as they narrowed in on the manifold meatball. Shiv carried it over to her using his Biomancy field; he let it hover for a moment before she reached out with shaking and near-unwilling hands.
+
+With her acquiescence, he dropped the meatball, and it landed with a soft slap. In the seconds that followed, she looked down at the meal she had been given with bated breath and unnerving stillness. Slowly, her head twisted up, and she stiffly bowed once. “Squire-Adept Kade thanks you for this meal.”
+
+“I told you, you don't have to do that anymore. Right here in this kitchen, I'm the chef, and you're a customer. And the customer is almost always right when it comes to taste and choice. Just don't push your luck beyond that. I'm here to feed you and make sure you get the best culinary experience you can. Everything else, that's up to my discretion and your decency.”
+
+Kune blinked once. Shiv never stopped smirking. Uva leaned in beside him with a frown. “I can't tell if you were trying to reassure or threaten her.”
+
+“Both,” Shiv said. “Georges did this all the time. He warned people about being rude to the staff, being unreasonable, or being, in his words, 'stupid fucking cunts' for no reason. But you're not going to do that, are you, Squire-Adept Kune?”
+
+The Descenders Union elf shook her head vigorously. “A Squire would never break the iron laws of hospitality, be that under threat of death or worse.”
+
+“That's great. Now you can live up to those laws of hospitality by telling me with full honesty what you think about that there meatball.”
+
+“Be crushingly honest,” a few of the orc echoes lingering within the meatball declared. Their presence manifested in looming shadows, standing around the girl, leering down at her.
+
+“And if the flavor is not to your liking, be sure to strike at his heart. Be sure to condemn the failure of his artistry. For this is not our doing. It was not our intention to fail your taste buds, but the Insul's. It was his arrogance and hubris, thinking that he could cook now that he is a cripple, a broken thing, that led to this outcome.”
+
+Though long dead, the orc's words still fanned faint, simmering embers of anger inside Shiv. But he was good at dealing with anger now. So he simply folded his arms. “Yeah, be honest. Be as honest as you want. Be as cruel as you want. Just be genuine. That's all I ask. And if it's good, no need to say anything. Just enjoy it. More will be coming right after.”
+
+Once more, Kune stared down at the meatball the same way a prisoner would lay eyes upon swaying gallows looming before them. Her lower lip was twitching faintly. She swallowed a final time, rebelled against her uncertainty, and then, slowly, almost too cautiously, sank her teeth into the meatball. The first crack sounded through the kitchen. It was such a satisfying noise. The snapping sound of breaking crust. As her teeth passed through the outer layer, Shiv saw her eyes widen, and he knew he had her, at least so far. Then she began tearing through the second layer. Her bite gained new strength. She wanted to find what was waiting at the end. As she drove in deeper, she found the second layer, and with a tightening of her jaw muscles, it popped open, breaking apart inside her mouth as her eyes grew even wider, her blue irises flaring brighter, her body tensing.
+
+Stillness followed thereafter. Her body went tense, her hands turned fists by her side, and she looked up, her cheeks growing redder and brighter like she was blushing. But Shiv realized what was happening. The marrow might be a bit too hot for her. She might not have Adept-Tier Toughness at all. That was an unfortunate oversight.
+
+"You burning?" Shiv asked.
+
+She shook her head, but her body vibrated. Gardener of Doubt activated, and he knew she was lying to him. Shiv scoffed. "If you're burning, just spit it out. It's okay. I can make you another meatball. Will adjust the temperature. Anything to do with the meal is my responsibility. Your culinary experience is my duty.”
+
+Despite his words, she began chewing faster, and using his Atlas, he could see her tongue moving. It was burned slightly. He could tell from instinct and insight alone, but it was also flicking about, licking bits of substance off the roof of her mouth and off the sides of her inner cheek. She liked this. She genuinely, truly liked the meatball. And she was draining away every drop of the marrow within. She was in elation, only doubled when she got to work on the gristle as well. She bit down hard on each of the fibers, snapping them into pieces and swallowing them after a good few minutes of labor. The kitchen was fully silent now, but the Deathless was positively vibrating with glee. It had worked; she was satisfied.
+
+She didn't even need to say it; the orc echoes within the first meatball were now fading, their purposes served. As they realized the Squire was actually enjoying her meal, they turned and saluted their Insul with raised fists a final time in recognition of their feat and also their part in the endeavor. “It was a pleasure, Deathless,” one of their number whispered. “Come find me when I return. I think I would like to do this again.”
+
+“It's good,” Kune Kade said softly. “It's really, really good. Maybe a bit too salty at first, but then when I broke through the crust, the saltiness faded, and, well, I really like biting into it. It really works on my stress when I chew. I like it. The marrow is great too. What is this dish?”
+
+“Manifold Orc Meatball,” Shiv proclaimed proudly.
+
+Kune swallowed a third time, but she seemed like she was trying to get another hit of the flavors lingering on her taste buds this time. “So you weren't lying. That's actually made from orc meat. You managed to make orc meat taste good…”
+
+“Orc meat does taste good,” Shiv replied resolutely. “Almost everything can taste good if you make it the right way and you add the right complementary ingredients and sauces before cooking it right.”
+
+The small smile on her face emerged like the rising of dawn after a cloudy night. “You must be some kind of master chef, then.”
+
+“I guess you could call me that, technically,” Shiv said, “but I'm still trying to figure some things out. I still got a lot to learn and experiment with. But here and now, yeah, I'm feeling pretty masterful. Seeing that look on your face makes me want to cook the next dozen as soon as I can, so everyone else in this kitchen gets a taste. After that, I think I'm gonna open the kitchen for a while and let in all the customers down below.”
+
+“Down… below?” Kune asked, uncertain what Shiv meant.
+
+“Yeah, I don't know if that's a wise idea, kid,” Jessica said. “That's a whole godsdamn lot of orcs you're about to invite into your flying restaurant. It's big, but not that big. This is likely to start several riots and slaughters between the different factions down below.”
+
+The moment she said that, Shiv turned and offered her a vicious, evil grin. “Oh, I know that. That's why I had my Severed Shadow go down already. I need to collect some new echoes, and I need new ingredients as well. This will make everything more economical for me.” Shiv laughed. The laughter continued for a few seconds longer as his body adopted a tenseness born of uncertainty. “Did I use that word right, Adam? Economical?”
+
+“You did, Shiv,” Adam said. "You're positively giddy right now, aren't you?"
+
+“Oh, I feel great, Adam,” Shiv said. "I feel like this is the right thing to do. The System can go fuck itself. This is where I want to be. This is what I'm gonna be doing for as long as I can. No! Forever! That's right! I'll be doing this forever!"
+
+The Deathless started chuckling again, and he stared up through the ceiling, sneering at the unseen hand of the System, sneering with all he could muster in defiance of Integration. I'm gonna be a chef whenever I want, and even if you kill me, no matter how many times you kill me, I'll be back. I'll just keep cooking. You can't make me fight your bullshit wars. Fuck you, System! Fuck you!
+
+Kune gawked, slack-jawed at the sight of the mad master chef. With a labored effort, she drew her eyes away from him and briefly looked at Uva, the only other Abyss native in the room, for any hint of reassurance.
+
+The Umbral gave the young Squire a shake of the head. "He is not mad, do not worry. He's simply processing a great many things. As are the rest of us."
+
+“I'm glad your meal has turned out for the best, Shiv,” Valor said. “But before we do anything, I think there is a matter we should address. One that has to do with this establishment.”
+
+Shiv stopped laughing in an instant as his focus was reeled back to the present. He looked at the ancient Pathbearer, tilting his head as he tried to figure out what Valor just said. "What do you mean?" he asked. "What about this establishment?"
+
+“A name,” Valor declared. “This restaurant, like all restaurants, needs a good name. You said that you hailed from the Swan-Eating Toad? That was a fine name. A great deal of subtext and lore is hinted at there. Have you given any consideration as to what you wish to call this place?”
+
+Shiv fell quiet, his eyes drifted downward, and he found himself staring at the floor. His mouth was pressed flat together, and he drowned himself deep in his memories, sinking back into his past, reliving all the moments he'd shared with his mentor, with his fellow chefs. All those moments, all those crystallized instances, all the times he was yelled at, the fewer times he was praised, all the stories and tales and things he heard Georges tell. He didn't rush through those memories. He stayed there. It was a good place to be. It was a good place to remember, to hold on to who he was before his Path, before the blood, before the System took something precious from him.
+
+And amidst that maelstrom of recollections, there was a single memory that stood out from beneath the waves and all the debris like a rising lighthouse. A single tale that Shiv heard from Georges back when he was but a child. He could barely read then. He wasn't even that good at holding a knife. Though, of maybe because he had been disheartened after his failures—and though Georges chewed him out, as Georges was wont to do—the head chef told him a tale about a Carp that didn't wish to stay a carp, about a little fish that was meant to be prey beneath the great titans of the abyssal dark and the brutal fangs that drifted through the waters seeking supple flesh.
+
+Georges told him the story of how the carp found a waterfall leading high into the sky, and beyond the clouds. The carp decided to swim in defiance of the ocean, where it would only be made a victim, food for someone else's evolution. And in recognition that there was a world beyond the confines of the cage it once knew, the carp swam upward, it climbed the waterfall, it learned to fly through strife and struggle.
+
+And after years of effort, and near mind-breaking labor, the Carp slipped past the clouds and went further into the great black beyond. By the time the carp arrived at the other end of all rainbows, it wasn't much of a carp anymore. It was a dragon. And so it began swallowing the sky in retribution, for once, it lived beneath the sky's all-encompassing jaws.
+
+“The Sky-Swallowing Carp,” Shiv whispered. Quietly, but resolute. “That's what the restaurant's going to be called.”
+
+Adam did a double-take at Shiv's declaration. Everyone else looked surprised as well.
+
+“That sounds pretty, uh, literary,” Jessica said, shuffling. “Kind of unlike you. Shit, kid, can you even read?”
+
+Shiv spun on her with offense. "I can read! I can read just fine. Just nothing too hard. I can write too."
+
+“I'm more surprised you know the story of the Sky-Swallowing Carp,” Adam said.
+
+Uva looked at him and laid a hand on his back. “Georges?” she whispered.
+
+“Yeah,” Shiv murmured in nostalgic pride and sadness.
+
+She kept rubbing his lower back, offering comfort. “He would be very proud of you. He was very proud of you. I didn't get to speak to him very much. But I did tell him that we were… together.” She smiled lightly. “And that pleased him the way it might an uncertain father.”
+
+Shiv's jaw quivered, but then something else about her statement threw him off. “What do you mean, ‘uncertain father’?”
+
+“Reciting his words as best I can… he asked me if I was some kind of potato-made person, and I was confused at the start. But then he explained that he expected you to only be romantically and sexually interested in someone made from potatoes, considering how you spend all your time pricking them instead of any of the other chefs or servers in the kitchen.”
+
+Shiv broke into guffaws of surprised laughter, laughter that lasted a long while, and with it fell a few tears. “Yeah, that's him. That’s definitely him.”
+
+“He also gave me a few choice threats about what he might do with a spatula and my breeding organs if I ever broke your heart.”
+
+Shiv tried not to laugh harder. He failed.
+
+Uva's smirk lessened thereafter. “I'm sorry. I wish I had protected him better. I wish I had protected the town. I wish… I wish I knew him better. I think I would have liked him.”
+
+“I think so…” But Shiv didn't finish that sentence, because he genuinely wasn't sure. Uva generally had a very muted, very dry personality. But Georges? He was like oil and fire, preparing to go off at any time. And so Shiv went in another direction altogether. “You want to find out what a day running a restaurant is like? Because if you want to know what creates someone like Georges Archambault, I can show you.”
+
+“Well, then, Chef,” she said, her voice falling low and breathy enough to send shivers through Shiv’s body. “Show me, then. Actually… Put me to work. I think I want to have the full experience.”
+
+The two shared a long look. Long enough that Adam walked away from them with a disgusted scoff.
+
+“Come, Squire-Adept,” he said to Kune. “Let me find you a safe place aboard this Court Leviathan for you to rest before they start exchanging bodily fluids in front of everyone. We do not all need to become unfortunate casualties like poor Valor.”
+
+Both Jessica and Kune responded with surprise—but for different reasons.
+
+“What?” Kune breathed. “Wait. I’m inside a what?”
+
+“Lich, did I hear him right? You watched those two kids rub bits?” The Giantsbane had Rusty in the shape of a greatsword now, laid upon her shoulder as she regarded Valor with a frown.
+
+“It’s not—I was not a willing participant,” Valor tried to explain. “They left me in the room!”
+
+Jessica’s face tightened in disgust. “Then why didn’t you leave, you sick fuck!”
+
+Valor threw his hands high in agitation. “I was a knife! I couldn’t move! I was the victim!”
+
+And through it all, Shiv and Uva remained decidedly ignorant of Valor’s cries—much like before.

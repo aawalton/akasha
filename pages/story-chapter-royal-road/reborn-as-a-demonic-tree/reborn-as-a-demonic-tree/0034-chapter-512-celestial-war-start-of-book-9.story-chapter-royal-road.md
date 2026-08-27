@@ -1,0 +1,153 @@
+---
+id: 5d9285ff-119c-5ede-8842-21564e77b38d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 512: Celestial War (Start of Book 9)"
+slug: 0034-chapter-512-celestial-war-start-of-book-9
+partOf: reborn-as-a-demonic-tree
+position: 34
+ownLength: 3047
+unit: words
+ownProgress: 3047
+publishedAt: 2025-12-12
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2842525/chapter-512-celestial-war-start-of-book-9"
+royalRoadId: "2842525"
+markedReadAt: "2026-06-29T19:02:40.372Z"
+---
+
+Empyrea, Capital City of the Celestial Empire.
+
+The Chairman of the Celestial Empire frowned as he withdrew his finger from a small hole in the World Tree—it was stained with a black sap that turned into a miasma upon contact with the air. The Chairman used his Monarch Realm soul pressure to freeze the miasma in the air and curiously inspected it.
+
+Never in history had there been an instance where the World Tree's golden sap turned black. Why now? Was this the doing of the World Tree, or someone else? He had so many questions. But first, he had to get a handle on the situation.
+
+"Veyra, is it the same situation at all the other golden sap harvesting locations?" the Chairman asked the woman standing patiently at his side.
+
+She nodded mutely.
+
+"Really? All of them?" The Chairman shook his head. "I refuse to believe this is happening, especially now of all times. The Celestial Empire is already fracturing, and the Beast Tide is inbound. We can't afford an issue like this right now!"
+
+After the deterioration of his relationship with the World Tree, control over the golden sap supply was the only trump card he held over the factions. The only reason he hadn't been dethroned yet was that his faction knew the locations of every golden sap harvesting spot and had tight control over them. If he ever fell, his loyalists were to plug up and hide every finger-sized weak spot in the World Tree's vast bark so the golden sap would cease to flow.
+
+"It's been verified by the harvesters of Empyrea. All eighty-two harvesting locations are tainted with that same black sap you just saw," Veyra paused, and her voice dropped to a harsh whisper. "Chairman, what do we do?"
+
+"I don't know," he hissed back. "We can't open any new harvesting locations, as all other weak points in the World Tree's bark discovered over the centuries are used as access points for the grand array to keep the World Tree's soul restrained," he turned and faced Veyra. "Have any experiments been run on this black sap? Can it be used to cultivate?"
+
+Veyra withdrew a parchment and offered it to him. Taking it, he scanned the contents. His brows furrowed a few times the further he got, until he eventually glanced up. "This black sap... can turn people into spirit trees?"
+
+"That's what our top researchers have managed to discover in the short time they've had to experiment with it. Whether it was mortals, cultivators, or beasts, they all turned into trees if they consumed the sap."
+
+"Without fail?" The Chairman muttered in disbelief.
+
+Veyra nodded. "Yes, without fail. Though the cultivators could fight off the curse for a while, their internal Qi reserves would eventually run dry, and their souls would succumb to their fate."
+
+"Even Star Core Realm cultivators who can generate Qi fell?"
+
+"Yes. Of course, they could hold out the longest, but as the curse festered, its strength increased. We tried a few methods to remove the curse, but haven't found a solution yet."
+
+"What about those residing in the Nascent Soul Realm? Does the curse spread to one's infant soul?"
+
+Veyra paused. "That I'm unsure of, as I believe the cursed sap hasn't yet been tested on a Nascent Soul Realm cultivator."
+
+"See that it is tested, no matter the cost," he insisted. "We have to know if this curse can spread to one's infant soul."
+
+While he doubted any curse present on the 9th layer of creation could bring down a Monarch Realm cultivator such as himself or the leaders of the other factions within the Celestial Empire, that didn't mean this new discovery was without uses.
+
+Honestly, after learning of the viciousness of this black sap, he was starting to see its presence more as an opportunity than a disaster.
+
+Golden sap or not, my cultivation has stalled at the 7th stage of the Monarch Realm. By distributing the golden sap, I only empower my enemies and assist them in closing the gap. He glanced at the finger-sized hole in the World Tree's trunk that was leaking miasma. With this cursed sap, maybe I can tip the balance of power within the Celestial Empire in my favor.
+
+However, there was a big problem.
+
+It's going to be a race against time. If I can't make ample use of this cursed sap to regain total control, a war of unimaginable proportions will undoubtedly break out once word gets out that there is no more golden sap.
+
+The reason was simple—without access to the golden sap's Qi-rich properties, cultivating on the 9th layer of creation past the lower stages of the Nascent Soul Realm was borderline impossible. With the disappearance of golden sap, the faction leaders and powerhouses would no longer have to hold back and preserve their Qi, as their enemies would never have the opportunity to catch up.
+
+Veyra seemed to be following his thoughts as she chimed in. "The information regarding this cursed sap is currently under lockdown by the Empyrea Guard, but it's only a matter of time before spies from Umbraholme learn of this. Despite our efforts, there are undoubtedly a few within our mix."
+
+The Chairman rubbed his chin in thought. "How much golden sap do we have in storage?"
+
+"With our current rate of distribution? A month at most," Veyra estimated. "The moment we run out and the golden rivers stop flowing, the leaders of the factions will come knocking on our doors within hours."
+
+"Mhm, not all of them," the Chairman said. "A month from now, the Beast Tide will be ravaging Floridawn, meaning Councilman Faelorian Lysanthos of the Flower Accord will have his hands full fending off the monsters from his unguarded lands. With the many factions inhabiting the ground too busy with the beasts to launch an attack on us, that leaves the canopy factions led by Umbraholme and the nobles of Empyrea to raise a fuss."
+
+The Chairman paused as he considered his position. Currently, he held all the cards and needed to make a move. Preferably, a swift and brutal strike that would cement his position. After a long moment of silent contemplation, his eyes suddenly widened as it all fit together in his mind.
+
+"I think... we should heavily reduce the golden sap supply to the canopy factions starting today."
+
+Veyra blinked in disbelief at his suggestion. "What? How does that solve anything besides lengthening how long our supplies will last?"
+
+The Chairman appraised his right-hand woman, somewhat disappointed she couldn't immediately see his vision.
+
+"Think about it, Umbraholme has been openly antagonistic toward Empyrea for a long time. If every faction is going to turn on us eventually, once the lack of golden sap production becomes known, out of the three options, Umbraholme is the best to target first. Since it's against the canopy dwellers, the Empyrea nobles should lend us their forces without knowing that their supply will be cut off soon as well. Though if we wait too long, or the lack of supply gets leaked, then the nobles of Empyrea will no doubt turn on us."
+
+Veyra slowly nodded as she seemed to begin to agree with his idea. "What about The Flower Accord?"
+
+The Chairman shook his head. "They shouldn't be a problem. As long as we keep their supply of golden sap flowing, they shouldn't interfere in the war. Remember, they have the Beast Tide to worry about. Even if a war broke out, they don't have the cultivators to spare, so they will likely choose to abstain from picking a side."
+
+Veyra's expression darkened. "While this is all true, you're talking about starting a civil war within the Celestial Empire and with every faction in the canopy, no less. Are there no other options? Billions will die if we move ahead with this. The canopy will burn, and Empyrea will be shrouded in a cloud of ash and death. All the while, the beasts will tear through Floridawn, and no other faction will have the cultivators to spare to aid them."
+
+The edges of the Chairman's lips curled into a smile. "It's exactly as you put it, Veyra. We don't want another solution—the path forward is already clear. We burn the canopy, allow the Flower Accord to feed the wave of beasts, and through it all, only Empyrea will stand with nobody left to contest my rule." He slowly turned to look at the hole from which the black sap was leaking. "This sap isn't a curse—it's a blessing to Empyrea and has shown me a way forward."
+
+"I understand," Veyra said, her expression tightening as she stiffly bowed. "I will make the arrangements to have the golden sap supply reduced to the canopy."
+
+"Hold on," the Chairman grinned wider. "Reduce the supply to every faction within the canopy, except Mistress Veilshade of Umbraholme. I want to buy some time and fan the flames of suspicion within the canopy's factions before they approach me demanding answers. Can you arrange that for me, Veyra?"
+
+"I will see to it that your grand plan comes to fruition," Veyra bowed and left the room.
+
+The Chairman stayed for a moment longer. He placed his palm on the World Tree's bark and could feel the immense lifeforce pulsing under the surface. "Is this your way of trying to fight back?" he smirked, pulling his hand away. "All you're doing is forcing the factions that call your branches home to fight to the death, while the deep scars of war will be etched into your branches and bark." Laughter escaped his lips. "It was a nice try, but in the end, it will be for nothing. From this, my political position will be secured for eternity, as will your suffering."
+
+Turning, he strode out of the room with his hands behind his back. The two Nascent Soul Realm cultivators standing guard bowed deeply as he departed. Both were part of the Empyrea Guard, his private army of elites that he used to keep the nobles of Empyrea in control.
+
+"Do not let so much as a fly inside that room," he said, eyeing them over his shoulder. "Do I make myself clear?"
+
+"Yes, your Excellency," they replied in perfect unison, dropping to one knee and placing a hand on their hearts. Their skin faintly glowed from the golden sap running through their veins, giving them immense strength.
+
+While cutting off the golden sap would no doubt force the Celestial Empire into a dark age, he didn't care—so long as he lorded over the darkness.
+
+"Good," he nodded, and left for his palace upon a floating island that overlooked Empyrea.
+
+War was coming, and he had a lot to prepare.
+
+***
+
+Meanwhile, on the outskirts of Floridawn.
+
+Thane, an artisan who had once enjoyed a luxurious life working for those in the inner circles of the Flower Accord, had expected a peaceful life after leaving his celebrated career. While he had been technically exiled from Floridawn due to an incident involving a Councilman's daughter, he had wanted to get away. It had always been a dream of his to move out of the city and seek solace in the tranquil, untamed beauty that surrounded Floridawn's edges—places where the World Tree's roots still stretched and pulsed with life, but where the artificial grandeur of the cities gave way to wild nature.
+
+With his own two hands, over the last decade, he had carved a life for himself out here. His home, which he currently stood outside, was built into the hollow of a lesser World Tree root. To a passerby, they might not even notice the hidden entrance behind a curtain of perfectly maintained foliage. However, to the more observant, it might become apparent that something was amiss due to the presence of a particular species of bioluminescent moss clinging to the bark under the foliage, which glowed softly at night and kept insects away. Specially grown by the nobles of Floridawn, it wasn't naturally occurring—not that anyone living around here knew that.
+
+While this area was still technically Floridawn, if you asked anyone from the inner city, they would rightfully refer to it as the wilderness. In fact, any land not under the shade of the World Tree's immense canopy was considered as such by the citizens of the Celestial Empire.
+
+Thane would agree with them. While not the most seasoned cultivator, he was still in the Star Core Realm, and if not for the carefully raised thorn spitter plants surrounding his home, he would have died in his sleep to a curious wandering monster by now. They protected him and his house and were like children to him.
+
+With a cup of steaming tea in his hand, he enjoyed the morning sunlight on his face and the fresh air. After taking a sip, he began his morning routine. First, he took a stroll around his home to check for any oddities, and then he moved on to the gardens where he grew herbs to make a living.
+
+"Mhm?" A confused noise escaped his lips as he caught sight of one of the furthest thorn spitters from his home. Usually a vibrant green, its leaves were dropping and covered in black lines. This was strange. As a spiritual plant, it had Qi to ward off any infections or bugs. So why was it dying?
+
+Thane strode over to the thorn spitter, the crispy late-winter leaves crunching underfoot as he went. Getting closer, his casual concern began to deepen. Something was wrong. He knew the Beast Tide was on the way and had made plans to evacuate further inland once the first signs showed. However, this was something different. His spiritual senses, as a Star Core cultivator who had worked with plants his entire life, tingled as he drew nearer.
+
+Crouching before the thorn spitter, he put down the teacup and inspected its leaves. "What the..." he muttered as he ran his finger along the black lines and frowned. It hurt, if only slightly, as if it were trying to eat away at his flesh. Pulling away, he checked the soil around the plant next.
+
+The grass that once surrounded this area is dead, and the roots have withered to dust. What is going on? Everything was fine last night. He stood up, scratching his head in confusion. That's when he noticed something else. The forest beyond the thorn spitter to the north—it was silent. The usual buzz of insects and chirping of birds this early in the morning was missing.
+
+Given no choice, he decided to investigate. Walking past the thorn spitter for a few meters, Thane frowned further. He could feel it, the heavy weight of something in the air, eating away at everything.
+
+Is this corruption? Thane wondered. Walking around some more, he grew even more concerned. It wasn't unique to one area. As he completed a circuit of his home, he saw all manner of trees and plants in varying states of decay, along with a few rotting carcasses of birds and other animals. It covered the whole northern side, and worst of all, it was on the move.
+
+Returning to the thorn spitter from only half an hour prior, he noticed its condition had worsened further, as had the foliage around it. "To reduce a Soul Fire Realm spiritual plant to such a state in only half an hour is far too unusual," he glanced back at his home and noted the tips of the foliage covering his doorway were now showing signs of decay. "I need to move out of here earlier than expected."
+
+Knowing he would need all the money he could to survive in Floridawn during the incoming Beast Tide, he dropped to one knee. His Star Core roared to life, and he expended a few months of Qi to flood the area with nature Qi. "That should buy me some time—" his eyes widened as he felt his Qi being swallowed up by the unknown force. "Not enough, apparently."
+
+Quickly retrieving a shovel from his spatial ring, he began to dig up the thorn spitter. While decayed, if nurtured carefully, it could recover and be sold for a considerable amount. Soul Fire Realm plants, especially ones that could kill monsters, would sell at a high price given the incoming Beast Tide. There was no way he would leave it here to rot.
+
+Moving quickly, he uprooted the thorn spitter, and then his shovel struck something hard. Looking down into the deep hole, he expected to find a random rock but was surprised to see an unusual tree root. It faded in and out of reality slightly, as if it were ethereal, and it was covered in spikes. Trying to hit it with his shovel, he was further surprised to find he couldn't get through it despite his Star Core Realm cultivation.
+
+"Just what is this strange root?" Thane jumped down into the hole and instantly regretted it. That slight burning sensation he had gotten when rubbing his finger along the leaf magnified across his whole body. His Star Core flared to life as dark green soul flames flared to protect him. "Is this root the source of the rotting?"
+
+Jumping out of the hole, he ran around trying to find the origin of the root but came up empty. The land it covered was simply too vast for it to belong to a typical tree. Even those ancient spirit trees weren't this big... only the World Tree covered this kind of area.
+
+"Is something up with the World Tree?" he mused. Either way, he had to get out of here, as he didn't have the cultivation level to resist this corruption.
+
+A plan formed in his mind. Once he had saved all of his plants, he would rush inland. If the corruption continued forward and into Floridawn, perhaps the Flower Accord would forgive his exile in exchange for his discovery here, especially considering a decade had passed.
+
+"I hope for Floridawn's sake that only my home crumbles," Thane said as he sprang into action. Considering Floridawn was a city interwoven with nature, an unstoppable wave of corruption like this would cripple the city.

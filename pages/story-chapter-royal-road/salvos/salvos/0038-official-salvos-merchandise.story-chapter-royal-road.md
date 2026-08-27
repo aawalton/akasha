@@ -1,0 +1,33 @@
+---
+id: 703fdb28-f9ec-59a9-9bfe-b857f5f4d00b
+page-type-slug: story-chapter-royal-road
+title: "Official Salvos Merchandise!"
+slug: 0038-official-salvos-merchandise
+partOf: salvos
+position: 38
+ownLength: 216
+unit: words
+publishedAt: 2022-02-17
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/847612/official-salvos-merchandise"
+royalRoadId: "847612"
+---
+
+Hello everyone!
+
+I'm so excited to officially announce the first ever set of Salvos merchandise! There are posters, stickers, iPhone cases, face masks... a lot of stuff, but no shirts just yet. I'm not sure if any of it will sell. A lot of this is for myself, more than anything. I already have a poster which I bought and paid extra shipping costs for just to get ASAP lmao.
+
+I can only attest to the quality of the poster I bought for myself from TeeSpring. I have a shop on both RedBubble and TeeSpring. RedBubble because they have a lot more designs to choose from for me to get for myself. And TeeSpring because they have a few specific designs I want and I can select the price for. If you want to see the poster itself, check it out here! Ignore my messy bed.
+
+Yes! This is the Salvos poster on TeeSpring, sold at a cheaper price than available on RedBubble, will only be available for a limited time. One month. I can't do discounts on RedBubble sadly.
+
+Right now, there are currently three artworks available. TeeSpring is far more limited, but RedBubble has a ton of stuff. The illustrations I've chosen are these three:
+
+And of course:
+
+Check it out!
+
+https://deltaverse-merchandise.creator-spring.com/
+
+Or
+
+https://www.redbubble.com/people/MelasD/shop

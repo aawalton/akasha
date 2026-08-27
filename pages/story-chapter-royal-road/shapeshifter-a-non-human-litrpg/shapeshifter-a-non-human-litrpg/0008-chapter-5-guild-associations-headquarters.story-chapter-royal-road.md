@@ -1,0 +1,119 @@
+---
+id: c6e875f2-da21-501b-b1f2-3cc2d32ec782
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5: Guild Association's Headquarters"
+slug: 0008-chapter-5-guild-associations-headquarters
+partOf: shapeshifter-a-non-human-litrpg
+position: 8
+ownLength: 1510
+unit: words
+publishedAt: 2026-04-02
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3222200/chapter-5-guild-associations-headquarters"
+royalRoadId: "3222200"
+---
+
+It was late afternoon by the time Xen and his small entourage of humans reached the Guild Association's headquarters. No unregistered cars were allowed within a mile of the building, so they had to approach on foot.
+
+He had noticed the fortress-like building several streets back—a looming silhouette of white stone and steel rising high above the surrounding skyscrapers as though they were nothing more than decorative fence posts. Even from a distance, it had dominated the skyline with unapologetic authority.
+
+But distance had done it no justice.
+
+Now that Xen stood before it, the structure felt less like a building and more like a titan's fortress. Towering walls of reinforced stone climbed skyward, etched with mana veins that shimmered faintly in the afternoon light. The fortress drowned the surroundings in shadow, its battlements topped with turrets cutting into the clouded sky like the jagged edge of a blade. Massive gates of dark alloy stood open, yet they gave no sense of welcome—only a silent permission to enter.
+
+If such a building were found on the deepest floor of the dungeon, Xen would believe it to be the lair of a demon lord. Yet here it was, surrounded by a loud city infested with weak humans.
+
+"Impressive, isn't it?" Randy said. "Almost a thousand meters tall and wider than the largest museums. The old royal palace had to be demolished to make way for it."
+
+Xen slowly nodded and muttered, "I didn't know a building could be so... large."
+
+"They couldn't, until the World Dungeon appeared under our feet," Randy said, glancing at him. "Your home provided Japan and the rest of the world access to a mine filled with mana-dense metals and stone that made such structures possible." Randy paused and pointed to the eastern wing of the building, where Xen could see cranes and scaffolding. "Even after twenty years, it's still being expanded with the help of Hunters with construction-related classes."
+
+"Why is it so large, though?" Xen couldn't help but ask. Sure, it was impressive, but he refused to believe they invested so much effort into its construction just because they could.
+
+Vesper offered an explanation as they continued walking closer. "While the Guild Association's headquarters was already large, after a disastrous dungeon rush in the Saitama region, they needed to restore the public's faith."
+
+"I remember that," Valoria said with a dark expression. "A million people died within hours, the monsters tore through homes and devoured people. The Hunters and military couldn't contain the outbreak easily, as there were civilians trapped in the warzone."
+
+"So a big building was needed?" Xen asked skeptically, not seeing how the building before him related to the dungeon outbreak story.
+
+Randy nodded. "Some people call this fortress Noah's Ark after a famous religious story. The point is, this fortress now serves as a shelter in case of a monster outbreak, and Tokyo has a lot of people, so it had to be massive."
+
+"I heard it has its own nuclear reactor inside, so if the rest of the city falls, it can remain powered," Vesper added.
+
+"Yeah," Randy agreed. "There are also tunnels leading to all the other major guild buildings, armored trains connecting the fortress to each district, and enough stored weapons in the basement to fund a military campaign against another country. Sorry, I could go on and on. I was going to be an analyst working here after graduation and have toured the facilities."
+
+"Going to?" Valoria asked.
+
+Randy smirked. "Why would I work for a graduate salary when I could found a guild with you two and Yuki? Even if he just offers his healing services, our guild would make far more than what I could make working for the Guild Association."
+
+Xen paused. "You're planning to use me?"
+
+"No," Randy said firmly. "Having a guild will help legitimize you in everything you do here on the surface. If we grow, I'll be able to get you access to transportation hubs and entrances that you couldn't reach without help. We can also buy and sell monster parts and materials, and people will be less likely to ask questions about how a level 1 Radiant Healer could get their hands on such goods."
+
+"It's like money laundering," Vesper said with a chuckle.
+
+"Money laundering?" Xen asked. He was getting confused.
+
+"Whoa, that's a great comparison, Vesper," Randy said excitedly. "Ger—I mean, Yuki, you know those credits you looted from the dungeon?"
+
+Xen slowly nodded.
+
+"To use those credits, we need to report where they came from. If the government sees that they were obtained by a solo Hunter registered as a level 1 Radiant Healer, they will flag it immediately. But if it's included as income made by our guild? It becomes clean money we can use without question."
+
+Xen was starting to follow what Randy was saying. "Basically, this guild thing lets us hide my unexplainable activities."
+
+"For the most part, yes," Randy said, nodding. "The larger we get, the easier it will be to muddle the records. For example, if we produce a million credits' worth of monster loot while having only four members, that's too hard to justify. But if we hire loads of freelance Hunters, we can claim they produced it."
+
+"I think you are getting a little ahead of yourself here, Randy," Vesper said, patting his friend on the back. "We haven't even managed to register Yuki yet, much less overcome the mountain of paperwork and legal red tape involved with opening a guild."
+
+"You're right," Randy sighed. "I just get excited thinking about it, though. Yuki is the greatest catch a guild could ever get, and I can't wait to see what he gets up to."
+
+"Hopefully not breaking any more laws," Valoria muttered, inciting a laugh among the group.
+
+"Alright, we are getting close now," Randy passed Xen a card he had procured from his pocket. "Take this, it's the fake ID I had made today."
+
+Xen inspected the card and was surprised. "Yuki Tanaka... why does it have my face on it?"
+
+"Tanaka is the most generic family name I could come up with, and we used a rendering software to make your face since you're wearing the cursed mask."
+
+"Wait, will wearing the mask be fine?" Xen asked.
+
+Randy shrugged. "We are about to find out. It's a cursed item you're unable to take off, so surely it will be fine. Honestly, the first problem is getting past the wards."
+
+"Wards?"
+
+"You will see what I mean when we get closer."
+
+Randy hadn't lied. Once they were steps away from the looming gate that led into the walls surrounding the immense fortress, his dulled Geomantic Perception picked up on it. Thin threads of mana stretched across the fortress and doorway like a web.
+
+Xen slowed, allowing two armored men to enter ahead of him. The threads rippled as they passed through, humming faintly. The men didn't seem fazed by the ward's presence.
+
+"I think you should go through first," Randy said. "If there's a problem, it will be easier to help you from the outside."
+
+Xen glanced up at the towering walls and felt a sinking feeling in his stomach as he stared down the barrel of a turret that made the ones he had seen before look like a joke.
+
+He then looked back at the three humans. Randy, Valoria, and Vesper gave him encouraging looks. All around them, streams of Hunters passed in and out of the opened gate, unaware there was a monster among them.
+
+Xen took a hesitant step forward, then paused. "I'm sorry, do I really have to do this?" he questioned, his voice dropping to a whisper. "Even if I get past this, if at any point they suspect me in there..."
+
+He left the rest unsaid, but it wasn't going to be pretty for him or them.
+
+"Maybe we should reconsider this," Valoria mumbled in agreement.
+
+"If he can't achieve this, our future working together isn't going to be bright," Randy clenched his jaw. "At the end of the day, it's your decision. We can make it work without registering you, but it would make everything far easier."
+
+Xen hesitated for a moment longer, watching the pulses of mana ripple through the air before him.
+
+He stepped through.
+
+The sensation was like walking through cool mist. The ward brushed against him, sliding across his Elf form. He stood there stiff as a statue, waiting for something bad to happen.
+
+Yet there was no reaction. The mighty cannons overhead didn't swivel towards him, nor did a party of Hunters blast him with spells.
+
+He... had made it.
+
+"Ha!" Randy said, perhaps a little too loud. "You made it. Follow me, let's head inside."
+
+Xen was buzzing with excitement and fear as he followed behind Randy, his eyes darting around as he took it all in... and that's when he caught a familiar face in the crowd.
+
+Sarah of the Stormbringers guild was heading towards him, with a group of Hunters in tow.

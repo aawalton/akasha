@@ -1,0 +1,407 @@
+---
+id: b8d53054-f2d7-5fc7-be36-0775186cf9cf
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 453"
+slug: 0152-the-path-of-ascension-chapter-453
+partOf: the-path-of-ascension
+position: 152
+ownLength: 5648
+unit: words
+ownProgress: 5648
+publishedAt: 2025-10-27
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2709661/the-path-of-ascension-chapter-453"
+royalRoadId: "2709661"
+markedReadAt: "2026-06-29T19:22:56.706Z"
+---
+
+Chapter 453
+
+Matt was buoyed along by the exuberance of the rest of the crew and couldn’t help but be excited for them.
+
+Strange realms were said to be able to replicate Minkalla effects, but being lucky enough to find one at the right Tier before it was used was the stuff of legends on most expeditions. One that affected the lowest Tiers of one's cultivation base were rarer still.
+
+Matt fully understood how incredibly lucky his cycle of Minkalla had been. Moving all of his Genesis Energy down to the lowest Tiers of his core was something most people who got access to Genesis Energy never got to do at all.
+
+This strange realm already had that benefit, but it paid for that advantage by being brutally hard. The half dozen exploration teams who had officially ventured inside had learned a lot, and several full reports had been shared with them as part of the ticket.
+
+They had looked into getting a second ticket, but it was first come first serve, by batch. Additionally, any new slots sold were for the next batch, meaning years of waiting, which probably meant never getting a second attempt. Anything as popular as this strange realm was never going to last more than a year or two at the rate tickets were being sold.
+
+So instead of running the strange realm twice, they decided to run it as a group.
+
+Considering half of them might not get any benefit out of the strange realm at all, Allie and Zack were willing to bring the crew in. That would compound the difficulty of the strange realm, but they were confident in themselves and the crew in being able to overcome that hurdle.
+
+The seven of them were already a Tier stronger than the strange realm, and would be punished with a stronger than normal experience anyway, so increasing it slightly wasn’t that hard of a choice.
+
+According to the ticket’s provided information, that seemed to be the only punishment for being too strong. Thanks in no small part to the reward being in tandem with a cultivation reset challenge, that was the only effect of them out-Tiering the strange realm.
+
+Best of all, the rewards were fantastic.
+
+As advertised, it converted the essence in the selected cultivation core into something more efficient per amount allocated, giving a foundational improvement to the cultivators strength.
+
+Unlike in Rah’s Realm, where the amount of essence a cultivator might have when they Tiered up varied with their specific style, every cultivator in their Realm had the same amount of essence spread between their three cores.
+
+With that baseline level of power being so flat, there weren’t many ways to strengthen the amount of raw power a cultivator had. Improving one's very essence was one of the best, and the one that scaled well.
+
+The strange realm they were headed to had a singular consistent restriction. Everyone was limited to a single cultivation core while inside.
+
+If someone chose their magical core, they were limited to skills in their innate and core skills while being Tiered down to Tier 1, having to re-earn their power in various ways. According to the reports, the mages had the easiest time, and anyone who chose it would additionally have their spirit strengthened at the end of the strange realm, based on how well they did.
+
+On the other hand, those who picked their physical or bloodline cores suffered. They would be cut off from magic entirely, unless the scenario they were placed into had some method of enchanting to let them leverage their advantages.
+
+For the physical cultivators, that always meant greater physical strength, but could translate into weirder things according to the scenario. One report Matt read over indicated they gained access to a near mana energy they were able to use to cast limited magics, but none of the following groups had been able to recreate the power in their own attempts.
+
+Everyone from the crew who mainly cultivated their physical core still chose that one, because in addition to their essence improving, they also received a general all-round improvement to their physical bodies, making the harder strange realm scenario worth the additional effort.
+
+While they found success, that couldn’t be said for the people who chose their bloodline core.
+
+They were nearly always reverted to some variant of their bloodline form while also being restricted to Tier 1, meaning they could no longer transform into a human form. To make matters worse, they were cut off from both their enhanced body and any magic that wasn’t innate to their bloodline.
+
+That was then compounded by the fact most didn’t allocate that much essence to their bloodline cores, and therefore didn’t gain as much power as they would have if they picked the core they specialized in, thanks to how the strange realm unlocked and converted their new essence.
+
+The reward, however, was worth it for those who invested into their bloodline. If they exited successfully beyond the converted essence in the bloodline core, excavating and refining their bloodlines in the future would be easier. That made it an ideal secondary reward for both Liz and Aster.
+
+Liz wanted to do it because she wanted to make her ichor bloodline better, refining her already existing power.
+
+Aster, on the other hand, wanted it for the polar opposite reason. She was still preparing her bloodline for her eventual leap to a Rank 1 Level 5 mana type, and that meant excavating her own bloodline for the next jump. Best of all, the buff would still prove helpful once she followed Liz’s path and sought to raise her bloodline to Rank 3 with her ideal mana type.
+
+The reward was so good that several of those with bloodlines they actively cultivated intended to follow their lead. Solely counting on that secondary reward to make up for the opportunity cost of converting the essence in one of their other cores.
+
+That was if they could absorb the strange realm’s energy at all, given their Genesis Energy.
+
+With the Minkalla run the four of them had, they had four or five Tiers converted respectively, thanks to the energy shifting down due to Back to Basics. Matt’s creation of pure neutral aura during Genesis Cultivation’s floor challenge allowed him to convert an extra Tier’s worth of essence into Genesis Energy compared to the others. That in turn meant he would need to nearly break the publicly acknowledged deepest run of the strange realm to even see if he could gain its power boost.
+
+Not that Matt minded if they didn’t succeed and he walked out empty handed. He had benefited greatly so far on this expedition and he didn’t mind helping Zack, Allie, and Rah get a benefit he already had, let alone the rest of the crew. Depending on how Opposite Day interacted with the conversion, Zack and Allie stood to make out like bandits with their better than fully compressed essence.
+
+The reported scenarios were totally unique, leaving them with little to expect beyond the very basics. Thankfully, every report indicated the strange realm was entirely safe. Anyone dying inside was ejected into a waiting space until everyone finished.
+
+Because of the reported variance, the only things they knew for sure were that they would have to collect something and they would be restricted to their chosen core.
+
+The first team to explore it found themselves on a trade caravan, having to defend it from monsters and bandits alike. Each kill had increased their power in their chosen core but the power of the monsters rose faster and killed the last of them after the third city they passed.
+
+The corporation in control wasn’t sure how the strange realm knew, but each time everyone in the group advanced a Tier, it would give them a chance to end the strange realm. It was only if at least one person accepted to voluntary leave that the eliminated entrants would get the secondary rewards. But so long as one person made it to the next break point, everyone succeeded, and was one of the main challenges of the strange realm when entering in as a large group.
+
+In the case of the first team, they walked for weeks or months between cities, unable to progress until everyone advanced, all the while the monsters got stronger, making it a very dangerous race against time.
+
+The second team to enter the strange realm had been tasked with slaying ghosts that haunted a world after a devastating battle cursed the region. The more they managed to slay, the more their power increased and the more their cultivation was converted.
+
+The third group wasn’t so lucky; they were tasked with protecting a city from endless swarms of fire elementals. Weirdly enough, they didn’t have to kill the elementals to advance. Rather, they had to ensure as much of the grain was harvested as possible, and every day they were empowered based solely on that metric.
+
+Despite their strange criteria, they reportedly had the biggest benefit, having converted the first five Tiers of their cores entirely, making them the largest public team that advanced the furthest. Others might have beat them but they weren't making their information known.
+
+Considering the difficulty, Matt and the others suspected that would be close to the real best run.
+
+To confuse things further, the fourth reported run said the group’s scenario was similar to the second, but instead they were tasked with hunting down bandits that littered the countryside in a low-tech society.
+
+That was possibly the strangest thing to Matt but he didn’t let himself get too side tracked. All of the reported runs seemed to exist inside of perfectly believable worlds with their own, seemingly unique, languages, costumes, and powers but enough information to do their jobs would be given to them.
+
+To ensure they reached the strange realm before it could possibly dissipate, they skipped over several closely-Tiered but less interesting strange realms they might have been able to hit on their way.
+
+Being so close to the core of the second layer of energy, the planets were already picked over, with long-term exploitation teams starting to settle in. The explorers had already moved on and were trying to find untouched worlds before the final surge, as the third layer bubble popped and set off one last rush. Most people would return to settled space after that, but some would push their luck and enter the second layer of chaotic space, where the pieces of this bubble had been torn off.
+
+Those worlds were much richer targets, but with their allure the danger was that much higher.
+
+They would be in that first category. Over a decade since the first explorers arrived, a majority of the strange realms were now occupied and known quantities. Most weren’t at the right Tiers for them, but they did pass two Matt would have loved to explore.
+
+Sadly, both were arena type strange realms, and so far, no one even close to their combat power had been willing to enter a combative strange realm with them. Or at least nobody who wasn’t so many Tiers above them it’d be suicide to attempt it.
+
+Matt couldn’t say he really blamed people for that, but it excluded them from almost a quarter of the total strange realms useful to them.
+
+That didn’t mean the year of travel was spent in their normal relaxed atmosphere. Instead, they trained.
+
+Borrowing a small area in Magnus’ portable world, the seven of them started working with the crew in ever rotating shifts preparing them for the cultivation reset. They even went as far as to bring out some of Luna’s Back to the Basics preparation training methodologies.
+
+While they had explored several strange realms together, this was one where they wouldn’t know what to generally expect. The potential rewards meant they needed to prepare for everything.
+
+Thankfully, no one was a true non-combatant. At worst, they could delve at Tier and threshold. However, most of them could at least cross a minor threshold up, meaning they could fight from lower, middle, high, and peak of the same Tier when they delved for advancement.
+
+The year helped, as they brushed up on their low-Tier combat abilities and got them used to fighting in their new groups, based on what core people intended to choose.
+
+It wasn’t perfect, but no one was willing to squander this opportunity, and the crew sacrificed any free time to attend.
+
+When they arrived at the indicated world, they nearly had to double check their directions because the world wasn’t guarded like they expected. Instead, it was only protected by a standard-looking Tier 30 mining corporation’s life boat acting as a beacon, with a single person inside to relay messages or give those inside warning if someone came.
+
+Any such casual demeanor vanished as they reported they were there for the strange realm, but when they provided their information, he went silent. A few moments later, the life boat vanished and two Tier 35 combat ships replaced it, escorting them inside after they ensured no one was hidden nearby.
+
+Once they entered the world's real space, Matt’s suspicions were confirmed.
+
+While the outside looked like a normal higher-Tier world, the inner world had a full one hundred man company of Tier 35s all on full alert.
+
+Seeing that, Matt mentally reevaluated the value of the information they had sold the information brokerage. He had known such telemetry data was valuable, but their Seekers had been there and they hadn’t gotten information worth this strange realm.
+
+How was any part of that worth their scan records?
+
+Not that he felt bad at getting a deal.
+
+That, and the service was exceptional.
+
+They were guided in and their ship sealed by both groups before they were led to an ornate looking multi-colored obelisk. It pulsed with power fluctuations culminating on a large pearl seamlessly embedded in the stone near the top.
+
+It wasn’t fully unstable, but it was clear the strange realm wasn’t long for the Realm.
+
+Matt’s suspicion that the truly important people had already long since gone through this strange realm was only confirmed when he got a good look at it.
+
+The corporation behind this group had gotten their value out of it and was happy enough to profit from the excess.
+
+Floating around the obelisk, they touched it in unison.
+
+Matt found his consciousness drawn into a dark spot with only a single area of light.
+
+Unable and unwilling to resist, Matt looked at the three copies of the obelisk he had just been touching.
+
+The first blazed like a star in the sky full of twenty nine Tiers of essence.
+
+Matt was a little moved upon seeing his life's work represented like that.
+
+What was less flattering were the other two pillars. The one representing his mana core was empty, with only the barest wisps of essence swirling around thanks to his efforts at fixing his mana concentration, while the third pillar was missing its orb entirely.
+
+It was a little hurtful to see both displayed like that, but they accurately represented his cultivation.
+
+Matt’s mana was entirely Talent-driven, and instead of letting him abuse that fact like in the shadow strange realm. Because he wasn't actually in his real body and his Talent wasn't related to his body, he was limited by the restriction in this strange realm. He could have risked choosing his nearly empty magical core but that seemed like a waste.
+
+Knowing he couldn’t risk being a true burden to the team, he touched the shining core. The instant he did so, he vanished from the mental landscape.
+
+A moment later, he found himself coming to consciousness standing under a baking sun that beat down on his bare shoulders relentlessly, despite being less than an hour from setting.
+
+Looking around, Matt found himself standing with a group of others as a thin and sickly looking man yelled at them from the back of a wagon.
+
+Inspecting himself, Matt found nothing wrong. He was in a facsimile of his own body, but his other cultivation cores were entirely gone as if they had never existed. That included his mana and spirit full of skills, but he shrugged that off.
+
+In fact, even his physical core was ‘empty’. It wasn’t actually empty but his essence was locked away by a mist-like substance.
+
+Matt spent some time playing with it, trying to learn something, but it felt like poking cotton with a stick. No matter what he did, his feedback was limited, making his efforts ultimately useless.
+
+Paying attention to the leader's words, Matt quickly figured out the scenario they were in. The old man’s ‘rousing speech’ combined with the spotty memories implanted in Matt’s memory worked together seamlessly in that regard, but he didn’t push deeper and see if he could learn more.
+
+The ‘world’ they inhabited was recovering from a disaster, and most of the human population centers had been decimated by the very sun which beat down on them as they listened.
+
+Matt had some vague ideas about the disaster, but his new memories about the monsters were far from complete.
+
+What he did care about was there though.
+
+The monsters they would need to fight were formed from the sunlight and ferociously attacked any humans.
+
+Straining his now much weaker ears, Matt could hear clashes from the wall and knew the city's defenders were fighting off rogue monsters even as they spoke. They would continue to do so until the sun fell below the horizon and the monsters vanished.
+
+Matt knew some might want to explore this odd world but he simply didn’t have the time. He, along with everyone else with him, were being ‘volunteered’ for the expedition that was leaving the moment the gates opened.
+
+As harsh as the fighting sounded, the city had long since been a safe haven, surrounded by the oasis’ ever fertile field.
+
+As such, the city population boomed and something had to be done about the third and fourth children.
+
+So every year, a new city was reclaimed via an expedition of the expendables.
+
+Only one out of ten caravans made it to their new location and survived according to the information in his memories.
+
+Matt assumed that was because they were entering in with a massive group whose average Tier was two Tiers over the strange realm’s, but so long as the monsters were killable, they would manage.
+
+Once the old man stopped shouting, they were forced to join up with the rest of the caravan.
+
+Seeing the rest of the crew mostly assembled, Matt felt slightly better, but that feeling only lasted until he realized there weren't any of the people who chose their bloodlines with them at all.
+
+He got his answer a few minutes before the sun set as a group of children brought them additional food animals.
+
+To anyone else, it would look like an odd selection, but Matt recognized the oddities as being members of the crew.
+
+Best of all, among the cages of chickens were a pair of a fox and a golden hawk, representing Aster and Liz, shoved into a cage together.
+
+Seeing they were temporarily safe, Matt simply nodded at them instead of immediately moving to a rescue.
+
+Matt earned himself two sets of glares, but he winked at them as Allie chortled next to him.
+
+“Oh, they are going to be so pissed at you.”
+
+Matt didn’t let her side step responsibility. “I’m basically useless here. I’ve got my sword and little else. You can teleport them out. I can’t.”
+
+Allie snorted. “I wish. No magic at all yet. I can feel my Talent is mostly working, but I don’t have access to my skills yet. What about you, mister I usually cheat in these things?”
+
+Susanne’s arrival kicked off a storm among the normal members of the caravan, given her noble status.
+
+Matt was nodding to her to say hello as he bickered with Allie when he felt an odd sensation emanating from her that caused the words to catch in his throat.
+
+The first thing that caught his attention was that she wasn’t a volunteer like himself and most of the crew had been. Instead, her clothes were much nicer with hardened leather sandwiched between local top end fabrics.
+
+She also had her sword.
+
+It wasn’t a replica of her blade, but looked exactly like her actual manifestation, including its not quite corporal material.
+
+Her words flat and tight, Susanne whispered so only they could hear, “Something isn’t right.”
+
+Matt frowned as she took the words out of his mouth even as Allie nodded, looking at her torn and tattered robes to Susanne’s elegant set. “Yeah, clearly.”
+
+He hadn't considered that angle, but rather that she seemed to have access to her Concept when Matt had his actual Domain blocked off, which seemed unusual.
+
+Testing his own arsenal in case he overlooked something, Matt found only his Power seemed to work out of his Domain-based abilities, but its effects were scaled down to his current body, not letting him cheat as Allie often accused him off.
+
+However, Susanne’s look silenced the amused Allie. Seeing that, Rah stopped trying to form a blade out of the loose sand and waited for her to finish explaining.
+
+Allie, Zack, and Rah had chosen their magical abilities, not that Matt could blame them. But because of that difference, Matt didn’t like the tone in Susanne’s voice.
+
+“The nobles of this area know something about the forest ahead. I wasn’t told what exactly, but I know there is something deadly there. I suspect it's a hint about a possible boss, but the locals are terrified of it.”
+
+After a little more quick back and forth, they searched their memories, only to conclude the strange realm had given them an odd scenario and they should do their best to play it out.
+
+Allie then looked at Susanne’s sword. “So how are you creating your manifestation? I can’t do shit with mine.”
+
+Susanne shocked them all by saying, “I’m not.” The usually stoic swordswoman smiled and added, “I had the same thought when I activated it. Honestly it feels like my sword, which is nice.”
+
+With a twist of her arm, she showed the four of them a silver bracelet embedded through her wrist. It looked well healed with zero scarring, nor was there any redness or swelling that would have indicated it was new.
+
+“I’m not exactly sure what this is beyond an enchanted object, but it lets me create any weapon I can picture. All I know is that these weapons are the noble’s way to make a physical fighter as dangerous as a mage, and recreating them should be our number one priority.”
+
+Seeing the world grow dark, they were shouted at to get ready to start moving.
+
+Matt and a dozen of the others who had chosen their physical cores, and had the corresponding intimidating auras, barged into the kitchen wagon, where they calmly explained to the very angry chef that their friends weren’t dinner.
+
+All three of the cooks looked at them like they were crazy, but Matt didn’t mind.
+
+Instead, they got to work.
+
+Not defending the caravan. In this world, when the sun went down it was a time of peace and the caravan was able to move along unbothered until the sun rose.
+
+Instead, they started inspecting the few enchanted items they could find.
+
+Everyone with enchanting experience figured out the logic behind the runes, but they found it impossible to actually enchant any items.
+
+Sadly, without any magic of their own yet, they were left speculating until they got some amount of power.
+
+As they started moving down the well-maintained road that led away from the city, it transformed from clean cobblestone to gravel and eventually to dirt and mud, before fading to the mere suggestion of a road.
+
+Trekking alongside the wagons, Matt could feel small little pulses of energy appearing inside of him as they walked.
+
+The power removed the fog over his cultivation and with every dozen or so steps, Matt felt a small fraction of his power return.
+
+They had been hiking along for two hours when they suffered their first attack.
+
+Mundane griffins, the size of small horses with the claws of eagles, swooped down at them from the clear sky, looking for an easy meal. The only sound to give away their ambush, was the whisper of the wind passing through their feathers.
+
+If it wasn’t for Liz being a predator of the sky, and the griffin’s first target, the caravan might have suffered serious casualties on their first night in the sand dunes.
+
+Grabbing one of the throwing spears, Matt joined the other professional guards.
+
+Being one of the volunteers, he had no armor, not even the leathers the guards had, but Matt wasn’t too worried about the griffins, having seen them move.
+
+Matt and team were mostly there to protect the mages.
+
+As the flock descended, trying to grab their next meal, spells rose up to meet them.
+
+Even if Matt had been a native of the strange realm, it would have become immediately obvious who was part of the Unsparing’s crew and who was an inhabitant of the strange realm. Upon seeing the natives trying to protect themselves he was grateful the seven of them had come in with so many competent people.
+
+The Unsparing’s crew’s attacks were well-aimed and powerful, while the other volunteers' attacks were sloppy, with few even hitting. Those that did manage to land a hit did little in the way of damage, making them nearly useless.
+
+The professional guards, however, were closer to the crew, in that their attacks landed and took care of the stranglers that made it through the spell rain without fail.
+
+Without his spiritual perception, Matt couldn’t watch everything as he was used to, and so instead looked around the battlefield, trusting in Susanne to watch his head.
+
+He used his time to scan around, worried about a possible ambush.
+
+His worry was for naught, as after seeing their prey fought back, the griffins flew off with their numbers reduced.
+
+There were, however, more small bursts of energy that entered Matt’s core.
+
+Unlike the first energies, this energy was a light purple that tried to convert his genesis energy.
+
+It failed.
+
+It skittered along his core for a moment, like a worm trying to dig into steel, but after a few failed attempts, the power disrupted and revealed more of the fog. Seeing the kills weren’t useful but also weren’t going to waste, Matt was happy enough.
+
+A moment later, Liz landed on his shoulder and started squawking happily.
+
+Matt winced as her nails pierced his now mortal flesh and she unclenched slightly, bobbing down to show her apology.
+
+Not that he was too hurt. Liz, on the other hand, was missing a few chunks of feathers and he made sure she was okay and didn’t need dedicated healing.
+
+Thankfully, the crew had two dedicated healers and they had both chosen their magical cores, meaning they had some level of magical healing.
+
+While he was doing that, one of the guards tried to get him to help with the collecting of the griffin bodies for dinner that evening, but a single glare had the man looking elsewhere for people to work for them.
+
+Matt didn’t mind helping, but he was going to finish looking after Liz first.
+
+Aster, thankfully, made it through the battle without any major issue thanks to her aurora abilities that her bloodline naturally gave her.
+
+With the desert being so cold at night, her ice was surprisingly powerful, so long as there was moisture in the air for her to condense down. Her illusions were small thanks to her limited power, but her precision in applying that power ensured their fighters rarely fought equal engagements.
+
+Without stopping for long, they continued their march until they circled up at a cleared rest spot, and the cooks got to work just a few hours before sunrise, when those not on guard would sleep.
+
+Thankfully, being so close to the city, the protections were in place and they wouldn’t need the weaker portable defenses.
+
+Tired from walking alongside the caravan all day, Matt took the opportunity to nap along with the rest of the volunteers.
+
+They all knew what was coming in the next few hours.
+
+As the sun rose, monsters rose with them.
+
+Being so close to the city, they were under siege in moments, with the guards and volunteers holding off the initial rush that attacked mindlessly.
+
+Matt stood next to Susanne and a member of the crew at the prepared walls of the camping ground.
+
+The physical cultivators were in the frontlines while the mages took their places on the wagons, letting them see the entire battlefield and attack without too much worry about hitting an ally.
+
+The guard captain behind them was talking calmly, trying to keep the volunteers from spooking, but Matt tuned him out.
+
+Instead, he inspected the blade he had been given in the dawn's radiance.
+
+It was far better than he expected with his status. The blade drank in the first vestiges of sunlight like parched ground absorbed a spilled cup of water, empowering itself.
+
+Matt felt the blade hum as miniscule lines on the blade lit up one by one.
+
+His blade was nothing like Susanne’s enchanted item, but Matt wasn’t able to inspect it any longer.
+
+The sun created creatures were upon them with a silent ferocity.
+
+The creatures' bodies were odd mixtures of things familiar and strange, but that didn’t hamper them as they raced at the barrier.
+
+Matt’s first opponent was a cactus with scorpion claws for ‘arms’, propelled along by a snake's tail that let it move through the sand easily.
+
+Deflecting its first pincer attack, Matt used the half wall they were defending to arrest its movement.
+
+Seeing an opening, Matt thrust his blade forward, aiming for the creature's tiny gem-like eye.
+
+The creature of light tried to dodge, but Matt’s blade was already anticipating the move and he skewered it.
+
+That almost cost Matt an arm as he barely dodged a pincer in time.
+
+Pulling his blade free, Matt tried to cut the monster in half, but found his blade struggling to cut through the solidified light.
+
+Bracing himself, Matt twisted with all of his might and tore his blade free, sending golden sparks showering over the attacking horde before being sucked into the caravan leader's bull horn in a stream along with the others.
+
+His blade glowed with a dangerous amount of energy, but Matt found an essence-like power flowing into him.
+
+It tried to convert his Genesis Energy again, but it failed and instead simply gave Matt a tiny portion of his cultivation back. Calculating, he found it was far less than a normal kill's worth of ‘essence’ but Matt didn’t mind.
+
+They didn’t have to last long necessarily.
+
+This world, this scenario, had figured out its own methods of survival.
+
+Once the sun fully rose, their base would be safe as the defenses activated, but they would need to last that long.
+
+Matt forced back a monkey with a rhino's head, earning himself a moment to breathe, allowing him to see as Susanne slaughtered the light creatures like she was their mortal enemy. Where his blade hardly affected them and it took considerable effort to kill a single monster, her special enchanted weapon cut through them easily.
+
+Not that he minded her success; this was a cooperative strange realm, and with every monster she killed, the more energy the bull horn absorbed and the more of Matt’s cultivation base was unlocked.
+
+Sadly, the feast only lasted three minutes as the sun fully revealed itself.
+
+Once it fully rose, the monsters stopped forming.
+
+They didn’t vanish, but the camping area they had paused in was equipped with its own defenses and with the sun hanging high, the monsters were unable to penetrate the barrier of light.
+
+The duality of the morning and evening creating and destroying the monsters respectively was interesting, and Matt wanted to explore more.
+
+He wasn’t sure what any of it meant, or if it meant anything at all, but Matt wanted to find out.
+
+To that end, as most were gathered to stand a few hours on guard to ensure none of the light creatures attacked the barrier for too long, the Unsparing’s crew took their first opportunity to share the fragments of knowledge the strange realm had given them.
+
+They actually learned two useful things.
+
+One of the maintenance crew had memories of working for Susanne’s noble family, and knew for a fact that her bracelet had been crafted locally.
+
+That told them it might be possible to recreate the more powerful blades, but it would take time to get that far, as they would need to learn the enchanting method.
+
+Seeing that, all of the crafters, even the ones that chose their physical cores, were working together trying to brainstorm the answer and happily assisting with secondary tasks when the experiments started in earnest.
+
+It didn’t take them long to figure out what they needed.
+
+The same thing that powered everything in the strange realm: solidified sunlight.
+
+Collecting it was possible and became their priority as the crew was rotated through guard shifts as everyone else slept.
+
+The other thing they learned on that first day was that they could quit any time they reached a safe place to set down a city, with all of them getting the feeling that should they continue their challenge, they might be doing so with a new caravan.

@@ -1,0 +1,111 @@
+---
+id: 505f15c8-899e-5930-b2fb-bdc34ce3cfb1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 58"
+slug: 0058-chapter-58
+partOf: savage-divinity
+position: 58
+ownLength: 2995
+unit: words
+publishedAt: 2016-04-29
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/67653/chapter-58"
+royalRoadId: "67653"
+---
+
+Akanai charged forward on her horse, leading her cavalry into the mass of enemies. While she would have preferred a roosequin, they were shorter than horses, and it made for a sorry sight, leading her soldiers from below. A horse was... adequate. Thundering forward, she smiled as the wind whipped passed her, delighting in the speed at which she moved and the rhythmic motion of the beast. It made for poor travel, but in open battle, the speed was a significant advantage.
+
+She crashed into the enemy, killing Defiled beasts and men alike, killing with every sweep of her weapon, the pain of her new-grown hand nothing compared to the joy of trampling through her enemies. These defiled bastards were more ambitious than she had thought, hoping to take the surrounding cities, to buy themselves time to amass in number. Fools, the lot of them, to think the Empire so weak. Bodies flew about as she pressed forward, leading her soldiers in the defense of Shen Huo, trying to push through the battlefield and link with Sarnai and Tokta who had arrived from the north. They had mobilized the Sentinels, despite the lack of an officer, but that would hopefully be overlooked. It would be bad form for the Disciplinary Corps to admonish heroes of war.
+
+Her mount continued to push forward, muscling through when all else failed, and she cut and thrust as she moved through the wall of flesh, dying her armor and skin red with their blood. Her soldiers pushed with her, the sight of the battered city arousing their fury as they fought to drive the enemy from their lands. Heavily outnumbered, her soldiers fought on with the momentum they had gained from the charge, cutting down all before them.
+
+Breaking through the press, Akanai led her soldiers around, readying for a second charge. Raising her voice, projecting it with her chi, she gave her simple orders.“Slaughter them all, leave none alive!” The hoofbeats struck the earth in unison, a rumbling charge as they dashed into the enemy, trampling the dead and dying as they moved through the Defiled scum. Akanai grinned as she spotted her target, a single demon, red and stony, badly burned and injured. Little Hai had laid hands upon that one, his work upon it evident. She would finish what he started.
+
+Moving forward, she cleaved her weapon into the foul abomination, laughing as it came apart before her blows, shattering into pieces. Victory would be theirs today, and she would hunt down every single one of these invaders herself if need be.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Vivek Daatei watched as the small force loosed arrow after arrow onto the infantry before him, as they rode in from the north on their mounts, untouched by sword or spear. An army of horsemen was charging the Uniter's hordes, coming from the East, tearing through their troops. He had fought for days, watched his tribesmen bleed away, waiting for the gates to fall, as the Uniter's Chosen General continued to send worthless dregs to their deaths. The demons had proven weak, destroyed one after another by fierce warriors within the city, and their numbers dwindled. It was too late now, as more enemies had arrived. While this new force was small, they were only the beginning as his scouts reported that even more soldiers marched towards him, less than an hour away.
+
+He had already lost too much following orders. The remnants of the forces sent with his son had returned in shambles, 10,000 reduced to mere hundreds, leaving him unable to share in the strength of his last remaining child, to give the boy's bones to the ice. A pretender, a fool, the Uniter was worthless, unable to keep his promises and now he thought to have Vivek sacrificed for nothing.
+
+He no longer needed the Uniter. Vivek Daatei had brought his people south, into the promised land, and right now, his tribe still whole. As long as he still lived, he could have more sons and daughters, and lead his people to prosperity in these bountiful lands. Giving the signal, his people acted, slaughtering the newer tribesmen, those he was unable to trust. He led his riders away from this lost cause, slipping away towards the great forests that had so fascinated him. He was meant for greater things than dying for a fool, a coward who remained hidden. He would find safe haven for his people, take them far away from the cities, away from the Uniter, where his people could grow strong. Let their enemies fight amongst themselves and spend their lives weakening one another. The future of this land belonged to him.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Waking to the sounds of breakfast, I bask in the mid-morning sun. Nothing beats a good night's rest after a harrowing experience, with food waiting for you. Charok and Tanaraq cooked for everyone, even the Justicar's group, the food smelling delicious and inviting. Only the cadets and Mei Lin are still sleeping, and I wake them all to go eat. Mei Lin is usually the first one up in the morning, but the last couple of days have been hard on her. She helped out a lot, looking after all our injuries, doing chores, picking fruit, keeping the twins calm. She's a real trooper, and even though she kept a chipper and happy appearance through it all, right now she looks exhausted. Poor sweet child.
+
+I finally get to see the Justicar without her helmet on, and she is a lovely, stern older woman, late thirties maybe. I don't know why, but I find the 'Disciplinary Corps' really sexy. In my head it's a division of scantily leather-clad BDSM mistresses, ready to dole out spankings, which I'm not really into, yet still intrigued by. Giving her my best smile, I greet her. “Good morning, miss Justicar. Might I have the pleasure of knowing your name?”
+
+“Justicar, will do. No 'miss'.” She barely even acknowledges me, eating her food in a prim and proper manner.
+
+Okay then. Not too friendly. Before I can try again, Mei Lin grabs my arm and pulls me aside, whispering to me. “Don't flirt with the Justicar, Rainy. They take their oaths very seriously.” She rolls her eyes at my questioning look, seeming less tolerant today, no giggles and smiles like I would normally get. “They dedicate themselves to upholding Military Law. Nothing else. They have sworn an oath and take no families and make no friends. It's serious business.” She gives me the stink-eye. “So no flirting!” I miss the sweet child Mei Lin. She's picking up all of Sumila and Adujan's bad habits. At least I still have the twins. I hope they never grow up.
+
+“Alright grumpy. No flirting, I got it.” We sit with the others to eat, Mei Lin acting even clingier than normal for some odd reason. I guess she's just relieved that our flight is over. Noticing a flash of color on her hand, I grab a hold of it for a closer look. “Mei Lin! You need to be careful with that, its not just some decorative jewelry.” On her thumb, she sports the purple jade ring she chose as her own.
+
+She smiles at me childishly. “It's pretty, ya? Don't worry, Rainy, I'll be careful.” Silly little girl, she's going to bake her own brain. She ignores my lecturing, grasping my hand tightly, eating daintily, breaking the rhythm of my serious talk by trying to feed me from her bowl. She's getting more and more difficult to deal with, she used to be so sweet and obedient.
+
+Giving up in exasperation, I shake her hand loose and focus on my meal. Simple yet delicious, salted animal bone rice gruel, with plenty to go around. Roasted meat as well, with more being cooked over the fire, a quick effort to refuel us all before heading to Feng Huang, and then we can finally go home. I can hardly wait to sleep in my own bed again and go back to my routine of training and hunting. This trip has only reinforced how little I like this world. Nothing good ever happens when I leave home.
+
+We're still eating when Elder Ming arrives on horseback with a small entourage, his face wrinkled in a grin. The man needs a grooming, his eyebrows are so long it's ridiculous, their dropping tips almost past his chin. I'm super jealous of his long beard though, it looks so smooth and silky. I wonder how long before I can grow one like that? I still barely even need to shave. Will Tate have a beard like that when he's older? I think they're the same animal type, some sort of goat. Or is it a Ram?
+
+Dismounting from his horse and clasping his hands, Elder Ming Zhong Guan laughs in his carefully measured way, three short breaths. “Good, good, it is truly good to see that you have all survived, a group of skilled youngsters. Allow me to escort you all to the city, and ensure that there are no more... misunderstandings. I shall treat you to a grand meal once there, and we shall see about that drink.”
+
+“No need.” I interrupt before Alsantset can accept, and she turns to look at me. “We will be fine returning with the Justicar, at least I can trust her. I think.”
+
+“Oh, now, young hero Rain, what have I done to earn your mistrust?” His smile is still plastered on his face, wrinkles and all.
+
+“One of our would-be robbers mentioned they made tracking devices from Song's blood. I found that a little odd, to be honest.”
+
+“It is a simple thing to do, well-known among all who live among the Society. It saddens me to see our work used in such a way.” Shaking his head, the elder plays his part perfectly.
+
+“Oh, the tracking doesn't confuse me, it's the target. Who knew that we would even have Song with us? The 'robber' said nothing detailed, except that he was tracking the slave and that the blood was obtained from the healers. Oddly specific, for a man being tortured.” Psychological torture, but they don't need to know that part. I watch the small flickers of emotion on Ming's face, trying to read him, but he remains calm. “The whole thing bothered me, and I just couldn't stop thinking about it. Why tell us he got the blood from the healers?”
+
+Speaking around a mouthful of gruel as I go on. “Then I remembered something else, a young man I killed, from the first group of pursuers. His name was Zhong Lang.” Ming has a pretty good poker face, but not perfect. His entourage is decidedly worse at keeping their emotions in check, dark stares coming from them. “Did you know him well, Elder Ming Zhong Guan? You must have, you shared part of your name with him.”
+
+The smile is gone from Ming's face now, a calm neutral expression as he wars to keep his anger from showing. A sneer breaks out on his face, a friendly grandfather no more. “Good, good. You are a clever little savage, I can say that much. Your debts to the Society will not be forgotten.” Flicking his sleeves, he quickly mounts up to leave.
+
+“He died well in battle.” I shout it at him, watching him stiffen in his seat as he rides away. “A true warrior.” He deserves to know that much, at least.
+
+“I do not understand, little brother.” Alsantset glares at them as they leave, speaking quietly. “How did you know? He seemed so helpful and kind.”
+
+Laughing lightly, I shake my head. “It was mostly a guess, but it was nice of him to confirm it. I just couldn't wrap my head around that man's explanation about the blood. Bloody rags just go in a giant pile after they're used, no one keeps track of them. If Song's blood was taken as they healed her, then they would have already been planning to deliver her to us at that time. How could I not suspect Ming? If it walks like a duck.” Shrugging as I reach for more food, I add, “Besides, he was too friendly. Far too suspicious, considering everyone else around him."
+
+“Then why did he let us out in the first place?” Sumila joins in, and for once I know something she doesn't. Excellent. “And what do ducks have to do with this?”
+
+“So the Arahant Sect could have the first chance of killing us!” Adujan steals my moment of glory, chiming in before I can speak. “We were already on the streets, and they couldn't murder us in front of all the witnesses. Too many were from outside the city, and the Society would have lost face if they were to kill their guests openly like that. They were ready, so they allowed us out, in hopes of catching us before their competitors could.” I can't even be mad at her, she looks so happy having figured it out.
+
+She's actually quite pretty, pale and dark-haired, her cheeks rosy now from the meal. If she put some more meat on her bones and let her hair grow out, it would give her some femininity and she'd be a real knockout. I think she might have a crush on Huu, but I'm not sure. She's very different around him compared to when she's with the rest of us, more relaxed and teasing. Poor girl though, Huu has a crush on Sumila. Ahhh, a love triangle, Huu is in his springtime of passion. I'm a little jealous. All I have is a clingy little sister, who grows less adorable and more stubborn by the day.
+
+The Justicar joins into the conversation. “This is all conjecture, with no proof.” She holds her bowl out, and one of her goons fills it for her. Even the Disciplinary Corps enjoys Charok's cooking. Bonding through food, how nice. A real shame, she's very lovely as well, a stern brunette, tidy and neat, like a sexy librarian. For someone like that to swear off all relationships, it's just so unfair. I'd like to have a 'relationship' with her. Mei Lin interrupts my thoughts with a flick to my cheek and a small pout on her face.
+
+When everyone is finally full, we clean up and leave for the city of Feng Huang, to resupply and commandeer soldiers for Akanai, as reinforcements and our escorts. Mei Lin forces her way up onto Zabu. “What are you doing? Go ride on your own quin.”
+
+She glances back at me with a plaintive look as she leans into me, wrapping my arms around her. “My back hurts from all the riding Rainy, this is more comfy.” She closes her eyes, asleep within seconds, a sweet little girl, exhausted from the past few days. I'm so happy that we managed to come out alive. Maybe she really does need back support, she normally travels in a rickshaw. It'll be a long trip back, but maybe I can buy a new one for her. We have plenty of gold.
+
+Messenger riders pass us often, a stream going both to and from the city, everyone rushing to get prepared for war, but the mood is light-hearted as we travel, feeling safe for the first time in days. Any problems we might have can be dealt with at another time. I tell silly stories for the twins, the sound of their laughter a balm for my soul. When they fall asleep in their parents arms, I awkwardly practice amplification on the side of the road with some stones I've been keeping in a bag.
+
+Sumila moves next to me on Kankin and asks, “Why do you keep practicing that one thing, without end? Why not spend time on something you've already learned, but needs the practice?”
+
+“Well, besides Honing, I don't really know how to do anything else.” I've had a bit of successes with the stone flicking, but when it does succeed, my finger hurts so much it feels like it'll explode from pain.
+
+She stares at me for some time. I know that look. “Are you an idiot?” Yep, there it is. “Honing isn't all you can do. I've seen you use your chi in other ways.” I literally have no idea what she means by that, and my facial expression must show it. Her face turning red, she launches into her explanation, and I smile through all the name calling. It's like things are back to normal once again. We're not being hunted, Sumila is a little angry, plus I've made two new friends in Huushal and Adujan, and I'm headed home. Good times are ahead. I can feel it.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Feng Huang is bustling when we arrive, a scene of organized chaos as a long line of wagons and troops moved out of the city, heading east towards the main road. A multitude of soldiers mill about with their loved ones, husbands and wives, parents and children, brothers and sisters, all saying their goodbyes. Watching them brings a tear to my eye. “Look at them, all ready to march off to war, saying what may be their final farewells, not knowing if they'll ever return. Those poor bastards.”
+
+Alsantset pats me on the shoulder. “Do not worry so much little brother, I will be right there with you, and we will be following Akanai. You will be fine, so long as you remember your training.”
+
+“Fine from what? With me where?” I don't get it.
+
+She looks uncomfortable. “Little brother... You heard the Justicar. Martial Law was declared. All available units were ordered to aid in the defense of the Province. That means the Imperial Defense Forces as well, which the Sentinels are a part of. We ride to war, little Rain.”
+
+...
+
+Tch.
+
+...
+
+Fuck!
+
+- End of Volume 3 -

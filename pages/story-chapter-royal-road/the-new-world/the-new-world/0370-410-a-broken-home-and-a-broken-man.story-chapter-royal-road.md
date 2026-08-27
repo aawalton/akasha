@@ -1,0 +1,301 @@
+---
+id: b5154882-e1f3-5973-ab12-7cb33271e829
+page-type-slug: story-chapter-royal-road
+title: "410 A Broken Home and a Broken Man"
+slug: 0370-410-a-broken-home-and-a-broken-man
+partOf: the-new-world
+position: 370
+ownLength: 2957
+unit: words
+ownProgress: 2957
+publishedAt: 2025-04-10
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2190948/410-a-broken-home-and-a-broken-man"
+royalRoadId: "2190948"
+markedReadAt: "2026-06-29T21:34:00.904Z"
+---
+
+Neel waved me off.
+
+"Don't mind that. What happened there? You were giving him what for until something changed."
+
+I peered at a breathtaking view.
+
+"I remembered a part of who my mom was."
+
+Althea murmured.
+
+"It must've been sweet then."
+
+I blinked as my throat burned.
+
+"That's the problem. It wasn't."
+
+Chapter Begin
+
+Althea and Neel peered at one another. Neel furrowed his brow.
+
+"Are you sure you're remembering right? I can't recall a time she ever raised her voice...Hmm, but I never saw her that much. Hell, I met Betty more than I met her."
+
+I frowned at him.
+
+"I remember it as crystal clear as glass."
+
+Althea put her hands over mine.
+
+"Can you tell us?"
+
+Neel's eyebrows went wild as he contained a few expressions. He crossed his arms.
+
+"I...I can leave. It don't feel right listening in on all this."
+
+I raised a hand.
+
+"No, it's fine. In my mind, you've earned some trust, and besides, I want you to hear this too."
+
+I explained the memory of my mother and the moment Deryll slapped me. Althea's face flushed as she gritted her teeth. Neel furrowed his brow in confusion. As I finished, Neel sighed.
+
+"I can't say I remember her bein' that unreasonable. I will say that you were always disciplined as a child. It stood out a lot when I did see you from time to time."
+
+I scoffed.
+
+"I always got into fights at school and nearly got expelled on more than one occasion."
+
+Neel furrowed his brow.
+
+"But that happened after your mom passed. You weren't like that before. If anything, you felt too grown up. You know, like one of those kids taking care of younger siblings. Thing is, you didn't have any."
+
+I massaged my temples.
+
+"Ah, yes. Of course, none of this makes any damn sense."
+
+Althea leaned to me.
+
+"I...I have something to add if you'd like to hear my thoughts."
+
+I turned to her and smiled.
+
+"Of course. I'd listen to you read from a cookbook if it meant hearing the sound of your voice."
+
+She grinned.
+
+"Thanks. Ok, this might be a, er, challenging thought. Are you ok with that?"
+
+I nodded. She took a breath.
+
+"So, I never thought this vision of your mom was realistic. Like, ever."
+
+I blinked, and so did Neel. Althea raised her palms in her defense.
+
+"Hey, I'm not saying she's evil or anything. I just never thought she sounded like a real person from how either of you described her. It, uhm, she sounded like this filtered and purified version of a mother rather than someone authentic."
+
+Neel frowned.
+
+"Like she was the idea of a person, not the person themselves?"
+
+Althea frowned.
+
+"Pretty much. Just to reiterate, I'm not saying she was never sweet or didn't have good qualities. I'm saying she had to have faults. For example, she married this Jacob guy and stayed with him. From Daniel's stories, his father was very abusive. That's not something that pops up overnight. He had to be doing that even before she passed."
+
+I furrowed my brow.
+
+"You're right about that. He always gave out punishments that, in my opinion, didn't fit the crime. Stuff like five paddles for talking out of turn."
+
+Neel raised a brow.
+
+"What kind of paddle?"
+
+I scratched my cheek.
+
+"It was a hand-sawed two-by-four. He drilled holes in it. Anytime they couldn't find the paddle, they accused me of hiding it. I had to spend hours looking for it. Sometimes, I think they hid it just so that I would have time to dread the punishment. I assumed my dad was the one hiding it, but maybe not."
+
+Neel shook his head.
+
+"That's messed up, and that's coming from an oldie like me. We kept kids straight when I was young."
+
+Althea frowned.
+
+"It reminds me of the research facility, but kind of the opposite. They didn't have punishments because no one cared. We did our own thing, and whoever was strongest got to call the shots. And, yeah, kids can be mean sometimes."
+
+Neel peered at Althea. The veteran turned a hand to her.
+
+"Is that why you run an orphanage? To heal from helpin' out?"
+
+Althea grinned.
+
+"You bet. What about your rehab program?"
+
+Neel gave her shoulder a pat.
+
+"Hah. Me too, honey. That's what the rehab's all about. Help others. Help yourself along the way."
+
+I smiled with them, their stories heartwarming. It also made my pursuits feel tangential. I focused on my own strength while these two worked to make the world a better place. Not having time to reflect on that, I took a breath before peering at Althea.
+
+"I'm not upset, just curious. Why didn't you ever bring up your doubts to me before now? About my mom, that is."
+
+Althea gulped.
+
+"Ahem, so...I never felt like I had the right to. Anytime you talked about your mom, you had this...Reverence in your voice. It wasn't something shallow. Heh, actually, it kind of felt like you needed the memory, or else you'd go insane sometimes. I always felt like it would be cruel of me to go in and try to tear that beautiful memory down."
+
+I frowned.
+
+"You know you don't have to lie to me."
+
+I smiled.
+
+"But thanks."
+
+She rested a hand on my cheek.
+
+"We're just doing our best, right?"
+
+I stood up while grabbing her hand.
+
+"Speaking of our best, there's a few dogs we have to save real quick."
+
+Neel peered at the view.
+
+"You don't want to mull over that memory a bit more?"
+
+I shook my head.
+
+"Naw. I think I'm not going to get any answers until after I find my father."
+
+Neel and Althea nodded, and we headed back to the castle. After tearing down a few walls and freeing about twenty pit bulls, we found the source of their corruption. Thatcher fed eldritch grubs using tiny, powdered bits of crystalized mana. Before they finished mutating, he mashed them up and fed them to his dogs, uncooked and unclean.
+
+From inside, the grubs spread the mutation through their stomach first and up into their brains eventually. We found three dogs well beyond saving since their entire brains were consumed. I gave them a prayer before ending them as painlessly as I could. I felt like an evil prick, but they were in pain, and this was the only mercy we could give.
+
+The other puppers required something akin to surgery. Althea cut them open, and I helped pull the eldritch out. Althea kept many healing potions on demand from her work with Kessiah, and she used them to stabilize the dogs. We walked out with nineteen still living, including Thatcher's two reserve dogs.
+
+While somewhat sad about putting down three of them, we helped give the other dogs a new chance at a better life. To further that end, I constructed a golem from myself and gave it orders to head over to Mt. Verner. I gave it the name 'The Pupper Protector,' and I told it to save as many good doggos as it could after helping these pit bulls out.
+
+How could it tell if a dog was a good boy? It simply had to ask, and the question would be answered.
+
+We also gathered a few documents about Jacob's position. As expected, the Hillsides had been tracking the guy for quite some time, and they isolated him to the West. They hadn't crossed into the wilderness out of worry. The deep country held monsters, and they weren't willing to lose dogs and family members to seal a grudge. Not yet, at least.
+
+They figured out that Jacob hid out in the Strontia Springs Dam to the West. With a solid foundation under us, we set out to uncover what the hell was going on. At first, the flight was awkward and solemn. Neel and I were already exhausted after the emotional whirlwind, and Althea felt like she couldn't broach the silence.
+
+Instead, I did. I got us chatting away about nothing important. As the others joined in, I felt a change in the banter. A depth was injected into the feelings and our words, kind of like soldiers talking after their first battle together. We ran through fire, and the beginnings of a bond forged in the flames. It was still a young closeness, but it felt like a solid start.
+
+It helped add levity to an otherwise oppressive set of conversations. The background scenery helped seal that deal. We entered Roxborough State Park, and fields of trees sat on rolling hills. Smooth yet jagged rocks poked out of the ground in ways that defied reason. They looked as if someone planted them there rather than forming naturally, but that only added to their mystique.
+
+We passed them by before nearing the reservoir. It was the kind of manmade lake one could expect. Water piled up high in the valley, and a wall of concrete held it in. In time, the concrete would crack and shatter. For now, it acted as a haven that cradled all kinds of life here. To my surprise, it only took a few minutes to find an isolated log cabin on the side of the reservoir.
+
+As we neared it, I turned to them.
+
+"Do you mind if I meet him by myself?"
+
+They peered at each other before Neel scoffed.
+
+"You don't have to ask me, son. This is your fight, and I'm here to help you win the war."
+
+Althea smiled.
+
+"I don't mind. Whatever you need."
+
+As we got closer, I flew down and landed about ten miles away. We avoided rustling any trees or awakening a flock of birds. After we settled in, I shifted back to my more pedestrian form. I wore yet another set of combat fatigues Neel had extra. Before I walked over to my father's encampment, I tried to contemplate scenarios or things Jacob would say.
+
+I kept drawing blanks. I hadn't talked to the man in a decade. There was no way to determine what he'd be like. I tried coming up with a course of action using advice from Neel and Althea. Before I even got started, Neel put his hands on my shoulders.
+
+"Listen, son. This is something you need to get done so you can move on."
+
+I frowned at him.
+
+"Didn't you have a lot to say? I'm not trying to hog the conversation here. I mean, he's not just my father. He's your son, too."
+
+Neel gave my shoulder a firm pat.
+
+"Trust me, son, you're not hoggin' anything. I never expected to be able to build a bridge with either of my sons. Lord knows I don't deserve it. That's why I already got what I needed from that conversation with Thatcher and Betty. Hell, I'm gettin' what I need right now."
+
+Neel hit my chest.
+
+"Now go handle your business like a man. Do what you need to. We'll get the hell back to the guild after and save the damn world, or whatever the hell it is you do these days."
+
+I laughed before turning to Althea. She and I hugged before she pressed her forehead against mine. She murmured.
+
+"I love you."
+
+I smiled back.
+
+"I love you, too."
+
+With those last words, I turned and walked into the forest. I could've skipped the walk, bolting across the forest as a blur of dark metal. I chose to soak in the calming ambiance and walk. It helped cleanse my mind of the vitriol from Betty and Thatcher. It also let me contemplate what the hell was going on.
+
+So far, I had gotten a variety of answers from different people. Thatcher and Betty acted like my mom stayed with Jacob because of me. However, I never heard that at home. At the same time, I had a sneaking suspicion that I had suppressed more than one memory of my mother. A chill ran up my spine at that prospect, and not the good kind.
+
+This entire endeavor was like opening Pandora's Box, and it couldn't be closed anymore. The answers I sought rested in a cleared patch of forest on the side of this reservoir. An hour later, I sat behind several trees and waited. Behind the wall of lumber and forest, my father fumbled inside his log cabin like some Paul Bunyon wannabe.
+
+I could've run in. I could've ripped the log cabin apart with the snap of my fingers. Despite that overwhelming and absolute control, I felt so small. A part of me hid this fear deep down, but even if I pretended it hadn't affected me, it did. To this day, I still feared him, at least my memories of him.
+
+My father. My maker. He'd beaten me, sure, but that wasn't all. Sometimes, he put cigarettes out on my arms and neck while sitting on my chest. I remembered him locking my door and leaving the windows open. The old, rusted panels wouldn't budge, so I slept on the living room floor, shivering all the while.
+
+I recalled the days he left me in the apartment and left no food. My stomach would ache from how empty it was. Flashbacks of the days he raged at me rushed over my eyes. The days when he told me my mother's cancer was caused by the stress of raising a worthless, pathetic son. I had taken those beatings, and I had accepted those words in as stoic of a silence as I could manage.
+
+But I was a child, and I cried. I wailed. I begged for mercy, and he would give just enough to keep me alive. That terror was a palpable, trembling thing, and the fear gazed out from the eyes of a child. It met the uncaring gaze of a monster in human skin. Those emotions roared in my mind because a simple fact would never leave me.
+
+No matter how strong I became, I would never forget those moments of weakness. I had been a helpless child. I was the one who was beaten. I was the one who took the blame and fault. But I was a child no longer, and I commanded my feet to move.
+
+I walked out of the forest, one step after the other. My heart beat until my ears pulsed and my head throbbed. In the distance, my father leaned over the side of the lake. He stood in a hunch, his form tall, lithe, and wiry. From the side, I could see his face, and I'd never forget it. He had scars on him like Neel and I, ones from Neel's beatings and stupid fights at bars.
+
+As always, Jacob kept his full beard and his brow perpetually furrowed. It gave him wrinkles that ran up his forehead. I smiled at the scar on his lip and left eye. I gave him those the last time we met, my sweet little parting gift to such a kind, gentle man. Beside him, a boy held a fishing pole. He gazed up at my father.
+
+The boy looked at a ruthless man, someone who'd beaten me time after time. He was a brute who stood over me holding empty bottles of vodka before slapping them on my shivering back. He was a man who held my throat and cursed me, wishing I'd died as my face turned purple. That boy gazed at a monster of a man, and that monster gazed back at him.
+
+Jacob looked at him with a warmth I'd never known, and that child smiled back like a grateful son.
+
+A piece of me broke seeing them.
+
+It took all twenty minds to keep my composure as I walked closer. They heard me whenever I was twenty feet from them. Jacob turned in a quick jerk. His eyes widened as he saw a strange man walking closer. I stopped ten feet from him. Jacob raised his hand while putting his hand over the child's chest.
+
+"Wait a minute. There's no need to do anything rash. I'm just trying to teach a boy to fish. We don't have anything worth stealing, but we can give you what we have. Just...Just don't hurt us, alright?"
+
+I numbed at his words. The kindness. The concern. How thoughtful of him. I murmured.
+
+"You don't even recognize me. I guess that's exactly what I should've expected. Any disappointment I'm feeling is my fault, right? That tended to be the case."
+
+My father met my eye.
+
+"I'm sorry, young man, but I don't recognize you. Do you mind jogging my memory?"
+
+I spread my arms, my hands open wide.
+
+"I'll give you a hint. I'm from Springfield. I enjoyed getting beatings."
+
+Jacob blinked before his eyes widened. He covered his mouth before a burst of wildness spurred behind his eyes. He patted the boy's chest.
+
+"Go inside with Janet."
+
+The boy murmured.
+
+"Bu-"
+
+Jacob turned down and shouted.
+
+"I said go inside, boy. Don't make me tell you twice."
+
+The boy scrambled up. My eyes followed his steps.
+
+"What's his name?"
+
+My father frowned.
+
+"Jake. He's Janet's son. We met after the system came. It's...It's been a long road."
+
+I smiled but it held no warmth.
+
+"Tell me about it."
+
+I peered at the cabin.
+
+"Hm. It looks like you managed to scramble together a half-decent life out here."
+
+Jacob narrowed his eyes at me.
+
+"Is that right? Did you come out here to fuck it all up?"
+
+I held my expression; years of grueling training were still somehow easier than this conversation.
+
+"I came here looking for answers."
+
+I met his eye.
+
+"And I will have them."

@@ -1,0 +1,201 @@
+---
+id: e3f33820-62df-51dc-b533-7dd0b9d1c063
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21: Changeling"
+slug: 0025-chapter-21-changeling
+partOf: shapeshifter-a-non-human-litrpg
+position: 25
+ownLength: 2345
+unit: words
+publishedAt: 2026-06-09
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3514229/chapter-21-changeling"
+royalRoadId: "3514229"
+---
+
+[Evolution to Changeling Slime (Rare Variant) is complete]
+
+[Pending experience can now be distributed]
+
+[Changeling Slime] has leveled up: 80 → 81.
+
+[Elf] has leveled up: 39 → 40.
+
+Xen's awareness returned all at once, and for a strange, disorienting moment, he found himself looking at his old body, which was slumped against the far wall of the nook, head tilted forward, and arms sprawled out. Uninhabited, the body showed no signs of life.
+
+Yet what captured his attention the most was his own face. Yuki's face.
+
+Stripped of the Cursed Mask, Yuki's true face was on display, with blonde hair falling over soulless eyes and perfect features.
+
+Xen studied it with interest.
+
+Yuki's face still clearly resembled a girl's, as he hadn't bothered to expend biomass editing the elf's face when Randy had made fun of him after his drastic change from Ghostwire. While wearing the mask, Yuki passed as either gender, but he had chosen to be referred to as male by his old party to avoid confusion. However, if his current party found him right now, they would have questions.
+
+Thankfully, a quick check with Geomantic Perception confirmed he was alone. Hina was now asleep, and Alex was on watch duty, meaning he was free to do as he pleased down here.
+
+This is odd. I didn't leave my body during my last evolution, Xen thought, his attention shifting downward to himself. Maybe I changed more than I expected?
+
+He sank his awareness into his slime body and immediately paused.
+
+...what is this?
+
+His Hexreaver Slime body had been black and glossy, like hardened marble, and looked dangerous to touch. His new body was nothing like that. It was clear as glass, yet held depth at the same time—utterly unassuming and harmless-looking. He erected a tendril and inspected it. Where his Hexreaver body had looked like polished obsidian, his tendril now looked like wet glass, as if he had freshly emerged from a river. Xen extended the tendril and watched the amber light slide across it. The tendril shimmered, rippled, and then resolved back into the body.
+
+"Shiny," he muttered, noting his current size was equal to the slumped Yuki. Without actively compressing his size, the immense amount of biomass he had devoured from the Ashrock Colossus had drastically increased his size.
+
+No wonder I was ejected from his head while evolving. I could probably crush a goblin by simply rolling over them right now.
+
+Xen pulled up his status.
+
+[Name: Xen]
+
+[Level: 81 (A)]
+
+[Race: Changeling Slime (Rare Variant)]
+
+[Current Form: None]
+
+[Class: Shapeshifter (Unique)]
+
+A-grade. Xen savored the letter. I'm now an A-grade existence. A week ago, a creature of this rank could have killed me with ease. Now I am one.
+
+He turned his attention to the new skill the system had handed him, which was a total life changer.
+
+[Changeling Veil (A)]
+
+Swiftly reshape your biomass into the silhouette of any creature you have previously devoured and coat your new form with illusion mana to copy their appearance. While Changeling Veil is active, your mana signature, body heat, size, and general outline are replaced with those of the chosen creature—convincing enough to deceive Appraisal skills and to pass cursory visual inspection at a distance. The veil cannot replicate fine detail perfectly, cannot exceed the copied creature's base movement speed, and collapses the instant you use any debuff, hex, or slime-form skill. Any damage that would kill the chosen monster will also break the veil.
+
+Let's test it, he mused to himself. Something simple first, as this skill is bound to be difficult to use.
+
+He couldn't think of a better option to begin with than an Acid Slime—especially because it was a form denied to him by the system and assimilated into his slime form.
+
+"Changeling Veil."
+
+His body moved.
+
+It wasn't the slow, churning dissolve of Shapeshift, where his body liquefied and reformed over minutes, leaking a foul stench that carried through the World Dungeon and any wall thinner than a meter of stone.
+
+This was instant. Xen's translucent body swelled in size to match the Acid Slimes that had crashed into Alex's shield on the bridge a few hours earlier. He had never been this large, and his body soon filled much of the nook.
+
+Yet, he still looked like a Changeling Slime, just larger.
+
+That's when the illusion mana came in. Despite no changes occurring within his body, from the outside, an Acid Slime core seemed to manifest inside his body, and the surface of his body tinted amber.
+
+In a single breath, he was now an Acid Slime. A process that would have taken minutes had he used his Shapeshift skill.
+
+Using Geomantic Perception, he appraised himself.
+
+I certainly look like an Acid Slime to mana perception. Though my fake Acid Slime core doesn't have its own distinct mana signature like the monsters do. Most wouldn't notice, especially in the heat of battle. But such a minor discrepancy would only be noticed by someone like Daisuke if not preoccupied.
+
+There was also a benefit of the skill he had never considered before. The Faceless Cursed Mask that was bound to his soul and had been resting on the surface of his slime was gone, hidden behind a layer of illusion mana.
+
+This opens up so many possibilities, Xen mused.
+
+He prodded a tendril outward experimentally and watched as the illusion mana turning him amber stretched with it.
+
+This is a pretty convincing Acid Slime. Let's try something harder.
+
+He closed his eyes, not that he had any as a Changeling Slime imitating an Acid Slime, and pictured a body he was intimately familiar with: Ghostwire. Lean, tall, suited with slicked-back hair. The practical opposite of Yuki.
+
+It was also the identity he had arrived on the surface with—and one of the most wanted men in Japan.
+
+"Changeling Veil."
+
+The illusion mana faded, revealing his translucent self. His biomass lurched upward, stretching, narrowing, lengthening into something tall and two-legged. It felt nothing like shapeshifting. It required him to actually become the thing—to grow organs, to push his slime into the shape of a skeleton, to knit flesh and skin over muscle. This was different. His slime body simply rose and leaned into the silhouette of a man, and the illusion mana did the rest, skinning him in the appearance of Ghostwire's features.
+
+He looked down at himself a breath later.
+
+A familiar black suit over a white shirt greeted him. The dark tie he never knew how to put on was there too, and his polished shoes didn't show a hint of the dungeon's grime.
+
+He reached up to touch the tie, and his fingers passed through it with only the faintest resistance. The cloth was not there. It was an image laid directly over the slime mass beneath, convincing enough to fool the eye but with no actual substance.
+
+The skill made clothes for me, Xen thought, turning his hand over with fascination. From memory. The illusion mana just... remembered what I remembered and painted it on.
+
+He took a step forward and nearly fell over.
+
+"Ah!"
+
+His wobbling legs held him, barely. He braced against the wall with what appeared to be a gloved hand and found that his palm did press against the stone, but weakly. The slime beneath the illusion wasn't a body made for standing upright. It was still a slime, wearing the shape of a man. He had to actively reinforce his lower mass just to keep the silhouette from sagging.
+
+"As expected, this is going to take some getting used to," he said, his voice a strange imitation of Ghostwire's, fueled by the illusion mana. It would pass as a human's voice, but anyone who knew Ghostwire would suspect him immediately. "Now the question is, how much can I alter?"
+
+Focusing on the Changeling Veil skill, he mentally commanded it to turn his suit white. In a flash of color, the illusion mana honored his request. Hair was just as easy to change to a dark orange, and he could make his gloves appear and disappear. He even made his shoes vanish, and regretted it immediately. What lay below were feet, but they lacked all the nuance a foot required to not look strange even to him. The toes were fused, and he struggled to move them independently. He had a similar issue with his hands, albeit with a little more control, and the gloves helped hide the discrepancies.
+
+With those preliminary experiments complete, he turned his focus to the Cursed Mask. Willing the illusion mana, he managed to make Gerald's face appear over the mask, as he didn't know what Ghostwire's had looked like.
+
+Immediately, there were some problems. Firstly, the eyes weren't soulless, which was good, but the fact that the veil couldn't replicate fine details perfectly was strikingly obvious. Like the strange person he had chased, he couldn't make the eyes blink. He also couldn't control his illusory mouth to open and close fast enough to mimic human speech.
+
+"Makes sense," he muttered. "Changeling Veil prioritizes speed over detail. If I wanted it to be perfect, I'd just take the time to shapeshift into Ghostwire. Though even for shapeshifting, this skill solves the issue of clothes."
+
+If he were to fully shapeshift into Ghostwire right now, he would have nothing to wear besides the small guild-issued poncho that Yuki was wearing. But with the Changeling Veil skill, he could manifest clothes.
+
+The only problem is that they would vanish should he use a skill or be attacked.
+
+"Speaking of skills, let me try using some," Xen mused and decided he wanted some light. "Orbs of Light."
+
+[Skill unavailable. You are not currently in the [Elf] form]
+
+He tried Windveil Agility next, as it was one of Ghostwire's signature skills.
+
+[Skill unavailable. You are not currently in the [Human] form]
+
+What about a skill in my free skill slots? Xen wondered. I could try Ghoststep, but I'm worried about moving around as I can barely stand. Maybe Cleansing Light will be fine?
+
+"Cleansing Light," he said, aiming the skill at his own arm.
+
+The illusory suit and skin burned away under the light, revealing his translucent, slimy body below.
+
+"Oh."
+
+It was good to know that cleansing effects deemed the illusion mana as a status effect to be removed. Though his Ghostwire veil remained beside what had been cleansed.
+
+The skill description said the veil will collapse the instant I use any debuff, hex, or slime-form skill. Cleansing Light doesn't seem to trigger the collapse, but what about...
+
+"Acidic Burst," he said, and his arm exploded with acid at the wall. A second later, the illusion mana that had cloaked him in clothing and given him a human appearance vanished, and his translucent, human-shaped slime body was exposed.
+
+He stood there awkwardly against the wall, as naked as a slime could be, while the wall he had fired at liquefied and bubbled with frightening intensity, filling the nook with acidic vapor.
+
+[First Strike]
+
+The first debuff you apply after breaking Changeling Veil is applied at an upgraded grade and cannot be resisted, cleansed, or reflected during its first three seconds. A target struck from within Changeling Veil is considered ambushed, regardless of whether they were aware of your presence or actively observing you at the moment of the strike.
+
+As it turned out, even a wall could be considered ambushed.
+
+"This isn't good," Xen muttered, feeling terribly weak and exposed despite the upgraded strength of his Acidic Burst skill. Not because of the lack of clothes, but because he had none of the stats or skills bound to the Human form that he had enjoyed as Ghostwire.
+
+If that first strike didn't kill his target in the future, what followed wasn't going to be a good time.
+
+I have nothing but my Changeling Slime stats right now and a body that's hard to control. This is far from ideal.
+
+His Changeling Slime form was level 81 and A-grade, but that level was mostly magic. As a slime, only a fraction of his physical stats ever translated into whatever form he wore. His real agility, strength, and resistance as a slime were closer to those of a C-grade creature.
+
+"Changeling Veil should be strictly used as a disguise, then," he concluded.
+
+Dispelling the veil was as easy as thinking the word. The Ghostwire silhouette collapsed like wet cloth, and his wet-glass slime body was left wobbling on the stone floor of the nook. He rolled experimentally, feeling out the limits of his new body.
+
+It was faster than his Hexreaver form had been. Smoother. The glossiness had translated into something genuinely slippery, and he could feel himself flow more than move.
+
+His attention drifted, inevitably, back to the husk of Yuki propped against the wall.
+
+[Do you wish to take on the Elf form?]
+
+"Yes."
+
+His body flowed up the wall around Yuki's slumped figure and into his mouth. He then threaded himself into Yuki's body, filling muscle fibers, the brainstem, and the heart in one cooling rush. The corpse twitched as his will poured into its nerves. His eyes opened behind the Cursed Mask that resumed its previous place over Yuki's features.
+
+[Shapeshift complete]
+
+[Name: Xen]
+
+[Level: 81 (A)]
+
+[Race: Changeling Slime (Rare Variant)]
+
+[Current Form: Elf (Radiant Healer: Level 40)]
+
+The world came back through Yuki's eyes. The nook regained its depth and color that had been lacking when relying solely on Geomantic Perception. Stone pressed against his back. The chill of the floor seeped through his clothes. His heart, quiet for hours, gave a soft, deliberate thump, then another.
+
+Xen flexed his jointed fingers and took a slow breath through borrowed lungs.
+
+"Yeah, this feels easier to control," he said, getting up and coughing from the acidic fumes. Kicking away his barricade with the strength he could never display as a slime, he rushed to the stairs and began climbing.
+
+It was time to rejoin the humans and lead them to the second tower.

@@ -1,0 +1,355 @@
+---
+id: fd901fb8-d4e7-5897-a37e-04569d0f7898
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18: Shaking Down The National Guard "
+slug: 0018-chapter-18-shaking-down-the-national-guard
+partOf: the-gift-of-loot
+position: 18
+ownLength: 3792
+unit: words
+publishedAt: 2026-05-09
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3375920/chapter-18-shaking-down-the-national-guard"
+royalRoadId: "3375920"
+---
+
+Thomas stared at the label in complete disbelief. $500,000 was the starting price, and that was before people even began bidding.
+
+It was unfair, he needed it... And he could imagine that a lot of other people did too.
+
+Ridiculously, his eyes started stinging, and he quickly backed away before he could make an absolute fool of himself. Once free of the crowd surrounding the shroud, he forced himself to take a breath.
+
+Breathe, he told himself. This is a setback, not a death sentence.
+
+After all, that shroud had to come from somewhere. If he could figure out which dungeon had dropped it and which monster, Thomas could re-dive the dungeon over and over again.
+
+It had to be local, right? How was he going to find that information? No idea. But the fact that the item had dropped meant that it was possible. Just... difficult. Derek would have to learn to get along without a hand for a little bit. Not forever. Just until Thomas could figure this out.
+
+Feeling marginally better, he found Zach looking over different items.
+
+"Anything interesting?" he asked, keeping his voice casual.
+
+"Yeah, a cloak made from real flames," Zach said. "It doesn't actually do anything except look cool, but I'm tempted. What about you?"
+
+"Found what I'm looking for, but the price is... way out of reach."
+
+Zach glanced at him and then frowned at what he saw in Thomas's face. "That sucks, man."
+
+"Yeah." Then something— it wasn't quite his Forewarning skill, but something— made him look to the side.
+
+Two National Guardsmen were making their way through the crowd.
+
+He hadn't seen any sign of their presence at the auction so far, but now two of them in uniform were making a beeline straight toward him and Zach.
+
+"We've got company," he said quietly.
+
+Zach glanced sideways and understood. "Yep."
+
+The National Guardsmen stopped a few feet away. They had the air of professionals, and the older one nodded. "Mr. Coldstrike? We were hoping to have a word."
+
+And while Thomas's mind was busy flailing at oh my God, they knew his name, because he hadn't given any official his name at this auction, and yet they had it, the guardsman's gaze shifted toward Zach.
+
+"You as well, Mr.—"
+
+"Zach works," Zach said quickly.
+
+"Of course." The National Guardsman didn't miss a beat. "I'm Sergeant Martinez, and this is Sergeant Applebaum. We've been asked to make contact with qualified level two individuals regarding a time-sensitive opportunity."
+
+"Opportunity?" Zach repeated.
+
+"How do you know we're qualified?" Thomas asked.
+
+Martinez answered Thomas first. "You reached level two within the first fourteen days of the official System announcement. That makes you qualified." He looked hard at Thomas. "Understand that this opportunity comes with significant compensation."
+
+Something in Thomas immediately pinged. Maybe it had to do with his Gift. "How significant?"
+
+"That would be part of the conversation."
+
+Wow. This guy was almost as good at stonewalling as Zach had been with the dude-bros.
+
+Zach, however, went for the throat. "So, which dungeon's giving your people trouble?"
+
+Thomas gave him a confused look, but after a moment, realized it made sense. After all, since they weren't currently being arrested there wasn't much else this could be about.
+
+Martinez's expression didn't change. "We'd prefer to discuss specifics in a quieter setting."
+
+Oh, hell no. Thomas was not going to get moved to some isolated location without witnesses to have a chat with the National Guard when they already knew too much about him.
+
+"I'd prefer to discuss them here," Thomas said with false pleasantry.
+
+There was a moment when the two National Guardsmen looked at each other and exchanged a professional nod. It seemed they were far enough away from the general crowd. Finally, Martinez looked back at them. "There's a level one dungeon in the region that has proven... resistant to clearance. Given the timeline, we need people with level two capability."
+
+"A level one that needs level twos?" Zach said. "That's not an opportunity, dude. That's a huge red flag."
+
+The other guy, Applebaum, finally spoke. "The situation is... a bit complex."
+
+"Cool," Zach said so blandly that it was clearly sarcastic.
+
+Thomas was busy doing the math. A level one dungeon that was somehow dangerous enough to involve the National Guard had probably already chewed through their own people. And now they were desperate enough to come to random outsiders at an auction for help.
+
+It was, all told, very simple math, and it added up to: No way, no how, hell no, and so on.
+
+But he was also in a kind of a shitty mood and decided on a Hail Mary.
+
+"When you said significant compensation," he said, "I want the shroud."
+
+Martinez blinked. "I'm... sorry?"
+
+"The Regeneration Shroud." Thomas gestured back over his shoulder toward the small crowd gathered around it. "The one-use item. Lot 182. If you get that for me, I'd definitely be willing to check this out for you."
+
+Applebaum exhaled through his nose but said nothing.
+
+"Mr. Coldstrike," Martinez said carefully, "that item is—"
+
+"Expensive, sure." Thomas shrugged. "It's also the price for my life. You said significant compensation. That's what significant looks like to me."
+
+Martinez and Applebaum exchanged a look. The thing was, it wasn't a 'no' look.
+
+Thomas suddenly felt like he'd screwed up. He'd thrown out the shroud as a number too big to say yes to and send them off looking for somebody else, but it looked like they were giving it serious consideration.
+
+"That particular item is outside what we can authorize directly," Applebaum said. And how interesting was it that he knew about the item? "However..." He looked harder at Thomas. "Is there a medical situation involved? Is that shroud specifically for you?"
+
+"Uh..." He mentally stumbled. "Why?"
+
+Martinez's smile was only a slight uptick at the corners of his mouth, and yet Thomas suddenly felt like a fish that had just gotten hooked. "There are other channels depending on the... nature of the situation."
+
+Ah, damn it. That definitely wasn't a no.
+
+Thomas considered for a long, hard moment before deciding that a bit of the truth wouldn't hurt. "My brother lost a hand on his first dungeon run."
+
+"Then in that case, we may have a skill shard for you," Applebaum said quietly. "It was recovered a while ago from a pre-announcement dungeon and has been sitting in freeze because nobody with the right healing affinity has been cleared to use it." He paused. "It might work."
+
+"Okay, but hold on," Zach said, stepping forward. "If we're doing the ask-for-things thing, I need something to balance mana, and not something that's going to evaporate when I level up. It needs to be a renewable natural treasure."
+
+Thomas's head snapped toward Zach. A renewable what now? But since they were in the middle of a negotiation, he didn't say anything. He just nodded along like he knew what Zach was talking about.
+
+Martinez frowned. "That's a significantly more complicated request."
+
+More complicated than a genuine healing shard? Thomas thought.
+
+"That's fine," Zach said. "Then I'll think about this whole thing once it's guaranteed. Not before."
+
+Again, the two guardsmen looked at each other. They were considering it.
+
+Thomas felt a little like he did right after killing a dungeon monster and waiting to see the loot it left behind. A little giddy, a little victorious, and a bit dangerous.
+
+If they were already this close to yes, he wanted to see how far he could push them.
+
+"We also want our pick of the extra-dimensional storage bags," Thomas said. "The bags the lady's selling back there. We each get one."
+
+Zach visibly brightened. "Hell yeah."
+
+"You'll have your pick of weapons going in," Martinez said.
+
+"I don't care about weapons," Thomas said. "I want the storage bag."
+
+"Hold on." Applebaum made a 'wait one moment' sign, then stepped away from the group and put a phone to his ear, turning his back.
+
+While he was doing that, Martinez glanced around and jerked his chin for them to move a few yards away from a nearby group that had drifted their way. He lowered his voice. "I want you both to understand the scope of what we're asking. This dungeon is on the verge of an overflow event. When that happens, whatever is inside stops being contained. It becomes a public safety crisis on a scale that—"
+
+"We get it," Zach said.
+
+"I don't," Thomas said. "That wasn't supposed to happen for another six months, right? That was in the initial announcement."
+
+He looked between Zach and Martinez, who were both giving him expressions of pity.
+
+"There are exceptions," Martinez said. "Just know that we're coming to you because we're running out of options and time. You two are perhaps among a dozen level twos in this region who aren't already committed to federal contracts or operating outside the law." He paused. "I'm appealing to your sense of civic responsibility."
+
+Thomas found he couldn't say anything. He had asked about the shroud kind of as a fuck-off, and suddenly he might actually be in over his head.
+
+He was equally torn between hoping Applebaum came off the phone with a no and hoping he came back with a yes, and he wasn't sure what that said about him.
+
+Zach looked toward Martinez with something close to irritation. "Dude," he said, "that was a low blow. If you know his last name, you know what kind of mana he has."
+
+"What is that supposed to mean?" Thomas asked.
+
+"He's playing dirty games," Zach said, not really answering. He looked hard at Martinez. "Either get us what we want or get lost."
+
+"I'll do whatever I need to," Martinez said. "We're on the edge of a crisis."
+
+Applebaum came back and gestured to Martinez. The two men stepped away and had a brief conversation in low voices.
+
+Thomas took that opportunity to have his own conversation. "What was that supposed to mean?" Thomas repeated. "What's going on with my mana?"
+
+Zach winced. "I said it in the car. You felt like you needed to heal people, right? Or maybe just help them more than you usually would?"
+
+Thomas frowned slowly but didn't say anything.
+
+"It's not like you're forced to be a good guy," Zach continued, "but... yeah. If anyone sees your mana signature, they'll know you've been stacking healing. Like I said, he's playing dirty."
+
+Thomas wasn't sure how to take that, except that he really didn't like anything messing with his head. Had he made a mistake picking healing mana as his level 1?
+
+Finally, the guardsmen came back.
+
+"About that natural treasure," Martinez said to Zach. "We can't give you exactly what you're describing because, frankly, it doesn't exist. But there is an item." He emphasized the word. "It was recovered in a pre-integration-era dungeon."
+
+"Aren't they all?" Zach muttered, crossing his arms. "What about it?"
+
+"People categorize it as a foundational stabilizer. It's intended to be a healing item It's meant—or so we think—to correct elemental imbalances at the mana-core level starting from level 1, then continues forward. But you're only level two. Surely you're not that unbalanced."
+
+Zach uncrossed his arms slowly. He licked his lips, thought for a second, then nodded. "That'll work."
+
+Applebaum smiled and opened his mouth, probably to tell them to 'Get in the choppa' or whatever.
+
+"I want the bags first," Thomas said quickly.
+
+That took both guardsmen by surprise. Martinez frowned. "We can arrange delivery once the contract is—"
+
+"No." Thomas kept his voice even, though his heart was pounding with a sudden surge of adrenaline. "Before we sign anything, I want the extra-dimensional bag as a show of good faith."
+
+The two guardsmen exchanged glances. Finally, Martinez shrugged. "We can do that. But if you choose not to take this, those bags go back to our people."
+
+Oh. They were giving him a choice. That actually made him feel a lot better.
+
+"Then yeah," Zach said easily. "I'm down for it, conditionally."
+
+An hour later, Thomas had his extra-dimensional storage bag.
+
+Fully aware that he was putting his whole ass on the line, he chose the one with the most storage capacity.
+
+On the outside, it was a dark backpack made of supple black-brown leather with fancy silver zippers that looked like it belonged in a luxury store. Inside, it had enough storage to fill a small closet, which was, he was told, the absolute limit for Earth at the moment.
+
+It was also heinously expensive. Well... good. If he was going to put a price on risking his neck, it was going to be for a hell of a lot.
+
+Zach opted for a messenger-style bag that looked right at home with any tech-bro or hipster wannabe. Apparently, it was just deep enough to hold his quarterstaff.
+
+With those bags in hand—which probably weren't big enough to hold all the blood money they were earning—they were loaded into a National Guard truck and driven out toward Carson City.
+
+On the plus side, if Thomas decided to run screaming from the dungeon, home was only about forty miles away. He could probably hike back to his apartment in a couple of days. Maybe three days since it would be uphill the whole way. Call it four days at the most.
+
+What am I doing? he asked himself approximately a thousand and twenty times on the drive there.
+
+To keep from hyperventilating, he drifted his attention to the scenery.
+
+Carson City wasn't exactly a great town. Like much of the area, it had received a glow-up after the pandemic when remote work became more common, but it still had a seedy underbelly.
+
+So Thomas was surprised when their little convoy took a turn off the freeway and started heading up a private road toward a gated driveway leading to a massive mansion. It was in a prime position. One side overlooked the white-capped Sierra Mountains, while the other overlooked the Nevada basin desert.
+
+The house itself was no McMansion either.
+
+It was made of flagstone or granite or marble or... something expensive. Thomas wasn't a rock guy, but there was a lot of rock. The mansion was set on a huge estate with a circular driveway, a fountain, and far more landscaping than should've been possible at the edge of a desert.
+
+National Guardsmen swarmed all over the place in brown-and-tan uniforms, all with slightly stressed expressions.
+
+Upon arrival, he and Zach were quickly escorted into a temporary canvas tent filled with folding chairs and card tables. Apparently, this was the conference room.
+
+"The first thing you should know," Martinez said, "is that this dungeon has been here for over fifty years."
+
+"Oh," Thomas said. Suddenly, the mansion made more sense. "This was one of the people who got access to the System before the announcement?"
+
+"Yes, exactly. They're generally referred to as the 'Old Families.'"
+
+Zach asked, "If they were caretaking the dungeon, then why aren't they... caretaking the dungeon?"
+
+"Because they're gone. Not dead," he quickly added. "Our best guess is they left the country." Martinez shook his head slightly. "They took anything worth taking. Closed all their accounts—and I mean all of them. It's hard to get rich people to part with investment accounts, but those are gone too. Meanwhile, they've left their old dungeon to fill with magical energy. That issue spiked once the System announcement was made. By all accounts, if it's not cleared soon, this dungeon is going to blow."
+
+While Thomas was low-key spiraling, Zach only nodded slowly. "How many people have gone in?"
+
+"Three groups. None of them came out, and no one else was willing to go in."
+
+Another solider nearby, who was acting as a security guard, shifted uncomfortably. "Wish we could just drop a high-yield nuke in it," he muttered under his breath. "Problem solved."
+
+That snapped Thomas out of his gonna die gonna die gonna die spiral. "Doesn't work," he said automatically. "Explosives and modern weapons don't function properly inside dungeons."
+
+The younger guardsman looked pained. "I know. I just..." He shrugged helplessly. "I wish it did."
+
+"Yes, thank you for your contribution, Worthington," Martinez said dryly.
+
+Chastened, the guard straightened up and resumed looking professional.
+
+"So you don't know what's in the dungeon?" Thomas asked. "No guide? No clue what we'll face?"
+
+"We have no idea, and believe me, we have searched. The Old Family took all that information with them, and others we have contacted have refused to lend assistance. Unfortunately, they're too high-leveled for anyone to make them see reason." He cleared his throat. "So that's the bad news. Upon completion of the dungeon, here are the rewards you will receive."
+
+Applebaum came forward and opened a box. Inside was... well, a thing that looked like a small lava lamp in a thumb-sized pendant. The inside was filled with goopy, multi-colored liquid that oozed around each other without quite mixing. That was Zach's reward.
+
+The second item was a skill shard. It was labeled 'Living Architecture' with a bare-bones description: Reshape and build living tissue with intent.
+
+Thomas frowned. That... might work? He looked at Applebaum. "You said someone has to be compatible with the skill? How will I know I am?"
+
+"Put your hand over it," Zach suggested. "Feel if it resonates with you, sort of if it says, 'You and me are meant to be one.' You know?"
+
+The guardsmen looked just as skeptical as Thomas felt, and Martinez said, "Don't attempt to absorb it before you finish your end of the deal and complete the dungeon. You will not like the consequences."
+
+"Yeah. Obviously." Thomas placed his hand over the shard and felt a whole lot of nothing for a long moment. But then he forced his mind to quiet and felt... something. Was that resonance? Maybe?
+
+Thomas realized his other hand had drifted over his stomach. No, over his core. It felt warm and buzzing, almost comforting.
+
+He withdrew his hand. "Okay, I'm compatible."
+
+He was really doing this. The comforting feeling had fled. Now, Thomas mostly just felt like he was going to throw up.
+
+But what was the alternative? He could walk away right now, face his brother and the missing hand, knowing he hadn't even tried.
+
+Oh wow, he really was going to be sick.
+
+"Can I have a minute?" he asked quietly.
+
+Surprisingly, the guards gave it to him and cleared out, though Thomas wouldn't have been shocked if somebody was listening through the canvas walls.
+
+He leaned over the table, folded his arms, and rested his forehead against them.
+
+Zach stayed silent, and Thomas appreciated that.
+
+Finally, though, Zach spoke. "I'm going to do it."
+
+Thomas lifted his head slightly. "What?"
+
+"I'm going in." Zach's voice stayed even. "I mean, you don't have to. You've got your brother and your nephews, and you're..." He stopped, like he wanted to say something else. "You're not obligated."
+
+Not like me, seemed to echo quietly in the silence.
+
+A lot of things clicked into place, though Thomas wouldn't have been able to make his guess without that confrontation with the dude bros.
+
+"Are you from an Old Family?" he asked.
+
+"Not this family," Zach said quickly. "But, yeah bro." Then quieter. "It sucks."
+
+Thomas nodded slowly and stared back down at his hands. He did not want to do this. He did not want to die in a dungeon that had been eating people and scaring the crap out of the National Guard. He was not brave.
+
+And he wasn't sure if he could live with himself if he didn't. Not metaphorically, but literally.
+
+If the dungeon overflowed and killed people, if he went home to his brother with the missing hand, if he never saw Zach again because the idiot died in there while Thomas walked away...
+
+One thing was for sure. Thomas definitely hadn't asked for enough stuff to get paid for this.
+
+"I'm going," he finally said. "I hate it," he added. "I want that on record that I think this is a terrible idea, I wish we'd asked for more, and I genuinely cannot believe this is my life. I was an assistant to a paralegal before the System integration, so I'm not built for this." He exhaled shakily. "But... yeah, I'm in."
+
+There was rustling at the door, and Martinez and Applebaum stepped back inside, proving those assholes had absolutely been listening.
+
+As promised, they were escorted to a secondary tent containing an impressive selection of weapons.
+
+Thomas still had his dagger and penknife. He'd brought them in case he needed to sell them for something to heal Derek with. That seemed like a sad joke now.
+
+They didn't exactly have mauls since Thomas had gotten his from a hardware store, so instead, he picked an axe. Blades on both ends couldn't hurt, right?
+
+Zach grabbed a quarterstaff that looked ten times nicer and more polished than his old one.
+
+Because the dungeon belonged to old money, it was housed inside what Thomas assumed had once been a garage. That was probably the point: to keep people who weren't in the know from looking inside. Since it was from rich folk, the 'garage' was made of stone and metal.
+
+In the middle of the garage, pulsing with dark, ominous energy, was the dungeon entrance.
+
+There were armed guards everywhere, probably waiting for the moment the thing overflowed. And likely as backup in case they chickened out and needed to be thrown in.
+
+Thomas was almost certain he didn't look like he wanted to puke. (But he totally did.) Nevertheless, with their new weapons in hand and bags strapped on, they walked into the false-heat-haze dungeon entrance.
+
+The entrance safe room was... uncomfortably tiny for two grown men to be stuck in.
+
+Thomas stared at the final door, and a strangely giddy thought hit him. There has to be a shit-ton of loot in there.
+
+And now he had the bag to carry it all. All he had to do was survive.
+
+Zach must have been entertaining his own dark thoughts because he said, "We're going to be fine." He glanced at Thomas. "Power of positive thinking, right?"
+
+"Absolutely," Thomas said, dredging up cheer from somewhere.
+
+Neither made a move to enter for a long moment.
+
+"After you," Zach said, nodding to the door.
+
+Thomas couldn't help it. "Oh no, I insist. After you."
+
+"Dude, this was your idea. You should go first."
+
+"What? How was this my idea—" He stopped, seeing that Zach was grinning. With a roll of his eyes, Thomas summoned up his bravery from who-knows-where and opened the door.
+
+They stepped in.

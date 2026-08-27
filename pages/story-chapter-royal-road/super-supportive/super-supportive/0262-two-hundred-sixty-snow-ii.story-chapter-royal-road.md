@@ -1,0 +1,435 @@
+---
+id: 29594c65-6fe8-5633-826e-d1072aab4581
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED SIXTY: Snow II"
+slug: 0262-two-hundred-sixty-snow-ii
+partOf: super-supportive
+position: 262
+ownLength: 5532
+unit: words
+publishedAt: 2025-12-11
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2837594/two-hundred-sixty-snow-ii"
+royalRoadId: "2837594"
+---
+
+260
+
+******
+
+In the Forthright building, after classes were over for the day, the lights dimmed and mopper bots roamed the floors. The coffee shop hadn’t closed, but the guys working the final shift were wiping tables and clearing stale food out of the pastry case. The last scenes of Miracle on 34th Street played on the big screen in the lecture theater.
+
+Nobody was looking when the teen in the sunglasses and brown hoodie arrived, his head turning from side to side as he headed swiftly for the stairs. He climbed a single flight, then entered a hall lined with classrooms. All of them were dark except for one, and he paused in the middle of the hall when he spotted it, tucking his hands into the hoodie’s pockets, staring at the rectangle of brighter light on the floor by the open door.
+
+“See! It’s not shut!” A pair of girls bounded out of the elevator and past him, one of them talking loudly. “I told you we wouldn’t be late.”
+
+The boy followed them.
+
+“Take a seat anywhere,” one of the adults in the room said when he entered. “There’s plenty of space. If you need proof of attendance, we won’t give that out until the end.”
+
+Fourteen teenagers were present, a couple of them still wearing their school uniforms. Three women sat at the front in desks they’d turned around to face the students. Behind them, the smart board said:
+
+Career Explorations Session
+
+“Life as an Instructor: A Candid Talk with Teachers”
+
+We’re here to answer your questions, so ask!
+
+Good, thought Alden. There’s nobody here I recognize, so they’re not going to recognize me with my hood up.
+
+He took a seat in the back, telling himself there was no reason to be anxious. He’d been in MPE a short while ago, getting his femoral artery sliced by another student’s sword. That was the kind of thing that was supposed to make a person nervous. Attending a meeting for high schoolers who were trying to decide if they wanted to be teachers when they grew up should be a mild experience.
+
+The three instructors seemed to be waiting for someone else to arrive. They had five minutes left to go before the official start, but they were already talking to a couple of eager types who wanted to discuss which Anesidoran university had the best offerings for education majors.
+
+The consensus was that it wasn’t any of the Apex schools. There was a stellar program in F-city.
+
+A girl in a red shirt raised her hand and asked how often the different teachers had sabbaticals and what they liked to do during them.
+
+Alden was just getting interested and relaxing into his seat when a familiar voice said, “It looks like I’m the last one here. Good evening, everybody.”
+
+Shit. Why is it him? Doesn’t he ever go home and rest?
+
+Torsten Klein was wearing a button-up shirt and a smile as he headed to the front. People would never guess he’d recently been humiliating hero program students ten at a time. That sword had been aimed, or rather misaimed, at him; but he’d slipped away and let Alden enjoy getting hit with it instead. The Catch Klein game had gone up in difficulty since their class’s one magnificent victory over him.
+
+While Klein’s back was still turned, Alden yanked the drawstrings on his hood so that it covered even more of his face.
+
+Oh look, what an interesting window over there. I’ll just stare at it so that he doesn’t recognize me and think I’m someone who took a rare B spot in the ultra-competitive hero program only to start thinking about new careers ten seconds later.
+
+He heard Klein chuckle and wondered what humorous thing was happening. Nothing much was going on with Alden’s new best friend, the window.
+
+This is supposed to last an hour. Staring away from everyone else for an hour and not speaking isn’t a real option. Should I make a run for it?
+
+There were so few people here. Running out of a large impersonal gathering was one thing, but leaving this sort of meeting without saying a word to excuse himself?
+
+And if I say words, Klein will definitely recognize my voice.
+
+That was a shame. Alden had come up with a small list of questions this afternoon because he wanted to do this thing right.
+
+I’m trapped. I’ve trapped myself.
+
+For the first time in what felt like ages, Dave Banyu’s warning—that a B-rank Rabbit applying to the hero program needed to want it and not come across as wishy-washy—bobbed to the surface of his thoughts. Alden remembered writing that shiny, purposeful essay about why he wanted to be in the program…or, rather, why he had wanted it before, back when he was living in Chicago and his reasons were more in line with what an interview committee expected.
+
+Klein read that essay. He heard me answer all those softball interview questions about dreams and future plans. And he still told me directly not to join.
+
+He must’ve read applications from twenty B’s he liked better. And I got in because of politics. Maybe he thinks I’m smug about that.
+
+Now I’m here, which is an unexpected place for the person who wrote that essay to be. He’s going to think I’m an asshole who stole a spot I didn’t seriously want using my Artonan connections.
+
+But I’m not! I want training. I want my spot. I’m making the most of my time in gym and learning things I need to learn.
+
+“Before we get too far along in our conversation here,” said a merry voice, “let’s all turn on our name tags so we know what to call you. And come sit closer to the front, everyone! There aren’t many of you here, and we won’t bite.”
+
+Alden inched his head around to look upon the face of his destroyer. She was a short lady with a dimpled smile. Her name tag said she taught second grade at Little Caterpillar Primary. She was nodding encouragingly at him.
+
+You monster.
+
+He slid his eyes over to find Torsten Klein’s cold blue ones.
+
+He’s looking at me. Does he know it’s me? Only my nose is sticking out. God, why do I have freckles on my nose? That makes it so much more identifiable.
+
+Instructor Klein clasped his hands on the desktop in front of him.
+
+He looks like he’s about to interview me again.
+
+“Actually, Mona,” Klein said to the second grade teacher, “one of the students here just came from a combat class with me, so he might not believe you when you promise that instructors don’t attack.”
+
+The other teachers laughed. Several of the students did. A couple of heads turned to look at Alden. He tried to spontaneously develop Principal Saleh’s powers so that he could fall through the floor and escape, but no such luck.
+
+With no way out, he took off his sunglasses. They wouldn’t have been an embarrassing accessory if nobody here knew who he was.
+
+Now Klein thinks I’m copying Winston’s style.
+
+He smiled like he wasn’t in pain as he stood and headed closer to the front.
+
+“Hey, you’re that Rabbit boy who works at Matadero!” said the loud girl who’d passed him in the hall. “My friend said she heard you had a job on the Triplanets, too, taking care of a garage full of magic vehicles. What are you doing here?”
+
+“Just curious,” Alden said. “I don’t work with magic vehicles.”
+
+He sat in the desk behind her. He turned on his name tag.
+
+******
+
+It took Alden twenty minutes to stop imagining what Klein must be thinking and get back to the purpose that had brought him here.
+
+Look through this door, he reminded himself. Picture yourself on the other side of it.
+
+Many of the questions the others were asking were about the daily lives of the instructors. And the instructors were being candid with their answers as far as he could tell. That made it easier for him to put together visions of different futures that seemed like they could be real.
+
+Little Caterpillar was a public school. Tomorrow, the second grade teacher would wake up early to lead one of the groups of students who walked to school together every morning. She said some of her hardest days had been recently, with her apartment full of displaced relatives and her classroom full of students who were scared and asking questions about the disaster that she didn’t know how to answer.
+
+“But it’s also made me appreciate my job more than ever. Our school had an emergency meeting as soon as the System allowed communication again, and even though some of the staff had lost their homes or they had spouses who had been red haloed, they were still calling in. None of us had gotten any sleep, but we were all so focused on how to do what was best for the kids and their families. What we decided was that we were going to be normal for them.
+
+“The school bell rings in the morning at the same time as usual. When you get into the classroom, your teacher acts the same way they did the last time you saw them. We’ll talk a little about how we’re all doing because something scary just happened, but this is still school and your job when you’re here is still to learn. Let’s all practice together for our spelling test.
+
+“It sounds boring maybe?” She looked at her fellow instructors. “It’s not like we’re saving the world. But we’re trying to make a safe place for all the students we teach, no matter what the world looks like. That’s how I feel about it.”
+
+Alden was sorry he’d called her a monster in his head.
+
+And then there was the woman who’d spoken to him when he first entered the room. She taught history here at CNH, but she’d previously worked as a tutor for teenage Avowed who’d committed serious crimes.
+
+“It’s a job that forces you to look at all the ugliness that still exists in our world and confront what it does to people. I’ve never met someone who wanted to be evil, and when I sat with those people—around your age—who had done things that were evil, I sometimes felt like I was trying to heal bullet wounds with a finger bandage.
+
+“How much of a difference could I really make in a couple of hours a day when most of my students had been abused, neglected, or taught to view society in a warped way for sixteen or seventeen years? How could I give them tools and hope for a decent life when whatever they’ve done will hang over their futures like a dark cloud? Many of them were in the process of becoming healthier people thanks to treatment, but it’s a very different kind of teaching than what I’m doing now.
+
+“I think I helped some of them. I think all of them deserved to have a good teacher in their lives even if I wasn’t the perfect one for the job. I had a hard time leaving that work behind when I went home in the afternoons, so I’m working here for a few years. I’d like to go back to it one day.”
+
+The third instructor was a university professor who talked more about work-life balance. She worked half the year and took half off to spend more time with her family and to train her powers, which was something the other two hadn’t mentioned at all.
+
+“I’m a B-rank Agi, so that’s nothing special compared to Instructor Klein here. But I should be offered Bounce Repeater the next time I level up. I’m looking forward to playing around with it. Going to embarrass my kids so much by saying ‘Ba-Boing!’ every time I use it.”
+
+Bounce Repeater was offered to multiple Brute types. The professor would be able to hop and use the skill to go higher and higher as long as she kept activating it without touching the ground.
+
+As for Instructor Klein…Alden was learning a lot more about him.
+
+He didn’t tell everyone here that he was a terrifying, untouchable presence who brought despair to the hearts of hero program students who thought they knew how to use their talents. But he did end up answering questions about his motivations for becoming an instructor when he had previously been an active superhero.
+
+“I’ll be the first to admit that I wasn’t popular as a hero,” he said. “And popularity became a prerequisite for being allowed to do anything useful in my final year on the job.
+
+“So I was feeling underutilized, and at the same time, I was worried about heroes I knew in other places who were being overused. And badly used. Every time I talked to my friends I seemed to hear another story about them or someone we knew ending up in a situation they weren’t expecting and that they didn’t know how to handle.” He looked at Alden, who sat straighter in his desk. “The marriage of superhuman crime fighting and entertainment should end in divorce, in my opinion.”
+
+“I agree,” Alden said, speaking for the first time since he’d clarified that he didn’t work in an Artonan garage.
+
+“Unfortunately, not enough people share that opinion,” Klein continued. “Celebrity heroes are lucrative. For Anesidora, celebrity Avowed of any kind are an opportunity to gain a firmer foothold with the rest of Earth, and our government tries to use that to control the narrative about our people…. What is an Avowed?”
+
+He nodded pointedly at a girl who’d been playing with a pouch of spell delivery marbles this whole time.
+
+“Magic,” she said.
+
+“Yes,” Klein replied. “And also— ”
+
+“You ditz,” said one of the girl’s friends. “He wanted you to say we’re weapons. Or warriors. You’ve had your weapon out ever since we sat down.”
+
+“Magic is a good answer, too,” Klein said. “Because it’s inescapable that a person using magic is going to be an entertaining sight on a planet where very few of us can do that. We Avowed are fun to watch, and we’re also weapons, and there is an opportunity to use the first to manage how the second is perceived.
+
+“That arrangement suits many people, both here and abroad, but it places superheroes in extremely challenging roles. I wasn’t ready for that. Almost nobody I went to school with was either. I decided to come back home and work as a teacher because I believed there were lessons young Avowed needed to learn before we sent them out to face those challenges.
+
+“I wanted to be an instructor who prepared future superheroes better than my generation was prepared. As Mona said, I can’t save the world, so I’ve planted myself where I can teach my students about that world. And occasionally I beat them up so that they won’t ever let anyone else do it.”
+
+He received the room’s laughter calmly after that and let one of the others take the next question about what salaries were like for different kinds of instructors.
+
+Dammit, thought Alden, writing notes on his tablet. How dare he turn out to be cool on a personal level as well as on a combat level?
+
+******
+
+Alden didn’t run when the meeting was over, but he did exit promptly. Klein was busy putting his desk back in position and telling the girl with the marbles that he’d started teaching uni gym classes while he earned an education degree. He’d switched to primarily teaching high school a few years ago.
+
+Downstairs, the coffee shop was closed, and outside, there were only a few people moving along the walkway.
+
+I’m glad I went, thought Alden. I’m glad I heard Klein’s story and the others. It was worth it.
+
+He still wished it had been something he could do anonymously.
+
+They said people were always much less interested in your business than you imagined. So maybe Klein wouldn’t have more than a passing thought or two about why Alden was here tonight.
+
+But those passing thoughts could be, “Alden Thorn is wasting my time just like I said he would when I told him not to attend CNH. I should be training future superheroes, but I’m stuck with that selfish Rabbit who seems to be doing his own thing.”
+
+The instructor obviously cared a lot about preparing his students for the rigors of his former career.
+
+I shouldn’t have presented myself as shiny, certain Alden in my interview and application. And the school shouldn’t have been deceptive about what they want from me either.
+
+Klein didn’t seem to be onboard with the school’s plan.
+
+He didn’t care that I could open Triplanetary pocketbooks, like Colibrí does. He cared that the dreams I talked about don’t match the reality it looks like I’m dealing with.
+
+That’s my bad, but I couldn’t exactly lay all my cards on the table.
+
+And they would have known more about me if they’d actually asked me the questions they should have about Thegund. I was ready for that, and it never came.
+
+At least Klein wasn’t disappointed with his in-class performance. He had seen Alden was serious about doing well in gym. And continuing to exceed expectations in his MPE classes for at least a couple more years was part of almost every future Alden had imagined for himself today.
+
+He’d started the ‘What could I be?’ project in earnest this morning by waking up early and heading straight over to Central Crescent to volunteer. He hadn’t gotten to do anything as exciting as helping out with the artificial heart, but whenever a staff member who didn’t seem busy had spoken to him, he’d asked them about their job.
+
+It turned out that most people were happy to talk to him for a few minutes, and some were willing to go deep into advice-giving mode as soon as he expressed interest.
+
+The biggest revelation he’d had today was that he fit into the environment at the healing hospital so differently from everywhere else he’d been hanging out lately. There, he was a young person who admired nurses because his mom had been one, and he had spent more time than the average person being patched up from major injuries. He was someone who had a great skill and quite a nice rank, and nobody cared much about Rabbit.
+
+If anything, the impression of his class was positive. There were helpful talents for him to choose if he wanted, and the System teleporting someone away from work to do different work happened frequently within the hospitals here. They were used to being managed that way, so whether their Rabbit volunteer vanished on short notice or not was unconcerning. He wouldn’t vanish in the middle of helping with something important unless he was needed for something even more important, and the System would pop someone in to replace him if it could. If it couldn’t, they had bigger problems.
+
+That was how they saw it.
+
+And with his background, his questions, and his blue polo shirt, he looked like a potential future colleague to them. Most of them didn’t even turn up their noses at his academic choices. High school pre-med track was nothing to get excited about, according to one nurse. It was just learning things they were going to make you relearn in uni, so he might as well be studying something else to be more well-rounded.
+
+Then there was the Healer who’d said, “That’s right, kid! It’s called Talent Development. Make them give you what it says on the tin, and then bring those extra levels over here to join us!”
+
+A similar sentiment had been shared by the Brute surgeon who Alden had first met at Matadero when the helicopter dropped him and Zeridee off. They’d encountered each other today when Alden walked by one of the staff break rooms, and the doctor had invited him to have lunch with him and a couple of others and hear their opinions on whatever Alden felt like asking.
+
+Inspired by a grandfather who’d been a medic, the surgeon had wanted to be a battlefield-ready doctor since he was Alden’s age. He’d gone through Li Jean’s university level talent development program before attending med school. But he felt like they wouldn’t welcome an applicant like him these days.
+
+“Or not enough applicants like me. You preserve people, but you have to hold them….how’s your Strength?”
+
+Alden had met so many new people today, and he’d learned so much. His head was swimming with other lives, and now he had the four instructors he’d just heard from to add to the catalog.
+
+He didn’t completely understand what he was going to do with it all, but he was getting more into it as he went.
+
+Shaking off the dust on some internal structure I haven’t used in a while, he thought. Trying to reactivate my capacity for daydreaming, I think.
+
+A strange thing to have misplaced. A strange thing to want back.
+
+He was wondering whether he was onto something real with that thought or if he was just tired after a long day, when a figure approached from behind him. The person was moving so swiftly and soundlessly that Alden only realized after the fact that he must have come from behind because that was logical.
+
+In the moment, according to his senses, Torsten Klein came out of nowhere to walk beside him and greet him with a clipped, “Alden.”
+
+“Waaahahaha! Hi!” Alden let out a screech, tried to turn the screech into a laugh, and greeted his instructor by jumping away from him.
+
+Like people did.
+
+“Instructor Klein.” He cleared his throat and straightened his face. “Hello.”
+
+“I’m sorry I startled you.”
+
+“I wasn’t startled.”
+
+Why is my tongue doing stupid faster than my brain can do smart?
+
+“It was good to hear your story,” Alden said. “Thank you for sharing it tonight.”
+
+There. Two whole appropriate sentences. I’ve recovered.
+
+“Stealth and Deception is an elective course for high school students,” Klein said. “You might like it.”
+
+He was telling a joke. That was sweet. Alden wondered if the instructor had ever killed a man with a joke before.
+
+“To be clear,” he said, wrapping himself in the shreds of his dignity, “I didn’t think I was invisible wearing sunglasses indoors. I thought there would be fifty people in the room, and I’d look like a surly loner in the back so nobody would pay much attention to me. And I thought nobody from hero track would be there.”
+
+Klein’s lips twitched. “I see.”
+
+“That I’m an idiot?”
+
+Klein shook his head. “Do you mind if I ask why you were trying to hide your identity? A career exploration talk hosted by the school isn’t something most students would attend in disguise.”
+
+What to say?
+
+Just curious. Don’t like attention. Rather not talk about it. You heard that girl mention my garage job, right? Winston spreads rumors online, so I don’t want him to get his hands on something real.
+
+Something real.
+
+“I want to be here in this program,” he said. “There was no way to get into this program without describing a detailed vision for my future in writing and in person to lots of people. That’s how it is unless you’re a special case. And I didn’t realize I was that kind of special case. I thought…the commendation would boost my application, not be my application…so I took everything seriously and tried to write the right kind of essay and say the right things to all the questions.”
+
+He shrugged like that would lessen the weight of Klein’s attention.
+
+It didn’t.
+
+“Being a dedicated support hero was what I used to want. Not that long ago. So I went with that. And I did think maybe that old goal would come back to me when I felt better. But now I think it won’t. At least not in exactly the way I described it to you when I was trying to be the ideal applicant. I want to practice my skill here and learn. And I’ll do my best. Maybe I become a rescuer like Fragment. Or…maybe I teach school and train on the side just in case something bad happens.”
+
+He almost added a couple of other maybes in there, but they might sound even more unreasonable to Klein at this point than support hero had.
+
+“The truth is that I don’t know. Sorry I acted like I did.”
+
+The instructor sighed.
+
+Alden winced. Okay. I guess I’m being disappointing.
+
+“I’m really glad I came to Celena North,” he said. “I’ve learned so much in the gym, and I want to use what I’m learning for good. But the specifics… ”
+
+“You’re sixteen,” said Klein. “You’re not supposed to know everything.”
+
+“I know.” He might not be mad? Klein was looking at Alden hard, but his hard looks could be much worse than this one. “But the application did stress that this was a program for students with clear goals and Apex-worthy ambitions, so I thought you all probably meant that.”
+
+“It’s a way of weeding out thousands of candidates by making them jump through narrow hoops, Alden. Not a binding contract.”
+
+“I get that, too. But I still don’t want to be the guy who beats his classmates in MPE and then conspicuously goes to a talk on what it’s like to do a job that has nothing to do with what we’re all training for. They…wouldn’t like that much.”
+
+“I imagine that’s true. At your age. By university, the news that a strong or popular student is changing their career plans tends to come as a relief to classmates who’ve started to worry more about competition for jobs than duels. I hope worry about that isn’t stopping you from exploring what you need to.”
+
+“It won’t.”
+
+“Are you sure?” Klein asked. “You looked like you were thinking of making a run for it earlier.”
+
+“I don’t want to offend my instructors either and make them think I don’t appreciate their time. You’d just finished teaching me how to fight supervillains. Making plans to do something else right in front of you seemed rude.”
+
+“I was there because I believe being a teacher is important work. Were you really worried I’d be offended that you think you might want to do what I currently do myself?”
+
+Yes, I was, but I can’t say so when you’re asking in that tone.
+
+“Was there anything you wanted to ask during the talk that you forgot? You were quieter than you usually are in gym.”
+
+“The others asked most of the questions I had.”
+
+Klein waited.
+
+“I wanted to know how schools deal with teachers being summoned,” Alden said finally.
+
+“Substitutes,” said Klein. “Or co-teaching. It wouldn’t be a problem for most Rabbits at most schools.”
+
+“Really?”
+
+“Really.”
+
+Is this conversation actually going all right? Alden thought as Klein offered to introduce him to a Rabbit who taught in the cultural studies department. I told him I lied my way through my interview, and more or less that I’ve realized the school was lying their way through it, too. And he’s not saying, ‘Get out of my class, time waster.’ So yeah…this is good.
+
+“I volunteered at the hospital for hours today,” said Alden. “I like it there, too.”
+
+Instructor Klein frowned at him. “Did you come to MPE with your skill partially exhausted?”
+
+“No! I quit early enough, and I recover fast. I swear. Did you know the medical outreach missions Anesidora sends to disaster areas and places without Houses of Healing usually have a guard with them? To keep the Healers safe. That’s something a hero program graduate might end up doing, isn’t it?”
+
+“It is,” said Klein. “Those jobs require some training that usually only gets brushed over. But for people who know they want to do it, the university offers specific courses. Lexi from your class… ”
+
+After they finished talking, Alden was shocked to realize it had been half an hour.
+
+That was practically a whole guidance counseling session, he thought as he made it back to his apartment. Klein really doesn’t ever go home and relax.
+
+Tonight, Haoyu had filled his slow cooker with chocolate fondue. He and Lute were eating it with fruit while they sat on the floor in the living room. When Alden stepped in, he saw Lute flick a pair of scissors under the sofa.
+
+Caught them in the act!
+
+He walked over to look down at their shameless faces.
+
+“Don’t block the television, Cottontail,” said Lute.
+
+“Want a strawberry?” asked Haoyu.
+
+Alden leaned over them and narrowed his eyes. “Do you two cut chunks out of my fluffy rug when I’m not around?”
+
+Haoyu looked confused. “Why would we do that, Alden?”
+
+“You do!”
+
+“He’s crazy, Haoyu.”
+
+“I am not! I knew it was getting random thin patches. There are scissors under the sofa! You had scissors when I walked in!”
+
+“Those are my scissors,” said Lute. “I just play with them sometimes.”
+
+He had one of his socked feet pressed hard to a spot on the rug. It looked like an awkward way for him to position that leg…
+
+“Mr. Velra, what have you done?” Alden demanded.
+
+“Don’t use my crime name when you don’t have any proof of—”
+
+Alden reached for his foot.
+
+“No!” Haoyu said, laughing. “Hold firm, Lute!”
+
+“I’m not using any wordchains right now. I’m weak. Kill him! It’s the only—”
+
+Alden knocked the foot aside to see a huge chocolate stain with a few snips taken out of it.
+
+“Kill him,” Lute said again, falling over, clutching his chest like Alden had speared him through the heart instead of moving his foot. “Avenge me.”
+
+“Did you two pour chocolate out of the pot onto the floor?” Alden asked, ignoring the bamboo skewer Haoyu was brandishing at him. “And why are you snipping the rug instead of cleaning it?”
+
+“You have no proof of snipping,” said Haoyu.
+
+“There’s a sink right over there. Just soap and water… ” He snorted at Lute’s death throes and Haoyu’s weapon. “I mean, I don’t care. But I do wonder if you two know that chopping up a rug isn’t the first choice for most people.”
+
+“This rug is so fluffy you can’t even see the cut spots,” Haoyu assured him.
+
+“Then how did I know you were doing it?” Alden retorted, leaving the stain and sitting down beside Lute with his back to the sofa.
+
+“We’re sorry,” said Haoyu.
+
+“We are,” said Lute. “None of the other stains were nearly this big. Of course this is the one you walk in to see before we fixed it.”
+
+Alden took a strawberry. “Fixing would involve washing. Scissors are a second injury. Two wrongs don’t make a rug.”
+
+“I’ll wash it next time.” Haoyu crossed his heart.
+
+“I’m really not worried. Or mad. It’s just a rug. I’ll buy another one when this one gets ruined. Let’s be comfortable with all the living room stuff.”
+
+There was a thought in his head a bit too sappy to share, especially when he was snickering at Lute who was complaining that he couldn’t be comfortable because he’d just rolled over on a skewer.
+
+They can chop up every rug I ever buy.
+
+He knew they’d put up the Bromelimas tree half for him. Maybe more than half for him. Because he’d been sorry he couldn’t go back to Chicago for Christmas.
+
+“It was mostly Lexi,” Haoyu whispered.
+
+“What?”
+
+“Yes. Lexi is the main offender,” Lute said brightly. “We could wash a stain, but can he wash away the burn marks left by his weapon?”
+
+“He can’t,” Haoyu said. “So he has to snip. He’s the reason the fluff is getting thin.”
+
+“I don’t believe you guys,” Alden decided after thinking about it while he ate the strawberry. “Not because Lexi doesn’t occasionally scorch things a little, but because he’s honest. He’d just tell me. And Kon is also his brother, so he could call him downstairs to fix it.”
+
+“Alden, you poor innocent soul,” said Haoyu.
+
+“You dumb bunny,” said Lute.
+
+“You’re so wrong.”
+
+“I feel sorry for you.”
+
+“You need to believe us about this.”
+
+“Lexi has betrayed your faith in him.”
+
+“He doesn’t deserve trust.”
+
+“Lexi has all the same letters as the word ‘lie,’ so it’s right in his name.”
+
+“Where is Lexi?” Alden asked. “I’m going to tell him you guys are talking shit about him.”
+
+“He’s hogging the tub because he’s evil,” said Lute. “He can probably hear us.”
+
+Alden raised his voice. “Lexi! I know these bastards are lying about you and the rug!”
+
+There was no response from the bathroom for several seconds.
+
+“Alden, you’re a good roommate!” Lexi called back.
+
+Alden gasped. “Thank you!”
+
+Lute groaned and threw his hands up into the air. Rug clippings fell down like snow.
+
+******

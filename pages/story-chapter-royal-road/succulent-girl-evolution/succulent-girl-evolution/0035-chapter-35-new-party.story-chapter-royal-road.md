@@ -1,0 +1,93 @@
+---
+id: 2685678a-26ac-5ddb-b5ad-db577908c1f9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 35: New Party"
+slug: 0035-chapter-35-new-party
+partOf: succulent-girl-evolution
+position: 35
+ownLength: 1993
+unit: words
+publishedAt: 2025-10-14
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2676402/chapter-35-new-party"
+royalRoadId: "2676402"
+---
+
+The next morning, Miss Fish flew the three of them down the mountain so that they could get started on their journey as quickly as possible. While they were in the air, Miss Fish drew their attention to the silvery mountain ranges far off in the distance.
+
+“That is the Silver Reaches, and that is the direction you should head towards. You should come across the Hearthfruit Tree on your way there.”
+
+Bubbles, intrigued at the experience of being in the air, marveled at how small—and how vast—the land below was. Just as the magpie scout had reported, the mountain Miss Fish had launched from was full of forest, while the plains to the north, all the way to the silvery mountain range in the distance, had rolling waves of golden grass. She noted a tiny path winding through the grasses, passing through what looked to be a collection of rectangular structures that looked somewhat similar to Master’s home, though significantly smaller.
+
+Not interested enough to question what the smattering of stuff was, she continued observing the plains, noting with interest the small, scrawny trees and shrubs that occasionally interrupted the waving grasses, until she spotted an unusual patch of green in the fields of gold. “Is that the Hearthfruit Tree?”
+
+“I believe so,” Miss Fish said in surprise. “It must be massive, for us to be able to see it from all the way here.”
+
+“That’s great! At least now we know where it is,” Bubbles said, satisfied. Even from a distance, she could tell the Tree had great power. It had an impressively thick trunk, which made sense given how far the branches spread over the ground. Its orange leaves shimmered even in the distance, almost as if it were glowing.
+
+Miss Fish cruised to the base of the mountain, depositing the three of them and their baskets of water and nutrition pills at the line where the forest ended and the grasslands started. “The extent of my help ends here, as I cannot leave my forest during its time of rebuilding. However, if you do pass this way again, please do seek me out—I would love to host you and hear of your adventures.” She gazed fondly at Hugger, who plumped her leaves in farewell.
+
+The Water Guardian turned her gaze to Miss Cow, who, despite agreeing to travel with Bubbles and Link, still seemed to be on edge. Bubbles resolved to set her at ease. “I pray you will find your dam and herd in good condition. If you ever pass through my lands, feel free to call upon me.”
+
+With one last respectful nod to them all, Miss Fish flew off into the sky, her long body swaying side to side as if she were swimming through water. Bubbles turned towards the grassland.
+
+“Okay! Let’s go to the Hearthfruit Tree!”
+
+~ ~ ~ ~ ~
+
+The journey was quiet and awkward. Bubbles tried to make conversation between her two reserved traveling companions, but Miss Cow refused to give anything more than one-word answers, if she deigned to answer at all—especially if Link was around.
+
+Link, seeming to recognize her discomfort around him, offered to scout ahead so that Bubbles and Miss Cow could walk at a more leisurely pace and bond with each other; and indeed, Miss Cow was significantly more lively without Link around, chattering nonstop about any thought that seemed to pop into her head. Gratified by her seemingly more relaxed attitude, Bubbles began asking Miss Cow about her life before she got lost.
+
+She lived an interesting life, from what Bubbles understood of her retellings of her calfhood memories. Apparently, from the moment she was born she had lived a comfortable life. Humans—not even dedicated guardians like her own beloved Master, just regular humans who happened to pass by Miss Cow, much to Bubbles’s surprise—waited upon her: washing her, feeding her treats, caring for her hooves. They all got out of her way whenever she went exploring, watching her with smiles.
+
+“They didn’t—take anything from you?” Bubbles asked skeptically, unable to imagine utter human strangers who would just happily let another creature roam freely.
+
+“Of course not, they gave me things,” Miss Cow sniffed. “In gratitude for their care, my dam and other dams would offer them milk—though in truth, they needed to be milked so their udders weren’t so heavy and uncomfortable. So really, they were helping us.”
+
+“Did they do all that because—they thought they owned you?” Bubbles asked, conveying both her and Rock’s wariness against humans. “Surely they considered you and your herd their property, so they did all these things to make sure you were comfortable.”
+
+Miss Cow threw back her head and laughed at the absurdity of Bubbles’s suggestion. “Of course not! How can mere humans own a divine being?” Seeing Bubbles’s increasing confusion, Miss Cow took on a lecturing tone.
+
+“We are the living embodiments of the fertility gods. Where we linger, lands are blessed such that plants will bloom and propagate,” she said proudly. “The humans recognize us as representatives of the gods, and thus treat us accordingly. They protect us from—” she cleared her throat and glanced meaningfully at Link’s tail off in the distance, and lowered her voice, “—those who do not recognize our divinity and what we provide to the land, and in return we bless them and their lands with virility and fertility.”
+
+Bubbles was a bit baffled by what Miss Cow was saying, but was still nevertheless intrigued by Miss Cow’s experiences with the humans. “But if the humans take such good care of you, then how did you get separated from your herd? Surely someone would have accompanied you to wherever you went to ensure your wellbeing?”
+
+Miss Cow paused for a bit, her long lashes trembling, before sighing, as if exasperated by Bubbles’s ignorance. “The humans aren’t part of our herd, obviously. They welcome us as we pass through their lands, but they would never attempt to chain us or keep us from fulfilling our divine duties in restoring opulence to the land.”
+
+“I see,” Bubbles said doubtfully, trying to understand Miss Cow’s words. It was reassuring to hear that Miss Cow didn’t have negative experiences with humans the way she and Rock did, but it was certainly strange to imagine humans worshipping an animal like the cows. Worshipping Miss Fish made sense, but…
+
+Bubbles looked at Miss Cow, with her large, rectangular body and proportionally stubby legs. She didn’t profess to fully understand the way animals were shaped, but Miss Cow didn’t have the elegant lines of Miss Magpie, or the smooth curves of Miss Fish (even when she was a carp), or the sleek, efficient build of Link. It was just odd to imagine a creature like her being served and pampered by humans. Maybe her blessings are really strong and valuable?
+
+But that still didn’t explain how Miss Cow, with so much protection from her own herd and random benevolent humans, ended up lost and hungry on Miss Fish’s mountain. However, Miss Cow acted far too cagey about the specific circumstances that led to her being rescued by Miss Fish, so Bubbles decided to focus on something that would better serve both of their interests: urge Miss Cow to move along faster, since Link was easily outpacing the two of them. Unfortunately, Miss Cow resisted.
+
+“I don’t understand why we should be keeping pace with—him,” she said belligerently. “He’s serving as a guardian, is he not? I understand him going ahead to make sure things are safe, but rushing me isn’t right.”
+
+“But—don’t you want to catch up to your herd as soon as possible?” Bubbles asked, confused. “It’s true that we don’t want to rush headlong into danger, but Link and I also have other obligations: we need to head south before winter comes and we get trapped by snow. Time is of the essence for both of us, don’t you think?”
+
+Miss Cow gave a big sniff, planting her hooves firmly into the soft grass as she grimaced. “Hmph. Very well. Only because you asked nicely.”
+
+Completely baffled by her attitude, Bubbles continued following after Link’s silhouette.
+
+~ ~ ~ ~ ~
+
+They decided to rest on a small hill when dusk approached. They didn’t have the ability to make fire, but Link said that was a good thing; it would be far too easy for fire to spread with how much grass was around.
+
+Despite Link having done nothing to Miss Cow throughout the day, she still refused to rest near him, instead stomping obstinately to the edge of the hill where it began sloping downwards and plopping into the grass there. Bubbles looked at Link in apology, though she didn’t know what to apologize for. To his credit, however, he seemed unbothered.
+
+“This is fine. As long as I am on high ground, I can easily monitor what she is doing, and if anything approaches.”
+
+“I don’t know what’s wrong with her,” Bubbles confessed quietly to him, making her voice as small as possible so the cow couldn’t hear them. “You’re very scary-looking, but that’s what makes you such a good protector. No one else would dare approach us with you around, but she refuses to acknowledge that.”
+
+Link shrugged. “I understand her fear. If I were a wild animal with no attachments, her kind would certainly be at the top of the list of prey. But of course, I would never,” he reassured her hastily as she stiffened. He audibly crunched through one of Miss Fish’s nutrition pills to remind her that he was well-fed.
+
+Bubbles didn’t need to partake of the nutrition pills, so she was fine just being a carrier for Miss Cow and Link. While she was rooted in the earth (she had been pleased to discover how rich the soil was), Hugger had been poking among the grass and depositing any interesting things she found into Fern’s mouth. And since Fern had unlocked full mastery of her Digestion ability, she had been making nutrition pills to supplement the stock Miss Fish had provided them. The only thing they were lacking was water, but they were confident they could replenish their water supplies given how much plantlife was around.
+
+“But even so, I don’t like the way she sees you,” Bubbles protested, trying to verbalize the unpleasant feelings she had while conversing with Miss Cow. “She sees herself as the embodiment of the gods, and she believes humans exist to serve her… and that you aren’t even worth acknowledging?” Bubbles shook herself, frustrated at her lack of eloquence. There was so much more she wanted to express, but she couldn’t quite explain it. Not even Rock had been helpful at formulating her thoughts, as he just reminded Bubbles to ignore Miss Cow’s rudeness and stay focused on their goal of reaching the Hearthfruit Tree.
+
+Link’s eyes widened in surprise as he looked at her, his green irises gleaming at her in the fading light. He chuckled ruefully. “Thank you for your concern, but I am not bothered. As long as I complete my job, that is all that matters.”
+
+Bubbles burrowed slightly deeper into the soft soil, feeling a little guilty. “That’s right, you just said immediately that you’d come with me… are you sure this is what you want?”
+
+Link yawned as he curled comfortably. “I am. Despite the potential dangers of the wilderness, I find it much more… relaxing and natural, I suppose you could say, not having to follow arbitrary regulations in order to do what needs to be done.”
+
+His last words ended in a calm growl and a satisfied exhale. “Besides, the brief period of time with you has shown me much I haven’t seen of the world. Even if I were to be mortally wounded, at least I will be able to die honorably as a warrior instead of at the whims of bureaucrats.”

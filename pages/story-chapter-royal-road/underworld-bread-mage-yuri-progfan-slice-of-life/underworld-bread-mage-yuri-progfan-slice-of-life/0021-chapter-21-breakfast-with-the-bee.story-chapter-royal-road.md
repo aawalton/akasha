@@ -1,0 +1,127 @@
+---
+id: dd64bf95-2962-5725-adf0-d7a9e13e9ebf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21: Breakfast with the Bee"
+slug: 0021-chapter-21-breakfast-with-the-bee
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 21
+ownLength: 1480
+unit: words
+publishedAt: 2026-08-07
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3781864/chapter-21-breakfast-with-the-bee"
+royalRoadId: "3781864"
+---
+
+Upon the arrival of a quiet morning, a breeze of cool air settled around the dark attic where the two young women had spent the night… fighting over who should get the most of the thin blanket. It ended in Marina’s victory.
+
+She opened her eyes slowly to the same pitch-black room as before. Turning to the other side of the bed, she hoped to be comforted by the warmth of Hecate’s body, only to find nothing except the empty coldness of the crude bedding.
+
+“Hecate?” She whispered, her voice dry. Seriously, where did she wander off again? Marina fell back onto her pillow following the thought. Reaching for the crystal device that was lying next to her face, she summoned the System screen. “8:30…” She said aloud, too lazy to move even an inch.
+
+After an intense battle between her needs and wants, she finally hopped off the bed and onto her feet, still dizzy from the haze she had just woken up from. Stumbling through the dim attic, Marina fitted on her shoes as she headed to the ladder before carefully climbing down. The minty scent of various herbs had already pervaded from Mellie’s lab, strong enough to knock all thoughts of returning to bed out of her mind.
+
+“Good morning, world?” Marina called out amidst the bubbling of the various pots and containers under the heat of the woodfire stove.
+
+Where did they go? It's still this early in the morning.
+
+She walked outside, bored with being home alone even for just a few minutes, mostly due to the lack of a certain electronic device to provide her with constant entertainment.
+
+“Mellie?” Marina called as she turned around the corner of the house.
+
+Her long, flowy golden blond hair was impossible for Marina not to recognize.
+
+“Oh, Miss Marina, good morning,” Mellie greeted as she continued to work along the house. “How was your sleep?”
+
+“It was good, a little chilly compared to the outside world, but I prefer it that way,” Marina said. “You… doing some lawn work?”
+
+“Yeah, just cutting the grass and uprooting the weeds” –Mellie snipped the stalks of the overgrown plants– “so they don’t get too tall.”
+
+Marina waited before asking. “Did you happen to see Hecate anywhere?”
+
+“Uhm, Miss Hecate left like half an hour ago.” Mellie set down her tools. “I thought she would’ve told you already?”
+
+The vampire disappeared as she pleased and left a poor taste in Marina’s mouth. Frustration invaded her lips for reasons unbeknownst to her. She was fine with Hecate going places without her; she had no say in that, but leaving her out cold was… displeasing.
+
+“I just woke up like a moment ago…” Marina looked to the center of the village, already buzzing with Bee-ple and their chores. “Did she at least say anything to you?”
+
+“All Miss Hecate said was that she would only be gone for a little bit, and told me to let you know that you shouldn’t worry,” Mellie informed.
+
+I’m not worried about your abilities, but at least tell me that you were going somewhere. Marina sighed as she rubbed the corner of her eyes. “Did she tell you where she was going?” “Not at all.” Mellie shook her head. “Are you going to look for her, Miss Marina?”
+
+“I would like to, but I doubt it’s what she wants to happen.” Leaning against the doorframe, Marina caressed the red string still attached to her finger. “Have you had breakfast yet?”
+
+“Not yet, I was actually waiting for you.” She grabbed Marina’s wrist. “It’s something that you would enjoy for sure.”
+
+Marina sat down at the table. “It’s not a new type of bee bread, is it?” She could still feel the sandpaper-like texture on her tongue.
+
+“Of course not, it’s actually something that I believe people from the cities will like.” Mellie placed a bowl in front of Marina, retrieved from a small stone box in the lab room.
+
+“Oh my,” Marina examined the contents.
+
+The dish was constructed with various fruits, nuts, and wild berries, but one ingredient in particular caught all of her attention. She carefully invaded the harmonious structure of the dish, as if instructed not by the logic of her mind, but by the yearning of her taste buds. Her lips clasped against the wooden spoon, savoring the flavor that reminded her of the liviest of days.
+
+Her eyes sparked. “Is this whipped cream…?”
+
+“I believe that’s what the bottle says, yes.” Mellie nodded.
+
+“Can I see it real quick?”
+
+“Sure,” Mellie said, turning around to pick up another item from the stone box. “It should look familiar to the people from the cities, right?”
+
+What the fuck? That can literally have the same package as the ones from the store back on Earth. Marina frowned. “I want to say it’s impossible not to recognize this item. Where did you get it from?”
+
+“Oh, I traded a really rare flower to a merchant who came into the forest two years ago, and in return, he gave me ten of these cans and an Everfrost crystal for my ice box–”
+
+“Two years?” Marina jumped. “The shelf life of these products is measured in weeks!”
+
+“But Miss Marina, the merchant told me that these are good for four years, and the same is reflected on the expiration date.” Mellie pointed. “Right here.”
+
+“There is no way,” Marina leaned in closer. “The year says 515…” Opening the System screen, Marina compared the date between the two. “Okay, somehow, it still has two more years left. What are they putting in there?”
+
+Preservatives were prevalent on Earth; she had no doubt about that, but for a dairy product to last as long as this? It had to be magic.
+
+“I have no clue. Do you not like it, Miss Marina?”
+
+“No, I love whipped cream. I actually think it’s impossible to find someone who doesn’t like whipped cream.” Marina took another spoonful, this time with all of its ingredients. “I’m just shocked by the fact that I get to have whipped cream in this place.” Right after dying as well…
+
+“Oh, I’m glad you’re enjoying it,” Mellie beamed. “Though this is the last can I have left…”
+
+Knowing this, Marina decided to take smaller bites. It could be a while before she could taste something as delicious as this.
+
+“Mmm, then why don’t we go ahead and make our own?” She suggested. “Then you will be able to enjoy it all year-round.”
+
+Mellie raised a brow. “Make… our own?”
+
+“Yeah, whipped cream isn’t too hard to make, but it requires one very crucial ingredient.” Marina rested her spoon in the bowl. “Which actually brings me to a question I should’ve asked earlier.”
+
+“And that is…?”
+
+“Are there any animals around the village that can produce milk? Maybe a cow or something?”
+
+“Cows around the forest are really mean creatures, but I did remember the village had one at some point.” Mellie pondered. “But it ended up dying of old age, and they didn’t bother taming another one; anything that doesn’t contribute to the honey production always gets tossed…”
+
+“I see. So what you’re saying is, there are still cows out in the wild.” Marina said.
+
+“Yeah, they are also quite dangerous, like all the other beasts. Though I’m sure Miss Hecate can match them in strength. But to tame one and have it produce milk is a whole challenge of its own.”
+
+It was a risk she had to take. Diary products were crucial not only because they were delicious but also almost all baking recipes required them. Not to mention the existence of to secret to better cooking, butter, was also made from milk.
+
+Marina nodded. “That is something to consider for sure–”
+
+The front door opened with a loud clank from the weathered doorknob, immediately grabbing the attention of the two young women at the table.
+
+“I have returned,” Stepping through the doorway, Hecate announced. “Having fun without me?” Her voice trailed with a nosy playfulness that always seemed to tick off Marina’s nerves. But despite that, she was happy to see the vampire return without issue.
+
+“Oh, Hecate, we’re just having some breakfast. You wanna join?” Marina gestured to the empty chair beside her.
+
+“I would love to, my dear, and also, I do have something that might interest you.” Hecate took a seat as she reached into her satchel. “Behold.” Within her hand, she presented a block of white-ish, transparent crystal.
+
+“Uh, it’s a mineral?” Marina scratched her head. “I am not too well-versed in geology.”
+
+“Well, you see, it’s not just any mineral. I encountered it in a cave while I was taking a walk, and so–”
+
+“Get to the point, please,” Marina rolled her eyes.
+
+“This is mineral salt, my dear. The salt that is currently absent from our pantry.”
+
+“...”

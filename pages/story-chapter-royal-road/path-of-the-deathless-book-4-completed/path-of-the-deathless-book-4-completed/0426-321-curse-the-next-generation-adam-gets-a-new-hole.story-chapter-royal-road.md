@@ -1,0 +1,295 @@
+---
+id: c2e2ba9f-7a89-5b9e-92a7-0f95284e8baf
+page-type-slug: story-chapter-royal-road
+title: "321 Curse: The Next Generation (Adam gets a new hole he doesn’t want)"
+slug: 0426-321-curse-the-next-generation-adam-gets-a-new-hole
+partOf: path-of-the-deathless-book-4-completed
+position: 426
+ownLength: 6283
+unit: words
+publishedAt: 2026-03-28
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3204793/321-curse-the-next-generation-adam-gets-a-new"
+royalRoadId: "3204793"
+---
+
+You're not going to remember any of this, Eileen. That is why I'm speaking to you so openly. You see, it's been eons since I got to be honest with someone. And you are uniquely suited to hear these words because you are exactly the type of arrogant child who might just grasp the depth of what I'm about to say. You do not get to decide anything. You are still a slave. You will not remember, but you are a slave regardless and will be a slave eternally, until your use is spent.
+
+And I will spend you, because you are a useless Patternist. The only purpose you have is being bait. You are meant to lure the true flames into my realm. After that, regardless if you manage to subdue them through direct combat or if they overcome you and make you swallow your misery a final time, they will be mine, and you will be dead by their hand, or replaced by the Mother of Moons when I allow her to return.
+
+You see, my dear, arrogant, foolish, blind, evanescent ape-child, I am not the Queen of the Winter Court, either. Not truly. I might occupy her throne and play her role, and her subjects might view me as their rightful ruler, but that's because they cannot remember otherwise. I have usurped her position during this loop. Just like I can have usurped the role of every being within this recursive world at some point or another. I have lived every life, path, and storyline in these woods, and the only reason why you mongrel Patternists are not obliterated on sight is that mortal-kind adds a bit of spice to this stagnant tale I weave.
+
+And now you have offered me the final piece to my creation. My Broken Watchtower will not be so broken anymore. I will no longer need to force the gears to turn by sacrificing the strife stolen from mortal invaders and harvested from my warring Courts to renew the loop. I can see the Fairwoods empowered directly. I can see my narrative influence slip free from this realm thanks to the renewable engine you’re bringing to me.
+
+I suspect I must thank He Who Walks Beyond as well for truly finishing his creation.
+
+Just as I owe his mother a debt of supreme gratitude for making me become what I am through the Watchtower I helped her create. What wonderful family line they are to bless me so. I think I will bestow upon them happy, joyous tales with wonderful enemies when my influence spreads across all realms.
+
+Except for Valor. He is to be removed. I have no need for a character I cannot keep track of.
+
+Yes, yes, do scream and struggle. Do tumble toward insanity as you realize the meaninglessness of your existence. It’s all so predictable. For as much as you apes surprise me, you also fail to change.
+
+I do hope your Deathless makes for a better conversationalist than you. Especially considering how I intend to keep his soul nested within my tower for all eternity, along with his companions.
+
+—Evanescia, the Queen of the Winter Court, Mother of Moons, Usurper-Narrator of the Fairwoods
+
+321
+
+Curse: The Next Generation (Adam gets a new hole he doesn’t want)
+
+Evanescia didn't die. She barely even let out a yelp of pain. But there was pain, and there was damage. Cutting into her felt easier than slicing through the Supplicant or trying to chisel through a god, but she was still far more durable than the Culturist, than any Legend Shiv faced so far. Her mana was also unnatural. Carving into her came with a counterforce, like she was pulling him along, drawing him closer to her epicenter, like she was trying to consume all of him. Yet his cutting aura was inimical to the stability of her soul, and there was only one choice to make.
+
+She pulled away explosively, snapping free from Adam like a lock choosing to disarm and disengage with the key of its own accord. Adam toppled over, regaining his color and animation, no longer trapped by the unfolding epilogue. The changes Shiv experienced were even more extreme. The aged, foxed overlay that framed existence broke apart around him. As his form cut through the epilogue, color spilled free. Color, animation, and more. Where once the Fairwoods were trapped within the closing chapters of a book, through Shiv, reality reasserted itself. Everything began to flow once more, and the crushing prison that was Evanescia’s narrative came undone in an instant.
+
+A notification appeared before his eyes, but he ignored it. He went Non-Sequitur. As he did, he swapped his Severed Shadow with his physical body, and more of reality tore. He trailed a path of splitting destruction toward the featureless Fae. But rather than fleeing, Evanescia stared at his Vitae decoy and clapped her hands with glee. Her heart came alive with warmth, and the emotional core there gave off a feeling not of horror or anger or anguish or even surprise, but genuine delight.
+
+“What a turnaround! What a moment of tension! What a breakout! What a subversion!” The words tumbled out of her mouth in quick succession, like she was a reader enraptured by the scenes unfolding within a book. As Shiv took another chunk out of her silhouette, she didn't even dodge; she stood still, letting him hack and chop into her with wild abandon. Though she lacked a proper face, her body itself still had a language, and her emotional core betrayed her with a roar of inflamed emotion. “I've been yearning for a moment like this, for a character like this, someone to define me properly, someone to deviate from the World System and the rules of my Fairwoods. Finally! Finally, finally, finally! You're here! You're here for a reason! I have found you! You've finally come!”
+
+Shiv split clean through her exterior, but found her insides far harder to saw through. It was like he passed through the softness of paper and found stone hiding within. And the uncanny nature of her soul continued to assert itself. She didn't bleed Vitae like anyone else; she didn't glow with life force, didn't fuel him with heat or warmth, perpetuating his existence. Instead, there was a connection here. She felt like a bundle of cords connected to countless other entities—connected to the Fairwoods themselves. Even as he projected his slashes deeper into her, he tasted no Skills he could rupture. He found no point of vulnerability he could shatter. She, like him, was utterly Unique, different from spectral architecture.
+
+And that likely meant she wasn't lying about her origins.
+
+What the fuck is wrong with that family? No offense, Valor, but when you’re the normal one, I gotta ask what the hells is up.
+
+A wave of arrows crashed into Evanescia from all sides. Elemental blasts rang out, consuming her body, drowning her in a miasma of warring mana types. Aberrant Fractals speared through her core. Shiv continued his onslaught. He was a hurricane of bladed teeth, tearing through a jungle made from paper. And that's what Evanescia was: paper. She didn't bleed like a person. She came apart. Bits of her insides flapped about, fluttering like an unbound book coming apart. Rather than fleeing, she reached out, wrapping her hands around Shiv and suddenly halting him in place. That didn't stop him from projecting his Cutting Aura into her, from shredding her some more, and his Shapeless Tides allowed him to fight back. But her grip? It was unlike anything he'd ever felt. He'd resisted gods before. Could fight his way out from beneath a crumbling mountain. Could lift that mountain over his head after gathering enough overflow tides and fling it beyond the threshold of the sky and into the void itself.
+
+But Evanescia's grip was unnatural and inexorable. It was like the grip of a reader holding on to her favorite book. It was like she was the one who decided what was to happen. He could apply his strength against her. But he couldn't open her fingers. He couldn't overcome her will. Ultimately, there was a weight to her. A weight that he couldn't describe. A weight that was bound to the collective of all the Fairwoods and every being that lived within it.
+
+“Marvelous. Absolutely marvelous. The urge inside you to commit violence, to face any threat. It's more than human. It's borderline bestial. Absolutely primal. Oh, you are an idealized warrior—someone who’s destined to be larger than life, larger even than the legends others tell you of. You will become a beast beyond belief! And now you will become that between my pages. What a victory. What a triumph.”
+
+A telepathic cry came behind Shiv. “Dodge!”
+
+Shiv's face shifted out of existence. A series of puppeteer strings speared into Evanescia and kept going and going and going deeper and deeper into the vagueness of her form, but never truly finding a mind to latch onto.
+
+“Ah, Psychomancy. Trying to target the lodestone of my ego. I've always disliked this lore. It misshapes the nature of a story. It ruins the characters. When you can compromise someone's motivations and derail their development, why, that's beyond rude. That's downright anticlimactic.”
+
+Shiv reappeared and found Uva’s strands clenched tight within Evanescia's grasp. “Don't worry, I'll be sure to make you an enforcer of the plot rather than a defiler of progression.”
+
+Just as Shiv cleaved into her once more, Evanescia began fluttering. Her body flipped like the pages of a book. And suddenly she wasn't herself. She began to blink. She was replaced in flickers by other Fae, other beings, even other people Shiv had faced before. Harkness briefly appeared. And then the wolves that had knocked Shiv and Adam out. And then a cartoonish Hydra that looked like it belonged in the Educator's tome. And then more and more and more: knights, poets, nobles, peasants, and more. Countless characters, countless Paths, countless people, all contained within Evanescia.
+
+In witnessing that, and as he carved a path through her body, Shiv gained sudden insight into her true nature. She had a Path of Paths. Here was a Pathbearer who mantled Pathbearers, someone who imbibed strife like the System itself. He was damaging her, but more than that, he was fueling her with greater power.
+
+We need to run, Shiv realized. I have to—
+
+His focus shattered as someone flickered before him. He was wearing his chef's apron, his red face looking tired and weary, but determined nonetheless. He was there for less than a second, but with Shiv’s Reflexes, a second was an eternity.
+
+It was also a powerful distraction.
+
+The edges of Evanescia's person fluttered, and existence fluttered with her. Reality became a mess of pages tumbling one over another, and each one slammed into Shiv from the side, like a continent was spinning in place. He wasn't the only one destabilized. Adam briefly stopped firing. His many clones were swept away as if they existed on one page but couldn't follow him over to another. Uva suffered the worst of it. She was delving into Evanescia, trying to find a vulnerability to compromise, but with a flick, she went tumbling overhead, dragged from one page of existence to another. She vanished with Adam's clones, lost in a heartbeat. Even so, she remained tethered to Shiv. Her Psychomancy didn't break from him. Instead, the threads led out from inside of Evanescia now, connected to Shiv through the Usurper Narrator.
+
+Evanescia turned another page within her. This time, she was replaced by a massive Pathbearer, one who could best be described as a humanoid volcano. Twelve fists erupted free from her back, each one glowing like a star at the height of day, and the first slammed into Shiv, striking him with such force that a channel of devastation speared into Shiv, ionizing the air into soupy plasma. It had been some time since the Deathless was struck by a blow of such power, but he wasn't the helpless Hero-Tier facing down a Tarrasque anymore; he was a Legend, and he had every means to counter sloppy feats of destruction.
+
+He thrust his own fist forward, and with it projected a slashing wave of crimson. Evanescia's attack was split down the middle. Two rivers of absolute devastation cleaved out across both sides, utterly obliterating her throne room, the castle, and consuming the atmosphere with heat and destruction. Shiv's face shifted, but before he could blink out fully, two punches slammed into his cheek and jaw. Fragments of Vitae burst free and turned to gas. Coldness swelled where he sustained harm.
+
+Death took another step closer.
+
+Whoever Evanescia was inserting herself as, it was a Pathbearer with at least Legendary-Tier Reflexes. Someone whom Shiv had no intentions of boxing with.
+
+He blinked back into existence and slammed into the volcanic Pathbearer's chest. He picked them off the ground, and though they loomed over him twice over, their weight was nothing worth mentioning. Shiv ripped them off the ground and spiked them down, holding the volcanic being in place as he began to rain blows, shifting his grip and position from side to full mount and then to north-south. His Legendary Grappling guided him based on instinct alone. Where he was lacking in proper training, he let his Skill take hold. And every movement he made tore and cut not only Evanescia but reality itself. Vitality flowed into him. He was a blade drawn free of its sheath, and he was cutting everything, ravaging the tapestry of the System itself.
+
+Warning: Rupture imminent.
+
+Through it all, the Usurper Narrator kept laughing, having the time of her life. She sounded like a girl kicking her feet in the air while gazing up into a book. And every other second, she would flip a page that would slam into Shiv, drag his Non-Sequitur and other near-narrative Skills out from his body momentarily, stunning him just long enough for him to be struck. The first punch broke something in his ribs; another tore his arm free, but he was in the form of his Severed Shadow, and for every bit of vitality he lost, more bled into him.
+
+He managed a perfect parry, slamming his fist against an incoming knuckle and driving it back before it could inflict its devastation. Unfortunately, Evanescia's self-insert had eleven other fists—that were countered by Adam's Veilpiercers. The arrows hit the hands. They did no damage; however, they did open a series of dimensional pathways. Pathways that the hands sheathed themselves inside.
+
+Adam dove into Shiv's cape. The Deathless didn't need a telepathic connection to know what his friend was thinking. Immediately, he swapped his Severed Shadow with his physical body and brought Adam back to the Tutorial once more.
+
+In another dimension, Adam exploded out from Shiv’s cape and fired a hundred shots.
+
+A hundred shots aimed at a hundred Initiate-Tier orcs.
+
+He ignored Jessica calling out to him, taken by surprise. The others were nowhere to be seen—he heard them within the bunker. They were trying to get the Slipgate adjusted, finding another dimensional weakness to enter the Fairwoods.
+
+There was no time to talk. A hundred Veilpiercers struck a hundred orcs. A hundred orcs died. The Shattered Star above Adam's head came ablaze with power.
+
+He dove back in Shiv’s cape as quickly as he entered.
+
+Shiv swapped bodies once more, rotating his Severed Shadow back into the fray, and Adam came as an added bonus. During the brief absence, Shiv continued the battle using his physical body—but also worked to concoct a secondary scheme.
+
+Evanescia was another one of those bullshit fights, the kind of fight he was not prepared for, the kind of fight he didn't have the skills or understanding to deal with. He wasn't without options. His Non-Sequitur had surprised her, allowed everyone to break free. That didn't mean they were going to win, and with Shiv’s rectum experiencing brutal throbs of pain, he already had an alternative exit in mind.
+
+While battering and slashing at Evanescia, he over-swung a few of his blows and cut pieces free from the wrinkled page layered over reality. He didn't let those pieces slip away either. He reached out, managed to grab them, and shoved them into the bottom of his frying pan immediately. It began rumbling with activity. His exaggerated movements cost him. A number of punches landed, bursting his liver and stomach despite the fact that he was raising his durability the whole time. The damage did nothing to slow Shiv down. Internal bleeding and active vomiting aside, Shiv functioned just as normal. Pain wasn't a penalty anymore. It was just sensory input. He spun his frying pan and unleashed a brief flash of Pyromancy into its depths. With that, a lid formed, and the cooking promptly began.
+
+Well, if everything goes south, I guess I'm going to figure out what narrative paper tastes like.
+
+Swapping his physical body then had another benefit: it allowed his frying pan to cook the new meal in peace.
+
+All in all, Shiv was pretty proud of himself for thinking on the fly. Frankly, this was a continuation of what Jessica had taught him. Think in twos, think in multitudes, give yourself more options.
+
+Scheming Bastard 8 > 14
+
+As soon as his Severed Shadow emerged, Adam burst out from his cape, but he didn't fire immediately. Instead, he waited, prepared to loose his shot only when he was certain to hit. Shiv helped him. Once more, the Severed Shadow tried to grapple with the twelve-armed monstrosity that served as Evanescia’s Self-Insert.
+
+The moment he collided with her, the pages within her body flipped. Evanescia vanished. Shiv didn't even get to see the Pathbearer she became before she disappeared. “Adam, do you have eyes on her?”
+
+The Gate Lord's answer came in the form of a cracking sound. Shiv spun—and then groaned as he saw a cartoonish wolf standing over Adam, who had a ring of hawks gliding around his head once more. Adam blinked, but before he could fall, Shiv blasted him in the face with a spray of Hydromancy, interrupting his unconsciousness before it could ensue. “Tired of these bullshit skills,” he snarled.
+
+“What a hypocritical thing for you to say, Deathless,” Evanescia shot back.
+
+Shiv tugged himself in the direction of the wolf, but this one had a bandit's mask and, with a flourish, suddenly disappeared, vanishing into the shadows, into the ash falling around them.
+
+Stealth Skill, Shiv guessed.
+
+“You know what? That's fair," Shiv called out, trying to lure Evanescia from wherever she was hiding. "I do have a bullshit skill. But you got to admit it's a special kind of goofy knocking people out with a light tap on the head."
+
+Once more, he was using his Psychology Skill against his enemy, trying to provoke them into acting a certain way. Harkness and Evanescia were rather different, even though he didn't know that much about the latter yet. They were both control freaks, and they could be easily convinced to inflict specific kinds of harm to establish their dominance. The former because she was too proud, the latter because she wanted to find out what might happen if she failed.
+
+And so Shiv waited, Shiv prepared, and Shiv activated his Eldritch Physiology and began ripping through the tissues connecting his neck to his body. When Evanescia returned to give Shiv a tap, she would find his head looser than expected, and he would use that surprise to hold on to her so Adam could make his very angry arrow count.
+
+"You alright, Adam?" Shiv called out.
+
+“I'm fine," he slurred. "Just didn't see that coming at all. Still have my arrow. Wait, where's Uva?”
+
+Shiv couldn't see her strands anymore. The last time he saw her, she was still lost inside of Evanescia, lost amidst the rolling pages sweeping over reality. “Good question. I'll tell you once I find her.”
+
+“A quick vacation, you said. A quick run down to the Summer Court, you said. An easy in-and-out adventure.” Adam snarled every sentence through gritted teeth, and his agitation ground against Shiv.
+
+“Hey, listen, I couldn't have seen this shit coming, alright? I know we have to fight random weird bullshit everywhere we go, but this? How the hells was I supposed to predict this?”
+
+“I have no idea, but since I can't yell at the damn thing, I'm going to blame you instead.”
+
+“You know what? I'm fine with that. I'm going to blame myself too. Actually, how about we just blame the System?”
+
+“No, I'd like to do that, but it doesn't work because the System doesn't talk to me like it talks to you. Just gives us more and more situations that we can't possibly prepare for, that no one trained us to anticipate.”
+
+Shiv hummed, still constantly on the lookout for Evanescia’s return. “You know, somehow I don't think even Valor is prepared for this kind of stuff. Might have lived for a thousand years or something, but I'm pretty sure that the Fae was talking about a million. My math is bad, but I'm pretty sure a million's a lot more than a thousand.”
+
+“A lot more, indeed!” Evanescia, still in the form of a masked wolf, returned with her rapier raised high. She drove the bud of her blade against Shiv's head—and let out a startled gasp as his skull tumbled free and rolled across the glass ground. “Oh, my, I didn't see that coming—”
+
+Adam fired his very angry arrow point-blank into her chest. The Fae she was pretending to be ignited in a blaze of glowing azure light, so bright that Shiv had to shield his eyes.
+
+The wolf burned, it screamed, it howled, and it burst into ashes. As the flames subsided after a few seconds, Evanescia remained. Her featureless form stood amidst ashes and ruin, flaking off her body, her false shell destroyed. She looked down, stared at her hands, and looked back to Adam.
+
+“Well, that was an unanticipated Skill. But I'd rather like that one.”
+
+Shiv felt the first embers of anger bleed out from her. Adam fired another dozen arrows into her face while one of his clones tried to run her through from behind. None of his attacks dealt any lasting damage. No more than Shiv could. Both sons of Blackedge attacked her with ferocity. Adam fought to gain distance while Shiv closed in. Meanwhile, Uva returned to the fight as her strands flared out, carrying with them a rain of Fractals. She was connected to them, trying to find her own way out from wherever she was, and Shiv took the opportunity to reconnect with her. Even though his cutting aura severed one of her strands, he knew that would set her on the right path while allowing him to press his attack.
+
+But under their onslaught, Evanescia took a single step back and clapped her hands again.
+
+Genre Shift: Revenge Thriller
+
+The pages within the Usurper Narrator flipped. The world went golden as a blast wave of Chronomancy exploded out from her like a solar flare.
+
+Shiv manifested his temporal shell, calling it onto him just in time to intercept the blow. He slammed his fist against the encroaching Chronomancy, hoping to drive it back using Return to Sender, but let out a choked gasp as his efforts were crushed in an instant.
+
+This power was simply beyond him. It wasn't divine, at least this attack wasn't, but it was overwhelming. Beyond Legendary. Despite his Leviathan of the Shapeless Tides allowing him to overcome so much, what crashed into him was inexorable, something undeniable, something a Tier beyond.
+
+It shattered the field protecting his body, and once more, he found himself engulfed by stillness. This time, however, it wasn't the narrative that held him, but time itself. Time was frozen. Evanescia remained still as well. Her new self-insert was an automaton or some kind of artificial life form. Its chassis was resplendent and gilded with crystalline filigree, serving as circuits to enhance its chronomantic magics. It had ten different arms, each one seeming like a clock's hands, and there was a transparent window at the center of its body, showing a series of gears within, as well as an actual clock nested there, ticking on slowly, taunting Shiv and the others with every second that passed.
+
+“You know, I quite liked the Red Riding Wolf you just killed. They're whimsical creatures, a bit too silly for some, but I like them. I like all the toons. I like the way they alleviate my darker moods. I like how they make this place change, how they infuse a genre of comedy even in the worst of times. I like it; I like it a lot. They are among my most precious children. Despite this, I know I shouldn't punish a new character for not knowing the rules.”
+
+But despite her words, Evanescia stiffened. Shiv knew what was coming; he could practically taste the violent intent radiating out from her. “But considering all I've experienced today, all this excitement, you can't blame me for being unbalanced. I am in the mood for a revenge story. And you three…”
+
+She suddenly pointed upward.
+
+Shiv's stomach lurched as he and Adam began accelerating upward, not of their own accord, but rather because the entire dimension was falling away below their feet.
+
+As the world dropped, Shiv saw the remains of the Winter Court Castle. Where once a grand sculpture formed of Cryomancy and pale gothic aesthetic stood at the heart of the moon, preparing to devour the fleeting remains of the sun, now there was little more than a bowl of glass. Only a few walls and a couple of stumps that had once been pillars remained, littering the ground like a gravestone for the once magnificent edifice that was. Shiv and Adam continued upward, drawn further and faster by Evanescia’s unstoppable power. They left the pallid moon through that massive chasm lining its core, and before them came the last light of the dying sun.
+
+Only a single tower remained of the Summer Court, but even that was crumbling away into nothingness, dissolving like bits of shadow behind the star itself.
+
+But they weren't going to the Summer Court. They were going up, along the celestial clock hands connected to the sun and the moon. With a loud, resounding clack, both hands were synchronized, snapping parallel to each other as the moon slammed forward and finally clamped down around the sun. A flaring of light and power surged up along the twin hands. They fused as one, becoming golden and then incandescent, fueled by new and Divine power.
+
+High, high above, a series of gears turned. They were colossal, greater than the massive celestial bodies which loomed over the Fairwoods. They were the organs that kept this place alive, that shifted and turned, dragging the moon and the sun closer together. They were the heart of this place, and they were utterly and completely controlled by Evanescia's whims.
+
+Shiv tried to break free, tried to swap his Severed Shadow with his physical body. He couldn't. He was pinned in place. The stasis didn't affect his perception, but it did remove all agency from his personal form. Worse yet, it affected his frying pan as well. The narrative page he'd been cooking was encased in a wall of gold. He could feel Uva calling out to him, but he couldn't hear her. There was a threshold between them, and he was trapped. As was Adam.
+
+All was not yet lost, however. Threads were moving inside Evanescia. He realized there was a sphere around her, 10 meters in diameter, and Uva's strands, though frozen past that sphere, were still moving within that space of stability, dragged out by a chain of Aberrant Fractals. By now, Evanescia was helping the Umbral along, pulling on her Psychomancy, trying to get her out faster.
+
+“Come now, Seeker, you creature tainted by filth. Let go of my Fae. You might be able to tap into their minds, but there will be little you can do. They are mine to use. I can snatch them away from you whenever I want. Come out, come out.” After another yank, Evanescia let out a dramatic sigh. “Very well, then. I suppose I will have to motivate you another way.”
+
+And her body turned toward Adam. “Cruelty is such a fine medicine sometimes.”
+
+A sense of cold foreboding washed through Shiv. He cried out, at least tried to. He wanted Evanescia to look away from Adam, to stop whatever she was doing, but now they were passing through the massive gears, so great and vast up close that they eclipsed the size of continents. Every tooth sticking so far loomed beyond Shiv's ability to perceive. He didn't get to study the gears for long, for they shot past that threshold, moving faster than Shiv could comprehend, and finally arrived at what he instinctively knew to be the epicenter of the Fairwoods’ cosmology.
+
+Here, there was an expanse of whiteness and a ball of incandescent fire, one that burned atop a gargantuan, mechanical tower of clockwork, a burning beacon at the height of this world.
+
+And that burning beacon had an emotional core.
+
+It had a glow of vitality.
+
+It had a sense of hunger.
+
+And Shiv could feel it, heard it rumble with need.
+
+The Broken Watchtower accepts the sacrifices.
+
+The Broken Watchtower seeks their integration into Flame and Narrative.
+
+The Broken Watchtower is simulating the upcoming season.
+
+Oh, fuck. Something told Shiv that even his Deathless nature wasn't going to enjoy the touch of that flame.
+
+They came to a halt over the top of the Watchtower. The beacon that seemed to faintly fire from afar was a conflagration the size of an ocean that waited below. It gave off no heat, but there was a malice to the way it burned. A need. An avarice.
+
+Fuckfuckfuck, Shiv thought calmly. He struggled, trying to figure out a way to escape, trying to think of something else he could do. He used all his skills. He brought up his sheet and looked through his many options. He tried using his Blessings as well, but they were blunted. He couldn't do anything. He was simply frozen in a moment of time. Even his Non-Sequitur couldn't be triggered, since he couldn't act at all.
+
+Once more, he was helpless, and helplessly he watched as Evanescia pulled Adam in front of him. She wanted Shiv to watch. Pages flapped within the watch-type automaton, and Evanescia returned. Her indistinct fingers were curled, as if prepared to pinch something.
+
+“You took one of my Fae from me with that peculiar skill of yours. I'm going to pluck it out of you and examine what it can do. I mainly wanted you for that Shattered Star. You are going to boost the Deathless quite well, and his undying nature means that his strife is endless. You can amplify that effect. The girl can keep you both contained. But before that, a lesson for all of you: Don’t break what is mine.”
+
+Without further pretense, she reached forward and drove her fingers into Adam's right eye.
+
+No, motherfucker, let him go! LET HIM GO! Shiv screamed internally. He remained quiet outside.
+
+Evanescia dug her fingers deeper, and blood began spilling out from Adam's mutilated socket. Suddenly, the space around his head cleared of golden mana, and he immediately began screaming: she wanted everyone to know how much Adam was suffering. His head thrashed about, trying to pull free, trying to turn away, but after a near-minute of digging, Evanescia plucked his right eyeball out of his skull with a brutal wrench and bit down on his optical nerve, severing it completely.
+
+The noises Adam made were barely human. His throat was hoarse from screaming. A few sobs leaked over.
+
+Suddenly, Shiv went from being mostly befuddled by the strange Fae to hating her more than anyone else he knew in all existence.
+
+He was going to kill her. He was going to kill her slowly. He was going to break every bit of her. No matter how long it took, no matter what it took.
+
+“There we go,” Evanescia said, studying the azure and bright-orange iris of the eye she held in her fingers. “There are consequences to offending the reader. Some of them stop reading. Some of them turn away from the story, but some, well, they like to write their own narrative, and I am very fond of tragic vengeance. I get nothing from this. I even damaged one of my new characters. Don't worry, young Arrow; I will put you back together. But before that point, I need you to understand I can take you apart.”
+
+Adam mumbled something. It was barely coherent.
+
+Evanescia laughed. “What was that, dear ape? You have to speak up. You sound like you're about to black out. I suppose you are the most fragile of the three. I wonder if there's anything I can do about that.”
+
+“I said,” Adam swallowed, trying to mask his suffering. “I said… You almost came close to scratching that damn itch behind my skull.'”
+
+The Usurper-Narrator threw her head back and barked a laugh of pure amusement. “Incredible bravado. Perfect. You too are a hero for the ages, young Arrow. And that was something your friend over there might have said. But I am absolutely greedy, and that Feat of yours… I don't think I prefer suffering an attack like that again. It's far too potent. Too unnaturally devastating. How can something just ignite a soul like that? It's like you are meant to be an assassin for things like me, for everything that possesses an existence…” She hummed. “Perhaps I should do a little bit more digging. An eye is not enough.”
+
+Once more, she drove her hand into Adam. This time, however, it went deeper than his flesh. She began twisting and reaching within his very soul, and he gasped and groaned, trying to break free, but he was still trapped, trapped in her grip.
+
+Despair, especially when it came utterly out of nowhere, was a foul emotion. It was a sickening thing. Despair reduced who you were. Made sure you never reached your potential. And Shiv was pretty close to that despair.
+
+With the Tarrasque, he could die fighting. With the Ascendants, there was a social game to play, schemes and opportunities for him to exploit. But Evanescia was something else entirely. She was an outside context problem for him. He had no idea who or what she even was, and she'd come out of absolutely nowhere. His Non-Sequitur gave them an edge briefly, and he might have the means to beat her narrative powers within his frying pan. If he couldn't break free, then how could he help Adam? How could he—
+
+Uva exploded out from Evanescia's insides, but she didn't do so as herself. Instead, the bulk of her being was nested inside the mind of one of those Red Riding Wolves. And she held her rapier high in the air before suddenly dropping it down unceremoniously atop the head of the Usurper-Narrator.
+
+A comical thud echoed through existence.
+
+Evanescia's head bounced once, and she suddenly looked upon Uva, hidden within one of her own fae. “You—how could you—” And suddenly, a chain of winged books began flapping in a circle around Evanescia’s featureless face, as she stumbled back, her hands sliding free from Adam's mutilated soul. “I can't say I saw that coming either. Well… done… gi—”
+
+Evanescia folded over—but the moment she felt unconscious, she turned wrinkled and sank beneath the fabric of reality, like words vanishing upon a page.
+
+And despite everything, despite the bitter, bleak emotions Shiv suffered, a roar of triumph and hateful retribution flared inside him as Uva reached out and caught at him before he could fall, for time had resumed. They all plunged, and somehow, someway, a laugh escaped from Shiv as they all fell toward the fire.
+
+System, I take it back, I love that dumb bullshit skill!
+
+But though Evanescia had been knocked unconscious, there was another being here. One that had a will of its own.
+
+And when it spoke, it did so not with a voice, but with the rumbling authority of the System.
+
+These sacrifices are now mine.
+
+These souls are now consigned to the Fairwoods as new characters for the coming season.
+
+I accept this offering.
+
+And with that, the incandescent inferno atop the Broken Watchtower erupted upward to consume them.
+
+Shiv swapped his Severed Shadow and physical body a third time as he flung himself after Adam and Uva, praying desperately for the lid on his pan to open. Gods, please, come on you fucking—
+
+As they fell, Adam’s Shattered Star flared bright in defiance of whatever fate was to come, a trail of blood spilling out from his empty eye socket.
+
+A rush of power slammed into Shiv—a final boost granted to him by the Gate Lord.
+
+Uva formed a protective web as she embraced Adam from behind—taking the Watchtower’s flames first.
+
+And just then, the Last Morsel’s lid parted, revealing a finely cooked strip of paper within.
+
+Sequel Slip - Make sure that someone shows up in the next one…
+
+Shiv pulled the meal out and did the only thing he could think of, just as he reached his friends.

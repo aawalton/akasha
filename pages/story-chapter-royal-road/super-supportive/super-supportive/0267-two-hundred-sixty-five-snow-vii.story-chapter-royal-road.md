@@ -1,0 +1,357 @@
+---
+id: 5da6e93b-5dc2-562a-b11e-bc0cce210418
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED SIXTY-FIVE: Snow VII"
+slug: 0267-two-hundred-sixty-five-snow-vii
+partOf: super-supportive
+position: 267
+ownLength: 3978
+unit: words
+publishedAt: 2026-01-06
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2916143/two-hundred-sixty-five-snow-vii"
+royalRoadId: "2916143"
+---
+
+265
+
+******
+
+Stopped it, thought Alden.
+
+His mood swung all the way to excitement. For a second, the problem felt small enough to be solved by the speed and strength of his shield, as if having whipped the pig into position between flying fist and detestable face would earn him a victory notice.
+
+Then, the next second jerked him back down into the havoc. Details burst into focus. The man who’d attacked Bash-nor shot toward the ceiling of the tent. He was roaring, arms and legs swinging, one foot slamming into the support frame so hard part of it bent and came loose.
+
+Levitated.
+
+Lute must have thrown himself backward away from the danger because he was now on the outside of their group, mouth open. He was holding his hands out like he intended to do something, but they weren’t actually moving.
+
+Mrs. Nancy shouted, “No, Graham. No! Calm down!” And she threw a knitted glove up at the flailing man. It hit his back softly and landed on the grass just as softly, a merry yellow on green.
+
+Drusi-otta stood behind Mrs. Nancy, holding the wand that was levitating Graham. The votary’s umpteen necklaces were still in motion, as if she’d just stopped after a sudden move. She was glaring at Zeridee, who was now on that side of the sales table, too, sprawled on the ground and staring up at Graham in horror.
+
+There was a lot of shouting from within their group and some from beyond it. In the background, everywhere Alden looked, Anesidorans were frozen in place, backing away, or grabbing their kids. He saw one woman turn and run.
+
+“Get this absurdity away from my face!”
+
+Bash-nor’s high-pitched demand brought Alden’s attention to his own body. His right arm was fully extended. The pig’s tail was gripped in between two fingers.
+
+His mouth was open. Maybe he’d been about to shout a warning? He shut it.
+
+Barely made it, he realized. If I was any slower…. Way to go, reflexes.
+
+The ambassador’s nose was almost touching the pig’s rounded belly.
+
+“It’s a shield,” Alden explained, pulling the cotton candy creature back toward himself. “I was shielding you from that punch.”
+
+In those first moments after the incident, he felt no anger, and he no longer had any intention of making Bash-nor look bad. He read the ambassador’s outrage about his pig shield as confusion because confusion made more sense to him than outrage. An Avowed had just leaped a table and taken a swing. People were scared. This was all terrible, and if Bash-nor was yelling about absurdity it seemed like a natural reaction to the whole messy picture they were standing in.
+
+“I didn’t want you to get hurt,” Alden said. “And the pig is the only thing I have. You’re all right, aren’t you?”
+
+“If a wizard needs your assistance, they will summon you properly,” Bash-nor hissed.
+
+“But there wasn’t any time for that. That man was coming at you fast. And what if he was a high rank? You could have died.” Alden frowned. “I don’t want you to die.”
+
+Just be fired. Because you’re a huge jackass. “If a wizard needs your assistance….” “Do not ignore a wizard when they speak to you….”
+
+That’s right. I was mad. I am mad. Is this piece of work really complaining that I helped him?!
+
+“Besides. I can’t be summoned right now. I’m on leave.” Alden’s mouth hadn’t quite caught up with the reality of the situation or his swiftly shifting emotions.
+
+What just happened?
+
+Why?
+
+“Please. Please forgive him, Grand Senator. Please forgive him, Ambassador. Wizard.” Mrs. Nancy’s voice trembled as she addressed the last word to Drusi-otta. “Graham lost his fiancée. In the floods. He hasn’t been well. He hasn’t been all right since it happened.”
+
+Above her, the man stopped flailing. He hung there, arms and legs limp. If Alden couldn’t see him turning his head, he would have thought Drusi-otta had knocked him out.
+
+This was so unnecessary.
+
+Servin-ith was trying to talk him down.
+
+Everyone saw the guy was losing it. Even if we didn’t realize he’d jump straight to physical violence, we saw he wasn’t okay. Bash-nor couldn’t spare a speck of effort to say, ‘Yes, your loved one was very brave. Sorry for your loss’?
+
+Now Mrs. Nancy was begging Bash-nor for forgiveness. And Servin-ith…where was she? She’d been right beside Alden when it all went wrong, and now she wasn’t here. He looked around again and spotted her approaching. From behind the group.
+
+Teleportation?
+
+He hadn’t seen her disappear, but he assumed some object in her possession could allow for it. Or as a Grand Senator it might be as easy as ordering the System to relocate her immediately.
+
+The irony of that, when the start of all this had been a request for more emergency teleportation.
+
+This man has just put a fist through his own life.
+
+Many things were hitting Alden at once. Like the tiny demon bugs of his nightmares, a whole storm of little pains struck him as he stepped back, making way for the Grand Senator.
+
+Graham wore a jade hoop in one ear. Alden could see it now, with the guy’s hair hanging toward the ground. He knew what it felt like to fumble with the backing of that earring, trying to figure out how to take it from a dead woman’s cold ear without ripping the lobe.
+
+I could have just ripped it out. She was dead, and I’m sure her body got pulverized by the next wave. It’s really impractical that I tried to be careful. Next time…
+
+A kind grandmother who had invited him into her home was trying not to cry. Her mouth strained against itself. Her chin wrinkled.
+
+I’d better not go to her house for Christmas dinner. I’d better make sure to tell her I won’t, so that she won’t have to worry I’ll show up. I don’t want to ruin a good thing for other people.
+
+Lute was lowering his hands. He was trying to catch Alden’s eyes. Establishing that they were in this together.
+
+That’s a comfort. Thanks, Lute. But you look really scared. Sorry about this.
+
+The sounds were different now. Music and the microphone for the globie ceremony happening at the Christmas tree were suddenly coming through loud and clear because there weren’t as many voices in this area.
+
+I liked the Christmas market. It felt like human magic.
+
+Servin-ith looked alert. Serious. Both of her pink eyes were flitting around.
+
+“Please,” Mrs. Nancy whispered. “I’m so sorry.”
+
+“You did nothing wrong, and you can’t speak for another person,” Bash-nor said. He almost sounded nice. Alden was sure he was trying to sound nice. But there was something else to it. Nerves, perhaps.
+
+Servin-ith couldn’t be pleased right now.
+
+Nobody’s pleased right now.
+
+“Grand Senator,” said Bash-nor, giving Servin-ith a tiny bow, “if I might make a recommendation—”
+
+“Ambassador,” Alden interrupted, giving Bash-nor a very deep bow of his own. “I…”
+
+I don’t know what I’m going to say, but I don’t want to hear your recommendation. I want you to have to shut up.
+
+I want you out of my Christmas market.
+
+Off my planet.
+
+“I…am so sorry I tried to shield you.”
+
+I have to add something to that so it doesn’t sound like I wish he’d gotten pummeled.
+
+“I don’t know why it made you angry,” said Alden. “But I apologize.”
+
+“Why are you speaking right now? The Grand Senator—”
+
+I am a stupid child.
+
+“Because you yelled at me,” said Alden, still in the lowest bow of his life. He couldn’t see anyone’s face. He watched a blade of grass, crushed by his shoe, straightening slowly.
+
+He wasn’t as nervous as he imagined he should be. He wasn’t sure what to call his feelings now that he’d bowed and started a conversation he couldn’t envision the end of.
+
+“I didn’t yell.” Bash-nor sounded exasperated. “Don’t—”
+
+“You spoke in a harsh tone. I thought you were mad about the pig.”
+
+“I have my own personal enchantments for protection. I did not require help from a young Ryeh-b’t. Now, be silent and—”
+
+“I hear you,” said Alden. “But it didn’t occur to me that you were prepared. I could tell you didn’t understand that that man, Graham, was upset. So I thought you wouldn’t be ready to defend yourself.”
+
+This is all I can think of.
+
+It isn’t that great.
+
+But I guess it was my final bump.
+
+“I’m very able to tell when people are upset,” said Bash-nor.
+
+Oh? Isn’t he lining himself up for another one?
+
+A new voice took the shot before Alden could. “One would think that was an important skill for an ambassador to have, wouldn’t they?”
+
+Esh-erdi!
+
+Alden wanted to look, but he had the impression that some of the people around him were bowing to acknowledge Esh-erdi’s, and presumably Lind-otta’s, arrival. Whether he ought to come out of his deep apology bow only to do a “Hello, you are a knight” bow was too much to figure out.
+
+“Grand Senator, I offer my help with representatives of the local law,” said Esh-erdi. “We’ve met some of them. They handle things differently than we do.”
+
+“And I offer my help with the young ones,” said Lind-otta. “Shall I take them from your care?”
+
+“She means you.” A hand grabbed the back of Alden’s shirt and pulled him upright. Esh-erdi’s thick brows were raised. “You can apologize for risking your safety for Bash-nor’s sake later if someone wants you to.”
+
+Alden wasn’t sure what to make of that. Was Esh-erdi mad? Was he not?
+
+He glanced toward Servin-ith to see if she was mad or not.
+
+“I’m sorry our time together was cut short in this way,” said the senator. “But I think Hn’tyon Lind-otta would be better company than me for now. It was a pleasure to meet you, dear. And you, Lute! Thank you for showing me your favorite places.”
+
+They were dismissed that swiftly, and there was nothing to do but go.
+
+Alden felt like he was leaving behind unfinished business as he and Lute followed Lind-otta, but no matter how he looked at it, none of what came next should involve him. He was worried about what was going to happen—or not happen—to Zeridee, Graham, and Bash-nor. But he wasn’t an Artonan wizard or one of the festival security people who were now converging on the area. And before the three of them had made it far down the row, a police officer wearing the Sway symbol on both her uniform and her interface tag rushed past them without glancing their way. The Brute from the High Council appeared a minute later, and he did look for a moment in their direction, giving Lind-otta a nod and then continuing on toward the scene of the incident.
+
+If Lind-otta hadn’t taken us it would only have been a minute or two before some other authority figure pointed out that we should go.
+
+At best, he and Lute were witnesses, but there were more important witnesses to be had. Not to mention recordings.
+
+“Is it all right for us to just leave like this?” Lute asked hesitantly. “General…Hn’tyon Lind-otta?”
+
+He feels it too. They’d been lighting matches to apply a little heat to Bash-nor, but fire had suddenly leaped up around a third person they hadn’t been aware was waiting for an excuse to explode.
+
+“Did we annoy the ambassador too much?” Alden murmured.
+
+“You can speak at regular volume if you want,” Lind-otta said. “No one will hear us, and we’re visually distorted. Of course it’s all right for you two to leave, Lute. Not only all right, but best. You have worked hard and accomplished what you set out to do. Now your presence would only put your success at risk.”
+
+She dropped back a pace so that she could walk between the two of them instead of out in front. Her coat was seafoam today, the same color as Esh-erdi’s auriad.
+
+Lind-otta had a smile that was more soothing than mischievous, and her facial features were quite different from her partner’s—a smaller nose, wider set eyes. They really didn’t look much alike, but for a moment, Alden was struck by her Eshness. As if he might easily mistake one of them for the other.
+
+Is it just because I learned more about what they are to each other from Stuart? Or is it a real part of what they are?
+
+She was watching him.
+
+“That wasn’t the kind of success I wanted,” he said. “A man tried to hit Bash-nor, and considering how hard his fist struck my shield, it might be fair to say he tried to kill Bash-nor. If I’d known something like that would happen— ”
+
+“It’s not our fault,” Lute said. “Nobody could have predicted that.”
+
+“But if… ”
+
+If I’d done something different.
+
+“Taking responsibility for everything is only a little better than taking responsibility for nothing,” said Lind-otta. “You will be able to act more effectively when you learn to accurately assess your own importance in a situation. You are like my Esh when he was younger, I think—too inclined to see flaws in yourself whenever something around you goes wrong. Waiting for him to understand this was a very time consuming process, and I am old. So I’ll have less patience with you and tell you clearly that blaming yourself for that man attacking Bash-nor is absurd.”
+
+Am I doing that? Maybe.
+
+“What will happen to him?” Alden asked. “Graham.”
+
+“Servin-ith will want to show our care for Earth’s Avowed by ensuring that he receives treatment for his grief and rage before engaging in some kind of service in a visible location. She is unlikely to give in to any requests from the Anesidoran government that the Avowed be punished according to your own laws instead of ours, so the most likely outcome, based on my understanding of your government’s tendencies, is that the man will serve the sentence Servin-ith finds fitting, and then when she is done with him, he’ll return here and serve the one Anesidora prefers.”
+
+“At the very least, he’ll get a long ban from family neighborhoods and events,” said Lute. “You can’t do a thing like that in a place like this.”
+
+A place like this, thought Alden, glancing around.
+
+After a short walk, they were already in a part of the market that looked like everything had a few minutes ago. The crowd parted for them and Lind-otta, but it was a normal crowd. And even if their silent, visually distorted presence created a minor interruption, everyone went back to playing and shopping as soon as they’d passed.
+
+“It’s always just one layer deep,” he said.
+
+“What is?”
+
+Lind-otta’s question made Alden realize how odd his comment must have sounded to people who weren’t inside his thoughts.
+
+He recalled the surreality of his first day back at school after his parents had died. Even as a young child, there’d been something so strange about running out the door toward recess with everyone else—peak school day excitement that had been real to him, but thin. Like a fun sticker he knew could be peeled away at any time to reveal something ugly.
+
+“The problems,” he said. “Right now we’re only one layer away from a man who lost his fiancée. And Anesidora’s only one layer away from wherever the worst place on Earth happens to be today. And Earth is one layer away from chaos…I meant something like that. I was just thinking.”
+
+[Lute: Okay?]
+
+Alden was sure he meant, “Are you okay?” based on his furrowed brow.
+
+[Alden: Yeah.]
+
+Better filter myself a little more.
+
+“You are like my Esh in good ways, too,” said Lind-otta. “Stop here, and look at me for a moment.”
+
+Alden stopped walking.
+
+“We enjoyed our trip today.” Her voice was warm, and her gaze was soft.
+
+“I’m glad you did,” said Alden. “I know I interrupted it.”
+
+“We enjoyed the rising of a sun that shines on many imperfections, and when we go on other trips to places that are much darker, we will remember that all of this is, as you put it, only one layer away. You can’t fight every darkness or bask in every light. Accept this, so that you can choose the right battles for yourself and fight them at full strength.”
+
+“How do people know what the right battles are?” he asked.
+
+“How hard was it to earn Alis’s commendation?” she replied.
+
+He swallowed.
+
+“I see. And would you do it again?”
+
+“Yes.”
+
+“Would you endure that same struggle for a different outcome?” She sounded curious. “If it would remove a terrible ambassador from Earth, for example, which might save innocent lives as well over the coming years.”
+
+Lind-otta waited.
+
+Alden made her wait such a long time that Lute started waving at him from behind her.
+
+“I can’t lie to you about it, Hn’tyon Lind-otta,” he said finally, “and I don’t want you to hear the truth.”
+
+“Why?” she asked. “Do you think I have never answered no to such a question? I have many times and will many more. I’m sorry you are ashamed of your answer, but it’s good that you know what your answer is. Not every battle is yours, Alden. I believe you’ll recognize the ones that are when they come.”
+
+She started walking. “You both did well today, regardless of the unexpected outcome. You showed Servin-ith a less <<curated>> Anesidora and a less controlled Bash-nor. Both of which she needed to see. Especially if his temper is that close to the surface. If he can’t be diplomatic with a Grand Senator standing at his shoulder, then I don’t know what circumstances would improve his behavior. Perhaps he’s one of those people who loses all perspective when he’s in a position of power. Esh and I were stunned when he decided to <<nip>> at a man who Servin-ith was trying to calm. Her pride is different than his, but she’s got no less of it.”
+
+“Do you think she’ll fire him?” Alden asked.
+
+“Yes. And astonishingly he doesn’t seem to know it yet. He should have been apologizing to everyone instead of complaining about your efforts to protect him.”
+
+“He did make me regret it.”
+
+“Don’t,” Lind-otta replied. “The amusement Esh felt when he saw you defending Bash-nor with that food toy was delightful. After his initial alarm.”
+
+The pig was still safely preserved under Alden’s arm. It had a happy face. “I think that guy was a mid-rank Brute of some kind. We got in front of him fast.”
+
+“I get half credit since the pig is mine,” Lute said.
+
+Lind-otta smiled. “Show me something bright in this place,” she said, “and then I’ll leave you to enjoy the day as you were before you decided to help Zeridee-und’h with her battle.”
+
+******
+
+******
+
+Alden and Lute sat at the back of the ferry, on the uppermost deck, watching F-city recede through windows so clear that it felt like they were looking through an opening in the side of the boat instead of glass. The seats were just a little too small for Alden’s taste, but they were well cushioned, and they would heat up if you asked them to. The two cases of mover discs he had bought from the Fetunan imports store were serving as footrests. One would be Jeremy’s Christmas present. Alden was going to experiment with the enchantments on the other set until he completely figured them out or destroyed them.
+
+Haoyu’s skateboard had been purchased, and Lute’s gift to him would be the custom paint job on it since the only way to get the store’s art guy to paint a “party badger” design a few days before Christmas had been barter. He’d wanted the cotton candy pig and a picture of Alden holding the pig in front of some of his skateboards to prove it was authentic.
+
+That was how Alden and Lute discovered the incident was rapidly spreading around Anesidora. Lute was currently on the internet, watching whatever was happening to their reputations in real time.
+
+“Are you sure I can’t tell you what I’m reading right now?” he asked almost desperately. “Because— ”
+
+“I’m sure,” Alden said. “I told you not to look.”
+
+“It’s not like most of it is bad. Most of it isn’t really about us. The pig save was funny, and people think we— ”
+
+“Shhh…I’m texting my foreign friend.”
+
+He knew it couldn’t all be good because Emilija had already sent a message suggesting he put her to work tonight deleting rude comments and messages on his Trime account.
+
+[Alden: Stuart, I’ll be back at my dorm soon. It took longer than I thought. I know the time is wrong for you, so if you’re asleep we can talk when you wake up.]
+
+He was debating whether or not to send a message to Boe. Something like, “FYI, that doesn’t count as an act of heroism. It was like that thing that happens when a doctor hits your knee with the little hammer. My arm shot out to intercept that guy on its own.”
+
+I’ll save it for when he hears the news organically, Alden decided. Rushing to tell him about it makes it sound like it was a bigger deal.
+
+“Why do you have self-control?” Lute grumbled.
+
+“It waxes and wanes. I’m sure I’ll have to look and see what everyone is saying about us tomorrow, but the longer I delay, the greater the chances are that someone else does something really bizarre and steals the spotlight.”
+
+“So you admit you’re bizarre.”
+
+“You were right there with me.” And having him there had made it all more doable.
+
+I’m going to have to buy him that giant stuffed pig after all, aren’t I?
+
+Lute swiped away whatever he’d been looking at. “Lind-otta seemed nice.”
+
+“I think she is.”
+
+“That thing you said about layers…”
+
+“I was in a weird mood right after what happened.”
+
+“Me too. The first thing I thought about was how the ambassador could take revenge on that guy…can I tell you the news about him at least?”
+
+“Bash-nor? Sure.”
+
+“He’s gone.”
+
+“That fast?”
+
+“Yeah, that fast. There was no explanation, and they didn’t even let him give a goodbye speech. Servin-ith gave one for him. If I wasn’t in the know, I’d think the guy murdered somebody, and the Artonans were trying to sweep it under the rug. But that thing you said about what’s going on one layer away… ”
+
+“Yes?” Alden asked.
+
+“It was good,” said Lute. “Real. It made me think of Haoyu.”
+
+Oh, thought Alden.
+
+Haoyu’s mom was expected back early Saturday. Sometime tomorrow, he should get a call from her, confirming that she was safe and that she would indeed return on the planned day. This was a tension Haoyu often lived with and rarely mentioned, the same as when his father had been with the battle group at Matadero.
+
+“You’re right. That’s one layer away.”
+
+“I want to go back in time and throw all those die dice I made into the ocean,” said Lute, pressing his combat boots harder against the top of the mover disc case so that it rocked.
+
+“If you get time travel powers when you become a hyperbole, tell me,” said Alden. “But for now— ”
+
+“My ears turn off automatically when you try to jinx me into a hyperbole.”
+
+“But for now,” Alden said more loudly, “let’s just help Haoyu distract himself until she’s back.”
+
+“I want to slap a Peace of Mind on him, but he won’t let me.”
+
+“Every time you offer, you’re probably reminding him that he’s stressed. We’ll think of something else.”

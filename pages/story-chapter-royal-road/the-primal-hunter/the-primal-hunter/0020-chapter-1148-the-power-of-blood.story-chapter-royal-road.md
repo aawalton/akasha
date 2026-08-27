@@ -1,0 +1,151 @@
+---
+id: 490227e3-b67c-5e6b-a2bc-3d8a394fa071
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1148 - The Power of Blood"
+slug: 0020-chapter-1148-the-power-of-blood
+partOf: the-primal-hunter
+position: 20
+ownLength: 3076
+unit: words
+ownProgress: 3076
+publishedAt: 2025-08-11
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2509636/chapter-1148-the-power-of-blood"
+royalRoadId: "2509636"
+markedReadAt: "2026-06-29T19:29:53.436Z"
+---
+
+“You seem distracted,” Nature’s Attendant spoke as Jake knelt down and slowly infused the magic circle with his energy.
+
+“Just a lot of jumbled thoughts rattling my mind these days,” Jake confessed with a sigh as he continued his energy infusion.
+
+This time around, the god has asked Jake to do the infusion slowly and steadily, something Jake had no complaints about. This brief break from his own mind was also welcome, as it allowed him to shift his perspective slightly and not have his head filled with thoughts of blood and concepts all the time.
+
+Even so, Jake couldn’t entirely dispel these thoughts, as the powerful aura of life in the environment made him think about it, and he unconsciously took deep breaths to stimulate Palate at least a little.
+
+“Something you’d care to share?” Nature’s Attendant asked. “This old man is considered rather knowledge by most people’s standards.”
+
+“I guess it can’t hurt,” Jake sighed as he voiced some of his concerns. He talked about how he had been mulling over how to upgrade Blood of the Malefic Viper and his attempts to understand better how life magic worked in the first place. Additionally, he found healing magic sometimes confusing due to its freedom from system restraints.
+
+Nature’s Attendant listened patiently to Jake’s ramblings, staying unjudgmental throughout. Jake knew that the old man likely saw all of Jake’s problems as utterly insignificant and low level, Jake akin to a toddler complaining that multiplication was hard to a doctor in mathematics.
+
+At the end of his rant, the old man just kept smiling as he looked out over the field of flowers. “I can’t speak about the Path of the Malefic Viper as it’s not mine, but I can talk a bit about life. To me, life is the second-most beautiful affinity right after nature itself, but for nature to flourish, there must naturally be life. The same is true for you. For there to be blood, there has to be life.”
+
+“Yeah, yeah,” Jake muttered and sighed again. “That’s simple enough. Someone has to be alive to have blood, so-“
+
+“Not necessarily,” Nature’s Attendant interrupted. “The Risen have blood despite not being alive. Many undead do. When an elemental transforms itself into a humanoid form, it also naturally has blood and can thus bleed. However, this blood has nothing to do with life. There is no Vitality within such a being... yet it does represent their basis of existence. Their spilled blood is a sign that their “life” is waning.”
+
+Nature’s Attendant swept his hand outwards toward the field of flowers, directing his gaze to them. “Plants cannot bleed either, yet they are all full of life. Full of Vitality. Your thinking that blood represents life isn’t inaccurate, as in your case it does, but it isn’t a universal truth.”
+
+“Is there any universal truth?” Jake asked.
+
+“If I had to pinpoint one... blood represents change,” Nature’s Attendant said in his usual calm voice.
+
+“Change?” Jake asked, not really seeing how that one made sense in a grander context. Sure, someone bleeding a lot would be changed from alive to dead, but blood as a concept?
+
+“Blood is a physical thing. In most contexts, it’s a vehicle to carry vital energy from your soul to your body, allowing it to restore itself. It stores life to nourish the living. However, it’s only that. A vessel. When a Risen bleeds, spirit points and not health points are what seep out. When an elemental in humanoid form bleeds, mana is spilled.”
+
+Jake nodded along, faintly aware of those things already. However, the more he thought about it, the weirder it was that the Risen and fully mana-based creatures even had blood in the first place. For a while, he had guessed it was done just as part of the process of mimicking a humanoid. That just because humans, elves, beastkin, and other enlightened all had blood, so did a monster taking humanoid form, even if said monster didn’t even have a Vitality stat.
+
+However, that explanation was, in truth, a rather unconvincing one. Monsters were highly concerned with efficiency and designed their humanoid forms to still allow for combat. That being the case, including something superficial like blood was wholly unnecessary, as it wasn’t even anything aesthetic... unless it wasn’t superficial at all.
+
+That’s when Jake asked himself another question: why had he assumed that blood was only made to carry vital energy? Sure, that was the most common form of fundamental energy it carried, but what if blood was just a magnificent vessel to carry all forms of energy? Perhaps even the best vessel out there.
+
+Jake looked up at Nature’s Attendant and uttered his realization: “Blood and life... have nothing fundamentally to do with one another, do they?”
+
+“Fundamentally? No... even if blood more often than not carries life, it exists without it,” Nature’s Attendant smiled. “If blood equalled life, vampires would be quite proficient in the affinity, but instead, they master the blood affinity instead. An entirely separate one that deals with the true fundamental aspect of blood.”
+
+“It’s a natural energy-carrier,” Jake continued. “A liquid that has a theoretically limitless affinity to hold energy, as the amount that can be contained within a single drop is wholly dependent on who bled the blood in the first place.”
+
+“Is that all it is?”
+
+“Probably not... but for now, I think this is good enough,” Jake muttered, as he had a lot to think about.
+
+“Sometimes, it’s good to know when enough is enough,” Nature’s Attendant nodded approvingly. “A notion that also applies to supplying energy to formations.”
+
+That’s when Jake realized he was getting dangerously close to knocking himself out again as the two devilish sprouts were still hungrily munching down on his energies. The two of them had grown even more since last, and were now about the length of a foot. The two also remained somewhat antagonistic toward one another, but their relationship had evolved more into one of rivals than outright enemies.
+
+“Yeah, probably good to call it a day here,” Jake said as he stopped supplying energy, much to the disappointment of the poor sprouts. “I have a lot of experiments to get to.”
+
+“Do remember proper rest,” Nature’s Attendant said in a lecturing tone. Raising his hand, he gave Jake a smile. “Till next time.”
+
+With a wave of his hand, Jake was teleported away and appeared back in his palace once more, now armed with new inspiration. He could barely wait and went as far as to chug a potion to restore some mana, as he rushed down toward his alchemy lab.
+
+Once there, Jake took out a bucket and placed it on a table. Without any hesitation, he used a katar to cut himself and began filling the bucket with blood. He didn’t infuse it with energy or turn it toxic, but just bled his own basic human blood.
+
+As he bled it out, Jake also analyzed it closely. The first thing he noticed was how quickly the vital energy within the blood began to disperse once it was outside his body. After only a few minutes, the vast majority of the vital energy would be gone, leaving the blood behind as nothing more than a nasty-looking liquid that a lot of people had phobias about.
+
+Jake waited patiently for all the vital energy to disappear from the blood until he was left with nothing more than mundane blood. From there, Jake tried placing a finger down into the liquid and closed his eyes as he tried infusing his mana into it. He easily did so as soon enough the blood within the bucket was filled with mana... which only made Jake frown.
+
+It’s wrong.
+
+The blood had indeed absorbed the mana, but it felt similar to how water could also absorb his mana. In fact, when he took out another bucket and filled it with purified water, he could infuse just about as much mana into that as he could his blood before it would begin to disperse naturally.
+
+Looking at the blood more closely, Jake felt that it no longer even felt like blood. Not proper blood anyway. He wasn’t sure what was wrong, but one thing was certain: the mana stored inside of it wasn’t stored properly.
+
+With a third bucket, Jake used blood made toxic through Blood of the Malefic Viper. He bled out a fair amount before stopping, as he didn’t have to come even close to filling it before he confirmed his suspicions.
+
+Not dispersing.
+
+The blood within the poison bucket was filled with more mana than the one he’d manually infused with pure mana. It had gone beyond the limit of how much mana Jake could usefully infuse within water, and unless he used special water of a higher rarity or spent a long time refining the water, he wouldn’t be able to infuse more into it.
+
+However, what mattered the most was how stable the mana was within the poisoned blood. It felt like it belonged there as if the toxic mana had always been part of the blood. Jake also knew from experience that he could infuse far more energy into it while crafting, meaning he was far from his blood’s limit for energy storage.
+
+After a few minutes of consideration, Jake went over to a small pile of books he had collected over the last couple of weeks. He sorted through them before finding the one he had been thinking about. It was a basic book made for E-grade mages who wanted to learn a type of magic that Jake had never touched but only heard a bit about:
+
+Blood magic.
+
+No, not the vampire kind. The kind where, instead of mana, one could use health points to cast spells instead. Well, in reality, one just mixed health and mana during casting, creating more powerful effects when performing certain kinds of magic. Blood magic rarely actually involved blood, but the resulting magic did often have a reddish aura due to the vital energies mixed in, which had given birth to the name.
+
+Jake wanted to read more about this kind of magic as he faintly remembered something mentioned in the book. After scouring through it for a bit longer, he finally found the section he’d briefly skimmed before and read it more closely this time.
+
+Having had a lot of practice studying from the tome left by the First Sage, Jake quickly understood what the author of the book had tried to convey.
+
+The section he had been looking for was one about using the vital energies of other people when casting blood magic. Unwilling participants. It explained why such an endeavor was incredibly difficult, and toward the end, it had a section about creating something called Blood Beads that stored the vital energies of oneself or others.
+
+Vital energy, which was what blood mages used, could only properly exist within the confines of the Soulshape, and blood was just a physical substance to absorb and contain it. If one wanted to contain the vital energies within the blood, one had to seal it inside using special means, which would ultimately crystallize the blood. This process of creating beads and crystallizing them also had to happen inside the body, making it all a very painful process.
+
+However, with enough practice, a blood mage could even learn how to directly manifest blood outside of the body while allowing it to contain vital energies... through a process where one transformed the nature of the energy within the blood to no longer be considered regular vital energy.
+
+To Jake, this all read a lot like what Blood of the Malefic Viper did. The core of the issue lay in that blood was created specifically to house only one unique form of energy under extremely specific circumstances.
+
+In Jake’s case, his blood was created by his body to store his unique signature of vital energy and only within his Soulspace. This specificity allowed the blood to be so good at what it did, but the Viper had found a way to change the nature of the blood in a fundamental way.
+
+The skill allowed the blood to retain its pristine aspects, which were largely due to its direct creation by the system, while simultaneously enabling the alchemist to manipulate it and transform it into a toxin.
+
+Jake had taken a while, but he realized that the reason why the Viper could do this was similar to why blood mages could learn to manifest their blood directly outside of their bodies. Blood mages had to change themselves to make it happen. What they did was to permanently alter their own bodies and keep their blood constantly infused with mana. It was a long and arduous process, not too dissimilar to what Jake had cheated his way into getting with Arcane Supremacy.
+
+What the Viper had done was the same, just infinitely more intricate and impressive. Jake didn’t notice it, but his body had changed. His Records of it, anyway. Whenever Jake ate anything toxic, he’d consume a part of the toxin and store those Records within his body. Jake’s entire body was a giant mass of toxins that Jake only had to manifest whenever he so desired.
+
+This realization also answered a few things Jake had wondered for a long time, such as why the mana cost for Blood of the Malefic Viper was so low. All he did when he used Blood of the Malefic Viper was just to stimulate the toxins already part of his blood, a process that was far cheaper than truly transforming all the blood into a toxin... but that didn’t mean it wasn’t something Jake could do.
+
+One had to remember that all the Malefic Viper Legacy skills were connected. Part of a greater whole. Jake didn’t need to simply infuse his blood with the powers contained in Blood of the Malefic Viper, but instead he could use the skill responsibility for true change.
+
+As the blood was inside Jake’s body, he was constantly touching it... meaning Touch of the Malefic Viper should work. Jake, who was already tired after infusing the formation with energy earlier and having jumped right into work after getting some direction and continued being a helpless workaholic as he couldn’t help but try to confirm his theories.
+
+Sitting down with his legs crossed, Jake felt his entire body and the blood flowing within it. He felt himself connect with the flow as he took hold of the blood. Controlled it. Raising a hand, Jake pricked a small hole in his finger as he focused on Blood of the Malefic Viper.
+
+A droplet fell onto the floor and instantly began sizzling due to its acidic properties. Jake had consumed plenty of acids, after all, making his blood quite good at corroding all things, living or inanimate.
+
+Moving his hand slightly to the side, another droplet fell down beside the first one, sizzling just the same for a while before expending its energy. Jake kept sitting there, letting drops of blood fall for another half an hour, until suddenly, a drop fell that felt slightly different from all those prior.
+
+It hit the floor and splattered just like all the others... but there was no sizzling sound. No corrosion at all. Jake opened his eyes and looked at the drop of blood, a small smile forming on his lips as a notification appeared before his eyes.
+
+[Blood of the Malefic Viper (Legendary --> Legendary)] – The blood of the Malefic Viper is a toxin more deadly than most poisons and the lifeblood of an immortal being. Allows the Alchemist to infuse their blood with energy to stimulate its inherent toxicity, imitating their Patron and even carrying traces of the True Blood of the Malefic One within. The nature of the poison can be determined by the alchemist, limited only by your Records. Allows your blood to carry more energy than usual, including vital energy, passively speeding up regeneration. This effect is further amplified when consuming a health potion or other sources of beneficial vital energy. The blood’s toxicity level is based primarily on Vitality and Wisdom but receives an increase from all physical stats. Increase in natural regeneration based on total health pool. Passively provides 9 Vitality per level in Heretic-Chosen Alchemist of the Malefic Viper (C-grade variant). May your blood be forever the bane of all that wishes you harm, the catalyst of your creations, and that which brings you eternal life.
+
+Jake briefly skimmed the notification and noticed a few changes here and there, many of which only appeared cosmetic in nature. The only genuine change was exactly what Jake had been aiming for... the ability to control what toxins he transformed his blood into. The skill also acknowledged his understanding that Jake didn’t infuse his mana to turn it toxic, but merely stimulated the toxicity already dormant within his blood.
+
+It appeared like a small change, but Jake knew it was a big qualitative leap. It had progressed his ability to control his blood by a fair deal, and he also subtly felt like a direction for the mythical upgrade had been set. However, those were all considerations for later.
+
+For now, Jake had three important things to do. The first one was to be happy about his gains, which even included two nice levels – him getting two likely because he was already close to one before this upgrade.
+
+’DING!’ Profession: [Heretic-Chosen Alchemist of the Malefic Viper] has reached level 314 - Stat points allocated, +35 Free Points
+
+’DING!’ Race: [Human (C)] has reached level 317 - Stat points allocated, +45 Free Points
+
+’DING!’ Profession: [Heretic-Chosen Alchemist of the Malefic Viper] has reached level 315 - Stat points allocated, +35 Free Points
+
+The second thing Jake really had to do was stop himself from nodding off, as he was absolutely exhausted and out of energy. That’s to say, he really needed a good nap to recover in order to do the third important thing properly.
+
+This upgrade to Blood of the Malefic Viper, as well as his recent hunting trip, had inspired Jake a bit... and seeing he’d just upgraded one Malefic Viper Legacy skill and even his melee fighting skill.
+
+Well, let’s just say Jake planned on getting his second skill upgrade containing the word Fangs soon.

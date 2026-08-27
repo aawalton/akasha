@@ -1,0 +1,171 @@
+---
+id: 3fb7dc12-620d-5493-ab20-f85d30010ecb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27: Lying in Wait"
+slug: 0031-chapter-27-lying-in-wait
+partOf: shapeshifter-a-non-human-litrpg
+position: 31
+ownLength: 1780
+unit: words
+publishedAt: 2026-06-30
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3612004/chapter-27-lying-in-wait"
+royalRoadId: "3612004"
+---
+
+"Show yourself," Iris shouted toward Xen.
+
+Xen remained behind the amber crystal, considering his options.
+
+The group's average strength is around level 60, with possibly higher firepower than their level suggests due to the mana-enhanced suits they wear.
+
+He glanced at his own status screen.
+
+My human form is level 50, but my magic stat is significantly boosted by my 88 levels from being a Changeling Slime. This is further increased by the [Solo Hunter] passive up to 50%. Combine all of that with [First Strike] and my new skill, Spellblade's Edge, which lets me imbue my sword with a spell—with debuff spells being applied a grade higher—and I can probably one-shot one of them.
+
+He could pretend to be an ally and get them to lower their guard, but the moment he killed one, the rest would turn on him. Even for him, a coordinated effort from three level 60 Hunters was too much.
+
+"Due to the appearance of the Abyssal Rift, this place is automatically designated as an Ether Technocrat research area!" Iris yelled when he remained silent. "As a captain of the Ether Technocrats, I invoke my right to detain suspicious persons on research ground! Reveal yourself now!"
+
+Marcus, the tank who had obliterated the Rendmaw alongside the Bladedancer, was already approaching while the Stormcaller was conjuring a storm that was ready to strike at any moment.
+
+Xen frowned. Of course, the Ether Technocrats would default to being hostile toward anyone who wasn't part of their corrupt group.
+
+If I had the element of surprise, I would have a chance to win by taking out the Verdant Warden or Stormcaller first. But with them on guard like this, I don't see a way to win by myself.
+
+For possibly the first time, he was going to have to hunt by making use of his shapeshifting abilities rather than relying on his vast array of skills or raw stats to overpower his foes.
+
+This is going to be fun, Xen thought as he turned and bolted.
+
+"Hey!" Iris yelled, and the Bladedancer suddenly rushed forward, no longer concealing their intentions.
+
+Xen stumbled a little as he wasn't fully adjusted to Ghostwire's taller frame after being Yuki, but soon found his stride. Like the infiltrator before him, he made use of the chaotic terrain to duck and weave between clusters of amber crystals. He made it back to where he had defeated the Resinreaver and quickly picked up its head.
+
+It was essential to his upcoming plan.
+
+"Capture him!" Xen heard Iris yell in the distance.
+
+I'd like to see you try, Xen thought as he tracked the Bladedancer rapidly closing in through Geomantic Perception.
+
+While the Bladedancer was fast, they didn't stand a chance at keeping up with him. Using Windveil Agility to increase his speed, Threadwalk to ignore the uneven terrain, and Ghoststep to teleport short distances and leave confusing afterimages, the gap between them widened.
+
+Eventually, the Bladedancer came to an abrupt stop and turned back.
+
+Xen slowed and came to a stop behind an amber cluster. Once he confirmed the Bladedancer had really given up, he allowed himself to relax after scanning the area for monsters and checking the amber crystal above him for any cracks.
+
+"Around two hundred meters," Xen mused after estimating the range of Iris's detection. While the Bladedancer had high speed and damage output, the class seemed to lack tracking and detection skills like Hina's Nightstalker class. Therefore, the only way the Bladedancer could have possibly tracked him despite the afterimages was because Iris was directing them from afar.
+
+The reason Xen hadn't turned and fought the Bladedancer was due to Iris. It was only a guess, but she seemed to be a support-style mage with a wide area of control in return for having to stay fused with the ground. She had infused Marcus with the Lend Weight skill through the ground, and Xen reasoned she could have done the same with the Bladedancer.
+
+Now alone, Xen sank down against the stone and raised the Resinreaver's head.
+
+[Use Devour on Resinreaver?]
+
+"Yes," Xen whispered.
+
+His mask peeled up over his lips, and the tendrils uncoiled into the resin head, threading through the amber until they reached whatever passed for the creature's core.
+
+[Devour in progress…]
+
+Raw hunting instincts flooded him this time rather than memories. There was the slow, viscous patience of waiting inside a sealed amber column for prey to wander beneath. Even then, the Resinreaver did not strike. It waited for the perfect moment, and if it never came, then so be it.
+
+The feelings faded faster than he expected.
+
+[Devour Complete]
+
+You gained a large amount of biomass.
+
+You absorbed 11% of the Resinreaver's memories.
+
+You have unlocked the [Resinreaver] form.
+
+You acquired the following skills:
+
+[Amber Sheath (A)]
+
+[Resin Capture (C)]
+
+The [Resinreaver] form possesses no adjacent species in your current assimilation registry. The form has been added separately.
+
+"Two new skills?" Xen said, surprised. One of them was also an A-grade skill. "System, explain them to me."
+
+[Amber Sheath (A)]
+
+Encase yourself within a column of conjured amber, or merge into an existing amber crystal of sufficient size, entering a dormant state. While dormant, your presence is concealed from detection skills below S-grade. You may remain sheathed indefinitely, passively recovering mana at a heightened rate by drawing from ambient mana in the surrounding resin or stone. While inside, you retain limited perception of vibrations and mana flow within a short radius but cannot cast skills or shapeshift. Emerging from the sheath shatters the amber and briefly stuns you.
+
+Xen blinked as he read the last part.
+
+The skill stuns you? Is that why the Resinreaver dropped down to the ground and didn't immediately strike at me? If I had known that, I could have one-shot the Resinreaver before it got a chance, but I was so shocked from it dropping down out of nowhere that I was forced to retreat.
+
+Now that he knew, he would attack a Resinreaver the moment they dropped.
+
+[Resin Capture (C)]
+
+Catch a single incoming projectile, beam, or directed skill in a thin film of amber that forms at the point of impact, freezing the attack in stasis. Cannot capture skills more than one grade above the caster's level. Requires line of sight to the incoming attack and a free limb. The cost of capture is the same as the cast skill.
+
+An interesting skill that kind of reminded him of a more defensive version of the Spellbreak skill he learned recently, which was now tied to his Elf form.
+
+[Do you wish to take on the Resinreaver form?]
+
+"No," Xen said, dismissing the notification. His Resinreaver form would only be level one, which would be suicidal on this floor. But now that he had devoured the Resinreaver, he could use his Changeling Veil skill to look like one while really being Ghostwire underneath.
+
+But before that, he needed to change out some of his free skills. He wanted these two new skills, as well as [Ashen Gaze (A)] and [Spellbreak (C)].
+
+Free Skill Slots (10):
+
+Slot 1: [Bloodmark Hunter (B)]
+
+Slot 2: [Multilingual (B)]
+
+Slot 3: [Corruption Missile (B)]
+
+Slot 4: [Ghoststep (B)]
+
+Slot 5: [Chains of the Damned (A)]
+
+Slot 6: [Flash Mend (C)]
+
+Slot 7: [Cataclysm (A)]
+
+Slot 8: [Cleansing Light (D)]
+
+Slot 9: [Hellfire Howl (B)]
+
+Slot 10: [Earthen Regeneration (B)]
+
+Quickly glancing at the list, he easily identified two that could be replaced. He didn't need Corruption Missile as he rarely used it outside his Human form, and Earthen Regeneration hadn't proved useful thus far, as he could heal by consuming biomass. Finding two more to replace proved more difficult.
+
+I suppose I can also get rid of Flash Mend and Cleansing Light for now, Xen mused. He had put them in there initially as they were skills bound to his Human form, but he wanted to use them while being Yuki.
+
+His Free Skill Slots accepted his updates at the cost of a disturbing amount of mana. "Fighting them right now would be a bad idea. I need to recover a bit first," he said, crouching and placing his hands on the floor.
+
+Geomantic Perception was a spell that worked off his absurd magic stat, so while Iris could only see around two hundred meters, he could see further if he pushed the skill to its limit and gave it his full focus.
+
+In the far distance, he detected four vague silhouettes by their mana signature. They had regrouped with Iris at the center, though it was Vera, the Stormcaller, who had the largest mana pool by far.
+
+He waited for them to finish their discussion and pick a direction. Once they did and began moving his way, he found a dense cluster of amber crystals.
+
+"Changeling Veil," he commanded, mentally selecting the new Resinreaver form to imitate.
+
+Illusion mana washed over him, and Ghostwire's tall frame melted into the hunched, resin-slick shape of a Resinreaver. He managed to make himself smaller than the three-meter monster he'd fought, scaling it down until it sat naturally atop Ghostwire's frame, as he was already tall, but not towering like the monster had been.
+
+Raising his arms to check, he noted the long claws and crystal-like body.
+
+"Good," he said, his voice sounding hollow.
+
+Tilting his head back, he singled out the lowest-hanging amber crystal above him, one half-drowned in shadow and obscured enough to hide whatever nested inside.
+
+"Amber Sheath."
+
+Just as the Resinreaver had done before him, his body flowed upward, thinning as it rose to meet the crystal, and began to sink into the amber. The process was slow, but soon the world around him was a dull amber, and he felt his senses quieten to a whisper.
+
+[Amber Sheath is now active. Presence is concealed, and mana regeneration is increased]
+
+Even with Geomantic Perception, he could only see a dozen meters around him.
+
+I just have to hope those humans walk below me, Xen mused in the silence as the amber crystal had finished sealing around him. If everything goes to plan, I'll kill Iris first before she can take root in the earth and then escape. If the Bladedancer chases after me, I'll finish him too. After that, the Stormcaller should be easy to deal with, as I have Spellbreak and Resin Capture to counter her spells while I stack curses on the tank and burst him with Perish.
+
+With nothing else to do, he lay in wait, thinking over the plan and perfecting it.
+
+The Ether Technocrats thought they were pursuing a human.
+
+But they were the ones being hunted instead.

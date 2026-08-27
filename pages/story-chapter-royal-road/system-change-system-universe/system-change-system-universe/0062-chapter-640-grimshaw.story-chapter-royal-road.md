@@ -1,0 +1,133 @@
+---
+id: b2e4b263-9028-5f95-82e0-d4cfd734a8e5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 640: Grimshaw"
+slug: 0062-chapter-640-grimshaw
+partOf: system-change-system-universe
+position: 62
+ownLength: 2316
+unit: words
+publishedAt: 2026-04-14
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3274680/chapter-640-grimshaw"
+royalRoadId: "3274680"
+---
+
+Chapter 640: Grimshaw
+
+“Is there an actual Ed Windham from Stormveil?” Derek asked Alex as their group and the other group cautiously approached one another after Edgar projected his voice over the long distance. The other group didn’t shout back, but they didn’t change directions.
+
+“Doubtful,” Alex said with a shrug. “It’s an organization, and nobody keeps much track of any of the lower-level members unless they’re real standouts. The only people who would know would be members of the organization who are around level 250 just because they would be competing over the same things, but even then, I’m sure there are plenty who wouldn’t know.”
+
+“So, if you’re going to imitate being a part of somewhere, it’s best to do so with a large organization,” Derek said.
+
+“It’s best to not do so, but in a situation like this, there’s not really any need to worry about anything getting back to the organization… unless our luck is so terrible that there actually are members of Stormveil currently on this Abandoned Planetary Battlefield—but the likelihood of that is almost nonexistent,” Alex explained.
+
+“We’ll see…” Derek said. “I’ve definitely had a lot of bad luck in my life so far.”
+
+“Let’s hope your bad luck doesn’t…” Alex started, then suddenly paused his speaking. Then, he muttered, “Dammit…” as he moved more behind Edgar instead of beside him.
+
+“What is it?” Derek asked in a hushed tone.
+
+“I know these people,” Alex said. “I can’t make out exactly who it is, but the way the one in the lead is dressed… it’s members of House Grimshaw.”
+
+“And?” Derek asked. He didn’t say that he pretty much knew that they were walking toward people who would most certainly know who Alex was, but he was interested in what Alex had to say about them.
+
+“And they are our house’s biggest rival, and they don’t play fair,” Alex said. “We should turn around and leave before they recognize me. Depending on which person that is, they won’t hesitate to take out some of their family’s competition in a place like this.”
+
+“But if they believe Edgar is part of the Stormveil organization…” Derek said.
+
+“It will do absolutely nothing,” Alex replied. “Not if nobody is left alive to report anything. I’m serious. We need to leave. I’m certain that they will have a powerful escort. I wouldn’t doubt that whichever Grimshaw we encounter has a much higher status in their clan than I do in mine, so their escort would be even stronger than mine was.”
+
+“So… the Grimshaws are rivals to House Loomis… so much so that they would kill an heir to House Loomis on sight if they believed they could get away with it?” Derek asked. “That sounds like a lot more than just rivals.”
+
+“Well… I guess you could say that we’ve been silently at war with each other since my great-grandfather’s days,” Alex explained. “When my great-grandfather was around my age, he was friends with one of the Grimshaw heirs. They did a lot of traveling and adventuring, and my great-grandfather ended up finding a valuable treasure—one that helped our family rise in status and continues to help us all with our affinity for soul thread to this day.”
+
+“And the Grimshaw thread got jealous or thought that the treasure should have been theirs?” Derek asked. It wasn’t hard to put the rest of the story together from there.
+
+“Yeah… something like that. And it didn’t help that he was in love with the woman who ended up becoming my great-grandmother,” Alex said. “Since then, there have been little sabotages, the occasional disappearance of a family member, defaming… all the normal stuff you would see from a hated rival.”
+
+“And it’s one-sided?” Derek asked—not believing that the Loomis family was completely innocent.
+
+“Oh, lord no,” Alex replied. “We give just as good as we get. But the elders of our family focus more on the business side and crippling different parts of the Grimshaw finances and less on… murder. That is not to say that some members of my family wouldn’t take out a Grimshaw heir if they got the chance… I’m just really not all that into that… you know… killing just because of a surname.”
+
+“I see…” Derek said.
+
+“Then we can turn and go?” Alex looked over his shoulder at Derek with hope in his eyes.
+
+“It’s too late for that,” Edgar suddenly spoke. Everyone was close enough to hear the conversation that Derek and Alex had been having. Because of that, they were all slightly tenser than before, and Jace was having a hard time controlling his menacing grin. “If we make any sudden movements now, it will be too suspicious for them not to check us out. And it’s too late for Derek to toss you into his space without them seeing. So, looks like we’re going to be getting into a fight.”
+
+“And look… there are only three of them,” Derek said. “If we’re lucky, then it will just be one escort of two members.”
+
+“That’s not how it works,” Alex said with a sigh. “It’s certainly one heir with two escorts. The only other possibility would be if one of the escorts already died or left for some reason, but I don’t see that happening with House Grimshaw.”
+
+“If that’s the case…” Derek muttered. “Then I will take one of the escorts… Marrick and Amelia… you need to be careful with the other—hold them off until Jace can get powered up. Jace, don’t hesitate to use your boost skill if needed. We’re not in a huge hurry, so we can have plenty of time for you to heal up from the aftereffects. Alex… you and Edgar will need to fight the heir.”
+
+“Not a problem,” Edgar replied. “It will be nice to fight an actual person… one who hopefully doesn’t have an earth affinity. Maybe I can finally be useful.”
+
+“It’s likely that the heir uses the Grimshaw’s main affinity…” Alex said.
+
+“Which is?”
+
+“Darkness,” Alex replied.
+
+“Darkness?” Edgar asked again, a smile creeping onto his face. “I have some experience with darkness affinity. That may make it easier.”
+
+“What about the escorts?” Derek asked. “Will they use darkness too?”
+
+“Doubtful,” Alex replied. “Knowing the affinity of most of the monsters on this planet? They will likely be water, wind, metal, earth, vibration… or a whole slew of other affinities that work well against earth affinity monsters. If we are really unlucky, there could be an erosion user. That’s a combination of time, motion, and water or wind. There aren’t many affinities to fight against that are more annoying than a time affinity or one that has a combination with it.”
+
+“That’s for sure,” Derek said with a slight chuckle. His void affinity included time within it—along with space and what he thought seemed like chaos. And he’d bet that nobody who had fought him would say that he wasn’t annoying. “Anyway,” he said, then, “Marrick, switch places with me.”
+
+Marrick didn’t ask any questions. He just nodded, and slowly, Derek moved behind Edgar while Marrick moved behind Alex. Knowing what he knew now, if he decided to speak, there was no way the other group would listen to him if they thought he was Alex’s escort. He doubted he’d even be able to speak once they saw Alex, but he would do this just in case.
+
+Finally, everyone was close enough to make out the other group’s faces. “Of course,” Derek heard Alex say with a sigh.
+
+“What?” Derek asked.
+
+“Not only did we run into a member of House Grimshaw, but we actually ended up running into Davis Grimshaw. I’d thought… hoped that it would be a member who wouldn’t recognize me, but that just can’t be the case, can it? It seems like you still have the same bad luck you talked about,” Alex explained.
+
+“What do you know about him?”
+
+“The usual… he’s not super high up when it comes to heir hierarchy, but higher up than myself. He is a darkness user—like I thought. And he is definitely one that won’t let a chance to kill a Loomis go by,” Alex explained.
+
+“Gotcha,” Derek replied. It was pretty much as he had expected.
+
+After that, nobody had any more questions, and the two groups slowly drew closer to one another. Finally, they came within speaking distance, and Edgar didn’t need to project his voice over a long distance for them to hear him.
+
+“So, you said you were from Stormveil?” a young man with silver hair and black eyes wearing a dark set of plate armor asked. The other two stood directly behind him on either side—confirming that Davis had been sent with two escorts.
+
+“Yes,” Edgar replied with a slight bow. “I am Ed Windham from Stormveil. This is my escort, and I am here along with another friend from Stormveil and someone we met along the way. We’ve had a few unfortunate mishaps and were looking for a friendly face to ask for assistance. If I am not mistaken, you are from the well-known House Grimshaw, correct?”
+
+“Oh! You can recognize us just from the crest?” The young man puffed out his chest, and a light gray outline of a black sun took center stage on his armor.
+
+“Of course!” Edgar replied. “The Grimshaws’ control over the darkness element is quite widely spread throughout this part of the Origin System. And I wouldn’t be surprised if your name isn’t spoken about further out into the different parts of the System Universe.”
+
+Listening to Edgar spew flattery was enough to almost make Derek nauseous. But the young man was wearing a huge smile on his face, and things seemed to be going quite well. For a moment, Derek wished he’d thrown Alex in his Time Prison the second he’d learned that they were close. You live and you learn, he sighed inwardly as he watched the exchange. Alex had almost completely disappeared behind him and Edgar.
+
+“Surely, we aren’t quite that well-known yet,” Davis said.
+
+“Maybe not yet,” Edgar replied. “But that is only for now. Perhaps before too long, your family’s name will be mentioned alongside the likes of…” he rubbed his chin in thought, then acted like he had figured everything out. “Alongside houses such as House Gravenholt… or perhaps even other, more well-known houses.”
+
+There it is. Derek had a hard time not rolling his eyes. Edgar has mentioned every family and organization that he knows anything about in the Origin System already. Derek had to hold back a sigh. He’d never seen Edgar like this, and he was certain that Edgar was doing his best not to throw up, too. But he had to admit, the man could flatter someone if he needed to.
+
+“Well, to be spoken of in the same breath as House Gravenholt would certainly be an honor,” Davis replied. Then, while freshly buttered up, he asked, “Please tell me, what problems have the two of you from Stormveil and your other friend encountered? Far be it for an heir of House Grimshaw not to help a like-minded friend in their time of need. Please, speak. If there is anything I can do to help, I will certainly try.”
+
+“Would you? That would place me in your debt,” Edgar replied. Then, he looked over his shoulder at Derek and nodded. Derek took that as his cue to speak.
+
+“Excuse me.” Derek couldn’t bring himself to bow as Edgar had, so he nodded his head slightly. “I am a secondary escort for these two from Stormveil. But we encountered some problems that left our primary escorts… well… gone. And with them were our teleportation devices. So, we find ourselves stuck on this Abandoned Planetary Battlefield with no way to leave. We were hoping that we might borrow someone else’s so that we could go report our situation. It would take no more than a few hours, and then I would bring it right back to you.”
+
+“And how would you be able to find us again?” one of the escorts took a step forward and spoke to Derek.
+
+“I am a bit of a tracker,” Derek replied. “As long as we are on the same planet and I give you something to hold on to, I will have no trouble teleporting back and finding you.”
+
+“I don’t like it,” the escort said as he looked at Davis. “We only have the one device, and I would not feel comfortable lending it to someone we do not know or trust.”
+
+“I could bring you along with me, if you’d like,” Derek told the escort.
+
+“No, we cannot leave our charge’s side,” the escort said as he raised his head and tried his best to look behind Derek. “And who is this friend that you speak of? He is not from Stormveil. The one standing beside the frail elf.”
+
+“Him?” Edgar looked behind him. “Oh, his name is Al. We met him not too long ago. He’s in the same situation as we are.”
+
+“Why is he acting so suspicious?” the escort asked. Then he jumped up, got a good look at Alex, and then fell back to the ground with a snort. He bent to the side and whispered something into Davis’s ear. Finally, Davis’s happy smile changed into a different kind of smile—one that would look more natural on Jace’s face.
+
+“It seems that this day has just gotten quite good,” Davis said. “Did you know that your new friend is a member of House Loomis? I’ll tell you what. Since I like you, Ed, if you hand that man over to me, we’ll lend our teleporter to your escort as long as he makes an oath to bring it back. What do you say? You’re not going to get a better offer than that.”

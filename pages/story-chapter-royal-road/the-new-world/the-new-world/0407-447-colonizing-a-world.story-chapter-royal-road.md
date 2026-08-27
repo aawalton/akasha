@@ -1,0 +1,617 @@
+---
+id: 9fbd8974-3b16-5224-ac6e-c2d18f04931c
+page-type-slug: story-chapter-royal-road
+title: "447 Colonizing a World"
+slug: 0407-447-colonizing-a-world
+partOf: the-new-world
+position: 407
+ownLength: 6242
+unit: words
+ownProgress: 6242
+publishedAt: 2025-07-06
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2412597/447-colonizing-a-world"
+royalRoadId: "2412597"
+markedReadAt: "2026-06-29T21:35:21.463Z"
+---
+
+Blegara would be reborn.
+
+I gawked at it from the depths, my body dimming as I cooled myself down. Even Torix marveled at the sight before he raised his hands. With a telepathic roar, he announced to everyone present.
+
+"We have created one of Blegara's twelve guardians. All hail Poseidon, the Cleanser of Seas."
+
+A chorus of cheers erupted as I lifted myself from the ocean's surface. Water evaporated off of me, and I grinned at Alfonso. He squeezed the dark pearl in his hand before giving me a resigned nod. I put a hand on his shoulder.
+
+"Welcome to the team."
+
+Chapter Begin
+
+The other chancellors eyed Alfonso, each of them carrying a hollow sympathy. One of them walked over and placed a hand on his shoulder. The thin, wispy albony said,
+
+"I'm certain you'll thrive under the servitude of the Harbinger."
+
+Alfonso frowned as schadenfreude grew on the thin albony's face. They laughed before patting Alfonso's shoulder.
+
+"From a master of a world to the master of none. Quite the fall, but I'm certain you'll stage some manner of comeback after such a wager."
+
+Alfonso murmured.
+
+"If this is my lot in life, I'll make the best of it. Now, do excuse me. I've business to attend to."
+
+I raised a hand.
+
+"Now, wait a minute. This is about more than rival races. My guild has gained a new tool, and that is our prosperity. That's why we're going to join in a celebration of our success."
+
+The albony peered at one another. The thin chancellor narrowed his eyes.
+
+"You expect us to celebrate our loss?"
+
+I smiled at him, the expression taught.
+
+"With delight, yes."
+
+The thin chancellor adjusted his robes before nodding. The other albony and I waited before Torix snapped his fingers. A bubble of aerating magic appeared over our faces, and I descended us below. By now, Vagni and skeptiles celebrated below the surface. They chose to do so where the life god had spawned.
+
+The remnants of that potent magic left a crater on the ocean floor, but every part of the area teemed with fresh life. Glowing corals coated the pit, and fish feasted on the ambient energy as filter feeders. They grew and expanded in real-time, giving the Vagni an excellent hunting ground.
+
+Spearfishers impaled these fish using pressurized jets of water to impale their prey's heads. After giving them a merciful death, the locals put the fish into nets they dragged behind them. Once gutted, the locals demonstrated their unique culinary skills, using chemical manipulation instead of conventional heat methods for cooking.
+
+It was a fascinating display of their culture and ingenuity, and it reminded me of cured meats or fermented foods back on Earth. Each piece carried wild, untamed flavors that the seawater blended together with. It was a faucet of life here when eating under the sea, and the Vagni always factored it into their meals.
+
+On the surface, many of these dishes would leave someone in tears due to their overwhelming flavor, but underwater eating involved eating water with the food. That lightened the meal's flavor. To create that stinging punch from the taste, the Vagni used various bacterial strands, achieving sharp tastes to offset the watering down of their flavors. The Vagni even incorporated various chemicals that isolated the food from the water for less flavored meals.
+
+Those culinary delights were usually relegated to the wealthy, productive Vagni who led clans. They shared those meals with us tonight, making for a much easier transition into their cuisine. Combine that with a few chemicals that mirrored alcohol, and people were living it up. I sat down along the crater's edge and watched them all, holding a fermented fish head in my hand.
+
+I bit down into the rubbery texture, and it tasted like a juicy, sweetened lemon with accents of herbs I'd never tasted. These underwater spices emphasized metallic and acrid flavors that suggested the smells of coins and the sourness of citrus. It came together with the natural fish flavor to create something appetizing even to the uninitiated.
+
+As I took another bite, the contrast between its disgusting appearance and delicious flavor surprised me. Everything I'd eaten here had that same effect, one astonishing flavor explosion after the next. With a stream of seasoning wafting off my meal like maroon blood, Torix walked over, holding a fish head in his hands as well. Torix stood beside me.
+
+"Excellent work maintaining the ritual. I couldn't have asked for a better mana battery."
+
+I gave him a subtle smile.
+
+"Ah, excellent. It sounds like I'm the local power grid then."
+
+"For now. We'll get these people up and out of this abyss with a measure of time, I believe."
+
+A comfortable silence passed over us. Torix handed me the fish head.
+
+"I wanted to thank you."
+
+I grabbed the meal.
+
+"With a fish head?"
+
+"What? No, I can't eat anything. Though grotesque in appearance, these are apparently quite popular with other guild members. It would be a shame to waste it."
+
+I took it and bit down. Another punch of flavor and strange texture met my mouth. It was still so weird every time, though delightful in a maddening kind of way. Torix took a telepathic breath.
+
+"It's astonishing how much the Vagni accomplished whenever one peers beneath their eldritchian surfaces. We'll be using their food storage methods for our own underwater operations, and their bacterial strains are shown to have long-term health benefits to humans that have eaten them since your ownership of the planet."
+
+"How did you figure that out?"
+
+"Some humans decided to stay here since we first arrived on Blegara."
+
+I peered at the ocean's end, the surface dappling light like rippling glass.
+
+"That's amazing. I'm guessing the bacteria work kind of like probiotics back on Earth?"
+
+"Something of the sort, yes. That all being said, I wanted to give genuine thanks for recruiting Alfonso. He'll be taking an enormous strain from my shoulders, and it will allow me to specialize instead of disparately spreading myself amongst so many given domains."
+
+I let out a sigh.
+
+"Well, of course. If anything, this was a long time coming, and I should be thanking you. All this time, I was never bogged down by the details of my guild, but that doesn't just happen. Someone has to take the mantle."
+
+Torix sighed.
+
+"Someone most certainly does. I'll be able to ramp up the lectures at my university, research the Omega Strains, and even do some more research about the various peoples under our rule. We may be able to facilitate better relations between them given how much each culture has to offer."
+
+I gazed at the harmonious celebrations below.
+
+"Man, I hope so. I'm worried the albony may be more of a pain than I'd initially hoped. I mean, for a people that just lost a war and their home, they're awfully picky."
+
+Torix gave me a nod.
+
+"They are, but I don't think it's a matter of avarice. I think it's a defense mechanism to shield themselves from their reality."
+
+I tapped my chin.
+
+"A way of rebranding the loss of the war?"
+
+"I'd imagine so."
+
+I peered at a few albony who joined in the processions.
+
+"They're trying to turn a lost war into a new path forward. I can respect that. However, they'll need to get ready for a bit more scarcity than they're accustomed to."
+
+Torix interlocked his hands behind himself.
+
+"Will they? Our guild has already attained resources for our maintenance that even ancient guilds would salivate over. With time, we'll attain resources that will make the Empire appear poor by comparison, indentured servants or not."
+
+I frowned.
+
+"That policy was what made them so weak and poor over time."
+
+Torix shrugged.
+
+"It's difficult to say. At times, taking advantage of individuals results in greater prosperity than if they're left to their own devices."
+
+I leaned my arms against my knees.
+
+"Fair enough, but the way I see it, anyone who isn't contributing is almost always a bad actor in general. People who would rather do nothing but live in lethargy aren't going to be productive. They're going to get the bare minimum done. In trying to squeeze out that tiny bit of value, we're left with policies that oppress. On the other hand, by forcing people into an oppressive system, we heavily limit the most productive members that would otherwise rise to high stations."
+
+I turned a palm to the Vagni.
+
+"We also create an arbitrary value system that doesn't factor in multiple variables when regarding someone's potential. That's why I'm going to focus on letting my people decide what is valuable. You know, those that are near the ground."
+
+Torix scoffed.
+
+"And what will you do?"
+
+I remembered the affluent neighborhoods in Springfield.
+
+"I'll dismantle any systems that are put in place to lock people out from succeeding. That gives people plenty of options."
+
+Torix interlocked his hands behind himself, the gesture giving comfort.
+
+"You intend to lead by serving?"
+
+I nodded at the processions below.
+
+"That's the idea. I want to create a society where people can live out their lives without fear, whether that's against monsters or from rulers crushing them with random societal constrictions. Hell, even economic ones. That's a big reason I took in the eltari, Vagni, albony, gialgathens, etcetera. They all had potential, but at the end of the day, I'm not doing this for my guild's net gain."
+
+Torix tilted his head.
+
+"Since when did you become some philosopher on governance? I've never heard you speak this way."
+
+I tapped my temple.
+
+"I have many minds in my head. Most channel mana or study the cipher. However, I have a few reading out old world novels about governing strategies and old regimes. I'm also trying to get through a small portion of the library you left me all those years ago."
+
+Torix's eyes dimmed.
+
+"That's...Impressive."
+
+I rested my chin in my hand as I slouched forward.
+
+"It's the least I can do. These people deserve better than me, but here I am, so I will give my all."
+
+"Many would argue you're lying about your benevolence."
+
+I gave him a tired smile.
+
+"What do you think?"
+
+Torix stared at me. His eyes flared red.
+
+"I think you live in torture so that others won't have to."
+
+My runes cast a glow over the water around me. It caught particles wafting in the water, giving a granularity the rest of the sea lacked.
+
+"There's a debt we must all pay for this harmony, and I aim to give my fair share."
+
+Torix turned away, unable to meet my gaze any longer.
+
+"We have a different definition of what is fair, disciple."
+
+I radiated with power as my runes fed on energy from beyond the stars.
+
+"We do."
+
+We drifted into a reserved quiet, each of us aloft in our own mental contemplation. In time, the celebration settled, and thereafter, the work began. It entailed the construction of a world, and our steps here acted as a blueprint for the terraforming of other planets.
+
+Over the next few weeks, we created eleven more guardians for Blegara. The first used a god's name from Earth, but the others were named after the deities that the Vagni worshiped. Celestra, Garhom, and Iochia, every god's name held a mystical reverence to their people, and they represented different concepts.
+
+Celestra acted as the owner of the sky, while Garhom was a manifestation of the dark. Iochia represented peace and community, and so on. These spirits, while powerful, were too valuable to leave unattended. That's why I also built three golems for each spirit to prevent any foul play from enemies or allies alike.
+
+As we summoned spirits across the destroyed portions of Blegara, Torix and Plazia spent time inspecting the landscape. They found places where the land harmonized with the oozing, corrupting mana. In these sanctums, magic thrived without torturing nature as much. The giant, roaming spirits rested in those spots, revitalizing themselves while spreading the influence of these places.
+
+Torix called them leylines. As we settled on the first of them, I spread my hands.
+
+"Why don't we make these everywhere?"
+
+Torix eyed a stream of flowing, purified mana.
+
+"Their use has been illegalized by Schema, and that is also why you've never heard them mentioned before. Information on them is restricted, and like the cipher, learning about their details will lead to system exile."
+
+A huge pile of questions popped into my head.
+
+"Why didn't you mention these before?"
+
+Torix gestured at the pile of runically charged stones.
+
+"The system exile aspect, but also leylines carry many risks, not least of which involves the bounty on their creation or maintenance. We would lose access to Schema's utilities, and Schema's forces would be sent to dismantle the projects as well."
+
+Anger surged, and I bit my inner cheek.
+
+"Any idea why such harsh penalties are in place?"
+
+Torix sighed.
+
+"It doesn't logically adhere to any thought structure the AI presents. That is unless we take a different vantage point for understanding Schema and his circumstances. For instance, let's assume that the AI is a puppet used by the Old Ones for their proliferation. If we view the situation from that lens, then a lot of disparate aspects of the system begin to come together holistically speaking."
+
+I furrowed my brow.
+
+"If that's the case, then why are we using leylines here?"
+
+Torix's eyes rippled yellow.
+
+"It just so happens that I gained a notification regarding a tree you have. I believe it was called Schema's Champion. It gives us a level of discretion other guilds would die for, and this happens to be one of those peculiar privileges."
+
+I shook my head.
+
+"I hoped that choosing that tree did something meaningful for the guild. So far, it looks to be a way for Schema to let my guild break out of every backward restriction, meaningless bottleneck, and malevolent policy he's enacted all this time in his society."
+
+Torix peered at me.
+
+"Do you honestly believe we can trust Schema's goodwill? In my viewpoint, the long-held doubts I've carried are cusping into certainties about that AI's intentions."
+
+I recalled how Schema let me live after leaving BloodHollow.
+
+"I think he's doing the best he can with what he has. The thing is, Schema's more broken than he lets on."
+
+An unsettling gravity held us for a moment. Torix's eyes flared.
+
+"Then I suppose it's time we help piece him back together?"
+
+Mana flared into my runes.
+
+"Let's get to it."
+
+Getting into the swing of things, we finished constructing power grids with my golems. A few architect golems helped the effort along with a backup team from Diesel's engineering branch of the guild. It took a while to get everything in order, but the effort paid off. We erected communication lines mirroring the internet from old-world Earth.
+
+This allowed quick, near-instantaneous communication on the planet without having to warp. The extra benefits from my perks and Schema's privileges were why this was possible. Otherwise, the AI would've sent a Spatial Fortress to wipe us. That wasn't even the worst constraint from Schema, either.
+
+Schema's network held all the expected functions of a messaging app or cellular service. The primary problem arose from how mandatory and closed-off it was. The only people who could use the messaging system inherent to my guild were its members. Every guild was the same in that regard, each piece disparate and lacking a meaningful connection.
+
+We were essentially using individual chatlogs that no one else could see. It was like comparing a continent to a bunch of islands. The islands would live on their own without other people to draw inspiration from. The continent would have many societies that all worked together to advance, whether that be from competition, war, or trade.
+
+For my guild, I wanted that innate competition and spreading of information. I remembered how powerful the internet was in the pre-Schema era, and that advantage would set my guild apart. To really enable that idea, I also wanted people on the planet to have a choice in the matter. Therefore, since Schema didn't allow anyone outside my guild to join my guild's messaging utilities, we'd make our own.
+
+This would give critics from outside our guild a voice, and having people fight against our guild was necessary in the long run. If we set the terms and conditions on what could be said about us, we'd establish echo chambers. Over time, corruption would take root, and we'd rot from the inside out. By giving people outside our guild a voice, we kept ourselves accountable for our effect on the people of our worlds.
+
+This wasn't the best possible system for the idea, but this was a lot more effort than any other guild we'd seen. Even better, Blegara acted as a great testing ground since far fewer Vagni would join. This stress-tested the infrastructure far less than something on Earth would, and after an initial success, Torix sent detailed reports about the performance of the grid to Diesel on Earth.
+
+We used Schema's messaging for that, but one day, we intended to achieve full independence from the system. We'd always rely on Schema like it relied on us, but we wouldn't be under its heel entirely. To me, this was essential, more so than almost any other priority. Why? Well, the next time Schema had an idea like the lottery, we would be able to say no.
+
+That disastrous idea crippled the Empire and destroyed the albony's millennia-old culture overnight. We would not be hung up to dry like that if we could help it. Usually, Schema would destroy us for even attempting this, but Elysium's war and my trees gave us the leeway to pull this off.
+
+And since we could, we would.
+
+With that rudimentary grid established and colossal spirits fixing the shattered environment, we finished terraforming Blegara after only three months. At that time, duties piled up on Earth, but it was worth setting up Blegara for long-term success. The entire time, I kept my training up, my legendary skill Infinity giving me an unrivaled multitasking ability.
+
+On the finishing day of the project, our ever-expanding team of terraformers surrounded the last untapped leyline on Blegara. An underwater mountain arose from the seabed, and trenches surrounded it. The glowing coral and life of the expanse flourished, a colossal spirit having rejuvenated the area. It left marvelous schools of aquatic life spiraling around us, their glistening bodies like moving silver.
+
+In this area, we established various cables that connected rust-proofed wires. I offered my dimensional fabric in industrial quantities for the project as it would maintain itself even under the corrosion of a salty sea. A few of the leading project members got everything in order before turning the power on.
+
+Patches of my dimensional fabric lit up with sigils sliced into their surfaces. The effective internet came online, and we connected to it using our obelisks. As the first few shared messages were sent, we celebrated the success. We were a long way from everyone having an obelisk or excellent coverage for the planet. However, this was the first step on that path.
+
+During this finalization of Blegara's terraforming, many Vagni held a similar celebration to the spirit ceremony. They joined along with many of the races that had pooled their collective talents together. Gialgathens flew in the rich skies of the world with other eltari, the two races playing games together above the endless seas. The Vagni swam below with more aquatically inclined gialgathens, and the albony spoke with humans, each species protected from the pressure and water by magic.
+
+In essence, this was Blegara's effective independence. The world had always been on the edge of destruction by Schema's system. The eldritch put it on a fringe world status, and the albony had left the people and their societies in a mess. The war with Elysium furthered that chaos, and I was given this planet as a gift at its absolute lowest point.
+
+In that regard, this planet had been broken. To most, it would've been a toxic asset, something that rotted in the background before being subsumed by a Spatial Fortress. As spirits restored the seas, golems destroyed the eldritch, and our grid gave mass communication, I smiled at what had once been a burden.
+
+It was time for Blegara to become a bastion for us all.
+
+Torix, Plazia, and I watched our guildmates enjoy the celebration. Plazia rested on his basalt throne while Torix took a rare moment to stand still and rest. I did the same, enjoying the view.
+
+Plazia let out a bored, telepathic sigh.
+
+"Are we finally finished with this accursed world?"
+
+I stood tall.
+
+"For now, I think so."
+
+Torix turned to us.
+
+"I hope I am never forced to work underwater for so long again. It's so strange to communicate exclusively with telepathy. It dulls the senses to nonverbal communication."
+
+I sent my thoughts over, but I kept placid overtones on them.
+
+"But you can flavor the thoughts like this. If anything, it could be argued that telepathy has more depth than normal communication."
+
+Torix shook his head.
+
+"Ah, nonsense. Every part of said flavor is actually an intentional means of sending the message. Nonverbal communication can oftentimes directly contradict the words and tone used, and said obfuscation grants far greater range and depth to actual conversations."
+
+Plazia rolled a hand.
+
+"You may make nonverbal gestures when telepathizing. It's called using your eyes."
+
+Torix threw his hands up.
+
+"Then perhaps you should call me old fashioned, but there is a mystique to simply speaking that is lost here."
+
+Torix walked off.
+
+"Now, if you'll excuse me, I'm in need of a different company after so many months of working with this rude hivemind."
+
+Plazia murmured, his whisper like a roar.
+
+"Torix...Thank you."
+
+Torix stopped midstride. He turned his head and gave the hivemind a nod.
+
+"Anytime."
+
+As Torix strode off, Plazia tilted his head to face me.
+
+"And this could've all been avoided if you'd prioritized yourself properly."
+
+I turned my eyes to him.
+
+"Very true."
+
+A quiet passed over us. Plazia leaned closer to me.
+
+"You seem different. More smug, perhaps."
+
+I gave him a gaze full of confidence.
+
+"It's your imagination."
+
+"Or is it? Your sorcery and flows of mana...They've deepened. How?"
+
+"Multitasking."
+
+"We've been working tirelessly to restore this barren world to some semblance of productivity and harmony. When did you act in your self-interest during this charitable endeavor?"
+
+The runes over my skin glowed.
+
+"I made time."
+
+Plazia leaned towards me, his tone sharp.
+
+"Time manipulation? At all times? It's difficult to discern. Most individuals who bend time are like beacons of mana. They must use enormous amounts of energy to sustain the practice, and the field they generate is readily apparent to anyone who knows where to look."
+
+Plazia thrummed his fingers against his throne.
+
+"You're technique is nothing like that. It's a thin layer over your skin, and I cannot sense any mana from it. How are you bending such a primordial force without using mana?"
+
+I winced.
+
+"My time manipulation isn't pleasant. It's very forced yet efficient."
+
+"And subtle. Is it potent?"
+
+I looked at Plazia, my eyes clear.
+
+"I don't know the exact ratio, but I can access a time flow that's somewhere around six to seven times faster than normal."
+
+Plazia took a moment, looking me over.
+
+"I've traveled through the cosmos and found many weak and strong rulers. I've learned from them and seen their ways. It is rare to find one who is willing to suffer, but to find someone who will do so in perpetuity? They are near singular in number. Do you know why?"
+
+I raised my brow.
+
+"It's hard."
+
+"It is, but it's also foolish. It divorces an individual from the society and standards they wish to propagate. It alienates all who know them. Strong time magic limits a person's experiences and warps their perspective. You widen the gaps between our words, each one floating off into an abyss like an island."
+
+I nodded.
+
+"Yup."
+
+Plazia set his eyes on me, or what he used as eyes.
+
+"You're taking a harsh path, one less traveled. There is a good reason for that. You should know you will not be who you were when you began this journey."
+
+I gazed at him.
+
+"That's kind of the point."
+
+Plazia glared.
+
+"We do not get to decide how suffering will change us. We struggle through, and we are left scarred by the journey. I've seen pain make monsters of men and mothers of mercenaries. It may do the same to you given time, of which you'll experience plenty."
+
+I met his eye.
+
+"Do I seem like a monster already?"
+
+My armor grinned before I smacked it.
+
+"Hey, stop that. Bad armor. Bad."
+
+It pulled off of my face before Plazia let out a genuine laugh, not the kind where he hid some sort of pain nested within it.
+
+"Let's hope you aren't lost in those little eternities you've found. We still require your dimensional stability to save the eldritch. If you are driven insane by your pursuit for power, then we'll construct the dimensional bridges out of your corpse."
+
+I gazed at the processions below.
+
+"I hope you all can kill me if it gets to that point."
+
+Plazia stood from his throne.
+
+"There are ways, though few in number. More importantly, when will we begin making attempts to cross those bridges to the shattered planes?"
+
+I frowned while crossing my arms.
+
+"Hm. After clearing a few openings on Earth, I'm carrying twelve mini-dimensions right now. It's been excellent for training a few of my skills, and it gives me a better idea of how I'll construct those bridges we've mentioned."
+
+Plazia walked off.
+
+"Ideas are where dreams go to die. They are a hunt without prey, so we will need a plan in place with actions to take. Otherwise, our desires will wisp away to nothing."
+
+I raised my palms.
+
+"It's all in due time."
+
+Plazia hopped from the underwater cliff before stepping onto stone steps that formed with each step.
+
+"Time that I hope we will have."
+
+I crushed my dimensional wake down.
+
+"I'm making sure of that."
+
+Plazia floated down before I took a moment to breath. Figuratively, of course. We were underwater. After a few moments, I leaped down to join the others. A few hours later, the party died down. The gialgathens made beds by freezing patches of the water above, and they rested on their freshly formed icebergs. The Eltari took to the skies, sleeping one half of their brain at a time while gliding around heated plumes of air.
+
+The humans packed their bags since most of our people were done with Blegara. A few specialists remained to check on the terraforming schedule, but that was about it. After they left, I headed towards the leyline and established one of my cities around it. The natural energy synergized with my plating's inherent mana production, giving a large surplus of power for all kinds of utilities.
+
+After a bit of messaging, we got one of Schema's warps and currency exchange stations set up. I used it to warp toward one of the new cities on the moon. I reveled in the ability to actually move myself somewhere instead of relying on one of my warp specialists. As I walked out of the ionized haze, an idea popped into my head.
+
+If I was ever warped into a void, I may be able to establish a city on a random world so that I could warp back to Schema's grid. I had no restrictions on where and when I could place down a city, and that meant I could build an asteroid before putting one down. It gave me some defense from being thrust into nowhere, though I didn't know if it would work between dimensions.
+
+I shivered for a moment, remembering the battle with Kryya. I used to battle on the edge of death all the time. My opponents threatened what I loved and how I lived now, and usually, the fates they promised were worse than death. However, fighting would have to wait until after stabilizing my planets.
+
+Speaking of, I headed towards the refined chapel that the albony used for their politics. The marble church blended in with the white rock of the moon, and the stained windows framed the elegant building. As I reached the entrance, I waited for a moment. Alfonso opened the door, holding a suitcase filled with several storage rings and obelisks full of files.
+
+He took a step back.
+
+"Gah. You scared me, Daniel."
+
+I raised a hand.
+
+"I didn't know you were leaving. I just got here to let you know it's time to leave."
+
+Alfonso adjusted his monocle before brushing imaginary dust off.
+
+"I doubt that, given your level and attributes. You probably heard my heart beating within that building. Aside from the realities of your attributes, it would be more than enough to simply send a message. As you may surmise, I'm not in need of a caretaker."
+
+I raised my brow.
+
+"You've delayed your transfer to Earth for three months."
+
+He put a hand on his chest.
+
+"Delay my dealings? Why I never. The only time I've ignored my debts where when I understood the debtor would rather I not pay on time. In those situations, it was to deepen a relationship through multiple contacts. I've found that sometimes, debts are ways of tying people together instead of weighing someone down."
+
+I narrowed my eyes.
+
+"You think deeply about many things, don't you?"
+
+He smiled back, standing tall.
+
+"I do. I believe you do as well."
+
+We walked towards the warp, and Alfonso gazed at the stars.
+
+"There's little I'll miss on this white rock, but the view is certainly one of those parts I'd rather keep."
+
+I peered at the stars.
+
+"You know, you were a surprisingly good sport about this wager. I thought you'd try to worm your way out of it after seeing how much you emphasized fairness."
+
+We walked across trimmed gardens and expansive parks. Alfonso admired the handiwork.
+
+"It's a matter of etiquette. I'd hate to be seen as petty or unwilling to stand by my word. Just as well, you proved the worth of the skeptiles. It's something that needed doing for centuries, and you're the first to truly dent the upper-class albony's impressions of them."
+
+"Didn't Tera earn Obolis's empire an entire planet single-handedly?"
+
+Alfonso shook his head.
+
+"No. He required the assistance of many merchants, my own staff included."
+
+I tapped my chin.
+
+"In that same vein, my guild assisted the skeptiles."
+
+Alfonso adjusted his suit, ensuring its pristine fit.
+
+"The difference lies in transparency. A deft economic manipulation isn't something seen - it's felt over the course of years. In that regard, economic history is only seen long after its fallout, and even then, biased perspectives often plague any accurate recountings of the events. On the other hand, this magic was palpable and, more importantly, seen."
+
+Alfonso gestured a hand to the warp station we walked towards.
+
+"It's a simple matter of ensuring that the relevant parties, those pertinent to important decisions, see what you wish them to see. You did so while providing a service to your own people. Excellent political maneuvering, I must say."
+
+We reached the city's hub. Here, shops lined into a large circle surrounding the utilities Schema offered. Lines of people waited for their warping, many moving into the large capsules at a time, and most moved to Earth and back for business or for pleasure. Even with magic and monsters in the world, many people still ached to visit the moon, and this turned the albony's new planet into a hub of tourism.
+
+We stood in line, having reserved our warping well ahead of time. As we did, I kept an eye on Alfonso. He stood tall, pleased, and content. If anything, there was an undercurrent of excitement to him. I sent out a bit of telepathy.
+
+"You...You wanted to lose the competition, didn't you?"
+
+The smile lurking under his lips surfaced, and Alfonso turned to me.
+
+"And what could possibly make you say that?"
+
+I gave him a slow nod.
+
+"You wanted to start the competition in the first place, so you agitated the right people. You got the albony into a conflict so that you could secure the position of lead economist of my guild."
+
+Alfonso furrowed his brow.
+
+"You overestimate me, Harbinger."
+
+I frowned, several minds moving into action.
+
+"But there's more to it. You planned this out before we'd met. You must've researched the situation on Blegara beforehand while keeping in contact with merchants that supplied the planet. You knew that the skeptiles would produce spirit magic to assist the project, and you took advantage of that to secure the position."
+
+I peered down.
+
+"Even better, you created a situation where you couldn't lose. If you lost, you secured the position you wanted. If you won the bet, then you got a glimpse at the secrets of the Harbinger of Cataclysm."
+
+Alfonso's grin could've lopped his own head off.
+
+"Any good politician only enters arrangements where they may gain regardless of the outcome, but I'm no politician. I'm simply fortunate that these circumstances fell onto my lap."
+
+I put my hands on my hips as we entered the warp station.
+
+"Wow. You even wanted me to find out on my own so that you didn't tell me but instead showed me."
+
+Electrically charged mana flowed into the warp station. Alfonso met my eye.
+
+"I'll leave those assessments to your own discernment, but I will say that you're not as simple-minded as you initially sound."
+
+I raised a fist.
+
+"Neither are you."
+
+He gave me a fist bump.
+
+"As if anyone would assume I'm a simpleton."
+
+I shrugged.
+
+"You're a peer to a lich who lived for centuries, ancient hiveminds, and sun-swallowing avatars for unspeakable horrors. It's a tough crowd to impress."
+
+We shuttled to Earth and stepped out onto the warp pad in Springfield. Alfonso stepped out, his expression almost exuding anticipation.
+
+"It's exciting to be a part of something so large, isn't it?"
+
+He headed through the streets of Springfield.
+
+"It was good speaking with you, Harbinger. Good luck and good day."
+
+Unlike most, Alfonso enjoyed the long walk across the streets, taking his time to soak the area in. Above him, citizens leaped across a few of the lamps that lined our streets, and they openly gawked at me.
+
+Taking a moment, I turned towards the poorer side of town. Something drew me there, and like Alfonso, I walked and observed. Various ivies draped over the embroidered metal, giving it a worn yet decadent appearance. Cobble lined the streets, people enjoyed meals at different establishments, and people even walked with their children while talking.
+
+It filled me with pride; the sounds of the new Springfield were music to my ears. Closing my eyes, I soaked it in. I stepped over past a variety of stations before finding a tunnel leading to Mt. Verner below. I darted in before changing into my old eldritch leather cloak. Wearing the dark leather, I paced out onto the streets before finding Joshua's bar.
+
+Before I stepped inside, a fingertip poked my back. I froze in place before turning around. Althea waved her hand at me.
+
+"So, watcha doing?"
+
+I gulped.
+
+"Visiting a friend."
+
+Althea wrapped her arm around mine.
+
+"Oh really? Why haven't you introduced me?"
+
+I scratched the back of my head, a wave of nervousness overcoming me.
+
+"Well, the thing is, I met this guy while injured. I hadn't stopped by in a while, so I figured I should-"
+
+Althea put a finger over my lips. I went to grab her hand, but as I did, her expression froze my mood to ice. Althea's eyes widened as if she were searching for prey. She turned her head before my skin bristled. I blinked, and as I lost sight, the sounds around me ceased. In a flash, my eyes snapped open, and everything around me altered as a warping aura pulled over the entire town.
+
+It distorted the shapes of peoples' faces, turning them into glitching mockeries of themselves. Shadows lengthened. An abyssal rumble expanded before the sound of a squealing pipe erupted behind me. I turned around, finding Kryya several feet away in the middle of Springfield.
+
+The agent of Cygna carried a more combative form than before, its amber body carrying tiny cracks all over its surface. A rupture in spacetime leaked interdimensional energy behind it, and the corruption spread until I siphoned it to me. Althea moved behind me before she snapped.
+
+"What in the hell is that?"
+
+Kryaa waved a blurry, hard-to-make-out appendage.
+
+"Ah, there you are. I've been searching for a while before I found your home."
+
+Kryaa put two tendrils at the openings of the dimensional tear.
+
+"Now I recall mentioning you would regret what you did to me."
+
+He cackled, and his words ravaged my mind as if flaying my skin.
+
+"It looks like I've found a suitable payment."

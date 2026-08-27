@@ -1,0 +1,571 @@
+---
+id: fd31f2ce-290c-5f98-825b-7666f2689f59
+page-type-slug: story-chapter-royal-road
+title: "Chapter 77: Of Lessons, Leaps, and Serious Faces"
+slug: 0078-chapter-77-of-lessons-leaps-and-serious-faces
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 78
+ownLength: 2338
+unit: words
+publishedAt: 2025-12-04
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2819538/chapter-77-of-lessons-leaps-and-serious-faces"
+royalRoadId: "2819538"
+---
+
+PoV Luna
+
+The guildhall roared with laughter.
+
+Mugs lifted. Hands clapped. Someone whistled so loud a dog barked outside.
+
+Kent sat up slowly, rubbing the back of his head, muttering something about “spines of steel and knees made of lightning.” He blinked, looked around, then pointed vaguely at Luna.
+
+“Girl’s got bite.”
+
+Ray hid his chuckle behind his gloves.
+
+And Luna?
+
+She sat in the center of it all, tail wagging hard enough to create wind. Her legs were tucked under her like a loaf, her chin up, eyes gleaming with pride. The air smelled of wood polish and sweat, spice, alcohol, and approval.
+
+Luna soaked it in like moonlight!
+
+Pack approval!
+
+Crowd joy. Warmth.
+
+Good and fun!
+
+Then the one pack member she least expected approached her.
+
+Veric moved quiet as dusk, his boots silent against the floorboards. He wove through the laughter without a word, all calm presence and unmoved expression, until he stopped before her and crouched down.
+
+“Luna,” he said.
+
+She blinked up at him, ears flicking. He was like the trees back home – tall, focused, unshaking. And usually very silent.
+
+Then his hand reached forward.
+
+Hair ruffle.
+
+Luna froze.
+
+“You did great there.”
+
+She blinked once, twice – then her face split in a wide grin.
+
+“Ehehe!”
+
+Tail wag explosion!
+
+“But…”
+
+The wag paused.
+
+Veric’s tone stayed soft, yet deliberate. Precise.
+
+“Sparring is a good opportunity. Not just to test your Skills…”
+
+A small pause.
+
+“...but to test your skill.”
+
+Luna tilted her head.
+
+“Skill… but not Skills?”
+
+“Correct.” Veric nodded once. “You rely much on your powers – your claws, your speed, your magic. But what if they were not there?”
+
+Luna tilted her head again, clearly trying to imagine such a world – and looking utterly unimpressed by the idea.
+
+“Then Luna run. Then Luna bite. Then Luna... confuse?”
+
+“That’s still you. But think – with no shadows. No leaps. Only your body, your senses. And your instinct.”
+
+“Instinct good,” she agreed quickly.
+
+Veric continued, voice patient and even.
+
+“And you are not yet used to this body, yes?”
+
+Luna wrinkled her nose. Her legs were weird. Too long, too slow to start, always needing two steps to stop when she wanted one!
+
+Not springy enough.
+
+“So,” Veric said, standing smoothly. “Knock Kent down again.”
+
+Luna perked up.
+
+“But without Skills.”
+
+Her ears flattened slightly.
+
+“Ehh?! No Skills? No Shadow Step?”
+
+“No. Only Luna.”
+
+Kent groaned behind them.
+
+“You want her to knock me down again?”
+
+Veric glanced over.
+
+“Yes. For training.”
+
+“Bah.” The old instructor waved a hand. “Fine. I’ll get a pillow for my back next time.”
+
+Luna stood, brushing imaginary dust off her knees.
+
+She flexed her fingers dramatically, as she saw Sepio doing once!
+
+Crack. Crack.
+
+The crowd immediately began forming a circle, sensing another show.
+
+Ray leaned against a post, eyes amused.
+
+“Please don’t murder him, Luna.”
+
+“Luna not murder! Luna tap with force!”
+
+Kent laughed.
+
+“That’s what worries me.”
+
+He took a loose stance, hands relaxed. No tension in his legs. His posture said “ready,” but his eyes said “come on, impress me.”
+
+Luna focused.
+
+No Skills. No shadows.
+
+Just Luna!
+
+She breathed in. Scented the air. Heard Veric’s steady breath behind her. Felt the vibrations under her feet – Kent’s stance firm. Weight spread.
+
+One step. Two.
+
+She sprinted!
+
+This time without going faster than howl!
+
+Regular fast!
+
+Kent reacted in time. His arm swung down in a sweep.
+
+Luna ducked. And then she had to keep ducking!
+
+The man might have been slow, but he knew how the humans moved!
+
+And then he nearly caught her in a grapple!
+
+Her focus sharpened.
+
+This could not stand!
+
+Another hand came up, but it was a feint, no weight! Luna twisted under it, boots skidding.
+
+He stepped back, trying to read her–
+
+And that was it.
+
+Luna dropped low, twisted sideways, and spun.
+
+Her small shoulder slammed into the back of his knee.
+
+Kent let out a startled grunt–
+
+Thud.
+
+Again.
+
+On his back.
+
+Staring up at the rafters.
+
+“…You sure she didn’t use a Skill?” he groaned.
+
+Ray leaned over.
+
+“You would know if she did.”
+
+Veric’s mouth tugged upward.
+
+“Not yet. That was just Luna.”
+
+The guildhall exploded again.
+
+Cheers. Laughter. Someone shouted for drinks. Two adventurers high-fived so hard one of them stumbled.
+
+Luna stood panting over her fallen target, hair tousled, cheeks flushed, eyes glowing.
+
+“Luna strong and skillful now!” she declared proudly.
+
+Veric crossed his arms, nodding once.
+
+“We’ll see. Next round – one Skill only.”
+
+Luna’s grin stretched even wider.
+
+“Yip-yep. Luna ready.”
+
+Ray sighed into his glove again.
+
+“We’re going to need to reinforce the floorboards.”
+
+***
+
+The air inside the guild had changed.
+
+Tension and wariness was replaced with rhythm and revelry.
+
+Tankards clinked. Bets flew faster than coin. The smell of alcohol, smoke, meat grease, and sweat mingled into a heady, battle-salty stew.
+
+Ray was taking bets in the background, never one to let an earning opportunity skip by.
+
+And Luna bounced on her heels in the middle of it, half-crouched and ready to pounce, grin wide, eyes gleaming. The noise, the cheering, the thudding of boots and laughter – it fed her.
+
+Almost more than jerky!
+
+But then – pause.
+
+Her nose twitched.
+
+Across the room, behind the loud ones and the drinkers, her gaze caught a glimpse of strangeness.
+
+Humans?
+
+Wait – no.
+
+Tails!
+
+Fluffy ears!
+
+Fur?
+
+Her eyes went wide.
+
+She turned and zipped over to Ray so fast the mug in his hand sloshed.
+
+“Ray! Ray! Why YOU no have ears and tail? They do!” She pointed dramatically across the hall. “Proper humans!”
+
+Ray sputtered.
+
+“Wh– I– Where is Syl when we actually need her?!”
+
+Sepio exploded with laughter, his chuckles spreading.
+
+Veric just shook his head with a smirk.
+
+The guild erupted.
+
+At the edge of the chaos, one of the so-called ‘proper humans’ stood up, tail flicking behind him. A sleek fox beastkin, amber-eyed and amused, strode over with a knowing smile.
+
+“Proper humans, huh?” he said, tone lazy and teasing. “Thanks, pup. But we’re not humans. We’re beastkin.”
+
+Luna tilted her head.
+
+“Beastkin?”
+
+“Yup. Bit of human, bit of beast. We get the best parts. Ears, tails, instincts... sometimes attitude.”
+
+Luna leaned forward, sniffed once, then nodded solemnly.
+
+“You smell nice. And look proper!”
+
+That got a bigger laugh than before – even the counter clerk nearly choked on her tea.
+
+“Proper humans!” the fox grinned. “I’ll take it.”
+
+Then he gave her a slow wink.
+
+“Want to test your bite against a proper human, proper wolf?”
+
+Luna’s eyes flashed.
+
+“Yip-yep!”
+
+The next bout began with a bounce.
+
+Luna’s feet hit the floor unevenly. Her first lunge turned into a belly-flop, her opponent too sneaky! Her second spin made her trip over her own legs.
+
+“Oof!”
+
+The crowd howled.
+
+But Luna didn’t stop or pout!
+
+She growled low in her throat, tail flicking invisibly, ears pinned back with focus.
+
+“Revenge!”
+
+She pounced again – no Skills, only instincts.
+
+Her punches were light and flaily, her stance all wrong, but her movements were wild and fast. Her body didn’t know discipline yet, but it knew freedom.
+
+And it knew where to attack to hurt, maim, and kill!
+
+Apex Predator skill!
+
+She spun low, slipped under knees, crashed into shins.
+
+Her opponents groaned and toppled.
+
+“She fights dirty!” someone called.
+
+“She fights smart,” another answered.
+
+Luna darted around the next fighter, tapped their ribs twice, and leapt back before their elbow finished moving.
+
+But the beastkin were different.
+
+They moved with balance. With rhythm.
+
+Their ears twitched with every shift she made. Their tails countered momentum mid-turn. Their stances were animal and human at once.
+
+Her own advantage – turned against her!
+
+She was caught mid-dash, pinned once, lifted twice. One nimble cat beastkin even managed to catch her out of the air and spin her gently before setting her back down.
+
+“Caught!” he purred.
+
+Luna huffed.
+
+“Rude.”
+
+But every time, she rose again.
+
+“Revenge!”
+
+The fights turned playful and unpredictable.
+
+And then – mid-bout – her feet stopped wobbling.
+
+The trip-steps stopped happening.
+
+Her strikes began to land.
+
+One sweep of the legs. One duck under a swing. She rolled behind a towering bull beastkin and poked his back.
+
+“Tag!”
+
+Her smile grew wider.
+
+Veric nodded quietly from the side. “Now,” he said. “One Skill.”
+
+Luna’s grin became dangerous.
+
+Next fight, she waited.
+
+Waited.
+
+Then–
+
+Shadow Step.
+
+One blink and she was gone.
+
+Appeared on her opponent’s back.
+
+Two finger-claws to the neck.
+
+“Got you! Luna wins!”
+
+Gasps. Then cheers.
+
+Next, Shadowmeld.
+
+Her moves were normal, but the shadow tendrils nearly tripped the adventurer. She slid past a scabbard-sword, popped up under their guard, blinded them with shadows, and rolled their legs out from under them.
+
+She pounced up with a squeal of laughter.
+
+“Luna wins again!”
+
+Skill by skill, round by round.
+
+Each time, her body learned more.
+
+The wolf and the girl stopped competing. Both bodies natural now, moving as Luna wanted.
+
+Luna ducked, dashed, struck. Slipped under arms and around legs, her instincts timed to her magic, her grin sharp, her hair wild with motion.
+
+She was dancing, a deadly dance, a playbite dance!
+
+No wasted movement.
+
+No stumbles.
+
+Only Luna!
+
+Veric watched from the wall, arms crossed.
+
+His slight smile deepened when she finished a perfect three-step dodge-spin-leap, her boots skidding to a halt as her claws tapped her opponent’s throat mid-turn.
+
+“Yes,” he murmured. “That was a good idea.”
+
+***
+
+PoV ???
+
+The ale had gone warm.
+
+Darvin sat in shadow, hunched at the farthest corner of the guildhall, the rim of his cup resting against his lip, but he hadn’t sipped in minutes. The mug smelled of yeast, sour herbs, and wood polish.
+
+Everything in this place reeked.
+
+Sweat. Smoke. Steel. Cheap oil.
+
+This wasn’t a Guild. This was a barn with slightly better lighting.
+
+With ale almost as sour as his mood.
+
+His team was gone.
+
+Four names erased from the world, and not one proper report had reached him. Not even a scrap to dissect. Only the silence, the failure, their deaths confirmed.
+
+The higher ups… they were not happy.
+
+And the weight pressing around his heart.
+
+A gentle curl. A whisper of warmth.
+
+The Corruption… it pulsed – patient, calm, inevitable.
+
+One flex of thought and it would flood his limbs, grant him power beyond most ken, gift him mana, bloodfire flood his veins, and fangs no beast could match.
+
+But if he stepped wrong, if he misused it, if the ones up high were not pleased...
+
+That same gift would crush him. From the inside out.
+
+His fingers tapped against the mug. One, two, three. Rhythmic. Quiet.
+
+He let his eyes wander.
+
+No one here could touch him.
+
+The red-haired swordsman by the bounty board was too flashy. The healer in the corner glowed too brightly, too clean to have seen real blood. The twin axe brothers were winded from walking up the stairs.
+
+He could kill them all.
+
+In thirty seconds, maybe less.
+
+He let the thought sit. Savored it. Then let it go.
+
+None of them were his mark.
+
+And he was not here for pleasure.
+
+The Guildmaster was a buffoon.
+
+The receptionist? Thorough, yes, but too distracted by some internal drama.
+
+So he waited.
+
+And when the door opened, and the B-rankers stepped through, he did not move.
+
+But he listened.
+
+The room shifted – postures, voices, breaths. The crowd leaned forward. Anticipation rippled through the air.
+
+He knew Syliana by reputation. Her presence made sense. So did the formation of her team. Balanced, efficient, careful.
+
+But it was the last entry that changed everything.
+
+He felt her before he saw her.
+
+The air trembled, faintly. Something beneath the surface quivered. His instinct telling him things he could not parse.
+
+And then the idiot spoke.
+
+“A Wildling!”
+
+Loud, thoughtless, impossible to miss.
+
+Darvin did not blink.
+
+But inside, the puzzle clicked into place.
+
+There it was.
+
+There she was.
+
+The mistake. The anomaly. The one variable the mission had not accounted for. A variable none could have predicted would be there.
+
+A new Wildling.
+
+A myth wrapped in fur and instinct.
+
+Fresh. Young. And with so much potential.
+
+He turned his head, slow, deliberate. Not too fast to draw attention.
+
+She was small. More beastkin than human, yet unmistakably just a little different. Brighter. Hair tousled. Eyes too bright. Every motion brimming with energy.
+
+Yet so very weak.
+
+Still unshaped, still raw.
+
+Nowhere near the potential her name suggested.
+
+And beneath it – buried deep in that wild joy – his instincts told of something old. Something terrible. Something hungry.
+
+Oh so very hungry.
+
+He would have to thank the fool Guildmaster, in a way. That information alone might buy Darvin another day of life.
+
+He sipped his ale.
+
+Still terrible.
+
+But the taste no longer mattered.
+
+He watched her spar. Watched the way she slipped between stances and stumbled into strikes. Too playful. Too wild. Still unfinished.
+
+But every time she fell, she rose sharper.
+
+Each step refined.
+
+Each breath steadied.
+
+She was learning too fast.
+
+He watched her move, and the faintest coil of Corruption inside him stirred.
+
+Because it recognized her.
+
+As a possible vessel.
+
+A future vessel.
+
+Or perhaps a rival.
+
+Ridiculous thought. None could rival that which corrupts all.
+
+But it could be his ticket to greatness. Prize greater than the Serpent.
+
+He leaned forward. Let the mug touch the table. Whispered into the woodgrain.
+
+“Oh, what a treasure you are.”
+
+To bring a Wildling into the fold…
+
+To watch her wrestle the Corruption…
+
+To see her lose…
+
+His pulse quickened.
+
+He could hardly wait.
+
+Nobody noticed when he rose.
+
+Nobody noticed when he slipped through the side door.
+
+Nobody noticed the faint, oily stench that lingered behind him. The stench of big ugly.
+
+Not even Luna.
+
+Too many smells. Too many sounds. Too many distractions.
+
+Far too busy fighting, laughing, living–
+
+To notice that death had just walked past her.

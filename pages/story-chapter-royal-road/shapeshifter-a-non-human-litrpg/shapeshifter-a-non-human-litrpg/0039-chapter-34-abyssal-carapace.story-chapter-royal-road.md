@@ -1,0 +1,217 @@
+---
+id: df5c7eed-603e-5399-88e4-9dd1aac34f4d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 34: Abyssal Carapace"
+slug: 0039-chapter-34-abyssal-carapace
+partOf: shapeshifter-a-non-human-litrpg
+position: 39
+ownLength: 2150
+unit: words
+publishedAt: 2026-08-04
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3767987/chapter-34-abyssal-carapace"
+royalRoadId: "3767987"
+---
+
+The instant noodles Randy had made were half-eaten and cold as he hunched over his laptop, squinting while scanning a research document. With a grunt of understanding, fingers danced across the keyboard to hammer out the conclusion to a thesis chapter he should have written two weeks ago.
+
+He was so jealous of Vesper right now.
+
+His apartment was dark, smelled like soy sauce, and was a mess. Across from him, sprawled on his second-hand couch with her legs tucked beneath her, was Valoria. She was scribbling in a notebook, her brow furrowed, while her own laptop was precariously balanced on the armrest.
+
+The news played in the background. Randy hadn't bothered to turn it off when she came over. Valoria had a habit of humming to herself and tapping her pen, which irritated him, so the soft hum of the television helped keep him sane.
+
+"How do you spell bureaucratic?" Valoria asked without looking up.
+
+"B-U-R-E-A-U—" Randy paused, frowning. "Actually, just let spellcheck do it. I'm not your dictionary."
+
+"I thought you were smart."
+
+Randy glanced up from his laptop. "What?"
+
+Valoria rolled her eyes and went back to writing.
+
+Randy snorted and glanced at the clock on his wall. It had ticked past three in the afternoon. Through the gap in his curtain, Tokyo was its usual gray self, the kind of overcast sky that made it feel later than it was.
+
+Returning to his work, Randy was halfway through a sentence about post-incursion resource allocation when the room brightened with red.
+
+He glanced up.
+
+The news had a flashing red banner across the bottom of the screen, the kind of red they only used for monster outbreaks. Yellow text Randy hadn't seen in a long time appeared on the red banner, and he froze.
+
+Emergency Bulletin.
+
+What happened? he wondered, dreading the answer as the video switched from the standard program.
+
+A helicopter shot of the Guild Association fortress showed a towering portal that appeared to lead to the abyss. Unlike portals that had appeared underground until now, typically in subway stations, this one was free-floating and massive.
+
+"Valoria," Randy said without looking away from the news.
+
+"Mm?"
+
+"Look up."
+
+"Huh?"
+
+She did, and the pen dropped from her fingers.
+
+Randy grabbed the remote and raised the TV's volume. A woman in a sharp blazer was speaking in clipped, professional Japanese, the kind reserved for things the public was supposed to take seriously without panicking.
+
+"—confirming reports out of the World Dungeon. The Guild Association has issued a statement acknowledging the appearance of what the system has classified as an Abyssal Rift on the eleventh floor. We repeat: an Abyssal Rift. This is a new phenomenon, and the system has labeled the floor as sealed. Hunters currently on the eleventh floor are unable to return to the surface until an unknown Guardian is defeated—"
+
+The background cut to grainy dungeon footage that looked like a Hunter's helmet cam.
+
+Randy gasped and leaned in closer. It showed the staircase leading down to what he assumed was the 11th floor. At the bottom of the stairs, instead of leading into a cavern of black porous stone, it was cut off by an abyssal wall similar to the portal floating before the Guild Association headquarters. A group of Hunters and researchers wearing Guild Association attire were positioned on the staircase and seemed to be trying to find a way inside.
+
+"—The Stormbringers, Ether Technocrats, and the Guild Association have all confirmed they have personnel currently trapped on the eleventh floor. The Guild Association is asking the public to remain calm—"
+
+"Calm," Valoria whispered. "They're asking people to remain calm."
+
+Randy didn't answer. His fingers had gone numb around the remote.
+
+The footage cut back to the helicopter, and the camera caught something looming in the portal's dark. Just a silhouette, but it seemed to be six-legged and far too big. Then the footage cut, and the news anchor was back, her face pale beneath her makeup.
+
+"Experts believe the eleventh floor was cut off by the abyss six hours ago, with the appearance of the portal before the Guild Association headquarters a new development."
+
+"Randy." Valoria's voice was very small. "When you inquired about the mission Yuki was going on, didn't you find out that's the floor he—"
+
+"I know."
+
+"That's where Yuki—"
+
+"I know, Valoria."
+
+She closed her notebook with shaking hands. She set it on the coffee table beside her cold noodles. Then she just sat there, staring at the screen, her knuckles white in her lap.
+
+"What should we do?" she asked.
+
+Randy set the remote down. "I... don't know."
+
+The almost-finished thesis seemed unimportant compared to a portal to the abyss appearing in the center of the city and Yuki getting caught up in it.
+
+But what could he do? From the footage, he had seen Hunters and the military deploying around the Abyssal Rift. The area was going to be cut off to low-level hunters like him.
+
+"It's going to be fine," he said, meeting Valoria's gaze while the dark room continued to flash red from the news. "If there's anyone who can get themselves out of that situation, it's Yuki."
+
+Valoria slowly nodded, but her expression was tight with worry.
+
+Randy abruptly stood up.
+
+"Where are you going?" Valoria asked, tracking him as he stumbled through the room to find his coat.
+
+"We are going to the front lines," he said. "They won't let us get close, but we should be there for when Yuki returns."
+
+He didn't even consider the posibility that Yuki wouldn't prevail.
+
+Valoria didn't protest. Her notebook and laptop forgotten, she was on her feet before he finished talking.
+
+***
+
+You have killed multiple opponents.
+
+Experience split between [Changeling Slime] and [Human] form.
+
+[Changeling Slime] has leveled up: 93 → 96.
+
+[Human] has leveled up: 56 → 60.
+
+Xen ignored the system message flashing at the edge of his vision.
+
+His Changeling Veil had faltered long ago as he stood bare, caked in viscous black blood and surrounded by the corpses of a few dozen Abyssalspawns and hundreds of half-dead, twitching regular Cinderspawns.
+
+He kept them alive for one simple reason—to make use of his D-grade slime skill, Soul Leech. Streams of faded silver light flowed from their bodies and into his own, repairing his wounds from the battle and refilling his enormous magic pool.
+
+"Those Abyssalspawn are way tougher than they look," Xen panted as he collapsed to one knee. His hand had long gone numb from striking his mithril sword at the chitin of the Abyssalspawns, only for it to bounce with a metallic clang if he didn't strike at the perfect angle. They also charged into him with enough force to break bones, and the abyssal mana pouring from the wound in the basin and drenching the land in its corruption greatly interfered with his Geomantic Perception, making him almost blind to those coming from below.
+
+During this hour-long battle to the death, his legs had been broken fourteen times, his arms eleven, his neck twice, his torso a dozen, and if not for his indestructible Cursed Mask, he would have died.
+
+"I might... have been... too egotistical," Xen heaved as he tried to pump oxygen into his exhausted body. This had been one of his toughest challenges yet, as the Abyssalspawns had the strength and speed of monsters in the 60-70 level range, meaning their physical stats were barely below his despite [Solo Hunter] boosting him. However, the biggest issue by far was their magic resistance and nearly impenetrable chitin.
+
+If I were a party of hunters rather than a one-man army, I think I would have been wiped out, Xen thought as he staggered back to his feet. A single tank like Alex wouldn't have been able to taunt all of the Abyssalspawns away from Daisuke. Not that Daisuke's magic would have had any effect, same with Hina. Her blades would have bounced off their chitin forever. It's only by alternating between magic and physical attacks to activate my [Duelist's Cadence] that I stood a chance.
+
+Xen ran a hand through his blood-soaked hair and flicked the viscous residue to the floor. He then stepped on one of the twitching, half-dead Cinderspawns. It offered little resistance, crunching brittlely underfoot.
+
+"Good. These critters have been drained sufficiently."
+
+He raised his foot high and stomped down.
+
+"Cataclysm."
+
+A shockwave exploded out from where he stomped, throwing up the porous rock in a wave before him and detonating the half-dead Cinderspawns. Amber crystals in the path of his skill toppled, crashing to the ground and cracking. A few overhead also dislodged and rained down.
+
+After the dust finally settled, power swelled in his body as he leveled up.
+
+You have killed multiple opponents. Due to the level disparity, reduced experience is rewarded.
+
+Experience split between [Changeling Slime] and [Human] form.
+
+[Changeling Slime] has leveled up: 96 → 98.
+
+[Human] has leveled up: 60 → 62.
+
+"Reduced experience?" Xen frowned, but supposed it was fair. Compared to the Abyssalspawn, which had almost killed him, the Cinderspawn were pathetically weak, no matter how many came at him. He bent down over one of the dead Abyssalspawns and picked it up.
+
+He had to bend his knees, surprised at how heavy the waist-high monster was. With a grunt, he waddled away with the corpse from the yawning wound to the abyss to find a a safer feeding location.
+
+[Use Devour on Abyssalspawn?]
+
+"Yes."
+
+His skin shifted under the Cursed Mask. The mask peeled up at the mouth, and a thin black tendril uncoiled from between his lips, slid along the seam in the chitin, and threaded down into the creature.
+
+[Devour in progress…]
+
+He wasn't gifted with the creature's memories. Whatever it had seen or thought before being tainted by abyssal mana was long gone. Instead, corrupted hatred burned into his mind. He reeled his head back and barely suppressed a scream. It felt like the dungeon had clawed its way under his skin and was trying to control him again. Xen barely held on just long enough to devour the monster's form, and the moment he had, he dropped the corpse and retreated a few steps while still shaking.
+
+[Devour Complete]
+
+You gained some biomass. The biomass has been saturated with abyssal mana. Passive purification by [Blight Aura] in progress.
+
+You absorbed 4% of the Abyssalspawn instincts.
+
+You have unlocked the [Abyssalspawn] form.
+
+The [Cinderspawn] form is considered an inferior species to the [Abyssalspawn]. The inferior species has been assimilated.
+
+You acquired the following skills:
+
+[Abyssal Carapace (A)]
+
+[Cinderburrow (C)]
+
+[Abyss-Tempered]
+
+Two actives and a passive.
+
+Xen eagerly brought up the descriptions one at a time.
+
+[Abyssal Carapace (A)]
+
+At the cost of biomass, coat your current form in a layered shell of chitin reinforced with abyssal mana. The carapace grants significant resistance to magic and an increased physical defense, with resistance scaling further against attacks of the death, corruption, and abyssal alignments. The shell is heavy. While active, your base movement speed and agility are reduced, and skills that rely on fine dexterity are degraded. Damage absorbed by the carapace bleeds abyssal mana into your body, corrupting you.
+
+Xen read it through twice.
+
+It basically summoned corrupted armor on command.
+
+The cost is biomass rather than mana, stamina, or life force. Having faced the Abyssalspawn, I can already imagine how strong this skill is. The question is how much wearing it degrades my speed, and what it means by 'corrupting me'.
+
+He moved on to the next.
+
+[Cinderburrow (C)]
+
+Briefly liquify your form and travel a short distance through porous stone, volcanic rock, or surfaces of similar composition. While burrowing, you cannot be detected by sight-based skills. The skill cannot pass through dense or non-porous stone, mana-reinforced structures, or warded terrain.
+
+A little too specific in its application, but useful while I'm here on the 11th floor with a floor made of porous rock. Though it only briefly liquifies my form and specifies short distances, so I can't use it to stalk prey or lurk in wait like Amber Sheath.
+
+[Abyss-Tempered]
+
+Gain a passive resistance to abyssal mana. Damage from abyss-aligned attacks is reduced. Abyssal mana absorbed during combat is slowly converted into ambient mana that can be drawn on by your other skills.
+
+Xen blinked at such a useful passive. Fighting the Abyssalspawns had humbled him in fighting monsters tainted by the abyss. Gaining a resistance skill also reduced the impact of the self-induced abyssal tainting from the Abyssal Carapace skill. It was also another passive mana regeneration skill, which was always appreciated.
+
+A sudden human voice in the far distance alerted him.
+
+Are they here already?
+
+He quickly checked Geomantic Perception and confirmed that Alex's party had managed to team up with the Ether Technocrats and was successfully leading them his way.
+
+It was time to hunt.

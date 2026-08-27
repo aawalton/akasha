@@ -1,0 +1,222 @@
+---
+id: 873da8f7-6b6d-5a0f-9d38-f98f285d0d16
+page-type-slug: story-chapter-royal-road
+title: "027 - Concussive Maintenance"
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 27
+ownLength: 2281
+unit: words
+publishedAt: 2026-05-25
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3442436/027-concussive-maintenance"
+royalRoadId: "3442436"
+---
+
+I couldn't tell why I had expected a proper bathroom, like one would find in a regular house. Of course a fire station had a larger shower room, for multiple people. I eyed the single blue dot inside suspiciously and opened the door. The front of the room looked much like a locker room, sans the lockers. From the back of the room I could hear a shower running.
+
+"Knock, knock," I called out.
+
+"Eve, that you? Come in, it's fine," Liz answered.
+
+Liz. We had barely talked throughout the night. But she had handed me that water when I really needed anything to distract myself and had made short work of the Wyrm's bullshit in the mall.
+
+I slowly undressed. Sharing a communal shower with people with whom one had faced the dawn of the Apocalypse was a perfectly normal thing to do—for normal people. A glance in the mirror gave me a fresh burst of resolve. I looked like a wreck. The collar did live up to its name though. The padding was pitch-black, but the notable feature was a ring of silvery metal that looked like quicksilver and ran around the outside. It even felt soft to the touch, giving easily and returning to its ring shape when I eased the pressure.
+
+I just hoped it wouldn't give me mercury poisoning. I hesitated for only a moment before I took the collar off, too. It had been a huge contributor to my survival last night, but I certainly wouldn't need it here. I could face a naked woman without needing to rely on it.
+
+In the back of the room, Liz was just standing there, head leaned back, letting the hot water run over her. Her stature surprised me the most. She'd been wearing rather loose clothing last night, which had hidden her muscles well—that girl was buff.
+
+"It's free and infinite, you know?" she said, looking over at me.
+
+I quickly looked away. I hadn't meant to stare, and I don't think I did, but I really didn't want to give a wrong impression.
+
+"What is free?"
+
+"Hot water. Sanctified spaces come with unlimited electricity, water, heating. I've been standing here for twenty minutes now. At home there was something wrong with the shower and I had to take lukewarm showers for months now."
+
+I turned on the water. "That is indeed pretty nice. I had just moved into my new apartment. Literally just plugged in my computer. I never even got to use the shower there."
+
+"Huh. Where did you live before?" Out of the corner of my eye I could see that Liz had zero hesitation to look at the person she was talking to. I had no idea if I was being rude or she was.
+
+"Lived in LA for a year. Had gotten a new job there when I wanted to get out of New York. Job was a bad idea and now I'm back."
+
+"What kinda job was it?"
+
+"Software development. For a big company which you've probably heard of. Hated it there."
+
+"Software, huh? Did that teach you how to fight the demon apocalypse?"
+
+"No, I think playing MMOs did. What did you do?"
+
+"Mostly survived the gig economy. Barista by day, bartender at night. Only recently made it to bartender from waitress. I think I'll miss that job."
+
+"The muscles… Those from the coffee or the cocktails?"
+
+Liz had a delightful laugh. "Bouldering. Girl gotta have some hobbies besides surviving, right?"
+
+The water flowing off my body steadily changed. From a thick red, to a dirty grey, to finally something approaching clean water.
+
+"And you, Eve? Got a perk that gave you laser eyes?"
+
+"What?" I blinked at her.
+
+"Looks like you're scared of eye contact."
+
+I started several failed attempts at a clever reply, until, mercifully, we both started to laugh.
+
+"Sorry. When I'm not fighting demons I can't help but be an awkward mess."
+
+"Honestly? Better than someone who treats every conversation like something to win."
+
+"Talked to Claire, did you?"
+
+Liz kicked over a bottle of 2-in-1 shampoo+body wash. "Can't say I did. She creeps me out."
+
+"Yeah…" I agreed.
+
+She turned off her shower. "I'll give you some privacy. See you later, Eve."
+
+"See you, Liz."
+
+Throughout all those moments of struggle last night, I had been bracing myself for this moment. The inevitable collapse when I was alone and my life not threatened. And it wasn't like there wasn't pain. Whenever I thought of Mike, I saw that moment when that demon took his life. I had accumulated a lot of hurt. Never had I been this afraid, this angry, this anything.
+
+Maybe it had become too much. More than any mind could handle, and thus it didn't all burst out at once. There simply wasn't the capacity for it all. That, or I was accumulating a debt I had no idea how to pay off. Hopefully someone out there had gotten a Therapist class. I needed one.
+
+#
+
+After the shower, I was welcomed by the glorious scent of ambrosia made manifest. Someone had brewed coffee, and thanks to my Heightened Senses skill, I could smell it all the way from the shower.
+
+When I entered the common room, Liz was leaning against the kitchenette, bouncing a tennis ball.
+
+"Don't dodge," she said, before she lobbed the ball in my direction. Not one of her deadly throws, just a casual underhand toss.
+
+I stood there and let the ball bounce off my arm.
+
+"Damn," she said.
+
+"Ability science?" I asked.
+
+"Perk science. Essence Infusion. Can imbue my projectiles with the essence of anything I have in my inventory. For a price."
+
+"What essence did you want to inflict on me?"
+
+"Coffee, just filled a thermos. But doesn't work unless it's an attack. Sorry for pilfering some of your coffee."
+
+"Mine? How so?"
+
+She turned and I saw a Post-It note on the coffee machine. "You said you needed coffee, so I brewed some. Cheers, Ash," she read.
+
+"Huh, nice." I finally walked over and went searching for a cup.
+
+Liz kept her eyes on me while I did.
+
+"You know, Eve. For a girl who stares at other girls like that, you sure have a talent to enthrall the boys."
+
+I locked eyes with hers. "Do truth bombs like that usually result in more or less tips? Also this means nothing, he's a nice guy. Like, nice-nice. Not pretend-nice, you know."
+
+She bounced off the kitchen and turned. "Yeah, sure. But he also joined the other boy in being worried sick from the moment you went down. And you should have seen that guy when you went on your solo trip."
+
+"Jamie? Why?"
+
+"Was bouncing off the walls with worry. I'd expected him to get a panic attack any second."
+
+"We… we just went through a lot. I saved his life and he thinks he owes me. Also told a devil he'd keep me safe. Which I might have sabotaged."
+
+"Of course. Just take care. Some people see a demon-eyed blood-covered monster. Others see a badass who's not afraid to kick-ass and boss them around. For some that's what they've been waiting for all their life."
+
+I filled my cup and took a moment to enjoy the fragrance. It smelled nice. Not too acidic, rich and earthy.
+
+"What do you see?" I asked.
+
+"A little of column A, a little of column B, and mostly a girl, dealing with the same shit as each of us."
+
+I returned my attention to the coffee.
+
+Liz pointed to a corridor leading into the building. "White-board in the pillow-fort room has a wish list. If you need anything, put it on there. Keep your eye open for anything on it."
+
+I nodded and took a sip. "Yeah, that's smart. Do you have access to your notes feature yet?"
+
+"Yeah, copied it all already."
+
+"You should test if your new skill works with Constance's potions. They have an insane cooldown, but if you can copy their effect it'd be pretty great. Doesn't matter if you hurt someone with your throw if it heals them back up to full."
+
+Finally Liz was the one who looked surprised. "Worked that out while I was needling you?"
+
+"Not really. Thought of it the moment you told me what you were testing."
+
+"Okay, I'm officially impressed. You volunteering for target practice?"
+
+"Sure. I probably got the easiest access to healing among us."
+
+"I'll go ask her about those potions."
+
+I was tempted to just bask in the win for a moment, but there was science to be done.
+
+"Wait," I said. "After you abused me for your mad science, I could use your assistance, too."
+
+"You call a tennis ball 'mad science'?"
+
+"After how much time I spent in that dog shape? There was a serious risk I'd try to fetch it."
+
+It took Liz several attempts before she could speak without laughing. "Yes, okay. Guilty as charged. What do you need?"
+
+I put my mug on the counter and moved into the relatively clear space between the kitchen and the couch. "Shove me."
+
+She did come closer, but didn't look convinced. "Shove?"
+
+"I got my second perk and it should make it more difficult. But I need to see how it feels. I've been relying on intuition and instinct a lot yesterday, but I'd like to replace some of that with knowledge."
+
+Liz walked up to me and gave me an unenthusiastic shove. It didn't feel like a buff adult woman attempting to shove me. More like a child.
+
+"Yeah. You are a fridge," she said.
+
+"Cool," I said. Grinning at the unintentional pun.
+
+"Want me to try harder?"
+
+I braced myself and loosened my limbs a bit. "Yeah. Let's see what it takes."
+
+We made several interesting discoveries. It was a lot harder to move me, even when she exerted all her strength. But I could still be thrown off balance. When she slipped one leg behind my knee and pushed against my shoulder—all in one swift motion—I nearly hit the ground. Only for her to catch me, trivially pulling me back up. From the outside it must have looked like we were dancing and she'd dipped me.
+
+Liz pulled away from me after that. "Okay that is very weird. You are heavy when I'm trying to tip you over, but light when I catch you?"
+
+I gathered myself, feeling the flush on my face. It wasn't just the contact, but more so how it felt. My entire perception of my body was outdated and slowly catching up. Nearly tripling all my physical stats made moving a lot easier and simply more comfortable.
+
+"That's pretty much what the description says. I also suspect that I could shoulder tackle you across the room."
+
+"To really use that fake weight you need to work on your stance, though. You've never been in a fight have you?"
+
+"Well, counting last night or not?"
+
+Liz shook her head and approached me again. "Let me show you."
+
+"Do you mind the audience, or should I come back later?" Jamie asked. I hadn't noticed his dot showing up in the corridor behind me. He must have been asleep in one of the other rooms there.
+
+"You can help," I called out. "And good morning, Jamie."
+
+There was a flicker on his face I couldn't read, before his casual smile returned. "Noon, Eve. Unlike some folks, I've already been busy today. Only took a nap, to recharge."
+
+I fought down the urge to defend myself. It hadn't been my choice after all, but that hadn't been his fault. Instead I used the short break to take another sip of my coffee. I pulled out another mug, which Jamie graciously accepted, before he poured himself a coffee. That machine would get good mileage.
+
+"How am I assisting your dancing lessons? I am a terrific dancer, by the way, so you've come to the right guy."
+
+I put my mug back down. "Pretty sure you've been pumping those physical attributes more than Liz has. So you'll try to topple me, while Liz explains to me how I'm messing up."
+
+"I can try, but my Strength is at 13 now. That might get rather one-sided."
+
+I stretched out, feeling muscles where none had been before. "My Endurance is at 7. And I got a perk that helps. Let's see."
+
+The impact of firmly superhuman strength was very noticeable. After Jamie got over his fear of actually using his strength, he got me to the floor multiple times until I learned to apply Liz's coaching. Turns out before she did bouldering she'd practiced Judo, and only dropped it when work hours interfered.
+
+With Liz's coaching, though, he struggled more. We also learned that the ease of lifting was somehow intent-based. When he tried to lift me off the ground, he struggled but succeeded. Which seemed to surprise him as much as it surprised me. And I could sense the precise moment his mind—or mine?—switched from this being an attack to this being an accident, as the weight against his muscles instantly lessened.
+
+He carefully put me back down.
+
+"Huh," I said.
+
+"Uh, sorry," he said. "Got a bit carried away."
+
+"Nothing to apologize for. That was interesting data."
+
+Besides the physics of it all, I surprised myself with how unbothered by the touch I'd been. With that fear debuff I had nearly anticipated the opposite. Somewhere between the third or fourth near-death experience something must have broken inside—or untangled. Did concussive maintenance work on humans?
+
+"That's what a nerd calls that, hm?" Liz said. I shot her my best withering glare.

@@ -1,0 +1,145 @@
+---
+id: 7508dd50-37fd-5480-9a8c-060c70d4b610
+page-type-slug: story-chapter-royal-road
+title: "Chapter 408 : Tainted Depths"
+slug: 0110-chapter-408-tainted-depths
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 110
+ownLength: 2335
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3731172/chapter-408-tainted-depths"
+royalRoadId: "3731172"
+---
+
+With slime running rampant down every nook and cranny of the labyrinth, I managed to brute force my way to the correct paths. Thankfully, the realization was easy to make, as all I needed to do was keep an eye out for more magical barriers, which always came with demonized enemies behind them, trying to push through.
+
+I wasn't sure how the person in charge of this place felt about my actions, but, as far as humanity and the greater world were concerned, I was presumably doing a good deed. Singlehandedly, I was culling the demonic numbers, preventing them from eventually escaping and corrupting the outside world.
+
+Well, that's if the story behind this place is actually true; now it feels more like the backdrop.
+
+Despite eating quite a bit of demonic energy, the barriers still didn't hinder me in the slightest, and my observations of myself showed not even a hint of potential corruption. Maybe we slimes were too pure for this world, as that black slime was also the only non-demonized creature I had fought since coming here.
+
+Speaking of which, I had the opportunity to eat several monsters before they burnt up into that evil energy. If I wanted to maximize slime mass, then [Necrotic Slime] was the way to go, but I went with [Acid Slime] in the hopes of gaining a new profile. While I did gain a few minor ones from a few interesting critters, I sadly didn't get any details on what exactly "Demonized" was. It seemed that no matter how many I ate, I only ever received their base information, leading me to believe that Demonized was not a mutation but something applied after the fact.
+
+I used the word "template" accidentally when I first encountered them, but now I think that might genuinely be the case. Clearly, I should trust my gut more often.
+
+One thing was certain, though: regardless of profiles and templates, these corrupted creatures were worth a decent chunk of experience, as my levels seemed to be coming along nicely. That was another big benefit of this slime horde: I was gaining every bit of experience, as it was all me. I was willing to bet this was how Keldenar gained so many levels through his golem army.
+
+<Class Experience threshold reached. Riftmancer is now LV 18.>
+
+<29 Skill Points are now available.>
+
+<Racial Experience threshold reached. Chimeric Cluster Slime (Prismatic) is now LV 16.>
+
+<15 Trait Points are now available.>
+
+<Class Experience threshold reached. Riftmancer is now LV 19.>
+
+<30 Skill Points are now available.>
+
+Huh, that racial level was sooner than I expected. Nope, my distribution is still set to the minimum, so my personas must be at work doing something. Maybe from Sylvain protecting the island?
+
+Proceeding deeper, the demonic taint only continued to amass, and even if I split into multiple blobs, it was practically impossible to clean up. If I had nothing better to do, it would've been great to just sit around and slowly feast, but I was reminded of the spirits lazing all day for free experience and rejected that option. Of course, while I was down here fighting, I would keep eating. Why let the free food go to waste?
+
+It's still not very efficient, though. My best bet for generating slime mass is harvesting lifeforce directly. I wonder if I could raise something like cattle and just drink enough without killing it? There's also the possibility of speeding up the process with [Heal Slime], or even [Healing Magic] now that I think about it.
+
+[Heal Slime] was super effective, but it was consumed in the process. However, with the right creature and the right balance, I could probably turn it into a net positive in terms of slime mass. As for [Healing Magic], it was free as far as I was concerned, though much slower. However, the biggest issue with all of this was that I overlooked the somewhat moral conundrum of the situation. Killing monsters was one thing, but keeping them alive to farm, effectively torturing them, felt a few steps too far even for me.
+
+Maybe I'm being a hypocrite, considering I'm killing monsters right now without a care in the world, but using them like that feels… Weird? Like, I know they are supposed to be mindless dungeon spawns, but still… Maybe the right way to go about it is to ask a friend if it's okay if I snack a bit on the side?
+
+When the black slime was trying to eat me in response, I hadn't felt anything, but I was a slime. If the vampiric effect was painless to others, though, then maybe Vee would be willing to let me take a bit each day as long as I healed her. It would probably also have the benefit of strengthening her resistance at the same time.
+
+I'll send the idea to Sylbera, maybe she can suggest it and see how Vee feels about it. Which actually reminds me… Shouldn't I offer to have her come here?
+
+My personas could cheat their way here through [Core Storage] if I wanted to ensure their original designated cores were the ones to experience it, and assuming they were even eligible to earn the secondary class. But Vee, she would need to be guided down here, which admittedly wasn't too hard if Sylbera or someone followed my [Map]. I stored a letter addressing the situation and waited to hear back, all while continuing to explore deeper through my slime minions.
+
+When I finally had my fill of fun experiments with a variety of slimy creations, I unified my army. While my [Banisher] Emblem did nothing against these creatures, I still had another proven tool against such evil creatures—Truesilver! Yes, the rare alloy I had accidentally stumbled across during my bout with the real deal was finally getting its chance to shine again, and the effect against these abominations spoke for itself.
+
+At first, I thought I'd just need to equip my slime minions with fake weapons, something easily done with all my various profiles and experience doing so, but then I found out that the mere touch of Truesilver was a bane against them. As if I had poured acid onto their flesh, they had a visible and violent reaction to the metal, and while I still made weapons for the fun of it, it was almost entirely unneeded.
+
+It was definitely not this effective against the real demon, but perhaps that was just the difference between the master and the minion. Some of the weaker Demonized creatures were defeated simply by having some Truesilver slime engulf them, with no further slime powers or traits added. With these changes, my charge to the heart of the labyrinth exceeded even my expectations, and soon I was passing through barrier after barrier against the corruption until finally I found it.
+
+Unlike the previous barriers, this one had a golden luster and a far more intricate design than anything I had seen from the rest of this place. It was like multiple layers of various barriers stacked on top of each other, although weirdly, the monsters behind it had no issue passing through it to attack me and my army. At first, I thought the barrier was intended to keep others out, but when I touched it, there was still no resistance.
+
+Maybe it's designed to contain something even stronger, so it doesn't waste any effort keeping mere demonized minions? A real demon, perhaps?
+
+Regardless, I couldn't proceed until I called in the reinforcements. In theory, if it were anything even remotely related to a demon, I would probably defeat it with comical ease, which would be terrible if it happened before my personas arrived. I sent out the call to action, leaving behind a temporary core in Keld and Pi still holding the fort in Tanglebay.
+
+In theory, I didn't need to do any of this, as [Split Personality] could be activated by any [Sub-Core], but I'd grown used to their assigned personas. I also believed that the personas had grown attached to their respective cores, or maybe that was me projecting my own feelings. Yes, I could temporarily take over any [Sub-Core], but it just felt right to have my own dedicated core.
+
+Heck, if I'm completely honest, I'm still a bit upset that I lost my original core. Sure, this one has become my primary core entirely; I can't even feel a minor difference, but mentally, I know I lost an original part of me that day.
+
+"Master, I feel like you're dwelling on things you really shouldn't be," Sylbera said, being one of the first to arrive and build her body.
+
+"Look, don't judge me. Our slime is temporary, but our cores are the only thing that remains constant."
+
+"I don't know if I entirely agree… But I am grateful that you've repeatedly assigned Beta to house my consciousness," Sylbera replied.
+
+"Hey, who knows at the end of the day," I said with a shrug. "Now, what news do you have about Vee? Do we need to escort her here?"
+
+Sylbera shook her head. "Mistress Vee said she doesn't fully believe in this 'three labyrinth reward' and is waiting for you to confirm it's real."
+
+"Oh come on… Now she's just being lazy."
+
+"I regret that I cannot deny that. I believe she is in the middle of taste testing the newest recipes from the reformed goblin chef."
+
+"That doesn't seem like a good enough reason to me. What if the labyrinth maze changes the next time we come here?"
+
+"She said, and I quote: 'Then it will be more experience points for us.'"
+
+"I hate that I can't disagree with that, although it sounds like she just wants to be carried through," I grumbled.
+
+At this point, more of the cores had arrived and were beginning to form their personas. The last to arrive was Sylvester, who had to ensure his way back to Keld was secure.
+
+"How's the golem creation?" Sylthaeryn asked.
+
+Sylvester smiled. "It's some of the most fun I've had in a long time. It's a significant upgrade from messing around with just [Ice Magic]."
+
+"And now you've dumped it on me," Sylvain replied.
+
+"Don't you even pretend that Vanessa isn't happy about your newfound power," Sylvester retorted.
+
+"Ew. Don't mention her around me, please," I quickly replied.
+
+Sylvain looked a tiny bit upset by my remark but said nothing. However, I did catch Sylthaeryn confirming to Sylvester on the side that he was right on the money, only to be scolded by Sylbera.
+
+At least one of them cares about my feelings…
+
+While mentally praising Sylbera for being the master of all maids, I and all of my personas caught up on the current situation. While I had shared my initial discoveries, I had made several more since then, and it appeared I'd vastly exceeded their testing thanks to being in the ideal environment.
+
+None of them was currently connected to me; instead, they were formed purely through [Slime Puppetry] and provided more feedback on how it felt from their perspective. I wasn't just fooling around; I was hoping they'd have some insights that might help me further develop this exceptionally valuable trait.
+
+"I don't feel numb despite being disconnected from you," Sylthaeryn commented, to the nodding agreement of the rest of the group. "Although if I control disconnected slime, I certainly feel that way."
+
+"It seems I wasn't wrong about the [Sub-Cores] being more powerful than I originally realized. I'm glad none of you are experiencing any discomfort, though, since I'd prefer to use [Slime Puppetry] than our previous slime cables or floor methods."
+
+"I fully agree. With this, my job just got a hundred times easier," Sylvain replied.
+
+"I'd argue this is even better than controlling golems," Sylvester replied. "Although maybe that's just because my skills are all low-level at the moment, while controlling slime comes naturally to all of us."
+
+"If I had to make one complaint when I reach the invisible boundary, then it suddenly feels a bit like there's a leash around my neck," Sylthaeryn added. "Although until then, I honestly can't say I even noticed the restriction."
+
+"Hopefully, with more levels, even that will be gone, not to mention if we reach the point of having a spare network," I explained.
+
+We continued conversing for a bit, right outside the boundary. It was a bit anticlimactic, suddenly having a strategy session right out of the big monster's den, but we couldn't care less. It was nice to see that all of my personas, no matter how different in personality, could share in the excitement of a new ability we had obtained.
+
+As for Sylbera, she also reported her findings from [Necrotic Slime], as she had used Vee, staying behind, to pull her leg into agreeing to the test.
+
+"Unless I unleashed a maximum drain, there's no pain or discomfort. Although Mistress Vee did mention starting to feel quite sleepy after a few moments."
+
+"Then it looks like my donation plan is feasible, and it can be used to train [Healing Magic] at the same time."
+
+"Which only you are capable of casting at the moment, Master…" Sylbera replied.
+
+"I must say I preferred the monster farm idea," Sylvain said. "If humans and dwarves can do it to slimes, why can't we?"
+
+Sylthaeryn, Sylvester, and I all gave a bit of a shudder.
+
+"Although I understand your reluctance to go down that route," Sylvain admitted.
+
+With nothing more to discuss, we all turned to the golden barrier. I double-checked with Sylvester, but he didn't know how it operated either. It seemed beyond our collective enchanting knowledge, and he'd received no information from Keldenar.
+
+"Well then, why don't we go beat the demon so we can all head home before dinner?" Sylvain suggested.
+
+We all nodded and all stepped through the barrier to whatever was the final challenge of this corrupted labyrinth.

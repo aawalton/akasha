@@ -1,0 +1,173 @@
+---
+id: f3e48937-5320-57cb-a44f-08c6ad1939f6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 313 : Provisional Registration"
+slug: 0014-chapter-313-provisional-registration
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 14
+ownLength: 2279
+unit: words
+ownProgress: 2279
+publishedAt: 2025-11-14
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2759443/chapter-313-provisional-registration"
+royalRoadId: "2759443"
+markedReadAt: "2026-06-29T19:42:14.204Z"
+---
+
+Ethan stared at the countless random items now littering his desk. He wished he could have said this was a rare occurrence, but he'd both witnessed it and heard many stories about this before from his fellow receptionists.
+
+Freelancers, mercenaries, bounty hunters, and the like all thought the Adventurer's Guild was out to get them and steal their loot. They had such a distrust that they would rather keep all their possessions on their person than even trust it to a bank.
+
+I wouldn't be surprised if this Sylvain fellow sleeps with money in his mattress.
+
+What surprised Ethan, however, was that this type of behavior was typically associated with more "wild" individuals, ones brought up on the outskirts of society, and yet Sylvain was a mage. You'd think or hope that someone smart enough to dabble in the arcane arts would have a reasonable head on his shoulders.
+
+"I'll be happy to cash this in for you once you've officially registered," Ethan replied, going back to his script. "Would you like your affinities and attributes tested?"
+
+Sylvain seemed to ponder it for a bit, stroking his chin while mulling it over. "No thanks. I have water and air."
+
+The sailors would love him; it's not too often we get someone with both, and at such a decent level. It's a pity he won't agree to the test, but having the hydromancer class is basically proof enough. Although I don't think they'd hire someone who hasn't shaken off his rust yet.
+
+"Since you have no track record with us, it would be hard to give you anything higher than a bronze rank," Ethan explained.
+
+"That sucks, but makes sense," Sylvain replied, although he didn't appear to care too much.
+
+"We could issue you a provisional silver license due to your exceptional level and Emblem. Although you'd also need to provide a demonstration of your magical prowess to one of our local mages," Ethan offered.
+
+It wasn't often done, but forcing a high-level and combat-proven individual to suffer through the low ranks and potentially lose them along the way was something the guild desperately wanted to avoid. Even if Sylvain had earned it by abusing a low-level dungeon, it was still easier said than done.
+
+Plus, Mike vouched for him. Mike's a good judge of character, and he must not have triggered any criminal checks.
+
+"Sure, I don't mind," Sylvain replied, much to his relief. There was always a chance that he'd be too paranoid to reveal his magical gifts, considering how he behaved with money.
+
+Ethan sent off a request for one of the staff mages to come for an evaluation; in the meantime, he began itemizing the random bits of loot on his desk. Other than raw metals, there appeared to be a few pieces of commonly enchanted items, and judging by the odor, they must have come from the undead.
+
+[Appraisal] combined with his [Guild Staff] Emblem meant he could quite quickly work out the rates, and with practiced ease, he began reasonably pricing everything. Hell, he might have even been a bit too generous, but he didn't want to risk losing him as a recruit.
+
+Gods know Saltport needs as many hydromancers and aeromancers as we can get.
+
+Once he was done, he handed the list over to Sylvain. The man took it and began scrutinizing it. While he was occupied, Ethan took the time to give him a bit more of an informal assessment himself.
+
+Ethan's skills weren't top-notch, but they still allowed him enough to get a decent impression, although unfortunately, it was all in comparison to himself.
+
+The results were surprising, but not entirely unexpected. Sylvain was physically more capable than he was in every category. Even though he was a spellcaster, his race level must have been the cause, or he dabbled in other classes. What was startling, however, was Sylvain's Mana. The informal comparison between himself and the unknown mage could only be described as "astronomical".
+
+Must be a natural goddam magical prodigy. If the Mages Guild got their claws in him, they'd never let go.
+
+He then began examining the outfit of the man before him. Everything appeared to be enchanted, and judging by their appearance, it was done well. There wasn't a smidge of dirt, tear, or even a loose thread. While he had no formal enchanter or merchant training, Ethan knew it had self-repairing at minimum, and likely physical protections as well.
+
+It might be dungeon loot, or he claimed it from some monsters that killed a noble. Which would explain why he was averse to registering.
+
+The Spoils Accord had done away with most issues, but there were still a few uppity elites who tried to skirt around it.
+
+Finally, Ethan looked at the last piece of gear, and boy, it was a masterpiece. The majestic hat perched atop his head looked like it was tailor-made for him, almost a hat equivalent of a wedding dress, with how special it appeared. It was a classic brimmed wizard's hat, not too large and just right. Ethan even unconsciously rubbed his hand along his head and through his hair, wondering if he'd look that good in a hat.
+
+I wish I had a hat that looked half as good…
+
+He then glanced at the small spider nestled along the brim. At first, he was a little surprised by such a sight, and yet somehow it felt perfectly natural, as if the spider belonged there. It was so small, it must have been a pet or even an informal Familiar, and it almost seemed like it was looking directly into his eyes.
+
+Cute little fella.
+
+"Looks good to me," Sylvain said, catching Ethan's attention.
+
+Unbeknownst to him, as soon as his eyes left the spider, he almost entirely forgot that he'd even seen it, as if it had just become an afterthought somewhere in the back of his memory.
+
+"Wonderful. I'll have it deposited into your account. Even if you don't get your provisional silver license, you'll be able to access it with your bronze tag," Ethan explained.
+
+Then Samara arrived; evidently, she was the one assigned to evaluate him. Ethan knew she was a pretty, no-nonsense type of woman, which meant that if Sylvain impressed her, then he'd be a shoo-in for the provisional license.
+
+Then we just need to get him assigned to a few boat missions to get his feet wet. If those go well, we can remove the provisional restriction, and soon he will be rocketing up the ranks. We just need to be sure no companies try to poach him, although if he really is as much of an explorer as he claims to be, we might be safe.
+
+The Vaelyssan Sea had many underwater treasures still waiting to be claimed by those brave enough to explore its depths.
+
+Samara introduced herself, and Sylvain responded politely. They then both escorted him to a room where he could let loose without too many prying eyes while she asked him a few questions about his background and if he had any formal magic training.
+
+Sylvain seemed honest in his response, saying he just followed the classes and skills the system gave him. Samara seemed particularly dismissive by that response, even sending a glare Ethan's way. He took it in stride, though, as his gut told him that this hydromancer drifter was a diamond in the rough.
+
+They arrived in the warded room where one of Keldenar's golems lay dormant. They were true works of art by the legendary diamond-rank adventurer and, honestly, a godsend to the guild for both training and evaluating.
+
+Not everyone could afford to have a [Deathward] capable healer on standby for more personal evaluations, and this allowed nobody to get potentially injured, maimed, or worse.
+
+"Cast your spell so I can go take my lunch break," Samara replied, pointing at the golem and clapping her hands. It seemed to wake up and take a defensive stance.
+
+"Water or Air?" Sylvain asked.
+
+"I don't really care. Whichever is your best," she replied.
+
+Ethan wanted to strangle the woman; if she caused his new recruit to change his mind, he would never let her hear the end of it.
+
+"Can I do both at once?" Sylvain asked.
+
+"Sure…?" the woman replied, raising a curious eyebrow.
+
+Sylvain grinned, clapped his hands together, and exhaled. After taking a deep breath, he began rapidly forming his spell. Ethan wasn't a mage, but he'd seen plenty of them cast spells before and had his own [Mana Sense] unlocked as it helped with evaluations.
+
+What Sylvain was crafting was unlike anything he'd ever seen before; it was a tapestry of arcane symbols that looked utterly alien to the man. Even Samara was so shocked she appeared to choke on some of her own spit, although even while coughing, her eyes were glued to what she was witnessing.
+
+Sylvain's creation was completed before Ethan could even react, and then the man pointed a single finger at the golem as the spell coalesced and fired. A beam of water so thin he thought it was a piece of string was fired out and vanished, flying across the room and piercing through the golem so fast he could barely blink.
+
+"Ah shit, sorry about the wall," Sylvain apologized, rubbing the back of his head sheepishly.
+
+"Forget the wall, what the hell did you even do!?" Samara demanded.
+
+"I used some [Air Magic] to boost a [Waterjet] spell," Sylvain explained. "I figured it was the only way to penetrate a golem's defense."
+
+While Samara was freaking out, Ethan was already imagining a future raise or maybe even a promotion if he could recruit Sylvain and be assigned as his handler.
+
+"Who taught you to cast like that?" she asked.
+
+"Nobody," he shrugged.
+
+"You never attended the Mages Guild?" Samara followed up.
+
+Sylvain shook his head.
+
+"It will come up in your registration if you've had any past affiliations, just a warning," she said.
+
+"Lady, I've never been with the Mages Guild, I can swear that to you," Sylvain said sternly.
+
+Samara looked like she was going to follow up, but Ethan quickly pulled at her sleeve. "Would you say he passed his evaluation?"
+
+Samara grit her teeth. "Yes. Although I swear if this is some joke to set me up, I'm not laughing."
+
+Ethan was about to refute her accusation when he was halted; the golem had started walking towards Sylvain.
+
+"Shit, is it angry at what I did?" he asked in a panic, and began weaving another spell.
+
+"No!" Ethan cried out. "It's a reward!"
+
+Sylvain eyed him suspiciously and began to let the Mana he accumulated dissipate. "If you're wrong and it kills me, I swear I'll haunt you."
+
+Ethan wanted to laugh, although he felt oddly threatened by what he thought was a joke. The golem, however, stopped a few feet away from Sylvain and held out two objects: a ring and an engraving.
+
+"Oh, a ring and what's this?" he asked, taking them both.
+
+"A Mana regeneration ring…" Samara answered, you could practically hear the envy dripping in her voice.
+
+"And that is an invitation to the Kingdom of Keld," Ethan answered, swallowing nervously. "Although I hope you won't be using it too soon."
+
+Sylvain shrugged. "I got underwater treasures to explore. I don't plan on going to some suspicious kingdom." He turned to face the golem, which was beginning to go dormant again. "No offense."
+
+The golem naturally didn't respond, but Ethan felt relieved. For once, he was happy about the mage's paranoid nature.
+
+"Well. You might as well give him the provisional license then. I'm going to lunch," Samara replied before storming off.
+
+Ethan sighed with relief and took Sylvain back to his desk. After that, registration was a breeze, although he kept apologizing for the damage as if expecting that he'd have to pay for it, no matter how many times Ethan told him not to worry about it.
+
+He looked so nervous during registration when he touched the crystal. I don't think I've ever seen someone so afraid that we would take his money away.
+
+His registration had also shown no previous affiliations, and despite Samara's insistence, he was evidently never with the Mage's guild. He had absolutely no prior record with even a minor mercenary company, as if he'd appeared out of nowhere.
+
+In the past, this might have been cause for suspicion, but some of the greatest adventurers had been nobodies who seemingly came out of nowhere. Even the legendary golemancer himself was a total anomaly in the kingdom, as if he'd fallen from the sky.
+
+Ethan chuckled to himself before handing Sylvain his temporary tag. He gave a brief explanation of how it functioned and then suggested some establishments to stay at, and also offered to help him pick out any good quests.
+
+"If you complete one major assignment, you can have your provisional status removed in one go," Ethan said. "And I know a few captains that would love to have a mage aboard their vessel."
+
+"Any of them treasure or salvage hunters?" Sylvain asked.
+
+Ethan nodded, explaining a few of the various trades of the sea, ranging from fishing, salvaging, and even bounty hunting. He also tried to tempt Sylvain by mentioning that the guild could provide him with the location of a few aquatic dungeons, on islands or sunken, once he was no longer only a provisional silver rank.
+
+Sylvain thanked him and then departed, but not before taking a quick glance at the quest board. Ethan could practically smell his raise or promotion.
+
+I definitely owe Mike a drink!

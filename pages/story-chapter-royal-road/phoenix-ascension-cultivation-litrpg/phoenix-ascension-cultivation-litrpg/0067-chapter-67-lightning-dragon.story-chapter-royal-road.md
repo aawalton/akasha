@@ -1,0 +1,165 @@
+---
+id: fabf3e8f-a49a-5f4c-a7d0-4fdfecb4a9a0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 67: Lightning Dragon"
+slug: 0067-chapter-67-lightning-dragon
+partOf: phoenix-ascension-cultivation-litrpg
+position: 67
+ownLength: 2011
+unit: words
+publishedAt: 2025-12-27
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2885871/chapter-67-lightning-dragon"
+royalRoadId: "2885871"
+---
+
+I could scarcely believe that someone had poisoned him. Was crippling his meridians not enough? Why did they have to go as far as poisoning him as well?
+
+Those were questions I didn’t have any answers to, and I wasn’t sure I wanted to know. I had a feeling they would answer themselves with time anyway.
+
+For the moment, I had to figure out what sort of poison it was, where it had come from and how to cure it.
+
+Why did I not detect it the last time I checked him?
+
+I couldn’t say. Perhaps I ignored it while looking for something else, that was possible, but now it revealed itself to me. Was that what the ‘save’ in the quest was about, poison? Or was it something else…
+
+There was another thing… the pills. I wasn’t sure how many he’d given to the Cciao guy, but they were definitely not something anyone should eat.
+
+“Do you have any more of those pills?”
+
+He shook his head, the boy’s heart beginning to race upon hearing my question. He was hiding something from me.
+
+“Did you eat any of them?”
+
+His expression froze, then he slowly nodded.
+
+“God damn it.” I said softly, more of a sigh than a word. That frightened him even more, but… he was just a child. How was he supposed to know that there isn’t such a thing as free food. Even though it may seem like I’m acting to help them, what I’m doing is for my own benefit.
+
+At first I had a sense of responsibility toward the girl, because I was the one who’d put her into that situation, and I planned to have her teach me how to read. The quest changed everything, though, and I have to go above and beyond, but the rewards would be equally precious.
+
+All that to say, I couldn’t get mad at him, but at the bastard who put him into that situation. I wasn’t sure who it was, but it smelled rotten.
+
+The more important thing right now was to figure out a cure to that poison. Since it didn’t imediately kill him, it must have been some sort of slow-acting poison, however that didn’t exactly ease my worries.
+
+If he was given two pills and a cultivation technique, then he must have been going to be used for something, but for what exactly, I wasn’t sure. But that did mean that he wasn’t intended to die… which meant that there was a time limit and a requirement to get rid of the poison.
+
+And I…
+
+Might have burned it to ash.
+
+“You don’t happen to have more of these cultivation techniques right?”
+
+“I… gave everything I had to Miss Immortal.” He coughed, his face looking rather destitute. I could not help but feel pity, as now he would need to endure the pains of the poison as well.
+
+“You took the pill he gave you, but you did not cultivate yet, is that right?”
+
+He nodded.
+
+“Do you remember the cultivation technique?”
+
+He nodded again.
+
+Unsure if that was the right hand to play, but knowing that it was the only hand to play, I asked him to use the technique to try and move the Qi around his body.
+
+He nodded, albeit begrudgingly. After all, that pill was supposed to repair his meridians, but I didn’t see any sign of them getting better. That much should have been true, though, so the key was the cultivation technique.
+
+Shu Wao Tu straightened his back and sat cross-legged, reciting the cultivation technique. I could not hear it well, but the whispers alone sounded like something nobody should have ever written.
+
+I watched over him, and sure enough, the poison gathered around his meridians and started repairing them. Veins popped on the boy’s forehead, which was to be expected, as this forceful method would work with a lot of side effects.
+
+The poison basically broke apart the remains of his crippled meridians, and built new ones using itself as the base. Unlike my technique, where I created the meridians, though, this one fabricated them from the pill essence. It was a crude, awful and inefficient method.
+
+And I immediately understood why I considered it to be poison until seeing it. It wasn’t poison per se, but if it lingered too much inside the body would disintegrate the flesh and send toxing into the blood stream.
+
+Therefore, for all intents and purposes, it was poison.
+
+“Stop it now.” I ordered him, and he halted this ‘cultivation’.
+
+His breath was haggard, and cold sweat drenched his already dirty clothes. There were even some tears welled up around the corner of his eyes.
+
+“Why did you take the pill?” I asked after giving him some time to catch his breath.
+
+“I—”
+
+“Did you feel inadequate compared to your sister? Could you not bear the shame of your little sister being more capable than you? Was it so difficult to wait for her to be able to help you?”
+
+He lowered his head. All of the things I said were true. All men had their pride, and he, who was supposed to protect his sister was now being protected by her, could not accept that.
+
+“This is where pride gets you, kid. Have you not already learned that?”
+
+He clutched his arms exactly where two bruises were faintly healing.
+
+“I’m sorry.” His shoulders shook as he apologised, but it was far too late for that.
+
+“I can’t remove that pill from your system. Not with my current abilities.”
+
+I could have if I could use Qi… I lamented, but it was scarcely the time for that. I considered letting Shu Xu Ning deal with it, but she was barely at the first stage of Qi Condensation. That was an incredibly fast advancement, and something I wasn’t prepared for.
+
+But I didn’t want to risk both of their lives. The best method would be to use my own cultivation base or a body cleansing pill.
+
+However, they were expensive and hard to refine. At my current level, I only had a twenty percent chance of succeeding, which was far too risky.
+
+One other thing I could try was outright buying it, so it looked like my plan to visit the Myriad Market would have two purposes now.
+
+After thinking about all of that, it was time to expel the foreign Qi from Shu Tao Wu’s body. I called for Shu Xu Ning to come and grabbed her brother, placing him on the floor. She sat cross-legged behind him, and gently placed her palms on his back.
+
+Since she was at the first stage already, it would not take a lot of time for her to learn the technique. I also took the opportunity to check her body, and sure enough, she had the gift of a lightning constitution.
+
+It was a funny coincidence, all things considered.
+
+Althougt I was curious to test both of them, so I had to get some sort of testing instrument.
+
+Anyway, I got off topic again.
+
+“You want to insert your Qi into your brother’s body, then use it to refine the Qi inside his body and either expel it or take it as your own. Take it slow at first, and be careful around his dantian, alright?”
+
+She nodded and closed her eyes
+
+“Recite the technique at the same time.”
+
+She nodded once again and took a breath. Shu Xu Ning’s Qi entered her brother, mingling with the foreign Qi invading his body. Since he was once a cultivator, his body naturally sought Qi. Under normal circumstances, such a thing would be good, as even if he was unconscious, there would always be some Qi for him to use. But due to his lack of meridians, it became more of a poison.
+
+Now Shu Xu Ning had to take care of that poison.
+
+I watched with my Divine Sense as the two Qi’s mingled, fighting for supremacy until the technique refined it. Shu Xu Ning decided to expel the Qi to the outside instead of absorbing it, which was the safest route.
+
+After watching for fifteen minutes or so, I decided that she was doing a good job. I sat cross-legged some distance away from them and closed my eyes.
+
+Shu Xu Ning had recited the technique to me, so I knew what it was about and how to use it. It wasn’t particularly difficult, but still required some concentration on my part. Since the Demonic Qi stopped invading my dantian after integrating with it, and since I could absorb Spirit Stones, I decided that it was time to test whether or not cultivation techniques had the same effect.
+
+I was beginning to miss being able to use my Nirvanic Flames, as well as all my other skills. Did I have too many of them? Of course I did, but could you blame me?
+
+Luckily the passive skills remained active, but without being able to use Qi I was feeling more than a little handicapped.
+
+Not to mention Mother’s egg, which needed nutrients and fire energy to properly incubate. At least, I assumed it needed those things. I didn’t know for sure, but something told me it did.
+
+And so I began cultivating.
+
+The technique spoke about moving the Qi in a pyramid-like shape. Absorb it through the mouth and make it cascade down until it reaches your dantian. It was a complicated technique that showed great results, though.
+
+Naturally, I had no issues in learning the method, and neither would I have cultivating it if the Demonic Qi didn’t impede my advancement.
+
+The first part of the technique was easy, as was reciting it inside my head and following the proper mantra. However the part that worried me most was at the end, when the refined Qi would enter the dantian.
+
+However, there was only one way to find out. I would stop at the smallest sign of something going wrong.
+
+Slowly, I introduced the refined Qi inside my dantian. The first layer was the Demonic Qi, if it could successfully push through, then I was in the clear.
+
+However, if it couldn’t…
+
+As I thought about that, the refined Qi made contact with the Demonic Qi. At first, nothing happened, and the two seemed to be at a standstill, but then…
+
+The refined Qi crackled with life as it transformed into an ethereal lightning form, biting through the Demonic Qi like a hungry dragon.
+
+However, it couldn’t bite through too much by itself. Once I gave it more fuel in the form of refined Qi, though, things began to change.
+
+It turned from a fighting dragon into a fleeing dragon, piercing through the Demonic Qi cloud and grabbing the purified energy as its own. The more it ate, the more powerful it became, until finally it pierced through the cloud of Demonic Qi and struck my Qi Lake like an actual lightning bolt.
+
+The surface shook, but nothing more, and the aftermath resulted in its growing by a small amount. Although the Demonic Qi cloud didn’t decrease by a large amount, it didn’t advance. That meant that entering my dantian was its own downfall, and now it was nothing more than prey waiting to be devoured.
+
+I smiled using the illusion technique, and it probably looked more evil than I intended it to. I didn’t have full control of my facial expression, as it’s been too long since I had an actual face.
+
+That was also why I didn’t really show emotion when I spoke, though that wasn’t solely because I didn’t want to scare people.
+
+I opened my eyes, seeing that the little girl was still in the process of helping her brother. Since she was doing a good job, I left them and headed toward the Myriad Market. I still had a few things I needed to do.
+
+It was only when I was halfway through the way to the shop that I realised I’d forgotten the pills inside the cave.

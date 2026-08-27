@@ -1,6 +1,7 @@
 #!/usr/bin/env bun
 
 import { operationalError } from "../tools/lib/exit.ts"
+import { pageQueryOrigin } from "../tools/lib/page-query-client.ts"
 import { runCommitPoints } from "../tools/lib/daily-tracking/run-commit-points.ts"
 
 const HELP = `bun services/daily-tracking-points.ts — one daily-tracking points recompute
@@ -12,15 +13,15 @@ persona totals, engine totals, health totals and the session-points ladders.
 Every rollup recomputes a day from that day's own window and overwrites, so a settled day
 reads the same figure again and running this twice costs nothing but the time.
 
-Reads the code repository from disk. Nothing is cloned.
+Reads and writes Alan's pages through the page query service. Nothing is cloned.
 
 Environment:
   SUPABASE_URL               Supabase project URL (service-role target)
   SUPABASE_SERVICE_ROLE_KEY  Supabase service-role key
-  CODE_ROOT                  Optional; where the code repository stands
+  PAGE_QUERY_ORIGIN          Optional; where the page query service answers
 
 Usage:
-  bun ~/repos/instructions/services/daily-tracking-points.ts
+  bun ~/repos/akasha/services/daily-tracking-points.ts
   --help  This.
 
 Exit codes:
@@ -37,6 +38,7 @@ async function main(argv: readonly string[]): Promise<number> {
     process.stderr.write(`\`${one}\` is not an argument this takes — run it with --help\n`)
     return 1
   }
+  process.env.PAGE_QUERY_ORIGIN ??= pageQueryOrigin()
   try {
     await runCommitPoints()
   } catch (err) {

@@ -1,0 +1,95 @@
+---
+id: 0b665ff5-c043-5496-ac27-741c95aee05a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 674: Gains and Plans"
+slug: 0096-chapter-674-gains-and-plans
+partOf: system-change-system-universe
+position: 96
+ownLength: 2175
+unit: words
+publishedAt: 2026-08-06
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3779779/chapter-674-gains-and-plans"
+royalRoadId: "3779779"
+---
+
+Chapter 674: Gains and Plans
+
+Sitting on the bed and finally having a break to really go over everything and think, Derek pulled up his status sheet and expanded some of the stats so he could get an in-depth view. His gains probably weren't much, as he'd only really fought the giant bird and slain some smaller monsters that slipped past the others while he was guarding Brandi and Alex, but gains were gains.
+
+...
+
+Name: Derek HuntAge: UnknownLevel: 259Essence: 3% [+]Affinity: Void [-]                           Void Affinity: 64%Class: Mythical Void MonarchRace: Void Human
+
+Health: 56,625Mana: 53,275Stamina: 56,500
+
+Strength: 1,800Dexterity: 1,800Endurance: 2,260Vitality: 2,265Intelligence: 2,110Wisdom: 2,131
+
+Free Stat Points: 400Origin Upgrade Points: 10Skill Upgrade Token: 1Origin System Store Credits: 1,250,000
+
+Skills: [-][Absolute Nullify(B) Progression: 100%, Upgrade Possible][Bare Fist Specialty(D) Progression: 26%][Basic Repair(E) Progression: 42%][Chain Lightning(D) Progression: 100%, Upgrade Unavailable] [Channel Void(C) Progression: 100%, Upgrade Possible][Cleaning(E) Progression: 86%][Cure Toxin(D) Progression: 90%][Dismantle(E) Progression: 100%, Upgrade Unavailable][Enhanced Movement Speed(E) Progression: 34%][Greater Meditation(B) Progression: 85% ][Multi-Strike(D) Progression: 100%, Upgrade Unavailable][Polearm Specialty(E) Progression: 23%][Powerstride(D) Progression: 58%][Rejuvenation(D) Progression: 100%, Upgrade Unavailable][Resist All(A) [+]][Spatial Collapse(C) Progression: 59%][Spatial Redirection(C) Progression: 30%][Spatial Rend(B) Progression: 56%][Sweeping Slash(D) Progression: 100%, Upgrade Possible][Telepathy(D) Progression: 68%][Time Prison(C) Progression: 100%, Upgrade Possible][Veiled Sight(B) Progression: 7%][Void Call(B) Progression: 61%][Void Creation(A) Progression: 3%][Void Eclipse(A) Progression: 6%][Void Sense(C) Progression: 100%, Upgrade Possible][Void Shift(B) Progression: 91%][Void Steps(C) Progression: 100%, Upgrade Possible][Void Storage(B) Progression: 3%] [Void Travel(S) Progression: 2%][Whirlwind Slash(D) Progression: 68%]
+
+Titles: [-]
+
+Absolute Saturation Apex Appetite IDefenderDungeon Explorer IDungeon Traveler IEnforcer of Oaths IEnigma IEvolutionExplorer IGiant Slayer IVInvasion MVPMythicalPunching Up! IRepetitive Dungeoneer VThe Bigger They Are IThe ImpossibleTierbreakerUnityUnknown Slayer IWorld Boss II
+
+...
+
+As he expected, he hadn't gained too much from the last time he glanced at the sheet, but he could at least take his time to study it now. He'd finished off his level, though, and received another 35 free stat points, so that was something. With his affinity as it was, he could technically level as fast as he pleased and would probably be fine when he hit level 500, easily receiving an Ascendant rarity class. At least, that was if everything that Dave had already told him applied to him.
+
+He also increased his Polearm skill and Void Shift skill by a small amount during the fight with the agile bird. Void Shift was getting closer and closer to 100%, and he couldn't wait to see if he'd be able to upgrade it with what he already had or not. He kept looking forward to seeing 'Upgrade Available' instead of 'Upgrade Possible' or 'Upgrade Unavailable.'
+
+Derek's eyes lingered on his ten Origin Upgrade Points. Dave told me to save them and not use them on anything that I'd gotten in his system. His system seemed to be C-tier, I think? So, would it be a bad idea to use three of them on Greater Meditation to get it to 100%? It just moves up so slowly, and it's a skill that has been extremely helpful to me.
+
+One thing I do know, Derek thought. Void Creation, Void Eclipse, and Void Travel would all benefit from the points, and they wouldn't be wasted on them. Well... maybe they would be wasted since the early percentages grow a lot quicker than the later ones, but I'm not really in a position to train my void-related skills. I especially want to know what kind of benefits Void Creation and Void Travel will receive as I increase them.
+
+The last thing I want to do is wait until I've leveled all my skills to the max without ever using the upgrade points. That would just be tragic and a waste of time, Derek thought. I guess that, since it seems like I'm close to seeing Dave again—as long as he is in Origin City when I get there—maybe I can ask him about it all, and he will actually give me some real answers and advice.
+
+What Derek was really looking at, though, was his Time Prison. He obviously couldn't do anything with it currently since it was occupied by guests, but he had the Skill Upgrade Token he could use to force the skill to evolve. He honestly couldn't think of what he would need to do to upgrade it, but if he could use the token on it and make it usable safely inside the void, it would be a huge win.
+
+He also thought about upgrading his Void Sense or Void Steps with it. Void Sense was his navigation skill, and he couldn't help but think the upgrade would be needed if he wanted to travel between systems with Void Travel to find Alanah. And obviously, Void Steps was his main movement skill, and that would never hurt to upgrade. But Dave acted like all of these were such treasures that I don't want to just pull the trigger and regret it later.
+
+So, Derek's predicament was either to wait and possibly use his token or points too late, or upgrade and then possibly regret it later. In the end, his eyes stayed on Void Travel for just a little while longer, then he sighed and closed his status sheet. I'll at least wait until I get to Origin City. I don't want upgrading anything to cause a commotion while I'm here and draw attention to my void affinity. At least I'll be safe no matter what in Origin City—even if Dave isn't there.
+
+I just have to figure out what to do with my 400 free stat points. I don't necessarily need to spend them right now because none of us are in a place that should have any immediate danger, but I don't need to just hoard them, either, he thought. I wish I knew what the thresholds after 1,500 points in a particular stat were. If it's 2,500, then I could actually hit it in one of my stats—I think I would go with vitality over wisdom and intelligence, but endurance would also be a good choice. Neither of those stats have ever failed me. But if it's not 2,500 or if there aren't even any more thresholds, then it may be better to keep them balanced... I don't know.
+
+Derek shrugged as he thought about his stats. Finally, he figured that information would be easy to come by, so he didn't dwell on anything and kept his 400 points for the time being.
+
+After all that, Derek thought about making a very small opening in the space to check in on everyone in the Time Prison. However, it hadn't been long at all for them, so he was sure they were all okay. Plus, even though Tanya said he didn't have to worry about his privacy, he wasn't just going to throw all caution out the window. It's always possible that she's not telling the whole truth, or that she doesn't know that there actually are people spying on me.
+
+With the decision made not to activate any of his void-related powers—including the Time Prison, which wasn't technically void because it didn't have the chaotic energy aspect—Derek stood and walked over to the desk with the holo screen.
+
+Now, how do they do this? he wondered to himself as he placed his hand on the spot that looked like it could activate it. Sure enough, the desk scanned his hand, and the holo screen popped up in front of him. Nice! he thought. However, his excitement quickly vanished as the display informed him that he was not in their system and had insufficient login parameters as a guest.
+
+By that, it meant that he didn't have any Origin System bracelet that had ever connected him to anything, and he was just completely unrecognized. Looks like I'm going to have to buy that bracelet sooner rather than later, he thought as he removed his hand and went to the bathroom.
+
+Lucky for him—or unlucky since it meant he wouldn't be able to profit off it any longer—the bathroom had a shower. It was much better designed than the one he'd had made back in Cydaria. To his surprise, he was even able to turn the heat up high enough that it actually scalded his skin. He adjusted it a little lower, then took the best shower he'd had since before the system came to Earth.
+
+"The Cleaning skill has nothing on that," he muttered as he stepped out of the shower and looked into the mirror. What stared back at him was a familiar, but also unfamiliar face. He had no scars and no blemishes. His jawline was chiseled but not overly dramatic. His skin was just a little paler than he would have liked, but there was nothing he could do about that. After all, he wasn't really able to tan.
+
+He almost got lost in his own eyes. They were the same deep purple color as the void. At that moment, he was very glad that Dave had told him about the Velari and suggested he claim to be part of their race. There really wasn't much more that could explain the eyes away.
+
+His hair, which needed to be touched up a bit, was still his old coal-black color, except with a purple tint to it if one looked hard enough. Again, he was lucky that he'd been born with such dark hair. On any other hair color, the void purple hue would stick out like a sore thumb.
+
+Looking down, he saw his abs. They weren't the kind that gym rats went for—they looked much more functional than aesthetic. He had a solid natural six-pack without flexing, and when he did flex, that six-pack turned into an eight-pack. Honestly, his body's shape was his ideal form. The evolution back in the trials had really conformed him to exactly what he thought he needed to look like. He was a bit leaner than before the evolution, but there was nothing wrong with that.
+
+Did I get a little taller? he wondered to himself. He hadn't even thought about his height in ages. I'm probably six feet four inches now? Maybe even an inch or two taller. He didn't exactly have a tape measure, and he didn't care all that much. All that mattered was that his clothes fit him.
+
+Speaking of clothes, after hitting a button next to the mirror and being instantly dried, he put on a pair of blue jeans and a black shirt that Brandi had made for him. He then tossed on some socks and a backup pair of plain boots while his Starfury ones were out of commission. Finally, feeling somewhat normal and back to himself, he left the bathroom and went back to the bed.
+
+I guess that was a bit overkill, he chuckled as he removed the boots and threw his feet up on the bed. He put his hands behind his head and stared at the ceiling. It was finally time to get some real sleep.
+
+***
+
+On the training planet, a young man in a blue robe with white patterns ran. He had more of an irritated look on his face than a scared one. Beside him, a woman of similar size, but with an even more annoyed facial expression, jogged alongside him. On the arm of the man's robe was a crest. The crest was a sword wrapped in thread.
+
+"This is some bullshit!" the man huffed while he ran. "Who the hell killed the World Boss? How are we supposed to do anything with every damn monster on the planet going insane? This is supposed to be training and survival, not a damn horde dungeon. This is pointless! If I wanted to do nothing but farm essence, I could have picked any dungeon around to do it. If I find out which escort went out of their way to kill the World Boss, I'm submitting a complaint! And if it was one of our own, I'll be sure to have him removed from the clan and stripped of any achievements."
+
+"Yes, Young Lord," the woman running beside him said. "But what if it was not an escort who did the deed? What if it were a trainee like you?"
+
+"Impossible," the young man said. "I'm not saying that I or someone like me couldn't have done it. I'm saying they wouldn't have done it. There is no point in it, and it would be too dangerous for a trainee. Not to mention the fact that there will likely be many deaths because of this—especially with the sudden craze catching trainees and their escorts off guard."
+
+"That is true, Young Lord," the woman replied.
+
+"That's it," the young man said. "Take out the teleportation plate. We're going home to report this. Something weird is happening. I couldn't care less if I fail this bullshit training exercise. Only an idiot would be willing to stay on a planet like this with monsters acting like these."
+
+"Yes, Young Lord," the woman said, and then they stopped moving. A few moments later, the two vanished from the planet.

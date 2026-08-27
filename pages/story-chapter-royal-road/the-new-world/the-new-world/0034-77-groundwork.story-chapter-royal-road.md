@@ -1,0 +1,293 @@
+---
+id: 1fcac8d7-b3e1-5216-9d9f-73b1f8d1dc9b
+page-type-slug: story-chapter-royal-road
+title: "77 Groundwork"
+slug: 0034-77-groundwork
+partOf: the-new-world
+position: 34
+ownLength: 5371
+unit: words
+ownProgress: 5371
+publishedAt: 2017-11-16
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/174715/77-groundwork"
+royalRoadId: "174715"
+markedReadAt: "2026-06-29T21:21:55.843Z"
+---
+
+I turned to the elder, “Alright, I’ll kill it.” I pointed at Hod, “I’ll need his help for training though.”
+
+Jass tapped her cane, “Done.”
+
+Hod turned towards the elder then towards me, “Why does Harbinger want Hod? Hod not able to kill Drikah.”
+
+I shook my head, “Sure, but you do know how to use those hooks of yours. I have something very similar that I’m needing to master. I’ll need you to teach me how to use them.”
+
+Hod put his taloned hands on his hips, “Hod help how Hod can.”
+
+“Good.” I turned to the elder, “I’ll get to it then.”
+
+I turned, walking away. Before we left, Althea walked up and asked Jass, “Where does the water come from?”
+
+Jass pointed upwards, “From the ancients and their cryptic language. How they do such a thing, I will never know.”
+
+Althea nodded, “Thanks. It’s safe to drink then?”
+
+Jass laughed, “Hah, child, it is the only water left to drink. It does us no harm if that eases some of your concerns.”
+
+Althea jogged towards us, waving by, “It does. Good luck with whatever it is you’re doing.”
+
+Jass grinned, “May the corruption never take you.”
+
+Hod, Althea, and I sprinted back towards the passage. I didn’t use gravity or telekinesis this time. I just ran since it was faster. Once we reached back up the caverns and back to the ruins, I called Hod over towards one of the more open areas.
+
+Around us, the orange lamps hung over head, the gems buzzing. The ruins towered over us towards my left, the odd shapes making a strange background. The wind whistled through the cavern, complementing the beams of light.
+
+With the cool stone underfoot, I walked up to Hod. One of the biggest probles with using gravity for flight was the difficulty of keeping the well in front of me. I figured that making and destroying wells would make this process simpler. Hod's hooks worked a lot like that.
+
+Drawing from his experience, I asked, “Here’s what I need. You know how you use your hooks right?”
+
+Hod nodded, “Hod know very well. Hod use them all the time.”
+
+I spread both my hands to him, “I have a method of movement very similar to it. Could you teach me how you swing and use momentum with those hooks?”
+
+Hod shrugged, “Hod not see why not. Hod teach you tricks.”
+
+He walked up to me, slapping the hooks at his sides, “Hod first tell you basics. Hooks work better when pulled near center. If you pull from top or bottom, you not move how you want to. You lose balance. When balance lost, head end up hitting rock.”
+
+Hod grabbed his head, squirming around like he was in pain, “Head hitting rock is bad. Very bad.”
+
+Hod stood up straight, “Harbinger may think Hod speak this way because Hod hit head. Not true. Hod tell story. Hod child of two seekers. Both seekers deformed. Hod end up deformed at birth, not from hitting head.”
+
+I frowned. Hod slammed his chest, “Hod want Harbinger to know it no longer hurt Hod’s feelings. Hod learned something long ago.” He opened a hand to me,
+
+“Hod not strong in head, but Hod strong in heart. A strong heart will give good friends. That how Hod friends with villagers, even when other seekers are shunned.”
+
+He turned towards the ceiling, “Hod end story. Back to training. See roof? It like new ground when hooked. Remember, just because you have a new ground doesn’t mean the old ground is gone. It still pulls too. You must use both grounds to get where you need to go.”
+
+I raised an eyebrow, “You mean the old ground as in gravity?”
+
+Hod tapped the sides of his head, “Hmmm…Yes. Gravity still work from old ground. It pull you in, even if you get pulled away by hook. Whatever it is that pulls you, make it pull from your center. Keeps you balanced.”
+
+I pursed my lips, “I’ll give it a try.”
+
+I walked away from him, shaking my hands as I prepared myself. Burning a bit of ascendant mana, I created a gravity well above me. I ran and jumped up, making me fly towards the well. I reached out an arm, acting as if I was holding onto a rope. The gravity of the planet and the well fought over me, shifting the curve of my jump.
+
+I reached out another hand, lowering the other one. As I did, the first gravity well dissipated and another formed in front of me. I kept it lower this time, like I was shooting out a grappling hook to another wall. The force pulled me forward, burning a morsel of mana. I approached it before creating another orb in front of me.
+
+After about an hour of trying out this technique, I gave up. Creating dozens of orbs for flight was just too damn hard. I needed another way of using it. I left Hod to do whatever it is he does, intent on finding another way of using the gravitation.
+
+So far I created spheres of gravity. They pulled in from any angle and any side. This dispersed the gravity’s pull, meaning I couldn’t get much out of it. Using it more efficiently was the key to my success. Thinking up some other way of using it, I planned out a few theoretical techniques.
+
+The first idea was making panels of gravity. Instead of the gravity pulling from all sides, it would pull from a single angle. If I got a hold of this technique, kiting the gargantuan worm wouldn’t be impossible. I needed more mobility, and that wasn’t coming from telekinesis or just running around.
+
+I focused on creating a gravity well. I tried flattening it out, but the damn thing wouldn’t respond. After a few more minutes of trial and error, I found that spinning the well caused it to stretch out into a disk. Once fully stretched out, I threw the gravity disk towards some water. It moved without the same resistance that wells had.
+
+Once the gravity disk hit the water, weird stuff happened. The sharp side of the disk led towards the target, floating without any pull from the side. Once the disk hit the target, the flattened upper and lower parts of the well pulled from above and below. This pulled water before the disk dissipated. The water collapsed into the sunken in spots a second later, resulting in the water flopping. The next time, I sent out a much larger disk of gravity, one that required some mana to create.
+
+I launched it towards the water, and the larger disk created the same collapse in the water. This time, the water dipped down before spiraling into a whirlpool. The whirlpool dug deeper into the pool of water before the disk dissipated. The dip in water crashed back in, creating a sudden spout of water.
+
+Data Upload Complete. Gravitational Vortex(lvl 1) – By spinning a gravity well at high speeds, you create a flattened, two dimensional circle of gravity. +1% gravitational force of gravitational vortexes. +1% sheering of gravitational vortexes.
+
+Raising my hands in triumph, I thought of a way of using my new skill. It would be situational under most circumstances, but something like this might be useful. An idea sparked in my brain like electricity.
+
+I created another well of the gravity. I spun it, turning it into a flat vortex at the front of my fist. With a bit of effort, I tightened the spin, condensing the edges of the vortex. The vortex compacted further, reinforcing the power of the spin.
+
+Following up on my idea, I placed the disk over my left fist. Walking over towards a rock, I stomped my heels and shot out a punch towards the rock, keeping the vortex aligned with my knuckles.
+
+The disk pulled my fist into the rock and pulled the rock into my fist. When my knuckles landed, the vortex spun my wrist and the rock. Since my armor was so dense and hard, this pulling and twisting enhanced the destructive impact of my punch dramatically. Like a cannon echoing through the cavern, my fist destroyed the rock with ease.
+
+I laughed like a maniac at the result. Mastering this technique and combining it with my telekinetic augments would give my punches even more oomph. I lifted my other fist, walking up to another rock. I placed another disk of gravity on my hand. This time I fired a compact hook into the side of the rock. When my fist landed, I stopped my wrist forearm from twisting.
+
+This made the rotational force of the gravitational disk transfer into the boulder. Responding with explosive results, the boulder disintegrated. I pounded my fists together, laughing at a new rush of power. This would be the key to my next mythical skill, I was sure of it.
+
+Combining the free pull of gravitation with the telekinetic augments, and topping it all off with the ascendant mana boost. It was a recipe for destruction.
+
+Even better still, the skill would work seamlessly with Boundless Storm. Boundless Storm let me beat foes in close range with my sheer technical prowess. This combination of skills would result in a monstrous offensive potential loaded into each and every punch.
+
+With that tenacious desire fueling me, I cut out the other aspects of my training. The runes could wait. I wanted my fists to blow shit up. All the constitution I stacked would come into play, allowing me to control my targets and decimate them at the same time.
+
+Over the next two weeks, I practiced with the gravitational vortexes. Each punch required a new vortex to fuel them. That meant making them had to be instinctive, like a reflex at the end of each punch. I trained the technique relentlessly, drilling it into my head. By the end of my impromptu bootcamp, and two breakthroughs, the vortex skill was already level 67. With that level of mastery, I gained a unique skill for all my efforts.
+
+Data Upload Complete. Unique Skill gained! Gravitational Augmenter (Apply gravitational augments even at full strength. Do so without needing mana.) 100 tree points rewarded for learning involved.
+
+Gravitational Augmenter (lvl 1) – Others yield to the perpetual pull of gravity. You mold it into the core of your being. Enhances force and shearing from gravitational augments with level. Increases ease of use with level.
+
+With the new unique skill at my disposal, I began using the gravitational augments with the telekinetic augments.
+
+The two opposing techniques molded into a cataclysmic force. The augments amplified the force of the new vortexes in a way I never intended. You see, whenever my fist hits a telekinetic panel, the force bounces into it, transferring the force into a smaller surface area. As a result of that, my fist bounces back after landing on the pads. The gravitational vortex pulled my fist into the attack, resisting that backwards bounce.
+
+That further enhanced the force of my attacks. My fists actually bounced back with greater force than before. The extra pulling in helped control the recoil however. As a result, my fists caused shit to explode, and there wasn’t an unrealistic blowback. I could launch another strike immediately after desptie this enhance recoil, letting my chain my strikes together.
+
+The combination resulted in rapid flurries. I doubled my volume of hits, and they in turn doubled in lethal force. The synergistic effects turned my fists into lethal weapons. The best part was that I didn’t need mana for the techniques either. If the telekinetic augments didn’t exceed my strength, then telekinesis costed no mana. If the gravitational vortexes didn’t exceed my weight, then they cost no mana either.
+
+This freed me up to surge my ascendant mana through my runes. Learning to do all three at once took a long damn time though. Weeks faded into months, the training and time outside it an afterthought. During this time, I cherished my meals and evenings with Althea and sometimes even Hod.
+
+I taught Althea the Tactile Cognition skill, figuring she’d use the unique skill well. The resulting payoff was massive. During one of our more intense training sessions, I used my new gravity punch skill. It countered Althea to a ridiculous extent. Even her cloud form couldn’t do anything because the vortexes on my fists made her solidify.
+
+Of course I kept the punches light, not wanting to kill her. Althea saw through my restraint, making her frustrated. She combined her strength and speed with her stealth, making her hits overwhelming. Even against my tanky stats, she did sizable damage. After that, she began running and using her stealth to disguise her presence.
+
+Every time I came close to her, she would snap in a few strong strikes before dashing away. As she ran away, she fired shots from her rifle. Combined with her stealth, and I struggled dealing with the style of combat. Once I believed she might even be able to beat me with it, she collapsed from exhaustion. Once I walked over and helped her up, she grinned with sweat pouring down her face,
+
+“I got it.”
+
+I raised an eyebrow, so she raised both hands while screaming, “I got a mythical skill!”
+
+I ran up and picked her up by her waist, spinning her around. I shook her over me as I shouted, “Hell yeah. That’s what the fuck I’m talking about!”
+
+She and I jumped for joy, each of us ecstatic at our newfound spikes in strength. It was one of those moments you can’t help but smile when you remember it. By the time we settled down, she and I were chatting away about the daily game. That’s something I noticed since coming here. Althea and I had grown closer.
+
+It wasn’t awkward to sit beside her and just think anymore. She was someone I could just exist and be comfortable around. That wasn’t easy to do either. I’m a jumpy guy, and I don’t trust easy. The fact I could let my guard down around anyone was a breath of fresh air. A part of me hoped it was the same for Althea as well. She deserved somebody like that in her life.
+
+Still, I didn’t let it steer my training off track. Twenty hours out of each day were dedicated to training. If you think about it, it was like I was training 3-4 times faster than a normal person. Combine that with the rift’s time dilation, and I might as well have been in a hyperbolic time chamber.
+
+Althea progressed even more than I did, at least relative to where we started. She didn’t know much about her powers and only had one unique skill at her disposal at first. Now she had a mythical skill, one that complemented her powers to an extreme extent.
+
+We weren’t alone though. Hod visited us often. Dull as he was, he offered some insight into the Drikah’s biggest weaknesses. The worm would jump out of the sand, open its mouth, swallow something, then dive back in. It never bit into its prey. The Drikah closed its mouth then let the pressure of the surrounding sand kill its target. Since it dived thousands of feet into the sand, that meant the pressure could crumple metal with ease.
+
+Fighting it head on without Althea’s help was pretty much impossible. Instead, I would kite it while using guerilla tactics. After evading its bite, I would strike it with an attack or two while covering it in oppression. Once it disappeared, my health and stats would regenerate. By the time it came back, I could dodge then unload yet another massive strike into it.
+
+I doubt my hits would do substantial damage, but over time I could whittle it down. The main problem came with doing enough damage and being able to kite it. With that in mind, I homed in on finishing my new mythical skill.
+
+Another month passed before everything clicked. During one of my training sessions, my runes were blazing. My augments, both types, were on point. As I shifted my steps, even the most complex patterns of movement came with intrinsic ease. No more struggling to use them together. They blended into an orchestra of calamitous havoc. With their fluid use in conjunction, I learned another mythical skill.
+
+Data Upload Complete. Mythical skill gained! Fuses the three unique skills, Ascendant, Gravitational Augmenter, and Telekinetic Augmenter into a single skill, Volatile Carnage. Gives half of missing tree points from skill fusion. 121 points rewarded.
+
+Volatile Carnage (lvl 1) – You spent your life governing the forces of this world. Now you turn them towards destruction. Increases efficiency and ease of use of augmentations from mana, telekinesis, and gravity. Enhanced by strength, constitution, and physical damage reduction.
+
+I tested the new skill, enjoying the sudden rush of clarity. Before I gained the skill, I relied on my enhanced dexterity and willpower to carry me. The motions were just too difficult to do without them. Calculating each augment, chaining them together, using the right amount of mana for my runes, it took a lot out of me.
+
+Now it was effortless. There was no need for calculation. There was no need for chaining them together. They flowed from my fists like a river made of mayhem. I could focus on using boundless storm with the skill now, making my movements evolve. From simple jabs to complex maneuvers, I dashed and ducked, weaving in strikes.
+
+Distancing myself, assessing range, all the intricacies involved in close combat came together. After enjoying the new skill for a bit, I walked over to Althea. Since my training, she’d developed a unique skill of her own that involved flight. While not enhancing her power by any at all, it turned her mobility from good to excellent.
+
+Instead of turning her arms into wings, she grew extra wings from her back. This gave her the option to fire in mid flight, but it increased the difficulty of the maneuver. In my own case, I tried using the gravitational vortex for flight. It didn't work out so well.
+
+The gravitational vortexes pulled much more of my weight than the gravity wells did, about half of my weight. It took a lot of mana to make up the difference. Adjusting the vortex to counteract gravity while pulling myself forward was intensely complicated too. Combining it with telekineses made the process better though.
+
+It just wasn't as effective as true flight. As I walked up, Althea's new, muscled wings wrapped around her as she rested. When she glanced up at me, she grinned,
+
+“How’s it going Daniel? Sounds like you’ve been trying to break the world over there.”
+
+I shrugged, “Eh, just trying to figure out how to hurt the worm. I think I got it now. Unfortunately, I don’t know how to keep my distance. Sucks.”
+
+Althea frowned, “Ah yeah, you can’t just sprout wings and fly. Why not use that telekinesis and gravity magic? I thought that would work out.”
+
+I shook my head, “They’re both great to help enhance movements, but they both suck at helping me do entirely new stuff. Flying with telekinesis is more trouble than it’s worth. Same with gravity.”
+
+Althea narrowed her eyes, staring forward. I walked over and sat beside her. I leaned my elbows against my knees, “Something wrong?”
+
+She shook her head, “Nuh uh, just thinking.” After a moment, she glanced at me, “Why not try the opposite of flying?”
+
+I leaned back, raising an eyebrow, “What do you mean the opposite of flying?”
+
+She stared forward, away from me again while raising two hands, “Think of it like this. Why can I fly through the air?”
+
+I glanced up, “Hmmm. You have wings.”
+
+She shrugged, “You could probably make wings with your armor too. That's not going to let you fly though, is it?”
+
+I cupped my chin, glancing back down, “Touché.”
+
+I racked my head for a minute before slapping my left fist against my palm, “It’s weight.”
+
+She nodded, “You’re just too heavy and too dense to fly. You must weigh ten times more than me at least. The air above us, it’s light like me, so I can use it to fly.” Althea pointed down, “The ground though, it’s too hard for me to claw through. Once I’ve dug a bit too low, I end up choking on the ground.”
+
+She poked one of my armored shoulders, “Why not try to master the ground and I’ll master the sky. We’ll be like a dynamic duo or something.”
+
+I thought things through for a bit. I already had the burrowing skill, and my armor and weight helped with it already. When fighting Bloodbull, I made my armor burrow me away from them. It’s why I survived in fact. Instead of fighting against my weight and density by flying up, why not work with it and dig down?
+
+I couldn't come up with a decent answer against that question. It made things clear. I stood up, “Hell yeah. That’s brilliant.” I turned to Althea, clasping a fist, “That’s what I’m talking about.” I ruffled her hair, making sure I was gentle and didn’t hurt her, “Miss mopey over here has a trick or two up her sleeve, eh?”
+
+She slapped towards my hand, but I lifted them over her. I stood two feet taller than her now, so it was easy. She threw a couple more playful swipes towards me, trying to grab my hand. I sidestepped and outdid her attempts to catch me. She feinted with one hand before flapping a wing behind me.
+
+It caught my back, letting her pull me forward. She jumped up and grabbed my left hand with her right. I sighed, “Fuck. Alright, you got me.”
+
+With a glowing grin, she raised her left hand in victory, “Yeah, alright. Take that, Harbinger.”
+
+She unwrapped her wing and let me go, popping back onto her feet. Even when gripping my hand, Althea’s strength amazed me. Whatever perk she had for it, it must have at least doubled hers. That was a good thing since she’d need to eventually kill a tree monster that was much stronger than me.
+
+As if replying to my thoughts, Althea shook out her right hand, “Your armor is so hard. It makes rocks feel soft.”
+
+I nudged her, “I was just thinking you gripped my hand too hard. Anyways, when do you think we should leave? Once I kill the worm, I’m thinking we’ll only need a few hours.”
+
+Althea deflated before trying to look casual, “Uh, let’s take our time. No need to rush, right? We’re facing Yawm here. He’s a lot stronger than that sandworm anyways.”
+
+I shrugged, “Hmmm.” As I considered, Althea looked closer, as if waiting for my answer. I held her in suspense for a moment before smiling,
+
+“Maybe killing a few more sandworms would be a good way to close the gap in levels. We can stick around for a while.”
+
+Suppressing a grin, Althea waved at me, “Yeah, that sounds like the right thing to do. I have to level some too. We can’t just run back to Torix with the same levels as we had coming in. Can you imagine the look on his face?”
+
+I stood up straight, sticking out my bottom jaw and lip, “Oh, why hello there. It’s good to see you two didn’t even gain a single level during your training. I suppose they changed the definition of the word while you were out. Excellent work in keeping with the times. Just majestic.”
+
+Althea giggled at my Torix impression before I clapped my hands together, “Yeah, fuck that. Sounds good to me. I’m going to try and come up with some crazy burrowing move. Good luck with your flight stuff.”
+
+As I turned to walk away, Althea waved, “Sure thing. We’ll eat lunch later though?”
+
+I nodded, “Of course.”
+
+I paced off before finding an empty slate of stone nearby. Not too hard with how large the cavern was. I dug into the stone, clawing with my hands. The stone relented to my gauntlets and fingers. It was like ripping into a brittle gel whenever my ascendant mana pulsed through my runes. I burrowed at a reasonable rate like this, but it wouldn’t be near fast enough to escape the worm.
+
+Molding my armor, I created armor spikes from my hands. As the spikes pulled the rocks from in front of me, they pulled me forward. Each spike pierced into the stone then picked it apart towards my side, opening a path for me. In order to move forward, I pushed with my feet. It wasn’t the most efficient kind of movement though. To move fast, I needed to trim the fat off this style of movement.
+
+With that goal in mind, I changed my armor a bit. A couple spikes reached off my shoulders, back, and helmet. They kept catching on the stone. To stop that, I molded my armor into a smoother, thinner form.
+
+Working further into that, I made my head end in a sharp point. After that, I created long claws at the edges of my fingers. Sure, I looked ridiculous…ridiculously effective that is.
+
+Awful jokes aside, I dived into the ground this time. As my head hit the stone, it cracked. My armor grew from my horned helmet, tearing through the ground. As it did, I pushed myself forward with my arms and legs. At this point, I moved as quick as a light jog. Nowhere near fast enough to escape good old sandworm guy.
+
+So, I launched myself out of the ground and brainstormed for a minute. This time before I burrowed, I made a gravitational vortex at the top of my head. Whenever I dived into the ground, the pulling action was enhanced by the gravitational pull.
+
+The vortex dissipated with a quick jolt, spinning me forward. I wormed my way through the stone, my armor cracking and cleaving it the whole way.
+
+I was booking it now. Unlike when running, I had something solid for my gravity vortex to pull me into when burrowing. The air didn’t give enough resistance, making a wind tunnel whenever I made the gravitational vortex to pull me forward.
+
+The hardest part of either process of keeping the vortex in front of me. Whenever the vortex pulled the same amount of weight on both sides, then moving it was much easier. Flying through the air lacked meant one side was weighted down and the other wasn't. The rocky ground gave the grip my vortex needed so that I could move it with ease.
+
+I needed more speed though. At this point, I crawled through the earth damn fast. I didn’t need damn fast though. I needed ultra fast. This time when I went to burrow, I created telekinetic pads beneath my feet. Each time I stomped into them, I transferred that force into plates above my head. These new plates were smaller with reduced surface areas.
+
+It was the same bullet technique I used for my fists, just tweaked a bit for traveling through the ground. With it, the ground above me offered almost no resistance. This telekinetic stomping destroyed the ground utterly, shooting me forward. The gravity vortex kept pulling me towards the broken ground, speeding me up further. During all that, I used my arms for adjusting the direction of my descent.
+
+It was like I was swimming through the ocean, except the ocean was made of solid stone. Awesome.
+
+Data Upload Complete. Unique Skill Gained! Fuses the skills Burrowing, Gravity Vortex, Soul Forging (Armor Molding), Telekinesis, and Stomp into the unique skill Earth Glider. Total tree points possible for fused skills, 500. Total earned from fused skills, 186. Half of unearned tree points are rewarded, 157.
+
+Earth Glider (lvl 1) – Most swim through the air and through water. You laugh at their limits, choosing to swim through stone. Allows the user to swim through solid materials. Enhanced by constitution and physical damage reduction.
+
+I dug around for a while, relishing in the new skill. It didn't leave tunnels or anything either. It was like I was sliding through the ground by churning it up then sliding through the mush. This let me use the the skill without causing cave ins.
+
+Practicing that skill took priority. Over the next few weeks, I practiced the skill with my other kinds of combat. The first hurdle came from changing my armor quickly. To make the most of the skill, I needed to jump in and out of the earth all the time. Shifting the form of my armor took a bit of thought and practice, making the transition difficult.
+
+The next step was learning to jump into the ground. In other words, digging with my feet first instead of my face. I couldn’t maintain decent speeds like that, but hiding in the ground quickly was invaluable. I could already imagine it. Some monster bites at me, but I jump backwards and slide into the ground. They bite into thin air before I shoot back out, slamming them in the face with a hard punch.
+
+Once I learned that, I worked on the transitions of the skill. Jumping in and out of the ground, all while swapping the form in and out for my mythical skills. While not quite perfect, I had enough fluidity that I didn’t need to spend seconds transitioning anymore. The true test would be seeing if it worked in sand.
+
+With that in mind, I crawled outside the cavern wall. Once under the red sky, I glanced at the sea of sand around me. Glancing back at the mountain, Hod fiddled on a patch of runes near the mountain. From the runes, water materialized out of nothing. The eldritch runes worked like that, casually breaking the laws of physics.
+
+I shouted, “Hey Hod, can you help me out with this for a minute?”
+
+Hod stood straight up, glancing around till his masked face met mine. He grabbed the side of his head, “Hod not know if he can help, but Hod will try.”
+
+Using his hooks and wings, he dived down the mountain. Reaching me in seconds, he landed onto the ground near me. His talons crushed the stone beneath him. He was a surprisingly powerful creature, despite the way he acted.
+
+I pointed at the sand, “I’m going to try and dig through the sand. I need you to save my ass if it doesn’t work out and the sand worm comes.”
+
+Hod walked over, gripping my shoulders and lifting. With a bit of strain, he lifted me off the ground slightly. I raised an eyebrow, “What are you doing?”
+
+“Hod seeing if Hod can lift Harbinger.”
+
+He set me down, wiping a bead of sweat from his brow, “Hod can handle it.”
+
+I frowned, “You sure? I can just go snag Althea-“
+
+Hod brandished his hooks, “Hod use hooks. Hod carry harbinger out with ease.”
+
+I shook my head, “You know what, I think it’s actually dumb as hell to put my life in the hands of an acquaintance. I don’t know what came over me. I’ll just get Althea to help me on this one.”
+
+Hod’s shoulders drooped, “Daw. Hod disappointed, but Hod understand.”
+
+After getting Althea to come out and watch over me. I prepared myself for the dive. At the edges of the mountain, a steep cliff around a hundred feet(thirty meters) tall towered over the dunes in the distance. I stood beside it, rolling my shoulders and cracking my neck.
+
+Althea had her wings at the ready, just in case she needed to fish me out. Hod stood with his hooks ready as well. I sighed out my worries, knowing they could help me if things went sour. Like pulling out a tooth, I ran and jumped off the cliff.
+
+It was time to see if I could dodge the King of Drikah.

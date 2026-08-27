@@ -1,0 +1,143 @@
+---
+id: cdccc82c-8391-5d27-8e66-2d7c5e7fddeb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 94 – I Didn't Want This"
+slug: 0094-chapter-94-i-didnt-want-this
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 94
+ownLength: 1809
+unit: words
+publishedAt: 2026-03-09
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3132054/chapter-94-i-didnt-want-this"
+royalRoadId: "3132054"
+---
+
+Die already, you stupid shapeshifter!
+
+Cee, along with Morgana's crew, was working hard to bring down the stubborn shapeshifter. Honestly, it should have been dead at least three times by now. The cave floor had pools of its green ichor, and it kept leaking more of it.
+
+Yet despite that, the monstrosity refused to die. After being caught in Cee's webs for the second time, the crazy thing opted to tear its skin off to get free. The sight was absolutely gruesome, and the moment it was free, the shapeshifter turned to look like Liora, except with her feathers half-plucked out.
+
+Boy, was Cee glad that Liora wasn't here to witness that horrid display. The half-plucked chicken look certainly did not suit her. It was also messing with the shapeshifter's ability to fly. The creature tried to reach for Cee and grab her, but the spider just jumped away.
+
+She deliberately landed near Morgona, so when the shapeshifter followed her, the Pillar of Azure Helm would have a clear line of shot. Morgana took the opportunity instantly, shooting a lightning bullet at the half-plucked bird.
+
+It shifted into the wyvern, its scales deflecting the shot without much issue. But this form wasn't perfect either. A good third of its scales were missing, leaving a raw-looking skin, and one of the wings had its membrane torn.
+
+The wyvern landed clumsily and ran in Morgana's and Cee's direction. Cee jumped and activated her Shadow Walk to hide completely from the wyvern. The crew would keep it busy while Cee sneaked to a remote corner and began weaving her new sigilthread, forming it into the classic spiderweb pattern.
+
+She managed to hide two of them while Morgana was keeping the shapeshifter busy. After a while, it did finally see Cee and rushed towards her as some kind of half-dinosaur, half emu thing. It was hard to tell what it was supposed to be with the damage it had sustained.
+
+The point was that as soon as it got close, Cee sent mana into her sigils, thus detonating them and dealing even more damage to the shapeshifter. Rubble and rock flew at it, striking its sides as it shifted into the giant worm again.
+
+The worm was thrashing around wildly, seemingly trying to squash Cee with its bulk, but it wasn't a problem for her to jump out of its way.
+
+"I tire of this game! Let's finish this," Morgana called and ran straight at the worm while constantly shooting bullets at it.
+
+Cee had no clue what she was trying to accomplish. The bullets weren't doing anything. Or so she had thought at first, before she noticed that Morgana was aiming for the spots where the worm had torn its skin off. Each bullet was bringing closer and closer to death.
+
+But as more bullets struck their target, the worm began thrashing almost maniacally. Something was wrong with its behaviour. It was then that she noticed that the dark ooze was seeping out of one of its wounds, spreading further and further. The damned thing was becoming corrupt.
+
+"We have to kill it! It'll corrupt!" Cee screamed in her spidery voice, talking to the humans for the first time.
+
+To their credit, their shock at her speaking was very brief.
+
+"We're going all in! Hold nothing back!" Morgana yelled, and her pistols began to glow.
+
+Cee wove her webs as quickly as she could and began jumping from place to place around the thrashing, corrupting worm, to try and contain it. The first few threads snapped without an issue. But the more webs she got out, the stronger they held.
+
+Unfortunately, the corruption was also spreading, quickly enough to be noticeable. This thing didn't seem to have the same kind of willpower as the badger who had held the corruption at bay much more consistently.
+
+"You owe me a new lance captain!" The lancer announced as she ran towards the thrashing worm. He jumped high, his lance setting itself ablaze, and threw it straight into the beast's mouth.
+
+The worm screeched when the flaming lance hit it and switched into its wyvern form, lance protruding out of a hole in its neck.
+
+"Storm of Arrows!" The archer yelled to give everyone a warning. Mostly for Cee.
+
+She instantly jumped away from the monster and watched as a barrage of arrows rained down on the wyvern, out of seemingly nowhere, and tore its wings into tatters.
+
+It screeched and shifted again, this time into a rhinoceros. The lance got broken during the transformation, but most of its back was covered in painful arrows. The corruption had completely consumed its lower half at that point.
+
+"Go take a nap! Rock Strike!" The swordsman yelled, running towards the rhino with his giant sword. Rocks suddenly flew at the sword, surrounding it and turning it into a giant rocky club.
+
+It wasn't a pleasant sight, watching the swords smash the rhino with such intensity that half of its skull caved in. Ichor and gore went everywhere, and the shapeshifter switched again. This time it didn't take a solid form. Rather, it looked like goo that had been dragged through mud, rocks, and all sorts of trash. Most of it was swallowed by the purplish corruption ooze.
+
+"Goodnight!" Morgana said, her pistols glowing bright blue with energy.
+
+The blast that came from the was so strong, Cee could feel it while hiding a good distance behind Morgana. It looked pretty much like the giant blue beam of energy the anime characters used to destroy planets.
+
+The poor thing didn't stand a chance. The moment that overbearing blast hit the shapeshifter, it was reduced to atoms. Corruption or not didn't matter. It was just gone. Erased from existence.
+
+[You've assisted in defeating <Skinweaver – Level 45>. Experience gained.]
+
+[You've reached Level 12.]
+
+Holy shit! I gained so many levels from that one monster! Just which tier was that thing?
+
+Cee realized that it was Morgana who was the real monster. What even was that crazy blast? No wonder she was confident in defeating whatever the fuck was going on here.
+
+"Okay, that's one thing dealt with," Morgana announced, putting her smoking pistols back into the holders at her waist.
+
+"Captain… What about Elric?" The archer asked, tears in her eyes.
+
+Cee looked at the place where the shapeshifter had been. There was nothing really left of it, so the mage that it swallowed was likely gone with it.
+
+Morgana walked up to the woman. "I'm sorry. If it were some other monster, then there might have been a chance of pulling him out. But you know that shapeshifters digest things almost instantly."
+
+The woman broke out into tears, and Morgana patted her head consolingly. "We avenged your brother. He'll be able to rest easy, knowing that. And we'll be able to rest easy that there won't be a shapeshifter walking around, wearing his skin."
+
+"Yes… You're right…" she sniffed.
+
+Cee looked at the scene. Something within her stirred. Some deep, forgotten pain that gnawed at her heart. For a moment, she tried to reach for the memory. She could feel it was a lost part of her old life. But the more she tried to recall, the stronger her head hurt.
+
+When it felt like her head would just split open, Cee gave up. Either she couldn't recall it, or something was deliberately blocking her from remembering. In either case, this wasn't the right time for being sentimental.
+
+"Bird!" Cee said, pointing at the tunnel.
+
+"I can't believe the spider can talk too…" The swordsman said.
+
+"Yeah, it did seem more believable when only the bird could do it," Lancer added.
+
+"We have no time to decipher why these two can talk. We have to go help the bird before the mage turns it into roast chicken."
+
+Seeing that they were following, Cee jumped ahead, making as large leaps as the cramped space allowed her. There was blood along the tunnel floor, and she desperately hoped it wasn't Liora's.
+
+Following the blood trail, Cee was initially horrified to run into a decapitated corpse of the tattooed mage. Had Liora done this? It somehow seemed too brutal for her…
+
+"Okay, the bird seems to have dealt with this one without issues," Morgana nodded approvingly.
+
+"Remind me not to get on its bad side…" the lancer muttered.
+
+They kept going until they finally found Liora. She was sitting on the cave floor with dropped wings, one horribly mangled woman's corpse some distance away from her, and an equally badly mangled man's corpse right in front of her. For a second, Cee feared that Liora was dead too.
+
+She jumped up to her, afraid that her body would be limp too. But that wasn't the case. Liora didn't have a single injury, but there definitely was something wrong.
+
+"Liora, are you alright?" Cee poked her gently with her front leg.
+
+"I'm fine," she spat in such a way that indicated that she was most definitely not fine.
+
+"What's wrong with the bird?" the lancer asked. "Is it injured?"
+
+Morgana walked over to them, forcing Cee to scuttle some distance away. She crouched down, peering at Liora.
+
+"You don't look injured. What's wrong?" She questioned.
+
+"I didn't want to kill people…" Liora muttered in a barely audible voice.
+
+Cee understood Liora now. She had killed these mages in cold blood. They undoubtedly attacked her, and their nefarious plans left no room for doubt that they deserved the fate they got.
+
+But Cee could understand why Liora felt so downcast about it. Killing humans… was wrong on Earth. This rule had been drilled into them so thoroughly that even being reborn as a monster, they still upheld it religiously. Cee didn't know whether she had done what Liora did, even if it was necessary.
+
+"Now that's an oddly human thing to say…" Morgana said and reached out to pat Liora's head.
+
+For a moment, Liora just stood there numbly, but after a moment, she scuttled closer to Morgana, until the woman pulled the bird into a hug of sorts. "There, there. This doesn't make you into a bad bird. It had to be done."
+
+"Have you killed people before?" Liora asked.
+
+"I have, and I hate it when I have to do it. I wish people weren't such huge shitheads that killing them is the only option left. But whatever these guys were trying to do, it couldn't be allowed to happen."
+
+"Uh… Captain, not to interrupt your sweet moment, but the miasma is getting stronger!" The swordsman announced.
+
+"What?! Shit! I thought it would be gone since both the mages and the monster are gone," Morgana swore.
+
+At that moment, Cee saw a spark appear in Liora's eyes. She flapped her wings and flew out of the tunnel, straight into the miasma.

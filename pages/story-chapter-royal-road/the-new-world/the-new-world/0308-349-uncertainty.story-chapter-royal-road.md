@@ -1,0 +1,373 @@
+---
+id: 4ca6b1a7-c1ed-5ee9-b386-a3dec620e1f2
+page-type-slug: story-chapter-royal-road
+title: "349 Uncertainty"
+slug: 0308-349-uncertainty
+partOf: the-new-world
+position: 308
+ownLength: 4613
+unit: words
+ownProgress: 4613
+publishedAt: 2022-10-21
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1020765/349-uncertainty"
+royalRoadId: "1020765"
+markedReadAt: "2026-06-29T21:31:44.708Z"
+---
+
+End of the Last Chapter
+
+Iona raised her hands and wings in tandem, "They're dying from barotrauma."
+
+Answering my confused expression, Iona snapped, "You depressurized everything too quickly. Their tissues were already weakened, and they ruptured when you fixed everything so fast."
+
+I tilted my head, and my eyes turned to slits, "Oh...Really now?"
+
+Chapter Begin
+
+Iona simmered, "Yes. It's the obvious aftermath from the rapid shifts in gravity and pressure." She raised her hands, "I don't have time to explain it."
+
+At this point, I questioned a lot about the situation, but as she explained, there wasn't time for that. Medical intervention was necessary, so I frowned, "How do you fix it?"
+
+She closed her eyes before sighing, "We need...pressurization chambers, preferably with higher oxygen levels."
+
+I furrowed my brow, "Uhm...What do they do, exactly?"
+
+I was way out of my depth here. Iona waved a hand, "They put people back under pressure-"
+
+I raised a hand, mana shifting through my palm in a coursing flux. In an instant, this floor's pressure rose. I pulled back on the rise, not wanting to reinjure everyone. I shrugged, "How much pressure do they need?"
+
+She looked around, "Er, enough to match Leviathan-7's standard pressure, whatever that is."
+
+I glided the compression of the ground floor up until it reached the normal pressure of Leviathan-7. Iona paced over towards a medical apparatus, a patient already in a dire state. The ruler reminded me of an archaeopteryx, a mix between a raptor and a bird. Sores covered the body of the dying ruler, and many tubes ran into her arms and throat.
+
+Iona peered down at her while rubbing her temples. I pointed at her and raised a brow, "She's a ruler, so she must be systemized by Schema already. Why isn't she healing?"
+
+Iona pinched the bridge of her nose, "You literally don't know anything. She's been exposed to radiation, and it's destroyed her metabolism. I don't have any method to establish functioning DNA here, so she's stuck with her baseline state. Cells can't multiply properly."
+
+Iona glared at me, "She was stable while in stasis, but the damage from the barotrauma has compounded with her initial wounds." Iona bit her lips while peering away, "She's...She's not going to make it-"
+
+I swooped the patient into my pocket dimension, machine and all. I put a hand on Iona's shoulder, "Show me anyone else who's unstable."
+
+Iona hit my hand before gawking at the captured pod. Where I swiped my pocket dimension, a perfect, polished slice reflected back at us. It looked like someone scooped the person out of existence and the area around her.
+
+And that was because I had.
+
+Iona narrowed her eyes at me, "What did you just do?"
+
+I raised a palm to her, "I don't have time to explain. Let's save the patients first."
+
+Iona squeezed a hand into a fist before pointing to a specific direction of the medical bay. She blew a strand of hair off her face while saying,
+
+"All of those rulers are metabolically limited. They'll need intervention, or they'll die."
+
+I flung myself towards them, readying my pocket dimension. I bounced between each stasis pod before scooping fifteen rulers into true suspension. They all fit within the confines of the space, though a particular swollen sensation crossed over my sense of the area; the pocket dimension neared its limits of space.
+
+I took note of that as Iona watched. She shook herself out of her stupor before turning to a different group of rulers, "These members are partially compromised, but they're lower priority cases. Can you use that magic on them as well?"
+
+I shook my head, "I could, but if it's not urgent, I'd rather not."
+
+Iona gazed in disgust, "People's lives are on the line."
+
+I waved off the insult, "You mentioned them being a lower priority, so I've done just that. Anyways, what can be done for them outside of that?"
+
+She bit her tongue before waving an arm, "We need power, updated machinery, etcetera."
+
+"Then let's get to work."
+
+Entilla worked with us to help power up the machines asap. Drelex got out of his algae pit, the situation's severity calling him to action. The maroon catfish rode the elevator up to the actual mana battery, and he established the language cipher to smooth over general operations. That eased the situation while I supplied the mana and manpower on the bottom floor.
+
+The complex machinery was well beyond my general crafting abilities. However, I constructed my own enchanted medical devices like I had for Kessiah and Althea. Several syringes, specialized scalpels, and resonating rings lined several overbed tables, all made from my dimensional fabric.
+
+We got the rings on the patients, bolstering their regenerative abilities. Regaining consistent power stabilized their conditions further, and Entilla worked with another ruler to create some software. The developed app monitored people's vitals and sent messages if anything was awry. Combine that with the boosted equipment, and we suffered no casualties.
+
+Having the immediate situation handled, the other rulers took a break. Iona did the same, leaning against one of the old stairwells. I walked over towards her before crossing my arms, and I tilted my head,
+
+"Why didn't you mention the barotrauma when I depressurized the facility? You were there when I did that."
+
+Iona crossed her arms, "Look, a lot was going on, so I forgot about it."
+
+I tapped my arm with a fingertip, "Then why didn't you mention it while I crafted upstairs?"
+
+She raised a hand, "I got caught up with some other tasks. I ran down here with the machines going haywire because of your rapid fixes. Mmkay?"
+
+I leaned over, "Isn't it your job to handle the medical bay? What other tasks could be so consuming?"
+
+She met my eye, "Look, macho man, I'm exhausted, and I don't feel like being interrogated. Can we do this later?"
+
+I frowned before lowering my arms, "What you're doing doesn't make sense, and I'm not the only one thinking that. You can choose to explain or not, but it degrades your reputation each time you hide something like this."
+
+While I walked off, I shrugged, "But if that's your choice, so be it."
+
+Stepping away, I understood her excuse of being tired. Even I hid my own exhaustion. The stressful situation left me on edge, though that arrived from the novelty of the case, not the difficulty. Practice made perfect, but I lacked experience in healing or anything medicinal.
+
+Staring down at my hands, I remembered Kessiah's composure in this environment. She'd changed into an entirely different person than when I met her, shifting from a lost cause to a reliable pro. I nodded, remembering to be a pro myself.
+
+I found Drelex and Entilla, both of them eating food delivered from above. They munched on the mutant meat my runes created, but I failed to mention that when I leaned over,
+
+"Hey, you guys have a minute?"
+
+Entilla leaned his head sideways, the lizard wiped out. Drelex snacked away before nodding, "I think we do, though Entilla may not be in his right mind."
+
+Entilla jested, "Tired or not, I'm still better than your lazy self."
+
+Drelex licked his fingers before shrugging, "That 'laziness' is why I'm not tired, and you're exhausted."
+
+I waved my hands, "Alright, you definitely have a moment. I wanted to hire you both to install language ciphers and wiring into my settlements. I'll give each of you three blue cores apiece for the job."
+
+Drelex leaned forward while Entilla wiped his eyes. Entilla yawned before shaking off his fatigue, "Err....Ah. Ok, how much work is this going to be?"
+
+I waved a hand, "It's many cities' worth of installation. It will be difficult, and I'll be making more of them later."
+
+Entilla raised a clawed hand, "Make it five, and I'll do it."
+
+I nodded, "Done. What about you, Drelex?"
+
+The maroon catfish leaned back, considering for a while. I stood up before grabbing my chin, "I wonder how many of your resources Schema will take once this is over? It would be a nasty situation, one that three blue cores could sweep away."
+
+Drelex peered at me, "Hm, if it's five, I'll do it, same as Entilla."
+
+Time was more valuable than pinching pennies, so I smiled, "It's a deal."
+
+Before I stepped away, Iona murmured from behind me, "Oh yeah, I forgot to say this earlier. What did you do to the people and the machines? It wasn't dangerous, was it?"
+
+I weighed my hands back and forth, "It was...Er, I used true stasis, and I'll be keeping them within it until after we return from the lottery."
+
+Drelex frowned, "Gah, that's bloody awful. They won't even be able to donate to the cause then. That puts them dead last."
+
+I shrugged, "They're several hundred slots above last place at a minimum because of how many rulers have died. Besides that, bankruptcy is a lot better than death."
+
+Drelex grabbed his whiskers like a beard, "True enough, I suppose."
+
+I scratched my head before turning to Iona, "Is there anything else we need to finish here?"
+
+Iona pulled a strand of hair out of her face, "No. We're good."
+
+I walked off, heading over towards my elevator. Several people used it at once, many of them trying to figure out the best way of managing the resource. Opting out of waiting, I sprang up the stairwells built into the building. A few hopping skips later, I landed on the upper floor, finding my director golem keeping everything in order.
+
+He saluted me while I walked past. Behind the mana battery and guardians, the rulers of the base chatted away about various endeavors, from exploration protocols to escape routes. On a table in the corner of the room, Malos rested in silence. Above him, the Emperor performed magic on the frog ruler's mind.
+
+Obolis pulled his fingertip off Malos's forehead, and a tailing wisp of green magic trailed behind the Emperor's movements. As the green wisp faded out of existence, Obolis let out a deep breath before wiping his brow,
+
+"Ah, Daniel, well met. If you're wondering about Malos, he'll be fine. He simply needed a wipe of the implanted memories to restore his functioning self." The Emperor tapped the side of his head, trying to recall something. After a sigh, he returned to normal,
+
+"It would seem like you've utterly rectified our position within the last few days. That's more than merely impressive; it's given us a foundation to stand on."
+
+The other rulers chimed in, so I raised a hand to interject. They silenced, and their respect loomed over me as if I carried some sort of gravitas. The bizarre sensation faded before I put my hands on my hips,
+
+"I'm pretty much finished with the rehauling. This compound's been reconstructed from the ground up. Golem guards, infinite power, no radiation, stable gravity, clean food, clear water, fresh air, normal pressure, decent housing, technical wiring, you name it, I gave it. As agreed, I'll need you guys to hand me the information slotted into a viewable format. Someone also needs to help allocate the resources from the treasury for me...You know, whichever way that's done."
+
+Obolis flourished his cape as a blanket over Malos before walking over. His caring surprised me, though it was probably to get an alliance with Malos after everything was done. Obolis worked like that, balancing the pros and cons of every situation. The Emperor lifted his hand and waved it, several of the rules following behind him.
+
+We stepped towards the stairwell before walking down. As we did, Obolis put a hand on my shoulder while striking up a telepathic conversation,
+
+"That attack used against Malos was insidious. The implanted memories dwarfed the size and scope of Malos's life, which is extraordinarily difficult to do."
+
+"Why tell me all of this?"
+
+"Because you need to be aware and careful around Shalahora."
+
+I frowned while thinking, "You don't have to remind me. That guy's a real mystery."
+
+From nowhere, a raspy, feminine voice scoffed into our psionic conversation, "Is that so? He should present himself differently then. I shall tell him such."
+
+Obolis and I froze in place, a shiver racing up our spines. A ruler bumped into us before falling back. They snapped, "What was that?"
+
+The Emperor and I ignored him while the voice laughed. It oozed,
+
+"Hah. Hah. Hah...There's nothing to fear. I take no offense from caution, and it is warranted. However, there are no thoughts that hide from me here, no matter the time or the place. I know of them all, and they know of me."
+
+Obolis closed his eyes while closing a fist. The Emperor murmured in a firm voice, "Who is this?"
+
+"Mesmera."
+
+The Emperor's brow furrowed while he snarled, "Cease your bantering and quiet yourself. Gawking at our conversation as if we were animals-"
+
+I grabbed the Emperor's arm hard enough to stumbled him sideways. He peered at me, "Now you act with indecency...as well."
+
+His words trailed off as I stared at him with wide eyes. Fear traced my expression, and the Emperor's attitude changed instantly. Mesmera whispered to us,
+
+"Continue walking as you were."
+
+I ground my teeth, but I followed the command. Obolis kept pace before he coughed into a hand and thought back, "Ahem...What is it you want to know?"
+
+Mesmera whispered, "There is nothing you know that I do not, child. You are merely a method of speaking with the one beside you...So be quiet."
+
+My minds clanked into high gear, and a few facts became obvious. Firstly, Shalahora told Obolis about Mesmera. Second, she used the conversation between them to find me and make contact. Third, this Old One-
+
+"And you are correct, little one."
+
+My eyes narrowed before I thought back in a low boil, "Stop talking. I don't want to hear what you have to say."
+
+Mesmera cackled, "Hah. You haven't heard anything I wanted to say, have you?"
+
+I answered with silence. She radiated her words like poison, "I can tell you how to return home, how to message your loved ones, or even guarantee your victory in this lottery. I know many things, and those may be yours...If you tell me-"
+
+I spoke with force,
+
+"No."
+
+Obolis blinked, confusion spreading over his face. He scratched the back of his head as I stated into the ether,
+
+"Leave me be."
+
+A hint of frustration spilled into Mesmera's voice, "You're little more than a speck on a corpse...You know this, and yet you speak back to me."
+
+I stepped aside from the other rulers and spoke aloud, "Everyone, give me a minute. I need a moment."
+
+One of the rulers raised a concerned hand, "Are you alright?"
+
+Obolis answered, "Is his attention so important that he's no longer allowed a second to collect his thoughts?"
+
+The ruler raised his clawed hands, "What? No, I-"
+
+Obolis walked down the stairwell, "Then leave him."
+
+The ruler followed the entourage before I remained there, alone on the stairs. I condensed my dimensional wake until it blistered at the seams, and Mesmera hissed,
+
+"You run from me, but it's only a matter of time before I've set in. I am poison. I am memory. I am that which you hide but is behind closed doors...I will remain until you are weak."
+
+My dimensional wake reached my skin, pulling down like a cloak of lead. I held the weight for a moment before sighing. After ensuring her presence was dispersed, I returned to the other rulers. Once I passed the stairs and reached the vault door, I found the rulers waiting on me. While walking up, I locked eyes with Obolis, an entire conversation taking place with that glance.
+
+But what was spoken, I didn't fully know. While I tried parsing out what just happened, the rulers and I waited in front of a vault door. Graphene covered and interlaced the entire structure, the dull gray contrasting the sheening metal. A small, mongoose ruler walked up to the terminal, its claw brandished. Several rulers, including Obolis, walked by as the mongoose took blood samples from them.
+
+Once collected, they placed the blood onto the terminal, which exposed a retina scanner. That unlocked a code, one built in the cipher. It required a lot of work to pop open the door, and as it hissed from air pressure shifts, the giant doorway swung on smooth hinges. It opened my view as it passed.
+
+And a wealth of treasure piled within, all of it ripe for the taking.
+
+I stared at it, a smile popping onto my face. The grin whittled as I remembered Mesmera's contact. With a quick collapse, I stood in place with my wake compressed. If my guess was correct, that expunged her presence once more.
+
+It made me wonder if the Old One read minds or the thoughts of everyone present at all times. There was no way for me to know, and that thought unsettled me. After taking a few deep breaths, I regretted contacting Shalahora. Getting away from him took top priority, though I had no idea how to break it to the Sovereign. Or if I even could.
+
+After all, his alliance became odder by the second, and Shalahora's psionic abilities weren't tested yet. He could be reading this entire planet's minds for all I knew. Questions mounted, and the more I asked, the more they needed answers.
+
+Without any means of finding info, I put myself back in the present. I gazed at the treasury, one full of mismatched supplies. They organized the relics and artifacts onto various shelves, piles, and pods. The majority of the rewards were the blue cores and rainbow bones, but a few dungeon rewards stacked until they reached the vault's roofing.
+
+Each set of piles served a different purpose. Bladed weapons, dulled tools, and shining armors stacked up high in one mass. Another pile of blue cores and rainbow bone sheened in the side. The rulers here dedicated the last portion of this room to over a hundred vases stacked on a shelf.
+
+I pointed at them, "What are those holding?"
+
+Obolis stayed quiet before the mongoose ruler adjusted its glasses, "Ashes."
+
+I furrowed my brow, "Ashes? Why?"
+
+"The dead."
+
+A wave of dread passed over me, and I peered to the side, "Ah...Sorry for asking like that."
+
+The glasses-wearing mongoose paced over to the wall, lifting one of the vases. Under each vase, a picture rested. The ruler lifted one of the pictures, showing the uneven smile of a gray, elephantine alien. The mongoose shook its head before setting it down,
+
+"These are so that we can return them to their loved ones." The mongoose bowed its head. The other rulers in the room made similar gestures, each of them coming from different cultures, yet all of them respected the dead. I raised a fist to them before lowering my hand.
+
+Up until now, the deaths of the rulers were intangible, like some esoteric stat that exposed how dangerous this planet was. Staring at the hundred-plus remains drove home the sheer scale of death on this planet. Most of these aliens were good people, and Schema sent them here to die so he could rob them.
+
+And I did nothing.
+
+I tapped the side of my head, quelling a rising sense of guilt. I wasn't responsible for every outcome. After letting out a sigh, I paced over to the pile of armor and grabbed a cerulean scale-mail at the top of it. It weighed more than iron, which explained why no one wore it. It was far too heavy for practical use here.
+
+Pretty much everything here shared that distinction, all of it heavy in this gravitation. For that reason, Leviathan-7 invalidated the vast majority of these resources. Even worse, few of the materials matched my dimensional fabric regardless of weight, making them worthless for me. Rulers wore the lighter armors already, and I paid little attention to the rest of the weapons.
+
+However, the tools interested me quite a bit. Most of them held strange functions for specific purposes. Some carried more generic goals, and I picked up one of the best embodiments of that practical ideal. I stared at a large, rugged hammer of black iron. Cipheric runes traced its sides, and the flat of it looked like raw stone. In my palm, it radiated heat and temperature magics. I lifted it overhead while murmuring, "Hmm, some of this stuff is interesting."
+
+Once more, the mongoose answered, "By all means, take it. Schema knows no one here can use it."
+
+I turned to him, the ruler acting as the effective treasurer. It wore circular glasses, mainly for style, and its body reminded me of a speckled otter. With its mouth closed, it was adorable. When its mouth opened, sharp fangs ruined that illusion, and its raspy voice added to its newly predatory appearance.
+
+I pointed at him, "What's your name?"
+
+The creature adjusted its glasses and straightened its jacket, "Ohzah."
+
+I raised a brow, "Do you manage the survivor's supplies?"
+
+"Effectively, yes. I do."
+
+I smiled, "We'll keep in contact then."
+
+From a pocket in its sleeve, the adorable predator opened its jacket. In three pockets, different-sized business cards waited for the right situation. Ohzah handed me the largest card, the paper slip the size of a fingertip to me. I floated it up before swiping it into my dimensional storage.
+
+That left the black iron hammer. Not having room for the mallet, I placed the maul onto my back, and a band of dimensional fabric interlocked with the handle. Once planted in place, I shuffled through the other tools. I found a panel covered in cipheric markings. Giving it a quick skim, the pad acted as a short-range teleporter. I put it on my back before finding one just like it.
+
+A quick bolt of mana verified my assumptions; these pads were a pair of twins that connected two different spaces - warp pads, in other words. Turning to Obolis, I tossed one of them over. The Emperor clasped the panel in his palm before inspecting it. He murmured,
+
+"It's a rather poorly optimized warping panel. While useful in a richly energized environment, it's been useless...Until now."
+
+I put it on my back, "We'll be keeping in contact, that's for sure. Anyways-"
+
+With a bit of gusto, I pulled up all of the cores and rainbow bones with gravity wells. Turning to the rulers, I gestured to the piles,
+
+"I prefer accepting payment in the form of blue cores instead of the rainbow bones. What's the ratio of exchange you guys use?"
+
+The glasses-wearing mongoose walked up, "Ahem, it was ten-thousand pounds of rainbow bone per blue core, roughly speaking."
+
+They didn't know it yet, but that was essentially free blue cores. I rubbed my temples, "If I'm guesstimating here, you guys have about three hundred thousand pounds of rainbow bones piled up here. 40% of that is one hundred and twenty blue cores worth of the stuff. I'll trade that for the blue cores. Sound good?"
+
+Nearby rulers dwarfed the mongoose, yet no one argued with it when it stated, "That's a worthy trade. We can all accept that." It adjusted its glasses, "We'll also assume you'd want recompensation for the cores you used to remodel the actual base here as well?"
+
+I pointed at him with a finger gun expression, "Exactly."
+
+The mongoose rubbed the edges of its eldritch leather jacket, "We have 436 blue cores, and 40% of that is roughly 174. You used 157 cores in the remodel as well. That's 331 blue cores owed in total, which we can send as our initial payment. We'll continue with this conversion ratio moving forward, and we can send over supplies weekly until the day of warping away."
+
+It tilted its head at me, "Is that acceptable?"
+
+I pulled the mass of blue cores towards me, "Oh hell yeah. That's perfect."
+
+While I put the cores into my dimensional storage, an enigmatta ruler walked up, its pressurized suit showing wear and tear from staying on Leviathan for so long. It raised its palms and bowed,
+
+"Hello...We can't send the data yet...We're putting it in a mobile form for you...It will take a few days."
+
+Each pause in its speaking came about from wheezing breaths. It reminded me of Darth Vader. Either way, I frowned, "Don't you already have a network up and running? It should only take a few days for the data then, right?"
+
+"We do...But the amount of data is very high...It will be useful for the data to be robust...And incorruptible as well...Given Leviathan's conditions."
+
+I raised a palm, "Ah, understandable. Thanks for letting me know."
+
+It wheezed, "No, thank you...For making this hell livable." Its gaze lingered at the urns lined on the shelves.
+
+I blinked for a moment before smiling, "Not a problem."
+
+Walking out of the vault, I closed the door behind everyone. Once at the outskirts of the floor, the rulers dispersed to their various duties. Obolis stayed behind before grabbing at the fur under his chin like it was a beard. He mused,
+
+"If I were to guess, you're about to leave."
+
+I nodded. Obolis turned a palm to me, "Then can we discuss the conscription of more golems in the future, among other things?"
+
+I waved a hand, "I'll be putting them onto a galactic auction house for certain contracts with them. And for the other things, discussing it could incite certain parties."
+
+Obolis raised his brow, "Such as?"
+
+I murmured, "Old Ones."
+
+Obolis's eyes glossed over before he nodded, "Ah...Then, then I'll compete with the other rulers. Thank you for helping us all here, and I-I'll leave you be."
+
+He gave me a slight bow, "We'll see you at another time, Harbinger."
+
+Even with all his worldly wisdom, Obolis was shaken by certain things. It turned out that Old Ones were some of those unsettling factors. They were for me as well, something I noted while we parted ways.
+
+It was time to get the hell out of here. I searched for Entilla and Drelex, finding them on the terrarium floor. Drelex lounged in an algae pit while Entilla bathed under a sun lamp a couple of feet away. They gazed up at me, both of them looking nervous. Drelex coughed, his body rustling the still water he waded in,
+
+"Ah...It's good to see you again. What do you want?"
+
+I raised a brow at them, "You guys ready to go?"
+
+Drelex winced, "Already? I just finished my work."
+
+I leaned back, disgust spread over my face, "What? That was hours ago. We're wasting time."
+
+Drelex shrugged, "What are hours to immortals anyhow?"
+
+I frowned, "There's nothing immortal about us. Come on. Let's go."
+
+Drelex leaned back into his algae pit, "Of course...Once I finish my algae bath."
+
+I gazed down at him, and the catfish man crossed his arms over his head. He blew into the pit of algae, "Ah...This place is finally comfortable."
+
+I pulled molten dimensional fabric from my pocket dimension. With it floating above, Drelex sneered,
+
+"Ahck, what are you doing with that? It's molten."
+
+I rolled my eyes before swiping him and his algae pit into my pocket dimension. As I paced up to Entilla, the blue lizard peered back and forth. Once I stood beside him, Entilla squeaked out,
+
+"Uhm, where does that portal lead?"
+
+Swinging the portal like an ax, I smiled,
+
+"A surprise."

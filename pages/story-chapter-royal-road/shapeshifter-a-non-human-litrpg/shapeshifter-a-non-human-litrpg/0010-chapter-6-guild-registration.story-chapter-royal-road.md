@@ -1,0 +1,161 @@
+---
+id: 79fca859-1af9-5b9c-a334-3bab77e12c7c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6: Guild Registration"
+slug: 0010-chapter-6-guild-registration
+partOf: shapeshifter-a-non-human-litrpg
+position: 10
+ownLength: 2006
+unit: words
+publishedAt: 2026-04-07
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3243207/chapter-6-guild-registration"
+royalRoadId: "3243207"
+---
+
+Sarah von Stormbringer's long silver hair, glinting in the fading sunlight, and elven features made her unmistakable.
+
+Xen hadn't seen the heiress to the Stormbringer guild since the Living Armor boss room, where he had revealed to her the truth of her lover's ambitions. She hadn't taken the knowledge that she was being used by him to rise through the ranks in the Stormbringer guild well at all and had labeled him a lying monster.
+
+Despite being almost level seventy now, Xen still found himself stiffening in fear at the sight of the first person who had hunted him. The memory of her decapitating Joe, who had been the first body he had taken over, was still fresh in his mind—likely because it had been less than a week ago.
+
+A lot has happened since then, he told himself. I could kill her with a flick of my finger now. Yet he found himself subconsciously tracing his face to ensure his mask was in place. There was simply no way she could recognize him, now that he was an elf, short, had a mask, and was a level 1 Radiant Healer.
+
+"Ah shit," Randy muttered upon noticing her as well. Xen had told them his history with her back in the dungeon when they had found out he was the Faceless One with a large bounty of 10,000 credits on his head placed by Sarah.
+
+Xen clenched his fist. Despite being at such a higher level, the social gap between him and Sarah, despite both being elves, was strikingly obvious. While humans knocked shoulders with him without much care, they gave Sarah and her many armored guards a wide berth.
+
+She seemed... furious about something, with a scowl on her face. Her guards were roughly escorting a person who was kicking and screaming at the top of their lungs.
+
+"I'm not the Faceless One! I swear! This has to be a mistake!"
+
+"Silence, necromancer scum," one of the guards said gruffly and sucker-punched him in the face with a dull thud. "That will be for our mistress to verify."
+
+"She's picking on another one?" a person nearby whispered to their friend.
+
+"I feel bad for all newly registering necromancers," the friend said with a sigh, shaking their head. "They already faced problems, and now this? I believe this is the third one this week that's been arrested like this."
+
+"She really is a tyrant," another person cursed.
+
+"Shut it," a fourth person berated the last person. "Her daddy could make you disappear without a trace, and there's nothing we common people can do about it."
+
+Xen felt a little better learning that even the surrounding humans feared her.
+
+Randy suddenly grabbed his hand and dragged him through the crowd that had slowed to watch the show. Sarah glanced his way, making him tense, but she didn't seem to care about him and his group as she kept striding forward through the parting crowd.
+
+Phew, she didn't recognize me. Xen let out a breath he didn't know he had been holding.
+
+"The Stormbringers' guild would have a far better reputation without her representing it," Randy muttered once they were out of earshot and making their way inside the main building.
+
+Xen nodded, feeling a little overwhelmed by everything. The ward's curious mana kept snaking across his skin, serving as a constant reminder that he could be unmasked at any moment. Not literally, of course—his mask was cursed. He meant that in a more figurative sense.
+
+"The new Hunter registration is that way," Randy said, handing him off to Vesper and Valoria. "I'll begin the guild founding process in the meantime."
+
+"Wait," Xen said like a startled child being abandoned by their parent at a kid's birthday party.
+
+"You will be fine," Randy assured him. "Just do as they say, and pretend to be Valoria's cousin or something. Bye!" He waved at them and then disappeared into the crowd.
+
+Valoria clicked her tongue. "I didn't know he was planning to leave the hard part to us," she sighed and grabbed his hand. "Come on, follow me."
+
+Xen allowed himself to be dragged through the bustling halls and corridors until they made it to a line. It wasn't too long, and after some small talk to calm his nerves with Vesper and Valoria, they had made it to the front in no time.
+
+The person on the other side of the table was a rather annoyed-looking human woman with red hair and sharp eyes. She wore the signature black suit of the Guild Association, and unlike most employees in these halls, she had levels. Not as many as Xen, not even close. But she wasn't weak either.
+
+Would she be able to see through his disguise and figure out what he really was? Only time would tell.
+
+"Name?" she asked bluntly the moment she noticed them.
+
+"Uh—" Xen froze up.
+
+"Your name," the woman repeated.
+
+"Yuki Tanaka?" Xen replied as if questioning it himself.
+
+The woman wordlessly noted it down, then asked, "Race?"
+
+"Elf," he answered easily.
+
+She glanced up from her monitor, frowning. "Full race, please, including your earthly one."
+
+"Wha—"
+
+"Japanese," Valoria cut in. "He's a Japanese Elf."
+
+The woman gave an odd look, likely because he still looked rather feminine despite his earlier changes.
+
+"Thank you," she eventually said after a pause, and noted that down.
+
+Xen gave Valoria an appreciative nod.
+
+"I don't seem to have any record of a Yuki Tanaka in my system," she suddenly said, making Xen freeze. "Which makes sense as you're here for a new registration. ID, please," she held out her hand without looking their way.
+
+Xen shakily passed over the fake ID that Randy had made for him.
+
+She spent an uncomfortably long moment looking at the card, then glancing at him. She turned the card over, ran her finger along something on the back. Typed something into the computer, then looked back at the front of the card for a long minute, then back at Xen.
+
+This is torture, human, Xen thought. Just label me a monster already if you suspect it.
+
+"What's with the mask?" the woman finally asked.
+
+"It's a cursed item," Xen replied, and quickly added, "I can't take it off."
+
+"How did an unregistered Hunter get their hands on a cursed item like that?" she asked skeptically.
+
+That... was a good question. Randy had explained that once they had a guild, he could blame everything on the guild and use it to justify his questionable activities. But without the guild's existence to shield him, he felt exposed.
+
+"It was given to him as a present by a bully at school. When he refused it, he forced it upon him," Valoria said with fake sadness as she patted his head. "While the kid's family paid a large fine and the case was resolved, it left Yuki a wreck for a while. You see... the kids at the rural school treated him terribly as the only Elf at the school, so once he awakened talents to be a Hunter, his mother sent him here with the settlement money."
+
+The woman's eyes softened slightly. "I see," she glanced at Valoria. "What is your relationship to him?"
+
+"Yuki is my distant cousin."
+
+"Mhm," the woman glanced between Xen and the ID again. "It's not the first time I've seen a cursed mask like that, but it is the first time someone has come to register with one on." She frowned, making Xen tense. "But everything else seems to check out," she shrugged and slid the ID back to Xen. "Alright, Yuki Tanaka, what class do you have?"
+
+"Radiant Healer," he said. Finally, a question he felt confident answering.
+
+Her eyes lit up. "A Healer? First one today, and a rare variant of the class," she smirked. "You will be very popular if your skills are any good." She looked at him expectantly.
+
+Xen stood there blankly, and an awkward silence stretched between them.
+
+Valoria nudged him, "This is where you tell her your five skills."
+
+She gave slight emphasis on five, just in case he forgot that Hunters only had five skills when they awakened for the first time. While he hadn't forgotten, he was grateful that Valoria was looking out for him. He could only imagine the fallout if he had listed too many skills.
+
+Xen glanced at his status screen and debated which ones to list. He kept to priest-type skills, avoided the ones he had harvested from monsters, and definitely left out mentioning his S-rank skills. The last thing he wanted right now was attention.
+
+"I have [Radiant Smite (E)], [Orbs of Light (E)], [Flash Mend (C)], [Cleansing Light (D)], and [Beacon of Grace (B)]," he said, listing off his chosen skills one by one and their grade.
+
+The woman nodded along as she typed them into her computer. "Quite the spread of great skills, and Beacon of Grace is a powerful B-grade skill," she glanced at him, "I assume you also have the Radiant Aura passive?"
+
+Xen hesitantly nodded, as he was unsure if this was a trick question.
+
+"It's the most common one that comes with that class," she added, perhaps noticing his unease. "Though you seem to lack a mana regeneration skill? Not strange, as they are super rare for Healers." She chuckled. "A Healer that can restore mana would be far too powerful after all."
+
+Xen hadn't planned that, but was glad he hadn't included a mana regeneration skill, considering they were apparently rare for Healers.
+
+Besides, he wasn't sure any of his would match with a Radiant Healer, as they mostly involved devouring souls or siphoning off the dead for mana.
+
+His wandering thoughts were interrupted as the woman finished entering his data and turned to him with a more intense gaze.
+
+"Now, all that's left is to confirm if you're a liar or not."
+
+Xen tilted his head in confusion as his slimy body trembled in his skull.
+
+She pushed a ball-looking contraption across the table. "This is an artifact with the Appraisal skill. Place your hand on it, and you will feel a spike of mana. It might hurt a little, but it's a necessary final step."
+
+Xen recoiled. "I..." he tried to think of a reason he couldn't do it. "I don't like pain. C—Can't I just show you my abilities instead?"
+
+"I can't legally force you to use this device as outlined by the London Accord," the woman explained. "But it's hard to proceed if you don't comply. I promise the pain isn't too bad."
+
+Xen stared at the orb as if it were a death sentence.
+
+This situation reminded him of the first time he encountered the Ether Technocrats, who used an Appraisal Augment on him, which returned an incorrect result, yet still classified him as above level 50. They had explained back then that it estimated his strength from his mana signature and was quite accurate. While he was a level 1 Radiant Healer, he still had the magic stats of a level 68 Hexreaver Slime.
+
+If he touched that orb, it would be all over.
+
+"Let him show his abilities," the man with an odd mustache sitting beside the red-haired lady said with an amused chuckle. "We don't want warriors and mages having to show their abilities as it's expensive to repair the rooms after, but a healer? We usually have to pay for their services."
+
+The woman nodded at her colleague's idea and withdrew the orb of doom.
+
+"You're in luck, kid," she said as she rose from her seat with a smile. "Follow me to the infirmary and show me what you can do."
+
+Xen silently cheered as he was led away with Valoria and Vesper deeper into the building, but he wasn't out of the woods yet. He hadn't practiced using most of these skills before, and it was going to be hard to hold back and match the capabilities of a level 1 Radiant Healer without raising suspicion.

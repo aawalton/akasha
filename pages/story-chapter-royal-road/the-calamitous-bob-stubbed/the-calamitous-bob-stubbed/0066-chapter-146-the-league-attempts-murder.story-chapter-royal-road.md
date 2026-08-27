@@ -1,0 +1,391 @@
+---
+id: e2974d76-6f35-54ea-a715-50b4f307aaf2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 146: The League attempts murder."
+slug: 0066-chapter-146-the-league-attempts-murder
+partOf: the-calamitous-bob-stubbed
+position: 66
+ownLength: 6383
+unit: words
+ownProgress: 6383
+publishedAt: 2023-12-15
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1444028/chapter-146-the-league-attempts-murder"
+royalRoadId: "1444028"
+markedReadAt: "2026-06-29T21:17:03.952Z"
+---
+
+The initial bang was not too dire, though it startled everybody in that section of the piers. If any of those buildings had windows, they would have surely exploded. The shockwave sent Elunath reeling and screaming in pain as the pressure tried to pulp his insides. Only great power and his own innate resilience of the stone saved the body from immediate death. He still lost both eyes and his eardrums. For the first time in a century, he tasted his own blood. A reflexive cast of obsidian armor covered his body in multiple layers of strong material, and not a second too soon. Flaming debris fell on the piles of what he now recognized as black powder, an outlander innovation meant to help mining operations when one lacked earth casters.
+
+There was a woosh, then white light, then heat, so much heat he could feel it through the isolating layers of armor before they could fully cover him. The skin of his calves was seared. Blinding pain wrecked his mind until he was on the verge of abandoning it. His original body.
+
+With a supreme effort of will, Elunath forced himself to remain and crash through the scorched ground and into the protective embrace of the earth below. He swam, his spirit an ocean of rage and of pain. He only resurfaced several hundreds of paces away.
+
+The old warehouse district was an inferno of fire and fury. Bells rang throughout the city to call blue mages to the rescue before it could spread to important parts. The squad who had led him here was dead and gone. A trap. It had been a trap all along.
+
+Elunath screamed his impotent rage to the skies. He rose in the air, looking for something, anything.
+
+And then, he felt something eating into his armor.
+
+Elunath turned around and raised his fist. A ray of pure, concentrated annihilation mana struck it. It came from afar. He could see a circle over the city wall, up in the air. The part of him not screaming in pain noted that the circle focused a small amount of mana. It then sent it at an extremely fast speed towards the target, a perfectly suitable medium for black mana which was already fast and light.
+
+The spell faded a moment later. Elunath noted that part of the obsidian fist had melted despite this being one of the highest rated defenses in Param.
+
+He was… under attack?
+
+Disbelief struck him.
+
+The witch was attacking him directly? Head on?
+
+No one did that.
+
+it made no sense at all.
+
+Elunath brought the half fist and watched blood spurt from the stump of his extended fingers.
+
+“Aaaah. Ah! AAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHH!”
+
+That was the breaking point.
+
+Three days of frustration. Three days of pain, of humiliation and the compounded emotions all returned to deliver a last blow to Elunath’s patience and sanity. From a most respected pillar of society to a pariah decried as a deviant, stolen and shunned, Elunath’s vertiginous descent had come to a rock bottom stop here. Corrupt addicts unwittingly dragged him to an ambush and he was now under attack in broad daylight by a power climber not even a tenth of his age. The last of his proper support had deserted him. There was only one path to salvation his rage-filled mind could come up with.
+
+Kill. The Witch.
+
+Elunath rose on a tide of stones. Pavement rolled like an angry sea and the wave carved a path of destruction to the wall, through barns and homes and families. The elemental archmage was now the earth’s very wrath wrapped in layers of smooth glass. The tide crashed against the wall just as the witch fell back, cracking the ancient structure like an egg. Massive blocks joined the torrent of devastation across meadows and fields. Elunath was awake, wide awake, and he could not be stopped.
+
+The witch remained ahead by using a strange harness that kept her aloft. Kinesis on her arms and legs let her float in various directions rather than by the powers of the wind, as was natural. She was a fish out of water. Elunath was gaining on her, hiding behind his tide as she peppered the approach with spells.
+
+“Eldritch walls!”
+
+Threads of change mana smashed into the edge of his defenses, corrupting the packed rocks and forcing him to discard layers but that was fine. He could pull as much stone from the planet as he pleased while she exhausted herself stemming a power that could not be stopped. Inertia made him go faster. She flew up then to the side, towards the marshes, and Elunath followed. Finally, she landed on an islet in the middle of soaked land. Did she think this would be enough to stop him? By bringing him in a place where blue mana soaked the ground?
+
+“Deadland domain.”
+
+Elunath roared his pain and the loss of his eyes. The storm descended on the witch and… stopped. Like waves licking at a cliff. He was cut from the stone.
+
+The titanic mass of debris parted around her giant circle. Elunath would have nothing of it. He gathered the core of his attack and rose in the air, above the area denial. Several tons of rocks would see the job done.
+
+A spell triggered mid-air and it felt like the stones landed on a grinder. Rocks turned to gravel, dispersing in the air in front of transparent wheels of churning hunger. He noticed Sidjin far above. That young cur would pay, after he surrendered the methodology behind the portals. Elunath would make sure of it. With a grunt. he let the remaining stone finish their descent while he retreated.
+
+“Eldritch walls. Aegis!”
+
+Some of the wave turned weird, the other slid over a half-dome of connected hexagons, obliterating the countryside in a mudslide. The forest died around them. Birds were silenced, beasts slaughtered. Elunath was just getting started.
+
+“Primordial Rain.”
+
+Elunath raised a cloud of stone shards so thick they cast a shadow over the mangled valley. They fell in a storm over the unmoving shape of the witch. She took a step back and placed her hand in front of her. Elunath’s advanced inspection let him understand the sigils she wove together. Force. Push. All. Forward.
+
+She thrust her palm forward.
+
+“God hand.”
+
+A cylinder opened in the fabric of his attack. While most of it landed uselessly, what aimed at the girl fell backward towards him. He tried to regain control and failed. As soon as the stone approached him, however, they were caught back in his domain, gravitating around him to reinforce his formidable defenses. Meanwhile the witch was casting.
+
+“Astra. Blast. Hyperbeam.”
+
+First slow spheres of mana flew in thick clumps towards him. He attempted to detonate them early and was surprised by how thick the fabric was. By the time he put enough effort to intercept, a wave of artillery spells had joined the slower spheres. He barely saw the last attack, the same ray as before, when the three waves hit him at the same time. The part of Elunath that remained calm and present struggled to gauge their power, so he simply poured as much as he could in the reinforced sphere of stones that protected him. He was now a planetoid, rotation slowly in place surrounded by a galaxy of asteroids. The spheres bit deep gouges in his rotating defenses. The artillery spells penetrated deep enough to endanger him. Fortunately, the beam missed. It ripped off the edge of his protections before fading away in the distance.
+
+Dangerous.
+
+Elunath poured a lot of mana rebuilding those layered defenses. At the same time, he wove his next attack. The witch cast the three attack types in quick succession again but this time, Elunath allowed the sphere to lower itself near the ground and back, where he had a connection to the land. She didn’t miss but they failed to penetrate.
+
+By that time, there was nothing left of the original forest at the edge of the city, nothing but mangled earth and blighted, sandy ditches where the witch’s domain extended. He launched a volley of artillery spells of his own, the stone variant dark obelisks vibrating with energy. Yet his true attack came from below.
+
+“Geyser.”
+
+The witch didn’t stay in her circle. A white shape flew from the side, picking her as it went. He recognized the form of the golem just instant before the mud explosion took out this entire section of land in a surge of ascending soil. He pursued.
+
+A tiny part of him reminded him that he was a defensive fighter, that he should take his time. That part was silenced by the rage that filled him. He had her. He finally had her. She wouldn’t escape. She was still a pup to him, despite her devastating element. If Helock learned he had engaged and failed to kill a foreign neophyte, he was finished. That couldn’t happen. He would end the bitch here and now.
+
+The golem unsurprisingly dropped her in another circle by the sea, on a rocky outcrop. He landed nearby and let the planetoid fall, only to realize the place was blighted below the surface. It annoyed him and he fought the destructive influence but the witch cast another of those beams and, this time, it stayed on him and ate through his defenses. He had to rotate them and gave up. By now, the planetoid was as large as a small manor. It was taxing but not insurmountable.
+
+Elunath decided his strategy then. He was more suitable for defense, more capable with area denial. She was much more concentrated and mobile but there was one thing that would tilt the combat in his favor. He had significantly more reserves than she did.
+
+He was old. Elemental power grew over time. He could spend ten times what she did for a similar result and still come up on top. Time was on his side. He merely needed to keep the pressure up.
+
+The last time he’d faced danger, it had been a death squad of Halurian Faceless. He could do it. There were no other choices.
+
+Elunath launched a torrent of spells at the shield. A quake cracked the cliff, breaking the circle and sending blighted tentacles tumbling to the waters below. She took off again. A new wave of assault smashed into the crust of his armor. This time, she didn’t miss. The planetoid was too heavy to dodge by now so he kept feeding more and more power into the defenses. She would run out of energy before she did, and then…
+
+A new colorless grinder pierced the sphere from above. Elunath grit his teeth under the layers of cool stone. His wounds distracted him, the pain too great to be completely ignored. She was not fighting alone. He had to be careful.
+
+Annoying gnats.
+
+That was fine. Patience. He almost had them. And then… the payback. For years of wasted effort. For his image forever stained. The witch took to the air and struck but his defenses were growing ever stronger, ever larger. Bloated. She could no longer pierce the shell yet she still stayed. Stupid. He was slow like this but she did not try to escape. A hurricane of debris shredded the landscape and turned the surface of the ocean like a lake under the rain. She managed to push back his hails of projectiles with the ridiculous telekinesis of hers. That was fine. He had an answer for everything.
+
+Elunath focused and used the planetoid to press long, thin spears into existence. He quickly inscribed a few sigils on them, then sent them in clusters at that annoying wasp. One of the spears pinged against her shield and was amazingly shattered. That was fine. He had time.
+
+***
+
+The fisherman ran. That was all he could do. His pond was gone. The meadow where he had proposed was gone. Even the slice of city wall he had painted on when he was a child was gone. One of his nieces lived near the pier. At a glance, she was gone as well. Behind him, there was nothing left of the life he had led so far, nothing but the exposed, muddy bowels of the earth and the shattered trunks of destroyed trees. For a mile, the land he had grown up on and never left had been shattered.
+
+So the fisherman ran. He ran, and he prayed he would reach the village in time to tell them to flee. He prayed that the monsters hurling city-ending magic at each other would miss and hit the sea rather than his garden. He prayed to all the light gods that would listen while he sprinted with all his might. That was all he could do.
+
+For years, man could plant and build. Man could labor and flourish. Man could make the world theirs. Then, one day, beasts and mages would come and erase all that work with an afterthought and a flick of their fingers.
+
+This was life on Param for people like him. Hope and build, and when the time comes, run.
+
+***
+
+Sidjin watched the duel from above. Far above. Elunath was a snake carrying a shroud of stones, heavy and powerful but ultimately slow. His Viv was a wasp. She flew under and around attacks, darting in and out and her stinger left afterimages of pure darkness across the torn landscape. It was too early to say who would win if those two were to fight a duel, he thought..
+
+Unfortunately for Elunath, this was no duel, yet Sidjin still took a moment to watch the exchange while he recovered some of his strength. There was a point in magic when casters stopped being mere humans and became forces of nature. Elunath was such a creature. It was now clear that the only thing that had prevented him from destroying a city was self-interest. Now they only had to hope he would die before being given the chance to travel to Harrak and remake the plains in his image.
+
+He was both proud and sad about what Viv had grown into. He thought he might be left behind, eventually.
+
+But not today.
+
+Today, he would cast his best magic and show the city of magic that while he may have fallen, he was still a prince of Glastia.
+
+***
+
+Disaster ravaged the coast off Helock. The massive rock sphere that hid Elunath was the center of a maelstrom of flying stones some as large as huts. The torrent followed the witch where she went, turning fields and forests into trench vistas and carving deep scars on the peaceful land. Sometimes, focused assaults in the form of rock javelins trailed the nimble witch. Facing the onslaught, she teleported and flew using an annoying harness that canceled gravity and kinesis centered around her hands and feet. Most of those attacks missed to hit something — or someone — else but Elunath didn’t care. They were not facing the city. Anyone in the way was either too slow or too dumb to leave. He poured every ounce of power he could into overwhelming her with the certainty that she would crack before he would. She had even foregone attacking him at this stage. Eventually, she landed on yet another circle. Strange wings deployed from her back and planted themselves in the ground. Or was it the ground? It felt… deeper.
+
+“Aspect of the guardian, aegis. Deadland domain.”
+
+The planetoid trailed after her and Elunath intensified his bombardment of the strange shield she had built and the tainted earth around her. The lightest stone glanced off her defenses while the larger one exploded just before impact, negating most of the force. The witch intercepted them with short-ranged spells designed for interception. Elunath realized he was losing mass and dug deep into the bones of the land for the hardest pieces he could find. Maintaining all of that taxed his mind and reserves but he was confident he would prevail.
+
+Stones that had never seen the light of day surged from the abyss then rushed at the defenses, gorged with ancient brown mana. The witch reacted by retracting her shield until it was small, smaller and smaller. Elunath kept the pressure on.
+
+And then she teleported.
+
+He had expected that much. What he had not expected was that she would teleport right under him. His perception let him see that her shield was still up, but it was now black and shone dangerously.
+
+“Shatterstar.”
+
+Elunath flinched. His mind reeled. The planetoid was damaged?
+
+“What?”
+
+The planetoid was damaged, heavily so. The panes forming the shield had exploded at point blank range, skewering parts of his defenses. The networks of mana supporting the outer part of the sphere were damaged beyond functionality. He was suddenly much slower, much less cohesive. The phantom pain of spell feedback made him wince. He was in his sanctum… No, he was still here, fighting! He tried to move aside but the witch was now in a layer of coating and cleaving in his flank with a blade of pure void. No, that was not his flank. Just the damn coating. He had to focus! He formed spikes facing her.
+
+“Hammer of Glastia.”
+
+An attack from Sidjin caught him by surprise. He was still flying far above the battle. It was frustrating.
+
+Elunath’s sphere smashed into corrupted ground, upper layers demolished by the follow up attack from that accursed little princeling. No need to panic. No need to panic, he was still in control. He exploded the spikes outward which forced the witch back. No, she’d teleported really close and was now mauling his other flank.
+
+Suddenly, the sphere turned into a prison. It had suffered critical damage and was losing cohesion. The damage was too quick, too deep for him to recover it. He could discard it but that was so much of his mana invested in it. He could not claim it back by putting the stones back on the ground, either. Should he leave? He hesitated even as he sent attacks both at the witch and the flying Sidjin. They kept damaging it faster now that he could not easily recover.
+
+And then, something pierced it.
+
+Searing pain struck his left forearm, even deep inside the protective cocoon. It was broken? It was broken, Something now rested only a few fingers away from his torso. It was a large spike of stone striated with black mana. He recognized it. It was an old imperial war spell.
+
+Impossible. No one alive should be left to cast such a thing. The art was lost.
+
+Elunath’s sphere cracked like an egg. All fifty paces of it split in two parts, its structure skewered by a spear of disruptive black and brown. He managed to extract himself in a tiny ball made of the hardest material at his disposal, flying away as fast as he could. He felt something bite his flank. This time, it was the real one.
+
+Elunath looked down to see an entire chunk of his flesh missing. He felt the very disconcerting sensation of his insides spilling outside before the stone closed the gap, pushing innards in before they could fully escape. Agony struck him a moment later. The sanctum called to him but with a last, supreme effort of will, he clung to his failing flesh. The life mana he could conjure flooded to the wound with no result. The witch’s touch could not be so easily undone. A flurry of blows struck his back, collapsing most of his remaining armor, a defense sturdier than most fortress gates. And yet, pain struck him again.
+
+All air left his remaining lung with a deep gasp of sheer, atrocious pain. A knife. A knife in his back?
+
+Someone had stabbed him.
+
+With a knife.
+
+It was too much. Feeling his consciousness fade, he cast his last, most powerful spell.
+
+***
+
+Viv watched the body of Elunath disperse in a cloud of dust above the cracked, thirty meters high death ball that insane fucker had created. The blood from his wound remained behind which was super weird in itself. Was the man stone or flesh? Was she flesh or… whatever it was black mana was? Very disconcerting.
+
+“Do you think we got him?” she asked Abe as he hovered beside her.
+
+Her soul sense now told her if something had died and it had not done so, not yet.
+
+“I do believe he whispered one last sentence before turning to ash,” Abe stoically replied.
+
+“And what was that?”
+
+Suddenly, a chunk of rock rose from the earth, breaking the layer of saturated ground like a submarine through the ice. It was soon followed by a muscular granite torso as wide as the average basketball court, then hands. Baleful lava eyes glared at Viv as more and more of the colossus emerged from the abyss.
+
+“I believe he said: ‘aspect of the walking mountain’. As stated before, I will attack his soul directly since he no longer has a physical body.”
+
+“Ah.”
+
+***
+
+It was a beautiful day to watch the end of an era. From his balcony overlooking the city, Dean Tallit had a perfect view of the titanic battle raging across the Helockian countryside. At this distance, the caster were but little dots flying in the distance, barely visible without superior finesse. The colossus, however, was not. There were no records of Elunath ever pulling that. It could only mean one thing. Either this was a new spell, or Elunath had never left witnesses before.
+
+He rolled his snifter and let the liquor’s perfume waft to his nose. Permodian, aged thirty years. Today was a special day. It was doubly so because the young Viviane had pulled the ravening archmage away from the city despite the fact that if she had not, the city would have come to her help if only to stop the devastation. A testament to her mercy after such a vicious campaign.
+
+He took a gulp. The alcohol burnt the way down while a floral scent lingered, just a little bitter towards the end. The colossus swung quickly and missed. Tallit counted three flying combatants. Viviane, Sidjin, and a third one he didn't know and who used elemental magic mixed with black mana. Those seem devastatingly effective.
+
+The unequal combat was coming to a close with the titan on its last leg. It would have destroyed entire armies in other circumstances. Here, it was facing prepared foes. They stayed nimble and airborne at all times. Viviane used change to corrupt and undo. Sidjin struck with devastating kinetic blows that took entire chunks off the construct. Meanwhile, the last one demolished the colossus’ internal circuit with unerring accuracy. Even from so far away, watching those three at work was a treat for this old caster. A part of him wished he could join but, unfortunately, his position meant he had to stay neutral at all times.
+
+A pity.
+
+Tallit finished his glass just as the titan collapsed on itself, entire chunks flattening an orchard around it. The witch was a competent planner as she had demonstrated. Unfortunately, she wasn’t familiar with Paramese politics. Not yet. An elemental archmage had fallen in public. An undefeated paragon of magic, defeated by an upstart in a straight fight. The ripples of this conflict would reach every corner of the continent. He would have to lend a hand with the immediate fallout. He owed her that much for sparing the innocent. It was a rare trait, these days.
+
+Tallit sighed and stretched.
+
+He couldn’t wait to become an elemental as well.
+
+***
+
+Elunath pulled back from his broken body. The pain disappeared. The confusion disappeared. He lost the perception of being a human. Even his emotions felt distant, as if watched from afar rather than experienced. The absence of pain didn’t come with relief but with disorientation and a terrible sense of loss. He was now in his core. No. He was now his core and nothing else. No need to breathe. No need to move limbs. Now, he needed to rebuild himself, and quickly, before the enemies capitalized on his weakness. He still had plenty of mana to work with. Rebuilding a body would not cost much. It would just require a high level of concentration. That was fine. He had a will of steel.
+
+First, he had to make the body out of stone. Marble would be a good choice. He had some around. An effort of will lifted a pillar from the floor with some difficulty. He still had a core but he no longer had conduits, and those would need to be rebuilt and retrained before he regained his flawless mastery of mana. He decided to slow down to avoid making mistakes.
+
+The rock melted like wax, splitting apart to reveal his vision underneath. First, his face, his beautiful face clear of damage. The eyes were whole again, as was the skin. Then the neck, the torso…
+
+Something was wrong.
+
+No matter how much Elunath tried, the hole in his chest would not reform. It was as if the image of his body came with that wound. Try as he might, he could not remember the sensation of being whole. He could not discard the wound the witch had left on his flesh. A brief application of life mana changed nothing. There was a corruption there that went deeper than the physical level. His body was gone a couple of leagues west of here and yet the stigma of annihilation still clung to the idea of it. Elunath forced and pushed but he was an outsider and this was just a statue and he felt his grip slip up.
+
+It became worse when the knife wound on his back did the same thing. That was the work of a Hadal assassin. They’d been gone for a few decades and he’d assumed time had rectified that mistake of nature, yet the witch had recovered one. It was just like her to pick up rejects from a bygone age. The core shone with resentment and the realization of his own limits. He needed help. Weaving a few strands of colorless mana, he linked to the room’s communication crystal. He would have to replace the one he left on his body. That would be a pain. He also realized he had no voice and needed to vibrate air to speak, which was another frustrating annoyance.
+
+“Renea.”
+
+“My lord?” the woman replied.
+
+“I need you in my sanctum.”
+
+“Immediately, my lord.”
+
+While she made her way, Elunath was now facing a conundrum. He had placed the sanctum on lockdown to prevent anyone from reaching his core while he was otherwise distracted. The defenses were only keyed to him, that was, to his physical body. One had to swim through stone to reach inside. Or pass through the tiny air hole but none of his students could do that. He had made sure of it. All his defenses were now working against his own interest.  What should have been a formality was turning into a huge problem.
+
+“My lord? The wards—”
+
+“I know,” he replied testily. “I am working on it. Give me a moment.”
+
+“Of course, my lord.”
+
+Elunath could only remove some of the defenses with a command. Was there some sort of universal key that would cut down the defenses? He didn’t think so. A brief search of his memory confirmed that the sanctum was specifically designed to avoid this sort of solve-all spell someone might have used against him. He could also not just deactivate the wards. The sanctum was designed to feed power to the system being challenged, and forcibly trying to deactivate one of the layers was meant to be taken as an assault. He considered attacking the circuit but discarded that idea immediately. First, the circuit itself was the most protected part of the sanctum except for the core barrier itself. Second, he would need the excessively complex construct later. The war was only just beginning.
+
+If only his girls were not so untrustworthy, then all of this might have been already solved! Even the loyal ones were often less than perfectly competent. In fact, he had only kept them around for sex and companionship but now he really could not see the point. Getting obedience tattoos would be enough to guarantee compliance with his demands. There was no point in socializing with humans anyway. Not anymore. Not after they had turned on him.
+
+Even his erstwhile fury felt more distant now that his mind was whole again. Why be angry? He could just kill and forget. Calmly.
+
+Elunath felt like sighing, even without lungs. There was only one solution he could think of. He would have to drain the defenses of power, let the girl in, then repower them afterward. It would leave him vulnerable for a moment yet he had no choice if he wanted to cleanse the memory of the wound. The rest of the mansion was still a fortress. He had little choice anyway.
+
+Slowly, methodically, Elunath cut off the sanctum’s defenses from their core. Alarms blared in his mind, warning him of an attack just as he’d designed them to do which compounded his annoyance. Things would have been much easier if he still had the hands to work with. Once that was done, it was only a matter of forcing the mana to disperse. He activated all the defenses at maximum and made it all inefficient. Mana soon flooded the sanctum until his perception of the world around him grew haze. It took a good five minutes to finish but by then, there would only be a few steps to coming in safely. Some of the measures could not be deactivated. One of them would send shrapnel at the first person diving down with enough speed to send their spines through the manor’s roof.
+
+“Renea, I will now tell you how to deactivate the last layer of traps.”
+
+Silence.
+
+“Renea? Renea, answer me.”
+
+More silence. Elunath calculated the next preferable course of action and realized he didn’t have one. He needed help. Just a flood of life mana to purge the wound should work but he didn’t have the means to do so and rebuild his complex body at the same time. Just one of his girls would be enough. What was happening? Why were they failing him?
+
+“Renea.”
+
+Still no answer. Elunath made to check the manor but with the defenses disconnected, it was difficult to gauge how things were going. The girls seemed to be moving around normally. Renea was still at the entrance, though she did not reply. There was perhaps another he could trust with this delicate task.
+
+Just then, something pinged from the tiny air vent. A sliver of darkness resolved itself into a fully grown person. It was, he realized, a Hadal strain human. The knife in the creature’s hand was uncomfortably familiar.
+
+A realization wormed its way into his consciousness though he denied it. He still had some defenses. Like the last barrier around his core.
+
+The Hadal didn’t do anything too strange at first. He dodged a few spells Elunath triggered more because he could than because he expected results. The accursed creature pulled out an amulet and dropped it on the ground where it resolved itself into a pool of darkness. A moment later, the witch appeared.
+
+Elunath still refused to accept that he had lost. The witch punctured the last active defenses with ease. None of his redundant systems were left standing. She was very, very patient and very, very thorough. He did not try to cast spells at her. It would be too humiliating to be swatted aside like a fly.
+
+What surprised him was how calm and detached she was.
+
+“You must feel very proud of yourself,” he finally snarled.
+
+“Believe it or not, this time, it’s not about me,” she replied.
+
+His following barbs were ignored. She made one last sweep then opened a witch portal from where the lich soon stepped out.
+
+A gaze made of dark blue flame fell upon him.
+
+“Hello Lunie. I never thought this day would come but here we are, despite the odds. How curious.”
+
+“Who are you?”
+
+“I am your first sin, so to speak. You killed Jesar. You killed me. We were the stepping stone of your power.”
+
+The core remained silent for a while.
+
+“Abe,” he finally said.
+
+“Abe is for friends. You should call me Abenezigel. And yes.”
+
+“After all this time, you are still after me for this, you cockroach?”
+
+Power flooded the room, the soul kind. The archlich was furious and now that Elunath had lost his body, the balance of power was reversed.
+
+“I did not have the luxury of letting go. You lived with the benefits of your sin and I survived with the scars. And now, after three hundred years, the game is finally finished.”
+
+“You will not get away with this.”
+
+“Oh I believe we will. Who can stop us, at this point? No one is willing to pay the price for you.”
+
+The lich walked forward and Elunath seethed to be interrupted, to be lectured.
+
+“Longevity is such a double-edged sword, do you not think so, Lunie? On the one hand, the best of us stay here for a very long time to guide and protect the next generations. We have the time to achieve greatness. On the other hand, it makes it hard to leave the world undefeated.”
+
+The lich glared at the core with such malice that the accumulated hatred almost bore a physical weight.
+
+“I want that ultimate defeat to sting so I will tell you what you know yet refuse to accept. This is your fault. I hate you and this is your fault. All of this, leading to this moment, is your fault. Your failure to properly assess us was born from your arrogance. You could not rely on a loyal force of mages because you are a mistrustful, abusive, paranoid rapist. You have accumulated so much enmity that now, at the end, no one is coming for you. This position of power you thought you had crumbled like a sand castle because it was built on cruelty and coercion. Even now, you are blaming the world and the gods and fate and your victims because you still deny reality and the reality is that this is all. Your. Fault. Look at me, Elunath. You killed Jesar. You killed me. You betrayed us all. For a long time, you got away with it but in the end the punishment comes from your sin, your fault. And now you’re going to die because you had slaves, not partners, and none of them could go through the wards to save you. And that’s your fault.”
+
+“You arrogant upstart!”
+
+“Upstart? I am older than you.”
+
+“Upstart still. All of you… mongrels banding together because you cannot tolerate the idea of greatness!”
+
+“Well that leads to an acceptable last taunt as well. If you were so great, Elunath, you would not be dead.”
+
+“THE DARK GODS TAKE YOU!”
+
+“You first, Lunie. Goodbye.”
+
+The last of the barrier faded with a sound of broken glass. The Hadal extended his knife and the lich took it before ramming it in. His blade pierced the core as if it were clay. The core shattered to pieces.
+
+For a brief moment, power escaped the tattered shards and then, there was nothing left of the archmage but half a bust and a trail of misery.
+
+“I…” Abenezigel began.
+
+Irao and Viv turned to him. The lick brought a skeletal fist to their empty chest, perhaps waiting for relief but it never came. His breast was hollow and the threads of emotions were but ghostly remains that kept his mind going. There would be no succor.
+
+“I feel so… very… empty.”
+
+“Ah yes, regarding that,” Viv said. “Since we’re done, there is someone I would like you to meet.”
+
+***
+
+The old Academy doctor sat gloomily in his study, arms crossed, brows furrowed, steely glare fixed on Viv with unerring intensity.
+
+“Haha. So, Tod, meet my friend Abenezigel. Your new patient!”
+
+“Hello,” Abenezigel whispered from behind a thick mask.
+
+“Viviane the Outlander, your friend has no pulse. He’s dead.”
+
+“Well, technically yeah.”
+
+“He has no flesh ! He does not have a blood flow. I can see his eye sockets from here!”
+
+“Very astute sir but if you could only hear me out…”
+
+“Viviane the Outlander, are you trying to get me to use necromancy?”
+
+“Of course not! I’d call this more, errr, post-mortem body reconstruction.”
+
+“Get out.”
+
+“Wait wait wait! What if the gods agree?”
+
+“What the hell are you talking about? Why would the light god agree to what is clearly the manipulation of life after death, which is, by definition, gods-accursed necromancy?”
+
+“Neriad please tell me if I’m fucking up!” Viv said, clapping her hands together and flooding the righteous god with mana.
+
+A divine light descended in the room. Viv gasped. Soon, a powerful voice filled the air with its divine presence.
+
+WHY DO YOU NEVER PRAY FOR A STRONG SWORD ARM? YOU ALWAYS COME UP WITH THE WEIRDEST SHIT. ENTTIKU IS THE RULER OF DEATH. TAKE IT UP WITH THEM.
+
+“Sorry. Wrong number.”
+
+***
+
+In the end, Viv did not attend the conversation between Abenezigel and the goddess of death. She was here when they rebuilt a body, albeit one of gray skin and eyes the color of deep wine. A large mark of Enttiku was placed on Abenezigel’s face never to be removed. After the procedure was completed, Tod left to write it down in his notes, leaving Viv and a stunned Abe behind.
+
+“I… can feel. I can feel relief. The relief I was denied. I am myself again, and free, though the goddess may ask my service.”
+
+He leaned forward, touching his knees with newly regrown fingertips.
+
+“Now what?”
+
+“Now we wrap up and we get the hell out of this town.”

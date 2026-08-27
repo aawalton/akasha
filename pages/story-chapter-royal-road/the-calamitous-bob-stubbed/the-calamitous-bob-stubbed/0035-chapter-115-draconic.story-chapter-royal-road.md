@@ -1,0 +1,315 @@
+---
+id: 73ff6a33-9c9b-50bd-85e1-1854ef4a40a0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 115: Draconic"
+slug: 0035-chapter-115-draconic
+partOf: the-calamitous-bob-stubbed
+position: 35
+ownLength: 6059
+unit: words
+ownProgress: 6059
+publishedAt: 2023-04-21
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1187869/chapter-115-draconic"
+royalRoadId: "1187869"
+markedReadAt: "2026-06-29T21:15:55.754Z"
+---
+
+It was a beautiful day to be She-Who-Feasts-On-Many-And-Gets-Much-Gold.
+
+The wind and the gray caressed her scales when she took flight, their presence light and familiar. Far above the city, the overwhelmimg smell of stupid borgling things faded into pure morning crispness. In the air, she felt truly free, truly herself. Fluffy white clouds called her to play as they drifted above, blown south and away from the deep blue ocean. She considered piercing through to the sun above but reconsidered. She decided to show foresight! Planning! Vision! Just like mother did when she wanted something.
+
+Yes, She-Who-Feasts-On-Many-And-Gets-Much-Gold was a profound thinker and a visionary, a true light of knowledge. Her amazing mental prowess let her know in advance that she would regret her decision if she answered the call of the flight, for above the clouds, there was nothing to eat.
+
+And she was really hungry.
+
+She was always hungry, these days. Sometimes, mother said she had spent too much time in the sad cave before mother found her, and now she was catching up. The dragonette did not like to think about that time. The cave had been filled with starvation and pain and fear and what she knew now was hopelessness. Thinking was not meant to make a dragon sad! It was meant to make a dragon RICH. And sated. So she thought and did not have to think for long. There was always a reliable way to get food.
+
+She angled her wings down and forward and used a little gray to move faster, the world bending just so to get her closer to her goal. The azure of the sky merged into the cobalt of the ocean almost seamlessly, but there was white as well, the white of low happy clouds, the ephemeral spume marking the waves, and the more geometrical dye of sails.
+
+More specifically, fishing ship sails.
+
+She-Who-Feasts-On-Many-And-Gets-Much-Gold looked around, bending the world a little to help her already prodigious sight. Just like mother’s mate had shown her. It was already mid-morning and the huddling mass of masts had spread out to find schools of prey. Most of it would be too small to provide good nourishment. She could afford to be picky, these days. Also, it would not be fun and mother had taught her that good prey was fun to catch. Like the prince thing. Shortly, she found a charcoal rendition of herself reverently drawn upon a large sheet and dove, descending with speed towards this specific ship.
+
+It was a large one, as far as human floaties were. She was pretty sure she’d seen it before, teetering on the edge of dangerous waters hunting for larger prey. It even had teeth mounted on large crossbow things to snatch unsuspecting food. Yes, she had probably used it before. Hard to be sure. Those borgling humans all looked the same to her, and their imprint on the world was so small. Not like mother. She hoped mother would grow scales at some point. All she was growing now was hair. Maybe she should eat more.
+
+She-Who-Feasts-On-Many-And-Gets-Much-Gold let out what absolutely had to be a terrifying and mighty roar, a harbinger of the apex existence to come. The humans heard and spotted her. The one with the biggest hat pointed at her and all turned with hushed reverence. It was probably the head borgler. They borgled the most and could be recognized by having either the biggest hat or the most colorful plumage. Like birds. Very easy.
+
+The dragonette landed on the railing and spread her wings to assert dominance. With aesthetically pleasing coordination, the humans bowed deeply to acknowledge their respective place in the hierarchy of everything. The hat man took a few steps forward and fell to his knees. He started to point and gesticulate towards some indeterminate direction to the side in a language She-Who-Feasts-On-Many-And-Gets-Much-Gold did not recognize yet and how annoying it was that humans had languages that they expressed by vibrating their mouth orifices and flapping their fleshy bits around like fat rolls on an old cornudon. She understood the gist of it because she was very, very smart. And also because they had done this dozens of times. She-Who-Feasts-On-Many-And-Gets-Much-Gold needed a lot of food and the lands around the city had little wildlife. And seafood was tasty also.
+
+Taking off, the dragonette went to hunt. Oh, she was a smart hunter. The smartest. Mother had taught her the meaning of bait. She-Who-Feasts-On-Many-And-Gets-Much-Gold was not just smart, she was sneaky and patient. The best. And so she moved above the flowing tide, slow and low, doing a lot of thinks.
+
+Am fat bird.
+
+Fat bird.
+
+Very fat bird.
+
+Come on eat me.
+
+Eat fat bird.
+
+And it worked. One moment she was flying through air and gray mana, the next a spike of blue under her wing heralded the coming of an attack. A ball of infused water as large as she was launched up, catching her entirely. Then, it immediately pulled back down.
+
+She-Who-Feasts-On-Many-And-Gets-Much-Gold went with the flow and retracted her wings, taking over some of the blue to stabilize her fall. As she hit the water, she flexed her own power and took control over more of it. Her dive ended in the center mass of a chewy-leg. Its two eyes widened and it flayed its eight appendages in a terrible panic, trying to grab the attacker it had thought was a victim.
+
+The dragonette tore into her opponent with relentless fury, the water no obstacle to her. The sea was just another place of weightlessness. Claws raked a thick hide. Her teeth dug into the hard flesh and gnawed, tasting the sweet meat. The chewy-leg struggled to escape. It did not know that it was still stronger, still dominant, because it was a dumb predator caught off guard and it could not think. Not like She-Who-Feasts-On-Many-And-Gets-Much-Gold. Their struggle continued as they slowly sunk in an ever changing dance. Sometimes the dragonette was up, sometimes she was down, but she was never stopping. The moment she did, the chewy-leg would realize she was less than a quarter of its weight and not that strong yet. It took a little while but eventually the beast managed to catch her six limbs into its eight and squeezed. She could feel its tiny suction-claws digging into her scales, trying to peel them off her skin.
+
+So she did like mother and sent spears of power into its eyes.
+
+The creature was fast and it dodged, but not fast enough. One orb was lost and the other closed when the spear removed some cheek. Blood leaked from the opening, thick and heavy. She knew it was ready to fall, and so she waited. Patient hunter. She would be rewarded soon.
+
+The beast shook with pain, tremor traveling along the boneless body. The dragonette bit more and clawed more and did not let it rest. She pressed it until it was trapped and finally, finally did what she had been waiting for all this time. It turned and exposed its beaked core to take a bite off the magnificent dragon harrying it. Just as planned! The smartest dragon waited for the fateful moment with giddy anticipation. Truly, she was as smart as she was strong and fast and patient and good-looking.
+
+The beak opened. The dragon breathed a plume of smokey dark fire. The superheated ‘werfer’ was so powerful the water around them boiled, which was also a very important pre-cooking step. Infused black mana carried destruction into the beast’s innards, annihilating enough of it to end its life. It spasmed and constricted She-Who-Feasts-On-Many-And-Gets-Much-Gold in the grasp of its dying limbs, yet the dragonette held no fear. The struggle was over.
+
+She willed a ball of blue light to breach the shiny surface of the sea above. It rose through the air like a second sun to announce the news of her glorious victory to the world at large. Soon enough, the flat bottom of the ship reached her and men dove under the water just as she finished disentangling herself from her prize. They attached ropes and pointy things and hoisted the beast out of the water. The dragonette launched out with a flex of will, taking to the air with a triumphant roar of rage that was very impressive and very adult because all the humans stopped and bowed deeply to her.
+
+Now was the time for her due reward.
+
+The crew gathered around the carcass, butchering it and bringing her the choicest morsels. She nodded at those she fancied and the men placed the precious flesh on skewers which they covered in spicy sauce. The captain himself got a brasero going to supervise the cooking himself, which he delegated to the head roaster. Once the meal was done, he kneeled in front of her and presented her with her due tribute: two gold talents.
+
+Those shone just as beautifully as the first ones she had looked at, all those many days ago in the mountain. Shiny ridges caught the light of the noon sun in mesmerizing patterns. They were soft and warm under her claws.
+
+After inspecting each one with great care — one of the fishermen had tried to give her a bad one and his eyebrows were still regrowing — the dragonette placed each on the slightly larger pouch around her neck, never wondering why it grew in size to match her nor why it was just as light as before. She patted the artifact with satisfaction, then attacked the meal laid before her.
+
+The hat man and his chief brasero handler or whatever the humans called the individual in charge of cooking stayed by her side to attend to her needs. Sometimes, she would request some more sauce and they would diligently glaze the crisp flesh until she gestured them to stop. The feast lasted until she was full and sleepy, then the ship sailed back with the rest of the carcass and herself.
+
+She-Who-Feasts-On-Many-And-Gets-Much-Gold woke up from her nap in the early afternoon and dove for a soak, then she left the fishermen behind to hunt for eggs among the cliffs.
+
+***
+
+Night had fallen and the light of Nyil’s moon shone on the strange floating rocks above the skies of Helock, with the distant shape of the chalice dominating its lessers. All of this Viv saw through the small aperture of a filthy window because she was inside a warehouse, bored out of her mind.
+
+Hurry up and wait was the name of the game in Nyil as well. This was Solfis’ operation, and she was in position to receive fleeing assassins if any escaped the golem’s wrath. The operation had yet to start, however, and she and her picked squad of disposable goons guarded one of the possible exits in awkward silence.
+
+Dust filled the air. Shelves lined the interior, all of them loaded to the brim with crates and barrels. It was warm and didn’t smell very good. Viv could hear rats scurrying around dark corners. She idly scratched the back of her borrowed gauntlet to chase away a phantom itch. Maybe tonight they would finally put an end to Sidjin’s saga of academic revenge and she could put that out of her mind. Focus on gaining Elunath’s favors, since Solfis’ strange new ally still refused to communicate with her directly.
+
+Weird how what amounted to intellectual property theft ended up in a dark building with a lethal trap rather than in a courtroom. But that wasn’t her fault this time.
+
+Silence reigned outside despite the relatively early hour. The city was tense with a sense of foreboding that extended to the squad within. Viv had taken every precaution she could think of. She wore enchanted armor meant for assassins with a hastily patched hole near the heart, a sign it had been recently ‘liberated’ from its previous owner. Knit runes facilitated the use of black mana and some mail protected her vitals. She also wore a helmet of dark steel and her yries- made roundshield. The passage leading down had been warded and its threshold reinforced by an improvised shield circle just in case. Truly, she had prepared as much as she could. Despite that, she couldn’t help but feel a nervous tension. A little introspection told her why.
+
+She wasn’t in charge.
+
+Not that Solfis couldn’t be trusted, but most of the previous actions she had been in were planned and commanded by her with valuable input from qualified people. She had led the Kazarans to take back their city, then led the newly minted Harrakans to defend their land. The raid on Sterek’s lab had been her brain child. Even in the rare case someone like Solar had led, she had been at the center of the action as a war caster. But now she was back to being a grunt, not even a strategic piece. Solfis, Sidjin, and Lim the Fell-Handed led the various teams responsible for closing in on the assassin den from every direction and killing them to the last to avoid grudges. She was just a cog this time, a safety valve for a secondary entrance.
+
+Viv checked the spell arrays with her mind one last time. Everything was working as intended. It should be time now.
+
+Somewhere in the distance, there was a crash.
+
+The squad tensed, all four of them around Viv. Their posture went from casual to ready. They wore dark armor like her as well as an assortment of weapons. One even had a shield. Viv strapped on her own, the cumbersome and over-decorated disc familiar in her hands. She paid attention to the wards. In the distance, a muffled scream echoed. She was not sure if it came from outside or from the narrow entrance leading down.
+
+They waited.
+
+Maybe no one would come this way. It was a possibility.
+
+Viv cursed herself for thinking that. Provoking the spark of luck was the surest way to conjure some sort of horror. Maybe the assassins would release a battalion of monkeys infected with a zombie virus, thus plunging the world into an age of terrible body odor.
+
+While part of Viv’s mind did wander, most of it was dedicated to the wards and their function. Magically enhanced intellect was truly something. It would not make you smart but it would make you stupid with peerless intensity and attention to detail. And of course, the wards activated soon enough.
+
+“Contact,” she whispered.
+
+Nothing happened. The opening in front of them remained a dark pit, but Viv was sure of herself. Her wards were especially sensitive to black mana. Something had crossed them.
+
+She was not going to wait. Anyone escaping an assassin’s den and using black mana was a target for her. Viv was going to strike first, but something held her back, a remnant of her past. Rules of engagement. She had not yet determined those were hostiles, technically.
+
+She sent a small net anyway and the shadows exploded outward.
+
+Time slowed in her perception. She activated the gate’s shield which blocked someone but two others stepped through the shadows to escape the enclosing walls of energy. While she was so close and paying attention, the use was definitely intent-altered black mana. She could almost taste it. She lifted her round shield and coated herself rather than attacking. Her danger sense screamed and something pinged against the steel pane held in front of her chest. An instant later, a light drain near her head informed her that another projectile had been stopped. She hadn’t sensed this one coming.
+
+Her four squad members were engaging the two shades. The head shade had blocked a nasty sword strike and was now rolling backward like a ninja, ready to move through the darkness again. Viv felt where it would reappear and nailed them in the back. They let out a high-pitched scream.
+
+“Lyssa!” the second shade screamed, distracted. Clearly a young man.
+
+One of her goons did not let that opportunity go to waste. The second shade received a blade in the neck for his trouble and fell, gurgling his lifeblood away. Viv opened her shield and cast at the same time, piercing the chest of the third one in multiple places. He fell without a noise. He had not resisted.
+
+Viv considered the trio as she reactivated the wards. The goons moved their bodies in a pile on the side. From the cheap weapons to the size of their bodies under poorly dyed fabric, Viv could tell those were… apprentices. No older than eighteen for sure. The guild was evacuating their younger members into her net.
+
+“Merde…” she cursed to herself.
+
+Nyil had her killing kids. Never a good thing, even though they were trained murderers. She closed her eyes and focused, centering herself. The high mental stats she enjoyed allowed her to push aside guilt and regret with disquieting ease. It had to be done for Sidjin and for those who did not deserve to die because a rich person had decided they should. Soon, all that remained in her mind was the gaping maw leading underground and the protections she had placed there. Dull screams of agony and clashes of steel echoed, far away, their sounds strangely distorted by the distance. All five watchers waited quietly. Viv felt her anxiety spike despite the lack of action. It was as if something ominous was coming.
+
+It took her perhaps two seconds, an embarrassingly long amount of time, to realize that it was not anxiety she was feeling.
+
+Danger Sense: Intermediate 5
+
+A part of Viv registered that this was two levels at once, another was casting the most powerful black mana hive shield she could conjure, and the last part screamed at the top of her lungs.
+
+“TAKE COVER NOW!”
+
+The thugs were a little slower to react but they dashed with skills around the building, putting as much distance as they could between the underground’s exit and themselves. For an instant, it was as if the world was holding its breath while Viv dove behind a shelf. She could barely spot an assassin walking up a support pillar. There was a stamp on a nearby crate, every detail clearly visible from this close up. All the little details of life like an abandoned cobweb or the grain of a nearby plank appeared magnified to her perception while terror needled her on, pressing her to pile protection upon protection.
+
+“Hive shield.”
+
+The segmented black sphere finally expanded around her in the dim light of the empty, silent warehouse.
+
+Five blue spheres snaked out of the passage with lazy grace, each one angling randomly, each one as brilliant as a comet trailing ice behind. They cast a strange glow on the place. The power within each paralized her mind. She could not spot a weakness. She could not see where to strike to break them and disperse the monstrous payload held in their ovoid bodies. They were all so mesmerizingly beautiful as they spread around the room, bathing everything in an azure glow. Like butterflies near an erupting volcano.
+
+They exploded.
+
+Of course.
+
+Viv grit her teeth when her world turned blue and very, very sharp. Shards of pale blue bit into her shield with vicious glee, fighting her annihilation with a will of their own. They were not just sharp, they also carried a numbing feeling in their mirror depth like a siren song. So pretty and so deep, so calming. Viv just had to let go and embrace them and all would be well. She was warm, so warm and relaxed. Just… breathe and shed her worries, her drive. The other side did not know suffering.
+
+The part of her soul that was a little aware of its nature woke up and helped her resist. This wasn’t right. To live was to struggle. She had been caught off guard, thinking only stragglers would test them but something was coming and she had to resist it. She had to resist because no one would rob her of her decision to live or to die.
+
+The same inner strength that fuelled her will to push against the easy path life had laid for her revolted at the thought of going to sleep. She had not left home in disgrace, graduated from special forces training, then crossed a desert and led a budding nation to independence to let herself die in some stupid warehouse. Annihilation rejuvenated the shield and pushed back against numbing coldness. Draconic arrogance battled the sweet embrace of sleep until, finger by finger, she lifted herself off the frozen ground.
+
+“Aaaah,” she forced herself to say, to exist, to live, to break the oppressive silence.
+
+“Ah. Ah. Ah. Test. I live.”
+
+“So you do,” someone replied from a distance.
+
+Willpower +1
+
+You have reached a milestone! Your ability to influence and resist the influence of others has vastly improved. Transcendental tenacity: you can remain conscious and cast even as your body gives out. You can remain conscious after overusing mana. Your casting efficiency has vastly improved.
+
+Lost Heiress (8/10)
+
+Power coursed through Viv’s mind as it improved. She was still fighting the gripping cold of the spell but now she was winning handily. Even the pain of frozen shards biting into her fingers through the armor felt unimportant. She quickly took in her surroundings.
+
+The warehouse was devastated. Not a single window remained. A cloud of frozen white powder hung in the air like mist, giving it a ghostly valley appearance. At first, Viv suspected it was just frozen humidity, but she quickly realized that it was, in fact, flour. The many crates and barrels lie gutted across the ravaged room, their contents spilled everywhere. When Viv stood back up, crushed wheat depressed under her boot. A piece of wood groaned.
+
+“Here you are,” the male voice said.
+
+Someone had heard. A shadow emerged from the dust, a man in a richly decorated blue robe. A bandoleer filled with potion hung across his chest while the glint of mail winked from under expensive fabric. He had gray hair and a calm, elegant face as placid and cold as a winter lake. Brown eyes followed her while she took a step back.
+
+[Court archmage: an advisor and potent caster, versed in magic and governance. Very dangerous.]
+
+She knew this man.
+
+“You are… Tamar.”
+
+“In normal times, I would insist on the ‘lord’ part. I suppose it doesn’t matter since I lost my position. After the death of Constable Tarano. Which you caused.”
+
+She had last seen the man on the roof of the Green Edge fortress dishing it out against King Sangor’s elites and had since then completely forgotten about him. In the Enorian loyalist’s voice, there was a cold fury that reflected the plummeting temperature in the room. Even the warm summer air rushing in from outside failed to dispel its scornful intensity.
+
+“But…what are you doing here?” she asked, fearing the answer.
+
+The man took a step forward, a sneer on his face.
+
+“What am I doing here? Sometimes, I ask myself the same question, Bibiane the traveler. What am I, a disgraced old fool, doing here?”
+
+He stopped, looking at her. She had half a head on him but there was something in his posture so domineering she found herself cowed. An aura radiated from his calmly standing, one powerful enough to suppress her.
+
+“It will do me good to talk, I think. You will find that your precious golem is tied with more capable fighters than you expected, so we have a few minutes. Yes, I knew you would come. I did place Sterek on your path, after all.”
+
+“What do you mean?”
+
+“I merely provided the funds and impetus to send assassins after your boyfriend. You do not expect the builders’ guild to agree to bankroll a hit, surely? I did so because I wanted you to suffer before I killed you, but instead it turned into a life lesson.”
+
+Power radiated from the man. A barrier suddenly appeared and covered the entire edifice outside of the shattered windows. Viv could feel it through the walls, a rectangle of large proportion shutting her in. She thought about attacking, then hesitated. Time was on her side? Probably? She wasn’t so sure. With every moment, rescue grew closer and she was also recovering but the man had time to prepare. Unless he was too absorbed in his two-bits villain monologue.
+
+“I thought you were a lucky bitch who cruised on charisma and a bit of talent, but I found out I was wrong when I saw the trace of your work along the river. Prime casting, that was. Then I assumed you were immensely talented and equipped with foresight. Only now do I realize that you are, in fact, a lucky bitch with charisma and a bit of talent. It’s that luck that angers me beyond reason.”
+
+He glared down at her with a strange immobility. Viv had never witnessed such contained murderous urges before. At least not from a human.
+
+“So why am I doing this? Knowing some outlandish fate will stop my hand at the last moment and give you a chance at survival? Despite all my preparations? All my skills? Because, Bibiane the Outlander, you can’t just get away with it again and again and again…”
+
+Debris crunched under his shoe as, once again, he advanced. This time, Viv scrambled back, almost slipping in the process.
+
+“Again and again and FUCKING. AGAIN. That insolent fortune carrying you through impossible odds. Do you know how long we true sons of Enoria fought? How much we sacrificed? Only to see you arrive with your stupid fate to ruin decades of planning because you are just that fucking special. There is always a way out for you, no matter how tight the mouse-trap. You are never fully defeated. You do not know despair and powerlessness. Seen everything you loved turn to ash in a single hour. And that annoys me because you do not deserve those chances, and my kingdom did. Oh, I know the world is unfair, no need to frown. And yet, knowing that… I still can’t let it go.”
+
+Power raced through the man’s frame, making her grit her teeth from the sheer intensity of it. Mana rushed into his expanded form and to her sight, he looked like a colorful giant of blue and brown and red, a titanic being that transcended the limits of his flesh. And now, all that power and potential was aimed at her like a SAM at a glider and there was nothing to stop it but hope and thin air.
+
+“So go ahead and show me how you make it out, monster. I want to see.”
+
+Viv’s time perception slowed again while her danger sense screamed at her, forcing her to move. Her muscles screamed as she dove to the side and still a bolt of transparent energy hit her right leg, piercing through her mana coating and half a centimeter of armor. At the same time, her telekinesis spell sent a nearby shelf crashing against the mage’s shield. It left him completely unfazed but it did block his view.
+
+Viv fell painfully on her side and raised a powerful black shield, this time leaving the annihilation meaning aside. She was only stopping spells, not objects, and there would be a lot of those.
+
+“I don’t need to see you,” the man calmly stated.
+
+More lances of pure energy smashed against her defenses, straining them immediately. She hid behind a pillar and found the mangled remains of one of the goons. The shards of crystals were still embedded in his body. Blood marred the pristine surfaces in great vivid splotches.
+
+She was so fucked.
+
+No, not yet.
+
+Viv used the momentary respite to counter-attack. Another kinetic spell sent another shelf against the man with the same complete lack of results. Tamar casually blocked an overcharged black spear with a localized shield. He still had at least three layers of protection active.
+
+The man lazily moved on after her.
+
+“I’m leaving this pillar intact because I don’t want the building to fall on me,” he informed her in a light tone.
+
+Viv used werfer while backpedaling. Her wounded leg lanced her with every step. Some blood dripped on the frozen ground. The vast spell should have eaten through Tamar’s protections but glyphs activated and the outer shield bubbled, countering the onslaught. The next wave of transparent blades smashed into her, pushing her against the wall where she collapsed. Her Yries shield had blocked one and the magical barrier others, but one had weaved and bit into her side. More blood fell on the ground, freezing in ruby-colored pearls when it hit a shard. A sudden, delayed realization hit Viv. She was completely and hopelessly outclassed.
+
+Tamar was there, cautiously making his way through the wreck. He wasn’t even looking at her. His gaze glanced over the flour dust and the window for intruders. The only reason why Viv still lived was because the man was overly cautious, expecting a meteor or something to give an opening. He didn’t know how her luck worked, so he was extra cautious.
+
+She needed out.
+
+There was still a rectangular barrier in the way of her flight, and it looked sturdy. She had to gain some time. Deny him vision, at least, but he had achieved mana mastery for sure and she shone bright in his perception. No amount of thrown furniture and dust clouds could subdue her magical signature enough to hide her. She had to block his perception. Her need for an escape sent her imagination into overdrive, reviewing the recent ‘teleports’ she had seen from the assassins. Black mana acted like a rope or a twisted blanket they could ride. In fact, they needed a spot of dark mana to move somewhere. That’s how she anticipated where they would end up.
+
+If she could not blind him with debris, perhaps she could do it with mana.
+
+Viv formed a blight spell, the cloud gathering in her hand, but this time she did not use the meaning of annihilation and it formed very quickly. Tamar gathered a fourth shield around himself while attacking at the same time. He was still not fully paying attention to her. A spear bit in her hand under the ring finger and ground against her bone. The pain was excruciating but her concentration did not falter.
+
+The cloud left her stretched, freely bleeding hand, expanding in a cone to cover the archmage. At the same time, she jumped to the side and the next spells missed her completely. She had succeeded. It would only last for a couple of seconds and he could always run forward but for now, she had succeeded. And her mind recoiled from the revelation. The world linked her to the cloud, the cloud to Tamar, the warehouse to the city, the need to the effect. The cause, to the consequence. Darkness was evasion and denial and simply refusal of sight, of meaning, of understanding. It would saturate the other’s senses until all they could perceive would be a lack of her. She had grasped the meaning before but she had not made it hers, but she did now. Black mana’s third concept settled in her soul alongside annihilation and change, humming softly.
+
+“Blight.”
+
+The cloud expanded again, this time so thick and deep it absorbed the very light. Her armor turned ghostly and vaporous, more a wraith cape than intimidating armor. Even the mighty form of Tamar grew diffuse behind a spell she still controlled.
+
+“It won’t help!” he roared, though she barely heard more than a sigh. Everything was thick and Tamar… Tamar was blind.
+
+Wasting no time, she cast a silence spell around her to mask the sounds of her shoes just in case, then she made to attack the barrier. Her first spear clashed with powerful colorless glyphs, shaking them but not breaching, not yet. The court archmage moved forward with more urgency. The blight was persisting. Its presence pervaded the warehouse in a thick blanket from where a variety of spells were cast out in every direction. Debris showered Viv while she raced forward, clutching her pierced hand to her chest. There was a lot of blood.
+
+Tamar ran out of patience. His muffled scream reached Viv and she gasped with abject surprise when red mana pulsed in his aura.
+
+Red mana. Did he not see where they were?
+
+The man was mad!
+
+Completely and utterly insane. She had to do something, but what? The barrier still covered the exits. Or rather, a rectangle around the warehouse.
+
+That was it. She raced to the door using a burst of speed and booted it down. Panic gave her wings. Black mana covered her in the thickest coating she had ever raised. No time. She dove in the narrow passage between the wall’s exterior and the barrier.
+
+Tamar cast the fire spell that would banish her blight, destroying it in a flash of light.
+
+The first ember ignited the thin particles of the flour dust with a great woosh. In an instant the entire warehouse went up in great roaring flames. Viv lost control over the blight spell in an instant. It did not matter.
+
+Tamar was silent for a moment, then the screams began. Viv understood. This was not a spell he was facing but a natural effect. The barrier wavered.
+
+“Excalibur.”
+
+The short-range spell pierced through the weakened obstacle. She was out.
+
+Viv ran as fast as she could. Adrenaline rushed in her veins while her feet beat the ground, pain lancing her with every step. The heat was now a wall at her back. It spurred her on. Its red glow fell over every shape of the street to give them long and threatening shadows. Already, distant yells and bells warned the city of the danger in its midst, but that would not matter for a while.
+
+Danger sense warned her again and she tried to jump aside. She failed. Her body was giving out from too much sudden abuse. Pieces of masonry pelted her collapsing body. There was a crack. Viv was on the ground, fingers gripped against the unyielding pavement. Smoke and stones everywhere in her field of vision. Blood stained her armor, visible on the black fabric.  She turned her head. It was the most she could do.
+
+Tamar was standing in the middle of the street, backlit by the cruel inferno he had triggered like some hellish judge of the souls. Pinkish fluid oozed from a dozen fresh burns but his eyes glinted with delayed malice. Viv was completely out of juice and completely at his mercy.
+
+“Is this it? No more tricks?”
+
+“There… is one,” she croaked.
+
+“If you have to speak, do it fast,” the man said as another blue sphere formed above his head.
+
+“Solfis can track my vitals.”
+
+Incomprehension made him frown, but it did not last long. The implication was clear. Solfis had known she was in danger the moment she was hurt.
+
+For the first time that night, Tamar panicked. It did not help. The tall bone form of Solfis pierced through the blaze at his back and stabbed five sharp ivory blades in his chest, disregarding the layered shields. The archmage tried to cast one last spell at the fallen Viv but immense willpower did not work without a head.
+
+Viv collapsed on the ground. her cheek went to rest against the cool stone. She was so very spent.
+
+//There is no time.
+
+//We must go.
+
+The golem gently picked her. In an instant, they were on a nearby roof, jumping to another. People screamed all around in a great cacophony. Viv also heard the unmistakable roar of combat. Her tired brain summoned a thread of logic from its exhausted depth. That was not consistent with firefighting activities.
+
+“What’s going on?” she whispered.
+
+//At least two food warehouses have gone up in flames.
+
+//This one and the closest neighbor.
+
+//It means the poor of Helock will starve.
+
+//Several gangs have taken the initiative to act now.
+
+“Wait… do you mean…”
+
+//The ethnic cleansing starts tonight.

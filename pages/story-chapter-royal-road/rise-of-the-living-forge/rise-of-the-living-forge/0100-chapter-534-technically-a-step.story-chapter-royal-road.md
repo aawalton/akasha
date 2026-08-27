@@ -1,0 +1,141 @@
+---
+id: 245f084f-dfca-57a6-b813-0428efb21e03
+page-type-slug: story-chapter-royal-road
+title: "Chapter 534: Technically a step"
+slug: 0100-chapter-534-technically-a-step
+partOf: rise-of-the-living-forge
+position: 100
+ownLength: 1661
+unit: words
+ownProgress: 1661
+publishedAt: 2025-12-29
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2890122/chapter-534-technically-a-step"
+royalRoadId: "2890122"
+markedReadAt: "2026-06-29T20:01:38.097Z"
+---
+
+Everyone watched Eleven in silence for a short while. It wasn’t that a single one of them had misunderstood her. At this point, they were all aware of just how significant Sunsetting was. The difference in Arwin alone was more than enough to make that abundantly clear.
+
+But there was only a single slot available. Even if Setting Sun was willing to keep helping them, going first meant stopping someone else from getting that opportunity.
+
+Or, in other words, everyone was way too damn considerate.
+
+They all just turned their eyes to Arwin. He didn’t know how that was meant to solve anything. Just because he was guild leader didn’t mean he knew the answer to every single problem. He had complete faith in every single one of his guild members.
+
+Arwin also wanted every single one of them to get the chance to Sunset. And, unlike Rodrick, nobody was stuck with a class that was objectively holding them back. That made things a hell of a lot harder.
+
+“You know, someone could at least volunteer,” Arwin said. “Staring at me isn’t going to solve anything.”
+
+“You’re the guild leader. That means this is your problem,” Anna said with a shrug. A small grin flitted across her lips. “This way, we can all grumble about who you choose without having to take responsibility for it ourselves. For the record, I’ll be mad if you choose me right after Rodrick got back. But I’ll also be mad if I get passed up for no reason. I want to Sunset my class as well.”
+
+“What am I supposed to do with that information?” Arwin asked, throwing his hands up into the air. “It’s useless!”
+
+Anna just grinned.
+
+“I volunteer Olive,” Reya said.
+
+“Yeah?” Olive asked, glaring at Reya. “You trying to get rid of me?”
+
+“What? No! I—”
+
+“I volunteer Reya,” Olive said, crossing her arms in front of her chest and sending the other girl a smug smile.
+
+“And you have both also proceeded to be entirely useless,” Arwin informed them. He glanced to Kien.
+
+The former hero didn’t even blink. That didn’t mean he wasn’t interested. Kien was just completely unreadable. He was just that kind of person. Guessing what he was thinking was functionally impossible.
+
+At this point I almost want to choose the damn Infernal Armory. Unfortunately, I can’t shove an entire building through one of Eleven’s portals.
+
+Lillia wasn’t being of much help either. A grin had parked itself on her lips as she watched on, not even bothering to hide her amusement. She didn’t look like she was going to be of much help either.
+
+There wasn’t an obvious answer, which meant the only winning play was to let someone else either volunteer or make the choice while sitting back and enjoying the show.
+
+“I have no need to Sunset my class right now,” Art said. “Given what we know about the intensity of the process, I’m not certain I’ll survive — or it might hurt Vix. We’ll both wait until you’ve had a chance to fix her heart.”
+
+Arwin nodded. “And that’s next on my list of tasks. I think I’ve actually got enough experience to attempt something at that level… but it still doesn’t help me right now.”
+
+“I could leave and come back after a nap,” Eleven offered.
+
+“No,” Arwin said. “Just wait a moment, please. You’ll be gone for at least a day if you do that. Two weeks is a lot of time, but I don’t’ want to go wasting days.”
+
+“A day isn’t wasted if you’re sleeping,” Eleven advised. “But it is wasted if you could be. Figure it out. My bed is waiting for me.”
+
+“Okay,” Arwin said, raising his hands palm-first. The Menagerie had a fair few people in it. The easiest way to choose someone was probably to figure out who shouldn’t be chosen.
+
+Thane was at the top of the list. The boy was too fresh. Out of everyone in the guild, he had the least experience fighting. It would be best to let him keep growing and getting stronger before plunging him headfirst into a stream of concentrated Mesh.
+
+Art and Vix had excluded themselves, and Eleven had told him that Esmerelda had already Sunsetted her class some time ago. Madiv hadn’t really shown any desires for change, and he had the Auction House to worry about. Adding something else onto the vampire’s plate right now would probably be a bit much.
+
+And Wallace… well, Wallace was a smith. There was a good chance he’d be interested in Sunsetting. But it didn’t feel like he really needed to rush into it either. Arwin was pretty sure there was a better option than him.
+
+That narrowed the options down a fair bit.
+
+Arwin let his eyes drift over everyone in the room one more time. Then a thought struck him. A grin pulled across his lips. The more he thought about it, the more it fit.
+
+Yes. That will do quite nicely, I think.
+
+“Okay,” Arwin said. “I’ve got it.”
+
+“Who?” Eleven asked. She snapped her fingers, pulling a dark portal open at her feet expectantly. It was clear she had no desire to waste any more time.
+
+Arwin pointed. Not at any of the people who had volunteered each other or those who had requested not to be picked. For that matter, he didn’t point at a person at all.
+
+He pointed at the Menagerie’s one and only Lich.
+
+Koyu turned to glance over his shoulder. Then he looked back to Arwin.
+
+“Who are you pointing at?”
+
+“You,” Arwin replied.
+
+“That has now become apparent,” Koyu said dryly. “Is it possible you were struck on the head at some point during your trip to the dungeon? Why would you choose me?”
+
+“Because I promised to make you a new body,” Arwin replied. “But there’s more to a body than just the casing. You want to be free. That’s what drove that request, isn’t it?”
+
+“Yes,” Koyu said. “But have you forgotten? Even if I were willing to Sunset, I cannot leave this street. I am bound here. That is the very reason I asked you to create me a body in the first place.”
+
+“Right,” Arwin said. “But that’s the thing. Why do you think that having a metal casing around yourself is going to change anything? If this binding is really that unbreakable, giving you a body wouldn’t change anything at all.”
+
+“Perhaps,” Koyu said. “I know not the answer. What does that have to do with this?”
+
+“A lot. If you were really that convinced you couldn’t leave the street, then you’d never bother asking for a body. It wouldn’t matter. That means a part of you believes there’s a way to real freedom. And I don’t think you’re getting there without meeting the Mesh head on to purify yourself. After all… if you change from Lich to something more, then what would be left to bind you?”
+
+“Or I could cease to exist.”
+
+That gave Arwin a moment of pause. He hadn’t actually considered that possibility. It felt like a bit of a cop-out, though. The Mesh didn’t hurt people. It restricted options and arranged things for the world’s survival — but it had never taken direct actions to actively give anyone anything but what they desired.
+
+“I don’t think you’re going to die unless that’s truly what you seek,” Arwin said.
+
+“He’s right,” Eleven drawled. “I mean, we’ve never Sunset a Lich, but Sunsetting doesn’t weaken you. It perfects you into what you want to be. So long as you manage it successfully, you shouldn’t die. Probably.”
+
+“Even if I were to believe that… very convincing assurance, it changes nothing,” Koyu said. “I am bound here. There is no way for me to attempt Sunsetting in the firstplace.”
+
+“I’m not sure that’s true, actually,” Lillia said. “You said you were bound to the street, right?”
+
+Koyu inclined his head. “Yes. This street and the surrounding area. I cannot leave. And, though I desire the ability to walk freely again, I am not so certain I would leave if I could. What I desire is the option to choose.”
+
+“Then choose,” Lillia replied. She knelt and picked a piece of loose stone off the ground near the corner of a wall and the floor. Then she held it out to Koyu.
+
+“What am I meant to do with this?” Koyu asked, staring at the rock in confusion.
+
+“You’re bound to the street,” Lillia said. “That’s part of the street.”
+
+“So it is,” Koyu said. He lifted his gaze to Lillia and narrowed his eyes. “Are you really trying to imply that I can cheat the curse by taking this rock with me and just… walking through the portal?”
+
+“There’s no cheating involved,” Arwin said. “You’re bound to the street. Like you said. So bring the street with you. The Mesh doesn’t work differently for you, Koyu. It’s meant to help people. That’s its purpose. It isn’t cheating. This is just playing by the laws of the land.”
+
+“That’s ridiculous,” Koyu said. “Such a trick would never work. I won’t even be able to step through the portal.”
+
+He approached the dark disk of energy at Eleven’s feet. The long-haired woman watched him curiously.
+
+“Only one way to find out,” Lillia said. “It’s not like you lose anything.”
+
+“That is true,” Koyu allowed. He hesitated for a moment. Then he shook his head. “It’s still ludicrous. I refuse to believe the Mesh—”
+
+Eleven pushed him.
+
+It was only enough to send Koyu back an inch, but that was enough. The Lich stepped back into the portal and plunged into it, vanishing without another sound.
+
+“Huh,” Eleven said, looking down into the darkness. “Who woulda thought? See you in a bit.”
+
+Then she stepped into the portal behind Koyu. It snapped shut behind them both, leaving behind nothing but silence and a somewhat stunned crowd.

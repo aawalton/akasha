@@ -1,0 +1,181 @@
+---
+id: 76ee0a7e-9da3-569c-ab82-eceb0ea5d19f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 167 – It's My Life"
+slug: 0167-chapter-167-its-my-life
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 167
+ownLength: 2213
+unit: words
+publishedAt: 2026-08-24
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3856958/chapter-167-its-my-life"
+royalRoadId: "3856958"
+---
+
+Liora's mana was draining so fast she could basically feel it, but even so, her Aegis Shield couldn't protect her from the onslaught fully. Every grain that managed to get through dropped Liora's health further.
+
+"Featherflash, Liora!"  Renir yelled.
+
+"But you—"
+
+"This thing isn't interested in me! Do it!"
+
+Liora hesitated for a moment, but she knew that her mana would run out before she could safely get out of range. It was true that this giant shark had no interest in Renir. Nor could hot sand harm him in any way.
+
+Reluctantly, Liora used Featherflash. The shark let out a dissatisfied growl, but in the already bright desert light, it didn't do much. The main point was Liora turning into a mote of light.
+
+She regretfully watched as Renir fell into the sand below, while she moved up as quickly as possible to get away from the desert shark matriarch. Once she materialized, Liora used Decoy Fade right away and allowed the decoy to fly in the other direction to distract the shark. Meanwhile, Liora herself turned into her magpie form and flew to the oasis.
+
+[Status]
+
+Health: Wounded
+
+Mana: Trickling
+
+This shark was constantly draining mana, and now it could damage her even with her Aegis Shield up. She feared to imagine what would have happened if she didn't have that skill.
+
+"Caspian, I need healing!" Liora called out as she circled the oasis, searching for the merman.
+
+He appeared out of one of the basins. "Liora? I don't see you."
+
+She was about to speak again when she became visible. The decoy must have been hit by that scorching sand. The shark let out an angry growl, having realized that its real target had disappeared. She didn't have a lot of time.
+
+"Is there not some kind of protection you can provide me with?" Liora asked nervously as the merman healed her.
+
+His healing was very potent. All Caspian had to do was extend his hand towards her. The next moment, Liora would be surrounded by a soft, green light. It was incredibly warm, although her injuries itched for a moment while the magic patched her up.
+
+"I can give you buffs for defense and magic defense, but…" Caspian looked past Liora at the raging shark. "...I don't think it's going to help you much."
+
+He was right. If she got hit, a small defense buff wasn't going to make a difference. Her full shield was barely enough.
+
+The shark had been damaged, quite severely, with Liora's and Renir's combined attack. But it hadn't been enough. Maybe if they could pull off another one of those Meteor Impacts, then, along with a combination of Cee's ice webs, they could eventually wear it down.
+
+But Renir was out of mana and currently stuck somewhere near or under the raging shark. Liora couldn't get to him without being injured. She needed a different approach.
+
+"The desert shark matriarch is most vulnerable to wind attacks, followed by ice. Fire and lightning isn't going to work. Perhaps, if you could hit it with a wind attack underneath its rather sensitive belly," Caspian was thinking aloud.
+
+"Do I look like a mole to you?" Liora snapped, also thinking of ways to beat the shark. It hadn't noticed her yet, since she was hidden among palm trees as a magpie, but soon enough it would resume its march on the oasis.
+
+Worst of all, Liora could see that the scorching sand had destroyed all of the Cee's webs. The ice wasn't doing damage to the shark anymore, and it appeared that Cee had already detonated all of her mana overcharge sigils. They were running out of tricks.
+
+"You don't happen to know a spell that can turn desert sand into seawater, do you?" Liora asked.
+
+"If I could, then we wouldn't be having this problem in the first place!" Caspian snapped.
+
+Liora growled. What to do? Perhaps Resonance Mimicry. It could likely confuse and stun the giant shark for a moment, but it wouldn't be enough to deal a finishing blow. She needed to choose the timing carefully.
+
+In either case, she couldn't even get close to it anymore, because of all the scorching sand. Maybe if she could fly close enough, she could poison the wound that she had inflicted earlier and slowly wear the monster down that way. But how could she get near it?
+
+Liora remembered something. The time on the volcanic island when they were being chased by the wyvern mother. How the monsters had breathed flames at them. They would have roasted any creature alive, but there was somebody who was left completely unaffected.
+
+"SMOKEY! Smokey is the answer!" Liora exclaimed.
+
+"What? The dopey wyvern?" Caspian seemed confused.
+
+Liora turned into her large form and lunged for the merman. "Come here! You must cast all of your protective buffs on that wyvern. He will finish off the shark for us."
+
+"Wait… no! Don't drag me into this! I am a HEALER!" Caspian tried to jump into the water, but Liora just dove in after him. Did he forget that water was no obstacle for her?
+
+"Oww! Your talons are sharp," he complained, his tail flopping left and right.
+
+"Don't struggle. I don't want to cut your arm off by accident. Also, turn into your human form. It's hard to carry you while you are slippery."
+
+Caspian begrudgingly turned into his human form, equipping the clothes Cee had woven for him from his Inventory. They conveniently protected him from Liora's talons and also provided her with a better grip.
+
+"Stop flying so fast… I-I'm going to be sick!" Caspian complained.
+
+"Bear with it! This is important!"
+
+Liora was flying high, sticking to the shark matriarch's backside so she wouldn't notice Liora. The rows of scorching sand would calm down occasionally, while the monster scanned the surroundings.
+
+In those brief moments, Liora could see Cee jumping around, occasionally shooting… What was that? A web bomb? Cee had been trying to master the technique the dreadspider had used, but it was still very early stages. The web bombs Cee could make were very small.
+
+As soon as one landed on the shark, it would create a large cloud of scorching sand, which would promptly burn it away. Cee would jump back when that happened, but a few of her legs looked scorched. It was a good thing Liora was bringing Caspian over.
+
+Liora flew at the spider at high speed. She would have only a brief moment to explain her plan to Cee unless she wanted them all to be buried in scorching sand. Liora would have to act as the main distraction for this plan to work.
+
+"Liora, why did you bring him here?" Cee asked.
+
+"Buff Smokey, give him a poisoned ball of magma web and have him throw it at the wound I previously inflicted. The sand will not harm him. I will distract the shark," Liora hurriedly explained, then flew high up.
+
+"Hey, overgrown fish. Did you miss me? Your children were quite delicious, you know," Liora taunted, booming her voice loudly by using Resonance Mimicry.
+
+The shark raged. It was unlikely that it actually understood Liora's words. Most likely, it just wasn't a fan of loud noises. Good.
+
+Liora flew high, just out of reach of the scorching sand, and kept screaming at the shark, using some of the most annoying noises she knew. She kept a careful watch on Cee and others.
+
+Caspian looked to be done with healing Cee and was currently applying buffs to the incredibly confused wyvernling. Cee was hurriedly weaving the web ball thick enough that the poison wouldn't leak out initially.
+
+It would be a challenge. Cee had to make something where Smokey could carry the poison safely, but also something that would definitely break once released. But Liora was confident Cee was up to the task. She was mainly worried about the wyvernling.
+
+Smokey wasn't a great flyer yet. He could fly, but not for very long, and he could be easily blown off course. But he was the only one who could endure the scorching sand out of all of them.  If he couldn't carry this out… Liora had no clue how they would deal with this shark. They would have no choice but to wait for Renir to recover mana, so Liora could do another Meteor Impact imbued with wind mana.
+
+"Come here, ugly!" Liora boomed, but it appeared that her amplified yelling didn't bring the desired attention.
+
+The shark was growing used to it. She needed a louder noise to annoy it, especially from such a faraway distance. Liora paused.
+
+She knew exactly what kind of noise she needed. The loud rock concert boom. The ones that shook your soul to its very core.
+
+But after what happened with Lucien… She didn't want to use anything relating to Earth. All of those memories that he dug up. Liora couldn't just squish them into corners of her mind anymore and forget. They stung each time she remembered.
+
+"LIORA!" Cee yelled.
+
+The shark matriarch had shifted its focus to them, approaching them with her scorching sand. They were an easy target, while Liora was not.
+
+No, Liora! It doesn't matter that those memories hurt. You need to protect the people who are around you now, not worry about those who you will never meet again.
+
+The realization hurt more than she wanted to admit, but Liora managed to muster her strength and began her concert.
+
+"~This ain't a song for the broken-hearted!~" Liora sang loudly over the desert, letting her Resonance Mimicry amplify it to yet unheard proportions.
+
+She loved this song as a human and remembered it perfectly. The voice of the singer, the guitar, the deep bass, and the beat of the drum. She could recall and mimic them perfectly. Because she had been in the front row during the concert and experienced the sound so deeply that it had shaken her bones.
+
+So now Liora would shake the bones of the desert shark.
+
+"~IT'S MY LIFE!~" Liora sang. "~IT'S NOW OR NEVER!~"
+
+The desert shark raged at the noise, trying to throw billows of scorching sand at Liora. But she was too far. She deliberately flew deeper into the desert, luring the monster after her, all while continuing the song.
+
+Behind the shark, she could glimpse Smokey. He had taken to the air, flying clumsily and following the shark, doing his best to catch up. In his teeth, he was carrying Cee's poisonous web packet.
+
+Liora had to make sure that the shark didn't notice him. So she slowed her flight. Some of her mana had recovered, so she could endure a little bit of scorching sand. Liora would act as if she were running out of energy, all while singing the song.
+
+The desert shark, noticing her slowing pace, focused wholly on her, eager to catch up and stop the infuriating noise.
+
+Monsters have no taste in music. This song is great.
+
+[Your trait <Sound Resistance> has reached [Novice] rank.]
+
+Shut up, System. You know nothing of music!
+
+The shark was catching up, and Liora could feel the heat coming from the sand. She snapped up her Aegis Cyclone, letting the shark believe that it had Liora in its grasp.
+
+Smokey was flying right above the shark, but he was very unsteady. While the scorching sand was focused on Liora, much of it still surrounded the monster's body, throwing the clumsy wyvern off its trajectory.
+
+Come on, Smokey! You can do it!
+
+Liora's mana was draining at an alarming rate. She didn't have a lot of time. It was time to deliver the finale of the song.
+
+"~I ain't gonna live forever, I just want to live while I'm alive!~" Liora sang extra loud, putting her everything into it.
+
+Shark concentrated all of its scorching sand onto her in its rage, sending everything it had at Liora. She didn't have enough mana to endure the hit. But Liora didn't have to.
+
+She Featherflashed.
+
+[Your skill <Featherflash> has reached [Expert] level.]
+
+Smokey dropped his packet right onto the shark matriarch's open wound on her back. Thanks to Liora, all of the sand was concentrated on her, and the wyvern could fly unimpeded and unnoticed. The web packet fell and split open, deadly poison seeping into the wound.
+
+The shark bellowed in agony. As it turned out, it didn't like poison very much.
+
+Liora and Smokey both scrambled to get away. The shark did try to bury the poor wyvern in scorching sand, but it didn't work. Not as the monster intended, at least. The wyvern was blown away, and it crashed some distance in the desert sand. However, the heat didn't harm him.
+
+The shark writhed and screeched, but the poison was too much. It convulsed again and again, the sand flying around it in a giant cloud. Liora and everyone else watched from a distance as its movements grew slower until eventually they stopped completely.
+
+[You have assisted in defeating <Desert Shark Matriarch – Level 65>. Experience gained.]
+
+[You've reached Level 19.]
+
+Five whole levels for that. I'll take it!
+
+Liora cheered and then went to search for Renir, who was still stuck somewhere in the sand.

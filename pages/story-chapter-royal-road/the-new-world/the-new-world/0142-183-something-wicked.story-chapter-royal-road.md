@@ -1,0 +1,117 @@
+---
+id: 0f4ac6b3-df54-5b23-acf0-f21a07e77f97
+page-type-slug: story-chapter-royal-road
+title: "183 Something Wicked"
+slug: 0142-183-something-wicked
+partOf: the-new-world
+position: 142
+ownLength: 2114
+unit: words
+ownProgress: 2114
+publishedAt: 2019-02-07
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/331904/183-something-wicked"
+royalRoadId: "331904"
+markedReadAt: "2026-06-29T21:25:39.795Z"
+---
+
+Between the silver and giessian border, I spread my arms wide. The engorgs rolled past me, cutting off my options for escape. Their hardened shells clattered against the silverscape until they crossed onto the grass. The greenery muffled the sound, turning into a growl instead of scream.
+
+Encircling me, they tightened their looping attack. The engorgs reached within about a car's length away before I activated Event Horizon. The aura crippled them, causing them to slow down. With pain fogging their minds, I bolted towards my left. Spreading out my arms, I leaped up. Falling towards the monster, I pulled my arms in causing me to spin.
+
+The centrifugal force whipped me in circles like a drill. With my bladed arms overhead, I bore into the creature. As I passed through the mongrel, I reached out my bladed arms. The monster fell apart, a loud hissing reverberating through the battlefield.
+
+With its blood evaporating on my blades, I rolled across the ground. As I stood up, the engorgs innards spilled out. I walked up to it. The needles from my black armor spread out like roots in a tree, drinking up the fresh corpse. I raised my bladed arms, finding the other engorgs rolling at me.
+
+Before they crashed against me, I tried incorporating something new into my fighting. I concentrated heat on the nearby steel landscape. In seconds, it melted into a glowing pool of molten metal. I swiped my arm towards an incoming engorg, pulling a blob of steel over it.
+
+The creature howled as the liquid metal spewed over it. Its blood evaporated in vibrant splashes of bubbling white, the monster boiling alive. I condensed Event Horizon over the giant beetle, amplifying its agony. Another engorg came crashing towards me at the same time.
+
+I met the monster's charge, slamming my sharpened arm into the creature. Like slamming into a wall, the engorg impaled itself before crushing against me. I lifted the beast and faced the other, melting monster. Its skin peeled off, destroyed by my attacks. I abused its injuries.
+
+I created  an antigravity well inside of the monster. Without skin or its shell holding its insides together, they ruptured and spilled out. The metal splattered onto two other nearby engorgs. One of them lost balance, falling sideways and barrel rolling towards me.
+
+Using its brethren as a club, I smashed one engorg into another. Vibrant, steaming blood burst from them both. My armor soaked it up like a sponge. The last engorg let out tiny stopping legs that skid it to a stop. With trails of upturned grass around it, the monster tried turning around to escape.
+
+Too late.
+
+I pulled it to me while dashing toward the monster. With a final slash, I cleaved the creature in two. The pile of carcasses disintegrated as my armor feasted on them. In seconds, the battlefield was clean outside of the ruptured turf.
+
+The Giessian creatures escaped, horrified at the display of brutality. I wasn't here to make friends with the wildlife. After ridding us of the corpses, I cleared the way for Althea. As I walked forward, she gave me plenty of distance to do what I did best.
+
+Diving deeper into silver territory, I kept my work clean and precise. I left little for Althea to handle as I tore the silvers apart. Immersed in carnage, I blitzed through the silver territory, leaving nothing behind me but sterilized earth and steel.
+
+Even as I chopped the silvers apart, details about their life popped out at me. These details formed a bigger picture, unraveling a complex ecosystem.
+
+The merjects preyed on the organ caterpillars. Their squishy, vulnerable bodies were like crawling smoothies to the merjects draining mouths. At the same time, the engorgs preyed on the merjects if they took too long feeding. Their massive, rolling bodies crushed the merjects, smearing them across the landscape. Once squashed, the engorgs unraveled and ate the merjects remains with their many mandibles.
+
+The engorgs seemed like the top of the food chain at that point. However, if an engorg slept in the wrong spot, an organ caterpillar would inject itself into the monster. The engorg swelled up from the inside, feeding many caterpillar eggs. Some engorgs ballooned up until they couldn't move. There they awaited a slow, painful death being eaten from the inside.
+
+This cycle of dependence gave a flow to the life here. I wasn't as surprised by clusters of certain creatures anymore. If tons of engorgs were present, there'd be very few merjects. This culling principle played out for the caterpillars and engorgs as well, each kind of monster eating the others.
+
+This same hostile logic followed up into the skies. I believed that flesh whales were at the top of the food chain. I was wrong. I found other floating monsters preying on them in a sense. Amorphous, liquid beasts devoured them.
+
+These blood slimes as I called them would congregate into colonies. They floated over the landscape using magnetic pulses. Sparks of lightning crisscrossed these massive clouds of crimson mist like thunderstorms from hell. As they passed over the wasteland, they acted as locust, stripping all wildlife bare.
+
+The land creatures hid under metal alcoves, keeping them safe. The flesh whales had nowhere to hide, so they were consumed by these hordes. By the time a red cloud passed over a flesh whale, the behemoth would be a shiny skeleton supported on spires.
+
+Even these red clouds weren't safe. Hidden in some spires, something like plant-life flourished. These creatures hid inside the pillars, using them as lightning rods. As the clouds passed, they soaked up the electrical charges. This caused many blood slimes to fall onto the ground.
+
+Before they recharged escaped, gray roots expanded up from cracks in the metal landscape. These roots drank up the blood slimes, absorbing their essence.
+
+I found dozens of other interactions just like those ones. It astonished me with the sheer complexity of the life here. It all interconnected into this haunting, brutal world where everyone eats and is eaten. The only exceptions were the saysha who built the hard matrice that everything based their lives off.
+
+It left Althea shaken, her paranoia rising as we darted further into the landscape. While I was safe here, she wasn't. She needed sleep. Her health pool wasn't large enough to tank many of the creatures. Worst of all, if she were surrounded by a horde of them, they'd eat her alive. She didn't have armor that could eat them right back like I did.
+
+It left her afraid. I sent her messages as we traveled, trying to keep her composed. They worked for the most part, though she still wrestled with her growing sense of dread. It made me realize how much more survivable I was in a hostile environment than she was. Even if she could assassinate a person, she couldn't wipe out swaths of hostile life.
+
+We each owned our niches of combat, this kind of slaughter being my specialty. As we traveled, Althea gave me a lot of praise. Seeing me in action gave her pause, making her question our earlier argument. Without my help, she'd be done for out here. This kind of circumstance reminded her of why I fought so hard for my abilities in the first place.
+
+To survive and thrive in anything.
+
+I argued her belief with my actions here, and that felt good. There were no two ways about it. I still wanted to give her points some merit, however. Balancing my life some would do me some good. Besides, I could focus on leveling some speech skills for once. The only way that would happen was if I actually took some time talking to people. Go figure.
+
+Of course, keeping my combat sharp was a necessity as well. With that in mind, I kept on edge as I fought. I molded my armor and tore strips of it off. I melted them, holding a pool of glowing metal above me with a gravity well.  It rippled waves on its surface, the glowing mass like an ocean of white fire. I acted as a dim light, illuminating our way through the darkness.
+
+I splashed this amorphous blob over the silvers that attacked me. If they resisted heat, I cooled the material over it, galvanizing the creature. They suffocated in steel. Otherwise, I melted them, their bodies bubbling and frothing under the glowing mass. If they survived the heat, I sliced them apart. No matter how they died, I absorbed the corpses for their mana, using the resources spread out in front of me.
+
+I never lost sight of my goal, however. After several hours of searching, I found my first clue to the Skyburner's location. Along the edge of a spire, large claw marks etched out onto the pillar. The gashes matched the wounds of large talons, mimicking the wounds on espens. This kind of damage on metal required a Skyburner's strength.
+
+Before I went any farther forward, I flew up high into the sky. I pushed my senses, straining my eyes to spot any other marks in the pillars. After several minutes, a pounding headache formed in my skull. Several beads of cold sweat poured down my forehead after a while longer of exerting myself. I found what I was looking for, however.
+
+Far in front of me, I found another set of claw marks on a spire. Towards my right, I spotted another marred column. They were scouting marks, places the gialgathens used for rest. I plotted these points in my head, seeing them make a slight curve.
+
+If I were right, their surveillance zone would be like a big circle since they flew over every obstacle. Once the gialgathens went out a certain distance, or for a certain time, they'd head back. I used this knowledge, making use of my mini-map.
+
+My map only showed a trail we covered on our route here, along with large landmarks like the river of tears. Interacting with the software, I created the curve I found with the marred pillars. I extended this arch until it formed a massive circle.
+
+I made a marker on my map at the center of that circle, hoping for some sense of direction. With that in mind, I floated back down into the wasteland, crashing through a flesh whale as I did. With a rain of blood pouring down, I consumed the creature before sending Althea my idea.
+
+As I turned around to her, she gave me a jittery thumbs up. She looked terrified by not only the silvers but a little bit by me. I rolled my eyes at her, letting her know she was ridiculous. The gore was getting to her.
+
+After getting some sense of direction, we trecked off through the forest of silver towers. Hours later, we neared the circle's center. As we did, the ground rumbled in a chaotic rhythm. It was like earthquakes of random intensity were going off. As we got even closer, far off echoes ebbed around us, growing in intensity as we got within eyesight of the camp.
+
+With the same towering walls, the camp appeared simple enough. As I observed the bulwark, strange signs sent off alarm bells in my head, however. Several scorch marks showed on the fortress, some spots glowing white hot. Dents littered the entire wall, some places even showing cracks. None of this was too concerning.
+
+What threw me off was that the dents bulged out. This meant they came from the inside, not the outside. The battle happened from within. With this in mind, I rendezvoused with Althea. With less than an hour left before sunrise, I whispered,
+
+"Listen. There's something off about this Skyburner camp."
+
+She nodded, "Did the earthquakes tip you off or the massive booms?"
+
+I scoffed, "Both, actually." I pointed at the walls, "The dents are from the inside. There might have been some sort of mutiny from the inside if we're lucky."
+
+Althea frowned, "Eh, I doubt it."
+
+I nodded, "Same here, but we can hope. You ready to check it out?"
+
+She gave me the ok before dematerializing. We already discussed that she'd be the surveyor here. She risked far less than I did with how hard she was to spot. After a minute of waiting, Althea appeared in front of me. Her eyes wide, her pupils dilated, she stammered,
+
+"Daniel...There's something bad in there. Something really bad."
+
+I creased my brow, "What is it?"
+
+Her hands shook a bit, something testing her nerves. She wrestled out her words,
+
+"There's, uh, something eating the Skyburners."
+
+My eyes widened, "Wait...what?"

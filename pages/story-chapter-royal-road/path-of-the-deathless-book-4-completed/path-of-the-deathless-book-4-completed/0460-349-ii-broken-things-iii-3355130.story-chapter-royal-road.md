@@ -1,0 +1,125 @@
+---
+id: 74235090-e61c-5e68-b5fc-aa65961166fc
+page-type-slug: story-chapter-royal-road
+title: "349 (II) Broken Things [III]"
+slug: 0460-349-ii-broken-things-iii-3355130
+partOf: path-of-the-deathless-book-4-completed
+position: 460
+ownLength: 2643
+unit: words
+publishedAt: 2026-05-04
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3355130/349-ii-broken-things-iii"
+royalRoadId: "3355130"
+---
+
+349 (II)
+
+Broken Things [III]
+
+“Spoilers?” And now Evanescia's emotions were leaking out from her voice. She sounded offended, like she wanted to reject his claim, but the fact that she didn't meant that she knew that, on some level, he was right. “What—no! I'm just telling you what would have happened, what should have happened—”
+
+“Why? Why are you telling me? Why are you telling me right now? Why didn't you just rewind the loop and make us live all this over? Actually, you can rewind the loop right now. But!” Shiv called out before she could undo all his work. “You already told me now, so all that significance, all that narrative potential, all the development I might have experienced… is gone. It's not going to be the same anymore. I already know. I know what you want. I know the destination, and that affects the journey.”
+
+“That affects the journey…” Evanescia muttered.
+
+“How did you do that? Did you do that? Did you change part of her to glass? Did your Sticks and Stones evolve as well?” Adam's questions and disbelief were incessant—but the Heroism he provided Shiv made him focus instead of answering.
+
+“It really does. Look, Evanescia, I get that you're excited. I get that you're enthusiastic. It's great for a reader, and I know it's been years since you've really enjoyed a loop. And here comes the Deathless and the Seeker and the Gate Lord, three unique Pathbearers that are now part of your character list—what's it called?”
+
+“Dramatis Personae,” Adam and Evanescia answered at the same time once again.
+
+“Right. However you make your tongue pronounce it. We're added to that list, and we get to experience the Fairwoods and create a few storylines ourselves, ones that have never been created before. But you keep betraying yourself. You keep reaching out and intervening when the slightest things go wrong sometimes, and then, right now, you're talking to me because you want to be part of the story too. You want to insert yourself into the story. All that's understandable. What's not so understandable is why you're so determined to contaminate your own experience. Why would you tell me any of that if you wanted to see it play out in its purest form?”
+
+Every word he spoke infused the Enkindled Shadow behind Evanescia with a greater flame, and as it came into shape, Shiv realized his assumption had been wrong. It was projected forth from his Harbinger. It manifested because of his Harbinger, was made possible by the presence of his Harbinger, but it wasn't his enkindled flame. No, it was a perversion that was leaking out from Evanescia's emotional core. It was born of her emotions. It was forged from her psychological imbalance, and it resembled her, tearing through her, reshaping her physical form, altering her silhouette, and causing the alchemization to run ever deeper, the glass to crack ever more.
+
+Harbinger of Tripartite Ruin 213 > 216
+
+Divine mana spilled out from her as Shiv's words dealt Evanescia a genuine injury.
+
+She let out a slight gasp of pain, and her physical wounds resonated with Shiv on a level he couldn't fully understand.
+
+The Garden of Wounds and Broken Things has been nourished by the damages inflicted upon a Unique Divine Entity.
+
+Oh. Sure. Happy eating, Garden. Whatever the hells you are. Just don’t do any weird shit right now. Please.
+
+Thankfully, his new Unique Skill behaved itself and decided not to bite him in the ass. For now.
+
+Shiv cleared his throat. “Evanescia, I have a question for you. Answer me honestly. Answer me the same way you would answer yourself when no one else is watching or listening. I know it's a big thing to ask, but I think it's good for both of us if I'm even going to consider being a villain to your story. That's why you're here, right? To involve yourself, to write yourself into a story. So my question is, do you already have an ending in mind, or is it just a thing along the way that gets you so fired up that you have to spoil yourself and everyone else?”
+
+With those words, there came a loud clap from her right elbow, and part of her arm broke free. She clutched her limb and writhed in genuine agony. But Shiv didn't press on, didn't continue his words. He waited for her to answer because he was being genuine. He wasn't trying to break her apart using his Harbinger. That was a surprise for both him and her, and Adam especially. He wanted to know why she was doing this. He wanted to know beyond the limits of morality and virtue why she was so determined to make her own experience as a reader miserable.
+
+“It… wasn't my intention,” Evanescia stammered, defending herself. Her embarrassment was laced with self-acrimony. A festering stench escaped her heart, its taste a sour and bitter shame that almost drove her to flee from his presence.
+
+"No, we don't want that. We're pushing too hard. We don't want her to leave before we can grasp her even better, before we have some kind of emotional influence over her. She might be long-lived, but she does not have the psychological or emotional stability…" The Harbinger trailed off as he suffered a grim epiphany. "Shiv, comfort her right now. Empathize with her. She said she faced two other Pathbearers who had their own Harbingers. But she remains unbroken. They must have gone too far, made it clear that they were trying to destroy her through words and psychological warfare. And she must have broken them in turn for good. We can’t repeat their mistakes."
+
+Got it. Adjusting.
+
+And it was by this point that Shiv realized there was another party listening in. The Culturist’s Stealth Skill was something to be stunned by. It was only now, after minutes of dialogue, that Shiv finally noticed a second core within the already hidden Paragon. The only reason the orc exposed himself was because of a mutual feeling of astonishment. It seemed that the Harbinger’s conclusion resonated with the Culturist enough that the orc’s emotions overflowed over Adam’s.
+
+Perhaps the same way Evanescia's emotions were overflowing with crushing waves of self-doubt. Waves Shiv surfed to gain more influence over her heart. “Look, who knows what I'd be like if I had your responsibilities and skills, right? You've been here for I don't know how long. Must be eons. Of course you're lonely. Of course all that time and repetition must have eroded you something bad. I can't blame you for wanting something new, for wanting some new people to spend time with as well. I won't blame you. But now that you got what you want, you need to think things through, not just for us, but also for yourself, for the Fairwoods.”
+
+“For the Fairwoods. Yes, for the purpose I was made. For the stories I was meant to archive.” Evanescia grew silent and heavy with burden. Her mind accelerated at a speed Shiv couldn't keep up with. The voices and whispers that escaped from her thoughts were far, far more than he could process, but her heart was a sea trapped in a turbulent storm, and she felt raw in ways he couldn't fully understand. The taste of her self-sorrow made him think of an instrument that had failed its design.
+
+“Do you have an ending in mind?” Shiv asked again, far more gently this time. “An ending to all our stories, to how you want things to turn out?”
+
+“Sometimes,” Evanescia admitted quietly. “Sometimes. But most often I let things play out. I let the arcs roll on and take shape.”
+
+“But how often do you intervene to make sure an arc stays the course when something unexpected happens?”
+
+She stayed quiet for a moment. “It's really more like maintenance.” The Usurper-Narrator sounded like she was trying to convince herself more than Shiv, but he didn't say that—wouldn't risk hurting her any more.
+
+“Alright, so it is. But if I'm your villain, what do you imagine for this ending? What kind of satisfaction do you want to get out of this? And are you going to spoil that satisfaction for yourself before you can really, really enjoy it?”
+
+And now Evanescia seemed genuinely harrowed by his words. “I don't want to. I will not.”
+
+“But since you're the hero, you have to win in the end, right?” When she didn't answer in the affirmative, Shiv pushed on. “That's right. Heroes win. That's what they're supposed to do. That's how a lot of stories go—as long as they're not tragedies. But it's the struggle that keeps people reading. It's the surprise and the tension, right? There has to be a chance that something goes wrong. There have to be stakes. You can't take those away from yourself. You can't take that away from me either. You telling me that I was meant to be a chef is different from me wanting to be a chef, struggling, failing over and over again before finally getting there, because along the way there felt like there was no guarantee. I have to do it anyway because I chose to. I gave it a purpose. So what kind of purpose are you giving yourself right now? What kind of purpose do you want to give me as a villain and yourself as a hero? What are the stakes we're playing for? Because if the game is that you're the hero because you're trying to stop me from escaping the Fairwoods, it's just going to be a fight in which I have to run or skirmish against you if I have any hope of winning at all…”
+
+Shiv rolled his eyes. “Actually, fuck that. Let's just be honest. I don't have any shot of winning. And you don't have any desire to lose. The moment I start actually hurting you in any way, and I threaten your control over the Fairwoods, you'll end the story. You'll restart the loop. Even if I jump out, you'll take yourself out of the page, and you'll put someone else in. I won't be able to beat a Mythic-Tier Pathbearer reliably. All it takes is one mistake, and then I'm back to the start, back in your hands, and you won't let me break out of your control for a second time.”
+
+“Hmmm…” Evanescia sounded genuinely bothered by his words. Because they were true. Because these were things she would probably do. Because she saw the problem.
+
+“But if that's the case, you've taken the stakes out of it again. You won for good. There is no more fight, no more sequel, no more struggle. There is no more tension. There is no possibility of losing, and so there is no story worth reading. And you want a story worth reading, right? A story worth living?”
+
+She didn’t need to say anything to signal her agreement. Her empathic core betrayed her to the marrow.
+
+“Bloody hells,” Adam muttered inside Shiv.
+
+“But it isn't impossible for you to get what you want, Evanescia. You need to keep your safety and your dominance and everything else, I get that, but you can still gain a measure of tension, a chance that you might lose something but not lose completely, not fail your purpose. But if we want to do this, then I want to know what you're playing for. I need to know your character first. You know mine. You know what I want. But every good villain needs to understand the hero on some level or at least reflect some part of them, right? Right?
+
+“Right? Am I right, Adam? Seriously, I'm asking: Am I right? I don't read. I haven't read any fiction for years—maybe like parts of a storybook in the library or something.”
+
+Shiv's worried thoughts spilled inward, and Adam gave him a pulse of reassurance. “I think you're almost dead on. Well, in my defense, I don't read that much fiction either, but the novels I have read generally run off a standard structure. Unless they’re literary, in which the structure is abandoned in exchange for the author discovering new and depraved ways to torture their title character.”
+
+“Okay, let's hope she isn't that type of author.”
+
+“Evanescia.” Shiv licked his lips. “I guess what I’m trying to say is that instead of us just fighting each other sloppily and without focus or actual risks, I think we should figure this out completely. Because I don’t think I can be a villain that impresses if I don’t even know what you care about aside from the Fairwoods and the stories themselves. And if that’s all you care about, well, then, the only thing I can do as a villain… is try to ruin all your stories. And break the loop for good. And we can’t risk that, can we?”
+
+“No,” the Usurper-Narrator declared immediately. “You cannot threaten the Greater Design—”
+
+“Yeah, I know. So, what can I threaten? What are you willing to lose in… uh, the second act? Before the end.”
+
+“I am…” Evanescia was tense with swirling thoughts.
+
+“I’m still connected to this place, right?” Shiv asked. “To the Fairwoods. I was burned. I might not have been consumed by the Watchtower completely, but you can summon me to another any moment, right?”
+
+“Among other things. At least while you are not missing from my pages and memories.”
+
+“Right. So. If that’s the case…” And an idea came to Shiv. A great and terrible idea. “How about this for stakes, Evanescia: We fight for your story. Not against each other, but using the characters. If you’re the Usurper-Narrator, then I can be a… the Antagonist-Narrator or something. You plan a tale. And I try to ruin it. And we see if the story plays out in the end. How’s that for a struggle? We bid our pride and fight to create or destroy a story. Your pride. My revenge. And if I win—no, if me, Adam, and Uva win—I want you to open a dimensional gateway back over to the Tutorial.”
+
+“And just let you go free—beyond my reach?” Evanescia almost sounded offended by the suggestion.
+
+“No. I want it to be worse than that: I want you to come back as our prisoner, because the way I see it—and here are my spoilers now—that’s your second act slump. That’s the lowest you can go. We ruin your Grand Design and leave the Fairwoods in a mess. But what we don’t know yet is how you can turn it around and bring us back home with you in the third. And you do, and nothing is ever the same again.”
+
+And his vision struck Evanescia like a lightning bolt. Her empathetic core trembled with growing zest as his words sank in deep and churned inside her like burning coals.
+
+“Shiv,” Adam said, his mind shaking with disbelief. “I don’t know what manner of psychological wizardry you are performing right now, but keep going. Keep godsdamned going.”
+
+“Yeah, I—” Shiv jolted. “You know, Adam, it occurs to me the other two Harbinger-having Pathbearers might not have failed because they pushed too hard or anything. I just have something they don’t. Something that’s made my skill strong enough to deal with a divine entity without breaking.”
+
+“What’s that?”
+
+“You, I think. It’s the Heroism. I don’t think my words would have hit her nearly as hard if it weren’t empowered by actual and true Heroism.” Shiv laughed. “And she’s the one who wants to be a hero here. Isn’t that fucking ironic?”
+
+“Indubitably,” the Culturist muttered. “Utterly and indubitably.”
+
+And in silence, Evanescia continued nursing on the terrible, forbidden, but tantalizing prospect of losing it all—if only for an act.

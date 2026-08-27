@@ -1,0 +1,385 @@
+---
+id: 57e200b5-4500-5a63-8375-e31b74a60bcb
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 401"
+slug: 0099-the-path-of-ascension-chapter-401
+partOf: the-path-of-ascension
+position: 99
+ownLength: 4913
+unit: words
+ownProgress: 4913
+publishedAt: 2025-04-11
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2193780/the-path-of-ascension-chapter-401"
+royalRoadId: "2193780"
+markedReadAt: "2026-06-29T19:21:10.310Z"
+---
+
+Chapter 401
+
+Watching the raid in reverse was a unique experience.
+
+Things started normally with the guards arresting people, but as they watched further and time rewound, they got to watch as the scientists working at the facility destroyed evidence as fast as they could. More interesting than all of that was the person four rooms over who shoved various boxes, bottles, and papers into a spatial bag that had appeared out of nowhere.
+
+Melinda fiddled with the pillar and together they rewatched the event, but this time, wholly focused onto the area.
+
+The scientist was, in fact, dumping items into the bag. But once he was finished and just before he was going to get captured by a team of guards clearing room by room, he clapped his hand and the bag vanished.
+
+That explained how the bag had appeared out of nowhere, but not what had happened to the bag.
+
+Everyone's eyes went to Allie, whose grin was feral. “How interesting.”
+
+She led everyone to the room in question with a confident swagger that vanished the moment she was in the room.
+
+“I don’t feel anything.”
+
+She drew out her dagger and started cutting through space, but didn’t find anything.
+
+Matt checked the signature of the scientist as well as the bag he had been using, but both were only Tier 20, so it wasn’t like the item was a higher Tier than them and escaping their notice that way.
+
+Harvest Moon's perpetual frown deepened and started to glow, but even his checks didn’t seem to find anything and his already dark mood blackened further.
+
+Matt even activated his Meld just in case the effect was a Domain-based one, but like everything else, it didn’t make the bag appear.
+
+Melinda looked around before walking out of the room. “Let's keep watching.”
+
+Together they returned to the pillar and watched the raid continue in reverse, and eventually watched as the facility returned to normal operations.
+
+It was then that Matt noticed Melinda and Harvest Moon staring at him.
+
+“What?”
+
+Melinda met Harvest Moon’s gaze for a long moment before slowly speaking. “It’s one thing to know something, but it's another to see it in action. Last time we used the device going back over a week was… How should I put this?”
+
+Harvest Moon snorted. “It put me on my ass. I had to channel a ton of mana into the device while also refilling my own reserves, and I gave out before the device only able to push us back slightly over a week.”
+
+Melinda coughed slightly. “I was going to say it was very expensive, but that is also true. This device is very old and is Talent-made, which makes it less efficient than it might otherwise be. We had to requisition more mana stones when we used it. It's just impressive to see you manage this is all.”
+
+Despite everything, Matt felt his mood lighten as the complement landed. It was rare for people to appreciate just how much mana he was used to throwing around, and the skill it took to do so.
+
+“If the feedback I’m getting from the pillar is accurate, I can push time back another week or so at most.”
+
+Melinda closed her eyes for a moment as she let out a sigh, before hugging Matt as hard as she could for a moment before letting go. “That might just be the best news I’ve heard in the last year. Maybe longer, but really, everything before that feels like a dream.”
+
+What came next was far less nice as they got front row seats to the operation of the blood magic facility.
+
+Things were far worse than they had initially thought. In just the week they were able to see before the image started to become impossible to view, thanks to distortion, the facility nearly killed over a dozen low Tiers in their experiments. Fortunately, or perhaps unfortunately, only one actually died thanks to the same scientists that were hurting them having a similar amount of healing abilities.
+
+The scientists seemed to be working on five different projects, each of them somehow more horrible than the last.
+
+One team was working on making a cold a far more debilitating disease, which if released, could cripple a world's medical facilities even if the actual sickness was survivable.
+
+A second group took turns repeatedly infecting their subjects with a plague before partially healing them with more conventional methods, trying to breed more drug-resistant plagues.
+
+A third seemed to be working on a plague that, from the tests they could see, limited fertility in both men and women.
+
+The fourth was working on the mental inhibitors plague which made people far more liable to take suggestions, even after healed.
+
+Melinda and Harvest Moon took special note of the tests they saw that team perform and used the pillar to ensure they recorded every detail they could.
+
+The final group seemed to be working on a method in which a bloodline's natural powers were amplified. In and of itself that was a fairly ordinary thing to look into; Liz’s bloodline research facility was working with a dozen other facilities on that same effect, but this facility did so by extracting a person's blood and turning it into potions.
+
+Potions which they then fed back to their prisoners.
+
+Potions that made the mortals start to transform into their bloodline forms, but without the magical effects that gave them two distinct bodies.
+
+Potions that forced the body to rapidly grow and change in incredibly painful ways.
+
+It was also lethal in one case, where a man’s skull split open when he started turning into a deer as the antlers failed to manifest, and he used his transforming fingers to puncture the vulnerable flesh.
+
+It made Matt sick to see the scientist rushing in to try and heal the man. They failed, but he could tell it had been a close call, as they tried to battle the potion’s effect and the damage was constantly being done to his transforming body.
+
+That baffled Matt as from what they could see, even the worst researcher at the facility could have made themselves fabulously wealthy as a healer with their skills.
+
+Liz must have noticed his look because she sighed. “It's not that surprising. I’d bet most of these were in fact healers at some point. Some people are always wanting to push the limits of their powers, even if it's distasteful or outright illegal.”
+
+Melinda nodded her agreement. “That would fit our last raid. Lots of former healers turned to experiments after being contacted by a mysterious organization, but others were simply researchers who were willing to put aside their morals to test without limits. According to the people we interrogated last time, the leadership was always willing to test things so long as they involved blood magic in some way.”
+
+Susanne gestured at the room around them. “These people are obviously well-funded. Any chance that funding isn’t from the Empire, but rather another Great Power?”
+
+Harvest Moon shook his head. “Anything is possible, but that is unlikely. I doubt the Emperor would have allowed things to progress this far if there were outside influences acting within our borders. While this is bad, hidden secret research facilities aren’t that uncommon. A lot of people want to push science for a variety of reasons, both good and ill, and those reasons sometimes go against the law so they go to black sites like this. That isn’t to say this is unimportant, just that the odds are more likely of it being done by someone within the Empire than without.”
+
+“Where is Manny? I asked to talk to him when we were at the Capital, but he wasn’t there,” Matt asked.
+
+Harvest Moon huffed. “If the Emperor didn’t feel fit to inform you, then I won’t tell.”
+
+Melinda burst his bubble. “Moon doesn't know either. When this started and the Emperor put me in charge, he said there was something he needed to do and he wouldn't be around for a while. Where to, we don’t know, but that was over a year ago. And as far as I know, he's been out of contact since.”
+
+Matt frowned, not having expected that.
+
+Melinda, however, took that differently and looked on in concern. “Is there something else wrong?”
+
+Matt waved her off. “It's nothing, sorry. Just lost in my own thoughts.”
+
+However, his dismissal didn’t work nearly as well on Aster, and he felt her probing him through their bond.
+
+When she didn’t find anything, she asked, “What?”
+
+Matt tried to put off her curiosity, but she wasn’t so easily dissuaded, and that got everyone else interested.
+
+Finally, Matt decided it wasn’t any more of a secret than his using the time reversal device had been.
+
+“I stumbled on the fourth part of my Aspect and wanted to talk to someone with a bit more experience, who also knows me really well.”
+
+That shocked everyone, Aster most of all.
+
+She flicked him on the side with her tail. “What the shit!? We’ve been here for days, and you never mentioned it? I’m actually hurt.”
+
+Matt gestured to Harvest Moon. “And without a higher Tier here to block anyone from seeing or hearing me, there was no way I was going to mention that.”
+
+Aster growled at him. “You may be right, but I’m mad at you. When we are done with this, you have to spill.”
+
+Allie stomped her foot. “Yeah! I can’t believe you beat both me and Zack.”
+
+Matt was going to say something else when Harvest Moon coughed slightly and removed his hands from Melinda’s ears. “We have someone who hasn’t finished their Intent yet. Watch your words.”
+
+Melinda glared at the older man, but congratulated Matt with everyone else.
+
+“Sorry, I didn’t use the word for it for so he wouldn’t have to do that.”
+
+Placated, Melinda looked beyond the walls of the facility. “It's fine. Anyway, it's time to bring in the rest of the team while we talk to the former prisoners, captured researchers, and guards alike.”
+
+Before she could put action to words, Matt held out a hand. “While we have some privacy, do you have a spare storage ring?”
+
+Melinda looked to Harvest Moon, who plucked a ring off his finger and handed it over after transferring the content to a second ring.
+
+Matt pretended he didn’t hear the grumbles.
+
+Instead, he dumped the mana stones he had been making with his spare regeneration from Frederic’s ring into Harvest Moon’s. He was even nice enough to make the mana stones with Harvest Moon's mana signature by using his ring, so the higher Tier wouldn’t have an issue absorbing them next time he needed to use the device.
+
+Not that he wouldn’t be petty at the huffyness Moon displayed. In retaliation, Matt handed the ring to Melinda instead. “This should help.”
+
+Her eyebrows went into her hairline as she peered inside, but Matt was far more entertained by Harvest Moon's small sputter as he checked it.
+
+Served the old man right.
+
+Before they exited the room, Harvest Moon took back possession of the time rewinding device. In just seconds, the facility was swarming with the Imperial Health and Safety Investigators.
+
+A teenage-looking man reported to Melinda and was given the time reversal recording before he started filling Melinda in on the former prisoners' situations. They were stable, but some would need long-term observation to ensure that nothing was missed.
+
+As they had seen, the facility had been working on long-germinating and hard to detect plagues.
+
+That brought Matt’s attention back to the present.
+
+Melinda spent some time interrogating Count Rilki, but the man didn’t have anything more to add to what he had already told them. He was much more cooperative with Melinda than them, but that might have been because of Melinda's easy command of Tier 30s, who responded with instant obedience to any and all orders she had.
+
+Matt might have been an Ascender and in the military, but he had rarely seen anyone command such respect, and had to wonder just what Melinda had been doing in recent years. Let alone how she had advanced so quickly, given the slow pace at which she had been growing her Tier 3 Talent during the war.
+
+They kept in touch through messages or the occasional meal together when they were on the same planet and had free time lined up, but she seemed like a whole different person than either the young team leader from when they were kids, or the learning healer when they were in the war.
+
+The current Melinda was… Experienced was the best word Matt had for it. He also suspected that this was hardly the first time responsibility had been dumped on her shoulders. He could tell that she had lived a lot more years in the last few decades than he and the rest of the realm had experienced.
+
+The facility guards they then interrogated were, sadly, less helpful, as they didn’t admit to knowing anything not already in their reports or that they had seen in the time reversal view.
+
+Liz seemed placid through it all, but Matt could tell she was growing irritated at not finding anything more directly useful.
+
+Matt expected Melinda to go and interrogate the scientist to find out about the disappeared spatial bag after the guards, but instead she started decontamination procedures and ran all of the guards through it as well as them.
+
+It wasn’t fun, but when they were done, they were at least sure they wouldn’t be harboring anything dangerous for any Empire civilians they might come in contact with in the next few years.
+
+From there, the captured civilians were brought through and cleaned and healed of any remaining or lingering ailments they had been left with thanks to the raid.
+
+The Imperial Health and Safety Investigators found nine hidden viruses or plagues that the guard’s healers hadn’t been able to notice or hadn’t been able to heal. Worst of all was when Melinda had to break the news to the victims that they would need to remain in isolation for at least a year.
+
+They took it better than he would have, at least on the surface. The prisoners just seemed grateful to no longer be poked and prodded by anyone, but Matt and everyone else could see it in their eyes that they didn’t really expect to ever be truly free.
+
+Matt had faith in Melinda and even Harvest Moon, but knew the next year would be a better situation than they had left. Nothing would remove the trauma they had undergone except a mind wipe, and all of them had refused that and the rest of the populations needed to be protected.
+
+It was only then that Melinda turned her attention to the prisoners.
+
+By and large, they seemed resigned to their fates and none of them seemed willing to play hard ball. At the same time, they didn’t actually know much beyond their projects or when they had been recruited.
+
+They did learn that the facility had been in Kelispo’s gas giant for only two hundred years, and it had been moved there from somewhere else, but none of the workers they captured knew where that was.
+
+They did get some interesting information when Melinda interrogated the scientist who had been stuffing items into the spatial bag.
+
+“What do you know about the bag that disappeared?” Melinda's question came after other more innocuous questions and made the scientist flinch.
+
+“I don—”
+
+Melinda glared at the man. “I’m trying to be polite but if you don’t cooperate, I will get nasty fast. Are you willing to talk or not? This is your final chance.”
+
+The man swallowed several times before caving. “I really don’t know much. We were given the bag and told to never put anything into it unless we were raided, and in the event of such a raid, we were supposed to dump any samples and the most sensitive information into it. I actually don’t know what happened to it. It just vanished. You need to believe me.”
+
+Melinda snorted and went into asking the man about what he had shoved in, but Matt and everyone else decided to step out and go inspect the room again.
+
+As they were walking, Allie vanished, appearing a moment later with Zack beside her.
+
+That would have been normal enough, but his left hand was glowing a faint blue as it seemed to leave after images in its wake as he moved.
+
+They quickly filled him in as they reached the room.
+
+Once more, Allie tried to find a hidden space, but nothing worked and she was completely unable to detect anything.
+
+Esmeralda, however, threw out an interesting theory. “I've seen teleporting bags.”
+
+Allie interjected immediately. “I’d feel if a spatial passage had been made. There isn’t one.”
+
+The former spy nodded to Allie as she continued, “I’ve also heard of destruction bags. They are just black holes of mana that destroy anything and everything put inside, but that same destructive energy is what destroys them.”
+
+Allie looked like she wanted to object, but eventually gave in. “That's possible and I wouldn’t be able to tell because nothing spatial is going on.”
+
+Everyone looked to Matt, who shook his head that he didn’t feel anything with his Intent, and so they all turned to Zack, who started setting up dowsing formations to detect mana residues.
+
+Wires of mana floated through the room and started to settle on a small singular speck of mana like flotsam.
+
+Melinda entered the room a second later. “That's a very good guess, actually. Special Agent Thomson had a similar speculation. It would also explain the lack of some of the reports we never found in the last base we hit. The question is why use it for just those bits of information. They don’t look that different from anything else.”
+
+Zack threw them a curveball. “I don’t think that's correct.”
+
+Everyone turned to look at him, where he still moved threads of mana around.
+
+“The mana signature I’m seeing has nothing to do with any kind of destructive mana. It’s time mana.”
+
+Matt turned to face the spot Zack was looking at as everyone else took a step back to make room for Melinda and Moon.
+
+He just didn’t see it being possible. “That seems unlikely.”
+
+Zack nodded. “Agreed. Time travel is outright impossible backwards and stupendously expensive forward. I see no way for it to move more than a few seconds, given conventional wisdom.”
+
+Matt pondered that and reevaluated his preconceptions. “The bag seemed to collapse on itself. Reducing size might reduce the cost.”
+
+Zack requested access to Matt’s [AI], and when he got it, started running various simulations.
+
+Finally, he said, “It might. It's been almost a week, correct? How much mana would that take?”
+
+Matt didn’t need his [AI] to know the answer. “Lots.”
+
+The more they talked, the less likely it seemed his hypothesis was correct, but the more they couldn’t explain the abundance of time mana having been used.
+
+Finally, Melinda stepped forward. “This is good, but leave the rest to us. We can watch the room and the surroundings to see if anything appears. I wanted to give you what we found about the information framing Liz.”
+
+Melinda wagged a small memory crystal, which Matt scanned.
+
+Inside, all of the information recovered from the drives was collected and recreated as best as possible. The information about Liz was much newer and only a week old.
+
+Seeing that, Matt went looking and found the section of video Melinda had provided.
+
+Overlooked because of the choppy distortions that looking so far back in time created, they watched as an indistinct humanoid crawled across the facility appearing more or less real every other second. It spent a few seconds at a terminal that came to life before it made its way back out of the facility as silently as it came.
+
+Matt was going to ask the obvious question, but Esmeralda had the answer.
+
+“Son of a bitch. That's Two Step Jack. He's a freelance spy. He normally keeps his nose as clean as possible in that kind of business, but he's a damn good infiltrator. He's even worked with us a few times with the war clauses rooting out spies.”
+
+Matt clenched his fist. A name was a great first step, even if he was ultimately independent of whoever was attacking them.
+
+Tapping into his Ascender credentials, Matt found Two Step Jack's suspected base and smiled as it was an exact location.
+
+Looking to Allie, who had done the same, he saw her nod.
+
+Liz turned to Melinda and asked, “Do you need our help? We can come back once we ask this Jack fellow a few questions. I don’t like the idea of someone using blood magic research facilities.”
+
+Melinda worried her lip for a moment before shaking her head. “No. it seems pretty clear your adversary is the one who tried to blackmail the Empire with this information, not the people behind this operation themselves. It would be best to try and find both groups of people. I also doubt they will be willing to sell the information after they decided to use it against you Liz, so it's not like we can try to bait them out that way and I want them caught. No, I need them caught. Best option is for you guys to try and hunt them down.”
+
+Allie clapped her hands, and they appeared at a backwater Tier 5 world deep in the heart of the Empire.
+
+Aster looked around. “I do have to wonder why you have a waypoint here, Allie.”
+
+“Despite the world's low Tier, it's a nexus of six duchies. Romtut was originally a temporary placement as the Empire expanded and wanted to connect the surrounding areas to each other, but once it was in place, it was hard for anyone to care enough to put a higher-Tier world here. Eventually, the idea just lost so much momentum until it got stuck.” Pausing, she tapped her chin. “Actually, the Boss wanted this location to have a waypoint. I wanted to put it a few worlds over. He insisted it needed to go here and explained what I said earlier.”
+
+Liz tsked. “How coincidental.”
+
+Matt took that as his cue and cast [Portal], bringing them to an otherwise ordinary low-Tier apartment building.
+
+Their target felt the move, but instead of trying to run, just stood there with her hands raised.
+
+Seeing that, the seven of them took the stairs, choosing not to cause a scene though, all of them were ready to attack at any sudden moves.
+
+However, the woman didn’t even flinch as Allie forced the door open with a cut from her dagger that destroyed the Tier 3 lock.
+
+Liz just glared at Two Step Jack as they entered the room. “Expected us, did you?”
+
+“Once I heard the news, I realized what had happened. I’m not happy to be used like this, I assure you.”
+
+Phoenix Liz screeched at Jack, who flinched for the first time.
+
+“I have information.”
+
+Aster snorted. “Of course you do. Question: is it enough?”
+
+“I really hope so.”
+
+That last bit was candid enough it caught all of them off guard. It was, however, time to ease off if Jack was going to cooperate.
+
+“Let's hear it then,” Liz barked.
+
+“I actually have it recorded. Second shelf on the left. The vase is a—” Jack winced as Allie exploded the vase with a moment of warped space that also destroyed the self-destruct hidden inside. “Very expensive disguise item. Never mind, I can always buy another.”
+
+Inside there were dozens of data crystals, each carefully labeled with a cipher.
+
+“You want one that ends with A77.”
+
+Instead of just absorbing the information, Liz tapped the crystal to the screen on Jack's wall. Instead of a virus or anything malicious, a first-person video of Jack walking through the Capital until she reached a subway station appeared.
+
+They watched as tens of thousands of people poured out of the cars when it stopped and just as many people entered the spatially expanded cylinders. It took a few minutes, but eventually, Jack sat down just as the train started to move.
+
+Nothing interesting happened until after two stops when someone sat down next to her.
+
+A nondescript male with painfully average features that was no doubt a disguise. “Job for you.”
+
+Jack’s voice was equally deep and masculine when she replied, “Type?”
+
+“Infiltration and drop off. Nothing more.”
+
+Jack seemed to mull that over for a minute before asking, “Pay?”
+
+“Six chits.”
+
+“That's low.”
+
+“This isn’t worth anything more.” The man’s comment caused a sigh from the Jack standing next to them.
+
+The video Jack, however, said, “Acceptable on the condition of further pay if the job turns out to be dangerous.”
+
+“Done.”
+
+“Done.”
+
+The man stood up and left a small bag on his seat as he got off at the next stop and the recording ended just as Jack picked it up.
+
+Jack moved to step forward, just to have Allie press her dagger into the Tier 30’s temple.
+
+Leaning over Jack's shoulder, she whispered into her ear, “Careful now.”
+
+Stopping her movement, Jack carefully pointed a single finger.
+
+“That's all the video will show, but I can give you the device. I was supposed to destroy it, but I was keeping hold of it in case the job turned out to be more dangerous than described or I wasn’t paid.”
+
+That perked Liz right up. “Okay. Now you have my interest.”
+
+“It's not here.”
+
+Liz nodded as phoenix Liz flew off her shoulder and landed on Jack, where she turned into her blood form that melted into Jack's hair. A clear and obvious threat if ever there was one.
+
+“Lead the way.”
+
+Jack cracked her neck and transformed into a different woman. From there, she led them to an orchard just outside the town they were in, but still close enough to the coast that they were within the area safe from rifts.
+
+Once they were inside, Matt half expected some treachery, but Jack never tried anything as she led them to a water container which had a false bottom containing a number of small items.
+
+When Jack handed Liz the device, Allie vanished without having to be asked and returned with a freshly opened data pad.
+
+Using that, they verified the information on the device was the video of Liz performing blood magic on the victim.
+
+Seeing that, Liz stared at Jack. “I’m tempted to just kill you.” Liz let the threat linger for a long moment. “But I won’t. However, you owe me big time. First way you can repay me is by spreading the word. The next person who is used as an inadvertent patsy isn’t going to be given such leniency. After that, we'll be in touch if we need you. If you decide to say no, I’ll hunt you down and have Allie drop you off in Harper's personal office.”
+
+Knowing she was in no place to refuse, Jack agreed.
+
+Allie teleported them back to the Capital, where Esmeralda took the storage device that had the video and went to work analyzing it with Jericho.
+
+They immediately discovered the recording itself was edited, but not fabricated, which proved the things the video showed had actually happened, which meant someone out there had broken several laws to knowingly morph into Liz’s likeness.
+
+That was incredibly illegal, and anyone willing to do so knowingly would be unlikely to be a patsy as Jack had been.
+
+That was their next best lead if they could find her.
+
+The recording wasn't so useful as to have a credits section.
+
+But their methods were more substantial than that.
+
+Jericho stood before the six of them and started a recording. “The data on the data crystal is fairly useless, as is the chip itself, which is a simple off-the-shelf model that can be bought anywhere in the Empire. What is more interesting are the artifacting in the recording. It's been cleaned up, but we were able to rip a lot of data about the encoding software that was used. That was most certainly not off-the-shelf. No, it's far more advanced. In fact, we have tentatively identified it as being related to a program a few academies use. That's not enough to prove it was them, as there are a million ways such programs might have slipped containment, but it's either derivative of their programs or the academy programs are derivative of this model. It's hard to tell with only a single instance, but it's what we could find. If we are willing, we can bring in some specialists and see if they can get anything else out of this but our capabilities are tapped out.”
+
+Matt grinned happily with his recruitment of his spies. He hadn’t intended them to be this active but their massive budgets had just paid themselves off a dozen times over.
+
+Liz leaned forward. “Forward us what you have and start digging into the academies in question. Don’t rush, but time is of the essence.”
+
+After the spy went back to work Aster, sensing the opportunity, poked him. “Truth time.”

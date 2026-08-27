@@ -1,0 +1,341 @@
+---
+id: ad254afc-2c7a-5fe4-94e8-46321c916f87
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED EIGHTY-TWO: Beanshot"
+slug: 0284-two-hundred-eighty-two-beanshot
+partOf: super-supportive
+position: 284
+ownLength: 4587
+unit: words
+publishedAt: 2026-04-16
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3279668/two-hundred-eighty-two-beanshot"
+royalRoadId: "3279668"
+---
+
+282
+
+******
+
+“You find it this time.”
+
+“I appreciate your trust, but we’ve put a lot of effort into this spell, and we’re almost done. You should— ”
+
+“I should remind you that you need casting practice more than I do. Hurry.”
+
+Alden thought he should’ve been warned in advance if this was the plan, but he let the protest die. There wasn’t much time, and it was a chance for him to check that he’d understood a new lesson. Hopefully he could do that without wrecking this thing Stuart had so meticulously crafted for the purpose of sending one keda bean to another.
+
+Building up a spell was something wizards did to make the final casting more of a sure success. This spell that mimicked The Maker of Narrow Ways was complicated and nearly impossible for Stuart to get right with the kind of casting Alden was used to doing. Going through the steps as well as he could and throwing himself into it with gusto was his main “technique.” What Stuart had shown him here was more like an artist drawing faint lines in pencil before committing to the final piece in permanent ink. The Artonan had gone through most of the spell with a deliberately light application of authority, then started over, layering his instructions and refining them each time.
+
+It was a simple idea, and Alden assumed he could apply it to his own spells. But this definitely wasn’t his little square punch or flashlight.
+
+They’d teleported to a part of Rapport I he’d never seen before, tens of miles from the siblinghold. The power they’d built up as the afternoon slipped by was amazing. Alden had been carried along as Stuart worked on it. At first, he’d been an observer doing his best not to get in the way, then he’d taken on the role of an echo that confirmed the most basic parts of the casting as they went through it.
+
+He’d felt unsure about doing that much even though it was simple copycatting. And now, Stuart wanted him to take the lead, just for a moment.
+
+A crucial moment.
+
+The structure of the spell was fading with every passing second.
+
+The first step of each repetition was one Alden had felt plenty of times. There was a part of the spell that seemed to give them a way back in. Right now all of the work they had done was here around them, but they’d let go of it. Alden didn’t know what would happen if they skipped the link-up step and just started casting, but Stuart never did seem to skip it.
+
+Find it.
+
+Find it?
+
+It had felt like Stuart was finding something in the spell every time they began again, but…what? Alden couldn’t sense anything like an opening or a flashing “step one.” What they’d created existed here around them and around the keda bean on the ground in front of them. He could tell it was powerful and that it was full in some way—close to its tipping point. One more cast would push it over the edge, and the bean would travel.
+
+But trying to find the beginning was like trying to find the beginning of air.
+
+This is taking too long. Way too long. Stuart always started us back over so smoothly.
+
+“Don’t panic,” Stuart said. “Just approach it the same way we did last time.”
+
+“Is there a trick to it? Something you do to locate the door or whatever it is that lets us take control and start over again? Maybe I’m not feeling it because I’m not as authority sensitive as you.”
+
+“Door?” Stuart sounded flustered at that. He started talking fast. “I should’ve explained verbally after all. Alden, you’re trying to realign us with the spell. To do that, you need to find our own influence over it. You’re not looking for something subtle that requires extraordinary sensitivity. You’re listening for your own voice, and mine. Our command still permeates the whole spell, and to realign, we— ”
+
+“Got it!”
+
+A much simpler and broader target than he’d been imagining. The spell had been created by their combined authorities.
+
+I need to recognize the me-ness of the spell.
+
+Just by focusing on that, it became clearer. But it was slightly distorted. Like a bad recording of his voice that was becoming more degraded while he listened.
+
+Actually, that’s irritating. It almost makes me want to…
+
+He reached for it and asserted himself like he had on Thegund in response to the chaos, insisting on himself and insisting that the spell match back up with him.
+
+Which was only half right, he realized a beat later.
+
+“Good, but you forgot to include me,” Stuart said, sweeping in before Alden could be alarmed and overriding him with an assertion of his own authority that was somehow still inclusive of Alden.
+
+That correction was too swift to analyze, and now that Alden knew what he was supposed to be getting from this part of the lesson, he was trying to pay attention to the effect they were having on the spell. It synched back up with them so easily, and as the first note of Stuart’s chant struck in time with his authority, the whole thing seemed to solidify.
+
+They would definitely finish it this time.
+
+Alden opened his eyes, but he remained more aware of the spell than his physical surroundings. He sat on a circular slab of stone, on a hillside that had been terraced in the past for purposes that weren’t obvious in the present unless you had an art’h traveling with you to tell you this land had once been part of the gardens that went with “the old house over there.” By which he’d meant a collection of buildings that could barely be seen through the trees on the next hill. The glimpses of rooftops and mysterious glimmers of iridescence might have been hard to spot, but they obviously belonged to something the size of a resort hotel or small village.
+
+Nobody lived there because it required an impractical amount of wizard labor to keep habitable, and the art’h family didn’t modernize it because it had value as a historical and ritual site. One of those old training facilities where masses of children were raised to be knights had been near here, too. There was almost nothing left of that, but Alis-art’h and Jeneth-art’h must have had complicated feelings about the area.
+
+Stuart and Alden were the only people anywhere near here. That was nice for spell practice, but it was a shame that this hillside usually went unappreciated. Vines covered in peach-throated white flowers climbed over shrubs and up tree trunks. The flowers smelled like freshly baked bread.
+
+Alden had enjoyed the unexpected scent while they set up for casting. Now it was only background information, like all the other sights and smells around them.
+
+The low sun, the cool air, the line of obstacles between them and the second keda bean that waited on a pile of dirt twenty-seven paces away. Stuart was right beside Alden, standing because he preferred to stand for this spell despite its length. But even his physical presence was backgrounded as they reached the spell’s end.
+
+Only his physical presence, though. His authority carried Alden along like a current.
+
+This combined casting was extraordinary, but Alden could tell it would be better if they were equally advanced wizards. They raced toward their goal together, and it was exhilarating to be part of a spell bigger than any he’d ever attempted. But Stuart was definitely driving with one hand and keeping Alden pinned in the seat beside him with the other.
+
+In the final moments, new experiences crashed into him, arriving with overwhelming impact, jumbled so that he couldn’t understand.
+
+Stuart’s auriad was completing the final pattern of the series.
+
+A sound Alden couldn’t make with his own throat rang through his body like he was a struck gong.
+
+The ground beneath him was nourishing his roots, and the sky was laughing with his lungs.
+
+Something new sprang into being—a way for one keda bean to get to another—and as overwhelmed as he was, Alden tried to sense everything about it. This spell was more an act of creation than destruction. He grasped that truth as the branches they’d planted in the dirt between the two beans split and an unfortunate head-sized rock they’d found broke open with a gratifyingly loud pow.
+
+The sound of their beanshot startled a small creature into leaping up from the grass near the broken rock. It chittered as it fell back down toward its hiding spot, and its dark brown body passed through the space where the tunnel that carried the bean had been.
+
+The narrow way they’d spent all that time making had existed so briefly. It was already gone.
+
+Alden fell back onto the cold stone slab. He tried to hold onto every sensation so that they could become insight, but they were scattering. He soon realized he was laughing even though nothing humorous had happened.
+
+He felt awesome but confused. Mighty but exhausted. Like he was the king of this planet and like he couldn’t even command his own body as it shook with deep laughs full of the sky that turned into shallow giggles before finally stopping.
+
+Maybe it had lasted a minute or two. Long enough for Stuart to take a seat beside him and place a hand on his shoulder, but not long enough for him to seem worried about Alden’s sanity. He was looking with satisfaction in the direction their bean had gone.
+
+Alden took a few breaths. “What was that?”
+
+“Some kind of chook I think,” said Stuart. “I didn’t see if it had a long tail or not.”
+
+“Not the animal, Stuart. The…everything else.” Alden sat up. “I could feel your auriad. Not like it was mine, exactly, but a little bit…and the sky was in my lungs, and the ground was very here, and I’m used to feeling the scope of my authority when I cast a spell, but that was…I don’t usually fall down laughing like that. Just so you know.”
+
+“It’s more of a casting high than you’ve had before, because it’s a strong spell and I’m a stronger wizard. You experienced part of it through me. Your brain didn’t know how to process all of what was happening. Was there anything distressing?”
+
+He said the last with some concern as Alden wiped tears from his cheeks.
+
+“No. I just laughed so hard my tear ducts got involved. I was a little confused, but much more excited. It really felt like we were making something. There’s something cool about that. I wish the final part had lasted longer so my brain could sort more of it out.” He paused. “Although it had plenty of chances to sort out how you were restarting the spell each time, and I still ended up asking you where the door was. That was dumb. Sorry.”
+
+“You corrected your approach as soon as I explained,” said Stuart. “I don’t think you really have trouble correctly observing the spell or what I’m doing with it. It’s just so new to you that you can’t compare what you’re observing to previous experience. That must make it hard for you to conceptualize what’s happening accurately.”
+
+Alden sighed.
+
+“Many things about wizardry will become easier as you build a foundation of new experiences,” Stuart pointed out. “The next time we cast a spell like this together, you won’t have to try to explain what’s happening to yourself with no prior knowledge. So you won’t think of it as a door, and you won’t make the mistake of looking for something like a door again. Instead, you’ll look for what you found today. You might call it your voice or <<remnant of a wizard’s command>>. That’s a more specific word for it.”
+
+It sounded like he’d gargled a klerm.
+
+“If I try to say that, I really will cry. What’s another word for it?”
+
+Stuart thought for an unusually long time. “Maybe daharsee? It means your own reflection, but it’s almost exclusively used by poets to give the idea that the reflection isn’t quite true to the self. Calling it that…might be very eloquent.”
+
+A nuanced, poetic word suitable for a human voice. A tool for him.
+
+I’ve gotten so many tools this weekend.
+
+He was wearing his new rings. A matching set of ten was too showy for his usual self-decoration preferences, but if he was going to wear enchanted hand armor anyway, he wasn’t at all upset about how these looked. The rings were silver, reasonably small, and with a slightly melted appearance he thought was neat. Like someone had poured a drop of molten metal onto the base of each of his fingers and those drops just happened to ooze into ring shapes before they hardened. They’d adjusted to a snug fit that he didn’t notice unless he was paying specific attention to them.
+
+“Thanks, Stuart.” He stood. “I’m done laughing, I think. Let’s go see all the stuff we broke.”
+
+They spent several minutes talking about the spell and exulting over their splintered branches and the split rock. Stuart tried to pretend he was too serious of a wizard to properly honor the traveling bean by ritually planting it like he had the seeds for the mother bokabv.
+
+“I can’t do that here,” he said finally, taking the bean away before Alden could whisper any more words of comfort to it. “I’ll bury it at LeafSong.”
+
+“You’re going to eat it, aren’t you?”
+
+“It’s one uncooked bean!”
+
+Alden knew he wasn’t really annoyed.
+
+Without discussing it, they’d been maintaining the existential closeness that had let them perform the spell together. Alden was unsure about what seemed to be an increasingly large number of wizard things, but he was certain people didn’t do this unless they were getting along just fine.
+
+“If we stay out here a little longer, I’ll recover enough to try that spell I mentioned,” he said. “The one that sends out the cutting triangle. I’d like to see how it works.”
+
+“You should. The spell book you’ve been learning from is good. I was surprised Mother gave you such an old one, so I’ve been thinking about why. The spells are useful, but they’re more difficult than they really have to be for what they accomplish.”
+
+Alden rose from picking up a particularly sharp fragment of the rock. “Why is that a good thing?”
+
+“Because you’re learning better auriad and authority control than you would from most books for beginners. It’s slowing you down in one way. You’d have studied a larger number of spells with a children’s guide. But this book’s doing a better job of preparing you for what you’ll be able to cast in a year or two. She must have thought getting your auriad technique ready for adult level spells was a higher priority than giving you a large collection of simple ones. I agree.”
+
+“Me too when you explain it that way.”
+
+Alden looked toward the old house. He had a hundred questions about that, a thousand about the spell they’d just performed, an infinite number about magic itself…
+
+“Why does magic work?” he asked.
+
+“Wizards from different times and places would give different answers,” Stuart replied. “<<Abundance>>—the potential for all—lies within or beneath or above everything that exists. It is the reason even stone may not be stone. It is the reason we may change the position of a keda bean.”
+
+“Potential for all?” That sounds positive. Except… “Doesn’t that describe chaos?”
+
+“Yes. But not quite. Chaos, as you and I understand the word, is more like an error in how reality responds to abundance. I think. I don’t know everything someone like Father is allowed to know. But I know corruption wasn’t a significant hazard for ancient wizards, and the word that has come to mean ‘demon’ once described a much less harmful <<phenomenon>>. Abundance is presumably primordial. Chaos seems to have become a problem relatively recently.” He looked over. “Proper discretion has hidden much, and you should consider that what I’m about to say is based on nothing but my own observations, which are youthful and ignorant. I wonder if maybe a long time ago a wizard who was trying to manipulate abundance stumbled into a terrible mistake. And we now live with its aftermath.”
+
+“You think one wizard might have broken the whole universe?”
+
+“It’s incomprehensible, but I do wonder… ”
+
+“And I was so proud I helped you break a rock.”
+
+“Alden, you should also know that the kind of teleportation that led to the discovery of Earth seems to be particularly bad now. The travelers of old found new worlds that way, but in our time it…either destabilizes places or it happens to find unstable places more easily. It’s most likely the first. I have studied enough to be sure of that.”
+
+“You said once that the wizard who discovered Earth could have been looking for the solution to chaos.”
+
+“They might have been. Some people favor traveling in search of a savior. Others want to find more worlds to form Contracts with because a stronger network of Contracts has its own benefits.”
+
+“Likely spreading chaos in search of an unlikely cure for chaos then,” Alden said. “That’s not right.”
+
+“No,” Stuart agreed softly.
+
+Alden tucked the rock into his pocket and brushed off his hands. “Maker of Narrow Ways—it will let you discover new worlds without that same risk?”
+
+“One day it might.” Stuart looked at the bean. “Not all that soon. It’s not the reason I chose it really.”
+
+“It’s a good option to have, though. Is it okay if I aim my cutting spell at some of the flowers climbing that tree over there? The book suggested using it to cut down fruit in orchards. Flowers are similar enough.”
+
+Stuart blinked. “You can aim at whatever you want.”
+
+Alden’s auriad slid down his wrist and wove through his fingers. There was something else he wanted to know. Maybe now was the best time. They’d been casting together all day. Their closeness was closer than it had been.
+
+It’s not like I can find out by keeping quiet. Not keeping quiet has been working well for me this weekend.
+
+“I’m not sure exactly what I’m expecting, or if it’s all right to just ask this like it’s any other question… ”
+
+“I’ll tell you everything I know about chaos.” Stuart sounded solemn. “It’s not enough yet, but you should ask.”
+
+Oh. He’s still on that.
+
+“Good,” said Alden. “I should obviously know what you do if I’m going to be fighting with you. We don’t have to go deep into demonic theory or what exactly happens at Matadero this afternoon, though. I’ve been wondering…are we…is there a chance we’re compatible? Like Emban wants with Ryada. Like Esh-erdi has with Lind-otta. Could we have a partnership like that, or is there too much of a gap between you and me?”
+
+Stuart took a step back. In both ways.
+
+“It’s not the kind of thing knights casually ask each other!” Alden said. “I’m sorry. I thought since Emban’s whole squad was formed for them to try to find those partners it was something normal enough to just talk…forget it. Forget I said anything. You bring it up if you ever want to. But you don’t have to want to. Ever.”
+
+Stuart had stopped doing the closeness. He’d reeled back like the question was a punch. Alden had clearly committed a dreadfully embarrassing social crime, and despite his nerves, he really hadn’t seen it coming. They’d already agreed to such life-altering things this weekend that a question about this had seemed to fit in.
+
+I wanted a realistic idea about whether or not it was even an option for me. I should’ve waited. Figured out more through clues.
+
+“Forget— ” he said again.
+
+“It’s a normal thing to talk about!” Stuart blurted.
+
+“It is?”
+
+“Knights and people who will be knights talk about bonding and who they hope to find compatibility with all the time!” He was nodding too much.
+
+“If they do, then why did you react like that? You scared me.”
+
+“Nobody talks about it with me. About me. I wasn’t expecting…and I didn’t realize you were thinking about it at all. You have many other matters on your mind.”
+
+Alden watched him fidget with whatever he had in his tunic pockets. He was smiling.
+
+Not upset then. Just shocked.
+
+It was odd that he would be shocked, from Alden’s perspective. But he supposed if they traced it all the way back to the problem of everyone in the right age group rejecting Stuart’s choices, there was something there to explain it.
+
+“I’ve been curious ever since you told me about it before the Here-to-There,” he admitted. “And of course I’ve wondered if we could manage it together. You’re the knight—almost knight—I’m closest to. Brothers on the same path. Who else would I be hoping for that kind of partnership with?”
+
+“That’s natural!”
+
+“I know it is. Or I thought I did until you ran away.”
+
+Stuart sprang toward him, and the closeness returned. “We’ve been uncommonly comfortable with each other,” he said quickly. “Our interactions have been few and shallow. However—”
+
+“Was the combined casting we just did shallow?”
+
+“Relatively shallow.”
+
+Relative to what?
+
+“Few and shallow, but wonderful to both of us,” said Stuart. “Whether we can be to each other what Esh-erdi and Lind-otta are isn’t something I can tell. I want to say yes, but it’s a long way. Difficult for most. The sameface twins seem close to achieving it, but not that many who begin the journey together finish it. And it’s not as if I have personal experience. As for the gap between the power of my authority and yours… ”
+
+Stuart’s hesitation then was a palpable thing.
+
+“Too much?” Alden asked, trying to hide a sting of disappointment and keep his tone matter of fact.
+
+“Not if we were determined. The gap can be bridged. Esh-erdi proved any gap can be bridged. Nobody may ever exceed him as far as that goes. Lind-otta is much older than him. When they met, she was also much more powerful.”
+
+“So it doesn’t matter that much?”
+
+“It does matter,” said Stuart. “Because it adds strain to something that’s already hard to do. To complete the full bond there can’t be a gap in power, even if there was one at the start. So as the two knights grow closer and learn to hold each other’s spot in reality, a remarkable thing happens. One begins to wait, and—”
+
+Stop right there, thought Alden, wincing. One waiting is good enough. Don’t finish that.
+
+“—the other speeds up.”
+
+“I would be the other.”
+
+“You would. As we deepened our bond, your power would grow until you caught up to me.”
+
+“How fast would the affixations be coming?”
+
+Stuart shook his head.
+
+“Not as fast as Esh-erdi’s did, but…I suspect you would have a very bad year in your future. We can’t truly know how it would be. We would have to deepen with each other to the point where it’s happening. Then it would be happening, and we’d find out if we could endure it or not. If we waited a few years before we tried, maybe you’d grow more quickly than me on your own and close some of the gap. Or it might turn the other way, with the gap gradually widening.” His smile gained a bitter twist. “I wish I were weaker. That’s not a thing I’ve often wished for. But thank you for considering me even for a moment, my friend. I would have enjoyed seeking that kind of bond with you, too.”
+
+Alden digested that for a while. “So you do think we’re compatible enough to try, but you’re opposed to it.”
+
+“Of course I’m not opposed,” Stuart said slowly. “However, I’m not the one who would endure the worst of the difficulty.”
+
+“Wouldn’t you be sharing most of it with me? Holding each other’s spots in reality, lending each other authority, using each other’s skills in some ways, enduring bindings together to make them easier…somehow? You indicated that was part of it. And keeping each other from death for a time.”
+
+“I don’t think we’d experience some of those benefits until we were finished with the process,” Stuart cautioned.
+
+Alden scratched the back of his neck. “It’s weird saying this because it sounds so much-much…but after the way this weekend has gone, I feel like I could handle an extra affixation or two. If it’s for something like this. You might have emboldened me too much for my own good by being so accepting. But if you’d like to try it, too—”
+
+“I would!” Stuart said. “I agree it’s a very good idea!”
+
+Then he toned the exuberance down again to say, “Though, of course, you may change your mind after—”
+
+“Stop that,” said Alden. “You’re as bad as…some person who kept being self-deprecating in the supply library. I know what I’ve suggested and who I’ve suggested it to. We’re talking about something special and good. If you’re excited, be excited. I am.”
+
+“You are.” There was too much of a gleeful Artonan trill in those words for Alden to be sure if they were a statement or a question.
+
+“I—”
+
+I am.
+
+He was. But at that moment, his stupid bastard brain fell on top of a problem it had just found.
+
+If I deepen a bond with Stuart, he’ll come to completely understand my skill. Completely. He’ll know. Asking to go through with this is a way of deliberately revealing my skill’s true nature to him. I’m not allowed to intentionally reveal that.
+
+I promised.
+
+The gremlin was pleased he’d remembered his duties in its simpleminded way.
+
+The tattoo had no feelings. It was just a cold, unforgiving, relentless mistake.
+
+Alden flinched away from the existential closeness, even though he didn’t want to. He tried to cover for the sudden retreat by saying he needed to focus on the spell that would cut the flowers.
+
+Instead of focusing, he was close to panic. And that made things so much worse because it kept him from thinking his way around the issue. Finding words to make sentences to create delays instead of lies—he needed to do that.
+
+Instead, he heard himself confusing Stuart. Then distancing himself. Babbling a bit.
+
+Lying.
+
+Lying more smoothly so that Stuart wouldn’t look so upset. This had been a great day, and now Alden was ruining it for him out of the blue.
+
+Lute needed help with Victor, he said. Cat emergency. The message had just come.
+
+It was too bad that their weekend would have to end here.
+
+Less than an hour later, he teleported directly into his apartment at Celena North. He said hello to Lute, who was drowsily eating cheese puffs on the sofa with a content and healthy cat.
+
+Alden liked both of them a lot.
+
+He wasn’t happy to see them.
+
+******
+
+******
+
+“Ro-den.”
+
+Stu whispered the word. It fell on an empty summonarium where Alden had been standing a breath ago.
+
+He sent himself back to where they’d been and started walking.
+
+There were some things an art’h could only do at the old house.
+
+*

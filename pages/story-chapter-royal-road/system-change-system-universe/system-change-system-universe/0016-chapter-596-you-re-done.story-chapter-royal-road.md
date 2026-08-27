@@ -1,0 +1,145 @@
+---
+id: 4f711453-3c5a-5b2d-9f8d-d64e150f98ac
+page-type-slug: story-chapter-royal-road
+title: "Chapter 596: You’re Done."
+slug: 0016-chapter-596-you-re-done
+partOf: system-change-system-universe
+position: 16
+ownLength: 2248
+unit: words
+ownProgress: 2248
+publishedAt: 2025-10-23
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2699922/chapter-596-youre-done"
+royalRoadId: "2699922"
+markedReadAt: "2026-06-29T19:57:15.517Z"
+---
+
+Chapter 596: You’re Done.
+
+“You’ve really thought about it since he kicked your asses, haven’t you?” Derek asked Marrick.
+
+“I have,” Marrick replied. “One must work their brain as much as their brawn in order to progress. This is especially true for battles lost.”
+
+“And… you don’t want him to beat you again if you fight.”
+
+“And… that,” Marrick confirmed with a nod.
+
+“So, what do you think?”
+
+“I think… that at twenty percent of his Battlelust, or whatever he calls it, I could beat him normally and leave him alive, but in a Dying State,” Marrick said. “At fifty or sixty percent Battlelust, I would have to entomb his head and then crush it in one singular attack. That would absolutely kill him,” the old elf explained. “Above fifty or so percent… and it would be best to jump on my cloud of sand and fly far, far away. Or fly long enough for his Battlelust to dissipate… then options one and two would be back on the table.”
+
+“And you think this woman can do that?”
+
+“I think… she could probably kill him at up to seventy-five percent Battlelust or more, and she can escape if it gets too high.”
+
+“But if he hits that amount of Battlelust, then uses his trump card?”
+
+“Then she can only hope to survive the short onslaught he will unleash,” Marrick replied with a shrug.
+
+“I like the way she fights!” Silvi suddenly landed on Derek’s shoulder after putting away her weapons and shield.
+
+“You do?” Derek asked.
+
+“Mhm…” Silvi nodded. “She makes friend Jace smash his face into her fist over and over… hmm…”
+
+“What are you thinking?” Derek asked.
+
+Without answering, Silvi began looking around until she spotted an invader who was unsure what to do. Then, suddenly, two Mage Hands appeared behind him and grabbed him by the shoulders. The next thing Derek saw was the man flying at Silvi. Just before he reached her, a Mage Hand in the form of a fist appeared in front of her, and the man crashed into it face-first.
+
+“It’s hard to do,” Silvi’s childlike voice sounded out as the man, who was on his back and staring up at Derek and Silvi with wide eyes, scurried away. “I’ll work on it.”
+
+“It’s good to have different ways of fighting,” Derek said. “That was really hammered home when Trischa took away void and space in this area.” After that, the three turned back to continue watching Jace get beaten down.
+
+Derek winced as Amelia used Jace like a yo-yo. With one hand, she would motion him to her, and he would shoot into the air, only to find the fist from her other hand waiting for him. As soon as the fist hit, she would motion him away with her free hand, and the speed at which he crashed into the ground would triple, at the very least.
+
+Occasionally, Derek would see Jace use some of his skills. Once, just before his face crashed into her fist, Jace disappeared and reappeared behind her. He managed to find a weak point in her armor and attack a vital area at that time.
+
+The woman didn’t heal quite as fast as Jace currently did, but Derek could tell that her vitality was not low. She also became more cautious after that.
+
+“Look,” Marrick said after a few more minutes. “He’s starting to gain more and more control. She’s not going to be able to keep doing that much longer.”
+
+And, just like Marrick said, only a few moments later, Amelia chose to grab Jace in the air instead of punching him down again. It all happened so fast. One second, he was in a crater on the ground, and the next, he was being held in the air by Amelia, who had one hand on each side of his head.
+
+“She’s had enough,” Marrick finally said.
+
+“And she has calmed down after that blue guy died,” Derek replied.
+
+The giant red woman then glanced at Derek and gave him a questioning look. Just as Jace made to strike her with both kukri, which would deal a lot of damage if she didn’t crater his head in first, Derek stepped in.
+
+“Stop!” he shouted as he started walking towards their battleground. He could tell that it was all Jace could do not to attack the woman. When Derek got close enough, he saw the red eyes of the man and the lust for battle radiating off him. He’d seen the same thing a while after their fighting began. Jace was closing in on max Battlelust. I’d say around… 80% or so… he thought. “Drop him,” he told the woman, and to his surprise, she complied.
+
+Jace did a backflip and landed on the ground. Then, instinctively, he made to jump back up to the woman, but Derek was there to put his hand on his shoulder and stop him.
+
+“Let… go,” Jace said.
+
+“No,” Derek replied. “You’re done. You lost.”
+
+“I didn’t…”
+
+“You did,” Derek said. “She could have killed you a dozen times by now, but she chose not to. It’s your loss. Next time, build more Battlelust before you join in. And find some ways to shore up those weaknesses. Get some real movement skills that don’t all end up with you striking your enemy. You need a way to fight gravity. You suck against it.” He then looked up at Amelia. “It is gravity, right?”
+
+“Not exactly,” Amelia said. “But close enough.”
+
+Derek nodded, then said to Jace, “Now, go over there and calm down.”
+
+Jace sneered, but in the end, he walked away. Derek rolled his eyes, then looked back up at Amelia. “What now? Do you want to kill me for killing your friend?”
+
+“I… do not,” Amelia said. “Forgive me for losing my composure. Everything with… your best friend… got to me. He… has a way with words.”
+
+“That’s for sure,” Derek said.
+
+After that, Amelia looked to where Darvin had been before, then sighed. “Darvin was… someone I’ve known for a very long time and someone who I could consider a friend. I grew to count on him outside of system-related things. But you are correct. He could have stopped, but he chose to continue . I suspect that, given his position, he was given a different mission from the system to complete, and it was all riding on defeating this Davenresh System. He has always been… was always arrogant, and later on, he was also a… ‘pencil pusher,’ but he was usually fairly level-headed.”
+
+“I doubt I will ever know what all happened with him once we arrived on this planet,” the woman continued. “But he was certainly much more anxious and… touchy once we did. Though, he was never much of a commander.”
+
+“I see,” Derek said. “Well, aside from a few certain people and a couple of other occasions, I’ve given most, including your invaders, a chance to surrender. So, I will offer you the same choice. Do you surrender?”
+
+“No,” Amelia said, which surprised Derek. She was already acting defeated, after all. “Not without a fight. I have to know just how strong you are—if there was ever a chance for us to win.”
+
+“I’m fine with that, too,” he replied. “Go ahead and get healed up. Regenerate your mana and all that. Just know I’m tired and have a bug to hunt down, so I don’t plan on just standing there and seeing what you can do all day. So, when you come at me, you better give it all you have.”
+
+“Don’t worry,” the woman said. “I will.”
+
+Derek shrugged and then walked back over to where Marrick and Jace were. When he reached them, Silvi hopped off his shoulder and landed on Jace’s head. The man, who was still a bit crazed, made to slap Silvi off, but she disappeared and reappeared on his shoulder. The same thing happened a few times before Derek made Silvi stop. She let her disappointment be known, then hopped onto Marrick’s scrawny shoulder.
+
+“Make me a fluffy cloud,” she told him, and he complied. Soon, Silvi was lying in front of Marrick on a nice, soft cloud of sand.
+
+“Are you going to fight her?” Marrick asked, which drew Jace’s attention.
+
+“Of course,” Derek said. “I’m just waiting for her to finish recharging.”
+
+Marrick nodded and chose not to say anything else. Soon enough, Amelia gave Derek a nod, and he moved back to her.
+
+“You ready?” he asked while rubbing his eyes.
+
+“Yes!” Amelia let out a battle cry and released the full might of her aura.
+
+Derek brushed it aside and released all of his, too. Once again, his aura was enough to make the surrounding space distort. That was enough to cause Amelia to balk before she attacked. Seeing her hesitation, Derek channeled the void throughout his body and used Active Void Shift.
+
+He reappeared behind the woman and threw a punch. When his fist was only a few inches from her back, it slowed as if he were punching through water, and just before it reached her, she sent out a pulse that pushed him back.
+
+The next second, Amelia turned around and pulled Derek toward her with one hand while preparing to hit him with her other. Derek smiled as he didn’t resist, then just before his face met her fist, he disappeared and reappeared behind her once again. They did this a few times before Amelia became frustrated.
+
+“That doesn’t work so well against someone with a teleportation skill,” Derek said.
+
+“It does…” Amelia muttered. “It usually locks down teleportation and can lock someone in place, no matter the movement skill they use. Like the one you used to charge me with. You certainly weren’t able to move as you tried, and I wasn’t giving it my all. But your teleportation skill…”
+
+“Maybe,” Derek said with a shrug. “But I gave you your chance. I hope you’re happy.” He then held his hand out and summoned Harbinger. As soon as he did, he felt the weight from Amelia’s skill pushing him down even harder than when she was trying to hold him in place for Darvin.
+
+He smiled, then activated Powerstride. Amelia never turned him loose, and this time, even though he was still moving much faster than when he wasn’t using the skill, he felt like he was moving in slow motion. Derek halted just before her, then held his hand up and shot out a Void Lightning Bolt while swiping his glaive through the air to use Spatial Rend behind her.
+
+With the two skills coming at her at once, Amelia tried to move out of the way to dodge, but Derek appeared directly in her path and unleashed a void-enhanced Sweeping Slash at the woman, followed by a Spatial Collapse on the other side. Finally, he reappeared above her, which was the best—and really only—escape route for her from his skills, and punched down with his void-covered fist while using Multi-Strike.
+
+Instead of trying to push through, Amelia stopped and focused on herself. Whatever she did was enough to cause Spatial Rend and Spatial Collapse to stop mid-skill, but it did nothing for Void Lightning Bolt. The normal slash from Sweeping Slash also disappeared, but Derek knew that there was still a void slash aimed at her. Finally, both skills hit her, and Derek tilted just enough to miss the top of her head and aim between her neck and shoulder.
+
+Once again, it felt like sludge once his fist entered a certain range. However, once the delayed effect of his skills hit her, the force eased up, and Derek pushed through to land a strike—though not full—on the woman.
+
+Finally, he reached out and ripped a hole in the space in front of her, placed one hand on her back, and grabbed the back of her head with the other, then kicked hard off the ground and into the tear in space. The only thing protecting the woman was the small barrier of void around her.
+
+Derek held the woman as she grasped at her chest when the Multi-Strike punch finally hit. She tried to double over in pain and throw up blood, but Derek didn’t let her. Instead, the blood pooled up underneath his barrier and trickled down her chin until he let it out. From there, the blood almost evaporated before their eyes.
+
+“You’re officially beaten,” Derek said. “You could be at one hundred percent right now, but as soon as I drop this shield around you… near-instantaneous death.” In reality, he was a little surprised that all the attacks that landed on her at the same time weren’t enough to knock her out or into a Dying State, but then again, his final punch was pulled.
+
+Amelia looked at Derek with a small frown, then looked around. She contemplated something for some time, then nodded. “You have beaten me,” she said. “Though I do not know if what you speak of about this place is correct or a scare tactic… I do not wish to find out.”
+
+“Oh, it’s true,” Derek said. “You saw your blood?” He waited for her to nod, then said, “Imagine that, but with your entire body. And other than myself and my companion, I have met only one other person who could just barely withstand it… and that person was a Void Beast named Asher.”

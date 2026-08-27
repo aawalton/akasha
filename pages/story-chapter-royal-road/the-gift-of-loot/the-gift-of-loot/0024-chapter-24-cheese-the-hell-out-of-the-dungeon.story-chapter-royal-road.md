@@ -1,0 +1,177 @@
+---
+id: 5027bdc4-93cb-5c88-8a9b-67dab96cc682
+page-type-slug: story-chapter-royal-road
+title: "Chapter 24: Cheese The Hell Out of the Dungeon"
+slug: 0024-chapter-24-cheese-the-hell-out-of-the-dungeon
+partOf: the-gift-of-loot
+position: 24
+ownLength: 2176
+unit: words
+publishedAt: 2026-05-14
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3395583/chapter-24-cheese-the-hell-out-of-the-dungeon"
+royalRoadId: "3395583"
+---
+
+Thomas went back to the boss goo and found a nice grade B healing crystal and three more adaptation crystals. Judging by the amount of glitter and the pace at which they shifted from white to fleshy rose gold, he guessed these were B grade as well.
+
+Then he helped Zach comb through the rest of the room, looking for anything else that had dropped. Unfortunately, Zach's fire had been ferocious enough to burn away everything except the Adaptation crystals. They only found one among the numerous scorch marks and small piles of ash. He did manage to net several air crystals in the fake Thomas-mimic goo and a single brown earth crystal.
+
+Gathering it all together, they took a seat on the edge of the stage. Thomas grimaced. "I thought there would be more."
+
+"Dude, what are you talking about? This is a great haul." Zach paused, then looked at him. "Or maybe it's not a good haul for you?"
+
+There was definitely a question in there, though he wasn't pressing. Thomas knew he could ignore it or wave it away as a joke. But... well, Zach had told him the details of his Gift.
+
+"My Gift is loot," he said with a shrug. "Rare drop rate goes from half a percent to five percent, and monsters are five times more likely to drop items."
+
+"What the hell, that is awesome!" Zach enthused, but then he paused, grimaced, turned unusually serious. "You understand that if people find out your Gift, it'll be all bad news for you. Someone who wants what you can do will not stop."
+
+"My Gift is that special?" Thomas asked.
+
+Zach started to nod, then shrugged and scratched the back of his head. "I... think so? Old Families have had access to dungeons for ages, but the strength of unlocking Gifts for the first time was supposed to increase after the System Announcement. That's why I waited until Announcement Day to dive. Yours, though? Man, I've never heard anything like it."
+
+Well, that was most of his fears come true. "When I came out of my first dungeon, I told the National Guard that it was a sensory gift: My perception increases for every dungeon monster I kill, then resets after I leave the dungeon."
+
+"Hey, that's a good cover story for this dungeon," Zach said, brightening. "We can tell them about the darkness and everything. It will explain why they lost so many people. I think that box thing was probably a trap. The mimic dungeon was supposed to be challenging, but not this challenging." He paused. "Or maybe they set it up to try to train their younger generation, and it got out of control. The Brighten family knew they were screwed, so they left."
+
+"Do you know these people personally or something?"
+
+"No. Just by reputation. People thought they were all witches or some shit." He gestured to the sword that lay between them, having taken it off since it was long enough to be awkward to walk with, much less sit down. "And they loved these old-style Japanese swords. They weren't Japanese, either." His face blanked, and he must have been replaying part of their conversation because he said, "Hey, so wait! If you killed more in the Chipmunk dungeon, could we have gotten more red crystals?" Then he paused. "Actually, maybe that wouldn't have been a good thing. But your Gift means you don't have a party either? All those crystals you sold me came from you? Just you?"
+
+"Yeah." Thomas smiled, a little proud of himself. "That all came from my first dungeon."
+
+He whistled. "Okay. You've got to figure out how to offload these without attention. Maybe travel to Sacto or the Bay Area and sell some in different places so they don't ping the wrong people."
+
+That was a daunting thought. "These Old Families," Thomas said carefully, watching Zach out of the corner of his eye because he could tell it was a sore subject, but he had to know, "Do they have a way to read people's Gifts?"
+
+"No one can read Gifts." He shook his head emphatically. "But they have access to databases, just like every other rich asshole who can buy their way in. Or they just own the databases. So you've got to be careful."
+
+"Water, water everywhere, not a drop to drink," Thomas muttered.
+
+"Sort of. Yeah. But you're going to fix your brother's hand. Get him to help you offload some of these crystals for you, so the buyer isn't always looking at the same person. Anyone else you can trust?"
+
+Thomas let out an explosive breath. "I don't even know how much I can trust my brother, to be honest. We've had some rough times."
+
+"Sucks. I'm sorry." Zach paused. "I know of a few spots where you can offload crystals without people asking questions. They might know my face, though, so I can't do the selling."
+
+They sat in silence for a moment, thinking. This conversation had turned glum.
+
+"All right." With a clap of his hands, Zach suddenly stood. "I've got a plan."
+
+Thomas listened carefully because he had been the one making all the plans.
+
+Zach handed him the sword. "We go through the rest of the dungeon and cheese the hell out of your Gift."
+
+It did nothing to fix his problems, but it sounded like a lot of fun.
+
+"Good plan," Thomas said.
+
+The addition of actually being able to see had changed the dungeon completely. Rooms that had been terrifying in darkness now just looked like they had once been in a very expensive house that had been abandoned for a few decades. The floors were an off-color gray, and the wallpaper peeled off the walls.
+
+Hilariously, it was pretty easy to tell on sight what was a mimic and what wasn't. The real furniture was old and rotten, while the mimics tended to recreate themselves as new furniture or items. Thomas even spotted some patches on the wall with suspiciously new-looking wallpaper.
+
+But here and there, a mimic actually did a good job blending in. Thomas's health sight covered those instances, but he imagined people could easily get tripped up.
+
+Using his fancy sword, he started going to town. To his surprise, Zach stepped in to show him a few moves. He wanted his teammate to have some "dignity" when slashing monsters apart and showed him a couple of simple chops and slices.
+
+His familiarity with a weapon he claimed not to know much about spoke volumes. Thomas got the uncomfortable feeling that Zach could pick up any type of sword and be at least competent with it.
+
+How far ahead were the old families from the regular peon? Pretty far ahead, it seemed.
+
+Whenever they hit a room that had been caught in Zach's rampage, nothing had survived except the remains of scorched walls and the occasional adaptation crystal. They found a couple of rooms neither had managed to clear out, and Zach seemed pretty impressed by the number of crystals Thomas picked up.
+
+Finally, they located Zach's messenger bag in the original butler's pantry he had fallen into.
+
+"All right!" He held it up over his head in triumph. The bag was slightly singed but intact.
+
+Finally, they could safely say the entire dungeon was cleared. They returned to the boss room and the blackened door that led toward the exit.
+
+In the exit room, there was a nice chest waiting for them. Thomas glanced at it with his health sight just in case, but it was not a mimic.
+
+"Does your gift affect exit rewards, too?" Zach asked excitedly.
+
+"No. Wish it did," Thomas muttered.
+
+Zach grinned. "Bummer. Never mind what I said about it earlier, your Gift sucks." He bent down and opened the chest. "I guess the dungeon was impressed with us, though!"
+
+Inside were four crystals: two grade A adaptation, one grade A healing, and one grade A fire.
+
+"It better be. We've been in here forever," Thomas muttered. He was exhausted.
+
+They collected their stuff. Zach put the fire and adaptation crystals in his bag, while Thomas kept the healing and his adaptation crystal.
+
+"Wait," Thomas said. "Here, take the whites," he added, shuffling through his bag to pick them out as he found them. "They'll help you purge the fire, right?"
+
+"Are you sure?" Zach asked. "I was joking about your Gift sucking. You earned these."
+
+"We're a team, right?"
+
+He smiled. "Yeah, we are. Come on. I want my reward from the National Guard."
+
+They exited, and Thomas blinked as real daylight hit his eyes. It had to be just before noon, which, unless he had time traveled backward, meant it was the next day.
+
+"Hold," someone said over a loudspeaker.
+
+Zach and Thomas froze. As Thomas looked around, he saw that the area directly around the dungeon exit had changed. Specifically, there were more National Guardsmen in the false garage, though they were carefully positioned toward the far edge of the wall, and it looked like some heavier guns and the like had been moved in. No one manned them, but the threat was there.
+
+Everybody was staring at them with wide, slightly shocked eyes.
+
+Thomas looked down at himself. No doubt they looked like hell. Zach's shirt was gone, and they were both covered in dried mimic goo and streaks of soot.
+
+One National Guardswoman called out through a bullhorn, "Follow the path between the flags. Do not step outside the path. The ground has been mined."
+
+"Oh... lovely," Thomas said.
+
+Sure enough, there was a thin pathway marked out on each side with green landscape flags. The path was just wide enough for one person at a time and wound from side to side so it didn't provide a straight shot outward.
+
+Word must have passed through the ranks because Martinez and Applebaum arrived just as they hit the end of the path.
+
+"Congratulations," Martinez said. "We knew you must have done something because the energy readings suddenly dropped to safe levels hours ago, but we weren't able to confirm a clear." He nodded toward the extra military stationed all around as explanation. "What happened in there?"
+
+Thomas shrugged. "We cleared it."
+
+"All of it," Zach added, with an easy smile as if it had been no big deal.
+
+"Excellent. Do either of you need medical assistance?" Applebaum continued when they both shook their heads. "Follow me, please."
+
+Outside, the air was warm, and for a second Thomas took in the sounds of wildlife, the smell of pine trees, the ever-present scent of sagebrush, and the low buzz of insects. Everything that had been missing from that dungeon.
+
+"We've been staging in the house itself, so we will debrief you there," Applebaum said.
+
+No way that was happening.
+
+Thomas stopped. "We're not doing a debrief. I just want to go home and sleep."
+
+Smoothly, Zach stepped in. "It's a mimic dungeon," he said. "Not complicated, but the dungeon was ready to blow and was trapped with a device that ate all the light. Visibility was zero and it took some time, but we handled it. You’re welcome, by the way. It should be an easy run for whoever goes in next.”
+
+"We'd love to get specifics," Martinez said.
+
+"That's not happening," Thomas said. "We completed it. We need our rewards, and I need some sleep."
+
+The two National Guardsmen exchanged a look, and Thomas felt his hackles rise. But then, unexpectedly, Martinez just said, "Of course."
+
+He motioned to another guard, and a few moments later, they were presented with two separate boxes. Thomas checked his briefly to confirm the Living Architecture shard was there, then shut it. Zach did the same with his own.
+
+Another guard approached with some sort of scanning device, but Applebaum waved him away.
+
+Good. There were going to be no questions about the loot they'd received inside.
+
+"We took the opportunity to drive your car over here," Applebaum said.
+
+Thomas blinked in surprise. In all the excitement, he had forgotten about the auction and his car, which had been parked in the next city over. He'd have to make time to find out how the Ember of Life shard had done. "How did you do that? My keys are in my pocket."
+
+Applebaum just smiled. "We have our ways."
+
+Thomas suspected it was some sort of power play, like, 'We know exactly who you are and where to find you if we need you,' which was just... he'd think about that later. He was exhausted.
+
+As if reading his thoughts, Martinez said, "I take it if there's another emergency—"
+
+"We'll handle it on a case-by-case basis," Thomas said shortly.
+
+"It'll cost you, though," Zack added. His smile was sharper.
+
+They shook hands, and they were allowed to go. Just like that. He didn't trust it, but he'd take it.
+
+Less than an hour, and he'd be home, and then he could sleep.
+
+No... he'd fix Derek's hand. And then he'd sleep.

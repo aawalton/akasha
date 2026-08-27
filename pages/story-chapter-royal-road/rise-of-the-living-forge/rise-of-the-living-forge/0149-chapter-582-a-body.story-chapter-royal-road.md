@@ -1,0 +1,107 @@
+---
+id: e611304b-35b3-5e3d-8db6-38612cf04c36
+page-type-slug: story-chapter-royal-road
+title: "Chapter 582: A Body"
+slug: 0149-chapter-582-a-body
+partOf: rise-of-the-living-forge
+position: 149
+ownLength: 1632
+unit: words
+publishedAt: 2026-04-13
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3268133/chapter-582-a-body"
+royalRoadId: "3268133"
+---
+
+An offer like that, even if Arwin hadn’t already been planning to give the Infernal Armory the Dungeon Heart, would have been damn near impossible to turn down. It was just too tempting. Making the smithy more powerful would have been well worth it even if the only benefit he got out of it was improved crafting ability.
+
+But the Infernal Armory was far from limited to just smithing. With his new armor, it was also a combatant. Making it more powerful would basically boost every single aspect of Arwin’s own abilities. He was practically advancing both of them at the same time.
+
+Of course, he couldn’t promise every single Dungeon Heart they got to the Armory. The items were just too damn useful, and awakened buildings were half the reason the Menagerie had been able to pull off half the bullshit they’d been doing recently.
+
+But Arwin had earned himself the opportunity to splurge a bit.
+
+“It’s yours,” Arwin said, placing the Dungeon Heart down into the writhing mass of black tendrils twisting before them. Dark tendrils twisted over the large, pulsing heart almost instantly. They wound around it like a nest of snakes to swallow it in murky darkness. Then the mass retracted back into the wall. Stone sealed in around the heart, swallowing up the thump of its beat.
+
+A second passed.
+
+Another one followed it.
+
+Arwin and Koyu exchanged a glance.
+
+Neither of them said anything. There was really nothing to be said. The Infernal Armory probably needed a moment to process the heart or something along those lines. Asking what was going on was practically just asking to get cut off mid-sentence and tossed out of the building.
+
+Faint cracks brushed against Arwin’s ears. Their sound was so distant that he could barely pick it up, but the faint tremble that picked up in the stone beneath his feet confirmed that he wasn’t just imagining it. The sounds grew louder as the trembling intensified.
+
+The ground shook harder still. Stones parted, cracks forming between them as tiny motes of molten red and orange light floated free from the earth to flit around like burning insects. The temperature rose. Heat rolled against Arwin’s skin, joined by the the scent of something… else.
+
+He couldn’t quite place what it was yet, but it was strong. There was magic in the air. A lot of it. Unfortunately, his thoughts were more than a bit disrupted by the fact that the ground was now bucking beneath him like a furious wild horse.
+
+Arwin stumbled, catching himself on the wall — which really didn’t help all that much, as the stones making it up had joined what seemed to be a full scale rebellion rocking every single material within the Infernal Armory. More and more cracks opened up within the ground to let magic spill free from the earth.
+
+“I believe we should leave!” Koyu yelled over the growing roar.
+
+“Go!” Arwin yelled back. “The Armory hasn’t kicked me out, so I’m staying to see what happens! I can take the heat!”
+
+Koyu glanced down at his pale blue, ghostly body. Perhaps the Lich was wondering just how heat-resistant Arwin thought ghosts were. But the raw magic pumping into the air and the growing tremors filling the room reached the point where even he decided that it might not have been wise to push his luck too far.
+
+With a sharp nod Koyu vanished.
+
+And then Arwin was alone with the Armory.
+
+The tremors rocking the ground did their best to throw him from his feet, but Arwin planted himself firmly in place. Waves of stone rolled beneath him as a vortex of swirling orange power howled through the interior of the building with such a roar that it swallowed up even the cacophony of breaking stone.
+
+Arwin gritted his teeth as magical energy beat against him from every direction. It wasn’t exactly painful — this was nothing compared to the ocean of black soul magma that swirled deep within his soul, but it didn’t seem like the Armory was even trying to hurt him.
+
+He was just a fly on the wall.
+
+His vision went completely orange as power filled the interior of the smithy to the brim, completely swallowing it in a powerful molten glow. Arwin raised a hand before himself, bracing as he tried to squint through the burning light and see what was happening, but it was pointless.
+
+Even with his magical heat resistance, he could feel his hair singing. The heat radiating out from the Infernal Armory was immense. Koyu had made the right choice. This was no normal heat. The intensity was far beyond what fire or magma could reach without magical assistance. Anyone other than Arwin likely would have been vaporized.
+
+A single Dungeon Heart can actually make this much of a difference?
+
+Waves of magical energy rolled against Arwin, driving him another step back. He stumbled, presumably over a crack concealed by the light searing into him from every direction, but managed to keep his balance. The unsteady ground wasn’t doing him any favors.
+
+The ground bucked again, this time stronger than the last. A wave of magical power drove into Arwin and tried to squeeze the breath from his lungs. His back met the wall of the smithy and he let out a grunt that was swallowed by the scream of power filling the air.
+
+There’s way too much magic moving around! What’s going on? This definitely can’t be caused by a single Dungeon Heart. If it was, the other buildings would have been even more powerful than they already are! Is the Armory losing control?
+
+Arwin squeezed his eyes shut. They weren’t doin him much good at this point. He extended his senses, trying to see if he could feel anything at all as — somehow — more and more magic continued to well forth within the Infernal Armory. This was quickly moving past just a simple advancement and into the territory of something greater.
+
+It took Arwin longer than it normally did to locate what he sought. But, almost reluctantly, something prickled at the edges of his thoughts. The Armory’s presence. He could feel it, connected to him by the armor. Some distant part of Arwin could actually sense the power coursing through the armory almost as if it were his own.
+
+Their connection wasn’t the strongest at the moment. The Armory was completely focused. It didn’t even acknowledge his presence. Arwin was tempted to ask what the hell was happening, but he restrained himself. The last thing the Armory needed right now was a distraction.
+
+But that moment of connection ended up being all Arwin needed. Even though the Armory didn’t say a single word, it didn’t need to. There was only a single emotion Arwin could really pick up within their connection.
+
+It was the only one he needed to know.
+
+There wasn’t even the slightest hint of fear within the Infernal Armory’s mind.
+
+It was excited.
+
+Then there was a deafening crack.
+
+The ground beneath Arwin jerked like someone had yanked a blanket taut. He stumbled. Wind howled past him, racing down into the ground and stealing the motes of orange light away with its passing. Energy assailed his body from every direction — but it wasn’t so much as an attack as it was simply standing in the middle of a rushing river.
+
+Arwin wasn’t the target. He just happened to be in the way.
+
+Reflex forced his eyes to squeeze shut an instant before a brilliant flash tore through the interior of the Infernal Armory. It was bright enough to light up the insides of his eyelids and sear his irises like the sun itself had detonated a few feet away from him.
+
+He let out a pained curse, then nearly tripped as the violent tremors that had been shaking the ground suddenly jerked to a halt. Great, creaking groans tore through the air all around him. Debris and dust rained down one final time before a wave of silence finally pulled over the room.
+
+It was a moment before Arwin let his eyes open. He blinked furiously, pushing the stars dancing in his vision away. It was several seconds longer before his sight cleared enough for him to actually get his first look at the changed armory.
+
+He almost didn’t recognize it.
+
+The interior walls had taken on a faint glossy sheen as if they’d been carved from giant slates of obsidian. Gouges still ran through the ground for power to flow through, but they were now trimmed by glistening rivers of silver inlaid with flowing patterns.
+
+Power thrummed deep within the stone, thumping softly to the rhythm of a heartbeat. With every pulse, faint motes of molten red shimmered deep within the obsidian, their light just barely making it out from within the walls and floor. It was the exact same red that made up the mist that surrounded the Infernal Armory’s invisible form whenever it made itself known.
+
+A presence brushed across Arwin’s back. Coils of the very red mist in question slithered past his feet.
+
+He turned.
+
+And standing before Arwin, with skin of pitch black obsidian and clothes of twisting red smoke, was a man that looked like he’d been carved out of the walls of the Infernal Armory itself. Dull red ruby light glistened behind his eyes and spilled out from the faint smile pulled across his faceted lips. He raised a hand, watching tongues of mist play across his fingers.
+
+“Hello, Arwin,” the Infernal Armory said. Obsidian fingers clenched into a fist and the mist trapped between them splattered, raining to the ground like droplets of water. “So this is what it’s like to have a body. How exciting.”

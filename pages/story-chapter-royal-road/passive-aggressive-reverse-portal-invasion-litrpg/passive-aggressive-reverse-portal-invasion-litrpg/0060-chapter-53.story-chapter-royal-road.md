@@ -1,0 +1,253 @@
+---
+id: 559fe988-a1b7-5eda-b662-d9eef30db4fe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 53"
+slug: 0060-chapter-53
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 60
+ownLength: 4258
+unit: words
+publishedAt: 2026-08-08
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3786219/chapter-53"
+royalRoadId: "3786219"
+---
+
+“If we’re doing this right, it’s likely to hurt. A lot. You’re prepared for that?”
+
+They nodded.
+
+“Good. Also, in this, I will call the shots. I’m no fucking leader, but I am used to spotting when somebody’s had enough. And if I tell you to back off, I expect you to obey.”
+
+“Yeah, yeah, Mr. Macho. We get it. You’re in charge.” Nix smirked.
+
+“No. This isn’t some sort of acting like a tough guy. This is me saying that I will make sure we all make it out. But you need to listen to me. Otherwise, we’re not doing it.”
+
+“You’re not serious.”
+
+“Dead serious. I’m not the most adult person in the world – but if I take responsibility for this, I’ll fucking own it.”
+
+Nix blinked, then slowly nodded. “Okay, then. Let’s be serious about this.”
+
+I bowed my head. “Appreciate it. Are all agreed on how this is going to play out?”
+
+Steve frowned. “We go out there unseen. Haddock makes a shelter for you. Nix hopefully takes out a bunch of them with her Flash Flood. Then, you grind the rest down until we’re ready to jump in, one by one. We swap out as needed, streamline the process and, hopefully, manage to eke out a couple of rarity increases for all of us.”
+
+“Right on, mate. And most importantly. Don’t fucking die!”
+
+Elemental Ravager
+
+Level 14
+
+Health 80/80
+
+For having such an ominous name, they sure didn’t look like much. The dozen beasts perched in the tree tops were anything but fear-inspiring. They looked like somebody took a poodle, gave it a beak, slapped a couple of bat wings on its back and dipped the whole thing in peanut butter and oil. The small, bulky things could fly – one of them was nudged off its branch by another Ravager and performed an oddly struggling circle around the trees until it landed clumsily on another branch.
+
+Kimzi had explained the point. It took me a while to understand what she was getting at. Unless I was mistaken, the Ravagers were the seagulls of this world, if seagulls came with the potential for murder. They were clumsy, extraordinarily stupid and bereft of anything approaching common sense. They absolutely refused to back down – but that was mostly because they rarely understood what was happening. Seagulls, indeed. Oh, and they ate everything, and crapped everywhere. The off-white ‘webs’ strung from the trees weren’t webs, but strings of Ravager crap. Lovely things.
+
+We’d all identified the lot, both to boost the skill and to make sure none of them were above Level 25. Kimzi had warned us that was a no-go. They didn’t grow any wiser beyond 25, but their potential for destruction increased exponentially.
+
+Now, we were fifty meters from the trees, and about ready to start the show. I turned and met Steve’s eyes. Then I continued onward, rolling my shoulders, trying to loosen up before everything went crazy.
+
+I’d expected the Ravagers to attack as one, the moment I left Steve’s invisibility. Not so. I did sense a full-body tingle as the effect left me. Only, it seemed like the flying poodles were extremely self-absorbed, caught up with squawking at one another, puffing and posturing in a never-ending sketch-worthy social dynamic of some sort.
+
+When Haddock joined the scene? Oh, he caught their attention all right!
+
+One second, there was nothing here, except for the constant, never-ending grasslands next to a dozen fir-like trees. Next, a whole-ass building slowly emerged from out of nowhere. A dull, rectangular building, flat-roofed and open on one side, like a parking garage with no garage door. Boring to look at – if you ignored the massive funnel on the roof.
+
+Haddock and Nix were now on iteration 8.0 of their funnels. This one looked like a water slide, if you took the bottom opening and flattened the usual half-circle for no particular reason. The opening on top was large enough you’d be able to fit in half a tsunami, while the bottom opening was small enough nobody larger than Nix would be able to slide out of it.
+
+The emergence of the building resulted in a handful of surprised squawks from the Ravagers, though they sounded more surprised than truly angry. Both the noise and the intensity of the squawking doubled when, out of the blue, a massive wave erupted in the air above the building, aiming straight for the mouth of the funnel.
+
+Nix had recently gained the Magical Damage skill, and improved it to Rare to boot. The skill was still low-level enough it wasn’t likely to make a difference. The added bonus ability where she, once a day, was able to double the power of a single magical talent? That sure as hell changed things up.
+
+I stood alone inside the building, shield and buckler ready, hyper-ventilating the tiniest bit, getting hyped up for the coming fight. I had no clue what Nix’s Flash Flood at twice the power would look like in the air.
+
+There was no missing the effect when it emerged through the funnel, sped up God knows how many times. It was like an airborne tsunami unleashed straight at the trees. A supersized pressure washer, coupled with lethal intent.
+
+It didn’t hit all of them. But it came close. I wouldn’t want to be the one trying to mentally aim the equivalent of a nuclear-powered Super Soaker by means of an over-sized water slide, so I was definitely not going to nag on Haddock for missing one tree entirely. Especially when I saw what it did to the Ravagers it actually hit.
+
+The beasts had less health than your average human. They didn’t look hardy, either. To be real, they looked to have the survivability of your average dodo bird. And when the super-pressurized wave hit them, they didn’t so much get knocked off their perches as they just… disappeared. One moment they were there, curious and a bit annoyed at the sudden appearance of a new building in their neighbourhood. They were probably about to call the local HOA. The next, the branches were dripping with water, and the Ravagers were… elsewhere.
+
+I laughed with joy at the sight, as I watched my experience tick up. Sure, Nix might not be able to do this more than once a day, but damn did she ever kick ass when she did.
+
+Now? Now it was time for me to do my part.
+
+I stayed underneath the roof of the building. The plan called for me to catch their attention, have them attack me and avoid dying. Placing myself out under open skies where they’d be able to attack me from all sides would absolutely ruin that plan. Instead, I stayed right within cover and started slamming my buckler and shield together for a loud, ringing tone. “Dinner’s here! That’s right! Come get it, you ugly fucks! If any of you sodden blankets are even still alive. Come at me already!”
+
+They came.
+
+A trio of them at first. All of the birds who’d camped out in the branches of the single untouched tree launched into the open air and started flapping in my direction. Beyond them, Spot helped me notice motion here and there, as sodden, much-abused Ravagers slowly picked themselves up from the ground and tried to figure out what the hell just happened.
+
+I settled myself. The ground around me was flat and easily traversable. The roof was far enough above my head there was no risk I’d hit it by jumping around. My health and stamina were full. My Agility boosted, by sleep buff, my armor and Steve’s additional buff to ease my movement. Everything was at its peak for me to learn about the first part of the Ravagers’ name. Elemental Ravagers.
+
+One of them dipped and dove. It flapped once, with all the grace a platypus would have if it were capable of flight, opened its beak and squawked.
+
+A wave of iridescent energy emerged, solidifying into something else, and streamed my way.
+
+I set my feet, raised the shield and gritted my teeth.
+
+The missile struck – and I took a half-step forward, as the expected force failed to push me back. Payload expended, the ball of energy pinged off of my shield and hit the ground a half-dozen meters away.
+
+I blinked. So, that’s what my new repelling effect works like for magic. And with the evolution of my Shield skill, I’d barely felt the impact. A half-choked chuckle inadvertently escaped me.
+
+Above me, the Elemental Ravagers showed why they were equally cursed, mocked and feared. They were graceless creatures, two of them nearly clashing in the air – yet the elemental attacks they unleashed were no joke.
+
+I stood my ground and hid behind my shield, trying to get a sense of my new skill. Above and ahead, more Ravagers were inbound.
+
+Behind me, by now, Haddock and the others would be hidden in their own enclosure, tacked on to my own building. There, they’d be able to observe me through a narrow opening, help me if things went seriously south, or come switch places.
+
+For now, however, it was my turn to play. And play I did.
+
+For a brief while, I simply took stock of the situation, learning about my enemy and discovering just how many had survived Nix’s initial onslaught. Eight. The answer was eight. A mere eight Ravagers out of what had been at least two dozen. Sure, the ugly buggers had low health, but that was still one devastating opening shot.
+
+The surviving eight Elemental Ravagers did all they could to kill me. Elemental attacks poured in from the air as they zoned in on me as their nasty ambusher, and also their next meal.
+
+I was never in any real danger. That was the surprising conclusion for me after a few minutes of evading and shielding myself from the forceful gusts of air, frozen missiles, fiery barrages and more that threatened me. I’d had a few slivers of health shaved off here and there, but it was supremely ignorable.
+
+Part of it were the Ravagers themselves. Their attacks were undeniably powerful, but they weren’t the most precise. On top of that, the avian catastrophes were clumsy as hell. Half the time, they overshot, oversteered or just plain missed their timing. I figured their wings being sodden with water didn’t help much.
+
+On top of that was my building. My protective castle. The roof above my head meant their approach was limited to the angles in front of me. They swerved, dipped and shot. Then, once they’d made their shots, they veered off to try again.
+
+They did not try to land on the ground. Understandably. With their lack of grace in the air, they’d be waddling ducks on the grass.
+
+Which left me to learn. To adjust. To play.
+
+My new reflective ability was not the best for deflecting ranged, or elemental attacks, I found. I could do it – yet, given that these were magical attacks and not physical ones, I was unable to use the Deflect talent on top of the repelling capability. Still, I was onto something that would grow useful with practice. A lot of practice.
+
+Harder, more solid attacks like their earthen missiles held together a lot better than loosely defined bundles of energy like the air or fire attacks. Those dissipated within a few meters after being repelled by my shield, while the earth missiles travelled up to a dozen meters before the magic started to unravel.
+
+On top of all that? My shield was solid. Rock. Fucking. Solid. It didn’t give an inch, the material barely bucked at the impact of the harder attacks, and my footing felt as if I shared a connection with the soil underneath. Like they’d have to topple the ground itself to tip me over.
+
+My aim for retaliation was shit. But I didn’t mind. Being perfect wasn’t what this was about. Improving skills, earning experience and learning. That was the game. I took a measured step sideways, watching a green bolt zip past my nose, and grinned as I noticed an anticipated notification pop up for me. Step one was done for me. I’d managed the requirements to improve the rarity of Dodge. It was about time to even the playing field a bit.
+
+Once I’d made the decision, killing them off was almost too easy. Wave of Reflection was already decently fast. The wave of energy shooting out from the skill to reflect any attacks happened fast enough an enemy would have to be seriously agile to evade it. Higher Riverkin-fast, not like these sorry excuses for aerial garbage. That was before the addition of my newfound reflective ability, which actually improved the force and speed of the Wave of Reflection.
+
+The first Ravager disappeared within a dark wave of energy and simply… turned off. It dropped dead on the ground, flopping over several times, without a single sign of life. The next three were torn from this mortal coil equally fast. I’d already activated my fifth Wave of Reflection when I realized I was running out of enemies.
+
+I blinked. Then I came back to myself and chuckled. If this was what growing stronger felt like, I could get used to it.
+
+For the next three attacks, I did something that felt pretty damn counterintuitive. I intentionally let myself be hit. I stuck out my leg to let a fiery attack splash over my ankle. My raised lower arm took a blunt ice missile right in the muscle. And finally, I had to perform a graceful dive to let myself get pummelled on the hand by a badly-aimed string of smaller earth missiles.
+
+There it was. The notification arrived. Resilience was upgraded. There were just three Ravagers still flopping about in the air. I was still alive. I’d done my part.
+
+“Done!” I shouted. “It’s all good. Three left. Just remember. Dodge first, then Resilience. We take no chances!”
+
+“I’m right here. No need to shout.” Steve’s voice appeared from behind. “I’m ready when you are.”
+
+I glanced back, ducking my head to avoid losing my eyebrows to a fiery missile. There he was. Right at the back of the building, ready to dip back through the tight opening and into the saferoom if need be.
+
+“Info first. Good news: they’re dumber than expected. Attacks damage about twenty health each as long as they don’t hit anything vital. I’ll stay in the corner back here, in case something goes wrong. We switch on three if you’re ready?”
+
+“I am.” His voice was that particular blend of nerves and eagerness that usually boded well for the mental presence of a trainee.
+
+I timed the switch. After carelessly deflecting the next attack, I dipped back to stand in the corner, while Steve occupied my space, spear raised in front of himself.
+
+The Ravagers wouldn’t be able to see me from the air and, hopefully, wouldn’t be distracted by my presence.
+
+Steve was… impressive. There was no other way to explain it.
+
+I knew the Agility boosts lent me speed and the ability to dodge most enemies – well, at least enemies this clumsy. On top of that, my desperate fights wielding a shield had left me a certain level of control and sense of self in a fight. I’d earned competence.
+
+Steve had grace. For a man who looked like he’d be the first result if you googled ‘dad body,’ probably wielding a grill fork and wearing a “Hey Hungry, I’m Dad.” T-shirt,’ he sure as hell knew his way around a weapon. He didn’t perform awkward leaps and evasions like I sometimes did. He moved with measured steps, performing an elaborate dance I’d only ever caught glimpses of.
+
+His control of the spear, I had to admit, was impressive as well. He moved as if it was an extension of himself. The long spear, which would have seen me falling over myself in seconds, moved along with his posture shifts in tight, economical movements that were clearly rehearsed. Now and again, he’d even use the tip of the spear to deflect incoming ice or earth missiles. A few times, it looked like he visibly had to hold himself back not to impale a Ravager as it exposed itself after an attack.
+
+After two minutes, he spoke up, breath coming in deep, but controlled huffs. “That’s one. Going for two.”
+
+Steve didn’t repeat my actions. He didn’t risk any of his extremities. Rather, when the attacks came, he braced himself and let them strike him directly in the chest. Ballsy. But then, he didn’t risk losing a hand or something like that. Also, his leather armor likely took the brunt of the damage with this approach!
+
+The third attack, an ice missile, struck him dead centre. He took two wobbling steps back before righting himself and speaking up with a winded croak. “I’m good. And. That was it.”
+
+I was perched, ready to jump in if need be. “Want to switch? Or need to try anything else?”
+
+He grunted, then nodded, dipping his head and evading an attack. “My stamina’s still decent. Give me a couple minutes to try something.”
+
+The next minutes flew by, as I watched Steve making a mockery of the flying menaces. It became quite clear what he was doing, when, following an impressively poorly aimed firebolt, he swapped his spear for a shorter javelin. His movements definitely looked less rehearsed, and the shorter weapon did make him look like he was flailing sometimes, but he adjusted and clearly worked to make it part of his movement skills. Next up was a rapier – not the fancy silver-filigree fencing sort you expected from movies, but a blunt, slender murder instrument clearly meant to poke holes in people. It definitely looked out of sorts with him facing off against enemies way up in the sky above, and him trying to use it for parrying looked uncomfortable, to say the least.
+
+Eventually, though, he grinned, sweat pouring down his face. “I’m… good for a swap now.”
+
+“You hear that, Nix?” I shouted. “Swapping on my mark!”
+
+A squeal erupted from deeper within, followed by a curse and, eventually, another frantic shout. “Ready. Ready!”
+
+The swap was uneventful and, moments later, she stood ready, looking up at the sky as if it was about to rain death down on her. Which, obviously, it was.
+
+I was ready to move in, in case it was necessary. Nix was quite clearly not used to combat movement, and was trying very hard to adjust for it with eagerness and putting extra force in her movement. “Try to relax.” I shouted. “When you tense up, your movements are restricted.”
+
+She cursed under her breath, throwing herself to the ground to avoid a series of earth pellets tracking her. “Relax?” She shouted shrilly, once she’d clambered back to her feet. “Who can relax in this?”
+
+She did manage to ease into the movements a bit. Her dodges remained awkward and clearly unpractised, but she was learning.
+
+Still, I wasn’t feeling too good about everything. She’d gotten herself hit twice, nearly close enough that I wanted to call an end to it and interfere. Yet, she kept going, doggedly glaring at the sky as if she could kill the Ravagers with sheer determination.
+
+Her excited squeal cut through the frustrated squawks of the airborne pests. “Yesss! Got it. Got… both, actually. Damn. I thought they’d missed me more often.”
+
+“You ready to swap?”
+
+“Not in the least!” She grinned. “I have something I need to try.”
+
+“It’s not the running, is it?” She was having trouble enough dodging as it was. I despaired of what’d happen if she went racing for a lap through the open area ahead.
+
+“It’s not the running.” She gasped. “You ass.” She stood stock still, letting a gust of blue-flecked weaponized air miss her by several metres.
+
+I couldn’t tell what was happening. To me, it just looked like she was zoned out, all caught up inside her own head, momentarily distracted from the fact that she was in actual mortal danger. When attacks came, she dodged, badly, like she was using the majority of her concentration on something else.
+
+Eventually, she messed up.
+
+Too late, she realized that an ice missile wasn’t actually on a trajectory to hit her, but the spot to the right she was dodging toward.
+
+I rushed ahead, knowing full well there’d be no way that I’d make it in time.
+
+Nix screamed in defiance, and her arm rose to take the damage from the missile – and a blue glow emerged around the arm. “I got it. I got it! Oooow that smarts!”
+
+I checked her health. Still at around half. “All right. I think you’ve had enough fun for now. Go heal!”
+
+“Your turn, love!” She shouted, before hissing, looking at the blood dripping from her arm. “Will the building last?”
+
+Haddock yelled back. “Plenty of time. I spent a lot of mana on it.” Haddock sure didn’t seem like he was in a hurry. He wavered near the back of the building, eyes closed. He didn’t look nervous, more laser focused on… whatever he was doing.
+
+“Now.” The word came through clenched teeth, as if he was rushing home after consuming a dodgy curry. He rushed ahead, hands moving out in front of him in an elaborate gesture, like a movie wizard casting some spell.
+
+There were three Ravagers left. One sodden, black one who was the closest they got to graceful. One with cow-shaped patches of colour, and one that was even clumsier than the others, which actually managed to fall out of the tree when Nix first attacked.
+
+The clumsy one stalled in the air mid-dive, looking confused as its single target, me, became two. Then, out of the blue, a shape appeared above it in the air. It was a cage. An actual fucking cage emerged mid-air, bereft of a bottom, and barrelled down toward its intended target.
+
+“Yes!” Haddock celebrated. Then his clenched fists dropped. “No!”
+
+The cage missed. By a lot. It wasn’t even close. The Ravager, meanwhile, didn’t miss, leaving a fiery, hissing reminder of its presence on Haddock’s left leg.
+
+“Need help?” I shouted.
+
+Haddock waved me off, limping slightly. “I’m just getting started.” Then he got to work.
+
+He didn’t construct anything more. Rather, he focused on evasion, just as he should, trying to earn himself the Dodge skill. Unfortunately, the key word here was try.
+
+I’d had practice. I knew how to move. Steve had weapons practice and unexpected grace. Nix was… well, she was quick. Haddock was none of these things. And, unless I missed my guess, he was terrified of being at the forefront of the fight.
+
+Haddock missed his timing. A lot. He froze at bad times, overreacted and, I was sure, took his inspiration for evasion from movies and games. Bad movies. He did fucking barrel rolls.
+
+I suffered through a minute of this, watching him get hurt, as his health plummeted downward. Then I couldn’t bear it anymore. I ran forward, interspersing my shield in front of the next missile rushing for his stomach.
+
+“What?”
+
+“Sorry. You’re done. I’ll teach you to move later. But this is – moment.” I knelt, deflecting an earthen missile that could have struck the ground and bounced right back up at him. “This isn’t going to end up well. Did you get Resilience?”
+
+He blinked. ”I… yes, I did. But Dodge-”
+
+“Good. Dodge isn’t an option right now. You planning anything else? Or can I finish them off?”
+
+“No. Construction… no. Nothing more now.” He slammed a fist at the ground and then backed away to safety, eyes at the Ravagers.
+
+I looked up at the sky, and the three remaining winged annoyances. At this moment, I’d be able to take them all out with no issues whatsoever. I shouted. “Anybody need to train something on these bastards?”
+
+A chorus of refusals came back. Nix expressed a desire to be the one to kill them, to improve her casting skills.
+
+“All right. I’ll just try a few things first. Then they’re all yours.” I bared my teeth up at the ugly things and murmured to myself. This was going to hurt.
+
+It hurt. A lot. But since I made the decision myself and knew what I was getting into, I had no-one to blame but myself!
+
+I ditched my armor. It was unnecessary for this battle, and it actually worked against what I wanted, since I wasn’t planning on my new Ethereal Marmot bracers getting ruined by pumped-up seagulls. The scene must’ve looked entertaining for anybody unsure what was happening, as I hopped around, spending the few available seconds in between elemental onslaughts to unstrap armor pieces and place them in my Personal Universe.
+
+Then I got myself hurt. Oh, I tried to learn Mana Shield, too, yelling questions to Nix about how she’d gotten the damn thing to work as I dodged and, occasionally, took a direct hit from the Ravagers.
+
+I honestly didn’t believe it would click. And it didn’t. It might be due to my puny Mental Power and Control. Might be my lack of experience manipulating mana. But whatever Nix managed, I wasn’t getting. I was just getting hurt. On purpose. And I wasn’t even getting paid for it.

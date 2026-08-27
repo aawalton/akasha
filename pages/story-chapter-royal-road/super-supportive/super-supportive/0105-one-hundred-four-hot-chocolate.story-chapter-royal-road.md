@@ -1,0 +1,888 @@
+---
+id: 9b48e92d-fbe6-5162-bec2-6886cfa4ef63
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED FOUR: Hot Chocolate"
+slug: 0105-one-hundred-four-hot-chocolate
+partOf: super-supportive
+position: 105
+ownLength: 7182
+unit: words
+publishedAt: 2023-12-28
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1457740/one-hundred-four-hot-chocolate"
+royalRoadId: "1457740"
+---
+
+104
+ 
+Alden got back to the dorms at eight PM. His feet were nearly numb from walking around in his cold, wet shoes for hours, and his messenger bag was stuffed full of paper airplanes.
+
+
+Stuart had liked the activity.
+
+
+I just never know with that guy.
+
+
+“Paper shaping” was an art form on the Triplanets as well, which Alden probably should have guessed. If you had more than thirty billion people with fingers and access to paper, someone was going to come up with the idea of folding it creatively.
+
+
+But Stuart hadn’t tried it since he was a small child. And he’d been able to justify it to himself as both art, cultural exchange, and enrichment for Other Alden.
+
+
+Flying paper toys were the best thing the ryeh-b’t had ever seen. Stuart had been casting spells to clean up all the shredded planes when they finally cut off the call.
+
+
+Alden squelched his way up to the second floor of Garden Hall. Njeri—the Water Shaper from his class who he’d met at the party—was coming down the stairs from the third floor, her flip-flops slapping against her heels.
+
+
+“I was upstairs in Mehdi’s room,” she said quickly. “Pulling water out of the clothes he wore today. I owed him the favor from the drinking game.”
+
+
+Alden hadn’t been that curious, but maybe she felt like she had to explain why she was in the wrong building. “I owe Heloísa,” he said. “She hasn’t called it in yet.”
+
+
+Kon had divided the class in half, tried to weight it by rank so it was fairer, and then sent everyone their victor assignments. Max had gotten stuck owing Mehdi. Alden didn’t know if that was random, or if he needed to thank Kon the next time he saw him.
+
+
+“Heloísa’s my roommate,” said Njeri. “She wants to find a way to use all the favors on the same day so that it’s grander. Do you want me to dry your shoes?”
+
+
+Five minutes later, barefoot and with dry sneakers in hand, he stepped into the huntski lodge.
+
+
+It was surprisingly silent, considering all three of his roommates were in the living area. Haoyu was the only one obviously working. He had a tablet out and he was tapping his cheek with the end of a stylus.
+
+
+Lexi and Lute were just sitting there.
+
+
+“Hey,” Alden said, heading toward his room.
+
+
+[Lexi: Are you alone?]
+
+
+Alden glanced over. All three of them were staring at him.
+
+
+“Oh, Lute told you. It’s just me.”
+
+
+Lexi crossed his arms over his chest. “You had a wizard watching your every move all day!”
+
+
+Alden frowned. “Yes.”
+
+
+“Why?!”
+
+
+“Because he wanted to hang out. And I did too.”
+
+
+Lexi stared at him. “Do you think that’s normal? Is he watching us too? What—?”
+
+
+“I was in the room for six seconds this morning. I literally sprinted out without speaking to any of you,” said Alden. “If you’d tried to start a conversation or I’d needed to do something in the shared area, I would have mentioned it. I told Lute even though we were just going to be in class together.”
+
+
+“It’s not a big deal,” said Haoyu.
+
+
+“It is! How often is the wizard watching you? Why is he watching you? Why the hell would you—?”
+
+
+“I didn’t tell you so you could interrogate him,” said Lute. “I just mentioned it because it was…a noteworthy thing about our roommate. And so that none of us would be sitting around saying or doing something embarrassing when Alden walked through the door.”
+
+
+Alden was still trying to grasp what Lute actually considered embarrassing. He’d asked Stuart to translate the word “dickwad,” of all things. But he was shy about his job.
+
+
+“I deliberately avoided coming back to the room this afternoon so that I wouldn’t make anyone feel like they were being observed by a stranger at home,” said Alden.
+
+
+“See?” said Haoyu, looking back down at his tablet. “It’s fine. Leave him alone.”
+
+
+“Why are you two being so calm all of a sudden? Lute was entirely weirded out when he told us—”
+
+
+“Not for the reason you seem to think,” said Lute. “I was weirded out about what the wizard spy might be telling Alden about me, not what Alden might be telling him.”
+
+
+He turned around in his chair to see Alden better. “Say nothing of what you have heard,” he said dramatically. “Or I’ll do spooky Chainer things to you.”
+
+
+Alden sighed. “It really wasn’t much except for what I already asked you about. After you kind of squeaked like that in class, the wizard spy was worried he’d upset you. He wanted me to offer you comfort.”
+
+
+“You squeaked? What did you squeak about?” Haoyu asked.
+
+
+“I don’t care what he squeaked about,” Lexi said. “I care about the fact that the globie is—”
+
+
+Haoyu slapped his stylus down on the sofa beside him. “Don’t call him that.”
+
+
+“You guys don’t fight about me,” said Alden. “It’s fine. People call me that all the time.”
+
+
+“He wasn’t saying it in a friendly way,” said Haoyu.
+
+
+“To be fair, Lexi doesn’t say much in a friendly way,” Alden replied.
+
+
+Lexi’s cheeks colored.
+
+
+Alden didn’t want to deal with this. He was pretty sure Lexi was overreacting, but he did feel bad about making the guy nervous about this kind of thing.
+
+
+“Listen, my friend’s around our age. He just started wizard college. He doesn’t have summoning rights, and wizards in training who haven’t earned them yet aren’t allowed to call Avowed without being monitored by a summoner. That sounds awkward to both of us, so when he goes home for the weekends, his older sister places the call for him and connects it to a tablet. We usually talk for a few hours about things like pandas, marching bands, and the day when Avowed will grow strong enough to overpower the United Nations and take our rightful place as the leaders of our species.”
+
+
+“Oh my goodness,” said Haoyu, his eyes going round.
+
+
+“Grandwitch would love to hear more about that one.”
+
+
+Lexi’s face was stiff.
+
+
+“Apparently there’s like a whole process for it to make sure it happens peacefully. But we probably won’t live to see it unless Earth gets a bunch more hyperboles with grand ambitions or we start making superbabies a lot faster, so don’t get too excited about world domination.”
+
+
+“My dreams,” said Lute. “Destroyed the very moment they were born.”
+
+
+“Mostly, my friend just wanted to spend time together,” said Alden. “And see what human school was like. And ask me about my life purpose and tell me about cannibal parrots.”
+
+
+“Did you start the gokoratch thing? People were saying it in my afternoon classes,” said Haoyu.
+
+
+“Mine too,” said Lute. “Someone was trying to rhyme it with other words to make a music video.”
+
+
+“My point is that people talk to their friends through their interfaces all the time. There’s a girl in Intro to Other Worlds whose Swedish boyfriend stays on the phone with her for the entire class, and everyone but the teacher knows it. I realize it’s uncommon that the person I was on the phone with was an Artonan, which is why I didn’t hang around people having private conversations. I stayed in crowds or totally alone all day.”
+
+
+He met Lexi’s eyes. “Sorry if you felt spied on. He didn’t even see you, and I never told him your name. He calls every couple of weeks. I’ll remind you it’s coming up a day in advance next time, and I’ll stay completely away from you again. Is that fine?”
+
+
+“Did you talk about me?” Haoyu asked before Lexi could answer.
+
+
+He sounded curious, not upset, but Alden still felt nervous. “I did tell him your name. And your class. Is that…I hope that’s okay?”
+
+
+Haoyu blinked. “Why wouldn’t it be? He’s not even a summoner, and when he is, he can just look it up if he wants. He’s going to be a wizard and I’m an Avowed. The System can send him information about me that I don’t even know myself. I was just wondering what an alien my age thought of me.”
+
+
+Lexi glanced at Haoyu, then Lute. He sighed. “Fine. Sorry I called you globie in an unfriendly way.”
+
+
+Haoyu smiled and picked up his stylus.
+
+
+“He did say something about the demon event on Matadero,” Alden added after a moment’s hesitation. “I was sitting in a restaurant teaching him to fold paper planes—”
+
+
+“Okay, now he’s making fun of us,” said Lute. “I totally buy an Artonan talking about politics, and I can imagine them being interested in endangered animals. But I refuse to believe the two of you were doing arts and crafts together.”
+
+
+“I don’t believe you either,” said Lexi. “You’ve just got a broken sense of humor like these two.”
+
+
+Haoyu looked at Alden. “What did he say about Matadero?”
+
+
+“Not much. We just overheard someone mention it, and he said he knew two wizards that are there right now with the battlegroup. He said they were well-respected and very talented. It’s not like that’s surprising, but I figured I should mention it in case you wanted to hear it.”
+
+
+“Thanks,” said Haoyu. “It’s not a bad thing to hear. I do worry about Dad.”
+
+
+He went back to his homework.
+
+
+Actually, Stuart had said more than that, but Alden wasn’t sure how it would make Haoyu feel. The Artonan boy had been shockingly uninterested in whatever it was that happened on Matadero, and had instead wanted to tell Alden that the two knights who were there right now monitoring things and serving as backup were celebrating some kind of occasion.
+
+
+“They’re going to be on Earth for their <<honeymoon>>,” he’d said. “It’s very special. If you happen to see them, you should congratulate them.”
+
+
+He seemed to be under the impression that they might all run into each other on the street one day.
+
+
+“They decided to help fight a demon to commemorate their marriage?” Alden had asked. “That’s…”
+
+
+So Intensity Level 99.9 of them, was all he could think.
+
+
+“Marriage? No. They’re not married.”
+
+
+“Honeymoon is a bad translation then.”
+
+
+Stuart had stared off into space for a while, trying to find a better word before giving up. “They’ve made an important decision. It’s a happy one, and your planet is so comfortable compared to most postings. Everyone else agreed to yield the position to them as a gift for the next few months.”
+
+
+Maybe I should tell Haoyu? Finding out that babysitting an entire human battlegroup was a vacation for the two knights might be a little insulting…but it was more of a relief wasn’t it?
+
+
+Alden felt better knowing it anyway.
+
+
+He pulled one of the airplanes out of his bag, straightened its wings and tossed it toward Lute, who caught it with a startled look.
+
+
+“I knew folding paper airplanes was too specific to be a joke,” he heard Haoyu say just before he closed his bedroom door behind him.
+ 
+
+
+******
+ 
+
+
+Lexi and Alden didn’t see much of each other for the rest of the week. Alden wasn’t sure his roommate was avoiding him, but he was starting to suspect it was the case.
+
+
+He doesn’t seriously think I have an Artonan watching me all the time, does he?
+
+
+Any Avowed could be on a System call with a wizard without other people knowing. It came with having your brain wired into the planet’s magical communications array. Alden was starting to feel like he was being punished for being honest about it.
+
+
+At least it’s not the worst punishment, he thought as he sat in the sauna with Haoyu again on Friday, after their last gym class of the week.
+
+
+Ostensibly, they were doing their homework. In reality, Alden was doing his homework, and Haoyu was texting him pictures of succulent pork meat with crispy skin.
+
+
+“You know I’m vegan,” he said during a brief period when they were the recovery sauna’s only users.
+
+
+“But loook at it.” Haoyu’s voice was filled with longing. “Lechon is so beautiful. And they have stewed pork knuckle and deep fried belly and—”
+
+
+“Are you trying to hurt me?”
+
+
+Principal Saleh had swung by the gym as class was wrapping up to check in on them and announce that she’d be taking them all out to dinner next Friday night to welcome them to the school. She’d asked the instructors to pick the class’s top overall performer for the first week, and to a lot of peoples’ surprise, the faculty unanimously agreed it was Maricel Alcantara.
+
+
+She’d looked shocked at first, and then genuinely pleased as all the Shapers and ranged Meisters who’d been in her group for gym congratulated her.
+
+
+Her reward was selecting the restaurant for next week on the spot. The principal seemed to think that most eating establishments would need plenty of warning before she brought in more than forty starving hero students fresh from MagiPhys Ed to demolish their menu.
+
+
+Maricel had picked a Filipino place at Rosa Grove Mall that was known for its pork dishes. Haoyu was a big fan of the choice.
+
+
+“I’m so glad she won! I guess it would’ve been a little better if I’d won, but since I didn’t even know there was going to be a contest or a prize I’m just happy it’s someone with great taste in food.”
+
+
+“You have your priorities in order,” said Alden.
+
+
+He didn’t think any of them had had much of a sense of who was doing particularly well in the gym until today. It was hard when they all had such different abilities. You could only catch brief glimpses of your classmates in other groups in between running, climbing, hiding, and—in Alden’s case—trying out all the different supplies you’d brought.
+
+
+He knew Maricel had gotten the hang of compressing loose soil into floating platforms that were strong enough to hold her in the air. She could make flying dirt pancakes, and she could ride them up and down like an elevator. It was more advanced than throwing sandbags around, since she had to keep the dirt in a shape in addition to moving it through the air. She’d been practicing it in Rescue.
+
+
+“You know, I was doing really well in Rescue before I tried to make that zip line work,” said Alden. “I was sure I could get it right, but so many sandbags hit the ground so hard that Kon asked me if I was actually getting a kick out of killing them.”
+
+
+The distance was the problem. A stiff, too-short zip line was basically a vertical murder pole. And since they’d been told to work on managing their skill fatigue better, Alden couldn’t make one long enough. One that ran the length of the whole gym would burn his skill right out.
+
+
+Distance being a problem for him had surprised him a little. A hundred feet of rope was a hundred feet of rope in his mind, and it shouldn’t matter whether it was coiled around his waist our extended out to poke and block. But Fragment had offered some insight after asking him about what he was trying and why he thought it wasn’t working.
+
+
+“It’s always hard to give advice on a skill I haven’t seen before,” she’d said, sitting on one of the sandbags and hovering at the edge of the scaffolding beside him. “But this is a problem I know very well. Shaper works similarly. The first thing they taught me in school, and one of the first things I’m teaching your classmates, is that the strongest, most properly controlled shaping happens right here.”
+
+
+She tucked her arms in and held her hands a few inches from her chest.
+
+
+“This is where my telekinesis holds the most weight. It’s where the shapes form perfectly. The farther away from here I’m working, the sloppier I am and the weaker I am. Those two weakness don’t seem to apply to your skill, but the distance seems to matter to us in the same way. Shaping techniques fatigue more quickly when I’m farther away from the elemental ground I want to mold. I have to level my talents or get entirely new ones to keep expanding the distance.”
+
+
+She’s tapped the end of his paracord. “My magic isn’t like a loosed arrow that flies on its own after I’ve shot. No matter how far away I’m working, it’s still connected here. To me. And I’m actively powering it.”
+
+
+“I like Fragment,” Alden told Haoyu. “I’m really curious about what we’ll be doing in her sessions next week.”
+
+
+They were through with the scaffolding for now. New rescue problems had been promised.
+
+
+“Jeffy wants it to be a burning house,” said Haoyu.
+
+
+“In the gym?”
+
+
+“I told him there was a special facility at Li Jean for that kind of thing, and it was too early for them to be taking us on a field trip to another hero program’s campus. For some reason, he’s doubled down and now he wants gym to be a footrace to Li Jean followed by a burning house scenario.”
+
+
+“He’s an Aqua Brute.”
+
+
+“I know.”
+
+
+“Maybe he has breathing magic that will help with smoke inhalation?” Alden suggested.
+
+
+“You’re so optimistic. I’ve been working with him all week, and he just thinks walking through fire would be manly. Instructor Klein is starting to look like he needs a break every time Jeffy opens his mouth.”
+
+
+Instructor Klein.
+
+
+The last two offense sessions had gone much the same as the first, only Alden had failed to capture the Agility Brute using a wider variety of tools and methods.
+
+
+As he’d surmised on the first day, Klein wasn’t a bad teacher. He was just… less enthusiastic about Alden than he was about most of the others.
+
+
+Almost everyone else got occasional flashes of warmth and humor from the man. The ones who didn’t were a couple of whiny slackers by CNH standards. They would probably have been classified as above average in a normal school, but here the average level of effort was overachiever. And then above that, there were the people who were propelled by talent, energy, or pure unyielding grit to keep trying again and again.
+
+
+Alden was beginning to see that quality in some unexpected places. Astrid, for example, was hyper and a little silly sometimes. So it was easy to think she wasn’t a serious person. But she had decided on that first day that she would never be able to lay a finger on Klein unless she surprised him somehow, so she’d fully committed to the idea of beating him by anticipating his next move.
+
+
+She couldn’t actually anticipate his next move, though. She just guessed as well as she could and tried to arrive in the right location in the most unexpected way possible. That was why everyone in the group was now subject to being tackled, leapfrogged, thrown, or tripped in her attempts to create distractions for the version of Klein she had imagined in her latest where’s-he-gonna-be-next scenario.
+
+
+She was acting within the rules Klein had given them by treating classmates as environmental features rather than people. Alden wasn’t Alden to her when she shoved him in front of another running student; he was a random object that might have inconvenienced the instructor for a second if everything had gone the way she’d thought it would.
+
+
+Alden was fine with it. She was trying something. His own plans of attack were never so amazing that her randomly ruining them was a tragedy.
+
+
+Some people were getting pissed about it, though, and even those in other groups were starting to joke about how insane she looked, repeatedly flying through the air to land on nothing and throwing punches and kicks at places where Instructor Klein wasn’t.
+
+
+It had to hurt her feelings at least a little, but she kept going for it.
+
+
+“I hope Astrid kicks him at least once before the end of the quarter,” he murmured.
+
+
+“Jeffy?” Haoyu was wiping his face with a spare towel.
+
+
+“No. Sorry. I went off on my own train of thought there.”
+
+
+Maybe Klein thinks I’m one of the whiny slackers? Or just a slacker. Alden never complained about anything in gym, so being perceived as whiny seemed unlikely. It could be the fact that I’m still figuring out my tools. I have to pause a little to think about how to use them. Maybe he doesn’t like that and it makes him assume I’m slacking off?
+
+
+He’d try not pausing at all next time and see how it went.
+
+
+“Did you decide on what your object is going to be for the rest of the course yet?” Haoyu asked. “I want to know so I can plan how to beat you up when we finally get to duel.”
+
+
+Tool selection was on the forefront of Alden’s mind, too.
+
+
+“There are some things that will obviously work really well for protecting my body. My ponchos are so convenient. Personal protection, fairly re-shapeable so that I can use them for carrying or shielding others—”
+
+
+“I like those. You hunker down, and I punch you over and over again. Eventually we find out who wins.”
+
+
+Alden looked over at him. “I’m pretty sure the faculty won’t just let you hit a shielded poncho for half an hour and call it educational.”
+
+
+“But it would be educational. At least the first time.”
+
+
+“I’ll let you hit one of my shields outside of the gym as much as you want.”
+
+
+“Really? That’s cool of you!”
+
+
+Alden shrugged. “I don’t have to be standing behind it or anything. I can just hold it out to the side to make a target for you.”
+
+
+“Still cool,” said Haoyu. “So you’ll probably use the poncho?”
+
+
+“Well…the poncho is something I really like.” He planned to keep one with him from now on. “But I’m thinking it might be a waste to go with something so easy to use for gym class. If I just coat myself in magic so nothing can hit me, I’m not learning much, am I? Same thing with the gloves. I know how hands work pretty well. You grab a thing, preserve the glove, and heavy items get carried.”
+
+
+“You could still be practicing with those for hand-to-hand combat though. Learning how to protect your lower body and face in the poncho. Learning how to move your arms to soak hits with the gloves.”
+
+
+“Yeah, but let’s be honest. If I’m trading punches with you guys, I’m mostly learning that I shouldn’t be trading punches with you guys. Even if you didn’t use Boxing Gloves and you just stood there smiling at me…you’ve probably got a lot of your Stamina points sub-allocated into the Formation stuff, right?”
+
+
+“Not just a lot of them. Most of them.” He stretched his legs out in front of him. “People sleep on Dura Brute. Nobody our age wants the Stamina subclass at all because they think it’s boring. And then if you’re going for durability with it, you pile most of your Stamina points into the Formation substat or the specific sub-substats. And doing that isn’t as powerful as the protective skills or spells you can choose…to start with. I’m slow. I don’t do anything that looks exciting. And people don’t always know this, but Formation is actually pretty heavy on the mind-body front, which means the System makes me grow into the points more slowly, a little like it does for more traditional Processing stuff.”
+
+
+“It works like that?”
+
+
+“My parents say it’s better to think of Formation as ‘resistance to unwanted bodily deformation.’ So the ‘unwanted’ bit of it…it’s as if I’m gradually getting a stronger mental handle on what my body is supposed to be. It feels good. But it takes forever.” He paused. “I think I’m almost the opposite of a Morph Brute in some ways. I should ask Snake some questions about how fully developed Morph feels to him and compare it to how my parents talk about their powers.”
+
+
+“That’s awesome, Haoyu.”
+
+
+Haoyu grinned. “I think so. This is how you eventually get straight-up bulletproof without having to use spells or skills to do it. But it takes a lot of points to go that far. The A-rank is a little concerning for me, to be honest. My parents say Dura will still work great for me if I apply myself, so I’m trusting them.”
+
+
+“You never wanted to be something else?”
+
+
+“Oh, I wanted to be every class at some point. I grew into appreciating Dura when we started having more serious discussions about what would happen when I was chosen. My parents tried to be neutral about all the classes. A lot of people aren’t like that, so I’m lucky.” He smiled toward the tiny cauldron in front of them. “And no. You wouldn’t enjoy punching me. I might not be fast and flashy, but your Rabbit fists would still break before my face did. Isn’t that great?”
+
+
+Alden laughed. “That’s what I thought. To finish answering your question, I’m probably going to choose something more complicated than the poncho or the gloves for gym. I don’t feel like the gloves give me enough chances to explore unusual skill uses, and if I have the poncho, I’ll just dominate at self-defense until my magic conks out. And that’s kind of self-explanatory, too. I want practice and faculty advice on a less intuitive tool, so it’ll probably be the paracord or some other kind of line or rope. If I’m reasonable.”
+
+
+Haoyu looked intrigued. “What if you’re unreasonable?”
+
+
+“A giant roll of wrapping paper,” Alden said.
+
+
+“Ooo…you want to make stuff out of it?”
+
+
+“I totally do.”
+
+
+“Paper shield!”
+
+
+“Paper swords,” said Alden. “Paper armor. Paper stretchers. Paper bags. Paper bombs.”
+
+
+Haoyu looked confused.
+
+
+“Well, I haven’t actually figured out how to make a paper bomb,” Alden confessed. “But I can set things on fire and preserve them, and I need to play with it at some point.”
+
+
+“You should do it!”
+
+
+“Can you imagine Instructor Klein’s face, though? If I just sat down on the floor every few minutes to cut or fold a new shape….the paracord is kind of that way already. I can’t imagine what the faculty would say if I showed up with scissors and took a timeout between each session to make a new attachment for my wrapping paper weapon.”
+
+
+******
+
+
+An alien films club was having a cookout beside Garden Hall when they arrived. Folding chairs stood in rows in front of an inflatable screen, and everyone was walking around with grilled sausages on buns.
+
+
+“I can watch alien films,” said Haoyu, sniffing the air. “I don’t even care which aliens. I’m not picky.”
+
+
+“Your slow cooker has beans in it.”
+
+
+“Sausages go with beans.”
+
+
+Alden left him to become a temporary club member. As he was about to walk into the building, a delivery notification arrived for him. Confused, he turned his head to follow the directional indicator on his interface. Then he stepped over to the drone waiting by the doors.
+
+
+He leaned down to look at the name on the lid display. It said it was for him.
+
+
+“I didn’t order anything.”
+
+
+The lid popped open. Inside, there was a large paper cup from the student coffee shop. As if to confirm there’d been no mistake, his name was scrawled on the side in black marker.
+
+
+He pried it open carefully and found hot chocolate. Coconut milk hot chocolate. He knew for a fact it would be delicious because he’d had one before. It was drinkable dessert.
+
+
+Haoyu? Probably an apology for all the food pics when he was trying to do his homework.
+
+
+Alden was already on the second floor and enjoying his third happy gulp when he suddenly wondered if it wasn’t from Haoyu.
+
+
+This could be poisoned. Or potioned. It could be full of nanotrackers or something.
+
+
+He looked down into the cup. He couldn’t imagine any reason for someone to go to all that trouble when there were easier ways.
+
+
+He typed a message to his roommates.
+
+
+[Alden: Did any of you guys send me a hot chocolate from the campus coffee shop?]
+
+
+[Haoyu: No.]
+
+
+[Lute: No. Should I?]
+
+
+[Lexi: No.]
+
+
+He shrugged and headed for their room. “If I die, tell the police it was poisoned mystery cocoa delivered by a drone,” he said as he walked in. “I’m halfway through and it’s good, so I’m just going to finish it off.”
+
+
+“People sending you anonymous drinks?” Lute asked. He was leaning against the kitchen counter, eating something that was probably Haoyu’s bean stew out of a mug.
+
+
+Alden nodded. “Yeah, it was downstairs with my name on it, but I didn’t order it.”
+
+
+Lexi was in the corner of the living room, emptying the bin on the robot vacuum. Alden had bought it for his rugs and so he would know if Gorgon might like one after all.
+
+
+I wondered why the bin was always empty.
+
+
+He should have suspected Lexi.
+
+
+Haoyu and Lute were both much nicer, and they would help with things if you asked. But they didn’t seem to be natural chore doers unless the chore was related to slow cookers or musical instruments. And they both thought trashcans were containers that could hold an unlimited quantity if you just kept smashing the garbage down.
+
+
+“Thanks for emptying it,” he said.
+
+
+Lexi grunted.
+
+
+Lute looked over to Lexi. “It needs emptying?”
+
+
+“How did you think it worked?” Alden asked.
+
+
+“…like an incinerator?” Lute said. “Maybe a girl sent you the drink!”
+
+
+“A girl?”
+
+
+“Natalie! Or Hadiza!”
+
+
+As the weekend approached, Lute seemed to be working himself up to ask Alden to ask the Rabbit girls if they wanted a tour guide again. That’s what Alden thought was going on anyway. Their names had been popping up unusually often over the past couple of days.
+
+
+“I don’t think it was them,” Alden said slowly. “Natalie would’ve made it herself. And why would any of them send it anonymously? That doesn’t…wait, is it a thing?”
+
+
+“Is what a thing?” Lute asked.
+
+
+“Does sending someone an anonymous drink by drone mean something?”
+
+
+“Why would it?”
+
+
+“I don’t know!” Alden exclaimed. “Maybe it goes with your island mocktail habits? I just have to check. The other day I realized that I’d made some dude on the bus angry because I didn’t offer my seat to his son.”
+
+
+“You’re going to manners hell,” said Lute, scraping at the bottom of his mug with his spoon.
+
+
+“He couldn’t possibly have been younger than thirteen,” said Alden. “He could’ve been my age. Why would it occur to me to offer another healthy teenager my seat? He was as tall as me!”
+
+
+“What does that have to do with anything?”
+
+
+“You know how in old movies people say ‘strapping young men?’ This kid was strapping.”
+
+
+<<Fucking again…>> Lexi muttered in Russian. “Did he have the non-Avowed tag?”
+
+
+“Yes. And I looked it up after I realized I’d pissed off his scary father, and I finally found something about seating priority on Anesidora transport. But it’s not like it’s a rule or a law. And there aren’t signs on the buses. So how are people supposed to know that it’s completely different here from everywhere else?”
+
+
+Lexi slapped the vacuum bin back down and stalked off. A second later, they heard his door slam.
+
+
+“So, I guess he’s still mad at me,” Alden said into the silence.
+
+
+Lute set aside his cup. “He’s so pissy about so many things, man. I really wouldn’t worry about it if I were you.”
+
+
+Alden sighed. “I’m not. He can’t dim my free hot chocolate and post-spa glow too much. I just wish I hadn’t screwed up with him. I was actively trying not to.”
+
+
+“Well…” said Lute. “Here’s something that made my day confusing but that I think will brighten yours. I called my boss—”
+
+
+“Yes,” Alden said immediately. He had nearly mastered all of the signs for the wordchain, according to Lute, and now they just needed permission for the verbal part. “Did you set up the meeting? I will be so polite on the call. I promise. I’ll double-double check translations for my formal Artonan greetings and everything—”
+
+
+“Slow down, language nerd. My boss…” Lute tilted his head. He lowered his voice. “At first, the call was normal. Then I told him about you, and he gave me an impassioned speech about the importance of choosing my ‘beholden ones’ wisely. But that was still normal for him.”
+
+
+Alden raised an eyebrow at him. “I’m beholden to you?”
+
+
+“Yes. Don’t forget you are from now on.” Lute snorted. “Then he looked you up to see if you were worthy…which I know for a fact I’ve got family members who’ve taught things to the sketchiest people in the world, so I wasn’t concerned about…and he got real odd. And then really excited. And all of the sudden it was like, ‘Oh, my dear young Lute, I was so concerned you were being taken advantage of by a scoundrel. But how your budding wisdom begins to flower! Truly, you have exceeded the limitations of youth and ignorance and allied yourself—”
+
+
+Alden stared. Lute was doing an impression and everything. His hands were flapping around excitedly.
+
+
+“‘—allied yourself with a heart whose luminous purity has been laid bare before the Mother herself!’”
+
+
+“No, that’s not—”
+
+
+“‘Tell him I shall inscribe his name on both my consciousnesses.’”
+
+
+“Your boss is nuts!”
+
+
+“‘Naturally, you may teach the bare luminous heart anything you desire!” Lute continued in dramatic voice. “Give him cookies. The Mother’s favored daughter hath seen his bare heart light! Let him have all of your time and give him my number!’”
+
+
+“Okay we’re not really quoting anymore…” Alden could feel himself blushing.
+
+
+It was the commendation. It had to be. But Lute’s boss was clearly an over-reactor.
+
+
+Lute started snickering.
+
+
+“So tell me, Alden, did the Artonans install the million megawatt spotlight in your heart? Or were you born with it?”
+
+
+He looked so delighted.
+
+
+“Oh, come on! I was so much nicer about your weird thing!”
+
+
+“Please let me! I’ve got one more! Who is the Mother’s favored daughter? Why did you bare your spotlight heart to her?”
+
+
+Alden’s hot chocolate was getting cold. That was fine. He could reheat it with his face.
+
+
+“And does your light gently bathe the people you shine it on? Or is it more of a purifying fire that burns sinners to death?”
+
+
+“Hold still,” said Alden. “I’ll shine it on you, and we’ll see if you get scorched.”
+
+
+Still grinning, Lute walked over to him. “Sorry. It was just so funny. And it was a complete repeat of you getting unexpected information about me from your wizard.”
+
+
+“He stopped giving me info when you asked him to,” Alden said.
+
+
+“I do feel kind of guilty because I was going to use the chat with Parethat-uur to slip you info about Chainer.” Lute shrugged. “But now he seems sure that vetting you would be some kind of an insult? So you can ask your wizard about me, after all. Just tell me everything he says so that I can un-embarrass myself. Don’t think I knew about all the…stuff…before I took the class.”
+
+
+“The prostration?”
+
+
+“Shhhhhh.” Lute cringed.
+
+
+A second later, though, he was staring at Alden curiously again. “I can’t imagine what would make my boss act like that.”
+
+
+“It’s not a big deal.”
+
+
+“He changed his tune within five seconds of looking up your name, so it’s a big deal to him. Admittedly it might not be to other people. He’s abnormal. But you being flash-approved like that was abnormally abnormal. And saying I wanted to tutor you made me look really good. I don’t care too much about that, but…it’s not a bad thing for sure. He directly ordered me to instruct you properly on the rules for—”
+
+
+“I’m so sorry. You don’t have to do—”
+
+
+“No, it’s cool,” Lute said. “I was going to tutor you anyway, and I expected this order to go along with it even before he decided you had glowing organs. What I meant was, direct orders from Parethat-uur take precedence over my ass tattoo. Aulia can’t make the family brand overwrite our actual class duties no matter how much she’d like to. Can’t stiff the big ‘C’ Contract with a littler contract, you know? And you just became a duty. So, we’ll grab a privacy booth somewhere and bill my boss for it. I can teach you the whole wordchain there and then I can teach you why wordchains aren’t freely available in the first place.”
+
+
+Alden blinked. That would be laying a small but annoying mystery to rest for good.
+
+
+“What about this weekend?” Lute asked. “Are you busy?”
+
+
+“No. Tomorrow morning I’ve got an appointment with my trainer, but I’ll be done at ten.”
+
+
+“Then I’ll schedule it and let you know. And…on Sunday do you think maybe your intake friends might want to go somewhere? Like we did last Sunday?”
+
+
+I was actually right. Not that Lute hadn’t been pretty obvious.
+
+
+“Where?”
+
+
+“I can find something!”
+
+
+******
+
+
+Haoyu came back to the room with plates full of sausage dogs and a story about a girl who’d been called to the Triplanets for an acting role in a television show. The bean stew was vegan, and to top it off, Alden had pulled all of his containers of miscellaneous cafeteria leftovers out of the fridge.
+
+
+Lexi was pried from his room by Haoyu and the smell of food. A moment later, they were all sitting down at the kitchen table to eat everything in sight.
+
+
+“You guys are like animals after your hero class,” Lute observed.
+
+
+Alden was too busy chewing to disagree or point out that Lute ate like an animal himself ninety percent of the time.
+
+
+The exercise they were getting was one thing, but the pricey recovery potion he and Haoyu had been inhaling seemed to accelerate appetite on top of it. Alden had been so hungry on Wednesday night it had woken him up. He’d actually gotten out of bed, ordered groceries, and made a pile of burritos for himself downstairs in the community kitchen so that he wouldn’t bother his roommates.
+
+
+The last burrito was on the table now, in fact, waiting to be consumed.
+
+
+“I’ve grown three centimeters this year,” said Haoyu. “I’m trying for at least one more. Lexi, pass me Alden’s spicy Chicago pickles.”
+
+
+“Giardiniera was made for sausage dogs,” Alden said after he’d swallowed. “You should try it, too, Lexi.”
+
+
+Lexi glanced at him then took a cauliflower chunk.
+
+
+Baby steps.
+
+
+Haoyu was piling giardiniera on top of his second bun. “Hey, why don’t you ever play for us?”
+
+
+Lute didn’t seem to realize the question was for him until nobody else answered.
+
+
+“You want me to play the harp for you?”
+
+
+“The big one. We moved it for you. You only ever practice on the electric one with the headphones.”
+
+
+“That’s so that I don’t bother you all,” said Lute. “I only play louder pieces on Angela when you’re out.”
+
+
+“I haven’t heard you play since that talent show at school.”
+
+
+“That was two years ago.” Lute looked uncomfortable suddenly.
+
+
+Haoyu’s own face was unreadable. “After you were selected, everyone was saying you’d probably stop,”he said. “When I heard you came to the music program instead, I thought it was good that you weren’t going to quit.”
+
+
+Lute stared down at his plate for a second then looked back up. “Yeah. I’ll play for you. If Lexi doesn’t mind.”
+
+
+“Why would I mind?”
+
+
+“You want the apartment to be silent ninety percent of the time.”
+
+
+Lexi grunted. “I knew you were a harpist when I asked you to stay here. My parents are dancers. I was a dancer until I quit to spend more time with Writher. I like music.”
+
+
+“Okay then.” Lute stood. “Angela has been in the mood for rock and roll lately.”
+
+
+******
+
+
+Alden had always been an enjoyer of music but not a connoisseur. He’d heard Lute play at the funeral and he’d thought, “That sounds really nice. And he’s so snobby he’s using magic to make the other players better. He’s probably good.”
+
+
+He’d been mistaken. Lute Velra was extraordinary.
+
+
+Alden didn’t have to be a connoisseur of harpists to see that Lute’s fingers moved like they owned the strings. He was as fast or delicate or passionate as the piece needed him to be. He played arrangements of popular songs, classical pieces, and folk music like they were all equally exciting.
+
+
+Sitting in a dorm room in comfy clothes, stuffing your face while an Avowed performed a private concert on an instrument that cost more than most cars was an awesome way to end a week.
+
+
+And then, of course, they all had to fool around on the harp themselves. You couldn’t see Lute having some kind of chemical reaction with it and not want to touch it, too. Alden’s fingers had been itching to pluck it even before Haoyu asked if it was all right for them to.
+
+
+He tried to find the notes for “Twinkle Twinkle Little Star” and felt childishly pleased with himself when he did.
+
+
+Later, as he was reading his spell book in bed and trying to make himself recall the meanings of the logograms before they were re-defined for him by the flash card style translations on his interface, his nightly text from Jeremy came in.
+
+
+It was a picture of Victor’s nose and the word “cat.”
+
+
+The last few updates had been similar. Alden was assuming that some day very soon there would be a picture of Boe’s left earlobe and the word “boy” or “jerkface.”
+
+
+[Thanks for looking after him, Jeremy,] he texted.
+
+
+[:)]
+
+
+Next time he came to the island for a visit, Alden was going to plan a ridiculously Anesidoran activity for them to do so that Jeremy could have fun telling people back home about it. Maybe a superhuman sporting event of some kind. He hadn’t seen one yet, himself, but there were supposed to be some really wild ones.
+
+
+He went to sleep after midnight, and the last thought he had before he closed his eyes was that he was lucky to be here.
+
+
+Anesidora. Apex. Celena North.
+
+
+Earth.
+
+
+Lucky to be safe. Lucky to have found some people whose company he enjoyed.
+
+
+I think I can make all of this work.
+ 
+
+
+ Help support creative writers by finding and reading their stories on the original site.
+
+The boy stood in front of a white door.
+
+
+He didn’t know how long he’d been standing there, or where he had come from, or what he was supposed to do nex—
+
+
+No, thought Alden.
+
+
+He ran. 
+ 
+*

@@ -1,0 +1,193 @@
+---
+id: 8f23b819-2a74-56d5-9894-31145b32718c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 46: Undergoing Rebirth"
+slug: 0046-chapter-46-undergoing-rebirth
+partOf: phoenix-ascension-cultivation-litrpg
+position: 46
+ownLength: 2789
+unit: words
+publishedAt: 2025-11-08
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2744068/chapter-46-undergoing-rebirth"
+royalRoadId: "2744068"
+---
+
+The three thousand needles shot toward the Nascent Soul bastard at an incredible speed. Previously, I’d used two thousand or so needles to kill the Core Formation cultivators, but most of the needles didn’t make contact with them. Only about half of those needles managed to touch them, with the other half fighting to break through their defenses.
+
+The quantity of needles I could create also depended on my stamina, so I had to keep a close eye on them. My only saving grace was the Overeater skill, which allowed me to store a lot more energy.
+
+However, the strongest of the cultivators remained. Even those at the Core Formation stage I’d hit but not killed had recovered fully. Those fire needles were good, but not very effective unless the enemy was already very weak to fire.
+
+I looked with expectation at the needles raining down on the Nascent Soul cultivator. His eyes widened in surprise upon seeing them, and he quickly waved his hand to summon a barrier. I did my best to control them so they hit around the same area, increasing their penetrative powers.
+
+However, it seemed that controlling so many needles at once took a toll on my mental strength. I lost about two hundred from a brief moment of inattention.
+
+The barrier the man created repelled most of my needles, but just like before, slowly but surely, a tiny hole had been created. Multiple tiny holes, as I couldn’t make all the needles use the same opening.
+
+Regardless, my attack penetrated his defense rather quickly, something he must not have expected. He waved his sleeve again and pushed out with a quick Qi attack, destroying many more of the needles in one fell swoop.
+
+However, the fake Phoenix he commanded had revealed an opening, and Mother grabbed it without hesitation. She plunged her talons into its belly and tore off its flaming flesh. It let out a painful screech, but by the time the Nascent Soul cultivator noticed, it was too late.
+
+But he wasn’t alone, like Mother and me. He still had a small group of Core Formation and Golden Core level cultivators at his beck and call. They immediately jumped to his aid, weaving a series of hand signs, sending their Qi into the barrier. That sort of annoyed me, but there was little I could do.
+
+With the aid of so many cultivators, it would be hard for me to pierce through. The majority of my needles were already heading toward his head, though. Wind whistled, and the air inside the barrier became heavier under the heat. However, that wasn’t something that would stop a Nascent Soul.
+
+However, the more he was distracted by me, the more opportunities Mother had to break through the strange fake Phoenix. I controlled them so they would attack a batch at a time, while the rest skittered around the outer layer of the barrier.
+
+They were also dispersed, so any attack he did would have a tiny impact as a whole. The needles on the outside were idling about, so I tried to split my focus to send them to attack the fake Phoenix.
+
+If nothing else, any attack would alleviate some pressure off of Mother’s shoulders, even if it was a little.
+
+But splitting my consciousness like that was sort of difficult, especially when my soul was so weak. If I could have reinforced it, it would have been a different story, but as it stood, controlling two sets of needles was difficult.
+
+I strained my mental power and forced myself to do just that, though. Every second mattered, and rest could come later.
+
+[Skill: Mental Fortitude has reached the [Intermediate] rank.]
+
+[Skill: Split Focus [Novice] has been acquired.]
+
+Eh… Well, that’s very handy. Thank you, System!
+
+With Mental Fortitude ranking up, I could already feel some of my mental strain alleviating. It wasn’t by a large amount, but it felt a hundred times better than before. However, the  Split Focus thing was interesting.
+
+From the get-go, I could multitask way better. It was definitely the biggest factor in the change in my mental power. Before controlling two batches of needles was like pushing a large boulder up a hill; now the boulder had a cart and wheels, and I was the mule.
+
+It was still difficult, but less dangerous and more effective.
+
+That improvement allowed me to gain greater control over my needles.
+
+The ones attacking the fake Phoenix, I aimed at its vitals. The eyes, head, and heart. I wasn’t sure if it had either of those, but I did damage it. Yin counters Yang, Yang counter Yin. It’s the balance imposed by the universe.
+
+As for the needles attacking the Nascent Soul cultivator, they weren’t nearly as effective. The majority of them didn’t even hit the guy, and when they did, it was more like a tickle. As it turned out, someone belonging to the phoenix sect had pretty good resistance to fire.
+
+Either that, or our stats were so far apart I wasn’t even worth considering. It could very well be both. However, the fact that he defended against me was saying something, so I kept on attacking.
+
+A hundred needles toward his feet, another hundred at his chest, and another hundred aimed at his head. The three small attacks shot out at the same time, making it so he had to choose what to defend against.
+
+At least, that’s what I thought.
+
+His eyes scanned the area, and he didn’t use any technique besides his own body to dodge the attacks with pinpoint accuracy. None of them hit him, but luckily they did’ disappear either. I quickly bunched them together and made them turn around, aiming them at the back of his neck.
+
+At the same time, Mother took a bite off the fake Phoenix and spat it at the ground, making the Nascent Soul old bastard have a tenth of a moment of distraction. At that moment, I sent the three hundred needles faster with an explosive burst of speed.
+
+By the time he noticed them, it was too late. He tried to dodge, but he could only move sideways. The attack missed his most vital spot, but still struck true. A small hole burned through his clothes, and the first hundred needles disappeared after making a few minor wounds. The next hundred managed to penetrate his skin, and the heat made it so he couldn’t heal them immediately.
+
+The last hundred pierced through his flesh and slithered hundred his skin. I didn’t hesitate and commanded the rest to follow through. He did his best to destroy them before it was too late; however, I attacked the fake Phoenix’s eye at the same time, focusing all of my attacks on its right socket.
+
+After the needles shredded it into bits, the small, round, and cute object the man had previously taken out was revealed. Somehow, I felt an odd attraction to it, and my stomach rumbled just from seeing it. It was a strange object that I wanted to eat.
+
+The attack from two sides had to have overwhelmed him, and the invading needles burned a mark through his skin. The needles dissipated as soon as they met this flesh, but the damage was being done, as minor as it was.
+
+Mother screeched and aimed at the black Phoenix’ neck, and without the old man helping it, there was no way to dodge. Mother bit its neck off and threw the head toward the sky before swallowing it whole.
+
+I had no idea why Mother did that, but the fake Phoenix seemed to have lost all strength after she did that, its flames dissipating in the wind before becoming nothingness.
+
+Mother didn’t hesitate and rushed toward the man; however, that was when a smile crept up his lips. He let out a cold chuckle and straightened his back, the attack from my needles doing absolutely nothing to him.
+
+Was he acting?!
+
+He must have been.
+
+A cold shiver ran down my spine, and the other people belonging to the Phoenix sect also had a shrill smile on their lips.
+
+Oh no! Mother!
+
+I watched Mother rush toward the Nascent Soul old bastard, her furious flames filling the heavens. However, he didn’t do anything, but sat still, enduring my useless attack. At that moment, I could only feel despair and have faith in Mother.
+
+He must have felt my resentful glare, as he turned toward me and flicked his wrist. A dark tablet with orange hues and red symbols appeared in his hand, and the smile on his lips became even slimier.
+
+Then, in a sudden motion, he crushed it into dust. A small wisp of something appeared from it, and half of it went toward him while the other half rushed toward Mother.
+
+‘Be careful!’
+
+I communicated, but it was too late. The wisp had reached her before I could even blink, passing through her fire, feathers, and flesh right into her stomach.
+
+A moment later, she stopped, then her wings closed around herself as golden chains burst out from her stomach.
+
+Then she screeched in agony. My chest tightened, and my heart cried in pain at the sight.
+
+And then the Nascent Soul bastard laughed like a deranged maniac before heaving a heavy sigh.
+
+“I didn’t know how I could make her ingest that thing without arousing suspicion. To think that her own offspring helped me. I must thank you.” He said, staring right into my soul. I shuddered.
+
+“You-” My beak opened, and I couldn’t help but stammer in shock. “What did you do?”
+
+He smiled, “Why, I sealed her mind and body, what else?”
+
+What? What?! What?!!!
+
+My mind was spinning so hard I didn’t even register the fact that he could understand me. He had Universal Language; he could speak to us, but refused to. He…
+
+“I’ll tell you before I kill you, little bird. I know you can understand me, so I will be frank. That thing she swallowed was a parasite my sect created specifically to suppress Phoenixes. The tablet I broke was the key to activating it.
+
+“Once activated, it would burst into golden chains, as you can see. It seals the mind inside the body, and the body would be suppressed by chains. Even if the mind wasn’t corrupted, there was no way to fight against the suppression. Right now, she can’t move a single muscle. We made the parasite irresistible to your kind, so no matter how smart or intelligent you think yourselves to be, there’s no way to resist it. Too bad the fruit of our labor will go to someone else.”
+
+He spoke the last part with a sort of regretful tone, so much so that he made it sound like he was the one being wronged. Not us.
+
+‘Mother…’
+
+‘Little… Flame… I- Can’t…’
+
+Mother… what have they done to you? I looked at her, but couldn’t see a shadow of who she once was. The body was there, but any ounce of her personality had vanished. It was like a cold, dead carcass. But her mind was trapped inside her body, struggling to escape.
+
+And what could I do?
+
+I could only watch as resentment filled my body.
+
+“I have to thank you, little Phoenix. If it weren’t for you killing our direct disciples, we would have never found your mother and you. Once you grow up, your essence will be ready for harvest. And don’t worry, we’ll make your suffering as short as possible. We aren’t heartless after all.”
+
+Despite what he said, the toothy grin he had showed otherwise. My heart raced as idea after idea popped up in my brain, only to be immediately rejected. My opponent was a Nascent Soul cultivator; there was nothing I could do about him.
+
+Even if there were a thousand of me, all it would take for him to kill all of us was a slap. A very soft and purposeful slap. Maybe he would need to slap harder because I was a Phoenix, but it was still only one slap.
+
+Without giving me any time to think, the cultivators supporting the barrier stopped and rushed toward the nest. All of them surrounded me in less than an instant, and began shooting and every attack they could at the flimsy barrier.
+
+The old woman who chased me previously was particularly eager to get in. “Stupid bird, once I get my hands on you, I’ll make you pay for killing my Hei Tu dearly!” She screamed while sending out whip attack after whip attack. Her once invisible threads became heavy chains that shook the nest.
+
+‘Little Flame!’
+
+Mother’s voice rang out inside my head. She could only watch as the cultivators threatened to destroy the only layer of protection I had. I couldn’t do anything, Mother couldn’t do anything.
+
+The Nascent Soul bastard approached her, his hands placed behind his back. She struggled, the chains surrounding her body shaking slightly. The man noticed but paid them no heed.
+
+“Struggle all you want, but there’s no escaping these chains.” He said rather arrogantly and watched as the others attacked our home. “They have to vent some anger, too, you know? Your offspring killed a lot of our disciples, so it’s only justified that they torture her a bit, right? If they wanted to, that barrier of yours would have long since been destroyed. Then again, it can’t be hurt too badly. It’s shown impressive intelligence and battle skill; we would need to study it closely.”
+
+The chains shook again.
+
+“Oh? Don’t tell me you feel love for that thing. Ah, a mother’s life is hard to understand, isn’t it? Even animals like you feel it.” He chuckled, and the chains around Mother tightened as they glowed with a golden light. “Don’t bother trying to escape, as long as I control it, your fate is sealed.”
+
+His threatening tone sent shivers down my spine, and there was little I could do besides glare back at him. He noticed and scoffed, but didn’t comment.
+
+Evaluating my energy, I had nothing that could help me fight them off. My only way to survive was to use all of my movement skills and slip into stealth, even at the risk of the Demonic Qi spreading further in my dantian.
+
+However, what about Mother? How could she escape? Who would save her?
+
+‘Little Flame, prepare yourself!’
+
+“What?” It was then that the Nascent Soul bastard’s voice rang out throughout the battlefield. The nest beneath my feet started burning, getting completely engulfed in less than an instant.
+
+The flames spread high toward the sky, pushing out the cultivators. They kept attacking from a distance, but their attacks literally melted before they could even get close to the barrier.
+
+I turned my head to look at Mother. The chains surrounding her shook violently, creaking sounds escaping as they bent. “How is this possible?!” The Nascent Soul's old bastard yelled, his face filled with an expression of disbelief.
+
+Mother’s body lit up in flames as well; however, they weren’t the same flames she used to attack. No, they were much more violent, much more powerful and… despairing.
+
+The chains that once struggled to hold their shape phased through her as they fell to the ground, and her flame body immediately shot out from next to the man.
+
+“Oh no, you don’t!” He yelled and weaved a series of hand signs, sending out a net-like Qi attack that grabbed at her leg. She stopped momentarily, but refused to yield. Mother let out an ethereal screech and broke off the parts of her body that got caught in the net.
+
+Before the man could try catching her again, her body burned even brighter than before, her speed increasing and reaching the nest faster than I could observe. Her flames became a blur, and before I knew it, her figure stood next to me.
+
+‘Mother…’
+
+‘Little Flame… Forgive me. I wasn’t a good Mom.’
+
+‘No… Mother, I-I was the one who was unfilial. I-’
+
+Her wings wrapped around me, the warmth from her flames making me shudder. Unwilling tears dripped down my feathers as her voice resounded in my mind.
+
+‘I’m sorry, but Mother will not be here for a while. This is the only way to escape. Forgive me, Little Flame. Find your father, he’ll know what to do.’
+
+As she said that, all the flames burning in the nest intensified and gathered around us, wrapping around me. The heat was almost too much to endure, but I somehow managed to remain awake enough time to see the Nascent Soul’s bastard smile disappear from his face.
+
+“She’s undergoing rebirth!”

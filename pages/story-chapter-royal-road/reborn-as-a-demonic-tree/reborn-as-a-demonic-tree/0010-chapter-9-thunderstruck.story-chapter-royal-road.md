@@ -1,0 +1,131 @@
+---
+id: 4655a864-6352-55d0-851d-c7533ed07dbc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9: Thunderstruck"
+slug: 0010-chapter-9-thunderstruck
+partOf: reborn-as-a-demonic-tree
+position: 10
+ownLength: 1739
+unit: words
+ownProgress: 1739
+publishedAt: 2023-01-07
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081593/chapter-9-thunderstruck"
+royalRoadId: "1081593"
+markedReadAt: "2026-06-29T19:01:49.569Z"
+---
+
+Despite Ashlock's bold claims, his biology didn't agree with his newfound aversion to sleep. As the sun dipped below the horizon, a wave of fatigue assaulted his mind, and before he knew it, the sun had risen once again, and it was the start of a new day...
+
+"I wish I had this power when I was a human," Ashlock grumbled as he reminisced about the many nights he spent gazing at the ceiling with the clock reading 5:00 am and his stomach grumbling.
+
+"Huh, being a tree isn't so bad after all?" Ashlock didn't need to worry about work or his next meal. Heck, he didn't even need to pay taxes anymore. He was both free from Earth's rigorous constraints yet strangely less free than ever before.
+
+He was trapped in a body of wood and sap, rooted in place for all eternity.
+
+Ashlock looked around and took in the view, likely the only sight he would see for the rest of his ageless life.
+
+Perhaps it was the time skipping or just his natural biology, but even after living here for five years, Ashlock felt like this was his home—where he belonged more than anywhere else. Ashlock was secure, his roots were deep, and his leaves were exposed to the heavens above.
+
+A breeze blew by, and Ashlock watched as the lush purple grass danced in the wind. Nature was somehow even more breathtakingly beautiful when he had become nature.
+
+As a spiritual tree with command over Qi, he could see in all directions and sense everything.
+
+Unlike a human mind that was limited to his eyes and ears, Ashlock could take everything in at once.
+
+The silky feathers of every bird perched on his branches, the vibrant colors of every blooming flower throughout the courtyard—even Stella's flowing hair and steady breathing as she cultivated were within Ashlock's senses.
+
+The world was teeming with life, and he was part of that cycle. As his thoughts drifted from one mundane thing to another, the sun sailed across the sky, and as the horizon glowed a mellow orange, Ashlock fell asleep.
+
+***
+
+The following day saw the rapid accumulation of cumulonimbus clouds that darkened the sky and cast a dreary mood on Red Vine peaks courtyard.
+
+"A big storm is coming, Tree," Stella commented as she munched on one of Ashlock's golden fruit with a smile and swung her legs off the side of the makeshift bench.
+
+Unfortunately, there weren't many fruits left, and Ashlock sadly didn't have the Qi to make more.
+
+Currently, he was devoting all of his Qi to furthering his cultivation realm.
+
+[Demonic Spirit Sapling (Age: 5)]
+
+[Qi Realm: 6th Stage]
+
+[Skills…]
+
+Ashlock glared at his summary. When would he be considered a tree rather than a sapling? What even was the definition of a tree in the first place? All Ashlock knew was that anything involving trees was incredibly slow. Five years felt like a few months to him, so it made sense.
+
+Suddenly Ashlock felt a small jolt of Qi. It was barely noticeable, like a fly landing on one's skin.
+
+"Where did that come from?" Sadly Ashlock's system was rather barebones, and unless he acquired some kind of AI or diagnostic skill, he had to manually search for the cause himself.
+
+Nothing seemed out of the ordinary in the courtyard. It took a second for Ashlock to remember he had activities occurring in the mountain's depths... Ashlock liked to think he had made a lot of progress, but it had been two days, and he had dug around ten meters.
+
+"Five meters per day is horrifically slow... if I had to guess, this mountain is easily over eight thousand meters tall. It will take me five years to reach the base at this rate."
+
+Nevertheless, Ashlock felt his root network and soon located the small spike in Qi. One of his deepest roots to the mountain's northern side had come across a small deposit of a silver rock. It seemed to shimmer like mercury but was as hard as iron. Ashlock wrapped his roots around the small deposit and felt some ambient Qi from the rock.
+
+"Some kind of mana stone? Qi stone? What would this even be called?" Its name was ultimately not important, but rather the implications of its discovery. This mountain contained a rock that provided Qi. "Can I absorb this Qi somehow?"
+
+Ashlock tightened the roots around the rock and tried to capture as much ambient Qi as possible. To his surprise, the amount was quite considerable, around the same rate he gained from his meditation technique. But there was a significant problem.
+
+"The Qi can't travel far up my root." Ashlock tried to suck the Qi up the root and to his main body. But the attempt reminded him of that one time he tried to drink through a stupidy long straw. The distance, despite only being ten meters, was simply too far. The Qi frizzled out, absorbed by his root as it traveled, eventually becoming so weak it wasn't worth the effort.
+
+But Ashlock didn't plan to give up. There had to be a use for this underground deposit he had discovered. If he could talk, he would ask Stella if it was valuable and have her dig it up... but that was impossible.
+
+As Ashlock's {Deep Roots} skill continued its operations, a thought manifested in the tree's mind. "I am currently providing the Qi necessary for the skill to function... but what if I used this rock to power the skill instead? Like a battery?" Ashlock decided it was worth testing.
+
+Ashlock forced the skill to keep operating but cut off the Qi supply to that root. He then waited... and waited... the root was still utilizing the Qi that was stored within but eventually, it paused.
+
+Unable to keep tunneling through the rock. The mercury rock shimmered brighter as the roots surrounding it started forcefully sucking its Qi away.
+
+"It works!" Ashlock was ecstatic as he watched the root he had cut off from his supply of Qi continue tunneling down. "And I still have a connection to it... how convenient."
+
+The root was still connected to Ashlock's main body, so he could supply it with Qi if needed, but for now, it was deriving all its power from the mineral deposit.
+
+When Ashlock returned his sights to the courtyard, Stella was gone. A quick search and Ashlock found her back on the runic formation diligently cultivating. The sun was slowly setting, but it was hard to tell through the thick cloud cover.
+
+***
+
+Ashlock awoke to a storm of horrific proportions.
+
+Thunder boomed like an awakened god throughout the land, and rain pummeled Ashlock's leaves and branches, making them violently sway in the relentless winds.
+
+Using his {Eye of the Tree God} skill, Ashlock located Stella.
+
+Despite the unfavorable outside conditions, she sat with her back straight, eyes closed, and her hands wide open as if heralding the arrival of her savior. Her damp blonde hair was plastered against her face as purple flames roared to life across her skin, making her a beacon of light in the darkened world. Yet, even from here, Ashlock could feel the chaotic Qi rushing around with the storm, particularly around the runic formation that Stella so resolutely sat upon.
+
+"So cultivating during a storm can lead to great benefits..." Ashlock tried to activate his meditation skill, but nothing happened. The dense clouds blocked out any sunlight, turning day to night, and the wind made his leaves unable to capture anything.
+
+But, looking to the sky, Ashlock's sphere of vision had expanded to include the clouds above. Streaks of lightning illuminated the clouds in flashes of blue and white, followed by roaring thunder. Then suddenly, one of the streaks of lightning arced toward him like a coiling dragon hungry to strike. Ashlock's world went white as the lightning obliterated one of his branches.
+
+Lightning Qi wrapped around Ashlock's trunk and arced between his branches, causing them to burn.
+
+Smoke bellowed from his left side, near the impact site, as a fire bloomed to life inside his trunk. Ashlock was delirious as horrendous pain spread throughout his body. Ashlock had burned himself on a stove once or twice back on Earth, but this felt worse. Way worse. Like gasoline pouring down his throat and then being set on fire from within.
+
+"Tree!"
+
+Ashlock's brain was fuzzy as his body fought against the invading fire. Like suffering from blood loss, moisture and sap were rerouted from his roots and lower body to deal with the blaze causing him to become sluggish. As more and more of his body became charred wood, his cognitive functions decreased further.
+
+"Tree... don't die! Hey!"
+
+Ashlock felt tender hands trying to climb up his ten-meter-tall trunk to the source of the blaze.
+
+"Don't leave me all alone!..." Ashlock heard Stella cry over the howling wind. He then felt Stella's legs coiling around his branch as she was hung upside down.
+
+Stella thrust her purple flame-covered hands into the smoking hole and attempted to blast the flames away. "Fight the flames, you stupid tree! You can do it!" Stella cried out as residual lightning still arcing between his branches lashed out at the girl, forcing her to use her own Qi to defend against the onslaught. Thunder and rain continued to roar, making Stella's shouting and insults harder and harder to decipher for the slowly dying tree.
+
+Despite Stella's best efforts, Ashlock was just a five-year-old sapling with a pathetic amount of Qi. Surviving a typical lightning strike would be possible for Ashlock, but one empowered with Qi? Unlikely. Was this the end? Death by a stray strike from the gods?
+
+But right as everything was going dark, he saw two notifications flicker to life in his mind.
+
+[Skill {Fire Resistance [D]} Learned!]
+
+[Skill {Lightning Qi Resistance [C]} Learned!]
+
+It seemed the gods hadn't abandoned him after all. With his last bit of consciousness, Ashlock told the system to redirect all the ambient Qi raging around his body toward his roots and Qi Fruit Production skill.
+
+"Tree..." Stella's tears joined the rain cascading down his trunk and dripping from his leaves. "Stay with me... please... I have nothing left."
+
+Ashlock wanted to comfort the distraught girl—tell her he would be fine.
+
+Alas... he could not—the world faded, and his consciousness slipped into a deep slumber.

@@ -1,0 +1,285 @@
+---
+id: 83f838f4-53e1-5f1f-9963-34f9c3d42e90
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9 – Core Strength"
+slug: 0010-chapter-9-core-strength
+partOf: rock-falls-everyone-dies
+position: 10
+ownLength: 1909
+unit: words
+ownProgress: 1909
+publishedAt: 2023-01-23
+link: "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1094733/chapter-9-core-strength"
+royalRoadId: "1094733"
+markedReadAt: "2026-06-29T22:50:34.813Z"
+---
+
+The rock carefully focused on being just [Like a Rock], making sure the dragon would not notice anything strange about it. After all, it was just your average rock. What could be strange about such a thing?
+
+So the dragon did not notice anything strange, and just nodded approvingly at the Gneiss decoration it would have for its brand-new lair. A proper centerpiece for its display. And so, it began decorating.
+
+And how would a dragon decorate a lair?
+
+Although their intellects were great, their sort actually had rather simple desires, which naturally reflected on the décor of their living environment.
+
+First, the gigantic green-scaled monster reached into its [Astral Pocket], and began taking out its favorite arcane lighting. Great gleaming orbs which emanated light in a dazzling array of colors were spread out all around the cavern, where they floated in midair, like suspended droplets of water.
+
+Next, the dragon looked to the corners of the room, and inhaled—then breathed out. Fire. A great cone of Dragonfire was sent at the corners of the room, and the dragon spun languidly around in a circle, dragging the ray of fire with it, covering each and every corner.
+
+Dust was burned off, and eternally burning Dragonfire was left behind in flickering patches, giving the room a distinctive background tapestry.
+
+So, the walls and ceiling were handled, and all that remained was the floor space. Giant red eyes focused on the stone, calculating its optimum placement relative to the other things. Once more, the dragon reached into its [Astral Pocket], this time opening it wide, facing the room.
+
+And an avalanche of gold spilled out.
+
+Coins, golden coins of all shapes and sizes, with the stamps of a hundred kingdoms on them spread out to cover every inch of the floor. The dragon reached out with its great muscled tail, and lifted up the stone, setting it up at the very top of the golden mountain.
+
+And then it looked over its small kingdom, satisfied.
+
+For it was time to engage in the favorite pastime of dragons. In a way, it was kin to stone. For they both had a shared patience born of immortality.
+
+The dragon curled in place, around the mountain of gold, and fell asleep.
+
+—
+
+And the rock looked out at its new sleeping roommate, on its new perch atop a mountain of gold. The rock was beginning to understand the cycles of the world. Even if it proceeded steadily down a mountain, it might eventually end up on top of a brand new one. Such is the way of the world, where those who reach for immortality and power will always find a new peak of Mt. Tai beyond the last one.
+
+But the stone was not dismayed. So what of peaks? As long as it could level and grow stronger, the world was its oyster. Or quarry. Maybe it would like something like that more. And regarding its next leveling plan… The dragon fire at the edges of the room was steadily heating it up. It could feasibly move just a bit.
+
+It ran some calculations in its mind. Could it launch itself out at the dragon, aimed precisely at the head, and then crush it?
+
+Just imagine the experience gains from that…
+
+But a faint sense of danger held the stone in place. It was learning, and though the dragon seemed to be sleeping, there was a trace of awareness there, in the tail that swished about as it slept.
+
+Attacking it would be… risky.
+
+Picking up the rock had been so easy for the muscled tail, the rock did not doubt it could be crushed in an instant. Or be put inside that terrifying [Astral Pocket].
+
+However, the rock also noticed something else. The material all around it—this so-called “gold”… It had heard the term before. Where was it? The rock looked over at its stat sheet.
+
+Gold: 0
+
+Ah, that was indeed a stat, wasn't it! Another number that had stayed at the lowest of lows, not raising one bit, no matter how hard the stone had leveled. Could this be an opportunity?
+
+A cunning plan formed in its mind, as the [Rolling Stone] embarked on the most traditional of activities to be done inside a dragon’s lair: Thieving.
+
+Carefully, it converted a hint of heat into movement, and aimed it all downward.
+
+Energy Shift activated!
+
+Converting [Thermal Energy] to [Kinetic Energy]!
+
+Δ1K = Δ1 m/s
+
+New velocity for [Unnamed]: 1 m/s
+
+Remaining stored Temperature: 20 K
+
+A slight tremble went through the mountain of gold coins as the stone was lodged down into its core, just a bit. A few coins lodged themselves into the stone's skin—exactly as planned.
+
+The stone felt at the golden coins penetrating its exterior and carefully reached out with its new Qi vessels, extending tendrils of energy toward them. Its stone flesh shifted and parted, and slowly, so so slowly, the coins started to be absorbed inside the rock. Until finally…
+
+Gold: 1%
+
+The number had gone up!
+
+But wait… something was odd. The stone felt around at its body, and realized that the gold percentage numbers were… off. It had absorbed three entire gold coins, but only a small bit of that gold had actually remained in its body, right at the center. The rest had disappeared somewhere.
+
+But where? What was going on? The current gold content was nowhere near 1% of the stone’s mass.
+
+Brimming with curiosity, it focused on its task again, waiting for its body to heat up from the energies around it until it could use [Energy Shift] again, and then it again lodged itself down, greedily slurping up more golden coins.
+
+And slowly, over the days, months and years, as the dragon slept along peacefully… the number went up.
+
+Gold: 10%
+
+The first milestone, when the stone had only just begun excavating out its new mountaintop. Once it crossed the decimal barrier, it felt a shift in energy, as something began to form at its very center. It was growing heavier, despite not gaining levels.
+
+Greedily, it went on.
+
+Gold: 50%
+
+At the halfway point, it felt the energies roiling inside it focus more, and a heat began growing at its very center. It was a strange sort of heat—one it could not utilize for [Energy Shift]. But it was incomplete, not ready for use. Something was missing.
+
+The mountain of gold was already half gone, devoured by a greedy stone, and still the dragon had not noticed. Because the change was so gradual. Slow. In its sleep, it could not notice the mountain slowly getting lower and lower week-by-week.
+
+Gold: 90%
+
+The mountain of gold was almost gone, and the stone had to begin harvesting the gold on the floor of the room. But it was close. So, so close. The energies were almost complete, almost in their final form, and just that final stretch was missing. A final burst of energy, which would give the Karp enough energy to leap over the waterfall.
+
+And still, the dragon slept, unaware of the treachery.
+
+Gold: 99%
+
+The rock was vibrating, eyeing the last mounds of gold in the room. There was little left, for the number grew greedier the more the stone ate. The last 10% had taken almost as much as the first 50% had. But it was close, so one more time, it focused towards a pile of gold.
+
+Energy Shift activated!
+
+Converting [Thermal Energy] to [Kinetic Energy]!
+
+Δ2K = Δ2 m/s
+
+New velocity for [Unnamed]: 2 m/s
+
+Remaining stored Temperature: 20 K
+
+It rolled over the coin pile, making sure the surface the stones hit was suitably heated. It had optimized the process. By now, its Qi was an expert at gathering up all the lodged-in gold, then harvesting them towards the center, towards the growing core.
+
+Like a hero finally spotting the inn beyond the next hill, it ran forth, pursuing that perfection.
+
+Gold: 100%
+
+And it was done. The stone rumbled. What would happen now? A one hundred percent golden...
+
+[Core]
+
+Level up!
+
+Bottleneck broken!
+
+100 / 100 Gold
+
+You have reached Cultivator Level 4!
+
+You are now in the [Golden Core] Realm.
+
+Stats up!
+
+Energy Level (E) = 10 000W
+
+New Stat Unlocked!
+
+Core Heat: 400 K
+
+Progress to next realm = 0 / 100
+
+A roiling core of golden energy formed at the stone’s center, the reward of ceaseless patience, and naturally, patience was rewarded. Because the stone had utilized a nonstandard technique, one that was rather... demonic.
+
+New Ability Gained!
+
+Stolen Cultivation
+
+Cultivate further by absorbing the energies of magical treasures.
+
+But as that invisible hand descended on the rock, granting new abilities for feats done and experience gained, it noticed something. Things were… wrong.
+
+The rock had grown in <mass>. Even though it was not supposed to. Its <Mass> was tied intrinsically to its <Radius>, in a formula that could not be broken. And its <Radius> was supposed to grow directly depending on its level. But it had not leveled.
+
+ERROR_LEVELING_FORMULA_BROKEN
+
+MASS TOO BIG
+
+Finding solution, please wait...
+
+That invisible hand noticed the marks of many previous patches, all done in despair to fix an initial error that could no longer be corrected. It was too late to convert the <Metric> values to <STR, DEX, INT, END> Values.
+
+So it gave up, and threw out the fastest possible fix. Just... nudge the numbers forward so things would be right.
+
+Solution found!
+
+Applying patch…
+
+Fixing numbers...
+
+Level up!
+
+ADMIN_PASSWORD / 500xp
+
+You have reached level 8!
+
+Stats up!
+
+Mass (m): 1466.7 kg -> 4950.1kg
+
+Diameter (d): 1.03m -> 1.54m
+
+HP: 21 -> 34
+
+WARNING!
+
+Gaining <Mass> from absorption disabled.
+
+Please behave.
+
+The rock watched it all calmly, a bit disappointed at that last addition. Leveling up could have been so much easier…
+
+But just as it was about to get back to its abilities, to testing out its new <Golden Core>, something else happened. The roiling energies in the room were finally noticed. And...
+
+The dragon woke up.
+
+Even it could not sleep through a cultivation breakthrough happening right by its head.
+
+But as it groggily rose up, it looked around its room and saw [Just a Rock], an ordinary rock. No cultivation there.
+
+And no gold in its cavern.
+
+Its nostrils flared out, fire roiling out of them, and the dragon made a mad roar to the heavens.
+
+“THIEVES!”
+
+Like a viper, its tail lashed out, grabbing the stone. Because it had need for a weapon, and it had been years since the dragon had last thrown stones at pesky [Adventurers], who sneaked into its lair to covet the golden hoard.
+
+Boiling from anger, the dragon spread out its great wings, and began lumbering out of its cavern, then crawling up the long pit up, and then flying.
+
+Up.
+
+And the rock, which was clutched firmly in the dragon’s tail as it flew higher and higher into the clouds, noticed a detail most alarming.
+
+Its quest number was going up.
+
+Quest:
+
+Current Altitude: 8 292m
+
+Full Status:
+
+[Unnamed]
+
+Title(s): Line-Ender, Patient Ambusher, Bane of Demons, Grandmaster of Closed Door Cultivation
+
+🗿
+
+HP: 34/34
+
+Mana: 0/0
+
+Level: 8
+
+Experience: 0/1000
+
+Class: Rolling Stone
+
+Sub-class: Cultivator 4
+
+Race: Gneiss Stone
+
+Gold: 100%
+
+STATS
+
+Diameter (d): 1.54m
+
+Mass (m): 4950.1kg
+
+Energy Level (E): 10000W
+
+Core Temp (T): 400K
+
+ABILITIES
+
+Collide
+
+Steer
+
+Energy Shift
+
+Pivot Point
+
+Just a Rock
+
+Meditate
+
+Diamond Skin
+
+Stolen Cultivation

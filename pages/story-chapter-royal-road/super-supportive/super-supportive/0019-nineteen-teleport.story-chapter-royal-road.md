@@ -1,0 +1,417 @@
+---
+id: f719c48a-d016-5720-8aaa-d97355fd10a1
+page-type-slug: story-chapter-royal-road
+title: "NINETEEN: Teleport"
+slug: 0019-nineteen-teleport
+partOf: super-supportive
+position: 19
+ownLength: 3965
+unit: words
+publishedAt: 2023-02-23
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1121524/nineteen-teleport"
+royalRoadId: "1121524"
+---
+
+“Alden, stop typing ‘What are Rabbits good for?’ into the search bar. It’s getting a little pathetic.”
+
+“I’ll stop typing it in when the answer stops being nothing.”
+
+“What about that S-rank who used his floor polishing skill to create an iceless skating rink on the island? You said it was neat.”
+
+“I know! It’s cool. And I’m not dumb. I see that the power has much wider applications than you’d notice at first glance. But it’s also his only skill. He’s twenty-five. He’s an S. It’s his only one. What the hell, Boe?”
+
+Boe shrugged and threw a gum wrapper at Jeremy, who was standing by Alden’s bedroom window staring at them both with a stupefied look on his face.
+
+“Maybe S isn’t as all-powerful as people make it out to be,” Boe said. “Anyway, Rabbits have a soft restriction on receiving talents as quest rewards, right? They have to level if they want skills and spells. That guy didn’t. He’s just lazy. Doesn’t mean anything.”
+
+“But, Alden… how did you become an Avowed?” Jeremy said for the fifth time that afternoon.
+
+They’d asked him to meet them at Alden’s place after school and told him everything. Unlike Boe, he was not processing the situation well.
+
+“You broke him, Alden. He’s lost his entire vocabulary except for that one question.”
+
+“Jeremy,” Alden said, clicking on the twelfth page of search results. “Sit down, man. Boe will explain it to you.”
+
+“Why me?”
+
+Alden gestured at his computer. “I’m busy.”
+
+“Once you go past the third page of results you’re not busy,” said Boe. “You’re panicking.”
+
+“No I’m not.”
+
+He was.
+
+He’d already decided to go through with it. He trusted Gorgon. He knew he was going to do it. But at the same time, there was a voice in his head screaming, I don’t wanna be a Rabbit! They’re lame and stupid and boring! They’re not heroes; they’re napkin-folders!
+
+And though he’d been trying for hours, Alden couldn’t find a single piece of information that would make his inner second grader even a little bit happier.
+
+“We'll be rich. Isn’t that nice?” he muttered.
+
+“Great. Now you’ve broken yourself. Are you using the royal we?”
+
+“I’m giving my inner brat a pep talk. It’s a private conversation.”
+
+But it didn’t work. Even the wealth Rabbits were famous for wasn’t a guarantee. They were summoned to the Triplanets a couple of times a month if they had normal luck. When they were there, they usually performed a small magical task their skill was uniquely suited for. They finished up in a few hours and bounced back to Earth with a decent amount of Argold in their account.
+
+Translated into dollars, the average annual Rabbit salary was around half a million. For almost zero work.
+
+But that was the average. The Artonans weren’t obligated to summon anyone. Plenty of Rabbits were flat broke. Maybe Alden would be one of them.
+
+People had barely scratched the surface of the skill lists for Rabbit, and of course the basic descriptions that were provided pre-affixation were as vague as they were for most classes. The smart thing to do was choose one of the starter skills that had already been safely trail-blazed for you by an older Rabbit.
+
+There were about thirty that were generally agreed to be sure bets, and the vast majority of people picked them these days.
+
+After all, if you wanted to live dangerously you’d trade into a different class.
+
+“Everyone’s going to think I’m a bum,” Alden groaned as he clicked through the social media account of a seventeen-year-old A-ranker Rabbit who was famous for declaring herself retired before she’d graduated high school.
+
+“And what’s with this skill? Nobody’s ever picked it before. Did you guys see the description?”
+
+Whatever generous B-rank had taken the time to type up the entire Rabbit skill list deserved a standing ovation. It must have taken hours.
+
+And there, right in the middle of it, was Gorgon’s recommendation:
+
+[Let Me Take Your Luggage — Rank: B]
+
+The Rabbit carries an item that has been entrusted to them.
+
+“The System’s such a jerk. What does this even do? Does it make you stronger? Does it boost stamina? Does it give you an extra set of arms so you can hold more bags?” Alden slapped the laptop shut in frustration.
+
+“That last one would be hilarious,” Boe said with a snicker.
+
+He was sitting on the floor by the bed, flipping through a stack of old magazines he’d taken from the enormous pile Aunt Connie kept in the living room.
+
+Beside him, Jeremy had finally recovered enough to give a shaky laugh.“How would he buy shirts?”
+
+“He’ll have ‘em custom tailored with all his Argold.”
+
+“Maybe he could buy them from Wardrobe?”
+
+Alden smiled and groaned. “Don’t remind me about Wardrobe. It’s such a bizarro perk.”
+
+“Hey, it’s pretty sweet to have easy access to armor,” said Boe. “Nobody else gets that except for a few of the hardcore battle subclasses. And even they don’t get it before leveling.”
+
+“Armor? I think you mean alien cosplay. And have you seen what they cost?”
+
+“That's why you're asking for money up front in addition to the class. And the clothes in the Wardrobe do increase stats. That makes them armor.”
+
+Jeremy blinked owlishly up at Alden. “Are you really going to pick Rabbit? You don’t seem like a Rabbit to me.”
+
+“Thanks, Jeremy. And yeah. Boe accused me of being a coward earlier today—”
+
+“I said you were clinging to Adjuster out of fear. Not that you were fundamentally a coward.”
+
+“So I’m going to prove him wrong by bravely choosing Rabbit!” Alden said, ignoring Boe and holding a hand to his chest in what he hoped was a mock-heroic pose. “A class well-known for its valor!”
+
+“Well, you have to get it first, Mr. Bravery. Stop agonizing and compose your letter to the Velras. Make it good.”
+
+“Quick question,” Jeremy said. “Did you two try emailing them? The letter’s going to be awesome, but if Alden wants an answer fast…”
+
+It was silly, but Alden was comforted by the fact that they were both acting like sending the letter was a group project. He’d been worried that telling them he’d been selected would create an insurmountable gap in their friendship.
+
+It was hard, knowing he’d see so much less of them in the future.
+
+Boe’s right. It’s never the same when someone moves away.
+
+But for now, they had business to attend to.
+
+He turned to Jeremy. “I actually tried a System call, but it told me I was unauthorized. And we can’t find a way to contact them quickly online. We wanted to send an email to Aulia Velra. She’s the S-rank in charge of the family. But she’s kind of a huge deal. She ran for President of the Anesidoran High Council a few years ago."
+
+“She didn’t come close to winning,” Boe chimed in, “but she’s still not someone who lists her personal e-mail address online for any rando in the world to find.”
+
+“And we sent a test email to her public one, but it just gave us an autoreply,” Alden said. “She’s probably got some overworked PA going through hundreds of messages a day. Since I’m going to go to Anesidora tomorrow anyway, we thought I could try to mail a letter from there to one of the less senior family members. It’ll be way quicker if I toss it in a mailbox or hire a delivery service on the island itself. It can take ages for mail to get there from the US. I tried to send Hannah a Christmas card once, and it arrived in mid-January.”
+
+“Alden, just write the message,” said Boe. “Make sure to include all of our demands and all the relevant details. Jeremy, the time has come. Go find scissors and glue sticks.”
+
+Jeremy jumped up.
+
+“Why do we need scissors and glue?” Alden asked. “I was going to type the message and print it out at the library.”
+
+He’d already bookmarked a page on professional letter writing so he could make sure he formatted it properly.
+
+“Boooo,” said Boe. “Boring. It’s an anonymous note to the leaders of a superhuman faction who are desperately trying to find you. Have you no aesthetic sensibilities?”
+
+“Dude, we’re going to make a collage out of words from your aunts’ magazines!” Jeremy said. He sounded thrilled about it.
+
+Alden gaped at them. How had he missed this particular plan developing?
+
+“What is wrong with you two? No. You want to make the critically important letter out of chopped-up magazines? That’ll make me look like a serial killer!”
+
+“It’ll be funny,” said Boe, waving one of the magazines at him.
+
+“It’s hilarious!” Jeremy agreed. “They find out you exist. They think you’re just some random guy in Illinois. They send Skiff after you—”
+
+“He could be working for someone else. And I am just some random guy in Illinois.”
+
+Jeremy didn’t seem to hear him. “And the next day—” he snapped his fingers, “—a letter sent from the island shows up on their doorstep that’s like, ‘Haha, assholes. I know you think you’re smarter than me, but you’ll never find out who I am!’”
+
+Jeremy beamed and leaned over to give Boe a high-five.
+
+“You idiots!” Alden said. But he couldn’t keep the laughter out of his voice. “That’s so ridiculous. Even if the letter’s anonymous, they’ll still be able to figure out who I am in a few months. Unless there’s another B-rank Rabbit arriving on the island from Chicago. The Velras will think I’m total lunatic.”
+
+“You have to accept that,” Boe said kindly. “This is a rare opportunity.”
+
+“You have to do it,” Jeremy agreed, bouncing up and down like a kid.
+
+“No way.”
+
+“Do it.”
+
+“Do it.”
+
+“Not in a million years.”
+
+###
+
+“It’s beautiful,” Jeremy breathed.
+
+It was three hours later. Alden had paper cuts, and the letter “Y” was glued to his forehead. His room was covered in a flurry of shredded magazines.
+
+But lying on his desk was the professional, polite, and thorough letter he’d written. Which took up five pages of paper when it was turned into a creepy kidnapper-esque collage.
+
+I should have taken out the part where I requested a magical non-disclosure agreement.
+
+It had taken forever to paste in a detailed explanation of why he was asking the Velras to not tell anyone that he had contacted them of his own free will. And it seemed rude. Like he was saying, “I want you to help me and give me your money, but also, I want you to make sure people think you took advantage of me. Please.”
+
+In the midst of pondering how that would come across to the powerful family, Alden caught Boe making a surreptitious hand movement.
+
+“Jeremy, stop him,” Alden said tiredly. “He’s trying to add a postscript again.”
+
+Jeremy grabbed the back of Boe’s t-shirt and yanked.
+
+“I’m trying to help you, you ingrate!” Boe squawked, clutching the magazine headline to his chest.
+
+Jeremy pried it out of his fingers. He inspected it. “This one says, ‘Make me a millionaire, sugar!’” His forehead creased. “Your aunt has…interesting…taste in magazines.”
+
+“She just buys whatever’s on the front of the rack in checkout lines. Destroy it.”
+
+Jeremy wadded it into a ball and threw it in a perfect arc at the trashcan. It bounced off a towering heap of paper and fell into the floor with everything else.
+
+"You're both fools!"
+
+"Boe, we're already asking them for fifty thousand Argold. I almost fainted gluing the number in. It's plenty."
+
+It was a little more than a hundred and fifty thousand dollars. Alden hadn't picked the amount randomly. He'd been researching the prices of things he knew he might want to buy even as a student, and assuming his new Rabbit skill wasn't useless, this amount should be enough to set him up with decent starter supplies.
+
+“Fine,” Boe spat. “Don’t accept my wisdom. Starve to death trying to buy decent vegan food on a man-made island that produces no produce. I bet a banana costs like fifteen dollars.”
+
+“I can’t tell them to find Rabbit for me, keep my connection to them a secret, and give me an absurd amount of money. It’s one thing too many. I want them to help me, not assassinate me.”
+
+“Yeah,” Jeremy agreed. “Even I think that’s a bit much. It’s like saying, ‘Hey, Veldras! Give someone lots of money so that they’ll give me the rare class that makes lots of money. Then give me way more money on top of it.’ Sounds crazy.”
+
+“Your opinion is invalid, rich boy.”
+
+“Alden agrees with me.”
+
+“Alden dreams of fighting crime in tights…while carrying other Avoweds’ suitcases, apparently. We can’t trust him to take care of himself.”
+
+“There will be no tights.”
+
+“Lots of superheroes wear compression stockings for their health, though,” Jeremy said in a serious voice. “So you might have to.”
+
+Both Alden and Boe stared at him.
+
+“I heard it on an infomercial,” Jeremy said sincerely.
+
+Boe opened his mouth. Judging by his expression, he was going to say something more exasperated than cutting, but he never got the chance.
+
+All of the sudden, from the living room, a familiar voice rang out. “Alden! You home? I brought pizza!”
+
+“Ooo…pizza!” Jeremy was out the door in a flash.
+
+“You can’t be too mean to him when I leave,” Alden said.
+
+Boe sighed. “I’ll do my best.”
+
+“No way. Your best sucks. Do better than that.”
+
+“See, normally that would hurt my feelings. But right now I can’t register the pain through my pity.”
+
+Alden frowned at him.
+
+Boe headed for the door after Jeremy. “You haven’t told your aunt about your diet, right?” he said over his shoulder.
+
+Then, grinning, he shouted, “Mmmm…Connie! The pizza smells awesome! Double sausage like always?”
+
+“You know it!” Aunt Connie called back.
+
+Alden swore.
+
+###
+
+The guys stayed over all night.
+
+They played video games with Aunt Connie, who was predictably enthusiastic about Alden’s new diet and insisted on ordering in another, depressingly salad-like pizza to celebrate.
+
+Nobody said they were trying to take Alden’s mind off of the funeral, but he knew that was what they were doing.
+
+And he appreciated the hell out of it.
+
+He fell asleep on the sofa sometime after midnight and woke up a few hours later to the smell of more food.
+
+Not leftover pizza, but actual real food the likes of which their house had virtually never seen. He wandered into the kitchen to find his aunt and Jeremy sitting at the table with scolded expressions on their face, while Boe stood at the stove giving the sizzling pan in front of him a death glare.
+
+“Are you cooking?” Alden asked, twisting his head from side to side to work out a crick in his neck.
+
+“Maybe,” Boe said, squinting at the pan. “I’m not sure. Your stove is sketchy. And I’ve never done tofu before. And Connie put the mashed avocado in here while I wasn’t looking, so that’s going to be a new experience. But possibly I am making breakfast hash.”
+
+“It smells great.”
+
+“No. That’s the coconut bacon. It is great. But Jeremy ate half of it already.”
+
+I’m in trouble, Jeremy mouthed. Alden’s aunt nodded in agreement.
+
+Alden smiled. “You guys are the best.”
+
+“Your teleport’s at ten?”
+
+“Yeah. It’ll be even earlier on Anesidora. I should get there a few hours before the service, and then Ms. Zhao’s got me porting back late this evening. I think she wanted to give me a chance to hang out and be a tourist for a while if I wanted.”
+
+It wasn’t like anyone had known he’d be moving to the island on a permanent basis in the near future. It was supposed to be his last opportunity to visit anywhere he might have spent time with Hannah.
+
+“I took your dress shirt to the dry cleaner yesterday!” Aunt Connie said.
+
+No. She hadn’t. At least not the dress shirt that fit him. But it was still a nice gesture.
+
+“Thanks,” Alden said. “I appreciate that.”
+
+They ate together. The hash was good. It probably would have been great sans hot avocado goo.
+
+Alden found his thoughts kept scattering while the others talked around him. They flitted from Hannah, to the day ahead, to the letter in his room, to class selection, to Gorgon, to…everything. It had been a wild couple of days.
+
+When he focused back on the conversation at the table, he realized Jeremy was complaining about the fact that Boe was still dragging him to their consulate classes for the day even though Alden wouldn’t be there.
+
+“Hey, will you two take notes for me?” he asked. “If you don’t mind?”
+
+Normally they didn’t bother. Boe didn’t need to. Jeremy didn’t want to.
+
+“I kind of feel like I shouldn’t miss anything?” Alden said, trying to keep it subtle in front of his aunt.
+
+Ditching regular classes was one thing. But consulate classes suddenly seemed way more relevant to his life than they had last weekend.
+
+“I’ll do wordchains!” Jeremy offered.
+
+“If you’re a glutton for punishment, I can record the lecture in Artonan Life.” said Boe. “You can listen to Instructor Pa-weeq talk about irrigation as many times as you like.”
+
+“Thanks, guys. Anyone up for attending my logogram class?”
+
+“Can’t,” said Boe. “We have plans.”
+
+“Both of you do? Together.”
+
+“We made them just now, telepathically, when you asked for such a horrible, horrible favor.”
+
+Alden spent the rest of the morning going over his schedule for the day, getting dressed, and trying not to fidget with his tie.
+
+“I wanted to bring up one more thing,” said Boe, watching him over the top of a partially destroyed gardening magazine.
+
+Jeremy was in the living room vacuuming because he’d dropped a piece of pizza the night before. It wasn’t a big deal, since the living room carpet was patterned with mysterious stains, but apparently the sanctity of clean flooring had been embedded into his brain by his mother, who was a neat-freak.
+
+“What is it?” Alden asked. “Nothing too stressful please. I’m pretty sure my adrenal system is nearing some kind of critical point.”
+
+“Try not to be stressed then. I just wanted to remind you that you can’t tell anyone on Anesidora you’re one of them. Yet.”
+
+“It’s not like I was planning to announce it at the service.”
+
+“I know. But in case it came up and you wanted to share with this Cly person or Arjun Thomas or something…I’m not sure what happens if you tell them. Most of Hannah’s friends were islander kids, right? They might feel like you should register while you’re there. With Anesidora I mean. Not the U.S.”
+
+“I’m not going to tell. But if something slips it wouldn’t be the end of the world, would it? I do plan to register eventually.”Boe scratched at a zit on his chin. “I think it would be fine? I’m sure they’d let you come back home. But I’m not sure they’d let you come home alone.”
+
+Alden had only been giving the conversation about a tenth of his attention. But when Boe said that, he suddenly found himself completely focused.
+
+“What does that mean?”
+
+“So…with S’s and A’s they kind of get an honor guard once they’ve affixed and registered.”
+
+Alden blinked. “I think I’ve heard it mentioned in passing? It’s for really high-value classes?”
+
+“No, it’s for all of them,” Boe said with a shake of his head. “They get their own dedicated superhuman to follow them around for ninety days and help them prep for their transition to the island. It’s all friendly enough, but if they refuse, they just get a dedicated spy instead.”
+
+Alden straightened his tie for the thousandth time while he processed that.
+
+“Oh,” he said finally. “No cold feet allowed, huh?”
+
+“You get it. I’m not sure it applies to B-ranks. They don’t have limitless resources. But I bet the city could afford to send a few cops to lurk around outside your house at all hours. And that would be a tense way to spend the next few months.”
+
+“All right. My lips are even more sealed than they were before. I’d like to have some time to figure out how to handle Rabbit without people hiding in the bushes around the house watching me.”
+
+“Good,” said Boe. “Your teleport’s in ten. How does it work?”
+
+“I get a call from the System on my phone. There’s a countdown, then a nasty feeling like you’re about to vomit, and then you blink and you’re in a travel center on Anesidora.”
+
+“Fun.”
+
+To Alden’s surprise, he sounded sincere.
+
+“Yeah, it is. Pukey feeling aside. It’s cool.” He grinned. “Maybe I’ll get a teleportation skill one day.”
+
+Boe rolled his eyes. “I’m glad your penchant for dreaming is intact, you lowly B-rank Rabbit.”
+
+###
+
+Alden’s phone never rang with a call from the System.
+
+Instead, the interface blossomed to life in front of his eyes a minute before he was due to leave.
+
+[A LOCAL TELEPORTATION INSTANCE HAS BEEN REQUESTED.
+
+DESTINATION: ANESIDORA, ARRIVAL STATION F
+
+TIME TO TELEPORT: 65s]
+
+[Do you wish to accept teleportation?]
+
+[YES/NO]
+
+It was a relief. He, Jeremy, and Boe had just been sitting around awkwardly, waiting for it to happen.
+
+“It’s a System notice. Not my phone.”
+
+“Makes sense.”
+
+“I wish I could see it,” Jeremy groaned. “Is it as awesome as I imagine it would be?”
+
+Alden watched the timer tick down. “I don’t know. It’s amazing, but it’s also getting normal faster than I would have thought. I guess because it’s similar enough to the tech we’re already used to.”
+
+“Don’t forget our letter.”
+
+“It’s literally in my hand right now, Boe.” Alden held up the large yellow envelope for emphasis.
+
+“I meant don’t get distracted by superhero island and forget to send it.”
+
+“I won’t. You two are going to go to class today, aren’t you? You’re already running late.”
+
+“I’ll haul Jeremy there somehow.”
+
+“Tell Gorgon what’s up. He probably saw Skiff, but in case he’s worried—”
+
+“We’ll do it. Just do your thing already.”
+
+“Yeah,” said Jeremy, waving his hands in front of Alden like a magician. “Vanish. Begone.”
+
+Alden agreed to the teleport. A few seconds later, right before Jeremy accidentally poked him in the eye, he felt nauseated.
+
+It passed as suddenly as it had come.
+
+And just like that, he was on Anesidora, standing inside a phonebooth-sized teleportation bay. The arched ceiling over his head was covered in spiraling symbols.
+
+In front of him was what looked like a blank metal wall. He only knew it was the door because of prior experience.
+
+“Welcome to Anesidora, Mr. Thorn!” said a female voice through a hidden speaker. “I see this isn’t your first visit, so you know the drill.”
+
+“Security scan?”
+
+“Yep,” said the voice. “Do you submit to a scan? If you don’t submit to the scan we can pull you out for an in-person evaluation. The wait time on that is usually half an hour.”
+
+“The scan’s fine.”
+
+“Please hold still. This will only take a few seconds.”
+
+Alden held still. This thing can’t tell I’m a selectee, can it?
+
+The question sent a flash of panic through him. He’d always thought of the process as going through a glorified metal detector, so he’d agreed without a second thought.
+
+He opened his mouth to ask for the in-person evaluation instead, but as soon as he did, the door slid open.
+
+“You’re all clear! Follow the signage to the exit. Have a nice day, Mr. Thorn.”

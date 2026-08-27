@@ -1,0 +1,397 @@
+---
+id: 56b375b0-79da-5bda-be58-85a244e03bb7
+page-type-slug: story-chapter-royal-road
+title: "PoA The Concept of Death Chapter 8"
+slug: 0016-poa-the-concept-of-death-chapter-8
+partOf: the-path-of-ascension
+position: 16
+ownLength: 5113
+unit: words
+ownProgress: 5113
+publishedAt: 2022-01-19
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/827952/poa-the-concept-of-death-chapter-8"
+royalRoadId: "827952"
+markedReadAt: "2026-06-29T19:17:58.575Z"
+---
+
+PoA The Concept of Death 8
+
+Melinda called out commands and retreated as her simulated team pulled back.
+
+This team was heavily stacked with mages, and only the plant mage had any ability to tie down the attacking ogres. Even then, it was a losing proposition. [Root] was a Tier 8 spell, and the finger-thick, wooden tendrils were hardly enough to slow the massive monsters down, let alone halt their movement.
+
+The lack of an earth mage made the simulated run that much harder; at least Vinnie could have created barriers. Instead, they pulled one monster, then retreated to the cleared part of the forest.
+
+It was slow, but effective.
+
+She spent most of her time using the drones that came with this simulation watching their rear. It wasn't perfect, with the Tier 5 drones’ limited flight time and mana efficiency, but she had been able to catch two wandering ogres before they were able to ambush them from behind.
+
+Her lightning mage fried one of the monsters as her fire mage peppered a second from the side. She checked everyone's mana and sent a message to pull back and refill their mana with mana stones.
+
+Melinda was getting ready to settle in for a long wait when the simulation ended. Her scoring report wasn't bad. Apparently, she had hit all the criteria except she scored low on the section regarding her anticipation of the ogres’ movements. Considering that was a monster-specific trait, she was happy with her score of eighty-two percent.
+
+She opened her eyes and used her AI to open the cubicle she was in, and she unhooked herself from all the gear helping to translate her movements into the simulation. It took a few minutes, but she checked out of the simulation room and saw that her friends were still busy.
+
+After checking their progress, she sent a message to the group and set off to do more training with Baxter. She felt like she was close to getting her Talent to interact consciously with spirits.
+
+She only needed a slight push to close the gap.
+
+***
+
+Tara shuffled as her ranged instructor, Robert, threw a pebble at her knee. She loosed her arrow as the clay pigeon appeared. Trying to not rely on her Talent was nearly impossible, but she could blunt its influence on new weapons. However, the bow was so ingrained into her, she didn't really know where her Talent ended and where her own skill began.
+
+Her two weeks of individual training had come after the team had taken the much cheaper group lessons. For 5,000 points, it was a steal. But the ranged trainer had pulled her aside on day one and offered her a refund, saying that he couldn't train someone possessing a Talent that needed individual attention along with a group of others.
+
+The rest of the team had leaned into their specialties, with Melinda taking general mage training. She needed healer training from a generalist just as much as Tara needed ranged training from one.
+
+Digging into her point reserve, Tara took the specialized training that was recommended to her.
+
+Robert was a Tier 19, and had abilities far beyond her skill with a bow. He didn't have as wide a base as her Talent gave her, but he was good enough to critique her.
+
+There she learned that her Talent wasn’t perfect. Sure, it was powerful; it let her pick up any weapon with what felt like years of experience. It allowed her to skip most of the prerequisite training, but she still needed to learn for herself through experience.
+
+Robert mostly focused on forcing her into new positions, and demanding that her and her Talent adapt to the sudden changes.
+
+He had transitioned to reactive training after she had put an arrow through the mobile training aids that they were using. After that, they moved to more replaceable, stationary targets.
+
+She needed to get every point’s worth of training from the soldier during her limited time. She could afford another two training sessions if she dipped into her reserves, but their team wanted to save their points to change sides when they died.
+
+None of them were happy with the Queendom's recent changes, but they were high enough in the hierarchy of Pathers to avoid any negative side effects regarding their point earnings. At the same time, they weren't so high up that they benefited, either. Their team was right in the neutral zone.
+
+That didn't mean they agreed with the changes though, and they intended to join Matt as soon as possible.
+
+Tara made a mental note to thank Matt once again for the quiver. It was so stupidly useful, she didn't know how she ever fought without it. When she paired it with a summoning enchantment on her bow, she was able to carry and summon a nearly unlimited number of arrows.
+
+The best part was, they wouldn't fall out of her quiver if she moved too much. While she could have gotten an enchantment for a normal quiver with the same effect, it wasn't perfect. If the enchantment was too strong, it would interfere with the summoning rune on the bow. If it was too weak, it would still let the arrows slip through.
+
+With the growth item, she got the best of both worlds. She could summon her arrows for less than a single unit of mana.
+
+That didn’t even take into account the random elemental enchantment that would be applied to the arrows that she left in the quiver for long enough. The quiver enchanted one single arrow at a time. However, the effects were completely random, so she had to store a number of arrows before the enchantment became very useful.
+
+Some elements were more effective than others. The single void arrow she had gotten was being held as a trump card, just in case their team got into a sticky situation. The arcane arrow she had gotten last month was a curiosity with how rare the mana aspect was. Void was well known for its singular purpose; she didn't need to test the arrow. But the arcane arrow was a complete unknown that she didn't want to waste.
+
+The water arrow had less utility, as it had no pressure behind it, which did little to add to the damage. Along with fire, earth, and wind, it was one of the most common elements that popped up.
+
+The fire arrow exploded, adding a good bit of versatility to her kit. When the arrow was paired with penetration, the explosion was mostly internal, making the fire arrow a valuable part of her kit.
+
+The earth arrow immobilized targets, which was handy in a pinch. But overall, Vinnie could do the same job, better. It was good to have a backup, but it was largely redundant.
+
+She hadn't let the quiver enhance the same arrow twice, after seeing that it gave diminishing returns on power. It was better to widen her breath of stored arrows than to go for one super arrow. Though, she had let the void arrow get upgraded three times.
+
+A trump card should be invested in, after all.
+
+Two rocks whirled past her as she loosed another arrow, only for her dance to be interrupted by a third, prompting Robert to call out how she needed to be more prepared.
+
+***
+
+Mathew pushed the bar off his chest and held the weight for a heartbeat before slowly lowering it and inhaling.
+
+After seeing his wife off to work on her healing project, he went to work out. The group training with a defensive instructor taught him a lot, even with the limited one-on-one time.
+
+He had redoubled his training in the simulators, but things weren’t progressing as well as he'd hoped.
+
+During all his simulations, he had scored a max of seventy-three percent. He needed to defend his team, but he was always pulled in five directions at once, with himself being the only dedicated defender.
+
+The point was only hammered home in the last scenario, when he needed to block a fireball from the front.
+
+His first instinct was to scatter the team to avoid the projectile, but his shot-caller had ordered him to block it.
+
+The first time he ran the scenario, he had followed orders, and they were attacked by a pair of wolves as he was blocking the fireball. The second time he ran it, he ignored the order and called for his team to scatter.
+
+They did, and while he was able to take the first two wolves, his team members were torn apart, and he once again failed.
+
+It was beyond frustrating, and he took it out at the gym.
+
+As the bar slowly touched his chest, he forced it away with an explosive exhale, and equally violent push.
+
+When his AI alerted him that Melinda should be getting off soon, he cleaned up and made his way back to their suite. After picking up her favorite stir fry, of course. She would have forgotten about dinner, as she usually did when working long hours, and would starve to death if he didn't force her to eat.
+
+He had a plate ready for each of them when she shuffled in the door. She kissed his cheek before digging in, and didn't say anything as she scarfed down her food.
+
+When she was done, she sighed. “Thanks. I needed that.”
+
+“How did it go?” Mathew tried to grin and pull Melinda into a cheery mood.
+
+He wasn't feeling great himself, but Melinda was running herself ragged.
+
+His wife stretched until her limbs quivered with the movement. “I keep feeling like I'm so close, but it's just out of reach. I've tried changing my methodology... I've tried changing the way I think of things to get a new perspective... But nothing has worked so far.”
+
+Mathew thought that over and offered what he could. “Maybe take a break? It could help refresh your mental gears.”
+
+Melinda had a look on her face that he was all too familiar with. He knew that it meant she was getting ready to raise her hackles, and resist any notion of taking it easy.
+
+It was a common sight in their youth, but it had faded quite a bit in their last few years. But in the last seven months, it had only reappeared more and more, as they all noticed how far they had slipped.
+
+He believed that there was a time for being obstinate and driven, but this wasn't it. She was burning herself out.
+
+Finally, the energy wooshed out of her, and as she slumped down, Melinda nodded.
+
+“You're not wrong. I'm tired. We’re too busy trying to make the most out of this war and fix our deficiencies.”
+
+Mathew scooted his chair beside Melindas, and rotated her until he had her back in front of him. He started to dig his fingers into her shoulders.
+
+The little gasps were what he was looking for throughout his crusade against knots and tightness He would focus on those problem areas and gently work her aches and pains away.
+
+When Melinda was half asleep, he carried her to their bed and slid her under the covers. He went and showered his sweat off before joining her.
+
+There were so many things they should be doing, but what they really needed was a break.
+
+The next morning, he put his foot down and made the entire team take the day off. Together, they sat around and watched movies and relaxed.
+
+It did them all good.
+
+He spent the next afternoon distracting Melinda with a day of window shopping, and ended their evening in one of the parks inside the city. They ate a picnic made by Matt and himself that morning after they worked out together.
+
+He mostly helped by cutting things, or fetching things from the various bags of ingredients they had gotten on their way.
+
+Once the sandwiches were made and the salads were prepared, they only had to wait on the soup to cool down.
+
+Or so Matt said.
+
+When Mathew suggested turning the heat up higher so it would finish faster, he was kicked out with a warning that Matt would have it ready for their dinner.
+
+He really didn't understand the man's anger. If they cooked it faster, it would boil off the water, and he could package it up now and save a courier the trip. It made sense to him, but he also realized that he ordered out food a lot more often than he made complicated meals.
+
+As he dipped his bread in the creamy soup, he had to give it to Matt, the man could cook. And by the noises Melinda was making, he should get some lessons himself.
+
+It was an amazing evening; both of them had more energy in their steps as they went home. The date had reinvigorated them both.
+
+Things were pretty nice, despite the war going on behind them.
+
+Now, he just needed to save up for the taunting skills in the point shop. The problem was, they were all Tier 14 and expensive for their Tier.
+
+***
+
+Sam mixed a potion with Liz as they chatted about the recent happenings, but were careful not to interrupt their careful mixing.
+
+She had figured that things would be awkward once Liz had revealed that her parents were some of the strongest people in the empire, but the pair had quickly fallen back into their grove.
+
+With her AI reading her spiritual sense, Sam adjusted the temperature of the pot and stirred twice. The concoction turned to a vomit yellow, and she cursed.
+
+It was supposed to turn a shade of green, before returning to clear.
+
+Liz leaned over and tisked. “I knew that Fennel Root was bad. We should go back to that merchant and get at least part of your money back.”
+
+She thought about it; it wasn't the worst idea. She shook her head and said, “He could easily say that it was my concoction ,and not his herb.”
+
+She didn't add that it was already eating into her funds to try to make this poison. Kepler's Kneller was a potent vomiting agent that would debilitate a swath of enemies, but the ingredients were expensive.
+
+Liz threw around money like it meant nothing. If Sam had only known her parentage, she would have blamed it on her upbringing, but she had seen the woman haggle to the Tier 2 mana crystal for items. No, it was just that she and Matt were wealthy beyond their Tier, after selling more than one growth item.
+
+The partner to her friend hadn't successfully concocted the Astral Blood potion in her nine attempts thus far. Each attempt cost thirty times all of Sam's attempts.
+
+In a roundabout way, Liz had offered to buy the ingredients on their last shopping trip, but she declined. Sam had the points to spend, but it felt so much more wasteful when they were a limited resource, and they weren’t earning hundreds of thousands like Matt and his team.
+
+It was hard not to be envious sometimes.
+
+Still, she didn't want any handouts, especially from a friend.
+
+As she started scrubbing the failed poison into a waste disposal storage bucket, Liz helped her rinse and empty the vials. It was a nice gesture, as she had more downtime before her next step, where she needed to add the extract of a Silver Bear’s blood.
+
+Liz nodded to her workstation when Sam didn't move to start again. “Are you going to try again? We still have enough time left.”
+
+Sam thought about it but shook her head. “I need to get out of my own head. I’ve made potions harder than this. The shit product doesn't help, but I could have noticed that, and added the brine of Harpy eggs to prevent that.”
+
+“We all have off days.”
+
+The redhead looked worried about Sam.
+
+She waved the concern off. “It's fine. Really, it is. I just need to step away for a bit. What are you doing tonight?”
+
+Sam could use some girl time with someone not on her team for a change.
+
+Liz wiggled her hand. “I don't have plans, but we have team training early tomorrow.” She paused with a look that Sam knew meant she was reading her AI. “And I have a meeting tomorrow. Your Pather boss is a pain in my ass.”
+
+Sam had never met Talous, but the impression she got from Liz wasn't exactly a good one.
+
+“I was thinking we should go to the bakery and tea shop. I want a strawberry cake.”
+
+Liz nibbled on her lip and smiled a smile that was half predatory, half devious, and all-around attractive. She understood how Matt had fallen under her spell. She was as attractive as any woman could wish for.
+
+When Liz’s potion turned a peculiar shade of purple, they tossed the contents and cleaned up, heading off to get their snack.
+
+They were sitting around when Sam indicated that she wanted to talk, and Liz activated her trinket to block sound.
+
+“I was thinking about your Talent.”
+
+Liz just raised an eyebrow in both question and encouragement.
+
+“Have you heard of [Torch Sprite]?”
+
+At the woman's shake, she explained, “So I was trying to see what cheap Tier 8 skills there were, and if I could make something out of the box work. I happened upon the skill while I was searching.”
+
+Liz nodded. “The skill sounds like it would work with what I think you mean, but it would be a gamble. The report on the skill says it's iffy with control at best. It’s more general ideas than anything else.”
+
+Sam grinned and stabbed her cake in triumph. “Ah, but have you read Madam Delvers? It had a way to upgrade the skill to add more control. It could take a while, but you could get exactly that.”
+
+Seeing the ideas whirl around behind Liz’s eyes, Sam dug into her treat and preened internally.
+
+Friends helped each other. She wouldn't take the woman's money, but giving her a good idea or two felt good.
+
+***
+
+Vinnie dodged the wind empowered slash by rolling to the side to avoid the pretty woman's attack. He had every intention of asking the woman out on a date. Her dark skin glistened with sweat, which only made her starburst eyes all the more striking.
+
+He used his innate [Earth Manulapation] to raise a small wall to disrupt her follow-up [Wind Blade]. His tattered shirt was a testament to learning that trick.
+
+A gong rang, and the woman stopped her barrage of attacks and went on the defensive.
+
+Vinnie started with a [Earth Spear] that punched through the woman's [Wind Wall], but was slowed enough for the woman to be able to side-step it. He had the advantage through their elements, but that didn't mean that his opponent was helpless.
+
+She was forced to refrain from retaliating, but it was still good training. He avoided using the much slower [Earth Manipulation], and she avoided flying. They both could use the training, and the two instructors tried to discourage people from using instant-win conditions in every bout. That habit was only a good one until you fought someone with a counter.
+
+Instructor Adam stopped three flights down from Vinnie's sparring ring and started yelling at the two mages, Gerald and Yenna.
+
+The two gave half-assed effort in all of their duels, to everyone else's troubles.
+
+Hearing them get yelled at put a smirk on both Vinnie’s face and his unnamed opponent’s. Use of their AI was strictly against the rules for any reasons less than an emergency message, so Vinnie still hadn't picked up her name.
+
+Instructor Prices appeared out of nowhere, right next to their circle, and shouted at them, “Good! You want to laugh at others getting yelled at, do you!? Soo funny, isn’t it!?”
+
+Vinnie shouted at the top of his lungs, “No, ma’am!”
+
+The Tier 21 woman just shook her head. “No, I don't hear the right sincerity in your tone. I think you want to laugh, so let me give you something to laugh about!” She tapped a finger on her chin before grinning with malice. “Now I want to laugh... Five laps around the training yard!”
+
+That wasn't that bad, so Vinnie instantly began running to the edge of the sandpit-lined wall. Hesitation only meant more laps, and five was an easy sprint.
+
+“Hold up!”
+
+Vinnie and the unnamed woman skidded in the sand as they turned around to face the grinning instructor.
+
+“I want to laugh, but normal laps just won’t do the trick. I want you to jump like frogs for the five laps. Make sure you’re croaking while you jump.” Her grin split her face as she added, “Any jumps without a ‘ribbit’ won't count.”
+
+Vinnie turned and ran before any new additions could be added. He saw more than one person smirk and laugh at the sight of the two of them jumping like frogs. But, Prices caught everyone and gave them a new animal to imitate.
+
+He took a perverse pleasure in watching the growing farm behind him.
+
+Halfway through, he started using his [Earth Manipulation] to assist his jumps and send him farther. He only had to make a ribbit sound each time he landed, so increasing the distance of his jumps seemed like a good idea.
+
+His frog partner started copying his tactic with wind skills. They had nearly lapped the most recent offenders when he noticed Prices and Adam watching the two of them.
+
+He thought they were busted, but Adam winked at them, and Prices nodded slightly.
+
+That changed his perspective on the methodology of the soldier’s training, and for the rest of the day, he tried to use his skills in new ways to assist everything he was doing.
+
+People started noticing when he and his dark-skinned compatriot went to the mana stone pile more often than everyone else. It wasn't their money, and they abused the free mana with glee.
+
+Soon, everyone caught on, and they were cut free once the group had finished their assigned laps. That evening, Vinnie was finally able to make a move on his partner for the day.
+
+“So, care to get a drink?” Seeing her raise an eyebrow, he stuck out a sandy hand. “Vinnie.”
+
+She smirked as she shook the proffered hand. “Brianna. And I could use a drink... or eight. I think I swallowed half that sandpit by the time we finished.”
+
+Brianna unashamedly looked him up and down before a smile crept over her face, and she said, “Why don't we freshen up at my apartment? It's just a few streets down.”
+
+Vinnie smiled as he messaged his team that he wouldn't be back for the evening.
+
+He had better plans.
+
+***
+
+Kyle stretched in line with everyone else. To his team's confusion, he was taking a Proprioception class.
+
+He fully intended to get a melee instructor, but he wanted the personal tutelage, not a group class. After hearing how effective it was from Tara, he wanted to spend his points in the most effective way possible.
+
+But after his time fighting new people in the war, he had learned something crucial. His strength meant nothing if he couldn't hit his target.
+
+And with both his strength allocation doubling in effectiveness, and his regeneration cultivation boosting his strength further, he didn't need to worry about being strong.
+
+He needed to hit his target.
+
+Right now, that was hit or miss, depending on how many people he was fighting. In a mass battle, it was fine, and he was a harvester of lives. But in a one-on-one fight, it was a questionable proposition at best.
+
+In his training with Matt and his team, he did the worst out of everyone. He was just too slow with his massive sword. Even when he was fast enough, he couldn't control his body with the precision he needed to do any damage.
+
+He still had every intention to keep his massive greatsword as his primary weapon, but he wasn’t going to be dumb about it.
+
+After Matt had nearly beaten him in a wrestling match, he concocted his plan. Matt hadn’t nearly won through greater strength, but through wiggling like a fish.
+
+The instructor called out, “Now bend left.”
+
+He planted both of his hands flat on the ground while keeping both of his feet planted.
+
+Kyle groaned as he tried to get his left hand to the ground without bending his knee too much. He could feel his body protesting the unnatural position as things in his back pulled and twisted in ways they weren't meant to.
+
+He ignored the burning that only increased as he held the pose.
+
+The second instructor came and wordlessly tapped his right foot. With sweat running off his face, Kyle tried to follow the guiding taps, but lost his balance and had to scramble up and reset.
+
+The instructor was a shorter man who quietly said, “You need to breathe more.”
+
+Kyle opened his mouth to say that there was no way to breathe when bent like that, but the man stopped him and smiled over him.
+
+“If you can't breathe in a position, you’re trying too hard. This isn't fighting, or strength training. Flexibility will only come with time. Don't force the positions. Just relax into them as much as you can.”
+
+Kyle took the advice as it was meant and reset.
+
+The instructor tapped his foot again, and this time, he was able to bring the foot out. That adjustment allowed him to go deeper into the bend without discomfort.
+
+As the lead instructor moved to a new position, Kyle groaned. This was going to be a long two weeks.
+
+He almost wished he hadn't signed up.
+
+Almost.
+
+***
+
+Melinda sat in the hospital room with Baxter. They had a monster strapped down and sedated.
+
+It was so drugged up, it was guaranteed to feel nothing. In fact, the creature was so sedated, it didn’t even have the energy to bite and claw at them.
+
+If she wasn't well aware of what this monster could do when awake and aware, she would have never agreed to this.
+
+Doing their testing in a hospital felt wrong somehow. Almost unfair in a way. At least when they went into a rift, they were being attacked. This felt cruel, even though she knew all too well that if this bear monster got free, it would try to kill everything and everyone around it.
+
+She knew that lesson all too well.
+
+With a small burst of willpower, she targeted her Concept on the monster while the monitors beeped around her.
+
+As her Concept tore at the spirit of the monster with slightly amorphous blobs of darkness, she cast [Ranged Heal] and tried to prevent her own Concept.
+
+There was resistance, but the spell faltered. She then cast [Directed Heal] and tried the same again.
+
+She once again failed, but the experience got her slightly farther. She was so close.
+
+Baxter waved his hand when the monster was little more than a pile of goo, and the mess vanished. Then, he vanished for a moment, and the fifth monster suddenly appeared.
+
+While Baxter was gone, she inspected the instrument's readouts and used the data to adjust her approach for the next attempt.
+
+This one was a giant squirrel that chittered slightly as the sedative knocked it out.
+
+Melinda met the red eyes with her own, and even with the monster nearly unconscious, she could see the hate and rage in its eyes.
+
+She activated her Concept and repeated the process once again.
+
+A failure. And more analysis of the acquired data..
+
+It wasn’t until their thirteenth monster when something fell into place. With an apparent mind of its own, her healing spell attacked her Concept like a rabid dog.
+
+Her Concept broke with a headache-inducing rebound effect, but she had done it.
+
+Baxter had comically wide eyes. He blinked several times before his jaw slowly dropped.
+
+“I can't believe you did it...” Seeing her look, he shrugged and grinned. “I hoped for it, of course, but I didn't think it would actually work. That's...”
+
+She filled in for him, “Impressive? A visualization of my hard work?”
+
+“‘Unbelievable' was what I was going to go for, but sure, if you want to fluff your own ego... This is as good a reason as I've ever seen. Congratulations.”
+
+They spent another two hours testing until the headache from Melinda’s Concept breaking over and over finally grew too large, and she had to stop.
+
+That night, she celebrated with her team and asked Matt to meet her. Now, she had gotten her Talent to interact with the spirit. It was natural to make the changes she wanted to.
+
+She tested with Matt, and found that it was easy if detailed work to coerce her spirit to accept a copy of the changes that the Tree of Perfection had wrought on his body.
+
+The changes that only took a year for him would take at least three for her without the energy provided. Though, if she had Matt to constantly feed her mana with his Talent and Concept, she could do it in a week.
+
+Baxter was even impressed with the amount of mana Matt generated, although he didn’t show it. He only shook his head when they did the math. Without a higher Tier giving up a mana stone, rapidly changing a body to perfection was a pipe dream.
+
+That didn't stop them from very carefully applying the same transformation to her team. It only took an hour, and a few thousand mana. The changes would take longer, but with Matt’s help, they could have been done in a few months at most.
+
+Even if they didn't enlist Matt’s help, they found that the process only stole a small portion of the essence that they had absorbed. Instead of going to their spirit, where they would normally allocate it, it was funneled off into their body. But the percentage was so small, it was hardly noticeable.
+
+Melinda was dreaming of healing old age when the call to battle sounded. Everyone in the Queendom was called up, and ordered to join the armies going to siege the Kingdom's cities.
+
+Considering they still had nearly two million soldiers on a healing cooldown, it seemed like madness, but here was their chance to earn more points.
+
+They just needed to perform well.

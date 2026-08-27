@@ -1,0 +1,265 @@
+---
+id: 93ea8384-6c52-57e0-935e-bc86f75321af
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 403"
+slug: 0101-the-path-of-ascension-chapter-403
+partOf: the-path-of-ascension
+position: 101
+ownLength: 5177
+unit: words
+ownProgress: 5177
+publishedAt: 2025-04-18
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2212941/the-path-of-ascension-chapter-403"
+royalRoadId: "2212941"
+markedReadAt: "2026-06-29T19:21:15.411Z"
+---
+
+Chapter 403
+
+Giving Esmeralda and Jericho the devices they had stolen from Raffi, the six of them sat in the suite just decompressing for a long few minutes after the last stressful few weeks. It felt much longer than that, but, in reality, it had only been a short few weeks.
+
+Allie sighed as she popped to her feet. “Want me to start digging once we get any leads? Once I get something, we can start making them really hurt.”
+
+Phoenix Liz fluttered off Matt’s shoulder and gave Allie a feathery hug before pecking her on the head.
+
+“Ow. You could have said so nicer. With actual words.”
+
+Liz grinned. “Thank you, Allie, but no. At least, not for now. I’m not happy, but we are far too weak to actually fight these people, even if we identify them. Which we haven’t done, let me remind you. And I don’t need you getting squished for me, even if I appreciate the offer.”
+
+Returning with a plate of finger food from the suite's kitchen, Allie started munching on the various fruits and snacks.
+
+“What's your plan now, then?” Susanne asked the question they were all pondering.
+
+Liz looked towards Matt and Aster. “We need to do four things, as I count them. Work on repairing my reputation. Finish clearing the mess these assholes made of Aster's initiative. Start looking out for shit they might be stirring in our duchies. And, finally, Matt needs to do more PR stuff as the skills spread. While Raffi’s hatred towards me seemed more for our ducal reforms, I don’t think he was lying when he said we ruined business interests of the society he was a part of. We can’t start worrying about everything else and then forget what forced their hand to begin with. Actually, five, because I want to check in with Melinda and see if she needs additional help since Raffi didn’t spill. I don’t like secret research facilities tainting the reputation of blood magic any more than they already have.”
+
+Matt winced. “Sorry about that. I knew the skills would have a reaction, but I didn’t think it would be quite as big as it turned out. At least from our enemies' reaction. I expected something more along the lines of the aura potion. Not an attack on your character.”
+
+Liz leaned over Aster and rubbed his hand. “You aren’t to blame for the reactions of others.”
+
+Matt was nodding when he saw her swipe a handful of food from the tray. Wanting to lighten the mood, he gasped. “You didn’t really feel bad, you just wanted snacks.”
+
+Liz just made a motion like she couldn’t hear him over her perfectly quiet chewing.
+
+Seeing her grin, Matt looked to Susanne and Zack. “What about you two?”
+
+Zack looked at his glowing hand. “I really need to return to this.”
+
+Aster leaned over Susanne grabbed the hand, and wiggled it, which showcased its weird after image effect. “Yeah, what did you do to your hand?”
+
+Zack absently allowed Matt’s sister to draw shapes in the air with his hand as he explained, filling his plate with telekinesis instead. “I have been corresponding with Ellen as of late, and we have been studying historical Ascenders in an effort to replicate some of their notable capabilities. Willoh - the Legend, not the Master of Willow Streams - was known for possessing a hand which was simultaneously wholly physical and spiritual, enabling him to physically interact with mana in ways that could be further modified with skills and other Natural Treasures. I am currently experimenting with a combination of Wraith Claw, Last Moon’s Breath, and an Arcane [Palm of Tranquility] for stability and safety. Unfortunately, when actually testing it, I discovered that the combination had not adequately kept my spirit and body in-sync, so while it technically works, the delay between my biology and spirit renders it largely useless. I have more luck with fine manipulation utilizing my Domain.”
+
+“You said it’s a skill, right? Why can’t you just turn it off?”
+
+“It is [Palm of Tranquility] which enables my hand to move at all, and that is still after several additional methods of temporary stabilization to make myself mobile enough to travel. What I am doing now is not dissimilar from running a strength buff to bypass a broken arm. Simple enough to do, and not hazardous with proper care, but nonetheless frustrating to work with. Ellen has some ideas in regards to what will fix it, as do I, but we’re still working on gathering the required materials.”
+
+Matt leaned forward and inspected the arm before pulling himself away.
+
+He had way too much on his plate to start getting involved with a new project right now.
+
+Still, he couldn’t help but say, “Send me what you ran into. I'd love to look it over when I get a minute. It's really quite fascinating.”
+
+Zack did so, and Matt sent himself a reminder for a few months out. Surely he’d have more time then.
+
+Susanne got them back on track with a nod to Aster after swallowing her own snack. “I’m willing to help where I can. At least until my next delving block, but that's five years out, and I don’t have anything critical to do until then.”
+
+Aster tried to thank her, but what came out of her overstuffed mouth was unintelligible.
+
+Seeing just how much the others were enjoying the snacks, Zack included, Matt tried one, only to open his eyes wide.
+
+“You assholes could have told me these were from Tal Vesti’s and not the staff here.”
+
+Grabbing the last of the food off the plate, Matt frowned at his meager portion. Tal Vesti’s was a Talented restaurant they had been to a few years ago, and the owner and chef occasionally sent food up to their suite if they were at the Capital.
+
+The style had been so unassuming, he had assumed it had been made by the hotel staff, but now the others' behavior made a lot more sense.
+
+Fiends, all of them.
+
+Food platter demolished, their chats turned to the news as they caught back up.
+
+Liz’s name had been cleared ostensibly, with all of the higher Tier news channels having retracted their statements. But the few weeks were also enough time to have new scandals pop up and push her story off the headlines.
+
+That wasn’t the worst thing, but Matt agreed that Liz would need to do her own press tour to help reestablish her Ascender image.
+
+Being a bloodthirsty or ruthless Ascender wasn’t necessarily a bad thing, as many Ascenders throughout the Great Power’s history were feared more than liked. In the Empire, that meant more negative news stories, but power shone through them all. He also knew Liz was sensitive to the ‘blood mage evil’ perception, and wouldn’t accept that outcome.
+
+He also knew she was right. He needed to get out there and do more interviews with the new skills, even if he had wanted to avoid it.
+
+They, at least probably, had some time before the next attack, given their response to the last one and their pattern of attack.
+
+Though, Matt wanted to attack first. “So, about the society. We can’t attack them directly quite yet, given our Tier and their probable Tiers. But I had another idea that could piss them off and possibly even make life difficult for them once we figure our target.”
+
+Matt had everyone's attention at that statement. “Let’s force our way onto several school’s Board of Governors. Once there, we can start making waves until something splashes back. I’m sure most of the people on those boards are part of the stronger societies. Throwing wrenches in their plans is a good first step to finding society members.”
+
+Aster put her hand in the air. “Oh, I’ll do that. That sounds like a blast and I’m the only one here who actually was a part of an academy.”
+
+Matt shrugged. “I figured we all do it. Once we have leads, pick the three most suspicious academies and buy our ways onto the boards. Go on the offensive. It's not like the boards meet up all that often. It's usually once a decade. We should be able to work around that.”
+
+Liz shook her head. “I doubt that would actually harm the societies. They are far more than a school board. That would just be a waste of our time even if we knew the society in question and their assets. No, we need to wait for the information on Raffi’s data to come back and we can start chasing down people he was in contact with and unravel things that way.”
+
+Midway through his idea, Allie groaned as she leaned back in her chair. “Ugh. No, we actually got a job. This one is your fault though, Matt.”
+
+Matt checked his AI and looked for any Imperial messages, but found none. Just when he was going to say something, a forward arrived from Allie.
+
+The heading immediately caught his attention because it was from Carissa, Manny’s wife.
+
+Reading deeper, his eyes went into his hairline.
+
+Winter Hornet was requesting a meeting with the ascender who had brought up the knowledge of the new skills.
+
+Apparently, Rah had agreed to the meeting, and Carissa had okayed it in Manny’s place, but someone, specifically Allie, needed to bring Rah to Sect space and back. Safely.
+
+“How did he even find out about Rah? Did Sien spill?”
+
+Aster's question was a good one, but Allie shook her head. “No, I already asked Carissa. Apparently, he figured it out all on his own, due to the different structure and ideology behind the skills.” Popping to her feet she clapped. “Chop chop. Up! On your feet. You are all coming with me. I’m not quarantining alone. That shit sucks and if I have to suffer so do you.”
+
+Matt sighed and leaned back on the couch just to annoy Allie. “I’m sure he's not the only one. I didn’t hide that we got the info from someone else and just polished it up. It's not like ascenders are unheard of in our realm, just really rare, so it's not that crazy he, or more likely his people, put the clues together. I’m just surprised that Rah said he's ok with it.”
+
+Allie rolled her eyes. “Let's go ask him. Get on your feet you lazy bums.”
+
+A second later they were on Titan Torch’s moon, just outside Rah’s compound.
+
+Luna greeted them with a yawn as she lay in a sunny spot in cat form. Next to her was Ciceron who looked… disheveled was the most polite word Matt could come up with.
+
+Rah, however, looked as put together as always, but from his body language was clearly frustrated as well.
+
+“Yo!”
+
+Allie announced their arrival with a wave.
+
+Rah blinked up at their arrival. “Thank you for coming, Allie. I didn’t want to impose, but Carissa said you were willing and it would save years of travel.”
+
+“It's fine. I don’t like being a taxi, but helping a friend is enough reason to do it. Really, it's just about making sure everyone knows I’m not at their beck and call.”
+
+Rah stood and looked down at Ciceron. “Let's call it a break here and we can resume when I get back in a day or so with fresh eyes and minds.”
+
+Ciceron groaned. “No I don’t need a break, I need to figure this out. I swear the answer is right in front of me, I just can't see it.”
+
+Matt looked to Luna, who just swished her tail over her eyes and flattened her ears, pretending to not hear any of it. “We’ll talk about just what you did to your spirit when you get back, Matthew, but I don’t have the energy to deal with two idiots right now, so begone.”
+
+Allie gestured, and Rah appeared next to them. Before they could be stopped, they vanished to appear on Yun Me’s world.
+
+Instead of the Sect’s strongest non-Ascender waiting for them, they found a clone of Winter Hornet. That had been part of the deal Carissa had struck, and had been in the briefing, though its presence to Matt was all but indistinguishable from that of a proper Tier 50.
+
+Before having interacted with the man and Sien during the end of the war ceremony, Matt would have been nervous being in front of an enemy Tier 50. But out of all of the Tier 50s, he was probably afraid of the Sect’s leader the least.
+
+He’d surely lock Matt up if he could, but he also respected personal strength to a fault, being willing to attack Virgil when she threatened Aiden in his battle.
+
+So long as his Talent was a secret, he was safe near the man, and he had filled his mana pool, making his generation practically zero, so even if his veil was pierced, nothing of consequence would be noticed.
+
+“Ah, it is good you brought guests, Ascender Long Shadow. Everyone else, welcome back.”
+
+Turning to Rah, Winter Hornet bowed. “Welcome to our Realm. I am Grand Elder Winter Hornet, as I am certain you are aware, and speaking to one who has reached the apex of their home, I greet you. Furthermore, I desire to present you with an award recognizing your capabilities regarding self-created skills. They shall surely forge my people into ever-greater versions of themselves for all time and eternity.”
+
+Having said that, he bowed once more, deeper this time.
+
+Rah returned the bow deeper still, saying, “I simply shared with Ascender Titan what I was paid for. He and his people improved on what my own had done. My realm is… less developed than yours. Maybe less connected is a better word. There are no entities such as yours in my realm, and it has resulted in less formal development of some things. It should be him you thank, not I.”
+
+Winter Hornet’s gaze moved to Matt and stared at him for a long minute before nodding. “Indeed, Ascender Titan. Sharing such information freely was foolish.”
+
+Matt blinked at the rebuke, not sure how to take it, but was even more confused when what felt like Winter Hornet’s Domain - despite the way a [Clone] shouldn’t have one - shifted into conveying a specific shade of enjoyment, despite the man’s physical bearing remaining unchanged. “That said, I thank you for doing so. I will have a suitable gift delivered, but I had believed you were only acting as a cover for our mutual friend here, and so didn’t prepare one. For that, I apologize.”
+
+Turning back to Rah, the Tier 50 spoke as a box floated over from the nearby table. “Carissa mentioned that you were working on an older, more traditional ambient essence cultivation style, and found the Empires’ records lacking.”
+
+Rah’s eyes went wide, as did Matt’s, as they realized what was in the box.
+
+Winter Hornet didn’t move, but his Domain shifted into a strange mix of approval and disapproval. “The Sophrons rose in flames, burning the old to make way for the new. And yet, it is a truth that fire rarely discriminates, and thereby has lost much of what it once was. Yet, preparations were not made to preserve such knowledge, no Elders hiding away valuable knowledge whereupon a future generation may yet stumble upon them. Had you ascended into the old dynasty, or had they taken proper precautions for their inevitable usurpation, this information would likely have been made available to you and I have some curiosity as to what you might become with it. Within this is a fairly comprehensive set of manuals and teaching aids pertaining to ambient essence cultivation. Perhaps some of it may prove useful to you. Sadly, none of these techniques are truly exceptional, as time more than malice saw to it many of these records were lost as they were deemed worthless.”
+
+Rah bowed even deeper. “Thank you. This means more than I can convey.”
+
+Winter Hornet’s happiness intensified to the point it was nearly painful, and he gestured for a second box to float over in front of Rah. “Gratitude is valuable, but you underestimate what is rightfully yours and requires no thanks. My next gift is freely given. A writ of Sect Elder status. It carries with it no duties, but should you ever desire it, you may found your own Sect. Even a Sect of a single person, should you simply desire to settle within the Hierarchy of Sects and be left alone. From my understanding, you may find our society more comfortable than the Sophron Empire.”
+
+Matt raised an eyebrow at that comment, wondering if Carissa had informed Winter Hornet about Rah’s realm.
+
+Rah took the second box much slower but bowed all the same. “Thank you. I can’t promise I’ll use it, but thank you, nonetheless.”
+
+Winter Hornet gave a dismissive wave, and his happiness changed inscrutably before a third box appeared out of nowhere.
+
+His next words caught them all off guard. “This isn’t a gift or reward, but a payment. I desire manuals for every technique you possess of base Tier 14 and below.”
+
+Rah’s eyes widened, but he remained silent for a long few minutes. Finally he said, “I would prefer to not share that information. I shared all of the easy to create Tier 0 skills I had with Ascender Titan, and was willing to do so with you, but they were found nonviable with this Realm’s level of technology and availability of skills.”
+
+Winter Hornet didn’t even waver. “I am strong enough to compel you. Not with force, of course, for my power is hardly so limited. Yet I am certain you shall give way, once you see the payment.”
+
+Rah’s shoulders slumped as he asked the question Winter Hornet was waiting for. “And what is in the third box?”
+
+“The full cultivation method of Nahla of Waves Rise. An ascender who arose from a realm about a million years ago or so. She landed in the Sects, and founded her own as befit her strength and power. In her glory, she rose all the way to Tier 47, taking on a leadership role before Ascending when she lost her bid for Tier 50. Before she left, she recorded her cultivation technique in its entirety, along with her notes from before she arrived in our realm, as well as her notes of her adjustments post arrival in this realm.”
+
+Matt leaned forward with nearly everyone else except Rah, who stood there in stunned silence until he shook himself awake.
+
+“That would be a price worth paying. But why, if she arrived in the Sects, do you not have this information already?”
+
+Winter Hornet’s Domain wavered for the first time, becoming one of disappointment. “A very interesting question and one I wish I had an answer for. There was no mention of an ability to create skills in her preserved writings. Which means either she didn’t come from your realm, or she is so old she predates your method’s spread, and you somehow never heard of her or her time. If she had this ability, she chose not to share it, even at the height of her power, which I find unlikely given her recorded personality. Or, someone wiped the information, which I would be very keen to uncover if so. Sadly, all I have is speculation.”
+
+Rah nodded slowly. “May I see the beginnings of her techniques? I have seen many a cultivation technique in my time. Especially for beginners, so I should be able to see if the methodology matches anything I know from my realm. That won't guarantee that she didn’t come from my realm, but it would mean she didn’t come from the interconnected areas that I was in.”
+
+Winter Hornet made a show of thinking for a moment, before nodding and holding out a sheet of magically conjured paper to Rah.
+
+After taking it, Rah scanned it before handing it back, and then conjuring what Matt recognized as his first few cultivation layers with its stars and eddies.
+
+“That is like nothing I’ve seen. This projection is the Tier 1 technique which I utilized, and its methodology is wholly dissimilar. Even in its variations, my people believed they harnessed the power of the stars, and our methods reflect that. This to me seems more like a methodology of building a tower. Interconnected, and reaching both up and down to create a firm foundation. It's quite marvelous.”
+
+Winter Hornet approved. “Fascinating. I wish we could ask her, but this realm rarely gets ascenders. Common belief is that, if there is a realm connected to ours, they aren't that advanced, but I believe there simply isn’t a realm connected to ours, and only people like yourself and Nahla, who are blown off course, so to speak, arrive here. Shame, given how much there is for us to learn from just a single person.”
+
+They sat there in silence as Rah pondered the offer, long enough for Allie to start asking Winter Hornet questions about his history.
+
+“Ey old man, people in the Empire say you are happy you were born a slave; is that true? Feels like bullshit propaganda, so I wanted to ask.”
+
+Winter Hornet’s attention focused on Allie for a moment before answering, “That question has many answers, as things change in a life as long as mine. Now, yes I am happy for it. When I was a slave, no, I wished with all I was for it to be different. I wished for an easy way out. For someone else to change the slave pens, the sect, the planet, the Sects as a whole, or even the realm itself and save me. I wished to have a life like I heard rumors about in the other Great Powers. I dreamt of soft beds, of warm feet, and full bellies. But now that I am older, and possibly wiser, my perspective has shifted. Ignoring the philosophical question, that if my life was different, would I still be myself, my early years shaped me more and in more profound ways than the ones that followed. I learned that no one will save you except yourself, and the hatred that burned within me fueled my rise farther than other more transient motivations. Risk must be smartly balanced against reward, and sometimes you need to be willing to bet everything to win, but you also need to know when to surrender. I am the man I am today because nothing was given to me. I earned everything through my own efforts. I had no easy way out, and that made me capable. It was cruel, but there were clear ways to escape for those of us who were willing to put in the effort. I was not born exceptional, but I made myself extraordinary. It is not the only path, but it was mine. So yes, I am happy I was born a slave.”
+
+Allie just looked at Tier 50 strangely. “Has anyone ever told you that you're a weird fucking guy?”
+
+Winter Hornet burst out laughing at the comment. When he got himself under control, he nodded deep enough it was almost a bow. “Many times Ascender Long Shadow, many times. But I am who I am, and I am happy with who I am.”
+
+Full of merriment, the Winter Hornet waved and a scroll appeared. “Give this to Ascender Drowning Waters when you return. I painted his moment of glory and wanted to give it to him in thanks for showing me something so exceptional. I am still working on one to commemorate your victory, Ascender Long Shadow, but I have yet to feel truly compelled. As marvelous as your feat was, it was rather eclipsed by Ascender Drowning Waters’ moment of glory. In other circumstances, I might have presented this with far more pageantry, but I know how little he cares for such things.”
+
+Allie plucked it off Winter Hornet’s hand and unraveled the scroll, showing them the artwork.
+
+It was genuinely master level work.
+
+Looking at it instantly immersed them in a battlefield whose place could have either been in deep space or the deep oceans, cloying blacks and oppressive blues seamlessly flowing outwards from an exceptionally radiant Aiden, glowing with tentacles as he hunted the minnows around him, and the tentacles snatched ships and people, breaking them in half and dragging them into absolutely impenetrable depths at speeds Matt couldn’t even follow.
+
+Aster whistled. “That's really well done. Any chance you have one of me being super cute?”
+
+Winter Hornet acknowledged the compliment. “I must apologize, as I do not. Do something truly exceptional, even amongst your Ascender peers, and maybe inspiration will strike me.”
+
+Aster nodded. “Deal. And I’ll hold you to it.”
+
+Rah finally seemed to finish his internal deliberations. “I can accept this deal on one condition.”
+
+Winter Hornet inclined his head towards Rah, giving the man his full attention. “Naturally. Though I do not possess enough feathers to truly offer anything, the Realm is within my grasp.”
+
+“If I give you the skills, I will share them with Ascender Titan. I already did for the lowest Tier ones, and some of the higher Tier ones, but I would feel remiss if I went back on my word thanks to being tempted.”
+
+Matt immediately waved the comment away. “Rah, don’t feel like you owe me anything. You’ve seen my intentions. They would just be interesting curiosities to me. I’ll let the masses of people make their own skills so they may profit off of them. I simply wanted the things that could help the poorest of people. There is no need to give up this trade for me.”
+
+Instead of looking relieved at Matt’s reassurance, Rah just looked more conflicted.
+
+Winter Hornet made things worse by bringing his full attention onto Matt. “You are truly unique, Ascender Titan, are you not? Selflessness is good for a frontliner, yet you are not a true defender. You do everything to your utmost. Stronger than a warrior, more magical than a mage. A true Master in your hybrid style, yet most individuals I have met like you think of themselves as the most important person in the Realm, the one to whom all things are owed. The Master of All certainly did, and that ultimately killed him. There is much you dabble in, yet you never give anything anything less than your full capability. It matters not whether your guild is but a passing fancy, for you would never allow yourself anything less than full commitment to it, giving away secrets that could easily define a powerful Sect to all those who would listen. Do you have some grand, nefarious plan you wish to monologue about, by any chance? It would certainly prove enlightening.”
+
+Matt met the Tier 50 clone’s eyes without wavering. “No. Believe it or not, I’m dumb enough to truly want to help people.”
+
+For the first time, Winter Hornet’s emotions became that of steel, and Matt saw the Tier 50 who had climbed over a pile of corpses to rise out of the slave mines he had been tossed into. “Do not disparage yourself, Ascender Titan, it is unbecoming. Those with power set the trends. Not the sheep or the cattle. If your goal is generosity, it is not foolish, it is right. If you wish to hoard your power like a dragon, that is also right. The strong are right, and doubt is for those who are wrong. The desire to bend the Realm in your passage is not foolishness, it is the only endeavor truly worth pursuing. Let all those who follow after you do so upon a monument of your greatness. Already, the techniques and potions you have provided the means to create have empowered even those who may claim to be your enemies. They curse you but they suckle at the teat of your generosity like a hungry cub. That may prove to eventually become your undoing, should you overestimate your own might. A secret shared is a secret dulled.”
+
+Winter Hornet paused for a moment, “Though a dulled dagger would hardly be the worst weapon a Master has utilized to grand effect. No matter your path, Ascender Titan, never apologize nor denigrate yourself for your goals.”
+
+Matt nodded to acknowledge he heard the Tier 50, but he disagreed. “I don’t disagree that greatness can come from hardship, but I also don’t believe it's a necessary ingredient either. I'd much rather let those who are hungry, as you say, chance the dream regardless of starting wealth, while ensuring everyone else can be comfortable.”
+
+Winter Hornet returned to polite interest. “To reshape the Realm in your passage is the only goal which matters. Perhaps you shall surprise even me, for all that I disagree with your philosophy. I shall be watching you with great interest, and perhaps someday you shall compel me to gift you a painting as well.”
+
+He then became far more somber. “It is a pity you weren’t born within a Sect. You would have made a truly fascinating Young Master.”
+
+Matt vehemently disagreed, but just nodded once more, letting silence return to the room.
+
+It didn’t last for long, as Winter Hornet commented on Zack’s arm and tried to barter a technique that might be of some help with his endeavor. Once that failed, he talked to Liz about her Ichor. Once she made it clear she wasn’t interested in selling enough blood essence to allow someone else to convert their bloodline to Ichor, he turned his attention to Aster and asked about her efforts to create her ideal Rank 1 bloodline with a Level 5 mana type that didn’t exist. He even had a pointer or two to share with Susanne about her sword writing.
+
+The threat, if it could be called that, was clear, even if it was given in idle chatter. He knew all about them, and was kept well informed.
+
+Thankfully before too long, Rah saved them by standing and bowing. “I will accept your offer, so long as you allow my condition, but without it, I can’t in good conscience break my word.”
+
+Winter Hornet became pleased and returned the bow. “Then let the deal be struck and sealed. I truly hope you make a name for yourself, Ra’thala from a lower Realm.”
+
+Rah waved at the data pad Winter Hornet’s clone presented, and after tapping at it a few times, he nodded. “Marvelous. Unlike Ascender Titan, I shan't be sharing these around, so worry not. I am grateful for your visit, but I must return.”
+
+Having said that his body, pad included, vanished into a puff of mist.
+
+Aster started mumbling about what she had seen as Allie teleported them all back to the Empire, where they could quarantine.

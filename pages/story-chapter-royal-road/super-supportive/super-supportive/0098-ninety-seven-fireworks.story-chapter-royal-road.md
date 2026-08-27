@@ -1,0 +1,835 @@
+---
+id: 7534e4f9-d86e-5117-b0a9-5d1f3e495eb6
+page-type-slug: story-chapter-royal-road
+title: "NINETY-SEVEN: Fireworks"
+slug: 0098-ninety-seven-fireworks
+partOf: super-supportive
+position: 98
+ownLength: 6437
+unit: words
+publishedAt: 2023-12-03
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1430929/ninety-seven-fireworks"
+royalRoadId: "1430929"
+---
+
+97
+Alden didn’t write his name or the names of any future targets on The Beat List. He did see a lot of the other B’s update their personal hit lists, though, while he was putting his sandbags back in the correct stack.
+
+
+Not a single bag had burst. They were bulletproof, according to Rahul. You might as well be bulletproof, too, Alden thought as he zipped his empty suitcase back up and lifted the telescoping handle.
+
+
+Though it had been wounded during its assault on the club president’s cart full of junk, it hadn’t died yet. It had a crushed corner, and one of the front pockets was badly ripped. But its wheels hadn’t taken a hit. It still worked, so it was obviously volunteering for one more round of duty.
+
+
+“Not joining the competitive crowd?” Max asked him. He was putting the drone he’d borrowed earlier back on its shelf.
+
+
+“Nah.” Who was Alden going to put on a hit list anyway? Winston? He’d had his fun “beating” the guy at the drinking game. Besides, the speedster was so jealous of Finlay he was practically punishing himself, and targeting a particular classmate for the sake of it sounded like a recipe for hard-feelings all around.
+
+
+“If I beat someone, I beat them. If I lose, I lose. I’ve got enough goals to keep me busy for the next couple of years anyway.”
+
+
+Rahul said not to bother with the list unless it was motivating. Alden’s motivation was growing more powerful so that in the future, doing the right thing would be easier and he would be less likely to die in painful, gruesome ways. One-upping a guy from New Hampshire in gym class didn’t really inspire him.
+
+
+Anyway, the girl at the top of the list who seemed to be systematically destroying second-year A’s wasn’t even participating by choice. Francis and BeeBee had put her there, and they were keeping track of her victories every week.
+
+
+Ella-Clara. She’d occupied Instructor Plim’s time for most of the hour, discussing something. Alden hadn’t seen her using any powers.
+
+
+“Probably a good attitude,” Max said. “I don’t think we’re going to be dueling in class on the first day anyway. Competing in some fashion seems unavoidable, but just throwing us at each other again and saying ‘fight’ wouldn’t be that practical.”
+
+
+True. A lot of their classmates were anticipating or dreading duels, but if there was a fighting component to gym tomorrow, it would hopefully involve someone who knew what they were doing actually teaching them. Instead of everyone going at each other in a repeat of assessment day.
+
+
+Max wasn’t making any moves to add his own name to the list either. They headed for the locker room.
+
+
+“Do you know what the girl at the top of the The Beat List does?” Alden asked.
+
+
+Max nodded. “Figurinist.”
+
+
+“Figurinist?”
+
+
+“Take a minute to look it up if you need to,” Max said. “I had to.”
+
+
+“They put on magic puppet shows? Am I remembering that right?”
+
+
+Figurinist was an ultra-rare he’d only read a brief description of when he was looking through class lists.
+
+
+“And I thought they were all low ranks?” he added as he claimed a stall for himself to change in. “I mean actually low. Not Apex-low.”
+
+
+“They were.” Max’s voice echoed. “The System made around a dozen of them over the years. All D’s and F’s. Guess it was field testing. And now it’s made a B. Just one as far as anyone knows. She might as well be a U-type.”
+
+
+Alden looked up the class while he dressed. He found a channel where a Tibetan Figurinist in an Avowed zone showed off his powers. A small man-shaped figurine, made of what looked like aluminum foil, walked around a miniature kitchen and fried a quail egg in a tiny pan.
+
+
+That’s some seriously fine detail and control. I’m glad this guy is raking in views.
+
+
+“It’s like a little mind-controlled doll. Just one?”
+
+
+“Just one. But Ella-Clara’s is bigger according to the girl I asked.”
+
+
+“How big?”
+
+
+“The same size as her.”
+
+
+“Cool.” If a mini one could fry an egg, then a big one could probably fight.
+
+
+He stepped out of the stall. Max was changing shoes on one of the benches.
+
+
+“Before you go,” he said, just as Alden was turning to head out the door, “that favor you owe me…”
+
+
+“From the party.” He’s calling it in already? That’s fast.
+
+
+“Have you got anything but your skill and Haunting Sphere?”
+
+
+“Is answering doing you the favor, or are you checking to see what kind of favors I can do for you?” Alden asked.
+
+
+Max looked up from his shoelaces. “Don’t be cheap. It’s the second. Unless you’re about to make some kind of major revelation.”
+
+
+“I can interrupt weak enchantments,” Alden said. “And make small flames. Light Candle.”
+
+
+“Utility abilities,” Max said thoughtfully. “Okay. Have fun tonight.”
+
+
+“Yeah. You too.” 
+ 
+ 
+*********
+ 
+
+
+Alden didn’t realize why they’d just told each other to have fun until he stepped out of the bright MagiPhys building. The campus pathway lights had all been cut off, and lines of small lamps shone along rooftops and walkways. He’d seen a few last night from his dorm window, but he’d collapsed after all the shopping and furniture moving and hadn’t thought much of it.
+
+
+Right. A lot of people are celebrating Diwali, and tonight there are supposed to be—
+
+
+A crackling sound filled his ears, increasing in volume, and he stared up as a silver-blue comet sailed overhead, leaving a trail of subtle luminescence in its wake.
+
+
+It didn’t look like any firework he’d ever seen. And it was just the first of a dozen light shows he would run across as he made his way back to the dorms.
+
+
+A group of university students on glow-in-the-dark bicycles were trick riding around the campus. Some of them definitely knew what they were doing with their spells. Alden saw a trio ride up the side of the Forthright building, where they were greeted with loud cheers by the high schoolers on the roof. It was a big crowd, judging by the number of beams, fireballs, and other glitzy spells going up into the air from that location.
+
+
+There were teens, and quite a few adults, running around with sparklers. And Alden paused for several minutes to admire the hard work of a team of Shapers who were building a multi-element mandala pattern in the air over the entrance to one of the dormitories.
+
+
+Garden Hall had its own light display, courtesy of someone who had programed small drones to fly around making emojis over the planters. As he approached, he thought he recognized the girl standing beside a pot of basil, staring up at a winking smiley. When another one of the silver comet fireworks shot across the sky, its light illuminated her well enough for him to be sure.
+
+
+“Maricel!”
+
+
+He jogged over, his suitcase bouncing along the pavers behind him.
+
+
+“Hi, Alden. Are you still moving things from intake?” she asked, looking at the luggage.
+
+
+“No. This is my partner. We do battle together.” At her perplexed expression, he shook his head. “Never mind. Weird joke. I’m all moved in. How are you doing with your roommates?”
+
+
+“I’m fine.” The glowing drones behind her head were reshaping themselves into a hand. “I read something on the internet. I wanted to ask someone who would know about it personally, and I thought maybe you would. Do you mind?”
+
+
+“Of course not! What is it?” Was she waiting here just to catch me then? She could’ve texted.
+
+
+She smiled at him. “Okay. I didn’t know much about Avowed before I became one. I was studying, and I read that sometimes when we get summoned by the Artonans we can pick our return point? People were saying that maybe a lot of Avowed who go missing aren’t really. They just didn’t want to come back to Anesidora.”
+
+
+What?
+
+
+This wasn’t the last question Alden would have expected, but it was a long way down the list.
+
+
+“If that’s what you want to know, you should probably ask some of our classmates. I can introduce you to my roommates. Lexi, Haoyu, and Lute would have more datapoints to draw on than me if they’ve ever heard their families mention it. I’ve only been summoned once. It just took me a really long time to get back.”
+
+
+Her smile tightened. “I don’t want to ask anyone else. I don’t want an Anesidora person’s answer. I want…a real answer.”
+
+
+But their parents’ experiences would be more average and repeatable than mine.
+
+
+He glanced down at the hand resting on his suitcase handle. The magic ring was still on his finger. Maricel sounded serious. Was she hoping to get back home that way?
+
+
+Well, it’s probably more achievable than the landbridge plan, and considering the fact that I just cat-smuggled my friend off the island, I’m definitely not someone who ought to be all, “Oh noooo, Maricel. Running away from Anesidora is bad.”
+
+
+“I hadn’t put a lot of thought into it,” he said. At least, he hadn’t considered how it applied to Avowed in general instead of him specifically. “We have a right to be dropped back where we left from or in the nearest safe location. I’ve heard it’s somewhere in the original Contract terms. And given how teleportation infrastructure works, the System probably prefers to send us to the TC here on the island, so I doubt that’s ever off the table if you ask for it. But…”
+
+
+He thought over what he knew about Artonans, summonariums, and Thwart Hog, with her lockers covered in travel magnets and her advice about seeing the world as an unregistered.
+
+
+“When you get summoned, if your summoner is willing, I bet you could get sent back almost anywhere on Earth you wanted that wasn’t inherently private or secure.”
+
+
+“How likely would it be?” Maricel asked. She was staring into his eyes intently. “Would many wizards do that for one of us?”
+
+
+“Again, I haven’t interacted with that many wizards…”
+
+
+But he went through the list of them in his head. Joe, Stu-art’h, Alis-art’h, the Primary, Bti-qwol…heck, let’s throw Jel-nor and Evul-art’h in there for good measure. And Kibby.
+
+
+Wow, a high percentage of my known-wizards lists is the art’h family. Preserving a footless guy and getting lost in a chaos field can really change your social circle.
+
+
+Maricel was still waiting for him to answer her question. The drones behind her were making an exclamation point.
+
+
+Appropriate.
+
+
+“All of them,” Alden said finally.
+
+
+“What?”
+
+
+He nodded. “Definitely talk to some other Avowed before you make any life plans based on my experiences. But I think even the…most unpleasant…wizards I’ve met would have changed my teleportation destination to another Earth location if I asked.”
+
+
+He’d almost called Jel-nor and Bti-qwol “the normal wizards,” but that was a bit too revealing of a thing to say out in public. It begged the question, “How many abnormal wizards has Alden Thorn met? And in what ways were they abnormal?”
+
+
+Bti-qwol would be the least likely to do someone a favor, but even she would probably privilege an Avowed’s easily-granted request over human laws she had no obligation to know, much less follow. All she’d have to do is punch a few buttons on a tablet.
+
+
+Maricel’s eyes widened. “So it’s true? Why would they do that? Don’t they care about—”
+
+
+“They consider Anesidora to be a human idiosyncrasy. I’m sure it’s convenient for them in some ways just like it is for us. A lot of the magical resources we have might not have been given to us if Avowed were scattered all over the planet, right? But the idea of average people confining people who can do magic to a specific country is really alien to them.”
+
+
+He was sure that at some point, when the concept of Anesidora was proposed, someone would have asked the wizards if they could force Avowed to stay put here when they weren’t in use. He was betting the idea had gotten zero traction. Too culturally topsy-turvy from an Artonan point of view. “Maricel, you do know anything we say outside of private residences is probably being picked up by infogear, right? I mean…”
+
+
+He shrugged at her.
+
+
+She tucked her chin. “I know that. I’m not planning to break any rules.”
+
+
+Then why are you asking how to break rules?
+
+
+Granted, it was rule-breaking in a way that was impossible for anyone to prevent.
+
+
+“There’s no reason I can’t discuss things with you,” she continued. “I’m just curious about something I read. We don’t have to talk about it here if you don’t want to.”
+
+
+“I don’t mind. I’ve told you everything I know about it anyway. I’ve only brought up Anesidora specifically with two wizards, and they both think Avowed living here is really quirky.” Alden rested his arms on top of his suitcase handle. “But an Avowed who wanted to spend their life in hiding that way—”
+
+
+Maricel shifted and looked away from him.
+
+
+“—would have to get summoned first,” he concluded.
+
+
+Her fingers toyed with a basil leaf she’d plucked from the plant beside them, and the scent of it filled the air. “Is there a way to make that happen quicker, or…?”
+
+
+“As far as that goes, I can’t tell you anything more than the internet. Have valuable talents, and learn to use them well. Level up and pick more good talents. Have a friend who gets summoned often recommend you to a wizard in person.”
+
+
+Boaters. Alden was watching Manon’s social media accounts. It looked like she got summoned to non-LeafSong jobs sometimes. It had occurred to him that if he could contact the boater members when she was busy on another planet, that would be one more way to reduce her influence on them.
+
+
+“You could also tell the System you wanted to be summoned,” he added. “The Systems are the ones who recommend specific Avowed to wizards, usually, so it can’t hurt to let it know that you’re eager to go. Even more explicit agreement probably makes it…happy?”
+
+
+She looked startled. “You mean just talk to it?”
+
+
+“Sure. It’s worth a try.”
+
+
+He wanted to remind her that being summoned came with bucketloads of problems and risks. But she knew. She’d agreed to the Contract. She’d gotten the speech. She was aware the person she was talking to had almost died on another planet recently.
+
+
+She must really, really miss her family.
+
+
+“Hey, the fireworks are amazing, aren’t they?” he said. “I’ve never seen anything like them. I heard someone on a light-up bicycle say the best view is supposed to be from the bridge, and people on light-up bicycles usually know what they’re talking about. You want to go there together?”
+
+
+She blinked. Her face softened, but she shook her head. “Thank you, Alden. That does sound like fun. But I’ve got plans for tonight.”
+
+
+He watched her go. She ate the basil leaf she’d plucked.
+
+
+That’s a good sign, isn’t it? Angrily throwing the leaf on the ground would be bad. Eating it is more positive.
+
+
+Possibly, he was trying a little too hard to read a girl’s mind via her interactions with an herb.
+
+
+A few seconds later, when he stepped through the door into Garden Hall, he received the [Welcome Home] message and a notification that something had been delivered for him earlier.
+
+
+There was a mailroom on the ground floor beside the laundry. He headed there and squatted down to reach the low postbox the notification had indicated. As soon as the door swung open with a squeal, he recognized the sky blue fabric and frayed straps of the backpack he’d worn in middle school.
+
+
+Aunt Connie?
+
+
+She hadn’t mentioned sending him anything the last time he’d called her.
+
+
+He pulled the backpack out, and upon realizing that it smelled like his old bedroom, he couldn’t help but sniff it a few times. His aunt had wired the main zippers shut with the twist-tie from a bread bag. When he got the backpack open, he smiled.
+
+
+Now it’s a lot more like being home.
+
+
+“Alden! How’d the club meeting go?” Haoyu asked when he entered their apartment. “And what’s that?”
+
+
+He was in the kitchenette, holding a bag of oats in one hand and a slow-cooker instruction manual in the other.
+
+
+“The B-list was fun. Instructor Plim is our advisor, so that’s going to be really helpful. I put a hundred kilos of sand in my suitcase and threw it at the club president’s junk cart. And this is my wombat.”
+
+
+He held up Wummy. “My aunt sent him. With four jars of hot giardiniera. The fireworks are different than I was expecting.”
+
+
+“Are they? I’ve seen nonmagical fireworks shows on movies, and they do always look simpler. Lute’s going to go see the volley. Lexi went to buy earplugs so that he can sleep early.”
+
+
+“The volley?”
+
+
+“The Apex Wright workshops and the F-city Wright workshops have barges set up on either side of the bridge, and they take turns firing off all of their best magic missiles and fireworks. It’s the most popular thing to do. There are also some festival events in different neighborhoods. There’s a street closed to traffic and entirely covered in rangoli near Nilama Marina and a big temple that’s always decorated.”
+
+
+“Are you going out?”
+
+
+Haoyu groaned. “I know I shouldn’t,” he said. “Tomorrow’s my first official day of high school, and I want to make a good impression on my instructors. And we just had Kon’s party. But if you eat a healthy breakfast, it makes up for staying out late the night before, doesn’t it?”
+
+
+He held up his oats. There would be oatmeal in the school cafeterias in the mornings for sure. But Haoyu seemed to have taken his mother’s doubts about his plans to cook for himself personally.
+
+
+“Sounds logical. Can I come with you, or are you meeting friends?”
+
+
+Maybe if you’d grown up watching competing teams of Wrights blasting magic at the night sky, you could casually plug your ears and go to sleep like Lexi. But Alden didn’t want to miss out on something like this.
+
+
+You can’t just take it for granted that you’ll be here to see it again next year.
+
+
+Haoyu’s expression turned pained at his question, and he texted instead of answering out loud. [I’m going with Kon and a bunch of people he’s gathered. You can come. I invited Lute, but he doesn’t want to see some of the people we’re going with. So he says he can just go alone.]
+
+
+[I’ll ask to go with Lute then.]
+
+
+A surprisingly obvious decision. Lute had been really easy to get along with all weekend.
+
+
+Alden dropped Wummy off in his room. He fit right in. Wombats belonged on top of learning cushions. Then, he went and knocked on Lute’s door.
+
+
+When it swung open, he was surprised to see Lute in plain clothes. Instead of one of his usual interesting outfits, he seemed to aiming for comfort. And maybe he was trying to be incognito. He was wearing his combat boots, baggy black sweatpants, and a plain gray shirt. He’d left off the eyepatch and covered his hair with a knit cap.
+
+
+“Hey, can I follow you around and watch the fireworks?” Alden asked. “I figure you know where you’re going.”
+
+
+Lute brightened. “Sure. I’ll be your tour guide. Lexi’s a bore. Who tries to sleep through this?”
+
+
+He looked happy. So he must have wanted company…just not most company.
+
+
+“Should I invite some people I know from intake to meet up with us?” Alden asked. “They’re living between campus and the Span.”
+
+
+“The friends you wanted to bring to the apartment? If they’re cool, that’s fine with me.”
+
+
+“Great!”
+
+
+He texted Natalie. She and Hadiza were about to start classes in the same program as Lute, so they should get to know each other. They would all probably have more fun with a local showing them the way around tonight, and none of the intake girls were going to care about island politics and the Velras.
+
+
+It was good for everyone.
+
+
+[We were about to head out!] Natalie replied a moment later. [Did you see the big silver comets going by?? Come pick us up at the new place! The kitchen is amazing.]
+ 
+
+
+********
+ 
+
+
+Fifteen minutes later, Alden and Lute were sitting side by side on a crowded bus.
+
+
+“Your friends are Rabbits,” Lute said. “What do they do? They’re not trying to be hero Rabbits like you, right? That’s not becoming a trend?”
+
+
+Alden could hear the rapid pops of firecrackers through the bus window.
+
+
+“It’s the next big thing,” he answered. “You should have heard one of the uni faculty on my interview committee talking about how charming I’d look saving people in designer shoes and a tailcoat.”
+
+
+“You’re going to have to tell me why you picked that class one day. After all…you could have chosen almost anything.”
+
+
+Lute, more than most people, knew how true that was.
+
+
+For now, Alden could deflect by answering his other question. “Natalie’s got Cook of the Moment. She’s going to be in Arts with you. She plans to be the best private chef in the universe. She was helping me with my diet until this weekend, and I think I’m going into withdrawal.”
+
+
+Lute stared at him.
+
+
+“Hadiza’s got an object beautification skill. She’s in Arts, too. She’s not sure what she wants to do for a career yet, outside of being summoned. I know they’re both really excited about starting classes, so they might ask you a ton of questions. Emilija’s at Franklin High. She’s an F, so she couldn’t apply to CNH. She insta-fixes small patches of chipped paint. She likes it here on Anesidora a lot; I think she just wishes she had enough power to blend in more.”
+
+
+“What’s wrong with you, man?” Lute’s voice was exasperated. He yanked off the hat and the oversized glow-in-the-dark novelty glasses he’d put on before they left the dorm.
+
+
+“What?”
+
+
+“All of the people we’re meeting up with are girls. And you weren’t going to mention it? I have hat hair! I’m dressed like a bum! And I didn’t bring any of my cool eyepatches.”
+
+
+“They don’t care what you look like. It’s dark. And we’re going to be watching fireworks.”
+
+
+Lute scrubbed his hands through his hair. “Do they like musicians?”
+
+
+“Probably a normal amount?”
+
+
+“I should go back to the room and change.” He stared down at his sweatpants. “I could meet up with you later.”
+
+
+“That’ll take forever. You’re fine.”
+
+
+Lute gave him a flat look. “I don’t get a lot of chances to make first impressions on people who don’t have preconceived notions about me. I’m not sure if you’re a good roommate for taking me to meet girls or a bad roommate for taking me to meet girls without warning.”
+
+
+“You’re not meeting girls. You’re being a tour guide for people who still don’t know everything about Anesidora. Don’t be weird around Natalie. She’s my friend.”
+
+
+“I’m not going to be weird. I’m going to be ugly, short, and badly dressed!”
+
+
+“You’re not ugly.”
+
+
+“Why don’t you just stab me in the other eye?!”
+
+
+Lute started muttering to himself darkly. It took Alden a minute to realize the muttering had turned songlike. He glanced away from the window and saw Lute surreptitiously making rapid hand signs over his lap.
+
+
+“Are you chaining right now?”
+
+
+He didn’t answer.
+
+
+As Lute finished up, Alden became aware that he was uneven. It was the first time since he’d met him in conversation class a week ago.
+
+
+“One more,” Lute said. “Maybe the one that…”
+
+
+He started up again, and when he finished, he sat back and straightened his shoulders. His expression relaxed.
+
+
+“What did you do?” Alden asked.
+
+
+“The second was a common one that increases self-confidence. Great for socializing, but use with caution in dangerous environments. The first was one of my personal favorites; it makes me look cooler.”
+
+
+Alden examined him closely.
+
+
+“It’s not noteworthy when I’m just sitting here. It’s a multi-layered effect that increases bodily awareness and control. Stat points can do similar things, but this is more flexible. And temporary, obviously.”
+
+
+“I don’t quite—”
+
+
+“It’ll be easier for me to move how I want to move for the next few hours,” Lute said. “The more you practice with it, the better it gets. I’ve practiced with it…honestly, too much. It’s great for when I play my harp, but it helps with all kinds of other things. I’ve been training my facial expressions with it. Tell me to mimic an emotion.”
+
+
+“Do a happy smile.”
+
+
+“Could you be more dull?”
+
+
+“Fine, what’s a hard one? Look like I just hurt your feelings.”
+
+
+Lute’s eye widened. His brows lifted and tilted slightly. His lips parted, and a small gasp escaped him.
+
+
+Alden was impressed against his will. If he’d seen this expression in passing, he would absolutely have known that Lute’s feelings were hurt, and on top of that…
+
+
+“How are you making me think that whoever hurt you was definitely in the wrong?”
+
+
+“Just a touch of vulnerability,” said Lute. “Works every time. I started doing this thinking I’d excel at an acting class.”
+
+
+“What’s the fallout from the chain like?” Alden asked. “For regular people, I mean. I know it might be different—”
+
+
+“Imagine the klutziest you’ve ever been,” Lute said at once. “And then triple it. I broke six different things, including a toe, before I decided to stop being stupid and just go to bed when I’m paying my dues. Lack of bodily awareness actually makes it really easy to fall asleep. But you’ve got to remember to empty your bladder before bed. And make sure you’re not in some contorted posture that’s going to hurt when you wake up.”
+
+
+A wordchain that gave you better control of your body at the price of a good night’s sleep sounded blissful.
+
+
+The warning about bladder control is concerning, but I doubt it would be one of his favorite wordchains if that was a major issue.
+
+
+“Could you teach me that one sometime?”
+
+
+“Oh.” Lute gave him a smile that was perfectly apologetic. “I don’t think so.”
+
+
+“It’s one of your family’s exclusive chains I guess? That’s fine.”
+
+
+“It’s not that exclusive. There are different levels of restriction with wordchains. To teach you this one, all I’d have to do is put you in a conference call with someone I work with on Artona II and formally vouch for your integrity. It would be a long conference call because the guy likes to hear himself talk, but it’s not like it’s impossible for me to get permission.”
+
+
+That’s all there is to it? The impediment to getting access to more wordchains is having a Velra pinky promise a wizard that you’re a good person?
+
+
+Then the rest of what Lute had said caught his attention. “So you’ve definitely been summoned then? I was almost positive you had based on what you said in Conversation class, but—”
+
+
+“Yeah, I get summoned. I’ve got an official work calendar and everything. I might occasionally disappear without warning, too. Don’t freak out if it happens. It’s not like a real emergency summons. I don’t do anything physically dangerous.” He stood as the bus slowed to a stop. “I probably can’t teach you that chain because it’s difficult. Wordchains are…I guess you’d call them picky? Some of them more than others. The low-power, publicly available ones are the easiest to cast.”
+
+
+He hopped lightly down the bus steps and onto the sidewalk.
+
+
+Alden followed him, listening avidly.
+
+
+“The more powerful they are, or the more esoteric their uses are, the more likely they are to be lazy bastards that refuse to work. Oh, free sparklers! Thanks!”
+
+
+He said that last to a woman in a long skirt who was walking past with baskets of them. He took a handful.
+
+
+“You were saying?” Alden prompted, when Lute started looking around for people with more freebies instead of continuing his speech.
+
+
+“To make harder chains work for you, you need to have just the right combo of body modifications or be a perfectionistic glutton for tedium. Or all of the above. Being higher ranked also helps, but don’t ask me why because the only answer I have is Aulia’s. And hers is some nonsense about magically powerful people being more in tune with universal vibrations.”
+
+
+He frowned. “Or you could be a prodigy like Hazel and just feel how to be good at them.”
+
+
+“I’d still like to try,” said Alden. “I mean, if you don’t mind teaching me. I don’t plan to make wordchains a huge part of my daily life, but—”
+
+
+“That’s another thing. The more you do them, the more forgiving they are about mistakes. So those two I just used on the bus? I can only mumble them like that because the self-confidence one is weak, and I’ve done the other one so much. I have to be really precise with my words and signing when I’m mastering a strong new one.”
+
+
+“This way,” Alden pointed toward the building indicated on his interface map.
+
+
+“Your friends are living on the edge of Boom Town to save on rent.” Lute nodded. “A courageous choice.”
+
+
+“The Wrights don’t actually blow people up, do they?”
+
+
+“Themselves. Occasionally. Mostly the problem is the noise, the smells, and the lack of conveniences. Even if you shield your place, you still have to walk through the neighborhood to get around. And nobody’s going to put a decent restaurant in an area full of Wright workshops.”
+
+
+It wasn’t long before they were standing outside the girls’ apartment. Lute had just finished finger combing his hair when Hadiza answered the door.
+
+
+We might really not be dressed well enough to hang out with them, Alden though.
+
+
+Hadiza was in a fitted black turtleneck dress, and she was decked out in gold accessories. She’d definitely given everything the skill treatment. Even the gold metal bands wrapped around her long ponytail were so shiny they practically glowed.
+
+
+“Your outfit looks amazing, Hadiza.”
+
+
+“Thank—”
+
+
+<<It’s the thief!>> Emilija bounced into view from a side room, wearing a silver sequined jacket over a red shirt that matched her lipstick and her fingernails. She’d once told Alden that there was no excuse for a paint-fixer to ever be without polish. <<Natalie, he’s here! Don’t look into his sad puppy eyes when he talks about your guacamole.>>
+
+
+“Hey! I was just complimenting her.”
+
+
+“You were trying to convince her to give you more food,” Hadiza said.
+
+
+Emilija grabbed the door and threw it open wider. <<She’s going to practice meat now, and we like it that way.>>
+
+
+“Beef ribs,” said Hadiza.
+
+
+“Candied bacon,” said Emilija.
+
+
+“Lamb stew.”
+
+
+“Fried chicken.”
+
+
+He swallowed. Don’t drool in front of people, Alden. Have some self-respect.
+
+
+Lute cleared his throat.
+
+
+“Ah right!” said Alden. “Let me introduce you to my roommate. This is Lute Velra. Lute, the kind one is Hadiza, and the mean one is Emilija.”
+
+
+Emilija stuck her tongue out at him.
+
+
+“You guys, Lute’s in the art school, too. He’s a harpist. He’s really talented.”
+
+
+Alden had thought he was at the funeral anyway. He had multiple instruments and a disdain for his classmates’ skills. It suggested some degree of talent.
+
+
+Lute held out his sparklers and smiled winningly, “Alden suggested you might like a tour guide for the night. Sorry I’m in sweats. I was moving furniture right before we left, and I didn’t want to make him late to meet up with you.”
+
+
+Alden stared down at his shameless, lying face.
+
+
+He texted him. [Is “moving furniture” Anesidoran slang for eating a steak and blue cheese sandwich in the bath?]
+
+
+As the girls turned to lead the way into the place, Lute’s fingers moved rapidly. [You’re a good man. You called me talented. We’re friends, aren’t we?]
+
+
+He was wearing a puppy-dog look that even Emilija couldn’t have found fault with.
+
+
+Alden rolled his eyes. [Fine. As far as I know, you were bench-pressing the bathtub for three hours while you inhaled fries.]
+
+
+A minute later, they were politely admiring the kitchen, and Alden was resisting a powerful urge to steal a fistful of granola from a glass canister beside the pizza oven, when Natalie stepped out of her room.
+
+
+“Sorry, y’all! It’s late back home, but my parents still didn’t want me to hang up the phone. Hi! You must be Alden’s roommate! Alden, you’ve finally got roommates!”
+
+
+“I do. This is Lute. He’s…”
+
+
+Looking like he just got hit in the face with a brick.
+
+
+Natalie wasn’t even all dressed up like the others. She was wearing her rabbits and radishes blouse and jeans.
+
+
+Lute recovered quickly, at least. Maybe it was his wordchain making him aware that he’d gone temporarily slack-jawed and mute.
+
+
+“Natalie!” he said. “Nice to meet you. I was just telling Emilija and Hadiza that one of our roommates would be envious of your pot and pan collection.”
+
+
+He pointed up at the copper cookware over the stove. With an unnecessarily dramatic and elegant arm motion.
+
+
+Alden had to give him credit for the attention to detail.
+ 
+
+
+*******
+ 
+
+
+They had a lot of fun.
+
+
+Lute knew where all the best light displays, street performances, and firework sellers were. When the crowd watching the volley from the Apex half of the Span turned out to be pretty crushing and Emilija started to look uncomfortable, he led them all to an oceanside high-rise that looked out over the bridge toward the lights of F-city.
+
+
+“Aimi’s gone out. She doesn’t mind if we use her balcony.”
+
+
+“Wow,” said Natalie, looking around the place as they crossed a white tile floor strewn with clothes and shoes. “This place is swanky.”
+
+
+Except for the laundry everywhere—did Aimi Velra just strip and fling everything each time she walked through the door?—she was right. The apartment was minimalist and modern, but there was something comfortable about it.
+
+
+“Tailor Environment,” Hadiza said. “It feels like it.”
+
+
+<<I was thinking the same thing,>> said Emilija.
+
+
+“Yes,” Lute said. “My family doesn’t believe in skimping on the magical amenities. Aimi probably had the same Rabbit do this place that the Grandwitch uses on Libra.”
+
+
+“Grandwitch?” Natalie said.
+
+
+“Libra?” Alden asked.
+
+
+“Grandwitch is my grandmother. Libra’s her megayacht lair. And my former address.” Lute slid open the balcony door. Wind rushed into the room, and the sheer curtains whipped around. “Hang on. I forgot to activate the shielding.”
+
+
+He stepped over to a series of foggy bubbles on the wall that Alden had mistaken for decorations and ran his fingers over them. They glimmered faintly, and the wind stopped.
+
+
+The balcony was obviously a major feature for the apartment, with a table, lounge chairs, and a hot tub that glowed with color-shifting lights.
+
+
+<<I want to get in.>> Emilija gazed at the tub longingly while everyone else stood at the railing looking out at one of the the barges. The Wrights were firing up a device that made something that looked like plasma branch and twist over the water.
+
+
+Natalie held another sparkler out toward Alden, and he flicked his fingers over it. He’d been enjoying lighting them for everyone for the past couple of hours.
+
+
+It flared, casting sparks around her hands. She beamed at him. “That’s a great spell impression. I wouldn’t mind having it for myself.”
+
+
+There was a loud roar, and a band of white light as wide as a river shot through the air over the bridge. The balcony was brighter than day for a few seconds, and then the light band broke apart and rained down over the ocean in sizzling motes.
+
+
+<<A bra is like a bathing suit. There’s really no difference.>>
+
+
+“There is,” Hadiza said, glancing over at Emilija.
+
+
+Natalie nodded.
+
+
+Lute coughed. “I’m sure Aimi has swimsuits. You can borrow one. She’s not someone who would mind. Or even notice.”
+
+
+Over the course of the next five minutes, Emilija played with the settings on the tub, and the girls talked themselves into going to explore Aimi Velra’s room in search of suits.
+
+
+As soon as they left, Lute rounded on Alden. “Would it be good funny or bad funny if I got in the hot tub with all my clothes on?”
+
+
+“Considering the fact that you’d have to splash your way back home in wet sweatpants, it might be sad funny. And uncomfortable.”
+
+
+“I think I can make it look cool.”
+
+
+“That’s the self-confidence chain talking.”
+
+
+“I can definitely make it look cool.”
+
+
+Alden chuckled.
+
+
+Lute stood on his tiptoes and leaned over the railing. “This has been the greatest weekend. I wish I could rewind it and do it all again.”
+
+
+“You just want to torment Lexi with eye jokes.”
+
+
+“I’m going to do that anyway. It won’t get old.”
+
+
+They watched the barge on the other side of the bridge send up sprays of fireworks in the shape of a peacock’s tail.
+
+
+“Hey, I’ll show you the physical gestures for the wordchain tonight. We can practice them tomorrow in Convo IV. I’ll correct you, and you can correct my garbage Artonan. It’ll make the class less boring for both of us. If you still want to do it after you see what a pain it is, I’ll set up a call with my boss and get permission to teach you the full thing.”
+
+
+“Really?” That was going to make that portion of his days so much more beneficial. “Thanks!”
+
+
+<<Bubble tub, are you hot!?>>
+
+
+Emilija appeared, wearing a very minimal red bikini and carrying a towel. Natalie and Hadiza were behind her in borrowed t-shirts over their swimsuits.
+
+
+“It’s fine to get these wet, too, isn’t it?” Natalie asked, gesturing at her shirt. It said Tokyo on the chest. “Your cousin’s a different size than us, so the suits are…”
+
+
+“Little boobs,” said Hadiza, already slipping into the water.
+
+
+Lute smiled at them all graciously. “Aimi will not mind. Her house is your house. Help yourselves.”
+
+
+A second later, Alden got a text from him. [Don’t thank me. I should be thanking you.]
+
+
+Then he walked right over and stepped into the tub, combat boots and all.
+ 
+
+
+*Stolen from Royal Road, this story should be reported if encountered on Amazon.

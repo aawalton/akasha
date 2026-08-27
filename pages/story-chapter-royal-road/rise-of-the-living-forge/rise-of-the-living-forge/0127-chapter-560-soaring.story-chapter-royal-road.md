@@ -1,0 +1,149 @@
+---
+id: b58b7204-3b56-51a8-9093-d1edf32f32c1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 560: Soaring"
+slug: 0127-chapter-560-soaring
+partOf: rise-of-the-living-forge
+position: 127
+ownLength: 1864
+unit: words
+ownProgress: 1864
+publishedAt: 2026-02-17
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3063203/chapter-560-soaring"
+royalRoadId: "3063203"
+markedReadAt: "2026-06-29T20:02:30.380Z"
+---
+
+Thane sat on the edge of a rooftop, squinting down at the milling crowd below. There were so many people here. He’d known there would be, of course. But knowing and observing were two entirely different things altogether.
+
+But Thane was thrilled to find that, even with the larger group and entirely different demographic of person present on the Menagerie’s street today, his studies about crowd patterns were still correct.
+
+People were still moving the way he generally expected them to. Not as individuals, of course. It was impossible to perfectly predict what one or two or three people would do. But once you got enough of them… well, things tended to start moving a little more like an ocean.
+
+They rippled in waves, filtering themselves into rough flows. That was just human nature. A steady flow of people moved both into and out of the Devil’s Den, while even more had gathered near the center of the street to sit while they ate.
+
+Lillia’s shadow imps slipped through the crowds bearing plates of food to bring to the auction’s attendees. It was quite impressive that none of them had spilled anything yet. With the sheer numbers of people present here, Thane almost would have expected that to be an inevitability.
+
+But more impressive than the imps was the fact that the Menagerie had somehow managed to get representatives of some of the most powerful guilds in the kingdom to sit around on the ground like a bunch of children — and not one person seemed to be complaining.
+
+The energy was high. Chatter rolled through the street in a dull roar in which no individual word possibly could have been made out. Thane would have been completely out of luck if he’d been hoping to pick up on any useful information from people’s conversations.
+
+Fortunately, that wasn’t his job.
+
+Thane’s eyes swept over the crowd once more. They caught on a small group of three men near the edge of the street. The group wasn’t actually doing odd. For that matter, they weren’t doing much of anything.
+
+They were just standing there.
+
+His eyes narrowed slightly.
+
+The three of them weren’t talking. They weren’t interacting much with anyone else in the crowd, but they did seem to be scanning it quite intently. That wasn’t a problem in itself. A lot of people attending the auction would have been looking to make connections or observe what the other guilds were up to.
+
+Still…
+
+“Nothing expressly out of the ordinary so far,” Thane whispered, seemingly to himself. He let his hand rest on the hilt of the black blade at his side. “The crowd is acting the way I expected. There are a few people near the edges. Nothing that really stands out yet, but I’d keep an eye on the ones opposite the Devil’s Den. They haven’t moved much recently. They might be scoping people out.”
+
+Vireth rattled.
+
+“No,” Thane said. “You know that isn’t our job, Vireth. We’re staying here.”
+
+“I’m bored,” Vireth whispered, her words coiling through the back of his mind. He could practically feel them shift from one side of his head to the other as if she were coiling around him. “And there are worthy targets in that crowd. Ones that would be interesting to remove.”
+
+“We’re not killing the Menagerie’s customers.”
+
+“You and I both know the customers aren’t the ones I want,” Vireth said with a whispery laugh. “Come now, Thane. I’m not your enemy. You know this by now.”
+
+“There are a great deal of ways someone can have terrible suggestions but still not be an enemy.”
+
+“I’m going to pretend you didn’t say that,” Vireth said. The sword pulled slightly at Thane’s side, as if Vireth were trying to physically drag him over the edge of the building. “And we both know that that lot you’re watching are up to something. Let’s finish them off. Deal with the problem before it starts. The Menagerie will thank you for it.”
+
+“No, Vireth,” Thane said. “We’ve discussed roles already. That isn’t ours. And I’m talking out loud. That means Rodrick is going to know what we’re saying. You don’t want him pissed at you.”
+
+“I’ve never been good at calculating consequences,” Vireth said with a snicker. “Come on. Let’s have some fun.”
+
+“No.”
+
+“Please?”
+
+“No,” Thane said. “But I’ll find you something fun to stab after this is done, okay? We can do a dungeon together.”
+
+Vireth paused. “A whole day? Just fighting? No stopping to research stupid shit? You’ll have fun with me the whole day?”
+
+“Don’t put it that way, please,” Thane said, pinching the bridge of his nose. “And my research isn’t stupid. But yes. I’ll give you a day in a dungeon. Just us. Us and… the monsters you’ll kill in horrible ways, I suspect.”
+
+“Just the words a devil wants to hear.” Vireth snickered. “Deal. One day, Thane. I’ll look forward to it. Also, your little friends are moving. You might want to tell Rodrick.”
+
+Thane blinked. His eyes snapped back to the group he’d been watching. Then he suppressed a curse. Two of the three were already gone, and the third was vanishing into an alley near the edge of the street.
+
+“Rodrick, they’re moving,” Thane said. “I don’t know if there’s a motive. I… uh, got distracted. Sorry.”
+
+There was no response.
+
+But Thane didn’t need one. His eyes just turned back to the crowd.
+
+Rodrick had things covered.
+
+***
+
+Neil stepped out from the Mausoleum. Sunlight pierced into his eyes in greeting. He grimaced, raising a hand to block it out as his vision adjusted. His heart was beating at a dozen thumps per second.
+
+The ring on his finger now bore considerably more wealth than he’d ever been in possession of. Well over 10,000 gold, with the addition of several more Epic items he could put up for sale. All for the sole purpose of acquiring the final VIP seat and buying access into the final round of the auction.
+
+Sure, the money isn’t mine, but I’m getting a commission if I manage to secure us anything good. The Bronze Dragons are even gathering up some of our other items to send me some more things to sell.
+
+We’re probably going to be one of the best positioned guilds to gun for that VIP section. Everyone else who really had the money for it probably already has a seat.
+
+Man, these rings are incredible. I don’t know how many of the other guild representatives here are fortunate enough to have access to them. It took like a year for these to get made, and we still only have 4.
+
+Neil resisted the urge to rub his hands together in delight. He could barely wait for the auction to restart. But the smell of food wafting through the air was certainly more than enough to give him a moment of pause.
+
+An imp approached him, holding out a plate completely covered in food. At its center was a massive sandwich nearly the length of his arm. It was stuffed full of meats and cheeses and dripping with juice. Surrounding the sandwich were an assortment of finger foods and fried vegetables that made his mouth water.
+
+Neil took the plate without a moment of hesitation. A part of him suspected that the Menagerie were putting some kind of magical enhancements in their food to get everyone addicted to it.
+
+A bigger part of him didn’t care.
+
+“Thank you,” Neil said, barely registering the fact that he’d thanked a shadow demon for his meal. He was busy popping a fried carrot into his mouth. His thoughts could barely even linger in one spot for more than a moment.
+
+The food. The auction. The items he was doubtlessly about to get his hands on. What he might see in the VIP section. There were just so many different questions that he wanted to get answers to.
+
+I can’t wait for things to get moving again. But… I don’t think I mind waiting a bit longer, either. Shit. I don’t even know what I want anymore.
+
+Neil solved the issue by taking a huge bite out of his sandwich. The explosion of flavors stole the rest of the thoughts from his mind. For several minutes, he wasn’t capable of anything but shoveling food into his mouth.
+
+And then it was finished. A shadow imp appeared, passing him a napkin and stealing the finished plate from his hands before he could even process what had happened. He looked down at the cloth, then quietly dabbed at his face.
+
+This is the life. Why don’t I get treated like this at my own guild?
+
+All around him, other adventurers looked to be in similar states of bliss. The only ones that didn’t look at peace were the ones actively discussing the auction, the items they were hoping to find, and similar topics.
+
+It had been a while since Neil had seen so many different guilds this excited for something. Frankly, it was quite odd. If Neil had known just how good this auction would have been before he’d arrived here, everything would have been different.
+
+This would have been pure business. Everything would be calculated. Measured. And the same would have held true for the other participating guilds. They’d have sent people with far more resources. There would be members from the guilds in the top 10 on the rankings. Maybe even the Secret Eye or the Adventurers Guild themselves would have actively participated rather than simply observed.
+
+But that wasn’t how things had gone. This auction hadn’t been meant to be anything at this scale. But it was — and that made it more exciting than it ever could have been in just about any other scenario.
+
+There’s no way the Menagerie planned for this, right?
+
+Neil shook his head. That was impossible. Nobody could think that far ahead. But even if they had, he didn’t think he cared. All he wanted was another plate of—
+
+A shadow passed overhead.
+
+Neil glanced up.
+
+A form sailed through the air above him in a blurred streak. It was roughly the size of a man but moved so fast that Neil didn’t even get a chance to process what he was seeing before the form vanished over the horizon.
+
+And then the form — man or whatever it may have been — was gone.
+
+His eyes snapped over in the direction that the form had come from. He caught the smallest flicker of motion as what seemed to be the shadow of a massive hand receded back beneath the rooftops at the edge of the Menagerie’s street.
+
+Neil blinked.
+
+Was that a person?
+
+He wasn’t sure if anyone else had noticed the scene. It had been so fast that he wasn’t even fully sure he hadn’t hallucinated it. He glanced around in the crowd. Nobody seemed to have noticed anything. And, if they had, they weren’t particularly bothered about it.
+
+Neil paused for a moment longer.
+
+Then he shrugged to himself.
+
+Meh. Who cares? I wonder if I can get another plate before the auction restarts.

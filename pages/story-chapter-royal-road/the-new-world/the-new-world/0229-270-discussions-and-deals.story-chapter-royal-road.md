@@ -1,0 +1,459 @@
+---
+id: f18893b1-229d-570c-96a2-326cf1c393e1
+page-type-slug: story-chapter-royal-road
+title: "270 Discussions and Deals"
+slug: 0229-270-discussions-and-deals
+partOf: the-new-world
+position: 229
+ownLength: 6431
+unit: words
+ownProgress: 6431
+publishedAt: 2020-09-23
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/558989/270-discussions-and-deals"
+royalRoadId: "558989"
+markedReadAt: "2026-06-29T21:28:54.092Z"
+---
+
+The center of the Nebula Drifter was an enormous room paneled on all sides by glass. It showed the sheer vibrance of space in a way I'd never seen in person. Obolis really enjoyed nebulas and galaxies since they seemed to be an everyday aesthetic for the guy, and he used them to the fullest extent for the natural sense of awe they gave.
+
+These panels of glass were supported by triangular, gray struts composed of the same material as Obolis's armor. They were subtle, only taking up small sections at the very top and bottoms of the entire view. These enforcements radiated a firm sense of security and power as if they could never break. The floor beneath them contrasted this firmness, every section holding many secrets.
+
+This spawned from the innumerable panels spread about on the ground. Some were propped up, shops set to open and close at a moment's notice. Many of these fold-up shops took up the center of the space viewing room. Dozens of these luxury stores were fully prepaid, their merchandise free as clerks handed over expensive gifts. The Empire spared no expense, these centers stocked up on delicious snacks, drinks, and entrees to satisfy the hundreds of hungry aliens here.
+
+So many options assaulted the senses, battling for my attention all at once. It gave the entire space an overwhelming feel of effortless extravagance. It was like the luxuries were just an afterthought for the real meat and potatoes of the evening: conversation.
+
+Around us, hundreds of albony spoke with aliens of all kinds. They all looked unusual, but that meant no one really stuck out amidst the sea of strangeness. The open room hosted several avian species as well, the large, open area of the room host to insectoids, birds, and mammalian species that could fly. Hod spread his wings at the sight of it, floating into the soaring zone to mingle. He perched himself on a landing rack designed with the comfort of sentient species in mind.
+
+As he flew away, many of the aliens noticed our group, but their gaze didn't linger. I let out a deep breath as I watched eyes cease gazing at us. I preferred not being gawked at like some weirdo. Althea shared my sentiment, her grasp on my hand softening.
+
+With our unease settled, we skulked through the place, a profound sense of discomfort coming over me. It was partly from being in space, somewhere so vulnerable. A single meteorite could shatter this glass room and kill everyone here. Everyone but me, and I'd be one of the people expected to save others.
+
+As I planned out a rescue path for my guildmates, Obolis spotted us, the ancient albony towering over the others here. The grizzled Emperor shifted through the crowds like a ghost, stepping right up to us. He wore the same gray armor as always, though he groomed his fur like the other albony present. He turned to Althea,
+
+"You've prepared for this evening well. You look beautiful."
+
+She looked away, flushing once more. Obolis peered at me, "Excuse me for saying so. I simply had to."
+
+I raised a hand, "Don't worry. I understand...but thanks for the apology. Florence got a little too friendly earlier, and I had to let him know."
+
+Obolis gave my shoulder a squeeze, "There's something I will need to let you know as well. You're a selling point for my cause. This means that you're a resource to me as I am a resource for you. That being the case, I'd rather utilize my resource wisely. The same could be said for you as well, couldn't it?"
+
+My eyes narrowed, "What are you talking about?"
+
+"Please, excuse me for this, but understand that it must be done."
+
+Obolis lifted his other hand, holding a glass in it. He took his claw and tapped it, a ringing sound overcoming the room. As nearby people quit talking, a wave of quiet passed over the party. My heart sank at the sight as Obolis gestured to me,
+
+"This is the Harbinger in the flesh. I understand many of you may not recognize him as he often wears his armor. Please, speak with him and learn who he really is. You shall not regret it, and may your relations with his guild prosper."
+
+He gave me a pat on my shoulder,
+
+"Good luck. You shall need it."
+
+My heart sank as the crowd looked at me. They rushed towards me and began talking and talking and talking. An endless stream of voices cascaded onto our group as we became the centerpiece of the party. We were like a new set of toys thrown out into a playpen full of bored children. I fought against this tide, speaking to a few people before being interrupted about fifty times.
+
+Obolis would pay for this one. 'Using resources wisely,' my ass.
+
+I raised a hand and pushed everyone away with a telekinetic panel. I turned to everyone while shouting,
+
+"Speak to me one group at a time. I'm not going to sit here and listen to each of you yell over each other to get a word in. We're civilized, so act like it."
+
+I used a bit of Event Horizon to really drive the point home in those nearby. A few people even fell down, not exactly high level but high in social status instead. After getting the situation under control, people talked to me. Over and over, they introduced themselves, their guild, their purpose, what they wanted from me, along with various offers they included in all those details.
+
+I experienced intense mental fatigue, quickly becoming fed up with the entire prolonged exchange. Yes, I could remember the names crossing in and out of my ears. No, I didn't want to. It bored me within a few minutes, the sheer strain of it swamping me. To ease the stress, I used my status to create an evergrowing list of names with a few categories underneath each of them.
+
+Thank you, Schema, for the dynamic list-making.
+
+This let me organize the data some, but I simply couldn't keep up with the demand. After a while, I asked for everyone to let me be with Althea for a bit. We walked up to the edge of the glasswork, peering out into the vast void. Inspecting close, I found the panels partitioned out by hexagonal, gray strings that reinforced the glass substrate. The pillars weren't the only thing holding this together, so it might have been more durable than I first estimated.
+
+Althea leaned into my view, her hands gripped behind her.
+
+"Whatcha doing?"
+
+I noticed her figure, and my heart raced,
+
+"I'm inspecting this glass. It has something supporting it."
+
+"So it's kind of like what they do in Mt. Verner to keep the mountain from collapsing?"
+
+I nodded, entranced by her, "Yeah...Exactly."
+
+She noticed me looking, so she did a swirl, her dress's ruffles spreading out. She gave me a glance of pure confidence,
+
+"I see I've got you on edge."
+
+I got control of myself,
+
+"Always. What do you think about the evening so far?"
+
+"Blegh, it's been so exhausting. There were way too many names for me to remember them all."
+
+"Same. I tried getting that situation earlier under control. I just didn't want you to feel too uncomfortable. How'd I do?"
+
+"Hmm, let me think. It was a tough situation the Emperor put us in. He really wanted you to meet people."
+
+"Yeah. The thing is, they're meeting me, and I'm not meeting them. I can't remember all these names and faces. If I wasn't recording them in my status, this would be a waste of time."
+
+"Sheesh, that's a good idea. You did more than I did. My eyes kind of glazed over after the fifth person was introduced."
+
+I leaned back, "What? Fifth? Mine did after the third." I gave her a begrudging nod, "Impressive."
+
+She giggled for a moment before I wrapped my arms around her waist. She wrapped her arms around me too, and we did a little slow dance while staring at each other. A piece of light music played in the background. The smells of high-quality perfume and well-made food sauntered about, tantalizing the senses. She was amazing, and for a few moments, I was in heaven.
+
+She grinned at me, noticing my bliss. She poked my nose, "I'll be back. I'm going to go find Caprika and see if I can't catch up. I've got so much I want to tell her."
+
+I gave a fake frown, "Don't be gone for too long. I don't want to be stuck here by myself."
+
+She rolled her eyes, "Come on now, you're the Harbinger. One more conversation isn't going to kill you."
+
+Maybe, but maybe not. I turned and stared outside, trying to look profound and deep in thought. I figured people might think I was too busy to interrupt, but my strategy failed as someone tapped my shoulder. I turned around, a bit peeved until I saw who it was.
+
+I raised an eyebrow, "Wrath? What are you doing here?"
+
+The slime queen, shaped in a feminine outline spoke in her grave, matriarchal voice,
+
+"I am here to find someone who shall help our species against Plazia-Ruhl."
+
+I frowned, "Oh...Yeah. Sorry I haven't found the time to help you yet."
+
+"You spoke of helping me, not of a certain time. We've warred against that monster for centuries now, and we shall continue to do so. I wonder when you would be able to assist us, however. Perhaps a date may be estimated?"
+
+I tapped my chin, "Hmm, let me think."
+
+The first goal I needed to complete was this war with the Adairs. That would take a few months, at least. After that, I wanted to establish our presence on Earth. Helping out the Vagni wouldn't take that long afterward, meaning it would take maybe three to four years before I'd be able to help out Wrath.
+
+I bit my tongue, giving myself a mental slap. I was powerful, but taking on all these tasks could be more than I could handle. I needed to sit down and write out a priority list or something before I ended up getting in over my head with deals. Freeing up some space on my calendar wouldn't do me any harm, either.
+
+Popping out of the crowd, Obolis peered at Wrath,
+
+"It's good to see you again. I hope your colonies fare well in these troubled times."
+
+She shifted, "I would say the same, but given the rebellions, you've seen better days. I know this."
+
+Obolis grinned, "I have a measure of control over the situation. This entire evening is, in fact, a soiree to showcase Schema's dominance over the rebellion. The glassing shall act as a reminder to you all. That being said, I'd rather my own planets not be glassed."
+
+Wrath seethed, "There we can agree, Finder of Secrets."
+
+Obolis turned to me, "It's good to see you, Harbinger. Do each of you know one another?"
+
+I nodded, "We do. We met a while back while I was pretending to be the Gray Giant."
+
+Wrath body wiggled in place, "Indeed. This is a wolf who wears a sheep's skin, as the eldritch would say. We need him in our plight against Plazia. They fear him. I've heard them whisper of him in their legends. I wish to use his legend to build my own."
+
+Obolis frowned, "Ah, so the both of you are at an impasse then?"
+
+Claws rippled under Wrath's skin, "How would you know of our struggles?"
+
+"I know a little of Daniel's schedule, and strained would be a gentle word given his position...What if I acted as a negotiator of sorts to ease the situation over? Perhaps an agreement could be made?"
+
+Wrath perked up, spines growing and submerging through her skin,
+
+"I appreciate your kindness, Carnage of Olstatia."
+
+Obolis gave her a slight bow, "Please, call me Obolis or the Finder of Secrets. I'd rather not dabble into my darker history, whether by name or by action."
+
+I eyed the Emperor with suspicion. He came at far too convenient a time, and the guy seemed like he was waiting for this kind of situation to occur. Obolis gestured a hand to Wrath,
+
+"So your kind is faced with a behemothic eldritch, one that can swallow worlds?"
+
+"We fight as one, but it is mighty. It waits on calm winds, one day ready to pounce at our open necks."
+
+Obolis gestured a hand, "And this mighty warrior is preoccupied with his wars and alliances. Perhaps I may untangle the responsibilities for both of you by offering a deal."
+
+Obolis turned to me, "I can reward you with a few items in exchange for helping Wrath promptly."
+
+Obolis grinned at Wrath, "And in exchange for offering the Harbinger my resources, your kind may come to cleanse my worlds of the blighted ones. It would be a far greater use of your resources than fighting that hivemind."
+
+I crossed my arms, "Why would you want them to clear out worlds instead of us?"
+
+Wrath shivered, "Our kind feasts on stone and metal. It would be no difficult feat to shift our diet to the Hybrids instead of the eldritch swarms of our homeworld."
+
+I tilted my head, "Is that what it's like there?"
+
+Wrath twitched as memories flooded in,
+
+"It is a hollowed world compared to what you're used to. We live differently, our bodies made of different parts and pieces. Our colonies war with one another, and we survive through evolution, our faith in nature absolute."
+
+Wrath lifted her arms, claws piercing her skin. They formed hands,
+
+"And now our kind is faced with a being that has evolved past us. We wish to use an even greater being to fight this entity. There are few we believe actually exceed Plazia-Ruhl. You are the only one of those few that may be willing to help us."
+
+I furrowed my brow, "Why not just use some technology or magic? I'm sure that could help bridge the gap."
+
+"To do so is to sacrifice our way of life. If we must do so to survive, then are we truly living?"
+
+I looked back and forth, "Uh, yeah? You would definitely still be alive."
+
+Wrath pointed at me, "You are no different from us. You wished to survive by your own means, and you lived through perseverance. A single-minded pursuit is what sustained you."
+
+I narrowed my eyes, "Now how would you know that?"
+
+"We have spoken with the eldritch. They tell tall tales of you, Harbinger. They speak in whispered tones, carrying stories of a being filled with infinite hunger and unending growth. A true monster who is starved enough to devour its own skin and flesh and blood to lessen its endless famine. They say you are never satisfied. Perhaps it is true. Perhaps not."
+
+Wrath shivered, "What they see, I cannot. I believe in their fear, however. That I can put faith in."
+
+I shook my hands, "That's got to be a misunderstanding. I'm not eating myself."
+
+"To them, it is more real than meat and bone. I sense the truth in their words. They say you bend the laws of nature to your will, and you wield the very fabric of dimensions in your hands. It is written across you, stories of your dominance, and immortality."
+
+Obolis raised a hand, "Is she referring to your cipher inscriptions? I understood you were channeling mana, but I didn't think of it as devouring yourself. That seems quite illogical, even for the eldritch."
+
+Obolis's eyes widened,
+
+"Unless...you're using blood magic."
+
+I frowned, not saying anything. Obolis grabbed his chin, "Ah, so that is how one can explain it...That is why you're able to manage so many strengths. Hmm, interesting. This changes the situation entirely. No wonder you wish for an elemental furnace to such an extent."
+
+Obolis grinned at me, "You would be able to not only build yourself using the cipher, but you would also be able to rejuvenate from any harm in an instant by turning mana to flesh."
+
+Wrath leaned forward, "This monster wishes to devour this universe as well?" She turned to me, "You are no different than the eldritch then."
+
+I spread out my hands,
+
+"Eat the universe? Really? Holy shit, guys. The scale is different. I'm not over here eating people or planets. At most, I'd be converting rocks or dirt into mana and using that for my cipher augments. I don't understand why that's considered so strange to the eldritch. To me, it just makes sense from a pragmatic perspective. That's all."
+
+Obolis frowned, "Perhaps it's merely a difference in perspective then? You are an anomaly, of that I'm certain. Using the cipher as you do would normally result in a stark shift in your personality. It would be as if you were rewriting who you are. Instead, it affects only your physical body, and your mind remains unchanged. I've deduced as much since meeting you."
+
+Obolis raised a finger, his mind revving up,
+
+"Your personality is constant, only shifting as you naturally grow. In that way, your mind and body must be separate entities entirely now. Otherwise, the cipher would warp you into a caricature of yourself. I've seen it happen in others. I wouldn't wish the same onto you."
+
+I remembered Yawm and what happened to him. The big plant man acted like a megalomaniac, some kind of obsession controlling him. Yawm was also covered in cipher runes that helped him use otherworldly powers. The runic configurations might have manifested in his personality and resulting god complex. That explained why he was so...off.
+
+Those same side effects didn't apply to me. Otherwise, I'd be acting more differently than I do if what Obolis said was true. My face saturated with confusion as I thought about it further,
+
+"What would that even mean, though? My mind isn't in my body?"
+
+Obolis shrugged, "I've no idea, honestly. Your lack of precedent comes from being unique. This means there's no history of this before; you walk into uncharted waters alone. In many ways, we can only pray you do not drown in those waters."
+
+I frowned, "Man, you really know how to cheer someone up, you know that?"
+
+Obolis waved off my concerns, "Perhaps these implications will manifest at a different time. For now, I'd rather discuss more earthly concerns, such as the deal between you two."
+
+Wrath pointed at Obolis, "Why does it interest you so?"
+
+Obolis stood up straight, "It is simply beneficial for me to be involved. I cannot offer you anything you value, Wrath, but I can offer Daniel quite a bit. He can offer you something you need, but you have nothing you may grant him."
+
+The surface of Wrath's body quivered as she seethed, "I own many things I can reward the Harbinger with."
+
+Obolis crossed his arms, "Such as?"
+
+"I...I can give him my children to feast upon."
+
+I winced, "Ahem, no thanks."
+
+Wrath turned to me in despair,
+
+"They are delicious, I assure you. I've eaten my species children many times, and I promise you that-"
+
+"Actually, I'm still good with not doing that. I don't actually like eating children."
+
+Obolis spread out his arms, "My point exactly. We can create a triangular deal, and I may act as an intermediary so that all parties remain satisfied."
+
+I narrowed my eyes, "What will you be offering me? Killing someone like Plazia would require a hell of a deal."
+
+Obolis turned towards me, "Several elemental furnaces, along with instruction on how to use them. I may also grant you a meeting with Baldowah. He is the most predictable of the Old Ones, and he has shown interest in seeing you."
+
+I raised a palm to him, "I'd actually rather not meet anymore Old Ones."
+
+Obolis narrowed his eyes, "Ones? You've met more than one then. You haven't met Baldowah based on what you just said, so that leaves Etorhma and...I don't know."
+
+Obolis's eyes lit up with fascination, "What was the entity like?"
+
+I grimaced as thoughts of Eonoth passed over my head,
+
+"It was loud. Very, very loud."
+
+Obolis rolled his hand with impatience, "Anything else you can add, such as its philosophy, the intensity of the meeting, perhaps its name?"
+
+"I mean this when I say this. You should not mention that thing's name. It might just talk with you. If that happens, you'll end up melting into a pile of mush from just the echoes of its voice. Even I nearly died from it."
+
+Obolis smirked, "I assure you, I'll be fine."
+
+My face darkened, "I assure you, you will not."
+
+My expression contorted further as memories of my blood vessels liquifying washed over me. I nearly drowned in my own blood when Eonoth and I first met. Obolis might not be so lucky. The Emperor met my eye at that moment, and something in my expression conveyed genuine concern.
+
+Obolis looked away, biting his tongue. He gave his eyebrows a quick rise while shaking his head in disappointment. He peered back at me,
+
+"Perhaps you are right. I'll drop the issue for now. Moving yet once more to the deal, I was wondering if my offer was satisfactory?"
+
+I nodded, "Yeah. It was for me. I don't know if I'll take it yet because I have responsibilities to my guild."
+
+Obolis turned to Wrath, "What do you think of the deal? It's a pleasing proposition, isn't it? We would all prosper in the wake of it."
+
+Wrath turned to me,
+
+"I would be pleased with this offer. I can throw some of my children in as an incentive if the need-"
+
+I raised my hands, "No, no, that won't be needed. At all." I leaned towards Obolis,
+
+"I wanted to bring something up that I noticed. I know you planned for this. If you try to take advantage of me, I'll learn about it, and I'm not an enemy you want to make. Ask the Adair family if you want to know why."
+
+Obolis's face turned somber. He chose his next words with care,
+
+"I watched you ravage the planetside, and the memories of it linger in my mind like the echos of a foregone battle. Know this - you offered to help us without asking for anything in return. The Empire pays its debts in full. This is how I wish to do so...In fact-"
+
+He raised a hand, "I'll add a grimoire to the deal. It's a spellbook written in the cipher. It gives incantations of all kinds, though many are admittedly enigmatic. Perhaps studying it will be more useful for you than I, given I couldn't fully understand it."
+
+He gave me a knowing grin, "Consider the tome an extra gift given your past services. You may even use the team granted to you for Blegara to assist with your efforts against Plazia. Though young, they are all competent albony. They should serve you well both in battle and in planning."
+
+I gave him a begrudging nod, "I can't say yes just yet. Let me think about it for my guild's sake."
+
+Obolis's eyes narrowed, but he swallowed his disappointment, "Take your time."
+
+I turned towards space, the vastness making me feel insignificant. That was a refreshing feeling since the options laid out to me involved the fates of wars and rebellions alike. Since the possibilities seemed overwhelming, I took a moment to break things down before thinking things over.
+
+For starters, an elemental furnace was a given no matter the scenario. Obolis would hand one over after a few victories on his behalf, regardless of what I decided on doing. Knowing that fact, the furnaces shouldn't weigh into my decision. On the other hand, the grimoire was interesting. It could hold a few secrets about the cipher I didn't know.
+
+Each breakthrough could result in a massive power spike for me, my golems, and my crafting. If I constructed better armor and weapons, my guildsmen would be more potent because of it. Even more so, if I ever eclipsed Lehesion, then nothing would stop me from getting Earth on the right track. Colonizing other worlds wasn't even out of the question either.
+
+This new deal also handled several issues I had with my scheduling right now. Helping out the Empire and the ahcorus would kill two birds with one stone. I could get to helping out the vagni and earth earlier rather than later.  With all those factors in mind, I narrowed my eyes and raised my eyebrows, trying to look skeptical. In all honesty, I was already sold.
+
+Before I could say I'm in, Obolis took the bait and turned a palm to me,
+
+"If you accept this deal right here and right now, I'll grant you an elemental furnace immediately. Tell me, what will you do?"
+
+It turned out that pressure was a great way to muddy someone's judgment. That extra incentive made my decision for me,
+
+"Alright then, consider it a deal."
+
+That's what the grizzled warlord got for stirring the rest of his partygoers to interrogate me and my guild. Obolis noticed my satisfaction in an instant, his eyes widening. He gave me a slow, steady nod,
+
+"Ah, I've been played."
+
+I stopped myself from grinning but poorly,
+
+"I don't know what you're talking about. I'm just using my resources wisely."
+
+Obolis placed a hand on Wrath and my shoulders. He looked at me then Wrath, "Well then, as the deal states, I'll get an elemental furnace that suits you right away. While I'm grabbing it, you may both work out the details of this arrangement as you need to. The glassing will occur soon, so don't dabble on the details for too long."
+
+Obolis walked off, "It would be a shame if you missed the event in its full fury."
+
+As he warped away, I turned to Wrath, "It will be good to finally work with you."
+
+"Likewise, Eater of Monsters. I shall stay on Svia, our homeworld, and help you hunt Plazia. We know where he lies. We simply cannot conquer his fortress."
+
+I nodded, "I'll see if I can't help with that then."
+
+"When will your kind be allowed to come?"
+
+I tapped my chin, "Within a week, I'd say. Our guild just finished taking Giess on, and now we're all settling down on my homeworld. We need some time to rest and recuperate. After that, we'll head over and meet up to make a plan."
+
+Within Wrath, several glowing spots danced around as she hissed in happiness,
+
+"You give us hope, Harbinger. It will be the end of our plight, long though it may be."
+
+I sent her a friend request, "Don't get your expectations too high. I'm not exactly sure I can take Plazia down. I'll definitely try."
+
+Spines extended and submerged across her back,
+
+"I...perhaps, you are right. You are our last chance, however, and if I cannot find hope in you, then my hope will die."
+
+I frowned, "Am I really the best option? I find that hard to believe."
+
+Wrath peered out at space,
+
+"I have spent years parsing the galaxy for the greatest Fringe Walkers. What I uncovered was a simple truth - none of them can destroy Plazia. They specialize in the hunt for many, but never in the hunt for one. The one I hunt is an ancient hivemind, the deadliest of all known eldritch. This hivemind's cunning is unmatched. Its armies are neverending. It knows of Schema, and it knows Schema's limits."
+
+Wrath shivered with fear, "Plazia dances around those limits without fear, its mind unrestrained by morals or emotion. It has cleared rifts on its own to prevent the glassing of our planet. This has let it linger for so long without retaliation, biding its time as the monster builds its strength. We need more than what we are to fight Plazia. This is why my hunt for Plazia's eater ends with you, Harbinger."
+
+She wriggled outward, her form destabilizing a bit. She expanded, golden claws extending out of her deep blue body. She seethed,
+
+"That hivemind is our greatest failure and shame. Our kind could have stamped the mongrel out. It would've been more than possible if we attacked the being before it was this strong. We fought amongst ourselves, vying for territory and glory instead. Now all that we fought over is left to Plazia, and we fight over the scraps it leaves behind."
+
+I crossed my arms, "So why not just hire a team of Breakers? They sound like just what you need."
+
+"They would rather fight against bounties that guarantee wealth rather than assist our kind. We are poor by comparison to many species, our economies built on flesh and bone instead of steel and cores."
+
+I scoffed, "No wonder you offered your children then. They're what you consider valuable."
+
+"But of course. Our larvae are delicious, and they are considered the spoils of war when one colony conquers another colony."
+
+A set of claws sprung out of her head, creating a mandibled mouth. Some kind of acid drool leaked out of her face,
+
+"And I have partaken in the spoils of war many, many times."
+
+I looked back and forth, wondering if there was just a cultural disconnect here. Maybe, maybe not. Either way, I created a gravity well to catch her saliva, not letting it burn the ship. I'd have Obolis thank me later. Wrath's fangs retracted as she turned to me,
+
+"I will send you the necessary coordinates for my homeworld. May our kinds prosper, together, feasting forever."
+
+I got the confirmation she accepted my friend request as I blinked,
+
+"Yeah, uh, sure."
+
+She composed herself back into her feminine form, walking across the room. Keratin spikes disintegrated in her gelatinous frame, those near her giving the razor queen space. She made her way to the snack bar and began indulging in said snacks with great abandon, shoving down unreal volumes of food. Beside her, Hod followed suit. After a minute, they locked eyes.
+
+A competition spawned at that moment. Slime queen and birdman began eating food at an even more voracious pace. Nearby waiters walked past them, dropping platter after platter of exotic delicacies. These foods were wasted as both Hod and Wrath sucked down enough food to feed the rest of those here.
+
+They were both massive balls by the time they finished. The two bulbous, swollen guests turned to each other as Hod finished a single bite more than Wrath. She gave Hod a nod of respect,
+
+"You eat without end."
+
+"Hod hungry."
+
+Wrath scoffed, "I like this imbecile. He is both uplifting and a great devourer in his own right."
+
+They made merry, a crowd around them clapping at the impromptu entertainment. I peered around, looking for other oddities, and I found Althea talking with Caprika, Victoria, and three other albony noblewomen. Kessiah was at a bar, drinking other mercenaries and guards under the table. I hoped she kept it under control, considering her history with drinking.
+
+Florence and Torix showed up a while back, each of them discussing the intricacies of etiquette and politeness. That might have been the only point those two could relate with, but it was somehow bringing them together despite that fact. After my searching glance, everyone continued enjoying themselves. I took a moment to breathe, soaking in a moment of relaxation. Beside me, a portal appeared as Obolis stepped out. He carried a subdued black gemstone in his hand. It revealed markings of the cipher that looked even more ancient than the kind Obolis wore.
+
+Obolis raised it up, inspecting it as he said, "Look behind us."
+
+I turned, and Giess was shown near the central star of its solar system. Half of the planet was lit, and it cast a shadow behind it that widened with distance. It looked outright minuscule by comparison to the star, hard to even make out amidst the shining light. A section of the transparent panels powered up, electricity tracing the glass substrate via the gray reinforcement. A red circle cropped over Giess, and this circle magnified our view of it so that everyone could see with ease.
+
+Obolis sighed, "Soon, the glassing will commence. It is time I make my mark here."
+
+With a gravitational wave, Obolis lifted himself up into the air. He took a glass and tapped it as he did before, the resonations silencing the massive crowd gathered around. As they silenced, Obolis spread his arms.
+
+"Hello, my honored guests. We are here today to celebrate many things, the least of which is the death of a world that has spawned an untold number of horrors."
+
+Many of the albony here raised fists and roared. Obolis raised a palm, settling them down,
+
+"You might ask what could exceed the importance of such an event? I shall tell you - we are celebrating our allies during these dark times. As you all know, my Empire is at the center of this rebellion. Three of our planets have been attacked, the Adair family rallying with the rebels on those worlds."
+
+He squeezed a hand into a fist, holding his anger back,
+
+"Their disobedience has resulted in the death of millions. They fight for subtle freedom, one that holds no guarantee of safety or prosperity. What madness drove them to such depths, I will never understand. What I do understand is this - we will win this war."
+
+Albony and other aliens who supported Schema gave out shouts of approval. Obolis grinned,
+
+"But we cannot win alone. The Adairs are a cunning and prepared force, their methods both brutal and effective. During these trying times, I will be dipping into my Empire's treasury to fund the war. Just as well, I shall be taking choice treasures from my personal vault and giving them to allies who show grit, valor, and a desire to win."
+
+Obolis gestured a hand to me, and my heart sank.
+
+"Here is the Harbinger of Cataclysm. He, too, lies at the center of this rebellion, acting as Schema's spearhead. He has earned his titles through his many deeds. He killed the Destroyer of Worlds, Yawm. He has fought against Lehesion, the Shattered God, and been victorious. He has killed more of the Adairs than all others combined during his siege of Giess."
+
+Obolis raised a fist, "And he has barely scratched the surface of his potential. This behemoth has chosen to ally himself with my Empire without asking for compensation. Such is the extent of his moral backbone that even when faced against this mighty foe, he chooses the greater good."
+
+Obolis was really playing this up. He accentuated choice words with a pointed finger,
+
+"Yet our Empire does not accept kindness without returning the favor in kind. In my hands, I carry an ancient elemental furnace. It has been crafted from an umbral jade, ancient runes carved over its surface. It can handle tremendous volumes of mana, even when compared to other furnaces."
+
+He turned the jade to me,
+
+"Please, take this as a gesture of goodwill."
+
+I raised an eyebrow, wondering what he was doing. The solution popped in my head a second later. The guy was pulling a classic layering technique. Since he was already going to give me an elemental furnace, he figured why not make it into a show of sorts? It would make him many new allies, and it solidified our earlier deal. Clever.
+
+I saw no reason to argue, so I let the guy have his win. I floated the furnace over, snatching it out of the air. I inspected it for a second, the cipher carvings truly incomprehensible. Yup, this was the real deal. I gave it a slow nod,
+
+"Impressive. Thanks."
+
+Obolis turned to those present,
+
+"After you all see Schema's might firsthand, know that you fight on the winning side if you choose to join me. Schema will not be alone in rewarding your valor, as I have just demonstrated. Thank you all for listening and enjoy the rest of your viewing. It will be an explosive show."
+
+Obolis's speech aside, I peered at the furnace closely, and it was incredible. It used dual layering, triple depth etching, even matching the strata of the stone, adding complexity to its message. It was beyond anything I'd ever seen. Someone must have spent decades searching for just the right stone to convey this particular message. Now it was here, in my grasp.
+
+Oh man, once I figured out how to work this damn thing, Lehesion would be quaking in his boots. Or claws. Whatever, it didn't matter. I put the furnace in my dimensional storage, peering at Giess as Althea walked over. I eyed her, and her beauty was so stunning that my eyes could not be torn from it. We hugged each other, waiting for the glassing.
+
+A moment later, and it began. A vast dimensional crack formed in the distance. A pulse crossed the entire solar system, our dimension wavering. The others around me struggled to sustain this wave, many made nauseous. I stayed standing, unaffected by the sudden shift. As I did, I held Althea up, the shapeless arbiter grabbing her head.
+
+Those around us shook off their unease as an enormous, gray behemoth rose in the skyline. It floated towards Giess, the size of a small moon. Writhing masses of plated flesh rose from its surface. It pulsed with radioactive energy, many fusion reactors brimming underneath its skin. Its many eyes stared in all directions, hunting for more flesh to devour.
+
+It found Giess, pulsing itself towards it. This was a Spatial Fortress in all its might and fury. Even as those around me trembled at its sheer size and malice, a knot formed in my stomach. This wasn't enough to kill an Old One or even Lehesion. Don't get me wrong, the Spatial Fortress was impressive in its own right, but it just wasn't comparable to an Eonoth or Etorhma.
+
+Whatever they used to chain that massive eldritch had made it docile and weak. It moved with a sluggish crawl. Its instincts gave way to controllers who lacked the same voracity. It looked starved for nutrients. I couldn't kill it, but I know who could.
+
+I clenched my teeth. This was going to be a long day.

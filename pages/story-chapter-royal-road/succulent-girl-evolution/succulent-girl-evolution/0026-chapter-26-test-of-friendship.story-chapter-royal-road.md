@@ -1,0 +1,169 @@
+---
+id: 9e623dd7-f7a4-53fd-b50f-3ce7f908dff0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26: Test of Friendship"
+slug: 0026-chapter-26-test-of-friendship
+partOf: succulent-girl-evolution
+position: 26
+ownLength: 2182
+unit: words
+publishedAt: 2025-09-23
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2622788/chapter-26-test-of-friendship"
+royalRoadId: "2622788"
+---
+
+The next morning was just like the previous day, except everyone was in a better mood. The thrushes woke up earlier than usual due to the clear and open skies, and when Miss Fish brought Bubbles and Link back to the surface, they welcomed them with sweet birdsong.
+
+They resumed work, with Miss Fish worriedly warning Link not to be too reckless today; now that he was clearing the vines deeper into the forest and further away from the water, she hadn’t been able to distribute the herbicide as deeply, so they would have to toss the capsules themselves into the area they were planned on venturing into.
+
+Bubbles was much more cheerful today after last night’s pep talk from everyone. It helped that she took a more active role in helping Link today, as well. While the birds flew around the vine growth, baiting them to shoot at their agile forms darting through the air instead of paying attention to the ground, Bubbles scampered close to their roots to smash the capsules into the ground so that the herbicide could leak into the earth and slowly absorb through their roots. By the time the vines finally realized she was there, their aim was slower and their explosive power much less powerful, their seeds plunking weakly off of Bubbles’s new armored leaves, much to everyone’s satisfaction.
+
+Once the paralysis set in for the vines, Link would come in and resume his plant-clearing duties, and Bubbles would retreat to the riverbank as the birds began bringing her flower clusters again, business as usual. The group continued moving methodically through the forest with that strategy throughout the day.
+
+Everything went well until late that afternoon, when Bubbles began what they agreed would be their last expansion of that day. The birds did their thing with no problem. Bubbles made her way into the vegetation, also with no troubles.
+
+The real trouble happened when the ground started shaking beneath her roots. But before she could even figure out what was happening, the earth split apart, and a massive wall of green burst out of the broken earth.
+
+“Bubbles! Bubbles! Bubbles!” She heard the chorus of panicked chirps from the birds as they also realized what happened, as well as Link’s howl as the vines completely blocked her view of her comrades.
+
+Panic set in just as quickly as the dark did.
+
+~ ~ ~ ~ ~
+
+[My Guardian, your comrades are calling for you.]
+
+Miss Fish looked up from her brew. She was reformulating the herbicide; even though Link, Bubbles, and her songbird allies were doing a great job at clearing the vines out, she knew it was only a matter of time until they reached the mature vines, which would be a lot more resistant to the toxin. When they reached the original sprouts, they would need something stronger.
+
+And hopefully, they would also have more allies to fight with.
+
+Miss Fish carefully returned the magnifying lens she was using to the box containing soft, downy feathers beside her work station. The lens was a gift from her Rock to help in her work: a formation he created, imbued with magic, that allowed her to see how different elements and their mana interacted with each other. Using the lens was how she had become so adept at mixing fertilizers, purifying elements, and making nutritional pills for her forest and denizens.
+
+Swimming through the tunnels of her underwater cave-laboratory-home, she wondered what was happening. She had delivered a batch of herbicides only an hour ago; surely they wouldn’t have run out already. And there was still time until sunset, so she couldn’t imagine what would have occurred to call for this disruption.
+
+Unless… the vines were much more vicious than expected.
+
+Anxious, Miss Fish swam faster, preparing herself for the worst news.
+
+~ ~ ~ ~ ~
+
+Bubbles felt herself tumbling around in the dark, never quite able to gather her footing (or more accurately, rooting) as the vines kept swarming around her.
+
+Can you tell what’s happening? Bubbles asked Rock. Everyone’s okay, right?
+
+[The two plants are still attached to you, yes. And I believe the plant you were attempting to poison has kidnapped you and separated you from your allies.]
+
+So that means it’s just us that got captured! Bubbles said hopefully.
+
+[Yes, though I do not understand your optimism.]
+
+I just mean that the others will be fine, so they can come rescue us later…
+
+Finally, Bubbles rolled to a stop. She held still for a moment, waiting to make sure she was finally done rolling before lifting herself onto her roots.
+
+It was still impossible to see anything, though based on the texture below her roots she would guess she was still standing on a bunch of intertwining vines.
+
+A purple glow slowly brightened the chamber Bubbles was in, revealing quite a high ceiling, and indeed, lots and lots of vines. She peeked at the purple light to see a giant cluster of flowers hanging from the top of the chamber she was in.
+
+[I suspect we are in the presence of one of the original plants.]
+
+“Hello?” Bubbles called uncertainly. The flowers brightened.
+
+“Hello! I’m glad you’re here!”
+
+Bubbles was at a loss for words. The plant seemed remarkably friendly—too friendly to be causing Miss Fish all of these troubles. Confused, she mirrored the plant’s friendliness.
+
+“Um, thank you for bringing me here, I think..?”
+
+“Sorry, I know that was a rough ride,” the flower said apologetically. “I kind of panicked, because you were about to put some more of that gross stuff that makes it so I can’t move into me. Anyway, I really wanted to talk to you!”
+
+“About what?”
+
+“Well, I noticed you are also a plant that grows really fast!” the enemy—as Bubbles vigorously reminded herself—flower said brightly. “I thought we could be friends!”
+
+“Friends!” Bubbles exclaimed in surprise. She was so caught off-guard by the enemy’s congeniality, she couldn’t come up with a better answer.
+
+[Do not be fooled so easily! We do not know its motivations!]
+
+“I mean—I’d also like to be friends with you, but you’re doing some things that are hurting my other friends,” Bubbles amended.
+
+“Aw…” the flower dimmed a little in disappointment, but rallied quickly. “What am I doing that’s hurting your friends?”
+
+Bubbles paused, uncertain how to answer the question. Was this plant trying to act innocent? Or did she really not know? The flower’s question seemed genuine, so Bubbles decided to take her at face value.
+
+“Well, you drove out all the animals that live here,” Bubbles explained. “My other friend, the Guardian of this forest, is disappointed because she wanted everyone to live happily here.”
+
+The flower brightened again. “Oh! I remember the Guardian! She wanted me to grow!” The flowers shook with pleasure as they beamed with delight.
+
+“Yeah, and you did! But you grew a bit too much,” Bubbles said apologetically. “Have you noticed that there’s… pretty much no other animals and plants remaining in this forest?”
+
+“Oh yeah…” the flower pondered a bit. “I won the game. I’m sure they’ll be back to play later.” There seemed to be a sad undertone to the flower’s words, as if she was disappointed the others hadn’t returned to play yet.
+
+[This is terrifying.]
+
+How?
+
+[I… believe this plant has the mentality of a child. A freshly germinated seed. She doesn’t understand the consequences of her actions.]
+
+Dread spread through Bubbles, and she felt Fern and Cuddles shiver.
+
+“Hey, um… what’s your name?” Bubbles inquired, desperately trying to think how she could explain to the plant how serious her actions were without hurting her feelings. If she really was as deranged as Rock suspected, it would do no good to antagonize her.
+
+“They called me Throttler!” the cluster of flowers giggled, each individual flower’s titter echoing its neighbors, making it sound like a whole group of children were laughing. But instead of being sweet, the effect evoked an unpleasant shiver down Bubbles’s trunk. “Every one of the plants I played with called me that, so I guess that’s my name!”
+
+Bubbles felt her mind spin at how naive this plant was. I… I think she sincerely believes she’s done nothing wrong.
+
+[I agree. As I said, this is a terrifying creature.]
+
+~ ~ ~ ~ ~
+
+Miss Fish was numb.
+
+Bubbles was taken away, all while performing a task that should have ultimately been her own.
+
+And now here she was, paralyzed by distress, not even able to contribute to the discussion Link was having with her songbirds about how to save Bubbles.
+
+She despaired. Why did she think she could become a leader? She had gotten swept up in the moment last night while reassuring Bubbles… she somehow thought she also had a chance to become important and helpful, that she was finally ready to begin facing the challenge towards her final form.
+
+“Miss Fish.” Link’s stern growl snapped her out of her reverie. “Do you have any more of the poison capsule you were planning on dispensing into the waterways?”
+
+“I-I have it, but it’s in the middle of reformulation,” she replied, washing the tears out of her eyes.
+
+“Is it usable?”
+
+“It’s… at best, the potency is diluted from the original poison level, because I was converting it back to paralysis pills. At worst… they are just inert compounds,” Miss Fish said. Link’s growl increased, and she flinched at his dissatisfaction.
+
+The one thing I’m good at, and it’s still not enough… This fleeting thought floated through her mind, but Miss Fish viciously pushed it down as Link spoke again.
+
+“Bring me what you have. Can you package it in a form that I can carry?”
+
+“Yes! I will return shortly!” Miss Fish turned tail and swam furiously through her tunnels, trying to ignore all the objections percolating in her mind about how unstable the formulation was, how dangerous it could be to the forest, how it might accidentally hurt Bubbles as well, how it might not work at all…
+
+But she had to do it. She had to deliver a half-finished product; not a safe, somewhat weak paralytic, nor an overkill poison bomb… something she was clueless about the effects of. Because of her ineptitude, she couldn’t provide any sort of solution with confidence. She might have been more helpful to this forest if she had just let herself get eaten by a bear or fox when she was younger.
+
+She rammed her head into a cave wall, angry at herself. Just last night, she had told herself she would be like Bubbles: focus on saving others. And now here she was, focused on feeling sorry for herself.
+
+Rushing back into the cave that contained her most sophisticated laboratory, she busied herself with dumping all of the dosages and ingredients she had painstakingly separated out of the main mixing bowl (which was really just a giant hemisphere formed out of magic quartz that Rock made for her) back in. She began swirling the mixtures together, bringing the liquid to a boil as she did so.
+
+As the poison cooked, Rock glowed in the wall beside her.
+
+[Little one…]
+
+“It’s all my fault,” Miss Fish said softly as she prepared a container for Link to transport the liquid when it was done condensing into its smallest, most potent form: an old bird’s nest lined with her own scales, to keep the poison from leaking out of the nest or disintegrating it entirely. “I’m stuck in these waters, and I can’t help the one friend who had faith in me…”
+
+Rock didn’t say anything to her, though he did deliver a stream of mana into her mixture, helping its powers consolidate. She appreciated his assistance, after all the ways she had let him down.
+
+~ ~ ~ ~ ~
+
+Miss Fish watched Link lope away with the poison hanging between his jaws, the flock of birds fluttering after him. The birds had woven together a small net to better carry the capsule she brought him, and were just as anxious to rescue Bubbles as she was.
+
+She wished she could go with them. Even if she couldn’t help much.
+
+But she could help. She just couldn’t travel on land.
+
+Brimming with frustration, Miss Fish dove back into her tunnels, taking all the turns at speed. But she had lived in these caverns and waters for so long that the extensive network felt small, too small to contain her anger.
+
+She surged back outside to the pond, with half a mind to leap out of the water and flop after the wolf, her dignity be damned. She stopped herself, staring into the endless, daunting woods. What would she accomplish by leaving the water? She’d probably suffocate before anyone came back to push her back into the water, if they came back at all.
+
+The magpie might be her last hope… if she came back at all. But no—Miss Fish had to stop depending on other creatures.
+
+She turned back around and looked up at the waterfall.

@@ -1,0 +1,245 @@
+---
+id: 8aabf606-3f3e-5c3f-9b90-4f990db3eb1b
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 487"
+slug: 0187-the-path-of-ascension-chapter-487
+partOf: the-path-of-ascension
+position: 187
+ownLength: 5282
+unit: words
+publishedAt: 2026-04-10
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3257401/the-path-of-ascension-chapter-487"
+royalRoadId: "3257401"
+---
+
+Chapter 487
+
+Moments after the announcement ended, news started trickling back from each Great Power. The message had been projected through every possible method, trying to infiltrate as much of the Great Powers as possible.
+
+Or at least, that was what the initial reports indicated.
+
+The result was, predictably, widespread chaos. A war nearly broke out in Minkalla, but one word from Winter Hornet ended any thoughts of a quick retaliatory strike at the Sect cultivators.
+
+That left everyone with a single recourse, go home.
+
+Matt didn’t mind, having already seen the Empire's reaction. Officially, they’d tried to prevent the spread of the message, but with his credentials, he could see signs that the Empire hadn’t tried too hard.
+
+Neither had the Federation or the Corporations. Matt understood the first, and thought he did the second, but he wasn’t as confident.
+
+The other Great Powers' reactions were far more decisive. Rather than allowing the recruitment to play unhindered, their own internal security moved instantly trying to intercept the spread.
+
+They failed. The Sects’ border regions reached a saturation point at the cost of burning a lot of their soft power and low level infiltrators. They tried to penetrate the heartlands of the Great Powers, but the message rarely made it deep with only a few notable exceptions.
+
+While the broadcast itself hadn’t made it too far, word of it did from one pair of lips to the next pair of ears. No matter how much the Great Powers tried to keep things under wraps, people were people, and gossip spread faster than light, spreading the Sect’s message for them.
+
+That was where Matt couldn’t help but grow conflicted. At its core, giving anyone the chance to awaken was something he could get behind. However, everything after that was unnecessarily bloody. Any Tier 2 with a bag of the most basic healing potions could have saved everyone's lives, let alone Winter Hornet, a Tier 50.
+
+It felt… uncivilized. Wasteful.
+
+Matt thought things had ended when the weapon rattling fizzled out inconclusively, but he was wrong. He shouldn’t have been, the borders each Great Power shared with the Sects were such a small fraction of their totality, and the event should have faded away as another historical blip. While true in percentages, that wasn’t true in raw numbers. Few was not none, and that distinction almost proved explosive.
+
+Right when things were settling down, the Sects started to propagandize their initial success stories, redoubling their efforts to spread the message through the other Great Powers focusing on the border regions. He wanted to say the Sect’s only showcased the successes, but they were very willing to highlight anyone.
+
+The failures were treated the same as the victors, used for maximum value. Their stories were turned into challenges aimed at the confident. A particularly well aimed piece about a human and wind rabbit bloodline escaping one of the Clans’ border worlds, then awakening to be accepted into a notable Tier 20 sect, irritated someone of a high enough Tier that they issued a formal response.
+
+A border conflict rather than a full war.
+
+The Sects had picked a good time. Each Great Power was more interested in digesting their gains from the breach than seeking an immediate response on the battlefield. Not that the Sects earned any good will from the Monster Collective, the Republic, or the Corporations. No one was happy the Sects had stirred a pot none of them wanted to touch.
+
+Now, their Great Powers were forced to address the deeper undercurrent of resentment the announcements and followup had created. As brutal and inefficient as the Sect methods were, it was straightforward, without complicated applications, fees, or allotments. That was deeply attractive to a segment of mortal citizens in every Great Power.
+
+The Clans’ reactions were the fastest and simplest. Anyone trying to leave the Great Power, mortal or otherwise was affirmed to be a traitor who could be killed without question. Following the stick with the carrot, they slightly increased the amount of non-dwarves that they allowed to awaken per year. Chances were high they’d revert those changes in a mortal generation or two, but their move seemed to quell their internal problems well enough they officially put the incident behind them.
+
+The Republic’s reaction was the second fastest, but mainly because they apparently had clauses in place for such an eventuality. Internal mechanisms were used and a mortal backed petition was put before the senate. Janet used the unrest to push through programs to increase awakenings, but vengeance seemed to be a higher priority than solving the underlying problem among the senators.
+
+The Collective wasn’t any better. It took them months of internal deliberation, but they ended up doing something similar. According to rumors that were later confirmed by Imperial agents, the meeting had been a closer call than anyone expected. Instead of a fast and unified response following the normal Collective modus operandi, an initiative for a larger reform tried to gather the support it needed to be officially brought forward.
+
+The failure itself wasn’t interesting, but where that divide fell. Unlike the typical political patterns seen in the Collective, the split had been a generational one.
+
+The Corporations’ reaction at least got a chuckle out of Matt. They were formally allowing the Sects to try and recruit people out of their mortal populations so long as they were willing to repay them for the education and support the emigrants received until then. They were even willing to waive any interest, fees, or incremental costs incurred, but for some unknown reason, the Sects hadn’t replied.
+
+Matt could all too easily picture JR’s laugh as he made the offer. During those thoughts, he couldn’t help but wonder if the Corporations were in a more similar situation to the Empire and Federation than it might first appear. He didn’t allow himself to dwell on it, he’d be able to find out soon enough all on his own.
+
+The Guilds’ response was the slowest, taking advantage of their laxer awakening policies making their population's reaction less severe overall. Their reason became clear when their Tier 50, Alister, unveiled the Great Power’s next initiative: expansion.
+
+Using the glut of already cleansed worlds nearing settled space thanks to the breach, the Guilds intended to reach outward in a dedicated and coordinated push to make up for their shortcomings.
+
+Far from a spur of the moment action, the Guilds’ announcement was the culmination of two centuries' preparation. What did seem to be a newer provision was one that allowed any mortal who wanted to awaken to do so with no questions asked. The only requirement was that the applicants had to move to a freshly pacified world for at least a decade.
+
+With all of the monsters dead and rifts delved by the initial wave of combatants, their lives wouldn’t be at risk, but pioneering new worlds often came with its own challenges. Combined with free transportation, much of the riled up portion of the Guilds’ mortal population was redirected into the existing effort. It wasn’t enough to fully populate their yet to be acquired planets, but the influx of low Tiers would certainly make settling the worlds easier.
+
+The Emperor’s reaction to everything was simple. Ignore the outside and focus internally. Digest the gains from the breach and then reinvest. That was perfect for them.
+
+Once all the smoke settled, it became clear there was only one true winner out of the situation: The Sects.
+
+With fairly large mortal populations who were not treated well, they had more applicants than they could handle. Queues for mortals to enter a rift were common sights that were published abroad at every opportunity.
+
+Fatalities were high, estimates putting them at anywhere from fifteen to forty percent, but that didn’t stop people from rushing forward. It hardly even slowed them down. The Sects mortal population’s support of the initiative was close to eighty percent. That even held generally true among the people who chose to ‘remain silent’ as Winter Hornet had called them.
+
+The Sects hadn’t solved all of their own underlying societal problems. Far from it, but their morale was sky high as the various sects expanded recruitment, happy to snap up the ambitious and driven.
+
+How many of them would make it all the way to Tier 15 would only be seen with time, but everyone had noticed. In less than a thousand years the Sect’s would start to see their Tier 15 armies swell, and few wanted to see that.
+
+As a Great Power, their primary weakness had been their numerical disadvantage, but that looked like it might change. He, along with most scholars on the topic, had thought it would be inevitable when a time came that the Sect’s would have to change fundamentally.
+
+Far from leaning away from their brutal methods to widen recruitment, the Sects, or rather Winter Hornet, had stayed true to their core tenets.
+
+Weirdly enough, Matt found Janet’s personal reply to the announcement both thoughtful and well reasoned. Allowing the Sects to continue such practices with no mitigation was a crime against the Realm to some, but they seemed to be a minority. Most others seemed unbothered by what the Sects did to themselves.
+
+Matt only needed one message to Mara to confirm the stance was nothing new, and in fact the exact same one that people had towards the bloodline population in the Federation. Unable to change anyone else, he did what he could do.
+
+Work hard enough to not have such bleak idle thoughts.
+
+The moment they returned to their duchy, he dove into paperwork and dealt with their noble duties, while Liz went visiting their nearby vassals, giving Cato and Isabella one final break before they left again. Not wanting to waste any time, he even entered rifts, pulling an extra few hours out of every day to make mana. While he’d be making mana while in the Corporations, the teleportation network his rings relied on to automatically empty itself wouldn't work, which meant he needed to cover his obligations beforehand or annoy Allie more than he’d want.
+
+Thankfully, the trip was far from a surprise. They’d known and been preparing since the agreement, but he still felt rushed as the days raced by. After two months, he and Liz swapped duties, with him finishing off their vassal tour and her taking care of Palustris.
+
+Their hard work paid off as they had the final two months to themselves, but before he knew it, the time was upon him.
+
+Matt’s nerves grew more taut with every world they passed on their way into the Corporations, until he felt like one wrong move would snap him.
+
+He was so worked up that re-entering the Corporations’ Tier 47 node almost felt like trying to look into a mirror after having a nightmare. Logically, he knew nothing was waiting to just jump out and eat him, but he couldn’t help but worry he was wrong and he was walking into a trap like an idiot.
+
+Thankfully, logic proved itself stronger than his fears. Someone was waiting for them, but it was an attractive middle aged Tier 35 man who led them to an estate that had been set aside for their use in the largest of the megalithic space stations that orbited the Tier 47 Capital world.
+
+Matt had expected to visit JR with Manny to finalize the deal, but he was proven wrong when that was handled without him.
+
+He only got a simple message that Rosemarie would summon him in a month or so to pull his name out of his body and get the armor started. He wasn't looking forward to the process, but everything Manny had been able to find said it was safe. Combined with the Talent backed oaths, there wasn't anything else he could reasonably ask for, but acknowledging that did little to settle his nerves.
+
+According to the message, the two months before were his to prepare for the following decades he’d be spending in the Corporations, and he should use them. A part of him wanted to petulantly refuse to take part in the business part of the deal, but that would both weaken the cover they’d agreed on and be foolish.
+
+Instead of preparing, he got to savor his remaining time with everyone else as they all settled into the incredibly luxurious estate. It only took a few minutes for him and Liz to set up in one of the houses, but the others were slower, allowing them to explore a little.
+
+The estate was not only large where space was always at a premium, it also came with every possible luxury. Including ‘hot tubs’ that could simulate any mana type. He knew because that was where they found Allie and Aster as they played with combinations.
+
+The hot tubs proved to be a little too interesting, as they were nearly late for their guided tour of the megalithic space station that was supposed to end in a nice dinner. The meeting point was their front door, so they managed to make it, but it was close.
+
+Boarding a luxurious ship, Matt didn’t miss its unique construction. While technically a shuttle, the device was hyper efficient in a way that no Empire vessel could ever match. Not because of some impossible technical divide, but rather because its design was abusing the space station's layered construction by connecting to both the level below and above internal gravity plates. It was clever and spoke to just how optimized the Corporation's could be.
+
+It also reminded him how hard the task of setting up their own viable businesses would be, but he pushed that thought away, happy to listen to the tour given by the lively Tier 20.
+
+At least once he got over the pleasantries, but Matt had a lot of practice at muddling his way through one side flattery.
+
+To Trax’s credit, he was very good at his job. “Slightly larger than most terrestrial moons, the Corporations’ main space station houses almost a quadrillion cultivators living between the fifteen major levels. The four smaller satellite space stations house half again that many. That makes us one of the smallest capital systems out of the eight Great Powers, but everyone likes to count in a way that makes them look better. Though, the other stations’ average Tier's are lower than you will typically find here. After all, this is the oldest and most prestigious space station: Asa. Or more formally Asa One, but the Ascendancy of the Sun crumbled before they could even attempt a second, so few mind the designation.”
+
+Snorting, he waved at the miles of structural support they were flying through. “Not that it looked like they were going to try, given the expenses involved. While not the first attempt to truly recreate habitable biomes in space by any means, Asa was built without regard to cost by the Ascendancy of the Sun. Interesting tidbit, while they were profligate, they didn’t use spatial expansion anywhere in the construction due to the long term upkeep.”
+
+That followed what Matt knew. The Corporation's official stance was to expand existing stations, or build new ones when the first method became unwieldy, rather than using spatial expansion. Having a better understanding than most about the enormous cost of spatial expansion on The Sophron Imperium Maginex, he understood why the founding generation improved upon what had once been their cages rather than rush groundward.
+
+Housing everyone in space wasn’t cheap. In fact it came with its own significant risks and complications, but the Ascendency of the Sun had long ironed out such problems two ways. Magic and immortals.
+
+There were few naturally occurring problems that either couldn’t resolve, let alone both.
+
+As they exited out of one of the tunnels burrowing between structural support, their guide continued carefully controlling his timing. “The actual levels themselves, the ground so to speak, are only ten miles wide but those ten miles are carefully protected, with only official tunnels like this one acting as direct passage between layers. The levels themselves are magically reinforced and maintained, though their main purpose is to provide artificial gravity above while not interfering with the layers below. That is in fact one of the main operating expenses of this type of space station, though it's a relatively minor one. Few stations are built like this today because why waste so much money on upkeep? As for the obvious, why build this one like that at all?”
+
+Trax took a dramatic breath to perfect the reveal’s timing. “With roughly a hundred miles floor to ceiling, the Ascendency prided themselves on each layer of their slave pen to perfectly mimic a world's sufferance. Their hypocrisy was simple: if a place was indistinguishable from a world's surface, with miles of ground and miles of sky, what did anyone have to complain about?”
+
+As they exited the tunnel and into the light, a vast open sky that stretched on as far as the eye could see. And not any further, as Matt’s spiritual perception revealed. Time and the Corporation’s diverging mindset had shaped their home space station as much as it had their culture.
+
+“A lot in fact. Instead of wasting all of the space we filled it in. That’s where the floors come into play. Rather than fifteen levels with a hundred miles of sky, we now have fifteen levels with a hundred floors apiece.”
+
+As they fully broke through the illusion of what had once been a central thoroughfare through the floors, they got to see how truly packed the space station had become.
+
+Each floor was thin, a theoretical demarcation in some cases where exceptionally large buildings spanned multiple, but that hardly mattered. Every mile up or down marked a shift, a change, a deviation.
+
+Matt let himself enjoy the sight as they flew past floor after floor. It almost felt like a train ride, except the world was rotated ninety degrees. Saying no two floors were alike was an understatement.
+
+Spotting a section of a floor dedicated to the open practice of blood magic, he pointed it out to Liz who in turn directed him at a floor that had dedicated itself to enchanting of every type.
+
+“The only places we haven’t built are in the foundational levels themselves. It's incredibly illegal to do so and there is a Tier 45 skilled at divinations constantly on the look out for anyone dumb enough to try. That said, the undergrounds aren’t my favorite floors but hey, the rents are usually dirt cheap down there.”
+
+Laughing, Trax started talking about some, no doubt sponsored, things of interest to do on the various floors.
+
+He started looking for the mortals.
+
+It was harder than he thought it would be but his worries soon vanished. There was a remarkably large mortal population in the system but most lived in the numerous O’neil cylinders that floated around space like swarms of fish on slow, well planned cycles. That had spread them out enough he underestimated their numbers until his [AI] finished tabulating.
+
+There were more mortals than cultivators. Considering what Matt knew about Icliz, that actually made sense given how little mana a mortal generated. Keeping them near Icliz made managing his mana generation all the more stable. Little mana did not mean none.
+
+Remembering what JR had said about seeing the truth rather than following his preconceptions, Matt followed his interests and checked things out. A quick scan of the nearby cylinders showed him they were far from the destitute slums often seen as set pieces in movies. Then again, he’d have been more surprised if any Great Power would have anything close to actual slums in their capital system.
+
+In fact… combined with what he knew from getting some of the cylinders after the war.
+
+Matt raised a finger, stopping their guide’s explanation of a particular venue in one of the historical districts. “Are all of the mortal O’neil cylinders profitable?”
+
+Seeing him light up, Matt already knew what he was going to say. “That’s correct. Each cylinder is designed from its inception onwards to be profitable even if that profit is minimal, such as the case for mortal cylinders. They rarely strike it rich, but they can all maintain themselves off the cylinder’s exports, even if that export is food. By using the normal travel patterns, they can easily stock up on base goods like water and raw minerals pulled out of the low Tier outer systems rifts. Given their size and movement patterns, a typical cylinder will sell both bulk unprocessed or semi-processed goods as they ferry between the inner and outer system. They normally also have the capabilities to produce more refined, and therefore expensive, goods for better margins. In the case of local cylinders, ninety six percent are agricultural based. Good eye though, most who don’t already know that take longer to catch on.”
+
+Matt shook his head, deflecting the praise. “Just a lucky guess. Thank you for confirming.”
+
+Turning to Zack, Trax added with a nod so deep it was almost a bow. “As someone who grew up in one of the mortal populations, let me thank you on behalf of such people everywhere. All cylinders rely on the many bulk cargo ships moving between them, even some of the ones retrofitted with the earliest generations of Travel mana engine have become noticeably more mana efficient on the long cruises they perform, and the first purpose built ships are only looking more attractive. When you work on the kind of margins a cylinder can, these savings are a true boon.”
+
+“Have you tried using them on the cylinders themselves?”
+
+Trax beamed at Zach’s interest, explaining. “There have been experiments, but cylinders very rarely use them for long enough to hit the tipover point of efficiency. Still, research is ongoing and—”
+
+Seeing that Zack was interested enough to ask follow up questions, Matt looked back to the cylinders themselves. Or more accurately, the mortals inside of them. Most of the O’neil cylinders were at least partially dedicated to low Tier farms. They took advantage of the fact that the things humans ate usually required the same environments as humans themselves. The rest of the cylinders were dedicated to the mortals to, as far as he could tell, do with as they saw fit.
+
+Some were immaculate and others slovenly but nothing struck him as bad. In fact, each cylinder had its own finishing touches and flourishes that differentiate them. It was almost identical to what they’d seen on the floors.
+
+Liz leaned into him, looking into the direction he was investigating with his spiritual perception. “I don’t think they are too bad. Even the higher occupation cylinders still have a good amount of space per person. I–. You know, somehow I don’t think they are the people the Sects were trying to recruit.”
+
+Snorting, Matt couldn’t picture many of the mortals volunteering to fight a Tier 1 monster to the death. Indolent was the kindest word he could use to describe most of them. They were very firmly not the target audience for that broadcast, even if they’d live better lives simply by advancing to Tier 1. But then, risking one's life for a shot at immortality was a very different choice than risking it for a minor increase in overall health.
+
+Instead of lingering on the mortals, Matt listened to the descriptions of the floors and subsections given by their guide.
+
+While not Tier discriminatory, the top and bottom layers, the smallest ones, were unofficially reserved for the highest Tiers. Unofficial, because while anyone could rent or buy on those floors, few except the wealthiest Tier 45’s CEOs could afford to do so.
+
+At least under normal times. As Trax so eloquently reminded Matt of what he’d help set in motion. “Thanks to the recent break ups, space is as cheap as it will ever be. Building lots go up for auction every week right now. If you are interested in buying, a good rule to keep in mind is that the closer to the outer edge of the station, the more expensive anything is. Some of the more remote central places are even renting for exa-credits if you can believe it.”
+
+Liz immediately used the opening to ask, “Do either alchemy or bloodline stores have to be in specific areas?”
+
+“Not for alchemy, though depending on what you intend to specialize in, you might prefer some locations over another. However those questions would need a dedicated realtor to answer but zoning laws aren’t that strict. As for bloodline resources? There aren’t any firm restrictions on them either, but if you are looking to trade in high volumes, as I know some bloodline businesses do, being closer to the edge and its various hangers would simplify many things.”
+
+That prompted Melinda to ask her own question but Matt looked to Liz. “Are you still undecided?”
+
+Human Liz nodded while phoenix Liz shook her head, giving him a nice and obscure answer. “Long term, having some level of access to the unique Corporation resources of both professions will be useful, but that's the problem. I want both.”
+
+Leaning forward in her seat to speak with the row in front of them she continued, “Aster, come on, do the bloodline stuff so I can give my full attention to the alchemy. Then we get the best of both worlds. I know you also want to keep access to the rare bloodline materials we can’t easily import. Come ooooon. We can have our business collude together and everything, it will be fun!”
+
+Dropping her fox ears, Aster tried to look pitiful but her act didn’t last long. “Logically I agree, but emotionally I think I have a good chance of having my ice cream take off here. Do you know how impressive it would be to be able to say that I conquered the ice cream palates of two Great Powers? Think about the fame and fortune, Liz. Thinkkkkkk.”
+
+Liz didn’t relent, so Aster threw it back onto Matt, trying to distract her. “You are one to talk. You haven’t decided yet either.”
+
+“I don’t know what Titan or Quill will have interests in operating. In my mind, Titan’s not going to want to get involved with petty business decisions. I kind of hope Quill is the dominant personality for no other reason than I’ve been inspired by what we saw at the auction. But I brought a little of everything because I just don’t know what the ‘me’ without ‘me’ will want to do. What if I’m wrong and then I not only wasted time and effort? I might as well wait another month.”
+
+Glaring at him and his unassailable position, Aster sighed, “I’m just going to be exporting what already exists, so it shouldn’t take too much work to get my ice cream conglomerate rolling. I guess I can get a bloodline resource business started too. I don’t want to lose access to all of this either. But I’ll need help!”
+
+“Yes! You're the best, Aster!”
+
+“I know. Thank you for saying it, though.” Flashing a grin she added, “I'm going to buy a bunch of ice and cold related bloodline supplies first and you can’t convince me to do otherwise. Also, I don’t think it’s collusion to work with a friendly business so long as we don’t operate at a total loss? This is why we need to hire people more than we need to work hard, Liz. Let's solve money with money!”
+
+“That’s how we get scammed!” Liz indignantly shot back a little too loud, breaking their discussion. Topic breached, everyone started discussing what business to open even as they arrived at the dinner.
+
+Most of his friends only wanted to have a little fun before dusting their hands off when they returned to the Empire. It was that temporary mindset that gave them the confidence to open weird and unusual businesses, at least weird and unusual for them.
+
+Vinnie wanted to open a secluded private lounge, intending to bartend himself, despite never having worked as a bartender before. When pressed he shrugged, saying it sounded like fun and with Matt paying he had nothing to lose.
+
+Encouraging that mindset, Matt prompted the others to follow their fancy if they didn’t intend to continue the business after they left.
+
+Melinda and Mathew had decided to go into business together running a flower store. Their reason? They wanted to see, and more importantly smell, every flower the Corporations had to offer.
+
+It was a good one but in Matt’s opinion, Tara had the best answer. She’d decided to open up her own food stall while having no intention of selling the same thing two days in a row. She didn’t expect to make money, only have fun and maybe earn a smile or two out of people who found her stall and tasted whatever oddity she’d put together.
+
+Aster’s friends who’d decided to come along like Kelly, and Juan, had similar intentions. It was a vacation for them and Matt did everything he could to propagate that feeling.
+
+Cameron, on the other hand, wanted to give it a serious attempt. She set her goals at a much lower threshold than the rest of them but no business had it easy in the Corporations even a domestic cleaning one.
+
+He might have done a little too well, as neither Rah or Zack intend to open a long term business. Zack intended to investigate mana types that were more common in the Corporation than the Empire, using this chance to get up close and personal with them.
+
+Rah, on the other hand, wanted to plunder the Corporations’ various universities and institutes of higher learning to expand his horizons. Prestigious schools were their own corporate behemoths but as with most things in the Corporation, the credit was king. With a high enough price any door could be opened.
+
+Privately, he and Liz had a bet that Rah would either spend the least out of everyone, or the most. The price was ultimately irrelevant but his ‘business’ had the largest potential variance. The initial information Rah was looking for would all be cheap, but the more obscure it got the higher the price. Given his wide and varied interests, they were both confident in their stances.
+
+Hearing Allie have a more serious answer than most of his friends got him wondering just loud enough to hear if she’d been replaced by a body double, but he understood. Her opening a logistics company was an excuse to travel and widen her waypoint network. It was the correct decision, but that was why it felt so strange coming from her.
+
+She didn’t let him down.
+
+Leaning in, she mock whispered, “I’m also intending to start a snackery list! Every new planet, or space station or whatever, I go to, I’ll secretly try all their snacks. Then I’ll rank them. In a year or two, I’ll have conquered the Corporations by influencing their taste buds!”
+
+Aster responded immediately and without hesitation, “Then I’m going to buy up all the best snack locations and change their recipes.”
+
+“I’ll have already bought shares in them, so you’ll only be paying me!”
+
+“I—” Turning her glare onto him, Aster pouted. “Can we hire our COO’s already? I want to get started so I can tell them to counter everything Allie’s COO does.”
+
+“Hey! In turn, I’ll tell my guy to counter everything your guy does. How does that taste?”

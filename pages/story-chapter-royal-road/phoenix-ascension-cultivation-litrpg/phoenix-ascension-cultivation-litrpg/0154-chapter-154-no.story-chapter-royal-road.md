@@ -1,0 +1,287 @@
+---
+id: d1c7afc7-dafc-570c-bfe5-c7717cc78663
+page-type-slug: story-chapter-royal-road
+title: "Chapter 154: No..."
+slug: 0154-chapter-154-no
+partOf: phoenix-ascension-cultivation-litrpg
+position: 154
+ownLength: 2721
+unit: words
+publishedAt: 2026-07-25
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3725995/chapter-154-no"
+royalRoadId: "3725995"
+---
+
+When Peng Li hit the ninth level, there were some whispers and chatters, in fact, everyone was speaking about it.
+
+Now, there was complete silence.
+
+Not even the elder said anything else after he’d murmured his self-asked question.
+
+I was aware enough to admit that I was feeling a little awkward about it. I mean, it would definetely be better if I wasn’t everyone focus. At the same time, I couldn’t help but think that it wasn’t fair!
+
+I hadn’t even tried to get a good result, just average! How could I have known my light tap would make the stele unstable? Should I have simply not tried at all? Was two thousand points in strength really that impressive?
+
+After the silence settled, the elder jumped from his seat and landed next to me. He was taller than me by a good amount, though I was already pretty tall, so he was simply a giant.
+
+He frowned as he looked down at me, then at the stone stele. “Give me your hand.”
+
+I did as he asked and he sent some Qi to check something, I wasn’t sure what. However, what he’d found made his pupils widen for a second.'
+
+Letting to, he pointed at the stele. “Do it again.”
+
+“Elder, I-”
+
+“Again!”
+
+Jeez, fine.
+
+I walked back to the stele and gave it a similar punch, and the same thing happened. It was weird that I wasn’t feeling anything much in my bones, but they were pretty heavily reinforced, as was my flesh and my entire body really.
+
+“Again, harder.”
+
+“Elder… are you sure?”
+
+“Yes, do it.”
+
+I hit the stone stele once again, a little bit harder than before. That time, three elders had to hold it so it wouldn’t fall, and the level ten mark lit up even brighter than before.
+
+“Again!”
+
+Once again, harder than before, then again, the stone stele lit up brighter and brighter.
+
+At some point, every elder at the event had to hold it from falling over.
+
+The main elder frowned.
+
+“Hit it as hard you can, and use Qi this time.”
+
+“Are… Are you sure… elder?”
+
+“Did I stutter?”
+
+Since he did not, indeed, stutter, I did as he’d asked of me, though I really didn’t want to.
+
+But he was the boss here.
+
+Taking a step back, I pulled my fist and channeled Qi into it. I’d decided that just enforcing it should be enough.
+
+One split second later, my punch landed on the stele, and that time around it didn’t move at all. I’d realised that the main elder was holding it from moving, which was awful nice of him.
+
+That also meant that all the strength I’d used, after dispersing into the stone, was shot into him.
+
+Well he had no reaction, so it must have not been so bad. What’s that? His hand shook a little? It should be fine, he’s a powerful elder.
+
+As for the stele…
+
+It didn’t immediately explode, but soon after the tenth level lit up like a beacon, cracks began to show and soon they spread all over the stele until finally, it couldn’t hold itself together anymore and collapsed into a rubble of dust.
+
+The elder looked at the pile and nodded to himself, then after looking at me for a second longer, he disappeared.
+
+His voice, however resounded thorough the area.
+
+“The test is over, someone will announce the results.”
+
+That was all he said. For how much he’d talked earlier, his last words were a little short.
+
+Ah well.
+
+I walked down from the arena and sat down next to Meng Mao. He wasn’t really doing well, and was probably thinking on how he could handle the current situation.
+
+To that, I could only wish him luck.
+
+What mattered most was that I hadn’t gotten found out, which was good. Though I couldn’t help but wonder what the elder thought he’d figured out.
+
+Decidedly, I’d also ignored all the stares directed me and went on with my meditation. I did also check the other contestants that I thought would pass, who would henceforth be my competition.
+
+They were pretty shaken, even Peng Li who had such a powerful front looked at me as if I was a monster.
+
+Well, I was, but he didn't know that.
+
+Anyway, I would just wait until the results came in. It wasn’t like being first or twelfth meant anything at this stage. Maybe I should have used a finger, but then that would have been suspicious as well…
+
+I sighed inwardly and focused on breathing until the results would arrive.
+
+It was a few hours later when the sun was about to set that another, far older elder walked in through the mist, followed by some attendants with a table and a chair, as well as a few pieces of paper.
+
+Why not just store everything in your bag…
+
+He settled down in the middle of the arena and sat down, then cleared his throat.
+
+“Thank you everyone for participating in this elimination round. I am saddened that half of you will go, but there is nothing I can do about it. These results are the result of your own competence, or incompetence, and I wish you greater success in your future ventures.
+
+“Now without stalling for long, as there are still other preparations needing to be done.
+
+“The people that will participate in the tournament are the following:
+
+“From the Golden Claw Sect, Shi Wei Don, Yi Lingxi, and Fah Xing.” Both of them had a similar characteristic of wild hair, probably because of the technique they cultivated. Looking at their side, the elders they came with also had a similar mane of hair. Interesting technique.
+
+“From the Heaven Cloud Sect, Jiang Chi and Jiang Ji.” These were the twins that practiced a special technique. I was eager to see just how good they would be fighting together, but if they got eliminated early, then I would be disappointed.
+
+“From the Fiery Expanse sect, Pei Hua and Ling Zhi.” That Ling Zhi fellow didn’t have any trace of a Phoenix bloodline, but I could detect a somewhat decent flame brewing inside him.
+
+“From the Scholar Domination Sect, Xinzha Jian, Lei Bai and Shuzhai Shu.” I wasn’t sure what either of them did, but from what I could remember they all had pretty average scores, but they qualified so they must be pretty good.
+
+“From the Eternal Clan, Hwei Badai.” So the guy without a face was named Hwei Badai… Eternal Clan? What an imposing same, ha!”
+
+“From the Rock Point Clan, Lian Shu and Qi Rian” Rock Point Clan? Well, at least I knew who to look for afterward, though the discussion would be a little awkward. How could I even ask them if they knew something about the two beastkin orgasinsations?
+
+“From the Reaper Sect, Peng Li, Li Li, Xing Po, and Mei Ba Do.”
+
+“And from the Meng Clan, Fa Xiaolan.”
+
+The rest of the contestants were more than disappointed, as their heads dropped toward the ground. But what could they do?
+
+At least all of the sects had someoene join, but the clans didn’t have as much fortune.
+
+That was to be expected, as they didn’t have nearly as many resources as the sects, and it was obvious that those that did join from clans were some sort of freaks.
+
+Actually, it was just me, the misty faced man, and the two Spirit Beasts in disguise…
+
+No one else from the clans qualified, how sad.
+
+Thankfully, though, the event finally ended, and we could participate in the tournament. Half the potential contestants have been eliminated in one day, and the rest would have to fight for the top twelve spots.
+
+And I would probably need to watch a few of them… How boring.
+
+But maybe the battles would be a little exciting. Then again, these were Qi Condensation disciples, who didn’t even know what a dao was, let alone the existence of laws.
+
+It would be a pretty boring tournament, all in all. Even the Four Corner Sword Realm had the potential of boring me out because I’d seen so many and been through a lot more than even the elders at these sects could count.
+
+I’d even forgotten that number myself. It wasn’t important anyway.
+
+The contestants who didn’t qualify made their way back to their clans and sects, some more disappointed than others.
+
+They left on their carriages, or just walked down the mountain if they couldn’t afford one, and soon, everyone but those that could stay, left.
+
+Meng Mao wouldn’t linger for much longer, I was sure of it. In fact, he was secretely trying to make his way toward his own carriage.
+
+I had to pull him by the sleeve, as no one else had moved yet. It was rather embarassing, as a lot of people had their eyes on me.
+
+Thankfully, not for long, as the mists parted again, the patriarch of the Reaper Sect walked though, gathering everyone’s attention.
+
+The silence was solemn for a minute as Peng Long looked at everyone, his gaze lingering on Peng Li for a moment, although he frowned.
+
+Peng Li was clearly not expecting that, as he lowered his head in shame. Peng Long’s gaze lingered on me for a long time though, as he seemed to be studying me.
+
+Perfect Disguise don’t let me down now…
+
+It was already at Master level, if it went one step above it would striaght out evolve. How ironic would it be for my first evolved skill to be a disguise skill…
+
+Though I wasn’t even sure if it could evolve. However, I was beginning to feel it being pushed to its limits.
+
+The gaze of a cultivator at Peng Long’s level was a lot for me to bear, and even if he wasn’t that strong compared to the other people I’ve know, current me wasn’t exactly that powerful.
+
+For that reason I could only use some additional Qi to try and make my disguise better without him noticing. I’d already used the skill to its maximum potential, but still, a little bit of help couldn’t hurt.
+
+However, just as I was about to intervene, something clicked inside my mind, and a notification appeared in front of me.
+
+[Congratulations!]
+
+[Skill: Perfect Disguise has reached the peak of mastery! Master rank at 100% completion.]
+
+[Skill can evolve.]
+
+Whaat? System, you aren’t messing with me, are you?
+
+[Negative.]
+
+Wait, so I can evolve it right now, then?
+
+[No, you need to spend the appropriate amount of Skill Points and go through a process similar to your evolution.]
+
+What? That’s so lame!
+
+[I don’t make the rules!(╯°□°)╯︵ ┻━┻]
+
+Then who does?!
+
+[Access Restricted.]
+
+Annoying thing!
+
+It didn’t speak anymore after that exchange, but at the very least it’d given me some pretty good information. The fact that it refused to tell me more was very annoying, but I’d gotten used to that.
+
+Although reaching one hundred percent mastery at the Master rank made it so the patriarch left me alone, not having found anything wrong with me, thankfully.
+
+I wasn’t sure how I’d escape quickly in front of total power, maybe by sacrificing Meng Mao?
+
+Hmm… He is a little bit stronger than the average man but would he be able to fight off a patriarch?
+
+Better not to test that theory.
+
+Now all I had to do was wait and see what was going to happen next. The sun was already setting, and while I would be able to see just fine in the night if System had granted me a night vision skill of sorts, it didn’t so I had no choice but to follow the day-night cycle.
+
+Sure, I could use Qi to enhance my vision, but where was the fun in that?
+
+It didn’t take long for the patriarch to finally speak though.
+
+“Congratulation everyone.” Peng Long said with the smile of a proud grandfather plastered on his face. “It is a joyous ocassion. Eighteen of you had gotten the right to participate in one of my sect’s greatest events. Only twelve of you will make it, but stand proud knowing you had what it took to make it this far. However, the true challange only starts now. Tonight…”
+
+He paused, and countless lights lit up in the arena, where somehow tables, chairs, foods and drinks have been placed.
+
+There were exactly eighteen chairs, for all of us to sit down on.
+
+“We will celebrate. It’s only right that the elders stand up.” Peng Long said and pointed toward the mists. “Or they can join me for a drink if they so desire, ha ha ha.”
+
+His eyes shone with a glint, a hidden gesture was made toward Meng Mao, who’d caught it immediately.
+
+He knew that Peng Long wanted to talk to him.
+
+Sorry Meng Mao…
+
+The rest of the disciples didn’t move though, not before the elders didn’t walk toward Peng Long. He disappeared behind the mist, smiling.
+
+Only when all the elders followd him inside did the other disciples walked toward the tables.
+
+It was rather weird, I had to say. Definetely not what I was expecting, but should I really be surprised anymore?
+
+I followed after them, since I didn’t want to be the only left out, it would be rude and would put a target on my back.
+
+However, what I was most interested in was why they would make us do something like this? By all acounts, it was very strange, and I didn’t know what the goal was at all.
+
+Should we be getting along? We were going to fight each other in a few hours anyway.
+
+Although, as I sat down, I could not help but take a good look at the dishes, and to say that I was pleased would be an understatement. There was just… so much food. And it wasn’t basic food either, each ingredient was a trasure of heaven and earth!
+
+For my current level, that would have boosted my cultivation by a considerable amount.
+
+However, my dantian was about to burst as it was, but I’d still felt like it would be a shame if I didn’t grab them while I could…
+
+The atmosphere was too awkward, so the others didn’t start eating or drinking. Peng Li was sitting rather awkwardly somewhere to the side. I was surprised he hadn’t taken the head seat.
+
+But… I didn’t care about the atmosphere. I grabbed a plate and used Qi to pick out meat, which I was going to eat by myself, and some ginseng roots, as well as qi-infused leaves from a tree I didn’t recognise, and grabbed a bowl of bone soup.
+
+The bones themselves were still treasures, usable for many crafting materials, but the broth itself would invigorate one’s Qi when in battle, or just to relax while idle.
+
+The only thing I was worried about was how I was going to hide the fact that I wasn’t eating everything, but I figured that if I stuffed my mouth and pulled some things in the bag of holding, then I would be fine.
+
+And if I wasn’t… so what! They gave us the food anyway, what did it matter what I did with it?
+
+No!
+
+I stuffed the vegetables, roots, leaves and anything else with the aura of a treasure inside my mouth and sent them to my dantian without any hint of shame.
+
+Meat? In the dantian!
+
+Ginseng Roots? In the dantian!
+
+Hundred year old red leaf from an Ash Tree? In the dantian!
+
+In the dantian! In the dantian! In the dantian!
+
+Appraisal was very kind to tell me the name of everything I shoved inside, and the more I had the better I felt. More treasures to go into my dantian!
+
+You couldn’t even easily buy some of these plants… maybe!
+
+Either way, I was thrilled, and had to ignore everyone’s stares as I wolfed down on my food.
+
+Though that seemed to trigger their apetite, as they’d started slowly sipping from their alcohol and eating the delicacies.
+
+After feeling the rich spiritual Qi within them, they didn’t hesitate anymore and more or less copied me.
+
+And someone else that didn’t hesitate to devour treasures…
+
+Was the Little Emperor inside my dantian!
+
+No…

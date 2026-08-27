@@ -1,0 +1,467 @@
+---
+id: f8a60a54-d636-50d0-b20f-f3ef02722482
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED FORTY: Waves VI"
+slug: 0141-one-hundred-forty-waves-vi
+partOf: super-supportive
+position: 141
+ownLength: 4412
+unit: words
+publishedAt: 2024-05-10
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1630190/one-hundred-forty-waves-vi"
+royalRoadId: "1630190"
+---
+
+140
+
+******
+
+“I love grocery shopping!!”
+
+The voice was joyful, warm, and golden as honey. It sang out over the cacophony of thumping music, ringing argold slots, noisy laughter, and the squawking of the flock of macaws currently displayed on the arched screen that formed a roof over the crowded street.
+
+Natalie Choir stood in front of a casino that was decked out in flashing green lights. She was spinning in place, her outstretched arms full of takeout bags with restaurant names emblazoned on the sides.
+
+<<This is not grocery shopping,>> said Emilija. <<Shopping means you pay money.>>
+
+“Grocery getting then!” said Natalie. “I love it! Everyone in class said it would be hard to find some of this stuff, but the chefs are all so friendly. I have kitchen scraps from five different planets in here!”
+
+Emilija shook her head.
+
+“She does offer them all money.” Hadiza was watching a woman across the street who was wearing glowing silver wings and a matching leotard. The performer was six meters above the pavement, leaping through the air.“Adjuster?” she guessed as the woman paused to take a bow over the watchers’ heads.
+
+The other two followed her gaze.
+
+“She could be a Wright? Maybe the wings are tools she made,” Natalie suggested. “Oh! Do you think they are? Do you think they’re the kind of gear that only works with one of the creator’s skills, or does she sell them?”
+
+She started to head toward the performer, but stopped at Emilija’s voice.
+
+“Agility Brute,” the older girl said confidently. <<Using a very popular spell impression.>>
+
+“Awwww…are you sure?”
+
+<<She’s always sure,>> said Hadiza. Then in a teasing voice, she added, “Anesidora nerd.”
+
+<<I’m here to live the whole life!>> Emilija announced. <<You girls can’t even find the bus stops sometimes. You’d be lost without me.>>
+
+“I probably would,” said Natalie. “My Mama thinks you wear a halo, Emilija. She’s like, ‘That’s a young lady with good sense, Natalie. I wish you wouldn’t go out after nine PM, but if you do, you stay with her.”
+
+“Ha!” said Hadiza. “Next time your family calls, let me talk to them. She has fooled them.”
+
+Emilija bowed dramatically.
+
+Hadiza glared at her. <<Why were you so polite in front of Natalie’s parents, and when I introduced you to my father, you were wearing a fake tattoo on your forehead and eating a whole cured sausage? He is so strict. Now I have to pretend I left you behind after intake.>>
+
+<<You didn’t give me enough warning,>> Emilija replied. <<Was that seafood restaurant the last place on your list, Natalie?>>
+
+“There’s one more! They officially closed at midnight, but one of the uni girls who works there said I could come by. They have these big soft-shell eggs. This big.” Her bags smashed into her as she tried to hold her hands up to show them the size. “Laid by an eppy-eppy. Ebby-ebby? Am I saying that right? They’re supposed to be really creamy and taste like apples and mayonnaise.”
+
+Hadiza made a face.
+
+“Let’s <<find>> the eppy-eppys!” said Emilija. “Breakfast for tomorrow!”
+
+“You will eat anything,” said Hadiza.
+
+“Actually, I was going to turn them into a dressing. For—” Natalie’s words were cut off by sirens.
+
+All over the street, performers and revelers stopped and looked around in alarm.
+
+“What is this?”
+
+The girls drew closer together.
+
+Emilija said something in Lithuanian, and Natalie and Hadiza both stared at her in confusion. No translations appeared on their interfaces, but a moment later, System alerts did.
+
+[Disaster Alert: Attack on Matadero]
+
+[Disaster Alert: Low Probability of Chaos Exposure]
+
+[Disaster Alert: Oceanic Anomalies - Imminent
+
+Avoid seawater. Seek high ground. Beware of possible tsunami.]
+
+******
+
+******
+
+Flat on his back in bed, Lute clutched a pillow shaped like a fried egg to his chest and yawned. It’s so late. I should sleep.
+
+Instead, he pulled up another interface window. He had three arranged in front of his eyes now, all showing things worthy of deep contemplation. In the one on the lower left, Hazel was absolutely losing her shit. He set it to play in slow motion.
+
+I still can’t believe that happened.
+
+Hazel blowing up, even in such a phenomenal way, wasn’t that big of a surprise. She’d never been hesitant about dishing out humiliation and criticism to others, but she sure didn’t like the taste of them herself.
+
+A steady diet of praise and being told you can do no wrong must make someone saying they don’t like you because you did something wrong really hard to swallow.
+
+He was glad she was off Earth. He wasn’t sure that working for the Palace full-time would cure her, though.
+
+Maybe being separated from her parents, Corin, and Aulia will be enough to help her grow a functional personality, but with her usual job…she might end up even more of a monster.
+
+If Parethat-uur had had anything to do with managing Hazel, Lute would’ve called and warned the guy.
+
+Aulia confirmed Hazel’s crimes, outed her skill, and apologized on her behalf on camera.
+
+That was the part Lute was still marveling at. He wished he could see inside his grandmother’s twisted mind for just a second so he’d know what percentage of her behavior was based on her interest in Alden and what percentage was her irritation with Hazel. Surely politics was also in the mix somehow.
+
+And me too. Unfortunately.
+
+He turned his attention to the middle video. The volume was on so he could listen to it.  It was the kora player who had come to Lute’s seventh birthday party. The man had been filmed playing in Parc des Batteurs a couple of months ago.
+
+He was still one of Lute’s favorite street musicians.
+
+Would he teach me to play the kora? Would it be rude if I asked?
+
+He had been wondering about it for a while. It wouldn’t have felt rude before, when he was bound for a normal human life. Now it was more complicated.
+
+Just like everything else.
+
+He wanted to think that if a high rank with their hearing, hands, and brain all upgraded had approached him in June of last year and asked to learn the harp, he would have politely said, “I’m too busy to teach you, but good luck.”
+
+But he was afraid it would’ve been something more akin to, “Never. How dare you ask? Take your magic fingers and shove them where the sun can’t shine.”
+
+What if he thinks I’m just a show-off dilettante like stupid Hugh?
+
+“My Daddy says I don’t need piano lessons like you, whiff boy,” he muttered, imagining Hazel’s voice in his head. “The System will turn me into a natural musician as soon as I get Chainer, and then I can pick up any instrument I want soooo easy.”
+
+I wonder if Aulia’s right, and one day I’ll be old and I just won’t care about any of the things she said or did to me anymore.
+
+He couldn’t imagine it.
+
+He glanced at the third window. It was a picture from Emilija’s social media page. She’d posted it an hour ago, and he’d been staring at it ever since, trying to think of exactly the right comment to make.
+
+Something casual and friendly. Something that would make her smile. Something that said, “I’m a naturally engaging person who didn’t have to spend an hour thinking up this comment.”
+
+But it also needs to be mature. And a little funny. And smart. And not long.
+
+A universe contained in a single sentence. The poetic masterpiece of comments.
+
+If she’d been somewhere he was familiar with, he could have offered her advice for things to do. But her picture was of a team participating in a human stacking challenge outside of a casino.
+
+She was down in F, in New Sybaris. Lute been there just once, not long after he’d affixed, to see what it was like.
+
+What it was like was very loud and crowded and full of so many adults trying to age check him that he’d left without even setting foot in the restaurant that had been his intended destination.
+
+He’d mentioned it to Aimi, and she’d told him that Chainers weren’t allowed in the casinos anyway. She’d said it in such a sorrowful voice that Lute wondered if she really wanted to gamble or if the ban was somehow her fault.
+
+What if Emilija is there because she loves poker or something? If a girl agrees to go on a date with me, will she get a lifetime casino ban by association? I could learn a luck chain and put it on someone else just as easily as my—
+
+His concerns were shattered by the sound of a siren. He almost fell off his loft bed.
+
+Is that the fire alarm?
+
+A guy had set himself on fire last night, so the idea was fresh in his head.
+
+Then the System notices arrived.
+
+Lute had just enough time to read them a few times, get out of bed, and start pulling on clothes before the sound of a woman’s magnified shout came from outside.
+
+“Garden Hall residents!” she said in a clear but hurried voice. “All of you should have received instructions to report to campus shelters. That means the MPE Building for you. Please head there now. If you don’t know the location of the MPE building, ask a student in the Talent Development program. No running! No panicking! No staying in your rooms! We will be sending people in to check shortly!”
+
+Lute threw a jacket on. His mind was racing.
+
+Matadero? But nobody ever…
+
+And what does ‘oceanic anomaly’ mean? Giant whirlpools? Have the whales risen up against us?
+
+“System, I feel like you’re being a little scanty with the information here. Do you not know what’s going on for sure or something?”
+
+He started to zip up the jacket, but his hands stopped halfway through.
+
+Avoid seawater.
+
+Where’s Libra tonight? Where’s mom?
+
+******
+
+******
+
+“Listen, Jeffrey,” Reinhard whispered, dragging the Aqua Brute a few steps away from Astrid, who was calling a car for them. They were all three waiting under a shelter near one of the Rosa Grove Mall exits. It was designed to look like an oversized umbrella, covered in bright tube lights. “I’m trying to do you a favor here.”
+
+“Jeffy’s not short for Jeffrey.”
+
+“It doesn’t matter. Now listen.”
+
+“It’s long for Jeff.”
+
+Reinhard’s mouth closed.
+
+“A lot of people make that mistake,” said Jeffy. “I don’t mind or anything.”
+
+“Do you want to ride alone with Astrid or not?” the archer hissed. “I can go separately.
+
+Jeffy stared at him. “But we won’t be alone. There’s a driver.”
+
+“She obviously likes you, you blue-haired—!”
+
+“What are you two talking about?” Astrid asked. She was using the umbrella shelter’s curved handle as a prop while she tightened the laces on her shoes.
+
+“I was just telling Jeffy that I’m heading to the train station instead,” Reinhard said loudly. “I’ll go to my house. Sleeping in my old room’s more comfortable than campus anyway. Good night! Have a safe trip, you two! Bye!”
+
+Before either of them could ask questions, he took off.
+
+“That was absolutely my good deed for the week,” he said to himself several minutes later as he rode an escalator toward a train platform. “They both owe me now. I have done Cupid duty.”
+
+He mimed shooting an arrow at one of the lights overhead.
+
+A loud, rising wail broke his concentration.
+
+Reinhard stumbled off the escalator, squinting at the alerts in front of him disbelievingly. “Tsunami?”
+
+The word was being repeated by several people around him, in equally shocked tones.
+
+“Like big waves?”
+
+He gasped, then ran for the other escalator. He flew up it and then down the street, heading back toward the mall.
+
+“Jeffy!” he shouted as soon as he could see the glowing umbrella shelter. “Astrid! You guys haven’t left yet, right!?”
+
+The sirens were howling.
+
+“Jeffy!”
+
+When he reached the spot, he found Astrid waiting for him.
+
+“You did come back!” She grabbed him by his shoulders and then let them go again in a gesture that was more reality-confirmation than embrace. “Good. I thought you might, so I waited. Didn’t want you to be alone. But I was getting reallyworried that was the wrong move. Reinhard, the System—”
+
+“I know,” he said. “Where the hell is Jeffy? Did he leave?”
+
+“He’s gone,” she said. “It took him.”
+
+“What did?” he demanded, still looking around as if he expected to spot the Aqua Brute’s mohawk in the shadows.
+
+“Reinhard…”
+
+At the baffled, slightly helpless tone in her voice, he went still.
+
+“Oh,” he said. “You mean he got summoned.”
+
+“Yeah. That.”
+
+“Like Avowed do.”
+
+“Yeah.”
+
+They both stared at each other.
+
+“He’s on Anesidora still,” said Astrid. “It would be weird if it was an emergency summons to somewhere else, right? Under these circumstances.”
+
+“That would be ironic.” He ran a hand over his buzzed hair, then let it fall. “Hey, he’s first in our class to be summoned. We haven’t even been in school long enough to get a betting pool going on who it’ll be.”
+
+“There’s Alden.”
+
+“Well yeah…but Alden’s…his situation’s not really…”
+
+She swallowed.
+
+“I’m sure Jeffy’ll be fine,” Reinhard said. “The guy’s got an annoyingly great subclass that’s even more great in this situation. We’re the ones who need to get ourselves to a tall building.”
+
+“I know. Stay with me. He life jacketed me before he left, so I’m basically an emergency flotation device now. We’re not that close to the water though, so it might have been a wasted spell.”
+
+“Says who?” Reinhard asked. “If I see so much as an oversized raindrop I’m going to grab you. Since when do we have tsunami warning’s here? And why would anyone attack Matadero? That’s….”
+
+“It’s bad,” she agreed. “And we can’t make calls. I still have my old cell phone, but I left it back in my room. I’m getting so used to the interface.”
+
+They started walking, and before long, they were in a flow of foot traffic, headed toward the center of F and the highest buildings on the island.
+
+“He was scared,” Astrid said quietly as they cut through a plaza at the back of a noisy, nervous pack of people. “Not too bad. He was trying to read me his emergency summoning notice, and I was telling him it was fine, the System probably just needed him to help someone in the water. And he was saying of course it was fine and he’d do his best. Only I could tell he was scared. And then he was gone.”
+
+It was a while before Reinhard answered her.
+
+“Who wouldn’t be scared?”
+
+******
+
+******
+
+Alden went down the stairs quickly. But not too quickly.
+
+Don’t run. He’ll hear your feet on the steps. Running makes it look like you’re trying to get away from him.
+
+Trying to get away might make him wonder if he shouldn’t let you.
+
+He hoped he was being paranoid. Liam seemed more like a person who would beg for your stuff than a person who would actually threaten you for it. A decent enough guy who was coming face to face with the terrible choices he’d made tonight.
+
+It didn’t really matter.
+
+A scared stranger was unpredictable. The consequences for misjudgments were too high. There was a new, dangerous feeling in the air.
+
+Alden was acutely aware of his own weaknesses.
+
+I can’t outrun him. I can’t fight him. Helping him look for his family sounds like a suicide mission. And if I drop Zeridee, she could die.
+
+The second floor landing was below him, and the emergency lights in the stairwell were bright, illuminating an absolute wreck.
+
+The water had drained away, leaving behind so much destroyed stuff—the broken door, glass, wood, an easel, an office chair.
+
+A dozen flavors of unidentifiable, sharp, shattered crap.
+
+Alden approached it cautiously. There was no way to avoid stepping on some of it. But the hiking sandals Zeridee had gotten for him had thick soles, so that was something at least.
+
+Stay up there trying to wrap your head around this shitty situation just a little longer please, Liam. Just long enough for me to get out.
+
+He made his way through the maze of garbage step by step, trying to balance his need for speed with his need to still have functional legs and feet once he made it outside.
+
+You know, Dura Brute would actually be fantastic. Can Haoyu walk across broken glass like its beach sand already? I think so. Once he gets himself where he wants to be, he could just barrel through a mess like this for sure.
+
+Or he could cannonball off the roof and skip the stairs altogether.
+
+He was almost at the bottom when the stairwell reverberated with the sound of footfalls.
+
+Damn. Okay. More fast; less careful.
+
+Alden jumped four steps into a spot that looked clear enough, landing hard thanks to the weight of his passenger. Here, below the second floor, drops of water rained down from all the pockets and crevices of junk they’d been trapped in.
+
+Alden wanted to stop and study the movement of it, to see if he could figure out if there was some kind of rule or clue about how it got pulled toward its next target. The individual falling drops seemed to be responding to gravity like normal in here, but there was also a big wedge of water building up against the wall, as if the room were tilted.
+
+“Tina? Tina, are you there?” Liam was still talking loudly to the earring. His voice echoed.
+
+Alden reached the last staircase.
+
+Surprisingly, the debris wasn’t that bad down here. There was a lot of smaller stuff littering the floor. A whole electric keyboard was in the corner on its side. And the door was gone. It wasn’t even in the stairwell. It was just gone like it had never been there at all.
+
+Alden ran out without pausing to question his good fortune. Within three steps, though, he realized the ground floor was going to be pitch black as he got farther from the emergency lighted staircase.
+
+I know where the puzzle door is. Apogee’s ground floor had more than one hall lined with the reinforced boom rooms. He couldn’t currently see the central hallway where a few strides past the Long siblings’ torture room would lead him to the exit, but it wasn’t far at all. One turn and a straight shot. It’s fine.
+
+But the pause gave him a split second to consider another urgent problem. If he ran straight out into the street, he might not be able to jog away from Liam at whatever pace he wanted. Outdoors it was probably at least as difficult to navigate as this.
+
+And what if there wasn’t a puzzle door anymore? Just rubble for him to dig through to find a way out.
+
+If I’m even a little slow, Liam might catch up to me. If he can’t find his own shoes, he might actively try to chase me down.
+
+It’s safer if I watch him leave.
+
+The man was about to reach him.
+
+Thought turned to decision, and Alden rushed to hide himself and Zeridee in the deeper darkness of the hall he was on.
+
+Soon, his feet were crunching on things he couldn’t properly see. He dodged larger shapes and walked along a damp wall.
+
+I think the end is just ahead?
+
+It was getting harder to make out anything.
+
+He shuffled a few more steps, and he accidentally kicked a pile of something that shifted and plopped on top of his foot. It felt like a giant wad of wet toilet paper, which seemed unlikely.
+
+He shook it off and stood still, lifting a hand to his chest as if that might keep his heart from beating out of it.
+
+Okay. Okay. Far enough. Don’t let yourself panic and keep stumbling around for no reason.
+
+He turned just in time to see Liam stepping out of the stairwell. The light at his back make him super visible, and Alden’s lizard brain hissed that the other Avowed could definitely see him right now if he looked this way.
+
+He bent his knees and squatted to make himself less obviously person-shaped.
+
+Even if he looks this way, he won’t see me. Not unless he’s got vision enhancements to help him, and I don’t think he does.
+
+Liam had bumped into a couple of statues on the sixth floor while he was freaking out up there.
+
+Alden understood that people standing in bright spots couldn’t clearly make out dark areas. He knew Liam’s night vision should be at least as dull as his own was from being in the brighter stairwell.
+
+He still felt like a sitting duck.
+
+A few seconds passed, then Liam stepped out of the light and headed for his boom room. He’d never even looked in Alden’s direction.
+
+He’s walking well. Maybe he took the pain injector I gave him already.
+
+It was the same as the one Alden had taken earlier. Knocked everything down to manageable levels.
+
+But really…please put something on your feet, man. Fabric, cardboard, anything. Having no skin left on them is going to suck so much.
+
+******
+
+Liam looked for his shoes.
+
+Alden sat on the floor in the dark, monitoring him with his ears. There was scuffing, thumping, splashing.
+
+A lot of splashing. Did he find a whole lake in the torture chamber?
+
+Alden did have some questions about how the water had entered and exited the building down here. Without windows, had it punched through walls?
+
+I hope the whole place isn’t about to fall on top of my head.
+
+He stretched his shoulders, organized his thoughts. He was trying to take advantage of the short delay as much as he could. Zeridee lay across his lap. Water dripped from the ceiling around them as if in mockery of the rain that had so recently stopped falling outside.
+
+I’m going to need to take that stimulant sooner than I planned. And I need some light. I’m too tired to search the whole building for a light, but that’s what I’m going to need. How do people make torches? Can I do that?
+
+“Royce, can you hear me? Come on, Roycee. Come on!”
+
+Alden closed his eyes and swallowed.
+
+Liam kept calling for his brother and sister. His voice was growing more desperate every time.
+
+Please answer him, one of you. Please don’t leave him alone.
+
+The man was still looking for the shoes. Or maybe he’d found them and he was gearing up in other ways. That would be smart.
+
+Alden tried not to feel ashamed. And sad.
+
+Afraid.
+
+He tried not to wonder if he was letting another person suffer more than he had to. And at the same time, he tried not to feel like he was already in trouble so deep that he might not make it to the surface no matter how overcautious he was.
+
+He patted one of Zeridee’s arms a few times, just so that he felt less alone.
+
+It’s all right. We were moving forward well enough earlier.  We were getting closer and closer to safety. We’ll make it out.
+
+He didn’t quite believe himself.
+
+And because of that, because he wanted this terrible situation to end, he found himself pulling up his interface and flicking to the Privileges tab.
+
+One simple, weighty word at the bottom of the list stared at him:
+
+[MOTHER]
+
+So, thought Alden. I guess it’s finally time to think about this seriously.
+
+It didn’t look like a button. Just a word.
+
+Can I really…?
+
+A memory came to him. Sharp and fresh.
+
+Alis-art’h’s hands had touched his cheeks, in that teleporatation room on her spaceship that was supposed to kill him.
+
+“Mother,” she’d said, “if this one makes it to you, place both your eyes upon him.”
+
+And because of that, because Alis-art’h had suffered and served for who knew how long and earned herself “a favor or two” from that entity, Alden Thorn got to live a little more. He got the sort of extraordinary help the Quaternary had so regretfully informed him he was not deemed worthy of.
+
+More extraordinary than that, even.
+
+I got to make a couple of important choices. And I got the chance to be safe again.
+
+Though it had been as simple as Alis-art’h asking, Alden had never for a second thought it was actually simple.
+
+She hesitated. She was so upset about what happened to me. I saw how guilty she felt. But she still hesitated to ask.
+
+The knight had been walking out the door to leave him to his fate when she changed her mind and turned back to ask for that favor.
+
+This option—if it was an option at all and Alden wasn’t misunderstanding completely—would come with so much more than strings attached.
+
+I don’t think I’m misunderstanding. She was paying attention to me when I saw the privilege for the first time. She knew exactly what I thought. I even told her I knew she wasn’t a genie.
+
+He wasn’t Alis-art’h. He wasn’t owed.
+
+If Alden wanted to ask for favors, he was going to have to earn them. And Quiet Rabbits probably couldn’t do that.
+
+He opened a text message window to nobody.
+
+[If I use my final privilege, then don’t you have to talk to me? I can’t get in touch with Artona I without you.]
+
+The dripping of the water all around him seemed loud. A frigid drop hit his head and slid down the side of his cheek.
+
+Then, a voice whispered in his ear. It was a pleasant enough one, neither male nor female.
+
+“Are you using that privilege, Alden?”
+
+It’s answering. Like this. I can’t even use it to send a text if I beg right now, but it answers this.
+
+If just the mention of the privilege was enough to reprioritize its attention…
+
+Alden suddenly felt like he was hanging onto the edge of a cliff by a single fingertip.
+
+The question hung there, too, right beside him.
+
+[No,] he wrote. [I’m sorry for bothering you. I wasn’t thinking clearly. I won’t mention that subject again unless I mean it.]
+
+******

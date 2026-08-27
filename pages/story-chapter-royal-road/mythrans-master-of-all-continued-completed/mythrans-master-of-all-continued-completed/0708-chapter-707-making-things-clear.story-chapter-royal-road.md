@@ -1,0 +1,307 @@
+---
+id: 2f8daae2-d9bb-53c0-8ee0-c9b3ab54a325
+page-type-slug: story-chapter-royal-road
+title: "Chapter 707 - Making Things Clear"
+slug: 0708-chapter-707-making-things-clear
+partOf: mythrans-master-of-all-continued-completed
+position: 708
+ownLength: 3038
+unit: words
+publishedAt: 2018-09-21
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/292401/chapter-707-making-things-clear"
+royalRoadId: "292401"
+---
+
+Ren felt Elerlyth at the edge of his Aura as he flew over her shack. He sighed mentally and Artemis flew underneath him and caressed his face briefly, then flew out and above him to give him some privacy. He felt Elerlyth feel him, and she poured on the speed. Ren didn't slow down, however.
+
+“Ren! REN!” Elerlyth yelled as she came into view. “Wait up!”
+
+Ren had no choice but to come to a stop, and Elerlyth flew her steed around in a circle and stopped in front of him.
+
+“I'm not even going to ask how you got wings and can fly on your own.” Elerlyth said. “What I want to know...”
+
+“Can't this wait?” Ren asked. “I haven't seen Frikara, Andrela, Navruth, Verwynn, and Lusinia in a really long time.”
+
+“Ren, they waited this long, so they can wait a little longer.” Elerlyth said. “Now tell me... how did you do it?”
+
+“Do what?”
+
+“The game! THIS game! How did you fix it?”
+
+“How do you know that I did it?” Ren asked.
+
+“It's all over the internet, that's how! You put out a press release, for god's sake!”
+
+“I did no such...” Ren stopped talking and activated a virtual keyboard. Elerlyth couldn't see what he was doing, then after a few minutes, he chuckled. “Okay, maybe I did.”
+
+“Ren!”
+
+“Actually, Elise says it was Barbi's idea.” Ren said, typed a message, and dismissed the virtual keyboard. “That was actually pretty chancy on her part, considering the mess things were in.”
+
+Elerlyth stopped breathing when she felt in him a part of his deep sadness that mess had left, and she gripped the reins of her steed tightly to stop from reacting to it.
+
+“If I hadn't succeeded in putting things right, that press release would have been an admission of guilt.” Ren said. “Of course, there's more than that to...”
+
+“Wait, wait, WAIT!” Elerlyth yelled when she realized what Ren had just done in front of her. “Did... did you...”
+
+“There's a delay of course, since the time compression in here is...”
+
+“I can't believe you did that!” Elerlyth exclaimed. “You just sent a message to someone in the real world!”
+
+“...and got one back.” Ren said. “Elise can type really fast.”
+
+“R-Ren...”
+
+“It was only a slight modification of the code that's used to send messages internally.” Ren said. “I just added the option to choose an external recipient.”
+
+Elerlyth's mouth opened in that little 'o' of surprise and he smiled.
+
+“Before you ask... no, it's not available to the public.”
+
+“Wh-what? Why not?”
+
+“Because it would overwhelm the message system if everyone logged in and sent messages outside.” Ren said. “It's not intended for general usage.”
+
+“But, you just...”
+
+“It's so I can be contacted while I'm playing, without having to be forcibly logged out.” Ren said. “Finding out about the press release was pretty important.” He smiled. “I'm really glad that I can make people ignore me now.”
+
+“What?”
+
+“It's the Unobtrusive skill. People won't notice me unless I want them to.”
+
+“I noticed you.”
+
+“That's because I felt you coming and resigned myself to meeting you.” Ren said.
+
+“So, it'll work against other Adventurers, too?” Elerlyth asked, and then he disappeared. “Hey, wait!” She said loudly and went to flick the reins of her steed. “Don't run away when I'm talking to you!”
+
+“I'm still right here.” Ren said and smiled. He appeared in front of her and his hand was on hers to stop her from flicking the reins.
+
+“That's... kind of scary.”
+
+Ren chuckled. “It's a surprisingly simple piece of code.”
+
+“But...”
+
+“In passive mode, it's the exact reverse of my Tainted King title and cancels it out.” Ren said and let her hand go. “No one that sees me has to acknowledge me in any way, and if I make it active, they don't see me at all until I want them to.”
+
+Elerlyth just stared at him and he felt her shock.
+
+“So, what else do you want to know, since you won't let me leave without explaining things?” Ren asked.
+
+“H-how... how long...”
+
+“For what?”
+
+“P-programming! How long have you...”
+
+“A few minutes real time.” Ren said and gave her a knowing smile.
+
+“Only a few...” Elerlyth quickly did the math and squinted her eyes. “There's no way you could get this good at programming in only 6 months in your Sanctuary!”
+
+“I made a new Sanctuary with a completely different time compression ratio when everything went tits-up.” Ren said. “I also completely ignored my own rules and I maxed everything.”
+
+“I... I saw that.” Elerlyth said. “You did it for every class and filled every available XP slot.”
+
+“I didn't want to do it, though.” Ren said. “I just didn't have anything left to lose so I wanted them to see what I could do.”
+
+“You definitely showed everyone.” Elerlyth said. “Or, Barbi showed you showing everyone.”
+
+“Yeah.” Ren chuckled. “Look, I need to go. If you want to talk later, send me a message and I'll find you.”
+
+“Ren, I...”
+
+“Look, we've known each other for a long time. I can feel your reluctance, so just say it.”
+
+“I'm sorry.”
+
+“For what?”
+
+“Everything.” Elerlyth said. “I'm sorry for how I acted. I'm sorry for the way I treated you. I'm sorry for...”
+
+“Okay, I should stop you right there.” Ren said.
+
+“Wh-what?”
+
+“I can feel you trying to worm yourself back into my good graces, and I don't have time for that right now.”
+
+“Excuse me?” Elerlyth frowned at him. “I'm trying to apologize and you want me to stop?”
+
+“I can feel your emotions, Elerlyth. All of them.” Ren said.
+
+“I don't know what you mean.”
+
+Ren sighed. “You had some kind of conflict recently and you want to take your frustrations out on me.”
+
+Elerlyth gasped. “That's not what I want to...” She stopped talking when Ren openly winced. “I... I did have a conflict, and it involved you... and I prepped myself to have a sex marathon with you before logging in.”
+
+“Oh.” Ren said. “You can tell me about what happened later, since I really would like to know what happened; but, the sex marathon isn't happening.”
+
+“I know it's not.” Elerlyth snapped.
+
+“No, you don't. You fully expect to wear me down eventually and we'll have sex again.” Ren said sadly. “I'm telling you now that it's not going to happen.” He said and looked at her right in the eye. “Ever.”
+
+Elerlyth felt the truth in his words and it hurt her heart to hear them.
+
+“Yeah, I know that makes me seem like an asshole, and I'm sorry about that.” Ren said. “I'm sticking by what I said before, though. I ended both of our romantic relationships. The potential one in real life that you couldn't quite handle and the sexual feeding one here.” He reminded her. “You had, what you thought, was a difficult choice to make. You freely tossed me and my feelings aside and only considered what it would do for you.”
+
+“I know I did!” Elerlyth nearly yelled. “That's what I'm apologizing for!”
+
+“Thank you. I accept your apology.” Ren said. “What I am not going to do is accept you back as a sexual partner or in any kind of romantic relationship.”
+
+“I wasn't going to ask...” Elerlyth stopped talking when he winced.
+
+“We can still be friends and talk; but, I'm not subjecting myself to another potential disaster like our last sexual relationship ended up becoming.” Ren said. “It was great at first, was fantastic in the middle, and became a dumpster fire at the end.”
+
+Elerlyth couldn't argue that, because after she and Ren had leveled up her ability to max, things had started to change between them.
+
+“If I had the option to erase that last part, I wouldn't do it.” Ren said, to her surprise. “I saw what happens when people you love forget the things you went through.” He said, and she felt an even stronger piece of his deep-seated sorrow. “I won't put anyone else through that.”
+
+“R-Ren, I...”
+
+“If you're okay with only being friends and maybe hanging out sometimes, I'd be happy to have you in my life again. If you're expecting things to go back to the way they were before all of this, well...” Ren took a deep breath and let it out. “...you need to know that they can't. Not won't, can't.”
+
+“But, what if...”
+
+“There are no scenarios where I am going to forget that you preferred potential money over me, Elerlyth.” Ren said. “Even after several warnings by me, Stella, and Elise, you let the thought of more money seduce you.” He sighed. “It hurt me a lot when you did that... and I hurt myself a lot when I broke up with you.”
+
+“I... I know...”
+
+“I had a heart attack because of the strain I put on myself.” Ren said. “I am never doing that again.”
+
+“I'm sorry.” Elerlyth whispered. “I'm so sorry that happened.”
+
+“Not nearly as sorry as I was to see you leave.” Ren said, and she looked at him with wide eyes as she felt his emotions. “I've had heart attacks before and survived them all, Elerlyth. I've never met anyone like you, and I don't know if I'll survive another encounter like that.”
+
+Elerlyth closed her eyes for a moment, sighed, and opened them to look at him in resignation. “I understand.”
+
+“I don't think you do, not really.” Ren said and reached out with a fingertip.
+
+Elerlyth didn't try to move or avoid it, so he eased it towards her forehead. She felt an immense pressure on the front of her skull and her vision started to waver. The emotions he contained within himself were so powerful that even just being this close when he wanted to share them, stunned her.
+
+“S-s-stop.” Elerlyth said when his fingertip was barely an inch from her forehead.
+
+Ren smiled at her and let his hand drop. Like a switch had been thrown, the pressure stopped and Elerlyth took in several breaths.
+
+“Wh-what was that?”
+
+“I was going to share the emotions I had while we were breaking up, and about all the times I thought about you and how much I could have used your help while I was fixing the game.” Ren said.
+
+“But... but...” Elerlyth wasn't sure how to respond, since it felt like he had an infinite pool of them to share with her.
+
+“Look, we can talk again later.” Ren said. “As friends and only friends, because that's all I can offer you.”
+
+Elerlyth nodded and he floated back away from her.
+
+“You should try out the water and amusement parks while you're here.” Ren said and smiled. “They're unbelievably fun.”
+
+“Parks? What parks?”
+
+Ren chuckled. “Someone missed seeing all the advertisements.” He said and pointed. “Look, you can see the rotating double Ferris wheel from here.”
+
+Elerlyth turned and saw the monstrosity easily. “Oh, my god.”
+
+“The carnival food is great, too.” Ren said and Artemis flew down to float beside him. “Have fun, and I'll see you later.”
+
+Elerlyth turned back to him and was going to ask when he had made it all, and she saw that he was already gone. She sighed and flew her steed over to the amusement park to check it out.
+
+“How quickly she forgot that you can just make her not notice you.” Artemis said.
+
+“I think she only heard about a third of what I was actually saying.” Ren said. “She was concentrating too much on my emotions and not really listening to my words.”
+
+“Do you think she will contact you later?” Teepo asked.
+
+“No, but I'll contact her.” Ren said. “After I've dealt with a few things here.”
+
+“Dealt with?” Artemis chuckled. “That's kind of harsh.”
+
+Ren chuckled. “Only if I didn't love them.” He said. “Come on. Unlike what Elerlyth said, I can feel the maid's anxiousness from waiting so long.”
+
+“Even from this far out?” Artemis asked.
+
+“This far?” Ren smiled and tapped his chest where his Maker's Mark was glowing slightly. “I can always feel them now.”
+
+“Then we can't keep them waiting anymore.” Artemis said and took off flying at full speed. Ren took off right behind her and stayed with her easily.
+
+“You could have just used a portal.” Teepo suggested.
+
+“I could have; but, just because I can, doesn't mean I should.” Ren said. “Plus, I'll do that when I go to visit Lylyth and Yllana.”
+
+They came in for a landing beside the Main House in the county, and Ren deactivated his wings. Princess, Riley, and Stacy came out to greet him, and he pet them. They were back to normal, so he ran across the road and went into the warehouse, and saw Symmetra there working on a farm vehicle.
+
+“Hey, Ren.” Symmetra said. “How are y-mhm!”
+
+Ren had stepped up into the air and kissed her full on the lips, and she wrapped her 6 arms around him automatically. “I'm fine, Symmetra.” He said when he broke the kiss. “How are you?”
+
+“S-stunned.” Symmetra said and let him out of the hug.
+
+Ren chuckled and stepped back down to the floor and walked over to the giant forge. He opened the door and saw a 10 foot tall Greater Fire elemental inside.
+
+“Hey, Zetaya!” Ren said happily and tossed in a large bundle of Spider Silk fabric. “I'll be back to get you in a few minutes.”
+
+Zetaya picked up the bundle and pushed it inside, and the color of the Greater Fire elemental turned yellow for a moment.
+
+“We're going on a little trip.” Ren answered, shut the door, then waved to Symmetra and left the warehouse.
+
+“Everything okay over there?” Artemis asked with a chuckle.
+
+Ren gave her a kiss as he went by. “Wait here for me.”
+
+“Always.” Artemis said.
+
+Ren stepped through the rune barrier he had Officer Holly set up around the Main House, then went inside, up the stairs, and over to the apartment. He knocked on the door once and waited for a moment, then opened the door. Complete silence greeted him, and he stepped into the room. All 5 maids were there, as was Xuunah. She had guarded them the whole time, just like she had promised. He nodded to her and looked at Frikara.
+
+“Honey, I'm home.”
+
+“RENNNN!” Frikara cried out and fell into his arms, and he held her tenderly and let her cry her eyes out. He used his Emotion Siphon ability to absorb as much of her anguish as he could. She couldn't calm down, so he looked at the other maids and nodded.
+
+“RENNNN!” They cried out and rushed forward, and he tried to give each of them a hug as they piled in. He only managed to briefly touch them before deciding to just hold his arms open and let them get as close as they wanted, then he put his arms around those he could and held them. He used his Emotion Siphon ability to help them all by absorbing their anguish and sadness, and they all eventually started to calm down.
+
+“It's all right now.” Ren said and touched each of their faces, then touched the spot above his heart. “Can you feel me?”
+
+“Y-yes.” Frikara said and touched the same spot above her heart. “We don't even need to concentrate on the shared Aura anymore.”
+
+“You don't have to, but you can.” Ren said, then took a breath and let it out. “I was going to say that you don't know how happy I am that I can see you all again; but, you should know exactly how happy I am.”
+
+“We do.” Andrela said. “We missed you so much!”
+
+“I missed you, too.” Ren said. “I've been trying to get back to you this whole time, and just when I thought it was going to happen...”
+
+“That was so awful!” Lusinia said. “It felt like my heart was ripped out!”
+
+“Mine, too.” Ren said. “I'm glad you're all okay now.”
+
+“We... we're not okay.” Verwynn said, and they all looked at her. “You've been away for so long, and now that you're back, you... you haven't even...”
+
+“That's because once I start kissing you, I'm not going to be able to stop for a long, long time.” Ren said, and all 5 maids caught their breath at the truth in his words. “I need to run a quick errand, and I'll come right back.”
+
+“We'll be waiting.” Frikara said.
+
+Ren gave each of them a quick hug and walked over to Xuunah. “M'lady, may I speak to you privately?” He asked and held a hand out to her. She nodded and took the offered hand, then Ren cast the Portal spell and stepped through it with her.
+
+“AHHaahh... huh?” Teepo started to holler and stopped. “Hey, I didn't die!”
+
+Ren chuckled. “Do you really think I'd fix everything else and not fix you, too?”
+
+“You fixed me?” Teepo asked. “But, I don't feel any different.”
+
+“You didn't notice that you were summoned with a solid body?” Ren asked, and Teepo gasped.
+
+“Hey, you're right!” Teepo said, then chittered in laughter. “I completely missed that you didn't have to cast the other spells to make me like this!”
+
+“Ren.” Xuunah said in a severe tone of voice.
+
+“Yes, My Angel?” Ren asked.
+
+“Why are we in an underground chamber?” Xuunah asked.
+
+“It's the most private space I know, without going into the Sanctuary.” Ren said. “Only someone who knows it's here could ever find it, and no one can get in without making a portal to do it.”
+
+“So, it really is private.” Xuunah said.
+
+“It is, and I have something very important to discuss with you.” Ren said.
+
+“I can feel that, and I should already know what you are talking about.” Xuunah said. “You are shielding very well, even from yourself.” She stepped close and touched the side of his face. “It... it changed.” She touched the spot above her heart. “When you gave it back to me, it changed.”
+
+Ren nodded. “You see, when I was repairing everything...”

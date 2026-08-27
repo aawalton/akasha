@@ -1,0 +1,203 @@
+---
+id: 35a51eb7-86b7-55b7-b0fb-5cb34bcc70dc
+page-type-slug: story-chapter-royal-road
+title: "722. The Archangel Part Five"
+slug: 0128-722-the-archangel-part-five
+partOf: salvos
+position: 128
+ownLength: 1934
+unit: words
+publishedAt: 2024-11-06
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1889012/722-the-archangel-part-five"
+royalRoadId: "1889012"
+---
+
+722. The Archangel Part Five
+
+It was over in an instant.
+
+With a single word, the Spirit Lord defeated the Archangel. Edithe didn’t even understand what had happened. She was certain it wasn’t a Skill. She didn’t see any disruption in the strands of mana rippling through the air.
+
+But the Archangel came crashing down like it was compelled by an invisible force. And when it slammed into the ground, the earth didn’t shatter like it was struck by a falling meteor. Instead, only the earth that was struck by the Archangel broke open.
+
+Edithe’s head spun, watching as the Spirit Lord casually strode up to the Archangel.
+
+Many thoughts crossed her mind at this moment. But none of them concerned the reason why she even came here to the Spirit Plane.
+
+She didn’t even think about how if the Archangel perished right now, she would be out of options, and Mavos Academy would be destroyed by the Centinel Matriarch. And neither did she consider that if she were caught by the Spirit Lord, she would be executed on the spot.
+
+Her mind, her thoughts, and her questions were all directed towards wanting to know what happened next— wanting to know why the Archangel was even opposed to the Spirit Lord.
+
+The Archangel groaned, trying to pick itself up. However, the damage it suffered was evident. Its wings were broken, and its legs twisted. It was heaving in exhaustion, wheezing in pain as the Spirit Lord came to a halt without a hint of concern on his face.
+
+“I will…”
+
+The Archangel took in a deep breath, before letting out a scream as it tried to dash forward with the lance it created.
+
+“I WILL BRING DOWN THE JUDGMENT OF THE ARCRAEM UPON YOU!”
+
+But the Spirit Lord brought a hand up, and the Archangel’s movements slowed. The Archangel stumbled, before dropping to a knee as the same invisible force from earlier. It knelt there, restrained by an incomprehensible power.
+
+“I-I… will—”
+
+The Archangel gasped, and the Spirit Lord began to coil his fingers. Edithe blinked, seeing cracks beginning to form throughout the golden figure of the Archangel.
+
+And Soli spoke simply, shaking his head in disappointment.
+
+“You are a slave, Iudex.”
+
+He began to squeeze his hand tighter, and the Archangel let out a cry of agony. Its body began to curl together, being crushed by this invisible force. All the while, the Spirit Lord continued.
+
+“You merely follow the Arcraem’s will. You do as you are told. You allow yourself to adhere to its limits. You merely accept the powers it has given you. And that is why you are nothing more than a slave.”
+
+“And… y-you are insane…”
+
+Iudex spat back as it glared up at Soli. The Spirit Lord just raised his head to the sky, eyeing the [Ophanim] as they continued cleansing the corruption from the world.
+
+“But me?”
+
+Soli spoke as he brought his free hand up to the sky.
+
+“I shall rise above even the Arcraem itself.”
+
+And the Archangel tried to force itself to its feet when it heard that, only to recoil as Soli tightened his grip even further.
+
+“S-such blasphemy— do you truly believe you can become a True God?”
+
+Shaking its head, the Archangel endured the crushing force being imposed upon it as it brought its lance up and pointed at the Spirit Lord.
+
+“Do you truly believe you can overwrite the system that governs all of the Nexeus?”
+
+And the Spirit Lord lowered his head, a truly genuine smile crossing through his face.
+
+“Yes.”
+
+Edithe blinked as she listened in on this conversation. As she heard what they were saying. But she didn’t understand what they were talking about in the slightest.
+
+Slowly, Soli turned around as he faced the corruption pouring out of the earth.
+
+“Tell me, why should we rely on the protection and power of an unfeeling God that cares not about its world?”
+
+He relaxed his grip slightly, but the Archangel just stared at his back.
+
+“When the Worldwalkers came to the Nexeus and condemned all of the Nexeus to damnation, tell me: what did the Arcraem do?”
+
+Iudex gritted his teeth, not responding to what was being said. So the Spirit Lord just continued.
+
+“And even now, as the world continues to near its end, what has the Arcraem done to put a halt to the unending forces of the corruption?”
+
+Soli tilted his head back at the Archangel. Behind him, a brilliant pillar of iridescent light flashed as the chittering cries of the dying corruption could be heard. All that came back in reply from Iudex was silence.
+
+“Exactly.”
+
+The Spirit Lord said as he drew back. He faced the swarming corruption as he declared to the world.
+
+“I will save the Nexeus, Iudex. And more than that, I will bring justice to us all.”
+
+The entire time, the Archangel had been just staring almost angrily at the Spirit Lord. But finally, it reacted to what was being said.
+
+“What do you mean by that?”
+
+The Archangel asked, frowning back at the Spirit Lord. And Soli chuckled as he turned his head fractionally back to face Iudex.
+
+“Justice, Iudex. You are [The Judge Ordained By The Arcraem], are you not? Surely you understand what I mean when I say that I shall bring justice to the Nexeus?”
+
+The Archangel didn’t respond, but it almost seemed to understand what was being implied. Edithe, herself, who had no idea what they were even discussing could also infer what Soli meant.
+
+Vengeance.
+
+That was what the Spirit Lord was after. And Edithe couldn’t help but wonder: vengeance against… who?
+
+The Spirit Lord sighed as he faced the corruption once more.
+
+“Do you understand now, Iudex? I will not just put a halt to the end of the world.”
+
+Soli smiled as he spread his arms wide as another pillar of iridescent light came crashing down into the hole leading to the end of the world.
+
+“I will destroy the worlds of all those Worldwalkers who condemned us to our fate.”
+
+And the Archangel’s eyes went wide.
+
+“You wish to start a multiversal war…”
+
+It whispered as Edithe blinked. A multiversal war? She couldn’t understand what that meant. She knew that there were other worlds. After all, Daniel was a [Hero] summoned from Earth. But how could there be a war between the worlds?
+
+The Spirit Lord just sighed as he continued to keep his back turned to the Archangel.
+
+“No. Not a war. I simply wish to bring justice to the multiverse and punish these Worldwalkers for the crimes they have committed against not just our world, but the many universes that have been treated like a playground by them and brought to destruction.”
+
+“You truly are insane!”
+
+The Archangel exclaimed as it tried to stand up once again. Even as it struggled against this invisible force pinning it down, it shook its head and spoke defiantly.
+
+“I cannot allow you to do that—”
+
+The Spirit Lord glanced back callously as the Archangel panted. The more it struggled, the more its body broke apart. However, Iudex didn’t falter.
+
+“I will not allow you to destroy the Nexeus with your insane ambitions!”
+
+And with a show of incredible force, the Archangel resisted the invisible force crushing its body even more, bringing its iridescent lance over its head.
+
+“I WILL STOP YOU—”
+
+The Archangel screamed as it hurled the lance forward. And for the first time since he appeared, the Spirit Lord’s smile vanished from his face. His eyes grew wide.
+
+“[GODKILLER]!”
+
+Iudex threw the lance forward, and it shone with a golden light as it shot straight for Soli. He barely even reacted in time, bringing his hands up as if to catch the weapon. And an invisible force caught the shooting lance before it reached him.
+
+But the lance didn’t stop in the air. It only slowed down as it shone even brighter, sparking through the air like it was tearing straight through this invisible force. The Spirit Lord ground his teeth together as he held both his hands up, trying to stand his ground.
+
+But he staggered back. His body began to tear apart, even though the lance didn’t touch him. He let out a scream in pain as he fought back against the oncoming projectile.
+
+However, he couldn’t stop the lance from drawing closer. It inched towards him with each passing second as he roared. His left arm blew away, and the skin on his face began to flake off.
+
+And in that instant, the lance practically leapt forward until it was merely inches in front of Soli’s face. He clenched his jaw, before letting out a war cry, spreading his remaining arm wide.
+
+The lance struck him, before exploding into a flash of light.
+
+Edithe thought that the attack would have completely obliterated the landscape. If she were in the Mortal Realm, she was certain that all of Secely would have been destroyed from the explosion, and she would be caught and killed in the devastation.
+
+But the attack simply… imploded around the Spirit Lord.
+
+She blinked, watching as the blast of light faded away. All that resulted from the attack was a small crater surrounding the Spirit Lord. Most of the landscape remained unscathed. But Soli’s body was in an unrecognizable condition.
+
+Half the skin on his face was gone, revealing his muscle and flesh underneath. Even parts of his cheekbone could be seen through the holes in his face.
+
+His left arm was completely gone, while a massive chunk of his right shoulder had been blown away, leaving his right arm to hang limply from his side. His left leg was twisted and bent backwards, while a hole was left in the left side of his torso.
+
+Edithe was certain that the attack would have torn the Spirit Plane in half. And yet, it had only affected the Spirit Lord. So she couldn’t help but wonder if he had done everything in his power to prevent any collateral damage— concentrating the attack onto himself.
+
+“How did you like that? A gift to me from the Arcraem itself!”
+
+The Archangel cackled as it created a scythe, walking up to the Spirit Lord.
+
+“You say that the Arcraem is an unfeeling God that cares not for its world, huh?”
+
+Raising the scythe, the Archangel began to swing down at the Spirit Lord.
+
+“And yet, it created me to bring you to justice—”
+
+And Soli brought his remaining hand up, squeezing it into a tight ball.
+
+In an instant, the Archangel was crushed and condensed into a tiny golden sphere that was the size of an eyeball. Flicking a finger, the Spirit Lord sent the sphere flying into the mountain range in the distance.
+
+The entire mountain range collapsed as Soli took a step back. Edithe blinked, trying to process what just happened. Is the Archangel… dead? she wondered, staring at the cascading mountains.
+
+But the Archangel didn’t return like before.
+
+Soli looked up towards the [Ophanims] as they faced him reverently. And he addressed them simply.
+
+“Purge the corruption, and rebuild the barrier. Then return to my side.”
+
+Looking back down at himself, he closed his eyes.
+
+“This vessel is beyond repair.”
+
+He swayed where he stood as he looked back up at the Supreme Spirits.
+
+“I will need to acquire a new… one…”
+
+And with that, he collapsed to the ground, before his body began to disintegrate.
+
+All the while, Edithe, Druma, Willy, and Centina just stared as the battle finally came to an end.

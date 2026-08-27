@@ -1,0 +1,127 @@
+---
+id: 030e1dfe-e280-5b73-aea0-83fc1018a472
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1359 - Commanding Lead"
+slug: 0233-chapter-1359-commanding-lead
+partOf: the-primal-hunter
+position: 233
+ownLength: 2751
+unit: words
+publishedAt: 2026-07-22
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3711248/chapter-1359-commanding-lead"
+royalRoadId: "3711248"
+---
+
+While Jake and company were busy terrorizing the Central Domain, and all the other geniuses of the system event were busy exploring the land of treasures, others stayed behind in their Territories, also finding themselves busy. While everyone’s attention had turned towards the Central Domain, that didn’t mean the other Territories weren’t still there.
+
+It wasn’t entirely the same, though, with the third phase having introduced many changes. Changes, threats, and opportunities that those with a good head on their shoulders were primed to explore and capitalize on.
+
+“I agree there will be a shift,” Kindroth nodded, having had the same thoughts as Miranda recently. “There simply aren’t enough Administrators around, especially not now with all the strongest having gone to the Central Domain. The change to NPCs doing most of the fighting almost feels like a given.”
+
+“Indeed. The additional income from the Central Domain is also worth noting. It can give a substantial advantage, and truthfully, given enough Prima Credits, any Territory can become legitimately dangerous, even to top factions,” Miranda said, having studied the possibilities offered by the World of the Exalted Prima extensively, especially after the catalog of available purchases had expanded yet again with phase three of the event.
+
+During the second phase, most of the purchases everyone made from the Territory Beacon had been defensive or logistic in nature. They had been focused on making sure one survived the culling and had transportation and communication with one’s forces.
+
+Now, many were looking towards more offensive options. The Territory Beacon offered plenty in that department, and some of them were even surprisingly powerful, with their price, of course, reflecting that power. Miranda had studied her options thoroughly, and while no definite investments had been made yet, a plan was being put together.
+
+She and Kindroth both believed that as Territories continued to expand and the number of Administrators dwindled over time, these actual people would become increasingly spread out. Simultaneously, the Territories would continue to increase their defenses, making it harder for singular individuals or small parties to destroy Territory Beacons.
+
+These factors led them to conclude that NPCs would play a pivotal role in conquering. Administrators would shift from being the main combatants to being the generals leading groups or perhaps even armies of NPCs to attack other Territories. This belief was further supported by some of the special purchases available.
+
+Especially one caught her eye.
+
+Special Item: Aegis of the Commander
+
+A special item that can be carried by any Administrator, granting them a defensive barrier. The strength of this defensive barrier is dependent on the total number of summoned units under the commander’s control. Any damage taken to the barrier will be absorbed by the summoned units. While within the Aegis Barrier, the commander cannot make any attacks but must focus on commanding those beneath him. Should an attack be made, the Aegis of the Commander will require one minute (60 seconds) to reactivate once direct combat has stopped.
+
+Cost: 5000 Prima Credits
+
+Daily Upkeep: N/A
+
+This item itself lent incredible credence to this theory and was clearly an overpowered item by design for any kind of army leader. Sure, it came with hefty limitations that would make it useless to someone like Jake, but people like Jake were few and far between.
+
+What’s more, the price was incredibly low, and there wasn’t even any upkeep. That’s to say, one could relatively easily buy one for every commander in a Territory. Of course, without an army to command, the Aegis of the Commander would be useless, but there were plenty of options in the army department now.
+
+There were many vehicles, soldiers, and elite troops one could buy, but naturally, all of them came with daily upkeep, which was why Miranda had still held back from purchasing any yet. Instead, she’d been focused on making some kind of teleportation network within their Territory. Without a teleportation network, it would take far too long to even reach the borders unless one used one of the more expensive vehicles. Even then, they weren’t that fast when compared to peak geniuses like Jake, with Sandy definitely surpassing the more expensive options.
+
+“With the Prima Credits currently available to us, and with the daily income of the Territory and our one Vassal... we could field a couple of armies,” Kindroth muttered after mulling over the numbers a little. “And that’s not even counting whatever we get in from the Central Domain.”
+
+“I do feel like we should at least invest in one,” Miranda said, partly basing her opinion on what their Vassal was doing. While the Behemoth had naturally gone to the Central Domain, she had only brought along roughly half of the elites from her Territory. The rest were tasked with continuing to expand with the assistance of NPCs. Miranda had been in communication with the strategist the Behemoth had placed in charge of her Territory, and the two had gotten along rather well, though there was some tension as they hadn’t been made Vassals entirely of their own free will. Miranda being nice with taxes had helped the situation a lot, though, as she only took the minimum, leading to a better working relationship.
+
+Miranda still didn’t trust the United Tribes Territory much, but she did believe they wouldn’t be stupid enough to actively act against Jake. Doing so simply wouldn’t benefit them at this stage, and the strategist did seem logical if nothing else.
+
+“Which begs the question: who should lead it?” Kindroth asked. “I do believe you would be more than qualified.”
+
+“I’m not so sure myself, and even if I were, I prefer staying here and ensuring the safety of the Beacon,” Miranda shook her head.
+
+Kindroth nodded in understanding, offering no further suggestions. Miranda suspected he was fishing for a nomination, but she wasn’t going to give him one. While she had some trust in Kindroth, he ultimately wasn’t fully on their side and had conflicting interests due to his Patron’s close relationship with the Holy Church. She was fine with taking his advice and having him help when she could keep him close, as she genuinely didn’t believe he wanted anything but a good relationship with Earth, but that didn’t mean she was willing to give him an army to command.
+
+William also didn’t strike Miranda as a good leader, and she already knew that he would reject the notion. Well, alright, he would probably not outright reject it, but reluctantly agree out of a sense of obligation and perhaps a little fear, after which he would proceed to do a terrible job.
+
+Tramon wasn’t an option either, as he would definitely outright reject her. The True Dragon was also a great force in his own right, being the second strongest person from their Territory. Miranda could put up a good fight in her domain, but he was definitely stronger than her, and William... maybe William would also stand a chance, but it was difficult to say. Even Jake had a hard time gauging the actual power of the mage, as karma magic was so odd.
+
+Fortunately, they did have one extremely qualified candidate to lead the first army of the Milky Way Territory. Someone who had literally been a Knight Commander and had a profession already centered around leadership. What’s more, Miranda trusted him fully to carry out whatever orders he’d been given in a satisfactory manner.
+
+“We’ll call Holstred back from the Central Domain,” Miranda said after being in thought for a while.
+
+“The obvious choice,” Kindroth nodded. “But we will need more than one.”
+
+“Most certainly, but we can figure that out when the time comes. For now, one army is more than enough for us to learn about the mechanics of NPCs and leading armies of them,” Miranda said, crossing her arms while tapping her finger. “This system event is going to be a drawn-out one, and information is king. Any faction that can make better use of the World of the Exalted Prima mechanics than others will have an extreme advantage. Just look at the Altmar Empire, who’ve already figured out how to modify certain summons to improve them.”
+
+“Oh, for sure,” Kindroth agreed. “I do find it a shame the Void Follower of Oras didn’t choose to take part in this event. He would have been an excellent asset.”
+
+“He would have,” Miranda sighed. Arnold would have been so damn good in this event, and she did find it odd that he didn’t want to take part, but she also knew that once the man had decided on something, there was no changing his mind. Plus, it did make her feel a little more assured, knowing there was one powerful person on Earth should anything bad happen. There was still the faction that had tried to kidnap Jake to think about, and many potential hidden threats who could take advantage of most of the powerful people in the multiverse taking part in this event.
+
+“Alas, the situation is what it is,” Kindroth joined her in sighing. “We shouldn’t be complaining anyway, not with the haul of Prima Credits the Chosen of the Malefic Viper is bringing in currently.”
+
+“Let’s just hope things continue to go smoothly in the Central Domain,” Miranda said, a bit worried, though perhaps unnecessarily, as she knew she was an overly cautious person. Still, there were a lot of powerful people out there, and now all those potential threats had gathered in far closer proximity than before phase three.
+
+--
+
+Time passed as the days turned to weeks, with every faction’s elite finding themselves in the Central Domain unless eliminated by others. Fortunately for many of these, as they died within the Central Domain and not close to their Territories, no one could take advantage of their absences, meaning there was a good chance they could reenter the World of the Exalted Prima after a month.
+
+In fact, while there was still some fighting for Territories going on, few factions dared to commit much, relying mostly on the new army mechanics rather than their select top elites. No one knew if a seemingly “weak” Territory actually had a monster currently within the Central Domain, and it had already become common knowledge within the first few days that even if communication with the outside from the Central Domain was significantly hampered, one would get notified if one’s Territory was under attack.
+
+One of those monsters, along with two others equally feared – if for different reasons – was currently flying through the desert at high speeds within a massive space worm, having had a fun time recently.
+
+Their hit-and-run strategy had worked wonders as they made their way deeper and deeper into the desert. After about a week of high-speed travel, they had discovered a new set of oases that led to the underwater level of horrible design and misery again, and after a couple more days, they confirmed that this absolute watery hellhole of disastrous vibes was a separate one from the other water level of depression and sadness.
+
+Like last time, these oases were all connected, serving as a way to fast-travel in the desert, though only in a circular pattern. Using oases didn’t get one closer to the center, which was definitely the goal. This underwater world was another source of desert-resistance pearls, though, and if not for Sandy, Jake and Jasper would have definitely had to stop by to acquire a few. Fortunately for them, they could avoid that horrific place, as the pearls they did have were enough for an emergency.
+
+Not having to waste time on the underwater level allowed the three of them to continue into the desert more quickly... which proved to be quite a problem, when their usual strategy hit a snag.
+
+“Really? No one there again?” Sandy asked after Jake had gotten within range of the point of interest. It was a hole in the ground leading into a large cavern, where Jake didn’t see a single person.
+
+“Nope... I think we’re ahead of nearly everyone,” Jake said, shaking his head and letting out a sigh, as it seemed like they'd taken a commanding lead over most other parties exploring the desert.
+
+“No treasure?” Jasper asked sadly, looking utterly distraught at the notion.
+
+“Only if we go and do everything ourselves to acquire the treasure, and this particular cavern looks annoying. A lot of plant-like monsters within, and those tend to take a while to kill, especially as I don’t have any poison prepared,” Jake muttered. “Depending on how long we take, others might even end up getting here and interfering.”
+
+“Rather than make excuses and beating around the bush, just say you would prefer for us to continue deeper into the desert, as you also noticed the heat is clearly reaching an apex, and we must be close to whatever is at the center,” Sandy said, cutting to the chase immediately.
+
+“Hey, you said it,” Jake shrugged with a smile. “Chances are that this Palace of Abundance is at the center of this place, or at least whatever places lead to the Palace are there. While getting treasure in the desert is good, I doubt they can measure up to what can be found there, and from the system message, we’ll likely be able to get far more treasures that aren’t just turned into Prima Credits.”
+
+“Better treasure?” Jasper perked up, lifting his small paws in excitement.
+
+“Better treasure indeed,” Jake smiled while looking towards the ceiling of the space worm’s internal stomach. “So we’re in agreement? Or does the commander have other orders?”
+
+“That shtick died three days ago, move on already. And, sure, I’ve clearly been outvoted,” the worm said, continuing to tunnel beneath the sand towards whatever was at the center of the desert. Apparently, it was a lot colder beneath the sand than above it, making the worm feel more comfortable. Jake was also pretty confident that Sandy just wanted to relive their days as a sand worm.
+
+During this time, while traveling between points of interest, Jake had plenty of time to work on his alchemy, allowing him to noticeably improve his repertoire. He had even remade some Dragonsbane Poison and a few other more general Bane Poisons, though he definitely had the most progress with his good old necrotic and hemotoxin poisons.
+
+While complexity was an important facet of alchemy, especially as one improved through the grades, there was also something to be said about the more basic poisons. Jake was by far the most experienced working with necro- and hemotoxin, and he had always been the type to prefer keeping things simple.
+
+Necrotic and hemotoxic poisons had the issue of only working on biological lifeforms, but Jake reckoned those would be his principal opponents during this event, even if summoned creations from the Territory Beacon did lean technological. He also made some poisons that would work against anything, such as ethtoxins – soul poison – but most of his time was spent refining his tried-and-tested creations.
+
+The only real downside to doing alchemy inside Sandy’s stomach was Jasper having to be far away, as he didn’t like breathing in the toxic fumes created by the whole concocting.
+
+Like so, with Jake doing alchemy and Jasper doing... stuff... the three of them quickly moved towards the center of the desert, ignoring everything on the way. No levels were gained during this time, but Jake did have a good stock by the time they noticed something in the distance, with Sandy being the first to pick up on anything.
+
+“Sensing some serious spatial distortions straight ahead of us. Could be another point of interest, but it feels too much to not be anything super important,” Sandy said. “I’ll head topside so Jake can go out and check things out using those eyes of his. Should I get eyes? Nah, sounds like a good way to introduce an unnecessary weakness.”
+
+As the worm said, they headed up through the sand and flew into the air, stopping just beneath the layer with the scorching wind that would push them away from the center. Jake felt the pull of space immediately after and appeared in the sky.
+
+He was instantly struck by an intense heatwave, making him recoil and want to be eaten again immediately, but he tried to ignore it as best he could while scouting into the distance, and... yeah...
+
+“That definitely qualifies as a palace.”

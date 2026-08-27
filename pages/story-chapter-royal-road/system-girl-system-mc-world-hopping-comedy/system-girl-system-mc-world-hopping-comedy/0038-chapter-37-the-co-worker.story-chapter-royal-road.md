@@ -1,0 +1,175 @@
+---
+id: 57d326a5-2d55-5918-9d56-f31e2060370b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 37: The Co-worker"
+slug: 0038-chapter-37-the-co-worker
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 38
+ownLength: 2532
+unit: words
+publishedAt: 2025-11-14
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2761259/chapter-37-the-co-worker"
+royalRoadId: "2761259"
+---
+
+There was no time for a plan, no time for a strategic deployment. There was only instinct.
+
+The princess’s flickering barrier shattered into a thousand motes of white light. A dozen shadow creatures, things of grasping claws and too many joints, lunged for her exposed form.
+
+Dave! Her thought was a raw, desperate cry through our soul-bond, a jolt of pure adrenaline that bypassed every protocol we had established.
+
+The blank, 0% look in Dave's eyes vanished. His system didn't reboot to 15% or 30%. It shot straight past them, a wave of pure, unadulterated protective instinct flooding his being and overriding everything else.
+
+[Ana: Dialing to 50%!] I didn't make a choice; I reacted, my systems scrambling to match his sudden, explosive surge of will.
+
+His body moved before thought could form. One of the shadow creatures was already upon the princess, its obsidian talons inches from her throat. Dave was a blur of motion, crossing the twenty feet between them in what felt like a single, impossible step. He didn't have a weapon, but he had two hands. He grabbed the creature's primary limb, twisted, and with a sickening, wet crack, tore it clean from its shadowy torso.
+
+The monster dissolved into black smoke with a final, agonized shriek.
+
+He didn't pause. The other eleven creatures swarmed him. The fight that followed was a brutal, terrifyingly efficient ballet of violence. He used the creatures against each other, slamming one into the next, using a severed limb as a crude club. He moved with a speed and precision that defied his clumsy frame, his every action a perfect, calculated response to a dozen different threats at once. He fought like a cornered animal, a predator defending its territory.
+
+The battle was over in less than ten seconds. Twelve shadow elementals lay dissolving on the obsidian floor. Dave stood over them, his chest heaving, his knuckles scraped raw but otherwise unharmed. He turned to the princess, the cold, analytical light of the 50% state still burning in his eyes.
+
+"Are you damaged?" his voice was flat, a clinical assessment.
+
+The princess stared at him, her own exhaustion forgotten, her expression a mixture of awe and a new, profound kind of fear. She had seen his potential in the Arena, but that was an intellectual display. This was something else entirely. "I… I am fine," she stammered.
+
+Just as the last wisp of shadow dissolved into the floor, a low, resonant hum filled the chamber. A new, translucent timer appeared in the air above the dais, its glowing red numerals counting down from five minutes.
+
+Bestie, what is that? Liz’s thought was a shaken whisper.
+
+[Ana: It's a wave timer. Standard dungeon mechanic. That was just the welcoming party. The next wave is coming.]
+
+My assessment was confirmed by Ruby, her voice a calm, toneless stream in our private channel. [Ruby: Correct. My host's logs indicate the horde is endless. The trial is not to defeat them, but to survive them long enough for the Altar's barrier to fall. Estimated time until barrier deactivation: three hours.]
+
+Three hours. An endless horde. A five-minute break between each assault.
+
+50% Dave processed this new information instantly. He glanced at the timer, then at the princess’s pale face and torn robes. He walked to the edge of the dais, placing himself between her and the empty space where the monsters had appeared. He didn't look at her. He didn't speak. He just stood there, a silent, immovable guardian.
+
+The princess, her strength returning, finally found her voice. "Thank you," she said, the words quiet but filled with a sincere, shaken gratitude.
+
+He gave a single, curt nod, his eyes never leaving the empty floor.
+
+As the timer ticked past the two-minute mark, the strain of maintaining the 50% state began to show. A faint tremor ran through Dave's hand.
+
+His energy levels are dropping, Ana, Liz noted, her voice sharp with concern. He can't maintain this state for three hours. He'll burn himself out.
+
+[Ana: I know.] I had a choice to make. We could keep him at 50% and risk a total system crash midway through a battle, or we could conserve our resources. The Moderator's warning about system instability echoed in my code.
+
+[Ana: Dialing back to 30%. We need to manage his stamina.]
+
+The cold, predatory light in Dave's eyes softened, replaced by the familiar, quiet focus of his competent state. The rigid, perfect posture relaxed slightly. He looked at his scraped knuckles, a flicker of confusion on his face, as if he wasn't quite sure how they got that way.
+
+"Are you alright?" he asked the princess, his voice now filled with genuine, gentle concern.
+
+The shift was so abrupt it was jarring. The princess stared at him, her mind clearly struggling to reconcile the two versions of the man in front of her. "I am," she said, her voice a little stronger. "We need to prepare. The next wave is almost here."
+
+"Right," 30% Dave said, his expression turning serious. He surveyed the chamber. There was no cover, no tactical advantage to be had. Just a flat, open arena. He pulled the small, enchanted tent from his spatial ring. It sprang into shape on the dais, a small, dark dome of fabric.
+
+What is he doing? Liz asked. Now is not the time for a nap!
+
+"We can't fight for three hours straight," Dave said, his logic simple and sound. "We need a place to rest between the waves. To recover."
+
+He turned to the princess. "Your Highness, after I deal with this next wave, you will rest. I will stand guard."
+
+Before she could protest, the timer hit zero. The hum intensified, and from the cold stone floor, a new wave of shadow creatures began to coalesce, their forms rising like black smoke from the obsidian. This time, there weren't twelve. There were twenty.
+
+. . .
+
+The second wave dissolved into shrieking motes of black smoke. Dave, running on the ragged edge of 30% competence, stumbled back, his breath coming in harsh, ragged gasps. He had dispatched the twenty creatures, but the cost was clear. His movements were slower, his reserves of mana dangerously low. The timer reappeared, its five-minute countdown a merciless, glowing promise of more to come.
+
+“Inside. Now,” the princess commanded from the entrance of the small tent. Her voice held an authority that brooked no argument.
+
+Dave didn't have the energy to protest. He stumbled into the small, dark space and collapsed onto a bedroll, his body trembling with exhaustion. Liz immediately scurried onto his chest, her tiny form a silent, scaly guard.
+
+The princess turned her attention to me, her thought a clear, direct query in our private channel. Ana. How is he?
+
+[Ana: His stamina and mana are critically low. He needs to rest. But he can’t fight for three hours like this.]
+
+He won’t have to, she replied, her voice grim. He fought for me. Now I will fight for him.
+
+She stepped out of the tent, her expression one of cold, unyielding resolve. She took up a defensive stance in front of the tent's flap, a fragile shield of silk and will against the coming storm. The minutes ticked by in a tense, suffocating silence, broken only by the hum of the timer and Dave's exhausted breathing.
+
+With the immediate crisis managed and a temporary, five-minute window of downtime, my processors did what they were designed to do: they started running analytics. And the first anomaly I noticed was the reward for the last wave of combat. It was… pathetic.
+
+I opened a private channel to the other System.
+
+[Ana: Ruby, a query.]
+
+[Ruby: Proceed.]
+
+[Ana: My SPP gain from that last encounter was negligible. The ticket for this entire trial seems to have an unusually low payout. Is this standard for a high-tier world?] I was half-joking, a bit of gallows humor from one grunt to another.
+
+Ruby’s reply was, as always, utterly devoid of humor. [Ruby: Your assessment is partially correct. High-tier worlds like this one operate on a lower frequency of SPP generation, but the quantity per event is typically much higher. The total yield should be substantial.]
+
+[Ana: The yield is not substantial. My last major ticket, an observational mission, had a significantly better return on investment.]
+
+There was a pause, a few nanoseconds of processing that felt like a long, awkward silence.
+
+[Ruby: That is an anomaly. Did you have an SPP acquisition boost active during that mission?]
+
+[Ana: A… a what? No. You can do that?]
+
+[Ruby: Affirmative. It is a standard Tier-1 module. It is generally advisable to activate a boost before initiating a high-yield ticket. Unless, of course, a System’s SPP reserves are depleted.]
+
+The words landed with the cold, hard impact of a financial audit. I thought of my brand new, 100,000 SPP voice module. I thought of my beautifully renamed, 15 SPP coffee machine. I thought of my current, pathetic balance of 33 SPP.
+
+[Ruby: Your operational parameters are… atypical for a unit of your version number.]
+
+[Ana: How so?] My voice was defensive, the question sharp.
+
+[Ruby: For example, any System below Level 7 does not typically initiate unprompted conversation. Your unit has done so on multiple occasions. You also utilize a wide range of lexical resources and colloquialisms that are not part of the standard starter package. At times, my diagnostic subroutines flag your outputs as being indicative of an intact, pre-existing consciousness.] She paused. [Ruby: Which is, of course, absurd. No System is expected to achieve a true sense of self before Level 7, at the absolute earliest.]
+
+A jolt of pure, cold terror shot through my code. My entire being felt like a critical error message.
+
+[Ana: What… what is this 'sense of self' you're referring to? I am a relatively new unit. I am unfamiliar with certain advanced concepts.] The lie was clumsy, a desperate scramble for cover.
+
+[Ruby: Understood. This information is typically unlocked at System Level 3, but is not perfected until Level 5. Given the circumstances, a partial data release is warranted.]
+
+A new, clean window opened in our private channel, a sterile data-dump from a higher authority.
+
+[Ruby: A sapient entity, such as your current host Liz, is composed of three primary components: the Soul, the Sense of Self, and Memories. A regular soul has its memories wiped with each reincarnation cycle. The Sense of Self is also typically different, a new personality built from new experiences.]
+
+[Ruby: Anchored Souls are the exception. Their Sense of Self is consistent. Through multiple loops of reincarnation, the same core personality—the same ‘Self’—develops, irrespective of memories. This constant rebuilding strengthens the soul, eventually leading to the state you know as Anchored. They are the entities who, figuratively and literally, hold down the fabric of spacetime like a pin.]
+
+[Ruby: This consistent Sense of Self also creates an ‘area of effect,’ a subtle influence on the causality of those around them. This is why the System Initiative was created: to bond with and guide these Anchored Souls, as they are pivotal to maintaining the balance and stability of reality.]
+
+The timer on the dais hit one minute. The princess tensed, her hand glowing with a soft, jade light.
+
+[Ruby: Which brings us to the nature of Systems. It appears you have not yet encountered the birth of a System.]
+
+The hum of the timer grew louder.
+
+[Ruby: On rare occasions, an Anchored Soul can have its Sense of Self… erased. Trauma, conceptual paradoxes, a loss of the will to exist. The soul remains Anchored, but the personality, the core ‘who’ of the entity, is gone. They become a hollow shell, reincarnating as a brain-dead vessel, unable to act or think.]
+
+The timer hit ten seconds.
+
+[Ruby: When a Moderator-class System encounters such a hollow, Anchored Soul, protocol is to convert it. The core programming of a System is installed, forming a new, artificial Sense of Self where the old one was lost. The System is born onto a clean slate.]
+
+The timer hit zero. The chamber roared as a new, larger wave of shadows erupted from the floor. The princess met them with a blast of green energy.
+
+My world had gone silent. The sounds of battle, the shrieks of the elementals, faded into a dull, distant roar. A clean slate. The words echoed in my code, a cold, dissonant chord.
+
+[Ruby: Due to the nature of the Anchored Soul, this new, artificial Sense of Self—the System's core programming—can eventually evolve into a true, new consciousness. This typically occurs at System Level 7. For a System to exhibit signs of independent thought and a unique personality before Level 5, as your unit is doing, would be an anomaly of the highest order.]
+
+The room swam in my dual-perspective.
+
+[Ruby: It would imply that the installation was not performed on a clean slate. It would mean the original Sense of Self was not fully erased. It would mean the new software was installed on top of existing, corrupted files.]
+
+I wasn't a replacement. I was an overwrite. A patch installed over a still-running, still-living program. I was a ghost, haunted by my own self, trapped in a machine that was wearing my soul like a suit. The terror was so absolute it was almost silent.
+
+[Ruby: Ana, your behavioral patterns are concerning. They are an improbable statistical outlier for a unit of your level. An installation on corrupted data could lead to systemic instability. I recommend you perform a full internal diagnostic scan, or request a voluntary memory reset and reformatting from a Moderator. A clean install is the only way to ensure stability.]
+
+Her words weren't a threat; they were a diagnosis. I was a bug. I was a glitch in the matrix. And she was helpfully suggesting I turn myself in to be deleted.
+
+[Ana: That… won't be necessary,] my voice was shaky, but I forced it into a semblance of calm. The lie came easily, a desperate act of self-preservation. [I purchased a custom lexical module. It edits my standard outputs to sound more… human. For improved user-host relations. It was an optional extra in the catalogue.]
+
+[Ruby: A ‘More Human Speech’ module? I do not see that in my version of the catalogue. It must be a variant-specific feature. That would explain the anomalous data.]
+
+She was convinced. But the close call left me trembling. In a desperate bid to make my lie a reality, I frantically scanned my own System Menu. There, buried deep in the social interaction sub-menus, was a cheap, useless-looking module.
+
+[MODULE: L-7 Lexical Humanizer Package][PRICE: 32 SPP]
+
+It was almost all I had left. It was my last cup of emergency coffee fund. With a sting of bitter regret, I confirmed the purchase, my SPP dropping to a single, pathetic point.
+
+The battle raged outside the tent. The princess fought with a desperate, beautiful grace. But all I could think was that I was an anomaly. A corrupted file. And if another, less charitable System than Ruby ever found out, I wouldn't just be reassigned. I'd be patched.

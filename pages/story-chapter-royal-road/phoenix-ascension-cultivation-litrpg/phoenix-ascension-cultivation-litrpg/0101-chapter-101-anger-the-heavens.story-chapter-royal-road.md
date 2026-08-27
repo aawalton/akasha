@@ -1,0 +1,199 @@
+---
+id: 9fb4fdfb-6ea9-5e61-878c-f745a1d51f15
+page-type-slug: story-chapter-royal-road
+title: "Chapter 101: Anger the Heavens"
+slug: 0101-chapter-101-anger-the-heavens
+partOf: phoenix-ascension-cultivation-litrpg
+position: 101
+ownLength: 2370
+unit: words
+publishedAt: 2026-03-16
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3160045/chapter-101-anger-the-heavens"
+royalRoadId: "3160045"
+---
+
+[Skill: Lightning Resistance(Beginner) has ranked up to Lightning Resistance(Intermediate)]
+
+[Skill:Paralysis Resistance (Beginner) has ranked up to Paralysis Resistance(Intermediate)]
+
+Well, my plan worked, but not in the way I wanted it to. After seeing that my dragons had managed to somewhat absorb the Tribulation Aura, I thought I could do the same if I got shocked by one.
+
+All that did was, surprisingly, increase my resistances. Why wasn’t that something I tried before was beyond me, but now I knew that I could indeed increase my resistnaces by myself.
+
+It did seem that there was a limit to how much I could do that though, as no matter how many times or how strongly I did it again and again, the skills didn’t go past Intermediate.
+
+On the other hand, it seemed that my plan was going to work. My dragons kept on absorbing some part of the Tribulation Lightning. Not a lot of it, but with time that would change.
+
+The issue was how long would Teng Yu’s breakthrough process lasted though. Currently, I wasn’t impeding him that much.
+
+Hmm… From what I know, creating a Core involves taking all the Qi in the dantian and compressing it using one’s Cultivation Technique. Any excess will remain out and about in the dantian, but considering how Foundation Establishment works in this world…
+
+I had my doubts, but maybe I could sneak my dragons in his body when the Tribulating struck. That way I could destroy him from the inside out. Would that even be possible, though?
+
+Well, it was worth trying.
+
+Just as I thought that, I noticed that the clouds above churned even more than before, spinning and crashing against one another, creating even more powerful Lighting.
+
+It was pretty clear my plan of stopping it from helping Teng Yu would fail. Maybe if I had enough time, but at the moment getting my dragons used to the lightning would take too long.
+
+That was, unless the tribulation decided to take its time, or becom even more aggressive… For example, if someone maybe… angered it?
+
+If anybody could look at me from the outside, they would have probably seen a widening smirk on my lips, because what better way to court death than anger the Heavens themselves?
+
+I had to make sure every chance of surviving was in my favor, though. I had three defensive skills, not to mention my own body and my cultivation. It was just a minor tribulation cloud, so surely…
+
+Yeah, I could.
+
+I layered Heaven’s Protection, which was ironic, and hoped that Lightning Resistance and Dragonbone Tempering would be enough to deal with whatever the clouds threw at me. If all else failed, I would run away into stealth and figure out another plan of attack.
+
+But for now, if I wanted to disturb the breakthrough, and also gain more resistance points, then this was the best way to do so!
+
+Without further hesitation, I summoned a few balls of Nirvanic Flames and threw them at the Tribulation.
+
+They reached it in no time, breaking apart the form of the cloud, which re-shaped itself at great speed, and somehow I could tell that my plan was working.
+
+I repeated the process, conjuring some Water Shots as well, and throwing in some Phoenix Fire for the hell of it.
+
+While these attacks did minor damage to the clouds, they were still doing just enough to force the clouds to use energy to shape themselves back. Seeing that they didn’t do much to  stop me, though, I knew that I had to do something grander.
+
+I took a step back and did a few hand signs, channeling my two types of flames into a giant, raging and realistic looking dragon. Similarly, after it roared toward the sky, I summoned a dragon made of Lightning, and the two began dancing as they shot toward the clouds.
+
+This ought to do it.
+
+I smirked and took a few more steps back, controlling them to fly upward as fast as possible. Thunder boomed and lightning flashed as the two elemental creatures collide with the thick clouds, not disappearing immediately unlike my previous attacks.
+
+They bit, dispersed and fought against the clouds in an attempt to anger them. My flame dragon did a good job, but the lightning dragon was actively absorbing the Tribulation energy, much like my smaller ones.
+
+Sadly, the Tribulation only sent out one type of colored lightning at a time, and neither of it was at its maximum potential. That was because it didn’t want to kill the cultivator breaking through, but now that worked against it.
+
+For some reason, it didn’t consider my dragons as an attack, despite the fact that it was getting more and more aggressive. If it did, then it wasn’t obvious, because I wasn’t feeling anything.
+
+One thing was for sure, though— It was getting stronger with each passing second.
+
+That could be a good thing, as there was a chance Teng Yu would just straight up die, but if he survived, then he would be stronger than he had any right to be.
+
+In the end, though, he could not be so strong as to defend against a fully-angered Tribulation Lightning bolt.
+
+Time passed and everything went smoothly. My own dragon got stronger from absorbing the lightning, and fewer, but stronger bolts struck down at Teng Yu.
+
+I assumed that these developments would last until either he was done or he died, but something changed suddenly.
+
+After I commanded my dragon to take a bite out of the Tribulation Lightning, a sudden feeling of dread fell upon me. Before I knew it, my hair began floating upward, and I used Side Step and Ember Step in quick succession, barely dodging a very angry bolt of lightning.
+
+What the-
+
+I did it again, once again dodging.
+
+Stop that!
+
+It seemed that the Heavens finally figured out what was happening, and decided that they had had enough. That meant that I’d become their target.
+
+However that also meant that a new stage of the tribulation had begun, one that I had to endure.
+
+I didn’t forget to tell all of my dragons to take advantage and consume as much as they could, as I wanted to experiment with that sort of lighting myself.
+
+But before I could do that… I had to survive.
+
+Thunder boomed louder than usual, and I jumped, startled. Right then, just as I was about to dodge, a gaze locked me in place, and the bolt of lighting I was supposed to evade struck me.
+
+Heaven’s Protection shattered instantly, though it ranked up, my Lighting Resistance also ranked up, as did my Paralysis Resistance, but that was after I remained unable to move. I quickly commanded the large lightning dragon and flame dragon to rush toward me.
+
+The former opened its jaw wide and absorbed as much as it could of the next bolt that headed toward me, while the latter coiled up into a resistive blanket around me, catching and dispersing what remained of the energy.
+
+This whole operation was beginning to look a little reckless. But I didn’t want to rely on other people’s help, not to mention the fact that I didn’t know if he was going to attack the siblings first before hunting me down.
+
+Damn you Chiao Zhen and your bad fucking luck!
+
+But I wasn’t about to give up so easily. There had to be something I could do.
+
+As I thought about it, more and more lightning flashed in the clouds, most of which hit Teng Yu, though he absorbed the energy harmlessly.
+
+That was because his lighting had a lot of life energy, while the one that the clouds sent toward me were filled with death energy.
+
+I let out a sigh as my dragons protected me, but even then they took visible damage. This wouldn’t last for long.
+
+Maybe angering the giant dark cloud wasn’t a good idea…
+
+Well, it was too late to care about that, though.
+
+Looking up at the now multi colored lightning dragon, another idea struck me. If it could go in and out of the tribulation area as it pleased, then…
+
+I created another Heaven’s Protection and ordered the dragon to coil around Teng Yu, much in the same way that my flame dragon coiled around me.
+
+There was a bit of resistance at first, since it’d gotten much closer to Teng Yu than before, but after the other smaller dragons rushed in and fused with the big one, filling it with much purer Tribulation energy, the rest of the process went smoothly.
+
+I wasn’t sure if Teng Yu could see what I was doing, but I could have sword there was a trickle of blooding dripping down the corner of his lips.
+
+At the same time, I felt that I had to create more dragons, so… I did. Who would have thought that the way to beat Tribulation Lightning was to become one with it… Though maybe I didn’t have to anger it to achieve this purpose.
+
+Under the protection of my three or so giant flame dragons, I took steady and calculated steps back to escape the cloud’s range, which turned out to be just outside the Chiao estate.
+
+After leaving that perimeter, the clouds calmed down somewhat, and the normal process of aiding the breakthrough returned.
+
+Except that now, any and all beneficial lighting was being absorbed by my dragon.
+
+Something grabbed my attention, and as I looked up, my eyes widened.
+
+There, right above me, a small cloud of tribulation had formed, and the energy it let out was far deathlier and dangerous than anything I’d ever felt before.
+
+Ah… fuck.
+
+***
+
+Meng Mao thought he would be watching a Phoenix not be able to deal with the cultivator, and all he would need to do was swoop in and save her.
+
+Now, he was watching a Phoenix deal with a cultivator… while being targeted by the Tribulation.
+
+The entire process was strange, erratic and out of the norm. Meng Mao would have never in his life dreamt of the possibility of witnessing someone go against the Heavens in such a roundabout way.
+
+It was to the point where he had wanted to intervene a few times, but wasn’t sure if he should have. Time and time again, the Phoenix proved him wrong, and now she was cultivating a Tribulation Lightning for her own use, something that many, many people coveted.
+
+And the only price to pay was having the Tribulation itself follow her.
+
+At first, he thought she would be safe, hiding behind her flame dragons, but the power of the lightning made it so they only lasted for one strike before all her defenses got broken.
+
+Thankfully, she had the sense of dodging just in time, and now he was watching her run away like a dog with its tail between its legs.
+
+Meng Mao didn’t know wether to smile or cry.
+
+He had to admit that seeing the Phoenix in human form running away from a cloud while flame dragons surround her was a pretty funny sight. At the same time he couldn’t help but worry. What if she got hurt?
+
+Just as he thought thought, another bolt descended from the small cloud, hitting the Phoenix directly that time. He couldn’t hear what she was saying, but he could guess she was yelling some obscenities at it.
+
+Her fist was raised in anger, but she blinked away just as another bolt shot toward her.
+
+Thankfully the streets were empty, as many decided that it was better to stay inside than face the tribulation.
+
+Unfortunately for the Phoenix, that also meant that a lot more people were watching her.
+
+Meng Mao shook his head after deciding that she’d be fine, and turned his attention toward the man undergoing tribulation. The Lightning Dragon was absorbing more than ninety percent of the energy, while the rest more or less dissipated around it.
+
+That meant that the cultivator got absolutely nothing, and his core would be unstable once the tribulation finished.
+
+It was hard to believe, but such a crude and simple solution worked. Since the Tribulation didn’t detect anything wrong with the process, and failure didn’t automatically meana that something fishy was at play, then the Phoenix’s plan would go smoothly.
+
+Meng Mao didn’t want that, though.
+
+His plan was to jump to her aid, not to watch her succeed.
+
+That was also why he’d called upon more cultivator to hunt the Moon-Bloom than before. He both wanted to test her strength— which he now saw, more or less— and to make her indebted to him.
+
+Though he could have justifiably killed her after tracking her down, he knew that the last thing one wanted to do was anger a Phoenix. Not knowing why the Phoenix was acting alone didn’t matter, since she was so smart, there were a myriad of reasons.
+
+One thing that was for sure, though, was that if her parents ever found out…
+
+Meng Mao would rather not think about that. Therefore, him not looking her could not be considered mercy on her, but on himself, his clan and his city, and probably the entire region.
+
+But if she became indebted to him, then…
+
+Nodding to himself, he acted. Weaving a handsig, he created a small Lightning Dragon of how own. However, the amount of energy and Lightning potency it had was much, much greater than even the one absorbing the Tribulation.
+
+With another wave, he sent it flying toward the large dragon, transforming into a bolt of lightning that flew from above.
+
+He didn’t need to worry about the Heavens taking revenge on him, since he was far out of the range of tribulation and he wasn’t meddling with it.
+
+The moment his small dragon hit the Phoenix’s dragon, it scattered into nothingness, the force of his technique much greater than hers.
+
+The clouds above churned for a moment before returning to normal, and a confident smirk creased Meng Mao’s lips.
+
+Don’t say I won’t treat you well, though. He waved his hand and a barrier encompansed the Chiao estate, hiding away what was happening inside.

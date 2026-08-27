@@ -1,0 +1,327 @@
+---
+id: 211fde70-a015-56dc-bd9e-da4f8372d19f
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED EIGHT: Normal Teenager Matters"
+slug: 0210-two-hundred-eight-normal-teenager-matters
+partOf: super-supportive
+position: 210
+ownLength: 4182
+unit: words
+publishedAt: 2025-03-20
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2138046/two-hundred-eight-normal-teenager-matters"
+royalRoadId: "2138046"
+---
+
+208
+
+******
+
+It was Monday night in Chicago, and in the kitchen of a small apartment, two cereal bags crinkled as a teenager in a stained and faded T-shirt poured what was left of the contents into a red bowl with the words “POPCORN TIME” on the front of it. From the living room came the sound of a television on low volume. A woman’s voice was saying, “…and the return of things lost to us. For example, Ectopistes migratorius. The last confirmed member of the species in the wild died in March of 1901, near Oakford, Illinois, but today, in parts of the US and Canada, if you step outside and look up, you may see a flock darkening the sky. The woodlands needed to support this species have also—”
+
+Boe shook his head when he realized he was moving his lips along with the show’s narrator. After crumpling the empty bags and trashing them, he pulled up a talk channel on his interface and increased the volume with a thought.
+
+What’s the Whether? was for unregistered Avowed, by unregistered Avowed. It had been verified authentic by way of an Artonan ambassador to China back in the late twenties saying that she knew the Avowed who’d started it and she thought it was a great idea.
+
+Boe still avoided trusting the news they delivered too much, but he did think the station was more reliable than most sources that claimed to be voices for unregistereds. Some of these things were definitely traps. A lot of them were run by bored people and creeps who didn’t have any powers beyond their ability to gull others into paying attention to their fakeass stories about life on the run from the authorities.
+
+And the What’s the Whether? speakers weren’t intolerable in any of the ways that some real, online-infamous superhumans in hiding tended to be. Boe preferred to feel like he was a reasonable criminal among reasonable criminals while he ate his supper. He didn’t want to hear a bunch of other unregistereds, or wannabes, whipping themselves up to new heights of Avowed supremacy or down to new lows of self-pity and loathing.
+
+He ate a chocolate oat star and listened to a man who was going through daily reports of Avowed activities around the world. Right now, he was talking about a few nations that wanted to expand their Avowed Zones to include the C and B ranks. And Healers. Someone always wanted to scoop up the Healers.
+
+The man was sounding so upbeat about the news. Boe didn’t know why.
+
+Like the noisy bigots inside every country don’t crush these plans out of existence whenever they come up. Like Anesidora doesn’t smash them to dust from the outside.
+
+Anesidora smashed more elegantly and righteously. With gorgeous superhuman faces and concern for the safety of Avowed in places where they would be in the extreme minority.
+
+But they still did their part.
+
+Sure, invite tons of people away from our island and lure them into separate spots all over the globe so that they have less collective identity and power. Your country gets a handful of the safer ones to parade around, and Avowed get more living options…right up until you decide you want to keep them forever in the new cage and demand magical services from them.
+
+Superhumans are dangerous. Superhumans are useful. We like to watch them, we want to be them, and we don’t want them to be too close. They are us, and they are not us. We gave them to the Artonans, and the Artonans gave them powers. Aren’t they lucky? Aren’t they obligated?
+
+Same stuff bubbling up for decades, in barely different flavors, thought Boe.
+
+He wast just glad the conversation was on more ordinary news today instead of Matadero and SAL. There was a growing amount of murmuring about what would have happened to Earth if the attack had destroyed the cube and Anesidora with it.
+
+Since Boe had ended up naked in the jungle with a bunch of people who had first class tickets out of here, he doubted the answer was, “Nothing too serious.”
+
+Alden’s alive. He’s all right. I’m supposed to be figuring out how to use half of his money to take care of everything here in Chicago. Just give me millions and trust me to use it wisely, why don’t you?  Because that’s not an extreme act of faith at all.
+
+He picked me to go with him if Earth ends, but he didn’t show up to join me because he was being heroic. Again.
+
+He’s so damn fucking impossible to live up to. If he somehow manages to find another person just like him in the hero program and they hit it off, they will lead each other straight into early graves.
+
+Is he really all right?
+
+Boe opened the fridge. He’d just wrapped his fingers around the cold handle of the milk jug when a message arrived. It was a picture of a bright blue frog sitting on a palm frond with “Missing You” underneath it in bubble letters.
+
+A call followed before he could think of an appropriately snarky reply.
+
+I shouldn’t answer the asshole.
+
+He did.
+
+“You miss them, don’t you?” Alden said the moment his face appeared. He clearly thought he was so funny.
+
+“Miss who?” Boe had grabbed his phone off the counter with his free hand, and he held it to his ear automatically, even though nobody here in his own kitchen was going to notice or care if he was talking to thin air.
+
+“Ribbit,” said Alden.
+
+Boe did his best to look confused. “Why are you ribbiting?”
+
+“Did you not open my message and get the picture?”
+
+“What picture?”
+
+Green eyes narrowed at him. “Liar!” Alden announced confidently. “You always read my texts when you’re awake. I know it’s because you miss me almost as much as the frogs.”
+
+Boe let the milk thump onto the counter beside his bowl and unscrewed the cap with one hand. Alden was probably inside Matadero. The System liked to blank out his background when he called from there. It looked like his head and shoulders were floating in front of the nearest cabinet.
+
+What’s he doing there tonight?
+
+Boe glanced at the time. Alden should have finished his Monday evening class on how to magically inflict and endure harm about fifty minutes ago. He usually did homework at a spa with the Brute roommate afterwards, but if he was already at the cube, then he’d skipped that.
+
+“I was just thinking about you,” Boe said.
+
+“Of course you were!”
+
+“I was thinking that you probably injured yourself saving three or four people and an orphaned whale calf today, and that I might never catch up if I don’t go faster.”
+
+“Five people. All human. No whales.”
+
+Boe knew this was a joke. He could tell. But at the same time, there was a kick in his pulse, a brief wondering, too much milk going into the bowl before he caught himself.
+
+“Ha. Ha. Ha,” he said, holding the jug up to his nose to sniff it belatedly. It was fine. “That’s how funny I think you are.”
+
+“That was a dark, slow laugh.”
+
+“Was it?”
+
+“It was villainous.”
+
+“If the name fits…” Boe muttered.
+
+“Yes, you’re very evil and all,” said Alden, leaning back in a way that confused Boe for a second before he realized that his friend must be sitting on something.
+
+Or slouching in bed? Is the System refusing to let me see Matadero’s pillows?
+
+He’d bother it about that when he was bored sometime.
+
+“Are you at the cube?”
+
+“I am. My goal was to take a nap before I headed to Artona I to see the healer. My meeting with her is in the middle of the night from my perspective, so I thought I should at least try to get some rest before I headed over.”
+
+The mind healer.
+
+At home, Boe often had his barrier down. Most of the neighbors were on the bland side. The ones who weren’t were familiar enough or distant enough that feeling them was more irritating than terrible. It could even be nice, at times. The woman in the apartment next door brushed her furry mop of a dog almost every night, and it was a simple enjoyment.
+
+His parents were on the sofa, watching the show.
+
+They weren’t feeling much of anything.“I managed to shower, fly here, and shove a couple of tacos in my mouth in less than an hour,” Alden was saying. “The Keeper of Hot Potatoes only beat me by four minutes this time. Smug little jerk. I should take away his meditation pillow so that he has to sit on the floor.”
+
+“Are you talking to yourself, or was I supposed to understand that?” Boe asked.
+
+Alden hadn’t told him about the mind healer until he’d already made the first trip. He didn’t want me to try to talk him out of it.
+
+Boe wanted to talk him out of it. And wanted to tell him he hoped it worked for him. And wanted to ask him lots of questions about it. He wasn’t doing any of those things for some reason.
+
+“I have planning software! Hot Potatoes is my avatar.”
+
+“You’ve entered middle age prematurely. Also, you have obsessed-person eyes right now.”
+
+“No, it’s good. I’m learning to use it in moderation. And my day was still very efficient.”
+
+“Oh yeah?” Boe stuck a spoon into his bowl. “What did you do?”
+
+******
+
+******
+
+An early morning jog with Lexi and Haoyu. The air cool, the sky gray. Not much talking because that was Lexi’s preference. It was good to start the day with only your own thoughts competing against the sound of your feet.
+
+A lot of talking a few hours later, though, in Artonan Conversation class.
+
+When Kelly saw Alden coming through the door with Lute, she said, “Look! My assistant instructor showed up today. And our truant boy with a magic mouth. Everyone say your hellos from least to most formal. Go!”
+
+Alden had decided to attend class as moral support for Lute, who’d reluctantly emerged from their apartment instead of letting the school continue believing he was away because of his Chainer duties. Immediately after Kelly’s greeting, it became obvious that the two of them wouldn’t be able to slip in a little wordchain learning like they’d done with Instructor Rao. The freckled grad student didn’t even structure the class the same way. She had pairs coming up to the front of the room to act out conversations they were supposed to have prepped over the weekend, between themselves and an Artonan who they wanted something from or who they wanted to avoid doing something for.
+
+Alden was put to work as a fill-in for a couple of missing students, and he was also a partner for Kelly when she wanted to show how the mock convos could have been more natural. Lute was the next best thing to having an actual Artonan in the room with them, as far as vocal abilities went, and he ended up being called upon to provide ideal pronunciation examples for everyone to try to match.
+
+When he got one wrong, the way Kelly smiled at him was threatening, and by the end of class, she’d inserted him into several improv pairings with the best students. Alden assumed she was making Lute talk more than everyone else because he’d been missing classes, but at the end of the period, she called them both over and karate chopped Lute lightly on top of the skull.
+
+“No,” she said.
+
+Lute ducked and grabbed his brown hair. It was fading to a duller, lighter shade. Whatever he’d been washing it with all weekend was only partially stripping away the nutmeg hair color. “Huh? I didn’t do any—”
+
+“What’s a Chainer doing in Convo IV?” Kelly was pulling a piece of chewing gum out of the pocket of her shorts.
+
+“Learning Artonan,” said Lute, watching her cautiously.
+
+“So I gather,” she replied, “but what I mean is, ‘Why are you only in Convo IV?’ If you’re working already, and you’re going to be working for the rest of your life, on the Triplanets… You guys have some kind of serious job security. Correct? That’s what it seems like from the outside. If that’s how it is, you need to be in all of the culture and language classes you can squeeze into your schedule, don’t you? You are not a person with a mysterious future ahead of you. You’re an often off Earth person. For sure.”
+
+“I—”
+
+“Your schedule doesn’t look like you’re squeezing anything in to me.”
+
+“You can check my schedule?” Lute asked. “You’re not even a real instr—”
+
+“Your schedule looks verrrryy relaxing.” She cracked her gum. “I guess the music class might not be? I’m not into music, and I’m not the boss of you. But don’t you think you want to slip in a little extra work related to your work next term?”
+
+Lute frowned.
+
+“And you!” Kelly turned to Alden. “You’re signing up for some uni language classes next term, right? I don’t know why you were in this class at all.”
+
+“Because Convo VI wasn’t being offered this quarter, and the instructor for V didn’t believe I could keep up with his course if I started late in the term.”
+
+“Screw high school classes!” said Kelly. “What’s with all these inefficient rules? Come hang out with me and my people. I’m doing a course with Warin-doyis next quarter—visiting performance artist from the mother planet. He’s going to be teaching us a kind of oral and visual storytelling. Now that should be a challenge.”
+
+Luke looked interested in that.
+
+“I don’t think I can just join a special class for people getting their Masters degrees when I haven’t actually finished high school,” said Alden.
+
+“What are they going to say about it if the instructor invites you?” Kelly replied. “Do you want me to ask for you? I’ll ask for you.”
+
+******
+
+******
+
+“So if that works out, I’ve got three classes lined up for next quarter,” Alden said. He was lounging on top of the blanket in “his” hospital room at Matadero, watching Boe shovel cereal into his mouth.
+
+“Gym, Engaging with the Unexpected II, and the Artonan class. I’m getting a lot of practice in naturally, but I don’t think accelerating the language acquisition as much as possible is a bad idea. Communication is a survival skill. And maybe if I have a college credit to wave in an advisor’s face, they might agree to let me take some of the uni level culture classes instead of the high school ones when they come up.”
+
+“Switch programs completely,” said Boe. “Forget the violent life, and become a professorial type in a tweed jacket who specializes in studying alien performance art.”
+
+“Yeah, that sounds like me.”
+
+On the wall beside him, a time-lapse video compilation was playing. He’d wanted the room to feel more alive, and something like the news channels weren’t conducive to his hopes of resting. At the moment, the video was of a giant gingerbread house being built.
+
+“I wonder if I would,” he said, watching icicles made of sugar appear one by one.
+
+“Become a tweedy xenoart professor?” Boe asked.
+
+Alden refocused on him. “I meant switching majors. If I could still have the gym courses and just a few other Talent Dev classes, without the full hero program package, I wonder if I would switch. And what I’d switch to. That’s not how it works, but I have thought about it a couple of times lately.”
+
+Boe set his bowl down.
+
+“Keep eating, you animal,” said Alden. “Soggy cereal is a crime.”
+
+“Are you seriously thinking about stuff like that?” Boe asked.
+
+“Why do you look so surprised? I think about normal teenager matters occasionally.”
+
+“You’re the one who just spoke the phrase ‘normal teenager matters’, so you already know why I’m surprised. Good job on the self-awareness.”
+
+Alden let his head fall back onto the pillows that were mounded behind him. “Fair enough. It’s most likely because of the invite to come play publicity games with the hero team in Chicago. And I do see all of the clubs and career stuff every time I walk past the dorm bulletin board. And I’ve been around some Artonans who are thinking hard about their…careers.”
+
+Boe frowned at that.
+
+“I’m having a season of choosing,” said Alden.
+
+“What are you choosing then?”
+
+“So far, I’ve said ‘yes’ to mind healing and some clothes, and ‘no’ to cultivating a fanbase.”
+
+He decided not to mention saying no to Natalie.
+
+“The last one is one of those things that makes me worry about some of the hero program courses I’ll run into. I can put off the publicity and popularity stuff for a while, so it’s not like it’s an urgent problem. But eventually it’ll come for me. And if I survive through university, they are going to make me take so many classes on how to be a celebrity Avowed who says and does all the right things.”
+
+They made you take those classes even if you were planning to do something less public.
+
+“And now you’re casually mentioning not surviving through college,” said Boe. “Normal teenager time ruined. You can’t even keep up the charade for two minutes.”
+
+“I could go to med school,” said Alden. “Or be an architect. I could decorate cakes for a living.”
+
+The gingerbread house was definitely influencing his mental list of alternate career options.
+
+“I would enthusiastically approve of all of those,” said Boe.
+
+“What are you going to do?” Alden asked. Are you really going to stay unregistered forever? “There’s room in my apartment if you want to come join the CNH cake decorating medical architect program with me.”
+
+“You’re just trying to get me there because you know I’ll never catch up to you if I’m on that island.”
+
+“Catch up to me?”
+
+“On the numbers of lives saved. Emergency teleports, wall-to-wall Avowed…how am I supposed to teach small children to fear solo camping expeditions in a place like that?”
+
+So that’s a no. Alden made himself smile anyway. “We spent half of gym today learning to fall down,” he said. “From different heights, at different speeds, with other people in our arms. Apparently our injury numbers for that kind of thing were bad last week.”
+
+“Can’t call yourself a superhero until you learn to shake off a hundred mile per hour safety roll?”
+
+“Something like that.”
+
+******
+
+******
+
+The nightmare woke Alden up half an hour before the alarm he’d set would have, and for the first time, he was glad about it.
+
+This just doesn’t belong in my head anymore, he thought, spitting toothpaste into the sink. It’s pointless suffering. I’m saying no to it and no to the idea that I would be incapable of doing anything to make the situation better if Thegund happened again. I wouldn’t be helpless. I wasn’t even helpless back then.
+
+And I didn’t end up there against my will.
+
+That last part was a fact that he’d been reminding himself of over the past day. Because if he didn’t, it was too easy to rage at the unfairness of it all. He had been carefully misled and casually used, and if Stuart was right, then Ro-den’s team had been risking their lives, and his and Kibby’s, mostly for the sake of Ro-den’s power and status. And by extension, their own.
+
+I wonder if he wanted the lab back. If they all hoped he was only a couple of years and a few schemes away from putting their futures back on track or something like that. I got him his people and a few pieces of equipment that had been hidden from Yiplack…for all I know that mixer thing and the bad impact juice were critical artificial demon ingredients. Or they were worth a billion dollars, and he was going to sell them to buy a politician.
+
+But I knew he was sketchy. I knew they worked for a sketchy person. I just got so caught up in the idea that they needed me to protect them from a worse bunch of sketchy people.
+
+Kibby and her sister needed someone.
+
+His toothbrush handle clattered against the edge of the sink.
+
+He told himself that it wouldn’t be fair to feel like anyone had been cruel to him. They wanted things. He had been a way to get them. It wasn’t supposed to go wrong. And when it went wrong, Thenn-ar had spent her last breaths trying to help him understand what was happening.
+
+They weren’t trying to get me hurt or themselves killed. They thought the risk was growing, but obviously it was still small enough in their minds. And I was being paid by their wizard.
+
+Paid with information about his skill that a wizard with proper discretion shouldn’t have given him. Telling Avowed to put off affixation until the last second was creating a potential disaster. Have fun playing chicken with the System until it gives you extra treats, everybody. And then enjoy having your affixation ripped apart if you’re ever without a System when your unbound authority is too high.
+
+Alden had known enough about Ro-den that he should have asked everyone involved more questions. Insisted on fuller answers.
+
+I’ll be smarter and stronger in the future. I’m glad I was there for Kibby. It’s over.
+
+He hoped what he was doing with Yenu-pezth would eventually leave him with those three thoughts and set him free from the rest of Thegund.
+
+He put on the softer pezyva tonight and the driftwood brooch. He had two jars of honey in his bag. When he left his room, the abandoned hallways of Matadero’s hospital were as quiet as ever.
+
+I don’t suppose I could rent a room here after the Artonans leave and use the cube as a private getaway.
+
+That would solve the problem of where a human wizard was supposed to practice his noisier or more dangerous spells.
+
+He traveled down to the floors that would be flooded if something ever went very wrong and waited beside his suitcase for his teleport to arrive. A few minutes later, someone appeared in one of the alcoves across from him. For some reason, he didn’t feel surprised at who it was.
+
+The bald, tattooed head. The height. Ro-den wore the remains of a jovial look that must have been directed at whoever he’d been with at this late hour, but it was in the middle of morphing into something realer.
+
+Boredom, annoyance, exhaustion—Alden didn’t have the chance to find out what the look would have become. He was spotted too quickly, and instead, there was a flicker of observation and calculation.
+
+He’d just checked himself in the mirror, so he knew what Ro-den saw, even if he couldn’t guess what the man made of it. Clothes tailored for a human who had business on the Triplanets. The brooch. The commendation. An abused and repaired suitcase with the messenger bag resting on top of it.
+
+Alden wondered if there would be a flippant remark, but mostly, he expected to be ignored.
+
+“Alden, your bags are packed, and you’re all dressed up,” Joe said in English.
+
+The wizard’s face brightened, just the littlest bit, with a polite curiosity. It was an interest that was friendly enough to not be threatening, but not so friendly it would look fake after their supposedly clear estrangement from each other.
+
+At least that was what Alden thought the expression was supposed to convey to him. It was failing. Not from any flaw he could have pointed to on Ro-den’s face, but on the gut feeling level. He looked like Joe. And he looked like a liar.
+
+He looked like someone who really wanted to know where Alden was going.
+
+“Off to somewhere exciting?” Joe asked, right as Alden reached that conclusion.
+
+He wants to know why I’m so well dressed. Who will I be talking to in this outfit? Why have I bothered to change my style? Why do I have somewhere on the Artonas to be, when he knows I’m not supposed to be summoned for months? What could it possibly be about, and most importantly, is it all about him?
+
+Options filled his mind. All of them were good.
+
+Say you’re going to have the privacy contract removed by a professional you’ve found. Say you’re friends with the Primary’s whole family now. Say you’re going to testify before the Grand Senate that naughty wizards shouldn’t be let off easy with cushy teaching jobs.
+
+Say it’s none of his business. Tell him to go bury himself in a fourth bowel.
+
+His teleport notice appeared, and he accepted it. Only five seconds to wait this time.
+
+Alden looked Joe in the eyes and smiled slightly.
+
+He disappeared.
+
+******
+
+******

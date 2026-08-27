@@ -1,0 +1,199 @@
+---
+id: 0db5cf43-c628-58f7-8372-4e350cfb551d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 110 – The Cost of Protection"
+slug: 0110-chapter-110-the-cost-of-protection
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 110
+ownLength: 2090
+unit: words
+publishedAt: 2026-04-15
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3275614/chapter-110-the-cost-of-protection"
+royalRoadId: "3275614"
+---
+
+After finding Cee and Donovan, the three of them headed outside. Liora wasn't exactly thrilled that she had to have a bodyguard with her at all times. Especially since they wanted to figure out their skills and traits with Renir, and didn't want Donovan to know anything about it.
+
+Well, maybe he did. Liora wasn't sure whether Morgana had told her teammates about him or not. But in the case that she hadn't, Liora wouldn't expose Renir to Donovan.
+
+Instead, the moment they were outside, Liora flew high up in the sky with Cee on her back.
+
+"Don't leave the island…" Donovan called helplessly from below, but realistically, the man couldn't stop her even if he wanted to. Nobody could stop Liora once she was in the air.
+
+But obviously, she wouldn't leave until she got the fully attuned Resonance Crystal for Renir. Morgana knew that, which is why she even allowed Liora to get outside. Without this leverage, it was unlikely that the woman would allow that.
+
+Once they were sufficiently high in the air that nobody could overhear them or see what Liora was doing, she withdrew Renir.
+
+"Not going to lie, I don't like being out in the open while we're flying so high… What if you accidentally drop me and I shatter on the ground?" Renir said.
+
+"I wouldn't drop you," Liora objected.
+
+"Not on purpose! But we both know that you sometimes get too riled up and do things you don't mean to do."
+
+He must be referring to the incident at the marsh, where she dropped him into the murky waters.
+
+"If you don't say something as mean as wanting to be found by Cee rather than me, then I think we're good," Liora snapped back.
+
+"I didn't mean it, okay? You've been very kind to me and made many sacrifices on my behalf. I honestly don't know how I will repay you once I get my human body back. But I shall do my best!" he said with determination.
+
+Liora could feel that his words were sincere. While there was still some lingering hurt from that incident, it was obvious that Renir truly did care about her. It was just that their circumstances were rather difficult and often caused them both to lose their temper.
+
+"Should I leave? I feel like I'm intruding on an intimate moment," Cee said, shuffling awkwardly on Liora's back.
+
+"There's nothing intimate about this!" Liora and Renir shrieked at the same time.
+
+"Uh-uh… Can we just work out those skills we need? I really want to practice something new since we're going to be on this island for a while longer," Cee said.
+
+"Not much longer, I suspect, but yes, training your skills in the meantime would be ideal. Start by purchasing Mana Perception. I believe it shouldn't be too expensive," Renir suggested.
+
+"I'm not buying it," Liora said stubbornly.
+
+"Yes, yes, I get it. Honestly, you're more of a hybrid anyway than a pure mage, so I suppose a different skill would be more useful for you rather than something to improve on your casting," he conceded.
+
+"Wow, it's only 10 glimmerstones," Cee said delightedly, wiggling her legs a little.
+
+"That's cheap…" Liora conceded and curiously decided to look up the skill in her own skill shop.
+
+Display price for the skill Mana Perception?
+
+[Mana Perception – 50 glimmerstones]
+
+"What?! This is so unfair! It costs 50 glimmerstones for me," Liora said, shaking her head in annoyance.
+
+"Don't shake me! It's scary!" Renir complained. "The reason for that is quite simple. Cee is a monster with a clear focus on magical abilities, while you're a hybrid. Things that are more natural to your species will obviously be cheaper."
+
+"There was a really cool magical evolution before, but I needed the ability to swim to get you out of the marsh," Liora pointed out.
+
+"What? Really?!" Renir exclaimed. "You know… Let's just forget about the whole marsh thing. We both messed up there, so we have to work with what we got. Anyway, Cee, go ahead and purchase the skill. Just be careful because—"
+
+Renir didn't get to finish his words as suddenly Cee spasmed out on Liora's back. The spider nearly fell off, but at the last moment managed to dig her spidery legs into Liora's plumage.
+
+"Ow, ow, ow! What the hell, Cee?!" Liora whined, turning her head to look at the spider.
+
+She was desperately flailing her front legs in front of her eyes. "It's too much! Too bright!"
+
+"Command the System to turn off the Mana Perception!" Renir said.
+
+A moment later, Cee's desperate flailing stopped, and she slumped down on Liora's back. "I'm never using that skill again…"
+
+"What happened?" Liora asked.
+
+"Cee got overwhelmed. I wanted to warn you to disable it right from the start. This island has a mana node on it, so obviously, the amount of mana here is going to overwhelm your senses. You should try to turn it on once we're back underground."
+
+"Say that before you tell me to buy the skill…" Cee muttered.
+
+"Okay, moving on! You wanted to buy an earth magic skill, right?" Renir asked.
+
+"Yes, I think I could use one. I can use ice webs and electric webs. I'm not sure if earth webs would even work, but a skill that could help manage things while on the ground would certainly help."
+
+"I'm sure that you could use some kind of form of earth webs, but you likely need to get more familiar with earth magic in general. How did you unlock your other elemental webs?" Renir asked.
+
+"I dunno… I saw the Elemental Web skill in the shop and bought it. Electric webs were the first I figured out, then ice webs. I tried fire webs, but they all just burned up…"
+
+"You likely didn't have the right image in your mind. Admittedly, fire and webs might take some time to make properly. Mind naturally assumes that a web will burn up, so it'll take some time to convince your mind that your webs won't burn. You likely have a weakness to fire as well, which makes it even more difficult—"
+
+"Can you just get to the skill Cee should purchase? I can't just glide above the island for the rest of the day. I mean, I could, but I don't want to," Liora said impatiently.
+
+"Fine, fine! Cee, filter your skill shop by earth magic available and read out the skills you can unlock," Renir said.
+
+Cee read the list aloud.
+
+[Earth magic skills available for purchase]
+
+Rock Throw – 30 glimmerstones
+
+Stone Pulse – 60 glimmerstones
+
+Earthen Carapace – 80 glimmerstones
+
+Shardspike – 120 glimmerstones
+
+Sandveil – 130 glimmerstones
+
+Gravebind – 160 glimmerstones
+
+Bedrock Mandala – 200 glimmerstones
+
+Geode Bloom – 250 glimmerstones
+
+Liora's head spun from the price of these skills. "These are so expensive! I had almost forgotten how greedy the skillshop was."
+
+"These are quite pricey…" Cee admitted.
+
+"I suspect you have a neutral alignment to earth magic, hence why the price is a bit higher than for your more natural skills. I am, however, curious about Bedrock Mandala. I've never heard of such a skill before. Could you read its description aloud?" Renir asked.
+
+Cee obliged.
+
+[Bedrock Mandala (available only to Sigilweaver Spider)]
+
+[Weave radial sigil onto ground or stone to form a circular mandala pattern anchored into the terrain. The created area slows enemy movements. Your movements and attacks remain unimpeded.]
+
+[Duration: 10 minutes]
+
+[Radius: 5 meters]
+
+"Isn't this basically what Cee can already do with her webs?" Liora asked.
+
+"No, I believe this is much stronger. Although the area is limited, any enemy within that area is slowed down while Cee's movements remain the same. That's amazing, especially knowing that the duration and radius will likely increase when the skill levels up," Renir said, excitement palpable in its voice.
+
+"I do wonder how it works and how visible it is. If it's hard to spot and I could activate it from afar, then that would be an amazing trap," Cee agreed.
+
+For a while longer, Renir and Cee discussed the list of earth skills that she could purchase. Liora wasn't paying much attention to it. While they theoretically sounded interesting, all these skills worked only if you were on the ground.
+
+Liora had no intention of ever becoming a ground creature, so she largely had no interest in earth magic. After all, the vast skies were so much better. She just enjoyed the feel of the wind on her feathers. It was so easy to just let her wings carry her over the vast sky.
+
+The sight was slightly marred by the half-destroyed jungle and a group of people bustling about to clean up the remains of the battle with the cyclops. Liora had no clue when these people got here, but frankly, she didn't care. It was good that the island would be cleaned up. Maybe they could at least build a small settlement above ground where the healers could stay.
+
+In the end, Renir and Cee settled for her to buy the Bedrock Mandala skill. Liora couldn't imagine spending 200 glimmerstones on a single skill. It was outrageous! But it wasn't her glimmerstones, so she couldn't tell Cee what to do with them.
+
+"I got it!" Cee cheered, wiggling her front legs a little.
+
+"You're going to be the best battlefield management spider. Slowing enemies with the mandala, using your webs to slow them down further and inflict elemental damage, and blowing up overcharged mana. I honestly wouldn't want to fight you," Liora said.
+
+"If we were to fight, I would lose within a minute. All my traps are useless against a bird. Previously, they would be useless against fire-wielding monsters too, but Bedrock Mandala should help to mitigate that," Cee said.
+
+"I guess so. Flying is quite convenient. If there isn't a giant cyclops who can literally rain down rocks on your head," Liora shuddered, remembering how helpless she felt in that fight.
+
+"Thankfully, that's over, and this fight helped us discover a rather glaring weakness of yours. You have no reliable way to protect yourself. You Fade for a brief moment, and Featherflash acts as a way of dodging some attacks for a short while. But they don't really protect you. You need a defensive skill," Renir announced.
+
+"I wish I could have a shield, like the ones you conjured. Can you teach me a chant for that?" Liora asked.
+
+"I could, but incantations won't work in a moment of panic. You need something that you can summon quickly. I think I have just the right skill for you. If you could open your skillshop—"
+
+"Nu-uh! I am not buying any skill!" She shook her head.
+
+"Liora!" Renir yelled, his voice far more intense than she was used to hearing. Even Cee flinched a little at the sudden outburst. "Do you know how scared and useless I felt during the cyclops fight? I could only protect you twice before my mana ran out. Yet you were constantly being barraged with rocks. I thought… I thought I would lose you for real that time."
+
+There was heavy silence for a while, the sound of rushing wind the only noise around.
+
+"I… I can just take a peek at the skill shop," Liora conceded.
+
+"Thank you! Just look at defensive wind magic," Renir said with audible relief in his voice.
+
+Show defensive wind magic skills.
+
+As the list popped up in her vision, Liora automatically read it aloud, doing her best to ignore the all too high glimmerstone cost.
+
+[Defensive wind magic skills available for purchase]
+
+Aegis Cyclone – 100 glimmerstones
+
+Slipstream Veil – 150 glimmerstones
+
+Cyclone Carapace – 200 glimmerstones
+
+Tempest Intercept – 300 glimmerstones
+
+"They… are so, so… expensive," Liora choked out.
+
+"Don't you close the skill shop! Let's think about this rationally," Renir urged.
+
+"Is there any chance I could learn any of these skills naturally?" Liora asked cautiously.
+
+There was a moment of silence.
+
+"I'm afraid not. This is rather advanced defensive magic, nothing like Air Slash or Wind Blast. Perhaps if you had a better grasp on magic control, you could do it, but… the way you are now, it's impossible," Renir said.
+
+"100 glimmerstones isn't that bad! You have collected loads of them up until now, haven't you?" Cee tried to sound positive.
+
+But the moment Liora imagined that 100 of her precious, hard-earned glimmerstone would disappear just like that, her mind seized up.

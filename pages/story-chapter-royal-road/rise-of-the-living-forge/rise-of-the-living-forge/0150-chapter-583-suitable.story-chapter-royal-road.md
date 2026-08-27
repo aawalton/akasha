@@ -1,0 +1,113 @@
+---
+id: 663fa3c5-b509-5ece-bb14-efb8a0d932aa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 583: Suitable"
+slug: 0150-chapter-583-suitable
+partOf: rise-of-the-living-forge
+position: 150
+ownLength: 1917
+unit: words
+publishedAt: 2026-04-22
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3305224/chapter-583-suitable"
+royalRoadId: "3305224"
+---
+
+Arwin’s eyes widened.
+
+The Infernal Armory had a physical form. Not the invisible presence that floated around within a cloak of swirling red mist or a way to possess the armor he’d made for it. This was a real, solid physical form. One carved out of literal obsidian.
+
+“Holy shit,” Arwin said. “You can do that? This is what the second Dungeon Heart — hold on. Wait a minute. I just spend a ridiculous amount of time and effort creating armor that you could inhabit so you could have a body. You’re telling me you could make one this whole time, and all you needed was another Dungeon Heart?”
+
+The Infernal Armory let out a laugh. It sounded, somewhat unsurprisingly, like scraping stone.
+
+“No. This body isn’t leaving this building, unfortunately. Look down.”
+
+Arwin glanced at the armory’s feet. Then he blinked in surprise. Where there should have been feet were simply strands of what could only be described as stretched out obsidian that melted into the ground like putty. There was no separation whatsoever between the ground and the body rising up from within it.
+
+“That’s… horrifying,” Arwin said. He cleared his throat. “Sorry. Why are you connected to the ground?”
+
+The Infernal Armory’s body shifted to the side and the obsidian connecting it to the ground flowed to account for the movement. It was an odd motion, something between the smooth ripple of moving water and the shifting of rocky shards.  Just looking too closely at it felt like it would give Arwin a headache.
+
+“Because this is not a true body,” the Armory replied. “It’s nothing more than an extension of my control over myself — and, as such, is limited entirely to the interior of the smithy. If I were to separate this portion of myself away from the ground, it would just become a chunk of stone. That wouldn’t be particularly useful.”
+
+“No, I suppose not,” Arwin said slowly. “So what’s the purpose of this? Just to see how much more control you have over your new form?”
+
+“Partially,” the Armory said with a nod. The ground beside it rumbled as shards of obsidian abruptly jutted up, blooming like a spiked flower before flattening out into the shape of a glistening anvil. A ripple passed through the Armory’s body before its hand shifted, forming into the shape of a rounded hammer. Then it started to laugh, its voice ringing through the room like rolling thunder. “But there are other benefits.”
+
+“Hold on,” Arwin said, realization finally washing over him. “You can actually smith with me now? Not just as back up, but emulating another smith?”
+
+“That appears to be the case,” the Armory said with no little amount of satisfaction. It examined the hammer at the end of its arm for a moment, then let its hand return back to a more humanoid form. The excess obsidian flowed back down into the ground and vanished in a ripple. “I should still possess all my prior abilities as well. I will simply be able to add my own influence to items we create with far more ease.”
+
+An entire extra smith with all the abilities of the Infernal Armory… that’s a huge boon. When I’m crafting alone, that practically means the strain is halved — or, in other words, the difficulty limits of any item we have the potential to create are doubled.
+
+And the biggest benefit was they didn’t have to worry about synchronizing their efforts with another smith. Normally, adding more people into a project meant it would come with the added difficulty of making sure their song fit properly with that of the other smiths and the material they were working with.
+
+But the Infernal Armory was so closely connected to Arwin that its presence wouldn’t make anything even slightly more difficult. It was already part of every single thing forged within the smithy. Granting the Armory a physical form that could aid in the physical smithing processes posed zero downsides. It was just a pure buff.
+
+“Shit,” Arwin breathed. “Will you really be able to both actively smith and also keep everyone else connected at the same time?”
+
+“It would have been impossible prior to my advancement,” the Armory replied. “But now that I have two Dungeon Hearts, I can feel my ability to process has increased. I can spilt my mind into segments. It should not pose any difficulty to both carry out my prior duties and also aid in the preparation and forging of materials.”
+
+“What else changed?” Arwin asked, glancing around the room. “This place certainly got a hell of a lot fancier.”
+
+“I utilized some of the materials from the auction to upgrade myself,” the Armory said. “The Dungeon Heart was drawing too much power. It needed a more appropriate casing, but I refrained from taking too much. The benefits will be more than worth the cost. This form is merely a single extension of my new powers. I have no need to keep it.”
+
+Well, I suppose that’s about as good of a use as we could possibly get out of them. There was so much that I barely even knew what to do with it in the first place. If the Armory was able to put them to good use and we’ve still got enough to work with, that’s basically the best case scenario.
+
+Arwin tilted his head to the side. “What do you mean by that?”
+
+“It would be considerably easier to show you,” the Armory replied. “To be honest, I am not entirely sure myself. It will require experimentation. Experimentation which we have no reason to delay. There are a great deal of items that we wish to create in short order.”
+
+Arwin didn’t deny that. The Armory was right — and hew as just as eager to see what the Armory was capable of as it was.
+
+“You’re right there,” Arwin said. “Koyu hasn’t come back Keven though you’ve finished your transformation. I don’t suppose he’s waiting outside the door?”
+
+“He is not,” the Armory confirmed. “He left almost immediately after stepping outside. It is likely he did not enjoy the amount of attention that I was drawing. There is a crowd.”
+
+“That does sound like Koyu,” Arwin said. The idea of pushing through a crowd of curious adventurers trying to figure out what had just happened to the Armory didn’t sound very appealing. He grimaced. “You know what? Why don’t we just take something on our own? We don’t have to go all out yet, so there’s no need to grab Wallace or Koyu for backup.”
+
+“I planned to suggest the same,” the Armory said, its lips curling into a smile. Then it paused. It reached up to the obsidian making up its face, running smooth, faceted fingers across its features with a faint ringing sound. “Hm.”
+
+“What?” Arwin asked. “Is something wrong?”
+
+“This is a smile. I have not been able to make one before,” the Armory said. “I like it. How fascinating. I had not thought creating a form like this would be so interesting. No wonder Koyu has such a desire for a true form again. There must be far more that he is unable to do.”
+
+“Honestly, I’m not sure what Koyu is or isn’t capable of,” Arwin admitted. “He’s a bit of an enigma. We’re really going to need to sit him down and figure out exactly what it is he needs from us if we’re going to make him a body that’s even remotely useful.”
+
+“The time will come,” the Armory said. “But it is not yet. His body is not our highest priority. Of the Menagerie, Koyu is likely the safest. There are few beings that can properly hurt him.”
+
+“Agreed,” Arwin said. He leaned against the anvil that the Armory had created and tapped his thumb against its oddly warm surface. “Do you have the faintest idea as to how we can make a dagger that kills someone immortal? We need to find a way to deal with that Revenant.”
+
+“If I knew how to kill immortal beings, I would not be sitting around here. I would be doing it.”
+
+Arwin started to nod. Then he paused.
+
+Is the Armory implying that the only thing preventing it from actively going out and hunting immortal creatures for sport is purely just the lack of its ability to do so? Why can I never tell if it’s mildly sociopathic or not?
+
+“Right,” Arwin said slowly. “I think we should probably ask Anna and Esmerelda. There aren’t many people more experienced dealing with killing and containing incredibly powerful beings than the two of them. As for the other aspect of the weapon — I think we should make it out of something brittle. Bone. Obsidian. That kind of material. Something that will shatter after a single usage.”
+
+“Why?” The Armory asked. “Such a weapon will be a great boon. It will be useful against the guild.”
+
+“Because right now, my suspicion is that the only way we’ll have to kill something as powerful as a Revenant is to somehow sever or remove its power,” Arwin replied. He ran a hand through his hair. “And, at the end of the day, we can’t forget what our real task is.”
+
+“Becoming more powerful and creating the most deadly weapons?”
+
+“No,” Arwin said. “It’s freeing the Mesh. Finding a way out of this spiral. And if I make a weapon that goes around stealing magical power from immortal beings, then that power is never returning to the Mesh.”
+
+“It will be useful to us,” the Armory said.
+
+Arwin stared at the obsidian manifestation of his smithy. Then he crossed his arms in front of his chest and raised an eyebrow. “Likely. But have you forgotten what Koyu said about the Beast? That power isn’t magic we want. It’s a bunch of poor souls bound together and being tortured. We’re not just killing the Beast to protect ourselves. I’m not torturing a bunch of innocent people just to get a little stronger. Especially not when we have practically infinite potential for growth before us. Why would I use someone else’s wretched creation when we could make a far better one ourselves?”
+
+The Armory’s head tilted to the side. Then the smile returned to its face.
+
+“A good argument. We will simply create a weapon even more powerful and dangerous than the Revenant.”
+
+That was not my implication at all. I — oh, forget it. I’m not winning this one.
+
+“I think we can start by figuring out how deal with the Revenant first,” Arwin said with a shake of his head. “But I don’t want to brave the crowds to get Anna and Esmerelda right now. So why don’t we see what we’re capable of with something a bit more straightforward?”
+
+The Armory’s molten red eyes flicked to Arwin. There was no need for Arwin to specify what he was suggesting. The Armory already knew.“Which member?”
+
+“I think it’s high time we upgraded Lillia’s equipment. She’s been using the Flowing Water set for a while, and it doesn’t match up to our current abilities at all,” Arwin replied. “I think the two of us should be able to make her something more than suitable.”
+
+“More than suitable?” The Armory asked. Its eyes narrowed. “No. This will be the first piece forged by my own hand. We will create the greatest set of armor that she has ever donned.”

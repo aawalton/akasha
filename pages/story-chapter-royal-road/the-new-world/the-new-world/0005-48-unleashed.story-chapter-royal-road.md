@@ -1,0 +1,237 @@
+---
+id: 17c86fdb-be86-5971-8cef-97957e9d8103
+page-type-slug: story-chapter-royal-road
+title: "48 Unleashed"
+slug: 0005-48-unleashed
+partOf: the-new-world
+position: 5
+ownLength: 4112
+unit: words
+ownProgress: 4112
+publishedAt: 2017-09-18
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/162676/48-unleashed"
+royalRoadId: "162676"
+markedReadAt: "2026-06-29T21:20:51.349Z"
+---
+
+Before charging him, I opened my menu screen and poured all my points into constitution. My armor tightened around me before I balled myself up. I grit my teeth and tensed my entire body, turning myself into a ball of iron.
+
+A few snaps of my armor occurred before I regenerated my armor back to normal. I stood tall before cracking my neck. The SoulSwallower grinned,
+
+"So you can transform then?"
+
+I rolled my eyes before shouting,
+
+"Kessiah, Althea, there's a strong dude in here. I'm going to need your support. Hurry up."
+
+The SoulSwallower whipped a chain at me with a flick of his hand. I dashed forward, dodging the strike that tore through the floor. Before reaching him, he reached out his left palm-eye towards me. I ducked under his hand while dragging my left arm behind me.
+
+Torqueing off the ground, I smashed a heavy strike into the palm of his hand. Blood gushed over us, and the SoulSwallower grunted and grimaced in pain. His arm didn't relent at the power of my strike, however.
+
+His fingers clamped down onto my arm and sucked out my blood like a vampire's teeth. With a quick jerk, I pulled my arm out of his scythes. I grimaced at him as his eye healed and the blades grew brighter.
+
+The SoulSwallower smiled,
+
+"You taste delicious."
+
+I shook my head, shaking blood off my armor. I seethed, "You will too."
+
+With another flick of his wrist, the chain on his right hand shot towards me. After seeing it so many times, I gained the timing of the attack. I raised my hand, letting it wrap around my right arm before pulling myself towards him. I flew up before drop kicking his teeth.
+
+My boots cracked his teeth, the enamel fracturing like a brick smacking against your mouth. The monster took a step backwards before I swung around him with the chain still around my arm. I ran on the floor, building my momentum as he turned towards me.
+
+He shot out his left palm while stepping towards me once more. As my momentum hit its apex, I smashed my heels into the tile floor, pulling the chain on the monster's right arm downwards. Caught off balance, the creature fell forward.
+
+His face shot into the ground, tile and concrete caving inwards. I dashed towards him while unwrapping the chains. My runes charged with the ascendant energies, letting frenzy fuel me. I reached him, stomping my heel into the back of his head to stop myself from moving.
+
+The crags of stone around the monster's face grew higher as I heel stomped his face deeper into the ground. A mist of stone dust formed around us before I darted away, my instincts telling me to run.
+
+The wings along his back pierced into the ground where I was, the feather's slicing through the rock. As the SoulSwallower pulled itself from the ground, the wings flapped towards me. Feather's darted towards me.
+
+Taking around a tenth of my health pool, I pulled my arms apart. The ascendant mana poured from my palms, redirecting the feathers near me. They landed beside me, digging deep into the stone floor. The rest of my magic pulled hundreds of feathers from the SoulSwallower’s wings.
+
+Blood dripped from the SoulSwallower's face and wings, drenching the floor in red. Standing up again, the smile on its face was gone. Still, even without him ever getting a strike off on me, I already burned through a third of my health pool during my enhanced assault. Keeping pace with something so much higher leveled was difficult after all.
+
+Kessiah and Althea ran in through the hole I made as I shut off Oppression. It was too dangerous to use with them nearby. Althea shot a bolt towards the SoulSwallower. In a sudden explosion of movement, the SoulSwallower shot a chain towards the bolt.
+
+Althea's harpoon dug straight through the metal before stabbing through the monster's wrist. From the arm, a shackle fell onto the ground. I shouted,
+
+"Don't attack the ch-"
+
+Another bolt shot from her rifle as the SoulSwallower whipped his unchained arm towards her. Another shackle fell from it before the monster grinned. It spoke its words like a cult's mantra,
+
+"So many years I have waited." He stepped forward before pulling on a shackle on his leg. From the eye at the center of his chest, an aura of power ebbed. His arms expanded, turning into hulking limbs. The metal groaned and creaked before a ear piercing pop echoed through the room.
+
+"To be unleashed from my shackles. What a joy today has been." It grabbed the last shackle before Althea shot a harpoon of bone into the center of his chest. Digging deep, the bolt caused the monster to stagger backwards.
+
+With a burst of energy, I darted forwards while grabbing a chain. Before he could rip off the last shackle, I stomped onto one of his hands. Two of the fingers on his right hand bent backwards as I whipped a massive chain towards his neck.
+
+He clamped his teeth against the chain, shattering the metal but his teeth along with it. With his left hand, he struck a fist out towards me. The blow of the creature bent the metal of my armor and forced me backwards. The scythes on his fingers cut into my armor. My feet scraped the ground as I dragged backwards.
+
+Still I stood. I grit my teeth and darted forwards after I stopped moving backwards. With both the SoulSwallower’s hands on his shackles, his side was exposed. I bent low, letting all my weight build in my right hand.
+
+With a wide, sweeping uppercut, I pulled upwards with all my might. My runes flared as my blow struck against the monster's ribs. The bones caved in while craters formed under my feet. Despite the difference in size, the SoulSwallower stumbled sideways before Althea shot another bolt towards his chest.
+
+The harpoon struck dead center into the indentation of my last blow. The bone spear dug through the creature before drilling out the back of the monster. Blood sprayed from his back as he howled. I shot forward again, letting my arm drag behind me.
+
+As I reached him, I pulled downwards and pulled my arm behind me. A solid overhand right swung up and over my head before pummeling into the monster. My blow landed into the gaping hole on the monster's back, digging deep into the creature's insides.
+
+With a burst of effort, I forced my armor to splinter outwards in all directions. Needles exploded into the SoulSwallower's chest before I jerked my arm outwards. A fountain of blood and mound of organs followed my arm. The mush splat against the ground before the monster whipped its left arm at me.
+
+I ducked under the wild strike, following with another sweeping left hook into the front of the creature. A bolt sliced into the skull of the creature before my hook sunk into the tiny hole left from Althea's previous bolt.
+
+My hand only sunk a few inches deep, but I splintered my armor again before jerking my fist back. Blood exploded from the monster before his left arm whipped back towards me. I ducked again, but his blow scraped the top of my shoulders and helm. Against his empowered flesh, my armor shot out sparks.
+
+The force of the blow left me off balance before he hammer fisted towards me. The blow clapped against my back with the force of a cornered animal. I withstood the blow, my knees creaking under the stress of the blow. Another hammer fist later, and I crumbled onto the ground.
+
+With a quick shifting of the SoulSwallower's foot, he pressed me down against the ground. The force of the strike squished blood out of my mouth. A spear shot straight through the monster's shin, the bone fraying like splintered wood. The monster fell towards his injured leg, the limb no longer able to support his weight.
+
+That same weight was what kept me down. Without it, I lifted myself upwards, pushing my hands into the ground. I found myself at half health. The sheer tenacity of my body amazed me. Despite all the punishment, I would be fine given just a few minutes to heal. I wouldn't give the SoulSwallower the same chance, however.
+
+With a quick step, I reached the SoulSwallower's chest and pummeled into the eye at the center of its chest. Blood sprayed in every direction as the SoulSwallower gurgled,
+
+"Stop. Stop!"
+
+Ignoring him, I redoubled my efforts, slamming into the monster with an absolute abandon. My breaths turned to a heavy wheezing as each strike became wilder and heavier. I struggled through the exhaustion growing in my limbs. Even as they became like lead, I kept pulverizing.
+
+Before I could finish him, two rows of teeth popped out of its chest, one around the eyelid and the other around the pupil of the eye. A hand pushed me towards the monster's chest, the clear coating around the crushed eye opening like another eyelid. The teeth ripped into my armor, the SoulSwallower clamping down onto me like its last lifeline.
+
+Like tiny mouths, the teeth drained blood from me. After a few seconds, spikes exploded outwards from my armor. The monster's eye mouth gushed me outward with a torrent of blood. I rolled on the floor before trying to stand. All the mana I used left me with less than a third of my health left.
+
+My limbs shook as a bolt dug into the monster's arm that reached for the shackle on its leg. It was already too late though. A burst of energy rippled up from the eye at the center of the SoulSwallower's chest. It coursed up his last working arm. With the sudden shot of vitality, he shot his arm towards the shackle and tore it off.
+
+Energy poured out from where the shackles had once been. A sphere of green blue energy appeared around him. I shot forwards, slamming a fist into the sphere. I couldn't dent it. Althea could though.
+
+Her spears shot through the portal, damaging the monster. Realizing I couldn't hurt it, I stumbled backwards and sat down. As my injuries healed, I shouted, "Step back. I'm cutting on my aura."
+
+Kessiah and Althea ran towards the opposite end of the lunchroom before I cut the aura on. The bolts left cracks on the shield of the monster along with tiny holes from where they pierced. They weren't large enough for me to reach through, so I rested for a few minutes.
+
+As the SoulSwallower evolved in his cocoon, Kessiah shouted through the room,
+
+"You guys got this. I'll only help if things get desperate. This is a good exercise for you both. Reminds you why you're trying to get stronger."
+
+I sighed. By now, I didn't need a reminder why I needed to gain a few levels and skills. I stood up, my health and stamina refilling after the fervent frenzy of activity. As the SoulSwallower transformed inside the sphere, I opened my status screen and poured a few tree points into Genesis of Potential.
+
+With a quick clink, the skill tree reached 750.
+
+Limits are more your perspective then your reality. Become fond of your limits. Become fonder of breaking them. +3 extra level 100 perks (6 max | 1 remaining.) Choose wisely.
+
+I didn't have the attributes required for using the level 100 perk though. My long-term mentality wasn't serving me so well anymore, but it would after we squeezed through this fight. I shouted towards Althea,
+
+"Listen to me next time when I'm shouting at you. Now we have to fight this fucker."
+
+Althea sighed, "Yeah. Sorry."
+
+Turning towards the monster, the barrier dissolved after another of Althea's bolts pierced it. A smaller person walked out of the sphere. Like a moving Greek statue, the thing glanced around with marble skin. It looked remarkably human, no longer deformed and chained. The wings of black remained the same size, with larger feathers.
+
+The wings spread out, several times his height. With a quick flap, the dust and debris of the previous fight rolled away from him. He stepped forward, his steps quaking the ground a bit under his feet. Turning towards me, the living stone smiled. As his lips moved, they sounded like stone sliding against stone.
+
+He reached out his hand, the stone moving with him,
+
+"I'm finally free. It's good to be fully a part of this new world of yours."
+
+I squinted my eyes, finding what I was looking for.
+
+Gabriel, the Ascended Angel (lvl 850) - Once enough ambient mana was absorbed by the SoulSwallower, the original form of the chained creature took form. This is Gabriel, the ascended angel.
+
+Quite unfortunate of you to let him unchain himself. His skin is living stone, harder than steel. The feathers on his wings are sharper than blades. In this form, he gains illusion magic that can torment the weaker willed members of your party. Even if you can destroy his outer layer, he has a second, berserker form that allows him to kill those who reach past his skin.
+
+Despite your strength for your level, you will struggle dearly versus this foe, regardless of your tactics.
+
+Another spear lobbed out from Althea, but Gabriel deflected it with a dark wing. He turned to her, "Come now. I won't let you hit me with those spears of yours anymore. Enough."
+
+The wing flapped in her direction, sending enough wind to rock Althea off her feet. Three feathers shot out and pinned her arms against the wall. The feathers latched onto her arms, pinning her further. Gabriel turned to me,
+
+"That...aura of yours...It displeases me. Cease."
+
+His last word carried power, like Torix or Elijah's words. I grit my teeth, standing my ground as the word slammed into my mind. The words held a weight like iron. Unfortunately, they met my mind like a wall of steel. Gabriel raised an eyebrow,
+
+"How do you still stand? You should falter at my might."
+
+I rolled my eyes before raising my arms in a defensive stance. There wasn't any need to rush this fight anymore. The longer he talked, the more oppression would eat at him. Gabriel turned towards Kessiah and said,
+
+"The lady of power standing there. Are you here merely to observe?"
+
+Kessiah nodded. Gabriel grinned, "Good. I'll teach you little heathens some manners then."
+
+He shot towards me, raising a wing towards me. As he reached me, he stabbed the wing towards me. I dashed forwards and planted a heavy hook straight into his side. My armor met his stone coat like steel bouncing on steel.
+
+Gabriel grinned, "You will need more-"
+
+Charging my runes, I rotated on my heels and whipped a hook into his nose. The ground cracked beneath me as the angel took a step back. He rubbed a bit of powdered stone from his nose,
+
+"You can hit. I'll give you that much."
+
+I dashed forwards and sent a knee straight for his nuts. He grinned before a spear popped out the center of his chest. Blood leaked from his wound and mouth before my knee slammed into his testicles with great force.
+
+He keeled over before I used the momentum off the knee to plant that foot back into the ground. A tight, compact hook slammed into the side of his head, sending him stumbling off balance. Another harpoon drilled through the bones of a wing, ruining the limb I charged into him.
+
+He fell face first onto the ground before his wing reached around. The feathers sliced through my armor, stabbing through my chest. He pulled me off his back, slinging me towards a wall. Everything in my vision circled before I slammed into a cinderblock wall. I pushed myself out of it as another well aimed spear pierced through a wing of Gabriel.
+
+The angel roared in frustration before turning Towards Althea. He pushed himself off the ground and paced towards her. Deflecting spear after spear, he gained ground towards her before I charged towards him again.
+
+When I reached him, Gabriel roared, "Leave me peasant."
+
+With a kick faster than I could react, he slammed a heel into my chest. I flew backwards again, a dent in my armor. I flipped through the air before growing several spikes from my armor. I pierced them into the ground, stopping me in place.
+
+Retracting the spikes, I sprinted towards him again. When I reached him, he thundered,
+
+"I told you to leave me Worm."
+
+He kicked towards me again, but I gauged the distance just right. I slowed down just enough so that his foot scraped my armor. As his foot pulled back, I grabbed one of his broken wings and pulled down. He howled in pain before another bolt shot through one of his shins.
+
+Even though the armor was even harder than my armor, the bolt pierced it like nothing. It was like it would pierce through any amount of armor as if it was gelatin. If anything, everything to Althea was like gelatin. The only way to stop her attack was to pack on so much gelatin that she couldn't fuck you up. In other words, you needed a ton of health.
+
+Even though this new form was no doubt more durable than the last, that was because of its armor skin. This form couldn't hold a candle to its previous form in raw health. That meant he was easy pickings for Althea, who pierces through armor.
+
+On the other hand, I couldn't do much besides distract him in my current state. Given enough time, I could kill him. It would be a long, arduous road to victory though. On that road to victory, Althea owned a shortcut with her armor piercing ability.
+
+Gabriel turned and slapped the side of my face with a heavy palm. My helm bent. My teeth cracked. My jaw snapped. My cheek split. I didn't let go. Even if I couldn't hurt him, I could hold this fucker down and let Althea do the damage she needed to.
+
+Gabriel grabbed my neck and lifted me off the ground. He slammed a fist into my face once, then again and again. On his fourth strike, a harpoon drilled through the elbow of the arm holding me up. I fell onto the ground with my skull caved. Despite the grievous wounds, I still had a quarter of my health remaining.
+
+With my job handled, I laid on the ground and healed as the angel limped towards Althea. One spear gouged through his chest, then another. By the time he reached her, he was a pin cushion full of spears.
+
+Gabriel grinned when he reached her, Kessiah sitting at a lunchroom table. The angel spoke,
+
+"Now I've got you."
+
+Althea smiled before her cannon and normal arm reformed into two mauling limbs. Gabriel raised an eyebrow. Althea smashed a massive fist into his face, cracking the armor like paper. He tumbled backwards, but she didn't let him escape. With her other hand, she grabbed him and pulled him back towards her.
+
+Strike after strike, the armor over his skin peeled away like wet tissue paper. Under her onslaught, the invincible armor was nothing. Like a hungry lion, she tore his flesh apart. Blood gushed from all the red underneath his armored skin. She tore his wings off, snapped his joints, ripped him limb from limb.
+
+Before she could finish him, the blood across the battlefield siphoned into him. The few bits of his armor remaining fell from his skin. Veins crawled and sunk into his body, pushing vitality into his body. His skinless body shifted and contorted as Althea continued pummeling him.
+
+A hand caught the fist of Althea. It pushed her hand backwards as two thin, wiry legs pierced into the ground. Althea's arms shook as Gabriel's new, thin frame overpowered her massive arms. Gabriel's face grinned until the edges of his smile reached his ears. Blood gushed from his face as his mouth opened, revealing serrated teeth as his maw opened.
+
+It tore into Althea, tearing a chunk from her face. She howled in agony and dropped him. Stumbling backwards, the crimson, berserker form of Gabriel dashed towards her and used his clawed hands to tear her apart. Like two scythes, they tore through her flesh. They ripped her apart in seconds just as she had his stone skin.
+
+Althea fell to the ground before the monster contorted the four human limbs backwards. The limbs bent Gabriel backwards, like a scene off the exorcist. The exposed fibers of his muscles rippled as he tore her flesh off her bones.
+
+Althea fell apart, her head being crushed to a pulp. Gabriel's deformed, skinless face laughed at her demise before my fist dug into his fleshy side. His body flew backwards, slamming into the wall.
+
+Of course I wasn't standing still and watching her die. I regenerated most of my health, shut down oppression, and reached him as Althea tore off his armor. Without that set of stone skin, he wouldn't be nearly as difficult to punish. Gabriel darted from the wall, lunging a clawed hand towards me. I ducked under it, the claw scraping against my armor.
+
+I shot a compact hook into his side. Blood gushed from Gabriel's cheekless mouth before he tried sending another wild strike towards me. I cut the attack off with a shorter, denser strike with weight behind it. The blow broke his bones. The berserker form lost balance before I dashed forward.
+
+I grinned. If anything, the crazy, untamed movements of the berserker form were easier to deal with than his previous form. Most of the physical weight of Gabriel was in his armored skin. Without that weight, he couldn't push and sling me around with ease anymore.
+
+That meant I could maintain my distance and chain my hits together with deadly proficiency. My mythical skill, Boundless Storm, ensured I could outdo him as long as I was even remotely similar. That effect enhanced tremendously with a surge of ascendant mana.
+
+When Gabriel was in his armored form, I didn't use my runes. I just took advantage of my health regen since I didn't think I could do significant damage regardless. Without that same shield keeping him safe, there was nothing stopping me.
+
+So, with the ascendant mana overflowing, I dashed towards the bloody monstrosity. It whipped another strike at me, but I deflected the strike before slamming a blow into its stomach. The maw of the creature widened, the jaw unhinging as it bit towards me. My own armor opened a set of teeth, meeting the creature's bite.
+
+We wrestled upright for a moment before I tossed him onto the ground. He was far stronger than me, but I weighed more than him now. That let me maintain my own positioning in the fight.
+
+The berserker form tumbled on the ground. As it tried standing, I channeled my mana. A tile ripped off the floor at an angle. It caught the berserker's leg, causing him to trip. The monster attempted running once more, but it was too late. I was upon him.
+
+The fervor and zeal of battle overwhelmed me. Coursing like the blood through my veins, that madness of battle unleashed brutality. Strike after strike, I pulverized and pummeled the creature to powder. I tore his limbs asunder, and rived his bones. I tore teeth. I broke bone. I flayed skin.
+
+I tore through the flesh of the mongrel. The sheer tenacity of Gabriel's body worked against him as I tore him apart. His frame wouldn't let him die. That prolonged his torment. Blood soaked strike after blood soaked strike, I ignored his own attempts to harm me.
+
+His claws dug into my side, but I retaliated with a vicious hook into his own. He bit into my forearm, but I tore the flesh off his. He attacked me with madness. I crushed him with brutality.
+
+As the dust settled from the long fight, I glanced at my health. Down to around 1/10th. It wasn't too bad an outcome. In front of me was a bloody pile of mush. I sighed outwards before falling backwards. I stared at the ceiling, letting my mind wander for a bit. It needed the break.
+
+I pushed a fist into the air and shook it for a moment. We did it. One fallen angel down. Who knew how many left to go.

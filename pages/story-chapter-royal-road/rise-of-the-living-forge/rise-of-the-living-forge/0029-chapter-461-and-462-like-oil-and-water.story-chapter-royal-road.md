@@ -1,0 +1,285 @@
+---
+id: ea459e59-4fc6-5c01-99dd-3d32c7215cf5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 461 & 462: Like oil and water"
+slug: 0029-chapter-461-and-462-like-oil-and-water
+partOf: rise-of-the-living-forge
+position: 29
+ownLength: 3641
+unit: words
+ownProgress: 3641
+publishedAt: 2025-07-24
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2462720/chapter-461-462-like-oil-and-water"
+royalRoadId: "2462720"
+markedReadAt: "2026-06-29T19:59:23.407Z"
+---
+
+A stunned silence held the air in a chokehold.
+
+Arwin stared down at the crumpled body of the woman that had just challenged him. He was joined by just about every other person in the crowd, both outside and inside the Devil’s den.
+
+He hadn’t even gotten a chance to actually fight. Vanessa had just walked up to him, tried to swing her sword once, and then crumpled like a puppet whose strings had been cut.
+
+The urge to let out a heavy sigh gripped Arwin.
+
+This is definitely going to cause some really annoying rumors.
+
+“What did he do?” an adventurer somewhere behind him whispered. “What was that?”
+
+“His glare was so strong that she dropped dead on the spot,” someone else said. “That’s no smith. It’s a demon!”
+
+“No, you idiot. The demon is the innkeeper,” another one said. “They can’t have two demons. None of them are the same kind of monster. Why would you need two demons? He’s clearly something else.”
+
+“What kind of monster glares people to death?” the first adventurer asked. “Wait. Is she actually dead?”
+
+“She’s not dead,” Arwin called sharply. He really didn’t need that particular rumor getting out. “She just passed out. I’m… going to go take her inside, I guess.”
+
+“Are you going to kill her?” one of the adventurers asked.
+
+“No,” Arwin said as he hoisted Vanessa off the ground with one hand. He slung her over his shoulder like a sack of potatoes. “I’m going to wake her up and then send her on her way. I don’t make a business of killing people that annoy me. I’m pretty sure that goes against a few laws.”
+
+A few chuckles rolled through the crowd. That was enough for Arwin. He strode into the Devil’s Den. The longer he was outside, the more likely it was that someone would catch on that he was just as baffled as the rest of them.
+
+What was that? Why did Vanessa just… drop?
+
+Arwin wove by the tables of adventurers, who hurriedly turned their attention back to their meals. He wasn’t even sure exactly where he was meant to take Vanessa. The last thing he wanted was to start even more rumors.
+
+A shadow imp popped out in his path. It waved his hand to grab his attention, then hurried off toward the back of the room.
+
+Arwin followed after it without hesitation. The little creature led him right up to a door, which opened up to reveal a plain stone room with a wooden table. There were a few splotches of blood on top of the table.
+
+He didn’t know why — and he didn’t want to.
+
+A slightly bloody table was still better than the floor. With a grunt, Arwin plopped Vanessa down on the wood. She didn’t even flinch. The woman was completely out cold. If it wasn’t for the faint rise and fall of her chest, he might have assumed she was actually dead.
+
+“What the hell happened?” Arwin muttered. He dug through his memories, brow furrowing. This had never happened before. Something about his new abilities must have changed things significantly. Arwin summoned his status screen with a thought.
+
+He sifted through the massive list, scanning over it for anything that possibly could have taken responsibility for Vanessa’s sudden collapse. Sure, he had the new passive from [Shroud of the Harbinger] that merged his soul with that of his Awakened equipment.
+
+The addition of Gehenna to his other, already powerful weapons, was definitely partially to blame. Perhaps that pressure was a hell of a lot stronger than he’d expected. But nobody else had picked up on it.
+
+Hm. It did look like Vanessa might have used some kind of perception ability. She was handling everything normal right up until her eyes sharpened. Is my new passive some kind of auto-counter to anyone who looks too closely at me?
+
+There had to be more to it than that. Vanessa hadn’t just collapsed. She’d managed to make it all the way up to him before she’d fallen, and she’d been terrified the whole time. That kind of fear didn’t come easily. There had to be something—
+
+Arwin froze as his gaze landed on a Title he’d gotten some time ago.
+
+[Inevitable End] – Awarded for killing an overloading monster a full Tier above you from a location where it could do nothing but wait for death. Try not to make it a habit. Perceptive opponents will be able to pick up the promise of death that seems to find those who place themselves in your way.
+
+“Shit,” Arwin breathed, realization finally settling in on him.
+
+It wasn’t just one passive ability that had taken Vanessa out. It had been two. His new passive had stacked with [Inevitable End], intensifying the effects of both abilities. And when the woman had activated some manner of perception ability on top of all that, she’d done the equivalent of peering into the void.
+
+That’s a terrifying combination for an ability that I didn’t even fully activate. What would happen if I used [Shroud of the Harbinger]’s active ability? Even if someone wasn’t trying to stare into my soul with some kind of analysis ability… I think it would do quite a bit of damage.
+
+Arwin blew out a breath and shook his head. This was not the kind of ability he’d ever thought a crafting class would have received. Something told him nobody else was going to expect it either.
+
+Anyone trying to spy too close on me might get a nasty surprise.
+
+But Vanessa’s sudden collapse hadn’t been the only surprise of the fight. Arwin lifted his fingers to his chest, brushing them across his shirt. She’d slashed at him, but he hadn’t even gotten so much as a welt.
+
+It wasn’t because the thug was weak. She may have swung with the flat side of her blade, but she’d swung hard.
+
+[Indomitable Bulwark] reduced the damage he took — but not completely. And his skin most certainly did not make a clanging noise when it got hit. No, something had appeared between himself and Vanessa’s sword a moment before the weapon could connect.
+
+I could have sworn that, for a moment, there was a piece of armor in the way of her sword. How did that happen?
+
+The door creaked behind Arwin. He turned, pulled from his thoughts, as Rodrick stepped into the room. Anna followed shortly after him.
+
+“Well done,” Rodrick said as he approached the table Vanessa laid on. He paused to glance over at Arwin. “Not that I’m really certain I know what you did.”
+
+“Ability combination that accidentally turns me into an eldritch eyeball that doesn’t like getting stared too closely at by observational spells.”
+
+“Ah,” Rodrick said, nodding as if that was the most natural response in the world. “Makes sense. Handy. She dead?”
+
+“No! Why does everyone think I go around murdering people?” Arwin exclaimed. “What have I possibly done to get anyone to think that? It’s not like they know about Jessen. This reputation is entirely unjust!"
+
+Rodrick and Anna stared at Arwin.
+
+There were several long, uncomfortable moments of silence.
+
+“What?” Arwin asked. “Why are you looking at me like that?”
+
+“You literally just beat the life out of someone a few hours ago,” Rodrick said. “It was brutal. Deserved, but brutal. I haven’t seen a slaughter like that in quite some time. You had the guy’s helm ringing like a church bell. I’m pretty sure he was more dent than man by the time you handed him off to Lillia.”
+
+“I have absolutely no idea what you’re talking about,” Arwin said, baffled. He glanced at Anna. “Is Rodrick okay?”
+
+“Are you?” Anna asked. “It was your Ivory Executioner Armor, Arwin. It strode out of your forge a few hours ago when a man in magical armor showed up to attack the Infernal Armory. He hit Reya—”
+
+“He did what?” Fury ignited within Arwin in an instant. The sea of magma within his soul roiled like a bubbling volcano as he spun toward Anna, his mind already preparing to summon Caldera to his hands. “Where is he?”
+
+“Dead,” Rodrick said. “Reya is fine, Arwin. Lillia cut his head off after you crumpled his armor in on him.”
+
+Arwin paused. Then he let his hand drop, the anger slowly being replaced with confusion. “I… have no idea what you’re talking about. I was in my forge working all day today.”
+
+“You mean that you had nothing to do with your Soul Guardian coming out to fight?” Rodrick asked, his eyes going wide. “That was automatic?”
+
+A memory finally flashed through Arwin’s thoughts.
+
+He’d noticed something dark splattered across the Soul Guardian’s fist when he’d been leaving the Infernal Armory.
+
+It must have been blood.
+
+“Shit,” Arwin breathed. “I didn’t even realize it had activated. It’s that powerful?”
+
+“Strong enough to beat the life out of a Dwarven Warrior and deliver him to Lillia on a silver platter,” Rodrick confirmed with a nod. “He was a pretty tough bastard. Had armor from a dwarven councilwoman called Indrana. Ida’s mother.”
+
+“That’s bad,” Arwin said, his jaw clenching. “If we have the dwarves’ attention to such a degree, we might be—”
+
+“Oh, don’t worry. Indrana is too scared to do shit after she had a little chat with Lillia. She works for us now. So does Ida, by the way.”
+
+Arwin stared at him.
+
+“Just how much have I missed?” he asked.
+
+“That depends,” Rodrick replied with a grin. “Do you want the long version of the short version?”
+
+Vanessa let out a muted groan on the table beside them.
+
+Everyone glance down at her.
+
+“Maybe we can save it for after dinner,” Arwin said. “You were following her, right?”
+
+“A bit more than that,” Rodrick said. The smile on his face fell away. “She might be trouble.”
+
+Arwin sent a critical glance down at Vanessa. “Are you sure?”
+
+“Not her literal abilities. What her presence represents,” Rodrick said. “The Inn she’s staying in… it’s the same one that Thane and his mage were in.”
+
+“Wait,” Arwin said. “Are you saying—”
+
+“No. It wasn’t the Blacktongues. It’s too obvious. This is a setup. Someone wants us to think the Blacktongues are sending a hit after you,” Rodrick said grimly. “But either way… it doesn’t change much. It seems someone at the upcoming party is hoping for a little drama.”
+
+“I see,” Arwin said. His eyes narrowed. “Then we would be rude indeed not to bring them what they’re asking for.”
+
+Chapter 462
+
+“It would be wise to avoid overplaying our hand at the party,” Rodrick said. He and Arwin were still gathered around the wooden table bearing Vanessa’s unconscious body. “Making a point is good — but we don’t want to give them too much of an insight into us.”
+
+“I don’t disagree, but I also suspect we’re going to find it somewhat difficult to get away with holding back during something like this. There will be members of the Adventurer’s Guild present at the party. Real ones. Not just their tools or puppets, but the guys that made Hein.”
+
+“Oh, don’t get me wrong.” Rodrick lifted his hands before himself. “It’s not you that needs to hold back. You should be using any tools at your disposal to accomplish what needs to be done. After all, you’re the distraction.”
+
+Arwin raised his eyebrows. “Meaning—”
+
+“Something is inevitably going to go wrong,” Rodrick said with a shrug. “And if it doesn’t — you’ll make it go wrong. Should be easy enough given the company we’ll be keeping. That distraction will be what we use to get the information we’re at the party for. War is not won with a blade. It’s won with knowledge. If you know where your enemy will be and what they can do… they’re dead before they ever get a chance to realize they’re fighting.”
+
+“So you want to make sure the Guild doesn’t know how good our information gathering is,” Arwin surmised. “Do you have a plan of some sort yet?”
+
+Rodrick nodded. “Yes. It’ll have a few more moving parts than I would like, but the confusion will hurt the Guild just as much as it’ll hurt us. And all you have to do is be yourself. Your mere presence should be enough to cause significant levels of trouble.”
+
+Arwin started to nod. Then he paused. His eyes thinned. “That feels like an insult.”
+
+“It’s a fact,” Rodrick corrected. He clapped Arwin on the shoulder. “No point beating around the bush when the truth is laying on the ground in front of you.”
+
+“And you’re one of the few people suited to deal with trouble like that,” Anna piped up from beside Vanessa. “Getting into trouble is easy. Getting out of it is where the real challenge lays.”
+
+Arwin let out a grunt and jerked his chin to Vanessa. The woman was still unconscious, but from the way she’d started to stir, it probably wouldn’t be long before she woke up again. “Any thoughts on what we should do with her?”
+
+“I’ve been keeping an eye on her for a while,” Rodrick said. A moment of weariness seemed to pass over him and he pinched the bridge of his nose. “She’s… well, I’m pretty sure she’s exactly what she appears to be. Even the most competent liar couldn’t pull that off. I watched her get lost about four times in the same alleyway.”
+
+“Ah,” Arwin said. “Well, some of them can be quite confusing.”
+
+“It was a dead end.”
+
+“Ah,” Arwin said again. “Well… killing her feels wrong. She hasn’t actually done anything worthy of death. She’s kind of just doing her thing. No worse than half the other people that live in Milten.”
+
+“I’m not quite so lost that I’d suggest ending her,” Rodrick said with a shake of his head. “She hasn’t seen anything that we can’t afford to share, either. The only thing I’d be careful of is making sure she doesn’t just start going after other people. We can’t have that. Even though she was no threat to you, Vanessa still carries herself like a competent warrior. Idiocy and strength are not mutually exclusive.”
+
+“Right,” Arwin said. They were both silent for a few moments. Then a thought struck Arwin. The corner of his lip twitched in amusement. “You reckon we could hire her for a job?”
+
+“Something tells me a thug isn’t the most dedicated to her current client. From the sounds of things, she’s probably more like a warrior for hire. Part of a small group or guild. I highly doubt anyone with the pull to be attending a party like that of the Blacktongues’ would keep someone like her around.”
+
+“Then I might have an idea,” Arwin said. “She seems like she’d be a pretty effective distraction. We’ve got quite a bit of coin at this point. Gold is hardly an issue for the Menagerie anymore. I’d be willing to bet we can find a spot where she can be bought out for a day.”
+
+“You’re going to bring her into the party?” Anna asked. Her eyes flicked from Vanessa back to Arwin. “Are you certain? That seems… bold. She might not be evil, but that doesn’t mean she’s reliable. Even an idiot hitting you with a well-timed swing while your attention is elsewhere could be a problem.”
+
+“Hmm.” Rodrick rubbed at his chin. “You know, if it’s possible, that wouldn’t be a bad idea at all. Somebody sent Vanessa after us to send a message. If we show up to the party along with her, that sends a pretty strong counter-message — and it might make it easier to figure out who directed her toward us in the first place.”
+
+“Can’t we just ask her when she wakes up?” Arwin asked. Vanessa stirred again. It didn’t look like it would be long, now. “Wait. Let me guess. She probably never even spoke to the real guy. Just some intermediatory for an intermediary, so any information she might have is going to be completely useless.”
+
+Rodrick chuckled. “Maybe you’re spending too much time around me. But yes, that’s almost certainly the case. Noble houses have been doing this kind of game for longer than either of us have been alive. They might not be geniuses, but they know how to take basic steps to cover their tracks. Still, it can’t hurt to ask her what she knows. Anna, can you wake her up?”
+
+“Sure,” Anna said.
+
+“You’ve got a way to wake up unconscious people?” Arwin asked, blinking in surprise. “Is that a new skill?”
+
+Anna gave him a sidelong glance.
+
+Then she slapped Vanessa across the face.
+
+The larger woman drew in a sharp breath and jerked upright, her hand shooting up to her cheek as her dazed eyes darted around the room.
+
+Anna shook her hand off. She reached into her bag and pulled out a handkerchief, wiping it off before folding the cloth back and returning it to its former position.
+
+“In a manner of speaking,” Anna said.
+
+“Wha — huh? Where am I?” Vanessa asked, her words drowsy. “Am I dead? Did you kill me?”
+
+“No,” Arwin said, coughing into his fist to hide his reddening cheeks. “If I killed you, wouldn’t I not be here?”
+
+“Maybe you slipped and died right after I did. It can happen, you know,” Vanessa said. She rubbed at her cheek. Then she paused. Her eyes locked with Arwin’s as she swallowed. “You — what are you?”
+
+“Do you make a habit of asking people questions after they’ve captured you?” Rodrick asked. “Generally, the position tends to be reversed.”
+
+“I don’t make a habit of getting captured. This is a first for me. I — oh shit!” Vanessa’s face went pale as a ghost. “How long has it been? When did we fight?”
+
+“A few minutes ago,” Arwin said. He wasn’t sure if he was impressed or exasperated that Vanessa didn’t seem to care in the slightest about her current situation.
+
+“Oh, thank the gods.” Vanessa blew out a relieved breath. “I’ve got time to make it to my plans tonight. I’ve got to be out of here by nightfall. Thugs are always punctual. We make a point not to miss appointments.”
+
+“What manner of appointment?” Rodrick asked before Arwin could stop him.
+
+“I’m going to bone the brains out of some little adventurer,” Vanessa replied. “Want to join?”
+
+“I’m taken, I’m afraid,” Rodirck said.
+
+“Ah,” Vanessa said. She rubbed at her cheek. “Who slapped me? This stings.”
+
+“That would be me,” Anna said.
+
+“Nice. You busy later tonight?”
+
+Anna just pointed at Rodrick.
+
+“Damn,” Vanessa said. “This is awkward. I normally have much better luck than this. Oh well. So… can we wrap this up quickly?”
+
+“What makes you think we’re going to be letting you go?” Arwin asked, tilting his head to the side. “You attacked me. In the middle of my dinner.”
+
+“Dinner that’s getting colder the longer you spend talking to me,” Vanessa pointed out. “And it was nothing personal. Just business. I even went outside with you to make sure we didn’t break anything.”
+
+Arwin paused. She had done that.
+
+“And you think that lets you just attack whoever you want?” Arwin asked.
+
+Vanessa shrugged. “Someone’s gonna do it. Would you have preferred I jump at you across the room and cause a bunch of damage in the process? There’s always a market for thumping people. Besides — if you were going to kill me, you’d have done it already. You want something.”
+
+She’s actually a lot sharper than I thought she was.
+
+“Who hired you?” Rodrick asked.
+
+Vanessa clicked her tongue. “Now, I can’t say that. Professional courtesy. Ratting out clients is a great way to make sure nobody ever—”
+
+Rodrick tossed a small leather bag over to the woman. She snatched it out of the air with a jingling clink. Her eyebrows crept up as she pulled the drawstring of the bag open and glanced inside. Vanessa paused for a moment. Then she looked back up to him.
+
+“Short guy. Blonde hair. Bit fat, shaped like a pear. Face like that of a pig and a bulldog had a baby. Walks around with his nose stuck so far up into the air that it’s a miracle he can see the street. He wore dark clothes, but he had a purple silk underwear that stuck out from his pants. They were stained. Not on my list.”
+
+“Your… list?” Anna asked hesitantly. “When you say list…”
+
+Vanessa grinned. “You know it, girl.”
+
+“Name?” Rodrick asked.
+
+“Didn’t get one,” Vanessa said. “He hired my team to thump Ifrit. Oh — speaking of which, I’d appreciate if you at least tell people I hit you. That or kill a whole bunch of people. Passing out after one swing is going to ruin my reputation otherwise.”
+
+“How would you like to earn another one of those?” Rodrick asked, ignoring Vanessa as he pointed to the bag in her hands. “Because we’ve got a job for you. One considerably easier than trying to fight our guild leader.”
+
+“I’m still technically on a job, you know. Taking another one is a conflict of interest.” Vanessa tilted her head to the side. “But keep talking. Just in case.”
+
+“We want you to come with us to a party,” Arwin said. “I—”
+
+“Well, shit!” A huge grin split Vanessa’s face. “Why didn’t you open with that? I’m in.”
+
+Arwin couldn’t keep a grin from pulling across his lips. He could already picture it. A group of stuffy nobles, all preening about how great they were — and smack dab in the mix, Vanessa. Mixing her with a group of pompous bastards…
+
+Oh, this is going to be good.

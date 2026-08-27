@@ -1,0 +1,277 @@
+---
+id: 44c4567a-d7ec-5be6-8b66-900528e84c06
+page-type-slug: story-chapter-royal-road
+title: "Chapter 701 - Alterations"
+slug: 0702-chapter-701-alterations
+partOf: mythrans-master-of-all-continued-completed
+position: 702
+ownLength: 3067
+unit: words
+publishedAt: 2018-09-15
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/290498/chapter-701-alterations"
+royalRoadId: "290498"
+---
+
+After having a good laugh at the station's expense, Stella brought Ren back to his bedroom so he could log back into the game. It was very close to the time he needed to go visit Fire Dancer, and Stella got him settled in the bed and passed him the VR headset.
+
+“I'll see you at lunch.” Ren said and put it on. “Flow Login Start.”
+
+********
+
+Ren wasn't surprised that he appeared in the white loading area and waited for the popup he knew was coming.
+
+Water Works Update 1.02
+
+This update fixes several glaring problems with various quests, items, and NPC interactions related to the Water Works World Event.
+
+Certain daily quests have been restricted to one time only, while others have been downgraded into daily quests. NPCs relevant to the Water Works World Event will be the only ones with new or added content, instead of all NPCs.
+
+Designated quest givers will be highlighted on your player map automatically to remove any confusion, and to lessen the impact of having to talk to everyone in certain areas to find those quest givers. The type of quest will be shown in the popup before you accept the quest, and not after you have accepted.
+
+Creatures related to said quests will respawn at certain intervals, so if you miss one or make a mistake, simply waiting for the next interval will remedy the problem. Returning to the quest giver will not reset the quest or speed up the respawn rate...
+
+Geez, they are really trying to cover their asses this time. Ren thought as he scrolled trough the rest of the popup. He read it all and when he got to the bottom, a small button appeared that said 'Notes for Special Classes or Characters'. Curious, he selected it and another popup appeared.
+
+Notes for Special Classes or Characters
+
+Any and all connections, be it contractual, emotional, physical, or magical, have been restored to their previous states before the current world event. If any such connections were made after the world event started, those connections have been removed and must be reestablished.
+
+“Dammit.” Ren said. “If that's true, then Seldanna might not be the Sovereign of the Succubi anymore.”
+
+Ren dismissed the popups and then another one appeared.
+
+System Notice!
+
+Welcome to the new Water Works Update! The things you do can change the way things go!
+
+The quests you choose, the decisions you make, and the people you choose to either kill or save, will shape the way of the world. Not just for you, but for everyone around you.
+
+Will you save that damsel in distress, or help kidnap her for the ransom? Kill the creature attacking a homestead, or tame it and use its power for yourself?
+
+You have the power of choice. What will you choose?
+
+“Are they kidding?” Ren asked and read it again. “No, this doesn't seem like a joke.” He said. “I need to talk to Elise about this. Logout.”
+
+Nothing happened.
+
+“I said logout.” Ren looked around and sighed. “I guess it won't work until I go all the way into the game.” He closed the popup and the game world started to form around him, then he felt a searing pain in his chest. “ARGH!”
+
+“REN!” Artemis yelled and the 4 succubi hissed and started to freak out as the feeling of Ren's agony filled his Aura. Ren fell to his knees and grabbed the spot above his heart and tore off his blue suit coat and shirt to reveal his Maker's Mark that was there. It glowed blue and then started to unravel.
+
+“Wh-what...” Ren whimpered in pain as bits of the mark popped off of his skin and dissolved. “N-no... no...”
+
+The mark was completely gone after only a few seconds, then he collapsed to the floor, unconscious.
+
+********
+
+“Sir! SIR!” One of the programmers said to get the head programmer's attention.
+
+“What is it?”
+
+“We've had reports from some of the player system administrators that there are problems with the new update.”
+
+“Like what?”
+
+“Complaints from players about them losing their things, sir.”
+
+“Losing their things? What things?” The head programmer asked.
+
+“Anything they had a connection to, sir.” The programmer said. “Mounts, party members, magical items they bought...”
+
+“We warned that would happen for anything they did after the Water Works World Event was started.”
+
+“Yes, but this is for everything, sir.”
+
+“Wh-what?” The head programmer came over to the programmer's desk and looked at the reports. “No, this... what is...” He left the programmer and ran back to his own desk and started bringing up the update and its related coding. Since he knew what he was looking for, it didn't take him long to see what the problem was.
+
+“Oh, shit.” He said and stoop up. “Send out a game-wide notice for everyone to log out immediately and block all incoming connections.”
+
+“Sir, we can send the notice, but we can't block the players trying to log in.”
+
+“Stop them in the loading area and log them back out, dammit!”
+
+“Sir, that could cause...”
+
+“If that won't work, take the server offline.”
+
+“We can't, there's still people logged in.”
+
+“Then log them out!” The head programmer said. “Send the emergency logout code!”
+
+“It would be unethical to do that while some of them are unconscious, sir.”
+
+“Unconscious? How many...”
+
+“Thirty-six.”
+
+“Why are they...”
+
+“It's still nighttime in the game, sir.”
+
+“Dammit, we have to get them out before all the damage is done.” The head programmer said.
+
+“What damage?” Someone else asked.
+
+“The update isn't set to restore the connections to the way they were before the event.” He said angrily. “It's resetting them!”
+
+“Oh, shit.” Someone else said. “That means...”
+
+“Get those people out as soon as you can.” The head programmer said and picked up the phone. “I need to tell the boss.”
+
+“What are we going to do?” One of the programmers asked. “Once something is reset...”
+
+“...there's nothing for it to restore to.” One of the others said. “This is bad.”
+
+“Really bad.” Someone else said. “Do you realize how many things we have in the game that are controlled like that?” He asked, and they shook their heads.
+
+“We should load the last backup before the update.” A guy suggested.
+
+“Yeah, except the game saved the backup after the update was implemented last night.” The guy who controlled the backups said.
+
+“Then use the one for the night before, dumbass!” The guy at the next desk said.
+
+“I would, if someone hadn't needed the extra room to work on the Beastkin update.” The backup guy said.
+
+“Why didn't you delete an older one?”
+
+“I already did to make room for the Giants and the Sea Dwellers.” The backup guy said. “Do you know how big the file is to hold the data for everything in the game, including character profiles, progress, and quest data? The only one I could fit on the portable drive was from a month ago, and that's only because I spent 6 hours compressing the thing to make it fit!”
+
+“We are so screwed.” Someone else said.
+
+The head programmer hung up the phone and looked at the other programmers. “Well, it was nice working with you.” He said and stood up, put on his jacket, and walked towards the door of the tech department.
+
+“W-wait! Where are you going?” One of them asked. “We need to fix this thing!”
+
+“Good luck with that.” He said. “I'll send someone over to pack my things.”
+
+“But...”
+
+“If I don't leave right now, I'll be thrown out.” The former head programmer said.
+
+“It wasn't your fault!”
+
+“Was it yours?” He asked, and the guy didn't say anything. “Whose was it?” He looked around the room and no one admitted to making the simple and devastating mistake. “I hope whoever did it is happy, because they just pissed off every player, ruined one of the best games in the world, and probably cost this company a lot of money, not to mention possibly shutting it down.”
+
+No one said anything in response, so he opened the door and left.
+
+*
+
+Gloria and Steven had worked hard on the engine that was almost ruined by some idiot's mistake, repaired and replaced the damaged parts, then put it all back together and used the proper mounting bolt for the alternator. Gloria hadn't been surprised that the odd-shaped bolt had cross-threaded the hole and she had to use a tap and die kit to re-thread the hole. When the job was done, they went into the office to tell Frank the good news.
+
+“Boss, it's finally fixed.” Gloria said. “We had a hard time with...” She stopped talking when she saw who the high priority client was.
+
+“I hope it wasn't too much trouble.” Mayor Danicot said with a huge smile. “I knew I never should have let my brother in law handle such a simple task.”
+
+“Using skilled professionals is a better choice most times.” Frank said, almost formally. “It might be a bit more expensive than doing it yourself or having a friend or family member do it; but, professionals can guarantee the work and care about quality over just getting it done and working.”
+
+Why is he talking like that? Gloria asked herself.
+
+“Yes, yes. I have to agree.” Mayor Danicot said and looked at Gloria as he held a hand out for her to shake. “I've already met Frank and Steven officially.” He said. “Who might you be?”
+
+Gloria frowned at his extended hand and held both of hers up to show that they were covered in grease and dirt. “You know who I am already.”
+
+“Gloria, don't be like that.” Frank said. “Mayor Danicot just wants to greet you formally.”
+
+“No, thanks.” Gloria said. “Even if I didn't have grease-covered hands, I wouldn't want to shake his filthy hands.”
+
+“Gloria, you don't have to be such a bitch all the time.” Steven said.
+
+“Apparently I do, just so you never get the wrong fucking idea.” Gloria snapped at him. “I've lost count of how many times you've intentionally grazed my arm or hand while we worked together.”
+
+Steven clamped his mouth shut and didn't respond.
+
+“Of course I noticed, you idiot.” Gloria said. “I saw how you get off on thinking you put one over on me, and each time you think that if you can do it one more time, maybe I'll say something to you about it or even express an interest in you.” She said. “I never did that because I didn't want to give you the satisfaction of letting you think I gave a flying fuck what you think.”
+
+Steven let his anger show and she smiled.
+
+“There's the real you.” Gloria said. “The stuck up asshole who thinks I should be falling all over you, who gets angry because not only don't I think the sun rises out of your butt, I also don't think you're god's gift to women.”
+
+“Gloria.” Frank said in an angry tone, and Gloria looked at him.
+
+“What?”
+
+“You really shouldn't say things like that to a fellow employee, or in front of an important client.”
+
+“Important client?” Gloria laughed. “If you had told me who the job was for, I would have told you to shove it up your ass.”
+
+“Young lady, I've taken a lot of guff from you over the years...”
+
+“Oh, shut up, Frank!” Gloria exclaimed, and he looked at her with wide eyes. “You do realize this guy... this piece of garbage...” She pointed at the mayor. “...was one of the people involved in the experiments on Ren Haddon, right?”
+
+“Wh-what?” Frank and Steven said at the same time. Mayor Danicot didn't say anything.
+
+“Yeah, he was involved, as was the Chief of Police and Senator Eddlemere.” Gloria said. “Plus a slew of other prominent people.” She shook her head. “I feel dirty just being in the same city with him, let alone the same room.”
+
+“That's a very serious accusation.” Mayor Danicot said with a blank face.
+
+“HA!” Gloria barked a laugh. “You should have said, 'I never touched that boy', or 'there's no evidence connecting me to the crime'.” She said. “You should be impassioned to defend your innocence of the slander I just laid against you. You shouldn't only say that it's a serious accusation.”
+
+Mayor Danicot didn't say anything in his defence, and Gloria shook her head.
+
+“They might not be able to do anything criminally to you, considering the time since it happened and all of the connections you have; but, once the rest of the lawsuits are filed and become part of the public record, you won't be able to show your face in this city for the rest of your natural life.” Gloria said and looked at Frank. “I suggest you get paid for this job as soon as possible, before it all comes out officially.” She said, then looked at him with concern. “That's assuming you're not doing it for free because he's the mayor.”
+
+Frank didn't refute her statement, and she shook her head again.
+
+“I'm surrounded by idiots.” Gloria said, picked up a rag from Frank's desk and wiped off her hands. “I'm taking the rest of the day off.” She said and walked over to the office door.
+
+“You can't take it off.” Steven said. “Your shift hasn't even started yet.”
+
+Gloria casually tossed the rag at him. It bounced off his chest and landed on the floor. “Fuck off.” She said and opened the door, stepped out, then slammed it hard enough to rattle the glass without breaking it.
+
+*
+
+Stella had seen the brief popups when Ren entered the white loading area, then she saw Ren collapse. She checked his vital signs and discovered that he was only unconscious. She was tempted to force the logout; but, she didn't want to do that without knowing the cause. She brought up the footage on the laptop and watched it in real time, then didn't understand what happened. She took out her cell phone and typed a quick message to Elise for help.
+
+Elise came upstairs from the office and was at her side a few minutes later. She reviewed the footage herself and held in her sigh. “Oh... oh, no.”
+
+“What is it?” Stella asked.
+
+“If what the popup said is right, Ren is losing the connections he's made.”
+
+“But, the popups said only the ones he made after the Water Works world event would be lost.”
+
+“He made the connections to Nathalia and Xuunah long before the waterworks update.” Elise said and pointed to Ren's bare chest right before he collapsed. “If these are being removed, then the update is removing all connections.” She sighed. “I think Ren's suffered an extreme shock because of that.”
+
+“Oh, damn.” Stella said and looked at Ren. “Should we log him out?”
+
+“No.” Elise said. “If he wakes up here, it might be much worse for him than waking up there will be.”
+
+“What do you mean?”
+
+“Ren's losing it all, Stella.” Elise said sadly. “All of the connections he's made with everyone in his life.”
+
+“The maids?”
+
+“Among others.” Elise took out her cell phone and dialed her old boss at Sid Tec, Edward Torren. “Hello, sir.” She said. “No, sir. He's unconscious right now.”
+
+Stella watched her closely and tried to hear the other side of the conversation, to no avail.
+
+“No.” Elise said. “You can't just...” She took in a deep breath. “Sir, you don't understand.” She stopped talking and squinted her eyes. “If it was just a small mistake, then why can't they fix...”
+
+Stella saw Elise's face start to turn red from anger, and she reached out and touched the side of her face. Elise looked at her and Stella pointed to her belly. She sighed and her face went back to its normal color as she took Stella's hand and held it.
+
+“Sir, Ren owns 40% of the company.” Elise said calmly. “You need to fix this right now.” She listened to his response, then chuckled. “Either you fix it and put things back to the way they were, or we won't be dropping the lawsuits against the company.”
+
+Stella caught her breath at that. She's using the big gun right off the bat.
+
+“I agree that firing the head programmer was the right move, since it was his job to check everyone's work, except you should have waited for him to fix the problem first.” Elise said. “He would have been motivated to repair the damage since it was his fault, and then you could have quietly let him leave.” She waited for a moment and spoke. “Because now you've got a room full of terrified programmers that won't try to fix things like they should, because they could be fired for it.”
+
+Stella watched the play of emotions on Elise's face, and she couldn't help go through them, too. The game and what Ren has done there means a lot to him. She thought. If they take all of that away because of a mistake and won't... or can't... fix it...
+
+“You told me before that you took my advice and started to implement it.” Elise said. “How far along...” She listened for a few moments, then sighed. “It was a waste of time telling you, then.”
+
+Stella wondered what she was talking about, then Elise straightened her posture.
+
+“Don't underestimate us, sir.” Elise said with steel in her voice. “I regret having to remind you of this; but, we have an entire law firm on retainer, including the senior partner.” She said. “We won't hesitate to use that to our advantage.” She didn't talk for a moment, then nodded. “I'm sorry, too.”
+
+“What's going on?” Stella asked when she hung up.
+
+“Apparently, instead of restoring things to the way they were before the world event, the update is resetting everything.”
+
+“Oh, no.” Stella said. “Poor Ren.”
+
+“Poor everyone, you mean.” Elise said. “It's game-wide and affects everyone, players and NPCs alike, not just Ren.”
+
+Stella caught her breath at the implications. “Then... doesn't that mean...”
+
+“Nearly everyone Ren has in his life will be affected in some way.” Elise said, and they both looked at Ren and then at the television in the hopes that he would wake up soon.

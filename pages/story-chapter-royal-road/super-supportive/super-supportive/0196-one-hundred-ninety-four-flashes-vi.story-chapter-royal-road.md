@@ -1,0 +1,359 @@
+---
+id: 7ec9bf2e-e26b-5c09-9097-36a320f8a33f
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED NINETY-FOUR: Flashes VI"
+slug: 0196-one-hundred-ninety-four-flashes-vi
+partOf: super-supportive
+position: 196
+ownLength: 4292
+unit: words
+publishedAt: 2024-12-30
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1981599/one-hundred-ninety-four-flashes-vi"
+royalRoadId: "1981599"
+---
+
+194
+
+******
+
+“Stop,” said Alden, ignoring the jostling as the others halted right behind him.
+
+No more careful walks or extended conversations—they had fifteen minutes left of class, and they had to make this run count. He was trying to focus on all the necessary details, and in this particular second, the priority was Instructor Klein. The Agility Brute was across the gym, finishing off a whirlwind of an attack on Vandy. Febri shouted something that was probably a curse, grabbed Vandy to carry her onward, and Klein’s head turned for the briefest of moments toward Alden’s increasingly frustrated team.
+
+Haoyu was permanently flushed now. Even though he was deliberately stepping up to be his parents’ primary target on their team, he was probably hitting his limit. The spell impression that helped him stay on his feet wasn’t nearly as good as the skills that helped his parents keep their own footing, and it showed when they were repeatedly prying him off the floor.
+
+He wanted to be able to stand with them in dangerous places so much that he’d asked Esh-erdi for advice. And despite his even keel and general optimism, he had expected—and been expected by most people who grew up with him—to be an S. It had to feel like crap at a time like this to be getting such frequent reminders that he was miles away from being able to look after his own family.
+
+Klein was moving again, toward Reinhard’s team.
+
+“Go! Move! Go!” Alden yelled, already running.
+
+“Snake!” screamed Everly. Watching Instructor Waker was her current assignment. Carrying Konstantin, who had one broken leg again, was Haoyu’s. Whenever Everly called out a warning, they all tried to act with coordination based on whatever the wind situation was.
+
+No wind now. Alden moved the shield aside for Lexi to intercept the flying blur with Writher and re-angled it to cover himself and the other three from any debris that might get tossed toward them.
+
+Don’t hit my shield with Writher. Don’t—
+
+Lexi didn’t. A piece of painted board—slowed and sliced by the whip but not entirely diverted—smashed into it instead.
+
+No problem. The board bounced off, and a moment later, Alden leaped over it easily, grateful for the self-mastery wordchain.
+
+They were all still running, and his head was moving as he took in the situation behind them. Now Klein was—
+
+“Stop!” Alden shouted.
+
+A flick of Klein’s eyes toward them as the man sprang away from his last victim, a smile so slight that Alden probably shouldn’t be thinking of it as threatening, and then Klein was going for Winston.
+
+Winston’s legs and his mouth were both getting enough exercise this class. Every time Alden heard him, he was complaining about his team being treated unfairly, and every time he saw him out on the floor, Winston was  running circles around his own teammates like a protective sheepdog.
+
+“Go! Go!”
+
+His tension was up because it was their team’s turn for a visit from Klein. It had been their team’s turn for a while. They were trying to avoid him by stopping every time he finished an attack on another group. As long as they weren’t moving forward when he glanced their way…
+
+“STOP!” Alden’s shoes squeaked against the floor.
+
+And now Mr. Zhang-Demir should be looking at them, too. Did he have to run through the rotation so fast?
+
+Alden watched Haoyu’s father glance at them and then at Max’s team, his eyes skimming over both, his smile wide. Max was excellent at monitoring the rotation and ordering stops of his own, so Mr. Zhang-Demir wouldn’t be running in his direction.
+
+And we’re only two stolen classmates away from being back on Mrs. Zhang-Demir’s to-do list, Alden thought. That meant he had to start watching her a little harder now, too. If the two groups that were next on her lineup were keeping track of the rotation, they might stop and get passed over. Alden still wasn’t sure if people other than him and Max were bothering to remember it all or not. Most of them seemed to have an idea of which team got picked off immediately before their own, but everyone was making a lot of mistakes, so it was hard to tell who was ignorant of the attack rotations from the adults and who just sucked at monitoring them.
+
+Alden’s team didn’t want to sacrifice anyone else, so that meant monitoring absolutely everything from this point on.
+
+“Go!”
+
+The wind was back. Alden barely noticed himself blocking it anymore. Watching Galecourse reposition had been his main job all class period, and it had finally gotten habitual.
+
+He even appreciated it when the wind started up now. His shield was amazing for it, and other teams were worse at coping with it. The difficult environment increased the likelihood that they’d screw up, which meant the rotation was less likely to have skips in it that he didn’t anticipate.
+
+“Stop!”
+
+“GO!”
+
+“Stop!”
+
+“Right! Right! Right!”
+
+According to his map, there was a trio of electric traps in their current section of the gym that had to be dodged. The good thing about the rightward run was that it didn’t count as forward progress for attack purposes. The bad thing was that it put them almost side-by-side with Max’s team, and while Alden liked all the members of that team, he also worried about accidentally running into one of Max’s zones. Or having one dropped in front of them on purpose.
+
+Student-on-student attacks had largely been accidental damage so far. Who had time to worry about everyone else when they were all struggling against bigger fish? Alden hadn’t even seen some teams make it to the midway point yet, at least not all together.
+
+Drama was mostly back at the starting line when people were resetting for another go at it, and it was mostly intrateam instead of interteam squabbles going on. But the possibility of direct attacks out here definitely existed.
+
+And now wouldn’t be a terrible time for one, if Max’s team wanted to try it. Teams at the three-quarter mark, which they were both at now, were always the front of the pack. With time getting tight, pushing this far felt more like a last chance. And if a person did think there would be some additional benefit for their team arriving first, then trimming your nearest competition out of the equation before a final blast for the finish wasn’t unreasonable.
+
+Alden wasn’t sure how Max’s team felt about that kind of thing. He and his own companions were taking the stance that it was hard enough to deal with the real enemies, and if there was some kind of first prize, it wouldn’t be worth attacking another team for it. They were drawing the line at not worrying about their own collateral damage…it was just too much and nobody else was stressing over it. So if an electric kettle bounced off of Haoyu’s fist and knocked someone on another team out, fine. But no aiming for them with it.
+
+They ended up freezing again right beside Max’s group. Alden was too busy monitoring all the others, two Zhang-Demirs, and one Klein to appreciate the fact that Jeffy was balancing on a single foot and Max was calmly looking around from his perch on top of Lucille’s back while the wind blew so hard his cheeks were getting flattened by it.
+
+“Hey, Finlay!” Kon called. “You should definitely go run at Omega Scorpii.  Both of them. Think of how cool it will look on the class footage!”
+
+“Not again, thanks,” said Finlay, while Astrid made faces at them all from her own piggyback position.
+
+“It would really help us out. Be a hero.”
+
+“I’ve been electrocuted three times, and punchin’ Haoyu’s mum is like introducin’ my hand to an iron bar.”
+
+“You punched my mom?”
+
+“You bit your da!”
+
+“I thought it would surprise him into dropping me!”
+
+“Go!” shouted Alden.
+
+At the same time, Max was yelling, “Run!”
+
+When both teams stopped a beat later, Max’s was out in front. Max being carried by Lucille and Astrid on Finlay’s back meant their slowest member was Jeffy on one foot with a sandbag. And Jeffy was unexpectedly good on one foot.
+
+“He is driven by pure enthusiasm, isn’t he?” Lexi muttered.
+
+“Am I being too slow?” Everly asked. “I’m tired, but—“
+
+“No, you’re fine,” said Alden. “I’m the one setting the pace and I wasn’t holding back because of you. I just can’t see what’s going on everywhere and run my fastest now that I’m trying to keep track of all three of them. Should I be less cautious? If we really pushed on the next run—”
+
+“We’re fine,” said Kon. “Look at that beautiful broken bicycle Instructor Waker’s going to throw at us next! That’s all we need to claim our first place. Lexi will stop it. You’ll all hold onto it, and I’ll save—”
+
+“No,” Lexi, Everly, and Haoyu said at the same time.
+
+“Go!” Alden called.
+
+[Alden:  Did I miss hearing about a bicycle plan?]
+
+“Yes!” said Kon
+
+“No,” said Lexi. “Just keep running.”
+
+Alden almost didn’t see Mr. Zhang-Demir’s turning face in time. “Stop! Stop!”
+
+Everly smacked into his back. Mr. Zhang-Demir scooped up a flailing Mehdi instead. Alden was about to call for another mini sprint, but too many teams were stopped. And now Klein was glancing their way unexpectedly.
+
+Kon was still talking. “All I need is something Big Snake threw in the last five minutes that’s big enough for the rest of you to hold on—”
+
+“Go! No! Stop. Sorry.”
+
+Everly bumped into him again.
+
+“I can help call out for one of the Zhang-Demirs if you want,” said Lexi.
+
+“You’re on shrapnel duty,” Alden replied.
+
+“I can do it,” said Haoyu. “Since I’m actually with you all for a change instead of running back from the start.”
+
+Kon was supposed to be helping watch for the flashes of light that indicated another shock trap going down from Mrs. Sethi, since Alden couldn’t catch all of them. He looked ahead to where Max’s group had managed a run forward that was only about three steps long before freezing. At least it’s not just me who’s having trouble finding an opening.
+
+It was getting overwhelming now that they were in this position.
+
+[Alden:  We don’t want to sacrifice Haoyu again do we?]
+
+“What if we can’t get him back fast enough this time?” Everly asked. “It’s a long run…”
+
+“Sacrifice me,” Kon said. “Just give me rope or our biggest sandbag first. I’ll have it drag me back, and then nobody will say I’m the most useless S.”
+
+“What are you talking ab—”
+
+Alden’s heart rate spiked even before he fully understood the problem that might be about to land on them. It was a visual wrongness that tipped him off. There were eight teams. Sometimes a couple of whole teams would be out of play back at the starting line, but there were always multiple people moving forward.
+
+Suddenly, the situation on the expansive white floor looked different than it had for nearly two hours. Only two teams taking steps toward the finish…
+
+Marsha and Jupiter were attacking Instructor Klein together now. Despite Marsha occasionally shouting something like, “This one’s mine!,” or “Don’t help this time!” Jupiter seemed immune to requests of that nature. She’d gotten her magical mitts on a huge tree stump, and it was careening around her team, on a path to intercept the instructor.
+
+Mrs. Zhang-Demir was running back to the start with a ferocious Heloísa in her grip. And Mr. Zhang-Demir was pouncing on Rebecca, who’d managed to get three whole boingy jumps in before he caught her this time.
+
+When that’s over, it should be…but nobody else is moving forward.
+
+People were regrouping at the starting line. They were standing still with teammates.
+
+Max was ahead, not moving.
+
+Alden saw it all in a blink. He realized what it might mean just a little slower.
+
+What happens to the rules if everyone stops going forward? Do the attacks just stop coming? Or do the adults go for the group that’s overdue?
+
+We’re the group that’s overdue for all three of them.
+
+This was the price for being observant and winning at the stop-and-go strategy game…increasing difficulty.
+
+He didn’t know whether to shout, “Go!” or “Don’t move a muscle!”
+
+The whole class freezing doesn’t work. If everyone is stopped, nobody will ever make the first move. The attackers must have anticipated the possibility, so that means—
+
+“Go! Go! Go for the finish line!” he said. “Don’t stop. They’re coming.”
+
+If his team was confused, they didn’t ask questions.
+
+“Snake!” shouted Everly. The wind was blowing. Alden just plowed ahead and hoped Lexi figured out how to deal with a bicycle missile on his own.
+
+Max, Finlay, Astrid, Lucille, and Jeffy were running flat out, too, now.
+
+Dammit, thought Alden. Did he arrange this on purpose?
+
+Max’s team was owed a series of brutal attacks, too. Both Zhang-Demirs and a Klein. But they weren’t next on the list. Alden’s team was next. Which means as long as we’re running forward, they can safely run forward.
+
+The roar of the wind in his ears, a leap over the remains of a desk Big Snake must have thrown at someone earlier, a motion in his peripheral that had to be Klein’s approach…
+
+We were almost there.
+
+And then he was trying to dodge, hopelessly, as Klein hit him like a battering ram. A clarifyingly sharp pain in his thigh was accompanied by a couple of negligible ones as he fell on top of his own shield with a grunt.
+
+The wind he’d been keeping off of them hit hard as he lost preservation, but it hardly mattered. This run was unrecoverable.
+
+Kon was on the floor, holding onto him and Everly and yelling something. Lexi and Haoyu were both off the floor, in the arms of Haolyu’s parents on their way back to the start.
+
+Alden wanted to curse a little. A lot. The constant back and forth. All class. So close this time. It was our best run. I don’t actually think I can do better than I just did at the paying attention part.
+
+Crap, crap, crap. This is bullshit.
+
+His brain felt like floor potatoes.
+
+He wanted the sauna. And a bed somewhere. And he was still pretending this was training for bokabv demons, so the loss hurt a little extra.
+
+“All right,” he said. “Sorry about that, guys.”
+
+[Alden:  Sorry, guys. I didn’t think about what might happen if there wasn’t another group trying to move forward at all. I think they would have had to attack us anyway in that situation, so I called for the run hoping we could make it. I’ll keep that in mind next run. We’ve still got time to do this! :) ]
+
+That smiley face looks pissed off. Why is there a pissed off smiley?
+
+“You’re so upbeat, Alden,” Everly said tiredly.
+
+The wind had just quit again. He let his head flop over to the side so that he could see her face. They were both lying on the floor. Kon had let go of their legs, and he was sitting up with a sigh.
+
+Everly’s silver braid was draped over the high neck of her gym suit. Her face was sweaty. Her glitter eye makeup had smeared sideways on one eye. “Honestly,” she said. “I’m going to keep at it, but I’m not in a nice mood anymore.”
+
+“Oh,” said Alden. The floor felt pretty good against his face. “I’m faking it. I’m actually tired as shit and having unkind thoughts about our teachers.”
+
+“I’m bright-eyed and happy as a Ground Shaper in mud,” said Kon. “I could eat a Brute for breakfast. Duper Supers and by my powers, I am amazing!”
+
+Everly snorted.
+
+“Galecourse is almost finished with her lap of the gym,” said Kon. “And you’re napping on our shield.” He slapped the bottom of Alden’s sneaker on the leg that was now officially broken and subject to movement restriction. “Stop lying around. Rabbits are supposed to be all bouncy.”
+
+“I’m getting up. I’m getting up.”
+
+Alden picked himself and his shield up in time to meet the gust.
+
+“All right!” Kon said brightly. “Now we’ll grab those pieces of bicycle Writher made for us and go back to collect our people. We’ve got four functional legs to get there on!”
+
+“Four is plenty for three people,” Alden said.
+
+“Wanting more would be selfish of us,” Kon agreed.
+
+******
+
+Alden couldn’t figure out how the team ahead of them had failed to win, but shortly after he and Kon staggered over the starting line and got their legs unstiffened, Max’s group was right behind them. Lucille was now carrying Finlay and Astrid, who were both either dead or unconscious judging by their total immobility.
+
+“What happened?” Alden asked.
+
+Max glared at him.
+
+“I was just making conversation.”
+
+The Adjuster grimaced and rubbed a hand over his eyes. “I apologize. I’m…mentally drained and very disappointed in myself for missing something obvious. I’m going to get my water bottle.”
+
+Alden watched him go, then looked curiously at Astrid.
+
+“We’re telling you nothing!” she said brightly.
+
+“Well, there’s a bold red line on the floor at the far end of the gym now,” said Lexi. “So I’m guessing there’s a surprise right before we get to the finish line.”
+
+“Yes, but you don’t know what the surprise is,” said Astrid.
+
+“It kills you. Like most gym surprises. So fun!” said Konstantin. “I can still make this work.”
+
+He was waving two pieces of bicycle around like a madman.
+
+“Let’s do it. Let’s go. My turn!”
+
+Alden stared at him. “I feel like I’ve missed something you want to do. What’s the plan with the bicycle?”
+
+Kon beckoned him closer like he was going to whisper a secret, then spoke in a normal volume:  “I can use my skill on the bicycle to envision it back in Big Snake’s ammo collection, then I use my spell on it. We all hold onto part of it and fly across the gym faster than we could run. Right to the finish line.”
+
+Alden studied the bicycle. It was one of the rental ones available all over Anesidora that he’d used so often while he was in intake. Red, a frame that had probably been warped before Big Snake even threw it, now in two pieces thanks to Writher…
+
+“That doesn’t look like an airplane. I do understand what you’re saying, but aren’t there some serious problem with this idea?”
+
+“No! It’ll work.”
+
+Did he get the hang of moving stuff with his powers when I was absent on Monday? Alden wondered.
+
+From the last he’d seen of Kon’s private practices in the gym, the Adjuster had been great at making whatever he was casting on relocate, but the speed of the relocation ranged from pretty fast to nearly instantaneous. And what happened if the bicycle tried to repair itself while it dragged them across the gym?
+
+Alden wasn’t sure whether he should be picturing a trip toward Instructor Waker that was like an amusement park ride with no seatbelts or some kind of horror show where his arms got yanked out of their sockets, and a bicycle brake cable pierced through him on its way to reconnect itself.
+
+“I want to make sure everyone gets to try whatever they want to…”
+
+“Kon flipped a one-ton weight on top of himself on Monday,” Lexi said.
+
+“The bicycle might just drag us across the floor into a trap. Or rip itself out of our hands as soon as he starts to cast,” said Haoyu. “I guess we could tie ourselves to it, but I’d rather not bet on it until we have to.”
+
+Kon looked at Everly.
+
+She smiled at him and her shoulders drew up toward her ears. “Kon…have you figured out how to control the speed yet?”
+
+He gasped. “Alden, do you see this? ! My brother, my girlfriend, and my dear friend of many years have no faith in me. But you believe, right?”
+
+He had such an expectant look on his face. If he’d still been missing his front teeth, Alden might have had to agree to try out his scheme on the spot.
+
+“Can we save that until after the next run when we’re a little more desperate?” he asked.
+
+Kon groaned.
+
+“Just one more run,” Alden said apologetically. “Maybe we can use your spell as a surprise move at the end?”
+
+Kon groaned even louder.
+
+“All right,” said Everly, “let’s—”
+
+“Let’s kill instructor Klein,” said a voice from behind them.
+
+Alden turned to see Max tapping a finger against the side of his water bottle while he watched what was happening on the floor.
+
+“If there’s one less enemy, I think we can reach the end.”
+
+******
+
+******
+
+“Olive is doing fine. By the time she graduates from the program, she should have the talents she needs to make her illusions realistic enough to trick some of us, as well as most dangerous Avowed she might encounter during the course of her career. For now, she can’t mimic scent. The sounds her illusions make tend to be slightly off. Those combined with other beginner insufficiencies should make it very easy for you all to tell which one is real.”
+
+Torsten rubbed at the back of his neck. “I think it’s fair, as her instructor, to occasionally take her bait when she creates particularly exceptional illusions. I’m sending you all examples of her best work in class so far. When she matches or exceeds it, rewarding that with a false error on your part is an option.”
+
+“There’s no replacement for the instant feedback a class like this provides,” Aparna said approvingly. “Helping them notice their own successes is as important as showing them how far they still have left to go.”
+
+Torsten brought up the next wanted poster. In it, a tall, dark-skinned boy was holding his arms out to conspicuously cast a spell; his brown eyes were focused on a point in front of him while an athletic brunette girl with an eager smile on her face leaped toward him from the side. She slowed as if caught suddenly in a pool of water, her feet off the floor as she drifted.
+
+“This is Max,” said Torsten. “He’s very good at persuading his classmates to run headlong into his zones, as you can see with Heloísa here.”
+
+“I like him” Aparna said at once. What’s he doing here at Celena North? Send him to me at Naya Din.”
+
+“I thought you might approve of an Adjuster with trapping spells up his sleeves. Max is exceptionally driven and intelligent. His spell impressions have been well chosen for providing him with utility while inconveniencing his enemies. Frankly, at his age and with his mindset, we might have been fast-tracking him through to uni if he were an S…as it is, facing some of his less mature classmates and accepting their strengths and advantages over him may be what he needs at this point in his life.”
+
+“The rank gap is too wide for some B’s.” Melanie Carrison looked up from the personal notes she’d been taking on each student. “We had significant percentages drop out when I was a student here.”
+
+“Drop-outs aren’t much of an issue these days among the B’s. We accept so few now. The ones who make it through are up to the challenge of classes full of more powerful competition. Usually.”
+
+“I’m a few years younger than you, Melanie, so it must have been different,” said Hale, “but I remember the B’s in my classes being unusually ambitious and creative. They often outperformed higher ranked students, and most of them have become quite successful in whatever jobs they’ve found. Though they’re not as famous for their work as they should be.”
+
+“People find solid performers who do their jobs without stunning successes or failures unworthy of attention,” said Klein. “Regardless of rank. It’s a shame that everyday effort and competence don’t get the appreciation they deserve in the current environment. That’s something I hope we prepare these young people for as well.”
+
+Behind him, Heloísa had escaped from the first trap only to be caught on an invisible treadmill.
+
+Torsten said, “Max took criticism he was given during his first application attempt seriously—too seriously, to be honest—and came back to us looking like a very different candidate six months later. That’s the kind of bold decision-making and stubbornness I look forward to watching develop into something special.”
+
+******
+
+******
+
+“Let’s kill him,” Max repeated. “We’ll need at least eight people—one member of each team—so that nobody worries about another team stealing first while the rest of us are distracted. They kill Klein while everyone else draws the attention of Omega Scorpii Zhang, Omega Scorpii Demir, and Instructor Waker. When Klein’s down, even if he doesn’t stay down, his own personal restrictions mean…you know about his restriction.”
+
+He was looking at Alden.
+
+“Yes.”
+
+[Alden: He means if a member of every team attacks Klein, then even if he has the option of coming back here to have his suit unfrozen like the rest of us, his own rules should make him leave us alone for a minute or two.]
+
+The reward for a successful attack was a reprieve from the instructor’s own attacks. Surely him dying was successful enough for everyone involved to get credit.
+
+Max nodded. “So we drop him, and then it’s every team for themselves as we make a break for the finish.”
+
+******

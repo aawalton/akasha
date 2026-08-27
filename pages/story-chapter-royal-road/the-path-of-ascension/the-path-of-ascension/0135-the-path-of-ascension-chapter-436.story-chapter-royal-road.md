@@ -1,0 +1,301 @@
+---
+id: 823ea8bc-2600-5466-b2e8-8aa65911a24e
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 436"
+slug: 0135-the-path-of-ascension-chapter-436
+partOf: the-path-of-ascension
+position: 135
+ownLength: 4838
+unit: words
+ownProgress: 4838
+publishedAt: 2025-08-18
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2528773/the-path-of-ascension-chapter-436"
+royalRoadId: "2528773"
+markedReadAt: "2026-06-29T19:34:03.614Z"
+---
+
+Chapter 436
+
+Their pilot immediately pushed the Unsparing’s shields to their maximum the moment the enemy ship started charging its cannons, getting ready for a fight. Matt was also ready to cast his own shield in case their enemies were as clever as they thought they were.
+
+The moment the ship revealed itself, it started giving off the signals of a Corporations vessel. Such codes were fairly easy to change and many teams would change not only their virtual identity’s Great Power of origin but personal identities. That step more often than not required a change to the ship itself, as visual identifiers such as shape or engine types were also used whenever possible. But any Tier 15 explorers who wanted to do that were capable enough they could dip into a passing node and exit as an entirely new ship given a few uninterrupted weeks.
+
+So long as they returned their virtual identity back to their original one before they reentered settled space, there wasn’t really any danger in doing so.
+
+The Unsparing was in fact doing exactly that, which was probably why they had been attacked.
+
+There was no way anyone would actually attack them if they broadcasted there were two Ascender teams running around together or if this was Lila’s old ship.
+
+Sadly, the fish didn’t take the bait and the moment they saw their attack splash upon their fully powered shields, the other ship turned and fled deeper into chaotic space.
+
+Allie slapped the table in front of her. “What cowards!”
+
+Rah instead pointed at the Tier 12 world which the rest of the crew had never taken their eyes off. “That they may be, but we have the spoils.”
+
+Wanting to inspect their prize, Matt and the others immediately moved to the nearest hatch and got ready to exit the ship the moment they entered real space, along with the harvesting crew members, who had their storage containers prepared and waiting.
+
+Having had the thought, Matt instead opened the door and canceled the ship’s tearing into real space.
+
+The phoenix Liz on his shoulder squawked at him quietly in question, but Matt understood it all the same.
+
+“We might need to fight in this level of chaotic space. Might as well dip our feet into the pool where we have both the ship and a world to escape into should we need them.”
+
+Allie slipped by him, flying out to the edge of the mana shields which were semi-opaque from the constant beating they were taking.
+
+Even outside the ship, Matt’s spiritual perception was limited to a degree that felt suffocating.
+
+Not letting that bother him, he stepped forward next to the others who had followed Allie out of the ship.
+
+Their tests weren’t that involved; they were in fact as simple as sticking their hands through the shielding and coming in direct contact with chaotic space.
+
+Almost uniformly, their flesh slowly started to mottle and wither but most of them were strong enough to survive even direct exposure to the first layer of chaotic space for a few minutes with just their physical bodies.
+
+If they needed to fight, things would change, but the first layer near a planet wasn’t that dangerous.
+
+Pretty much any magical armor they had access to was enough to let them fight unimpeded until they ran low of mana.
+
+Once they were all finished with their testing, they moved to the world that was right nearby.
+
+It was only Tier 12, so none of them were expecting much but they were pleasantly surprised when they inspected the world.
+
+There wasn’t a beacon.
+
+They were the first explorers to find this world in the last few million years, and possibly the first ever.
+
+That got the rest of the crew to exit the ship as well, in anticipation of it being a record haul.
+
+Still, despite their excitement, none of the crew moved, waiting on one of them to give the go ahead.
+
+Instead, Zack signaled one of the maintenance people to set up the real space beacon. It wasn’t anything complicated, the beacons were run off tiny amounts of mana and they were normally placed in a safe orbit around the central planet; or inside the nearest moon if there was too much debris or some other hazard that prevented a free orbit.
+
+Made out of the simplest of Tier 3 materials, the beacons were practically disposable. However, what they lacked in raw durability, they made up for in efficiency and longevity.
+
+A beacon could harvest ambient mana to not only run itself but make minor repairs, should they be needed. It wasn’t enough to fix any major damage but it ensured the beacon's hull could survive low level impacts from small asteroid impacts that might sweep through a system.
+
+When left behind, the beacon could passively record mana fluctuations, which would give a rudimentary history of the world it orbited with its records . It wasn’t a dedicated scanner but, upon finding an older beacon, a lot could be learned about the world from previous records.
+
+This world being Tier 12 meant they couldn’t just let the beacon orbit the highest-Tier planet, the one that originated life in the star system, or it would be destroyed in a matter of years. Instead, they shoved the beacon a half mile into the smaller and closest of the moons that orbited the planet.
+
+That would protect its lower-Tier materials from harm but ruin most of secondary sensory data it could provide. Still, that was a small price to pay to not have to bring out more valuable beacons for every Tier of world.
+
+Looking out from where they arrived, Matt was more interested in the world itself rather than its two barren moons. Both were littered with the bones of rift breaks but the few ruins he found hadn't been able to terraform the moons on their own, leaving the non-immortal creatures to suffocate or get blasted by the local star's radiation until they inevitably mutated and died.
+
+The planet, however, was damn near picture perfect.
+
+It was a perfect distance away from its local star, had a near perfect twenty five hour day-night cycle, and was only a few percent off of the air percentages the Great Powers considered standard. There weren’t even any horrific insect swarms or ravenous monsters beyond the typical rift creatures in the world.
+
+Even the plants and wildlife wouldn’t find themselves too out of place in any Empire region. Meaning the world didn’t need to be sterilized before it was inhabited, which was sometimes a necessity.
+
+It was without a doubt a world that would have been settled the moment it even got close to the core layer where the Great Power’s lived, even if they needed to daisy chain several other nodes to reach it.
+
+Flying down to the planet, the six of them, sans Allie who had already teleported ahead, swept their spiritual perception across the world, looking for interesting or unique sites.
+
+They found several and immediately set out, as the resource gatherers went to work.
+
+Matt and Aster both found a ruin buried in a snow drift that had icicles which were pulsating with a soft blue energy.
+
+They weren’t Natural Treasures, they were too simple for that, they instead felt more like an herb, something to grow and then use in a later production like alchemy, or possibly enchanting.
+
+Aster leaned in and sniffed the icicle, her ears wiggling. “Oh, these have an innate slowing ability. I bet these would make some fantastic wands. If they were a higher Tier, I’d be tempted to try and incorporate them. Actually. Allie! Come here.”
+
+Aster's final shout had the teleporter appear even as she was snacking on a vine of purple fruit that were the size of large grapes. Said fruit were also a Natural Treasure.
+
+Allie proffered one of the fruits to Aster and Matt. “Want some? They are really tasty. Oh, look at that. What’s it do?”
+
+“I want you to go and put this at the center of my Talent space. I wanna see if I can grow some of these, and that's the best environment I can think of for it.”
+
+Allie looked at the icicle before swapping it with the grapes.
+
+Matt snagged a grape and popped it into his mouth. It was a waste of a Natural Treasure but Matt assumed Allie already analyzed it and deemed it a better snack than something worth bringing all the way back to the Empire.
+
+More likely the crew had done the analyzing part, but the damage was done, so he might as well have a taste.
+
+The initial flavor was incredibly sour but once that passed, there was a subtle taste that was delicious. It was almost a citrus flavor, but it wasn’t.
+
+As Matt expected, the effect was minor, an enhancement to his teeth of all things.
+
+It still felt more than a little wasteful to eat the treasure but he could already sense the power draining from the severed vine.
+
+A moment later Allie returned and grabbed her snack back, looking with dismay at the few remaining fruits.
+
+From there, the three of them looked deeper into the ruin but, beyond the icicles, it wasn’t that interesting. A fairly standard snow-based rift had inverted and created a pocket region of deep snow and ice elementals.
+
+They didn’t destroy the ruin in case another lower-Tier team might eventually find this ruin, which was why they also left half of the icicles in case they could regrow after Aster’s harvesting.
+
+From there, the three of them joined Rah, Susanne and a crew member, who were all looking at a tree deep in a lake filled with silt. If Matt wasn’t wrong, the tree had simply been in the wrong place at the wrong time when a nearby river broke its bank and filled the small valley it was in.
+
+Instead of being choked out by the lack of light or numerous algae like its brethren, the tree had instead evolved into a Natural Treasure which thrived in its new conditions.
+
+Rah gestured down at the roots. “Do we just uproot it and shove it into one of the storage boxes? I’ve never seen a Natural Treasure this large.”
+
+The crew member immediately turned pale at the idea.
+
+Matt inspected the tree and offered his own idea before they could figure out what they wanted to say. “Maybe we can throw it into Liz’s terrarium?”
+
+As if summoned by the mention of her name, Liz appeared next to them; the water kept off her skin with an effort of will, unlike the rest of them, who weren’t bothered.
+
+“I think it's a good idea if it works but if it doesn't, we are going to ruin the tree. What are the effects?”
+
+Matt had no idea, having not been able to identify the effect through the tree's complex nature but neither did anyone else, including the harvesters; both the one with them and the others also exploring the planet.
+
+Zack tentatively identified the leaves of the tree having an energy absorption effect from the surroundings, which would probably be passed onto anyone who absorbed a leaf, an assessment Matt agreed with. They had no idea what its bark, wood, or roots did beyond them all having something to do with water.
+
+Them being more than ten Tiers higher than the tree meant that, while they could use the treasure, the resulting power difference meant they would get little to no appreciable effect, making the easiest method of identification incredibly wasteful. A lot of Natural Treasures like Allie’s grapes would lose their efficacy if picked, harvested the wrong way, or could only be used by one person.
+
+Given that it was a tree and the leaves also felt like Natural Treasures, there was a better-than-even chance the tree wasn’t any of those types. But none of them wanted to risk it when the value could be much higher if they brought the item back to the Empire.
+
+Finally, after some testing, the resource harvesters decided to use one of the environment boxes to grab the entire lake.
+
+Having learned his lesson the hard way and taken a course on the subject, Matt even managed to help rebuild the lake, including carefully transplanted wildlife while also ensuring he didn’t create an ecological collapse with his efforts. The more experienced harvesters did most of the detailed work but it wasn't right to leave a massive crater in the world where something special once was, simply because they wanted to take the valuable thing back.
+
+Not all teams followed that principal but Matt was happy to see the various teams defaulting to such actions where they could.
+
+From there, everyone grabbed every Natural Treasures or pseudo Natural Treasures they could find.
+
+And there were a lot.
+
+One hundred and thirty identified and known Natural Treasures of varying value, with another fifteen which were entirely unique or weren’t in any of their or the ship’s lists of known Natural Treasures.
+
+More than that, there were thousands of valuable herbs or resources which they were able to sustainably harvest in the off chance some other explorer eventually found the world some years later.
+
+They all knew it was more likely that another team would come back and grab everything they had left behind, but there was nothing they could do about that.
+
+Finally, just as the last of the cargo was being stored, Matt had an idea. “Can you guys help me run through all of the local rifts? I want to see if there is anything interesting. Layouts and creatures. We won’t be able to test the rift rewards.”
+
+To his surprise, Susanne immediately agreed, which prompted everyone else into quickly entering and scanning a few hundred rifts. All of them moving at Tier 28 speeds, they quickly found that none of the rifts were interesting enough for Matt to delay them further.
+
+If they had needed to recharge their mana batteries off the ambient mana or if Allie wanted to put down a waypoint, Matt might have poked around. But they didn’t need to waste such time and instead they left knowing there were more valuable things waiting for them deeper.
+
+Matt didn’t miss several crew members mentioning the mana batteries when they said it was time to leave. Officially, everyone had been chipping in with Matt using his Domain to refill their mana pools, which meant the battery had enough left thatthey could safely spend another decade in chaotic space without refueling. But most teams always refilled their mana reserves before setting off again just in case the worst happened and they struggled to find another world.
+
+It was unlikely that would happen normally, let alone during any breach, but it put the crew on edge not knowing Matt could keep the ship running if it came down to that.
+
+Sadly, Rah was caught up in that lie, going as far to make sure Matt’s Willpower reserves were okay for an extended voyage. Matt loudly played up his final Minkalla floor, reminding people that his Concept was functionally free and stronger on himself so they didn’t need to worry.
+
+He even went as far as to remind Rah, or rather the crew, that he was hardly spending his mana, so he’d take a few more shifts doing a more efficient transfer to get them back to full reserves.
+
+That settled, the moment they got back in chaotic space, they resumed their journey pushing ever deeper trying to intercept the breach. They passed by a few more worlds but all but two were recently explored, so they didn’t bother to look deeper at the worlds.
+
+It took a total of almost thirty years of constant full-powered travel from Minkalla, but when they found the tidal breach, it was obvious. Almost a quarter of the way in, what should have been the first layer chaotic space had started to get more and more dangerous. The average ambient levels of the energy increased, as well as the speed and duration of the winds.
+
+At first, it almost felt like they were heading into a stormfront, but it was too dispersed and wide for that to be the case. The crew reported it being similar to a calmer area of the second layer.
+
+Still, any ship solely built for first layer travel would find itself in serious danger if it tried to head in deeper.
+
+Their ship, being Lila’s personal vessel, was a top of the line Tier 30 ship that she often used to explore the second layer of chaotic space, which meant they had no issues plowing ahead.
+
+They did stop to once again repeat their tests of how damaging chaotic space was, wanting to get used to the new danger level.
+
+Pressing his right hand through the barrier, Matt didn’t activate any of his buffs or shield spells. He didn’t even flood his body with mana, instead letting the chaotic space energies eat at his flesh directly. He even went so far as to not cast [Regeneration] to get a better baseline.
+
+The moment his hand breached the mana shield, the outer layer of skin was torn away as the acid-like chaotic space energies washed over his hand. In slightly less than a minute, the muscles were stripped away and his bones didn’t last much longer.
+
+After he felt that he had analyzed the second layer of chaotic space and its stronger destructive power long enough, Matt actuvated [Regeneration] and increased its throughput until his healing rate just eclipsed the damage being done.
+
+He was intrigued as he felt the wound slowly losing ground and rebuilding his hand.
+
+It was agonizing as his raw nerves were regrown, obliterated by the swirling chaotic space, and regrown again, but Matt didn’t increase the mana per second he was sending into [Regeneration].
+
+Instead he analyzed every moment of his body's regrowth, hoping he could find some way to counter the corrosive energy.
+
+He wasn’t successful. As far as he could tell, chaotic space really was just dangerous high energy, so when his hand was fully regrown, he cast [Archmage’s Presence] letting the body-boosting effect wash through him. It reinforced his body and made it stronger, strong enough his flesh became more resilient to the damage.
+
+His body was once more under attack and sadly losing, but it was a much slower destruction than the last time.
+
+The second layer of chaotic space was dangerous but, even with just [Archmage’s Presence], Matt was confident he could survive a few minutes if he was truly exposed.
+
+He still wouldn’t want any of his physical armor to get hit with such destructive powers, but Matt wasn’t solely reliant on physical armor like most were.
+
+[Cracked Phantom Armor]’s first layer covered him with a light blue layer of mana that looked as simple as could be, with no definition or substance.
+
+Matt frowned as he felt the mana drain needed to sustain the spell.
+
+His trusty armor had almost no resistance to chaotic space. He had been hoping its upgrade, which let it better defend against mana types it encountered, would apply to chaotic space but it didn't. That made blocking the chaotic space energy almost as draining as being hit by an area-of-effect void spell.
+
+Except instead of a spell, the energies washed continuously against his armor.
+
+After some calculations, Matt activated [Cracked Phantom Armor]’s second layer at half power, which finally put him above the threshold for the energies of chaotic space.
+
+It would be unsustainable in an actual fight, but it did hold out in this relatively calm area of chaotic space.
+
+Taken in and of itself, that was awful compared to the hits he normally took, but the fact Matt could theoretically travel though the second layer of chaotic space all on his own was a step above everyone. Even higher Tiers who had shield spells strong enough to protect themselves would eventually run out of mana trying to cross the impossibly vast distances between worlds in chaotic space, where Matt wouldn’t.
+
+That didn’t mean it was safe for Matt, but whereas it was a death sentence for normal people, it was slightly less than that for him. One bad storm where the energies raged even further and Matt would be relying on [Regeneration] to heal him through the damage that inevitably leaked through.
+
+None of the others figured out some way to bypass the corrosive energies but they all found a way to survive a brief minute or two of exposure to the second layer of chaotic space.
+
+Matt, Zack, and Rah all tried to do some experiments in or about chaotic space but, like so many before, they just found the energies corrosive and impossible to directly manipulate.
+
+Even [Telekinesis] could only shove the energies, with the force of the spell itself being eroded away by chaotic space.
+
+As they reached the edge of the breach, they finally encountered their second explorer.
+
+Its broadcast said it was a Tier 35 vessel from the Monster Collective but the ship was made out of Tier 25 materials. Their ship's scanners also couldn’t identify anyone over Tier 25 in the ship, meaning they were probably lying about their identity to seem scarier than they were. Their scanners could be wrong or a higher Tier could be deliberately hiding themselves and not giving off any fluctuations but that was unlikely.
+
+Appearing weak to bait attackers was a tactic but one Lila had told them failed more often than not and so wasn’t worth bothering with.
+
+As they were discussing what to do, they were hailed by the other ship. “Are you here for the exploration of the Rasdale breach?”
+
+Allie rolled her eyes as she replied, “No, we’re out here for our health. Obviously.”
+
+Matt expected a quick sharp rebuttal but instead they were left buffeted by the winds for almost five minutes.
+
+The voice was far more stern when they answered back. “Then vacate the area immediately. The Collective has proclaimed dominion over this region of the breach and will not tolerate interlopers.”
+
+While such things did happen, Great Powers did try to lay claim to anything they could, their ability to enforce their proclamation was another matter and would remain so for another few years until their main fleets arrived.
+
+They had beaten the rush but they were fighting against the current of the breach itself for most of their trip, which had cost them some time, versus someone who had left at the optimal angle to intercept the closest point. According to Gideon’s initial estimates, they had another five to ten years before the first wave arrived and started hitting these outer worlds but that would be a matter for the future, not now.
+
+Aster scoffed at the other ship. “Originally, we just wanted to check in and get any possible news updates but how about we kick your asses, take everything from the planets, then leave. All before your people arrive. How does that sound?”
+
+A Tier 30’s energy fluctuations swept over them, confirming they did in fact have someone of that caliber but they weren't able to bypass their shields and defensive layers, whereas their scan gave away far too much.
+
+If they only had a single Tier 30, they were no match for their group.
+
+Thankfully, it didn’t come to that or revealing their identities. While that wouldn’t have been the end of the world, letting a Great Power’s scout ship know exactly where they were was dumb.
+
+A moment later, another voice responded. “We’ve been out here for thirty two years. We were part of the first wave of scouts. We have less information than you do and even if we did we wouldn’t share it with you. Now leave our area or be repelled.”
+
+At the same time, the ship activated its shields to their full power, prompting their ship to automatically copy the move.
+
+Considering the other ship hadn’t outright attacked them, Matt didn’t mind when Aster continued in a calmer voice.
+
+“Give us your telemetry and energy readings for a snapshot of things before we left and we can call it a deal with us leaving this region of space to go deeper. We left when the Tier 50s were meeting in Minkalla, so we have the freshest news possible. Take it or leave it, but we are going deeper either way.”
+
+Matt leaned over to Liz. “Wanna bet they try to claim the entire portion of the breach all the way through?”
+
+Liz shook her head, not taking her eyes off the ship's screens, “Suckers bet. No way. This dude clearly has a stick up his ass if he thinks his Great Power can just claim large swaths of the breach. Given that, he's probably young and arrogant. No way I take that bet.”
+
+They were both proven wrong when a few seconds later they heard the man agree to Aster's request.
+
+As it turned out, the data they got was worth every iota of frustration from talking with the Monster Collective ship captain. The ship had not only been sitting out next to the world's node where it was relatively safer, they were in communication with another ship a few hundred thousand miles to the side of the breach. There had been a third ship, but it hadn’t reported in for its last three checks and was considered lost until reinforcements could arrive and look for them.
+
+That meant the collective ship had fairly solid data on the surrounding areas and had already tentatively mapped out three other worlds’ possible locations.
+
+The nodes that moved through chaotic space were like rocks in a river. They were an obstacle and impacting them changed the surrounding energies which let the ships AI guess at what was out there.
+
+More often than not, short timeframe analysis was fraught with noise from the turbulence of chaotic energy itself but, given a long enough timeframe, a sufficiently capable ship could get pretty good estimates on what was around them.
+
+The ship they had met up with had three worlds fairly well triangulated and another four more they weren’t sure of quite yet.
+
+Best of all, they had the prospective Tiers of the worlds extrapolated from the energy patterns.
+
+Two of the worlds were lower than Tier 5 and the third was suspected to be at least Tier 10. But the real prize was in one of the worlds they had just started to sense a few months ago. If the readings were correct, the world was at least Tier 20.
+
+After double checking the data wasn’t altered in any way and making sure their own sensors were identifying the same eddies that might indicate a higher-Tier world nearby, they shot off in the direction indicated.
+
+Having gotten the information from a Monster Collective ship, they weren’t at all surprised when they arrived to find two Tier 25 Monster Collective ships fighting off a single Tier 30 Federation ship.
+
+All of the ships had a single Tier 30 on board but with their ship’s material advantage, the Federation explorers were far more aggressive trying to get close enough to the node to enter real space.
+
+The moment they arrived, both sides separated, creating a triangle around the Tier 21 world slowly drifting through chaotic space.
+
+The Federation ship sent them a message a moment before the two Collective ships did the same. “This is Halvetic’s Exploration vessel operated by the man himself. I’m a seasoned explorer and with a dozen breaches under my hull. What do you say about the two of us team up and drive the other idiots away, then split the earnings of this world fifty-fifty. How does that sound?”
+
+Matt didn’t trust the man at all. It wasn’t only that he was a long time Feddy but there was something about his tone that gave him the impression the man was lying about something. Possibly the lie was as simple as his identity but more likely than not, he hoped to try and recruit them to do the hard work of securing the victory just to stab them in the back.
+
+That much would be obvious to anyone, but if their combined strength wasn’t enough to beat out the two Collective ships, they might have been tempted anyway.
+
+Matt personally hoped it wouldn’t devolve to that and listened to the Collective’s message. “Gladstone's Exploration Packs, third and fourth Claws responding to the Empire ship. This isn’t a fight you want. Push deeper, or don’t blame us for fighting back. This is our find, and we aren't giving it up.”
+
+They had expected to get into a fight sooner or later, and it was well within their power to beat back both teams. This time however it wouldn't be so easy for their enemies to run.

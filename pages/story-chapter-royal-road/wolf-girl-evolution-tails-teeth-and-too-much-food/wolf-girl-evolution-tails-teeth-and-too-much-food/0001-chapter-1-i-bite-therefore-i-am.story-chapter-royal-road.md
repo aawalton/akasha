@@ -1,0 +1,225 @@
+---
+id: 384b6e10-11fe-5d14-af57-877768c58763
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1: I Bite, Therefore I Am"
+slug: 0001-chapter-1-i-bite-therefore-i-am
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 1
+ownLength: 1817
+unit: words
+publishedAt: 2025-08-21
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2535634/chapter-1-i-bite-therefore-i-am"
+royalRoadId: "2535634"
+---
+
+Warmth pressed from every side. Furry bodies piled in a heap, paws twitching, tails flicking against her nose. The pup wriggled out of the bundle with a muffled squeak, little claws scratching at the dirt floor until their head popped free.
+
+The den smelled of moss and milk and fur, of home.
+
+Her legs were still wobbly, but that never stopped her. She stumbled forward with great determination, ears too big for her head flopping as she went. A brother’s tail swished by, and she lunged, catching it between tiny teeth.
+
+He yelped and rolled, and then they were both tumbling across the den floor, a tangle of growls and squeaks.
+
+The others perked up at the noise, and soon half the litter piled onto her. Nips landed across her back and ears. She kicked wildly, paw to paw, tail wagging the whole time. Her little heart raced with the joy of the fight.
+
+And then it was over, as soon as it started.
+
+With a far-too-soon victorious “Awoo!” the little pup got her paws swept from under her and plopped down onto the ground, while others ran on wildly.
+
+She fumbled wildly, but in her panic ended up summoning her own status instead.
+
+The System blinked faintly in her eyes, letters shaping themselves out of nothing:
+
+Name: —
+
+Level: 1/10
+
+Race: Lesser Shadow Pup(Tier 0)
+
+Gender: Female
+
+HP: 24/24
+
+SP: 18/26
+
+Strength: 3
+
+Dexterity: 4
+
+Vitality: 2
+
+Intelligence: 1
+
+Willpower: 1
+
+Charisma: 2
+
+Luck: 1
+
+Active Skills:
+
+Strike Lv1
+
+Bite Lv1
+
+Passive Skills:
+
+Beast Instincts (Lesser) Lv1
+
+Traits:
+
+Beast Constitution
+
+She squinted at it for a second, then lost interest when another brother rolled straight into her belly. The screen could wait. He could not. She latched onto his scruff with a victorious shake of her head, growling ferociously in her squeaky little way.
+
+The pack’s scent pressed in from the wider den, warm and steady.
+
+Older wolves stirred now and then, their eyes half-lidded as they watched the pups roll. Their calm made her tail wag harder.
+
+Safe. Allowed. Play until the legs give out.
+
+Her belly rumbled mid-growl. The noise startled her, and she paused, looking around. Was food coming? She could smell milk. She could always smell milk. It was the best smell in the world, second only to meat – though she hadn’t had that yet, and only knew it because instinct said so. Still, she licked her lips with great seriousness.
+
+No milk right now. Back to battle.
+
+She pounced again, ears flopping, jaws snapping at empty air before landing squarely atop a sister’s back. Down they went, rolling until both lay dizzy in a heap. The pup shook her head hard, vision swimming, then gave her sister’s ear the tiniest nibble.
+
+The sister squealed, snapped back, and both of them yipped until their mother huffed from her resting spot. One low rumble of authority froze the entire litter. Ears drooped. Tails tucked.
+
+She blinked wide-eyed, then slunk low to the ground in apology, but a mere beat later, she wriggled forward and licked her mother’s chin.
+
+Approval.
+
+The soft chuff that followed lifted the weight off her shoulders, and she scampered back to the pile with renewed energy.
+
+Her trait whispered at the edge of thought. The pack was content and safe. Only play filled the air.
+
+She crouched low, rump wiggling.
+
+Target: a brother’s fat paw.
+
+She leapt, clamped down, and wagged furiously as he squeaked. Triumph surged through her little body. She let go only to tumble into another round of growling and pawing, tails whipping dust into the air.
+
+Her belly growled again. Louder this time. She flopped onto her side, panting, tongue lolling. The world still spun from the tumble.
+
+Play was good. Biting was better.
+
+But food… food was destiny.
+
+She yipped softly, paws twitching, already dreaming of the next meal even as her eyes slid shut against the warmth of the den.
+
+The den’s warmth still clung to her fur when a new scent tugged her awake.
+
+Blood. Heavy, iron-rich, sharp enough to sting the nose.
+
+She blinked groggily, rolled upright, and shook dust from her ears. Her belly rumbled at once, and she licked her lips, but no milk came. Instead, the grown wolves were rising, tails stiff, eyes bright.
+
+A hunt was brewing.
+
+Excitement prickled through her paws. She scampered after them, leaving her fellow pups behind.
+
+Outside, night’s veil still lingered, the trees painted silver where the moons bled light across the forest. Her nose filled with more than moss and bark this time.
+
+Meat. Fresh. Richer than anything she had ever tasted in her dreams.
+
+Her legs carried her faster than her sense allowed, tumbling twice before she regained her place at the rear of the pack. They slowed near a clearing. The scent there was overwhelming: fur, blood, and death mingled with the acrid trace of humans.
+
+Her trait whispered danger, but the pack did not falter.
+
+In the moonlit space stood the beast. The Earthen Bear towered above fallen shapes, its muzzle dark with gore. Its hide looked thick as stone, its growl rolling like thunder through her chest.
+
+She froze, tail tucked, ears flat, too small to be noticed by something so huge.
+
+The pack moved. Shadows slipped wide, circling, claws scraping dirt in quiet readiness. Alpha’s growl snapped low and steady, the signal carrying certainty.
+
+The pup pressed her belly close to the ground, eyes wide.
+
+Then the forest erupted.
+
+Wolves surged in from all sides, a blur of fangs, shadows, and fur.
+
+The bear bellowed, swinging claws that could have crushed trees. One blow sent a wolf spinning across the ground, another tore bark free where a body had just leapt away. Yet the pack did not scatter. They darted, bit, and retreated, snapping at flanks and heels, pulling its fury apart piece by piece.
+
+Her little body trembled, not from fear but awe. Every strike of claws, every timed pounce, each feint and retreat lit her mind like fire. So this was how prey fell. Not by one set of jaws, but by many. By patience. By teeth that came together as one.
+
+Her belly growled louder than ever. The smell of torn flesh drove her mad with want.
+
+She crept a paw forward, then another, but stopped at the rumble in her chest that warned no pup belonged in that circle. She crouched back, eyes fixed on every movement, tail thumping the dirt in frustrated excitement.
+
+The bear staggered. Its massive paw dragged. A wolf clung to its back, jaws buried deep. Another leapt high to tear at its ear.
+
+Alpha struck low, ripping tendon, and the giant collapsed with a roar that shook leaves from branches. Wolves swarmed, finishing in a tide of snarls and snapping teeth until silence fell heavy and complete.
+
+Panting, blood-slicked, and triumphant, the pack stood over their prize. Some limped, some bled, but all carried pride in their eyes. Wounds meant nothing beside victory.
+
+The pup crept closer, nose twitching furiously. The carcass’s scent was unbearable. Her tiny jaws snapped uselessly at the air, her tail wagged so hard it toppled her sideways, and she let out a squeaky yap of frustration.
+
+The others ignored her. They had earned the feast. She would only watch.
+
+So she watched, and learned. Claws could dig past hide. Teeth could break more than bone. And hunger, though sharp, would one day drive her into that circle too.
+
+For now, she licked her chops and wagged. She had seen greatness, and it smelled delicious.
+
+The carcass was theirs. The pack tore into the Earthen Bear with snarls of triumph, yet the pup crept closer, tail thumping the dirt so hard it shook her ears.
+
+She had been patient. She had watched. Now, at last, she was allowed near.
+
+A slab of meat was dropped before her, thick and steaming, tougher than anything she had ever tried. She pounced on it instantly, teeth sinking in with a squeaky growl. The taste filled her mouth. Chewy, heavy, gamey – perfect.
+
+Every tug made her jaw ache, but she wagged harder with every bite. Food was victory. Food was joy.
+
+Her belly warmed with each swallow. A happy little whine escaped as she flopped sideways, paws braced over her prize, chewing with ridiculous determination.
+
+This was life. Bite, chew, swallow. Repeat forever.
+
+Only when she rolled to lick the last stringy bits from her paws did she notice something else glinting near the edge of the clearing. A strange round thing, faintly glowing, half-buried in the dirt near the fallen humans. Her ears perked. Curiosity beat hunger for a heartbeat. She padded over, sniffing.
+
+Weird smell, not meat, blood, or bone. But… biteable.
+
+So she bit.
+
+Crunch.
+
+【You have consumed a Knowledge Core Fragment.】【Cognitive functions +37%】【Language Seed embedded.】
+
+She froze mid-chew, eyes wide, the strange taste fizzing like sparks in her head. Words slid into her thoughts, neat and sharp. She blinked, tilted her head.
+
+“What’s… language?” Her voice came out in squeaky yips, strange in her own ears. “What is… ‘she’?”
+
+She sneezed once, thoroughly confused. Then shrugged in the way only a pup could, tail swishing.
+
+Words or not, something else smelled better.
+
+Her nose tugged her toward the humans’ packs. She snuffled deep, pawed at a leather flap, and pulled free a wrapped bundle. The scent was incredible. Rich, layered, spiced. She tore the wrapping open and gobbled it down before her mind caught up.
+
+BAM.
+
+Flavor exploded across her tongue, sharper and hotter than anything she had ever known. She yipped, pawing at her muzzle, tail wagging furiously anyway.
+
+“Spicy!” she barked. “Weird! But tasty! So tasty!”
+
+【Warning! Due to your Beast Constitution, spices are considered toxins.】【Poison Damage: -1 HP/s for 5s】
+
+Her eyes widened.
+
+“...Awoo.”
+
+Her belly churned. Her tail drooped. She flopped on her side, whining pitifully as the poison ticked through her little body.
+
+Life was unfair. Food should not betray.
+
+The burning faded after a few heartbeats, leaving her panting in the dirt, tongue lolling. She glared at the empty wrapper like it had personally insulted her ancestors. Then she wagged her tail again anyway.
+
+“Still good,” she muttered between pants.
+
+【Trait Unlocked: Gluttonous Soul – You grow by what you devour.】
+
+Her ears perked high. A trait. From food. Triumph surged through her little chest. She hopped in a circle, still dizzy but grinning her toothy pup grin.
+
+“Yes! Eat more, grow more! Best idea ever!”
+
+She bounded back toward the carcass, tongue already out. The pack was still feasting, but now she knew the truth: every bite, every strange flavor, every crunch might carry secrets. Food was not just life. Food was power.
+
+Her belly rumbled again. She licked her chops, eyes bright with newfound certainty.
+
+“I bite, therefore I am!” she declared proudly, tail wagging as she dove headfirst back into her share.

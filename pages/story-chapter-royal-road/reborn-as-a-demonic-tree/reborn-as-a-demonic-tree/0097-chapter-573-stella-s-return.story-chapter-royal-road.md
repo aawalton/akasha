@@ -1,0 +1,221 @@
+---
+id: d8c9a4f1-150f-5cb6-9395-81d760e25cc0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 573: Stella's Return"
+slug: 0097-chapter-573-stella-s-return
+partOf: reborn-as-a-demonic-tree
+position: 97
+ownLength: 3003
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3454852/chapter-573-stellas-return"
+royalRoadId: "3454852"
+---
+
+Ashlock rushed to meet Stella in his Inner World and, upon seeing his daughter confidently emerge from the celestial fog, his excitement quickly shifted to concern.
+
+There was something off about Stella. He had practically raised this girl, seen her through her highest of highs and lowest of lows. They had fought the world together side by side for a decade. So he knew when Stella was truly smiling and when it was an act, and from the bad feeling he had, it wasn't only her beaming smile that was fake.
+
+Rather than welcoming her return with words, he tore open the sky and inspected her with his Evil Eye because of its following effect: Your gaze now has true sight. You can see through any kind of barrier or illusion made with Qi. Your ability to perceive the flow of Qi in your surroundings and people has also increased significantly.
+
+Stella faltered under his intense gaze, but Ashlock didn't relent. Not until he confirmed his fears, which, from a glance, turned out to be true.
+
+The girl standing at the entrance to the Eternal Realm looked like Stella, dressed like Stella, and even smiled the way Stella did when she expected to be scolded and wanted to get ahead of it. But his true sight saw through the Phantom Veil Amulet's cover without effort.
+
+Beneath its shroud, her eyes weren't their usual playful pink; they were milk-white—the color of the Aether itself. Pale light bled through fracture lines spiderwebbing her skin, as though something vast and formless was trying to leak out. His Inner World opposed her presence in a way Ashlock had never felt from a living being.
+
+She wasn't a cultivator who had ascended. She was something that no longer fully belonged to this world, wearing a human body like a borrowed coat.
+
+Ashlock was horrified. What had she done to herself for power? The more he looked, the angrier he became. He abruptly closed his Evil Eye and the portal he had peered through. Stella returned to looking normal. But that unsettling feeling his Inner World was giving him never went away.
+
+"What did you do to yourself?" he said, his words coming out softer than intended, considering his rising anger.
+
+Perhaps sensing his anger lurking beneath the surface, Stella's prepared smile wavered. She looked down at her own hands, and for a moment, the performance fell away entirely.
+
+"I'm sorry," she said quietly.
+
+The apology hit harder than it should have and successfully took the anger out of his sails. Stella rarely apologized. For those two words to surface without having to force them out of her meant she knew she had done something terribly wrong.
+
+But was this her fault?
+
+A soul-twisting doubt rose within Ashlock as he remembered sending her into the Eternal Realm, saying, "Once you become a Monarch, you can join the war," as if reaching the Monarch Realm was so simple. He had set the lofty goal for her safety, to keep her out of harm's way. But had his attempts at keeping his daughter out of harm backfired terribly?
+
+"Did... I do this?" Ashlock asked with a hint of despair. "Did I push you to go so far?"
+
+Stella's head snapped up. The apology vanished from her face, replaced in an instant with something fiercer.
+
+"No," she said, firm enough that it brooked no argument. "How could you blame yourself for my foolishness? I did this. I wanted to impress you, and everyone else, and I wanted to stop being the one person in this sect who couldn't pull their own weight in this war." Ashlock could see her regathering her confidence, the way she always did. "I pushed too far. That's on me and nobody else. My decision. My own stupid decision." She held his gaze. "So stop looking at me like that."
+
+"Like what?"
+
+"Like you're trying to figure out if it's reversible."
+
+He was.
+
+She huffed in annoyance. "In my quest for power, I was broken into a million pieces and became one with the Aether. This is what I am now, and you're going to have to accept it." She crossed her arms and looked up at him expectantly, awaiting his answer.
+
+Ashlock didn't offer one and instead fell silent. He had put up with a lot of Stella's antics in the past and would always be in her corner no matter how the world tried to crush her—because she would do the same for him. But this... was too far. He also felt betrayed. While she had survived the ordeal, what if she had failed her suicidal quest for power? What if he had received an emotionless message on a random afternoon informing him of Stella's demise?
+
+Just imagining how his life would crumble around him made him seethe.
+
+Stella kept looking up at him, her confidence starting to waver in the face of his silence. She could tell his feelings on the matter by the shift in her surroundings, as the Inner World was his soul and therefore reflected his deepest thoughts.
+
+Since surrendering his human body and accepting life as a demonic tree, he had grown accustomed to his emotions being distant in most situations. It was the price of becoming something inhuman. Even as he watched mortals die under his godly influence without care besides how it affected his bottom line, he had made his peace with it ages ago.
+
+Yet right now, no such distance existed.
+
+Anger stirred in the sky above, quiet and directionless, the kind without a satisfying target, which left it to fester endlessly. Guilt mixed with it, heavier than he expected. And from mixing both, something he didn't have a clean word for appeared—the grief of watching someone break themselves to walk a path you laid for them, even if you hadn't meant for them to go so far.
+
+Despite Stella's defiant stance, he could feel her desperate yearning to be accepted and to be told it would all be okay. He appraised this fractured, furious girl who had died for power she'd wanted so badly just so she wouldn't be a burden to him with sadness.
+
+"You died," he said finally. It was a statement, not a question.
+
+Stella's jaw tightened. "And yet, here I am. Surely you will not treat me as a stranger because I take on a new form?" She paused, and her eyes narrowed. "I also know that you died once and took on a new form..."
+
+"Which is why I understand the weight of your actions!" Ashlock thundered, and desolate lightning flashed overhead. "You committed suicide for power, Stella! You are still my daughter, and you are the most precious person in this whole world to me, which is why learning you would go so far for something that doesn't truly matter breaks me. I want you to be strong so you can be safe—so you can stay by my side forever, and neither of us has to be lonely again. Life is what matters, Stella. It's the most precious gift a soul can receive and shouldn't be traded away for ANYTHING."
+
+Stella slowly collapsed to her knees, tears of Aether leaking from her eyes. "I—I thought you would be proud. I did this for you so I would be useful. I'm sorry. I'm so, so sorry. I shouldn't have gone so far... please forgive me."
+
+Ashlock didn't reply, but he answered with action. An ethereal root snaked around her and patted her head.
+
+The silence that followed wasn't comfortable, but it was honest. Ashlock let it sit between them without rushing to fill it. That was the only grace he could offer her right now as his anger stilled into sadness. Ao Lingxuan stood wordlessly behind her like a soulless statue, and Maple came to curl in her lap.
+
+However, while Stella sobbed in his embrace, Ashlock felt power flood his Inner World. It was a portion of the Qi and dao knowledge Stella had acquired, being fed to him by the Eternal Realm. He was being rewarded for her suicidal ascension.
+
+It deeply disturbed him, but he should have realized this sooner.
+
+A system that rewarded him for death and conquest, for bringing the nine realms to their knees in his desolate wake and instilling his worship upon the people, unsurprisingly didn't seem to care how he went about it. In fact, would he have gained the Qi and Dao insights even if Stella had died during her ascension?
+
+Just thinking about it made his sap boil.
+
+But as the Dao knowledge infected his consciousness, he felt his own understanding and connection to the Aether strengthen. He found himself able to look past the fractured version of Stella that had walked out of the Eternal Realm and see her true self.
+
+He was deeply relieved to discover that she still existed, just in pieces in the Aether. He tried to reach out to them, and they responded to his call.
+
+[Comprehension of Aether Dao has drastically increased]
+
+The system message appeared in his vision, overlaying his crying daughter. More messages followed, filling his view with rewards.
+
+[Desolation Law comprehension has reached 100%]
+
+[Monarch Realm ascension requirements:
+
+Possess an Inner World: 1/1
+
+Comprehend Desolation Law: 100%
+
+Devour the souls of nine Monarch Realm beings: 1/9]
+
+Ashlock dismissed the messages with disgust, knowing the glowing numbers reaching new heights were designed to distract him from where it drew its strength from—the suffering and death of his enemies, friends, and now his own daughter.
+
+"Show me," he said at last.
+
+Stella blinked the tears away. "Show you what?"
+
+"Your domain—what you are capable of." He paused. "If you're going to tell me it was worth it, convince me. Then... maybe I can come to forgive you."
+
+After all, it was partly his fault that this happened. He had been foolish enough to push an eighteen-year-old girl to tie her self-worth to reaching the Monarch Realm without any oversight. He had failed as a parent.
+
+The corner of Stella's mouth twitched. Something eased in her expression—not much, but enough. She slowly stood up, and the air around her shifted.
+
+"Domain of the Aetherial," she said, almost with a smile. The fractures along her skin glowed with power, her eyes shifted to that same milky white he had seen through his Evil Eye before, and the air around her shattered.
+
+Ashlock could tell in an instant what Stella's domain was capable of—she basically became the Aether itself and brought it into reality. He tried to tighten his ethereal root around her, but the space between his root and her skin seemed limitless. He also tried to crush her with his soul pressure, but it was simply dispersed into the Aether.
+
+She had become untouchable.
+
+Sensing his attempts, she looked up at him with hopeful eyes. She wanted his approval and forgiveness.
+
+Ashlock sighed. "I have to admit, this might be power worth dying for."
+
+The look of utter relief on Stella's face was moving.
+
+"Thank you," she said genuinely, tearing up again.
+
+"But that doesn't mean I will overlook your foolishness," he said sternly. "As for your punishment," he began, but drew a blank. Besides refusing her involvement in the war, he couldn't think of a worthy punishment. He hadn't lied; her strength now was frightening, and he needed her presence on the battlefield rather than forcing her to attend meetings or cultivate in a cave. The fight with Thal'korr had provided that.
+
+Ashlock looked at Stella, who was patiently awaiting the verdict of her punishment, and had an idea. "Your punishment will be decided by your mother in the future."
+
+Parenting 101: pass responsibility to the other. Ashlock wasn't going to start being the bad cop after being the nice one until now. He muttered a silent prayer. "I'm sorry, World Tree, but I hope you can think of a punishment befitting your unruly child."
+
+Stella looked excited at his words. "A punishment from Mother?"
+
+"Indeed. The World Tree will be free in due time, especially with your help."
+
+Stella beamed at that, which was a little creepy, considering her milky-white eyes and frightening appearance. Now that she was a Monarch, Ashlock couldn't help but imagine all their past struggles and how trivial they seemed.
+
+Vincent Nightrose? He wouldn't last a second against either of them now. His head would have gone flying before he'd noticed what hit him. Even the beast tide and Primal Overlords besides Zephyrine would have seemed like a minor hurdle.
+
+Yet despite Stella's growth and the rest of his sect's progress, the Celestial Empire still loomed over them, and the World Tree remained enslaved.
+
+"What has happened while I've been gone?" Stella asked as she canceled out her domain and returned to 'normal'. "Actually, first, can I tell you something before I forget?"
+
+"Sure?" Ashlock said, curious about what had her so excited.
+
+"I spoke with the Patriarch of the Tessellate family. They are a powerful Aether and Spatial-aligned family on the upper layers of creation, and he offered to trade his Divine Fragment if we could connect his family between the fourth, fifth, and sixth layers of creation."
+
+Ashlock took a moment to process the magnitude of what Stella had just said. "Did you say a Divine Fragment?!"
+
+Stella smugly nodded. "I told him I'd ask you and warned them it might take a while, as you are fighting a war. Though, would that even be possible?"
+
+That was a good question. "I think so? I can't connect the literal layers of creation, as I have no way to access them, but I could connect three pocket realms attached to the fourth, fifth, and sixth layers. But I don't think I'd want to keep the portal open, as it would no doubt mess with the Eternal Realm's time dilation."
+
+Stella blinked in surprise. "So it is possible? Would you be willing to do it?"
+
+"For a Divine Fragment? I'd do almost anything," Ashlock admitted.
+
+"Why, though?" Stella asked curiously. "I know if you collect all of them, you can become a true god and challenge the heavens, but what is the rush?"
+
+"Do you see the nine moons overhead?"
+
+Stella looked up at the moons that were peering through the dissipating clouds of anger. "I can."
+
+"If I were to get my hands on another Divine Fragment, I would unlock another moon, allowing use of a second affinity."
+
+"A second affinity?" Stella said, surprise written all over her face. "Wait, does that mean you could use up to nine affinities?"
+
+Ashlock hummed in agreement. "If I got all nine Divine Fragments, then yes."
+
+Stella glanced back at the Eternal Realm. "Should... I go back and tell them you are willing to do it?"
+
+"We can't do it yet. We have to wait until someone is strong enough to reach the pocket realms attached to the fourth layer of creation and plant one of my offspring there to establish the connection."
+
+"I could try?" Stella offered. "I have reached the second stage of the Monarch Realm, and if it would unlock a second affinity for you, I could go back in there and cultivate for a few months."
+
+"I appreciate that, Stella, I really do. Though as enticing as a second affinity would be, I can wait a week. There's a more pressing matter we need to deal with—an invitation, to be exact."
+
+"For what?" she asked.
+
+"A ball with the Celestial Empire of all things," Ashlock said.
+
+Stella raised a brow as Ashlock opened a portal and passed her the letter. She plucked it from the air with two fingers, scanning the contents with the idle disinterest of someone who hated social gatherings.
+
+"They expect my attendance?" she scoffed, already losing interest. "And who is this Crowned—"
+
+She stopped.
+
+Not paused, but full-on stopped. Every muscle in Stella's body had locked at once, and the fracture lines across her skin flared with pale Aether light as her domain surged involuntarily.
+
+"Stella," Ashlock called out with concern.
+
+She didn't answer. Her eyes had gone wide.
+
+For three long seconds, she stood completely still, staring at a name on a page. Then, slowly, her hand crumpled the letter into a tight ball.
+
+"I want to attend," she said. Her voice was flat, controlled in a particular way that meant the opposite.
+
+Her answer confused him.
+
+"You didn't seem interested until you read the name," he said. "Do you know who the Crowned One is?"
+
+"No," she said adamantly. "I've never heard the name before in my life."
+
+She finally looked up at him, and her eyes had shifted back to normal, but the anger hadn't left them.
+
+"But the moment I read his accursed name, my Qi moved on its own. Not my domain, not a technique—something underneath all of that." She pressed a palm briefly to her chest, just below the Phantom Veil Amulet. "Like a locked room in my own body that I didn't know existed suddenly rattled its door in fear of his name." Her jaw tightened. "I was made from the World Tree's sap. Whoever the Crowned One is, they commissioned that project. They were the reason I was created."
+
+"And you want to walk into a room full of Monarchs to meet your creator?" Ashlock asked, but could see her determination. It felt like a terrible idea, but if done right, this could also be an opportunity.
+
+A ball, where all the Monarchs were gathered in one place, and his desolation law had reached 100% comprehension.
+
+"I want to look them in the eye," Stella said, clenching her fist. "I want to know what they expected in making me, and I want them to see what they actually made. I want them to rid their disgusting mark from my body, and if they refuse. Well..." The corner of her mouth curved. Not quite a smile, something far colder. "They will see how strong I have become."

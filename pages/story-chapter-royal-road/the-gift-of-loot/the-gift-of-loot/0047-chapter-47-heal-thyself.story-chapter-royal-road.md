@@ -1,0 +1,267 @@
+---
+id: e93d45d2-c12f-58ff-a355-fac88a37b46c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 47: Heal Thyself"
+slug: 0047-chapter-47-heal-thyself
+partOf: the-gift-of-loot
+position: 47
+ownLength: 3684
+unit: words
+publishedAt: 2026-06-26
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3595193/chapter-47-heal-thyself"
+royalRoadId: "3595193"
+---
+
+Jo helped Thomas lay Zach out on the concrete. He was shockingly pale under the parking lot lights, and Thomas's healing mana unhelpfully screamed FixThisDoSomethingHelpHim!!!
+
+Jo wasn't helping. "Thomas, who were those guys? Can they follow us? Is Zach—is he going to be okay?"
+
+"They're witches, I guess. I don't know, and I don't know." He growled the last bit as he searched for a pulse on Zach's neck. His own hands were shaking so hard he could barely do it, and for a second, he thought there were actual bugs under his skin causing it.
+
+Get a grip, he told himself firmly. I can freak out later.
+
+There! He found Zach's pulse, but it felt super faint and a lot slower than it should be considering what they had just escaped. Shit, was he breathing? It looked like he was, but the breaths were shallow.
+
+"I think he needs mana. Do you have any fire crystals on you?" Thomas asked. "Level one, I don't care."
+
+"No, why would I have fire mana?"
+
+"Search Zach's bag, then!"
+
+Thomas grabbed for his own and then pulled out a Healing crystal. He took just a metaphorical sip off the top himself, which was enough to steady his hands and push whatever horror that wizard did to him to the corner of his mind. He put the remaining crystal in Zach's hand.
+
+Nothing happened. Jo came back with a shake of her head, then started searching through Thomas's pack while Thomas checked Zach's pulse again: still weak, and his skin was growing cold. A fire mage should not be cold.
+
+"Come on, Zach, you gotta absorb this. Zach, wake up." He tapped his cheek, then when that didn't work, rubbed his sternum with his knuckles as he'd once seen paramedics do to a junkie who was checking out. "Wake up!"
+
+There was no response, and he didn't know if the healing mana would work at all. He briefly tried his Living Architecture skill, but there was nothing to rebuild. Zach's body was technically healthy, but through his health sight, he looked like a dimming, flickering candle.
+
+"Here, I just found this in your pack." Jo shoved a tiny, level one fire mana crystal at him.
+
+Thomas took it and put it in Zach's lax hand as well. Fuck. How to get him to absorb this? Even a thirsty man would die of dehydration while unconscious.
+
+Come on... come on. Think.
+
+"He looks bad," Jo said, echoing his thoughts. "Should we call 911?"
+
+"If they're like the hospital up in Tahoe, they won't work with magic. We should call Applebaum, maybe?" he asked, looking for some sort of lifeline. Thomas hated to be in the National Guard's debt, but maybe they owed him one. He took out his phone. His hands were shaking again, he was choking up, and that reminded him of the feeling of centipedes crawling down his throat.
+
+That spiral was averted as his healing sight alerted him to something very important.
+
+Thomas looked up to see three figures enter the parking lot. He recognized the heavier one's features. This was the hit squad again. All of them wore light beige cardigans and slacks and generally looked like they'd come from a polo tournament. What the fuck.
+
+"Move along, cardigan crew," Thomas snarled. "You don't want this fight."
+
+That was all bluster. He was on his last nerve and wasn't sure he could even hold his mace, Zach was obviously out, and Jo... Well, this would have to be up to her. But that was fine. She was level three, and she had poison mana on her side.
+
+Sure enough, Jo stood in a fluid motion, hand on her sword, and put herself between the new threat and her teammates.
+
+The hit squad crew paused at Thomas's words, then continued walking. He couldn't quite read their body language, which was... strange. They were so neutral that it struck him as wildly off.
+
+They stopped just within the border of the parking lot light. There were three of them: two men, one woman.
+
+"Is there a problem here?" the big man called.
+
+"Don't know," Jo said. "Are you looking to make a problem?"
+
+The second man poked the other. "They are level 3."
+
+That caused the cardigan crew to gather and whisper together.
+
+Meanwhile, Zach's breathing faltered, breath catching with a choke, but he recovered a few seconds later. Thomas snatched up the Healing crystal from his limp hand but sat there, unsure what to do with it. Could he push the energy into Zach, somehow? No, he needed Fire mana. Thomas could try to absorb a low level fire, then... what? If he could figure out how to push it back out again without a skill, it would come out as flames. That wasn’t helpful.
+
+"Who are those people?" Jo hissed in an undertone.
+
+"I don't know," Thomas replied tensely. "They followed us around the Convention Center, but we lost them. Zach thought that they were a hit squad, but..."
+
+"They're weird," Jo said. "I don't like them. How's Zach?"
+
+In answer, Thomas shook his head. "Maybe we should load him up in the car and get to a hospital. I don't... I don't know what I'm doing," he admitted, as frustration and helplessness threatened to crash over him. He'd fixed himself of grievous injuries, fixed his teammates and his brother no problem. He even knew the solution to this, but he just didn't know how to get there.
+
+Perhaps he'd spoken too loud, because the cardigan crew separated and the big one said, "Your friend appears to be dying." Before Thomas could snap something at him he added, "Fortunately, we have a high healer in our presence tonight."
+
+Thomas's head snapped up. "What?"
+
+"What's the cost?" Jo demanded.
+
+"The cost is a meeting between our elders, Thomas Alexander Coldstrike, and your associate, Preston Trent de'Montvallon." His eyes flicked over to Jo, and when he blinked, it made Thomas want to recoil. "Joanna Marie Fitzsimmons may accompany you, of course."
+
+Jo lifted her sword. "How do you know my name?"
+
+Thomas was having a hard time finding Zach's pulse. The flicker of life in his healing sight was barely there. He was a healer and could do nothing.
+
+They didn't have time for back and forth. "Yes," he growled. "Heal him, and your elders will have my undivided attention."
+
+The big guy blinked, somehow, like a reptile. "And you will offer us no violence?"
+
+Offer them no violence?
+
+FixThisDoSomethingHelpHim!!!
+
+"Yes!" Thomas snapped. "You have my word, just get the healer. Hurry!"
+
+The two men looked at each other, then split off at a run back toward the convention center, leaving the woman behind. She approached, holding up her hands, with a slight smile on her face. She was mid-twenties with dirty blonde hair pulled back into a bun, and a round face with a button nose. She should have been cute, but there was something wrong with her smile, and every time she blinked was wrong, and...
+
+Thomas had to look away from her and instead to the equally horrific sight of Zach who was now taking in shallow, choked gasps. He was like an engine running out of fuel.
+
+"It is okay," the freaky woman said, walking closer with hands open and empty. "I offer you no harm. What is wrong with your teammate? Has he been cursed?"
+
+"Do you know how to get him to absorb mana?" Thomas demanded, tripping over his words. "He needs mana."
+
+She blinked weirdly at him. "Excuse me, but are you not a healer?"
+
+Manfully, he resisted the urge to leap up and shake the answers out of her. "Can I get him to absorb mana?"
+
+She just looked politely puzzled. "Why do you not just open an emergency support bridge?"
+
+"What?"
+
+She looked at Jo. "May I?"
+
+Jo looked doubtful, but stepped aside, and the woman knelt down to look hard at Thomas.
+
+"I'm no Healer," she said — there was emphasis in the word, as if it was a special title. "But if you are, it should be possible. As I understand, it is a simple foundational skill. I witnessed my sister do it as a child. Here." She reached out and grabbed Thomas's right hand, placing it over Zach's stomach where the belly button was, and Thomas's other hand over Zach's forehead.
+
+Thomas did not like getting close to her. He especially didn't like having her close to anybody who couldn't defend himself. But her touch was gentle and her voice was calm and clear. "I know not how it was done, but she took over for the breaths and the heart."
+
+"You can do that?" Jo demanded, as if Thomas had been holding out on them.
+
+"I don't know! I've been a healer for like three weeks!"
+
+The woman looked sorrowful... if a fake porcelain doll face could halfway copy the expression of pity. "I'm afraid you must. He does not sound well at all."
+
+Thomas tried to stop freaking out and instead concentrated hard. He'd done weirder things with his mana in the mimic dungeon, right? This bridge thing sounded a little bit like magic CPR, except without the rescue breathing and rib-breaking aspect.
+
+He tried to feel out with his Healing mana and felt it immediately connect through Zach’s body. Like if he sent a little zip of energy through his right hand, it immediately went up the torso with the vital organs, then traveled through the neck and brain and into Thomas' left hand, with only a couple of motes lost in transit. It was so easy, it was natural.
+
+Thomas breathed in, and Zach breathed in too, with a full, uncomplicated breath.
+
+"That is it!" the woman clapped with a genuine, if creepy, smile.
+
+"Okay, this is weird," Thomas said, but focused on sending out little zips of mana with one hand, catching it with the other, and breathing evenly. And he knew that somehow Zach's laboring heart had picked up pace to match Thomas’s own. Probably too much pace, considering how stressed Thomas was, but he'd get what he'd get.
+
+Zach didn't wake up, but color started to return to his skin. Thomas sensed that he was providing the energy to keep him going at a baseline level. That was the motes of Healing energy which were being lost in transit.
+
+The woman glanced at Jo and said, conversationally, "It is a much more civilized way than hooking someone up to machines and metal. I have seen those awful programs."
+
+"Yeah," Jo said, terse. "That's great. Back away from them now." She had taken the role of bodyguard, which was good. Thomas had no complaints at all.
+
+If the woman was offended, she didn't show it. Instead, she stood and stepped back a few paces. "My apologies, I neglected to introduce myself. I am Talia Alenweh-Dottor."
+
+Jo took over quick introductions. Thomas kept quiet because being a magical respiratory and circulatory support system was kind of concentration-intensive. On the plus side, it didn't give him any room to remember the sensation of rats crawling through his bowels and chewing outward. Thanks, wizard guy.
+
+The important thing was, Zach was stablized. He could keep this up as long as it took.
+
+Finally, after what seemed to be forever, he heard rapid footsteps coming closer.
+
+More people were coming up, and everybody but one was wearing a goddamn cardigan.
+
+The standout was an older man who looked a lot like the guy in the Most Interesting Man in the World ads. He was extremely dapper with close-cropped silver hair and beard, and a white smock and pants that had to be medical but also gave the vibe of a tailored suit.
+
+Extremely rich doctor, Thomas thought, with the corner of his mind that he could spare. This had to be an Old Family. God, they were all so weird.
+
+The older gentleman came up, took a swift look at them all, a harder look at Thomas, and then nodded once.
+
+"Good. We will lift the patient onto the gurney. Keep your concentration, and do not break the bridge as we lift him."
+
+He gestured to the other two assistants, who instantly surrounded them to help. The helpful woman went to help lift Zach too.
+
+"Who are you people?" Jo demanded, then she looked at Thomas with a look that clearly asked, "Are we really doing this? Do we trust them?"
+
+They were doing this, and no, he did not trust them.
+
+"Stay close," he said, which was really all the words and attention he could spare. Then Zach was up onto the wheeled gurney they were heading into the back of the convention center. Thomas had to follow along with hands still in place or he would break the bridge between them.
+
+The weird situation grew weirder, because it was probably like 3:30 in the morning and there were a lot of people inside the convention center. Most of them wore cardigans and seemed to be walking back and forth on various errands, some carrying books and such. The vendor stalls were closed down and there was an air of a busy office, except, again, it was so early in the morning it was late.
+
+Most didn't pay him, Jo, or Zach any mind, but gazes definitely lingered on the distinguished gentleman. Thomas guessed he was their boss, like, several levels up the hierarchy.
+
+The distinguished gentleman spoke to a few people and sent them on various errands, then gestured them down a hallway. They passed by what Thomas supposed were the back rooms and an endless series of offices. They went into another hallway, this one with wood paneling, and then into a room which looked like... an old-fashioned library study. There was more wood paneling, rich red carpeting, a goddamn fireplace set up in the corner, a daybed off to the side, and a little workstation with apothecary equipment.
+
+"Sure, why not?" his tired mind said. First witches and wizards, and then an old-style Victorian library in the back of a convention center. Okay.
+
+The distinguished gentleman gestured for his underlings to go away, then closed the door and looked at Jo. "You may stand wherever you wish, just as long as you are not in the way." He then turned his attention to Thomas, looked hard, and nodded. "Keep that up."
+
+"He needs mana," Thomas said.
+
+"I am a level 17 healer, so trust me when I say I know exactly what is wrong. Preston Trent de'Montvallon is fading, but he has not yet faded. You are providing him the support, and I have sent for the appropriate mana infusions. So please, keep yourself calm. If you become agitated, you may break the bridge between you and your patient."
+
+Something in the tone of his voice made Thomas want to trust him. It was like having an old, wise grandfather tell him that everything was going to be okay.
+
+That was straight-up manipulation. He knew it. Though even as he recognized it, he couldn't completely push away the impulse to trust him.
+
+Luckily, he'd had a very bad night and could summon up some old-fashioned belligerence. "How do I know this is not a trick? You people promised help, and so far I'm the one doing all the work here."
+
+The man didn't roll his eyes, but he looked like he very much wanted to. "I am Healer Akilah Brogger-zon," he said, as if that should mean something.
+
+"Hi, I'm Thomas," he said sarcastically. "Stop it with the mind stuff."
+
+To his shock, the feeling of safety and trust vanished. Thomas's suspicion rushed back full force, and he realized, Oh, crap on a cracker, he'd just led himself, Zach, and Jo into possible enemy territory with really weird people—if they even were people.
+
+They were like the conspiracy theory description of lizard folk wearing human masks. Or maybe they were Old Families and had become so disconnected from real people that they were just… like this? Were just as sadistic as the Brightens? What had he done? They were trapped, and—
+
+Thomas's breath caught, and Zach choked.
+
+Forcefully, he breathed out and then focused on his breathing. Akilah observed him calmly with his hands clasped behind his back. After about a minute, when it was clear Thomas hadn't broken the bridge, he spoke.
+
+"Let me tell you what I see. Your friend is a natural mana channeler who has somehow entangled his life force with his mana. He then foolishly scoured his mana empty to his core's second layer, likely with that high leveled teleportation skill which is fresh in his spirit. Does that, what is the phrase, ring any bells to you?"
+
+"Can you see Gifts?" Thomas demanded, with new dread.
+
+Akilah's eyebrows raised. "Of course not, but I have seen many injuries in my years. Now, if you want to see him live to be healed, be quiet and concentrate on maintaining a stable bridge."
+
+With that, Akilah turned and started speaking to Jo in a low voice.
+
+Thomas closed his eyes for a second and again opened his healing sight. Zach's mana was still flickering, but now that Thomas was doing the heavy lifting for his heart and lungs and... immune system, okay that was unexpected, his core was starting to trickle out some mana on its own. It was like a drop at a time trying to fill a deep bucket, but it was something.
+
+Seeing a tiny bit of progress helped. Thomas told himself just to relax and breathe. Relaxing was not a natural state for him, but somehow he fell into the rhythm of sending out and catching his healing mana through someone else's body.
+
+A few moments later, though he suspected far more time had passed than that, there was a knock at the door. Akilah went over and grabbed a few glass bottles from an eager deliverer. One was brilliant, churning red mixed with white; the other, a shimmering, glittery black filled with stars.
+
+The healer shut the door and came over, pulling a wheeled stand around as he did. He hooked up the glass bottles along with some tubing, and Thomas realized it was an IV system.
+
+"The red glass is Fire and Air mana," Thomas guessed. It only made sense to infuse through the veins what couldn't be consciously absorbed, "but what's with the black?"
+
+"Teleportation and Adaptation," he said briskly. "Level 3, of course, in keeping with the System restrictions."
+
+System restrictions? "There's Teleportation mana?"
+
+Akilah stopped and looked at him for a second, then let out a snort.
+
+"What?" Thomas asked, defensive.
+
+"Nothing. I just realized the scale of what we are facing. Yes, Teleportation mana exists. It is not common, of course, but level 3 is not so uncommon as to be rare." He deftly inserted the IVs in the back of Zach's hand. "This will be a potent mix, I think, considering that skill. Young people who get teleportation—especially young men with more testosterone than brains—generally overdo it the first few times. Though it's usually just a headache that makes you want to die, not actual death. That comes with being a mana channeler."
+
+"He saved our lives," Thomas said. "We were surrounded, and he teleported Jo and I away."
+
+Akilah paused. "Ah, I see." He looked at the mix, seemed to nod to himself, and then said, "He will wake in a couple of hours. You may release the bridge. Simply cease sending your mana through, and lift your hands."
+
+Thomas did, and watched for a few anxious seconds, but Zach's breathing remained stable.
+
+"That's it?"
+
+"That's it," said the healer. But he wasn't looking at Zach; he was watching Thomas. "Now, how do you feel?"
+
+"I don't know, tired." Who cared how he felt? It had been a long, long day. Absently he checked Zach's pulse and found it strong, too. He really was going to be okay.
+
+"No, Thomas," said the healer, "how do you feel?"
+
+Something in the timbre of his voice made Thomas glance inward. Then he frowned and looked at his own steady hands, even though his real attention was in his head. "I feel... fine?"
+
+Tentatively, he thought of the witches and specifically of that wizard. There was no accompanying flash of fear, no sense of horror or phantom memories of centipede feet down his throat, the smell of the rot of his own body in his nose. He remembered exactly what had happened to him, but it was like the memory had turned... factual.
+
+"When we heal others," Akilah said, "we also tend to heal ourselves. I saw the signs of mental trauma on you, which is why I did not have an apprentice swap out holding the bridge. You were doing a fine job, and you needed it every bit as much as your teammate."
+
+Thomas opened his mouth, then closed it when he found himself at a loss for words. Reflexively, Thomas looked over at Jo and found her curled up on the bed, over the covers, peacefully asleep.
+
+"Joanna Marie Fitzsimmons will recover as well," said Akilah. "She was starting to show the first signs of a virulent bloodborne fever. Physical symptoms would have started to show in a few hours, but I took care of that. Plus," he sighed, "some low-grade poisoning. Assassins." Now he did roll his eyes.
+
+Thomas started. "I didn't—"
+
+"Of course you didn't know. You were triaging your other teammate. Now, sit. You and I must have a chat." He gestured to two high-backed chairs that bracketed the fire.
+
+"About what?" he asked, brittle. This guy was being extremely helpful, yet it didn't escape his notice that Zach and Jo were knocked out cold. And despite being one of them, he wasn't getting 'weirdo' red flags from Akilah. There was still some low-grade mind-magic going on.
+
+Akilah's eyebrows raised. He pointed to Thomas's stomach. Or more specifically, his core.
+
+"That, and what you intend to do about it."

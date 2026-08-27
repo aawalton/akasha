@@ -7,7 +7,7 @@ files: akasha:**/*.check.md
 body-shape-slug: domain
 code-loaded-by: akasha:checks/checks.ts
 slug: check
-domain-parent-slug: domain/master-plan
+domain-parent-slug: domain/checks-system
 sequence-slugs:
   - domain/check-outcome
   - domain/master-plan-gate

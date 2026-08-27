@@ -1,0 +1,341 @@
+---
+id: 956d0140-9b15-5a04-8229-db42f17481c4
+page-type-slug: story-chapter-royal-road
+title: "101. Consequences (Start of Volume 3)"
+slug: 0012-101-consequences-start-of-volume-3
+partOf: salvos
+position: 12
+ownLength: 2966
+unit: words
+publishedAt: 2021-04-19
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/667496/101-consequences-start-of-volume-3"
+royalRoadId: "667496"
+---
+
+101. Consequences
+
+The night was cold and silent. The ramshackle hut lay abandoned, forgone to nature. But nature had not reclaimed this artificial structure; its hollow, echoing quiet was proof it had been lost but found.
+
+A light gust of wind sighed through the trees, the run down wooden door creaked from its pressure. Fire flickered deep within its halls, under the shelter of a staircase leading to a collapsed second floor. Huddling around the flames were figures. Small, dark figures dressed in tattered clothing.
+
+They were eating with quiet determination, slurping on their bowls full of a crudely boiled soup. It had begun so well, this late supper. They had avoided making any noise whatsoever for as long as they could. Until one of them dropped their wooden spoon, feeding the fire by accident.
+
+Laughter ensued. Or garbled sounds that were similar to it. Then the one who had dropped their spoon reached across the fireplace with their long, thin arms and snatched the spoon of another. A fight broke out.
+
+These hairless, pinkish gray creatures struggled with one another, tumbling across the wooden floorboards. Then they came to a stop by a tall shadow.
+
+The two stared at the creature looming over them. The terrifying four armed Demon that bared its teeth and bent over.
+
+“Hi.”
+
+I casually greeted them. They stumbled back, drawing their rusted short swords and axes. Noises left their mouth— odd, grunting and squeaking noises. These were not words. At least, not to my [Racial Skill: Universal Language Comprehension].
+
+It was like the bark of a dog or the meow of a cat. The roar of an angry beast or the cry of startled man. Taking a step forward, I spread my arms out wide.
+
+“Are you four perhaps the Goblins I’m looking for?”
+
+They didn’t answer. They just glared up at me. I crossed two of my arms as my other two created swords.
+
+“I’m only going to give you this one warning: leave this place and don’t return. The Humans here are not happy about how you keep killing them!”
+
+The threat was backed by the facts. Each of them were far lower leveled than me; they were Gold Rank, yes. Each of them were around Level 40 or 50. They were marked as low Gold Rank threats or high Silver threats.
+
+Certainly, it was not something I was supposed to be tasked with. I was a Platinum Rank after all. And yet, here I was.
+
+Sighing, I shook my head.
+
+“I see then.”
+
+The Goblins rushed me— all at once. The four didn’t break out into some kind of a tactical formation; they were not like Human adventurers who would surround me and attack my flank. They simply stabbed at me, despite the fact that I was bigger than them, stronger than them, and higher level than them.
+
+I parried the strikes easily, blocking the attacks with ease. Then my claws sheared through the first Goblin, and the reality of the situation settled into the others.
+
+They backed away from me as I dispelled my own fire weapons. I didn’t even need it here. That had been nothing more than to threaten them with. They didn’t speak a language, so I assumed it was fine if I used gestures and objects to convey the message.
+
+But even after I killed the first Goblin, they still didn’t understand. One of them let out a garbled war cry. They rushed me, entire body blurring into two as they spun and struck—
+
+I grabbed him, it... whatever… and tossed him at the stairway. The wood splintered and its foundations collapsed, crushing the Goblin entirely. The notifications dinged in my head as I glared at the other two.
+
+Yet despite that show of force, they remained undeterred in trying to kill me. The last two Goblins charged me with all their might. Their screams felt like it shook the entire building. There was a Skill here— maybe even multiple working in tandem.
+
+But it didn’t stop me from clawing through them in an instant.
+
+“Well, that’s that.”
+
+I left the bodies with one last glance before walking out of the hut. Its foundations looked weaker now. Perhaps the fallen staircase was what kept it sturdy even throughout the years it had been abandoned. But now that it was gone, after my battle with the Goblins, it would lead to the entire structure’s eventual collapse in the future.
+
+My body twisted as I passed through the dark trees, heading back to the road Daniel, Edithe, and I agreed to meet in. I arrived at the location now looking like a Human. My silver hair flowed slightly shorter than before, and I stood taller. Literally.
+
+I was as tall as Edithe now. My blue jacket fit me even better than before. It had been given to me by Daniel, so it previously had been too big for me. It still was, but its sleeves no longer covered my hands, and I could actually feel the cool wind of night on my fingertips now.
+
+The red haired woman turned to face me as I arrived. She and Daniel had both been waiting for me. And by the looks on their faces, they probably had been waiting for a while.
+
+“Salvos, what took you so— why are your clothes slightly torn?”
+
+Glancing down at myself, I saw that my pants indeed had some holes in it. My shirt was in better shape, and my jacket never ripped as long as I stayed hunched over.
+
+“Oops.”
+
+Daniel averted his gaze only slightly, scratching his black hair; apparently the damage done to my clothing was too little for him to be flustered over. Edithe spoke with a frown.
+
+“You changed to your Demon form to fight a group of Goblins?”
+
+“It’s not a Demon form. It’s my normal form. And yes, I did.”
+
+“Why would you do that?”
+
+The Human woman was not upset. In fact, she regarded me with an inquisitive look more than anything. I opened my palms and shrugged.
+
+“I was trying to scare them off.”
+
+“Did it work out?”
+
+“Uh…”
+
+I trailed off and glanced between the two of them.
+
+“No?”
+
+“At least you tried, I guess.”
+
+Edithe tried to give me a reassuring look, although it ended up coming off more as pitiful. She spun around and started down the road, leading the way back to Viechester.
+
+The three of us trudged along the path, our feet grinding against the soft, wet dirt to make a slapping sound. It had been raining earlier this afternoon, and it muddied the earth, getting my feet all sticky. My shoes were torn.
+
+I struck up a conversation with the two, asking them about how their end of the mission went.
+
+“We exterminated our group of Manticores without a problem. We had to track them down to their nest since they were treating some of the nearby towns as hunting grounds.”
+
+“You didn’t try scaring them off?”
+
+I cocked my head and Daniel stared at me.
+
+“What about you, didn’t you try using your new Skill, [Intimidation] on those Goblins?”
+
+I protested, raising my hands defensively.
+
+“I haven’t even chosen any of my new Skills yet! But I don’t think that’s how [Intimidation] works either!”
+
+“Well, we certainly haven’t found any information on such a Skill in any of our company’s books.”
+
+Edithe piped up casually from ahead. I nodded.
+
+“Exactly. I don’t even know if it’s good or not! I can’t just replace one of my precious Skills with it!”
+
+“Didn’t you gain two new Skills Slots?”
+
+Daniel pointed out.
+
+“I did! But I’m still thinking about it.”
+
+And I really was. I had evolved— I had broken Level 70 and gotten a new Species, a new Subspecies, and a bunch of new Skills. But despite all that, even after a week had passed, I still remained undecided.
+
+Salvos (Death of the Destroyer)
+
+Species: [Greater Demon of Pride] (Mortal Form - Human)
+
+Subspecies: [Asura Changeling] - Lvl. 71
+
+General Skills:
+
+[Advanced Mana Manipulation] - Lvl. 5
+
+[Identification] - Lvl. 5
+
+[Racial Skill: Universal Language Comprehension] - Lvl. 1
+
+[Racial Skill: Mortal Form] - Lvl. 3
+
+[Rest] - Lvl. 3
+
+[Lesser Enhanced Wisdom] - Lvl. 1
+
+[Title Skill: Zealous Call] - Lvl. 2
+
+Stats:
+
+[Available Stat Points: 0]
+
+[Vitality]: 79 (+5) (-5)
+
+[Strength]: 52 (+5) (-5)
+
+[Endurance]: 74 (+5) (-5)
+
+[Wisdom]: 103 (+5) (+5)
+
+[Agility]: 163 (+5) (-5)
+
+Skills:
+
+[Available Skill Points: 7]
+
+[Advanced Fire Creation] - Lvl. 30 (Maxed)
+
+[Barrage of Cinders] - Lvl. 1
+
+[Ember Core] - Lvl. 1
+
+[Flame Burst] - Lvl. 1
+
+[Scorching Wave] - Lvl. 10 (Maxed)
+
+[Self Haste] - Lvl. 10 (Maxed)
+
+[Passive - A Hunter’s Sense] - Lvl. 1
+
+[Passive - Blue Flames] - Lvl. 20 (Maxed)
+
+[Passive - Weapon Mastery] - Lvl. 20 (Maxed)
+
+[Unused Skill Slots] x2
+
+4 of my Skills had advanced to a better, improved version of themselves. These new Skills were Level 1, and yet they kept most of the advantages of the previous Skills, while opening new opportunities for growth. They were [Ember Core], [Flame Burst], [Passive - A Hunter’s Sense], and [Barrage of Cinders].
+
+Again, I had not distributed any of the Skill Points for these them, because I was still ruminating over what other two Skills from my plethora of choices I should add to my repertoire.
+
+[Flaming Breath], [Horror’s Flare], [Intimidation], [Radiant Slash], [Passive - Keen Eye], [Passive - Refined Casting] are all the new Skills I have available.
+
+Each of them seemed self explanatory. Everything except for [Radiant Slash] and [Horror’s Flare]. They were the only ones I could not exactly determine the effects of. Sure, I could extrapolate and guess that [Radiant Slash] did something similar to Daniel’s [Hero’s Slash], or [Horror’s Flare] sent some kind of fiery beacon in the air… but then why would they be Level 70 Skills?
+
+There had to be more to them than that, and I was certain they would have to have multiple uses.
+
+I was once again mulling over my various Skills and each of their abilities before I bumped into Edithe’s back. My companion turned back to me with a raised brow.
+
+“Daydreaming, Salvos? We’re already back.”
+
+“Huh.”
+
+My eyes took in the front gate of Viechester; its banclite walls were as white as ever. The anti magic material seemed to dim my vision of the seams of mana in the air. The threads almost looked like they ended on the walls.
+
+Edithe showed her company pass as well as her Adventurer’s Guild badge then gestured back at Daniel and I.
+
+“They’re with me.”
+
+The guard nodded and let us through, only pausing to take in the state of my clothes. Edithe didn’t mind it like she normally would when my clothes were fully torn, so I was assuming they were in decent enough shape for Humans to be comfortable with and the guard was just wondering what kind of a scuffle I got into that resulted in my appearance.
+
+We made our way to the Adventurers Guild and submitted our contracts. The receptionist over at the counter blinked, looking me over with wide eyes.
+
+“Oh, uh, the extermination job assigned with a low Gold Rank level of threat has been completed by the… Platinum Rank adventurer, Salvos. Your reward will be brought out for you shortly, Just, uh, wait in the lobby for a little bit and one of my colleagues will be out shortly.”
+
+I nodded gratefully and took my receipt back to the table Edithe and Daniel were seated. They had turned in their job separately from me, since we had taken two different jobs. Both of them were done on behalf of the Valiant Dreamers Company, despite the fact that I was an independent adventurer.
+
+Beaming my way to the table, I plopped myself to the chair across from my two companions.
+
+“You look happy, Salvos.”
+
+Edithe observed as she sipped from a mug of ale. Daniel pinched the bridge of his nose and explained.
+
+“She’s been excited all week. Everyone treats her differently now that she’s a Platinum. She complained for days about how the receptionists and adventurers in this guild were dismissive of her for her levels when we first came here. Now, she’s being all smug about it.”
+
+“I’m taking pride in my achievements.”
+
+I corrected him with a wave of the finger. Raising my chin, I watched the world around me lower itself before my very presence.
+
+“They thought I was nothing but a rock before, but now look at the way they stare at me.”
+
+And sure enough, a few adventurers were casting glances my way. They were looking at me out of the corner of their eyes, whispering and pointing. Unfortunately however, most of their focus was fixed on Edithe.
+
+“...from the Valiant Dreamers Company…”
+
+“...the company war…”
+
+“...bastards are too busy fighting amongst themselves they’ve increased the burden on all of us…”
+
+They said less than kind things which made Edithe wince every time she heard them. Frowning, I stood up and approached the closest group of gossipers. They were low Gold Ranks— at around Level 45. The group paused their talking and faced me.
+
+“Hey.”
+
+“Uh, can we help you Miss—”
+
+I jammed fire dagger down on the center of their table and they jumped. The wooden board snapped in half from the impact and I let the weapon disappear.
+
+“Stop talking bad about my companion.”
+
+The men stared at me. One of them opened their mouth and stood up.
+
+“Oi you—”
+
+He started but was cut off by another who pushed him back to his seat. The second man hurriedly bowed his head and spoke apologetically.
+
+“Apologies Miss…”
+
+I didn’t respond. I simply crossed my arms and looked at him. He hesitated, before finally continuing.
+
+“We didn’t mean to insult your friend—”
+
+“My companion.”
+
+“Uh, right. We were only complaining about the situation we’re in because of the company war. The situation is hard on all of us, yes?”
+
+I shook my head and turned around. My eyes scanned over the crowd of adventurers in the guild. Some of them had their hands on their weapons, but most of them were just eyeing me warily.
+
+“I don’t care. But if anyone here talks bad about Edithe again, I will give you reason to talk bad about me instead.”
+
+With that said, I sat back down with my companions. I murmured under my breath as I instinctively reached for a glass to drink from.
+
+“Honestly, sometimes Humans are so—”
+
+I spat out the liquid and grimaced.
+
+“Gross.”
+
+That was a habit I probably should not try to keep; I had been pretending to drink and eat since I had to be around Humans all the time, but it was starting to seep into my reflexes.
+
+There was a light cough and I glanced up. Edithe shifted uncomfortably in her seat as her face burned.
+
+“Thank you, uh, Salvos. But that wasn’t really necessary.”
+
+“It was!”
+
+I spoke simply.
+
+“These people have been bad mouthing you all week now. They’re mad because the Valiant Dreamers Company can no longer help them take care of their stupid problems. But who asked them to be so weak in the first place?”
+
+“But—”
+
+“I’ll have to agree with Salvos, Edithe.”
+
+Daniel added from the side.
+
+“You’re one of the few Gold Ranks from the Valiant Dreamers who are actively trying to aid the guild and local adventurers by taking up their excess jobs for them. And it’s not like it’s your fault the Valiant Dreamers are now wrapped up in this stupid war with the Iron Champions Company.”
+
+Edithe chewed on her lower lip as Daniel rested a hand on her shoulder.
+
+“Don’t let them get you down. And let us stand up for you.”
+
+“Yep! I’ll beat up any stupid Human who says any mean thing about you!”
+
+I grinned and flexed an arm. Unfortunately, it did not look as terrifying as it would if I were not in my Human form. Especially since I only had two arms now. Four arms are great. I remember when I used to have over a dozen limbs…
+
+My nostalgia was interrupted by Edithe suddenly standing up. She nodded at us quickly,
+
+“Right. Thanks. Both of you. But I think we should be heading back now. Before Rachel gets worried.”
+
+Starting out of the guild, Edithe almost left us behind as Daniel and I exchanged a glance. We both followed her, keeping a short distance behind the red haired woman. We had tried cheering her up to no avail.
+
+I nudged Daniel.
+
+“This is your fault! You shouldn’t have brought up how she’s stuck taking care of dumb missions while her companions are busy with the company war!”
+
+“Me? What about you! You shouldn’t have made a scene in the first place!”
+
+We spoke in hushed whispers, but the Gold Rank adventurer somehow heard us.
+
+“Guys.”
+
+She turned around, giving us a pained smile.
+
+“It’s alright. You don’t have to worry so much over me.”
+
+I blinked then pointed an accusing finger at Daniel.
+
+“It’s his fault!”
+
+He glared at me while Edithe shook her head.
+
+“It’s neither of your faults. Would I prefer to be fighting alongside the other dreamers, against those assholes who killed Paige? Yes. Would I prefer if everyone in the Adventurers Guild didn’t look at me with such animosity and hate? Yes. But it’s my own fault that I’m in this situation.”
+
+My companion, the red haired woman named Edithe, sighed as she spun back around. Her gaze turned towards the starry night sky, her voice vulnerable and quiet.
+
+“It’s my own fault I can’t help them. After all, I am a [Summoner] who can no longer summon.”

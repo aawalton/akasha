@@ -1,0 +1,199 @@
+---
+id: f3bc9811-d8f5-51bc-9141-726bc73af76c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 111 – Where There's A Will"
+slug: 0111-chapter-111-where-theres-a-will
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 111
+ownLength: 2174
+unit: words
+publishedAt: 2026-04-17
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3284033/chapter-111-where-theres-a-will"
+royalRoadId: "3284033"
+---
+
+"Listen here, Liora!" Renir said sternly before Liora could firmly reject the idea of purchasing a skill. "I know how much you loathe spending glimmerstones. I know you love collecting shinies. It's what you are. But this is your life we're talking about. Didn't you yourself say that there's no point in having shinies if you're dead?"
+
+"Yes…" Liora agreed. It was the whole reason why she had left her comfortable nest in the first place. She loved shiny things, and she loved glimmerstones. She wanted to have as many of them as possible and never spend a single one.
+
+But Renir was right that the fight against the cyclops had been far too close for her own comfort. In fact, without his shields, she likely would be dead already. Her stealth skills weren't enough to protect her, especially against stronger enemies. She needed defensive skills.
+
+"But these skills are so expensive…" Liora choked out again.
+
+"I'll repay you that glimmerstones cost tenfold! Heck, how about this? After we break another layer of my seal with the Resonance Crystal, we can go to one of my hidden treasure troves. It doesn't have glimmerstones, but there's lots of gold and some valuable items that can boost your combat abilities. How about that?" Renir said.
+
+"You have hidden treasure troves, and you never told me about it?!" Liora asked in outrage.
+
+"Because then you would want to look for those instead of helping me break the seal."
+
+"Well… Maybe it wouldn't hurt to visit some treasure troves?"
+
+"How about we visit one after each seal is broken? I think that's a fair reward, no?" Cee suggested.
+
+Liora nodded. "That does sound reasonable."
+
+"I agree. One treasure trove after each seal is broken," Renir said. "But you have to buy that defensive skill."
+
+There was a long pause as Liora fought with the hoarder within her. Renir was right. She needed a skill to protect herself. She needed it.
+
+"Okay… But the cheapest one!"
+
+"Even that is a strong skill. I'd argue that Cyclone Carapace would be far better for you—"
+
+"No way! It's twice as expensive," Liora cawed angrily.
+
+"Okay, okay… I'll be happy with the Aegis Cyclone too. It's still a very good defensive skill."
+
+"Sounds cool too," Cee added.
+
+Liora didn't linger on it. She hurriedly ordered the system to purchase the skill.
+
+[You've obtained a new skill – Aegis Cyclone]
+
+[Aegis Cyclone – Create a rotating cyclone around your body. Smaller projectiles are deflected, while larger ones are forced off their initial trajectory. The largest projectiles have their impact force reduced. Continuously drains mana while active.
+
+Mana efficiency and the defensive capabilities of this skill increase with the skill level.]
+
+"I bought it," Liora said and began to glide downwards. "So many glimmerstones are lost… I can feel it in my very soul… I feel so faint…"
+
+"You're far too dramatic! I didn't feel anything when I spent my glimmerstones," Cee said, poking Liora in her back.
+
+"No, I felt it… Glimmerlust is sorely disappointed in me. I feel revolted with myself," she continued whining.
+
+"Give her a moment. She'll bounce back. The important thing is that you bought Aegis Cyclone. I'm so proud of you, Liora!" Renir praised.
+
+"I don't want to do anything anymore…" Liora lazily glided lower and lower.
+
+"Sure, sure. You can rest for today. Do put me back in your Inventory before you land," Renir said.
+
+Liora did that, but her mood for the day was absolutely ruined. So many glimmerstones were lost… For a worthy cause, but nonetheless, Liora felt like she had betrayed her very nature.
+
+Your treasure trove better be loaded to the brim.
+
+Trust me, you're going to love what's in there!
+
+This made Liora want to hurry up the things here on Seabloom Island, but she had to do her duties first. Heal the people here as quickly as possible, then finish attuning the Resonance Crystal and get to the treasure trove.
+
+But the rest of the day, Liora spent dozing in her room, mourning the loss of her glimmerstones while Cee kept squealing in the background, playing with her Mana Perception. Apparently, it was kind of fun when the mana node wasn't overwhelming her vision.
+
+Renir was explaining to her the various intricacies of what the spider was seeing. But Liora didn't pay it much mind. She needed to rest.
+
+Next morning, Liora awoke feeling a bit better than before, albeit the loss of glimmerstones still gnawed on her mind. What surprised her more was that the floor had been transformed to have a strange mandala-like pattern on it.
+
+Cee was admiring her handiwork gleefully from the ceiling, rubbing her front legs together like some evil mastermind.
+
+"What are you doing, Cee?" Liora asked as she stretched out her wings.
+
+"While you were sleeping, I was training my skills," the spider announced excitedly. "I got Mana Perception up to Novice, and currently I'm training Bedrock Mandala."
+
+"How can you know if it's working?" Liora asked, looking dubiously at the circle on the ground. It was rather subtle, the color of the lines being only a tad bit darker than that of the stone floor. For her, it wasn't an issue to spot it, but she imagined that most other creatures would struggle to see it.
+
+"Well, I can't really. I wanted to try it on the healers a little bit—"
+
+"Absolutely not!" Renir objected. He had spent the night outside Liora's Inventory, situated comfortably on the pillow.
+
+"Yeah, yeah. I got it. No trying out skills on innocent people. But technically, it wouldn't even hurt them. Just slow them down," Cee reasoned.
+
+"Do you know what will happen to you two if you use any kind of skill on anybody here?" Renir countered. "Let me remind you that you two are monsters, and although currently everything seems like sunshines and rainbows to you, the moment you show any sort of hostility, these people will freak out."
+
+"It's not exactly hostility…" Cee muttered. "But I get your point."
+
+"I guess you'll have to wait until we fight more enemies," Liora said. "Although it might be a while, since there are still a lot of people here in this clinic."
+
+Cee wiggled her front legs angrily. "But I really wanted to see how it works!"
+
+Then the spider turned to Liora, a mischievous glint appearing in her eyes. It didn't take long for her to realize what it was that Cee wanted from her.
+
+"Nu-uh! I'm quite done being your lab rat!" Liora protested, shaking her head.
+
+"Please! This won't even hurt, unlike my webs," Cee put her legs together in a pleading motion and made her best pleading spider eyes. They were rather effective…
+
+"Admittedly, you should also train your Resistance skills a bit more. Paralysis Resistance saved your fluffy butt back on the corruption island," Renir noted.
+
+"Please, not today! I'll walk in the stupid mandala, but no painful webs!" Liora insisted.
+
+"Yay, thank you! I love you, Liora!" Cee cheered.
+
+"You'd better," Liora grumbled.
+
+She jumped down from the bed with a heavy thump, landing in the mandala circle. Liora expected to feel something, but oddly enough, she didn't feel a thing.
+
+"I don't feel any different," Liora said, taking a step forward. It was a normal, not slowed down in any way.
+
+"That's because I haven't activated it yet. Here goes!" Cee said and pressed one of her legs to a thread that was connected to the mandala.
+
+It lit up with soft yellow light. Liora braced herself for pain, but instead she just felt uncomfortably heavy. She took a step forward, and it felt like she had heavy sacks weighing her down. It was an absolutely disgusting feeling.
+
+"Yuck! I think I hate this more than the webs," Liora complained, and as quickly as the accursed mandala allowed her, stepped out of the circle.
+
+"The slowdown wasn't as much as I expected," Cee noted.
+
+"That's because the skill is still at a low level. It'll most certainly get better. How would you describe your experience in it, Liora?" Renir asked.
+
+"I felt heavy. So heavy that I wouldn't be able to fly. Almost as if I were a human again, albeit not as bad," Liora explained, fluffing up and shaking her feathers in displeasure. "I'm not doing that again. Let's just go eat breakfast and get to work."
+
+She grabbed Renir, putting him back in the safety of her Inventory, and waddled off to the dining hall for breakfast. Nord joined up with them pretty quickly, and after eating a delicious meal of some mystery meat, they returned to healing.
+
+Liora did at least. She once again fell into a steady routine of healing the corrupted and half-corrupted folk alike. Unlike before, she was allowed to leave to go out for nightly flight each evening for a few hours.
+
+However, obviously, this kind of strict routine quickly became stifling for a bird like Liora. Her eyes began to glaze over as she healed one person after the next, barely registering what she was doing anymore. Oftentimes, while healing fully corrupt people, Renir would give her instructions aloud; otherwise, she would just zone… out.
+
+"I don't think you're doing too well, Liora…" Cee noted one evening, during their evening flight.
+
+Even that wasn't quite enough to cheer Liora up anymore. Flying restricted to a small area at a specific time. It felt stifling. She wanted to fly beyond the sea. She wanted to be free again, not under the constant watch of these humans.
+
+Renir… Is there perhaps another way to get that Resonance Crystal?
+
+Wow, wow! Don't give up now. You've healed so many people already. We're almost done with all the fully corrupt cases. Hang in for a bit longer.
+
+Liora could only let out a heavy sigh.
+
+"I just want to leave this place…" Liora said to Cee.
+
+"To be honest… Me too. There's not much for me to do here. I can't just train my skills openly, so I have to do it mostly at night in secrecy. Nord, Donovan, or Morgana follow our every step… It's like some punishment," Cee nodded.
+
+Okay, okay, how about we try to attune the Resonance Crystal again? I'm sure Morgana would agree.
+
+And fight another cyclops for that? No, thank you! I enjoy living.
+
+There must be a mana node without a dangerous monster sitting on it. Especially here at sea. There must be a water mana node somewhere in the sea for sure.
+
+Yeah, but how would we know to find one?
+
+Hehe! We already have everything we need to find and attune our Resonance Crystal in the form of a spidery friend.
+
+"Renir! You manipulated Cee to become your Resonance Crystal locator!" Liora shrieked aloud.
+
+"What?" Cee startled a bit at the sudden outburst.
+
+"Yeah! He insisted you learn that mana attunement ritual thingy and then the Mana Perception skill. It was all so you could attune the crystal that he needed," Liora explained.
+
+Hey, don't turn me into a villain here! It cost Cee nothing besides a bit of effort to learn the ritual, and Mana Perception is truly a great skill to have for every mage.
+
+Yeah, so you say!
+
+"Liora, calm down! It's only natural that Renir would think of a way to help himself while helping us, too. I wanted Mana Perception. He didn't force me. You, however, are completely riled up. This clinic isn't doing you any favors…"
+
+"I… Yeah…" Liora admitted, realizing how stressed she actually felt. "I want to leave so badly, but I also want to help those people. Then there's Morgana hovering over our shoulder, watching our every step. The fact that she knows that I carry Renir with me also puts me on edge."
+
+I really doubt she's in any way involved with those corrupted mage freaks.
+
+Yeah, but I still don't fully trust her.
+
+It's because she put you in a cage, isn't it?
+
+Yes!
+
+"I can't say that I like this treatment too much either. I would feel much better if you could heal at your own leisure, instead of her holding us hostage with those prizes…" Cee noted.
+
+"Yeah, why can't she just give us the book and the crystal? The fact that she is holding them over our heads really pisses me off!" Liora said, when suddenly an idea crossed her mind.
+
+She was surprised that she hadn't thought of it earlier. It was likely because she was constantly busy with healing. But with how much time she had and how close Morgana always was, Liora was ashamed that she hadn't thought of this before.
+
+Liora, your mood suddenly changed… What are you thinking?
+
+Oh, nothing much. I was just worried about Morgana. That our silly little trinkets were cluttering her Inventory and taking up precious space. Wouldn't it be better if someone took them off her hands?
+
+Liora, no! How would you even do it?
+
+Where there's a will, there's a way!

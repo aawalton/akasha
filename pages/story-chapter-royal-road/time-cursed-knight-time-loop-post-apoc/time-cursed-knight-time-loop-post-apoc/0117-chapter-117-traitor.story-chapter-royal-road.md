@@ -1,0 +1,275 @@
+---
+id: 190fa3db-7e6d-54f1-852d-3a074c51352b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 117: Traitor"
+slug: 0117-chapter-117-traitor
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 117
+ownLength: 2549
+unit: words
+publishedAt: 2026-08-26
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3868618/chapter-117-traitor"
+royalRoadId: "3868618"
+---
+
+The air split before I finished the word.
+
+A tearing, as though the sky itself were fabric and something had ripped it. The heat followed half a second later, a wash of furnace-grade thermal pressure that hit my face and chest.
+
+I threw myself sideways.
+
+The first lance of fire struck the sand where I'd been standing. The impact threw a geyser of molten glass and superheated particulate three meters into the air. Before the debris reached its apex, the second lance hit. The third. The fourth.
+
+Dozens of them.
+
+They came down in a staggered curtain across the width of our column, each one a condensed rod of flame the thickness of a man's arm descending at angles that converged on a single target zone.
+
+The prisoners.
+
+"SCATTER!" Voller's voice, somewhere behind me, swallowed by the roar. "SCATTER AND —"
+
+"ATTACK!" Dorn, closer, already drawing steel.
+
+The prisoners couldn't scatter. Their wrists were bound. Their ankles were roped in pairs. They stumbled against each other, tripping, dragging, the coffle turning a line of men into a tangled knot of limbs and rope that couldn't move in any direction fast enough.
+
+Three lances hit them in the first two seconds.
+
+The first took a man through the chest and kept going, punching into the sand beneath him and detonating in a circle of flash-cooked earth. The second caught two prisoners roped together at the wrist and the fire consumed the rope and the hands and the arms before either of them understood what had happened. The third hit the sand between two more and the blast threw them apart so hard that the connecting rope snapped and both men went tumbling, one of them burning, the other screaming.
+
+The evidence.
+
+The realization hit like a fist.
+
+They're here for the prisoners.
+
+"THEY'RE TARGETING THE PRISONERS!" I roared across the column. "THEY WANT THE EVIDENCE DESTROYED!"
+
+I didn't wait for acknowledgment.
+
+Mana Breath flooded my lungs and poured through every vessel, every capillary, the dark blue mist streaming from my mouth in a ragged banner. My legs coiled and I kicked off the sand with everything my body could produce.
+
+The ground cratered behind me.
+
+I crossed the forty meters between my position and Eckhardt's advancing column in three strides. My right hand found the Officer's Model. Drew it. My thumb hit the crystal housing's slide.
+
+Nothing.
+
+The slide refused to cycle. I pressed harder. The mechanism ground against itself, the action sluggish, resistant, packed with something granular that had worked into the tolerances between the moving parts.
+
+Sand.
+
+Eight days of desert. Eight days of fine white particulate infiltrating every gap, every seam, every opening smaller than a fingernail. The Officer's Model had never been field-tested in these conditions. It hadn't occurred to me to—
+
+A fire lance detonated ten meters to my right.
+
+I shoved the pistol back into the holster and drew the bastard sword. The blade came free trailing a line of disturbed air behind it.
+
+Eckhardt's escort was arrayed in a loose crescent behind her. The mages among them had their hands raised. Fire, wind, earth. The disciplines mixed across the line, each mage casting independently, each attack aimed at the bound prisoners behind me.
+
+I was fast. Still not the first to arrive. An arrow came from the ridge.
+
+It crossed the distance between Breit's position and the leftmost mage, one instant before it buried itself in the man's right eye socket. The broadhead punched through the orbital bone and into the brain behind it, and the mage's fire spell died on his fingertips.
+
+I hit the crescent a half-second later.
+
+The bastard sword took the nearest mage across the throat before he registered that the white-haired blur in his peripheral vision was a human being with a blade. His head didn't come off. The cut was too fast and the angle too steep for a clean separation. But the carotid opened in a spray of arterial red that caught the mage beside him across the face.
+
+Chaos.
+
+The crescent broke. Half the mages pivoted toward me, their spells redirecting from the prisoners to the immediate threat. The other half kept firing at my group.
+
+A bolt of compressed wind caught me in the ribs and spun me sideways. I rolled with it, came up, drove the bastard sword through the caster's hip before the wind mage could cycle a second shot. The blade scraped bone and I wrenched it free as a pillar of flame erupted from the sand two meters to my left.
+
+The detonation threw sand and heat across my back. Behind me, someone screamed.
+
+I killed the fire mage. Two cuts. The first opened his guard. The second opened his chest.
+
+An earth spike erupted beneath my left foot. I shifted my weight and the spike grazed my calf instead of impaling my thigh. The earth mage was already casting a second spike when I closed the distance and drove the pommel of the bastard sword into his temple. He dropped.
+
+Spells detonated everywhere. Fire bloomed against the dunes. Wind sheared across the sand in horizontal razors that cut everything at knee height. A column of compressed earth punched skyward.
+
+Voller's men had reached the prisoners. They were cutting ropes, dragging prisoners flat, shielding them with their own bodies. One scout took a fire bolt in the shoulder and went down screaming.
+
+Tarek fought with his cracked ribs and his curved blade, his face white, his teeth bared, but his cuts were precise.
+
+Dorn had abandoned the notion of his wounded arm being a limitation. The young knight fought one-handed with his longsword, the strapped arm tucked against his chest. A wind mage tried to lift him off his feet. Dorn grounded his stance and drove forward through the gust and took the mage's hand off at the wrist.
+
+The mages who'd been firing at the prisoners were dying. Not fast enough, but dying. The ones who'd redirected toward me were the problem.
+
+Three of them coordinated. Fire, wind, earth. The fire mage threw a wall of flame across my path. The wind mage compressed the air behind the wall to prevent retreat. The earth mage raised the ground beneath my feet into a tilting slab designed to throw me into the fire.
+
+I went through the fire.
+
+The skin on my forearms blistered and the heat seared my lungs but the tissue didn't cook and the bones didn't crack and I came out the other side trailing smoke with the bastard sword already descending.
+
+The fire mage died with an expression of absolute disbelief.
+
+A second arrow from the ridge took the wind mage in the throat.
+
+The earth mage ran.
+
+I had a second. Maybe two.
+
+My left hand found the Officer's Model in its holster. I racked the slide back, hard, grinding sand out of the action. The mechanism caught halfway. I slammed the heel of my palm against the base of the grip, felt something shift inside the housing, and racked it again. The slide cycled. The crystal seated with a click.
+
+I shoved the pistol back. Functional, but drawing it now meant fighting one-handed against whatever came next.
+
+Finally, Eckhardt was there.
+
+She stepped between me and the retreating earth mage with the bastard sword drawn and her weight settled into her heels.
+
+She was serious. I could tell that if I made a small mistake, my head would be the one cut off. It was obvious in her eyes.
+
+They glowed red. The capillaries in her temples had dilated past any normal threshold, flooding the tissue with mana-enriched blood that glowed through the skin.
+
+Mana Blood at its highest tier.
+
+Eckhardt attacked.
+
+The blade was a blur. The first cut came at my neck and I parried and the impact traveled through the bastard sword and into my wrists and my elbows and my shoulders.
+
+The second cut followed before the first had finished ringing. A diagonal slash from shoulder to hip that reversed into an ascending cut aimed at the inside of my leading arm. Textbook disabling strikes. Each one designed to end the fight in a single exchange.
+
+She's a specialist, I thought, blocking the ascending cut and giving ground. Trained to fight humans. Not monsters.
+
+The third exchange proved it. She feinted high, drew my guard up, and reversed into a thrust aimed at my liver. The thrust was so fast and so clean that I only avoided it because Novice Swordsmanship provided a fraction of a second's warning, the invisible instructor in my muscles screaming the correction before my conscious mind processed the attack.
+
+The blade scored my side instead of puncturing it. A hot line of pain opened from my hip to my rib.
+
+I countered. My bastard sword drove at her center mass in a two-handed thrust that should have forced her to choose between parrying and evading.
+
+She did neither.
+
+She stepped inside the thrust's arc, let the blade pass her ribs by a centimeter, and drove her pommel at my jaw.
+
+I twisted. The pommel clipped my cheekbone instead of breaking my jaw. I staggered.
+
+She pressed. Two cuts, three, four, each one landing in the gap my recovery left, each one testing a different angle, searching for the entry point that would end this.
+
+She's better than me with the blade.
+
+The thought was bitter and true.
+
+And I don't have time for this.
+
+Behind us, the surviving mages were still casting. Every second this duel continued was another fire lance hitting us.
+
+"Who sent you?" I demanded between parries, the words forced out through gritted teeth. "Elara? Was it Elara?"
+
+Eckhardt's face gave nothing.
+
+"You were Iron Cross." I blocked a cut aimed at my leading knee. "You swore the same oath I did—"
+
+Nothing.
+
+She knows too much. She knows how they found us. I need to be calm, if I kill her, every answer dies with her.
+
+"You're a traitor, Eckhardt."
+
+She missed.
+
+The timing stuttered. A fraction of a second's hesitation in the transition between the rising cut and the follow-through, a hitch in the rhythm that hadn't been there before.
+
+The word had landed.
+
+Her eyes went fractionally wider. The composure that had held through every exchange cracked.
+
+"A traitor." Her voice came out low and rough and raw. The first words she'd spoken since the fire lances fell. "I can't be a traitor to something I was never part of."
+
+"The Iron Cross is a leash," she said through her teeth, her blade meeting mine in a bind that locked us at the cross guards. The red light in her veins pulsed. "The Crown holds one end. Varen holds the other. And the rest of us run between them until something breaks." She shoved me back. "I chose. That's all."
+
+I'd like to beat her with the sword.
+
+The hunger to test myself against someone who outmatched me with the blade, to find the gap, to earn the evolution.
+
+But I don't have the time. I need her breathing.
+
+Eckhardt's bastard sword came around in a sweeping cut aimed at my right shoulder. Her form was perfect. The angle would have opened me from collarbone to sternum.
+
+My left hand left the bastard sword's grip.
+
+The Officer's Model cleared the holster in the space between her cut's apex and its descent. My thumb found the crystal housing's slide. My index finger found the trigger.
+
+I fired twice.
+
+Arm. Leg. That should be enough.
+
+The cracks were sharp and flat. Two streaks of pale blue light connected the barrel to Eckhardt's body faster than her blade could complete its arc.
+
+The first ball punched through her sword arm above the elbow. The impact spun the limb backward, the bastard sword flying from fingers that could no longer grip.
+
+The second ball hit her right thigh. The entry wound was clean. The exit wound was not. The ball tore through the quadriceps and exited in a burst of tissue and trouser fabric that painted the sand behind her in a dark smear.
+
+Eckhardt's leg folded.
+
+She went down. One knee, then both, then sideways, catching herself with her remaining hand. The red light in her veins was still pulsing but the rhythm was erratic.
+
+She'd heard about the weapon. They all had. But hearing about it and watching two copper balls punch through your body before you could finish an attack were different lessons.
+
+Her eyes stared at the pistol in my hand with the expression of someone recalculating every assumption she ever had.
+
+I kept the weapon level and moved toward her.
+
+She was bleeding badly. Without treatment, she had minutes.
+
+Eckhardt's jaw clenched. The tendons in her neck stood out like cables. She drew one ragged breath and screamed.
+
+"ENOUGH! DAMAGE IS DONE! PULL BACK! PULL BACK NOW!"
+
+Her voice carried across the battlefield. The surviving mages heard it. The ones still casting stopped. The ones still fighting broke contact.
+
+A wind mage at the crescent's far end raised both hands. The air around him compressed, lifting him. His hands reached down. Two mages grabbed hold. The column of air widened, thickened, and all three of them accelerated west across the dune crests.
+
+A second wind mage did the same. Three more soldiers latched on. The group rose and banked west, trailing sand and the dissipating glow of active casting.
+
+Eckhardt was on the ground. I was two meters from her.
+
+Her remaining hand came up.
+
+A third wind mage materialized from behind a dune ridge. The air beneath Eckhardt compressed. Her body lifted from the sand, trailing blood from both wounds.
+
+The Officer's Model was already in my hand.
+
+I fired.
+
+Three shots. The cracks split the air in rapid succession, three streaks of pale blue light.
+
+The first ball caught her in the side. The second punched through her chest. The third hit her neck.
+
+The wind mage's spell faltered. Eckhardt's body hung for a half-second, suspended, and then gravity won.
+
+She fell.
+
+The impact raised a small cloud of dust. She lay face-down in the sand, the red glow in her veins dimming, flickering, going dark.
+
+An arrow chased the retreating mages. It struck one in the calf and he stumbled in the air but didn't fall.
+
+Then they were gone.
+
+"Tsk."
+
+Every answer I needed, dead in the sand.
+
+Around me, the aftermath.
+
+I turned.
+
+Voller was already counting.
+
+Of the nineteen soldiers still roped in the line, all were dead. The sand around them was black and glassed in patches.
+
+The workers were unharmed. Voller's scouts had covered them and paid for it. Two scouts down with burns. One with a shattered forearm where an earth spike had caught him while he shielded a Qalathar civilian with his body.
+
+Of Eckhardt's twenty, eleven lay dead across the sand. Eckhardt among them. Some killed by steel. Some by arrows.
+
+Nine had fled.
+
+Dorn appeared beside me. His face was gray with dust and his one functioning arm trembled with exhaustion, but his eyes were clear.
+
+"Sir." His voice was hoarse. "Orders?"
+
+I looked west. The horizon was empty.
+
+I looked at my people. Bloody. Burned. Standing.
+
+"Same as before," I said. "We march to Qalathar."

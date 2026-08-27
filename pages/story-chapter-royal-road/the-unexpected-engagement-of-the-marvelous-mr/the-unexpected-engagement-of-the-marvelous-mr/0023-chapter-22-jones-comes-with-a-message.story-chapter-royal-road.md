@@ -1,0 +1,309 @@
+---
+id: bbcfd02c-8dcc-5e48-86cf-2d931df9e579
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22 - Jones Comes with a Message"
+slug: 0023-chapter-22-jones-comes-with-a-message
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 23
+ownLength: 2442
+unit: words
+publishedAt: 2022-06-14
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/927480/chapter-22-jones-comes-with-a-message"
+royalRoadId: "927480"
+---
+
+The doors of Station Four burst open to admit Haley and the small entourage of policemen that were flanking him.
+
+A half hour before, the chief inspector had called from the Aubrey-Serrs’ residence to let them know he was coming. Only a few minutes later, several men had gone outside to wait for him. By the time his cab had pulled up, there were six of them—not counting the reporters which had to be held back by a line of constables.
+
+As they had gone inside, Haley ignored the questions shouted at him from the press, but he and the other policemen talked. All their comments were muted and fast.
+
+“You’ve had no word?”
+
+“None.”
+
+“What about Penn?”
+
+“What about him?”
+
+“Is someone still at the house?”
+
+“I left Crewe there.”
+
+“Crewe?”
+
+“He’s a kind soul. That’s what they need right now. Kindness. He knows the station number.”
+
+“How’s the family?”
+
+“The baron has seen a doctor. The rest are coping.”
+
+Two of the policemen exchanged glances behind Haley’s back. The chief inspector was known for being careful with his words, and the men had learned to recognize the practical nature of such subjective words as “coping.”
+
+“Is there anything we can do?” one of them ventured.
+
+“Yes!” Haley barked. “We can find Lady Serrs!”
+
+Lucas felt a hand on his elbow and turned. It was Darcy Ellsworth. Haley didn’t have a partner, but if he did, his first choice would have been Sergeant Ellsworth.
+
+“Have you had any dinner, sir?”
+
+Haley chuckled, but it was quiet and jaded. “No, Ellsworth.”
+
+The sergeant turned to the nearest constable and muttered some instructions.
+
+Another policeman said, “We’ve got the patrols out, just like you asked for, sir, and two of our women are going through the photos, looking for anyone that matches the baron’s descriptions.”
+
+“Good. Ellsworth, do we have the map set up?”
+
+“Here, sir.”
+
+The sergeant guided him into the main office. Three desks had been shoved aside to make room for the crowds that needed to gather near the wall.
+
+“Inspector,” Braddock said, “have you seen the papers?”
+
+“I don’t need to see the papers.”
+
+“But they’re saying it was Penn—”
+
+When Haley slammed his hand down on a nearby desk, a sudden silence fell over the whole room.
+
+The inspector took a deep breath so when he spoke his voice would stay calm; these men and women didn’t deserve to be shouted at.
+
+“Enough about Penn. Three men have already been sent out to try to find him. Do we need to waste any more time or people?”
+
+“But, sir—”
+
+“Braddock, you’ve been here a long time. Do you really think Penn would have done something like this?”
+
+The constable could feel the pressure from all the listening ears. In defiance of them, he drew himself up and said loudly, “No, sir. I don’t.”
+
+“And I don’t care what the papers are saying. We have a job to do.”
+
+The room came back to life as the officers returned to their various tasks.
+
+Ellsworth was briefing Haley on everything that had been done when the constable manning the front desk tapped on the inspector’s shoulder.
+
+“Chief Inspector, someone’s here to see you.”
+
+Haley turned and caught sight of the shamefaced man standing behind the policeman.
+
+“Jones,” Haley said.
+
+The reporter took off his hat.
+
+Haley ignored him and spoke to the officer: “I said no reporters.”
+
+“Inspector, please,” Jones begged, “I have to talk to you. It’s urgent.”
+
+“You’ve had your statement,” Haley said. “Get out of this station.”
+
+“I’m not here for the Quotidian! This is a personal matter.”
+
+“I’m busy.”
+
+“It will only take a second. Please, Chief Inspector.”
+
+Haley put the papers he was holding down on the desk beside him. “You have one second.”
+
+Jones pulled a folded letter from his pocket and passed it over. Haley broke the seal and ran his eyes over the contents. He looked at the reporter.
+
+“Do you know what’s in this letter?”
+
+“No, sir. Not a word.”
+
+Haley folded the paper back up. “Excuse me, Ellsworth. I need to have a word with Mr. Jones.”
+
+Haley drew the reporter over to an empty corner of the office. The two of them spent the next three minutes in a conversation conducted entirely in whispers. Ellsworth couldn’t help stealing a few glances. He almost felt bad for the reporter. Whatever Jones was saying, he was obviously upset, and whatever Haley was hearing made him scowl in a way the sergeant had only seen twice before.
+
+Those were…memorable times.
+
+When the two men broke away, Martin Jones left. Haley returned to the map and picked up the papers he’d been holding, but rather than resume his work, he handed them to Ellsworth.
+
+“Something’s come up,” Haley said. “I need to leave.”
+
+“You’re leaving?”
+
+“Carry on as you have been. If anything new comes in, let me know. You know the number to my flat?”
+
+“Well, yes, sir—”
+
+“Call me there. If I don’t answer, assume I’m on my way back to you. If the new information requires an immediate choice, I want you to make it.”
+
+“Me?”
+
+Haley stopped and put a hand on Ellsworth’s shoulder.
+
+“Darcy, I trust you. You’re smart and well trained—”
+
+“Well, I would hope, as you’re the bastard that trained me!”
+
+Haley smiled. “As I said, you’re well trained, and I will support you, whatever happens. I’m sorry. I know this is asking a lot, but I promise I’ll do everything I can to get back to you as quickly as possible.”
+
+“Sir, does this have anything to do with Lady Serrs’ kidnapping?”
+
+“I don’t know yet.”
+
+Ellsworth offered his superior a reluctant nod. As Haley turned to leave, the sergeant said in a subdued voice, “Sir, about those three men.”
+
+Haley glanced around the room, then stepped closer so Ellsworth could speak quietly.
+
+“I’ve put one man out on each of them. I didn’t—I didn’t know if I could assign any more.”
+
+“Milford?”
+
+Ellsworth nodded.
+
+“That’ll do then. Are they good officers?”
+
+“Very reliable. Very…discreet.”
+
+“Thank you. You’ll hear from me soon.”
+
+Braddock sidled up to the detective sergeant as Haley left.
+
+“Where’s the chief inspector going?”
+
+“His flat. Evidently.”
+
+Braddock snorted. “Good. We could use something new to work with.”
+
+Ellsworth eyed his fellow police officer. “Maybe he’s going to take a well-earned break.”
+
+One side of Braddock’s mouth lifted in a smile, and he gave the sergeant a look that said, “You don’t believe that any more than I do.”
+
+They both turned to the map on the wall. It was already disfigured with pencil markings and pins.
+
+“Why is Haley in charge anyway?” Braddock asked under his breath. “I mean, the daughter of a duke? Doesn’t it seem like something the superintendent would want to take charge of?”
+
+“Aubrey-Serrs requested him.”
+
+The constable let out a low whistle. “That might be trouble.”
+
+“I don’t know. Would you want to be in Haley’s place?”
+
+Braddock didn’t have to think about it for long. “Maybe you’re right.”
+
+Another constable came up behind them. “I have the sandwich you asked for, sir.”
+
+Ellsworth sighed and had him put it on the desk.
+
+Haley didn’t bother bringing out his key. He knew his door would be unlocked.
+
+He was right.
+
+The front room was dark, but he could just make out the form of someone sitting in one of his chairs. When the inspector flicked on his electric lights, Penn winced at the sudden illumination.
+
+Haley dropped his hat on the side table and advanced toward the thief.
+
+Ryce stood up with his hands raised. “Haley, I understand why you’re upset—”
+
+The chief inspector took him by the lapels. “Three hours ago, I stood in a room with the two highest ranking officers in the whole damn country, and I fought for you. I told them that you had nothing to do with this!” Haley’s teeth were bared. “You break into my home and send me a letter saying that you know where she is? How, Penn? How do you know?”
+
+“Because it’s my fault she’s been kidnapped.”
+
+For one second, Penn wondered if he was going to die. Then Haley dropped him and wandered toward his kitchen.
+
+“I need food,” the policeman muttered. He said over his shoulder, “Tell me everything.”
+
+Ryce followed him. “Do you know Maddox Farnham?”
+
+“I’ve heard of him. Several outstanding warrants. He was suspected in the Chessford robbery, but there was nothing we could prove.”
+
+“He was guilty.”
+
+“I believe you. It looked like his work.” The inspector threw together whatever ready food he could find and leaned back on the counter. “What does this have to do with Miss Serrs?”
+
+As the thief talked, the inspector ate.
+
+“Farnham and I don’t get along. We have incompatible philosophies, and he has this terrible habit of thinking that thieving is some kind of competition. When he learned I was looking at the Nahdi collection, he decided that he would do the honors before I could.”
+
+Haley paused with a torn piece of bread in his hand. “Three men were killed in that job.”
+
+“No,” Penn said. “It was two men and a mother. The child watched.”
+
+The inspector pushed his plate away. “Talk faster.”
+
+“I was…angry. I didn’t think that Farnham had any right to profit from those murders.”
+
+“You stole the loot from that job—you stole it from him.”
+
+“Well, he didn’t have any right to it!”
+
+“Neither did you.” Haley took a breath and said, “Keep going.”
+
+“I didn’t realize he would be so sore. The game I played was a fair one, but by stealing from him, he thought I had somehow undermined his power. He didn’t like that. He’s been hunting for me ever since. I wasn’t worried—you would know, I’m not the easiest man to find—but now…he thinks he’s found some leverage.”
+
+Penn knew Haley understood; the inspector had grown increasingly pale as they spoke. It was a twisted game, and the thief hated himself for being a coward.
+
+Who would be the first to say it?
+
+Lucas Haley proved to be the braver of the two of them: “He has Eleanor, doesn’t he?”
+
+“He took out a note in the Quotidian,” Penn said, “and he left the ransom letter with Jones.”
+
+“Does he want the collection back?”
+
+“He wants my head on a platter.”
+
+“Then give it to him!”
+
+Penn held up a hand. “All right. I get it, and maybe I would feel the same. But that won’t save Eleanor. The man is violent and self-protective. She’s probably safe right now because hostages are useful, but before we go chopping off my head and giving it to him, we need to get her out of there.”
+
+“Do you know where he is?”
+
+“Farnham told me where I could find him. He expects me to come alone. He knows I won’t risk my men for this—”
+
+“He can’t possibly know that.”
+
+“He knows. This isn’t some job where we can all split the rewards. This is me, paying for a bad call. I can’t ask them to be killed for something like that.”
+
+“So you came to me instead.”
+
+At first, Penn didn’t answer. Haley looked at him. Every line in the thief’s face showed grief and frustration.
+
+“Haley, I had no one else to go to. I know you said I can’t ask you for anything, but I need your help. Farnham has at least eight men. They’ll all be waiting for me. If I go alone, I’ll probably die before I get the chance to rescue Eleanor.”
+
+The inspector pushed off the counter. “It isn’t your job to rescue Miss Serrs,” he said. “It’s mine.”
+
+Penn followed Haley as the inspector walked back to his front room.
+
+Haley picked up his hat. “Give me the address.”
+
+“Inspector, I think we should work together.”
+
+“I don’t work with you.”
+
+“You’ve done it before.”
+
+Haley stopped and turned to the thief. “Are you going to hold that over my head for the rest of my life? Go ahead, Penn. Tell my superiors. All they want is an excuse.”
+
+Penn crossed his arms. “I wasn’t going to tell them. You think I’m going to walk into a police station? I’d be arrested before I could talk! And when I did talk, all you’d have to do is deny my accusation. I have better things to do than break out of prison.”
+
+There was a silence.
+
+In a disbelieving voice, Penn said, “You hadn’t thought of that, had you? It never occurred to you that you could simply deny it. God, you’re a piece of work! Look, I wasn’t threatening you—I was trying to make a point. You used me because you knew there were things I could do that you can’t, and you know there are more important things in this world than catching me. If that was true then, it’s a hundred times more true now. You can’t even enter a building without announcing who you are, but I can sneak in, get to Lady Serrs, and get her out of there before the fighting starts.”
+
+“Then what do you want from me?”
+
+“A distraction. Bring a squad—bring a platoon of men. You may need them. You keep their attention away from me, and I’ll get Lady Serrs away from them. What do you think?”
+
+Haley ground his thumb and finger into his temples. His whole body sagged. “I think it won’t be that easy.”
+
+“Why?”
+
+“A move like that would require a warrant or permission from a superintendent, and I can’t get the warrant without explaining where the information came from.”
+
+“Then get permission!”
+
+“My superiors don’t like me!” Haley noted the thief’s shock and grumbled, “They think I bought my rank.”
+
+“Did you?”
+
+Haley glared. “I did not.” He looked away. “But it’s tantamount to the same thing when my father writes to a few of his friends and I’m fast-tracked to becoming a chief inspector. I didn’t ask for it, but they resent me all the same. If I go to them for permission, they’ll fight and argue every step of the way. If Miss Serrs is with Farnham, we don’t have that kind of time to waste.”
+
+“Being a policeman must be hard.”
+
+The inspector raised his eyes when he heard the note of mischief in Penn’s voice. There was a twisted smile on the thief’s face.
+
+“Look at you. Such a good little boy. Always having to worry about what his superiors think. But me? Well I know what really matters, and I have to ask—what do your subordinates think?”

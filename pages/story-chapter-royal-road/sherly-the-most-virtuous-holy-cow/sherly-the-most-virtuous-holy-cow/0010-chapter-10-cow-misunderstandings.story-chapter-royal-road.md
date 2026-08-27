@@ -1,0 +1,195 @@
+---
+id: e80c40ff-ddb0-57f5-8a79-f21edbe3887b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10 - Cow Misunderstandings"
+slug: 0010-chapter-10-cow-misunderstandings
+partOf: sherly-the-most-virtuous-holy-cow
+position: 10
+ownLength: 2079
+unit: words
+publishedAt: 2025-08-21
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2536230/chapter-10-cow-misunderstandings"
+royalRoadId: "2536230"
+---
+
+Chapter 10 - Cow Misunderstandings
+
+”Why should we listen to you, little elf?” asked the boar-chilim.
+
+Sherly felt bad that she was disgusted by such an appearance. She knew, in this world, these sorts of people would be common fare. But to find the head of a boar stuck on the body of a man was all she had ever imagined a fantasy bad-guy henchman to be.
+
+It took all of her being to stop herself from saying anything mean, or anything that would be uncharacteristic of herself.
+
+Sorry, I was just so caught off-guard! She didn’t know to whom she was apologizing, but she thought it proper to do so.
+
+Only then did the boar-chilim’s words register for her. She turned to find Ishuin’s face twisted in a twitching frown. Mana surged around the elf, causing her hair and the ends of her clothes to float.
+
+“Call me little again, and I’ll put you on a spit roast and feed you to my crab, pig.” With a sharp thrust, Ishuin threateningly pointed her spear at the boar-chilim.
+
+Sherly’s jaw dropped as she stepped back from the elf’s insult. She turned in horror, looking at the thug, who was as shocked as she was.
+
+“Crab?” One of the human bandits asked, leaning forwards. “Wait… That’s Ishuin Sheergale!”
+
+The bandit dropped his sword and attempted to run, but the tall boar-chilim grabbed him by the collar, lifting him and putting him back where he just was.
+
+“Ishuin Sheergale, bah!” The boar man laughed, a deep cackle followed by loud snorts. “Sure she is! And I’m Braum Alloydroit, hah! Just because you saw a little elf, doesn’t mean—”
+
+A burst of sharp wind sliced across the boar-chilim’s shoulder, causing blood to spatter out from within. He let out a surprised gasp, before turning to Ishuin, anger riddling his face with lumps of dark mana.
+
+“What was that for!?” he yelled. “You asking to die right here? Right now!?”
+
+“I warned you, pig.” Ishuin flourished her spear, flipping it around her fingers like a playing stick before sticking its butt end on the dirt beside her. “Last warning, pig. Call me little again, and it’s your head for real this time. Then I’ll feed you to my crab.”
+
+“She’s talking about the Crustiatian Crabs, Pigmie,” said another of the bandits. “That’s Ishuin, no doubt about it!”
+
+“Pigmie?” Sherly asked, looking at the boar-chilim. She couldn’t hold herself back. Her suddenly starting to talk caused the four bandits to turn to her in surprise. She didn’t care. “Your name is Pigmie?”
+
+“Oh…” Ishuin began, scratching her head. “I was wondering why he wasn’t getting angry with my insults.”
+
+“Why would I be insulted with pig?” Pigmie asked. “More importantly, why is that cow talking?”
+
+Ishuin raised an eyebrow. “Seriously? That’s what you’re asking?”
+
+“What else is there to ask?” Pigmie grunted and snorted, trying to act tough. His wound was already healing. “If you’re actually Ishuin Sheergale? Bah! Don’t make me laugh!”
+
+“I am Ishuin Sheergale, you dumb pig!”
+
+The surge of mana Ishuin emitted caused winds that tore up blades of grass, scratched up the barks of the gigantic trees, and opened holes in the leather armor of the bandits. But despite her close proximity to the elf, Sherly was left completely unharmed.
+
+As for Pigmie and his thugs, their wounds were just deep enough to cause a few drops of blood to spill out. They looked completely unbothered by them, as far as Sherly was concerned. More than anything, she was shocked by how sturdy they were. Their expressions, however, said otherwise.
+
+“L-L-Lady Ishuin!” Pigmie squealed and dropped to his knee, the rest followed. “B-B-Beg your pardon, Priestess. What need do you have of small-time bandits?”
+
+“Eh?” Sherly tilted her head. “I didn’t expect bandits to be considerate. That’s some effective negotiation tactic.”
+
+In return, Ishuin raised an eyebrow. “What did you expect?”
+
+“Lots of grunting and fighting…”
+
+“Would’ve been our first choice,” said one of the hoodlums. “If it wasn’t for the Priestess of the Cancer.”
+
+Regardless of how they acted in front of Ishuin, the thugs still expressed an open curiosity towards Sherly. She didn’t mind being stared at. Even in her previous life, people had watched her race through the tracks. On that, she had talent. One could even say that she could outrun a horse.
+
+Sherly shook her head. No time to reminisce… I’m a cow, not a horse. I’m a cow, not a horse… Oh, for goodness sake, I know I keep asking this, but why a cow of all things!?
+
+“She getting possessed or what?” Pigmie asked as Sherly kept shaking her head.
+
+“Where’s your leader?” Ishuin asked, ignoring the question. “Let me speak with him.”
+
+Pigmie turned to one of his henchmen and gave a stern nod. Immediately, the thug went to his feet and entered the cave, completely displaying his panic in his movement.
+
+In the meantime, a certain lull dropped within them. And all the while, Sherly was enduring the curious looks of their potential enemies.
+
+“I’m a cow, I can speak, live with it,” she said finally.
+
+“Never seen a cow speak words my entire life!” Pigmie said. “A real, normal cow, I mean.”
+
+“I’m a demon-cow.”
+
+Pigmie and the others gasped all at the same time. They were so in sync that Sherly thought they were comically hilarious. If only those noises of disdain weren’t directed at her.
+
+“Lady Ishuin!” started the boar-chilim, his round snout shaking. “Why would you bring such a creature into the Managrove? She’ll burn the entire place down!”
+
+“Excuse me!?” Sherly interjected. “You can hear me talking to you, right?”
+
+“Yes…?”
+
+“You see me standing here, right?”
+
+“Yes…?”
+
+“And you see me not burning anything, right?”
+
+“Yes… Yes, I think so.”
+
+“Which means I’m a perfectly reasonable demon-cow, who will not burn this forest down, correct?”
+
+“No!” Pigmie shook his entire face, causing snot to splash all over his henchmen. “Demon-cows burn everything in their path!”
+
+“What!?” Sherly couldn’t believe what she was hearing. “What the hell is wrong with you people?”
+
+“She said the h-word!” said one of the bandits. “She’s evil!”
+
+“Wha—?”
+
+“People,” a deep voice began from within the cave. “Let’s stop making fun of the poor cow. You all know what she’s going through.”
+
+As the bearded man joined his companions, the boar-chilim and the other men began laughing. One by one, their leader lightly tapped their foreheads as a form of scolding. They eventually settled down into annoying giggles.
+
+“Apologies, little cow, Lady Ishuin, for my men’s actions.”
+
+The man made a slight bow. Human, Sherly noticed. Muscles rippled throughout his body, almost popping out of his leather armor. Even without touching it, she could tell how rough and weathered his skin was. But the one thing that confused the cow the most, was how such an old looking man looked way more combat ready than the other bandits beside him.
+
+“Braum Alloydroit,” Ishuin said, returning the greeting. Whether she had accepted the apology or not, Sherly didn’t know yet. “Your new recruits seemed to have made a ruckus in Crossmark.”
+
+“A pack of demons attempted to attack Crossmark,” Braum began. “Naturally, I sent my men to protect the town. But you know how we’re looked upon by these common folk. We’ve chosen to hide here and regroup before continuing on our way.”
+
+“You know things would be easier for you and your men if you just returned to us, right?” said the elf. With a flick of her wrist, she dismissed her spear. It dispersed into nothing, leaving motes of mana.
+
+“There’s no point in bringing up the past, Lady Ishuin. My men were thrown out of the fold, and so that shall remain.”
+
+“Umm… excuse me…” Sherly started, causing the two to turn to her. “Context?”
+
+Ishuin cleared her throat. She gestured to her side, presenting the man, Braum.
+
+“This is Braum Alloydroit, a former captain of one of the fifteen Cancer’s Claws.”
+
+“Former?” Sherly remembered her manners and made a slight bow. “Oh, it’s an honor to meet you, Sir Braum Alloydroit. I’m Sherly.”
+
+Again, Pigmie and his gang gasped. This time, however, not out of fake disdain, but out of amazement. And this time as well, Sherly actually found them funny.
+
+“Such a polite, little cow,” Braum began, returning a bow. “Greetings, Miss Sherly. My men could use some of your politeness.”
+
+“So what’s with you being so-called bandits by those people in Crossmark?” the cow girl asked.
+
+“We were mistaken for hoodlums,” Pigmie explained. Braum turned aside, allowing for the boar-chilim to continue. “‘Course those folks only cared that they were safe. Didn’t matter who was saving them. Then after we took care of those demons, they thought we were the monsters! Someone screamed, caused a panic, then things went out of control. So, of course, we ran away.”
+
+“And there you have it,” Braum concluded. “I was deep in the center of the demons’ line, making sure we kept as many of them out of Crossmark as we could. When the dust settled, it was already too late to explain to a frenzied crowd.”
+
+“What about now, then?” Sherly asked. “If you go back now, while nothing bad is happening, you should be able to enter.”
+
+“Well, we can,” Braum cleared his throat and scratched the back of his head. “It’s just that we can’t move right now.”
+
+His eyes turned to Ishuin, and as if a secret communication was done between them, the elf quickly understood.
+
+“Someone was touched?” she asked.
+
+“Many.”
+
+“Touched?” Sherly asked.
+
+“Demon-touched,” Ishuin explained. “Some demons carry a plague with them. Anyone they injure can get afflicted, and become demon-touched. It starts with nausea and fever. Then loss of appetite and vomiting. The color of their skin turns red and their eyes bright yellow, as their condition worsens. Then they turn to demons themselves, with a craving for humanoid flesh. The entire process takes a week, and they’re in excruciating pain the entire time. How long has it been?”
+
+“Four days,” Braum said. “We planned to execute them tonight, if we didn’t find any help.”
+
+“Tonight?” Sherly asked. “But there’s three whole days left!”
+
+The look everyone gave her immediately told the cow of how wrong she was. As if she was a stranger or a foreigner who didn’t know of their customs. Which was, technically speaking, true.
+
+Only Ishuin was aware of the situation. “In this world, a week is five days, Sherly.”
+
+Braum raised an eyebrow. “You mean to say, you’re not from here, Sherly?”
+
+Internally, the cow girl sighed. There was no use hiding this information now, anyway. At the very least, she hadn’t seen any negative reactions to the fact that she wasn’t from this world. Almost as if it was a usual, or at least not unheard of, occurrence to them.
+
+“I’m not,” Sherly admitted. Though she felt like she was being forced to speak of the topic again, one where she already wished to move on from, she knew there would be no escaping this explanation. If she were to gain their trust, she had to be honest and patient.
+
+“I was once human,” she continued. “Where I came from, our week was seven days.”
+
+“I see,” Braum said, nodding with understanding. Sherly felt his expression had a tinge of pity that he had quickly forced to disappear. “In here, it is five. Thirty hours per day, if you’re interested. Sixty minutes per hour, sixty seconds per minute. We have six months, and every month is a hundred days.”
+
+Sherly blinked. “I’m not the first person you’ve met who’s from another world!”
+
+“Yes, but I’m afraid that explanation will have to wait.” Braum turned to Ishuin. “Now that you’re here, my demon-touched men have a fighting chance. What do you need?”
+
+Ishuin smiled and turned to Sherly. The cow girl felt a wave of trepidation pass through her entire body. She felt as though the elf had found a sudden use for her. And while the plan didn’t seem to contain any evil intentions, she still didn’t appreciate that evil smile.
+
+“Unirat horns,” Ishuin said. “Lots of unirat horns, Sherly.”
+
+“Don’t say it like that, Ishuin,” Sherly sighed. “I almost thought we were going to war.”
+
+This time, everyone, not just Pigmie and his gang, gasped.
+
+Sherly sighed and turned back, heading the opposite direction.
+
+“Whatever… I’ll go look for your stupid unirats.”

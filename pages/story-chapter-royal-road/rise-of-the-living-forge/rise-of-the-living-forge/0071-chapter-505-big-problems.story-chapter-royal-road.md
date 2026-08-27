@@ -1,0 +1,145 @@
+---
+id: abf185a9-17f1-5259-b692-648a6cd6efc0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 505: Big Problems"
+slug: 0071-chapter-505-big-problems
+partOf: rise-of-the-living-forge
+position: 71
+ownLength: 1876
+unit: words
+ownProgress: 1876
+publishedAt: 2025-10-21
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2693994/chapter-505-big-problems"
+royalRoadId: "2693994"
+markedReadAt: "2026-06-29T20:00:42.268Z"
+---
+
+Two had always considered himself something of a rather empathetic individual… but he preferred to keep a certain degree of professional boundary whenever possible with everyone he worked with.
+
+Eleven had been a bit of an exception. There was something about the way that she literally didn’t care about anything that stood in the path between her and the promised lands of a good night — or day — of rest that had always resonated with him.
+
+It was endearing. At least, enough for him to get himself assigned as her personal handler. Eleven was probably one of Setting Sun’s most capable individuals. She was also the laziest. Actually getting her to do the jobs she’d been assigned was, in most cases, a losing battle. One had made practically zero headway with Eleven before Two had stepped in.
+
+Providing her with incentives had eased things slightly. A fluffed bed here, a warmed pillow there, just little bits of motivation to keep her working. Small gestures. It really didn’t cost him much time or effort.
+
+And, though he never would have admitted it, he’d grown to somewhat enjoy their game. He looked for new ways to motivate Eleven to do her work, and she found new ways to finish it faster so she could get back to sleep.
+
+She was certainly an interesting individual.
+
+But, at no point in Two’s life, could he have ever said that he understood Eleven. He was certainly in awe of her. At times, he questioned how a being such as herself could have been born as anything other than a tree or a sloth.
+
+Two had simply never managed to truly comprehend what it was to be Eleven…
+
+Until today.
+
+Today, Two would have liked nothing more to bury his face in a heated pillow, turn the lights off, and vanish from the world until the sun demanded his attention once again. Everything finally made sense.
+
+A snore cut through the room — and his thoughts.
+
+Two’s eye twitched.
+
+He looked down at the source of his newfound kinship with Eleven.
+
+Lying before him upon on a bed of heated nails was Rodrick.
+
+And the man was, as if to taunt him, was asleep.
+
+“Wake up!” Two snapped, his exhaustion slipping out in anger as he grabbed Rodrick and gave the man a shake. “Would you stop doing that? This is meant to be training! Preparation! It does not work if you can’t be bothered to stay awake for it!”
+
+Rodrick’s eyes fluttered open. He blinked up at Two. Then his eyes closed again.
+
+“If you can’t be bothered to show me your real training, then you can’t blame me for relaxing. I have just as much respect for your time as you do for mine. What is this even meant to do? Tickle me?”
+
+It took everything Two had not to grab at his hair. His eye still managed to twitch.
+
+“What do you mean, what is it meant to do?” Two demanded. “Look where you are! How could you possibly not understand what is happening? You are lying on a bed of heated nails, spaced perfectly to ensure you can’t distribute your weight properly and avoid the discomfort! You should be—”
+
+“Asleep,” Rodrick interjected. “Come on. Where did you get this from? The Basics of Torture? This is pathetic. I’m not a fool, Two. You’ve gone and wasted multiple days on what can only be called child’s play. I will not continue to indulge you for any longer. Stop trying to hide whatever your true preparation is. You told me to prepare myself. I am prepared. So show me.”
+
+Two fought to draw slow, steady breaths. His eye was definitely twitching again. He gathered his emotions and forced himself to keep a flat expression on his features. The only one that controlled his emotions was him.
+
+“Fine. Get up,” Two said. “We’ll go—”
+
+“Finally,” Rodrick said with a bored sigh. He rolled off the bed of nails as if it were nothing more than goose feathers, rising right to his feet and sending a sharp look in Two’s direction. “Godspit, man. Took you long enough. I swear, if you take me to something pathetic like a sensory deprivation chamber, I’m throttling you. You’re not fooling anyone with these elementary strategies. Take me to the good stuff.”
+
+Two ground to a halt. His molars ground together.
+
+He had, in fact, been about to head for their sensory deprivation chamber.
+
+Somebody, please, save me. Please. I want to sleep.
+
+But no rescue was coming. The past few days had just gotten progressively worse. Things had started off solid enough. Rodrick had seemed enthusiastic to prepare himself to Sunset his class.
+
+He’d removed his armor, setting it aside in his room and following Two to get started with things immediately. It should have been simple enough. But that was where everything went downhill. Not a single one of his training methods had worked.
+
+Two had a specialized training plan. He’d used it many times before for new prospects. The focus was to build up resilience, both mental and physical. A series of increasingly difficult exercises that would systematically beat down upon someone’s mind and body to ensure they would be prepared to face the full might of a Leyline.
+
+Two had started off with basic physical endurance tests. He’d pushed Rodrick to the limit, making the other man run laps around the room, forbidding him from utilizing any magic at all.
+
+It was meant to go until Rodrick gave up.
+
+Instead, Two got bored.
+
+Rodrick had just. Kept. Going. He’d sprinted until he could do nothing but walk. He’d walked until he could do nothing but crawl.
+
+Not once did he ask to stop.
+
+It took nearly three hours before Two threw in the towel. Only then did Rodrick stand up as if nothing had happened, only to ask what the next task would be. The task hadn’t broken him at all. It looked more like Rodrick had just gone on a particularly difficult afternoon hike.
+
+Two had moved on to the next test. There had been a few people that had come before Rodrick with extraordinary physical capabilities. He wouldn’t have been the first one to be particularly good at one method of resistance training.
+
+But he was certainly the first to be good at all of them.
+
+It hadn’t been long before Two had moved from every single technique he knew. They tried all the methods that had broken countless men before Rodrick. They all failed. None of them broke Rodrick.
+
+If anything, Rodrick broke them.
+
+But Two couldn’t allow himself to fail in his task. He had to find a way to ensure Rodrick was prepared. The Leyline was like no other power in this world. And Rodrick had yet to come under even the slightest amount of strain from any of the training methods Two knew.
+
+So he’d had to come up with a few new ones. And then a few more. It hadn’t been long before he’d progressed to what could only be called straight up torture.
+
+And at the end of every attempt, Rodrick had looked over to Two, a completely straight look on his face, and asked only a single question.
+
+When are we going to start the real training?
+
+Two’s eye twitched again as the memory drilled into his head like a rusty spike.
+
+He hadn’t slept since the day Rodrick had shown up. The other man hadn’t let him. The idea of delaying his return to the Menagerie was the only thing that seemed to actually bother Rodrick. And, unfortunately, that meant it bothered Two as well.
+
+I am so tired.
+
+It had been at least 5 days since Rodrick had arrived. Two was pretty sure he had started to hallucinate. Eleven had suspiciously failed to make an appearance. He got the feeling that she was in bed, but he didn’t dare go check on her.
+
+If Two saw Eleven in that soft, gently warmed bed, he was liable to flop right into it alongside her.
+
+He couldn’t allow for that. He had a duty. Rodrick had to be prepared. Two had promised Arwin. He’d promised One. No matter how hard this absolute madman was to break and reform, he would find a way.
+
+A mantra echoed through Two’s head. It was one from an ancient script that One had given him, written by a sage of ages past as a guide to prepare oneself for the greatest of fights.
+
+“Everyone has a loose brick,” Two whispered under his breath. “And when it’s pulled, the whole castle comes crumbling down. Find your brick. Pull it out. Rebuild.”
+
+That was the only thing that kept him going. If he was lax in Rodrick’s training, that loose brick could spell the end for the man. The Leyline would use that weakness to completely crush his class, effectively destroying his future.
+
+I will find that loose brick, and I will—
+
+“And once your brick has been removed and your wall rebuilt… find the new brick,” Rodrick said from behind Two. “Then do it all again. And again. Until no brick that once stood still stands, and you are born anew. I remember that. Good book.”
+
+Two locked in place. Then, slowly, he turned toward Rodrick. “What?”
+
+“The book you got that quote from,” Rodrick said. “I’ve read it. I do much prefer the sequel, though. The first book was more of a primer for the basics. The second was a little more hands on... wait. Please don’t tell me that’s what you’re using for our next training exercise. Those techniques are completely out of date. You’re definitely not going to trick me into thinking that those are these legendary preparations you’ve been talking about.”
+
+“…there’s a sequel?” Two asked weakly.
+
+“Six of them, actually,” Rodrick said. “But the last one is written by the guy that killed the original author. I don’t know if it counts. It was a decent enough read, though. I suppose a few of the techniques in that one might be worth trying out. I never got a chance to find enough Death Shadow venom to submerge my body into. The acids are supposed to go right through the flesh and target the mind directly. Perfect training for the psyche… but I’ve only gotten my hands on a vial or two to try out. Do you have a few vats of it somewhere?”
+
+The manual that I’ve built my entire training program on… was just a primer?
+
+Two’s back hit the wall with a thunk. Rodrick’s claim should have been impossible. He’d never heard anything about a sequel to the sage’s work, much less multiple. But there was no other explanation for this… monstrosity of a man.
+
+The thoughts started to pour from Two’s brain like water from a draining tub. His mind just couldn’t handle anymore. He desperately needed sleep — and an escape from the madman he’d made the horrible mistake of trapping himself with.
+
+He couldn’t think of any explanation for a level of physical and mental resilience like what Rodrick had.
+
+No explanation but one.
+
+There was something seriously, seriously wrong with every single member of the Menagerie.

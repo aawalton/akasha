@@ -1,0 +1,247 @@
+---
+id: a4f24b1a-73b8-5bca-9445-f2cf258dd663
+page-type-slug: story-chapter-royal-road
+title: "345. Champion Part Five (End of Volume 5 Part Two)"
+slug: 0047-345-champion-part-five-end-of-volume-5-part-two
+partOf: salvos
+position: 47
+ownLength: 2857
+unit: words
+publishedAt: 2022-05-17
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/908833/345-champion-part-five-end-of-volume-5-part-two"
+royalRoadId: "908833"
+---
+
+345. Champion Part Five
+
+Belzu watched as the adventurers tried to flee. His army moved, intercepting them before they could get far. The Humans fought— a futile attempt at surviving. With a single swing of the Sword of Alexander, he’d wipe out dozens of high-leveled adventurers. Only their Elites stood a chance against him.
+
+His eyes flickered to the side. A red blur rushed at him, striking at his neck with a set of curved daggers. Belzu didn’t even need to dodge. Scarlet the Red Rose missed entirely, striking at an illusion. He swung back at her, and she leapt out of the way.
+
+“Pathetic.”
+
+The Primeval Demon spoke simply. A volley of arrows shot out at him, but he cut them from the sky. He fixed his gaze at the other Elite present. Tyrian the Brightsbane Archer. He nocked another arrow onto his bow. But Belzu just whispered.
+
+“Behind you.”
+
+Tyrian whirled around in a panic, loosing the powerful bolt at the image of the Primeval Demon behind him. It tore through the illusion, but didn’t actually reach Belzu. After all, Belzu hadn’t moved. The Primeval Demon cackled as he sliced down with the Sword of Alexander.
+
+The giant blade reached Tyrian from afar. He tried to jump back, but he was far slower than Scarlet. He screamed as his right arm was cut cleanly off.
+
+“Tyrian!”
+
+Scarlet shouted. She dashed for him, and Belzu moved to stop her. However a blast of golden flame shot him. He glared at the flaming figure above him.
+
+“You only have one final clone left. If you truly wish to save these people, show your real self so I can kill you instead.”
+
+The Salvos clone just stuck her tongue out at him. He replied with a curse.
+
+“[Desecration of the Mind].”
+
+She recoiled and flew off, clutching at her head in pain. It wasn’t enough to kill her on its own, but he knew he was attacking the real Salvos at the same time. And that was all that mattered to him.
+
+“Suffer, pest.”
+
+He watched as she scurried off, running once again. That was all she did. Belzu turned his attention to the more dangerous opponents present. The two Elites were huddled together. He could take them out with one fell swoop. Most of his Skills were on cooldown, but he still had the Sword of Alexander.
+
+Belzu grinned, creating an illusion to disorient them. The Elites moved around in a panic as it looked like the world was falling around them. The Primeval Demon flew closer, hidden from their view. He raised the Sword of Alexander—
+
+And paused. He heard a crash. He glanced down at the sphere that he’d been carrying, looking at a giant webbed crack running through it. His eyes bulged.
+
+“Impossible.”
+
+And the sphere that was carrying his world broke. It shattered completely, letting out everything he’d caught within. He watched bodies of monsters fell from it— dropping out of the sky one after another. Then there was a glint. A spear stabbing for his face.
+
+The Primeval Demon zipped back just in time to dodge Mori Gladius’ attack. The leader of the Remembered Order Company landed right next to his fellow Elites, spinning his spear as he took on a battle-ready stance. The adventurer army paused. Even the Salvos clone looked on in awe. Then they erupted to cheers as the Champions of the Human Lands stepped forward.
+
+“Primeval Demon! Your rampage ends here!”
+
+He declared. Belzu just stared in shock.
+
+“My Grand Skill… he broke through it…”
+
+It was now or never. Mori Gladius had revealed everything he had. Both his Grand Skills. Everything in his repertoire had been used up. He glanced back at his dwindling army. He barely had half the numbers he’d started with in such a short amount of time— and whether that was due to death or desertion, he wasn’t sure.
+
+But the Primeval Demon wasn’t going to let up. It would not stop until his army and the civilians they were protecting were all dead. After all, the Primeval Demon itself had lost so much from this. Its army of monsters, too, had been reduced. It hovered there, injured. Bleeding and hurt. If not to replenish its numbers, it would press on for the sake of its pride.
+
+The Primeval Demon raised a hand as its army gathered behind it. Monsters of all shapes and sizes listened to its call. Mindreapers flew alongside it as it cast a scornful gaze at Mori Gladius.
+
+“You grow conceited, Champion of the Human Lands. Your army is broken. You stand no chance against me.”
+
+Mori Gladius shook his head. That was true. He looked at how haphazardly scattered the adventurers were. They had no organization, unlike a proper military. But still, they were here. They fought on. And that was enough for him.
+
+He stood taller, shouting for everyone in his army to hear.
+
+“To me, adventurers of the Human lands! Help me bring an end to this plague! It has spread its pestilence for far too long— it has taken far too many lives! We don’t know who will be the next one to suffer by its claws. It could be your friends— your family!”
+
+The fleeing adventurers paused. They looked at each other, then at the battlefield. They saw the destruction that had been wrought. And they listened.
+
+“We have proven it time and time again through history. If Humankind bands together, we can achieve anything. A lone Demon cannot and will not bring us to our knees. We will not let it continue!”
+
+He brought his spear up, and there was a pillar of light shot up. The adventurers stared at him. At the Champion of the Human Lands. There was some hesitation. A moment of doubt. But they heeded his call. They put aside their selfish needs and desires, listening to his valor.
+
+“Now come! Let us put an end to this today!”
+
+And they cheered. The adventurers charged with him. He ran straight for the Primeval Demon. It rallied its own army, glancing back at the mindless monsters.
+
+“Slaughter them all! I shall gladly add your corpses to my numbers, you foolish mortal!”
+
+The Mindreapers raced forward. The [Gatho Mammoths] stampeded ahead. The Drakes roared as Saeves clung onto their backs. The undead sprinted until their limbs broke. They listened to the Primeval Demon’s command. Only a small section of the monster army stayed back. They hesitated, not charging straight into the fray, although the Primeval Demon didn’t notice it.
+
+Mori Gladius didn’t pay attention to them either. He didn’t even notice their haggard looks. They weren’t monsters or undead, but Humans. All the Champion of the Human Lands saw was his target. The Primeval Demon.
+
+He clashed with the front lines of the monster army. He ripped straight through the undead. The [Gatho Mammoths] were barely even a threat to him. He impaled a Drake, before bringing down a group of Saeves. A blast of mind magic struck him, causing him to stumble. Dozens of Mindreapers attacked him all at once.
+
+He glared up at them, but didn’t even get a chance to attack as a wave of golden flames incinerated the Mindreapers. The Salvos clone flew alongside him, giving him a thumbs-up.
+
+Then a flicker of red shot past him. Mori Gladius watched as Scarlet the Red Rose tore apart the front ranks of monsters, screaming at him.
+
+“Go!”
+
+He nodded as he charged on. A volley of arrows exploded ahead of him, blowing apart a group of Howres. He leapt atop a [Gatho Mammoth], boosting off it as a team of adventurers brought the monster down. He looked up above, spotting the Primeval Demon. As the battlefield raged on around him, he saw a Diamond Ranked adventurer fall from a sundering cut from the Sword of Alexander.
+
+The Primeval Demon caught sight of Mori Gladius too. Through all the fighting. It roared a garbled sound as he shouted.
+
+“I am the Champion of the Human Lands! Your reign of terror ends now!”
+
+He poured the last vestiges of his Divine Essence into the Bloodforged Lance. No more Skills. No more tricks. Just sheer power alone. The Primeval Demon screamed back as it swung down with the Sword of Alexander.
+
+“I shall not lose to a damn mortal!”
+
+They clashed mid-air. Their blades were locked for what felt like an eternity compounded into a single moment. A wave of energy burst out, knocking back those closest to them. Mori Gladius felt his power fading. He didn’t have much Divine Essence left.
+
+He grunted as he pushed on. The Primeval Demon stared, watching as the Sword of Alexander was pushed back.
+
+“No—”
+
+“This is over!”
+
+Mori Gladius yelled with all his might. There was a glimmer. And then a blast of Divine Essence exploded in all directions. The fighting below stopped as the shockwave pulsed out. The Primeval Demon looked on in shock as the Sword of Alexander itself went flying.
+
+Time seemed to stop. Everyone stared on, unable to parse what just happened. Mori Gladius overwhelmed the Sword of Alexander on his own. Even the Salvos clone wore a look of surprise on her face. The Primeval Demon just uttered one word.
+
+“How?”
+
+The Champion of the Human Lands grunted, bringing back his Bloodforged Spear. He remembered his Master’s words. The task that had been entrusted to him. This was it. He would not fail here. He thrusted forward, aiming for the Primeval Demon’s heart.
+
+“Because I am Humankind’s protector—”
+
+And blood went splattering out. It dripped down from the wounds, mixing together as everyone stared on. There was a gasp. No— gasps. The blood pooled together. Red blood. And… black blood.
+
+Both Demon blood and Human blood dripped down from the golden scales as everyone looked up. They froze at the sight. At their Champion as he was impaled alongside the terrible Primeval Demon.
+
+Mori Gladius trembled as he looked down at what was protruding from his chest. It tore straight through his heart. A golden thing. A… tail.
+
+A tail. It was hooked at the edge, with jagged barbs poking out of its side. It connected both Belzu and Mori Gladius. The Primeval Demon looked just as shocked as the Human man.
+
+A soft laugh broke the silence.
+
+“Oh, how lucky of me. I have caught two of my prey with a single hook.”
+
+The tail receded. Mori Gladius glanced back at the serpentine figure floating behind him. His eyes widened.
+
+[Hellprince - Lvl. 171]
+
+“Oh.”
+
+Mori Gladius said as he dropped from the sky. He stared up weakly at the red sky. At his new foe. And a final thought crossed his mind as darkness consumed him for the last time.
+
+I am sorry, Yves…
+
+Belzu coughed out black blood as the tail pulled out from him. He flew back, watching the Champion of the Human Lands drop dead. The owner of the tail tilted his head.
+
+“You’re quite durable for a mere insect, aren’t you?”
+
+“Levithus.”
+
+Belzu spat as he clutched at his wound. It wasn’t enough to kill him. Of course not. He was not a weak mortal who couldn’t survive without his head. Nor did he even have a heart.
+
+The other Primeval Demon, Levithus, just laughed.
+
+“Even with our King’s treasures, you are weak.”
+
+He held up the Sword of Alexander. It glimmered in the night sky. The sight of the Mythic Grade artifact broke the Human adventurers out of their stupor. They screamed, turning tails and fleeing.
+
+“Mori Gladius is dead!”
+
+Another person shouted, louder this time.
+
+“The Champion of the Human Lands has been killed!”
+
+Levithus barely even gave them a glance. His gaze was fixed only only Belzu. The Lord of Lies edged around the other Primeval Demon. Belzu would’ve fled immediately if he could, if Levithus didn’t have the Sword of Alexander in his hands.
+
+Belzu paused when he caught sight of a glint past the other Primeval Demon. And he decided to speak.
+
+“You are but a slave, Levithus. Even if you kill me today, you will always be weak.”
+
+“On the contrary, Belzu. I did not come here to slay you on our King’s orders.”
+
+“He is not my king.”
+
+Belzu snarled, but Levithus ignored him.
+
+“Rather, I asked our King to let me kill you. An insect like you deserves to be exterminated. And I desire the grand honor to put a traitor like you to death.”
+
+Levithus inspected the Sword of Alexander. The weapon flashed as he bared his teeth.
+
+“Then once I am done with you, I shall deal with these puny mortals—”
+
+But a blast of  flames interrupted him. Levithus spun around and caught a golden figure. The Salvos clone struggled as he coiled around her with his body. Her arm transformed into a scythe as she tried to cut her way free.
+
+“And what is this? An ally of yours? No—”
+
+Levithus narrowed his eyes, inspecting the shapeshifting clone.
+
+“How peculiar…”
+
+This was Belzu’s only chance. He pointed.
+
+“[Desecration of the Mind]!”
+
+Levithus recoiled. His eyes narrowed and he swung for Belzu. But the blade cut through only an illusion.
+
+The real Belzu appeared far away, already flying off into the distance. Levithus roared.
+
+“Coward!”
+
+His body tightened around the Salvos clone. She let out a silent scream before exploding. The blast barely scathed Levithus. The golden flames whipped around him, billowing smoke into the air. The flames wisped off him as he fixed his gaze at Belzu. He swung the Sword of Alexander down, cutting into the army of the Lord of Lies.
+
+Monsters fell by the dozens. Each swing took out a chunk of Belzu’s army. But they went scattering everywhere. Leviticus spun around, opening his maw and unleashing a torrent of black flames at Belzu’s direction.
+
+The blast shook the earth. It engulfed everything in its sight. But his targets… vanished. Illusions that had tricked him entirely. The giant serpent paused, floating in the air amidst gold and black fire. He glanced back at the Humans, then at one of the many Belzus in the distance. Both armies fled from him. Both sides were a fraction of their former selves. And Levithus spoke dangerously as flames licked out of his mouth,
+
+“Run, little insect. Flee with what’s left of your army. But know that your time is running out. Our King is here, and he shall cast his judgment on you.”
+
+With that, the battle was over. All six of my clones were dead. Killed by two different Primeval Demons. Hopefully, Jaakko, Zack, and Helen escaped. I tried to buy them whatever time I could by using my last clone to distract Levithus, but… he was far stronger than even Belzu.
+
+I couldn’t even hurt him. At all. So I just hoped that they escaped.
+
+I sat there, in the throne room of Alyras, far from the battlefield, just exhausted. And in pain. I’d taken a lot more damage than I wanted to when I hadn’t even participated in the fighting myself. Daniel once again asked me if something was wrong, and I finally decided to relay what had happened.
+
+A babbling of voices broke out. The Vampires and the nobles hurriedly gathered around to discuss the event. They spoke of Mori Gladius’ death. Of the second Primeval Demon’s power. And of Belzu’s defeat.
+
+I listened, not contributing much other than to clarify any questions. I was too worried. I hoped that my friends survived. And I wondered how I was even going to take on Belzu as I was, let alone Levithus.
+
+For the first time in my life, I felt like I could empathize with Daniel. I just didn’t want to think about my problems for a moment. But then all the discussion in the room came to a halt. Because, for the second time tonight, a messenger rushed into the room. And this time, I perked up at hearing what it was.
+
+“The Rising Veterans Company has arrived.”
+
+The messenger said to the king of Alyras before repeating himself for all to hear,
+
+“The first adventurer army has reached Alyras!”
+
+There were cheers. Relieved looks. Saffron smiled as she turned to her family, more confident than just a few minutes before. And I found myself getting excited too. Just not for the same reason as everyone else.
+
+I turned to Daniel. My eyes lit up. He gave me a knowing look. And I beamed.
+
+“Edithe is here!”
+
+End of Volume 5 Part 2 (Book 6)
+
+Author's Notes:
+
+So this was it. The end of Volume 5 Part 2, or Book 6. I quite enjoyed writing it, but sort of burned out towards the end. When I wrote this finale, it was 341-345 all-in-one chapter and I really liked how it turned out. Individually... I'm not sure if it's as impactful. Maybe I'll try more things out in the future, or maybe I won't. Either way, I hope you guys enjoyed reading it.
+
+P.S. pls follow my Twitter ty. https://twitter.com/melas_d
+
+Also, here's a new cover by FuyuDust!

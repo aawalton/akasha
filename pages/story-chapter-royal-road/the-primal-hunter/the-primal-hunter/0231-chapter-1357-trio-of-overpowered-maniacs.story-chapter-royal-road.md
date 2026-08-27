@@ -1,0 +1,139 @@
+---
+id: a8c7d3cf-9347-5686-b34d-78c2e9d8a6c9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1357 - Trio of Overpowered Maniacs"
+slug: 0231-chapter-1357-trio-of-overpowered-maniacs
+partOf: the-primal-hunter
+position: 231
+ownLength: 2817
+unit: words
+publishedAt: 2026-07-20
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3702233/chapter-1357-trio-of-overpowered-maniacs"
+royalRoadId: "3702233"
+---
+
+Was it relatively common for geniuses to “fall off” when evolving to a new grade? Sure. Was it also normal for some of the peak creatures of the multiverse to get a massive increase in power when reaching full maturity, making them overconfident? Again, sure. Both of those were very common things to occur... and honestly, the only reason Jake could see current events unfold.
+
+Because it had to be extreme overconfidence and a severe case of underestimation for the many B-grades who’d pursued Jasper and Sandy to dare take on the three of them. Taking on Jake alone would have been dumb, but all three? Yeah, that was just downright moronic.
+
+After Sandy and Jasper made their move, one sealing off the area and the other kidnapping a healer, Jake also made his move as a bow appeared in his hand and an Arcane Arrow Storm was unleashed, causing even more chaos among the many opponents.
+
+Jake knew there were, truthfully, only three people he had to pay attention to: the tracker and the two True Dragons. That didn’t mean he targeted those first, though, as he instead followed Jasper’s example by going for the healers first, after which the casters would be next.
+
+This would have been a tedious but entirely doable endeavor if Jake were alone, and he had assumed the presence of Jasper and Sandy to render some assistance, but he quickly realized that these B-grades hadn’t been the only ones doing the underestimation.
+
+Despite neither being combat-focused creatures, that didn’t mean they weren’t top-tier beings of B-grade and utter menaces in their respective fields of magic. Sandy unleashed space magic of an extremely high level while also just diving into the mass of B-grades, effectively splitting up the arena and making it difficult for any opponents to disturb Jake. Some tried to attack the worm, but Sandy surpassed even a Behemoth in sheer durability, allowing the worm to easily shrug off any attacks.
+
+Meanwhile, Jasper took people out one after another in a variety of tricky ways. The little guy teleported, phasing in and out of existence as he grabbed people one after another. Jake watched as the black dragon unleashed its breath towards him, and right as he dodged, a flummoxed mage appeared right in the Breath’s path, quickly finding himself consumed by the dark energies and killed.
+
+Others were merely deposited in the middle of an Arcane Arrow Storm right before all the projectiles exploded, while the lucky ones only found themselves teleported away from Jake or thrown into spatial jails created by Sandy, who continued dictating who was even capable of facing one another.
+
+Jake found himself alone against the black dragon and a few other weaker B-grades, a scenario he quickly found himself dominating even without the assistance of his two creations. While the black dragon was strong, she stood far from the peak of her race, making her unable to measure up to Jake.
+
+Arrows quickly tore through her scales as she fought back with what she had, but Jake truly was a horrid opponent. As a black dragon specializing in dark magic, it was only natural that part of her repertoire was ways to obscure herself and mess with others’ senses... something that had time and time again proven utterly ineffective against Jake. Even without his Bloodline, his massive Perception would have been enough for him to shrug off most of what she did, and the damage upon her body quickly accumulated.
+
+Sadly, before Jake could land a decisive blow, the second True Dragon broke through the roughly two-dozen layers of space summoned by Sandy, interfering in the fight. The tracker also tried to join, but Jasper was being a little menace and had teleported both of them who-knows-where. Jake couldn’t even detect them using his sphere, making it seem that they had entered some other “phase” of some kind.
+
+“I’ll try to get the second lizard away!” Sandy offered assistance, but Jake quickly answered.
+
+“No, it’s fine. More fun this way,” Jake said, a light smile on his face. Two True Dragons at once was at least a new experience, right? Sometimes, he just had to take what he could get.
+
+“Okey dokey, I’ll just play with the others and allow you three to enjoy yourselves,” Sandy didn’t argue, though the damn worm had to make matters worse with their next words. “Gotta appreciate the environmental advantage! No idea you were this adept at underwater combat; we should totally use that to our advantage in the future! Maybe I can drink an ocean and pour it out for you to fight within... Oh! I know! I could totally...”
+
+Jake zoned out at such blasphemous ideas, though he hated to admit that the damn space worm was correct. The underwater environment greatly benefited Jake and company, with those skilled in water magic quickly taken out of commission. All B-grades could somewhat ignore the water and fight mostly normally, but there were degrees to it.
+
+Sandy and Jasper didn’t care much as they teleported around or were used to moving through far more solid substances in Sandy’s case. Meanwhile, Jake had Primal Spirit of Man and Unblemished Arrows, making both his body and attacks far less negatively affected by the water than average. The two skills also combined nicely, resulting in him barely feeling any demerits.
+
+Meanwhile, the same couldn’t be said about the dragons. All their magic was harder to summon beneath the water; their attacks moved slightly slower, and the effect on the movement of their far bigger bodies was noticeable. It wasn’t that it significantly hampered them, but the fact that they were more affected than Jake made it a horrible environment for them to fight in.
+
+It turned a battle they already didn’t stand a chance of winning into an even more one-sided affair as Jake danced around the two big lizards, unleashing arrows upon them while dodging everything they tried to throw his way. He did have to use Eternal Shadow once to dodge a combined attack where they restricted his movements and unleashed two Dragon’s Breaths, but besides that, it never got dangerous.
+
+When they realized things weren’t going to go their way, they did something completely unsurprising: they tried negotiating.
+
+“Wait! Chosen, we see the errors of-“
+
+A quick exploding arrow sent the dragon tumbling back, as she nevertheless tried again.
+
+“We can reach a conclusion that-“
+
+Jake just saw all these attempts to talk as an opportunity to exploit openings, as he didn’t let up his assault for even a moment. He had already warned them before the fighting began to back off, and they had been the ones to insist on fighting. Jake was just giving them what they wanted, and it was far too late to back out. It wasn’t as if they would have agreed if Jake had been the one to surrender, as who could resist claiming the title as the ones to slay the Chosen of the Malefic Viper?
+
+The two dragons tried to negotiate for a few sentences longer, but quickly realized Jake had no words left for them, only arrows. Their final struggle was quite intense, with both dragons unleashing every shred of magic they had to try to take Jake out, making him use Gaze a few times before finally finishing off one True Dragon with a Protean Arrow and a detonated Hunter’s Mark.
+
+By that time, the other one was already significantly struggling and suffering from the high dosage of poison running through their system. With only one target left, Jake had far more leeway, and clearly, his opponent had also just given up at that point, barely putting up a struggle before being finished off.
+
+With both True Dragons dead, Jake was left with only one real opponent that was nowhere to be seen. Given that, he worked with Sandy to finish off all the remaining B-grades the worm had sealed off in their own small prisons of space mana, most of which didn’t try to fight back either. They knew this one was lost and that struggling would give them nothing. Usually, that would annoy Jake a lot, as their lack of struggle would make experience gain far worse, but more than half of the B-grades didn’t even give experience as they were lower-leveled than Jake, and even those that were higher than him were too weak to be worth much.
+
+This being a simulation became especially evident at the end of this fight, as they all knew that falling here wouldn’t mean true death. People would struggle a lot more if they risked truly dying. Then again, Jake also reckoned that many of these B-grades would never have dared taking him on if it had come with the legitimate threat of death. In this event, all they risked was being booted from the simulation for a month or being fully eliminated.
+
+Even in that scenario, they could still brag about being eliminated by the Chosen of the Malefic Viper and Boundless Hydra working together, with even an unknown powerful B-grades blessed by the Seeker mixed in... okay, not really the last one, as Jasper hid his status very well, but just being killed by two Chosen had to give plenty of bragging rights.
+
+Soon enough, every single B-grade but one was dead, the water full of blood and the occasional fleshy bit. With the many enemies dealt with, Sandy returned space to normal, and on cue, Jasper appeared, seemingly mid-battle with the tracker as the two parted after a clash.
+
+Floating in the water with a triumphant smile, the tracker pointed at Jasper, who had his claws out and tried to look intimidating.
+
+“Finally! You might have trapped me temporarily, but do you truly think that you can... can...” the guy said before he looked around.
+
+He found himself surrounded by death, including the pieces of dragons and humanoids that hadn’t been turned into blue wisps of light after their origins had died. With stiff movements, he followed Jasper as the Shimmershroud Planeswarper moved over and stood beside Jake, with Sandy floating ominously behind them.
+
+The guy stared for a few seconds before raising his hands in front of his body.
+
+“Look, I think we got off on the wrong foot, so how about we talk about this?”
+
+Jasper shook his head and pointed at the man with his paw. “Bad! Call me a naughty!”
+
+Jake raised an eyebrow and stared at the guy, who looked horrified as he explained. “Annoying! I said annoying!”
+
+“That makes a lot more sense,” Jake muttered.
+
+“Still rude,” Sandy commented.
+
+“Rude!” Jasper agreed.
+
+“Definitely not polite,” Jake nodded, contemplating whether they could perhaps get something out of the guy rather than killing him outright. “I do wonder how you plan on compensating us, considering-“
+
+Jake didn’t get further, as suddenly, an odd twisting wind enveloped the tracker, a triumphant smile flashing on his lips. Sandy instantly tried to lock down space again, and Jasper also made a move as all three of them realized the guy was using some sort of escape skill. He had only been talking to buy time for his escape until he could charge up this ability.
+
+In a flash, he half-disappeared as a powerful white wind shot through the water, the man likely believing he had successfully gotten away, as two words echoed through the water.
+
+“Event Horizon.”
+
+The already dark underwater world became even dimmer as only a single ring of light surrounded the tracker’s body. Distance seemed to stop mattering as arrows flew toward him from seemingly impossibly far away. The tracker kept escaping through the water, traveling hundreds of thousands of kilometers, even though it was hard to tell if he was even moving anywhere in the first place, as the darkness and ring remained, and the danger persisted.
+
+When his skill finally ran out, weakness flooded his body. He barely had time to strain himself and look back before an arrow struck him through the eye, making him fall backward, floating weakly through the water. A dozen more arrows struck him moments later, turning him into a pincushion, as he was already dead by the time the seventh hit, leaving his body floating through the water for a few seconds before turning into blue wisps of light.
+
+Far away, Jake lowered his bow once the kill notification came in. Sandy and Jasper were both staring at him, both looking perplexed.
+
+“That was weird. Not space magic, but looked very... spacey?” Sandy commented, sounding very unsure.
+
+“Super weird!” Jasper agreed, holding his paws to his head while looking confused. “Like phase, domain, space. But not.”
+
+“Not gonna try to explain it either,” Jake said with a smile, totally not because he wasn’t sure how his skill worked either. “Now let’s get the hell out of this place already.”
+
+“Sure, sure,” Sandy said, not intending to pry. “I’ll just ask Tom later. He probably knows how it works.”
+
+“Seeing as we can’t use this portal,” Jake muttered as he looked down at the still unstable space where the underwater lake had been. “I guess we should head towards one of the others.”
+
+His two travel companions didn’t have anything against that suggestion, perhaps also because they didn’t want to go through the same portal they’d entered this watery hellhole from. They didn’t have a very good reputation on the other side.
+
+Fortunately, with Sandy there, going to the next portal would be a lot faster than if Jake had to go by himself. Plus, he could even take a little break on the flight... swim... wiggle over.
+
+Jake was even a bit flattered after being eaten by Sandy to discover that the space worm still had a stomach reserved as Jake’s private room and lab in case he wanted to do some alchemy. What’s more, it had clearly been updated and fully prepared for a B-grade Jake.
+
+The trip to the next portal wouldn’t be that long, and Jake thought about doing some alchemy, as he could maybe get one potion batch done, but instead decided to be responsible. He received many system notifications after killing the B-grades, and since they were now in the Central Domain, they all looked a little different from before.
+
+You have slain [Blackcrest Dragon – lvl 358] – Bonus experience earned for killing an enemy above your level. 1154 Prima Credits earned.
+
+Experience-wise, the fight hadn’t really moved the needle much, as they had all been on the weaker end, but the gain in Prima Credits was not to be ignored. Each kill gave him at least 350 PC, as you got one per level of the person you killed, and most had at least gained a little since entering the Central Domain. The black dragon was the one with the most Credits, while the other dragon and tracker were not too far behind.
+
+With this many Prima Credits gained and having met up with Jasper and Sandy, Jake reached out to Miranda, feeling a bit proud of himself for remembering to do so. She quickly used her ritual to establish the connection, and she instantly had a good idea of why he’d reached out.
+
+“So, you either found a massive treasure hoard of some kind, or you killed a lot of people... seeing the way the Prima Credits came in, I have a feeling it’s the latter. Not complaining, we earned more than 50,000 Prima Credits, but I feel inclined to question the source,” Miranda said, not sounding concerned at all.
+
+“It is indeed the latter. I found myself in a... situation. Not caused by me, mind you. I happened to run into Jasper and Sandy, who had met up earlier, and as can only be expected, the two of them...”
+
+He proceeded to explain recent happenings, and Jake tried to guess all the factions the people he’d killed had come from, but he really had no idea. It did appear that not all the people Sandy and Jasper had pissed off proceeded to chase them, and that one guy from the Court of Shadows had also wisely bailed the second he saw them, so the two of them didn’t know who they’d killed either.
+
+By the time Jake was done, Miranda took a moment to contemplate.
+
+“So, in summary, Sandy and Jasper stole something, the robbed people came for justice and were killed as a result, and now you potentially soured relationships with the majority of large factions in the multiverse... guess it was only a matter of time, and at least you got decent Prima Credits out of it. Also, not really surprising, hearing those two are involved, and throwing you into the mix... yeah, that’s one trio of overpowered maniacs I wouldn’t want to run into either, much less be stupid enough to pursue.”

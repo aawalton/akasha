@@ -1,0 +1,480 @@
+---
+id: 228e200c-fdf0-5efd-b294-64891ef9c86e
+page-type-slug: story-chapter-written
+title: "Aelwyn"
+slug: 0002-aelwyn
+partOf: anthology
+position: 2
+ownLength: 4633
+unit: words
+---
+
+The door goes and she comes through it ahead of you, still on the last mile.
+
+"— and you did not know you had it, that is the entire point, you were done at the switchbacks, you told me you were done, and then you put four minutes into that last mile without me saying one word, four, I counted them, so we are never again going to have the conversation where you tell me what your ceiling is."
+
+She gets her boots off standing up, one heel against the other, and she does not stop talking to do it.
+
+The cold has come in with you both. It's on the coats, it's on the canvas of the bag she drops by the wall, and it's on her — the whole outside of her is cold, and when she turns to put a hand on your arm the cold of her fingers goes through the sleeve.
+
+"Second thing. You ate before we went up, which you have not done once in eleven months, and I want it noted, I want it in the record, I am noting it—"
+
+Her hand's still on your arm. Her fingers have not warmed up at all.
+
+---
+
+You take her hand off your arm and hold it.
+
+Both of them. She lets you have them, and keeps going about the mile, and the ends of her fingers are white to the second knuckle and the nails have gone a colour nails should not go.
+
+"— because a fed body is a different machine, that's not encouragement, that's the physiology, you gave me an extra four minutes because you actually had fuel in you—"
+
+You turn her hands over. The palms are cold too. Not cool. Cold like the outside of the door.
+
+"Anyway, so, tomorrow, we could look at whether the same shape—"
+
+You don't say anything.
+
+"It's not that cold," she says.
+
+The heater is on the far wall, one bar of it lit orange, and the room is warm two feet out from it and not warm anywhere else.
+
+"It's honestly not, it's mountain-cold, it's supposed to be like that, that's what makes it a mountain." Her hands are still in yours. "I do this every week."
+
+---
+
+"Okay, it's cold," she says.
+
+She says it fast and cheerfully, the way she says everything, and something in her posture goes very slightly straighter as she says it, up through the spine and out along the shoulders, which is what her body does instead of admitting things.
+
+You walk her to the heater. She goes, narrating.
+
+"This is unnecessary. This is very sweet and it is unnecessary, and I want to say — okay, that's warm. That's actually — huh."
+
+The bar of light lands on her from the knee up and the backs of her legs stay cold and the fronts of them stop being cold, and she stands there in the middle of the two of it and stops talking for a second and a half.
+
+Then: "Right, so, I'll do the tea and then we can look at—"
+
+"No."
+
+Her whole face does something. She has an entire sentence loaded and she has to put it down.
+
+---
+
+You sit her down on the rug in front of the bar and take her right hand and put your thumb into the middle of the palm and lean on it.
+
+"That's — okay." Her breath goes out. "Okay, that's the adductor pollicis, that's a real spot, you've found a real spot, I'm not going to pretend you haven't."
+
+You hold it. She doesn't take the hand back.
+
+"Normally I'm the one — this is the thing I do to *you*, is my point, I do this to your forearms after farmer's walks and you complain the entire time and I don't get any thanks for it—"
+
+You do the other palm.
+
+She stops mid-word this time. Her shoulders have come up around her ears and they are not coming down, and she is sitting with her back absolutely straight on a rug in front of a heater with both hands out in front of her like something being handed over.
+
+"Sorry," she says. "This is fine. I'm fine. Keep going."
+
+---
+
+She reaches for the tray on the low table because there is a tray there and it is a thing to do.
+
+You take her wrist and put it back down.
+
+"Right," she says.
+
+Her hands go when she talks. They have gone the entire way up the canyon and the entire way back down and every minute since the door, sketching the trail, drawing the switchbacks in the air, and now they are lying on her own thighs with nothing in them and nothing to do and you can see how much that costs her.
+
+"So this is a whole — I'm being a whole vibe about this, aren't I. Is that — do people still say that."
+
+"No."
+
+"They said it last year."
+
+"Two years ago."
+
+"TWO." One hand comes up to say something about it and she catches it doing it and puts it back down herself, which is worse. "Fine. Fine! I'm being weird because nobody does this. That's all it is. Nobody does this to me."
+
+---
+
+You work the cold out of her one finger at a time and she talks quieter than she has all evening.
+
+"They didn't let me get cold. At home." Her thumb moves once against your palm. "It wasn't a rule, nobody sat me down about it, it was just — there were people whose entire job was that I never got cold, and they were good at their job, and I was two hundred years old before I found out what cold does to the ends of your fingers."
+
+She looks at the bar of the heater rather than at you.
+
+"Then I came through, and it was February up there, and I got the whole set in one night. Cold, hungry, alone. Bang, all three, first go." A small laugh, real. "Very efficient, actually."
+
+Her hand has gone warm in yours and she has not noticed.
+
+"And then a person came up a trail who did not need me to be anything, and gave me his coat, and told nobody."
+
+---
+
+You put your hand on the tie at her waist.
+
+It's the only fastening she has. The robe is pale and thin and there is one knot at the front of it and everything else is hanging off her shoulders, and it has been that way since the door, and she watches your hand get there.
+
+"Yes," she says. "Obviously yes, I'm — yes."
+
+You don't pull it.
+
+"Oh, we're *doing* that, are we." Her chin comes up a little. "You're doing the thing where you—"
+
+You leave your hand where it is and put your mouth on the side of her neck instead, under the jaw, where the pulse is, and stay there.
+
+Her hand comes up and closes on your shoulder and holds on. Not guiding. Holding.
+
+"That's not—" she says. "Okay. Okay, that one's — do that one again."
+
+You don't.
+
+"Right," she says, to the ceiling. "Right, this is how it's going to be."
+
+---
+
+The knot goes when you pull it and the robe comes open down the whole length of her.
+
+She doesn't take it off. It hangs off her shoulders either side, and the bar of the heater goes up her from the shin to the throat, and every part of her the light lands on is warm now and every part it doesn't is not.
+
+Freckles across the nose, and more of them scattered down over the collarbones than the nose has, which is the part she thinks nobody has counted.
+
+"Say something," she says. "You're allowed to say something."
+
+You put the flat of your hand on her stomach.
+
+"Fine, don't."
+
+Her skin is hot where the bar has been on it and cool along the side away from it, and the two temperatures are about an inch apart across her ribs, and under both of them her breathing has gone shallow and quick and high.
+
+"That's not the cold," she says. "For the record. That one's not the cold."
+
+---
+
+She tries to run it.
+
+"Okay so — here's what we're doing." Her hand finds your wrist and moves it. "Higher. There. Both hands, and then—"
+
+You take your hand back off her and put it on her knee instead.
+
+"That is the opposite of the instruction I gave you."
+
+You do the knee. Slowly. The inside of it, and then two inches above it, and stop.
+
+"You're going to make me ask," she says.
+
+You wait.
+
+"I'm not going to ask, I'm the one who — I do the programming, in this — I set the *sets*—"
+
+You go another inch and stop again, and her whole leg goes loose and then tight.
+
+"Oh, that's *mean*," she says, delighted, and loud enough that the lampshade rings faintly. "THAT'S the one. Do you know how few people get to be mean to me? Nobody. Nobody gets to. Again."
+
+---
+
+You go for her ear and she catches your wrist an inch from it.
+
+"Nope. No. Everyone does the ears, everyone, in the first ten minutes, every single—"
+
+You take your hand away.
+
+She lies there for a second with her mouth open on the rest of the sentence.
+
+"Well now you have to do it," she says.
+
+You don't.
+
+"You have to do it *eventually*. You know that. You know I'm going to be waiting for it the whole—"
+
+You put your mouth on the collarbone instead, and then lower, and take her nipple in your mouth and hold it there, and the hand that was on your wrist opens and lands flat on the back of your head and stays.
+
+The sound she makes is not a word. Her ear comes forward out of her hair entirely on its own, turning half a degree toward the side of your face, and she does not know it has done it, and she is not going to be told.
+
+---
+
+Your hand goes between her legs and she is soaked.
+
+Not damp. Wet through, the whole of her, slick along the inside of both thighs where she has been pressing them together for ten minutes without mentioning it.
+
+"Right," she says, very fast. "Yes. That's — that's been happening since the palms, so."
+
+Your fingers move once through it, no pressure, just through.
+
+"Since the *palms*, I want that on the record, you did nothing, you sat there and did a thumb and I was—"
+
+You put two fingers in her cunt and she stops talking.
+
+Her back comes off the rug. The robe slides right off one shoulder. She gets a fist in the pile of the rug and holds it and her mouth is open and nothing is coming out of it at all, and the fire bar is lit orange all up the front of her, and she is looking at you.
+
+---
+
+She gets the coach's voice back with real effort.
+
+"Okay so — slower than that. Trust me on this, I know the — I know what I respond to, I have data, and it's slower and it's shallower and it's—"
+
+You go deeper and slower, which is half of what she asked for.
+
+"That's — that's not the—"
+
+Her hips go up into your hand and stay up.
+
+"Targets come from history, not optimism," she says, and it comes out wrecked, and she laughs at herself doing it. "That's mine. That's my line. I say that to *you*—"
+
+"Your history's wrong."
+
+"My history is *extremely* — oh."
+
+Her heel drags up the rug and her knee goes out and everything in her front opens, and her eyes have not left your face since the fingers went in.
+
+"Fine," she says. "Fine. You do it. You take the count. I'm — take it."
+
+---
+
+You take her knees apart and put your mouth on her cunt.
+
+She goes rigid all the way up. Both hands come into your hair at once and shut there, and her heels come off the rug, and the first sound out of her is nothing like her speaking voice at all.
+
+You do it slowly. You take the whole length of her with your tongue, flat and slow, once, and then again, and then hold at the top of it and stay there with no pressure while she tries to push up into it, and you don't let her have that either. She tastes of the salt off the trail and of herself under it. Her thighs come in against the sides of your head and the muscle in each of them is going hard and soft and hard.
+
+"Oh — oh, that's — *that's*—"
+
+Her hands are pulling and she doesn't know they're pulling.
+
+You take her clit into your mouth and hold it there and work it with your tongue and do not stop, and she stops making words entirely, and the sound she makes instead comes up out of the bottom of her chest and goes on and on.
+
+---
+
+She gets one leg over your shoulder and hauls.
+
+"Don't — don't do the thing where you—" It comes out in pieces, one word to a breath. "Don't stop. If you stop I will genuinely — I have never asked anybody for anything, I do the asking *of* people, and I am asking, so—"
+
+You slide two fingers into her cunt while your mouth stays where it is and she loses the end of the sentence completely.
+
+Her heel digs into your back. The pile of the rug is coming up in her fists. The robe is off both shoulders now and lying under her, and the bar of the heater is orange up the whole front of her body, and she is wet down the inside of both thighs and onto the rug.
+
+Her hips are going in a rhythm she is not choosing.
+
+"Look at me," you say.
+
+"What—"
+
+"Look at me."
+
+Her head comes up off the rug.
+
+---
+
+She looks at you and comes.
+
+Her eyes are green and open and locked on yours and they stay there the whole way through it. Her mouth comes open and nothing comes out for a second and a half — and that is the longest she has been silent since the door — and then she says *oh* four or five times in a row, small, each one shorter than the last, and the whole of her closes around your fingers and holds, and her thighs lock in against your head, and her back comes right up off the floor.
+
+Her face while it happens is not a face she has ever let anybody see. The queen posture is gone out of it entirely. The mouth is open and the brows are up and there is a crease between them, and her ears are back flat against her hair, and the freckles have gone under a flush that runs from the collarbones to the hairline.
+
+She does not look away. You watch her not look away.
+
+Then she comes down out of it in stages, and her leg slides off your shoulder, and she puts one hand over her own eyes.
+
+---
+
+"Say something," you tell her.
+
+She doesn't.
+
+That is the thing. She has a line for every single thing that has ever happened, she has a reframe loaded before the event has finished happening — a slip becomes tomorrow's start, a setback becomes the fuel, she is already mid-celebration before the thing is cold — and she lies on the rug with her hand over her eyes and her chest going and she has nothing.
+
+"Aelwyn."
+
+"Give me a — " Her voice has no bright in it at all. It's about an octave lower than she's been all evening. "Give me a second. I'm not — there isn't a thing to say. There's normally a thing to say."
+
+You take her hand off her eyes and she lets you.
+
+"That's the first time in eleven months," she says, "that I have not had the next sentence."
+
+Her hand is very warm now.
+
+"Do it again."
+
+---
+
+She sits up and gets your clothes off you, and her hands are not steady.
+
+That's the thing to watch. Her hands have been the most competent part of her all evening — they took the bag off you at the door, they got her boots off standing up, they have racked and re-racked a hundred bars — and the second button gives her trouble and she has to look at it.
+
+"Don't," she says, without you having said anything.
+
+She does the rest of them. She peels the shirt back off both shoulders and puts the flat of her hand on your chest for a second on the way past, as if checking something, and then gets your belt and does the buckle one-handed and without looking, the way you'd unclip a strap you've unclipped ten thousand times.
+
+Then your trousers, away over one foot and dropped where she is kneeling.
+
+Then she stops, kneeling up, both hands on your thighs, and looks at you properly with the bar of the heater orange along one side of her.
+
+"Right," she says. "Yes. Okay."
+
+---
+
+You get her onto her side against you and hold your cock against her cunt and do not put it in yet.
+
+"Oh, you absolute—"
+
+Just there. The whole of it lying along the wet of her, no pressure, going nowhere.
+
+"You *learned* that. You learned that from me, that's my — I do that with the last set, I hold the last set out in front of you and make you—"
+
+You move once, along her and not into her, and she stops.
+
+"Progression is the coach's job," she says, wrecked, and laughs at herself, and then, quieter: "Please."
+
+You push into her cunt slowly and in stages. A third of the way, and stop, and her breath goes out and does not come back for a moment. Then further, and stop again, and her hand comes back and finds your hip and holds on hard enough to leave something. Then the rest of the way in one long slow push, and she is hot all the way through and tight the whole length of your cock, and she makes a sound at the end of it directly into your throat.
+
+Neither of you moves.
+
+---
+
+She turns her head so she can see your face and keeps it there.
+
+"Don't rush it," she says. "I want — I want the whole thing, I want to feel every—"
+
+You fuck her slowly. Long and all the way, your cock out nearly to the end of her and back the whole length, and her leg comes up over yours to open herself further, and the rug is going under both of you, and the heater bar keeps the front of her orange and hot and the room behind her is dark.
+
+"That's — okay, that's the tempo, hold that tempo—"
+
+She is counting. She is actually counting, out loud, under her breath, the way she counts a set.
+
+"One. That's one. Two—"
+
+You put your hand flat on her stomach and press and she loses it immediately.
+
+"Three. No, that's — that was two, that was—"
+
+"That was four."
+
+"That was — " She laughs and it turns into something else halfway. "You don't get to run the count, I run the *count*, I have run the count for—"
+
+"Four," you say, and go deeper, and she stops arguing.
+
+---
+
+She comes the second time with her eyes open and her forehead against yours.
+
+It builds all the way up from her thighs and takes her breathing apart before it gets anywhere else — three fast ones and then nothing at all — and then everything in her clamps down and she says your name and it is the only word she gets out. Her ear is against your cheek and it is hotter than any other part of her. Her nails are in your hip. Her whole front is flush against your whole front and both of you are wet with it.
+
+"There," you say. "There it is. Say it again."
+
+She can't. She tries — you feel her try — and what comes out has no shape to it.
+
+And that is the end of you too, your cock buried in her and her locked around you, and you come in her in long hard shoves you have no say in at all, and she puts her mouth against your throat and holds on and rides every one of them and makes a small sound at each.
+
+Then nothing. The heater bar, and the two of you breathing, and the cold air on the parts of you the light doesn't reach.
+
+---
+
+She doesn't move and she doesn't say anything.
+
+You're still in her. Her leg is still over yours and her forehead is still against yours and she is shaking in a way that has nothing to do with cold, small and fast, all through the shoulders and down the arms, and it goes on for a while.
+
+Her hand comes up and lies flat on the side of your neck.
+
+Nothing for a long time. The heater bar ticks somewhere in its housing. Outside there is a car and then no car.
+
+"Mm," she says.
+
+That's all. Two letters, from the woman who has not stopped talking since February.
+
+---
+
+Then she gets up, and for the first time all evening she is the one doing the practical thing.
+
+She kills the lamp. She drags the heater round on its base until the bar is facing the rug square on, and she does that with her foot, unhurried, naked, and she squares it up with the edge of the rug because she cannot help squaring things up. She pulls the blanket off the back of the chair and shakes it out once.
+
+The room goes small. Just the orange bar and the dark past it and the ceiling gone away entirely.
+
+"Down," she says. "On your back. All the way flat."
+
+You go down.
+
+"Head *flat*. You're holding it up." Her hands come under your neck and lower it to the rug like something breakable. "Good."
+
+She pulls the blanket over the both of you and gets down along you and puts her whole weight on.
+
+---
+
+She is the warm one now.
+
+The whole front of her is hot from the bar and from what just happened, and she lies along you chest to chest with her leg over both of yours and her arms in under your shoulders, and she is heavier than she looks — she has always been heavier than she looks, it is all in the back and the legs — and she lets you have the entire weight of it rather than holding any of it up.
+
+The air has got at your arm where the blanket doesn't reach. She feels you notice and pulls the blanket without lifting her head.
+
+"There," she says, into your throat. "Nothing's holding. Nothing's got to be held."
+
+Her hair is across your face and it is still damp at the ends and it has gone warm.
+
+"Out through the bottom of it now," she says. "Longer out than in. You know this one."
+
+---
+
+You do it and she runs it.
+
+She does not say a word about what happened. She counts, and her voice comes down into something you have never heard out of her — low, unhurried, the exclamation gone out of it entirely, and slower than you would choose.
+
+"Out. All the way to the end of it, past where it feels finished — that last bit is the whole thing. Good. In. Don't help it."
+
+Her hand comes down flat over your heart and stays there and she starts counting that instead, under her breath, off her palm.
+
+"Ninety-two. That's fine, that's exactly where it should be, don't do anything about it." A long pause. Her thumb moves once. "Eighty-six. Out again. There. Seventy-nine. We are going down through the floors, beloved, one at a time, and there are more of them under you than you think there are."
+
+The bar of the heater goes on the ceiling. Your breathing comes down under hers and then hers comes down under yours and after a while there is no telling which is which.
+
+"Sixty-eight. The day burns off. It doesn't come back."
+
+---
+
+Somewhere down in that you put your hand up into her hair and take her ear.
+
+The whole length of it, base to point, in your palm.
+
+She doesn't say anything about everybody doing the ears. She doesn't say anything at all. Her breath goes out against your collarbone and keeps going out for a long time, and the ear turns into your hand and presses, and it is hotter than the rest of her by a long way, and she lets it stay there.
+
+"Mm," she says, eventually. "Yeah. You had that in your pocket the whole time, didn't you."
+
+Your thumb moves along the edge of it.
+
+"Everybody does it in the first ten minutes," she says, "and it does nothing, and it's *annoying*, and then somebody does it four hours in when I've got nothing left to hold the door with, and—"
+
+She stops and just breathes for a while.
+
+"Keep doing that."
+
+---
+
+A long while later she says something and stops in the middle of it.
+
+"Do you know what I — " and then nothing.
+
+Her hand goes still on your chest. It's the only part of her that ever tells on her, and it has stopped, and she leaves it stopped for the length of about four breaths.
+
+"There's a thing about my people," she says eventually, and her voice has gone careful in a way it does not go. "About what we can do. Once."
+
+You wait.
+
+"Not tonight," she says. "I'm not — that's not a tonight thing, and I'm not going to hand it to you at three in the morning on a rug with the heater on, because you'd take it seriously and I want it to be — no."
+
+She lifts her head just enough to put her mouth against the corner of your jaw.
+
+"Beloved," she says, and puts her head back down, and that is the whole of what she does with it.
+
+---
+
+"They used to carry me to bed," she says, much later, half into your collarbone. "At home. There were people whose job it was, and they were kind about it, and none of it was ever *for* me — it was for the rank. You get looked after your whole life and not one minute of it is about you."
+
+The heater ticks. Her weight has not shifted in a long time.
+
+"Two hundred years of being handled beautifully by people who would have handled anybody the same way, and then a man on a cold trail who did not know I was anybody."
+
+She goes quiet. Then, with something coming back into her voice, but only a little of it, and slow:
+
+"Your shoulders are down."
+
+They are. All the way down, both of them, flat to the floor, and you did not do it.
+
+"I'm not going to say anything else about it," she says. "Go to sleep."

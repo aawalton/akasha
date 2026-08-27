@@ -1,0 +1,121 @@
+---
+id: 2972a85c-c410-5df5-9920-4fdb89a99ac8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1313 - One Important Final Question"
+slug: 0187-chapter-1313-one-important-final-question
+partOf: the-primal-hunter
+position: 187
+ownLength: 2674
+unit: words
+publishedAt: 2026-05-15
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3399770/chapter-1313-one-important-final-question"
+royalRoadId: "3399770"
+---
+
+Time started passing by uneventfully as everything had calmed down, and they were all simply waiting for the Venusians to bring back lower-level individuals for Jake to potentially bring beyond the Boundary.
+
+The Arachnecs quickly had their candidates prepared as they had a fair number of noble variants available, though Jake still wasn’t sure if they wanted him to bring one of these nobles immediately or just one of their weaker non-sapient undead, like the Deathstalkers.
+
+Despite things being calm, there was definitely still a standoff-ish attitude between the horned frog, whom Jake learned was called a Horned Slayer after being able to use Identify on him, and the Nestmother. Old hatred wasn’t that easily extinguished, but at least they held back from attacking or even bickering with one another. They just tried to ignore each other while seemingly ready to react if the other party had any hostile thoughts.
+
+Seeing as they had at least a few hours to wait, Jake decided to reach out to a certain snake god he had been exploiting the existence of throughout this entire negotiation.
+
+“So, things aren’t going all-too-badly, are they?” Jake asked the snake god after a little while, hoping to get some good feedback.
+
+“I don’t know, are they?” Villy quickly answered in a cheeky voice. “I am impressed to see you use your head and words for once rather than jumping straight to intimidation. Oh, not to say intimidation is bad, but there is a time and place for such things, and I think you chose your timing pretty well. What you are doing is immensely risky, though, and I would personally have approached it quite differently.”
+
+“Do tell,” Jake asked curiously, still believing he had done a pretty damn good job.
+
+“Remember to keep in mind that we are quite different people, but what I would have done was to embrace the subordinate role and tried not to stand out, while selling the benefits of keeping me alive and as an ally. Clearly, they lack crucial information about how to leave beyond this Boundary, something I would exploit, a bit as you do. My plan would be to escort weaker B-grades into the Boundary, in part to confirm if that would allow me to take them out of it, and once I have this knowledge, as well as confirmation I would be able to leave on my own, I’d kill whoever was with me and pass through the Boundary alone. Then, I would seal off the entrance to Venus as best I could, only allowing it to be explored once I could assure the ones within are no threat. All the while never revealing my true identity, so if they ever do manage to get out in some way, they wouldn’t know who I was or how to find me.”
+
+Villy gave a surprisingly long explanation of how he would have approached things that definitely differed a lot from Jake’s. He’d never considered killing the ones he would try to take out of the Boundary and had admittedly probably revealed more information than he had to. Still, he felt the Viper’s approach had several flaws.
+
+“I have a hard time seeing how that would make the Venusians and Arachnecs amicable in the future to Earth, seeing as they’re my new neighbors,” Jake commented.
+
+“See, again, another difference between us. I would have no interest in making them amicable. I would only want contact when I could crush them with absolute power and force them to be under my control. That, or wipe them out entirely to be safe. If neither was an option, I would abandon my home planet and simply go somewhere else, as I was never the type to get attached,” the snake god continued, only making Jake think more.
+
+Truthfully, Jake only had an emotional connection to Earth due to who lived there, and if he could make them all leave, he wouldn’t care about the floating rock anymore either. Except now, with him being the World Leader and all the system events related to the Milky Way, things had gotten a bit more complicated.
+
+“Well, I prefer my method of making friends rather than enemies to dominate in the future,” Jake said.
+
+“They only view you as qualified to make friends with them because of the power behind you. Should they realize that your universe is heavily restricted and doesn’t have a single A-grade anywhere close to Venus, things could rapidly change. So I will at least recommend not revealing too much regarding that. Or be an entirely open book and reveal everything in the hope that friendship conquers all. It’s all your choice,” the snake god said, clearly finding this entire Venus journey very entertaining.
+
+“Yeah, yeah, I’ll continue to do my thing. If nothing else, this must count as proper Chosen work, right? I’m actively trying to recruit an entire Minor World into the Order. Well, recruit some of them. The Arachnecs definitely belong more with the Risen,” Jake said.
+
+“Let’s be honest here, should you succeed, all of that administrative work to make any faction of this world truly join one from the multiverse won’t be done by you. You’ll outsource it to that little witch of yours, who’ll probably end up being the ultimate beneficiary of your adventure,” Villy made a very truthful statement.
+
+“Yeah, probably, but let’s not put the cart before the horse,” Jake said, not really seeing what else to talk about besides shooting the shit. Oh, besides maybe one thing. “While it’s easier to ask for forgiveness rather than permission, I guess I should ask anyway... is it fine if I give out a Blessing or two?”
+
+“Sure, you do you. I’ll even make sure to really let them experience divinity when you give it,” Villy said, sounding like he was looking forward to Jake doing it.
+
+After that, they severed the connection, and Jake went back to just meditating in the midst of the many A-grades for the next few hours. It did suck he couldn’t do alchemy, as he didn’t think it was a good idea to reveal his ability to create potions and such right now, and while he wanted to, it wasn’t enough time to meditate and seek out the Gate of Enlightenment either.
+
+Thus, Jake focused on Palate and on refining the atmosphere of Venus. He’d already benefitted plenty from his presence there thus far, and this world was practically a paradise for someone like him. The air was a mixture of several powerful toxins, with a few especially more prominent than any other. Moreover, these toxins were entirely unique and not something Jake believed existed anywhere else in the multiverse.
+
+Given the mist and whatnot covering everything, and partly due to insight from Palate, Jake believed the primary source of all the toxins in this world stemmed from what the natives called the ocean. That, or the ocean was just the place where these toxins were most concentrated.
+
+He wouldn’t be surprised if several members of the Order wanted to spend some time in Venus after reaching B-grade in the future. It really was a great place, though most people would probably disagree that a toxic world was somewhere one wanted to be.
+
+Jake did also, admittedly, find it a bit coincidental that this kind of Minor World could be found right next to Earth, which was ruled by the Chosen of the Malefic Viper. It could just as easily have been a world of extreme heat, full of lightning, wind, and so many other things, assuming it was a world focused on maintaining a certain kind of atmosphere. Shit, it could even have been the most cursed of existences: one giant water world. Jake knew those existed, and he would avoid them like the plague. Okay, that saying didn’t really work, since Jake would actively seek out plagues out of sheer curiosity...
+
+Anyway, time continued to pass as Jake and all the others patiently waited, no one speaking or asking any questions. The atmosphere also seemed to grow a bit tenser with time, as every passing second brought the possibility of something unforeseen. The two factions also had a deep level of distrust for one another, and both the Nest Mother and the Horned Slayer likely feared that the other side was secretly trying to bring overwhelming reinforcements and go back on the current agreement.
+
+Fortunately, nothing bad came to pass, and soon, Jake felt the approach of a familiar, powerful aura. He held back from revealing he’d noticed their approach until the A-grades turned their heads, at which point Jake did the same, and shortly after, space quivered as the Oracle reappeared.
+
+With her, she’d brought a few dozen Venusians, with all of them in B-grades besides two who were only in peak C-grade. They all looked positively younger than the others, though they were definitely still considered fully grown.
+
+However, what Jake noticed first were five familiar frog faces.
+
+“Seems like you all made it back safely,” Jake said with a smile to the Shaman, who also looked at Jake with relief in his eyes.
+
+“Due to your actions, we indeed did,” the Shaman nodded with a smile, and Jake also saw the gratitude on the faces of the other four Venusians. “It pains me that you had to sacrifice yourself and be captured by the Arachnecs due to my negligence.”
+
+“I take offense at that representation of events,” the Archweaver said, tilting his head slightly. “The Envoy is a guest whom I invited back to the Nest. Were there perhaps implications of duress involved? Yes, but no harm was ever wished upon the Envoy, and he was never treated unfairly.”
+
+“Let’s just conclude I was willingly kidnapped and not rehash old conversations,” Jake held up a hand, putting that line of argument to a stop immediately, as they’d already had it once.
+
+Looking at the Shaman, Jake wondered out loud: “Say, are you five candidates to potentially go beyond the Boundary?”
+
+“Indeed, we are,” the Shaman confirmed, also not arguing with the Archweaver or pressing his prior point. Jake wasn’t entirely sure it was due to what Jake had said, or due to the sheer fear that the Shaman clearly felt for the Arachnec, once more making Jake think that Archweavers were a lot scarier variants than Jake assumed.
+
+“Though, for transparency, I do also believe we were brought because of our familiarity with you,” the Shaman continued. “I’m fully aware that there is a good chance we cannot go with you beyond the Boundary, even if we are more than eager to try.”
+
+“We’ll find out soon enough,” Jake smiled. “Though I don’t think it would be a bad idea for you five to be part of the first group. You are nicely in the middle between who I think can and can’t leave.”
+
+“I shall certainly bring that up to the Oracle,” the Shaman nodded.
+
+Speaking of the Shaman, the Venusian went and quickly talked to the Horned Slayer, and soon after, the Nestmother spoke up, her patience having reached its limit.
+
+“Now that everyone is here, let’s move towards the Boundary and find out how to move beyond it,” she said, already setting her gaze towards the horizon.
+
+The Venusians shared a glance before agreeing. Jake also nodded as he looked at the A-grades.
+
+“I take it you all will help make travel a bit faster?”
+
+“This Nest is connected to a Tunnel Mound very close to the Boundary, so using that would be fastest,” the Nest Mother said, but it quickly became clear the Venusians weren’t keen on that idea.
+
+“You want us to wander into your Nest and trust you to safely take us through that accursed portal of death?” the Horned Slayer scoffed. “What’s stopping you from dragging the human through and leaving the rest of us behind? Or maybe there’s some hidden mechanism in the Tunnel Mounds that allows you to transport us elsewhere. Excuse my skepticism, but we Venusians aren’t exactly clear on what hidden traps those damn things might hold.”
+
+“Please, at this point, what would be the gain from killing just a few Venusians while offending the Envoy?” the Archweaver asked in an exhausted tone. “A temporary truce has been struck. As long as you do not take any hostile actions towards my kin, we shall not show hostility towards you either.”
+
+“Also, to be clear, if either side tries to take advantage and attack the other, that will be the end of their hope to ever go beyond the Boundary,” Jake added in a severe tone. “As for how we travel the Boundary, I honestly don’t care, though I reckon whatever method is fastest is the one we should use.”
+
+The Venusians had a quick discussion amongst themselves, and while the Horned Slayer definitely wasn’t on board, he ended up reluctantly agreeing.
+
+Shortly after, for perhaps the first time in Venus’s history, a group of Venusians willingly entered an Arachnec Nest to use their Tunnel Mound. Jake could see their nervousness, especially on the faces of the younger frogs. The Oracle protected them all while inside, as the dense energy of death wouldn’t be healthy for them, but fortunately, they didn’t spend long in there as they headed straight for the Tunnel Mound.
+
+“Arachnec candidates are already waiting on the other side,” the Nestmother said when they reached the cave-like portal. “The command has been given, and we should all be able to travel through now.”
+
+The Horned Slayer gave one final skeptical look, not even trying to hide his disgusted facial expression from being within the large undead construction. Still, despite his reluctance, the Horned Slayer led his small army of A-grades through the Tunnel Mound first, followed by Jake and the Shaman, who were traveling side-by-side and having a small chat about what happened since they were split up by the Archweaver’s rapid approach. The Archweaver in question was just behind them, floating through while likely listening in on Jake and the Shaman’s casual talk.
+
+Entering the Tunnel Mound, Jake was admittedly also a bit nervous that the Arachnecs wouldn’t keep their word, though he didn’t outwardly show it. Fortunately, all his posturing, threats, and promises from before seemed to have done their job, as he safely made it to the other side, and shortly after, the Oracle also emerged alongside all the weaker Venusians.
+
+Finally, the Nestmother made it through, and the group of mortal enemies all found themselves on a surprisingly small island with just a single Tunnel Mound on it, and not much else of note. Well, Jake called it small, but even with a Pulse of Perception, he couldn’t see the entire thing. He could see a few of its edges, though, and when they all got out of the Tunnel Mound and took to the air, Jake could see the entire island, courtesy of the best stat in the multiverse.
+
+From the island, he could also see their goal. Not too far away, an endless wall of dense, toxic energy filled his vision, stretching endlessly up and down, which once more made Jake consider if this Minor World was square-shaped. It totally could be for all he knew, based on how all these Boundary walls always seemed straight.
+
+“So, are we ready?” Jake said with a smile. “I would suggest that for the first group, we pick only those below level 400. If they can safely make it through, we can try upping it a little, while if they can’t, we can go lower.”
+
+The Arachnecs and Venusians agreed without any arguments, as they all sent forth the candidates for Jake to bring, including the Shaman and his four party members. Jake looked towards the wall as one pretty important thought fully struck him. A really important final question that he should probably have fully thought over a long time ago.
+
+Wait... how was I supposed to bring them through it again?

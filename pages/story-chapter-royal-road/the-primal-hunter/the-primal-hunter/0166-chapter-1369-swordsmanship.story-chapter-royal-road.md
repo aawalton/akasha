@@ -1,0 +1,121 @@
+---
+id: 53a6f69d-ebd4-5651-925e-7b6ea2d0c9fe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1369 - Swordsmanship"
+slug: 0166-chapter-1369-swordsmanship
+partOf: the-primal-hunter
+position: 166
+ownLength: 2816
+unit: words
+publishedAt: 2026-08-05
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3773546/chapter-1369-swordsmanship"
+royalRoadId: "3773546"
+---
+
+Before the system, it could be argued that there were certain fighting styles that were simply “the best.”
+
+Some martial arts that had proven themselves superior to others, while some were utter hogwash, created more to look good rather than to actually be effective methods of combat. The rise of modern martial arts and televised fights between professionals debunked many ancient martial arts and proved their importance to be more cultural than anything.
+
+The same was true when it came to swordsmanship. In fact, it was perhaps more true with any weapons-based martial art than for the unarmed variant. Many unarmed martial arts were not necessarily created around pure efficiency to defeat one’s opponent, but were instead designed to function within a constrained set of rules.
+
+Boxers were excellent strikers and experts with their fists and their footwork, but when confronted with a grappler and taken to the ground, they would quickly crumble. In the same vein, a wrestler would be excellent at taking others down, but if forced to only use kicks and fists, they would find themselves struggling.
+
+Some martial arts were developed for actual combat, with a sole focus on incapacitating or killing one’s enemy, but even then, it was acknowledged that they would be used only as a last resort. Even the greatest martial artist would have to be careful when confronted with a knife, and even the “strongest” would have died to a bullet shot by a completely untrained individual.
+
+Before the invention of firearms, when swords, spears, axes, hammers, halberds, and all other sorts of weapons reigned supreme, the martial arts developed to use these weapons in ways that differed significantly from modern combat sports. Using these weapons was no sport, but a matter of life and death.
+
+On the battlefield, there were no stringent rules on where one could strike, no penalties for dirty hits. It was kill or be killed, no matter what one had to do, and the martial arts were designed around that fact.
+
+Miyamoto had always preferred to learn the actual martial arts of war rather than the variants used in sports. He’d trained himself according to old manuals and historical documents, many of which had been passed down in his family for generations. Through that, he had learned what he believed to be the “best” version of a martial art for his weapon.
+
+Perhaps he had, but with the system, the notion of any single martial art with a given weapon being superior to another died. Instead, the compatibility and insight of the person using a martial art mattered far more.
+
+Techniques otherwise considered uselessly flashy could suddenly be extremely valid methods of combat, as the constraints of physics and a mortal body no longer applied. Something like a spinning slash would be utter foolishness in nearly all scenarios for a swordsman before the system, but now, it was a borderline common sight.
+
+The spinning motion could build momentum, making the attack disproportionately stronger. It could be far faster to the level of being senseless, and at times even came with build-in defensive properties, like the one time the Sword Saint faced an elven swordsman with wind magic that created cyclones of sword energy whenever he spun, forcing his opponent away lest they be cut.
+
+These three core disciples of the Sword Palace truly exemplified the sheer difference in martial arts despite all wielding identical weapons. The wood elf, as he’d already experienced during their first duel, was like a tree: always deeply rooted, steadfast, strong, yet adaptable. He was difficult to move or affect, with excellent defenses and a great capacity to counterattack. If he had fought like that before the system, he would have died very quickly on the battlefield or been laughed out of any competition.
+
+The beastkin of the troupe was no better in that regard.
+
+His blade was more akin to a mountain. Heavy beyond approach, ceaseless once in motion. The Sword Saint had no choice but to dodge or try to deflect, as outright blocking was no option. What’s more, despite his attacks being slow, they left few openings to counterattack.
+
+Even as he swung with a downward stroke, it felt as if gravity around him increased, getting stronger the closer one was to his blade. It dragged one in and seemed especially effective against other swords, which was partly why Miyamoto often had to compromise and deflect a blow rather than even try to counterattack. Even if he wanted to strike his foe, his blade would naturally be forced toward the other man.
+
+This wasn’t even an active skill, but merely an aspect of the beastkin’s swordsmanship. It was impressive and left the Sword Saint with many wounds as he faced the three of them. However, compared to both the beastkin and the wood elf, the final member of the trio was simply on another level.
+
+The concept of sword dances was nothing new. It was once a rather popular form of entertainment in certain circles, often performed by beautiful women to display both themselves and their skill. It had never truly been made for combat, but was a performance meant to awe and impress any observer.
+
+What he saw from the woman who appeared to lead this group from the Sword Palace most certainly did those two things, as the Sword Saint found himself more than impressed.
+
+She was like a performer on a stage from whom one was unable to look away. Her movements were fluid, every action full of momentum, and her sword moved as if she were dancing through a moonlit night. A night ending with one’s severed head on the floor, as every strike was deadlier than the one that came before.
+
+All three of these types of swordsmanship varied, and all of them would have been considered jokes before the system, but now they were the powerful techniques of the topmost experts of the multiverse. Seeing and experiencing this truly only broadened the Sword Saint’s horizons, as he never got tired of seeing the near-infinite Paths one could walk with the sword.
+
+This brought him to the final form of swordsmanship on display that day. One that was used by the least experienced swordsman of the four by a factor of many. Miyamoto had to admit that the three had trained for far more years than him, and that their skills were refined to the extreme, which was also why he found himself on the back foot, barely able to resist.
+
+No, it would be wrong of him to even claim that he could resist at all.
+
+In their very first clash, he’d suffered several injuries already, and in the next few, things had only gotten worse. It was only after the fourth that he began to get reprieve, and not because he suddenly adapted and got stronger, but due to the mercy of his opponents.
+
+Rather than attack all at once, they started taking turns, at most two striking at the same time. Even then, he found himself losing, especially when their leader made her move. Her sword was faster than the Sword Saint’s, and it moved in utterly unpredictable patterns, often catching him out. What’s more, as she danced, his own blade could never find its target as she expertly moved across the sky and ground, always one step ahead.
+
+It was shameful, yet the Sword Saint accepted the situation and was grateful. He also knew that it wasn’t simply goodwill that made his opponents do this, but their own personal desires and ambitions.
+
+As he sought to spar with them in the pursuit of improvement, so did they see a chance to grow in his blade. His swordsmanship was inferior to theirs, yes, but he continued to excel ahead of them all in one crucial aspect:
+
+Rate of improvement.
+
+Every clash made him stronger and allowed him to handle the next attack better, which was an absolute golden opportunity for his opponents. When else could one get the chance to see one’s flaws in swordsmanship be so openly discovered and addressed in real combat? Every time he adapted was a chance for them to realize minor aspects they could improve to slow his adaptation or make their own attacks less exploitable.
+
+“I continually find myself impressed,” the woman said after they clashed yet another time, sending the Sword Saint rolling back, a new nasty laceration going up his left forearm. “My cuts are shallower than I intended, and I find myself forced to defend more often. At first, I merely believed this to be your innate potential and sheer talent with the blade, but it’s not only that, is it? This is your Path. Your swordsmanship.”
+
+As the Sword Saint learned from his opponents, so did they naturally also learn from him, and it was only a question of time until one of them realized. The Sword Saint smiled and nodded, seeing no need to hide what had already been realized.
+
+“I am a man who arrogantly calls himself the Sword Saint, am I not?” Miyamoto asked between labored breaths as he recovered a little and even took the chance to chug a health potion.
+
+“It’s greedy beyond comprehension,” she shook her head, the two others also looking on with doubt. “You’re setting yourself up for failure. There will be a wall, one that you cannot overcome. That, or your comprehension will be as wide as an ocean with the depths of a puddle.”
+
+“I choose to believe that will not be the case,” the Sword Saint disagreed. “Taking in everything does not mean absorbing and integrating everything into my Path. Choices will be made, aspects will be discarded, and only what will benefit my swordsmanship will remain.”
+
+“As I said, setting yourself up for failure,” the woman sighed before smiling. “Though I do look forward to seeing if you succeed, even if I believe such an outcome to be impossible.”
+
+“I do have an advantage which gives me confidence,” Miyamoto confessed with a smile, more than happy to take this brief respite to recover and have the potion do its job. Clearly, the three realized he was healing and also allowed it, as it would allow them all to keep learning from one another for longer.
+
+As for what his advantage was, he saw no need to elaborate, but would leave it up to their imagination. They could probably figure it out themselves, seeing as they’d seen through his swordsmanship.
+
+The Path of the Sword Saint’s swordsmanship was, in its essence, not about a singular style of combat. Instead, it was all about the concept of change and growth. About adapting to its opponent.
+
+Naturally, all types of swordsmanship were about improving, but the Sword Saint’s was still inherently different from what others did. He had always been the type to take in all he could learn and slowly refine what he already had, but after reaching B-grade and becoming the Chosen of Aeon, things had changed significantly. Especially one thing had made his new and improved Path far more viable: the skill he’d gained upon receiving the True Blessing of a Primordial.
+
+[Echoing Eternity (Divine)] – Immerse yourself in the echoes of time and make every moment an eternity. Allows the user to repeatedly re-experience prior moments. Overuse of this skill may have severe consequences.
+
+What the skill did was exactly what it said it would do. It allowed the Sword Saint to experience prior moments again and again, though he was naturally unable to actually change anything. All he could do was live through a moment that had just happened, and he could only “go back” roughly five or six seconds max. In other words, he could experience the same event over and over again, having the same exchange a hundred times in a row, allowing him to analyze and learn.
+
+On the surface, something like that appeared overpowered, but in truth, it had few applications in real-time combat. He couldn’t use it to experience a moment that had just happened, but could only experience it once it had time to echo, which was roughly half a second in the past.
+
+Experiencing these echoes of time also took a severe mental toll, as the Sword Saint effectively dilated time to experience these moments. Along with that, using it also risked desyncing him from Realtime, which could have severe consequences, especially for one’s Records.
+
+Perhaps the biggest downside was the cost. To experience a moment, the Sword Saint truly lived through the moment yet again. In other words, during this one fight that had lasted no more than a few minutes, the Sword Saint had spent more than two years of his remaining lifespan. It had to be this way; otherwise, using the skill at all would hurt his Records.
+
+Overall, it was a skill that most people would find utterly useless, if not detrimental, due to the cost, but for the Sword Saint, it was invaluable and allowed him to learn more from every clash than anyone else. This in itself wasn’t enough, though. As his opponent said, simply learning from others and absorbing their swordsmanship would only lead to ruin.
+
+Trying to do everything was a good way of doing nothing well. It wasn’t even a question of talent but one of depth. In the same vein that a skill doing too many things at once would dilute Records, so would a form of swordsmanship trying to be everything at once end up just being mediocre at everything. In her words, wide as an ocean with the depth of a puddle. Which meant the Sword Saint had to pick and choose which aspects to absorb and learn. A time-consuming process, yes, but fortunately, he had the time.
+
+Time by itself would still only result in failure, though. The issue was that one often realized the error of one’s actions only when it was too late. An aspect could appear perfect to integrate at one moment, and only down the line would the Sword Saint realize it had been a mistake and would have to correct it. One correction would lead to more, and his entire Path could crumble. This was just another reason why most chose to focus on either a predetermined Path or have a far more focused scope, where even if they made a mistake, the consequences wouldn’t be that bad.
+
+Fortunately for the Sword Saint, none of this applied to him, because unlike everyone else, he already knew the destination of his Path. He could already glimpse it. The core of his Transcendence remained the peak of his spring and his most ideal form, and while he couldn’t enter it at will, he could always feel it. If something wasn’t compatible with his ideal state of swordsmanship, he discarded it immediately without even thinking about it.
+
+Of course, even his ideal self grew as he grew, but it was always there, far ahead of the current him, serving as a milestone of where to go.
+
+With the combination of a Transcendent Skill and a Divine skill, the Sword Saint’s rate of improvement was not only unmatched but also with direction. Did it have the price of eating away at his lifespan, and did it have a significant mental toll? Yes, but Miyamoto could handle it.
+
+To him, lifespan was a currency he would gladly spend, as he aimed for godhood anyway, and all he had to do was ascend before he died of natural causes. As for the mental toll, he found himself more than capable of handling that. Would most people consider it torture to experience the same few seconds over and over again hundreds, if not thousands, of times, with each five-second interval lasting an entire day? Sure, but the Sword Saint didn’t think of it as such.
+
+“Trying to convince you otherwise seems like a lost cause,” the woman shook her head before looking to the side. “I also fear our fight has caught the attention of others, so time is limited, and the friendly spar will have to end. Even so, I hope you can show us the full extent of your power.”
+
+The Sword Saint smiled, having recovered quite a bit. “I would love to.”
+
+“Then if you would,” she said, motioning for the wood elf and beastkin to step forward as both erupted with power, using their boosting skills. Both took offensive stances as the woman stood back, seemingly not intent on engaging on her own, with the look she gave Miyamoto practically taunting him into getting involved.
+
+Something he certainly intended to do, as he also used his own boosting skill, and at the same time, all three male swordsmen disappeared before clashing a moment later, the difference in power between the two and the Sword Saint quickly becoming evident for all to see.

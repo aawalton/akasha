@@ -1,0 +1,153 @@
+---
+id: cc6ebaa8-e425-549c-a561-3e968c936379
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8: Chak-chak-chak!"
+slug: 0008-chapter-8-chak-chak-chak
+partOf: succulent-girl-evolution
+position: 8
+ownLength: 2267
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525601/chapter-8-chak-chak-chak"
+royalRoadId: "2525601"
+---
+
+The entire garden was tense, waiting for the humans to show up.
+
+However, the day passed peacefully. As the sun began to set, the plants began murmuring amongst themselves.
+
+“Is it a trap?”
+
+“Are they going to come at night, when we can no longer draw from the sun?”
+
+“Humans sure are clever, aren’t they…”
+
+“Perhaps the nocturnal creatures would come to our aid then, as well. They would be harder for the humans to detect.”
+
+“But then we won’t have the assistance of the day creatures…”
+
+“Humans sure are clever…”
+
+Bubbles worried the earth between her roots nervously. Everyone had been on board with fighting back against the humans, but she could clearly sense the fatigue from remaining vigilant throughout the day begin to take its toll on the garden. Everyone was still committed to fighting, but with the sun setting they were becoming listless.
+
+I just hope the humans really don’t plan on invading at night…
+
+Fern burbled reassuringly from her back, continuing her tireless feasting. Even Cuddles, who should have been too small and nascent to be able to understand what was at stake, still squeezed out prickles on some of Bubbles’s leaves in a sign of encouragement and faith.
+
+Iridescent feathers flashed as a bird with fantastic plumage settled on a branch right above Bubbles. It cocked its head curiously as it took in all the murmurings.
+
+“What’s this all about?” the magpie asked, the tinniness in its voice making it difficult to understand. “Since when did plants become so concerned about human behaviors?”
+
+As the trees continued consoling each other, ignoring the bird, Bubbles took the opportunity to speak to the newcomer.
+
+“We’re mounting a resistance against the humans because they are trying to destroy our home!” she explained to the majestic creature, which fluffed its feathers as it eyed her from its perch. “They began their attack yesterday, and inexplicably withdrew… so we thought they were going to gather more resources.”
+
+The bird cocked its head in the other direction as Bubbles continued explaining the predicament, becoming more and more impassioned with every word, ignoring Rock’s increasingly frantic warnings about sharing unnecessary details with a stranger in the background. She didn’t know why she was vomiting her feelings out to a complete stranger who would be wholly unaffected by the outcome, not when she was surrounded by peers who understood exactly how dire their situation was. Yet, for some reason, she felt more comfortable saying everything out loud to an objective party.
+
+Finally, after what felt like an hour of ranting to a very agreeable and interested avian, Miss Magpie—Bubbles was quite certain the bird was female based on its plumage, though she couldn’t quite tell from her angle—cocked her head, considering all she had heard before bursting into raucous laughter.
+
+“This was a very fascinating tale you’ve shared, plant. However, do let me reassure you on one point, since I suppose you wouldn’t know as you have no reason to keep track of such things: the reason the humans haven’t continued their attack today is because today is a weekend. Humans don’t work on weekends.”
+
+Bubbles straightened. She had heard of weekends before; Master had mentioned certain days were called “the weekend” during his daily caretaking duties, but he had never provided any additional information to contextualize what “the weekend” entailed.
+
+“Please, Miss Magpie. Can you tell me more?”
+
+Miss Magpie chuckled as she flew down to the ground, settling in front of Bubbles and watching her benignly. “I would be happy to. However, it’s very close to bedtime for me, so I’m afraid I would need some… restitution for my troubles.”
+
+“Um…” Bubbles looked at the large bird. She never had much interaction with birds before; sparrows dropped by occasionally, pecking at insects, but they had a mutual understanding there. The tiny birds could eat the insects that bothered her, and if they were too hot they could rest among her leaves to cool down. But beyond that, they never really engaged in much conversation. This past season she had a hummingbird stop by for the first time to partake of her flower’s nectar, but that was it.
+
+She just didn’t have much negotiating experience with birds.
+
+The magpie chuckled. “I’ll tell you what. Since the information you’re asking for is common knowledge, I won’t count it as something worth trading for. I’m also not too far from home, so it’s not as if I am completely inconvenienced in staying. However, I believe we may be able to help each other…”
+
+She began strutting around Bubbles, clicking her beak in thought. The way she waddled caught the setting sun just right on her feathers, dazzling Bubbles with her splendor.
+
+How is it possible for a monochromatic animal to also have so much color? She asked Rock privately.
+
+[Do not be fooled by appearances,] Rock chastised her grimly. [These birds are wily.]
+
+“Here is the situation: the reason I’m over here is that my tribe noticed one of our… subjects of interest enter this area yesterday. We have something we’d like to, ah, settle with them. If you are amenable, perhaps we can work out an arrangement where you assist us and we assist you?”
+
+Bubbles’s leaves trembled in excitement. This was far beyond what she had ever thought would happen; she and her brethren had decided to make their last stand as a declaration of courage, not expecting true victory in any sense of the word, merely dying with dignity. None of them hoped—let alone expected—to be able to win. But if they were able to gain allies…
+
+[I repeat: do not be fooled by appearances! Whatever they offer you is sure to be of dubious value.]
+
+But we should hear her out! Bubbles protested. She and her tribe can fly—they could be a valuable asset to us!
+
+She could feel Rock’s reluctance. He was smart; she trusted his judgment, and even felt a bit guilty about ignoring him in the beginning. But she also knew she couldn’t pass up this opportunity; surely there was a reason this meeting with the corvid occurred.
+
+She remembered her promise to Rock: if things took a turn for the worst, then she would have to flee the garden, leaving her family behind to be trampled and destroyed, which was the path Rock had been advocating for since the beginning. If the new allies proved able to help them protect their home, then that would mean they didn’t have to run… but perhaps Rock would feel unsafe, staying in one location.
+
+She tried to reassure him.
+
+I won’t abandon my promise I made to you earlier! I’ll still leave if things are bad… but having the magpie’s tribe help us can only be a good thing, right? If anything, they can create an opportunity for us to escape if we have to! And besides, you’re super smart—you’ll be able to make sure we don’t get taken advantage of, right?
+
+Rock gave a heavy sigh. [Very well. I will assist you with the negotiations.]
+
+Excited, Bubbles dug herself out of the ground, startling Miss Magpie back several steps.
+
+“I see there is more to you than meets the eye!” she crowed, her laughter drawing the attention of all the plants that had been too preoccupied to notice her earlier. “Well? Are you interested in a partnership?”
+
+“I’m interested!” Bubbles chirped. “But before I agree to anything, I’d like to make sure we are all on equal footing, please.”
+
+The bird’s dark eyes gleamed as she rustled her feathers with satisfaction. “Excellent. Let us talk.”
+
+~ ~ ~ ~ ~
+
+Before beginning negotiations with the black and white bird, Rock had Bubbles lead the magpie back to her plot.
+
+Does it have to be here? Bubbles asked queasily as she gazed once again upon the pieces of Fern’s body strewn about everywhere. The juices had finally dried, and left hardened, sticky patches in the dirt.
+
+[Yes. Negotiations require the appropriate setting and mood in order to be successful.]
+
+Despite her reservations, Bubbles did as Rock said and stood somberly over the tiny hole she used to be planted in. Miss Magpie walked cautiously behind her, careful of where she placed her steps. She even paused to observe the shriveled, broken pieces of Fern’s well, lowering her head respectfully when she saw the stump that used to be Fern.
+
+When Miss Magpie looked back at Bubbles, she noticed there was a different sort of gleam in those dark eyes. There was sympathy, of course, but also… interest? No, not quite… a sort of thoughtful look.
+
+She hoped the magpie wasn’t thinking to back out of their deal, now that she saw the extent of the destruction.
+
+“As you can see, our fight with the humans was quite brutal,” Bubbles said somberly, echoing Rock’s speech as his representative. “We would appreciate whatever information you are willing to share about the humans, but we can’t promise that we—” she gestured to the rest of the garden with a root “—have the resources nor ability to support you in your objective. Not when we have our own fight to prepare for.”
+
+“I understand where you’re coming from,” Miss Magpie replied respectfully. “Frankly, I am impressed you managed to survive. I take it from your familiarity with this plot that… you grew here?”
+
+At Bubbles’s nod, the magpie made a small, warbling noise in the back of her throat as she thought. “Very impressive.”
+
+Rock had Bubbles stay silent as the magpie continued looking around the small clearing.
+
+“I understand the point you are trying to make,” Miss Magpie finally said. “The more experienced elders in my tribe have told me that plants with trunks smaller than five wingspans are generally not worth negotiating with, mainly because they are not dependable when it comes to facing conflict. But I can see you are different.”
+
+She fixed Bubbles with one beady eye, extending a wing to gesture at Bubbles. “You are not a typical plant. Where most small plants are fairweather friends, you, with your ability to escape and preserve yourself, are insisting on staying behind to protect your home in the face of certain destruction. That is very admirable.”
+
+Bubbles was silent, embarrassed by Miss Magpie’s positive perception of her.
+
+“Your courage and loyalty shows me that you value more than just your own life. I can also see how you have taken on the burden of protecting others who do not sprout from the same seed as you.” Miss Magpie dipped her beak towards both Fern and Cuddles before letting out a rueful chuckle. “My elders would warn me of the follies of dealing with an unknown entity, but something about you is… reassuring.”
+
+She seems nice, Bubbles said blankly to Rock, who hadn’t said anything yet. We can deal with her, right?
+
+[Her words seem sincere, but I wonder how beneficial a partnership with her would be.]
+
+What do you mean?
+
+[She clearly is young, and possibly more inexperienced than we think. She may overpromise and underdeliver, due to her status in her tribe.]
+
+So… she might have the best intentions, but won’t be able to get us the help we need?
+
+[Precisely.]
+
+“Forgive me, I’ve been blathering about without actually presenting my case.” Miss Magpie shook her feathers before drawing herself up proudly. “First, allow me to introduce myself: I come from the esteemed lineage of the Prime Family. If you’ve heard of us, you’ll know we have vast resources and information at our wingtips, acquired and cultivated through more than thirty generations.
+
+“Our resources include squads of talented cockfighters who have been invaluable in defending our woodlands from pesky predators, as well as an extensive information network that spans across multiple species, such as other corvidae, rodents, freshwater fish, and even the occasional domesticated animal.
+
+“Due to the importance of our target, I am authorized to extend an offer of up to three-fifths of our flockpower in assisting you with preparations for your fight: any resources or evacuations you would like until the humans arrive, and during the battle, you may have up to half of our cockfighters. The other half we will need to preserve for our own objective. Ah, and you may have all the information we have on the humans, as well.”
+
+Bubbles’s mind spun at the numbers, unable to imagine what that looked like—but Rock seemed to take it in stride. She was glad her job was easy; all she had to do was repeat what Rock said.
+
+“Those are quite generous terms for a difficult battle. Are your winged forces not afraid of death? Humans are no mere predator that can be driven away by numbers.”
+
+“Our cockfighters are brave birds who display impeccable teamwork in accomplishing feats beyond imagination,” Miss Magpie replied proudly. “However, you do have a point about the nature of our opponents. We will not easily throw away the lives of our warriors, but we can guarantee they will wreak substantial havoc before they retreat. We are here to support you, not win your war for you. With that in mind, the duration of our help will last until the conclusion of the first battle, open to renegotiating or extending the terms of our agreement depending on results.”
+
+[Her terms seem reasonable, and her understanding sound. I would advise you to keep your expectations in check, but I believe it is worth negotiating.]
+
+If you say so! Bubbles agreed eagerly.
+
+[Let us bring her to the garden’s elders. We will need their input as we discuss further.]

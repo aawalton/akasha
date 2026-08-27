@@ -1,0 +1,329 @@
+---
+id: e14c4c61-e8e8-5f3d-ae44-587e1f69292a
+page-type-slug: story-chapter-royal-road
+title: "358 Cause and Effect"
+slug: 0317-358-cause-and-effect
+partOf: the-new-world
+position: 317
+ownLength: 4293
+unit: words
+ownProgress: 4293
+publishedAt: 2023-02-19
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1117965/358-cause-and-effect"
+royalRoadId: "1117965"
+markedReadAt: "2026-06-29T21:32:01.534Z"
+---
+
+Valgus blinked a few times, the explanations overwhelming him, "So...The...Er...We need the Harbinger to bolster a weaker side of a war."
+
+The remnant put a finger in Valgus's face. She menaced, "The primevals, the fluid, even this giant bone beast could be game-changers. We need this planet if we're going to uproot Schema. Lehesion isn't enough anymore."
+
+I froze in place, my brow raised, and my jaw tightened. Shalahora sensed my unease as he turned to me, "What has unsettled you so?"
+
+I bit my tongue before omening out in my mind,
+
+"She's with Elysium, and Baldowah might've allied with them."
+
+Chapter Begin
+
+Shalahora murmured, "I suppose that's possible. It would seem somewhat...Unlikely."
+
+I frowned, "Why? She's a remnant, and she wants to uproot Schema. She even mentioned Lehesion. That's about as obvious as it gets."
+
+Shalahora tilted his head at me, "It would seem more evident to me that they've manipulated Valgus rather than actually allied with Baldowah."
+
+I shook my head, "You're underestimating how resourceful and motivated they are. Besides that, they're fighting Schema, which is exactly what Baldowah wants."
+
+Shalahora peered off, "Hm, that may become the case given time, but I doubt the validity of those claims as of yet. Aside from that, it seems coincidental that Elysium interjected into this lottery."
+
+I turned a hand, "They created their own system, so it's not that unexpected for them to infiltrate Schema to some level. Hell, I even personally know people who can mess with the AI."
+
+Shalahora tilted his head at that, "Hm, perhaps Schema wishes for infestations of his system to be kept hidden from prying eyes. I may be wishing for it to be so as well, for this signifies a deeply rooted weed, one that may harbor more to come in the future."
+
+I grimaced, "Honestly, this explains a lot, but we'll talk about it later when we have the time."
+
+The conversation between Valgus continued as we discussed with each other, but another one of my minds listened. The remnant continued while Valgus rolled his eyes, "Surely the Dyson sphere will have more than enough energy?"
+
+The remnant sighed, "No, it won't. This planet doesn't have the same energy output as a large star, but the time dilation makes harvesting energy here far more efficient. It also allows for many innovations to current strategies we use."
+
+My stomach sank at the prospect. They'd turn a portion of the planet into a silver-laden wasteland before harvesting unbelievably powerful Hybrids from this place. Valgus dragged his hand down his face,
+
+"Then...Then I shall attempt to make amends with the Harbinger."
+
+The remnant hissed, "You need to if we're going to stand a chance in our war after this stunt Schema's pulled."
+
+She turned to the primeval army beside her and raised her arms, "We'll need you to lead an attack against the survivors soon."
+
+Valgus furrowed his brow, "That will enrage the Harbinger even further. He's remodeled the entirety of their interior according to our spies."
+
+The remnant propped her weight onto one leg, "It's fortunate for us that the Harbinger doesn't have any real allegiance to them. He's taking a portion of their profits, so we have to give him those resources and compensate him properly. That can serve as our apology, actually."
+
+Shalahora scoffed, "Knowing of you, that strategy might've worked should you not have known of it beforehand."
+
+I seethed, "The moment I knew Elysium was involved, everything about our stay here changed."
+
+Shalahora straightened up, "Ah...You have fought them before for your own reasons. Do those grudges still burn brightly?"
+
+I raised a finger, "Wait one second."
+
+Valgus spread his arms, "Then I'll avoid destroying those golems and any refinements the Harbinger's made. That should assuage his rage while demonstrating my goodwill."
+
+The remnant nodded, "When can you leave?"
+
+The asura emboldened with mana, "At any moment, really."
+
+"Then go now."
+
+The asura turned, walking on his torn arm like a deformed peg leg. He steadied himself on his regular foot before pulling his arms off his leg. Tossing them aside, Valgus rolled his shoulders before his leg rematerialized. I peered away as the remnant sneered,
+
+"If you could've done that, why not do it earlier?"
+
+Valgus grinned, "No one will fight when there is no hope. Since he is no longer an enemy, then I will no longer lie to them about their helplessness."
+
+His hands regrew instantly, and Shalahora simmered, "We never stood any chance of even harming him. What a monster."
+
+I scoffed, "He's nothing. It's his backer that's big and bad."
+
+Valgus cracked his neck before bellowing out over the pulsing heart of the bone beast,
+
+"Listen, mongrels."
+
+The primevals turned to him. Valgus roared, "We attack the survivors now. This time, do not kill nor harm the golems. We will capture the rulers alive as we have the others, understood?"
+
+The primevals crackled out with energy as a form of recognition. Valgus leaned down, "We head to greater glory."
+
+The remnant walked up to him, putting a hand on Valgus's shoulder, "Hey, remember our deal."
+
+Valgus scoffed, "Then hide within it, weakling."
+
+Ignoring his jab, the remnant fell into a dimensional portal, stars glimmering on the warp's surface. Valgus leaped away before several hundred of his primevals followed him into the distance of the tunnel. No other rulers followed, all of them knowing what happened to the last batch that left with him.
+
+Once they disappeared, I turned to Shalahora,
+
+"We need to reach the rulers before they do."
+
+Shalahora discarded his hearing magic before amplifying the veil sorcery already over us. We darted through the cavern, staying behind Valgus and his army. As we chased, I thought,
+
+"You still curious about my thoughts on Elysium?"
+
+"Yes."
+
+"Well, they've committed genocide to stop Schema, and I disagreed with it. I wanted to keep fighting them, but Schema offered no support or rewards while I did. I couldn't keep justifying my people dying and my home planet suffering while I fought someone else's battles."
+
+I grimaced, "Well, Elysium's at it again, and it hasn't even been a few months. I still need to catch my home planet up to speed before the culling ends and other races come to grasp our territory." I dragged my hands down my face,
+
+"And now I have to worry about Elysium's invasion of Earth since Schema so eagerly told everyone about it. I don't want them touching my home planet since genocide is the tip of an ugly iceberg to Elysium. Just as well, I'd rather not see the rest of what they have in store if they get a hold of this place either."
+
+Shalahora nodded, "And you'll be the only access point back to this planet, so they'll harbor resentment of you until you share this place with them."
+
+I sneered, "They'll peel my skull back, replace my brain, and wield me like some animatronic if I let them. Hell, I wouldn't put anything past them at this point."
+
+Shalahora peered at the two of them, "Then you intend to exterminate them so that no information leaks from this place?"
+
+I peered through the remnant, "Yes. Every last one."
+
+Valgus and his primevals rose out of the tunnels before Shalahora, and I followed. We bolted toward my base, and as the shining hills passed us, Shalahora jeered,
+
+"Elysium is a blight, but so are Schema and the Old Ones. This entire universe is controlled by the insane and the broken. It's debilitating to think about."
+
+I nodded, my voice saddened, "Yeah...We can agree on that."
+
+We reached my border city, each of us launching through one of my blue core barriers. After landing within the city, we traversed through the tunnel system between towns, reaching the settlement with my warping panel. Shalahora and I rushed through it, my mana already charged enough to power the tech.
+
+We opened the localized warp, both of us jumping into the control room of the rulers. The group worked out logistics for further ventures into the unknown areas of Leviathan-7, and they carried a festive air about them. As they turned to us, I boomed,
+
+"We need to leave. Now."
+
+One of the rulers stepped up, their robes elegant and clean, "What seems to be the problem?"
+
+I shouted, "You're all going to die if you don't escape with me."
+
+The rulers turned to one another, several of them beginning discussions. One of them walked up with wide eyes, "What's coming? What do we need to do?"
+
+I pointed at the localized warp, "Valgus. You need to go through that portal."
+
+Taking the first step, the ruler jumped through the portal without second-guessing what I said. I gazed at where the ruler once was and blinked in confusion. I never imagined convincing someone would be that easy. After one of them did it, several others followed. Like a pack, they ran out of the building, leaving everything behind aside from what they could pocket in a few seconds.
+
+Both proud and shocked by the rapid progress, I slammed my hands down before ripping through a steel panel on the floor. Several rulers gazed up at me from below before I yelled, "Come on. We need to leave, or everyone's dead."
+
+A few of the sorcerers peered around in confusion. They reacted like they walked through a sludge, a few of them still dazed as if someone struck them across the chin. Frustration mounted in my chest before one of the clearer-minded wizards saw the others leaving. She followed them to my cities, and like before, the others followed her lead.
+
+I gawked at their disorientation because I expected some serious improvements from the last time I saw them. Without the elements holding them down, they should've improved by now, yet they struggled all the same. Contrasting their lack of readiness, Obolis floated over toward me, his eyes sharp as a knife. He grimaced,
+
+"I heard you mention Valgus. I'll assume he sent a raiding party, and you intercepted them?"
+
+I weighed my hands back and forth, "More or less, yeah."
+
+Obolis turned to the rulers, "I'll shepherd these individuals to your city. Can you and Shalahora distract Valgus and his fighters in the meantime?"
+
+I shook my head, "Actually, no. He'll run right past us, and he's the only one that really matters. Once he's here, he'll easily kill everyone, and I mean everyone."
+
+Obolis raised a palm, "He's that powerful?"
+
+I shrugged, "He makes Lehesion look like a grade-schooler."
+
+Obolis leaned back, "Then where are we going?"
+
+"My cities. They won't attack you there. Well, probably. It's better than here, at least."
+
+Obolis's eyes narrowed, "Did you or did you not arrange a ceasefire? We need to know whether they'll attack us after our arrival?"
+
+Shalahora murmured, "We are enemies that they wish not to make, and we own resources that they need."
+
+Obolis frowned at Shalahora before the Emperor tilted his head, "You've been serving Daniel rather diligently since you met up with him. Perhaps now is the time to tell us why you follow him so ardently?"
+
+Shalahora laughed before scoffing, "You all will be vaporized under Valgus's fists in moments. Now is the worst of times to discuss details, isn't it?"
+
+Obolis raised his brows, "Then we discuss it once everyone's protected, hm?"
+
+Shalahora cackled, "If I feel that it is time, then yes."
+
+A tense silence followed before Obolis gave us a tight smile, "Regardless of my misgivings, I want to thank you both. I wish I could offer more in return for your services, but I'm simply not in the position to."
+
+I raised my hands, "At this point, I just want Elysium to fail more than anything else."
+
+Obolis raised his brow, "Hm, fair enough...Elysium?" Obolis struck up the rest of the conversation telepathically, "We'll discuss that later as well. Now, I've already sent out an alert through our system updates. Everyone is informed to carry what they can and leave within five minutes."
+
+I shook my head, "They need to leave now."
+
+Obolis's left eye twitched, "We'll be left with nothing. You understand that, right?"
+
+I shrugged, "You'll have your lives, and like Shalahora said, we can't stop Valgus. Not even a little bit. My cities are the only safe place on this planet right now."
+
+Obolis peered at me before looking down. He menaced, "Gah, this lottery...Time and time again, I am useless. This is the most humbled I've been in centuries." He looked at the rulers escaping, "It's as if Schema's playing some sick joke on us to expose how inept we all are. Unfortunately, we're all caught in the punchline."
+
+I frowned, "No. It's not Schema. It's Elysium."
+
+Obolis turned to me before blinking. He thought over, "What have they done so far?"
+
+I sighed in my mind, "They've convinced Valgus that they're Baldowah, and they use him like a cudgel. They're also capturing the rulers and putting them in stasis."
+
+Obolis's eyes widened, "Stasis? Is it...Is it through the rainbow bone liquid?"
+
+I nodded. Obolis sneered in disgust, "Ah...Then that is so that they will not die."
+
+I tilted my head, "Huh...Well, yeah, probably." I thought over, "In fact, they're probably ensuring they don't die while eliminating any donations to Schema too."
+
+Shalahora muttered, "It could omen something far grander. The top ten of the lottery are given freedom from their empires being stripped of any resources. If they were to capture all but ten of the free rulers, then Elysium could ensure no donations from all the rest."
+
+Obolis sent messages while thinking, "And if they do donate nothing, then last place will be a tie between those 490 rulers. That ensures that last place would fall within the top ten."
+
+I frowned at the escaping rulers, "Elysium is trying to make sure this lottery results in nothing for Schema while giving them extra resources after it's all said and done. It's a shame because I like the idea behind it; you know, turn this lottery on its head against Schema. However-"
+
+I closed my eyes, "Elysium can't seem to stick with even remotely reasonable methods. They'll do anything for their end goals, and I don't even want to imagine what they would do with the psionic liquid."
+
+Obolis twitched, "They'll...They'll tear my empire to shreds." Obolis turned around and walked to the edge of the ruler's room.
+
+He gazed at one of his gauntlets, inspecting the cipheric markings on them. He clasped that hand into a fist, "I've spent my entire life building a sanctuary for my people, and it will be torn apart within a year's time. It's as if I built a castle of stone, but it has now become sand. Each grain of it was a soul under my wing, a sapling in my shadow."
+
+Obolis's breathed deeply, "A wave has come to take it from me. All of it."
+
+Obolis froze in place. His eyes widened as he growled. He flung a steel chair, and it slammed into one of the monitors as he snarled, "I will become a king of nothing...An owner of memories that are feeble and fleeting. And the albony will be left barren."
+
+I let Obolis have a moment before I shook my head, "You won't have to worry about that."
+
+Obolis raised a brow, "And why is that, exactly?"
+
+I rolled my shoulders, "I'm killing them all, every last one."
+
+Obolis rolled his eyes, "How would you even go about doing that when you can't even scratch Valgus?"
+
+I shrugged, "Valgus knows nothing. It's the Elysium spies who we really need to get rid of. Once their information network is gone, we'll have to get rid of all the evidence of the psionic liquid as well."
+
+Obolis grimaced, "Ah. Instead of cutting the head of the serpent, you're pulling off each of its scales."
+
+I leaned back, "Huh, I guess so. Either way, I'll try to destroy Valgus, but it doesn't seem necessary for now. He's not the sharpest tool in the shed. We'll find out a way of hurting him eventually."
+
+Obolis sneered, "Everything can be destroyed. We simply need to find his weakness...Or create one."
+
+Shalahora pulled up one of Valgus's ripped-off arms, "I stole this as they ran. It should be useful for uncovering his defenses."
+
+We leaned away from the arm before Obolis murmured, "Ah...Do you make it  a habit to steal limbs?"
+
+I raised a hand, "Man, I have to hand it to you, Shalahora. That's helpful. Handy even."
+
+Shalahora and Obolis stared at me. The shadow threw the arm onto the ground, "I don't even want to take credit for this anymore."
+
+I picked it up, tossing it into my dimensional storage. It was a tight fit, but it worked out. With that awkwardness handled, we glanced towards the rushing rulers, most of them within my city already. Iona Joan flew with her wings from the bottom floor as they left. She carried a few injured rulers with her, sweat beading off her brow. With a swoop, she went into my city's sanctum.
+
+With no one left, the three of us flew towards the warp leading to my city.
+
+Obolis stepped through before raising his brow at us, "Are you not coming?"
+
+I shook my head, "I'm getting what I can first."
+
+Obolis pointed down, "We've gathered the files from our research already. As for the physical resources, the uncovered gear and rainbow bones remain here. Good luck gathering it all."
+
+I gave him a knowing grin, "You won't be worried about the rainbow bones after you arrive in my cities."
+
+"Why is that?"
+
+"Let's just say it's in plentiful supply."
+
+Obolis peered around, seeing the buildings left behind by my golems, "It's in the buildings themselves even...Remarkable." He waved, "Good fortune to you both then."
+
+I picked up the teleportation panel, the grafted steel snapping under my grasp. Shoving it in my pocket dimension, a spike of discomfort waved through me. That was the limit of my storage for now. Not having time to think about it, Shalahora and I raced toward the vault before I tackled into the colossal doors.
+
+They dented, though the graphene held. Shalahora sent out blades of darkness that split the gray substrate, and my final charge slammed the door down. As it fell, an enormous kinetic pulse radiated through the entire building. It sent a shiver through the steel and graphene, hinges on doors snapping and panels shattering nearby.
+
+I winced, "I'm guessing that wasn't you?"
+
+Shalahora jeered, "The crimson idiot is here, it would seem."
+
+Shalahora sent out dozens of shades to gather supplies. I piled balls of supplies that could fit through the door in a gravity well. I got several bunches of them, and we dove through the collapsed doorway. Chaos erupted above as we crossed the inner hull of the survivor's sanctuary. Valgus and the primevals dented and destroyed everything they came across, the entire area leveled in seconds.
+
+The booming thuds and echoing throngs mirrored the breaking hull of a ship. The rays of Leviathan's radiation pierced through the building once more, the waves of warping gravity returning with the warmth. They easily minced my dimensional fabric before a primeval eroded through the roof above. The star beast turned its eye at me, its form bright enough to blind anyone peering its way.
+
+I stomped my foot, a panel of the floor lifting between us. I dove down as the star beast pierced past the steel barrier. It destroyed one of the balls of gear I carried along with several of Shalahora's shades. Swooping the equipment with me, I pulled the panel down as the shimmering primeval gazed around in confusion.
+
+Before it discovered us, I squeezed my palm towards the floor. Gravity wells crushed the steel together, sealing the hole we left behind. Before it found us again, we dove into the medical bay again. Surrounded by medical machinery, we darted over and around various sick bay supplies. The star beast above decimated the floor above, tearing it apart.
+
+Getting the hell out of there, Shalahora and I reached the wall. Shalahora sliced through it before stabbing several fingers into the steel. He grasped the metal and wrenched it away, the cut steel decaying into ash as the umbral flames burned it. I expected to see the stony earth of Leviathan-7, but we found a small room stuffed with storage pods instead.
+
+I jumped into the cubbyhole, cipheric markings covering the entire room from head to toe. I frowned at Shalahora, "Could you sense this room at all?"
+
+Shalahora put a palm on the wall, "No." Shalahora sliced and wrenched the steel wall once more, the familiar rock of Leviathan-7 coming into view. Shalahora shrugged, "This is where they store breathable air."
+
+I shook my head, "Wait a minute."
+
+My gravitational sense told me the tubes weighed too much to be full of pressurized gases. I stabbed my arm into one of them, and a wave of energy fired up my arm like energized needles. Fear roared in my chest before I tore my arm off while scrambling away. I fell onto my back before jerking myself out with a gravity well.
+
+Rainbow bone spines splintered from my amputated arm in mass, the limb destroyed in a moment. The shards ruptured the other tanks nearby, liquid rainbow bones flooding at us. I siphoned it into a ball before the star primeval found us. It launched itself into the room, and the nearby steel liquified instantly. A flood of psionic liquid erupted out, and Shalahora sent out a shadow slice at the chaos.
+
+The star beast dispersed around the attack while the liquid flowed towards us. Before the beast rematerialized, I jerked myself upright and stomped forward. A telekinetic wave shoved the primeval into the psionic liquid, and the beast flared for a moment, its eyelid smiling at us. It bent down to charge before rainbow needles erupted from every square inch of its glowing body. Its internal plasma slimed off the spines of its body, the dead husk falling down.
+
+Nothing remained but growing shards of rainbow bone covered in ooze.
+
+Before even more of them arrived, I melted the exposed ground into magma and flooded the room with it. That created an opening in the rock, and we both slid into that opening with our gear intact. After growing the pocket of air for a while, I fitted the psionic liquid and the supplies too.
+
+Sealing the tunnel behind us, I kept the pocket of air moving underground. I melted and solidified the earth at will, getting us several miles away before we shot out of the ground with most of the gear left. Staring at it, the majority of the equipment would need to be cleaned of ash and solidified rock, but it would survive.
+
+At the surface, we turned behind us, the survivor's base being a small pyramid in the distance. The graphene tendrils of the base thrashed at nearby primevals. The eldritch snapped, cracked, and crushed the gray supermaterial, turning it into crumbling refuse. Valgus exploded out of one of the walls, his laughs booming as he decimated what took months to build in seconds.
+
+So much for his promise not to tear the place apart.
+
+We peered at the destruction for a moment, a sense of silence overcoming us. It passed before we darted away, Shalahora casting his stealth magic over us both. The darkened veil cast another silence over us, the layers of calm compounding into a killer kind of quiet. We reached the ossuary several minutes later.
+
+We converted a few primevals as we passed by, knowing their power would be necessary for the future. I also had nowhere to store the psionic fluid from earlier, and I'd rather we got rid of it then rather than later. With several dozen primevals dashing in with us, we reached the base. Once there, a crowd shy of a hundred survivors was waiting for us.
+
+We left the converted primevals outside the city limits, many of the rulers letting out yelps of terror at the massive army. They gawked at the piled bones and layered algae, no one having seen the ossuary's horrors. As I floated down, I raised my arms,
+
+"You'll all be fine. We even got most of the gear back with us."
+
+As we floated the cores and gear over,  Obolis stopped speaking with the director golem and walked up to us. The Emperor scoffed,
+
+"I now understand why you left the rainbow bone behind."
+
+I shrugged, "You could say it's in plentiful supply."
+
+He grabbed his arms in front of himself, "You also arrived with the monstrosities in tow, and by the looks of it, this isn't the only settlement you've founded here. This is quite the bastion you've made."
+
+I nodded before raising a hand, "I need a moment to talk with everyone." I stomped my foot, a wave of kinetic energy erupting through my city. The blue shield warbled in duress, silencing every ruler present. I lifted my hands and boomed,
+
+"It's time we had a long, hard talk about what the hell's going on here."
+
+My golems arrive in mass behind me, and the twitching primevals skulked outside. The rulers huddled somewhat, hiding behind the guards who were hopelessly outgunned. I let a silence pass over them before announcing,
+
+"You've all been poisoned by this." I opened my pocket dimension and pulled some rainbow bone liquid out. I swirled the beautiful fluid in a gravity well while mouthing,
+
+"And I will figure out who did it before anyone leaves this city."

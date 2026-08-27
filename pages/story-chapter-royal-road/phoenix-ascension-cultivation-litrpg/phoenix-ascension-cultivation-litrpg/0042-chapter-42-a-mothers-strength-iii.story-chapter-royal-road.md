@@ -1,0 +1,205 @@
+---
+id: a4d6455d-7f21-5a9c-99e1-055af298218b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 42: A Mother's Strength III"
+slug: 0042-chapter-42-a-mothers-strength-iii
+partOf: phoenix-ascension-cultivation-litrpg
+position: 42
+ownLength: 2789
+unit: words
+publishedAt: 2025-10-29
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2715185/chapter-42-a-mothers-strength-iii"
+royalRoadId: "2715185"
+---
+
+I ‘stepped’ close to him using my skills, enhanced my body, covered my feathers in protective flames, and smashed against the barrier.
+
+Being a Phoenix didn’t mean I couldn’t use my physical body. My flames were strong, my body was stronger, and when paired with skills, they became almost indestructible.
+
+So what if you suppressed my flames? Suppress my body too, you old coot!
+
+The flimsy barrier he set up shattered in less than a second, and flames engulfed his body. However, he wasn't hurt by them and even smiled as I launched a slash toward him.
+
+He raised two fingers glowing with Qi and slashed diagonally. A brief sense of danger fell upon me, but Phoenix Instinct aided me in dodging it by a hair’s breadth. The old bastard let out an infuriating snort and retreated.
+
+It looked like that attack couldn’t be used in quick succession. Or he only made it seem that way so he could fool me. Either way, it didn’t matter.
+
+I would have his head no matter what.
+
+Yet, just as I tried to advance, something like a thread made my movements halt. I looked back and saw a rather old woman point toward me with her fingers, extremely thin stands of Qi seeping out of her fingertips.
+
+She pulled, and I moved back, and once she raised her fingers, so did my wings.
+
+When did she?!
+
+That old woman wearing a green uniform yanked at the strings, forcing me to stay still. The impudence! I screeched and flapped my wings, fire surrounding my body. However, the strings didn’t burn away like I expected them to.
+
+They weren’t made out of Qi, but of a material much harder and much trickier to fight against. I’d heard of it, but it was so extremely rare and dangerous to obtain that few people had it. Especially not people of her level.
+
+Taratect Thread.
+
+A troublesome opponent. Such a thread was much more difficult to detect than your run-of-the-mill spider silk, and once stuck to someone or something, it would remain like that until the user ran out of Qi.
+
+However, that didn’t leave me completely powerless.
+
+I summoned up more flames and focused them inside the thread. Breaking through their defense was hard, but not impossible, and the old woman’s face turned to shock as my fire rushed down the thread and toward her fingers.
+
+She tried to fight back, but eventually couldn’t hold it and had to let go.
+
+The thread broke, and I rushed down to bite her head off.
+
+It was in that moment that something unexpected happened. The Nascent Soul old bastard shouted, and a dozen or so talismans appeared in front of him. They floated in front of the group and instantly activated, creating a protective barrier around all of them.
+
+However, as it turned out, it was a one-way barrier, as wave upon wave of Weapon Qi shot straight toward me. I could easily avoid those attacks, and if it weren’t for the Nascent Soul bastard protecting them, I would have killed these insignificant cultivators long ago.
+
+I called forth even more flames, dodging all the attacks with expert reflexes, and took the weaker hits by using my strong feathers. The flames encircled the barrier, masking me from their sight.
+
+With that, I flew around them and shot fire at different spots, flying out of the way after a few moments, dodging their attacks, and doing that again.
+
+They wouldn’t just sit and watch their protection getting destroyed, though. Soon, the other members of the sect, belonging to the old man, took out several talismans and shot them out of the barrier. The talismans were in pairs, one stuck close to my fire without burning while the other flew far away.
+
+Seeing that, I knew I couldn’t let them complete whatever it was they wanted to do. I waved my wing and turned the orange flames into blue fire, using as much energy as possible and intensifying the heat and destructive properties.
+
+Both the talismans and barrier showed signs of breaking, but the energy expenditure was far too great. At that rate, I would run out of stamina before I could thwart their plans.
+
+Switching the strategy, I gathered all the flames into a phoenix-shaped figure made out of blue fire. This way, I could recover energy while the clone could use all the stamina already stored within the flames.
+
+It swiped its tail and destroyed the nearest talisman, then rushed to the other and started destroying them one by one.
+
+I rushed to the outer talismans and broke them as well. My physical body was much stronger than some flimsy paper imbued with Qi. Similarly, the condensed flames of the blue fire clone had a much easier time dealing with them than the fire in its raw form.
+
+However, as both of us destroyed each of them, something else happened. The remaining pieces of paper formed together into a puppet-like shape. It was too late for me to stop it, even with my speed. A powerful wave shot out with it as the center.
+
+I felt the power of my flames dwindling, and even the strength of my physical body had reduced. The amount wasn’t large, but it could be the difference between life and death.
+
+I should have realised that this was their plan from the very beginning. Alas, I was too foolish. But I wouldn’t let them hold me like this for long.
+
+Just as I thought that, all of them weaved hand signs, increasing the strength of the puppet talisman.
+
+I had to get away!
+
+Without hesitating, I called the blue fire phoenix toward me and absorbed its energy back into my body, using its strength to fly higher. The initial boost got me out of the most dangerous zone of the debuff, but I couldn’t fly out of it entirely.
+
+The radius it encompassed was far too large, and any further than that, and I would be out of the range of my nest. I had no choice but to fight at the outskirts.
+
+That, in turn, gave them room to breathe and recover their Qi, as I wasn’t actively attacking them anymore.
+
+However, they could still attack me.
+
+The old Nascent Soul bastard drew an arc into the air, leaving a trail of orange Qi behind. Once finished, a faint screech resounded throughout the sky.
+
+Anger flared inside my veins as a tiny Phoenix flew out of the orange arc, slowly growing in size until it matched me.
+
+I could hardly contain myself upon that. While it wasn’t an actual Phoenix, it was made of one’s essence. I would go as far as calling it a quasi-Phoenix. The most important part of a Phoenix’s body was its essence; once somebody robbed them of that, they had no way to rebirth even after death. Next were the feathers, core, heart, blood, and bones, and finally, the flesh.
+
+Seeing a fake Phoenix flying in the sky could only mean one thing: one of my kin had perished forever. My chest tightened, and anguish flowed through my veins. How dare they? How dared these humans… how could they?!
+
+***
+
+If I had to say anything about the fight, it was that I’d never seen Mother so angry. The presence of the other Phoenix gave me chills. I could see its shape and feel its aura, but something felt off. It had no lights in its eyes, no soul.
+
+It was merely a puppet.
+
+I wish I could help Mother, but given my situation and the enemy’s strength, I would only be getting in her way. Luckily, all of those strong bastards were too occupied to defend against Mother; otherwise, I would have had to run.
+
+For the moment, I could enjoy the snacks she threw down at me.
+
+I couldn’t tell if the cultivators were at a disadvantage, but Mother wasn’t getting injured at all. Not even the old monster’s Sword Qi could damage her, but to use such potent Sword Qi without a sword, he really must be talented.
+
+Which I found weird, as he wore the robe of the phoenix sect, not the flying sword sect. I wasn’t sure what the phoenix sect was doing, but judging by his attacks, they were good at formations, swords, and whatever it was that he summoned.
+
+The moment that thing came out, Mother got really riled up. Upon closer inspection, I could understand why. That thing was, after all, a poor imitation of the real thing, and I had no doubts that a real one had to die for it to exist.
+
+Hateful, too hateful. These humans were truly despicable.
+
+I wish I had the strength to do anything against them. However, with my Qi sealed and incredibly low level, there was very little.
+
+Mother, kill these bastards! It was the only thing I could think of, and I wasn’t sure if she could hear me. It looked like she did, or the fact that she engulfed herself in fire and charged at the fake Phoenix was an extreme coincidence.
+
+She bit into it with her beak and tore off a piece of its flesh. Once that was done, she swallowed as much of it as she could, then spat the rest toward the ground.
+
+It landed a small distance away from me, which made me debate whether or not I should eat it. On one hand, it was a part of a Phoenix; on the other, it wasn’t really an actual Phoenix. Plus, Mother made me eat the egg shells, so this should be fine.
+
+I waddled over while screeches of pain, anguish, and anger resounded from above, and took a bite. The piece Mother broke off was taller than me, but with my Overeater skill, storing the energy provided by it would be no problem.
+
+If I had to describe the taste, it was some sort of spicy yet sweet chicken and pork mix. It wasn’t anything too crazy, and not nearly as tasty as human flesh, but the aftertaste was different. Very different.
+
+The flesh was so rich in Qi and something else that I felt extremely invigorated. While the Qi was expected, the other flavor seemed to strike a chord with my soul. Not only was it delicious, but it also perfectly fused with me.
+
+‘Eat well, Little Flame, this is the essence of our kin. These humans have stolen it, I’ll give it all to you before I kill them.’
+
+Mother’s voice transmission resounded in my mind once again, and that was when I realised what the thing was. Essence. Phoenix Essence.
+
+A mild headache coursed through my skull upon remembering those words. It felt like it was something I deeply coveted, something I desperately wanted but couldn’t have. Something that was denied of me.
+
+My chest burst with pain and anger, and as I looked up at the sky, I could understand Mother’s anguish.
+
+I ate the bits of flesh Mother threw down, storing the excess with the Overeater skill. I ate and ate, even when I couldn’t eat anymore.
+
+The cultivators must have noticed what Mother was doing, as they looked toward me with a horrified expression. Now I wasn’t about to let them think I have bad table manners, but they’d already seen me devour it, so I couldn’t do much else.
+
+If I had to guess, they didn’t know that Mother still had a chick. I didn’t know if they were part of those that hunted her down in the old nest area, or if they were related, but no doubt having two Phoenixes for the price of one was awesome in their minds.
+
+Too bad, Mother would get rid of them sooner or later.
+
+Speaking of, it seemed that the fake Phoenix was also fighting back quite fiercely. Mother was fighting it under the effects of the puppet talisman and the ceaseless attacks of the cultivators.
+
+Luckily, the nascent soul bastard couldn’t do much, as he had to control the fake Phoenix, but the rest of the cultivators were pretty free to attack.
+
+As I swallowed the last bit of the piece of flesh I was eating, a thought crossed my mind.
+
+Couldn’t I use those?
+
+I unfurled my wings and allowed the two Golden Cores to fall. The Vermillion Bird Golden Core and the Ice Crow Golden Core were total opposites and had much weaker effects without being inside their original owners, but they were Golden Cores nonetheless.
+
+I was sure there had to be a way for me to use them just like that, Hei Tu guy did. Given just how much power emanated from them, I doubted that he knew how to use them properly. If he did, I would have been dead already.
+
+Truly, humans were careless, gutless, shameless, and useless.
+
+However, the same could be said about me, couldn’t it? I couldn’t even use Qi at the moment.
+
+But it was a beast core. Perhaps the reason he couldn’t use them properly was that he wasn’t a Spirit Beast.
+
+Well, it was time to put it to the test.
+
+I held the Vermillion Bird Golden Core with both hands… er, wings, and inserted my will into it. At first, nothing happened, but I kept trying. Inserting will into something wasn’t exactly the easiest thing a cultivator could do.
+
+It was like when I made the weapons explode. They weren’t the highest grade, so it was easy, but it would still be difficult for your average cultivator to do. I had an easier time because I’d done it so many times before that it came as naturally as waving my wing.
+
+However, the Golden Core was another story entirely. Not only was it the core of a powerful, mythical beast, but it also had remnant will inside. Such remnant wills were not rare, but taking over the core would be difficult.
+
+Now that I thought about it, how did absorbing the cores work? Was System so powerful that it overrode the old will?
+
+Argh, I could think about these things later. The most important thing was taking control of the core.
+
+Luckily, the Vermillion Bird was a sort of distant cousin of the Phoenix. Very, very distant, so my bloodline gave me an advantage over its remnant will.
+
+It struggled at first, as it didn’t want to perish, but what good was a will on an already dead beast? Maybe if it had time to grow, it could become a spirit, but as it stood, there was little chance of that happening.
+
+After a few minutes of intense struggle, I finally took control of the core. I didn’t fully disperse the remnant will, as it was quite strong. In life, that Vermillion Bird was a Golden Core rank Spirit Beast. One could only imagine how strong it was.
+
+Alas, it was now in my possession.
+
+I pulled my focus away from it and heaved a heavy sigh. It took a lot of my mental power to do that. If the cultivators weren’t busy fighting Mother, I would be in trouble. But it was done.
+
+Instinctively, I somewhat knew what to do with it and how to use it, but I decided that the best thing I could do was break the barrier separating Mother from those pesky cultivators.
+
+Putting aside the Ice Crow Golden Core for a moment, I willed the Vermillion Bird Golden Core to fly upward, gaining speed and heat the further it travelled.
+
+Sadly, I couldn’t fly anymore, or I would have followed it. However, it should be more than enough to deal with the barrier.
+
+And as it turned out, I was right.
+
+The barrier showed some sign of resistance upon initial impact, but not even a second later, a tiny hole the size of the core appeared within.
+
+After the core entered, I willed it to unleash its power. Soon, a large amount of golden fire filled the barrier, engulfing the cultivators in flames. They tried flying away from it, but I wasn’t targeting them in the first place.
+
+The lower area cracked, and Mother, seeing the opportunity, grabbed the fake Phoenix and threw it as far as she could before flying below the barrier.
+
+She spotted the hole the core had made and placed a talon within, then pushed, creating a large chunk.
+
+From there, her flames mixed with the Vermillion Bird Golden Core’s, and the barrier shattered completely. However, the Nascent Soul cultivator seemed unperturbed.
+
+He snorted and slapped his bag of holding, and a strange creature popped out from within.
+
+“What the fuck is that?” I couldn’t help but curse upon seeing its rotund body.

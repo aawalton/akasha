@@ -1,0 +1,117 @@
+---
+id: 3ff22dcf-4e7a-5784-8bcc-a63b1379faeb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 490: Endure"
+slug: 0057-chapter-490-endure
+partOf: rise-of-the-living-forge
+position: 57
+ownLength: 1649
+unit: words
+ownProgress: 1649
+publishedAt: 2025-09-24
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2625600/chapter-490-endure"
+royalRoadId: "2625600"
+markedReadAt: "2026-06-29T20:00:15.509Z"
+---
+
+Two grabbed Arwin as he emerged from the portal, moving him away from the gray disc of energy in the ground to make sure he didn’t just drop right back into it and fall back into the Devil’s Den.
+
+Lillia already stood to his side. She’d clearly already picked up on the increased temperature in the air, and her nose twitched as the scent of sulfur welcomed them both to the Setting Sun’s base.
+
+“You must be Lillia,” Two said. He sent a sharp look at Eleven as she emerged from the portal behind Arwin. “We should have formed the portal back at the Leyline, not here.”
+
+“She’ll see both of the places soon enough anyway,” Eleven said through a yawn. “I’m going to go lie down while I wait. I can’t be bothered to watch another one of these. It just makes me feel old and unessessary.”
+
+“You’re younger than I am,” Two said.
+
+Eleven didn’t reply. She just flopped to the ground like a cat basking in the sun. Two suppressed a sigh and picked her up, slinging the woman over his shoulder like a sack of potatoes. She didn’t even flinch.
+
+“I’m sorry about this,” Two said. “She’s been very busy lately.”
+
+“And you are?” Lillia asked. “Not One. I’d imagine he’d have more presence. But that armor you’re wearing…”
+
+The man winced. “Ah. Yes. My name is Two. I suppose Arwin hasn’t had a chance to fill you in on what we’ve discussed. Today has been moving very quickly, and I’ve become more scatter-brained than I normally am. I apologize.”
+
+“Could that be due to the fight it looks like you were in earlier?” Lillia asked, her gaze boring into Two’s skull like a pair of daggers. “It doesn’t look like you won.”
+
+Two’s eyes flicked to Arwin. Then he sighed. “Nobody won. I suggest we handle this matter first. I will explain as much as you would like once it is completed.”
+
+Lillia’s eyes turned from Two to Arwin. He inclined his head slightly.
+
+“Fine,” Lillia said, but something about her tone made it abundantly clear that she’d pieced together a fair bit more than she was letting on. She didn’t press on the matter farther. She just gave Two a nod. “Let’s see what this Sunsetting thing is about, then. After how Arwin showed up looking, I would be lying to say I wasn’t curious.”
+
+Two simply nodded. He started back off toward the passageway that led into the Setting Sun’s stone halls. Arwin and Lillia followed after him.
+
+“I specifically requested that Arwin refrain from telling you about the events that happened during his Sunsetting,” Two said as they stepped out from under the sun’s glare and made their way into the hallway leading up to the Leyline. “This process is incredibly delicate. We submerse you in a direct connection to the Mesh. It reduces the resistance between your body and magic, making it easier to meld and modify your abilities when you properly Sunset your class.”
+
+“That sounds like it would be fairly intensive,” Lillia observed. She sent a glance at Arwin. “So this isn’t even fully Sunsetting yet? It’s just the preparations for it?”
+
+“Sunsetting is step two.” Two glanced to Lillia while they walked. “But the preparations are the hard part. It’s instrumental that you’re properly prepared before entering the Mesh. It can be a grueling experience.”
+
+Lillia nodded her understanding. She didn’t look too concerned about her prospects, though. “I see. And after these preparations?”
+
+“You will Sunset your class,” Two said simply. “It would be best if I refrained from giving you more information on the topic for now. The more you know, there more there will be to distract you. This is the same process we go through with everyone that attempts to Sunset their class.”
+
+“You do this often, then?” Lillia asked. “How many people are running around with Sunsetted classes? It feels like something that might be worth being worried about.”
+
+Two came to a stop as they drew up to the Leyline room. The door was closed once again, but Arwin’s skin still tingled at the memory of the intense beam of golden light. Another massage sounded rather nice — but it was Lillia’s turn.
+
+And I don’t get the feeling that plunging myself back into a concentrated blast of Mesh is a wise choice. Especially not after I just got my class scrambled and fixed up. No reason to go kicking what works.
+
+“No. We don’t do this often at all,” Two said, resting a hand on the door. “From our best understanding, there should be less than thirty people with Sunsetted classes. We were under the impression that Mask was one of them, but Arwin reported otherwise.”
+
+“Depends. Are people with a Sunsetted class strong?” Lillia asked.
+
+“Generally,” Two said. “It is an immense boon. I would prefer to avoid saying more than that until you have completed the preparations.”
+
+“Don’t need to,” Lillia replied. “I saw a large portion of Mask’s status when we were… ah, dealing with him. He wasn’t anything special. Just a tool for the guild. No stronger than many other adventurers I’ve seen.”
+
+“Then he wasn’t Sunsetted,” Two said. He nodded to the door. “But he no longer matters. Not right now. Are you ready to begin? You are in good health?”
+
+“…yes?” Lillia said, studying Two suspiciously.
+
+The man nodded.
+
+Then he turned his full attention to the door and set his other palm upon its surface. Dim light ignited within the stone. It scrawled across the door in glowing veins to quickly cross over its entire surface. A distant click rang out and the door swung open without another sound.
+
+Even though Arwin was expecting the searing light that waited beyond, it still wasn’t quite the same as seeing it again. He raised a hand before his face, his teeth gritting, as molten yellow drove into his skull.
+
+Lillia let out a startled hiss. She threw both of her hands up before herself and took a step back, squeezing her eyes shut for a moment before prying them open to squint through her fingers at the immense radiance illuminating the room before them.
+
+“It’s… beautiful,” Lillia whispered. She blinked heavily, then grimaced. “And rather uncomfortable. Do you have some shades?”
+
+“It is the Mesh in its purest form,” Two said. “The preparations to Sunset your class are simple in theory. Simply sit upon the chair for as long as you feel yourself able to. You will feel your magic shifting and changing as the weaknesses and imperfections in it are softened and made pliable. Do not push yourself beyond your limits. Most of those I know have required great amounts of training to endure the Leyline.”
+
+Lillia sent a glance at Arwin. “How was it?”
+
+“Nice,” Arwin admitted.
+
+Lillia snorted. “Of course it was. How long do I have to sit up there?”
+
+“For as long as it takes you to feel the changes stop,” Two replied. “But just because it was straight-forward for Arwin doesn’t mean it will be the same for you. Caution is imperative.”
+
+“He sounds like Rodrick. Just stuffier and more arrogant,” Lillia said with a shake of her head. “Anything else that I absolutely need to know before I walk in there?”
+
+“Well… no,” Two admitted. “But—”
+
+“Give me a second, would you?” Lillia asked, raising a hand to stop him once it became apparent that he didn’t have any new information to add. “I’ll be right back.”
+
+Then she strode into the room without another word.
+
+Despite Arwin’s confidence in Lillia, his stomach couldn’t help but twist in anticipation as she ascended the twisting hill leading up to the chair suspended within the Leyline’s light. He knew Lillia was strong. Just as strong as him, if not more.
+
+But logic wasn’t a key factor in his thoughts at the moment. There could always be differences. Things could always go awry. Nobody could know the future for sure. That said… this was still Lillia.
+
+He knew her well. About as well as he knew himself. And if there was one thing that he could say with absolute certainty, it was that Lillia wasn’t going to get taken out by a fancy beam of light no matter how much of the Mesh’s energy was packed into it.
+
+Lillia reached the top of the twisted stone hill and stepped into the Leyline proper, turning as she lowered herself into the chair. Her back stiffened and her hands tightened into fists as she took her place.
+
+For whatever reason, the light seemed to hurt her a lot more than it had him. But the pain didn’t make it to her face. The former Demon Queen’s features were flat like they had been carved from stone. Her jaw didn’t even clench.
+
+Even as they watched, Lillia’s hands opened. She unfurled her fingers one by one to force them to rest against the stone. And then, bathed in the golden light and looking down at them like some monarch from ancient times, she waited.
+
+A part of Arwin felt like he was more concerned than she was. There was something immensely frustrating and helpless about just sitting around and doing nothing while Lillia was in pain. And she was in pain — even if her features didn’t allow even the faintest flicker of it to show through them. He could see it in the depths of her eyes and in the flick of her tail behind her.
+
+But this wasn’t his fight. It was Lillia’s, and no matter how much worry he felt, he had absolute faith that she would win it. Any attempts to do anything at all wouldn’t be anything more than an insult.
+
+Thus, as the seconds ticked by to turn into minutes, Arwin waited, watched, and Lillia endured the Mesh.

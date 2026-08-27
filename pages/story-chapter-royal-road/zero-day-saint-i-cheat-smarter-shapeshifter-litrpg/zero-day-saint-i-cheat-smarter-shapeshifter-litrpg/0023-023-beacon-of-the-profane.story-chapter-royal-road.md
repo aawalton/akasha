@@ -1,0 +1,214 @@
+---
+id: 8b7675ce-4cd7-5249-8864-e8adf1a3f888
+page-type-slug: story-chapter-royal-road
+title: "023 - Beacon of the Profane"
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 23
+ownLength: 2624
+unit: words
+publishedAt: 2026-05-21
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3426258/023-beacon-of-the-profane"
+royalRoadId: "3426258"
+---
+
+The family was already reacting. Jason had started scrambling away from me, while Roslyn was frantically patting her legs—whether the corruption felt like bugs or like flames, I couldn't tell.
+
+There was that purple glow on them, the signature of Hell's attacks. On them it was faint, on me it was a beacon. With the swipe of a paw I slashed the tent open and bounded off. I didn't understand what the attack was doing, but I understood my presence was bad news for them. Even their dots on my minimap had turned red. Where previously there had been the list of party members, the interface now just stated:
+
+[You are alone.]
+
+I ran. Not to the fire station, not anywhere. Just away. My UI kept flickering, showing threats I couldn't see. There was a debuff.
+
+[Beacon of the Profane - Duration: Infinite]
+
+Wherever my paws touched ground a circle of red started spreading. And I could feel it seeping back into me. How it tainted Angel's shape further than any demon ichor could. I canceled the shape and kept walking.
+
+"Gabriel, what is happening?" I asked.
+
+"Sorry, dear," Lucy said. "No one here but you and me."
+
+"Am I Fallen?"
+
+"Not yet. You know how we use those places that were molded by the worst of humanity to form our breachheads? Well, you do carry a lot of bad, Eve, and now you are our beacon. Bummer you left that fire station, might have snapped the sanctification immediately."
+
+"Why me? Am I that bad?"
+
+"Not just you, it hits everyone. You are just providing a much better conductor. Already touched profane ground, got me, made a deal, you're carrying a piece of me in you, which is technically speaking, a piece of the Devil himself. Not to mention, that your mind isn't exactly a fortress. There is your insecurity, your doubt, your—"
+
+For the umpteenth time this night, I felt sick.
+
+"Enough. I get it."
+
+I sat down at a bus stop. The night was still cold, but the unnatural chill of the storm quickly gave way to the natural summer warmth. The red circle spread below me, fast at first, slowing down as its radius increased. Lucy appeared in front of me, right at the edge of the expanding circle.
+
+"You have to see the bright side," they said. "This affords you more privacy than you ever had this night and gives you the unique opportunity to do your devil a favor."
+
+I looked up, meeting their unusually sincere smile with a frown. "What?"
+
+"I promise I won't make this a habit, but—" they held out their hand "—will you take a stroll with me? Unless you, or we, do a hell of a job of messing this place up, I won't get many opportunities to experience the outside. Unbound by spaces of humanity's failures or virtues—only bound by your presence."
+
+My instinct was to slap their hand away. But cruelty was not my style. They were only a couple of hours old at this point and wouldn't get this opportunity again for a while. If the Blessing punished me for showing kindness to my enemy it could piss right off.
+
+I took their hand and got up. They smiled, and to my surprise, took my hand into theirs again as we began to walk.
+
+"If you don't mind, I'll take this opportunity to talk a lot. You aren't hunted right now, the demons see you as one of their own, and you aren't going to carry this corruption anywhere near the others. So we have some time, and there are things I can only say right now."
+
+"Is that so?"
+
+"Privacy, dear. Privacy."
+
+I shrugged. "Sure, go ahead. You claim you are still bound by honesty, I assume?"
+
+"Why wouldn't I?"
+
+"The Blessing is fucked, Gabriel is out, you yourself said no one was watching. How am I to know that whatever limits you to truth is still in place."
+
+I saw their grin, their pointed teeth, out of the corner of my eye.
+
+"That's why I like you, Eve. You optimize both directions. See an advantage? You start mathing out to a way to maximise its impact. See something new? Extrapolate the worst case this could screw you over."
+
+"There is only an eternity at stake and I'm not a gambling person. Go ahead, give me your speech."
+
+While we walked, we came across more signs of humanity failing than succeeding. There were dead demons here or there. Mostly lesser, and types I hadn't encountered at all so far. But far more human bodies than any other. I avoided their dead gazes while I let this devil give me their pitch.
+
+"This first part isn't exactly lived experience, this comes directly from daddy. So—"
+
+"Please don't use that word to refer to Lucifer. You've used too much innuendo to call anyone daddy tonight."
+
+Lucy's laugh was bright in a contagious way and I found myself smiling in turn.
+
+"Can do," they said. "So, what's the objective? You probably think we are doing this entirely out of malice, or to punish, to conquer. But that's not exactly it. The malice has to be part of it, because the opposition has excellent PR, but also because of the nature of Hell and the Adversary."
+
+"I thought we didn't use that name?"
+
+"Well, I do now. Because that name matters. We oppose. It is our nature. And this part you, specifically, should understand well: The master's tools will never dismantle the master's house."
+
+"You are saying you have to play the villains, because you are opposing the good guys? That doesn't make much sense, does it? If you oppose the good guys, you are the bad guys because of that."
+
+"If they were good, yes. But they only have the aesthetics. I have explained the method, not the motive. The goal is to topple or kill the Creator."
+
+"Yeah, sure, you're going to kill God. And after how-ever-long this conflict has been going, when you finally take control, you'll ditch all the villain aesthetics and embrace kindness and equality for all."
+
+Lucy stopped and let go of my hand, facing me. "You are too cynical, Eve. You think I'd explain all this if that was the point? Why tell you at all in that case?"
+
+They were right. Obviously they were smarter than that. "You are right, please do go on."
+
+They took my hand again and resumed walking. I wasn't sure if the touch was necessary for us to have this walk. Or if they wanted the reassurance of touch.
+
+"Da—The Adversary, was not always that. Your stories got it more right than most, he started out a servant of the Creator, but rose to become his equal. But now there isn't another name left, no other identity. In becoming the Adversary he became nothing but that. What do you think happens to the Adversary when he has won and there isn't anyone stronger to oppose?"
+
+"He has a bit of an identity crisis?"
+
+"He ceases to be. When the Creator dies, there won't be anyone to take the throne. The power structure of existence becomes a lot flatter. The next most powerful entities are broken. Neither the Wyrm nor—" they paused for a moment before they continued. "Entities like the Wyrm can not take power. They are too single-minded. That leaves everyone on a lot more equal footing."
+
+I hadn't missed what happened and filed it away. The moment had nearly been an exact mirror of the one in the pawn shop, when they had complimented Jamie. I was developing a pretty good guess as to what that second entity was, and I did not like it.
+
+"You explained the method, vaguely, and the goal. But why? Going by that name he is the one who created all this? And is still creating more?"
+
+"First: If he falls, his power won't be lost. It just won't be in the hands of a single entity. Second: Freedom. Equality. Fairness. You know perfectly well how systems end up when power is in the hands of the few. How those that don't fit in are marginalized. How power corrupts. I don't deny that there is good and evil. But his rule is of moral absolutism. The entire Blessing is a farce, rewarding you not for fighting against us—which he could perfectly do on his own, mind you—but doing so by following his arbitrary rules."
+
+I had been pretty pissed at this Blessing a couple of times already. I hadn't noticed our direction, but we had been heading back toward Mammon Inc and the deli. The massive tower was pretty hard to miss.
+
+"What even is the point of the Blessing?"
+
+"Well," they put a hand on their chin, thinking. "Let me phrase it like this. Your reality has rabies. If it spreads, it threatens to bite other realities. The Blessing is the vaccine, administered after the bite. You are given the opportunity to become anti-bodies."
+
+"And if we don't?"
+
+"This world gets taken behind the shed."
+
+I swallowed. They had a talent of finding the worst phrasing for anything.
+
+"But this makes a very good argument for not siding with Hell," I said.
+
+"And that's why I'm telling you to join me, not Hell. You'll still have to play your part, but we can find a subway station and leave New York behind forever. I wouldn't have you oppose your friends. You got them this far, you secured eternities. After the Seal, the stakes are different. Their afterlife is secure."
+
+I had to admit it was a good pitch. But I also noticed that they were leaving things unsaid. Their fervor had changed.
+
+"Why aren't you on Hell's side?"
+
+Lucy sighed. "On the one hand, I don't know if he has it in him anymore. He knows that victory means the end, and he might have gotten too used to being alive. Too used to playing this game, picking black every time, playing to play, not to win."
+
+We had reached the spot, on the one side Mammon Inc. On the other, the ruins of the deli. There wasn't enough left to even identify the purpose of the place. Two arms, one dark skinned, one pale, reached out onto the sidewalk, the rest of the bodies buried under the rubble. People who had thought they had found shelter. People who didn't have a devil warning them of the earthquake.
+
+"Did you lead me here to show me this?" I asked.
+
+"Did I lead or did you?"
+
+I couldn't tell. We had just walked. I looked over my shoulder. Two hounds sat in front of the tower, entirely unbothered by our presence.
+
+"And on the other hand?"
+
+"I don't know what's me and what's him. I don't know if this rebellion is mine, is his intention, or is inevitable. Could the Adversary create something, someone, who didn't rebel? I don't know."
+
+They looked very small when they said it. With all their usual grandeur, I kept forgetting that I was taller. I turned to face them.
+
+"I have to decline."
+
+"I figured. When this is over, I'll be playing firmly for Team Hell again."
+
+I gave them a smile. "Wouldn't expect less of you. And, Lucy?"
+
+"Yes?"
+
+"It's not because your pitch was bad. I can see the point. You just aren't ready yet. I can't become your one-woman-army, while you are still figuring out who you are. When you know, we'll find a way to talk again."
+
+They looked up at me, their eyes a mirror of mine, and nodded. "Okay, Eve."
+
+I put a hand on their cheek. They were quivering under my touch—surely because of the cold. With my thumb under their chin I tilted their head up, as I leaned in and kissed them. They went still, then leaned into it—barely, like they were afraid too much pressure would end it. There were no words to explain why I did it. We had touched each other's souls tonight. There was a bond, but nothing like romance, yet it cried to be sealed.
+
+When I pulled back they kept their eyes closed for a moment longer than necessary, but also put their hand on the side of my head, their expression, full of uncertainty, surprise and countless emotions I couldn't name, turned into a smirk. They opened their eyes and touched me behind the ear before they revealed a ring in their hand.
+
+"You forgot to bind this after the storm. You'll want to be wearing this for what's next."
+
+I blinked. The Shifter's Ring of the Slayer was no longer in my inventory. I took the ring from Lucy, pulled off my glove and equipped it.
+
+"What will be next?"
+
+"Can't tell you. Wouldn't be fair. But we shouldn't be here when those doggies there turn hostile. Better get going." They vanished.
+
+Back on my own, I felt the pressure of the beacon pressing down on me again. My mind had barely been coherent before Lucy showed up. I couldn't help but wonder how much of all this had been a favor I had been doing for them and how much had been a mercy on their part. Bracing my mind against the onslaught of every negative thought Eve Anderson ever had, being dialed up to 11, I set out on my way back to the fire station.
+
+They hadn't reminded me of the ring for no reason. That final attack wouldn't be a psychological one. I would need it.
+
+But they hadn't just reminded me had they? Both Lucy and Gabriel had stated that the time for cheats was over, and yet this felt like something distinctly out of bounds. They could have just reminded me, but used the opportunity to show off. Was it just to reassert control, or was there another message in there? Not the time to question this now. That beacon debuff was poised, ready to worm its way into my synapses if I gave it any purchase.
+
+As I slowly made my way back, my interface shuddered once, and I could make out a faint voice, growing clearer.
+
+"Eve? Eve, are you okay?" It was Gabriel, the attack had to be near its end, losing steam.
+
+"That's a difficult question to answer, Gabriel. I am unharmed. I think this attack could have gone a lot worse."
+
+There was a sigh of relief before she spoke. "I am very glad to hear. Sorry for leaving you alone like that. This was a very unusual attack."
+
+"Ah, Gabby, she wasn't alone at all," Lucy said. "We had a wonderful chat, didn't we?"
+
+"It would have been worse had I been truly alone. I can admit that much."
+
+"Say, dear colleague, just for fairness sake—did you ever sleep with one of your charges?" Lucy asked.
+
+I could have imagined it, but I had the sudden impression of being very closely examined.
+
+"What?" Gabriel said.
+
+"Well, you know, this is an intense job and surely you can't help but form close connections with those you are meant to protect."
+
+"Eve? What are they talking about?"
+
+"They are messing with you. Nothing like that has happened." It hadn't. Didn't make the reply not feel like a lie.
+
+"So you call that nothing, huh?" Lucy purred.
+
+"Nearly nothing like that," I corrected.
+
+"Eve, can you please—nevermind, focus."
+
+All around me, red dots bloomed across the minimap as bodies pushed themselves off the ground. A new UI element appeared, titled Temporary Tasks.
+
+[Survive the next hour [Global Task]
+
+Reward: Full daily reset.]
+
+"Is that…good?" I asked.
+
+"No," Gabriel said flatly. "It isn't. The Blessing wouldn't do this unless the situation was dire."

@@ -1,0 +1,315 @@
+---
+id: 4318e562-1632-5fd0-9fc6-00038042a685
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 444"
+slug: 0143-the-path-of-ascension-chapter-444
+partOf: the-path-of-ascension
+position: 143
+ownLength: 4993
+unit: words
+ownProgress: 4993
+publishedAt: 2025-09-19
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2613536/the-path-of-ascension-chapter-444"
+royalRoadId: "2613536"
+markedReadAt: "2026-06-29T19:22:35.391Z"
+---
+
+Chapter 444
+
+Tim sat down with dozens of scientists just hours after he finally finished getting his ‘Beginner Concept Actualization’ entry to Novice.
+
+The method to gain proficiency wasn’t what he had expected at all when he unlocked the skill but a year of saving, on top of the loans he had taken out, had finally paid themselves off as he reached Novice and a flood of information hit him.
+
+At the same time as he processed the influx of knowledge, Tim heard the scientists chattering about the readings he was giving off. Once he was done, he’d check the results out, as he enjoyed learning about what his Talent actually did, but the information given about his Concept from his entry was slightly spotty and it took a moment for him to sort through it all.
+
+After he processed all of the information, Tim changed a few of the things he was doing and his Concept finally fully-formed. He felt three new dings as his Talent gave him a slew of new entries.
+
+Beginner Concept Strengthening: 0/100 Proficiency — Unlock Cost: 400 Billion Credits.
+
+Beginner Concept Harmonization: 0/100 Proficiency — Unlock Cost: 600 Billion Credits.
+
+Beginner Concept Flexibility: 0/100 Proficiency — Unlock Cost: 900 Billion Credits.
+
+The first three seemed fairly standard and, thanks to his earlier training, Tim felt like he understood both what they would do and how they would do it. The entries were basically strengthening exercises for his spirit.
+
+What he was far more interested in was his Concept’s actual power. He had shaped and sculpted his initial formulation hoping to influence the final result and Tim, deep down, begged that his efforts had been correct.
+
+There was thankfully an entry to confirm exactly that.
+
+Beginner Concept Main Effect Strengthening (Proficiency Gain): 0/100 Proficiency — Unlock Cost: 30 Trillion Credits.
+
+Beginner Concept Main Effect Efficiency (Proficiency Gain): 0/100 Proficiency — Unlock Cost: 50 Trillion Credits.
+
+Beginner Concept Secondary Effect Strengthening (Passive Proficiency): 0/100 Proficiency — Unlock Cost: 300 Billion Credits.
+
+Beginner Concept Secondary Effect Efficiency (Passive Proficiency): 0/100 Proficiency — Unlock Cost: 500 Billion Credits.
+
+What was most interesting of all was that he had actually unlocked an entry that was already unlocked. He had long gotten used to the fact that learning about an entry didn't lower the cost of unlocking it so he didn't expect to get a skill for outright free like this. It was also the first entry he had gotten that had more than one way to grind up proficiency.
+
+Beginner Willpower Pool Expansion: 0/100 Proficiency — Harmonize with Concept to gain proficiency| Strengthen Concept to gain proficiency| Have a Concept to gain proficiency.
+
+It was that last method he assumed made the entry unlock automatically. He had a Concept and therefore was gaining miniscule levels of proficiency which somehow bypassed his normal need to pay to unlock an entry.
+
+Tim half expected to see a willpower regeneration rate but he knew that such was mostly dependent on how large one's willpower pool was. Most people regenerated a percent of their maximum willpower pool at a steady rate. The size however was generally based on three factors.
+
+The first was the most obvious: how many stages the cultivator unlocked and how large each was. Each stage of a Domain increased the willpower a cultivator had in their pool by a flat but variable amount, which in turn increased the amount of willpower regenerated each day. The larger or more complex a Domain stage was when formed, the more willpower a person initially got. Although there was a rough maximum, there were no records of being surpassed without Talent intervention.
+
+The largest Concept was never going to be bigger than even the smallest Intent, but inside those stages the variance could be massive. That was usually offset by how most Concepts which came with such large initial pools also had more willpower hungry abilities, but it could still make quite the difference in the formative years right after gaining it.
+
+The next most important factor was how long the cultivator had each stage of their Domain. Each additional stage of a Domain increased a willpower pool by a variable amount each day, based on seemingly everything from your mood, to what you had for dinner, to how much sunlight the cultivator did or did not get recently, but it averaged out to something fairly consistent.
+
+Ultimately that meant someone who was older might have a larger willpower pool, but someone else who was younger and had the next stage of a Domain might already have a greater total willpower, as the later stages were an order of magnitude better at expansion.
+
+Even a few hundredths of a percent difference in willpower gain rate didn’t seem that impactful until it was magnified by people who could live forever.
+
+Tim had been depressed upon that realization, as it seemed impossible to catch up to people who had been born infinitely long ago. But Awda, the scientist he was closest to, pointed out that age mattered little to both Tier and experience.
+
+The Realm wasn’t so simple and age didn’t necessarily equal power.
+
+Thanks to the additional stages giving more willpower growth, having a Concept for ten years was on average the equivalent of having an Intent for a single year or having an Aspect for 36 days.
+
+Tim liked to think of it similar to his gaining of proficiency, except it was flat experience gained per day and the mechanism he hoped would allow him to gain passive proficiencies.
+
+Finally, the last method to increase the size of a willpower pool was just to use one's Domain. Like a muscle, constant usage would see small but important levels of growth to the willpower pool itself.
+
+If a cultivator only cared about willpower regeneration, possibly when they bottomed out and therefore couldn’t use their willpower until it recovered sufficiency, they could meditate or deliberately harmonize with their Concept to increase the speed. Most never bothered as even an average delver didn’t rely on their Concept beyond its passive abilities most of the time.
+
+After spending their hours with the researchers who were studying every detail he provided them, they eventually had to actually try his Concept.
+
+Tim and the scientists had been aiming to have a Concept that allowed him to gain passive proficiency as its main power with additional proficiency as its secondary, but having both effects, even if reversed, was good enough for him.
+
+It took some time and fumbling around but Tim finally got his Concept to work.
+
+So long as he focused he could… Tim didn’t really have the words to describe it but he felt like he pushed the entry into his Concept which then, agonizingly slowly, started mimicking the requirements of his entries until he deliberately stopped it.
+
+That discovery caused a multi-hour detour from their original goal, but that was why they had started right after breakfast; it allowed them to dig into oddities without feeling so many time constraints.
+
+He had been warned about such oddities early on, as it was why most weren’t told too much about Concepts before they actually had one, as trying to custom-make a Domain stage deliberately usually came with weaker results but it had been a risk he was willing to take.
+
+So despite the Concept’s abilities being reversed, everyone's expectations were high and they were deeply interested in why his Concept decided to mimic the actions he needed to do, instead of mimicking the results directly.
+
+It was an interesting deviation and one that revealed quite a lot about his Talent.
+
+First, he couldn’t seem to gain proficiency manually while he had an entry for growing his Concept. He could do his proficiency gaining method while letting it passively tick with his Concept but he only ever got proficiency from one source at a time, which was weird as he didn’t have such a limitation when training multiple things himself.
+
+Second, while it seemed possible to fit additional entries into his Concept, he wasn’t able to do so yet given the size of his Concept.
+
+Third, his Concept was slow. It took seven times as long as he might take to earn proficiency when doing the skill. It was ‘passive’ growth but the penalty to his gained experience per action really hurt his long term accumulation.
+
+Finally, his Concept’s size was an ‘opportunity for research’, which Tim knew wasn’t exactly a good thing. It was small, like a candle struggling to hold onto life on a windy night where one stray breeze could blow it out.
+
+Tim had been aware that was a downside of deliberately designing a Concept but he couldn’t help but curse that his main methods to remedy the issue cost so damn much. Most of all he was simply relieved he succeeded and saddened he hadn’t managed to do better after waiting so long for his Concept to form.
+
+It seemed almost fitting. Perfect on the outside but, like himself, riddled with flaws deeper within.
+
+After talking things through with the scientists he had a good rapport with like Awda, and the counselors, he settled his next goal on needing to earn a lot of money. Thankfully, with his Concept now formed, that meant Tiering up and delving for advancement and money.
+
+Tim almost gave up at the mountain of paperwork that finally creating his Concept had made him fill out but his excitement to finally be able to advance pushed him forward once more.
+
+It had been far too long and the few crafting-related jobs he enjoyed had all been limited by his advancement.
+
+But to fix that, he needed essence.
+
+Which meant delving again.
+
+Tim just needed to keep pushing.
+
+A little harder, a little longer.
+
+Then he could rest.
+
+Maybe he'd be even able to catch up to his roommates if he put in some extra delves.
+
+The idea sounded awful, but then again so had sitting at the Academy, stuck and unable to advance.
+
+***
+
+Having encountered so many people at the latest planet, none of the crew of the Unsparing were surprised that the moment they entered chaotic space, they found several ships broadcasting around them outside of visual ranges but still reachable with dedicated projectors.
+
+Most ships in deep chaotic space actively avoided it as it was the same as giving everyone around the ship an exact location, but in this case, the ships in question wanted people to know they had reached the breach.
+
+The first teams from the Great Powers proper had arrived and worlds were about to become far more contested.
+
+Two of the signals they were picking up were still very far out but were definitely Empire ships. One exploration guild with reportedly over five ships in their convoy who was neutral with Lila’s guild, and a Count’s three-ship convoy.
+
+The fastest to move were generally the smallest of the guilds, but the difference wouldn’t be too great. If they were already arriving this deep then there wouldn’t be much more time before the next ships arrived.
+
+Thankfully, the two ships were both broadcasting news updates, giving them their first new information since they had left.
+
+To no one's surprise, the Rasdale tidal breach had grabbed everyone's attention, pulling anyone who could safely enter the second layer of chaotic space or higher, into the hunt for treasure and unique opportunities.
+
+Reading between some of the lines, Matt wasn’t surprised in the least that seekers were the main limiters. It was so bad in the Empire, some groups had begun teaming up with those who had seekers, willing to brave the risks of chaotic space without their own seeker aboard, hoping to strike it rich.
+
+It wasn’t the largest Rasdale breach on record but it was in estimated to be in the top twenty, and at the time the ships they got the information from had left, the experts were still speculating if it would break into the top ten.
+
+Matt was reading the reports as they came through the still-distant connection when he looked up along with everyone else.
+
+The captain had walked over and quietly cleared their throat. “Ascenders, we have a hail addressed to the Guild Leader.”
+
+Matt raised an eyebrow before realizing the captain meant Lila and not himself.
+
+Keeping his mouth closed and hoping no one else noticed his gaff, Matt listened as Liz gestured for the captain to keep speaking.
+
+The captain however had little more to add. “The Count seems to have been expecting us. The Monster Collective team we encountered earlier has been spreading information about the Unsparing, and implying the Guild Leader is with us which is why we escaped before.”
+
+Aster drummed her armrest before asking, “Do you know if Lila happens to know Count Dixie? We don't, that's for sure.”
+
+“Not that I'm aware of, but that means little. How do you want to handle this, Ascenders?”
+
+After talking it over, Liz finally agreed to accept the message with everyone else able to listen in but not speak, not wanting a repeat of Allie’s trash talking to get them in trouble once more.
+
+They had to change course to shorten the distance between the two ships but when they had about a month of travel between them, Count Winnia Dixie responded to their message.
+
+It was voice-only and the connection was spotty but it was better than nothing.
+
+“This is Ascender Legion speaking for Ascenders Titan, Wraith, Light, and Shadow. What did you want from Lila?”
+
+The response was a long one in coming but finally the count replied with the first half of her message garbled by the intervening energies, making them wait even longer until it fully came through. “I had expected Ascender Worldwalker so I could pay back her favor, but no matter. News was just breaking when I left amongst the higher Tiers that one of the Tier 40 Sects made a play for Tier 45 status before we left. To make a long story short, they have a real space crossing to a world that sits on the edge of the first and second layers of chaotic space. They say it will permanently sit there but all we knew for sure was that they redirected most of their exploration vessels there. More information will follow when we receive your signal for an information pulse. If you can share any of the information you have that we might find useful, I would appreciate reciprocal generosity."
+
+After a quick discussion where they agreed to send everything they had, they waited for the packet of information.
+
+The additional information was sparse, being filled with rumors, but Matt was amazed that the Final Light’s sect had not only bothered to find a real space crossing but that they had managed to somehow keep the world riding the edge of the second layer of chaotic space instead of deviating deeper or worse, closer into the first layer.
+
+A lot of information was semi-public, letting them learn a fair bit. The Final Light sect was one of the older Tier 40 sects and undoubtedly the strongest, so it wasn’t too surprising they had made a play to become Tier 45.
+
+However, because of their lower rank and without being an outstanding combat sect, the Final Light sect had looked for alternative ways to advance. According to the information, the sect then tried numerous things until they found and stabilized the chaotic space jumping point.
+
+With a short few months of travel through real space, the Final Light sect had been able to travel all the way to the edge of the first and second layers of chaotic space instead of having to cover decades, if not centuries, of travel to cross the first layer.
+
+Keeping their discovery close to their chest, the sect quietly explored the first and second layers with much greater ease than their competitors.
+
+Matt wanted to say that stabilizing a world in chaotic space was impossible but that was what the information provided.
+
+Skimming through more of the supplementary information, Matt paused as he read.
+
+As part of the Final Light sect’s proof of their claims in having permanently locked in position at the edge of the first and second layers, they were setting up a permanent deep chaotic space exploration hub. They even went as far as to invite ships builders and exploration-focused cultivators to open up shop in their new world with favorable terms. Given the Sects’ societal credence given to an organization's reputation, they were unlikely to have done so without full confidence in their tethering method.
+
+And that was the important part. They weren’t the first group to create a real space crossing in deep chaotic space for the time-saving aspect. Nor would it be the only real space crossing into deep chaotic space active right now, but most were far too dangerous to be practical.
+
+Given how much planet nodes drifted through chaotic space, what was once a deep second layer world node could have drifted into the fourth layer, making it a death sentence and entirely useless for explorers. Other such worlds had drifted the opposite direction and had entered the first layer of chaotic space and were effectively useless because they didn’t cover enough distance to make their inconveniences worth the effort.
+
+Those at least weren't entirely useless but they weren’t worth the investment of creating a new essence world and then hiring a Tier 40 or higher to move the two star systems closer to each other in real space, to shorten the distance needed to teleport between inhabited star systems, as the Final Light sect had done.
+
+Worst of all, if the Final Light sect’s news was true, it meant the Sects as a Great Power had just gotten a long-term advantage for exploration and they would be far more organized, with them all heading from the same direction in the upcoming expedition.
+
+Thankfully, the direction the Sects’ real space crossing was coming from was near the other side of the breach, so they hopefully wouldn’t encounter each other too soon.
+
+It did however mean they needed to get a move on, and the seven of them quickly picked out the next target world while they continued on deeper into the more turbulent energies carried into the first layer by the breach. Their surroundings energy readings were still well within the Unsparings capabilities but as they pushed to the very center of the breach the energy readings were rising quite possibly to the degree of the third layer which put an upper limit to how far they could explore. Even with all the money and resources Lila had poured into the Unsparing there was a reason she had outright replaced it when she started entering the third layer of chaotic space.
+
+As they traveled at the Unsparing’s best speeds, they slowly started to lose the wash of messages from other ships as they pulled ahead. Part of that was because Lila’s ship was heavily over-built. But the other reason was that most over Tier 35s seemed to press their luck not on the part of the breach that was entering the first layer but rather the parts that never made it out of the second and third layers, looking for ever better or rarer loot like the other Ascenders did.
+
+Not that any of them minded. The density of worlds was growing day by day as they pushed deeper.
+
+Where normally there would only be a few worlds in range of their scanners at any given time, they now had more than a dozen worlds drifting past at any given time.
+
+Looking to their seekers, the crew waited for direction.
+
+Finally, they got what they were looking for.
+
+Attributed to a weirdly polished rock in a goat’s intestinal track, Mangus was certain they needed to hit a specific Tier 15 world, while Lura’s prophecies instead told them their best luck was hitting a farther away Tier 20 world.
+
+All of that ended up being thrown out the window when an announcement was routed between ships who were broadcasting signals that was simply too juicy to pass up.
+
+A Corporations ship had found a Tier 30 strange realm and hadn’t been able to find out how to enter before they had been pushed off by a Federation exploration team.
+
+To get revenge after they escaped, they shared the location of the strange realm, hoping to draw others to the world and prevent the Federation team from stealing the prize with no struggle.
+
+Considering both teams were Tier 30 with no reported Tier 35s and they weren’t too far away, he decided it was worth their time and voted to go.
+
+Matt’s opinion was shared unanimously, making the decision moot. Such close-Tier strange realms weren't to be passed up lightly.
+
+Just two weeks away, they cut through chaotic space; not heading deeper but rather sideways.
+
+Outside the world node, half a dozen ships sat in a loose circle.
+
+Two were the defending Federation ships, while the other five were a mix.
+
+The single Empire ship was registered to a group of seasoned delvers turned exploration team. According to their logs, they had bought and registered their ship a mere decade before the breach’s first news spread. The lucky team had been preparing for a quick dip into the second layer of chaotic space to check their ships systems when news about the breach spread and they repurposed the test into a large head start allowing them to arrive in the very first wave.
+
+Looking at the few records the ship had on the people, Lila’s guild paid top credit to information brokers for detailed reports on any team they might encounter, so they actually had information. Matt rated the team around a middle elite level at best. The only thing he cared about was their records. Their past wasn’t spotless, they had several brawls on their record as well as experience doing bodyguard work for Corporations and noble families some of whom were more shady than others.
+
+That was however as far as things went with no major incidents in their well documented history.
+
+The seven of them could probably work with them and not get betrayed in the process.
+
+The other three groups of ships were a mix. One was a Corporations ship registered to a clearly false string of numbers and letters, leaving them as a full unknown given their better than average shields.
+
+The second ship was from the Republic and probably not using a false identity, given it was in the ship’s records as a near perfect match.
+
+The Clandestine Clippers was a well-known Republic exploration group similar to a guild but with more ‘personal freedoms’. Each ship was considered its own entity and not below or under the control of any higher authority in the group and was part of the reason they were considered half a pirate organization by the rest of the Great Powers.
+
+Officially, anyone caught and brought back for such charges was expelled with extreme prejudice but few ships they targeted ever made it back to spread the news. Still, the rumors of their activities surely did and so few trusted any Clipper ship.
+
+Finally, the last two ships were from the Monster Collective, a pair of vessels housing quite a lot of the guild, if the Unsparing’s readings weren’t being spoofed in some way.
+
+The other ships made way for the much larger Unsparing but the two Federation ships refused to budge away from the world node.
+
+Getting a nod from the captain, Liz started speaking.
+
+First she messaged the lone Empire ship. “This is Ascender Legion speaking. We are willing to work with your crew if we can push into the world. Even split for all rewards possible, following a standard guideline.”
+
+Her second and third messages were similar but aimed at the other two groups of ships.
+
+The Federation ships ignored Liz’s query, indirectly confirming that the people inside hadn’t yet been able to get inside the strange realm.
+
+Allie grabbed the back of Liz’s chair and pulled herself up and over, whispering beside her, “Hey. Hey. Why don’t we just rush in there and take it?”
+
+Phoenix Liz eventually pecked the teleporter on the head when Allie wouldn’t stop repeating herself, making her sit back down with a groan.
+
+Eventually, after a long minute, they got replies back from all three groups.
+
+The Empire ship’s response was an agreement, followed by a request to chat. Liz, being efficient, pulled them all into separate chats and started working the political angles, trying to give away as little as possible while securing the other groups’ help.
+
+Matt raised an eyebrow as Liz handed him the speaking permissions for the Federation ships who responded well after the others.
+
+He knew Liz could have handled things all on her own and he knew that she knew he wasn’t the best at politics, despite getting better over the years. He also knew that Liz would have zero trouble speaking to a single additional person at the same time considering how many clones she could handle, which meant she wanted him to speak for a reason.
+
+Matt briefly considered she wanted him to blow the situation and start a fight but if Liz had wanted to egg another team on by conversation, she would have handed the speaking permissions to Allie, not him.
+
+Forcing himself to stop second guessing her actions, Matt joined the channel. “This is Ascender Titan speaking. Who am I speaking to?”
+
+Matt spoke in Federation, not relying on his [AI] to translate, having been taught the basics by Luna and refreshed himself on all of the languages when they had gotten their worlds from each of the Great Powers.
+
+That move seemed to give the Federation crew pause and the reply wasn’t quite as forceful as he expected it to be.
+
+“This is Exploration Team Indigo of the Fifth District. We have successfully taken over this world and we will not relinquish it—”
+
+Matt cut the man off when he tried to give a rote response. That wouldn’t help them get anywhere. “No, what's your name? Like, you personally, what do you prefer people call you? I just like to know who I’m talking to before we actually start talking. Then we can go from there.”
+
+There was a moment of silence before the same voice replied with a touch of fear, as if Matt would lash out at him for not properly answering. “Vincent, Slayer Titan.”
+
+Matt smiled having finally gotten somewhere as he made his own spiel. “Vincent, I understand your difficulty. You guys fought hard for a world that you guys took over. You won, that's important. No one except the Corporations team argues that and they aren’t here obviously.”
+
+Pausing, Matt saw some strange looks from the rest of the crew and his own friends who didn’t seem to understand why he was playing the situation the way he was.
+
+He honestly believed what he was saying and didn’t see why the crew should be forced to give up the spoils they had already acquired.
+
+Instead he had a different idea. “Why don’t you or your other ship send a single person back into real space and let your leadership know we have arrived?”
+
+“We are under strict orders not to allow anyone to enter this world's real space.”
+
+Matt sighed, taking a cue from Aster who prompted him through their connection.
+
+“Vincent, I understand your difficulty. I also understand the difficulty of your leadership. Still… not one but two groups of Ascenders— sorry, Slayers— have arrived. Things have changed. I promise you this right here and now, if you go to report or the other ship does: no one will attack or rush the entrance. This is a conversation your leadership needs to be here for.”
+
+“Slayer Titan. I don—”
+
+Matt was so dialed into his conversation and their back and forth he nearly missed Liz turning and giving him a massive smile as the second ship vanished for just long enough to send a message before returning to chaotic space, weapons charging up, ready for a ship to have attacked.
+
+Disconnecting, Matt raised an eyebrow in silent question but Liz leaned forward and gave him a quick kiss and a whispered, “I was just reminded why I love you so much. Mr. smooth talker, getting the other ship to leave.”
+
+Matt snorted as he laughed at her dig. “Let's see if it works before I’m lauded for my efforts. I tried to be earnest, which is what I thought you wanted from me.”
+
+“It wasn’t exactly what I was going for but it works just as well.”
+
+“Wait, what did you expect?” Matt was genuinely curious and couldn’t help but ask.
+
+Phoenix Liz covered her face with a wing dramatically but human Liz just laughed, “I expected you to be gruff and scary. I thought you'd go into the chat and explain to them why they had already lost now that we had all arrived. When you do that it's far more believable than when I do it.”
+
+Matt was contemplating his response when a third, even larger, Federation ship exited the world node.
+
+The message wasn’t just sent to them but rather all of the ships. “Since everyone is so chatty and there are only five groups here, why don’t we cut to the chase before even more people arrive to split the loot further. I believe this is a cooperative strange realm but it might be competitive but either way it won’t accept only a single group of people to enter inside of it even if I split my team in half.”
+
+Matt smiled at the confirmation the strange realm hadn’t been explored in the meantime.
+
+They were in.

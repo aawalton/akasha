@@ -1,0 +1,167 @@
+---
+id: f96f2554-e87a-5208-a327-ac1cf21e82a2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1219 - Gate"
+slug: 0091-chapter-1219-gate
+partOf: the-primal-hunter
+position: 91
+ownLength: 3086
+unit: words
+ownProgress: 3086
+publishedAt: 2025-12-12
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2841961/chapter-1219-gate"
+royalRoadId: "2841961"
+markedReadAt: "2026-06-29T19:32:09.002Z"
+---
+
+Jake looked at the First Sage for several moments, wondering if he was even seeing right. His still-muddled mind told him that this was indeed the visage of the First Sage, yet it also felt slightly off.
+
+The old man didn’t have any aura but seemed to be nothing more than a loose collection of energy and Records. This wasn’t like the vision he’d seen through Path of the Heretic-Chosen but something entirely different.
+
+As Jake was thinking, he suddenly felt another rush of exhaustion, making him nearly fall forward. He had to brace himself on the side of the bench, making the First Sage shake his head.
+
+“I would really recommend sitting.”
+
+Jake didn’t argue but did as the teacher of the Malefic Viper said. With a struggle, he forced himself around the handrest of the bench and took a seat. He leaned on the backrest and let out a loud sigh of pure exhaustion as he finally felt a moment of relaxation.
+
+Sitting there, he no longer felt any of the pressure from this weird world, and he even felt the damage to his soul pause, with some minor aspects even beginning to slowly mend.
+
+After sitting for a good dozen seconds, Jake finally looked at the old man again, who patiently waited for Jake to get his bearings.
+
+“How are you here?” Jake asked, confused.
+
+“That’s an interesting question, now isn’t it?” the First Sage responded. “Tell me, Jake, why do you think I’m here?”
+
+“I don’t know, which is why I’m asking,” Jake muttered. “But if I had to guess… the Records from the tome you gave me summoned you here. That, or you’re an image born from those Records. In either case, you’re really doing a bad job convincing me you’re not some aspect of the system, seeing where we are.”
+
+The First Sage chuckled at Jake’s words. “You forgot another option. That I’m not actually here. That no one else besides you is here.”
+
+Jake stared confused, clearly seeing the old man. “I’m pretty sure you… okay, this is weird.”
+
+As Jake studied the old man more closely, he realized that not only did he lack any kind of physicality, but he also didn’t seem to actually be sitting on the bench at all. He was like a ghost that could be seen and heard, but didn’t actually exist.
+
+“Seems like you’ve realized by now,” the First Sage smiled. “Though you weren’t entirely wrong. I’m born of your own mind and the Records of the First Sage. An embodiment of the knowledge you gleaned from my tome. I’m just a little more aware of what I am than usual specters of Records tend to be.”
+
+Jake slowly nodded along as he looked toward the massive gate blocking off the rest of this odd realm that seemed to exist within his Truesoul. “I guess you’re here because of that.”
+
+“Indeed,” the old man nodded. “You know what it is, right? Or perhaps more accurately, what it isn’t?”
+
+“It’s not actually here… but a mental block of some kind created to protect myself,” Jake answered. “Because if I truly saw what was behind that gate…”
+
+“You would die in an instant, your soul crumbled into nothingness, and your existence erased,” the First Sage finished Jake’s sentence. “But that still leaves the question… what lies beyond to cause something like that? And if what lies beyond is what you’ve come here in pursuit of, was your journey for naught?”
+
+“That is the question, isn’t it?” Jake sighed as he leaned forward, cupping his hands. “Though I do believe I have an answer.”
+
+“Pray tell,” the First Sage motioned for Jake to speak.
+
+“You know… for the longest time studying your tome, I wondered what kind of direction Meditate could even be taken in. I knew the skill had something to do with deepening one’s connection to the system, but I still wasn’t entirely sure what exactly that meant,” Jake began as he answered the First Sage’s question while also fully putting his own thoughts into words.
+
+“Improving regeneration was the baseline. A natural upgrade to that was helping speed up other kinds of healing, such as a way to heal the soul faster. Meditate doesn’t necessarily provide anything new; it just amplifies and speeds up certain parts of what the system is already doing. At first, I considered another natural extension of this to be the ability to gain experience and even Records from the mere act of meditating, and as technically one earns experience and Records at all times, one should be able to speed that up for the effect to become noticeable and recognized.”
+
+“Yet that isn’t what you believe lies beyond the gate,” the First Sage chimed in.
+
+“No, because the ability to gain experience from meditating is too… basic. The Dao Sect already does this as part of their base Path. I know the Sword Saint’s Meditate skill also allows him to gain experience while using it. I guess technically mine already does too; the effect is just too insignificant to the level where the system doesn’t even mention it as a feature,” Jake answered calmly.
+
+“Which means something far more significant has to lie beyond. Something so profound and difficult to comprehend that it required direct guidance from you.”
+
+“Does it, though?” the old man asked, raising an eyebrow.
+
+“For a C-grade… likely. But beyond that? For those at higher grades possessing powers and capabilities I’m not able to fully comprehend yet? I’m not so sure,” Jake shook his head. “Especially not when it comes to gods. When I had this realization, a new question was born, one I should perhaps have asked far earlier… why do gods meditate? Perhaps a better question is, why do all the gods I’ve ever heard of meditate?”
+
+The First Sage was silent as Jake kept speaking.
+
+Before Jake started doing his research, he hadn’t been entirely sure that the act of meditation was such a shared pastime among all the gods, and he even guessed some gods, like Valdemar, weren’t really into it. Jake just had a hard time seeing that man spend long times in deep meditation, but to his surprise, the man did.
+
+Sure, his form of meditation didn’t necessarily require him to sit down in a lotus position, but he still did it. Jake had asked Artemis a long time ago, and she had mentioned that she was sure she didn’t know of any gods who never meditated. Yet, for some reason, she never mentioned the reason they all meditated. Perhaps she couldn’t, or perhaps she believed it was best for Jake to find out for himself, but that theory was kind of shut down as Jake realized something else.
+
+For some reason, it was never talked about anywhere. It wasn’t mentioned in any books, and even when Jake decided to just ask the snake god directly, he just got the answer that the act of meditation was important for the gods. The same half-baked answer Artemis gave him, which made Jake conclude that the reason no one talked about it was because they couldn’t.
+
+That’s right… Whatever the explanation, it was considered Forbidden Knowledge. This meant that the only way for Jake to learn it was to discover it himself, and Jake had many theories.
+
+“Now, I did think it was perhaps just to pass the time, as sometimes one wants to fast-travel through eternity a little, but that felt wrong. It’s probably a factor, but not the main reason. No, Meditate has to serve some other kind of function that’s shared by the gods. A crucial one that the system wants to keep hidden.”
+
+“Seeking Forbidden Knowledge is a risky endeavor,” the First Sage said. “While the curiosity is natural, the system does not classify something as Forbidden Knowledge for no reason. More often than not, it’s protecting someone from learning something that will have a very detrimental effect on them. To restrict one from knowledge one isn’t ready for yet.”
+
+“I know, and yet you helped lead me down this path of discovery,” Jake chuckled, shaking his head. “But back to what I believe lies beyond that gate. As I said, it must be something even gods value to such a degree that it’s mandatory for them to progress. However, if it’s mandatory, it makes me question… how can Meditate be a Legacy skill of yours in the first place?”
+
+Once more, the First Sage didn’t offer any words but just allowed Jake to continue to speak his thoughts.
+
+“And I concluded that in some ways, it isn’t. Sure, the Meditate skill I and every other mortal have is a Legacy skill of yours, but the Meditate skill possessed by gods isn’t the same thing at all. What really hammered home this theory was something I didn’t even think about when I first saw it, but made sense later… Minaga meditates. As a Unique Lifeform who is so restricted from other skills, why does he seemingly possess the Meditate skill?”
+
+“He may not have it,” the First Sage proposed an alternative. “Isn’t it possible he is not using a skill but is doing something self-taught?”
+
+“Theoretically, but I don’t think so,” Jake shook his head. “Clearly, there are some things he cannot simply teach himself, such as the ability to give out Blessings. Meditate seems to be a very system-heavy skill that I simply can't imagine how he discovered in the first place, no matter how much time he spent. I can’t imagine how he would form that initial connection to the system. That’s why I’ve chosen to believe that he got the Meditate skill upon becoming a god… something all gods do.”
+
+“Isn’t there a flaw in this argument?” the First Sage asked. “If you cannot imagine him establishing this connection in the first place, how would I have created the Meditate skill and made it my Legacy?”
+
+“See, that’s another thing I’ve decided; to stop thinking about why or how you were capable of doing things. Clearly, you have some kind of secret far beyond my imagination, and while I could spend time pondering that, I ultimately believe it’s a waste of time,” Jake shook his head.
+
+“I see,” the First Sage nodded. “But you still haven’t gotten to what lies beyond the gate.”
+
+“I’m getting there, jeez,” Jake waved off the old man as he leaned back on the bench before continuing.
+
+“As I was getting to, if the Meditate skill is one originally made for gods to use, I think the one all mortals have is some kind of lesser version. Sure, it’s possible they just share a name, same as how Eversmile gave William a skill with Bloodline in the name just to mess with him, but you seriously don’t strike me as the type to do something like that. Hence why I believe the two are connected.”
+
+Once more, the First Sage had fallen silent, just looking on as Jake spoke.
+
+“Which brings me back to the why. Why do gods need to meditate? How does it progress their Paths? I considered whether it might have just given them experience or Records, but it doesn’t really work like that, now does it? The Records need to pertain to something, and if it only gave experience, wouldn’t it risk harming the gods due to the lack of Records? I’m not even sure if one can get experience without at least some Records in the first place, but I digress. What I concluded was that what the gods are getting out of meditating is indeed something crucial they cannot do without. Something that sets them apart from those weaker than themselves… something with seemingly no limit to how high it can scale, if gods find it worthy of eternal pursuit.”
+
+“So what is your answer to what lies beyond the gate?” the First Sage asked, knowing Jake had reached the end of his speech.
+
+“Concepts… or perhaps more accurately, a way to comprehend them.”
+
+This was Jake’s answer to what the true purpose of the Meditate skill was.
+
+Through meditation, one could connect more deeply with the system and be allowed to interact with the “true” source of all concepts in the multiverse. One could study the nomological laws of existence and try to comprehend as much as possible in an endless pursuit of enlightenment.
+
+From his conversations with Artemis and Villy, he understood the importance of conceptual understanding to everyone, and as one progressed through the grades, it only grew in importance. Concepts were both simple and yet infinitely complex, having endless interpretations and conclusions, nearly all of them supported by the system and capable of manifesting true power.
+
+The problem with concepts was that no one could truly explain how they worked. Telling someone they just “had to understand how fire works better” didn’t exactly make much sense, as everyone had a fundamental understanding of how it worked. Yet one could learn a deeper meaning of what “fire” was and have an interpretation that allowed someone’s flames to intensify, become more versatile, be harder to extinguish, or have myriad other effects.
+
+For the system to have some method to deepen one’s understanding only made sense. It also made sense that, since no one could properly teach or explain concepts to others, there was still some kind of unified source that led to some degree of mutual comprehension. Most gods also seemed to have a baseline understanding of pretty much all concepts, even if they didn’t specialize in something.
+
+Jake was pretty sure that Villy was far better than Jake when it came to archery, despite not using a bow, simply due to his conceptual understanding of it. He guessed that one of the reasons for this was the unifying wellspring of concepts that all gods could access through meditation, which allowed one to glean a surface-level understanding of nearly anything.
+
+Deepening one’s understanding of Records also resulted in more Records. In Jake’s case, when he understood a concept more and passed a certain threshold of comprehension, he would gain a skill upgrade. He reckoned it wasn’t that much different for gods.
+
+Villy also discussed how gods would hit plateaus of levels and Records as an era progressed, with more to come at the next integration. Understanding concepts can serve as a form of horizontal progression, even if it does not allow for gaining more levels, enabling gods to enhance their existing abilities and thus increase their power.
+
+“You seem confident in your conclusion,” the First Sage spoke after a while.
+
+“I am,” Jake nodded.
+
+“But you don’t know for sure, do you?” he followed up.
+
+“There are very few things in life one can know for certain,” Jake chuckled. “I already took a massive gamble just going here. I have to believe that I’m right, or as you said, it would all have been a waste.”
+
+“Assuming you are indeed correct, what will you do now?” the old man asked, joining Jake in looking toward the massive gate that Jake assumed represented the final barrier to what he kept referring to as a wellspring of Records. “We already concluded you wouldn’t be able to handle it.”
+
+“We did, but isn’t that where you come in?” Jake asked with a smile as he looked at the First Sage.
+
+“By now, you should already be fully aware that I am indeed nothing but a conceptual representation of the First Sage created from the Records of the tome and your memory of your interaction.”
+
+“I am,” Jake nodded, indeed realizing he was essentially talking to himself. “Which is also why I know it was exactly for this moment the First Sage was so adamant about me strengthening my soul enough to be capable of defeating his Records.”
+
+Jake was determined, and his mind was clear as he stood up. “I also know what I have to do now.”
+
+The First Sage looked up at Jake. “If you’re wrong, you die.”
+
+“Yeah… but I feel like I’m right,” Jake shrugged as he reached out and offered a hand to the old man.
+
+The First Sage smiled, and for a moment, his presence changed, catching Jake off guard. “Then let’s see if you’re right.”
+
+Before Jake could say anything, the old man took Jake’s hand as the bench and road made of golden pages disappeared. Instead of the road and bench, Jake now clenched a golden arrow that also seemed to be made of all the compressed pages. It glowed with incredible power and Records that were far beyond Jake’s current understanding.
+
+In his other hand, he was already holding his bow. For a second, he considered whether perhaps that image of the First Sage had been a bit more real than Jake believed, but he quickly dispelled those thoughts as now was no time for hesitation.
+
+With the golden road and bench gone, Jake felt the oppressive force that sought to erase him from this place closing in again. Jake took a deep breath as he fully unleashed his aura, holding nothing back as he summoned whatever power he had left after the long march to get to the gate.
+
+As he did this, the last puzzle piece also finally made its presence known for real. Right as the oppressive force of erasure was upon him, the faint sound of a heartbeat echoed out from within him, releasing a pulse that fueled him with more power as the oppressive force was pushed away.
+
+Lifting his bow, Jake nocked the arrow and took aim towards the gate. He knew that destroying it would mean his doom, but he also knew that leaving with nothing wasn’t why he had come here.
+
+Another burst of energy enveloped Jake as his heartbeat once more echoed through the realm of nothingness. The gate in front of him appeared more tangible than before as he drew back the string of his bow and took aim.
+
+Jake closed his eyes, allowing not his thoughts, conclusions, or judgment to guide this shot. Instead, he left it entirely to instinct, emptying his mind and allowing his subconscious to take over.
+
+The next time Jake opened his eyes was when he’d already let go of the string and let the arrow fly. He had no memory of when he loosed the arrow, yet despite his lack of direct control, Jake remained calm as it struck the gate… followed by a loud cracking sound.

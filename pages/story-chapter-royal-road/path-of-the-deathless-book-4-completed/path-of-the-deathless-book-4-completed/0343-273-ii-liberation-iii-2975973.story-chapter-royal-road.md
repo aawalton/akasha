@@ -1,0 +1,131 @@
+---
+id: e921909a-08c8-56f4-9484-beefaaa53107
+page-type-slug: story-chapter-royal-road
+title: "273 (II) Liberation [III]"
+slug: 0343-273-ii-liberation-iii-2975973
+partOf: path-of-the-deathless-book-4-completed
+position: 343
+ownLength: 2318
+unit: words
+publishedAt: 2026-01-24
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2975973/273-ii-liberation-iii"
+royalRoadId: "2975973"
+---
+
+273 (II)
+
+Liberation [III]
+
+With a few of her remaining strands, she snaked through Starhawk's Perch. Most of the town had been abandoned. The remaining structures had been torn down and repurposed into defensive fortifications around the central castle. The added protection resembled a dense cocoon of alloy, concrete, and crystal.
+
+The remaining Magi in the town manned the exterior and had shaped warding spells into the walls. They weren't there to reinforce structural integrity, nor were they there to unleash plumes of fire. Instead, they had one sole purpose: delaying action. Dimensional Spills meant to pin or slow the encroachment of Pinkies, Recollectors, and Indexes from breaching the insides of the castle proper.
+
+Additional corridors had been built into the hall of the great castle, and the bailey had been turned into a moat as well, brimming with offensive spells meant to break or boil. But this too was stalling action. There were only fifty-three capable combatants left in all the town, and Roland didn't count among them. And of all the fighters present, none of them could ever stand up to a single Recollector on their own. All they could do was sell their lives dearly for those hidden in the tunnels below.
+
+The Perch's dungeons had been excavated. The walls had been knocked down, and they'd dug even further downward until they started clearing out the focus crystals and mithril powering the levitation spells holding the city skyward.
+
+Now, most of the survivors were hosted down below inside a grand hollow cavern, protected by a final layer of divinely empowered spells. Aberrant Fractals were embedded behind walls, and compromised Recollectors were hidden and made to slumber. In the final moment, Uva would turn them upon their own kind, using them as a bulwark. This would serve as the last wall against the encroachment of the adversary.
+
+But truth be told, if the Fingerlings got that far, then the only thing the survivors could do was activate the actual final spell. A rather simple Aerokinetic spell that would rip all the air out of the chamber in an instant.
+
+Better to be dead than to be kept as a prisoner of the Stranger.
+
+"Won't be long now…" Uva repeated, mostly to assure herself.
+
+"Until we get out of here, get eaten, or you turn into some kind of fucked-up spider-wasp monster?" Rose asked.
+
+"The answer to that question is potentially yes," Uva commented dryly. "I apologize for your fate in advance, Lady Van Erren. I also apologize to the unfortunate Fingerling that will consume someone as spicy as you."
+
+That earned her a laugh from Rose. "You little pale bitch. You know something? In a really messed-up kind of way, I'm gonna miss this. All of us crammed together. Desperate. Trying to survive. It reminds me of the old days, the good days."
+
+"You and I remember the old days very differently," Roland sighed. "I remember barely surviving."
+
+"Yeah, and that's why they're the good days," Rose answered. "Because we did survive. If we died, they would be the bad days."
+
+The Town Lord smirked at his wife. "I wish I could be as carefree as you, dear."
+
+"Yeah, well, I wish I could feel how I sound right now too," Rose muttered. She walked back and forth behind Uva, trying to burn off her nervous energy. "Fuck, you envious of me? I'm envious of Valor. He's just hovering there. Not even a single word. You're cold as ice, old man."
+
+Valor let out a hum of slight amusement. "You get used to it eventually."
+
+"Bullshit. Might not be System-favored, but I was a Pathbearer just like you." Rose wriggled her nose. "Have no idea how you do it. Never got used to it. I always needed to work myself up, get really pissed off, or cry my eyes out before a fight. Never went into one with a clear head."
+
+Valor nodded. "We all cope with the threat of our demise in different ways. Our feelings are only a small part of the grand outcome when it comes to our fates."
+
+"Yeah, well, I'd rather die with my heart slow and steady rather than trying to beat it out of my throat."
+
+The crushing ambience in the room only grew with a resounding crack. The left side of Uva's body started pulling apart from neck to foot. And this time, the pain was a bit too much. Each of her instances flinched, her focus broke. And just for a second, and for that single, eternity-long second only, she wasn't in control of herself. She wasn't in control of her network. The Recollectors, Pinkies, and Indexes she shrouded around Blackedge shivered. They were roused from the slumber she'd inflicted upon them. They emerged, surfacing from the dreams she wove them within. And they realized what they were holding, what they were hiding, what they were being used to do.
+
+“They're here! Here! Here! FATHER, HERE!”
+
+A deafening chorus of voices called out to the rest of the Stranger, to the rest of the Fingerlings, and across the realm, a rousing outcry of hunger and outrage followed. The Stranger then responded, speaking through every single one of his offspring.
+
+“Get them. Seize the Seeker. Finally. Too long. No more room. No more escape. Mine now. Mine forever. Hence, eternal.”
+
+"Not… yet," Uva rasped, trying to force the Hatchling back into her with her right hand. But it was reaching out, breaking free from the left side of her body and scratching across her skin with its arachnid claws. “You don’t get to claim me yet.”
+
+"Holy shit," Rose breathed. The Lady of Blackedge lacked any combat skills and was utterly terrified. Yet both of those things paled before the significance of her bravery. She charged forth, slamming her hands against the Hatchling, forcing it back into Uva as a reflexive action. Valor came by to assist her, using what he could remember of his Necromancy.
+
+Roland was about to join in when Uva called out to him, "Roland, get ready. It won't be long. And… and—" The Psychomancer swallowed and struggled to master herself. There was something she wanted to ask. There was something she needed to see done, even if she was dead. "I need you to find my mother's killer. Shiv said he knows who it is. I need you to deliver justice. If there is nothing else, then do this. I have no regrets but this one thing. Please."
+
+"You have my word that shall I survive, I will see it done," Roland declared, his throat thick with emotion. "Blackedge… Blackedge cannot thank you enough. I cannot thank you enough, and I am—"
+
+"No more apologies. We all chose this life; we chose to burn." And through her mana strain, through the ocean of overwhelming agony splashing through her head, too much for that screaming, sobbing, near-mad instance of her to bear, Uva mustered her Psychomancy a final time and connected herself to the hive of Fingerlings she used to shroud Blackedge before they could break free and tear the town asunder.
+
+"Starhawk," Uva said.
+
+“I am here,” the Ascendant said quietly. “Whatever you need. I will give.”
+
+"Give me everything. Every last drop of power you have. I'm going to form a nest of frozen time around us. I'm going to fuse the bodies of the Fingerlings together, so they have to chew through their own before they can reach us."
+
+"I understand. Burn brightly, Sister Mettabon."
+
+"Light my wick, Starhawk."
+
+And for what might be the last time, the town of Blackedge grew bright. Veins of glistening incandescence boiled the Fingerlings from within, circulated Divine power through their bodies, and usurped them from the Stranger's control. The Elder God cried out to all his children, and they responded. A veritable sea of monsters, their numbers uncountable, knocking each other aside, desperate to be the first ones to reach the town, to claim the Seeker, to feast on the unwelcome and ordinary.
+
+But it was Uva who struck first. Uva, who lit the very top of Starhawk's Perch like a beacon, like a lighthouse roused to life, cleaving the darkness with its light and calling out to distant ships, beckoning them to dock. Her strands cut out, and everything they struck was shattered in mind, body, and time. And within her, the Hatchling cried out, so much Divine mana flooding her being that it was practically being boiled within.
+
+In that single moment, Uva was not a host to an Eldritch parasite, but a bronze bull meant to torment the one that sought to feast on her.
+
+But so much power came at a cost. She felt herself coming apart. She felt her skills burn, felt her soul combust. This must have been what it felt like to be Roland for all those weeks, holding off the Vicar's forces. She realized how much he'd burned, then, and how she made for such poor kindling in comparison to the Starhawk's most faithful son.
+
+And how he was likely to share her fate, their ashes mingling together in the final stand of Blackedge.
+
+As the end drew near, her past didn't return to her in a torrent of long-lost memories. She didn't relive her entire life. She didn't think of the one she loved. She wasn't consumed by a higher inspiration, a final feeling of euphoria, or release. No, she just felt righteously tired. Tired. Worn to her very limit. Every bit of her had been dedicated to her mission: to serving Weave, to doing the right thing, to upholding the Composer's will, and now protecting those who couldn't protect themselves, even if they were surfacers.
+
+Uva Mettabon didn't want to die, but as far as ends went, this was a better one than most could ever get. To be honest, she got further than she ever expected. She was disciplined, dedicated, focused, but not a genius. The way her life was going before, maybe after fifty years she could have been a Master, and then if she did a bit better than that and got lucky, reached Hero after a few centuries.
+
+But she'd never expected to see a sunrise. She'd never truly expected to find a measure of justice for her mother. Now, she'd come much further than she anticipated—but still just a bit short. And that made the sting of disappointment feel ever worse. But there was also some amount of pride to be taken from that, some measure of victory.
+
+The System gave nothing. Everything had to be taken by a Pathbearer themselves. And she took whatever she could, be it from fortune or happenstance.
+
+But there was nothing more for her to take in this dreadful foreign realm. Nothing but the boundless power of a god, and though her very spirit was sundered and hollowed by the act, she took it in and burned herself down—
+
+Uva's thoughts were cut off as a jolt of something passed through her consciousness. It was like static at first. A burst of sound that jolted her senses. And then it grew louder, until it rose beyond a susurration and became a coherent sound—a sarcasm-dripping voice she had grown familiar with in recent days.
+
+“Sister Mettabon, I hope you’re still alive, still in control of your full faculties, and that the ruin that is Blackedge is uneaten, because it would be a real shame if our timing was that bad.”
+
+Uva swallowed. “Hymn? Where are you? Can you hear me? How are you reaching me?”
+
+“Oh, I’m just using the Fingerlings to carry my message. Same trick the Stranger pulls, really. And as for where I am… Look up, girl.”
+
+And as Uva did, the very fabric of the Outside tore open. A chasm manifested within the Stranger’s realm, and a blinding pillar of light descended, splashing down upon the clustered mess of fused Fingerlings surrounding Blackedge. All the oncoming monsters froze, startled by the sudden dimensional breach connecting their father’s realm to full Integration.
+
+“Intruders. Opening. Cross! Take them! Take their world! Purge the System-bound.” The Stranger’s orders made reality tremble, and an endless swarm of Recollectors responded immediately. Uva’s insides plunged. If the Fingerlings managed to get to Integrated Earth, the damage they could cause was unthinkable. Without a proper host, they likely couldn’t sustain themselves, but for the time they endured, massacres would unfold.
+
+“Hymn!” she shouted telepathically. “They’re coming for you. Be ready to—”
+
+But her warning came too late. The first of the palm-shaped behemoths crashed through the dimensional passage in a burst of black static.
+
+The pieces it had been torn apart into were promptly flung back in less than half a second. The shredded Fingerling crashed against its own kind, halting their stampede and freezing the swarm for a beat—just long enough for them to lose the momentum.
+
+And then, new colors entered the fray. The first was a descending meteor of red, white, and gold. At the sight of his coming, Uva’s insides twisted upward, soaring high when they were falling fast just a moment ago. A streak of fire and acceleration painted his path, and a trembling membrane hinted at just how much speed he’d been amassing.
+
+The Recollectors—monsters that had been far too much for him before at Theborn—were obliterated before his coming. Splattered eldritch biomass filled the air, but he just kept getting faster, shredding dozens of the abominations and hundreds of their lesser kindred.
+
+And he was getting faster—coming for her, for Blackedge.
+
+Behind the Deathless, there came other hues. Most predominant was the color gray.
+
+For the first time in eons, it was the Stranger’s realm that was sieged, and as the Fingerlings broke free from their startlement, they learned that the System had monsters of their own, and in these strange aeons, even nightmares could find themselves turned to prey.

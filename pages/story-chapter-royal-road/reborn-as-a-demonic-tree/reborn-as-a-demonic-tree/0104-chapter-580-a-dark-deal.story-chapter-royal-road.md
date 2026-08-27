@@ -1,0 +1,191 @@
+---
+id: 4ee2db66-46d6-5600-8321-46e96d373394
+page-type-slug: story-chapter-royal-road
+title: "Chapter 580: A Dark Deal"
+slug: 0104-chapter-580-a-dark-deal
+partOf: reborn-as-a-demonic-tree
+position: 104
+ownLength: 2791
+unit: words
+publishedAt: 2026-06-12
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3530814/chapter-580-a-dark-deal"
+royalRoadId: "3530814"
+---
+
+Thal'korr had come personally to visit the dark god's lair in the corrupted heart of Floridawn. His approach had been intercepted by the third-eyed priestess of the dark god. After stating his purpose, he was welcomed inside and told to wait for the dark god.
+
+Expecting a short wait, he grew restless alongside his guards as grueling hours passed. They weren't offered a place to sit or relax. Instead, they stood on a platform suspended over a yawning gate to the abyss, from which monsterosities occasionally crawled out and glared at them before heading off to heaven-knows where. A void monster with six arms and missing a head stood silently like a statue in the corner, occasionally flexing its many claws menacingly, keeping watch of their every move.
+
+"How long will the All-Seeing Eye make us wait?" he finally asked the third-eyed priestess impatiently as the sky overhead darkened.
+
+The woman glared at him. "Monarch of the Celestial Empire or not, a murderer like you is hardly worth my god's time. He is currently dealing with a matter and will decide after if he wishes to grace you with his presence after it has concluded."
+
+Thal'korr scowled behind his helmet.
+
+While retrieving or negotiating the destruction of the scepter was a top priority to prevent the Mycothane Hive's soul-puppeting techniques from leaking to the other factions, he had come to switch sides. A fact he had informed the third-eye priestess of. What could possibly be more important than meeting with a Monarch from the Celestial Empire who was willing to do that?
+
+Was this treatment really all over his participation in the attack on Floridawn, where a few worthless mortals died?
+
+Thal'korr sighed. That attack had been necessary as a test for the dark god's power and to try to weaken him. The results of the attack had given him all the answers he needed—the dark god was stronger than anyone had realized.
+
+With his carefully raised insect puppet that he had used for centuries to dominate enemies destroyed with ease, and with the Chairman vanishing and no solutions being provided for the encroaching beast tide, he could see the writing on the wall.
+
+And the writing was in blood—specifically, the blood of Councilman Verath Tindrel. His death leaked quickly, with the Luminarch Conclave in an uproar at the death of one of their strongest Monarchs. The Covenant, a mysterious assassin organization run by the dark god, took credit. How the murder was even possible baffled everyone in the Council—fear had quickly spread throughout the Canopy factions, and further doubt toward the Chairman had been cast. The Stratospire League, which possessed the largest military in the Canopy, had begun mobilizing its army and putting silent pressure on the other Canopy factions.
+
+Worst of all, the golden sap supply had run dry to all Canopy factions besides Umbraholme, which remained silent on the matter even as the Stratospire's stormglass warriors gathered on their borders.
+
+A murder of a Monarch, the immortal beast tide encroaching, and with a civil war brewing in the Chairman's absence, it was clear that the collapse of the Celestial Empire into a bloody civil war was inevitable.
+
+Yet, the most powerful faction at play wasn't anyone from the Canopy or even Empyrea. It was the dark god. Floridawn was all but conquered, and the All-Seeing Eye seemed to have as many Monarchs in his service as any of the major Celestial Empire factions.
+
+But his greatest strength was by far the Covenant. Thal'korr feared he would be next on their list after having come to blows and directly leading an assault on the dark god's lands, resulting in the death of many mortal supporters.
+
+Wanting to survive, he had decided to personally step into their lair.
+
+Yet nothing could have prepared him for what he faced when the dark god finally decided to grace them with his presence. A desolation portal, almost as tall as the towering black roots that encircled the abyssal gate, tore through the air, and a pillar of blinding light stepped through.
+
+What the? Thal'korr thought as he shielded his eyes.
+
+A moment later, a titan of light loomed over them, blanketing the area in Monarch Realm pressure. It wasn't a cultivator or a monster. It felt created. His guards faltered under the pressure, but Thal'korr was horrified for a different reason.
+
+He not only recognized the feeling of the light Qi, but he had also fought it before.
+
+"Thal'korr of the Mycothane Hive," the titan said. "I've been expecting you."
+
+The voice, while different, was also a hint familiar. It had to be him.
+
+Thal'korr looked up at the titan of light and hesitated for a moment before needing to sate his burning curiosity. "Councilman Verath Tindrel, is that you?" he asked, the words sounding almost unbelievable even to him.
+
+There was a long pause.
+
+"You can feel that the soul of the slain Light Monarch resides within this creation of mine? Interesting," the titan mused. "How is that possible?"
+
+Thal'korr gripped his scepter tightly as the implications set in. With his mind racing, he hesitantly answered the titan's question.
+
+"All Monarchs have a slightly different understanding of their affinities law. This subtle difference in understanding gives their Qi..." he paused, searching for the right word, "...personality. No matter how you try to twist it or obscure it, the light radiating from this titan is that of the late Luminarch Conclave Monarch." His face paled. "You not only killed him as the Convenant claimed, but you turned him into this?"
+
+A dark chuckle echoed out of the titan. "Of course I did. Why would I waste a perfectly good soul when I get my hands on one? Though I admit, the irony of using a Celestial Monarch's soul to create a monster to fight the Empire isn't lost on me."
+
+Thal'korr collapsed to his knees in sheer awe.
+
+After centuries of research, the best the Mycothane Hive had managed was breeding a rare Qi-devouring insect and enslaving it with soul puppetry. But this... this was soul puppeting in the realm of the gods.
+
+"What are you doing?" the All-Seeing Eye asked with a hint of amusement.
+
+Thal'korr lowered his head and stared at the floor—utterly defeated. He understood now that whatever the All-Seeing Eye's end goal was with the Celestial Empire, it was taking its conquest leisurely.
+
+With an assassin that could kill a Monarch without a trace, and the ability to twist Monarch souls into undying monstrosities, if the All-Seeing Eye had truly wanted to destroy the Celestial Empire, he could have done it in a single night. This... was all a game to him.
+
+Forget the scepter. Forget the Canopy factions, Empyrea's hundred noble houses, even the Celestial Empire as a whole, and the World Tree. Everything in this layer of creation and perhaps the next was for the All-Seeing Eye to conquer.
+
+Thal'korr looked up at the titan of light once more.
+
+"Please, I'm willing to offer everything," he said, his lip trembling. "Make me your disciple."
+
+He regretted his words the moment he said them.
+
+The titan leaned in closer. "Everything?"
+
+Thal'korr clenched his fists and nodded. "Yes," he confirmed, "everything."
+
+He knew in his current position, the dark god wouldn't settle for anything less than that to let him switch sides. He had no room for negotiations and nothing to bargain with. In this situation, becoming the dark god's faithful disciple was the only way forward to avoid slavery or being turned into a twisted being like Verath.
+
+"Lord Thal'korr, you can't do that!" one of his most trusted guards cried out from behind him. "If we give in to this dark god, only destruction awaits—" he didn't get to finish his sentence as the six-armed void creature that had remained still until now emerged from the void behind him and obliterated him in a brutal instant, showering Thal'korr's armor in his subordinate's blood.
+
+In his heart, Thal'korr felt rage seeing one of his best killed for simply speaking up. Yet as a leader, he had to get through this. "Please forgive my subordinate for speaking out of turn. We all wish to bow to your power..."
+
+"I have no use for a disciple like you," the titan said coldly, looming over Thal'korr and his guards. "But with the upcoming ball, my dear daughter and fellow sect members will need allies willing to throw down their lives to protect them. If you are willing to do that, your survival after the Celestial Empire's destruction may be considered."
+
+Thal'korr lowered his head while secretly seething behind his helmet. "I would be honored to protect your daughter at the ball."
+
+He had thought offering himself, a long-lived monarch, as a disciple, was humble enough. Yet, the dark god had not only denied him but had commanded him to act as a mere bodyguard for their daughter.
+
+"Very well," the titan said. "Grand Elder Kaida will be here shortly to officiate your role moving forward."
+
+Thal'korr was confused about what the All-Seeing Eye meant. The answer came shortly in the form of a second desolation portal opening.
+
+Thal'korr had faced Monarchs before. He had negotiated with the Council's highest members. He had even knelt before the World Tree itself during one of its rare meetings with the Monarchs.
+
+None of that had prepared him for a dragon in human clothing.
+
+The figure that stepped through the desolation portal moved with an unhurried, deliberate grace that made the very air around him feel dense. Where the titan of light had commanded presence through sheer overwhelming force, this one felt like a careful brushstroke on silk. His long black hair drifted despite the absence of any wind, and the talismans orbiting him made no sound as they rotated in slow, lazy arcs.
+
+His serpentine golden eyes settled on Thal'korr with predatory interest, and his smile exposed his shark-like teeth.
+
+"So this is the Mycothane Monarch," Kaida said, speaking in a language Thal'korr had not heard in centuries—an old Draconic dialect used only by scholars and archivists in ancient times. He hadn't kept up his studies of the language in a long time, and hearing it from a native speaker sent chills down his spine.
+
+The dragon continued hashing out the terms of a contract with the All-Seeing Eye in draconic, most of which Thal'korr missed. He stood there stiffly, as Kaida circled him once, the hem of his ink-dark robes trailing across the platform's stone floor without a sound. His shadow, Thal'korr noticed with a creeping unease, did not match the shape or size of his body. It sprawled at the edges like something vast lurking just beneath the surface of a still lake.
+
+The remaining guards tensed as Kaida's golden eyes flicked toward them.
+
+Switching to the common tongue, the dragon addressed them. "A soul-binding contract," Kaida said, stopping before Thal'korr and tilting his head slightly. "You understand what that means, Monarch of the Mycothane? Unlike the mortal agreements your faction trades in, a contract written in my ink is not a document. It is a law. The heavens themselves become its witness and will enforce any violations."
+
+Thal'korr was in disbelief. If this were a ceremony to make him a disciple, he would understand the lengths taken. But the dark god would go so far as soul-binding contracts over merely looking out for his daughter at a ball?
+
+"I understand," Thal'korr said.
+
+"Then hold still."
+
+One of the orbiting talismans drifted forward on its own, coming to rest at eye level between them. It was a single shed scale, no larger than a palm, engraved on both sides with a dense column of characters so small and intricate they seemed to writhe when looked at directly. Thal'korr's comprehension of inscription runes was not insignificant, and yet he couldn't parse a single word of it. Whatever language Kaida had used, it was older than anything he had laid eyes on before.
+
+Kaida extended one clawed finger and tapped the back of the scale.
+
+Ink bloomed outward from the point of contact like a drop of black dye in still water, rippling silently through the air before curling toward Thal'korr's chest. He braced himself—yet the ink Qi paused its advance, as if awaiting permission.
+
+"The terms are fourfold," Kaida said, his tone rather cold. "You will not raise hand, Qi, soul technique, or subordinate against the All-Seeing Eye, his lands, his sect, his kin, or his progeny. You will not communicate the secrets of his power, his realm, or his plans to any external faction without his blessing. You will lay down your life to protect Stella Crestfallen. And upon your death—whenever it comes—your soul will return to the Grove of Eternal Rebirth rather than to the cycle of reincarnation."
+
+Those last two terms stood out.
+
+"Stella Crestfallen is the dark god's daughter?" he asked, confused. "Wasn't that child made in an experiment—"
+
+"Her background does not concern you," the All-Seeing Eye said sharply. "Any other concerns?"
+
+"Will my soul really be unable to reincarnate?" he muttered, unsure if he had heard that part right.
+
+Kaida nodded. "Your soul will be forfeited to the All-Seeing Eye for his personal use."
+
+Thal'korr's jaw tightened as he looked up at the light titan. "You intend to claim my soul after the Crowned One retaliates and then turn me into one of those monstrosities? There's no way he will let Stella Crestfallen walk free."
+
+"I could claim your soul right now," the All-Seeing Eye said, his tone leaving no room for compromise. "The only way you walk out of here alive is as my soul-bound slave."
+
+Thal'korr expected as much as he focused back on the scale still hovering between them. The ink on its surface had stilled, but he could feel it waiting, patient as stone.
+
+Agreeing to these terms almost certainly spells my death. He looked up at the light titan. But so does denying it. Even if I escape from here, the Convenant will come for me. All I can hope is that somehow Stella doesn't antagonize the Crowned One at the ball.
+
+He hesitantly raised his hand and pressed his palm flat against the scale.
+
+The ink moved instantly. It flowed up Thal'korr's wrist and over the back of his hand like something alive, threading through the gaps in his gauntlet and tracing a line up his forearm before sinking beneath his armor and disappearing. For a single, searing moment, the contract's terms burned themselves into his soul with the cold permanence of a brand. He felt the Grove of Eternal Rebirth as if from an immense distance—a tether, thin as a thread of silk, attaching itself to some deep and fundamental part of him.
+
+Then it was over.
+
+The scale shattered into dust.
+
+"It is done," Kaida said, and for the first time, the faintest trace of something almost like satisfaction passed through his golden eyes. He turned away as if Thal'korr had ceased to be of interest.
+
+"Welcome to the Ashfallen Sect, Monarch. I hope you enjoy your time as that psycho princess's guard," Kaida said bitterly, before stepping back through the desolation portal without looking back, his shadow swallowing itself behind him.
+
+Thal'korr stood very still in the silence that followed, listening to the distant sounds of monstrosities clawing their way out of the abyss below.
+
+The soul-tether hummed faintly in the back of his mind, a constant reminder of exactly how far past the point of no return he had walked.
+
+He had come here intending to negotiate.
+
+He had left with a collar made of heavenly law.
+
+And the worst part, Thal'korr reflected as he stared down at the stained armor left by his dead subordinate, was that he still felt it had been the right decision.
+
+"Thal'korr, you are free to go," the All-Seeing Eye said. "I will see you at the ball."
+
+He found himself bowing in response. He never did that.
+
+"What about us?" a guard hesitantly asked from behind.
+
+"A recent creation of mine took quite a lot out of me, so you all arrived at the perfect time," the All-Seeing Eye said cryptically, as a third portal opened. "Please step through here."
+
+Thal'korr and the other guards eyed the desolation portal like a gate to hell.
+
+"If anyone refuses," the All-Seeing eye continued as the void monster silently moved through the guards, switching its bloodied claws. "Then death will find you."
+
+The guards reluctantly walked toward the portal while shooting glances Thal'korr's way. He couldn't stand it, so he looked to the floor.
+
+He had foolishly offered everything to foster goodwill, and the heartless dark god hadn't hesitated to take the offer.

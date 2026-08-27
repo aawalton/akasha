@@ -1,0 +1,143 @@
+---
+id: 01aa1ecd-ef3d-5620-a254-473714257bf6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12: Canopy Stalker"
+slug: 0016-chapter-12-canopy-stalker
+partOf: shapeshifter-a-non-human-litrpg
+position: 16
+ownLength: 1785
+unit: words
+publishedAt: 2026-04-28
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3328749/chapter-12-canopy-stalker"
+royalRoadId: "3328749"
+---
+
+Upon Alex's order, Hina had already found a thick root lurking beneath the oil-like water and used it to launch herself onto the nearest tree. While the titanic trees of the Drowning Canopy lacked low-hanging branches, the dense fungal growths and jagged bark gave her plenty to cling to.
+
+The monsters on this floor also exploited this, specifically the Canopy Stalker. Considered the apex predator of the 10th floor, their existence was why Hunters moved forward with extreme caution.
+
+With a good vantage point, Hina made use of one of her Nightstalker class skill passives, Keen Eye, to survey the area.
+
+[Keen Eye (D)] Passive. Significantly boosts perception and detection range. Increases critical strike chance against targets you have observed for more than three seconds.
+
+"Now, where are you hiding?" she muttered. While the Guild Association had claimed the area was cleared, hours had passed since then, giving time for Canopy Stalkers to move into the area. Finding none on the surrounding trees, she looked up.
+
+I don't believe for one second that not a single one of you opportunistic bastards isn't lying in wait.
+
+Canopy Stalkers liked to live in the upper reaches of the trees, clinging to the bark with adhesive limbs, and would only descend to hunt. They resembled oversized spiders, with eight limbs, a low-slung body, and a head mostly composed of a jaw. However, their skin was covered in the same bioluminescent fungal colonies that grew on the trees, making them nearly invisible when still against the bark.
+
+Hina had extensively studied them and their behavior over the dozens of times she had visited this floor. The reason was simple—survival for her party. While levels and strength in numbers were a great advantage, the environment worked against them.
+
+A weakness the local monsters exploited.
+
+The Canopy Stalkers, for example, liked to drop silently onto prey from above. Their weight alone was enough to stagger most fighters, and their bite delivered a paralytic venom that caused progressive numbness to spread from the wound. A Canopy Stalker bite on an arm meant losing fine motor control within thirty seconds. A bite on the torso meant the target was down in under a minute.
+
+They were individually strong enough to pose a serious threat to the weaker members of a party, but were thankfully territorial. If they fought in coordinated groups, they would be considered A-grade threats. Yet, despite there likely being two or three within ambush range of a party at any time, they never attacked simultaneously, as they preferred to wait for one to isolate the prey before the others closed in.
+
+Hina didn't see any in her field of view, so she gathered strength into her legs and leaped to a neighboring tree for a new viewpoint. The wet moss welcomed her arrival, her fingers finding grip on a ridge of bark. While exhausting, it beat being in the water for hours.
+
+"It's cold," Daisuke complained far below, wading forward and holding his staff above the water with both hands as though it might dissolve. The water was indeed cold, and Hina was glad to be free of it. "Considerably colder than I anticipated," Daisuke continued, "the mana composition down here is extraordinary as always, though," he added, already brightening. "Can you feel it, Yuki? The water itself is mana-saturated. The fungal colonies on the trees are essentially acting as a— "
+
+"Daisuke," Alex said.
+
+"— distributed mana network, which would explain the density readings from my senses. I was actually theorizing on the way down that— "
+
+"Daisuke."
+
+"— the root system likely functions as a kind of conductor, and if that's the case, then the floor boss, assuming there is one, would almost certainly be aware of our approach— "
+
+"Daisuke."
+
+A pause. "Yes?"
+
+"Quiet."
+
+Daisuke closed his mouth. Then opened it again. "Right. Yes. Apologies." He pushed his glasses up his nose with one finger and waded forward in silence, though Hina could see his lips still moving faintly, working through whatever theory he had been building.
+
+Hina shook her head. Daisuke always picked the worst moments to indulge in babbling on about the arcane's mythical workings.
+
+"Any sightings?" Alex called. The group was easy to keep track of with Yuki's Orbs of Light illuminating them in the darkness and providing a patch of pale light that reached the trees.
+
+"None so far," Hina confirmed, keeping her eyes peeled.
+
+"Then we advance," Alex said, quickening the pace through the water.
+
+The party moved in a loose formation—Alex acting like the bow of a ship, his shield raised and angled forward, displacing the water in slow rolling waves with each step. Kenji flanked Yuki on the left, the massive butcher knife resting on one shoulder with the casual readiness of someone who had carried weapons so long they'd become an extension of the body.
+
+Daisuke was behind them, muttering to himself.
+
+"Why don't we use a boat?" Yuki asked.
+
+"The root systems on the Drowned Canopy floor are so dense and irregular that any vessel larger than a small raft would get snagged constantly," Alex explained without looking back. "The roots break the surface unpredictably, and the water depth varies sharply. A boat that works in one area would be beached in the next. Experienced Hunters who know the floor don't bother with the hassle."
+
+"They also cost money," Kenji pointed out. "A shower after all this is free."
+
+Hina jumped to another tree while listening to the chatter, and after confirming the nearby trees were safe, her gaze drifted to Yuki. She was proud of her intuition, which was further improved by her Keen Eye passive.
+
+Many things felt off about Yuki. Ignoring his unknown background, he looked far too calm for an under-leveled healer entrusting his safety to a group of random people. Not to mention, he was registered this morning as an F-grade but was level eight? Either he gained multiple levels while eating lunch, or he somehow deceived the mana detectors. But why? What would he gain by doing that?
+
+Just what are you hiding?
+
+Yuki, who had been looking straight forward until now, suddenly glanced up.
+
+Impossible, there's no way he noticed my gaze, Hina thought. She had her [Shadow Veil (B)] skill on, a stealth skill that let her blend into the shadows. The great canopy overhead was shrouded in haze, leaving the entire Drowned Canopy dimly lit.
+
+However, Yuki didn't glance her way. Instead, a nearby tree had caught his attention. Curious, Hina followed his gaze and immediately noticed the moss on the tree near the group shifting.
+
+He noticed a Canopy Stalker?! It was positioning itself above the group, about to strike. Hina didn't waste time and rocketed off her tree, denting the bark in her wake, and shot like an arrow at it. Twirling in the air, she struck at the camouflaged monster while activating a skill, "Shadowpiercer!"
+
+Her blades became wreathed in mana, letting them briefly phase through armor, striking directly at the Canopy Stalker's vitals. The monster noticed her attack a second too late, the daggers striking true and decapitating it in a shower of putrid blood. She avoided the splash of blood by twisting in the air again, missing the tree and bombing into the water far below. It wasn't deep, and she caught a root on the way down, tearing at her leg.
+
+Ouch, she thought, landing hard.
+
+"Hina!" she heard Alex call as she heaved herself out of the frigid water, frowning. There was a loud splash a second later as the eliminated Canopy Stalker's corpse lost its grip on the tree and plummeted into the water below.
+
+You have killed an opponent. Experience has been split between you and your party members.
+
+[Nightstalker] has leveled up: 47 -> 48.
+
+Hina dismissed the notification, and the group reached her quickly.
+
+"Are you alright?" Alex, the ever-caring leader, asked. "That was a great kill—that Canopy Stalker was close to leaping onto our heads!"
+
+Assuming either Alex or Kenji noticed the monster's attack, it wouldn't have fared much better against them than it did against her. But the ones at risk would have been Daisuke and... Yuki.
+
+The Arcanist had stopped muttering to himself, his attention focused on the fallen Canopy Stalker corpse fallen near them that was the size of a small car. His hands were gripped around his staff in fear.
+
+Daisuke was level 42. His reaction, while a little over the top, was justifiable for a mage wading through a jungle of watery darkness surrounded by camouflaged monsters.
+
+But Yuki seemed unfazed by it all.
+
+"You're hurt," Yuki commented.
+
+"No, I'm not," she began, her pride not letting her admit she had a gash on her leg from the fall.
+
+"Then why is there blood in the water?" Yuki pointed out.
+
+Hina glanced down. The surprisingly bright Orbs of Light not only exposed the streaks of blood in the water but also her wound.
+
+"Thornfin Lurkers will swarm to us like sharks drawn to blood if one of us is wounded," Alex said what they were all thinking. "Yuki, can you heal her?"
+
+The elf didn't hesitate. Shifting closer to Hina, he bent down and placed his hand near her leg. "Flash Mend," he said, and radiant light flashed out toward her wound. The pain vanished instantly, and she saw the gash vanish in real-time.
+
+"Thank you," she said. That isn't the power of a level eight healer, not even close, she thought as Yuki stepped away.
+
+"Happy to help," the elf said, the mask obscuring his facial expressions, making him hard to read.
+
+"If you don't mind me asking," Hina began as the group turned and resumed moving, "do you have a detection skill?"
+
+Yuki tilted his head. "What do you mean?"
+
+"The Canopy Stalker, you noticed it, didn't you?" she insisted. The kill notification had split the kill reward, meaning the system hadn't deemed the kill solely hers. Nobody else had shot any spells toward the Canopy Stalker, so Yuki was the only culprit.
+
+"I..." Yuki began, seeming hesitant to answer.
+
+"Hina!" Alex shouted from the front of the group. "Get back in the trees now that you're healed. More Canopy Stalkers will be lurking."
+
+Hina clicked her tongue. "If you have great perception, use it for the good of the party," she said before leaping into the trees again.
+
+That way, you will expose yourself sooner, Hina thought, and I can convince the others that you aren't what you say you are. After all, you don't walk or act like a low-level healer.
+
+She looked down at Yuki, who was staring up at her.
+
+You carry yourself like a killer.

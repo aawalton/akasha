@@ -1,0 +1,225 @@
+---
+id: 38a6b506-2358-5692-b135-b92cde2e13ed
+page-type-slug: story-chapter-royal-road
+title: "Chapter 362 : Deduction"
+slug: 0063-chapter-362-deduction
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 63
+ownLength: 2400
+unit: words
+publishedAt: 2026-03-18
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3164551/chapter-362-deduction"
+royalRoadId: "3164551"
+---
+
+After teleporting to the outskirts of the Feirelle grove, I took on the familiar form of Sylthaeryn. To be perfectly honest, it felt great to return to this shape, as, other than my original body as a lump of slime, it was the one I was most comfortable in. Coming from a shapeshifter that had the potential to become anyone, I felt like that held some significance.
+
+Maybe it's because she sacrificed herself to me, rather than me taking it?
+
+I wasn't about to go looking for some deep philosophical meaning behind it, but there was definitely some form of kinship with this shape and me. Or, heck, maybe I was just attached to it after putting so much time and effort into perfecting it! I had to work from an incomplete profile, not to mention the achievements and reputation I had earned.
+
+Putting all that aside, I rapidly approached the grove and was promptly welcomed by none other than Paeris, who revealed himself from the shadows.
+
+"Mistress Sylthaeryn, you've returned… earlier than anticipated," Paeris said.
+
+"I had some questions that needed answering, and I also wanted to make a progress report," I replied.
+
+Paeris gave a deep bow and led the way, taking a somewhat hidden path that was obscured through tunnels and roots from the great tree. Once inside, we were taken to a room, and I could sense magical boundaries being set around it, creating a space for a private conversation. Paeris himself visibly relaxed, and the perfect image of loyal reverence quickly faded.
+
+"What do you wish to know?" Paeris asked.
+
+I smiled and relaxed my own character, dropping the elven princess persona and being more of myself. Before we got down to business, I gave an update on our situation. I mentioned completing our godly quest—even though it was nothing of the sort—and also said that I had finally planted my hometree.
+
+In fact, while the conversation was going on, I received an unexpected notification which really brightened my mood.
+
+<The Mermen of the Vaelyssan Region have been defeated. For destroying the dominant monster faction, you have been awarded 1 Legend Point. Legend Points remaining: 5.>
+
+"Is something the matter?" Paeris asked, likely noticing my abrupt change in mood.
+
+"I just received some good news," I answered, not hiding my smile. "In fact, I guess I'll move onto that subject so you can have some context…"
+
+I briefly mentioned that I'd destroyed the region's dominant mermen city. While Paeris was impressed by the accomplishment, ultimately, it wasn't something that would directly benefit the Feirelle elves. However, this was excellent news for the Nyrelis elves, and if they knew the Vaelyssan Sea was significantly safer now, then they could claim more of its resources.
+
+"Just mention that I did it as a favor for their previous help, or something like that," I suggested.
+
+Paeris nodded. I wasn't sure what debt Loreleia had taken on to help me escape, but if it lessened that burden, then that was good news for in my book.
+
+Speaking of which, I received a minor update in return. As Loreleia had previously mentioned, the elves did things excruciatingly slowly. Even though direct evidence had been brought to the high elven court, they were still taking their sweet time about it.
+
+The only positive news about the situation was that the Dornhallow elves had been isolated; their hometree had been severed from Caelthal while they were being investigated. Of course, this didn't stop any channels from their grove, but not even the high elves could stop them in their local region.
+
+"Their wings have been clipped. They can only cooperate or flee," Paeris said.
+
+"What if they do run away?" I immediately asked.
+
+"It's possible, but that would be directly admitting their guilt," Paeris replied, a dark smirk creeping onto his face. "They would be directly branded as traitors and dug up by their roots. No one in their branch would survive."
+
+I guess that's the outcome we are actually hoping for. It would escalate the situation but also expedite it.
+
+With all of that out of the way, I finally got down to business.
+
+"I'm close to maxing out [Roleplay], and I was wondering if there was a higher skill version, or if I need to uncap it."
+
+Paeris appeared to be genuinely surprised. "So soon?"
+
+I nodded and began explaining how I'd received such groundbreaking advancements. Paeris was actually very familiar with how I'd used the skill, separating myself from the identity so that I wouldn't have to witness activities I didn't want to be a part of.
+
+"You risk losing yourself if you indulge in that method too much," Paeris warned.
+
+"Loreleia mentioned it to me before, although I don't think you or her realized the unique position I'm in due to my species."
+
+"Oh?" Paeris asked, sounding quite curious.
+
+I started by explaining the various personas I'd created, both before and after I'd received [Roleplay]. So far, this appeared to be within Paeris' expectations, as I was a shapeshifting monster after all. However, I then started revealing some details about my [Sub-Cores] and how I could have them take on acting roles for me.
+
+Paeris' eyes widened in disbelief, and I got to witness the elf completely breaking the suave image he'd built and refined over what must have been years. This became especially apparent when I revealed that I was even having the identities act and work on my behalf.
+
+"So at the moment, there's no real risk of me losing myself, since I'm technically not the one involved. However, there's a big downside to all of this…" I sighed.
+
+Paeris was flabbergasted by my statement. "A downside? If I'm understanding you correctly, you've effectively mastered this skill with no consequences, and are using it far more effectively than even I could have imagined."
+
+I shook my head. "Can you really not see the downside? It feels so obvious to me…"
+
+Paeris frowned, perhaps trying to see where my issue was. However, when he remained silent, I gave the answer.
+
+"My other identities are stuck with my class. This is especially bad with the professions, as they aren't growing until I momentarily swap over."
+
+Realization sparkled in his eyes, and he finally understood where I was coming from. Admittedly, unless you were in a position like mine, you wouldn't really see such a downside. Why would you want multiple personas active at once? Nobody had enough skills and abilities to juggle so many classes at once, and this went beyond even what [Multitasking] could accomplish.
+
+"So you're hoping to assign each personality its own class, perhaps even its own skills?" Paeris asked.
+
+"Just the class would be enough, although if they can handle their own skills too, that would be great—it'd save me a ton of effort in trying to clean up my profile."
+
+"Even if it's a little inconvenient, surely it doesn't matter since you will be all together anyway?" Paeris questioned.
+
+I smiled and decided to drop a big bombshell on this unsuspecting elf.
+
+I smiled wryly. "Who said they need to be together with me?"
+
+Paeris' shock and disbelief were immediately evident, to the point of uncharacteristically slamming his hand against the table.
+
+"Didn't you say that nothing separated from you continues to function? You were even under the scrutiny of a truthseeker!"
+
+"I couldn't back then, but things have changed!" I quickly explained.
+
+Paeris was visibly upset, taking a moment to regain his composure. "I see…"
+
+Sensing his continued discomfort, I began to explain it in more detail. I emphasized that it was something I literally just gained, not even a day ago, and even revealed that I could only maintain a single separation at the moment.
+
+Usually, I'd be more reserved about my secrets, but at this point, I was tied extremely deeply with the Feirelle elves. I hoped that if I were more open and honest, they would reciprocate.
+
+"I don't know if I can help you…" Paeris admitted.
+
+I sighed, slumping in my chair with disappointment.
+
+"But I'm willing to try," he continued.
+
+I quickly perked up, staring at him in bewilderment. "Can you?"
+
+"Since you already know about uncapping, it shouldn't be too much of a surprise. There's another method called deduce," Paeris explained.
+
+"Deduce? Why have I never heard of it…" I grumbled.
+
+"It's not often used because most often you will get no results," Paeris answered.
+
+I frowned. "Wait… No results?"
+
+Paeris nodded. "You are effectively asking the system to grant you further insight, to deduce a higher skill or trait you are capable of. The catch is that it's not a guarantee, and the price cannot be refunded."
+
+"What's the price?" I asked, though in my heart I already dreaded the blatant answer.
+
+"Well, points of course," Paeris answered.
+
+My mood quickly soured. Assuming Trixie knew about this, it was no wonder she didn't bother mentioning it. I was already upset by the astronomical costs involved with uncapping, and now there was a fee that could result in nothing?
+
+"How does it work?" I asked, although I was already mentally writing this off as a dead end.
+
+"Well, much like uncapping, you do the same, except with the thought of deduction. Then the system asks you for a price, which you can pay. If you are fortunate and it is within your capability, then you will receive a revelation of upgraded ability. If you are unlucky, you will only get a hint of where your answer lies."
+
+Are points so plentiful that the gods needed people to gamble them? I'm basically broke!
+
+I was not pleased, but I curiously took a look at [Roleplay] and tried my luck at deducing it.
+
+<Deduction cost: 14 skill points.>
+
+I choked and nearly vomited. Fourteen points!? Even uncapping was cheaper. I was beyond outraged. I was absolutely livid!
+
+"Is something the matter?" Paeris asked.
+
+"It wants me to pay fourteen skill points…" I hissed.
+
+"Your skill isn't maxed yet, correct?"
+
+I nodded.
+
+Paeris chuckled. "That makes sense then. It is likely the cost to level it up and then deduct it. You can't deduce unless it's at its maximum level. You are effectively trading an opportunity to go to a new ability, or uncap it and enhance what you know already."
+
+"So… It would cost me five points to deduce it?" I asked, still feeling bitter. "That's still not cheap… Especially on a gamble."
+
+Paeris paused and then nodded.
+
+"Indeed, it costs me only five points," Paeris replied.
+
+That's not much better…
+
+"I'll pay this for you. Perhaps we will get lucky," Paeris declared.
+
+"Are you serious? That's five points we are talking about!"
+
+"I have some to spare, and I'm admittedly a little hopeful in this path you are trying to take," Paeris revealed.
+
+I scratched my head in confusion. "Hopeful? Please explain…"
+
+"Well, if you can create personalities that act and behave on their own. Can you not give us Lady Sylthaeryn?"
+
+It was my turn to be shocked by the unexpected bombshell.
+
+"I only have one separation at the moment," I reminded him, not outright denying his request.
+
+"But you'll likely have more as your trait improves, correct?"
+
+"That's what my gut tells me," I answered honestly.
+
+"Then that's enough. When you can create another separation, I request that you send us Lady Sylthaeryn. For that, I will do my utmost to help you."
+
+Paeris sounded genuine with his proposal. In fact, I couldn't really see any downsides to this arrangement. Sure, I'd lose a single [Sub-Core] and one of my networks, but I'd also gain extra proficiency and probably experience at the same time. Not to mention further solidifying my bonds with the Feirelle elves.
+
+"I'm willing to try deducing up to three times," Paeris suddenly said.
+
+Did he take my silence as not wanting to accept the deal?
+
+"Three times? I thought it was a one-time thing?"
+
+Paeris shook his head. "Each deduction is like a hint towards the goal, if not outright granting the revelation. If it fails, I'm hoping three hints would be enough for your purposes. Unfortunately, I can't afford a fourth deduction at the moment…"
+
+Wow, he's willing to spend fifteen points on me at a minimum. Talk about generosity!
+
+"Okay. As long as you are willing to wait until I get my next level. I can't afford to lose the cores I'm keeping on our island."
+
+"Then it's a deal," Paeris said, sounding delighted.
+
+I was expecting him to ask for a contract or an oath or something, but he started deducing right on the spot. Evidently, he really trusted me, or perhaps he knew I'd also be benefiting from this arrangement.
+
+Actually, now that I think about it, if I do leave a core here to be Sylthaeryn, then having her own class would be highly beneficial for the elves, too. Huh… Did I somehow lose out on this deal?
+
+While I was lost in thought, Paeris must have finished spending his points. However, the look on his face didn't exactly inspire confidence in me.
+
+"I didn't receive an answer, but I got three hints…" Paeris explained.
+
+"Go on," I urged.
+
+"There is a further path, but I'm incapable of reaching it. It requires one to be a shapeshifter and be capable of infiltrating and assuming multiple roles across races."
+
+"I check all of those boxes… But is that it?" I asked with a frown. "Am I really going to need to spend five points myself?"
+
+"The last hint I received was that the closest answer lies in the ocean," Paeris said, looking somewhat apologetic that he couldn't offer more.
+
+He spent fifteen points on this? What a ripoff!
+
+I felt terrible, but I still put together the hints he'd received. I quickly found what I assumed was the answer, although it wasn't one I was fond of, especially considering the notification I received earlier.
+
+Shapeshifting infiltrators in the ocean… Isn't that the sirens?
+
+I stared at the legend point I just received. If the mermen were gone, and they were my answer, then had I accidentally screwed myself over? I pulled up their profile, but unfortunately, there was no answer within. Perhaps it was something they had the potential to gain, rather than something they received naturally. As I closed the profile, I felt miserable.
+
+Well, shit…

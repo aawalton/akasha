@@ -1,0 +1,331 @@
+---
+id: ede68dab-539c-5bab-b6ae-01030c3cb194
+page-type-slug: story-chapter-royal-road
+title: "57 Mountains of Madness"
+slug: 0014-57-mountains-of-madness
+partOf: the-new-world
+position: 14
+ownLength: 5128
+unit: words
+ownProgress: 5128
+publishedAt: 2017-10-12
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/167481/57-mountains-of-madness"
+royalRoadId: "167481"
+markedReadAt: "2026-06-29T21:21:11.486Z"
+---
+
+I pointed at the three named ones, “So we kill them, go into the tunnel, clear out the eldritch, then escape before the rift closes?”
+
+Torix shook his head, “Close, but you won’t have to escape at the end. All that happens is the tunnel converts into a normal dungeon once the rift keeper is killed.”
+
+I sighed, “What level should we be expecting from it then?”
+
+“Nothing higher than level 1000. It will likely be another of the angels, like Gabriel.”
+
+I raised an eyebrow, “I thought angels were a human thing?”
+
+Kessiah grinned, “Come on. You know by now that most myths have some truth in there.”
+
+I frowned, “You’re telling me angels and heaven are real?”
+
+Torix shrugged the guard’s shoulders, “Your world is at the dead center of a rift. There have been signs of their presence in the past, throughout your history. Many of your myths are based on these signs, such as the Greek mythology or Lovecraftian fiction. They saw the signs, but they couldn’t prove they existed using the standard logic, so their imaginations filled in the gaps.”
+
+I blinked a few times, “What part of the Greek mythology and stuff is real then?”
+
+Torix shrugged, “Very little, besides the imagery. It’s amazing how mortal minds latch onto the visions of truth far more than thoughts of truth. Seeing is believing, as your kind puts it. Sentients neglect truth proven from logic. We all like to wait until the truth can no longer be denied before accepting it.”
+
+Kessiah leaned onto the shoulder of the guard, “I read a little of that stuff too. The powers were correct, but the Greeks looked at them as gods. I guess something like that would be godlike compared to a normal person.”
+
+My mind was swimming with conspiracy theories as I said, “Did a strike team from Schema come and eliminate them?”
+
+Torix replied, “Yes.”
+
+“And did they leave Stonehenge and the pyramids?”
+
+“Of course not. Why would they reorganize giant piles of rocks? That’s something simple minds would think of.”
+
+I deflated, “Oh, yeah of course. Anyways-” I turned to the portal, “You think the angels or whatever are in there?”
+
+“Indeed I do. You’ve seen what lies underneath their shells. They deceive those that worship them, grabbing tribute and sacrifice. The eldritch are oppressive, and seen throughout the history of your world. The Spanish inquisition, the holocaust, there are many examples of them interfering with your world.”
+
+Althea murmured, “From what I’ve seen from Daniel, it doesn’t seem like humanity needed much to make them do all that. It’s more like they just tipped your war hungry race over the edge.”
+
+I waved her off, “Alright, but is there anything I should know about the angels before I go down there?”
+
+Kessiah leaned another hand onto Aatrox, her weight resting on him. The guards started straining as she mumbled, “Nothing more than you already know. They're tough, especially the upper level ones. You’re lucky that Gabriel hadn’t turned into an archangel yet. That’s when he gets tough.”
+
+Althea frowned, “Uh, you make it sound like you fought him before.”
+
+“That’s cause I have. The angels are always looking for ways to get into other worlds. You can’t kill them here. The only way to handle them is over on the other side. You have to get them while they’re in their home turf, and even I’m not that crazy.”
+
+I sighed, “Honestly, it doesn’t sound like we’re ready for it. I’m not that crazy either.”
+
+Kessiah leaned up, pushing the guard so that he stumbled sideways, “This is a teeny, tiny rift though. They haven’t fed enough to be able to kill us, and besides. You and Althea are crazy powerful for your levels. You both have a lot of eldritch in you, so you won’t be de-buffed like we would be. In fact, I get the feeling you’ll actually be stronger there than here.”
+
+I pursed my lips, “Alright, I’ll give you guys the benefit of the doubt. You haven’t steered me wrong yet.”
+
+Kessaih patted my back, “You bet…Damn you’ve grown. What the hell. You’re almost as tall as me.”
+
+I met her eye with my own. I grinned, “It won’t be much longer now and I’ll be looking down on you instead.”
+
+Kessiah grinned before pressing a finger into my chest, “Don’t get to cocky little guy, or else I’ll have to put you in your place.”
+
+I smiled back, my armor forming teeth, “We’ll see how far I’ve come and how far you’ve fallen.”
+
+She pressed her finger against me, pushing me back and turning me around. As I saw the rift, she said,
+
+“Wait till after you get through that. I’ll be waiting little man.”
+
+Althea gagged, “Will you guys shut up already?”
+
+Kessiah leaned over Althea, “Is somebody…jealous?”
+
+“What? No-”
+
+Kessiah grabbed Althea and started tickling under her sides. Althea burst into laughter before jumping away. Kessiah grinned again,
+
+“See you both when you get back. You’ll be fine. Daniel’s strong, and you’ll find out that you are too.”
+
+Althea blushed, “Thanks.”
+
+I walked out into the stadium stairs, “Come on. Let’s go fuck some named one’s up.”
+
+We paced down the steps, my feet thumping on the floor and Althea’s nearly unheard. A couple dozen steps later, and a named one turned towards me.
+
+It was the one with bat wings covering him. He outstretched his wings, exposing a torso with the ribs jutting out of his skin. His face opened, his cheeks splitting. The others each outstretched their wings, the mantis’s buzzing and miss metal feathers flapping.
+
+They flew towards us as the bat person leaned forward. He latched his hands into the ground, and an energy beam charged in his throat. One of Althea’s spears lodged through him a second later, killing him.
+
+The two-winged ones dived towards me. The ascendant mana poured from me before I lifted my hand and forced it down. The mantis thing shot down before smashing against several chairs. Metal feathers launched into me, her talons opened to gouged me. I put one leg back and grabbed her talons.
+
+When her feet met my hands, her claws shattered against my metal. I gripped her feet, and her body flew past. I didn’t budge an inch. The bones in her legs broke as her body kept wanting to fly forward. I clasped my hands, breaking her toes. I pulled her downward, slamming her against the concrete.
+
+The metal feathers ripped from her wings and back against the stairs. I placed a foot on her back and jerked her left leg. The joint ruptured from the socket, the skin splitting. Blood exploded from her wound before I stepped onto her chest. Blood shot out of her mouth before I slammed her leg into her head, cracking her skull.
+
+Two clubbing’s later, and she stopped struggling. The mantis man lifted himself up, buzzing away before Althea shot a bolt between his twitching eyes. I leapt forward as he fell. I lost levity before reaching the mantis. I pressed my heels into his back, sending him to the bleachers. As I landed on them, the chairs beneath us crushed like tinfoil before the green goo inside the mantis detonated under my feet.
+
+The cracks rippled through a portion of the bleachers as I stood tall again. I had just jumped onto him as he fell and used my weight against him. I glanced at a hand. There wasn’t anything unsteady about the outstretched fingers. There was no fear. I clamped my hand. It was good to not be afraid.
+
+I ran towards the entrance of the rift, smashing chairs underfoot. I leapt up and into the green grass at its center. As I landed on the ground, my feet sunk into the earth. The ground didn’t feel hard or sturdy anymore. On my metal feet, it was akin to sand. Something that didn’t give enough stability for me to use my full strength.
+
+With little telekinetic fields around my feet, that softness wasn’t near as bad. I pushed on my feet, digging them into the ground as I shot forward. As I reached the rift, one of the person sized insects crawled from it. I tackled into it, sending us both flying into the rift. We kept moving before I smashed the monster against the other side of the rift.
+
+The green goop exploded once more before I grew claws from my hands. As I slid down the wall, I stabbed my fingers into it. It stopped my fall, the fleshy wall being hard as stone. I glanced up and Althea jumped into the rift right after me. Her arms reformed into two titanic arms, the fingers thick as most men’s forearms.
+
+Those fingers pierced into the stone wall with ease before I grinned,
+
+“You ready?”
+
+Althea nodded, the look of battle across her face. It made her eyes narrow, and her jaw turn hard. The focus, the energy, that was something I loved about fighting. It wasn’t like I was just standing still waiting to die. It’s when you’re closest to death…that’s when you feel the most alive.
+
+I glanced down, and the tunnel turned black at the bottom. I let myself go, falling into the abyss. As the gravity pulled me down, I hit the black fog. As the fog encompassed me, a burning sensation covered me. It wasn’t a painful kind of burn though. It was a pleasant burn. Have you ever had scratches from briars? When you go to shower, it’s going to burn. It’s the kind of burn you know you need though.
+
+That sensation wrapped around me before something else disappeared. It was a subtle feeling, like losing a nagging feeling you forgot was there. As I fell further, the fog disappeared. Out into the world I came.
+
+It was a beautiful hell. I flew upwards now, like gravity flipped. That let me fly up into the sky and see what was there. Around us was a field of spikes. Metallic, cerulean, and ominous, the spines dripped a thick red fluid that all kinds of darker blue insects devoured. They fought for the fluid, like a swarm of ants.
+
+In disparate spots, portions of the bugs would disperse from one of the icy millipedes. They drilled out of the ground and dragged other insects into their burrows. The ground was gray, the kind of gray you see in a rotting corpse, but every part of the ground teemed with life. The shades of blue and white flowed together, almost like a river of paint.
+
+As I fell towards the ground, I glanced up at the red sky. There was a pillar of energy firing off into the clouds, reaching high up before splitting into white tendrils that reached around in every direction. The invisible forcefield was where all the life ended, like this was a different world being forced into our own. The red sky and air floated into and out of the sphere, as if just outside of the sphere was a different dimension. Hell, maybe there was.
+
+I didn’t have time to think about it as I landed against several cerulean spikes. The rods of metal broke against my metal skin with a brittle cracking. The insects dispersed from the points of impact, scared shitless I’m sure. I pulled at oppression, revving the aura up to full strength. Glancing up, I spotting Althea flying over. I shouted,
+
+“Don’t come near me.”
+
+“I know. I’m not going down there. It’s disgusting.”
+
+I glanced around, and all the insects crawled towards me. They seemed to know I was an enemy. I glanced at my health bar, but there was none. I frowned. That’s the feeling that went missing, Schema’s influence. It didn’t matter much for me though. I could operate off feel anyways.
+
+Some of the smaller insects curled up and died before reaching me, oppression draining the life from the tiny creature. The larger ones reached me in droves, but I smashed them with ease, drilling through their shells with my telekinetic wrath. A few minutes later, and I was bathing in the blood of the insects. I destroyed he insects against the blue, metallic spires around me. I broke the spires, and I wielded them as weapons.
+
+The bugs, they couldn’t hurt me. I was too tough, too hard, and too vicious. The droves turned to hoards that turned to groups then single insects. Before I knew, I cleared out an area the size of oppression around me. Glancing around, my armor would reach out and pierce insects, draining them. It was field day for my armor. After all, it enjoys a feast.
+
+Althea’s voice ebbed above me,
+
+“You’re the guy that just runs down there and starts killing bugs. Do you see what I mean?”
+
+I stomped on a bug, the shell caving before ripping a spine from the gray ground and gouging another beetle above me,
+
+“Unlike you, I can’t fucking fly. I would try talking things out.” A bug leapt at my face, the mandibles clawing towards my nose, “But these things don’t seem like they’re that into negotiation.”
+
+Althea fired harpoon after harpoon at the beetles before one of the centipedes shot out of the ground. With tiny, red eyes, it glanced at me before glancing at all the carcasses. It hissed at me, trying to scare me off.
+
+I banged my chest before spreading my arms wide.
+
+“Come on you fuck.”
+
+The centipede shot towards me, the ends of its legs ending in shining claws. As they tapped against the earth, ice spread from below the monster. It vomited the liquid nitrogen at me, but I caught the liquid with my telekinesis.
+
+With a pull on my hands and shoulders, the liquid pulled into a sphere as I launched the liquid back onto the creature. As it met the shell, the ice spread atop the monster.
+
+It must have had specific parts of its body designed to hold the cold liquid. It wasn’t immune to the cold altogether. It reared back before I ran up and grabbed it with a telekinetic link.
+
+Once set onto the creature, I jerked the monster towards me. The invisible pull surprised the creature, my feet digging into the ground. Once it flung towards me, I stepped forward and spun on my heels.
+
+A heavy right straight shot towards the monster’s head before tearing through half the centipede’s body. The cold liquid landed on the metal of my armor, but it only hissed for a moment before evaporating. It really wasn’t that bad.
+
+I shook off the cold before glancing around. No more insects were coming towards me anymore, so I walked around for a few minutes and absorbed the eldritch around me. At least that’s what I thought they were. I couldn’t be certain if these were the same things after all.
+
+At that moment, an odd sense of familiarity returned. My HUD didn’t return, but I did receive notifications.
+
+Data upload present. Current total level growth: 28. Upload speed: 1 attribute point per minute.
+
+So the data worked like a phone’s data line. You could still get the benefits, it just took a long time. I guess that’s why Schema didn’t bother with the HUD. My health and stamina bars where only useful if they were up to date. Otherwise, they were useless.
+
+My armor on the other hand rippled across me with delight. Maybe here there was more ambient mana in the creatures, letting it get more of its fill. I grew horns from my back before retracting them. Controlling my armor was easier here compared with Schema’s universe. Ascendant mana was more powerful as well, though harder to control.
+
+The way the air smelled here was different as well. It was sweeter, like it made me wild and want to just go and tear into something. Althea seemed to be like that as well. Her firing rate of her rifle was far greater than in the other world. At the same time, she didn’t seem as tame now. She was more like when we first met, someone who desperately wanted control.
+
+At least, I don’t know. It felt that way. She flew in circles around me, keeping her distance but keeping lookout as well. All around us, there were mountains, like this was a spire valley. That’s what I named it then, Spire Valley. It seemed fitting.
+
+On top of one of the mountains, several things moved in the distance. They seemed like they were feeding on something. There were no signs of movement or life on the other mountains, so I pointed and shouted,
+
+“Come Althea. Let’s go find this Rift Keeper.”
+
+She glided towards the mountain before I slammed my feet against the gray ground. It was harder than dirt on Earth. Instead of giving like a thick mush, it held firm against my steps. It let me sprint even when the engine of my ascendant mana roared.
+
+We passed through another field or two of the spires, each of them resulting in subsequent slaughters. Nothing about these creatures was difficult to deal with. They were dungeon monsters, through and through. It didn’t matter to me if we had Schema’s help or not. If I retained my enhanced body, I could handle beings like these with ease.
+
+The mountains in the distance closed in after the third field. Along the mountains were blue, winding trails. As I closed into these glowing paths, I found blue magma. Unlike normal magma, this blue gunk froze everything near it. All around the exposed bits of magma, baby centipedes were collected. They nibbled at the blue, some of the smaller ones a deep red.
+
+As I saw bigger and bigger ones, they grew whiter in shade. This was how they gained their icy abilities. They feasted on the cold when they were young then ate the spire drinking bugs. It was a weird ecosystem, but it wasn’t so outlandish that I couldn’t comprehend it.
+
+That was my impression of the eldritch world so far. It wasn’t that the world was malignant or evil, the world was just different. It was a brutal, savage place, but it wasn’t something humanity couldn’t master. I hadn’t seen much of it so far though.
+
+Before starting the climb, I shut oppression down. Althea flew down towards me before we had a quick lunch. We both carried packs on our backs, mine much smaller than hers. She pulled out the steel legion’s rations and water. She poured the water on the dried husks, revitalizing them. As the food grew, the meal heated up as well. By the time it reformed, it smelled pretty good, kind of like a microwave dinner.
+
+I finished eating before she started. From my satchel, I pulled out one of Torix’s rations. I lifted it over my face and dropped it towards my armor. My armor split, letting the packet burst against my face. It soaked into my skin, a sort of intravenous cocktail. Weird, I know, but I could eat much faster this way.
+
+As Althea ate, I practiced telekinesis. I fine-tuned my control by juggling three rocks nearby. Whenever I picked something up, I had to handle whatever weight I lifted. When working with these tiny stones, I could afford to use the fingers in my hands and muscles. When working with something larger, that just wasn't the case.
+
+I had to make sure I lifted using my legs or back. Otherwise, I would try to lift a boulder with my pinky finger one day. My bones would snap like twigs. Er, or bend like metal bars. I didn't really know what I was made of anymore.
+
+Deep in my focus, Althea ate for a few minutes before she spoke,
+
+“This is what a fringe world looks like.”
+
+I frowned, “Well that’s disappointing. I imagined they would look a lot worse.”
+
+She sighed, “Of course you would.” She glanced around, “It’s hell here.”
+
+I rolled my eyes, “You can’t get out of hell. This is hell if you’re near the bottom of the food chain. All you have to do is move yourself to the top of it. Then, it’s not so bad.”
+
+She nodded, “Yeah. You’re probably right. When I was kid, monsters like that gave me nightmares. I’d shake so hard.”
+
+I walked over and sat on a stone, leaning towards her,
+
+“When did you get taken from your homeworld?”
+
+“When I was about…4-5. I was young. I didn’t know my parents, but I can sort of piece things together from spare memories here or there.”
+
+“You probably aren’t even that scared anymore.”
+
+“Yeah…It’s so…I don’t know. Weird?”
+
+I leaned onto one hand, letting the other arm relax, “What do you mean?”
+
+“It’s just…The thought of coming here was terrifying. Now that I’m back, it’s almost like I’m in a home I never knew I had. I feel better here than over there.”
+
+I glanced at my relaxed hand, pulling the armor off my face,
+
+“Hmmm…It is weird, because I do too.” I glanced up at her, “It’s like I was made to be here.”
+
+She laughed a sardonic sort of laugh. It wasn’t out of happiness. It was out of spite.
+
+“Yeah, I actually was made to be here.”
+
+I nodded my head, “Yeah, I never could gather what the lab was like, or what they did to you there.” I raised my palms to her, “Not that that’s a problem or anything. You don’t have to tell me shit.”
+
+She waved a hand towards me, “No, no. It’s not that big a deal. We’re on a life or death mission. Telling you some of that stuff isn’t a big deal.” She finished her meal before setting the tray to her side. She glanced off towards the fields of metallic spires below us.
+
+“I...I wasn’t the only one there. There was a bunch of us. What they did exactly, I don’t know. They wouldn’t let us look into lab rooms or anything during the experiments. They would knock us out before performing the experiments as well. No point in keeping us awake and having us squirm after all.”
+
+She bit her lip,
+
+“That’s the thing. It’s not what happened to me that bothered about it. It was watching what happened to other people. I had a friend called Sally. We would slide notes to each other when we walked past each other. I looked forward to those notes. I treasured them. They meant the world to me.”
+
+She glanced back at me, “I watched Sally turn inside out and eat two of the scientists.”
+
+I glanced down, sighing. I glanced back up, but Althea wasn’t crying. Her voice was hard as steel,
+
+“They fumigated the room with sedatives. When they finally got Sally back together, she smiled through the glass at me. The look in her eyes wasn’t right. She patted her stomach in there, and smiled like a pleased child. The voice, the monster in her head. She let it take over.”
+
+Althea seethed, “I’m never letting that happen to me. Never. When you tore my armor off and ruined the sedatives, I thought I was gone. I didn’t even care if I died. All I wanted was to stay normal…”
+
+She glanced down and took a deep breath, she looked back up at me,
+
+“I heard about the voice in your head from Torix. He laughed when he mentioned it, but my blood ran cold when I heard that. Don’t let it take control, Daniel. If you ever let go for too long, you may never be able to pull it back.”
+
+I grinned, “Don’t worry. I already have it under control. It isn’t taking me over anytime soon.”
+
+She blinked a few times. She reached out a hand, but she stopped the limb halfway through the gesture. She pressed her hands into a fist,
+
+“I think it already has you.”
+
+I raised a hand, my fist being level with my face. I glanced at it,
+
+“See, that’s the difference between me and you. You see someone stab someone with a knife, and you think the knife is evil. Me?”
+
+The mana raged from my palm,
+
+“I see a tool, only it’s misused. Whoever wielded the tool is evil. The tool itself is neutral. This armor, all the stuff that comes with it, I choose how I wield it. I can either surrender, or I can conquer.”
+
+I tapped a finger against my chest, “In the end, I choose if this is a gift or a curse. I choose, no one else does.” I grinned, “You get to choose too. Tell me Althea, is being an immortal shapeshifter a gift or a curse?”
+
+She glanced up at the red sky, grinning despite what she said earlier,
+
+“I’ll choose to make it a gift.”
+
+I grinned before standing up. I reached out a hand,
+
+“Now let’s go kick some ass.”
+
+She grabbed my hand and stood up. I turned towards the mountain and ebbed the ascendant mana into my runes. I shot forwards, Althea leaping into the air behind me. With her ability, she was far faster than I. Learning to fly would be quite useful, in more ways than one.
+
+I’d save that for later. I tore up the hill, tearing out clumps of the ground while Althea soared above. Once we ascended higher, the air thinned and cooled. A gray ice appeared as well, the snow smelling like lemons. The ground turned hard, like a dense stone. It didn’t give underfoot, holding up against the weight of my heels.
+
+With firm footing, Althea and I reached towards the apex of the mountain with the white spire atop it. As we reached it, several things floated around the mountain top. They were icy jellyfish but with a few differences. Around the edge of its bell head, innumerable spines jutted from the inside. The mouth was like an iron maiden’s inside.
+
+The tentacles stretched out from the middle of a jellyfish’s cap. The little limbs whirled around beneath it, bulbous orbs covering the tentacles. When a limb banged against a rock, one of those swollen spheres of liquid busted. Ice crawled along the rock.
+
+As I stared at the spectacle, no message appeared. I forgot Schema wasn’t here to help with analysis. From what I could tell though, avoid the tentacles and teeth. Pretty basic. Several of them floated towards us, but Althea nailed them with several spikes. Her fire rate improved, bolting four of the five monsters against the wall before they even reached me.
+
+Once it neared me, the translucent body of the monster glowed bright before a wave of sound shot towards me. The sonic wave trembled the air, like a cannon of sound. The wave past by me, busting my eardrums before a shotgun blast of ice shards imbedded into my armor. The tentacles whipped towards me. I weaved between them, slicing at them with telekinetic fields at the ends of my fists.
+
+They sliced through, sending the tentacles falling to the ground. As the monster tried passing by, I reached out and grasped it with telekinesis. Making sure the weight of the pull rested on my back, I lifted up which forced the creature downwards.
+
+Being as light as it was, the force of my throw sent it tumbling towards the ground. As it landed, the monster splat. What they had in offensive potential, they lacked in defense. I turned towards the others on the wall, and they were covered in harpoons.
+
+I grinned, “How are you firing so many bolts?”
+
+“I made some earlier so that I could use them now.”
+
+I slammed my hands together in a clap, ebbing a slight shockwave, “That’s what the fuck I’m talking about. Good Job.”
+
+She shrugged midflight, a smile on her face. Maybe putting more into the whole fighting thing helped her cheer up some. I didn’t really know. Regardless, we reached the top of the mountain where the white energy beam spiraled from.
+
+Surrounded by the red sky and clouds, I frowned at where the energy poured from. It beamed from a stone pillar, covered in runes reminiscent of the runes from BloodHollow. Around the pillar, a spiral staircase made of white stone went deep into the mountain. I pulled oppression in, turning the aura off as Althea landed behind me.
+
+She glanced up at the spire of white, “What the fuck is this?”
+
+My eyes narrowed, “A straight shot to the dungeon boss.”
+
+We walked down the stairs, Althea dragging her hand against the stone. As we descended deeper, the sounds of an insect’s shuffling filled my ears.
+
+“There’s going to be bugs. Lots of them. Be ready.”
+
+Althea sighed, before clenching her unformed fist, “Let’s go smash them or whatever you’d say.”
+
+We reached a doorway covered in runes. As I glanced at them, they unraveled a bit, like a knot untying. I approached the doorway before leaking my ascendant mana into it. The mana poured through the runes, lighting them red before the spire behind us turned pink in color. I glanced at Althea, but she didn’t know what was going on either.
+
+With a loud crack, the door slid. With the sound of sliding stone, the doorway crept open before I paced into the room. Within was a deep dark abyss. The ground and walls moved, as if alive. Something stored in glowing capsules was moved on the back of creatures, carrying it towards the queen of them all. It glanced at us, the massive, twitching eyes setting its sights.
+
+It was a giant scorpion with a normal woman rising from the top of the creature. Beautiful, black hair with a curvaceous figure, the monster grinned with an enchanting smile. It whispered to me, singing songs of lust and power. It reached out with a clawed hand and eyes like emeralds. I grinned back, my smile laced with bloodlust.
+
+It saw my sanity despite its charms. With a bitter grimace, she reached out, pointing at us. As she did, the floor and the ceiling moved. It was as if the entire room was folding in on itself. Althea shifted beside me, her bones cracking out of placed before she rasped in a warped voice,
+
+“I’ll be outside. Use your aura.”
+
+She climbed up and out of the stairs with monstrous hands. As I turned towards oncoming horde, I escalated oppression to its full might. I clamped both fists and grit my teeth. I was ready for what was to come.
+
+And so, there was a sea of monsters.

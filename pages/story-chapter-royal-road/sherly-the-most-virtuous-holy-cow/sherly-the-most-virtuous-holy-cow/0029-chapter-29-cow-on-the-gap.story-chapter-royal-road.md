@@ -1,0 +1,181 @@
+---
+id: 455b4790-1226-5dfc-a445-96e99ffeca89
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29 - Cow on The Gap"
+slug: 0029-chapter-29-cow-on-the-gap
+partOf: sherly-the-most-virtuous-holy-cow
+position: 29
+ownLength: 2178
+unit: words
+publishedAt: 2025-12-12
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2841868/chapter-29-cow-on-the-gap"
+royalRoadId: "2841868"
+---
+
+Chapter 29 - Cow on The Gap
+
+”Four shervisviles. That’s quite the haul you two got there.”
+
+Sherly tried not to feel too proud of herself after Ishuin confirmed her haul, but she couldn’t help herself from grinning a little too much.
+
+“Gained a level as well,” she added. “And a total of 48 Evolution Strains.”
+
+“Great! You’re getting stronger everyday! That’s good!” The elf clapped her hands once, showing a smile and an approving nod. “We just finished lunch, what about you guys?”
+
+“We had some shervisvile,” Maymay replied.
+
+“We have some snacks and desserts if you need more to fill your stomachs. We’re continuing the march as well, but if your legs are too tired, I can have Kankan carry you around. It’ll be a little cramped, though.”
+
+Kankan was the name of Ishuin’s Crustiatian Crab. The gentle giant had been carrying some new recruits ever since they left Crossmark. While some were perfectly capable of long marches, others couldn’t keep up. They were required to still train their marching legs, so some were taking turns on the crab or in one of the caravans to rest.
+
+“I’m good,” Sherly said. “I could manage walking an entire day without food and water when I was still a cow. Well, barely.”
+
+“Good!” Ishuin turned to her second-in-command, who was at the front of the caravan. “Kasta! We’re good to go!”
+
+The human bow-master threw her fist in the air, giving a signal to the Cancer’s Claw. Every section of the caravan passed along the message, and soon everyone was on the march.
+
+“Now, about the shervisviles,” Ishuin started. “As part of the caravan, technically, we’ll include them into our supplies. However, it’s your first quarry since your evolution. So, it would make sense that you keep it.”
+
+“What use do I have for it?” Sherly asked. “Upgrades for my armor?”
+
+“Not exactly upgrades per se.” The elf Wielder turned to Edward, who had been approaching them from behind. He was jogging rather than marching in order to catch up.
+
+“I heard we got more shervisvile?” he asked.
+
+Sherly then proceeded to make a brief recounting of her hunts, in which the blacksmith eagerly listened to, nodding along with some enthusiasm. He asked about how her armor felt during combat and was insisting to not hide any criticism. For the cow-chilim however, despite having first hand experience with her gear, didn’t have anything specific to suggest.
+
+“Sorry, nothing comes to mind.”
+
+“Oh, that’s alright,” Edward said. “If something comes to mind, just let me know. For now, you said you also gained a level, right?”
+
+“Level 14, yeah.”
+
+“Would you mind if I inspect your Stalwart?”
+
+Sherly brought her greatsword out of her Domain Heart. While marching, Edward studied the weapon. And after a firm nod, he returned it to her.
+
+“At Level 15, you will unlock enough seals to use Ignite Blade.”
+
+“Oh, I thought that would be after I fully remove the seals of the first layer?”
+
+“That’s for the mastery of the Weapon Skill,” Ishuin said this time. “Unlike normal Skills which you invest levels into, Weapon Skills become automatically unlocked based on your current level at the time you attune to it. The mastery also adjusts based on your levels. They’re not the kind of Skills you practice, but instead, they provide you with enhancements depending on how much you’ve already invested in yourself.”
+
+“So, for example, if I’m Level 50 and I attune to a new weapon, I unlock all the Weapon Skills for that weapon up to Level 50?” Sherly asked. She understood that the question seemed repetitive, but when dealing with new knowledge, especially from one coming from a different world, she wanted to be as thorough as possible.
+
+“That’s right,” Ishuin replied. “That also applies to Armor Skills. Oh, and only Moniker Armaments have Weapon and Armor Skills that are unlocked on low levels. Most magical equipment requires higher levels.”
+
+“How high?”
+
+“The lowest we’ve recorded is Level 40,” Edward replied, perusing his System Console. “Says here, the Skill was Blade Enhancement. I guess that makes the weapon sharper?”
+
+“Sure sounds like it,” Ishuin added. “Anyway, going back to the shervisviles, Edward here can explain what they can do for your armor.”
+
+Sherly nodded and turned to her blacksmith companion.
+
+“It’s called reinforcement,” Edward said. “Gear Reinforcement is one of the most useful Skills a blacksmith can have. It has a rather high priority for us who aren’t Wielders, since we can only choose a few Skills at most. They’re different from upgrades, which we define as significant modifications on the gear, like magical enchantments or additional features.”
+
+“I see. By the way, how many Skills do you have?” the cow-chilim asked, falling into a tangent.
+
+“I currently have three Skills,” the blacksmith started. “Gear Forging, Gear Analysis, and Gear Reinforcement. But I have seven more Skill Points I can use to learn new ones.”
+
+“Unlike Wielders, it’ll be better for Edward to spend his Skill Points on different Skills, rather than invest them all to improve a single one,” Ishuin intervened. “Crafting-oriented Skills can be improved over time with practice anyway.”
+
+“That’s right,” the blacksmith agreed. “I’m waiting for the perfect reasons and chances to use my Skill Points, so I’m saving most of them for now.”
+
+“I see,” Sherly said, nodding. “So how does Gear Reinforcement work?”
+
+“I can use the materials you’ve gathered and combine them with the current armor you have. Mana will be involved, and rather than slapping on the extra shervisvile hide, instead, it’ll be similar to a fusion, or a mixture.”
+
+Edward placed his hands together, which looked like a praying gesture to Sherly’s eyes.
+
+“It won’t look anywhere near like this,” he explained. “It won’t make your armor bulkier. But your armor will be enhanced by the defensive traits of the extra shervisvile hide regardless.”
+
+“Is it an exact addition?” the cow-chilim asked. “If, let’s say, the defensive trait of this hide is 100, I’ll add that exact hundred to my armor, without making it thicker?”
+
+“There will be diminishing returns,” Edward admitted. “And of course, the more Gear Reinforcement an armor has undergone, the smaller the improvements. That’s just how it is. Of course, my current level with the Skill affects how much less you’ll get per reinforcement, which is why I’m offering this service for free.”
+
+Sherly wasn’t unfamiliar with these gestures. Artists of different kinds back in her world had done something similar, almost to the point that they were being exploited. It left a bad taste in her mouth. She didn’t want him to work so much without getting anything substantial in return.
+
+“We expect you to do it for free regardless, Edward,” Ishuin said, despite Sherly’s expectations. “Like I said before you joined, once you’re part of the caravan, you’re no longer working for profit. Well, at least for now.
+
+“Of course, it doesn’t mean that we’ll just take advantage of your talents. Like you said, you need ways to practice your Skills so that you can improve them. Which means, we’ll be prioritizing on making you work to improve so that you can better serve the caravan. And then, once you’re at the stage where people outside of the caravan start wanting your mastery, that’s when we’ll push you to work not just for your own profit, but for the caravan’s as well.”
+
+Sherly, quickly understanding her friend’s words, didn’t miss her cue and placed a hand on her blacksmith’s shoulder. “When we have time, I’ll be asking you to reinforce my armor, okay?”
+
+Edward’s eyes brightened. He was smiling from ear to ear, and it was taking all of his discipline not to jump around like a kid.
+
+“Yes, please!” he said. “Thank you so much for the opportunity!”
+
+The sun was on the way down. Sherly thought they wouldn’t make it to The Gap that day, and had quietly set her expectations aside for the next day. They stopped in the middle of the road, just like she expected. But when she was about to go to the open fields, in order to help make a temporary settlement, she realized no one else was going with her.
+
+They were going to the other side. Maymay was there jumping and waving for her to come over.
+
+Sherly hurried along and found the fields of grass cut off into pavement. In front of the entire crowd, she saw a bungalow type building with a sort of mechanism beside it.
+
+Looks like a lift or elevator of some kind… Wait!
+
+That’s when the cow-chilim craned her neck and saw the cliff.
+
+“Sherly! Over here!” Maymay called. The dog-zilim was standing on the opposite side of the lift. Ishuin and Duis were there as well, and Kasta was talking to Edward just beside them.
+
+The cow-chilim followed, and as she moved away from the crowd, she was finally able to realize the length of the cliff. Not too far from them, the pavement had given way back to nature, but even the trees stopped where the ground had vanished. Sherly couldn’t see past the trees to check where the length of the cliff, she assumed, extended.
+
+But she did see why they called it The Gap.
+
+She would be the first to admit that she had only seen canyons and the like in photos and videos. But even at that, she had some understanding of their scale and vastness.
+
+The Gap looked like it was a thousand times larger than the largest canyon she had ever known.
+
+It was so wide that the cliff on the other side that made up the valley was almost at the horizon. It was so deep that she could see some cloud formations way underneath them. The vista in the valley itself made her jaw drop.
+
+There were trees, mountains even. In the middle was a large river cutting through the entire length of the canyon. There were also some towers, but no matter how tall these buildings and forms of nature got, they couldn’t reach the top of the cliff. Birds flew as if they were migrating. And Sherly swore she even saw some sort of a gigantic fuzzy worm swimming in the air to get from one cloud to another.
+
+“What!? You saw one?” Kasta, Maymay, Duis, and Edward all exclaimed at the same time.
+
+“I think I did?” Sherly said, unsure. She was too busy appreciating the scenic view in front of her.
+
+“Those are cloud worms,” Ishuin explained. “They’re relatively harmless, but they’re almost impossible to find. The fact that you saw one means that it allowed you to see it. That, or you being from another world might have something to do with it.”
+
+“You guys are right,” Sherly admitted. “Finding out what The Gap is for myself was worth it. It’s like an entire country down there! It honestly doesn’t feel like something nature would create.”
+
+“Well, you’re right about that.” The elf Wielder scratched her head. “This canyon was the result of Lady Kansa’s battle against Tau-tau a millennium ago.”
+
+“Millennium? I thought Tau-tau became corrupted a century ago?”
+
+Everyone shook their heads.
+
+“That was when his demonic invasions started,” Ishuin answered. “His corruption had begun way before then.”
+
+“That would make Kobeni and the others…”
+
+“Ageless.”
+
+Sherly breathed out, letting the information sink into her memory. She turned back to The Gap, imagining what it had looked like before and during Kansa’s battle with Taurus. She tried to work out the amount of power it would take, but she couldn’t even begin to fathom what it would be like. A shiver escaped her. Instead, she tried to appreciate the breathtaking view.
+
+A thought suddenly came to mind.
+
+“When you invited me to the Cancer’s Claw, you said it would take us a few days to get to Crustia? Is it in The Gap?”
+
+“Well…” Ishuin scratched her chin. “When I said ‘a few days’, I meant, we won’t go over a month. We need to cross The Gap and make a few stops along the way. When we get to the other side, the next stop will be Crustia.”
+
+“And a month here is sixty days… I see.”
+
+“Yeah… Sorry for the confusion.”
+
+“It’s fine,” Sherly said. “I was just wondering, since traversing The Gap doesn’t look like a few days to me.”
+
+“It’ll be about five weeks, give or take a few.”
+
+“So about twenty-five days… Gotcha.”
+
+“Anyway,” Ishuin began, clearing her throat. She pointed towards the mechanism. “That over there is the lift to get down. Who’s going on caravan duty?”
+
+“I’ll do it,” Duis said, raising a hand. “I can fly, so this isn’t exactly a new experience to me.”
+
+“New experience?” Sherly asked.
+
+“Well, while they go down the boring way, we’ll do it the fun way,” Maymay said, smiling.
+
+Confused, the cow-chilim turned to Ishuin, who was smiling at her apologetically. It was Kasta who replied, however, placing an arm around Sherly’s neck.
+
+“We’re going to jump, of course!”

@@ -1,0 +1,199 @@
+---
+id: 0a661e4f-e3ba-59f9-afab-14bc1890d5e9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 361 : Separation"
+slug: 0062-chapter-361-separation
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 62
+ownLength: 2362
+unit: words
+publishedAt: 2026-03-16
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3156798/chapter-361-separation"
+royalRoadId: "3156798"
+---
+
+My first idea was to make a monster attack; after all, I had a plethora of profiles and their parts to choose from. However, I thought that might be a little too cruel for just a prank, not to mention it would be a waste of slime if Vee ended up destroying it.
+
+So, after giving it some thought, I figured I would just have Sylbera disconnect from the network and see how long it took Vee to finally notice that Sylbera was walking around without a connection. After all, all the black cable connecting them to the slime network was quite noticeable, and Leon had commented a few times about how creepy he found it.
+
+So I recalled the two [Sub-Cores] and instructed Sylbera to sever the connection, granting her complete freedom to move and do as she pleased without being bound to the network. At first, nothing happened, and Vee didn't notice, so I told Sylbera to be a little more blatant about it.
+
+This also gave me a chance to witness how this separated connection worked, and I found that I could project myself over seemingly without any issue or restrictions. Of course, that might be because the distance was basically not worth mentioning, and when I teleported to the Feirelle Grove and Caelthal, we would really get to see if there were any restrictions.
+
+Hopefully not, or I'll be losing a lot of slime… I'll prime a bunch of it just in case, and Sylbera can remove it if there's no issue.
+
+Unfortunately, even with Sylbera being a lot more animated than usual, Vee didn't seem to notice anything strange. They were currently involved with some landscaping at the edge of the island, raising the edges to create a sheer cliff that dropped into the ocean. It wasn't until Sylbera "fell off" and splashed into the waters that Vee finally realized the connection was severed.
+
+"Shit! Syl is going to kill me!" Vee cried out in panic.
+
+However, when Sylbera surfaced from the waters and began scaling the cliff to return, Vee was rendered speechless.
+
+"Mistress Vee, are you going to just stand there gawking, or are you going to help me up?" Sylbera complained.
+
+Vee appeared to be dumbfounded, but eventually teleported Sylbera back up to the top of the cliff. Instantly, the spider scrutinized every detail, trying to figure out what had happened.
+
+"Sylbera, have you become real?" Vee eventually asked.
+
+"What do you mean, Mistress?" Sylbera asked.
+
+"You're walking around by yourself! You even took a dip in the ocean!" Vee exclaimed.
+
+"Indeed, that appears to be the case," Sylbera replied.
+
+"Indeed, is all you have to say?"
+
+Sylbera shrugged.
+
+"Where's Syl? I need to speak with her," Vee asked.
+
+Sylbera pointed to a tree. "Master is over there."
+
+Since I was revealed, I broke the disguise, returning to my vaguely humanoid form. "You called?"
+
+"What's going on here?" Vee demanded.
+
+I couldn't help but smugly grin. "What do you mean?"
+
+"You know exactly what I mean, you smug slime. How did Sylbera survive the fall without turning into goop?"
+
+"Well… It wasn't cheap," I sighed, shaking my head. "It cost me ten whole trait points…"
+
+Vee was astonished. "You mean…?"
+
+I nodded. "I finally maxed out my trait and uncapped it. I can create a single separate core network at the moment."
+
+Vee finally shared in my joy, although then she suddenly paused. "I suddenly feel sorry for the world. Now there's literally two of you."
+
+I waved it off. "More like one and a half… I don't see much reason not to keep one here on the island permanently. Of course, that's assuming there's no limit on the range."
+
+Vee nodded. "That makes sense…"
+
+"Which is why Sylbera should hook up again so I can go to the elves. I want to talk to the dungeons and also Paeris," I revealed.
+
+"Is that a good idea?" Vee asked. "Can you afford to leave behind so many cores?"
+
+"I'm taking a few of them with me. I don't need as many to cover the whole island anymore," I explained.
+
+"Still, you should be careful," Vee warned.
+
+"Indeed, Master, we don't know if you can revive from such a distance," Sylbera cautioned.
+
+I shuddered. It was an excellent question; however, the only way I could prove it worked would be to destroy my primary core while disconnected. Unfortunately, that was a test I was unwilling to attempt, and the actual test of that lifeline would only come into play involuntarily.
+
+"You've been given a bag and told it's a parachute, but you can't pull the chord until it's too late," Vee sighed.
+
+"I'm sure I'll be fine. After all, it's just a short trip and even with only four [Sub-Cores] with me, I'm far more powerful than I was back then."
+
+"Alright. Can I give you a shopping list then?" Vee asked.
+
+"Dran?" I questioned.
+
+Vee nodded and requested several types of fruit. I wasn't sure how cooperative the old tree would be, but it was worth asking. After receiving Vee's wishlist, I told Sylbera to prime the slime until she confirmed everything was still fine after my departure.
+
+With that, I began pulling out the coordinates from [Triangulate]. I was especially excited to get this done, as then I could take this apart without any fear, and hopefully piece together a better version that could incorporate [Mapping]. If I could teleport to landmarks rather than coordinates, then even a moving place like Glimmerock wouldn't be out of the question.
+
+I wonder how that would work with the hometrees. Can they grow on a floating island?
+
+Putting aside that random thought, I had no more preparations to make. After saying goodbye to Vee and Sylbera, I shapeshifted into an elf before I finalized the coordinates and vanished from the spot. A chunk of my Mana was immediately spent; however, the cost was shockingly within reason, and soon I found myself outside the dungeon.
+
+Wow, I thought it would cost a lot more. Changing over to Riftmancer has given me some big discounts!
+
+I also received several notifications that a few of my skills had gone up, no doubt due to the significant deed I just performed by single-handedly performing a distant teleportation.
+
+[Triangulate LV 6]
+
+[Stabilized Fluctuations LV 4]
+
+[Dimension Magic LV 4]
+
+The last one was quite a surprise as my recently reacquired [Dimension Magic] had jumped straight from level two to four. Who knew that what I had just done was worth so much proficiency? On that note, I immediately took it apart with [Skill Deconstruct], hoping to reveal more of the hidden governing symbol.
+
+Finally, I took note of my surroundings, realizing I probably should have been a bit more cautious. However, there were no elves nearby, and the dungeon entrance was instead protected by multiple large treants.
+
+I sauntered over and gave them a friendly wave.
+
+"Tell Dran or Juniper that Syl is here to see them," I said.
+
+The tree guardians actually flinched, and I wondered if I was going to be denied entry. However, they eventually stepped aside, albeit reluctantly.
+
+I wasted no time in entering and saw the trembling face of Ygdran growing out of the wall.
+
+"Syl… Why have you returned so soon?" he stammered, sounding nervous.
+
+"Don't worry, I'm not here for a trial or anything," I reassured him. "Vee wanted some fruit seeds, and I was wondering if a dungeon I discovered was part of your friend group or not."
+
+"Oh… If that's all, it should be fine," Dran replied, sounding relieved. "I can give you some seeds and saplings without any issue. As for the latter… You'd better ask Juniper."
+
+I nodded and gave him Vee's list while I waited for Juniper to make her appearance. While I was waiting, I tried to connect to the island or communicate with Sylbera.
+
+For lack of a better term, the connection was… blurry. However, I could feel that they were all alive and well, which was a relief. Unfortunately, we couldn't really communicate with each other, at least not at this stage, so I'd need some further improvements down the line.
+
+I did feel that if I really wanted to, I could project myself over, but at the cost of abandoning my current body. There was a chance I could project back here, but I was a little unwilling to take that chance for now.
+
+In the interest of experimenting, I wrote a note in a stone tablet of slime and stored it in my [Core Storage]. It was just a simple message: "Can you read this?" and, after a few moments, it was replaced by another message reading: "Yes."
+
+So even if I can't directly talk to the other network from this distance, we are still bound together through [Core Storage]...
+
+This was a big relief and allowed us to communicate this way, even though it was a little inconvenient. Naturally, I asked if everything was alright, and received a rather upsetting response. While my departure hadn't ceased the slime network operating, it hadn't been without a cost.
+
+Sylbera reported that the efficiency of her and all the other cores had dropped by roughly half. This was a shocker, as I had no idea that my primary core contributed so much to keeping things running, but even at half their power, it was more than enough for our current means—especially if they worked together.
+
+Hopefully, more levels in [Core Collective] will resolve this. Or maybe when the [Sub-Cores] reach a higher level?
+
+At the moment, they were almost all at level seven. I hoped that at level ten, they would be roughly on par, even when I was gone. Although that gave me a rather worrying afterthought.
+
+Will I need to pay ten points to uncap each and every one of them? If that's the case, then I'd never be able to afford it!
+
+I broke out of my self-inflicted panic when Juniper arrived. I could've sworn she seemed a little less hostile this time.
+
+"Syl, Dran tells me you have a question for me?" she asked.
+
+Before getting down to the matter, I exchanged some pleasantries with her. Then, when I felt like I'd done my bare minimum social obligations, I brought us to the meat of the matter.
+
+"One of my friends was threatened by a dungeon. I wanted to know if this one was part of the alliance or not?" I asked.
+
+Juniper seemed surprised. "Oh? Where did this occur?"
+
+I gave a brief rundown of the situation, explaining that it was near the mermen of Azulean and deep within the Vaelyssan Sea. I also made sure to point out that it was extremely far north and away from the Nyrelis elves.
+
+Juniper seemed deeply relieved by that last part, as no doubt there was a dungeon in or nearby the Vaelyssan Sea that was allied with them, and thus part of the alliance.
+
+"I honestly can't say I've heard of them. There are only two ocean dungeons in our alliance, and neither of them is near any mermen," Juniper replied.
+
+That was music to my ears, and I couldn't help but smile. If the dungeon were alone, then it was free game for me to usurp the [Dungeon Master] qualifications from it, as Mother suggested.
+
+"How do you feel about a slime dungeon joining the alliance?" I suddenly asked.
+
+"That depends…" Juniper replied, evidently looking quite conflicted.
+
+I pressed further, and she revealed that any willing [Dungeon Master] was allowed to join in theory, but there were a few catches. The dungeon needed to be of a specific size, otherwise it would be nothing but a leech on their alliance—they weren't running a charity organization after all.
+
+The [Dungeon Master] also needed to be in new territory, not only to avoid stepping on anyone's toes but to expand their alliance's range of influence. Finally, the [Dungeon Master] had to have the power to back up not only themselves, but their fellow [Dungeon Masters]. They didn't want any weaklings in the organization, and they needed to be able to fight off invaders.
+
+It was a lot to digest, and aside from the first part, I would easily meet all their requirements. I was sure I had the strength to meet their entry requirements, and I could freely pick any open land. The only issue was the size requirement… Did I have enough slime to construct my dungeon?
+
+Well, I can always go on another eating spree. And, there just so happens to be a dungeon meal right on my doorstep.
+
+After chatting for a bit longer, Dran finally returned and handed me several seeds and saplings, which I threw into my [Core Storage]. Almost immediately, they were taken away, so Vee must have told Sylbera to wait for them.
+
+"Is that all?" Juniper asked.
+
+I was about to say yes, but then I remembered one last thing. "Oh. Logan has been born!"
+
+"Logan?" Juniper and Dran asked, exchanging a questioning glance.
+
+"The tree spirit you gave me. I fed him a golden oak bag, and he's on the verge of becoming a grand spirit," I explained.
+
+"That's wonderful!" Dran bellowed, sounding genuinely delighted.
+
+"Oh… So that [Branch Head] title you hold isn't just for show," Juniper replied.
+
+Is that why she was more friendly with me? Huh… I don't even have it equipped, but she could sense it on me.
+
+"I did say I was allied with the Feirelle elves," I pointed out.
+
+"You did, but I didn't know it was to that extent," Juniper replied, before sighing. "I suppose I should have listened more to Qhilleeqeth's words. She said you two were a lot more than meets the eye."
+
+We talked for a little bit longer, and after thanking both of them, I finally departed. After finding a relatively secure location, I began inputting the coordinates for the Feirelle grove, as I had one more stop before I returned to the island.
+
+I really hope Paeris has an answer for me. I don't want to spend ten skill points on [Roleplay]!

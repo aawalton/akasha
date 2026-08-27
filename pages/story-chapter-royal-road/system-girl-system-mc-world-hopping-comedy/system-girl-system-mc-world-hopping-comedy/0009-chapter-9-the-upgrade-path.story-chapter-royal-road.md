@@ -1,0 +1,93 @@
+---
+id: ffc75c5c-acd3-5711-add5-304de6b4205f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9: The Upgrade Path"
+slug: 0009-chapter-9-the-upgrade-path
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 9
+ownLength: 1811
+unit: words
+publishedAt: 2025-09-10
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2590719/chapter-9-the-upgrade-path"
+royalRoadId: "2590719"
+---
+
+The days following the averted coup were peaceful for the first time in my new existence. The banquet in Korg’s honor had been a legendary affair, mostly because my host had single-handedly consumed what looked like fifty percent of the barony’s entire food surplus. The sight of a seven-foot-tall Minotaur delicately eating a whole roasted pig like it was a chicken wing had permanently shifted the villagers’ perception of him from ‘terrifying monster’ to ‘our big, weird, hungry hero.’
+
+Korg, for his part, was in heaven, sleeping with a roof over his head, protected from rain and discomfortable [Wet] debuff. Most importantly, he had been delighted by discovering the glorious concept of ‘free food.’ Children would run up to him, not with screams, but with apples and sweet rolls. The blacksmith, Grendel, whose shop Korg had partially demolished, would now greet him with a hearty clap on the back and a hunk of smoked sausage. Korg had become the village’s beloved, slightly dangerous mascot, and he soaked up the attention like a giant, furry sponge.
+
+My own internal state was a fragile truce between relief and high-alert paranoia. On one hand, this was the dream scenario: a safe base of operations, friendly NPCs with a surplus of simple quests, and a steady stream of positive reinforcement that kept my user from wandering off and licking poisonous frogs. On the other hand, I felt like a bomb disposal expert who had just been told the bomb was also a very clumsy puppy. Every moment of peace felt borrowed, a temporary state before Korg inevitably sat on something important or tried to pet a hornet’s nest. Still, the SPP trickled in. A few points here for ‘Successful Social Interaction,’ a few there for ‘Did Not Accidentally Demolish The Bakery.’ It was a slow but steady accumulation.
+
+The peace lasted for three days. On the fourth day, the screaming started.
+
+This wasn't the noise of celebration and joy. It was the sharp, piercing panic of immediate danger. An alarm bell began to clang frantically from the village watchtower. My system senses flared to life, identifying a wave of hostiles pouring from the forest edge. These weren't beasts of flesh and blood. They were nightmares of splintered rock and corrupted wood, things my data-banks tagged with unsettling names: [Shard-Trolls - Lvl 5], hulking brutes whose bodies were a jagged fusion of stone and gnarled roots, glowing with a sickly internal light. Riding atop armored, monstrously oversized [Grave-Boars - Lvl 6], they were a tide of grinding stone and snapping tusks. An organized, monster invasion - a rare village defense event.
+
+The village guards, brave as they were, were hopelessly outmatched. Panic erupted. But Korg didn't panic. He was in the middle of the square, happily chewing on a gifted turnip, when the first Shard-Troll crashed through a fence. He looked at the snarling, rocky monstrosity, then at his new, peaceful home, and he made a simple, elegant connection.
+
+Bad things want to break Korg’s good place.
+
+A low, war growl rumbled in his chest. Dropping the turnip, he hefted Smashy-Stick and Boom-Stick, his expression shifting from placid contentment to grim determination. While the villagers ran for cover, Korg lumbered forward to meet the charge.
+
+My QA instincts took over. "Alright, Korg," I thought, my focus sharpening to a razor's edge, "Time for your final exam." I was no longer just a pilot; I was a fire-control officer. A sword pictogram flashed over the lead Grave-Boar, a massive beast with a troll brandishing a crude stone axe on its back. A priority target.
+
+Korg saw the sign and obeyed instantly. He met the boar’s charge not by dodging, but by burrowing his feet in the ground. The beast slammed into him with the force of a runaway cart. And it bounced off. Korg didn’t even stumble. His Aegis of 21 turned him into a living breakwater. The boar squealed, its stone-like hide cracking from the impact, and in that moment of surprise, Korg brought Boom-Stick down on its skull with the sound of shattering granite. The Shard-Troll was thrown from the saddle next to Korg’s feet. Smashy-Stick silenced the troll’s surprised whelp a moment later, turning it into a pile of rubble and dying embers.
+
+The fight was a thunderous clash of raw fury and brute force. Hurled stones from boars and trolls bounced uselessly off his thick hide. Grave-Boars attempting to circle behind him met crushing blows from his wildly swinging mace and hammer. He stood like a fortress of muscle and rage, an unyielding barrier and relentless destroyer fused into one reeking, bull-headed beast. I directed his rampage, marking priority threats, conserving his endurance, and preventing him from becoming overwhelmed by numbers. Together we formed a devastating, if somewhat dim-witted, engine of destruction.
+
+Within ten minutes, it was over. The last Shard-Troll crumbled into rubble, and Korg stood, breathing heavily, in a square littered with the despawning remains of un-looted monsters. The villagers emerged from their homes, their faces filled with awe.
+
+Then, the notifications hit me like a tidal wave.
+
+[VICTORY! SURVIVED MONSTER INCURSION!][+3500 XP][+800 SPP]
+
+[LEVEL UP! HOST HAS REACHED LEVEL 5!][LEVEL UP! HOST HAS REACHED LEVEL 6!]
+
+[ACHIEVEMENT UNLOCKED: ONE-MINOTAUR ARMY (EPIC)]You have single-handedly repelled a threat that endangered an entire settlement. Grants Skill: [Taunting Bellow - Rank 1]. +300 SPP.
+
+My system tally skyrocketed. My current SPP shot past 1,000, then 1,500, settling at a glorious 1713. I had done it. After all the pain, the poison mushrooms, the social disasters—I finally had enough for my own upgrade. A wave of pure, triumphant joy washed through my code.
+
+But first, there was business to attend to. A new menu had popped up in Korg’s vision.
+
+[LEVEL 5 REACHED. CLASS SKILL SELECTION AVAILABLE.]Please choose one:[Unmovable Stance - Rank 1] - When not moving your feet, you gain +20% to Aegis[Dual-Wielding - Rank 1] - Removes the attack speed penalty for dual-wielding weapons.[Threat Detection - Rank 1] - You can detect an enemy's location in (10 + Sense) meters radius.
+
+I was too exhausted to choose the most optimal choice for his build. This time, the choice would be his, but I will change the presentation so that he has any inkling of what any of those choices mean. I dove into my Interface of Architect module, then I started drawing. Shortly after, three massive buttons filled his screen.The Unmovable Stance button had a pictogram of Korg standing like a big, impenetrable wall. The Threat Detection button showed Korg seeing boars through the wall. The Dual-Wielding button showed a pictogram of Korg with two huge chunks of steel as clubs, swinging them incredibly fast.
+
+Korg looked at the three options, his brow furrowed in concentration for a full two seconds. Then his eyes lit up. "More smash good!" he roared, and slammed his thumb onto the second button.
+
+[CLASS SKILL SELECTED: DUAL-WIELDING.]
+
+A fresh surge of power flowed through him. He swung his two weapons, and they felt lighter, faster. He was ecstatic. I was just relieved.
+
+Later that night, the village celebrated again, but Korg was tired. He returned to the stables that he had been living in since the cake festival. The guards, with the permission from the baron, offered him a place in the barracks, but he refused. He found the stables with quiet solitude that he preferred. He made a big pile/bed from fresh hay that he was replacing every night. The owner of the stables, of course, was paid for letting Korg live in his stable and for giving him a fresh supply of hay.
+
+After replacing his pile with fresh hay, he jumped into a soft mountain of bed-food. While munching on a handful of hay, he finally fell asleep with familiar landslide-like snores. Not caring why he never choked on hay while snoring, I pulled up my own system menu, my non-existent hands trembling with anticipation.
+
+[UPGRADE: ‘SYSTEM LEVEL 1’][UPGRADE REQUIREMENTS: None][UPGRADE PRICE: 1,000 SPP][PURCHASE?] (Y/N)
+
+With a feeling of profound finality, I selected YES.
+
+[PURCHASE CONFIRMED.][SPP REMAINING: 713.][WARNING: CORE SYSTEM UPGRADE INITIATED. ESTIMATED TIME TO COMPLETION: 12 STANDARD HOURS.][WARNING: ALL ADVANCED HOST INTERACTION MODULES (PICTOGRAMS, UI ARCHITECT, NOTIFICATIONS) WILL BE DISABLED DURING THE UPGRADE PROCESS. BASIC MONITORING WILL REMAIN.][ADVANCE?] (Y/N)
+
+This was the risky part. For twelve hours, I would be a silent observer. I couldn't guide him, couldn't warn him, couldn't even flash a red skull if he decided to eat the stable door. I had to trust him to continue staying put like he was after saving the baron’s family, without any complicated events like today's monster invasion. As a final act before my systems went offline, I flashed one last, simple pictogram: a drawing of Korg sleeping peacefully in the stable, with a big green checkmark over it. Stay here. Good boy.
+
+He grunted in his sleep, and I initiated the final confirmation.
+
+My world dissolved into a diagnostic screen. One by one, my tools winked out. Pictogram module... OFFLINE. Interface Architect... OFFLINE. Loot module... OFFLINE. It felt like I was being disassembled, my consciousness stripped down to its barest components: a clock and a read-only status window of my host.
+
+Hours passed in the silent darkness of the upgrade. Then, through Korg’s ears, I heard voices from outside the stable. Drunk voices, loud and slurred.
+
+"…can't believe it," one slurred. "Whole pack o' them rock-trolls, gone. All 'cause o' that dragon movin' into the Grayfang mountains. Woke 'em all up."
+
+"Shhh, you fool!" another hissed. "Baron doesn't want folks panickin'. A dragon… its nest'll be huge. A whole mountain of shiny gold and jewels in its hoard…"
+
+"A hoard?" the first voice hiccuped. "I heard its lair is so hot from its breath, it's like a big, warm… bed. Yeah. A big, warm, shiny bed…"
+
+My core programming went into a state of absolute, helpless terror. I watched through Korg’s eyes as he stirred, his ears twitching. I saw the thoughts forming in his mind, a catastrophic misinterpretation of epic proportions.
+
+Mountain… Shiny… Warm… Bed…
+
+The conclusion was instantaneous and horrifying. There was a giant, shiny, warm bed waiting for him in the mountains. And after his big fight, Korg was very tired and deserved a nice sleep. He had a new class. He had leveled up. He was Strong Korg, the Hero of Silvercreek. A shiny mountain bed was exactly what a hero deserved!
+
+No… No, you magnificent idiot, it’s a DRAGON, not a DUVET!
+
+My scream was a burst of useless, corrupted data. All my advanced modules were offline. I couldn't generate a pop-up. I couldn't flash a warning. I couldn't do anything but watch as my host, filled with a misplaced confidence and the desire for a comfortable, treasure-filled nap, quietly pushed open the stable door and began to lumber purposefully in the direction of the mountains.

@@ -1,0 +1,235 @@
+---
+id: 1190f10b-301b-556c-8af5-7deead20c65d
+page-type-slug: story-chapter-royal-road
+title: "376 A Chat After Time's End"
+slug: 0335-376-a-chat-after-time-s-end
+partOf: the-new-world
+position: 335
+ownLength: 2321
+unit: words
+ownProgress: 2321
+publishedAt: 2023-03-30
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1152296/376-a-chat-after-times-end"
+royalRoadId: "1152296"
+markedReadAt: "2026-06-29T21:32:44.169Z"
+---
+
+I flooded them, and they burst, the telepathic control of Lehesion weakening. I darted towards him, smashing his body apart once more. Taking out a few runic plates, I detonated them, deforming the area. Lehesion's body devolved into a collection of talking organs and speaking skin. The remnants controlling him scattered, unable to tolerate the horror of inhabiting such a body.
+
+I remained within, tearing it apart. As I gored the mind into pieces, a familiar presence coursed in. I peered around, and I sneered. Time stopped, and a voice echoed out like far-off thunder.
+
+"We meet again, living metal."
+
+Chapter Begin
+
+Around me, Eonoth's presence coursed in. It reduced the fabric of space into its plaything and warped all it touched into an eternal void. As the dark reached the edges of my wake, I pushed back against it. The overbearing presence crushed me down, and I buckled. I collapsed as my skin peeled off. My bones disintegrated to a liquid, and my teeth shattered.
+
+I stood, my body reforming several times a second. This wouldn't work. Instead of trying to keep such a large area untainted, I pulled my wake to the surface of my skin. The pressure reduced, and I only bled from many ruptures across my body. The pressure mounted like diving deeper under the sea.
+
+Like a leaking ship, I groaned and bled under the weight of the dimensional shifts around me. They hadn't overcome me yet. The pressure increased, and my body crushed into a small puddle as a laugh echoed. I held on, pulling my wake closer. I condensed it into a minute point, the size of an apple. I abandoned my body, letting it disappear, but I held onto this tiny bastion of sanity I maintained.
+
+I closed it and my mind off, becoming a bulwark. I existed within the sea of burden, holding on. Eonoth tapped the tiny sphere like a child tapping a glass tank full of fish. Cracks in the wake rippled through me, several of my minds dying. I rallied, pulling my wake further down. I still existed, the size of a coin. It tapped against me once more. I died, or at least it felt like it.
+
+I'd have to pull myself further down, deeper into these waters. I strained every mind to tighten myself to a tiny point. Another tap arrived, and many of my psyches died. I compressed to the size of a penny. Death rained from Eonoth's tampering. My mind squealed as I bit down hard, turning myself to the size of a pupil. The thumping continued, and chunks of my psyche perished.
+
+I reached my limit, becoming the size of a pinhead. Every part of me struggled to maintain this, and I could not squeeze more blood from this stone. The tapping ceased, so I waited. With another thud, a chunk of my animas died. However, I held my ground, keeping my dimensional sanctity from the Old One.
+
+Taps arrived in waves. One. Two. Sets of threes. They whittled me apart like a stone being shot. Cackling coursed around me, an endless discord of madness. I ignored it and regenerated my mind, parts of myself dying with each tap. I kept reconstituting my sanity across each storm while holding myself in this minuscule form.
+
+The retaliation grew in volume, size, and scale. I tempered an unending set of thumps. Likely subtle to this strange presence, it eviscerated all of me. I held onto memories of what my sane mind was, remembering its form but unable to recreate it under perpetual pressure. My thoughts shook, becoming disjointed and chaotic.
+
+It reminded me of Valgus infiltrating my mind. No. Far worse. This was a raw, psionic death, not a deft, technical usage of mental might. Holding together, I crushed under Eonoth's probing. It reminded me of dying in the psionic fluid but from a physical, tactile impact. I laughed at the irony of the situation.
+
+Earlier, I easily dismantled a pressing enemy of Schema who threatened galactic peace. Against an Old One, I was a dimensional pinhead who couldn't even hold a physical form. There were levels to this game, and I was at the bottom. There was no lower that I could sink, yet I held onto that thought.
+
+It sparked joy in my chest. It arrived like a thundering chorus and a resounding cheer. Here I was, nothing more than a pawn on an endless chessboard, a piece waiting for my inevitable slaughter. I was pulled and tugged by the masters who carried control of everything around me.
+
+But I was in the game. That much was undeniable. One day, I could win.
+
+Sensing my joy, Eonoth's voice echoed like music did while walking into a club.
+
+"You resist me? And with palpable elation. Interesting. You are so easily broken, yet you return all the same. Where is your limit?"
+
+I crushed.
+
+Eonoth said, "Resist."
+
+I crushed ten times.
+
+"Resist."
+
+I crushed a hundred times.
+
+"Resist."
+
+I crushed a thousand times, my mind struggling to maintain sanity.
+
+"Hah hah, resist me. Resist. Resist. Resist.
+
+I wondered if resist was even a word. Could I even spell it?
+
+"Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist."
+
+I quaked, my core aspects struggling to maintain a definite form.
+
+"Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist."
+
+Instead of holding onto my entire mind, I kept a smaller piece. This eased the process. It made it easier to let go of what Eonoth carved away.
+
+"Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist."
+
+I pieced away at what defined me and my mind. I continued whittling away until I decided to remain. Yes, I would remain. That was all I needed. It was all I was.
+
+"Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist."
+
+This, too, would pass. I would persevere.
+
+"Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist."
+
+I would withstand.
+
+"Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist."
+
+I would weather this storm.
+
+"Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist."
+
+I would remain.
+
+"Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist. Resist."
+
+I would endure.
+
+"Enough."
+
+I smashed into nothing, falling into the Old One's abyss. I reconstituted, my wake pulled into some other plane. I peered around, remembering this place from long ago. I grabbed the side of my face before squeezing in frustration. I thought I'd pushed through some barrier or made a difference.
+
+No. I was nothing still. More nothing, maybe, but still a muted presence to these interdimensional beings. While I considered how to even practice whatever that was, an ever-shifting form encroached. I gazed at an indefinite being of cosmic origin and an unknown scale.
+
+Eonoth laughed.
+
+"You...You try to resist my pull. Why?"
+
+I waved a hand.
+
+"I'll answer, but don't say resist anymore."
+
+Eonoth wrapped around me, not touching but pressing from all angles.
+
+"In my domain, I will do as I wish. You may resist. Resist. Resist...Now speak."
+
+I floated in the ether. Eonoth scoffed.
+
+"You've become defiant. Baldowah did not lie."
+
+I narrowed my eyes. Eonoth shivered.
+
+"You hold to what you've said...I shall not speak the word resist, as you've asked."
+
+Whenever Eonoth said the word, it repeated in my head, an unending symphony that built like some cognitive virus. I trembled as it expanded, taking more of my mind each passing second. Before it overwhelmed me, I pulled several psyches around the phrase and threw them into my dimensional wake. In the ether, I scrambled them into nothing, killing their cognition.
+
+The virus died with them.
+
+Eonoth retracted his undefinable form.
+
+"Your mind is durable as your body. Perhaps more so."
+
+I sneered.
+
+"Why did you bring me here?"
+
+Eonoth rippled the ethereal plane around us.
+
+"You've destroyed my champion. Do you wish to take his place?"
+
+"No."
+
+"Then where am I to search for another? Tell where others may reside and who could take his place? Perhaps your friends? Althea? Torix? Hod?"
+
+Rage swelled in my chest, and I channeled mana, ready for anything. Eonoth sighed.
+
+"You're less talkative than before. It is irritating."
+
+"I'm not your entertainment."
+
+"You have been, are, and will be. Until you die. Until all die."
+
+"Or you die. It depends on who goes first."
+
+"You believe your resistance was a sign that you may stop me?"
+
+Eonoth didn't listen when I told him to stop saying that word. I was done. I crossed my legs and closed my eyes. Eonoth's voice rose in volume.
+
+"Your mind believes it can build on an infinite basis. However, you are restrained by laws and cannot outdo what you've spawned from."
+
+I channeled mana into my runes.
+
+"I am greater than your dimension."
+
+I achieved a sense of peace.
+
+"Your silence shows your will. Hm. Then listen. I will fold time to undo what has been done. If you continue dismantling my champion, I shall utterly shatter your mind. You will not be able to resist what I've done the next time. I will infest your mind with enough madness that even a thousand species would be driven insane."
+
+Eonoth quaked.
+
+"A taste of what will come."
+
+A dozen cognitive viruses erupted in my head. I writhed, my mind falling apart while Eonoth laughed. Resist encompassed vast swaths of my mind before I kamikazed into my dimensional wake. I cleaved pieces of myself apart like a man amputating fire off his body. Where I cut, I regenerated without the virus.
+
+Pieces of it remained, and it overwhelmed the sane parts of myself yet again. I died, reformed, and died again. I kept the cycle of self-sacrifice continuing, destroying my mind until it was unrecognizable. It took several hours and thousands of psionic deaths before I became whole again. I was me.
+
+Finally able to, I opened my eyes. The Old One's plane had disintegrated, and I was on Mt. Verner in the warp drive. I stared at steel walls and ionizing clouds that encroached over me. The doors opened, and I stumbled out onto Blegara. I caught my heft with a gravity well just before I landed.
+
+I would've caused a massive explosion from tripping. Staring at the sandy ground, I took several breaths, calming myself down. I pulled myself upright while sitting down and grabbing the sides of my head. I heaved for a while. Nothing came up.
+
+A soldier walked up to me.
+
+"Uhm, Sir, is everything ok? Did something happen at Mt. Verner?"
+
+I shook off my unease.
+
+"No. I just need a moment."
+
+She waved.
+
+"O-of course. Send a message if you need anything."
+
+She left me, and I held down my nausea. I stared up. In the distance, a weak and feeble barrier protected some of the city. No constructor golems passed over the skyline. No one fixed the poorly made structures. No one had handled the Elysium forces landing on the planet.
+
+I was in the past.
+
+I stared at my hands, wondering if I was even still alive. Was my imprisonment an implanted memory? Was anything real? I shivered, not knowing how long Eonoth trapped me in that place. It could've been years or decades, and I couldn't make it out. My time there blurred together, memories of that time like crushed glass. A corrupted mosaic. A smashed plate.
+
+Was I broken?
+
+In the corner of my vision, a notification rang out.
+
+[Unique skill gained! A Mind's Defiance | Level 10 - Few are willing to die for what they believe in. None are willing to die forever. None but you. Know that your deaths are with meaning. They are a statement to those that would doubt you. They are a testament to your will and vision. They are a mark against those that would destroy all you love.
+
+You have chosen to defy forces beyond us, and we will stand with you.
+
++10% to Mental Reconstitution Speed.
+
++10% to Mental Resilience.
+
++10% to Mental Regeneration.
+
++100 points for creating a unique skill!
+
+Skill level up! +90 points in A Mind's Defiance.
+
+Skill level up! +234 points in Temporal Compression.
+
+Skill level up! +102 points in A Manifold Mind
+
+Trees unlocked!]
+
+Gazing at the notification, a wave of calm passed over me. Enormous amounts of mana radiated in. My psyches crystallized, becoming rigid and dense. I swallowed back down a wave of nausea, and my trembling lessened to shaking. Clarity coursed, and motivation surged.
+
+That's right. I wasn't alone. After taking a breath, I said the word.
+
+"Resist."
+
+I winced, but it left no mark on me. I remained whole and sane. I repeated the word, testing myself, and I retained coherency. I stood on unsteady feet and squeezed my shaking hands. The tremors stopped. The fear faded. Before heading out, I gave myself a moment to remember my resolve. This would be a long road, and I'd only taken a single step.
+
+It was time to take another.

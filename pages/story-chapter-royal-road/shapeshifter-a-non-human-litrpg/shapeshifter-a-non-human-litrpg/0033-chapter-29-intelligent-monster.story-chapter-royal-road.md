@@ -1,0 +1,137 @@
+---
+id: e6feb4d2-9ceb-524b-8c31-3460cd19b8d2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29: Intelligent Monster"
+slug: 0033-chapter-29-intelligent-monster
+partOf: shapeshifter-a-non-human-litrpg
+position: 33
+ownLength: 1621
+unit: words
+publishedAt: 2026-07-16
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3684623/chapter-29-intelligent-monster"
+royalRoadId: "3684623"
+---
+
+Xen didn't dare look back. He burned through all three charges of Ghoststep to put as much distance between himself and the furious Stormcaller as possible before continuing to run. Only when he was certain he was well beyond the Verdant Warden's range did he slow and finally come to a stop.
+
+He held up Marcus's head and stared at its bloody face. A system message bloomed between them.
+
+You have killed an opponent.
+
+Experience split between [Changeling Slime] and [Human] form.
+
+[Changeling Slime] has leveled up: 88 → 90.
+
+[Human] has leveled up: 50 → 53.
+
+"Quite a sizable amount of experience for a single kill," Xen mused.
+
+Though the kill itself had been astonishingly easy. Xen's patience inside the amber sheath had paid off the moment Marcus began fussing with a strap that had been bothering him and foolishly set his shield down on the porous stone.
+
+It was a grave mistake to do in a monster-infested dungeon. Many of the skills granted by human classes relied on having a weapon or a shield in hand, especially for tank classes. For example, Alex needed his shield raised to use Shockwave Slam. Without one, the level 58 Bulwark Sentinel was just a man in heavy armor.
+
+But Xen was still a few levels below Marcus in his human form. What made the fight so one-sided was his Solo Hunter passive, giving him a flat 30% boost to all of his stats because three enemies were in range. His already high magic stat had been further raised, which empowered his Ashen Gaze to petrify Iris on the very first attempt, and his Spellbreak skill had disrupted the Stormcaller's predictably telegraphed spell.
+
+The ambush had gone flawlessly, but it was mostly due to the group's brief gap in focus and their unique weakness. Both Iris and Vera needed time for their powerful spells to be useful, while the Bladedancer that might have been able to strike him before he could tear off Marcus's helmet was too far to help.
+
+"You must be cursing your luck from the afterlife," Xen said as his mask lifted and a black tendril snaked out. It was time to devour his prize.
+
+[Use Devour?]
+
+Xen checked his surroundings closely with Geomantic Perception before agreeing. There were some monsters over the ridge, but nothing too close. More importantly, the Ether Technocrats weren't in pursuit.
+
+He had a moment to himself.
+
+"Yes," he replied to the system.
+
+[Devour in progress…]
+
+The moment his tendril burrowed into Marcus's brain, memories poured in. He got to see Marcus's childhood, the morning he received his class, the day he enrolled in the Ether Technocrats—but all of it was drowned out by a single recent memory that had traumatized Marcus. Surprisingly, it wasn't the appearance of the Abyssal Rift, nor his death at the hands of Xen disguised as a Resinreaver.
+
+It was from a week ago and detailed the first time Marcus had met the Guild Master of the Ether Technocrats.
+
+Xen couldn't get a clean look at the man's face, as Marcus hadn't dared to lift his eyes, but he got the feeling of being in the man's presence. It was suffocating. Marcus was tall for a human, but the Guild Master made him feel small both in size and presence. Mana so dense it layered around the man, left visual ripples in his wake as he moved past Marcus and gave his orders in a monotone voice.
+
+Marcus' subconscious didn't remember the orders, only that his brow was damp with sweat, and he wished he were anywhere else.
+
+Xen blinked as the memories faded and couldn't help but shudder.
+
+Was the Ether Technocrats Guild Master even human to have such a presence?
+
+[Devour Complete]
+
+You absorbed 23% of the human's memories.
+
+You acquired the following skills:
+
+[Bulwark Stance (B)]
+
+Plant yourself and adopt a hardened defensive posture, sharply increasing your physical and elemental resistance while taking reduced damage from attacks to your front. While active, movement speed is greatly reduced, and dodging skills cannot be used. The effect ends if the stance is broken by forced displacement.
+
+[Sentinel's Provocation (C)]
+
+Issue a directed challenge to a single target within line of sight, forcing them to prioritize attacks on you for a short duration. The effect weakens or fails entirely against opponents whose level significantly exceeds your own.
+
+Xen didn't really care for either of the skills, though he was glad he had planted Marcus's face in the stone, as it likely had prevented him from using his Sentinel's Provocation skill.
+
+Dismissing the notifications, he let the mask settle back over his face and pondered his next move. Of the four, Marcus had the class he was least interested in. Tank-style classes worked best in a team setup, but Xen preferred to hunt alone, with explosive force and layered curses.
+
+For that reason, Stormcaller and Bladedancer piqued his interest the most.
+
+Now that Marcus is dead, the group is without a tank and far more vulnerable. They know this and will be far more on their guard for now, which will make fighting them difficult, Xen glanced in their direction. For now, at least. No matter how high-level they are, humans and elves need to rest and sleep at some point. While they are on high alert, I'll hunt monsters beyond the edge of their perception range and increase my level. In a few days, I'll strike again when an opportunity presents itself.
+
+His wandering gaze paused as he noticed an obsidian tower in the distance.
+
+Actually, since I have time, I could also check on Alex's party and locate this Guardian.
+
+He began walking and then paused. Wait, should I change back to Yuki before meeting them? He pondered the idea for a moment but decided against it. I swapped away from Yuki because, despite being level 50, I lacked too many of my combat skills and passives. Besides, showing up as Yuki complicates things.
+
+Xen shifted his Changeling Veil from the Resinreaver and returned to looking like Ghostwire. While he could try assuming another identity, he was used to Ghostwire and didn't plan to use him beyond the dungeon. Should they beat the boss, he would disappear and come back as Yuki.
+
+Checking everything was correct, he continued on his way toward the tower and his hopefully still alive party members.
+
+***
+
+Iris couldn't stop her hands from shaking as she worked alongside Dorian to strip what they could from Marcus's headless corpse. She was used to death in the dungeon, and usually it wouldn't be such a big deal. Upon the death of a party member, she would call for a swift retreat to the surface, and they would mourn them over a round of drinks.
+
+The Abyssal Rift didn't allow for escape, not as long as the Guardian stood. And without Marcus, their likelihood of defeating a high-level boss went from difficult to suicidal.
+
+"We have more supplies now between the three of us," Vera said without a hint of joy, "but with Marcus dead..." She fell silent and left the rest unsaid, but Iris knew the implication.
+
+"What are we going to do, Captain?" Dorian asked as he stood over them, his eyes scanning the surroundings for the S-rank talking monster.
+
+Iris drove her fist into Marcus's chestplate. The reinforced steel buckled inward under her stat-boosted strength, and the sound echoed off the amber clusters, making Dorian and Vera flinch.
+
+"Captain?" Vera asked, sparing her a concerned look.
+
+"I'm... fine," she lied. This mission had been given to them personally by the Guild Master. Failure wasn't an option. A death on their hands demanded greater results. The bounty over Ghostwire's head was no longer a reward but a bargaining chip for their survival upon their return.
+
+Assuming they could even make it out of this Abyssal Rift alive.
+
+"We need a tank," Iris said adamantly through gritted teeth, "my skills are best suited for buffing a frontliner, and Vera needs a tank to protect her while she uses her spells. For now, I can buff Dorian enough to solo the frontline, but against stronger foes like the Guardian and that S-rank monster, we need a tank."
+
+"But Marcus—" Dorian began, but Iris' glare silenced him.
+
+"Forget Marcus, the fool is dead. There are other Hunters down here, proven by the presence of Ghostwire. If we find them, we can team up and get out of here."
+
+Dorian and Vera exchanged a glance.
+
+"That's not a terrible idea," Vera said, nodding in approval.
+
+"It's the only idea," Iris snapped back and stood to attention. "Did you pry free all of the mana cores from Marcus's Ether Suit, Vera?"
+
+"Yeah," Vera said with a tired sigh. "I just can't believe he died so fast. If that monster had jumped on me, I can only imagine how fast I would have had my head torn from my shoulders."
+
+"It wouldn't have gotten the chance. Marcus would have stolen its attention with Sentinel's Provocation," Iris pointed out.
+
+Dorian suddenly went very still.
+
+"Dorian?" Iris asked.
+
+Dorian slowly worked his mouth, as if horrified by his own realization. "You don't think it targeted Marcus, do you? Because without a tank, we are now far more vulnerable to ambushes."
+
+"Shit," Vera said flatly. "I think you're right."
+
+"It did seem more intelligent than any monster I've run into before—it could even speak," Iris reasoned and scanned their surroundings. "We need to move, and fast. The longer we go without finding another party to be our meat shields, the more likely that monster will find an opportunity to pick another of us off."
+
+Picking the opposite direction to the monster, they got moving.

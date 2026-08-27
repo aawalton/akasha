@@ -1,0 +1,121 @@
+---
+id: e1fc2f5b-a0b6-58ac-8b1b-4b3df67b631c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18: Hello Goodbye"
+slug: 0018-chapter-18-hello-goodbye
+partOf: succulent-girl-evolution
+position: 18
+ownLength: 2085
+unit: words
+publishedAt: 2025-09-04
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2573879/chapter-18-hello-goodbye"
+royalRoadId: "2573879"
+---
+
+Bubbles let herself float in the cool water, and even snuck a small sip through her roots.
+
+Miss Fish was right—the water was extremely clean and pure, yet still rich in minerals. Intrigued by Bubbles’s delight, Fern bent her well down to scoop some water for a taste as well. Cuddles poked a needle in, but otherwise didn’t join the other two plants in exploring the water too much.
+
+As the three plants played (or just watched, in Cuddles’s case), Rock sent a pulse of mana out. He was glad—no, beyond excited, if he was honest—that they managed to Leech mana from the artifacts. He had been feeling extremely vulnerable before, having spent the bulk of his mana on reconfiguring Bubbles into her current form. However, thanks to the small plant’s desperate play, he had recovered enough mana that he didn’t mind spending a little bit to announce himself.
+
+If he had more mana stored, he would have adapted Bubbles into a more useful form, like the wolf, perhaps, or maybe even the magpie with its wings… either one of those forms would have made it easier for Bubbles to either flee or protect herself, but those idle thoughts were for the distant future.
+
+Rock was confident the local mana mineral would talk with him; there were so few of them in the world right now that there was an unspoken sense of kinship among the existing minerals. He certainly would have been intrigued, if he was still in the ground and received a beacon from aboveground. The traces were faint, indicating that perhaps this was a new offshoot; regardless, as long as they were in the territory of a node, they would be able to talk.
+
+Their inadvertent discovery of the Leech ability was important. Rock had to make sure his brethren knew so that if they ever came across an opportunity to Leech a human artifact, they would be prepared to reclaim their fallen comrades’ mana and funnel it back to the earth.
+
+And hopefully, the mineral would have expansive enough coverage that he could point him to a location that was obscure enough to not have any human influence. Then he would be able to restart his mineral network development…
+
+Rock was about to send out another pulse when the carp finally returned, swimming directly up to Bubbles.
+
+“All right, you’ve made your point. Come with me.”
+
+Bubbles squeaked in surprise as a bubble encapsulated her, and then she was dragged below the surface of the water.
+
+She didn’t drown, though—the bubble kept the water out, and provided her with a clean pocket of air, for which she was grateful. Cuddles was more fascinated by this version of water and poked its needles through the wall of the bubble, giggling as the needles dragged through the water.
+
+Miss Fish brought Bubbles deeper and deeper into the water, far surpassing the original depth of the pond; it got to the point where even the glimmers of her scales disappeared as she continued swimming.
+
+Finally, Bubbles felt Miss Fish angle her body upwards as they approached what appeared to be soft blue light. They broke the surface shortly after, and she gasped as she took in the sight.
+
+They were in some sort of underwater cavern. Tendrils of light shone through the cave walls, looking like the wall was about to crack—or rather, more like the mineral veins were holding the pieces of the cave together. The veins glowed, and Bubbles got the feeling she was being inspected.
+
+[Greetings, comrade.] Rock Two (Bubbles did a doubletake as Rock’s voice echoed through the cavern before she realized it was a different mana mineral speaking) said.
+
+[Greetings. Thank you for seeing us.]
+
+[Please forgive the orneriness of my Guardian. She is still in training.]
+
+[I understand completely. Please forgive my own Guardian for her rude demand earlier. She is quite new to the world.]
+
+“How long have you been in training for?” Bubbles asked Miss Fish, eager to get to know such a special creature. She never met a fish before, and Miss Fish seemed nice enough—just like Miss Magpie, but instead of flying through the air she flew through deep water. She also wasn’t very interested in Rock’s conversation with Rock Two; they both had very bland and dry ways of speaking.
+
+“Just about a hundred years.” Seeing Bubbles blanch, Miss Fish chuckled, her prior aloofness melting away now that her own mana mineral approved of their interaction. “It sounds long, but it’s really not. I still feel young and spry.” She blushed slightly. “And equally ignorant, I suppose.”
+
+“A hundred years, though! I would imagine you know everything by that point. What are the requirements to graduate from training?”
+
+Miss Fish swished her delicate fins through the water. “To my knowledge, requirements vary for each Guardian. For me, I haven’t achieved my final form yet, so I am still in training.”
+
+“What’s your final form?” Bubbles inquired, fascinated. She wondered how similar Miss Fish’s evolution was to her own; but given how Miss Fish had no strange pieces of other animals on her, she was quite certain Miss Fish didn’t gain abilities from grafting other water creatures onto her.
+
+Miss Fish smiled nervously. “Um… it’s a bit embarrassing to say.”
+
+“You don’t have to tell me if you don’t want to,” Bubbles reassured her, patting Miss Fish comfortingly on her flat snout. “I like you the way you are now, anyway. You’re so sleek and pretty!”
+
+“You’re very sweet,” Miss Fish said, giggling slightly. “How are you taking to Guardian life?”
+
+Bubbles paused, realizing that Rock had, indeed, called her his Guardian earlier.
+
+“It’s been… very exciting! We got captured by the humans within one month of working together,” she told the fish. She stared wide-eyed at Bubbles, her mouth agape. “When we met you, we had actually just managed to escape from capture! Link, the wolf you saw, he was part of the group that captured us.”
+
+“Why is he still following you?” Miss Fish pulled Bubbles through the water towards her so that they were mere inches away from each other. “Is he your captor still? Do you need help?”
+
+“No, no! It’s not like that at all,” Bubbles laughed, waving her roots at the ludicrous question. “Rock had the brilliant idea to Leech the mana out of the gem keeping Link under the humans’ control, so we broke the spell over him. Then he decided to leave with us!”
+
+[So it is true?] Rock Two interrupted the conversation. [You came into contact with a human-made artifact, and felt no discomfort?]
+
+Understanding Bubbles’s confusion, Rock quickly filled her in: prior to their discovering the Leech ability, whenever a human bearing a man-made artifact entered the vicinity of a mana mineral, they would notice strange disruptions to their power—connections the minerals had cultivated over the years with their creatures wavered or broke, weakening the healing and enhancement effects the mineral provided.
+
+“I never felt anything like that, but Rock did mention before that I’m not very sensitive to these mana things,” Bubbles said dubiously. “He’s always been the one who warned me when there was ‘corrupt mana’ approaching. He thinks my sensitivity will improve the longer I’m bonded with him. Right?”
+
+[That is true; as I said before, she became sapient very recently, so has not fully acclimated to all her senses yet. Because of that, some of her… decisions were questionable. Despite that, she has uncovered important information, as I have mentioned to you,] Rock said formally. [Left to my own devices, I would have fled the approach of such menacing aura. However, my Guardian’s unprejudiced fearlessness allowed her to approach these artifacts with courage, and was able to not only dispel the artifacts of corruption, but also discover the Leech method.]
+
+“That’s incredible,” Miss Fish said excitedly, slapping her fins on the water’s surface in applause. “No one has ever thought to try that before! You are very brave, indeed.”
+
+Bubbles warmed at Miss Fish’s reaction, but Rock Two spoke to Rock before she could thank Miss Fish for the compliment.
+
+[I thank you for bringing me this information, little brother. It is reassuring to hear we can reclaim the mana of our fallen brethren; I will be sure to share it with the other minerals I am in contact with. Perhaps we will be able to dismantle the humans’ mineral-seeking artifacts with coordinated strikes.
+
+However, as for the personal request you brought me… I am afraid I will not be able to fulfill it, as much as I would like to.] Bubbles felt Rock’s enthusiasm dim in her as Rock Two said that, but he wasn’t done. [We are, unfortunately, dealing with our own problems here that are putting a strain on my own resources.]
+
+The warmth in Bubbles turned into an uncomfortable tickle. “What’s happening?”
+
+[Nothing that concerns us,] Rock said, with Rock Two’s agreement. [That is all right, we can walk to our destination.]
+
+[I regret I am not able to transport you directly to your target location, but perhaps we can help you another way.] As Rock Two spoke, Miss Fish disappeared briefly into the water. She returned shortly after with two air bubbles, each one carrying a small woven basket. [Your journey will be long, hard, and far. With the humans surrounding us, it will be difficult to cross through their settlements without notice, let alone acquire appropriate nutrition. Please accept these baskets of water and nutrition pills: they should be sufficient for keeping you and your comrade fed and watered on your journey.]
+
+“I made these myself,” Miss Fish confided to Bubbles. “One hundred years of refinement—I’m confident in my ability here, at least.”
+
+“Thank you so much,” Bubbles said gratefully. “How can I return the favor?”
+
+“These pills are nothing. I produce hundreds of these in a day to keep the local wildlife healthy.” With that, Miss Fish swirled another bubble around Bubbles and started swimming back towards the surface, with Rock Two twinkling at them as they disappeared.
+
+When they finally returned to the pond, Link was there, sitting patiently at the edge of the water. He seemed unsurprised to see Bubbles pop out of the bubble.
+
+“I was doing some exploration while you were gone, and something is odd about this locale,” he said immediately to Bubbles, ignoring Miss Fish as she deposited the two baskets beside him. “Please do not take it the wrong way, my benefactor; I am not suggesting you must do something, or even if there is anything you can do, but there is an imbalance in these woods that unsettles me.”
+
+Link’s concern dismayed Bubbles, and she turned to Miss Fish, who instead of returning to her tasks, was frozen in the water, watching the two of them with a mixture of barely disguised hope and despair. “Miss Fish, are the problems you and your Rock are having related to the imbalance Link noticed?”
+
+[Do not pry into their business, it is impolite,] Rock said delicately to Bubbles, though there was no heat in his words. He also seemed concerned. [The wolf’s instincts are good, however. I wanted to know more, but my elder refused to tell me, insisting it was better we did not get involved.]
+
+Miss Fish trembled, her lips opening and closing as she debated what to do, sending small ripples through the pond before she finally broke.
+
+“It’s true!” she said, tears beginning to leak out of her eyes. “Sir Link has spoken truly, there is something wrong in this forest; as the forest’s Guardian I should be insisting that you leave before disaster befalls you, but I’m at my wit’s end and I don’t know what to do about this affliction.”
+
+Distraught by Miss Fish’s pretty tears, Bubbles awkwardly swam her way over to the fish, patting her reassuringly while looking at Link pleadingly. She didn’t know what to say to make Miss Fish feel better, and she hoped Link would have a better idea.
+
+“Perhaps you should tell us what the trouble is. We can then decide for ourselves whether we should go on our way or not,” the wolf suggested, seemingly unmoved by the tears.
+
+Miss Fish sniffled, dipping her head into the water to wash away her tears. “I may come to regret this, but very well. Come with me.”
+
+Creating more bubbles, Miss Fish captured Link and Bubbles once again, and swam into the depths of the pond.

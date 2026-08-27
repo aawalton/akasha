@@ -1,0 +1,121 @@
+---
+id: 3d2beb44-9131-552f-9b34-6be508bfb4c4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 458: Aura farming"
+slug: 0026-chapter-458-aura-farming
+partOf: rise-of-the-living-forge
+position: 26
+ownLength: 1593
+unit: words
+ownProgress: 1593
+publishedAt: 2025-07-21
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2454469/chapter-458-aura-farming"
+royalRoadId: "2454469"
+markedReadAt: "2026-06-29T19:59:17.567Z"
+---
+
+The skills waited patiently as Arwin examined them. While he wasn’t sure which one was objectively the best yet — he didn’t have too much trouble finding one that he definitely wouldn’t take.
+
+[Soul Spike] was dangerously close to the bad aspects of Soulmancy. Striking materials to shatter their souls and force them to form into the shape he wanted instead of convincing them or finding pieces that actually wanted to work with him…
+
+Arwin had absolutely no desire to do that. There were more than enough materials that were willing to play ball. Soulmancy was meant to be a collaborative effort. Smashing the shit out of his partners so they had to obey his commands was just completely opposite to his goals.
+
+Not to mention that its other effect is making lasting injuries to opponents. That’s more for torture than a normal battle. I don’t need that.
+
+Arwin’s attention was next drawn to [Eyes of Scouring Flame]. The ability promised benefits to his smithing that he definitely wasn’t going to ignore. Being able to see within his components to work out exactly the best way to use them was certainly appealing.
+
+It was also completely opposite to everything Wallace had taught him. Dwarven smithing was about feelingdesires. It wasn’t a purely logical science. It was an art. And when Soulmancy came into the mix, that was only even more true.
+
+All the information he needed came from actually speaking with his materials. From hearing their desires and feeling their wills. Being able to look at them wasn’t going to change anything too meaningful.
+
+And that left him with two options. [Metal Wraith] seemed like it was purely a combat focused spell. There was definitely something appealing about flinging a dagger at somebody and then swapping positions with it just in time to hammer them in the face.
+
+But I’m not exactly a speed focused fighter. This certainly wouldn’t be a bad option to add to my wheelhouse. Teleportation is a damn powerful and versatile ability. I just don’t know if it’s the best one. It also has no application for anything crafting related and has some drawbacks for over usage.
+
+[Shroud of the Harbinger] was the only ability remaining. It had applications for both combat and crafting, but it was also probably the vaguest of all the offerings he’d gotten. Arwin wasn’t entirely sure what exactly it meant by impacting entities.
+
+He chewed his lower lip for a few seconds in thought as he went back over the options. But, in the end, only one ability truly stuck out to him. Vague or not, [Shroud of the Harbinger] had the most potential to be useful. It would also get stronger the more Awakened items he created.
+
+With a thought, Arwin selected the new ability.
+
+There was a thunk from somewhere deep within him, like a key being slammed into a lock and given a firm turn. Arwin’s chest thumped as a loud buzz erupted in his ears and a knot suddenly formed in his stomach. It was like he’d swallowed a brick of steel.
+
+Then all of the sensation vanished as one, and he was exactly as he had been.
+
+Arwin blinked. He looked down at his hands, brow furrowed, and glanced up to Koyu and Wallace.
+
+“Done?” Wallace asked. He squinted at Arwin for a moment. “Did you do something?”
+
+“I’m not entirely sure,” Arwin said. “I did choose a new ability, though. Do I seem different?”
+
+Koyu grunted. “Something is changed… but my senses aren’t as keen as they once were. I’m not picking it up. What manner of ability did you take?”
+
+“One that connects my soul with my Awakened gear,” Arwin replied. “There’s a small passive effect. I guess it isn’t too significant. That’s probably good, but I don’t want to screw around with it right now. Lillia and the others are waiting for us.”
+
+Wallace shrugged. “Never going to say no to a chance to drink some of the good stuff. I’m with you.”
+
+“Then let’s get to it,” Arwin said. He clapped Koyu on the shoulder. “And this time, you stick around for the afterparty, yeah? Enough slipping away the moment nobody is looking.”
+
+Koyu hesitated for a moment. Then he inclined his head. “I will consider it.”
+
+“All I can ask for,” Arwin said with a grin. He started to turn toward the door, but paused as something caught his eye. His smile faded and his brow creased as he tilted his head slightly to the side. “Hm.”
+
+“What is it?” Wallace asked. He and Koyu both looked in the direction of Arwin’s gaze.
+
+Standing in the corner of the Infernal Armory, where it always resided, was his Soul Guardian. The suit of Ivorin Armor didn’t look like it had so much as twitched from its spot since Arwin had first put it there. Its polished sheen was untouched by dust and unmarred by any fingerprints.
+
+At least, it should have been. Arwin could have sworn that was how it had been when he’d arrived in the Infernal Armory that morning. But something had changed. It was so small that he’d barely even noticed it, but there were a few specks of something dark on the Soul Guardian’s right fist.
+
+“I see nothing out of the ordinary,” Koyu said.
+
+I guess some specs of something must have gotten on it while we were working. I’ll have to clean it later. I really can’t be bothered right now.
+
+“Never mind,” Arwin said with a shake of his head. “I think I’m just seeing things. Probably tired from all the smithing we just did. Let’s get moving, shall we? It’s late enough that we should be able to get the tavern all to ourselves soon enough.”
+
+***
+
+Eleven rested her chin in the palm of her hand as she sat at her favorite corner table in the Devil’s Den. It was in a perfect comfortable shadow, out of the way of the majority of the hubbub that tended to make itself at home in the inn.
+
+She yawned, then took a sip from her mug without even budging her chin, somehow managing not to spill a single drop. It was a technique that had taken her quite some time to learn. She was rather proud of it.
+
+Lillia is getting stronger. She’s starting to block me out. I was able to travel around her tavern and snoop on things pretty easily just a short while ago… but now she’s managing to block me out of conversations.
+
+Eleven yawned again. She didn’t really mind about being cut out of a few important exchanges. No guild was going to want somebody spying on everything. Eleven had ways of finding out important things regardless of what actions anyone took to stop her.
+
+What she was really interested in was that Lillia was actually strong enough to interfere with her. For several minutes a few hours ago, right after the idiot dwarf had been dragged screaming into the tavern, the innkeeper had managed to completely and utterly block Eleven out.
+
+And that wasn’t all. Lillia’s aura was growing stronger. It seemed to happen at a rate far steadier than any normal boost to strength should have. Lillia had been little more than a slightly interesting adventurer when they’d first met.
+
+Now, she had enough strength to make Eleven’s senses prickle. A twisting aura followed her around like a monster lurking within her shadow.
+
+I’m really quite curious to see what they do for the Blacktongue party. I passed it off to them, just like One told me to… but I was having my doubts they’d actually accomplish much. The Blacktongues may well be useless, but the people attending that event are not.
+
+The Guild is not sending pushovers. There are some enemies strong enough that One wanted me to personally oversee this to make sure things don’t go too poorly. Now I’m wondering if that’s even necessary.
+
+I can’t wait to see Lillia in action again. I can’t miss it this time.
+
+As for Arwin — well, he was strong, but I haven’t seen him advance anywhere near at the rate that Lillia has. I suppose there’s only so much one can expect. He’s already impressive enough as he is. We can’t hope for two anomalies. After all, Lillia—
+
+Something prickled against of Eleven’s thoughts.
+
+And then it screamed a warning.
+
+Her eyes snapped to the door of the tavern, cutting through the darkness and past the adventurers that still remained within the tavern. She shot to her feet, power pooling within her as she lowered into a fighting stance.
+
+Something was coming.
+
+Goosebumps raced across Eleven’s flesh and the hair on her arms stood on end. Her senses were keen enough to know when danger was approaching — and this was a step beyond it.
+
+The entrance to the inn swung open.
+
+What is someone like this doing in Milten? And how did they show up so suddenly? The amount of power pouring off someone this powerful should place them at around the peak of Expert Tier. There’s no way I wouldn’t have sensed someone at that level until they were already at the door!
+
+Eleven tensed.
+
+And into the room stepped Arwin.
+
+Eleven stared in disbelief. It couldn’t be possible. She’d just seen him that morning. This power couldn’t have belonged to him. But her thoughts could not change what was. There could be no mistaking it.
+
+The deathly aura was coming right from Arwin.
+
+What is going on?

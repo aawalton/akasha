@@ -1,0 +1,117 @@
+---
+id: cbcd10ee-2dd6-5f43-9879-566cbf0bfbe0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1286 - The Art of Purification"
+slug: 0159-chapter-1286-the-art-of-purification
+partOf: the-primal-hunter
+position: 159
+ownLength: 2935
+unit: words
+publishedAt: 2026-04-03
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3227183/chapter-1286-the-art-of-purification"
+royalRoadId: "3227183"
+---
+
+Jake looked down at his hand. The healing process was ironically faster than usual due to the ingredient that had just blown up in his hand, almost making him chuckle. After only half a minute, all the surface wounds were healed, making him nod.
+
+“Yeah, it was definitely stronger than last time,” he noted to himself before he proceeded to repeat the exact same thing, resulting in yet another explosion that contained high levels of life affinity energy. The sheer conceptual power within the energy was also far more potent than usual, showing that he was closer to his goal than before.
+
+Several months had already passed since Jake’s first minor success with the Unstable Lesser Primeval Gold Mote. That minor victory had inspired Jake to continue down the same avenue of study, and during this time, he’d gone through a lot of different metals. At first, he focused on extremely pure yet “weak” metals like gold, which were known to be non-reactive, but soon, he’d moved on from that.
+
+Gold was good to experiment with, but it was almost too pure for Jake to see any good results. He also realized that, due to its fragility, he couldn’t see himself making a stable Gold Mote any time soon. As he continued his studies, Jake also began to realize something else.
+
+When he used his Lesser Primeval Energy, an explosion occurred, and one type of energy within the given ingredient was massively empowered, overwhelming everything else and causing fundamental instability. At first, his plan had been to strip everything else away from an ingredient besides that one important element he wanted to empower; however, he began to suspect that wasn’t possible.
+
+At least not with his current skills.
+
+Something like a Red Lavender – a core component in any health potion – did possess a lot of life affinity energy, yes, but it also had many other types of energies. Even when he extracted the lavender’s juices for potions, those juices weren’t entirely pure. Sure, these juices were almost entirely pure, but they still contained some other concepts and trace amounts of other energy types. Ones that Alchemist’s Purification didn’t even try to strip away.
+
+This got him thinking... was it even realistic to use Lesser Primeval Energy merged with Alchemist’s Purification to create something one-hundred percent pure? That had been what Jake had tried to do, as that had seemed like the only way to create a stable item infused with Lesser Primeval Energy, but now he’d really begun to question that assumption.
+
+In his pursuit of purity, he had missed the fact that in the real world, was anything ever actually pure? Even something like gold, which was known to be entirely nonreactive, still held trace amounts of other forms of energy. Ones simply required for existence. Energy born from countless concepts that were simply there as fundamental building blocks for physical objects. Gravity, time, space, light... everything that was affected by these energies, which were unavoidable, would contain smidgens of these energies within.
+
+Jake’s attempt to fully eliminate everything when he used his Lesser Primeval Energy was entirely unrealistic and didn’t fit in with reality, so he looked to another discipline of alchemy for inspiration:
+
+Transmutation.
+
+The art of Transmutation was all about transforming something from one state into another. In this process of transformation, the key role of the alchemist was to preserve stability, guide the subject of transmutation towards a desired outcome, and keep as much of an item’s innate energy as possible throughout the process.
+
+If one then wanted to elevate the quality of a transmuted object, one had to merge other energies into it, often by combining several items or using other such catalysts. Usually, simply infusing one’s own energy wouldn’t have a huge effect when it came to raising the quality of an item. That’s why, when Jake had transmuted weapons in the past by infusing them with his arcane affinity, it had always come at the cost of losing enchantments or similar from the item in question.
+
+However, there was one exception to this rule: Primeval Origin Energy.
+
+Jake had tried to transmute items in the past by infusing them with Primeval Origin Energy, resulting in a massive increase in both the quality and quantity of energy. This seemed impossible on the surface based on what Jake knew... except there was some precedent for it happening before.
+
+And that was when the system got involved to upgrade something.
+
+He recalled an item from all the way back in the Tutorial. Upgrade Tokens. These items had been used to – as the name suggested – upgrade equipment by consuming the item in question. As these upgrade tokens weren’t rare in the multiverse, with the system giving them out relatively frequently through different events and, in rare cases, even through natural dungeons, they had been thoroughly studied throughout time.
+
+The general consensus was that these Upgrade Tokens didn’t actually contain the energy required to cause an object to upgrade. Instead, they were closer to “keys” that allowed an item to tap into some greater unknown source of Records and energy that would be the real source of the upgrade.
+
+It was a gross oversimplification, but the fundamental thought behind the theory was that these tokens could temporarily create a bridge that formed a connection with a greater source. This all made a lot of sense to Jake, but it also reminded him a lot of what happened when he used his Primeval Origin Energy.
+
+He had already theorized it before, but Jake’s Primeval Origin Energy was just the catalyst to spark a change. It could open the door to new Paths and sources of power... almost like a key. A key to the Records and power found within Primeval Origins.
+
+Lesser Primeval Energy was just a lesser version of true Primeval Origin Energy, so wouldn’t it only make sense that it worked similarly? He had created a legendary item, even if its existence was brief, from only a mundane gold bar. Even if Jake had taken all the energy inside of a million such gold bars and merged them into a single one, he would never have met the threshold in Records or energy to become a legendary item, yet with a single one, he’d created that Gold Mote.
+
+That meant energy had come from somewhere, and while Jake had infused a bit of Lesser Primeval Energy, it was far from enough to create a legendary item. Coupled with all his other thoughts about how Lesser Primeval Energy actually worked, Jake shifted his view of how to use the energy.
+
+He moved away from trying to actually fully control every part of an item’s transformation despite that seemingly being the point of using Lesser Primeval Energy in the first place. He still wanted to decide the outcome of a process; rather than control it, he would plan it.
+
+When Jake used his Lesser Primeval Energy in the beginning, he did so by infusing a little at a time, and then once change started to occur, he would desperately rely on his senses and Bloodline-empowered instincts to quickly react to whatever was going on. Needless to say, this didn’t tend to go very well, as the speed and sheer volatility of reactions were far too fast for him to cope with.
+
+That made him question whether his approach of using Lesser Primeval Energy hadn’t been off from the start. In retrospect, there were some clues that this was indeed the case. The first of these could be found during his profession evolution.
+
+The Harbinger of Primeval Origins profession had provided +210 Willpower per level. That was even more Willpower than his class gave Perception, despite classes being able to provide more stats in total, and his class being extremely Perception-focused. Speaking of Perception, Harbinger of Primeval Origins hadn’t given any there.
+
+Jake didn’t believe it was a stretch to say that if he’d taken Harbinger of Primeval Origins, he would also have gained the Lesser Primeval Energy Manipulation skill, though perhaps a slightly different version than the one he ended up with.
+
+Given that Willpower was such an important stat with Perception at most a supporting one, did it really make sense that the best way to use Lesser Primeval Energy was to rely primarily on reaction time and high Perception? Jake didn’t think so.
+
+That’s why, rather than taking a reactive approach, he adopted a proactive one. Instead of pouring in a little bit of Lesser Primeval Energy until a change occurred, Jake would inject it all in one go, but not just send it in raw and without direction.
+
+Using his Willpower, Jake sought to fill the Lesser Primeval Energy with intent and purpose before it was even injected. This intent couldn’t be complicated, but it could allow the energy to do more than just violently react, or at least slow down the process to a level where things didn’t blow up.
+
+From initial experiments, this seemed to be a pretty good idea that helped prevent things from blowing up too fast. Granted, there were a lot of explosions to get to that point, but it was progress. Jake needed to better familiarize himself with how much Lesser Primeval Energy each corresponding ingredient required, and so far, his only way to do so was through sheer trial and error. Hopefully, if he upgraded his Alchemist’s Purification, the system would introduce better consistency, but for now, this was his best approach.
+
+As for why he was back to working with herbs and making them blow up? Well, because they were inherently less stable than metals... and because he’d already found some level of success with metals, based on the very small flake he had stored on a table in a crystal bottle, the entire table inside a stable arcane barrier.
+
+[Lesser Primeval Iron Flake (Legendary)] – A small flake of Lesser Primeval Iron. Relatively stable, though it still shows signs of instability. Unknown uses.
+
+The flake was incredibly small, able to easily sit on top of his pinky finger, and thinner than a human hair, but the mere fact that it had been sitting inside that bottle for more than two weeks was already a massive win in Jake’s mind.
+
+It hadn’t been easy to make either. Jake had started using iron ingots because iron was a metal that was relatively easily affected by external forces, unlike gold. It was also a lot more durable once refined a little, so Jake had spent some time both transmuting and using Alchemist’s Purification on the ingot until he got it to an acceptable level of purity while still keeping it stable.
+
+From there, he’d infused it with a “package” of Lesser Primeval Energy full of his intent and Willpower. At the same time, Jake actively infused his arcane energy, as he still didn’t plan on leaving everything to chance. While he found it difficult to directly control his Lesser Primeval Energy, he did discover that through his arcane affinity, he could affect the energy and have some semblance of control.
+
+He was still wholly reliant on the original intent he infused into the Lesser Primeval Energy, but his arcane energy was what allowed him to turn the entire process stable. He had to protect parts of the ingredients that would otherwise be destroyed by the Lesser Primeval Energy, resulting in explosions, and only when the time was right could he slowly allow what he’d protected to merge with the energy empowered by the Lesser Primeval Energy, making the item whole again.
+
+Jake mentally compared it to boiling water, with the water being the energy Jake wanted to infuse with energy, and the minerals and whatnot being what Jake needed to protect. He had to ensure that these were not heated up in the slightest during the entire boiling process, and that he only released his control when the water had cooled down again, allowing the water and minerals to mix again. Again, super oversimplified, but Jake had always found that it helped him to mentally dumb things down.
+
+This approach had ultimately resulted in Jake creating that Lesser Primeval Iron Flake, which, while still a little bit unstable, didn’t seem like it would blow up unless Jake tried to mix it with anything else. Oh yeah, that was another massive problem for later: how to actually use these ingredients infused with Lesser Primeval Energy. But, a problem for later was also a problem for future Jake as he kept working on “purifying” ingredients using his Lesser Primeval Energy.
+
+Oh, on a side note, it had taken Jake like six days to more or less replicate the effects of Grand Alchemist’s Arcane Purification. Reducing something to its most basic state was effectively just the transmutation process mentioned before, where he removed unwanted elements to only have desired ones, at least that’s how he understood it. Increasing stability was also not super hard, and likely a requirement of that skill, as removing unwanted elements could result in instability if overdone. In fact, considering Grand Alchemist’s Arcane Purification was all about removing and destroying unwanted elements using his destructive arcane energy, his transmutation method was probably better.
+
+Jake hadn’t gone for any skill upgrades, though. He wanted to do everything in one go to make sure he hadn’t made any mistakes. As an example, if he’d upgraded it to a version that focused on destroying all unwanted properties, it definitely would have been harder to then upgrade it to a version all about transforming them instead. Better to just do everything at once, even if Jake could likely upgrade it to an epic rarity skill or better here and now, should he so desire.
+
+However, Jake kept going, turning his alchemy lab into a series of explosions for several more months, and slowly found success. He made more Lesser Primeval metal flakes and motes, but working with flowers still took longer. Jake could successfully empower the life energy within a Red Lavender, but the final part, where the entire flower did not explode, still eluded him.
+
+During this time, he wasn’t disturbed by anyone despite people definitely being around and likely wanting to visit, but he guessed Villy kept them away. The Malefic Viper watched Jake at every moment, and when he used Invocation of the Malefic Viper to test things, he more vividly felt the Viper inspect everything.
+
+When Jake crossed the year-mark since he first created that little unstable Gold Mote, stray thoughts that the Seat of the Exalted Prima event had to be approaching soon entered his mind, but Jake quickly squashed them as he kept focusing. His initial plan of just getting more familiar with Lesser Primeval Energy had long disappeared as Jake set out on his quest to learn how to actually make use of it in a beneficial manner.
+
+Fortunately, his persistence paid off.
+
+Despite it being just another regular experiment that Jake didn’t put much thought into outside of just wanting to do his best, things turned out differently this time around. Jake took the Red Lavender flower and created his “package” of Lesser Primeval Energy within his own body. He filled it with all of his intent, relying on the experience of having done this more than five thousand times already. Of course, the amount of energy used and the nature of the intent infused were slightly different this time around, improved marginally after his last attempt, but that didn’t mean he suddenly expected success.
+
+Infusing the Lesser Primeval Energy, Jake felt the reaction start immediately. The life energy, as well as a few other conceptual energies tied to it, began growing in potency at a drastic rate, prompting Jake to step in and do his job as he tried to ensure that the entire “purification” proceeded in a stable fashion.
+
+There wasn’t even a point where Jake thought this would be it. He was fully focused, relying on his experience and micro-adjusting whenever he felt he needed to. At one point, Jake did feel that things were about to fall apart, so he made one final push as he infused more stable arcane energy into the flower, full of intent. It merged with the flower, and then...
+
+Success.
+
+Skill Upgraded: [Alchemist’s Purification (Inferior)] – Attempt to purify any alchemical ingredient. Purification can help remove unwanted properties from a component, making the finished mixture purer. Must have suitable ingredients. Must have suitable materials. Purification does not require any additional tools or equipment, but the skill’s effect can be amplified using certain catalysts. Adds a minor increase to the effectiveness of Alchemist’s Purification based on Wisdom.
+
+-->
+
+[Primeval Alchemist’s Purification (Mythical)] – For the Primeval Alchemist of Malefic Origins to display his true potential, he needs proper ingredients to work with. Something that cannot merely be found, hence, he must purify and refine them himself. Attempt to purify and refine any alchemical ingredient through the use of Lesser Primeval Energy and arcane energy. This purification can remove unwanted properties from a component by transforming them into fuel, thereby enhancing desired properties. Lesser Primeval Energy will further enhance desired properties, while arcane energy will ensure stability; however, be warned that this type of purification is still inherently unstable. Caution is advised. Must have suitable ingredients and materials. Primeval Alchemist’s Purification requires the use of Lesser Primeval Energy, and can, in rare cases, be amplified using certain catalysts. Adds a noticeable increase to the effectiveness and chance of success of attempted purifications based on Willpower, Wisdom, and Perception.

@@ -1,0 +1,467 @@
+---
+id: 37b47e94-7d0f-55bc-a824-4a6b061abe19
+page-type-slug: story-chapter-royal-road
+title: "Chapter 141: The League Conspires"
+slug: 0061-chapter-141-the-league-conspires
+partOf: the-calamitous-bob-stubbed
+position: 61
+ownLength: 5455
+unit: words
+ownProgress: 5455
+publishedAt: 2023-11-10
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1404054/chapter-141-the-league-conspires"
+royalRoadId: "1404054"
+markedReadAt: "2026-06-29T21:16:52.872Z"
+---
+
+“I still do not understand why Jack’s death was necessary,” Sidjin grumbled. “Surely there was enough room on that plank for both of them?”
+
+The improvised arcane projector played the Titanic credits, Emeric’s gift lying on a nearby table. Voicing over the entire movie had been a pain but worth it for the moment shared together, Viv decided.
+
+“It’s for narrative reasons. The point is not that the two try their best to save each other, The point is moving the spectator with sacrifice. If his death upsets you then it worked.”
+
+Abanezigel nodded. He had stood for the entire movie which weirded Viv a little but since he didn’t move and kept his mana under control, she could force herself to count him as furniture with some effort.
+
+“The famous catharsis you mentioned, yes, Viviane the traveler. What surprises me is that despite the awesome technology that leads to such vast ships, the death of hundreds could not be prevented.”
+
+“If I remember correctly it was a set of unfortunate  circumstances. The ship was going too fast, it tried to dodge the iceberg instead of ramming it and losing only a few sections, and there were enough boats to save everyone but many left before they were full. Just mistakes upon mistakes.”
+
+“Hmmmm. I see. No amount of magical or technological prowess can make up for human stupidity.”
+
+Viv used her wing to drag the nearby box of grilled meat while resisting the intense urge to sing AND IIIIIIII WILL ALWAYS LOVE YOUUUUUUU at the top of her lungs. It took a remarkable amount of self-control.
+
+The meat was not quite chicken because the fowl in question was much larger, but it was nice nonetheless. Rakan complained when the bucket slid to the side, preventing him from getting another serving.
+
+“Can’t you use your hands like a normal person?”
+
+“It’s practice. Practice!” Viv lied.
+
+The truth was that the wings had more reach, that is to say, she didn’t have to move to, that is to say, her arms were too damn short. There. In the month she had spent resting and binging three years worth of top tier TV series, her human body had barely changed. Her wings were now the width of a handspan and long enough to go over her head while the tip touched the ground. It even affected her balance.
+
+So getting used to them was important. Really.
+
+“You’re just grumpy because there was not enough action.”
+
+“I want to watch ‘Rescuing infantryman Rayan’ again.”
+
+Viv rolled her eyes. Voicing over a war movie had proven worse than a romance because she had to explain what a gun was, what a tank was, and how a plane could fly. She also wished Emeric had been more generous with newer works. That filthy god really loved the classics.
+
+//I have concerns that the message of this movie might be insidious.
+
+“Here we go,” Viv moaned in her metaphorical beard.
+
+//The female lead’s fate glorifies infidelity and lowering one’s station by forfeiting an advantageous marriage.
+
+//Thus sacrificing resources and making a powerful enemy.
+
+“It’s a romance!”
+
+//While it would have been more productive to assassinate her husband and keep the street urchin as a paramour.
+
+Viv prepared to complain then stopped.
+
+“Wait, are you advocating for the murder of rich scions?”
+
+//The movie is, as you mentioned, a romance, not a societal study.
+
+//Assuming that my purpose is to maximize the happiness of Rose, the death of a controlling spouse after their financial union represents the best outcome.
+
+//Before you complain, yes I am aware that she is a weak fleshbag without the courage to order a hit.
+
+“Huh.”
+
+Silence returned to the room while most pondered the experience they had been through. Only the grunts of efforts of Rakan wrestling with Viv’s wings for access to the fried not-chicken bucket broke this moment of contemplation. He lost.
+
+Viv considered that there was enough arcane might in that room to devastate a mid-sized city. And they were bantering and eating grilled meat.
+
+Viv found herself missing Arthur.
+
+Their bond had been more active recently. She thought the dragonette missed her as well. At least, she was fine.
+
+“Well, that’s it. I believed you wanted to get started on planning, Abe?”
+
+“Yes, however, the mood precludes it. The cultural content you offered us granted us a unique insight into a civilization whose achievements you take for granted, while we can only marvel at the resourcefulness of those who live without mana. I believe that a change of scenery is required to achieve a full break. I propose that we retire to the boudoir for a cup of klod, whereupon I shall share what I know with you, following which we can come up with more ideas.”
+
+The group agreed, then left the viewing room together. It had been quite busy since Viv’s friends had realized they could now access decent entertainment. Nyil actors may reach someone’s soul with their performance but Earth’s actors had risen to the top of a competitive profession through sheer talent. No amount of effort and magic could outshadow genius. Viv was glad she got to share it with them. It had made the ‘League of Lesser Evils’ a more coherent force.
+
+Abe guided the group through the multiple corridors that criss crossed his troglodyte base, bypassing libraries filled with ancient tomes and complex ritual rooms. The boudoir benefitted from the best skylight in the base, the glass revealing the crisp sky over the floating Chalice. It was raining today. A pitter patter chime provided a pleasant background while everyone sat in their designated chairs.
+
+No one spoke when Abe warmed the pot of fresh water, nor when he picked his favorite dry klod. Although the lich could no longer taste food or drinks, it had built an artificial sense of smell for security purposes. Klod remained pleasant and familiar. Viv guessed it helped anchor him in his remaining humanity. His gestures were calm and deliberate, sometimes even a little awkward as he tried to veer away from the automatisms that made using his arms less taxing. Abe was a soul piloting a construct, not a person living in their body. It would be easy to slip into idleness. Use telekinesis for everything.
+
+“Before we begin, I would like to say a word,” the lich finally began.
+
+“Do we really have to do the whole evil cabal thing?” Viv asked, impatient to get into the meat of the subject.
+
+“Viv. I have been waiting for this moment for three hundred years. Elunath stole everyone I knew, everything I had, and everything I was. Please, please let me have this moment and shut up until I am done.”
+
+The witch lifted her hand in surrender, chastised.
+
+“Good. I am aware that your transformation has shortened your patience, and I appreciate your efforts. I need you to understand why I started because this is what drives me now to linger in this world and also because it will give you an insight into what kind of person Elunath really is, the way he thinks, the way he acts.
+
+“The story starts three hundred years ago. At that time, Helock was technically a free city with an imperial envoy by the name of Jeol. The city was… different then. The immigration from the Shadow Lands was still going strong while Hallurian warbands conducted constant raids. The fiercely defended independence and arrogance of the old family had not reached the level you would see nowadays. Jeol was a de facto provincial governor and we, Elunath and I, served in his cadre. Do you know what a cadre was?”
+
+//A special detachment of battlemages typically accompanying a legion during their expeditions.
+
+//Their role covers battles but also engineering, project management, research, and occasionally diplomacy.
+
+//Although nominally under the orders of the legion commanders, cadres would answer first to the imperial ministry of the arcane.
+
+//It was a prestigious position.
+
+“And one loyal to the throne. All battlemages were trained at the imperial college which gave us a… a shared sense of purpose.”
+
+The lights flickered in the lich’s empty eye sockets. Viv was not sure how much Abe could feel or if those were emotions at all but the memory clearly upset him.
+
+“One night, we received news that the capital had been lost in a disaster. Everyone was dead for leagues. Fallen where they stood. Elunath and I, we were both Helockians by birth. We volunteered for the assignment which was only tolerated because the cadre was low on earth specialist at that time. It was our friend Jesar who got the message. She told us. She should not have. The shock was too much. We lost many of our friends that night.”
+
+The lich glanced up and he was no longer in the room with them, lost in his memories.
+
+“It was the end of our world, a true cataclysm without forewarning that shook me to my core. Envoy Jeol only took ten minutes to come to a decision. The empire was a centralized power and now it had been decapitated in a single blow. We knew it would collapse. There could be no other possibility, not with so many nations kept loyal through coercion. So Jeol took us and told us the cadre would move into Helock the very same night to take over the government and slay the most powerful families in order to safeguard our control. We were to set out immediately and planned on being joined by the nearby legion the next day. Of course, Elunath and I met to talk on the way because those were our compatriots Jeol planned on slaughtering. We came to the conclusion that our best option was to kill Jeol then abscond into the night to warn our people. Without his political acumen, the cadre and legion would be directionless. They would perhaps consider leaving peacefully. Of course, Jeol was not stupid. He had expected our move and we engaged his loyal bodyguard.”
+
+There was a moment of silence then.
+
+“Elunath struck me as I attacked. He shattered my spine. He killed Jesar whom I had convinced to join us. We never stood a chance. After that, Jeol was very impressed by his performance and his loyalty to Harrak and himself. They left while I feigned death which was not a very difficult thing to do. Anger needled me so much… I traced the circle by crawling inch by inch with the only hand I could still move. Every movement sent searing knives into every fragment of my broken body. It was… excruciating. But he had to die.
+
+“Only later did I learn that Elunath betrayed Jeol at the gates, had him murdered and climbed to the top of the Helockian hierarchy immediately after the ensuing battle. He was hailed as a hero. My family were driven out as relatives to a traitor. I never found them again.
+
+“Elunath has never been a hero. He has always been an opportunist. The most important thing to Elunath is Elunath. He will go to any length to gain and conserve power. He is a blight. A self-sustaining parasite. And he killed Jesar. Why did he kill Jesar? It just does not make any sense…”
+
+Viv blinked. Something had just gone wrong. Abe seemed broken in a machine-like way, his skeletal frame as if stuck in time. Only the flicker of blue flame still danced in the empty sockets. No one dared speak in the few seconds it took for his soul to reassert control.
+
+“Where was I? Oh yes. Elunath may delude himself in thinking he cares about the city, or honor, or reputation. He is a purely rational self-serving creature who will inevitably do what serves him the most. If he believes it serves him more to break his word because he can get away with it, he will.”
+
+“Don’t I know that…” Viv grumbled.
+
+“That will make him predictable but no less dangerous for it. Now for the assassination part. First, I would like to inform you that I hired an assassin to help us in this endeavor. He should arrive quickly. In the meanwhile, I propose that I share what I know and then you may discuss and propose solutions as you may think of solutions I did not think of. Now, onto the explanation.”
+
+Abe gestured and a detailed plan of Elunath’s domain appeared as a light construct of exquisite complexity. Viv easily recognized the entrance lobby, the corridor, and Elutnath’s study but there were also a research laboratory, and personal quarters. She recognized storage rooms, a kitchen, and the various other locations thanks to careful labels. The magical defenses were shown just as thoroughly, and they were quite formidable. Viv counted three entrances in total but they might as well be fortress walls for all that entailed.
+
+Abe gestured a second time. A list of profiles bearing the likeness of wanted portraits appeared next to the map, this one detailing Elunath’s entourage and an estimation of their capabilities, complete with anecdotes and public display of power. A last gesture brought Elunath’s chiseled, perfect face and a much more comprehensive list of his abilities.
+
+Viv had never seen such in depth preparations.
+
+“As you can see, in addition to his own formidable abilities, Elunath enjoys the support of a group of trained mages, a fortress-like setup, and he must be slain within ten minutes at most.”
+
+“Why is that?” Viv asked.
+
+“As a vital defender of Helock, Elunath is backed by the council of elders. Gryphon riders and battlemages will flood the place as soon as the alarm is given. That is why I need your help, if I have to be honest. We are trying to fight a superior, entrenched enemy. The odds are not in our favor.”
+
+Abe went on a long description of the multiple layers of defenses around the elemental archmage. Brown mages were superior defenders and Elunath exemplified their entire caste. Redundant systems would make infiltration almost impossible. Even the windows were not made of glass but of specifically enchanted panes of hard stone designed to let the light through. The odds did seem overwhelming.
+
+For all of his foe’s superiority, Abe had still found, not exactly flaws, but opportunities. Elunath could sense anything moving through stone in a radius that covered almost the entire city. He could also pay more attention to specific places and possibly even eavesdrop on conversation, though he could not be everywhere at once. Abe surmised Elunath could also find someone from their footsteps.
+
+Abe’s immediate solution was to use Elunath’s confidence against himself. He would set up a diversion before sneaking into the manor from underneath, digging through the earth where protections were only nominal while Elunath was distracted. Abe was absolutely confident that Elunath would rush back to punish whoever dared enter his domain. This still left the attackers inside of a stone structure belonging to an archmage who specialized in stone manipulation. Black mana saturation would remedy some of the dangers but… the outlook was rather bleak. Viv gave them maybe one in five chances of success which was still impressive for such a daunting task. Abe was right to brainstorm the problem. Piling powerful people could only get them so far. Abe’s planning was not up to par with his intelligence gathering, that was for sure.
+
+“What if he doesn’t have reinforcements?” Viv asked.
+
+Abe glanced up, his blue glare disturbingly intense.
+
+“A diversion?”
+
+“No. Well, not really. What if we cut off his support first? Helock accommodates him but there is no arguing he’s an asshole and he must have made enemies throughout the years. I think we can convince the city to… ah… punish him a little.”
+
+“There is a great way to do that, actually,” Sidjin said.
+
+“Please tell me more,” Abe asked with singular intensity.
+
+“Helock law allows for a ‘vendetta’ against interest groups if a sufficient cause is offered to the Council of Elders.”
+
+So far, the discussion had been conducted in old Harrakan since most of the group was more familiar with the language. ‘Vendetta’ was the best translation Viv could think of to fit the northern term Sidjin had used.
+
+“When a vendetta is declared, the council may not offer support to either side. It will not intervene so long as the conflict is limited to the contestants. It’s a seldom used mechanism because the conditions to set it up are stringent. Most conflicts would be better solved using negotiations or a tribunal.”
+
+“I remember. The law was voted after the Narkis family debacle,” Abe replied.
+
+“It’s a last resort for failed clans who believe they no longer have a chance for fair treatment. The Narkis family went out in a blaze of glory against a superior alliance but the collateral damage was so dire and their attacks so indiscriminate that the city still bears the scars of that conflagration. A vendetta limits the violence and gives options to revenge-driven individuals by guaranteeing that the authorities will leave them alone. In return, civilian lives are spared. Mostly.”
+
+“And we can declare one?” Viv asked with some doubt.
+
+“Not we. You,” Sidjin replied. “You see, only citizens in good standing can make the request. None of us are but… there is a loophole.”
+
+“I’m a student of the Academy,” Viv remembered. “For at least another few months. Academy students enjoy the same benefits as citizens except for voting rights!”
+
+“You will have to pay your dues first but then you can start the process. You are also lighter and have a different balance compared to before, which means that Elunath will struggle to find you, especially if you limit the number of steps you take.”
+
+“I could float.”
+
+“You should. And the council will never refuse your request because you have cause and are extremely dangerous yourself and, mostly, well…”
+
+“They won’t be too worried?”
+
+“No one in their right mind could think that Elunath would lose to anybody right now.”
+
+“Right. That seems like a good idea. It will warn the man that I’m still alive but I’ll sacrifice the element of surprise for the withdrawal of Helockian help. That should be one hurdle removed.”
+
+“Most likely lessened. They will still covertly provide some assistance,” Abe corrected.
+
+“And concerning this, I have another idea,” Viv continued. “Look, let’s take a step back. We’re thinking about this too, err, tactically. This isn’t a battle. It’s a campaign. Right now our isolation and small numbers seem like a disadvantage but actually, it’s a strength. We’re conducting covert operations. A small group of experts is the ideal set up.”
+
+“Your earthling mindset bleeds through your words,” Abe remarked, “however wisdom being universal, I would hear your proposal.”
+
+“We need to sap his resources. Make the city lose confidence and respect. Force him out of his comfort zone to make him sloppy, tired, prone to mistakes.”
+
+“He will just hunker down,” Rakan said.
+
+//Not if we make it too costly.
+
+//Basic analysis of Elunath’s profile hints at extreme arrogance.
+
+“I concur,” Abe added.
+
+//Attacks against him will be answered.
+
+//Most likely, they will be answered with excessive force.
+
+//He will seek to make examples.
+
+//It would play to our advantage.
+
+“I can ruin his reputation with a smear campaign,” Viv said. “I have ideas. That’s his political capital. Next, what about the money?”
+
+Everyone looked at Viv.
+
+“The… money?” Rakan asked.
+
+“Money means nothing to the likes of him,” Sidjin concurred.
+
+“No, hold on,” Abe said.
+
+They all waited for him to gather his thoughts.
+
+“I understand what she means. We can strike at his resources. His possessions. His supporters as well. We must attack everything. He is but one mind who trusts nobody with his personal affairs while we are many. If we can overwhelm him with issues, his mental state will eventually deteriorate. I have gathered detailed information on his financial holdings. Please wait while I go collect them.”
+
+The lich literally flew away. Viv used the opportunity to serve herself another cup. Resisting cold did not mean one enjoyed it, after all. Abe returned a few minutes later with several files which Viv immediately set to arrange before her. She went over notes, statements, intercepted transmissions, schedules. Her mind absorbed everything in her quest to inflict maximum damage. There were no skills of hers that promoted duplicity but she was her father’s daughter and one didn’t grow the child of a devious politician without learning a few tricks.
+
+“Can we help?” Sidjin asked with some hesitation.
+
+“Do you have a polymath skill or something similar?”
+
+“Well, no.”
+
+“Then wait a bit please. I’m almost done.”
+
+The crew — Viv had decided they were a crew since they intended to break quite a few laws — gathered around her with steaming cups to watch her work. It took her less than ten minutes to gather piles and eventually brandish a schedule like one waves a flag.
+
+“This. Elunath frequently visits the Bank of Helock to access a private safe.”
+
+“Wouldn’t his possessions be better hidden in his manor?” Rakan asked.
+
+“You’re right. Whatever’s in there is meaningful enough that he keeps it in one of the most secure locations in the city yet still makes sure it’s not in his house. Whatever it is, it must be precious. And the good news is that he didn’t pick the Manipeleso Bank and Exchange.”
+
+“How is that relevant?” Abe asked.
+
+“Because we’re going to burglarize it and I would hate to step on the feet of people who keep my money.”
+
+Abe considered her proposal for a few seconds.
+
+“Marvelous. I have more information on the bank’s structure. Let us reconvene tomorrow after the assassin has arrived. I must admit, as attractive as killing Elunath is, I will enjoy humiliating him first even more.”
+
+***
+
+“Here it is,” Viv said a little nervously.
+
+Rakan watched Abe move with trepidation. The lich used careful movements to remove an oak staff from the pedestal where it had been engraved. Four small cores shone over its length at equal distance to each other, one for each of the primary colors.
+
+The young mage took the staff in trembling hands. Immediately, his leaking aura settled. Power dripped into the cores at a steady pace white the two others watched in wonder.
+
+“It appears to be working,” Abe stated. “Although not my best creation by far, I believe you will find this tool suitable to your needs, young Rakan.”
+
+“Yeah. Thanks, I… I can’t really repay you?”
+
+“Fret not. I have vast amounts of resources at my disposal. It pleases me to see Hallurians rising above the cutthroat customs of their home nations to seek greatness elsewhere. You are a credit to your people, young Rakan.”
+
+“Yeah. Thank you.”
+
+“I believe that taking care of my allies will eventually pay off. Altruism is… is important. Is it not? I believe it is. Yes. Now you can leave with your mind at peace?”
+
+“If you’re sure you don’t need me…”
+
+Rakan’s sister was in Harrak with the hunters by now for the sake of safety. Viv didn’t know Tarana very well. Their relationship had always been frosty since the young woman pictured her brother’s life as peaceful and stable, two things Viv was known to deny by her mere presence. The recent events had not proven her wrong either. Nevertheless, she had accepted to relocate without struggle. The recent race riots had removed any illusion she had on how Hallurians were perceived around the city. Now, Rakan could join her to recover and learn how to make the best of the situation.
+
+“I just feel like I’m running away…”
+
+“You’re hurt,” Viv said. “You need time to recover and adapt. I assure you that there is enough to do around the land we’ve reclaimed. You might also want to try your hand against the undead. No shortage of those.”
+
+“I know that. I mean that you’re all here. I know I’m being a burden.”
+
+“A unit is composed of many members,” Abe interrupted. “If those members are hurt, the unit worries. Taking care of yourself and returning once you have recovered is the best service you can render right now. Your companions care about you.”
+
+“What if you get hurt and I could have been here to help? To prevent it?”
+
+“With enough ifs you can sit atop the divine throne in Larrean with Maranor upon your lap.”
+
+Rakan crossed his arms, half surprised and half amused.
+
+“Forgive me for the outburst,” Abe continued. “Do not mull over dark thoughts until they poison your mind with hypothetical scenarios that will never see the day. You do not have to wait or be idle. Your task is to learn how to function with the staff then help around the city. I am certain Viviane’s senechal has a list of chores she cannot wait to hoist upon your shoulders, young Rakan.”
+
+“You’re right. I guess. Yeah, I have my own path to follow. Thanks again. I really can’t repay you but I will certainly try.”
+
+Rakan left, eager to try the staff in the ritual room. Viv watched him go with just a little bit of guilt. It was not that they were getting rid of him. She really believed in her own words. It was that, even though Rakan had decided to take part in the tournament himself, the tragedy that led to him being maimed could arguably be born from her spark of luck. History happened while she was around and that history made victims. She knew it. She just couldn’t help it.
+
+Perhaps a broken core could be repaired. At the very least, she knew whom to ask. Her return to the Academy was going to be interesting.
+
+***
+
+Viv’s wings were weird.
+
+The smooth surface of solid black mana hid things inside she didn’t quite understand. There were no obvious muscles designed to move them and yet they moved, and they did so with a strength only limited by Viv’s stature and weight. Viv could direct them with as much precision as her own arms. They gave tactile feedback. For all intents and purposes, those were extra stabby limbs and yet they were clearly not designed for that purpose. They were meant as an anchor, a signal that magic was going to happen. The need to use them as such always lingered at the back of Viv’s psyche, even during exercises.
+
+Which was bothering her right now.
+
+The Chalice’s surface was small but cluttered with stones, ruins, and the craggy trees that grew up at this altitude with the constant wind twisting their trunks like snakes. One could grow familiar with this place which was why Viv was never given enough time to study it. Her maddened race sent her climbing over a beheaded statue, wings planting into nearby growths to carry her the last few inches. Sure steps on roots and she was off at a dead run towards the entrance to the underground.
+
+Her instincts screamed at her.
+
+A stone bounced on her instant shield, deflected into a nearby column. Viv ducked under another. She launched herself at a dead sprint, wings balanced behind her. She stopped. She jumped to the side. Her wings tensed. Her balance was wrong. She lost her footing.
+
+Solfis crashed where she had been a moment before. His clawed feet punched through the old stone with a ghastly crack. Viv’s instincts still told her he was a danger. She was on the ground. Too slow.
+
+Anger took over.
+
+With a scream of rage, she pushed herself back towards him. The wings extended like twin blades towards the golem’s ribcage, stopped at the last moment by two pinching hands. Viv had recovered before they could land but that didn’t matter. She would never stand a chance against Solfis in a physical contest anyway.
+
+“Sorry,” she said, “I, ah, sorry. Lost it for a minute there.”
+
+Fury still pumped through her veins though it was directionless now.
+
+//Think nothing of it.
+
+//It is all part of your recovery and training.
+
+“How do you make the instincts work anyway? It never triggered during training before but now I feel like you’re real threat to me. That you mean to hurt me.”
+
+//I designed this method to train your acuity reflex skill.
+
+//By abusing the way it works.
+
+//I convince myself that you need to suffer in order for the training to be effective.
+
+//Then I convince myself that applying that suffering is no longer necessary as I reach for you.
+
+“I. Err. You can do that?”
+
+//The advantage of a perfect mind instead of a mess of hormones and poorly firing neurons.
+
+“Wow.”
+
+//Though I admit that you are far ahead of the fleshbag curve.
+
+“I just thought you couldn’t hurt me at all.”
+
+//I can inflict discomfort in the name of progress and overall safety.
+
+“Right. Well, speaking of discomfort, I’m done for now.”
+
+Even a month after the fact, Viv still couldn’t move for a full hour without feeling a deep exhaustion. She also ate more and spent half the day sleeping. Low, unceasing pains had become a constant companion, though it never affected the same place twice. It wasn’t too bad though, and she was too bored to stay in bed. Moving with her wings deployed had become a priority. Getting a new wardrobe equipped with flaps was another.
+
+Her super cool black and silver armor no longer fit.
+
+That was only temporary. Yep!
+
+//A word before we return.
+
+“Tell me.”
+
+//The making of liches was strictly forbidden by the empire and all liches and people participating in the making of liches were to be executed without trial.
+
+//There were no exceptions.
+
+//The reason why liches still occurred was that it remains easy for a caster with enough time to become one.
+
+//All it takes is tethering the soul to one’s deceased body.
+
+//A feat that veteran mages at the top of the fourth step can accomplish with enough will.
+
+//Incidence of liches remained at around one per year on average during my time as an asset for the Harrakan military.
+
+//Despite their numbers, no effort was ever made to accept and weaponize them.
+
+//The cause is due to a combination of several factors.
+
+“Which apply to our host.”
+
+//Indeed.
+
+//First, liches grow in power as time passes.
+
+//Thus, a lich left alone grows more dangerous.
+
+//In this they are similar to necrarches.
+
+//Second, liches are driven by a single purpose decided during death.
+
+//They are incapable of deviating from that course.
+
+//Thus liches cannot be directed nor controlled.
+
+//Third, liches lose their humanity and their empathy the longer they operate.
+
+//The phenomenon can be mitigated as Abe’s example shows but never stopped.
+
+//Thus, a lich will eventually lose the incentive to act as a citizen.
+
+//Fourth, once their purpose is accomplished, they grow listless and destructive.
+
+“So after Abe kills Elunath…”
+
+//When it happens, Abenezigel will quickly suffer from the completion of his reason to live.
+
+//Resulting in a quick degeneration of his social skills followed by a transformation into a true monster.
+
+“Fuck.”
+
+//I apologize.
+
+//I did not expect you to grow friendly with an undead.
+
+//However, I do admire his resilience and his ability to maintain focus and sanity.
+
+“Damn. It’s like you admire him.”
+
+//Despite vastly different origins, we have much in common.
+
+“So… uh… you plan on killing him?”
+
+//Killing him serves Helock.
+
+//Therefore, I will avoid doing so unless forced to act.
+
+//Nevertheless, we should leave him as soon as we are done.
+
+“Wait, so we both transferred our soul to a different body, more or less, right?”
+
+//Yes.
+
+“But mine is still alive so it’s… better?”
+
+//Yes.
+
+//The seat of your mental functions is still an organic brain.
+
+//It relies on mana-altered biological processes.
+
+//His mental functions rely on mana alone.
+
+//He is missing key subconscious aspects.
+
+“So his body is flawed. What if we found a way to… improve it?”
+
+Solfis’ yellow glare bored into Viv’s.
+
+//Elaborate.
+
+“We may be able to return his carcass to a likeness of life. A sort of flesh golem. It might be possible for me.”
+
+//You are getting very close to necromancy and the domain of Gomogog.
+
+“How close?”
+
+//Close enough to be careful during your research.
+
+//We may as well look for options.
+
+//Abenezigel’s contribution to Harrak might be… invaluable.
+
+“So, kill an elemental, find a way to cure Rakan, find a way to help Abe. Looks like we got our work cut out for us.”
+
+//I do expect a lot of cutting, yes.

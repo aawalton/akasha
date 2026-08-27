@@ -1,0 +1,177 @@
+---
+id: 48f99294-7624-5f7a-bba0-f3b9b836136a
+page-type-slug: story-chapter-royal-road
+title: "310 (I) To Break a Curse [VII]"
+slug: 0407-310-i-to-break-a-curse-vii-3138045
+partOf: path-of-the-deathless-book-4-completed
+position: 407
+ownLength: 2952
+unit: words
+publishedAt: 2026-03-10
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3138045/310-i-to-break-a-curse-vii"
+royalRoadId: "3138045"
+---
+
+The Deathless is here, he's come, he's come for us all, he's come for us. He’s at the orphanage—W-what we did to the children, no, I’m sorry! No, NO—
+
+[Sound of tearing flesh]
+
+—Last Message from Master-Inquisitor Hastings
+
+310 (I)
+
+To Break a Curse [VII]
+
+The first thing Shiv heard upon nearing the cafeteria was Ikki loudly gagging. The azure light of the mana core slipped from him as he strode through the tunnel leading to where his Atlas had located Uva's biological signature. Like many things in Gate Piety, the cafeteria was built with protection in mind rather than aesthetics. As such, it was more or less an underground block made of concrete and reinforced steel. Though Shiv lacked a Geomancy skill, he could feel how his footsteps thumped dead against the ground; it would take a slight exertion of effort for him to break the walls or fracture the floor.
+
+And that was saying something.
+
+Still, with Shiv's Legendary Physicality, he needed to tread carefully regardless. If he continued rushing forward blindly, he might break something here, even if he didn't want to.
+
+When a Pathbearer gained enough power, the world became glass and clay, and their hands as if hammers meant to break.
+
+A thought whiplashed in Shiv's mind: he had grown too powerful too quickly, just as Jessica had said. Months ago, these thoughts wouldn't even percolate in his brain. He also wouldn't have been able to find Uva or travel across the Gate nearly so fast. Being a Pathless meant living a life weighed down by the chains of infinite restrictions. Being Legendary meant only the burden of reluctance held you back from inflicting whatever you wanted upon the world.
+
+A series of desperate and throaty chortles pulled him out of his thoughts. Ahead, the vault door blended perfectly with the ceiling and walls, all layered in a fine metallic sheen. The wheel that was lodged in the entrance was turned rightward, and the entire thing was left slightly askew. Such was how Ikki’s childish protestations resounded so clearly. Listening carefully, Shiv could hear what she was whining about.
+
+“It was groooooss. Gross. So gross. It's gonna be in my head forever like… like sticky candy. Sticky candy I stuck up my nose that one time on a dare. I can't believe you would do that to me! I also can't believe you would do that to yourself. It was like a scene from a nightmare! There were like eight of him, and you had your threads through them like they’re flies in your nest. But instead of you eating them, you had them… He—he was… ugh! Just UGH!”
+
+A hushed snarl came in reply, and though the voice was so low and muffled he couldn't make out any words, he recognized Uva's voice clearly. Shiv winced. There was a special kind of humiliation in getting your personal laundry aired for the public to hear.
+
+Ikki might be going a bit far with this, Shiv thought, trying to keep his own annoyance suppressed. Mainly because it was his dirty laundry too. Still, we did kind of traumatize that poor girl pretty badly. Godsdamn it, I didn't even notice her…
+
+Not one to be held back by embarrassment, Shiv drew in a quick breath and pushed the door to the cafeteria open, expecting to see a scene of dramatic carnage with hundreds of eyes on Uva. There were that many organic mana simulations lighting up before Shiv’s eyes anyway. And soon those few hundred eyes would be on him as well.
+
+And with a final godsdamn it, Shiv wandered in.
+
+Rather than facing a wave of judgmental gazes and disgusted faces, there was only one person standing with a foot planted on the edge of a table. It was one who was shouting, waving with her hands animatedly, and pointing at the target of her offense. There was only one. All the other Sisters and Mothers of the Arachne Order ate their food quietly, though a few had hidden smiles that flicked through their stoic facades now and again. The cafeteria was two hundred meters long with rows and rows of interconnected steel tables. The linoleum floors here gave the room a near ethereal shine. It also cast faint reflections of each and every person present.
+
+Except for Uva, who mostly had her face pressed down against the table, hissing halfhearted retorts at her junior.
+
+The rest of her team was sitting at the table as well. Most of them tried to be indifferent, though a few of them were staring at her twitching wings with looks of wonder and suspicion intertwined. Then there was Hymn, who loomed behind Ikki, waiting for his turn to ruin Uva's day. He was loudly eating what seemed to be some kind of large cracker, allowing the crumbs to spill all across the nice, clean ground. His shirt was also a mess of food debris. It occurred to Shiv that he might be the only person in the entire cafeteria who was genuinely indifferent.
+
+“And then… And then…” Ikki's voice trailed off in a long shuddering gasp as she noticed Shiv. Her index finger sliced away from Uva and swung like a pendulum to fall upon Shiv. "Shiv! EW! Also, hi!"
+
+And the Umbral's emotions swung like a pendulum as well. In one instant, she was horrified. A second thereafter, her face snapped into a glorious smile. She looked downright happy to see Shiv. Her pointing finger turned into a generous wave. Soon she began trying to usher him forward, luring him toward the group. The other Umbrals and the few Weaveresses eating in the cafeteria noticed him and offered him a series of appreciative nods. He got more than one whisper that thanked him for getting rid of Null Mont, and nothing about his indiscretion.
+
+As Shiv's footsteps thumped closer to the table where Ikki was waving at him, he saw Uva slowly lift her head in misery. The two shared a look, and her eyes flickered with fading color. Her normal irises reappeared briefly, and he saw just how tired and embarrassed she was. One of her Psychomancy strands flicked out, dancing across the room to tap him on the head.
+
+“Kill me.”
+
+Shiv winced sympathetically. “Just hang in there. I think I have an idea for how we can blow off steam.”
+
+“That's how we got into this mess in the first place.”
+
+Shiv barely held back a grin. “Not that kind of blowing off steam. I'll tell you in a minute. We're going to be focusing on shitting in different people's breakfasts.”
+
+“I'm not sure if that's very appealing to me. Also, I don't track the metaphor.”
+
+“I'll explain in detail. I'm gonna need you to pilot a few of my bodies.”
+
+Uva's lip twitched almost imperceptibly. “We are returning to dubious territory again.”
+
+“Yeah, but not for us this time. I need a few bodies in the Capital, up in the North, and probably in the South. I'm planning to head into the Fairwoods, so I'll need one for that, also another body here… Actually, I'm thinking about just supplying an army for you to control.”
+
+That caused her to perk up completely. “You're asking me to control a small army of your physical bodies?”
+
+“Yeah. I mean, I won't be able to apply my Skill Infusions for all of them, so most of them will just be purely physical threats. They'll be extremely vulnerable to magic, but considering how advanced your Multi-Tasking Skill is and how you can build off all the bodies you control, I think this might work out pretty good for both of us.”
+
+Their telepathic conversation was interrupted by Ikki gagging aloud. "Are you two talking about gross stuff again, right in front of everyone here? In front of me?"
+
+"No, Ikki," Shiv replied, holding back a long-suffering sigh. "Not doing that. I'm just trying to figure out a way to keep the Gate safer."
+
+"Really? How are you going to do that?" Ikki placed both her hands on her hips and narrowed her eyes at Shiv. With how practiced the motion seemed, Shiv guessed she was emulating someone else's posture. "If it's not something messed up between the two of you, you can tell the rest of us, right?"
+
+"Sister Ikki," the team Pyromancer groaned, "please stop trying to embarrass the Deathless. You know he can pull you in half without any effort, right? Infuriating him is unwise."
+
+"Shiv won't do that. Wait, you won't, right, Shiv?" For the first time, Ikki seemed to realize Shiv was a Legend now. The Adept looked Shiv up and down and tried to hide her gulp. However, he felt no trickle of fear slide out from her. She recognized his growth. Part of her was surprised and maybe even a little bit awestruck by it, but beyond that, she held no dread. She trusted him.
+
+And Shiv… absolutely loved that. Inspiring terror in someone brought one great pleasure, but true affection offered a satisfying sweetness that couldn't be compared. "No, Ikki, I'm not going to rip you in half.” Then he tilted his head in pretend thought. “I might eat your arms and legs, though. They look pretty tasty. You're looking pretty plump, Sister. Eating good even without me here. Maybe I can carve some of you off and stir-fry the strips."
+
+She crossed her arms and sniffled. "Oh, that's right. Poke fun at a girl. We can't be all super special System favorites like you, you know. Some of us still gotta eat, drink, sleep, poop… and also exercise. You won't believe how much exercise I have to do to work off all the tasty goodies I put in my mouth."
+
+"Yeah, well, I might be about to make your life harder. You missed out on some pretty good meatballs."
+
+"Oh, you mean the Manifold Orc Meatballs?" Ikki's expression turned positively impish. "The second-best meatballs in the Tutorial?"
+
+A spasm of indignant fury detonated inside Shiv. His fingers spasmed and curled like the legs of a dying spider. His eyelids twitched on both sides.
+
+Sage of the Enkindled Heart: Do not let the creature provoke you. This will give her power.
+
+"That's only because I'm Cursed," Shiv said, trying to come up with an excuse. "I'll get him next time. I'll get him. I'll get him. I will."
+
+The sheer passion of his protest made Ikki even more puckish. She popped her lips. "I don't know, Shiv, it seems like you found someone who's better than you. I guess you can overpower him, then rip his arms off and eat them, but I think that he'd still cook better than you after that."
+
+She was actually making him mad. Injections of clarity followed the rage straight into Shiv's mind. That didn't do anything to assuage the lacerations his pride sustained from her mockery.
+
+Sage of the Enkindled Heart: The mongrel child's words are meant to hurt our feelings, and she is succeeding. She must have some kind of treacherous Skill that allows her to know exactly how to annoy someone. Endure! Endure!
+
+"Ikki," Shiv seethed in the open. "I will make you eat those words."
+
+"Well, I hope you make me eat something better than the meatballs. Because that's the only apology I'm going to accept."
+
+"Apology? For what?"
+
+The Sister of the Order placed a hand on her chest. "For what you did to my eyes. And my mind. My innocence and purity."
+
+"You're about as pure as a public gutter," Uva spat.
+
+Shiv breathed in deeply. "I need Uva's help to seed some of my bodies in different places. I'm going to be heading for the Capital and crossing over the Fairwoods. I need to deal with the vampires in the Abyss, the bastards up top to the North, the bastards down South, the bastards to the East. Actually, there's a lot of stuff I need to be doing, and I can't do it alone. I don't really got the skills for it. But Sister Uva does. So that's why I'm here. Not for any gross stuff, alright?"
+
+Ikki looked like she wasn't sure how she thought about that. "Well, can I have one?"
+
+Shiv stared at her. "Can you have one what?"
+
+"One of your bodies! You're already giving Uva like five or six. Why can't I have one?"
+
+If a normal glare could be likened to daggers, what came out from Uva’s wrathful eyes was more like a stream of swords. She slowly sat up and leaned over the table. "He's not for public use, Sister Ikki."
+
+Ikki threw her hands up. "No, apparently, he's for you to hoard for your perverted little desires! If Shiv can just make more of himself, then why can't we all have a Shiv?"
+
+"Because normally if I make more than three of me, I collapse and turn into a mental potato,” Shiv offered. “It's too much for me to process."
+
+"And I have a skill that lets me stack instances of myself inside different bodies," Uva added, playing along.
+
+Most of her team looked suitably impressed at that, but the Pyromancer among them seemed worried. Her gaze was locked on the odd segmented wings spreading out from behind Uva; at the faint hallucinogenic halo that formed in the air from the colors leaking from Uva’s eyes; at the stretches of Uva that had turned to solid ice lit by an unnatural tint of tarnished gold.
+
+She might have survived her metamorphosis and gained an immense amount of power from the process. But there were still questions to face. There were still tensions unsettled.
+
+That was likely what Uva had been trying to do before Ikki derailed everything.
+
+"Oh, good, you two are already planning ahead. That's quite nice." Hymn shoved the remainder of his biscuit down his throat and then smacked his hands together, scattering the dust into Ikki’s hair below. "I was about to suggest that as a solution myself,” he mumbled, not waiting until he was finished chewing. “And since one of you can control multiple bodies and draw away the trauma to fuel herself with power, the other one can offer her a stable supply of bodies. I see you’re also planning to continue your traditional education back at my academy."
+
+"Of course," Shiv said. He couldn’t hide his vicious smirk. "I got some unfinished business back at the capital. Adam and I promised Irons that we're going to try to find one of his missing students. There are a few orphanages I want to hit up, Inquisitors to kidnap, and a certain Ascendant I wish to harass into retracting her Curse."
+
+The Headmaster’s blasé expression cracked ever so briefly. "Not quite such a good idea. You're courting a lot more trouble than you can handle, boy. You might have expendable bodies now, but if the Ascendants captured you, know that they will inflict upon you pain the likes of which you can't imagine."
+
+"You know I ripped off my own penis and threw it at the Culturist as a distraction, right?" Shiv replied flatly.
+
+Uva fell back on the bench and limply bounced her head off the table again.
+
+"What?" Ikki’s face contorted in raw horror. Suddenly, there was a fear chain extending from her.
+
+Whoops, Shiv thought.
+
+A chorus of disbelieving coughs and awkward stares stabbed at Shiv from all directions. Each member of Uva's team grew even paler. Their complexions made the already pale Umbrals seem deathly ill.
+
+Hymn nodded slowly. "I see. Forgive me, I didn't inquire about that fight. Now I understand why the Culturist was reluctant to speak of it as well." Hymn swallowed and looked away from Shiv. A faint rope of fear led out from him and nourished Shiv as well.
+
+His link was thicker than Ikki’s.
+
+The Headmaster’s gaze turned back on Shiv after a moment. "But, can I ask why?"
+
+"Seemed random and unpredictable. So I did it. Culturist didn’t see it coming. Didn’t manage to put him down this time, but it was worth a try. I’ll gut him next time."
+
+"I would profess my doubt to almost anyone else for such a claim, but since it's you… Let's say you're nothing but surprises so far. I would request that you keep two separate bodies. One that wears that mask of yours that allows you to maintain the false guise that is Marcus Unblood, and the others… Well, do what you will with the other bodies. I just have one simple request: Please keep your expendable bodies away from the Academy. If you intend to make a mess with them, do that far away from the children."
+
+Shiv smirked. "I am technically a children. "
+
+"You are a walking fight magnet shaped like an ogre on a diet. And you strike me as someone who knows what raw rat tastes like."
+
+Shiv would have been offended if Hymn hadn't read him like he was transparent. "I didn't eat that many. It was kind of a desperation meal. And if you find a healthy one, you can bite from the bottom."
+
+"That is absolutely wonderful to know and incredibly useful information for me," Hymn replied. "But I'm sure you get the point now."
+
+"Yeah, fine. I'll try to keep my terrorism away from your school. I'm thinking about conducting my raids through a random Gate every time anyway. Keep them guessing. With how many people will be spotting me all over Integrated Earth and probably beyond, I think that'll keep them unbalanced."
+
+"The chaos suits you. So. Where exactly are you planning to go first on your world tour?"

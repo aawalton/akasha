@@ -1,0 +1,175 @@
+---
+id: cf9c851a-2956-5a0c-8e76-2e55df522989
+page-type-slug: story-chapter-royal-road
+title: "372 Thieves of Divinity"
+slug: 0487-372-thieves-of-divinity-3489272
+partOf: path-of-the-deathless-book-4-completed
+position: 487
+ownLength: 3830
+unit: words
+publishedAt: 2026-06-03
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3489272/372-thieves-of-divinity"
+royalRoadId: "3489272"
+---
+
+It's time for you to learn the rules. If you want to make your mark across Integration, become wealthy, while also staying protected and ultimately unowned by someone like me, you need to understand your place.
+
+Before you hit Legend, you're just a slave. Probably not a literal one, but still a slave. Simply a lucky, uncaptured one.
+
+And once you make it to Legend, enslavement of the literal sort is always just around the next corner. So, if you want to continue existing as a Legend with a measure of agency, it's time for you to stop thinking of yourself as a person. You are an enterprise. And what enterprises do is spread their influence out. For you, that translates into getting other people to take hits that would kill you.
+
+Power comes at a price, and that price is every other power-hungry, powerful bastard around either wanting your power for themselves or wanting it removed from the field so they don't need to worry about you ripping their throat out later down the line.
+
+Hence, hierarchy, connections, and cabals. There's a reason why Legends often give themselves over to gods. There's a reason why certain Legends stick together. There's a reason why Legends still hold to civilizations. Because chances are, you didn't become a Legend without any support, and that support only becomes more valuable once you're there.
+
+Get the idea of being a one-man army out of your head. The only people who can pull that off are freaks and monsters, and if you’re listening to me, you’re neither, because I’m most certainly not.
+
+—The Realmrunner
+
+372
+
+Thieves of Divinity
+
+Someday, somehow, Shiv was going to kill Udraal Thann. He was going to kill him slowly and with torturous delight. He was going to do it because not only was Udraal a mass murderer, he was also a coward.
+
+“It's not that he can't; it's that he won't,” Maia spat. “He refuses to incur the Challenger’s ire, even though he has done it before. He refuses to extract what he calls a trifling piece of ancient technology, for he has gauged the risk of Adam’s death or enduring insanity against the high chance he might develop an astounding series of Skill Evolutions as a result.”
+
+Her arm turned into a lashing blur. Every stroke she struck with her brush was as if a blade trying to open someone's throat. Though her movements were erratic and fierce with anger, a portrait of a blissful garden was beginning to take shape. “What point is there in having so much power if you don’t use it? Udraal is not weaker than the Challenger. At least not considerably. If I had his power, I would make the orc entreat with me instead of the other way around. But Udraal fears not just losing his own life, but also his mere dignity so much that he would rather push this all onto someone else. He would let a mere child suffer in his place.”
+
+Her paint came aglow with light as she colored in the dappled yellow and glorious pale that comprised a looming sun hidden behind foliage. The sounds of insects chittering and birds chirping began to reach Shiv's ears, and then came the flavors of nature: rotting bark, fragrant flowers, freshest soil. But there was an absence at the center of the painting, an absence that suited a grand bed, and the Paragon who lay paralyzed upon it.
+
+With a final stroke, the Educator completed her art piece and slammed her open palm into the absence at its centerpiece. And just like that, she cast the painting into reality. It immediately enveloped his surroundings, forming a sort of divine threshold around Adam. The room was displaced by a flood of overwhelming spatial magic and incandescence, and borders defined by charcoal shading prevented any potential crossover between the greater environment and the divine bubble.
+
+The effect was immediate. Adam's tortured face slackened slightly as some of his strain vanished. He now lay amongst the garden of tranquility, lullabied by birdsong and caressed by a cool breeze. Shiv tried to take a step toward Adam, but the pressures of displaced space pushed against him, and the Educator's boundary was as unyielding as he remembered.
+
+“Hold still.” The former Ascendant didn't wait to ask for permission. A pencil fell on its way into her other hand, and she casually stroked an outline over Shiv and Rose. “Now you can cross. But I advise you not to do so unless absolutely necessary. I made this painted world so that his awareness wouldn't be constantly strained. It is designed to be perfectly static, with nowhere for his Haunting Omniscience to spread. The only thing your intrusion would do is increase his suffering.”
+
+Shiv nodded appreciatively, but this was still no proper help. “What the Crown is doing to him is way more actively torturous than just an Orcish Skill, and his Haunting Omniscience is only making things worse. Letting him kill people to stave off the bloodlust isn't an option either. You are your actions. They make up your legend. And I think that's also why the Challenger did this to Adam; this is going to mark him. It’s going to affect his Skill evolutions something horrible, and that just might do something to his Domain—”
+
+The Educator’s eyes went from narrowed slits of frustration to wide saucers. “Did you just say Domain?”
+
+Shiv raised an eyebrow. “I thought you knew about that.”
+
+“I knew where you and the girl were; I never managed to find him,” she shot back. But more than annoyed, she looked aghast. “A Domain! This is impossible. This is…” Her words trailed off as her mind and heart filled with a sudden epiphany, a dreadful epiphany. “Thaen!”
+
+She snarled that name as if it were a slur, but Shiv shook his head. “No, maybe not. I chipped off a piece of divine fire while we were in the Fairwoods, from a thing that the Starhawk most definitely has nothing to do with. Some of that fire punched into Adam like shrapnel. It's probably what caused his Path to evolve and give him his Domain.”
+
+“Absolutely not,” Maia snapped. She sighed like she was talking to a particularly dense student. “If a few pieces of divine mana were all it took to change a mortal into a god, then we would all live surrounded by Godlings. Divine mana splinters and fragments all the time. If what you claim is true, then how come we don't get a new god every single time an Avatar faces another? They practically shatter each other's Divinity every time they clash.”
+
+Shiv had to admit that he didn’t have a good answer for that.
+
+“I think the more likely answer is that the divine flames you severed were potent enough and cleaved deep enough into Adam that they reached one of his core skills, a dormant skill, or perhaps a dormant portion of his soul that was already pre-attuned to Divinity. As for what and how, I think that's a better question for Lady Van Erren—or better, Roland Arrow. I know the Starhawk was the architect behind the Abyssal War.” She glared at Rose, who took a reflexive step back as incandescence bled out of the Educator's eyes. “I know you and your beloved delved deep into the flesh of the Great One to create and birth new, unchained Ascendants. Ascendants unaffected by the dementia.”
+
+The Educator tried to step past Shiv, but he shifted, intercepting her before she could confront Rose. Even so, the former Ascendant ignored him. Her eyes were locked on the Lady of Blackedge. “What did you let the Starhawk do? What ritual did you perform? Was it a Phylactery? Did you sacrifice one of the others to empower your son? Did you channel part of our stolen Divinity into him? What did you do? What did you do?”
+
+Rose staggered back, utterly startled by the Educator's feverish outburst. The former Ascendant's emotions were inflamed like never before. At her core was terror, dread calcified, and around it hardened a layer of outrage. A maelstrom formed from translucent spots spun around the epicenter of her mind, and the tumult that governed her intensified with every passing second.
+
+“I didn't do anything—we didn't do anything with Adam!” Rose defended herself. “I would have never—”
+
+“Lie,” the Educator hissed between clenched teeth. “Willing or not, the Starhawk had you conceive a daughter while you were in the depths of the Abyss. The Starhawk had you create a spawn meant to take on the burdens of Divinity, a pure shard of divine power stolen from the Great One that could take root in a proper vessel without any drawbacks. I know you well enough, Rose Van Erren, to be aware that you are not the kind to agree to spend the lives of your children on a whim. This was pre-planned. You either went along with the plan, were an architect of it, or had to be convinced and were convinced. Tell me now, what did you do?”
+
+“Fucking nothing!” Rose snarled. Her shock was over, and her anger spiked to match Maia’s as she took a step forward again. “We didn’t do anything with Adam, and my—my girl was a different situation.”
+
+“Different how?” the Educator pushed. Her aggravation built, and a bomb of emotional anguish began to detonate inside Rose.
+
+“Stop,” Shiv growled at the Educator. “That’s fucking enough—”
+
+“It's different because I was going to lose her!” Rose screamed. “I got hit with a Curse! I was going to lose her, and the only way we could keep her was going down!”
+
+Shiv felt twin chains of pain snap behind and in front of him. Maia’s face went blank, and her heart went empty with regret. In an instant, she realized she had gone too far, and worse than that, she sympathized too deeply. And in an instant, his Harbinger gained a horrific bit of insight into the former Ascendant's past. “She sympathizes too deeply. She lost a child as well, or something close.”
+
+Rose, meanwhile, was on the verge of hyperventilating. But rather than being consumed by anguish, she was anger incarnate. “And fuck you! Never fucking insinuate I would do anything to my own children again, you fucking bitch! I love my children, and even if I never got to hold my daughter, even if I never got to see her grow up, even if she never got to be a person, I love her still as if she's still here! Never accuse me of anything otherwise! NEVER!”
+
+The Educator struck Shiv as someone who was borderline immune to shame, but borderline immunity wasn't completely. Darkness filled her empathetic core, and she bowed her head and turned away. An apology almost came to her lips, but she choked it down and forced herself to avoid facing her own emotions.
+
+“Evasive, secretive, and avoidant,” the Harbinger whispered. “She might have spared herself the brunt of the degeneration, but not soon enough. We can break her. If this comes down to a battle, we can break her.”
+
+Deductive Reasoning 31 > 33
+
+Harbinger of Tripartite Ruin 307 > 309
+
+“But we can also fix her. We can fix this situation. We can understand her better and alleviate her and Rose's pain at once.” The Harbinger trembled inside Shiv with philosophical grief. “Because we can be more than a weapon. Because sometimes, understanding the Tripartite Ruin means saving someone from their own inevitable destruction. We should learn why Maia is so incensed. We should give Rose comfort and offer a means of relief and companionship to a former Ascendant as well, because she's already alienated from Udraal. She needs not be an enemy, despite everything she has done—despite our prior emotions.”
+
+“Help me understand.” These were the first words Shiv used upon the Educator. “Help me understand why you're so terrified. Help me understand why you're angry. Help me understand what Adam's Divinity means. Tell me what you think the Starhawk did, and why it’s wrong. Do that without attacking Rose. She's not lying to you. I would have known, and I think you know as well.”
+
+His words caused something inside Maia to wilt. A flicker of fight went out behind her eyes, but there was still that evasiveness, that urge to avoid any pain, any weakness in front of another. Shiv's Rhetoric felt a pull, but it was an inconsistent sensation, like a rubber band snapping and relaxing with every other second. Before she could default to abrasiveness, Shiv continued, pressing the moment. “I want to know too. I want to know so I can help Adam. I want to know so that I can help you. Udraal doesn't care, but I do, and you do as well, and even if you don't trust me, even if you don't like me, you know you can count on me for this.”
+
+With every word he spoke, he felt the gravity of his Rhetoric build until he drew her out of the depths of unwillingness. A series of tension cords snapped inside of her, and her empathetic core rippled with a final decision. “I want to know which of my former companions Matthew sacrificed to make this boy a Godling,” she ground out.
+
+“Sacrificed?” Shiv asked, confused.
+
+“Yes, sacrificed. It has to be a sacrifice. There is no other way to create a god, or rather, there is no easy way. Understand that most gods are either naturally born into the System through a phenomenon I don't fully grasp, or they are created by greater gods bestowing Domains they no longer have need for down to a lesser servant.”
+
+Maia hesitated for a moment, worried that she might be revealing too much, but then her reluctance succumbed entirely, collapsing like a rotten building. “There is also a way to naturally become a god, but that takes centuries and millennia. Do you have any idea how much effort, how much time, how much cultural influence you must wield to create scripture, to form a set of canons, coherent beliefs that frame you with something higher than mortal? Something that stands beyond the reach of time and space? Something possessed of all lesser attuned magics, a greater lore unto yourself?”
+
+“So, Adam naturally becoming a god is absolutely impossible,” Shiv concluded.
+
+“As far as my experience follows, no. For Adam to have become something divine, there needed to be a structured faith embedded inside him. There needed to be a Domain already sleeping, waiting to be lit by a holy fire. But on that point, what is his Domain?”
+
+“Heroism,” Shiv replied.
+
+Once more, Maia’s expression turned incredulous. “Heroism? That makes no sense. None of my former companions had a Domain of Heroism.” Unnerved, she fell silent, contemplating as her mind spun faster and faster, her thoughts coalescing into a dense fog at the center of her skull. “Matthew couldn't have engineered a Domain from scratch. That is simply beyond his ability. But… perhaps the Great One had another? Perhaps Matthew managed to reach back into the source and fundamentally alter someone's Domain through their Phylactery?”
+
+“Yeah, I don't think that's it either,” Rose interjected. “I can't claim to know the Starhawk as well as Roland, but I’m a close second.”
+
+“Third at most,” the Educator retorted. "I’ve known him for far longer than you."
+
+Rose scoffed. “Well, if that were true, then you'd know he'd never do anything like that. The memory of his comrades is sacred to him. The Phylacteries that he has retrieved are in the safest place within the castle.”
+
+“You forget he is demented as well,” Maia replied, scowling.
+
+“No, she didn't,” Shiv countered. “Think clearly, Maia. Very clearly. When you get demented, you become a parody of your own story. The Starhawk hasn't turned into a liar, he's just become even more of a mindless hero than he was before.”
+
+“Then perhaps he performed the deed before he was fully decayed.”
+
+“Or maybe we need to stop assuming and ask Roland,” Shiv said. “Listen, I don't much trust the Starhawk either, but Roland isn't going to hide anything from us—not with Adam's life on the line. If we ask him, he'll tell us.”
+
+A turbulent ripple cascaded through the Educator's empathetic core, but she had no good retort. She knew he was right. His logic was sound. More importantly, Adam meant more to Roland than he would ever mean to the Educator. Her agitation ultimately was misguided.
+
+“They mean a lot to you, don't they?” Shiv asked. His question caused an interesting change inside her heart. There were moments where it went cold, where she felt nothing, nothing but scorn, and then there were other moments where it swelled with warmth, with overwhelming affection, and it alternated, her core ruled by bipolar seasons.
+
+Maia sighed. “It's complicated.”
+
+“I can see that. You don't need to answer this question if you don't feel comfortable, but is your own partial decay why your emotions are so unbalanced?”
+
+Her body tensed, her face tightened in a look of alarm, but the pull of his Rhetoric felt stronger than ever. She was careening toward him psychologically; she needed to tell him something, like a drunkard had to puke. “I escaped the worst of my fate. I did. I had foresight; I did everything right, but even so, it wasn’t enough. It wasn’t.” Her gaze turned toward Adam, and the simmering glow of jealousy took hold inside of her. “Do not mistake my behavior right now. This isn't affection towards him. This is responsibility. We made the mistake. We stole this power—this undeserved glory. This mistake needs to end with us. It will not spread any further. And if the Republic is to end without the Ascendants, then it was damned to end regardless. I've seen what lies beyond. I know what waits for us. Integration will never belong to the weak.”
+
+“Well, you won't hear me disagree much about that. And whatever you actually feel about Adam, I'm real grateful for what you just did.” He gestured at the painted world around his friend. “I think the world you want and the world I want are pretty similar. And Udraal’s been using both of us for his own ends. We're not even people to him, just things for him to use. Now, I might not like you. It might come to a point where I try to kill you, but I'm never going to use you as just a thing. I'm never going to treat you like you're some kind of expendable tool. And you know that.”
+
+“What is the purpose behind your words?” the Educator asked. “What do you want?”
+
+“For us to be on the same side—at least for now. We're starting up a coalition. We're inviting everyone we can from the surface and the Abyss.” Shiv saw Maia’s eyes widen in horror, but he cut her off before she could raise any protests. “We're not doing this for no reason either. If we can get enough people inside this gate, if we can get enough of our enemies mingling among each other, then maybe, maybe we can turn this Gate into a trap for them or something like that. Either way, we'll have people we can use to blunt any incoming attacks. It'll buy us some time. And before you say something about the danger, I want you to remember how favored we are. I want you to count the days since I went Deathless and think of how many people I’ve killed during that time. I want you to remember how much we all suffered. It's not going to get better, not unless we change things up.”
+
+These Words of Truth and Adoration 75 > 77
+
+An inner struggle ensued within the Educator. She didn't want to trust; she refused to trust, and her empathetic core revealed scars that ran so deep she flinched at the very thought of exposing herself. But she was also so close and so desperate; she wanted someone to be in her corner, on her side. Despite everything between her and Shiv, he wasn't wrong: they were bound for the same path, the same eventuality—the coming Incursion.
+
+Shiv sighed, and he felt his Rhetorical pull grow just a bit stronger. “I'm not gonna force you. Frankly, after what we had to do with Longinus, I'm glad there's any person left inside of you at all. Killing him was like… like butchering a monster. Putting down a shadow of a dying man inside.”
+
+Once more, both her mind and heart reeled. “I know. I saw. You gave him mercy. It was what he would have wanted.”
+
+The hate Shiv felt toward Longinus was stone. But that feeling could co-exist with sympathy. The man buried deep down inside the god was a different entity to Shiv altogether, and he'd deserved a better fate. “I'm sorry things turned out this way. It's a real ugly ending for a group of people who only tried to do the right thing.”
+
+“It matters not that we tried. It matters that we failed, and it's not an ending. It's still ongoing. And it will continue to be an ongoing problem until I finally put an end to this.”
+
+“Until we put an end to this,” Shiv said. “The mistake's not just yours to solve anymore. It’s come looking for me. So. The past is the past. Let’s see about dealing with the future—”
+
+Just as he was reeling her in, rhetorically, a massive column of fire exploded outside the window, and a rush of heat flooded the room, even through the walls and the glass. The spike in temperature came first, the explosive thunderclap followed mere moments after.
+
+“What the fuck’s happening now?” Rose cried. “For the sake of all the fucks, I thought we would have more than a few hours before—”
+
+Shiv's Atlas revealed the culprit of the blast in an instant. He jumped into the perspective of a passing Weaveress, and saw that the godsdamned Dragon-Brokers were having Candles heat their tea. “Ah. False alarm, nothing to—uh, the Brokers have Candles on menial labor duty. Actually, Maia, you wanna say hi to the dragon crime-bosses who’ve been bringing in a shit-ton of mithril?”
+
+“Hm.” The Educator looked as if she couldn’t decide between a frown or a shrug.
+
+“Come on, think about it: not every day you get to paint four golden dragons in nice suits having tea.”
+
+Harbinger of Tripartite Ruin 309 > 310
+
+These Words of Truth and Adoration 77 > 78
+
+A slow breath whistled out from her. “Her presence is heavy inside you.”
+
+Shiv scowled. “What? Veronica's?”
+
+“No. She is lesser blood; you remind me of Kathereine, long before her fall.” The Educator forced herself to meet Shiv’s eyes. “And that horrifies me.”

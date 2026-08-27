@@ -1,0 +1,143 @@
+---
+id: 28501e49-8467-5360-96b2-e5f6b5ad4231
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1220 - A Gambit For Recovery"
+slug: 0092-chapter-1220-a-gambit-for-recovery
+partOf: the-primal-hunter
+position: 92
+ownLength: 2678
+unit: words
+ownProgress: 2678
+publishedAt: 2025-12-15
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2850297/chapter-1220-a-gambit-for-recovery"
+royalRoadId: "2850297"
+markedReadAt: "2026-06-29T19:32:10.782Z"
+---
+
+It had been well over a month since the beginning. The Viper’s avatar and Artemis found themselves observing the meditating Jake once more, having both spent a lot of time there recently, especially in the last few days. Throughout this time, Artemis had grown increasingly nervous, and while Vilas maintained his calm demeanor, he admitted to also beginning to feel a tinge of worry.
+
+He’d felt the emergency repairs he’d done to Jake’s soul become unwound, which in itself was alarming enough if it hadn’t come in concert with his soul in general experiencing extreme damage and decay. If the First Sage wasn’t involved in this matter, he would have tried to do something, even if he knew he likely couldn’t.
+
+Trying to wake up Jake right now wasn’t an option. Even if they somehow managed to trigger his survival instinct, neither of the two gods were sure Jake could return with his mind intact if they stepped in. No, the only one who could wake up Jake right now was Jake himself.
+
+“This level of soul damage…” Artemis muttered as yet another day had passed with Jake seemingly only growing weaker.
+
+“Is still recoverable if he succeeds,” the Viper continued her sentence. “The amount of Records that will flood his beings should allow him to recover, and surely the system will be interested in not leaving him with any permanent damage.”
+
+“We both know the system doesn’t care either way,” Artemis said curtly. “Even if he succeeds, it won’t automatically heal his soul and return him to peak condition.”
+
+“Not directly, no,” Vilas shook his head. “But if he can capitalize and make use of his success, he can speed up his recovery to a degree where the damage is almost considered insignificant.”
+
+Artemis remained quiet and didn’t counter despite clearly not being in full agreement. Not that the Viper could blame her. Again, the only reason he had trust was due to the combination of the First Sage and Jake’s Bloodline.
+
+Hours passed with Jake only growing worse at an increasingly rapid rate. At this point, even the Viper was beginning to show signs of genuine worry, but that’s when there was a change… in that the changes stopped.
+
+The deterioration paused in an instant as if Jake’s soul had frozen. Artemis and Vilas both instantly noticed, with the hunter goddess looking to the Primordial for insight.
+
+“I reckon it’s a good thing,” the Viper shrugged, not able to provide her with the knowledge she sought. Usually, when people went through something similar to what Jake was going through right now, they were far more powerful and capable of handling it. They didn’t face the extra challenge of also having their souls slowly break down throughout the process.
+
+“It shouldn’t be bad…” Artemis muttered, her voice full of concern as she returned to observing Jake closely.
+
+The Viper didn’t say anything and simply joined her as they both waited silently. As a side note, Artemis had been slowly growing even bolder as the last month progressed, with nearly all traces of reverence she usually held for someone like the Viper gone. It had all been overshadowed by concern, and Vilas guessed she would be horrified looking back on her behavior once things had calmed down.
+
+Not that he blamed her… in fact, it only made the Viper think of the woman Jake had chosen more highly. She seemed to genuinely care, something that was a rarity in the multiverse, where individualism and ego were seen as prerequisites to attain true power.
+
+A couple of hours passed with Jake in a state of stasis. His soul was neither improving nor deteriorating further, and as more time passed, this could become an issue.
+
+While Jake’s soul was in flux, the damage it had sustained had yet to be cemented. If he stayed in a state where he was heavily injured for too long, he risked the damage actually becoming permanent or at least far harder to heal in the future. That’s why, even if his condition not deteriorating further was a good sign, this still wasn’t a significant improvement.
+
+It was entirely possible that even if the First Sage and Jake were able to pull it off, Jake would simply be too slow to do it in time. Risk and reward had to go hand in hand, so it was natural that even the First Sage was willing to incorporate some level of risk in his lessons to ensure there would be a proper reward towards the end. Also, his Master hadn’t known Jake for that long and perhaps didn’t have time to fully understand Jake and his Bloodline.
+
+The more the Viper thought about it, the more he considered this a possibility. Jake’s Bloodline was chaos incarnate to those who relied on prediction, as his instincts were of a transcendent nature, making them completely unpredictable. That’s how he’d managed to screw up the machinations of some of the most competent gods in the multiverse… but perhaps it had also caused the First Sage to make a minor miscalculation.
+
+This line of thought made the Viper feel some actual concern, but just as they started to truly dominate his mind… There was another change.
+
+In an instant, the stasis was gone, and Jake’s soul began to rapidly decay once more. The Viper saw Artemis’ eyes open in distress, with the Viper also having to hold back a frown as he feared for the worst. However, just before the two could fully conclude something had gone wrong, a pulse of power erupted from Jake’s body.
+
+The Bloodline that had appeared dormant for over a month roared to life as the sound of a heartbeat echoed throughout the room. It gave Jake a second wind of power, and just as the deterioration was about to begin again, a second heartbeat echoed.
+
+Neither of them knew why this was happening, as no one could see what was truly happening to Jake. This could be the moment Jake turned the tide and succeeded, or a final scream for survival from his Bloodline desperately trying to save itself.
+
+Once more, the answer to this question came swiftly and decisively as a new aura erupted.
+
+With a final heartbeat, the potent presence of his Bloodline was joined by another type of power that both gods recognized. This power seeped out from Jake’s body, overflowing his vessel and soul as they both felt something even more familiar from the power Jake had uncovered:
+
+The faint trace of divinity.
+
+However… despite this development, the Viper knew that the danger was from done as Jake had just unlocked something no mortal mind was capable of handling, and as counterintuitive as it seemed, all they could hope was that Jake hadn’t found too much success.
+
+Jake watched silently as the cracks spread out from the golden arrow’s point of impact. As they spread, something exited from behind the gate, releasing a wave that washed over Jake mere seconds later.
+
+Standing firm, Jake resisted the wave as he felt like he was standing in a running river. At the same time, countless visions and ideas flooded his mind, all of them nonsensical as far too much information was forced into his head at once.
+
+However, before Jake’s mind had time to succumb to the stress, the current subsided, and the golden gate was revealed once more. There, in the middle of the gate, the golden arrow still sat half-penetrated with cracks spreading out from it, with the current having come from these cracks continuing to expand.
+
+Luckily, the destruction of the gate had stopped rather quickly, leaving only a small section of it slightly damaged with the arrow sticking out and a few cracks leaking out what Jake had indeed confirmed to be what he’d suspected.
+
+Flying closer to the place on the gate where the cracks were, Jake realized the oppressiveness from the realm he found himself in was entirely gone. The wave of concepts had washed everything away, and the continued leakage created what was effectively a defensive field close to the gate.
+
+Reaching the gate, Jake began to feel countless insights worming their way into his brain once more. Odd images flashed in his mind, wayward thoughts drifted through, and odd sensations he couldn’t at all comprehend dominated his body, but Jake tried to filter all of these out and focus.
+
+Closing his eyes, he moved his head close to one of the cracks in the gate and allowed the leaking concepts to seep into him.
+
+At this point, Jake already knew he had succeeded. All he had to do was consolidate everything and mentally acknowledge his own success by stepping out of the realm he had found himself in. However, that wasn’t his plan.
+
+Jake had wanted to upgrade his Meditate skill, yes, but he’d wanted to do so in part to help completely heal his soul before he could evolve to B-grade. Now, his soul was even more damaged, but he knew it wasn’t the same kind of fundamental damage as when he’d broken Palate. No, it was the kind of damage his new meditation skill would allow him to heal, which still left Palate a broken mess.
+
+He realized that even with a better meditation skill, he couldn’t simply fix Palate. He had corrupted some of the Records within the skill, and it wasn’t simply a matter of “healing” anymore. It needed to be purposefully repaired, the broken Records replaced, and even the corrupted part either reabsorbed or expunged entirely.
+
+Villy had helped Jake stabilize Palate initially by using his Transcendent skill to effectively apply a plaster that allowed certain parts of the skill to work while purposefully sealing away other aspects to reduce damage.
+
+Now, Jake had torn off the plaster and was just waiting for the damage to spread. The long period of stabilization had allowed the skill to calm down somewhat, but shortly, Jake knew it would begin to tear away at him. Perhaps Villy could help Jake again, or perhaps Jake could fix the skill through enough study, but Jake had another plan.
+
+He would make use of this brief moment where the corrupted Palate was fully unsealed but hadn’t had time to tear itself apart yet.
+
+Touching the gate directly, Jake’s eyes opened wide as he suppressed a scream from the insane influx of concepts invading his body. Knowledge and concepts that no C-grade was capable of approaching flooded his mind, threatening to destroy it, but just before it had the chance, Jake used the final bit of his willpower to respond to a system prompt he had already summoned before touching the wall:
+
+Do you wish to experience the forming of a High-Record Fragment related to the path of the Malefic Viper? Uses remaining: 2
+
+Warning: experiencing a High-Record Fragment will consume 2 charges.
+
+There was no time for hesitation as Jake promptly accepted and was swept away by the system in that very moment, a mind flush with concepts and thus Records to further feed what was to come.
+
+--
+
+“Seems like he found some success,” the Viper smiled as the faint aura of divinity spread throughout the chamber from Jake. It was stable, subdued, and not at all overwhelming, making Vilas believe that Jake had managed to take only a peek.
+
+“He actually did,” Artemis said with astonishment. “However, he’s not entirely out of the woods yet, and I wouldn’t celebrate before he opens his eyes.”
+
+“That’s fair,” Vilas shrugged, his worry significantly reduced if not eliminated entirely. He was already looking forward to what kind of skill Jake would get, but going by the aura in the air, he kind of already knew.
+
+Artemis was right, though. It was best to wait and see until he opened his eyes, as who knew what Vilas’ dear little Chosen had going through his mind. Hopefully, he would just take the win and disengage his mind from the space he found himself in sooner rather than later.
+
+Though, of course, that wasn’t the kind of person Jake was.
+
+As the two gods watched, Jake’s aura changed slightly. It took on aspects of the Viper’s presence, and before Artemis could ask Vilas if he knew what was going on, Jake disappeared from the room, whisked away by the system.
+
+“What ha-“
+
+“Just wait,” the Viper said, his eyes wide open as he had a big grin on his face, having finally realized what Jake was trying to do. The result of combining two skills and opportunities like that wasn’t something Vilas had even considered, but he would definitely be interested in hearing the outcome from Jake later on.
+
+Still assuming he returned with his mind intact, of course.
+
+Jake’s mind was sent adrift, but with the help of the system meant to allow him to experience the Legacy of the Malefic Viper, his head cleared up with the countless concepts flooding his being tuned out. They were still there, but suppressed.
+
+This had been a massive gamble, but Jake reckoned that, seeing as he was experiencing the world as the Malefic Viper when using Path of the Heretic-Chosen, the system would selectively choose what he could actually detect and feel during the visions in order not to overwhelm his mind.
+
+If not, there was no way Jake could have walked away from experiencing being an S-grade dragon fighting Valdemar without being completely and utterly wrecked mentally. Luckily, his gamble had indeed paid off, and with the help of the system, he managed to remain lucid despite having so much unprocessed knowledge trying to flood his mind.
+
+In the vision itself, Jake had naturally entered it focusing on Palate of the Malefic Viper. He had been unsure if it was even an option, but in his defense, he had briefly checked before going to touch the wall leaking concepts.
+
+Once more, Jake found himself inhabiting the body of the Malefic Viper. He wasn’t immediately sure what grade or anything the Viper was during this vision, as Jake found himself a passenger in a Viper simply walking through a busy city street. Villy was in a humanoid form that Jake didn’t recognize, which honestly wasn’t a surprise, seeing as the Viper liked to change how he looked quite often back then.
+
+As the Viper walked, he occasionally touched the side of a wall on the street or perhaps a pillar. There was even a time when he subtly kneeled down and placed his palm on the ground. Every time he did so, his hand let off a faint glow of magic before the snake god continued, leaving behind a near-undetectable trace of mana.
+
+Through the eyes of the Malefic Viper, Jake got a good look at the city they were walking in. The entire place was surprisingly modern, reminding Jake a little of Earth from about a hundred years before the integration, though of course with the expected magic touch that came with the system.
+
+Large stores lined the busy city streets, each of them looking very expensive. Jake also got the feeling this wasn’t some low-level city at all. Most of the people in the street were around C-grade, with plenty of B-grades mixed in, all of them acting as if they were weak F-grades. Not a single person was flying, but everyone just walked at a steady pace.
+
+Jake was curious about what this vision was all about; however, he soon got his answer. The Malefic Viper went to a small cafe and ordered a drink before sitting casually outside, and as he did so, he looked toward a tall building in the distance. It was adorned with gold and definitely looked like the most opulent building around, and right there on the front were two words spelled out with massive, expensive-looking gemstones:
+
+Auction House.
+
+Upon seeing this, Jake was certain of two things. First of all, the Viper wanted something from that auction house, and second… no way in hell he was going to pay for it.

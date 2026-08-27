@@ -1,0 +1,141 @@
+---
+id: 9227eade-a50c-5fd3-aef1-f85b430b05ea
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1304 - An Incredibly Messy Situation"
+slug: 0178-chapter-1304-an-incredibly-messy-situation
+partOf: the-primal-hunter
+position: 178
+ownLength: 2751
+unit: words
+publishedAt: 2026-04-29
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3333394/chapter-1304-an-incredibly-messy-situation"
+royalRoadId: "3333394"
+---
+
+Jake and the other four Venusians didn’t need another reminder as they all got up and moved at once. They hadn’t all recovered yet after the prior fight, with especially two of the Warriors being slower than the rest of them to pick up in speed.
+
+The Shaman pushed his magic further as a bubble appeared around all of them, giving way as they sped up significantly. Jake easily kept up, as behind them, the aura that had woken Jake up earlier grew closer. From this distance, he couldn’t tell exactly how powerful it was, but he had already determined it was still within the realm of B-grades.
+
+“What’s pursuing us?” Jake asked, staying relatively calm, at least compared to the Shaman and other Venusians.
+
+“Something I hoped we wouldn’t attract the attention of, but I fear our slaying of Arachnecs has been too efficient and drawn the ire of the Hive,” the Shaman said in a severe tone. “The Oracle gave me a tool to warn me if any of these creatures got within range, at which point I was meant to retreat out of Arachnec territory. However, she could not have expected we would delve this deep.”
+
+“You still haven’t told me what’s coming,” Jake said, feeling the presence continue to draw nearer, surpassing their current flight speed several times over. While the Shaman and Jake could definitely both fly faster, Jake more than the Venusian, their other companions were already pushing themselves as things were.
+
+“A Weaver... no... an Archweaver,” the Shaman said, making the four other Venusians shiver. “True elites of the Arachnec race. Superior variants with high intelligence that we Venusians would also have to send our elite combatants to face. As a shaman, my position may be high, but I’m not specialized in combat compared to my kin who are.”
+
+Jake nodded, definitely seeing the severity of the situation. Their pursuer was still closing in, and at this point, they would be caught within less than ten minutes. Something the Shaman also realized as he kept urging the other Venusians to try to fly faster.
+
+“What’s the plan?” Jake asked, already having a good idea what the answer would be.
+
+“I... I tried to reach out to the Oracle, but I’m unsure my message is getting through from this deep into Arachnec territory, likely due to interference from the Nest,” the Shaman muttered. “If fate wills it, she will hear and respond promptly.”
+
+So, yeah, no plan but hope the A-grade back in the Venusian village would hear them and somehow get to them within less than ten minutes. He didn’t underestimate B-grades, but they had traveled pretty fucking far into Arachnec land. Also, would the Oracle even dare enter this deep into the territory of her enemy when her primary responsibility was to defend and nurture the Lifepool?
+
+There were a lot of unknowns that, in the end, pushed Jake to the inevitable conclusion that they were shit out of luck and would have to deal with whatever was coming their way alone.
+
+He considered everything and saw the panicked look on the Shaman’s face again before letting out a sigh.
+
+“Here, take this,” Jake said as he took out a small bag filled with different potions from his spatial storage. “Keep flying and make it back.”
+
+“You...” the Shaman said after catching the bag of potions. “If necessary, we can try to-“
+
+“Look, I’m gonna be honest, I’m faster than all of you, and I have escape skills that I doubt you have anything comparable to. Unless an A-grade comes, I’m gonna survive, alright?” Jake said with a light smile. “So go. I’ll handle this and if possible make it back to the village. If I don’t, just inform the Oracle that others will come eventually. The outside world is aware of the entrance to this place, and they will explore it.”
+
+The Shaman looked hesitant, but Jake didn’t even give him a chance to reply before stopping his flight and turning towards the incoming creature. The Venusians slowed down a little, and Jake could see the conflicted look on the Shaman’s face before eventually speeding back up as he sent back a message that echoed in Jake’s mind.
+
+“May the Ancestor Spirit be with you.”
+
+Jake looked back and gave an acknowledging nod, honestly more impressed by the range of the telepathic message than anything else. Turning back towards the Horizon, Jake floated down and landed on the ground, where he sat down with his legs crossed. Even if it was only for a few minutes, Jake wanted to be in his best condition possible when he had to face this Archweaver the Shaman talked about.
+
+He considered his approach to this encounter carefully while sitting there. For a moment, Jake had the idea of trying to mimic Villy’s presence to scare off the B-grade, but ultimately wrote off that idea. These Arachnecs weren’t big on self-preservation, so he seriously doubted scare tactics would have any effect. In fact, there was a greater chance it would lead the Archweaver to summon A-grades to deal with Jake instead.
+
+Entering stealth and ambushing the Archweaver was certainly also an option, but probably not a good one based on the aura he felt approaching. This was a powerful variant, unlike any of the other Arachnecs Jake had faced thus far, and it was clearly a lot higher level too. Going for a fight was ill-advised if he could avoid it. He kind of wanted to still try to fight, but decided to play this one smart, especially seeing as he had to buy time for the Shaman and other Venusians to get away.
+
+Him having to buy time was also why he couldn’t just bank on escaping right away. With Wings, he could easily get away on his own, but that would leave the Shaman and company to be hunted down and slaughtered.
+
+That’s why he ultimately settled on trying what had worked pretty well in this Minor World thus far: talking. Did Jake think this would work after slaughtering Arachnecs for the better part of a month? Maybe. The Shaman said the Archweaver was “highly intelligent,” making Jake at least guess it could talk, which hopefully also meant it was curious upon witnessing an entirely new race the Arachnecs didn’t know about.
+
+There were also some things giving credence to this possibly working. One of those was the mere fact that Jake could feel the full aura of the Archweaver from this far away. It was willingly emitting its full power as if trying to scare them away or at least make them aware of its presence and pursuit. Sure, it was possible the Archweaver just enjoyed inflicting dread in its victims, but Jake hoped that wasn’t the case.
+
+Minutes passed as Jake sat there patiently. The Shaman was getting further and further away, and when the Archweaver got sufficiently close, Jake also unleashed his own aura. He held a bit back on his Bloodline, but not fully, wanting to make it clear that he was far from weak. Enough to at least make the Archweaver stop and think before just sweeping down, trying to quickly finish him off without even talking.
+
+It didn’t take long before the pursuer was upon him, and fortunately, it had definitely noticed his presence based on how it slightly slowed down upon getting closer. Shortly after, it arrived, and once more, Jake was lucky it didn’t attack immediately.
+
+The creature stopped abruptly about a kilometer above Jake as it stared down at him from above. Jake looked back and saw an Arachnec unlike any of the others so far. Its body was fully white, as if made of bone, and its form was incredibly humanoid, with two legs, arms, a torso, and something that somewhat resembled a head. Though that was where it wasn’t entirely humanoid. The head was simply a blank white rectangular slate with eight glowing red eyes, four in parallel on each side. It couldn’t even qualify as a face in Jake’s opinion, though the eyes most certainly worked as Jake felt all eight lock on him.
+
+Besides this, there were other features that made it distinctly spider-like. From its back sprouted eight leg-like appendages that all hummed with magic as if ready to unleash spells at any moment. Faint web-like strings connected the legs that grew from its back, making it look like the Archweaver had a spiderweb floating behind it.
+
+Finally, as the two stared at each other, Jake used Identify as he also felt the Arachnec use the same skill on him.
+
+[Arachnec Archweaver – lvl 475]
+
+Seeing this level and enduring the aura of the B-grade... yeah, Jake wasn’t going to pick this fight. It wasn’t one where victory was even in the realm of possibility. This was a truly high-tier variant, as the Shaman had said, and its level was also far beyond anything Jake could handle, still barely being B-grade himself.
+
+Jake had already stood up in preparation and summoned his wings, as his senses were fully primed. His danger sense was quiet for now, meaning the Archweaver wasn’t immediately going to attack as it evaluated him.
+
+Then, suddenly, it disappeared, only to instantly reappear on the ground less than ten meters in front of Jake. He tensed up immediately as the Archweaver slightly tilted its head.
+
+“Unknown race. Low level. Power not corresponding to level. High-level variant? Yet it provides a simple Identify result. Peculiar,” a voice echoed out from the Archweaver, the voice neither male nor female, though probably leaning more towards male. Not that he thought these undead spiders needed any such classification.
+
+“Calling me peculiar? I don’t disagree, and will take it as a compliment,” Jake answered, his wings ready should he need to try to escape at a moment’s notice.
+
+“And it speaks the tongue of the Arachnecs? Yet there is no knowledge of us ever having interacted with such a race before?” the Archweaver continued, and from the sounds of it, Jake had definitely sparked its curiosity.
+
+Every moment of talking was a win as it gave the Shaman and others more time to escape, so Jake was glad to keep the conversation going all day. He had no problem being the most interesting guy the B-grade had ever met if that was what it took.
+
+The Archweaver continued to observe Jake as its aura continued flaring out. Jake naturally wasn’t affected as he stood strong, using his own aura to slightly push back on the Arachnec’s.
+
+After a few seconds, the B-grade looked beyond Jake and behind him as it spoke. “The Venusians continue to flee, it seems. Have they abandoned you? No... no, you chose to stay, aiming to stall me and allow their escape. A sacrifice.”
+
+Once more, the Archweaver moved and appeared behind Jake towards the fleeing Venusians, displaying a level of speed Jake knew he wouldn’t be able to keep up with. “Eliminating them should be my first priority.”
+
+“But you’re not going to, because you know that if you chase after them, I’m gonna be gone by the time you’re back,” Jake said.
+
+“I said it should be my first priority,” the Arachnec said, turning back towards Jake and looking at him with its glowing eyes. “It no longer is. The directive has changed.”
+
+The Arachnec slowly started floating towards Jake as it continued speaking. “You’re no Venusian, and as an unknown race, your kin is no recorded associate of the Venusians. So tell me, why are you assisting them in so daringly venturing into our domain and slaying our kin?”
+
+“You got it backwards,” Jake shook his head. “They were helping me to slay your kin.”
+
+“Curious,” the Arachnec said, its voice still empty of any emotion. “To achieve what goal?”
+
+“Levels,” Jake said, thinking that in situations like this, honesty was probably fine, even if he should definitely be pissing the spider monster off with his words. Something he didn’t seem to be, for some weird reason.
+
+“Honing yourself by slaying my kin?” the Archweaver asked rhetorically. “I see. And the Venusians chose to assist you in this endeavour, with even one of their Shamans accompanying you? Ah... I understand.”
+
+The Archweaver disappeared yet again and appeared right in front of Jake, towering over him with its more than four meters of height. Jake was ready to move at any moment, as the creature was just a couple of meters away, leaning down, its eight eyes staring directly at Jake.
+
+“You’re from beyond the Boundary.”
+
+It was no speculation, no question. Just a statement of fact.
+
+Jake wasn’t sure what to say as the Archweaver floated back a bit and did something surprising. It lifted one of its hands and put it to its chest before bowing towards Jake. “I welcome you to our world, envoy from beyond the Boundary. Your arrival was predestined, yet we had not seen it be under such circumstances.”
+
+At this point, Jake didn’t think he would get far trying to argue he was a native of this place, as he let out a sigh.
+
+“Was it that obvious?”
+
+“You’re an unknown race, the Venusians value you disproportionately, and you can communicate with both my kin and the Venusians. What’s more, you do not carry the same touch that permeates this world,” the Arachnec kindly explained how it had so easily sussed him out.
+
+“I see,” Jake nodded. “But doesn’t this leave you at an impasse? I’ve killed quite a few of your kin and am clearly friendly with the Venusians, the sworn enemies of your race.”
+
+“Inconsequential,” the Archweaver shut that down immediately. “You have slain soldiers, not nobles. They are easily replaceable and nothing more than fodder to feed our expansion. Their deaths are expected. Your relationship with the Venusians is more complicated, but nothing that cannot be overcome. Have you sworn allegiance to them? No, no, I do not sense their pungent touch upon your soul. Allies, they might be in your heart, but so be it. We shall simply not ask you to do anything to bring them harm, which would never be your role in the first place.”
+
+The entire vibe of this confrontation had undergone a rapid shift as the Arachnec not only spoke far more words, with a less intimidating presence, but even seemed to have decided they were now going to work together.
+
+Jake was really unsure if he liked this progression, and it didn’t get better when the Arachnec spoke again.
+
+“I shall allow the Venusians to escape as a courtesy, and in return, I ask that you accompany me back to the Nest,” the Archweaver said, sounding polite, but Jake really didn’t get the vibe that this was something he could refuse.
+
+“What if I had other plans?” Jake asked, wanting to at least see how far these Arachnecs would go. With the combination of Wings and Moment, he remained confident in escaping from this situation despite the overwhelming disparity in power.
+
+“I ask that you delay them,” the Archweaver said in a firm tone. “Do not make this difficult for both of us. Our intent is to treat you like a guest, not a prisoner, but not following me back would be an unacceptable outcome.”
+
+Jake frowned as it definitely sounded like they were trying to take him prisoner right now, making him unconsciously flare his aura, eliciting a small response from the Arachnec.
+
+“You believe that you can escape me. I’m unable to gauge your true capabilities, so I won’t rule it out as a possibility. But there is no need to try. We do not intend to treat you like an enemy. If we wish to go beyond the Boundary with your help, the inevitable conclusion will be you leaving this world. You may be temporarily inconvenienced, but we shall strive to make up for any slights and compensate you duly.”
+
+The Archweaver seemed sincere in its words, and Jake considered the situation before eventually just nodding, apparently now about to be a “guest” of the undead spiders he’d spent the last month killing.
+
+He had no idea what the situation would lead to, and worst case, he could drag out time and teleport to the Seat of the Exalted Prima in about two months. Either way, one thing was for sure... this entire diplomatic mission in Venus had turned into an incredibly messy situation real quick.

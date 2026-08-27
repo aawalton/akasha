@@ -1,0 +1,459 @@
+---
+id: 64f94739-6fdf-52ae-8c1a-0f321b74d510
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED THIRTY-FOUR: Ripples V"
+slug: 0135-one-hundred-thirty-four-ripples-v
+partOf: super-supportive
+position: 135
+ownLength: 6122
+unit: words
+publishedAt: 2024-04-15
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1596017/one-hundred-thirty-four-ripples-v"
+royalRoadId: "1596017"
+---
+
+134
+
+*****
+
+Moments after the Artonan rose from his bow, he pushed the entire tray full of mugs into Alden’s hands. This is not what I was expecting, thought Alden, staring down at the selection of many teas.
+
+The tray was heavy. Most of the ceramic vessels were giving off fragrant steam, but some of them were iced. He remembered Stuart saying he’d had to drink eight cups of wevvi before first meal one morning to be polite to the LeafSong faculty, and he wondered if he was about to have to do the same kind of thing.
+
+Wasn’t I just standing on a possibly-broken bridge?
+
+“The Span,” said Alden, while the Artonan studied him. He had metal iris rings, like Stuart’s, though they were a shade of pale brown that almost blended in with his eye color. “I was on the bridge, and the water was trying to pull it down. The people there—.”
+
+“Do not worry,” the Artonan said in very clear English. “Earth’s Contract is performing to the best of its capabilities, and its capabilities are substantial. I wasn’t expecting you to arrive with a companion.”
+
+There was nothing at all reproachful in the tone, but Alden wondered if he’d done the wrong thing.
+
+How could it have been? I was just trying to get somebody away from trouble and help out the others. I didn’t know I’d be coming somewhere more exclusive than a shelter.
+
+Maybe he should have suspected something like this, given the swiftness of his exit compared to everyone else’s, but he’d had a lot on his mind.
+
+Mr. Dandelion was wringing out his Club Dandelion tank top onto the floor.
+
+“This man was on the bridge with me,” Alden said slowly. “It was dangerous there. I thought bringing him with me would be helpful.”
+
+“Of course,” said the Artonan, bowing his head once. “You were accomplishing all you could with your skill. I understand.”
+
+“I’m Marks!” Dandelion said. “The letter s on the end is for luck according to my mother. So we’re going in some kind of escape plane? Sounds great to me! If there’s room for more, I’ve got some friends, my girlfriend…you’ve got ways of calling people from here I bet. You can make the System send messages like normal?”
+
+He stepped over and reached for the nearest mug of tea.
+
+“My name is Zeridee-und’h,” said the Artonan. “I’m sorry to meet you both under such unpleasant circumstances. That is a butterfly pea flower tea, Marks. You may have the cup. It’s a short walk to the train. A team has been summoned to keep the line running in the event of flooding, but we are endeavoring to clear this area swiftly so that the Avowed assigned here can head to more populous neighborhoods soon. Please enjoy your drink while you follow local evacuation orders.”
+
+Oh shit, thought Alden. No company allowed.
+
+Zeridee-und’h sounded polite and professional, but there was not a hint of wiggle room to be found in that voice.
+
+Alden couldn’t imagine this going over well. And it was his fault even if he’d only been trying to make himself useful. He held his teas and tried to think of some way to smooth it all over.
+
+“So there are evac teams helping out nearby!” he said. “And the neighborhood’s almost empty already? That’s great. The Span was chaotic, and I didn’t see rescuers other than Plopst—”
+
+“Now wait a minute,” said Marks, narrowing his eyes at Zeridee-und’h. “Why am I supposed to go to a train if you two are taking a plane?”
+
+“I’m sorry, but there is no plane. Only a single flyer. Its course is preset, so even if there were room for your friends aboard it, there would be no way for us to retrieve them.”
+
+Zeridee-und’h walked over to one of the shuttered floor-to-ceiling windows, and hooked a finger through a latch Alden hadn’t noticed. When he pulled it open and pushed aside one of the heavy shutters, the window revealed itself to be a door that opened onto a verandah. Beyond it, a terraced garden led down to a picturesque brick lane that overlooked the tiled roofs of cottages that lined a seaside boardwalk. In daylight, Alden was sure the hill this neighborhood sat on would provide an excellent view of the ocean. Now, it provided an excellent view of a pair of parked police cars that bathed the area in flashing red and blue. A small group of people carrying backpacks and bags were climbing a stairway that led from the boardwalk up to the lane. They were escorted by a lighting drone and a man in a raincoat with reflective striping on the sleeves.
+
+Zeridee-und’h paused at the sight of them then muttered in his own language, “Still more children. The humans need to practice ———. Not enough faith in the Contract. No ————.”
+
+This feels uncomfortably familiar without the translation.
+
+But at least there were people around.
+
+“Come with me, Marks!” Zeridee-und’h motioned for him and stepped out into the rain. “Don’t be afraid for your safety. The evacuation teams are taking everyone to secure locations. There are no shortages, and there will be very minimal danger to those who arrive promptly.”
+
+Marks looked over at Alden. “Don’t you have anything to say about this?”
+
+Alden’s brain shuffled through options. He wanted to point out that if he was going to beg a person he’d just met to give strangers access to what sounded like a limited escape resource, he wouldn’t do it for Mr. Dandelion when there were more endearing people in plain sight.
+
+This guy had already been rescued three times tonight from his own stupidity by Alden’s count. Once by the guys stopping to free him from the traffic pile-up he’d only been in because he’d refused to leave his car, once by Dee talking him out of just standing around waiting for someone to carry him to F, and once by Alden giving him a free ride from a bridge under oceanic assault to this place, where there were professionals directing people to safety.
+
+My classmates are still stuck on the Span. You’re here on land. There’s a kid with a ewtwee plushie climbing the stairs with their family. Move your own ass this time.
+
+He took a breath.
+
+Marks is scared. Everyone’s scared. Don’t make it worse. Do the right thing.
+
+He actually wasn’t a hundred percent sure what the right thing was. What he wanted was to shove this man off the verandah, run straight to whatever an escape flyer was, and buckle himself in. Having two Peace of Minds was great. But the wordchains didn’t make him eager to suffer through a disaster.
+
+Again.
+
+Why is something like this happening again? Less than an hour ago, I was hanging out in the mall with everyone else, and now…
+
+The alerts he still hadn’t dismissed were shining in his eyes.
+
+“I’m really sorry my teleport didn’t take you to F, Marks,” he said, trying to sound as calm as the ambassador’s assistant. “I can go with you and everyone else to the train station to make sure you get there safely. If that would make you feel more comfortable. Or I could help with—”
+
+“Fuck,” said Marks, glowering at him. “I should’ve known some Rabbit globie wouldn’t follow the rules. I’m a D. You’re an A. You think about that! Think about that on your private jet while you’re li—”
+
+“There’s not a jet,” Alden protested. “He just told you. And I don’t know what you think I can do for you that I haven’t already done! Do you want me to carry you to a shelter in my arms? I don’t see how it would make any sense. I probably don’t have many more physical foundation points than you. I might even have less. And I’m a B, and I don’t have any powers that make me immune to floods.”
+
+“What about this house?” Marks demanded as he rounded on Zeridee-und’h. “You’re not letting people in? Just keeping it all to yourself.”
+
+“The house isn’t a safe location, except for the natural safety provided by its position on the hill. This entire neighborhood is being evacuated. There is no magical shielding on this structure, and there are no wizards currently in residence to offer protection to Avowed. Ambassador Bash-nor must refuse you this household’s hospitality tonight for your own wellbeing.”
+
+The way the assistant delivered the news sounded rote, and Alden wondered if it had been delivered to others already tonight.
+
+Marks suddenly threw the mug of tea at the floor hard.
+
+The ceramic bounced instead of shattering, but Alden still jumped enough to make the other mugs rattle on their tray. He felt himself stiffen up. He wondered what his body thought they were going to do if Marks got violent.
+
+Do I hit him with my many teas? Do I swap targets and try to turn this tray into a shield? Or…
+
+His auriad shifted against the skin of his wrist.
+
+But instead of making even more of a scene, Marks turned and stalked out the door. By the time he hit the lane, he was waving toward the officer and the family and calling, “Wait up!” in a voice that was almost cheerful.
+
+Alden stared after him. I guess he tries nice to get what he wants then switches to angry and forceful when it doesn’t work.
+
+He now understood why Writher had been looking so unfriendly when he’d found Lexi yelling at this guy.
+
+“I’m sorry,” he said. “I couldn’t just leave him on the bridge.”
+
+“Don’t worry,” said Zeridee-und’h, looking slightly distracted. He was squinting toward the family climbing the hill. “That’s Mrs. Chandola. She is a reasonable person. Why…? I must speak with her. I’ll be right back!”
+
+He took two steps out the door into the rain, then turned around.
+
+“By the way, Alden Ryeh-b’t, I’m female. Hip width and nape hair aren’t good indicators in my case. I have noticed humans are less embarrassed by such misapprehensions if I clarify as soon as possible after our first meeting. Please enjoy your beverages!”
+
+“Oh! I—”
+
+He…she…was already running after Marks, lifting her extremely long braid as she hurried down the verandah steps with the practiced air of someone who was used to keeping it from dragging.
+
+Alden’s first thought was, Crap. I did so good at LeafSong. I was bound to get it wrong at some point.
+
+His second was, How many of them have noticed me checking their hips?
+
+He was sure they didn’t really care, but he’d also prided himself on doing it quickly and unobtrusively. Zeridee-und’h was even wearing relatively form-fitting clothes—light brown trousers and a darker brown sweater with a cowl neck. Wizards were sometimes dressed in layers upon layers of fabric. The assistant’s simpler outfit had given him false confidence in his first guess.
+
+She’d told him to enjoy his beverages, but there was no table in this room for him to set the tray on. And he was nervous about Marks’s behavior still. He stood at the door, watching the Artonan talk to the group who’d just reached the lane. She used very human hand gestures, but she used them a bit too much and a bit too emphatically.
+
+She must be trying hard to communicate human-style. Her English is amazing.
+
+It would make sense if the ambassador himself spoke an Earth language or two… although it did seem to be a position with a lot of turnover. In an Anesidoran history lecture Alden had attended for exit credits during intake, he’d heard at least three different ambassador so-and-so’s mentioned. But even if the ambassadors had to learn local languages, he wouldn’t have expected all of the staff to be so fluent.
+
+There were a couple of other surprises, too. For one thing, the ambassadorial residence wasn’t in F, with the larger building that was the official embassy. The Artonans must have wanted to be fair to Apex. Either that, or they just preferred this very cute seaside residential area on the western point of the crescent to the urban tangle around their office.
+
+And Alden also would’ve assumed that anywhere an important Artonan official lived would be magically protected.
+
+It’s one thing for the art’h family living in their knight-governed state-sized rapport, but you’d think here on Anesidora…
+
+Maybe she was lying just to get rid of Marks. But if the house was completely safe other Artonans would be weathering the catastrophe here, wouldn’t they?
+
+The residence was large enough to be home to quite a few people, but it was silent at his back. If there were others here, they were being awfully stealthy.
+
+A man was coming up the lane now with what looked like half the contents of a home piled on his back in a teetering tower that had to be held in place by magic in addition to his strength. A woman was following along behind him with her own arms loaded with bags. It was a ridiculous sight, but…
+
+They’re all worried about their houses flooding.
+
+Such a different tone in the middle of the same crisis. On the bridge, people were ditching shoes so they could run faster. Here, they were trying to save their whole closets.
+
+Alden didn’t blame them for it. They’d been woken up by blaring sirens and flashing lights a very short while ago. They were confused. The neighborhood was evacuating fast, all things considered. He kept catching glimpses of a speedster running from door to door down near the water, checking houses for stragglers.
+
+This was just danger happening at a different pace.
+
+Zeridee-und’h smiled widely at the woman she was talking to. Bowed. And a moment later, the little girl holding the ewtwee doll disappeared.
+
+The ambassador’s assistant hurried back to Alden.
+
+“We’re having some unexpected trouble with people refusing the teleportation of their children,” she said, taking the tray from him and striding toward the door with the "welcome" logogram. “Your Contract is being a little too abbreviated with its orders and explanations, I think. But it’s all right! Mrs. Chandola understood. Come with me. I have dry clothes for you.”
+
+“Is there time for something like that?”
+
+“Yes! It’s fine. There are people shifting the contamination away from shore here. An alert will come before they lose strength, and you are shivering.”
+
+He realized she was right. He was drenched in frigid seawater, and the wind on the bridge hadn’t helped matters.
+
+He had a lot of questions to ask if she was a person who had answers, but first—“Zeridee-und’h, is there a way to find out if my classmates are okay without distracting the System from its work?”
+
+“Please call me Zeridee if the familiarity doesn’t make you uncomfortable. I prefer it. I will help you. And there is some business for us to complete together. Do you like sugar in your tea?”
+
+******
+
+The Artonan woman led him through the mansion so quickly that he wouldn’t have had time to appreciate the floors, tapestries, and alcoves full of carvings even if he’d been in a touristy mood as opposed to a stressed and slightly dazed one. She took him to a windowless parlor that was probably for the residents to socialize and smoke in, if he was right about those little bowls on the side tables being some kind of ashtrays.
+
+Beside an open suitcase, a few supplies had been laid out on a long sofa covered in silky gray fabric, as if someone was meant to inspect them before they were packed away.
+
+Me I guess.
+
+This was surreal.
+
+“Did you prepare all of this for me? Just now?”
+
+Over the last half hour. While sirens went off and everyone else evacuated. Why?
+
+“Not exactly.” Zeridee was looking at him with one eye while the other scanned the items on the sofa. “I did run to one of our neighbor’s houses to purchase clothing for you. I didn’t know what state you would be in when you arrived, and I hoped you might take comfort in having some casual human garb with you. Everything else has been prepared and kept ready since your return to Earth. I thought you would be presented with it very soon after your arrival. I assumed the ambassador would meet with you at once to ascertain your well-being and discuss your status with you.”
+
+There was a brief pause.
+
+“I failed to anticipate his pace. I’m sure he wished for you to be settled first, and there was no reason to rush.”
+
+She sounded very, very polite. Alden didn’t know if she was dissing the ambassador or herself or merely stating facts.
+
+“This is all because of Alis—Knight Alis-art’h’s commendation,” he said.
+
+He chose to use the Artonan word for knight. The one with all the subtle layers of meaning he still hadn’t fully unpacked.
+
+Hn’tyon was probably how he would spell it if someone asked him to, but it had an unusual first syllable, even by the standards of a language that had been forcibly unified during its history by people who didn’t want to leave out any of the cool sounds their species could make. A kind of inhaled hum, as if the word demanded a tiny gasp from the speaker before it could proceed.
+
+“Yes,” she said. “Do you want help dressing yourself?”
+
+It took Alden a second to realize she was literally asking rather than telling him to hurry it along.
+
+The clothes she’d bought from the neighbor were a long pair of khaki walking shorts, hiking sandals, and a sweatshirt that said CANADA in red letters.
+
+“Um…no, thank you. I can handle this on my own.”
+
+He stripped off the poncho. There was no good place to drop it and he’d already trailed water through the entire house without her complaining about it, so he just let it fall onto the floor. As he shrugged out of his soggy green plaid over shirt, she turned her back.
+
+“I will explain the situation to you while you dry off and re-clothe yourself.
+
+She’s not even leaving the room?
+
+The auriad was tucked under his bracelet and he had no reason to hide his contract tattoo from her, so he guessed it was fine if a turned back was as much privacy as he got. And now that dry clothes were right in front of him, and his adrenaline was giving out, he was acutely aware of how uncomfortable being drenched in cold salt water was.
+
+“I wouldn’t mind having a towel.”
+
+“I have given you something to dry with,” she said. “On the back of the seat.”
+
+Alden looked around the room. The sofa was the only piece of furniture with anything on the back of it, and that couldn’t be right.
+
+“The quilt with all the different shades of silver and gray?” he asked hesitantly.
+
+“Yes,” said Zeridee.
+
+It looked like something you kept as a family heirloom because your great-grandmother had stabbed herself ten thousand times stitching it together. Not something you dried your butt with.
+
+I’m not crazy, Alden thought as his t-shirt slapped against the floor and he started to peel off his jeans. Artonans have towels. Those microfiberish things. I have seen them. I have used them.
+
+“I can’t justify using the Contract to monitor the classmates you’re worried about,” said Zeridee. “But there is alternative footage of the situation on The Span. The steam is obscuring much of it. What area would they be in?”
+
+“We were just a kilometer from the end. They might be off by now. They should be. If the water went over the bridge again, Maricel had a granite countertop. She’s a Shaper. They were riding on it. Mehdi has an infogear watch if that helps.”
+
+“I will search for them while I talk to you. First, do not be overly alarmed by the fact that you have been summoned for special evacuation. Most of the people with insight at this early stage do not believe that Earth has a serious problem.”
+
+“This isn’t a serious problem?”
+
+“It’s a problem for Anesidora. I speak on a global scale.”
+
+That’s better than nothing.
+
+Zeridee went on, “However, in the unlikely event that this incident or a future one leads to a catastrophic erosion of the Contract on Earth you will………priority………assure you…….many different methods of exit……….the tablet in front of you can be—”
+
+“Stop,” said Alden. He was staring down at the tops of his bare feet. The extremely beautiful blanket that was clearly not intended to be used as a towel no matter what planet you came from was wrapped around him. “I don’t think I’ve…I haven’t really heard anything since you said the System might collapse.”
+
+Zeridee turned to frown at him. “It’s important that you remember all—”
+
+“I’m sorry,” Alden said in Artonan. He felt like he needed to apologize in her language. He had the impression that she might have been speaking for quite a while before he stopped her. “The thought of the Contract failing causes me pain. I’ll listen now.”
+
+It was interesting how having an incomplete vocabulary to work with could force you to be more honest than you really wanted to at times. Right now, he couldn’t seem to come up with words that would politely brush over the matter.
+
+Zeridee-und’h stared for a few seconds, then her expression softened. “I will explain again. The Contract doesn’t appear to be in danger to those who are now studying the situation. However, it is behaving with extreme vigilance. Failing to anticipate an incident at Matadero is unprecedented for it. It still doesn't know what it might have missed that led to this outcome, and because of that, it’s responding in a defensive manner. One of the effects of this is that it doesn’t wish to initiate exit teleports from Anesidora at this time. And there's no reason to force it to when we have another option prepared. Do you understand?”
+
+“Yes,” said Alden. “No. Why—?”
+
+“Its reasoning is complex. Drain on resources, the potential for an inimical Avowed to escape and instigate a second attack in another location while its focus is here, and a desire not to choose usual courses that might have been anticipated by enemies are parts of the whole.”
+
+The System’s panicking and playing chess with an unknown enemy at the same time?
+
+That was what it sounded like she was saying.
+
+She’d turned her back on him again, so he went about dressing himself in some other guy’s clothes while he listened.
+
+What it boiled down to was the fact that Earth was almost definitely not about to dissolve into an unsalvageable puddle of chaos. But since the possibility wasn’t completely off the table, the Artonans were quietly rolling forward with the first stages of planetary evacuation. Apparently planetary evacuation, “in its most desirable form,” involved mass teleportation from secret locations.
+
+The flyer, designed to provide an escape from a wide variety of crises, would take Alden to one of those places now with no involvement from the System at all.
+
+He was paying attention to Zeridee-und’h this time, but he was still reeling from the pace of it all. And from the sudden need to redefine which incident he was being saved from.
+
+“You didn’t bring me here to protect me from the ocean,” he said, just to confirm it.
+
+“As I told that man you carried with you—and several others tonight—there are many places on Anesidora for people to shelter. Having you directly teleported to one of them would have been a simple matter. I brought you here because one of our last flyers is here. You will be among the very first to arrive at the planetary evacuation site.”
+
+The CANADA sweatshirt hid Alden’s wrists thoroughly, so he unhooked the itchy wet leather bracelet and shoved it into the pocket of the shorts. A quick shove had his auriad settling into place farther up his arm.
+
+“The System says the probability of chaos exposure is low.”
+
+“It is. It is so low that the ambassador was somewhat annoyed that it was mentioned in the alerts at all.”
+
+“So it’s low. But you’re starting preliminary evacuations for the apocalypse anyway?”
+
+“Should we wait?”
+
+Okay, there was definitely some sarcasm there.
+
+“What about…?” The number of things he wanted to ask was creating a mental clog. “Aren’t there some other people who should leave first?”
+
+“If there are, then they are already in possession of the means to do so. There were a dozen flyers here at the house and five times as many at the embassy. Others were in the personal homes of the Artonans and Avowed who were assigned them.”
+
+Alden watched the water from his clothes pool across the floor. Leaving Anesidora to get away from what was happening here was a simple enough idea for him to get a handle on it. Leaving Earth to fall to chaos and never coming back, even though it was just a tiny possibility, was…not computing well.
+
+Zeridee, obviously deciding he’d had plenty of time to put some clothes on, turned around and walked over to the sofa. She picked up a shiny metal ball. “This orb functions as a beacon in the event that your flyer crashes. It will also be useful if you fail to make your destination in time and must escape into space.”
+
+“So that’s an option too, huh?”
+
+She must have heard the high note in his voice. “I will schedule a meeting with you after this is over and you return safely to Anesidora. I will explain it all in more detail,” she said gently. “If the ambassador doesn't have time, I’m sure he will not mind me taking on the task.”
+
+She tucked his stranded-in-space beacon into his Earth’s-about-to-die suitcase, then moved on to the next thing.
+
+“This is your personal medical kit,” she said, opening a shoebox-sized container and holding it out for him to see. Neatly packed potions, injectors, a stubby looking stick, and something like a glue gun greeted him. “All of the dosages are tuned to your body size. I have translated the labels into English for you. Instructions are in the booklet at the bottom.”
+
+She really has been prepping all of this for a while then.
+
+The medical kit went into the suitcase beside the beacon.
+
+“It is inconvenient that some of the things in your kit are illegal for Avowed to possess and use here. From now until you return, you will be on or within property under Artonan jurisdiction, so please don’t fret about legal consequences.”
+
+I’ve got too much other stuff to fret about anyway.
+
+“This tablet will be kept in storage for you at the embassy and frequently updated by staff. At the start of any future emergency, it will be transported to you directly or it will be waiting for you at your final evacuation site. Its last update was ten days ago.”
+
+Alden hadn’t realized the thing she was holding was a tablet. It was thick enough to be used as a little step-stool.
+
+“What’s on it?”
+
+“A copy of the internet,” said Zeridee.
+
+“A copy? Of the whole internet?”
+
+“Yes. For your entertainment, education, and to remember your people by.”
+
+Their eyes met.
+
+“Not…that the last one should be taken too seriously” the Artonan woman said. “Someone…a well-meaning person…had the idea that humans might appreciate having their own personal copies during trying times. And giving these out to many trustworthy people ensures the survival of the information.”
+
+“Are you the well-meaning person?” Alden asked.
+
+“The tablet is also how you make your official requests known to deciding parties during an emergency.” She handed it to him and pulled back the cover on the screen. A stylus rolled down, and he caught it. There was a form glowing there, waiting for him to fill it out. “You are allowed to name two people. Their evacuation priorities will be changed to match your own.”
+
+Alden looked down at the form then back up at Zeridee-und’h.
+
+“Thank you.”
+
+She nodded.
+
+He wrote in the names, and the form faded.
+
+A moment passed. Zeridee seemed to be looking something up with her eye rings.
+
+“It’s inappropriate of me to…I feel obligated to mention that one of the people you have named is an Avowed of high rank and unique ability.”
+
+“I know.”
+
+“His own evacuation priority is significantly lower than yours, but in many planetary loss scenarios, he would still be saved. My people have a responsibility to Avowed. Even those who have rejected the Contract. If that was a factor in your decision, you can change your mind.”
+
+“I’m still sure,” said Alden.
+
+“Good,” she said.
+
+“Do most people have to agonize over it a lot?” he asked. “I don’t have much family, so maybe it’s different.”
+
+“I have only seen a few people make their choice,” said Zeridee, speaking after a pause. “They all chose quickly and did not change their minds. If they agonized, they must have done it afterward and gained no insight from it.”
+
+He watched her put the tablet in with the other items.
+
+“This is a bag of oranges.” She picked up the final object on the sofa. “They are my favorite Earth fruit, so we had them in the kitchen. I didn’t know if you would be hungry or not.”
+
+******
+
+“The Span remains mostly intact,” Zeridee said as she led him through the house again.
+
+Alden was pulling his new suitcase along behind him, and his messenger bag was slung over his shoulder. Zeridee had stared at it a little but made no comment.
+
+“A gap at this end of the bridge is preventing people from exiting, but your friends don’t seem to be among them. I’ve been examining the scene for a while.”
+
+“Thank you for looking for them. A gap wouldn’t be a problem if they were with Maricel.”
+
+That’s right. Kon’s teeth.
+
+“Zeridee, do you mind if I target you? I need to preserve my messenger bag.”
+
+“I don’t mind,” she said.
+
+A few seconds later, bag safely preserved, he followed her into a closet-sized room full of monitors.
+
+“I think the fastest way to obtain information will be for you to send a message to the one with the watch. Infogear is currently suffering from minor delays, but it should go through. Here.”
+
+As she said “here” she reached into a cabinet and produced a small metal safe that opened only after she laid her hand on top of it for a while. Inside the safe was a second safe.
+
+Alden fully expected her to pull out a bomb or a diamond the size of a baseball.
+
+Instead, she handed him a normal infogear cellphone.
+
+Okay. The Artonan Ambassador keeps his infogear in two safes even in the privacy of his house. I’m never saying a freaking word aloud in front of a piece of this stuff ever again.
+
+“To use it, you need to—”
+
+Before he could tell her that him blanking out earlier was really no reason to explain what oranges were or how to use phones, she sighed.
+
+“Again?” she murmured in Artonan. “So many people assuming…”
+
+“What’s wrong?” he asked in the same language.
+
+“Contact your friends,” she said, switching back. “I will return. There are people in the garden.”
+
+She hurried away. He typed Mehdi’s name into the phone and listed his address as the third floor of the Garden Hall boy’s dorm. Infogear didn’t care if you actually knew somebody’s number. You just had to narrow down who they were tightly enough. It was convenient right now.
+
+He tried a voice call first, got a delay notice, and sent a text instead: [Mehdi, this is Alden. I’m safe. The guy I brought with me should be too. Is everyone all right?]
+
+While he waited for a reply, he stared at the monitors. There were none that showed rooms in the house’s interior. They were all outside. Front Garden. Verandah. A very large back yard by local standards with an enormous greenhouse.
+
+Nothing that looks like a hangar.
+
+Motion on the verandah monitor drew his eye, and he watched Zeridee-und’h using her big human hand gestures to explain to a group of four people—two middle-aged men and a younger man and woman—that they couldn’t come in.
+
+He could practically hear the conversation through the way her arms moved.
+
+A bow—she’s so very sorry for the unpleasant circumstances. A sweep of her arm toward the water with a shake of her head—no, no, the Ambassador isn’t here and the house isn’t flood proof. Pointing at the place where the police cars had been and then north, toward the train station—please go that way. You’ve only just missed another group.
+
+Alden watched the pantomime.
+
+They’re not happy with her answer.
+
+One of the men was pointing angrily at Zeridee herself and then up at an angle. Alden wasn’t sure if he was gesturing at the second floor of the house or the sky.
+
+She bowed again, more deeply this time, gripping the end of her dark purple braid in both hands so that it didn’t trail in a puddle.
+
+Alden suddenly wondered if maybe Ambassador Bash-nor was a piece of shit for leaving the assistant here to handle both Alden and a tense situation on her own.
+
+The house had had a dozen of the escape flyers. Now it had one. Eleven must have left without Zeridee-und’h.
+
+He frowned at the monitor. The two older men were arguing with each other now, and Zeridee was back upright. She didn’t look flustered at all. Nothing seemed to have fazed her yet except for the mother of the little girl she knew from the neighborhood not having accepted the teleport.
+
+But Alden was suddenly reminded of his first visit to the lab. And the fact that Joe’s assistants had been a little scared of him.
+
+A human! Probably it is a man human. I wonder if it’s going to do magic. I hope it’s going to help us. I hope it’s not going to hurt us.
+
+That was what Kibby said she had been thinking the first time she’d seen him. Such simple, obvious stuff.
+
+He left the monitor room and headed back to the front of the house.
+
+When he made it to the entryway with the all the windows and spiky shadows, the group of people was just leaving. Zeridee was stepping back inside, a bit damper than she had been.
+
+“Zeridee, will you be coming on the flyer with me?” Alden asked.
+
+She let her braid drop down to swing behind her.
+
+“No,” she said. “You will leave as soon as you have heard from your friends on the bridge. I’ll stay here. As you see, people still think this is a safe place to evacuate to, even though they have been told that the area should be abandoned. The house is on a hill, and they believe it is guarded by magic. Like a chaos fortification. If people try to shelter here, they may be swept away when the contaminant shifts toward us again.”
+
+“Is the house really not protected?”
+
+She blinked at him. “If it was, I would have let them in.”
+
+“It just seems strange. I see why they all assume it.”
+
+“The ambassadors come and go so often,” said Zeridee. “It’s a good way to get experience on Earth and gain a larger voice to influence the committees that make decisions about your species. Many ambassadors have fractious relationships with their predecessors, so they all prefer to install their own personal security measures. Ambassador Bash-nor’s protective enchantments are contained in a portable form. He took them with him to protect the chambers of the Anesidoran High Council while he met with them.”
+
+“What about you?” Alden asked. “You’re just going to stay here, trying to make sure nobody tries to use the house as a shelter? Where will you shelter?”
+
+She smiled. “You are kind to worry. But I will not stay too long after the last train leaves. Once I’m sure that the neighborhood is empty, I will walk to safety. It’s not very far.”
+
+If safety was the nearest inland skyscraper, as Alden suspected, then it was a very long walk.
+
+“I’ll stay with you,” he said. “You said it wouldn’t be long until the last train, right? I’ll stay, and I’ll help you explain to the people who come, and then we’ll both leave on the flyer together.”
+
+******

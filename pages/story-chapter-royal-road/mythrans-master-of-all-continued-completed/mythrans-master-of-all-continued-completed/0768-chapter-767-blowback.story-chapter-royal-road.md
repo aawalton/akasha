@@ -1,0 +1,303 @@
+---
+id: 5532e8a0-571a-540a-9e5b-5152d1b6240e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 767 - Blowback?"
+slug: 0768-chapter-767-blowback
+partOf: mythrans-master-of-all-continued-completed
+position: 768
+ownLength: 2994
+unit: words
+publishedAt: 2018-11-19
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/308023/chapter-767-blowback"
+royalRoadId: "308023"
+---
+
+“What the hell is going on?!?” Tatya nearly yelled as she ran to the first carriage, and every other carriage emptied out and they followed her, too.
+
+“Something blew up under the carriage.” The driver said, and the attendant agreed.
+
+“How is King Ren?” Tatya asked.
+
+“We haven't checked yet.” The attendant said.
+
+“Then open it!”
+
+“You... should be prepared... for... for...”
+
+“Open. It.” Tatya said angrily.
+
+The attendant opened the door and averted his eyes, because he didn't want to see the carnage that he knew was inside.
+
+“Oh, my god.” Tatya whispered.
+
+“I knew it! I knew it! He's gone! GONE!” The attendant yelled and fell to his knees and covered his eyes with his hands as he cried.
+
+“Yes, he is.” Tatya said. “As are his Mistresses and Familiar.”
+
+“Nooo!” The attendant almost howled his anguish. “He's gone! His Dynasty is gone! What will we do? How can we live on without his presence?”
+
+“Probably the same way as if I hadn't shown up.” Ren's voice said, and everyone turned to look at him. “The rumors of my death have been slightly exaggerated.”
+
+“My King!” The attendant jumped up and saw that Ren was fine, and the tears in his eyes doubled. “My... my eyes don't deceive me! You're okay!”
+
+“No thanks to this idiot...” Ren said and Artemis lifted up Rimsoh by the back of his tunic. “...and his friend.” He said and Artemis lifted Mires up the same way.
+
+“What happened?” Tatya asked. “Explain this mess.”
+
+“I don't have to explain anything.” Ren said and took out a display box and activated it, and the video played. You could see Ren's face move a little on the display, then he stood up and said they were leaving. “Just before that, I felt something forming underneath the carriage.” He said and paused the video. “The closest carriage was Rimsoh's, so I used a portal to go there after casting a sleep spell on them.”
+
+“Why?”
+
+“Having people just pop into a carriage instantaneously would be frightening, especially a moving carriage.” Ren said. “When we arrived...”
+
+“I noticed Rimsoh's hands were glowing.” Dilseffa said, and Ren played the video. Everyone watched as the object was seen and Ren tossed them into the carriage.
+
+“Why did you... never mind.” Tatya said as she heard Rimsoh react to being in a different carriage, then the explosion happened. Everyone gasped as Rimsoh and Mires fell through the gaping hole in the floor and then they appeared in the ceiling of the carriage with Ren. The video played the entire encounter and conversation with Rimsoh, where he admitted he did it and that it wasn't murder if he knew Ren wouldn't die. No one spoke at all as the conversation continued, then the video ended.
+
+“Oh, god.” Tatya covered her face with her hands and tried not to cry in frustration. “How... why would you do this, Rimsoh?”
+
+“It was just a...HURK!” Rimsoh stopped talking when Artemis squeezed her hand into the back of his tunic and cut off his words.
+
+“King Ren, what do you want me to do?” Tatya asked.
+
+“What's the punishment for attempted murder?” Ren asked.
+
+Tatya didn't say anything.
+
+“That bad, huh?” Ren said, and she nodded slightly. “So five times that would be kind of pointless, then.” He said, and she nodded slightly again. “What about sitting there and not doing anything to stop it?”
+
+“I told him it wouldn't hurt you, whatever he was doing.” Mires said. “He said he wasn't trying to hurt you, only teach a lesson.”
+
+“Which we just heard you say on that.” Tatya said and pointed to the display briefly. “Nothing else? No other defense for it?”
+
+Mires didn't say anything, and Tatya sighed.
+
+“You are such fools.” Tatya said sadly. “Tie them up and...”
+
+“No.” Ren said, and she looked at him with wide eyes. “Rimsoh can use magic. Do you really think he won't escape, knowing what he's in for?”
+
+“Plus, they are delegates.” Kenkoth said. “We can't restrain or remove them from the caravan without approval.”
+
+“I am the head of this delegation and I will say who is removed for cause.” Tatya said and everyone felt her anger. “Rimsoh for attempted murder, and Mires for compliance and non-interference.”
+
+“No one died, so I doubt the penalty will be severe.” One of the other delegates said and Dilseffa's hand shot out and then hit the man in the chest with her palm. The man lost his breath and dropped to his knees and gripped his chest.
+
+“Unlike the normal rules for things like this, a foreign dignitary was attacked by one of our own delegates under our hospitality and on our own lands.” Dilseffa said coldly.
+
+“He's... just an... Adventurer.”
+
+“He is... and he also killed the embodiment of Anansi with a single attack.” Dilseffa reminded them. “He could kill any of us in an instant and you wouldn't even know you were dead until your body hit the ground.”
+
+No one said anything in response.
+
+“If I can make a suggestion?” Ren asked, and they all looked at him. “I'll repair the floor in the first carriage and make it into a suitable holding cell for them.”
+
+“Ha. Like that will hold me.”
+
+“Not by itself, if you have the portal or teleport spells.” Ren said and smiled. “Give me a minute.” He disappeared and they all saw the carriage rock slightly, then he stepped out of the carriage. “Your accommodations await.”
+
+“What did you do?”
+
+“It took me a day to work out the best way to thwart a magic user when I can't constantly drain his Mana.” Ren said, and everyone looked at Rimsoh. He wore an angry face, and Ren chuckled. “No, he can't cast anything right now. That will change fairly quickly, though.”
+
+“Put them inside.” Tatya said. “We can deal with this when we reach the capital.”
+
+Artemis tossed the two men inside the carriage easily and Ren snapped his fingers. There were 8 snapping sounds and magical shackles appeared around the wrists and ankles of both men. The chains were long enough for them to move around the inside of the carriage, so they didn't hinder the men's movements.
+
+“I left you a viewing window, too.” Ren said and pointed at the floor. It was completely see-through and the window covered the entire floor and not just the hole that used to be there. “Good luck trying to escape an inescapable prison.” He grinned and shut the door.
+
+“There's no such thing.” Tatya said.
+
+“You could believe that.” Ren said and turned to his Mistresses. “I need to go.”
+
+Tiyaphi sighed. “I wanted to show you the countryside.”
+
+“We can do it in a few days, and we can take our time to enjoy the scenery.” Ren said. “I'll be back tonight.”
+
+“What about your maids?” Yuwen asked.
+
+“I'll give them a week or so this morning; and if they can stand it, probably another few weeks tonight.”
+
+“I sincerely doubt that they will say no, My King.”
+
+“We'll see.” Ren chuckled. “Artemis, do you...”
+
+“I will remain, so you still have a presence here.” Artemis said.
+
+“Remind me to give you a month or so later.” Ren said, and she laughed.
+
+“I know you love me, King Ren. That's all I need.”
+
+“It might be all that you need; but, it's not all that you want.” Ren said and wiggled his eyebrows, and she laughed again.
+
+“Escort us back to the carriage, so you can be on your way, My King.”
+
+“Of course.” Ren gave her a slight bow, then held out an elbow for her to take. He led her and his three Mistresses to the carriage that used to be Rimsoh's and helped them climb inside, then he walked back over to Tatya. “I must take my leave.”
+
+So formal. Tatya thought, sadly. “You said you will be back by tonight?”
+
+“I will. Do you know where the caravan will be then?”
+
+“At the new speed, we should make it to the overnight rest stop in the middle of the kingdom by then.” Kenkoth said and looked at the first carriage. “Can we feed them in this inescapable prison?”
+
+“Sure.” Ren said and opened the door, and they gasped as they saw a solid black mass instead of the interior of the carriage. “Just slide the trays of food in through the slot.” He said and pointed to the slot at waist height. “Whether they eat it or not is another story.”
+
+“Ren... what... what is that?” Tatya asked.
+
+“It's an obscured magical barrier.” Ren said. “Spell-proof, tamper proof, and escape proof.”
+
+“But... how... how do we...”
+
+“You don't have to worry about removing them until we get to the capital.” Ren said.
+
+“What about when we go to sleep tonight?”
+
+“They are prisoners because they tried to kill me and my Mistresses. They can sleep on the floor for all I care.” Ren shut the door and gave Tatya a bow. She gasped at the large Respect gain and he dismissed the display and stored the device. “See you later.” He said and bent down slightly, then jumped. He shot straight up into the air, almost faster than they could see, and deployed his large bat-like leather wings. He took off flying an instant later at full speed towards the kingdom of Pervaria's border.
+
+*
+
+Tatya watched him for the few moments he was still in sight, then sighed. “Everyone get back aboard.”
+
+“But... but...” The attendant for the first carriage raised his hand towards where Ren flew, then sighed as well. “Yes, ma'am.”
+
+They all went back to their carriages and climbed in, then the caravan pulled away and travelled at full speed towards the next rest stop they could reach before the giant boars became too tired to run.
+
+“This is quite the mess.” Kenkoth commented, and Tatya barked a laugh. “What can we do to...”
+
+“King Ren is right. Rimsoh knows what's going to happen for trying to kill Ren.”
+
+“He's right that King Ren wouldn't die, though.”
+
+“It doesn't matter.” Tatya said. “You saw the 'video' Ren played. Rimsoh admitted to doing it.”
+
+“Still...”
+
+“At the very least, he damaged one of the kingdom's official delegation carriages and intended to have someone fall and be trampled and run over.” Tatya said. “That kind of blatant disregard for life cannot be tolerated. Knowing the person would live can't forgive the act itself.”
+
+“I wonder how much Respect he lost?” Beholo, the healer asked.
+
+“Probably half of his lifetime's worth, once we all found out about it.” Kenkoth said. “If it had been just King Ren, I think it would have been negligible.” He explained. “With the three Mistresses in the same carriage, who don't even have a Toughness of 2?” He shook his head. “He's never going to see the inside of a delegation carriage again.”
+
+Tatya barked another laugh. “You're assuming he gets to keep his head.”
+
+“I don't think capital punishment will be an option.” Kenkoth said.
+
+“You're joking, right?” Tatya asked. “You felt what King Ren did when he transformed into an Uberbeast.”
+
+“Yes, and I fought it.” Kenkoth said.
+
+“You did, yes.” Tatya said. “Neither Rimsoh nor Mires did.”
+
+“What are you saying?”
+
+“If our august leadership goes easy on Rimsoh for this, King Ren doesn't have to accept it. Rimsoh is under his domain and he can be punished appropriately by King Ren if we fail to resolve this.”
+
+Kenkoth opened his mouth to argue, then sighed. “What do we do?”
+
+“Hope for the best and plan for the worst, of course.” Tatya said. “Not that we can do anything against King Ren if he does become upset.”
+
+“Well, we don't have to worry about it for another 2 days.” Kenkoth said.
+
+“We should do something about it now, before we arrive to the debriefing and lose any chance to mitigate the fallout from this.” Beholo said.
+
+“Then we need to act before we have no choice.” Tatya said and looked at Kenkoth. “Contact Jirqym. Tell him to take one of the wolves.”
+
+“But...”
+
+“We are travelling faster; but, we are limited to the roads.” Tatya said. “He can take a direct route.”
+
+“He'll need your authority.”
+
+“He has it.” Tatya said and slipped her hand inside a pocket, and took out a small badge. She held it in her hand and cast her Authority spell. “Tell him to waste no time getting there to give them a warning.”
+
+“Should we fill them in completely about everything?” Kenkoth asked.
+
+“We can do that when we get there.” Tatya said. “Send the message.”
+
+Kenkoth closed his eyes and waved his hand in an odd gesture, waited for a moment, then did another small wave. “He's on his way to the wolf carriage.” He said and opened his eyes. “I hope they take the warning at face value.”
+
+“As do I.” Tatya said. “If they ignore or dismiss it, things could get out of hand.”
+
+“If they do?”
+
+“I still won't submit to any man.” Tatya said and took a deep breath. “Even if he does decide to conquer my people over one person's jealous rage.”
+
+*
+
+“We're far enough out that they can't see us.” Teepo said, and Ren slowed down and stopped in mid-air. “Why did you fly and not take a portal?”
+
+“With so many people close by, it was too dangerous.” Ren said. “Plus, I bet we looked cool flying away like that.”
+
+Teepo chittered in laughter. “Those are good enough reasons.”
+
+Ren chuckled and checked the All-Seeing Mirror, then made a portal to visit Nathalia in her hospital room. “How is my beautiful non-wife?”
+
+Nathalia had felt him coming and smiled at him. “She's currently in the middle of breastfeeding one of the hungriest babies in existence.”
+
+“Oh?” Ren walked over to the bed and gave her a kiss on the lips. “Does that mean one of your delicious breasts is free?”
+
+Nathalia laughed and her breasts jiggled a lot more than they normally did, since they were full of milk. “I know you're only teasing me; but, it's for the baby.”
+
+“Aww.” Ren leaned down and kissed the top of Renardos' head. “It seems I've been replaced by a smaller and cuter version.”
+
+Nathalia held a hand out to him, and Ren took it. “I love you.”
+
+“I love you, too.” Ren said. “How is he?”
+
+“He sleeps like a baby.” Nathalia grinned. “He's up every 2 hours and wants to be fed.”
+
+Ren laughed. “He's also very happy.”
+
+“I know.” Nathalia said. “Being able to feel his budding emotions is... Ren, there's nothing like it.”
+
+“I don't see your mother or the maids.”
+
+“The maids went home last night and mom stayed at the house, then Ereka took her on a tour of the House Neram local land.” Nathalia said, then her eyes widened. “Wait, you don't know that?” She asked. “You came to see me first.”
+
+“Of course I did.” Ren said and gave her another kiss. “Who else would I visit first?”
+
+“Ren, you...” Nathalia tried to hold her tears back.
+
+“Hey, I love you.” Ren said and activated his Emotion Siphon ability and took her irrational sorrow.
+
+“Oh... thank you.” Nathalia said. “I don't know why I felt that.”
+
+Ren put his hand on her forehead and closed his eyes, and used his Emotion Siphon ability to search through her to see what was different about her. He found their connection and also hers to Renardos, and discovered the problem.
+
+“You're getting pure emotions from Renardos.” Ren said. “He's only a baby, so he doesn't have the emotional capacity to handle them.”
+
+“Oh, my.” Nathalia said. “What can we do?”
+
+“Give you a buffer of sorts.” Ren said and followed her link to Renardos. When he was close to entering the child's emotional center, he was met by a bright Light wall. “Interesting.”
+
+“What... what is that?” Nathalia asked. “It looks like a...”
+
+“It's a Magical Barrier of Protection made of Light.” Ren said, amazed. “My little boy is protecting himself.”
+
+“Ren... how can... he's just a baby.”
+
+“He's not a 'just' anything.” Ren said and opened his eyes and looked at Nathalia. “He's got you and me mixed together. Since we're both pretty awesome...”
+
+Nathalia snorted a laugh. “Stop joking around.”
+
+Ren closed his eyes and made a small series of barriers all along Renardos' connection to Nathalia. They were also made out of Light, so that there wouldn't be any conflict. As each one was placed, it filtered the connection and by the time Ren placed the last one, Nathalia could feel Renardos' emotions, but they didn't affect her.
+
+“Ren, how...”
+
+“It will only last as long as he is unaware of what he can do.” Ren said. “As he gets older, he can find them and remove them himself.”
+
+“But...”
+
+“He knows they are there, so all you need to do is teach him.”
+
+“I... yes, I know.” Nathalia said as Ren shared the knowledge with her. “Thank you.”
+
+“Thank you for giving me more joy in my life.” Ren said and gave her another kiss. “I'll see you later.”
+
+“Bye, My Love.” Nathalia said.
+
+Ren checked the All-Seeing Mirror and cast another portal. “Are you sure I can't suckle your other breast?”
+
+“Ren!” Nathalia mock-gasped and laughed. “Get out of here!”
+
+Ren blew her a kiss and stepped through the portal into the hallway in front of the royal apartments in the castle. He felt everyone's reaction to him just appearing like that, and smiled as he walked down the hallway to Narhilda's room. The two guards on duty stared at him like he was the devil incarnate for violating the sanctity of the castle like he did, and he motioned to the door. One of the soldiers sighed and knocked on the door, and Ren waited there patiently.

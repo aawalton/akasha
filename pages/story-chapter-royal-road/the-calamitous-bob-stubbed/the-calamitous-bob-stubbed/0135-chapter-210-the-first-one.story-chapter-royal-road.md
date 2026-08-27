@@ -1,0 +1,367 @@
+---
+id: af1ad712-5e78-5ea5-9a05-6af4915cb53e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 210: The First One"
+slug: 0135-chapter-210-the-first-one
+partOf: the-calamitous-bob-stubbed
+position: 135
+ownLength: 5199
+unit: words
+ownProgress: 5199
+publishedAt: 2025-06-13
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2353869/chapter-210-the-first-one"
+royalRoadId: "2353869"
+markedReadAt: "2026-06-29T21:20:36.952Z"
+---
+
+Viv killed necrarchs until they blurred into one another. She wasn’t the only one either. Solar and Selyen roamed the battlefield cutting them apart, the old blade master having picked a sword for once. Sidjin caught another two, and a squad of Sisters of the Eye managed to nail a slow one. Nevertheless, they were still cunning and fast despite their stunted status. On two occasions, they broke through and laid waste to her lines. The two nerds’ wind spell had also revived the flames under the two drowned moats, so many of the incoming undead were cooked before they could reach the Harrakans. Any living army would have faltered before the massive losses the undead were suffering, but the dead were relentless and uncaring, and they would fight to the last.
+
+VIv wasn’t doing enough. Another Storm of Zamaheer brought another few moments of respite but it meant not going after the necrarchs. She couldn’t be everywhere at once.
+
+In the distance, the dragons still fought and destroyed the horde as it advanced. Only the fire bloodline dragons still spat great flames by now. Arthur and her sibling upturned the earth to smash undead to pieces while Meadow and others dove onto necrarchs for dangerous and deadly dances. It was going well. It just wasn’t going to go well for much longer. Everyone would tire, and then…
+
+It was Viv’s job to change that. She was the so-called black mana genius. She was the one with the keys to success here. The people were counting on her. Hovering above the battlefield, she kept casting and thinking at the same time.
+
+The undead were done swarming the third line now. Even with her night sight, the sheer chaos of battle and all the smoke made it impossible to gauge how many of them were left. Before she could stop though, a pulse of divine mana spread through the field like a ripple on a lake. It was black divine mana.
+
+The way it just bypassed the enemy’s control was impressive. Viv almost lost her grip with the next nuee spell she was about to launch on a group of gut spillers. Suddenly, a voice rose above the chaos: male, but layered with an androgynous lilt that hinted at some measure of incarnation. She recognized the voice as Abenezigel’s. The language though, was unknown. The redeemed lich spoke in a guttural tongue that made Viv think of hidden caves and wooden spears hardened on a fire. It was ancient. Older than Harrak. Older, even than Emeric. Older than civilization itself. The meaning seeped into her mind by osmosis, not because the speaker wanted to be understood, but because the world bled with its meaning.
+
+YOU ARE COMMITTING YET ANOTHER GREAT SIN, CHILD.
+
+The revenants at the front of the formation fell to ash like sandcastles. Others stopped their assault, freezing where they stood.
+
+Someone grabbed Viv mid-flight. Viv recognized Arthur’s claws. They reached for her shoulders, as if for a hug.
+
+Mother.
+
+I am scared.
+
+I don’t want to think about the end.
+
+Stop her from making me think about the end.
+
+Other dragons cried in dismay. The pressure spread. More clumps of undead stopped advancing. Larger groups just fell where they stood, turning to dust in an instant. Harrakan lines stopped and breathed with eyes filled with dismay.
+
+Enttiku, eldest of the gods, had entered the fray.
+
+YOU HAVE LEARNED NOTHING.
+
+IT IS NOT FOR YOU TO JUDGE.
+
+Abenezigel walked forward. He was not an avatar, Viv realized. Perhaps he wasn’t capable of it, but even just channeling the power of the goddess was enough. The gods performed according to their attributes. Nothing went against the first one’s will quite like desecrating the dead.
+
+The shadowy shape of a dark hooded cloak embraced the old man. His white locs flew under an unseen wind, and though his voice was tired, it bore the strength of millennia.
+
+No, it was the goddess who was tired.
+
+EVEN THOSE WHO DO NOT DESERVE RESPECT, DESERVE PEACE. YOU OWE IT TO YOURSELF AND TO YOUR HUMANITY.
+
+YOU MAY HAVE FORGOTTEN, BUT I NEVER WILL.
+
+AND I AM HERE NOW.
+
+Another blast contested the foe’s control over the undead. Entire waves of revenants crumbled in an instant. The others were so weakened that it only took seconds for the alliance’s soldiers to dispose of them. In the breathing space afforded to them, companies rotated, the wounded were pulled back, and those who could drink and breathe did so. Large teams loaded the last canisters on the flame liberators with haste because they knew it wasn’t over.
+
+Viv finally knew what she had to do, but she wasn’t sure it was a good deed. Frowning, she had one more good look at the large sigil of flesh formed by distant revenants. This was the beacon. This was the relay. This was how her enemy kept control over the horde. This is what she had to do: not destroy it for it would be reformed, but contest it. Contest her for the crown.
+
+But… that meant she would gain control over the undead. And that was necromancy. Necromancy was forbidden.
+
+It wasn’t that Viv felt horror at using the bodies of the deceased. She would use ten corpses if it meant saving one living soldier. Her honor didn’t matter half as much as the life of the people who followed her. It wasn’t dignity that had stopped her. It was long-term calculations.
+
+Necromancy was horribly taboo on Nyil, therefore using it for short-term gains would only sacrifice the long term. It would be a lazy shortcut with irreversible consequences. That was why Viv had never used it. Would gaining control over the horde count if she didn’t intend to use it? And then, the obvious solution hit her.
+
+She prayed to Enttiku.
+
+Immediately, the goddess drew her in her embrace. The distant form of a hooded figure in a long robe fluttered at the edge of her vision. The goddess’ voice was weirdly friendly in this half in-between. It wasn’t some all powerful entity talking to her, but a friendly, mature woman with a warm laugh. The kind who would invite you for tea and dole out advice if she felt you needed it.
+
+Hello outlander. It feels like you need this old one to give you a bit of a hand?
+
+“I want to try something, but I don’t know if it’s a good idea.”
+
+Something caressed her mind, gleaning her surface thoughts with a delicate touch.
+
+Breaking a spell is not immoral. Using bodies for your own end, that is necromancy.
+
+You are a mage, young one. Surely you do not need this old one to teach you about intent.
+
+But that is not why you need my help, hmmm?
+
+Never given much to introspection, are you. It is not a flaw, but it makes the next step difficult.
+
+There is no shame in asking for help.
+
+Start the contest, and I will guide you.
+
+Behind them, Abe faltered. His intervention had given the alliance the space it needed though. They were perfectly arrayed behind the fourth line, the second-to last. After that they would be running out of tricks.
+
+She was worried for the old redeemed lich.
+
+He will be fine. I have use for him yet.
+
+The goddess chuckled in Viv’s mind. She felt a pang of pity and sympathy that wasn’t her own.
+
+His human self is too fragile. He cannot host me.
+
+Viv drew the control sigil mid-air. She didn’t have the proper floating silverite symbols to help her with this one, unfortunately. It would make things dicey. First time spells were always hit or miss.
+
+“There is no good host here?”
+
+There are no good hosts on the planet.
+
+I have never incarnated fully on Nyil.
+
+I am the oldest and quite powerful, if I may toot my own horn.
+
+First time incarnations are always fateful moments.
+
+Now focus.
+
+“Alright.”
+
+Viv hurried to finish the sigil. It was complex and also a mage thing, but she understood it well enough. The construct was merely a relay for one’s will. It meant that the enemy had some monstrous control over black mana, eclipsing Viv herself. It also meant that there were probably a series of beacons on the way back to the capital, so she could have trivialized the battle by having a couple dragons incinerate the previous node. Fuck! Well. Hindsight and all that. In any case, as soon as the spell activated, her will clashed against that of her enemy.
+
+She lost immediately. It was like trying to open a door and getting it slammed in her face.
+
+“Ow.”
+
+You need to contest, not wave hello, dearie.
+
+“Alright alright. Let’s go.”
+
+Viv returned with a vengeance. She wasn’t here to explore; she was here to fight off someone else. Her second foray was more successful in the sense that her own beacon was an anchor of the black mana around her. Whatever pushed her for control could no longer do it. Of course, it was useless per se. Using the beacon took all of her focus.
+
+I will help.
+
+Viv pushed, but it was like fighting water. The enemy was everywhere and it didn’t even feel targeted. She was being bested by something that functioned in instinct while the conscious parts directed the waves of undead at her own soldiers while battling the dragons while pushing forward tens of thousands of creatures while several hundred leagues away. It was utter bullshit and Viv was not amused.
+
+“Et bah putain,” she mumbled.
+
+Viv was in the race now though. It was impossible for something to be that much better than her, so there had to be a trick. Obviously that trick was intent. The necromancer wasn’t really using their own black mana for this, they were mainly manipulating it like a maestro. Pushing more black mana into the mix wouldn’t help. She needed control.
+
+Gently, Enttiku pushed her along the path of understanding. Viv was an Ascender, so ascending was something she was supposed to be good at. What was the skill she’d been granted as class skill that felt weird for a caster?
+
+Soul Mastery: Intermediate 5
+
+Right. If the blue lady could turn fully elemental, it meant her body was momentarily gone, or at least transformed beyond reason. But wouldn’t that kill her?
+
+Your elemental body is just at the beginning of its transition. That is why you are at a disadvantage, dearie. Elemental archmages need a long time to adapt.
+
+Viv descended into her soul in the same way she did when traveling to the in-between, but this time the consciousness of the Goddess of Death helped her stay anchored anyway. She felt the cloud of black mana around her like an islet of familiarity in a strange world of solid mass and particles and… people. She tried to breathe and found she could not. Instead, black mana moved around her beacon. She saw herself from the outside: a floating woman with auburn air in mage armor shimmering with defensive spells. Her concentration almost broke then. Again, Enttiku picked her up before she could crash down.
+
+“Sorry.”
+
+It’s alright. You are doing very well for your first time.
+
+Viv descended deeper into this strange state. The metaphorical eyes of the other were on her now, but it didn’t fight her yet. Perhaps it was too busy, or perhaps it didn’t think she was capable of offering a true challenge.
+
+Deeper Viv went, aided by the quiet help of the eldest goddess. She was now in a state of perfect calm. The view of the battlefield changed dramatically. There were no more colors, or weapons, or even bodies. There were only shades of mana and vectors of will: a single, powerful one against a multitude of smaller ones, each one bright and pushing vaguely in the opposite direction. As Viv watched, some of them were snuffed out.
+
+Deeper than this, was the planet. Not in the sense of a mass of rocks careening through space. It was the totality of all the mana of the living things here woven into a tapestry of infinite complexity, a beautiful, breathing chaos slumbering beneath everything that breathed, lived, and died, and the traces they left behind.
+
+It asked her a simple question, not with words, but as a hollow in her spot, a void. She was supposed to fill it herself.
+
+That question was: what is the black?
+
+‘The black is power,’ was Viv’s natural response, yet that wasn’t precise enough. Power was quite simply the ability to do things. Money was power. Influence was power. Viv used all of those, so it wasn’t specific to the black, or rather, it wasn’t specific enough.
+
+‘The black is destruction’ wasn’t precise enough, because it was also change. ‘The black is change’ didn’t cover annihilation. The planet waited. It wasn’t judging her and it wasn’t a test. The void had been here since the beginning and it didn’t even need to be filled. Viv merely wanted more, and so she had to do more.
+
+Was the black the instrument of her will? It was also imprecise. The Harrakan army was also the instrument of her will. It was also kind of grandiose in a stupid way. The planet wasn’t like humans who needed stories to find meaning. It wasn’t like her. It didn’t need to be convinced. It merely waited for her truth, because it was about her, so her truth would be the truth about her. Again, the planet didn’t judge. It didn’t have the capacity for it. She was almost alone with a brush in her hand facing the tapestry of existence, and there was the tiny spot where she ought to be, and that spot was hers, and the tapestry didn’t need it. It didn’t need her. She was in control, and doing nothing would have been a form of control.
+
+What did Viv want to do with the black? She wanted it to help her do what she wanted. When it was time to change things, it helped her change things. When it was time to remove things, or people, it helped her do that. When it was time to impress, it helped her do that. It had always been here for her, and it had always helped her accomplish what would have otherwise been impossible when she didn’t have the proper tools. It was helping her and she was helping the people around her according to what she believed was right.
+
+She was using it to break old conflicts like the Enorian civil war, or the Beastling Tide. She was using it to build a nation, one pylon at a time, one regrown limb at a time, one slain undead at a time.
+
+She was using it to bring her vision onto the world. It wasn’t doing it for her. It was helping her accomplish the impossible.
+
+“I bring momentum. I bring vision, and hope, and despair. I am the catalyst for my better world, and the black is my catalyst.
+
+“The black is my catalyst.”
+
+It was her truth. Nothing more, nothing less.
+
+Viv’s body blinked out of existence. She was black mana, and black mana only. The mana could host her consciousness. It was the most natural thing in the world.
+
+In this world, people were blobs of mana, the undead were another blob, connected between each other by a thick cloud. The ground was dull brown, the sky was dull gray, the clouds were dull blue. Bursts of power erupted when the mortals and their foes wrote their mark onto the world with their deeds. Here, one of them spoke colorless words that cut great swaths through the darker congregations. There, the colorless mana carried the will of its wielder, slicing mana and pretty much everything else with a single strike.
+
+Do not lose yourself.
+
+Enttiku’s advice woke her up from the shock of those new sensations. The magical and the mundane merged in her perception, anchoring her. Viv was her soul but not just that, and she ought to pay attention. The physical was just as real as the gorgeous view of so many colors on a wonderful canvas. She was just more used to the first. There was something urgent knocking on the walls of her memory.
+
+Right, the undead.
+
+Viv didn’t need destruction or defense right now. She was contesting an entity of unfathomable power for control over the very fabric of magic. She was going to need some serious legitimacy. Fortunately, she had just the tool. Her form stretched. The weight of the Crown of Harrak returned to the place where her head ought to be, though it wasn’t quite there for now.
+
+[True Aspect of the Paragon.]
+
+“I CHALLENGE YOU.”
+
+Her claim spread through the deep cloud of black mana covering the battlefield. Viv was no undead, but she was a leader.
+
+The foreign presence that led that horde to war stopped and faced her, really faced her, for the first time. Viv felt surprise. No fear though. She didn’t know if the entity was even capable of it.
+
+Viv claimed the cloud. It wasn’t her, and thus not fully hers, but then it wasn’t going to belong to anyone else either. She didn’t have to control enough power to level a city if anyone ever had the adamantine will to channel it through a spell. She merely had to deny her opponent access to it. Her mind encompassed the black, pushing it in motion as a flux that no one would be able to harness, not even her.
+
+The presence contested her, of course. It needed the dead to kill the living. Already, those revenants that hadn’t been finished off properly were rising again for a second attack. But the entity wanted the mana inside of the dead, and the dead were stale and stagnant.
+
+Viv focused. Her consciousness expanded so much she might have broken her concentration were it not for the goddess’ gentle support. It was like playing with a ball inside of a room and then suddenly moving to a massive stadium. It was technically the same game, but the scale made it different. Now she had as much mana as a god at her fingertips, yet she wasn’t really in control. She played, though, because there were no other choices.
+
+Viv focused. The black was destruction, thus it was the disaster that had killed Harrak and the dead that populated its decrepit surface.
+
+The mind of the other touched her. It was cold and supremely confident, but also, strangely, in agony. The pain and horror swam under the surface through a wall so thick, Viv might have dreamt them. The mind was distant. Another touch and a vision filled her mind.
+
+A ritual chamber, melted.
+
+The empire from the top of the gutted ziggurat.
+
+Horror. Wordless horror.
+
+Punishment at an existential level.
+
+The images faded. The other was control, and annihilation at a scale Viv could understand but couldn’t accept. It was a view of the black. Not an incorrect one either.
+
+Viv knew what opposing the creature head on would result in. She wasn’t going to win this one by being the most bull-headed, for once in her life apparently. Instead, she contaminated the vision with her own. The black was the dead and also their end. It was annihilation and renewal through change. To the vision of dead Harrak, she replied with her own, of a reborn Sinur’s Gate with its towering spires clad in green vines, of the gurgling fountains, of the distant views of so many villages popping like desert flowers after a gentle rain. The cyclopean columns of the ravaged palaces were replaced by stella full of stories, courtesy of a very patient golem wandering through the reclaimed lands. The silence was broken by the laugh of children and their off tune songs, the clang of tools. The statement was the weight of a singular catastrophe. Viv’s reply was that anything will change given enough time and effort.
+
+The entity was troubled. For all its might, it was also keeping something terrible at bay: its own anguish. Viv’s arguments must have struck a chord because it chose to retreat and fight her with sheer power. Viv had to wrestle against a much stronger opponent, but she had vision on her side, and mana followed will. She gradually took over.
+
+The first undead fell under her control. She felt them like expansions of her will, semi-autonomous tools bound to her intent yet with automatisms of their own. It was disturbingly close to what playing strategy games with her friend Gevaudan used to be like.
+
+The undead froze when she did. She could also feel them getting destroyed by her people. It wasn’t painful in any way.
+
+Enttiku intervened here. She gently picked the bodies and just… unmade them, gently, respectfully. There was no grief in her, because what had made the revenants people was long gone. In a way, her actions were much more for the living than the dead: a question of respect for the self and those who came before. The human gesture helped Viv move on. She had one job, and she could leave the rest to those she trusted.
+
+Her control expanded, first slowly, then more quickly as her concept contaminated the necromantic array. Clumps of undead fell under her grasp, and then to ash immediately after, then it was companies, and then entire swaths of the horde crumbled. Her enemy could no longer rebuild her relay beacons as fast as the dragons were destroying them by now. Something clicked, and the area she could control exploded.
+
+There were still tens of thousands of undead on the plain, lining up towards her line. They all fell under her control.
+
+For that one moment, Viv felt a vivid sensation of overwhelming presence, hers. Her perception, through her minions, expanded for kilometers. She could see everything she wanted, hear everything she wanted. All things and people around were close because she just had to extend a limb to touch it, and she had a lot of limbs to play with. It was like being a spider at the center of a very, very large web, and within this web, she was all knowing and almighty. It broke when Enttiku took it from her with patient care, like one carefully removes a knife from a child’s fingers .
+
+It is not worth it, child.
+
+“Sorry. I was surprised.”
+
+There is no shame in being tempted, dearie.
+
+I would have let you shake it off on your own, but I need to leave you now.
+
+You are not strong enough for me to stay either.
+
+Any longer, and your body will be damaged.
+
+“Ah alright. Thanks. We won!”
+
+Yes. Now you have one last hurdle.
+
+Goodbye.
+
+And she was gone, and now Viv was faced with several notifications.
+
+You have unlocked an essential tool of the elemental archmage: true form.
+
+While in true form, your body is replaced by pure elemental energy. Your mind functions as normal. While in true form, normal ways of destroying the body no longer functions. Your spell resistance is vastly increased due to the sheer volume of mana.
+
+Keep it mind that specific attacks are particularly effective against this form.
+
+Your ability to get into and out of true form depends on your soul sense skill.
+
+Ascender: 3/5
+
+Viv had a sneaking suspicion the kind of attack that would work well would be the kind of stuff Solar used. It seemed to cut reality at a level she didn’t quite understand. Better keep that in mind.
+
+Alright, now… how to turn back?
+
+Viv had no idea.
+
+***
+
+Brick was tired. She was also hungry. She was also sad because she had lost friends today.
+
+The revenants were all dust now so it was over.
+
+The good empress was floating above them, under the light of the moon. It was nice like this with the weird black form and the nice clouds behind. She found it very peaceful. The good empress was like a small spiky cloud with many ribbons attached floating there, above, moving too much because there was no wind. Brick wasn’t sure why she wasn’t in her normal body anymore or if it was good or bad. She was just Brick. The good empress floated there above them like a small piece of not-thing with green eyes. The dragon lady flew around her. She looked a bit worried. Maybe the empress needed help.
+
+When Brick was small, her mother would sing to her. She would also say that Brick was loved by the gods because they loved simple people. So Brick did the only thing she knew how to do: she sang. And since Brick didn’t think the empress would like ‘Tonton ran after the squirrel’, she sang a soldier’s song instead. The others started singing as well. All of the others. That was a lot of people and that made Brick smile as well. When a lot of people sang, songs grew really touching. It was like sharing something all together.
+
+We left our homes, we left our kin
+
+Through all the hardships we have been
+
+Through barren lands both foul and clear
+
+But we’re still here. We’re still here.
+
+Through forests green and far away
+
+We lost our way and walked all day
+
+We’ll march on top of mountains sheer
+
+We’re still here. Still here.
+
+We're tired hungry give us wine,
+
+We pray to all the gods divine
+
+Except for thirst we have no fear
+
+We’re still here. Still here.
+
+So come and get us bastards fiends
+
+You can’t win through any means
+
+With strength of arm and stalwart spear
+
+We’re still here. We’re still here!
+
+When Brick and the others were done singing, the good empress was back to normal. She was also singing with them. That made Brick very happy. Brick was also sad because some of her friends were dead and the battle was over anyway so it was alright to cry. So she did.
+
+***
+
+There would be no celebration that night because it was already 4 fucking AM and the thought on everyone’s mind was ‘bed’. Fortunately, home was fifteen minutes away and the wounded were tended by enough priests to pacify a rave. Viv flew her ass to her own bed chamber through the heavily warded window. She didn’t even bathe.
+
+The next morning was one of relief, but the butcher’s bill came, and it was rather grim. Fifty-seven Harrakans had died that night despite how relatively brief the battle had been and how much they had prepared. The sisters of Enttiku’s elites also had fatalities. By comparison, there were very few wounded simply because Harrakan armor was so hard to pierce for the revenants. Most of their losses came from gut spiller acid, or the very few occurrences of necrarchs not being intercepted quickly enough. The undead abominations tore through even enchanted armor like it was wet paper, killing people instantly. Four of the One Hundred had fallen during two such breaches despite all of their skills and gear. Any thought of using her army to hunt the dangerous undead flew out the window for Viv. No amount of strategy could make it worth the risk.
+
+There was a service for the dead, then Viv had to prepare for the next phase. She called a small council to announce her decision.
+
+“I will be going alone. Well, almost alone,” Viv said.
+
+Her council didn’t look too happy about it. Even Lady Azar bit her nails with stress, and she was always the first to yell at Viv.
+
+“It’s not that I don’t trust you,” Viv explained, “but some of the dragons who came directly from the mountains to the north confirmed it: the mana concentration in the capital is currently so thick, it can be felt from the clouds. Nobody alive would survive it except for me. Even the dragons will stay at a distance.”
+
+“Will you take Solfis?” Sidjin asked.
+
+The question was a loaded one. He knew what they’d found out, though Viv hadn’t shared this specific piece of information with her people yet. Taking Solfis would be a gamble. The mana concentration was going to be so thick that he would basically just need to ‘vent’ his core every minute or so, and his reserves would improve by just standing there. It was the perfect battlefield for him, yet at the same time it was the first and only time she couldn’t be sure of his absolute loyalty. If the enemy was indeed the empress, or even someone who was a major authority figure, he would at least have to consider his allegiances. Solfis was hers by choice, but his choice was one of whom to follow. He didn’t have the opportunity to follow no one. If the enemy somehow managed to play with his hard-coded directives, Viv would have to face a sophisticated, ancient weapon specifically designed to kill creatures like her. Nevertheless, the choice was clear. After all, the Solfis problem had an obvious solution. His knowledge would also be invaluable.
+
+“I will be taking Solfis. No one knows the palace or its denizens like he does. The dragons have decided to fly around the capital. Meadow agreed to help one more time.”
+
+He was really deserving of his fish sauce.
+
+“I’ll be going immediately.”
+
+Some protests erupted around the table. An exhausted Abe asked her to reconsider while he prayed for more guidance, but Viv wasn’t having it.
+
+“There are millions of undead still roaming the deadlands. I’m not waiting for our massively strong enemy to gather more, not to mention, that was only a fraction of a fraction of all the necrarchs in the capital. What if next time she finds a way to control more? What if she finds a way to control all of them? No. We don’t know the extent of her powers or even if she can make progress. I need to go in, and at least find out what it is we’re dealing with. As for you, you’re going to be busy.”
+
+“Busy?” Lady Azar asked with a frown. “Busy how?”
+
+It was the moment Arthur picked to slither her serpentine head through the open window, which was left conveniently open for any large and opinionated creature who wished to attend the meeting.
+
+Are you stupid?
+
+Fifty thousand revenants are now extra fertile, mana-rich soil mixed with gold and trinkets?
+
+Hello?
+
+“You guys are going to be looting to your heart’s content,” Viv assured.
+
+Lady Azar’s eyes shone like bright stars. Harrak’s budget was ever tight by nature. Even with part of the treasures going to the soldiers, the rest was sure to fund several important projects.
+
+“And the next harvest will be phenomenal,” Viv concluded.
+
+“Very well, Your Majesty. We shall turn this military victory into wealth.”
+
+Viv glared at Arthur just as the dragoness tilted her head, a sure sign she was mulling over a new concept.
+
+“No,” Viv said.

@@ -1,0 +1,419 @@
+---
+id: cb32295a-18e8-5bb9-84c9-d0cabddb1f7e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 208: Dive bombing with friends"
+slug: 0133-chapter-208-dive-bombing-with-friends
+partOf: the-calamitous-bob-stubbed
+position: 133
+ownLength: 4570
+unit: words
+ownProgress: 4570
+publishedAt: 2025-05-30
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2317642/chapter-208-dive-bombing-with-friends"
+royalRoadId: "2317642"
+markedReadAt: "2026-06-29T21:20:32.135Z"
+---
+
+Gale flapped his wings in an attempt at intimidation, standing briefly on his hind legs as he did so. Viv had to admit he was pretty big. For a whelp. She put her fists against her hips to give him her best ‘parent about to explode’ impression. Something emerged from her soul, and Gale took a few steps back. He looked sullen.
+
+I just don’t see why you have a right to tell us how to fly!
+
+You don’t even have wings!
+
+It’s stupid!
+
+“Young man, we’re going to fly in formation, just the way I suggested, for exactly four reasons. One, you know how to hunt, but I know how to wage war. This is the sort of solution my people came up with and it’s the one we’re going to try..”
+
+Earthlings could fly?
+
+“We fly with machines. The pilots of small agile machines would use these strategies against larger, slower ones. Two, only I can stop the black mana pulse defense used by the golem long enough for you to not die, and then only for a moment, so it’s going to be a hit and run. Three, and more importantly, Judgment gave you to me to lead for a battle and by all the gods, if you don’t listen, he’ll grab you with one hand and fold you like a fucking napkin.”
+
+Gale suddenly looked very dejected.
+
+“And four and unless you’ve forgotten, I don’t need to wait for Judgment to fold you like a napkin in front of all these mortals. Are we perfectly clear?”
+
+Yes yes…
+
+We will try your solution.
+
+Hmph!
+
+Viv sighed. It was like herding a herd of three cats except one was decent, one was a teenager with an ego and the other was the uncle who’d stopped giving a shit five years before and was now completely feral. At least Meadow could focus most of the time.
+
+“We will resume practice now.”
+
+Can’t we have a nap first?
+
+“The undead horde is walking towards us at a ceaseless pace so if you don’t mind, I’d like to get ‘that’ out of the way before we get to relax.”
+
+Viv climbed on top of Arthur who grumbled out of habit. She was keeping an eye on the Children of the Scales maneuvering on the hellish checkerboard the valley had been turned into. Jaratalassi and Sahin bickered on a distant hill as they oversaw the last preparations. There were a lot of ‘ifs’ people depended upon for this battle not to end in a massacre. The largest ‘if’ being the empress managing to break the influence of the golem so that they’d ‘only’ be facing an uncountably large undead horde rather than one which was also guided by some base level of intelligence;  but hey, no pressure.
+
+Viv sighed. It was going to be a close call with no options for a redo, therefore she absolutely needed to prepare as well as possible. No naps. Far above, Meadow practiced climbing and diving while carrying heavy stuff.
+
+“To the skies!” she told Arthur, and they took off.
+
+Practice took most of the morning, but by the end she felt she was ready. As she returned to the palace to announce their departure, she was intercepted by Lak-Tak. For the first time ever, he looked sheepish.
+
+“Everything alright?” she asked him.
+
+“Not enough shells.”
+
+His ears drooped, weighted by shame.
+
+“We do not have enough shells,” he repeated. “Or fuel.”
+
+Aaaah so that was what it was about. She patted his broad shoulders.
+
+“Listen, sir Lak-Tak. The sad truth is that there are never enough shells. Ever.”
+
+He frowned. It was as if she’d insulted him.
+
+“I’m serious. Even if you were to somehow increase the production, there’s still the logistical nightmare of bringing all those shells to the front.”
+
+“You. Have portals.”
+
+“Yeah and people still need to carry the shells from storage to the portals and then from there to the guns. We’d need trains, pallets, all the sort of things we don’t have the industry for just yet. I mean, I think? And then even if by some miracle you have an endless supply of shells, then it’s the barrels that go bad. All I’m saying is that you don’t need to feel guilty about not having enough shells because it’s an impossible task. People back on my home planet have been improving logistics non stop for centuries now, and for good reasons. It’s that important. As a man named Pershing once said, a good army wins battles, logistics wins wars.”
+
+“What’s a train?”
+
+Viv suddenly had the feeling she’d parked her ass in a bear trap.
+
+“Uh, it’s hmmm, you know how we have rails in the mines? Same thing but much larger and you put a machine on the rails that drags wagons behind it, and also you put rails everywhere, including to major portal sites.”
+
+It looked like Ser Warcrime was orgasming.
+
+“Draw it,” he demanded in a breathy voice.
+
+“Ok… so it looks a bit like this though obviously we could make it mana-powered at first. I need to tell you that the trains themselves are only part of the challenge. For the system to be efficient, you need those running regularly every day at a strict schedule in a very controlled and predictable manner, monitored by a system of beacons and signals. It’s obviously very difficult to set up and organize because of the many rules and measures required for safe and reliable operation, but it’s at least very logic— AH!”
+
+Viv jumped when a heavy hand settled on her shoulder with a tight grip. Fuck! It was Irao. Truly, one of the few entities alongside Solfis and perhaps Arthur who could reasonably kill her. His mask showed an expression of curiosity that made his grip all the more stressful.
+
+“What?” she asked.
+
+He normally hated physical contact. Right now though, the hadal’s attention was focused on the train plan and basic schedule Viv had drawn on the earth with a rare intensity that bordered on mania.
+
+“How soon?” he hissed.
+
+“What?”
+
+“How soon can you make trains?”
+
+“I, errr.”
+
+Lak-Tak screeched something to Irao, who replied with hand signals Viv didn’t recognize. This went on for a little while.
+
+“I see you two appear really involved in this thing so I’ll, uh, leave you to it. Goodbye.”
+
+Viv continued to the “Foolcatcher Garden”, the specific spot below the throne room’s windows where the defenestrated people ended up. Most of it was made of fluffy bushes resilient enough to catch an adult body — she didn’t want people to break their necks by accident.
+
+If she were to break someone’s neck it would have to be deliberate.
+
+Lady Azar was there, entertaining guests and envoys including that prick Baranese who had at last shut up now that the threat of draconic incineration had been made clear. Viv was sort of miffed it had taken her daughter’s threat to make him shut the fuck up. Hadn’t Viv herself murdered Tarano during a ‘truce talk’? Wasn’t she a proven lunatic herself? There was the problem with going legal: people thought you retired as a hellion. Like she was going to stick to the rules at all times. Crazy.
+
+“Your Majesty,” Lady Azar said. “It appears your witchpact regiments are taking bets on who will be the first to earn a necrarch face tattoo.”
+
+Ah yes, the southern custom introduced by spear maiden Koro. Although she had kids now so maybe she was a spear mommy? Anyway. The witchpact had the right to wear makeup depicting the strongest foe they’d ever slain. The more dangerous ones had undead bear or gut spiller symbols Koro had made on the spot. No one had a necrarch mark yet. Surely they wouldn’t try?
+
+Ah, who was she kidding? Of course some of them would go for it.
+
+“Well, have the blessed quarrels been completed yet?” she asked.
+
+“Your priests are praying over the last barrels as we speak.”
+
+“Well, then, at least it’s possible. I hope it doesn’t come to that though. I’m here to tell you that I will be leaving now.”
+
+“After lunch, surely?” Lady Azar insisted.
+
+Well, it might be her last.
+
+“Fair enough.”
+
+***
+
+Viv and the three dragons flew north. They crossed over the blighted land at a sedate pace, conserving their strength for the battle to come. Viv kept looking ahead with apprehension until, after a couple hours only, they found the squirming mass of revenants. As before, they covered the land for leagues, more a natural disaster than an army.
+
+“They’ve accelerated,” Viv said.
+
+All our outposts are empty.
+
+Maybe they found out and stopped searching for them.
+
+“Undead don’t have a strategy, or so I thought. Well, whatever, we’ll see if our theories were correct soon enough.”
+
+They climbed immediately without approaching the horde, again, at a sedate pace to save strength. Viv had to rein the two young dragons twice because they were boiling with energy. Once they pierced the cloud veil, it was easy enough to spot the dragon golem circling in the distance alongside its reanimated escort. Meadow growled so loudly, Viv heard it over the howl of the wind.
+
+“Stick to the plan, big guy. Patience.”
+
+I know.
+
+They kept climbing, higher and higher, until the three of them could see the massive undead as little more than toys on a background of everlasting dark clouds. It was high enough. Viv focused her mind. Speaking to dragons with images always taxed her mind, but it was easier with all that wind.
+
+We dive!
+
+Arthur and Gale plunged with a roar while a surly Meadow stayed with the payload. With the help of gray mana, the dragons picked up speed. They approached the loose undead formation from behind. It didn’t seem like there were any reactions. Still, the dragons accelerated until the wind blasted Viv’s hair back and she had to use a shield just to protect her face. She sent the vision of two isolated reanimated dragons at the edge of the formation. As they closed in, she activated a massive shield that absorbed black mana, yet still allowed everything else to go through.
+
+[Aspect of the Guardian]
+
+Despite her skills, it was extremely difficult to keep such a complicated construct active but it proved necessary. The ambient mana around the golem was staggeringly powerful to the extent it even ate through her spell. Arthur’s voice pierced through Viv’s mind.
+
+NOW!
+
+The dragons breathed fire while banking sharply. The hot magical breaths covered the two shapes like napalm blankets. By the time the magical fire engulfed the two fliers, Viv and the others had already disappeared under the cloud cover. Their trajectory curved up again. All three looked back at the same time.
+
+A powerful pulse of black mana smothered the devouring blaze, but it was too little too late. Dragon fire was endlessly hungry and by the time the flames dimmed, the constructs were already falling to pieces. It wasn’t long before they crumbled apart. No amount of black mana could animate ash.
+
+“Two gone, four to go,” Viv remarked.
+
+Gale flapped his wings with obvious excitement.
+
+It worked!
+
+We got them good!
+
+His sister rolled her eyes so hard she was probably looking at her own brain.
+
+I told you.
+
+You have to use your head!
+
+Not as a battering ram, mind you.
+
+“USURPER.”
+
+The voice cracked through the wind. It was immensely loud, and coming from the titanic golem still slowly flying in a circle over the presumed horde. The voice was female, a deep alto, and she was definitely speaking in Harrakan with an accent Viv’s borrowed knowledge vaguely recognized as northern. The knowledge burrowed itself in her mind with the promise of a bad surprise.
+
+“Usurper,” the voice said in Viv’s mind. “Thief of legacy. Prove yourself or fall.”
+
+“Who the fuck are you?”
+
+“We shall take your measure. Are you who you claim to be? I beheld your appearance and found no evidence of imperial blood. You are a foreigner. You will face judgment for this.”
+
+The voice ignored her question. By Viv’s sides, the dragons grew agitated. Arthur’s head swiveled left and right.
+
+It is speaking through the air.
+
+Very powerful.
+
+Mother, what should we do?
+
+“It can speak all it wants. We climb again, and then we repeat the same maneuver.”
+
+The two dragons obeyed with surprising discipline. They both had one more breath in them, though they’d need a moment to recover. The third would take a lot more time but that was fine. Viv was more than willing to sacrifice time hanging around if it meant a costless victory. From far above, Viv could see the golem’s baleful eye tracking her progress. The animated skeletons flew closer to the massive construct’s hulking shape, presumably for protection. Arthur’s mind voice trilled with concern.
+
+Mother, they are huddling for protection!
+
+That was not what we expected.
+
+“Yeah because it’s fucking stupid. Now we can spray two for the price of one and hopefully nick the golem as well.”
+
+Gale roared.
+
+They cannot match our intellect!
+
+It took a lot of self-control not to comment on that. Suddenly, a dark shape emerged from the cloud cover underneath at a brisk speed. It immediately rushed towards the golem. Viv blinked. It was another dragon, this one black and slightly smaller than Meadow. Her deep voice brushed Viv’s own, through it felt muted.
+
+Finally, I find you, you cur!
+
+Behold the Wrath of Fire!
+
+You lot, what are you waiting for? Attack!
+
+Under the Harrakan group’s speechless gaze, the large dragoness torched one of the skeletons, then fell upon it as it was already disintegrating. A pulse of black mana hit her straight on which forced her to disengage with a squawk of pain back under the cloud cover from under which she did not emerge again.
+
+All of this had taken around eight seconds.
+
+“Hmmm. Thanks for the assist? I guess?” Viv hazarded.
+
+That was stupid. Gale thought.
+
+That was your entire plan, you dimwit! Arthur thought back.
+
+What would you do without Mother and I guiding your wings?
+
+“Alright, at least she took down one of them. That leaves us with three. Meadow, are you ok?”
+
+Impatient.
+
+“Just one more run and you’re good. Let’s wait first.”
+
+And they did. The undead made no effort to chase after them. Instead, they circled over what Viv suspected was the tornado of undead birds without stopping. The only constant was the golem’s gaze following her with unyielding intensity. Ten minutes later, Arthur confirmed she had recovered enough for one last blast.
+
+“Alright. For victory!”
+
+The young dragons roared with excitement. They might like to fight but they liked winning even more, and Viv’s approach was bearing fruits. The wind howled in Viv’s ears as they flew ever faster. The timing would be tight again but the dragons knew their flying.
+
+“You are cunning,” the Harrakan female voice howled over the powerful wind. “And strong.”
+
+It was spoken with a cold detachment, like a scientist making notes after a successful experiment. The lack of any sort of emotions rang alarm bells in Viv’s mind. Was this the golem speaking or someone else? Golems never commented out loud unless they meant to be heard, because it was an inefficient use of resources. It was growing more and more likely that the golem was not just a relay for orders, it was also being remotely commanded.
+
+That or the golem had a pilot but that felt very unlikely. Viv had seen nothing that resembled a cockpit.
+
+As they approached, the escort animated dragons opened their skeletal mouths. Viv immediately cast her shield, then reinforced it with [Aspect of the Guardian]. Arthur hesitated.
+
+“I got it! I got it!”
+
+Rays of concentrated black mana hit her full on, then more joined it as they made their final approach. Viv grit her teeth. The pressure was monstrous. Where was the golem getting all this power? Despite the onslaught, the pair spat their flames at the huddled form, hitting all three reanimated dragons plus the golem in a torrent of fire. Powerful blasts of black mana immediately dimmed the blaze. The effect was even stronger near the golem. Again, point blank dragon fire was still strong enough to bypass those defenses. One of the dragons fell apart as the attackers emerged again from the cloud cover. Arthur huffed in annoyance.
+
+The fire on the golem is already extinguished!
+
+How?
+
+A second dragon collapsed a minute later, but it looked like that would be it.
+
+“I think Meadow might want to get rid of the last one in person. We should be good to go for payload delivery.”
+
+Why are you talking all weird?
+
+“Sorry, habits from my previous life. We’ve been careful enough, now it’s time to finish this.”
+
+The two young dragons climbed again with renewed enthusiasm. Meadow was more than happy to finally get a move on. Viv judged he must be much more resistant to black mana on account of his size and because old dragons just felt stronger in general. He would still be vulnerable to the black mana pulse if the fate of the aggressive lady was any indication, so she would have to go with him.
+
+“Are you ready?” she asked.
+
+You are like a swarm of mosquitoes when I am trying to sleep.
+
+“I’ll take that as a yes. Let’s go!”
+
+They dove again. Viv expected some sort of reaction from the golem but perhaps it hadn’t been built for aerial maneuvering. Still, its glowing eyes followed them as they approached. Runes glowed alongside the skeletal wings while ethereal winds kept ghostly membranes afloat. The lone surviving skeleton flew near its master, a daunting defense made useless by borrowed Earth tactics. This was it. Viv hoped Meadow wouldn’t miss.
+
+Feel the wrath of She-Who-Feasts-on-Many-And-Collects-Much!
+
+Viv weaved her shield, keeping an eye on the golem as it slowly turned over the horde. The good thing was it wouldn’t be dodging anything. She put some extra power into it, just to be sure. Mana was gathering inside of the massive construct. Arthur and Gale happily screeched on their way down, going faster than they should even though they were here as a decoy. Viv could feel Meadow’s presence lag behind her like a weight on her neck. The larger dragon was so focused, she could feel it.
+
+Something flared inside of the golem’s ribcage only a few seconds before impact. Viv’s eyes widened. Her instincts screamed in alarm. The energy didn’t taste like black mana. It was… transparent mana.
+
+She spotted a glyph repeating across the golem’s surface. She used the same for kinetic blasts.
+
+“FUCK!”
+
+Mother?
+
+Viv switched her shield at the last moment, going for force instead. She only had a few instants. The shield crumbled. The shield reformed.
+
+[Aspect of the Guardian!]
+
+Shock.
+
+Acuity reflex: Expert 1
+
+You may pick a specialization later.
+
+All the air in Viv’s lung kept going down while the rest of her tumbled like a wild weed. The sky was down, then up, then down again. She felt immense pressure. She wasn’t on Arthur’s back anymore. The two young dragons flailed their wings at the limit of her vision before disappearing under the cloud layer. By some miracle, her mind latched on her most familiar enchanted item like a drowning woman to her life jacket: her floating harness. She stopped barreling. With a supreme effort of will, the sky was up again. Her next priority — and everything else be damned — was to get air into her lungs. She didn’t know why because the colder part of her mind insisted she didn’t need it immediately, yet an animal instinct brushed all concerns aside.
+
+Air.
+
+Air, now.
+
+Breathing in felt like pushing a door that had been blocked by a couch. A terrible rasp emerged from her throat, and her first intake of sweet air turned into a wet cough. She could see the golem turn from the corner of her eye, making its way towards her for the coup de grace. Pain wracked her form despite her high tolerance. Everything hurt from her scalp to her toes, and it was all she could do to stay conscious. Her vision darkened.
+
+You are suffering from significant internal hemorrhage.
+
+You are dying.
+
+Fuck. Flesh mending potion. Flesh mending potion now while the golem completed its ‘sharp’ turn. How bad did it have to be that she was so hurt? Anyone else would have gotten pulped for sure. Only her half elemental constitution was still keeping her running. Note to self: enemies adapt too. Dammit. Her shaky fingers found the first potion strapped to her chest. It was shattered. A cold chill crawled up her spine but fortunately, the next one was still intact. She swallowed it in a single gulp. She couldn’t even taste it. She wasn’t even sure she’d swallowed it properly but there wasn’t liquid dripping down her chin right now so, probably. She had to run but she couldn’t. The golem was still much faster than her, and right now, she couldn’t trust herself to hit a single revenant.
+
+“You live,” the detached voice said, emerging from the dragon.
+
+“Impressive, though your path as a witch is a major disappointment. You have displayed adequate adaptability. Your prediction ability, however, leaves much to be desired.”
+
+Viv knew what was coming and she couldn’t resist.
+
+“Hey Bozo. Catch.”
+
+Dropped by Meadow, Solfis slammed into the back of the dragon golem. A last-second pulse made absolutely no difference beyond perhaps further charging him. He didn’t wait, he didn’t speak. From landing on all fours, he turned into a blender of sword and claw with no transition. Pieces of bones flew and the turn was aborted.
+
+“You, I recognize you,” the voice continued with the same complete lack of emotion.
+
+If the voice was the golem’s then it didn’t care it was getting picked apart. The last animated dragon was torched by Meadow’s deadly fire though the dragon was too heavy to stop. He still gave Viv a passing glance.
+
+I will help the young ones.
+
+Good luck.
+
+//YOUR MAJESTY, I RECOMMEND INGESTING ALL THE POTIONS YOU HAVE LEFT.
+
+//IMMEDIATELY.
+
+“You are Golemics Grandmaster Irlefen’s pet project,” the voice said.
+
+Viv wanted to ask why since the potions were the super expensive kind and she’d already swallowed one. As soon as she realized that, Viv correctly assumed she had brain damage so she reached for another flesh-mending potion. Who gave a crap about money? She was bleeding out. Healing magic no longer had any effect on her so alchemical help was all she could get, even though potions had diminishing results when consumed too quickly. By Neriad’s unmentionables she was going to soak her own body like meat in a marinade. Her vision cleared after the third and last unsmashed one. Part of her abdomen had grown stiff and she was already getting thirsty so yeah, internal bleeding for sure. Not good. At least her concussion was slowly disappearing. Fuck. It had been a long time since she’d almost gotten killed like that.
+
+“Very clever, to send a golem after a golem, and to solve the flying hurdle by enlisting the help of a dragon. Good improvisation skills. Perhaps a necessity born from a lack of planning.”
+
+“Is the undead horde also part of the job interview?” Viv spat with as much sarcasm as she could salvage.
+
+“Yes.”
+
+Viv sputtered, then she asked the question that had been burning her mind for some days now.
+
+“Who, or rather what, are you?”
+
+“You should have enough information to draw the proper conclusion and act accordingly,” the voice replied just as the dragon’s spine collapsed, revealing the core. Solfis grabbed for it.
+
+“I will now self-destruct this tool. The assessment will continue until I am satisfied.”
+
+“Uh oh.”
+
+//YOUR MAJESTY.
+
+//FLY.
+
+Viv didn’t have to be told twice. She dove head first towards the cloud cover which proved to be an immediate mistake when the urge to vomit made itself known. She swallowed her saliva and focused. The cloud cover enveloped her in a dense mist of darkened droplets. She was feeling very cold.
+
+She was forgetting something. Her instincts screamed again. Shield? Shield.
+
+[Aspect of the Guardian]
+
+A large explosion sounded out of sight, somewhere to her left. The shockwave rang on her protective bubble with a loud ding. She broke through under the clouds.
+
+The explosion must have been larger than she’d thought, because the thick, ever present blanket of gray had been pushed aside and for the first time in centuries, a ray of sunlight pierced the perpetual gloom of the deadlands, a bright, hopeful yellow that was nice while it would last. Below, the horde was in a sort of tizzy. The undead flier hurricane was in the process of breaking apart while the horde itself was losing its organized feel to be more of a mindless mob. A few of the deadly forms of the necrarchs were fighting among each other. Nevertheless, it was still moving like they’d feared. Right towards Sinur’s Gate.
+
+Viv spotted the falling form of Solfis briefly going through the light beam on its way down. She wasn’t worried since the sturdy golem was designed to survive terminal velocity. Silverite was a crazy metal. Beyond that, four dragons were flying here and there including the black one who didn’t look so fresh. Right. She made her way to Arthur first. The dragoness was already in the process of reaching her.
+
+Mother!
+
+Motherrrrrr!
+
+I was afraid you would be mortally wounded.
+
+Well, Viv had been, but thankfully she was rich.
+
+“I’ll be fine.”
+
+She’d be pissing blood for a week.
+
+“We should get Solfis and fuck off to the mana-cleansing springs. I think the black dragon needs it.”
+
+I am She-Who-Rides-The-Storm’s-Darkest-Clouds, human!
+
+Do not dare presume anything!
+
+My kin carrying you on her back is a disgrace!
+
+A disgrace of the highest order!
+
+I will not remain in your presence a moment longer now that the aberration is destroyed.
+
+“I’m pretty confident Judgment meant for you to help with finding the culprit as well, but sure, he strikes me as the patient and forgetful sort,” Viv replied.
+
+Arthur grabbed Viv from the air with a gentle hand, then placed her on her back before giving  She-Who-Rides-The-Storm’s-Darkest-Clouds an even darker glare.
+
+Then enjoy puking black goo for the next three days, idiot!
+
+Meadow rose from the horde with Solfis in his claws. He also aimed for the springs. It took exactly two seconds for Stormrider to change her mind.
+
+What are these springs you mentioned?
+
+Just as they flew, Viv felt a familiar nudge on her soul. Curious, she prayed to Neriad.
+
+“I send you a ton of mana, oh Great One.”
+
+“Outlander, a remark if you will. Cassia’s Last Gift was the culmination of a lifetime of love and sacrifice for her people. It is not a dragon spa.”
+
+“I’m trying to stop an undead invasion with internal bleeding. Would it be too much to ask for everyone to get all the way off my back for one gods-damned minute? Also how the fuck do you know what a spa is?”
+
+“...”
+
+“Hello?”
+
+But the God had disappeared, and so had Viv’s patience.

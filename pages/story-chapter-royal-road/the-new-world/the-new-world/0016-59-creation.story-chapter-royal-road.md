@@ -1,0 +1,331 @@
+---
+id: 4cd75470-c299-57dc-97e4-eb187a7b2885
+page-type-slug: story-chapter-royal-road
+title: "59 Creation"
+slug: 0016-59-creation
+partOf: the-new-world
+position: 16
+ownLength: 4956
+unit: words
+ownProgress: 4956
+publishedAt: 2017-10-16
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/168410/59-creation"
+royalRoadId: "168410"
+markedReadAt: "2026-06-29T21:21:16.079Z"
+---
+
+I dropped from the pillar before slamming into the ground. The echo rippled through the chamber, my feet digging into the stone. I glanced up,
+
+“What do you mean made you into what you are?”
+
+Althea’s hands shook, like literal fear was crawling across her skin. It was like watching a war victim who couldn’t handle the sound of gunshots. I walked towards her before raising my palms to her,
+
+“Hey, calm down. Focus. You can do this. You’re a fierce, strong woman. Not a little girl anymore. There’s no reason to be afraid.”
+
+She closed her eyes, and sighed. Her hands steadied,
+
+“Yeah, ok. Just, when you reached for it, it all came rushing back and I didn’t know what to do.”
+
+Her arm turned to normal, her combat fatigues folding against the touch of her silver skinned hands,
+
+“I uh…Don’t touch those things. If you touch them too much, then you won’t be normal anymore.”
+
+I crossed my arms, “Alright, please give me some details. How do you know all this?”
+
+“Because that’s what the lab put on me. They would put the uh…the energy that’s pouring off that, they would infuse that with me. After enough exposure, I wasn’t the same. I started to have nightmares, then those nightmares would come to life…You know, how my body…deforms.”
+
+I nodded, “Yeah, so you’re scared that shit will happen to me too?”
+
+She nodded. I shrugged, “I doubt it.”
+
+“Why?”
+
+I tapped my armor with a knuckle, “Because of this. It’ll just absorb the energy. Torix didn’t even tell us about this. I'm guessing he didn't want to have to negotiate with me about it."
+
+Althea nodded. She shook her arms for a second before raising her rifle and firing several spears at the pillar. They made a makeshift staircase.
+
+“Use those to climb the pillar. Sorry about the freakout. Just…bad memories.”
+
+I nodded, “Well I wouldn't apologize too much. It could definitely be a good thing for me to have a bit more fear.”
+
+Turning towards a spot of noise, Two beetles cannibalized one of their own, fighting over the corpse. They ripped it apart as I sighed, “Besides, this place can’t be good for either of us.”
+
+Althea raised her rifle, firing two more bolts at the beetles. The insects died while she nodded, “Yeah, let’s get out.”
+
+I turned and jumped up the spaced-out steps that Althea made with her spears. She could control how deep her spears pierced, something I hadn't known about till just now. It gave her some useful utility in the future.
+
+Once I reached the top of the steps, the spire of white light was blinding. The core rippled, the horns grasping for anything that dared touch it. I tried using a telekinetic tether to pull it out. My magic couldn’t even begin to get through the cloud of energy pouring around the core. Gritting my teeth, I reached out my hand, my armor smiling without me doing so as well.
+
+When my hand touched the energy, it was cold. An icy numb that was like needles piercing deep down to your bones. The needles couldn’t get into my bones anymore though, since the bones were mostly eldritch eating armor by then. My armor began feasting on the energy, disrupting the flow of energy pouring out of the dungeon core. With a quick jolt, I shot my hand into the flow of energy and grasped the core.
+
+The frigid numb crawled up my arm, into my shoulder, even etching a few inches up my neck. My armor caught up with the sudden flux of energy, gorging with an open appetite. A few moments later, the horns of the core scratched my armor. The core voraciously gored my hand, attempting to tear my limb to pieces. With my flesh and body being tough as it was, the core did so with a grand struggle.
+
+The core stopped turning after a few more seconds, like gears in an engine breaking. Once my hand gripped across the whole thing, I pulled out the core. It screamed, the noise paralyzing like an ambulance’s alarm blaring right beside your ear. I kept pulling before the core ripped out. I fell backwards before catching myself with telekinesis on the pillar.
+
+I let myself swing downwards before my feet planted into the pillar, the telekinesis supporting me like a rope. The core’s red vibrancy died down, the red giving way to black as the core of it expanded. By the time I lowered myself from the pillar, the core looked like a normal red core from any other dungeon. Well, besides for the steam and intense heat radiating from it.
+
+Glancing up, the flow of energy radiating above destabilized. Wobbling like a guitar string, it shifted back and forth. With each vibration, the fluctuating flow turned more and more chaotic until it could no longer sustain itself. The energy snapped.
+
+Once the energy disappeared, the roof collapsed along with the pillar. With a surprising finesse in my movements, I shot out a series of telekinetic bursts. Each wave hit boulder after boulder of rock, deflecting them away from me. Althea ran towards me, getting inside the safe zone I was creating.
+
+A bead of sweat poured down my forehead before I barely deflected the last boulder falling on top of us. The shell of rock that made the top of the mountain was gone, piles of the blue magma pooling up in the crater. Glancing up, at the sky, a perfect square formed. It changed the red sky to rock. Another square appeared, outlined by blue energy.
+
+Hordes of these squares appeared in sync moments later. They webbed outwards from where the beam of white light had crashed against the sky. Within seconds, a cave formed around us. The air changed in scent and flavor. It was harder, more ordered. The ground grew softer, like normal rock. Before I knew it, the giant cavern closed in, becoming a much tighter corridor.
+
+It was surreal watching the matter warp with such ease. Althea gazed at the wonder as well, her eyes glazed over at the spectacle, just like mine. We were now in a cave, much like BloodHollow. The blue magma traveled in streams overhead and underfoot. Sheets of clear crystal let us see them, keeping the blue magma from pouring on top us.
+
+Glow worms hung from the roof, mixing the blue light with a green glow. The transition was beautiful, like watching order crush chaos under its heel. A moment later, a finger appeared out in the center of the air. It hung on nothing before pushing downward. An almost casual rip in dimensions appeared beside us.
+
+From it, the overseer I found talking with Torix walked out from the portal. With giant hands, the enormous figure, and with his hair made of electronic cords, he nodded,
+
+“Impressive. I stand corrected. The lich was correct.”
+
+Althea and I couldn’t even comprehend him. Everything happened so fast. The Overseer glanced at us,
+
+“Excellent work, harbinger. Being able to stabilize an opened rift…impressive.”
+
+I shook my head, clearing my head. I glanced up at the overseer,
+
+“Uh, yeah. Of course. Glad to help…”
+
+The overseer opened a menu screen just like ours. Instead of being blue though, it was red with glowing white outlines. It was like the edges of his menu screen were drawn in with liquid light.
+
+“I will add this feat towards your total reward after Yawm is dealt with. You will receive Schema’s favor for clearing out the infected, killing named ones, and clearing out the opened rifts then.”
+
+I nodded my head, my focus coming back after the initial shock subsided,
+
+“Why wait till after I kill Yawm? I could use the rewards to help kill Yawm.”
+
+Four other screens appeared, the overseer multitasking,
+
+“Most of the rewards are related to galactic status and protection. They will not assist in destroying Yawm.”
+
+“Oh.” I glanced at Althea. She kept her head low. I turned my gaze back towards the overseer, “What-“
+
+The overseer spoke at the same time, but his voice overwhelmed mine. It wasn’t an interruption, however. It was more like whatever he had to say was obviously more important than whatever I had to say,
+
+“That…armor of yours. It does offer quite an advantage when paired with an ambitious mentality, doesn’t it?”
+
+For once, I wasn’t the one asking questions.
+
+“I suppose…”
+
+“I read up on your file. This was supposedly the creation of an eldritch…A shell for someone else that you stole?”
+
+“Stole is a strong word I think. It’s more like I stole it from him before he stole it from someone else. A free for all if anything.”
+
+The overseer glanced at the rock walls of the cavern. He nodded, taking his time before speaking once more,
+
+“In time, you will become one of the many swords that Schema has at his disposal.” He glanced at Althea, “You may be as well. Keep this in mind, younglings.”
+
+He glanced upwards at the glowing lights of the cavern’s roof,
+
+“There’s plenty of beings that despise Schema. They believe him cruel, uncaring, and unkind. In a way, they are correct. Schema is a force of nature, like wind or rain. The question isn’t whether or not Schema is bad or good. The question is if you choose to work around him. Imagine an example of other natural forces.”
+
+He waved a hand. A hologram appeared around us, lifelike in its detail. A valley was present with two rustic houses. On one side, the house was built out of sticks. On the other, it was made of stone. Above the stone house, a windmill spun.
+
+“Do you see these homes?”
+
+Althea chimed, “Yes sir.”
+
+“Now watch as I introduce rain.”
+
+The rain poured in a torrent. The insides of both homes appeared, a man and woman in each of them. In the stone home, no leaks or drops of water poured in. The wind battered against their house and windmill, powering their stone mill as they sat beside a warm fire. Behind their house was a well. The view of the house panned above it, showing how it was filling up.
+
+“This home uses a well to wield the water of the rain. Their windmill is powered by the storm’s wind. They will rest easy, protected by the sturdy walls they built, in each other’s arms. The gentle crackle of the fire and the pattering of the rain of their roof will be a symphony of ease to their ears.”
+
+The perspective melted before the other home appeared. Wind leaked in through cracks in the walls. Leaks let water pour in from every nook and cranny. With no fire, the man and woman froze, each of them balled up. They weren’t together, they were alone. Their house was built too low on the plain, at the bottom of a hill. Therefore, a portion of their house was flooded.
+
+They shivered, alone and dirty.
+
+“Two families given the same circumstance, yet one triumphs among adversity. The other wilts into nothing. One family took the time to work until their future was assured. The other did just enough to live. The two of you can decide if Schema is the wind keeping you cold and the rain that chills your bones.”
+
+The image melted, showing us the warm, orange light of the fire,
+
+“Or you turn Schema into a force that grinds the grain that you bake to bread and the rain that waters the crops you turn to plenty.”
+
+The overseer turned to us, the hologram melting back into the backdrop of the cave surrounding us,
+
+“How I do love telling stories. Farewell, and good hunting.”
+
+Althea and I watched as he stepped back into the black abyss that was a tear in dimensions. As quickly as he came, he left, leaving us there.
+
+Althea nodded, “Wow. He sounds a lot like you.”
+
+I nodded, staring at where the overseer was, “Yeah he does…Hell yeah.”
+
+A moment later, and another tear in dimensions appeared. Instead of a finger, a spearhead tore through this dimension. Instead of being a black abyss, the portal opened into a world of violet light. A sentinel stepped out, standing two heads taller than I. It glanced down at us as the dimensional tear closed behind it.
+
+It slammed it’s spear, a line appearing in front of us. It spread open, revealing an area just outside of the dungeon’s entrance in the field. No longer was it a fleshy, disgusting crevice. It was an orderly set of stairs leading towards a different doorway. The sentinel pointed at this dimensional opening,
+
+“Leave.”
+
+Not wanting to argue, Althea and I stepped outside. The wind flowing through the stadium brushed against us. The soft feel of earth and grass pressed against our feet. The warmth of sunshine bristled against us. A series of notifications appeared in the corner of my screen. I glanced around, finding Kessiah and the guards still standing at one of the entrances to the stadium.
+
+Kessiah put her hands on her mouth,
+
+“Well that was fast.”
+
+I cupped my own hands around my mouth, “How long where we gone?”
+
+“You guys weren’t even gone for fifteen seconds. You jumped into the portal then walked out after a few seconds later.”
+
+I lowered my hands and pursed my lips. It looked like the eldritch portal might have dilated time a bit. Like the hyperbolic time chamber or some shit.
+
+It’s uses were no doubt interesting, but that was food for thought later. Althea and I ran towards the others, the dungeon core still in my hand. We jumped up through the stadium bleachers before reaching the others.
+
+Kessiah grabbed me under her arm, a tattoo made of elegant lettering in a language I didn’t know creasing. Kessiah picked me up, hugging me as she said,
+
+“See? Told yah you could handle exile. You’re gonna be fine.”
+
+The stone beneath her cracked. She set me down,
+
+“Damn. You got way heavier didn’t yah?”
+
+I spoke, “A bit. What do you mean you knew I’d handle it?”
+
+Kessiah glanced around like she said something she wasn’t supposed to. She tapped the edges of her hips, her violet skin radiant in the sun,
+
+“Well, the cores inside of rifts are notoriously difficult to take down. Anyone who can, they gain a title, Rift Closer. We figured you’d be able to, considering how your armor works.”
+
+I raised a fist to shoulder level, “That’s what the fuck I’m talking about. I don’t know what titles are though.”
+
+Kessiah pointed above her head. Her name appeared, along with two other lines of data below it. The middle line was her title, King Killer. The one below that showed her level.
+
+“They kind of act like status symbols. My title is in the middle of the tiers. There’s lists of them if you want to check them out on message boards. Some people obsess over which title is better, and the tier list if constantly changing.”
+
+Althea raised an eyebrow, “Sounds like you know a lot about them.”
+
+Kessiah grinned, scratching the back of her head. Her white hair flowed between her fingers,
+
+“Yeah. Guilty as charged. I check them out from time to time. Rift Closer is a kind of wildcard title. It means you have some unique ability that lets you close rifts. Whether that ability is useful in combat is a different story altogether though. It’s hard to tell at a glance, but paired with a high level, and the title can really hold some merit.”
+
+I peeled the armor covering my face back, “Well, cool. Sounds pointless though. Why try to appear powerful when I can simply be powerful?”
+
+Althea chimed, “I’m sure plenty of people thought the same thing about charisma builds. You can’t get more power by killing monsters with Charisma really. You can get power by talking though, and I think that’s powerful in its own way. I’m sure titles are like that.”
+
+Kessiah pointed a finger at her, holding her hand like a gun. She fired it at Althea while saying, “Bingo.” Kessiah lowered her hand, continuing,
+
+“It’s useful as fuck when roaming around the galaxy too. Imagine Yawm walking around with such a high bounty on his head. You see his title, Sentinel Slayer, then his high level, and 99% of people turn the other way.”
+
+With a bit of intuition, I thought about making my title and status appear overhead. A little notification rang out beside my ear, letting me know it appeared. It may be useful in the future. After handling that, I clapped my hands,
+
+“Alright then, you guys ready for the next dungeon?”
+
+Kessiah shook her head, “We gotta kill the rest of the guards here. They may not be the smartest things, but leaving them behind isn’t the smartest idea.”
+
+Althea cocked her rifle, the steam hissing before she armed a bolt into the chamber of it,
+
+“Then let’s go.”
+
+We set off towards the outer layer of the stadium. Using my perception, I sensed for anyone nearby as we walked. I would use hearing, smell, and enhanced sight for finding the monsters stalking around the arena. One by one they fell, each of them easier than the last. The experience they offered was much lower now, partially because none of them were over level 800 and I was a higher level too.
+
+It didn’t mean I didn’t gain any levels though. After killing the guardians of the rift, the rift’s monsters, and the scorpion queen, I was sitting at a comfortable level of 740. It just so happened that today we were walking home. It was a one of those days where Althea was feeling chatty. She and Kessiah where telling simple stories about everyday stuff.
+
+During one of Althea’s stories, Kessiah gave out the dungeon cores we needed. It was a good time to stock up on any bonuses we had since everything had slowed down. As they chatted away, I absorbed the dungeon cores and began grinding out my stats. They left me behind while I stared at my status screen.
+
+The last time I’d maxed out my dungeon cores was level 563. With the genesis of potential perk, I could get half of my level’s worth of bonus attributes and bonus skill points from cores. That gave me a solid boost of 88 attributes on top of all my levels ups. With that in mind, I poured my points into constitution before the message I’d been waiting for appeared.
+
+Star Matter(Have 1000 points in a single attribute before level 1000, Constitution over 1000) –You have become a center of mass. Embrace your frame, and move even stars. Every eldritch killed over level 1000 adds another year of life. Increases living time without air by 200%, and grants immunity to cancer. +10% more density, weight, and height per 1000 points in constitution. You may choose to add 1/10th of constitution to any attribute of your choosing, besides constitution or endurance. You may now unlock a unlock a class.
+
+The first thing I noticed was how a lot of the benefits were similar with the endurance perk. These perks weren’t designed with the idea of someone getting more than one. One of the interesting differences came with the last remark, a message about getting a class. It didn't mention anything about getting a class though. I'd research it for a bit before asking Torix again. I could sit down and read through my obelisk for a bit about it.
+
+The other benefits from the perk were far more translucent. Even with the overlapping bonuses, the perks were worth getting if only for the increased scaling they offered. The extra 1/10th on any attribute was worth chasing for all by itself.
+
+Which attribute will you select for the 1/10th addition? Strength, Will, Intel, Luck, Char, Dex, or Per?
+
+For a second, I thought about putting the extra 1/10th of an attribute into willpower. I got a huge bonus for willpower, and the stat was one of my key stats. After a few seconds of number crunching though, I discovered that I may be able to get four of these level 1000 stats before I passed the level 1000 stat mark.
+
+It sounds crazy, but most people would be able to get at least two of them before hitting level 1000. That is, if they knew about the perks. Since I invested so heavily into endurance and maximized my total stat count as much as possible, I’d be able to get four instead.
+
+With that in mind, I put the extra 1/10th of the attribute into strength. After that, I began placing all my excess points into willpower. If I pulled this off, I’d connect the two attribute chains of my stats while getting myself four of these level 1000 perks. My endurance and willpower would both feed into constitution. After that, constitution would feed into strength.
+
+Strength would then feed into…well, I hadn’t decided yet. I’d decide once the option was there. With all that stat stuff in mind, I allocated the rest of my attribute points into willpower. After that, I finalized my decision.
+
+Weight, will, and strength surged through me like an electric jolt. My armor snapped once more, bursting as I molted from my previous, tight shell. A layer of muscle built on my frame. My shoulders grew broader, my hands larger. My structure turned thicker, making me look compact despite how tall I was. I shook my head as my helmet split open before regenerating.
+
+The muscle within my armor enhanced, turning thicker. The cells contracted with greater force. This surge of strength was a dangerous and delicious cocktail, something that was short and fleeting. The high faded before I sat in the resounding radiance it left behind.
+
+I turned my hands, inspecting them for differences. They were similar, but my knuckles were larger along with the bones of each finger. While not oversized for my body, my hands were larger than normal. They were kind of like clubs at the ends of my wrists. The difference didn’t stem from constitution though. It was purely strength.
+
+While constitution made me bigger and heavier, it didn’t change my proportions. Strength did. Strength made my hands bigger, my shoulders broader, it even changed my jaw. While I wasn’t outright alien, it did make me look different. Almost like humanity if we had a few more million years to evolve, physically speaking at least.
+
+After noticing all these changes, I glanced at my status screens. Glorious.
+
+Level 740
+
+Strength – 507.4 | Constitution – 1000.7 | Endurance - 1077
+
+Dexterity – 176.2 | Willpower – 604.7 | Intelligence – 205.4
+
+Charisma – 60.1 | Luck – 85.6 | Perception – 123
+
+************************************
+
+My stats were high. So high, they almost blew my mind. My strength had increase dramatically along with my constitution. Health and health regen increased slowly but surely. The amount of ambient mana I received from the rift was higher than I anticipated as well. It was a much higher amount than clearing normal dungeons.
+
+My physical damage bonus was insane as well. It seemed more like a way of measuring general strength than physical damage. With that being the case, I was now strong as fuck. When I clasped my hand into a fist, it tensed with the pressure of a hydraulic press. It blew my mind how powerful I’d become, and so quickly.
+
+It was all because of my armor when I thought about it. My armor gave me the extra edge that always kept me one step ahead of Schema’s curve. It was like Schema’s system was balanced around the idea of someone having only the stats that Schema gave them. If you had even a marginal amount more, then you could use that slight bonus to snowball into more and more bonuses.
+
+If I was the snowball, I was tumbling down the mountain fast and hard. With that in mind, I caught back up with the others. As I ran, my feet shook the ground a bit, even if I tried making my footsteps quiet. If I let them smack against the ground, they straight up broke into the concrete. It was really weird.
+
+It was like the rock wasn’t as solid. It wasn’t like water or anything, but like a thick, brittle putty. If I pressed against it, my hand would sink in some. At this point, I was heavy enough that figuring out gravity magic would be downright diabolical.
+
+It made me bubble with excitement as I caught up with Althea and Kessiah. Trotting up, I lined up beside them. As I did so, Kessiah turned towards me. Well, it wasn’t towards me anymore. I was taller than her now.
+
+She frowned,
+
+“What the fuck? How in the hell are you taller than me, little man?”
+
+I grinned, the satisfaction clear as day on my face as I peeled my armor off it,
+
+“Ahhhhh, it feels good to hear that and know it’s ironic.”
+
+Althea giggled before Kessiah’s frown deepened. For someone so old, she still had a pretty petty side to her. A stubborn, petty side. Kessiah crossed her arms,
+
+“We’ll see when we get back to the camp. I’m not letting you get out of the spar now.”
+
+I slammed my fists together, “I look forward to it.”
+
+Kessiah grinned, “Looks like I need to beat some more fear into you again.”
+
+I shrugged, “We’ll see.”
+
+We chatted as we walked, a bit friendlier after Althea commented on how ridiculous the two of us were being. By the time we reached the camp, the three of us were having an animated conversation about our builds. Althea already gained the level 1000 perk as well. She invested very, very heavily in the stat total, to a ridiculous extent even.
+
+Her next goal was dexterity, so that she could fire and move with more precision. According to Althea, it was a standard rogue set up. Kessiah kept pretty standard, investing almost entirely into constitution and strength. She knew all about how the stats ‘fed’ into each other. It was why she decided to become a warrior.
+
+Of course her skill layout was entirely different than mine. I focused more on striking hard and fast, with compact hooks and straights. I would take advantage of opportunities if they arose, otherwise I stuck to the basics. Kessiah had quite a bit of her latent power hidden behind her mythical skill, Blood Arts. It was the official name for her hemomancy.
+
+If I could, I’d bring it out of her this next time we fought. We reached the sewer nearest towards the camp before raising out of the ground. Once we’d had short rendezvous with Torix, the four of us went towards another intersection bridge.
+
+The day was waning, the orange glow of a sunset peaking over the horizon. That orange light bathed us in light, the wind keeping us cool. The ground was cool on my feet too, the sense of touch going straight through my armor. Kessiah and I walked up beside each other before Torix turned towards me,
+
+“I’m amazed you wish to be destroyed soundly once more.”
+
+I shrugged, speaking with a quiet confidence, “We’ll see.”
+
+Kessiah grinned, “Good. I can’t wait to humble that confidence of yours.”
+
+A magic aura passed by us, going far away and around us. It was the same noise trapping magic Torix used anytime we had secret conversations. He imagined our fight would be destructive enough that we might attract a follower or two if we didn’t silence the sound some.
+
+On the other hand, Althea had a bag of popcorn. She tugged on Torix’s sleeve, so he snapped his fingers. A chair of black mana formed beneath her and him before Torix waved at us,
+
+“Now give us a good show.”
+
+His voice echoed from several hundred meters away. They were giving us quite the breadth for the battle. I’d give them a damn good reason for it. I clasped my fists, my ascendant mana roaring in my veins, pulsing through my runes. The energy radiated off my runes, a thick mist radiating off them. I grinned with my armor forming a jagged grin of its own.
+
+From between the teeth, the same ascendant mana poured outwards. It strengthened until the air hummed around me. I stepped forward, and the ground cracked underfoot. The telekinetic lining wrapped around my fists like invisible steel. The sensation of fear crept up my back. Kessiah decimated me last time we fought. Even if my mind forgot, my body remembered.
+
+I grit my teeth. A grin traced my lips as adrenaline laced my blood. My hands shook, but it wasn’t with fear anymore. It an absolute, delectable excitement. It was a fight I knew I couldn’t win. A fight with no holds barred. I could unleash my full potential. Every tactic, every dirty trick, every ounce of anger and hatred, I needed them if I was going to win.
+
+Kessiah shouted, “Don’t burn through your mana too quickly.”
+
+I pulled my fists up, setting into a stance. It was amazing how fighting against the weak made you pick up bad habits. I felt rusty, almost like I hadn’t been on the edge in a long time. Staring at Kessiah, there was a bottomless abyss. I walked right along the cliff’s edge, darting the line when I faced her.
+
+She said, “You ready?”
+
+The ascendant mana roared in my fists. My grin widened,
+
+“Always.”

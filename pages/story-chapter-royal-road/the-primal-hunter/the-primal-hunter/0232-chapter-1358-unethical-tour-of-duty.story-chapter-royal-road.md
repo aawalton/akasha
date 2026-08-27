@@ -1,0 +1,131 @@
+---
+id: e91e61c5-83b2-57af-b149-9b4166b44442
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1358 - Unethical Tour of Duty"
+slug: 0232-chapter-1358-unethical-tour-of-duty
+partOf: the-primal-hunter
+position: 232
+ownLength: 2674
+unit: words
+publishedAt: 2026-07-21
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3706834/chapter-1358-unethical-tour-of-duty"
+royalRoadId: "3706834"
+---
+
+“This is unethical,” Jake complained, nevertheless not imploring the space worm to stop flying as he sat inside their stomach.
+
+“Ethics are made to be broken!” Sandy shot back in a cheerful mood.
+
+“That’s laws. The saying is that laws are meant to be broken,” Jake muttered.
+
+“And what are ethics but the laws of morality? What but a law decided we must adhere to the philosophical leanings of others, dictating right and wrong, forming our moral framework? I reject such notions and implore us to embrace our own principles, free of control and free to make our own choices, throwing off the chains of ethics and morality that only ever served to slow us down and limit our potential!” Sandy said, trying to sound grand, with Jasper ruining it a little with his next words.
+
+“Never wrong! Stealing good!” the little guy said as he hugged a big gemstone in his paws while forming a small magic barrier to make sure he didn’t actually touch it. Touching it would mean claiming it, which would turn it into Prima Credits and wisps of energy, something Jasper did not want, as he clearly liked holding the shiny object. He was looking way too cute as he sat with Jake inside the worm, admiring his treasure.
+
+Jake was starting to think that Sandy wasn’t a good influence on Jasper, though to be fair, Sandy wasn’t a good influence on anyone. Traveling with the two of them also seemed a little questionable, but Jake couldn’t downplay just how efficient the two of them were as a team, and with Jake now added to the mix... Miranda had been very right to call them an overpowered trio. He also couldn’t fully deny the maniac part.
+
+It had been about half a day since the encounter with a hundred B-grades, and since then, the three of them had made plenty of headway getting further into the massive desert. After some exploration, they had confirmed that the many oases served as a method to fast-travel through the desert, though this only appeared to work for the outer parts of it. There was essentially a belt of oases covering the desert, which they were pretty confident was round.
+
+The three also learned that within the water level, one could discover these small pearls that would allow one to ignore the heat of the desert for up to a day per pearl consumed. They had obtained a few of them, but they were difficult to get and highly contested, making the three not bother getting too many. Jasper didn’t even like them, as they didn’t seem to strike his fancy.
+
+Going past the belt of oases, more treasures and other points of interest started appearing, but the desert also got even more merciless. It got hotter, monsters started appearing hidden within the sand, and they also finally discovered that this far in, there was a mechanic to limit flying too high.
+
+Whenever one went above a certain height, a powerful scorching wind that pushed one away from the center of the desert appeared, forcing one down. Even if someone could withstand the scorching heat, all they would accomplish by fighting it was going more slowly. Jake also didn’t think it was an actual wind, at least not the kind someone like Sylphie could manipulate. It was far too powerful in the system-fuckery department for that.
+
+Anyhow, enduring the desert heat seemed like a horrible prospect. Fortunately for Jake, he didn’t need to, as he was more than happy catching a ride alongside Jasper inside the massive space worm.
+
+While Jake could handle the desert even as it got worse, Jasper found it far more difficult, and he would have to phase and constantly use magic to keep himself from suffering too much. He could still handle it, and being outside for a few hours wouldn’t be an issue, but traveling while enduring such heat for days on end would be a struggle. For both of them, truthfully. In other words, if the two wanted to travel through the desert without torturing themselves and wearing themselves out, they would have to rely on the pearls.
+
+Meanwhile, Sandy, to put it nicely, didn’t give a shit. In fact, Sandy found it pleasant as the worm didn’t even bother flying but had jumped straight into the sand, tunneling through it while being all nostalgic about their days as a sand worm. A few monsters hidden in the sand did try to disturb them, but Sandy ignored them entirely, sometimes just taking a few attacks before getting away, all while complaining loudly to all passengers.
+
+Now, while it seemed unethical to clearly ignore a feature of this desert by being an overpowered worm, that wasn’t what Jake complained about. It was what they did next as they soon approached another point of interest.
+
+“Look alive, people! Closing in on our next objective, and I want this done fast and smooth, alright?” Sandy asked, trying to sound incredibly serious. “In and out within a minute tops!”
+
+Jake sighed, knowing they were about to do something very unethical again. Ahead of them was a small collection of mountains with a valley in the middle, looking very out of place in the desert. Having seen one before, Jake knew that from a distance it was invisible, and only when one got close did the mirage hiding it fade away. It was well-hidden, but there were many skills and methods to find such places, and the combo of Jake and Jasper made it impossible for anything to escape their combined senses.
+
+Within this valley, about fifteen people were already in a struggle both against each other and a large earth elemental that seemed to be the primary objective of this area. At least it had a large gem embedded in its chest, and as they got closer, Jasper confirmed it was indeed their target.
+
+“When will the strike team be ready to deploy?” Sandy asked as they dug their way up through the sand and appeared just outside the valley.
+
+“Give me a minute,” Jake said as he sat with his eyes closed, focusing as arcane energy was woven together in front of him. With his sphere, he carefully observed the elemental and its movements while designing and creating his Protean Arrow. Seeing as it was an earth elemental, a variant notorious for its durability, Jake took extra care to ensure the arrow was as powerful as it could get, even if the elemental was already damaged from the fifteen B-grades fighting it.
+
+These fifteen were three separate parties, and from their movements, none of them stood out. They were fine, in the realm of elites, sure, but none of them were top-tier. They were slowly whittling down the elemental, with the biggest threat coming from other parties trying to eliminate the competition. It was a four-way battle about to be joined by another party. Not for long, though.
+
+“Alright, procurement team, mobilize and get into position,” Sandy said, opening their mouth as Jasper, who had been sitting curiously hugging his crystal, finally let it be turned into Prima Credits, looking very sad about it. After that, he stood up and gave Jake a little wave before disappearing, reappearing in the outside world a moment later.
+
+Instantly, he faded away and teleported closer to where all the fighting was happening, before disappearing even from Jake’s sphere, indicating he had entered some other layer of space or phase of reality. No matter how many times Jake saw the Shimmershroud Planeswarper do his thing, Jake still had no idea how it worked.
+
+Returning his focus to the task at hand, Jake continued weaving the Protean Arrow together, forcing as much destructive potential into it as he possibly could. Soon enough, Jake was satisfied and gave a nod.
+
+“Alright, ready,” Jake said.
+
+“Deploying strike team in 3... 2... 1...”
+
+After the entirely meaningless and time-wasting countdown, Jake felt the pull and didn’t resist as he appeared in the outside world. He was still hidden behind the mountains and activated Unseen Hunter before going any closer.
+
+“Command to team, you are both authorized to act at your own discretion. All I ask is that the mission be carried out without loss. Collateral damage is totally acceptable and maybe even encouraged dependent on how annoying the collaterals turn out to be,” Sandy followed up, losing a bit of their persona towards the end.
+
+Jake didn’t engage in more banter as he relied on Unseen Hunter to remain undetected while moving into the air, wishing the skill would also hide him from the heat as he soon got a good vantage point. From atop one of the mountains surrounding the valley, Jake had a perfect view of the battle beneath. The three parties moved together well, all of them attacking the elemental most of the time while clearly looking for opportunities to strike at the other parties. Sometimes, “accidental” attacks missed the elementals and flow for a member of another party, making the entire situation look incredibly tense and messy.
+
+Making matters even more complex, Jake realized there were actually two other people hidden around the other mountains of the valley, definitely looking to see if they could find an opportunity to take advantage of the situation. Unfortunately for them, they were incredibly outmatched in the realm of opportunists as the trio of overpowered maniacs made their move.
+
+Jake nocked his prepared Protean Arrow as he fully activated Arcane Awakening right from the get-go. Pulling back the string, he charged Arcane Powershot as the potent, destructive energies whirled around him. Mark was already placed on his target, and he pushed the charging of his arrow as far as he could go.
+
+Still unseen, the four groups continued fighting in the valley below, unaware of his presence. Right before he unleashed his attack, Jake even activated Boundless Sight for a bit of an extra boost.
+
+Letting go of the string, the arrow exploded forward, flying towards the earth elemental that was already heavily damaged. Nobody knew that the long fight they were embroiled in was about to come to a very abrupt end, due to the highly unethical actions of others.
+
+The arrow reached its target a moment later, and for good measure, Jake even used Primal Gaze on the elemental, stopping it from attempting to defend itself using energy right at the end. He wasn’t sure if it was needed, and would never find out as his attack did its job.
+
+Flying right in between two people fighting, the arrow struck the elemental in its midsection from a diagonal angle, blasting through its entire body and leaving a massive hole as the entire valley was enveloped in a giant explosion that sent everyone flying back. Jake’s Protean Arrow had been focused far more on pure explosive goodness rather than sharpness, as Penetrating Arrow would handle that part.
+
+Rock was sent flying everywhere as the elemental fell apart, its soul snuffed out instantly by Jake’s attack. Perhaps it would have lived if it wasn’t already heavily damaged, but that was something else no one would ever find out.
+
+You have slain [Lone Valley Elemental – lvl 380] – Bonus experience earned for killing an enemy above your level
+
+This was the strongest attack Jake could unleash, save for also using Event Horizon, but he was pretty confident that would mess up his Stealth Attack. Even Lone Hunter worked, as the system didn’t interpret Jasper and Sandy as combatants, seeing as they weren’t even fighting or had revealed themselves.
+
+Amidst all the chaos, the large gemstone that had been embedded in the elemental remained entirely undamaged as it now floated in the air. Everyone present was still being pushed back by the destructive blast of arcane energy and barely had time to register what had happened as the retrieval team made its move.
+
+Phasing in and out of nowhere, Jasper appeared in front of the crystal and enveloped it in a shimmering mist of energy before both disappeared again, barely showing themselves for half a second.
+
+At the same time, Jake retreated behind the mountain, trying to remain unseen despite his attack, taking advantage of the chaos below and everyone’s focus being on the treasure that most of them hadn’t even realized was already gone. He rushed down to Sandy, who was waiting at the bottom of the mountain, already with their big maw open.
+
+“Go! Go! Go! Get in the escape vehicle!” Sandy yelled, and Jake did as told. A moment later, Jasper had already reappeared halfway down the mountain and rushed into Sandy’s mouth before the worm quickly dove back into the sand.
+
+“Monitoring support, do we have a visual? Is the mission still hot?” Sandy stayed in character while diving deep into the sand.
+
+“No, they all seem way too confused and busy with each other to pursue us,” Jake answered.
+
+“Affirmative. Continuing extraction, but I dare say the mission was a success!” Sandy said happily, their group of three hurrying away from the valley. “Begin survey to uncover the next objective marker.”
+
+“Twenty-three degrees to the left and head straight; some sort of structure there,” Jake said, having detected another place likely to hold treasures through his pulse. “We can have Jasper confirm if anything is there once we’ve made some good distance from the valley.”
+
+“Suggestion deemed acceptable. Good work on a clean job, keep up the performance, soldiers, and we might just all make it home okay. Also, I’ve just received confirmation you’re free to distribute the loot, so take pleasure in the bounty, soldiers!” Sandy said, making Jake sigh.
+
+“I still think this is highly unethical,” he muttered, though he hatefully couldn’t deny the sheer efficiency of their plan. Jake could kill most enemies swiftly, Jasper could go in and out stealing any treasures, and Sandy could function as their escape and transport between objectives. It was truly diabolical, and Jake felt bad for anyone unlucky enough to cross their path.
+
+Jasper, who had appeared within the same stomach as he waved his little paws as the giant crystal that had been embedded in the elemental appeared, floating there surrounded by odd mist energy.
+
+“Jake turn!” Jasper said, pointing towards the crystal, even if it looked like it hurt the little guy to do so.
+
+“I guess you’re right, this is beneath you,” Sandy let out a big, exaggerated sigh. “That being the case, I perfectly understand that you wouldn’t want any of our ill-gotten gains, so I’ll sacrifice myself and take it to preserve your honor and digni-“
+
+Without even saying anything, Jake went over and placed a hand on the large crystal, turning it into blue energy as it dispersed, bringing a system notification with it.
+
+You have successfully harvested 2000 Prima Credits for your Territory.
+
+“Everyone has their price, eh?” Sandy said in a smug voice.
+
+“I can complain and still shamelessly take part in the thievery,” Jake said in a deadpan tone. “Never claimed to be a beacon of morality in the first place.”
+
+The three of them had a loot distribution system in which they took turns claiming whatever they found. Was this fair, as the treasures had vastly different values? Probably not, but they were all allies in the grand scheme of things, so one side getting more Prima Credits didn’t matter.
+
+“Can I take that as confirmation you’ll stay on for another unethical tour of duty?” Sandy asked.
+
+“I will continue to complain the entire time,” Jake said, crossing his arms. The worst part was that the last time he talked with Miranda, she found their current actions utterly brilliant, as it brought in a lot of Prima Credits, got them closer to the better rewards of the event, and minimized the number of enemies they made, as no one even realized who had robbed them.
+
+The worm was silent for a moment before giving a happy hum.
+
+“I believe that’s an acceptable compromise.”

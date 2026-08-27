@@ -1,0 +1,149 @@
+---
+id: 52b3f3c9-20bf-5e2b-b53d-113bb4a9efa6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 153 – To Gem or Not to Gem"
+slug: 0153-chapter-153-to-gem-or-not-to-gem
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 153
+ownLength: 1907
+unit: words
+publishedAt: 2026-07-29
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3740298/chapter-153-to-gem-or-not-to-gem"
+royalRoadId: "3740298"
+---
+
+After forcing herself to sleep for a few hours, Liora woke up with a dilemma. Sure, she had promised herself that she would leave Renir behind. It was the sensible thing to do. She would be dealing with the Night Order and whatever corruption nonsense they have come up with again. They wanted to get Renir at all costs.
+
+Having him dangle around her neck the whole time was like a beacon. They would sense him even if Liora was hidden with Shadow Glide or Decoy Fade. She wouldn't be able to use Featherflash either without dropping him. Leaving him behind was the right thing to do.
+
+But there was also another argument. Every time Renir was separated from Liora, something bad happened to him. Every. Single. Time.
+
+"Why can't you just go into my Inventory?!" Liora cursed, grabbing Renir and trying to pull him into her Inventory. It obviously didn't work.
+
+"It's not like I wanted that. Well, I wanted to regain more of my power, but I didn't want to be unable to stay in your Inventory," Renir grumbled. "What's the sudden fuss about anyway? Aren't we going to help the merfolk?"
+
+Liora stared at Renir. "I am going."
+
+He stared back, and she swore she could see the light orbs that served as Renir's eyes narrowing. "Don't tell me… You're considering leaving me behind?"
+
+"Oh, Liora, you're finally coming to your senses!" Cee praised.
+
+Renir shook his whole body in a resounding no. "No, where you go, I go."
+
+"But those evil mages will be there, and they want to get you back," Liora countered.
+
+"Obviously, but who knows if they won't be able to reach me here?"
+
+"Cee's web fortress is here. Besides, they'll expect me to be with you, not with Cee."
+
+So they argued back and forth for a good while, throwing arguments and counterarguments as to why Renir should either go with Liora or stay with Cee. It was… rather inconclusive as Liora felt herself being swayed all the time. She couldn't settle on a good answer.
+
+"If it worries you so much," Dolphar suddenly said, startling Liora. She hadn't even noticed at which point the merman had shown up. "We can set up a small guard group at the dungeon entrance and in the oasis."
+
+Liora regarded him suspiciously. "And why would you do that?"
+
+"You are clearly very worried for your mate. Understandably so, anyone would be. If we provide him with the necessary protection, then you would be able to focus all of your energy on the enemy rather than worrying about his safety," Dolphar said.
+
+She blinked. Her mate? Right, Renir had told them this whole incredible love story about him being a birdkin. She had nearly forgotten all about it.
+
+"I… I would appreciate it," Liora finally said, after throwing a glare in Renir's direction.
+
+It wasn't that she trusted merfolk. In fact, they could hold Renir hostage and use him to get Liora to do what they wanted. However, she would rather entrust Renir to them, who didn't know his true value, than to take her chances with the Night Order mages.
+
+"Liora, no! You take me with you right now," Renir wiggled his little gem arms viciously.
+
+"I'll keep him close," Cee soothed. "In fact, I'll weave him into an impenetrable web ball."
+
+"Thank you, Cee," Liora said. Frankly, if it wasn't for Cee, she never would have agreed to this. Why was it that the situation was always against them?
+
+But there was no use complaining, after throwing a last look at Renir, Liora prepared to jump.
+
+"Liora…" Renir whispered, watching as she dove into the water after Dolphar.
+
+How could she do this to me? How?!
+
+Renir felt incredible rage. Rage the likes of which he had never felt before. The fact that he was so angry made him even angrier. What did he care if that stupid bird left him behind or not?
+
+But the moment her black iridescent feathers disappeared into the water, he also couldn't help but be filled with worry.
+
+"Cee, we must go after her!" Renir insisted, poking at one of the spider's legs. He wished he could grab it, but this form was extremely limiting. His vision was atrocious, not that it was ever great since he became a gem.
+
+"I don't know if you noticed, but I don't exactly have any flippers, and neither does Smokey," Cee pointed out. "Calm down. Let her do her thing. She'll be better off on her own."
+
+Renir wanted to object. He wanted to scream. Liora? Better off on her own? Without him?
+
+No, that wasn't possible. That airhead would get herself killed at the first obstacle. The number of things the Night Order could pull was uncountable. Sure, Liora was very versatile, especially since she got her underwater adaptation. But who knows what kind of thing those bastards have come up with?
+
+Especially if Lucien was involved. That was what worried Renir the most. What if that bastard was there? What if he attacked Liora? She didn't stand a chance. What if she got killed?
+
+This was excruciating. Renir didn't even understand why he was feeling like this. He had never felt like that before. But the thought of Liora getting hurt or worse, killed… It was unbearable.
+
+"You really are quite the worrywart. But realistically, there's nothing you can do to help her," Cee said.
+
+"What?! Have you forgotten that I am the Pillar of Lost Magic, I—"
+
+"You are a rock. You cannot help her. Even if you have a bit of magic in that little rocky structure of yours, just being with her outweighs all the benefits you could bring her. Trust in Liora a little bit. If things really are bad, then she can escape."
+
+What Cee was saying was logical. Yet he couldn't accept it. Renir just couldn't accept the fact that Liora was alone.
+
+It was frustrating! Why did he even care about a damned bird so much? That's right! Liora was nothing more than a bird. A magpie who only cares for one thing—shinies. All she did was to fuel her own greed.
+
+Yet he also knew that she wasn't just a bird. She was a human reborn as a bird. He'd been inside her head, seen her thoughts, understood how she felt, so he certainly knew that beneath the facade of shiny-obsessed bird, there was a very caring person.
+
+A person without whom Renir would likely be dead. A person without whom Renir would never even get a chance to regain his body.
+
+It was the oddest feeling. Although Renir hated to admit it, he cared for Liora. How long had it been since he actually dared to care about anyone? He hadn't dared to ever since his mother died all those years ago.
+
+I need to get my body back to normal as soon as possible. Before that crazy bird gets herself killed.
+
+"Renir, I'm going to evolve now," Cee said.
+
+"Wait, wait, wait, now?" Renir asked, watching as the spider was wrapping herself up in bundles and bundles of thread.
+
+"Yes. I've been waiting for so long already! I can't help Liora in this form anyway. The best I can do is evolve as quickly as possible. Perhaps, I can actually evolve into something that can fight underwater," Cee said.
+
+"Well, we can never know how long your evolution will take, but I suppose it's best to do it sooner rather than later."
+
+"Okay, wonderful. Let me wrap you up real quick then," Cee said, grabbing Renir and carrying him to one of the banana trees. She quickly spun him a safe bundle, hiding him among the banana trees.
+
+"Wait, aren't you going to show me your evolution options?" Renir asked.
+
+"Nope. You're just going to have to wait and see the result," Cee said mischievously and sealed Renir inside.
+
+This was why he much preferred Liora to Cee. Liora would always show him the evolution option, even if she completely disregarded his opinion in the end. He just wanted to see what possibilities the system offered to monsters. It was a fascinating topic—monster evolution.
+
+But no matter how much he complained, Cee ignored him. All he could do was sit in the bundle and wait. He hated waiting. Especially without Liora.
+
+When Dolphar had said that the situation was dire, Liora expected it to be bad. But not this bad.
+
+The sea creatures, including schools of fish, dolphins, octopi, and even starfish, were corrupted, and they were trying to break into the merfolk city. For their part, the merfolk were resisting them valiantly, using both their immense physical prowess and magic.
+
+But it was clear that very few of them had holy magic to do any real damage against the corrupted creatures, and even those who did have it weren't specialized in it like Liora was, except one of them. But apparently, that one had already fought to the point of exhaustion and retreated. Then again, one of her previous evolutions had given her the power to combat corruption specifically. It was time to test out how well this new form dealt with it.
+
+Liora swam over to the front line of the defense together with Dolphar and then concentrated on combining Purify and Wind Blast.
+
+[You've successfully formed the skill <Winds of Purification>.]
+
+More like, Current of Purification.
+
+As she flapped her wings, the surrounding water filled with the sparkling light of purification. Thanks to Fluid Flight, the skill worked perfectly underwater and spread through the whole front line, engulfing the merfolk and the corrupted creatures both.
+
+The effect was strong and became clear to anyone with eyes. The corrupted creatures… Well, they got purified. Just like that. Of course, without Renir, the purification was going wildly and turning the sea creatures into blightstones. But not every creature.
+
+Those with more intelligence, like the dolphins, who were affected only partially, managed to break free of the corruption.
+
+The merfolk stopped fighting for a moment, staring at the light in the surrounding water with awe. As a consequence of her skills, those who were poisoned or had some other affliction were also cured, so it was extremely useful even if it ate a good chunk of her mana.
+
+"Astounding…" Dolphar exclaimed next to her.
+
+"So where's the source? Let's kick some human butt and shut down the corruption factory!" Liora announced, emboldened by the cheers of the merfolk.
+
+But despite their vast numbers, clearly ready to fight and support her, she distinctly felt a lack of a certain gem by her side.
+
+Stay safe, Renir.
+
+With that prayer, Liora swam forward together with other merfolk, ready to take on a new incoming row of corrupted sea creatures. The battle was far from over. In fact, Liora worried whether the mana reserves would last with how much purification she would have to do.
+
+Most importantly, would she be able to deal with the source of it? Far beyond the horde, she noticed something unusual in the water. A dark stone slab emanating a dark aura that seemed to corrupt anything that came anywhere close to it.
+
+With her new vision that allowed her to see mana, she could spot several more spots like that in the distance. Those were her real targets. She had to purify those if she truly wished to deal with the corruption here.

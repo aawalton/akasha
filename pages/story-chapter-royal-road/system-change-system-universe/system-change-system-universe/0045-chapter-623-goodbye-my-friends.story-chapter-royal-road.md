@@ -1,0 +1,227 @@
+---
+id: 84c18c67-3d8b-5872-834e-1e5a4fea5681
+page-type-slug: story-chapter-royal-road
+title: "Chapter 623: Goodbye, My Friends"
+slug: 0045-chapter-623-goodbye-my-friends
+partOf: system-change-system-universe
+position: 45
+ownLength: 3268
+unit: words
+ownProgress: 3268
+publishedAt: 2026-01-23
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2969608/chapter-623-goodbye-my-friends"
+royalRoadId: "2969608"
+markedReadAt: "2026-06-29T19:58:10.632Z"
+---
+
+Chapter 623: Goodbye, My Friends
+
+It didn’t take too long for him and Silvi to get back. Edgar and Jace were sitting in the clearing talking. Both were completely fine, but some of the clothes they were wearing seemed like they had seen better days.
+
+“What did she say?” Jace asked.
+
+“Surprisingly… she agreed,” Derek said. “And the other blue guy wants to come, too.”
+
+“Great!” Jace said. “Bring him along.”
+
+“What?”
+
+“Yeah, and then forget about him in your Time Prison and go explore the universe.”
+
+Derek couldn’t hold back his laughter. “That doesn’t sound like a bad idea, actually. I thought The Queen was a bit full of herself, but that guy just assumed he could go.”
+
+“That sounds like Holcom,” Jace said. “Very smart guy, apparently. But extremely arrogant and self-serving. More so than me, even.”
+
+“Normally… I would argue with you, but I think you hit that nail on the head,” Derek replied. They continued to chat for a little while before finally going back. Amelia would be a great boon when it came to firepower. She’d already given up her ‘time’ before she beat Jace and then fought Derek, and she was still quite powerful. He would love to see her spar with Braxton, but since she wasn’t going to come until the day of the ascension, there wouldn’t be time.
+
+Amelia, Derek, and Marrick would be great as the vanguard. Edgar would be pretty good support from a distance—raining down lightning on his opponents—and Jace would be like the Energizer Bunny on a charger, eventually being able to stand only behind Derek in strength if the fight was drawn out. And… if he agreed, The Queen and her illusions would certainly help with retreat or distractions if needed. Really, at this point, other than his friends, it wasn’t ‘who they were,’ it was more ‘what can they do to help me get my friends to safety.’
+
+After that, there was nothing for Derek to do but wait around for everyone to get themselves prepared to go. So, he chose to spend the majority of his time with Rayna, Jacks, and the twins. They were going to be the ones he would miss the most. The time spent with them all was very bittersweet. The longer he visited the twins, the less he wanted to leave them.
+
+It hurt his soul that he wasn’t going to be around to see them grow up, but he was certainly going to try his hardest to be able to come back to them one day. Even at their newborn age, he could already tell that Stacy was going to be a handful for her parents. He wasn’t sure about Hunter. He mostly lay in his crib or in the arms of anyone holding him and observed. Sometimes it even became eerie how observant the baby was.
+
+The final farewell between them was heartbreaking, and Rayna chose to stay at home with the babies instead of going to see everyone off. He didn’t blame her. She was having a hard time with everything, and she’d already made her farewells to Derek, Malorie, and the others in private.
+
+The last thing he needed to do before leaving was to pick up his final traveler, the Ascarian woman, Amelia. So, he got Silvi to put her in a big pot, then Void Traveled again. This time, when he walked out of the void, he wasn’t in some high-tech fancy meeting room. Instead, he was on what seemed to be a mostly barren piece of land, or even planet.
+
+When he stepped out, he saw about thirty or so of the red-skinned mini-giants. Then, he saw Amelia standing next to and speaking with one who was almost the same size as she was. He was surprised that, out of the giants he saw, Amelia was still the tallest and strongest-looking of the bunch.
+
+He and Silvi walked over to Amelia. “Are you about ready?” he asked when he got within speaking range.
+
+“Almost,” she said. Then she stepped in front of the gathered giants and began to speak. “Members of the tribe, today is a glorious day! Today is the day that one of your own leaves for greater things!” The group whooped and cheered. “As you know, we are a race of strength seekers! Where I’m going, I will be one of the weakest! And you know what that means?”
+
+From the crowd, one of the men yelled, “That means you get to take on a new challenge! To bring glory and honor to the tribe!”
+
+Derek smiled as he watched and couldn’t help but remember what Dave had told him about the race of Volcano Giants. Dave seemed to have a real respect for them and talked very highly of them. Amelia was, after all, the one reason he hadn’t been sure of a total victory without Derek there, and Derek could see why.
+
+The tribe was definitely small, which also corroborated what Dave said about them being a race with few members. But every one of the giants made Derek feel something. He couldn’t quite put his finger on it, but they had spirit.
+
+“Exactly!” Amelia shouted back. “So, while I travel the universe to seek glory for our tribe, following the one man in this universe to thoroughly defeat me…”
+
+“Derek Hunt, Derek Hunt, Derek Hunt,” the entire tribe began chanting Derek’s name, and pride swelled in his chest. Honestly, he felt an impulse to take them all with him and have a full group of Ascarian bodyguards for Malorie and the others, but that wasn’t practical and was probably just the pride he felt wanting him to make a rash decision, so he pushed it down.
+
+“I shall leave it in the hands of my very capable son, Bramor!” Amelia continued.
+
+That nearly knocked Derek back. She has a son? And she is leaving him? That was very surprising. Then again, he didn’t know much about the culture of the Volcano Giants. Not everyone was as attached to their children as humans were. And from the sounds of the cheers and the smile on Bramor’s face, along with the handshake instead of a hug that he offered his mother, it looked like they might be one of those types of races.
+
+After shaking the new tribe leader’s hand, Amelia turned and walked toward Derek. When she reached him, she reached down, grabbed him by the wrist, and held his hand in the air. The crowd of giants erupted in cheers and applause. Suddenly, Derek wanted to do something for the group, and he had just the idea.
+
+When Amelia let go of his wrist, Silvi suddenly jumped off his shoulder and landed on Amelia’s. Amelia showed surprise at Derek, but not at Silvi. As he walked, he channeled his void into Void Call and released his aura. The eyes of every person in the tribe went wide at the power and his purple glow, but they did not back away.
+
+Soon, he reached the crowd, and they parted to let him in. When he was at the center, he used Void Call. The beam shot to the sky and disappeared, and all the giants cheered. But he wasn’t finished. He kept doing it as often as he could until he reached ten times. When he finished, he dismissed his aura, turned around, and walked back.
+
+“What was that?” Amelia asked.
+
+“Your tribe likes a challenge, right?” he asked.
+
+“More than anything,” Amelia said.
+
+“Then they should have fun with the ten Void Beasts that are about to appear,” he replied.
+
+Amelia’s eyes widened at the words. “You are not jesting? You honor my tribe so?”
+
+“I do,” Derek said. “I couldn’t help but feel a little inspired by the sight of them. Are you okay with leaving them alone to fight? Or do you want to stay to make sure they come out on top? There is a very, very small possibility that one of the Void Beasts that come is on par with your strength.”
+
+“Together, they would be able to take one down if it is of strength similar to mine,” Amelia said with pride in her eyes. “Most likely…” she said, but she didn’t seem concerned.
+
+They stayed long enough for the first Void Beast, which was actually quite a strong one, but not on Asher’s level, to break through. When the tribe saw what was happening with the beast, which was one of the giant ones that was even taller than Amelia—meaning that it hadn’t grown to the point where it shrank and compressed its strength yet—the crowd parted and gave it room to fall.
+
+When it landed, Bramor cracked his neck, then walked forward. Derek stayed for the fight—it didn’t last long. As the man walked toward the beast, he held his arms out, and spiky stone gloves were built from the earth around him and attached to his hands. From there, it was a pummeling.
+
+“Impressive,” Derek said.
+
+“He is a good son,” Amelia said with pride. “He will make a good leader.” She then turned around, and Derek did too. He saw a single tear fall down onto her cheek. “He will make a very good leader.”
+
+“I’m sure he will,” Derek said. “Silvi!” With that, a giant pot appeared in front of Amelia. It was better to do this while all the Ascarian Giants were focused on the next Void Beast—he didn’t want the tribe to think that he was about to cook their former leader, after all. “Sorry, this pot is all I have that will make it safe for you to travel with me for a long distance.”
+
+“Understood,” Amelia said, then she jumped into the pot. Silvi clasped the lid shut, shrunk it to the perfect size, then hopped back onto Derek’s shoulder.
+
+Finally, he stepped back inside the open portal. He looked over his shoulder at the net fight happening with a different Volcano Giant and sighed. That was going to be the last time he would be able to freely use Void Call and his aura like that for a while. Finally, he closed the portal, and then he, Silvi, and Amelia made their way back to Cydaria. For Derek, it would be the last time for an unknown amount of time that he would be there.
+
+When they arrived in Derek’s travel room, Amelia left the pot. She followed Derek out of the room and up the stairs. She had to duck to go under the frames of the doors. The Void Emporium was empty. Almost everyone was waiting at the designated spot, and all the inventory was gone. Everyone except for Marrick, Tyron—with Rocky—Natalie, and a handful of Geoffrey’s workers.
+
+They left the store and saw the people waiting. When Natalie saw him, she said, “I can’t believe I’m letting you do this in my city.”
+
+“It’s fine. Rudy’s contract shop needs to be positioned better, anyway. What better spot than where the Void Emporium is?”
+
+“Hmph…” Natalie snorted.
+
+Finally, Derek yelled, “Everyone! Stand back!” And they did.
+
+He wasn’t actually sure that anything he was about to do would work. He only hoped that it would. He rolled his shoulders, then activated Time Prison. As he had with the dragonkin—which he’d decided to leave to Avery and Lyra to decide what to do with since, in the end, nobody else wanted to bond and take one with them to an unknown place—he focused on making the entrance bigger.
+
+The crowd became increasingly impressed as the door grew larger in front of them. Finally, Derek looked at the door, then over his shoulder. “Just a little more,” he said, and then he pushed. He looked again. “That should do,” he said. He saw Blitz at the very back lift his head up and look at him, then lower it and close his eyes again. He’d made sure to put the wyvern in first to save time.
+
+Next, Marrick, Tyron, Rocky, and the others moved behind the store. They all fell to their knees and placed their hands on the ground. The earth began to shake. Windows in a couple of the nearby shops broke. Natalie clicked her tongue. “More damage to my city…” But she wasn’t actually mad.
+
+Finally, the earth around the Void Emporium cracked, and it—with a thick layer of stone underneath Brandi’s basement—floated into the air. Marrick then stood, floated to the shop, held his hand out, and the shop began its move forward. It cleared the entrance to this Time Prison by inches, and soon, it was situated in the center of the prison.
+
+“That would have been hard to do for these old bones of mine not very long ago,” Marrick said.
+
+“You realize that your ‘old bones’ are actually younger than the twins’ bones now, right?” Derek asked.
+
+“I… no… I didn’t think of that,” Marrick said with a chuckle.
+
+Derek then thanked all the earth mages for their help, and he even stayed to see them fill the hole created and move Rudy’s shop into the space. His shop was much smaller, after all. After that, many left, and a few followed Derek to the meeting point not far outside where the dragonkin were held. That was where everyone was waiting.
+
+Everyone had ample time to prepare, so they were all ready when Derek and Amelia arrived. Jace pounded his fists together. “I’m ready for round two whenever you are,” he said.
+
+“Without cheating?” Amelia asked with a tilted head.
+
+“Uh… no,” Jace said bluntly.
+
+“That’s what I thought,” Amelia said.
+
+“Giant woman!” a voice shouted from within the crowd, then a blur came flying out. “Take my axe!”
+
+Braxton’s axe hit Amelia, and then there was an explosion. Braxton flew into the sky, far away, and Amelia was left standing in a massive crater with a leg bent the wrong way at the knee and what looked like a broken wrist. Five minutes later, she was healed, and Braxton had also made his way back.
+
+Amelia eyed the small man up and down, and Braxton said, “I guess you will be a suitable replacement for me. Protect my friends… specifically that little guy over there who looks like a strong wind will blow him away. He makes the best brew on this entire planet.” He then held a hand out. “Name’s Braxton… Braxi on the Guardian board.”
+
+“So you are the one who crippled Briya,” Amelia said as she shook his hand. “Derek gives me honor by allowing me to gain glory for my tribe, so I will protect the…” She looked over at Roman. “Pipsqueak and the rest of your friends.”
+
+“Then I approve!”
+
+“Okay… are we through with the measuring contest?” Derek asked rhetorically. “Listen up… everyone has already said their goodbyes, so we’re not going to make this an all-day thing.” He opened his Time Prison. “Jace, Malorie, Brandi, Edgar, Marrick, Stella, Bones, Ogre, Roman, Amelia… please enter. You will find that I have included some comforts within.
+
+“My smithy!” Brandi shouted as she ran inside.
+
+Derek chuckled, then his face turned serious. “Thomas! Are you coming?” he asked. Then the boy stepped forward with his head down.
+
+“I… I…” he muttered, then, surprisingly, a stern Richard walked forward and slapped the boy on the back of his head.
+
+“Yes, Derek, the brat is going,” Richard said.
+
+Then, Delilah stepped forward. “We know our grandson. We don’t have much time left. As much as he wants to stay with us to be filial, we will not allow it. His future is to grow strong, to make his parents and grandparents proud.”
+
+Derek smiled and nodded. “Thomas! Go,” he said, then the boy hugged both of his grandparents and joined the others inside.
+
+Derek then looked over the crowd until he saw The Queen and Klaus. “Queen… Klaus… come forward.”
+
+The Queen ran forward with giddy excitement, and Klaus suddenly materialized in the spot as his body at the other spot disintegrated.
+
+“Klaus… you will owe me a favor. I expect you to get strong enough or good enough at something so I will be able to collect one day,” Derek said.
+
+“Oh… I’m on the verge,” Klaus replied.
+
+“That’s not creepy at all,” Derek said. “But… you will not be allowed to stay in the Time Prison once we arrive. I don’t trust you.”
+
+“Acceptable,” Klaus said.
+
+“Go,” Derek commanded, and the former Adventurer’s Guild Leader walked inside. Then he looked at the elven queen. “What is your name?”
+
+“My name? I am Nivara, the former queen of Linderis,” she answered.
+
+“Former?” Derek asked.
+
+“I already stepped down,” Nivara said. Ashley was able to get the teleporters working, so Nivara was able to use them to come back without the need for Derek’s help. He had also procured the teleporter for Brandi to study.
+
+“That confident?” Derek asked.
+
+“Honestly?” Nivara replied. Derek waited. “No, not really. If I am not allowed to go… I will live in Cydaria, and my people can think that I went. And if I do get to go, then it doesn’t matter. And now, I am finally out of politics. Some people’s types do not include those who are political.”
+
+Derek narrowed his eyes. He had no clue what she was talking about, but he decided that he would trust Edgar. “Then you will be under the same rules as Klaus. I do not trust you, so you will not be allowed to stay inside once we are there.”
+
+“Understood,” Nivara said.
+
+“Don’t make me regret it,” Derek said. “Because if I regret it, then you are going to regret it. Do I make myself clear?”
+
+Nivara suddenly became invisible. “As clear as I am right now.”
+
+Derek rolled his eyes. “Go,” he said, and she uncloaked herself and went inside.
+
+“Silvi… would you like to ride inside or out? You will be teleported with me either way,” he asked his companion.
+
+“Want to see what happens,” Silvi said. “I stay with you.”
+
+“Sounds like a plan,” Derek smiled. Finally, he closed the door behind him and pulled the space back together. He looked out over the crowd of people that they would be leaving for a long time. “I guess this is it,” he said. “It will be awhile before I come back. But one day, I plan on returning.”
+
+Everyone nodded. There were a few people crying, but not exactly for him. They were people like Delilah and Richard, who held it together until the Time Prison was shut. Finally, Avery stepped forward and shook Derek’s hand.
+
+“You take care of Stella. If she dies, I’ll find you…”
+
+“And do what?” Derek asked with a smile.
+
+“Probably also die,” Avery answered with a grin.
+
+“If Stella dies, then it is likely that I will already be dead,” Derek said.
+
+“That’s good to hear,” Avery said.
+
+“Take care of the kids and dragonkin. And look in on Rayna and the twins every once in a while, okay?”
+
+“You have my word.” Avery still had all the funds and resources that Alanah had left him and Stella after all.
+
+Finally, Avery walked away, and it was time. Derek focused on his ascension.
+
+…
+
+You have chosen to Ascend.
+
+Are you sure?
+
+Note: This cannot be undone.
+
+…
+
+Derek waved at everyone one last time and said, “Goodbye, friends!” Then, he focused on yes and accepted the ascension. Just as Alanah had done before him, Derek was enshrouded by a bright light. Then, he disappeared.

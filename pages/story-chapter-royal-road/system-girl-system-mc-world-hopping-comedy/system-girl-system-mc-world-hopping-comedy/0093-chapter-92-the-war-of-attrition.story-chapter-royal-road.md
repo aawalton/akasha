@@ -1,0 +1,135 @@
+---
+id: a36728f1-9348-507c-8379-af0f753e1e60
+page-type-slug: story-chapter-royal-road
+title: "Chapter 92: The War of Attrition"
+slug: 0093-chapter-92-the-war-of-attrition
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 93
+ownLength: 2075
+unit: words
+publishedAt: 2026-07-19
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3698149/chapter-92-the-war-of-attrition"
+royalRoadId: "3698149"
+---
+
+Smokey had been a very busy girl lately.
+
+The little shadow pup—who was rapidly becoming less "pup" and more "mythical apex predator"—had discovered a highly reliable, incredibly satisfying method for earning extra snacks. All she had to do was melt into the shadows, locate the foul-smelling man her Pack Father had pointed out a few days ago, drag him kicking and screaming through the abyssal plane back to the house, and voila. Free bison jerky.
+
+Sometimes, if she was feeling particularly motivated by the promise of premium crab meat, she would bring back the people who happened to be standing next to the foul-smelling man at the time. Abducting two or three people at once was harder, but the rewards were exponentially better.
+
+For Caladorel, this had become a bottomless well of information. The best part of this terrifying canine kidnapping ring was that none of the targets ever remembered being abducted, nor did they remember their memories being skimmed by a three-thousand-year-old Archmage.
+
+Today was one such day. Smokey had scored big. She materialized in the soundproof cellar beneath the crab tanks, dropping two dazed figures onto the stone floor.
+
+One was a human in a crisp, slightly muddy butler's uniform. The other was a very confused, very terrified Buck. For the life of him, despite not knowing where he was or how he had gotten there, Buck could not figure out why every instinct in his body was screaming at him to piss his pants and play dead.
+
+It was Buck's memories that had initially informed Caladorel that Lord Greenwood had bribed the Royal Taster to flunk the Seaside Inn.
+
+The butler, however, was a new acquisition. He was a human man, but his uniform bore the crest of House Greenwood. He was most likely belonging to the inner mansion staff.
+
+Caladorel stepped forward, leaning his cane against a crate. He placed his hands on the butler's temples and closed his eyes. He used his usual suite of memory-delving spells.
+
+Usually, Caladorel maintained a mask of absolute, unshakeable composure. He was nonchalant. He was ancient. Nothing bothered him.
+
+But as the seconds ticked by, a dark, heavy scowl carved itself into the old elf's face.
+
+The air in the cellar began to crackle. The old man looked like he was about to rip a hole in the ceiling, storm directly to the Greenwood manor, and raze it to the bedrock. He was so incredibly, violently angry that visible waves of green mana began leaking from his body, distorting the air around him like heat shimmer over a fire.
+
+He pulled his hands away from the butler's head, staggering backward. He looked sick.
+
+Ren stepped forward quickly, placing a firm hand on the old man's shoulder, breaking him from his enraged stupor. Caladorel gasped, leaning heavily on his cane, and sat down hard on a wooden crate.
+
+Ren looked at Smokey. "Be a good girl. Drop them back exactly where you found them."
+
+Smokey, oblivious to the heavy, suffocating tension in the room, let out a happy, silent bark. She grabbed the two dazed individuals by their collars and dragged them back into the shadows, returning them to whatever alley near the Greenwood estate she had plucked them from.
+
+Kaelthos and Sylas were also in the cellar, standing guard by the door. Caladorel seemed hesitant to speak in front of them about what he had just seen in the butler's memories. He looked at the floor, his jaw working silently.
+
+After a long moment, the Archmage came to a decision. Before Ren could order the two staff members to leave them alone, Caladorel spoke. His voice was a dry, hollow rasp.
+
+"The man... Buck," Caladorel began, not looking up. "He was offered a permanent job at the Greenwood estate. As corpse disposal."
+
+Ren frowned. "Corpse disposal? For what?"
+
+"For the last few days, reviewing Buck's memories, I was perplexed at the sheer volume of corpses that exited the Greenwood estate," Caladorel said, his hands trembling slightly on the head of his cane.
+
+He took a fast, shuddering breath. "More perplexing... more horrifying... is the fact that most of these bodies were of young elven girls."
+
+Ren, Kaelthos, and Sylas recoiled physically. The words hit them like physical blows.
+
+I was hovering in Ren's mind. After hearing it, the cold, calculating logic of the System OS supplied the inevitable conclusion before Caladorel even said it. I realized exactly what was coming next.
+
+"Most of them were beaten, lacerated, and abused in ways that defy basic humanity," Caladorel whispered, his eyes squeezing shut. "After examining the butler's memories, I have now confirmed the perpetrator of these atrocities."
+
+He looked up, his milky eyes burning with a terrible, ancient fury.
+
+"Lord Greenwood has a sickening hobby to destress. It involves torturing these poor girls to death."
+
+"But... but that is impossible," Sylas blurted out, stepping away from the door, his usual professional detachment shattered. "By law, it is illegal to take the life of a contracted individual! Even severe, life-threatening punishment is outlawed by the Crown. The Merchant's Association tracks the contracts. How has the State not found out about this yet? The Association should keep track of the numbers!"
+
+Caladorel slumped back against the stone wall, looking every day of his three thousand years. "They are born in Greenwood's own personal elven villages on his rural estates. The births were never properly reported to the census. They do not have contracts, Sylas. They are slaves."
+
+Ren felt a hot, blinding rage boil over in his chest.
+
+These were Lily's people. It was her duty, by the very nature of her bloodline, to care for and protect them. As Lily's father, Ren had always felt a lingering responsibility for helping the elves, sharing in her unspoken burden. He had bought Sylas, Mira, and the guards to save them from a harsh life.
+
+But this time, it was different. This wasn't about giving someone a comfortable bed and a fair wage. Now, it was a matter of fundamental rights and basic human decency.
+
+A thick, suffocating gloom settled over the cellar. The only sound was the distant, muffled bubbling of the crab tanks overhead.
+
+Ren broke the stupor. He slapped his hand hard against a wooden crate, the sharp crack startling the elves.
+
+"Enough playing defense," Ren growled, his voice dropping into a register of pure, lethal intent. "We are going on the offense. I am starting a trade war with him today. I will undercut all of his goods. I'll eat up the loss from my own pockets, but I will make certain that bastard can never sell a single sliver of grain."
+
+He turned his furious gaze on Caladorel. "Caladorel, you are a part of the Royal Offices. You hold official ranks in the army and the King's court. Can't you report this? Can't you take official action?"
+
+Caladorel sighed, a weary, defeated sound. "A decade ago, when I actively partook in military matters and council meetings, I could have raised an inquiry. But my standing and my political powers have always been heavily restricted due to being a full-blooded elf. I am tolerated because of my utility. I am considered a scholar, a royal healer, an eccentric artifact. I have no real political power to challenge a high-ranking member of the Old Circle based on memories I extracted illegally."
+
+Ren pressed on, pacing the small cellar. "There must be something you can do. You must have connections. We can't let this man continue like this. We can't just sit here and bake puff pastries while he tortures kids."
+
+"I agree," Caladorel replied, looking ashamed. "And now I deeply regret being so hyper-focused on my research for the last century. I made no connections. I built no alliances. Only one person comes to mind who has the authority and the inclination to act on this."
+
+Caladorel grimaced. "But that girl hates me to her very core. We have a bit of a rivalry regarding who is the better mage, and our philosophies clash violently. I doubt she would listen to me, even for this."
+
+Ren felt like there was something there. A loose thread. "Who is that?"
+
+"That would be Lady Parisa," Caladorel replied. "She is an active, highly decorated part of the Royal Army. She has investigative rights. She can formally demand to search the estate or pursue the matter legally. The problem is getting her to listen to me without throwing a fireball at my head."
+
+Caladorel tapped his cane against the floor. "She is quick to act, prone to violence, but she has a massive soft spot for elves. The main problem is getting in contact with her. One of her designations is Royal Inspector. She is currently on leave, touring the countryside."
+
+Sylas and Kaelthos, upon hearing the name, reacted instantly. Kaelthos's posture shifted, his hand dropping from his hilt in surprise. Sylas's eyes widened behind his spectacles, a rare crack in his immaculate composure. They both looked directly at Ren, a sudden, desperate hope lighting up their features.
+
+Caladorel paused, catching the intense, shared look between the butler and the guard. The ancient mage frowned, his brow furrowing as he tried to decipher their reaction.
+
+He tapped his cane against his forehead, a gesture of profound annoyance at his own failing memory.
+
+"Ah," Caladorel breathed, his milky eyes widening as the forgotten piece of information finally clicked into place. "Of course. Parisa was here. Recently. She was the entire reason you sent Sylas to fetch me from the Archives in the first place."
+
+The old man let out a dry, rattling chuckle, shaking his head at his own senility. "My apologies. My mind has been entirely occupied since I arrived. I had completely forgotten the bait you used to lure me here. She offered to take the young Lady Lily under her tutelage, did she not?"
+
+Caladorel looked up at Ren, a slow, grim smile forming on his ancient face. "Then the Fenris family already has a very direct, established line of communication with her. A line she will be highly motivated to answer."
+
+Ren, on the other hand, acted decisively. The path was clear.
+
+"Sylas," Ren ordered, turning to the butler. "Bring me something to write a letter on. Immediately. And we are sending her monthly supply of ramen early this month. Very early. We are sending it today."
+
+"Yes, My Lord," Sylas said, bowing sharply and hurrying toward the stairs.
+
+Kaelthos also left the cellar under the crab storage. The warrior seemed deeply agitated. His hands were clenched into fists, his jaw tight. He was eager to patrol the perimeter of the estate, needing to move, to stand guard, to do something with the violent protective energy surging through his veins.
+
+Only Ren and Caladorel remained in the damp, quiet cellar.
+
+Ren leaned against a stack of crates, rubbing the bridge of his nose. The adrenaline was fading, leaving behind a cold, terrifying reality.
+
+"I think we need to tell a few of them about Lily. That is the reason I originally called you here," Ren said quietly. "They need to know why they are fighting. But the problem is her powers are too great. If she gets upset, or if she tries to use her aura... everyone in the village next to the estate would be attracted by it. It would be a beacon."
+
+Caladorel shifted on his crate, leaning forward. "Then the solution is simple, Lord Fenris. Take the ones you trust deeper into the forest. The spirits will mask the aura."
+
+"The spirits?"
+
+"Yes," Caladorel nodded. "I read in an old, fragmented tome that the High Elves of old intentionally started their settlements in forests with high spirit populations. They did it to hide from the humans during the early days of the conquest. The dense ambient mana of the primal spirits masks their aura perfectly."
+
+Ren sighed, running a hand through his hair. "Things are a mess right now. They need to know how high the stakes truly are. They need to know what they are guarding."
+
+He looked at the ancient mage. "Tonight. I'll take Kaelthos, Sylas, and Mira deep into the forest. I will reveal Lily's truth to them. I need all the help I can get, and as things stand, it's better if they know the whole truth. If Greenwood comes for us, they need to know why we can't just run."

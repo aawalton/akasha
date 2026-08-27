@@ -1,0 +1,125 @@
+---
+id: bd182d69-98f2-5e86-87be-504d78b40b9d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 378 : Slime in the Dark"
+slug: 0080-chapter-378-slime-in-the-dark
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 80
+ownLength: 2389
+unit: words
+publishedAt: 2026-04-29
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3331853/chapter-378-slime-in-the-dark"
+royalRoadId: "3331853"
+---
+
+The giant eye was trembling in what I assumed was fury, and hopefully a little bit of terror. Yet I'd made my decision and wasn't going to regret it; even if the unthinkable happened, I could revive through one of my personas on the separate slime network.
+
+Or at least that's how I hope it works.
+
+Yes, it was more of a gamble than I'd usually take, especially with how notoriously paranoid and neurotic I tended to be. Still, I was betting that Gramps or Mother would have somehow sent me a warning if I was out of line.
+
+The eye was out of my range, assuming it even existed in the first place, but I didn't use [Blink] to close the gap. Instead, I opted to use [Thunder Step] as I hoped it would be an enlightening experience for this monster. I also wanted to try to obfuscate some of my dimensional abilities, since, depending on how much he was observing me, he only saw me as I traversed through apertures.
+
+That's also me assuming it even knows what my apertures are. I've been led to believe that anything related to dimensional affinity is rare beyond belief. Actually, this reminds me, wasn't I supposed to work on the upgraded version of [Elemental Step]?
+
+I mentally slapped myself; this was certainly not the time to start obsessing about my skills. I had a giant shadow monster to defeat, and an Emblem to usurp.
+
+Lightning surged through my slimy form, and in beat with the cracks of thunder, I advanced at a blinding pace. I wasn't holding back or discharging; there was no need since I could fully absorb the charge. The eye seemed momentarily stunned, perhaps momentarily blinded by the lightning as I rapidly approached it.
+
+The edges of [Personal Rift] touched the eye, and I caught a glimpse of what the creature was. It was massive yet almost entirely formless, definitely some kind of shadowy mass, and I would've sworn it was a slime given how it writhed and squirmed.
+
+Having my suspicions confirmed, I had my [Sub-Cores] each cast [Light Beam]. In contrast, I cast [Light Bomb], and despite no bonuses from my class or an artificially created affinity framework, the spells came out in rapid succession.
+
+Light exploded into the void, and a terrifying wail echoed throughout the domain. Beams of light struck at the eye, but as they did, it seemed to turn almost gaseous as the spells pierced through it and only singed the edges of their path. The bad times were unfortunately not over, as I saw the radiance of [Light Bomb] quickly be snuffed out as the oppressive darkness swallowed it.
+
+"Now you've done it!" the creature roared.
+
+The creature was still within my rift's radius, and I could sense it swelling as it gathered the darkness into its form. Apparently, this location wasn't just for intimidation; no, this was its home turf, and it could empower itself down here.
+
+The abyss around me trembled as if obeying its master, and it attacked me as shapeless shadows. Tentacles, blades, abominations, and all sorts of shadowy entities were granted solidified form and surged toward me. It felt like fighting a shadow of myself, quite literally! In retaliation, I activated [Voltaic Slime] and let the lightning explode. Unlike the master, these couldn't ignore the attack, and some were outright annihilated in the blast.
+
+Well, that was less effective than I had hoped…
+
+I sighed to myself; I had really thought lightning would be a good alternative. My [Light Magic] was previously neglected, and now would've been its chance to shine if I had been more prudent, or at least less scatterbrained. Still, I wasn't giving up there, as I could also still fall back on fire to provide my light.
+
+I had one of my [Sub-Cores] activate a fire affinity framework and begin casting [Fireflies]. The specific order I gave it was "go nuts," and it seemed eager to please as the endless, flickering lights twinkled in the abyss towards the shadowy apparitions. It was moderately effective, but these were the formless minions, and I was still not even touching the [Dungeon Master].
+
+My internal thoughts were faster than what was happening on the outside, as my core was refined beyond belief after [Core Collective] was uncapped. I had one of my other [Sub-Cores] assume the Sylvester persona, and before throwing it into [Core Storage], I gave him the command.
+
+"Spell orbs! I want spell orbs!"
+
+If my [Light Magic] on its own wasn't enough, then I'd combine it with the power of enchantments, [Metal Slime], and [Nitro Slime]! Yet, to my surprise, I found that the duplicated Sylvester core wasn't the only one in my storage getting to work; four more [Sub-Cores] were promptly added to the work force from elsewhere.
+
+Did the other Sylvester get the order from the duplicated personality? And did he inform the other network that I needed help?
+
+This was uncharted territory, and never in my wildest dreams did I expect this to happen, yet now I suddenly had five workers churning out spell orbs in rapid succession. The best part was that, since they returned to the storage and joined my network here, they were immediately up to date on my plan to make [Light Bombs] on a scale never before seen.
+
+"You can't even defeat my minions, and you planned to defeat me? It looks like I was worried for nothing, you [Experiments] really are hiding your protection!"
+
+I suppressed my desire to fold the space over the eye and cut him. I wanted to keep my cards a little hidden for now and bring them out to turn the situation around. Plus, I still had other methods at my disposal.
+
+I was activating various slime traits and attacking with tendrils and mimicked forms. It was slightly effective, as even though my physical damage was hampered by the shadows' ethereal nature, they still took damage from [Blaze Slime], for example. Yet it was especially annoying, I had so many different options, surely I had something in my toolbox for this situation?
+
+I even started using traits from the unicorn and alicorn, giving myself some magical horns to enhance my [Light Magic] and even using them to stab at the shadows. This was moderately more effective, but I still felt like I was forgetting about something far more useful.
+
+It was slime versus endless shadows while the eyeball gazed at me and laughed ominously. While it looked like a stalemate, I was using slime, while he appeared to be losing nothing from his shadows dying. Are they infinite while in the abyss? I wasn't sure, and while I had more than enough slime to continue this for days if I wanted, I didn't like being somewhat on the back foot.
+
+Ugh, this darkness is too oppressive. Do I really not have a slime ability to counter it?
+
+My mind was churning at breakneck speed, and then in the recesses of my memories I recalled one ability I had written off entirely. Yet it was a slime ability, and fully incorporated into [Primordial Slime]. Would it actually be useful?
+
+<[Luminous Slime] This slime can produce a bioluminescent glow, even in absolute darkness. The color of the glow relates to the coloring of the slime mass. Compatible with other slime traits. This trait has no levels.>
+
+Even in absolute darkness!
+
+This previously unremarkable trait was now part of something grander. I hadn't even the faintest idea of what power-up it might have received, but it was now or never!
+
+I activated the trait, and my blue slime began to shine like a beacon. The darkness around me and my slime actually receded, and it looked like, despite the shadows' effort to oppress it, it couldn't snuff out this glow. Beautiful azure light shone from my slime like never before; it was so majestic, so blue, so breathtaking!
+
+"Disgusting! I had thought you were an eyesore before, but now you're even worse!"
+
+"How dare you! Blue is the best color!" I yelled out.
+
+As if in response to my outrage, my tendrils and slimy weapons lashed out at the shadowy minions, yet this time there was a notable difference. No, the glowing slime didn't instantly destroy the shadows like some fatal weakness, although that would have been poetic. Yet what happened was that the blows and strikes were entirely unimpeded!
+
+Previously, any physical attacks against the shadows were reduced by half, if not more, thanks to their nature. But now that my slime was glowing with the power of [Luminous Slime], that natural defense was almost entirely overcome.
+
+If Vee were here, I bet she would say this was the spirit of Wiggles.
+
+I sighed at the terrible joke I had made at my own expense, and gave the order for the spell orbs to have [Luminous Slime] added to the mix. [Primordial Slime] being able to blend and mix all my slimes effortlessly meant that nothing would need to be recreated; a mere touch of the orb would be enough to reconstitute their composition.
+
+However, despite the turnaround, the [Dungeon Master] didn't seem too concerned. Yes, I had greatly changed my situation, but I was still being swarmed by shadows and had yet to even land a blow against the master. Effectively, I was winning the battle, but losing the war, at least from his perspective.
+
+To better facilitate the facade, I made sure to launch some spells at the eye. [Light Beam] was my go-to, but I threw in plenty of [Lightning Bolts] and [Fireballs] for good measure. The [Dungeon Master] made no effort to dodge them, as whenever they struck, the shadowy form of his body seemed to automatically disperse and nullify the attacks.
+
+Yet with each failed exchange, I was taking note of his form and how it changed, under the scrutinizing gaze of [Spatial Sense] while he was still within the radius of my rift. In fact, the more I observed, the more I thought that perhaps he was one of those "dimensional entities" that [Spatial Severing] had mentioned, or at least he was when he was shifting into his shadowy form.
+
+Is there a shadow dimension? A shadow realm? Actually, now that I think about it, it's oddly reminiscent of my sworn enemies: ghosts. If [Spatial Severing] works on him, does that mean I can cut apart ghosts?
+
+I vaguely recalled I still had the unfinished ghost-touch enchantment from that axe to work with. Yet my gut feeling was that it wouldn't apply to this situation. Yes, there were similarities between shadows and ghosts, but that enchantment was tailor-made for the latter.
+
+While the stalemate was continuing, I was using the shadowy horde to experiment. Each slimy weapon was slightly modified from the former as I combined [Luminous Slime] with other slimes and, more specifically, different metals. Once again, mithril seemed to be the one that was the best of the bunch, and so I started creating exclusively weapons and body parts made of glowing mithril slime.
+
+The [Dungeon Master] must have sensed the change in the situation as suddenly his endless forces were being cut down like never before, and I could almost feel his frustration at not understanding why it had changed. Once again, my slime was the ultimate deception, and unless you knew what was happening under the hood, you'd be left in the dark.
+
+Hehe…
+
+And that was when I calculated that I finally had enough supplies to start my attack for real. My five workers had been endlessly crafting spell orbs and modifying the batches with my newfound discoveries. The final product was a blend of mithril and orichalcum from [Metal Slime], primed with [Nitro Slime], and sprinkled with [Luminous Slime].
+
+The two metals were both magically receptive, but mithril also had this sort of "holy" property, which was why it was effective against the denizens of darkness. Orichalcum, however, still had it beat in terms of enchantment, and thus an impossible blend was the solution.
+
+The enchantment was still the same, tried and true spell-storing formula. I had yet to make a better version that could store multiple spells, but for explosions, this was more than enough. Weirdly enough, the [Luminous Slime] seemed to actually make it more receptive to having the light Mana stored within it, and I made a mental note to match the slime with the respective affinity for future spell orbs.
+
+It's show time!
+
+The void trembled as I fully activated [Personal Rift], allowing my dimensional domain to exert itself. I tore open one rift by myself as the doorway, and then three more as the exits. I spread them out for maximum effect, but made sure one was nearby the [Dungeon Master].
+
+Naturally, he sensed what I was doing and began to stir cautiously. It became apparent that he'd seen what I'd done to his guardians and knew to be wary of these spatial tears. Yet, I wasn't a sneaky slime for nothing, and I had a deceptive plan ready!
+
+I began casting [Light Beam] through the aperture I kept near me, and through all the exits, I had made beams of light begin striking around the battlefield. Against the shadowy horde, this was very effective as I could attack them from impossible angles, yet against the [Dungeon Master], this once again was fruitless.
+
+I watched as the shadowy octopus slowly began to relax. My "grand plan" had failed and was just more of the same futile efforts, yet I could tell he was still on guard. So I began casting [Light Bombs] as well, and thanks to the ability to adjust the location of the exit points, I was able to cover almost the entire area with blinding light.
+
+Just like before, there was a moment of bursting light before it was swallowed by the oppressive darkness. Even though the quantity and area of the spells had been increased severalfold, it couldn't overcome this natural domain. Again, the [Dungeon Master] seemed to ease up even more.
+
+I snickered in my heart, and as I began casting more [Light Bombs] through the rifts, I also tossed out my spell orbs. Under the cover of the repeated flashbangs, my real trap was being unfolded.

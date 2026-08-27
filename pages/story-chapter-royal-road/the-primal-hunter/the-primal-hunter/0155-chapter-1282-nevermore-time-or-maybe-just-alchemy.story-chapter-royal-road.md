@@ -1,0 +1,119 @@
+---
+id: 77209834-028b-5597-a592-00f824134069
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1282 - Nevermore Time!? Or Maybe Just Alchemy..."
+slug: 0155-chapter-1282-nevermore-time-or-maybe-just-alchemy
+partOf: the-primal-hunter
+position: 155
+ownLength: 2844
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3210829/chapter-1282-nevermore-time-or-maybe-just-alchemy"
+royalRoadId: "3210829"
+---
+
+Back at his residence, Jake took some time to plan what he wanted to do now that he’d evolved to B-grade. It didn’t take him long to decide that the first thing he wanted to do was experiment to find out just what he was capable of now, hopefully increasing his understanding or maybe getting a skill upgrade or two in the process.
+
+He also wanted to visit a few of his acquaintances in the Order, but quickly discovered that others had their own lives and weren’t just sitting around waiting for Jake to pop in. Irin was off to the Nine Hells on a diplomatic job, Meira had surprisingly gone to the Pantheon of Life, and Draskil was doing work for the Order of the Malefic Viper in the new universe, taking advantage of being a powerful native, allowing him to easily lead the charge and expand the influence of the Order.
+
+So, yeah, that was out of the question. That’s why Jake ultimately settled on doing a bit of experimentation for now, which still left the question of whether he wanted to work on class or profession stuff first.
+
+Naturally, if Jake wanted to grind some class levels as quickly as possible or even work on upgrading some skills while stretching his limbs and getting some combat training in before any system events began, one place in particular came to mind:
+
+Nevermore.
+
+However, after doing some research, Jake realized there was a good reason why he hadn’t heard about any of the newly evolved B-grades going. It wasn’t that Nevermore was a bad place to get levels; it was just that it wasn’t very efficient for a newly evolved B-grade, since the B-grade version of Nevermore differed from what Jake and everyone else had experienced in C-grade.
+
+C-grade Nevermore was very much built around the Leaderboard competition. Challenge Dungeons, many floors with different “lessons” and whatnot, quests and points, and so many other aspects were created for the C-grade dungeoneers to experience, but in B-grade, none of that was considered necessary anymore. Instead, it had been transformed solely into a place to gain levels.
+
+This, first of all, meant that the floors were far more expansive, making them incomparable in size to those in C-grade. No longer were floors planet-sized or even solar-system-sized, but could easily rival entire galaxies, even if most of them were still isolated on a singular physical plane, often in the form of a massive, expansive continent suspended in space.
+
+These new massive floors would thus have far more to do on them. There would be hidden bosses, countless enemies, factions to battle or exploit, and just a plethora of things to do.
+
+From what Jake read, C-grade Nevermore was kind of like a story-driven game with some open-world elements. Meanwhile, B-grade Nevermore was a sandbox open-world game where one could just do whatever without any clear direction. The only objective one had was to find the entrance to the next floor, which, fortunately, wasn’t very difficult, as the location tended to be openly telegraphed. No, a far bigger problem than locating the pathway to the next floor wasn’t finding it, but entering it.
+
+Before one could go to the next floor, one had to meet certain criteria, such as killing specific things, gathering items, or whatever other objective the Wyrmgod or, evil snake god forbid, Minaga had decided on.
+
+Well, that... or just a certain minimum level. If one reached a level threshold, all one had to do was slay the boss guarding the pathway to the next floor and then pass through, ignoring all other objectives. This was a bit of a problem.
+
+As for why this was a problem? Short answer: time dilation rules.
+
+Similar to in C-grade, the time dilation in Nevermore got stronger the deeper – or higher, Jake didn’t actually know if Nevermore should be considered a tower or a hole – one went. As a result, most preferred to enter Nevermore towards the middle or latter part of a grade, especially when one reached level 425, halfway through B-grade, one met the level requirement to immediately enter all floors, assuming one could beat the boss.
+
+This was especially true due to how much the time dilation sucked on the first few floors. It was barely noticeable on the first floor and not even a two-to-one ratio, making it pretty much as efficient to just level in the outside world, especially seeing as there was still a limit to how long one could be in Nevermore as a B-grade.
+
+These reasons combined were why Jake hadn’t heard about anyone going to Nevermore yet, despite evolving to B-grade. This isn’t to say some didn’t go, but overall, the smarter move was to wait till about halfway through the grade to reap the most benefits from the World Wonder. There were many opportunities the place offered that Jake hadn’t gone over, and he was definitely visiting Nevermore again. Just not yet.
+
+That’s why Jake ultimately settled on doing a bit of alchemy first. After that, he could always visit a normal dungeon or open hunting ground somewhere to work on his class skills. For now, seeing as he was in the Order and knew Villy was definitely also curious to see how Jake’s evolution had affected his alchemy, he took out his cauldron.
+
+Before anything else, Jake made sure to use the formation placed on the Altmar Cauldron of Supreme Simplicity to strengthen the item and hopefully avoid it taking any damage during what was to follow. He probably did need to upgrade his cauldron at some point, but he was already happy with what he had, so no need to rush into change.
+
+After making sure the cauldron was as ready as it could be, Jake got to work and started out simple. Taking full advantage of his identity as the Chosen of the Malefic Viper, Jake pillaged some B-grade potion ingredients before summoning his Soulflame.
+
+Jake had decided to start out by making a few potions to get more familiar with his increased energy control and overall power. Every action was far stronger than before, and while Jake was supremely skilled when it came to control, alchemy was such a fine art that even he took a bit to adapt.
+
+As a result, Jake did something he hadn’t done in a very long time: failed to craft a potion.
+
+About halfway through, the careful balance of energy was disrupted, destroying much of the herbal energy in the mixture and dooming the brew. With a sigh, Jake fully destroyed the rest of the incredibly stinky liquid before he tried again.
+
+It ended up taking Jake six attempts in total before he had his first successful craft. Granted, Jake was pushing things to the limit during every crafting attempt, testing his own capabilities during the process, and effectively speedrunning the process of becoming more familiar with his newfound power.
+
+Likely due to that, Jake didn’t fail his seventh crafting attempt either, and while he wasn’t perfectly flawless as he was before his evolution right away, his consistency quickly reached a level that alchemists who’d been crafting potions in B-grade for a century couldn’t rival.
+
+Crafting potions also had the fortunate benefit of allowing Jake to stock up for any further experimentation later on. Right off the bat, without Jake making his best potions, such as Malefic Health Potions or Arcane Mana Potions, his new potions were already twice as strong as before. When he began to mix in those concepts and work on his improved potion formulas, the jump in resources restored was even higher.
+
+Jake would have loved to have potions this good in C-grade, but unfortunately, he wouldn’t have been able to consume them even if he wanted to. Potions were weird in that, despite not having a level requirement stated on their descriptions, there most certainly still was one. This requirement just came in the form of potions from higher grades actually being far worse than those crafted by others around one’s own level, to the point where they were pretty much useless. That’s part of the reason why Jake flooding the market with potions in peak C-grade had such a huge impact. For everyone who tried to push for a B-grade evolution by taking huge risks, they benefited extremely much from a peak-level potion like those Jake had made.
+
+After spending about a week just working on potions, Jake moved on to poisons, once more “borrowing” ample amounts of top-tier ingredients from the generous Order of the Malefic Viper. Unsurprisingly, it was easier to craft poisons, definitely also due to having done potions first, but also just because Jake tended to spend way more time on poisons.
+
+Only five days later, Jake had crafted a couple of dozen bottles with different poisons that all surpassed anything he’d made in C-grade. He failed in all attempts at making even simple Bane Poisons, but he felt that it should come to him quickly. As a reminder, crafting Bane Poisons was commonly considered something one began trying to do in B-grade, and even then, it wasn’t considered easy, so the mere fact that Jake was close would already make other alchemists green with envy.
+
+At this point, Jake felt pretty damn good about his increase in energy control and familiarity with his new level of power. It was hard to determine just how much better he’d gotten, but it was definitely a massive jump. Which was good, as Jake soon began experimenting with what he and Villy truly cared to uncover the secrets of:
+
+Lesser Primeval Energy.
+
+Lifting his hand, Jake focused as he summoned a bit of this new energy. Making it appear already took noticeable concentration, way more than anything else Jake had ever dealt with.
+
+When he used his full-on Primeval Origin Energy, Jake, in truth, didn’t really use it. He didn’t manipulate it at all, but was more like a subtle guide and catalyst, only there to inject the energy. He had absolutely no control over what the Primeval Origin Energy did once infused into an entity, but could only let it do whatever it did. Jake could probably try to do the same with his new Lesser Primeval Energy, but what would be the point of that? The entire purpose of this new skill was for Jake to learn how to use it, which is exactly what he started trying.
+
+The challenge of working with this new form of energy was immediately apparent. Unlike the more familiar energies Jake was used to manipulating, Lesser Primeval Energy felt raw and untamed, to the point of being overwhelming. It seemed to have its own intent and will, passively seeking to affect anything and everything all around it.
+
+If Jake summoned it into the air, it would instantly react with the environment, merging with it. Due to how little Lesser Primeval Energy he could produce, the environment wasn’t affected to a detectable level, but if Jake kept pouring out energy, something would undoubtedly happen at some point. Likely, a threshold had to be passed where the Lesser Primeval Energy became powerful enough to greatly affect whatever it was infused into. At least that seemed to be the case for regular Primeval Origin Energy.
+
+The only things Lesser Primeval Energy didn’t react with were Jake himself and his stable arcane energy. His only way of summoning it was to create small marbles of stable arcane mana containing Lesser Primeval Energy, which he could then try to add to other things.
+
+Fortunately, his stable arcane energy didn’t react with anything and was highly resistant to being affected by any and all other forms of energy. That’s why it wasn’t a problem simply adding these small marbles to a concoction or brew in progress, as the arcane energy wouldn’t affect his crafting, especially not when he used his Arcane Soulflame to dissolve whatever stable arcane mana was left behind.
+
+To start his experimentation with Lesser Primeval Energy, Jake conjured several of these marbles. During this process, he did notice that despite fully sealing the Lesser Primeval Energy within stable arcane marbles, the energy was still slowly dispersing. It was very slight, but these marbles couldn’t last forever and seemed to lose roughly half their energy within a week, based on initial estimates. As for where this energy went, Jake had no bloody idea, as he couldn’t see any leaks or detect anything amiss. A mystery to solve later, as he, for now, planned on observing the effects of Lesser Primeval Energy during regular crafting.
+
+Using one of the marbles, Jake tried adding it the same way he added arcane energy to make Arcane Mana Potions. Putting in the marble naturally didn’t do anything, but the second Jake let out the Lesser Primeval Energy...
+
+Let’s just say it was good he had done this in the Order and not his alchemy lab back on Earth, as Hank wouldn’t have enjoyed having to redo his alchemy lab.
+
+The second Jake allowed the energies from the brew to mix with the Lesser Primeval Energy, the entire mixture turned unstable and exploded before Jake even had a chance to react. Making matters worse, even his cauldron, which he’d just reinforced, took some slight damage that would take a bit to repair.
+
+Sitting inside the damaged laboratory, Jake let out a loud sigh. “Alright, that was definitely way too much Lesser Primeval Energy...”
+
+Despite his incredible failure, Jake at least identified the major mistake he’d made. He had already thought he had been conservative and infused very little Lesser Primeval Energy into the stable arcane marble, but even that had been way too much. Adding more than just a small whisper would completely and utterly overwhelm the energies in a common potion mixture, causing a violent explosion due to all the energies immediately turning unstable.
+
+To spare his cauldron from further damage, Jake continued his experimentation using an Arcane Soulflame cauldron. A wise choice, as in the following days, his alchemy laboratory experienced more violent explosions than the bathroom after a party with supermarket sushi.
+
+Each attempt to infuse Lesser Primeval Energy into a mixture required intense concentration, and even the slightest misstep could cause the entire process to unravel. This assumed Jake had added the “right” amount of energy, too, as if he added too much, it would explode no matter what Jake tried, while if he added too little, the Lesser Primeval Energy seemed to just disappear before Jake could make it do anything.
+
+Weeks passed with Jake attempting to make his Lesser Primeval Energy do, well, anything, really. Besides exploding or dispersing into nothing, that is. He had tried pouring the energy into potions, poisons, elixirs, and even a few mixtures that he just put together because they consisted of incredibly stable ingredients. The result was the same no matter what, with Jake failing time and time again.
+
+Still, he kept trying, despite his failure, because Jake felt he was learning. There were times when he felt a bit of the Lesser Primeval Energy start merging with some parts of the mixture before everything turned chaotic and exploded, giving him hope that what he was trying to do wasn’t impossible. It was just that Jake was completely and utterly unable to control the process as it currently stood.
+
+Frustration didn’t deter him, though, as each failure revealed subtle nuances about the interaction between the volatile energy and the ingredients. Jake mentally noted down every minor success or point of failure, hoping to spot patterns. With every attempt, he refined his approach, adjusting his method as he searched for any semblance of balance that would allow the Lesser Primeval Energy to do its job in a stable manner.
+
+Yet despite his attempts and how much he felt like he had learned, he didn’t feel any closer to actually successfully crafting something. He started realizing that the problem intrinsically seemed to be that whenever he unleashed any level of Lesser Primeval Energy into a mixture, it would fuse with whatever was closest to it, creating an instant imbalance that went boom.
+
+The energy didn’t have any issues merging with some parts of the mixture... which gave Jake an idea.
+
+Taking a step back, Jake questioned why he had jumped straight to wanting to infuse Lesser Primeval Energy into an ongoing mixture, and hadn’t started with what was meant to go in the mixture in the first place?
+
+What if he instead altered the ingredients before he even started? Made it so all the ingredients were empowered, so that some parts weren’t far more potent than everything else? He would have to ensure that he only amplified the parts of the ingredients he wanted to see amplified, though...
+
+And to do that, chances were Jake would have to do something that many would definitely argue was long overdue:
+
+Address the biggest blemish on his stat sheet, and the one and only inferior rarity skill Jake still had: Alchemist’s Purification.

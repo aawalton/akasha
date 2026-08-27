@@ -1,0 +1,165 @@
+---
+id: 481f544c-e467-5ca2-9def-9f074cdac8bc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 103: I will ruin you!"
+slug: 0103-chapter-103-i-will-ruin-you
+partOf: phoenix-ascension-cultivation-litrpg
+position: 103
+ownLength: 1880
+unit: words
+publishedAt: 2026-03-21
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3177957/chapter-103-i-will-ruin-you"
+royalRoadId: "3177957"
+---
+
+I dove down onto him, which I was surprised was not a skill at this point.
+
+[Skill: Aerial Dive(Novice) has been acquired]
+
+Do you think you’re being funny?!
+
+Despite my faux rage, I was incredibly thankful for that. Immediately after activating it, I felt my speed increase by at least two fold, and my accuracy, as well as overall strength of the attack increased too.
+
+Teng Yu sensed me approaching and prepared himself, sending a purple Qi wave that I dodged using the long forgotten Aerial Redirection skill, plus my own proficiency in flight. He kept sending more and more, though I weaved through them with expert manuevering.
+
+His hits also started getting sloppy. They were less accurate, less powerful, slower. His The fact that he got into a fight as soon as he broke through wasn’t doing him any favors.
+
+With an unstable cultivation, it would be easier and easier to deal with him. Though that did’t mean he wasn’t packing a punch. I was pretty sure that if I got hit by any of his attacks I would be pretty badly injured, and although I had some ways to save myself, it wouldn’t be worth it.
+
+Dodging one last Qi wave before getting up close and personal, I unfurled my wings, creating a large gust of wind that sent dust flying up everywhere. The area around me was scorching hot, and the tiles had begun to crack from the relentless Burning Wind.
+
+Teng Yu wasn’t looking all that well himself, as the little skin I could wass was dry and broken. I had no idea how he could breathe in this environement anymore, but it was about to get even worse than before.
+
+I opened my beak and activated Pyro Breath just as he tried chucking something at me. It was most probably poison, but it burned away into nothingess as it met my flames. The resulting explosion caused him to be blinded, but he wasn’t stupid.
+
+He quickly tried to dodge, but he wasn’t fast enough. There was the sound of something breaking before disappearing from his spot, and I quickly flew up again.
+
+After finding him, I sent all the available needles toward his shoulder, but none of them could break through his defenses yet. I would have clicked my tongue if I could.
+
+“Did you really resort to such cheap tricks?” I taunted him with a mocking laugh. “How funny you are. Even with your Core Formation cultivation, you are no match for me.”
+
+Looking down at him, I could sense his anger building up even more.
+
+“Get down here and fight, let me hear your blades speak!”
+
+“Hah, as if!”
+
+Despite my taunt, I dove right back in, though, using as much speed as I could while creating as many needles as possible. At the same time, I let out a Paralyzing Screech, which stunned him for a fraction of a second.
+
+It was during that fraction that I swooped down on him with my Iron Claws, but he somehow managed to move his head a few inches. All I managed to tear apart was his mask, revealing his true identity.
+
+“You!”
+
+“You’re even uglier than I thought!” I laughed hysterically, more in an act to anger him, but he was pretty ugly. “No wonder you were hiding your face, Teng Yu!” He had a long scar going down the side of his face, and his lips seemed to have been scarred to the point of not being able to heal anymore.
+
+“Shut up!” He yelled, his eyes turning bloodshot, and it was in that moment that I attacked once again. I dove down on him, summon both elemental dragons at the same time. Much to my disgust, the lightning one lost all signs of the tribulation it went thorough, returning to a basic form of lighting.
+
+That didn’t matter though, not in this fight.
+
+I imbued both dragons with enough Qi and elemental affinity to create five dragons or more of each, but the cost was well worth it. Their scals had become more realistic, their bodies more solid, and their aura more firm.
+
+[Skill: Dragon Flames(Intermeidate) has become Dragon Flames(Expert)]
+
+[Skill: Lightning Dragon(Novice) has become Lightning Dragon(Intermediate)]
+
+Those were some very good news, that much was for sure. With both of them becoming stronger, I had more confidence in winning against this guy.
+
+Despite me downplaying his strength, he was still a Core Formation Cultivator. If I were an ordinary Qi Condensation Cultivator, I would have long since became one with the floor.
+
+But I wasn’t, I was a Phoenix, damn it!
+
+The two dragons surrounded him, the heat emanating off the fire alone making the already dry environment even drier. I was willing to bet he could barely breathe, but the fact the was surviving so much despsite all my fire-related bonuses proved just what a Core Formation cultivator could do.
+
+I had, after all, a bonus from my five hundred percent, and more, Fire Affinity. That was why my flames were so strong, not to mention my stats also giving them a decent boost. Yet the man before me was… Resilient, to say the least.
+
+He was a fun opponent, though. However I wasn’t looking for a competition, I needed him dead, and as soon as possible, actually.
+
+I commanded the dragons to coil around him, and he kept dodging and manuevering around, disappearing and reappearing. My dragons were relentless, though, and proved to be a great distraction.
+
+As for me…
+
+After observing his dodging patterns, I dove right where I thought he was going to re-appear next, and stunned him with a Paralyzing Screech, then attacked him with my Flaming Talons.
+
+He wasn’t ready for my attack, but reacting just in time. Instead of using his Qi waves, like before, he allowed me to get close and struck at me with his sword.
+
+I slowed down and reflected his blow with my talons, flames and sparks flying about as we clashed half a dozen times in the span of a second. He took a step back just as my dragons pounced on him, and that was my queue to Ember Step forward, creating a wall of fire right through him.
+
+He must have not expected such a reckless assault, but he ignored the fire that was now burning his clothes and skin in favor of attacking me.
+
+However, something was strange about him. His skin was pale, and somehow more humid than before. Teng Yu’s bloodshot eyes turned purple as well, and the veins on his arms bulged as he swung his blade in a feeble attempt to strike me.
+
+When I deflected his next blow, it felt heavier, stronger, and nastier. His blade had been coated in true poison, and each strike sent minor amounts of it on my skin. My posion resistance made it so I was fine, though, but I couldn’t say I was thrilled about it.
+
+I increased the strength of Burning Wind, though I didn’t know if it could go beyond what I’d already given it. Activating Heaven’s Protection for good measure, and even layering a weak Water Barrier around me for good measure yet again, I prepared for an all-out brawl.
+
+[Qi: 4165]
+
+[Hit Points: 7890]
+
+My resources were getting low, but at least I didn’t take that many hits. Even so, the few weak blows I did take when deflecting and defending still chipped away at my health. That was just a testimony of how strong these cultivators were.
+
+Or how nasty poison was.
+
+But I had to end the fight quick.
+
+I struck at home with Blade Wing and again in quick succession with flame-infused Iron Claws. The flame dragon roared and shot toward him, and just as he was about to blink away using his movement technique, I stunned him with Paralyzing Screech.
+
+The short delay was enough for Flamie to hit him with all it’s got, yet all that managed to do was charr and fuse the clothes on his body. However, where there was supposed to be blood was a purple and toxic substance instead.
+
+Just what the fuck is this technique?
+
+I shuddered upon seeing it, and dodged his strike using Ember Step. It landed on the ground, creating a large crack in a striaght line from the strike, and causing any material in its wake to dissolve and rot away into dust.
+
+Nasty, nasty, nasty!
+
+It was clear that, as he got weaker, his poison got stronger, which made him a terrifying opponent.
+
+Not that he wasn’t already.
+
+But I wasn’t going to back down, I could feel victory right on the top of my wings!
+
+Both dragons attacked in tandem once again, but I didn’t have any more Paralyzing Screeches in me. My throat was burning, so I couldn’t stop him from dodging Flamie.
+
+However, I felt the slightest amount of movement right to my left, and told both dragons to attack the spot right next to me.
+
+They landed at the same time as Teng Yu, hitting him from both sides. A beautiful clash of fire and lightning spread out around us in a beautiful explosion with him as the center.
+
+I saw his flesh get melted off, his bones getting revealed, his hair getting turned to nothing and his clothes fully fusing with him.
+
+Yet… he smiled! Purple blood trickled down his body, his flesh was getting melted off his bones, his muscles exposed, his lips cracked and eyes bled, and yet he smiled!
+
+A shudder ran down my spine as he raised his sword, that crazy smile only turning more manic by the second.
+
+He was charging up an attack, a really, really bad attack. His sword, which was also melting, was glowing with purple, red and green. A thick poisonous area exuding off of his body.
+
+“Taste my technie of the Malefic Viper— Last Stand!” His hoarse voice made me shudder, and I knew that I had to get away.
+
+My body, however, refused to move!
+
+Something locked me in place, and I could feel it in his gaze that it was his doing.
+
+Damn you.
+
+I cursed and called upon my dantian, and on all the Qi I could muster.
+
+Finally, I managed to force out a shoddy Side Step that moved me by a few inches, but it was barely enough to dodge the worst of the attack.
+
+Both barriers broke apart, one easier than the other, but they absorbed some of the momentum. The Qi wave nipped part of my wing, turning my feathers into nothing but dust. However, it miraculously survived, and something told me I had the Dragonbone Constituion skill to thank for that.
+
+My Self-Shroud shuddered, but kept its form. However, something I never thought I would see again flashed in front of my screen.
+
+[You have been poisoned]
+
+And to top it all off, now it also mentioned how much damage I took. Now I didn’t have to do math while watching my bar trickle down.
+
+[You’re losing 87 HP per second]
+
+Ah you motherfucker! I screamed internally while checking how much time I had left.
+
+[Hit Points: 6120]
+
+[Hit Points: 6033]
+
+[Hit Points: 5946]
+
+“You fucking piece of shit, I will RUIN YOU!”

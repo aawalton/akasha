@@ -1,0 +1,168 @@
+---
+id: ba3e1d58-3439-549f-8eb5-400c04bff74e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 270: Tree"
+partOf: rise-of-the-living-forge
+position: 12
+ownLength: 2161
+unit: words
+ownProgress: 2161
+publishedAt: 2024-09-06
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1791140/chapter-270-tree"
+royalRoadId: "1791140"
+markedReadAt: "2026-06-29T19:58:50.609Z"
+---
+
+[Corrupted Ashleaf Tree – Adept 3]
+
+“Tree,” Arwin said.
+
+“Demon tree,” Reya muttered.
+
+“Hey,” Lillia said. “Generalization much?”
+
+“Sorry,” Reya said sheepishly.
+
+Lillia flashed the other woman a grin. “I’m just screwing with you. Definitely a Demon Tree. But who the hell makes a demon tree? Sounds like a stupid idea. It’s a bloody tree. It can’t move.”
+
+“You think someone made it?” Olive asked.
+
+“The Dungeon Heart isn’t going to go sticking itself into something, is it?” Lillia asked.
+
+It was a good question. Arwin wasn’t sure what the answer was either. He was certain he’d probably come across Dungeon Hearts before in his life as the Hero, but he’d never really paid attention to any of the loot that they’d gotten from dungeons. His concern had been fighting and nothing more — the only bits of the dungeon rewards he’d bothered with looking at were the materials the crafters used when they’d made his armor.
+
+“Dungeon Hearts don’t have a will of their own beyond survival,” Yonas provided. He’d poked his head out over everyone else’s heads to get a glimpse of the tree monster for himself. “They’re magical amplification devices born from excessive magical energy localized in a specific area, and the cause of that energy is usually death. Dying leaves behind a good bit of power.”
+
+“I see why they pop up in dungeons,” Rodrick said. He watched the tree warily, but it hadn’t made any move.
+
+From what Arwin could tell, the tree hadn’t noticed their intrusion. He doubted that would last once they entered the room.
+
+Another pulsing thump echoed through the dungeon from the Dungeon Heart. Yonas’ features twisted in distaste and he shook his head.
+
+“Be careful. Dungeon Hearts are easy to damage. Don’t destroy it, or you’ll waste all the effort you put into getting through the dungeon.”
+
+“Not waste. We still have some materials we got from the monsters we killed,” Anna said. “And hard work is never wasted when it’s gone toward the right cause.”
+
+Yonas sent her a withering glare. “I was referring to the actual purpose of this endeavor, ma’am.”
+
+“Improving your attitude will drastically improve your outlook on life and let you handle troublesome situations better,” Anna advised.
+
+“Where’d you hear that?” Olive asked, tilting her head to the side. “It sounds like a quote.”
+
+“Does it? Thanks. I’ve been practicing healing.”
+
+“What part of practicing healing involves spewing motivational quotes?” Yonas asked.
+
+Anna clicked her tongue as she shook her head. “Healing is equal parts mind and body — right up until your body is bleeding out. Or poisoned. Or crushed. Or on fire. Then it’s mostly body. But the mind is important too.”
+
+“I see,” Yonas said, drawing the word out. It did not, in fact, seem like he saw. The Dawnseeker guildsman scratched at the side of his neck. “I’m just not going to question this any further. I’d like to get this over with already, if it’s all the same to you.”
+
+“Weren’t you hoping we’d take a bunch of time?” Reya asked, tilting her head to the side.
+
+“A good merchant knows when to cut his losses,” Yonas said. “And I believe I’ve discovered a more optimal strategy that should enable me to earn my coin back in due time.”
+
+“What is it?” Olive asked.
+
+The corners of the guildsman’s lips quirked up. “That would be sharing. I don’t offer financial advice for free.”
+
+Arwin’s attention drifted back to the tree in the center of the room. His head tilted slightly to the side. The monster still hadn’t moved. The only sign of life in it was the constant thump of the heart within its trunk.
+
+A monster that couldn’t move…
+
+He had a bow that would make pretty short work of anything like that. Arwin wouldn’t claim he was the best shot, but the bow helped his targeting. He could blast the tree from where they stood now. There was a chance it had a way to defend itself, but it was still a free attack.
+
+Using that free attack with Yonas here… I trust him more than I did a bit ago, but I don’t know if I want to reveal that extent of my strength.
+
+Lillia noticed the pensive look in Arwin’s eyes. She shook her head slightly, then snapped her fingers to get everyone’s attention.
+
+“No more delays,” Lillia said. “My strategy hasn’t changed. Be on the lookout for any ranged attacks or monsters hiding underground. Arwin, Rodrick, you’re up first. Make sure you keep that thing’s attention. Fight defensively but be up in its… trunk. Whatever a tree’s face is called. Don’t let it focus on anyone else.”
+
+Arwin inclined his head. Lillia words were intentional. She didn’t want him hanging back and charging up a powerful bow shot while the others fought, and no matter how fun it might have been to see Yonas’ expression, they had no reason to blow their cover and reveal their strength in front of the man if they didn’t have to.
+
+“On it,” Rodrick said. “You ready, Arwin?”
+
+Arwin nodded. The two of them stepped into the room.
+
+“Everyone else, move,” Lillia ordered. “Make sure you don’t get caught outside the room when the fight starts. The tree could seal off the exit and strand the ones inside without backup.”
+
+Arwin’s focus honed in on the tree as he and Rodrick approached it. He could still hear Lillia behind him, but he couldn’t let his attention drift. This was an Adept level monster — even if it was a tree, it was the strongest enemy by pure numbers that he’d faced in a long time.
+
+I’ve got no idea what kind of Achievements or Titles a tree could have gotten… but I can’t afford to underestimate this because it’s a big ass plant.
+
+Arwin’s nose twitched. He could smell something in the air. It was faint, but distinct enough to make him take notice. A vaguely familiar scent, one that grew stronger with every step he took closer to the Ashleaf Tree. His brow furrowed as he tried to place it.
+
+The bricks around the tree cracked.
+
+Something slithered through the ground beneath them, moving out toward Arwin and Rodrick like a snake just beneath the surface. At the same instant, Arwin realized what the smell was.
+
+Blood.
+
+Thick roots burst out from beneath the ground, their ends sharpened to jagged points. They shot out toward Arwin and Rodrick with the speed of a flitting hornet. Arwin brought his shield around, bracing himself against it.
+
+A loud crash rang out as the root slammed into its surface, forcing him a step back. Rodrick dodged out of the way of the attack directed at him, then swept his sword through the root and carved it in two.
+
+All around them, more roots pushed up from beneath the ground. They pressed out from the walls, twisting to cover the red brick, sealing over the exit just as Lillia had predicted. Arwin didn’t have time to check if everyone had made it inside.
+
+More roots shot out for him and Rodrick, screaming through the air with blinding speed. Arwin slammed one out of the way with his shield. He crushed a second with Verdant Inferno. One drove into his chest and another into his leg, both screeching against his armor and leaving thin gouges in its surface.
+
+Arwin brought Verdant Inferno down on the ground, crushing a growing patch of roots. Red sap bubbled out from their pulped remains as he lifted the hammer, and the scent of blood in the air grew stronger.
+
+I can’t use the special ability of Wyrm’s Revenge yet. If I miss the block, I could mistakenly take myself out of the fight. I’ve got to figure out how this thing fights first, then wait for an opportunity to strike back while keeping its attention.
+
+“I’m going closer!” Arwin yelled.
+
+Rodrick carved another root down, but even more of them twisted up in his blind spot and tried to drive him in the back of his neck. Water swirled in the air behind Rodrick as his armor activated, slowing the attack for long enough for him to spin and slice through the woody growths.
+
+“I’m behind you!” Rodrick yelled back, darting around another root and joining Arwin as they ran toward the tree.
+
+More roots rose up before them, rising from the cracked red stone ground like twisting maggots.
+
+Blue energy slammed into the Ashleaf Tree, washing over every root in the room. The large monster froze in place for a brief instant. It was just long enough for Arwin and Rodrick to dash around the growths and toward the monster’s trunk, where the Dungeon Heart still beat.
+
+The Ashleaf Tree snapped back into motion as Reya’s magic faded. The branches above them rustled and leaves ripped free, flashing down through the air around them like a hail of falling knives. Arwin lifted his shield over his head and the red projectiles rang off it with a series of loud clangs.
+
+Rodrick was slightly less fortunate. The water that rose from his armor wasn’t enough to completely protect him. Several of the projectiles made it past his defenses and cut into his armor and across sections of exposed flesh.
+
+Gentle white energy rolled over Rodrick, sealing the wounds shut even as the formed.
+
+“Thanks, Anna!” Rodrick called.
+
+“Focus on the fight!” Anna yelled back, which was remarkably good advice.
+
+A branch whipped down from above, heading straight for Rodrick’s head. He moved to dodge out of the way, but before he could, a shadow passed above him.
+
+Olive landed on Rodrick’s shoulders with her sword raised above her. She didn’t even have to swing the weapon — the tree had swung its branch into her. Olive’s blade sliced clean through the wood and the branch crashed down harmlessly behind her and Rodrick.
+
+That’s a new trick.
+
+“Thanks number two,” Rodrick said to Olive. A root swirled up from the ground and shot at her back. Rodrick’s blade flashed and cut the attack from the air, spilling red sap across his front. Olive gave him an appreciative nod.
+
+“Arwin!” Lillia’s call cut through the room. “Split up and get closer! Get more of its attention. The tree struggles to focus more than one target at once, even though it can attack just about anywhere in the room! Rodrick, Olive, keep it occupied there!”
+
+Arwin heeded Lillia’s orders. Verdant Inferno sang delight in his mind as he crushed another root that rose before him. Leaves pelted against his shield as he raised it overhead, failing to reach their mark, and he launched himself forward with [Scourge].
+
+His feet slammed down into a rising nest of roots at the base of the Ashleaf Tree, crushing many of them with a wet, crunchy squelch. The Tree didn’t just take his attack. Woody growths drove into Arwin from every direction.
+
+He didn’t even try blocking it. Arwin swung Verdant Inferno, pouring power into the weapon with [Scourge]. It slammed into the Ashleaf Tree’s trunk with a loud crack. Wood splintered and flew, even as roots carved across his armor and bit into any parts of exposed flesh it could find. [Indomitable Bulwark] prevented the attacks from doing any truly significant damage, but pain burned in Arwin’s legs as roots wormed into the soles of his feet and bit at the thin gaps between pieces of armor.
+
+The damage he’d dealt to the Ashleaf Tree was more superficial than anything else. It was just a crack in the outside of its trunk — but it was a blow. And with Verdant Inferno, every single blow struck harder than the last.
+
+Arwin reared back. His opponent was a tree. If it couldn’t kill him with leaves and it couldn’t stop him with roots, then it wasn’t like it could do anything to stop him from wailing on it until it shattered.
+
+He swung the hammer.
+
+A groaning creak filled the room, and Arwin’s eyes went wide as the huge trunk suddenly accelerated toward him, crashing down toward him — quite ironically — like a falling axe. The entire tree was moving to crush him like a bug.
+
+Wood bindings slammed shut around Arwin’s legs, locking him in place.
+
+He’d been baited.
+
+There was no time to break free and dodge in time.
+
+Arwin banished Verdant Inferno with a thought. Trading blows with the huge tree would only end with him getting flattened, [Indomitable Bulwark] or not. Instead, he grabbed his shield with both hands and lifted it over his head, bracing himself.
+
+Shit. This is not how I wanted to do it — but if there’s ever been a telegraphed attack, it’s this one.
+
+Power poured through his hands and into the shield. The carved Wyrm eyes on its surface ignited with black flame as the Cursed item roared to life.
+
+Arwin activated [Revenging Strike].

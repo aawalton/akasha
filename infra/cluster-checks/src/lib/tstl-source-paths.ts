@@ -40,7 +40,7 @@ function tstlRoots(repoRoot: string): readonly string[] {
   if (cached !== undefined) return cached
   const rels = findFiles({
     cwd: repoRoot,
-    patterns: ["packages/**/tsconfig.json"],
+    patterns: ["**/tsconfig.json"],
     absolute: false,
   })
   const configs = rels.map((rel) => ({ rel, text: readFileSync(resolve(repoRoot, rel), "utf8") }))

@@ -1,0 +1,153 @@
+---
+id: 688ebd41-359b-5543-ab13-6668cb78143a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1252 - Questionable Dungeon Design"
+slug: 0124-chapter-1252-questionable-dungeon-design
+partOf: the-primal-hunter
+position: 124
+ownLength: 2789
+unit: words
+ownProgress: 2789
+publishedAt: 2026-02-10
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3033376/chapter-1252-questionable-dungeon-design"
+royalRoadId: "3033376"
+markedReadAt: "2026-06-29T19:34:26.889Z"
+---
+
+Jake was halfway expecting there to actually be a hidden third phase or something like that, but as the seconds ticked by, nothing happened. Casper seemed to notice Jake was still on guard and hadn’t deactivated his boosting skill and yelled out while flying up.
+
+“It’s done!” the Risen let him know, having already deactivated his own boosting skill, looking a bit worse for wear as a result. “I can feel that something unlocked atop the ziggurat. Likely a way forward or some clue to complete the dungeon objective.”
+
+Hearing this, Jake nodded and deactivated Arcane Awakening. Motioning with his hand for the Risen to follow, Jake flew over and landed atop the ziggurat, where he promptly sat down to meditate.
+
+Casper joined him soon after, throwing some glances toward the hunter. “Could I ask what the fuck that was, by the way? Was it your newly upgraded super-rarity skill?”
+
+“No, it wasn’t my sacred rarity skill,” Jake answered. The Risen didn’t react, raising an eyebrow with impatience as if Jake was being an ass for being so slow to answer.
+
+Right... Forbidden Knowledge.
+
+“No, it was my class’ capstone skill from level 320,” Jake answered again, this time in a fashion that the Risen could hear. “Also kind of a dumb question, considering if I did confirm it was, you wouldn’t be able to hear the answer.”
+
+“Yeah, yeah,” Casper waved him off. “But back to my original question, what the hell was it?”
+
+“Hard to explain,” Jake shook his head and sighed. “But suffice to say, it’s pretty damn good and allows me to really lock onto a target and make my attacks even stronger.”
+
+“I feel like there’s more to it,” Casper muttered. “Event Horizon, was it? Just going by the name, is it related to black holes? I also considered whether it was somehow related to light magic, but that doesn’t make sense.”
+
+For a second, Jake was surprised how Casper knew the name of his skill – or at least part of its name – which was when he remembered that he had to use Words of Power when activating it, announcing it to the world. Yeah, Jake was pretty damn happy that he didn’t have a lot of those skills, as he still found it awkward to yell out the name of his moves during combat.
+
+“I won’t say it’s related to either,” Jake said, thinking about it a little. “It’s more about the concept of the Event Horizon. What it represents and what I represent in context with it.”
+
+“Alright, yeah, so a conceptually dense skill that does shit I shouldn’t even bother to understand using any kind of logical mindset,” Casper nodded. “Though I still have one more question... why did I feel like your activation of it did more than simply mark a target? When you activated it, I felt pretty damn weird, and while it was only for a brief moment, it was unsettling to say the least... problem is, I can’t even fully remember what it felt like anymore. Seems almost eldritch in nature, that part, but again, I have experienced and seen eldritch stuff, and this wasn’t it.”
+
+“See, I could try to give you an explanation, but I think I won’t,” Jake said with a slightly teasing smile. “Totally not because I want to keep my secrets, but because I fear I wouldn’t be able to give a fulfilling explanation.”
+
+“Fine, you keep your secrets,” Casper waved him off. “Now let’s heal up and figure out what else Minaga has cooked up for us.”
+
+After saying this, Casper took out a potion he’d brought and quickly chugged it down before entering meditation to get back in top form quicker.
+
+Jake nodded, glad he wouldn’t be forced into trying to explain Event Horizon as he closed his eyes and meditated. He had used quite a few resources, yes, but he didn’t feel like he needed to drink a potion.
+
+He ended up meditating for only about an hour before Jake opened his eyes again, more or less fully recovered. Standing up and stretching, he tossed a look Casper’s way and saw the Risen was still in meditation. He would take longer to recover as he’d taken more damage during the last fight, but more importantly, he was getting skill-diffed hard in the meditation department.
+
+Seeing as he had a bit of time for himself, Jake went and did something they probably should have before recovering. Checking the corpses of the killed enemies, Jake saw that they were already half-decomposed after only an hour, likely due to Casper’s influence. Loot-wise, there was nothing of note on any of the guards or the Guard Captain, but when he got to the Formation Master, Jake was surprised upon actually finding something.
+
+She had a small crystal envelope in her hand, and upon picking it up and scanning it, Jake frowned. It was sealed in some way, and upon propping it a bit further, he realized it was clearly an item meant to have its seal broken. It was even shaped like an envelope, making it obvious that it would contain important information.
+
+Finding nothing else of note in the room, Jake returned to the ziggurat and sat down with the envelope. Seeing as he still needed to wait for Casper to wake up, he decided to take a crack at the seal, reckoning that Minaga wouldn’t be so boring as to make it possible to lock oneself out of the wonderful message no doubt contained within. Yeah, Jake saw no way that Minaga would willingly do so that people would hear less of his words, be they spoken or written, for dungeons.
+
+Infusing a bit of mana into the magical envelope, Jake instantly felt his consciousness connect with it. In his mind’s eye, he saw a tangle of magical strings and odd shapes that all seemed out of place. At first, it was confusing, but after studying it a little, he got a feeling that some of the objects were in the “right” position and others only began looking more wrong.
+
+It reminded him a bit of a challenge from his Puzzle Box of the Seeker – an artifact he now felt sad about not having had as much time to play with recently as he would have liked. The fact that it reminded him of the Puzzle Box was only a good thing, though, as Jake quickly got to work.
+
+The challenge to unlock it proved easier than Jake had first expected, but then again, if Jake had found it overly difficult, he doubted many other peak C-grades would even be able to solve it.
+
+Ultimately, it still took Jake around an hour, and as he opened his eyes again, the seal gone, he saw that Casper was still being a lazy bum and in the middle of meditation.
+
+Grumbling a bit to himself, Jake resigned himself to his fate and just took out a cauldron and made a batch of potions to pass the time while at least getting a bit of experience if he had to wait, anyway.
+
+About forty minutes later, Casper finally opened his eyes and looked over. “Why do I feel like you’re passive-aggressively crafting right now?”
+
+“Lyra told you,” Jake said, having felt the gaze of the ghost from insane Casper, signalling she had recovered before him.
+
+“And we are in tune with one another’s emotions,” Casper said shamelessly. “But don’t worry, I’ll wait for you to be done, as patience is a virtue.”
+
+Jake just nodded, focusing on finishing this patch of mana potions. He didn’t particularly need additional mana potions, but it never hurt to have more, and worst-case, he could just hand them off to other people later for them to benefit.
+
+Once done, Jake put away his cauldron and bottles before addressing the curious Risen who had noticed the crystal envelope Jake had placed on the ground beside himself.
+
+“Found it on the corpse of the Formation Master,” Jake explained. “There was a seal on it, but I had some extra time and cracked it while waiting for you to finish slacking off.”
+
+“While also doing some alchemy afterward?” Casper asked with a raised eyebrow. “Either you were really taking it easy before, or your Meditation skill is way better than mine... then again, I do only have an epic rarity one that isn’t particularly focused on speeding up recovery.”
+
+“Mine is better,” Jake answered, just keeping it at that. “Anyway, enough dallying. Ready to see what’s in the envelope? Unless you have some insight as to why we shouldn’t.”
+
+Casper’s unique insight into dungeons may have told him that this envelope was a trap or something, and while Jake would likely have wanted to try to open it anyway, even if the Risen said it was, he at least wanted to ask the Risen.
+
+“I briefly scanned it earlier, and it’s a recorded message of some kind,” Casper shrugged. “Seemed safe enough. Physically, that is. I cannot say anything about the potential mental damage we may suffer from hearing what Minaga prepared.”
+
+“It’s just a risk we’ll have to take,” Jake chuckled as he picked up the envelope and infused energy with the intent to open it. After doing so, he threw it on the ground, and above it, a figure was projected.
+
+This figure was heavily obscured, making it impossible to get a good look at the person, but the voice that came next was a man’s. Oh, and that comment about potentially suffering mental damage from Minaga’s dialogue couldn’t have been more spot on.
+
+“My dear Formation Master and loyal subordinate, remember this task I have given you, as your leader and the one in charge of constructing this Grand labyrinth, is a vital one! If you and the three other Formation Masters succeed in your mission in time, the Grand Labyrinth’s most important role will be completed, and we shall be assured that no adventurers will ever be able to disturb what lies at the core! So make haste, for I fear that adventurers will come, so we must be as fast as possible, because if they are too slow to stop all four of you, their quest will have been in vain! In some ways, you could even say that they are on a timer! But I am not too fearful that you will not complete your part in time, for yours is the fastest and easiest, and I am more fearful of the others, as they will take substantially longer to succeed. Once you are done, continue traveling through the Grand Labyrinth using the hidden teleporter on the ziggurat, and go assist the next Formation Master, who has the second-easiest job. Oh, and before I forget, remember to destroy this message once you’ve listened to it, as if any adventurer gets it in their hands, it could prove highly detrimental to our mission.”
+
+After the way-too-long speech was done, the projection faded, and the envelope resealed itself once more.
+
+Jake and Casper were silent for several seconds before the Risen looked at Jake. “Want me to open the seal this time so we can hear it again?”
+
+“Only if you remember to stab me with a stake through each ear first,” Jake mumbled. “A solid one out of ten, right?”
+
+“Assuming we can’t rate anything a zero, yes,” Casper nodded wholeheartedly. “But... I guess there was at least some useful information in there. First, the dungeon is timed, and second, there is a hidden mechanism on this ziggurat that will take us further into the dungeon. Oh, and there are three other mini-bosses like this one before we face the final boss at the core.”
+
+“Do you think the dungeon is actually timed?” Jake asked with a raised eyebrow. “Because I find the timing that the Formation Master got done doing her thing right in the middle of our fight pretty damn suspicious. Almost as if it was scripted to be that way.”
+
+“It wouldn’t surprise me if it’s just artificial time sensitivity,” Casper nodded after thinking it over a little.
+
+“Definitely gives the vibes of those quests in games that say you must make haste, and then you can just fuck off for weeks doing random side objectives without it having any effect on the quest,” Jake said, shaking his head.
+
+“Most pressing piece of evidence is that Minaga wouldn’t purposefully limit content with the explanation for missing the content being optional,” Casper shrugged. “Either way, does it even matter? Not like we’re going to be slower on purpose to test if we’re right or wrong.”
+
+“I don’t know, with how long you meditate...” Jake took a dig at the Risen with a teasing smile.
+
+“Yeah, yeah, very funny,” Casper shook his head. “Look, now my feelings are hurt, so while I sulk, could you find the hidden mechanism and unlock the way to the next section of the Grand Labyrinth?”
+
+Jake was about to agree, but that was when he realized he had yet to spot anything hidden with his Sphere or Pulse. He hadn’t even known there was one before the recording told them so. Realizing this and seeing the knowing look Casper gave him, the hunter sighed.
+
+“I apologize, oh benevolent Dungeon Engineer, will you please bless me with your knowledge and great contribution to this dungeon clearance?” Jake said in the most monotone voice he could muster.
+
+“Fine, if you insist,” Casper smiled as he flew forward and down the side of the ziggurat until he found a random blank wall, Jake following him. Raising his hand, the Risen placed his palm on the wall and infused energy, making a magic circle appear. With a hand motion, he made it turn like a lock, and as it did so, a familiar-looking teleportation circle appeared atop the ziggurat.
+
+Flying up top again, Jake looked at the circle and sighed. “Minaga hid all those things like that just to fuck with me, didn’t he?”
+
+“Definitely played a part,” Casper chuckled. “And, yeah, there will for sure need to be some way for it to be easier to find those for random parties. Your senses are pretty damn good, even if we disregard your Bloodline, and yet you can’t detect them even when this close. If you were here alone, you would more or less have to just touch random walls while infusing mana until you found the right spot.”
+
+“Shitty dungeon design for sure,” Jake commented, the rating of the dungeon falling yet another star. Jake was pretty sure he was in the negative by now.
+
+“Let’s use more diplomatic language,” Casper smiled. “I would instead say that the dungeon has certain questionable design choices. We don’t want to hurt Minaga’s feelings more than we have to.”
+
+“I feel like Minaga would be more insulted by us using flowery and diplomatic language to criticize rather than just call it shit,” Jake shrugged.
+
+“Oh, most certainly,” Casper didn’t disagree at all as he gave a mischievous smile.
+
+“You aren’t doing a good job of making the Risen appear less like an evil faction,” Jake shook his head.
+
+“Says the Chosen of the Malefic Viper,” Casper shot back. “Now, enough bickering; through the portal we go! We still have three more Formation Masters and then a final boss.”
+
+Jake just agreed, and seeing as they were both recovered, they didn’t hesitate further to activate the teleportation circle. Space magic wrapped around them, and a moment later, they found themselves standing on a raised stone platform right in the middle of yet another massive hallway with the ground below and the sky above – though a barrier did create a ceiling a few kilometers up.
+
+Their plan for the dungeon was simple, just as Casper had said. From here on out, it was just about killing the rest of the Formation Masters while going through the Grand Labyrinth, all the while, the average levels of their enemies should be increasing.
+
+“So, which way?” Casper asked, since they had the option to go left or right.
+
+Jake had already released a Pulse of Perception, which gave him the answer right away as his eyes opened wide.
+
+“Left... and run,” Jake said.
+
+“Why the rus-“
+
+Right then, something peeked around the bend in the hallway to the right, a familiar glow illuminating the black metal walls as the object rolled toward them with great speed, consuming everything in its path.
+
+The massive orb filled the entire hallway, and as the two started running for their lives, a shadow chased after them on the ground below, cast by the five letters engraved upon the orb:
+
+Jones

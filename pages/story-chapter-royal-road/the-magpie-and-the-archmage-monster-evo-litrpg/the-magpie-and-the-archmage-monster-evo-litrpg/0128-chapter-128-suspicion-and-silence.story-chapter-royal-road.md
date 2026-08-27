@@ -1,0 +1,207 @@
+---
+id: 47032e6e-825e-5342-84b1-1a9affb0216e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 128 – Suspicion and Silence"
+slug: 0128-chapter-128-suspicion-and-silence
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 128
+ownLength: 2193
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3452071/chapter-128-suspicion-and-silence"
+royalRoadId: "3452071"
+---
+
+"What is the meaning of this?" The elderly mage bellowed at Serena, his staff pointed threateningly in her direction.
+
+Of course, she understood that this would happen, but in the heat of the moment, when she noticed the familiar shimmer in the night sky and saw this man flying after it, Serena had just… reacted. She hadn't even been sure that it had been her magpie friend. It was nothing more than a hunch.
+
+"My apologies, I saw a monstrous bird flying above and saw you chasing it. I tried to strike the bird, but I miscalculated how long it would take to cast my spell and ended up hitting you. My deepest apologies," Serena said, bowing her head.
+
+"How were you able to see that bird? It was clearly using some stealth skill," the elderly mage snapped.
+
+"I caught but a mere glimpse for a moment, sir," Serena lied, hoping that it would be enough to get her out of trouble.
+
+"She truly was aiming for the bird. Please, forgive my companion, Headmaster Horace," Damien inclined his head politely.
+
+Seeing the blonde man show respect to this mage signified that he indeed was of high status. Damien never really showed respect to anyone except the absolutely best of the Elites. This had landed them in trouble more than Serena would have liked.
+
+"What are you two even doing here in the middle of the night? You're not a student, are you?"
+
+"Allow me to introduce myself. I am Damien Stolte, and this is my companion Serena. We were on our way to your school when we saw all the explosions happening around here and rushed to help," Damien explained.
+
+The Headmaster's eyes lit up with recognition. "Stolte, you say? You must currently be on your path. But last I heard, the Stolte always followed the path of the Silver Sword."
+
+"That is correct. However, I was hoping to see my friend on one of the magical paths, if possible. Your school would be the first step to that," Damien replied.
+
+"I dearly hope that you mean the path of Mystic Prism. We do not support those who follow the chaotic ways of Lost Magic," the headmaster said.
+
+This struck Serena as odd. She would have thought that a magic school would support both paths that focused on magical studies. Yet it seemed they outright rejected the path of Lost Magic. Why?
+
+What worried Serena was the fact that Liora had claimed to be Archmage Renir's familiar, and now she had done something at the school that was antagonistic against it. Something bigger was going on here.
+
+"Of course," Serena said with a smile. "I wouldn't even dream of following the path of Lost Magic."
+
+"Sensible girl. But currently it is not the best time. Please proceed to the village. We need to make sure that the surrounding area is safe and try to track the monstrous bird."
+
+"Thank you very much!" Serena bowed.
+
+Headmaster Horace gave a curt nod and then disappeared, likely using teleportation magic. For a moment, Serena and Damien remained silent, walking slowly in the direction of the school.
+
+Once they were sure that the mage was nowhere near them, Damien said. "Something odd is going on here. And more than just that thieving magpie snooping around. I'm actually starting to believe what it was saying…"
+
+"Let's go to school for the time being. I want to see what is going on there…" Serena said.
+
+"It could be dangerous. Don't you think it's better to leave?"
+
+Serena thought about it. The headmaster likely would be watching her carefully. Although he seemed to accept her attack as a mistake, she doubted that the man would let it go so easily. Leaving might have been the best decision. But on the other hand, it would raise more suspicions. And Damien had already used his family name. Disappearing after claiming to have come to learn could sully his family name.
+
+"I'll go. I think it's best if we follow up on what we said we'll do. I wouldn't want to sully your family name after you used it to protect me," Serena said.
+
+Damien rubbed the back of his neck awkwardly. "You don't have to worry about something like that. But if you insist, then let's go. Just don't expect me to leave you there alone."
+
+Liora flew all the way to Abylport before she relaxed and allowed herself to stop for the night. The old headmaster had been persistent, and were it not for Serena's intervention, Liora feared to think what would have happened. She would find a way to make it up to the woman one day.
+
+You sure it's fine to just leave Serena there? Won't they hurt her for attacking the headmaster?
+
+If she were alone, then I'd be worried, but she was together with the Stolte boy, wasn't she?
+
+Yes. Why does that matter? I don't think he's strong enough to defeat that mage.
+
+It's not about physical strength. It's about political strength. The Stoltes are one of the most prominent families in the Velithra. It was their ancestor that served as the first Pillar of Silver Sword, and most of their family have served as Silver Sword Elites. They are not to be taken lightly.
+
+So much for meritocracy. Seems like bloodline matters after all.
+
+I never said that bloodline didn't matter. Besides, they did earn their status fair and square. While this Damien boy is more arrogant than regular Stoltes, he still has a strong standing. Not to mention that he, too, is on the path of the Silver Sword. The headmaster cannot ignore that. As long as he remains with Serena, she'll be fine.
+
+But will he remain with Serena? Maybe I should sneak back to the academy to get her out.
+
+Oh, don't worry about that. He won't leave her.
+
+How do you know that?
+
+Because he's in love with her.
+
+What… Damien… In love with Serena? But he literally declared that Serena, Kalen, and Kiva were riffraff. Unworthy to be adventurers.
+
+Didn't you notice how protective he was of her?
+
+Liora thought back about the interaction between the two. They did seem much closer than before. But Damien being in love with Serena? It seemed ludicrous.
+
+Trust me. She is safe. Just be glad you managed to get away. That was a very close call, you know.
+
+Liora had to agree there. Seeing that old man flying after her at such a speed was terrifying. She always believed that nothing could catch up to her in the skies. But that clearly wasn't the case.
+
+I need to get faster and stronger…
+
+A pleasant feeling was radiating from Renir.
+
+Does this mean you're willing to train? To improve your skills even if it's unpleasant?
+
+I need more glimmerstones. More experience that can be obtained safely, instead of fighting deadly foes each time.
+
+Oh! I'm going to come up with the best training regimen by tomorrow. Don't you worry! I already know where to start.
+
+I will not spend any…
+
+No! Don't you say it. Go to sleep, and we'll discuss it tomorrow.
+
+Liora wanted to protest, but she was so tired after the night's events. Cee had already fallen asleep a long time ago, pretty much the moment Liora had landed on the tree. She remained awake for another hour or so, worried that perhaps the mage had somehow managed to track them. But when the sun started to rise, Liora accepted that they were likely safe and went to sleep.
+
+When Liora woke up again, dusk was already settling down. Cee was hanging in a web next to her, munching on what looked like roast chicken.
+
+"Good morning, sleepyhead!" Cee greeted.
+
+"Morning," Liora said, stretching out her wings. "Did anything happen while I was asleep?"
+
+"I only woke up recently, but to my knowledge—no. I mean, Abylport is quite a distance away from that school. There's no way for them to catch up to us," Cee said, taking a bite of her breakfast.
+
+Liora, feeling her rumbling stomach, withdrew a portion of roast potatoes from her Inventory and began eating them. "But that mage was super fast."
+
+"Yeah, that was scary. Good thing that a human friend of yours helped us out. I hope she'll be fine."
+
+"Renir said she'll be fine since she's together with the Stolte. But I'm a bit worried…"
+
+"Be that as it may, we can't go back there anymore. Many people saw us and would recognize us as intruders. Same for any mermaid cities. I bet we've been branded criminals by every mermaid in the… however many seas this world has," Cee said.
+
+Liora groaned. At the rate Liora was going, she was making enemies in every place that she visited. Even she understood that this would undoubtedly bite her in the tail and likely soon.
+
+"We need to lay low for a while," Liora concluded.
+
+Like a long secluded training?
+
+Renir sounded excited.
+
+"Yes, I suppose we should do some training. And find a fire mana spot, which would involve humans or humanoids of any kind. Preferably no monsters, too," Liora said.
+
+Fire mana nodes only appear near hot springs or volcanoes. Hot springs would be a better choice.
+
+No way! It would be filled with humans. They build cities around hot springs. Resorts.
+
+Yeah, but are your feathers fireproof?
+
+Liora sighed. Why were things never easy?
+
+"What's with the sour face?" Cee asked.
+
+"Renir says that fire mana nodes appear near hot springs or volcanoes."
+
+"What?! I am not going anywhere near any volcanoes!" Cee shook her head fervently.
+
+"Yeah… But hot springs would mean dealing with humans…"
+
+"That's not ideal either."
+
+Let's not think about it for a little while. You've done very well getting the Resonance Crystal charged. Two weeks of focused skill training would serve you well and prepare you for future battles.
+
+"Renir suggests spending two weeks on training skills," Liora conveyed the message to Cee.
+
+The spider thought about it for a moment. "Seeing how troublesome it has been reaching each mana node, I agree. The stronger we are, the better. And on the grand scale of things, two weeks won't change much."
+
+Liora was reluctant to agree. She knew what the training would involve. "Are we doing the resistance trait training too?"
+
+Absolutely!
+
+"Of course! I'd like to get some resistance traits, too, if possible. I currently have only Poison Resistance at Novice level," Cee said.
+
+"Oh! If we're both suffering, then I agree. I want to see you squirm under those elemental webs. Chak-chak-chak!"
+
+"You're an evil, evil bird, you know!" Cee wiggled her front legs angrily.
+
+"No, you're the evil one. You were the one who enjoyed torturing me with your webs."
+
+"Only a little… And it was for your own good."
+
+They ate their breakfast, jabbing at each other in a friendly manner occasionally. It allowed Liora to relax and unwind after the night's events. Once they were done, Renir spoke up in her mind eagerly.
+
+Okay, let's start with the most obvious part. We are upgrading your Mimicry skill!
+
+Liora mentally brought up the notification that she had received at school.
+
+[Your skill <Mimicry> has reached its maximum potential. Would you like to upgrade it for 100 glimmerstones?]
+
+100 glimmerstones? Are you kidding me? I am not—
+
+You are spending them!
+
+Renir shouted it with such ferocity that Liora couldn't help but flinch.
+
+"What are you two arguing about now?" Cee looked, already used to their mental conversations.
+
+"Cee, Renir wants me to spend on glimmerstones again!" Liora whimpered.
+
+"There must be a good reason, no?"
+
+There absolutely is. Upgrading a skill allows you to make it stronger in a way that suits you. You'll be able to choose in what direction to take your skill, although I'm admittedly not sure what direction Mimicry would go.
+
+I don't get it. Mimicry is already good. I can mimic your incantations and voice and even monster skills perfectly. What else could I want?
+
+Okay, let me give you an example. A fireball spell is the most basic fire magic spell. But once upgraded, you can choose what it will be upgraded into. One option is the inferno orb, which detonates into a large explosion upon impact. Another is seeking flame, which tracks the target and follows it. Third is a lingering blaze that spreads fire in a large area and continues burning.
+
+There are more options, but the point is that they are much stronger than the regular fireball. Your Mimicry would also become more empowered. I suspect that at least one of the paths would allow you to copy sound-based skills at a higher level. Or perhaps improve the incantations you do. I don't know.
+
+Liora was intrigued. Mimicry has been the skill that often saved her hide. Improving it seemed tantalizing. But the price… She hadn't even recovered the glimmerstones that she had paid for the Aegis Cyclone.
+
+Yes, I know you are hesitant to spend glimmerstones, but it doesn't cost anything to just look at the options.
+
+I… Okay. We can take a look.

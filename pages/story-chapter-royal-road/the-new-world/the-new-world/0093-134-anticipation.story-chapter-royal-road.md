@@ -1,0 +1,171 @@
+---
+id: 1a4ed3d8-4b84-5a2f-a5dd-70cb5dbb5b3d
+page-type-slug: story-chapter-royal-road
+title: "134 Anticipation"
+slug: 0093-134-anticipation
+partOf: the-new-world
+position: 93
+ownLength: 2258
+unit: words
+ownProgress: 2258
+publishedAt: 2018-07-12
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/233261/134-anticipation"
+royalRoadId: "233261"
+markedReadAt: "2026-06-29T21:24:03.884Z"
+---
+
+The overseer stayed silent. Yawm clapped his hands, a vicious delight infecting his voice,
+
+“Is it so shocking to see me? Why does it stun you so?”
+
+The overseer gripped his fist. As he did, the air around us cackled like a banshee, turning a shade of emerald. Aura’s of green condensed in the palms of Yawm.
+
+“Now now, stay calm. Otherwise that leash choking your neck might turn into a guillotine.”
+
+The overseer shook in visible rage. Based on the story the overseer told me a while back, Yawm’s race enslaved his own. The bad blood between them ran deep. That hatred simmered right beneath the surface.
+
+The pistons surrounding his electronic armor hissed as he lifted a hand. Off reflex, I stomped my foot, slamming a telekinetic wave into the overseer’s hand. His colossal palm veered right, aiming his attack elsewhere. A sphere of matter disintegrated, erasing a portion of the building. The overseer stared at me. I thundered,
+
+“What the fuck was that? Are you a dumbass?”
+
+The overseer gripped his opened hand back into a fist, staring at it. Schema planted kill switches on overseers. If they attacked anyone in the system, the kill switches eliminated them. With a sentinel’s spear, Yawm was a monster. With an overseer’s armor, Yawm would be unstoppable.
+
+Knowing this, Yawm laughed and clapped his hands,
+
+“And so the Harbinger stopped you alone. Pity. I’d rather you sliced a hole in my chest. As I regenerated the flesh wound, your killswitch would put a piston through your head. Having your life saved by one so young, I’d be ashamed.”
+
+Yawm stepped up, his eye meeting the eye of the overseer, “Quite a predicament you’ve found yourself in, isn’t it? Schema cannot bend or change his rules, not even when eliminating someone like me. Isn’t that right?”
+
+The overseer hissed his words with more venom than a snake,
+
+“Yes. That is correct.”
+
+Yawm nodded, leaning back from the overseer,“Unlike you, I don’t have to submit to that artificial intelligence for the power I wield. The competence I gained, I earned. It is my own.”
+
+The overseer laughed at him,
+
+“What exactly is yours? The runes you gained from Etorhma? Those are no more yours than this chassis is mine. Are you lying to impress the Harbinger, or are you lying to yourself?”
+
+The overseer pointed at the runic inscriptions tracing Yawm’s skin, “You haven’t implemented a basic improvement upon them. A shame. Daniel has already inscribed his own versions of the cipher onto his skin. Quite a feat. He did so without an Old One’s guidance.”
+
+The overseer tapped his chin, “He didn’t need five hundred years to do it either.”
+
+Yawm’s shoulders lowered, and he clasped his hands into fists harder than cannonballs. Yawm breathed deep, letting out a long sigh before loosening his fists.
+
+“My life isn’t in the hands of a cold, unfeeling automation.”
+
+The overseer shook his head, “No. You’re life isn’t in anyone’s hands. Instead, you are hunted by bounty hunters and the horrors that worship the Old Ones. You run, but you can’t escape them, can you?”
+
+The overseer leaned towards Yawm, “No. You are a blight. You will struggle, but you will never learn the cipher you stole. You will be hunted down until you die. You will drag this talented one along with you.”
+
+I stared at Yawm, my stomach sinking. His chest rose and fell, his breath ragged. His face scrunched as he stared the overseer down. Yawm’s anger at me never lasted longer than a passing moment. This rage towards the overseer, it gouged deep into him. Like magma beneath a volcano, Yawm’s wrath boiled under the surface.
+
+Yawm turned his head around, glaring at me. His eyes opened wide. He snatched the glance away, his anger cooling. His hands loosened. His breathing steadied. His shoulders relaxed.
+
+“So I’ll be dragging this one along with me...Who locked him on his world and forced him to fight against me? Who gave him a bounty for surviving a harrowing introduction into his system?”
+
+Yawm nodded, “You’re master gave him a death sentence, and he isn’t even hiding his own hypocrisy. What has Daniel done that deserves death? It it due to surviving his first dungeon, therefore he must be hunted as I am?”
+
+Yawm pointed a finger at his chest, “I served Etorhma. I chose my path.” Yawm pointed towards me, “He never had a choice. You call him the Harbinger, but you know nothing of who he was. I had reason to kill him. His mission was to kill me. I showed him mercy. What more am I to do? Lay down and die as he evolves?”
+
+Yawm stepped away from the overseer, “No. I’ll battle until the flesh is rendered from my bones and my hands are ground to dust. Remember this, dog. I may be the one who is hunted, but I will survive. I’ll find Schema. When I do-”
+
+Yawm’s hatred saturated his words,
+
+“I’ll tear his mind and soul apart.”
+
+Yawm stepped out of the room, his steps thumping the ground. After he left, the overseer and I stared at the exit of the theater. A tense silence passed before I shrugged,
+
+“Damn...this feels like a movie.”
+
+The overseer turned his gaze to me. He shook his head, the electronic wires running down his back waving like hair of metal.
+
+“You are one of my biggest disappointments. You could have been so much more.”
+
+The overseer opened his portal, walking through before I replied. As the portal closed, I stood there, stunned by his response. He understood my situation in detail. He knew I didn’t stand a chance against Yawm.
+
+He expected something ridiculous of me, yet he acted like my failure was some big surprise. Really now? Defeating the eater of worlds was getting messy? Who would have guessed.
+
+Before I wasted my time being frustrated, I used a trick I learned forever ago. I put my hand on my shoulder and ‘brushed’ his comment off. Something about the physical act made it final; why let a dumbass ruin my day anyway? I had important tasks that needed doing anyway.
+
+Other rifts needed clearing.
+
+I paced out of the theater, jogging back up towards Yawm. As I reached him, he kept his gaze facing forward. We walked by each other in silence. Sometimes giving someone space was the best policy. This was one of those times. Once we left the building, I pointed at the next likely rift location. We headed out.
+
+We ran through the city for several hours like that. Each time I ate a dungeon core, I invested all my points into endurance, as always. Each time the blue squares appeared, Yawm left before the overseer appeared. I ignored the overseer when he appeared. I let the guy do his job. Unlike him, I didn’t need snide remarks for satisfaction.
+
+Well, telling him off would be pretty satisfying, but I didn’t need them, yenno?
+
+Instead, I honed in on the task at hand. After the day ended, we cleared two dozen rifts. While walking back, we an intersection in the dead city. Around us, the wind howled loud, like some banshee. A dozen cars littered the streets around us, their windows bashed in.
+
+The door of a nearby building slapped open and closed with the wind. Yawm bent over, lifting a rock nearby and lobbed it at the noisy distraction. The rock exploded on the side of the building, like someone fired a rocket at it. With no hinges holding it up, the door fell down, flopping against the porch.
+
+Yawm sighed, “That series of events between the Overseer and I...It was a rather nasty series of events, wasn’t it?”
+
+I shrugged, “On both ends, yeah. It got ugly.”
+
+Yawm nodded, “And there is your blunt manner of being.” Yawm stood up tall, looking up at the sky, “He and I have history, as you may imagine. It makes holding a civil conversation with him impossible. At least for me that is.”
+
+I laughed, “Man, I can relate. I thought he was going to kill you before you responded. Talk about terrifying.”
+
+Yawm frowned, “Next time, do avoid deflecting his attack like that. I want to see him die.”
+
+I rolled my eyes, “You wouldn’t see anything. He’d have obliterated you, just like you’d obliterated him. I just tried defusing the situation so that I wasn’t annihilated in the process.”
+
+Yawm chuckled, “Your sense of self preservation hasn’t ever led you astray, has it?”
+
+I gestured to all of me, “Obviously not.”
+
+Yawm nodded. We stood there for a minute, then he looked back at me from the sky,
+
+“I do hope your thinking of me hasn’t changed.”
+
+I waved his words away with my hand,
+
+“What? Hell no. I already knew you had beef with Schema, sentinels, and the overseers. That overseer in particular was a total asshole.”
+
+Yawm nodded, opening turning a palm towards me, “I couldn’t agree more. I despise my coarse manner of speaking with him as well. It degrades my own opinion of myself.”
+
+I shook my head, “You sound like me when I’m talking to, well, when I talked to my dad. For some reason, I couldn’t be remotely cognizant of anything when he was around.”
+
+Yawm shrugged, “A checkered past between people muddies the mind. It distorts our perception of others, making us rash and unlike ourselves. I’m glad you forgive me for that.”
+
+Yawm sighed, “I’m glad we discussed the matter at the very least.”
+
+I walked forward, “Eh, just be ready to let my bullshit go when I fuck up something next time.”
+
+Yawm jogged back up to me, “Allow me to assure you. I will voice not one word of dissent.”
+
+I spread out my hands, “Good, because it could come at any moment. I mean, I fuck up all the time.”
+
+The mood changed, turning almost jovial. After running around with something weighing us down for a while, resolving the issue let us both breath. From my experience, those situations either broke friendships down or built them up. Considering how things ended up, I considered it the latter.
+
+With the day ended, we walked through the city like that. Yawm’s questions about human civilization sprang back up. I answered with jokes thrown in. We reached a mile from his rift, the gray cloud looming overhead. We ran through the gray cloud, entering the different world.
+
+Once we dived through his lake, we returned, once more in Yawm’s underwater castle. I walked towards my room, looking forward to a bit of down time. As I did, a message appeared in front of me,
+
+Amara, the Lost One(Time: Undefined) - I’ve been searching through forums and message boards. While hard to find, I hunted down several threads regarding Yawm and the system. Within the den of these hunters, I discovered quite a few delicious details regarding both Yawm and Schema.
+
+Using the knowledge, I can repair our identification systems. They work like this. Schema’s operating system identifies the monster using your own senses as the lens. Once he’s gathered data on it through your sensory systems, the system sends a personalized query towards your region’s AI.
+
+This little Schema interprets the data and gives you an answer based on what you see, smell, etc.
+
+If done with the improper channels, this little Schema can boot us from the system. It also exposes our location, something we’d both rather avoid. I found a way of avoiding their hunting eyes.
+
+We upload the most common forms of eldritch and their overall rarities. As we see an eldritch or object, our obelisks will sift through these files. After probing for the item most similar to what we sense, our obelisk gives us information.
+
+The teeth of our new identification systems won’t be as sharp as Schema’s own. Having teeth is better than being toothless, however.
+
+I celebrated the good news before reading her next message.
+
+Amara, the Lost One(Time: Undefined) - Know that this is the best of what I have to tell you. The other half involves Yawm. He rarely stays in one place for long. The monster prefers to hop from planet to planet, tossing them aside like used rags.
+
+No matter how much I researched, I never discovered how he hunted worlds. Whenever Yawm stole the sentinel’s spear, Schema neutralized its power. To fix such a convoluted tool should have been outside of Yawm’s abilities. Yawm can hardly write even a basic incantation. How did he fix something of unmeasurable complexity?
+
+Even more so, I fail at understanding his motives. He is a battle junkie. Why is he trying to create eternal peace? I doubt that’s his true inclination. If anything, he might be trying to destabilize everything we know for war. My opinion of that monster may be biased.
+
+I also discovered discrete forums hidden in the depths of the monolith’s network. Within these forums, I discovered a site dedicated to active Breakers. Breakers act as Schema’s best bounty hunters with a heightened level cap. They hunt for monsters like Yawm or even people like you.
+
+Information has spread. One of the levelers you killed from before uploaded a video of you fighting. The video showed an instant quest of A- rank. The quest detailed how you are following Yawm. Considering that Earth has been on the list of quarantined worlds, and the Breakers have put two and two together.
+
+They are coming.

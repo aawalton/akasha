@@ -1,0 +1,175 @@
+---
+id: dce7b94f-8c08-5ab8-abc9-2a2769b05f09
+page-type-slug: story-chapter-royal-road
+title: "Chapter 586: The Empty Throne"
+slug: 0110-chapter-586-the-empty-throne
+partOf: reborn-as-a-demonic-tree
+position: 110
+ownLength: 2518
+unit: words
+publishedAt: 2026-06-26
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3595763/chapter-586-the-empty-throne"
+royalRoadId: "3595763"
+---
+
+Stella Crestfallen stepped forward, her chilling gaze sweeping over everyone present before landing on the empty throne.
+
+"Where is the Crowned One?" she asked, her voice quiet and level.
+
+That was when Caelan realized that the room, abuzz with chatter moments ago, had gone dead silent. Despite her not using Qi to empower her voice and speaking at a normal volume, it effortlessly filled the vast Grand Hall and commanded the attention of all who listened. This was unprecedented, as not even the Chairman could command such silence with his mere presence.
+
+Caelan tensed like everyone else, his back straight as an arrow, and the spirit wine in his cup was like a serene lake. Not a ripple. He was not alone. Everyone else, no matter their House or cultivation level, was frozen in time like a statue. Their gazes locked onto Stella as if she were a predator about to strike.
+
+The strangest part was that Stella wasn't emanating any soul pressure or bloodlust at all. It was as if she were a mere mortal. Yet, there was just something about her that was deeply unsettling, like walking into a dark room and catching a silhouette waiting by the windowsill out of the corner of your eye. Without needing to utter a word, fear was instilled.
+
+That was how Caelan felt right now. Frozen in place with a killer breathing down his neck.
+
+Stella Crestfallen's gaze slowly fell away from the empty throne and passed over the thousands gathered around it, all staring at her with tightened lips. She did not falter in the slightest under their collective stares.
+
+And that only heightened the tenseness in the air. Daughter of the All-Seeing Eye, the enemy of all present in the room didn't even flinch when outnumbered a thousand to one. Was she a suicidal maniac?
+
+No, the far more likely reason was that she had no reason to fear them at all—and if there was one thing the old monsters of the noble houses present hated, it was uncertainty.
+
+"It's a dark world we live in," Stella said, her tone icy. "While a wave of monsters that stretches across the horizon devours millions of people, those with the heaven-granted strength to stop its advance don't lift a finger. But a piece of paper demanding your attendance at a ball has you dressing in fine silk and gathering together in harmony like this under an empty throne?"
+
+She tilted her head. "Is it his famed strength you all fear that has you running at his beck and call? No? Such a Monarch, no matter how powerful, surely couldn't take you all on." She took a step forward, and the nobles nearest to the marble stairs instinctively stepped back. "Or perhaps it is his control over the golden sap supply that commands your obedience? Without him, you would all stall in cultivation, leaving you vulnerable to being surpassed by rivals and your own children."
+
+Caelan briefly caught her sweeping gaze, and despite her being his savior in the very situation she was describing, she not only showed no sign of remembering him, but she looked at him with an emptiness as if someone were glancing over a field of withered flowers.
+
+Perhaps there's a third reason she doesn't fear us. Caelan shivered. She doesn't even see us as humans.
+
+"Nobody is going to answer me?" Stella Crestfallen said, and received no reply.
+
+Most were too stunned to speak, while the rest were too worried about being singled out. With the Crowned One missing, it was unclear how this ball was going to go. Caelan could understand their plight—he also remained silent out of fear of drawing Stella's attention.
+
+She turned calmly to the six-armed monstrosity at her side, her face not betraying any emotion.
+
+"Kill someone."
+
+Caelan barely had time to register the command before the creature at her side vanished into the void. A single breath later, it reappeared—its claws slick with fresh blood.
+
+A dull thud broke the stunned silence hanging over the Grand Hall.
+
+Caelan's eyes snapped toward the sound alongside everyone else as a member of House Vayne collapsed face-first onto the polished stone floor. Twelve punctures marred the large man's back, blood already pooling beneath him. He was no Elder of House Vayne, but the elegance of his robes compared to the attendants around him marked him as a son of the Patriarch.
+
+Just like that, someone had died at the Crowned One's ball.
+
+The mood shifted instantly.
+
+A shriek came from House Vayne as a middle-aged woman rushed to the dead man's side with a horrified expression. She collapsed beside the body, her shaking hands running alongside the man's skewered back, her fingertips dying with blood. "Y—You killed my son!"
+
+"Finally, someone remembered how to speak," Stella said dryly, uncaring of the hatred the members of House Vayne were sending her way. "Where is the Crowned One?"
+
+The middle-aged woman scowled and yelled back with spittle flying from her mouth. "How in the nine realms would I know?! I've never even met this Crowned One before—"
+
+"Then your words are worthless of my attention," Stella said coldly, stunning her into silence. "The only one I've come here for is the Crowned One."
+
+Caelan and Fen exchanged a glance—both of them were too shocked to even form words, but that didn't apply to everyone. The members of House Vayne parted, and an aged man with a goatee that ran down to his waist emerged and glared at Stella.
+
+Not only was he a Monarch, but he was a Council member. A few Nascent Soul Realm Elders of his family came to his side, and nearby Empyrea families that were allied with House Vayne shuffled closer. A political maneuver to show they were offering support, but Caelan noted that none rushed to the Vayne family's aid.
+
+The Patriarch of House Vayne seemed too enraged to notice his allies lacking support as he floated into the air, his elegant blue and silver robes ruffling in an invisible breeze as he pointed a gnarled finger at Stella like a god sentencing her death.
+
+"You," he said, his Qi-infused voice thundering through the Grand Hall, and a wave of ancient bloodlust stole Caelan's breath away, "will pay dearly for my son's death! This slight against House Vayne will not be tolerated or overlooked!"
+
+"With absolutely no respect, old man, but I've never heard of House Vayne," Stella said with disinterest. "I'm only aware of the Houses that have made an effort to stand their ground and fight for the Celestial Empire, and none of them have been impressive either. Why don't you bring this rage of yours to the front lines? It's wasted here at this pompous ball for fools."
+
+"Are you making a mockery of me?!" House Vayne's Patriarch thundered, his fury on full display as blue flames swirled around him. "I'm a Monarch—a child like you should cower before me!"
+
+The corner of Stella's lip curled up.
+
+"Respect should be earned, not expected," she said with a thin smile. "How about this? I killed one of your dear family members. It is only fair to give you a free hit." She took out a black fruit from her spatial ring and began munching on it. "Go on, strike me."
+
+House Vayne's Patriarch hesitated.
+
+Caelan understood why. Despite his rage, Stella Crestfallen was a personally invited guest of the Crowned One and the daughter of the dark god that controlled the Covenant, a group of assassins that could kill a Monarch in their own cultivation abode.
+
+However, that didn't stop Caelan from slowly stepping backward. If two Monarchs were to really fight, he would have to use all his strength just to survive the shockwaves. Fen and many others were doing the same, and he saw the vixen from earlier who had taken his broken wine glass, bolting for the marble stairs alongside other ball servants. The bloodlust radiating off the House Vayne Patriarch alone had likely been enough to send them fleeing in terror.
+
+"Strike her, Bendrik! She killed your son!" the middle-aged woman, likely Bendrik Vayne's wife, shrieked. The old man's eyes narrowed at his wife's words, the hesitation gone.
+
+He was really going to strike Stella Crestfallen.
+
+"May all who bear witness note that the accursed spawn of that dark god asked for this," Bendrik said as blue flames that made the air shimmer condensed around him. "May no condemnation from the Crowned One or the All-Seeing Eye befall my family for this."
+
+Stella crossed her arms and looked up at Bendrik Vayne, who floated overhead. She seemed unfazed even in the face of a wrathful Monarch. Though Caelan knew her capabilities, he was more worried for Bendrik Vayne. How would he react when his attack didn't work, or worse, if Stella struck back and killed him?
+
+My curiosity regarding Stella's name has been sated. Maybe I should flee like the servants. No. That would look terrible for House Stonecrest, which is already in dire straits with my father gone. I have to stand strong and see this through.
+
+Bendrik slowly pointed his finger at Stella, blue flames pouring out of his mouth like a dragon's breath. "Die, spawn of the dark god—Azure Requiem!"
+
+On Stella's chest, a small blue flame appeared, no bigger than a candle.
+
+She looked down at it.
+
+Then it detonated.
+
+The flame shot upward in an instant, a roaring column of blue fire forming that swallowed her whole and punched through the ceiling above in a shower of stone and dust.
+
+Despite being so far away, Caelan had to mobilize his earth Qi to avoid his skin from being burned off by the heat. In the center of the column of fire, he saw Stella's silhouette disappear.
+
+"Did she turn to ash?" Fen asked no one in particular over the roar of the fire while shielding his face from the waves of heat that battled against his soul flames.
+
+To those who didn't know of Stella's true capabilities, that might have been a good assumption. This was the finishing move of House Vayne's Patriarch, and she had stood there and taken it head-on.
+
+This belief seemed to extend to the Patriarch, who likely couldn't fathom that anyone could survive his perfect move.
+
+"Now it's my turn," a strange voice that seemed to come from everywhere and nowhere at once said, making everyone freeze in confusion.
+
+Caelan knew where to look.
+
+Stella hadn't turned to ash—she was lurking in Bendrik's shadow. Her eyes were inhumanly milky white—otherworldly light bled through the fractal lines across her skin, and the air around her seemed fractured, reality straining under the pressure of her presence, like shattered glass.
+
+"Bendrik, behind—" his wife desperately called out upon noticing Stella.
+
+It was too late.
+
+She struck down with her sword and seemed to miss—the blade passing through him as if he weren't there. Bendrik spun around, shock on his face, and was about to say something, only for the world to split.
+
+His body was cut in two, perfectly down the middle, the delayed sword strike arriving a breath after it had already been cast. Stella watched in silence as she let the two halves fall to the ground with a wet thud.
+
+Golden blood flooded outward from the lumps of human flesh, joining with his slain son's dried blood and pooling around his widowed wife.
+
+"She's a Monarch?" Fen muttered. "No way... we have to run."
+
+Caelan barely registered what he said. He had seen many things in his life, but he felt bile rising in his throat from the gruesome scene.
+
+Unbothered by the carnage she had inflicted, Stella descended and seemed to grab at a random bit of air. Opening her hand, she revealed Bendrik Vayne's infant soul and stowed it away. The body followed with a wave of her hand.
+
+Panic followed the moment she looked around. Bendrik Vayne, a man who had lived for a millennium and led his House to have a seat on the Council, had been slain in an instant. Lesser families began to flee toward the marble steps like flies scared of fire. Caelan also wasn't foolish enough to be left behind with this monster—he too turned to run.
+
+But a single word stole his resolve.
+
+"Stop," Stella commanded. Many listened, daring to pause their desperate escape to look at the floating mistress of death. Those who didn't could wish they had in death, as both the monstrosities Stella had brought with her didn't remain idle. They moved to kill. Limbs went flying, blood splashed onto the floor, giving more credence to Fen's story of the golden decoration. If that wasn't bad enough, Desolation Qi poured down the steps like a flood, eating away at those who tried to power through and reducing the weakest to dust.
+
+The Crowned One's griffin watched the chaos with apparent amusement and didn't move to help any of them.
+
+While the lesser families that tried to flee were slaughtered, the remaining Monarchs rose into the air in unison. Finally, a threat worthy of uniting against had appeared.
+
+Leading the charge was none other than Droskan Virelios. Despite Stella having saved him, Caelan couldn't help but root for Droskan to put an end to this madness. He wanted to go home, to live and see his daughter's bright smile.
+
+"You've gone too far," Droskan said with barely restrained anger. "Lay down your weapon, Stella Crestfallen. You're alone against too many of us to win despite your impressive prowess."
+
+Stella smirked as a few Monarchs within the room floated to her side, shocking everyone, Caelan included.
+
+"Thal'korr, Mistress Veilshade, and Commander Ren," Droskan Virelios said, his jaw tightening. "Why do you side with the All-Seeing Eye who wishes to destabilize our careful balance of power?"
+
+Caelan could see the cracks forming in Droskan Virelios's group of eight Monarchs from here. While still outnumbering, one side had Stella, and the other did not. The victor was clear in his eyes.
+
+"Because they aren't blind to keep fighting for a ruler that wants them dead," Stella said.
+
+Droskan Virelios frowned. "What do you mean?"
+
+Stella brought out a letter, and with a snap of her fingers, it appeared before Droskan and the other Monarchs.
+
+"As much as I would love to watch all of the golden bloods die, I think we can agree there is a greater evil that has to be uprooted first," Stella said, gesturing to the letter. "The Crowned One wanted everyone who attended this ball dead and sent me as the executioner."
+
+"This..." Droskan Virelios's frown deepened. "Was this really delivered by the Crowned One?"
+
+A slow clap filled the hall.
+
+Everyone glanced toward the sound.
+
+Sitting alone at one of the long tables covered in spilled spirit wine was a man of ordinary appearance and stature. Nothing about him screamed importance, except for his glowing eyes and a crown of light emanating from his skull.
+
+"It's you," Stella said, the air crackling around her. "You've finally shown yourself, Crowned One."

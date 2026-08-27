@@ -1,0 +1,155 @@
+---
+id: ba06cc35-a825-529b-81b2-cdc1268ad83e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 71 – The Hell Marsh"
+slug: 0071-chapter-71-the-hell-marsh
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 71
+ownLength: 2072
+unit: words
+publishedAt: 2026-01-14
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2941282/chapter-71-the-hell-marsh"
+royalRoadId: "2941282"
+---
+
+So, how far are we exactly flying tonight? If Abylport is as far as you say.
+
+It is quite far, and you need to evolve before we arrive there anyway. Whatever your new evolution is, you'll have to get used to it. You also need to be prepared for stronger dungeons—
+
+Yes, yes, you've told me that a hundred times. I must get stronger.
+
+I wouldn't have to remind you all the time if you wouldn't try to run away from every single fight.
+
+Easy for you to say. You're a rock sitting comfortably in my Inventory.
+
+I'd hardly call it comfortable. If something happens to you, then I'm screwed too. I'm frankly thankful I don't have a heart; otherwise, I might have died from a stress-induced stroke by now.
+
+Let me remind you that without me, you'd be in the pleasant company of the Order of the Night and their lovely mages. I'm sure they merely trapped you in that shiny rock for a friendly chat.
+
+No need to get all sassy with me. I'm well aware and grateful to you. Otherwise, there would be no way I'd put up with you.
+
+The two of them continued their friendly bickering for a while as Liora flew below the starry sky. Cyene and its dungeon were already long behind them as Liora continued following the Arcturus star. The scenery was mostly filled with forest, with plains becoming increasingly rare.
+
+Liora liked that. Forests were a place of safety for her. There were plenty of places to hide, lots of things to eat. But she didn't like the forest as it was. Good chunks were the evergreen spruces and pines, which made parts of the forest feel whole. But other parts were filled with half-naked trees that were desperately clinging to their last leaves. Winter was coming fast.
+
+It was obvious from the cold breeze that tried to desperately find its way under Liora's feathers. For now, she didn't feel the cold, especially with her plumage fully regrown and much thicker. However, once the temperatures dropped low enough, she would feel the cold too. Especially on her legs, since they were exposed.
+
+But unfortunately, there was nothing she could do to stop winter. She just hoped that wherever they happened to be when the cold struck, there would be a good, warm hiding spot for Liora to take advantage of. Or perhaps it was time to replace one of her skills with fire magic. Would stealing a matchbox and trying to light the matches unlock a skill? Maybe it was worth a try.
+
+We're nearly there. We'll be staying in that area.
+
+Liora looked ahead, trying to find the place Renir was referring to. All she saw was a nasty swamp, which had an occasional large, willow-like tree with roots growing above the swamp, similar to mangrove trees. This was by far the most unpleasant place Liora had seen for kilometers around.
+
+Where?
+
+Right here. In this dark swamp.
+
+Liora wanted to caw in disagreement, but didn't quite dare. It felt like something from the swamp might be watching her. Was it the weird willow trees? They looked awfully suspicious.
+
+I'm not going into that swamp.
+
+Yes, you are.
+
+No, I'm not.
+
+Yes, you are. Listen, if you had done some proper training in Cyene Dungeon and evolved, then we wouldn't have to do this. But you didn't, so you need to train and evolve, and this is the safest place around where you can do that.
+
+This place is safe?
+
+Liora's magpie instincts were definitely screaming at her that it wasn't safe. How could a swamp be safe? The muck was so thick that even with her excellent vision, she couldn't see what was going on even a centimeter below the surface. Was it a meter deep or twenty meters? There could be a giant crocodile in those waters, and Liora wouldn't know.
+
+I didn't say safe. I said safer. This place is by no means actually safe. It's called The Hell Marsh for a reason.
+
+Listen, Renir… I am NOT going to willingly go to a place called the Hell Marsh. Are you insane?
+
+Sometimes I wish I were. It would make this whole thing more bearable. But no. For a human, yes, this place is deadly. No second thoughts about it. However, you, as a bird, are much faster than anything found here. If you can't defeat it, you can definitely outfly it. And that's all that matters.
+
+Liora thought about it for a moment. It was true that she was very fast. Especially with her Aerial Agility at Expert level, and Glimmerlust boosting the speed of her skills. Swamp certainly didn't seem like the place where fast creatures would live. But then again, crocodiles weren't considered that fast, but their reaction time was on a whole different level.
+
+Are you sure there isn't a different place where I can train my levels?
+
+There is an underground system nearby. Might have grown into a mini-dungeon of sorts over the years. It had giant moles that could smell you from kilometers away and dig their way to you. Nasty bunch. Resistant to most magic. It took me—
+
+Okay! I get it. Swamp it is.
+
+Reluctantly, Liora flew down and landed on one of the creepy willow trees, while avoiding its long, unpleasant tendrils. Something about them rubbed her the wrong way.
+
+Yeah, don't hit those tentacles. You will get stuck, and the deathwillow will try to digest you if you keep struggling.
+
+Why didn't you warn me before I landed?!
+
+I didn't think you'd fly into it. You always fly so carefully, avoiding hitting anything.
+
+But a warning still would have been nice!
+
+Liora felt even worse sitting on the willow now. It didn't have anything stuck into tendril-like branches. But then again, nothing seemed to dare to come close to the willow. There were some large crane-like birds stepping through the muck with extremely long legs. Some snakes were swimming on the murky water surface while giant dragonflies patrolled the waters above the surface, zipping from place to place at lightning speed.
+
+You said that nothing here was faster than me. Those dragonflies look very fast, and they're as big as the magpie me.
+
+Yeah. Odd. They definitely weren't here last time I was here. Then again, it's been thirty-something years, so the information I have might be outdated.
+
+I swear you'll be the death of us both one day!
+
+Hey, I'm sure you can deal with those dragonflies, no problem. They look quite fragile. One good hit with Air Slash, and they’re gone.
+
+Liora didn't feel like challenging those dragonflies. Something about these speedy bugs rubbed her the wrong way. The whole area rubbed her the wrong way. But she couldn't just sit and wait. Levels didn't gain themselves, so she had no choice but to engage with something. The sooner she evolved, the sooner she could leave.
+
+Snakes seemed like a good start. She'd noticed a few of them hunting the cranes from below the water. Since cranes were also birds, Liora thought it was fair that the snakes received a dose of their medicine. Although it was likely that the monstrous cranes would attack Liora on sight as well.
+
+No matter. It was the principle that mattered. Liora flew high and scanned from above, watching the swampy water carefully, searching for the smallest movement and ripples. Snakes needed to surface sometimes to breathe, right?
+
+There. One of the large snakes finally surfaced near one of the willow mangroves.
+
+[Marsh Python – Level 24]
+
+Its nameplate was yellow, and it had a huge head suggesting an even huger body. But what did Liora care for its size if she could strike at its head and kill it in one blow? She flew straight above it, Faded, and then dropped down in a powerful Skypierce, aiming for the snake's head.
+
+Her aim was true, and for a moment she and the snake both sank into the mucky waters. Liora panicked, suddenly being submerged. She had no clue how to swim and desperately beat her wings, trying to resurface. Thankfully, she managed to latch onto one of the tree roots and, using her legs, pulled herself out of the water.
+
+However, as she resurfaced, she saw that the snake wasn't dead. There was no kill notification. It had a nasty injury on its head, with blood oozing from it. But it was still moving. Liora realized that because of the water, the snake must have sunk down along with Liora, lessening the impact. It didn't look pleased to have been struck so suddenly and lunged at Liora, its maw wide open.
+
+"Buh-Rup!" Liora cried, letting out a paralyzing field and flying upwards simultaneously to avoid being swallowed whole.
+
+The python seized up; however, the skill was too weak to fully paralyze it. It was merely enough to slow it down. Liora didn't wait around and struck with Air Slash, aiming for the injury on the head. The python hissed and submerged itself underwater, making it impossible for Liora to tell where it went.
+
+She hovered a safe distance above the water, waiting for the snake to resurface. But minutes passed by, and there was no sign of it. She expanded her search, but still nothing. It was gone.
+
+You lost it. These snakes can remain underwater for up to 20 minutes. By it needs air again, it will be long gone in who knows which direction.
+
+No! My experience. My glimmerstones. My feathers! I'm dirty again and all for nothing.
+
+Nobody said this was going to be easy. Especially with wild monsters. They are far more careful than dungeon spawn. These guys actually want to live, you know.
+
+We should have stayed in Cyene.
+
+Perhaps. But you weren't really making much progress in that dungeon, were you?
+
+But my feathers were in tatters.
+
+Yes, yes. But we can't stay there forever. We need to get that resonance stone as soon as possible. So go on. Find another target and gain those levels.
+
+Liora let out an annoyed squawk and flew over the marsh, looking for another snake to attack. This has become personal. Sure, she was first to attack, but the snake could have had the courtesy of being defeated and giving up its glimmerstones.
+
+There! Another python slowly approached an unsuspecting crane, only tiny ripples on the water surface giving away its location. This one was Level 22, and its color plate was white. Liora Faded and then struck the Python with Air Slash. That didn't go as planned. The water splashed everywhere as the attack struck the surface.
+
+The python disappeared underwater completely without her knowing whether she had managed to even hit it or not. But the crane, on the other hand, looked agitated and angry, flapping its wings indignantly. It spotted Liora and then flew at her, ready to screwer her with its long, sharp beak.
+
+"Chak-chak-chak!" Liora protested. "I was trying to help you!"
+
+But the crane either didn't understand her or ignored her, continuing its attack. Liora dodged out of the way and left without any other option attacked with Air Slash. But the crane was agile, folding its wings to its body to avoid the hit.
+
+It then began to spin viciously, becoming a giant flying drill, ready to destroy anything in its path. Liora just barely managed to fly out of the way of the death spiral and tried to use Paralysis Croak on the crane when it was close. However, it didn't work.
+
+The crane most definitely flew into Liora's paralyzing field; however, it was completely unaffected. The partial paralysis should have taken hold and slowed its movements at least a little.
+
+It must be immune to paralysis! Higher-level monsters might develop immunity against certain ailments.
+
+It spun around and readjusted its trajectory. It pulled its head back and lurched it forward, spitting a jet of water out of its mouth.
+
+Liora, unprepared for the sudden strike, got hit straight in the chest. Agonizing pain exploded, and she plummeted down, nearly falling into the murky waters.
+
+Liora!
+
+Renir's inner scream helped her force her wings open and move against the pain. But how could she fight against the crane in this state? She could barely move, but it was preparing for another drill attack, ready to strike her down.
+
+Fade, Liora!

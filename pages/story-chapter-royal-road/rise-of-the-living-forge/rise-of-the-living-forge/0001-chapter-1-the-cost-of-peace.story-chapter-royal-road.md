@@ -1,0 +1,226 @@
+---
+id: ec6d8b01-aad3-5192-b671-bd9dac079496
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1: The Cost of Peace"
+partOf: rise-of-the-living-forge
+position: 1
+ownLength: 3591
+unit: words
+ownProgress: 3591
+publishedAt: 2023-12-30
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1459943/chapter-1-the-cost-of-peace"
+royalRoadId: "1459943"
+markedReadAt: "2026-06-29T19:58:29.469Z"
+---
+
+Ever since Arwin had been summoned as a child, all he had known was war. He had killed enemies. He had killed friends. And now, to kill the demon queen, he was going to kill himself.
+
+Corpses covered the ruined battlefield around Arwin, strewn about like the discarded toys of an unruly child. Thousands had stood strong that morning, and across from him was the only one that still remained.
+
+The demon queen. A faded scar ran down her right eye, left there from a battle they’d had years ago. Her armor smoldered with embers that had once been roaring flames, and the dark, leathery wings sprouting from her back were shredded to bloody ribbons.
+
+“Hero of Lian,” the demon queen said, coming to a stop ten paces away from Arwin. Her voice lacked the thunderous presence that it normally carried. There was no need for it. Nobody was left from their armies to hear them, and so she spoke in a normal, weary tone that matched exactly how he felt. She raised her sword and pointed it at Arwin’s throat. “Today–”
+
+“Is there a point?” Arwin asked, cutting her off. “I have energy for one last blow, not a conversation.”
+
+A small, wry smile tugged at the corner of the demon queen’s lips. “As do I. Good riddance.”
+
+Arwin readied his sword. His armor creaked around him, the enchantments covering it sputtering with effort to keep themselves active. The only thing that even kept his body standing were the considerable number of Titles and Achievements that he had built on the graves of friends and enemies alike. But today, as Arwin’s exhausted arms raised his sword one last time, he knew that it would end. The fifteen-year nightmare would finally be over.
+
+They charged. In truth, it was more of a sad stumble. They both reached each other at the same time, driving their blades for each other’s hearts. Neither tried to block or dodge, lacking the energy to do any more than what they’d already mustered.
+
+Arwin’s blade pierced through the demon’s armor, driving straight through her chest and grazing her heart. In the same instant, her sword shattered the cracked surface of his breastplate and did the same to his.
+
+Blood poured down Arwin’s chest, dripping to the ground at his feet. Dizziness gripped his mind as the world spun around him. If he had the energy, he would have laughed.
+
+They'd both missed the final blow, but it hardly mattered. It wouldn't be long before they were dead anyway.
+
+At least the war was over. His job was done.
+
+Darkness started to swallow his vision, taking life with it. It was peace. It was the release that he had sought, a way to finally rest –
+
+Rude light flashed before his eyes.
+
+The conditions for [Sunset] to activate have been met. [Sunset] has been consumed.
+
+Arwin’s breastplate shimmered. His weary eyes just barely managed to pick up a small black gemstone glittering at its center, burning with magical power. If he’d had the energy, he would have been surprised. The demon queen didn’t seem to recognize it either.
+
+Huh. This wasn’t supposed to be there. What is it?
+
+And then, with a tiny pop akin to a cork from a bottle of wine, the gemstone cracked.
+
+The world collapsed.
+
+A massive wall of force slammed into Arwin, driving the breath from his lungs and scorching his body. His armor and magical equipment vaporized as it tried and failed to resist the massive outpouring of energy, and then the true force of the explosion hit him with nothing left to obstruct it. He didn’t even get a chance to scream.
+
+His consciousness sputtered and blinked out like a candle in a hurricane, and then there was only blissful nothingness.
+
+***
+
+But, like all things, the peace ended.
+
+Arwin’s eyes fluttered. Then they snapped open. He drew in a desperate, ragged breath as his heart slammed desperately in his chest, suddenly remembering that it had to beat. His throat was impossibly dry and his lips cracked.
+
+He was alive. Far above, the warm sun shone down on him from a cloudless sky.
+
+Warm, wet dirt pressed against his back. The smell of moss and mildew surrounded Arwin, but the fact that he could breathe anything was a miracle. Coughing and gritting his teeth, he pushed himself into a seated position.
+
+The ground released its grip on Arwin’s back with a wet squelch, but something was wrong. His body felt… strange.
+
+Empty.
+
+It was a vaguely familiar body – one that he’d had before he’d advanced his Paladin class to Master Tier, but without most of the muscle he'd spent years earning. His clothes had been turned to ribbons; the magic that had once made them nearly as powerful as the strongest armor now completely lost.
+
+All the power he’d once possessed was muted and distant, but he couldn’t quite bring himself to care. He didn’t need it anymore. The demon queen was vanquished. His power was a small price to sacrifice for peace.
+
+There was a thick, ropey scar right beside his heart, where he had been run through. Arwin instinctively reached for his sword, but his hand found nothing. The only thing he could find were the tattered scraps of his pants. Not even his shirt remained. A dull, gnawing pain clenched his stomach, but it was surprisingly bearable and not at all like a stab wound.
+
+“What happened?” Arwin choked on his own words. He doubled over in a coughing fit for several seconds before managing to regain control of himself.
+
+What was that black gemstone? I oversaw the forging of my armor with my own eyes, but the gemstone was clearly embedded within it. It was clearly some sort of magical bomb. Perhaps it was a failsafe to destroy the Demon Queen even if I died? No, that couldn't be it. A failsafe would have triggered after I died. Not before. That gem didn’t feel like any form of magic we possess, but I’ve never seen the monster army use its like either.
+
+Is it possible I was betrayed and someone in the guild was working with the Demons? That wouldn’t make sense, though. The explosion should have killed both me and the Demon Queen. I still don’t know how I survived. And what is Sunset? That was not a title I had.
+
+There were far too many questions and far too few answers. One thing Arwin knew for certain was that he would find no solutions whilst laying on the ground. Slowly, he pushed himself to his feet. He was somewhere in a large, marshy field. Crops surrounded him, so there was probably civilization fairly close. There were no answers in the wilderness, but the nearest city could tell him what happened.
+
+Scanning the horizon, Arwin spotted a small gray plume in the far distance. It might have been a cloud, but he was fairly certain it was smoke from a chimney. At least, that’s what he hoped it was.
+
+Arwin almost called on the Mesh, just to see if any of his former magic remained. But, before he could, he stopped himself. With magic came responsibility. He would be the Hero once more if anything remained. Sending one last glance down at his body, Arwin shook his head and trudged in the direction of the plume.
+
+Hours later, a city came into view. It wasn’t one he recognized, but the stone walls stood proud, manned by several guards at the gate. They wore plain but effective chainmail armor. Even without his magic, Arwin could sense faint power emanating off them. A sigh of relief slipped from Arwin’s lips. If a city still stood, the Horde had fallen.
+
+I won.
+
+The guards watched Arwin with wary expressions as he approached. The dry mud caked to his body and the exhaustion on his face likely didn’t do him any favors.
+
+“We don’t welcome beggars in Milten,” the lead guard said, placing a hand on the hilt of his sword.
+
+Milten? Doesn’t bring up any memories. It must be toward the edges of the Kingdom.
+
+Arwin almost laughed. “My name is Arwin. I know I look different, but I’m no beggar.”
+
+“A beggar with a name is still a beggar,” the guard said, his eyes narrow.
+
+I suppose I can’t blame them for not recognizing me. I don’t look like what I once did. There’s no point bothering to convince them. It may actually be better that people don’t recognize me. Maybe I can finally rest and take advantage of the peace.
+
+“I just want to bathe and hear the news,” Arwin said wearily. “I can assure you I can pay for any services I need. I will not trouble any of your citizens.”
+
+The guards exchanged a glance. With a shake of his head, the lead guard stepped to the side. “I shouldn’t do this, but fine. You seem honest enough but get to an inn and wash off immediately. If I catch you begging on our streets, you’ll get a boot up your ass.”
+
+“Understood.” Arwin strode past the guards, not wanting to try his luck. He didn’t actually have any coin on him, but as long as someone was willing to offer him a bath, he’d happily wash dishes in a kitchen for as long as it took.
+
+Despite the sun hanging straight above, the city of Milten was surprisingly quiet. There were only a few other people on the roads, and none of them gave Arwin so much as a second glance.
+
+Stone buildings with just enough variety to avoid being an eyesore lined the streets in neat rows. After several minutes of walking, Arwin finally spotted the subject of his search. An inn, identified mostly by the cauldron burnt into a wooden sign hanging above its door, sat near the center of town.
+
+Smoke curled from the three-story building’s chimney, and warm firelight flickered within its window from a fireplace. A newspaper had been wedged into the window, and Arwin paused for a moment to read it.
+
+The Horde grows in power. The Kingdom of Lian calls for all capable adventurers to take to arms in its defense. Great rewards will be given to those who bring proof of their victories in battle back to the Adventurer’s Guild. We must strike before the Horde can mount an offense. It is time the Kingdom takes control of the war.
+
+For any adventurers over Expert Tier, the Hero of Lian is in need of a party. Auditions are being held in the capital for the privilege of adventuring alongside him.
+
+To lay down one’s life for the kingdom is the greatest service one can do, and you will be remembered for all eternity.
+
+Please note: The Fallen Hero informed the Adventurer’s Guild that he would donate all his belongings to their cause just minutes before his wounds from the demon queen proved too much to bear. Praise be to his generosity. His body was treated with highest honor after it was brought back to the guild, but the funeral has been canceled due to weather conditions. Tickets will not be refunded.
+
+At the bottom of the words was an image of a heavily muscled man holding a glowing sword aloft, a courageous expression on his handsome features. It was signed by the Hero of Lian – but the man on the paper wasn’t Arwin, and the signature wasn’t his either.
+
+He stared in disbelief.
+
+I said no such thing. I didn’t speak to anyone after the explosion. And how could they have recovered a body when I’m right here? Why would they lie about that? It would have been easy to say a failsafe destroyed both of us, if that was what it was. But, if they aren’t mentioning it… was I betrayed? Could that gem have been a way to make sure I didn’t survive the war? But why? I don’t understand. I need answers.
+
+Arwin grabbed the paper and pulled it away from the window, ripping the edges in the process. He shoved the door open and entered the inn, making a beeline for the thin innkeeper behind the bar.
+
+“Gods, man. What happened to you?” the innkeeper asked with a grimace. “You reek.”
+
+Arwin slammed the paper down. “What is this?”
+
+Something about his voice must have given the innkeeper pause, because he swallowed and looked down at the paper.
+
+“It came in the news a week ago. What about it?”
+
+“Everything! The demon queen is dead! How is the Horde back?”
+
+The innkeeper blinked, then let out a laugh. “Ah. You went on a solo adventuring trip after the war ended, didn’t you?”
+
+So it did end?
+
+“I – yes,” Arwin said, deciding it would be easier to go with the man’s assumptions than correct them. “I left right after the demon queen was struck down.”
+
+A smile crossed the innkeeper’s face and he nodded. “I understand that. What a party it was. I swear the entire kingdom celebrated for a week straight.”
+
+“So what happened? Why is there a missive about another war?”
+
+The smile fell away and the innkeeper shook his head. “Sorry you’ve got to find it out like this, lad. After the celebrations, a new demon queen was discovered about a month later, gathering the remnants of the Horde. It’s been about two weeks since then. Luckily for all of us, the Kingdom actually had another Hero in training. We’ll all be safe, don’t you worry.”
+
+Arwin’s ears rang and he tasted metal in his mouth. He leaned against the counter, staining it with mud, but he barely even noticed.
+
+“So the war ended, but then it started again?”
+
+“It’s more like it paused.” The innkeeper rubbed the back of his head, then let out a heavy sigh. “Just when it looked like everything would let up. I suppose it’s not like we aren’t used to it, though. You’ve got the build of a warrior, so you should be happy too. There’s a lot of opportunities for adventurers–”
+
+Arwin grabbed the paper from the counter and spun, striding out of the inn as his mind roiled. A throbbing pain built in his stomach, eating at his insides like a lump of molten coal.
+
+He’d won the war – or, at least, his war. Sure, the peace had lasted all of a month. He had no idea where a new demon queen or Hero had come from, but the relief he felt was so intense that he couldn’t bring himself to care.
+
+His duty was finished. There was a new Hero for a new war, and he was no longer required. He, along with the men and women that had fought alongside him, could rest. But still, the gemstone lingered in Arwin’s mind.
+
+Someone tried to kill me with magic that I’ve never seen. The options are the guild, someone within the guild working for the demons, or the demons themselves. I don’t think someone planted anything on me, but I just don’t have any way to tell.
+
+Every single aspect of my armor should have been checked over by dozens of people, which means all of them had to have been involved somehow. Hell, the head of the guild literally handed me the armor and confirmed it was prepared and ready on the day I set out for what should have been my final battle. He was the last one to check it.
+
+Sure, something could have gotten changed while I was headed to battle, but I don’t think anyone got that close to me. I can’t believe I’m thinking this, but I think the guild – or someone with a lot of influence in it – must have been heavily involved.
+
+But, if it really was them, then, my very existence proves their lies, and they’ll definitely kill again to keep me silent. Even if it’s just a few people at the top – I can’t handle them yet. When I was at the peak of my power, perhaps I could have. But now… I’ll need to lay low until I can regain my strength.
+
+There was no more delaying it. He had to see how much had changed. Arwin finally reached out to the Mesh. The sentient magic that permeated the entire world, rewarding those who sought to advance their strength and sought challenge, had been one of the only constants in his life.
+
+And, as it always had, the Mesh responded. Glowing golden letters, visible to only him, traced through the air before him.
+
+Name: Arwin Tyrr
+
+Class: Living Forge (Unique) (Tier: Apprentice 1)
+
+Skills:
+
+[Awaken] (Passive) – All items forged by your hand have the potential to Awaken. In addition, they have the potential to take on a trait, determined by [Unknown]. The potential for the trait to be detrimental scales inversely with your Tier. It is currently [80%]
+
+Titles:
+
+[Scourge] – You have faced an entire army in combat and emerged victorious. Your physical strength can be significantly intensified at the cost of magical energy.
+
+[Indomitable Bulwark] – You have withstood a blow that would have leveled a city. Damage from all attacks is reduced significantly.
+
+[The Hungering Maw] – An enormous burst of energy has permanently infused you with magic, but not without cost. You must consume magical objects or items to survive. Consuming an item temporarily grants you some of its properties.
+
+Achievements:
+
+[Broken Bearer of Last Light] – Awarded for meeting the conditions of [Sunset]. You survived an explosion that could have leveled a city. Effects: Class Changed to Living Forge. All other Achievements and competing Titles have been consumed. This Achievement will be consumed upon advancing your tier.
+
+Arwin’s hand dropped. His class and skills were gone, replaced by what seemed to be some form of craftsman class. His Tier was back to Apprentice. The vast majority of his Titles – gone as well. He didn’t have any Achievements left, but at least that wasn’t a surprise, as they were consumable and weren’t meant to stick around. But, on top of everything else, he’d gained a new Title that forced him to consume magical items in order to survive.
+
+And yet… the Class was almost exactly what he had once hoped for. A chance to create rather than to destroy. Even though he hadn’t actually chosen Living Forge, it was as if the Mesh had known what he desired.
+
+Actually, that’s likely exactly what happened. The Mesh gives rewards that let you upgrade your class or skills whenever you get Achievements or Titles. This was my reward for completing the purpose I’ve been pursuing ever since coming here. The actual class must have come from that achievement, Sunset… but why this particular one? I’ve never had interest in Blacksmithing before, though I’ve always loved the idea of being a creator.
+
+Perhaps it had to do with all the armor and weaponry that I had on me. I did have an extensive presence in helping make my weapons and armor, so perhaps that strongly influenced it. I certainly can’t complain.
+
+I’m finally free. And, so long as the guild doesn’t find out I survived, I can figure out what happened. And, if they really did betray me, I can tear them down from the inside out… after I rebuild my own life. They’ll pay, but I’m not dying for a cause again. Besides, I need a damn break.
+
+As for the Hungering Maw passive… it’s problematic right now, but it’s clearly tied deeply to the class itself. That means, if I get stronger, I’ll be able to upgrade the passive and get more out of it than just temporary boons. The potential is ridiculous.
+
+For the first time in his twenty-five years of life, he felt unburdened. For everyone else, the war was still going. It bore the promise of power and riches, and the draw was too great to resist for many adventurers.
+
+But, for him, the war was over. He’d done his part, and they’d turned on him. As to why, he didn’t know. At the moment, he didn’t particularly care. Arwin started to laugh. It was on that day, covered in mud and crouched in a dark alley cackling like a madman, that the true Hero of Lian died. The man that rose in his place was simply Arwin. There was only the man who would forge his new life one hammer blow at a time.
+
+Arwin didn’t get to enjoy his newfound freedom for long, though. Even as his laughter echoed out, the burning pain in his stomach intensified. His face creased in pain and he doubled over, drawing in a ragged breath.
+
+Through squinted eyes, he could just barely make out the glowing words of the Mesh taking form before his eyes.
+
+[The Maw within you hungers for power. If you do not consume a magical item within 1 hour, your body will collapse.]
+
+Arwin stared at the glowing words with dread. He shoved his hands into his pockets, but he already knew what he would find. They were empty. Arwin didn’t have a single thing of worth to his name.
+
+In fact, the only thing he did have of worth was his name – and if he used it anywhere, the guild would come for him. He grit his teeth, waving the words away and turning away from the inn to stumble into a dark alleyway nearby.
+
+I might be in trouble.

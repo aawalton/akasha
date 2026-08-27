@@ -1,0 +1,343 @@
+---
+id: 99f814cd-f1e9-53f3-ac16-97c7df87b7f1
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED THIRTY-FIVE: Here-to-There XV"
+slug: 0237-two-hundred-thirty-five-here-to-there-xv
+partOf: super-supportive
+position: 237
+ownLength: 4264
+unit: words
+publishedAt: 2025-08-06
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2495579/two-hundred-thirty-five-here-to-there-xv"
+royalRoadId: "2495579"
+---
+
+235
+
+******
+
+Finding Stuart was more difficult than Alden had anticipated. Before he was halfway back to the street where the bors lived, his sense of his entruster’s position began to shift. At first, he worried he’d taken a wrong turn, but after a quick check of the local map through his interface, he was sure he wasn’t lost.
+
+Stuart was on the move.
+
+Not heading toward where Olget-ovekondo was.
+
+Not toward the park either.
+
+Alden adjusted his own route to the right and sped up, crossing one of the narrow streets that flowed between the buildings like rivers. There were no traffic lights or dedicated pedestrian crossings around here. You were supposed to avoid stepping out in front of approaching public transports or any vehicle painted a specific shade of green.
+
+“There he is again!”
+
+“Chhhch. Not so loud.”
+
+Alden was aware when people spotted him and stopped what they were doing to look or comment. It was fewer than he might have guessed, but still a lot. These two were sellers of traditional brushes and papers, sitting together in a pocket-sized shop he was passing. The front of their store and several others nearby lifted up to become roofs over the sidewalk.
+
+“But I want to sell a human something. Imagine something we made being on Earth!”
+
+He would have stopped to buy from them if he wasn’t wondering why Stuart was suddenly in such a rush to be somewhere. Alden kept going, but when he thought he was getting close, that pull between him and his entruster shifted again. He hurried.
+
+What if Stuart was tailing Olget, and that was the reason for the sudden movement?
+
+He soon reached the corner of a large market full of food sellers. Standing  beside a table that held stacks of flatbread higher than his head, he looked down the street. It felt like Stuart should be right in front of him, but on the walkway, all he saw were Artonans with full heads of hair and normal clothing.
+
+To my left! he thought.
+
+He saw nothing but more people who weren’t Stuart, crossing between the slow-moving cars and carts.
+
+Behind me now.
+
+And then Stuart seemed to be moving away again slowly. As if they’d somehow passed each other without noticing. Is my skill having a breakdown, or is Stuart in disguise?
+
+He kept walking and looking.
+
+[Where are you?] he texted. [I’m following you, but I can’t see you. Could you hold up a hand or something?]
+
+The small car that kept blocking his views suddenly stopped, and the door opened. The passenger leaned out, his brows drawing together. He had red sauce on his chin, and his mouth was so full that it took him several hasty chews before he could swallow and say, “Alden? What are you doing here?”
+
+“You were in the car. Of course. Ryada said you wanted me to stay. Didn’t she send you a message?”
+
+“Not one that said you were on your way here.”
+
+“You expected me to go with Kon!” Alden exclaimed. “That’s fine. I’ll—”
+
+“Since you’re here, come in.”
+
+“No. There’s probably a teleportation point right down the street.”
+
+“Come in.”
+
+“I—”
+
+“My food is wilting while we discuss this. Enter the car.”
+
+Alden got in the car. It was his first time riding in one like it, but there was nothing too surprising. Bench seats covered by a textured tan fabric faced each other. The windows wrapped around seamlessly once the door was shut. The vehicle was probably intended for six passengers, given the width of the benches. There weren’t any seatbelts
+
+A control panel was displayed on the window beside Stuart, and as soon as Alden was in, Stuart tapped it. The car’s motion was hardly noticeable as it resumed its journey, and the dark windows darkened even more, until the city was difficult to make out.
+
+Stuart had loaded most of the bench opposite him, so Alden sat beside him, taking a minute to determine what was going on in here. The outer layers of Stuart’s votary outfit were folded beside his belt and a rolled case that must have held the enchanted jewelry and some of the casting supplies he’d had with him since they left Rapport I more than an Artonan day ago.
+
+Like Alden, he’d removed Leeter-zis’s artwork from his face. And he was almost finished eating a hand pie. The crust was stuffed with something shredded and coated in a marinara sauce lookalike. Alden couldn’t guess at what it might taste like, since the car was full of a mix of sweet, savory, and smokey smells from the metal dishes arrayed in front of Stuart. They looked like they would all fit back together into a single carrier.
+
+He’d presumably gotten all of this food from the market, and Alden didn’t see how he could have been selective about it. He hadn’t left the bor house long ago at all.
+
+Must’ve walked straight in, acquired the lunchbox, and filled it with one of everything nearby.
+
+“You’re catching your breath now that the others are gone,” Alden said.
+
+Stuart swallowed the last of his pastry and reached for a container full of vegetables that had been cut into spaghetti-shaped strands. “I had a three-potion headache, and I need to think about how to manage this situation.”
+
+He crushed a greenish ball resting in the center of the dish with the back of a utensil. It fell into crumbs that he stirred rapidly into the vegetable spaghetti before he started inhaling the meal.
+
+“Do you want something to eat, too?” He didn’t ask until he was about six bites in. “You could get something from the manybaskets.”
+
+“Manybaskets” was a word for shopping places, so Stuart wasn’t offering to share his own meal.
+
+“I don’t need anything. I ate at the train station while Kon was buying gifts for people on Anesidora. Enjoy your food. I’ve got enough to contemplate for several days, so I don’t have to talk.”
+
+Stuart didn’t need permission. He made his way through all the dishes, emptying each one completely before reaching for the next, while Alden tried to settle into his seat and collect his thoughts.
+
+Since the Here-to-There had begun, there’d been no opportunity to resolve his feelings about any of it. Things that would have been important enough to occupy him for hours if they’d happened during a less busy time had been left behind, like they were everyday occurrences. Kon was at the forefront of Alden’s mind right now, as were Ryada’s scarily insightful parting words. But if Stuart was about to say they needed to go investigate Olget, those would be pressed down to join the other topics waiting to be considered.
+
+Like home being something he might build instead of find.
+
+And the way he’d used his skill with Stuart’s help on the hauler.
+
+The bonds between knights, the desirability of that special bond that Esh-erdi and Lind-otta had, the talk with her on the train, and the one with Boe hours ago.
+
+I need to spend a week on the inward path just to look at it all slowly. I wonder if Yenu-pezth would let me.
+
+That reminded him it was early Saturday morning on Anesidora now, and he’d missed a whole night of the sleep he was supposed to be getting. He didn’t feel tired because the broken wand and summoning Kon had been such a jolt.
+
+Stuart not bringing it up was probably an indicator that the Artonan boy was too brain fried to keep every little detail straight in his head anymore. He’d been going for ages at this point. Alden watched him eat the final piece of his desperate feast. It seemed to be pink rice, smashed into a pancake shape and fried until it was crunchy on the outside.
+
+So that was how I was supposed to be cooking that stuff for me and Kibby.
+
+Stuart devoured it, looked at the empty metal dishes like he hoped they were going to refill themselves, then neatly stacked them together and lidded them.
+
+He sanitized his hands with a spell.
+
+I know that one. Alden had seen him use it before, but that was still the first thing he thought.
+
+Stuart finished tidying himself up, then looked over at the conundrum Ryada had sent his way.
+
+“I really don’t mind leaving if you’ve got to do something that my presence would complicate,” said Alden.
+
+“I like that you’re here. But all I’m going to do right now is sit and make decisions about how to respond to the crime that has been committed. I told Emban and Bithe they had to go because they were both very upset and likely to act with recklessness they would later regret. And they both actually left, so they must trust my judgment…or be so upset they couldn’t deny it. And Veln Dad said I should continue to act as votary even through a problem like this if I felt like I could do it well. I hope to do it well.”
+
+“I have things I can work on quietly,” Alden offered, “and if you want to bounce an idea off me, you can.”
+
+“If I present ideas, I prefer for them to be absorbed, not bounce.”
+
+“It’s an idiom that doesn’t mean the right thing in Artonan? I mean that I’ll listen and comment when you’re ready.”
+
+Stuart nodded and folded his hands in his lap.
+
+“Before you start decision making, though,” Alden said, “where is the car taking us?”
+
+“It’s on a tour of all the streets in this section of the city.” Stuart tapped the control panel again, and what must have been the map of their route appeared as a web across the window for a few seconds. “I wanted privacy, but I also want to be near Tass-ovekondo in case speaking to her once more in person is necessary.”
+
+“She’s here now?”
+
+“She chose to teleport here to replace the damaged wand with the other one, so that she can restrengthen her connection to it. She’s gone to the park to see everyone who’s lingering there. Since the Here-to-There is now over, a visit won’t break tradition.”
+
+“I bet they’re all happy to see her.”
+
+“They are. And she was very grateful.” Stuart slumped in his seat. “To all of us and Kon. And her children, except for the obvious one, are all grateful as well. Birget-ovekondo called again to tell me so.”
+
+Alden caught the slouch and the unhappy tone. “So what’s wrong?”
+
+“He called to tell me that after he and his sister removed their brother from this city. They swiftly cleaned up the house he was in and replaced the shenav he drank. And they had an acquaintance come to search for signs of the spell he cast, using a method that will make future attempts by others to do the same thing <<prohibitively difficult>>. They say the acquaintance found nothing.”
+
+So they’re trying to cover for him. “Do you believe that?”
+
+“It’s likely they really didn’t find anything. The spell Olget-ovekondo cast wasn’t profound, and it had been a while since it was used. But they had someone search so that I wouldn’t have someone better search. Because they love him. It’s natural. Despite what he’s done, he’s their brother. And her son.”
+
+“They hope you’ll do nothing.”
+
+“I think they expect me to do nothing. And that is worse. Because it means they believe his behavior is tolerable as long as the problems it causes are repaired.”
+
+He fell quiet.
+
+After waiting a minute, Alden tucked his questions about wizard justice away for later and dug his tablet out of his bag. Both of them staring blankly ahead in a silent car while they thought their separate thoughts seemed too awkward, so he would scribble on this.
+
+Intentions to make himself a preliminary to-do list for next week disappeared as soon as he opened the writing scroll feature and wrote the word “yell” on it instead of “To Do.”
+
+He ended up spilling anything even remotely related to his yells onto the endless page, writing in coded language and doodles. Sometimes, he was connecting ideas or reprioritizing them; sometimes he was just dropping them there because he didn’t know what else to do with them.
+
+More than an hour later, he had a large document that might charitably be called a mind map, and he was looking through it, trying to decide if he was normal enough still. The doodle of the kidney with the smiley inside it, connected to a stick figure holding a sword and another stick figure with devil horns would probably lead a stranger to conclude otherwise.
+
+Moving on from demons, knights, and favorite kidneys…he’d written the words “cat to Anesidora” and circled it several times.
+
+“Cat” meant Boe, in this case, not Victor. Alden circled it again.
+
+I need to talk to him about this.
+
+Or rather, he needed to ask Boe to explain himself clearly.
+
+He’ll love that.
+
+Boe had questioned why Alden was spending time in this place and with these people when there was such a risk. And it was a fair question. Alden knew he must look like a vatha trying to make friends with the flames.
+
+But what was Boe doing?
+
+When they’d parted ways on the last day in intake, Alden had been so involved with his own decisions and his own mistakes that really questioning Boe had taken a backseat. Boe was smart, and his life had been turned upside down when Alden died, and even if Boe had hidden a massive secret that might have changed how all of their lives went…Alden had still felt guilty about being the wrecking ball who had demolished the status quo for Boe, Jeremy, and Connie. Despite an agreement to be honest with Boe about certain heroic activities, he hadn’t made a big deal out of the risks his best friend was casually living with.
+
+Giving him millions of dollars and telling him not to get caught must have seemed like I was making a huge deal out of it all. But that was just supporting him and making sure all my people are okay if I ever disappear again.
+
+Alden felt good about that.
+
+He felt less good about not realizing until a few minutes ago that Boe Lupescu didn’t have any ground to stand on when it came to thinking another moth shouldn’t play with fire.
+
+He’s literally an unregistered superhuman. With a power a lot of people will think is creepy. And he’s a high rank. And he chooses to live in a place where there are active superheroes.
+
+If he ever got caught, they were going to assassinate him in the media even if they didn’t actually kill him.
+
+Alden circled “cat to Anesidora” some more. He wasn’t going to try to insist that Boe register, but he was going to ask if Boe actually had some extraordinary goal that required him to live in Chicago, Illinois. Because now that Alden had given himself permission to doubt his friend’s reasoning, it seemed to be full of giant holes.
+
+Today I’ve developed a clearer and stronger set of worries about someone else’s life…this is not the progress I was hoping for.
+
+He was going to need to accelerate his efforts to get information on secrecy contracts.
+
+Stuart suddenly spoke up.
+
+“Putting together enough evidence against Olget-ovekondo, without relying on my parents or others who have more important concerns, will be tedious,” he said. “It will take days and upset several people, at least. Doing it without the bors finding out what happened and being hurt by it will add difficulties to my quest. But even if I must tattoo half the travelers in the Here-to-There to accomplish it, I will make sure he doesn’t have the opportunity to do something like this again.”
+
+Alden stopped thinking about his page full of yells. “You’ve made your decision? That’s good.”
+
+“You took care to ease your classmate Kon’s fears.” Stuart was talking toward the window beside him. “Because he was nervous. You are afraid of being summoned and cast carelessly into battle. I explained why that shouldn’t happen to you. However…I will stand in chaos someday, with some Avowed, and order them toward something that will kill them.”
+
+Alden’s stylus clattered against the tablet’s surface, and he caught it again just before it could fall to the floor.
+
+What the hell, Stuart? he thought, staring at the braided side of Stuart’s head. I was about to offer to help you collect info so that Olget can be fined or forced to do community service. Then you come at me with that.
+
+“I’m able to imagine myself giving such a command,” Stuart continued, “but maybe I should say I probably will do such a thing instead of speaking with so much confidence. I won’t know for sure until a day like that comes. I hope when it does, I will make the best possible choice.”
+
+“I don’t understand what this has to do with Olget-ovekondo.”
+
+Stuart turned. “Are you angry?”
+
+Alden realized he might have sounded that way. “I’m…surprised you said something like that. It seemed to come from nowhere. Uncomfortably surprised. Not angry.”
+
+“I’m sorry to be confusing. It all feels closely woven to me, but that might be because I’ve been contemplating on my own.”
+
+Alden made himself relax. “I understand. I just drew a smiling human organ on this tablet, and even if it makes complete sense to me…”
+
+“May I see your artwork?”
+
+Alden shook his head. “Not today.”
+
+Stuart watched the tablet go into the bag like he thought Alden was hiding a Monet from him.
+
+“We live in a <<decadent>> time,” he said after his gaze had turned back to meet Alden’s. “I had heard it, but not with ears that understood it until I went to LeafSong. Some really do think it’s acceptable to be a wizard who serves no one. As if we live in a vast <<paradise>> instead of a fortress surrounded by danger and <<torment>>. At least ambition still drives many such people to climb, even if they do it only for themselves.
+
+“But those who are happy to sit and pleasure themselves with spells while everyone bows to them…I can’t stand them. And one like that, who also turns his magic on the people he’s supposed to protect? Will I ask an Avowed to die for us all one day, after I have let a wizard like that go along as he pleases?”
+
+Okay. “I see how you connected your thoughts now.”
+
+Stuart exhaled. “Another wizard might arrange something with the ovekondos personally or demand a contract from Olget. Some might say the trouble wasn’t trouble because it was fixed. I haven’t had to deal with anything like this before. At my age, I would normally have told Leeter-zis and let him do what he chose. But as votary, I will act as an adult wizard. And I am a wizard who thinks that Olget-ovekondo’s crime is serious enough to be written upon his future, for him to overwrite if he can.”
+
+He sounded sure.
+
+“I’m glad you know what you should do. About this,” Alden said slowly. “But since you brought up the other subject, can I ask…how a knight just decides who lives and who dies?”
+
+“As if countless lives are threatened, as if I have great power, and as if everyone including myself must endure the outcome of my choice.”
+
+Alden hadn’t been expecting him to spit out the answer like it was so easy.
+
+“That’s what Father said when I asked a similar question,” Stuart explained.
+
+“Oh.”
+
+“I’ve contemplated those words extensively. I think they mean that the right decision can be unique to the knight who is forced to make it.” He raised his eyebrows a little. “How would you make such a choice?”
+
+“Me? I’m the Avowed in a scenario like that.”
+
+“You’re worried about being the Avowed in a scenario like that, as unlikely as you ending up in that situation is,” Stuart said. “So you must have thought deeply about what decisions a knight working with you should make in different cases. I would very much like to know your beliefs so that I can <<hone>> my own against the strength of them.”
+
+Wait.
+
+Stuart looked earnest and attentive. He was ready to receive a lesson he would no doubt contemplate until he was triple digits old from his human friend, the weirdass B-rank Rabbit who was slightly hung-up on the idea of dying on a summoning. The human who’d specifically questioned him more than once about power dynamics.
+
+Who tried to use knight privilege stuff to get himself out of dying to a massive wave recently. Who’s having a choosing season, one possible outcome of which is the nifty uniform with the metal studs and all the Intensity 99.9 that goes with it.
+
+“I’m… ”
+
+Stuart leaned closer. Why did he have to lean closer?
+
+“I’m a little stupid about this,” Alden blurted. “I just realized how stupid thanks to your question. What an appropriate question that was.”
+
+Stuart blinked.
+
+“I’m going to think about this,” said Alden. “Hard. And I will let you know my thoughts someday soon.”
+
+“You used the wrong word for effortful thinking.”
+
+“Thank you for correcting me.”
+
+They stared at each other.
+
+“Do you mean that you don’t have an opinion on when it’s acceptable for the Triplanets to send Avowed of your own species into a lethal—?”
+
+“I have opinions. Of course I have them about something this important. But I haven’t ever approached them from the direction you just asked me to with the…the seriousness of someone whose opinions will actually matter to anybody.”
+
+Why haven’t I?!
+
+Stuart returned to his starting position. “I understand.”
+
+I’m glad one of us does.
+
+“You weren’t raised to be an Avowed, and you’ve been one for less than a year. Humans haven’t been frequently called to serve in battle compared to many other species. And then Ro-den paid you to go to Thegund with an accessory.”  Stuart glanced at Alden’s messenger bag. “And you were too busy surviving for months to think of much else. It would be strange if you’d contemplated everything about the roles wizards, Avowed, and Knights of the Mother Planet have in protecting the universe.”
+
+“I didn’t go to Thegund for a bag,” Alden said. “Ro-den didn’t…no. Even if it hasn’t been long, I should have thought about this from the knight’s perspective, in addition to my own. Because I know you. I’ll do it.”
+
+“You don’t have to make it a priority. You have many other things to consider.”
+
+“This one just shot past about a hundred other concerns on my list.”
+
+Stuart smiled.
+
+“I’m going to keep thinking over here,” said Alden. “Let me know if I can help with Olget-ovekondo somehow.”
+
+By “thinking,” he was pretty sure he meant freaking out about Hero Type Knight: Allowed to Summon Warriors from Other Worlds, Including Every Single Person I Know on Anesidora (Minus Kon and Maybe Lute) to Die When I Deem it Necessary.
+
+“Thank you, Alden. I will spend some time studying how I should begin the process of gathering evidence. And I need to send messages to my instructors, letting them know my duties will keep me away from school longer.”
+
+They went back to their separate problems for an hour. Two. The car looped around to a familiar street for a second time, and Alden asked if he could get out for a little while. He needed a bathroom break, and they were near the shop where one of the salespeople had thought it would be exciting to have their wares taken to Earth. Stuart said it was no trouble, so Alden took his time complimenting ink brushes and scented pencils before he bought a few of them and a stack of paper from one very nervous man and his very delighted twin sister, who had a blue tooth that showed every time she smiled.
+
+When the car came around again, he hopped in.
+
+“I’ve been making a list of people to question,” Stuart said. “I hope they won’t feel intimidated to be placed between knights and the children of their former village master.”
+
+Alden frowned. “That is difficult. By the way, I know how Olget-ovekondo’s auriad looked when we passed by on our way to the bors. So if that helps, I can draw it for you or something.”
+
+He waited for the car to start moving forward again. When it didn’t, he looked over and saw Stuart’s fingers hovering over the controls.
+
+“You saw his auriad?”
+
+“I did. He was manipulating it when we walked past.”
+
+Stuart peered at him. “When we walked past…in the moments before the spell was cast.”
+
+“I’m not sure he was in the process of casting it yet.”
+
+“But you saw his auriad. And he was forming a casting shape with it, not just wearing it on his hand?”
+
+“He wasn’t just wearing it.”
+
+“Alden!”
+
+“You think it will be useful?”
+
+“Do you really remember exactly what it looked like? Exactly?”
+
+Is it too suspicious for me to say yes?
+
+“Yes… ”
+
+“Alden!” Stuart sounded exasperated.
+
+“I should have told you earlier?” Alden asked.
+
+“I just sent eight formal absence requests to my instructors,” Stuart said. “And I might not even have needed to. Depending on what you saw.”
+
+“Oops.”******

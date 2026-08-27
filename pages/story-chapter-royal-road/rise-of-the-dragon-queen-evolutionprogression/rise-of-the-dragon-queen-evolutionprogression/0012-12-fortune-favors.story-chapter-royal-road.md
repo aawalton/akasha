@@ -1,0 +1,317 @@
+---
+id: 08aaa4f5-5699-5a81-8cf2-1c3a9f649162
+page-type-slug: story-chapter-royal-road
+title: "12 - Fortune Favors"
+slug: 0012-12-fortune-favors
+partOf: rise-of-the-dragon-queen-evolutionprogression
+position: 12
+ownLength: 2662
+unit: words
+publishedAt: 2025-09-27
+link: "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2633911/12-fortune-favors"
+royalRoadId: "2633911"
+---
+
+Stella wanted to leave the forest permanently. Her reasons didn't revolve around self-preservation. Instead, it was convenience and cleanliness that motivated her.
+
+The first step toward that had already been taken. She knew almost certainly that she was going to become a merchant. It seemed easy enough and it was safer than fighting monsters.
+
+No more giant bug battles for her. She was going to live the good life very soon, she could feel it.
+
+Mid-stretch, one of the hatchlings slammed into her face. It had been attempting to fly but had failed its landing, something Stella could relate to all too well.
+
+“Okay, that's enough of that. I'll be leaving soon, so you guys better behave.”
+
+Stella's morning routine began with a nice bath in the river. The hatchlings joined her, diving, splashing and sometimes catching fish. Said fish would serve as their breakfast. And though it could've used some seasoning, it was satisfying.
+
+Pigtails and her favorite red dress was Stella's usual combo, and this time was no exception.
+
+Michael Fritz, her tutor and wanna-be alchemist, slept at a local inn. After just a day together, Stella was certain he would prove a useful comrade. Even if he was nervous, prideful and sometimes moody, he would help her achieve her goals.
+
+“Get up!” She demanded as she opened the door to his room.
+
+“Huh?” Michael groaned.
+
+“You can't sleep in, we have work to do!”
+
+“It's so early though…”
+
+“Haven’t you ever heard that the early bird gets the worm?”
+
+“Worm?”
+
+Stella rolled her eyes and closed the door. If Michael wasn't going to be productive, she would start on her own. At the edges of town there were fields of crops, flowers and herbs. If she collected more herbs than she had before, she could sell more potions and earn the money needed to move out of the forest.
+
+My plan is full proof!
+
+[Foolproof.]
+
+Shuddup!
+
+She got to work straight away, finding an extra-big patch of herbs. It was in an area Michael hadn't even bothered to explore, how lucky. Now all she needed was a few bundles…
+
+“Hey!”
+
+The herbs looked so fresh and well grown, almost like someone was tending to them.
+
+“Hey, you, stop!”
+
+Stella could practically smell each one before she plucked it from the ground. While that might've been due to her enhanced dragon senses, she was certain it was also the herbs themselves.
+
+“I said, stop picking those. What in the goddess’ name are you doin’!”
+
+Stella was interrupted by an old farmer, one that looked royally pissed off. Why? She had no clue.
+
+“Can I help you?” She asked.
+
+“Sure thing, pay for those herbs you stole and get the heck outta here!”
+
+Herbs she'd… Stole?
+
+It dawned on her that the field filled with herbs was perhaps not a place Michael hadn't touched for no reason. It was strange that quality herbs had grown here all by themselves. And now she knew it certainly wasn't by luck.
+
+“I'm so sorry! I didn't realize!”
+
+“What do you mean you didn't realize! You walked right into my yard!”
+
+“Well, the fence was so small—”
+
+“I've had it, just leave!”
+
+Whoa, I really made him mad.
+
+“Look, I didn't mean to. I can pay you for—”
+
+The old man waved her off and sighed.
+
+“It doesn't matter, I don't really have much use for them anyway. Just get lost.”Stella couldn’t help but ask. “Well, why don’t you have use for them?”
+
+“I grew them for my wife, but they haven't worked.”
+
+Stella nearly dropped the herbs she was holding as the old man's eyes suddenly darkened.
+
+“Before long she'll...”
+
+It turned out the man's wife was sick was something that no one had managed to heal. The farmer had grown every herb he could, but none of them had worked.
+
+“Not even healing potions?” Stella asked when he'd finished speaking.
+
+“No, not those either. That said… I've never met a proper alchemist, just healers and fortune tellers. I don't have enough money to hire someone from the royal capital either, so maybe the ones that came were wrong. That's why I can't give up.”
+
+Stella had been moved to tears but didn't dare start sobbing. If this farmer could stay strong in the face of his ailing wife, she would have to as well. It was more productive to think about what she could do, but it wasn't much. So far, she had become a warrior. Her encounters with monsters had shown her that her own body was capable of healing quickly, but others weren't so fortunate.
+
+Except, Michael is an alchemist. Maybe his potions would—
+
+“And I tried the alchemist in this town. But he is a fraud. I wouldn't let him try again, not when his last attempt had made her cough so much.”
+
+Stella went pale at the realization that it was Michael he was likely referring to. Did that mean this really was a lost cause?
+
+It can't be. Or, even if it is, I won't let it end. If I turned away a sad old man, I wouldn't deserve this new life.
+
+“Thank you for the herbs, old man. I promise, I will repay you for them someday soon.”
+
+“My name's Timmy.”
+
+“Oh, well, my name is Stella.”
+
+He tipped his big straw hat and then turned to head back toward his house.
+
+“Nice to meet you, Stella.”
+
+Michael was eating breakfast when Stella returned to the inn. She took the stool next to him and banged her shoulder into his.
+
+“Hey! I'm trying to eat here!”
+
+“I know, but there’s something more important I have to ask you about.”
+
+Michael sat back, looking at his bowl of partially spilled oatmeal. Stella hadn't realized she'd pushed him that hard.
+
+“What is it?” He asked, meeting her gaze.
+
+Stella explained.
+
+“So, were you the alchemist that tried to heal that farmer's wife?”
+
+Michael looked taken aback, as if he was about to blurt ‘How did you know?!’. But, he didn't, instead he looked down, like he'd been caught committing a crime.
+
+“Yeah, I was.”
+
+“Well, aren't you better now? I mean, you made all those potions the other day.”
+
+Michael fixed the position of his glasses, then ran a hand through his messy, brown hair.
+
+“I made potions with basic ingredients for basic injuries. What that man's wife has is a sickness I've never seen before. I would need something incredibly rare and powerful to help her. But it's not like he would allow me to help her anyway. Not after my previous attempt failed…”
+
+“What kind of ingredients?”
+
+Michael rolled his eyes.
+
+“Didn't you hear me? I said incredibly rare ingredients! And I said he wouldn't let me help.”
+
+“I don't care, I want to know anyway.”
+
+After a moment of silence and a heavy sigh, Michael gave in.
+
+“I’m not a doctor so I can't be certain that even the strongest potion I have the skill to make would cure her. But with the right materials, I might have a shot. Queen dragon scales are the best agent against sickness we have. They’re said to even help plants grow. But there hasn't been a queen or king dragon for centuries, likely because the king makes a point to wipe them out… They are the strongest species, after all.”
+
+Stella went rigid, swallowing something thick that had begun to form in her throat.
+
+“See? It's impossible. The last time I was there, she had gotten so bad I was certain she'd die at sunrise. The fact that months later she is still clinging to life is a miracle in itself… We can only hope she goes peacefully now.”
+
+“No, I won't let that happen. Do you know what it's like to die?”
+
+Michael blinked, his expression one of pure confusion.
+
+“No, do you?”
+
+Stella bit her bottom lip to keep from blurting a response. She hopped up, taking a deep breath and facing away for a second, gathering herself.
+
+“No, but I have gotten close many times since I've come here. If you can't help her, I will. I will help everyone in this world.”
+
+Michael put some coins on the table to pay for his meal, then joined Stella where she stood.
+
+“Everyone? That's a tall order. Especially for someone so short.”
+
+Stella shook off his hand when he put it on her head. To him she was still a kid, making her talk of saving the world seem all the more ridiculous.
+
+“Yeah, is that all you have to say?”
+
+“What—?”
+
+“Being short isn't as bad as being lazy. You call yourself a merchant? It's nearly noon and you're still sitting around being useless!”
+
+“You—You can't talk to me that way, I'm your tutor!”
+
+“Yeah? Well then, do some tutoring and stop sitting around!”
+
+They were unceremoniously kicked out of the inn for yelling. Michael got to making potions while Stella went out and gathered more herbs, which took a bit given she couldn't use her jackpot location.
+
+Today, Stella used her skill [Silver Tongue] to talk about the potion’s effectiveness. She sold them excellently and then collected her cut of the pay. Combined with yesterday's haul, she had 200 coppers.
+
+“Wait, this is half the earnings and I didn't even do anything!”
+
+“Are you kidding? You sell those better than I ever could. It honestly makes me jealous. Just keep it.”
+
+“Yeah, I guess you are a lousy tutor… I will keep it!”
+
+Michael scowled.
+
+[Silver Tongue is now level 2.]
+
+“Give me a second, I'm going to go somewhere.”
+
+“Where are you running off to this time?”
+
+“To help an old lady who needs this more than me.”
+
+When she arrived at the alley between the clothing shop and a tavern, she found it devoid of life. She went through the alley to the other side and found no trace of the elderly beggar that had once been there.
+
+Maybe she moved on, perhaps to a different place in Fellheart or maybe to a new town entirely.
+
+Despite not having found the old lady, she did find an unusually busy street. Beyond the alley, she had found a location she'd yet to explore within Fellheart.
+
+There were many stands with cheap goods on display. But more than that, there were services like healing and fortune telling.
+
+“You, child. Come closer if you wish to hear about your future.”
+
+The voice was directed at Stella and it came from a tent. The tent was the color of twilight, covered in sparkly markings and so dark it acted like a shadow against the stone walls of the pathway.
+
+Curiously, Stella entered and was met with a woman with white hair and dark amber eyes, almost black. She smiled and beckoned Stella forward.
+
+“Yes, I sense great things in your future.”
+
+Stella took a seat and looked around. The tent was bigger inside than it had looked. Baskets and jars littered the ground, with a ghostly cat perched on a cat tree on one side. The fortune teller sat at a long table with cards in one hand—the only thing Stella found absent was a crystal ball.
+
+“Great things, you say?”
+
+“Yes and for only 55 copper you can—”
+
+Stella handed it over.
+
+The woman cleared her throat and then shuffled her deck of cards. Afterward, she set three cards on the table, face down.
+
+“This is your future, going from near to distant.”
+
+“That's so cool…”
+
+The fortune teller smiled and flipped over the leftmost card. Pictured was a woman and a bird standing near a grape bush.
+
+“The nine of pentacles, a symbol of wealth. Very soon, you will make a lot of money.”
+
+Oh, yippy!
+
+The middle card was upside down, and pictured a priestess.
+
+“This suggests untold truths will come to light. A grave mystery has been at play around you.”
+
+“Really? What mystery?”
+
+“I-I do not know, only the spirits know and it is they that control the cards.”
+
+“Oh.”
+
+The final card was of a skull.
+
+“What does that one mean?” Stella breathed.
+
+She couldn't lie, seeing a scary card made her worry. Even if it wasn't real in her old life, in a world of magic and monsters, the possibilities were limitless.
+
+“It is the card of change. Something must die in order to be reforged and it is you that must be reforged.”
+
+“Wow and—”
+
+“That's the end of our session. Go now, that is all.”
+
+“But I—”
+
+“Begone! It is my lunch time!”
+
+Stella left the tent and was surprised when the fortune teller shoved her aside and hurried over to a food stand. Her cat familiar followed at her feet, meowing as it went.
+
+Wait… A cat… I guess she can summon things. I wonder if…
+
+“Mmmm! I haven't had a lunch this good in ages!” The lady exclaimed, shoving a hotdog into her mouth.
+
+Ew, it's covered in mustard.
+
+Stella decided the broke fortune teller wasn't likely the one who sent a familiar to attack her. But maybe she knew how to track down another summoner. The polite thing to do would be to let the woman eat her glizzy in peace. But it was better to ask now than have to track her down later.
+
+“Excuse me, miss fortune teller?”
+
+“Huh? What?” She replied with stuffed cheeks.
+
+“I see you are a summoner.”
+
+“Yeah, what about it, kid?”
+
+“Do you happen to know how to track other summoners down? I know that's a weird request but I—”
+
+“Only familiars can sense summoner magic and you seem to have a target on your back. Don't come near me again.”
+
+Stella stood, dumbfounded as the woman headed in a random direction.
+
+“Hey! Wh-What do you mean a target on my back?”
+
+She hurried to catch up, and when she got close the see-through cat hissed at her, making her skid to a halt.
+
+“Can’t you see I'm eating? Go bother someone else. You clearly ticked someone off and I don't want any part in it.”
+
+Stella returned to the forest after that, having to give her human form a break. She fed the little dragonets some bread she’d bought and then began to think over her day.
+
+She'd learned the king of this nation had it out for dragon girls, which wasn't great given she was one. But more urgently, she'd gotten a strange warning from a fortune teller.
+
+If only familiars can sense summoner magic, then it's good I still have mine. But it only has two summons left, which means I need to make sure I use it correctly.
+
+Also, if I want to heal that old lady, I'll have to give Michael my scales. But how will I explain where I got them?
+
+She had so much on her brain that it gave her a headache. To clear her mind, she decided to fly around for a little. It was one of the only perks of living in the forest, since she had enough privacy to actually use her dragon form.
+
+With much practice she could semi-reliably land now. Also, she knew the scents and sounds of her camp enough to return to it even from a distance away.
+
+Some wind on her face really cleared her mind. In the air she felt like she could see all her choices and problems clearly. Everything seemed smaller from above, after all.
+
+When she returned to camp she made the choice to move it. If she was actually under attack it wasn't wise to stick around in the place she'd been discovered. Additionally, she'd need to get something to carry her money in to keep it safe.
+
+Until I can control my form better, I won't try to move into town. And until I've figured out what's going on with that big ghost cat that tried to eat me, it's probably safer for everyone that way.
+
+For now, she would continue to work on getting stronger.

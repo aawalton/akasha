@@ -1,0 +1,303 @@
+---
+id: ee8c37c7-816b-5bab-8b0f-f2cb00f83129
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5: Octopus's Garden"
+slug: 0005-chapter-5-octopus-s-garden
+partOf: the-gift-of-loot
+position: 5
+ownLength: 3179
+unit: words
+publishedAt: 2026-04-05
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3235466/chapter-5-octopuss-garden"
+royalRoadId: "3235466"
+---
+
+Thomas looked down at his receipt one more time and snorted with disgust. $49.99 before tax for a pair of pants from Ross. Ross.
+
+He thought the president said the price of all goods and services would be frozen "for the duration." Apparently, that didn't extend to stores that were one step above thrift.
+
+Well, whatever. A quarter of his money from the mana crystals was already gone, but at least he wasn't walking around in shredded pants.
+
+And there was more dungeon loot to look forward to.
+
+The octopus dungeon was located between one of the big casinos on the Nevada side, on the strip of land between the casinos and the lakeside beach. It was a flattish spot full of sandy soil and scrubby pine trees. Walking up to it, Thomas saw a line of wannabe divers already waiting to get in.
+
+A few had thought ahead and brought lawn chairs. A group of teenagers sat in a loose circle with phones out, not speaking to each other.
+
+Thomas joined the back of the line behind a woman carrying what looked like a halberd. She had ripped the sleeves off her shirt, and the muscles on her arms rivaled his own. She had no interest in speaking to him, every line of her body silently yelling 'Go away.' With muscles like that, he wasn't about to press his luck.
+
+The long line wasn't the only difference from the demon chicken dungeon. This one was guarded by a lot more National Guard. In fact, it looked like they had set up a tent at the exit and were hustling people through it as they came out.
+
+Hopefully, they're not shaking them down for their loot, Thomas thought.
+
+The sounds of raised voices and angry shouts came from the front of the line. Thomas, along with everyone else, craned to see.
+
+An older man stood at the front, and... wow. He liked guns.
+
+There were at least four that Thomas could count, sitting in holsters on both hips and both thighs. Then the man turned, and Thomas revised his count up to six as he spied two rifles slung across his back. Gun guy also had a pistol strapped to his ankle.
+
+All those were just the visible guns. The man wore a bulky jacket, and Thomas suspected there were even more underneath. He had come loaded for bear... or at least octopus. Too bad that wouldn't do him any good in the dungeon.
+
+"I've done my extensive research," the man said, jabbing a finger at the chest of the nearest soldier who stood between him and the dungeon entrance.
+
+"Sir—"
+
+"It is my constitutional right to bear these arms, and that means into this goddamn dungeon."
+
+"The dungeon," the soldier said carefully, "does not care about the U.S. Constitution."
+
+"Well, it should. It's on U.S. land, isn't it?"
+
+Another soldier spoke up. He seemed to be about the man's age and had no room for nonsense.
+
+"Here's the reality," he said, clipped and professional. "Gunpowder does not combust inside the dungeons. No, I don't know why. But the fact is, your firearms are inert the moment you cross out of the safe room." He paused. "I don't make the rules. Believe me, if I did, things would be run a lot differently."
+
+"I'll figure it out once I'm inside," the gun guy insisted. "And you can't stop me."
+
+The nearby digital clock clicked over to a fresh ten minutes. The soldiers exchanged a look.
+
+"Let him through," called a voice from beyond the tent flap, not bothering to hide his amusement. "Maybe he can use those guns as bludgeoning weapons."
+
+A ripple of laughter moved through the nearest section of the line. The gun-happy man reddened but didn't look at them.
+
+Meanwhile, the senior soldier's face did something complicated before settling back into professional neutrality. He stepped aside, as did the rest of his guard.
+
+The gun man gave a triumphant smirk, as if he'd won something, and stepped into the dungeon's entrance. This one was a roiling blue and white.
+
+The line moved forward, but something struck Thomas immediately. The National Guardsmen weren't just cataloging who went in, who didn't come out, and what loot people wanted to declare. They were making sure no one followed in after divers. They maintained the integrity of each instance.
+
+The National Guard guy at the first dungeon had said, "There are no cameras, and in a dungeon, no one can hear you scream."
+
+Okay. Maybe he should be glad to see the army maintaining order.
+
+To take his mind off those thoughts, Thomas counted places in line. There were ten parties ahead of him, as far as he could tell. Just over an hour and a half wait to reach the front.
+
+He should have brought a lawn chair.
+
+To kill time, he grabbed his phone and started paging through the news. The riots in Oakland had escalated. It looked like there was a territorial dispute between two gangs over a level two dungeon, and it had pulled in the real army, not just the National Guard.
+
+Chicago was worse. And Houston was worse than Chicago, depending on what source you believed.
+
+New York... now that was strange. Hardly anything was coming out other than cutesy stories, like dungeon entrances appearing inside residential buildings and how people were dealing with it. A level one had materialized in someone's bathroom, and the tenants had been arrested for trying to charge admission.
+
+New Yorkers, Thomas thought, then kept scrolling to the international feed.
+
+China had expanded mandatory dungeon participation to more areas of the country, with a gift registry. A few paragraphs down, an article mentioned that three U.S. senators and a congressman were already floating a dungeon certification program for "official dungeon licensing."
+
+You know what? Maybe I don't want to read this.
+
+Thomas locked his phone and pocketed it.
+
+The line moved, and he spent most of the time people-watching and occasionally making small talk. It seemed most were like him, with a couple of dungeon runs under their belts. No one, it seemed, had decided to start the first dive with the octopus dungeon.
+
+Well, except for the gun guy—and he hadn't come back out yet.
+
+"Hey, man," said a voice behind him when Thomas was second from the front.
+
+Thomas turned to see a guy in a too-heavy jacket for a summer day, with the twitchy energy of someone either currently or recently using something. His face looked hollowed, and the fat had melted away, but his paunchy stomach and arms said he ate well.
+
+Before Thomas could say anything, the man spoke again.
+
+"I'll give you a white mana crystal to trade for your spot."
+
+"What?" Thomas asked.
+
+"My party's back there," he said, jerking his chin. Three other people nodded. They had much the same look as the tweaker. "Here, see?" The man held out a crystal, and Thomas examined it. It was different from his own mana crystals. The swirling mist inside was thinner, like the difference between a faint haze and a thick fog.
+
+Suddenly, he understood what Zach had said about ranks.
+
+"No," he said, steadier than he expected. "These are Grade E. Mana's weak."
+
+The guy glanced back at his group, then at Thomas again, recalculating.
+
+"Look, we're five parties back. Less than an hour now since the clock's about to tick over. It's just a little wait." He spread his hands. "Three whites and a blue for your spot. Come on."
+
+Why was this guy so desperate to get in? He seemed almost twitchy about it. The only thing Thomas could think of was that they wanted to do something inside where no one could see them. Weirdos.
+
+"Five whites," Thomas said. "I'll get my blues from this dungeon."
+
+The man's face broke open with relief. He made the trade quickly, as if he were afraid Thomas would change his mind. Thomas tucked the five crystals into his jacket pocket, annoyed that everyone in line had seen the exchange and now knew he had them. He'd have to declare these when he got out. Oh well.
+
+He switched places with the group and settled in for another wait, catching a few glares he didn't understand. The soldiers had witnessed the entire exchange and didn't have a problem with it. One soldier caught his eye and offered a small shrug. Thomas shrugged back.
+
+The line crawled forward. No one else approached him.
+
+People exited the dungeon at uneven intervals. Some came out buzzing with relief and excitement. Some checked their bags immediately in that universal gesture of good loot. Others were quieter or, worse, had injuries. Nothing seemed fatal, though.
+
+Neither the gun guy nor the twitchy group had emerged yet, though it might still be early for the latter.
+
+Finally, it was his turn.
+
+As Thomas stepped to the front, his eyes caught a sign someone had placed right by the entrance that the army hadn't removed:
+
+The Octopus's Garden
+
+The female National Guard woman at the entrance looked him up and down. "Party of one?"
+
+"Just me, myself, and I," Thomas confirmed.
+
+"Name and date of birth." Then, after he gave it, she said, "I assume you've dived before?" At his nod, she entered his information. "Upon exit, you are to immediately go to the tent for an examination."
+
+That caught him short. "Examination?"
+
+"To make sure you didn't bring out any hitchhikers," she said. "Those octopuses are very good at camouflage."
+
+Well, that was unsettling.
+
+The clock ticked over to ten minutes, and she stepped aside. "Have fun."
+
+Thomas stepped forward.
+
+The safe room was an exact replica of the first one, including the bland walls. This time, he came prepared. He checked his maul, then reached into his backpack for weapons and brought out the drops from the first dungeon.
+
+He attached a curved dagger to his belt using the sheath and slipped a penknife into his hoodie pocket. It would lie sideways, so even if the blade opened, it wouldn't stab into his stomach. Hopefully.
+
+His backpack was mostly empty—he had stashed the remaining crystals from the first dungeon in a Taco Bell bag among a few others in his car. He'd learned a long time ago the trick of hiding important things in trash. As long as he didn't forget and throw them away, they were surprisingly safe.
+
+Then he stepped forward, opened the door, and entered the Octopus's Garden.
+
+The name made sense as Thomas stepped into what looked like an undersea garden. Thankfully, not an actual undersea garden. He could breathe, though the air was so humid it was almost wet—and unpleasantly chill. Still, he could breathe just fine.
+
+It was dazzlingly beautiful.
+
+Seaweed was draped off the trees in all colors of the rainbow in multicolored leaves. They waved gently in a breeze he couldn't feel, back and forth, like they were under the influence of a slow, rolling tide. The light that filtered down was blue-green, deepening shadows and making everything just a bit hazy.
+
+In the distance, he heard water dripping.
+
+This was an Octopus's Garden in the shade. Did the aliens or gods or whatever ever hear the song?
+
+Get your head together, Thomas, he told himself sternly, looking around again, this time for signs of an enemy.
+
+The guide had said that the first octopus should be right in front of him. But for the life of him, Thomas couldn't see it.
+
+The rocks were all different colors, and the blue-green semi-light didn't help him identify shapes.
+
+Thomas took a step forward to get a closer look. And a rock that wasn't a rock uncurled and sprang straight for his face.
+
+He threw his maul up in defense but couldn't bring it down before the octopus reached him and wrapped its tentacles around the hilt. There had to be a beak in there somewhere—he heard wood splinter. One of the tentacles touched the top of his hand, and he felt a flash of searing pain.
+
+Thomas dropped the maul immediately and grabbed for his dagger, but his fingers fumbled on the sheath.
+
+Meanwhile, the octopus's single orange eye rolled up to look at him. In a flash, it uncurled from the handle of the maul and launched at him again, shooting through the air as if it were moving through water.
+
+No time.
+
+Thomas abandoned the dagger and went for the penknife in his front pocket. He pressed the button and stabbed forward, wielding it like a tiny sword.
+
+The blade struck, plunging in just beside the open, razor-sharp beak.
+
+In that instant, Thomas knew he was about to lose several fingers.
+
+Instead, the octopus monster collapsed almost immediately, folding in around his hand. The head deflated.
+
+Thomas let out an unmanly shriek and shook it off. The creature dropped like a stone and didn't move.
+
+It was... dead?
+
+"Oh! Oh! I am not ready for this!" Thomas yelled, dancing in place, shaking out his hand and rubbing it on his thigh.
+
+The side of his thumb stung. He looked down. A red welt was already rising on the meat of his thumb. One of the suckers from the tentacles must have brushed him.
+
+Looking down at the body, he saw the tentacles were lined with suckers ringed with tiny teeth.
+
+This was supposed to be a level one?
+
+A hard level one, he reminded himself.
+
+And... why was the octopus dead? Had he accidentally stabbed something vital?
+
+Carefully, Thomas looked at his penknife, still gripped in his hand. The little jewels in it, which had once been clear, were now blue. Whatever that meant.
+
+Nope. Nope. Nope. This octopus room was too much for him. He couldn't do it. He needed to turn around and leave the way he came. The door was practically at his back, and yet he'd almost been killed right off the bat.
+
+It would be a walk of shame as everyone in line who'd just seen him leave would know he'd bailed almost immediately. But he could live with a little public humiliation.
+
+That beak was as long as his index finger, and the octopus could launch through the air like it was swimming. Wait...
+
+Where was his loot?
+
+Gingerly, using the tip of his shoe, Thomas nudged the dead creature. Something glittering fell out.
+
+This wasn't a mana crystal. It was an elongated, flat diamond.
+
+He plucked it up. It was clear, except where it caught the glow and shimmered like an opal.
+
+He'd seen pictures of these. A skill shard?
+
+Instantly forgetting his fear, Thomas gripped his loot tighter.
+
+Oh, wow. These were supposed to be really rare. How did he score one already?
+
+But he knew the answer to that: Because his gift gave a five percent drop rate. Out of the thirty octopuses the guide said were in the dungeon, he could expect maybe one. Possibly two rare drops.
+
+He'd gotten one on his first kill.
+
+Thomas held it up to the watery light, looking for any writing or indication of what kind of skill shard it was.
+
+Nothing.
+
+Skill shards were worth a lot on the market—meaning the government market, where he'd have to register his loot.
+
+Thomas's mood immediately dipped.
+
+Okay, selling on the government market wasn't the end of the world. Though getting something this valuable on his first day of dungeon diving might attract attention.
+
+He was holding something people would quite literally kill for.
+
+No one really had skill shards yet. They granted abilities—magic, skills, and provided all sorts of ways to make mana actually do something. With the world only a few days into dungeon diving, they were incredibly rare.
+
+People already killed for them.
+
+Too bad he had no idea what he held. It could be anything from enhanced math skills to throwing fireballs.
+
+"I could really use some fireballs," Thomas muttered.
+
+There were also skill shards that could analyze other skill shards. That would be useful with his gift.
+
+The smart move would be to leave now. Take the walk of shame, go to the government tent, and have it scanned.
+
+Or...
+
+He could use it right now.
+
+Just in case there were more invisible octopuses nearby, Thomas retreated back into the safe room while he thought it over. He wouldn't officially exit unless he went through the outer door, but in here he could rest. That was why they called it a safe room.
+
+On the way, he grabbed his maul. The wood was tough—the octopus's beak had only just begun to chew into it. He gave it a few test swings. Still solid.
+
+His penknife was still faintly blue. Again, whatever that meant.
+
+Closing the door, he felt safer inside the small, closet-sized room.
+
+"Okay," Thomas said, pacing as much as the cramped space allowed. He exhaled. "I'm thinking about this the wrong way."
+
+He was treating the skill shard like it was one of a kind. Like he'd never see another one again. Like he'd just won the lottery.
+
+But really, he'd just won a raffle.
+
+This wasn't unique. And one major part of his gift meant he'd get rare drops more often than most people.
+
+What had the scroll said? The average person had a 0.5% chance of a rare drop. That meant they could run dungeon after dungeon and never see one really good piece of loot.
+
+But Thomas... he could expect one or two per run with a dungeon this size.
+
+His last dungeon had given him two, including the boss. Bosses probably had a greater chance of dropping rare items, but still...
+
+"...Yeah," he admitted. "I'm talking myself into this. I'm just going to absorb it and see what it does." No matter what the skill shard was meant to do, he could count on it not being harmful. The spare information in the guides had been clear on that.
+
+Holding the skill shard, he concentrated, just like he had with healing mana.
+
+The shard liquefied, turning into something like water, and sank into his skin.
+
+"Be something good. Be something awesome," he muttered. "Sword proficiency, dagger skills, water whip—no, that's Avatar again. Do they even have water whips?"
+
+As he considered that, the energy within the skill shard spread through him. Then it seemed to gather again at the back of his head. He felt a cool heaviness there. It wasn't painful. Just... strange.
+
+Gingerly, Thomas reached back and touched his skull. Nothing felt different. There was no physical change he could detect. After a few moments, the feeling went away. Whatever it was... it was done.
+
+Apparently, there wasn't going to be an explanation. No pop-up window. No helpful notification.
+
+He had a bad feeling, a gut feeling that this was one of those skills that only activated in combat.
+
+"Fine," Thomas said in a tight, brittle voice that reminded him of his father when things were definitely not fine. "I'll kill another damned octopus."
+
+He walked out of the safe room.

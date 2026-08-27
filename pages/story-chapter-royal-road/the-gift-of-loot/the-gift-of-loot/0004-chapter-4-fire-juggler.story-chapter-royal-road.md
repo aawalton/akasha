@@ -1,0 +1,161 @@
+---
+id: 8f1d8b62-0fd4-55e3-b1d6-12026a893bc9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4: Fire Juggler"
+slug: 0004-chapter-4-fire-juggler
+partOf: the-gift-of-loot
+position: 4
+ownLength: 2016
+unit: words
+publishedAt: 2026-04-04
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3231933/chapter-4-fire-juggler"
+royalRoadId: "3231933"
+---
+
+Thomas carefully drove through town. The traffic lights were still working, and no one was Mad Maxing down the street. At least not yet.
+
+It had been a week to the day since the system integration announcement, and things were... weird. Thomas more than half expected everything to immediately fall apart, but it turned out society had a lot of inertia. There were a significant number of people who straight-up disbelieved anything too outlandish. And there was an even larger segment that took comfort in the familiar, thinking that if they just went to work and paid their bills, they'd be shielded from all the nonsense.
+
+Maybe they were wrong. Maybe they weren't.
+
+From the slightly desperate-toned propaganda that had been put out, the government was working hard to make sure that monster breaks weren't a thing and wouldn't be impacting citizens' lives. (So calm down and continue to pay taxes, pretty please.)
+
+The president himself had come on all public broadcasts and said he was enacting martial law to freeze prices and inflation so there was no price gouging. Thomas didn't actually think that was legal, but all of Congress went with it, so whatever.
+
+From what had been leaked over the last few weeks, a significant portion of senators and long-running state representatives had been dipping into dungeons on the sly, so it was in their best interest to make sure everything stayed status quo. Apparently, other countries were the same. The rich and well-connected had known this was coming for decades.
+
+All this was to say that as Thomas drove, his mind on the dungeon and his miraculous healing with part of his attention on the roadway, he was taken by surprise by a flash of fire out of the corner of his eye.
+
+Lots of green spaces had been created between the roadway and the lake. The lawns were empty because the tourists were mostly gone. But there, standing in front of a knot of admirers, was a juggler.
+
+A juggler who was juggling live fire.
+
+This was a major tourist town, so it wasn't rare for people to busk for money until they were hustled out by the police. The fire thing was new, though.
+
+Thomas hit a red light, so he was free to watch for a few moments.
+
+The man, shirtless in his early twenties, seemed to know what he was doing, throwing up flame ball after flame ball and catching them with ease. The thing was, he wasn't juggling flaming bowling pins or alcohol-soaked balls while wearing gloves. He was juggling fire with his bare hands.
+
+This dude was doing magic.
+
+The second the light turned green, Thomas slapped on the turn signal and glided his car to a stop alongside the road. Normally, this time of year, there'd be no shot of getting a spot, but right now it was locals only.
+
+He grabbed his backpack—leaving the maul in the back seat—and headed over.
+
+As he got closer, he heard the crackling of flames and felt a touch of heat in the lake-cooled air. Yep, definitely not an illusion. It was real fire.
+
+The juggler was having a casual conversation with a pretty lady as he went through his schtick, making her laugh and then pretending to fumble the fire before "recovering" just in time to continue the act. Then, with a wink to show he had everything under control, he added another ball of flame, and another. Now there were five in total. He tossed them up and caught them just as easily as any skilled professional.
+
+Finally, for his last trick, he somehow made them all different colors—blue, red, yellow, regular flame, and one purple—tossing them up in a round kaleidoscope. It was honestly stunning.
+
+Then, one by one, he let them drop into his palm, and they all poofed out of existence.
+
+"And that's all, folks," he said. "I'm out of mana for the rest of the day."
+
+Then he meaningfully looked at the bucket by his feet, which already had a few dollars in it.
+
+He got a few claps, and people dropped in tips. A few lingered to talk to him.
+
+"That's a skill, right?" one man asked, jutting out his chin.
+
+"I'm all skill," the juggler replied easily.
+
+The guy asking huffed. "Yeah, but where did you get it from?"
+
+The juggler didn't blink. He just smiled. Obviously, he wasn't going to answer.
+
+"C'mon, man. It's no secret. Drops like that are super rare anyway," the man wheedled.
+
+Finally, the woman he was with stepped in, grabbing his arm to tug him away. "Don't hassle him, babe."
+
+The man scoffed and shot a poisonous glare at the juggler. "It's nothing special. I've seen skill drops on YouTube. Anyone can do something like this once they get the right skill." He stomped off.
+
+"Sorry about him," the woman said sheepishly, then walked away to join her—hopefully boyfriend, not husband.
+
+Unruffled, the juggler looked at Thomas, clearly wondering if he had a question too.
+
+Thomas glanced around to ensure no one was close enough to overhear him. Seeing the crowd had dispersed, he said, "Was that true, that you ran out of mana?"
+
+"Yeah, bro." The juggler had a stereotypical surfer dude accent. "That's the drawback to all this. I'm literally burning money when I juggle, at least until I get more from a dungeon."
+
+Bingo. Thomas practically heard a cash register cha-ching in his mind. But how to do this?
+
+Act casual, he told himself.
+
+"So, uh, are you looking for... y'know, stuff?"
+
+"Nope," the juggler said. "I got my own green, dude. All my dollars are going into mana."
+
+Green? Oh!
+
+Thomas blinked. "Why would you buy pot from someone off the street when you can go to the store—never mind. I don't care." He'd been too casual. "I was wondering, how much do you usually have to pay for mana crystals?"
+
+That got the juggler's full attention. He straightened slightly, and suddenly Thomas got the sense he was seeing the real person, not the laid-back showman.
+
+"Depends on the type. I can't do nothing with blues and browns, but reds and whites are worth something to me."
+
+"Whites?" Why were they speaking in code? Then it clicked. "Oh, you can use air mana too?" Thomas waved off his question before the juggler could answer. "No, it's okay. I get it—trade secrets and all. But yeah... I got, uh, reds and whites."
+
+"Grade?" the juggler asked, not phased by the rambling.
+
+Thomas winced. "No idea. Look, I could show you, but maybe not out here in the open." He tugged lightly on his backpack strap.
+
+"Oh." The man's eyebrows lifted. "Yeah, I'll take a look."
+
+They went back to his car. Thomas reflected that from the outside, it definitely looked like a drug deal, but whatever. Using the car as a shield, he opened his backpack and dug through the mana crystals until he found a red—easy to grab since it was warm—and pulled it out.
+
+"I got some whites too," he explained.
+
+"You got all this from one dungeon?" The juggler had clearly seen inside his bag.
+
+He needed to be smarter about that.
+
+"Me and my party," Thomas said. "We all went in one at a time to get max rewards. I was gonna stash these somewhere, but I saw you and figured I could make some money."
+
+"Wicked." The juggler held the crystal to the light like a gem. "Looks like a D-grade, level one dungeon. Pretty standard."
+
+"How can you tell?"
+
+"You get a feel for them. When you get a B-grade, you can feel it. Like, it burns through you. This just feels real warm. And see how cloudy it is? Not pure. I've never seen anything pure from a level one. Not even level three, though those are less cloudy."
+
+Thomas had no idea what he meant, but he nodded anyway.
+
+"Government's giving twenty dollars per crystal for easy D's like these."
+
+"Easy D's?" Thomas repeated.
+
+"Yeah, you get these at the end of every run. Everybody gets them. Easy D's."
+
+He filed that away, hoping it wasn't the juggler's personal slang. The man glanced back at Thomas, and he caught a sharp gleam in his eyes as the juggler added, "No one really wants the government tracking what we get, right?"
+
+"No regulations on these yet," Thomas agreed. He wasn't trying to dodge taxes. He just didn't want anyone tracking how much loot he'd pulled. "I have four more whites like it, and a few fire—uh, I mean reds. Give me government rates this time," he added. "But if you screw me over, I'll charge you double next time."
+
+The juggler's eyebrows rose. "Next time?"
+
+"You're not passing through. You're setting up to busk for the summer, right? All you guys are." Thomas grinned. "Me and my party plan to dive all summer."
+
+By "party," he meant he, himself, and him.
+
+To his surprise, the juggler bit his lip for a moment in thought. "I'm not screwing you over. These are probably D-grade. Easier to guess down than up. I don't think these are E's. Yeah," he decided all at once. "Hundred bucks for five."
+
+"Deal. Now let's talk about the reds."
+
+That went faster as they already had a baseline. Thomas ended up selling the juggler five air and five fire mana crystals in total for two hundred bucks, cash.
+
+Neither of them wanted to use an app to transfer the funds from one bank to another. Unspoken between them, but still loud in the air, was that they both wanted to keep this quiet. They were in weird times, probably on the verge of some kind of societal breakdown. Thomas didn't need some wannabe warlord getting ideas.
+
+"Hey," Thomas said, once he had cash in hand, "how long will these last you? You don't have to explain how you do it, but when should I come back?"
+
+"An air and a fire D-quality?" He pursed his lips. "About six hours, which is a full day, basically. Longer if things pick up or I get a fire skill."
+
+He blinked. "Wait, you don't have dedicated skills for this?"
+
+The juggler pressed a finger to the side of his nose playfully. "Magician's secret." Then he shrugged. "Alright, it's yes and no. Not many skills have dropped yet. You've probably seen the extreme prices they go for, and what're the chances of a dungeon dropping a juggling skill? But I figured—I didn't need magic for that; I've been juggling for years. Maybe I could cultivate the mana. So I dived my first dungeon, sold off some... product," and the way he said it made Thomas think the products weren't legal. "I got rid of that life. Whole new world, right? Got myself fire and air mana from the dungeon and absorbed them. Took a couple of days, but now I can do this. Today was my debut." He grinned. "I'm real excited about what you gave me, Tom."
+
+"It's Thomas," he said. "And... glad to help. You gonna be around this beach?"
+
+"I'm Zach, and yeah. Mostly here. There's food and stores, and I can pitch a tent behind the casinos on the Nevada side." He paused, and some of the easygoing demeanor dropped. "You said your party was dungeon diving, right?" he said. "Don't go down to Reno. Small-time gangsters are getting pushed out from bigger cities and the bay and moving in. It's getting bad. Stay in the mountains as long as you can."
+
+Thomas wasn't surprised to hear that. "I was born here," he said. "And I planned to dive here." Speaking of that... "Hey, what had he heard about the Octopus Dungeon?"
+
+"It's rough," Zach said. "Supposed to be one of the hardest level ones around, but word is it has mega rare drops: higher grade blues, weapons, even some skills have come out." He glanced meaningfully down at Thomas's shoes. The skin had healed, but the pants from his knees downward were shredded. "Maybe get something to cover your legs."

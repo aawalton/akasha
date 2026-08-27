@@ -1,0 +1,289 @@
+---
+id: 766c5cc7-8a12-5a00-89b8-3f5d122d54f8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 742 - Cynical Caravan"
+slug: 0743-chapter-742-cynical-caravan
+partOf: mythrans-master-of-all-continued-completed
+position: 743
+ownLength: 3096
+unit: words
+publishedAt: 2018-10-26
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/301142/chapter-742-cynical-caravan"
+royalRoadId: "301142"
+---
+
+Kenkoth chuckled and let Tatya's shoulder go when she started to fight the calmness he was giving her. “I can't wait to see what he does to get us back on schedule.” He said. “How do you make up for half a day's lost travel?”
+
+“I don't know.” Tatya said as her shivering stopped. “It should be interesting, to say the least.”
+
+“Oh, I don't doubt that.” Kenkoth said and climbed back into the carriage to wait. “Why don't you have a seat.”
+
+“He said he would be back momentarily.” Tatya said.
+
+“You know what Beholo is like.” Kenkoth said. “He'll have to be dragged away from that building.”
+
+Tatya smiled and stepped into the carriage. “Yes, I suppose it will be a while.”
+
+“Where does this creature go?” Ren asked from just outside the carriage's door.
+
+Both Tatya and Kenkoth stared out the still open carriage door at Ren. He stood about 10 feet in the air and held the healer by the cuff of his tunic with one hand and the large specially-bred riding wolf by the back of its neck with his other hand.
+
+“I mean the wolf.” Ren said and lifted the wolf slightly and it whimpered. “Am I holding you too tightly, little guy?” He asked and put it down and ruffled its neck. “Sorry about that.”
+
+Tatya winced at the apology. “Um... the... the second carriage.”
+
+Ren unceremoniously tossed the healer into the carriage and picked up the wolf in both arms, and it growled slightly. “Oh, don't be such a baby.” He said and walked with it over to the second carriage and saw the carriage was much bigger on the inside than it was on the outside. “I'll give you a nice treat for being good, okay?”
+
+It gave a slight bark, and the surprised carriage handler opened the cage door. Ren put the large wolf inside and the cage door was shut. Ren stepped away and the wolf barked loudly.
+
+Ren chuckled. “I'm not leaving, I'm just getting it ready.”
+
+The wolf watched as Ren stepped across the road and took out his shop tower and activated it. The whole caravan's occupants noticed the sudden appearance of the 30 foot tall tower right beside them, and they all watched Ren enter it. He was back out about 10 seconds later and deactivated the tower, then stored it and went over to the wolf.
+
+“As promised.” Ren said and took out a small piece of cooked Dretch meat.
+
+The wolf was about to scoff at the measly little piece of meat, then Ren tossed it through the bars. It caught the meat automatically and started to chew... then its mouth overflowed with drool at the delicious taste.
+
+“I told you it was a treat.” Ren said and the wolf nodded. He was surprised when he received Respect from the creature, then smiled. “Just for that you can have another.” He said and tossed in another piece. The wolf hadn't finished the first piece yet, because it was savouring the flavor, and another wolf darted over to try and steal it.
+
+“STOP.” Ren commanded as his Command Aura snapped into place, and all the wolves stopped. “That's his.” He said. “If you want a piece, come over here and ask nicely.”
+
+Since they could all feel how much the other wolf liked the meat, they all came over to the cage door and sat down, much to the surprise of the handler.
+
+“Thank you.” Ren said and tossed each of them a piece and let them experience it for themselves. When they all ate their first piece, they nodded like the first wolf did, and made Ren laugh with all the Respect he had gained. “All right. Another piece each, fair and square.” He gave them their reward and walked back over to the third carriage.
+
+“You... didn't just...” Tatya couldn't make herself ask the question, because it would sound ridiculous.
+
+“...make friends with a bunch of wolves?” Ren asked for her, and she nodded.
+
+It did sound ridiculous out loud. Tatya thought.
+
+“Sometimes it's easier to become friends with someone if you're not mean to them first.” Ren said. “If you start off on the right foot, it could become a lasting friendship.”
+
+“As long as the meat holds out.” Artemis said, and Ren chuckled.
+
+“I've got a couple of crates full, so they should last a long time.” Ren said. “Actually, that reminds me.” He said and took out the All-Seeing Mirror. “Can you show me a cross-section of the succubi roost I built?”
+
+The mirror changed to show an actual cross section.
+
+“I know where the corrupted dirt is, and I wonder if any dretches have shown up yet.” Ren said. “Please add glowing dots for dretches.”
+
+Nearly the whole screen populated with them and Ren laughed. “Well, I guess I didn't have to worry about that.” He said and stored the mirror.
+
+“What are these 'dretches' you are talking about?” Tatya asked.
+
+“Oh, little worm-like creatures I took from Shargon Caverns.” Ren said, and she froze stiff.
+
+“Sh-shargon Caverns.” Tatya said. “You've been to Shargon Caverns.”
+
+“Yeah, and what an adventure that was!” Ren said. “Just a second.” He said and opened his inventory and took out a copy of the book, tore it in two, then reformed the two halves into two books and handed one to her and stored the other. “You can read all about it.”
+
+Tatya stared at the book and then looked at Ren. “Did you just...”
+
+“Possession Restoration.” Ren said.
+
+“But...”
+
+“It works on anything I own.” Ren said and looked inside the carriage. “Can I ask why the inside of this carriage is normal and the wolf carriage is huge inside?”
+
+“We could only afford to bring one modified carriage with us, and used it for the wolves.” Kenkoth said. “Even that had been a hard sell for the magistrate.” He chuckled. “We've got a bit of explaining to do when we go back, since we didn't get to use them.”
+
+“Why would you use them?” Ren asked, curious.
+
+“A demonstration to prove our fighting prowess if it was needed.” Beholo, the healer said.
+
+“You actually ride them into battle?” Ren asked, slightly surprised.
+
+“Why are you surprised?” Tatya asked.
+
+“I figure once they get into their Frenzy, you wouldn't be allowed to get near them.” Ren said.
+
+“Frenzy?” Beholo the healer asked. “Wolves here have that skill?”
+
+Ren chuckled. “All wolves have that skill.”
+
+“No, they don't.” Kenkoth said. “We've raised these wolves since they were pups. None of them have shown any tendency towards that kind of fighting skill.”
+
+“Then what do you ride them into battle for?” Ren asked, confused.
+
+“They're really fast.” Kenkoth said.
+
+“That's all? They don't attack?”
+
+“We need full control over them to ride and fight on our own.” Tatya said. “If our mounts attacked, that would throw us off... or at the very least, reduce our effectiveness.”
+
+Ren had to think about that for a moment. “I've ridden a mount into battle a few times and I usually combine my attack, or do the follow up attack.” He said. “Of course, I have the Amulet of the Spider enchantment that lets me stick to her no matter where I am on her.”
+
+“Let the mount attack first?” Kenkoth asked. “That's...”
+
+“A little odd, yeah.” Ren said, because he could feel their feelings. “Sometimes it might not work, though. It all depends on who you're fighting.”
+
+“Other wolf riders.” Tatya said, just to see what he would say.
+
+“Do your wolves lunge with riders on board?” Ren asked.
+
+“Maybe.” She hedged, and Ren chuckled.
+
+“If they do... when you approach a rival wolf rider, let the wolf lunge at the other rider while you hold on.” Ren said. “Even if the attack is unsuccessful, it will scare or unnerve the rider and might cause them to flee.” He chuckled. “They will definitely rethink their approach of attacking a wolf straight on, at least.”
+
+Tatya, Kenkoth and Beholo the healer stared at him with open mouths.
+
+“It'll only work once or twice, and it should give them significant pause the next time you meet them for battle.” Ren said and grinned. “At least, that's what I would do.”
+
+No one said anything for several moments, and Artemis touched Ren's shoulder.
+
+“You need to help the caravan get back on schedule, now that the healer is back on board.” Artemis reminded him.
+
+“Yes, right.” Ren said and looked at Tatya. “Do you mind if I check out the giant boars you have pulling the carriages?”
+
+“Wh-what? Check out?” Tatya asked, a little dumbfounded. Her mind was still going over Ren's improvised tactic and how devastating it would be on a battlefield.
+
+“I want to examine them and see what I can do to make them go faster.” Ren explained.
+
+“They already go fast.” Kenkoth said. “With the use of Mana-infused feed and special spells, they were raised to be the behemoths they are today.”
+
+“Do they have Legendary Hooves of Speed?” Ren asked, and he felt their surprise.
+
+“No.” The healer admitted. “Hooves of Speed only.”
+
+“That's great!” Ren said, and they gasped at his happiness. “I can upgrade them!”
+
+“You can?!?” The healer asked, and Ren nodded slightly.
+
+“I'm a Master Enchanter.” Ren said, and he didn't feel surprise from them. “So, you know already.” He said, and they didn't respond. “Did you get all of my titles?”
+
+They still didn't respond and he smiled.
+
+“I assume you also have their descriptions.” Ren said, and they stayed quiet. “What about my skills?”
+
+No one said anything, and then he noticed Tatya as she shook her head slightly.
+
+“Which one of you can do it?” Ren asked, and they stayed quiet. He chuckled, and they felt his amusement. “I'm not asking so I can avoid them.” He said. “I'll go and sit in whatever carriage they are in so they can get the whole thing.”
+
+Tatya looked at Ren with wide eyes. “You would let him examine you completely?”
+
+“Sure, if that's what you want.” Ren said. “It's going to take a while, though.”
+
+“You... are amazing.” Tatya whispered.
+
+Ren held in his chuckle. “Which cart is he in?”
+
+“The first one.” The healer said, and Ren remembered that one Pervarian that had stared at him from the carriage.
+
+“I know who you mean.” Ren said and shut the carriage door. “After I upgrade the boars, I'll see if there's room for me in...”
+
+“You will come back here.” Tatya said, and Ren felt and heard the steel in her voice. “Kenkoth, Beholo, switch places with Jirqym when Ren brings him here.”
+
+“Tatya...” Kenkoth was about to say that sending them away was unnecessary when Ren interrupted.
+
+“I don't want to cause any problems.” Ren said and touched the inside of the carriage, closed his eyes, and poured Mana into it. The whole thing glowed for a moment, then it was twice as big inside as it was only a moment before. “Is this enough room?”
+
+The three Pervarians looked around at the now spacious interior and couldn't believe their eyes.
+
+“Artemis needs to sit with us, too.” Ren said. “I'll be back soon.” He looked at Artemis. “Keep an eye out.”
+
+“Of course.” Artemis said and floated up slightly to scan the area and Ren left to start altering the giant boars by upgrading their hoofwear.
+
+*
+
+“Was that a spell or a skill?” Kenkoth asked in a whisper.
+
+“I couldn't tell.” The healer responded.
+
+“It's your specialty.” Kenkoth countered.
+
+“He did it in an instant.” The healer said. “I can't tell you what he did, let alone if it was a spell or not!”
+
+Tatya chuckled. “He did that on purpose.”
+
+“What?” Both men said and looked at her.
+
+“He knew you were going to argue over being kicked out of my carriage, so he gave you something else to argue over instead.” Tatya said. “He's very smart. Also, he really can read our emotions in fine detail.”
+
+“Well, damn.” Kenkoth said. “What are we going to do?”
+
+“As long as you don't make him angry, I don't care what you do.” Tatya said and leaned her head slightly out the window on the side of the carriage to watch Ren work. “I, on the other hand, am going to enjoy his company for as long as I can.”
+
+“Yeah, she definitely likes him.” Beholo the healer whispered to Kenkoth.
+
+“I can still hear you.” Tatya said.
+
+“We know.” Kenkoth said and both men laughed.
+
+*
+
+“Fight the urge, Ren.” Teepo whispered in his ear. “It's just a pack animal and not walking uncooked bacon.”
+
+Teepo. Artemis chuckled as she tried to stop the pestering. Ren took another set of Hooves of Speed and made them Legendary, then added the Horseshoes of Speed to make them really fast.
+
+“It's not a delicious bunch of tasty bacon strips that are just waiting to be sliced off and chewed.” Teepo chittered in laughter.
+
+Ren had a smile on his face the whole time as Teepo kept talking and giving him different images of cooked ham, pork roasts, pork chops, and endless different images of bacon. Ren finished with the first carriage, the last one to be modified, and he told the driver about the modifications he had done like he had told the rest. The driver thanked him for the directions and the warnings, then Ren poked his head into the carriage.
+
+“Miss Tibaido requests your presence for a while, Jirqym.” Ren said, and Jirqym looked at him with wide eyes. “The caravan is leaving, so we need to get back to her carriage.”
+
+“W-we?”
+
+“I'm coming with you.” Ren said, and the woman in the carriage caught her breath. “We could be seeing a lot more of each other, ma'am.”
+
+“You know, you don't have to throw yourself at every woman in the caravan.” The other man in the carriage said.
+
+“Just for that comment, I think I will.” Ren said, and he felt the man's surprise. “Ma'am, when we stop to rest and feed the animals, would you kindly join me for a quick meal?”
+
+“I...” She looked at the man across from her. “I would be delighted.”
+
+“As would I.” Ren said and stepped back to open the carriage door. “I always enjoy meeting new people.”
+
+Jirqym stepped out and Ren closed the door. The woman's hand reached out to him, and Ren smiled as he took it and turned it over, then licked her wrist. The woman shivered as pleasure filled her.
+
+“You know he's doing it to spite me.” The man said.
+
+“Oh, yes.” The woman said as she looked at Ren and her eyes smouldered. “I know why he's doing it and I have no problem with that.”
+
+Ren pushed desire into her to make her gasp and what he did next surprised her. Because the tunics the Pervarians wore had no sleeves and left their arms bare for fighting, he easily licked her arm from her wrist right up to her elbow.
+
+“OH!” The woman gasped and trembled at the sensations as she finished a little, and Ren eased the desire down and filled her with calmness. “Oh... oh, god.” She panted for several moments, then leaned forward. “You can play.”
+
+Ren stepped up into the air to put his face right in front of hers and they stared at each other. He let her arm go and she carefully pulled it back into the carriage as they held each other's gaze.
+
+“Ren, they're waiting.” Artemis said, and he sighed.
+
+“Maybe we can continue this at dinner.” Ren said and moved his face away without blinking, and that turned her on even more.
+
+“I would like that.” She said and leaned her head out the window to follow his movements.
+
+Ren gave her a little wave and walked backwards through the air towards Tatya's carriage and kept staring at her, and he felt her desire spike that he thought she was too dangerous to avert his gaze from. Artemis opened the door of the carriage when he was close enough and he stepped inside, then she and Jirqym climbed inside as well and closed the door.
+
+*
+
+“Oh, my god.” The woman whispered when Ren's eyes could no longer be seen and she leaned back into the carriage.
+
+“He's just going to use you and toss you aside.” The man across from her said, and she felt how disgruntled he was.
+
+“It's your fault for provoking him.” The woman said, and she tucked her hands into her tunic and touched her now very sensitive breasts through her thin armor bodysuit.
+
+“You've never reacted that strongly before.” He said.
+
+“Did you feel his emotions?” The woman asked and rubbed herself. “They run deeper than any I've ever felt before. Even yours.”
+
+The man didn't say anything, and she chuckled. She took her hands out of her tunic and folded them on her lap.
+
+“If he does go through with it and pleasures me, perhaps even beyond all of my unreasonable expectations...” She untied her tunic to show him how excited she was. “...would you still want me as much as you do?”
+
+He didn't say anything in response; but, she could feel his emotions just as much as he could feel hers.
+
+“You shouldn't have spurned my advances or denied me my rightful place.” She said and played with her breasts to tease him. “You ostracized me from your family and from some of my friends, because of how you described my wanton and wicked ways.”
+
+The man sighed and looked at her, because he couldn't help himself. “Yes, I'll still desire you.” He admitted. “We still can't be together.”
+
+“Thanks to you and your completely unfair bias towards me.”
+
+“It's not unfair... or unwarranted.” The man said and became excited watching her. “We aren't even...”
+
+“No one cared about that when we were together, not even your family.” She said and tied up her tunic, because her goal of giving him an erection was complete. “You brought this situation on yourself and you even took another for your wife.”
+
+The man sighed. “Yes, so why don't you berate me some more over that.”
+
+“I don't have to.” She countered. “You do that to yourself every time you go to bed with her and not with me.”
+
+The man closed his mouth and kept his response to himself, because she was right and they both knew it.

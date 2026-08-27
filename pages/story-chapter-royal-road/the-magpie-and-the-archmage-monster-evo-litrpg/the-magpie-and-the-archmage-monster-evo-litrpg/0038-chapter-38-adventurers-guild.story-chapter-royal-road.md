@@ -1,0 +1,179 @@
+---
+id: 78479fcf-786a-5e50-a0d3-6dd972739f12
+page-type-slug: story-chapter-royal-road
+title: "Chapter 38 – Adventurer's Guild"
+slug: 0038-chapter-38-adventurers-guild
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 38
+ownLength: 2056
+unit: words
+publishedAt: 2025-10-22
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2695392/chapter-38-adventurers-guild"
+royalRoadId: "2695392"
+---
+
+Kalen hurried inside the Guild after Serena, and so did Kiva, closing the door behind her. The two humans appeared none the wiser to the disturbance ongoing outside, while the weasel girl definitely noticed, her ears lowering to her head for a moment. Nonetheless, she didn't bring any attention to it, instead appearing oblivious and standing next to Serena and Kalen like nothing had happened.
+
+The entrance hall was huge and bustling with life. Tables were set up in one corner where groups of adventurers were talking and sipping on beer brought to them by barmaids. On the other side, there was a huge bulletin board with papers plastered all over it. It was equally busy with people scanning through the papers and occasionally taking one.
+
+At the center of it all was a large counter behind which sat three people, managing the adventurers. It appeared that each receptionist was responsible for something else. The one with by far the longest line of people standing in it was for Quest Assignment. The smaller line was for Reward Claim, and finally, the empty line was for Guild Registration.
+
+"It appears the line is free," Kiva said cheerfully.
+
+Serena nodded, and the trio went up to the free receptionist. A woman with black hair tied into a professional bun sat behind it and smiled at them as they approached. Her demeanor didn't indicate any distaste for them; however, Liora did notice that her eyes lingered on Kiva longer than on others.
+
+Looking around, the other adventurers were also glancing in Kiva's direction. Nobody was openly staring at her, but she was definitely regarded as an oddity. Looking through the adventurers, Liora saw that they were all human.
+
+Are beastkin rare?
+
+Technically, no. They're not as common as humans, but there are plenty of them around. The problem is that they rarely mingle with humans, instead remaining within their tribes and villages. So seeing them in a city like this is rare.
+
+They're not going to get aggressive, are they?
+
+Not in Cyene. Guards here quickly subdue any fights, and any troublemakers get severely punished. But your weasel friend might not be so safe in other cities.
+
+This left an unpleasant knot in Liora's stomach. If humans were this critical of beastmen, then what would they think of an intelligent, evolving monster bird? Probably nothing nice.
+
+"Hello! Welcome to Cyene's branch of the Adventurers Guild. My name is Noira. How may I help you?"
+
+"We would all like to register with the Guild. Is that possible, Miss Noira?" Serena asked.
+
+"Just Noira is fine. And, of course. Anyone can acquire temporary registration," Noira said with a smile and pulled out three sheets. "Is the magpie on your shoulder a magical familiar? Will you be registering it as well?"
+
+"I'm not sure. We found her by accident and were hoping to locate her owner," Serena said, glancing at Liora.
+
+"From what I can see, this magpie doesn't have the Guild Ring, meaning that it was either never registered or that the ring was lost. If you wish to take it with you into the dungeon, then I suggest registering it for the time being. If it turns out that this magpie has been registered before, we can just annul it," the receptionist explained.
+
+Guild Ring?
+
+Yeah, I figured it's best that you have it. I do not doubt that with your skill set, you'd be able to sneak your way into the dungeon. But with a Guild Ring, you're announcing to everyone that you're a familiar, not a wild monster.
+
+Sweet! Isn't it great that I decided to stick with these guys?
+
+"In that case, yes, I'd like to register her too," Serena said, and Noira pulled out another form and slid over to Serena, along with three pencils.
+
+"What is temporary registration?" Kalen asked, reading the form.
+
+"Temporary registration gives you access to the Quest Board over there. To complete your registration, you need to fulfill at least one quest. After that, you'll be given a Guild Ring and will be granted access to other Guild features," Noira explained.
+
+"So we cannot stay the night in the Guild with temporary registration?" Kalen frowned.
+
+"No. I'm afraid not. We used to allow that, but many would take advantage of this, registering for the Guild and using our accommodations, only to never fulfill a single quest," the receptionist sighed in disappointment.
+
+"Aww, where are we going to sleep tonight?" Kiva asked, her ears and tail slumping down.
+
+"Could you perhaps make an exception? We promise to head into the dungeon first thing tomorrow," Kalen pleaded.
+
+"I'm sorry, but rules are rules. While I do not doubt that you will fulfill your word, if I make an exception for you, then I'd have to make an exception for others too," Noira stood firm.
+
+"What if we worked for a place to sleep?" Serena suggested. "We don't even need a room. Just being out of the streets for the night would be enough."
+
+Noira pursed her lips thoughtfully.
+
+"I will consult on this matter with my superior. In the meantime, please fill out the registration form."
+
+Noira stood and left, heading towards the second floor. Meanwhile, the trio turned their attention to their registration forms. They were rather simple—name, age, race, class, available skills and traits, reason for joining the guild. The form for a familiar was even simpler—just name, race, and abilities.
+
+Serena seemed a bit stumped about Liora's abilities and, in the end, wrote down simple air magic, simple poison magic, and aerial mobility. There was no way for her to know the full extent of Liora's skills, and she didn't really plan on revealing them all anyway.
+
+Soon enough, Noira returned and collected the registration forms. "I've spoken to my superior, and he said that you're allowed to sleep in the stables for one night if you clean them out first."
+
+"That will suffice. Thank you very much," Serena inclined her head politely.
+
+"Wonderful. I see you've completed your form. As the last step, you need to pour a bit of your mana into these cards. They will be used as your signature, so your Guild Ring would be unique to you," she said, and handed them four thick cards which appeared to be made of wood.
+
+"Four cards? Skye has to do it, too?" Serena asked.
+
+"Yes. Familiars also need to provide us with their mana signature," Noira confirmed.
+
+"Can she even do that?" Kiva asked suspiciously.
+
+"I'm sure it won't be an issue. Corvids are very intelligent," Noira said and waved one of the cards at Liora.
+
+She flew over to the counter and took the card in her beak.
+
+Don't pour too much mana, or they might find you unusual and whisk you off to some experiment. Just the bare minimum.
+
+Liora concentrated on the flow of mana within her and allowed just a few droplets of it to pour into the card. It lit up briefly and then went dim again.
+
+Noira nodded in approval. "Strange. I wasn't expecting that."
+
+What? Did I do something wrong?
+
+No. I think she was referring to the color. It was light. I suppose corvids usually have a different color? I'm not sure.
+
+"Is there a problem?" Serena asked.
+
+"No. It's nothing. Your turn now," Noira dismissed it and smiled.
+
+Serena had no issues pouring her mana into the card, making it shine with bright green light. Kiva's light was smaller and looked brown, but she got the job done quickly. Kalen, however, struggled quite a bit until he finally managed to squeeze out a tiny flash of blue light.
+
+"Wonderful! With this, your temporary registration is complete. You can now go ahead and choose your first quest!"
+
+Noira didn't even get to finish the sentence when the Guild's heavy doors were slammed open. A group of heavily armored guards stepped inside, and one of them yelled. "This evening, a special pass has been stolen from Lord Brakaar's mansion. We will be conducting a thorough search of the Guild."
+
+Oh shit…
+
+When the ironclad guards entered the Guild, Liora could feel Serena flinch. The chatter in the hall instantly died as the adventurers glared at the guards.
+
+"Lord Brakaar? Who is that?" One adventurer, a buff man with a long sword strapped to his back, asked.
+
+"Wasn't it that oddly dressed tax inspector? You know, the one who comes every quarter and whines that we haven't paid the taxes properly," another adventurer replied, distaste clear on his face.
+
+"You will show respect towards Lord Brakaar. He is an Elite, and you Commons have no right to speak a single bad word about him," the guard barked.
+
+"We should get out of here," Kiva whispered and pulled on Serena's robe.
+
+"It is late, and we have a whole stable to clean. We shall excuse ourselves," Selena said quietly to nobody in particular.
+
+There was a heated argument going on between the guards and adventurers, with lots of unknown terms being flung around like Commons, Shackled, and something about the Order of Flames. Liora didn't care enough to start deciphering it and wholeheartedly agreed with them getting out before anyone noticed her.
+
+Thankfully, nobody did. Guards and the adventurers were too entranced in their argument.
+
+"Sister, what—" He began fearfully, but Serena shook her head to silence him.
+
+"No. We don't know anything about this matter," she said firmly, although Liora could feel that she was shaken by the incident as well.
+
+"You two are too rigid. Even if they search us, we are innocent. We never stole the pass," Kiva said smugly, glancing at Liora.
+
+I told you that you're going to end up in trouble.
+
+It's okay, nobody noticed me, and I have no intention of showing myself to the guards. And these three are safe. Even if they got searched, they wouldn't find the pass.
+
+What about the guards at the gate? They could recognize them.
+
+It was dark, and they were wearing hoods. Human eyesight in the dark is so bad that they wouldn't be able to recognize them anyway.
+
+"Let's just focus on cleaning those stables. I don't want to sleep in the streets tonight," Serena said and scrunched up her nose as they walked into the building.
+
+Even with her bird nose, Liora could tell that it definitely hadn't been cleaned in ages.
+
+"Chak-chak-chak!" Liora said and flew out. "Good luck with that, friends."
+
+"Geez, it stinks so bad! When did they last clean this place? I think I'm going to barf!" Kiva instantly covered her nose and mouth.
+
+"It smells like any other stable," Kalan said nonchalantly.
+
+"Kiva has a better sense of smell than we do. I imagine this is rather unpleasant," Serena said.
+
+"Unpleasant? I want to rip my nose off. You know what, you guys can sleep here. I think I'll sleep in a tree or something. Maybe Skye can spare me a spot on a branch," the weaselgirl said, ready to rush out, but Serena grabbed her firmly by the scruff.
+
+"This is our first time in a big city. We're sticking together," she said sternly.
+
+"But how come Skye can go?" Kiva whined.
+
+"How do you expect a bird to shovel manure? Just get in here and help us. The quicker we can get this done, the sooner we can sleep," Kalen said, pushing one of the shovels into Kiva's hands.
+
+The girl looked like she was about to pass out, but reluctantly took the shovel while holding one hand over her nose.
+
+Liora, meanwhile, decided to do some reconnaissance around the city. She started with the guild, trying to figure out how the argument between guards and adventurers had gone. Peeking through the window, she saw that some sort of Guild bigshot had appeared and put the argument to an end.
+
+He had presented them with some kind of paper, after which the ironclad guards searched for some adventurers, but not all of them.
+
+Why are they searching only some of them?
+
+I suspect that the guy who appeared was the Guildmaster. He must have given them the list of adventurers who already possess a special pass, so the guards are likely searching through the rest.
+
+That means they're going to search Serena, Kalen, and Kiva, too.
+
+Most likely.

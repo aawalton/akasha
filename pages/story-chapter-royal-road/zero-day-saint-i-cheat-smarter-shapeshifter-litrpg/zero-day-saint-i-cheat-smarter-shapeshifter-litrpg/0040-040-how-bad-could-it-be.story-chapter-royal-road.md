@@ -1,0 +1,263 @@
+---
+id: 087c9a35-4b57-5073-990e-500873d6f61a
+page-type-slug: story-chapter-royal-road
+title: "040 - How Bad Could It Be?"
+slug: 0040-040-how-bad-could-it-be
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 40
+ownLength: 2381
+unit: words
+publishedAt: 2026-06-11
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3522785/040-how-bad-could-it-be"
+royalRoadId: "3522785"
+---
+
+Before I returned to the fire station I dropped by at Claire's spot across the road. She had upgraded her personnel. Along with the previous plushy, there were two mannequins. They had already begun mapping out everything she knew about the warlords on a whiteboard.
+
+Just looking at it, I learned about two more strongholds, the Bronx Zoo and Hunts Point. My tiger shape was sliding ever further away from me.
+
+Our exchange was brief. She was doing this information exchange everywhere in the city and gathering knowledge from anyone she could reach. And I added another task to her list. I had a plan that would need her assistance two-fold.
+
+I didn't even need to explain; the moment I asked, she knew why. I promised her that I'd take care of her stranded self first thing in the morning. And then I'd build her a voice.
+
+Only then did I return to the fire station. Not wanting to give Lucy even more ammunition, I shed the Gnoll Queen's skin and entered as my regular old human self.
+
+The mood was a weird one. Many of them had picked their level 10 perks by now, or were in the process of doing so. But that new Task was also on everyone's minds. Jason was nowhere to be seen.
+
+The couch was occupied, mostly by my party, so I sat on the floor next to it, using it as a backrest.
+
+"Hey, Eve," said Jamie, who was sitting right above me.
+
+"Anything good?" I asked.
+
+"Got the final piece of summonable equipment. I've got armor now. You?"
+
+"I haven't looked yet. Will do so now."
+
+With just the kill rewards from hyena and kobold I didn't quite reach level 14. I should have used the cassowary. It would be another couple of hours before dusk.
+
+"Want to head out later to find some more Created? We could do a quick hit and run against the mall, the forest, or even the police station the others found?" I asked.
+
+"I'd be up for it. It certainly looks like we need to get any advantage we can. What's bothering you?"
+
+"Why would something be bothering me?"
+
+"You seem… detached?"
+
+"I… am not sure." I leaned my head back against the couch. I activated the Oath's sharing again. Maybe Jamie would figure out what exactly was going on. He felt anxious and worried. But there was also an emotion I couldn't even name. Endearment? Some kind of positive amusement that had an undercurrent of pride.
+
+"Are you amused at my issues?" I asked.
+
+"Not at all. I'm just noticing that it is very fitting that after a full success you'd still want to improve, and that you'd be mulling what could have gone better."
+
+"How do you name that emotion?"
+
+Jamie laughed quietly. "I have no idea, Eve."
+
+"But you are right, I am bothered by how wrong things went there. I could have gotten more experience out of it, I could have done something to keep all those hyenas from dying, and… it had gotten far too close toward the end."
+
+"I'm not sure we are meant to get away with flawless executions of plans. I think struggle and near-failure will always be part of our lives. You said the Blessing is meant to challenge our will."
+
+"I suppose you are right. I will continue checking out those rewards now."
+
+"Do that. I'm here to talk if you need it."
+
+"Thanks, Jamie."
+
+I checked out the reward for that Personal Task first.
+
+[Become the new Matriarch (Personal Localized Task)
+
+Objective: Prove your superiority over the current Hyena Matriarch.
+
+Hint: Killing alone is not proof enough.
+
+Reward: Dire Hyena (Inherent Shape - 2 ATP)
+
+Crown of the Laughing Queen (Rare Item - Not bonded)]
+
+After hitting Accept, the Dire Hyena appeared in my shapeshifting UI, right under Crow. No condition, not tied to the collar, just there. Angel's shape had served me well, but even without the extra +2 from the collar that shape would outclass a Golden Retriever in every imaginable category.
+
+Well, every category besides "can make people go 'awww'."
+
+I pulled the Crown out of my inventory. It was forged from dark, stained gold. A hyena skull sat at its center, its jaw fixed open in a silent laugh. The bone was polished, yellowed with age, and two red gemstones filled its eye sockets. Dark reddish-brown fur spilled out behind it.
+
+"Oh, damn," Jamie commented from the couch. "What does that do?"
+
+I examined it. "I am not entirely sure," I said.
+
+[Crown of the Laughing Queen (Rare Item - Not bonded)
+
+Effect: Upon defeating an opposing pack leader, grants a permanent bonus to the wearer. Bonus can be rejected. Bonus lasts indefinitely and is independent of wearing the Crown.]
+
+"It wants me to defeat more 'pack leaders'. And that gives me bonuses. It refuses to tell me what those are."
+
+"Not too promising."
+
+"Want to know what's even more ominous? I can reject them. They can be so messed up that it made a point of telling me I can reject them. That's incredibly rude. They shouldn't allow me to reject them. Now my min-maxing comes with more choices."
+
+"We should totally kill the police chief," Jamie said.
+
+I had to turn around and look at him. He grinned.
+
+"We should!" I said. "But first, more Tasks."
+
+[Heal 5 Created
+
+Reward: Shepherd's Spirit (Passive)]
+
+I immediately clicked Accept.
+
+[Shepherd's Spirit - Passive
+
+Effect: Your efforts to avoid hostility from Created are more effective. Deception, appeasement, calming behavior, and non-threatening mimicry are more likely to succeed.]
+
+"Gabriel. You are absolutely, one hundred percent sure that the Created do not actually possess consciousness? Right?"
+
+"Yes, Eve. They mimic living and breathing things very well, though. But it is not real. They are just like modern artificial intelligence you already know. Imitating the real thing, but without the same processes underneath," she said.
+
+"I'll have to trust you on this."
+
+Upon accepting, no tasks appeared at the fire station.
+
+"Before we head out, let's fill up that one slot we can."
+
+"You ready to become a demon?"
+
+"How bad could it be?"
+
+Jamie got up. "Really, Eve? We are back to tempting fate? Do you remember what happened the last time?"
+
+I accepted his hand, letting him help me to my feet.
+
+"You got treated for arachnophobia and I got my coolest shape yet."
+
+"Ever the optimist. Where are we doing this?"
+
+"Outside. I'm not bringing a demon in here. Remember: they can't enter. I don't want to suddenly get expelled or burned away."
+
+"May I watch?" Ash asked from the couch.
+
+I shrugged. "Sure, we can make a spectacle out of it."
+
+On the couch, Ash had been absorbed in a book—more appropriately, a tome.
+
+"What was that book you were reading there?" I asked on the way out.
+
+"Not just reading, I can mentally take notes in there. It's a bit like your collar. I can write down cantrips in there, which allows me to practice them long term. And it synergizes with my level 10 perk as well. I can learn about magic by observing it, eventually mimicking spells or synthesizing new ones. Right now, I'm starting with trying to combine the Mana Expulsion with the Light cantrips. Should allow me to create a cheap laser spell."
+
+"See? Told you we'd get you the good stuff. Those sound like real avenues for growth."
+
+"And I got another reward for pushing that Gnoll out of the tower: my first meta-magic. For an additional mana, I can make a spell push foes harder."
+
+Jamie bumped me in the shoulder. "See? Full success."
+
+I grinned. "Y'all didn't even see my newest shape yet. I ate that Queen's heart."
+
+"I hope it comes with, what was it, 'incredible stats'?"
+
+"They are decent. But it's another shape and another 20% to my next level."
+
+"Sure."
+
+We found a spot out of the line of sight of the fire station or Claire's balcony. The garden of a single-family home, complete with a little swing.
+
+Jamie dumped the demon out of his inventory.
+
+I got to work on extracting the heart. "Feels like the wrong place for this," I said.
+
+Ash looked at my hands while I worked. "How many hearts have you extracted by now? That looks… practiced."
+
+"I've spent a solid hour or so removing hearts from gnolls and hyenas."
+
+And then I already held the heart in my hands. It was black and reeked of ichor. After pushing my limit all day, I had finally reached it. The gross task I couldn't do—at least not in this shape.
+
+I pulled the Blessed Cup out of my inventory. I still had a small stock of recovery potions, too. I could indulge a tiny bit to make this easier.
+
+I handed the cup to Jamie. "Give that to me the moment I'm shifted into the demon. I'll want to wash away the taste."
+
+Jamie took the cup dutifully. "It looks disgusting."
+
+I switched into the Dire Hyena shape.
+
+And it felt amazing. Due to the circumstances of that first shift into the crow shape, I never got to understand the difference between the Inherent shapes and the others. They felt right in a way the others never had. Was I deep down both a crow person and a hyena person? Or was it purely mechanical?
+
+"Holy shit," Ash muttered.
+
+"Yeah," Jamie agreed.
+
+I grinned at them and laughed. Neither of them gave the desired reaction. Ash took a step back. Jamie didn't visually flinch, but I felt that small ping of terror—that small memory of a time when humanity had to be really scared of the very real monsters of the world.
+
+["Guys, it's still me. I'm more in control than in most shapes."]
+
+They both relaxed. I made use of the incredible power of that jaw and bit down on the heart, ripping a chunk out of it with ease. The taste was vile—it was everything bad about their scent turned up to 11. I gulped it down and kept going at it. The shape did what I couldn't as a human. Eat this without throwing it all up.
+
+The moment I clicked accept on the pop-up message, Lucy spoke up.
+
+"You know? It's kind of funny. Hyenas and demons are really similar in a way."
+
+I couldn't stop to ask what they meant. I was in the throes of the transformation's agony. The worst one yet. By far.
+
+Previously existing biology twisted into that of the new shape. This had been an extradimensional invader that probably didn't even have DNA. I felt essential parts of my biology dissolve and reassemble to become the foundation of the new shape. In between I lost all senses, only for them to return one by one.
+
+When it was over I was curled up on the ground, panting. Demons breathed air. They had a heart—it pounded. Some similarities existed. But the differences stood out starkly. The world looked all wrong.
+
+Jamie's worry was palpable. I did what I should have done before accepting this transformation and toggled that aspect of the oath.
+
+Then I stood up and looked down at Ash and Jamie. While neither of them was particularly tall, I towered over them. And I didn't just see them. I saw into them.
+
+"What I mean is," Lucy went on, "You've never seen a female one. A warrior demon. You've seen the casters and busybodies."
+
+I closed all three sets of eyes and then opened them one by one. The first was heat-vision. It didn't look like anything in the movies at all. It didn't even have color. I lacked the vocabulary to describe it.
+
+The next one was the most similar to that of my other shapes. Proper vision with colors and stuff. By now I was used to the slight shift in perception between the shapes, how their differences in eyes made different colors pop more or less.
+
+Then I opened the last one. And that was the weirdest. I looked at Jamie, and I saw inside him. The pumping of his heart, the flexing of his lungs, all through an outline of something flowing through him. I looked around. Some things were entirely invisible to this vision. Grass and trees stood out, though.
+
+"Is this… life force?"
+
+"I don't know, but do you still want this?" Jamie asked.
+
+I looked at him. He was still holding out the cup. He had been for a while now. Between the agony and the alien body, I had entirely forgotten about the horrible aftertaste. It wasn't even this bad in this shape.
+
+I took the cup anyway and downed it, topping my ATP back up. Four attuned shapes were severely eating into my cap.
+
+I looked down at myself. Unlike the kobold, this shape didn't come with clothes. But while the sexual dimorphism was both very obvious and very similar to a human's, I was covered in chitinous plates that provided the necessary decency. They gleamed black and distinctly reminded me of the xenomorph.
+
+The digitigrade legs and the tail only added to the effect.
+
+"Are you okay?" Jamie asked.
+
+"I think I am."
+
+I looked at Ash. The life force was flowing through his body with much more intensity than through Jamie.
+
+"How do I look?" I asked.
+
+"Very different than expected," Jamie said.
+
+"Yeah." Was all Ash added. He shook his head, as if to shake off a sticky thought. "Data gathered. I'll head back and work on that new spell."
+
+I waved with a clawed hand I hadn't examined yet. "See you later, Ash."
+
+"Thanks for letting me witness. Who knows. Maybe one day I'll synthesise a shapeshift spell."
+
+"Take care, Ash," Jamie said.
+
+We waited until he was gone.
+
+"Where are we heading?" Jamie asked.
+
+"Mall? Or forest? For the police station, we should gather more intel. And I have the distinct impression I shouldn't ask anyone for anything in this shape."
+
+Jamie huffed in amusement and shook his head. "Forest, I'd say."
+
+"What is it?"
+
+"For how monstrous this shape looks? It has a pretty nice voice."
+
+"Now I'm self-conscious about my voice."
+
+"Not hot-nice, at least not for me. Just nice-nice."
+
+"Hm."

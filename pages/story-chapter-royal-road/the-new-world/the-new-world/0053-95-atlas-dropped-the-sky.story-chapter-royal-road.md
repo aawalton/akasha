@@ -1,0 +1,213 @@
+---
+id: d52b0cf2-05a4-5181-a10c-b5a14d5f8dd2
+page-type-slug: story-chapter-royal-road
+title: "95 Atlas Dropped the Sky"
+slug: 0053-95-atlas-dropped-the-sky
+partOf: the-new-world
+position: 53
+ownLength: 3800
+unit: words
+ownProgress: 3800
+publishedAt: 2018-01-11
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/186045/95-atlas-dropped-the-sky"
+royalRoadId: "186045"
+markedReadAt: "2026-06-29T21:22:38.866Z"
+---
+
+I frowned, leaning against the pillar behind me. With the hum of the core’s energy beaming, I checked out my Living Dimension armor. Well, it was considered a body by the system, but I still checked out the status. After reading through the bonuses, the last one intrigued me.
+
+[Modifications - The dimensional fabric composing this structure has been modified with code from the dimensional cipher. The bonuses are as follows.
+
++8 Strength
+
++8 Dexterity]
+
+I raised an eyebrow, thinking about the alteration. These stat bonuses were permanent, meaning I wouldn’t need Schema for enhancements. Once Yawm was gone, fighting eldritch wasn’t a thing I had to do. I might do it anyways, but pushing the limits for growth wouldn’t be necessary.
+
+I didn’t have much time before Yawm ripped out of his shackles though. I needed leveling and whatever the eldritch runes gave me and fast. With in mind, I sighed before opening my status screens and viewing my attribute points.
+
+From all the fighting, I gained 160 attribute points and cleared the dungeon of most of the monsters. Hod helped of course, likely killing quite a few abstractions. Without them enhancing the beetles, leveling slowed down by a fair margin though.
+
+Considering my levels gained so far, I wasn’t complaining. Especially after my first handout from Tera. That helped me gain a bit more strength then I imagined I would when facing a follower. These levels were the same way. I welcomed them.
+
+With a great abandon, I put all the points into Endurance once again. These eldritch runes required ridiculous amounts of mana. Endurance helped with gaining mana, so the attribute had yet another reason investing into it. The extra damage resistance didn’t hurt either. With that in mind, I hit finalize.
+
+The rush wasn’t there this time. There was a bit of a buzz, but nothing crazy. Without any significant jump in stats, I wouldn’t be feeling any serious oomph anytime soon. It would require something enormous, like an armor evolution or killing a follower. Knowing the stat bonuses wouldn’t be huge, I checked them out.
+
+Level 1550
+
+Strength – 1384 | Constitution – 1765.9 | Endurance – 4262
+
+Dexterity – 447.2 | Willpower – 2434 | Intelligence – 892.6
+
+Charisma – 121.3 | Luck – 291.8 | Perception – 204.2
+
+************************************
+
+My health and health regen increased at a steady pace, along with my other stats. The upgrades went through too, increasing my strength and dexterity by a miniscule amount. At this point, increasing my stats required grinding high level monsters for extended periods of time. Checking my status screen after fifty levels was a waste of time.
+
+Until I felt a serious boost, I would allocate my attribute points then move on. I glanced up, closing my status screens. The white energy of the core melted into the tree, dissipating like misty breath in cold weather. Hod glanced up from his status screen,
+
+“Hod ready. Hod put points into luck.”
+
+I shrugged, “Eh, what works for you works for you. I always go for endurance.”
+
+With a snippet of understanding, I pumped my excess mana into my eldritch rune. The stat bonuses weren’t much for now, but they might collect over time. Once I gained some free time, I would remake the rune to enhance my endurance. As I gained more endurance, I could gain more mana, giving me more endurance from the eldritch rune. Rinse and repeat.
+
+The attribute gain would likely slow down over time, but even a hundred extra in my attributes was welcome. It made my armor better too. Considering I couldn’t remove it, knowing it helped me more than other armors was nice. It was like a consolation prize.
+
+So after handling all the status stuff, I jumped up onto the stone stairs. Hod followed. We walked down the steps into a dungeon. Once there, we reached a stone doorway covered in magic runes. I took a step back, viewing the doorway from top to bottom. After reading the markings, I understood the message.
+
+Whenever I did, a status screen popped up in front of me,
+
+This is the rift of Ioneas. Ioneas is a high level, fast eldritch designed for agility. With nimble movements, Ioneas can pose great trouble for builds reliant on aiming. Slower builds can be dismantled as well, leaving few viable options for facing this beast. It is recommended that a group of sentients to attack the monster in unison, pinning down its movements.
+
+Advised average level: 1300-1600
+
+Recommended members: 3-5
+
+Difficulty: C+
+
+The runes gave good information, letting me know what was coming. Considering how random most eldritch encounters were, having some foresight was priceless. In this case, Hod and I would crush the dungeon boss without any real trouble. At least I assumed it.
+
+So we walked down the steps, the both of us laying low. After a while, I turned to Hod,
+
+“Alright, I’m tired of walking. Fuck this.”
+
+I jumped down, diving through the steps. Hod leapt down the hole I made. We passed through in seconds before I crashed against something. I couldn’t burrow through it, so it was kind of like diving into concrete for normal person. I opened my eyes, a dent in the armor of my head. It healed, the armor popping back into place.
+
+I lodged myself into a clear panel. I shoved myself off of it, glancing around. Beside me, my armor crushed the panel to powder, making it look like salt piled around me. I stood up, looking upwards.
+
+I left a hole above me, a spiral staircase going all the way up above the lake’s depths. The same crystal panel layered above me, forming a gargantuan aquarium. The jagged, clear panel lined the bottom of the lake, letting us see up.
+
+Fish of all kinds swam overhead, many of them glowing or letting off light. A few larger species were lit by a few passing phosphorescent ones, showing mammoth creatures. Eyes, teeth, claws, spines, and scales, the giant monsters floated by, lazy as sloths. If something swam by their mouth, they breathed it in, swallowing a second later.
+
+Above the water, the pulsing green of the world tree created beams of light. They exposed a few of the corals, anemones, seaweeds, urchins, and algae. The dense clusters of life feasted upon one another. Every fish fought amongst each other, too much life in too small a cage.
+
+I glanced down. The same crystal lined under my foot. Cracks from my landing radiated outwards in all directions. Pillars of the clear material supported the entire lake’s bottom. A bit water dripped from a few cracks above. Beneath the crystal, a white glow ebbed. Squirming moss grew underneath the crystal, lighting the cavern.
+
+The light traveled up the pillars, creating light that the plants in the lake lived off of. A drop of water plopped beside me from the cracked crystal above me. It made me nervous. Hod landed beside me. He looked around,
+
+“Hod must say...Hod impressed. Hod never seen so much water in one place. Yawm horde it.”
+
+I shook my head, “Not quite. Water’s all over the place on Earth. It’s not too hard to find in most places.”
+
+Hod turned around, “Hod think Harbinger...”
+
+Hod perked his head up, looking around like a worried chicken, “Harbinger hear that?” He breathed in, his eyes glazing over with red and shadows covering his form, “Hod hear it.”
+
+I raised an eyebrow, nothing coming up in Tactile Cognition or my gravitational sense. Out of respect for Hod’s senses, I braced myself. I channeled my mana into my runes as Hod leaned over,
+
+“It comes, Harbinger.”
+
+A portal in space-time ripped open beside me. Something impaled my chest in six different places from a blindingly bright source. The light dimmed, revealing a glowing, white set of antlers. I crashed into a crystalline pillar, the snapping cracks webbing outwards above and below me. I grabbed the antlers, the heaving of frantic breath racing into my ears.
+
+A white elk with purple lines running down its chest looked at me. Noble and magnificent, its chest was puffed outward with pride. Its eyes contrasted the white fur on its body. They stared at me, unblinking and uncaring.
+
+The pupils were like a goats, surrounded by an amber iris. Black surrounded the iris, with geometric lines of blue running through its eyes. The elk stomped its foot, digging the horns into my chest, the same blue lines running through the hooved feet.
+
+I latched my hands onto the antlers, shooting my armor out in sharpened spikes. Before the armored spines pierced it, the majestic elk flicked its muscled neck. Like a ragdoll, the horns left my chest before I crashed against the ceiling.
+
+My stomach sank as a sharp crack ebbed from above me. As I fell towards the bottom plate below, water dripped onto my back from above. The elk stared at me before stomping its hooved foot and snorted. It was taunting me.
+
+I shook my head before pushing myself off the ground. The elk charged towards me, so I readied myself for catching its antlers. Before I could, it slipped out of existence. Antlers appeared from my chest once more, this time my back impaled. The elk shook me from its grasp once more, slamming me into the crystal plate above.
+
+More water dripped from a new crack above me. I glanced up, a long split in the crystal reaching from one cracked area to another. A few more of those, and the entire lake may come crashing down. I stood up, my chest healing before looked at Hod. His head turned in all directions, glancing at some invisible foe.
+
+I narrowed my eyes, focusing on Hod’s point of view. He saw this elk before I could, making him the only reference for where it was. If I wanted to understand where it was, Hod was all I had for knowing where it was.
+
+Hod’s eyes set onto me, so I radiated out with Event Horizon. I created a dense cloud of it around me, thick as molasses. From my left side, diving upwards, the elk came. Its antlers stabbed me, the ten foot monster slamming me against the crystalline plate above. Before it flung me away, I curled tendrils of my armor around its antlers.
+
+Whenever it tried flicking me off its antlers, I didn’t flop off. Whenever the monster tried pulling its head back, it couldn’t. The elk lost firm footing, its four legs spreading in every direction. The elk scrambled for a better grip as I landed on my side. It’s hooves tapped against the ground as I condensed Event Horizon onto it.
+
+The elk bellowed out in frustration before Hod dashed beside it. Using his shadow claws, he pinned the monster into a confined area. The shadow marks kept the elk from dashing away while my armor dug under its skin and into its flesh. I clamped my own hands into the crystal beneath me, preventing the elk from running.
+
+I howled, “Don’t let it escape. I need time.”
+
+Hod nodded as the elk bellowed louder. It dashed in every direction, vying for escape. Hod would jump around it, slashing in whichever direction it tried dashing. The elk’s eyes grew bloodshot as Hod pinned it in again. Seeing no other escape, the monster reared back its head. It rammed its antlers against Hod’s lines of shadow.
+
+They clanged against one another, like slamming two lead pipes against each other. A sharp ringing deafened my hearing before the antler rammed its head into the shadow spikes once more. Hod struggled dragged backwards many feet at the point of impact. With the next headbutt, Hod smashed into a crystal pillar.
+
+With the third headbutt, black blood sprayed out of Hod’s mouth. His shadow streaks snapped, letting the elk run free. It didn’t matter. Hod gave me enough time.The elk dashed forwards before cords of my armor tensed. Like a rope around its neck, the elk’s head whipped backwards, sending the monster off its feet. Its hooves patered against the floor as I stood up.
+
+Lines of my armor dug into the plate beneath me, slowly drilling deeper. This pinned me down, letting me throw the monster off its feet. I yanked it, heaving the weight of the deer like a sack of bricks. The monster barreled through the air before slamming into a crystal pillar. After a sound like the sharp pop of breaking ice, I leaned back, tugging the creature towards me.
+
+It flung through the air as I unlatched my feet from the crystal plate beneath me. I turned on my feet, augmenting my fist with Volatile Carnage. Boundless Storm let me time my overhead strike perfectly. I dug my feet two inches into the ground with The Coming Tide, grounding my strike. With my runes overcharged, I unleashed a burst of energy whenever my fist collided against the side of the elk.
+
+My fist bounced back from recoil, like unloading a cannon. A cataclysmic boom echoed out, loud enough to burst eardrums. The elk tumbled against the translucent floor like a landslide. It crashed through a crystal pillar before lodging itself into another. I dashed towards the monster, my heels pounding against the ground.
+
+The monster shook itself from the pillar, an enormous welp forming on its side. Blood dripped from its mouth and nose as I reached closer towards it. It lifted its head, the antlers flashing. From below, the white light dimmed in an instant. It was like someone cut off the lights. The beaming brilliance of the antlers was undeniable, however.
+
+The elk whipped its head towards me, blasting a radiant plume of energy my way. I crashed into the stream of light, lifting both my arms over my face. Like a mist made of plasma and acid, the energy burned against my armor. Heat built within me, hotter than the lava of Etna’s rift. My blood didn’t boil.
+
+As the energy beam peeled the armor from my arms and face, streams of my blood poured. I looked down, seeing it plop against the crystal floor. It reflected light, like liquid silver. As my health regenerated against the onslaught, I molded Event Horizon over the elk. A wave of relief poured over me as the aura feasted on the massive health of the monster.
+
+I condensed the aura over the monster, collapsing it until it molded over the creature’s skin. I stepped towards the monster, cutting through the pulsing energy. The elk condensed its own stream of energy. The shining light pushed me back, like a stream of boiling water. Sidestepping would just send me tumbling backwards. I didn’t need to run. I needed to close the distance.
+
+I took another step, my feet shaking against the elk’s wrath. With each stomp, I came closer towards the elk. It enhanced the intensity of the energy beam, raising the damage over time. My health dropped, but with the mountain of hit points I had, I tanked it without worry.
+
+Over a minute, I stepped closer and closer towards the elk. Event Horizon melted the creature from the inside, blood pouring from the elk’s eyes. Its breaths grew ragged and its knees buckled. It shivered as if stuck in an arctic ice storm. The effects of mana exhaustion sunk their teeth in, ruining the mind of the creature.
+
+I grinned as its struggled with the beam of energy, the power waning. As the last bit of the energy trickled out. I crashed into the monster, lifting the creature from the ground. With all my might, I slammed the creature against the crystalline plate. Cracks ebbed out in all directions as the spine of the monster broke.
+
+The antlers on its head no longer glowed. It looked at me, fear creeping into its eyes. I lifted my fist into the air, a smile brandishing my armor. With my fist coming down like the blade of a guillotine, my punch sent out another ripple of cracks through the crystal. Blood exploded from the creature’s mouth, organs splashing out from rips in its skin.
+
+The head of the monster looked around, the legs squirming in odds directions. It convulsed before the antlers clapped against the crystal below me. It died, and the white glow beneath us returned. With new sight of the scenery, I stabbed my arm into the monster, sapping its strength and lifting it up. I dashed towards Hod, my feet clapping against the crystal beneath me.
+
+Hod looked up, blood trailing out of his mouth. He coughed up a the black gunk before breathing deep. He pushed himself off the crystal pillar. He raised a wing at me,
+
+“Hod fine. Health going up faster than dropping. Hod just need time.”
+
+The corpse of the elk hollowed out into a dry husk, so I tossed it aside. Hod shook off the shock of the impact before turning towards the crystalline lake’s center. Around us, streams of water flowed onto the ground, creating pools. All of the cracks from our fight with the elk streaked out around us.
+
+With each passing second, the cracks expanded in all directions. As a fracture crawled over our head, Hod pointed deeper under the lake,
+
+“Hod and Harbinger need core. Trip pointless without core.”
+
+“Fuck...Can you run?”
+
+Hod nodded before dashing towards the core. I followed behind him. As we sprinted, we kept up with the growing crack above us. Crystal pillars snapped around us, the crystal layer we were in caving. With each passing second, the sound of rushing water grew in our ears. Not looking back, I pounded my feet into crystal plate with abandon.
+
+Hod did the same. He weaved around pillars, screaming, “Hod not want to die. Hod want to live. Hod want to live!”
+
+I agreed with him. If the crystal plate collapsed above us, we would be trapped under an entire ocean of water. The plate would pin us down, drowning us. After we died, tiny crustaceans would crawl under our skin. Worms would crawl into our eyes and slugs would feast on our skin. Our flesh would soften until it was like molded cheese.
+
+I shook the haunting thoughts from my head, doubling my sprinting efforts. I would use The Coming Tide, but the impacts would no doubt speed up the breaking down of the cavern. This race required good, old fashioned running.
+
+With that single thought centering my thoughts, we reached the pulsing white radiance of the dungeon core. The energy of the core refracted off the light of a dozen pillars before reaching the staircase I drilled through. It wasn’t a wonder why I had no idea where the core was.
+
+Hod did, however. We reached beside it before I stuck my hand into the stream of energy. I grabbed the core, yanking it out with my hand going numb. We didn’t even look at the core before dashing forward.
+
+The sound of feet clapping against a glass floor filled my ears, along with the fracturing above. Waterfalls of liquid poured in from above as crystal pillars crushed under the weight. The crystal plate above us rumbled, the creatures from above looking down at the commotion. Giant creatures lit by phosphorescent eyed us with hunger.
+
+As tiny jellyfish flew by them, they lit the massive monsters. Eyes covered them, looking at us as as mouths across the creatures snapped at us. Massive tendrils, feelers, and tongues struggled towards Hod and I as we ran.
+
+Hod kept sidestepping around pillars, howling, “Hod hate pillars. Pillars get in Hod’s way. Hod want to fly, but pillars get in Hod’s way.” He sidestepped another pillar, “Hod hate pillars like Hod hate flying through thunderstorms.”
+
+A tiny grin ran up my lips at Hod’s ridiculousness. The grin faltered the pillars cracking outpaced our running speed now. The angle of our running raised, like we were running up a steep hill. That meant the edge of the lake was nearby now.
+
+It was just in time too. Like a bomb going off, the crystal shell holding the lake collapsed behind us. I turned around, and a tidal wave of murky water full of monsters flowed towards us. The panel above us fell downwards by a foot before desperation kicked in.
+
+I reached out with Event Horizon, covering the area of curious creatures above us. Mana built into my runes, over charging in seconds before I discharged my mana through my feet. I shot through the air, my speed blistering before snatched Hod. His head dragged backwards, drool leaking from his mouth like a dog with its face out the window of a moving car.
+
+Hod screamed, “Blagagagaga,” as we shot through the air. I leaned a shoulder in front of me, letting me tackle through the crystal pillars in front of us. I hit the ground again, discharging the energy once more dashing up through a waterfall. In the edge of my vision, the green glow of the world tree beamed in through a crevice. It was our way out.
+
+As my feet landed onto the crystal beneath me, the roof over us caved in. Before it pinned us down, I jolted us forward with one last burst of energy. The green light grew in my vision. As if living in slow motion, the crystal plate fell at a steady pace as the green light expanded in my sight.
+
+Right as the crystal fell on my legs, the green light shined onto my face. I threw Hod into the green light as the weight crushed my legs. Hod crashed into a the wall of dirt, embedded into the earth. With his voice muffled, Hod grumbled,
+
+“Hod...Hod tank Arbinger.”
+
+I kept my upper body up with my arms, looking at him. Hod pulled his face from the wall before spitting out a mouthful of dirt. He flopped himself off the wall before he face planted the ground. In typical Hod fashion, he hugged the dirt,
+
+“Hod never think Hod want dirt so much, but Hod grateful for dirt being here and not water.”
+
+I laid myself against the dirt beneath me. Behind me, two crystal plates pinned my feet in like toothless jaws. I laughed out loud, flopping against the soft ground beneath my face.
+
+“Jesus Christ, we made it.”
+
+Hod flipped over, staring at the world tree, “Dry Man should be here...Dry Man drink up water in lake. Hod and Harbinger not worry about drowning then."
+
+I laughed before resting against the ground. After all that, I didn't need a rest, but I wanted one. So I closed my eyes and rested for a second, enjoying the peace.
+
+It didn't last long.

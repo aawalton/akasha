@@ -1,0 +1,301 @@
+---
+id: 7413d320-12d1-5f98-89dd-440d4a694970
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10: Crystal Flea Market"
+slug: 0010-chapter-10-crystal-flea-market
+partOf: the-gift-of-loot
+position: 10
+ownLength: 2441
+unit: words
+publishedAt: 2026-04-13
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3269347/chapter-10-crystal-flea-market"
+royalRoadId: "3269347"
+---
+
+The world was on the edge of a societal apocalypse, and yet the slot machines were still doing robust business. Unbelievable.
+
+As Thomas walked through an endless maze of slots, he had to resist the urge to shake his head. It was ten o'clock on a weekday, and almost every single slot had a customer.
+
+Then again... he might be being a little harsh. What if this was their only way of coping with the stress? They weren't hurting him. He only hoped they weren't hurting themselves.
+
+He just tried not to look too closely as he took the winding pathway around the machines to the back of the building. Why was it that casinos never had a straight line anywhere?
+
+Finally reaching the back wall, he saw a large hand-painted sign on a standing board: Tahoe Crystal Flea Market.
+
+It seemed quaint, but local flea markets usually weren't in casinos... or guarded.
+
+Two tall men in dark suits stood on either side of the closed double doorway. They wore dark glasses, like they were FBI or something. This was serious security and not the usual rent-a-cops.
+
+One stopped Thomas before he reached the door.
+
+"You are here for the flea market, sir?"
+
+Isn't that obvious? Thomas carefully did not say.
+
+"Yes."
+
+The man eyed his backpack. "We'll just have to do a quick search for weapons. It's non-invasive."
+
+That last point was totally not necessary, as Thomas never expected a search by a casino guard to be invasive. Before he could say anything, the guard produced a wand like the ones Thomas had seen at concerts. He ran it over him front and back. When it didn't squeal, Thomas was allowed through the door.
+
+On the other side was a hallway, and just to the right was a casino cash-out cage. A woman sat behind the bars, looking expectant. Another handwritten sign displayed the day's date and a current price list for mana crystals.
+
+Thomas glanced it over:
+
+The blues, browns, and reds had their own lists with similar pricing.
+
+Those prices were better than he'd gotten with Zach, but on closer look, they were for casino credit only.
+
+"So if I exchange crystals for casino chips, can I just cash them out for money?" he asked.
+
+"Of course, sir." She smiled. "But there is a ten percent surcharge. Just present your ID and casino club membership, and we can get the process started."
+
+Another way to track him.
+
+"I'll think about it. Which way is the flea market?"
+
+She pointed him down the hall. "Flea market and jobs board are that way."
+
+Jobs board?
+
+He kept his opinion to himself and headed in the indicated direction.
+
+The hallway opened into a sad little conference center with old, wildly patterned carpet and maybe five booths clustered in the back corner.
+
+Not much of a flea market, but... System Announcement Day had only been a week ago. He was a little impressed that anything had been set up at all.
+
+There were perhaps twenty people milling around. Considering how hard this information had been to find, that was actually a lot.
+
+Thomas walked up to the tables. The first one he saw was a bookseller.
+
+They were cheap, homemade books, about the size of coloring books, with construction paper covers. The vendor was busy with someone else, so Thomas took a moment to examine them more closely.
+
+They were dungeon guides, all printed out.
+
+Printed copies would be more useful than a phone that could easily break... or get sprayed with water, he remembered.
+
+He found one labeled Octopus's Garden with blue-green construction paper and flipped through it. To his surprise, this walkthrough was far more detailed than the official guide.
+
+"Hey, buddy. This isn't a library. No researching for free."
+
+Thomas looked up. The vendor had finished with his customer and was now watching him.
+
+Thomas set the guide down. "Just comparing notes. Do you have one on the chicken dungeon?"
+
+"The level one by the Desolate Wilderness trailhead?" the man asked, already pointing to a gray construction paper booklet.
+
+Thomas flipped through it. Again, the steps on the printed pages were more detailed and seemingly accurate from his memory.
+
+Cheesy construction paper or not, this guy knew his stuff.
+
+Thomas closed the guide and looked up. The vendor was smiling like he knew exactly what Thomas was thinking.
+
+"I'm Ralph," the man said. "I buy and sell information about dungeons, mostly. I take it you're a diver?"
+
+"I've been through a couple of dungeons," Thomas said, mostly. Exactly two, as a matter of fact.
+
+"Well, if you can add anything interesting that my guides don't already have, I can make it worth your while."
+
+The hair rose on the back of his neck. Something about Ralph's gaze was too intense. His eyes were a generic green-blue, but they glinted in a way that reminded Thomas of mana crystals. Something... System-like.
+
+And the now ever-present point in his stomach that he'd become aware of after absorbing the second healing crystal felt... off.
+
+Thomas didn't let himself react.
+
+"How do you vet the information?" he asked instead. "Anyone can sell you bullshit, then if you print it..." He trailed off meaningfully.
+
+Ralph smiled. "I have my ways."
+
+"You mean you have a gift?" Thomas blurted, then immediately realized how rude that was.
+
+Luckily, Ralph only smiled. "Smart. I take it you have something intuitive too?"
+
+"No. Just a lucky guess. Look, do you just have dungeon stuff? Because I was looking through the official guides, and there's not much on how to reach level two."
+
+Ralph's demeanor shifted subtly, becoming more serious.
+
+"There's no guide on that yet, but I do have certain information."
+
+He let that hang.
+
+With an internal sigh, Thomas took the bait. "What kind of information?"
+
+"The kind I haven't vetted personally," Ralph said, tilting his head. "But the official guides weren't always so restricted for the first few hours after the Announcement. I had someone pass along info they grabbed off the government sites at the bleeding edge—before it got locked down. But because he doesn't know if it's real, I don't know if it's real."
+
+That was... an interesting gift.
+
+"I'd be interested to see what you have," Thomas said.
+
+Ralph reached under the table and pulled out a tri-fold pamphlet. Unlike the others, it was laminated, again with that homemade vibe.
+
+"It's not much, and it will cost you," Ralph warned. "Not many people have this information yet. I'm selling these for two B-grade crystals, any color."
+
+That was expensive.
+
+"Will you take the cash equivalent?" Thomas asked, remembering the casino prices. That would be about a hundred dollars for a single page.
+
+"No," Ralph said. "If you're here, you're on the top of the curve, which means you know cash will be useless soon."
+
+Thomas was afraid of that.
+
+"How many C grades to a B grade?"
+
+"Ten."
+
+That didn't line up with the casino rates at all.
+
+Thomas set his jaw and haggled, eventually getting Ralph down to five C-grade crystals and one B-grade. He parted with some of his blues—including his special B-grade—and still felt a bit ripped off as he took the pamphlet.
+
+At least it had writing on both sides.
+
+Hopefully, it was worth it.
+
+He was just considering if he should find somewhere to sit and read or save it for later when he glanced at the other tables.
+
+The next table over had skill shards for sale.
+
+His mood immediately lifted.
+
+There were at least five of them encased in plastic anti-shoplift boxes, and they were ruinously expensive. The vendor was taking only cash and wanted several thousand per shard.
+
+They looked exactly like the one he had picked up in the octopus's garden, but these had labels:
+
+Cash only. No checks or credit cards.
+
+Thomas was mildly tempted by Furtive Strike and Evade, but he couldn't afford those prices right now. Oh well, there was always later.
+
+The vendor, a woman, gave him a curious glance. "Are you looking to buy for somebody else?"
+
+"No. For myself. For the future."
+
+"Yeah, well, you already have one, right?"
+
+Thomas froze. "How do you know?"
+
+"I saw you bartering with Ralph. Read the pamphlet. Then come back and ask questions—it'll save us both time."
+
+The words were dismissive, but her tone was friendly.
+
+"That might not be a bad idea," Thomas said.
+
+He glanced around, looking for privacy. He didn't want to go back past the security guards.
+
+Then he spotted a bathroom.
+
+It was small and old, with one locking stall. He went in, ignored the filthy toilet, and pulled out the pamphlet.
+
+The information was a bit scattered, but it was useful. He hadn't been ripped off.
+
+As it turned out, Thomas was already on track to level two. He had done it accidentally by cultivating a mana crystal inside him.
+
+That was how people built their foundation—through mana drops, and then absorbing the mana into themselves. Eventually, the body started generating mana by cultivating what it absorbed.
+
+The early levels determined what kind of foundation and skills would develop.
+
+Rumor had it there were higher-tier mana types after level three dungeons, but for now, it was just air, water, earth, and fire.
+
+And there was only one skill allowed per level, until level five, when people chose a class and gained access to more.
+
+As someone who had just discovered his gift, Thomas was level one.
+
+Luckily, he was already happy with his skill.
+
+He could reach level two just by cultivating the mana crystals he already had. In fact, he could probably get through most of level two with his current supply.
+
+But he was building his foundation.
+
+Did he want it to be a mismatch of elements?
+
+No.
+
+Out of air, water, earth, and fire, fire was the most interesting, he supposed, but only barely.
+
+Thomas felt a sudden flash of inspiration.
+
+He would never admit it out loud, but deep down, he wanted something special. He wanted to be cool—exquisite, rare.
+
+Thomas cringed at himself, then jumped as someone knocked on the door.
+
+"Hey, man! Is this stall open?" There was a desperate edge to the man's voice.
+
+"Yeah, give me a second."
+
+Thomas quickly put the pamphlet away, flushed the toilet for appearances, and stepped out. The man practically sprinted past him.
+
+Once out of the bathroom, Thomas paused, remembering the feeling he had gotten when he touched the healing crystal.
+
+Can I cultivate with those instead of the elements?
+
+Deep in thought, he wandered over to the jobs board.
+
+There was a request for information from the bookseller, a couple of odd jobs, a lost dog flyer for some reason, and a few sad posts asking for anyone who could break into dungeon instances to search for missing friends or family.
+
+And then...
+
+Now that was interesting.
+
+A request for mantis eyes from the Mantis Cave dungeon.
+
+The reward: three healing crystals, all level one, B-grade.
+
+This is too good to be true, Thomas thought.
+
+But he took the posting anyway and headed toward the alchemist's booth that had listed it.
+
+The man at that booth had literal Doc Brown energy, including flyaway hair that was at least dark instead of pure white.
+
+Thomas decided to get to the point. He held up the page and repeated his earlier thoughts.
+
+"This is too good to be true."
+
+The man blinked at him. "Am I paying too much? You could always do the job for less."
+
+"I mean," Thomas said, "what's wrong with the dungeon?"
+
+"Oh, it's a mid-level dungeon, but it is in a cave and very unstable. Many people have fears of being buried alive. You know how it is..." He picked at his lower lip. "The rewards are quite good, though, which is why there is a guide on it."
+
+Well, he said the right words: reward and guide.
+
+"Alright," Thomas said slowly, "let me see the mana crystals you're offering." He wanted to check to make sure they were B-grade.
+
+The alchemist shook his head. "I no longer have them; this transaction is facilitated through the System."
+
+"What? I thought that only the government could—"
+
+"Pah." The man waved his hand. "No. This is an official job offer through the System. The state and feds don't have a monopoly on that. Apparently, there are even auctions popping up, though I don't think there's anything local yet. But I wouldn't be surprised if we see one here eventually, too."
+
+"Okay..."
+
+The man leaned forward as if imparting a secret. "But it's guaranteed, don't you see? You agree to the job and complete it within forty-eight hours—" he tapped the bottom of the page, which showed the time frame "—and you are guaranteed the posted pay. I already gave the three crystals as collateral. Simply put your thumbprint on the bottom, inject your mana, and the System considers it done."
+
+"Inject my—"
+
+"Concentrate on your mana core. You do have a mana core, don't you? You've cultivated some mana crystals, right?"
+
+It occurred to Thomas that he might have done better asking this guy for information rather than buying that pamphlet.
+
+"What type of mana are you cultivating?" he asked.
+
+"Earth, of course." He straightened and smiled as if he were proud of himself. "Earth-type dungeons provide the best ingredients for basic alchemical potions. So, are you interested?"
+
+Good drops, and an even better reward that happened to be exactly what he wanted to cultivate? Yes, he was very interested.
+
+Thomas nodded and saw there was a small swirl indication in the corner of the paper. On impulse, he put his thumb there and concentrated on his middle.
+
+A line of warmth flashed from his midsection all the way up through his body, down his arm, and into his thumb.
+
+He felt a tiny bit of mana inject itself.
+
+Very weird sensation.
+
+He lifted his thumb, and there was his thumbprint—whorls and all—painted in the fleshy rose color of healing mana crystals.
+
+"Oh, a healing cultivator," the alchemist crowed, way too loudly in Thomas's opinion. "I see why you're interested."
+
+The man chuckled and placed his own thumb beside Thomas's. When he lifted it, his was mud brown.
+
+Suddenly, a timer appeared on the page: 47 hours, 59 minutes, 59 seconds.
+
+"There you go, young man," the alchemist said, even though he and Thomas were about the same age. "Come back in forty-eight hours, and I'll give you your reward."
+
+On the way out, Thomas stopped by the guide booth again and bought one for the Mantis Cave Dungeon.

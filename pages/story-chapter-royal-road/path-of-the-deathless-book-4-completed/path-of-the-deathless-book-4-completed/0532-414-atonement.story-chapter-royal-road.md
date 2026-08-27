@@ -1,0 +1,263 @@
+---
+id: 408e5003-879c-5acb-8d5b-3920969cb433
+page-type-slug: story-chapter-royal-road
+title: "414 “Atonement”"
+slug: 0532-414-atonement
+partOf: path-of-the-deathless-book-4-completed
+position: 532
+ownLength: 5518
+unit: words
+publishedAt: 2026-07-24
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3720962/414-atonement"
+royalRoadId: "3720962"
+---
+
+I don’t give a fuck.
+
+I don’t fucking care.
+
+I don’t give a me-damn cocksucking ass-licking shit about whatever moon-prophecy slugshit you keep warbling on about.
+
+There are only two things I want to hear right now.
+
+One: “Yes, Lord Scorn, we have a way to keep the Tarrasque contained and focused while we’re moving it into your dimension.”
+
+Two: “Yeah, the Tarrasque will absolutely fuck Adam Arrow’s ass so hard with its mountain-sized cock he dies in this life, the next one, and sprays a chain of fucking… fucking… uhh… Tarrasque babies of suffering or…”
+
+Just tell me how you’re going to keep that motherfucking monster under control, and how you’re planning to give me a way back into Theborn.
+
+Everything other than that? I don’t fucking care.
+
+Just get me to the point where we fuck Adam Arrow to death.
+
+—System Notification sent by Lord Scorn to the Jotun delegation
+
+414
+
+“Atonement”
+
+A psionic klaxon sounded through the capital as the Auroral Council looked down upon Shiv. A series of charges were declared. He was being branded a heretic, a betrayer of Yellowstone, and a territorial separatist.
+
+Orichalcum chains bound him to a stone platform, and rows of concentric spells kept him caged within a pillar of mixed magical lores.
+
+Veronica stared down upon him, playing the role of stern and wrathful judge. The backrest of her chair jutted up in the shape of a rising sword, and that was her symbol at present. The executioner, the one that would exact retribution for the foul acts Shiv had inflicted upon the Ascendancy. Another nine Council members blared down at Shiv, each one pretending in their own way as well. All of them committed to the role that they were meant to play, but he could see their hearts and realized more than a few felt thankful for what he did, though they still had to fake their righteous rage.
+
+In fact, there were two among the ensemble that were downright sympathetic towards Shiv's plight. The Deathless noted the councilmen representing Enoch the Builder and Harlem the Truthful. When Longinus' name was invoked, their hearts flared with pitch-black fire, and the anguish which accompanied their fury was deepened as well.
+
+That betrayed them to Shiv. He knew they'd suffered personally and deeply at the hands of the Wanderer. Though they didn't have the courage nor the inclination to see him freed from this session of judgment, Shiv suspected that he could squeeze more than a little bit of political goodwill from them down the line if the opportunity presented itself.
+
+As the trial went on, a ray of light splashed down upon him, and Shiv looked up to see a crystalline gem projecting bursts of illumination up into the sky. He could feel subtle emanations of Pyromancy and Divination emitted from the construct, and he suspected the proceedings of this trial were broadcast live in sculpted projections of fire over the Capitol.
+
+He recalled what Veronica told him just before the trial began: “Connected to the first rule of politics, you have to satisfy the people emotionally if you want to condition them toward a more sensible set of behaviors in turn. Never forget this: Emotions are currency, and the more you can ease or relieve someone's misery, the fonder they will feel toward you. When you have accrued enough of that fondness, they will look away from the worst of your deeds, and they will betray their own interests to heed your words, for populism is a most reliable disease.”
+
+And so, as the trial went on and Shiv was called to account for what he did to Longinus, he realized a subtler, more insidious layer to Veronica's calculations.
+
+This trial wasn't just a farce; it was meant to give the people catharsis, especially the committed followers of Longinus, but also to assuage their worries, for he was being characterized as the sole reason why Longinus was currently suffering a “crisis of faith” and a “malignant evolution.” Shiv's reputation was being spent toward the destination of infamy, and as his name grew fouler, Veronica then grew greater and nobler for delivering this moment of justice in the eyes of the people.
+
+And as the proceedings got to a point, she rose from her sword-shaped chair as if she was the blade being unsheathed and prepared to cast forth her judgment.
+
+“Dearest citizens, nobles, and civilians, hear me now as I issue my first decree. The question of the Deathless' sin is beyond doubt. He has defaced and defiled our great faith, and even a thousand lifetimes of labor and service will not wipe this blemish clean. The question is not if he deserves the punishment to come, but what punishment is righteous for a beast daring to wear the flesh of a man. A beast that is beyond the reach of death's deliverance.”
+
+Shiv almost grinned at her—almost—but he kept to his discipline and played the part of unruly savage, snarling and pulling at his chains, for that was his part in this theater. Veronica needed to seem strong and would ensure she got her measure of strength, one way or another. Letting her perform this faux act of retribution cost nothing but Shiv’s annoyance compared to actually risking a siege on Gate Piety.
+
+“But though he is beyond death, he is not beyond the wrath of the Auroral Council and the Ascendancy we represent. I call this trial to a momentary adjournment so that we might each discuss in private the best means of making right this deepest wrong. Take heed, citizens, and take heart as well. Even the undying can be struck down. Even the undying can be taught the error of their ways. On this day, we will discover how, as a civilization, as a faith, as a people. Right now, I beg of you: pray and keep the Wanderer close to your hearts, and banish the darkness of fear and grief. The fire ascends; the light prevails.”
+
+Shiv had to admit Veronica was pretty good at talking. Her words hammered his heart and wrenched at his mind. If he didn't have the Harbinger to blunt the effects of her rhetoric, he might have been drooling with patriotic fervor too—even if this might end with his torturous execution.
+
+As the rest of the Council rose from their respective seats, Shiv noticed Anthony’s lingering gaze. Their eyes met, and Shiv saw the Councilman's emotions ignite with apprehension and—was that fear and dismay?
+
+Shiv fixed him with the faintest grin and fanned whatever flames of discord existed between him and the Councilman. Oh, you didn't consult him on this, did you, Veronica? Yeah, I can see it in his eyes. I can read it on his face. He doesn't want me here. He's worried about what you're trying to do with me. The question is, is he worried that you're trying to sculpt me into something of your own design, or is it because he doubts that you can?
+
+That question went unanswered as each of the Ascendants walked away to begin their recess, but the decision was already made. He knew what Veronica intended to do. He was to be bound to the Ascendancy like some kind of tamed attack dog. Veronica had explained the idea to him beforehand. It allowed him to operate in the capital to some capacity and also fed a propaganda victory to the people, showing that the Legendary Deathless could be brought down and then contained. Wielded to serve the Republic—transformed from the terrifying nuisance he was before.
+
+That functionally served three ends: having Shiv operate alongside the Prismatic Guard in a more official capacity, resolving the Longinus crisis to some extent, and allowing Veronica to stay in proximity to Shiv to further influence him over time.
+
+Keep your enemies closer than your friends and all that, Shiv guessed. But that cuts both ways, Veronica, and you best be careful that I don't collapse your house of cards around you. You're not the only one who can break people around here. Not nearly anymore.
+
+But for now, the theater was done—and the verdict had been agreed upon beforehand. As he had caused so much damage to the Republic, there came the obvious conclusion that he would be able to inflict the same upon their enemies. And so, he was to be classified as a weapon under the Inquisition—with him placed under the special custody of one of Yellowstone’s greatest heroines: Legend Jessica Hawgrave.
+
+And as for his first mission of atonement?
+
+Well. There was a Tarrasque up north about to cross dimensions, and there was an invasion to halt. Now things had an official reason to justify the actual circumstances of what needed to follow.
+
+Politics was funny and beautiful sometimes.
+
+And despite all the ugly rat-nest of battling interests and subterfuge, Shiv kind of enjoyed the chaos and carnage. Figuring out how people thought, what they wanted, and how to use them against each other conferred a special kind of pleasure beyond just beating someone into submission.
+
+Yeah, he thought to himself. I think I'm gonna enjoy what comes of this. And I think I have an idea about how to spin my own atonement too and start playing political tug-of-war with Veronica.
+
+After all, another part of his sentencing was to see “Longinus” returned to his rightful spot in the pantheon, and Shiv was to ensure no further harm came to the Wanderer considering everything he had already done.
+
+But the Wanderer was no more; only the Dreamtaker endured in his stead. Veronica didn’t fully understand how that worked—mainly because Jessica didn’t either.
+
+So, visions were conjured by Shiv’s imagination. Visions of the Dreamtaker absolving and proclaiming Shiv high faithful in forgiveness, and him playing along, kneeling before her and pitifully moaning in thanks and fealty.
+
+It took everything he had not to crack with laughter. Oh, this is gonna be fucking hilarious. The people are going to eat this shit up, and Veronica… I can’t wait to see the look on your face when I finally show you what happened to the Wanderer.
+
+***
+
+“Hey, you sure you're alright, kid?” Jessica looked Shiv up and down, trying not to wince at the many cracks lining his body. She gazed upon his Severed Shadow; he bled not blood but raw vitality into the air, and it fizzled high, painting the atmosphere with a dull red glow. But his wounds were already closing. His Harbinger was coming back together. Veronica had halted the Songbringer before she pushed his skill to the point of fatal damage.
+
+And in doing that, she'd shown her hand. She revealed an emotion and a weakness in the form of her patron god and the intent to take Shiv not as a mindless, expendable dog, but as someone to sculpt in her image or to convert to her side.
+
+Quite happy with this outcome, Shiv shrugged. “It's just another day, Jessica. Just another near-fatal beating for me. Don't worry about it—me and Veronica had our talk. Bitch has a heart of adamantine and so many faces she might not even be on her own side at times, but she’s hard as stone, and I'm pretty sure she doesn't want to finish me off just yet. Funny thing is, the Songbringer might be the most brittle part of Veronica.”
+
+The Giantsbane shook her head with disgust. “Stop.”
+
+As the two of them spoke, a branch of concentrated Psychomancy punched down through the ceiling and sank into Adam. The Paragon was spasming and shaking. A veil of the faintest blue coated his body while Uva joined in with her own magics. Valor was deep inside Adam's soul, delving and trying to help him clear those encounters. A ripple of energy swept through the room, and the branches of psionic lightning descending from the dreaming storm grew thick. The branches fused together, becoming more like a trunk, and that trunk extended upwards, expanding out, forking along separate paths as if a tree growing in real time.
+
+Instead of spreading any leaves, the psionic foliage that formed pulled together, becoming a dome overhead—portraying fractured instances of memory and sensation on its surface. Shiv could see pieces of emotionality floating among a sea of translucence. It was hard to describe what he was looking at—like separate pieces of Adam's mind and soul were floating about, drifting through that chaotic cosmology.
+
+The longer Shiv stared, the stronger his certainty grew: pieces of Adam's mind and empathetic core were intermixed now, embedded in each other like shrapnel, and so his shattered consciousness was ruined in more ways than one. Bits and fragments of happy memories were now associated with pain, nothing but untrammeled, unimaginable pain. Every shard of emotion was stained black with misery, and the shade hurt Shiv to look upon.
+
+If Adam's heart was a thing of flesh, then the pus that leaped from it was the foulest the Harbinger had ever tasted. “Someday, we will break the Challenger. Someday we will rend that monster, limb from limb, sinew from sinew, until there is nothing left of him. Until we draw a final, true lament from his lips.”
+
+His overflowing rage compromised even the Harbinger's enduring rationality—and both skill and wielder knew their promise to be hollow. The Challenger was not the kind to succumb. He was the idea of war, and the only thing that ever shook him, or at least a small aspect of him, in the Red Rider's Hand, was the billowing fog of absolute peace that resided within Adam, something that was thankfully absent at present.
+
+Even so, the Red Rider's Hand took on a will of its own. It refused to follow Shiv anywhere near the Starhawk's perch, and it remained outside, a hundred meters away from the castle, vibrating with a tension more befitting of a terrified rat than a metaphysical instrument of war.
+
+“That's a lot worse than I expected,” Hymn muttered. The Headmaster gazed on at the mental architecture Uva grew out from Adam. He wasn't alone. Beside him were the Educator and the Culturist, all three trading bursts of Psychomancy as they shared thoughts and suggestions as to how Adam's broken state might be mended.
+
+Judging by the dark waters of oppression and wariness flooding their cores, however, Shiv didn't see a reason to be hopeful.
+
+Roland and Rose loomed protectively over Adam, their gazes locked on his face, and their bodies growing tenser with every shiver and gasp he made. Even deep in his Delve, his choking groans were a symphony of unceasing suffering. Adam looked paler than he'd ever been, thinner, weaker, like he'd been starving for years. It was as if Adam was degenerating from his humanity to become something lesser on the evolutionary ladder, like something was eating away at his very flesh. It was. The Crown of the Anti-Savior was rooted in his mind, but considering the invasiveness of the technology, it might well atrophy the rest of his biology, if only out of spite.
+
+“Hymn,” Uva said. She tried to keep strength and optimism in her tone, but Shiv could see her heart too, and it was awash with doubt. Even after finishing her Delve and claiming the gifts it brought—the capability of growing a mental landscape from someone's mind—that didn't mean she had the expertise to treat Adam. “Hymn, I need you to advise me now. I don't know what I'm looking at. His cognitive landscape is incomprehensible. His thoughts branch in nonsensical ways. I can't tell which piece… I don't know how to put them back together. Everything is just bleeding into each other. I don't know how to put him back together.”
+
+The Headmaster kept to his silence as he continued surveying the projection Uva had made. The dome was a landscape of chaos, nothing but coiling strands of translucence that momentarily merged into concrete memories. Shiv saw instances of himself, mere mirages on the horizon. From Adam's perspective, he also saw other moments that he recognized: the battle against the Dragon-Knights; Uva's haggard expression during the battle against the Recollector. Roland briefly appeared as well, drawing a bow back and instructing a younger Adam on how to fire a proper shot, but that instant didn't last either. All sense and memory proved evanescent inside Adam's mindscape, and the only thing holding everything together was those cancerous sensations of unceasing suffering.
+
+“Hold on to his memories as long as you can,” Hymn advised, gesturing between the flashes of lived experience. “Start with one, secure it, and then try to build back from that. He might be broken, but we can still match memories together.” He ran a tongue along the insides of his cheek as his brow furrowed. “His emotions, though, might be another matter altogether.”
+
+A near snarl of frustration escaped the Educator. “This will take centuries, and I don't mean that figuratively. His sense of self is in pieces, and now we're treating him like he's a jigsaw puzzle. But how many memories constitute a man twenty years of age? How many moments has he lived? Does he himself even recall? How long will it take to construct a stable array of who he was? Then we must face a question. Even if we are to create a near-accurate portrait of his mental landscape, will he even be able to react to that? Will it help him in any way with the Crown still active?”
+
+“It will be better than this,” the Culturist intoned.
+
+“I wouldn't be so sure,” she replied, scowling up at the orc. “The Crown has devastated his memories and sense of self, but it has also broken his emotions, and it's likely constantly breaking other aspects of his neurology on a biological and perhaps even metaphysical level. We need to find the root of the problem and treat the source. That's the only reliable way to help him.”
+
+“The problem is that we can't,” the Culturist replied. “Because the source is the Challenger, and for now, no one here, not mortal nor god, has the power to compel the father of war and bloodshed to heal what he intends to break. The true cure will arrive after a month. The Crown will cease to function when the time arrives; we can focus on truly healing Adam when that time arrives. Before then, however, we need to focus on staving off further degeneration of his psyche and keeping him stable, and this is simply the best way.”
+
+“It's the rawest way.” The Educator almost scoffed—but even her sourness was doused by the task at hand. “It's difficult. The time it will take, the effort it will demand—”
+
+“I will pay them gladly,” Uva cut in. “The only currency I do not have is understanding and expertise. Someone else must place that bid in my stead.”
+
+Hymn shrugged. “As I said, start with a memory, the most concrete one you can find, and then try putting it back together. Recreate scenes and branch out from there. We have to see if he regains some measure of consciousness—or if the rest of his mind stabilizes to accommodate what you are doing.”
+
+“And if it does not?” Uva asked.
+
+“Well, then the analogy of the jigsaw puzzle is going to seem like an understatement, and you're likely going to become the foremost expert on reconstructing consciousness through brute application of effort and mana in the next few months or years.”
+
+Daunting though the challenge was, Uva's spirit burned brighter than ever. Now that she had a path to walk, she committed to it fully, and in an instant, a series of ethereal shadows manifested behind her. Her gossamer veil flickered outward, and other instances of her ego worked in tandem, each of them directing new bolts of lightning to crash down into that sea she summoned out of Adam. Currents of kaleidoscopic magic formed bridges, and then those bridges became chasms as memories were calcified. She began rebuilding snapshot instances from the past immediately, and new scenes began to play from that crevice that played moments from the past to those in the present.
+
+Shiv felt his breath catch as he recognized the scene. He was staring at himself through Adam's hazy eyes. They were chatting away about something underneath the coliseum. The words were muted and distorted. Shiv couldn't recall what was being said; however, he remembered the feeling from those moments. He remembered that brief measure of peace they shared together—a peace that Adam felt as well, though it was constantly assailed by an urge to perform acts of violence, to tear flesh, to kill something, anything, just to be granted a moment of relief.
+
+Uva called down more lightning from above as she expanded out from that single vein of memory in search of others connected to it, be it chronologically or emotionally.
+
+Shiv's left hand twitched with discomfort, and Jessica noticed his sudden spasm. He waved her off before she could ask any questions. “I just forgot which body I was in for a while. Veronica's currently got me chained and kneeling in front of the rest of the Council so that she can parade me in front of the Republic and blame me for what happened to Longinus.”
+
+“Just you?”
+
+“It’s the neatest way to resolve the whole crisis, and to be honest, pretending to be the bad guy kind of tickles me.”
+
+Jessica squinted at Shiv. “Yeah, it would, wouldn’t it?”
+
+“Speaking of, how willing are you to take a trip up north at some point?” Shiv asked.
+
+The Giantsbane pressed her lips together and pretended to deliberate—but she was an easy read even without the Harbinger. “Depends. Are we going up there for business or pleasure?”
+
+“Well, I intend to intercept, beat the shit out of, and kidnap an Undying Tarrasque as it transitions into another dimension and ruin an invasion before it begins. Is that business or pleasure in your book?”
+
+Her lips quirked upward. “Feeling both.”
+
+“Looks like we have the same book, then. Frost Giants are planning to move the big bastard in two weeks—over into Lord Scorn’s place.”
+
+Jessica frowned. “The one you hit with an Animancy bomb?”
+
+“Vulteg god—the guy who keeps threatening to do things to Adam’s ass. Come to think of it, you two might get along. Maybe you should go on a diplomatic mission to Vulketh instead.”
+
+Shiv felt a strong pulse of favor from Jessica as his Words of Adoration took hold. “Ha! Fuck you!” she barked.
+
+“Yeah, yeah, fuck me; rip up my ass, but come on—this is your bread and butter. Jotun, giant monsters, revenge—got all three going for us here. And there isn’t even any conflict of interest between me and the Republic about this; we gotta deal with the Tarrasque at some point, so what better time than soon, and who better than us? How many Legends will be able to claim that they got to put down a Tarrasque?”
+
+These Words of Truth and Adoration 91 > 93
+
+“Yeah, okay, okay, you don’t need to keep smashing me with your Social Skills—you know I’m always game for big game.” Jessica sniffled. Her head snapped up, and her eyes narrowed at Roland, unaware of present happenings. “But—”
+
+Shiv knew what she was going to ask and intercepted the question. “No. He’s gotta stay here. Roland’s a godsdamned killer among killers—don’t make that face at me; it doesn’t matter that you hate him, don’t lie to yourself. He is. And if we can’t face the truth, it’s going to make us pay at some point.”
+
+“It makes me hurt regardless, so why not tell ‘the truth’ to go fuck itself?” Jessica asked.
+
+“Because then you never learn, and you never get out of the pit,” Shiv answered, shaking his head in near disappointment—blatantly chiseling away at Jessica’s character flaws in the process. “You’re a Legend. So be a Legend. But also, think: Veronica’s willing to use me as an attack dog because I’m renewable, powerful, and expendable. You’re Republic-loyal—mostly—so if we get mixed in with the Inquisition and Prismatic Guard, no big problem there. But that won’t work with Roland; he’s just too enticing. Veronica’s still a snake—if she thinks she can take him, she will. He’s a bigger reward than the Tarrasque is. No Roland means a crippled Starhawk.”
+
+And that wasn’t the only issue. “Besides, Roland probably isn’t in the right state for this right now. Not with how Adam is. Can’t have that when you’re dancing the edge. Not when you’re not Deathless.”
+
+A hot breath slipped out of Jessica as his logic buried itself deep. “Right. Yeah. So. Who else do we got for our Tarrasque hunt?”
+
+“More capture than hunt. I meant what I said before: I’m going to beat the shit out of that thing, but no one is gonna get to kill it. Instead, I’ll be returning it to the people it was stolen from.”
+
+“Huh?”
+
+“That Farwalker I met. He’s mighty excited about reclaiming a misappropriated Endhound—especially one imbued with my Undying nature. Might buy me some more favor for Chorus too, considering I still need to present myself to them for all the Restricted Skills I’ve been developing.”
+
+“Shit, you got everything planned out, don’t you?” Jessica asked, her eyes glowing with amusement. “You know, you keep this up, and I’m going to miss the brutish idiot I got to beat the shit out of for fun.”
+
+He sneered at her barely veiled insult. “Yeah, I can still be that; but I don’t think you’re going to be able to pull the Upcreek Special on me reliably anymore. Not without a lot of magic. My physical invincibility’s got costs, but hey, I don’t think I can ever complain about how that Delve turned out. Speaking of—didn’t I break your nose once? What’s up with your Toughness? Did you not Delve that or something? Why’s it shit?”
+
+Jessica’s wide grin hid an explosive outburst of outrage. “It’s really not. I’m just not a freak made by an even bigger freak using bits from an apocalyptic monster. But hey, since we’re going to be Tarrasque hunting together, I gotta make sure you’re in tip-top shape. Can’t have you embarrassing us on the mission and all that. Believe me when I tell you this, but I’m glad you got your special, Unique, wonderful Toughness, because I’m going to enjoy it more than you will.”
+
+Inside, Shiv was overjoyed. Outside, he offered a false sigh to massage Jessica’s ego. That’s right, Giantsbane, get lured into training me more, you predictable, sword-loving degenerate.
+
+Scheming Bastard 28 > 30
+
+“Anyway, I told Veronica I want Havel Van Stormhalt with us on this, too,” Shiv added casually.
+
+At the mention of Stormhalt’s name, three sets of heads locked onto him. Isabella looked alarmed at the mention of her father. Roland’s gaze filled with a confused severity, but there was a measure of confidence he retained in Shiv as well—something the Deathless found more than flattering. Jessica, however, was the least enthused out of the three. “What? Look, Shiv, if you’re planning to ‘arrange a heroic death’ for someone, you gotta telegraph it less.”
+
+“No, not even remotely.” Shiv snorted. “I want him because I want to crack him psychologically and domesticate him before he inevitably becomes another bomb down the line.”
+
+“D-domesticate?” Isabella whispered, her face going pale.
+
+“Yeah, what she said,” Jessica replied, her emotions turning to worried suspicion. “What do you mean?”
+
+“I mean, I don’t need him doing something stupid to settle his grudge against Roland and ruining this already messy peace I got going with Veronica and the Republic,” Shiv answered. “And also, I think I can make use of him. He covered himself and his House in shame with what he planned. Him, Kathereine, and I guess Halsur dragged Veronica into the shit before she was ready—and that’s part of the reason why we’re here right now. So, he’s on the outs and got nothing to do but simmer and scheme. Veronica knows this; I know this; might as well see him controlled and contained for both Yellowstone and Gate Piety.”
+
+Shiv considered how to put his intuition into words. “I'm growing a set of instincts. It’s like I can guess at points of strife down the line—been thinking about this stuff for some time. And that has me wondering about how I can resolve them before they start hitting us. Because if I have to roll with the bullshit I don’t see coming, I’m going to diffuse what I can see before they ever get the chance to go off at all. And no, I don’t want to kill him. That’ll just make a bigger mess right now. So. Might as well make use of him.”
+
+“And you think you can do that?” Jessica asked. “Because—”
+
+“I know I can do that, because his all-consuming hate for Roland is an emotional wound large enough for me to crawl inside him and wear him like a suit. Don’t get this confused, Jessica: I tasted his misery when we first met, and you know him like I do. If my words worry you, what do you think I’ll do to him?”
+
+A harrowed understanding came over her—and to a lesser extent, Isabella. “Holy shit, kid. He's gonna spontaneously combust.”
+
+“Yeah. So. He’s going to be coming with us. Reinstated as the Endbreaker’s minion. Him, a bunch of expendable Avatars, and their Ascendants. Gonna get to know my allies and enemies on an intimate level and all that. Might not work out perfectly—might go to hells, but that’s okay. I’ll just die and try again. But if you die, I’m going to slander the fuck out of your name, so make sure it goes right.”
+
+“Wait, you’re pinning this on me?” Jessica did a double-take, her jaw shaking in disbelief.
+
+“Pinning? I asked Veronica to instate you as the head of the Tarrasque elimination team and attached me to you as part of my ‘penance’ for my heretical acts against the Republic and the Ascendancy—especially Longinus.”
+
+Jessica's lips quivered. “And you didn’t think to ask me about this beforehand?”
+
+The agitation on her face was delicious, and it only grew as Shiv played the role of innocent. “Does Veronica ask when she tells you to do something?”
+
+“You… you fucking… you motherfuck…” A wrath-fugue took hold of Jessica as her emotional core was doused in a rain of tranquility, and Shiv mockingly patted her shoulder as she tried to strangle him to death—her fingers imprinting silver scars on his neck and causing his Scarforged Shell to materialize along his throat like a magical gorget. “Motherfucking Chandlers fucking me…”
+
+Shiv let out a satisfied sigh. Getting his ass shredded all those times was worth it for inflicting such anguish in return. Violence truly was the most incompetent form of revenge; a real bastard knew how to inflict mandatory employment and unwanted responsibilities on someone they didn’t like. “So. Anyhow. You really can’t say no anyway, and if this goes wrong, it’s on you.”
+
+“I’m going to destroy you,” Jessica seethed. “The… the beatings I’m gonna give you…”
+
+“Oh, no, please have mercy,” Shiv replied without any change in tone.
+
+Comedy 33 > 34
+
+Even in the dour moments, life could still hold much joy.
+
+“Roland—I—His tooth, no, something is pushing front teeth out!” Rose’s sudden cry of alarm burst the bubble of Shiv’s momentary joy. The world jolted as Shiv leaped across time—tearing his chest open—to reach Adam faster. Twelve mana hydra heads crashed down one after another on Adam's chest as Shiv simulated his biological architecture and—
+
+“The… fuck?” Shiv breathed. He wasn’t seeing things earlier; Adam wasn’t just degenerating, he was changing—inside and out. His biology was beginning to shift faster and faster. His flesh was sinking inward, succumbing to cell death before the smallest components of his biology were rebirthed for seemingly no reason at all.
+
+The architecture that replaced the original was both familiar and ridiculous. Adam’s front teeth had fallen out—because a row of sharp fangs, and, most notably, two large tusks meant for tearing through meat had displaced them. Patches of gray were spreading across his skin, and Shiv sensed how Adam’s bones were fracturing and elongating within his flesh.
+
+“What’s happening to him?” Roland asked, his heart thundering in his chest, his breath catching fast. “Shiv! Shiv!” He reached out to shake the Deathless, but Shiv struggled to declare what was irrefutably taking place.
+
+Because it just seemed so ridiculous. “I think Adam’s… turning into an orc?”
+
+With that statement, the room went silent—a bolt of psionic lightning froze in midair. The Educator clutched her hood and pulled it over her face as she moaned with exhaustion. At the same time, Rose spun on her heel, shouldered through the other Pathbearers present, and then launched herself at the Culturist in an attempt to gouge out the Legendary orc’s eyes.

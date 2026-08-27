@@ -1,0 +1,251 @@
+---
+id: f4f91a50-5e5a-5510-9d6b-e7fa0d4a7636
+page-type-slug: story-chapter-royal-road
+title: "175 Eye of The Storm"
+slug: 0134-175-eye-of-the-storm
+partOf: the-new-world
+position: 134
+ownLength: 2378
+unit: words
+ownProgress: 2378
+publishedAt: 2019-01-10
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/322879/175-eye-of-the-storm"
+royalRoadId: "322879"
+markedReadAt: "2026-06-29T21:36:15.655Z"
+---
+
+I scrolled down on my menu, finding the reward for the legendary tree.
+
+Be the beginning and the end of your mastery. When others ask for guidance, your lineage is what they look for. They gaze at your shadow, for you are legend. Legendary(Tier 5) unlocked!
+
++100% to effect of legendary skills!
+
++1 to unlockable legendary skills!(3 total)
+
+Doubles legendary leveling speed! (Note: Does not apply to skillpoints gained from dungeon cores).
+
+Legendary skills are easier to create, requiring less synergy and proficiency!
+
+I nodded at the bonuses. The tree gave me about what I expected. The leveling speed meant I might not invest my dungeon cores into the skill anymore. If I trained Force of Nature all the time, then it would climb at a steady rate. The free skill points might be better allocated to my mythical skills instead.
+
+Before I checked out my bonuses though, I went back to the other notification. I had no idea what a sovereign skill meant. It looked like the next level of skills, one above even legendary. It kind of mismatched the naming scheme though. I expected something like fabled skill. Sovereign sounded like ruling to me.
+
+I shrugged, willing to ask the others about it when the time was right. With that handled, I opened up my skill menu. I slid through my many skills, finding Force of Nature.
+
+Force of Nature(lvl 2,676) - You are nature given fury. Enhances all techniques and application of skills within this ability, including but not limited to: Close Range Combat, Runic skills, Telekinesis, Gravitation, Sensory Abilities, Bearing, Temperature Manipulation, Runic Inscriptions, Crafting, and Draining Abilities. Numerical bonuses are as followed:
+
++520 Strength, +520 Dexterity, +260 Constitution, +260 intelligence, +104 Perception
+
++52 to all attributes for having a 2,600+ total in a legendary skill.
+
+Ability Bonus: +330% | Mana Cost Reduction: 66%
+
+I shook my head at the bonuses. The spell cost reduction alone tripled the output of my mana. The raw stats added up at this point as well. All the bonuses together increased the output of the skill by over tenfold. Considering the might of my magic already, it was something to fear.
+
+I raised a hand, forming tiny gravity wells over my fingers. I bent gravity, extending the wells in different directions. This warped their pull, creating strange angled that they siphoned at. As if a part of my own body, I generated a panel of antigravity over me.
+
+I walked over to the desk, reaching for a book. The book slid away, along with the table. As it tipped over, I lifted a finger, raising it with just enough force to flip it back upright.
+
+It was like walking or breathing, no effort required. Gravity was my elemental affinity now, something that was a part of me. As gravity bent under my will, I charged my mana. I condensed a gravity well, building its pulling power. I canceled it with an antigravity vortex. Instead of twenty minutes of charging, I'd need about two for a singularity now.
+
+It was wholly and utterly terrifying.
+
+I sighed, making sure to only use that shit when it was necessary. Otherwise, I'd suck myself into one, killing myself in the process. With that handled, I opened my tree menu.
+
+Breaker(Finish an S tier bounty, only one class can be chosen)(0/5,000) | Originator(Be the first to learn a skill)(0/1,500) | Purger(Clear a quarantine)(0/250) | Sovereign(Lead an A tier guild or higher, Clear an A tier bounty or higher, Be able to unlock three or more legendary skills)(0/10,000)
+
+I raised my eyebrows at the Sovereign tree. It was absurd, needing double what my next highest tree required. Considering the steep cost, I hesitated at choosing it. If my guess were right, it would dish out a reward every 2,500 skill points. That was a very, very long time by anyone's standards.
+
+The other tree, Originator, looked like it might help me create skills. If I unlocked that tree first, I could build several dozen new abilities. With the skill points from them, filling out the Sovereign tree seemed more feasible.
+
+With that in mind, I put my twenty-five remaining points into the Originator tree. With that handled, I lifted the four knives with gravity. I stepped out of my room. As I opened the door, Althea met me. With her hands on her hips, she glared at me,
+
+"Hey."
+
+I grinned, "Hey sweet stuff."
+
+She frowned, "You look terrible."
+
+I looked down, finding my armor crumpled still, "Oh, I do need to change."
+
+I stepped back into the room. Althea closed the door behind me a bit harder than she needed too. I set the knives onto the desk while pulling the bent and broken armor off me. As I did, Althea snapped,
+
+"I saw your fight with Delilath. Looked really hard."
+
+I sighed, "Yeah. It was." I finished tearing the trashy iron off me, "I didn't want to kill her. It was like a punch to the gut, to be honest."
+
+Althea's tone of voice softened, but it still carried a bit of heat,
+
+"Well, I saw in the news that you went with Thisbey afterward. Why didn't you come back here?"
+
+I turned to her, "I wanted some information from him. He pissed me off though."
+
+She rolled her eyes, "Well what did it take to make you mad."
+
+"Talking bad about you."
+
+Althea blinked. She looked down, "Oh...well thank you...You didn't hurt him, did you?"
+
+I scoffed, "No, but he might have shit his pants a little."
+
+She giggled, "Really? What did you do?"
+
+I walked up to her, putting a hand on her shoulder. I squeezed it, "Tell Thisbey, does that skin you wear make you feel powerful? Does it make you feel in control?"
+
+Althea grabbed at an invisible suit, mocking Thisbey's accent,
+
+"Why I do declare, if you wouldn't mind me saying, that's if it's something that might not offend you...It perhaps, maybe even might...In a manner of speaking."
+
+We busted out laughing. I laughed so hard my abs burned. I kept on chuckling till tiny tears poured out of my eyes. Althea puffed her chest out in pride, relishing my laughter. As I settled down, I wiped a tear off my face,
+
+"Have you talked with Thisbey? that was perfect."
+
+She shrugged, "A few times. He's called me, trying to get information about you. I've seen dozens of ads from him too. He always declares what he's going to say before he says it. I picked up on it. Kessiah and I have been doing that act for a while, actually."
+
+I rolled my shoulders, "Alright, alright. I gotta get back in character."
+
+She grabbed at her imaginary suit again. I put my hand over her, squeezing her chest,
+
+"Do you feel in control?"
+
+Althea's eyes widened, "You actually said that?"
+
+I grinned, raising my hands, "I know right? Pretty cool line if I don't say so myself."
+
+She waved her hands, "You're giving me goosebumps over here. Good on you for sticking it to him. He's a total jerk-ass."
+
+I nodded, "Agreed...Hey."
+
+She raised an eyebrow, "What is it?"
+
+I frowned, "You looked pissed when you walked in here. Just wondering what was that about?"
+
+She crossed her arms, "Well, remember how I told you that you didn't have to do everything on your own?"
+
+I gave her curt nod. She continued, looking off to the side, "I just...I was hoping you'd come to me after the situation with Delilath. You looked hurt. I wanted you to rely on me for once."
+
+I grinned, grabbing her and picking her up,
+
+"I haven't laughed that hard in years. You've already made me feel better without even trying."
+
+She giggled as I swung her around. I dropped her, setting her down with gravity. She raised her eyebrows, "Ooh, I'm impressed. Have you been practicing?"
+
+I shrugged, "Eh, sort of."
+
+She smirked, "I've got something to show you when we fight the Skyburners."
+
+I raised an eyebrow, "Really now?"
+
+She shrugged, "Eh, no big deal."
+
+I rolled my eyes, "Ok, I get it. I'll wait. Before we go though, I have something to show you."
+
+I walked her over to the bed. Althea's long, purple hair waved as she raised her palms, "You know I pass out after we do it. We have a mission later tonight."
+
+I scoffed, "Get your mind out of the gutter. Look."
+
+I picked up her new knives. I flipped them in my hands, holding the blades while offering the handles to her. She grabbed them, tilting the edges. A reflective sheen shined off them. Her jaw dropped as she read the bonuses,
+
+"Jesus, did you sell your soul to Baldowah? How did you make these?"
+
+I grinned, "Trade secret. What do you think?"
+
+She flipped them in her fingers before slicing through the air. A violet stream of energy trailed behind them. Althea laughed, "I can't believe how...wow these things are."
+
+I grabbed her back, "Not as 'wow' as you."
+
+She rolled her eyes, "Alright that one almost made even me gag."
+
+I let her go, raising an arm, "Wanna test them out."
+
+She pulled back from me, "On you? Of course not."
+
+I rolled my eyes, "I'll be fine. My pain tolerance is maxed, and I'll regenerate in seconds."
+
+She frowned, "Eh..."
+
+I shook my head, "It's better if you get a feel for the blades before you use them, right?"
+
+Althea narrowed her eyes, "Hmmm...I guess so."
+
+She pursed her lips, "Ok...I'll give it a shot."
+
+She lifted the dagger. Sparks of violet lightning traced off the blade as she swung it down. It pierced right through my forearm. Althea tried pulling it out, but the dagger was stuck. She shook her head, "Are you ok?"
+
+I nodded, "Tis but a flesh wound."
+
+She tried pulling it out, but my armor stopped her. She shook her head, "I can't budge it. I'd get two good stabs on you before you pulled my arms and legs off."
+
+I shrugged, "Doesn't matter. Did it feel right?"
+
+She grinned, "Well, I didn't think it would even pierce your armor period, so I'd say it was a huge success."
+
+I moved my hand with the dagger still impaling my wrist. Two of my fingers wouldn't flex into a fist, but it would get the job done. I sighed, "It will have to do."
+
+I grabbed the handle, jerking the blade out. Not one drop of blood leaked out, and no blood covered the dagger. Althea blinked,
+
+"Uh, do you even bleed anymore?"
+
+I raised my eyebrows, "Er, I don't know. Probably."
+
+Cords of my armor shot into the hole in my forearm. Muscle and sinews shot out, reconnecting the limb. As skin molded over it, Althea's jaw dropped, "The fuck was that?"
+
+I gripped the once injured hand, good as new, "Just a little health regeneration."
+
+She scoffed, "Yeah, ok."
+
+Torix shouted from below, "We need to review the plan before we leave. It's almost time to leave."
+
+I turned to her, "You good to go?"
+
+She pulled out her current daggers, dropping them on our desk. She flipped the Dimensional Slicers in her hand before sliding them into her empty sheaths, "Yup."
+
+Althea smirked at me, "You need to put on your disguise. See you downstairs?"
+
+"Definitely."
+
+She trotted outside, swinging her hips. I placed yet another gray square onto my chest, the armor grafting onto me. I rolled my shoulders as the face mask slid over me. I paced outside, jumping down to the second floor. Using gravity to stunt my fall, I landed with a bit of grace even.
+
+Torix and Tohtella stood beside the holographic projection. Tohtella gripped her clipboard to her chest while adjusting her glasses,
+
+"Is everyone ready?"
+
+I raised a hand, "Wait a minute."
+
+I pulled out Torix's knife. I flipped it in my hand again, and the skeletal lich took the handle. Torix admired the craftsmanship, turning the blade in his hands,
+
+"It's exemplary. It's as if you were working with water instead of metal."
+
+I shrugged, "Might as well have been."
+
+Torix scoffed, "Knowing how you are, you must have smashed it into shape with your face."
+
+I weighed my hands back and forth, "Didn't have to go quite that far."
+
+Tohtella leaned over, inspecting the blade. She frowned, "This is unlike any dagger I've ever seen. When and how did you make it?"
+
+I pointed upstairs, "In my room. It took like an hour."
+
+She leaned back, looking around the room, "Wait...what? You'd need a forge for this. There's no other method of molding metal."
+
+I shrugged, "There is. We should focus on the plan though, not my crafting expertise."
+
+Tohtella shook her head, "Ah yes. Of course. Excuse my surprise."
+
+She pointed at the projection, "Using the system clock in your status, we'll be attacking the camp at 2:00 A.M. in the middle of the night. Althea will strike Gaikhag Monothos, lethally wounding him preferably. At the same time, Malthazar will spawn several dozen portals to a secured location."
+
+She pointed at a dot far away from the base, "This is along the strip of destroyed silvers you left behind, Daniel. Once they're here, Malthazar and I will ensure the slave's safety while you all devastate the Skyburner's forces. Worst case scenario, we all die, and the slaves are left for dead."
+
+Torix raised a finger, "And the more likely scenario is that we save most of them, slay several Skyburners, and a few of them fly off. They warn the others, but at least we strike at them in a meaningful way."
+
+I raised a fist, "And here's what I think's going to happen. We save the slaves, destroy the Skyburners, and take a hostage. We worm the information out of him then destroy each camp one by one. They won't know what hit them."
+
+Tohtella rolled her eyes, "Ah yes, a warrior's confidence. Let's hope you're right with your prediction."
+
+Torix shrugged, "I've seen him perform far more daring deeds. Now, are we all ready?"
+
+Everyone nodded.
+
+Torix clapped his hands, his fire eyes glowing red,
+
+"Then it's time we show the Skyburners what it means to set a horizon on fire."

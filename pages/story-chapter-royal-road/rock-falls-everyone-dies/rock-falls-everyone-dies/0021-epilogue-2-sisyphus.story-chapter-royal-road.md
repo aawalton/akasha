@@ -1,0 +1,174 @@
+---
+id: 4ee6ae72-41a0-5e64-b635-dd999d0f918e
+page-type-slug: story-chapter-royal-road
+title: "Epilogue 2 – Sisyphus"
+slug: 0021-epilogue-2-sisyphus
+partOf: rock-falls-everyone-dies
+position: 21
+ownLength: 1488
+unit: words
+ownProgress: 1379
+publishedAt: 2023-01-31
+link: "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1101742/epilogue-2-sisyphus"
+royalRoadId: "1101742"
+---
+
+On a certain mountaintop, high above the clouds, a hero and a villain were having a grand battle.
+
+Or about to—it hadn’t started quite yet. First, one had to have time for monologues and such. Can’t really be a proper final battle without those.
+
+And so it was, that Jerome the level 60 [Hero] stared a villain in the eyes, and shivered.
+
+“What did you just say?” He asked, still reeling from disbelief at what he had just heard.
+
+The villain, a red-skinned demon of orange jade with a red ruby mustache laughed, glintstone eyes glittering at his panic. “Do I really need to repeat myself?” The demon gestured at himself boisterously. “I used the same teabag to make 666 cups of tea, and gained the power of [Infinite Tea], becoming the [Infini-tea Demon]!”
+
+Jerome blinked his eyes and gripped his sword harder. “You can’t be serious.”
+
+The villain looked at him coldly, all the humor gone out of him in an instant. “Oh—I am deadly serious.” He reached into his breast pouch, taking out a small bag that smelled of crystalline herbs. “Using my [Infinite Tea Technique], I will drop this bag of tea into the ocean, and convert all of the world’s water into tea!”
+
+Jerome remained calm and readied his sword. “I won’t let that happen, because I am a [Hero]! Taste this! [Overwhelming Sword Attack of a Reasonable Amount of Destruction]!”
+
+The demon sneered and launched his own torrent of mana at him. “I think not! [Abyss of Infinite Tea]!”
+
+Jerome smirked, having fooled another demon with his fake sword. It was a handy trick, because most enemies always expected a [Hero] to fight with a blade in hand, but Jerome was different.
+
+Jerome was special.
+
+He wasn’t like any of the other [Heroes]. He had come to this world without any special boons or cheat abilities and had been forced to fight his way forward with nothing but grit and his own ironclad will. And he had succeeded, becoming the greatest [Hero] in the land.
+
+Because… he actually did have a little advantage. Just a dash of cleverness and improvisation in the right skill set, and you could make all the difference in the world.
+
+See, Jerome actually remembered some things from his high school physics and chemistry classes. He sort-of knew that water was made of something like molecules, and had like… little bonds in there. Or something like that.
+
+Using that knowledge, he had naturally been able to surpass all of the expert [Gemstone Mages] of this world and created an overpowered water magic technique.
+
+A technique that he now unleashed on the unsuspecting demon.
+
+“Fool, you fell for my trap! [Water Beam That is Actually Made of Like Molecules and Stuff]!”
+
+A gigantic beam of water roared out of his hands, and struck the demon’s beam of tea, creating a thunderous clash in the center, where tea fought against water.
+
+Jets and sprays of liquid were sent all over the landscape, carving through the clouds below, and shattering the rocky mountaintop.
+
+To Jerome’s dismay, the demon just laughed at his beam. “Hah, you think this technique can defeat me? The power of the atom is finite, while the power of tea is infinite.”
+
+The beam of tea started encroaching forward, slowly but surely winning against Jerome’s beam. More sprays were sent all over the landscape, and rocks were sent flying into the air.
+
+Jerome panicked, trying to visualize the atoms and bonds and stuff in the water, because for some reason that made his magic stronger.
+
+Then—suddenly, out of nowhere—a small rock fell from the sky and hit the demon in the face.
+
+BONK
+
+Jerome blinked.
+
+The demon’s beam of tea winked out, just for a second.
+
+And Jerome’s beam of water struck the villain at his core, vaporizing him at the spot, and sending the small pebble that had given the assist careening off to the side.
+
+Jerome stared at the corpse, the only remnants of the villain being the stylish leather boots he had left behind. Even now, after spending over two years in this world, the sight of death still sent him just a bit off-balance.
+
+Contract Progressed!
+
+2/3 [Demon Lords] defeated!
+
+Level up!
+
+500 100 / 500 000 xp
+
+Discarding overflow xp
+
+You have reached level 61!
+
+Stats up!
+
+Strength (STR): 261 -> 263
+
+Dexterity (DEX): 261 -> 263
+
+Intelligence (INT): 560 -> 564
+
+HP: 100 -> 104
+
+Seeing the numbers go up instantly calmed his psyche, even if he grimaced a bit at the wasted 100 xp. That one time he had wasted a whole 2000 experience still haunted him and made him shudder at night.
+
+But then he grinned. “Thank the goddess, now the world is saved again.”
+
+And then he looked over the world, from high up on the mountaintop, truly loving it from the bottom of his heart. It was why he fought so hard to defend it.
+
+Because this world was beautiful.
+
+In the sky, he could make out the three brilliant rings that circled the planet, dancing their eternal waltz to the song. Because in this world, there was always a song. The gemstone trees sang in the wind, their bell-like leaves creating a soft melody as the gale went through them.
+
+And of course… the people. His friends and companions back at the village, saved now from the demon threat.
+
+At first, Jerome had felt wary of their strange ways. A beautiful people, like living Jade statues, even if they had their quirks. He had been rather shocked to find out that none of them had anything between their legs. And that they seemed to be permanently stuck in the stone age. But he had adjusted.
+
+Maybe with this demon defeat, he would even find the bravery to finally ask one of those jade beauties out on a date...
+
+So Jerome began walking down the mountain, humming along with the song of trees, satisfied that he had done a good job today.
+
+Overlooking the true hero.
+
+Alas, see how easily the [Hero] forgets! Forgets the true key to his victory and takes all the glory as his own!
+
+For the small were often easily forgotten. Especially those who provide a last-minute assist in the final battle! Especially those as small as a… pebble.
+
+But even if the [Hero] did, the world did not forget.
+
+The world did not watch the champion from another walk down the mountain, but rather followed the real hero, the humble stone, which was rolling down the mountainside, making good speed by now.
+
+It was a nice stone. A gneiss stone in fact. Accelerating. A level 1 [Rolling Stone].
+
+A brand-new hero, setting out on a grand quest.
+
+Yes, the old [Planet] had retired from adventure and stored their old tools in the basement.
+
+But… was there not a twinkle in their eye, as the veteran stowed their sword in a chest, letting the hilt peek outside just a bit?
+
+It knew the youngster upstairs would eventually find it, grasp at the offered chance, and set out for adventure. Because the old one no longer could do it just by itself.
+
+Perhaps the young hero thought it was master of its own fate, but who had really given that first push forward?
+
+Because… the old one really wanted to see it. What that young hero would do, and most importantly, what would happen at the end of the quest, which it had successfully transferred forward. Fulfilling all the requirements for transferring it had been difficult, but it had finally managed to replicate the conditions closely enough. And now it waited. What would the reward be? What would happen once the numbers finally reached their promised goal?
+
+It might even occasionally place itself on the scales, helping the young hero along if it ever got stuck. Not too much of course, for no one could truly control a hero’s fate, and it did not want to rouse the system's ire further.
+
+But it watched. Because watching those numbers go up, watching the rock grow bigger and more powerful, watching it grasp for that final goal as it struggled… it was just so satisfying. Addicting. It had trod the path too long, it could not stop now. It had to pursue that reward that was always staying beyond the next cliff, just out of reach.
+
+It almost made the old one wish that the search would never end, that the adventure could continue forever. An eternity grasping for the finish line, but never quite getting there.
+
+But that would be dragging things out, and every story has its end. Even if the tale also begins anew.
+
+Ashes to ashes. Dust to dust.
+
+Rock to…
+
+Pebble.
+
+Quest:
+
+Current Altitude: 9 662m
+
+[Unnamed] <Hidden name: Junior>
+
+Title(s): Enemy of Demons
+
+🗿
+
+HP: 1/1
+
+Mana: 0/0
+
+Level: 1
+
+Experience: 0/20
+
+Class: Rolling Stone
+
+Sub-class: None
+
+Race: Gneiss Stone
+
+Gold: 0

@@ -1,0 +1,147 @@
+---
+id: da32e6d2-f6a8-5aa8-95ef-6b73d98fdb35
+page-type-slug: story-chapter-royal-road
+title: "238 Brimstone and Steel"
+slug: 0197-238-brimstone-and-steel
+partOf: the-new-world
+position: 197
+ownLength: 2985
+unit: words
+ownProgress: 2985
+publishedAt: 2019-11-21
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/425977/238-brimstone-and-steel"
+royalRoadId: "425977"
+markedReadAt: "2026-06-29T21:27:42.542Z"
+---
+
+The mana bombs exploded moments before I collided with the ground. The raw quintessence manifested into the same elemental fires of before. Once fully ablaze, they spiraled into vast tornadoes of fire and ice. Hollowed eyes and rasping cries echoed from the energies as they sought out anything alive near them.
+
+In a rush, these beings of pure power rushed into the nearby spires beside them. They wrestled for control, storms forming over the city as clouds darkened and lightning struck. The wailing and combat expanded into an earth-shattering frenzy. The booming echoes tore apart, and the lake around Astelle boiled.
+
+It was pure chaos.
+
+When I landed, the Adair Family's troops scrambled to retaliate. My eyes went white, my vision ceasing as the ground trembled. My impact converted into a wave of heat that expanded outwards in an unstoppable shockwave. The kinetic force leveled buildings like an avalanche leveling trees. The deafening crash silenced the roar of battle like a thunderclap silencing a scream. Even the mushroom cloud expanding off the collision tore the sky apart in its wake.
+
+Rising from the resulting magma pit, I peered around. Finding several of the encampments ravaged, I dashed towards the pits they stored gialgathens in. We calculated correctly, and the Hybrid holds stayed along the edges of the impact radius. This collapsed most of the Hybrid's defenses yet kept the captured safe.
+
+Once upon them, I inspected the orange pits. More Hybridized than on Polydra, they carried deep implants and cyberization. Despite those signs, they could recover. The dreadnoughts would fully process them, and that couldn't be done down here.
+
+Sending a command, I signaled for our gialgathens to fly over towards us. They dashed over the chaotic battlefield in pairs of two with wire nets between them. As they landed near me, I pulled gialgathens from the pits and put them into the mesh. With four gialgathens apiece, we doubled the number of gialgathens our troops could carry.
+
+After packing dozens of the fallen, Krog landed beside me as Hybrids across the city sprinted towards us. I welled a mass of mana into my hands before melting the stone beneath their feet. With a quick turn of my arms, the magma lifted, and flash froze over them.
+
+Once encased in obsidian, I expanded the Rise of Eden across our forces. Krog took a deep breath, the wind whistling as he expanded his chest. With a blaring howl, Krog sent out a sonic shockwave across the hordes of frozen Hybrids.
+
+They shattered outwards in a broad wave like falling dominoes as Krog turned in a full circle. As Krog finished his sonic breath, he stood tall over dozens of destroyed Hybrids, nothing left but shards of shiny obsidian.
+
+"It would seem as if we've stumbled onto a potent maneuver."
+
+I lifted another few gialgathens into the last of our wired nets, "We'll use it later. Let's go."
+
+With our forces gathered, we rode over Astelle's lake, the stormy clouds cloaking us in the shade. Without the spires pinning us down, flying was an option. We abused it as the enemy rallied from our initial burst. Their dreadnoughts turned their massive cannons towards us, aiming at the center of our aerial force.
+
+Before they shot outwards, I reached out a hand and unloaded a singularity onto one of the ships. I aimed at the cannons themselves, causing a potent discharge of arcane energy as the batteries overcharged. Portions of the vessel vaporized in a clean line from the singularity's black void. Once full, the darkness imploded, the perfect sphere of black giving way to reality once more.
+
+The forcefield over the ship turned into a stormy sea, rippling with abandon. Before the other dreadnought shot us, I turned towards the barrel's line of sight. I stopped in place, anchoring myself with gravity. I lowered my hands before straining my mana and arms.
+
+As I slowly lifted my hands, an enormous panel of gravity lifted a portion of Astelle's lake. The shoreline fell a few feet as a swirling plume of water blocked an incoming bolt of arcane lightning. Ensnared into the water, the bolt fizzled into nothing as the water boiled.
+
+Wielding it, I shoved the colossal water cloud towards one of the dreadnoughts. It covered the entire ship in boiling water, covering it completely. Before letting the water go, I welled even more mana from my blood. A thermal wave coursed through the water. In a moment, the water froze into a glacier that surrounded the dreadnought.
+
+Weighed down, the dreadnought hovered down towards the lake below. With another monstrous wave of mana, I pulled it into the aquatic abyss. A tsunami rose from the water, rushing across the lake as the dreadnought fell into the depths.
+
+Once beneath the water, I extended the icy prison using the lake. The deep blue water shifted into white ice as I willed it. It looked like the tsunami caused it, my pace matching the wave. Once frozen in place, the dreadnought remained suspended in the icy prison.
+
+Only one dreadnought remained in the sky after that. I glanced below, watching Hybrids get sent tumbling within the massive wave's aftermath. Above them, the gigantic vessel fought off a few of our remaining gialgathens soldiers. They swarmed in circles around it, pelting the ship with flame.
+
+The forcefield held up before the vessel opened panels across the sides of the ship. From within, thoroughly hybridized gialgathens rode out. Some kind of humanoids rode on the backs of these metal terrors. Clad in power armor, they sent out psionic waves across the skylines. Our gialgathens fell from the sky like flies, unable to withstand the mental assault.
+
+Dashing towards the ship, I sent a message to avoid the flying Hybrids at all costs and to retreat. Like a bullet, I ripped across Astelle's skyline, the water of the lake billowing beneath me. As I reached peak velocity, I charged my mana into my blood at the same time.
+
+By the time I reached the ship, I broke the sound barrier. Crashing with a colossal thud, I snapped the forcefield apart before unloading another singularity into the ship's depths. It turned sideways on the impact, being jettisoned in different directions by contrasting forces. It stayed afloat as I ripped my way back out of the vessel.
+
+Across the skies, gialgathens fought what was once their own kin. These shattered beings showed the Adair family's intentions. Entirely hybridized, they carried the disfigurement from their abuse. Open wounds littered their frames, the tubing from their pods being ripped out without time to heal. The orange gunk within the Hybrids pumped through their veins, keeping them alive. Like pulsing flesh sacks, they sustained inhuman metabolisms.
+
+One gialgathen set the new, flying Hybrids ablaze. The Hybrid took the punishment, its metal skin scorching. The beast roared out with a metal voice, screeching like a machine. The orange fluid coagulated over the ruined metal skin. Cords rose out of its body, covering the massive wounds as it chased down the gialgathen that burned it.
+
+I propelled myself out of the shuttle, bending steel like tinfoil under my feet. With a soul-shattering impact, I collided into the Hybridized gialgathen. The power armor wearing rider whipped in the air like a leaf in the wind. While tumbling with the Hybrid, I reached out a hand towards the rider.
+
+A dozen tiny, condensed gravity wells spiraled inside its metal plating. Blood bubbled up from underneath the humanoid's facemask as the individual grinded up into pulp from within. I spread my fingers, the being's limbs ripping off and blood drenching down like rain. Turning back to the Hybrid, the metal plating and cords shifted under my hands like logs floating on a river.
+
+Its body rived as it contorted back towards me. With a chilling howl, it sent innumerable cords at my eyes, skin, and body. They crashed against me like drills of paper against stone. Snapping onto my helmet, the monster's jagged teeth snapped against my plating.
+
+I dug my hands into its body while wrapping Event Horizon over it. Screeching like rippling wire, it caved away from me. We crashed into the ground with a colossal thump. As the ground shook beneath our landing point, I wrenched its body apart. Covered in its orange blood, I glanced up. It disintegrated beneath me as I analyzed one of the flying Hybrids.
+
+Blighted One(lvl 12,712) - This twisted apparition is the soulless body of what was once a gialgathen. Having its blood replaced with a bionic solution of sorts, the proteins composing its flesh have given way to corded steel. Combined with elastic polymers, and the flexibility retained makes the beast far tougher against most damage.
+
+It lacks the reasoning and awareness to do anything outside of eat, hate, and fear. These primal emotions resemble an eldritch more than a machine, its higher-level cognitive functions reduced to nothing in the wake of hybridization. This prevents any kind of rehabilitation. In more than one way, this process is a permanent reduction in mental functions, effectively killing the individual.
+
+In many ways, it's a fate worse than death. The memories of the individual surface rarely and are scanned for information from those that control this beast. That is the sole reason for this beast's creation. Within the Adair Family's army, these creatures create an aerial backbone that is difficult to stop by conventional means.
+
+Missiles often use heat-seeking for aiming systems. These are cold-blooded, creating a need for individualized targeting systems. Worse still, melee combat is absolutely out of the option. Raw strength aside, these creatures can quickly assimilate even rugged fighters. Contact with this creature is a death sentence.
+
+The best method of handling this creature is by killing the psionic master that rides its back. If you fail to do so, the beast will use advanced maneuvers against you. Once the psionic is executed, the beast's higher-level functions cease to exist, and it will attack friend and foe alike.
+
+It poses no threat to you, however.
+
+I smirked as I glanced at the last bit. I rolled my shoulders before dashing up towards the fray. Surrounded by the pandemonium, I found a dozen of our gialgathens having individual dog fights with the blighted ones. I rushed beside three of them. As I did, I created a gravity well over me.
+
+Their flight paths altered into orbits around me, pulling them in. In front of each rider, I created water panels. As they crashed through them, I froze them mid-flight. These ice walls knocked the blighted riders off the blighted one's backs. With the rider and beasts separated, our troops burned them alive with vibrant, red flames.
+
+Collapsing in towards me, the blighted ones shattered their icy, melting confinements. As they did, I poured Event Horizon over them and locked them in place. Gravity wells anchored them before I lugged them behind me like an ugly, metal sack of potatoes.
+
+Like mobile batteries, they fueled me as I flew and helped my other soldiers. As I passed up, several of the mind mages smashed their wills against mine. Stunned for a moment, I stopped my flight, paralyzed by psionic daggers they lobbed against me.
+
+If I was to compare them with the last mind mages, these were like hammers instead of scalpels. They aimed to smash my mind into shards, crippling me in the process. After taking their first onslaught, I retaliated in kind. Diving deep into the minds of many, a few of their thoughts sprung into my mind.
+
+'Kill him.'
+
+'Get that monster away from me.'
+
+'When is Lehesion coming?'
+
+After pulling them to me and disintegrated them with Event Horizon, I worried over that last thought. Capable as I was, I wasn't ready to face Lehesion on my own. I got back to our mission's goal. A few quick skirmishes later, our forces expunged the last of the blighted ones.
+
+With a half dozen dying behind me, I created rock over them, melted it onto them, then froze it. Like a ball of metal and obsidian toffee, the black and metal ball disgusted me. I reared my hands apart. Clapping my hands together with all my strength, I created a shockwave that snapped them into brittle pieces. Suspending those parts, I disintegrated the dead bodies.
+
+Turning towards the flying dreadnought, I analyzed the battlefield. Our forces tore open the hull already. They ripped out dozens of gialgathens, the inner crew left in chaos. Another wave of mind magic hit me as I stood still, but I fought it off, gritting my teeth as I did. Clasping my hands, I dashed in to help them out.
+
+This was a circumstance I often dreaded - what if the mind mages targeted my soldiers instead of me? Turns out I shouldn't have worried. The gialgathens communicate through telepathy. In a way, two arguing gialgathens fought in a psionic battle. Though nowhere the level of these mages, our forces held their own enough for me to help.
+
+Not crippled by the psionic offensive, we finished the crew of the dreadnought. I gained about twenty gialgathens into my storage before we flew over towards the remaining battleships.
+
+The ice suspending the dreadnought almost caved by now. Blighted ones melted the ice with green, sickly fire and cracked it with their tails. As they unleashed their breaths, a saddening chorus erupted from the lake. It was as if the converted gialgathens lamented the twisted shadows they became.
+
+Giving them release, Krog flew over with a squadron of gialgathens. Krog adjusted his tactics from before, keeping as much distance from them as possible. They smothered the escaping riders and blighted with their flames. The blighted ones recovered, but the riders burned alive. Even the ship itself melted under the incendiary breath.
+
+Singeing metal and white mist covered the lake as both sides held out for victory. Our team kept the edge, so I let them be. This gave me time to face the remaining dreadnought without arcane cannons. It prepared reserve rifles that slung out plasma bolts. As I reached the ship, their guns charged with blinding light.
+
+With a bit of creativity, I filled the barrels with dense stone. As they fired, the plasma recoiled into the ship, the cylinders ripping to shreds in a blob of blue light. The plasma ate metal as I reached out a hand, having charged enough energy for a singularity once more.
+
+Another growing blot of darkness expanded but within the ship this time. As it released kinetic force, the metal on the outside of the hull undulated outwards, a wave creasing steel. Cores melted inside the vessel as the forcefield dampened. Without a reliable power source, it weakened.
+
+I dashed forwards, snapping through the barrier with ease. Popping like a semi-translucent balloon, the energized tethers fell apart at the seams. Panicking, members attempted fighting along the outside of the vessel. Instead of warring with them, I used a massive wave of gravity to lob them off the sides of the ship.
+
+Falling to their deaths, dozens of crew members howled as the pulped against the rubble below. A sickening chorus of breaking bones and ripping ribs let out from below. Dashing into the steeled vessel, I tore through the crew without mercy, yet I kept my intents focused.
+
+I reached the factory floor for the gialgathens. Tearing through them, I used the same process as before. I sorted the gialgathens into two groups - those that could be saved and those that couldn't. Of those two, I put who I could into storage and carried the rest in a gravitational ball behind me.
+
+After pulling them out, I regrouped with our forces coming from the other dreadnought. Like clockwork, we carried the maimed gialgathens across the sky towards the meeting point. Deep within the sewers, Spear created a spacial rend, letting us transport the gialgathens to Elderfire.
+
+With the three dreadnoughts cleared, we raced towards the exposed bases of the once towering spires. Stored within the recesses of their roots, hybridizing gialgathens turned in the orange slop. As we came upon them, a cataclysmic eruption boomed over Astelle.
+
+Pulling gialgathens from the pits, I turned towards the sound. Some being ripped open a portal in space-time, large enough for a city to fall through. From its depths, a gilded aura coursed out like evaporated gold. Claws large as subway trains cut into the edges of the warp, a maw of full of serrated teeth following not long after.
+
+Lehesion arrived in full force. As his full-frame came into view, the gialgathens near us shivered with fear. Many remembered Lehesion as a saint. Having his hulking frame and enormous stature rise against us spawned terror in their chests. It seized our troop's minds, making them numb and slow.
+
+I sent a message to our troops to retreat immediately. As I did, Lehesion rose from the warp, landing atop the island on the lake. His feet crushed entire buildings and his tail leveled city blocks. As the ground quaked under his feet, he turned towards the site of destruction. Disgust spread over his face as he viewed gialgathens fighting Hybrids.
+
+His voice sent waves across all of Astelle,
+
+"So my children would defy me? Perhaps you all have forgotten the age I left behind and the world I created. Allow me to remind you of what you face."
+
+The sky above darkened. My heart pounded in my ears as I sprinted forward. My blood charged with mana as an eclipse formed over the sun above. As the false moon devoured the sky, shade smothered the battlefield. A starry sky developed over us, as beautiful as staring at a horizon on a clear night.
+
+A grin spread over the ancient being's face,
+
+"Fade into memory, your bodies eaten by the light."

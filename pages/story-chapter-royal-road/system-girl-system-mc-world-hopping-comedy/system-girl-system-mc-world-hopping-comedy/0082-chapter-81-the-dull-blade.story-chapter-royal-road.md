@@ -1,0 +1,161 @@
+---
+id: e33121cb-c4b0-572f-baa0-7c631b2ded6a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 81: The Dull Blade"
+slug: 0082-chapter-81-the-dull-blade
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 82
+ownLength: 2278
+unit: words
+publishedAt: 2026-05-31
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3474683/chapter-81-the-dull-blade"
+royalRoadId: "3474683"
+---
+
+The training yard smelled of crushed grass and morning sweat.
+
+Ren stood in the center of the sparring ring, his chest heaving. He gripped the leather-wrapped hilt of a standard-issue arming sword, adjusting his stance. He planted his boots into the dirt exactly the way Kaelthos had spent the last two weeks drilling into him. He twisted his hips, drove the power up through his shoulders, and swung the heavy steel blade directly at the neck of the tightly bound straw training dummy.
+
+Thunk.
+
+The sound was profoundly wrong. Sharp steel hitting dry straw should produce a clean, tearing hiss. This sounded like hitting a sack of wet flour with a rolling pin. The sword bounced right off the dummy's neck, leaving only a shallow, ragged indent in the twine.
+
+Ren stumbled backward from the recoil, dropping the blade in the dirt. He cursed, aggressively massaging his vibrating wrists.
+
+Kaelthos stood a few paces away. The veteran elven warrior walked over, picked up the discarded sword, and ran a calloused thumb along the edge. A thin, bright line of blood welled up on his skin. His sharp features twisted into a knot of pure, baffled confusion.
+
+"The blade is sharp, My Lord," Kaelthos muttered, staring at the completely intact straw dummy. "An impact at that angle, with that much force... it should have sheared the head clean off. It makes no sense. The steel... it simply refused to cut for you."
+
+I pulled up my internal diagnostic overlays. The physics engine in this world was fairly robust, but Ren was an anomaly. His interaction with physical objects was governed by rules nobody else played by.
+
+[Ana: We have a situation, Ren. I think I know why you swing a sword like a blunt instrument.]
+
+I expanded his status screen, formatting the raw data into a clean, game-style UI, and projected it directly into his visual feed.
+
+…
+
+[STATUS WINDOW]
+
+[USER IDENTIFICATION]Name: Ren FenrisTitle: Lord Fenris, Head of House FenrisLevel: 9
+
+[CLASSES]Primary Class: [The Supply Lord] (Unique / Legendary)Sub-Class: [Master Chef] (Rare / Professional)
+
+[CLASS TRAITS: THE SUPPLY LORD][Infinite Logistics]: Inventory weight limit: REMOVED. Slot limit: 100. Effect: Absolute Temporal Stasis (Hot items remain hot; frozen items remain frozen).[The Smuggler's Gate]: Instantly transport targeted items to designated allies within a 1km radius. (Active Slots: 3 Allies).[Universal Appraisal]: Reveal the true strategic utility and exact monetary value of any item, scaled to the specific individual engaged in negotiation.[Beast Tamer (Logistics Type)]: Ability to tame and bond with beasts of burden for supply chain expansion.
+
+[CLASS SKILLS: MASTER CHEF][Absolute Butchery (Active)]: Instantly process a deceased entity into highest-quality component parts. Effect: Zero waste generation.[The Mono-Filament Cut (Passive)]: When wielding a designated 'Kitchen Knife', biological matter (including bone) offers zero physical resistance.[Essence Infusion (Passive)]: Food cooked by user retains 100% of ingredient mana properties. Effect: Grants temporary stat buffs upon consumption.[The Golden Tongue (Passive)]: Identify any ingredient via taste. Effect: Total immunity to food-borne toxins.
+
+[ACQUIRED SKILLS]Barter (Expert)Cooking (Expert)Extortion (Beginner)
+
+[ESTATE MANAGEMENT - NOTABLE ASSETS]Heir: Lady Lily Fenris (High Elf)
+
+Staff:Sylas (Head Butler, Elf)Mira (Head Maid/Nanny, Elf)Cynthia (Head Chef, Elf)Elite Guard Unit (x5, Elf)General Estate Staff (x25, Elf)Kitchen Hands (x2, Human)Companions (The Pack):Stormy (Fenrir Pup, Lightning)Frosty (Fenrir Pup, Water)Smokey (Fenrir Pup, Shadow)Allied Contacts:Leafy (Primal Spirit)Lady Parisa (Mad Battlemage)Caladorel (Arsenal Magus)
+
+…
+
+Ren read the floating text, his eyes scanning the green and white data blocks. He focused on the sub-class skills.
+
+[Ana: Look at the fine print on 'The Mono-Filament Cut'. It explicitly specifies kitchen knives. The system takes you literally. A chef's tool becomes a weapon of mass destruction in your hands. But the inverse seems to be true as well. You are hard-coded to be a chef. Put a broadsword in your hands, and the system treats it like you're holding a wooden spoon.]
+
+Ren frowned. He held his right hand out. A flash of blue light illuminated the training yard.
+
+His fingers closed around the black maple handle of the Miyabi 5000 MCD 67. The 132 layers of micro-carbide powder steel gleamed in the sunlight, the Damascus pattern rippling along the blade. It was a tool meant for slicing sashimi, not combat.
+
+He stepped back up to the training dummy. He didn't take a cooking stance. He settled his weight, dropping his center of gravity into the exact swordsman's stance Kaelthos had spent the last three weeks drilling into him.
+
+He swung the chef's knife in a wide, horizontal arc.
+
+There was no thud. There was no resistance at all.
+
+A sharp, high-pitched shhhk tore through the air. A crescent of compressed, shimmering air erupted from the edge of the Miyabi blade. It sailed forward, passing clean through the thick straw neck of the dummy. It didn't stop. The crescent carved through the empty air and slammed into the thick trunk of an oak tree thirty yards behind the target.
+
+The top half of the straw dummy slid sideways, hitting the dirt with a soft puff of dust.
+
+A second later, a loud, groaning crack echoed across the yard. The top half of the ancient oak tree shifted, leaning precariously before crashing down into the forest undergrowth.
+
+Kaelthos dropped his wooden practice sword. He reached up and pinched his own cheek hard, twisting the skin until it turned bright red.
+
+"I am not dreaming," the elf whispered, his eyes wide, staring at the cleanly severed stump of the oak tree. "My Lord... was that a blade aura?"
+
+I immediately dove into the Universal Wiki module. I searched for 'Blade Aura'. The results populated my vision in milliseconds.
+
+[Wiki Entry: Blade Aura. A high-tier martial technique. Requires the user to saturate a bladed weapon with immense quantities of dense mana, extending the cutting edge of the weapon beyond its physical limits. Typically achieved only by Grandmaster-tier swordsmen.]
+
+I cross-referenced the data with Ren's current metrics. He hadn't used a single drop of mana. His mana pool was completely stagnant.
+
+I refined the search. Dagger aura slice.
+
+[Wiki Entry: Dagger Aura. Extremely rare. Functionally identical to a Sword Aura, but geometrically compressed. Requires even greater mana density due to the shorter physical conduit of the blade.]
+
+[Ana: Kaelthos is losing his mind because you just performed a Grandmaster technique with zero mana. Your passive skill doesn't just make the knife sharp. It makes it infinitely sharp. It bypassed the mana requirement entirely and just cut the concept of the space in front of you.]
+
+Ren stared at the Miyabi knife in his hand. He slowly banished it back to his inventory.
+
+Kaelthos cleared his throat. He looked rattled. The hardened veteran walked over to a nearby bench, grabbed a clean linen towel, and handed it to Ren.
+
+Ren sat down on the grass, wiping the sweat from his face and neck. His breathing was heavy, the physical exertion catching up to him.
+
+Kaelthos stepped closer. He dropped to one knee, lowering his voice until it was barely a whisper.
+
+"My Lord," Kaelthos said, his tone shifting from instructor to head of security. "I must speak plainly. I am growing tired of the rats scurrying around our walls. Give me the order, and I will have them all eliminated before nightfall."
+
+Ren paused, the towel half-covering his face.
+
+The estate had become a focal point of intense scrutiny. Recently, the number of people keeping an eye on the Seaside Inn had skyrocketed. Some were clumsy, hiding in the branches of the trees bordering the main road. Others were brazen, simply walking into the restaurant, ordering a bowl of noodles, and spending three hours sketching the layout of the dining room on parchment hidden under their menus.
+
+We had anticipated this. Becoming a wildly successful, disruptive merchant with zero noble pedigree was begging for corporate espionage. What we hadn't anticipated was the sheer, unrelenting volume of the spies.
+
+[Ana: Look on the bright side. Our sales are up 14% this week solely due to the surplus of spies buying overpriced appetizers to justify their loitering. It's an excellent revenue stream.]
+
+This was Ren's overarching strategy. The brighter he shined, the less likely anyone was to notice the actual anomaly living in the main house. Lily was kept inside during peak hours, occasionally coming out to play in the heavily warded backyard garden. The spies were hyper-focused on the kitchen, the suppliers, and Ren himself. The best way to hide a world-ending secret was to hide it behind a massive, highly profitable, glowing neon sign.
+
+Ren pulled the towel away from his face. "Hold off on the assassinations, Kaelthos. They're paying customers."
+
+"They are a security risk," Kaelthos argued quietly. The warrior's protective instincts were running hot; He would burn the city to the ground before he let anyone threaten Lily.
+
+"I am just worried about Raina and Liam," Ren admitted, looking toward the kitchen door. The two human orphans had been working hard, scrubbing pots and peeling potatoes. "When the number of spies spiked, I had Mira sneak out in the middle of the night. She gave them enough gold to live comfortably for a few months and gave them strict instructions not to come back to the estate until I sent for them. I should have Sylas send another maid to check on them in secret."
+
+"My Lord, do not worry for them," Kaelthos reassured him. "Those children are tough. They survived the gutters of the capital with no money and no supervision. Now they have gold and a secure location. They will be fine. We just need to weather this current storm of attention."
+
+Ren got up, stretching his sore shoulders. His joints popped in protest. "Yeah. I know. I don't mind the extra business in the restaurant." He glared at the tree line bordering the coastal road. "But these window shoppers deciding to camp out on the branches instead of coming inside to buy food is getting really annoying. Freeloaders."
+
+...
+
+The air inside Lord Greenwood's private study tasted like stale wine and suppressed panic.
+
+Greenwood sat behind his massive mahogany desk, his face a mottled, unhealthy shade of purple. He crushed the parchment report in his meaty fist, grinding the expensive paper into a tight, useless ball. He threw it at the fireplace, missing the flames entirely.
+
+Standing before the desk was his human head butler. The man had his head bowed so low his chin nearly touched his chest. Sweat poured down the butler's face, soaking into the stiff collar of his uniform.
+
+"Useless," Greenwood hissed, his voice a venomous rattle in the quiet room. "Every single one of your spies is useless! How can a man be this clean?"
+
+The butler didn't dare answer.
+
+"He doesn't have a mistress," Greenwood fumed, pacing behind the desk. "He doesn't drink to excess. He doesn't gamble. He has never set foot in the red-light district. What kind of noble demeans himself to cooking? What is this? Is he even a man? He spends all his time chopping vegetables and coddling his daughter!"
+
+Greenwood stopped pacing, bracing his hands on the desk and leaning forward, his eyes bloodshot. The only point of vulnerability Fenris had was the elven village situated on his land. But Greenwood couldn't touch it. None of the Old Circle could dare point a finger at that.
+
+They were all hiding the exact same skeleton in their respective closets.
+
+It wasn't that the villages themselves were illegal. Every high-ranking noble in the kingdom maintained registered elven settlements on their estates, properly documented by the Crown's auditors. The crime was in the census. The old families, Greenwood included, systematically misreported the number of births in these villages. They created a ghost population—generations of unregistered elves who possessed no legal contracts, no rights, and no existence on paper. It was how they secured free labor and specialized servants without alerting the state, creating true slaves they could abuse or dispose of without any legal repercussions.
+
+It was an unspoken agreement among the elite, a shared, damnable secret binding them together. If Greenwood demanded an investigation into Fenris's elves, the Royal Inspectors would start turning over every rock in Dolaria. The old families would never agree to use it as a bargaining chip. The resulting audits would expose them all.
+
+Greenwood picked up a heavy, glass inkwell from his desk. His knuckles turned white.
+
+He hurled the inkwell.
+
+It struck the butler squarely on the forehead. The thick glass shattered. Black ink and bright crimson blood exploded outward, splattering across the fine rugs and the polished wood floor.
+
+The butler stumbled backward, letting out a choked, muffled groan, but he forced himself to remain standing. He kept his head bowed, blood and ink streaming down his face, dripping from his chin onto his pristine white shirt.
+
+"Find me something," Lord Greenwood grumbled, dropping back into his high-backed leather chair.
+
+The bleeding man standing on the rug was a contracted human servant, not one of the unregistered elves from the village. Greenwood couldn't simply kill him here in the study and order the mess quietly buried. The man had a contract. There were basic rights. There would be repercussions and inconvenient questions from the magistrate.
+
+But Greenwood had other, perfectly legal methods to destroy a contracted servant.
+
+"Find me something to break him," Greenwood whispered, his voice deadly soft. "Or else. I will send you to the northern salt mines. I will fabricate allegations of missing funds from my accounts. I will ensure the debt is so staggering that ten generations of your bloodline will not be able to buy their freedom."
+
+The butler trembled, a single drop of blood hitting the floorboards.
+
+"Get out," Greenwood commanded. "And do not return empty-handed."

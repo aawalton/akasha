@@ -1,0 +1,163 @@
+---
+id: fbd39bae-4f49-5e69-9a29-c34e4eb61f4c
+page-type-slug: story-chapter-royal-road
+title: "056 - Calculated"
+slug: 0056-056-calculated
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 56
+ownLength: 1789
+unit: words
+publishedAt: 2026-07-13
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3669513/056-calculated"
+royalRoadId: "3669513"
+---
+
+I should have heeded Mike's warning. That nothing good would come from calling Claire. I had lowered my guard, even though I should have known better. Had trusted her with a dangerous truth, to which she had found the only answer her ruthless mind could provide—a violent and fatal one.
+
+Still covered by the Cloaking spell, I prowled over to the office building Claire was hiding in. Yesterday's discussion hadn't included many details about my subclass, there had been more pressing matters at hand.
+
+She might have assumed that I would never find Jason. That her crime would remain hidden.
+
+"If you need to end her, I can provide the tools. For a price, of course."
+
+Lucy's offer didn't surprise me. But my anger at it did. Had they been a physical presence, I would have lunged at them.
+
+Encouraged by my silence, they went on, "It won't be pretty, that much I have to warn you, and you'd need to find more of hers. But given a day of busy work, this threat of hers would be banished forever."
+
+["Lucy. Do you really think I don't understand that exactly such an offer, by his own devil, sealed Jason's fate? Hell has already scored a massive win here. You pushed Claire further to the brink. Treat me with some respect and don't assume I don't see the game you are playing."]
+
+"Oh, Eve. You are being too grumpy with me. I don't expect you to take me up on it. But I expect you to make her understand that she is not safe from consequences. When she throws her new immortality in your face, you can throw the threat of extinction right back at her."
+
+I didn't reply further. They had achieved their goal. I now knew there was an option when I would rather not. And I would throw it in Claire's smug face. Maybe.
+
+Even as I stalked into the building's lobby, which had been some kind of small office, I had no idea what I would say to her. My track record in verbal confrontations with Claire wasn't stellar.
+
+But I also couldn't not confront her. Whatever storm was brewing inside, this was not one I could eat up and ignore. Claire was hiding someone on the first floor. I slowly ascended the stairs in the lobby.
+
+["How does it work?"] I asked in my Guide chat.
+
+"Ever the curious one. I will not give you the details, they'd only be a weight on your mind. The gist of it is: you keep attacking her, and the attacks will leave marks that will eventually overwhelm her."
+
+I found myself growling.
+
+Upstairs my Seek the Unseen spell led me in front of a metal closet, its door slightly ajar.
+
+I considered staying a wolf. But then, I feared that if I didn't have hands to shake her with, it'd end up like in the mall. With one less Claire and a mouth full of fluffy filling.
+
+I dismissed the wolf shape and took a moment to gather my breath, examining my still unfamiliar clawed hand.
+
+Opening one of the closet's metal doors revealed shelves full of office supplies. And one plushy donkey, nestled to the side.
+
+"Claire."
+
+The donkey straightened up and sat to face me.
+
+["Eve. What are you doing here?"]
+
+Against my better judgment, I punched the other door, leaving a dent.
+
+"You know why I am here. You… You fucking killed him."
+
+["You weren't meant to find him. But very well. Yes, I did. What do you want?"]
+
+"What I want? What do you fucking mean, 'What do you want'? You killed a child, Claire. You murdered another human being."
+
+["I did what you should have done in the first place. I did you a favor and allowed you to keep your hands—claws—clean of blood. And my question stands: What do you want? Why are you yelling at me?"]
+
+"I yell at you because I had hoped that there was a tiny flicker of humanity left in you. Are you listening to yourself? You are acting as judge, jury, and executioner. Why shouldn't I, or Roslyn, continue the cycle? You are clearly dangerous."
+
+["I may be a murderer, but I am no serial killer, Eve. I took no joy in what I had to do. The boy was too far gone, and if you had taken your bloody time dealing with him, the infection would only have spread further. Now slay this body if you have to get it out of your system, but know that I do not regret anything I did."]
+
+At some point I had started pacing up and down in front of the closet. The swishing sensation of my tail behind me only agitated me further.
+
+"I don't want to hurt you, Claire. Why do you provoke me? You make me sound like I'm the abusive ex here. There aren't enough people left in this fight. We can't kill those that could be saved, and it is pure arrogance to claim that you can judge who is and isn't beyond saving. There is no corruption bar."
+
+Her annoying little feet dangled over the edge of the shelf. I had lied. I did want to hurt her—I just knew better.
+
+["He was far enough gone to commit to it, Eve. Do you want to know how I lured him out?"]
+
+"What? Why is that relevant?"
+
+["I told him you were a problem and needed to be dealt with, and that we had to discuss how to do it. That message lured him to this bridge, and that decision, to discuss your murder, was what ended up killing him."]
+
+I screamed and punched the door again, this time dislodging it from its upper hinge. It dangled, squeaking, for a moment.
+
+"What do you expect me to do? Do you think others will just blindly accept that—" I stopped mid-rant when I heard a sound outside. Like rapid steps, metal on concrete. Only that my minimap didn't reveal anything.
+
+["What's happening, Eve? I don't share your senses."]
+
+"Shut up, Claire," I growled. The steps were approaching the building. I snuck over to the entrance so I could look into the lobby.
+
+It was a robot. One of those four-legged metal dogs the police did a test run for a while back.
+
+"Is that one of yours, Claire?" I asked. It still didn't show on the minimap. Claire's bodies always did, once I noticed them.
+
+["I still don't know what you have spotted, Eve. No, it is just this body here. I thought it was prudent to not have an army at the crime scene. What is it you see?"]
+
+"A robot," I whispered.
+
+It hadn't seen me, at least it didn't turn to face me, but it still ascended the stairs. I retreated into the corridor and turned to my Guides chat.
+
+["Gabriel, everything has shown up on the minimap before. Is that human controlled?"]
+
+"No, Eve. Even that would show up. Only one entity operates outside the Blessing like that. I think that's the Wyrm."
+
+I pulled the donkey out of the closet and pulled further away.
+
+"It's the Wyrm," I whispered.
+
+["What would it want here?"] Claire asked.
+
+Then the robot stepped into the corridor with us, faced us, and folded its legs in, lying down on the floor.
+
+"What the fuck?"
+
+["Are you sure that this is Wyrm controlled?"]
+
+I put Claire down on the carpeted floor and took a step toward the mechanical intruder.
+
+"I have no idea, but I'm sure as hell not letting it eavesdrop on our conversation."
+
+"Please do not disembody me." The voice coming from the robot was even more, well, robotic than the one I had developed for Claire.
+
+I stared. My mind had gone through many possible conclusions to this discussion. One of the most powerful entities in all of existence showing up and asking me to not tear it to shreds had not exactly been a top 10 contender.
+
+["Can you read me? What do you want?"] Claire asked.
+
+"Study. Observe. Communicate," replied the Wyrm.
+
+"Well, we are kind of in the middle of something!"
+
+"You two. Either of you. Can assist. Invitation. Brooklyn Navy Yard."
+
+For a while, the only sound in the corridor was the quiet whirr of the robot's servos.
+
+"Did you just invite us? To that high-tech dungeon? To assist you?" I had to have misunderstood. Even my questions sounded absurd.
+
+There was a tiny movement as the robot slightly extended and retracted its legs, tilting its body this way and that.
+
+"Yes, Eve, Sin-Slayer and Hyena Matriarch. I would like to formally invite you, both of you. It is no longer a dungeon, it is my workshop. I require assistance. You are both suited." It was now perfectly mimicking my own voice. I shuddered.
+
+I laughed. Not even 9 a.m., and I had reached my limit for absurdity.
+
+"Do you remember how you tried to kill me? Multiple times? Not to mention the fucking mind games? Why in God's name would I assist you?" I glared down at Claire. "Why would she?"
+
+"I never forget, Eve. The sapling called me broken. Still, I offer a temporary alliance. Our shared predicament is that we have more pressing objectives than mutual destruction. I know secrets of artifice beyond anything the Creator's Protocol would grant you at this point. Mammon was equal parts luck and my sibling's favor. But they are fickle."
+
+"Eve. You need to get out of this. ASAP," Gabriel said. I didn't need her to tell me. The Wyrm didn't care for spoilers, but the Blessing sure as hell did.
+
+I grabbed Claire and stepped away, never taking my eyes off the robot.
+
+"Nope, nope, nope. Thank you, but no thank you. We are taking our leave now. Bye."
+
+Even as I shoulder tackled through the nearest door, the robot went on. "I can offer a more permanent solution than your trojan did, Claire."
+
+I ran for the window, jumped, and turned into the Might version of the Red-Tailed Hawk, holding on to Claire's donkey body as I fled to safety.
+
+["Where are you taking us?"] Claire asked.
+
+["To the club. Where else? They are waiting for me to return, hoping I return with Jason. Instead I will return with his killer."]
+
+["You know that this will harm the long-term prospects of New York as a whole? It would be more beneficial if you didn't publicly proclaim your findings."]
+
+["Shut up, Claire. You don't get to play vigilante and murder people without facing the consequences. I'm no longer arguing with you. You can justify yourself to Roslyn and see how much she cares about your so-called logic."]

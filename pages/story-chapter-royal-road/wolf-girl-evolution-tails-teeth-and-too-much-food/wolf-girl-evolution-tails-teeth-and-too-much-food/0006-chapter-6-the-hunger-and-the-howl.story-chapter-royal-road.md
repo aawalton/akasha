@@ -1,0 +1,151 @@
+---
+id: 8ab6f918-fcab-5db2-b74c-5a1f4d8dc311
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6: The Hunger and the Howl"
+slug: 0006-chapter-6-the-hunger-and-the-howl
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 6
+ownLength: 1407
+unit: words
+publishedAt: 2025-08-22
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2539466/chapter-6-the-hunger-and-the-howl"
+royalRoadId: "2539466"
+---
+
+PoV Luna
+
+Luna was awake before the sky had even blushed with light. Her tail wagged against the dirt as she stretched long, paws pushing forward, jaws cracking in a wide yawn.
+
+Today was a training day. She didn’t know who had decided it – her or her belly – but it felt right. Stronger wolves got better food. Better food made stronger wolves. A perfect circle!
+
+She bounced to her paws and took off at a run, circling the clearing in wide loops. Breath puffed white in the cold morning, ears flopping with each stride. Roots and rocks jutted from the ground, and she leapt them in turn, legs kicking out, tail balancing her wobbles.
+
+Her paws hit dirt steady, faster each lap. A fallen log blocked her path and she pounced, clearing it with a squeak of joy. Again, again. Left, right, left, right.
+
+【Jump Lv.1 → Lv.2】
+
+She barked in delight, circling back to take it once more. Stronger legs meant higher leaps. Higher leaps meant more food caught.
+
+The thought alone sent her tail thumping faster.
+
+Luna slowed only when she found a dry stick jutting from the ground. Her head cocked.
+
+Bite practice!
+
+She clamped down with all her strength. Crunch. It splintered sharp across her tongue. She chewed twice, swallowed the scraps, and wagged at the clean snap of it.
+
+Good warm-up snack.
+
+Her eyes drifted toward a mossy stump. Perfect. She crouched, claws flexing, then lashed out. Strike surged through her paw. Wood cracked under the blow, moss scattering in damp clumps.
+
+Then again, and again. Until the system rewarded her again.
+
+【Strike Lv.3 → Lv.4】
+
+Her ears perked, chest swelling.
+
+Yes, progress!
+
+She shook splinters from her fur, tongue lolling in triumph.
+
+A branch dangled low overhead, swaying gently in the morning breeze. Luna’s eyes narrowed, tail stiff. Target. She crouched deep, muscles bunching, then launched.
+
+Jump and Bite surged together. Her teeth sank into bark with a satisfying crunch, tail wagging madly even as she dangled from the branch.
+
+The wood snapped free, dropping her unceremoniously to the dirt. She landed hard, rolled once, and popped back up, the branch still clutched proudly between her jaws.
+
+【Jump Lv.2 → Lv.3】【Bite Lv.3 → Lv.4】
+
+Her tail wagged so hard it smacked her own sides.
+
+Stronger already! Stronger in everything.
+
+Luna pranced in a circle with the branch still in her mouth, muffled squeaks of triumph leaking out around the wood.
+
+She finally dropped it and sat, panting, tongue out. The stump bore her mark, the log her pawprints, the stick her splinters, the branch her teeth. The clearing smelled of effort and pride.
+
+Her belly grumbled, but this time she didn’t scold it. Training was food too. Every leap, every bite, every strike was another meal tucked into her bones.
+
+She flopped onto her back in the cold grass, paws wiggling in the air. Morning sun broke over the trees, washing her fur in gold. Her chest heaved, but her grin only widened.
+
+Getting stronger felt good. Almost as good as eating. Almost.
+
+Breakfast was rabbit again.
+
+Luna crouched over her share, chewing with steady chomps. It filled her belly, sure. The meat was soft enough, gamey in a way she had grown used to. But as she licked her chops and tore into another bite, a faint frown tugged her ears sideways.
+
+It didn’t taste like anything.
+
+She gnawed through the rest of the rib with less enthusiasm, tail giving a single wag here and there out of duty more than joy. When she finished, her tongue lolled, unsatisfied.
+
+Her nose twitched across the clearing, hunting for something more.
+
+A patch of roots poked from the dirt nearby. She pawed one loose and chewed. Damp. Stringy. Not good, but technically edible. Her jaw worked stubbornly through the bitter taste before she spat half of it out.
+
+Her mouth wanted spice. Her belly didn’t care, but her tongue absolutely did.
+
+【You are dissatisfied with your current nutritional intake.】【Effect: Craving (Unknown).】
+
+Her ears perked, tail wagging with excitement at the new message.
+
+Craving? Unknown? That sounded important. Important meant strong. Probably!
+
+She circled the patch of roots again as if more answers might sprout there, then darted toward a pile of leaves kicked together at the edge of the den.
+
+She shoved her nose through them, sniffing. Damp earth, faint musk. And movement. A beetle crawled across her paw.
+
+Her eyes narrowed. Target acquired. She snapped it up in a flash, teeth crunching through the shell. The flavor hit sharp and bitter, oozing across her tongue. Her ears flattened. Definitely not spice. She swallowed with a wince anyway, because food was food, then shook her head hard enough to rattle her ears.
+
+Nope.
+
+Her gaze shifted toward a fallen log. She stared long at the mossy bark, tail twitching in slow beats. The thought crept up again: trees were wood-flavored prey. Maybe logs counted too.
+
+She padded closer, sniffed, even licked once. Damp, moldy. Her jaw opened in slow threat. Then she sighed, shoulders sagging.
+
+Not worth the splinters today.
+
+Her ears drooped as she returned to the remains of breakfast. Another rabbit leg waited, limp and unremarkable. She tore into it anyway, chewing out of spite more than hunger. Bland. Bland. Bland. Her tail barely moved, thumping once on the dirt in frustration.
+
+The system didn’t flicker this time either. No skill, no progress, just rabbit.
+
+She licked her paws when she finished, ears tilted back. Even the air felt flat on her tongue, as if the forest itself had lost flavor.
+
+Her belly grumbled, a rolling thunder that echoed through her chest. She pressed a paw to it, ears perked as if listening. The message came clear as any system window, fierce and demanding.
+
+“Meat. Now. Better meat.”
+
+Her eyes glimmered, tail beginning to wag again despite her sulk. Better meat. That was the answer. Rabbit filled her belly, but something else would fill her strength.
+
+She licked her lips, nose already twitching toward the trees. The forest had more to offer. It had to.
+
+That night, Luna lay near the edge of the den, paws tucked beneath her chest, tail flicking lazily in the dirt. The air was cool, heavy with the scent of moss and old bark. Around her, the pack had settled deep into their food-drowsy quiet. Bellies round, paws twitching in sleep, ears limp.
+
+Her own ears did not lie still. They twitched at every sound, every rustle of grass, every hoot of owl above the clearing. Her belly was full enough, yet rest refused to settle into her bones.
+
+A breeze drifted through, carrying something unfamiliar. Her nose lifted, whiskers trembling. She drew it slowly. Damp, but not water. Old, but not rot.
+
+Her eyes narrowed, tail giving a soft thump. She sniffed again, sorting through layers of dirt, leaf, and pack. The smell was faint, so faint she almost thought she had imagined it. Neither wolf nor prey. Nor anything she could name.
+
+Her ears swiveled toward the pack. None of them so much as stirred. If they smelled it at all, they didn’t care.
+
+She tilted her head, muzzle wrinkling.
+
+Weird. Very weird.
+
+The thought nudged her belly, but no new hunger came. Her paws itched instead. Something was out there. Something she couldn’t chase, couldn’t bite, couldn’t chew. Yet the smell lingered, teasing her nose with a puzzle she didn’t have words for.
+
+She glanced once more at the shadows between trees. Branches swayed slowly in the breeze, silvered by moonlight. They looked calm. Normal. Still her tail flicked faster, betraying her restlessness.
+
+No one else noticed, so she didn’t say anything.
+
+She stretched long, jaws cracking in a yawn that squeaked high at the end. Her paws scraped dirt as she flopped back down, rolling half onto her side. Eyes drifted shut, only to snap open again at another rustle. Leaves shifted with the wind. Still, she stared longer than usual into the forest’s dark edges.
+
+The scent hadn’t gone away. She could still taste it at the back of her tongue, faint and strange. She wriggled once, licked her nose, and let her eyes fall closed again.
+
+Just in case, she kept one half open.
+
+Her tail gave a slow final wag, then curled tight around her paws. Sleep tugged harder, dreams waiting.
+
+Yet under it all, the scent still hovered in her mind.
+
+Damp, old, and wrong.

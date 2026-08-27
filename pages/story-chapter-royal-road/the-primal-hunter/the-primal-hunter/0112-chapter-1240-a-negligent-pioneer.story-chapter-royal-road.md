@@ -1,0 +1,145 @@
+---
+id: 2a3a2ab4-2194-5eec-bb2b-19e95bdd58a2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1240 - A Negligent Pioneer"
+slug: 0112-chapter-1240-a-negligent-pioneer
+partOf: the-primal-hunter
+position: 112
+ownLength: 2727
+unit: words
+ownProgress: 2727
+publishedAt: 2026-01-23
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2971649/chapter-1240-a-negligent-pioneer"
+royalRoadId: "2971649"
+markedReadAt: "2026-06-29T19:32:49.068Z"
+---
+
+Jake stared confused at the Viper for a moment before he answered:
+
+“Yes? Pretty sure I already told you, and if I didn’t, it was the capstone skill I got at level 320,” Jake said, unsure why Villy was asking in such a serious tone. Sure, the skill was awesome, but that didn’t warrant a Primordial asking about it like this.
+
+“So it was, huh,” the snake god said, standing there cross-armed and tapping his finger on his arm a few times. “Odd. Very odd indeed.”
+
+“Are you going to tell me why you’re asking, or do you plan on keeping it a secret?” Jake asked, curious himself now.
+
+“Alright, fine,” the Viper sighed. “Eversmile and I – oh, spoiler, if you didn’t know, I was enjoying the show with my fellow Primordial – we’re both watching you use it, and while the observation skill I use isn’t able to capture everything perfectly, it didn’t at all allow us to see what actually happened when you used that Event Horizon skill.”
+
+Jake frowned at that, not because he found the Viper’s revelation weird, but because he found it weird that Villy found it weird. “So? I’m pretty sure you’re not meant to be able to see what happens, as per the skill’s description. Only I’m able to glimpse the Event Horizon, and maybe also the target who’s targeted by the skill.”
+
+“That’s all well and good, but it doesn’t explain why we two Primordials weren’t able to see it either,” the Viper sighed. “System skills are bound by system rules, and one rather universal rule is that power rules everything. The best stealth skill can be seen through by someone with enough Perception, and the most hidden skill use can be seen if one’s senses are powerful enough. And I would venture a guess that I should be able to detect everything a C-grade does, no matter how strong that C-grade is or how rare their skill is. Yet in this instance, I couldn’t. That’s why I’m asking, because the only other class skill of yours I can’t see through at all is that life-saving Moment one. And we both know the origin of that one isn’t exactly regular.”
+
+The snake god’s explanation was long, and it did make Jake frown as he also began to realize it was kind of odd that the Viper couldn’t see through how Event Horizon worked, even if the skill description acted as if he shouldn’t be able to.
+
+“You've got a point. That is odd,” Jake muttered as he looked at Villy. “But I have a sneaking suspicion you have a theory why?”
+
+“I do indeed; I just needed to confirm if it was indeed a system-offered class skill before proposing it,” the Viper nodded sagely before speaking with a voice of authority. “Your Event Horizon skill is complete and utter dogshit.”
+
+Jake stood with a half-open mouth for a second as the words of the Viper sank in, but luckily the Viper kindly elaborated before Jake had time to start throwing hands.
+
+“Or perhaps it would be more accurate to say that the watered-down version you got is dogshit compared to the real thing,” Villy said with a mischievous smile. “I have seen situations like this before, where a skill is offered as a significantly weakened version of the real thing. However, it is a bit concerning that your barebones Event Horizon is still considered mythical rarity.”
+
+“Why would that be concerning and not just awesome?” Jake asked, not seeing anything bad about it. Assuming the Viper was right, which Jake more or less knew he was based on his own observations of Event Horizon, wasn’t it only good that the skill had so much room for growth?
+
+“I never clarified who it’s a concern for,” Villy answered with a deadpan expression. “I’m speaking from the perspective of every other poor sap trying to catch up to you. Granted, it could be bad if it had happened to anyone else. As the skill is already mythical rarity, if it doesn’t downgrade when you evolve to B-grade, upgrading it again would be borderline impossible. More likely than not, an upgrade would require a jump in rarity, and seeing as it’s a skill that appears to have a very defined upgrade path, and for the system to allow a rarity upgrade in these instances takes far more effort.”
+
+“But not for me because I already have a sacred rarity skill,” Jake understood what the Viper was getting at.
+
+Obtaining the first skill of a new rarity was always the hardest and took far more effort and Records. However, once it was done, the person would carry Records indicating they already had a skill of that rarity, Records that could bleed over and make any subsequent upgrade far easier. In the simplest of terms, having one skill of a particular rarity lowered the system’s requirements for any new upgrades, making it step in faster and help give that final push where everything would come together.
+
+“Bingo,” the Viper smiled with a nod. “Though it will still be very hard to get more skills to sacred rarity, as it does require adding a flair of the divine.”
+
+“I guess,” Jake nodded as a thought struck him. “Wait, what happens if you improve a mythical skill enough to get an upgrade without adding any divine elements?”
+
+“What a brilliant question,” the Viper nodded. “Anyway, my point is, your Event Horizon is a skill that surprised both Eversmile and me, and it definitely has top-tier potential. If I had to guess, its true version would fall well within the realm of divinity.”
+
+“You didn’t answer me,” Jake pointed out.
+
+“Very astute observation,” the Viper just nodded again. “I would definitely test the skill more and try to fully understand it. The Gate of Enlightenment should help there as long as you learn what to look for. Just watch out and don’t get too caught up in meditating and contemplating concepts quite yet. You’re still a mortal, and it would be kind of sad if you ended up accidentally killing yourself by getting too much into meditation, wasting your lifespan away.”
+
+Having realized he wasn’t getting any answer to his rarity question, Jake stopped trying and just nodded. “You should know I’m not that patient. I would definitely get restless if I spent too long meditating without fighting anything.”
+
+“Fair,” Villy nodded before getting quiet for a bit. “I take it we should leave? Unless you want to stay and visit the nearby resort? I’m sure they’ll be up and running again as long as the panic dies down. Though I’m not sure they’ll allow you back into the casino.”
+
+“I’m not in need of Credits,” Jake shrugged, having not even checked how many he had for decades, and still saw no reason to now. “So, yeah, let’s head back already. I still need to recover.”
+
+The Viper nodded as he enveloped Jake in energy before preparing for their journey through the void. On that note, the reason the Primordial had come in person to escort Jake to and from this planet was purely for safety, due to the risk of ambush in the void. Jake wasn’t complaining, as having Villy do the teleportation was faster and more effortless than going with another god.
+
+Unexpectedly, this journey through the void was smooth once more without any sudden visits by Void Gods or random ambushes by unknown factions that had been lurking in the depths of the multiverse for several eras.
+
+Back at the Order, Villy deposited Jake on the couch before giving him a nod.
+
+“There ya go, now focus on recovering,” the Viper said. “I take it you want to go hunting and get your class caught up with your profession sooner rather than later, correct?”
+
+“That’s the plan,” Jake nodded. “I don’t have many more things I need to get done before evolving to B-grade.”
+
+“You do have a few, though,” Villy said, “And I’m going to help you with one of them. Something I’m sure you haven’t even thought about doing.”
+
+“Now I’m curious,” Jake said, tilting his head to the side. He was fully expecting some joke to come next, but instead, he got a very serious answer.
+
+“In order to maximize your Records for B-grade, fully upgrading all your titles as much as you can would be best, and if I’m right, your Dungeon Pioneer title is heavily neglected,” the Viper said, indeed reminding Jake of something he hadn’t thought about for many years.
+
+Villy’s words prompted him to reflect as he quickly checked his status and focused on the title, and… yeah, it had been very neglected.
+
+[Dungeon Pioneer VI] – Be the first to clear a dungeon suitable for your level. +24 all stats.
+
+Looking back, Jake’s last upgrade to the title was when he cleared the Undergrowth back when he had barely evolved to D-grade. That was a long-ass time ago, and while it should be surprising he hadn’t managed to be the first clearer of any dungeons since, it really wasn’t.
+
+Earth didn’t have any dungeons that appealed to Jake, and he tended to find prey in the wild. The few dungeons he had done were either ones owned by the Order and had thus been cleared many times before, or they were part of Nevermore.
+
+Jake also understood why Villy brought it up, as there was a lot to be gained. The title gave +3 to all stats for the first five levels and +9 for level six. Assuming it is upgraded in the same way as the Dungeoneer title, it would then give +27 stats per level for levels ten to fifteen of the title. Quick math told Jake that there were a lot of missing stats to be gained. +171 to all stats in total.
+
+Of course, that was only for regular people. As a Peerless Conqueror of Nevermore, Jake’s dungeon titles were even better, courtesy of that one proving an extra boost, as per the title description:
+
+“As a Peerless Conqueror of Nevermore, you are a master of dungeons, increasing stats gained from Dungeoneer and Dungeon Pioneer titles by 50%.”
+
+With this title, Jake had a grand total of +256 to all stats to claim from upgrading his Dungeon Pioneer title fully. That was before Jake’s percentage increases, which would more than double them.
+
+In conclusion, Jake had a lot of potential stats to reap… assuming he could find nine level-appropriate dungeons that hadn’t been cleared before. But that was where Villy, his dear Patron, came in.
+
+“You’re absolutely right, I haven’t upgraded it since I was an early D-grade and only have it at level six,” Jake said shamelessly as he looked at the snake god with high expectations.
+
+“So you need nine dungeons?” the Viper raised an eyebrow. “That doesn’t sound… oh, right, I somehow forgot to count my own initial Challenge Dungeon. That’s embarrassing. Anyway, I prepared ten dungeons for you, all of which have never been cleared before, all suited for peak C-grades.”
+
+Jake looked at the Viper and couldn’t help but smile. “That’s one of the nicest things anyone has ever done for me.”
+
+“I know I’m awesome,” Villy grinned in return. “On that note, I even went as far as to have them all be natural dungeons. While the research is spotty at best, I believe it’s best to gain Dungeon Pioneer title upgrades from natural dungeons rather than crafted ones.”
+
+Nodding along, Jake was all smiles… but one thing did concern him a little. “There is one problem, though… I feel like I’ve been away from Earth for a bit too long, and I feel like I’m overdue for a family visit.”
+
+“Yeah, about that,” Villy said, letting out a loud sigh. “They’re gone.”
+
+Jake stared at the snake god with wide eyes before the asshole elaborated.
+
+“As in, they’re not on Earth anymore. Just checked. Apparently, they went to see a bit of the multiverse for a while. Something about the many visitors from other universes sparked curiosity and led them to want to learn more about the world. That nephew of yours is also at an age where exploring and broadening his horizons is healthy.”
+
+“Did you seriously have to try to give me a heart attack like that?” Jake asked, glaring at the snake god.
+
+“Sorry to disappoint, but heart attacks aren’t really a thing anymore,” the Viper pointed out. “Heart attacks, also known as myocardial infarctions, was the term for when the blood flow to parts of the heart was interrupted, likely due to a blockage of the coronary artery. Primary causes of heart attacks were diseases related to the artery, with risk factors including high blood pressure, obesity, smoking, diabetes, and a variety of other things, many of which your science didn’t quite manage to clock before the integration. Fortunately for you, none of these things is a problem anymore, and all cardiac diseases are null and void.”
+
+“You’re in a particularly teasing mood today, huh?” Jake muttered.
+
+“Not particularly, no,” Villy smiled. “I just enjoy teasing you, especially after you just had a major victory. Gotta try to keep you down at least a little, honored Dragonslayer. On that note, shit, I lost another bet.”
+
+“Dare I ask what kind of bet?” Jake asked, feeling like he would regret the answer.
+
+“Nothing much, just one if you’d become a Dragonslayer or a Dragonlayer first. My money was on the second one, not because I doubted you would hunt down a True Dragon, but because I had faith that at least one of the Dragonflights would throw a young whelp at you too aggressive in her method of pursuit for you to resist,” the snake god sighed.
+
+“That’s a pretty disrespectful bet,” Jake said, giving the god another glare.
+
+“In my defense, it was made during a time when the Emberflight were actively trying to make things happen and get a taste of that sweet Bloodline. Plus, you’d shown an openness to that kind of thing, so I thought by odds were good,” Villy tried to defend himself.
+
+“At least Duskleaf has some faith in me,” Jake sighed.
+
+“You know what? You’re right. I’m going to save your sanity and not tell you the reasoning behind his decision,” the Viper said.
+
+“I’m done asking,” Jake said, totally fine with moving on entirely from that subject as he returned to the topic at hand. “Anyway, if my family is not on Earth anyway right now, I guess it’s dungeon farming time. Any insight into how large these dungeons are? How difficult will they be?”
+
+“I had Dungeon Engineers and Architects get as many readings as they could without entering any of the dungeons, and these ten were chosen out of over four hundred candidates,” Villy said, making it clear he had been preparing this surprise for a while. “These were chosen precisely because they showed high difficulty with small sizes. That communicates that either all the enemies inside are on the stronger side, or the final boss is particularly difficult.”
+
+“Any chance for B-grade bosses?” Jake asked with some hope. He remembered one of the valuable and great things about the mega-dungeon Minaga was building back on Earth was that it had sections that could cross grades. Such dungeons were considered extremely valuable and rare in the multiverse. For that reason, Jake was fully aware that the chances were low that-
+
+“Duh, of course, if not, you wouldn’t be able to get any levels,” the Viper said, almost finding the notion he would have picked anything else insulting. “While upgrading the titles is the main goal, getting some class levels in the meantime is just efficient. Wouldn’t want you getting bored either. While I can guarantee you won’t find anything as powerful as a True Dragon, hopefully, some of the dungeon bosses can offer good fights.”
+
+Jake nodded, definitely on board with the Viper’s idea. It wasn’t something he’d thought about, but Villy definitely had a point. Getting those titles would be a good idea, and he needed the levels and experience anyway, so why not kill two birds with one stone?
+
+Of course, for now, it was recovery time, but afterward, it was time to farm some dungeons and title upgrades.

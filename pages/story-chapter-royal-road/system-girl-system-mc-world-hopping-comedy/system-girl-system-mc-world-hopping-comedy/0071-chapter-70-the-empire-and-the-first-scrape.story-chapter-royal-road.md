@@ -1,0 +1,171 @@
+---
+id: 43252c10-017e-57be-8a58-4a8a3f8c2e86
+page-type-slug: story-chapter-royal-road
+title: "Chapter 70: The Empire, and the First Scrape"
+slug: 0071-chapter-70-the-empire-and-the-first-scrape
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 71
+ownLength: 2245
+unit: words
+publishedAt: 2026-04-12
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3264688/chapter-70-the-empire-and-the-first-scrape"
+royalRoadId: "3264688"
+---
+
+"It’s a disaster. We need a healer. No, scratch that, we need a high priest."
+
+Ren was kneeling in the dirt of the courtyard, clutching his chest as he’d just taken a stray arrow. He was staring in absolute horror at Lily’s left knee.
+
+There, right below the hem of her tiny denim overalls (a custom order from the seamstress that Ren had spent way too much time designing), was a red mark. It wasn't bleeding. It barely even qualified as a scrape. It was a smudge of pink skin where she had tumbled onto the grass.
+
+Lily, who was now twenty-one months old and practically running everywhere, looked down at her knee, then up at Ren’s terrified face.
+
+She patted his cheek with a slightly muddy hand. "Dada otay. Shh."
+
+"I am not okay," Ren moaned, dramatically leaning his forehead against her shoulder. "You're hurt. The world is a cruel, sharp place with gravity and friction. They grow up so fast. Next thing I know, you'll be asking for carriage keys, then you're moving away, and then I'm just an old man eating cold soup by myself."
+
+Lily patted his head clumsily. "Silly Dada."
+
+[Ana: You do realize she’s consoling you over her injury, right? She’s barely two and already carrying the emotional weight of this family.]
+
+Ren ignored the voice in his head. He glared up at the small, floating green blob hovering guiltily a few feet away. Leafy, the Primal Spirit, had condensed down to the size of a grapefruit and was currently trying to hide behind a rosebush.
+
+"This is your fault," Ren accused, pointing a finger. "You were playing tag with her. You darted left, she went left, and boom. Pavement."
+
+Leafy drooped. The bright green light dimmed to a sickly, apologetic olive color. A feeling of profound regret, I will be more careful.
+
+"See that you are," Ren grumbled, finally picking Lily up and settling her on his hip. She immediately grabbed his earlobe and started twisting it.
+
+Ahem.
+
+Ren turned. Sylas was standing a few feet away, holding a clipboard and looking incredibly tired. The butler had developed a permanent squint over the last six months, a byproduct of dealing with dwarven contractors.
+
+"Master," Sylas said, his voice dry. "If the medical emergency has concluded, we have matters to attend to. Borin and his crew are packing up their gear. We need to run the final walkthrough before we sign off on the estate."
+
+Ren sighed, shifting Lily’s weight. "Finally. It took them almost half a year to build a house and a restaurant. I know we kept adding things, but come on."
+
+Sylas adjusted his glasses. "Well, sir, they did become unusually... enthusiastic about the finishing touches. I believe Borin personally sanded the floorboards of your study five separate times."
+
+"He was just stalling," Ren snorted. "He wanted to keep my Miyabi knife for as long as humanly possible. I bet he sleeps with that thing under his pillow. I’m getting it back today if I have to pry it from his cold, calloused hands."
+
+"Quite right, sir. Shall we begin the tour?"
+
+Ren nodded, stepping onto the stone path. It was time to see what all his spice empire money had actually bought him.
+
+They started in the central garden. It was a massive, sprawling space designed specifically for a toddler to exhaust herself in. It was bordered on four sides. To the east lay the dense, ancient forest where the spirits lived. To the west, the path led out to the main road and the ocean. To the north sat the newly built main estate, tucked securely against the small cliff where they had found the Fenrir pups. And to the south, a large, crystal-clear pond mirrored the sky, backing right up against the tree line.
+
+Right in the dead center of the garden stood the monument.
+
+It was a life-sized statue carved from a single block of black marble. A massive, snarling Fenrir is standing guard over a stone slab. It looked exactly like the mother wolf buried beneath it, and it matched the crest on Ren’s signet ring perfectly.
+
+As they walked past the flowerbeds near the pond, Lily started squirming and waving her arms frantically.
+
+"Nan-nan! Pop-pop!" she yelled.
+
+Two older elves, covered in dirt and wearing wide-brimmed straw hats, looked up from a row of blooming fire-lilies. Mira’s parents smiled widely, waving back at the little girl. They looked entirely different from the broken, hollow shells Ren had bought at the Union. They had put on weight, their skin had color, and they actually laughed now.
+
+Ren waved back, but he felt that familiar, awkward tightness in his chest.
+
+It was the Mira situation.
+
+Over the last few months, Ren had developed a massive, undeniable crush on his head maid. She was smart, fiercely protective of Lily, and she had a dry sense of humor that caught him off guard in the best ways. But hypothetically speaking, he literally owned her contract. He held the legal right to dictate her entire life, right down to who she could marry.
+
+That power dynamic made his skin crawl. He was a firm believer in mutual respect. Hitting on an employee who legally couldn't say no to him was the grossest thing he could imagine. Firing her to make her "free" so he could ask her out would just yank her away from Lily and terrify her parents. So, he kept his mouth shut, treated her like a highly valued manager, and awkwardly avoided eye contact whenever she smiled at him. It was exhausting.
+
+[Ana: Speaking of marriages, you legally control...]
+
+What now? Ren thought.
+
+[Ana: Sylas and Cynthia. Have you noticed they've been making heart-eyes at each other over the soup pots for months? I'm pretty sure they're waiting for the restaurant launch to be over before they come to your office and beg for permission to tie the knot.]
+
+Ren stopped walking for a second. "Really? I mean, I knew they were together, but marriage?"
+
+[Ana: You have a really good, loyal staff, Ren. You should do something nice. Throw them a beautiful wedding on the beach. Pay for the whole thing.]
+
+Ren smiled. "That's actually a great idea. Put it on the to-do list."
+
+[Ana: Done. I put it right underneath 'Find a way to violently threaten any boy who tries to court Lily in fifteen years'.]
+
+"Make sure that one is highlighted in red," Ren muttered.
+
+They left the garden and approached the main house. It was stunning. White marble, dark timber beams, and wide balconies that caught the sea breeze. It was entirely too big for one guy and a baby, but Ren wanted space to grow.
+
+From the house, they took a paved path back toward the forest. But they didn't stop at the tree line. They walked right in.
+
+Ren hadn't just built staff quarters. He had built a village.
+
+When the elves had first set up their tents, they naturally gravitated toward the trees. So when it came time to build, Ren just let them design it themselves. The result was a full-blown, authentic elven settlement tucked into the ancient woods.
+
+Small, cozy huts made of shaped wood sat at the base of the massive oaks. Looking up, there were elegant treehouses connected by swaying rope bridges. The spirits had actually moved closer to the settlement, finding the elves to be much better neighbors than the dwarves. Glowing wisps of light zipped between the branches, acting as natural lanterns in the permanent twilight of the canopy.
+
+Historically, this was how elves were meant to live. But in the modern Kingdom of Dolaria, elven villages only existed under the strict jurisdiction and ownership of a high-ranking noble. It was a massive status symbol for old-money families to have an "authentic elven grove" on their land.
+
+When Ren started building his, the state inspectors had come sniffing around almost immediately. They wanted permits, they wanted bribes, they wanted to know why a newly minted Baron was hoarding so many elves.
+
+Then they found out Ren was the guy making the instant noodles.
+
+The inspection turned into a casual tea visit where the government officials spent two hours begging for an increase in their supply quota.
+
+The instant ramen had become a cultural phenomenon. It was a military asset. Soldiers deployed to the frozen northern borders were motivated to join the army purely because of the hot, spicy beef soup in a cup. Returning veterans swore up and down that the instant rations had saved their lives and boosted their morale so much they won battles just to get back to camp to eat.
+
+The Royal Army had essentially demanded a monopoly. They signed an ironclad agreement: Ren couldn't sell the bulk crates of ramen to any other nation or private mercenary group. In exchange, the state paid a staggering, eye-watering sum every month directly into his guild account.
+
+But Ren was a merchant at heart. He had managed to sneak a clause into the contract. He was allowed to sell individual cups at his own storefront, strictly limited to two per customer per day.
+
+He pitched it to the generals as a PR move. "Think about it," Ren had said. "Veterans coming home and wanting a taste of the glory days. Civilians wanting to try the legendary 'Warrior's Broth'. It builds patriotism."
+
+The generals ate it up. And now, Ren had a dedicated revenue stream that basically printed money.
+
+Sylas led him out of the forest and toward the front of the property, facing the coastal road.
+
+Here stood the crown jewel of the estate. The Seaside Inn.
+
+Originally, the massive three-story timber building was going to be the staff quarters and a storefront. But since the elves had built their own village in the woods, Ren had a lot of extra space.
+
+The top two floors had been converted into hyper-luxurious, exclusive rooms for special patrons. High-thread-count sheets, enchanted fireplaces, balconies overlooking the ocean.
+
+The ground floor was split into two. The left side was Ren’s shop. The shelves were stocked with jars of mayonnaise, blocks of curry roux, packets of MSG, and the newly acquired, highly regulated instant ramen.
+
+The right side was the fine dining area. Dark wood tables, velvet chairs, and a massive open kitchen where guests could watch the chefs work. This was where the high-end stuff would happen. The expensive steaks, the complex stews. The duck.
+
+Ren walked through the dining room, nodding at the polished floors. "It looks good, Sylas. Very good."
+
+"Wait until you see the back, sir," Sylas said, opening the rear double doors.
+
+They stepped out onto the beach.
+
+The Beach Restaurant was an entirely different vibe. It was casual, loud, and open to the sea breeze. Several large, thatched-roof gazebos were spaced out along the white sand. In the center was a massive, open-air grill area.
+
+Waitstaff would deliver drinks directly to patrons lounging in imported canvas chairs right on the beach. This was where the messy, delicious food would be served. The chili crab, the fried seafood, the grilled skewers.
+
+"It's perfect," Ren breathed, listening to the crash of the waves. "We actually did it."
+
+Lily wiggled in his arms, pointing at the ocean. "Wa-wa!"
+
+"Yeah, that's the water, kiddo. We're gonna sell so many crabs out of that water."
+
+He turned around to head back inside, only to find Borin standing there, looking like he was walking to his own execution. The dwarf’s beard was braided neatly for once, and he was holding the black lacquered box containing the Miyabi knife.
+
+"It's done, Lord Fenris," Borin mumbled, holding the box out with trembling hands. "The final nail is hammered. The paint is dry. You can do the inspection."
+
+Ren took the box. He didn't even open it. He just slid it into his inventory.
+
+Borin let out a small, tragic whimper as the blade vanished into thin air. "I tried to replicate the folding process," the dwarf confessed, sounding broken. "I spent four nights at the forge. I couldn't get the temperature right. The edge keeps chipping. It's dwarf-magic, I tell you. Or elf-magic. It ain't natural."
+
+"It's science, Borin," Ren smiled, patting the dwarf on a meaty shoulder. "You guys did amazing work. Seriously. The estate is flawless. I'll have Sylas authorize the final payment, plus a ten percent bonus for the crew."
+
+Borin’s eyes widened. Dwarves loved craftsmanship, but they loved gold almost as much. "Ten percent? You're a fair man, Lord Fenris. A bit weird with the food, but fair."
+
+"Go get paid, Borin."
+
+As the dwarf scurried off to find the butler, Ren walked back into the fine dining room. He stood in the center of the empty restaurant, looking around. Tomorrow, they will open the doors to the public. Tomorrow, the real test began.
+
+He set Lily down on the floor. She immediately toddled over to a table leg and started trying to peel a sticker off it.
+
+"We're ready, aren't we?" Ren asked the empty room.
+
+[Ana: The inventory is stocked. The staff is trained. You've got enough MSG to salt the ocean. We are as ready as we're ever going to be.]
+
+Ren pulled a small, sealed parchment envelope from his inner pocket. He broke the wax seal and slid out a heavy, embossed card.
+
+It was an invitation to be copied and sent to all his acquaintances.

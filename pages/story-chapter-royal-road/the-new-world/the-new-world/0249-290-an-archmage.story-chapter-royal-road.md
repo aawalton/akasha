@@ -1,0 +1,201 @@
+---
+id: 2c770c58-95e2-59a8-8f33-2fb62c71d652
+page-type-slug: story-chapter-royal-road
+title: "290 An Archmage"
+slug: 0249-290-an-archmage
+partOf: the-new-world
+position: 249
+ownLength: 3114
+unit: words
+ownProgress: 3114
+publishedAt: 2021-03-01
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/639771/290-an-archmage"
+royalRoadId: "639771"
+markedReadAt: "2026-06-29T21:29:39.642Z"
+---
+
+I leaned back, gawking at the two different mana types. Torix moved them back and forth, and I kept my gaze locked on them like they were two headless babies. Ah man, bad similes aside, Torix created a pool of quintessence before allowing all the mana types to wisp away. I blinked,
+
+"So...what the hell happened?"
+
+Torix pointed above his status, and I analyzed it.
+
+Torix Worm, the Harbinger's Erudition(lvl 10,000(Cap: 15,000) | Class: Archmage | Guild: The Harbinger's Legion...)
+
+I spread out my hands, "So you got a new class too, huh?"
+
+The lich beamed with pride and joy, "But of course. It wasn't precisely easy to gain the skillpoints required, but I've hacked away at this for a while now. Unlocking it was only a matter of time."
+
+"So, I'm guessing the class is how you're making the new manas?"
+
+"It is. While it didn't unlock them all, it did drastically ease the manas production. I, over the last little while, managed to unlock all three advanced types, which gives me an absurd manner of flexibility. I only recently unlocked quintessence, which was by far the most difficult. That being said, I wanted to showcase my strides all at once."
+
+He puffed out his chest, "Seeing your flabbergasted face was more than worth the effort. Just as well, given my excellent usage of limited resources, I can say with finality that I'll be a force within the guild."
+
+I imagined him riding on an undead dragon with a legion of zombie wyverns behind him. It seemed right.
+
+"Man, I can't believe you guys are getting advanced classes before I even unlocked mine."
+
+Torix rolled his fire eyes, "I'm certain yours is without equal and will likely outdo my own with ease. For now, however, I'm pleased that for once, I surprised you instead of you surprised me."
+
+I grinned, "Alright, you got me, I'll admit it...What else did the class give you?"
+
+We both leaned over as he opened his status sheet. He was eager to show me the benefits of his class, just as I was excited to see them.
+
+They were massive.
+
+Torix Worm, the Harbinger's Erudition(lvl 10,000)
+
+Strength – 2,271 | Constitution – 2,569 | Endurance – 6,479
+
+Dexterity – 1,104 | Willpower –29,578 | Intelligence – 38,215
+
+Charisma – 18,348 | Luck – 13,104 | Perception – 7,429
+
+Health: 1.4 Million/1.4 Million | Health Regen: 2.8 Million/min
+
+Mana: 5.6 Million/5.6 Million | Mana Regen 7.7 Million/min
+
+Stamina: Infinite | Mass: 683,830 pounds |Height: Actual - 9'8 (2.94 meters) | Damage Res - 97.5%
+
+Phys Dam Bonus – 32,735% | Damage Bonus – 45%
+
+Archmage - Allows the fluid usage of all mana types simultaneously. Increases mana regeneration, mana, willpower, intelligence, and charisma by 30%. Spells cast 50% quicker, basic grimoire skills require no charge up period or grimoire use, and forbidden tier spells unlocked for grimoire implementation. Cipher knowledge is no longer forbidden. Forbidden tier research unlocked. Allows the learning of arcane, antimatter, and dimensional magics.
+
+I stared at the archmage description, along with his beefed-up stats. Re-reading it, I pointed at the passage, "Do you mind running this by me real quick? Some of this I'm not familiar with."
+
+Torix leaned back, putting a skeletal hand on his chest, "Why, I thought you'd never ask." He coughed into a hand out of habit,
+
+"Ahem, the first ability gives me the usage of these advanced mana types with ease once learned. While I have yet to discover the method of fusing the manas, I have ascertained their individual uses. This should allow me to do many things, such as bolstering my undead with quintessence or creating soldiers with primordial mana."
+
+He turned his hand in a circle, "That isn't the only avenue for their usages, however. I could send an army of my summons mad using the wild hunger of ascendant mana. I will use quintessence during my lectures, augmenting my student's ability to learn. I'll be able to craft specific teaching chambers using primordial mana, complete with guides made for the sole purpose of teaching."
+
+Torix's eyes flared brighter, "I can concoct individuals with minds expressly made with my insights. They shall share and showcase the best nuggets of knowledge I've gained, and that will define their existences. I can curate experimental environments for my research, perhaps create plagues that inflict pain or poisons that muddle the mind."
+
+Torix's eyes turned red, "And I'll be showcasing tortures unbounded by my previous limitations."
+
+A tense moment passed before Torix's eyes turned blue again, "Though I'll reserve that for those that deserve said treatment."
+
+A chill ran up my spine as I gave him two thumbs up, "You got it, chief."
+
+Torix waved his hands, "All that being said, there are numerous other benefits my archmage class has given me. The stat boost, while simplistic, is appreciated. I can always use more mana and stats. As for the passage regarding specific spells, well, you've seen that in action."
+
+I raised a hand, "Oh, like when you used the mobile silencing aura."
+
+"Precisely. That is an example of an elementary quieting spell and casting that usually requires the formation of several magical paths and runic configurations. It's nothing overly complex, mind you, but it's still a hassle to do without preparation. I believe I've done so in the past, but I oftentimes pfrepped those instances."
+
+I raised my eyebrows, "Always aiming to impress, huh?"
+
+He cackled, "Hah, naturally. What else did you expect of me? Regardless, the other aspects of the class are long term. That would seem to be the meat and bones of an advanced class update - they grant access to otherwise inaccessible things. These new doors can be opened to unveil new horizons otherwise left hidden."
+
+I slowly nodded, "It's like you're tearing down all these walls Schema built around you, huh. That's cool."
+
+"I have a penchant for agreeing. These newfound magics will inevitably strengthen my own offensive potential greatly as well. Combine those abilities with my bolstered magical flare, and I'll become a lich of great renown. And here I believed my magnum opus was used during my first ascension as a lich."
+
+Torix lifted his hands, "This, this means I will manifest as a galactic presence, given time and preparation. I will unfold an endless night on our enemies, and with my mind, I'll unleash devastation on those that would oppose us. They'll howl as their souls are torn and ripped asunder, and those screams will fall on deaf ears."
+
+The lich steepled his fingers, "They'll know the terror of a lich unbounded."
+
+The people around us let off a cold sweat before I crossed my arms, "Hell yes...but I think you terrified everyone here."
+
+Torix peered around before raising his palms to everybody, "Oh, don't mind me, everyone. I'm merely showcasing my plans to our guildleader. Continue as you were."
+
+Everybody hustled, fearful of Torix's wrath. Even I felt daunted by his energy, but it was good knowing he was on our side. I gave him a nudge, "It's good to see you're keeping up with me. For a while, I thought I'd leave you behind."
+
+Torix shook his head and scoffed, "Oh, I'm certain when your class is unlocked, all comparisons between us will end. Of this, I have no doubt...Speaking of classes, how close are you to unlocking yours? You began your investment long before I did."
+
+"I'm like, twenty-seven points away or something like that."
+
+Torix froze in place. An awkward, tense silence passed over us before I murmured, "Uh, you ok?"
+
+Torix jeered, "Twenty seven points or something like that...Wow, Daniel, I understand you can be single-minded at times, but even I am flabbergasted by your ability to close out distractions. In this case, I believe one of those distractions would bolster not only your abilities but our guild's overall morale. After all, we pulled back from Blegara, and our troops need a reason to continue fighting in this war."
+
+He threw up his hands, "And you could serve as said motivation. We can brand it as such - The Harbinger was waiting, and his class has arrived. May he have mercy on our enemies. That would explain the solace without expressing weakness. This, this takes priority over everything else."
+
+I shrugged, "Eh, we needed to get the Omega Strains. This was coming after all that."
+
+Torix sighed, "Well then, the Omega Strains are harvested and being processed as we speak. This is the perfect place to learn a few new skills, no matter what they are. Let us go and train in anything for the next few hours. That should just about do it for your class unlock."
+
+I rolled my shoulders, "How about some mental combat?"
+
+Torix interlocked his hands behind himself, "You're on, disciple."
+
+We paced out towards the golems' chambers as they unloaded Omega Strains. In this space, a team of mages helped hover the Omega Strains into wooden crates, making sure to avoid contact with them for now. My golems picked up these crates, taking them towards a new, industrialized room down the hall.
+
+I snooped at all of that as Torix and I walked towards an empty part of the golems' training center. Already feeling the pressure, Torix and I bowed to each other before I gripped my fists a couple times,
+
+"So, what's the intensity this time?"
+
+Torix peered up before staring at me, "Let's try full force, shall we?"
+
+In an instant, his mind linked to mine, and it extended like a spear into my psyche. My vision blurred before he extended out his grasp, ripping and tearing in all directions. It ached like rusty hooks flaying my skin off. Without pain resistance, I'd of been crippled in the initial assault, let alone the powerful follow up.
+
+But I'd maxed out that skill long ago.
+
+I regrouped my mental base, regaining control of my senses and memories. Torix retreated, and as he did, I lurched out through our telepathic connection. He deflected and darted around my assault, and like a child swinging his fists in frustration, my retaliation proved ineffective.
+
+I wasn't one for giving up, however. I kept pressuring him, and Torix bounded around my attacks. He repositioned his mind, turning into a squirming medusa. From each piece of his consciousness, he exerted an individual pressure. This multipronged attack combined with his fluidity and dodging, enabling tricky assaults that evaded my own.
+
+At this point in our practice, I'd take an absolute beatdown of punishment before snagging Torix a few times once he exhausted himself. This approach, while a winning strategy, wasn't exactly the most effective fighting style. It relied on my superior stats, and beating someone who was my equal like that wouldn't work.
+
+Using my big old brain, I theory crafted a few ideas executing via a different mind strain. I facepalmed after a few seconds. I was literally using the skill I should be attacking Torix with. Bolstered by this new idea, I created several individual, congruent mind strains. These consciousnesses handled different aspects of my mental warfare.
+
+One handled the offensive aspects, the other dealt with the defensive measures. The last mind strain was the smallest fragment, and it coordinated the two. This line of communication kept the two minds working together well. Instead of attacking with all my force, I let out sharper, more precise jabs. At the same time, I deflected and blocked some of Torix's retaliations.
+
+Now, I wasn't going toe to toe with the lich all of a sudden, but I did improve my odds substantially. This effort continued, my minds coordinating better with time, and my mental wounds less substantial as the battle waged on. Torix still remained composed, his hands interlocked behind him, but I could sense more tension in his mental movements. They weren't made with the same effortless ease as earlier. There was a 'flex' to them they once lacked.
+
+That signified effort, and that was excellent. Bare minimum, this meant Torix would exhaust himself faster than on average. I still didn't have the same offensive potential that he did, however. Splitting my mind further, I made a strain that brainstormed ideas for improving my combat. After an hour, I got an idea.
+
+I used another of my skills, Knowledge Maker, and I reviewed our previous bouts as we fought. This required changing one of my split minds into a reviser and a recheck-er. It skimmed our old fights, and it took notes on Torix's patterns or openings. It didn't find many, the ancient lich having kept his game on point over our many spars. Despite Torix's relentless and methodical style, there were still opportunities here or there.
+
+I had two of my mind strains talk with each other, the planner and the note taker. They came up with mini-plans for my other, primary attacking consciousnesses. They then created varied assault patterns that alternated every few minutes. At this point, I pressured Torix plenty, the old lich having unlocked his hands and leaned forward. His eyes flared with fury, his effort spiking far more than usual.
+
+The ancient sorcerer adapted to my new approach, and he implemented unusual attacks of his own. He shifted his offensive patterns, wielding his mind like a pointed spear and a parrying shield. I kept my minds working to their fullest extents, cycling through old attacking diagrams and attempting advanced maneuvers. At some point, all these disparate actions clicked in place, and I pressed that advantage.
+
+On the backfoot for once, Torix used runic work and his newfound grimoire spells to level the playing field. With those new tools and a bit of quintessence, I fell into the pressured side once more. This trend continued, Torix emboldened by his newfound success. His attacks enhanced in volume, each one carrying lethal intent. Torix's defensive and offensive measures fused into one, becoming a cyclone of both.
+
+He ripped holes through my consciousness, his full force unleashed. I never brought out this kind of intensity from the guy before, but I still stood my ground when faced with Torix's mind. I shifted, turned, planned, revised, and disciplined my approach. I worked out my old plans, keeping the best of them, and I improved those approaches, using feints, flanking, and multi-faceted attacks.
+
+We ended up entering a flow to our combat, one that let us lose track of time. By the end of our sparring session, I found myself more taxed than after receiving a complete beatdown. Taking damage was much more comfortable than flexing all these new, mental 'muscles,' so to speak. It left me with a slight, dull headache, one numbed by my pain tolerance.
+
+Finishing up our spar, we leaned against a wall nearby. Torix gave me a nod of approval, "Now, that was an actual match. You've yet to beat me on equal footing yet, but I must say, that was a good attempt. The best so far, in fact."
+
+I rubbed my temples, massaging out some mental fatigue. I'd recover quickly, and even being a little tired, it felt good to face a challenge like this. Torix waved a hand, "So, have you completed the class requirements yet?"
+
+I shrugged, "Eh, maybe. I'll check."
+
+I opened my status, and I found a surprise waiting for me.
+
+Congratulations! By fusing the unique skills Knowledge Maker, Bulwark of Logic, and Congruent Mind Strains, you've created the mythical skill, A Manifold Mind. 92 Skillpoints rewarded!
+
+A Manifold Mind(lvl 13) - You've honed your mind in many ways, exceeding your peers. Now that mind exceeds expectations. A Manifold Mind allows the creation of multiple consciousnesses, each of them close to full power. Effectiveness and the number of minds increase with higher skill levels.
+
+It was one of those skills I wished I'd made years ago. Holding multiple minds working at the same time, well, that was godly stuff. It contained a mystique about it I couldn't match with most skills, let alone at the mythical level. Even if it acted only as an evolution for Congruent Mind Strains, that was still better than most legendary skills.
+
+Why? Because it would save me so much time.
+
+I showed Torix the skill, and he leaned back in awe, "Now, normally, your mythical skills aren't precisely the kind I'd envy. After all, they tend to be the smashy sort. This one, however, is very different. That is the exact kind of skill I'd like more than any I currently have. Given my mind's limitations, I'd love to see what I could accomplish with that ability."
+
+Torix pressed his hands together as if giving a prayer, "Please, use that to its fullest extent. It would be a shame to see it go to waste."
+
+I grinned at the skill, "Oh, I will. In fact-"
+
+I got to work, thinking up several minds doing different things. One of them hummed the furnace, handling the meditative effort. The other one let me continue talking with Torix,
+
+"I was already firing my furnace, but now the conversion is better. It also distracted me some, so I can give you more of my full attention."
+
+"While that certainly sounds useful, it does beg the question - what else will you use it for?"
+
+I peered up, thinking of fighting, "Well, I know I have a lot of different styles of combat I can use. Normally, I'm limited to using one or two at a time, like gravitational fighting or elemental casting. This will let me use several attacks at once. If anything, this is like a multiplier for my abilities in general."
+
+Torix stared at the empty, concrete room, "It worked wonders during our mind magic battle. Normally, I give you quite the thrashing before your relentlessness overcomes my skill. This time that came to pass as usual, but with far less reliance on the unyielding aspect. I can't imagine what you'd do in combat with that skill. It sends a shiver up my spine imagining it."
+
+I opened my dimensional storage over my forearm, like a shield, "I'll use this more, along with its reversing capabilities. I have a few other tricks up my sleeve too. My ambient auras, pressure-based abilities, gravitation, telekinesis, even my enhanced senses, I could really tear a battlefield up if I used all of it all at once."
+
+"It sounds rather absurd in practice. I'll enjoy seeing that used on Blegara. That being said-" Torix leaned close,
+
+"Let's see the class, shall we?"
+
+I smiled, putting all my points into the Sovereign tree. A message popped up.
+
+Congratulations! You've unlocked a rare class variant - The Sovereign.

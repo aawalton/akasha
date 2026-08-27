@@ -1,0 +1,83 @@
+---
+id: 507ce938-f439-53dc-9fc5-01cee238bfea
+page-type-slug: story-chapter-royal-road
+title: "Chapter 484: Echoing Willow"
+slug: 0010-chapter-484-echoing-willow
+partOf: system-change-system-universe
+position: 10
+ownLength: 1993
+unit: words
+ownProgress: 1993
+publishedAt: 2024-12-04
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/1938491/chapter-484-echoing-willow"
+royalRoadId: "1938491"
+markedReadAt: "2026-06-29T19:57:03.744Z"
+---
+
+Chapter 484: Echoing Willow
+
+The Echoing Willow hadn’t reacted much to Derek and the rest of his group’s approach. Why would it? There was no telling how long it had lived in the abyss, and there was also no telling how long it had been since a legitimate challenger—or group of challengers—had attacked. So, while it had tried a couple of times to wrap its roots and vines around Derek and the others, those times had been done very casually, like someone shooing a fly away from their food with their hand.
+
+There was no real intent in anything the willow had done so far. Yes, Avery’s arrows had split a few roots, but, other than a quick, albeit overwhelming, screech, the willow tree had not initiated any real attacks. However, Derek knew that all of that was about to change as he watched the ball filled with stars and space fly slowly forward—becoming bigger and bigger as it built momentum.
+
+“Prepare yourselves,” Derek shouted.
+
+“Don’t have to tell me twice,” Edgar replied, then jumped into the air with a pair of lightning wings on his back.
+
+“Right behind you,” Avery said. A pair of dragon wings sprouted from his shoulder blades, and the archer also took flight.
+
+“Since I’m not sure if I’ll be able to provide adequate offense, I’ll keep an eye out on everyone,” Alanah said, after which she slowly transformed before his eyes. Then, in her intense but sultry voice, said, “If I see anyone in danger, I’ll rush over to support them since I’m the fastest here. I’m also carrying a large supply of potions on me, just in case we need them.”
+
+“Good idea,” Derek replied. With Alanah playing the role of support, he could rest easy knowing that he wouldn’t need to worry about anybody—not that he thought he would need to, anyway. After all, he trusted everyone he brought with him to be able to take care of themselves for the most part. But there was always a chance that things wouldn’t go as planned. “In that case, I’ll recover my mana, then go see what else I can do.”
+
+“Then I’ll go get a better view,” Alanah, in her siren form, said, then disappeared from sight.
+
+‘Neat trick,’ Tyron said via Telepathy, since he had his ears covered and was unable to hear anyone.
+
+‘It is,’ Derek sent back to the man. ‘Alanah’s playing support and the other two are trying to figure out what they can do to help. I’m about to do the same. I’m banking on you, Rocky, and Silvi to be our heavy hitters for this fight. Hopefully, fire will work on this tree just like it works on all other firewood.’
+
+‘Rocky is currently setting up a parameter about 100 feet out from the tree,’ Tyron said. ‘It’s going to take him a while to make his way all the way around it—especially with all the roots down there that he has to avoid. But when he finishes making it, the monster will hopefully have to say goodbye to its root system. I’ll act as soon as he is finished.’
+
+‘Great,’ Derek said. ‘In that case, looks like I need to go make myself a distraction.’ Without another word to Tyron, Derek jumped into the air. Moments later, his attack finally finished growing and sped up. In seconds, the giant ball of stars and space hit the body of the giant willow, and everyone held their breath. Slowly, the orb began sinking into the body of the tree until it stopped—only half of it was visible.
+
+I guess the bark on the tree is sort of like armor, Derek thought to himself. The attack passed through it just like it did all the earth shields and barriers when I attacked that army with it. Interesting…
+
+Once the forward motion of the attack stopped, multiple roots shot up out of the ground. They flew high until they reached the attack. The roots prodded and probed the orb—it seemed like the tree didn’t know what was going on or what it was hit with. The attack hadn’t caused any damage yet. Just like the army before, the tree wasn’t going to know what hit it until it was too late.
+
+That was when it all started. The gravitational pull of the attack began sucking in all loose leaves and even pulling a lot off of the vines. The outside bark around the attack also started peeling off and disappearing into the orb. The roots and vines that were prodding it before were sucked into it like a bowl of ramen. It was a sight to see.
+
+After that, the second part of the attack began. This was the part that Derek was excited about. He’d only seen it once, but it seemed to be the perfect attack against such a monster. The small stars began circling in a ring around the black ball of space. Then they expanded. Derek’s mouth formed into a big smile as he watched the circling stars begin to cut into the tree like a giant chainsaw.
+
+In the grand scheme of things, he didn’t think the ability was doing all that much damage because of the size difference between it and the tree, but the attack was at least going to give his team a good idea of how to go about everything.
+
+Derek hadn’t thought the tree’s echoes would get much louder and more potent than they were after Avery shot it with his arrows, but he was wrong. It seemed like the Echoing Willow was able to turn its echoes up a notch when being hit with real damage. Unfortunately, there was no way for Derek to know how much damage the skill was actually causing.
+
+Finally, the stars finished their sawing and retracted back into the orb. From there, the black sphere exploded, then expanded out, encompassing a rather large portion of the tree’s body. Then, after a few seconds of the ball staying static, it imploded into itself.
+
+After that, the screeching of the tree was turned up again. This time, I bet that it’s at its limit, Derek thought as he turned to look down at Tyron, who was standing still with his eyes closed and breathing deep. The smith was affected by the tree’s screeches, but it seemed that he was at least able to stay in control—even if he was rendered immobile for some time.
+
+Dozens of roots broke through the ground and shot at the smith in an instant, and Derek prepared to intercept the attack. However, this wasn’t needed, as Alanah appeared out of nowhere and cut the roots dead in their tracks. Their eyes met, and they both nodded at each other. Yup… just like I thought. There was no point in worrying, he thought to himself.
+
+‘My turn,’ Derek heard Silvi’s voice chime in his head as he turned to look at the destruction caused by his boot’s ability. The black hole had taken out an extremely large portion of the tree. Derek’s smile grew wider when he realized that, though he could see the tree working on healing itself, lingering bits of space from his attack were keeping it from easily doing so.
+
+Derek finally saw Silvi zip by his head in her pot lid. He wasn’t sure what her aim was, so he followed her with his eyes. Originally, he thought that the bunny was going to go straight in and hit the tree in the same spot that Derek had—stacking all the damage in a single area—but it looked like his companion had another idea.
+
+Once she got close to the tree, she changed her direction and shot straight up into the sky. Derek lost sight of her when she made it to the tree’s canopy. ‘Oh well,’ Derek thought, then flicked his wrist and summoned Harbinger. If Silvi wasn’t going to stack the damage, then he would just have to do so himself.
+
+He kicked off the void and shot forward. Mid-flight, he reached forward with his free hand and activated Spatial Collapse—aiming it anywhere within the tree behind where his first attack hit. With an opponent so large, it was impossible for him to miss—though he did not see where the attack hit, either. He just knew that it hit somewhere inside the willow.
+
+If nothing else, then his use of Spatial Collapse got the entire tree’s attention. Before he was able to reach within twenty feet of it, he was pelted by a flurry of razor-like leaves. They circled around him like a tornado, and a few that reached his hands and face even left cuts on his open skin a little deeper than a paper cut. I’m glad I’m the slow one out of the bunch unless it’s in a straight line, he thought to himself as he activated Absolute Nullify and used it to redirect and nullify the attack. If the others were slow, these leaves could prove fatal.
+
+Once the leaves were thinned out, Derek deactivated his skill and continued on—seconds later, he found himself standing inside the spot created by the spatial implosion. He activated Absolute Nullify once again and placed it behind him—using it as a shield to block any magical attack thrown at him while his focus was trained on the tree’s inner layers.
+
+With his feet firmly planted, Derek let the void flow through his body and into Harbinger. If anything were to be able to find a vital area in a giant piece of wood like the willow, it would be one of his go to void attacks. Derek thought for a moment about using Whirlwind Slash to increase the area covered, but doing so would miss a good portion behind him—plus, this was a real fight, not one where he should be focusing on his unleveled skills. So, with that in mind, he activated his level 20 Multi-Strike, then combined it with his level 20 Sweeping Slash.
+
+Once as much of his void mana was channeled into Harbinger as possible, and the deep purple projection of his blade was massive and almost completely solid, he swung with all his might. The tip of Harbinger’s blade bit into the inner part of the tree in front of him and left a deep cut from one side to the other, and the blade arcs from the skill followed in the blade’s footsteps and caused the cut to become deeper and deeper until it was multiple feet deep.
+
+The arcs of void energy had shot out and into the tree and disappeared. Derek didn’t know what kind of damage they were doing—if any. He hoped that they would find something important to sever, but there was no way to know for sure unless the Echoing Willow gave some kind of physical reaction.
+
+With a shrug, Derek continued to channel the void into Harbinger over and over, then activate any and all skills that he thought may be able to help—this included Whirlwind Slash, Spatial Rend and Spatial Collapse when it came off of cooldown. He hacked and slashed away at the wood—treating Harbinger like a wood-chopping ax. As a backup plan, he wanted to lose some of Harbinger’s durability so he could repair it with Material Drain if things got hairy.
+
+And, if all else failed and he and his companions weren’t able to fell the tree, if he could get deep enough inside the thing, he could always channel his inner Silvi and create a void tunnel with Void Travel, and hope that opening the portal inside it would cause some kind of extra damage. Unfortunately, unlike the Starfury Leonaris, the tree seemed to be completely solid inside, so it didn’t look like his companion was going to be able to just appear and cook it from the inside out.
+
+Speaking of Silvi, Derek thought. I wonder how she’s fairing up there.

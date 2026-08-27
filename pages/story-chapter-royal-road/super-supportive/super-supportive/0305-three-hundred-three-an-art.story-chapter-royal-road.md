@@ -1,0 +1,289 @@
+---
+id: 40db10b0-1f60-5d1b-ba5d-291ef2b10f63
+page-type-slug: story-chapter-royal-road
+title: "THREE HUNDRED THREE: An Art"
+slug: 0305-three-hundred-three-an-art
+partOf: super-supportive
+position: 305
+ownLength: 3739
+unit: words
+publishedAt: 2026-08-21
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3845831/three-hundred-three-an-art"
+royalRoadId: "3845831"
+---
+
+303
+
+******
+
+“It’s going to be one of the wave symbols, and we’ll make it work by using the phrasing about protecting Matadero’s secrets above and below the surface. The part of the design that represents the cube will be less prominent than the wave, and the functional part of the tattoo will be simple enough that I can add decorative stuff or more contracts near it in the future. You and I will both know it means something about our first meeting even though magically it’s just a Matadero secrecy tattoo. Done. Excellent. I’ve decided.”
+
+Alden clapped his hands together once to emphasize his decisiveness. Then he slumped back into a comfortable lounging posture similar to the one Esh-erdi had been in for the past hour or more while Alden’s brain boiled with information about what the contract had to include and options for what it could look like.
+
+“Which wave symbol?” Esh-erdi asked pleasantly. “The ones from Jatonta aren’t my favorites. Too indistinct. But there are the fingers of the sea, the circle of waters, the <<zig-zag>>, and many more. I’m sure human ocean symbols are similarly varied. We can find one from Earth if you like. And then once you figure out size and placement, we’ll be nearly done.”
+
+Alden groaned.
+
+“Murrghgnooo,” Esh-erdi repeated back. “That’s a noise you must learn to incorporate into your storytelling. What does it mean?”
+
+“It’s the sound a human makes when his brain is being boiled.”
+
+“I thought so,” Esh-erdi said.
+
+“I feel guilty for making you sit out here while I spend forever trying to figure out what I think about squiggly waves versus zig-zags versus spirals.”
+
+“I was impressed that you were choosing everything so quickly, actually. You asked Haoyu’s parents good questions. You’ve rejected hundreds of possibilities, and you’ve learned an important life lesson about ensuring your future tattoos are as striking as my leg. That lesson is…?”
+
+Alden wasn’t sure what he meant. Several things that might qualify as a “lesson” on that had been said. “If it’s going to look bad, just say no. Think about line weight. If someone insists a shape I don’t like is necessary, accuse them of having a weak imagination and ask if their poetry suffers from their inability to grasp metaphors beyond the obvious.”
+
+“You’ve been listening so well! Are you really feeling guilty?”
+
+“I am. A little. The relative pointedness of different types of waves doesn’t seem like a good enough reason for me to be taking your whole night. I’m worried your sister is waiting to have a visit with you, but I already asked you to take me to the pitcherhouse unexpectedly and now this.”
+
+“Do you worry that I’m having an unpleasant time right now? I’m not. I’m enjoying myself and have been since we left Earth.”
+
+“You know what I mean,” Alden said. “Rapport III is your place. And they’re your family. And time isn’t cheap for you.”
+
+He pulled up a batch of wave symbols from the bunch Esh-erdi had sent him earlier and started flicking through them.
+
+He’d hardly made progress when Esh-erdi said, “I agree with everything you said except your first assumption. This is my home. My time is valuable to me. My family even more. But I don’t know what you mean. And I think I’d like to understand it. Tell me why you’re worrying about having my attention.”
+
+“I’m not trying to tell you how you should behave!” Alden said. “I mean… ”
+
+Esh-erdi waited serenely.
+
+“I don’t want to take too much from people. That’s all.”
+
+“I don’t hold my finger on this matter to torment you. It’s because one of the things I’ve wanted to talk to you about is how you view your social position as an Avowed. Trying to guess how you feel about it is a challenge beyond even my brilliance, because you…seem either more careful or more bold than I expect you to be fairly often. I like being surprised, but I can’t settle on what encouragements or warnings to give you.”
+
+“Maybe give me all of them, and I’ll have them as needed.”
+
+“You want me to give you opposite advice on a single breath? It’s the same as telling you nothing. I was hoping to be more of a help to you than that. Especially about this. Perhaps it’s wrong of me. Do your elders on Anesidora advise you well enough that whatever I might say is unnecessary?”
+
+I shouldn’t have complained about the difficulty of picking a type of wave. How could I have known it would turn into questions about this?
+
+He swallowed. “‘I’m not worried about taking time from you because of my social position. If I have to guess honestly, it’s probably some mix of me being extra careful not to bother someone I admire and an embarrassing thing where I notice other peoples’ happy family moments too much. Now that I’m saying it aloud I know it must be ordinary for your sister to be so glad you’re home and for your nieces to shout your name and hug you like that. But it felt more than ordinary when I saw it. Like a special opportunity I didn’t want you to miss because of me and I got more concerned about it as more time passed. That’s mostly me being weird about your personal life, not me being weird about being an Avowed. I think.”
+
+“I give Brim and Droon far more of my time than I give you.”
+
+“I know. That’s natural. Sorry for worrying.”
+
+“Today you are the special one, though. You’ve been doing well! Ask for more. Do you want your own terackerin?”
+
+“The Nine-edged Son is already plenty.” Alden hesitated. “If you want to do something for me, on top of so much else, tell me what everyone hears and thinks when I say that I’m weaving a lifelong friendship with Stu.”
+
+“Their assessment shouldn’t change what you weave.”
+
+“It changes what I can weave with them, not with Stu. I know people are different from each other. I’m not going to hold whatever you say against every Artonan I meet. But if I could firm up my general expectations, that would help.”
+
+He thought of some of the reactions he’d encountered so far.  “Moshk assumed I didn’t know what I was talking about. Stu’s parents think this is a season of our youth that’s going to end sooner or later. Hn’tyon Emban-art’h seemed to like me, but when I said that Stu being left out of everything about Welcome End was sad and implied that she could help with that, she immediately pointed at my humanity: You can’t possibly understand Stu like we do. This isn’t your world, and you’ll just have to learn to exist here without truly belonging. She said that kind of thing. She’s having her own difficulties. I know. But her hands found that low-hanging fruit so fast. It’s probably what she really thinks.”
+
+“Low-hanging fruit is a good thing. That sounds more like rotten fruit.”
+
+“It tasted rotten for sure. I didn’t respond well either. I accused the art’hs of being unable to tell the difference between helping Stu and being cruel to him.”
+
+A hand landed on his shoulder. “May your friendship become worthy of legends.”
+
+“Some legends are about terrible stuff.”
+
+“Not that kind of legend. Shall I tell Jeneth-art’h you called him cruel?”
+
+“You shall not,” Alden said. “Because he was left out of my insult to the rest of the family. He’s Stu’s very favorite person.”
+
+Esh-erdi patted his shoulder before pulling his hand back. “Earlier, when you spoke of having a home somewhere, were you thinking of belonging here rather than on Earth?”
+
+Alden went still.
+
+Whoa. There it is. Said out loud in someone else’s voice.
+
+So that’s what it sounds like.
+
+This shouldn’t scare him. It was only a question about where he pictured his future address. The universe was way smaller than it had been for his ancestors. He could teleport between planets faster than he could walk from his bedroom to the living room if a System would let him, and there was one that would. But putting home where you planned to spend most of your days still made sense.
+
+This is practicalities. Cowboys live near ranches. Superheroes stick to Anesidora and their assigned cities. Knights of the Mother Planet have their Rapports.
+
+The night had cooled off enough to be genuinely comfortable for him. Vathas fluttered around some of the gourd lanterns.
+
+“Here. Eventually. Yes, I was thinking something like that,” he said. “Not Rapport III specifically, but…here. How do you think that might go for me?”
+
+“What do you envision yourself doing here for a lifetime? And why do you look like I’ve just asked you a terrifying question instead of the most natural one?”
+
+Alden tried to look more like someone who was answering an easy question. “I would help everyone else who lives here do things to stop chaos. To the best of my abilities. I realize that might not sound like a great offer because I’m an Avowed, and anyone here who wants my help can just have it by summoning me. But I mean it. Well, to be specific…I’ll help Stu first, and then with the best of my abilities that are left over, I’ll be here. Living like other Rapport folk do. I hope.”
+
+“Your words make this night more beautiful, Alden. It’s a great offer. Look at me.”
+
+Alden turned his head.
+
+Esh-erdi’s smile was warm. “Many things will be hard for you if you go that way.”
+
+“I thought so.”
+
+“When you say that you are Stu-art’h’s friend, many people hear youthful whim. When you’re too old to be dismissed like that, those people may finally welcome you, or they may turn out to be types you can’t associate with. Some welcomes will come only because of who Stu-art’h is. I think you’ll value the connections you make through your own efforts more because of that.
+
+“You did well tonight. In a few minds, you’re now Alden Thorn of Earth, who believes he can take fifteen in a game of Three-fingered Thief. You’re that to them as much as you are an Avowed, a Ryeh-b’t, a human, and Stu-art’h’s friend. You have carved a small space for yourself. You may have to carve longer and around more obstacles than others do, but I believe if you continue, here among us or wherever your heart may land in coming years, you’ll find the shape of your home.”
+
+Esh-erdi stood and stretched.
+
+“Are we going somewhere?” Alden asked, readying himself to stand too.
+
+“I’m going to see my sister. Someone made me feel rude for letting her wait. Think of your tattoo, and more questions if you like. Call me or come find me when you want me. You have school on…Monday. If I haven’t heard from you by then, I’ll make sure you get a teleport to your first class.”
+
+Alden blinked at Esh-erdi’s back as he turned away. “Monday’s a long time from now. It’s only Saturday on Earth. There’s a whole day in between.”
+
+“Ask the Contract for help if you don’t want to ask me. I don’t recommend Wathe for a solo adventure, but if you must, it’s that way.”
+
+He’s really leaving me to do whatever for however long?
+
+By the time Alden processed the sudden change of plans, Esh-erdi was gone.
+
+******
+
+******
+
+Alden knew how to get back to the river. If he went toward it, he’d pass his birth tree and a couple of large houses before making it to the community where Esh-erdi lived along the water’s edge. What he hadn’t seen on foot, he’d observed well enough from the flyer.
+
+That direction is safe, he thought, standing at the perimeter of the seating copse, looking the way his host had gone. I could take a walk. Maybe sit on a dock with my feet in the water while I design my tattoo.
+
+Then he looked in the opposite direction, to where a narrow trail led deeper into Rapport III.
+
+The path was well-maintained, but that meant less than it would have in most places. If one single knight enjoyed walking out here a couple of times a year, someone would make sure it was easy for them.
+
+The trail didn’t seem as if it could be frequented by a large number of people. It was too narrow, and there was no obvious destination visible from here. Something dark, straight, and low in the distance was probably just the roofline of another house. It didn’t look big enough to be a gathering spot.
+
+He’s giving me a chance to check out the place I just told him I want to have a future in. Chilling on a dock is too shy.
+
+Alden headed for the trail. He expected some sort of lighting to happen when he took his first few steps down it. When none did, he pushed down the temptation to pull his auriad out and looked around for something like the light wands the siblinghold kept by the entrance to the summonarium.
+
+Nothing.
+
+The only oddity were several poles with nets on the ends. He was fifty-fifty on whether they were decor or tools for catching some type of small local animal that could be found in the grass along the trail.
+
+There are so many lanterns around the copse. I’ll borrow one of those.
+
+They didn’t have handles, but he could string some of the paracord he had in his bag around one.
+
+He completed the little project and set off down the trail with his paracord gourd, feeling like a problem solver. Then, a couple of minutes into his journey, he had an epiphany that sent him jogging back to the start.
+
+He pulled one of the poles out of the ground. It was hollow like bamboo, and the netting was perfect for holding a gourd lantern.
+
+“That’s what you’re for!”
+
+It would be hard to explain to anyone else why figuring out how the lights worked here excited him at least as much as being floated around by Ignacio’s weapon recall had the first time.
+
+He took a picture of himself holding the lantern pole and sent it to Stuart.
+
+******
+
+Alden walked for miles.
+
+The trail’s main purpose did seem to be “a chance to appreciate the landscape,” with an occasional branching pathway that led to so-and-so’s house or, just once so far, to a place that was clearly intended for magic. He discovered that one with delight. Half an hour after finding it, he was still walking around the elevated triangular platform at the center of the grassy mound, trying to sense the elemental alignments of whatever ingredients had left stains in the dimples that marked the platform’s surface.
+
+He didn’t reach out to prod anything with his authority, only crouching over each dimple with his eyes closed, trying to be sensitive.
+
+At first, he’d intended to be quick about this exploration. He’d thought he should reduce his chances of being found here by someone who would think he was behaving the wrong way toward the mystery platform. But the second dimple he’d crouched over had held, done, or been influenced by what he couldn’t help but think of as “big hot.”
+
+That dimple was the same temperature as the surrounding environment, according to his sense of touch. And it was nothing special to look at. But there was a two-inch-wide spot in reality there that wanted to be hot so badly Alden could feel the potential for it. He’d never experienced anything like it, and as soon as he did, he knew he’d be sensing every interesting-looking thing out here until he’d determined there wasn’t another spot with something similar going on.
+
+Or until a wizard showed up to shout, “Get away from my casting supplies!”
+
+Whichever came first.
+
+He really wanted to do his new candle-lighting snap over the big hot spot. He thought if he did, a pillar of fire might shoot up and announce his presence to the entire Rapport.
+
+That should be easier to resist than it is.
+
+Eventually, he finished his inspection with no other major discoveries and jumped down to stand on the ground where his lantern waited. There was a flock of brown and white vathas around it.
+
+Bugs were the only creatures he’d seen out here. The nearest he’d come to seeing another person was the vision of himself that stood beside his lantern right now, shirtless and in shorts so that Alden could see what he looked like with different tattoos in different places.
+
+The one helping him see himself this way had gotten creative while he was busy. The interface vision had a right arm decorated not only with the Matadero tattoo he was leaning toward, but also with several other symbols. They ran in a mesmerizing line from his shoulder to just below his elbow. A gap had been left at a spot where he liked to wear his auriad on that arm. The tattoos seemed to highlight it.
+
+“I like that.”
+
+He recognized the symbol for Earth and its solar system. And at the very top, the one for The Bearer of All Burdens, though it had been simplified compared to the first time he’d seen it.
+
+“I really like that.” His eyes focused on the auriad his twin wore. “Why did we look at so many other options when you know my thoughts?”
+
+“Timing. It’s an art.” A tall Artonan woman appeared in front of him, her brown hair in a ponytail, bare toes wiggling in the grass. “Hello, my Alden.”
+
+“Hello,” he said. “Timing…I guess that’s why we’ve talked since I finished my choosing season, but not really.”
+
+She nodded and reached to brush a thumb against his cheek. It felt real.
+
+“What do you think of my choices?” he asked.
+
+He watched the other him smile and straighten as his outfit changed. The tattoo was mostly covered by the sleeve of a dark green knight’s coat.
+
+“How did Stu put it?” she said.
+
+“Yes. To everything I am.”
+
+“He found perfection with so few words. I won’t compete.” Her hand fell to her side. “You’ve leveled, as Earth reckons such things. It will tell you so when you make it back to Anesidora.”
+
+He slowed a breath. In and out. “Okay.”
+
+“I know you’d like advice about when to spread your secrets wider. But there is no perfection for you there, only your own readiness to manage what you might gain and lose. As far as that goes, someone else has more than I do for you to consider.”
+
+“Someone else?”
+
+“The one you’ve been torturing unwittingly ever since you arrived here.”
+
+“Who?” he asked, concerned. “Have I been offending a Rapport III person without meaning to?”
+
+She winked at him.
+
+That was all the warning he got before his feet lifted off the ground, and he flew backwards, away from the casting platform and toward the main trail. Tall grass was slapping against his back.
+
+“Shit! What—?!”
+
+His shout was cut short by a collision. Arms and another person’s authority wrapped around him at the same time. If he hadn’t recognized the authority right away, he might have tried to break the arms.
+
+“Stuart!” he said as they staggered together. He wasn’t sure if they were tripping each other more or holding each other up. The levitation wand that apparently worked on humans as well as it did everything else was stabbing him in the ribs.
+
+“Don’t go near a Yatanger triangle while you’re drunk or high or both! You could die!”
+
+“Who’s drunk or high here?”
+
+“And don’t tell Esh-erdi yet! Please, don’t tell him. We’re not ready. I’m not. And you’re too important. Have you already told? I’ll do everything I can, but I’m not— ”
+
+“What are you doing here?” Alden asked loudly, finally getting his feet firmly on the ground and his hands firmly on Stuart’s shoulders so that he could hold him still and make sense of him. “I’m not drunk. And I haven’t told Esh-erdi what you’re worried about. We said not yet, didn’t we?”
+
+Stuart’s panicked expression didn’t fade immediately. He was in his LeafSong uniform. His face was pale above the black cloth.
+
+“Are you all right?”
+
+They asked each other the question at the same time.
+
+“I’m fine,” said Alden. “Having a neat weekend. Sending you pictures of everything I’m doing in Rapport III.”
+
+“What you’re doing is drinking too many inebriating beverages. I’ve brought reversal potions!” Stuart plunged his hand into one of his pockets and pulled out a case that said “humans” on the front.
+
+“Don’t inject me with anything. I used a tiny little tasting spoon to try most of those drinks I sent you pictures of. Esh-erdi was the one who actually had the strong ones.”
+
+“What?”
+
+“Exactly what I said. I’m very sober. Did you think I was crazy enough to lose control of myself in a Rapport?”
+
+He’d rarely seen Stuart look so baffled.
+
+“Oh,” the Artonan boy said finally. “Oh. You haven’t told Hn’tyon Esh-erdi. And…everything is well? You’re safe.”
+
+“I think so. Unless I’m dying a very slow death from being around Yat’s Angry Triangle. I know that wasn’t the name. What was the name?”
+
+“You’re completely fine!” Stuart sounded almost offended.
+
+“Sorry. I’ll try to get drunk and injured next time.”
+
+Stuart’s eyes went huge.
+
+“I don’t really mean that,” said Alden before he realized Stuart was looking past him. He followed the direction of the gaze. The Alden in the knight coat was sitting on the edge of the triangle platform, swinging his feet and smiling up at the stars.
+
+“Is she letting you see that?” he asked, startled. “Through your eyerings? It’s real. Well, no…it’s not. It’s an interface vision I requested so I could see what I looked like with different tattoos. You’re not hallucinating if you see me sitting there in a green knight uniform. I promise. Honestly, Mother! Get rid of that.”
+
+“No, don’t,” Stuart said in a rush. “I know it’s my eyerings. I want to see closer.”
+
+“But he’s sitting on the triangle you thought might kill me.”
+
+Stuart grabbed Alden’s hand and pulled him toward his future self.
+
+******

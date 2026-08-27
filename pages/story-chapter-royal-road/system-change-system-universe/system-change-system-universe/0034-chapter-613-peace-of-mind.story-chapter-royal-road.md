@@ -1,0 +1,159 @@
+---
+id: 51610d20-eeee-5c15-9676-62ffee2f667f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 613: Peace of Mind"
+slug: 0034-chapter-613-peace-of-mind
+partOf: system-change-system-universe
+position: 34
+ownLength: 2144
+unit: words
+ownProgress: 2144
+publishedAt: 2025-12-19
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2860191/chapter-613-peace-of-mind"
+royalRoadId: "2860191"
+markedReadAt: "2026-06-29T19:57:49.771Z"
+---
+
+Chapter 613: Peace of Mind
+
+“Get rid of them?” Derek questioned. “So, what you’re saying is that if I get in a fight and ever have to use any void-related abilities, I should make sure to kill whoever I was fighting? Because if I don’t, they will likely report me to this Dorian guy?”
+
+“Sort of,” Dave said with a shrug. “You don’t necessarily have to kill them, but you really must do whatever you can to keep them from spilling your secrets. You do have that prison, so that is always a possibility.”
+
+“A prison that, if I use it, makes it so I can’t use my Void Travel skill because it will harm the people inside,” Derek said with a sigh. “What else? These are temporary solutions to the problem. Do you have any ideas for more permanent solutions?”
+
+“You could always just grow strong enough to make it too costly for the Void Emperor to go after you,” Dave replied. “There is no way for me to know your affinity, but I have a feeling that it is higher than either of us may think. You may be able to obtain that strength much sooner than you think possible.”
+
+“Okay… getting stronger was a given,” Derek said. “Anything else?”
+
+“Yes, there are always other ways,” Dave said. “I would look for an item or a skill that can keep your aura close to you. The reason you have to worry is that some skills and auras are very dense with your affinity—void, in your case—and the energy just flows freely away after it is lost, making it easy for someone to find and track. If you find an item or skill that can rein that in, then you wouldn’t even have to worry about releasing your aura. Now, your Void Call skill is a different story. Don’t use that until you are ready.”
+
+“How would this item… work?”
+
+“There are different kinds, but essentially, you can think of it as a barrier that doesn’t let your aura leak out. Like… you would be the center of a bubble or dome, and even if you release your aura, it will only move so far away from you. Depending on the item, the same could be true in the opposite way. The barrier could also make it so that any tracking skill—especially one looking for wisps of aura—would just hit the barrier and bounce off, thus not being able to penetrate and find your aura.”
+
+“That sounds like the way to go,” Derek said. “Where can I get a skill or object like this?”
+
+“I would certainly search the System Shop whenever possible,” Dave said. “Though the prices of such items are exorbitant, so you will have to make the credits before you can purchase one. Of course, you could also find a smith who specializes in such items. One thing is certain, though…”
+
+“What is that?” Derek asked.
+
+“Be careful from whom you buy such an item,” Dave said. “If the price is cheap, and it looks too good to be true, then it is. I am certain that Dorian always has many of those types of items up for sale. It’s not like we’re the first people to think of this. If you buy one of his pieces of equipment, then it’s possible that it has a tracker built into it. Try to stick with officially vetted items from reputable sources.”
+
+“Thanks for the warning,” Derek said. “So far, it doesn’t seem like I’m losing much, and if I can find an item like the one you’re talking about, I could even use my new skill without worry. I didn’t plan on using Void Call much right now, anyway. What else are you thinking?”
+
+“Well… that brings us to the first thing you need to try to do once you ascend,” Dave said.
+
+Derek leaned forward to listen, and Dave snapped his fingers. Suddenly, a black card-like object appeared in the elf’s hand. The man flipped it over and looked at it a few times, then he reached out and handed it to Derek.
+
+“What’s this?” Derek asked as he examined the card from top to bottom.
+
+“As you may know, it is not easy for me to bring items here to give to you,” Dave said. “This card… this is my gift to you for sticking around to do me that favor.”
+
+“O…kay…” Derek said. The card was cool to the touch and heavy. It was some kind of metal, if Derek had to guess. “What do I do with it?” he asked.
+
+“That… is ten years of peace of mind,” Dave replied.
+
+“Ten years of… peace of mind?” Derek questioned. “What do you mean by that?”
+
+“Exactly what I said,” Dave replied. “I know that no matter what I say, you will insist on taking some of your friends with you, correct?”
+
+“Yes,” Derek replied.
+
+“You will use your Time Prison and ascend with your friends—who will be protected by the Origin System,” Dave explained. “It is a good idea. There is no safer way to travel than via Origin System teleportation. I’ve done the research, and your idea is viable. It has been done to a lesser extent before by a spatial mage ascending from one system tier to another. Though, I wouldn’t get carried away. You can’t take everyone. Not only would that hurt me, but I doubt the Origin System would take kindly to it.”
+
+“So it will work?!” Derek ignored the warnings and picked up on the fact that Dave was saying that his plans weren’t only possible but probable.
+
+“Yes, it will work,” Dave said, but pointed at the card again. “But that is the only one of those that I have been given. They aren’t given out very often. You are lucky that I don’t have many friends, or I may have already used it.”
+
+“You still haven’t told me what it is,” Derek said.
+
+“Yes, yes… I’m getting to that part,” Dave said. He then just stared at Derek with a small smile. However, after a minute, Derek noticed that his eyes looked very distant.
+
+“Well?!”
+
+“Oh…” Dave half-jumped. “I’m sorry about that. There is always something going on that requires my attention. Now that my family knows about the invasion, it seems that I am going to be unbearably busy soon.” He shook his head, then focused back on Derek. “Well then… that card. It is a guest card—or visitor pass—to the First City.”
+
+“First City?” Derek asked.
+
+“Yes,” Dave replied with a nod. “It is also known as Origin City. It was the first city created by the Origin System when it appeared.”
+
+“And what does being a guest get me?” Derek asked.
+
+“Peace of mind,” Dave said with a chuckle. “But in all seriousness, it really does. Origin City is the only city in the System Universe where the Origin System takes an active role in ruling. By that, I mean it is the only rule in the city. There are no City Lords, Mayors, or any other kind of city-related positions. It’s all done by the Origin System, and the Origin System knows all.”
+
+“O…kay?”
+
+“There is no crime,” Dave finally said.
+
+“No crime?” Derek asked. “None? Like… at all?”
+
+“That’s right,” Dave said. “Once you and your people are inside the city, you will be safe. Like I said, the Origin System knows all. For example… say someone is assassinated in the city. Not only will the Origin System strike down the assassin, but it will also go after the person who hired the assassin. And if the conspiracy goes even deeper, it will go after the person behind them… and so on.”
+
+“Oh… wow…” Derek muttered.
+
+“Indeed. One must not mess around in Origin City,” Dave said. “You have to be very careful, but so does everyone else. Now, there can be official duels to the death and the like. As long as it is approved by the Origin System, it is fine. So, the first thing you should set out to do once you ascend is try to get to Origin City. That card will allow you to teleport there and get inside. However, it is limited.”
+
+“How so?”
+
+“Ten,” Dave said. “That card allows you to stay in the city for ten years. It allows you—the owner of the card—to bring ten people with you.”
+
+“What if I keep them in my Time Prison?” Derek asked.
+
+“No,” Dave said with a shake of his head. “The Origin System will see it as smuggling. The only way that is okay is if it is a bonded companion since they count as part of the other person.”
+
+“So I have to have a completely empty Time Prison to enter?” Derek asked.
+
+“No,” Dave said. “The Origin System knows all. If it is actually being used as a prison and not just for transport, then those imprisoned won’t count. It can tell if your plans are nefarious. One tip… don’t try to cheat the system—especially when inside its most controlled city.”
+
+“Got you…” Derek said. “That means I’m really going to have to think about things. I hope ten is enough…” He sighed as he began counting people in his head. He hit ten really quickly and still had more to go. He clicked his tongue. “That… is going to be hard.”
+
+“I am sorry,” Dave said. “It is the best I can do when it comes to that.”
+
+“It’s fine,” Derek said. “It’s way better than nothing.” He then frowned. “Also, how will my taking people with me hurt you?”
+
+“That… is a long story,” Dave said. “Actually… most won’t hurt me in the slightest. But a couple of your friends… it will hurt to lose. Especially the crafting girl and the ‘old’ elf.”
+
+“Marrick? But he’s ascending soon, anyway,” Derek said.
+
+“Yes… and he would be doing so through the Davenresh System… but he won’t be if he goes with you,” Dave explained. “The Davenresh System is… rewarded for each ascension. But we will leave it at that. It is not something that you need to know… maybe ever. Just know that I am losing out on some things by letting your friends go with you. But you are also ascending through the Davenresh System and skipping a tier. So, I believe I will still come out ahead in the end even though I am losing out.”
+
+“Don’t take this the wrong way,” Derek said. “But… could you stop them? You couldn’t even come get me and had to wait by a dungeon entrance.”
+
+“Could I stop them?” Dave smiled. “Derek… do you know that this is not my body? This is nothing more than a weak avatar—almost a projection even. I am currently inside my abode, in my training room, dealing with dozens of things. You… are the only person on this planet that I wouldn’t be able to stop. Well… and Silvi since she is a part of you.”
+
+“I see…” Derek said. “How… strong are you? I’ve never been able to get a read. Is it because this is just an avatar? So it has no energy flowing through it?”
+
+“Yes and no,” Dave said. “Here, prepare yourself. I’ll release a little aura from my avatar.”
+
+“Okay,” Derek said with a snort. He focused and even let his aura come out. He was sure that whatever Dave released would be strong, so he really wanted to prepare.
+
+“Good,” Dave said. “Are you ready?”
+
+“I am,” Derek replied.
+
+Dave waved, and a bubble appeared around Silvi. That was Derek’s first sign that he might have messed up. Finally, Dave grinned at Derek, his eyes turned a sandy brown, then everything went black.
+
+“Derek!” Silvi’s voice chimed as Derek slowly opened his eyes.
+
+“Huh?” Derek shook his head to try to clear the cobwebs. “What happened?”
+
+“I showed you a little bit of the aura that my avatar holds in its state,” Dave said.
+
+“Oh… how long was I out?”
+
+“Just a minute,” Dave said. “Not long at all. I woke you up almost as soon as you fell unconscious.”
+
+“Master Davenresh!” a voice suddenly sounded, and a figure rushed into the room. “Your aura…”
+
+“Sereph… thanks for checking in,” Dave said, then waved his arm to dismiss the man. “I was just showing Derek something. No need to worry. You may go.”
+
+“Yes, Master Davenresh,” Sereph said with a bow, then slowly backed away, but not before eyeing Derek.
+
+“Okay… so you are… strong as hell,” Derek said. “That’s good to know.”
+
+“Something like that,” Dave said. “Now, where were we?”
+
+“Origin City,” Derek said.
+
+“Ah yes…” Dave muttered. “Let me tell you a bit more about Origin City and what you should focus on if you are able to make it there.”

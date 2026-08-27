@@ -1,0 +1,107 @@
+---
+id: 723b3855-b3d6-5118-93e9-1256c07b79eb
+page-type-slug: story-chapter-royal-road
+title: "209 Sending A Message"
+slug: 0168-209-sending-a-message
+partOf: the-new-world
+position: 168
+ownLength: 1411
+unit: words
+ownProgress: 1411
+publishedAt: 2019-06-01
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/367843/209-sending-a-message"
+royalRoadId: "367843"
+markedReadAt: "2026-06-29T21:26:37.575Z"
+---
+
+I jumped backward, landing on the lava surrounding the arena. Sheom did the same, sliding under the surface of the glowing slop. As she glided towards me, I slammed my palms into the molten rock. I cooled the molten magma, the bright red darkening across the entire arena in seconds.
+
+Sheom was caught up in the cooling stone, stuck in the crystallizing granite. As she struggled to break to the surface, I jumped up before flying further. Moments later, I pulled myself down, augmenting gravity with my own magic.
+
+Like the weight of the world, I crashed down onto the stone above her, rock reduced to powder in my wake. The heat of my impact left glowing stones around me, the kinetic wave shell shocking sheom. Without the ability to retaliate, I jabbed my hand through solid rock,  uprooting by the nape of her neck. As I pulled my fist back, a Sentinel grabbed my arm, and another blocked my attack in front of me.
+
+I'd won.
+
+The entire crowd went silent, even the chattiest reporter stunned. Sheom returned to her senses moments later, looking around. As she looked up at me and around the crater I formed, her eyes widened with realization. She gasped,
+
+"What happened? I didn't even get to fight."
+
+"That's right," I brushed some rock off my shoulders, "I didn't give you a chance. I cooled the magma to stone, cutting off your reserves of mana while making your mobility null."
+
+She heaved for a few breaths staring at the Sentinels, "That...That's impossible. Why did you not do so before?"
+
+"I didn't think of it," I said with a shrug. "Two reasons for that. I didn't need too, and here, I was making a point. You'll see why in a few moments."
+
+Before Sheom replied, Kiki Mosk shook out his surprise and raised a hand,
+
+"And the Gray Giant seals the deal with a stunning display of dominance."
+
+The crowd shouted out from the zeppelin, the uproar bursting across the arena. It was a sound and final defeat for the gialgathens. All their champions rose to fight me, and all of them fell to my might. To the espens, it was as satisfying as hearing Emagrotha's fall during the war.
+
+Without any recourse, many gialgathens didn't know how to react. It was as if a realization dawned upon all of them at that moment - their epoch had ended. A torch was being passed, their dominance over Giessian politics no longer present. Now, the espens would come to rule over the planet, their evergrowing abilities unmatchable.
+
+Within less than a single generation, they turned from slavemasters to second class citizens. The change would be slow, but they all understood it. They could no longer pretend that 'dirtwalkers' were beneath them. Here and now, a dirtwalker was the strongest on the planet. Here and now, I was a heavy heel slamming them into the dirt.
+
+At least, that's what they believed. As the dust settled from the event and the cheering, Kiki Mosk turned a hand to me, "And that concludes the Honoring of Lehesion. We have a new winner. Let's let the champion collect himself and prepare for the reward ceremony in two weeks. Goodbye-"
+
+"Actually," I said while raising a hand, "I have something to say if you wouldn't mind."
+
+Kiki tilted his head, glancing between the cameras and me, "Uh, are you certain you wouldn't rather wait for your victory speech until the award ceremony?"
+
+I shook my head, "This isn't a victory speech. I don't intend on giving one."
+
+A bead of cold sweat poured down Kiki's face, "Then what else would a gladiator have to say after his victory?"
+
+"Quite a bit." I lifted myself into the air, and Kiki moved aside so that I took center stage of the arena. I projected my voice and ambiance as far as I could. With all my focus, I weighted my words with an aura of importance. This was pivotal if I was to succeed. It was go time.
+
+"Did you all see how Sheom was helpless before me?"
+
+The gialgathens booed, their growls growing angry. They had every right to be outraged. That was good. I needed their attention, and this was the easiest way to get it.
+
+"I can tell you right now, that had nothing to do with her ability, work ethic, or her race." I left pauses between each of those points.
+
+"It had everything to do with a single advantage I held over her. I had access to a perpetual, augmenting presence known as Schema. Yes, I worked hard to gain what I had, but if Sheom was given that aid, I do not know the outcome of today's fight."
+
+At this point, I confused the gialgathens until they didn't know what to think anymore.
+
+"I come with an offer and a demonstration today. The offer is simple. If you complete a simple set of tasks, I can give any gialgathen here access to Schema's system. You all were cut off from this valuable resource because Schema believed you all were lazy and slothful."
+
+I spread out my hands, "If there is anyone that knows this isn't true, it's me. I've faced dark monsters hiding within abyssal plains, and I've done so with Chrona Carsiary and Krog Borom. They are noble warriors with principled approaches to both battle and life."
+
+Krog and Chrona flew over, wearing the armor I made them, their stances proud. As they landed on the steel arena, I raised a hand,
+
+"If any of you would doubt the potential worth of my offer, I give you the chance to see something extraordinary. Here are two fighters I decimated in combat merely weeks ago."
+
+Chrona sent a telepathic mumble, "I don't know about decimated..."
+
+I pressed on, "I will battle both of them, one after the other. They will display the benefits of joining Schema's system and clearing dungeons. If after watching these battles you are impressed, then come to me afterward. I will give you armor, training, and a guide on how to join the system. From there, you will evolve, becoming an even better version of yourselves."
+
+I gripped my hand into a fist, "That is the crux of what I have to say; evolve or die. You may watch yourselves wither into nothing, or you can take the next step as a proud and capable people. I believe in your potential. Now all you must do is realize it."
+
+I floated down, "Now watch Krog Borom use his new abilities."
+
+As I landed on the steel arena, I pointed my finger at several cameramen,
+
+"Stream this, or else you'll have to deal with me. Understood?"
+
+A few curt nods and they got the picture. Off in the distance, Helios clapped his hands while laughing. A message appeared in the corner of my vision,
+
+Helios Novas, Ruler of Worlds(lvl 15,000 | Class: Fringe Walker | Giess: 11:44 A.M. 4/6/26) - So you are more than a brute. Color me impressed for once.
+
+That was about as close to a compliment as I could get with that cynical critic. Behind Krog, Chrona flew back onto the rock. With patches of granite or other, darker rocks mixed, the arena was different now. Krog and Chrona wouldn't be able to sap their surrounding mana. With the system unlocking their full potentials, they wouldn't need to.
+
+The more intelligent gialgathens would take note of that detail. As the Sentinels finished carrying Sheom out of the arena, Kiki pulled at the collar of his suit,
+
+"Uh, so...er, this is unprecedented. An impromptu exhibition match after the tournament was over. Wow. Ok. At least ratings will be through the roof I suppose."
+
+He coughed into his hand, "Ahem, well, anyways, we have Krog Borom battling it out with the Gray Giant. Last time the battle didn't last long, the Gray Giant taking the options from his opponent in rapid fashion. Let's see if the result is the same. Are both battlers ready?"
+
+I leaned down, a singularity of mana charged in my blood,
+
+"Ready."
+
+There was a ragged edge in my voice, my confidence from earlier all but gone. I didn't even know if I could beat Krog in a rematch, but I'd be finding out soon. Krog glared at me with the same intensity, his deep voice turning into a low growl,
+
+"Ready."
+
+Kiki raised a hand, "Then let's begin!"

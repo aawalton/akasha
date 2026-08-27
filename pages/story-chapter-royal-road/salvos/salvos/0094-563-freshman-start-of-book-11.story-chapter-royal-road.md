@@ -1,0 +1,145 @@
+---
+id: 4787e2a3-959d-56eb-bb3d-0082b897ff8c
+page-type-slug: story-chapter-royal-road
+title: "563. Freshman (Start of Book 11)"
+slug: 0094-563-freshman-start-of-book-11
+partOf: salvos
+position: 94
+ownLength: 1629
+unit: words
+publishedAt: 2023-06-11
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1241789/563-freshman-start-of-book-11"
+royalRoadId: "1241789"
+---
+
+563. Freshman
+
+It had been a year since the Demon invasion of the Mortal Realm was repelled by the United Coalition of the Human Lands. Many thought that once the war ended, a semblance of normalcy could finally return— after all, the Demon King had been fended off once again. And this time, it didn’t take the sacrifice of the Immortal King Alexander.
+
+There were still plenty of sacrifices that had been made. All for the sake of peace— all for the sake of the future of the Human lands. Unfortunately for those who had fallen thinking that the world could return to normal with their deaths, the aftermath was just as chaotic as the war itself.
+
+In fact, it had taken a while before there was even a semblance of normalcy again. Because a lot had happened in the last twelve months. From the invasion of the Elves, to the outpouring of Demons from the Netherfied Lands, and to whatever unknown threat Helena Warshade and a group of Elite Ranked adventurers had ventured out into the Beastmen Plains to face…
+
+But all of these events were a result of the long-term ripples of the war with the Demons. They had taken months to coalesce— with a lot of buildup and anticipation before they actually occurred. There was, however, a single event which had an immediate effect on the Human lands.
+
+It was an event that wasn’t as direct of a threat as the invasion of the Elves or the outpouring Demons, but it had certainly left its mark. In particular, the entirety of the Human lands had been thrown into disarray. And it was for one reason— all because of a single individual.
+
+Salvos.
+
+The Sentinel of Secely.
+
+The Liberator of the Plaguelands.
+
+The Savior of Silvergrove.
+
+The Lesser God.
+
+And arguably the greatest contributor to the war effort…
+
+She had built quite the reputation for herself over the last few years. Everything she had done from hunting down [Cultists] to surviving the Bloodied Gulf had already given her quite the name for herself. And her fame had only skyrocketed with her actions during the war.
+
+She had even undergone apotheosis at Level 150— she had become a Lesser God even faster than the Immortal King Alexander.
+
+Everyone across the Human lands had to have already heard about her before the war came to an end. At the very climax of the final battle, Salvos sacrificed herself to stop the invasion of the Mortal Realm.
+
+And in doing so, she revealed herself to be a Demon.
+
+The very same creatures who were invading the Human lands. The scourge of the Netherworld. The plague of the Nexeus.
+
+Word quickly spread throughout the Human lands about this betrayal— this trickery. Many didn’t believe it at first. Some even claimed that it was rumors spread by the Sanctuary of Fauna, the Sanctum of Elements, and the Den of Souls to delegitimize her godhood.
+
+But when the Three Honorable Companies, the Vaun Qieur Empire, the Eastern Kingdoms Alliance, the Helbir League, and the rest of the United Coalition of the Human Lands failed to dispute these claims, it became quite evident that they were true.
+
+That Salvos really was a Demon.
+
+It was almost ironic. The girl who had saved the Human lands from the Demon invasion was a Demon herself. It immediately led to speculation— everyone from the Sunmere Republic to the Vaun Qieur Empire asked a single question.
+
+Why?
+
+Why would Salvos go against her own Species to fight for the Humans?
+
+It was a question no one knew the answer to. But they speculated because they could. Those affiliated with the temples accused it of being a trick— they claimed that Salvos had been a spy. That she had simply been earning their trust to glean as much information about the Human lands before returning to the Netherworld to prepare for a real invasion.
+
+Meanwhile, [Bards] would sing of the tragic tale of the exiled princess. They wove a story about the Demon King’s daughter who had fallen for a Human man and rebelled against her own father to save him.
+
+Some adventurers claimed that it was because she had a vendetta against the Demon King. That she was a rebel, and that was why she was so adamant on hunting down [Cultists] and killing other Demons during her time here in the Mortal Realm.
+
+Others were still convinced it was a hoax. Although, they were far and few in between…
+
+Was Salvos truly a Demon? Was she the lovestruck, runaway daughter of the Demon King? Was she a rebel or a spy? Very few knew the real answer to these questions.
+
+And Rachel was one of them.
+
+Nearly four years ago, her father had sold her off to a group of [Cultists] to pay back his debts and loans. She was taken as a captive, going to be used as a sacrifice to summon a terrible Demon. But before she could be killed, Salvos had saved her.
+
+Rachel had seen Salvos in her true Demon form back then. A horrifying monster with four arms and the face of an animal’s skull. But even though most children would run away and scream at that sight, the young girl had been… enamored.
+
+Ever since that day, she had aspired to become just like Salvos.
+
+And finally, her dream was coming true. She smiled to herself as she felt the carriage jolt. The girl raised her head, looking out the tinted glass window. In the distance, she saw towers rising high into the sky— vanishing above the clouds. The sight made her giggle in excitement as she sank back down into her seat.
+
+“Mavos Academy… I can’t believe I actually got accepted!”
+
+Even though Rachel was only twelve years old, she had gotten into the prestigious institution. She had trained hard. She had continued practicing in secret. And even though she had been a [Rogue], she did her best to learn magic when she could.
+
+Just like Salvos.
+
+And Rachel had finally done it. She had gotten her Class advancement at Level 35. They had called her a prodigy— Mavos Academy accepted her because of her accomplishment of this incredible feat as a child.
+
+“Amazing!”
+
+They had praised her.
+
+“You are truly incredible!”
+
+But even as the words of her invigilators echoed in her mind, she didn’t care about what she had accomplished in their eyes. Back then, just like right now, she was only excited about one thing.
+
+That she was going to Mavos Academy.
+
+That she was following in the footsteps of Salvos.
+
+And that she was going to do everything she could to one day see Salvos again.
+
+The carriage continued to roll down the cobbled road as she swayed excitedly to herself.
+
+—--
+
+Rachel reached Mavos Academy soon enough. It was the most prestigious institution in all of the Human lands. And it was also the very same place Salvos had gone to learn space magic.
+
+It was a very rough plan— admittedly, it wasn’t a very well-thought out plan. But Rachel believed that by attending Mavos Academy, she could somehow find her way to the Netherworld. And then in the Netherworld, she’d somehow find her way to Salvos…?
+
+…again, it was very vague. But the young girl would figure it out as she went!
+
+She hopped off the carriage as she hefted an ornate Bag of Holding behind her. With a smile on her face, she turned to the driver and gave him a small curtsy.
+
+“Thank you very much.”
+
+He stared at her hesitantly.
+
+“Aren’t you a bit young to be going to Mavos Academy all on your own?”
+
+Rachel took a step back, before beaming back at him.
+
+“Nope!”
+
+And with that, she took off as the carriage driver shrugged and left the school. Of course, her caretaker, William, had been apprehensive about sending Rachel to Mavos Academy on her own. But she had already proven herself to be more capable than even the [Priest] was in battle. She had also excelled not just in her studies, but also on how to look after herself in the city.
+
+After all, Viechester wasn’t exactly the safest city in the Sunmere Republic. Especially after the company war and everything that had come after.
+
+So Rachel was more than capable of handling herself. She rushed up the steps leading to the Central Square of Mavos Academy. There was already a crowd of students dressed in their uniforms gathered waiting there. She wore a uniform too— albeit, her uniform was slightly oversized, considering that she would grow into it.
+
+The size of the crowd was rather large— not what she expected from a gathering of first-years. But it was also the start of the first academic year in Mavos Academy after its curriculum had been halted for about a year and a half.
+
+“Alright…”
+
+Rachel readied herself as she took a step forward. She spotted an elderly man with a long flowing beard standing at a pedestal overlooking the crowd, ready to give a speed. And she hurried along to begin her plan to see Salvos once again.
+
+“Let’s do this.”
+
+And high up, above the clouds, a gray figure stared down through the window. He saw the crowd gathered far below. He swept his gaze over the sea of faces, laughing and cheering as they were enrolled into the school.
+
+It was a joyous moment for them. But he could only feel envy in his heart. Because he knew he couldn’t join them. Because his uncle wouldn’t let him join them.
+
+Because he was a Wyvern.
+
+And Oriur sighed as he continued looking on, trapped high above the rest of the school, locked in Clayton Skyshredder’s office.

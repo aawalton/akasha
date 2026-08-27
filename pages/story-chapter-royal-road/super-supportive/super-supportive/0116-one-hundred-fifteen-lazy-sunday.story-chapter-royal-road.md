@@ -1,0 +1,421 @@
+---
+id: 61b27b48-89e6-5163-8460-33045d81d516
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED FIFTEEN: Lazy Sunday"
+slug: 0116-one-hundred-fifteen-lazy-sunday
+partOf: super-supportive
+position: 116
+ownLength: 5131
+unit: words
+publishedAt: 2024-02-01
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1502407/one-hundred-fifteen-lazy-sunday"
+royalRoadId: "1502407"
+---
+
+115
+
+[First of all, this is not my fault, Boe. I sent my warnings out to the boater members, then I went to follow up with Laura. I aborted because she was in the process of following up with the Velras. And it sounded like she was asking them for money in exchange for being mind controlled, so I guess she’s not as worried for herself as I was for her. Pissing off one of the richest S-ranks in the world for the sake of people who don’t want help seems like a bad call, so my efforts in this matter are now complete. As long as nobody shows up at my apartment to murder me. If the next time you talk to me I say, ‘Manon is my friend. Aulia is my new mom. Hazel and I are seeing each other,’ please send help.]
+
+It was nearly four in the morning, and Alden had just gotten in bed. He couldn’t decide if there was a point in trying to sleep once you were this far into the next day, but going through the motions seemed like the responsible thing to do.
+
+He read over the message, then he added, [I don’t think they recognized me at Laura’s, so even if they know I’m involved, maybe they don’t know I know they’re involved. Or something. Don’t worry. Do detach yourself from the cat. Talk to you soon.]
+
+As he was pulling the sheets up around his chin, he received a text message from Haoyu asking if he was asleep yet.
+
+[I’m not,] Alden replied.
+
+[I don’t think I can sleep. I’m going to be downstairs in the common area.]
+
+Does he want company or is he just informing me because it’s a weird hour? Alden wondered.
+
+He yawned.
+
+Guess I am tired. I wonder if last night’s sleep even counted considering I spent a portion of it trapped in a school counselor’s office with the System.
+
+His white noise machine was lulling him with fan sounds. His bed was exactly the right temperature. He tried to think of how to phrase a text so that Haoyu would know he was willing to stay up but not necessarily eager to do it.
+
+Alden closed his eyes. Maybe…
+
+Six hours later, he woke to sunlight seeping around the edges of his curtains. He debated the merits of just staying in bed for the rest of the day. When was the last time he’d had a completely lazy Sunday?
+
+Is that even a thing I can do anymore?
+
+Keeping busy had been a coping mechanism since the moment he arrived in intake. And there was plenty to keep busy with.
+
+He braced himself and checked his inbox.
+
+No messages from the boater. No accusations or questions. Nothing.
+
+Maybe I really am done with that shit?
+
+Emotionally he was anyway. Finally. He’d done what he set out to do. If anything else happened because of it, he’d just have to react when it came up.
+
+Did that mean he could he eat unhealthy food and lie in bed until Monday?
+
+Well there’s some unavoidable prep work for gym tomorrow. And Lute wanted to go out with the girls…he might not be in the mood for that after last night, though. Fine. But the comfort food is happening no matter what.
+
+He put on his flannel pajama pants and his slouchiest t-shirt to solidify his intentions to be a normal lazy guy on a normal lazy Sunday.
+
+When he exited his room, the apartment was quiet. “Just me and you, Sunny?” Alden asked the polar bear head.
+
+He stretched his arms, smiled, and placed an order from a diner he’d spotted a couple of weeks ago. It was a retro postcard of a restaurant—aqua vinyl seats, chrome detailing everywhere, and a jukebox playing pre-Contract hits. Not much like the neighborhood diner he’d frequented with Boe and Jeremy. But he’d read the menu online, and it was hitting all the right nostalgia points.
+
+He set himself up at the kitchen table with his laptop to wait on the arrival of his feast. When Haoyu entered the apartment an hour later with a basket full of laundry in his arms, Alden was just tucking in to a mountain of golden hash browns with onions two ways—some caramelized and others cut into thin slivers and batter fried for extra crunch. There were sauces. He was happy.
+
+Then he looked at his roommate. Haoyu didn’t look as cheerful as usual. “Haoyu! Sorry about earlier. I fell asleep in the middle of texting you to tell you I was sleepy.”
+
+“It’s fine. I figured it was something like that.”
+
+“Do you want some hash browns?”
+
+Haoyu started to shake his head, then he eyed the tall mound in front of Alden. “Maybe. Let me set this down.”
+
+He returned without the laundry basket. Several bites of potato and quite a lot of the sticky sweet miso ketchup sauce disappeared into his mouth before he said, “Would it be wrong to buy a car and hit Lute’s family members with it?”
+
+“I understand the sentiment, but that would be murder.”
+
+His roommate stuffed another forkful of potatoes in his mouth. “But is murder always wrong?” he muttered.
+
+“It depends on which species you ask. We humans tend to think it is.”
+
+Haoyu stabbed the potato mountain. “What they did to him was despicable. And I don’t even mean the eye, although that’s bad enough. Of course I wondered why he hadn’t replaced it, but I thought maybe he was scared of having a magibionic implanted. Since that’s not it, there’s obviously some added complication for injuries sustained while Aulia was polluting causality on a nationwide scale.”
+
+“Global,” said Alden.
+
+“What?”
+
+“It’s not like I understand it, but the Gloss probably has global impacts. You were eavesdropping, so you heard me mention…”
+
+Haoyu was blinking at him.
+
+“Maybe you didn’t catch that part,” Alden said awkwardly. “And…now it’s weird if I don’t explain. During the first half of the luck chain, someone traded a B-rank Chainer class assignment to me right before I was scheduled to come here for Hannah Elber’s funeral. Getting that class for Hazel was the main reason for the Gloss. The person who had received Chainer from the System wasn’t here on Anesidora, and neither was I. Lute’s family basically jumped me the second I landed, and by the end of the day, I had one and a half million argold.”
+
+“You should have asked for more,” Haoyu said flatly. “You should’ve bankrupted them.”
+
+“I asked for way less than that. My sense of what these things were worth wasn’t great. Even if I’d been trying to hurt the Velras monetarily I think I would’ve undershot it.”
+
+“If it works on a global scale then she sucks even more,” Haoyu said emphatically. “Whenever anyone does something like that, it makes Avowed look bad. When one of Anesidora’s leaders does it?”
+
+He’s an emotional eater. Alden watched Haoyu shovel more fried potatoes into his mouth. He was glad he’d ordered an indulgent quantity.
+
+“Lute’s mom and his grandmother…” Haoyu was speaking between bites. “When he was telling the story he was saying things like, ‘I should have expected them to trick me after everything else, right? I was stupid to trust them even a little.’ And I was just sitting there thinking, ‘No, you weren’t stupid. You were at a vulnerable point in your life and they took advantage of you. They’re monsters, and you should get a restraining order.’”
+
+He stabbed the potatoes again. “But you can’t say something like that about another person’s family if they haven’t said it themselves, can you? I know Lute hates Aulia, but I don’t think he blames his mom nearly as much as he should. I was so furious about it I couldn’t sleep. And he only slept two or three hours. He took off early this morning saying he had something to do, but I bet it was because he was still upset from seeing her yesterday.”
+
+And Haoyu doesn’t even know what she was doing when we saw her.
+
+Alden slid another plastic cup full of sauce across the table. “It’s not simple to comment on other peoples’ family situations,” he agreed. “They’re so personal, and there’s no way for you to see it from the inside.”
+
+He’d never once appreciated an outsider saying something harsh about his aunt, even if he was angry about the exact same things they were judging her for.
+
+“I went to a pre-selection advice session in eighth grade,” Haoyu said. “After Lute had left school. He transferred to CNH really fast after taking Chainer. I’m not sure it was even a standard acceptance window for Arts students. Now that I’ve heard his story I wonder if he wasn’t just trying to get into a dorm and away from them all as fast as possible.
+
+“At the session, there was a panel of people telling their own selection stories, and one of them said the only choice more life-altering than your class was who you married. And Three-eyed Rhoda—”
+
+They really did have some cool people connected to their school, thought Alden. Three-eyed Rhoda was a famous Adjuster who could cast deconstructive spells on things from miles away as long as she’d seen and marked them in the past few hours.
+
+“—said marriage was so much less serious. ‘You can’t divorce a class. You can’t have a talk with it and ask it to change how it treats you. You can’t go stay in another room to get some alone time. It’s part of you.’ I think the other panelists thought she was putting too much pressure on us because they tried to tone it down with what they said next. But it’s still true. I don’t get to un-be a Brute now. If I ever have doubts, I’ll just remind myself that I took my time and made the best decisions I could. And even if I got tons of help from other people making up my mind, they were completely my decisions. Lute doesn’t get to have that.”
+
+He’s not wrong.
+
+“I almost said something myself,” Alden admitted. “I wanted to comment on how twisted it was that they woke him up in the middle of the night to do it.”
+
+“I know.” Haoyu lowered his voice. “That was…”
+
+“Being yanked out of bed like that? There was absolutely no reason for it except to confuse him and make him feel like it was urgent. Like making a decision right then and there was an emergency. If they’d waited and had a calm conversation about it in the morning, he wouldn’t have freaked when Aulia pointed out that Hazel could still get S any minute and take the opportunity away. He knew it was unlikely, but they had set him up to panic in every way they could.”
+
+They both fell quiet.
+
+“These are really good potatoes,” Haoyu said finally. “Did I eat half your breakfast?”
+
+“They are good. Don’t worry about it. I ordered more than I could handle on my own anyway.”
+
+Haoyu sighed. “And the Gloss didn’t do him any favors here at CNH. Kon was telling me about it yesterday. A girl’s pet died in class while the wordchain was in effect—”
+
+“Whoa, wait! I was under the impression the art kids didn’t like Lute because he thinks he’s better than them at a ton of stuff and he doesn’t…make efforts to hide it. They also seem to think he’s using luck magic to cheat at auditions or something like that.”
+
+Haoyu nodded. “I heard he called one of the most popular third years a hack, and he tested out of all the high school music theory classes because he knew how many nose hairs Mozart had or something.”
+
+That sounds likely, thought Alden.
+
+“But about the pet story—according to Kon, there was a Wright girl Lute had a really obvious crush on, and her friend had a pet alien that she was allowed to carry with her to classes because coaxing it into laying eggs was a project that had been approved by one of her instructors. It looked like a guinea pig crossed with a platypus, and it was the mascot of one of the biggest first year science classes. They even had a pet feed that played at the front of the room beside the instructor’s lecture notes.”
+
+That sounds completely adorable. “I don’t like where this is going for the platypig.”
+
+“You definitely don’t. On the first day of the Gloss, someone got distracted while they were using a skill, and even though they were all the way across the lecture hall, the effect hit the platypig—”
+
+Alden slapped his hands to his ears and shook his head. “Nope. That’s enough. No mental images.”
+
+“The platypig is no longer with us,” Haoyu said simply.
+
+“How was that good luck for Lute?”
+
+“He was sitting right there, and he was comforting the pet owner. He wrapped the body of the deceased up in his scarf so that she wouldn’t have to see it. The girl he was crushing on thought his handling of the incident was gentlemanly I guess. So she asked him out. He must have realized what was going on, and he turned her down. Then when people found out about the Gloss and did the math…”
+
+“It could have been a coincidence,” Alden said in a doubtful voice.
+
+“Nobody can prove it wasn’t.” Haoyu’s tone was equally doubtful.
+
+“And he didn’t do it. It sounds like Aulia performs the Gloss, and she just takes the rest of the family along for the ride whether they want to go or not.”
+
+“Everyone knows that. Or at least suspects it. But if you think about how many things moved to make that one girl suddenly think Lute was dateable when she hadn’t thought it before, it is uncomfortable. They’re probably going to try to make it illegal now that Aulia’s off the High Council.”
+
+“For her to cast that wordchain?” Alden asked.
+
+“Dad thinks so. They’ve tried a few times, but it’s never gotten off the ground. Power bans are so unpopular. And Aulia’s always finding examples of things the past two Gloss uses might have been responsible for that were good instead of bad.”
+
+Lute needs to go on a character repair campaign.
+
+Haoyu was taking in the rest of the scene at the table. Alden’s laptop was there, and strands of paracord, looped and tied in different ways, lay beside it.
+
+“You were trying to prep for gym, were’t you? And I sat down and vented at you. I’m sorry. I just…”
+
+“Want to run over some Velras with a car.”
+
+“That.”
+
+Alden smiled. “It’s fine. I was finalizing my tool choice.”
+
+“You are going with the cord, then.”
+
+“I am,” said Alden. “I messaged Foxbolt since she’s in charge of approving it, and she just got back to me before you walked in. She says even though they’re limiting me, they’ll let me be flexible within the category of weapon I’ve chosen. Any type of rope or line, varying weights on the end, different carrying methods—things like that.”
+
+He looked down at the loops of cord he’d tied.
+
+“I’m glad to be practicing with it. I’ve thought of things I want to try for defense, maneuvering, and rescue. For offense…I’ve maybe got an idea. If we’re still playing Kill Klein.”
+
+“I heard from one of the second years that he’s still doing that game with them a lot. Apparently, once a few people actually manage to lay hands on him, he ups the difficulty.”
+
+“I want to make him use more of the gym at least. It’s disheartening to be in a ten-on-one battle where the one doesn’t even have to run very far.”
+
+“The Instant Corners skill is phenomenal,” Haoyu agreed. “I knew it would be. I’ve seen it a ton watching Brute Arena because S-rank Agis love it. But actually being face to face with someone using it is something else. You’re always thinking, ‘Yes! I’ve got him now…nope, not even close.’ I asked Mom what to do about it.”
+
+“What did she say?” Alden asked.
+
+“She said I need to think more about basics instead of combatting specific skills at this point. She thinks I should focus on learning to read tells.”
+
+“Like in poker?”
+
+He nodded. “Most people have a tell or two associated with their skills. Lots of them are deliberate actions, to get the user in the right frame of mind. But some are accidents. For Boxing Gloves, I didn’t want to start high school having to say ‘Activate Boxing Gloves!’ out loud because that’s a little embarrassing. So I practiced until I could do it without that, but I started automatically clenching my fists every time. I’m working on stopping it.”
+
+“So Klein probably has a tell when he’s about to use Instant Corners.” Alden fully intended to find it and use it against him.
+
+“Well, lots of professional heroes get rid of their known ones as ruthlessly as they can. They’ll even hire Sways to help them ditch whatever the habit is. But Mom says even if he’s gotten rid of his real tells, he’s probably showing off fake ones for teaching purposes. She says Big Snake should be, too, in the Offense sessions, to train our eyes.”
+
+Alden took the last bite of the hash browns then shoved the to-go container aside. “I wonder what my own tells are? I doubt I have one when I’m just preserving something, but maybe when I’m about to activate or deactivate the preservation?”
+
+“We can study our footage from gym together and try to find each other’s habits if you want.”
+
+“I do.” Alden stared down at the paracord he’d been practicing speed tying. “Maybe not today. I was trying to have a lazy Sunday and I’ve already come up with six weekends’ worth of tasks for myself. And that’s just related to learning to use rope.”
+
+“I’ve always wanted to lasso someone.”
+
+“I just watched a video of someone using a lasso. I’m pretty sure I could get a cow with one after some practice, but Instructor Klein doesn’t move at cow speed.”
+
+Haoyu laughed. “What if cows moved at Klein speed?”
+
+“I’d head to a safer planet.”
+
+It was two more hours before Lute came home. When he arrived, Alden and Haoyu were both working in their bedrooms at their desks with their doors open. And periodically…
+
+“Are you two mooing at each other?” Lute asked from the hall.
+
+“No,” said Haoyu in a completely neutral voice. “Of course not.”
+
+“Why would we be?” Alden was doing a much worse job of keeping a straight face. “I’m practicing my new wordchain signs. And trying to figure out how to make useful supplies really fast out of cord. We’re both being product—”
+
+“Moooooo,” said Haoyu.
+
+Alden cracked up, and Haoyu was only a second behind him.
+
+Lute stared from one of them to the other. “How did you get this weird this fast? I was only gone a few hours.”
+
+“We were talking about cows with superpowers,” said Alden.
+
+“Did you get lunch?” Haoyu asked. “Alden just ordered a bunch of pastries from a vegan bakery.”
+
+“No,” Lute said. “I’ve been really busy. Alden, are you continuing Operation Cottontail?”
+
+Alarmed, Alden shoved his chair away from his desk, rolling backward in it until he could see Lute more clearly. He was standing with his back to the opposite wall in the hall so that he could talk to them both at the same time.
+
+“What’s Operation Cottontail?” Haoyu asked.
+
+“Nah, man,” said Alden. “After yesterday, I’m satisfied. Good deed done. The only thing I missed out on was that one convo and clearly that one convo wasn’t going to go well. And…you know…”
+
+Your mother was there. Almost definitely working for your grandma. I’m not going anywhere near that again. “I’m having a lazy Sunday.”
+
+“You were practicing your Self-Mastery wordchain when I walked in,” Lute pointed out.
+
+“That’s lazy for me. There are fruit tarts coming. And cookies covered in dark chocolate.”
+
+“Hello??” Haoyu said. Alden heard his desk chair rolling, and a moment later he had wheeled himself out into the hall beside Lute. “What kind of operation?”
+
+“A completed one.”
+
+“But it was something worthy of a code name?”
+
+“No. Lute gave it a code name on his—”
+
+Lute interrupted them. “I was just checking in case you wanted more information.”
+
+There was a long pause. Lute was watching him. Haoyu’s head was whipping from one of them to the other like he might be able to decipher the situation if he read their expressions fast enough.
+
+“I…want to eat cookies,” Alden said.
+
+“It took you a long time to decide.”
+
+“Cookies.”
+
+Lute shrugged. “Anyway, I was just going to tell you that during the course of Operation Odin’s Revenge this morning, I pursued one of our suspects—”
+
+“There are suspects?!” Haoyu exclaimed.
+
+“And she had a very similar conversation to the one we overheard last night with another person who is presumably a member of that group you were interested in. So this is just Odin letting Cottontail know. In case he needs to know.”
+
+“Dude,” said Alden, “what the heck are you doing?”
+
+“You inspired me.” Lute held a hand to his chest. “And then our talk last night inspired me even more. Operation Odin’s Revenge is my new hobby. Its goal is singular, but difficult. I am going to get the grandwitch arrested. For some illegal thing she’s done. Somehow.”
+
+Alden stared at him.
+
+Haoyu stared at him.
+
+Sunny stared at all three of them from behind his hot pink sunglasses.
+
+“That’s craz—”
+
+“Can I help?”
+
+“Haoyu!” Alden protested.
+
+“Of course you can, Haoyu,” said Lute. “I don’t have permission to tell you about Alden’s completed operation, but mine isn’t really going to intersect with his anyway. That’s what I decided this morning. It’s too hard to pin crimes on Aulia through those people, Alden. She’ll just shift the blame to the mini crime lord, won’t she? Plus, a big organized group of people being involved and the crimes being at least partially conducted on the Triplanets makes it too complicated.”
+
+Alden assumed Manon was the ‘mini crime lord.’
+
+“But since I’m sure Aulia’s doing other terrible things. I’m going to find one and get proof. And tell everybody.” He smiled in satisfaction.
+
+Haoyu looked extremely intrigued.
+
+Alden didn’t see how this could possibly be his fault, but it felt like it was his fault.
+
+“Okay,” he said slowly. “I support your desire to…imprison your grandmother. But how serious are you about this? Because it sounds pretty dangerous, and you should value your own life. We only get one. Don’t die doing something that’s not worth it. And…don’t take risks you wouldn’t want your friends to take with you.”
+
+I’m so glad Boe isn’t here to hear me trying to paraphrase him right now. Why are they looking at me like that?
+
+Haoyu looked like he’d just seen the world’s cutest puppy. And Lute looked like he’d run across the same puppy when it was doing something dumb—attacking its own reflection in a puddle maybe.
+
+“Alden, you’re really worried about him!”
+
+“You’ve been mooing at him for too long,” said Lute. “It’s made him nervous. I’m talking about exploring locked closets in my own former homes and talking to my own relatives. I’m not going to die.”
+
+Alden felt incredibly embarrassed for a few seconds, and then slightly less so as he reassessed the threat level.
+
+“Wait. You guys, it was an overly strong warning, but I do have a point. Lute’s grandmother isn’t going to be happy if she figures out what he’s doing, and—”
+
+“Good,” said Lute.
+
+“No. Not good. What happens if she gets really mad at you?” Alden said. “Not ‘my grandson is annoying me’ mad, but ‘Lute is a legitimate threat to my freedom’ mad. She could seriously fuck up your life.”
+
+“No,” Lute said dryly. “You think so?”
+
+“I think you’re really angry,” Alden said. “You should be. But you should still think for more than a few hours before you go against the Anesidoran mafia and you should value your life and all that other stuff I just said. It was fine advice!”
+
+“I don’t think we’re quite worthy of being called a mafia…”
+
+Haoyu looked at Alden curiously. “What the heck did you guys do without me yesterday?”
+
+“You know what, I’m not going to talk about it out loud. I will text you. From now on, all conversations about this sort of thing happen in privacy booths or in our heads.”
+
+[Alden: Look. Here. Talk here if you’re going to take on the mafia together on a nice Sunday afternoon when there are baked goods coming.]
+
+“Wow. You really are one of the fastest mental texters I’ve ever seen,” said Haoyu. “That was an entire paragraph. With a custom font.”
+
+“That’s the annoyed font.”
+
+“You’re including yourself in the group chat, too, though,” Lute pointed out.
+
+“That’s because I care about what happens to you, stupid. Don’t run off half-cocked because I led you into a crazy situation yesterday and accidentally exposed you to…that emotional dynamite.”
+
+“Actually,” said Haoyu, “even though I want to run over your grandmother with a car—”
+
+“You do?”
+
+“We were talking about it earlier. But even though I want that, I do agree with Alden that you should be careful. What was your plan anyway?”
+
+“My plan was—”
+
+[Alden: Put it in the chat! This chat! Right here!]
+
+They both blinked at him then lifted their hands to start typing. Alden sighed and let his neck fall back to stare up at the ceiling.
+
+I’m trying to turn over a new leaf here…and now Lute wants to put Aulia Velra in prison. Personally.
+
+He tried to think of how he would ever explain this to Boe if he got involved.
+
+It might not actually count under our copycat heroics agreement since Lute’s motivation is revenge and mine would be—
+
+[Haoyu: Operation Odin’s Revenge is a fun name. I need a codename. Can I pick it myself?]
+
+[Lute: My plan doesn’t actually sound that great now that you’re making me write it out. I don’t think I really know how to buy a device that will silently blast a hole in the wall of Aulia’s office. I’m sure it’s shielded like the panic room and the other safe spaces.]
+
+[Lute: And I get to pick the codenames. You can pick the codenames for your own operations.]
+
+[Haoyu: I want to help, but I don’t want to do anything actually illegal, all right? My parents would be surprised if I shot someone’s office with a magic cannon. But not in a good way. Our activities need to be more moderate than that.]
+
+[Alden: I would like to remind Lute that he made fun of me just yesterday for having a mission. I would also like to point out that people trying to sneakily search multiple private locations probably shouldn’t leave giant holes behind them to let everyone know where they’ve been.]
+
+[Lute: So you are helping, Cottontail!]
+
+Alden rolled his eyes.
+
+He got a little more work done while the two of them texted each other spy plans. They were both toning it down and down again as they talked, so he was feeling a lot less concerned that Lute was about to do something crazy.
+
+The bakery delivery arrived, and while he went downstairs to fetch it, he scrolled through the chat. It looked like Lute had decided on a much more gradual fact-finding approach. He was talking about attending more family gatherings and actually paying attention to “Velra shit” while he was at them instead of avoiding everyone.
+
+[Lute: I’ll need to make it look like I want something from Aulia. So she won’t be as suspicious. It sounds dreadful. Maybe we should reconsider the merits of blowing things up.]
+
+Alden carried the bakery box back up to the apartment, sniffing it more than was necessary.
+
+“Hey,” he said, when he walked in. “Snacks.”
+
+Haoyu sprang up from the sofa, and Lute wasn’t far behind him. Alden grabbed a miniature cherry tart and ate it, watching Lute Velra thoughtfully.
+
+“I’ll go with you,” he said.
+
+Lute was licking the lemon coconut filling out of his own tart shell. “What?”
+
+“I’ll go with you to a Velra party. You know Aulia would love it.”
+
+[Alden: I’m not going to do anything illegal or explosive either. But I could be a good distraction for your grandmother if you wanted to sneak around and talk to other people without her paying attention to you.]
+
+“No,” said Lute. “I can’t ask you to do that. I know you’re trying really hard to avoid her and her brand of crazy. I—”
+
+“I am. I was even nervous about being roommates with you because I was afraid I’d get sucked into the Velra vortex.”
+
+Lute looked away uncomfortably.
+
+Haoyu had stopped chewing his cookie.
+
+“Weird, right?” said Alden. “I was so worried about it. And now, a couple of weeks later, I think you’re the person I know best on all of Anesidora.”
+
+Lute’s head whipped around again. He looked taken aback.
+
+Alden shrugged. “Well, you are. I haven’t been here long. I’ve gotten to know a lot of nice people who I hope I can get to know even better. But you and I have spent a ton of time together, and you’re fun as hell to hang out with even if you’re just spending six straight hours tutoring me. You…are an excellent friend. So yeah. Sign me up for a tasteless rich person event where Aulia tries to read the lines on my palms. It’ll be fun in its own way if we’re all doing it together, right?”
+
+“Right,” Lute said, his surprised expression gradually turning into a smile. “Family parties should be a lot more fun with friends.”
+
+“Is there one tonight?” Alden asked.
+
+“No.”
+
+“Then let’s put it out of our minds for now,” said Alden. “Didn’t you want to do something with the girls this afternoon? It’s getting late. Haoyu, you want to come, too, right?”
+
+Lute was still smiling happily at his pastry. “What? Oh! I didn’t plan anything at all. I wanted to, and then…”
+
+“You mentioned something in passing last night that I was really curious about, so I’m sure they will be too.”
+
+“What?”
+
+“You said there was a magic roller coaster?” Alden asked. “I’m going to need to see that.”
+
+*

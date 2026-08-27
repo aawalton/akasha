@@ -1,0 +1,211 @@
+---
+id: b261b6f7-574c-510a-a4d2-af9e64e80f05
+page-type-slug: story-chapter-royal-road
+title: "725. Grand Skill Points"
+slug: 0132-725-grand-skill-points
+partOf: salvos
+position: 132
+ownLength: 1504
+unit: words
+publishedAt: 2025-04-08
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/2185438/725-grand-skill-points"
+royalRoadId: "2185438"
+---
+
+725. Grand Skill Points
+
+There were three Grand Skills I could upgrade with my two brand new Grand Skill Points. It was between [Divine Essence Of The Angelic Devil Princess], [Claw Of Corruption], and [The World Of My Mind]. Each of these Grand Skills of mine had a different utility— they provided me different benefits, whether it be within a combat situation or outside a combat situation.
+
+As of right now, I had a handful of permutations to distribute these Grand Skill Points. I could either split my Grand Skill Points between two of my Grand Skill— whether it was between [Divine Essence Of The Angelic Devil Princess] and [Claw Of Corruption], [Divine Essence Of the Angelic Devil Princes] and [The World Of My Mind], or [Claw Of Corruption] and [The World Of My Mind]. However, I could also expend all of my Grand Skill Points on a single Grand Skill.
+
+If I was being completely honest, I wasn’t sure what I should even do.
+
+After all, I wasn’t sure how any of these Grand Skills would function differently even with an upgrade.
+
+Well, I knew that [Claw Of Corruption] became far more effective at preventing enemies from escaping while simultaneously corrupting its target— and in general being more powerful than before— when I leveled it up the first time around. And while that was definitely an upgrade, it didn’t feel like nearly as much of an upgrade as [My Flames Shall Burn Until Eternity Ends] got when I leveled it up.
+
+So that made me apprehensive about upgrading [Claw Of Corruption] even further.
+
+And [The World Of My Mind] lacked any combat utility in general as of right now. Not only that, but I had been able to improve my control over my pocket space simply by upgrading my space magic in general.
+
+However, does that mean I will get a much better upgrade now if I level it up? I wondered to myself.
+
+The Grand Skill which drew my most interest was [Divine Essence Of The Angelic Devil Princess]. For a multitude of reasons, of course— the main being that it was the best Skill I had for combat situations.
+
+Perhaps if I level it up, I will be able to increase my Stat Boost from it, I thought as I rubbed my chin in excitement and curiosity. Or maybe it will just give me a passive aura of divinity at all times.
+
+I didn’t know what leveling up [Divine Essence Of The Angelic Devil Princess] could unlock, but that was what I was burning to find out. I knew I could spend my second Grand Skill point on either of my other Grand Skills. However, I already had my mind set on what my first Grand Skill point was going to be spent on.
+
+“Alright, let’s see what you have for me…”
+
+I whispered to myself in trepidation as I focused on [Divine Essence Of The Angelic Devil Princess]. And just like that, I leveled up the Grand Skill.
+
+I expected something fancy to happen— a massive powerup to immediately occur. However, I knew that was not how it usually worked. But considering that I already had [Divine Essence Of The Angelic Devil Princess] active, I thought there would be some kind of an immediate effect.
+
+But there was nothing. I didn’t experience an increase in my boost in my Stats. I didn’t feel a sudden surge in power. Nor did I feel like my control over my divinity had improved in any significant way.
+
+Frowning, I raised a hand and focused the wisps of iridescent flames flaking off my body into my palm. They eddied there like normal. I created a sword, before turning it into a sickle, and finally created a pair of gloves with it. There was nothing special about them.
+
+I clenched my fists, snuffing out the flames.
+
+“Huh, that is odd.”
+
+I narrowed my eyes at myself. I twirled around, looking to see if there was any physical change to my body. But there was nothing.
+
+“Um, did I just waste my Grand Skill Point?”
+
+I asked the question to nobody in particular. It was genuinely odd to me. I wondered if maybe there was an unseen and unquantifiable improvement to my [Divine Essence Of The Angelic Devil Princess]— or maybe the upgrades would only take into effect later on, because it was still currently in effect from before it was upgraded.
+
+I had no idea. All I knew was that there was nothing I could do right now but hope that I didn’t waste a Grand Skill Point.
+
+“Well, that kinda sucks. But I still have one more Grand Skill Point to play around with, I guess.”
+
+I muttered to myself as I shook my head. Right now, I had to make a choice between my two remaining Grand Skills. Well, I could always expend the remaining Grand Skill Point on [Divine Essence Of The Angelic Devil Princess], hoping that something different happened this time.
+
+But I didn’t feel like taking that big of a risk at the moment.
+
+Instead, I decided to take a smaller risk. While I knew the general idea of what came with upgrading [Claw Of Corruption], I wasn’t too impressed with it. So I wanted to see whether [The World Of My Mind] could receive an improvement that could… well, at the very least, surprise me.
+
+And surprise me it did.
+
+The moment I spent the Grand Skill Point on [The World Of My Mind], it immediately felt as though my mind expanded. Like the very capabilities of what I could do with my pocket space had greatly increased.
+
+My head snapped up as I brought a hand to the air. Immediately, I opened a rift straight into my pocket space. And as I stepped through that door-like hole in space, I was not greeted by the empty and dark glass-like world that I was normally limited to.
+
+Instead, my feet sank into a carpet of grass. And instead of being greeted by the darkness of the fold between the planes, I saw a blue sky overhead. Clouds were drifting by as I swept my gaze over my surroundings.
+
+“Huh.”
+
+I stood atop a grass knoll, surrounded from all sides by an empty plains. And when I focused, raising my hand, the world changed.
+
+A dense lush forest grew all around me. It rose from the ground quickly, rising high to create a canopy that drowned out the light from above. And there was just light coming down— no sun.
+
+I smiled as I looked around my pocket space. I only had one comment.
+
+“Nice.”
+
+Salvos (The Enemy of the Demon King) (The Devil’s Daughter) (Immortalslayer)
+
+Species: [Primeval Demon of Pride]
+
+Secondary Species: [Lesser God]
+
+Subspecies: [Angelic Devil Princess] - Lvl. 174
+
+Class: [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝] - Lvl. 158
+
+General Skills:
+
+[Advanced Mana Manipulation] - Lvl. 10 (Maxed)
+
+[Corruption Mastery] - Lvl. 1
+
+[Identification] - Lvl. 6
+
+[Racial Skill: True Divinity] - Lvl. 1 (Maxed)
+
+[Racial Skill: Universal Language Comprehension] - Lvl. 2
+
+[Rest] - Lvl. 5
+
+[Wisdom of the Old Gods] - Lvl. 5
+
+[Title Skill: Demonic Essence Resistance] - Lvl. 1
+
+[Title Skill: General Status Effect Resistance] - Lvl. 1
+
+[Title Skill: Invoke Wrath] - Lvl. 1
+
+[Title Skill: Influence Wild Demons] - Lvl. 1
+
+[Title Skill: Rapid Disengage] - Lvl. 1
+
+[Title Skill: The Devil’s Grace] - Lvl. 1
+
+[Racial Skill: Divine Essence of the Angelic Devil Princess] - Lvl. 1
+
+Stats:
+
+[Available Stat Points: 0]
+
+[Vitality]: 330 (+150) (+10) (+50) (+100)
+
+[Strength]: 330 (+10) (+10) (+50) (+100)
+
+[Endurance]: 330 (+10) (+10) (+50) (+3) (+100)
+
+[Wisdom]: 500 (+40) (+10) (+50) (+50) (+100)
+
+[Agility]: 545 (+10) (+10) (+50) (+5) (+100)
+
+Skills:
+
+[Available Skill Points: 6]
+
+[Angel’s Wings] - Lvl. 20
+
+[Barrage of Cinders] - Lvl. 20 (Maxed)
+
+[Divine Demon’s Mark] - Lvl. 20 (Maxed)
+
+[Divine Haste] - Lvl. 20 (Maxed)
+
+[Intimidation] - Lvl. 10 (Maxed)
+
+[Faux Limbs] - Lvl. 25 (Maxed)
+
+[Divine Nebular Construct] - Lvl. 25 (Maxed)
+
+[Divine Strike] - Lvl. 20 (Maxed)
+
+[Divine Radiant Slash] - Lvl. 15 (Maxed)
+
+[Sacred Hellfire] - Lvl. 18
+
+[Salvo of Vanity] - Lvl. 25 (Maxed)
+
+[The Call of Armageddon] - Lvl. 15
+
+[The Holy Flames] - Lvl. 20 (Maxed)
+
+[Passive - Angelic Premonition] - Lvl. 15
+
+[Passive - Weapon Mastery] - Lvl. 20 (Maxed)
+
+[Available Grand Skill Points: 2]
+
+[Claw of Corruption] - Lvl. 2
+
+[My Flame Shall Burn Until Eternity Ends] - Lvl. 3 (Maxed)
+
+[Unused Skill Slot] x2
+
+Secondary Skills:
+
+[Available Secondary Skill Points: 0]
+
+[Corrupted Draconic Fury] - Lvl. 1
+
+[Cluster Time Dilation] - Lvl. 15 (Maxed)
+
+[Greater Teleportation] - Lvl. 20 (Maxed)
+
+[Manifestation of the Old Gods] - Lvl. 10 (Maxed)
+
+[Prison Of Isolation] - Lvl. 17
+
+[Riftwalk] - Lvl. 2
+
+[Truth Divination] - Lvl. 10 (Maxed)
+
+[Worldbreak] - Lvl. 6
+
+[Passive - Corrupted Dragon Scales] - Lvl. 1
+
+[Passive - Corrupted Regeneration] - Lvl.1
+
+[Passive - Master of Material Manipulation] - Lvl. 15 (Maxed)
+
+[The World of My Mind] - Lvl. 1
+
+[Unused Skill Slot] x1

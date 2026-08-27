@@ -1,0 +1,226 @@
+---
+id: 7620eb69-84e2-5dd7-b4b4-28f6eb8426c2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 278: Look what I've got."
+partOf: rise-of-the-living-forge
+position: 20
+ownLength: 3158
+unit: words
+ownProgress: 3158
+publishedAt: 2024-09-20
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-book-6-stubbing-in-3/chapter/1811987/chapter-278-look-what-ive-got"
+royalRoadId: "1811987"
+markedReadAt: "2026-06-29T19:59:05.975Z"
+---
+
+The song of Verdant Inferno echoed through the armory. It was encased in a thick layer of metal that more than doubled its weight. Molten lines of magma ran along its head, pulsating with every strike. Black veins, connected to both Arwin and the hammer, swayed with every strike he made.
+
+A pile of rounded balls and metal rods laid on the work table to his side. They were the results of the past hour, all made through Dwarven Forging. And, as Arwin finally let Verdant Inferno lower and allowed his muscles to relax, he looked down at the final rod he would need.
+
+The black veins pulled free of his hammer and Arwin dismissed it with a thought. He lifted the final rod of Brightsteel from the anvil and examined it intensely for any defects or mistakes he might have missed.
+
+The rod was about the length of half-a-finger and no thicker than a pencil. Each of its ends had been tapered to a razor sharp point. The entire piece of metal was smoothed and about as perfectly cylindrical as he could get it to be.
+
+There were no problems. It was ready.
+
+He was ready.
+
+Arwin gathered up the wooden components of the arm and got about to the second to last step of its creation. Piece by piece, he used the rods to connect the wooden components. He pressed the metal into the wood using [Scourge] to ensure they slid in smoothly, then applied the next wooden piece to the other end of the makeshift skeleton.
+
+His head throbbed in pain. He’d been drawing a ridiculous amount of magic for this piece. If it hadn’t been for the Infernal Armory backing him up, he would have run out of resources a long time ago.
+
+But his time was limited. Even with the energy flowing from his building, Arwin only had so much left to work with. He could feel the power flooding his body receding and starting to pull back.
+
+Fortunately, he was nearly done.
+
+Arwin pieced together the wooden arm, keeping his intent focused and pushing every single drop of magic that he could muster into its body. It was definitely one of the most unique pieces he’d ever tried to forge.
+
+He’d made projects where their core component wasn’t metal, such as his scale armor line, but at least the scales had been… well, forgeable. Making something out of wood was an entirely different story — even when the wood mirrored metal in more than a few ways.
+
+Arwin’s teeth gritted as he fitted the palm onto the wrist section. He’d had to make enough pieces to ensure that Olive would maintain complete control over the arm. She didn’t need a stiff block of wood. Unfortunately, that meant the magical item was composed of so many moving sockets and joints that the chances for a mistake were enormous.
+
+He had to test every single part’s range of motion to make sure it was correct. When he was running out of power and mental energy, even a few extra seconds were difficult. But Arwin didn’t let himself skimp. He took no shortcuts and skipped no steps.
+
+Olive needed an arm.
+
+He would make her an arm.
+
+His jaw clenched so tightly that pain pulsed in his back teeth. He tested the forearm, then connected the last few segments of wood. The entire thing was still a little stiff, but the activation of the magic within it would hopefully handle the bits that Arwin lacked the mechanical skill to properly replicate.
+
+Arwin’s fingers automatically flitted back to his worktable and landed on a large rod. He raised it, staring at the metal piece for a moment. The final piece. It was about twice as big as the rest of the rods in the arm. A grimace played across Arwin’s face at the sight of it.
+
+There would be no wooden component to attach to the other side of the rod.
+
+Its home was destined to be flesh.
+
+There weren’t many ways to connect something inanimate into something animate that properly gave the feeling of a real link — and this was not a temporary wood prosthetic. It was a replacement. Replacements stayed in place, and the item had to understand that.
+
+They’d just have to get Olive a whole bunch of Lillia’s drinks before she tried the arm on. With any luck, she wouldn’t remember the experience.
+
+Arwin drove the rod into the back portion of the arm in the center of the area where it would connect to Olive’s stump.
+
+And then his work in creating the arm was done.
+
+Arwin heaved an exhausted breath as all the tension flooded out of his body, nearly dropping to his knees as a wave of dizziness washed over him. The black veins jutting out of his back dropped and slithered across the floor as they returned to their home in the wall. It seemed that the Infernal Armory was out of power.
+
+Energy poured from within the wooden limb and prickled against Arwin’s fingertips. It was positively infused with power and magical energy, stuffed so full to the brim that it was threatening to spill over.
+
+Something buzzed at the back of Arwin’s mind before his thoughts could even so much as drift. A spot of darkness bloomed in his vision. A wave of weakness followed after it and he staggered, grabbing himself on the anvil. His forehead throbbed. Arwin stiffened, drawing in a sharp breath.
+
+A Vision.
+
+It seemed that the Ashleaf Tree hadn’t decided to give in without a fight. It had simply been biding its time.
+
+Arwin didn’t even have a chance to decide on the proper emotion to greet the tree with. The world vanished from around him, swallowed in a roiling sea of pitch black, and the Infernal Armory was gone.
+
+***
+
+Dry grass cracked beneath Arwin’s feet. His eyes snapped open and he dragged in a ragged breath. It was tainted by the taste of burnt, dry foliage and the smell of sulfur. He doubled over coughing as sight returned to him and found himself staring down at an ocean of ruddy orange leaves.
+
+Arwin wiped his mouth with the back of his hand. His eyes lifted as he found his bearings at the edge of a large clearing, roughly fifty feet in radius. In the very center of the clearing, rising more than three times his height, was an enormous tree.
+
+Its black bark glistened like obsidian in sunlight that had no sun to justify its existence. Brilliant crystal red leaves glistened from its branches, each one a piece of painted glass that refracted the light that passed through it and sent it dancing across the ground.
+
+“Took you long enough,” Arwin said, cracking his neck.
+
+“Why would I strike before I was as strong as I could be?” A dry, hollow voice echoed out from within the tree.
+
+Arwin nearly choked on his own saliva. “What the hell? You can talk?”
+
+“I reside entirely within your soul,” the Ashleaf Tree replied, its leaves rustling as its branches trembled in poorly restrained fury. “You will die here. My final act against your arrogance. Your sheer impudence infuriates me. To not only cut me down and rip my body to shreds, but to possess the sheer arrogance to attempt to face multiple parts of my whole entirely on your own? I will take your soul with me into the afterlife.”
+
+“I don’t mean to interrupt your monologue, but you’re going to have to answer a question for me?” Arwin pinched the bridge of his nose. “How is it that you can speak? Does this imply that every tree can talk? Or is it just you?”
+
+A huge branch whipped down toward Arwin. Even though he stood on the far side of the clearing, he was somehow within its range. He flung himself to the side and hit the ground in a roll, only to slam into a root that jutted up from beneath him. The force of the impact knocked the breath from his lungs with a grunt.
+
+He threw himself to the side an instant before another branch slammed down where he’d been. It struck the ground with a resounding crash and the violent screech of scraping glass on glass.
+
+“We are within the confines of your mind. I know all that you know,” the Ashleaf Tree said.
+
+Roots jutted up from the ground and reached for Arwin, forcing him to hop back. Another branch hurtled toward him while he was mid-air. His eyes widened, but there was no time to dodge.
+
+It slammed into his stomach and launched him like a baseball. Razor-sharp leaves carved across his skin, ripping dozens of weeping wounds into his body. Arwin hurtled through the air and slammed into the trees at the edge of the clearing with a resounding crash. Wood cracked behind him and he dropped to the ground. Blood splattered from between his lips in a pained cough.
+
+Oh, shit.
+
+He hadn’t realized just how powerful the Ashleaf Tree was. Hadn’t realized how much of its attention had been consumed by the rest of the Menagerie. Fighting it on his own — and without his gear — almost felt impossible.
+
+“That seems unfair,” Arwin growled, wiping the blood from his mouth. “I don’t know anything that you do. Shouldn’t I at least get a little knowledge about being a tree?”
+
+The clearing trembled in fury. Arwin dashed to the side and roots followed after his steps and rose up before him, trying to catch him or cut off his path. He ducked and spun around them. It took every single ounce of speed, strength, and coordination that he had to keep any of the grasping growths from catching him.
+
+It was all over if Arwin was caught. The Ashleaf Tree was in an entirely different league. He had to buy time until —
+
+A root caught him around the ankle. The world flipped upside down as Arwin’s own speed sent him flying face first into the ground. He managed to bring his arms up just in time to keep him from breaking his nose against the dirt.
+
+His stomach shot into his throat as a powerful jerk ripped him away from the floor, shrinking the dry leaves beneath him. Arwin’s arms windmilled as he found himself hanging upside-down in the grasp of a rapidly growing root.
+
+Arwin tightened his core and pulled himself up, clawing and kicking at the root holding his leg with everything he could muster. It was like trying to strike a brick wall. He didn’t have Scourge. None of his abilities worked here.
+
+The root swayed back. Arwin’s eyes widened.
+
+“Don’t you dare—”
+
+It whipped forward. Arwin launched through the air like a human cannonball, hurtling back toward the ground with such speed that he barely even got a chance to see it approaching before it had arrived.
+
+He managed to curl himself into a ball an instant before he made impact. Loud snaps and a sickening crunch echoed out as one. Agony slammed into Arwin with an intensity that he’d never felt before. The difference between a Journeyman crafter class without its abilities and an Adept level boss monster was immense.
+
+Arwin’s next breath gurgled and sent even more pain spiking through his body with such intensity that his vision flashed black. His bones — he wasn’t even sure which ones at this point, but he was willing to bet the answer was ‘most’ — were broken.
+
+A rib had definitely gone through his lung. He was pretty sure the only reason he hadn’t passed out instantly from the extent of the damage was because this was a vision. At its core, a vision was battle of wills.
+
+The Ashleaf Tree might have been far more powerful than him, but his will hadn’t given out yet.
+
+Arwin’s teeth gritted as he fought to stand. His body stubbornly refused him.
+
+Fortunately, a root was there to help him.
+
+It wrapped around Arwin’s neck and lifted him into the air before the tree.
+
+Then it started to tighten.
+
+“Give in,” the Ashleaf Tree demanded. “Accept your end. You cannot defeat me. This was always your fate, smith. Time and time again, you have been arrogant without compare. I have witnessed your life. You defy the most powerful organization in your land, one so strong that it could quash you like a bug if it knew you still existed. You kept the Dungeon Heart instead of completing your deal, and yet you lack the power to even dream of defeating the one that comes for it. Everything you do is a lie. You are an arrogant, hypocritical fool that will get his entire guild killed because he believes he is greater than he is. They will be better off with you dead.”
+
+Arwin’s jaw clenched. He fought desperately to fight back. To move. To do anything.
+
+His body resisted all of it. He hadn’t won over the materials enough to convince them to lend him any amount of power. The rough wood around his neck tightened further and he wheezed, sending even more pain pulsing through his form.
+
+Arwin pushed harder still. He reached for his magic. For his equipment. Even though he knew it was inaccessible within —
+
+A flicker of power met him at the back of his mind. It was a smoldering spark in an empty, gray field of ash.
+
+He latched onto it with the desperation of a drowning man clinging to a plank of wood. Magical energy coursed through his body and vanished in a flash, disappearing before he could even tell what had happened.
+
+“No answer,” the Ashleaf Tree said. “I should have expected as much. What is coward to add to your list of titles?”
+
+The root tightened.
+
+Arwin’s eyes fluttered and he wheezed, his body falling limp.
+
+A roar split the clearing.
+
+Green scales flashed before Arwin, followed by a loud snap. He dropped to the ground and crumpled to his knees. His fist slammed into the dirt and he stopped himself from falling prone. Groaning in agony, Arwin dragged his gaze upward.
+
+I could have sworn I just saw a —
+
+His eyes went wide.
+
+Wyrm.
+
+Standing above Arwin, its enormous form coated in glistening green scales, was a Wyrm in its prime.
+
+For a second, Arwin and the Ashleaf Tree were alike in stunned silence. Neither of them could muster a word. Arwin stared at the monster above him in disbelief. It was impossible. There was no way that the Wyrm could be here, much less helping him.
+
+No way other than…
+
+A disbelieving, pained laugh slipped out of Arwin’s mouth before he could stop it. Perhaps there was a single skill that he could use within the confines of a Cursed vision. One that was specifically related to Cursed items.
+
+[Unleash] – A master of cursed items never fights alone. Meld your power with that of an item bearing a soul, allowing it to temporarily manifest itself. The effects and duration of this ability depend on the strength of the targeted item. Stronger items will require increased amounts of magical energy to maintain their bond, and this ability is ineffective on items whose requirements exceed the magical energy you can supply.
+
+Energy prickled within Arwin. His jaw tightened.
+
+The pain shooting through him was not real.
+
+His bones were not broken. His body was not destroyed. He was not defeated.
+
+This was his mind.
+
+The Wyrm stepped to the side, giving Arwin to room to rise.
+
+Arwin rose.
+
+“Your existence is a plague on all that know you,” the Ashleaf Tree roared. “You killed your men. You killed Blake, and you will kill the rest of your guild. You press ahead without thought or calculation. You are a hypocrite, a fool, and a plague on all that know you, Arwin Tyrr.”
+
+“You’re not entirely wrong,” Arwin said, spitting blood onto the ground and baring his teeth. “I’m an idiot. I’m not a planner, and I don’t think many of my decisions through. Guess I never got the practice when I had the Adventurer’s Guild’s hands up my ass and using me as a puppet.”
+
+“Then accept your—”
+
+“Be silent!” Arwin roared. “I will not be talked down to by a goddamn tree. You aren’t wrong, but I will do everything I can to honor my guild, both living and dead. If I can avoid it, I will not dishonor Zeke by gifting the ally of his killer with anything that I have ever held. Our plan is dangerous, but we have not killed ourselves. You’re conveniently passing over the agreement to return the Dungeon Heart to the Dawnseekers should we decide we cannot handle Twelve.”
+
+“You cannot defeat Twelve,” the Ashleaf Tree said, a derisive laugh echoing through the clearing. “You will—”
+
+“I told you to shut up,” Arwin snarled. “We don’t know what we’re capable of until we try. We will put every scrap of power we have into victory — and then, only then, will I decide if we are capable of fighting Twelve. If we are not, then I will protect the living. If we are, then I will honor the dead.”
+
+“You will fail.”
+
+“You won’t be there to find out,” Arwin said, his fists tightening at his side. Pain still pulsed in his mind, but it had started to recede. He wasn’t sure if that was because the materials in the arm were giving way or if he was just too pissed off to notice it.
+
+“You think you can defeat me? I am an Adept Tier!”
+
+“Yeah?” Through a force of will, Arwin forced his right arm into the air and held it horizontally at his side. “Well, I’ve got a fucking Wyrm.”
+
+The Wyrm’s claw flashed.
+
+Not toward the tree, but toward Arwin’s arm.
+
+Hot agony screamed in Arwin’s mind as his right arm was severed, ripped apart at the shoulder. His expression didn’t so much as twitch.
+
+Then he felt his right hand close.
+
+That generally should have been impossible, as the arm in question rested on the dry leaves at his feet.
+
+Arwin lifted his right hand — and found wood in its place. A perfectly sleek arm of polished wood, devoid of any metal or clunky joints, was attached seamlessly to his shoulder. Power throbbed within it like a heartbeat, synchronizing with Arwin’s body.
+
+His gaze moved from the arm to the tree.
+
+“Okay,” Arwin said, flexing his new hand and baring his teeth. Beside him, the Wyrm’s lips pulled back and it let out a low, rumbling growl that sounded like a truck starting up. The last of the pain slipped away from Arwin. It seemed the materials were giving him a chance, and he wasn’t about to waste it. “Now I’m going to kill you.”

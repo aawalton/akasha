@@ -1,0 +1,437 @@
+---
+id: adc82e6a-322d-55b3-87c7-c155ea56f9e7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3 - Warehouse Massacre"
+slug: 0003-chapter-3-warehouse-massacre
+partOf: the-stubborn-skill-grinder-in-a-time-loop-book
+position: 3
+ownLength: 5920
+unit: words
+ownProgress: 5920
+publishedAt: 2024-03-19
+link: "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/1559938/chapter-3-warehouse-massacre"
+royalRoadId: "1559938"
+markedReadAt: "2026-06-29T20:04:08.579Z"
+---
+
+Desertion was technically illegal, but he didn’t care much. Particularly since in approximately eight hours the entirety of Volarbury county would likely be devoid of life thanks to an ancient war machine from a bygone era.
+
+Who even knew where that thing came from? All Orodan could be certain of was that the Novarrian Empire couldn’t have built it.
+
+As for Orodan, he was enjoying his self-granted day off work in this loop in the nearby town of Loviaston, an hour’s run away, where he was sitting at a table in a coffee shop.
+
+Across the street from said coffee shop was a warehouse with the familiar banner of a flower and shield flying atop it. The sigil of noble House Argon, traitors to the Republic and the reason for widespread destruction in Volarbury county.
+
+He’d been sitting at the table for about thirty minutes now and was reaching the limit on information that could be gleaned by just sitting at a coffee table and observing.
+
+He often heard about this place growing up. It was one of the warehouses that House Argon used to send goods to and from the tavern in Eversong Plaza.
+
+Fascinating as it would be if there were stashes of illegal substances or a secret weapon there was nothing of the sort. The warehouse was used for delivering food to the tavern, and the shipments were in open crates and handled by local carriage drivers who had plenty of opportunity to snoop if they really wanted.
+
+The warehouse, from what Orodan knew, was more of a staging point for House Argon’s enforcers to go out and do their dirty work without as much risk of their personal details being uncovered. The warehouse was strictly manned by guards and enforcers of House Argon, and Orodan heard rumors of at least two Adept-level enforcers inside from the gossip of the townsfolk.
+
+If he spent any longer at the table and kept making inquiries, word might get back to the warehouse that someone was sniffing around, so he decided to do what he was best at. Take action in a straightforward manner.
+
+The security on this warehouse, at 82 Caltrop Road, wasn’t anywhere near the constant eyes that were watching the tavern at Eversong Plaza in Ogdenborough. So Orodan was able to get within twenty feet of the main double doors to the warehouse before a mean-looking Argon guard put his hand out and gestured for him to stop.
+
+“Draw your weapon and fight,” Orodan said calmly as he walked up to the man, giving fair warning of his intentions.
+
+To the guard’s credit, he pointed his axe at Orodan, but too little too late.
+
+Orodan’s fist smashed into the axe-wielding guard’s nose, a satisfying crunch reverberated through the air and a shield bash to the head followed by a sword swing decapitated the man all within a single second.
+
+The pedestrian traffic nearby suddenly fell very silent.
+
+And as the first woman screamed at the sight of the gruesome murder Orodan rushed the second guard who was a moment too late to react to the shocking sight of the violence.
+
+Orodan’s sword stabbed through his head and sent him to the afterlife as well.
+
+[New Skill → Surprise Attack 1]
+
+Two Apprentice-level guards put down in less than three seconds, admittedly with the element of surprise on his side. But still, these were fighters on the same tier as himself. Orodan had grown stronger.
+
+He felt they weren’t at the Adept-level, but near it. And compared to Orodan who could now fight Adepts to a standstill, they weren’t too much of a threat.
+
+He kicked the double doors in with as much force as he could muster, sending them flying inwards and revealing the inside of the warehouse where five angry looking guards had their weapons drawn.
+
+He roared and feinted a charge at the nearest one, a halberdier who raised his weapon to defend, only for Orodan to redirect and lash out with a furious swing at the second nearest one, a swordswoman who was caught off-guard and received a deep cut to her leg, sending her screaming to the ground.
+
+The element of surprise wore off and the fury and exchange of steel-on-steel melee combat began. Yells of battle and sharp cries of pain rang out as metallic and wooden impacts sounded out.
+
+Even though it was five-on-one, the guards on the first floor weren’t Adepts.
+
+Perfect Parries and Evasiveness to create openings lead to the swordswoman and a mace wielding guard being cut down within the next five seconds. Active combat skills really were a game-changer, the Blessing that allowed Orodan to learn warrior skills faster truly was a boon for allowing him to so easily pick such things up.
+
+The remaining three all ganged up on him at the same time, and while he could launch ten attacks a second, each of them was capable of at least six a second themselves, and taken together it meant that Orodan took some blows while dealing them in return. Although he did try his absolute best to mitigate the damage by focusing on receiving blows at the most optimal angles, maneuvering his body to receive a blow in the least critical area, and whatnot.
+
+His left arm had a deep cut which made moving it difficult, and his ribs were likely cracked from a hammer, but the message he received was worth it.
+
+[New Skill → Damage Mitigation 1]
+
+Within the next ten seconds two of the remaining three were slain, but as Orodan attempted to deliver a killing blow to the last one whose morale was on its last legs, a sudden great sword intercepted his attack.
+
+His guard was smashed aside by powerful blows, courtesy of a new combatant. Suddenly, he was on the backfoot, trading blows and being forced back as a tough-looking old man pressured him. And unlike the archer-assassin in Scarmorrow, this man was an Adept-level fighter who specialized in melee combat.
+
+Orodan had no surefire way of knowing whether someone was an Adept, but it was a sense of decently reliable feel. He didn’t know the basic Observe spell that was taught to all nobles and students of any academy, so for him, going by feel in combat was how he identified someone’s approximate skill level.
+
+By this point anyone capable of pressuring and pushing Orodan back in melee combat had to be at the Adept-level at least; anyone beneath that just wasn’t up to par.
+
+The difference between fighting the Temple archer at Scarmorrow and fighting this man was quite stark. Unlike the archer whose strikes lacked conviction, this man’s attacks with his great sword were full of lethal intent and crisp focus.
+
+This old man was undoubtedly a far stronger Adept-level fighter than the archer was. The situation got worse as Orodan realized that his Perfect Parry skill wasn’t nearly as effective at creating openings and unbalancing the other man. This great sword-Adept was a deadly hand at melee combat and what worked on an archer with commitment issues in close quarters wouldn’t work on him.
+
+Still, that Orodan could keep pace with and trade blows against this vastly more dangerous melee combatant, even if it was in brief moments and exchanges that he was the loser in… it spoke well of his own growing skill levels.
+
+Orodan wasn’t ashamed to admit that he had to start vaulting over crates, climbing up equipment and even hopped across support beams to swing himself up to the second floor of the warehouse in order to gain space. The aim was to not remain in a melee exchange for too long at a time lest he get overwhelmed.
+
+[New Skill → Parkour 1]
+
+Minutes of tense battle passed, until finally he took a powerful blow from his opponent’s blade head-on…
+
+[Shield Mastery 37 → Shield Mastery 38]
+
+…and his shield shattered from the force. A last minute evasion spared him the loss of his arm too.
+
+A great sword was a powerful weapon, especially in the hands of a skilled user. That his shield held for so long despite the heavy blows was a testament to his skill in wielding it. Now, without it, he was forced to go sword to sword against an opponent with a reach and power advantage.
+
+Not ideal. And even his sword wouldn’t last much longer given the dangerous creaking noises the metal was making as it absorbed the mighty blows of the old man’s great sword, which was far faster than it had any right to be.
+
+The remaining guard who the old man had rescued from Orodan had fled already, whether to get help or not would soon be seen.
+
+The man paused for a split moment to speak for the first time.
+
+“Murderer, you fight suspiciously well for one who’s not yet an Adept. I am Balus Mogram, enforcer of House Argon, and you’ve killed our people for no good reason. Why? Give me your name so I know who my blade slays.”
+
+He was far more forthcoming than the archer, but understandably so given that he wasn’t an assassin and Orodan had provoked his ire.
+
+“I am Orodan Wainwright… and I bring justice upon the traitors of House Argon and any who serve them!” he replied, and as Balus’s face took on a grim visage in response, Orodan too prepared to end this loop with one final exchange of blows as he could see the rumored second Adept-level fighter, a spear-wielding woman, had arrived at the ground floor of the warehouse below them. She must not have been initially present then.
+
+Orodan breathed in slowly and tried to focus and center his nerves as best he could. Now, in the middle of life and death combat with his survival instincts and adrenaline at peak capacity, was the best time to attempt the acquisition of the new skill he was attempting.
+
+He got into a power stance, gripped his sword with both hands and raised it overhead in the most powerful load-up position he could manage. And as Balus Mogram’s great sword came in overhead with frightening speed, Orodan uncoiled and exploded with every muscle in his body at full strength. The force of his motion dislocated his own shoulder, but it was the strongest strike he’d unleashed to date.
+
+The sole objective being to meet the oncoming great sword with as much pure power as physically possible.
+
+The two blades met in the middle, and against all common sense, deadlocked for a fraction of a second as the momentum of the larger and heavier great sword was incredulously stopped…
+
+[New Skill (Uncommon) → Power Strike 1]
+
+[Sword Mastery 46 → Sword Mastery 47]
+
+[Combat Mastery 32 → Combat Mastery 33]
+
+[Physical Fitness 31 → Physical Fitness 32]
+
+…and then Orodan’s sword broke under the strain.
+
+And as his foe’s blade continued onwards to reap his life, its wielder’s eyes were shocked. Balus had felt the power behind the last-ditch strike that stopped his great sword. He almost felt pity and lament at having to put down a youth who could learn an active combat skill in the middle of battle.
+
+The darkness took him as he was decapitated.
+
+[Quest Failed → Battle of Ogdenborough - You have died]
+
+A keening wail ringing in the night sky awoke him.
+
+Orodan ignored the Quest bestowal message that always came up and instead pulled up his Status with a mental command.
+
+[Name: Orodan Wainwright
+
+Age: 17
+
+Title 1: Combat Apprentice
+
+Available Titles:
+
+One Who Has Experienced DeathShield ApprenticeSword ApprenticePhysical Apprentice
+
+Skills:
+
+Unyielding Vitality 11 (Initiate - Rare)
+
+Perfect Parry 21 (Initiate - Uncommon)Evasiveness 18 (Initiate - Uncommon)Dying Struggle 14 (Initiate - Uncommon)Shield Throw 1 (Initiate - Uncommon)Power Strike 1 (Initiate - Uncommon)
+
+Sword Mastery 47 (Apprentice)Shield Mastery 38 (Apprentice)Combat Mastery 33 (Apprentice)Physical Fitness 32 (Apprentice)Unarmed Combat Mastery 28 (Initiate)Cleaning 27 (Initiate)Pain Resistance 20 (Initiate)Laboring 18 (Initiate)Bleeding Control 17 (Initiate)Sprinting 16 (Initiate)Club Mastery 15 (Initiate)Maintenance 8 (Initiate)Repair 7 (Initiate)Thievery 6 (Initiate)Intimidation 6 (Initiate)Deception 4 (Initiate)Surprise Attack 1 (Initiate)Parkour 1 (Initiate)Damage Mitigation 1 (Initiate)
+
+Blessings:
+
+Warrior’s Heart - Increased talent and learning rate for all warrior related skills as determined by Agathor]
+
+With that loop he added more skills to his repertoire.
+
+Taking advantage of the ability to risk his life and engage in genuine and lethal battles against stronger opponents gave him a rate of growth that was unparalleled.
+
+Most people he knew would be lucky to have an Uncommon skill or two across their lifetimes. And yet here was Orodan, with five Uncommon skills and a rare one at the age of seventeen thanks to his ability to go back in time.
+
+Putting that aside, he couldn’t stop thinking about Balus’s final attack and his own Power Strike that met it. Should he plan the target prioritization better for the next loop? Should he try to pick them off one by one?
+
+Who was Orodan kidding? He was a bull-headed fool and knew only one solution.
+
+To stubbornly grind away until his Power Strike could blow right through the power of Balus Mogram’s great sword.
+
+***
+
+The grind was slow, yet Orodan kept at it all the same.
+
+After his daily routine, where he now took to simply lifting Old Man Hannegan’s entire cart and pouring the lumber out onto the pallets, he now immediately sprinted to the town of Loviaston in every single loop and skipped the coffee shop entirely.
+
+82 Caltrop Road was his new destination of choice, and the second he arrived he always began by immediately rushing up to the first guard and hitting him with a Power Strike, something which levelled both Surprise Attack and Power Strike.
+
+And throughout the frequent loops of battling at the warehouse he also did his best to grind his other skills, old and new, as much as possible.
+
+During the first twenty-seven loops of this routine Orodan managed to scout out the place and discover that there were in fact seven Apprentice-level guards and two Adept-level warriors; Balus Mogram, the great sword wielder and Estilia Valenur, the spearwoman who came in near the end.
+
+Being an Adept was a pre-requisite to being considered an enforcer of House Argon, so it came as no surprise that both Balus and Estilia were considered as such, doing the dirty work of a noble house in Loviaston and the nearby towns when needed.
+
+Between the two of them, Orodan discovered that Balus was unsurprisingly the stronger one, he was older and was at a later stage of being an Adept, but his potential wasn’t very good. Estilia however was considered a decent talent with her being a spear-Adept by the age of twenty-seven.
+
+Orodan continued slowly and stubbornly making headway against the House Argon troops at 82 Caltrop Road. He refused to take the easy way and resort to trickery, memorizing patterns or knowing their moves. It was further complicated by the fact that Power Strike was an active combat skill that was very strenuous. Orodan could maybe manage fifteen or so Power Strikes before exhaustion set in and his muscles burned.
+
+Thankfully higher skill levels lowered the strain of using the move.
+
+Additionally, every single loop Orodan focused not on fighting Balus normally, but instead insisted on slamming his own sword against the old man’s greatsword using Power Strike in a foolhardy endeavor to level the skill and his Physical Fitness.
+
+And inch by inch, Orodan was gaining ground in his stubborn goal as his Physical Fitness and Power Strike continually improved.
+
+By the thirty-fourth loop his Sword Mastery was at 48 and Surprise Attack was at 23, which was good enough to be the tipping point where he could rush through and kill all seven Apprentice-level guards before Balus Mogram joined the fray.
+
+Killing all seven guards caused Balus Mogram to fight very very seriously right from the beginning of their duel. Furthermore, it caused the unintended side-effect of Estilia, the other Adept, not showing up at all unless one guard was left alive to go fetch her from wherever she was.
+
+So, from then on Orodan toned down the efficiency of his butchery and always left one regular guard alive to go fetch Estilia. It wouldn’t do to not have every single Argon soldier in the warehouse for when his victory was achieved.
+
+It took till the fifty-sixth loop for Orodan to finally make headway in his mad endeavor.
+
+Balus Mogram’s great sword flew down at Orodan’s neck at furious speed, but Orodan’s own Power Strike rose upwards towards the incoming blow.
+
+A horrible clash of metal on metal occurred…
+
+…and Balus’s great sword flew out of his hands.
+
+[Power Strike 33 → Power Strike 34]
+
+[Physical Fitness 42 → Physical Fitness 43]
+
+[Sword Mastery 48 → Sword Mastery 49]
+
+“Finally!” exclaimed Orodan as he rushed forward and took advantage of Balus’s shock at his heavier weapon strike being powered through by a sword wielded by a near-Adept. “Thank you for your tutelage, Balus Mogram… I’ll remember you.”
+
+The last words were said genuinely, the sheer improvement he received in fighting against a melee specialist and Adept of Balus’s caliber was unfathomable. A Power Strike followed and Balus’s head hit the warehouse floor shortly after.
+
+[Title Gained: Adept Slayer]
+
+He could have honestly slain Balus a few loops ago if he didn’t insist on testing his power against the old man’s great sword, but this way was the superior option.
+
+Orodan had done it. He had killed an Adept and was on the cusp of reaching the Adept-level in Sword Mastery himself.
+
+Killing an Adept, while at a lower tier too. Jumping a tier wasn’t an impossible feat, he’d heard rumors of prodigies capable of doing it, but it was one reserved for the likes of the greats. Orodan now felt his confidence in himself increase; the feeling that he might not live up to the task of completing the Quest bestowed upon him grew smaller as he realized that he was shaping up to become someone who the history books would talk about if he kept on this trajectory.
+
+Adepts specializing in a combat skill were respected and influential people in society. Guard captains for towns, veteran soldiers in the military, bodyguards for the wealthy, adventurers, enforcers for a noble house, and so on. To be an Adept was to be on a social level beyond the average masses which consisted mainly of Initiates and Apprentices.
+
+To put it into perspective, the county militia branch in Ogdenborough, had no Adept-level individuals whatsoever. Reaching Adept meant a guaranteed captain rank in the mounted unit, or becoming a staff sergeant in the militia, or becoming a candidate for training and eventual induction into the Elite response unit.
+
+Now Orodan could say he had killed such a caliber of person with his own two hands, in fair battle. He could now choose to take revenge upon that archer if he desired. But most importantly, he could start making a noticeable contribution in the Battle of Ogdenborough if he were to head there.
+
+He turned to look at the other enemy Adept, Estilia Valenur, a look of fear upon her face… who turned and fled like a scurrying rat.
+
+What was it with these Argon enforcers fleeing at the first sight of trouble?
+
+He immediately gave furious chase and with his new Physical Fitness of 43 he was comparable to an Adept in terms of physical ability. He easily caught up and ran her down, sending her sprawling to the ground with a powerful Shield Throw which took her leg out, allowing him to rush up and finish the job with a swift decapitation.
+
+In truth, if she struggled and fought back properly, she could have made him work for it a little bit, but it would have been a moot point as she was weaker than Balus who Orodan had already overpowered and slain.
+
+As Orodan mentally compared the enforcers of House Argon he also decided to bring up his status.
+
+[Name: Orodan Wainwright
+
+Age: 17
+
+Title 1: Combat Apprentice
+
+Available Titles:
+
+One Who Has Experienced DeathAdept SlayerShield ApprenticeSword ApprenticePhysical ApprenticeUnarmed Combat Apprentice
+
+Skills:
+
+Unyielding Vitality 14 (Initiate - Rare)
+
+Power Strike 34 (Apprentice - Uncommon)Perfect Parry 26 (Initiate - Uncommon)Evasiveness 21 (Initiate - Uncommon)Dying Struggle 17 (Initiate - Uncommon)Shield Throw 12 (Initiate - Uncommon)
+
+Sword Mastery 49 (Apprentice)Shield Mastery 46 (Apprentice)Physical Fitness 43 (Apprentice)Combat Mastery 41 (Apprentice)Unarmed Combat Mastery 30 (Apprentice)Cleaning 29 (Initiate)Surprise Attack 23 (Initiate)Pain Resistance 22 (Initiate)Damage Mitigation 21 (Initiate)Sprinting 21 (Initiate)Laboring 20 (Initiate)Bleeding Control 19 (Initiate)Club Mastery 15 (Initiate)Parkour 11 (Initiate)Maintenance 8 (Initiate)Repair 7 (Initiate)Thievery 6 (Initiate)Intimidation 6 (Initiate)Deception 4 (Initiate)
+
+Blessings:
+
+Warrior’s Heart - Increased talent and learning rate for all warrior related skills as determined by Agathor]
+
+His status had grown, to say the least.
+
+Physical Fitness and Combat Mastery were known as amplifier skills. Overarching skills that made everything related to their purview more effective. They were also hard to level unless one trained diligently at high intensity or went through life and death battles.
+
+But who else could do both and attempt focused training in the middle of battle like Orodan?
+
+Either Physical Fitness or Combat Mastery being in the 40s for an Apprentice was unthinkable, but for an Apprentice to have both in the 40s? Orodan’s battle power was now higher than his title would indicate.
+
+His victory was an accomplishment, and in light of that he switched his active title to Adept Slayer.
+
+Orodan then decided to spend the rest of the loop seeking out more House Argon soldiers and went about hunting them across the town of Loviaston, causing a decent amount of mayhem and the town alarm bells to start going off after the first five minutes.
+
+Militia troops responded but fearfully stayed right out of his way at the display of him slaughtering Apprentice-level Argon guards like cattle. The militia’s elite response unit would eventually respond, but that would take longer than he was planning on staying in the loop. That he was killing only the troops of House Argon and not targeting civilians also helped them maintain their non-interference.
+
+Trouble unfortunately found him, and he was reminded that he wasn’t invincible and brought back down to reality. After killing a few dozen more House Argon guards his loop was ended by a particularly powerful Adept, a middle-aged man wearing a tabard bearing the House Argon sigil, who was on the cusp of achieving the Elite level in the spear.
+
+Except, this man also had an Uncommon-rarity active combat skill of his own.
+
+Orodan almost couldn’t see the Lunge the man did from across a full street length to stab through his head and send him into the darkness.
+
+[Quest Failed → Battle of Ogdenborough - You have died]
+
+A keening wail ringing in the night sky awoke him.
+
+The Quest bestowal message was routinely brushed off as he got to his feet and began planning for the loops moving forward while furiously cleaning his home.
+
+On one hand, he could start another crusade of loops against this new opponent whose spear caused his demise. It would undoubtedly lead to great gains, and perhaps even more new skills, something Orodan was beginning to collect a rather large number of.
+
+But, on the other hand it wasn’t Orodan’s way to half-ass something and do it sloppily. He already felt as though he was expanding widely to acquire a lot of skills, but that he was starting to run the risk of lacking depth and quality in what he did have.
+
+So what if he could kill one of House Argon’s stronger Adepts?
+
+Orodan wasn’t satisfied with just that; he needed to delve deeper and solidify some of his weaker skills and sharpen existing ones before he could move on. He was as stubborn as a mule, a man who would shut his mouth and chip away at a skill for months on end 'till he got a single level increase.
+
+Thankfully, his current circumstances made his rate of skill gain something unprecedented.
+
+So Orodan decided, he was going to return to the warehouse and solidify his understanding of some of his skills. Sure, he could kill Balus Mogram, one-on-one, but could he take him and all seven guards in the warehouse at the same time?
+
+A feral grin emerged on Orodan’s face as he knew his next goal.
+
+***
+
+“Balus Mogram come down and show your face! I demand a duel! For every second you waste I’ll continue to beat these useless guards black and blue!”
+
+Orodan parried the swing of a hammer and delivered a pommel strike to the man’s gut which made him spit blood. The remaining six guards all began furiously attacking him at once.
+
+It was insanity.
+
+Orodan could easily kill an Apprentice-level guard. His abilities were far beyond theirs.
+
+But even with him being able to deliver thirty attacks a second now, the combined pressure from seven near-Adepts, each capable of launching at least six blows a second themselves… was nothing to scoff at.
+
+Particularly with them all attacking him at once while he stood in one place and merely defended, refusing to evade. His shield was strapped to his back, only blocking and parrying with the sword was allowed. No skills such as Power Strike or Perfect Parry either.
+
+This was Orodan’s new goal. To stand in one place as all seven warehouse guards furiously attacked him. He did not allow himself to move from his spot whatsoever. No matter how many wounds he took, no matter how many loops were cut short as he attempted the absolutely stupid feat of being able to stand and trade blows, purely with his sword, against seven near-Adepts at once… and come out on top.
+
+Initially, he would always die when Balus Mogram himself joined the fray as the combination was far too much.
+
+As he was on the cusp of achieving it, it came as no surprise that it took only the fifth loop of his self-imposed madness to receive a message he had been waiting for.
+
+[Sword Mastery 49 → Sword Mastery 50]
+
+[Title Gained: Sword Adept]
+
+[Additional Title Slot Gained]
+
+The messages would have been celebratory for anyone else. Even for Orodan himself whose life goal before his current circumstances was to become an Adept, it would have been cause for joy.
+
+But right now, he had a goal, and it wasn’t to merely become an Adept.
+
+The thirty-seventh loop passed, and he was able to stand and trade evenly against the seven guards at the same time, however Balus’s arrival still led to him losing the exchange.
+
+He could definitely kill all seven and Balus at once… if he allowed himself to move from the one spot and let up on his self-imposed restrictions by actually attacking or evading. But he did not.
+
+The eightieth loop passed and Orodan could finally evenly hold and trade blows indefinitely against all seven guards and Balus at the same time while standing in one spot and refusing to move, evade or use any other active combat skills.
+
+In other words, it was getting easy. Which to Orodan… was unacceptable.
+
+To increase the challenge, he began the eighty-first loop by tracking Estilia Valenur down in a pottery shop a block away and throwing her through the double doors of the warehouse so she too could join in. Of course, the addition of a second Adept, to the training exercise caused him to begin dying frequently again.
+
+His Sword Mastery and Physical Fitness weren’t levelling as fast. Each level got exponentially harder as one advanced, and because Orodan could kill these opponents easily, the simulated danger he was in didn’t count nearly as much as actual combat against stronger foes.
+
+But, bit by bit, he was still making progress.
+
+And finally, after two hundred and three loops, Orodan got what he wanted.
+
+His sword lashed out and caught both Balus’s and Estilia’s incoming blows, while a second motion of his sword, all within the same move, intercepted and diverted the weaker blows of the seven guards.
+
+This was the tipping point. And he finally decided to attack.
+
+His first return blow beheaded both Balus and Estilia at once, and his second and third strikes killed the remaining seven guards in an instant.
+
+[Sword Mastery 52 → Sword Mastery 53]
+
+[New Skill (Exquisite) → Impregnable Bladewall 1]
+
+Two hundred and three damn loops, which meant dying two hundred and two times.
+
+Orodan wouldn’t lie and say it was pleasant but by now his Pain Resistance of 26 truly did make most pain, even the pain of death, seem trivial. It was an unnaturally high number that would raise questions, but who else could train Pain Resistance by repeatedly dying like he could?
+
+Of course, his Damage Mitigation of 29, Bleeding Control of 23 and his Unyielding Vitality of 20 meant that death took an uncomfortably long time to arrive, even when his limbs were lopped off, he was stabbed multiple times and had most vital organs destroyed.
+
+Frankly, his enemies were more terrified of his ludicrous vitality and refusal to die quickly than they were of his unnaturally good swordplay.
+
+And he himself still wasn’t used to maintaining consciousness for a full minute after being decapitated.
+
+But despite suffering through some uncomfortably drawn-out deaths, Orodan had accomplished his goal. He had acquired the skill he had felt the inklings of right from the beginning when he had fought against the two Northmen in his first life.
+
+None of his other skills had made gains because he hadn’t bothered using any of them during this crazy training regimen.
+
+But now… he had an Exquisite-rarity skill. This was almost unfathomable for Orodan who grew up an orphan and a street rat.
+
+Exquisite rarity skills weren’t spoken of openly by those who had them, usually in hushed whispers and there were many rumors surrounding who had them. But it was usually very high-ranking members of the military, powerful noble houses and other exceptional individuals who were likely to hold Exquisite skills.
+
+And now Orodan had one.
+
+Frankly, if someone decided to use an Observer orb on him, he stood a very high chance of being reported and promptly ‘asked’ to go along with some very powerful individuals to wherever they chose.
+
+The last rumor he heard of someone with an Exquisite skill a few years ago was a girl in the neighboring Tooksten County, and the Capital Guard came by within an hour of her using the Observer orb at her local crafting guild office. Her family suddenly skyrocketed in wealth and often went to go visit her in the capital and they spoke of how she was doing important work and had a very lucrative position in the High Forges of Karilsgard.
+
+So Orodan had to tread carefully if he didn’t want to be nabbed away to the Capital. Furthermore, his was an active combat skill of Exquisite-rarity.
+
+The likelihood of him missing out on the ability to influence the Battle of Ogdenborough due to being kidnapped by the Capital Guard and trained into being a military asset of the Republic was incredibly high if anyone caught wind.
+
+And while that sounded like a dream career to Orodan, in the short term he didn’t want to go anywhere until he dealt with this damned Quest looming over his head.
+
+And so, he continued, eager to test himself against that very strong, spear-wielding Adept who put a stop to his rampage in Loviaston last time.
+
+***
+
+Even at level 1 of Impregnable Bladewall, the difference was like night and day. An Exquisite skill was… powerful.
+
+The tabard wearing spear-Adept confronted him like last time for daring to rampage and slaughter the troops of House Argon, but this time Orodan successfully used Impregnable Bladewall and fended off the dangerous Lunge. He proceeded to engage the man in a heated melee exchange of steel on steel that damaged the stone tiles of the street with the shockwaves.
+
+He was an Adept-level combatant now. And while regular Adepts couldn’t cause collateral damage with just their regular attacks, an exceptional Adept when combined with active combat skills absolutely could. And Orodan had an Exquisite-rarity active combat skill. It went without saying that he could now cause a certain level of environmental destruction if he wasn’t holding back.
+
+Impregnable Bladewall was his defense, and Power Strike was his offense. Furthermore, once he got into close-quarters combat Orodan kept pressuring the man and preventing him from gaining sufficient distance to use Lunge again.
+
+He weaved both his offense and defense together synergistically and fought the man evenly until the spear-Adept finally had enough and leapt away with an ugly look on his face.
+
+“Who the hells are you? A dog of the Republic who’s caught on? If so, why aren’t you at Eversong Plaza?” the man asked, and Orodan was surprised he was as forthcoming with the information. Then again, the attack was in a few hours and Orodan had already acted openly.
+
+“Less talking, more fighting. Face me like a warrior!” Orodan replied as he gave chase.
+
+Unfortunately, all good things had to come to an end. The man was nearing the Elite level in his abilities and was thus able to outrun Orodan with a sizeable gap.
+
+Furthermore, the alarm bells for Loviaston had been rung a while ago when Orodan had started his massacre and enough time had passed.
+
+So, he finally got to see what the Volarbury county militia’s Elite response unit looked like for the first time.
+
+And by see he meant experience a city block levelling attack which likely splattered him into fine red paste.
+
+He didn’t even see the attack which killed him, only the sight of an armored woman in militia colors atop a brown-feathered griffin in the sky.
+
+[Quest Failed → Battle of Ogdenborough - You have died]
+
+A keening wail ringing in the night sky awoke him.
+
+The Quest messages were brushed away, and Orodan got to his feet with a smile on his face.
+
+“I actually forced an Elite-level member of the county militia to come deal with me personally.”
+
+He looked through his Status and made the decision to change his title to Combat Apprentice and leave his newly gained second title slot empty.
+
+Titles and the number of slots one had were a symbol of social status. When one crossed 50 and achieved the Adept-level in a skill for the first time, they received a second slot. A third was received for crossing the Elite threshold at 70 for the first time, and so forth.
+
+Of course, if a slot was left empty then to anyone using Observe it would only show the singular active Title, which had to have a Title assigned.
+
+Orodan made this decision because the enforcers of House Argon at Eversong Plaza knew him growing up, and most importantly, they used Observe on every passing person they saw. So, the discrepancy between Observing him the last time before the loops began, to now where he was suddenly an Adept? It would alarm them, and for the purposes of what he wanted to do, he didn’t need them being alerted instantly based off his Observe readings.
+
+But still, Orodan’s smile grew wider at how far he had come.
+
+Now it was time to put his obstinate nature to work at grinding against the Quest once more.

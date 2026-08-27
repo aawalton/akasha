@@ -1,0 +1,125 @@
+---
+id: cb53b3f9-0fd1-56af-85cb-aa0bdd3a462e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 213: Purify"
+slug: 0215-chapter-213-purify
+partOf: savage-divinity
+position: 215
+ownLength: 3618
+unit: words
+publishedAt: 2017-05-31
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/139463/chapter-213-purify"
+royalRoadId: "139463"
+---
+
+“Second Unit, stand down, Third Unit forward. Victory or Death!” The words lacked conviction as Chu Tongzu fell back from the front lines, taking the proffered bucket of water to quench his burning thirst. Splashing what remained on his face to wash away the blood and sweat, he studied the battle lines in search of flaws to shore up or exploit. Too many of the former and not enough of the latter, his guards were ill-suited for battle, but his soldiers were busy to the south. Bully was an apt moniker for these guards, men and women more used to strutting about the city in their livery, dealing with cargo inspections and domestic disputes rather than bandit raids or Defiled incursions. If not for his presence, these guards would have long since abandoned their posts.
+
+Under his steady watch the guards held the line, with considerable aid from Vichear and the other Bekhai. The massive half-bear danced about the battlefield, appearing wherever he was needed, bellowing orders and striking down the Defiled with ease. His martial prowess aside, the man was a born commander, able to bolster morale and lift spirits with a few errant words, the flagging defenders rallying wherever he appeared. If Tongzu had a thousand warriors like him, then the battle for Sanshu would be won within the hour. A shame, but even among the Bekhai, Vichear was a rarity, an elite among elites. Curse the blind fool who so casually dismissed him.
+
+Gerel aside, the rest of the Bekhai were a disappointment. Make no mistake, they were skilled warriors who followed Vichear’s orders to the letter, but Tongzu couldn’t help but notice a disturbing lack of tension among them, their lax attitude inappropriate when considering Sanshu’s dire straits. Even the lowliest guards were giving it their all, risking life and limb to protect the city and its people, but the Bekhai were disturbingly dispassionate regarding the Defiled incursion, as if they held no stake in Sanshu’s fate.
+
+Then again, perhaps they didn’t. While the Bekhai were making waves of late, historically the people living far from civilization trended towards isolationism. With hundreds of nameless villages dotted throughout the remote mountain range, many of them weeks of travel from civilization, they were largely self-sufficient by necessity. No barbarians or savages either, a study of Shen Huo’s mercantile records showed a trade surplus for the Bekhai, exporting many goods and commodities, everything from raw lumber and uncut gemstones to masterwork weapons and lifesaving medicines. A documented mercenary force, the Khishigs’ record of battles was sparse in recent years, their most recent clash being over fifty years past, and before that, another two hundred years back. With so little interaction with the world at large, it was possible the Bekhai barely even considered themselves part of the Empire, seditious as the thought might be.
+
+A damn shame. Living in such harsh conditions raised fine warriors, but all sorely lacking loyalty and patriotism. This coupled with their low numbers and Gerel’s noticeable absence meant that the Bekhai impact fell short of its full potential. They were unwilling to risk their all for Sanshu and the cynic in him could hardly cast blame. What had the Empire ever done for them aside from demand taxes and service? With its treacherous trails and hidden hazards, coupled with the numerous rumoured Ancestral Beasts lurking deep within the passes, perhaps not even the Defiled could conquer the aptly named Saint’s Tribulations Mountains.
+
+Shaking his head, he checked in with his officers, sending messages down the chain to take stock of the overall situation. The bridge behind him was the key to victory or defeat, leading to the Central District. Were the Defiled to take it, they would be free to strike anywhere in the entire city, but if Tongzu were forced to destroy the bridge, retaking the South-West District would be all the more difficult, forced to march his soldiers through roundabout routes to get into position. If not for XinYue’s timely arrival, he might have been forced to give up the Southern Bridge and send his soldiers to reinforce Sovanna’s position. Now, with the Mother’s Militia and Crossbone Corsairs to aid her, she was doing an admirable job of retaking the northern bridge, while XinYue rode with the Bekhai to support his flagging soldiers in the south. The young man was filled with fire and vinegar, ready to clash against the traitor Mao, calling for his head. A good child, perhaps worthy of grooming, contingent on his relationship with the Bekhai.
+
+Though he had the Defiled confined to the South-West District, Tongzu felt like an invisible dagger hung above his head, the entire battle teetering in the balance. Yes, he held three of five bridges, but was it mere coincidence they were as far from one another as could be? Each one led to a different district, meaning it would be difficult for him to reinforce the other positions should the Defiled push through. Was this part of Yo Ling’s plan? This mindless sustained assault wasn’t a viable strategy, but the cunning bandit lord seemed content to let things lie, only appearing to cut down Gao Qiu before disappearing once again. Tongzu never thought there would come a day when he would mourn the Red Devil of Sanshu, but by Sovanna’s accounts, the Northern bridge would have been lost without the notorious bandit, and lost again without the Mother's Militia and Azure Ascendants.
+
+It rankled his nerves to know his city was being saved by the bandits who’d plagued him for so many years. Still, bandits though they might be, they were here fighting for Sanshu, which is more than he could say for its people. Where were the noble heroes of Sanshu? Why was it only the dregs and villains who showed up in this time of need, while its vaunted warriors and nobles fled in the chaos? How mortifying. The Council was all but dissolved after he ordered the evacuation, every wealthy merchant and nobleman clambering over one another in their dash to escape, their wealth packed in wagons and barges clogging up the gates. A show of arms might make them abandon their wealth, but he needed every able hand to hold the bridges and still it might not be enough.
+
+A report arrived stating XinYue and the Bekhai had successfully retaken the Southern bridge. So quickly? Only minutes ago, his soldiers seemed on the cusp of breaking. Elated, he listened to the report and mourned the loss of Falling Rain, thrown into the waters. Even against stacked odds, the boy brought down the notorious bandit Black Heart Nazier, a damned impressive final act of defiance. His mind made up, Tongzu vowed to send a delegation to the Bekhai and offer his gratitude and friendship after all this was done. The Society and Council be damned, warriors like Akanai and Baatar were what nobles should aspire to, raising peerless talents and taking in good soldiers like Rain, Gerel and Vichear. He might even offer Bastard Liu and Jariad a pardon if they’d accept service under him.
+
+Unlikely to happen, but a man can dream.
+
+“How are things going here?” Pale and exhausted, Gerel arrived on quin-back, ready for battle with weapons in hand. Incredible, not even the estimated twenty-four hours had passed and he was hale and... healthy was a stretch, but able. His spirits high, Tongzu repeated the good news aloud for all to hear, his guards cheering as word spread. Laughing at the mention of Rain’s heroic sacrifice, Gerel shook his head. “I’ll believe the boy’s dead when I lay eyes on his cold, rotting corpse.” Tongzu wisely held his tongue, knowing there would be little of the boy left once the fish were through with him.
+
+“Che, you put too much faith in the foundling.” A veiled woman in dark leather armour stood next to Gerel, an unfamiliar face. Relaxed and unconcerned as she brushed her quin, her mere presence caused Tongzu to step away in concern, only just noticing her though she was well within arms reach. Another expert? “The arrogant child even dared raise his weapons at me. Of all the nerve. If not for the girl, I'd have squashed him into a paste.”
+
+“The passion of youth, don’t hold it against him.” Flashing a roguish smile, Gerel added, “Would you care to make a wager Mentor? I doubt we’ve seen the last of Falling Rain. Not even the Mother is so merciful.”
+
+With a dismissive snort, the veiled woman answered, “Shameless child. If I’ve told you once, I’ve told you a thousand times: I am not your Mentor. I merely gave you a few words of advice, you don’t even qualify as a student. I’d die of humiliation if the world believed I raised such a worthless disciple.”
+
+Gerel? Worthless? Gaping in disbelief, Tongzu barely kept his composure, hurriedly clasping hands to the expert. “Apologies for my lack of manners, I am Chu Tongzu, Magistrate of Sanshu. How might I address you?”
+
+Lips pursed, the veiled woman turned away, ignoring the question while Gerel shrugged in apology. Swallowing his pride, Tongzu cleared his throat and glared at his nearby guards, daring them to laugh. No matter, if this expert was Gerel’s superior, then a little discourtesy was easily suffered. Hell, if the woman was comparable to Akanai or Baatar, then he’d kiss her feet and kowtow thrice. Someone needed to kill Yo Ling and he was woefully short on options.
+
+“Where is this bandit who injured you?” The veiled woman looked over the battlefield, standing on her toes like a village girl watching a parade. “I still don’t understand why you’re so insistent on killing him yourself. I wish to be done with this and return home.”
+
+“My apologies Mentor, but I made a promise. I require recognition and the rank which comes with it. The future Marshal of the North can’t marry a mere Senior Captain. I must aim for the apex to better support my bride to be.”
+
+“Bah. All this fuss for a girl. Sheer idiocy.”
+
+Sliding off his quin, Gerel grinned and hefted his glaive, wincing as he stretched. “No mere girl. She is a woman like no other and I will make her my wife. You’ll like her, as much as you like anyone at least. Now if you’ll excuse me, I’ve a city to save.” Calling for his warriors to join him, Gerel ran off into the fray, leaving the veiled woman behind.
+
+With a huff of displeasure, the veiled woman crossed her arms and turned to Tongzu, tapping her foot and waiting in silence. Realizing her intent a few seconds too late, he clapped his hands and bellowed, “Come, a chair for the lady. Tea and snacks too, quickly now.” If nothing else, Tongzu was a man who knew which way the wind blew. With so many hidden experts among their ranks and Shing Du Yi’s willingness to betroth his precious daughter to them, the Bekhai were truly poised to supplant the Society as the reigning power in the North.
+
+Perhaps when all this was over, he’d enlist their aid to cleanse Sanshu of all its filth in one fell swoop. A city with no Defiled, no bandits, and no Council, was it too much to hope for?
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Suspended in the darkness, the warm, refreshing water circles around me, holding me in its comforting embrace. I’m almost enjoying myself, but I guess this is what oxygen deprivation does to the brain. Or maybe it’s cold shock or something. Whatever. Pleasant as this all is, the anticipation is getting to me. Waiting for death is never a pleasant feeling even in the best of circumstances.
+
+Who knew dying would take so long? Or maybe I’m already dead.
+
+Foolish foundling. You can still survive, you only need accept our aid.
+
+Scoffing as I open my eyes, I find myself face to face with not-Baledagh, the Spectres swirling around it in the void. It looks much more human now, its monstrous features hidden behind a somewhat handsome visage. Sneering, it gestures at the swirling whirlpool around us, raging against an invisible barrier, trapping Baledagh, not-Baledagh, and myself within these cramped confines.
+
+Accept our power and rise to become unparalleled beneath the heavens.
+
+Putting it out of mind, I cup Baledagh’s cheeks and gaze into his unresponsive eyes. “Sorry little brother, but this is better than the alternative. Dying’s not so bad, trust me.” Hell, who knows, maybe we’ll reincarnate together. Hopefully in different bodies though. I have to end him. I know it. It’s not the Spectres’ whispers guiding me to do this, it’s... something else.
+
+Your brother can still be saved. You would rather kill him than seek our aid?
+
+“Sure would.”
+
+With a ferocious snarl, not-Baledagh attacks, but I’m ready. A torrent of Chi slams it against the invisible barrier to comical effect, pinning its body in place. Taking pride from watching its futile struggles, I taunt the Spectres for kicks. “Get thee behind me, Demon. You have no power here. I reject you and all your empty promises. I’ve no fear of death so long as I can take you with me.” I mean every word. With doom hanging over my every action for years now, I’ve long since become numb to it. I’ve escaped death’s icy clutches enough times, even after rerolling from my first life. Granted, I landed in less than ideal circumstances, but I've met so many wonderful people and experienced a wealth of incredible things. With two families who loved me and so many pets to cuddle, I’ve gotten more than my fair shake at life.
+
+A shame about Baledagh though, he never got his chance to live. I’d be lying if I said I had no regrets, but with the Spectres here, this is for the best. Baledagh and I will die, but there’s no risk of us infecting those around us. The world doesn’t need us, it’ll get along fine after we're gone. All I have to do is grant Baledagh peace, then I can lie down and rest.
+
+My arms tense as I struggle to take the last step, to grant Baledagh mercy. He’s barely a shell of a person, lost in his fantasies. I don’t need him anymore, I’ve shown as much. Death is inevitable, but I can’t leave him here to suffer, slowly devoured by monsters, both here and out in the real world. Before I go, I need to grant him mercy while he’s still happy and ignorant of all the troubles in the world.
+
+I need to do this.
+
+...
+
+But I can’t.
+
+I don’t understand. If I’m dying, why do I need to kill Baledagh? Glancing around, my mind clouds as I search for answers, staring at the water outside. I could use a splash of water, something to clear my head, but something is keeping it out.
+
+Breaking free from my control, not-Baledagh screeches and dives towards me, tackling me against the barrier. Clawed hands rip into my flesh and tear at my face, but there’s no pain, no sensation to accompany it. With a mental effort, I move with not-Baledagh’s momentum, wrapping it in its arms and letting the current carry it away, dragged along the inner walls of my prison.
+
+My prison? Right, that’s what this is. Narrowing my eyes, I exert my will to tear it apart and let the cleansing waters in, but nothing happens. The invisible walls are solid and weighty, outside of my control. Glancing at not-Baledagh pinned to the wall, I realize it's not responsible for this. Like I said, it has no power here, weak and impotent now that I’ve wholly rejected it.
+
+But Baledagh hasn’t rejected it. Through him, the Spectres keep the waters at bay, using his instinctual desire to live in order to keep us alive. I can't let this happen, we need to die and drag the Spectres down with us. Wandering back to his side, I turn to watch Baledagh’s dreams, still continuing despite our impeding death. I could kill him easily as turning my hand, but I can’t bear to do it. I want to leave him in there to enjoy his last moments, but even that tiny mercy is denied to him. With one last lingering gaze at his perfect family, I reach out and pluck Baledagh from the dream.
+
+Surprise, anger, recrimination, and despair all flash across his face, the bleak truth shattering his fragile heart as he comes to grips with reality. With a crestfallen look of anguish, he croaks one, simple word. “Why?”
+
+“This all needs to come down,” I answer, gesturing around. “I need your help to do it.”
+
+After a short pause, he asks, “Will I die?” His hopeful tone breaks my heart and all I can do is nod. Relief etched across his face, Baledagh closes his eyes and the walls come crashing down. The Spectres wail in fury as the waters wash over not-Baledagh, its physical form melting away beneath the torrent, washed clean of all its evil and corruption. With his arms opened wide, the deluge sweeps Baledagh away, his body sinking deep into the void, eroding away in the darkness.
+
+Standing in place, I wait my turn, but the waters only swirl around me, a gentle ebb and flow circling me, pleased to be here. Warm and comforting, it fills me with... not memories, but an awareness of my time spent adrift. While channelling my Chi on the brink of death, the Heavenly Waters of Sanshu found me and came to my aid. Not wholly sentient yet with a will of its own, it bonded with my Chi for reasons unknown, as naturally as filling a cup. Warding off predators and nourishing my body, it clashed with its antithesis, the Spectres within me. Unfortunately, the Spectres grew in power due to Baledagh’s emerging consciousness and the Heavenly Waters were forced to flee, believing me lost and with no desire to be used. Even then, it kept close, searching for a chance to reunite with me.
+
+Huh. Looking back on it, ever since I woke up, I never went to gather water on my own, despite my fascination with it. I always waited for someone to bring me water, no matter how filthy or thirsty I became. The Spectres subtle influence, keeping me away from the Heavenly Waters, seeking to corrupt me before returning to seize it? Is this water the Tears of the Mother? The stuff that nourished the Sacred Trees of Sanshu and empowered the giant turtle in Ping Yao? The water remains silent to my questions, not out of spite or desire for concealment, but rather because... it’s water. It doesn’t know what the fuck I’m talking about. It likes my Chi, so here it is, all up in my business.
+
+An odd pet, but I’ll take it.
+
+Bringing myself to Baledagh’s side, I halt his descent, tearing up at his departure. Asleep, his features seem so soft and rounded, like a child still yet to reach adulthood. This is how he sees himself, because mentally, he’s still a child. It’s not fair. Why does he have to die? Because he’s Defiled? The waters don’t respond, continuing to erode away at my little brother with a vengeance. It sees him as anathema to my existence, like the Spectres are to it, so it works to purge him from existence.
+
+For my benefit.
+
+I don’t understand. I never asked to be here, I never wanted to usurp Baledagh, yet it seems I’m destined to do so regardless of my wishes. He rejected the Spectres, same as me, so why can he not be saved? Glaring angrily at the Spectres, I blink in surprise at what remains. A light in the void, energy clean and untainted, the Spectres' remains, purified by the Heavenly Waters and fading fast. As I reach out to grasp it, the waters bubble and foam, displeased by my actions and attempting to sway my decision much like the Spectres, but I don’t give a shit. It doesn’t give orders here. It’s water. I drink that shit for breakfast.
+
+The purified energy encircles Baledagh, protecting him from the waters. His existence is faint and weak, suppressed by the Heavenly waters but no longer fading. Instructing the waters to stay away from my little brother, my new friend bubbles with disapproval before rescinding from Baledagh, forgetting its displeasure almost immediately. Satisfied with the situation, I steel myself before waking, dreading the impending pain. I mean, I fell into a river filled with toothy fucking fish. If I’m not dying, I’m probably still grievously wounded right?
+
+Well, no sense delaying.
+
+Stepping from the void, I gasp heavily, my lungs burning with pain as I bob at the water’s surface. A chorus of chirps and squeaks greet me as I find myself surrounded by quins, the voracious oversized otters keeping guard while Mafu holds me afloat. Cheeks stuffed with a still flailing fish, the fat quin almost seems proud. Laughing out loud, I pat his head and say, “Good boy, Mafu. Take me back to shore? There’s work to be done. Defiled to kill, cities to save, you know the drill.”
+
+Following my gestures more than my words, Mafu paddles towards land, skimming through the water as our escort of quins follow suit. Still catching my breath, I smile at the absurdity of it all. Even with a new pet blob of Heavenly Water, Mafu is still number one.
+
+Sorry Zabu, you were here first, but it’s bros before hos. You brought this on yourself.
+
+Chapter Meme

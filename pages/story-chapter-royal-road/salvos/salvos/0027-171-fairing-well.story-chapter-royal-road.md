@@ -1,0 +1,291 @@
+---
+id: 35721220-a896-5299-bf7d-0ea961f84e4b
+page-type-slug: story-chapter-royal-road
+title: "171. Fairing Well"
+slug: 0027-171-fairing-well
+partOf: salvos
+position: 27
+ownLength: 2143
+unit: words
+publishedAt: 2021-08-23
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/738522/171-fairing-well"
+royalRoadId: "738522"
+---
+
+171. Fairing Well
+
+As a Fairy, Lily didn’t need to sleep, just like me. But apparently, unlike me, she could fall asleep whenever she wanted to. Which was odd. I didn’t understand why you’d go to sleep if you could choose not to.
+
+“You’re still a young Demon.”
+
+Lily flitted over to the Fairy Mound, sitting crossed leg at the very top of the rubble.
+
+“When you live for centuries, you’ll realize that experiencing every moment of it starts to be a bore. Whether we spend most of our lives awake or asleep, it doesn’t make a difference for you and me.”
+
+“Why not?”
+
+I cocked my head, and she grinned.
+
+“Because time is on our side.”
+
+She spread her small arms wide.
+
+“We’re no mortals, at the mercy of age and illness. Humans, Dwarfs, Elves, Beastmen, and even Kobolds are beholden to their lifespan. If they wish to overcome it, they are pressed to fight, to level, to become something more than just a meager mortal. But Demons? Spirits? We’re born free from the shackles of time.”
+
+I could only stare at Lily as she made her speech, a satisfied look on her face. My jaw hung open, letting out a single word.
+
+“Woah.”
+
+The Fairy nodded.
+
+“Good. Now if you understand that time is insignificant to us, I will go and take a nap, thank you very much.”
+
+She flickered into the Fairy Mound, out of sight. I paused, feeling the sense of wonder slowly fade away and logic return to me.
+
+“Wait, did you just give that entire explanation to justify why you should sleep?!”
+
+I only heard her snores in return.
+
+—--
+
+“So, for today—”
+
+“I don’t think it’s been a day. I’m pretty sure you only took a few hours of napping.”
+
+Lily glared at me for speaking over her. She crossed her arms, repeating herself.
+
+“So, for today, we’re going to be continuing your training by doing the same thing.”
+
+I raised my hand.
+
+“If we’re going to be doing the same thing, you didn’t have to say all that, did you?”
+
+She rolled her eyes.
+
+“We start... now.”
+
+And she vanished. I shrugged.
+
+“What? It’s a legitimate question!”
+
+It was a repeat of just a bit ago. I managed to recover most of my mana and stamina. Lily did too, but since I actively knew how to track her down now, it wasn’t so hard finding her. Catching her, on the other hand, proved to be as difficult as before.
+
+Only when she ran out of mana did I manage to get my claws on her. We collapsed. The Fairy was in my hand as I lay on the ground, grinning and panting with her.
+
+“I did it again! I… wait.”
+
+“Let go of me already!”
+
+Lily snorted, and I did as she told me to. She spoke as she dusted herself off.
+
+“What is it? Why do you have that confused expression on your face?”
+
+“I just… I didn’t get a Skill for it.”
+
+That was odd. I got a Skill for catching her earlier. But now… I got nothing?
+
+The Fairy wasn’t surprised.
+
+“Did you think you’d get a Skill every single time you chased me and caught me? Or even every time you push yourself to your limits? No— Skills are only learned when there’s actually something for you to learn!”
+
+I blinked.
+
+“Um, doesn’t that just mean what it means?”
+
+“Yes, I said what I said!”
+
+“This confusing conversation is making me confused.”
+
+I rubbed at my temples, but Lily sighed. She flitted up to meet my gaze.
+
+“Look, let me ask you this: how did you catch me the first time?”
+
+“I, um, found you with [Spectral— but no, I don’t have the Skill yet. So, first, I used [Spatial Sight] to familiarize myself with the unperturbed space. After that, I found the disruption in space you created with your magic. Then I followed it until I found you. And finally, I chased you until you gave up while keeping track of where you’re going?”
+
+I wasn’t entirely sure if that was the right course of events, but it sounded like it was right. Lily nodded as if that didn’t really matter.
+
+“Yes, yes, yes. Now, how did you catch me the second time?”
+
+“Oh, I just did the same thing! Although, I think I skipped the first step?”
+
+“You did.”
+
+She agreed, and that was apparently where the problem lay.
+
+“You can’t expect to learn anything new by doing the same things over and over again. Refining your Skills or skills has its place. It’s not bad. If we repeat this training lesson ten more times, I’m certain you’ll get faster and faster each time— even if barely.”
+
+Taking a deep breath, she floated upwards. Further away from me. And she shone brighter as she continued.
+
+“But if you truly want to learn new things, you’ll have to do new things! You’ll have to change!”
+
+Lily snapped her fingers, and another portal opened behind her. She flew back into it, facing me.
+
+“Try to catch me again. This time, don’t follow my trail!”
+
+It closed shut behind her as I took a moment to register what just happened. I tilted my head back.
+
+“So, you don’t actually need to take a break?”
+
+—--
+
+The third time I caught Lily, things played out the same with only one key difference: I decided to find her with the same tactics, I continued to chase her, and won when she grew tired, but I paid careful attention to her too.
+
+I observed how she moved. The spell she cast each time she teleported. I saw the way it unraveled the threads of mana in the air. Space magic. Something I could hope to replicate. I ran after her as she blinked in and out of existence, repeatedly getting further and further away from me.
+
+I didn’t learn it immediately. It took me a few days to learn this Skill, since it happened so briefly each time, I couldn’t grasp all of it at once. I dissected each individual component of the spell, until I learned how to do it. Even then, it wasn’t the exact same Skill Lily used. It was my own variation of it, which in turn rewarded me with a more refined and uniform Skill to use compared to my rough magic.
+
+Skill [Short Range Teleport] Learned!
+
+Experience is awarded for the learning of a Skill!
+
+Class [Adept of the Fae] Level Up!
+
+[Adept of the Fae - Lvl. 28] -> [Adept of the Fae - Lvl. 29]
+
+Gained 2 Secondary Skill Points!
+
+Even after I learned that Skill, Lily wasn’t done with this same routine. We continued this little act as time— I wasn’t sure how long down in this cave, whether it was days or weeks— passed. I learned another Skill. And I even leveled in [Rest] for the first time in a while!
+
+Skill [Astral Grip] Learned!
+
+Experience is awarded for the learning of a Skill!
+
+General Skill [Rest] Level Up!
+
+[Rest - Lvl. 4] -> [Rest - Lvl. 5]!
+
+Experience is awarded for the leveling of a General Skill!
+
+Class [Adept of the Fae] Level Up!
+
+[Adept of the Fae - Lvl. 29] -> [Adept of the Fae - Lvl. 30]
+
+Gained 2 Secondary Skill Points!
+
+I was pretty sure that was only possible since I no longer downed potions on a daily basis, letting the General Skill actually take effect.
+
+Anyway, during that time where I’d be in the middle of a [Rest], Lily would oftentimes go to sleep or hide in her Fairy Mound. But there were the rare occasions where she’d actually come out and just chat with me. She rarely ever talked about herself, but instead she prodded me to regale my story of how I reached Level 100. This was one of those times.
+
+“...and then Daniel somehow lost his Necklace of Greater Obfuscation to a [Gardener]. A [Gardener]! Can you believe that?”
+
+“Mortals are oftentimes incompetent. Especially Humans. I am not surprised that he made such a blunder.”
+
+I threw my arms in the air.
+
+“Right?”
+
+I continued on to talk about the Lich, Zacharius, and how the three of us— me, Edithe, and Daniel— freed the Plaguelands from his tyranny. I expected this part of the story to blow the Fairy’s mind. When I told Rachel about this, the girl literally jumped into the air and screamed in excitement.
+
+Lilly… didn’t react like anything close to that. She was listening. She wasn’t ignoring me. But her mind seemed preoccupied. The Fairy’s ball of light flickered, and I cocked my head.
+
+“Is something wrong, Lily?”
+
+She jerked back, caught off guard by the question.
+
+“Something… wrong?”
+
+“Yes.”
+
+I nodded and poked a finger at her side.
+
+“You look worried about something.”
+
+“I… that’s not it.”
+
+Lily took a deep breath as she floated up, concealing herself in a brighter sphere. I couldn’t make out her features now, but she still spoke.
+
+“Why did you even come to me for help, anyway?”
+
+I frowned. That question had an obvious answer.
+
+“Because you can teach me— that’s what my Class said!”
+
+There was a pause. I was certain she was tilting her head inside of her own glowing bubble.
+
+“I don’t even know what your Class is.”
+
+This time, I was the one to jerk back, taken completely off guard.
+
+“Wait, you don’t?”
+
+“Of course not!”
+
+She scoffed so hard, the light around her dissipated. Jabbing a hang in my direction, she spoke accusingly.
+
+“You’re not even showing me your Class— you could be a [Rogue] for all I know! I just see you as a [Cambion].”
+
+“Huh?”
+
+It was a confused ‘huh,’ not my usual one of understanding something new. This whole time, Lily had been teaching me without… knowing anything about me?
+
+“But you— I’ve—”
+
+I was actually speechless. I pursed my lips and stared at the Fairy.
+
+“Do you even know what level I am for my Class?”
+
+“Nope!”
+
+Lily leaned back, lying in the air.
+
+“Absolutely clueless.”
+
+“I… see.”
+
+She waved a hand, uncaring.
+
+“Honestly, I don’t even know why you never switched your Status to display your Class over your Subspecies. It’s kind of reckless of you. Although, do you even know how to do that?”
+
+I hesitated.
+
+“N-no…?”
+
+Lily narrowed her eyes. I shuffled uncomfortably where I sat. Then she burst out laughing.
+
+“Seriously? You mean no one has ever told you?”
+
+“I just reached Level 100 barely three months ago, ok?”
+
+I defensively gesticulated, as if that made a difference. She wiped a tear from her eye as she stopped laughing.
+
+“Salvos, you really need to stop and take things slowly for once. You’re going to run straight into a wall if you keep going this fast. And trust me, you won’t break through it. You’ll splatter all over it into a mess of black goo.”
+
+“You keep saying that.”
+
+I scowled.
+
+“I’ve already started taking things slowly since I left the Plaguelands, alright? Just tell me how to do this already!”
+
+“Alright, alright.”
+
+Lily giggled. I didn’t know if it was at my embarrassment or because she found the imagery of me being smashed across the wall funny. After gathering herself, she explained.
+
+“Just think of your Status. Once it’s up, focus on your Class, not your Subspecies. That way, others will see your Class instead of your Subspecies when they use [Identification] on you.”
+
+“That’s it?”
+
+I raised a brow. She gave me an exaggerated nod.
+
+“That’s it. Try it.”
+
+Snapping my eyes shut, I did as she instructed. It took a single moment, and I was pretty sure it was done. I looked hesitantly at Lily.
+
+“Try identifying me now?”
+
+“Hm. You’re a Level 30 [Mage]. That’s not bad. You’re only about 30 levels below me in your Class.”
+
+“Only 30 levels below… that close?”
+
+Sure, that was twice my level. But I expected her to be in the 70s or 80s. Close to 100s.
+
+“You must be mistaken about what I’m capable of doing, Salvos. If I were better or higher leveled, I wouldn’t be stranded here in the Mortal Realm. I’d have been able to flee… like my brothers and sisters. When Belzu attacked us.”
+
+Her face sank for a moment. Lily looked… morose. I stared at her, unsure of what to say. I tried to place a finger on her back to comfort her, but she shook her head and flew up.
+
+Looking down at me, she spoke.
+
+“I can’t teach you the theory and magical complexities behind space magic. I can only help you learn how to level smarter. That’s why, tomorrow, we’ll be learning the practical applications of your Skills while getting you an even better array of Skills.”
+
+I pumped a fist in the air.
+
+“Yay!”

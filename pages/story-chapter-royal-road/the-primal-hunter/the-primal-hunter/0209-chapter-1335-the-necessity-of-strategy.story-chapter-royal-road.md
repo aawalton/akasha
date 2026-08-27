@@ -1,0 +1,125 @@
+---
+id: 4327eef4-f65b-5d4e-acd5-3886bce132d9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1335 - The Necessity of Strategy"
+slug: 0209-chapter-1335-the-necessity-of-strategy
+partOf: the-primal-hunter
+position: 209
+ownLength: 2836
+unit: words
+publishedAt: 2026-06-16
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3548071/chapter-1335-the-necessity-of-strategy"
+royalRoadId: "3548071"
+---
+
+Jake always thought that Haven had been constructed quickly back on Earth, but now he realized just how quickly something could be built. All it required was that the world be virtual and that the person in charge of construction have borderline godlike powers and control over the entire area. So, pretty simple, really.
+
+Jokes aside, Miranda had been incredibly productive, and within a day had made what essentially was a small town surrounding the Territory Beacon. There were several simple-looking buildings spread throughout. Not that Jake could actually see the Beacon. It had been fully covered by a large metal cube, and Jake had already detected several in-progress formations and ritual circles spread throughout.
+
+Underground, there had also been significant developments, as an entire bunker had been built, extending several dozen kilometers beneath thick defenses. At the bottom was a large circular room with piles of materials that Jake naturally couldn’t identify through Pulse or Sphere, but they looked very... witchy.
+
+His initial guess was that this underground chamber would be Miranda’s base of operations, where she could work her witch magic to defend the Territory. Of course, she wouldn’t be the only one responsible for defenses, and he saw that she’d even started adding a few purchases offered by the World of the Exalted Prima he’d seen in the Territory Beacon menu before.
+
+One of them was a large spire of sorts that had what looked like a satellite dish at its top. From what Jake recalled, that one was quite expensive, though he couldn’t quite remember what it was supposed to do. He believed it was a radar or something like that, but he’d have to ask Miranda to make sure.
+
+Besides that, there were four towers constructed about a dozen kilometers from the Territory Beacon, with them placed in a perfect square. They were, not coincidentally, perfectly placed to point towards the straight borders, making Jake wonder if Miranda had found a way to see the layout of the Territory without Jake going on a scouting mission.
+
+That would suck a little, as Jake would feel as if he had partly wasted his time, but at least he’d been able to get a little peek at their neighbors, so the trip wouldn’t have been entirely in vain.
+
+These four defensive towers were all mounted atop large cone-shaped structures, with the towers themselves resembling the large launchers on modern battleships. There were four barrels on each, and through his Pulse and Sphere, he could see some serious magic at work within the cone structures they were placed on, likely serving as their power sources. Though from the looks of it, none of the towers were active quite yet, perhaps due to them requiring upkeep if they were.
+
+Jake had a lot of questions, and fortunately, Miranda was readily available right in the middle of the small town she’d constructed. The simple-looking metal structures she’d made were all little more than sheds of sheet metal with some low-level formations placed on them to provide some level of privacy to those within, so he doubted they’d been very expensive.
+
+Noticing his approach, as Jake didn’t try to hide, Miranda turned right before Jake landed softly on the ground. For some reason, he only noticed now that it had been covered in some asphalt-like material. It didn’t feel particularly sturdy, but definitely better than the soft soil that he wasn’t even sure could have supported the large cube of metal that surrounded the Territory Pylon.
+
+“You made it back quicker than I expected,” Miranda said with a smile. “Which means either the Territory isn’t as large as I expected, or you’re faster than predicted.”
+
+“I could also have just quit halfway through my trip because I got bored,” Jake pointed out.
+
+“Yeah, I’m not even considering that as a valid possibility,” Miranda chuckled.
+
+“Fine. I guess I’m faster than you expected,” Jake shrugged. “Speaking of expectations, based on the placement of those towers, am I right to assume you found some method to get the layout of our Territory?”
+
+“I indeed have,” Miranda nodded in confirmation before pointing to the spire with a satellite dish. “That structure has the ability to scan the entire Territory, and after doing so, the Territory Manipulation now covers far more ground, though not quite the entire Territory yet. If I want it to do that, I will have to upgrade the structure.”
+
+“Does it do anything else?” Jake questioned, utterly unable to figure out how the thing even worked. Unlike the towers, there were no complicated magical scripts or anything. It just looked like a metal spire with a satellite dish slapped on top, the entire thing looking like it was made of chrome or something like that.
+
+“As of this moment? No, but as I said, it has several upgrades. It’s one of the special structures available, all of which have multiple upgrades. This one is called the Territory Radar, and it has upgrades allowing it to monitor and even provide warnings should anyone enter the Territory, while also expanding the range of several Territory Beacon abilities.”
+
+“Sounds like the kind of thing everyone will have to construct eventually,” Jake commented with a shrug, only able to agree with the purchase.
+
+“Funny, Lillian said the exact same thing,” Miranda smiled. “I must say, she seems almost excited at this event, far more than with any of those prior. I’ve already given her some access to the Territory Beacon, and while she cannot make purchases on her own, she has spent the last day really scouring all its possibilities and has helped plan what we will do in this Preparation Phase.”
+
+“Hey, nothing wrong with being engaged in the system event,” Jake shrugged, and with his Sphere, saw that Lillian was within one of the simple-looking metal structures sitting in what seemed to be meditation, but it was entirely possible she was doing something else.
+
+“I never said there was, just that this is unusual for her,” Miranda said, shaking her head. “Either way, a lot of what you see is her idea. Those four towers, too. From their descriptions, they seem capable of packing firepower that would even be a threat to you, though they do require the operation of roughly fifty people for each.”
+
+“Does it use some kind of group formation?” Jake asked, not entirely able to tell what all those formations inside the cone-shaped structures the towers were placed on were for, but looking at them, they could totally be group formations.
+
+“Something like that,” Miranda confirmed. “It requires all fifty working in concert to combine their powers and charge the tower. What’s more, they have to work in unison to operate it, all acting as one.”
+
+“That seems... difficult to pull off,” Jake muttered. Group formations were notoriously hard to make work, especially one like this. Formations where some parties had to just supply energy with one person controlling everything were far more common, as the kind where everyone had to effectively operate as one mind were so hard not to fuck up.
+
+Just one person making a mistake, one slight mistake or lack of innate understanding of every other person involved, would spiral and result in the entire group formation falling apart.
+
+The only factions to consistently pull off group formations like these were the Automatons, primarily through the use of non-intelligent drones, the Endless Empire, which, funnily enough, also did it using drones, though the biological kind, and, of course, the Holy Church, which trained groups specifically to operate in these group formations.
+
+Essentially, the greatest threat to group formations was independent thought among any of the participants. It was a lack of ability to serve as a cog in a machine, and most people, especially those capable of reaching higher grades, tended to have quite a strong sense of individuality.
+
+That’s why Jake seriously questioned who the hell could even use these towers, especially if they required fifty people. Fifty was a lot, and the Administrators were all very much people with big personalities. Unless...
+
+“Wait, you plan on using summoned recruits to operate them?” Jake suddenly realized before Miranda even had time to explain.
+
+“You understood fast,” Miranda smiled. “It was Lillian’s idea. The NPCs, as we’ve just decided to call them, don’t display any true individuality and are more like robots than anything else. Some of them are even robots. What’s more, there are summons specifically made to operate those kinds of structures. Granted, this method does require having an actual Administrator giving them directions on what to do to fully operate the tower, but I believe it will be more than worth the investment.”
+
+Jake nodded in understanding. “I’m on board with anything that increases our defenses. Losing the Territory Beacon will probably mean it’s all over, and even if that isn’t the case, it can’t be a good thing.”
+
+“I am assuming you’ll mostly be on the offensive, as this is very much shaping up to be a system event centered around conquering other Territories. Given that, you’re our best bet at rapidly expanding, especially in the beginning. Which brings me to the result of your scouting trip. Anything useful?” Miranda asked, reminding Jake he should probably tell her the result of his journey.
+
+“Right,” Jake nodded. “First of all, it seems that the Territories are divided by large mountain ranges that produce some kind of fog that blocks Perception somewhat, of course, not my Perception, as I managed to gather quite a lot.”
+
+He proceeded to explain all he’d learned, including the number of direct neighbors, his estimate of distances between Territories, and a few other minor details he’d noticed during his flight, leaving nothing out. Miranda mentally noted everything down, and when Jake was done, she slowly nodded, clearly deep in thought. After a couple of seconds, she looked back up at Jake.
+
+“I wonder how the system or this Exalted Prima decided our neighbors. From what you said, all the neighboring territories are smaller than ours, meaning they are galaxies that did worse in prior Prima-related system events. This likely means they are significantly weaker than us, making them quite unlucky to be placed right next to us. Assuming it’s luck-related at all,” Miranda seemed to think out loud.
+
+“Placement of Territories is a massive factor in this event. Imagine if our direct neighbors were all top galaxies of the Holy Church. If that were the case, we would be in serious trouble, even with you here. Sure, they might not be able to take you down, but you also cannot stop them if they’re willing to throw bodies at the Territory Beacon. Plenty of otherwise powerful galaxies could easily fall, simply due to their neighbors being slightly stronger... unless the placement isn’t random at all. What if, instead, some kind of seeding system were used? Some method to spread out the top galaxies, like how one would avoid the favorites in a tournament facing off too early.”
+
+Jake mulled over Miranda’s words, finding himself mostly in agreement with her assessment, though he definitely had his own thoughts. The notion that Territory placement might not be random at all had a lot of implications. One thing was clear, though; this system event wasn’t just about raw strength. It was about strategy, about who you ended up pitted against and when. He couldn’t help but wonder what criteria the system used for such placement. Was it purely based on past performance, or did it factor in something else? Some unpredictable factor, or maybe even the personalities of those involved in the event?
+
+He considered their neighboring galaxies, their placement having suddenly taken on new significance, assuming Miranda was correct. If their neighbors were all weaker, then their task, the second the Preparation Phase ended, was clear: expand quickly and secure as much Territory as possible while there was no risk of being attacked by a force representing an actual threat.
+
+Moreover, if this were a seeded event, then the other top contenders were just as isolated as the Milky Way Galaxy. They wouldn’t end up meeting them for quite a while, but when they did, the factions would surely have had plenty of time to establish themselves. Plenty of time to form alliances, gather PC, use the World of the Exalted Prima mechanics to their advantage, and work on countermeasures to handle someone like Jake. From a strategic perspective, seeding being a thing perhaps wasn’t the most advantageous for Jake, yet the thought sent a thrill of anticipation through him. The thought of facing the top figures of his generation in this simulated world while they were at their strongest was naturally quite an exciting prospect.
+
+For now, though, all they could do was make their own preparations to defend themselves and lay a proper offensive plan for when the system event truly started. They also had to keep trying to explore the mechanics and rules of the simulated world. The more they understood about the game they were in, the better they could shape the outcome.
+
+“This is going to end up being quite the battle, huh?” Jake muttered.
+
+“I’m getting more and more confident it will,” Miranda nodded. “And we must be ready to face whatever is thrown at us. I take it you’ve already concluded what our immediate plan should be once this phase ends?”
+
+“Make all our neighbors realize just how unlucky they are,” Jake said without a moment of hesitation. “Take down all eleven of them in rapid succession, absorbing their Territory into our own. Then, with those Territories claimed, we can move on to the next in line. That said, one thing concerns me. Have you seen any teleportation circles available?”
+
+Having a larger Territory was the goal, but it also meant that they would have more to defend. While Jake was confident in facing pretty much anyone, Miranda was right when she said he couldn’t be everywhere at once or defend if they were attacked from several fronts.
+
+No one would, and the more Territory they conquered, the more they would have to be spread out. They had only a few hundred Administrators on their side, and if any of them were used in an attack, it would take a long time to replace them. The same was naturally true for Jake. Sure, right now, he could reach one of their neighbors within a few hours, but what about after conquering several Territories? Wouldn’t it take him more than a day, if not several days, to travel back?
+
+Fortunately, there did appear to be some options available.
+
+“There is a special construction used for teleportation, though right now it’s locked, so I cannot see what it does. We do also have four Administrators capable of making long-range teleportation circles, which we could use to speed up travel throughout our territory,” Miranda said. “Also, there are many vehicles available through the recruitment menu, including some made for transportation. I would only expect these to far surpass even your top speed, especially the more expensive ones.”
+
+“Good points,” Jake nodded after giving her words some thought. In fact, the more he thought, the more he realized that this event really wasn’t going to be simple. There were so many moving parts, so much required strategy, and so many possibilities. If he moved into this event just expecting straight fights, he would find himself outmaneuvered and beaten.
+
+Of course, power was still an extremely important factor, and there would certainly be fights. Also, while defending was one of their big worries, Jake was much less worried about attacking. Sure, there would be defenses to deal with, but Jake remained confident.
+
+“We are already working on a game plan. Kindroth is meeting with some of the more strategically inclined World Leaders to develop an initial draft for us to discuss. I would like for you to take part in these meetings, as the role you’ll play is absolutely crucial, and I trust your intuition and instincts,” Miranda said.
+
+“Alright,” Jake nodded. “But for now, I want to go experiment a bit myself. Try to really test the limits of this virtual world.”
+
+“Good idea,” Miranda agreed. “I take it you’ve already discovered the underground complex? There are several private rooms there; just pick one.”
+
+“No,” Jake said, shaking his head. “I’ll do it away from here. Somewhere no one is looking, and somewhere any potential fallout won’t cause too much trouble.”
+
+“What exactly do you plan on doing?” Miranda asked with a hint of worry.
+
+“I already told you,” Jake said with a grin. “Really test the limits of this simulation and what exactly can be done within it.”
+
+Plus, now was probably the best time to do so... as should he fuck up too much, he would at least be locked out of the simulation partly during the Preparation phase and be able to make it back before anything too bad happened.

@@ -1,0 +1,39 @@
+---
+id: f82b99a0-b1e5-5c33-bc97-6693e4fba675
+page-type-slug: story-chapter-royal-road
+title: "System Universe 4: Trials of Cydaria out today!"
+slug: 0007-system-universe-4-trials-of-cydaria-out-today
+partOf: system-change-system-universe
+position: 7
+ownLength: 515
+unit: words
+ownProgress: 515
+publishedAt: 2023-08-15
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/1311258/system-universe-4-trials-of-cydaria-out-today"
+royalRoadId: "1311258"
+markedReadAt: "2026-06-29T19:56:57.995Z"
+---
+
+Hey everyone! Book four of my series released today!
+
+Today marks the launch of System Universe Book 4: Trials of Cydaria. It’s now available through Amazon’s Kindle Unlimited, Kindle, and Paperback with the Audible version narrated by Adam Verner coming soon.
+
+Available through this link:
+
+Ebook: https://www.royalroad.com/amazon/B0C4G3LPX1
+
+Now, as for how people can support the release, there are a couple things, if you were here for the last announcement, you already know this:
+
+-Ratings and Reviews: On Amazon (Also, keep in mind that anything below a 5 is basically bad because of how their rating skew) ratings and reviews are the biggest help for authors. Also, you don’t have to buy the book to rate it, which is good because you most likely already read it here. Though, I would for sure love for you to pick it up again on KU or Audio to get in on some of that good editing and narration. XD
+
+-Kindle Unlimited Downloads: With the way Amazon’s algorithm is, reading the book on KU or even just downloading it helps a ton. The more downloads/reads, the more Amazon likes the book.
+
+Here’s the blurb!
+
+He didn’t know he was looking for a home until he found one.Savannah was unlike any city Derek had ever been to. For the first time since his arrival in Cydaria, Derek actually met a respectable city lord. Natalie Savannah and the city she ruled were much more than he’d imagined.With this combination, Derek made the decision to put down roots by building a shop from scratch and moving his people in. He was even able to get Silvi the beloved kitchen that she so desired, along with personally meeting Alanah Swan and learning new things about the new system he was thrown into—things that only someone who was truly strong would know.Not only that, but with his help, the Kingdom of Cydaria was able to find and deal with a threat from within in the form of Gerald Torith. With the threat of Torith now taken care of, Derek can finally relax knowing that the terrible man can never use those he cares about to get to him, and hopefully, the Kingdom of Cydaria will be able to use their new captive to weed out other threats to the kingdom.However, none of that has anything to do with Derek any longer. He lent his help and got the job done. Now, he’s looking forward to the auction and any gains it may bring him.Maybe it’s time for him to relax; or maybe a prince has other plans for him. Maybe new trials await.Don’t miss the fourth installment of Derek’s journey in the System Universe. Join Derek in this unique combination of the LitRPG, Isekai, and Slice of Life genres. He has friends, a bond that should last forever, and even a home. What more could our overpowered protagonist ask for?
+
+I want to thank everyone who read book my previous books and left me kind reviews and messages. You are all amazing! I hope you enjoy book four!
+
+And as always,
+
+Thanks for reading!

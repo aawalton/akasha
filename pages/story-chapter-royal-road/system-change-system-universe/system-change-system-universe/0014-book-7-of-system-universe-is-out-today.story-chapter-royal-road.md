@@ -1,0 +1,41 @@
+---
+id: dd53bdd1-f3e3-572d-b511-d0f55a612f83
+page-type-slug: story-chapter-royal-road
+title: "Book 7 of System Universe is out today!"
+slug: 0014-book-7-of-system-universe-is-out-today
+partOf: system-change-system-universe
+position: 14
+ownLength: 475
+unit: words
+ownProgress: 475
+publishedAt: 2024-12-11
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/1951201/book-7-of-system-universe-is-out-today"
+royalRoadId: "1951201"
+markedReadAt: "2026-06-29T19:57:11.519Z"
+---
+
+Requirements (System Universe Book 7) Now Available on Amazon
+
+Hey everyone! It’s finally December, which means that my seventh book in the System Universe series is here! Just in time for the holiday season!
+
+Today marks the launch of System Universe Book 7: Requirements. It’s now available through Amazon’s Kindle Unlimited, Kindle, and Paperback. Audible will come at a later date, hopefully not too far out.
+
+Available through this link:
+
+Ebook: https://www.royalroad.com/amazon/B0D71QNNZY
+
+Now, as for how people can support the release, there are a couple things, if you were here for the last announcement, you already know this:
+
+-Ratings and Reviews: On Amazon (Also, keep in mind that anything below a 5 is basically bad because of how their rating skew) ratings and reviews are the biggest help for authors. Also, you don’t have to buy the book to rate it, which is good because you most likely already read it here. Though, I would for sure love for you to pick it up again on KU or Audio to get in on some of that good editing and narration. XD
+
+-Kindle Unlimited Downloads: With the way Amazon’s algorithm is, reading the book on KU or even just downloading it helps a ton. The more downloads/reads, the more Amazon likes the book.
+
+Here’s the description!
+
+Since arriving in Cydaria, Derek Hunt has been caught up in one fight after another, whether he liked it or not. Derek has saved villages and maybe even cities from overflowing dungeons. He later helped with the capture of one of the most despicable noblemen in the entire kingdom. After that, he, at the request of Prince Edgar, helped prevent upcoming danger by clearing a raid dungeon and keeping it from overflowing into the kingdom. Then, he and Silvi joined a war effort that began while he was clearing the dungeon. With their might included in the efforts, Cydaria defeated the allied countries of Astrus and Indria—allowing for a never-before-seen peace to wash over the entire continent. Now, with the war over, Derek’s companions are finally safe, and he can stop worrying about forces threatening them. So, with his people no longer in harm’s way for the first time, what will he choose to do next? Should he take a break? Should he try to learn more about the System Universe? Or maybe it’s time to make good on some promises.Don’t miss the seventh installment of Derek’s journey in the System Universe. Join Derek in this unique combination of the LitRPG, Isekai, and Slice of Life genres. He has friends, a bond that should last forever, and even a home. What more could our overpowered protagonist ask for?
+
+I want to thank everyone who read and continue to read the series, and those who left me kind reviews and messages. You are all awesome!
+
+And as always,
+
+Thanks for reading!

@@ -1,0 +1,383 @@
+---
+id: 8e6b2dfa-87bf-54b6-add2-f8401c9013c3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 692 - Garden Party Continued"
+slug: 0693-chapter-692-garden-party-continued
+partOf: mythrans-master-of-all-continued-completed
+position: 693
+ownLength: 3547
+unit: words
+publishedAt: 2018-09-06
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/287998/chapter-692-garden-party-continued"
+royalRoadId: "287998"
+---
+
+He was supposed to be here. Illonso the Illusionist thought as he performed yet another trick for the fairly large private audience. He had agreed to do the show only because his therapist had told him that he would meet her favorite client at the party. That had made him very angry, because he wanted to be her favorite client. He kept his rage well contained, just like she had taught him, and he had waited patiently for his chance to remove the obstacle to his happiness. Not seeing him was very frustrating, however.
+
+*
+
+“He's really good.” Elise said and turned to look at the other women at the table with her. Barbara, Lisa, Stella, Denise, Barbi, Mrs. Johnson and Miss Harrison.
+
+“He really is.” Barbi said. “He was highly recommended online, and we almost didn't get him.” She said. “My request was rejected at first, then I was told he had a cancellation and could make it.”
+
+“Everyone seems to be enjoying the show.” Stella said and looked around. “Barbi, did you tell everyone what Ren said?”
+
+“Yes, and I even scheduled drink refills at random times.” Barbi said and a waitress brought over a tray of various drinks. “Oh, thank you.”
+
+“You're welcome, miss.” The waitress said, and offered refills to everyone else. Miss Harrison took one, and the waitress moved on to the next table.
+
+“I can't believe you set all this up so quickly.” Barbara said. “Tents, lawn chairs, games, and even entertainment.”
+
+“I know a lot of people.” Barbi said. “That was one of the perks of working at the television station.”
+
+“Do you miss it?” Lisa asked and took a drink of her fruit punch.
+
+“A little bit.” Barbi said. “I miss working there, but it was starting to get repetitive.”
+
+“Just like my job at Sid Tec.” Elise said. “I was pretty much just doing everything automatically.”
+
+“It was all just the same thing almost every day, until one day I had someone come in to do some voice-over work.” Barbi said. “When he kissed my hand before he left, it kind of blew my mind.”
+
+Stella chuckled. “I knew the little Casanova made an impression.”
+
+“You mean Ren?” Lisa asked, and Barbi nodded.
+
+“He surprised me that day, and when Elise approached me about a job taking care of his online presence, well...”
+
+“She couldn't resist the change of pace and scenery.” Elise said.
+
+“I'll be spending some time back at the station for the next few days, though.” Barbi said.
+
+“As long as you don't defect back.” Elise said. “I worked hard to get you to leave the first time.”
+
+“What was it you said?” Lisa asked.
+
+“I think I have an interesting job for you.” Elise said. “Barbi practically tackled me.”
+
+Barbi laughed, as did everyone else.
+
+*
+
+The conversation that Ren, Dana, and Gretchen were having, changed from their slightly inappropriate underwear discussion to their college majors, then to their likes and dislikes. It shifted back to Ren and he told them his likes and dislikes and that he had never been in school.
+
+“No way!” Dana said. “You're kidding!”
+
+“Nope.” Ren said. “I was restricted to the hospital and couldn't go to school.”
+
+“Then... how...”
+
+“My nurses helped me a lot.” Ren said. “They taught me as much as they could, and they would bring me any books that I wanted.”
+
+Dana and Gretchen fell silent for several moments as they thought about that.
+
+“I've never met anyone that hasn't gone to school.” Gretchen said.
+
+“Well, it's not like I had much choice.” Ren chuckled. “Even if I wanted to do it now, I couldn't.” He said and motioned to himself.
+
+“You wouldn't have to attend school to get your high school diploma.” Dana said, struck with inspiration. “You could take a GED test.”
+
+“A what?”
+
+“A general education diploma test.” Dana said. “As long as you can prove you have a general knowledge of the subjects...”
+
+“Is it really that easy?” Ren asked, and she chuckled.
+
+“No, you'd have to study for it.” Dana said. “It covers a lot of material.”
+
+“Like what?” Ren asked, genuinely curious.
+
+“History, Science, English, Geography...” Dana started to tell him all the different subjects.
+
+“Like everything.” Gretchen said. “It could be a lot of work, especially since you haven't had a formal education.”
+
+“I know a lot of things.” Ren said. “Is there like a book or a guide for it?”
+
+“There is.” Dana said. “It's pretty thick and has everything in it that should be on the test.”
+
+“So, as long as I read that book I can pass the test?” Ren asked.
+
+“Probably.”
+
+“Where can I get the book?”
+
+Dana took out her cell phone and did a quick search, then showed Ren the book. “The closest place you can get it for free is the Library.”
+
+“I guess it's expensive to buy?” Ren asked, and she shook her head no.
+
+“It's only about 20 bucks.”
+
+“So why not buy it?” Ren asked.
+
+“You're only going to use it once.” Dana said. “Why waste the money when the Library has it?”
+
+“That's not something a rich person normally says.” Ren said and smiled.
+
+“Who's rich?” Dana laughed. “We're not rich.”
+
+“But...”
+
+“Mom just got a great settlement in the divorce because my dad was an asshole.” Dana said. “We moved here to get away from him and his mistress.”
+
+“Oh.” Ren took her hand and held it with both of his. “I'm sorry about that.”
+
+“It's not like you made him date a younger woman.” Dana said. “But, thanks.”
+
+Ren smiled at her with sympathy clear on his face and let her hand go, then looked at Gretchen. “I've learned quite a bit about Dana and her family so far.” He said and held a hand out to her. “Please, tell me about your home life.”
+
+Gretchen sighed as she took his offered hand. “It's a horribly tragic tale, I'm afraid.” She said. “One fraught with ordinariness and plainness.”
+
+“Wh-what?” Ren blinked his eyes, and Gretchen and Dana laughed.
+
+“She's trying to say that she has a perfect home life, Ren.” Dana said. “Parents happily married, no siblings to cause rivalry, and she's well adjusted because she's never had any kind of bad incident in her family.”
+
+“Even all 4 of my grandparents are still alive.” Gretchen said happily.
+
+“You're kidding.” Ren said in surprise, and she shook her head.
+
+“No, like Dana said, everything is great at home for me.”
+
+“Now that is amazing.” Ren said and gave her hand a squeeze. “I am very pleased to meet someone so rare.”
+
+Gretchen's face flushed slightly red at the sincerity in his voice. “It's nothing, really.”
+
+“Don't kid yourself.” Ren said. “How many people do you know that have a solid family at home?”
+
+Gretchen couldn't really answer that question.
+
+“Yeah, you're amazing all right.” Ren said and grinned at her. “I'm absolutely sure that everyone who knows you is envious; but, they don't resent you at all for it.”
+
+“H-how would you know that?”
+
+“Because your best friend Dana doesn't resent you, and neither do I.” Ren said.
+
+Gretchen looked at their faces and only saw friendly smiles. “But...”
+
+“I know my opinion doesn't really matter much, since we haven't been friends for very long, but Dana's known you for a long time.”
+
+“He's right.” Dana said. “I'm totally green with envy over your family, especially since your mom treats me like the daughter she never had.”
+
+“Dana!” Gretchen nearly yelled, and Dana laughed.
+
+“I meant as your sister, you numbskull.” Dana said, and Ren chuckled. “When I'm at your place, it feels more like home than my house does.”
+
+“Dana.” Gretchen reached a hand across the table, and Dana took it. “You...”
+
+“Well, look at this love fest.” A slightly high pitched voice said. Ren, Dana, and Gretchen turned their heads to look at the source, and saw Dana's brother Randy.
+
+“Piss off, Randy.” Dana said, slightly angry. “We're having a private conversation.”
+
+“The three of you are holding hands in the middle of a garden party, in full view of a few dozen people.” Randy said with a slight sneer. “That's not very private if you ask me.”
+
+Ren, Dana and Gretchen looked down at their hands, and Gretchen and Dana tried to let go awkwardly. Ren reached out with his free hand and took Dana's, so that he was holding both Gretchen's and Dana's hand, in full defiance to Dana's brother. Ren then looked around and saw that there were a bunch of people starting to gather in the part of the backyard they were in.
+
+“What's going on?” Dana asked.
+
+“Lawn games.” Randy said in a bored tone. “They're setting up a ring toss, of all things.”
+
+Gretchen leaned around him and saw a couple other games being set up. “It looks like they're putting out a bean bag toss...” She leaned out a little more. “...lawn bowling...” She leaned the other way and smiled. “...and what looks like a big stack of wooden blocks in a tower.”
+
+“That's always fun.” Dana said and turned to look herself and smiled. “Oh, you'll like what they're setting up now, Randy.” She said. “Croquet.”
+
+“What?” Randy turned to where she pointed, and he nodded. “Maybe this party isn't a total loss after all.” He said and walked off without saying so much as a 'see you later'.
+
+“What a jerk.” Gretchen said.
+
+“Now you see why I'm so happy to have Gretchen over so much.” Dana said.
+
+“He let the divorce and moving here go right to his head.” Gretchen shook her head sadly. “His arrogance is off the scale!”
+
+“There's a scale?” Ren asked, and they chuckled.
+
+“You can let our hands go now.” Dana said. “He's gone.”
+
+“What if I don't want to?” Ren asked as he let their hands go, and they smiled.
+
+“Do you want to try the stacked wood pile?” Dana asked.
+
+“I'm not really in a position to play.” Ren said and motioned to the wheelchair.
+
+“I'll be your arms.” Gretchen offered and surprised herself.
+
+“Really?” Ren asked, and she nodded. “Then how can I refuse?”
+
+“By saying no.” Dana said, and the three of them laughed. “I'm not sure how to get you over there, though.”
+
+“That's okay. I see my ride coming now.” Ren said and waved. “Hi, Denise.”
+
+“Are you having fun?” Denise asked and went behind the wheelchair.
+
+“Not surprisingly, I am.” Ren said. “We're heading over to the oversized knock-off Jenga Tower to play.”
+
+“Ren, you can't...”
+
+“Gretchen volunteered to be my arms.” Ren said happily.
+
+“Oh, then let's get you over there.” Denise said and pulled him away from the table. Dana and Gretchen stood up and followed them over to the stacked wooden pieces. Lisa and Elise quickly joined them and they had 6 people wanting to play the first game. Dana, Gretchen, Elise, Lisa, Ren and Denise.
+
+“I just had an idea.” Ren said, and they looked at him expectantly.
+
+“Please tell me it's not strip Jenga.” Denise said.
+
+“Of course not.” Ren said. “That's an indoor sport.”
+
+A few people laughed at that.
+
+“So what's the idea?” Dana asked.
+
+“Let's play trivia!” Ren said, and he saw doubtful expressions. “Don't look so glum. Someone asks a question, multiple choice, and if you get it wrong, you need to pick a block in the stack and remove it.”
+
+“That's... actually a pretty good idea.” Gretchen said.
+
+“We can play for points, and the the most points at the end wins.” Ren said. “Oh, and if you successfully remove the block you chose, you get a point, too.” He said. “If the tower topples, the game ends and the most points win.”
+
+“Hey, that's a good challenge.” Dana said.
+
+“Lisa, the old trivia game is in my closet.” Ren said. “Would you mind...”
+
+“I'll go get it and a piece of paper.” Lisa said, touched his shoulder lovingly, and ran to the house. People around them started playing the other games and Lisa came back a couple of minutes later.
+
+“Thanks so much.” Ren said, and Lisa bent over to give him a kiss.
+
+“You're welcome.” Lisa said.
+
+“You're not going to cheat, are you?” Dana asked.
+
+Ren chuckled as he made a list of their names. “Don't you trust me?” He asked, and she shrugged. He laughed and held the package up. “It's still wrapped in plastic.”
+
+They brought over chairs for everyone to sit in, and Ren opened the package and pointed to Elise.
+
+“Tallest first, and we'll go clockwise.” Ren said and asked her a question. “In the name J. Edgar Hoover, what does the 'J' stand for? The choices are...”
+
+“John.” Elise said.
+
+“Apparently, you didn't need a choice.” Ren said and gave her a point. “Denise, when Mount Saint Helens erupted in 1980, how many people were killed? The choices are... 5... 57... and 571.”
+
+“Oh, damn.” Denise said. “Well, it was the first major national disaster in years at the time... and they didn't really have any warning beforehand... but, I can't remember if they issued an evacuation order or not.”
+
+“Time's a ticking.” Ren said. “Tick, tock. Tick, tock.”
+
+“Okay, okay.” Denise said. “I'm just guessing, since the area wasn't very populated... 57.”
+
+“Ding ding ding!” Ren said and gave her a point. “Dana, which of these famous cartoon characters turned 60 years old in 2010? The choices are... Bugs Bunny... Charlie Brown... Mickey Mouse... and Fred Flintstone.”
+
+“You have got to be kidding me!” Dana laughed. “I have no clue.” She said. “Um... what were the choices again?”
+
+Ren repeated them, and she sighed.
+
+“Nope, no clue.” Dana said. “Bugs Bunny.”
+
+“Ennnh!” Ren made the buzzer sound. “I'm sorry, it's Charlie Brown.” He pointed to the stack. “Pick a block.”
+
+Dana stood up and chose a middle block halfway down pushed it right out easily. “Piece of cake.”
+
+“It is right now.” Ren said and smiled. “Wait for a few rounds.” He pointed to Lisa. “What was the name of Roy Roger's famous...”
+
+“Trigger.” Lisa said right away.
+
+“I didn't even finish reading the question, dammit.” Ren said, and she laughed. The game went on and on, and he had to pass the questions to Denise when it was his turn, and everyone had fun with the showmanship he displayed and making a wooden block balance game that much more entertaining. By the time they each had answered 10 questions, the tower looked ready to fall over if a breeze hit it. They had also gathered quite a crowd to watch the spectacle. After another few questions, it was Ren's turn again.
+
+“Okay, Ren.” Denise said. “When did the Liberty Bell get its name? The choices are... when it was made in 1701... when it rang in 1776 to declare the United States gaining liberty from the British... in the nineteenth century when it became a symbol for the abolition of slavery... or none of the above.”
+
+“Oh, geez.” Ren said. “I don't have a lot of history knowledge.” He said. “I know when it was made that it was just a bell.” He thought about it. “I know Paul Revere rang a bell when the British were coming; but, I don't know if the Liberty Bell was rung after the war, even though that sounds like the best option.” He sighed. “I think that's a trick answer, though. It couldn't be the nineteenth century, since I'm pretty sure it had the name longer than that, so I'm going to have to go with none of the above.”
+
+“Ennnh!” Denise made the buzzer sound. “It was the nineteenth century when it became the symbol of ending slavery.”
+
+“Ha, you got me.” Ren chuckled. “The slaves were liberated.”
+
+Denise nodded and pointed to the teetering stack of wood. “Go ahead and have Gretchen knock it over.”
+
+“Yeah, right.” Ren said and waved Gretchen to come close.
+
+“Ren, she's right. It's going to topple any second.” Gretchen said as she bent down.
+
+“Nonsense.” Ren said and touched her shoulder to bring her in closer to whisper in her ear. “You see that block, all by itself near the bottom?”
+
+Gretchen turned her head to look and saw it, nodded, and turned back to him.
+
+“I want you to straddle the spot in front of it, as if you were going to ride a horse.” Ren whispered. “Bend down and grab the end of that block, and pull on it as hard as you can.”
+
+“What? You can't be serious!” Gretchen exclaimed.
+
+“In that position, you can get a lot of force, and with your legs out of the way, you have lots of room to get the block out of the way before the tower falls.”
+
+Gretchen shook her head. “No, it can't be done.”
+
+“I'd tell you to trust me; but, I'd rather you trust yourself and just listen to my advice.” Ren said. “You're my arms, aren't you? So, be my arms.” He smiled. “Oh, and watch your skirt. It's going to ride up a little.”
+
+Gretchen stood up straight and looked at his happy and unworried face, then sighed. “You're crazy.”
+
+“Yep.” Ren grinned at her.
+
+Gretchen walked over to the wooden block tower and did what he said. She pretended there was a saddle on the ground and straddled it just enough to give her some room between her legs and her skirt hiked up a few inches. She bent down and it went up a little higher, but it didn't show anything. She took a deep breath, gripped the end of the block Ren had indicated, then yanked it as hard as she could.
+
+The block of wood was the only thing holding up the rest of the tower; but instead of knocking everything over, it popped out like a cork from a bottle and the whole tower dropped down through the empty space the missing block had left, clanked against the wooden blocks underneath and stayed there, perfectly balanced.
+
+“Oh, my god! It worked!” Gretchen exclaimed. She had fallen back onto the grass because she had forgotten to keep her own balance.
+
+“That was amazing!” Dana said and helped Gretchen stand up and gave her a hug. “How did you do that?”
+
+Gretchen pointed at Ren.
+
+“I think we can call the game here.” Elise said and touched the wooden block tower with a fingertip, and the whole thing toppled over and clattered to the ground in a pile. “There's no way anyone could follow up after that move.”
+
+Denise rolled Ren over to Gretchen.
+
+“I told you it would work.” Ren said.
+
+“How did you know it would?” Gretchen asked.
+
+“You were my arms.” Ren grinned.
+
+“Now that was entertaining.” Stella said. “Good job, you two.”
+
+Gretchen turned to her and smiled. “Thanks.”
+
+“Gretchen, your skirt has grass stains on it.” Ren said and started to reach for it to wipe it off, and Denise quickly caught his hand before he could.
+
+“What?” Gretchen turned her upper torso to look down at herself, and saw the edge of the stain. “Oh, damn.” She said and tried to wipe at it.
+
+“Don't worry, we've got industrial washers in the house.” Stella said. “Come on, we'll see if we can get it cleaned for you.”
+
+“No, that's okay.” Gretchen said. “I can just...”
+
+“I won't take no for an answer.” Stella said. “It'll only take a few minutes to see if it'll come out, anyway.”
+
+“If it doesn't come out completely, I'll replace it.” Ren said. “You got it dirty on my behalf, so it's only fair.”
+
+“But...”
+
+“Come on, let's try and clean it before it sets in.” Stella said and started to lead her towards the house.
+
+“I'll come, too.” Dana said and walked after them.
+
+“Ren, who won?” Lisa asked and looked down at the score sheet he had, and Ren quickly counted up the points.
+
+“With a grand total of 11 right answers, the winner is Elise.”
+
+“I didn't even have to touch the wood until the end.” Elise said.
+
+“Oh, right! You knocked the tower over.” Ren said. “Minus 1 point.”
+
+“What? You little sneak!” Elise laughed. “Now who's the winner?”
+
+“It's a two way tie between you and Lisa.” Ren said. “She only touched the tower once, too.”
+
+“I got a question wrong, though.” Lisa said.
+
+“All that matters is the points.” Ren said and smiled at her, and she chuckled and gave him a kiss.
+
+“Now that the winners have been determined, what exactly did we win?” Elise asked.
+
+“My eternal love and gratitude.” Ren said. “Oh, and supervised cuddle time.”
+
+Elise chuckled and gave him a kiss, too. “Sounds wonderful.”
+
+“It'll have to wait until after lunch.” Barbara said. “They've got the barbecues going already.”
+
+Ren held his hands out to the sides and took in a deep breath through his nose. “I smell beef!”
+
+“We should head over to the eating area and get a good spot.” Denise said.
+
+“Good idea.” Elise said. “I'll take Ren and you can get what he needs to eat for a balanced meal.”
+
+Denise nodded and went ahead, and Elise pushed the wheelchair as they all went over to the food serving area.

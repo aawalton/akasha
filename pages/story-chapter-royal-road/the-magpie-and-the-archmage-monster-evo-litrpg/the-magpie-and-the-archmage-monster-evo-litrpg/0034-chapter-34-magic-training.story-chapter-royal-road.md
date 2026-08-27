@@ -1,0 +1,217 @@
+---
+id: 35a88ecc-2db9-5069-8a30-2cc04fd3efc6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 34 – Magic Training"
+slug: 0034-chapter-34-magic-training
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 34
+ownLength: 2168
+unit: words
+publishedAt: 2025-10-13
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2672280/chapter-34-magic-training"
+royalRoadId: "2672280"
+---
+
+Unfortunately for Liora, as the night took hold, the three adventurers headed to sleep. Two of them did, at least. The boy, Kalen, remained awake to keep watch for any monsters. Liora had no choice but to pretend to be sleeping too, even though she wasn't sleepy in the slightest.
+
+She considered leaving and continuing the journey on her own. But the succulent boar had been stashed in Serena's Inventory. How long had it been since she had the chance to eat meat? Actual, cooked meat.
+
+Of course, she could hunt for mice and other small critters if she wanted meat. But there wasn't any way for her to cook it. She'd even tried making fire in her early days as a magpie. But no matter how much she fiddled with twigs and rocks and dry grass, she could never do it. Torches were too large for her to steal, and candles blew out as soon as she took flight.
+
+So she had no choice but to content herself with magpie food—seeds, nuts, fruit, and bugs if the occasion was miserable enough. This was the first time in her magpie life when she could eat her fill of cooked meat instead of some scraps stolen from clumsy villagers.
+
+Liora, fly away.
+
+Renir had been repeating this thought ever since the adventurers went to sleep. She'd been largely ignoring him, but he was getting increasingly more annoying, and Liora—increasingly more bored.
+
+I am not leaving until that boar is finished. A growing magpie needs good sustenance.
+
+Aren't you already a fully grown bird?
+
+I'm merely two years old. Just a little baby.
+
+I'm pretty sure that is an adult in magpie terms. Besides, weren't you an adult when you were human?
+
+Details, details.
+
+Some more time passed with Liora pretending to sleep, but she realized she wouldn't be able to keep this up for the whole night. Peeking her eyes open, she saw that Kalen's head was drooping low and his eyes were closing. He probably wouldn't notice if she left. And nobody would question a bird flying around in the forest.
+
+I'll return for breakfast.
+
+Oh, good. At least some action. I'd prefer it if we would just get going, but… Fine. We can use this time to train and hone your skills a bit. Your magic needs some polish.
+
+When Kalen's head dropped lower, Liora used the opportunity to sneak away. As soon as she was further away from the camp, she switched out her stealth form. This way, in case one of them discovered her, it'd be some weird monster bird, not the cute magpie.
+
+Alright, tonight we're going to do some manual training without fighting monsters. We need to improve your skills.
+
+[Your skill <Night Vision> has reached [Expert] level.]
+
+Liora blinked in surprise as her eyesight improved once more. The leap was almost jarring. It was as if it were daytime. She could see everything almost to the same precision as she saw during the day. The only difference was that the colors looked more muted and cold.
+
+Talk about perfect timing.
+
+Excellent. This means that I can teach you about combining!
+
+Combining?
+
+That's right. You probably noticed that you have a limited number of slots for both skills and traits.
+
+Liora thought about it and nodded. She could have ten of each and was nearing her limit.
+
+If I reach the maximum, can I not learn new skills or traits?
+
+You can, but only if you replace an old skill.
+
+How stupid! Then I can't hoard skill. Can I not increase the number of slots I have?
+
+You can. It should increase naturally during big breakthroughs, so likely during your next evolution. But even so, you'll eventually run out of space. The most convenient way of circumventing that is to learn how to combine your skills. There are multiple ways of doing it.
+
+Multiple?
+
+Yeah. For example, you have Keen Vision and Night Vision. They're perfect candidates for combining.
+
+Why didn't you tell me that earlier?
+
+Because you cannot combine skills unless they're of a similar skill level. Your Keen Vision is at the [Innate] level. To combine it with another skill, it has to be at least [Expert] level.
+
+Okay, that makes sense. So how do I combine them?
+
+Just think of combining them.
+
+Liora thought about merging the two vision skills, and instantly, a notification appeared.
+
+[Would you like to combine <Keen Vision> with <Night Vision> to obtain a new skill? This process is irreversible. Success rate: 85%]
+
+It can fail?
+
+Yeah, there's no such thing as a foolproof combination. There's always a risk of failure.
+
+What happens if I fail? Can I never combine them again?
+
+You can, but you'd have to wait until you increase the level of one of them.
+
+Liora nodded. That seemed to make sense. If there were no other downsides to combining, then she had no issue doing it. She agreed to the skills being combined.
+
+[You've successfully combined <Keen Vision> with <Night Vision> into a new trait.]
+
+[New trait obtained – Twilight Vision.]
+
+[Twilight Vision – A skill obtained by fusing <Keen Vision> and <Night Vision>. Allows you to see small details at great distances in any lighting. You're also able to see ultraviolet light.]
+
+Liora looked around with her newly acquired vision. At first glance, it wasn't much different, but when she focused on the distance, she realized that she could see small details with surprising clarity.
+
+It got a little better.
+
+If you combine two similar skills, then yes, the result is better. But be careful with what you combine. If skills are not compatible and you somehow manage to succeed in combining them, then more likely than not, you'll end up losing both skills and be stuck with a detrimental one.
+
+There are detrimental skills?
+
+Sure are. Usually created by dungeon curses. That's why I was so worried when you snatched that necklace. Luckily for us, it wasn't cursed.
+
+All's well that ends well.
+
+Indeed. In either case, let's move on to the second method of combining.
+
+Oh, no. More smartass mumbo jumbo.
+
+I thought magpies were smart.
+
+Yes, but I don't want to sit in a branch all night, listening to you yapping.
+
+Okay, more hands-on lessons then. Find a monster to fight. Preferably not a satyr.
+
+Liora flew around the forest, looking for enemies. She spotted a group of three satyrs and resisted the urge to attack them. They were heading towards the lake, likely to pester the dryads again.
+
+Eventually, Liora spotted an owl-like creature feasting on remains of what looked like a snake. It had odd wing feathers, each of which seemed to end with a pointed quill, while its talons appeared to be made out of pointed blades, cutting through the snake like butter.
+
+Good, a Thornwing Owl. Perfect target practice. Now then, here's your second combining lesson. Think of using Air Slash and Poison Shot at the same time.
+
+What? I can use two skills at the same time?
+
+You can use more than that if you have the mental capacity. But you'll be using them in tandem, not separately. It's how mages get around the slot limit. If you get a fireball and a water whip, then you can create new spells by combining them in a way that you like.
+
+So it'd be like a water ball or fire whip?
+
+Exactly! Try doing it with Air Slash and Poison Shot.
+
+Liora thought about her two spells. First, she imagined how it felt to create the razor-sharp blades of wind on her wings. Mana began to trickle from her into the spell, but she didn't let it go just yet. She imagined forming her poison on top of the blades. Like coating a dagger with poison.
+
+Suddenly, there was a burst of energy as the spell went berserk and exploded right in Liora's face. She was nearly sent off the tree when the owl noticed her. It let out an angry screech, grabbed her half-eaten meal, and flew away.
+
+What happened?
+
+Magical backlash. You were pouring too much mana into it.
+
+Doesn't it need more mana since it's two spells?
+
+No, it's not two spells. It's one spell combined from the two you already know. Maybe you're not familiar enough with Poison Shot yet. Try training it to the next level by attacking some small monsters.
+
+Liora flew around and found the all too familiar elemental toads by the lake shore. She found several groups of them and then practiced her Poison Shot. Experience gain was minuscule, but at least she got some glimmerstones.
+
+[Your skill <Poison Shot> has reached [Novice] level.]
+
+Good, now you should be able to combine them.
+
+Liora saw a nymph emerging to the lake shore again, looking curiously around the place where Liora had practiced her Poison Shot on the toads. It looked annoyed by the remnants of poison littering the shore and began swirling her hands around in odd motion. Water converged on the places where there was poison and then retreated, leaving clean muddy soil behind.
+
+Go on! Try it on the dryad.
+
+No, it just cleaned up the mess I made. I don't want to attack monsters that haven't done anything bad.
+
+Did you forget that one of its brethren tried to kill you and suck you dry of mana?
+
+This one hasn't done anything. I'll find something else.
+
+It didn't take long for Liora to spot another thornwing owl, this time chasing after a small family of boars who squealed in terror. She flew after the owl using Shadow Glide to remain undetected and tried to combine her spells again.
+
+Instead of imagining them as two separate spells, Liora imagined that the wind blades were coated in the poison straight away as they formed. The familiar tingling went through her body as mana hurried to form the spell. Before it became too much, Liora unleashed it on the owl.
+
+[You've successfully formed a skill <Poison Slash>.]
+
+The poisonous blades collided with the owl, who screeched in pain and surprise, whirling around to see its attacker. Liora followed up with another Poison Slash, but this time the owl managed to dodge out of the way.
+
+It was an extremely fast and agile bird, closing the distance between itself and Liora in a matter of seconds. Liora Faded, disappearing from sight and attacking with another Poison Slash. Except that in her haste, she forgot to apply poison, and it turned out to be a regular Air Slash.
+
+Somehow, the owl dodged her attack at the last moment and began spinning mid-air towards Liora like a drill. She tried to weave out of the way of the attack, but underestimated the size of her new body. Wind swirled around them from the centrifugal motion, and the owl hit her leg, causing a deep, bleeding gash.
+
+"CAW!" She screeched out in pain and tried to Peck it.
+
+But the owl dropped down, out of Liora's range, trying to attack her from below. She, in turn, flew up. It appeared more agile than Liora, however, she was the one with stronger wings. It didn't take long to gain the upper wing by flying higher. After she put some distance between them, Liora Faded again, flew some distance away, and released an Air Slash before her Fade ran out.
+
+This time, it hit the owl, completely throwing it off its flight and sending it to the ground with a loud crash.
+
+[You've defeated <Thornwing Owl – Level 12>. Experience gained.]
+
+[You've reached Level 3.]
+
+Wow, my Air Slash is so much stronger than Poison Slash. It killed the owl in one shot.
+
+No, you dummy. The poison has been slowly eating at it this whole time. By combining Air Slash, a skill that opens wounds in the enemy, you increase the potency of Poison Shot.
+
+How does that work?
+
+Do I have to spell out everything for you?
+
+Liora puffed out her feathers angrily as she landed to inspect the owl. There were two glimmerstones on its wings, as well as the slash marks from her attacks. She then noticed that one of them looked distinctly nastier than the other as the flesh was oozing a strange, purplish liquid.
+
+Oh! I get it. Poison works better when inside the body.
+
+Exactly! That's why Air Slash and Poison Shot are such a perfect combo. Aren't I smart?
+
+Liora rolled her eyes and turned back into her magpie form. It was then that she noticed the bleeding gash on her leg. Liora brought up the status screen.
+
+[Status]
+
+Health: Wounded
+
+Mana: Trickling
+
+Affliction: Bleeding (minor)
+
+That owl got me good.
+
+You can't expect to escape unscathed from every fight. I say we call it a night and return to the camp.
+
+Agreed.
+
+The sun was already peeking beyond the horizon when she returned to the camp. She didn't need to get close to hear Serena scream loud enough to wake the entire forest.

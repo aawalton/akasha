@@ -1,0 +1,273 @@
+---
+id: e14cec04-0b8d-5c5a-9ad1-5a71b1814fc6
+page-type-slug: story-chapter-royal-road
+title: "325 Legacies and Lineage"
+slug: 0284-325-legacies-and-lineage
+partOf: the-new-world
+position: 284
+ownLength: 3737
+unit: words
+ownProgress: 3737
+publishedAt: 2022-01-26
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/832433/325-legacies-and-lineage"
+royalRoadId: "832433"
+markedReadAt: "2026-06-29T21:30:57.470Z"
+---
+
+I walked out of Amara's hideaway before thinking through a few options. For starters, capturing the Overseer required a few checkmarks on an unseen checklist. Hiding the Overseer and its abduction stood out for starters, as I didn't want to make an enemy of Elysium again. After detaining the twisted Overseer, finding a place to keep him wasn't an issue at least. I could just swipe him into my pocket dimension.
+
+Disguising that process required several elements. Understanding Schema's and Elysium's systems popped up. If we didn't understand them, we could forget about avoiding their reach. Locating the twisted Overseer posed a problem as well. Considering Plazia summoned one by attacking a camp, he could do so again. Pinning the Overseer down required lots of force and explosivity, however.
+
+I tapped my fingers against my side, and I pondered. Elysium established a system. To take the Overseer, ripping it away from Elysium took precedent. That didn't include the mind magic shackles being used on the Overseer either. Taking those out or finding a way around the psionic connection was also an issue.
+
+If I figured out how to construct time in my pocket dimension, isolating the Overseer might be possible. I could talk to it or have someone else interrogate the Hybridized monstrosity. Once again, that required time magic and primordial mana. I peered up, and as I did, a solution popped up.
+
+Plazia could set up a trap for the twisted Overseer. It would be the same setup he used for isolating himself from Schema. He'd have that isolating net summon over a large field. Having Hod cast the Overseer in shadow and Helios warp me beside the Overseer gave me an option to snatch the Overseer before it knew what happened.
+
+My many minds congratulated themselves for a job well done before I settled into making it happen. The first step involved handling my guild expansion. I didn't want to sacrifice Earth's condition for my own gain again. At the same time, getting time manipulation would speed me up enough that putting the city building on the backburner was worth it.
+
+Before moving on to that, I went through a few quick options for helping the guild's expansion. After realizing I wasn't all that involved with the details, I went over to someone who was. I sent Torix a message wondering if he had time for a talk. The lich sent a quick reply with his coordinates.
+
+He handled work in the abandoned tunnel beneath Mt. Verner. Heading down to the lowest floor of our mountain base, I crossed the residential district before reaching the abandoned passage. In Torix's research center, I walked through an endless expanse of concrete. After passing several steel doors, I opened one of them before squeezing through the doorway.
+
+I frowned, annoyed by my size causing issues. Everyone made most objects large for me already, but it wasn't enough lately. After getting through the snug entrance, many soldiers stared at me. They wore the Omega Strains, each of them having one of my rings for their own protection.
+
+The multicolored gemstones stood with different shapes and sizes, the motley crew both colorful and deadly. It was like staring at the world's most lethal group of hard candies. The crystalline, killing edge of the Omega Strains wasn't forgotten, however. Even while standing there, one soldier had a four-legged extension over him. The claws of that rig stabbed through concrete, digging into it with ease.
+
+Hard candies or not, they carried that dangerous air about them. The soldiers wearing those strains saluted me, everyone falling in line. I raised a hand, "Where's Torix?"
+
+A soldier gave me a firm answer, "Sir, he's in the training center, sir."
+
+I gave them a wave, "At ease, and thanks."
+
+They lowered their hands, but their eyes locked on me still. No one relaxed, everyone holding an unnatural reverence. In a way, it was inevitable. Most of these people participated in the battle on Blegara. Having seen me fight, they looked at me differently afterward.
+
+That awe lingered after I left the room. I stepped past a long hallway, wondering at my own lack of unease. When people looked up to me like that, it usually made my skin crawl. Over time, it no longer left me jittery and uncomfortable. Over the years, I learned that uneasiness came from the pressure that reverence carried. It was a form of respect, and respect had consequences.
+
+One was a reputation. If I failed those people, I robbed them of an ideal. Of course, that 'ideal' was their perception of me, not who I really was. Living up to that ideal defied any expectations I had for myself, so it left me feeling inept and over my head. And it was because, subconsciously, I always believed I would fail.
+
+I didn't anymore, and it made all the difference.
+
+Feeling that sense of freedom, I paced into another one of Torix's lairs. I walked into the room, finding the lich scurrying about in a frenzy. He sent dozens of messages, using telekinetic magic to set up pins across a dozen maps spread on the walls. His eyes flared in a blaze, singeing the roof of the concrete wall. The habit left the entire ceiling smothered in a dark blue layer of burnt concrete.
+
+I paced up to him, frowning at his fervor, "You look pretty busy."
+
+Torix turned, his skeletal frame imposing under his caped robe. He waved his hands, "Oh my, I hadn't noticed you walking into my chambers. You wished to talk, and I sent for you. Bah, I've been scatterbrained as of late."
+
+I peered at the doorway, having scraped it on my way in here. I raised my brow, "Huh...So you didn't hear me do that?"
+
+"What, that? Bah, there's nothing wrong there. Just a mere scrape. The powdered stone doesn't even bother me as I need not breathe, to begin with. Truly, a non-issue."
+
+I put my hands on my hips, "So...Where's your advanced obelisk?"
+
+Torix sighed, "It's managing the recreation of Springfield. I'm working on logistical concerns and issues, criminal activity, and an absurd influx of members."
+
+I furrowed my brow, "Huh...Do you want me to stop expanding for a while? You seem overwhelmed."
+
+Torix waved an arm, "Certainly not. You've postponed assisting your home planet and race to rid us of our unknown statuses. For that, I and the others are quite grateful. This level of work is to be expected of us to compensate your efforts."
+
+I sighed, "I don't know, man, you look worn out."
+
+Torix leaned back against a wall, dragging on it as he slumped onto the ground. Maps flopped off the wall as Torix mumbled, "You could tell?"
+
+I hovered myself over, pulling myself off the ground and landing in a cross-legged position. I kept my descent gentle and controlled, so I didn't collapse the building. I leaned onto a hand, "I got a lot of credits recently. We can pay for more of those obelisks."
+
+Torix tilted his head, "Hm, was it an award from Obolis?"
+
+"It was. You can check out some galactic rates and see what the obelisks sell for. I'm guessing they're somewhere in the 4-5 million range. We can get a hundred or so of them if you'd like."
+
+Torix let out a sharp breath, "You gained billions of credits?"
+
+I nodded, "Yeah. I gained some perspective. It helped me with negotiating a deal."
+
+Torix shook his head, disappointed at himself, "Why do I even allow myself to be surprised by you any longer? Aside from that, don't you want to buy dungeon cores for yourself? You're nowhere near peaked in them."
+
+"I could, but I have to prioritize. We need to establish ourselves, and from the looks of it, you're suffering some growing pains."
+
+Torix peered at the walls of paper, his notes scattered to the point of doing more harm than good. The lich sighed, "I've long enjoyed the feeling of paper. It's one of the few sensations and smells I missed from when I was a human. Food? Blegh. Digestion muddled my mind. A cool breeze? I'd rather be lukewarm, personally."
+
+Torix raised a fist, "But the smell of an old book with weathered pages...Now that I miss. I've been trying to keep that sensation around me and in my memory for ages. Look at all this madness around me. Through all our conflicts, I kept everything contained within pages I could grab and touch."
+
+Torix loosened his grip, "And now...They're strangling me.."
+
+I tried to listen while I said, "What do you mean?"
+
+"I'm going to have to move over towards electronic means. This simply won't do any longer. It's not scalable, as each city carries its own notes, problems, and important persons. Having different sheets for each of those categories is simply overwhelming."
+
+I gave him a nod, "Ah...You want things to stay the same."
+
+Torix mused for a moment before snapping out of it. He peered back at me as if suddenly aware. He brushed a layer of dust off of the chainmail cape I made for him. He took a breath, one he didn't need before he said,
+
+"Listen to me complaining about this nonsense. What kind of lich must I be if something this simple can stop me."
+
+I frowned, "Eh, it's small to some people, but it's a big deal to you. There's nothing wrong with that."
+
+Torix tilted his head at me before standing taller, "Hm, thank you for saying so...Now-"
+
+He offered me a hand to stand up with him, "What is it that you wish to speak of?"
+
+I grabbed his hand, pulling for a moment. I jerked him back before letting go. I caught us both with gravity wells and hovered us back onto our feet. Torix coughed into a hand, "Bah, you've gained weight recently, haven't you?"
+
+I stared at my shoulder, "Huh...Maybe. Anyways, I'm glad I came over. Here's a billion credits you can have for the expansion efforts. Use it to hire yourself a team of assistants and to manage all the new concerns. You can take a few weeks to iron out a process for managing all the expanded territory."
+
+I raised a hand, pulling out rings from my dimensional storage, "I'm going to be making millions of these things before handing them off to people. We'll give them to high performers, and I'll leave that up to you. After you get everything ironed out, I'll start expanding again with a tighter line of communication between us."
+
+I smiled with confidence, "That should make the situation a lot easier when paired with the obelisks."
+
+Torix put his hands on his hips, "Hm, I would suppose so. Perhaps I can keep the paper around."
+
+I rolled my eyes, "Hey man, you do you. I think moving to electronic means is a good idea before we move on to multiple planets."
+
+Thank you for the assistance. Is there anything else you'd need? Perhaps counsel on a matter?"
+
+I thought for a moment before pointing at him, "When you unlocked your archmage class and developed an 'affinity for higher tier mana types, what did it feel like?"
+
+Torix leaned back, "The sensation you say? Well, I'd compare it to opening a door and walking into an old room in a house. I already knew it was there, but suddenly, I could walk into its aged halls and peruse as if it were always there. It arrived with a strange suddenness as well, without any washing clarity."
+
+My jaw tightened before I gave him a nod, "Thanks. That's all I needed to know."
+
+"What for, might I ask?"
+
+I sighed before saying, "I think that Schema's putting limiters on people after they reach a certain level of influence."
+
+Torix tilted his head, "What makes you say that?"
+
+I explained the situation with Plazia, and Torix paced back and forth in the room as I spoke. When I finished, the necromancer swung his hand about, "To think I ever trusted that nefarious intelligence."
+
+I laughed before turning a palm to him, "We probably would never have gotten this strong without him." I straightened up, "But to be fair, I'm not excited by limitations either. I'll be working with Plazia to see what I can do about it. Speaking of which-" I opened my pocket dimension, "I have to go. See you, Torix."
+
+Torix gave me a curt nod before turning back to his papers. He raised a hand, snapping his metallic fingertips. A blue fire encompassed the walls. It raged about, consuming the hundreds of graphs, notes, and charts. As the paper turned to ash, Torix spread his hands and mouthed,
+
+"And I shall be breaking my limits as well. Goodbye, disciple."
+
+Stepping out of his chambers, I parsed through my status real quick to inspect my cipheric augments. Before I got there, a mammoth pile of skillpoints stuck out to me. I winced, having forgotten to assign skillpoints to my trees over the last few weeks. With a quick few clicks, I put a pile of  2,000 skillpoints into Creator of Armies. Notifications rained in.
+
+By facing off against many threats, you've learned your limitations. An individual extends only so far, but their influence, an unseen force, may stretch further still. By mastering this force, you've learned to turn that influence into an extension of yourself.
+
++25% to effect of Legacies. +4% to experience gain for your guild. +4 % to learning speed of skills within your guild.
+
+In this way, you've managed to hone your army into a force of your own will. Others may call it manipulation, but you understand it as insight. By giving others knowledge, you offer them a purpose, one you rally behind. In time, others rally with you.
+
++50% to effect of Legacies. +8% to experience gain for your guild. +8 % to learning speed of skills within your guild.
+
+And a mass forms behind you and your call to action. You've given entire nations and worlds a different history. Without you, they'd be in another place, perhaps better or worse. Regardless of the outcome, that change was decided by you and you alone.
+
++75% to effect of Legacies. +12% to experience gain for your guild. +12% to learning speed of skills within your guild.
+
+For you listen to their opinions, but they obey your every word. You walk into a room while your presence demands reverence. Your bearing alone instills awe and respect, granting you an undeniable dominance. Others feel it, many hate it, but all are washed away by its glow.
+
++100% to effect of Legacies. +16% to experience gain for your guild. +16% to learning speed of skills within your guild.
+
+I read and reread the tree a few times, inspecting the various ins and outs of it. While the values weren't enormous, the tree affected more than just me. The effect on legacies compounded with my dimensional modifications, making my guildmates me more potent. The experience gain and learning speed also helped my guildsmen gain some ground.
+
+Casting that net this wide meant my guild benefitted as a whole. Wanting to know what my legacies were, I opened the menu for the first time in who knew how long.
+
+Sovereign | Sovereign Class Legacy | Tier S+ | Grants +100 to all attributes. +10% to base stats. Note - Only available to Followers.
+
+Endless & Undying | Endurance Legacy | Tier S++++++++ | Grants 450 endurance, 350 willpower, 150 intelligence, 125 constitution, and 100 strength to anyone who joins your guild.
+
+Willful | Willpower Legacy | Tier S++++++ | Gants 400 willpower, 350 endurance, 125 intelligence, 100 constitution, and 75 strength.
+
+Meticulous | Intelligence Legacy | Tier S++ | Grants 300 intelligence, 200 willpower, 100 endurance, and 75 constitution.
+
+Orbital | Constitution Legacy | Tier S+ | Grants 150 constitution, 100 strength, and 7 endurance.
+
+Powerful | Strength Legacy | Tier S | Grants 100 Strength, 50 constitution, and 50 endurance.
+
+Aware | Perception Legacy | Tier A+ | Grants 75 Perception, 40 endurance, and 40 willpower.
+
+Fortunate | Luck Legacy | Tier A+ | Grants 75 luck, 40 charisma, and 40 endurance.
+
+Leadership | Charisma Legacy | Tier A+ | Grants 75 charisma, 40 luck, and 40 endurance.
+
+Note - All legacies require at least level 300 to join your guild if you choose to make one. This bonus does not apply to you, only to those that join your guild.
+
+Second Note - Legacy bonuses do not count towards tree or perk unlocks.
+
+I heckled at the number of plus signs beside the endurance legacy. Its bonuses also dwarfed all the other legacies aside from Willful, and to me, that was fitting. Getting that kind of boost at level three hundred ensured a smooth level-up process for anyone involved. The Sovereign tree bonus also kicked into high gear in the later levels, the stat multiplier quite potent overall.
+
+In general, the legacies expanded immensely since I last saw them. Wondering how the furnaces operated on my dimensional notifications, I opened that menu next.
+
+[Modifications - The dimensional fabric composing this structure has been modified with code from the dimensional cipher. The rewards are as follows(Pre-multiplier values):
+
++7,121 Constitution
+
++57,414 Endurance
+
++5,557 Perception
+
++12,271 Willpower
+
++1,777 Luck
+
++72 Strength
+
++72 Dexterity
+
++100% to Effects of Legacies
+
++ 50% Internal Motivation Multiplier
+
++4,029 Trillion Ambient Mana]
+
+I froze in place, standing in the middle of a Mt. Verner hallway. I leaned back from the modification screen, confused by the numbers. Yeah, the endurance just about doubled since the last time I saw it. That made sense. The willpower stat rose as well, and hey, that was in line with my expectations.
+
+However, the ambient mana...was thousands of times higher. I rubbed my face, making sure I wasn't making a mistake. After a few double checks, I was sure of it. It rose by over 4,000 trillion over the last few weeks. Aside from the fact that number defied my comprehension, it also meant most of my rune's energy overflowed.
+
+I peered down at my cipheric markings, my wrists glowing a bright white on my dark armor. These little guys couldn't handle the increase in mana, and it ended up pouring into the runic markings on my back. In a sense, I outgrew my ability to assimilate mana. Taking a moment, I peered up at the roof.
+
+Torix wasn't the only one struggling with growing pains.
+
+It was a good problem to have, but a problem nonetheless. The ambient mana overflow gave me extra mass, and that's why I grew recently. My Titanic tree generated physical power from that weight as well, so my synergies still held firm, even if I didn't gain endurance solely. Wanting to see the exact difference, I opened my stat menu.
+
+My jaw dropped.
+
+The Living Multiverse | Level 18,767 (Cap: 26,000) | Current Influence: The Rise of Eden | Class: Sovereign
+
+Strength – 117,609 | Constitution – 149,294 | Endurance – 326,125
+
+Dexterity – 60,821 | Willpower – 279,691 | Intelligence – 169,093
+
+Charisma – 61,209 | Luck – 92,124 | Perception – 44,366 |Awe - 5,201
+
+Health: 1.77 Billion/1.77 Billion | Health Regen: 87.4 Billion/min or 1.4 Billion/sec
+
+Stamina: Infinite | Ambient Mana 5.402 Trillion
+
+Mass: 532.1 Million Pounds(241.8 Million Kilos~)
+
+Height: 26'11 |8.2 meters | Actual: 16'5(Mass Manipulation)
+
+Damage Res - 99.46% | Dimensional Res - 100%
+
+Phys Dam Bonus – 3.5 Billion% | Damage Bonus – 40%
+
+The Rise of Eden - enhances base stats by 30%, increased to 40% to allies within aura's radius.
+
+Mana Conversion(Elemental Furnace Count: 23) - 158.4 Billion mana/min siphoned into runes and armor.
+
+I expected a change, but these numbers defied any of my expectations. I stared down at my palm, closing it to a fist. Was I really over ten times more physically powerful than just a few weeks ago? It seemed impossible. My weight jumped up over tenfold as well, with the usual bumps in my endurance and regen becoming an afterthought by comparison.
+
+As I contemplated the meteoric rise in stats, something clicked at that moment. Schema limited me because of this. At this rate, I'd overwhelm a spatial fortress with ease. I'd live for centuries, and by then, I'd achieve an utter, critical mass. Schema wouldn't have a say in anything I did. Hell, fighting Old Ones and making new universes all popped up as new possibilities for me. If I mastered the cipher, anything was possible.
+
+And over millennia, I'd become my namesake - a true multiverse.
+
+A surge of panic spiked in my chest, but I controlled it. I leaned my head back against the wall, taking a few deep breaths. Something terrified me about gaining this much strength. After settling down over the next few seconds, I figured out what it was.
+
+I hadn't felt the change as it happened.
+
+Just knowing that calmed me down a lot. I probably glossed over the shift in mass because I was so caught up in the city building. This also explained why even a ring of my armor weighed someone down. In fact, quite a few signs showed themselves recently. I just busied myself until I hadn't noticed.
+
+It was the same with investing in my trees. Either way, I refocused on getting my position established. Yes, I could misuse my power and mess a situation up. I could also make a lot of difference across the cosmos. Instead of fearing the former, I leaned into the latter. Getting ready for that, I went up towards an outer portion of Mt. Verner.
+
+Near the mountain's peak, I got ready to focus on some runic work. As I did, an insect crawled over towards me. I peered down at it, and the creature cackled at me,
+
+"I'm ready, Harbinger."
+
+I jumped back before I recognized Plazia's voice. I raised my brow at it, "Man, please don't talk through beetle like that again...So what are you ready for?"
+
+Many beetles crawled out of the ground into the long form of a snake, "I'm ready to begin our work. It's time to connect the planes and establish a new era for my lost kin."
+
+A mouth formed with a viper's teeth,
+
+"We shall offer them a new genesis here, in a garden of Eden."

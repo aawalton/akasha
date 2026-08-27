@@ -1,0 +1,125 @@
+---
+id: f3482091-c1c0-58b6-9019-3f59d3ba984c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 569: Street sweeper"
+slug: 0136-chapter-569-street-sweeper
+partOf: rise-of-the-living-forge
+position: 136
+ownLength: 1618
+unit: words
+publishedAt: 2026-03-05
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3119283/chapter-569-street-sweeper"
+royalRoadId: "3119283"
+---
+
+“That’s an odd threat from a street sweeper,” the Beast said as he took in Kein with his dark, hungry eyes. “I can’t say waitstaff has ever challenged me before. It’s certainly a unique experience.”
+
+“And you’ll get another unique experience if you don’t turn and leave,” Kein said quietly.
+
+“Has anyone ever taken you up on that?” the Beast asked. “Just… walking away? When it’s clear that they had absolutely no plans of doing it before you offered up the suggestion?”
+
+“No,” Kein replied. “But I’ve always preferred to err on the side of caution. You never know when someone might grow a sense of self preservation. I’m an optimistic man, despite the world’s best efforts to ensure otherwise.”
+
+“Hm,” the Beast said. “Have you considered having a more intimidating weapon? People may be more amiable to listening to a warrior’s suggestions if he shows up bearing something at least adjacent to a blade. The broom isn’t doing you any favors.”
+
+“I am not a warrior,” Kien said simply. “And while I would normally be willing to engage in discussion otherwise, you are currently attacking our street. I don’t tend to fraternize with the Menagerie’s enemies… though I would be willing to make an exception if we sat down over a meal in the Devil’s Den.”
+
+“You have no idea how tempting that offer is,” the Beast replied through a sigh. He cracked his neck. “But I can’t accept. My orders were strict this time around. Not a whole lot of wiggle room. I’d be happy to take you up on this after I’ve finished up, though. I’d kill for a good meal. Literally.”
+
+“After you’ve made it past me?” Kien asked. He shook his head and raised his broom before himself. “No. I don’t believe that’ll be happening.”
+
+The Beast sighed. “Well. We tried. But I’m bored now. I hate killing people that aren’t worth the fight, but you’re in my way.”
+
+Then the Beast vanished.
+
+The ragged man reappeared directly beside Kien, his fist blurring through the air as it accelerated toward his head. Kien didn’t even budge from his spot. He barely even seemed to acknowledge the other man’s presence.
+
+All he did was shift his broom slightly.
+
+The Beast’s arm shot straight toward Kien’s face — and missed it by mere inches. For a moment, neither of the two moved. The Beast stared at his hand, which had been nudged out of the way by nothing more than the handle of Kien’s broom.
+
+Then the beast punched Kien again. Once more, the other man flicked his broom. Another blow slipped right past Kien, this one going by his stomach. The Beast wasn’t done. He drove his knee up, only to find it redirected to pass harmlessly by Kien’s side.
+
+A loud thwack split the air.
+
+The Beast staggered backward a step, his eyes going wide in disbelief as one hand shot up to his skull, where Kien had just rapped him with the handle of the broom as if he were a naughty child with his hand in the cookie jar.
+
+“The fuck?” the Beast asked, sounding more baffled than angry. Then he froze, eyes locking on his hand. A small amount of blood had smeared across his fingertips from where Kien had struck him. His gaze snapped back to the other man. “The fuck? You actually hurt me? What kind of warrior are you?”
+
+Kien tapped his brush on the ground to shake the dust from its bristles. “I already told you. I’m not a warrior at all.”
+
+The Beast’s lips pulled back into a black-toothed grin. “Do you know how long it’s been since someone has actually hurt me?”
+
+“I don’t believe I care,” Kien replied. “You’re causing a commotion. We’re trying to hold an auction here, you know.”
+
+The Beast smirked.
+
+Then he vanished.
+
+Kien spun his broom around, and a loud crack split the air as it slammed into the Beast’s wrist. The other man didn’t so much as slow. He released a flurry of blows toward Kien, each one bearing enough force to shatter solid metal.
+
+Not a single strike landed on the broom-wielding man. But that wasn’t to say they weren’t effective. One step after another, the rapid attacks forced him backward. A droplet of sweat rolled down the side of his neck.
+
+He’s definitely Sunsetted. I can’t feel any magic in him at all. It’s like every single scrap of his power has gone entirely into his physical abilities. That would normally make this a very good fight for me… but I’m a bit lacking in opportunities to take advantage of.
+
+The flurry of blows abruptly cut off.
+
+“You’re redirecting my attacks,” the Beast breathed, skipping a step back from Kien. “Complete redistribution of force. That’s fascinating.”
+
+Kien didn’t respond. The Beast had caught on a lot faster than he’d been hoping for. He was sharp. This man wasn’t just some arrogant, overpowered asshole. He carried himself like a man who had earned every single scrap of his power.
+
+Assuming he was anything less than deadly would be a big — and likely the last — mistake anyone could make.
+
+“But is that all you can do?” the Beast asked. “I’m sure you’ve realized by now that I’m faster than you are. This isn’t a very interesting fight if that’s the extent of your abilities. They’re quite unique and well-suited to fighting me… but that isn’t anywhere near enough to stop me.”
+
+“I suppose you’ll have to find out,” Kien replied. “Do you think it’s all I’m capable of?”
+
+“No,” the Beast replied. His smile grew wider. “So start using the rest of it before it’s too late, would you? I’m here for a good fight. I’d hate to miss out on one because you think you’re too cool to fight properly.”
+
+The Beast vanished.
+
+Kien spun, but this time, he wasn’t fast enough. A foot slammed into his back. He was launched off his feet as the world accelerated around him, and he slammed into the wall of the alley with a loud crash.
+
+He dropped to the ground, rolling out of the way an instant before the Beast’s fist smashed into the rocks where he’d been a moment before. Kien swept his broom out for the Beast’s shins.
+
+The other man leapt clean into the air over the strike, only for the broom to freeze in place directly beneath the still-airborne Beast. Every single scrap of speed it had possessed evaporated entirely.
+
+Then the broom snapped straight upward.
+
+It drove into the Beast’s crotch with a meaty thwack that made it clear he hadn’t invested in any armor for his nether regions. The man’s eyes bulged. He dropped to the ground with a howl of pain.
+
+Kien spun his broom around and drove it down toward the Beast like a spear. But, before it could land, the Beast rolled out of the way. He shot back to his feet, staggering on the way up before finding his footing again.
+
+“Energy,” the Beast growled, his legs crossed slightly. “That’s your ability. You can convert between active and passive energy at will?”
+
+It only took him two good hits to figure it out? That’s quite annoying. But I suppose it means I don’t have to hide it anymore.
+
+The Beast blurred toward Kien.
+
+Kien’s hand snapped up.
+
+The Beast slammed to a halt, his fist an inch away from Kien’s face. Annoyance twisted his features as he jumped back, then vanished again. Kien swung his broom around behind him, striking the Beast in the side.
+
+Once more, the ragged man froze.
+
+“Stop that!” the Beast snapped. “Your magic is infuriating!”
+
+“No,” Kien replied. He brought his broom whipping around into the side of the Beast’s head with a loud crack.
+
+The other man staggered back with a snarl. Then he vanished again.
+
+He appeared beside Kien, his fist lodging itself into his gut. But, in the very instant that the blow connected, all the momentum evaporated from it. The Beast simply froze in place, as if he were doing nothing more than giving a friendly fist-bump to the stomach.
+
+Kien’s knee snapped up. It connected with the Beast’s nose, breaking the bone within it and sending the ragged man’s head cracking backward and sending him a staggering step backward.
+
+Then the Beast drove his foot down into the ground, regaining his balance. His head pulled itself back forward as he grabbed his nose, snapping it back into place and wiping the blood from his lips with the back of his hand.
+
+He’s tough. That would have torn the head right off most people. Just how durable is this guy?
+
+“Incredible,” the Beast said. His lips pulled into a cold smile. “You can reduce the force from my blows, even when they hit you? I’d thought I was hitting softer than normal. But you were letting me hit you, then reducing the force so it wouldn’t be fatal in hopes of keeping me from figuring out how your power works. Brilliant. Terrifyingly effective for any melee fighter.”
+
+Kien watched the Beast with thinned lips.
+
+“Though there’s a limit to every ability. One fist at a time, sure. Easy enough to stop. But I have to ask…” The Beast kicked a large rock up from the ground. He caught it, snapping it into two pieces easily and holding one in each hand, sizing them up as a small smile crept back across his face. “How many objects can you slow at once?”
+
+Shit. Rodrick and the others better move fast. I don’t think I’m going to be able to hold out alone against this guy for much longer.

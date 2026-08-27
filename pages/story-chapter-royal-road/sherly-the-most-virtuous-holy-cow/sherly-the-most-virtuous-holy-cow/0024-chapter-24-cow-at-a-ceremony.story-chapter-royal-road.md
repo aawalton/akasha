@@ -1,0 +1,169 @@
+---
+id: 9014b7ba-7d95-5cbc-af0a-d5eee95b7c49
+page-type-slug: story-chapter-royal-road
+title: "Chapter 24 - Cow at a Ceremony"
+slug: 0024-chapter-24-cow-at-a-ceremony
+partOf: sherly-the-most-virtuous-holy-cow
+position: 24
+ownLength: 1875
+unit: words
+publishedAt: 2025-10-30
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2717149/chapter-24-cow-at-a-ceremony"
+royalRoadId: "2717149"
+---
+
+Chapter 24 - Cow at a Ceremony
+
+Sherly followed Ishuin a little further into Crossmark. The path they took led them to the residential area. There were already a few people around so early in the morning, but no one seemed to bat an eye at a cow-chilim and an elf strolling near their homes.
+
+As they walked, Sherly found a couple of people doing the same, and an even fewer number of them wearing hoods. It reminded her of something she saw a couple of hours ago.
+
+“Ishuin,” she started, asking for the elf to slow down a bit. “Is wearing a hood a common thing here?”
+
+Back in her world, she had liked the trend of wearing hooded jackets, but it became cringy pulling it up when she was indoors. When she was travelling, however, it had been a good layer of protection from the wind.
+
+“Pretty common, I’d say,” Ishuin replied, looking up to the cow-chilim’s horns. “I don’t think we can put a hood on you, though. Why’d you ask?”
+
+“I just saw one leaving town this morning, and it got me curious.”
+
+“Yeah, well, it’s good protection from the rain and wind.”
+
+“Yeah, I figured.”
+
+From afar, Sherly could hear Kasta, Maymay, and Duis talking to each other. She could also hear a fair amount of other people gathered with them. They were nearing their destination.
+
+“Is it really alright for me to show up?” Sherly asked. “I’m still a… You know?”
+
+“And they know you’re the one who saved them,” Ishuin answered. “You absolutely have no reason not to attend.”
+
+“Don’t make me do a speech, alright?”
+
+“Now that you mention it…”
+
+“Come on, Ishuin.”
+
+“Alright, alright.”
+
+As they reached the crowd, Sherly immediately saw the bonfires spread around the barren field. People were gathered near them, who were presumably the relatives or friends of the dead that were underneath the pyres.
+
+“I thought they were going to be buried?” Sherly asked as Kasta and Maymay approached.
+
+“Not enough space,” said the human. “Since they’re not actual citizens of Crossmark, the Mayor only afforded them a small plot in the cemetery. I got everyone to agree on cremating their dead. They could then bury the urns together or carry it with them. Their choice.”
+
+“Ah, I see.”
+
+“Are all the preparations done?” Ishuin asked.
+
+“Yes, ma’am,” Kasta replied.
+
+“We’ll make sure no one disturbs the place while you perform the ceremony,” Maymay added.
+
+“No, we should be okay,” the elf said. “I want everyone who can to attend.”
+
+With a nod, Maymay ushered Sherly to her place in the crowd. They stood up front, near a small stage. Duis was also there. Together as four, she realized all the Wielders of the Cancer’s Claw were gathered together.
+
+Ishuin stepped on the stage. A podium was set up for her. As she stood there waiting, the rest of the crowd turned quiet.
+
+“Today, we honor the dead,” she began, her voice carried by mana to reach every person listening to her. “Our world has become more ferocious than before, and we have failed to reach you in time. There is no amount of apology that can bring them back. But I promise…”
+
+Sherly sensed something from the crowd.
+
+She could feel hate, resentment, and sadness. It was an odd sensation, a vivid connection that was tangible enough for her to ascertain that it didn’t exactly originate from herself.
+
+But at the same time, the feelings she was detecting were somehow vague. She couldn’t tell what the hate and resentment were directed towards, but she hoped they weren’t pointed at Ishuin.
+
+“It’s your animalistic sense,” Maymay whispered. “You’re being a little too obvious. Just act like you’re listening.”
+
+“Sorry.”
+
+Ishuin kept her speech brief, but she did emphasize that her caravan would accept new recruits should there be people who would like something they could direct their vengeance towards. She wasn’t even subtle about it, truthfully saying that she was taking advantage of their grief by inviting them to a commitment that they might not entirely understand or fulfill. So she left them with a warning.
+
+“You will be trained and turned into a soldier,” she began. “You will be taught to channel your fury towards your enemies, not your allies. You will be expected to answer to the Cancer’s Claw and follow Lady Kansa’s commands. You will suffer, and you will question why you ever agreed in the first place. But just as how we will easily accept you into our caravan, we will also let you go the same way. When your fire extinguishes before you achieve your revenge, or your life ends, then we will have no reason to keep you.”
+
+As Ishuin stepped down, she was met with no applause. People were already crying, struggling to keep their decorum. The elf Wielder reached out to someone who was holding a torch. She took it and passed it to the closest villager who was standing by a bonfire.
+
+The villager accepted the fire and lit a portion of the pyre that was closest to her, then she passed the torch to someone else who also did the same. It continued until everyone had the chance to place the torch’s fire on the pyre.
+
+Then the rest followed. Soon, the entire fields were filled with fire and smoke. Sherly couldn’t resist the oppressive smell. She quietly covered her nose and noticed that Maymay was doing the same.
+
+As the cow-chilim watched the ceremony continue, there was a slight, morbid curiosity growing at the back of her mind. She wondered how the people knew which ashes belonged to the person they cared about, after the flames had died out. She noticed that the pyres were set to house a few bodies, not just one.
+
+But she dared not give her question voice on account of showing respect. She realized that this ceremony had to have been performed by many people already in the past, and that they knew what they were doing. Though she wasn’t privy to that information, she understood that they had a way to properly segregate the ashes.
+
+By the time she was done internalizing this thought, the ceremony was still on its way. Thankfully, Maymay asked her to follow a little distance away from the pyres. When they could finally breathe without getting their sense of smell assaulted, Sherly asked the second curious thing on her mind.
+
+“What was that exactly?” she asked. “What did I sense back there?”
+
+“It’s something that our animalistic instincts could detect,” Maymay started. “It’s usually not something we detect. It’s only obvious because a lot of people were openly sharing the same emotions at the same time. Because of that, it sort of tangles with our senses that are more sensitive than a normal person’s.”
+
+“Did Duis detect the same thing?”
+
+“Yeah.”
+
+The answer didn’t come from the dog-zilim. Instead, Sherly turned to find the bird-zilim approaching them.
+
+“Duis,” Sherly started. “I—”
+
+“It’s fine,” Duis said, raising a hand. “I want to be the one who apologizes first. Sorry. I overreacted, and I even almost got you killed. I let my anger get the better of me.”
+
+“Oh…” Sherly blinked twice, trying to discern if the bird-zilim had any hidden motive for approaching her and apologizing. But she couldn’t detect anything like that. As far as she was concerned, the apology was genuine. “Yeah. I’m sorry, too.”
+
+He was scratching the back of his head, sheepishly looking away.
+
+“So, I’m not sure how to say this, so I’ll just come right out with it. Last night, a stranger asked for your name. He tempted me with a Ruingrass Leaf. I was pretty drunk too, but that actually made me realize that I’m not the sort of person who’ll sell a comrade out.
+
+“I guess, what I’m trying to say is, you should be careful. I don’t think it’s just us who knows that you’re special.”
+
+Once again, Sherly blinked. She had certainly held the opposite impression of Duis. Her respect for him grew, even if only a little. But she wanted to make things clear.
+
+“Thanks, I’ll keep an eye out,” she started. “So, umm… Are we good now? No hard feelings? No negative thoughts?”
+
+“You still owe me a Ruingrass Leaf.”
+
+“Yeah, I get that.”
+
+“Then, if you’ll accept my apology, I think we’re good now. I’m pretty sure I’m the one who has to ask you that question instead. I understand that I didn’t give a good first impression.”
+
+Sherly smiled. “Well, we’ll figure that out as we go. I’m sure we’ll be working together a lot from now on. And yes, apology accepted.”
+
+Duis smiled back. “Thank you.”
+
+“Want some tea?” Maymay asked, she was also smiling. “Let’s celebrate this reconciliation a bit, yeah?”
+
+From her Domain Heart, the dog-zilim retrieved a canister of tea. It didn’t have the best composition to keep the drink warm, but they took a cup each anyway. They were doing it for the toast, not the tea, after all.
+
+“To friendship!” Maymay called out.
+
+“To friendship,” Sherly said.
+
+“To friendship,” Duis followed a little out of sync.
+
+The three made a toast and drank their tea straightaway. The taste wasn’t too bad, despite the drink being barely lukewarm. And since neither Duis nor Maymay reacted negatively against it, Sherly did the same.
+
+“Takes a mass cremation ceremony to sober you up, eh?” Ishuin said, approaching them. She had finished all official business concerning the ceremony and had left Kasta in charge of the rest.
+
+“I apologize for not doing so sooner, Lady Ishuin,” Duis said without skipping a beat. “I hope you’ll let me off easy this time around.”
+
+“Well, I’m a fair leader,” said the elf, accepting her own cup of tea from Maymay. “Since you didn’t exactly disobey any of my direct orders, there’s nothing for me to forgive. But I appreciate your apology and accept it anyway.”
+
+“Thank you.” Duis then told Ishuin about the hooded stranger that inquired about Sherly.
+
+“It could be one of Taurus’ spies, or it could be a different interested party,” Ishuin said, inquisitively rubbing her chin. “There’s no way to be sure unless you have further details.”
+
+“I don’t have any.”
+
+“Well, good job on not selling out, regardless. Anyway, once we’re all done here, we should start doing some training.” Ishuin pointed at Sherly first. “You have a lot of catching up to do.” Then she pointed at Duis. “And you still have to make up for the ones you skipped before.”
+
+“I need to know how to handle a big sword,” the cow-chilim admitted. “It keeps pulling me out of balance.”
+
+“Don’t worry,” Maymay started. “I can give you some pointers.”
+
+“Are you still switching to spears?” Ishuin asked Duis.
+
+“I don’t have any sword-related Skills yet,” said the bird-zilim. “I should still be good to switch.”
+
+“Right, then I’m training you, and Maymay will be training Sherly.”
+
+Everyone gave a nod, but before they could return to the ceremony for the closing remarks, Sherly’s stomach made a soft, gurgling noise. Everyone in the group turned to her.
+
+“Umm…” she started, shyly scratching her cheek. “Can we start after lunch?”

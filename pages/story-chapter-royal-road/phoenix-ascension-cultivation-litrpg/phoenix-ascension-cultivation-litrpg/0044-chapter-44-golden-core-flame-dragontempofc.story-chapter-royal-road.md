@@ -1,0 +1,123 @@
+---
+id: f2ba50c1-1def-5554-a006-2efb773b1129
+page-type-slug: story-chapter-royal-road
+title: "Chapter 44: Golden Core Flame Dragon(Temp(Ofc))"
+slug: 0044-chapter-44-golden-core-flame-dragontempofc
+partOf: phoenix-ascension-cultivation-litrpg
+position: 44
+ownLength: 1733
+unit: words
+publishedAt: 2025-11-03
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2729851/chapter-44-golden-core-flame-dragontempofc"
+royalRoadId: "2729851"
+---
+
+The flame dragon attacked the cultivators at my command. With only one or two of them being in the Golden Core realm, and the rest in the Core Formation realm— at least what I could tell from their Weapon Qi. That flame dragon would now give them quite a bit of trouble then.
+
+It was too bad I couldn’t throw the Ice Crow Golden Core in as well, but only using the Vermillion Bird Golden Core was the best method. If maybe someday I could create water dragons, then that would work.
+
+Who would have thought that deciding not to greedily absorb the cores at the nudging of System would end up helping me in such a way? Definitely not me.
+
+In retrospect, the Golden Core of a mythical beast couldn’t compare to the Golden Core of a random animal found in this forest.
+
+The first core I absorbed was pretty bad in comparison to these two treasures. I couldn’t help but wonder what that tiger was all about then. Oh well, that barely mattered now.
+
+What mattered was doing my best to help Mother. Her fight against the fake Phoenix was going quite well, her beautiful flames beginning to overpower it. However, she couldn’t eat it anymore and therefore could not replenish her energy. If I had to guess, the energy the nest absorbed from me was being sent straight to her.
+
+It was such a waste. But if the little I could provide helped Mother, then I wouldn’t mind giving her all my essence.
+
+It was my fault we’ve gotten ourselves into this predicament. One could argue I was a victim of circumstances, but it was better to assume one’s mistakes and live with them. What mattered the most right now was fixing the problem.
+
+And with my new skill… err, it’s not really Flame Dragons, so it should be named something else. Hmm, well, it has a Golden Core as part of it, so ‘Golden Core Flame Dragon’ as a start sounded good. Right, it would be a temporary name, of course.
+
+Back on the battlefield, the old woman was glaring at me from outside the nest. It was quite an interesting scenario, where she couldn’t do much for me. She switched from me to the flame dragon, her eyes full of hatred, trying to understand what kind of skill I was using, no doubt.
+
+Well, you couldn’t blame her. Spirit Beasts shouldn’t have this form of intelligence or knowledge about external or even internal powers. Cultivating Qi should not have been possible, but there I was.
+
+To be fair, I couldn’t use Qi at the moment, but that was besides the point. If I could, I would have had an easier time dealing with the weaker cultivators. As for those stronger ones? No way, no way in the Nine Heavens.
+
+No matter how much of a freak I was, Qi Condensation was still far weaker than Core Formation and Golden Core. Therefore, I would be dead no matter what if I didn’t have Mother to protect me.
+
+That quasi Core Formation cultivator was simply too incompetent, and my forced use of stealth skills led him away, but even he could have killed me.
+
+Luckily, after the formation broke, there was no point to him chasing me anymore. In his eyes, I was just a chick with some intelligence; he couldn’t have expected that I could use a skill like Flame Dragons.
+
+My ability to fuse them together and also insert a Golden Core inside to boost its power by a few tiers was mostly thanks to Precise Flame Control. It was a very strong skill that allowed me to do what I couldn’t otherwise due to my low Qi reserves.
+
+However, it used to much of my stamina in exchange that I wasn’t sure the tradeoff was worth it. I could see my Overeater stored fat shrink, and as my body got lighter, so did my mind. A wave of dizziness hit me, but I didn’t dare sit down.
+
+I would have bitten my tongue if I could, but the next best thing was digging my talons into my own leg to keep alert.
+
+Blood splurted and burned away to nothingness, but that kept me awake.
+
+The Twin-Headed Golden Core Flame Dragon--- wow, that was a mouthful--- under my control struck one of the cultivators, and he shot backward. Blood splurted out of his mouth, but he didn’t die.
+
+If only I had my Elemental Needles, I would have been able to deal the finishing blow. In fact, all of them look quite distressed; their mental defense was definitely weak. Or was it? Either way, I can’t try…
+
+I could only sigh at my predicament. If only those two demonic cultivators or demons or whatever had died without putting on a fight, then everything would have been fine.
+
+Fuck their whore mothers, how dare they struggle so much?!
+
+I took a deep breath, as my anger affected the Phoenix Fire that created the Twin-Headed Golden Core Flame Dragon. I couldn’t have that, not when Mother was fighting against that Fake Phoenix.
+
+Speaking of that fight, she was most definitely kicking its butt. The old Nascent Soul bastard couldn’t do anything else except control the fake Phoenix and send some Qi attacks from time to time.
+
+Each time he did, the sky would split in two, though. The clouds would split and the light would bend, yet Mother dodged it while also fighting that thing.
+
+Phoenix Reflex must be working overtime for her as well. She dodged another Qi attack and lunged at the fake Phoenix, taking a bite off of its wing. It must have tasted awful, as she spat it without even giving it a second glance.
+
+The black Phoenix let out a screech as if it were alive, and attempted to bite back. However, Mother dodged before it could do that and hit it with her tail.
+
+Unlike the Iron Whip I’d acquired, her tail became like a whip of fire, which left gushing wounds on the black Phoenix. They couldn’t heal back, so her Yang energy must be very potent, as she fought off the extreme Yin of the Death aura.
+
+Mother then waved her wings and summoned two tornadoes made out of fire. They shot toward the black Phoenix, but it dodged just as they were about to tear it to shreds. Instead, two black fire tornadoes took his place, colliding with the ones made by Mother and cancelling each other out.
+
+Did it just copy my skill? Was no doubt what Mother must be thinking, because that was what I was thinking as well.
+
+That thing was not a living creature; how could it use skills? Perhaps it wasn’t using skills, but pure Qi. If so, then was it done by that old Nascent Soul bastard? That question, if it had an answer, only gave birth to more questions.
+
+“Gah!” As Mother and the other Phoenix fought, my flame dragon had gotten surrounded. Wild amounts of Sword, Axe, Spear, Halberd, and even… Fire Qi shot toward it, but I managed to make it dodge most of them, more or less.
+
+The ones that hit didn’t hit the core, which had now become the source of its power, but instead cut off some parts of its body. Yet, as stated before, the Golden Core was its source of power, so those regenerated rather quickly.
+
+Without thinking too much about it, I made the Twin-Headed Dragon roar with one head and shoot out breaths of flames the very next second with the other. While it didn’t have the effects of Paralyzing Screech, all I needed was that half-second of distraction.
+
+The Phoenix Fire, enhanced by the Golden Core, struck the nearest, most daring cultivators. Before they even had a chance to blink, their skin and bones turned to ashes, and everything except their begs of holding and weapons disappeared into ash.
+
+[You have slain Li Ming, Cultivator Lvl 14]
+
+[You have Slain Hu Mei Hua, Cultivator Lvl 17]
+
+[You have Slain Mei Mei Mei, Cultivator Lvl 15]
+
+[XP Acquired]
+
+[You have Leveled Up]
+
+[Elemental Phoenix Lvl 14 has become Elemental Phoenix Lvl 15.]
+
+Mei Mei Mei? Did your parents hate you?
+
+Rest in peace, guy with a funny name, or gal. I couldn’t really see who the fire-breathing killed. The rest quickly dispersed, giving the dragon some time to recuperate.
+
+However, I could sense that the Golden Core had used up a lot of Qi. If things kept going as they were, then it would use up all of its resources before the fight ended. I didn’t know what would happen if that came to pass, but it couldn’t be anything good.
+
+I did what I considered to be the smart thing and recalled the Golden Core, and the Twin-Headed Flame Dragon returned to its previous weak self as a result. I commanded it to rush toward the closest cultivator and self-detonate.
+
+The resulting explosion wounded some of them, but most of the cultivators avoided it. It was unfortunate, but my Qi Condensation level Flame Dragons weren’t enough to deal with those people.
+
+But without being able to use the Vermillion Bird Golden Core, I didn’t have many options to attack. I could summon some elemental waves, but their range was too small, and the Paralyzing Screech was too weak in its current state to do anything.
+
+If I went out there, I would be like a sitting duck, but hiding under the protection of the nest wasn’t an option either. I had to have something, I should be able to use something, anything.
+
+I didn’t dare use Qi anymore, not even by metaphorically forcing Spirit Stones down my throat. One, because I didn’t have any more, and two, because if I did, then the Demonic Qi would have an even higher chance of invading my body.
+
+It was regretful, but all I could do was watch and provide Mother with my meager essence.
+
+As I looked at the shocked cultivators, a single thought popped into my brain.
+
+If only I could use Qi Needles…
+
+I watched Mother throw another wave of fire at the black Phoenix, out of which appeared two snakes that coiled around it. That was when an idea struck me, and fire tinged at my fing— feather tips.
+
+This has to work!

@@ -1,0 +1,469 @@
+---
+id: 359ba0f9-9a7e-5151-b976-0516b2606fa1
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED SEVENTY-THREE: The Thanksgiving"
+slug: 0175-one-hundred-seventy-three-the-thanksgiving
+partOf: super-supportive
+position: 175
+ownLength: 5297
+unit: words
+publishedAt: 2024-10-02
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1831873/one-hundred-seventy-three-the-thanksgiving"
+royalRoadId: "1831873"
+---
+
+173
+
+******
+
+One on-stream bite of a grilled bell pepper to satisfy the fans pestering Jeffy  for a glimpse of him. One nod at Konstantin, who was at the bottom of the staircase, scraping mashed potatoes and pieces of a broken bowl together while Søren apologized. One loud groan as he glanced at his social media account and saw all the requests for information about the heartwarming thing the teenager with the heartbreaking story was doing.
+
+One piece of origami paper collected from his desk drawer. One shouted conversation out of his bedroom window to the swarm of people who’d gotten involved in cornucopia decorating. He would not be flying that thing to Matadero later unless it shrank by half. They’d been told.
+
+One warning to Haoyu and Lexi about the questionable nature of the potatoes that would soon be arriving. One strong handshake from Mr. Zhang-Demir. And one final flight down to F with a load of supplies for the NesiCard man.
+
+“Even Artonans love pizzzzzzzaaa! Maybe!”
+
+One thought so crazy it would never have crossed his mind on a less ludicrous day. One frown as he stopped and stared at Post Drop #1301— a graduation capstone project gifted to F City by Indah Juliana.
+
+He tried to target it with his skill.
+
+And he felt the pull of it, that little weighted point in the universe that marked the location of his entruster. His sense of it was oddly fragile, like it existed halfway between reality and a fevered hallucination. But there it was.
+
+He pressed his lips together. He watched the Post Drop until his eyes started to burn from dryness.
+
+“I am not prepared for this, and I can’t think through it right now. But thanks for the pizza.”
+
+A toilet flushed.
+
+Not normal, Alden thought, striding away quickly.  Not my business. Not today.
+
+He flew fast toward Apex and Boomtown.
+
+******
+
+Alden parked the Nine-edged Son on the roof of the building where Natalie, Hadiza, and Emilija lived, and tried to tame his hair with one hand while he hurried downstairs. Their dinner party had started twenty minutes ago, and feelings of self-pity were occasionally breaking through the noise in his head.
+
+All the magic food will be gone. I bet there was magic food I could have eaten, and I missed it.
+
+He hurried down an acrid-smelling hall—not that unusual given the neighborhood—and knocked on their door. A moment later, Natalie opened it for him. Warm air hit him and the stench was blown away by a bouquet of food smells that might have wafted in straight from heaven.
+
+Natalie was dressed casually in her pink overalls. Her hair was up in a bun, and she was wearing a pair of tiny earrings shaped like a fork and knife.“You made it!”
+
+“I’m sorry I’m late. And I should only stay for half an hour or so. The chef at Matadero is going to need a hand dealing with all of it.”
+
+“You’re good,” she said, shutting the door behind him. “That’s enough time to eat and meet everybody.”
+
+Alden took in the group that made up “everybody” while he followed her over to the fancy range she’d bought with the money she’d made doing his meal prep. The apartment was decorated for a party, and teenagers were sitting all over the furniture and floor. But it was quiet except for the sounds of spoons scraping bowls and the music coming from the television that hung on the wall opposite the kitchen. The TV was showing a recording from this morning’s Thanksgiving Extravaganza in Atlanta. A high school band was playing on top of an air float that looked like a storm cloud while performers dressed in silver to represent raindrops used the aerial silks hanging from the float’s underside.
+
+It was a cool show, worth watching even if someone had grown up with more Anesidora-level holiday spectacles in Alden’s opinion. But nobody was looking. They were all too busy having sacred experiences with the food in their bowls.
+
+“Everyone seems to like the appetizer course,” Natalie said proudly.
+
+On top of the stove, a large pot held what was left of a velvety golden soup.
+
+“It’s vegan!” she announced.
+
+I know it is. He stuck his face over the pot and took a deeper whiff. “Natalie, it smells like you somehow melted comfort. I know you know that, but—”
+
+“I don’t mind hearing compliments.” She bumped him with her shoulder and reached for the ladle. “I am really glad you came. Emilija was posting threats on your pigeon picture earlier, and she saw your ‘Please No More Food’ message go up. So she stopped talking about how you should be forced to live on bread and water and started snooping on you instead. To see what was going on. Hashtag Matadero Thanksgiving is trending! There was a video of you flying to F a little while ago.”
+
+“How did I look?”
+
+“We couldn’t see you too well. You were hidden by so many supplies. And what about that guy in your program? Emilija found his page. We don’t like him. Is he a Rabbit-hater?”
+
+Alden glanced over at Emilija, who was sitting with her back to the dishwasher and her eyes closed as she licked the back of a spoon. She had a yellow maple leaf pinned to the front of her green dress. Other artificial leaves, looking abnormally lovely, hung from threads attached to the ceiling.
+
+“You good there, Emilija? You know spoons aren’t edible, don’t you?” he said.
+
+She opened her eyes just wide enough to glare at him. <<My fury is only temporarily paused. Hadiza and I both hate you now, Turkey Taker.>>
+
+Alden snorted, then looked back at Natalie. “As far as I can tell, Winston Heelfeather’s mad at me for existing in the same school as him, and he’d sell his soul for fifteen minutes in the spotlight. He says awful stuff sometimes, but I don’t think he’s actually got convictions about Rabbits, ranks, or anything like that. He just obsesses over how his fame level compares to everyone else he meets.”
+
+“Forget him then! Look at the star of the show before you eat your pumpkin orange soup.” She bent down to peer through the oven door and motioned for him to join her.
+
+Alden’s nose being so close to the vent as he admired the oven’s lone occupant was a blessing and a curse.
+
+“Are you really going to preserve it until the wizards show up at Matadero for dinner?” she asked.
+
+“Of course. This is a Natalie Choir skill debut. I’m not going to let it sit out losing its crispy, juicy glow. Give it to me perfect, and I’ll get it to them perfect. Promise.”
+
+She looked pleased. “It’s heavy.”
+
+<<She’s a big girl. Big enough for me to have a wing before she leaves,>> Emilija muttered.
+
+“I can handle a turkey,” said Alden. “I wouldn’t mind borrowing a bag or something, but I definitely won’t let anything happen to it.”
+
+“Make sure the wizard from Bunker Street has some,” said a voice from behind him.
+
+He straightened and looked around to acknowledge Hadiza. She was on the other side of the kitchen’s island, empty bowl in one hand as she reached up to tap the thread holding one of the leaf decorations. It took on a glimmering quality, like it was catching the light in the room exactly right.
+
+“Ro-den. That guy’s name is Worli Ro-den.” The tattoo on Alden’s chest was gone now except for the concentric triangles. When his arm was down by his side, they weren’t noticeable. “I’ll make sure he gets some. Are you three really all right after what happened to you that night?”
+
+“We’re fine,” said Natalie.
+
+<<We’re the only ones who are fine.>> Emilija climbed to her feet and gazed at their guests with a superior expression. <<Look at them. Weaklings.>>
+
+A few people were staring at their dishes like they couldn’t believe the soup was gone. One boy in a fedora was watching the girl beside him finish hers off so intently that Alden wouldn’t have been surprised to see him reaching over to stick his spoon in her bowl.
+
+<<They aren’t trained like me. Their misfortune. Natalie—another bowl!>>
+
+“No way!” said Alden, blocking the pot as she approached. “Do you know what kind of day I’ve had? Let me have firsts before you get seconds!”
+
+******
+
+The soup tasted like a trip to a pumpkin patch he’d never been to, on a cool fall afternoon he’d never experienced. Natalie was either improving or she’d put more oomph into this one to make up for the lack of the entree she’d planned. By the time Alden licked his bowl clean, the other guests had recovered from the appetizer glow and started grazing on the side dishes and desserts.
+
+They were all delicious, but not in the magical way.
+
+I guess a room full of people eating in utter silence wouldn’t be much of a party.
+
+The television was louder now. People were milling around and introducing themselves. Alden recognized a few of the guests as fellow Rabbits from intake; the others were an eclectic mixture. It was a group just shy of thirty people, and Alden was the only Talent Development Program student.
+
+But he wasn’t lonely. Everyone here knew he was stopping by on his way to #MataderoThanksgiving.
+
+“So you’re the one who had a teleporter acci—”
+
+“You’re from that video with Aulia Velra and her granddaughter! Man, that was—”
+
+<<You planned a party for wizards? That’s brave.>>
+
+“You’re the globie who’s been inside the cube! And at a time like this. What—”
+
+“Yep,” Alden said in between bites of the few vegan offerings. “That’s me.”
+
+Please. My time is limited. Just let me eat in peace and pretend this is all I have left to do tonight.
+
+Actually, at any other time he would have been interested in this guest list. The people here were different from the students he usually spent his time with as far as interests and ambitions went.
+
+Other than the Rabbits, he talked to a third year Healer Hadiza had befriended who was trying to get her first comic book published, a second year Polar Brute who was stoked about the fact that he’d gotten approval to travel with a university group in Antartica next year, and a Meister who played a giant drum weapon. Her passion was xenocultural studies, not weapons. She and the Brute had met Natalie at a club for people who were extraterrestrial travel and culture enthusiasts. Alden hadn’t even been aware there was such a club on campus. They were all looking forward to a video talk that had been scheduled with a lortch village for next week.
+
+He watched the time he’d allotted himself for a “relaxing” meal tick away while he stood in the corner by a broom and dustpan, shoveling apple pie into his mouth. A pair of Wrights—one of them the fedora guy, who lived next door with his parents and brother—had corralled him here to ask questions about the nonagon. Alden’s answers were less knowledgable than they’d hoped, but they were sticking around to explain their own current projects to him, as if his possession of a magical vehicle made him one of their kind.
+
+“I’m a LEW,” said the fedora. “And so is she. We’re both in our workshops half the time.”
+
+“LEW?” Alden asked after swallowing another mouthful of pie.
+
+“Longterm Earth-based Workers,” said the girl Wright. She was short, and the orange stars on her bobble headband were waving just below Alden’s nose.
+
+“Oh. I hadn’t heard it abbreviated like that. You’re both doing work with your powers already?”
+
+They’d said they were finishing up high school classes and starting uni in January. The fedora was a student at CNH, and the bobble band was at Naya Din on the bayside campus, which was closed at the moment due to water damage.
+
+Alden hadn’t expected them to have Avowed jobs. So far the only high schoolers he’d met who got summoned frequently were Rabbits and Lute.
+
+“There have been way more Wright assignments than usual,” said the fedora. “I don’t mind as long as it doesn’t last forever. I make equipment storage cases. Not the most exciting thing, but I do have to customize each one for the object going inside it. A lot of unusual tools and weapons end up in my hands for a little while.”
+
+“And I make automated process panels for drudgery chests,” said the girl.
+
+“Those are…?”
+
+“Amazing!” said Natalie. “They’re amazing.”
+
+She’d somehow gotten away from a group that was trying to persuade her to use her skill while smearing jam on a buttermilk biscuit, for the purpose of creating a super biscuit they could use as a prize for the limbo game they had going on.
+
+She helpfully grabbed Alden’s paper plate and tossed it toward the trashcan. It was the most evil thing he’d ever seen her do. He’d been planning to get that last crumb.
+
+“Drudgery chests are like little factories you can teach to do repetitive jobs for you. Like if I had one—”
+
+“There is no way I can get you one,” said the Wright girl.
+
+“—and I wanted to chop a thousand onions, which is a horrible job that makes a person cry—”
+
+“Even if you cry for days, I can’t get you one.”
+
+Natalie’s smile was so sunny Alden was surprised the onions didn’t chop themselves for her.  “I would only have to chop three onions inside the drudgery chest—”
+
+“More like twenty.”
+
+“And then all I’d have to do is keep giving it piles of onions and it would be an onion-chopping professional!”
+
+“They’re really not for cooking,” the Wright said, keeping her eyes on Alden like she was afraid to look too hard at Natalie. “Of course they could be; but there’s only one I know of being used that way, and adding onto it has been my mother’s hobby since she was my age. She’ll probably sell it to the Artonans eventually. They’re highly sought after. Not because they’re the best at every automated task, but because you can re-instruct them to do whatever you need at the moment.”
+
+“You mean have the same device chopping onions in the morning and then frosting cupcakes in the afternoon?” asked Alden.
+
+“See! He thinks it’s a kitchen tool, too!”
+
+“You’ll have to take it up with the Artonans if you want a drudgery chest, Natalie. There’s low supply for one of the components. I’m on a waiting list just so I can put one together for my own personal use. They provide me with everything I need to fulfill orders for them, but otherwise…”
+
+“I’m not making any personal projects right now either,” said her friend. “Not because I can’t get supplies, but because I’m getting sick of making cases. The last thing I want to do in my free time is make another one.”
+
+When Alden left them, they were arguing about the Wright who’d made the bomb that the SAL boat had been smuggling off the island and whether or not he had known where it was going when he created it.
+
+He stood across the kitchen island from Natalie, watching her garnish the turkey. It was resting on a glazed platter that was such a biteable candy apple shade, he was sure Hadiza had hit it with her skill. “Thank you so much again for doing this. If everything else is ruined, at least we’ll still have the traditional dish.”
+
+She didn’t answer, and he realized her eyes weren’t closed in momentary thought. She was actively using her power on the citrus wedges she was nestling around the bird. He watched her lips move as she mouthed a word.
+
+Laughter, he decided.
+
+She’d said before that Cook of the Moment required her to focus on her own memories. Her own moments. As the skill developed, she’d get more control over the flavors and the feelings her food evoked.
+
+Maybe laughter always tasted a little like cake batter in Natalie’s head, and she would be able to inject a hint of that into a lemon if she wanted.
+
+I would absolutely eat a cake and laughter flavored lemon.
+
+She was taking a while with each piece of fruit.
+
+He reached into one of his back pockets and pulled out his piece of origami paper from earlier. It was currently a diamond with a couple of protruding triangles. He’d stopped folding here, since this was the last part of the design that wasn’t easily ruined. While Natalie focused on a kumquat, he pulled up the instructional video he’d been watching in brief bursts this afternoon and finished his inadequate contribution to her holiday.
+
+“Okay,” she said a couple of minutes later, opening her eyes.
+
+“It’s done?” The turkey looked glorious, but it had looked glorious even before she’d started on the garnish.
+
+“It’s done.” She stared down at it. “What if they don’t like it?”
+
+“I’ll snatch it away from them and bring it back here to appease the beasts you live with.” He took a deep breath, filling his lungs with scent. Emilija’s right. Taking it away from them after they smelled it cooking all day is a crime.
+
+“The Artonans are going to love it,” he assured her. “And here. I made a replacement for you.”
+
+He set the origami turkey on the countertop beside its more edible relative. It was a perky looking little thing with an upturned beak. And just as Alden felt a flash of pleasure at how neat the paper animal looked, it slowly tipped over onto its back.
+
+“Oops.” Before he could reach over to set it upright, Natalie grabbed it.
+
+“Oh my god! He’s precious! I love him.” She held the turkey in her palm, and it tipped over again.
+
+Alden scratched his head. “Sorry. He must be heavy in the rear. I’ll make you a better—”
+
+Natalie glared at him and cradled the turkey to her chest. “No. Take it back. He’s perfect.”
+
+“He’s got a tail so big he can’t stand up straight.”
+
+“He grew those giant feathers to impress the other turkeys. He’s doing his best.” She righted the turkey again on its tiny paper feet and watched it fall over once more.
+
+They both looked at it for a second and then burst out laughing.
+
+“I’m going to name him,” Natalie said breathlessly when she’d recovered enough to speak. “I’m going to name him something!”
+
+“You should name him Big Butt.”
+
+“He wants a noble name.”
+
+“King Big Butt.”
+
+She threw a kitchen towel at him, and he caught it.
+
+“Hey,” she said, “you know how Verna was just saying there was only one place using a drudgery chest for cooking? It’s a large one her mom made. Like a whole drudgery room. It’s usually set up to make a meal of the day all by itself, and you can watch through a window. Do you want to come see it with me sometime?”
+
+“Yeah, of course. New magic stuff is always cool.”
+
+“Great! I’ll find out when it’s open again and let you know.” She smiled at the turkey and made it a nest in another towel. “There you go. He’s looking comfortable now.”
+
+“Just needed a prop for his massive butt,” Alden said.
+
+“His name is Wobble.”
+
+“Wobble?”
+
+“Wobble Gobble.”
+
+Alden nodded. “A truly noble name.”
+
+******
+
+The flight of The Turkey Express was a remarkable experience. Alden would have preferred an unremarkable one, but he tried to act like he wasn’t freaked out by any of the things that happened after he left Boomtown.
+
+Like former-Instructor Rao meeting him in the common area on his final, final stop by the dorms so that she could deliver a clove-studded ham. All her Avowed profile information was written on the aluminum foil that covered it, so that Alden could memorize it and then casually mention it in conversation to the Artonans he met.
+
+Or like Principal Saleh falling through the ceiling to land between the two of them and inform Rao that former faculty members shouldn’t be lurking inside Garden Hall to bother students and insist they take their pork résumés to Matadero.
+
+“I’m sorry about all of this,” Alden said when Rao was gone. He shifted his grip on the large shopping bag that Hadiza had given him for easier turkey hauling. “I thought I was asking a few friends for help, but everything got crazier than I planned.”
+
+“I’m here to add to it,” said the Principal, passing him an accordion folder. “But at least it’s not food. Let’s try and keep the next few holidays on the calendar simpler.”
+
+“I will.”
+
+“By the way, about twenty students are outside trying to attach a plant creation to Hn’tyon Esh-erdi’s flying device.”
+
+“I know. They’ve only got two minutes left, then I’m leaving no matter what stage of the operation they’re at.”
+
+“Don’t drop it on anyone.”
+
+Alden was just glad the Cornucopia of Earthly Vegetation was slightly smaller than a golf cart. It was kind of amazing for a blinged out salad horn, but he’d been afraid it was going to be bigger than the Grant Park Christmas tree by the time Jupiter and all the others who’d gotten involved were finished.
+
+Just before he boarded the nonagon, an older girl he didn’t know grabbed him by the shoulders and said, “Say bloom,” in an accent he couldn’t place.
+
+“Bloom?”
+
+“No. In Artonan.”
+
+He opened his mouth.
+
+“Not now! When you get there!”
+
+Which bloom? He knew three words for it. He guessed he’d go through them all.
+
+Standing in the garden, he smiled for a hasty photo with everyone in the vicinity who’d contributed. He saw Colibrí, the uni instructor from his interview committee, coming down the pathway toward the group. But then Principal Saleh was talking to her. And the picture was taken, and he was up in the air.
+
+He waved goodbye to Haoyu. He waved hello awkwardly to the drones filming him. He flew at low altitude through Apex so that the cornucopia wouldn’t kill anyone if the tarp and tape they’d used to pin it down failed. And he waved some more any time he spotted someone on the street or in a window waving at him.
+
+This is surreal. I want a nap.
+
+He carried the turkey in his lap and almost cheered when he left the coast behind, shoved his driving hand forward, and zipped toward Matadero.
+
+The approaching sunset tinted the sky.
+
+“System, call Kabir!” he said, lifting his voice over the wind. “Kabir, I coming. I got the turkey!”
+
+“I see you coming!” Kabir shouted back. He had a frenzied look on his face and a butcher knife in his hand. He was using it to hack his way into one of the coolers Haoyu’s dad had wrapped. “I’ve been checking our hashtag to monitor your progress.”
+
+“I hate the fact that we have a hashtag and people can do that! But I’ll be there soon!”
+
+“It’s almost time!” said Kabir.
+
+“I know!”
+
+“We can do it!”
+
+“If not, at least it will be over!”
+
+He could tell they understood each other perfectly.
+
+******
+
+“Blossom,” said Alden in Artonan. “Flower. Bloom.”
+
+Hundreds of tiny purple buds spread their petals. Kabir’s hand slapped against his in a high five before they both rushed for the elevator again.
+
+One cornucopia left in the lobby of the residential area, covered in rainbow vegetable carvings and garlands, and sparkling thanks to someone’s spell impression. It was stuffed to bursting with Earth fruits they’d taken from the crates the Artonans already had lying around.
+
+“I’ll light the candles,” said Alden as they reached the cafeteria again. His turkey bag was still preserved.
+
+“I’ll put out the cards,” Kabir replied.
+
+The Wrightwork candles someone had sent earlier were spaced around the edge of the room at regular intervals. Kabir had been working hard while he was gone.
+
+Autumn Evening Picnic Set. Alden crouched to hold his hands over the wick on top of the first chunky black candle. Let’s see what you look like.
+
+And let’s not flub the casting, he thought wryly. Kabir’s not paying much attention, and I can always blame the candle itself, but still.
+
+His fingers moved. He pretended he was lighting a promise stick.
+
+The command his authority gave for this was so familiar, and it seemed to grow easier every time. He wondered if it was him, getting stronger and more used to making this particular demand. Or if it was everything else, growing accustomed to listening to him and answering him.
+
+A flicker.
+
+One enchanted candle dimming the corner it sat in instead of brightening it, casting the shadows of trees against the ceiling and walls.
+
+Alden watched a ghostly leaf fall from a branch.
+
+“Good candles,” he said.
+
+“Keep going!” Kabir called. He had the accordion file Principal Saleh had given Alden, and he was spreading the cards it contained around the cafeteria tables. They were from the preschool children who attended Celena North’s daycare while their parents worked or attended classes. The handprint turkeys and indecipherable drawings joined the few, more-legible notes sent by adults.
+
+Alden went to light the other candles.
+
+The work didn’t really end. They just ran out of time.
+
+A couple of minutes before nine o’clock, Kabir spied the first large group of wizards teleporting in thanks to a viewing spell he’d set up downstairs.
+
+“They’re here!” he bellowed. He’d gotten louder and louder as they approached the finish line. Alden didn’t know if the chef was trying to pump them both up, or if it was a side effect of the champagne that Aulia Velra had somehow managed to have delivered by helicopter while he was away.
+
+Standing in the kitchen, Alden looked down at the floor. There were still a few mystery boxes that had come through the TC to open, still a few final touches to make things perfect.
+
+Kabir ran by with yet another chafing dish. The wizards could easily heat their own plates of food with a spell, but they were trying for proper temperatures anyway.
+
+We’re done?
+
+He studied all of the containers. None of them seemed to be from individuals. Lots of packaging from businesses.
+
+Yeah, we’re done. This can all go into the freezer later.
+
+Showtime.
+
+[Porti-loth,] he texted. [Second meal is ready. It’s special.]
+
+[Hn’tyon Esh-erdi…]
+
+[Hn’tyon Lind-otta…]
+
+[Drusi-otta…]
+
+[Zeridee, we’re having a Thanksgiving supper. You should come get a plate, and we’ll save it for when you’re allowed to eat Earth food again.]
+
+He freed the turkey from its bag carefully. Re-preserved it.
+
+Then he went to stand behind the long buffet Kabir had made by shoving tables together. Dead center, facing the elevator. For the first time, he had the chance to see it all arrayed in front of him. The tables had white cloths. The candles were doing a lot of heavy lifting on the atmosphere front.
+
+It looked really overambitious all of a sudden. Wrong. Like if he were throwing an amazing party for the species that was obsessed with parties, he should have gone bigger. And since he wasn’t doing that, he should have gone smaller, with his original vision. Just the food and the gratitude.
+
+What if they think it’s lame? What if they’re tired and annoyed by it all?
+
+His mouth dried up.
+
+Then his eyes landed on the creamed spinach from Mrs. Long. He’d already set aside the letter she’d written to the two knights, so that it wouldn’t get lost. And there were the stuffed peppers from Haoyu’s mom. Bobby’s salad. A mound of cheese muffins from someone who was living in one of the temporary housing domes on campus.
+
+A ton of food had been relegated to the fridges and freezers. They’d put out the dishes from the people they knew and the ones that fit in with the potluck spirit.
+
+Everyone meant well and donated. They’re all going to ask me how it went. What if it goes wrong?
+
+One new terror crossing his mind at the worst possible moment: “Am I supposed to say something to everyone before the meal?”
+
+Kabir had just dashed by with a piping bag full of whipped cream. “What?”
+
+“Like a speech? I don’t have to give a speech, do I?”
+
+Kabir stared at him. “Well, I’m not giving a speech.”
+
+“Does there have to be a speech? I can’t just drop the turkey and run away. Can I?”
+
+“Of course not.”
+
+“But what do I say? Me standing here in the center holding the turkey makes me look responsible for all of this. Like I’m in charge.”
+
+“You are responsible for all of this…don’t look at me like I just hurt you by saying that! It’s the truth!”
+
+The elevator arrived. The door that led to one of the cube’s staircases opened at the same time.
+
+As the first bunch of chattering wizards walked in, Alden froze like he’d been hit with a spell. They were looking around with curious expressions.
+
+“This is the Thanksgiving?” he heard one of them say.
+
+“Shadow trees.”
+
+“Hello, Kabir!”
+
+“The Thanksgiving!” someone else chirped. “I was told the goal of the event is to eat one of everything.”
+
+“Look! Drawings made by human children.”
+
+The preschool artwork was apparently worthy of everyone’s attention. They were still exclaiming over it when the doors opened again.
+
+Alden felt his tension ratchet up to new heights as more wizards poured through, and then he spotted Lind-otta, Esh-erdi, and Porti-loth. And he suddenly relaxed.
+
+Lind-otta was watching her partner fondly while he bickered with Porti-loth about healing groves. Esh-erdi was wearing the same outfit he’d had on when he and Alden had had their talk after his rescue.
+
+Boe’s back. I’m out of my squishboot. I got to visit with Stuart.
+
+I learned a hundred things while I was with him at the Rapport, and I’m going to see him again soon. And visit a mind healer. I’m weaving a friendship. I have a magic earring now. And…choices to make.
+
+So much life lived in just a few days.
+
+So much life he’d almost missed out on.
+
+Esh-erdi spotted him and started toward him with a smile. Lind-otta was with him.
+
+“Hello, Alden,” she said. “I’m glad to finally greet you.”
+
+Her brown hair hung below her waist in triple braids, and her wide-set eyes were a pale caramel color.
+
+“Is this the Thanksgiving?” Esh-erdi asked. He was studying the platter in Alden’s hands.
+
+“It is,” said Alden, looking between the two of them.
+
+No need for some dramatic speech. That’s not the right thing.
+
+“This is from my friend Natalie. A lot of people wanted to share what they could even though I didn’t give them much time to prepare. They wanted to say thank you. So did I.”
+
+He let his skill end so that hers could take over.
+
+One turkey.
+
+A smell that called to mind warmth, laughter, family, and friends was unleashed into the room. Lind-otta smiled. Esh-erdi clasped his hands together in front of his chest, looking delighted.
+
+Alden watched as heads rose from their perusal of cards and their studies of candles and turned toward the feast table.
+
+“Thank you.” He said it loudly enough for his voice to be heard by everyone who had arrived in the cafeteria so far, but his eyes paused on Porti-loth and then stayed on the knights. “Thank you so much for coming when we needed you. We all hope you enjoy the meal.”
+
+******
+
+******

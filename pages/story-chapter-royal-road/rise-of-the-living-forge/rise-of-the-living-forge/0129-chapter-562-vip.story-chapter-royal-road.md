@@ -1,0 +1,147 @@
+---
+id: b0fe5cf2-4df7-502a-9932-cc494cdf4d29
+page-type-slug: story-chapter-royal-road
+title: "Chapter 562: VIP"
+slug: 0129-chapter-562-vip
+partOf: rise-of-the-living-forge
+position: 129
+ownLength: 1671
+unit: words
+ownProgress: 1671
+publishedAt: 2026-02-19
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3071346/chapter-562-vip"
+royalRoadId: "3071346"
+markedReadAt: "2026-06-29T20:02:34.191Z"
+---
+
+Art’s cane clicked against the rooftop as he limped over to its edge where Rodrick sat. The other man had his legs crossed and palms braced against his knees. An expression of intense concentration creased his features even though his eyes were closed as if in sleep.
+
+With a grunt, Art lowered himself down to sit beside Rodrick. He set his cane to the side and let his legs dangle over the edge of the rooftop. The alley below was completely empty. There wasn’t even so much as a rat waiting in it.
+
+“Everything going roughly as we expected?”
+
+“Roughly,” Rodrick said. His features didn’t even twitch at Art’s arrival. “At least, they are outside of the Mausoleum. I don’t know what’s going on in there. But that’s probably the only spot in the entire city that I’m not concerned about.”
+
+“You can say that again,” Art agreed. “Between Lillia, the Mausoleum itself, and everyone else in there, anyone who tries to cause trouble is going to get flattened before they finish getting out of their seat. But things have been a lot quieter outside than I expected.”
+
+“Quiet?” Rodrick asked. “Three different groups have already tried to make a move or are getting ready to do so.”
+
+“Really?” Art blinked. “That many? I only picked up on one, but they were complete idiots. Only imbeciles discuss their plans in shouting distance of the people they’re about to rob. What were the other two?”
+
+“One hasn’t moved yet. She’s lurking at the edge of the street, still off our domain. But she’s acting so suspicious that I think it’s just a matter of time before she acts. Actually, there are a lot more than three groups that are suspicious. But I’m not certain on the others yet.”
+
+“What about the third group?”
+
+Rodrick let out an amused snort. “Bunch of insufferable bastards who thought they could get clever with some dangerous magical armor. It was rigged to explode the moment they died, fell unconscious, or were otherwise incapacitated.”
+
+“Explode?” Art raised an eyebrow. “They were going to kill themselves?”
+
+“I suppose they thought it would make sure everyone knew they were serious.” Rodrick shrugged one shoulder, though his expression didn’t change in the slightest. His eyes remained closed. “It might have worked if they’d surrounded somebody. The armor was stuffed full of enough magic to be quite volatile.”
+
+“How’d you deal with that?”
+
+The corners of Rodrick’s lips twitched. “Uriel launched them out of the city. I’d imagine they died upon impact with the ground. Blew up a few trees in the process. They really should have built an active release into their armor. Then again, that would have been quite an intensive process, and these idiots probably didn’t have the backing for a piece that powerful. It’s a lot easier to make an unstable bomb tied to someone’s consciousness than it is to make one that detonates on command.”
+
+“An unfortunate oversight,” Art said. “That’s not too bad, then. Not entirely to plan, though.”
+
+“No. Not quite,” Rodrick agreed. He pursed his lips. “I thought someone would try something a bit more overt. We haven’t been able to make an example of somebody. Not properly, at least.”
+
+“Don’t worry. I’d imagine we’re going to get our chance soon enough.” Art looked over to the Mausoleum. “The end of the first round was the bait. All the excitement should have kicked anyone waiting into action.”
+
+“I’d agree.” Rodrick nodded. “I expect the next break to be where everything gets serious. The smarter criminals would have waited to see what happened to anyone over-eager before trying their own luck. They also aren’t going to want to try to screw with the strongest people in the VIP sections… so they should have deduced that the best and easiest targets will be after this round.”
+
+Art nodded. “Yeah. But everything’s already laid for them, right?”
+
+“Of course it is,” Rodrick replied. He paused for a few moments. “Hm. The woman is moving.”
+
+“Oh?” Art asked. “This early? The second round isn’t done yet.”
+
+“It’s early,” Rodrick agreed. “But she’s climbing a wall. Looks like she wants a vantage point from a rooftop.”
+
+Art grabbed his cane. “Near us?”
+
+“No. Edge of the — ah.”
+
+“What?” Art asked. Irritation knit his features as a second passed without a response. “This ability is so annoying. I want to know what’s happening.”
+
+“Sorry,” Rodrick said. “I had one of my people get Vanessa’s attention. She was in the area. She’s interfered.”
+
+Art paused. “Interfered?”
+
+Rodrick waved his hand. “Relax. Vanessa just pulled her down from the wall. They weren’t on the street yet, so technically speaking, we want to avoid getting to violent. They’re having a chat. I’m not too concerned.”
+
+“This other lady isn’t too strong, then?”
+
+“Unlikely. I think she’s just an opportunist looking for someone relatively weak to mug after they leave Milten,” Rodrick said. “Don’t worry. This isn’t worth any more of our attention. Vanessa is definitely stronger than this other woman is. I doubt they’ll start a fight. But even if they do — oh.”
+
+“What?” Art asked. “What happened?”
+
+Rodrick was silent for a moment.
+
+Then he sighed.
+
+“Let’s go ahead and assume Vanessa is going to be out of commission for the short term future,” Rodrick said, pinching the bridge of his nose.
+
+“What? She got hurt?”
+
+Rodrick turned to look straight at Art. Even though his eyes were still shut, the look on his face said everything that needed to be said.
+
+“No,” Rodrick said. “She did not. That’s all you’re going to want to know. Just assume she’s not going to be available anytime too soon. But who knows. Maybe they’ll wrap up before the next round is over.”
+
+“Huh? I… oh.” Art said. He cleared his throat. “Right. Vanessa.”
+
+“Right,” Rodrick agreed with a sigh. “Vanessa.”
+
+***
+
+Neil was twitching in his new cushy seat. He leaned forward to peer down at the crowd below, hands gripping the wooden armrests so tightly that they creaked. A huge plate piled high with dozens of pastries sat on a little table beside him.
+
+Even though he had absolutely no plans of spending any of his resources on the 2nd round of the auction, he still couldn’t completely contain himself. The Menagerie had somehow managed to stick to their promise.
+
+Every item they’d put up in the 2nd round continued to be better than the ones previous. The sheer number of Epic rarity things they’d gotten their hands on was ridiculous. And it wasn’t just weapons and armor. In addition to the items that other people had put up for auction, the Menagerie clearly had access to some expert potion crafter.
+
+They’d put up several rare potions that had gone for thousands upon thousands of gold, and something told Neil that there was still more to come. If these were the items going up so early into the 2nd round, he couldn’t even begin to imagine what the 3rd one had waiting.
+
+There’s no way they’re planning to sell something Legendary, are they? The Secret Eye would eat their hats if that happened. A guild capable of selling a Legendary item would have to be way higher ranked than what the Menagerie currently are.
+
+But at the rate we’re going… what else could they possibly have to offer when we get all the way to the final round?
+
+And then there was the question that had been burning at the back of his mind for the entire auction. The one that he was pretty sure just about every single person in the room below was waiting to hear the answer to.
+
+Why haven’t the people in the VIP section bid on a single item? What do they know that the rest of us don’t?
+
+“Excuse me,” a woman’s voice came from behind Neil, launching him straight out of his chair.
+
+He spun, his hands flying up and daggers materializing within his grip, only to find himself staring at a young woman holding a large tankard. It was the one who had shown him to his room just a few minutes ago… but the door was still locked behind her. It definitely hadn’t opened, and he knew for a fact he’d watched her leave.
+
+“How did you get in here?” Neil asked.
+
+“Relax,” she said, holding the tankard out. “I’m just bringing you your drink. Courtesy of our chef. Welcome to the VIP section.”
+
+Neil stared at it for a moment. Then he banished his daggers and slowly took the offered tankard. They’d snuck someone into the room right under his nose purely just to give him an ale. The Menagerie were showing off at this point.
+
+And, if he was honest, he didn’t mind it all too much.
+
+“Thank you,” Neil said.
+
+“It’s part of the experience,” the girl replied with a shrug. “Are you enjoying the VIP room so far? Any suggestions for improvements are appreciated. We did only just make it a few days ago, after all.”
+
+Neil laughed.
+
+The girl didn’t.
+
+He cleared his throat. “It’s…very nice. Thank you.”
+
+“Great,” she said, turning on her heel. “Enjoy!”
+
+“Hold on,” Neil said.
+
+The girl paused and glanced back at him. “Yes?”
+
+“I was wondering something,” Neil said. “Why hasn’t anyone from any of the VIP sections bid on anything yet? Is there some kind of debrief about the items in the auction that I can get a look at because I’m a VIP now?”
+
+“Oh, right,” she said. “Forgot about that bit. It’s not really a debrief as much as a disclaimer. I think the other people in the VIP sections aren’t bidding because they don’t have any gold left.”
+
+Neil stared at her. “What?”
+
+“They’ve already spent all of it. All they’re willing to spend on the auction, at least,” the girl said, scratching the side of her neck. “At this point, at least as far as I know, everyone in the VIP sections is completely broke.”

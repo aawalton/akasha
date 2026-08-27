@@ -1,0 +1,387 @@
+---
+id: 86fa21b0-4fe7-5fe5-8fbf-d7005e321efc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 223: The Ascenders"
+slug: 0148-chapter-223-the-ascenders
+partOf: the-calamitous-bob-stubbed
+position: 148
+ownLength: 5202
+unit: words
+ownProgress: 5202
+publishedAt: 2025-10-03
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2648783/chapter-223-the-ascenders"
+royalRoadId: "2648783"
+markedReadAt: "2026-06-29T21:19:41.582Z"
+---
+
+Celerin crossed the portal into the heart of the camp, his mind keeping the construct open behind him so the others could follow. He would have to close a few of the more distant ones. The burden was starting to tax him.
+
+Rows of royal guards from half a dozen different houses formed a mighty path to the largest tent, like so many statues ensconced in heavy armor. They may as well be  elaborate statues for how useful they were, for Nero could not be killed. It was a show, one for the numberless horde around them. Celerin walked, the Hopecrusher catching up before overtaking him. He had to always be first, at the front, first to speak too. Celerin let his lingering anger pass through him. He only had to tolerate them until the unification was complete. Retirement couldn’t come too soon.
+
+The tent was massive, perhaps as large as a small castle. An army of attendants moved as well as a few of Nero’s concubines and advisors — the line sometimes got blurry. One of the newer vanguards lifted a flap so he could pass. Celerin nodded. He was pretty sure the vanguard’s name was Seol. Or maybe that was his brother. He would have to ask later.
+
+Nero was here, standing above a large map while returning a list of forms to an attendant.
+
+A long time ago, the view would have stirred something in Celerin’s chest, but decades of change had killed that flame. Celerin could love a man. He couldn’t love a legend, especially one who never put down his mask. Even as Nero was at his most majestic. With hair of dull gold and deep gray eyes, Oleander possessed features of exotic origins that only heightened his beauty. A chiseled physique, an impeccable posture, grace and control in every movement, Nero was the perfect hero stepping already formed out of a story book. Even the white armor and cloak, painted black and red at the bottom, were so perfect as to have been forged by a god. Of course, Celerin remembered him as that courageous man standing against impossible odds and carrying wounded friends on his back, his face sorry and his eyes feverish. That was a long time ago, however. Of that man, there was nothing left. That is why Celerin neither bowed nor smiled.
+
+A shadow of annoyance darkened Nero’s august brow and the reaction pleased Celerin on a visceral, petty level. He politely bid them in. Even at this distance, the radiance of his leadership shone like a small sun. His voice wasn’t booming but it was still, and would always be, crystal clear.
+
+“You have returned. Is it done?”
+
+The Hopecrusher opened his mouth to bullshit something since the man was apparently physically incapable of admitting a failure. Celerin’s time was precious since only his efforts kept the gigantic army fed, so he cut to the chase.
+
+“No. But you should already know why. I can feel it in your aura.”
+
+They had talked about it. About the last condition required so Nero could path up. It had been a long time ago, back when Nero still allowed people inside of his defenses.
+
+“I am ready to ascend,” Nero confirmed.
+
+A few people gasped. Someone ascending to the sixth step happened once in every generation at most, back in the Shadowlands, and those were usually elders at the apex of their power. Here though, it was just one more improbable achievement to lay at the feet of an impossible man.
+
+“Then you know. We met your rival.”
+
+Nero made a sign. The gaggle of attendants left in less than five seconds. They knew better than to linger. Nero was polite but he was also demanding.
+
+“Explain.”
+
+The Hopecrusher stood forward so Celerin braced himself for some more grandstanding bullshit. He wished Nero would just cut to the fucking chase and ask him instead but it seemed like this would be a longer conversation.
+
+“As we descended upon the Sandsong, she appeared, hidden treacherously inside of their abandoned city.”
+
+Celerin rolled his eyes. Treacherously? Really? He listened to the Hopecrusher exaggerating the battle as a one sided slaughter, and how he and Celerin had pushed the caster back, almost vanquishing her.
+
+“Horse shit,” he interrupted.
+
+Celerin felt the Hopecrusher tense. He wasn’t worried.
+
+Nero’s eyes traveled down to him. Celerin didn’t look away. The fact his former friend even applied pressure would have been appalling to him only a few years back, but too many summary executions and other atrocities had lowered Celerin’s hopes and expectations all the way down. Too many complaints had cut Nero’s trust in his previous friend. Now the gap between them would never be bridged. Celerin only wanted out.
+
+“Celerin. Describe her.”
+
+“Remember the continental analysis sent by Erezak’s spies? Such as they are?”
+
+“I do.”
+
+“Remember his complaints about a black witch with an uncanny ability to make trouble?”
+
+Nero nodded. Then he made a note on a paper at his side.
+
+“You don’t seem surprised,” Celerin hazarded.
+
+“I am not. She was the most likely culprit with King Sangor and the Sandsong royals. What else can you tell me?”
+
+“She is half elemental of the black, fourth step of her path which uses witch casting, by the way. Oh, and her list of titles rivals yours.”
+
+Nero paused. The Hopecrusher shivered, perhaps remembering something unpleasant.
+
+“When my tall friend here said we fought her, that is a lie. We didn’t fight her. We delayed her as much as we could while attacking Sandsong troops to keep her on the backfoot. It didn’t work well, by the way. We failed to kill the royal couple.”
+
+“You have portals. Explain.”
+
+“She has portals too.”
+
+Nero blinked, this time clearly surprised.
+
+“She also picked that path?”
+
+“Oh no no no. Her portals are spells. Colorless spells. Not a skill.”
+
+“She can open portals as spells? In battle?”
+
+“Yes. So she was able to follow us at all times, at first. Not just that, but she feels them open and reacts immediately. Eventually, we tried to create some distance and then I locked space around us which let us learn that she can also teleport using shadows. Oh, and she killed Belem, Kras, Ilda, and I assume Kelt as well since he never returned from the fortress.”
+
+“What?”
+
+Oleander paused again. His brow furrowed. It made him look strangely human again.
+
+“Two fifth steps and a squad of fourth steps and you struggled?”
+
+“You’re not listening. We were not struggling. We were stalling. It wasn’t a contest. At some point she formed a black sun around herself and then she collapsed it on top of us with her still in it. The sun exploded and killed everyone in a fifty paces radius. She’s not afraid of close quarter combat, she’s very mobile, and at no point were we even close to denting the outer layers of her defenses. I tried to attack via portal in her blind spot. She portal parried my portal parries. Oh, and she has spells to bypass portal blocks, some sort of noxious cloud she can more or less direct.”
+
+“Stop praising her,” the Hopecrusher spat.
+
+“I’m not praising, I’m warning. I will list all of the capabilities we saw and then when Nero faces her, he will be forewarned,” Celerin patiently explained, even though he knew very well it was a waste of time.
+
+The Hopecrusher’s mindset was one of hierarchy and power. He would never allow reality to contradict his belief, and everyone pointing that out was punished unless they were Crest.
+
+“Three more things. One, her black spells were aggressive enough that they were eating at my portals which I had to permanently reinforce so take this into consideration. Two, she killed all of the vanguard in one spell each.”
+
+Most vanguard had some measure of defense against spells. Blademasters could simply cut at them with mana-charged attacks. Celerin knew some of them had tried. It had been of no use.
+
+“Three, here is what I found about her spell repertoire.”
+
+He listed all he remembered: the black cloud he had mentioned, the black laser that followed people with unerring precision, the portals, the colorless spikes, the shield that exploded outward, the quiet spheres that exploded, taking a ball of matter with them as they did, the strategic spell that turned the sky into a vessel of death, the void blades. He made sure to mention the void blades with additional emphasis because he was pretty sure they could actually kill Oleander.
+
+When Celerin was finished, Nero turned to the Hopecrusher. The man didn’t meet his gaze.
+
+“So let me summarize, you took two fifth steps and a squad of fourth steps to engage  the girl and you lost so badly, you were forced to avoid her and, eventually, retreat, losing four of the vanguard in the process?”
+
+The Hopecrusher didn’t reply, but Celerin did because he was pissed off after trying to warn his former friend, was fed up with his intimidation games, and lastly because a part of him wanted to provoke Nero. See what he would do. Even if it were to be painful. Oleander needed Crest to keep his army from starving. It was a function no one else could replace. No one on their side anyway.
+
+“Yes. Why?”
+
+Animosity flared between them. Gods, but Celerin was ready to be done with it. He just had to see it to the end and then find some small island or something.
+
+“I see…”
+
+Nero didn’t try to discipline him. Perhaps being in private had nudged the stone in the direction of peace. He took that fake, benevolent face he did when someone failed but was still useful. He would go all fatherly while his gaze conveyed a deep, tired condescension.
+
+“You have done well coming back considering the opposition. After all, she is the other Ascender. It is my destiny to defeat her in battle. Which means that we’re going after her. Now.”
+
+Decisive as ever.
+
+“Will you not path up?” the Hopecrusher asked with some surprise.
+
+“No. The interface warned me that the class up would leave me unconscious for a while, but not for how long. I cannot take the risk of her taking a ship across the ocean, not if we can end this war before it even begins. Celerin, you’re with me. We will take the cavalry as well.”
+
+“The Sandsong were retreating the last time we checked.”
+
+Nero quickly assessed the situation. When he was focused on battle, he almost looked like his old self. None of the immortal king horseshit, just a confident man with a plan.
+
+“Hopecrusher.”
+
+“Milord?” the servile fucker asked.
+
+“Give me back my shield. We will all travel back to the pass with the light cavalry and a supply train. You will make sure the army crosses while Celerin and I fly after that witch.”
+
+“Yes, milord.”
+
+Celerin ignored the Hopecrusher’s glare burning a hole between his shoulder blades. The idiot thought they were fighting for Nero’s favor. He didn’t get it. He never would.
+
+“Let’s go.”
+
+***
+
+The Sandsong army’s retreat would have been a disaster of a rout were it not for Sidjin’s foresight. He’d commandeered the capital’s carts to bring supplies and the One Hundred up north. Now, those same carts would be used to carry the many, many wounded across the dunes, down a dusty path to a portal he’d set up in advance. It was very cold now, and those who could still move did their best to keep the wounded alive under an uncaring moon.
+
+“They made fun of us, you know? The Sandsong. They think a warrior should never sit at the back of a cart,” Sidjin told her as they hovered near the column.
+
+“Right. Well at least we can save more soldiers. Although… How much room do we have on the ships?”
+
+“I suspected you might collect more minions,” Sidjin said. “So I’d say we can take… maybe three hundred people on our five ships. And it will be crowded.”
+
+“Damn that’s… not a lot.”
+
+She kept quiet for a while. It had been a long time since she’d felt this helpless to change the outcome of a war, but then, as always, her mind worked towards solutions.
+
+“I need a way to shut down Crest. He managed to prevent space from folding around himself. I don’t think we can do it as quickly as he can, but I was thinking we could use a field effect based on space, inertia, and viscous runes.”
+
+“You… want to turn space into thick honey?”
+
+Viv shrugged. It was a pretty good analogy.
+
+“Sure. Or marsh mud.”
+
+“I think he relies on coordinates more than on brute strength,” Sidjin replied with a half smile that said ‘unlike you’. “I suggest using ‘tremor’ and ‘chaos’ instead.”
+
+“It’s going to make the field very unpleasant.”
+
+“You can probably tune down the spell intensity if you use those runes.”
+
+“Brilliant. I knew I was keeping you around for something.”
+
+Sidjin pretended to bow. As she created a construct in her mind, Viv’s gaze traveled towards the small detachment of blue roses.
+
+“Did you have to take horses? Wasn’t it inconvenient?”
+
+Sidjin frowned.
+
+“Well they eat a lot but otherwise no. Why?”
+
+“I’d assume they would hate being cooped up.”
+
+Sidjin shrugged.
+
+“They have the horses move on the deck twice per day. I don’t think there is much issue?”
+
+Viv shook her head. Maybe it was a skill to calm the animals down but she imagined horses wouldn’t like sailing very much. Yet another weird thing to add to the collection.
+
+Interestingly, the Sandsong were moving faster and keeping their head high around the One Hundred, who stoically kept to their impeccable formation. Harrakan heavy helmets covered the face except for the eyes so the black mass of elite warriors exuded a calm sense of superiority that grated their guests. Even on the backfoot, the Sandsong still had their pride.
+
+Viv sighed. She was distracting herself from what was urgent.
+
+“Even if we add Sandsong ships to an ad hoc fleet, there is no way we can evacuate even a fraction of their army, not to mention their citizens. I need to talk to the royal couple.”
+
+“I will keep an eye out.”
+
+As she flew, Viv couldn’t help but check her options for pathing up. Even if she wasn’t going to pick one yet, she could still give it some thought.
+
+Obliteron:
+
+Annihilation, incarnate.
+
+Your understanding of annihilation is pushed to its limits. Your spells reach unparalleled levels of destructiveness. Your ability to cast rituals is vastly improved. Your [Aspect of the Destroyer] becomes static again. Last aspect and max social skills unlocked.
+
+That seemed neat enough, although she wasn’t sure how much more destructive she was supposed to become. There was always a path up option that offered to funnel her into a weapon of mass destruction kind of path. There was a truth that she could solve a lot of her problems by destroying them at the atomic level, but what had stopped her the previous times still applied: she was already destructive enough. Her issue was and had always been versatility. The Obliteron class lacked defenses, something reinforced by the static nature of her offensive aspect. Nevertheless, it was an incredibly potent path and she knew she could make it work.
+
+A whisper of memory touched her mind. The Azure Lady and others had warned her about being caught in a path, becoming a slave to one’s own nature. She wasn’t that comfortable about being focused on annihilating things.
+
+The next path up was almost the opposite.
+
+Heart of Harrak.
+
+Harrak Eternal.
+
+Your leadership skills transcend to proto-divine versions. Every time you don the [Aspect of the Paragon], your followers all gain a portion of your power. [Aspect of the Paragon] gains minor benefits from other aspects. Last aspect and max social skills unlocked.
+
+Viv remembered Sardanal’s cradle and the time Neriad’s essence had infused hers. He had turned a bunch of exhausted templars and militiamen into the deadliest force she’d ever seen or faced… but he was a god. She was not. This was a lesser version of his blessing. She could already see two problems with this path. One, it meant she had to rely on [Aspect of the Paragon] in battle, again reducing her flexibility. It also meant that she wouldn’t get to use the mysterious last aspect she hadn’t unlocked yet. Two, her troops didn’t need to be stronger. They were already plenty strong. What she needed was to keep high elites off their backs like she’d tried to do with the Sandsong in the pass. In a way, her approach was the one Celerin had favored. It didn’t feel like a good option for her, and so she dismissed it. The next one was definitely more interesting.
+
+Cataclyst
+
+No one can stop change.
+
+You claim the Spark of Luck and make it yours, gaining an instinctive ability to alter the flow of fates. [Spark of Luck] becomes [Will of the Black Witch]. You will sense the blade aimed at your heart or the offensive that will break your lines. When things flow your way, they flow quickly. If defeat is imminent, you can pull a miracle from thin air. Last aspect and max social skills unlocked.
+
+After understanding the third of her options, Viv was getting a sense of how things worked. All these paths were unique. Unique paths were almost always above all others in their specific niches, so she must’ve been favored having all these options. Slaying dragons and resurrecting empires was paying off. All these path-ups would make her even more powerful, magic wise, but they all focused on one of her strengths. Obliteron played on her reliance on the annihilation meaning. Heart of Harrak would work on intimidation and leadership. Cataclyst would be more about soul sense, or rather, her ability to understand how fate brought interesting things to her doorstep. Cataclyst felt like a good option because fate magic was utter bullshit, and also denied to humans in general. Who needed to work hard when they could luck out instead. As she checked the next option, her suspicions were confirmed.
+
+Celestial.
+
+Space magic, and space in general, are open to you. You can now open massive portals with far greater ease, very quickly, and keep them open at a distance. You may fly at will. The potency of your colorless spells is vastly increased. Last aspect and max social skills unlocked.
+
+Ok, this was… very strong. Very strong indeed. Flight was less of a boon than it might have been ten years ago because she'd practiced hard to make up for a lack of it, but that would still be strong. The possibility of long range portals was also… if the range was forty kilometers, she could just fly up and open one in the upper atmosphere. Or even higher. She could open a portal at the bottom of the abyss and create water flows so strong they could cut rock. The possibilities were endless…
+
+Viv shook her head. Celestial and Catalyst were her favorites, with Obliteron still a consideration. She rapidly went over the other choices as she descended near the Sandsong royal guards. Some were good but none were close to the unique classes she had. She noticed ‘Empress of Harrak’ was an option. It was telling how strong she’d become that ‘sovereign of an empire’ wasn’t even up for consideration.
+
+The interface still offered her the opportunity to become a potter.
+
+Viv didn’t think Nous would even let her pick it.
+
+***
+
+Viv didn’t find the ruling couple of Sandsong at the head of the convoy with their young child and the support staff. Bes was here, Viv knew, alongside Sin and Mar. Instead, they did what leaders were supposed to do. King Jei talked to warriors to improve their spirits while Queen Naila used her considerable powers to help with healing and even warming the wounded, as the night was very cold. She was relieved to see that they had recovered from their recent despair. Or rather, they had learned to hide it, she assumed. They finished what they were doing before meeting Viv. She was sorry to inform them about the ship situation. They accepted her words with a resignation that mauled her heart. It wasn’t exactly her fault, but she had come, given them hope, and then Oleander had smashed it all to pieces.
+
+“What will happen to the rest?” Jei asked, hand brushing his beard.
+
+Despite the tensions, he had taken a minute to oil it so he could retain his regal appearance. Viv approved. It was important.
+
+“The Hopecrusher claimed those who kneeled would be spared. I believe him. Oleander does not wish to rule over a graveyard. Maranor’s philosophy implies a strict hierarchy, but so long as people respect it, they are spared. The only risk is that he would press the soldiers into his army. I am assuming it wouldn’t be the first time.”
+
+“An oath cannot be forced,” Queen Naila said, but then she shivered and wouldn’t meet Viv’s eyes.
+
+“Ah, I am deluding myself. I felt the imminence of his coming when the Hopecrusher left. Those who behold him will think him the next step to a god.”
+
+And they might very well be right, Viv thought.
+
+“We will make an announcement in the capital. I suspect many nobles will want to join us. What do you know of our history?” Naila asked.
+
+“Your uncle told me your family seized power a generation ago.”
+
+“Then he has left out what mattered. We were ruled by a tyrant. We fought that tyrant, and won, because the people rose with us. And now after the death of my esteemed father, I am about to surrender them to another one. I… I… I have failed…”
+
+Her voice broke down. Her husband placed a hand at her side, drawing her in. The nearest soldiers pretended not to see.
+
+“It’s not over,” Viv said. “We lose now. We run, but it’s not over. There is Param. I suspect some of them will follow him when he arrives, but not all. Come with me and give your people a future. It might take a year, or ten, but I will defeat him, and then you will return.”
+
+“His will is strong.”
+
+“Yeah. I have guns.”
+
+“What?”
+
+“Nothing. Just remember, the victor is the one who deals the last blow. My previous country was defeated and conquered before, but we always got free in the end.”
+
+Viv harbored no illusion that her words would soothe them. They just had their entire world taken from them. All their dreams, all their hopes, the weight of the previous generation’s sacrifice. She remembered fleeing from Kazar after Varska had unceremoniously poisoned her. All that rage. And she’d only been in town for a couple of months. She hadn’t even felt like it had been her city.
+
+“We will make plans. Lists of people who should leave. Some will refuse. Others will fight, even if it means death. They will say we dishonor our fathers.”
+
+“They have not met Oleander,” she told them.
+
+“We know. They will be lost all the same,” Naila said. “Is it true that your paramour will open a path to the city?”
+
+“Yes. It should help us escape pursuit. The Sheem may not know the desert as well as you do, but they know how to follow an army,” Viv said with confidence.
+
+“Then we will dress that list there. We will talk to the rear guard first. They have tools to help us escape.”
+
+“Do not fight,” Viv said. “If you see someone, come to me. I will help.”
+
+“Of course,” Naila said.
+
+***
+
+Viv moved back towards her own troops. The One Hundred were on foot now, and though the knights still rode their horses, half of them walked by the side of their mounts instead. The mood was serious. They also smelled of sweat.
+
+Order Master Rollo saluted smartly as she approached with a fist over his heart.
+
+“Your Imperial Majesty.”
+
+“How are things, Rollo? We might see some more action soon.”
+
+He looked around in a way she recognized. Viv instantly cast a privacy veil.
+
+“You can speak freely,” she told him.
+
+“It would be good if we didn’t fight here. Four of our chargers were hurt stepping on some sharp rocks during the short engagement. We have skills to look after our mounts, of course, and we have healed them… but heavy knights do not perform well on sand and gravel. Your majesty, I can only stress the truth of your paramour’s warnings: we must leave. We cannot win here.”
+
+“And we will. Alright, so charges should be avoided. What about the One Hundred?”
+
+Rollow gestured. Viv approached Ban junior who saluted just as well. She walked by their side.
+
+“How is everyone?”
+
+“We are ready for more, Your Majesty.”
+
+“Does the sand affect your movement?”
+
+“It is not much different from the Deadlands. Perhaps rockier. We are still fresh thanks to the carts.”
+
+His eyes narrowed. He gave the Sandsong walking nearby a contemptuous glare.
+
+“We will outlast them, Your Majesty. You can count on us.”
+
+“Hmmm.”
+
+She left them to their glaring contest. Viv wouldn’t be able to hold anything with just a hundred and fifty men anyway. It wouldn’t matter though. Words carried across the line. The Sandsong had found an anomaly on the road.
+
+Sidjin hurried on with the rest of the Harrakan. Viv hovered nearby.
+
+“I’ll open and maintain the portal. Keep an eye out while I evacuate everyone.”
+
+“Alright.”
+
+Something exploded behind them. Panic spread across the line of wounded soldiers. Viv and Sidjin’s eyes met.
+
+“I’ll go. Get us out of here,” Viv ordered, and Sidjin sprinted away. Viv flew back, feeling the distant mana bursts that signaled a heavy battle was being fought. She raced over the path, crossing retreating soldiers. The sounds of approaching riders made her wince but she kept going. It wasn’t enemy riders she was worried about. Sandsong singers were flying around. As she watched, a portal opened near one of them, and he died. The rear guard was a scene of carnage. Royal guards and soldiers lay dying on the ground, cut down by something extremely sharp, and in the middle of that circle of destruction were two men standing near the corpse of King Jei. He was very dead, though his face was against the ground, fist still grasping his blade. No one could survive with that little chest left. A crying Naila turned, spotting Viv as she approached. She had already given up. Her eyes were pleading.
+
+“Save our —”
+
+The taller man cut her in half with no effort. Only his arm moved, but the power of the blow sent the queen’s upper body tumbling at a distance. The rest fell slowly, and quietly. Viv’s and the swordsman’s eyes met.
+
+Two meters tall, easy. The face of a Greek god at its most arrogant. A himbo gone evil. His armor was white with black boots, and gleaming with enchantments. His sword was an artefact she didn’t take the time to inspect, but whose power she could feel. The intimidation that radiated out from him was monstrous. It forced Viv to put her own out at the same moment or risk being submerged. His spoke of innumerable battles, decades upon decades of war all for the good of mankind, and now, he would rule it. He was the grim hero, the face of order, who would drag the species, screaming, into a new age. The most surprising thing was how absolutely weary his soul felt under all the trappings of power. It was a core of steel and conviction and… nothing else. No weakness, no emotions, no mercy. Viv looked there and saw… nothing. Just a fatigue beyond thought, beyond care. After so long, the only drives left were duty and ambition. She hovered at a distance as the two took each other’s measure.
+
+[Herald of Maranor. Fifth step of a unique path dedicated to order and might. Blade master…]
+
+Viv didn’t take the time to read the rest. It was enough to know he was an absolute beast, but more importantly, he hadn’t had the time to path up yet. Celerin stood next to him. The difference between the two was like watching a tourist posing near an ancient statue. He tried to open a portal.
+
+“Interdict,” Viv said.
+
+She cast the spell. Space blurred around her, dispersing the portal as it formed rather than blocking it. Celerin chuckled bitterly, like he couldn’t believe she already had a countermeasure.
+
+Yeah, I’m not having much fun either, buddy, Viv thought.
+
+“Is it her?” Oleander asked.
+
+His voice carried no emotion besides boredom and resignation.
+
+“Yes.”
+
+Viv had several shields up before Crest closed his mouth. Something utterly massive punched them, cracking several layers and sending her back with an ‘ouch’ of protest. She saw it as it returned to Nero’s waiting hand: it was his shield. He’d thrown his shield at her, and it had done more damage than all the attacks of the previous battle combined. Her [Always a Chance] triggered immediately, informing her Nero was stronger than her, and not by a little.
+
+Still not enough to crush her though. As Oleander prepared for another attack, Viv realized something important.
+
+He couldn’t fly. Oleander couldn’t reach her. If she could just —
+
+Their attacks triggered at the same time. His shield was, once again, in her face while her nuee blanketed the hills. Oleander drew a white blade and struck. Her spell was torn apart at a conceptual level, but it was enough for her to realize he was concerned about her attacks. She renewed the nuee before adding more attacks — those mostly deflected by Crest. He grabbed the shield again. His aura expanded. It was as if he was calmly removing his cloak before starting for real. Pressure made her flinch. He was…
+
+[Aspect of the Guardian]
+
+The shield impacted her defenses again. Every attack seemed more powerful than the last. This one had almost breached it. Cold fear scratched at her throat. Another and… how was he doing it. Fearful, she looked down.
+
+Nero’s face was a mask of surprise and horror. Celerin’s mouth made an ‘o’ of shock. They almost died to her nuee before some danger sense kicked in. Viv didn’t get what was happening until she spotted the debris at the other Ascender’s feet.
+
+It was a piece of shield. There was another closer to her. Another to their side. White fragments of superheated metal rained down around them. It was, she realized, his shield. The heavily enchanted, almost an artifact shield. The thing that had stopped her spells at the pass battle. It was broken. Shattered. She had no idea what could —
+
+Vandal! Haha. >:D
+
+You should probably run now.
+
+Viv didn’t have to be asked twice.

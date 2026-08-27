@@ -1,0 +1,223 @@
+---
+id: 35cfed82-7f93-50f6-94e8-875fefe0424f
+page-type-slug: story-chapter-royal-road
+title: "50 Pieces of the Puzzle"
+slug: 0007-50-pieces-of-the-puzzle
+partOf: the-new-world
+position: 7
+ownLength: 3845
+unit: words
+ownProgress: 3845
+publishedAt: 2017-09-22
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/163457/50-pieces-of-the-puzzle"
+royalRoadId: "163457"
+markedReadAt: "2026-06-29T21:20:55.777Z"
+---
+
+I exited the school before running towards the entrance of a sewer. Passing by the multicolored fauna, the ascendant mana flowed through my runes as I kept two stones afloat beside me. With every twisting curve of the sewer, I came closer towards the next dungeon.
+
+A few minutes later, I reached it. I crawled up the metal stairs and pushed off the manhole cover with a reserved slowness. I didn't want to attract any unwanted attention, despite how bloodthirsty I sounded at times.
+
+I crawled out of the sewer, finding myself in an alleyway. A few blocks from me, there was a community shelter. It was a bunker built way back in the 50's during the Cold War. The city maintained it all these years in case there was some crazy disaster or something. It was ironic. A place built to keep people safe now produced monsters that feasted on them.
+
+I passed nearby, squeezing between two alleyways. Peaking from behind an empty dumpster, I leaned over and noticed two other blips on my minimap. I squinted my eyes forward, towards the bunker.
+
+There was a thin, wiry woman and a blackened, featureless man. Behind them, a row of people  and even a few spawns followed them. The blackened man turned the vault door before leading them into the abyss. I followed behind them, measuring my steps to mitigate noise. As I closed in, Torix sent a message.
+
+Torix Worm, of Darkhill(8:14 PM 4/13/00) - I've identified them both. Neither of them are enemies you should struggle with. Both of them are below level 500. Killing them won't attract much attention either, since they both spend several hours inside this dungeon anytime they visit. That gives you plenty of time to handle what needs handling. Good luck.
+
+After reading the message, I waited for fifteen minutes. I figured giving them some time to go deeper into the dungeon would give me more leeway once I was in there. As I passed the time, I practiced with my ascendant mana.
+
+The runes kept the normal frenzy under control, tempering it into a usable form. Now that I familiarized myself with it, my runes would be tapered towards their use. Combine that with the rapid initial leveling of the skill, and I'd be a telekinetic mage in no time.
+
+Clearing this dungeon took precedence, however. Enough time passed, so I skulked down the steps and through the open vault door. The sun set as I waited, making the city dark. It wasn't pitch black since there were a few solar lights here or there. For the most part though, only a little light leaked into the dungeon.
+
+Clean, concrete, and empty, it was like a terrorist cell from a horror movie. A few florescent lights blipped in the distance, revealing pieces of pathways off in the distance. The hallway stretche out like that for several rooms, like the lit areas were islands in a sea of darkness.
+
+It wasn't unfamiliar territory. My first few days with Schema were much like this, with little light and an eerie quiet. It didn't bother me anymore, so I kept my steps calm and composed as I went forward. Anytime I was unsure of where I was, I'd charge my ascendant mana for a bit. That gave me enough light to see forward.
+
+Still, the blipping lights mixed with a few streaks of blood from the wall made for an ominous atmosphere. My willpower and experience kept me focused despite all that. As I tread through the winding hallways, I reached a set of three hallways.
+
+I sat still and listened. I closed my eyes, honing all my attention to the slightest sounds. After a minute of doing so, a slight echo ebbed from the left hallway.
+
+Skill Gained! Listening(lvl 1) - You forge your senses to hear what you haven't heard. +5% hearing distance when listening. -1% to focus required for listening.
+
+The skill helped as I tread forward, finding myself deeper in the dark caverns. The slight echo turned into a slight screech, then a far off scream. I walked down a few sets of steps, wondering where all the monsters were. This was a dungeon afterall. When I slowly snuck past an open doorway, I found out why.
+
+This was an open room, the kind of room you don't expect in a bunker. The walls warped a bit at the end of the room, like the dungeon began here. A balcony lined midway around the edges of the wall, acting as a walkway. Observational windows, above the balcony, reflected bits of orange and white light in the room.
+
+The soot covered man from before ebbed orange light from open streaks all across his skin. It looked like his blood was magma. That light lit the room with a fluorescent lamp overhead, enough to see what was near them.
+
+An eldritch was crawling out the room. A long slug slithered next to the spawn. Gills flapped up on its sides, the slimy mucus trailing behind it. The spawn was a deformed man, bloated on something. Honestly, I'd rather not know what it had eaten.
+
+The two tentacled eyes of the slug reached out of the side of it's head, were the gills ended. The creature opened up down the middle, before spearing the summon of Yawm with a thin, spiral shell. Several other spikes shot out from the insides of the creature before one pierced the core of the Spawn.
+
+The spawn wilted, dying already. The monster then lurched forward, swallowing it whole. I leaned over the balcony, getting close enough for identification.
+
+Sacrificial slug(lvl 510) - This is an enormous, underwater slug. It glides through large bodies of water, using giant horns to push itself forward along the bottom of the seabed. These horns can be used for defensive purposes, especially considering the density and hardness of the shells.
+
+Outside of the water, their speed and defenses lower dramatically, making them vulnerable. When in the water though, these are deadly, fierce creatures that should not be underestimated.
+
+This species will feed on the surrounding species, liquefying their prey into nutrient rich soups for later consumption. They will then go towards a queen of sorts, feeding it with the soup. This makes sacrificial slugs a higher priority species since the queen can cause mayhem on a massive scale once she's fully formed.
+
+Before I could read the notifications for the named ones, another slug slithered up. As it waited for food, the wiry woman pushed a man towards the slug.
+
+From the balcony, I pushed on the railing before landing on it feet first. I let myself fall forward, letting myself get fully sideways. The ascendant mana roared through my limbs as I slammed my heels into the steel rail.
+
+It bent as I launched through the air. I pulled my legs up, letting my heels turn in front of me. I landed directly on top of the new slug as it opened its disgusting mouth. The jagged spears pierced an inch or two deep before snapping against my armor. As I landed inside of it, my feet crushed its insides.
+
+The impact acted like a detonation inside the slug. Muscle tore and organs ripped. Growing two spikes out of the edges of my hands, I sliced back and forth. The slug died in seconds. The man fell backwards, gasping in shock at his sudden saviour. Either that or he gasped in horror. Hard to tell.
+
+Before the shock of my landing wore off, I pounded my heels into the concrete floor. Dashing into the wiry woman, I trampled her underfoot. The glowing soot man stepped forward, letting his hands pull behind him. Two spheres of red, superheated mana formed as he pulled his hands together.
+
+They combined, forming an orange ball of energy. With a foot still planted on the woman's throat, I wrapped my left hand around her face. My fingers gripped like the a beartrap as I pulled her up. A wave of magma poured towards me, but I used the woman as a shield, blocking most of it.
+
+She howled in my hands, her screams sharp enough to cut into my ears. I pulled the back of her head towards me while stepping forward and pushing off my heels. That force traveled up my hips before I snapped a vicious right hook into the back of her head.
+
+Like punching an aluminum can, the skull dented inwards with red spraying out. I threw her down before the soot guy launched a fiery fist towards me. Ducking under it, I twisted on my heels, launching a left hook straight into the pit of his stomach.
+
+Magma blood spewed from his mouth as he flew backwards. I walked towards him, stomping onto the skull of the dead woman as I passed. The soot man pushed himself back with his hands, his feet dragging behind. He shouted out in desperation,
+
+"Help. Help."
+
+He glanced at the eldritch slugs lining the warped walls of the room. They stared back with cold, unfeeling eyes. I rolled my eyes,
+
+"They aren't pets."
+
+He turned back towards me, his horror fading as he reached out his hands. Just knowing I could speak let him know I wasn't a monster like these eldritch. He shouted, "I'm sorry. They forced me too. It was that or die. Please. Have mercy."
+
+I walked up before grabbing his wrists. I planted a foot onto his chest before saying,
+
+"Sorry, I'm in the same boat. You live, you tell Yawm about me. Either I kill you, or die. I'm sure you understand."
+
+He howled out as I stomped his chest and jerked up. His arms tore off his body, magma spewing from the gaping wounds. Using the arms as clubs, I reared back and slammed his right arm into his head. Then his left arm. Again and again, I pummeled his face until it was mush.
+
+I tossed the arms aside before letting my armor absorb their ambient energy. I glanced behind me, noticing a group of terrified people. I glanced back towards the opening of the eldritch cave, finding the other slug monsters not coming towards me. They must be scared after watching one of their own be insta-gibbed.
+
+I sighed, "Alright, I'll help you guys out. I'll get you guys outside of this hellhole before sending one of my friends to help you. Knowing him, he'll probably send skeletons or some shit, so don't be too surprised at what comes to help you. Do you all understand?"
+
+They shivered in terror, each of them waiting for their execution. I suppose that's how they got here in the first place. I pulled my armor back, showing my face. With a bit of ascendant mana, I lit the room enough with my runes for them to see me. I smiled,
+
+"What happened then?"
+
+One of the older men walked up, his beard gray. He frowned, "We were a part of the resistance. These evil things found our base. They tore us from our homes, and sent us to camps before being taken here."
+
+His voice cracked a bit as he continued, "They...they fed people to those things...I watched them scream. I saw their eyes as they were eaten alive...I don't even know what's going on anymore. It's too much. Everything is too much."
+
+An older woman from the back walked up, putting a hand over his shoulder. With a bit of steel in her eyes, she turned to me,
+
+"I'm sorry. Samuel's lost too much to bear. I'm sorry you have to see him like this."
+
+I waved my hand, "Don't worry about it. I understand. Things have been hard since the change. Everyone needs time to be weak between the times when you're forced to be strong. I sure as hell have had a few times where I wasn't able to handle it all either."
+
+The old man wept for a minute. One of the other members took him away, letting the old lady speak. She crossed her hands in front of her, standing up straight. She spoke with a clear voice,
+
+"You hear him. We're struggling."
+
+I nodded, sending a message towards Torix that explained the situation. The grandma spoke,
+
+"When are we getting out of here, or are you too busy fiddling with those silly status screens to notice."
+
+I scoffed. I met her eye, "You think these little screens are silly then?"
+
+"You're toying with it while people are dying. That's not just silly. It's irresponsible."
+
+I rolled my eyes, "Are you actually serious?"
+
+She glanced around at the people behind her, looking for some verification. She glanced back at me, "Yes. You're plenty strong. Use it instead of spending all your time on that damn screen."
+
+I laughed, a slow, mocking kind of laugh. I pointed at the slugs, "You wanna know why I can fight those monsters and you can't?"
+
+The grandma frowned, but stayed silent. I continued, "Because I spend my time fiddling with my status screen instead of trying to help people. This is something you should already know. You have to help yourself before you can help other people."
+
+I pointed at the sad group, "How in the fuck are any of you supposed to help anyone? You can't, because you can't even help yourselves. That weakness of yours, it’s a convenient excuse. I know I sure as hell can't just say Oh well. I'm too weak to do anything. Better wait till someone saves me."
+
+She blinked a few times before speaking, "You're just like those things back there. A monster.
+
+I spread out my arms, "Have you looked around lately? This isn't the place for people anymore. Only monsters survive. Either die or get with the program."
+
+She turned away, her feelings hurt. I swallowed my spite before holding up my palms,
+
+"Look, alright. Sorry. Tough times call for tough words. I'm just tired of hearing excuses and being blamed for other people's problems. Just because I'm strong doesn't mean I have to save people. Just because you're weak doesn't mean I have save you."
+
+I pointed towards a staircase, "Anyways, I'm done talking about it. I'm escorting you guys out of here. Once you're in the first room of the bunker, stay still and quiet. A minion of this guy named Torix will save you."
+
+I walked them out of the room. They kept quiet now, only a few whispers coming out here or there. Most of the whispers were prayers or thanks. Out of them all, I think only the grandma was ungrateful. She just so happened to be the only one speaking is all. Maybe seeing the man break down made her react off stress. Maybe that had been her husband. I didn’t know.
+
+Those thoughts tumbled in my head until we reached the entrance to the bunker. I waved a hand behind me as I walked back towards the cave, leaving them there as I said,
+
+"Good luck out there."
+
+As I walked off, one of the women whispered, "Thank you."
+
+The simple gesture planted a smile on my face, so I paced towards the entrance of the cave. Making sure I didn't miss any monsters, I reached the opening again. Several slugs crawled out of the cave, but most of them returned to the depths of their cave. Surging with the ascendant mana, I slammed my fists together.
+
+I sprinted before jumping into the room, landing with a booming echo on the ground. Cutting on oppression, the slugs turned towards me in succession. I grinned along with my armor. A slug nearby slinked towards me, more of a lunge than a crawl. I bent backwards to the side, dodging one of the jutting horns.
+
+I grabbed the horn as it retracted and jumped back. The horn tore from the creature while I avoided another spear with leap backwards. As the new horn retracted back, I dashed forwards and pierced the creature's maw with the ripped out horn in hand.
+
+The horn punctured the slug, stabbing through creature. Another spear stabbed towards me, drilling towards my head. I leaned my head sideways while lifting my right arm. The spear went right between my arm and head. Before it pulled back, I slammed my fist down. Leveraging the spear on my shoulder, my hand snapped it.
+
+The slug pulled back, but I followed. It lunged towards me, but I sidestepped towards the right of monster. As it's head pulled back, I stabbed the monster with the snapped horn and pulled back. The horn sliced the monster's head in half, killing it. After a few more stabs for good measure, a spine from my armor absorbed the ambient mana in the creature.
+
+By now, two more slugs neared me. Before they caught me though, I tore out a few more spears from their dead brother. A few tosses later, and one of the slugs died before reaching me.
+
+Skill Gained! Spear Mastery(lvl 1) - You throw and wield spears like a part of your own body. +2% to spear throw speed. +1% to spear handling power and speed.
+
+I grinned before dashing towards the other slug monster. Shooting out another horn, I leaned to my left. Using the momentum behind the movement, I smashed a left hook into the horn. It shattered before leaning towards my right, dodging another spear.
+
+I swiveled a crushing right hook into the next horn, snapping it. The monster squealed in anguish, pulling back again. I dashed forward. Again, the dumbass slug tried to swallow me. I stomped my front foot into the ground and turned my shoulders, smashing its face with another right hook.
+
+The slug fell sideways, tumbling over before I stomped the monster's head with my heel. The blue blood splattered in every direction, covering my face. I turned back towards the next slug. There was none.
+
+The others had escaped into their cavern. Even the dumbest animals won't charge into death I supposed. Regardless, I opened my status screen and found myself having leveled 12 times. I also noticed a pool of tree points from the dungeon cores I had earlier. That combined with my new skills gave me just enough tree points to unlock the last tier of Genesis of Potential. Boy was it a big one.
+
+Force your thoughts into reality. Tear down the whoever and whatever stands before you. Live up to the potential of your kind. +4 extra level 100 perks(7 max | 1 remaining.) Increases the dungeon attribute and skill cap by 100%. (from 1/4 of total level to 1/2 of total level. EG, if level 100, you may absorb 50 attribute and skill points instead of 25 total.) Raises mythical skill cap by one(5 Total).
+
+The mythical skill cap was already over my head, especially considering the difficulty involved with getting one. The other bonuses were just a plethora of raw stats. In a single word, beautiful. Once I got back to Kessiah and Torix, I'd get another boost. I looked forward to it.
+
+With the tree finally finished, my other options for skill trees opened. I'd forgotten them it had been such a long time.
+
+[II Vicious(Beat an enemy 40 levels higher than you in combat lasting over an hour, Death's Dance, Scorn, and Desperation over level 25)(0/50)]
+
+[III Fighter(Kill an enemy 40 levels over you)(0/50)]
+
+[Cosmic Soul(Obtain level three different soul related skills before level 500, ascendent unlocked before level 500, and willpower over 250 before level 500)(0/500)]
+
+[I Invincible(Take over 10,000 points of damage, with capped resistance in the damage type, and live)(0/250)]
+
+[Fearless(Battle an enemy over 1,000 levels above you and live)(0/250)]
+
+I had quite a few choices in my hands. My initial thoughts were to go with the highest number tree, Cosmic Soul. I decided against that once I checked out the bonus of vicious and fighter. Vicious gave me 5% more damage. The fighter tree gave me a multiplier to my bonus physical damage.
+
+Either of those would be invaluable right now, especially the damage bonus. Despite being such a high level with high stats, I would notice the difference something like that would make immediately.
+
+With that in mind, I put the rest of my 13 remaining points into vicious.
+
+Rip them apart with your hands. Maul them with your rage. Despise them. Use that hatred as fuel for fire. +2% damage.
+
+For such a small investment, it was a solid bonus. Hopefully unlocking boundless storm didn't mess with my ability to get further down the vicious line. If so, that would be painful.
+
+For now though, I just needed to decide on my next levelling perk. It was a choice of either luck or perception. Charisma was out since my armor reduced it so much. Maybe that was why the last few groups of people had been so disagreeable. I didn't really know.
+
+What I did know was that luck gave me a bit more health, but perception was something I could take advantage of. I mean, you can't abuse luck. It's risky to put your life in the hands of something so intangible. Perception would allow me to better use runes, use my senses better, and get a bit more of that precognition ability.
+
+So far, it had made a difference only once or twice. That could change whenever I made a new rune or saw a bullet piercing my skull, letting me move before it killed me. That made my decision easier, especially with how important the runes were to my effectiveness. Understanding the runic language would let me understand things that may otherwise be unknowable.
+
+With that in mind, I crunched a few numbers in my head real fast. Intelligence helped with stuff like that. If I kept putting points into constitution, it would take another 673 levels before I finally got enough points for the perception perk. In other words, fuck that.
+
+Sure, putting so many points into constitution paid off quite a bit with dexterity. I doubt having over 1500 constitution would be worth it though. That would throw my build way out of balance. With that in mind, I put all 28 points into perception. I checked out my status screen then.
+
+Level 508
+
+Strength 252.6 | Constitution 562.1 | Endurance 567
+
+Dexterity 100 | Willpower 270 | Intelligence 101.4
+
+Charisma 30.1 | Luck 54.5 | Perception 82
+
+The vicious bonus popped up again, reminding me I had the tree. I guess it was a way of letting me track my progress with trees. Either way, it was helpful.
+
+With my status handled, I cracked my neck and walked into the cave. After crushing a few more slugs, my armor would upgrade and I would gain enough levels for the perception perk. Life was good. By the time I got deeper into the cave, life took a turn, like a dive into cold, deep water.
+
+I went into those dark depths with a smile.

@@ -1,0 +1,401 @@
+---
+id: b486cc61-9cd5-5fbb-bd06-8f8c0d2503af
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13: Doors"
+slug: 0013-chapter-13-doors
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 13
+ownLength: 2843
+unit: words
+publishedAt: 2026-04-13
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3269227/chapter-13-doors"
+royalRoadId: "3269227"
+---
+
+I could hear them arguing from where I stood.
+ 
+Mages gestured with hands still trembling from the failed ritual. Soldiers shifted their weight, uncomfortable, caught between authority figures who couldn't agree on whose fault this was.
+ 
+The Six-Circle mage stood at the center of it, and for the first time since I had laid eyes on him, the arrogance was gone. In its place was something colder. Frustration ground down to a hard, clinical edge.
+ 
+"It's impossible," he said, his voice cutting through the overlapping arguments. "We can't continue."
+ 
+The words landed heavy. A few of the surrounding officers flinched as if struck.
+ 
+"Every crystal is compromised," the mage continued, holding one up between two fingers. Even from a distance, I could see the flicker of its glow. "Fractured. All of them. The entire reserve."
+ 
+He let the crystal drop. It hit the stone with a dull clink.
+ 
+"Who was responsible for quality check?" the mage demanded, turning slowly, his gaze sweeping across the assembled officers and logistics personnel. "Who checked these before they were placed?"
+ 
+Silence.
+ 
+"The inspection protocol was supposed to be handled by Third Division…"
+ 
+"Third Division was reassigned to perimeter duty two days ago. The crystals fell under Logistics…"
+ 
+"Logistics received them already crated. We assumed they'd been verified at source…"
+ 
+"At source? The source is a mining operation three hundred kilometers from here. You think they test individual crystals before shipping?"
+ 
+Voices climbed over one another. Fingers pointed. Faces reddened. Each officer tried to slide the responsibility sideways like a game of hot potato.
+ 
+The Six-Circle mage watched them with the expression of a man watching insects fight over a crumb.
+ 
+He didn't intervene.
+ 
+The argument ate itself. It spiraled inward, consuming energy and producing nothing, until finally the voices began to thin and the silences between accusations grew longer.
+ 
+A tall officer stepped forward. He wore a uniform that carried more decoration than most. His face was drawn tight, jaw set.
+ 
+"The expedition is concluded," he announced.
+ 
+"Mana crystals of this quantity and quality are expensive," the officer continued. "Replacing them will take months. We don't have the resources to extend operations beyond this point."
+ 
+He paused, letting the weight of it settle.
+ 
+"However," he added, and his tone shifted, lighter now, the practiced pivot of a man who knew how to frame failure as success, "the expedition has recovered several relics and artifacts of significant value. These findings alone justify the operation."
+ 
+A murmur rippled through the personnel. Relief, mostly.
+ 
+"We will begin withdrawal procedures immediately."
+ 
+I stood in the crowd and felt something crack open inside my chest.
+ 
+It took every shred of discipline I possessed not to smile.
+ 
+My face stayed neutral. My posture remained the slouched, unremarkable stance of a student who had no reason to care about logistics failures or crystal quality or the political maneuvering of officers trying to save face.
+ 
+But inside, behind the mask I'd learned to wear through death after death after death.
+ 
+Finally.
+ 
+The word bloomed in my mind like sunlight breaking through smoke.
+ 
+It's over.
+ 
+No gate opening. No corridor of fire.
+ 
+No dying.
+ 
+Not today at least.
+ 
+I wanted to laugh. I wanted to collapse onto the stone and press my forehead against the cold ground and just cry.
+ 
+I didn't.
+ 
+I kept my face still and my hands at my sides and let the relief wash through me.
+ 
+I'm free.
+ 
+The thought was so fragile I was almost afraid to think.
+ 
+I'm finally free of this hell.
+ 
+My gaze drifted toward the colossal gate at the far end of the cavern. It stood sealed. The runes on its surface were dark.
+ 
+The hour had passed.
+ 
+The time when the gate should have opened, when the ritual should have fed mana and split those doors apart, that window had closed.
+ 
+I stared at the gate for a long moment, letting the certainty settle.
+ 
+An annoying voice shattered the moment.
+ 
+"Sir!"
+ 
+Blut von Omstr pushed through the crowd near the ritual circle. His face was flushed, mustache bristling, and his small eyes burned with the fury of a man who had found someone else to blame.
+ 
+"The last personnel to handle the crystals," Blut announced, loud enough for every officer within thirty meters to hear, "were first-year students assigned to cleaning and inspection duty."
+ 
+The tall officer turned slowly.
+ 
+"First-years?" he repeated.
+ 
+"Under my supervision," Blut confirmed, and the way he said my supervision made it clear he intended the phrase to function as a shield rather than an admission. "They were tasked with basic quality checks. "
+ 
+They broke them. Not us. Them.
+ 
+
+ 
+Hours later, the cavern looked different.
+ 
+Not physically. The stone was the same. The tents were the same.
+ 
+But the energy had changed. The camp was being dismantled. Canvas came down. Crates were stacked onto carts.
+ 
+At the cavern's entrance, light waited.
+ 
+I saw it from a distance as the column of withdrawing personnel climbed the long, sloping passage toward the surface.
+ 
+I hadn't seen daylight since I'd arrived in this world.
+ 
+Every loop had been spent underground. Every death had happened in stone corridors and firelit caverns. The sky had been a memory belonging to another life.
+ 
+Now it was ahead of me.
+ 
+I adjusted the leather strap of my pack across my shoulders and kept walking. The pack was heavy, stuffed with whatever personal effects I'd managed to gather, the journal, the pens, the second book I still couldn't read. The pocket watch sat in my inner pocket, warm against my chest.
+ 
+There was, however, one problem.
+ 
+My punishment.
+ 
+The students around me grumbled as they marched, their complaints forming a constant drone that blended with the scrape of boots on stone.
+ 
+"This is horseshit," a boy to my left muttered, adjusting the strap of a supply crate he'd been ordered to carry. "We did exactly what Blut told us to do."
+ 
+"Exactly," another agreed, voice tight with resentment. "Polish the crystals. Sort the bad ones. That's what he said. We followed orders."
+ 
+"And now we're the ones being punished?" A girl's voice, sharp with indignation. "The officers are the ones who should have verified the stock. They had mages for that. Actual mages."
+ 
+"They just needed someone to blame," the first boy said bitterly. "And who's easier to blame than first-years?"
+ 
+"Especially first-years who can't fight back," someone else added.
+ 
+The complaints swirled around me. I heard every word. I understood every grievance.
+ 
+None of them suspected me.
+ 
+Not one glance in my direction carried accusation. To them, I was just another victim of the same injustice. Another student punished for the failures of their superiors.
+ 
+My particular punishment was walking behind me.
+ 
+Or rather, in front of me.
+ 
+The mule was enormous. A broad-backed, thick-necked beast. It was harnessed to a heavy cart loaded with expedition equipment. Crates of salvaged relics, folded canvas, tools, and miscellaneous items from an operation packed in a hurry.
+ 
+My job was simple: keep the mule moving.
+ 
+The mule's job, apparently, was to make that as difficult as possible.
+ 
+It stopped without warning. Mid-stride, mid-slope, mid-nothing. One moment, it was plodding forward with grudging compliance; the next, it planted its hooves and refused to move, as if the ground had personally offended it.
+ 
+I pulled the lead rope. The mule didn't budge.
+ 
+I leaned my weight into it, boots scraping against stone. The mule turned its head and looked at me with an expression of profound contempt.
+ 
+"Move," I said through gritted teeth.
+ 
+The mule blinked.
+ 
+I pulled harder. My arms burned. My shoulders screamed. The rope bit into my palms.
+ 
+The mule took one step forward. Soon to stop again.
+ 
+"You absolute—" A wet, heavy sound interrupted me.
+ 
+I looked down.
+ 
+A steaming pile of manure had materialized directly in front of my boots. The mule's tail swished once, satisfied.
+ 
+I closed my eyes. Breathed in through my nose, immediately regretted it, and breathed out through my mouth.
+ 
+My expression should have been fury. It should have been the red-faced, teeth-baring rage of a man pushed past his limit by an animal with the emotional intelligence of a brick.
+ 
+Instead, something else won. Relief.
+ 
+I was standing in mule shit, and it was one of the best moments of my life.
+ 
+A small, helpless laugh escaped me. Quiet enough that no one nearby heard it over their own complaints.
+ 
+I wiped my boot on a clean patch of stone and tugged the rope again.
+ 
+The mule, perhaps sensing that its torment had failed to produce the desired misery, returned to walking.
+ 
+As the column climbed, I found my gaze drifting backward.
+ 
+Again and again, my eyes sought the darkness below. The passage descended behind us and somewhere at the bottom of that descent, the colossal gate waited.
+ 
+Each time I looked, it was smaller.
+ 
+It's done, I told myself.
+ 
+I turned forward and kept climbing.
+ 
+The passage narrowed, then widened, then narrowed again. The stone walls changed texture as we ascended, rougher in places, smoother in others.
+ 
+The light grew stronger. Each turn of the passage revealed another degree of brightness, another shade closer to the sun. My eyes, adapted to torchlight and mage-glow for what felt like an eternity, began to water.
+ 
+I blinked through the tears and kept walking, kept pulling the mule, kept putting one foot in front of the other.
+ 
+I was so focused on the light ahead, so consumed by the promise of open sky and fresh air, that I didn't see what was in front of me until it was almost too late.
+ 
+Three soldiers stepped into the path directly ahead of the mule.
+ 
+They appeared from a side passage, armored from head to toe in plate armor. Their helmets were closed, faces hidden behind narrow visors.
+ 
+The mule didn't care about military hierarchy. It kept walking.
+ 
+My eyes went wide. I saw the collision coming a full second before it happened, the mule's broad chest on a direct course for the nearest soldier's back.
+ 
+I didn't think. I threw myself in front of the mule.
+ 
+My shoulder hit the animal's chest. My boots skidded on stone. The mule's momentum shoved me backward, and for a terrible instant I was pinned between beast and the where soldiers walked, arms spread, palms flat against coarse hide, every muscle in my body trying to stop the stubborn animal.
+ 
+The mule relented and stopped. Barely.
+ 
+Its hot breath blasted against the back of my neck, as if complaining with me.
+ 
+The three soldiers turned.
+ 
+Two of them glanced at the mule, at me, at the cart behind, and dismissed the entire scene with casual disinterest. They kept walking without a word.
+ 
+The third paused.
+ 
+"We weren't paying attention," the soldier said, voice muffled by the helmet. "That was on us."
+ 
+I straightened, pulling myself free from the mule's oppressive bulk. I brushed dust from my robe.
+ 
+"No, no," I said quickly. "My fault entirely. I should have been watching the path."
+ 
+I looked at the soldier more carefully.
+ 
+The armor was identical to the others. But something about the height. The build. The way the soldier stood with weight shifted slightly to one hip.
+ 
+I extended my hand before I could second-guess myself.
+ 
+"It's been a while," I said, and let warmth bleed into my voice. "I'm glad to see you're well."
+ 
+The soldier's helmet tilted.
+ 
+A pause stretched between us.
+ 
+She didn't know me. This version of her had never sat on a rock and read my journal aloud.
+ 
+But I knew her. I knew the scar on her right cheekbone. I knew the shade of blue her eyes would be when the helmet came off. I knew she smelled faintly of lavender beneath the steel.
+ 
+Beneath the closed visor, a voice came, cautious and confused. "I'm sorry," Iris said. "Do I… know you?"
+ 
+The words were polite, yet careful. The kind of thing you said when someone greeted you like an old friend and you couldn't place their face.
+ 
+"We've met before," I said, which was true in a way she would never understand. "I make it a point to remember everyone from my territory. Or at least I try."
+ 
+Iris's helmet tilted further. I could almost see the skepticism radiating through the steel.
+ 
+"Your territory?" she repeated.
+ 
+Her gaze, what I could see of it through the visor, traveled down my body.
+ 
+White hair, tangled and unwashed. A student's robe, stained and wrinkled. A leather pack slung over one shoulder. And behind me, a mule that was currently attempting to eat the rope I had been using to lead it.
+ 
+The picture did not scream nobility.
+ 
+"You'll forgive me," Iris said, and there was a dry edge to her voice now, "but I don't recall meeting any nobles who work logistics."
+ 
+My smile widened a fraction.
+ 
+"Allow me to introduce myself properly, then." I straightened my posture, lifted my chin.
+ 
+"Kaspar von Hexenzeit."
+ 
+Silence. Iris stared at me.
+ 
+The visor hid most of her expression, but her body language told the story. Her weight shifted. Her shoulders pulled back.
+ 
+"You're shitting me," she said. The words came out before she could stop them.
+ 
+I laughed.
+ 
+Iris shook her head slowly, the motion visible even through the bulk of her helmet.
+ 
+Her gaze swept over me again. Head to toe. Slower this time.
+ 
+She seemed curious.
+ 
+I could see it in the way she shifted her weight forward instead of back.
+ 
+She fell into step beside me.
+ 
+The mule, sensing that its handler's attention had wandered, immediately tried to stop again. I tugged the rope without looking, and the beast grudgingly resumed its march.
+ 
+"So," Iris said. "How does a von Hexenzeit end up pulling a mule through a cave?"
+ 
+I glanced at her sidelong.
+ 
+"Punishment," I said simply.
+ 
+"For what?"
+ 
+"Being in the wrong place at the wrong time. Or the right place, depending on your perspective."
+ 
+Iris waited for more. When it didn't come, she made a sound that might have been a laugh trapped behind steel.
+ 
+"Cryptic," she said. "Very noble of you."
+ 
+"I try."
+ 
+We walked in comfortable silence for a few paces. The passage continued to brighten. Somewhere ahead, I could hear the echoes of the column's front reaching open air.
+ 
+"You said you remember people from your territory," Iris said, breaking the quiet. "I lived in Hexenzeit for a few years. When I was young."
+ 
+"I know," I said.
+ 
+"You can't possibly remember every person who—"
+ 
+"I remember you." The certainty in my voice stopped her mid-sentence.
+ 
+Another silence.
+ 
+"Huh," Iris said at last.
+ 
+Ahead of us, officers moved along the column, shouting orders that echoed off the narrowing walls.
+ 
+"Pick up the pace! We want to clear the cavern before nightfall! Camp will be established outside. I want tents up before the last light!"
+ 
+"Finally," I murmured. "A night outside."
+ 
+"You sound like you've been down here for years," Iris said.
+ 
+You have no idea, I thought.
+ 
+"It'll be good to see the sky," I said instead.
+ 
+The passage made one final turn. The walls fell away. Light poured in.
+ 
+It hit my eyes like a physical force, and I threw up one hand to shield my face, squinting hard.
+ 
+Two enormous metal doors stood at the entrance, one on each side, pushed back against the rock face. They were huge, industrial, built with a brutal functionality that had nothing in common with the ornate, rune-covered gate below. No shimmering symbols. Just metal. Thick, riveted and scarred by time.
+ 
+But it was what was written on them that stopped me dead.
+ 
+My boots scraped to a halt. The mule walked into my back and snorted with irritation. I didn't notice.
+ 
+My eyes were locked on the doors.
+ 
+Letters. Stamped into the metal in a font I recognized. Not the flowing script of this world's language.
+ 
+English.
+ 
+Block letters. Military stencil.
+ 
+My mouth opened. No sound came out.
+ 
+I read the words once. Then again. Then a third time, as if repetition might change them into something that made sense.
+ 
+They didn't change.
+ 
+"Kaspar?" Iris's voice reached me from somewhere far away.
+ 
+"What's wrong?" she asked. "You look like you've seen a ghost."
+ 
+I turned to her slowly. My face must have shown something, because her posture shifted, concern replacing curiosity.
+ 
+"What's written there?" I asked, and my voice sounded strange even to myself. "On the doors."
+ 
+Iris glanced at the massive metal slabs, then back at me with an expression that hovered between amusement and mild concern.
+ 
+"Even the Academy's brightest doesn't know everything, I suppose," she said, a teasing edge in her voice. "It's the Ancient Language. From the old civilization. The one that was destroyed."
+ 
+She shrugged.
+ 
+"No one fully understands it," Iris continued. "Scholars have been trying to decipher fragments for centuries. Some words have been translated, but the full meaning?" She shook her head. "Lost."
+ 
+I stared at her.
+ 
+Then I looked back at the doors.
+ 
+SPECIAL BASE #44
+ 
+UNITED STATES ARMED FORCES
+ 
+DEFENSE BUNKER [CALIFORNIA]

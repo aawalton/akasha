@@ -1,0 +1,189 @@
+---
+id: 857778b6-69e4-56dd-b25d-9d8a920de08f
+page-type-slug: story-chapter-royal-road
+title: "074 - The Flame"
+slug: 0074-074-the-flame
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 74
+ownLength: 2092
+unit: words
+publishedAt: 2026-08-24
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3856913/074-the-flame"
+royalRoadId: "3856913"
+---
+
+I poked my head out once more. The two I had spotted moments ago had moved on—likely trying to get a better angle at our hiding spot.
+
+I needed to occupy their full attention. Helene was too vulnerable against ranged attackers like those.
+
+'Scorched Earth' would have to do the trick. I shifted into Gullveig-touched House Cat, with Might of the Meek active. With only a base Endurance of 1, the shape got a massive boost, making it just about lioness-sized.
+
+[Gullveig-touched
+
+30% increased size
+
+50% increased Agility
+
+50% increased Endurance
+
+Twice Burned
+
+Heith's Sparks
+
+Gold-Witch's Eye]
+
+I was about to skim the traits when I found what I was looking for as a new Task instead.
+
+[Third Burning (Myth Task)
+
+Task: Drop below 20% health while on fire or due to fire, blast, or heat damage.
+
+Reward: Heith-touched Transformation.
+
+Note: Reward is automatically accepted. Prevents dropping under 1% health.]
+
+"Scorched Earth it is, Helene."
+
+There was a flicker of hesitation before she nodded. "Go."
+
+I jumped out of cover and growled in the direction of our attackers. Behind me I heard the flicker of flame as Helene pulled out the Molotov cocktail we had prepared for this scenario.
+
+This was about to suck really bad.
+
+I heard the twang of another loosed arrow and managed to twist my body so the arrow hit my shoulder instead of my neck. The attackers had moved to the left.
+
+Then the bottle crashed against my back, and I was covered by liquid flame.
+
+It hurt—a lot. But instead of overwhelming my mind, it brought me piercing clarity. I instantly noticed the unfamiliar scent of a non-human species in the air. Also, my paws burned with a blue flame that did not scorch me.
+
+Off in the trees, I heard words in a language I couldn't understand. But their meaning was universal. 'What the fuck?'
+
+Following the scent and the voice, I spotted it. Up in a tree, a shimmer in the air—like my own Cloaking spell, only much harder to pierce. But I had pierced it, and I didn't fear their arrows anymore.
+
+I dashed for them. They shot another arrow, but this one wouldn't hit me, even if I hadn't seen it coming. Seeing a giant, pitch-black, burning house cat charge at you does that, even to the most seasoned assholes.
+
+Before I reached the tree, they dropped out of their perch into the undergrowth. I lunged at the spot where they should have touched the ground. Mid-jump, another arrow hit me, right in the side. The shooter had been close but wasn't the one I had already spotted.
+
+No, that one was waiting for me, sword in hand. I could vaguely make out the curved, slender metal, fitting the equally slender warrior wielding it.
+
+Ignoring the sword, I pounced on them, eliciting a panicked scream as I drove them to the ground. The sword cut into my flesh, under my leg. My claws cut through their throat. The fire cauterized the flesh, but that didn't save their life.
+
+With their death, the spell vanished. It was an elf. Long ears and all. Jamie would be so mad that I got to fight wood elves without him. He didn't smell of vanilla.
+
+I didn't have time to properly examine him. I pulled his entire corpse into my inventory when another arrow hit me.
+
+And this one hit my throat, dropping me to a sliver of health.
+
+This shape change was the weirdest yet. Nothing like my shapeshifting, rapid, and disorienting. Nothing like the transformations I got from eating hearts, slow and painful. This one touched something deep inside, and then everything was different.
+
+The Task was gone. The flames on my body were extinguished, while those on my paws blazed even brighter. And I knew. I knew of the two other elves, to my right, stunned by my transformation and the murder of their comrade. I knew the path we took here, the corpses we left behind, and how they had tracked us. And I knew that the fire had attracted the attention of a chimera, still over a hundred yards in the jungle. But it would find Helene soon.
+
+I was also on a one-minute timer. Even though this shape had healed me fully, it was somehow also a buff on my Gullveig-touched House Cat shape.
+
+["Chimera approaching from north. Come my direction, but stay in cover. I will eliminate the pursuers,"] I wrote in chat while I made my way to the other two.
+
+This shook them out of their paralysis. They didn't ready themselves to fight me, they ran. I switched my course, so I'd intercept between the two. Even though they nearly matched Alex' speed in the dense terrain, I was faster.
+
+I jumped onto the path between them, causing the one that was lagging behind to stumble backwards. Even through her magical guise, I saw the expression on her face. And I knew again.
+
+Those were Created. They had been fending off the chimeras successfully. And then their scouts had spotted something worse. A ruthless invader, clearly another monster. And those three had volunteered to hunt it down. Hunt me down.
+
+Gabriel's assurance that they weren't people echoed in my mind, and still I couldn't kill her. But I had to talk to her, and there was a chimera to stop.
+
+With my blazing paw, I cut the tendons on her left leg. If the other had any loyalty, that'd slow both of them down.
+
+Twenty-two seconds remaining, I bound off toward Helene and the approaching chimera.
+
+With two seconds remaining, it fell to my claws. This one had been an emu-leopard mix. The first bird among the batch.
+
+"Can you loot this, please? My inventory is getting a bit crowded," I asked Helene.
+
+The Heith buff wore off, and I was back in the Gullveig-touched House Cat, only carrying the minor injuries I had sustained in the fight against the chimera just now. Without being on fire, this shape also lacked the blazing claws.
+
+My mind felt sluggish. The exact knowledge of before faded into vague memories.
+
+Helene pulled the corpse into her inventory. She gave me a smile.
+
+"We did it."
+
+I looked up at her. We hadn't done it yet. I still needed to deal with those elves. Talk to them and secure a safe exit from here, or kill them.
+
+"Level 20, Eve. I reached it."
+
+"Oh. Well. You are welcome." I turned in the direction where I left the injured elf. "I left two elves alive. I hope to be able to talk to them."
+
+The one I had injured was still marked on my minimap, but there wasn't any sign of the other. I approached cautiously, and Helene trailed behind, moving from cover to cover.
+
+The injured one just sat there, cross-legged, on the ground. Her weapons—bow, sword, and dagger—were placed in a neat pile next to her. She had her eyes closed. Her head was covered by the hood of her cloak, and her face was painted with camouflage-like patterns. Whatever magical guise had kept her hidden before was gone. I had no idea where the other was or what their goal here was.
+
+"Do what you must, skinwalker," she said. She didn't turn her head to face me. "I will not fight you. I will not give you the pleasure of satisfying that perverse lust for carnage."
+
+Ouch. I was bad at first impressions, but this one took the cake. Skinwalker. A Navajo nightmare they wouldn't even discuss with outsiders under normal circumstances. The Blessing wasn't just fucking up human culture, it was appropriating pieces of it into the religion of a species that looked like it came straight out of a videogame.
+
+I took a small risk and activated the human shape, before I stepped out of my cover.
+
+"I do not wish to harm you." I held a healing potion out for her. "Apologies for the injury, but I hoped to talk."
+
+Helene followed but stayed behind me. The elf opened her eyes. They were slightly-too-large in an uncanny way, and their unnaturally bright blue stood out starkly against her painted face.
+
+"You have already slain one of us. What is another?"
+
+Even though I was trying to fight against the jungle's aura, the urge to shout, to attack, to turn her words into truth, was strong.
+
+"You attacked us first. Now take the goddamned potion."
+
+She took the potion from me with a swiftness that reminded me of a snake's bite. But she didn't drink it yet. She opened it and sniffed at it.
+
+"Why give me this?"
+
+"I do not mean you or yours any harm. In fact, I assume we have a common enemy."
+
+She finally drank the potion. It restored most of her health bar. She gingerly rubbed the spot where I had cut her leg.
+
+"Do not think we'd ally with the flame just because you gave warmth once. I saw your fire, and I know it would consume us."
+
+I rubbed my eyes. "Jeez. Listen. I know this looked bad. Violent even. But the power we were granted, the power that might allow us to fight back, it demands this of us. The only way to protect our world is by growing strong enough to oppose the invaders that threaten it. "
+
+"If all of you take such pleasure in bloodshed, maybe your species should be contained. If you achieve such brutality that you can match the Mistress of Violence, you will not defeat her—you will only usurp her throne."
+
+"You judge from a place of arrogance and ignorance." I hadn't noticed Helene walking up next to me. "When this Blessing that grants us power asked this one to slaughter the weak and to grab for dominion through force? She refused. She gave up a piece of herself, an irrevocable loss of humanity, to protect those weaker than her. Yes, I've seen her take pleasure in bloodshed. But only when facing those mindless abominations."
+
+I gave the elf a small wave. "Hi, I'm Eve."
+
+She stared at both of us for a long time. "My name is Aleria."
+
+"Helene."
+
+Aleria stood up and tested her previously injured leg. "What do you wish to discuss?"
+
+"For now? Just a truce. I will try to tell people to avoid your kin when they spot you, and in turn, I wish that you do not hunt down other humans who enter this forest."
+
+She began picking up her weapons again. "I cannot do that. Defending this forest is a holy duty. Humans bring nothing we want. You can only prevent your people from getting harmed by telling them to stay away. Those woods are unwell, and we have enough work on our hands healing it."
+
+Again I had to hold myself back from lashing out. The Blessing was not going to give us an easy out as it did with the easily scared kobolds. It spawned those Created with an entire xenophobic religion. Fuck that.
+
+"I will find your settlement and speak with your leaders. Pardon my bluntness, but I wiped the floor with you. You have no chance to stand against the tide that is coming for you. Not without assistance and cooperation. Go, Aleria. And tell your people I will come to talk again."
+
+"You will not find our home. And if you do, we will fight you."
+
+Finally, my patience snapped. Faster than she could dodge, I grabbed the taller woman by the throat. Her hood fell back and revealed silvery hair.
+
+"And I will attempt to be as merciful as I am now. Now fuck off, before I really lose myself." I shoved her away.
+
+Aleria left without another word. I screamed with frustration.
+
+"No wonder that the fucking arrogant bastard of a unicorn protected a fucking elven cloak. They are exactly the same kind of judgmental assholes. God, I fucking hate this."
+
+Helene stepped away. Just one step, but enough for me to notice.
+
+"I am not about to lose myself, Helene. I am being healthy as fuck and venting my frustrations."
+
+"I'll take your word for it. Let's leave? We got what we came for."
+
+I took a couple of deep breaths. "Yes, let's leave." I remembered the notification waiting for me. "But first. One last change."
+
+I accepted the chimera transformation. The Blessing recognized it as a bird, making it immediately part of my innate shapes.
+
+An emu-leopard mix, large enough to carry a human.
+
+Kweh, motherfuckers. Kweh.

@@ -1,0 +1,119 @@
+---
+id: 37b75476-f6e0-52bf-a951-fade6f4e6858
+page-type-slug: story-chapter-royal-road
+title: "Chapter 409 : Plug"
+slug: 0111-chapter-409-plug
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 111
+ownLength: 2611
+unit: words
+publishedAt: 2026-07-29
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3740300/chapter-409-plug"
+royalRoadId: "3740300"
+---
+
+The atmosphere beyond the barrier changed in an instant, so thick with dark energies that you could almost drown in it. However, rather than entering a final chamber immediately, it was a long, drawn-out corridor that seemed to paint the picture of multiple physical barriers that had been breached over time.
+
+While some of us spared it the occasional glance, none of it seemed particularly useful, as if it had any purpose other than to add to the oppressive ambiance; it must have been lost to the passage of time. That was one thing that was very clear from this, hopefully, final tunnel: it seemed ancient, and, despite supposedly containing an ancient evil, it looked like it would crumble at a gentle nudge.
+
+As we prepared to confront whatever lay ahead, our chatter was somewhat focused for a change, as each of my personas made their own preparations. Sylbera seemed to be deciding between a few different warhammers she had available while Sylthaeryn was crafting a variety of slime arrows before storing them away. Sylvain seemed to be preparing various spells ready to be completed and triggered at a moment's notice.
+
+Finally, Sylvester was pulling out some of the [Permafrost] golems he had crafted, which drew the others' curiosity and a bit of questioning about his progress. It seemed he was still relatively early and still quite limited in material, much to his own frustration. As for his apprenticeship under Keldenar, apparently the man relied heavily on delegation, and Sylvester was actually being directed by one of his other pupils—a child.
+
+"What's annoying is the boy knows a lot more about golems than me, so I can't exactly complain," Sylvester sighed. "I just wish I could gain access to more of the skills. The class progresses a lot differently from others, and I can't just have them shared with me."
+
+One such example was Sylvester's golems, which were currently being stored in his own designated area of our [Core Storage]. He wanted the ability to store or summon golems, but apparently, those only came much later in the Golemancer's progression. The class's progression seemed tied to various milestones rather than experience, levels, and proficiency alone. The most annoying of which were those Keldenar described as "timegates," one example being the need to operate golems for a certain number of hours, which scaled exponentially with each step.
+
+Sylvester tried to vent some of his frustrations, but none of us were having it. Pretty much all of us were envious of him getting to experience such a unique class, even though none of us were willing to give up our current classes to follow the same path. To us, this Adrith kid, whom Sylvester had been assigned to, was an instrument to express our jealousy through.
+
+However, our chatter was short-lived as we finally reached our destination: a large chamber with a chasm that penetrated the ground far beyond even my senses could see. If it were just a seemingly bottomless hole, that would be kind of creepy enough, but the entire thing almost gave the impression of an open wound, as the edges seeped with a blackish-red, purple substance.
+
+The entire room felt distorted, something that only I seemed to be able to feel, perhaps due to my Riftmancer class and the associated skills surrounding it. My [Personal Rift] was the most affected, and it seemed like a struggle to even manifest around me, as if another presence had forced itself into this space, leaving no room for more.
+
+We all marveled at the room, with the walls lined with countless glyphs and runes of practically endless variety. Some were human in origin, others elven or dwarven, and some even had signs of what only a dungeon could create. Those accounted for only half of the strange symbols, and most were beyond anything Sylvester or I had ever even seen before.
+
+While the exact purpose wasn't clear, the fact that it was all pointed at the crevice gave us a good guess. Yet as we looked around, we noticed an unusual absence of any monsters.
+
+"Where's the final boss?" Sylvain asked, glancing around.
+
+"Maybe labyrinths don't have them?" Sylthaeryn suggested.
+
+It seemed somewhat plausible, but clearly reaching the epicenter of this place had to have some purpose. Sylvester was trying to gain a bit of insight from the walls, while the rest were exploring to see if there was anything else here. Meanwhile, I was busy looking at it from a dimensional perspective to see if there was something hidden there.
+
+"I don't suppose we need to jump down there?" Sylbera suddenly asked, pointing to the chasm.
+
+"I don't think that's a good idea," I quickly replied.
+
+Not only was the hole practically an ocean of corruption, but it also had extreme dimensional instability. I couldn't even grasp the first digit of a coordinate for anything inside there, even using the official spells. I had even tried opening an aperture and, for the first time ever, found my skill blocked.
+
+Of course, we could grow wings and borrow traits to fly out, but that assumed it didn't also have some ability to ground us. As for climbing out, honestly, I didn't want to touch whatever creepy substance coated the walls.
+
+It was starting to feel like we were stumped, but I still refused to let anyone risk jumping down. Of course, we had slime puppets to fall back on, as well as golems, so after waiting around for tens of minutes, we decided to send some scouts.
+
+Sylvester crafted a disposable golem on the spot in rapid time and ordered it to jump in, only to find his connection to it broken as soon as he lost line of sight to it. According to him, that shouldn't have happened as his control radius was much further, but it had. Next, we sent some unattended slime, and I experienced the exact same thing. As soon as the slime exceeded my visual range, it was like it disappeared.
+
+"I don't like this…" I murmured, getting prompt agreement from the rest of the group.
+
+"Do you think we need to help seal it?" Sylbera suggested.
+
+"Honestly, that's not the worst idea," Sylvain replied.
+
+"Sure, why not? I don't have any better ideas," I agreed.
+
+Our best material on hand was slime, but that would fall apart as soon as the primed timer ran out. Of course, we could spawn plenty of rock, earth, magma, and even ice, so it wasn't like we were lacking in raw materials. There were also various bits and bobs across all our inventories, though we were going to go with the free option first to see if it was even worth trying.
+
+To everyone's surprise, though, almost immediately after we started constructing our first bridge across the chasm, something reacted. Like a creature howling from its cave, a monstrous roar echoed from the depths, shaking the entire room. Our construction was unaffected, but that was when Sylvain spotted something coming.
+
+"Monsters are coming from the pit!" he warned before summoning a crown of water and unleashing spells to intercept the rising demonic tide.
+
+The creatures looked like a mix between a beetle and a mantis, and then coated in demonic corruption. However, unlike the minions that roamed the labyrinth, these ones pulsed with the same blackish-red and purple corruption as the crevice. Thankfully, despite their fierce appearance, they didn't seem much more powerful than what I'd faced before, and it looked like they relied more on their overwhelming numbers to achieve their goal.
+
+Unfortunately for them, a significantly higher body count was no longer a valid strategy against us. In response, all of my personas started withdrawing slime mass from their cores in rapid succession, accessing our shared ocean of slime, which had been waiting in reserve. Minions of our own were rapidly spawning, and I shared the spare [Sub-Cores] on hand between them to act as each of their generals.
+
+Or maybe I should call my personas the generals and these the lieutenants? Eh… I can workshop the internal hierarchy at another time.
+
+It was interesting that despite each persona having access to literally every slime ability, they each seemed to gravitate towards the ones that suited them best. Sylbera, for example, used plenty of [Metal] and [Blaze], while Sylvain appeared to prefer [Cryo]. Sylvester used [Mana] and [Metal], which made perfect sense given his enchanting approach. Sylthaeryn, on the other hand, was the most versatile and used pretty much every slime available, although often through crafted arrows.
+
+Of course, everyone used [Nitro Slime]; it wasn't my self-proclaimed favorite for no reason, and it was simply too versatile with everything it had going for it. Of course, now with [Slime Puppetry], it could be relieved of some of its duties, as I didn't need to prime literally everything I wanted to keep around as an "object," so to speak.
+
+We eventually changed our approach to have Sylthaeryn, Sylvain, and me on the defensive while Sylbera and Sylvester continued trying to plug the chasm. Sylbera was our geomancer, so she was better suited to building, and Sylvester's new class left him without much offense on his own, unless he used only slime. While he did have his golems, they weren't advanced enough to be equipped with any range capabilities, so instead he had them on melee guard duty to charge and strike any demon bugs that potentially snuck through.
+
+Sylthaeryn and Sylvain were like murder machines, especially the former, as I'd never really gotten a chance to see her archery in action. Against the golems, which had gradually grown immune to everything she had performed very poorly, but now she was finally getting her chance to shine. With her bow, she nocked multiple arrows and fired them all at once, each striking a different target with shocking levels of accuracy before exploding and slaying them.
+
+She appeared to have taken my needles and worked on improving them further, and with the addition of [Slime Puppetry], I watched as she murdered bug after bug. No longer limited to solidified slime arrows, she could have the arrow expand and attack from within once it penetrated through the hide, whereas before, we could only make them detonate. Of course, that was usually more than enough to kill even the toughest monsters, but this new method was even more brutal in its efficiency.
+
+The slime arrows were now like hostile organisms invading their target, and depending on the slime types used, she could inflict all sorts of harm on the target. Not only that, but by combining [Acid] and [Necrotic] into an absolutely vile combination, her parasitic arrows could eat a target on the inside and grow into a potential threat against another enemy. Anybody seeing their ally eaten from the inside out only to be attacked by whatever abomination emerged from their corpse was a truly harrowing experience.
+
+Truthfully, I was probably the most frustrated in our group, as I couldn't use any of my Riftmancer abilities until the bugs exited the hole. Attempts to mess with the coordinates all failed, and even when I cast [Rift Rend], it could only travel a few meters before unraveling into nothingness.
+
+What this meant was that I was put on the reserves as the last line of defense, unless I wanted to switch up and start casting other spells with an artificial affinity. I could've, but this arrangement let me observe my personas and play around more with [Slime Puppetry] and my own little army. Plus, having [Dimension Magic] at the ready was a good last resort, as I could instantly remove a threat by swallowing it into an aperture to be devoured.
+
+While Sylthaeryn's approach was a masterclass in frugality, turning a single slime arrow into a growing monster, my approach was far less subtle. I was the one in charge after all, and if anybody was going to start trying to make a dent in our abundant reserves, it was going to be me.
+
+My choice of weapons was my soldiers themselves, and I'd started fashioning them into what I could only describe as a centipede with wings. The creature would fly rapidly at a target, then latch onto it, wrapping its elongated body around it and grasping it with its legs until it was entirely surrounded. After that, well, obviously, they exploded and vaporized whatever poor creature they'd caught with multiple inward-facing detonations.
+
+[Nitro Slime] had received plenty of upgrades along the way, with all sorts of triggers and configurations at my disposal, and the directional blast when used like this was arguably the most deadly. Sure, it wasn't as flashy as an outward burst that scattered everywhere, but this was like me forcing my targets to implode. Ever since I got this ability, I had dreamed of using my slime in a similar fashion, and now I could! I had tried luring a wolf into a trap with an immobile slime bunny, and while it had sort of worked, it left much to be desired.
+
+Now? I could make pretty much anything, having them act, behave, and even use abilities of the former creature, and then have them blow up on top of all that! Sure, it was probably wasteful, and yes, I could've found other methods using my other abilities, but it was damn hard to argue that they'd be any more enjoyable than this.
+
+The demonic bugs seemed practically endless, even when we had enclosed the hole. However, when we added several layers to it, Sylvester even began engraving defensive enchantments into our plug, and their numbers finally started to dwindle. Seeing this reduction, more of us dropped out of attacking and focused on reinforcing it further.
+
+We even sealed a layer of [Metal Slime] in our contraption, even though it would lose its solidity; we figured it would help reinforce it, as it would retain its metallic characteristics. Similarly, we encased a layer of [Cryo Slime] between two floors of [Permafrost], hoping that it would keep it permanently functional.
+
+Finally, the demonic bugs stopped coming entirely, and we all moved to the top of our creation to admire our work. It wasn't anything pretty to look at, unless you counted Sylvester's engraved enchantments, but it certainly seemed to be getting the job done.
+
+"This was weird…" I finally said, shaking my head.
+
+I had thought the plantoid king and his challenges were strange in Ygdran's dungeon, but this really seemed weird. Did all the previous adventurers need to seal the hole, or did they have other tasks? Honestly, it was hard to tell, but at the moment, it looked like we were victorious.
+
+"Hey, I hate to be a downer, but is the weird stuff getting more… Purple?" Sylvain asked, pointing at the edge of our plug.
+
+We all glanced over to where he was pointing, and indeed, the weird, leaking fluid seemed to be changing, and not in a way that seemed beneficial.
+
+"Well, shit, what else do they expect us to do?" Sylthaeryn complained.
+
+All my personas turned to me as if I had the answer. I could only awkwardly shrug. "Why are you looking at me? I have no idea what's happening."
+
+As the words left my mouth, I suddenly felt something and turned around. The space around us was twisting and splitting apart, and it felt like someone, or something, was trying to emerge into our world.
+
+"Uh, everyone, get ready, I think a real demon is coming!" I shouted, right as a vacant space in the air began to crack before our eyes.

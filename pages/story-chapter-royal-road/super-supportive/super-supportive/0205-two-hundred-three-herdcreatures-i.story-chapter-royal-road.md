@@ -1,0 +1,369 @@
+---
+id: 6e845339-8883-5b70-a2de-e01a0a2280a1
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED THREE: Herdcreatures I"
+slug: 0205-two-hundred-three-herdcreatures-i
+partOf: super-supportive
+position: 205
+ownLength: 5117
+unit: words
+publishedAt: 2025-02-13
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2063990/two-hundred-three-herdcreatures-i"
+royalRoadId: "2063990"
+---
+
+203******
+
+<<Wake. Awaken, my soon-friend.>> “Alden, wake up.”
+
+The whispered urgings were accompanied by a soft smell like toast and citrus fruit. Alden opened his eyes groggily to see that a lamp had been pulled out of the wall above where he lay. It was a glowing white box that made him squint and shade his face with an arm clad in the navy silk pajamas he’d bought during his shopping spree at Needle & Wheedle. The sight of the pajama sleeve reminded him that he was wearing them as auriad coverage, which reminded him more quickly than the surprise lamp could that he’d gone to bed in the cottage at the art’h siblinghold.
+
+And the person whispering at him, using three different Artonan words for “Wake up,” was his host.
+
+Alden rolled onto his side to see Stuart standing at the edge of the bed, holding a ceramic cup full of something steamy. Through the transparent wall behind him, the view was of a dark forest and a stream that flashed with zansees.
+
+Alden checked the time. It was just before eight in the morning on Anesidora, but that was a couple of hours sooner than he had expected to be up. He’d gone to bed late and set his alarm to account for the time difference as well as he could.
+
+“This is so early for you, isn’t it?” he asked.
+
+They’d spent a few hours together last night, quietly taking care of their own separate work. That had been a comfortable change of pace from most of their previous visits. Companionable studying, without either of them needing to explain difficult personal matters or worrying about how they were conveying complex subjects to a person with an alien background. Stuart had been catching up on schoolwork he’d missed due to votary duties. Alden had reviewed the instruction manual for the lab car and made a tentative plan for one of his nightmare bokabv kills.
+
+This one was the high-preparation scenario in which he would lure the demon into a trap. When he’d thought of questions about the mechanics of the plan, he’d kept them to himself out of a desire not to break the mood of their study session. He could wait. Stuart was willing to be used as a sounding board and source of information, but it was too easy to spend hours doing nothing but using the knowledge in his head and the resources he could provide.
+
+He’d been busy practicing a spell that joined pieces of stone together, and he’d seemed to be enjoying it.
+
+“It is early,” he said after Alden had climbed out of bed and accepted the cup of grain tea from him. “I’m sorry to wake you, but something I was trying to make available to you has been made available in a less convenient way than I wanted. So we have to go take care of it now.”
+
+Stuart was wearing a tannish-brown turtleneck sweater and matching pants. He had two modes of dress that Alden thought of as normal for him—his black LeafSong student wizard uniform, plus or minus layers, and the tunics with embroidered belts. This was more casual than either.
+
+“What are we doing?”
+
+“Going to see a bokabv.”
+
+Alden paused with the cup just shy of his mouth. “Really?”
+
+“It will be good for you to be in the presence of one and experience it with your senses.”
+
+“What should I wear?”
+
+“Whatever you can comfortably dress yourself in quickly,” said Stuart. “If we leave now, I hope we will be able to spend time with the animal without encountering anyone else.”
+
+Hope to see nobody, might see somebody,…petting zoo experience? That combo hadn’t been covered by Tuck and Yinuo.
+
+“All right.” Alden took a sip of the tea. There was a piece of peel floating in it. “I’ll be quick. Thank you for taking the oranges to the house.”
+
+He glanced toward the corner where the three large bags had been when he went to sleep last night. It was now empty.
+
+Alden had brought the oranges as a gift to the siblinghold residents and a buffer for the fruit baskets he’d made for Stuart and Emban-art’h so that they wouldn’t have to share. Everyone gets an orange, Emban-art’h gets her own bananas, and nobody asks Stuart for a taste of his personal supply.
+
+That was the plan anyway. Last night, though, Stuart had been in a punitive frame of mind toward his parents, so Alden and the oranges had come straight here.
+
+I’m sure the art’hs were all utterly devastated not to be graced with my awkward human presence.
+
+“You didn’t eat them all yourself, did you?”
+
+“I put them on the gifts to the house table!”
+
+“I hope they like them as much as you do,” said Alden. “Give me a moment to get ready.”
+
+Only a few minutes later, they were headed toward the summonarium, the sound of their boots muffled by damp leaves. Alden wore the purple-brown shirt he’d arrived in yesterday. He’d opted to carry a pezyva in his messenger bag, in case they did run into someone who needed to see the commendation.
+
+“Where are we going to meet the bokabv?”
+
+“Rel had it delivered to the school,” Stuart said in a tone that would have been worthy of announcing that his brother had had the animal shipped to the heart of a swamp infested with leeches.
+
+“The Rapport School?” Alden asked.
+
+“Yes.”
+
+“Do you not like it?”
+
+“It’s a wonderful school that provides an unmatched education. I do like it.”
+
+“Oh. Good.” But you definitely don’t like something about this, he thought.
+
+“The Rapport I campus is near enough that I walked to it on a few occasions with others,” said Stuart. “We started at the en household and traveled a whole day’s light to reach Root.”
+
+“Root?”
+
+“That’s what the town is called. The school isn’t far from there.”
+
+“Rapport I has towns?”
+
+“Only one. This is the largest of the rapports but not the most populated.”
+
+They’d reached the summonarium. On a whim, Alden held his breath. By the time he had to draw in another, they had arrived in a new location.
+
+******
+
+******
+
+“This is the best summonarium I’ve ever been in.”
+
+“I thought you liked the Sky Chamber in Vethedya. I’ve been feeling <<sorrow at a small failing>> for not letting you enjoy it on the way to Healer Yenu’s. And then on the way back you were <<addled>>.”
+
+“She said I was fine!” Alden protested before bending over to get a closer look at a description painted in dark pink on the floor. It was beside the circle of logograms and unrecognizable symbols the two of them had just arrived in, and his translation flash cards were helping him read it.
+
+“This is for sending and receiving people of the Triplanets and people of the worlds that speak of our existence and hear us speak of theirs in reply,” it said.
+
+He walked over to a more squarish patch of symbols, and he read the pink explanation nearby to see that this one was best suited for sending objects. The summonarium, which was large but still much smaller than the ones at the siblinghold and LeafSong, was full of many other informative delights—the names and origins of all the materials used to craft the room, a colorful map of the building they were in and the surrounding grounds, a sign hanging from the ceiling overhead that said, “Give proper greetings to Declared Stu-art’h and Avowed Alden of Earth.”
+
+The sign faced a wall lined with windows and short, cushioned benches.
+
+“That’s where young students sit to wait for their turn to leave, or to listen to instructors explaining how summonariums function,” said Stuart, tilting his head. “I haven’t personally seen others, but I think it’s normal for summonariums in first schools to look similar to this one.”
+
+“We’re in a first school,” said Alden. Like Gwen-lor’s!
+
+“The school here is for all ages. It provides a proper education until a student is ready to apply to a university. Classes for adults are held here as well, by request, but those are just as often conducted at someone’s home. It depends on what facilities are needed and what everyone is in the mood for.”
+
+Despite his willingness to explain, Stuart seemed antsy, so Alden quit reading all the helpful descriptions and followed him out of one of the room’s two exits.
+
+It led them outdoors to a large patio tiled with rough stone and enclosed on three sides. Behind them, the building rose three floors to a flat rooftop with a railing, and then a bit further back, it rose several stories more in two squat, domed towers that blotted out the stars. To their right, a wing of the school took the form of a similarly shaped tower, almost as wide as it was tall, with windows—most of them dark—looking down on the courtyard where the two of them stood.
+
+“The student house for those who stay on campus,” Stuart murmured, taking in the direction of Alden’s gaze. “And those are the roots of an <<unyielding>> tree that grows farther up.”
+
+He nodded toward the third wall of the courtyard, straight ahead, which looked like packed dirt that had been pierced and latticed with roots. A person could have climbed it easily and found themselves standing on sloping, forested ground.
+
+The same trees that stood around the siblinghold towered here, their height made even more startling by the fact that Alden and Stuart seemed to be at the foot of a hill. Or so Alden assumed until Stuart led him out of the courtyard to a staircase set into the hillside, and he discovered that they were actually quite far uphill from the perspective of someone arriving on the other side of the building. The school had been built partway up a large slope.
+
+As they walked down the stairs, each step lit itself for them when they approached, then dimmed when they left it behind. To their left, the smooth, dark wall of the building grew taller.
+
+Before they reached the staircase’s end, they turned aside and passed in front of the school, crossing a leveled front lawn to reach a circular patch of bare soil. An animal stood in the middle of it making snuffling sounds as it walked around a twig that had been shoved into the ground.
+
+Something that looked like a shiny coffee can was waiting at the edge of the bare area. While Stuart bent to pick it up, Alden stared at the bokabv.
+
+That is one big, bioluminescent bison.
+
+He had looked at pictures of bokabvs when they’d picked the animal as his probable demon. He knew it was supposed to be a simple creature that minded its own business and ate plants and grubs. So he felt ridiculous when the first thought that crossed his mind, after wondering why nobody had tethered it or fenced it in, was that it didn’t look very evil.
+
+He wouldn’t go so far as to say it didn’t have an intimidating air about it; size alone gave it that. But it looked a little funny and friendly when it acknowledged their arrival by turning to face them. The bokabv’s head was more aardvarkish than bovine, with a mouth full of flat teeth and glowing blue drool that Alden got a good look at as it yawned then went back to sniffing around its twig.
+
+Maybe that wasn’t a yawn. Could’ve been a threat or a hello. Who knows how bokabv do it?
+
+The shine of the animal’s body was faint compared to the light show in its mouth, but it was definitely glowing. Freshly licked fur.
+
+Over the past week, he had learned way too many fun facts about a relatively obscure alien animal.
+
+A whoosh sound accompanied the opening of Stuart’s coffee can. Alden looked over to see him scooping out a fistful of something pale that flowed through his fingers like sand.
+
+“Is that food for it?”
+
+“No. It’s grass seed,” said Stuart. “I told Rel I was going to take you to a village full of <<ascetics>> to see their bokabv herd, and he said that sounded <<alarming>> for you and the ascetics. So I was going to have one the ascetics’ bokabvs teleported to the siblinghold, and he said that sounded alarming for the bokabv. Then he offered to take care of it for me because I told him you needed one for your pursuit of healing.”
+
+Alden hoped Stuart had explained a little more than that. Hearing that the human needed to have a meeting with a bisonvark for his mental wellbeing wouldn’t convince Rel-art’h of Alden’s normalcy.
+
+Stuart made an annoyed hiss-click sound. “This morning I was awakened by a message from him telling me he had obtained this pregnant bokabv and that he expected me to come by and plant grass for her and accelerate its growth. So that the students will be able to watch her birth her child in a setting that resembles her natural one.
+
+“She’s an educational animal, so she’s used to strangers. You can go closer to her. But don’t touch her interesting stick.”
+
+Alden had a lot of questions and comments. He started with the easiest. “You mean the stick in the ground beside her, don’t you?”
+
+“Yes. That’s hers. It should be enchanted to provide her with comfort and entertainment when she travels.”
+
+Bokabv pacifier. Okay.
+
+Alden took a few cautious steps toward his unexpected educational experience, then stopped. The bokabv might not have had fangs or an aura of corruption about her, but she was still big enough to head-butt him back to the siblinghold or stomp him into an early grave.
+
+“Hello,” he said. “You’re a good bokabv. The best.”
+
+“You have never seen another one,” Stuart said from behind him.
+
+“Congratulations on the baby bokabv. Do you mind if I come a little closer?”
+
+“She doesn’t. Look at her behavior. She is content with her interesting stick and whatever she just dug up with her snout.”
+
+“Stuart, the bokabv and I are getting to know each other. Plant your seeds.”
+
+Alden had taken just one more step when the sound of Stuart casting made him look back. The spell was unusually conversational, and he thought a couple of the words sounded familiar. The System was even translating it.
+
+A spell chant containing lots of clear language wasn’t common in Alden’s limited experience. Symbolic sound, spell-only strings of noise…Porti-loth’s hooting while he was healing Zeridee-und’h must have had meaning, but it wasn’t words.
+
+Yet, here Stuart was, telling the seeds in his hand about other seeds that had been carried by wind and various animals to find fertile ground in this land over the ages. Then he said, <<By my blood!>> and tossed them over the soil.
+
+Alden sensed a presence around himself for a moment—not touching him, not about him, but definitely asserting something strongly in his vicinity. It was hard to tell in the dark, but he had the feeling that Stuart’s handful of seeds had been dispersed more evenly than the throw would have done on its own.
+
+Stuart threw another fistful quickly, and this time, paying more attention, Alden noticed that some of the tiny seeds landed on him. He managed to catch one against his cheek, and he held it in his hand for a second as it slid for the gap between his index and middle fingers and then fell through, aiming itself for the dirt.
+
+Stuart closed the canister.
+
+“Did you finish your grass planting that fast?” Alden asked.
+
+“Sowing on prepared ground shouldn’t take any wizard my age long, unless <<conditions>> are strange. I have a strong advantage on this land because my family has lived here for many generations, but a member of the wizard class has to be able to provide food and protection from weather, pest, and infection to enter a university. Schools have different ways of deciding you’ve satisfied that requirement, but knowing spells for planting and keeping fields are commonly among them.”
+
+He set the container down, and walked toward Alden and the bokabv. “Accelerating growth or growing food out of its season is more difficult. But this grass grows quickly anyway, and it’s for demonstration, so it doesn’t have to thrive here. It will be removed when she leaves.”
+
+Alden watched him stride confidently toward the animal. “Do I have your permission to use my skill on you if she attacks you?”
+
+“That’s not going to happen.”
+
+“At least let the Contract send you to a House of Healing this time instead of bleeding all over the grass seeds while I fight her to get your arm back.”
+
+The hand Stuart was stretching toward the bokabv didn’t stop moving, but he did say, “I was going to cast pleasant spells at you later to test your skill, but I think I should pick less pleasant ones.”
+
+He placed a hand against a glowing haunch. “Come here. How do you expect to end the demon in your dream if you won’t pet a <<docile>> animal?”
+
+“With a shield and possibly explosives,” said Alden, approaching. “I was trying not to make her nervous. I doubt she’s ever met a human before. You were worried about that when you introduced me to Other Alden, remember?”
+
+He stopped beside Stuart, and the bokabv only gave him a curious turn of the head when he reached out to touch her coarse fur. It was matted and crunchy instead of damp like he’d been expecting.
+
+So the glow lasts even when the drool dries.
+
+“Hi,” he said, patting her a few times. She had a smell. It wasn’t a powerful odor, but the funky, sweetish scent with blue cheese undertones didn’t encourage him to bury his face in her fur.
+
+He walked around her for a while, trying to focus on the experience of being near her. Stuart said having real memories would make Yenu-pezth’s job easier when they built the dreams.
+
+I’ll reframe the situation and realize the nightmare is over. I’ll realize I’m strong enough to take action and change the outcome if it were to happen again.
+
+Really realizing it instead of just comprehending it in a factual way—that was the goal.
+
+Eventually, when he was satisfied that Mrs. Bokabv truly liked his company and had peaceful intentions, he squatted in front of her and looked up, getting a sense for how big she was compared to him. A few steps away, Stuart was using his auriad, doing something to increase moisture content in the dirt. The bokabv stomped toward Alden, probably wondering why the visitor who’d been massaging her and talking to her had suddenly stopped and gotten lower to the ground.
+
+Alden leaned back just in time to avoid a rope of glowing slobber. Her snout, covered in dirt, came toward his face. He barely managed to divert it with one hand and catch himself with the other before he could be fully knocked onto his back.
+
+“I’m not dressed for wallowing on the ground,” he told her in English.“Good girl. Let me up. Come on. Let me stand up. Please?”
+
+He managed it without getting filthy, no thanks to the bokabv, who had clearly decided that his face would be improved if her snout and tongue were in contact with it.
+
+“Instinct,” Stuart said, finishing up with his auriad and coming back over to watch Alden with the bokabv. “You were short and by her side, and you must have looked like you needed to have your fur washed.”
+
+“I’m not a little bokabv,” Alden said, rubbing her shoulder. “Sorry.”
+
+“It would be reasonable to imagine a demon that was once as she is now being directed by similar instincts—to protect the young, to be closer to them, to separate them from danger.”
+
+Parental instinct.
+
+Alden’s hand paused on the warm fur. “I know you told me how demons like that can behave…how they’re what they were in some ways and changed in others. I understand. I’ve even been planning with that in my thoughts. But when I imagine myself back on Thegund, trying to protect myself and Kibby from one, and I think of what would happen if I failed…they’re more like monsters.”
+
+“In your dreams, they’ll be whatever you and Healer Yenu choose. If you think it is more soothing for your sleep and your mind to kill a demon sharpened by rage and <<aggression>> toward you, then you should do that. You don’t have to <<complicate toward perfection>> in this matter. You are in search of healing, not a future like mine.”
+
+A future like his.
+
+Going to places worse than Thegund. Fighting there against chaos and the broken creatures it made. Dying there, likely, so far from home.
+
+How many people would search for a life like that unless they were ignorant about how bad it could really be…or invested on the familial level?
+
+Some, I guess. Not many, I bet.
+
+“I want to think about it the right way, and I am an Avowed. So meeting demons is always a possibility.”
+
+“You are someone who will not turn your eyes from the chance that danger may find your world.” Stuart sounded so satisfied about that. “One who <<readies>> himself for storms under skies that rarely hold clouds. Earth is fortunate to have you.”
+
+Alden blinked at him. Giving me praise so grand that it induces vague feelings of distress about my obligation to my species is so on-brand for him.
+
+“You do remember that I was going to take the flyer off of Earth and save myself? Before the situation with Zeridee-und’h happened?”
+
+“I won’t forget the story of your recent trial. I have contemplated it several times already.”
+
+That was concerning in its own way.
+
+“You should leave when leaving is suggested in a situation like that,” Stuart said. “If a world is lost, what good would come of being lost with it? You prepare yourself for terrible outcomes that aren’t hopeless.”
+
+“I was thinking more about how I might eventually be summoned somewhere to fight demons than about Earth being…lightly?…corrupted and me needing to fight them there. But yes. Being prepared is good even if I’m not searching for a future on the path of highest intensity.”
+
+“I think you mean ‘onus’.”
+
+No, I’m pretty sure I said it right, Alden thought.
+
+They pet the bokabv in silence for a while longer, until Alden was surprised by a sudden brightness. Stuart’s pale auriad was laced through the fingers of one hand, a diffuse golden light shining from…
+
+Is that a modified version of the symbol of the lantern from my book? Can I ask him if it is without it being way too suspic—?
+
+“Alden,” said Stuart, drawing his hand back a little, which made Alden realize he’d been leaning closer to get a better look, “nobody should summon you to end a demon.”
+
+He was frowning.
+
+Alden suddenly noticed how odd the Artonan’s timing was for bringing out the light spell. They’d been operating by bokabv glow since they’d arrived here, and now the sky was lightening as sunrise approached.
+
+“I think you would have difficulty finding a wizard who would let you kill a demon strong enough to be hazardous to you,” Stuart added.
+
+“That sounds like an exaggeration,” said Alden.
+
+“Your skill is lovely. I know you’re striving to better it in ways that will make you a more competent protector. But you aren’t as <<well-gifted>> for fighting demons as many other Avowed.”
+
+Not right now maybe. Not if you look at the profile that isn’t true.
+
+“Your father said I was very whole and implied I would spend some time doing scary things in the future.”
+
+Slowly, Stuart said, “How…scary did you think it was going to be?”
+
+Alden shrugged. “I don’t know.”
+
+Now, thanks to her, he knew Jeneth-art’h wasn’t imagining him as some kind of super warrior who would get fired out of a cannon toward the nearest chaotic entity. But he couldn’t say that his anxieties about being useful enough to warrant the Primary’s interest in the first place had disappeared.
+
+“I’m not sure how to answer your fears if you don’t tell me what they are,” Stuart said.
+
+“I’m not going to tell you all of my fears right now. Let’s enjoy the morning with our bokabv.”
+
+“But some of your worries are probably my fault.”
+
+“They aren’t.”
+
+“Father wouldn’t summon you to fight a demon. He can do that himself.”
+
+“I know.”
+
+“You were very remarkable when you held me with your skill. I believe you have prodigious natural gifts that could help you to excel beyond the usual for an Avowed. If that is true, then one day, when you are older, you could assist newling squads.”
+
+Alden had been on the verge of a snippy insistence that Stuart drop it and focus on something else, but hearing, “I felt your being, and it took me half a second to decide you were a prodigy,” followed by, “And so maybe when you’re thirty, adolescent knights might find you useful enough to have along,” was distracting him.
+
+He wasn’t offended or relieved. He wasn’t even surprised, since he was getting confirmation of what he’d already mostly known. He was just digesting it all.
+
+Too slowly for Stuart, as it turned out. He thrust the hand holding the auriad toward Alden’s face again to get a better look at him.
+
+“And,” he said, “working with knights would ensure that your gifts did not <<languish>> or your growth stall. Noting your potential and deciding not to let it be wasted is a desire <<in opposition>> to sending you to battle something beyond you.”
+
+Alden squinted against the light, and Stuart dimmed it.
+
+“I didn’t think your father was someone who threw Ryeh-b’ts at demons to see what happened.” I kind of worried it a few times, but I never thought it was the most probable thing. “But I still have to live with the fact that not every summoner will be nice or worried for my safety.”
+
+He rubbed the bokabv again. “So…just in case.”
+
+Stuart was staring. It was the variety of Stu-stare that looked like it had volumes of thought behind it. Probably a hundred new notes were being added to his mental profile of Alden to be contemplated later, hopefully not with the help of Earth’s internet.
+
+“Don’t think about it so seriously,” said Alden. “We’re having an easy morning with each other and the—”
+
+“We should talk about this until I fully comprehend and appreciate your concerns. And then I will help you with them.”
+
+“I would rather focus on sorting my thoughts about demons.”
+
+Alden could tell from Stuart’s determined expression that the can of worms that had been opened wasn’t going to be shut again until every wiggling problem had been pulled out and dissected. Gone were the days of them avoiding awkward topics, apparently, unless those topics were off-limits due to Stuart’s oaths and sense of duty.
+
+He looked around for some kind of distraction so that he could have his Intensity Level 4 morning back. At least until sunrise. He just wanted time to figure out how to talk about his thoughts regarding summoning without outright lying to Stuart or leading him toward bigger questions.
+
+Lights? People.
+
+Over Stuart’s shoulder, across the grounds, a line of lights had appeared on the staircase. They partially illuminated the shapes of those who carried them as they headed slowly down in single file.
+
+“Stuart, there are some peop—”
+
+“Even irresponsible or <<despicable>> wizards will have care for your safety from now on. Excessive care in some cases, I expect. I have wondered if it might not annoy you in the future to be <<deprived>> of challenges that are a match for your courage.”
+
+Alden looked back at him. “You’re worried I won’t have opportunities for courage during future summonses?”
+
+“Some wizards don’t have a proper sense of responsibility toward those who work for them, but most of them do care about their own reputations and what offending my family would cost them. It would be very stupid for anyone to ask you to complete a task inappropriate for your abilities and the Ryeh-b’t class. The <<scrutiny>> if you ever formally complain about an assignment, or if you’re badly injured, will be so zealous that all but the most powerful would struggle to survive it with their summoning rights intact.” Stuart took a breath. “The Contracts may still select you for emergency summonses, but I do not like to imagine a day when the emergency is a demon on a world with a Contract and you are the best remaining Avowed for that task.”
+
+Alden was suddenly less interested in changing the subject. “Do you really expect my future to be all boring, safe Ryeh-b’t duties?”
+
+He didn’t know why it sounded more likely coming out of Stuart’s mouth than it did when his own thoughts circled the possibility. He’d tried so many times to convince himself that not running afoul of death and danger was also a potential future for him, but believing he could really have it…
+
+“I think when you want battle outside of your dreams, you will have to rely on your school. Or you will have to tell me or another knight. Someone who won’t be afraid of my family.”
+
+“When I do?”
+
+“I mean to say, ‘If you do’. Of course. You are smiling! I’ve made you feel relieved?”
+
+“You have. Also, there are people over there.”
+
+“We should speak more of this if it relieves you! And I should tell you that the actions of Worli…people?” Stuart’s eyes widened. He jerked his head around to see the approaching line of people with their lights.
+
+“Quickly!” he hissed, dropping his own light spell and reaching for Alden’s arm. “We will hide in the woods until they have passed, then run as fast as we can to the summonarium!”
+
+Alden stopped petting the bokabv. “What? We’re going to run away from them?”
+
+“Yes! Unless…” His face fell. He turned slowly toward the bokabv’s head. “Noh-en.”
+
+An Artonan girl appeared. One of her hands, covered in rings, was gently stroking the bokabv’s snout, while the other was by her side, flicking through the gestures of a spell.
+
+“Hello, Stu,” she said. “I’m happy to see you and very surprised you didn’t notice me until now. Please introduce me properly to your companion.”
+
+******

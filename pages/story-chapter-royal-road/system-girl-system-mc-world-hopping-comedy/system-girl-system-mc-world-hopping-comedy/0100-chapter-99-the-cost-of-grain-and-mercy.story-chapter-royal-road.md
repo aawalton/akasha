@@ -1,0 +1,115 @@
+---
+id: 20ee40fc-9e87-5503-b2b2-f274da2604e5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 99: The Cost of Grain and Mercy"
+slug: 0100-chapter-99-the-cost-of-grain-and-mercy
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 100
+ownLength: 1947
+unit: words
+publishedAt: 2026-08-24
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3857642/chapter-99-the-cost-of-grain-and-mercy"
+royalRoadId: "3857642"
+---
+
+Lord Greenwood fumed in the carriage during the ride back to his estate.
+
+His head butler, riding with him, was trying to make himself as small as physically possible. The man was actively attempting to squish himself between the velvet curtains, trying to look like a part of the upholstery. It was a survival tactic. Even though Greenwood preferred to take his frustrations out on young elven maids when he was truly angry, a human butler would do just fine in a pinch. He had the power and influence to sweep the death of one or two contracted servants under the rug with a hefty bribe to the local magistrate.
+
+The butler was just praying his lord's mumbling and increasingly violent internal monologue would hold out until they arrived at the estate. He desperately needed to find one of the slaves before his own head was put on the chopping block.
+
+Greenwood grumbled to the empty air, spittle flying from his lips.
+
+"What does that puppet of a King think he... he... has done... to attack me?" Greenwood snarled, gripping the silver handle of his cane. "Me! A core member of the Old Circle! I'll show him. I think it's time to do away with that fool of a King who doesn't even know who his true master is."
+
+The carriage finally rattled to a halt at the estate gates. Widespread panic gripped the courtyard. A huge, frantic group of Greenwood's underlings, logistics managers, and merchants were crowding around the iron gates, demanding to meet the Lord. This was unprecedented.
+
+Greenwood, already in a foul mood from the disastrous royal inspection, glared out the window. He ordered the butler to go see what the rabble wanted.
+
+The butler, seeing his opportunity to escape the claustrophobic death trap of the carriage, bolted out into the open air. He finally felt as if his soul had returned to his body. He took a brief moment to tidy up his disheveled appearance, smoothing his lapels, and approached the horde of merchants working for the Greenwood family.
+
+Upon seeing the head butler, the crowd swarmed him. They were all talking and shouting over each other. The butler couldn't make heads or tails of anything. Things were getting frantic. They began pushing and pulling, shoving ledgers in his face. At one point, several desperate men grabbed onto the butler's coat, violently pulling him from all sides. His immaculate appearance was slowly becoming more and more disgruntled, a button popping off his vest.
+
+Greenwood lost his patience. He swung the carriage doors open, stepping out onto the cobblestones.
+
+"What is wrong with you mangy mongrels!" Greenwood shouted, his voice cracking like a whip. "Disappear from my sight immediately, or all of you lose your rights to sell my goods!"
+
+The bickering crowd was silenced. They were stunned for a moment. They looked at Greenwood as if he were a complete buffoon who had lost his grip on reality.
+
+One of the merchants, a man with a heavy ledger under his arm, stepped forward. He looked directly at Greenwood, dropping the usual deference.
+
+"My Lord, with all due respect, are you aware of what has been going on in the nation these past three days?" The merchant demanded. "You raised prices. You reduced supplies, telling us there are no goods to be had."
+
+Another merchant chimed in, pointing an angry finger. "We told the people of the shortage! They bought the limited goods with exorbitant silver!"
+
+Greenwood snapped, stepping off the carriage steps. "So what is the problem? Are you all here begging for more goods? There are no more goods! Scram! There is a nationwide shortage. I have nothing to give to you greedy mutts."
+
+The first merchant was about to lose his patience entirely. "Everything was as you said until the spice merchants set up their stalls. But this time, their stalls were full of grain and flour."
+
+The merchant slammed his ledger against his leg. "We bought a sack of flour from you for eight silver, whereas just last month it was five! We were selling it for one or two copper extra, making meager, pathetic profits. But the spice merchants had absolute supply. They were selling a premium sack for only three silver! People could even haggle the price down by five coppers! There was outrage in the markets about the price of our goods!"
+
+The man pointed a deeply accusatory finger at Greenwood's chest. "This is the story throughout the entire kingdom. They are selling goods at a fraction of the price we are buying for! Where is this so-called goods shortage you spoke of?"
+
+The merchant took off his hat and threw it violently at Greenwood's feet. "I quit your association. You don't need to kick me out. I am joining the spice association. It's clear you are a delusional man with absolutely no idea of the current market."
+
+One by one, the merchants turned and left. It was a catastrophe. All of Greenwood's supply chain was lost in a single day. He was yet to figure out where the spice traders got such abundant goods, and at such ridiculously low costs. He was certain he had bought up all the grain in the region. It was all under tight lock and key in his silos. How did this happen?
+
+Greenwood stumbled forward, grabbing his disgruntled, tattered butler by the neck. The man already looked like a street beggar at this point, his uniform torn.
+
+"You have ten minutes to figure out what is going on here, or else I'll have your life!" Greenwood roared, shaking the man. He let go of the butler and stumbled forward, sitting down heavily on the bottom step of his mansion.
+
+This was the first time he had ever slumped here. Never in his entire life had he fallen this low.
+
+This was bad. If things progressed as they were, and he lost all of his supply lines, he was finished. The rest of the members of the Old Circle wouldn't hesitate for a single moment to cannibalize him. They were sharks, and there was blood in the water.
+
+While the butler was frantically searching for details among the lingering crowd, Greenwood began to formulate a desperate plan.
+
+First of all, who gave the spice merchants the courage to go against me? Greenwood fumed internally. I'll deal with them later. One at a time. First, I need to release the goods I have hoarded up and sell at lower costs to compete. I will have to eat up a huge chunk of the loss.
+
+Greenwood grumbled, rubbing his aching temples. Then it hit him.
+
+"I still have to pay that stupid fine," he whispered, remembering the King's decree. Three elven villages. Three times the tax rate.
+
+He began laughing maniacally, staring at his boots. "I may actually need to sell my elven villages to weather this storm." He clenched his fist so hard his nails dug deep into his own flesh. The sharp pain grounded him to reality.
+
+He said to the empty courtyard, "So be it. I'll cut off an arm to survive. But mark my words. I will find out who did this, and I will have my retribution."
+
+He waited by the grand doors. He waited, trying to figure out where these goods came from, when he saw his butler run into the estate. The butler was carrying a small burlap bag. He was a whole twenty minutes late. The man was panting heavily.
+
+The butler gulped, clearly struggling to breathe and talk due to being terrified and parched.
+
+"I ran to the market to find out from the actual source," the butler wheezed. "It is exactly as the merchants said. The stalls are full of wheat, barley, oats, and rye. And they are selling at absurdly low prices."
+
+The butler gulped again, wiping sweat from his eyes. "They are also selling fresh bread for dirt cheap. I bought this bag for only five copper. The shopkeeper was asking seven, but seeing my appearance, he gave it to me for five."
+
+The butler, with violently trembling hands, showed Lord Greenwood the small five-kilogram bag of barley. The crest of House Fenris was clearly visible, stamped proudly in dark ink on the burlap.
+
+There was no mistaking it. All of this was a well-orchestrated play by Ren, and Greenwood had been played for an absolute fool. He should have realized when the goods showed up in the spice merchants' shops. The Fenris family had ties with them. It was all making terrible sense now.
+
+Greenwood looked at his butler, his eyes completely hollow.
+
+"Send a maid to my study this instant," Greenwood ordered, his voice dead. "I don't care who. Send someone."
+
+The Lord turned and walked slowly into the estate, dragging his feet.
+
+The butler stood in the courtyard, trembling. He looked around wildly. He saw a maid carrying a basket of fresh linens inside, having just pulled them from the drying lines in the sun.
+
+The maid's name was Laurana. This was the same girl who had been forced to clean up the remains of her friend from the floor just weeks ago. She was still struggling to accept that reality. She wasn't eating properly. Her eyes were sunken slightly into her skull, and she had lost a noticeable amount of weight.
+
+With her was her younger sister, Larena. Larena had arrived at the estate only two days ago. Her presence here just deepened Laurana's dread. The absolute last thing she wanted was her sister here, facing the possibility of suffering the exact same fate as her dear friend. The last time she saw Larena, she was a baby. Now she was barely twelve, forced into this palace of all places. There was no joy in the reunion, but the little girl was happy reuniting with her older sister and clung to her like glue.
+
+The maid noticed a haggard figure limping toward them. The butler arrived, looking at the two girls. Laurana was looking slightly pale, malnourished, and unhealthy. But the little girl next to her seemed vibrant and lively, untouched by the horrors of the estate.
+
+The butler grabbed Larena by the arm. "Come with me. You need to go to the Lord's study."
+
+Laurana's heart jumped straight up into her throat. She dropped her laundry basket. The clean sheets spilled onto the dirty stones. She stumbled down, grabbing onto the muddy boots of the haggard butler, begging frantically.
+
+"Please, sir... Please, take me instead, please," Laurana sobbed, tears dripping down her face. Her grip on his boots was iron-tight. "My sister is only twelve. She doesn't know how to serve him. Please, sir, have some mercy. Take me... please..."
+
+Even the butler hesitated. He looked down at the weeping girl, feeling totally helpless in this moment. He was a cog in a vicious machine. They were all helpless. But he could grant this girl's wish. It cost him nothing, and it might buy him a sliver of peace in whatever hell awaited him.
+
+He let go of the little girl's arm. Larena stumbled back, her eyes wide with uncomprehending fear, clutching the fabric of her sister's skirt.
+
+The butler looked at Laurana. "Come with me. We don't have time for farewells. The Lord is in a wretched mood. If we don't hurry, he may ask for a second."
+
+Laurana didn't hesitate. She didn't look back at her sister. She didn't want Larena to see the absolute terror in her eyes. She stood up, her knees shaking, and rushed blindly into the jaws of death, walking toward the study doors not hesitating for a single moment.

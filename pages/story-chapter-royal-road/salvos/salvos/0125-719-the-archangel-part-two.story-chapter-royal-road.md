@@ -1,0 +1,193 @@
+---
+id: ac63a2cf-c70a-5102-8b6a-7bb1892ff521
+page-type-slug: story-chapter-royal-road
+title: "719. The Archangel Part Two"
+slug: 0125-719-the-archangel-part-two
+partOf: salvos
+position: 125
+ownLength: 1423
+unit: words
+publishedAt: 2024-11-03
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1882642/719-the-archangel-part-two"
+royalRoadId: "1882642"
+---
+
+719. The Archangel Part Two
+
+[-̸͙̍̀͠-̴̛̠͊̀͝-̵̪̱̼͑-̶̰͎͙̉̆͝ Heavenspace - Lvl. -̸͙̍̀͠-̴̛̠͊̀͝-̵̪̱̼͑-̶̰͎͙̉̆͝ ]
+
+Edithe’s eyes grew wide at what she saw. She could hardly process it. And that was not because of a lack of trying on her part. No matter how she looked— how she squinted or tried to perceive the corruption, her mind refused to fully comprehend it.
+
+Instead, she saw the smudge of multi-colored lights— she watched as space itself distorted around a core at the very center of this entity. Chunks of rock and rubble were drawn up to it like it was a rift, but they disappeared upon entering the area of distortion surrounding the core.
+
+“This is the corruption…”
+
+Edithe whispered, watching as the entity began to crawl out of the ruins that was once the fortress. Shaking her head, she faced Willy and Centina.
+
+“This is what Salvos was talking about?”
+
+The both of them nodded back at her. Neither of them seemed to be surprised to be seeing the distortion in space, however they were clearly taken aback by the size of it.
+
+“Yes.”
+
+Centina replied as she stared at the tendrils shooting up towards the Archangel.
+
+“The corruption is a threat to the entire world. It is what made my kin flee to Secely in the first place. Even the Matriarch fears this power.”
+
+Her entire body shook as she spoke, and Edithe gritted her teeth. The redhead looked towards the Corrupted Heavenspace as she drew her lips into a thin line.
+
+“I didn’t think it was anything like… this.”
+
+It was so incomprehensible to Edithe, she didn’t even feel fear. She just felt defeated.
+
+“What can we even do against this? And why is the Archangel freeing it?”
+
+“It?”
+
+Willy scoffed when he heard that. He drew back as he looked towards the remains of the fortress.
+
+“The Archangel was not just freeing one thing, Edithe.”
+
+“What do you mean by that?”
+
+Edithe blinked, before she spotted another, smaller entity emerging from the hole in the ground. It flew out into the air as it swung its tendrils in the air, seemingly ripping apart space where it touched.
+
+And it was joined by another. And another. And another.
+
+[-̸͙̍̀͠-̴̛̠͊̀͝-̵̪̱̼͑-̶̰͎͙̉̆͝ Heavenspace - Lvl. -̸͙̍̀͠-̴̛̠͊̀͝-̵̪̱̼͑-̶̰͎͙̉̆͝ ]
+
+[-̸͙̍̀͠-̴̛̠͊̀͝-̵̪̱̼͑-̶̰͎͙̉̆͝ Heavenspace - Lvl. -̸͙̍̀͠-̴̛̠͊̀͝-̵̪̱̼͑-̶̰͎͙̉̆͝ ]
+
+[-̸͙̍̀͠-̴̛̠͊̀͝-̵̪̱̼͑-̶̰͎͙̉̆͝ Heavenspace - Lvl. -̸͙̍̀͠-̴̛̠͊̀͝-̵̪̱̼͑-̶̰͎͙̉̆͝ ]
+
+…
+
+Edithe’s head reeled at the sight, and Centina couldn’t help but back away nervously. These Corrupted Heavenspaces were far smaller in size than the first, but their focus wasn’t drawn to the Archangel. They tore apart the earth around them, targeting the sky and the dirt. And everything they touched was corrupted. Distorted. Just like them.
+
+And they weren’t alone. They were accompanied by a swarm of tiny bits of rubble that floated with the same iridescent distortion accompanying them.
+
+[-̸͙̍̀͠-̴̛̠͊̀͝-̵̪̱̼͑-̶̰͎͙̉̆͝ Aetherstone - Lvl. -̸͙̍̀͠-̴̛̠͊̀͝-̵̪̱̼͑-̶̰͎͙̉̆͝ ]
+
+[-̸͙̍̀͠-̴̛̠͊̀͝-̵̪̱̼͑-̶̰͎͙̉̆͝ Aetherstone - Lvl. -̸͙̍̀͠-̴̛̠͊̀͝-̵̪̱̼͑-̶̰͎͙̉̆͝ ]
+
+[-̸͙̍̀͠-̴̛̠͊̀͝-̵̪̱̼͑-̶̰͎͙̉̆͝ Aetherstone - Lvl. -̸͙̍̀͠-̴̛̠͊̀͝-̵̪̱̼͑-̶̰͎͙̉̆͝ ]
+
+[-̸͙̍̀͠-̴̛̠͊̀͝-̵̪̱̼͑-̶̰͎͙̉̆͝ Aetherstone - Lvl. -̸͙̍̀͠-̴̛̠͊̀͝-̵̪̱̼͑-̶̰͎͙̉̆͝ ]
+
+[-̸͙̍̀͠-̴̛̠͊̀͝-̵̪̱̼͑-̶̰͎͙̉̆͝ Aetherstone - Lvl. -̸͙̍̀͠-̴̛̠͊̀͝-̵̪̱̼͑-̶̰͎͙̉̆͝ ]
+
+[-̸͙̍̀͠-̴̛̠͊̀͝-̵̪̱̼͑-̶̰͎͙̉̆͝ Aetherstone - Lvl. -̸͙̍̀͠-̴̛̠͊̀͝-̵̪̱̼͑-̶̰͎͙̉̆͝ ]
+
+…
+
+Edithe watched as thousands of tiny corrupted entities filled the skies, flying alongside the Corrupted Heavenspace. She felt bands of fear tightening around her throat as she tried to comprehend this sight.
+
+“Just what was being kept down there?”
+
+Edithe’s breath was caught in her throat as she asked the question. And next to her, it was her former summon who answered.
+
+“The end of the world.”
+
+Druma whispered, eyeing the hole where the corruption was pouring out from.
+
+“Or one of the vents leading to the end of the world.”
+
+“What?”
+
+Edithe blinked, turning to the [Ancient Yaksha]. She didn’t understand what that was supposed to mean. But before she could question him further, she heard the Archangel’s voice sweep across the entire mountain range.
+
+“Yes. Yes! YES!”
+
+The Archangel exclaimed as it raised its sword, pointing into the distance. All around him, the corruption swarmed, destroying the landscape. Edithe had never witnessed such wanton destruction before.
+
+In mere moments, the entire flatlands had been completely overrun by the corruption. The ground had been shredded open, the sky was flipped upside down, and chunks of rock and stone floated in the air wreathed by the distortion.
+
+It was like space itself was being ripped apart all across the flatlands. And the swarm of corruption was rapidly closing in on the mountain range that Edithe, Druma, Willy, and Centina were hiding in.
+
+However, even as the sea of corruption drew closer, Edithe felt no panic in her heart. All she wondered was—
+
+“Why?”
+
+She looked up towards the Archangel. It was still being chased by the Corrupted Heavenspaces.
+
+“What does the Archangel get out of doing this?”
+
+“Does it matter?”
+
+Willy answered as he stared in the direction of the golden figure as well.
+
+“The Archangel is insane. Why does its intentions matter?”
+
+“But—”
+
+Edithe started, but she was cut off by the shouting voice of the Archangel.
+
+“Go forth! Bring the Spirit Lord’s Domain to ruin— hey, not me!”
+
+The corrupted entities swarmed around the Archangel, and it flew back, cursing.
+
+“You’re being a pain in the ass! If you keep doing this, I’ll kill you!”
+
+The Archangel said as it raised its blade made of divinity angrily back at them. But the group of Corrupted Heavenspaces chasing after it didn’t let up. The largest of them drew closer as the Archangel pointed.
+
+“I’m giving you your last warning—”
+
+But before the Archangel could even continue, a ray of iridescent light engulfed the Corrupted Heavenspace. The Archangel blinked a few times, and Edithe’s gaze snapped up.
+
+She looked in the direction of the source of the attack. And flying high in the sky were… multiple gargantuan figures. Each one was twice the size of even the largest Corrupted Heavenspace. There were a dozen of them, and they descended slowly down into the swarm of corruption.
+
+At first, when Edithe saw them, she couldn’t believe her eyes. Not because of their size, and not because of the same reason she couldn’t comprehend the Corrupted Heavenspaces. Rather, it was because of their peculiar design. She had seen plenty of Spirits during her time as a [Summoner]— especially when she had still been living at the temple with William.
+
+But she had never seen any Spirit like this.
+
+Because they were rings. Massive rings that were constructed within themselves. And they were on fire.
+
+It was like staring at giant floating wheels, lit ablaze with an iridescent flame. There were eyes interspersed across their rings, and they darted around, seeking every bit of corruption that was pouring out into the area.
+
+And from each eye, a pillar or iridescent light shot down, blasting back the Corrupted Heavenspaces. The smallest of the Corrupted Heavenspaces were instantly eradicated by the blast, but the larger ones endured the attack.
+
+Their attacks drew the attention of the corruption away from the Archangel and from destroying the landscape.
+
+Even still, the Archangel cursed as it saw the approaching wheels.
+
+“So Soli’s vanguard has shown up! Well, I don’t want to fight you! So get out of here— [Divine Retribution]!”
+
+Edithe watched as the Archangel pointed at the foremost wheel, before a golden light flashed brightly. The redhead squinted, barely making out a giant figure of the Archangel appearing behind the wheel, before slicing down with an axe.
+
+The attack looked like it struck true. An attack that could have cleaved an entire mountain range in half. But it barely even cut halfway through the wheel.
+
+Edithe watched as the wheel drew back, slightly injured from the attack, but nothing more.
+
+“What…?”
+
+She spun around, hearing the Archangel swearing in the background.
+
+“How did it survive an attack from the Archangel? That’s impossible— the Archangel is a Supreme Spirit.”
+
+“That’s right, master.”
+
+Druma nodded next to her. He stared at the injured wheel as one of the Corrupted Heavenspaces reached it, the tendrils coiling around it. Only for a blast of iridescent light to shoot out and completely obliterate the Corrupted Heavenspace.
+
+“The Archangel is a Supreme Spirit. And yet, it wasn’t able to kill that [Ophanim] in one shot. Which means…”
+
+And the realization slowly settled in
+
+“That must mean…”
+
+Edithe’s eyes grew wide. Druma nodded next to her.
+
+“They are all Supreme Spirits.”
+
+[Ophanim - Lvl. ???]
+
+[Ophanim - Lvl. ???]
+
+[Ophanim - Lvl. ???]
+
+[Ophanim - Lvl. ???]
+
+[Ophanim - Lvl. ???]
+
+…
+
+And the swarm of [Ophanims] rained down their attacks across the landscape, purging the unstoppable force of the corruption before Edithe's very eyes.

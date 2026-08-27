@@ -1,0 +1,135 @@
+---
+id: c418b4d4-ea52-548b-8340-90219314c516
+page-type-slug: story-chapter-royal-road
+title: "The Hallway, Pt. 1"
+slug: 0006-the-hallway-pt-1
+partOf: new-gam3-plus
+position: 6
+ownLength: 2421
+unit: words
+publishedAt: 2022-10-25
+link: "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/1023637/the-hallway-pt-1"
+royalRoadId: "1023637"
+---
+
+After crossing the barrier two messages appeared:
+
+You have entered a simulated zone! All damage will be simulated and not actually affect the player. No death penalties. Severe XP penalties while in the zone.
+
+Permissions: None. Basic interaction with simulated environment allowed. All damage outside the scenario is neutralized.
+
+You have been automatically entered into the Hallway scenario queue. The Hallway is a simulated practice course designed to introduce players to in-game combat. All injuries and items will reset upon exit.
+
+Results will dictate deployment opportunities, Tutorial placement, and may be observed by future commanders. Please try your best.
+
+Top scorers will be rewarded based on speed, accuracy, and other factors. If you want to leave the scenario say “exit” thrice.
+
+You will be granted two attempts at the Hallway.
+
+Position in queue: 63. Estimated wait time: 24 minutes.
+
+The room they entered could have been a hotel lobby. There were nice armchairs and a help desk of uniform employees, but there was also frenetic energy about the place—almost panic. Nervous people lined up along a series of mahogany doors on the far side of the room. Each carried a firearm, though Alan mostly saw short-barrel assault rifles, no specialized guns like sniper rifles or plasma weaponry.
+
+Other people rushed about the waiting area. There were signs above doors to a hallway that said, “Firing Range,” along with two bathrooms. Large screens were displaying what looked like sequences out of an action movie.
+
+“This is a training level, like the Pit or the Gauntlet!” Isaiah exclaimed.
+
+It was true. This was an introduction to in-game combat. The screens depicted players moving down the same cement hallway lit by sporadic lights, with a timer in the bottom right-hand corner of every screen. Open wires covered the ceiling, while doorways lined each side of the passageway like in an apartment building. It reminded Alan of the corridor from the movie Oldboy, including the hordes of generic-looking bad guys that rushed out with melee weapons. With a wince, Alan watched as some suburban housewife missed a point-blank shot and was struck in the head by a hammer.
+
+A few moments later the woman exited from one of the doors, and the queue decreased by one as the next person entered the Hallway. Similar scenes of players panicking—in combat for the first time with no training—played out across a dozen scenes.
+
+Some people were successful, but they seemed to be the exception rather than the norm. An older gentleman was slowly moving down the hallway with a handgun. Every time an enemy burst out from a room he would stop, get on one knee, line up his shot, and then fire at the center of mass. The bad guy would fall, and then he’d slowly get back up and keep walking. There was a twist, then, as a screaming woman and child burst from one of the rooms. The old man lined up a shot but didn’t take it. The unarmed pair ran past him.
+
+It appeared you couldn’t shoot at any moving target.
+
+“Remember we’re being graded on our performances,” Ivy said to her brother. “There’s a leaderboard and the fastest clear times are under five minutes with a 95% accuracy score.”
+
+Alan glanced over at the screens. On the top of the list was someone named Jackal, with a time of 4:50.08 and an accuracy of 99%.
+
+“The fastest players will be rewarded with body armor, while the most accurate will be given a weapon and ammunition,” Alan said as he read a message on the screen. “The top player at the end of testing will be rewarded with power armor, while the best marksman will get a plasma rifle.”
+
+“Awesome. But, uh, Ivy and I aren’t armed. Where’s everyone getting their guns?” Isaiah asked.
+
+Bob pointed over to the firing range. “There’s an armory over there. Let’s get you two a decent rifle and all get some practice in before we’re up. Nerves and poor aim are killing people. I don’t care about this score nonsense—focus on getting through this hallway.”
+
+They proceeded over to a counter like a prize wall from an arcade, only instead of toys on the walls it had weapons. Guns of all types were available, though mainly by western manufacturers.
+
+A sign noted in all caps: “Items gained in the scenario will disappear. There is no item checkout limit, but you will need to carry everything yourself!”
+
+Alan decided to keep his current M4 combat rifle but picked up an M9 pistol as a backup weapon. However, instead of being given the pistol he’d pointed at, the man behind the counter pushed a few items on a screen and a new weapon was printed out.
+
+Alan recognized the device that created the weapon, an Advanced Foundry. It looked like a refrigerator-sized microwave at first glance. A Foundry was capable of creating almost anything with the right materials and blueprint. Unlike 3D printers which made objects slice by slice, a Foundry reconfigured its internals into a mold to construct the item in question. They could put out practically anything: tools, weapons, armor, and even vehicle parts.
+
+The Foundry was far faster inside this simulation than it would be normally, only taking seconds to make a few 30-round 5.56mm magazines for firing practice and the pistol.
+
+“Hey, are weapons displayed here the only designs possible, or are there other options available?” Alan asked.
+
+“Nope, what you see is what you get. The UWG doesn’t have the credits for licenses for other weapons. If you have a design I can make it, but since you’re freshly digitized I know you got nothing. The only reason we have the array you see here is it’s free advertising for all of the pre-game surplus,” the man behind the counter said.
+
+“If you have the credits you will be allowed to purchase any of the weapons you see here from our stores before you officially begin the Tutorial,” he continued. “A warning though, a lot of these lightweight 5.56 mm rounds aren’t capable of piercing normal body armor at range, let alone more advanced power armor with energy shields.”
+
+Alan nodded. He continued to watch the screens trying to glean additional information from other players' attempts, letting Bob assist Isaiah, Ivy, and Charlie with their loadouts. Unfortunately, the spawning enemies didn’t seem to follow a set pattern and were instead randomly generated.
+
+The older man he’d noticed earlier was finally reaching the end of the Hallway, with a corner turn being the first Alan had seen on any of the screens. The man took the corner very carefully, and Alan soon discovered why. In the last portion of the Hallway, the enemies fired back.
+
+The timer in the corner said the old man had been in there for 20 minutes. He took out all the enemies in the final corridor, six total, and went through a door at the end with a fluorescent green exit sign above it. With the fastest time being just under five minutes, Nu estimated that the Hallway had a total length of over a mile, maybe 1700-1800 meters. Alan’s position in the queue was now 52.
+
+There’s no way you’re running a five-minute mile in your current condition, I think we need to focus on accuracy instead of speed, Nu sent.
+
+Maybe, let’s see, Alan replied. He walked over to the shooting range, taking a spot in an open lane. A lot of normal precautions and safety practices were nowhere to be seen—people weren’t worried about eye/ear protection or any of a million other things that could go wrong. Alan soon saw why as he watched a pair of young men play “tag” with handguns, firing at each other. Bullets disappeared and did nothing the moment they hit another player. That was useful in this scenario, but it was doubtlessly giving people bad habits.
+
+They’re trying to get normal people who have never fired a weapon before used to shooting at real targets, Nu sent. The UWG doesn’t have the time or ability to condition the masses: the best they can do is get people to treat it like a game so they’ll kill when needed. Shooting is all about confidence.
+
+Alan refocused on his lane. A screen on the table in front allowed him to set the target’s distance from him along with a few other details. He could reset everything with the press of a button.
+
+The target was a usual human silhouette, but the small circles with X’s in them were located at the center of the head and where the human heart was instead of in the middle of the body. Everywhere else was divided up into zones with numbers on them, which Alan assumed was the system used to calculate accuracy.
+
+When he lined up his rifle he could get a rough range of exactly where the bullets would hit if he squeezed the trigger, but it took a few seconds to run the calculations along with a few test shots. It was like there was a built-in ballistic calculator in his head. Since he knew the target was 100 yards (91 meters) distant, the specifications of his bullet, the atmospheric conditions, and the initial bullet velocity let Alan know almost exactly where his shots should land.
+
+Steady breath, adjust your stance, get used to the recoil, Nu sent. Ready, aim, fire!
+
+Alan set the M4 to semi-automatic and fired off a few rounds. His grouping wasn’t half-bad, clustered around the center of the head in the X mark. The screen on the table let him know it was a 4.8 cm group. That was good, near the range of a better marksman, but it was still human. Alan was nowhere near the level of control he’d been at before the reset. His dumb body wouldn’t stay still, his breathing was uneven, and it took him a moment to adjust after each shot. Plus his finger wasn’t used to pulling the trigger.
+
+With a sigh, Alan continued to get more practice in, also trying out the M4’s 3-round burst mode, but found it to be far too inaccurate. As it wasn’t the M4A1 the weapon didn’t have full auto capability. Luckily the shorter and lighter barrel was something of a blessing in disguise, as carrying and shooting the gun for a minute was already starting to wear on Alan’s meager strength. He should’ve worked out more.
+
+Alan set the target to various ranges, from 50-500 meters, but instead of readjusting his scope, he calculated the parabolic arcs himself, memorizing and trying to ingrain the knowledge into his mind so he could aim with naked eyesight. Instead of setting the rifle to hit a target at a specific distance, he was trying to be capable of zeroing at any distance within the rifle’s effective range with a moment’s thought. All it took was the flip of a switch in his mind and he could hit the target, though past 300 meters the weapon itself was a tad inaccurate. His own vision started to be an issue as well. He missed laser or plasma weaponry where he wouldn’t need to worry about bullet drop, only the curvature of the Earth.
+
+“That’s some damn fine shootin’ partner,” Charlie said with a slight Texas accent.
+
+Alan looked up to see the bodyguard in the shooting lane next to him. He glanced at the bodyguard’s screens. It showed a target that had been hit in the heart with almost pinpoint accuracy—an amazing result for someone using a submachine gun.
+
+“Thanks, you don’t seem too bad yourself,” Alan said. “How’d you learn to shoot?”
+
+“Handed a rifle day I turned 12. Lots of varmints to hunt n’ such on the family ranch,” Charlie said. “Not a bad way to pass an afternoon. Won a few air rifle competitions and decided to keep practicin’ with every weapon I could get my hands on. Might’ve trained for the Olympics, but then the blues invaded.”
+
+“It wasn’t the Haxlards that brought the Game, but the Administrators and the Enforcer fleet,” Alan responded. “The Haxlards just control this portion of the galaxy in-game.”
+
+“Heard you ran with a bunch of aliens before,” Charlie said. “You still friends with them?”
+
+“Why? Are you looking to be recruited into a guild? Want an introduction after your bodyguard contract?” Alan asked.
+
+“Nah.” Charlie spat on the floor. “Wouldn’t mind introducin’ them to a bit of lead though.”
+
+“Right,” Alan said. “There are multiple races and factions of aliens. Too many for us to kill and fight. These are empires spanning galaxies—Earth can’t possibly survive in the Game’s universe on its own.”
+
+“But they’re still aliens, ain’t they? Whole other culture n’ all that,” Charlie said. “We ain’t getting along with our human neighbors. You think we’ll be friends with foreign folk from other planets?”
+
+“That’s a valid point, but I think you’ll find a lot of the humanoid species to be quite similar to us. There will be challenges and plenty of enemies. Focus on protection first, not shooting first,” Alan said.
+
+Charlie shook his head. “I’d talk to Bob about that. He’s fixin’ to shoot any alien on sight.”
+
+These bodyguards may be more trouble than they’re worth, Nu sent. Not that we know what they’re being paid.
+
+Whatever. Any aliens we see on Earth will probably be enemies, and if this becomes an issue off-planet we can figure it out then. The quest is only to help Ivy and Isaiah through the Tutorial. Once that’s done we’ll see what happens, Alan thought.
+
+A new message had appeared, telling Alan that his position in the queue was now 10 and that he should make his way over to the mahogany doors.
+
+“Okay, I’ll talk to him about this later. Our first attempt at the Hallway is starting soon,” Alan said.
+
+He met up with everyone else and watched as the counter ticked down. 8th in line, now 7th. Alan felt his heart rate quicken. He took a few deep breaths, closing his eyes to calm down. But there was still that surge of adrenaline, the excitement of combat just around the corner.
+
+He noticed Bob take up a breaching position, like a federal agent about to execute a no-knock warrant. Alan imitated him, waiting for the counter to hit zero. Another player was eliminated, exiting from the door in front of him.
+
+A message appeared:
+
+Alan threw open the door and followed the message’s command.

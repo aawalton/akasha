@@ -1,0 +1,313 @@
+---
+id: 6fae6f45-be9d-51b5-b19f-20e3aa9a88b4
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED FORTY-NINE: All at Once"
+slug: 0150-one-hundred-forty-nine-all-at-once
+partOf: super-supportive
+position: 150
+ownLength: 3977
+unit: words
+publishedAt: 2024-06-17
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1680325/one-hundred-forty-nine-all-at-once"
+royalRoadId: "1680325"
+---
+
+149****
+
+Esh-erdi’s hand rested on Alden’s shoulder for a few seconds more before falling away. While the knight took his seat again, angling it for a better view of the window, Alden tried to pull his thoughts back together.
+
+“I’m—”
+
+Sorry for babbling. He’d already said that. Sorry for not being myself today. Or for showing you the parts of myself that are kind of crazy.
+
+On second thought, apologizing again when the man had said there was no need for the first one probably wasn’t the best idea. Alden had already been lightly admonished for excess humility. He was sure Esh-erdi had a painful zinger for people who kept saying “sorry” for things that weren’t really controllable.
+
+Alden was just embarrassed to have blurted out a bunch of morbid questions that showed he wasn’t as cool as he wanted to be. Uncomfortable to have shown an expert on “the way things fracture” that he wasn’t quite glued back together from the blows he’d taken before this recent one.
+
+You are frightened. Of more than seeing the body of Zeridee-und’h.
+
+“I’m very happy that the Contract is well,” he said awkwardly. “Thank you for telling me.”
+
+“I wish everyone could be comforted by such easy <<assurances>>. Is there anything else you want to ask me?”
+
+There were a thousand questions Alden wanted answered and so few he felt comfortable asking. This kind stranger had saved his life, and he could ruin it just as easily.
+
+He shifted in his seat as he thought, and he landed on the most obvious question. “The people who did this…do you know why they did it?”
+
+“I don’t,” said Esh-erdi, sweeping his braids over one shoulder before leaning into the chair’s cushioned back. “Not for certain. And whatever stories lips may shape in the coming days, no one else will be completely certain either. Unless we manage to find something new. You are, of course, aware that your Contract can know your thoughts?”
+
+Alden nodded. He was under the impression that it didn’t constantly know everything he thought, but it could know anything.
+
+“And you’re aware that your thoughts aren’t something the Contract is suppose to share?”
+
+Alden remembered his first ever chat with the blank System mannequin and its explanation about why it wouldn’t be tattling to the Artonans about the existence of the gremlin. Violation of spiritual or mental privacy incurs a debt.
+
+“Yes. I know it has rules about that. And messages sent through it are private, too.”
+
+Esh-erdi nodded once. “But if someone wanted to destroy a world, and they had the means to do so, the Contract’s silence would be more costly than breaking that rule. The same would be true if a person wanted to destroy this place. Or to murder millions on Anesidora. Avowed are usually free to act as you wish and use your powers to harm who you will…but there are limits.”
+
+Asking why the limits weren’t harsher was bound to be dissatisfying.
+
+“So it was an Avowed who planned the attack?” he asked instead.
+
+“It was an Avowed. But it seems the plan didn’t exist until almost the moment the act was begun. The Contract would have given warning sooner so that the person could have been stopped if there had been signs.”
+
+Alden watched the sun rise while he considered that. There were no clouds in the sky, and this room where he and the knight sat was high enough up that the waves appeared small.
+
+“So it was just random,” he said at last. “One human being suddenly deciding to do a bad thing.”
+
+“Does that answer <<satisfy>> your <<unquiet thoughts>>?”
+
+“I don’t know…”  He touched his good hand to the bandage on his cheek, remembering the unstoppable force of that waist-high water that had taken him off his feet the first time. In that moment, he’d been as helpless to control what was happening to him as a doll tossed into a washing machine.
+
+Esh-erdi had said Alden’s luck was bad. That he’d had the misfortune of being too close to too many of the cracks.
+
+His luck was bad, but if it had been a little worse…
+
+If I hit my head on something, if something had stabbed me in the wrong place, if I couldn’t move that weird chair off of me and I just sat there slowly freezing to death…
+
+“It feels wrong,” he said. “It feels wrong for someone to have done so much damage and hurt so many people randomly.”
+
+In some ways, it was the best possible reason. An organized group trying to destroy peace on Earth would be worse. But it still felt like one Avowed with one magical device shouldn’t have the power to ruin as much as they had.
+
+“I’m sorry I can’t give you more than this right now,” said Esh-erdi. “Your Contract is also unhappy with the answer.”
+
+Alden blinked. “But I thought the Contract was the one that provided the answer?”
+
+“It was. From the moment the trouble began, it’s been searching for other explanations and making creative decisions to supply itself with even more information. This answer is what it has for the time being. But it also <<insists>> that the Avowed involved shouldn’t have attacked this place. In its estimation, the chance of such an <<assault>> didn’t exist when the <<seafaring vessel>> carrying the <<Submerger>>  began its journey.”
+
+Alden decided he didn’t like “Submerger” as a translation for the cause of all of this. Zeridee’s “Sinker Sender” name for the magical artifact had been more explanatory.
+
+Drowner Destroyer would have been a good choice, too.
+
+If there was a mystery to be solved about why this had all happened, he’d just have to hope the System, the Artonans, and whoever they’d let help them were smart enough to do it.
+
+His thoughts were interrupted by another question from Esh-erdi. “Do you feel resentment toward the Contract or the Triplanets for not doing more for you?”
+
+“What?”
+
+“You’re hurt. You almost lost your life. It would be understandable.”
+
+The Artonan’s tone was the same interested but unconcerned one he’d used while asking his questions about the deaths of the three who’d tried to steal the flyer.
+
+Do I feel resentment? Would I have expected more if I’d imagined something like this happening?
+
+Alden had to ponder it for a minute.
+
+Melt, melt, melt, sounded more like a joke now. Sitting here in this very warm room, in the sunlight, he didn’t really think the System was out to get him. At least not when it’s having a good-to-medium day.
+
+“I don’t feel that way,” he said. “The Contract wouldn’t have saved me from an attack by another Avowed on a normal night. Unless I was fast enough to use an emergency teleport. And it must have given out thousands more teleports than usual. I got one. Before everyone else. And I was given a flyer.”
+
+He had been angry and scared so many times while it was going on, but…
+
+“The person who did this, the people who hurt Zeridee, the ones who were focused on using others—I resent them.”
+
+He had a larger list of resentments if they went back in time, but he didn’t think he was being asked to cough up all his feelings about his childhood, his affixation, and people who left scientists stranded on moons.
+
+“Your perspective is reasonable,” said Esh-erdi. “There are different perspectives that are also reasonable. Many of them have been spoken over the past day, so I was curious to hear yours.”
+
+What are the other perspectives?
+
+Alden thought of Marks. And the Long siblings. And the woman on the motorcycle. Of the Artonans who considered Avowed to be beasts of burden, those who thought they were children, and those who believed they were existential threats.
+
+The gifts from the holy universe people are too hard to imagine until I’ve met one. Maybe Lute’s boss is like that? No…that could just be the reflected glory of Alis-art’h shining on me and making him talk about spotlight organs.
+
+He glanced at his companion. Esh-erdi hadn’t moved his eyes separately once since he’d taken his hand from Alden’s shoulder. He was always looking with both of them, either at Alden or out the window. Right now, one of his fingers traced a swirl on the front of the padded armrest.
+
+This person fights demons, thought Alden. He pulled me out of the water. He and his partner are knights.
+
+I’m betting neither of them decide to become one in exchange for a System saving their asses in an emergency.
+
+Oh no…I really did that, didn’t I? I was facing down death. I made that decision. And then…
+
+He clasped his hands in his lap and sat up straighter, pretending to admire the view while in truth he was processing what he’d done, or attempted to do, for the first time since it had happened.
+
+Alden didn’t know if using the Mother privilege to ask for a favor meant he’d instantly be shoved into a uniform, made to swear oaths, and presented to the Primary with a gift bow on his head. Here, I got you a new one! He’s tall, and some of his parts are put together differently, but he’s got an auriad!
+
+But he did believe it was an agreement to gallop in that direction with little or no chance for turning back.
+
+It’s a privilege for knights. A privilege for people who are owed.
+
+Here was Esh-erdi, enjoying a break after a hard day and night of flood rescues, death investigations, and whatever else he’d been up to. Lind-otta was still out there, probably slow-mo skilling mountains of ocean into obedience.
+
+They were people who celebrated their esvulgivnas by babysitting human S-ranks and engaging in some casual demon slaughter.
+
+They were almost certainly owed.
+
+Alden wondered how many affixations Esh-erdi had been through. How many people he’d saved. How many bodies he’d seen fall.
+
+I wonder if he was around Stuart’s age when he became one. It had to be a major decision. Personal sacrifice. After all, he could have just been a wizard. Free and clear. Power without pain.
+
+He tightened his hands around each other and then stopped when it hurt the left one.
+
+I totally got rejected.
+
+Was it because they were already coming to save me? Or because my attitude wasn’t…
+
+He cut his eyes sideways to peek at the knight.
+
+If I assume he’s on par with Lind-otta then he’s massively strong. He must have been through a lot of affixations.
+
+“I’m sorry,” Alden blurted.
+
+Esh-erdi looked over at him with a head tilt. “What are you apologizing for?”
+
+Damn. That just came out. Now what?
+
+He cast around for something that wasn’t sad or weird to say and settled on being informative. “I should’ve told you, there’s so much more food downstairs in the kitchen. There’s a man who’s been cooking for a long time.”
+
+“If being in my presence makes you nervous, you don’t have to stay here,” said Esh-erdi in a neutral tone.
+
+Alden winced. “You’re not making me nervous. I’m making myself stupid with stressful thoughts.”
+
+“I doubt my questions about people who tried to kill you helped. But if that’s how it is…why don’t you pull out the task you were working on when I found you.”
+
+That particular task was so far from Alden’s mind now that it took him a few seconds to come up with what it even was. “The essay I was writing for school?”
+
+“You seemed <<well occupied>> with it before I interrupted. And it’s my intention to sit here quietly for a time. Your company isn’t required, but it would be welcome.”
+
+Alden thought writing a paper all alone in a room with the knight sounded unmanageably peculiar. He decided he’d fake it so that he wouldn’t hurt Esh-erdi’s feelings.
+
+Which is probably one of the most unnecessary things I’ve ever worried over, he thought as he pulled his tablet and stylus from his bag. Pretty sure people like this don’t get their feelings hurt by human teenagers they just met.
+
+Once he actually started working on the paper again, though, it was surprisingly easy to fall into the task.
+
+The temperature was pleasant when he was sitting still, and he’d been doing homework in a sauna lately anyway. Esh-erdi mostly sat and stared out the window, but a couple of times he left for a few minutes to do something in the adjoining rooms. When he came back from one of those absences and set a small glass of what looked like water on the table beside Alden, it didn’t feel like a strange thing to have him serving beverages.
+
+Though Alden was surprised when it turned out to be a chilled drink that was both extremely sweet and shockingly sour. Like having lemonade concentrate straight out of the canister, but a little more grapefruity.
+
+“Do you like it?” Esh-erdi asked, watching Alden’s face pucker.
+
+“I think so. It’s really good. I just wasn’t expecting it to be so strong.”
+
+“In some regions, it’s served to students while the study. Lind hasn’t ever lost affection for it.”
+
+And that was as much as either of them said for a while.
+
+******
+
+******
+
+[The human child hurt my feelings, Lind.]
+
+[He was nervous. Around me! Can you imagine?]
+
+[I’ve decided helping you is less important than winning his approval. I’m giving him your sermuntha juice while he writes about ewtwee.]
+
+[I’m reading his paper whenever he’s not paying attention. It is obvious to me that he’s never had a disagreement with a ewtwee.]
+
+[But to be more serious, I’m worried about what he's been through and his…]
+
+“Hn’tyon Lind-otta,” a voice said respectfully from behind the knight, interrupting her amusement at her partner’s rambling, "the Avowed’s skills have recovered enough for him to use the apparatus once more. Shall we wait for Hn’tyon Esh-erdi?”
+
+Lind-otta turned from her examination of a small black disc embedded into the exterior wall of a house. There were hundreds more in this wall alone, and in all the walls of all the houses facing the central square. They were hidden when not in use, according to one of the wizards who’d greeted her when she arrived a few minutes before.
+
+Talented people had been assigned to guard this area from the floods earlier, and now they guarded it from prying eyes and ears. Lind-otta could hear the strain in the voice of the woman who’d just called her attention. She needed rest.
+
+“Esh-erdi is taking care of something important,” Lind-otta said. “And I was only curious about this process since I was nearby. Please continue as you usually do.”
+
+The woman nodded, but instead of leaving right away, she stayed to offer explanations.
+
+The phones and watches being brought in by drone and deposited directly in the grass of the square had all been in use before and during the disaster.
+
+“Not all of his devices contain the keys,” she explained. “He couldn’t possibly make enough for that. But for those that do have them, he offers superior replacements to the owners in exchange for their return. The keys inside the ones that are being collected now will be fully connected to the apparatus by other Avowed soon, increasing its power and the likelihood that it will align with requests.”
+
+She gestured toward the houses and streets around them to indicate the numerous keys already embedded.
+
+“He doesn’t have the talents necessary to join the keys in this way himself, so he employs those who do. Once his skill is in use, additional recording devices capture the output for analysis. Most of the keys of eyes are to our left. Keys of voices are everywhere. There are other types, but they are few in number. Novelties or experiments for him.”
+
+A man with dark brown hair and a short beard had just exited one of houses. Despite the fact that the reports Lind-otta had glanced over said the Avowed had exhausted his skills more than once since this all began, he had an energy in his step as he strolled past the growing piles of devices and passed beneath shining, undulating strands that emerged from the top of a large jar-shaped fountain at the center of the square.
+
+“The Contract's decision to deny communication features to most people during the incident encouraged Avowed to heavily utilize these infogear devices, seeking answers about what was going on. Those conversations were recorded and are now purchasable. It also means all the keys within the devices have been better attuned to exactly the kinds of questions we want to ask at this time.”
+
+Lind-otta was watching the human press his hand to the fountain. “Is this kind of thing not illegal on Earth?”
+
+“I believe it is. But a series of loopholes on Anesidora—”
+
+“I see.” Lind-otta focused on the Avowed. She could sense one of his skills taking affect.
+
+“I should go,” the woman who’d been explaining things said with a nod. “If you stay for long enough, he will be using a second skill as well. That one may prove more useful to our search for answers in the end. The effect when applied to this many keys is impressive.”
+
+All at once, the keys activated. All at once, the square was filled with whispers that gradually grew louder. Whispers that hadn’t been recorded when the phones holding the black discs were in use.
+
+Lind-otta didn’t speak a human language, so she couldn’t understand them. But the Avowed, Elias, was targeting one word she did know. And she heard it repeated all over the square, in a thousand voices that were talking about the subject right this second, unaware that their conversations were being overheard here in this place.
+
+The same word spoken in so many different ways—fear, rage, boredom, glee—in so many different tongues all at once.
+
+Matadero, the humans said. An attack we should have known about, that my old man always said would happen, that nobody could have expected, a hoax, a sign, I told you, who cares about, I’ve always been scared of, mark my words this is only the beginning of the end at…Matadero.
+
+******
+
+******
+
+A deep, pleased noise from the back of Esh-erdi’s throat caught Alden’s attention, and he looked up from the final read-through of his paper. It was a good essay. He was going to be annoyed if the assignment was cancelled rather than just postponed.
+
+Esh-erdi was smiling, and as Alden took in the expression, he realized just how long the two of them had been together. Didn’t knights have better things to spend their time on than watching Ryeh-b’ts do their homework?
+
+Maybe this was his version of sleeping? Maybe he’s gotten so powerful that he just does downtime instead of actually going to bed. I’m not sure if that would be great or terrible.
+
+“Zeridee-und’h will survive and be well,” said Esh-erdi.
+
+Alden dropped his tablet onto his lap. “She’s out of…”
+
+“Surgery” would be the wrong word.
+
+“She’s out of the fake healing grove? The room with all the plants in it?” he asked.
+
+“If I remember that particular ritual correctly, she’s probably in the fake healing grove with everything but her nose and mouth buried in a pile of dirt. But that’s good!”
+
+Relief and excitement sent Alden to his feet before he could decide what he thought he was going to do on his feet. “Oh...I guess I shouldn’t go stare at her in her pile of dirt?”
+
+“It’s all right with me if you do, but some of the smokes in the room might have unusual effects on a human.”
+
+Alden sat back down.
+
+“I sent a message to Porti-loth,” said Esh-erdi, “suggesting that I might take you to a human Healer since he’s going to need several hours to recover. He’s trying to convince me that they’ll definitely kill you because they won’t understand what he’s already done to you. I’m sure that’s a lie.” He frowned. “What’s your preference?”
+
+Alden almost said he didn’t have one. But that wasn’t true.
+
+“I really want the gash on my hand healed as perfectly as possible,” he said. “So whatever’s best for that?”
+
+It was a little silly. He thought that even if he had a scar or some pain, his hand was still going to move well thanks to the stats. But he’d been trying for more perfection with his spell casting by really paying attention to the feel of his fingers when they were in action, and if they felt slightly different because of an injury, all of that work would have gone to waste.
+
+“If you want something healed perfectly, it’s best to never let it be healed imperfectly. According to the Contract, there are some excellent Avowed healers on Earth. But most of them will be very busy, too. If you don’t mind waiting for Porti…?”
+
+“I’ll wait if he can do it.”
+
+“He can do it,” said Esh-erdi. “You might end up buried in dirt, but it will get done. And I wanted to keep you here longer anyway.”
+
+Here in this room or here on—?
+
+“In the cube,” Esh-erdi clarified before he could ask. “Bash-nor is on Anesidora. Your involvement with the deaths at his residence and the <<fiasco>> with the flyer could make him decide to approach you. He has no reason to come here. I plan to make sure he knows you’re not a tool for him to leverage. And I’d like to reassure myself that there are no human laws that will trouble you. I know almost nothing about human laws, so that might take me a short while. I think you may also want to consider a Healer of Mind for—”
+
+“You don’t have to do all of that,” Alden interrupted. “That’s a lot. You must have so many important things to take care of.”
+
+“I will <<delegate>> whatever needs to be <<delegated>>. Bash-nor, at least, you should let me manage. He is a little too powerful for anyone else to do it successfully, and Lind doesn’t like politics.” He searched Alden’s face. “Do you disagree?”
+
+He couldn’t. If Esh-erdi really thought the ambassador might bother him, then Alden didn’t have any way to stop that himself.
+
+“I don’t disagree,” he said slowly. “And I don’t think there should be legal problems, but if there could be, it would be good to know.”
+
+Esh-erdi drummed the armrest of his chair with his fingertips while he stared at Alden.  “I want you to tell me what else you need.  You should think about it and do that.”
+
+“I’m not sure I—”
+
+“Start with little things,” said Esh-erdi. “For example, what are you planning to do tomorrow?”
+
+Why did this feel like a trick question?
+
+“I’ve got to find something to feed a snake, or I need to get it back to its owner. I want to know what’s going on with school. I’d like to find out what happened to all my friends and say hi to my aunt, but the Contract won’t let me call. And…Stu-art’h’s supposed to call tomorrow. But I don’t know if that would be okay right now? I’m sure Evul-art’h could get a call through, but I don’t know if she would.”
+
+“If your school is open do you want to go?”
+
+“Well…yes. I would really like to. But if I have to stay here—”
+
+“You’re not trapped. I could arrange something. Do you want to talk to Stu-art’h? Or do you only want to let him know you’re well?”
+
+“I would prefer to talk to him,” Alden admitted.
+
+“Good,” said Esh-erdi. “Little things. Tiny cracks in the future. So easy to repair.”
+
+*******
+
+*******

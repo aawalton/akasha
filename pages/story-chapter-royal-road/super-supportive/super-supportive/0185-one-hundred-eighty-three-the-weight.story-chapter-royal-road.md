@@ -1,0 +1,253 @@
+---
+id: 24cb62a6-62bf-5980-97a5-34a3d6bd7ca7
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED EIGHTY-THREE: The Weight"
+slug: 0185-one-hundred-eighty-three-the-weight
+partOf: super-supportive
+position: 185
+ownLength: 3845
+unit: words
+publishedAt: 2024-11-18
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1910029/one-hundred-eighty-three-the-weight"
+royalRoadId: "1910029"
+---
+
+183
+
+******
+
+“So that’s Vethedya.”
+
+Alden was looking across the fields toward the city skyline. It was a little later in the afternoon here than it had been at Rapport I, and the sky was overcast. Other than his voice and the strikes of their boots on the packed ground, the only sound was the call of some forest dweller coming from their left. The noise was a plaintive one. His brain, trying to form connections in the new environment, suggested the unknown creature might be angry with the giant construction project going on in its wilderness.
+
+“And what’s the yelling animal?”
+
+It seemed better to chat as if Stuart wasn’t hurt and angry, and as if Alden himself wasn’t growing more anxious with every step.
+
+[You’re sure this will be fine?] he texted to no one.
+
+[It’s as I told you. Yenu-pezth exploring your thoughts in ways you haven’t agreed to isn’t impossible, but it’s very unlikely.]
+
+I know. Breach of Contract, offending the art’hs, ethics, reputation…there are so many reasons for a good healer not to do it and so few reasons to think I’m hiding anything worth the trouble in my head. But still, I—
+
+“Those are Orangesky Mourns,” said Stuart, interrupting the thought with the answer to his question. “Many of them live in this area. They’re small and furry.”
+
+He went on to describe an animal that sounded like a squirrel to Alden.
+
+“You might see some while you walk with Healer Yenu. They like the grove behind the House of Healing, and she won’t let anyone scare them away. And, yes, that’s Vethedya.”
+
+“That teleportation chamber we were in was amazing. With the clouds?”
+
+“Oh. You liked…” He looked from Alden to the city. “I’m sorry. I was <<ranting>> and didn’t let you enjoy it!”
+
+“It’s fine. We were only there for a blink anyway.”
+
+“I will be silent the next time we travel,” Stuart promised.
+
+“You don’t have to. What’s the big thing taking up so much space in the Orangesky Mourn’s forest?”
+
+“The Sdyelis Branch,” Stuart answered. “An oasis ship. It’s being built completely of materials native to the Mother. The designing of a ship that uses as little <<traveler’s knowledge>> as possible has been the <<devotion>> of the life of a wizard from Rapport III. She and her children are in charge of the project.”
+
+The shape of the vessel wasn’t branchlike, unless it extended back into the trees in a way that couldn’t be seen from the path, which did seem possible to Alden. From here, it appeared to be more ovoid with enough irregularities and ongoing construction to suggest that might not be its final form.
+
+“Traveler’s knowledge?” he asked.
+
+“So much is gained, isn’t it?” Stuart said. “By encountering a new place or a new species. We’ve become more than we would have been if we didn’t travel, but we also take terrible risks. And maybe we fail to <<innovate>> and find truths that were hidden at the end of a more solitary journey. The Sdyelis Branch is supposed to be what a spacefaring ship might have been if our people had never known any world but the one we were born to.”
+
+Alden stopped gazing at the ship and frowned at the track ahead of them. The Artonans were the species that traveled and connected everyone else. How far back in their history would they even have to go to try to imagine a spaceship that had taken nothing, not even a concept, from anywhere but their native planet?
+
+“I’m not disrespecting the educational part of the project, but isn’t it very…closing of options…to build something important that way? Unless it’s not important, and it’s mostly an experiment?”
+
+“I think you’re searching for the word limiting,” said Stuart. “Yes. It’s an <<eccentric>> project. It’s for the campaign to restore the place I told you about—the one that was sealed before Earth was discovered. In honesty, building a ship that way has been so difficult that I’ve heard it might not have been possible if some people didn’t want to <<prance>> in front of the ilket. Which isn’t a <<noble>> or intelligent reason.”
+
+“What’s ilket?” The word didn’t sound completely unfamiliar, but Alden wasn’t sure where he’d heard it.
+
+“A technologically advanced species who wizards interacted with in the past. It’s likely their society has collapsed, and their people are scattered now if they’ve survived at all, so finding motivation in spiting them is even more shameful than it would otherwise be.”
+
+Alden immediately thought of Gorgon, but technologically advanced didn’t fit with what he’d said about his own people being “primitive in almost every way” from a human point of view.
+
+“They’re close to extinction because of the chaos where they live?”
+
+“Probably,” said Stuart. “They seemed to be incapable of making honest agreements with anyone who wasn’t ilket. Artonans couldn’t form lasting contracts with them, and they either hated magic or hated not understanding it. So our species were <<mutually offended>>, and even negotiations for a possible evacuation ended badly. They were left there.”
+
+He looked at Alden. “But The Sdyelis Branch isn’t just an experiment or a <<vanity>>. If it achieves all the goals that have been set, it will become a resource of unmatchable value. That ship is meant to be the closest we can come to sending a piece of our planet wherever we need to. It should make some magics much less difficult and provide a haven in places where rest can’t normally be found.”
+
+“What kind of—?”
+
+“We can talk about spaceships and history and the work of those who strive against chaos’s <<encroachment>> anytime,” Stuart said. “But it is more normal for people walking here to think of their hopes for healing.”
+
+Alden sighed and tightened his grip on the green rock that looked like sea glass. “Most people walking this way probably see things like giant magic ships every day…but I guess you’re making sense.”
+
+They walked for a little while without saying anything. His thoughts ricocheted from spaceships to school counselors to the auriad hidden on his upper arm. He wondered if he was heading toward the clarity he hoped for, and the relief, or if he was giving himself over to one more complication and risk.
+
+“It’s not easy to trust someone else with this kind of thing, is it? Is that just me?”
+
+“I think that’s normal. But I’ve had to accept so much help with my own mind that I’m very used to it. And I decided to talk to Healer Yenu for you, instead of another, because she’s my favorite.”
+
+That’s nice to know. “What makes her your favorite?”
+
+“No,” Stuart said. “You’ll think my reason is strange.”
+
+Alden looked at him curiously. “All right. Your recommendation is good enough anyway.”
+
+Only a few steps later, Stuart said, “She stole me from another healer. One who father had taken me to against her advice.”
+
+“What do you mean she stole you?”
+
+“She walked into the other healer’s House while I was preparing for a ritual treatment and told me to come with her. I assumed I was supposed to because…why would someone steal me? Who would do a thing like that?”
+
+Alden gaped at him. We’re talking about a kidnapping?
+
+“Apparently, Yenu-pezth would.” Stuart had nothing but affection in his voice. “She took me to fly <<twirly kites>> nearby. Father found us quickly, but from what I’ve been told he was very upset.”
+
+“He should have been, shouldn’t he?”
+
+“Yes. But none of my other healers would have risked life and profession to make a point to him, so he did listen to her argument again. It wasn’t one he wanted to hear. She was telling him it was time to pause and let me grow without any treatment for a while.”
+
+“Was she right?”
+
+Stuart nodded. “Those helping you with alterations of the mind are supposed to be careful not to <<push>> when there’s resistance, fluctuation, or lack of desire from the self. Caution was especially important in my situation, and we knew I’d be seeing mind healers for years to come. But it was hard for my father to agree to the pause when I was still so far from comfort.”
+
+“Your favorite healer is the one intense enough to steal the Primary’s son and then give the Primary a lecture when he comes to get his son back.” Alden couldn’t help sounding amused. “That doesn’t surprise me.”
+
+“She’s very talented and serious about her work,” Stuart rushed to assure him. “That was why what she did had such an impact.”
+
+As they approached the building, Alden studied it. It wasn’t dramatically different from what he might have expected. “A boat sailing through some treetops” would be a good description of the architecture, but he thought the structure’s curved shape might be intended to call to mind hammocks more than watercraft. Porti-loth would have been pleased to see that this House of Healing had its own grove of trees. Off to one side and behind the first building, there was a second, larger one that was more tucked away in the woods.
+
+When the two of them were still a significant distance from the front door, the path started to be spotted with the same kind of stones they carried. Up ahead, the ground was actually so covered it was paved with them—a milky green lane taking over from the dirt.
+
+“We stop and say the honor to the healer you plan to see,” said Stuart, halting. “It’s written on the floor or ceiling at some Houses, but this is how they do it here.”
+
+“I think I know this, then,” said Alden. “The days?”
+
+“That’s right.”
+
+Alden bent and placed his stone on the ground. It sank in like the packed dirt was soft around it. “These mark the days of Yenu-pezth,” he said.
+
+“These mark the days of Yenu-pezth,” Stuart said beside him, “given that others might thrive.”
+
+“May healing be found here.”
+
+“May healing be found here.”
+
+******
+
+Evening’s approach meant the work day was over for most people, but the House of Healing wasn’t empty. Some of the healers lived on the property, and some patients were here for extended stays. The second building was housing for those who couldn’t be healed and couldn’t safely be left to live on their own or with family.
+
+Stuart told Alden all of this as they passed through softly lit hallways that were filled with a quiet hum. His voice fell almost to a whisper when he talked about the second building.
+
+“I hope the question isn’t stupid, but why can’t everything be healed? It’s the same on Earth. Avowed and wizards are cautious about reversions, failures…” Alden was speaking just as quietly.
+
+“It depends,” Stuart said. “Sometimes damage becomes embroidered onto the self. Or some powerful effect continues to act on a person from outside so that attempts to remove it harm more than help. And the way much magical healing works is…it’s healing from a practical perspective, but if you lose a leg and then command reality to <<reassemble>> it and attach it again to the place and purpose it once had—have you healed a broken thing or have you broken the way of things? Healing magic can weaken or be met with <<resistance>> in the same way all spells and enchantments can.”
+
+A door they were passing slid open, and Alden received his first shocked stare since they’d entered, from a man in a brown robe. The Artonan stood there watching them walk away, so Alden didn’t ask his follow-up question until they’d exited out the back of the building.  “Your leg isn’t likely to fall apart or disappear, is it?”
+
+Stuart searched his face as if he trying to decide if that was a joke or not.
+
+“I’m serious,” Alden said. “I assume the answer is no, but I do really wonder.”
+
+“No. It’s well repaired and as <<sure>> as the other now. Reversions are usually a <<confluence>> of fragilities, complications, or accidents. If the leg had been missing for a long time, if I had lost the same one again soon afterward, or if I had been much more severely injured—I’d probably still have been fine with the right help, but those are some ways healings can become less certain.
+
+“And not everyone who stays in that building stays because healing failed. Sometimes it’s because alteration of the mind shouldn’t be attempted. For moral reasons.” He glanced toward the longterm care building and then back at Alden quickly. “If someone has the smallest <<openness>> to their help—even a <<tendril>> of curiosity—the healers here can encourage it. But if there’s no desire at all, or if there’s rejection, nothing is supposed to be done unless others are put at risk by the person’s state of mind.”
+
+Stuart led him off the walkway and through close-growing trees with papery bark. These weren’t massive like the trees in the Rapport; most of their leafy tops didn’t quite reach over the rooflines of the buildings, and few of them had trunks Alden couldn’t wrap his arms around.
+
+He was just wondering how far they would have to walk, since the grove seemed to stretch on for a long way and there was no sign of anyone else out here yet, when they passed between two trees that had grown together in an arch and a part of the grounds that had been hidden from view by illusions suddenly appeared.
+
+That’s different, he thought, staring at the landscape feature that he assumed he would soon be taking advantage of.
+
+He had been told he’d be going for a walk and talk in a place that eased the mind, but he’d been imagining more of a nature trail. What he was seeing here looked like it might instead be a maze with paths that had been dug out rather than walled in. The entrance was a few steps in front of him. It was wide enough for four people to go side-by-side without bumping into each other, and it sloped downward so that several long strides would have him in a corridor made of the ground. It would be open to the sky, but the sides would be taller than his head.
+
+Off to the left, the person who would be his traveling companion waited for them up in a tree. She was pinching pieces from a small loaf of bread and popping them into her mouth while her legs and bare feet swung. Her hair—a pale, purplish gray that almost matched the strips of bark that had peeled from the tree—hung in a single loose braid. Her skin was darker, and her face was unmarked by wrinkles.
+
+The first impression she gave off was younger than Alden had expected, though he still thought she must be quite old. Surely you had to be at least a hundred and downright venerated to kidnap little Stu-art’h and have his father actually listen to you when he caught up.
+
+She had a pair of thin lines tattooed across her forehead, alternating blue and silver rings were on her toes, and while she ate, she was bobbing her head slightly like she was listening to a song she liked. Her mouth stretched into a smile when Stuart approached the tree and called out her name.
+
+After shoving the loaf of bread into her mouth, she threw the last pinch she’d taken toward a petite animal that looked like a chubby, big-eyed monkey with pointy ears and a squirrelish tail. Alden hadn’t noticed it clinging to the limb above her until just then. When she dropped down from the branch, her feet didn’t hit the ground with the thump he would have expected, considering the height. He wasn’t sure if physical technique or magic should be given credit for the soft fall.
+
+“Dear Stu!” she said. “The days have been long. You do know you’re welcome to come for visits even if you don’t need me, don’t you? I’m proud, though. I like it when my patients can leave without looking back.”
+
+Stuart responded to the warm greeting with a bow, then introduced Alden as Avowed Alden Thorn, who the whole of the Triplanets—especially his family—should recognize as an absolutely extraordinary person because of his deeds. Just look at that commendation from Alis-art’h!
+
+He sounds a little mad at his family still, but I guess it’s not too obvious with all the praise.
+
+“So you’re angry with your family?” Yenu-pezth said, cutting the intro short. “How angry?”
+
+Alden was impressed.
+
+Stuart…was still in his bow, not answering.
+
+Yenu-pezth gave him a knowing look. “I suggest you stay here in one of the places you like until I have given care to my first human patient. I’ll talk to you later.”
+
+Stuart rose, a protest on his face.
+
+“Just talk,” she said. “Are you not at a point in your journey when clear thoughts are as needed as water?”
+
+Before he could respond, she turned to Alden. She looked at him quietly, with both eyes, for a minute. He forced himself to stand still.
+
+“Hello,” she said finally, shoving her hands into the pockets of her pants. “I am Yenu-pezth. What have you come to me for today?”
+
+He didn’t know how she did it. The question was a simple one, almost a banality, but the air seemed to thicken in response to it. He felt something—a magic she’d performed or called on in this place, he thought, rather than herself—surrounding him but not touching him. The feeling it evoked made it hard to answer her.
+
+He wasn’t being prevented from speaking whatever he wanted; he knew he could if he really needed to. Instead, it was as if the first responses that sprang to his lips were too weak to penetrate the atmosphere. He didn’t want to say them, knowing they weren’t up to the task.
+
+…okay, this is different. I know I can just say, “healing,” but it would be like deliberately giving a wrong answer on an important test.
+
+He eventually realized he was just standing there, face pointed toward the healer without really paying attention to her because he was so tangled up in the search for the answer to the question.
+
+“Don’t be nervous, Alden.” Stuart took a step toward him. “Maybe the <<weight>> of the path is making him nervous, Healer Yenu. Maybe it doesn’t work correctly on humans. Maybe you need to—”
+
+“How fast do you think this usually happens the first time?” Yenu-pezth said calmly. “I will be careful with your friend. You go contemplate in one of the places you like until your ears aren’t such an angry shade. We might see you if you choose the <<inward>> path, too.”
+
+Stuart hesitated. “That bag he brought has his things in it. Also, he said when we were talking about how mind healing works that he prefers to keep some of his thoughts private.”
+
+“Most do,” Yenu-pezth said calmly. “And you told me that already, dear Stu, when you called to ask for my help. I don’t forget things.”
+
+Stuart looked at Alden one last time and gave him an encouraging smile before he headed down the corridor, which gradually curved until he was out of sight.
+
+What have you come to me for today?
+
+There were so many answers that were true without being true enough. Yenu-pezth kept her hands in her pockets and her posture relaxed. She just…watched him. Slowly, the pressure that he felt knowing he was taking a stupidly long time to respond to her faded.
+
+When it was all gone, when he was just standing with the question and no sense of urgency, even the answers that he’d decided not to speak became interesting to him. Accessible. Like objects he could pluck from a shelf and examine if he chose.
+
+Here was a thought about how much he’d hated almost losing control of himself on the bus.
+
+And there was another about how threadbare he felt sometimes when he woke up from a nightmare in a dark room, in a new home that didn’t quite fit like a home.
+
+How he felt a thousand years older than most of the other teenagers he knew and also how he was sometimes afraid he was missing a critical part of being alive that the rest of them were breathing in like air.
+
+How the universe kept proving it could take everything from him, and how he really struggled not to believe that it would.
+
+But there were other possible answers, too. Brighter ones.
+
+Boe asking him to stop chasing after an old ideal that was making him miserable so that he could find something that worked better. Giving him permission not to feel guilty about it.
+
+Telling Stuart he hoped his life would make the world a better place but also that he hoped it would be joyful a lot of the time.
+
+Stuart telling him to stop being envious of choosing seasons when he was in the middle of one of his own.
+
+Putting away the skill machine with its cold switches and hard limits, discovering something more playful and flexible instead.
+
+Looking at himself in mirrors—in a tailored coat that accentuated the breadth of his shoulders, in a pezyva marked with his commendation, bare-chested and with a hand held over the place where a tattoo had once been.
+
+A decision to come here, to Yenu-pezth, even though it wasn’t a hundred percent risk free.
+
+“I’m here because I’m ready to change,” Alden said. “Because I’m ready to grow in new directions. But I keep getting dragged back by what’s happened in the past and blocked by what I’m afraid might happen in the future.”
+
+Yenu-pezth removed her hands from her pockets. “Helping people change themselves is my work. Did you like how the weight felt?”
+
+The weight. Alden looked in the direction Stuart had gone. He realized he didn’t have a good sense of how much time had passed since then.
+
+But the nerves he’d arrived with had faded, and in their place he had some clarity, not just about the answer he’d decided to speak but also about how it connected to all those other moments he’d thought of. If she asked him the same question again, he wondered if it would all get even clearer.
+
+“I liked it. Was it you or the…inward path?” He nodded at the entrance to the corridor.
+
+“It was me telling the inward path what to do,” Yenu-pezth said. “The weight is stronger the deeper we go, and there is more to be found within. You will be very calm. The weight will tell you about yourself. You will tell me what things hurt you or halt you, and I will help you with them. Do you want that?”
+
+“I do,” he said.
+
+“My new patient is Stu’s friend. What a delightful happening! Come with me. We’ll go for a walk.”
+
+******

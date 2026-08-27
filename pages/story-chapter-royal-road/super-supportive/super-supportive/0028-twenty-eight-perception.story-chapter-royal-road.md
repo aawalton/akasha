@@ -1,0 +1,539 @@
+---
+id: 2870cb90-7143-5f1d-ae8a-71daaa335b2b
+page-type-slug: story-chapter-royal-road
+title: "TWENTY-EIGHT: Perception"
+slug: 0028-twenty-eight-perception
+partOf: super-supportive
+position: 28
+ownLength: 7182
+unit: words
+publishedAt: 2023-04-05
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1159718/twenty-eight-perception"
+royalRoadId: "1159718"
+---
+
+The professor only invited five students back for the afternoon session. Sophie said the pass rate was usually thirty percent, so Joe was even more of a terror than Alden had realized.
+
+At first, he assumed he wouldn’t have anything to do in the lab with so few examinees. Especially since they were, presumably, talented enough not to cause a disaster. But it turned out he was as busy as he had been for the morning testing.
+
+Instead of having him dispose of dangerous materials, Joe loaned Alden’s services to each of the students for a set period of time. Every ten or so minutes he swapped tables and held whatever the examinee asked him to while doing laps off to the side.
+
+At least I was wearing sneakers when I was summoned. He was already making a mental list of the items he’d need to have with him everywhere he went so that he didn’t wind up on strange planets with nothing but the clothes on his back.
+
+Carrying around projects for the students wasn’t too taxing, but it was forcing him to rapidly develop a tolerance for grabbing things that looked like they shouldn’t be touched with a ten-foot pole. He wondered if Joe had given the examinees bonus points for being weirdos; it seemed like he’d given passing scores only to the scariest projects.
+
+One guy had made a chihuahua-sized spider machine that was supposed to come when it was called, but it kept trying to scuttle away from his lab table and up the walls.
+
+It stabbed him and his assistants with sharp metal feet whenever they tried to hold it in place.
+
+The examinee at the next table was carving sigils into the side of a simple wooden bowl that seemed innocent enough, but occasionally, out of the blue, it would scream. All by itself.
+
+How the heck can all these things be for the same purpose? Alden wondered. Sophie had said the students were making “summoning assistive devices” for use in other exams they had coming up. You would think their projects would at least look similar.
+
+And what were they summoning? If it was Avowed, they would just use the System, right? Gorgon had once implied that consorting with demons was a pastime for extremely powerful Artonans, so Alden didn’t think that was something that would be happening here.
+
+Maybe the projects were for containing, controlling, or communicating with the things they summoned?
+
+He was lulled into a false sense of security by the first three projects he carried. Creepy they might have been, but they were easy enough to hold. And it was particularly satisfying to watch the spider freeze in place with one of its feet halfway through a stabbing motion.
+
+Once Alden had taken charge of it, the guy who’d made it spent the whole time frantically flipping the pages of textbooks while his assistants bandaged their fingers. Alden was pretty sure they didn’t even need his power for the preservation effect; they only wanted a break from trying to babysit the thing they’d made.
+
+They looked very sad when his time was up. He dropped the spider into a deep lab sink and ran away from it before it could enact any sort of revenge plan.
+
+Joe pointed him toward the screaming bowl girl, and he headed over feeling pretty at ease. He targeted her, and she smiled.
+
+<<As soon as you hear the cries, please lift the vessel and hold it until I tell you to put it back down.>>
+
+“Okay,” said Alden.
+
+She pulled her blue-black hair up into a clip and placed a small cone-shaped device into a stand, spinning it so that the open end was toward Alden and the bowl.
+
+Then she tucked a pair of buds made of the same glass-like substance as the cone into her ears.
+
+The professor strolled over to watch the two of them.
+
+“It’ll be heavy,” he said, the eye behind his smart lens darting around while the other fixed itself on Alden. “You should brace yourself.”
+
+Alden stared at the bowl. It wasn’t huge, so he didn’t think the professor was warning him about physical weight.
+
+All right, he thought. Solid slow steps as soon as I grab it. And hold on tight. Don’t fall over. How hard could it be?
+
+A moment later, a fresh wail came from the depths of the bowl, and Alden reached for it. The second he touched it, it felt like someone had tied his soul to an anchor and dropped it.
+
+He only managed to hold onto the bowl and take a step with it because he’d told himself that was what he was going to do. This feels bad.
+
+He’d had just enough practice over the past day to keep moving. The horrible burden didn’t really affect his arms and legs, but he stumbled because his brain and body couldn’t figure out how they were supposed to react to weight that wasn’t weight.
+
+This freaking hurts.
+
+He shook his head and tried to keep going, arguing with his own senses. Hurt wasn’t the right word, he told himself. He wasn’t in physical or emotional pain. And if he wasn’t in pain, he should be able to carry one stupid bowl, right?
+
+Just one step and then another. Right?
+
+Wrong.
+
+Alden’s skill deactivated and he took in a shuddering breath, blinking around in confusion. The bowl was wailing again in his hands. He was on his knees, almost nose to nose with the hinge of one of the lab cabinets.
+
+I was walking, wasn’t I?
+
+He didn’t think he’d fallen. Had he just knelt down?
+
+He realized he didn’t even know how long he’d been carrying the bowl, if anyone had spoken to him, or which direction he’d traveled in. He looked around and saw that he was at one of the empty tables, farther from where he’d started than he would have thought.
+
+He must have been wandering around aimlessly.
+
+The professor was right behind him.
+
+“I was making sure you didn’t run into a wall!” he said brightly. “I suspected we might have been a bit greedy with this one. Hand that over, and take a rest.”
+
+Alden was too exhausted to protest or apologize as the professor took the bowl away. He didn’t even want to. He felt apathetic about his own failure, even as he recognized that the lack of emotion was wrong. He should have been sorry for messing up whatever experiment the examinee had been doing or worried about consequences. But he just…didn’t care.
+
+Huh, he thought. Strange.
+
+It was a peaceful feeling, though. He knelt there, staring at the cabinet hinge without really seeing it.
+
+His knees started to hurt, but he couldn’t be bothered to change positions.
+
+After a few minutes, Sophie came and looked at him. He could see his face reflected in the surface of her helmet. He blinked slowly at himself.
+
+A text message scrolled across his interface.
+
+[I’ve never encountered a human in a state of full magical fatigue. Does your recovery process prevent you from moving your legs?]
+
+“I don’t know,” Alden said. His voice was placid.
+
+[You can answer questions. Can you feel your body?]
+
+“Yes.”
+
+[I thought so. You need to work on separating your physical senses from your magical ones. And your will from your UNTRANSLATABLE.]
+
+“Okay.”
+
+The grivek lifted a claw larger than Alden’s hand and held it in front of his eyes. [I am going to disembowel you now.]
+
+“Okay.”
+
+The claw hit the hard white floor with a clack.
+
+[This is hilarious. But dangerous. For now, go to sleep. Maybe that will fix you.]
+
+Sophie reached out with a foot and shoved him over.
+
+Alden toppled, limp as a doll, onto his side. The floor was so clean in the lab it didn’t look real.
+
+Sophie told me to go to sleep. That sounds easy.
+
+Opening his eyes every time he blinked was a lot of trouble anyway.
+
+###
+
+A couple of hours later, Alden woke up to an insistent, piercing whistle that existed only in his own mind.
+
+[QUEST REMINDER:
+
+Assist Professor Worli Ro-den in Lab 7]
+
+The timer at the bottom said he had half an hour. He could wait around to be teleported, or he could earn a small Argold bonus by getting there on his own.
+
+Groaning, Alden rolled over on the hard floor and stared up at the ceiling. The lab lights were dimmed, and it was quiet. They must have just left him here to sleep off the…
+
+That was skill fatigue, right? Sophie had called it magical fatigue, but they  must have been the same thing. Alden had heard about it before; it was like the moment an endurance athlete hit the wall.
+
+He’d assumed that it was what he was heading for when he felt the strange drain every time his skill activated. But he hadn’t been entirely positive, because from what he’d understood, skills were an all or nothing thing for most superhumans. They worked perfectly and easily until they didn’t work at all.
+
+Why does Let Me Take Your Luggage start taxing me right away? And why did it knock me out so quickly?
+
+Skill fatigue was supposed to be something that happened after you’d used your skill for hours and hours. Superheroes mostly suffered from it during long, drawn-out recovery missions or during hero-vs-hero competitions.
+
+Obviously something was different about the screaming bowl than the other things Alden had carried, and he really needed to understand what that was. He couldn’t just get tired and take a nap wherever, whenever.
+
+And being devoid of concern for himself was disturbing. He’d told Sophie she could disembowel him.
+
+He climbed onto his feet and stretched, trying to work out the various sorenesses he’d collected from lying in a motionless, crumpled heap for hours.
+
+The rest seemed to have been good for him, at least.
+
+He didn’t feel tired anymore. Not in the regular human way or in the bad, new way.
+
+And for the first time all day, he wasn’t sweaty. The floor had been nice and cool even through the coat.
+
+The Artonans preferred an indoor temperature just shy of ninety degrees Fahrenheit. It was getting old fast.
+
+He got directions from the System and set out for Lab 7. It was in its own building, halfway across campus. Not far from the place where Alden had teleported in this morning.
+
+On the way, he spotted a few other Avowed. One of the boater members from lunch gave him a nod as they passed in the hall. And he saw Manon the Rabbit through the open door of a classroom. She was arranging small tables and cushions into a half circle.
+
+He debated sticking his head in and saying hello to try to get a read on her, but he decided against it. He’d probably have to see her tonight or in the morning anyway.
+
+When he stepped outside, he found that one of the strange golf carts had been called for him automatically. It had a halo similar to the one he saw when he targeted people.
+
+“Hey, thanks,” he said, in case the System cared.
+
+He climbed aboard, and the vehicle chimed before setting out down the hill. The trip took about fifteen minutes, and Alden used the time to decide what he would do if Joe did offer him a private contract, as Sophie had suggested he might.
+
+“Know your mind before you make your choices,” the grivek had said.  And that seemed like good advice.
+
+What’s with contracts popping up around me left and right, anyway? He knew they were an important part of Avowed life, but still…in the past couple of days he’d agreed to the Contract and he’d made the agreement with the Velras. And now here he was worrying about yet another one.
+
+He hoped it wasn’t ungrateful, but he didn’t really want another assignment right now, even if Joe was paying well.
+
+He was aware that most people looked for opportunities to get their foot in the door with Artonans however they could, but it was just too much at once. He was less afraid of missing out on what some would see as a once-in-a-lifetime opportunity and more afraid of making a foolish choice because he was in a strange place filled with strange pressures and he was having a hard time keeping his head on straight.
+
+He’d heard classes on safe contracting were standard at Anesidoran high schools. He’d really like to take one before he signed any more of his life away.
+
+So I’ll say no. Probably. Is there anything he could offer that would make me interested?
+
+He’d pass on money, he decided. Any amount of it. Even if whatever Joe wanted was easy. Even if the number was so incredibly large that Alden was sure it was a good deal.
+
+He had a few million dollars worth of Argold in his account, and he was about to add two hundred thousand more. That’s so hard to fathom. I think I should talk to Jeremy’s parents at some point…figure out how to transfer some of it to Aunt Connie. Maybe buy her a house?
+
+That was what rich people did for their family, wasn’t it?
+
+Anyway, right now money wasn’t worth the risk of making a contract with the professor. Even if Alden thought he was being smart, he could screw it up. Private deals didn’t have the benefit of full System oversight. If he remembered correctly, the Interdimensional Warriors Contract took precedence over all other contracts he could make as far as it came to summonings, specifically. So he could still be yanked away from non-System jobs by System-approved summonings.
+
+But at the same time, the Contract would let him make deals with Artonans that didn’t include the protections usually in place for humans. What if Alden missed some loophole and ended up as a lab rat for the professor? Or what if Joe enjoyed watching his servants fight in gladiator-style arenas and Alden forgot to nix that from the agreement?
+
+So, money alone isn’t worth it. The only reason to say yes to anything would be if he offered something that would be unequivocally good for my power development and difficult to obtain through other means.
+
+Not even foundation points. Maybe a spell impression? A good one. C-rank or above and tooled to fit his skill.
+
+The list of available Rabbit spells was so depressing that he wasn’t even excited about choosing his post-affixation one. And one perfect spell would really increase his likelihood of getting into a hero program.
+
+But spell impressions were for long-term assignments and extraordinary service to begin with, and Rabbits weren’t supposed to get C-rank ones normally.
+
+So that’s not going to happen, he decided as he hopped off the cart in front of a round, domed building. It was windowless and made of shiny black stone. No new, dangerous jobs today.
+
+He put his coat back on and headed for the door.
+
+It was made of the same black stone as the rest of the building, and it was so seamless it would almost have disappeared if not for the large, Artonan symbol for 7 carved into it. It opened for him automatically, and to his surprise, blessedly cool air rushed out.
+
+Air conditioning. Finally.
+
+He stepped through and found himself in a curved hallway. Directly in front of him was a transparent door that led to a decontamination area. Beyond that, a metal staircase led down to the laboratory that seemed to make up the entire center of the building. To Alden’s right and left, locked supply cases lined the walls, and as he made his way around the perimeter circle, he found that the back third of it was a large office area
+
+The professor was there, sitting at a desk surrounded by rolling smart boards. Most of the furniture in the office faced a giant interior window that looked down on the lab. Joe was examining a holographic projection of something that looked like a bird’s nest made out of stars, but he swiped it away and leaped up as Alden entered the space.
+
+“Alden, dear!” he said. “You are delightfully prompt. How are you feeling after that overexertion earlier?”
+
+“Fine. Normal. I’m sorry I conked out like that. I didn’t ruin the students’ projects, did I?”
+
+Joe waved a hand. “No, no. I told Jel-nor and Weya that their intended uses for your skill would likely overtax you before we began, so they were forewarned. The nature of their projects was different from the others. I actually might not mind having them as students.”
+
+“That’s good…” Alden would rather have been warned a little more thoroughly himself before he got turned into an apathetic lump.
+
+“Come see the lab!” Joe bounded toward the window.
+
+He spent the next fifteen minutes pointing at various pieces of equipment and describing what they did in loving detail. Alden only understood about a third of what he said, even though Joe was speaking mostly English, but he nodded and smiled politely.
+
+I seriously hope he doesn’t want me to do anything with that aquarium full of venomous eels.
+
+According to the professor, Hot Lab 7 was currently dedicated to researching ways to “reduce the overshred effects caused by magical ammunition.”
+
+“Interesting?” Alden wasn’t sure what overshred was, but it was probably a bad thing, right?
+
+“Boring,” Joe sighed. “So boring. In my old lab, I was doing cutting edge work on containing demonic energies for certain wealthy benefactors. But now I’m stuck here with a university budget again. You know I haven’t taught in three decades?”
+
+He gave Alden a pitiful look. “You take one grand senator’s wife as your lover, and the next thing you know, the authorities are suddenly offended by all the creative little things you’ve done. Even though the week before they were shaking your hand under the table for it!”
+
+“Uh…” said Alden.
+
+“I still think it was an overreaction. But here we are. More importantly, here you are!” Joe beamed at Alden and rubbed his hands together. “How do you feel about running a few personal errands for me?”
+
+Yep. Sophie was right. “Personal? You mean doing things for a private contract instead of through System quests?”
+
+Completely unconcerned by the suspicion in Alden’s voice, Joe wandered over to the office’s small kitchen area and poured himself a cup of wevvi from a dispenser.
+
+“Yes. Not only a private contract, but a secret private contract. Doesn’t that sound exciting? There would be official quests, too, to make sure I was the only one who could monopolize your time in the evenings.”
+
+“Why does it need to be secret?”
+
+“Because I want you to do something illegal,” Joe said lightly.
+
+Well, that’s not going to happen. “Unless it’s the Artonan equivalent of a minor traffic violation, then I think I’m going to have to pass.”
+
+“Traffic violation…ah, I see. Your vehicles on Earth are still mostly non-autonomous. Why haven’t you all gotten on top of that, by the way? I know we gave you the technology for it years ago. To answer your question, it is a fairly minor crime; if we’re caught, I expect it to add around a decade to my sentence at this charming institution. At most.”
+
+The professor pulled something that looked like a brownie out of a pocket and dipped it into the wevvi.  “As for you, you can’t be punished for anything you do if it’s to satisfy the terms of a magical contract with me. Whether it’s a private one or not.”
+
+“Even if I know in advance that what you’re asking me to do will be against the law?” Alden didn’t try to hide his skepticism.
+
+Joe shrugged. “You can look it up. And I don’t mind explaining it, though I hope you won’t waste our limited time by taking offense. You see, we Artonans generally consider Avowed to be either children in need of instruction, beasts of burden, gifts from the holy universe, or existential threats to our species.”
+
+Alden blinked.
+
+“I’ll leave it up to you to figure out how that combination of philosophies led to the creation of our culture and relationships with other planets. But I’m sure you understand that children, heavenly blessings, and Ryeh-b’ts can’t be blamed for the actions of nasty wizards who trick them into committing crimes.”
+
+Alden was too surprised to be offended. He felt like he’d just learned more about the Triplanets in a few sentences than he had in weeks of study at the consulate.
+
+“Um…which are you?” he asked hesitantly. He wasn’t sure which answer he was hoping for.
+
+“Definitely the fourth,” said Joe, polishing off his soggy brownie and licking crumbs from his fingers. “But don’t worry. I’m of the opinion that existential threats are how a species evolves into something greater. And I think anything cataclysmic will happen long after we’re both dead, so there’s no reason to let it interfere with our business. Take a seat.”
+
+The professor pointed at a pair of poofy, legless chairs that had a clear view of the lab below them. Alden sat in one, and Joe took the other.
+
+The Artonan steepled his fingers over his chest and sighed. “First, I should warn you that I’m poor. In wizard terms, that is. The conditions of my punishment limit the types of assignment I can issue through the spell you call the System, and since nobody can actually interfere with my individual agreements, they have instead made it difficult for me to summon and pay my old friends.”
+
+“I’m getting five hundred Argold for the lab assistant quest tonight,” Alden pointed out.
+
+“Yes. It’s the maximum I’m allowed to offer per day through my university account. I can personally tip you quite heavily on top of it, if that’s what you want. I can spend as much money on my assistants as I like. The problem is that non-System teleportation is hard to come by. And even if I could manage to summon them, most of my friends—” he gestured at the tattoos on his face “—are not contracted to work for something as easily obtained as Argold.”
+
+Oh, thought Alden, staring at the tattoos. “You usually contract for talents and foundation points?”
+
+Joe gave him a funny smile. “Among other things. Even private contractees can usually be paid with the help the System; however, the privileges I once had to grant spell impressions or foundational improvements through it have been rescinded. And though I’m theoretically powerful enough to do it without its assistance…the process is complex. I’d probably kill quite a few people before I mastered the art.”
+
+“I’d rather not volunteer for that then. Thanks.”
+
+“Understandable. Let me tell you what I want before you reject me. I need you to teleport somewhere, enter a laboratory, and use your skill to pick up some things for me. It’s simple.”
+
+“I doesn’t sound simple.” It sounded like a good way to get fed to some other Artonan’s pet eels. “You want me to rob another scientist?”
+
+“No. Though if you’re willing to…?”
+
+Alden shook his head firmly.
+
+Joe smiled at him. “The lab is mine. Or it was. It was confiscated from me, and sold to the some of the very people who were backing my research. I’m sure they originally intended to find someone else to run my experiments, but given the lab’s location, that has proven difficult. It’s been several lunar months, and I’ve come to the conclusion that they are abandoning it altogether.”
+
+“So you want me to steal from a bunch of shady rich people?”
+
+“They stole from me first.”
+
+“That sounds incredibly dangerous,” Alden protested. “What if you’re wrong, and the lab isn’t abandoned. What if it’s surrounded by armed guards? Or it’s booby trapped?”
+
+“It is booby trapped. By me. But I have a number of monitoring spells that are still running, so I’m aware of its current state. The only security you will have to deal with is my own, and I will give you the means to do that easily.”
+
+“Professor, thank you for the opportunity. But I don’t think I want to do something like—”
+
+“I’m fairly sure you don’t want money. You didn’t seem interested when I offered to tip you,” said Joe. “What if I gave you an upgraded version of the lab coat? I could double the bonuses on it, increase the protective effect. Maybe even make it magically resistant.”
+
+Alden frowned. That would make the coat more like proper armor. But it still wasn’t something he wanted to risk trouble for. He couldn’t even be sure what an ideal armor set looked like for him until he’d dug deeper into potential uses for his skill and trait.
+
+He opened his mouth to reject it, but Joe held up a hand. “No, no. Let me think. I’m very good at this usually.”
+
+For a couple of minutes, he contemplated Alden in silence.
+
+Alden stared through the window at the lab, trying not to feel awkward about being so closely examined.
+
+“You know,” Joe said eventually, “I’ve been planning to bribe you all day, but I don’t have a good frame of reference for your type. You’re about twenty years younger and two ranks weaker than the least talented of my other private contractees. And besides that you’re so very…”
+
+“Very what?” Alden asked.
+
+“Let’s just say I prefer to shake dirtier hands.”
+
+“You don’t even know me. Also, that’s a weird way of putting it.”
+
+“I’ve watched you fling yourself at potentially deadly materials all day. One comes to conclusions. For example, would I be able to pay you off with a nice bioweapon? Or maybe a serum that would allow you to alter the memories of non-Avowed humans? I have both prepared.”
+
+“What the heck?” said Alden, leaning farther away from the professor. “No. What would I do with those?”
+
+And why did he have them prepared?
+
+“See what I mean? Most of the humans I deal with would know exactly what to do with them.”
+
+“Are your human contractees all supervillains?”
+
+“A couple. Probably. I find the hero/villain dynamic on Earth fascinating. I could talk about the absurdity of it for hours, but I’m more interested in why you haven’t made a serious effort to refuse negotiations. It implies that you’re not completely opposed to working for me, even if you did sound very judgmental just now.”
+
+That worried Alden a little. Was it wrong to be willing to consider stealing stuff from a lab on behalf of the person who it sort-of belonged to? It seemed to be in a pretty gray area…assuming Joe was telling the whole truth. Sleeping with a senator’s wife wasn’t the greatest, but did he deserve to have all of his property and research confiscated?
+
+He probably did. But maybe the senator was just a jerk?
+
+“Stop that,” said Joe.
+
+“I’m just sitting here.”
+
+“No, you’re not. You’re having some kind of youthful moral conundrum. You’re looking guilty. We can’t have that. What if I teach you some things about your skill?”
+
+Alden froze.
+
+Joe noticed. “Hmmm?” he said, smiling slightly. “Yes. We could do that. I could take…oh, I don’t know…let’s say around twenty years worth of self-experimentation off your plate?”
+
+It had never occurred to Alden that Joe might offer anything directly skill-related. The only way he could get anything on that front was supposed to be through naturally leveling the skill. And wasn’t teaching him about it the same as offering to help him level it?
+
+“I…need a minute to think,” he said.
+
+“Of course.” Joe stood up from his chair. “I’ll be at my desk. Happy to answer any questions you might have. You know how I love teaching.”
+
+Alden was already busy re-reading the Rabbit class description. Specifically the part about getting rewards other than money.
+
+[Summoners will not offer access to skills or spell impressions in exchange for your regular services. Summoners may still offer foundation points, tools, or spell instruction for extraordinary service.
+
+New skills and spell impressions are only available upon leveling of starter skills or upon long-term personal assignment to approved parties.]
+
+Spell instruction was listed. For extraordinary service. Just like he remembered.
+
+Skill instruction wasn’t mentioned at all.
+
+Getting an Artonan to teach you any magic beyond a basic word chain was hard. They didn’t even teach most of their own species, after all. And the System had deliberately refused to translate the professor’s lessons in the lab today.
+
+Alden had been annoyed but not surprised.
+
+He glanced over at the desk. Joe seemed to be rapidly sketching something with a long, thin dip pen.
+
+“Is it…okay for you to teach me about my skill?”
+
+“If I were to bind you to my personal service for the next few years, we could make it above-board. You’d live here on campus, except when you were System-called for higher priority jobs. Interested?”
+
+“No. I want to go back home.” He couldn’t even imagine what it would be like to live here for years.
+
+“Good. I’m not certain I actually have enough strings left to pull to get permission for that. And even if I did, there are old familiar faces I’d rather see than yours. You’re wonderful of course, but I have the feeling you would stress me out over the long term.”
+
+Alden didn’t see how he’d been particularly stressful for Joe. If anything, it was the other way around.
+
+“Then how—?”
+
+“When is your curfew tonight?”
+
+Alden swiped through his interface to check that particular timer. “It’s just under six hours from now.”
+
+“Then I can give you the next twenty minutes. A quick lesson. Don’t bother with taking off your shoes; I want you ready to go as soon as we’re done.”
+
+“But I haven’t agreed. And we haven’t signed a contract yet…or done whatever it is we do?”
+
+“You will agree after you realize what a wonderful professor I am. Do you see that pointy gray rock on the shelf over there? Target me and go pick it up.”
+
+Well…it was all right, wasn’t it? He could always take one free lesson and then reject the offer.
+
+Alden stood up and headed over to the shelves by Joe’s desk. They looked  like they belonged in a natural history museum. They were full of shells, bones, fossils and several unnameable items. The “pointy gray rock” looked less like a rock and more like a softball-sized carving of a sea urchin.
+
+“Grab it by the top point,” Joe suggested as Alden reached for it.
+
+Alden did. He felt his skill activate and started walking. The rock was easy to carry.
+
+“Lesson Two,” said Joe. “I don’t think you actually have to walk. If you’re ever at a loss for horizontal space, you can probably just jump up and down.”
+
+“What happened to Lesson One?” Alden asked. But then he allowed what Joe had said to distract him. Up and down were directions. So traveling in them could count as carrying?
+
+He tried it, hopping in place. The preservation effect didn’t deactivate.
+
+But then he realized what he was doing and grimaced. “I’ll be a laughingstock if I do this regularly.”
+
+“Really?”
+
+“Rabbit. Hopping. It’s just…ugh.” He resumed his pacing like normal.
+
+“What does the System call the skill in your language, by the way?” the professor asked, dipping his pen in a dark violet inkwell. “I didn’t bother to look it up.”
+
+“Let Me Take Your Luggage,” said Alden.
+
+Joe snorted. “Heavens, what a travesty. If we ever do make a longterm arrangement with each other, I might tell you what its actual name is.”
+
+“What do you mean?” Alden asked.
+
+“The answer to that won’t be on the table today. Read the skill description to me?”
+
+“While you are carrying a tangible item that has been entrusted to you by your target, the item will be preserved,” Alden said from memory. “Cessation of carriage—”
+
+“That’s enough. Tangible—does the word mean touchable? Or feel-able? Perceivable? I’m not asking for an official definition in English. I wonder how you, personally, define it?”
+
+Joe continued to draw on the paper in front of him.
+
+“Oh…” said Alden. “I guess I’ve been thinking of it as anything that exists in the physical world. Non-conceptual stuff? Real stuff.”
+
+“Interesting. Are emotions real?”
+
+“Well, yes. But not in a tangible, carry-able way. They’re emotions. I can’t pick up somebody’s love or their hatred as, like, a separate thing from their body. Obviously.”
+
+“Obviously,” Joe repeated in a neutral tone. “But you can carry magic.”
+
+Alden frowned. “Well, it exists in physical reality, doesn’t it? It’s not like an emotion. I don’t think so anyway. I can feel it when I get scanned after a teleport. And now that I have the heightened Sympathy stat it’s even clearer. And enchanted items can be carried around.”
+
+“Yes, you’ve been carrying such items all day long, haven’t you? And you preserved most of them very nicely.” Joe looked up from his page and raised an eyebrow. “Lesson Three—you collapsed after carrying the bowl because you were actually holding something much more complex than you realized. You believe magic to be within your skill’s purview, therefore you pick up magic associated with the item you’re entrusted with. And you must bear the weight of it, too.”
+
+“So I couldn’t carry it for long because it was more magical than the other projects?”
+
+“That’s not quite right…” Joe hesitated. “The concept may be hard for you to grasp.”
+
+“I’m sure I can handle it.”
+
+“We’ll see,” Joe muttered. “The bowl was made of living wood that is beloved by its mother tree. The tree has a natural right to remain connected to the bowl, like an organically occurring contract between the two. Your skill preserved the bowl and its portion of the magic, but having one part of the ‘contract’ out of temporal synch with the other would have put the stability of the connection between the tree and its wood at risk eventually. The tree objected. You struggled because the tree’s dominion over the bowl was more profound than your own. You rapidly became exhausted, and your own authority was suppressed.”
+
+Alden stopped pacing to stare at the professor. “I lost a magic fight with a tree?”
+
+“Watch your feet,” Joe said.
+
+Alden looked down just in time to see the rock he was holding by a single spike fall to pieces. A dozen other sharp spikes rained down as he jumped out of the way.
+
+“It’s not a rock!”
+
+“It’s a puzzle made of stone,” said Joe. “I’ve observed that you have no trouble carrying containers full of things because you’re able to perceive them as a single item. Amusingly, you seem to have decided that stacks of things can also be an item. I noticed when you disposed of a couple of the projects. You’re a charmingly optimistic person, Alden. But for some reason, you were being ever so careful to grab stacks by the bottommost piece. You do realize that if your power freezes a stack in place instantaneously, it doesn’t matter if you pick it up from above or below, don’t you?”
+
+“…I just hadn’t gotten around to thinking about it. I’ve only been an Avowed for a day.”
+
+“Well, do try to think as much as possible from now on. And more importantly, be careful how you think. Lesson Four will be our last for today.”
+
+“I have some questions about my fight with the tree!” Alden protested.
+
+Joe couldn’t just tell him that a random plant somewhere had more profound “dominion” over magic than him and not explain what any of that meant.
+
+“You’ll have to sleep on them. Lesson Four is this: your perception of how your skill should work shapes what you can do almost as much as the skill itself does. If you perceive a stack is a single item, then it will be. If your understanding of magic is that it exists on the same plane as us, then maybe you can pick it up. By your age, your perception of the world has been molded by a thousand circumstances beyond your control—from the events of your life, to the way the human brain works, to your native language. To the extent that you are able, use what you have to your advantage and try to break free of your limitations.”
+
+“Wait…are stacks not supposed to count?” Alden thought it made sense that they did, since a container full of stuff wasn’t really that different from a stack. And containers worked. Were containers not supposed to count either?
+
+Joe was using both hands to fan that design he’d just finished inking onto his page.
+
+“Supposed to?” he said. “What an interesting question. How about I answer it for you tomorrow? For now, think about your other lessons. Particularly the last one. For example, if a stack is an item for the purpose of your skill, why not a couple?”
+
+“A couple?”
+
+“Maybe that wasn’t quite the right word. As I said, perception is important. Why not a pair? You often think of certain things as being a natural part of a set, don’t you? Why would a bunch of random objects piled on top of each other be one item, but a pair of matching gloves separated by a millimeter be two?”
+
+Alden frowned. He understood what Joe meant. But at the same time… “Because they are separate?”
+
+A pizza was an item. But if you took all the toppings off and spread them around the room then it was multiple items. Right?
+
+“Perception is difficult to control. And even when you manage it, there’s something of a negotiation with reality involved. You’d think people with delusions of grandeur would have an advantage, but they tend to overextend and become unable to exercise sufficient authority. Where would you like your first tattoo?”
+
+Alden had just picked up the last piece of the spiky stone puzzle, and at those words, he almost dropped it. “I have to get a tattoo if I agree to the private contract?”
+
+Wasn’t it just a short while ago, when he’d been shopping the Wardrobe with Boe and Jeremy, that he’d promised himself he would always stick with human tattoo artists?
+
+Did I freaking jinx myself somehow?
+
+“I have to get one, too, you know. And it’s a nice one,” said Joe. “I drew it myself.”
+
+He held up the page he’d been working on. It was a thin sheet of paper about the size of a postcard, and on it, a very Artonan-looking design shone in violet ink. It looked like a sideways question mark with two dots under the curve and a straight line beneath it. There was also a random set of concentric triangles off to the left.
+
+Alden stared at it grimly.
+
+It was hard to be a good judge, but if he added up everything Joe had told him in the last ten minutes, he thought the information was probably worth a lot more than it seemed at first glance. The professor hadn’t outright given Alden the secrets of the universe, but everything except for the advice about hopping up and down had contained just enough surprises and depth for him to be fairly confident that unpacking the “lessons” really would grant him a lot of insight into magic in general and his skill in particular.
+
+“Is this place you want to send me insanely dangerous?” he asked flatly. “You said the people who bought your old lab had given up on doing more research there because of the location.”
+
+“I don’t think anything bad will happen,” Joe said. “If you died, I would be in a bit of trouble.”
+
+“But there is a non-zero chance of me dying?”
+
+“That’s true no matter where you are. The lab is located on Moon Thegund. Do you know it?”
+
+Alden shook his head.
+
+“It’s one of the moons of Kimnor, in the same solar system as our mother planet. Half of it is in a magically stabilized zone. The other half is quite…wild. There are high levels of chaos, and the System there is a more primitive version that’s been poorly repaired a number of times.”
+
+“There are shitty Systems?”
+
+That wasn’t something you heard about in school.
+
+“A few. There’s no point in replacing the one on Moon Thegund until the chaos problem is resolved; it would only create more degradations.”
+
+“Chaos equals demons right?”
+
+“Yes, but it’s not as if the moon is rife with them. The population is regularly culled. And there are reasonably accurate forecasts—rather like weather reports—about approaching outbreaks. The number of such outbreaks are increasing, but the chances of one happening right on top of my old lab at precisely the moment you’ll be there are slim.”
+
+“This still sounds like a job for someone like Sophie. I guess you need my skill to preserve whatever I’m taking from the lab in transit?”
+
+Joe leaned back in his chair. “Actually, I want your skill mostly because I believe it will allow you to protect a non-wizard from the hazards of a magically violent teleport.”
+
+“I’m picking up a person?”
+
+“Yes. A few of them. I hope.” Joe’s tone was still light, but his expression was uncharacteristically dark. “I worked on Moon Thegund for around sixteen years and acquired a number of local assistants during that time. Now that I am no longer there to maintain the protections around the laboratory compound, they should be evacuated sooner rather than later. However, because the System is primitive, the teleportation is of an older, less gentle variety. It’s too dangerous for average people. My assistants should travel by ship. But there aren’t many to be had, and mysteriously their requests for evacuation have been given the lowest priority level, so they’ve been waiting for months.”
+
+Alden dropped the sharp puzzle pieces on top of his desk. “Jeez, why didn’t you just say it was a rescue mission to begin with? That sounds much more worthwhile than helping you steal science experiments from your lab.”
+
+“Does it?” Joe asked, raising a brow. “‘Rescue mission’ implies you will be going to a place so terrible other people need to be rescued from it. I was easing you into the idea. Also…you’ll still be stealing science experiments. They’ll just be tucked into the pockets of whoever you’re carrying, since you have that conveniently broad definition of items.”
+
+Alden had still been wondering if he should refuse, but finding out he would  actually be helping somebody tipped him over the edge.
+
+“So, what exactly does the tattoo do to me? In detail. And what else will you be teaching me? And what—?”
+
+“I can’t answer an infinite number of questions simultaneously, you know.”

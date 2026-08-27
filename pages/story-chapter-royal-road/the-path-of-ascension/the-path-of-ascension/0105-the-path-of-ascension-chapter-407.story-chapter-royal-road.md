@@ -1,0 +1,277 @@
+---
+id: 894a981d-0222-51e7-90bc-8d3e5c202322
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 407"
+slug: 0105-the-path-of-ascension-chapter-407
+partOf: the-path-of-ascension
+position: 105
+ownLength: 5965
+unit: words
+ownProgress: 5965
+publishedAt: 2025-05-02
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2250044/the-path-of-ascension-chapter-407"
+royalRoadId: "2250044"
+markedReadAt: "2026-06-29T19:21:24.536Z"
+---
+
+Chapter 407
+
+Returning to Max’s suite, Matt found the entire layout different from what he had sensed when he first arrived. After reviewing the information his spiritual sense had passively picked up, he found that a team had come through and manually rebuilt the suite into its current configuration over the course of his conversation with Max.
+
+“What?”
+
+Matt gestured to the room. “Was it really necessary to rebuild the room? I feel any training room would have been fine. Seems like a lot of unnecessary effort.”
+
+Max just blinked at him as if he had said something dumb. “Would you have felt comfortable in any public training room?”
+
+“I don’t feel comfortable in most places that have master mentalists. A public training room or here would make little difference.”
+
+Max tutted. “Ye of little faith. I wouldn’t let anyone spy on us in our training. As someone who professionally roots around in people's minds, I understand the need and desire for privacy better than most.”
+
+“That doesn't make me feel any better.”
+
+Max winked at him in return. “Oh, but it does. By being wholly honest with my capabilities, intentions, and motives, you feel as though you understand me and what I’m doing, which makes you feel in control, which in turn makes you more comfortable.”
+
+“Aren’t you undoing that by pointing it out? Now it just comes across as manipulative.”
+
+Max twirled her finger in a circle. “A bit, but the alternative is worse. Better to be upfront, even about being upfront.”
+
+Matt wanted to disagree but knew he couldn’t, and so changed the topic. “So, what did you want to focus on? I tried looking up some Corporations mental training pamphlets to get an idea about what you might be referring to, but there’s… a lot? And its all very different from the Empire methodologies.”
+
+“You’ve done your own homework. Good. Now, I see your mental defenses and I want you to forget all of it. I won’t say it’s useless, because the average state of mental attacks is even more deplorable than your defenses, but…” Seeing his disbelief, she shook her head. “This is serious-Max, Matt. You still think I’m joking around, but I’m not. And now you’re warring with your image of me as a goofy jokester with the fact you know I’m… let’s say top ten mind mages in the entire Realm. Yes, yes. I’m the best when adjusted for Tier, but since when did we ever care about something like that? The discomfort you’re feeling right now is intentional, because I want to remind you on a very visceral level of what I’m capable of, when barely even trying, to anchor what I’m saying as being genuinely serious.”
+
+With a confusing and slightly unsettling mix of emotions swirling around, Matt shifted into a fairly standard meditation pose that he could keep up for months, keeping himself a few inches aloft with a tiny stream of mana.
+
+“Okay, let's begin.”
+
+Max’s multicolored strands of hair glowed and twisted into fractals. “We already have Matt.”
+
+Matt narrowed his eyes and felt the world around him, seeing if he had fallen into an illusion. “No, we haven’t.”
+
+Max kept her eyes locked on his as she shook her head. “I told you, forget everything. You’re expecting mindscapes and mental hammers, but I’m not pulling you into an illusion, because those are the tools of an amateur. Not that I don’t use them, because the tools of an amateur are the tools of an expert as well, but mental manipulation is all about subtlety. It’s creating a custom approach for every individual person and figuring out what makes them tick. Watching the electrons pulse across brain-waves, studying every tick of a muscle inside and out, analyzing the chemical concoction within your veins that sways with your emotions, and getting glimpses of the future itself to determine what you have yet to do.
+
+“All of those are the opening moves of the battlefield, where I watch you and create a plan. Many times, I don’t need to even use a singular point of mana. The right words at the right time can be far, far more devastating than any spell. Mental magic can never override the Domain. It’s a basic limit of the field. No spell I cast can ever shatter your Concept, can undo your Intent, or can cause you to cross your Aspect. But my words can do all of that, and so much more. You sat down to talk with me, Matthew Moore. The battle began in that moment, and you missed the opening moves.”
+
+As a pulse of fear ran through him, Max nodded, her voice hypnotic and eyes never leaving his. “Good. You’re starting to understand. You’re worried, but you think you understand more. But you don’t have a chance to gain your bearings, because I’m still talking to you. At the speed and means of my speech, it’s requiring much of your focus to simply hear the words that I’m saying, and you need to, because I’m giving you lessons as we go along. But this is why the standard education, of there being two types of mental defenses, is so deficient. Tell me, when someone is simply talking to you, should you utilize your static or reflexive defenses? Or, perhaps, is the notion that your mind is a fortress which should never allow anything to enter or leave potentially flawed? Oh, you’ve built an absolutely marvelous set of defenses for yourself, some of the best I’ve seen on an Imperial, but you’ve left the front gate open.”
+
+The spike of fear had turned into a low boil and Max clearly noticed as she paused and let him relax before she continued. “When I create an illusion, is that a mental attack? Some schools of thought say yes, some say no, but they certainly do exist in order to perform a sort of mental warfare, get you to doubt what’s real and what’s fake. If I create an illusion of a sword about to stab you, knowing that you’ll jump to the right to avoid it, is there truly a difference between doing so and mentally compelling you to jump to the right? Ah, but you’re thinking that there is, because you can choose to not jump to the right to avoid the sword. You could go backwards, you could go to the left. You could block it. But remember, I’m already inside your head, I know how you’ll react, and that’s why the opening moves are those of gathering information.”
+
+She paused for a moment, just long enough for Matt to half-gather his thoughts, then set off again, “You’re starting to feel uncomfortable once more. This wasn’t what you thought you were getting, you were expecting me to utilize spells to try and break that defensive shell around your mind, and you’re concerned about how deficient Luna’s training was here, that I haven’t done anything that resembles what you’re accustomed to. And you should be worried, but that’s mainly because the emphasis I’m putting on my words and the cadence I’m going at has been designed for that very thing. You may have noticed that your static defenses haven’t done anything, but your mind underneath is in distinct turmoil. That’s because you left a giant, ear-sized hole in your defenses, and so long as you can hear me, your defenses are weak. Yes, yes, I know people say this is less effective in the heat of the moment, and they are right, but it's still effective enough to be my opening move.
+
+“And that’s without even getting into the flaws with their actual implementation. At least you haven’t gone for reflexive defenses, instead preferring to just withstand and wait out whatever your opponents may throw at you. Very on-brand. I approve of Luna pushing you in that direction, as it's good enough for most people doing most things. And combined with your own tendency to not directly think about your secrets, it should be enough most of the time. At least, I’d need to start digging to get at your secrets, which is more than I can say for most people. I also approve because reflexive attacks are just going to make you more vulnerable against anyone who knows what they’re really doing, but a static defense is always minimally useful.”
+
+Matt finally managed to speak up by forcing himself to simply interrupt her. “So, what is the answer? Not defend myself at all? I’d prefer to keep people out of my mind.”
+
+Max smiled and her speech pattern shifted into something more relaxed. “Good! I’m glad you caught on quickly. Now, to actually answer your question, there’s as many answers as there are psions, and while you don’t have the makings of someone who’s truly set up for psionics, we can figure out something that will work for you. You’re not one much for subtlety, but there’s one easy answer that comes with your [AI]. Instead of integrating it into your subconscious, we integrate it into your conscious mind and make it act as a second mind. One which interacts with the world while your true mind, unaffected by all around you, is still capable of directing it. It might not be perfect for you, but it is an answer.”
+
+“That sounds incredibly dangerous. And also incredibly disconnecting? If I have to not hear anything with my own ears, but just hear what my [AI] relays to me… surely that’s a setup for insanity?”
+
+Max didn’t downplay his concerns like he thought she might. “There are risks in everything. I’ve seen you throw around spells pushing a billion mana. If someone else was told to do that, they would be given the advice that it's dangerous. Extremely so, in fact. Anything sufficiently advanced is dangerous for a beginner. Within the next few years, I think we can get to a place where you can at least layer a false mind over your actual mind if pushed, even without [AI] integration. But it's not the only answer to improving one's mental defenses. A second and only slightly inferior method is opening your mind to everyone and just becoming very good at mental combat. I—”
+
+Matt cut her off. “That won’t work for me. Not as a primary line of defense at least. My main goal is to protect myself from mental intrusion. I don’t want people to be able to read my thoughts or memories. I actually like the idea of an impenetrable shield as a first layer of defense. Obviously, it can’t be my only method, but I’d be quite happy with keeping everyone at an arm's distance, mentally speaking.”
+
+Max nodded, her fractals drifting with the movement of her head. “I can’t say I’m that surprised. But, it does help narrow down approaches quite a bit. First, let’s very clearly and simply determine what, precisely, are your goals for improving your mental defenses?”
+
+“I don’t want people reading my mind or memories, and in a close secondary importance, I want to limit the influence of things like my Truth.”
+
+Max nodded along. “Okay, the second is actually easier than the first. At least initially. I’m sure you realize that your Truth will have an effect on you. There is no way to fully prevent that, except by not creating an Aspect. Limiting it, however, is entirely possible, though I will note that it’s not advisable, in that doing so will limit your harmonization with your Aspect.”
+
+Matt shook his head. “I don’t want to wall myself off from my Truth, just be able to recognize and disregard its influences when I need to.”
+
+Max shook her head. “Then my advice isn’t to improve your mental defenses. It's to go home and work on your Truth. Make the most perfect Truth you can for yourself so that you are always acting in accordance with it.”
+
+Matt actually agreed with her. “A wonderful idea in theory, that just doesn't hold up in reality. My Truth feels like an enforced Truth. If I'm, say, imprisoned, I might not be able to embody my Truth and it could drive me into doing something suboptimal in its desire to escape, lest it crumble around me. I want to be able to control myself at times like that. I am the Master of My Own Destiny, no one and nothing else, not even my Aspect.”
+
+“Then either work towards a different Truth, or figure out strategies for mastering your own destiny in every situation. Your Truth will be an indelible part of who you are. There’s no avoiding that. But there are ways to mitigate it, push off some of the worst impulses.” Max stood up and held out a hand to pull Matt to his feet. “You know that might be the most normal Chosen thing I’ve heard you say?”
+
+“Really? That out of everything? Am I truly so strange?”
+
+“You're far more normal than most of us, which is where some of the dissonance comes from. But wanting to be in control of yourself, even over your own Aspect? That's some proper mental gymnastics we Chosen are known for.”
+
+“Ascenders are a weird group as a whole, but I feel that my desire to remain in control of myself is perfectly normal.”
+
+Drawing her rapier, Max brandished it at him. “You're a physical guy, so let's do this in an active way. I’m going to attack you. For the sake of my house and the space station, let’s limit ourselves to Tier 5 capabilities. I lunge, what do you do?”
+
+Matt twisted his wrist, deflecting her blade with his own, while bringing his blade down to bind hers, where he could leverage his blade's weight and his greater strength to bear.
+
+Not that he actually had a strength advantage against a Tier 39, but with them both limited to Tier 5, he did, and that was the condition she raised.
+
+However, instead of resisting and drawing back to create distance like she should have, Max just raised her eyebrows.
+
+“I thought you just wanted a shield? To protect yourself? If that's true, why are you going on the offensive?”
+
+“I—” Matt caught himself about to make an excuse and withdrew to think. “Being purely on the defense isn’t in my nature.”
+
+“Is that a question or a comment?”
+
+Slowly Matt answered. “A question. It's sometimes hard to be so introspective. I think of myself as a defensive person a lot. I take the hits, but that's not all I do. I also dish it out. Okay, a purely defensive style might feel nice, but it's not going to fit me. I need something more reactive.”
+
+Max grinned. “Is that so, now? What a concept. Are you saying you can’t just be entirely passive while someone else pushes you around?”
+
+Matt just rolled his eyes. “Okay, you were right. I can’t just satisfy myself with a mental defense strategy.”
+
+“Good. You’re aware of it now. That will make it easier when you ignore that discomfort and are passive anyway”
+
+“What? Why? Didn’t we just discuss that I prefer to punch back?”
+
+“Yes. Unfortunately, no matter what you may prefer, unless you’re willing to become a full psion attacking back will just leave you open while achieving nothing. At least against the kind of people confident enough to attack the mind of a Chosen.” Max brandished her rapier again. “I still think you will learn best by doing. First thing with mental combat is about being able to harden and control your mind. It's a lot like mana manipulation, so you are either going to be really good at this, or really bad.”
+
+As she said that, she lunged forward and Matt felt an accompanying mental pressure try to dig into his brain. Instinctively, Matt relied on his mental shields and threw up a barrier, which was exactly what Max had warned against, and he felt it as she infiltrated the defense in an instant, leaving his mind very vulnerable to rooting around in.
+
+Despite knowing she wouldn’t do anything untoward, he was relieved when she withdrew immediately.
+
+“Not bad, not bad at all. Well, okay, it was really bad, but only in the same sense you’d call my large-scale mana control bad. People like you and I don’t get to be judged by normal standards. Related, it’s quite interesting to see what an upgraded [Sharp Mind] does when fed with that much mana. That is sure to take a lot of people off guard. Still suffers from being one of the more commonly known mental defense skills out there though. Couple of tips for you to improve what you have now…” Max resumed her dueling while giving Matt advice on how to improve his mental shield, punctuating or illustrating her pointers with actual strikes, parries, and ripostes.
+
+In the flow of the familiar and the unfamiliar, Matt felt out what he did and didn’t like. Similar to his physical fighting style, Matt had a tendency to go on the offensive when attacked. An overwhelmed— and preferably dead— opponent couldn’t learn any of his secrets after all. Unfortunately, Max made a point of showing why that’s a bad idea. Every time he tried, she deftly deflected him and used the opening to strike back twice as hard. It did not help that he wasn’t able to leverage his endless mana into his mental efforts.
+
+At least not directly.
+
+He did pick up a trick of flooding his body with mana, which acted like static for his mental defenses. It didn’t necessarily make it harder to infiltrate, as Max described it, but it was different enough that it would cause most mind mages to fumble if they were unprepared for it.
+
+He was completely incapable of telling how he was doing, but Max said he was improving at keeping her out and sensing when she got in, just not to a degree that properly mattered.
+
+“You know, in a real battle, I’d just [Mana Beam] anyone who got into my mind,” he noted as they reset for what felt like the thousandth time.
+
+“Assuming you notice,” Max steadily replied. “Assuming you figure out who’s doing it. Assuming you’re in a battle. And assuming they aren’t able to use an existing connection to deliver a little jolt to your mind, slip in another mental skill while they’ve already bypassed your defenses to block off the skill or make you fire it in a different direction than you wanted. That said, it's a valid point for you, even if not an end point you should find acceptable. You do have one hell of a punch with high mana spells.”
+
+During a moment of downtime between attempts, Max surprised Matt by offering a skill that might help. "If privacy is truly your highest priority, gamble with Sien for the [Sacred Sanctity of the Inner World] technique guide. It's a rather nifty mod that lets you turn a copy of [Encryption] inward onto your own mind. It's not foolproof, but it slows even me down."
+
+The lessons were taxing to his Domain, but with each day, Matt felt he was getting better as he learned the newish discipline.
+
+They spent a full five months of such sparring until Max felt he was sufficiently advanced to proceed with the next lesson.
+
+Matt was profoundly uncomfortable, but Max wanted him to attack her mind a few times just to understand what the other side was doing when they attacked him.
+
+After he hesitated for a third time, Max reached out and shook him. “Matt, relax. You aren’t going to hurt me. You can’t hurt me. This is my specialty, and I have twelve Tiers on you. Just follow the mental bridge I’m making, and you can get a sense of what’s going on.”
+
+Against his better instincts, Matt carefully entered her mind with his Domain.
+
+Once inside, he found himself in a blank space with just a projection of Max. Nothing else, no memories or thoughts or… anything, really.
+
+“A blank mind space,” Max confirmed. “This is what I eventually want you to work up to if you really want to keep people out of your memories. It's a useful first layer. Better still if you can do this.”
+
+The blank space transformed into a jumbled mess of colors and senses as fragments of memories floated by in kaleidoscopes of sensations that even watching from a distance made Matt queasy.
+
+“What did you do?”
+
+“I flooded my outer shell with random thoughts and images. Some advanced mind mages will use movies, or books they read, but I like to just let my minds wander and to send in a tiny fragment of their thoughts into here. It's quite hard to make sense of anything, and fewer still can pierce this layer of defense. You have Folded Reflection lives, which I can confirm from experience make for fantastic distractions. People will see how real they are and think they are in your mind and getting what they want...”
+
+It was a little too close for Matt’s comfort, but he liked the general idea.
+
+“Wait, you said minds?”
+
+Max turned to him as her memories and thoughts faded into nothingness once again. “Haven’t you put it together yet?”
+
+Like she was pulling a curtain down with a forceful yank, Max destroyed the empty space they were in.
+
+Matt locked up as he realized what he was looking at.
+
+Max hadn’t just split her mind into two or three, but rather thousands, possibly tens of thousands, if the minds that looked like clusters of grapes were nested minds like he thought they were.
+
+His mouth went dry as he retreated back into the safety of his own mind. “That… Was not what I expected. How are you sane?”
+
+Max looked at him with a slightly manic grin. “Who said I am?”
+
+Matt didn’t take it as a joke and just nodded, which caused Max to glare at him. “Oi! I’m a Chosen, Matt. Don’t insult me like that. I’m sane because I’m the fucking best.”
+
+Instead of arguing, Matt spoke his mind. “I can see how Charl got caught off guard after seeing that.”
+
+Max barked a laugh. “Sure did. And even more when I used the connection he made to hit back a thousand times harder. That said, I did beef up my mental repertoire quite a bit after that incident.”
+
+After that, they took a break, and at Matt’s request, they wandered the floor-wide city with Max acting as a tour guide for the Corporations culture.
+
+Matt was caught off guard at the amount of people he saw that were unawakened. Even if he knew the Corporations didn’t do universal awakening, it was strange seeing adults unawakened coming from the Empire, where everyone was awakened at young adulthood.
+
+Max, being Max, noticed. “Strange seeing unawakened?”
+
+“Yeah, but it’s not my place to judge.”
+
+Max shrugged. “Judge if you want. There is no universal answer.”
+
+“But your poorest people are almost universally unawakened. How is that beneficial for anyone?”
+
+Max shook her head. “You are conflating correlation and causation. The poorest are unawakened, but that's because they are the ones who never bothered to save enough to get awakened, or took a job that had it as part of the contract. I won’t call them unmotivated as a collective, but it's not that hard to buy an awakening. Most delving teams up to Tier 5 will sell the first kill in a rift for basically free. There are even Tier 2 and 3 teams who buy extra lower-Tier rift slots for the sole purpose of awakening hundreds of people per rift. Or at least dozens if it's a Tier 1 slot. Anyone who doesn’t work hard enough to afford that is going to end up poor. It's not that they are unawakened, it's that they are unmotivated. Or, in some cases, uninterested. There are several subcultures that, at risk of oversimplifying, dislike cultivation, thinking that it makes them less human, their struggles less real. I don’t agree, I’d argue cultivation makes us more human, but you of all people should be able to understand the desire to choose your own destiny.”
+
+Matt gestured to the side. “What about those that have family issues? Generational poverty and the like.”
+
+“Generational poverty is a bit of a dark joke here, used as a punchline for people who like to blame others for their problems. If an entire family is poor, it’s because that family’s ethics and priorities push them that way. There’s always demand for jobs. Always. And if you don’t qualify for one, well, there are lots of corporations who provide free training of all sorts, giving those who need it a way to make themselves valuable. There are millions of scholarships, and many, many places will sponsor entire neighborhoods and provide them with free food, shelter, and healthcare as a means of early recruitment and generating positive associations with the public. If someone still falls through all those cracks, it’s generally because they’d never amount to anything and just… well, exist until they die, with a proportional impact on society.”
+
+Matt disagreed. “That’s nice in theory, and possibly true in practice in a lot of places. But no society is perfect. One of the core tenets of feudalism is that the liege protects the vassal. That didn’t stop the Junipers from letting us get slaughtered. I don’t believe for a moment there aren’t people who fell through the cracks despite your peoples best efforts. In an imperfect realm it's better to ensure a baseline level rather than just assume only the slackers are suffering.”
+
+Max didn’t refute him directly. “And then everyone else has to pay for them. Why should they be forced to do so?”
+
+They went back and forth a few times until Matt partly gave up given that neither had the power to reshape society.
+
+At least not yet.
+
+“I just can’t get around the idea that some people don’t even deserve to cross the starting line. It feels wrong and unnecessarily cruel. One day I hope someone has enough power to force a change.”
+
+Max gestured around them. “It doesn’t feel that wrong. You believe heavily in the ability that power can come from anywhere if you just grasp it. So do we. We just… let people amount to whatever they want. In fact, I’d argue the Empire and Corporations fall fairly close to the same line in that respect.”
+
+Seeing Matt’s confusion, Max explained. “It's an idea that gained some popularity a few thousand years ago. Basically, it was a group of people trying to quantify the Great Powers’ outlooks to find out if any of them were superior and the like. It was mainly a failure but they raised a few thought provoking ideas.”
+
+Checking the thought piece paper she sent him, Matt scanned it.
+
+As she said, the paper broke down the Great Powers' understanding of potential and was prompted by the societal shifts that happened after Agatha took the crown for herself, and further refined in Georgios reign when the Monster Collective was split off from the Federation.
+
+According to the paper, the Empire, the Sects, and the Corporations all believed in ‘universal potential’, though they then broke them down into distinct variations.
+
+For the Empire, it was that anyone could be great, just so long as they are given a chance and that the higher the starting point, the better the odds. On the other hand, the Sects believed that greatness could come from anywhere and would make itself known despite different starting points, so social inequalities were a good thing rather than a negative to be corrected. Finally, the paper stated the Corporations’ take on universal potential was that greatness was something you can earn through the accumulation of wealth, which facilitated cultivation.
+
+Matt wasn’t sure he agreed with the abstracts, but he couldn’t say they were wrong either. He also wasn’t sure he liked being lumped in with the Corporations, let alone the Sects. Both were far more cutthroat for lower Tiers than the Empire, but he also had enough self-awareness that he was far from unbiased and had taken a very unconventional route to where he was today.
+
+Not that he liked the other classifications, even if he once more found himself unable to disagree.
+
+The abstract stated the Clans and the Monster Collective, being the two bloodline-based Great Powers, believed in ‘innate potential’. The Clans' take on it was that greatness came from your ancestors and was built off their efforts, with the implication that it was one's duty to raise the bar for future generations. Inversely, the Monster Collective believed that greatness came from one's birthright but was excavated from within and entirely up to the individual on how far they went.
+
+The two bloodline-based Great Powers having opposite interpretations of their bloodline-based powers was interesting, and Matt let himself read some of the deeper analysis but didn’t get too sucked in.
+
+Instead, he went to the third general category of ‘awakened potential’ where the Guilds and the Federation were lumped together.
+
+The Guilds believed that greatness was thrust upon a person and it was up to them to answer the call, which wasn’t a new idea for Matt given what he knew of their Ascender program. On the other hand, the Federation believed that greatness is something you Awaken, meaning one's Talent was the most important determining factor of one's life and would both set the floor and ceiling of one's potential.
+
+Once more, he couldn’t argue the writers were wrong, but it didn’t feel right lumping the Guilds, a place that seemed like a genuinely good place to live, with the restrictiveness of the Federation. But once more, Matt had to catch himself.
+
+Max wasn’t wrong when she said there was no singular answer to what was right. Culture and customs played a large role in what one believed and what they would find acceptable let alone desirable.
+
+Lastly, in its own category, was the Republic, which the paper writers had reportedly struggled to quantify in the other three categories and had so instead given them their own.
+
+‘Chosen potential’ felt a little ostentatious but he couldn’t come up with a better descriptor for the belief that greatness came from everyone else.
+
+Despite the paper writers not liking their designation, Matt actually agreed with their interpretation of the Republic the most. It just seemed to fit, with them being the only Great Power that allowed their citizens so much influence in the government, for good and ill.
+
+Seeing he had finished, Max spoke. “I actually liked the distinctions. They are true to the first degree. Anyone can become strong in our three Great Powers. Here in the Corporations, anyone who can gather money has proven their worth. They either produce it themselves, as the crafters and delvers do. Or they’re the movers who make everything flow. The merchants and traders. A lower-Tier person might be better than a higher-Tier one and they can show that by accumulating more wealth and then advancing in Tier. In the Sects, it's more direct and about combat power but the ideas are the same. Prove you are better and you elevate your status. Even in the Empire, people rise up based on what they can do, as after your Awakenings, you are mostly left to your own devices and it's up to the person to climb over their peers. Your planets are full of indolents, just like you see here, but you also have people like yourself claw their way to the top out of such faceless masses.”
+
+Matt hummed as he said, “It sort of reminds me of the difference in general Domain effects.”
+
+Max punched her hand. “Yes! It's so strange that Domains can have such differences, but it's so interesting. I’ve talked to some of the old timers and these distinctions didn’t really exist before the Shattering, and there have been subtle shifts in the case of the Empire-standard telekinesis gathering the ability to mess with space to an easier degree. But it's far more distinct in the Monster Collective and their split from the Federation.”
+
+Matt gestured and a half dozen stones off the side of the street rose into the air and danced in a complicated weave that would have even earned Luna’s approval.
+
+Max raised her hand, but while she was able to raise a handful of stones with her Domain, there were noticeably more jitters and jumps in her manipulation.
+
+Unsaid because they had been doing it for months, her mental interfaces via Domain were effortless in comparison to Matt, who felt like he was wielding a club with oven mitts taped over his hands.
+
+Instead, Matt wondered what their peoples' Domains said about them and their outlooks on the Realm around them.
+
+Was the Empire able to use telekinesis with their Domains because of how they saw themselves or the Realm, or was it like potion colors and the like where it seemed to change based on public perception? Or was it just as simple as the expectations of society ensuring most people learned the skills first?
+
+That didn’t feel right, but it seemed to be what most of the ‘experts’ believed. Matt personally thought it was deeper than that but had no proof or evidence to support his thoughts.
+
+Their talk continued as they spent a while more exploring the city. Matt had to agree that while there were unawakened, it seemed like most anyone who wanted it could manage to get themselves awakened, even if Matt still disagreed it was a step that added any value.
+
+If nothing else, it was just inefficient when compared to the Empire, where a single monster could awaken dozens of people.
+
+Once they returned to practice, they started to work on Matt’s Domain-based psionics, hoping to use that as an easier way to teach the mental defense lessons.
+
+It wasn’t a panacea that instantly made everything easier, but it helped, and Matt was able to further refine his internal mental defenses. He learned how to not only make his outer shield better, but how to put up a layer of murkiness that someone would have to pierce if they wanted to dig into his thoughts or his memories.
+
+Seeing how easily he created that, Max hoped he could turn that into more advanced defenses, but whatever made it easy for Matt to cloud his outer thoughts, didn’t go further than that. They spent months going over mental strengthening and manipulation exercises, followed by rounds of sparring.
+
+Matt still had a long way to go, but by the end of the three years of training, he was much more confident he would know if someone was trying to root around in his mind. Combined with his army-issued gear and all of its innate defenses, Matt felt quite a bit more secure for when they started fighting up Tiers or in more social battlefields.
+
+He just needed to find something to tempt Sien into a bet with.
+
+From there, they spent his remaining time working on the skills Matt would need going forward to reach his desired outcome of an impenetrable mental fortress that also had the internal awareness to know if it was breached or if anything was affecting him.
+
+Despite his long return trip, he was quite happy with the time spent, as the training with Max was a thousand times more efficient than doing so with anyone else, but he was ultimately more happy to return home than anything else.

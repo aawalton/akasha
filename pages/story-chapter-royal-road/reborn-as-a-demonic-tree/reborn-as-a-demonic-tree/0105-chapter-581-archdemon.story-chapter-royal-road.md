@@ -1,0 +1,191 @@
+---
+id: 7cfbf772-75aa-574f-9963-d13a2e482701
+page-type-slug: story-chapter-royal-road
+title: "Chapter 581: Archdemon"
+slug: 0105-chapter-581-archdemon
+partOf: reborn-as-a-demonic-tree
+position: 105
+ownLength: 2758
+unit: words
+publishedAt: 2026-06-15
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3544254/chapter-581-archdemon"
+royalRoadId: "3544254"
+---
+
+Diana had returned to Hell with two goals. First, to find the Ravena clan inheritance. Second, to emerge stronger than Stella.
+
+She was failing at both.
+
+Despite Hell being the gathering place of all tainted Qi cascading down from the layers of creation—corrupted by the dark emotions of countless cultivators across countless generations—and the supposed birthplace of demons, Hell had turned out to be as profoundly unimpressive a place as last time. It was a desolate hellscape of black rock and harrowing ambient mist, with a surprising shortage of anything worth killing, and Diana found that deeply annoying.
+
+"I've been stuck at the peak of the Nascent Soul Realm for a while now," she muttered, biting down on a beast core and shattering it between her fangs. The demonic Qi inside gushed down her throat, warm and satisfying in the way that dull meditation could never match.
+
+She spat out the remains of the beast core, surveyed the corpses torn apart around her, and concluded they hadn't been nearly enough. None of these fiends had put up any real resistance. "Anyone else would be thrilled with reaching the peak of the Nascent Soul Realm this fast," she admitted to no one in particular, "but I have Stella to catch up to, and these weaklings aren't going to cut it. I feel I still need something more than mere Qi to step into the Monarch Realm."
+
+She sat down on a nearby rock. It looked vaguely familiar, uncomfortably so, actually. After a moment's reflection, she placed it as similar to the one she'd woken up on, naked and confused and newly dead, the last time she'd been in this place. Back when a strange mist demon claiming to be from the Ravena clan had ambushed her in a pocket realm, killed her with insulting efficiency, dragged her here, and remade her from the demonic mist.
+
+She looked at the rock for a moment longer, then looked away.
+
+"I just don't get it," she said. "Why can't I find him again? And where are all the stronger demons?"
+
+The mist offered no answer.
+
+"If I can find him again and force him to tell me more about the Ravena clan, I might finally have the missing piece and step into the Monarch Realm," she clenched her claws and stood up. "I'll wander this hellscape for as long as it takes. I'm not leaving until I'm a Monarch that can stand up to Stella!"
+
+The mist swirled around her in anticipation.
+
+***
+
+A month passed with agonizing slowness, and Diana's motivation had dissipated into the endless mist that surrounded her. Progress had stalled with a terrible lack of prey, and she was still just as lost in finding the Ravena clan's inheritance.
+
+All she had slowly figured out was how Hell worked to an extent. At first glance, it seemed similar enough to the 9th layer of creation. But that couldn't be further from the truth.
+
+Hell's geography, to the extent it had any, was organized by a logic that refused to map onto mortal concepts of space. There was no north. There was no up, technically, except in the sense that the nine layers of creation were above it. Things were where they were because of what they were, not where they happened to be positioned. The mist demon's location—the place he'd dragged her to after killing her—had been his, a piece of Hell shaped by his particular flavor of demonic Qi so that anywhere he stood became somewhere.
+
+"Is that why there are no strong demons around?" she concluded. "Because they created their own spaces that I can't access for some reason?"
+
+She pondered that thought while she continued to explore Hell with dying embers of motivation.
+
+***
+
+Another month passed as she mulled over her discoveries. Attempts to create a space in Hell for herself had proven fruitless, but she had been hit with another idea after munching on a random demon's beast core.
+
+"I might not have any coordinates for the inheritance, but I do have a bloodline. If I want the Ravena clan to notice and accept me, I should take on the form they accept."
+
+Feeling stupid for not thinking of this before, she allowed herself to dissipate into demonic mist. This was the ability she had gained after the last visit to the Eternal Realm, though it was called the Mystic Realm back then. Since she had died and had her body remade into mist, she had started to live up to the Ravena Clan's title of the Immortal Mist Demons.
+
+Now I'll have to wait, she thought as she let the wind take her.
+
+***
+
+An unknown amount of time passed. Diana stopped keeping track, and time seemed to pass differently when she existed as a cloud of conscious mist. Demons occasionally walked through her, the first few she killed and devoured, but soon grew tired of that. Her soul had already reached maximum capacity; further gluttony did nothing for her.
+
+"I am formless," she told herself. That was the first thought she had had all day, or was it night? There weren't such concepts down in Hell. "I am not Diana, I am nothing but the mist—"
+
+Something stirred deep within her upon uttering those words.
+
+"What was that?" she wondered. Latching onto the feeling, she felt it calling to her, like a whisper on the wind. With nothing better to do, she obeyed the call. The wind carried her in a new direction. While Hell didn't really have the concept of direction, to Diana, it felt like being dragged down.
+
+The mist around her slowly grew more dense until it condensed into a thick fog she couldn't peer through. It felt... ancient. As if this fog had been here for a long, long time. Just when she was starting to grow worried, the fog around her condensed further, forming a ruined hall, though she could tell it was a construct of the mist. Real, yes, like her demonic mist clones that could pack a punch, but at the same time, it was fabricated.
+
+As Diana looked around, she felt a presence reach out to her. It was reminiscent of when Ashlock gazed upon his subjects, but this was less intense—more curious. It seemed to verify whatever it sought, and the presence soon spread outward, lighting the columns one by one, illuminating the hall in a way that revealed how vast it actually was. The ceiling turned from darkness into something like a sky, except the sky was also mist, and within the mist were shapes she was almost certain were silhouettes—wings, dozens of them, motionless, like paintings left to dry.
+
+They looked like the mist warriors that had attacked her at the man's command. They didn't dive down to punch her into the afterlife like last time, but rather remained at a distance. Watching her.
+
+Is this it? Have I finally been welcomed into the hidden space of the Ravena Clan?
+
+As if sensing her inner thoughts, the presence solidified.
+
+"Most who find their way here," said a voice from everywhere and nowhere at once—not the man's voice, older than that, older than anything she had a clear memory of hearing, carrying the particular resonance of something that had been mist for so long it had forgotten what a throat felt like, "are trying to take something."
+
+Diana went to speak and found she couldn't.
+
+"They arrive with their hands open," the voice continued, "and their chests full of wanting. Wanting to be stronger. Wanting to survive. Wanting to be the last one standing."
+
+The mist in the center of the hall began to condense. Not into a person—into something that suggested a person, the way the columns suggested architecture. An outline without a face so enormous that it made the ruin around it feel small.
+
+"What do you want, daughter of Ravena?"
+
+Unable to speak or deceive, Diana considered the question in her mind. Initially, she had come in with selfish goals. She'd demanded an inheritance and to surpass her friend in strength. Hell had granted neither.
+
+Instead, it had taught her patience. Anyone else in her situation would have gone mad, but she had persevered.
+
+She looked up at the ancient figure. It didn't owe her anything, nor did it care about her so-called perseverance. She couldn't even begin to fathom what this ancient being had been through and seen.
+
+What did she want? Honestly...
+
+"I want to be worthy of my bloodline," she said finally, surprised when the words left her mouth. "I want to learn of the Ravena Clan's sins, its strengths, its weaknesses. All of it." She met what she assumed was the outline's gaze. "Not because I need its strength to survive, but because the nine realms have seemingly forgotten our name."
+
+The answer seemed to please the outline.
+
+"And what are you?" the outline asked.
+
+Diana had known this was coming. After all, it was a question related to the thought that had led her here. She was not Grand Elder Diana Ravenborne, Nascent Soul Realm demoness, feared throughout the wilderness, and a respected member of the Ashfallen Sect.
+
+"I am a child of the mist," she answered humbly.
+
+The outline didn't move, but the space between Diana and the center of the hall shifted. The resistance that had been there, subtle and enormous like a wall she hadn't quite been able to see, quietly dispersed.
+
+"You've grown quickly, child of Ravena," the outline said. "It's about time you learned a tale as old as time itself. Specifically, the sins and history of the Ravena Clan you wish to inherit."
+
+Diana listened with interest.
+
+The outline did not begin with the beginning. It began with a question.
+
+"What is Qi, child of Ravena?"
+
+Diana opened her mouth. The question seemed too simple to be genuine and too vast to answer quickly, and she had learned in Hell that both were usually true simultaneously.
+
+"Energy," she said carefully. "Cultivators gather it. Refine it. Use it to power their techniques."
+
+"That is what Qi does," the outline said. "Not what it is."
+
+Diana wasn't sure what the outline meant by that.
+
+"Before the nine realms were organized, before Heaven drew lines in the cosmos and declared this is pure and that is tainted, there were only forces. Not energy, not concepts—forces that simply were, the way fire simply is. They existed before realms, before cultivators, before Heaven itself. They were called Origins."
+
+Diana knew about Origins to an extent. Morrigan was the Origin of the Void.
+
+"Each Origin embodied something fundamental: Rebirth, Void, Space, Destruction." A pause that carried weight. "Mist."
+
+The fog around her responded to the word as if called by name.
+
+"Heaven arose—not to create the nine realms, but to organize them. It examined the Origins and rendered a judgment. An Origin of Rebirth is useful—things that are reborn serve the cycle. An Origin of Cosmic is useful—realms require stars. These were permitted to persist, their Qi classified as pure. But the Origin of Mist embodied ambiguity and obscurity. Heaven does not permit ambiguity when possible." The outline's voice remained measured, but Diana could tell it was angry. "So Heaven gave the mist a new name: Tainted. Demonic. It labeled the Origin of the Mist as an Archdemon and cast it down into Hell with a new accursed purpose—to shroud Hell in eternal mist to hide it from the other layers of creation."
+
+Diana's eyes widened. "Couldn't the Origin of the Mist fight back?"
+
+The outline laughed. "No. It was not strong enough to fight against the stronger Origins charmed by the will of Heaven, unaware of what their futures had in store once Heaven got the order they wished for."
+
+"So, is the Origin of Mist sealed in Hell?"
+
+The outline nodded. "The Heavens could not destroy it—Origins diminish and are reborn, so it had to be sealed from the nine realms. However, mist still exists within the nine realms, just like all the other Origins labeled as Archdemons."
+
+"What is mist then if its Origin is sealed down here?"
+
+"A stripped-down version," the outline said darkly. "You will never meet a mist cultivator able to wield it like you can. That's because they are water cultivators, thinking the mist is a fun way to apply water. What you wield, the tainted, demonic mist, is its true strength."
+
+Diana could agree with that. A water cultivator could never mirror the capabilities of her demonic mist.
+
+"And the Ravena Clan?" she asked. "What are we?"
+
+The outline's form shifted, and she could tell another story was coming.
+
+"The Origin slept here, as Origins sleep between deaths. Hell's Qi, dense with every dark emotion that had cascaded down from the layers above, grew denser still around it, saturated with its influence." A pause. "Things grew where the mist rested."
+
+"The Ravena Clan demons?"
+
+"Yes, though they were nothing more than fiends for a long time," the outline mused. "They were more like the moss that grows on a stone that doesn't know the moss is there."
+
+"That's deeply unflattering," Diana said.
+
+"It is also deeply true. But moss has a resilience that stone tends to underestimate." Diana thought she detected something that in a less ancient entity might have been amusement. "Over time, the most perceptive among the fiends began to sense what lay beneath—not to communicate with the Origin, but to feel its presence. The Phantom Shadow Style was not invented. It was remembered, drawn up from the primordial logic of the Origin, the way a child inherits a talent without inheriting the memory of how it was developed. And with every Ravena who mastered those abilities, the seal grew thinner—another thread of the Origin reaching through the barrier, without the Origin ever having to ask. Before long, those unthinking fiends had evolved into intelligent demons of the mist. The first generation of the Ravena Clan that the nine realms would soon come to fear."
+
+"How did the Ravena Clan reach as high as the 3rd layer of creation then?" Diana asked curiously, having discovered that the Ravena Clan had once dominated the nine realms, only to be mysteriously wiped out. Even the Worldwalkers hadn't known how or why.
+
+"Demons birthed in hell cannot freely step into the nine realms, but they can be summoned," the outline explained. "Usually, Heaven doesn't care for these summoned demons. What it fears is a summoned Archdemon, and as the Ravena Clan's influence spread, the seal holding down the Archdemon of the Mist thinned."
+
+"The Heavens couldn't let that happen," Diana guessed.
+
+"The Ravena Clan had been careful with this in mind—centuries in the lower layers, in places Heaven paid little attention to. But by the time the clan reached the 3rd layer, the Heavens believed it was time for some maintenance."
+
+"Maintenance?" Diana asked, the wording sounding strange.
+
+"Yes," the outline said with thinly veiled disgust. "The massacre was not a war. There were no ultimatums, no demands issued, no opportunity for surrender. The Ravena were a structural flaw in a cosmic architecture, and they were corrected. A whole clan, in a single day. The survivors were few, scattered across enough layers that they fell below the threshold of Heaven's concern—strays too diluted to constitute a structural problem."
+
+"Why didn't the Ravena Clan ever rise again?" Diana asked. This question had been bugging her since the first time she heard the story.
+
+The outline smiled. "Cut off from the stragglers by the Heavens' new seal, and with our name becoming forbidden knowledge like many other bloodlines, nobody summoned Ravena Clan demons anymore."
+
+Diana's eyes widened. That explains why the Heavens always reacted when we spoke of bloodlines. Demons can only be summoned if their names are known. Is the Crestfallen Bloodline also from an Archdemon like mine? But still, something doesn't make sense.
+
+"Why didn't any other bloodline holders come here and learn this story?"
+
+"To Hell?" The outline tilted its head in confusion. "Demons can only be summoned from Hell to the nine layers of creation, not the other way around. Actually, the fact that you are here breaks all rules..." It paused, and what could be described as fear gripped the outline. "Unless... unless that Origin brought you here."
+
+"Which Origin?" Diana asked. Was it talking about Ashlock?
+
+The outline just stared at her, not offering an answer.
+
+Mist swirled around them, and the room began to feel cold.
+
+The outline, it seemed... angry.

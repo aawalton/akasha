@@ -1,0 +1,331 @@
+---
+id: 3e1e3680-2282-5751-a27b-e88a292428ff
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED FIFTY: Rain on Anesidora"
+slug: 0252-two-hundred-fifty-rain-on-anesidora
+partOf: super-supportive
+position: 252
+ownLength: 3953
+unit: words
+publishedAt: 2025-10-16
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2680043/two-hundred-fifty-rain-on-anesidora"
+royalRoadId: "2680043"
+---
+
+CHAPTER 250
+
+Rain on Anesidora
+
+[...so I’m going to wait for the rain to stop before I fly to Matadero. Let me know if that’s a problem for scheduling the teleport. I’ll see you soon.]
+
+Alden finished his message to Stuart. MPE was over, the building’s entryway was full of Alden’s classmates, and Haoyu and Heloísa had just unpackaged a lightweight tarp Alden had been keeping in the duffel bag of random objects he always brought to gym. The two of them were standing on either end of the tarp, flapping it up and down to fill it with air.
+
+“Again!” Haoyu said. “We can get it more umbrella-shaped!”
+
+“Puffier!” Heloísa agreed.
+
+“I think Alden will need a handle, won’t he?” Njeri asked. “Shouldn’t you attach one to the center before you even try to make the top part of the umbrella?”
+
+Jupiter was lying on the floor by a trophy case, folding a bag that had once held shrimp chips into a fan. “I can make a handle. There’s a vine I’ve been wanting to borrow.”
+
+“Alden’s got a lot of duct tape,” Vandy informed everyone. She was going through the duffel bag. Still. He’d given them permission to search it for supplies, but she seemed to be spending more time with her head stuck in the bag than necessary for that task. “Alden, I’m tying these tape rolls together so that they aren’t scattered everywhere.”
+
+“Don’t organize for me, Vandy. It’s meant to be a grab-bag of junk.”
+
+The group of helpers was growing as others changed out of their unitards and joined them here. A short while ago, in the locker room, ‘Remember how Alden got into the program with an umbrella shield?’ had somehow turned into, ‘Alden, wouldn’t your skill work for just a few minutes if you recovered for a while?’ which had turned into ‘We all have to walk back to the dorms under a single giant umbrella for the class montage!’”
+
+“An Object Shaper might be able to help make a better umbrella shape,” Alden said. The others seemed not to have noticed the Shaper in question had been trying to hint that he wanted to be asked for help ever since the creation of an oversized object was mentioned.
+
+“I can!” he said as soon as the words were out of Alden’s mouth. He launched himself toward Haoyu and Heloísa with his hands raised.
+
+“Didn’t you tell Klein you’d worn your shaping out with Fragment, though?” Haoyu asked.
+
+“I can do enough for this.”
+
+Alden was glad Fragment had had time to teach today. She’d recreated a section of a collapsed structure she’d helped with after the floods, and she’d gone through the process of removing it piece by piece, letting each of them accomplish bits of it in their own way while she gave advice.
+
+Everyone had been more serious about it than the last rescue practice they’d had, and it had cooled the hotheads off more than anything else they’d done all week. Even though the S-ranks had been jabbing sore feelings by continually mentioning the info sessions and open tryouts Li Jean was having for the Elites program this weekend. Febri and Marsha had just left after talking each other into going straight back to the dorm to take sleep aids. They thought an early bedtime would give them an edge when they headed to the other school tomorrow to do whatever they were doing to try to prove their worth.
+
+Those two were swimming in so much adrenaline that Alden was sure any sleep aid they could get wasn’t going to penetrate. And they were missing this class bonding experience. Even Winston was here. He was trying to tell Kon it wasn’t necessary for Kon to make a montage of his own without sounding like he was doing that. But there was no chance he wouldn’t be standing in whatever the premium spot for an umbrella group walk was and smiling for the cameras.
+
+Thunder rumbled through the building.
+
+Everly had her snowball drone out as she leaned against the wall between Alden and Tuyet. “Jeffy really does post everything that crosses his mind when he’s online. I’m looking at his account right now. ‘My mohawk always gets messed up in gym. Our whole class is going to walk under Alden’s giant umbrella together because there’s a storm. Alden works at the hospital now. I just finished using the hand dryer. The hand dryers in this school aren’t any stronger than hand dryers in regular bathrooms.’”
+
+“Why would they be?” Tuyet asked.
+
+Alden snorted.
+
+“Alden works at a hospital?” Vandy asked.
+
+“I volunteered at Central Crescent today.”
+
+“Are you going to post about it?” Winston turned away from Kon to stare at him.
+
+“I was planning on it, but it turns out they don’t treat birds, so I changed my mind.”
+
+Winston gave him a blank look.
+
+“That was a joke about my Trime account...”
+
+Everly had the decency to giggle.
+
+“One of Jeffy’s followers is suggesting we all pretend to fight the storm,” she said. “I don’t know how that would work. Maybe we could do something like a few people looking nervous under the umbrella, and then as more and more of us join the group we start to look braver?”
+
+“Class unity!” Haoyu cheered. “Let’s do it!”
+
+Alden had been about to protest that he didn’t want to turn this into a play, but if Haoyu was into it, he wouldn’t dampen it.
+
+“I don’t want to look nervous unless the storm actually looks dangerous,” said Mehdi.
+
+“I can be out there holding onto a lamppost!” Astrid said. “Acting like I’m about to blow away. And you can all pull me under the umbrella.”
+
+“You’ll get wet,” said Everly.
+
+“That makes it better, doesn’t it? Lexi can take off his uniform jacket and give it to me.”
+
+“What?” Lexi had been waiting impatiently by the doors. He wasn’t such a spoilsport that he wouldn’t do a thing the whole class was doing together, but he did seem to want them to get a move on. “Why would I do that?”
+
+“Because you’re the only person still wearing your uniform this late in the day. It’ll be like a sign of the class’s warmth welcoming me in from the cold. And having a job with a prop will make it so that you don’t have to really act.”
+
+“Why do you think I can’t act?”
+
+“Uh…” Astrid glanced away from him.
+
+Kon jumped in. “He’s a good actor, Astrid. I’m better. But he’s decent. He just doesn’t bother to smile unless you specifically tell him it’s an acting job.”
+
+“I should leave you all,” Lexi said. “And you’re not better than me.”
+
+“Yes I am.”
+
+“You’re not.”
+
+“Believe what makes you happy. We can let Jeffy rip his shirt off for Astrid. I’ve already gotten him to reenact his literal shirt rip for the montage once, but that’s fine.”
+
+“I could do it,” Winston said.
+
+“I’ll do it,” said Haoyu. “I could make it just like ‘Jeffy got in.’ Like it’s spreading through the class.”
+
+“I’ll rip mine off, too,” said Heloísa, laughing. “I’ll make that noise some of the guys do on Brutal Ring and act like it’s actually hard for me to tear the fabric. Raaaaaaahahaha! Lucille can do it with me. Strength Brutes together. Come on, Lucille! Raaaaaaahahaha!”
+
+Lucille shook her head so hard her hair clip flew across the entryway.
+
+“I think I can probably act well,” Mehdi mused. “I would be willing to take the lead role.“
+
+“I’ll do it,” said Lexi. “The rest of you try to be sane. I’m willing to be involved in ‘Astrid gets helped by her classmates.’ That was an okay idea. But I’m not taking part in some kind of ‘Jeffy has infected us with shirtlessness’ video.”
+
+Several people booed him.
+
+When Alden left the building a while later, he and an umbrella made out of a tarp were the central figures in the opening scene of a short film about a bunch of teenagers finding shelter and friends in the middle of a rainstorm. It was more than he’d agreed to when the idea was first presented, but walking in the middle of a crowd who were having fun and coming up with the most ridiculous things to say in order to have their moments in the spotlight was all right.
+
+By the time they were halfway back to the dorms, Stuart had received Alden’s message and called to check on him. The Artonan was heading across the siblinghold grounds toward the cottage. “You should not fly at night in a storm without your skill,” he said. “What if you were killed by lightning? What if you became disoriented in the dark…what...are you doing?”
+
+[My gym class wanted to make a video together. This is the last day before exam week, so they’re in a good mood. I’m protecting us from rain.] Alden lifted the tarp higher by its curved vine handle to show it off. [I don’t think my skill would save me anyway if lightning hit something I was using it on. Not that I’ve tested it.]
+
+“Raise our protection even higher!” cried Mehdi, who’d apparently noticed Alden’s arm motion. “Defy the storm!”
+
+People clapped and shouted their own peculiar ideas of good lines.
+
+[They’ve all gotten stranger since we started,] Alden explained.
+
+Stuart had stopped walking. His tucked chin and raised brows turned into a curious expression after he’d analyzed the situation Alden was in.
+
+“I see Kon,” he said. “Kon’s brother looks like Kon.”
+
+[They do look alike.]
+
+“I will let you enjoy your time of camaraderie.”
+
+He said that, but he didn’t hang up.
+
+[You can watch if you want to. Half of these people are posting pictures on the internet while we do this. It’s not a private class moment. Here comes Haoyu. My roommate. Do you remember him?]
+
+Haoyu was up ahead, shivering dramatically by a puddle he’d found in the grass. They called out to him, and he ran through it with the most excessive splash he could manage.
+
+“I thought I would freeze to death,” he said, when he made it into the huddle of sympathetic faces and back pats. He was looking straight at Everly’s drone.
+
+“Isn’t Haoyu someone who has focused his magic on the durability of his body?” Stuart asked. “Should he be cold?”
+
+[He’s not really freezing.]
+
+Haoyu met Alden’s eyes with a soulful gaze. “Do you walk through every storm in search of lost travelers?”
+
+“I do,” said Alden. “This campus is a dangerous place. Someone has to do it.”
+
+Stuart went to sit on a tree root. He was already invested in the show. As they approached the finale over the next few minutes, his comments were making it impossible for Alden to keep a straight face. When Astrid was saved from the rain, the wind, and the extra wind Everly had talked Vandy into providing, she was given a warm, dry jacket by a kind gentleman with a soft voice and a melting smile that Lexi must usually have kept stored down in his toes.
+
+“Is that girl the only person he likes in your class?” Stuart asked.
+
+[No. It’s just part of the story.]
+
+“Is she the only person he likes in the story?”
+
+[In the story, we all like each other equally. It’s a story about our unity as students.]
+
+“I don’t think he does like the rest of you,” Stuart said. “Most of the people there are wet, and he didn’t give them his coat.”
+
+“Alden, stop laughing. This is the serious ending,” Everly hissed.
+
+Alden bit his lip.
+
+“If it’s meant to be a serious ending, you should do it over again,” said Stuart. “I think it’s very funny like this. Haoyu even said he was freezing, and the rest of you forgot about his pain immediately.”
+
+Everly elbowed Alden.
+
+“And that girl should take off the wet shirt before she puts on the dry coat. Tell her to do that.”
+
+“Thank you,” Astrid said to Lexi and the camera, her eyes glistening. “Thank you so much.”
+
+“If she’s thankful, why is she getting his coat wet and wasting its benefit?”
+
+[You have to stop. I can’t act correctly.]
+
+“They can’t act correctly either if Kon’s brother is supposed to be liking the rest of you equally.”
+
+******
+
+******
+
+After Alden delivered everyone back to the dorms and ended the call with Stuart, he had to return to the MPE building to get the nonagon and his duffel bag. Haoyu came along, as did Lute, who wanted the experience of standing under an umbrella that was almost the width of the walkway.
+
+“Have we missed our window to go to North of North?” Haoyu asked. “It took longer than I thought it would to make the video.”
+
+“That’s because everyone kept adding ideas to it. The forecast keeps extending the amount of time the rain’s going to last, so I’m going to be here for a while. We can do whatever we want. I’ve inhaled a lot of recovery potion lately, though, so if we do go hang out at North of North, I’ll probably do something other than the sauna. I wouldn’t mind using one of the hologram training rooms if one’s available.”
+
+“Aren’t you tired from gym?” Lute asked. He was walking right at the edge of the tarp like he was daring one of the streams of water pouring off of it to hit him.
+
+“I am, but what I want to do in the hologram room doesn’t have to be aerobic. I’m trying to learn to spin and flick things fast with my fingers and still have good control. The training room can provide moving targets that know if you point a weapon at them or hit them with something. I’m basically talking about pointing sticks at them accurately. Maybe flinging a few projectiles.”
+
+“You’re turning it into a video game! I’ll play!”
+
+“He’s sure he can crush you if it’s a video game, Alden.”
+
+“I know.”
+
+“Don’t hate me because I’m elite....the annual spa admission Alden got me  doesn’t include the hologram rooms, though.”
+
+“Let’s just go and see what they say,” said Alden.
+
+“We could swim if the rooms aren’t open,” Lute suggested. “Haoyu looks like he’s already been in a pool.”
+
+They helped Alden fold the tarp when they reached the MPE building, and he stuffed it into the duffel bag under rolls of tape that Vandy had put on a loop of paracord. The doors to the gym opened while he was zipping the bag, and a man in blue jeans and cowboy boots stepped through. Instructor Waker was in his Little Snake form.
+
+His closet must look like different men share it. Big Snake couldn’t wear a single thing Little Snake has on.
+
+“Hey there, Haoyu! And Alden. Saw you all leavin’ earlier under the big umbrella. Did it work?”
+
+“It did,” said Haoyu. “Me being wet was part of the plan.” There was a puddle growing on the floor underneath him.
+
+“Good to see everybody havin’ fun after class.” Instructor Waker glanced at Lute.
+
+“This is our roommate. Lute,” said Alden. “He’s the one who’s helping me learn wordchains.”
+
+Instructor Waker most likely knew Lute on sight. There wasn’t anyone else on campus with an eye patch. Lute had a new green one on today.
+
+“Nice to meet you! Watch out for Instructor Klein. If you teach Alden a few too many good ones, he might decide to stick you at the front of a classroom to tutor everybody. You guys busy?”
+
+“Not really,” said Haoyu.
+
+“We’re going over to North of North,” said Alden.
+
+“If you’ve got a few minutes, Alden, you might want to swing by the faculty lounge upstairs. Fragment’s up there, and she had something to talk to you about. Easier to do it now than tryin’ to set up a call or meetin’ next week.”
+
+Alden stood. “Okay.”
+
+Upstairs, the classrooms were all dark and locked, but the door to the faculty lounge was open. Fragment was the only person there, and it looked like she might be getting ready to leave when Alden poked his head in. Her purse was on the table, and she was picking up a teabag wrapper from the floor by the trashcan.
+
+“Hi, Instructor Fragment. Instructor Waker said you might want to see me?”
+
+The wrapper fluttered into the can, and Fragment straightened. She had on a black jacket with the 2031 EarthBox Games logo on the front. The sleeve cuffs had lost their elasticity, and they fell past her wrists all the way to her fingertips. “I did. Come in and shut the door.”
+
+Alden stepped into the room.
+
+“I’ll get right to the point so that I don’t keep you from whatever you were up to. Would you like to have a visitor on the twenty-eighth of the month?”
+
+“A visitor?”
+
+“From home.” She shoved up her loose sleeves, a smile deepening the laugh lines in her light brown skin and scrunching her eyes. “A family member or friend who’s on your approved guest list. It can only be one person, and it has to be that day. I was trying to make a holiday arrangement for another student, and a day visitor was the best I could manage. But it turns out I made a wrong assumption about what they’d like. They don’t want to take advantage of it.”
+
+“Are you serious? I’d love that!” He’d been too busy to dwell on not being able to get permission to go to Chicago for Christmas, but the idea of a guest during the holidays was so exciting it made him realize he’d still been a little unhappy about it. “Let me get in touch with my aunt and my friends right now and see if one of them can do it. I thought the government had cancelled almost everyone’s visitors for the next couple of months because of the disaster?”
+
+“Most of them. A percentage of the people who were at the front of the queue kept their slots. I found an acquaintance who preferred not to have company over when the island’s looking like this, and then we found a sympathetic person at the travel office to let us donate the slot to a student in need.”
+
+“Is it okay to give this to me?  I did get to see a couple of people from home while I was in intake.”
+
+“One visitor for one day isn’t much. And didn’t you miss your entire three-month exit period from your home country? I don’t think you have to worry about it being unfair to anyone.”
+
+He messaged Boe first, wanting him to say yes even though he suspected that day-tripping to Apex was something Boe wasn’t going to be eager to do.
+
+Sure enough…
+
+[Thanks. I’d like to see you, but what if there’s a security protocol to make sure no unauthorized Avowed are coming and going from the island? One that will detect me. We know catspace works. Not anything else. And they must have tightened things up even more after the attack.]
+
+Alden tried Connie next.
+
+“My Aunt Connie,” he said to Fragment as soon as he’d received her yes. “Connie Hatcher. She can be my guest that day.”
+
+“I’ll take care of it. Watch for a confirmation from the travel office and let me know when you get it.”
+
+“I will. Thank you so much.”
+
+He rejoined Lute and Haoyu and told them about it. They were both happy for him, and they said they were excited to meet his aunt.
+
+“You can hang out in the dorm with her while she’s here. I’ll be there, but I’ll pretend to have manners,” said Lute.
+
+“That’s not necessary with Aunt Connie. She’ll be more comfortable if you swear a lot and eat ramen with your bare hands.”
+
+“She’s going to think I’m perfect!”
+
+They walked to North of North using the nonagon as their umbrella. On the way, they talked about Emilija, who had just sent Alden a message saying she’d spent twenty hours sorting emails so far and she was only half done. Then they discussed a rumor Haoyu had heard that Instructor Waker and Principal Saleh were dating, laughed about how awkward Alden must have looked holding a super realistic naked doll with an experimental heart, and tried to decide how all of them and Lexi should celebrate their birthdays next quarter.
+
+“I expect presents,” said Lute.
+
+For Christmas, Alden was planning to give Lute most of the scented pencils he’d bought from the Artonan paper shop after the Here-to-There. He didn’t know what he was going to do for a birthday the next month.
+
+“Alden’s having a party,” Haoyu said. “A good birthday party with no chaos. That’s the plan, right?”
+
+“It is. I haven’t decided who’s invited or what I’m going to do, but the absence of chaos? That’s a must.”
+
+******
+
+******
+
+It is raining on Anesidora, and in the streamview cottage, Stu-art’h is kneeling on his learning cushion, contemplating as if all the things he thinks of are here with him in the present.
+
+This morning, he leaves the new study journal on the table, wondering if Alden will look at it again but not wanting to bother him by asking.
+
+One day last year, he pulls one of his study journals from a shelf in the top library at the Rapport school, knowing there will be no words of approval from his peers written on the final pages.
+
+A short while ago, he walks into the cottage and sees that the new journal has moved to his learning cushion, as if someone wants him to read it. He takes off his boots in such a hurry that he almost falls over.
+
+It is raining on Anesidora. Stu finds this out while he is waiting for his turn to use the summonarium at LeafSong to go home. Alden sends him a message to tell him so.
+
+Stu is arriving at the siblinghold and passing through the doors of his family’s own summonarium. Jozz’s voice comes from one of the tree baskets up above, and Stu hurries away before he can be noticed.
+
+The tablet that assigns all calls to Evul’s name is in Stu’s hand, and he is telling Alden not to be killed by lightning.
+
+He is seeing that Alden is surrounded by so many people. They are his own age, his own species, speakers of his own language. They are Avowed. They have just practiced Avowed magic with him. They look happy except when they’re pretending to look sad that they’re wet.
+
+Alden says Stu can watch if he wants to.
+
+Stu wants to, and yet watching makes him feel far away and alien.
+
+Stu is realizing that the new journal being moved to his cushion means there might be a reply.
+
+His fingers are opening the cover very slowly and respectfully. In case.
+
+And yes.
+
+On this page.
+
+Stu reads one line and then pauses, intent on missing nothing.
+
+“When we tell someone we’re going to build something…”
+
+“..our determination to get there...”
+
+“This applies to brothers who say a friendship won’t work. And to lots of other things, I’m sure.”
+
+Stu reads the words many times. He thinks about what the words mean, but more loud in his head than the words themselves is the thought that it is raining on Anesidora.
+
+And the only reason he knows the weather in that place is because he has found a true friend there.

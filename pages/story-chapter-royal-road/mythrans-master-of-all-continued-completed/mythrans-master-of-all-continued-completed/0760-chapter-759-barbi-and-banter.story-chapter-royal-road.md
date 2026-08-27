@@ -1,0 +1,309 @@
+---
+id: beb936b1-213b-5353-a44a-1365a13ec559
+page-type-slug: story-chapter-royal-road
+title: "Chapter 759 - Barbi And Banter"
+slug: 0760-chapter-759-barbi-and-banter
+partOf: mythrans-master-of-all-continued-completed
+position: 760
+ownLength: 2955
+unit: words
+publishedAt: 2018-11-12
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/306132/chapter-759-barbi-and-banter"
+royalRoadId: "306132"
+---
+
+If anyone had been left, they would have seen the Gnomes as they transported themselves back to their homes and work places, just as quickly as they had appeared. All that remained on the impromptu battlefield were loot drops from all of the Adventurers that were killed. No one remained to gather it.
+
+********
+
+“Damn, did you see that?” The night programmer asked his friend on video chat. “The system just TPK'd every Adventurer that entered the Gnome lands!”
+
+“I have never seen so many Total Party Kills in my lifetime.” The guy responded, then laughed. “Even the death notices have changed. Vasalor's getting sarcastic in his old age.”
+
+“What?” The night programmer hadn't read the popups for the deaths.
+
+“He warned them about not listening to his warnings.” The guy said.
+
+The night programmer laughed when he saw it for himself. “That's awesome.”
+
+“Well, not for the switchboard in the morning when everyone calls to complain.” The guy said.
+
+“I'm already getting player notices for messages.” The night programmer said and opened a few of them. “Yep, complaints.”
+
+“No kidding?” The guy on the video chat asked sarcastically, and they both laughed.
+
+*
+
+Ren had been working on Barbi for nearly an hour when she had finally had enough and couldn't take it anymore.
+
+“S-stop. Stop.” Barbi said, and he lifted his face up from between her legs to look at her. “Ren, please... th-that's enough.”
+
+“But, I'm not done thanking you yet.” Ren said and gave her another lick, and her whole body shivered.
+
+“Y-you might not be done; but, I am.” Barbi said. “I can't take any more.”
+
+Ren leaned back in close and she tensed up, so he gave her a very gentle kiss and leaned back against the pillow that was propped against the headboard.
+
+Barbi sighed in relief and laid back down, then tried to get her breathing to even out. “Good god, Ren.” She said. “How can you keep going like that?”
+
+“I'd like to say I've had lots of practice.” Ren said. “That's not true, though. I rarely get to indulge myself like this.”
+
+“You're the one that's indulging?” Barbi barked a laugh. “Ren! You made me squirt!” She nearly yelled. “I've never done that before.” She put a hand over her eyes. “It went all over your face!”
+
+“That was a pleasant surprise, wasn't it?” Ren asked, and just like when it had happened, Barbi knew that he wasn't disgusted by it or turned off in the least. At the time, he wouldn't have wiped it off if she hadn't made him stop pleasing her to do it. That had surprised her immensely.
+
+“Oh, a real surprise.” Barbi said and took a deep breath, then remembered where she was. Her legs were still spread open in front of him and her special place was still exposed. Her face flushed red as she blushed and she reached for her shorts to fix them.
+
+“What are you... oh!” Ren saw what she was doing. “I'm sorry. I should have done that myself.” He said and grabbed several tissues and carefully dabbed at her special place, then wiped it without being rough with it, or copping another feel. “We were talking and that distracted me.”
+
+Barbi was once again surprised that he hadn't just covered her like she was going to, and had cleaned her up instead. When he had gotten everything he could see, he adjusted her shorts and put them back into place without touching her, despite being right there and she had no way to stop him.
+
+“You'll still need to wash up in the bathroom, though.” Ren said. “I was warned that if it's not cleaned properly...”
+
+“Are you for real?” Barbi asked and propped herself up on her elbows. “Ren, even when I somehow managed to convince a guy to go down on me, he would never...”
+
+“I'm not like other men.” Ren said. “My main priority is making you happy.”
+
+“But... this was... didn't you...”
+
+“Oh, I enjoyed it a lot.” Ren said with a huge grin. “I was still doing it to thank you, though.”
+
+“Well, I... I feel... very, very thanked.” Barbi said, and he laughed.
+
+“I'm glad.” Ren said. “Now, you've got two choices for the dismount.”
+
+“The what?”
+
+Ren pat the stack of pillows she was on. “You can try to sit up and then step over them.” He said. “I can't help by holding your hands, since I can't support your weight with my injuries like that. Or, we can brace you like we did to get you there, remove the support pillows behind your back, and you can tip all the way over and roll backwards.”
+
+Barbi smiled a wicked smile and laid back onto her back, carefully lifted her legs straight up, then let them fall towards her head. As they did, she spread them out and her body rolled up and over itself and she ended up in the perfect split at the foot of the bed.
+
+“Holy crap!” Ren exclaimed. “How did you do that?”
+
+“Liked that, did you?” Barbi asked, then tilted to one side to bring one leg in under her, then did the same to the other leg.
+
+“That was amazing!” Ren said. “Are you a gymnast or something?”
+
+Barbi laughed. “Nothing so lofty as that.” She said. “I've just been able to do it since I was a kid.”
+
+“Wow, really?” Ren asked, and she nodded. “I'm so jealous.”
+
+“What? Why?” Barbi asked. “It's just...”
+
+“Your tendons and ligaments need to be flexible to do that, especially being able to put your legs right out to the sides like that.” Ren said in admiration. “If I tried something like that, my legs would probably fall off!” He said and laughed.
+
+Barbi laughed, too. “Let me get these pillows out of the way.” She said and took the top one and tossed it to the floor, since it was soaked, then took the rest of them to the closet.
+
+“I've been meaning to ask you something and I haven't had the chance until now.” Ren said.
+
+“Go ahead.” Barbi said as she opened the closet and put the pillows back on the shelf she had retrieved them from. She expected him to ask if she had done similar tricks with other men, and she was surprised when that wasn't what he asked.
+
+“How can women wear such loose clothing, and still look like they are barely wearing anything?”
+
+“What?” Barbi turned around and looked at him.
+
+“You're wearing a loose t-shirt down to your hips, and bulky boxer shorts that completely cover everything, and yet all I can think about is how sexy you look.”
+
+Barbi stared at his face to see if he was exaggerating, and she didn't see any nervous ticks or twitches, or any sign that he wasn't telling the truth. It took her a minute to think about it, then she smiled.
+
+“It's simple, really.” Barbi said and closed the closet. “It's the potential.”
+
+Barbi took a step towards the bed, then did a little twirl. Her t-shirt billowed out slightly and lifted a little, and her boxer shorts with the slit in them did the same thing. Since she wasn't wearing any underwear, they flapped open just enough and Ren caught a glimpse of her special place. She stopped when she completed a full turn and saw the expression on his face.
+
+“You don't actually have to see anything. Just the hint. Just the possibility is enough.” Barbi said and turned around, pulled the t-shirt up a little and held it tight, then bent over slightly. The boxer shorts were only a thin silk, so when she bent over, they rode all the way up and the front flaps billowed out again. It only revealed about half of her butt cheeks and nothing else; but, the potential to see everything was right there.
+
+Ren caught his breath at the sight, and she straightened up and turned to look at him. His mouth was open in that little 'o' of surprise, and that tickled something inside of Barbi and gave her a little thrill. Unlike the years of practice she had doing similar things for other men, she somehow knew that Ren appreciated it, and she walked sexily over to the bed.
+
+“Barbi...” Ren tried to say something, then she climbed onto the bed and he stopped talking.
+
+“Seeing it all is a thrill, and almost seeing it is a thrill on its own.” Barbi said and was about to lay down to cuddle him, when she saw where his hands were. “Ren...”
+
+“Can... can you call...”
+
+“After this long, I'm sure she's as asleep as Lisa and Stella are.” Barbi said. “Is... does it hurt?”
+
+Ren thought about saying that it was okay, then remembered the last time he had tried to say that. “No, but it's getting there.”
+
+“How long...”
+
+“I was okay while pleasing you, since I knew I wasn't going any further than that.” Ren said. “Then you did your little show, and... well...”
+
+“Wait, you've had it for... for...” Barbi stopped and looked at his face. “Can I look?”
+
+Ren moved his hands and she pulled his pyjama bottoms down to reveal him, and it was turning dark red and looked like it was hurting.
+
+“In my head I call it a 'raging hard-on'.” Ren said.
+
+“A raging...” Barbi reached a hand out and gently touched it. “It feels like it's made of steel.”
+
+“I... I know this is... a lot to ask...”
+
+“What do I do?” Barbi asked, and he didn't hear any hesitation in her voice at all.
+
+“Get the bedpan.” Ren said and pointed.
+
+“The bedpan?” Barbi asked. “But... usually...”
+
+“You're going to need it.” Ren said, and she looked at him with wide eyes.
+
+Barbi didn't question him further and retrieved the bedpan from the shelf on the nightstand. “Okay, now what?”
+
+“It's pretty self-explanatory.” Ren said with a smile.
+
+Barbi chuckled. “Grab on and start pulling, right?”
+
+“Not too hard, though.”
+
+“Don't worry. I'm practically an expert at this part.” Barbi said and she held him firmly and gently, then started to move her hand. “I've had to do this a lot with my last boyfriend because...” She stopped talking when Ren touched her lips with a finger.
+
+“I'd rather concentrate on the woman in front of me, and not on her old boyfriend.” Ren said. “I'll never get off that way.”
+
+“Sowwy.” Barbi mumbled.
+
+Ren moved his finger and cupped the side of her face. “Can I undo your ponytail?”
+
+“As long as nothing gets in my hair.” Barbi said.
+
+“Oh. Well, I can't promise that, so no.”
+
+Barbi blinked her eyes for a moment. “You're not kidding.”
+
+Ren shook his head.
+
+“Okay, now I've got to see this.” Barbi said and increased her efforts. She adjusted where she laid down and used a pillow to prop herself up, so she could use both hands, then she gave him a two-handed massage.
+
+On his penis.
+
+Ren hadn't had anyone do that to him before, where they rubbed, stroked, squeezed, and teased, so he was pleasantly surprised at both her expertise and how quickly he was approaching the finishing point.
+
+“I... damn, Barbi.” Ren said. “I...”
+
+“It feels good, doesn't it?” Barbi asked. “I always get complimented on it.”
+
+“No... wonder.” Ren panted. “It's a... great... technique!” He exclaimed and pointed to the bedpan. Barbi grabbed it with one hand as she stroked with the other, and put it in the way just in time as Ren finished. Her eyes widened as it splashed and rang in the metal pan as he kept going, and she kept stroking.
+
+It's like magic. Barbi thought in surprise. A moment later, she stopped pulling on him.
+
+Ren went a little more, then took several deep breaths. “Whew. Ooo.” He panted. “You're really good at that.”
+
+“Thanks.”
+
+“I'm glad I wasn't too far gone that it wouldn't work.” Ren commented.
+
+“Wh-what?”
+
+“If it gets to the point of actually hurting, you can't touch it with your hands.” Ren explained. “Any kind of technique like that would be useless.”
+
+“But... if you... hold on.” Barbi let him go and propped herself up on her elbows. “If you get to the point that you can't touch it, how did they get you off?”
+
+“I said 'with your hands'.” Ren said and tapped his lip with a fingertip.
+
+“Wait, that still works?”
+
+“I think it's because the pleasure from a mouth helps to override the pain.” Ren said.
+
+“Wow, really?”
+
+“I was surprised the first time it happened, too.” Ren said. “I thought I was so screwed.”
+
+Barbi snorted a laugh, and Ren chuckled.
+
+“You know what I meant.”
+
+“Yeah.” Barbi looked at him and the redness had eased away some. “Hey, you're still hard.”
+
+“I'll be like this for a while.” Ren said.
+
+“But... you just...”
+
+“I can keep going.” Ren said.
+
+Barbi thought about that. “I dated a guy once and he could go three times, with a break of a few minutes in between.”
+
+“What happened to him?”
+
+“He was an asshole and cheated on me with a co-worker.”
+
+“What? Why?”
+
+“Just a different piece of ass, I guess.” Barbi said. “I never asked.”
+
+“How many times?” Ren asked.
+
+“How many times, what?”
+
+“How many times did you get your heart broken like that?” Ren asked.
+
+“Wh-what?”
+
+“A guy would have to be crazy to be dating a dream woman like you, then go behind your back and sleep with someone else.” Ren said. “I'm curious about how many crazy guys you've dated.”
+
+“I thought you said it didn't matter.” Barbi said.
+
+“It doesn't matter to me, not even a little bit.” Ren said. “But, even an amicable break-up still hurts.” He said. “I've been in break-ups myself and those little daggers still dig into my heart.”
+
+Barbi opened her mouth to tell him to forget about it, then sighed. “Too many.”
+
+“Well, you don't have to worry about that anymore. Not if you don't want to.” Ren said.
+
+Barbi looked at him with wide eyes. “What do you mean?”
+
+“Well, since the garden party, we are technically dating.” Ren said. “We've cuddled a few times, once even a little naughty, and now we've seen each other naked.”
+
+“Not completely.” Barbi said. “I haven't even stripped for you yet.”
+
+“Mostly naked, then.” Ren smiled, then it was his turn to widen his eyes. “Wait, did you just say you'd strip for me?”
+
+“Eventually.” Barbi corrected. “I usually save something like that for a special occasion.”
+
+“What's more special than being my birthday present?” Ren joked, and she laughed.
+
+“I meant something more like our 6 month anniversary.” Barbi said.
+
+“I'd be happy to wait that...” Ren stopped talking for a moment, then continued. “I look forward to it.”
+
+Barbi realized what he meant. “Oh, Ren. I'm sorry.” She said. “I didn't mean...”
+
+“It's okay.” Ren said. “If we're all lucky, I'm going to be around for a very long time.”
+
+“Ren...”
+
+“I said it's okay.” Ren smiled. “Look at my life right now.” He said. “I'm rich. I have a bevy of women around me who care about me. I can play my favorite game anytime I want and I can kick ass in it.” He chuckled. “If my guess is right, by morning Elise is going to own pretty much every company that benefited from what happened to me, and everyone is going to know about it all.”
+
+“You're actually happy that everyone will know your situation?” Barbi asked.
+
+“I wasn't hiding it; but, I almost never volunteer to tell people the circumstances of how it happened.” Ren said. “Now, I don't have to. It might be awkward for a little while when I finally do go out in public; but, I won't have to worry that people will look down on me because they see me in a wheelchair and don't know what happened.” He chuckled. “I won't have to suffer through answering that question anymore!”
+
+“You really do always see the positive side, don't you?”
+
+“I definitely saw your positive side when you bent over in those shorts.” Ren said, and she laughed.
+
+“Ren, you were licking me before...”
+
+“Yep, and I'd do it again in a heartbeat.” Ren said and cut her off. “It'll take longer than that to get the pillows, though.” He said and looked at the one on the floor. “Oh, and we'd probably run out of pillows eventually.”
+
+“You're incorrigible.” Barbi said with a smile.
+
+“That's what Stella said.” Ren smiled back. “Oh, and Denise. She said it, too.”
+
+Barbi chuckled. “I'm amazed that you can have a conversation like this.”
+
+“What do you mean?”
+
+“When we were... when you were... I was on my back and completely exposed, and you talked to me like I wasn't.”
+
+“Yeah, and?”
+
+“We've been talking for about 20 minutes.”
+
+“Uh huh.”
+
+“Ren, your rock hard penis is still right there in front of me and it's not going away.”
+
+“Yeah, I told you it would do that.”
+
+“But...”
+
+“You thought I was exaggerating?” Ren asked, and she nodded. “You can clean it off and tuck it away if you want.” He said and reached for the pack of baby wipes to hand them to her, then felt her tongue on him. “B-Barbi... I...”
+
+“Mmm.” Barbi moaned as she finally got a taste of him, then proceeded to clean him off with more than just her tongue. Ren dropped the baby wipes and stared at the beautiful blonde woman going down on him, who had misunderstood his 'cleaning off' comment, and she stared right back at him.

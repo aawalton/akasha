@@ -1,0 +1,295 @@
+---
+id: e6190fe9-a0ce-587c-937e-5f5de5a04182
+page-type-slug: story-chapter-royal-road
+title: "FORTY-SEVEN: Thunder Lettuce"
+slug: 0047-forty-seven-thunder-lettuce
+partOf: super-supportive
+position: 47
+ownLength: 2866
+unit: words
+publishedAt: 2023-06-22
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1253885/forty-seven-thunder-lettuce"
+royalRoadId: "1253885"
+---
+
+On his hundredth day on Moon Thegund, Alden crossed the compound, rubbing his arms to ward off the cold even though he was wearing two turtlenecks on top of each other. The lab was enduring its second long night since he’d arrived, and though he was getting used to it, it was still hard to resist staring up at the sky.
+
+There were never any stars, and he couldn’t see the clouds through the glare of the facility’s powerful lights. The buzz was long-since gone, and Moon Thegund was still and quiet again. In the dark periods, Alden felt their isolation from the rest of the universe more keenly.  It was only him and Kibby and these few buildings now. Everything else was blackness and silence.
+
+He’d left his little partner sleeping back at the vault.
+
+He could feel her there.
+
+It was a relatively new ability. A couple of weeks ago, Alden had lost track of her. He’d searched and searched, calling her name, and growing increasingly worried until he suddenly realized he just knew what direction she was in.
+
+At first, it was almost the same as the feeling he had during their magic lessons—a weight in her direction, like the universe leaned ever so slightly toward her. But as he’d become aware of how to access the sense of her, it had gotten sharper and clearer rapidly. Little effort was involved now that he’d figured out the trick.
+
+Because it’s something that’s pre-built into the skill, he thought.
+
+This was what the System had called targeting. He’d just learned how to access it in a new way.
+
+Kibby was the one who could entrust him with things. Alden no longer needed the light halo or the direction indicator to know it. He was positive he could untarget and retarget her, too, now. But he hadn’t tried.
+
+Some things were too dangerous to experiment with.
+
+He entered the greenhouse and paused for a moment to appreciate the  warmth and the artificial sunlight blazing down from the glass panels overhead.
+
+Well, blazing from most of them. Some of them were dead.
+
+Some of everything was dead. That was how it worked around here.
+
+Alden walked between the hydroponic tables, examining the plants. The greenhouse was mostly automated. During the first couple of months, a task list had appeared on the wall every other day or so for things that required attention. Kibby would read it to Alden, and when she didn’t already know how to complete a chore, they’d figured it out together.
+
+The list had died.
+
+Fortunately Alden had the routine down well enough to muddle through without it by the time it did. Today, the greenhouse had provided a new set of germination trays already loaded with seeds in little gel cups. Alden took it from the cabinet it had appeared in and slotted it into an empty space on one of the hydro tables.
+
+“Hang in there, dude,” he said to it. “It’s a rough world.”
+
+The last few trays he’d slotted in were largely failures. Most of the seeds didn’t sprout. A few produced anemic little plants that looked like they’d never turn into anything worth eating. And a far smaller number were growing like weeds. One of the first trays he’d placed had made a whole lot of nothing and a few gargantuan heads of what Alden was calling “Thunder Lettuce.”
+
+The name made Kibby groan like she was in pain every time he said it.
+
+Alden and the little girl had enjoyed a long discussion about eating Thunder Lettuce, and about the many other plants in the greenhouse that were still alive but no longer looking quite like they were meant to.
+
+Conclusion—if the trial servings tasted yummy and didn’t make you sick, eat it.
+
+It wasn’t like the corruption couldn’t get at all the other food they ate anyway. It just seemed to morph the living things at the lab more quickly and obviously than it did the non-living ones. Even the vault was only offering minor protection, since the door had to be left open.
+
+As Alden grew more and more aware of his own power, he also became increasingly sensitive to the perpetual assault of existing in this place. The network of power he had sometimes imagined around himself during teleports, or that one overwhelming meeting with the Primary, was still there. But it was like it was being sandblasted.
+
+The chaos pressed in endlessly. Alden asserted himself endlessly. The process had become automatic, but it was never ignorable. Even when he was not deliberately flexing his authority or using his skill, he was aware of it now. A strange sensation, like he was always tensing in expectation of a sharp poke.
+
+Asserting my authority. Asserting my right to be here and be me. I’m getting much better at it.
+
+He could tell he was. He could now control the strength of the flex if he chose. Sometimes, a grim and weary whisper in his mind pointed out that he could also choose to stop.
+
+Not often. But often enough to worry him.
+
+Today he was fine. He stole some dark green leaves the size of pillowcases from Thunder Lettuce Four—the garlicky one. Stir-fry for breakfast sounded good. Kibby liked it when he cooked. She didn’t care what it tasted like. She just wanted someone to give her food on a plate at the table.
+
+Like she wanted him to offer to brush her hair. And tell her to chew her tooth gum.
+
+It had taken Alden too long to realize it. She was a capable kid. If she didn’t do something obvious for herself, it was because she really wanted him to do it for her.
+
+Can’t fix her trauma. Can’t fix the moon.
+
+Can fix breakfast.
+
+And do a decent French braid.
+
+At least it was something.
+
+#
+
+That afternoon, they watched television.
+
+They watched a lot of television.
+
+Hours and hours of it every day in the vault. It was too easy to just stare at the screens and enjoy the sight and sound of other people living normal lives.
+
+Well, normal for Artonans.
+
+Alden was a little concerned about the amount of alien content he was absorbing. The dark episodes in the soap operas were starting to make sense. Klee-pak shouldn’t have killed the daisies. To disrespect life in the wake of death was the same as spitting on his friends’ graves.
+
+His parents were still assholes, though. They could have explained it instead of throwing their kid in the punishment closet.
+
+“It was so he could feel the darkness of death,” said Kibby. “And come to a greater knowledge of what he’d done wrong.”
+
+“Deep,” said Alden, nodding in understanding.
+
+“You mean profound.”
+
+“Profound.”
+
+Language was coming along fantastically. This was a next-level immersion experience. Desperately wanting and needing to communicate complex ideas all the time, having a stickler of a roommate who loved correcting you, the total and complete absence of your native tongue…
+
+Alden had caught himself thinking in Artonan several times recently. A few more months and he’d start making a serious attempt at the writing system.
+
+There has to be some kind of official Artonan language proficiency exam on Anesidora, right?
+
+He was going to find it, take it, and obliterate it.
+
+He munched on a bowl of popped beans—not at all like popcorn, way too crunchy—and watched the end of a nature show about seasonal swarms of giant crabs on Artona I. Kibby jumped up at the end of it and raced over to the television to select a new show.
+
+“Hey. Do you think if you start a new show fast I’m going to forget our deal?” Alden said, flicking a popped bean at her.
+
+She pouted. “I don’t want to talk about crabs.”
+
+“The deal isn’t that we have to talk about crabs. We just have to talk about something in between shows. So that we don’t just sit here watching the pretty colors on the screen all day while our brains rot.”
+
+“Decay.”
+
+“Not rot?”
+
+“Rot is too dirty. It’s like what the chaos is doing to the plants in the greenhouse. It’s not something you should say about brains.”
+
+Hmm. Interesting.
+
+“Thank you for correcting my course.”
+
+Kibby beamed.
+
+He made sure to only throw that particular phrase at her a couple of times a day. It was very respectful and usually reserved for teachers. She got really bigheaded if he overdid it.
+
+“What do we talk about instead of crabs?” she asked, trotting back over to sit on the edge of her mattress.
+
+She no longer complained about sleeping here. It had been a long time since that was a source of disagreement between them.
+
+“Can I ask you about the First again?”
+
+“We talked about that twice,” she reminded him. “I don’t know what you mean.”
+
+“I know a lot more words now. He is an important Artonan man. A very important one. And he’s powerful. I could feel it.”
+
+“Powerful how?”
+
+“Powerful magic. I could feel it like I can feel yours during partnered authority exercises. But back then, I couldn’t usually dothings like that at all. I couldn’t know things like that about wizards. But with him I could.”
+
+“You mean he had high authority. Presence.”
+
+“Extremely high. He must be a very strong wizard. And he has a…a special name…an honor name. That means something like First.”
+
+“Honor name?” she considered the phrase. “A ——-? Like Distinguished Master? Maybe he was the leader of the school where you worked?”
+
+“Yes! A title. But he didn’t work for the school.”
+
+“Are you sure?” she said doubtfully. “Because you get confused a lot.”
+
+“Mean-mean,” he said, throwing another bean at her. “Understanding different planets is hard. But I’m sure. He was there with his sister. They both had special clothes.”
+
+He described the Primary’s outfit. The shorter sleeves, the patterns done in metal studs. And all of a sudden, Kibby made a sound that Alden associated with hardcore fangirls at pop concerts.
+
+“A —————!! You met —————! Did you say the first!? Oh, oh, ————!! You felt his authority! WHY?! What did he say to you? And his sister! Which sister was it?!” She squealed and ran at him, climbing into his lap—which was not something she usually did—like she was trying to get closer to him so that she could absorb the story through direct contact. “He’s ——————-!”
+
+It was rare these days for her to use so many words in a row that he didn’t have a clue about.
+
+“Uh…slower?” he said, intimidated by the fact that she was nearly pressing their noses together while she fired off questions.
+
+By the time Kibby had managed to calm down and start using words he could understand, Alden ended up being moreuncertain about who the Primary was rather than less.
+
+According to Kibby he was the best.
+
+“The best at what?”
+
+“Everything!”
+
+Alden could practically see little hearts floating in the air over her brown hair.
+
+“Yes. I understand you’re excited. But maybe you could explain it more easily? For a human?”
+
+“There are people who can’t do magic,” she said. “Then there are people who are learning magic. Then there are lowly wizards. Then there are….”
+
+The power rankings went on for a while. Artonans were very into categorizing their wizards by ability.
+
+“Then there are wizards who make sacred promises to grow their power stronger and use it to protect the Triplanets from chaos and demons and harm!”
+
+Alden frowned.
+
+Had Kibby just jumped from power ranking to moral ranking? He kept listening in case he’d misunderstood, but it sounded like she had. Like, there were supersupersuper wizards, and then bam—noble fightin’ wizards.
+
+“Can I ask a question?” he interrupted. “Do only the most powerful wizards become Primaries?”
+
+“There’s only one Primary. He is the most powerful. Then there is a —————. And a ——————. And then his sister Alis-art’h! Was she the one you met? And then ——————. And then—”
+
+“Are the titles numbers?” he asked.
+
+“They’re in order!”
+
+So like numbers anyway. That would explain the English translation the System had given him. Primary, secondary, tertiary, etc…
+
+Maybe it was part of the normal power ranking system but once you hit a certain level of wizardry you were just expected to join the chaos fighting group?
+
+“I don’t know what his sister’s name was,” he said. “And I still don’t understand. It sounded like when you were putting the wizards in order you maybe changed it. From powerful wizards to brave wizards? Is that right or wrong?”
+
+“Yes! Brave is more important than strong.”
+
+Wow. That was not the answer Alden had been expecting. “Does everyone think the same? Or just some people?”
+
+She glared at him. “Everyone knows —————- are better than regular wizards.”
+
+I’m missing something.
+
+“I met the Primary’s son. Stu-art’h. He wanted to be a warrior? For the Mother Planet.”
+
+“Not just a warrior. A —————.”
+
+So it was the word the System had been translating as knight.
+
+“A knight. A knight is a kind of wizard that is better than a normal wizard?”
+
+Kibby nodded.
+
+“But are they always stronger? Could Worli Ro-den win in a fight with a knight?”
+
+She looked appalled. “Distinguished Master Ro-den would not fight a knight.”
+
+“But if he did…”
+
+“He would not. His head would be removed.”
+
+“So the knight would definitely win?”
+
+She huffed. “That doesn’t matter. His head would be removed for fighting the knight even if he won. Especially if he won and hurt the knight.”
+
+He’d be executed? Well, okay then. Maybe the knights were even more like royalty than he’d suspected when he first heard about Stuart’s dad.
+
+Alden hoped Jel-nor hadn’t been beheaded for ‘dueling’ Stuart. Maybe official duels were different than fights. And the guy was only a wannabe knight at this point, so surely it didn’t count.
+
+“Are the knights all family to each other?” he asked, still trying to slot them in as some kind of obscure magical royalty. “Is that part of what makes them knights?”
+
+“Of course not. That would be dumb.”
+
+“I don’t understand,” Alden moaned.
+
+“I told you. You get confused.”
+
+She kept rattling on about the Primary, and Alden only got more confused.
+
+Kibby made it sound like the man’s role in Artonan society was a cross between a nuclear warhead and the Pope. The two ideas did not mesh. He began to wonder if she just had such a huge crush on knights that it was preventing her from giving him an unbiased answer.
+
+“Wait, wait,” he said. “One more time. All knights are better than all regular wizards, even if they’re not always stronger. Because they promise to protect the Triplanets from danger. Is that right?”
+
+“That’s right,” said Kibby.
+
+Okay. Now they were getting somewhere.
+
+“Why doesn’t everyone make the promise then?”
+
+Kibby made the double hand gesture she liked to use for a shrug. Then she added, “They’re not allowed to break the promise. And I think they have to be special somehow. Maybe it’s important to be stronger than normal wizards, too, even if they don’t have to be the very strongest. Because I never heard about a weak knight.”
+
+She paused. “I asked Distinguished Master Ro-den if I could be a knight one day. After I saw one on a video.”
+
+“What did he say?”
+
+“He said to ask him the same question after I got older and finally learned some magic. He said it was a terrible life for crazy wizards, —————, and idiots.”
+
+Joe, who’d spent years living here on Moon Thegund by choice, thought other wizards were crazy?
+
+“Change of subject,” Alden said. “Then we can watch another show. I’ve wanted to ask you before, and since we’re talking about magic and culture…how do Avowed work with everything else?”
+
+Kibby blinked. “Don’t you get assignments and complete them?”
+
+“No, sorry. I didn’t mean to say ‘work.’ I meant…what do Artonans think about Avowed? What did you think when you first saw me?”
+
+He had Joe’s opinion about the views most wizards had. But he’d never quite figured out what Kibby and the assistants thought of him.
+
+“I thought, ‘A human! Probably it is a man human. Distinguished Master Ro-den might have sent it. Or Yipalck might have sent it. I wonder if it’s going to do magic. I hope it’s going to help us. I hope it’s not going to hurt us.’”
+
+So it was that simple and obvious then.
+
+He didn’t know why he was thinking it would have been anything more complicated. What else would someone think when a potentially powerful alien walked up to their front door?
+
+Kibby smiled at him. “I can’t believe you met the Primary! I can’t believe you met a knight at all. I have never seen one in real life! Tell me what he said to you again!”
+
+“He said I was amazing.”
+
+“Liar.”
+
+“He said I was the best human he’d ever met, and I should be the Primary.”
+
+“Liar liar!”
+
+“We held hands.”
+
+Kibby looked like she wanted to bite him.

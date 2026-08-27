@@ -1,0 +1,179 @@
+---
+id: c7501eac-fc9c-52d3-b50a-d35d1d8550fc
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED SIXTY-NINE: Snow XI"
+slug: 0271-two-hundred-sixty-nine-snow-xi
+partOf: super-supportive
+position: 271
+ownLength: 2107
+unit: words
+publishedAt: 2026-01-30
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2993444/two-hundred-sixty-nine-snow-xi"
+royalRoadId: "2993444"
+---
+
+269
+
+******
+
+“What a frown you wear, Stu. And so late in the night. Are your husenots causing you trouble?”
+
+Stu realized he had been frowning, and gazing for longer than he’d intended through the floor of the room that held his husenot collection. Stepping in here to check that nothing was out of order was one of the things he liked to do before sleep, but he’d ended up lost in thought.
+
+“No, Calassa Mom.”
+
+She was probably on her way to bed, too, and she’d stopped at the open door when she spotted him. The dark red robe she wore had been one of her favorites ever since he’d first met her. Of his father’s spouses, Stu was closest to Olorn and Veln, but Calassa had her own place in his rearing. She was more likely to criticize his management of himself in social situations than the others. She was often the best person in the house to go to for stories about Iella. Asking for her help with almost any school assignment was bound to be fascinating, but it would take thrice as long as talking to his other parents about the same thing and sometimes result in follow-up lessons days later.
+
+“I’m fine, and so are the husenots. I was thinking about something else.”
+
+“Would you like to combine your thoughts with mine?” she offered. “I have time to listen if you want my ears.”
+
+The questions that had begun to bother him after his latest talk with Alden approached his lips.
+
+Why is Alden behaving oddly? Does it have something to do with how the ambassador treated him and the other Avowed? If I have done something myself to make him behave oddly, what is it? How do I make it better?
+
+“I would like to keep my thoughts to myself tonight,” he said. “Thank you.”
+
+She nodded. “Sleep well.”
+
+He listened to her footsteps fade down the hall, feeling regret. She might have answered his questions easily. Even if she couldn’t, it would be a relief to confirm that they were difficult questions and sensible ones, so that he wouldn’t worry he was missing something obvious.
+
+But to ask for her advice about this, he would have to explain what he was up to in the manuscript library. Most of the unusual behavior from Alden was a sudden and inexplicable lack of enthusiasm for talking about his skill, which he had always been eager to talk about and practice with Stu before. Calassa might try to tell Stu why he shouldn’t research skills for Alden, or she could say something else even more disappointing.
+
+I should have given her a chance not to say something disappointing. She cares about me.
+
+He looked down at the husenots again. He had placed a few particular ones in prominent positions when he returned them to their habitat last time, and they were still there. Stones that represented things he was confident in. A red one for a friendship he knew he wanted to make stronger. A black one with a white stripe down the center to remind him of difficulties he’d endured and how he’d been changed by them. A purple one for a day he longed for in the future, when he would greet his father as someone who walked the same path.
+
+And I’ll tell him I’m all right. You not only raised a child to adulthood, but to knighthood. I am well. I can walk with firm steps beside you all now, and you can rely on me as much as anyone else. We’ll make this universe a better place together.
+
+Even if I started from far behind.
+
+Even if I’ll have to travel part of the way on my own.
+
+Stu still listened for Calassa, but she’d gone too far. The loudest sound in the room was the trickle of fresh water into the husenots’ pool.
+
+His eyes lingered on the red one.
+
+I’ll call him again before bed. To see if he’s behaving more like himself now.
+
+And if he was still being odd, Stu could ask him why directly. It was blunt, but Alden was not someone who was offended by plain communication. And plain communication would strengthen their friendship. If there was a problem, they would solve it together.
+
+Stu liked this decision. He headed up to his room to make the call.
+
+******
+
+******
+
+******
+
+Alden had thought he’d have a day or two before another talk with Stuart. He’d been wrong. Not long after he’d made it back to Celena North, Stuart  had called him, on a mission to understand him better through gentle interrogation. He was very empathetic and caring, very eager to help, as he stabbed Alden with a hundred pointy little questions.
+
+It was over now, but Alden was still bleeding out.
+
+“I realized after talking to you that you didn’t answer anything I asked about your skill. Do you want to talk about it now?”
+
+In his bedroom floor, he pressed his body up, trying to calm down by analyzing his pushup form instead of reliving the conversation.
+
+“If not now, when?”
+
+He should have expected this. Stuart had heard him say he was having a bad day and not focusing well, and he’d been temporarily distracted by Alden bringing up the stupid countdown timer. But Stuart was also in possession of a written list of questions he needed Alden to answer so that he could move forward with his research into what spells and skills would be good for Alden.
+
+A motivated Stuart holding a list and working hard for the sake of his friend’s existential wellbeing wasn’t an opponent who could be dodged for long.
+
+Apparently, he was an opponent who could barely be dodged for a few hours.
+
+“You’re still coming over when I’m home from school this weekend, aren’t you? Did you finish writing down your recollections about what happened when you saved Zeridee-und’h?”
+
+Stuart was confused.
+
+He had good reason to be confused.
+
+Before now, Alden hadn’t shown many signs of wanting to avoid sharing when it came to skill-related things. They’d practiced for the bokabv together. Played catch with balls of dirt and leaves. Made a kickass puddle shield with an authority assist from Stuart that Alden had been undeniably thrilled about.
+
+“You’re being odd about this, aren’t you? Is it still about feeling like you can’t do anything for me in return? You’re not mad at me for some reason?”
+
+Alden was on his twenty-fifth slow pushup. They weren’t working. Maybe he should try a handstand like Haoyu.
+
+“Is what happened with the ambassador troubling your thoughts? I’m sorry I criticized you for bowing to him.”
+
+He could put on Olorn-art’h’s earring and wear it all night until it mushified his brain. Maybe that would make him forget how standoffish he must have come across in response to some of Stuart’s requests.
+
+“Yes, you’re clearly being odd. Just tell me why. I want to help.”
+
+He dropped out of his pushup form and lay facedown on the rug. In the end, he’d lied with the most truthful and distracting lie he could pry out of his mouth.
+
+He’d told Stuart that he was being odd because he was thinking about Goldbush more than usual ever since Stuart had brought up the fact that they wouldn’t be able to talk much when he was working there. Alden told him he was wondering if Mrs. Zhang-Demir might have been there, wondering what Ryada-bess and her squadmates had done there, and worrying a lot about what Stuart himself would do there one day soon.
+
+All of that was true, but it wasn’t the source of his current behavior. Lying here breathing in rug fibers, Alden couldn’t think of many excuses he could have given that would have been more decent to Stuart. At least this one had led to talk they both cared about and not something that was a total waste of time.
+
+Stuart said he was uncertain what his squad situation and assignments would be when he first became a knight. He confessed to being apprehensive about it but said he planned to respect the advice of his elders about his placement until he’d proved himself to them. It was nice that Alden worried, but unnecessary.
+
+“I’d go there even if I was choosing the path of a votary,” he’d pointed out. “To provide support and learn better how I might help knights in the field.”
+
+“I knew that. I just hadn’t started making detailed mental images of what you’d do there.”
+
+“I hope I’ll be assigned to help a group of knights clear a patch. Usually, some people hunt demons, some repair the environment, and others facilitate the accomplishment of those two objectives in whatever way suits their abilities. It depends on what the specific area we’re placed in requires. If you wish to make a detailed mental image, you should imagine me doing to a demon what I did to the things I sent the keda bean through. Because I’m sure I’ll try to manage that while I’m there.”
+
+He’d said that with a concerning amount of pep.
+
+Then, possibly in response to Alden’s obvious lack of pep, he’d suggested that they plan to do something fun and extravagant together upon his first safe return from blowing holes in all the demons he could find in baby knight hell.
+
+“It will give us both a celebration to look forward to during whatever hardships we may face!” he’d said.
+
+So Alden was supposed to be thinking of extravagant activities that he’d like to experience on the Triplanets. Something really blissful he could enjoy daydreaming about while mutated monstrosities clawed at Stuart’s being and ate his arms and legs.
+
+Oh man.
+
+The other knights would coddle Stuart too much. He’d go out into the worst part of the Goldbush chaos wanting to prove himself and die.
+
+Or the other knights would think of him as a weak link destined for a short future anyway. They’d leave him behind when the going got tough, and he’d die.
+
+One of his siblings, trying to protect him, would die, and then he’d get depressed and die.
+
+He’ll aim Maker of Narrow Ways at some funky demon with chaosy reflective properties. The skill will bounce off, hit him in the face, and…he’ll die.
+
+At least then I won’t have to think up the least hurtful lies I can tell him anymore.
+
+And there was the sharp truth inside that kept growing larger and more painful with every passing day. Alden couldn’t talk about his skill because of the damn tattoo, but there were other secrets he could share that he was choosing not to.
+
+“I’m done, Wummy,” he said into the carpet. “Kill me. End my suffering.”
+
+Unfortunately, the wombat had always been a pacifist.
+
+******
+
+******
+
+[Alden: Boe, what do you think would happen if the Artonans found out about me being a wizard? I know we’ve talked about it some, but being serious…what do you think?]
+
+[Boe: Why?]
+
+[Alden: Because I’m asking. Don’t freak out. I’m not about to run off and announce myself to the Grand Senate, but I wonder about it. And you know why. Best and worst case scenarios. Take your time.]
+
+[Boe: Best case is they decide to play you up as a once-in-a-century marvel. They send you to wizard school for thirty years to make you educated, and when you’re not in an alien classroom, you’re being paraded around various planets. Maybe in your fifties or sixties they let you come back here to live, but by then, you’re basically a tall Artonan. Or you’re forced to act like one, anyway, because it’s too inconvenient for the Triplanets if you try to be anything else. Some humans call you a traitor. Some worship you. You have to travel with a security detail.]
+
+[Boe: The worst case should be obvious to you. Do I really have to say it?]
+
+[Alden: They murder me.]
+
+[Boe: They wipe out humanity and use Earth as a vacation destination.]
+
+[Boe: You said worst. You being murdered isn’t the worst.]
+
+[Alden: Thanks a bunch.]
+
+[Boe: I don’t know why you’re using the sarcastic font when you asked for this yourself.]
+
+[Boe: Hey.]
+
+[Boe: You good?]
+
+[Alden: Yes. Just torturing myself a little.]
+
+[Boe: Stop being an asshole to yourself, asshole. Wasn’t this supposed to be your time to explore positive new ways to live your life? Do that.]
+
+[Boe: Wait at least a decade before you make any decisions about the wizard thing.]
+
+[Alden: Yeah. I know.]
+
+******

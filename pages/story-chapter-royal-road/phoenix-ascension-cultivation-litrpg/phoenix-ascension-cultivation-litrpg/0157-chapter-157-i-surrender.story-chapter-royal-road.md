@@ -1,0 +1,229 @@
+---
+id: 99a91161-129e-5ffe-897d-71898b274ff7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 157: I... surrender."
+slug: 0157-chapter-157-i-surrender
+partOf: phoenix-ascension-cultivation-litrpg
+position: 157
+ownLength: 2132
+unit: words
+publishedAt: 2026-08-02
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3759020/chapter-157-i-surrender"
+royalRoadId: "3759020"
+---
+
+There were some gasps of awe when lightning danced on my sword, but the blade itself also let out a low whine.
+
+It seemed that even the good old Elemental Sword had some spirit. That was good to know, as I would need to do some refining.
+
+Although I wasn’t really sure if I wanted to use it extensively until the other one got over its hunger, then it would remain locked up.
+
+Li Li stood where she was, not reacting to my sword.
+
+“Number eighteen, Fa Xiaolan, the match hasn’t started yet.” The elder said, making me cut off the Qi output.
+
+“Oh, right. My apologies.” I bowed hastily, faking a flustered expression.
+
+He nodded and turned toward the two of us. “Bow to the elder.”
+
+We did as he instructed.
+
+“Bow to the crowd.” Again, we turned and bowed.
+
+“Now bow to each other.”
+
+As we did so, I could tell that Li Li was taking this fight very seriously.
+
+Unfortunately for her… I wasn’t.
+
+“Let the fight begin!” The elder announced, and she rushed forward, pulling out the daggers from her waist and brandishing them. Some sort of black Qi coated them, but it wasn’t anything I was familiar with.
+
+Must have been the special technique of the Reaper Sect.
+
+I imbued my sword with lightning once again and waited for her to approach me. I was curious to see how someone from this sect approached combat.
+
+Seeing that I wasn’t planning to make a move, Li Li grit her teeth and started approaching me.
+
+She was swift, and her movements were quiet. A technique must have been activated, as her figure turned into a blur.
+
+I suspected some sort of shadow-like technique, but it wasn’t quite that either. The Reaper Sect had an interesting technique; that much was for sure. However, it wasn’t enough to make me lose track of her.
+
+I could still see her as clearly as if she wasn’t using any techniques with just a little bit of Qi.
+
+What she was using wasn’t anything new, but it was just the nature of the Qi that took me by surprise.
+
+I still didn’t know what it did, or where it had come from, but the world was vast and had countless possibilities.
+
+Hell, I didn’t even know systems existed-
+
+Just as I thought about systems, Li Li finally arrived before me. Her blade moved at a normal speed in front of my eyes; that was to say, pretty slow.
+
+I questioned whether or not I should get hit, deflect, or dodge, but figured that she was just a Qi Condensation cultivator, so I could attempt to tank it just to see what this Qi felt like.
+
+I feigned a dodge and let the daggers scrape my shoulder. I’d forgotten that I was wearing the tunic, but it didn’t matter, as the Qi had no problem biting through the fabric.
+
+That was pretty interesting. Maybe it was some sort of corrosive Qi.
+
+When the blade cut me, it did hurt a little, but not a lot. The sensation transferred from my illusory human form to my actual form was good, almost life-like, but not one-to-one.
+
+Blood naturally seeped out, and I could feel the Qi invading my body. It was really corrosive, as it ate away at my flesh and turned it into nothing but dead meat.
+
+I stepped back and suppressed it. A surprised expression flashed across Li Li’s face, but she didn’t stop attacking.
+
+Once again, she tried being evasive, but that did her little good.
+
+Again and again, I dodged by a hair’s breadth just to give her some hope and maybe pull some potential out of her.
+
+Seeing that she was merely attacking without much thought, though, I smiled in mockery and raised my sword.
+
+Quickly blocking the daggers, I pushed back with Lightning Qi that crawled up the daggers and into her body.
+
+She backed off fast, but not fast enough, as the little that entered her body had paralyzed her for a moment.
+
+Were it anyone else, that one moment would have been enough to defeat her, but instead I watched.
+
+I needed her to show me just how powerful that strange Qi was.
+
+Li Li didn’t take kindly to my mockery and pity, as she glared at me with tightened fists. Dagger brandished, she chanted something under her breath, and her figure moved faster than before.
+
+Instead of becoming a blur, her body sort of changed states between real and surreal, though she wasn’t that good at it.
+
+That wasn’t a technique she’d studied for long, or she really sucked at it.
+
+When she was within a few feet of me, her foot slammed down on the ground, and she disappeared.
+
+I turned around and caught her daggers as she tried to sneak attack me with a cross-attack.
+
+Lightning went up my sword and down on her blades; however, she knew better than to hold on to them. The moment our weapons clashed, she let go and lunged at me, nails first.
+
+Surreal claws grew out from her fingertips, becoming razor-shaped Qi images that could definitely do some good damage if I’d let her hit me.
+
+I moved just a bit to the left and took both attacks on my shoulder. It hurt, but not a lot, and I wanted to experience what this much corrosion could do.
+
+Li Li had a twisted smile on her face, but it vanished as she quickly noticed that I wasn’t really reacting.
+
+“What…?”
+
+I didn’t pay attention to her and allowed the Qi to have its way into my body. This time, it entered my Qi channels and attempted to destroy them from the inside out.
+
+It wasn’t a bad strategy at all, and the attack would have been very effective on a human, but on me, it barely had any effect.
+
+My meridians were self-created, strong and sturdy. Very few things could break them, especially after being reinforced by the Phoenix constitution.
+
+That did give me a new idea though…
+
+That was something I would try later. For the moment, I grabbed Li Li’s hands and pushed her away, allowing the Qi to remain within my system to test how it acted.
+
+When it made its way toward my dantian, it wasn’t strong enough to do anything and simply disappeared.
+
+It was a little bit anticlimactic if I had to be honest. I was expecting some sort of reaction, but her qi was far too weak when compared to mine, so there was nothing much it could do.
+
+Seeing that even the Qi that penetrated my meridians did nothing, Li Li’s face turned ashen. She bit her lower lip and reached for her daggers.
+
+They came back to her hands, which was rather impressive, but what else was she going to do now? I really wanted to see if she had something else up her sleeve.
+
+She dashed toward me again, her daggers glowing with a dark light. They shot Qi light toward me, some sort of Dagger Qi? Dagger phantom Qi? I did not know what to call it, but that Qi alone was extremely corrosive.
+
+The air on its path got rotten, although I had no idea how that was possible.
+
+Some of it hit me, dissolving my clothes and revealing the tunic, but did nothing other than that. It was too weak to do anything of substance.
+
+That didn’t deter her, however, as she kept advancing toward me, sending more and more Qi attacks my way.
+
+When she was within range, she performed the same leap again, except she reappeared in front of me.
+
+Our blades clashed, but she didn’t let go, enduring the paralysis and shortening the duration of contact.
+
+That was smart.
+
+Using that technique, she could throw more attacks, faster, thus dealing more damage.
+
+Her corrosive Qi blasted my face, destroying my clothes, which was rather embarrassing.
+
+Unfortunately, Li Li’s hits got weaker and weaker as she used up Qi and stamina, and it wouldn’t be long before she ran out of energy.
+
+But she didn’t give up. Her eyes shone with a relentless spirit I very much admired. Despite seeing that there was nothing she could do to me.
+
+Her attacks kept on coming until she finally backed off, using her technique to get some distance between us.
+
+I hadn't suffered much damage besides my hanfu, which was a shame.
+
+Much to my surprise, she spoke to me for the first time since the fight started.
+
+“I know I have no chance of beating you, but allow me to do my best nonetheless.” She said and began channeling another technique. That time around, I could feel the tiniest bit of pressure as Qi gathered around her daggers.
+
+“I haven’t mastered this technique, but using it against someone as strong as you should give me some more experience.”
+
+She danced with her daggers as Qi concentrated on the blades, a dark, eerie aura spreading through the air.
+
+I smiled involuntarily. Seeing someone do their best regardless of whether they were weak or strong always filled me with excitement.
+
+This primal desire to win and to prove your strength, your worth, to defy everything despite the circumstances.
+
+That was what it meant to be a cultivator!
+
+“Bring it on then, show me what your strongest attack can do.” I pointed my sword at her just as she’d finished, and her figure became a true blur. She moved so fast I had to enhance my eyes further to catch a glimpse of her, but I didn’t react fast enough, and she was already upon me.
+
+Her daggers had become as big as a sword, though they were normal daggers, since she had only increased their length with Qi.
+
+They struck right through my sword, and the Qi hit my neck before the blade could.
+
+However, just as I thought she would continue that motion, Li Li’s momentum changed suddenly, and her slash became a piercing attack aimed straight at my throat.
+
+Her second dagger came as well, aiming at my stomach.
+
+I smiled faintly and took on her attack, but activated Strengthened Constitution.
+
+I hated breaking the spirit of someone so determined, but I didn’t want to get dirty either.
+
+When the skill activated, sparks flew as the blade collided with my skin. I felt a strange sensation all around my body, but besides that, there was no other effect.
+
+Li Li stepped back, her hands shaking. The Qi she’d used for the attack had depleted, and the technique turned itself off.
+
+That attack was all that she’d had left, and it failed.
+
+It was no surprise to me, but as she looked at her daggers and saw their tips bent, I could tell that she could not believe her eyes.
+
+Her lips trembled, and her hands shook; then her gaze lifted and looked at me with disbelief.
+
+“Just… How?”
+
+I turned off the skill and stood there, blade crackling with lightning. She had the choice to surrender, or I would have to attack her.
+
+She knew that as well.
+
+“I… I surrender.” Li Li spoke with reluctance, and the elder declared the match over.
+
+“Bow to the elders!” He said, and repeated the same thing we did last time, until we bowed to each other.
+
+Li Li looked at me with some measure of fear, and the disappointment in her eyes could not be hidden.
+
+She had talent and skill, and maybe if I wasn’t there, she would have qualified.
+
+Unfortunately, that was not meant to be.
+
+“You fought well.” I gave her one last bit of praise before heading off the stage. She turned around in the other direction after hesitating, and disappeared.
+
+I made my way back to Meng Mao, who stared at me with disbelief.
+
+“You didn’t have to do that.”
+
+What’s the harm?
+
+“What do you mean- do you- you could have ended it faster. Why did you play with her? Now they are going to antagonise you.”
+
+I chuckled. They were going to do that anyway. I just wanted to see what she could do, and she had some semblance of fun fighting me, even though she lost, so what’s the harm?
+
+“They’re going to think you’re an asshole!”
+
+Let them. More importantly, how much are we going to win?
+
+“Oh… A lot…” He gulped. “Well, you more than me, but tomorrow the odds won’t be as good.”
+
+Obviously, so we have to make as much money as possible right now.
+
+“Right.”
+
+He gave me a side eye, which I ignored. The next contestants were already on stage, but I wanted to try out the theory I’d just thought about.
+
+What if I could refine my meridians with my Phoenix constitution?

@@ -1,0 +1,118 @@
+---
+id: e6c528ca-4a7f-56e3-81a5-7ce6e983a051
+page-type-slug: story-chapter-royal-road
+title: "Chapter 555: Big Game"
+partOf: rise-of-the-living-forge
+position: 122
+ownLength: 1677
+unit: words
+ownProgress: 1677
+publishedAt: 2026-02-09
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3029005/chapter-555-big-game"
+royalRoadId: "3029005"
+markedReadAt: "2026-06-29T20:02:20.696Z"
+---
+
+The next few days passed without incident. The Menagerie set about their own tasks. Arwin worked the forge with Wallace and Koyu, making some pieces to sell for the auction. Everyone kept a close eye on Vix to make sure that she was taking well to the changes induced by her new heart. But nobody kept a closer eye on her than Art, who had practically glued himself to his sister’s side to keep an eye on any potential issues.
+
+There had only been one real abnormality thus far.
+
+Vix’s appetite had increased. And quite significantly at that. She mowed through plate after plate of Lillia’s food to the degree that a number of adventurers had taken to gathering to watch her eat. Reya had promptly started charging them for the experience. And, somehow, people were actually paying for it.
+
+Anna had yet to lift the ban on Vix’s magic. But even aside from that, she seemed to be taking to her new heart well. Neither she nor anyone else had noticed any significant abnormalities in her health.
+
+In the meantime, Lillia toiled away in the kitchen on a project that nobody had managed to get a good look at yet. Reya and Olive ran the delivery service, with Elias and Vanessa occasionally joining in to help when the volume of orders grew a little too high for just the two of them to deal with alone.
+
+Madiv spent the majority of his time in the Mausoleum preparing for the rapidly approaching auction along with Esmerelda, who had been spending a slightly suspicious amount of time with the vampire.
+
+Rodrick — well, he did whatever it was that Rodrick did.
+
+Nobody knew.
+
+Nobody wanted to know.
+
+And then, roughly two or so days before the auction was set to open, a knock rang against the door of the Devil’s den early in the morning, well before the sun had even had a chance to properly rise.
+
+“The heck?” Reya asked, looking up from her pancakes to squint at the door. “This early? Why?”
+
+Olive’s wooden hand lowered to the sword at her side. The other continued to shovel food into her mouth. She’d gotten quite good at multitasking with her cursed arm.
+
+“It’s Haley. From the Dwarven Council,” Rodrick said through a mouthful of food. He waved his fork at the door. “Open it. They’re here under the official flag with their puppet guild.”
+
+Arwin and Lillia exchanged a glance. Then Lillia flicked her hand. The door to the Devil’s Den creaked open.
+
+Haley stood on the other side, just as Rodrick had said. A pair of heavily armored warriors flanked her. There was nothing particularly flashy about the heavy plate the two men wore, but there wasn’t so much as an inch of visible skin beneath the armor. Even their faces were covered by full helms and a logo of a burning shield had been emblazed onto both of their breastplates.
+
+Despite the plain appearance, Arwin noticed the magic in their equipment immediately. It smelled faintly of lilac and crisp apples. The scent was strong enough that it left no doubt in his mind that whoever had created the armor had been no pushover. These men were well equipped.
+
+“Thank you,” Haley said, walking into the Den. The two men followed in after her. “We have returned along with one of the guilds representing the council. These men are from Bleak Shield, Rank 45 in the Secret Eye’s rankings.”
+
+“The men? Or the guild?” Art asked.
+
+“The guild,” Haley replied. She came to a stop several feet away from the tables that the Menagerie had gathered around. Her nose twitched slightly at the divine smells rising up from everyone’s plates, but she kept her composure impressively well. “These guards will be present for the duration of the first auction. They have also brought flags to hang that will make their support clear. That should be sufficient to dissuade the majority of troublemakers. They will also defend peace within the Mausoleum and ensure nobody tries to steal or interfere with the proceedings of the auction.”
+
+Arwin couldn’t help but notice that Haley had very specifically not mentioned anything about the streets or areas surrounding the Mausoleum. It seemed her guards weren’t going to be interfering if someone tried to rob somebody right after they stepped out of the Auction House.
+
+He glanced at Lillia. “Are they capable of what she claims?”
+
+“Capable enough,” Lillia replied.
+
+“And do they speak?” Rodrick asked. “Your men are rather silent.”
+
+“They do not, unless a direct request is given of them.” Haley said. “We work with professionals. Their focus is following orders. That requires their complete attention. You may as well pretend that they are statues. These warriors will not get in your way or hinder you in any manner. They are here purely to fulfill the deal we have made.”
+
+And you’ve conveniently brought them after a member of the Council have already tried and failed to kidnap Thane and then sent his warriors to attack us.
+
+“Go to the entrance of the Masoleum,” Lillia said. “Madiv will meet you there and give you your orders.”
+
+The pair of armored guards both gave her a sharp nod. Then they turned on their heels and marched out of the Devil’s Den without so much as a single word.
+
+“So this confirms that Council’s backing is now official?” Rodrick asked, leaning back in his chair and watching Haley carefully as he dabbed at his mouth with a napkin.
+
+“It is,” Haley confirmed. Her eyes narrowed. “Why do you phrase it like that? Are you trying to imply—”
+
+“That you’re liars and cheats by everything but the letter of the deal?” Rodrick finished for her, arching an eyebrow. “Yes. I am. And I can respect it. But there’s a time when we’ve got to be outright with each other. You can’t blame me for making certain things are clear. It’ll be important for the future.”
+
+“And what is that meant to mean?” Haley asked.
+
+“Simply that I want to be able to deal with any dwarves that happen to attack us as if they are traitors to the council,” Rodrick replied casually. “After all, they’d be going against your publicly confirmed stance. And traitors don’t need to be treated with any due process… do they?”
+
+Haley hesitated for a moment. Her eyes narrowed slightly. It wasn’t exactly hard to tell what Rodrick was implying. But there weren’t many routes left before her. The Council had made its stance clear. All she could do was incline her head. “Of course not. We do not harbor traitors in our midst. Should anyone be foolish enough to break the deal we have struck, then they should be dealt with properly… should you be capable of it.”
+
+“You don’t have to concern yourself about that,” Lillia said. She rose from her seat. Shadows shifted behind her like ripples through a lake. “We’re more than capable of taking care of ourselves. Is there anything else? If not, you may leave.”
+
+“When does the VIP portion of the auction open?” Haley asked. “We were promised a seat.”
+
+“Two days,” Lillia replied. “At the break of dawn.”
+
+Haley’s eyes flicked over to the plates of food on the table. Then she wrestled back control of her gaze and forced it to return to Lillia before nodding sharply.
+
+“Understood. We will return then. I can say with complete honesty that I am quite curious to see what it is that you’ll be putting up for auction. The Mausoleum has drawn quite a bit of attention. People will be quite disappointed if your offerings fail to hit the mark.”
+
+“I’m confident that everyone in attendance will be more than pleased with our offerings. Just keep in mind that they will be put up over several spread-out rounds,” Lillia said. “Not all of our best pieces will be put up at the start.”
+
+“When will they go up?” Haley asked.
+
+Rodrick laughed. “That’s what you’ll get to find out. Buy what you want, Haley. And make sure you bring enough materials to ensure that you don’t run out and miss on something truly interesting.”
+
+The dwarf narrowed her eyes. Her gaze flicked to the food once more. Then she coughed into her fist and nodded.
+
+“You talk a big game, Menagerie. I can say with complete honesty that the Council is quite curious to see what you have for offer. We do not back a guild lightly. There are great expectations — oh, fuck it.” Haley’s shoulders slumped and the grandiose tone in her voice evaporated like a puddle in the desert sun. “Can I have some of that food? I’m starving, and I don’t think I’ve smelled something so…”
+
+She trailed off as a shadow imp strode up to her, a cloth-wrapped bag in its hands.
+
+“I was just waiting for you to ask,” Lillia said.
+
+Haley blinked. She looked down at the imp, hesitating for no more than a second before gingerly taking the bundle from the shadowy monster.
+
+“We will return in two days. Prepare yourselves.” The sharp tone returned to Haley’s voice as if it had never left. She turned on her heel and strode for the door. The dwarf hesitated right before stepping out. For a moment, she remained there. Then she glanced over her shoulder and cleared her throat. “Thanks for the food.”
+
+“No need to thank me yet,” Lillia replied. “You’ll be back, after all. After you eat that, you won’t have a choice. Just don’t forget that you asked for it.”
+
+Haley swallowed. She glanced at the bundle in her hands. Then she tucked the food under an arm and strode out of the Devil’s Den without another word.
+
+The door slammed shut behind her.
+
+All the members of the Menagerie looked to Lillia as a wide smile spread across her features.
+
+“I think I’m quite looking forward to the auction,” Lillia said with a glint in her eyes. “This is going to be entertaining.”

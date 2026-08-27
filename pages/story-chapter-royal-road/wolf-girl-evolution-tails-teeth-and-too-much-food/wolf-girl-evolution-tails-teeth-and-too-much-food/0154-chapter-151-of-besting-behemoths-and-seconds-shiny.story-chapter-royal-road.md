@@ -1,0 +1,335 @@
+---
+id: 01b34dac-c229-5280-8aff-96866455f596
+page-type-slug: story-chapter-royal-road
+title: "Chapter 151: Of Besting Behemoths and Second’s Shiny Spells!"
+slug: 0154-chapter-151-of-besting-behemoths-and-seconds-shiny
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 154
+ownLength: 2753
+unit: words
+publishedAt: 2026-08-19
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3835736/chapter-151-of-besting-behemoths-and-seconds-shiny"
+royalRoadId: "3835736"
+---
+
+PoV Syliana
+
+Luna’s reasoning was simple, enthusiastic, and extremely difficult to redirect. So Syliana wasn’t particularly surprised when the little Wildling immediately tried to drag her into fighting the biggest threats of the region without any preparation whatsoever.
+
+“But big tasty behemoths are just there! Luna can already see one!” Luna said, tail wagging so hard Shadow Cloak fluttered across her fluffy fur. “Luna distracts big prey! Second uses big spells. Luna bites big meat. We get strongerer faster! Awoomazing plan!”
+
+Syliana looked from Luna to the broken mountain slopes ahead.
+
+The Vaelthorn Teeth spread in low, jagged ridges rather than true peaks, but the range covered enough ground to swallow roads, villages, and common sense.
+
+Nobody was mad enough to build settlements inside it, and even greedy merchant caravans avoided crossing through it entirely. Far as she knew, those few adventurers that dared venture in, tended to skirt the lower edges, took cautious contracts, and left the deeper hollows to the monsters that ruled them.
+
+Behemoths were one of the major reasons why, and now they were here, just the two of them, ready to hunt those massive monsters as a drop of an overeager paw.
+
+…Syliana sometimes wondered how she even ended up in those kind of situations. Although she held strong suspicions a certain overly enthusiastic wolf girl was to blame.
+
+But it was hard to say no to those precious puppy eyes.
+
+“Finding them is rarely the difficult part,” Syliana said, to placate the overeager hunter.
+
+Luna’s ears perked.
+
+“Easy part?”
+
+“Yes.”
+
+Luna gave three delighted yips and bounced on her feet.
+
+“Awoomazing! Easy finding, lots of big hunting!”
+
+“The difficult part,” Syliana continued, “is surviving the encounter.”
+
+Luna turned back to her with bright golden eyes, and repeated her wise words seriously. “Luna zooms, distracts prey! Second booms. If bad happens, Luna takes Second and leaves.”
+
+…Her overwhelming enthusiasm and how simple she made everything sound made it really hard to argue with.
+
+Luna stepped closer and pressed her head under Syliana’s hand, demanding touch while presenting her argument. It was cute how she considered affection to be a formal debating method.
+
+…And it was working. Terribly hard to argue against that.
+
+“Second trusts Luna?”
+
+Syliana’s fingers sank into her unusually clean and fluffy hair to deliver a reassuring head pat. Luna’s Shadow Cloak was quickly shaping up to be one of the best utility Skills Syliana had ever seen.
+
+Then again, her little friend was already capable of many things some would consider to be… unnatural. And a growing pathway to more.
+
+“Yes,” Syliana said. “I trust you.”
+
+“Then Second casts biiig!”
+
+She looked back toward the mountain hollow before them.
+
+【Enemy Identified: Vaelthorn Behemoth, Mountain-Shaking Colossus】
+
+The behemoth stood near the far slope like a piece of the mountain had grown legs and a temper. Its resting place was surrounded by bones, cracked trunks, crushed shrubs, and deep tracks gouged through soil and stone.
+
+Its shoulders rose high enough to rival buildings, with dark gray hide plating its body in thick ridges, cracked and scarred from old fights. Horns swept from its skull in heavy curves, and each breath it took puffed dust from the ground. Even from here she could feel how the stones ground together beneath its feet whenever it shifted its weight.
+
+Syliana was not certain she would have taken this hunt under normal circumstances. Behemoths were monstrous masses of hide, horn, muscle, and stubborn vitality. Too dangerous to tackle lightly – even with a full team and the right preparations.
+
+But Luna was not a normal teammate.
+
+Her little friend was already crouched on the boulder beside her, clean ears forward, tail trembling, nose fixed on the hollow.
+
+“Prey found,” she whispered.
+
+Syliana looked around, carefully selecting the best spots to strike from. Satisfied, she signaled where she was going to Luna, and got moving.
+
+Her steps soon took her to slipping down from a boulder to a shelf of stone half-hidden behind a split trunk and a leaning slab. From there, she had a clear line into the hollow and enough cover to break sight if the behemoth turned. Luna watched until she settled into place with her staff braced and mana gathering quiet around her hands.
+
+Then the wolf girl vanished.
+
+Syliana’s eyes caught only the first black streak dropping from stone to shadow, and then gave up on following. She focused on their target.
+
+Luna crossed the hollow without touching the open ground. Shadowmeld tugged under boulders, stretched beneath roots, and made little false flickers dart along the behemoth’s flank while Luna circled wide. One flicker snapped at its heel. Another slipped across its nose like a teasing tail. The behemoth snorted, shifted its weight, and lowered its head toward the wrong shadow.
+
+Luna hit from the other side with a resounding boom.
+
+Her claws struck the thick hide behind its foreleg and scraped sparks from the plated ridge. The impact cracked through the hollow.
+
+The behemoth roared, its cry reverberating throughout the entire area.
+
+Luna sprang away before the massive shoulder slammed into the stone she had used to spring at it from. The boulder burst apart, dust rolling over the hollow in a gray wave.
+
+“Hehehe!” bright and delighted yips followed the roar.
+
+The Behemoth swung one of its massive arms after her, chasing the little fly that dared sting it. Its claws tore a tree from the slope and sent the trunk spinning through the air. Luna ducked under the first sweep, ran along the thrown trunk as it passed, and kicked off the broken end toward its face.
+
+Shadowmeld flickered beside the behemoth’s other eye, and the monster snapped toward it with alarming speed.
+
+The motion dragged its whole front half around. Horns swept through the air, broad enough to cover half the space Luna had occupied, and the force of that turn shuddered through the hollow and up into Syliana’s boots.
+
+Luna Shadow Stepped into its face before the head finished turning.
+
+For one heartbeat, she was there against its enormous brow, small and black against dark gray hide. Her claws hooked into the bristly ridge above one huge eye and tore bloody lines through the fur.
+
+The behemoth jerked back with a startled grunt.
+
+The ground jumped under Syliana’s feet.
+
+Luna vanished into shadow before the answering snap of its horn could catch her, then appeared beside its ear with her claws already sinking in for grip. The behemoth reacted almost at once. Almost too fast for something that large, but its very size made every motion wider, every correction dangerous, every toss of its head akin to a sweeping attack.
+
+Syliana braced one shoulder against the stone and held her forming spell steady, even as her mind could already picture what her little friend was thinking.
+
+Big prey liked being loud?
+
+Luna pulled in a full breath and howled straight into its ear.
+
+“Awooooooooo!!!”
+
+The sound hit a fraction before the behemoth’s roar. Its whole head lurched. Luna clawed deeper while it thrashed, ripping red marks through the fur around the ear as its broken roar rolled through the hollow.
+
+The pressure struck Syliana’s cover hard enough to rattle loose grit down the stone. Grass flattened. Dust leapt from the slope. The split trunk beside her groaned, and the mana gathered around her hands trembled before she forced it smooth again.
+
+The behemoth’s next shake nearly caught Luna against its horn.
+
+Nearly.
+
+She kicked away laughing, rolled with the edge of the shockwave, and landed paws-first on a cracked stump while Shadow Cloak flared clean and dark around her.
+
+“Second! Big spell!”
+
+Syliana realized she was smiling.
+
+It had been a very long time since she had approached magic like this.
+
+For years, she had been the support. For years, she had held precision and mastery in the highest regard. Achieving the most effect, with the least amount of mana, and minimal waste. Always keeping enough mana for any unexpected scenario. Always thinking three failures ahead.
+
+And now Luna had asked her to do the opposite.
+
+For once, she did not need to be the reserve.
+
+For once, she could spend all the power at her disposal.
+
+Excitement moved through her even as she took stock of the world around her one more time. The mountain hollow held only stone, trees, one furious Behemoth, Luna’s delighted speed, and Syliana’s mana waiting in her hands.
+
+And offered absolutely no reason to hold back.
+
+“Alright,” Syliana murmured.
+
+But even as excitement made her eager to cast, her logical part still considered the options.
+
+The simplest spells would be best. Robust, scalable, and hard to mess up at scale. She made her pick. Fire and force. Compression, direction, containment until release.
+
+Syliana built the array between her hands.
+
+Mana gathered hot and dense, layer over layer, until the air around her fingers trembled and the stone beneath her boots answered with a faint, hungry hum. The spell grew larger than anything she had ever shaped for release in open combat.
+
+It grew, and held, eager to release.
+
+Across the hollow, Luna became a black streak through dust and broken light.
+
+She crossed in front of the behemoth’s nose, vanished under the sweep of one horn, and appeared again along its flank with Shadowmeld snapping after her in false paws and teasing wolf-faces. The Behemoth struck at every wrong shadow. Each impact punched through the hollow, cracking stone. The shelf beneath Syliana shivered hard enough to send grit skittering over her boots.
+
+Luna darted out of the dust, snapped at its nose, and sprang back just as its jaws crashed shut where she had been.
+
+The behemoth lunged after her, its reach nearly catching up with her.
+
+Its head covered the distance like a falling wall, jaws opening wide enough to show a throat like a tunnel of wet red muscle.
+
+Luna’s shadow flashed across its eye.
+
+The monster roared.
+
+Syliana cast.
+
+Her spell launched down its throat.
+
+Fire and force vanished into the roar, and for one impossible heartbeat the hollow went silent.
+
+Then the spell detonated inside the beast.
+
+The blast came back out as a boundary of pressure and heat.
+
+It rolled through the hollow in a widening ring, through dust, through shattered bark, through Luna’s flaring Shadow Cloak, through Syliana’s cover, and through Syliana herself. Her skin prickled. Goosebumps raced up both arms. The mana around her fingers snapped loose in hot sparks, and her breath caught as the stone shelf kicked under her feet.
+
+Luna tumbled through the edge of it, landed sideways on a broken trunk, and yipped with bright, delighted laughter.
+
+“Hehehe!”
+
+The monster’s head snapped back. Dust, blood, and broken teeth burst across the hollow. Its hind legs carved furrows through stone as the force drove it nearly into the mountainside.
+
+For one breath, Syliana thought it might just be enough.
+
+But it did not fall.
+
+The Behemoth staggered, throat mangled and smoking, then planted one clawed arm hard enough to crack rock. Its broken roar dragged itself out of the ruin in its throat and still hit the hollow like a hammer. Syliana’s bones rattled. The split trunk beside her tore loose from its roots and slammed down the slope.
+
+Luna was already moving.
+
+Black shadow streak flickered across the hollow. Claws across the eye, mutilating the beast further. And gone before the beast could even hope to react.
+
+Syliana’s mouth went dry.
+
+“Amazing resilience,” she said despite herself.
+
+Luna appeared beside her in a spill of shadow, her shadows catching Syliana’s robe while Shadowmeld curled around her waist.
+
+“Move Second!”
+
+She felt the yoink, and then the world folded.
+
+A few breaths later, Syliana stood on a higher shelf of stone with a different angle on their opponent. Luna released her and vanished before Syliana could thank her.
+
+Her first position disappeared mere moments later.
+
+The Behemoth’s claws tore through the ledge, the split trunk, and the stone behind it in one furious sweep. Rock burst outward in jagged shards, and dust swallowed the place Syliana had been standing.
+
+Then Luna struck its face again.
+
+A black streak cut through the dust. Another shadow went left, even as Luna went right. The behemoth snapped toward the decoy, and Luna raked bloody lines down the side of its ruined muzzle before kicking away from its horn.
+
+Its throat was ruined, its balance compromised, it was half-blinded, and its anger was now larger than its ability to act cleanly. Despite that, its every stagger crushed stone, every half-blind swing covered too much ground. Every broken roar shook Syliana’s ribs.
+
+Raw force had not been enough.
+
+Syliana needed a kill.
+
+She drew in a slower breath and focused through the excitement still running under her skin. For a distracted beast like that, a cutting spell came to mind.
+
+Scaled up from this angle, it could hopefully do what the explosion had failed to finish.
+
+She shaped the edge.
+
+The behemoth lurched after Luna, exposing how the explosion had partly ruptured its throat. She found the most damaged line beneath its jaw.
+
+Syliana cast.
+
+The blade of compressed sharpness crossed the hollow in a pale arc.
+
+It struck through ruined flesh, dense hide, and stopped at the last stubborn brace of bone. The behemoth’s head came nearly free, and she watched as it trembled… before snapping off and crashing among the stones. The body took two more steps, then fell hard enough to shake dust from the ridge.
+
+Silence followed.
+
+Then the System chimed.
+
+【Level Up: 67 → 68】
+
+【Intelligence +2 | Willpower +1】
+
+Syliana stared at the message.
+
+It had been a long time since she last leveled so fast. And this was already the third one since meeting the little Wildling.
+
+And it was just… one kill.
+
+One behemoth, and one level.
+
+Incredible.
+
+Luna slammed into her just a heartbeat later, shifting into her human form mid-leap so Syliana caught arms, tail, Shadow Cloak, and pure joy all at once.
+
+“Second!”
+
+Syliana staggered, then laughed and held her in a tight hug.
+
+Luna grabbed both sides of Syliana’s face, eyes shining.
+
+“Big big boom-boom spell was awoomazing!”
+
+Syliana’s laugh came out breathless.
+
+“It did have an effect.”
+
+“Awoomazing effect!” Luna corrected. “Fire went whoosh inside big prey, then boom went out, and the whole hollow shook, and Second still made sharp spell after!” Her tail whipped back and forth. “Best Second hunting, Luna proud!”
+
+“And I’m proud of you too, Luna. Those were some great distractions.”
+
+“Ehehe!” the wolf girl nuzzled into her in response.
+
+Syliana looked past Luna to the fallen monster, then down at the fading warmth in her hands. The huge spells had drained nearly all of her mana. Much more than she would normally spend in several engagements, but it had worked.
+
+More than that, it had felt good to cast without holding herself back in case of every possible emergency.
+
+“You were right,” Syliana said softly.
+
+“Yesh!” Luna bounced on her toes. “Luna always right!”
+
+“And I leveled up too.”
+
+Luna’s ears shot up.
+
+“Second leveled!”
+
+“Yes. I did.”
+
+Luna’s tail became a blur.
+
+“Big hunt makes Second strong faster! And big big boom-booms are awoomazing!”
+
+“It seems that large-scale offensive spells have their place, after all,” she smiled at her friend’s unrestrained joy.
+
+Luna beamed at her, and a moment later her whole body snapped toward the fallen Behemoth.
+
+“And now we have so much delicious-smelling meat!”
+
+The storage took effort. Luna opened her Maw and worried at the enormous body with shadow and teeth until the carcass began to vanish in heavy portions. She stopped twice to bite into the meat herself, chewing with delighted concentration while Shadow Cloak kept blood and dust sliding off her fur.
+
+Syliana watched the impossible monster disappear and decided not to think too deeply about where exactly it was disappearing to.
+
+Or its storage capacity.
+
+Luna finally swallowed the last bite she wanted, flicked her ears, and looked toward the next ridge.
+
+Syliana recognized the expression.
+
+“Luna.”
+
+Shadows looped around Syliana.
+
+“Oh no, no. We just–”
+
+“Second!” Luna yipped. “Let’s go!”
+
+The world lurched as Luna yoinked her off the stone and into another burst of impossible speed.
+
+Wind struck Syliana’s face, as the mountains blurred around them. Luna’s laughter streamed ahead of them, bright and wild and utterly certain.
+
+Her heart pounded and as she looked at the incredible sights disappearing around them, Syliana realized something important.
+
+Apparently, the hunt season had just started.

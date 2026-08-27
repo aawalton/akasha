@@ -1,0 +1,315 @@
+---
+id: 7d51b6dc-695d-52b1-bd4a-d73f0843d28a
+page-type-slug: story-chapter-royal-road
+title: "PoA The Concept of Death Chapter 5"
+slug: 0013-poa-the-concept-of-death-chapter-5
+partOf: the-path-of-ascension
+position: 13
+ownLength: 5208
+unit: words
+ownProgress: 5208
+publishedAt: 2021-11-10
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/783786/poa-the-concept-of-death-chapter-5"
+royalRoadId: "783786"
+markedReadAt: "2026-06-29T19:17:51.376Z"
+---
+
+PoA The Concept of Death 5
+
+Melinda and her team walked back to their suite of rooms lethargically. Their brutal beatdown hadn't ended with the first duel with Matt. No, they tried for a second bout and had been handled just as easily.
+
+Melinda forced her hands to unclench and wiggled them, letting blood flow freely. Losing to Matt wasn't the worst thing. Their friend had always been tanky for his Tier. Now that he had rounded out his skills a little, it wasn't too surprising that he could beat them. He had always been an unrelenting force.
+
+Even their loss to Liz was acceptable. The woman was an elemental manipulator with the ability to carry her element around in a spatial growth item. Her use of skills and the way she helped train Vinnie proved that the woman had invested a lot of time into working on her craft.
+
+No, it was the loss to Aster that ate at Melinda. Aster, in her mind, was still the cute and adorable baby fox who wanted pets and cuddling. She was pretty sure that they would have beaten Aster if they had a second fight, but having most of her team turned into ice sculptures was something she wanted to avoid.
+
+Baxter hadn't said anything else to her, but he hadn't needed to. His message was taken and understood. If they thought they were slipping before, they now had hard proof that they were weaker than they should be.
+
+Her musing was interrupted as they entered their suite, and the weight of their recent humiliation became apparent.
+
+No one said anything until Kyle lightly shoved the coffee table with his foot.
+
+"That was horse shit."
+
+Vinnie sneered at him. "At least you got to fight."
+
+"Shut up. That's not what I meant. I..."
+
+Mathew stood and towered over everyone. "No. Stop."
+
+Her husband was unusually serious, and it caused the bickering to immediately die.
+
+Once he saw that he had everyone's attention, he spoke with a flat expression on his face.
+
+"What happened, happened. We can't change the results of that fight. But we can review and learn from it. Let's start with Matt."
+
+Tara interrupted, "We got..."
+
+Her husband held up a hand. "No. Stop. One at a time. Why did we lose against Matt?"
+
+They were silent for a minute as each of them pondered the question.
+
+Sam tossed out, "He knows our talents and skills. He was able to counter us." As if that would absolve them of their failure. Melinda had noticed how mad the woman had been when none of her skills or attacks were able to penetrate their friend’s armor. It had been a blow to her confidence.
+
+Her husband nodded. "Matt knew our Talents. He was able to counter me by getting me off the ground. I know my Talent works less on people, but he was able to negate it by taking me out quickly. But we knew his Talent too, so it should have balanced out. Same with our skills. So what else?"
+
+Kyle threw out, "He's strong. Stronger than I am. I checked his skills, and I saw that he was using a strength-enhancing skill." Her teammate grimaced. "It makes him stronger than me. By a lot. It doesn't help that he's a better sword fighter either."
+
+Melinda could see that his admission hurt, but she was proud of Kyle for showing humility. He took pride in his strength and sword skills, so she knew it wasn’t easy for him. She learned over and rubbed his shoulder in a show of support.
+
+Sam had her arms crossed, but Melinda didn't miss the subtle rubbing of her chest where Matt had stabbed her and Kyle. She made a note to check up on her after this.
+
+"My poisons are great in a rift, but I'm limited against intelligent combatants. Even more so now, with Matt's armor being impervious to gases. I would have done better against..."
+
+Mathew interrupted Sam as she tried to move on to the other fights. "No, let's get everyone else before we move on."
+
+Vinnie repeated himself, "He knew our Talents and realized that Tara and I were the two people who could either trap or hurt him, and he took us both out at the very beginning." Vinnie clenched his fist, and with white knuckles said, "We got slapped around like kids, but that second shot was bullshit. Tara, how does a crossbow bolt bounce like that?"
+
+Tara looked confused as she responded, "I don't know what you mean. I was too busy getting drowned by ice to pay attention. Is the arrow special?"
+
+Melinda sent everyone her perspective of the second fight, where a crossbow bolt had bounced off the ground like a rubber ball, slipping around Vinnies flat wall of defensive earth.
+
+Tara whistled and said, "That's a special bow for sure. Maybe it's the bolt, but I doubt it. Shit, I want one." She cracked a wry smile before asking no one in particular, "Think he'd sell me one?"
+
+Mathew redirected the conversation. "What else could you have done better, Vin?"
+
+"I made a flat wall because it was cheaper, and well, yeah. You watched how that went. I should have gone underground or encircled myself fully. It's not like the stone blocks my vision."
+
+Everyone looked at Tara, and with a sigh she said, "I was screwed from the outset. I can't shoot an arrow through that much ice. It's too dense and too heavy to punch through."
+
+Kyle shrugged. "Was it that bad? I didn't really see it."
+
+Tara withdrew an arrow from her new quiver and smacked Kyle. The sharp tip cut a thin line on his leg through his armor, and she said, "I have armor penetration. I could feel my Talent trying to punch through the ice. There was so much ice, it was counting as armor." She spoke slowly as she glared at all of them.
+
+"Look at my view of the ice."
+
+They got another video, and Melinda winced as she saw Tara's view replaced with blue hail as soon as the fight started. The rain of ice was so dense, she couldn't even see out of the skill’s area of effect.
+
+"I can't shoot through that. My arrows get hit on the shaft and knocked down. It's absurd how much ice he can shit out. Any normal mage would have had to drain their mana pool to sustain that much ice generation. The only reason I could escape the ice field at all was its small size."
+
+She looked at Kyle and apologized. "Sorry. Hurting you was wrong."
+
+Kyle just patted her hand. "I'm sorry I doubted you. You were the only one who was able to hurt Matt after all. I should have known you weren't sitting on your ass."
+
+Melinda healed Kyle and said, "I was unprepared for how quickly we went down, and failed as both a shot caller and a healer."
+
+She swallowed and continued after a minute of reflection. "We should have changed our entire strategy after the first loss. Whether it worked or not, we should have tried."
+
+Mathew took charge and redirected them. “What about Liz? I’d say it was pretty fucking terrifying when she just washed over me and slit my throat. I can't stop a wave, whether it’s blood or water.”
+
+Melinda saw her husband and Vinnie both shudder at that.
+
+Vinnie shook his head. “I don't think there was anything we could have done.”
+
+Sam interrupted, “I could have poisoned her. And Tara could have shot her.”
+
+Vinnie shook his head. “No, while those are both possible, I don't think they’re practical. We talked. We both have manipulation skills. I'd rather fight Matt than her. At Tier 5, she was killing Tier 7 monsters with defensive fighting styles. If she wanted, she could have cut us to shreds with one of her multiple ranged blood spells. You saw the one she used, but she has more.”
+
+Mathew nodded and asked, “Anyone else?”
+
+Kyle shrugged slightly and said, “She’s strong. We only sparred once, but it was enough to see that she's stronger than any normal Tier 6 mage should be. Either she's heavy in physical cultivation, or doing something else. It could be a skill… maybe [Mana Strength].”
+
+Sam tossed out, “The golem thing didn't seem like a skill. And she kept her head out of the blood, so she needs to breathe. That's a weakness that Tara and I can exploit. It’s just a hard one to hit.”
+
+They talked for another ten minutes about how to handle Liz, and the conversation eventually shifted to water mages. Technically, you could put Liz in that sort of category as well. It would be a challenge, but taking them out early would be their best chance. The biggest issue is how [Water Manipulation] could increase a water mage's versatility to insane levels. Liz’s own version with blood made her a terror in a group fight. The more people bled, the stronger she got.
+
+They repeated the exercise with Aster, though it was easier for her, as she had blindsided them. That wouldn't work twice.
+
+After they recapped everything they had done wrong and what they could have done better, they broke apart. Melinda decided to take a shower when she noticed that there wasn’t anyone already making a beeline for it. Standing under the hot water, she was able to relax a bit as it beat down on her shoulders and back. Deep in thought, she watched a few beads drip from her hair onto her chest and roll down.
+
+So many things that she had always taken as certain were now up in the air.
+
+The excitement from the new items and skills they were given last night was replaced by the realization of how far they had fallen. Melinda corrected herself. They hadn't fallen, they just hadn’t advanced. Even if she’d been able to count on her Talent in the fight, it wouldn't have made much difference.
+
+She wouldn't have been able to get to everyone fast enough to reverse the brain damage that would have occurred from Matt and his party's attacks. Even if it worked once on someone, the fact that she was perfectly healing her teammates would have been instantly identified. After that, she would have been quickly taken down. She could only heal while she had mana, after all.
+
+She walked out of the shower and started to brush out her hair, still considering the road ahead of them.
+
+Her team needed to grow. She knew that they could just leave the path, buy a nice house somewhere, and slowly advance. Even if they took their sweet time, they could hit Tier 14 by fourteen hundred years old. It wouldn't be impossible, or even hard for them. With her Talent, they could carefully delve every few days while being perfectly safe.
+
+In a thousand years, they could be immortal, and they wouldn’t have to worry about anything taking their lives. At that point, they wouldn't even have to delve very often. She was pretty sure that they could delve a Tier 15 rift once every few months and earn enough to live on.
+
+As of a week ago, that would have been perfectly acceptable. Her family's lives were the most important thing to her. While that hadn't changed, Melinda was no longer content to sit around and let life push her along.
+
+They had worked so hard at the orphanage while they waited for awakening, and even harder at the PlayPen. Her past self would have never believed the mere idea of her team slipping.
+
+When they had nothing to distinguish themselves from the masses, they had dutifully strived to improve. When they had become unique, their sense of urgency had all but vanished.
+
+Melinda stood up, and while still in her slippers, walked out after leaving a message for her team.
+
+She had only gotten to the front step before Baxter was suddenly next to her.
+
+She was sure that they looked ridiculous standing next to each other, one in sloppy healer robes, and the other with wet hair and in a bathrobe.
+
+Melinda didn't bother to look at her mentor and just watched the people passing by. They were being flown off on transports in large groups. Laughter and smiles prevalent on people’s faces.
+
+"What's the point?" It wasn't what she really wanted to ask, but it slipped out before she noticed.
+
+"There isn't one."
+
+That jived her out of her crowd gazing. She expected some smartass answer, or being one upped from an angle she hadn’t considered.
+
+Seeing her look, he grinned at her. "No, really. There is no point to anything. If everyone died right now, the planet would be fine. If the planet was sterilized right now, it would mean nothing. A rift break would occur, and animals would come out. If they couldn't survive, they would die out. Eventually, a rift would invert into a ruin, and an ecosystem would be created and slowly start to terraform the planet. Then in a few hundred thousand years, this planet would be perfectly fine."
+
+The older healer waved around. "It's the same for the entire multiverse. We don't mean anything. Gaining power? Becoming immortal? Ascending? It all means nothing. We do it because we fear weakness and death."
+
+He shrugged and said, "Some do it because they enjoy the fighting. Others, because they want power."
+
+He met her eyes and finished, "It all means nothing, though. The only value is what we assign to it personally. There’s really no point. Only what we make of life for ourselves."
+
+"I don't want to believe that." She didn't want to agree, but a deeper part of her felt that he was right.
+
+He looked away. "Why do so many people refuse to Tier up to Tier 15? Nearly anyone can hit that Tier. Concepts limit some people, yes. But from the general population, only about five percent of people hit Tier 14. Seventy percent of those break into Tier 15. Why don’t more people strive to at least live a thousand years?"
+
+"Rifts aren't always available."
+
+He waved that off. "I know you think your planet is the norm, but it's not. Your planet was newly integrated and only Tier 4. You’re missing the bottom layer of the pyramid of rifts. On a Tier 5 planet, no one pays for Tier 1 and 2 rifts. They’re in abundance. People should be advancing, but they don't. They sit down for their short lives in the little ruts they make for themselves. Either they give in and die, or snap out of it eventually."
+
+That last bit had a bitter tone that she hadn't heard from him before.
+
+"What happened?"
+
+Baxter waved her off, but when she just looked at him, he sighed and said, "I'm not going to share my own story, so let me share my boss's. He’s an asshole, so I’ll enjoy telling you of his folly. Head healer for the Emperor himself. His moniker is Harvest Moon because he was a battlefield healer who snapped when his healing station was attacked. The idiot went on a rampage and slaughtered tens of thousands of people, simply because they were on the other side. The leaders on both sides were furious, but he had technically only responded when the rules were broken, so there was little that the other faction could demand. The only consolation they received was that the Empire banned him from the battlefield."
+
+Her mentor looked ready to spit. If the topic wasn't so heavy, she would have laughed. He was the only person she knew who would talk bad about their boss like that, but it fit his uncaring personality.
+
+"But he went overboard. Killing the cultivator responsible would have been one thing, but Harvest Moon had sworn to never take life, and only heal them. The fool didn’t realize that he was doomed to fail. The frustration of only cleaning up messes and not being able to help prevent them would cause anyone to snap, and when he did, he slaughtered everyone involved in a border skirmish. Now he demands everyone call him 'Harvest Moon' as a reminder of a healer who went crazy."
+
+"Is that why you want me to use my Concept? Don't want me to snap and regret it?"
+
+"Melinda, you are lucky. Your Talent is amazing, and I have no doubt that your Tier 25 will be just as shocking. But what will you do when someone kills your husband? Your friends? They’re like family to you. How badly will you lash out when one dies? As you experienced today, you can do everything right and still lose."
+
+"It's horrible to watch, though." She didn't want to see her Concept in action, and she didn’t feel like Baxter understood how awful it was, since he hadn't ever seen it in person.
+
+"Let me tell you from personal experience that all death is bad. It doesn’t matter how they die."
+
+Melinda let her gaze be pulled along by a flying platform and asked, "If I use my Concept on monsters, it's a short step to people. I don't want to be like that."
+
+"That's why I want you to use it on monsters, because it’s inevitable that you’ll use it on people. You need to know how it works and be ready to defend your family. Most don't understand what healers go through. Melinda, we can't save everyone. Even you. I might not be able to heal something, but while you don't have that problem, you can still run out of mana. When you can't heal your friends, you have to remove the threat. And trust me, you will be glad that you tested it out first."
+
+Melinda weakly protested, "But I got [Bolt]." She already knew that the argument was pathetic;she didn't need Baxter to say it. Instead, she said it herself with a sigh. "But if I'm already out of mana, it's useless."
+
+They stood next to each other for another few minutes, with only the sounds of life shuffling around them.
+
+"Fine, let's go test it."
+
+Melinda knew it was necessary. She didn't want to imagine what she would do if her friends died because she didn't use all of the tools that she had at her disposal. While the story of Baxter's boss, Harvest Moon, wasn't one for one, she did recognize that she could snap. If her family was lost, she didn't have any illusions about going on as if everything was fine.
+
+In a blink, they were standing in a building with a rift. Two army soldiers stood there, but they didn't seem to notice as the pair walked into the rift. It was a Tier 5 forest rift that Melinda felt was off, until she saw the massive amounts of herbs scattered on nearly every surface.
+
+She made a note to get Sam a few runs of this rift, when a screaming tree was suddenly lifted out of the ground and brought over to hover in front of her.
+
+Melinda watched it struggle in Baxter's clutches. With an effort of will, she empowered the black mist that surrounded every living creature. She watched in horror as the monsters that destroyed her home coalesced into little monsters and tore apart the tree monster with their teeth and claws.
+
+The visual from her Concept was only half of the horror. In her normal vision, she still saw the monster, but it started to melt and slump in on itself as her Concept drained her of will to eat away at the monster. She wished that she could say it quickly drained her, but it was as easy as breathing for her. No strain at all. This was what her Concept was made for, after all.
+
+As she watched, an arm fell off and plopped to the ground with a wet sound. As it continued to melt, she turned and vomited. The sharp and acrid taste was almost a comfort, as the smell of the monster melting was like burnt rubber and overcooked meat all at once.
+
+She looked at Baxter, who just watched on as the puddle of monster gore grew until there was nothing left.
+
+Once the monster was well and truly dead, she asked, "What's the verdict?"
+
+"More testing is necessary, but I can give you some good and bad news."
+
+"Oh?" It was all she could choke out.
+
+"The good news is that your Concept is strong as hell. The bad news is that anyone you use it on is a dead man. I don't even know if you could heal this at your Tier."
+
+It was a confirmation of every nightmare she had ever had, and she wanted to vomit once again.
+
+"Your Concept is literally tearing apart the spirit of the victim, which destroys the bonds of reality. It won't be easy to heal., Without the spirit, it's hard to recreate the physical structure of a being. It’s possible, but incredibly difficult. Overhealth works miracles, but it still needs the spirit to build off of for its automatic healing."
+
+The monster vanished in a flash of pale light, and Baxter continued. "It's not unheard of for spiritual attacking Concepts, but they’re rare. They may be strong but they still have weaknesses."
+
+That caught her attention. She didn't want to be a killing machine.
+
+"Spiritual attacks attack the spirit, obviously, so their use is truly a battle of Concepts. You need to overpower the other person and their Concept, or else they can halt the attack. Otherwise if they remove the limb before it fully takes hold they may survive. But like I said it will be difficult to heal, if not impossible."
+
+Melinda knew Baxter well enough to know that this wasn't the end of their testing, but she swallowed and nodded.
+
+An hour later, they learned a few things.
+
+She could only use her Concept on one thing at a time, and had to kill the infected individual or have her Concept broken to move onto another one.
+
+The second was that her Talent had enough power to heal her own damage. It was just insanely expensive and slow. It was good to know that she could heal anyone hit with a spiritual attack, but her Talent wasn't healing the spirit, which Baxter said was normal.
+
+A person, or in this case, a monster's spirit would take longer to heal, but as long as the flesh was mended, it would regrow to match their body slowly. While the flesh was functional, it felt like it didn’t belong. Immortals could speed the process up a little, but it was still incredibly slow, and could take years.
+
+She hated the look in Baxter's eyes, but she knew that for her next Tier up, she would be aiming to get her overhealth Tier 3 Talent to affect the spirit. It would be amazing if it worked, but she knew that it would be a slow process to grow her Talent enough to make it work that way. She would need a lot of time at her Tier, and to practice with spiritually crippled monsters.
+
+It meant she would be using her Concept often.
+
+She hated watching the monsters from her childhood ripping even other monsters apart. Killing them was one thing, but watching their flesh slump and melt was a cruelty she didn’t wish on anyone or anything.
+
+He deposited her later that night in front of her suite, and Mathew was waiting up for her while tapping on a pad. She brushed past him with the excuse she needed to shower again.
+
+Her husband wasn't dumb, for all of his good-natured attention and ability to see the fun side. So he opened the shower door as she scrubbed herself with some soap and a luffa.
+
+"Are you ok?"
+
+She repressed a hiccup, and with more control of her voice than she expected she said, "No. Not really."
+
+He crawled into the shower with her and held her, and she let out the pent-up tension from the afternoon.
+
+After a good cry and talk, she actually felt quite a bit better. Not perfect, but better than she had after the experiments.
+
+She now had a goal. Be able to heal the damage she could cause. And she now knew that she couldn't really hurt more than one person at a time. Her Concept seemed a lot less scary.
+
+She was still going to send her therapist a long message tonight, but things were looking less dim.
+
+***
+
+They were called up later the next afternoon for a mission. They had been running drills while absorbing the skills Matt had given them, or looking to trade them for more useful skills. She felt bad for taking his items, and if they had been offered now, she would have refused to take them. Their team needed to work on their fundamentals before they relied on skills, but they had them now, and needed to put them to good use.
+
+During their downtime, she had been working on her shot caller module that she had bought. She wanted to say that she was getting better through hard work, but she was more driven now, plain and simple.
+
+It was helping. Her random teams were doing better each time she ran with them, and she hadn't had a death in three runs. Good progress only meant that she needed to turn up the difficulty, but it was something.
+
+Their mission brief was interesting, but wasn’t anything too crazy. They were guarding a fort in the middle of a forest. They weren't the primary defenders, but backup. There had been Kingdom activity spotted in the area within the last day. Scouts were seen sniffing around the lower level forts, and the Queendom’s higher-ups thought there was going to be an attack. They wanted to have a team ready to respond to a fort being attacked, or a strike team to take out any hidden camps.
+
+Melinda was nervous, but they stepped onto their extra-large flying sword that they recently purchased, and flew to the indicated fort. Sam flew with Tara as they made their way through the sky. Riding piggyback wasn't ideal, but the sword was just uncomfortable for all of them.
+
+There were a few cheap Tier 6 flying devices on the war market, but they didn't have that kind of money lying around.
+
+When they arrived, they were shown a small room full of bunk beds where they were able to set themselves up. After that, they just hung out on the walls, scanning the nearby forest.
+
+It was slightly eerie. The thick, dense forest blocked out most of the light, and the clearing that was being cut around the fort only increased the contrast.
+
+Vinnie was out there with them, and was using his Talent to see through the ground as a makeshift scout. His ability let him poke his head under the ground and see quite a distance. He would be a lot more dangerous if it didn't cost so much mana to move earth while traveling quickly.
+
+In the end, it still worked out for them, but he was being careful not to be seen above all else. If there were scouts out there, he was at risk. Melinda hated it, but it was the right call. After three hours, they got their payday.
+
+"I'm hiding in a hill right now and I found them. There’s a team of five people moving to the smaller fort to your fort's east."
+
+Melinda checked their location in reference to Vinnie. That wasn't fair at all.
+
+She sent a message to the fort’s leader that they were going to complete their mission and forwarded it to their headquarters.
+
+In five minutes, they were jogging out of the camp, moving to Vinnie's location. They didn't expect to sneak up on the scouts, but they didn't want to give their location away like a bunch of brutes either. She winced every time they stomped on leaves or twigs, and just hoped the scouts were occupied with their sabotage.
+
+When they reached Vinnie, he crawled out of the ground and joined them as they slowed down and carefully moved to a slight highrise near the smaller fort.
+
+Vinnie laid down, and after shoving his head into the ground, said, "Found them. Or four of the five. They’re in a dry creek bed around the hill to the west of us."
+
+The missing scout was a problem, but they could deal with that when they took out the other four. The most obvious answer was that they were hiding somewhere, not touching the ground and thus preventing Vinnie from sensing them. While his Tier 3 Talent said see-through earth, it was more like a new sense that functioned like vision for anything touching or in the ground. Someone not touching the ground negated it.
+
+"Watch the trees, and let's push forward."
+
+They crept along and used Vinnie to get an AI recording of where the four were hiding. At her countdown, they raced over the edge and dispatched the four prone scouts. It wasn't even a fight with Tara standing on the hill and putting arrows into the backs of three of the Kingdom scouts. Mathew raced down the hill and skewered the remaining one.
+
+It was surprisingly easy.
+
+At least it was, until Sam noticed the hideout camouflaged in a nearby tree. When they saw the small, suspended hut, a short, lithe figure burst out and bounded through the tree branches as if they were walking on solid ground. They quickly lost the final scout, but Melinda wasn't worried. They had done their job after all.
+
+She was about to call the mission when Kyle asked, "Why did they run directly towards another of our forts?"
+
+It made her think as well, so she brought up a map of the area. They had come from a medium fort that had a sprinkling of smaller forts around it. And their unkilled scout had run deeper into Kingdom territory in almost a straight line.
+
+It was dumb, unless she was trying to lead them away from their actual base.
+
+She said as much, and her team agreed with her reasoning, so they moved in the opposite direction of where the woman had fled, and let Vinnie search around.
+
+Two very careful hours later, they found a base being built into a neighboring cliff face across from their own. A wooden wall was being created as they watched. With careful observation, there seemed to be five non-combatants that were quickly building the base with some kind of building skill. It locked the freshly cut trees into a solid wall, and the others were assisting. Fourteen people among them seemed to be combatants, but with how they were constantly moving, it was hard to get a firm number.
+
+Melinda was reporting the information up to the headquarters when Vinnie cursed and said, "They have an earth mage, and he felt me."

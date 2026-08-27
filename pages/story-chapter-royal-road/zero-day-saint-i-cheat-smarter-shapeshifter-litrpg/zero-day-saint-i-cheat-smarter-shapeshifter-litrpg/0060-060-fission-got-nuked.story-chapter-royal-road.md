@@ -1,0 +1,135 @@
+---
+id: 91eec3f0-f441-5642-969a-575a82295a2c
+page-type-slug: story-chapter-royal-road
+title: "060 - Fission Got Nuked"
+slug: 0060-060-fission-got-nuked
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 60
+ownLength: 1657
+unit: words
+publishedAt: 2026-07-22
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3709390/060-fission-got-nuked"
+royalRoadId: "3709390"
+---
+
+"What is it you want, dragon-kin? What could one like you offer us?" asked the First.
+
+"An alliance. I cannot be everywhere I need to be. I need eyes and ears. In exchange, I offer safety. A path to communicate with the humans, who would otherwise sooner or later slaughter you and your kin."
+
+The Second huffed. "How can you promise safety when you do not possess the strength to challenge us? If you were as powerful as you claim you are, you would take us down and claim this clan as your own."
+
+"Fuck that. What I need is reliable allies, not cowering servants just waiting to stab me in the back at the earliest opportunity."
+
+A murmur went through the crowd. I wasn't sure if it was due to my use of profanity or a dragon-looking person's refusal to grasp power by force.
+
+The First only needed to lift her hand to silence the crowd again.
+
+"How did you do it? How did you defeat Mammon? Your deeds have rippled and cost us our daughter, Zi'rah. What empowered you to do this?"
+
+I reeled. I neither had a good answer to that—'I turned into a supersonic pheasant' wasn't exactly a claim of power—nor did I have any idea about their daughter or what she meant by that.
+
+"I… cannot share this secret. My condolences regarding your daughter. Was she with Mammon when it happened?"
+
+The First shook her head. "After his death, Mammon's followers blame us for his death. That if we had joined them, he would have been more powerful and wouldn't have fallen. This conflict has cost lives on both sides recently, among them our daughter."
+
+The Second leaned forward and banged the butt of his spear against the ground. "Since you aren't willing to share the secret of your power, prove it. Rid us of the menace you brought upon us, and you shall have your alliance."
+
+The First nodded. "Slaughter them, kill their demonic leaders, convince them to seek peace. It is up to you. But prove yourself, and we shall see about cooperation. Just know that I will not throw away the lives of my kin for a lost cause."
+
+I gave them a slight bow. "It will be done. What do you know about their leaders?"
+
+"Former lackeys of Mammon. Theirs is a perverse version of our leadership. A female and a male. But they have taken their position by force. It wasn't granted by the will of the elders."
+
+I bowed again. "It will be done." I turned but stopped at the edge of the circle. "Dratz'zt, you will accompany us back to the gate."
+
+Dratz'zt quickly fell into step beside me. "Yes, of course, mistress." Behind me I could hear the very faint groan of the First.
+
+We remained silent during the return trip. Helene was too preoccupied guiding the dogs around the traps to discuss our next step in chat. And even Dratz'zt was lost in his own thoughts.
+
+It was only when we were back at the loading bay gate that I addressed him.
+
+"You took a big risk today. Why?"
+
+He stared at me for a moment, carefully collecting his thoughts.
+
+"That first time you came here? You didn't kill me. I had been assigned guard duty at the front entrance. For a mere soldier like me, it is a death sentence when those doors open. And afterward, I was able to use Kri'zah's failure to stop you to get this position here. Here, those gates usually mean the arrival of a friend, not death."
+
+"You used the fact that she let me enter as blackmail against your squad leader to get ordered here?"
+
+"Yes."
+
+I helped Helene and the dogs down from the loading bay. "You are a bold one, Dratz'zt."
+
+"Thank you, mistress. May your quest be swift and your cunning unmatched."
+
+I couldn't help but smile. "I hope you like hyenas."
+
+We didn't wait for his reply. I picked my glaive back up, and we walked away. There was a quest to be solved. If only the Blessing agreed. The moment we had left the mall, the Localized Task had vanished. But nothing acknowledged the actual quest I was sent on.
+
+We moved into the lobby of a large apartment building to discuss our next steps. I was pleasantly surprised to notice faint traces of human activity. At some point in the near future, I'd have to go out and contact more of the Blessed. Claire couldn't be the one to connect us anymore.
+
+I leaned against a wall and faced Helene. She was rewarding the dogs for their good behavior, pulling treats out of her inventory.
+
+"Okay, first things first," I said. "Have you been in a profane space before? And are you willing to enter one? Mammon Tower is huge. Ask your Guide about it."
+
+"Already did on the way out. No, I haven't entered one, but I'm willing to risk it."
+
+"Huh. Just like that. Why?"
+
+For this answer, Helene turned her full attention from her dogs to me. "Honestly? Pride. Two of the most powerful people on our team have been exposed to such places and are, comparatively speaking, thriving. Also, it would feel cowardly to not assist you for that reason alone."
+
+"You do remember that out of three people who got devil Guides, one got murdered, one murdered a teenager, and one is… not exactly thriving either. And Lucy is rather exceptional among those Guides."
+
+"I am well aware, Eve."
+
+"Just to clarify: are you hoping to get another Guide or accepting the risk?"
+
+"The proud part of me is hoping, the rational part accepts the risk."
+
+I rubbed my eyes. Which I had to do with great care—I still wasn't used to those claws. "At least you walk into disaster with clarity. Okay, the other problem: demons. Last time I managed to ambush one of the weakest types, I nearly died. Have you fought any?"
+
+"No. The only way I could see this working is if we were to catch one of them alone."
+
+I pushed away from the wall and paced through the lobby. "I might be able to get in and gather intel. But even alone, either of them would be dangerous. We need a good plan. And contingencies. A lot of them. Any debuffs in your alchemy skill set?"
+
+Helene sat down cross-legged on the floor. "Nothing on short notice. But besides fission, chemistry is very much alive and kicking. You have been in a demon's body before, right? Do you know their exact resistances?"
+
+"Hold up a second. What do you mean 'besides fission'? Did the Blessing delete fission? Can it do that?"
+
+"Any kind of chain reaction at an atomic level, yes. At least on Earth, since the sun is still going. Did you never wonder why the Wyrm didn't just nuke everyone? The missiles were likely already in the air when the Blessing arrived."
+
+I whistled. "Fuck. No, I never thought about that. I was more firmly focused on local problems. This… makes it a bit crazier that I talked to it this morning."
+
+"It? You mean the Wyrm? Why would you talk to it?"
+
+"Oh yeah, we haven't talked about that yet. It walked in on us, Claire and me, piloting one of those Boston Dynamics robot dogs. It wants our help to build something. I suspect a body. I somewhat ran away after it had made its pitch."
+
+"That's one hell of an event to casually bring up, Eve. That thing is an extinction-level threat to all of humanity. And you had a little chat. Do you think Claire will do it? Help it?"
+
+I stopped pacing and sat down across from Helene, doling out affection to the curious dogs. "Yes, I think she will. Hell, I was close to talking myself into it. But she won't do it soon. You know the Serenity Prayer? Gabriel brought it up early in the apocalypse. I'm trying to focus on the problems I can solve while not breaking my mind over what I can't affect."
+
+"Right. Just don't, you know, forget about that. Demons. Resistances. Any?"
+
+"Fewer than I have right now. Demons only got fire. I got acid and mundane weapons on top. Not that this body is one I'd want to fight anything in."
+
+"Are you sure about that? I think that could be something we could work around."
+
+And so we began to plan. Over the coming hour, I came to the realization that I had severely underestimated the value of non-combat skills, even though I'd have been long dead without Instinct or Heightened Senses.
+
+Having her Tinkering: Chemistry skill over 20 allowed Helene to just do chemistry in her own inventory, with whatever lab equipment and materials she could carry in there.
+
+Even while we were discussing options, her eyes were unfocused, operating a chemistry lab in the safety of her inventory.
+
+In the end we had about five different scenarios mapped out. With a bunch of contingencies.
+
+"That's all very cute," Lucy chimed in. "But it's also fucking reckless. While I wouldn't mind if the lady bites it, it would be a shame if some demon's sword cleaved one of those pretty dogs' heads in half. Ain't no regeneration pulling them back from that."
+
+I opened my Guides chat. ["You aren't bringing this up for no reason. What's your recommendation?"]
+
+"You are walking into a profane space, Kitten. My home turf. Allow me to help you kill them. Improving the odds that none of you die and that Helene will walk out of there with a big chunk of experience from the dead demons."
+
+["But this won't be free, will it?"]
+
+"Of course I want something in return. Fair's fair, right?"
+
+Occasionally I'd forget how well they played this game. Of course they had made it about the dogs. What a dick move.

@@ -1,0 +1,251 @@
+---
+id: 17853fbc-da31-558c-8fa2-4cad34bc4bc9
+page-type-slug: story-chapter-royal-road
+title: "380 This Shared Moment of Flavor and Monologue [III]"
+slug: 0495-380-this-shared-moment-of-flavor-and-monologue-iii
+partOf: path-of-the-deathless-book-4-completed
+position: 495
+ownLength: 4672
+unit: words
+publishedAt: 2026-06-12
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3531302/380-this-shared-moment-of-flavor-and-monologue"
+royalRoadId: "3531302"
+---
+
+Let me tell you something, Shiv. If I wanted to torture someone, right? If I had someone I really, really fucking hated, and I wanted to torture them to death, I'd make them a leader. Because there's nothing worse in this life than being in charge of other fuckwits.
+
+I see that stupid blank look on your face. Yeah, I know the one. Look, whatever you're thinking, that's not it. What the nobles do, that's not leading; that's bossing people around. They tell someone to do something, and then they don't bother to make sure that it's done well. They're like giant children, and the Republic’s designed to keep those cunts happy instead of seeing things properly done.
+
+Leading is something else. It's like pulling shit upstream, back into your own ass, including what other people shat out. You have to know what they've eaten. You have to know how strong they are, what they're good at, when they're having problems or half-arsing their felling job. And you have to do that while you're trying to deal with your own problems, while you're trying to keep the entire kitchen from burning down because one of the fucking idiots decided to leave a mess of siltgrass on an open fucking flame! Actually, let me make that metaphor better. You are in charge of everyone shitting. There is a certain amount of shit that they need to deposit inside a certain pot. If it's the wrong pot, the pot breaks and the shit spills everywhere, and everyone has to step in it. If there's not enough shit, you're too poor, and some of you die from starvation or something stupid. You also have to make sure no one sets any of the pots on fire, because then we'll be choking on shit fumes!
+
+So, to answer your question as to why I'm so godsdamn pissed off all the time, that's how I feel. I have to worry about everyone else's shit, I have to worry about my own shit, and I have to worry that our shit doesn't merge into a giant shit-crusted layer on the floor before we all slip and fall face-first into burning shit.
+
+Shit shit fucking shit I hate being in charge of this kitchen, I hate it so much I love it, and if you’re unlucky enough to be in charge of anything someday, you’ll learn to hate and love it too.
+
+Now, for the love of my fucking sanity and all the shit we need to do, DON’T LEAVE SILTGRASS ON AN OPEN FLAME YOU SHIT-WIT!
+
+—Georges Archambault to Shiv
+
+380
+
+This Shared Moment of Flavor and Monologue [III]
+
+“A line? How the fuck is there a line? Just how many people did Arrow invite to this thing?” Gunhead’s rear hammer rattled in agitation as his cylinder cycled over and again. “We’ve been sitting out here for seven hours. Seven hours, just to get into some backwater Cat-3 Gate!”
+
+Morgan said nothing, but his scowl signaled his accord. Packed tight in the damp, dark crevice that served as the Terminal Opus’ combat information center, he and his Ranger Lance observed the outside through a series of Awareness sensors and magical telemetries. They'd expected to see the usual assortment of spells and wards—the soft northerner variety, where everything was raw power and resource. Bunkers and layered barriers rather than any kind of distance or pre-emptive threat detection.
+
+What they didn't anticipate, however, were thousands upon thousands of mana signatures gathered around the Gate, with more arriving every few minutes. Indeed, the surface portal leading into Gate Piety was choked by bodies. Massive bodies, little bodies. Bodies clothed in varying colors, bearing differing banners. Bodies nested in dense walls of metal and bodies veiled by the thinnest silks.
+
+A series of encampments already littered the outsides of the gateway, and from what the Rangers could tell, only a scant few beleaguered guards—aided by someone possessed of a thread-based Heroic-Tier Psychomancy Skill—were processing the visitors. Though Gate Piety worked with all their might, they were still overloaded by the sheer amount of pilgrims who were summoned by Roland Arrow.
+
+“Arrogant shit wasn’t kidding when he said he was calling people in from everywhere,” Morgan muttered.
+
+A stretch of violet mana constructs was arrayed on the table before him, Divination magics capturing what was happening around the Terminal Opus on a strategic level. The Crawler created an informational overlay of the local geography and all detected entities that could be found therein. As such, for fifty kilometers, they mapped out every single life form and camp currently undergoing formation.
+
+The Storm King's Court’s delegation had already arrived, and though they numbered only two hundred, two hundred sky beasts, each one the size of a small building, bearing weapons of Heroic-Tier or above, made for quite the sight. At their helm was a colossal, winged tiger whose eyes leaked bolts of forking lightning that trailed back through the tumultuous clouds above.
+
+Alarmed by their presence, the local Yellowstone Prismatic Guard formed a cylindrical perimeter, trying to keep the Storm King's forces contained. But while the Republic's forces numbered many, the sheer amount of dangers surrounding them was even greater.
+
+Less than two kilometers away from the Storm King's Court was the Silverclaw Armada, a pirate merchant group that came ashore on hulking titanships which sprouted crab-like legs from husks of wood and metal that they used to scale the Tidewall. At the helm of a dreadnought sporting so many cannons and extending so long that it practically went over the horizon in length, was the titular Silverclaw—an awakened lobster. It held its cutlass high and loudly spat slur after slur at the local Republic interceptors, demanding that they back off before he did the unthinkable: took them to court at the capital.
+
+And from the south came all manner of other freaks and eccentrics. Morgan’s Rangers detected no less than sixteen diplomats dispatched by the cults of blood and sacrifice. Each one carried twin flags: one white, and the other representing their patron god.
+
+The one Morgan personally recognized was the Wolf of No Suns—an ambitious lesser god of the southlands. The wolf's emissaries bore all the gifts granted by his godly patron, and were dressed in borderline offensive ensembles of wolf pelts, wolf capes, and wolf heads, while their own bodies were twisted into the shapes of werewolves.
+
+Would be like me wearing the skin of other humans, Morgan thought, scowling even harder. But that’s just the kind of taste I’d expect from the southern leeches.
+
+The Wolf’s' emissaries stood alone at the back of the Southern congregation. Though the Strayed Ones were all arrayed against the Republic, none of them held any love for one another. In the end, even should they band together and sweep across the territories of Yellowstone, they would go back to the way they were, ripping into each other in a carnal carnival of cannibalism and perpetual internecine conflict. For that was the way their gods were, and so too would that be the way of their subjects.
+
+Normally, the Yellowstone Republic would have never allowed them to set foot on these lands, but these were emissaries, and they bore the custom twin flags: one signaling their pacifistic intentions, the other clearly identifying who they represented.
+
+Diplomacy mattered even between hated foes. For before the fighting was over, deals still needed to be struck and accords needed to be formed. Anyone who spouted platitudes and boasts of there being no mercy didn’t understand the business of war. Even between the grayskins and Lone Star, there'd been prisoner exchanges and moments of truce. Frankly, that was the worst part about the orcs. They understood peace. They understood what deals they had to make.
+
+The Prismatic Guard was comparatively far less experienced. They were scrambling their units in all directions, going north to intercept a congregation of massive blue-skinned warriors clad in dense mammoth furs and wearing armor of stone and embedded runes. The Jotun were here, and leading them was a blind Seeress representing their High Jotun and the Winter Eternal. Though they too bore the twin flags of truce, the Prismatic Guard seemed more than a little reluctant to let them come forth, so much so that they ignored the southerners entirely and committed the bulk of their auxiliaries to deal with the few hundred Frost Giants entering the fray.
+
+And then there were the smatterings of owl-masked Pathbearers; the treacherous, snake-tongued snake-fuckers of New Albion were here too. What had possessed Roland to invite them? Morgan didn’t have a clue—he just knew it was a fucking mistake. There was never a good reason to invite a pack of jackals into your house, even if you were sure that you could trap them.
+
+And these were just a few of the invited guests who were present. There were even more coming over the horizon, seeking to bypass the wards that line the Pacific, coming in from the east in groups and convoys, in bursts of Dimensionality, hopping continents or even worlds to answer the Dread Horizon’s summons.
+
+Then there was the Terminal Opus and all the Rangers it carried. They weren't like anyone else here. They weren't even supposed to be here. Morgan relayed Roland’s message to high command, and the indecisive, yellow-bellied sacks of shit did what they always did: they kicked the ball. They waited and they thought and they debated, and meanwhile, the orcs still didn't invade. Meanwhile, the Culturist was in Roland's hands there and not beneath Morgan’s barrel. And so the Hero-Ranger did what he always did. He acted first and decided that he would take the consequence up the ass without giving a single shit later.
+
+Yeah, high command might demote him. They might stick him in a factory prison for a few months, but then inevitably, there would be another war. They would need every able-bodied warrior back on the line. After a series of pointless mistakes, after countless lives lost that didn't need to be, they would call him back to the line. They would make him a deal that would give him everything he had before and then some. With the coming of the next season, they'd do this shit all over again.
+
+Command never learned—they just made everyone else foot the bill for their mistakes. But Morgan wasn't rich enough to play at not caring anymore. If there was a chance to strike at the orcs at all, if there was a chance to bleed them, to hurt them properly, he was gonna take it. If this was a trap, then he'd shoot his way out. Because he wasn’t going into that Gate without the Terminal Opus, and with how many Post-Heroes were gathered here, Morgan doubted a big old war machine like his was going to be a problem.
+
+But with that came a realization: he and his Rangers were just some small fish among the many. They weren't going to be able to dictate terms here. If he had any inkling as to what Roland was about to do, it was probably going to get real political. It was probably a shitshow engineered in advance to cause as many headaches for the Yellowstone Republic as possible.
+
+A sigh escaped him. “Think we might have brought too many guns and not enough suits and whiskey.”
+
+“Suits?” Sooth said, her rune-carved face creasing into a frown. “Are we to play house with the northerners?”
+
+“We are to suck every shit nugget out of their asshole and pretend it's chocolate if it means getting our hands on the Culturist and finding a way to hit the Challenger where it hurts,” Morgan replied. He looked over his Rangers and considered his options. “Alright, Sooth, I want you on Divination duty. Get me as many details about the attendees as possible, starting from the most powerful High-Tiers. I want to know everything about everyone coming here. Gunhead! I’m approving leave. Take whoever you want and go mingle around the camps. Just come back alive.”
+
+“You serious, boss?” Gunhead froze mid-revolution. “You never approve leave, especially not in the middle of a campaign. You sure you feeling good?”
+
+“It's got nothing to do with feeling good. It's got everything to do with me not wanting some other son of a bitch to take what's ours. That orc's scalp belongs on my hip. That portal into the Tutorial? Lone Star needs that too. So, I want you to go out and start doing your brand of politicking before the actual politicking gets started and we lose whatever edge we have.”
+
+And wasn't that the truth? They were Rangers, not diplomats—this wasn't their battlefield at all. But when were things ever ideal? When were the terms ever up to them? They were Lone Star. They made do against the impossible, and they kept making do until some day they'd come out and they'd have a future instead of an eternal, unending hell.
+
+Morgan gritted his teeth. “Not gonna bullshit you guys. I'm feeling as much of a fish on dry land as you are, but we're here. Whatever game Roland's playing, well, we're gonna find a way past that. Whatever it takes, whatever we have to do. By the Colt or by our Will.”
+
+A series of mumbles invoking the Colt and the Will answered him, and though Morgan grew dour, and Sooth’s hollow eye sockets lit up with hateful magic as she went back to sneaking glances at her kinfolk from the Scarlands, John Gunhead gave one of his happy little clicks as he chambered a new bullet and got up and out of his firing slot. “Well, then, guess today’s the day I finally make some use of my Silver Tongue.”
+
+“Just try not to empty yourself into someone prematurely,” Sooth jabbed.
+
+The automaton barked a laugh. “How many times do I have to tell you this, Sooth? I got more loads inside me than you can see.”
+
+Morgan closed his eyes. “John. Get the fuck out of here before I put one of my loads in you.”
+
+“Got it, boss. Ground leave, here I come.”
+
+Morgan grunted. “Sooth. Second job: make sure his dumbass doesn’t get killed.”
+
+She gave a rare smirk. “Always on that, boss.”
+
+***
+
+“Less fire! LESS!” Shiv bellowed telepathically. Marikos might have been a Legendary warrior, but he had to have a Mythic-Tier Skill of not listening to felling directions. “Marikos! Less heat! LESS! Not more!”
+
+But Marikos was determined to remain unpersuaded. “But he's challenging me, Deathless! He thinks his flames burn hotter than mine. He thinks he's the true master of fire. I will not take such a slight. We must see who stands and who kneels!”
+
+Candles, meanwhile, gave no coherent response; instead, he let out a piercing, maniacal shriek and doubled his output. A stream of Pyromancy speared out of his body, cupping the base of the pot. It was so dense with matter that it was practically solid, pressing into the culinary infrastructure.
+
+He and Candles were hovering on opposite sides of the great pot, so wide and black it was practically like an inverted dome looming on the horizon, blocking the surface district's view of the Abyssal gateway. Its bottom was now glimmering dark red, ominous in heat and glow. It was also so bloody hot that Shiv was actively juggling the uncooked potstickers and battering away rising columns of erupting flame to prevent his food from being turned to ash.
+
+He really should have seen this coming, but his political machinations had suppressed his coaching experience. He was thinking too much about driving the Dragon-Brokers and knights together, having them gathered in conflict or potential harmony, that he failed to apply his social instincts to the Pyromancers he sought to command. I'm really starting to understand why Georges smoked so much. Trying to lead people is just a pain in the ass.
+
+“Complain less,” the Harbinger chided. Shiv felt something crack in his ribs as he became aware of his own petulance. The injury he sustained from shame was minor, but a big reminder; his Undelved Legendary Skill came with a burden to bear. “Focus on distracting Candles. The pot is hot enough. In fact, it needs to be cooled down—tilt your head.”
+
+Shiv did, and a two-dimensional toad animated an expression of pain as it shot past him like a rocket. It didn't rise alone; from all corners of the 300-meter-wide pond, nine or so toads bounced up and down, clutching their throbbing foot-burns that projected jetstreams of boiling steam. Each time they soared into the air, they dragged a partially cooked potsticker in their wake. Though the toads were far smaller than the loads they drew, they were also Fae, and more specifically, ones that had power over food; they were using the very injuries they sustained as propulsion somehow—and gaining levels from the mayhem.
+
+To Me My Toads 1 > 5
+
+Such was a reminder of his new armor. Though it had been dormant in the past few days, it came alive when he cooked, and the fairies enchanted into its sinews, chitin, and ingredients proudly sprang into action as a rain of toads dressed as parodies of Shiv.
+
+They appeared from nowhere to the startlement of the other Dragon-Knights and Tall Ben’s mirth. The Hydra-Knight bashed his heads together, cheering and whooping as the Fae toads poured it around Shiv, performing an entire dance routine in anticipation of the undertaking to come.
+
+If Shiv ever had the gall to forget that his armor was awakened, alive, and a thing reforged in the Fairwoods, he need only invoke one of its Skills to be reminded. But the Skills it provided were useful indeed. Strange and off-putting though the toads were, they also worked with a fervent determination that put most commises to shame.
+
+To Me My Toads was quite the strange Skill. On the surface, it should have been classified as a summoning Skill, but it didn't work when there was no food or preparation to be done. Shiv could call upon his toads at any time, but they were worthless in combat, possessing no capability to harm, and often bumbled about even when they were helping him with preparation, tripping over things comically, causing a mess as they tumbled down the slope of the pot before blasting up into the air with their asses scalding red.
+
+That was the way they performed all their designated tasks: in fits of near incompetence. If there was something to mishandle, they would, and then they would try to remedy the situation at the last second—often making things worse.
+
+Despite that, they were still basically an entire group of prep-cooks that Shiv could call on at any time. And judging by the slight improvements in gait and performance he saw, the increase in levels saw them gain competence as chefs more than anything else.
+
+Come to think of it, they’re just sillier toad versions of me when I was starting out. Need to have them practice more.
+
+“Deathless One!” one of his toads screamed in a warbled voice. Shiv saw the toad's left arm and leg thrashing from underneath the midnight-colored pot while the rest of his body was utterly roasted by the flames. “I am stuck! I am burning! Oh, my skin! My skin is turning potstickered first! Aid me, sweet master! Aid me!”
+
+Shiv didn’t aid him—mainly because there wasn’t a point. “Fifth felling time,” Shiv spat under his breath, struggling not to gnash his teeth together. “Stop diving under the pot!”
+
+“I keep dropping the potstickers, sweet master!” the trapped toad wailed between sobs.
+
+Shiv rolled his eyes. “Hey! The rest of you shape up, or I’ll be sticking you down there with him.”
+
+Suddenly, the eyes of the screaming toads shooting up into the air bulged wide, and then narrowed in determination. Somehow, that made their jaws turn square and their cheekbones grow thicker. Their bone-armored bodies swelled with rippling muscles as well, and each one of them then began piledriving the potstickers they carried back into the pot, slamming against the curved, glimmering blackness like artillery shells.
+
+“Yes, Head Chef Deathless!” the toads cried out in unison. “Glory to the Sky-Swallowing Carp. We will destroy these potstickers!”
+
+“No!” Shiv shouted. “No destroying the potstickers! Cook! Slow cook! Fry them well! Don’t—”
+
+Potstickers weren’t very durable. Potstickers weren’t artillery shells. Treating them as such had deleterious consequences. In an instant, several of the half-fried dough-crusts burst open, causing the chives and ground pork to come spilling out.
+
+“Oh, no, we burst them!” one of the toads wailed, crushed in the mashed ingredients now turning to a pile of ash at the base of the pot. To add insult to injury, the amphibious fuck wasn’t even responding to the heat anymore, despite pressing its entire body against the hottest part of the pot.
+
+Shiv’s mind became as if a purified crystal in terms of clarity; the sheer rage building inside of him would have been enough to drive his younger self Berserk three times over. This kept him from trying to strangle one of his own toads—again. Instead, he left his fairies to their own devices as he finally went about solving his true problem: Candles.
+
+Flinging the boulder-sized potstickers he was juggling back onto a nearby tray, Shiv launched himself at Candles while he directed his Harbinger toward Yellowbelly. “Keep rolling the dough. I’ll be back in a moment.”
+
+“Are you sure?” Yellowbelly asked, dragging a rolling pin the size of a clock tower over dozens of flattened dough slices. “You seem to be quite beleaguered, Deathless. Are you sure you don’t want any aid from the many, many chefs of High Harbor?” The Dragon-Broker’s shit-eating grin turned shittier and grinnier. “I’m sure someone possessed of a Heroic-Tier Cooking Skill or higher would be of great insight to your current difficulties.”
+
+Beside him, the other dragons were working away as well. Tall Ben was literally using his own necks to flatten out more potsticker slices, while Tallowine—the greatbow-wielding Dragon-Knight—regarded Shiv’s toads with a slightly perturbed expression. At least his political scheming bore fruit when it came to Know-Nothing and Garrulous. The two Brokers were chattering away with the Descender Scribe-Knights—mainly on how they hadn't expected the kitchen to remind them so much of the battlefield.
+
+“Watched one of my battle-sisters burn to death like that toad there, I did,” one of the Scribe-Knights said with a shudder. “Same way too: Monster we were trying to bring down was awakened, and loved cooking everything. Slammed his cauldron right down on top of her. Toughness kept her alive long enough to suffer. Still hear her screams… Sound just like that toad’s too.”
+
+“Cooking is supposed to bring joy, Shiv,” the Harbinger growled, terse and frustrated.
+
+I know.
+
+“We are supposed to impress people with our mastery and dedication to the culinary arts. Not start a cooking circus freak show that leaves them baffled at this carnival of madness!”
+
+I know! Just get off my felling back. I’m going to try to fix this.
+
+“Candles!” Shiv shouted as he nearly tackled him out of desperation.
+
+“B-burn,” Candles babbled, sounding even more unhinged than normal.
+
+“Oh, for fuck’s—No! Stop burning for a moment and listen!”
+
+Candles’ head snapped toward him, and the radiant spots he had for eyes in his bony sockets widened. “Burn while listening?”
+
+Shiv started gnashing his teeth together. “Yeah. Sure. Great. Listen. I need you to burn something else. Other than the pot.”
+
+“Something else?” Candles asked, confused. “What else? Nothing else around that I can keep burning without problems except…” And he turned his gaze toward Starhawk’s Perch of all things.
+
+“No!” Shiv hissed. A deep and desperate thought came to him. Maybe we should just kill Candles. Fuck, I miss Gone. Actually, where is she? I never have this problem with her. “No. Listen. Just… just try to see if you can fry one of my toads.”
+
+Shiv’s toads all froze mid-air somehow. There was also a zipping or scratching noise that sounded out of place.
+
+“Uh, Deathless One?” One of the toads gulped. “What did you just say?’
+
+“Burn toad?” Candles asked, his voice filled with confusion and curiosity.
+
+“Yeah. Burn toads. Bet you can’t do it?”
+
+“Burn toad!” Candles shouted.
+
+“Yes!” Shiv cheered.
+
+“Nooo!” the toads cried, kicking their legs as they tried to flee.
+
+Stay! Shiv mentally commanded, and his will echoed through his armor, pinning each of the toads in place. Each one of them stiffened in mid-air, as if they were frozen inside a block of invisible ice. The way they dramatically shivered accentuated that metaphor.
+
+Candles shifted his mana. Upward. Shiv grinned. The toads shook their heads—
+
+And then Shiv felt his physical body get cleaved in half by a beam of concreted fire as Candles never stopped channeling his Pyromancy.
+
+Candles! You—you stupid, unthinking, insane fuck! Was what Shiv wanted to scream, but that was a little hard to do when his nearest form was back atop the Perch.
+
+“You really should have anticipated this,” the Harbinger criticized gently. “You know your physical forms lack the full protection of your Magical Resistance unless you infuse the skill in full. You should have used your Severed Shadow instead.”
+
+Should have, Shiv thought glumly. Got caught in the moment. Finally got to really cook again.
+
+“And you were scheming for actual politics more than you were considering the risks to your kitchen,” the Harbinger added. The Skill suppressed a burst of embarrassment. “There are a great many things to consider, and we face countless challenges. But we were the ones that chose to take on this responsibility, and so we must bear it well. There will be consequences if we choose to be halfway between a chef and a duplicitous schemer. Think about what you intend before you do it.”
+
+I did.
+
+“No. You imagined a delightful outcome where your scheming bears fruit, and everyone was in awe of your cooking at the same time. There is a difference between a fantasy and a prediction.”
+
+Shiv winced inside. Of all the things the Harbinger said, this one cut the deepest.
+
+“But the cooking is not done; we face no severe loss. Go and finish your potstickers. Commit to the cooking now and resolve the matter of Candles and Marikos. They can still be useful, so long as they—”
+
+“YOU DARE STRIKE DOWN MY FRIEND AND HOST! I WILL SEE YOUR FLESH CAKED AGAINST THE BEDROCK OF THIS DIMENSION!”
+
+The insides of the Perch shook.
+
+Marikos’ fury shattered whatever calm conversation was unfolding between Isabella and Adam’s parents. “W-what was that?” the girl gasped. “What’s happening?”
+
+Roland shot a look at Shiv that screamed, do you need my help?
+
+Shiv just coughed. “Uh, minor kitchen dispute that I caused, which might turn into a homicide. Just give me a second. Let me see if I can handle this.” And though it bothered him to do so, Shiv exercised some wisdom. “Uh, Roland. Can I borrow you for a moment? Just in case?”
+
+“Place yourself upon my mace, Legend Candles! Let me grant you deathhhh!”
+
+Shiv felt something inside him die—fuck, Georges, how did you do it? “Anyway, let’s get back outside before this minor spat turns into a brawl between two Pyromancy Legends.”
+
+“Legends?” Isabella echoed, eyes wide. “I… Well, the perch should be warded from flames, right?”
+
+Shiv scoffed. “They’re Pyromancy Legends, Isabella,” he answered. “It's unlikely the Parch’s current wards can—”
+
+“Then get out there!” she almost screamed in alarm. “Why are you here explaining this to me!”
+
+“Yeah. Good point! Rola—fuck!”
+
+“What? What’s wrong, Shiv?” Roland tensed.
+
+“Nothing,” Shiv said, glaring at the single notification.
+
+Pyromancy 41 > 50 (Skill Evolution Imminent)
+
+“Nothing at all. Just didn’t get any of the levels I really needed to make me reconsider ever bothering with cooking at all."

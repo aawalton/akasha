@@ -1,0 +1,253 @@
+---
+id: ca9869e6-4768-53a0-9099-d7ea741ecdb6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 617 - Checking Him Out"
+slug: 0617-chapter-617-checking-him-out
+partOf: mythrans-master-of-all-continued-completed
+position: 617
+ownLength: 2814
+unit: words
+publishedAt: 2018-06-23
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/226966/chapter-617-checking-him-out"
+royalRoadId: "226966"
+---
+
+After they arrived at the hospital, Ren was surprised that he was taken in right away to get a CT scan, or a computed tomography scan. He didn't need the dye added to show the contrast, so eating breakfast just before going to the hospital didn't matter. What Ren didn't know was that Elise had gotten him the best medical insurance that money could buy, so he had priority for everything and the doctors and nurses treated him like he was visiting royalty.
+
+While they waited for the results of the CT scan, several doctors gave him a full examination with a quick battery of tests, and adjusted the results because of the damage to his chest. The doctors even gave him an MRI scan, or a magnetic resonance imaging scan, just to make sure to fully check him over. They found several small stress fractures on the sternum and on the rib cage; but, since they expected to find those, it wasn't as large of a concern as it normally would be.
+
+They wrapped his chest with bandages, only moderately tight, since they only wanted to hold his chest steady and didn't want to apply more pressure than necessary and possibly make the fractures become full breaks. The CT scan results came in and a few troublesome areas with the potential for blood clots were pointed out to Denise and Barbara, and they were told they would need to keep up the drug treatment for at least another week, maybe more.
+
+Ren could see the happiness on everyone's faces as the doctors told them that Ren was done with all the tests and that he was in relatively good condition. They wanted to keep him for observation until Ren told them adamantly that he had around-the-clock nursing care and he didn't want to waste the hospital's time.
+
+Unable to refute his much better home care, he was released from the hospital just over an hour after arriving. Ren was securely and gently strapped in for the ride back to the house in the front seat of the Hummer H2. They were all in a great mood, considering what had happened, and everyone felt relief that they were going back home.
+
+Elise didn't have to stop driving when she approached the gate to Emerald Estates, because she pushed the button on the remote attached to her keys to open it. She slowed down just enough to show the guard that Ren was fine, and he gave them a 'thumbs up' gesture as they passed. She pulled into their driveway and turned off the vehicle.
+
+“Stay right there, mister.” Elise said sternly to Ren, and he nodded. She got out, as did everyone else, and she went into the house. She was back out a minute later with the wheelchair, and Denise opened Ren's door and climbed up. She pulled on the seat belt to give it some slack, unhooked it, then pulled it away from him and let it retract.
+
+“Whew. Thanks.” Ren said and rubbed his chest. “That was tight.”
+
+Denise put a hand on his chest, and he saw her sad eyes.
+
+“Don't be sad.” Ren said and leaned forward to kiss her. “You kept me alive. The pain is just a reminder of that.”
+
+“I hurt you.” Denise said.
+
+“Yes, and you will do it again without hesitation if it's necessary.”
+
+Denise nodded, and Ren grinned at her.
+
+“Then there's no reason to be sad.” Ren said. “Help me down, will you? I'm a little too weak to manage it alone.”
+
+“Are you finally accepting that?” Barbara asked.
+
+“For now.” Ren said, and she chuckled.
+
+Denise eased Ren over to the side of the seat near the door and stepped down to the ground. “Okay, I'm ready for you.” She said and reached up and put her hands on his hips. Ren slid forward as he stood up, and Denise held him steady. He took the first step down to the door runner on the side of the Hummer H2, then looked at the distance to the ground.
+
+“It's going to be all you.” Ren said and bent slightly to put his arms around her shoulders.
+
+“No problem. I've got you.” Denise said and lifted him down to the ground easily. She was careful of his wrapped chest and hadn't gripped him under his arms like she normally would have. She changed her grip from his hips to hold his hands as she turned towards the wheelchair.
+
+“Easy now.” Elise said as Denise eased Ren down to sit.
+
+“Ugh.” Ren said and took several shallow breaths. “This is going to hurt for a while.”
+
+Denise sighed and Ren held onto her hands when she tried to let go.
+
+“I'm only stating a fact. I'm not complaining.” Ren said.
+
+“But...”
+
+“You know how much I suck at lying.”
+
+Denise smiled. “Yes, we all do.”
+
+“You did a great job today, and I want you to keep being great, okay?”
+
+Denise nodded, and he let her hand go.
+
+“Good.” Ren said and grinned. “After all those tests and people I don't know touching and examining me, I need a shower.” He said and shivered a little. “I really need a shower.”
+
+“We can do that right now.” Denise said and took over control of the wheelchair from Elise, who stepped around and knelt beside it.
+
+“I'm really glad you're okay.” Elise said, and Ren saw the tears trying to escape. He cupped the side of her face with a hand and rubbed her cheek with his thumb.
+
+“It's going to take a lot more than my heart stopping for the sixteenth time to get me away from you.” Ren said, and Elise's mouth dropped open in shock.
+
+“Wh-what did you say?”
+
+“Even my heart stopping can't keep me away from you.” Ren said and let her face go.
+
+“N-no, I mean... how many...”
+
+“Oh, 16.” Ren said. “That's how many times my heart has stopped so far.”
+
+“Oh, Ren.” Elise said, and the tears came out.
+
+“It's okay.” Ren said. “This time it was an accident.” He heard a soft sob and looked up to see Barbara was crying, too. “Hey, no one has to cry.”
+
+“We don't have to, no.” Denise said, and he looked up to see she had tears in her eyes, too. They heard the sound of a car as it approached, and looked to see Stella pull into the driveway.
+
+“Hi, everyone.” Stella said as she got out.
+
+“REN!” Lisa said as she jumped out of the car and ran over to him to give him a hug around the neck and kissed him several times on the cheek and lips.
+
+“What's with all the sad faces?” Stella asked.
+
+“I told them that my heart stopped 16 times so far.” Ren said with brutal honesty, and Lisa stopped her kiss assault and stared at him.
+
+Stella snorted a laugh. “You said it casually, didn't you? Just snuck it right into the conversation.”
+
+Ren nodded, and she laughed outright.
+
+“You're always doing that.” Stella said. “Dropping bombshells like they mean a lot less than what they actually do.”
+
+“It's a gift.” Ren said and grinned, and Stella shook her head.
+
+“Since everyone is here, can you give me a hand unloading the car?”
+
+“Ren needs a shower, so I'm taking him inside.” Denise said.
+
+“Let me know if you need help reapplying the bandages.” Barbara said.
+
+“You get back to bed, young lady.” Ren said. “Thank you for coming with me, but you need sleep.”
+
+“We've got your things, too.” Stella said. “They're in the backseat.”
+
+“Thank you.” Barbara said. “Donald, help them with the rest of it while I get our things.”
+
+“Yes, dear.” Donald said, and everyone helped unload the groceries and other items Stella had picked up for the house while Denise took Ren inside the house and up to his room.
+
+“Geez, look at the mess.” Denise said as she saw all the things scattered on the table and the floor. She pushed the little red button on the phone to cut off the alarm that they had left on from before, and she closed the case of medication and handed it to Ren.
+
+“Leave the rest for now.” Ren said and shivered a little. “I know it's psychosomatic, but I need to wash the feeling of all those hands off of me.”
+
+Denise nodded and pushed the wheelchair into the bathroom. She put the medication case back into the mini-fridge under the bathroom counter, then helped Ren get undressed. He winced and hissed as she had to keep moving him around, which used his chest muscles and aggravated his injuries.
+
+“I am so sorry I had to be that rough.” Denise said, and Ren touched her shoulder to get her attention.
+
+“Sometimes you need to hurt the ones you love to give them the care that they need.”
+
+Denise sighed and nodded.
+
+“Now get the bandages off and scrub me like you mean it.” Ren said, and she smiled.
+
+Denise unwrapped his chest and helped him into the shower stall and sat him down on the step stool. “Can you keep your balance?”
+
+“I can, until I need to lift my arms above my shoulders.” Ren said. “That hurts like hell.”
+
+“I'll be moving your arms and everything else, so just sit there and relax.”
+
+“Okay.” Ren said and waited.
+
+Denise stripped off and got back in the shower. Ren made sure she saw him looking at her body. He didn't leer at her or do it lewdly, he just admired the sight. He let himself get excited from it, and she smiled at him.
+
+“Do you want me to take care of that for you?” Denise asked as she gently scrubbed his arms.
+
+“I won't be able to enjoy it as much as I normally do; but, you know I'll take any attention you want to give me.”
+
+“Even though...” ...I hurt you... “...you're hurt, you still want to have sex with me?” Denise asked.
+
+Ren touched her hip and slid his hand around and gripped her backside. “You just have to be gentle.”
+
+“I'm always-” Denise stopped and smiled. “No, I guess I was kind of rough the last time we were together.”
+
+Ren smiled and slid his hand down the back of her thigh. “It happens sometimes when you're enjoying it so much that you can't think straight.”
+
+Denise looked at his face and saw how happy he was. “You like that you can distract me like that?”
+
+“Any man would like it.” Ren said and looked up at her face. “I'm not any man, though.”
+
+“What do you... oohhhh.” Denise moaned as Ren's fingers found her special place.
+
+“I love that I can distract you.” Ren said and explored her expertly.
+
+“R-Ren... we... we shouldn't...” Denise panted as she got closer to finishing.
+
+“Thank you for saving my life, Denise.” Ren said and tickled her insides.
+
+“AHH!” Denise gasped and braced her arms on the wall as she finished. She looked down and saw Ren sucking on his fingers.
+
+“You taste so good.” Ren said and flicked her spot with a fingertip to make her shiver. “Now turn around.”
+
+Denise didn't even think of protesting anymore as she turned around to face away from him.
+
+“Now crouch down and have a seat.” Ren said, and Denise eased herself down onto him.
+
+*
+
+“Thank you, everyone.” Stella said as all the groceries were put away in their proper places. Items in the refrigerators, items in the pantry, and dry goods in the cupboards were all put in the right places. “I only asked for help to unload, I didn't expect you to put everything away, too.”
+
+“I think we all needed something to do.” Elise said. “God knows I did.”
+
+Barbi nodded. “Me, too. I wanted to help Ren so badly, but there was nothing I could do.”
+
+“Yes, there was.” Stella said and they all looked at her. “You did exactly what you needed to do. You knew you couldn't help, so you stayed back out of the way.”
+
+“Elise didn't.” Barbi said, and you could hear the admiration in her voice.
+
+“I've been spending a lot of time around here, so I needed to know what to do in emergencies.” Elise said. “I've got a CPR course certification and I've had Stella help me by giving me lessons in other things.”
+
+Stella chuckled. “We've just been talking, Elise.”
+
+Elise smiled. “I've come to see them as lessons, because you always give great advice.” She said. “Even just knowing where things are and their basic operation is a great help.”
+
+“Now you know why we don't mind leaving you alone with Ren.” Stella said. “You work hard, even when doing things casually. Just don't let what you know go to your head.” She warned. “A little knowledge can be dangerous if applied incorrectly.”
+
+Elise nodded. “I know to call for help as soon as possible, no matter what.” She said. “I can give CPR to a normal person, but with Ren...”
+
+“You saw the damage it can do, even when it's done properly.” Stella said.
+
+Elise nodded, as did Barbi.
+
+“Imagine someone who rushed and tried to do that to Ren.”
+
+Elise shivered slightly, and Barbi took in a sharp breath.
+
+“He could die, just from being helped, if you're not careful.” Lisa said with wide eyes.
+
+“Exactly.” Stella said, and glanced at Elise. “Actually, I think you just gave me a good idea.”
+
+“Uh oh.” Lisa said, and the others chuckled.
+
+“A lesson or two on where things are and how they work.” Stella said. “If one of us asks for something, you know it's an emergency and you should know where that item is.”
+
+“Like Elise and the crash cart this morning.” Barbi said. “Denise just said to get it and she went right to the closet.”
+
+Stella nodded. “I'm really glad the alarm worked and got you to Ren's room so fast.”
+
+“That alarm was a great idea.” Elise said.
+
+“Thanks.” Stella said and picked up several bags of items. “I need to get these things sorted and to the right spots in the rest of the house.”
+
+“I'll help.” Lisa said, and Stella smiled at her.
+
+“Take this bag up to my room, and this one to Ren's.” Stella said and handed her two of the bags. “I'll do the downstairs bathroom and the third floor.”
+
+Lisa nodded and walked away quickly, and Stella glanced at Elise, who nodded. Stella left the kitchen just as quickly as Lisa did.
+
+“Let's get back to work, Barbi.” Elise said and picked up her suit coat.
+
+“What about Ren?” Barbi asked. “Shouldn't you go and check on him?”
+
+“He's in good hands.” Elise said and smiled warmly. “Even after all this time, I was still a little doubtful about Denise and her capabilities; but, I was unfairly comparing her to Stella who just exudes confidence and assurance.”
+
+“Does that mean you would trust her with your life?” Barbi asked.
+
+“I trust her much more than that.” Elise said. “I trust her with Ren's life.”
+
+Barbi was going to say that didn't make sense, then she realized Elise meant that his life was more important to her than her own. She walked over to the other woman and put her hand on her shoulder.
+
+“I hope I can find someone to care about that much.” Barbi said.
+
+Elise smiled and they went into the office and shut the door. They both had important work to do.
+
+Lisa dropped off one of the bags in Stella's room and left it on the table, then went into Ren's room. She saw the mess that was left when she approached the table, and she put the bag down. She picked up the papers scattered over the table without really looking at them, then bent down to pick up the one on the floor.
+
+What's this? Lisa thought as she stood up and read some of it. It's a non-disclosure agreement!
+
+Now that she saw that, she couldn't help but look at the other sheets on the table. She saw the black and white photos and the experiment descriptions, then held in her gasp as she realized it was Ren. She picked up the empty manila folder without saying a word and started to put the papers in it. The last ones to go in were the termination paper and the severance check.
+
+Gloria left these behind? Lisa thought in surprise, then added them to the folder and closed it. She looked down at the medical supplies still there, and wasn't confident enough to pack things up safely. She left it as it was, put the bag of items on the table, then tucked the manila folder under her arm and left Ren's room.

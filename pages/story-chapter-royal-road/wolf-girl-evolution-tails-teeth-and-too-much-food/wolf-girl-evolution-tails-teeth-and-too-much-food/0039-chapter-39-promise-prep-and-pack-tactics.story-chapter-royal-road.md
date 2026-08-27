@@ -1,0 +1,213 @@
+---
+id: 5d7d4004-4d9d-54a6-9461-43116c5844e5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 39: Promise, Prep, and Pack Tactics"
+slug: 0039-chapter-39-promise-prep-and-pack-tactics
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 39
+ownLength: 1421
+unit: words
+publishedAt: 2025-09-26
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2631528/chapter-39-promise-prep-and-pack-tactics"
+royalRoadId: "2631528"
+---
+
+PoV Luna
+
+The night before the corruption-cleansing thing her new-pack prepared for stretched long and calm.
+
+Luna sprawled belly-first into the moss, chin propped on her paws, golden eyes fixed on the moon peeking through tree gaps. Her little bowl of stew sat between her claws. She licked at it, slow and careful, savoring every taste. No more tonight. So she saved what she had.
+
+And thought.
+
+About what happened. About what she had learned.
+
+That the world was bigly! Full of things to chase. To chew. To sniff. That Luna was a Wildling? But Luna was a Moon Wolf! And Luna was Luna! Wuuuu….
+
+And about some Guild things too. Syl had explained so much. Too much. Long words that smelled flat, no bite at all. Or spice. Some didn’t even have scent.
+
+Bah!
+
+Well. She would learn. Eventually. If it led to spice. Then it was worth it.
+
+At least hearing about the world made her appreciate it more! There was SO MUCH out there. So many peoples! And things. And maybes.
+
+And Luna bet they had amazing food too!
+
+Her tail wagged at that thought for a bit. She licked at her bowl again.
+
+Then Luna let her gaze wander across the camp. Ray patrolled slow and silent, his boots barely kissing the dirt. Good shadow follow. He caught her eye, nodded once. She wagged in approval. Yes. Not bad!
+
+She lay there for a moment longer – enjoying the moonlight – before her thoughts were tugged sideways. Toward the fallen adventurers. The ones who didn’t come back.
+
+She had promised to lead her new-pack to them already. In the spur of the moment. For spice! But that place… it was close. A little too close. Near where her old-pack roamed.
+
+Her tail curled tight against her side.
+
+She hoped her mom was well. And her sister. Little yips, precious mlems, soft warm fur against hers. She missed it. Missed them.
+
+But she would not let her new-pack harm them. Never. Not even for food! Or revenge. And definitely not by accident!
+
+If they even tried – Luna’s hackles rose, teeth flashing in the dark – she would bite. Hard. Fast. And ruthless. She would never lead them anywhere again!
+
+Yes. She would make them promise.
+
+Her tail thumped once against the moss, sealing the thought.
+
+She licked at her stew again. Spice nipped her stomach, heat buzzing in her chest. But small licks kept it tame. Manageable. A training burn.
+
+Worth it!
+
+Her gaze lifted again. The moon was bright tonight. Round. White. Crunchy-looking.
+
+Even with stew still burning her belly, she could imagine it. Teeth sinking in. Crack. Crunch. Swallow. A taste better than spice!
+
+Probably.
+
+Her tongue lolled. She licked her chops slowly.
+
+One day.
+
+One day the moon would be hers to chew too!
+
+***
+
+When the adventurers stirred awake, Luna was already waiting for their weird sleep-at-night butts. Really, just who sleeps at night? Only prey! Night was prime hunting time!
+
+At least the moon hadn’t faded yet. Her new-pack knew to get up early. Not hopeless!
+
+Silver brushed her fur, warm and steady, and she felt the pull in her chest. One breath–
+
+Poof!
+
+Two legs, smooth skin, sharp little teeth, proper waggy tail and twitchy ears. Luna was human again!
+
+She bounded across the camp straight toward her Second.
+
+Pomf! And flopped right into Syl’s cloak.
+
+Whoops.
+
+Stumbling felt silly. But she had things to say! Very important things!
+
+Promises to demand!
+
+Her new-pack was full of dum-dums, so she had to be clear in dum-dum ways. Or else they might make mistakes. Wrong, bad, bite-worthy mistakes!
+
+She tilted her head up, eyes wide and serious.
+
+“No wolves get hurt! Promise!”
+
+All she got at first was a pat on the head.
+
+Then a nod. Then more words.
+
+“Yes. I promise. No wolves will be harmed. Not intentionally. We will only retaliate in self-defense. And even then we will try not to hurt them.”
+
+Syl gave her the promise she wanted, firm and steady.
+
+Then Second’s gaze swept to the rest of the group. Cold. Sharp. Especially at Sepio.
+
+Luna smirked proudly. Yes! Second-in-command at work!
+
+Syl’s voice carried through camp, making sure they all heard.
+
+“Listen closely everyone! Wolves are not to be hunted. Not for food, fear, or even by mistake. No retaliation unless absolutely necessary. I expect no accidents. Or excuses. They are off-limits – every last one of them. Understood?”
+
+The chorus of ‘Understood!’ she got back was great!
+
+Luna’s tail twitched instinctively, wagging without her input. But it didn’t seem appropriate at the moment. But not enough fur to rise.
+
+Hmph. She puffed her cheeks instead, glaring at the camp full of big dum-dum humans. Close enough.
+
+Still – success!
+
+And she got a piece of jerky, too!
+
+Second was the bestest!
+
+Satisfied, Luna plopped down cross-legged and watched the adventurers go about their strange rituals. Weapons polished. Armor buckled tighter. Potions lined up. Bags strapped to trees up high. Sepio stretched his arms until his armor creaked.
+
+Luna blinked.
+
+Stretches?
+
+She jumped to her feet, mimicking him wildly, arms flailing. Looked at Syl in a bit of confusion. And her Second helpfully answered!
+
+“Yes. Stretches are an important prep step for any adventure. One needs to be in tip-top shape to answer to any emergency. It’s best to make them a habit.”
+
+Ooo. Luna understood that! Lazy wolf would be a slow wolf! Yes! She supposed even dum-dum humans had their smarts!
+
+Then she broke into a run around the camp, legs pumping, laughing as she circled the others. Human laughing was weird! All breathy and shaky. She laughed at her own laugh, wheezing between giggles.
+
+Ray muttered something under his breath, but she only grinned wider, spinning once before collapsing back onto the moss.
+
+Soon, the light began creeping strong through the trees. Morning had fully arrived.
+
+The silver glow faded from her skin, and with a soft tug inside, her form snapped back–
+
+Luna was a wolf again. Tail wagging proud.
+
+Syl leaned down and pressed a small vial into her paws. “Sip,” she instructed.
+
+Luna licked the potion carefully, tongue tingling with the taste of mana.
+
+Her ears perked. Her chest hummed with ready energy.
+
+It was time to go!
+
+***
+
+The cleansing turned out to be far more boring than Luna expected.
+
+There was no big run-and-fight like yesterday! No grand chase. No chaos! Instead, her new-pack crept along the edges of the ruins, bit by bit, moving slow.
+
+Kill some.Make noise.Kill more!Move again.
+
+Luna’s tail drooped. Her jaws stretched into a yawn. Soooo boring!
+
+So she did her own thing instead!
+
+Darted off into the undergrowth to liven things up. Cut down on the corrupt numbers faster! Critter hunt! Quick paws, quicker teeth. Bite, crunch, chew. A squirrel. A rabbit. Even a weird barky rat.
+
+At least that was fun!
+
+Every so often she bounded back to help with a bigger one. But with all five adventurers swinging and stabbing, there wasn’t much space for Luna to leap in.
+
+Adding just two more had turned every fight into plentiful chaos! With nary an opportune moment!
+
+Trianna loosed arrows that never missed. Danger sticks slicing through the air so sharp that even Luna had to watch her paws.
+
+Veric swung his sword like a tree-lopper gone mad, hacking with brutal rhythm. He stayed close to Sepio, the shield-man, who braced for every blow.
+
+Big beasts crashed against Sepio’s shield. Veric struck back twice as hard.
+
+Wild. Fierce. Bloody.
+
+Luna approved!
+
+But still… not much left for her to do!
+
+So she ran. And ran. And bit smaller things. And scouted ahead. And barked when she sniffed something strange.
+
+That part was fun, at least. Bark-orders! Pack direction! She was good at that.
+
+Her tongue lolled as she spun back toward them, bouncing across moss and stone. They were still moving slow, still plodding. Ugh.
+
+Then – finally – they stopped.
+
+At the part Luna noted before. But which smelled neither of corruption – nor food or spice!
+
+The ruins spread ahead. Corrupted to one side. The other part she found before even looked… boring. Old stones, moss-thick walls, no sizzle or slime.
+
+And yet everyone froze to stare at it.
+
+Luna tilted her head. Squinted.
+
+Really?!
+
+She bounded up in front of them, tail wagging sharp.
+
+“Awoo! Forward! Bite-bite! Corruption is OVER THERE! Why stop here?!”
+
+Her ears flicked. Did she have to bark her new-pack into shape every single time?

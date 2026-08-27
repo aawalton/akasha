@@ -1,0 +1,309 @@
+---
+id: ba12149a-87fc-5dab-a171-c90485e28d40
+page-type-slug: story-chapter-royal-road
+title: "Chapter 68: Formation School"
+slug: 0068-chapter-68-formation-school
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 68
+ownLength: 3676
+unit: words
+publishedAt: 2026-06-18
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3557808/chapter-68-formation-school"
+royalRoadId: "3557808"
+---
+
+At the Iron Cross Formation School. First morning.
+
+The only indication that the building served any purpose beyond filing municipal tax records was the Iron Cross emblem carved into the lintel above the door.
+
+Inside was different.
+
+The entrance hall swallowed the quiet of the street and replaced it with the particular hum of an institution operating at capacity. Bodies moved through the corridors with the hurried purpose of people who carried too many tasks and not enough hours. Clerks with armloads of paper navigated between desks. Communication crystals buzzed from every surface. Somewhere deeper in the building, a door slammed with the percussive finality of a conversation that had ended badly.
+
+I stood in the entrance hall on my first morning and absorbed it.
+
+This was the heart of the Iron Cross. Not a castle. Not a barracks. A machine built from paper and people and the relentless processing of information.
+
+Perhaps the only difference from a common administrative building was that they all carried swords.
+
+Different sizes, different positions, but none of them seemed to have magic, rods, or wands.
+
+The clerk who processed my arrival didn't look up from her ledger when she spoke.
+
+"Name."
+
+"Kaspar von Hexenzeit."
+
+A beat. Her quill paused. Her eyes lifted by exactly the distance required to confirm the face attached to the name, then returned to the page.
+
+"Third floor. Room 312. Orientation begins at the seventh bell."
+
+No fanfare or indication that the Hero of Grenzheim got a treatment different from any other candidate.
+
+I liked that.
+
+Two months.
+
+That was how long the classroom phase lasted before the real work began.
+
+The Formation School's curriculum operated on a principle I recognized from my previous life, though the context was radically different. Back then, the closest analogue had been the fire academy. We had weeks of classroom instruction compressed into a format that prioritized practical application over theoretical elegance. You learned the science because the science kept you alive, not because anyone expected you to publish a paper on combustion dynamics.
+
+Here, the science was mana. The combustion was magical. And the things that could kill you operated on principles that no firefighter's manual had ever anticipated.
+
+The twelve candidates had been divided on the first day. Six to Investigation. Three to War. Three to Patrol. The division happened without ceremony. A Knight-Commander read names from a list, pointed at doors, and the groups separated. I caught a brief glimpse of the War candidates disappearing down a stairwell toward what I assumed were the training halls. The Patrol candidates went the opposite direction.
+
+I never saw them during class hours after that.
+
+Investigation occupied the building's third floor. Three classrooms, a small library, and an office that the instructors shared through an arrangement that seemed to generate more territorial disputes than the southern front.
+
+The six of us filled the desks each morning and submitted to a curriculum that was, in the most generous description, comprehensive.
+
+In the less generous description, it was an attempt to compress several years of specialized education into a period that would leave permanent marks on the brain.
+
+Mana trace analysis came first.
+
+The instructor was a retired Magical Army officer named Drescher whose left hand was a prosthetic of articulated bronze — a replacement for the original, which he'd lost to an elven spell during a border engagement twenty years prior. The prosthetic clicked and whirred when he gestured, which was constantly.
+
+"Every spell leaves a signature," Drescher said on the first morning. He stood at the front of the classroom with a crystal vial in his bronze hand, holding it up to the mana-glow strip so the contents caught the light. Inside the vial, a faint residue clung to the glass — a film of iridescent material so thin it was barely visible.
+
+"When a mage casts, the mana that flows through their circles carries markers. Frequency. Amplitude. Harmonic structure. These markers are as unique as a fingerprint and considerably more difficult to forge."
+
+He set the vial on the desk.
+
+"Your job, when you find a crime scene where magic was used, is to read those markers. Identify the type of spell. Determine the caster's approximate circle formation. Establish a signature profile that can be matched against known individuals."
+
+Drescher tapped the vial with his bronze finger.
+
+"Now. Some of you are thinking: I'm not a mage. I can't read mana. This entire lecture is theoretical for someone without Circles."
+
+His eyes swept the six of us. Lingered on each face long enough to confirm that yes, that was exactly what some of us were thinking.
+
+"You're wrong."
+
+He set the vial down and raised the bronze hand. The articulated fingers spread wide, each segment rotating with a faint mechanical whir.
+
+"Every one of you practices Mana Blood. Some of you practice Mana Breath. You've spent months — years, in some cases — channeling mana through your own tissue. You've felt it move. You've felt it burn. You've felt it sustain your muscles past the point where they should have failed."
+
+He lowered the hand.
+
+"That sustained contact changes you. Not the way Circles change a mage. Circles are architecture, formal structures that organize mana into patterns a caster can direct outward. What you have is something different. Cruder, yes. But in certain respects, more intimate."
+
+He picked up the vial again. Held it at arm's length.
+
+"A mage reads mana the way a scholar reads a book. Through a learned framework of symbols and rules. You read mana the way a blind man reads a face. Through a sensitivity that develops not from theory but from the sheer accumulated hours of having the substance running through your blood."
+
+The prosthetic finger tapped the glass.
+
+"In mana trace analysis, that sensitivity is an asset. A mage examining a crime scene will identify the spell type and the circle formation through theoretical pattern-matching. Effective, but slow. Limited by the frameworks they've been taught."
+
+He set the vial on the desk again.
+
+"You won't have those frameworks. What you'll have, if your training has been worth anything, is the ability to feel the residue directly. To sense the harmonic structure without needing to decompose it into its theoretical components first. It's the difference between reading a musical score on paper and hearing the song."
+
+He pointed at us with the bronze index finger.
+
+"Some of you will be good at this. Some of you will be adequate. A rare few will have a sensitivity refined enough to read trace signatures that would require a mage an hour of analytical work to identify."
+
+His eyes found mine for a second.
+
+"Let's find out which category you fall into."
+
+The practical exercises began that afternoon.
+
+Drescher had prepared a series of test stations along the third-floor corridor. Each station consisted of a sealed chamber — a stone box roughly the size of a bread loaf, warded to contain whatever was inside — and a notation card that the candidate was meant to fill in after examination.
+
+The task was simple in description. Place your hands on the box. Feel what's inside. Describe the mana signature: type, intensity, harmonic structure, and any anomalies.
+
+Simple in description. Brutal in execution.
+
+The first box took me eleven seconds.
+
+I placed my palms flat against the cool stone. Closed my eyes. Let the perception that months of Mana Breath had cultivated expand outward through my fingertips and into the warded surface.
+
+The ward itself was the first thing I felt. A thin membrane of structured mana that clung to the stone's interior like a skin. Cold. Rigid. Designed to contain rather than repel.
+
+Beneath the ward, the residue.
+
+It hit my perception like a scent hits a bloodhound. A distinct, layered signal that separated itself into components the moment I focused on it.
+
+Fire-aspected. Third Circle intensity. The harmonic structure was clean — regular oscillations with minimal decay, suggesting the spell had been cast recently by someone with considerable control. A single anomaly: a slight flutter in the lower frequencies that indicated the caster had hesitated at the moment of release. A microsecond of uncertainty embedded in the signature like a thumbprint.
+
+I opened my eyes. Wrote it down.
+
+Moved to the next box.
+
+This one was different. The residue was older. The harmonics had degraded, their edges blurring into the ambient noise the way a footprint blurs in rain. But the core signature was still there. Earth-aspected. Second Circle. The flutter was absent — this caster had been decisive, the release clean and instantaneous.
+
+Thirty-eight seconds.
+
+I moved down the line. Box after box. Each one holding a different signature, a different puzzle. Some were layered — multiple spells cast in sequence, their residues overlapping. Those took longer. I had to separate the signals, peel them apart, feeling for the boundaries where one ended and the next began.
+
+I finished the twelve stations before any of the other five candidates had completed their sixth.
+
+Drescher appeared at my shoulder. His bronze hand reached for my notation cards. He flipped through them. His expression didn't change during the first three. By the fourth, his eyebrows had risen. By the eighth, they'd climbed past his hairline and were attempting to colonize his forehead.
+
+He stopped at the tenth card.
+
+"The hesitation flutter," he said. He held the card up. His eyes moved from the notation to me and back. "You identified a casting hesitation from residue analysis."
+
+"It was in the lower frequencies," I said. "A disruption in the harmonic decay pattern. Subtle, but consistent with a momentary interruption in the caster's intent."
+
+Drescher stared at me.
+
+"That detail," he said slowly, "was included in the exercise as a control variable. It's not something the candidates are expected to detect. It's something I embedded to verify that the test chambers were properly calibrated."
+
+He set the card on the desk.
+
+"In twelve years of running this exercise, two people have identified it." His bronze finger tapped the card twice. "Both of them were Magical Army analysts with four Circles and a decade of field experience."
+
+He looked at me for a long moment.
+
+"Noted," he said.
+
+The notification appeared at the edge of my vision as I returned to my desk. I dismissed it with a thought.
+
+The other candidates were still working through the stations. I watched them from my seat. Their hands pressed against the stone boxes with the concentrated intensity of people straining to hear a whisper through a wall.
+
+They weren't bad. Their Mana Blood training had given them a baseline sensitivity that surpassed what most mages would expect from non-magical soldiers. Henrik, the former Patrol Division operative, had a particularly steady approach — his hands moved with patience, his notations careful and methodical. Lena, the logistics specialist, struggled with the harmonic analysis but compensated with an analytical precision that extracted every fragment of usable data from even the faintest signatures.
+
+But the gap was there.
+
+I could feel things they couldn't feel. Details that registered in my perception as clearly as color registers in sight arrived in theirs as vague impressions — fragments that required minutes of focused concentration to parse.
+
+Nine cores.
+
+That was the difference. Nine mana cores feeding a respiratory system that had been channeling mana for months without interruption. The sheer volume of mana that flowed through my tissue at any given moment had refined my perception into something that Drescher's curriculum hadn't been designed to accommodate.
+
+I didn't mention it. Didn't explain. When the other candidates asked how I'd finished so quickly, I gave them the answer that was true without being complete.
+
+"Practice," I said. "Lots of practice."
+
+The weeks accumulated.
+
+Mana trace analysis was the foundation. Everything else built on it.
+
+Spell assembly analysis came next.
+
+Where trace analysis dealt with residue — the fingerprints left behind after a spell had been cast — assembly analysis concerned itself with the architecture of magic itself. How spells were constructed. What components combined to produce specific effects. The structural differences between a First Circle ward and a Third Circle offensive matrix and why those differences mattered when you were standing in a room where someone had been killed by one of them.
+
+The instructor for this module was a woman named Falk whose robes bore the insignia of the Academy's theoretical faculty. She had the bearing of someone who had spent decades in lecture halls and regarded practical application as a necessary evil that existed primarily to validate her theoretical models.
+
+"A spell," Falk said on her first morning, chalk in hand, a blackboard floating at her shoulder, "is not a single thing. It is a sequence of operations executed in a specific order at a specific speed. Understanding that sequence is the difference between knowing what happened and knowing how it happened."
+
+She drew a diagram. The chalk moved in precise, economical strokes that produced a schematic of interlocking circles and connecting lines.
+
+"When you encounter a magical crime — an assault, a sabotage, a ward breach — the spell that was used tells you more about the perpetrator than any witness testimony. The type of assembly reveals training. The efficiency reveals experience. The choice of components reveals intent."
+
+She tapped the diagram.
+
+"A soldier casts differently than an assassin. An assassin casts differently than a researcher. A researcher casts differently than a priest. Each tradition carries structural signatures in its assembly that are as distinctive as an accent in speech."
+
+The material was dense. Theoretical in a way that the trace analysis hadn't been. Where Drescher's lessons engaged the body — hands on stone, perception extending into residue — Falk's lessons engaged the mind. Pattern recognition. Structural logic. The ability to look at the aftermath of a magical event and reverse-engineer the process that had produced it.
+
+I struggled with the frameworks.
+
+Not because I lacked the intelligence. The memories that Gluttony had released contained Kaspar's comprehensive understanding of magical theory — a self-taught education that, in many areas, exceeded what the Academy's formal curriculum provided. But accessing that knowledge required knowing what to reach for.
+
+Each lecture opened new possibilities. Falk would mention a concept — harmonic resonance in multi-circle casting, for instance — and the term would trigger a cascade of associated memories. Books detaching from shelves, their contents flooding in, filling the gaps in my understanding with information that the original Kaspar had accumulated through years of independent study.
+
+The result was uneven. In some areas I leapt ahead of the curriculum, connecting theoretical dots that Falk hadn't drawn yet. In others I stumbled over basics that the other candidates grasped immediately.
+
+I learned to manage the unevenness. When a gap appeared, I noted it. Returned to it during the evening hours in my quarters, searching the archive deliberately — walking corridors I hadn't explored, pulling books from shelves I hadn't visited.
+
+Slowly, the index filled itself in.
+
+Alchemy was different.
+
+The instructor was a compact man named Thiel whose workshop occupied a converted storage room on the third floor's eastern end. Every surface was covered with apparatus — glass vessels, copper tubing, ceramic crucibles, scales of varying precision, and racks of labeled containers that held substances ranging from common mineral salts to things that glowed faintly in the dark.
+
+"Alchemy," Thiel said on the first morning, his sleeves rolled to the elbows and his hands already stained with something that might have been reagent residue or might have been breakfast, "is not what you think it is."
+
+He picked up a container from the nearest shelf. The label read Ironhide Boar. Liver Extract, Concentrated.
+
+"The old definition, the transmutation of base materials into higher forms through the application of chemical principles, died about two centuries ago. What killed it was the recognition that mana doesn't just affect biological systems. Mana integrates with them. Monster tissue isn't tissue that happens to contain mana. It's tissue whose fundamental biology has been restructured by mana."
+
+He set the container down. Picked up another. Stormclaw Eagle. Adrenal Gland, Desiccated.
+
+"Modern alchemy is biochemistry. It's the study of how mana-saturated biological compounds interact with human physiology. Monster cores, organs, glandular secretions, bone marrow. These materials contain mana in forms that resist conventional extraction. The mana isn't in the tissue. The mana is the tissue."
+
+He waved the container at us.
+
+"Your job, when you encounter an alchemical compound at a crime scene — a poison, a performance enhancer, a drug — is to identify its biological origin, its preparation method, and its intended effect on human physiology. You need to know what a compound is made of, how it was made, and what it does to the body it enters."
+
+He set the container down and grinned. The expression was the particular enthusiasm of a man who loved his subject with a passion that bordered on the romantic.
+
+"Let's start with something simple. Who can tell me what happens when you ingest powdered monster core?"
+
+The question landed in silence.
+
+My hand rose before the thought had fully formed.
+
+The answer came from the library. A book that had been sitting on the nearest shelf, waiting for exactly this question. Kaspar's voice, precise and clinical, echoing through the memory of a hundred late nights spent studying the interaction between ingested core material and human digestive enzymes.
+
+"The core material dissolves in gastric acid," I said. "The mana bound within the crystalline matrix is released into the digestive tract. In a mage with active Circles, the released mana is absorbed into the existing channel network and processed as ambient intake. It acts as a temporary boost with minimal side effects. In a subject without Circles, the mana has no place to follow. It disperses into the surrounding tissue, producing localized cellular stimulation that mimics core activation without establishing permanent pathways."
+
+I paused.
+
+"The stimulation is temporary. When the compound is metabolized, the effect ceases. Repeated exposure without established channels produces progressive degradation of the tissue interfaces. The cells that absorbed the unstructured mana develop micro-damage that accumulates over time."
+
+The classroom was quiet.
+
+Thiel was staring at me.
+
+"That," he said slowly, "is a fourth-year Academy answer. From the advanced biochemical alchemy track. Which I happen to know you never took, since I'm the only professor."
+
+I held his gaze.
+
+"I read a lot," I said.
+
+Thiel's stare held for three more seconds. Then the grin returned, wider than before.
+
+"Good," he said. "Then you can help me with the demonstrations."
+
+⌜ Alchemy — Level 4 ⌝
+
+⌜ Alchemy — Level 5 ⌝
+
+⌜ Alchemy — Level 6 ⌝
+
+The levels came fast. Three in the first week alone.
+
+The theoretical understanding that Kaspar's memories provided was a foundation, but the levels didn't climb until I applied that understanding. Until my hands mixed compounds, until my perception evaluated the mana content of biological materials, until the abstract formulas became physical actions with measurable results.
+
+The muscle memory wasn't there. Kaspar's hands had known these motions. Mine were learning them fresh. But the mind behind the hands knew what each motion was supposed to accomplish, and that foreknowledge compressed the learning curve from months into days.
+
+By the second week, Thiel had stopped pretending I was a normal student and started using me as a teaching aid.
+
+"Von Hexenzeit," he'd say, sliding a sample across the workbench. "Identify."
+
+I'd pick it up. Close my eyes. Let the mana perception do its work — feeling the compound's internal structure, the way the biological components had been processed and combined, the residual signatures that revealed both origin and method.
+
+"Frostfang serpent venom," I'd say. "Reduced in ethanol. The reduction was incomplete. There's still active enzymatic material in the lower fraction. If this was intended as a paralytic agent, the dosing would be unpredictable. Too much active enzyme in one batch, too little in the next."
+
+Thiel would nod. Turn to the rest of the class.
+
+"This is why consistency matters in preparation. A poorly reduced compound doesn't just fail, it fails differently every time. And in an investigation, that inconsistency is a signature. It tells you about the alchemist who made it. Their skill level, equipment, and patience."
+
+The other candidates accepted my role without visible resentment. Henrik, in particular, seemed to appreciate having someone in the class who could explain the material in terms that didn't require Thiel's tendency toward tangential enthusiasm.
+
+Lena took notes with a speed and precision that suggested she was building her own reference library in real time. More than once I caught her watching my hands during the practical exercises.
+
+The subjects accumulated. Each one was a tool in a kit that was being assembled piece by piece.
+
+Every tool had a purpose. Every purpose connected to the work that waited beyond the Formation School's walls.
+
+Murder. Sabotage. Espionage. Trafficking. The crimes that the Iron Cross Investigation Division handled weren't the petty disputes and property violations that occupied the civilian constabulary. They were the crimes that threatened the empire's structural integrity. Fractures in the foundation that, if left unaddressed, could bring the entire thing down.
+
+Each subject in the curriculum existed because someone, at some point in the Division's history, had encountered a case where that specific knowledge was the difference between solving the problem and watching it metastasize.
+
+Mana trace analysis: because magical crime left signatures that only trained perception could read.
+
+Spell assembly analysis: because the how of a magical attack revealed the who behind it.
+
+Alchemy: because poisons and drugs and biological agents were the invisible weapons of a war that didn't always announce itself with armies and banners.
+
+And then there was the subject that made my skull ache.
+
+"Blood washes out. Magic fades. But gold? They never let go of the gold. Learn to read where the coin flows, and you'll always find your mark."
+
+That was the only introduction he gave before the first lesson on Financial Forensics.

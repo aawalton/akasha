@@ -1,0 +1,119 @@
+---
+id: 5d92f02f-91cb-5bff-be5a-d4715fac1d3e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 485: Ignite"
+slug: 0011-chapter-485-ignite
+partOf: system-change-system-universe
+position: 11
+ownLength: 2913
+unit: words
+ownProgress: 2913
+publishedAt: 2024-12-06
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/1942238/chapter-485-ignite"
+royalRoadId: "1942238"
+markedReadAt: "2026-06-29T19:57:05.681Z"
+---
+
+Chapter 485: Ignite
+
+Silvi was having one hell of a time dashing and darting around on the pot lid she created with her Void Creation (Cooking) skill. Once again, she was happy that she kept her small form after her evolution. Opposable thumbs wouldn’t have been enough to make up for the loss of her smallness and mobility created because of it.
+
+Before she left, she had thought the ground with all the noodle-looking vines coming out was going to be the dangerous and fun part of the fight, but once she flew into the canopy of the tree, she realized that wasn’t the case. She zipped in and out with her giant void created cleavers and cut all the small limbs of the tree she could find clean off of it. And because she was such a smart bunny, she made sure to store any free-falling wood in her storage rings.
+
+Because, once they killed the giant toothpick, they would have to split all the material. So, if she took as much as she could during the fight without anyone else knowing, then she would be able to make a lot more meals with the wood. She couldn’t help but wonder what that Noodle would taste like if skewered with an Echoing Willow stake and roasted over an open dragon flame. But just like with the tasty-looking pointy ear people, nobody wanted her to eat the noodle, either.
+
+Speaking of Silvi’s smartness, she had gathered over a dozen empty storage rings from Malorie before she left. Derek had said that the tree was big, but now she was wondering if she had brought enough. Luckily, she had her pot and Derek’s traveling skill, so she could always go dump the wood somewhere safe and come back to gather more.
+
+After filling up her third storage ring, she decided that she had enough of the small sticks for the time being. After all, she knew that she was important in this fight and that everyone was counting on her, so she should only spend a small amount of time gathering material for herself. Yes, she was a very powerful bunny, so she should help Big Sparky and the others before they got themselves killed. Who knows? If she saves another prince’s life, maybe she can con… get rewarded with more ingredients from Sparky… No. Little Sparky is king now. He has the ingredients.
+
+Silvi dodged another one of the pesky leaves that kept trying to chase after her, then changed her direction. She wanted to fly out of the tree’s canopy to get a better look at the battle. Since she was smart, she should do smart things. She was no longer the small bunny who liked to head-butt everything—no, that skill was reserved for the hardest of opponents.
+
+While making her way up and out of the canopy, countless small leaves finally surrounded her. They began circling around her in all directions—trapping her inside. Silvi’s eyes widened, and she licked her lips in preparation. The sphere of leaves soon began to collapse in, and the free space the bunny had to move began getting smaller and smaller.
+
+Once the leaves were finally within range, and one even made a cut in her cloak, Silvi acted. She went all in on her Chop, Mince, and Julienne skills. The salad thought it was trapping her, but in reality, she had trapped the salad. Once she filled an entire storage ring with greens, Silvi used Active Void Shift and left the rest of the angry leaves behind. After all, she wasn’t the biggest fan of non-meat dishes, but others liked them. Plus, sometimes, the vegetables could be used as garnish and make the tasty dishes look even tastier.
+
+She found that, for some reason, a dish that looked delicious tasted even better than the same dish that didn’t look as good. It was a mystery, but since it was like that, she made sure to make her delicious dishes look pretty whenever she could.
+
+With the salad confused at her disappearance, Silvi continued to make her way up. Soon, she and her pot lid broke their way out of the canopy and into the sky above. As soon as she was above the tree, she saw her two allies.
+
+Big Sparky was raining lightning down on the tree from above, and the restaurant owner’s sidekick was doing the same with his arrows. It didn’t look like either one was doing all that much damage to the tree—but some of that was because it was hard for them to focus because of the windstorms, limbs, and a weird green mist that kept chasing them. But the two were fast with their wings, so the attacks from the tree kept missing.
+
+Let’s see… Silvi thought. Need to go up more. With that, Silvi flew even higher above the tree. This is good, she thought. Now, need to go over. She flew off—trying to get herself floating above the center of the willow. Good, good, the bunny thought. Now… Silvi took two potions out of one of her storage rings, popped the caps off the vials with her Telekinesis, and drank them down.
+
+One potion was a big mana regeneration potion, and the other was a big mana recovery potion. The tree was big, so she was going to need a bunch of mana if she wanted to kill it. Silvi had been pretty diligent in practicing her Dragon Flame skill. It left the perfect char on many meats, and she had figured out how to make it burn cooler and not destroy the meat instantly. It all took a lot of practice, but it was worth it. While cooking with it and turning ice cube kings into puddles of water, her level in the skill had reached level 9.
+
+She still had a long way to go with the skill, but it was a good start. Need to get Derek’s skill potions and roast pigs. That will level it up faster, she thought as she prepared to do her job. With her four paws holding tightly to her void pot lid, Silvi angled herself down at the center of the tree. At her current distance, her Dragon Flame should be able to reach its widest spread before hitting the top of the tree’s canopy.
+
+Silvi took a deep breath in, then blew.
+
+Alanah felt next to useless in their current fight. It had been a very long time since she last felt this way. It wasn’t that the opponent countered her; it was just that she wasn’t built for fighting giant creatures—the same was true of Derek and Avery. However, even though Derek wasn’t exactly built for it, he was at least able to do some relatively good damage at the start of the fight, and he found a way to keep doing so with his abilities.
+
+The siren looked up at the crater in the tree that Derek had made with his black hole skill. She couldn’t see the man or what he was doing inside, but she was sure that he was giving it his all. He had used an ability that seemed to negate any of the magical attacks launched by the Echoing Willow. With that protecting his back, surely, he would make some headway.
+
+Once again, a root shot up and went after Tyron, and once again, Alanah shot down and cut the thing in half. Her job had been relegated to root duty, and if that’s all she could do, she would do it as good as possible—it was her fight, after all, so she couldn’t sit back and watch as all of her companions fought it for her.
+
+“Woah,” Alanah heard Tyron’s voice come from behind her.
+
+“Are you okay?” she asked the smith. She was surprised that he was speaking and no longer had his eyes closed while fighting the echoes. She turned to look at the man and saw that he’d even taken those weird ear covers off. “Are you sure you should be doing that?” she asked.
+
+“I’m fine now,” Tyron said. “It just took some getting used to. One more loud screech like before, and I think I’ll be pretty much immune to the thing for some time. Besides, Rocky is almost back—it’s almost our time to act.”
+
+“If you say so,” Alanah said. “I will trust you, and I will keep you safe as best as I can.” She wasn’t sure if she believed that he’d be able to withstand the screeches completely, but it did make sense to her. Being a smith and having the kind of class he did, she was sure that Tyron had quite the high wisdom stat, and seeing how he was known to go fetch his own materials in dangerous places and dungeons, she was sure he had good willpower and knew what he could or couldn’t handle.
+
+“Thank you,” Tyron said, then another screech hit them out of nowhere.
+
+“What the—” Alanah muttered. Then she looked up and saw what had happened. Looks like Silvi has begun her attack, the siren thought. I wonder what took her so long. I thought she would have gone quite a bit sooner. Oh, well… It’s better this way, anyway. Since Rocky is almost ready, the timing of their attacks will be good. While she was looking up, she also saw that there was a large amount of green mist gather in and just under the canopy of the tree. Is that poison being released? She wondered, but shrugged. It’s not moving fast. We’ll deal with it when it gets here.
+
+Looking past the green mist, Alanah could see that the canopy was beginning to show signs of damage. Black and white ash was floating down, but the canopy was so thick that it was taking a long while for Silvi’s attack to work its way all the way through.
+
+Alanah turned to check on Tyron again. The latest screech seemed to be even a small bit more powerful than the one the Echoing Willow released when hit by Derek’s attack because of what must be widespread damage being caused by the bunny.
+
+The Walking Forge’s eyes were open wide this time. He was clenching his fists so hard that Alanah could hear his bones creaking because of it. The whites of his eyes were rapidly becoming bloodshot as he fought to resist the echoes without any dampeners. Just as Alanah thought it was going to be too much for the smith, a metallic-like aura shot from his body.
+
+The bloodshot whites of his eyes from before slowly changed to a dark metallic color. Then, from the ground up, an odd set of almost liquid-like armor appeared on his body. This covered his entire body, and even part of his head and face. Once it covered his ears, he let out a sigh of relief.
+
+“I overestimated myself,” he said to Alanah. “The tree almost got me, but I will be fine now. My armor does not provide as much dampening as the covers did, but it is enough. I will no longer be affected by these screeches and echoes. You may do as you wish now. Rocky is ready.”
+
+At that moment, the ground began shaking, then a massive worm-like figure shot out of it in front of them. Rocky had shifted to what looked to be his normal size—it was a sight to see. The wyrm dove in and out of the ground—leaving molten trails in his wake. He was like a fish in water.
+
+After that, Tyron stepped forward until one of his feet touched a burning piece of ground. Then he stomped. All around the tree, geysers of lava sprayed up—it was almost like a pure wall of lava forming, except for the fact that the lava fell back to the ground and began flowing inwardly. Rocky continued to jump in and out of the ground, this time aiming for the lava. The wyrm seemed to be having fun swimming in the molten lake that he and his master had created.
+
+“This might go easier than I thought,” Alanah said.
+
+“Maybe,” Tyron replied without turning around. “But only because Rocky and I had enough time to set up.”
+
+“I’ll have to remember to not let battle crafters have that time if I ever run into one as an enemy,” Alanah replied.
+
+“It would be for the best.” The giant of a smith then took another step forward, and the same thing happened once again, only this time, it happened closer to the tree.
+
+The Echoing Willow—along with its screeches—began swaying. Burning roots shot out of the ground like tentacles, then fell to the ground, unmoving. Not only was the smith’s and his companion’s skill working above ground, but Alanah could only imagine what it was doing underneath.
+
+Then, if the burning lava didn’t illuminate the dark area under the canopy of the tree before, then Silvi’s Dragon Flame finally breaking through the top at that moment, would have. The entire canopy—no, the entire willow tree—now looked like a giant torch lit on both ends.
+
+While all this was going on, a bolt of lightning zipped in and out of the burning canopy and soon arrived beside the siren, where it turned into Edgar. The prince stepped forward and let out a sigh. “It’s way too dangerous up there.”
+
+Avery landed right beside the prince and retracted his wings before wiping a great deal of sweat off his forehead. “That small creature is a monster. She’s lit the tree up like a beacon. I don’t think I could have stayed up there for another second without burning alive. It’s probably visible from anywhere in this kingdom by now.”
+
+“Good,” Alanah said. “I want them all to see their hope for withstanding my return burn before their eyes. It does give me a warm feeling inside.”
+
+“I…” Avery muttered, then he looked at Edgar and back to Alanah. “I think you’ve been hanging around Derek for too long.”
+
+“No,” Alanah replied. “This is just something I’ve hoped for to happen for decades… or even longer. I’m just savoring the sight.”
+
+“Whew,” Edgar whistled. “Remind me not to get on your bad side.” Then the prince looked out over the field of lava. “Looks like Tyron’s making his presence known, too.” After that, he looked up at the wall covering part of the tree. It was sucking in falling embers and leaves. “Silvi’s got the top, Tyron’s got the bottom, and it looks like Derek has the middle. I can’t help Tyron or Silvi, but I may be able to help Derek.”
+
+With that, the prince flashed away and appeared on the side of the tree at the same height that Derek was fighting at. He began directing bolt after bolt of lightning into the bark of the willow—causing it to crack and fall away.
+
+“I’m going to do the same,” Avery said, then disappeared, too. When Alanah next saw him, he was on the side of the tree opposite Edgar.
+
+As the tree burned from the top and bottom, and Edgar, Derek, and Avery wailed on it at center-mass, the attacks from it lessened greatly. The green mist that had begun gathering and floating down was no more. As soon as Silvi’s flame broke through, the mist had caught fire and exploded. It seemed that whatever it was, was very flammable.
+
+As the attacks from the tree lessened, so too did its screeches and echoes. Alanah almost felt bad for the thing as it wailed… almost. Derek had gathered the perfect people for this fight—she was glad she brought him. And even though she wasn’t able to do much, she basked in the heat generated by the burning tree. Her job was done—Tyron was no longer in any danger. Any root or vine that tried to get at him was intercepted and burned down by Rocky, or just didn’t make it through his area attack. With the momentum the smith had, there was no stopping him. He was like a metallic juggernaut—perfectly built to fight immobile enemies.
+
+Soon, the smith made it all the way to the trunk of the tree. There, he placed his metallic covered hand on the trunk and lava once more shot up out of the ground—this time, it pooled around the base of the tree—finally burning more than just the roots.
+
+Along with that, the fire from above had slowed in its burning. The Dragon Flame was so strong that the canopy of the tree was no longer there. All that was left was the main stem, or trunk, of the tree. Most of the limbs and branches had burned or were in the process of burning and falling. The thing’s wailing got deeper as it burned.
+
+Finally, it also began to pale in the middle some—where the others were. Then, with a boom that sounded more intense than any thunder Alanah had ever heard, the top half of the tree began to fall over. The tree slowly crashed into the ground—leaving a giant crater and devastation in its wake. Once the dust settled, Alanah looked up.
+
+Derek, Avery, and Edgar were all standing on what was now the top of a giant stump. Derek held his glaive forward, digging it into the tree and seemingly eating away at it. Moments later, Alanah received the notification.

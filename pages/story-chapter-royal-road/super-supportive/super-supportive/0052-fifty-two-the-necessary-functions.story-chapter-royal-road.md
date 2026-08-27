@@ -1,0 +1,207 @@
+---
+id: acd75fc6-54ce-5c7b-aa87-3f2c41090f51
+page-type-slug: story-chapter-royal-road
+title: "FIFTY-TWO: The Necessary Functions"
+slug: 0052-fifty-two-the-necessary-functions
+partOf: super-supportive
+position: 52
+ownLength: 2829
+unit: words
+publishedAt: 2023-07-09
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1272105/fifty-two-the-necessary-functions"
+royalRoadId: "1272105"
+---
+
+Alden and Kibby had decided that Plan 2 wouldn’t commence until Moon Thegund’s current night was almost at an end. They had about eleven days. It was too long to wait, and at the same time, they had so much to do to prepare that it felt like no time at all
+
+“Take me with you!” Kibby demanded as Alden put the last few pieces of equipment into a backpack he’d found in one of the closets.
+
+“I told you why I’m not going to do that.” He hefted the backpack. It weighed about one and a half Kibbys.
+
+“Because when you die, you expect me to sit in the vault all by myself and die more slowly!”
+
+“That’s not it,” Alden said as gently as he could. “I’m ninety-nine percent sure I’m not going to die. But I will be testing my movement trait heavily. That means I could make a mistake and exhaust myself too much to keep my preserved item safe. I want to make sure it’s only a bunch of supplies and not my learning partner.”
+
+“I would be fine for a little while even if I wasn’t in the lab!”
+
+“I know. I believe you when you tell me that. Because lying to me would be very dangerous in this situation, and you know it. But we’re still not going to waste your strength on this. Plan 2 might fail. So stay here in the vault and do that research you wanted to do, and save your energy for Plan 3.”
+
+Kibby was scared to be left alone even for a few hours. Alden understood. He was scared to be leaving her, too.
+
+But Plan 3 was the “Alden and Kibby travel to safety instead of waiting for it to come to them” plan. Also known as the most extremely terrifying plan. And for it to even have the slimmest chance of succeeding, Alden needed to understand what being outside the lab walls was really like.
+
+And he felt like he had to at least make an attempt to rescue their one potential mode of transportation.
+
+“I need you to entrust me with the backpack,” he said.
+
+“You will not be able to use the mover discs without me. Your human brain won’t perform the necessary functions.”
+
+Wow, she was really stretching for excuses now.
+
+“I promise my human brain works well enough to operate a remote control. Even if it is a complicated one. Entrust me with the backpack, Kibby.”
+
+It took a few more minutes of conversation, but she finally did it. Alden was relieved.
+
+“Okay,” he said, securing the backpack around himself. He was already wearing the coat. “What did we do with the—”
+
+Kibby lifted up a pair of very odd-looking glasses. She’d made them herself by prying some of the magic lenses out of the awesome binoculars and gluing them onto lab goggles.
+
+You could see in the dark with them. It was a fuzzy black-and-white vision, but it would do.
+
+“When the magic on them fails, you will be —————. You will lose your way back home.”
+
+“They might not fail. And the lab lights are so bright I’ll be able to see them from a very long way away.”
+
+Kibby nodded. She bit her lip. “If…if you come back I will give you a present.”
+
+“Really?” Alden said, smiling at her. “What is it?”
+
+“It’s something good that you want.”
+
+“Now I’m very curious.”
+
+“Then you should come back fast,” she said seriously.
+
+*************************
+
+Leaving the lab behind to walk into the pitch blackness of the chaos-steeped night was just as much fun as Alden had imagined it would be. He felt like he was slowly drifting away from the real world into an abyss that wanted to get handsy with his essential nature.
+
+He was fresh right now and so good at assertive mode that he didn’t even have to think about it. His authority just pressed right back on its own. But the pressure never let up. And it would be worse when he got tired.
+
+For a while, he went slowly, poking at the ground with a long metal rod he’d taken from the lab. The grass was all dead and rotted away now, except for the random blades that had become Thunder Grass or started to grow into looping vines. Pretty much everywhere he looked there was just bare, unstable soil.
+
+Ugh, this is stupid, he thought as the metal sank a few inches into a random patch. Can I even run on this? Is there any point in trying the car at all?
+
+The only thing that made him think that running might be okay was that he had decided his movement trait was based heavily on an extra symbolic understanding of the universe.
+
+He hadn’t learned nearly as much as he needed to about magic, but by now, he’d accepted that it could happen in more than one way.
+
+There were alterations in perception that nudged your authority slightly, there were skills that bound and shaped it for specific functions, and there was the actual conscious control that Alden had been learning to exert and love in his lessons with Kibby.
+
+And that was just the normalish stuff.
+
+There were also the rituals to consider. Alden could drink people’s blood and connect to their inner selves. Artonans did all kinds of similar seemingly unfathomable things. It was less a single science and more a set of sciences, arts, and historical arcana passed down from long-dead wizards.
+
+Azure Rabbit seemed to coat him in a layer of magic that gave him a boost as he kicked off things with close metaphysical relationships to the soil of the planet he was on. It did not care what he thought the ground was at all; its own definition seemed to be right at the heart of the trait’s design, and it would not budge.
+
+Alden could put up with it. It was maybe going to help him out here.
+
+I’d better be right, or I’m going to break an ankle and have to crawl back to the lab.
+
+Even if the trait had defied his attempts to perceive it into submission, he had gotten stronger control over it, just like he had with Let Me Take Your Luggage. But unlike the complicated skill, the trait didn’t have much in the way of consciously adjustable settings. It was pretty much just on or off, and he still couldn’t activate it unless the skill was in use.
+
+He flexed the portion of his authority that had been made into the trait and recalled how confused he’d been a few months ago when he managed it and then had the un-creepy/more personal space feeling he couldn’t define.
+
+That’s funny. It’s so clear now that it’s just me asserting my authority more strongly. It’s hard to remember what it actually felt like before I understood.
+
+“All right,” he said to the fuzzy black and white world around him. “Walking seems to work like I thought it would. Let’s try running.”
+
+When he took the first few swift steps, he knew it was the right decision. He kicked off the ground, and it felt almost just like it had on that first run to the lab. Maybe he was leaving trails of shallow holes in his wake, but who cared what the ground behind you looked like?
+
+I’ve always thought the original skill description was terrible.
+
+“You are lighter on your feet when your skills are in use” hasn’t fit it well at all until now. But even if this isn’t actual lightness it’s kind of working out that way for me.
+
+If not for the heavy backpack full of equipment he hoped would help him right the car that he hoped would work, the run would have even been comfortable. The inconvenience of wearing rigged night vision glasses was balanced against the lack of obstacles. With so much of the grass gone, there was nothing but ground for miles and miles ahead of him.
+
+He cast aside the metal rod and sprinted.
+
+How do I feel? he asked himself with every step. How long could I do this for? How long will my legs hold out, my authority, me?
+
+Then he slowed to a jog and asked himself the same questions.
+
+Then a walk again. Then another sprint.
+
+How long could I travel like this with Kibby? How far can we go?
+
+He had to figure it out here and now, because after Plan 2, there was only this. And if Plan 3 failed, they wouldn’t survive to make up another.
+
+************************
+
+Alden didn’t think the car was going to work. Months ago, when he’d abandoned it, he’d assumed he was abandoning it for good. It hadn’t been badly damaged by the demon bugs at that point, but he was sure they’d done plenty of work on it in the following weeks. And then the same slow degradation that ate away at things at the lab would have ruined it even more.
+
+As soon as he found it—the only noteworthy feature in a nothing-filled landscape—he knew he wasn’t wrong. The armored vehicle looked like it had taken a beating. And then a few more beatings on top of it.
+
+Parts of it were rusting. It was full of holes. The sections of the windows that weren’t broken were all bubbled and hazy, like they’d been made of molten sugar.
+
+But he couldn’t run this far and then not at least try to turn the thing on. So, being careful not to lose preservation on his backpack by letting its weight rest on something, he pulled himself up the side of the toppled vehicle and dropped down through the same door he’d opened last time he’d been here.
+
+Easy, he noted.
+
+Laboratory parkour had done him some favors. And though he had little idea what the nutritional content of all the alien food he’d been consuming was, he’d at least been focusing on eating things Kibby said were high in protein. He was visibly a little bit fitter when he looked at himself in the mirror and not suffering from any obvious terrible ailments, so it was a complete win in his books.
+
+Don’t know what the other kids are learning in Avowed school, but I can feed myself on the Triplanets. And talk to people. That’s got to count for something.
+
+“Hey,” he said quietly to what was left of the bodies in the car as he maneuvered himself into position to start up the vehicle. “Your daughter’s alive. She’s smart and brave. Your big sister’s okay. She misses you.”
+
+Kibby had told him which button and lever combo should power up the car.
+
+He pressed and pulled. He was already thinking about the run back to the lab after this avenue was closed off for good, but to his absolute amazement, the car came to life with a deep, airy whoom sound that reminded him of no other engine he’d ever heard.
+
+“Whatever wizard or Wright made you for Joe deserves a freaking raise,” Alden said, staring at the runes glowing against the ceiling with astonishment. There were only a few of them left instead of the plethora there had once been.
+
+And it was pretty clear that, at least when it was offline, the car hadn’t been offering much in the way of chaos protection. He could tell just from the state of the bodies. They didn’t really look like bodies anymore. Too degraded. Some of the bones were warped or gone. One of the vining blades of grass had crawled through the hole in the roof and wrapped around them.
+
+Don’t overthink it.
+
+He turned the car back off and climbed out.
+
+Just because it had power, that didn’t mean it would run. And he still had to get it back on its metal tires, which was an iffy prospect despite what he’d told Kibby. Then, it had to get across the hazardous ground back to the lab.
+
+No chance it would all come together.
+
+Alden took the mover discs and the remote control out of the backpack while it wasn’t preserved and then put it back on. The discs couldn’t be added back and re-preserved after he used them for this, but the backpack didn’t lose its status as his entrusted object just because he’d removed its contents. Very convenient.
+
+Mover discs looked like big silver hockey pucks. One side of them stuck onto the object you wanted to move and you used a remote control the size of a textbook to direct the things to levitate or shift in different directions. Bigger objects took more discs. The lab had hundreds of them, but they must have been unusually delicate because they were almost all dead. Kibby had looked up a manual for them on the television and done math and said Alden would need twenty-two to move the car.
+
+He had eighteen. It would have to be enough.
+
+He removed all the weight from the car he could, including the bodies. He did his best not to touch the vining grass that seemed like it might be in one of the chaos-spreading categories of demon things. He positioned the hockey pucks where he could, in places that looked the least damaged.
+
+When he got them all situated to his satisfaction, he started adjusting each individually with the remote control. It was fiddly, especially since the numbers on the display that showed lift angle, direction, and power were in Artonan. But he had practiced on stuff at the lab. He wasn’t so hopeless he couldn’t figure it out.
+
+Your human brain won’t perform the necessary functions.
+
+He snorted. Last month, he’d said his first English word in ages aloud by accident, and she’d acted shocked. She claimed she’d thought he was gradually sacrificing his native vocabulary to make room for Artonan.
+
+They’d had a talk about how lacking two streams of consciousness didn’t affect his memory storage.
+
+I hope she was just being funny-mean. I think she was.
+
+He finished setting each disc to move in the way he thought would be best, then he activated them. Popping, creaking sounds came from the car.
+
+Not working, Alden thought. He wasn’t surprised enough to feel even a little bit of disappointment. Well, it was worth a try.
+
+He jumped and stumbled back as the car righted itself with a thud that shook the ground.
+
+“Oh.” Alden stared at it. He looked down at the remote and switched the mover discs off.
+
+Now what?
+
+Kibby had been adamant that her father and sister would be completely gone. She’d said it in a way that made Alden think she didn’t want to deal with the bodies. So he wouldn’t try to take them along.
+
+He cleaned out the backseat thoroughly, trying to make sure there were as few horrible reminders there as possible. Not that the car itself wasn’t a huge one.
+
+Under a seat, he found the toy ryeh-b’t model Kibby’s sister had been holding when she died. He tried not to remember the little girl the way she’d looked that day, but he could. He always could when he thought about it. It was one of those memories that didn’t fade.
+
+One of the ryeh-b’t’s wings was gone now. Its scales weren’t looking so great. But it was still in the same poised-to-fly pose Alden had chosen for it six months ago.
+
+He held it gently on his palm, examining it through the night vision lenses.
+
+“I don’t know how we got to a place like this,” he said. “But at least we’re still somewhere, right?”
+
+He stuck it in the pocket of his failing lab coat. Kibby could have it if she changed her mind about mementos. Or he’d keep it himself.
+
+Ryeh-b’ts who held up against the chaos for this long deserved a trip to a better place.
+
+He climbed into the driver’s seat and buckled the harness.
+
+“You’re not actually going to go, are you?” he asked the car. “The ground is a mess out there. One more deepish bad patch like this one, and you’ll just give up again.”
+
+Kibby swore there wouldn’t be anything like a bottomless pit for them to fall into. Most of the soil would only cave a few inches, which the car could handle. The worst patches should be like the one that had caused this roll over. Just a two or three feet deep.
+
+But there would still be plenty of those. And one of the mover discs had died just from this flip. It had fallen onto the dirt before the car was even righted. Alden didn’t think the others were likely to give him another full lift.
+
+“Don’t you dare make me trust you for no reason,” he said to the car.
+
+Then he pushed the logogram for home. And they started rolling.

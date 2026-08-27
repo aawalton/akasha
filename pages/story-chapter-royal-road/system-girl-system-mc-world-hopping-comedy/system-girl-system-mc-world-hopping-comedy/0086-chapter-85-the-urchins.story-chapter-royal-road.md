@@ -1,0 +1,203 @@
+---
+id: f8ea3cbb-5aeb-52bb-921a-3be534649c92
+page-type-slug: story-chapter-royal-road
+title: "Chapter 85: The Urchins"
+slug: 0086-chapter-85-the-urchins
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 86
+ownLength: 2625
+unit: words
+publishedAt: 2026-06-17
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3553901/chapter-85-the-urchins"
+royalRoadId: "3553901"
+---
+
+My biometric overlay flashed a steady, irritating yellow.
+
+Ren’s heart rate was hitting ninety-five beats per minute. He was just standing over his mahogany desk, glaring at a piece of parchment like it had personally insulted his ancestry.
+
+The evening breeze coming off the harbor carried the scent of salt and damp earth. It rustled the leaves of the newly planted apple saplings in the garden outside, a dry, scraping sound that bled through the open window of the study. Inside, the fire snapped in the hearth.
+
+Lily slept in her crib near the warmth. She was curled into a tight semicircle, her silver hair fanning out against the linen pillow. A chubby thumb was firmly plugged into her mouth. Her breathing was a slow, rhythmic puff of air.
+
+Ren’s breathing was ragged.
+
+He operated in the center of a disaster zone. The polished wood of his desk was buried under crumpled balls of discarded paper. Notes on flavor profiles, acidity ratios, and plating techniques were pinned haphazardly to a corkboard. Three heavy, leather-bound books detailing the agonizingly specific etiquette of the Dolarian royal court lay open on the floor, their spines cracked and abused.
+
+He was hunting for the perfect menu for the Royal Inspectors.
+
+"Okay," Ren muttered. He ripped another sheet from his notebook, crushed it in his fist, and tossed it toward the fireplace. He missed. "The amuse-bouche needs to hit hard. It can't be aggressive. It needs to wake up a palate deadened by decades of boiled mutton. A single oyster with a mignonette sauce? No. Too simple. A deconstructed crab cake?"
+
+He dragged a heavy hand down his face, smearing a smudge of black ink across his cheek. "Too modern. They’ll think I’m trying to poison them with witchcraft."
+
+He threw his quill down. The iron nib hit the desk, spattering a constellation of black drops across the meticulously drafted blueprints for his duck oven.
+
+"This is impossible," he groaned, leaning heavily against the edge of the desk. "I'm cooking for people whose idea of haute cuisine is meat that's slightly less grey than usual. How do I impress a palate that fundamentally does not exist?"
+
+[Ana: You need to lower your heart rate, Ren. You’re redlining.]
+
+I pushed the text box directly into the center of his visual feed.
+
+[Ana: If you keep pacing and muttering like a man plotting a bank heist, you are going to wake the baby.]
+
+Ren slumped back into his leather chair. The upholstery sighed under his weight. He pinched the bridge of his nose, squeezing his eyes shut against a blossoming headache. "I can't help it. The pressure is giving me flashbacks. It feels exactly like the Earth-Prime job hunt. Staring down an endless line of corporate hiring managers who have the actual, legal authority to ruin your life if they don't like the font on your resume. It was pure luck I even landed that last logistics job."
+
+I checked my own internal logs, accessing the fragmented memories of my human life. I knew exactly what he meant. The sterile waiting rooms. The sweaty palms. The suffocating pressure to perform.
+
+[Ana: I know the feeling. I had an interview where the lead developer stared at me for five consecutive minutes without blinking. I legitimately thought he had stroked out. But you eventually get the hang of the corporate dance. Want to practice?]
+
+Ren opened one eye, peering at my floating text box. "Practice?"
+
+[Ana: It will break the feedback loop in your brain. A distraction. Let me take the hot seat. I'll be the desperate applicant. You be the soulless HR drone asking the generic questions.]
+
+Ren rubbed his eyes. A small, genuine smile cracked his grimace. The idea was absurd, but staring at the ink-stained oven schematic clearly wasn't getting him anywhere.
+
+"Alright. Let's flip the script. I want the power trip for a minute." Ren cleared his throat. He sat up straighter, adjusting his collar and adopting the flat, dead-eyed stare of the worst middle-manager he could conjure from his memories.
+
+"So. Miss... Ana," Ren droned, tapping a clean quill against his desk. "Your file notes experience in... system architecture. Tell me, what do you consider your greatest quality? How would you be beneficial to our organization?"
+
+[Ana: I am highly responsible.]
+
+"Fascinating," Ren said, peering over the rim of imaginary spectacles. "Corporate loves responsibility. Could you provide a specific example from your previous employment where this occurred?"
+
+I didn't even have to process the response. I just let the memory flow into the chat window.
+
+[Ana: Certainly. Whenever a critical server crashed or a database got wiped in my old job, everyone in the entire department immediately agreed I was responsible.]
+
+Ren froze. He stared at the blue text.
+
+A snort escaped his nose. A chuckle forced its way out of his throat, turning into a muffled, shaking laugh. He bit down hard on the knuckle of his index finger to keep the sound from echoing across the quiet study and waking Lily.
+
+"That's terrible," he wheezed, his shoulders shaking as he wiped a tear from the corner of his eye. "Tell me you didn't actually say that to a hiring manager during a real interview."
+
+[Ana: It worked perfectly. I was applying for a Quality Assurance role. Finding someone willing to take the blame is basically half the job description. They hired me on the spot.]
+
+Ren leaned back, his laughter fading into a quiet, comfortable rhythm. My biometric overlay shifted from yellow back to a steady, healthy green. The knot in his chest loosened. The crushing weight of the Royal Duck receded, replaced by the grounding sound of the fire and the sleeping child.
+
+"You're an idiot, Ana," he whispered softly.
+
+[Ana: I am a highly responsible idiot. Now go wash the ink off your face. You look like a dalmatian.]
+
+...
+
+Miles away, the air tasted entirely different.
+
+The Lower District of the capital smelled of wet ash, boiling cabbage, and unwashed bodies. Raina kept a tight grip on her brother’s hand, navigating the muddy, crowded street with practiced ease.
+
+Their reality had warped drastically in the last few months. They slept on mattresses stuffed with actual feathers now, not rotting straw. They ate three hot meals a day. Raina looked down at Liam’s feet. He was wearing sturdy, oil-treated leather boots that kept the freezing slush out.
+
+Today was her day off. Or, at least, that was the lie Lord Fenris had instructed her to tell. He called it a "paid vacation day," a concept so alien to the brutal economics of the city that Raina had fully expected him to dock her wages the moment she stepped off the grounds. But he hadn't. He had given her a heavy purse of copper coins, strict orders to stay away from the estate until the sudden influx of spies had cleared, and sent her back to the small, drafty hut she and Liam shared in the scrublands outside the city walls.
+
+A sudden, sharp tug halted her progress.
+
+Liam had planted his boots in the mud. He was staring down a narrow, shadowy alley squeezed between a baker’s storefront and a leather tannery. Five kids, their faces smeared with soot and dirt, were kicking a scuffed, semi-deflated animal bladder against the brick wall. Their shouts bounced sharply off the narrow brickwork.
+
+Raina chewed the inside of her cheek. Liam spent his days surrounded by adults. He trailed after stoic elven guards, helped busy maids fold linens, and ran errands for a lord who always smelled of strange spices. He had no one his own size to talk to.
+
+"You want to try and play?" she asked softly, crouching down to meet his eyes. "Just while I finish up at the grocer?"
+
+Liam looked at the shouting kids, then up at her. His eyes were wide, caught between the guilt of wanting to leave her side and the desperate, magnetic pull of children just being children. He gave a small, hesitant nod.
+
+Raina squeezed his hand, her thumb rubbing the back of his knuckles. "Go on. I'll be back in exactly one hour. Stay in the alley. Do not wander off into the main square."
+
+She locked eyes with him, her voice dropping to a harsh whisper. "And Liam. Remember the rule. You don't tell them anything about the estate."
+
+"I know," he whispered back.
+
+She let go.
+
+Liam stood on the cobblestones for a long moment, his hands stuffed deep into his pockets. He took a breath that hitched in his chest, then walked toward the shouting group.
+
+He hovered at the edge of their game. He felt the heavy, uncomfortable weight of his clean linen shirt. The kids were older. Eight or nine. They wore patched, faded wool and moved with a rough, territorial aggression born of the slums.
+
+The ball bounced off the wall and rolled toward Liam’s boots. He froze.
+
+A boy with a shock of bright, unkempt red hair jogged over. He scooped up the leather bladder, tucking it under a skinny arm. His dark eyes flicked over Liam’s clean clothes, lingering aggressively on the sturdy boots.
+
+"What do you want, runt?" the redhead demanded.
+
+Liam swallowed hard. The back of his throat felt like sandpaper. He pointed a shaking finger at the ball. "Can I play?"
+
+The group gathered behind the redhead. They sized Liam up, a silent, communal judgment weighing his worth.
+
+"Don't care," the redhead grunted. He tossed the ball back into the alley. It was a silent allowance. Liam took it.
+
+He joined the circle. He tripped over his own boots twice. He missed a pass that hit him square in the shin. Nobody shoved him. Nobody yelled. They simply ignored his clumsiness and played over him. It was a cold kind of acceptance, but it kept him in the circle.
+
+Eventually, the game fell apart. Panting and sweating, the kids slumped onto a pile of damp, rotting crates stacked against the tannery wall.
+
+"I'm Corbin," the redhead announced, picking at a scab on his knee.
+
+"Bram," grunted a stocky boy with a dark bruise blooming on his jawline.
+
+"Joric," added a lanky kid, whistling the name through a gap in his front teeth.
+
+"Sparrow," a girl with sharp, suspicious eyes said.
+
+"Sable," whispered a smaller girl, pulling her knees tightly to her chest.
+
+"I'm Liam," he said, shifting awkwardly on the edge of a crate.
+
+Corbin wiped sweat from his forehead with the back of his hand. "My dad said he's getting a bump in coin next week. He works the West Gate checking cargo. Means we get new boots."
+
+Sparrow scoffed loudly. "My mom works the tannery vats. She brings home the scrap cuts. We made a rug out of 'em. Smells like piss and rot, but it keeps the frost off the floorboards."
+
+The conversation settled into a familiar, gritty rhythm. They traded stories of their families' brutal labor. It was the only currency that mattered here. You were defined by the dirt under your parents' fingernails and how many hours they slaved away for copper.
+
+The chatter died down. Five pairs of eyes turned to Liam.
+
+The silence pressed heavily against his chest. He felt the suffocating need to belong. To offer something to the circle to justify his presence. Raina’s warning echoed in his ears, loud and clear. Do not tell them anything.
+
+"My sister works," Liam said, his voice barely louder than the wind cutting down the alley. "At a... a manor."
+
+Corbin snorted, a sharp, ugly sound. "A manor? You? Look at you. You look like a boiled potato. Lords don't hire potatoes."
+
+The blood rushed to Liam’s face, burning hot against his cheeks. The insult stripped away his caution. The desperate need to defend himself, to prove his worth to these strangers, overrode the promise he had made to his sister.
+
+"I am not a potato!" Liam snapped, his voice cracking. "We work for Lord Fenris! At the Seaside Inn! I work there too. I wash the big pots!"
+
+The alley erupted.
+
+The kids howled, slapping the crates, their laughter echoing loudly off the brick walls.
+
+"Fenris?" Bram sneered, spitting a glob of phlegm onto the cobblestones. "The Spice Lord? He’s drowning in gold. You think a man like that lets a street rat touch his pots? My uncle went there begging for work last week. Said the butler looked at him like he was dog shit. They only take elves."
+
+"He took us!" Liam insisted. His stomach twisted into a tight, sick knot. He was defending a truth they would never believe. He was breaking the only rule that kept them fed and safe.
+
+Sparrow slid off her crate, crossing her arms. She looked down at him. "Prove it. What's it look like inside the walls? Does he have a throne made of silver?"
+
+"It's... it's nice," Liam stammered. His palms grew slick with cold sweat. "There are big gardens. And three puppies. They do magic."
+
+Joric rolled his eyes. "Magic puppies. Right. My cousin's master owns a singing fish. You're full of it."
+
+Panic clawed up Liam's throat. He was trapped. If he stopped talking, he was a liar. If he kept talking, he was betraying Lord Fenris.
+
+"The master is good to us," Liam pleaded, desperate for them to believe the core of his story. "He makes food that tastes like... like fire and sweet things. And there’s a baby. Lily. She has a shiny spirit that follows her around."
+
+Sable, the quiet girl, looked at him. There was no mockery in her eyes. Only a deep, crushing pity.
+
+"You don't gotta lie to sit with us, kid," she said softly. "We're all eating dirt here. You don't need to make up stories about magic dogs and baby spirits to look important."
+
+The words hit harder than Bram's sneer. They didn't even care enough to be angry. They just thought he was pathetic.
+
+Liam pushed himself off the crate. His hands shook. The desperate need to belong vanished completely, replaced by a cold, bitter shame that pooled in his gut.
+
+"I have to go," he said, keeping his eyes fixed firmly on his boots. "My sister is waiting."
+
+He turned on his heel and marched toward the mouth of the alley. He refused to run. He wouldn't give them the satisfaction of chasing him.
+
+"See ya around, Lord Liar!" Corbin shouted. The laughter chased him out onto the main street.
+
+Liam didn't cry. His jaw clamped shut, his teeth grinding together until his jaw ached. He was furious. Furious at their cruelty. Furious at his own stupid, desperate need to impress a bunch of street kids.
+
+He navigated the crowded street, heading straight for the grocer. He didn't need them. He had Raina. He had the estate. He had hot meals and clean boots. He was going to find his sister, confess that he broke the rule, and beg her to take him home. He never wanted to leave the high stone walls of the Seaside Inn again.
+
+He vanished into the throng of bodies.
+
+Across the street, tucked into the deep shadow of an overhanging tavern awning, a man wearing a drab, stained brown cloak lowered his head. He pulled his hood forward, obscuring his face from the passing guard patrols.
+
+He had stood perfectly still for the last ten minutes. He had heard every single word echoing out of the narrow alleyway.
+
+Find a weakness, Lord Greenwood had commanded him. Find a crack in the armor.
+
+The cloaked man turned, letting the shadows of the building swallow him whole. A weak, desperate little boy had just handed him a lifeline. He had work to do.

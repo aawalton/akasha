@@ -1,0 +1,200 @@
+---
+id: 5f6c206d-ce83-58db-af7f-7e9d70196b89
+page-type-slug: story-chapter-royal-road
+title: "006 - Three Percent"
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 6
+ownLength: 1674
+unit: words
+publishedAt: 2026-05-01
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3340307/006-three-percent"
+royalRoadId: "3340307"
+---
+
+Jamie stood at the door between the pawn shop and the corridor, holding a baseball bat. He faced Lucy, who was still in the shop.
+
+"Did you try to beat up my devil guide with a baseball bat?" I asked.
+
+"Ah, uh, no. I wanted to ask you if you wanted something more satisfying to trash the inventory with. Sometimes when you need to blow off steam it helps to have that weight to your blows."
+
+"That's honestly very sweet of you, thank you. But this stupid place gave me the pep talk I needed."
+
+"Proud of you," Gabriel said. Her voice had softened from the hard edge Lucy had awoken in her. "Sorry, I had trouble reaching you in there."
+
+I pushed past Jamie and Lucy back into the room.
+
+"Apologies if I pushed you too hard, Eve. I do mean to assist in your survival. At least you got your first breakdown out of the way now. The next won't come as easy," Lucy said. If I wasn't convinced they were full of shit, I would have nearly bought the excuse.
+
+"You sure about that? Usually trauma doesn't actually make people harder. Just vulnerable in wonderful new ways."
+
+"Ah, but you see, now you get experience for all that shit. Eventually that'll harden you. If you ever make it to a sanctified space that is."
+
+"As soon as the bugs are gone. But first. You mentioned odds. You can't lie, so you have to know about them. Hit me with the odds for the next seven hours."
+
+Lucy exchanged a glance with Jamie and then the open air again.
+
+"You sure about that, kid? They are grim."
+
+"Hit me. I gotta know what I'm up against."
+
+"Gabriel, will you? I'm fairly certain you are better informed than I am. And know the odds of those in your protection."
+
+"Alright, Eve," Gabriel said. "Lucy is right. I'm well aware of the odds. One to three percent make it out of the first eight hours. One in ten of mine make it. You, though? You already leveled up twice in the first hour. That puts you at close to one in five."
+
+"And with two guides?"
+
+"Nearly fifty percent."
+
+"Eve?" Jamie asked. "How bad is it? How bad is it for me?"
+
+"You really want to stick with me, Jamie."
+
+"Come on. You got a hard number, right? I'm a big boy."
+
+"One to three percent. Though odds obviously constantly increase due to circumstances."
+
+"Fuck."
+
+"Yeah. Fuck."
+
+"Not too late for my offer, pretty boy," Lucy purred.
+
+Jamie glanced over at them, then back at me.
+
+"Do you think I should do it? Three is really grim."
+
+"Gabriel said you shouldn't. I… I don't know. Not a call I can make for you. But they themselves said it was good you didn't. If the bandwidth thing is true, you might get your Blessing any minute."
+
+His jaw tightened. "Or in seven hours." He looked at Lucy and back at me again. "Eve, why did they say you did nothing but cheat? Are you a con artist?"
+
+"Oh. Oh, no. I'm a hacker. But the internet is haunted—"
+
+"Possessed," Lucy interjected.
+
+"Possessed. Thus I'd say that profession is firmly dead."
+
+"Well. Guess we're both stuck with useless skills now." He nodded as if he'd made up his mind and faced Lucy. "I appreciate the offer, but I will decline again. I'll take that three percent shot over giving up now and accepting your offer."
+
+"And if it was free?" Lucy asked.
+
+"We both know that would only be a technical truth."
+
+"Fair point. No take-backs though. You say 'no' now and it's done."
+
+"No, thanks, Lucy."
+
+I had to admit, I would have taken the offer. Those numbers would have devastated me, and yet here he stood, calmly accepting his nearly inevitable fate.
+
+The 'Presence of the Damned' debuff in my UI flickered and then just vanished, along with the new bar.
+
+Lucy looked around and, considering their previously calm, controlled demeanor, seemed frantic.
+
+"Aww, really? Well, it's time to say my farewells, pretty boy. Hold onto that hope, it'll—" and mid-sentence they simply vanished, with the popping sound of rushing air.
+
+Along the walls the red demon-script curled up and away from the walls as if burned by invisible flame.
+
+"Huh," Gabriel said.
+
+"I think you just uncursed this place, Jamie," I said.
+
+"What does that—" Before he could finish, his eyes went unfocused and he slowly sank to the ground.
+
+"Jamie? Gabriel, what is going on?"
+
+"Give us a minute, Eve. I need to help out Jamie really quick."
+
+And with that Gabriel, too, was gone and I was alone in the no-longer profane pawn shop. I knelt down next to Jamie. His eyes were flickering under the eyelids, like he was experiencing REM sleep. Had his time come to get his Blessing? In retrospect it seemed obvious he wouldn't get one in profane space.
+
+The rain-like noise outside had died down, too. Before I could investigate Jamie opened his eyes again.
+
+"Learned kung-fu?" I asked.
+
+His eyes flickered over nothing, inspecting his new UI. "No. But sword-fighting?"
+
+"Paladin," Gabriel said. "You got a good package there. Hello, Jamie, I'm Gabriel, your temporary Guardian Angel."
+
+"Uh, Hi, Gabriel. Nice to finally hear you, too. You have a nice voice."
+
+"You doing double-duty now?" I felt that minuscule spark of anger, of betrayal. It was, of course, entirely irrational, but I was reminded of the thoughts this space had attributed to Gabriel, and a small part of me felt like she'd given up on me for someone more suited.
+
+"Yes, Heaven has enabled an older way to achieve the Blessing, where people get rewarded for fulfilling certain tasks. This is to avoid the congestion caused by Hell's tampering. But since I was nearby Jamie got assigned to me, too."
+
+I straightened back up and held out a hand to help Jamie up.
+
+"A shotgun-wielding, lock-picking, Paladin, huh?"
+
+"No. I think I need to stop the shotgunning now. There is a bright red warning that I'm carrying a weapon that's incompatible with my Code of Honor and I would be penalized for wielding it."
+
+My gaze fell on an object behind him, in a showcase.
+
+"Well, ain't you God's most fortunate soldier?"
+
+He turned around, following my gaze. "Oh, hell no. That thing is probably dull and aluminum anyway."
+
+"It says it's four-hundred bucks. I think it's real."
+
+"If you are going to take that," Gabriel chimed in, "you should be the one to break the glass, Eve."
+
+"He can't plunder in the Apocalypse?"
+
+"I'm not entirely sure, yet. Better safe than sorry."
+
+"You think I should actually use that, Gabriel?" Jamie asked.
+
+"Certainly. You started out with some levels in swordfighting and it's a skill with accelerated progression for you, too."
+
+"I'll look really silly though."
+
+I lifted the baseball bat and pulled Jamie away from the glass case. "I assure you, not as silly as a demon-slaying golden retriever."
+
+I shattered the glass and carefully pulled out the weapon, unsheathing it to look at its edge. It had that shimmer to it, which the internet convinced me meant folded steel.
+
+"Looks like steel to me," I said, as I handed Jamie the katana.
+
+"For fuck's sake."
+
+He took it into both hands and took a fighting stance. "I've never held a sword in my life. But this feels like the most normal thing in the world."
+
+"How come he gets to have skills and I don't?"
+
+"You'll ultimately be a lot more flexible. The Paladin comes with a bunch of immediate benefits, and some notable restrictions. Not everyone can take it in the first place and then you have to stick to the rules to have access to its abilities."
+
+"Chastity is not one of the rules, by the way." It was Lucy's voice, now directly in my head, like Gabriel's. "Still with you, Eve. Just the golden boy can't hear me."
+
+I sighed.
+
+"I'm with you till the end, babe. For better or worse. I'll tell the Wyrm not to crash a car into you."
+
+"Can one get rid of a Devil guide?" I asked.
+
+Jamie glanced at me but didn't comment.
+
+"Not after you touched profane ground. Besides that one cheat they get, you can completely ignore them though," Gabriel replied.
+
+"But he touched it, too?"
+
+This time Lucy answered. "I came for you, my dearest. My offer to him was just to give you a leg up. Did you know your ex took a gift we offered? Right from the get-go. She's a smart cookie, isn't she? And she figured it would be worth the price tag. Something to consider when I make you an offer."
+
+Claire made a deal with the devil. Of course she did. When one is used to being the smartest person in the room, you think you can out-trick the trickster. And she'd be convinced it was the right choice, too.
+
+She's the type of person for whom the trolley problem wasn't a 'problem'. It was just people being bad at math.
+
+"Time for you two to head out there. You really need to find a sanctified space and get ready for tomorrow and the next wave of Hell's assault."
+
+The bugs' assault had fully died down. The profanity was probably their 'target marker'.
+
+"Will you go back to being a dog?" Jamie asked.
+
+"Can't. Out of charges until midnight."
+
+That gave him pause. "Thanks for saving me earlier. I should have said so already, but it's been a lot. I'm not sure I would have had the presence of mind to dodge that swarm. Or to properly fix that place on my own."
+
+I couldn't help but smile. "Anytime. Now you can protect me while we look for that safe space."
+
+Jamie opened the door for me. "After you, milady."
+
+"Hamming it up, are you?"
+
+"My code is literally called a code of chivalry."
+
+I shook my head and left the pawn shop behind.

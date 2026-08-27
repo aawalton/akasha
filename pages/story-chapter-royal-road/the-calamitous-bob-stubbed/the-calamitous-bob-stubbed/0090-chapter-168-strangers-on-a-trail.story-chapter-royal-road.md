@@ -1,0 +1,393 @@
+---
+id: abca1b72-e714-5317-97be-5fc06c444eec
+page-type-slug: story-chapter-royal-road
+title: "Chapter 168: Strangers on a Trail"
+slug: 0090-chapter-168-strangers-on-a-trail
+partOf: the-calamitous-bob-stubbed
+position: 90
+ownLength: 5623
+unit: words
+ownProgress: 5623
+publishedAt: 2024-06-14
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1676808/chapter-168-strangers-on-a-trail"
+royalRoadId: "1676808"
+markedReadAt: "2026-06-29T21:17:53.773Z"
+---
+
+Viv felt very much like her young self sitting before her high school principal the day after the soap incident. As in, when she’d beaten someone in the changing room with a bar of soap wrapped in a nylon sock. She’d been terrified, because she thought the police might be involved. It might be even worse this time.
+
+Sangor sat by her side in a state of apparent relaxation, though there was something very contained about his posture that evoked the calm before the storm. Maybe it was his impeccable doublet, maybe it was the bloodshot eyes, or maybe it was the fact his scarred fist clenched and unclenched like a beating heart or like a sword half-drawn. He made no effort to hold back his tremendous aura. As the undisputed king of one of the major powers of the continent, one who’d gained that right through blood and guile, his presence weighed with an intensity that bordered on the physical. Only Viv’s own achievements protected her soul from its dominating presence. In front of them, the High Priest of Maranor glared.
+
+Except for the three of them, the room was empty.
+
+“Thank you for agreeing to see me,” the high priest said.
+
+He was the same one who officiated the summit. Viv didn’t expect him to act so soon or so brazenly. Actually, this was a private meeting so maybe nothing was out yet. He could just be fishing. The thing was, Sangor looked like he was ready to bite the hook, the line, and also the fishing boat for good measure.
+
+“I have called you here because a mysterious incident happened last night. Someone disappeared from the heart of our temple, without trace and this despite fully intact wards. Evidence points towards outsiders breaking in, very well prepared outsiders. Of course, this is a blasphemous act of unprecedented proportions that should horrify everyone. Someone clearly has no fear of the Goddess of Order and her clergy. A terrible development…”
+
+The unspoken accusation hung in the air between them.
+
+“I am sure you see where I am going with this.”
+
+“No,” Sangor said. “I do not. Please tell me how this… break-in relates to me?”
+
+“A person is missing. Your son Gil.”
+
+“Are you telling me that my son has been kidnapped?”
+
+The high priest briefly mulled over his options. He looked increasingly furious to the extent that his forehead was turning a nice shade of tulip.  It was clearly not going the way he expected, Viv thought.
+
+“Because if he was kidnapped, I would like to know why the city is not in an uproar at the disappearance of the heir to the kingdom of Enoria. One would think this would be considered a priority, would you not?”
+
+Viv thought the only thing missing was a ball of energy crackling over the table where the two glares met.
+
+“It could be that Prince Gil has been duped by outsider agents claiming to act for someone he knew. There are few outsider agents capable of such an incredible feat, however, though I read reports that a bank in Helock was breached with a similar, mysterious group of peerless capabilities, a group famous for having disabled their golem so thoroughly that it went missing. Our own golems were shut with unusual means that betray a great understanding of their functions. That bank heist also served to undermine Archmage Elunath as part of an ongoing feud with… was it not you, Empress Viviane?”
+
+Said empress was doing her best to melt into the background. Sadly, the back of her chair remained entirely too solid. It wasn’t that she was afraid of the high priest.
+
+She was afraid of Sangor’s reaction to that high priest.
+
+“Let’s go back to my son,” the Enorian said between gritted teeth. “You said he was, what, kidnapped?”
+
+“It seems possible.”
+
+“How can you tell he is not merely in someone’s bed sporting a hangover as people his age tend to do? After all, yesterday was a day of celebration in Mornyr, with the summit in full swing? Is there a reason why you would think him abducted?”
+
+“The servants of Maranor do not overstay parties because they drank themselves under the table, King Sangor.”
+
+“Ah, but youth, you know how wild they can become. Is there, say, a specific, a VERY specific reason as to why my son could not leave that would explain your certainty?”
+
+Sangor leaned forward over the counter, hands balled into fists upon which he pretended to rest his head. If this was a bar, Viv would have picked her handbag and fucked off before the chairs started flying.
+
+“He is a young man of extraordinary faith.”
+
+“Is that so?”
+
+Sangor reached for his breast pocket, slowly removing one of the letters Gil had sent him. Viv recognized the paper as the one he’d shown her during their secret meeting at the border, the one where bold letters formed a message asking for rescue. Surely, the temple didn’t leave its best paper to its apprentice but only one thing could explain the ratty, cracked appearance of the missive. Someone’s nervous and constant attention. Sangor had read his son’s cry for help a hundred times, a thousand times. His fingers had held this lifeline with the powerless intensity of a deprived father and now, he delicately placed the open piece of paper in front of the priest with the slow motion of someone who didn’t dare go quickly lest they lose control over their emotions.
+
+“Got a message here. From him. Long ago. Now, some of those letters, those. Those. That one too, you see? Yeah, that one as well. They form a cry for help. See? So perhaps, just perhaps, I am being fearful with no cause. But perhaps he was also held in a secure facility as a, haha, HOSTAGE. Now that would be hilarious, right?”
+
+“What a shocking assumption, King Sangor.”
+
+“I admit that when spoken like this, it appears unthinkable. Who in their right mind would think they could control a kingdom by kidnapping the king’s only son, denying them even a visitation and believe, how unthinkable, that they could get away with it?”
+
+The table groaned under Sangor’s fingers. Incidentally, that table was made of stone.
+
+“Because that would be insane. Yeah. Mad. Dangerously so. Now, I am sure my son is fine and that he will eventually resurface, probably somewhere south of here, perhaps closer to Enoria. Let us say he would be taking a break from his knightly duties. Perhaps it could happen. Of course, you could cling to the belief that he was kidnapped but then perhaps my son would hold a different opinion and I, as his father, would perhaps be tempted to resort to… drastic measures. You know. The hostile, retaliatory kind.”
+
+“That would be dangerous for Enoria.”
+
+“Maybe so. Maybe so… and maybe I don’t give a single flaccid fuck.”
+
+Viv didn’t think she’d seen someone so angry since she verbally lashed Octas’ avatar and that woman had been unhinged. Right now, Sangor was another kind of angry, the ‘send ships across the Aegean’ kind of angry.
+
+“Guess we’ll figure out what you choose. Now I’m going to get out and take a breath before I do something we both regret. Let me know what you decide. Oh, and just in case you believe I should extend my stay? I left instructions with my paramour and if you think I’m being unreasonable, you really don’t want to meet her. Witches, you know? A good day to you.”
+
+The smoldering volcano of Sangor’s presence radiated like an angry sun as he moved around the table, his footsteps strangely loud in the oppressive silence.
+
+Viv was left in her seat alone with the High Priest and the vein pulsating on his forehead. She slapped her lap.
+
+“Well! This has been fun and all.”
+
+“You play a very dangerous game, outlander. And to think I believed you when you came, garbed in protocol and decorum with your heroic declamations, but it was just a ploy to have me lower my guard. Once a revolutionary witch, always a revolutionary witch is it?”
+
+“There is no need for name calling. You know why you’re really mad, and it’s not because of me. As for decorum…”
+
+She shrugged.
+
+“I didn’t break it. I’m merely playing the same game as everyone else. You just didn’t expect me to have such a good hand.”
+
+Viv stood up, making her way out.
+
+“I’m already pledged to Neriad after all. One cannot be friends with everyone these days. Just remember… your side started it. See you at the summit.”
+
+Viv followed after Sangor, though she was much less deliberate about it.
+
+Left alone, The High Priest simmered in his resentment. Anger and outrage warred with shame and a deep sense of having failed his duties, his faith, and his goddess. He turned to a secondary set of doors. A minute later, it opened, letting in a woman in a dark robe, the hooded symbol of Enttiku the only visible ornament.
+
+“Mornyr’s sanctity has been defiled,” the high priest said.
+
+“You called this upon yourself. This sanctity depends on our neutrality and our sense of ethics, something your kind has had difficulties with for the past century.”
+
+“Do not presume to lecture me, you old crone. I do this for Param.”
+
+“Sometimes, people bind their essence to a cause to such an extent they end up seeing their own wellbeing as serving that cause. Such people tend to take shortcuts.”
+
+“I did not call you here for a lecture. I request surveillance on the King of Enoria on suspicion of burglary.”
+
+“Is that so? What was stolen, besides your dignity?”
+
+“Breaking. And. Entering,” the high priest forced out of his clenched jaw.
+
+“Better. My guards will keep an eye on the young fox, if you insist. We will report what we see but we will not intervene unless we find evidence of a crime having been committed.”
+
+The message hung between them. A father reuniting with his child was not a crime.
+
+“Report it to me and I will handle the rest.”
+
+“Be careful of what you try. Mornyr may never have fallen but some of its leaders have.”
+
+“And of the girl as well.”
+
+A susurrus sound escaped from the hooded form. It might have been a very quiet chuckle.
+
+“If you wish. Goodbye dear. Try not to let it get to your head.”
+
+The woman left with the second half of the sentence left unsaid but the high priest could taste it in the eddies of her soul. It was something along the line of ‘or you might lose it’.
+
+***
+
+Param had no meddling kids, so Viv had gotten away with it! Again! She had honestly thought she would not even be suspected but she was being naive. The law, or indeed figures of authority here didn’t need proof to make accusations. There was only one person both stupid and competent enough to reverse heist Gil and that was her. Period. The only good thing was that the high priest had zero proof so he couldn’t exactly put her on trial or send the rest of the temple after her, so he had to just sit down and take the loss. She suspected the other leaders didn’t much like his machinations. That didn’t help with the sensation of having Maranor’s fury hanging over her neck by a thread, ready to fall at the first mistake.
+
+“Say, Solfis,” she said after returning to the manor that night.
+
+//Your Majesty.
+
+“You’re pretty fast, hmm?”
+
+//I believe this has been proven beyond the shadow of a doubt.
+
+“And you have a perfect memory.”
+
+//As provided by the superior form of the machine.
+
+“So you left the fucking buckets on the golem’s head on purpose.”
+
+There was no embarrassment module in Solfis’ programming. Viv thought it was unfair.
+
+//Sometimes, one must make a point.
+
+“And that point is that we’re mocking our very powerful enemy for no purpose? Is that it? They would have searched longer if it wasn’t obvious there were intruders in!”
+
+//The point was not that.
+
+“What then?”
+
+//The point was that the entities those pathetic, half-brained dimwits at the local college of magic call golems are but poorly designed parodies of what a true golem should be.
+
+//They are oversized toys designed by deluded buffoons who are too stupid to even realize the extent of their own mediocrity.
+
+//Their programming is a joke rolled in a travesty.
+
+//If my creator Irlefen were alive, the arrogant, decerebrated meatbags who made them would not be trusted with a mop and bucket of soapy water.
+
+“Solfis. Did you leave the buckets because those pieces of shit being called the same term as you made you extra salty?.”
+
+//Those are not golems.
+
+//Those are pathetic automatons.
+
+“I didn’t call them that, I just want to know if you left the buckets out of anger, thus endangering all of us.”
+
+//…
+
+“I’m waiting.”
+
+//It also served to intimidate our adversaries.
+
+“You’re banned from attending the next heist.”
+
+//That would be suboptimal, Your Majesty.
+
+“I can’t believe you just tagged us as the culprits for your own amusement!”
+
+//Irao thought it was funny as well.
+
+The nearby window opened and shut as a so far invisible shadow slipped out to avoid some unwanted attention.
+
+“I’m surrounded by idiots.”
+
+***
+
+“I suppose this concludes our discussion,” King Erezak of Baran said with a smile that didn’t reach his eyes.
+
+Viv nodded then stood from the table, the few documents signed and ready.
+
+“Then I bid you a good day.”
+
+Although the voice was soft and devoid of emotion, the meaning couldn’t have been more clear. Viv wasn’t offered small talk or refreshments. In diplomatic terms, this was almost an insult. The king had made it abundantly obvious that he didn’t want to connect with her any more than necessary beyond the need for an agreement on the portal network.
+
+Viv had burned the Baranese bridge by allying with Enoria. Oh, it wasn’t definitive or even that bad. Erezak expected her to be a thorn in Enoria’s flank and now that it was obvious she wouldn’t be that, he had no more use for her. A part of her resented that he would be so blunt after she defended his lands as members of the alliance but this was a world of harsh politics and honor didn’t always rule over self-interest. That was fine. Viv accepted that possibility when she decided to help Sangor. In this place, being someone’s friend would turn you into someone else’s enemy. This was the way mentalities worked and there was little she could do to change that.
+
+***
+
+Viv had a problem. She needed to save the Zazas ruling couple from the Pure League ambush, but attacking the Pure League directly could lead to complications, especially if they saw her coming.
+
+Sangor had another problem. He needed to get his son safely to Enoria while under constant surveillance from agents and his entourage couldn’t avoid their watchful gaze.
+
+Fortunately, Viv had an idea.
+
+***
+
+Dust and horse sweat. It smelled like dust and horse sweat. The Sister of Enttiku focused for an instant and her robe, now dark green and mottled, turned a pale gold stained with orange spots. She stepped slowly out of the forest and into the light of the harvested field. To her right, the tail of the Enorian convoy rolled away in a cloud of suspended soil. Only cereal stalks remained in front of her on the cracked, dry ground. Her two sisters stepped out by her side and they slowly made their way across the empty field.
+
+Following without being seen was exhausting. Doing so against a prepared and well-trained opponent doubly so. Against a moving opponent during daylight made this mission a chore like no other. She’d rather be slitting cultist throats in a putrid marsh. Her eyes searched the edge of the nearest patch of wood for hostile entities and found none, only a couple of young fang boars sleeping away the midday heat. She hurried. Soon, blessed shadow covered her form again and her hood returned to its forest camouflage. A sister made to climb trees but the woman stopped her.
+
+She pointed at her ears, then forward, then made a series of complicated gestures. Combat, ahead, half a league or less, not the target. If not the Enorian convoy, then who? The Helockian convoy? Zazas? Probably Zazas. She made the sign to accelerate. The trio of Enttiku elites rushed forward under the quiet canopy. Sweat made the woman’s armor clingy and uncomfortable but she didn’t slow down. Her hearing picked up the sound of people dying and she wasn’t the only one. Just ahead of her, the knights of the Enorian convoy charged forward. The woman peered from behind low bushes towards the series of carriages.
+
+The central one stood empty, door ajar. An old servant was shaking his head while folding an elaborate doublet.
+
+The king of Enoria was missing.
+
+He’d charged to the rescue with his knights.
+
+If the king died here protecting Zazas at the edge of Mornyr territory… The woman made another series of hurried signs and the trio burst out of the underbush, all attempts at stealth discarded. There were a few cries from the convoy’s infantry and archers but a domineering voice stopped them.
+
+“Those are Sisters of Enttiku you dumbasses. No shooting. And keep your damn eyes peeled!”
+
+The three women rushed ahead towards a true forest this time. It marked the border between Mornyr and a minor city. The clang of weapons and screams of the wounded became more intense. Trunks and thick brambles barely hampered them. The damp cloth on the woman’s back was forgotten now that she could feel the cold of the grave covering her skin. Death waited ahead. The anguish of departing souls whispered in her ears, guiding her deeper into the thicket. Suddenly, she heard a whistling sound, a little to her left, while the majority of the battle happened ahead and to her right. She pointed in the direction and the trio glided through the harshest terrain as if it were not there, jumping over roots and using trunks to propel themselves. The woman could feel the souls in front of her as a tendril of energy touched them, recognizing they had killed someone. Marking them with the result of their choices. One last tree and she was among them.
+
+They reacted very quickly.
+
+The woman took in her surroundings in an instant. A battle to her right, near the road. A line of four archers using solid short bows, uniformly made, good quality. Nondescript clothes of average make you would find on traveling merchants. Dark skin. Empty expressions, brown eyes looking at her with detachment. Confident motions. A short sword going for her belly. She knew that technique: a standard disabling strike taught in Luten, useful against unarmored opponents. Good as an opener. She parried and stabbed with her other hand. Her dagger met another dagger and the fighters disengaged Already, three bows were swiveling towards her. She was exposed. She was obvious.
+
+Her sisters were not.
+
+Throwing daggers whistled through the air. Impossibly, one of the enemies dodged though the other was just a hair too slow. The black weapon sliced a thin bloody line along his exposed cheek. The foe’s eyes glazed over.
+
+In her soul sense, the woman saw the fingers of her goddess scoop out the marked soul like one plucks a cherry. As the body fell, the intact white orb sailed away to the in between, shedding a trail of misery behind. His own and that of his victims. Back in the real world, a fierce battle was joined. The archers discarded their bow and closed the distance in a flurry of blades. The woman winced when one of her sister was wounded but soon, the three survivors disengaged in a puff of shadow magic. She felt their souls sprinting away in the distance, splitting almost immediately. Her wounded sister took out a vial from a breast pocket which she imbibed immediately. There was no need to wonder what the poison was. After all, dark blades were nothing if not reliable.
+
+This time, The Pure League had really gone too far.
+
+The trio turned to the road battle but it was already over. The woman spotted dead soldiers with javelins and chainmail along with a few dark blades skewered where they stood. The Enorian cavalry turned after their king as he swept the field with a massive spear bearing the blue flag of his nation. The dark blades had not waited to face him. The last of them puffed away in clouds of darkness, teleporting to safety. She let them.
+
+Kneeling by the nearby body, she pulled his hood back to reveal a scar near his neck. A symbol, burned away with a hot blade. A renegade, or a pariah. It would be enough for Luten to deny all involvement but that didn’t matter. The Pure League had just tried to assassinate the rulers of Zazas right outside of the boundaries of Mornyr. Her mistress must be informed.
+
+The woman watched the wounded being carried to safety. Her decision was made. For the first time in hours, she spoke.
+
+“The church must be informed. I am bringing an end to this operation. It is clear that if Prince Gil is to meet with the king, it will not happen here or soon. We will share our spare antidotes with the Zazas convoy then head back. This was a fool’s errand anyway.”
+
+***
+
+The two sisters paused at the edge of the docks, far enough not to be detected by the witch’s bone abomination. This was one of the most tedious missions they’d ever done, not because of opposing forces but because they needed to stay close enough to look for anomalies while far enough to avoid the guardian’s ceaseless scrutiny. Direct line of sight would spell their doom for the golem never blinked. Their only saving grace was its low autonomy. As the mistress had surmised, the thing was massively mana-intensive. It had not deployed once since the witch’s departure. It allowed the sisters to identify the dangerous zones as the caravan plodded on.
+
+Now, the convoy had finally reached the Shal river and they were making ready to cross. The mistress had left the duration of the operation to the sisters’ discretion. Surely, this was far enough away? There had been no new arrivals, no suspicious departures. If the witch was planning something, it would have already happened. Right? They had already left Mornyr’s territory anyway.
+
+The left sister raised her fist, and they had a signed conversation. The left sister suggested they returned. The right sister agreed but wanted to wait until the witch had boarded, just in case.
+
+The left sister signed that the golem might spot them as it searched the ship for threats.
+
+The middle fist said it wouldn’t matter.
+
+The two sisters froze.
+
+They looked up from the pale hand signing with them, up a black-clad arm and right to a mask covering a full face except for soot-stained skin around the yellow eyes of a hadal.
+
+The mask was painted with an exaggerated expression, and that expression could only be described as insufferably smug.
+
+The sisters decided that, perhaps, it was better to leave now. They turned around. The left sister still took one last look at him, fully expecting him to be already gone.
+
+Instead, he was still standing there but wearing a different mask.
+
+This one was winking.
+
+***
+
+On the other side of the Shal river, Viv walked to a secluded spot under the watchful gaze of her guards. It was only a matter of minutes to open a portal to a secret spot in the depths of Mornyr. Gil walked out while holding a half-devoured poultry leg, spice crusting the golden skin.
+
+“This is so good!” he said.
+
+“I see you’re making up for years of being subjected to solely frugal cuisine.”
+
+“Where’s dad?”
+
+“We’re going to wait for him here. Allow me to be the first to welcome you to Enoria, Prince Gil.”
+
+“Nice. Can I have some wine?”
+
+“No.”
+
+“Are you sure you can refuse me?” he asked with a cocky smile. “I’m the Prince of Enoria!”
+
+But Viv only returned an even broader smile. It spread a sinister aura across the empty clearing, with the heavies standing as silent steel gargoyles in the background..
+
+“Are you sure that’s the reason you want to pick to convince me, young man? Being a prince? Of Enoria? Really really sure?”
+
+“Never mind.”
+
+“Wait for your dad to start drinking.”
+
+“You are not a fun person.”
+
+//I FORMALLY DISAGREE.
+
+***
+
+Sangor had a party back at the official Enorian capital of Three Rivers, the site of the previous siege of the loyalist faction, and Viv was pretty much forced to attend. To add insult to injury, Sangor invited the clergy of Maranor to officiate the ceremony that made Gil the official heir in exchange for concessions. Gil would finish his knight formation with their temple locally, and the church would let go of the humiliation they’d suffered. Viv had entertained the idea that Sangor would just kick them out on their asses but that was naive. One could not simply oust a religion overnight. It was clear, however, that a rift had formed and Sardanal’s priests soon arrived from the portal system to offer an alternative to the church of order. Viv would take it.
+
+Her return to Harrak was triumphant because no one had died this time and the profits from trade were flowing in. With the portal network operational over Enoria and access to Baran as well, Harrak’s metal, rare mushrooms, and black mana rations were extremely popular among mercenaries, guards, and armies. In return, a stream of goods had flooded the market, the most popular being new kinds of crops. The Harrakan fortified villages were planting things and seeing what stuck. So far, they had the most success with crops that preferred dry weather for obvious reasons. Irrigation remained an issue, with rain also less abundant than it should be. Lana had helped with deep wells but that was still a stopgap measure. Unfortunately, the weather would remain dry until the deadlands were pushed back farther but Viv had one recourse, something that would help.
+
+“Trees?” Lana asked.
+
+“Well, not just trees. Hedges, terraces… We’re receiving very little moisture and whatever rain we get can quickly erode the soil. We can’t just plant things and expect to get the Old Empire environment. We need to adapt what we grow to the current circumstances, that’s why we need to do our best to promote soil conservation.”
+
+And the newly arrived priests of Sardanal would help. It seemed that after Neriad, they would be next to take on the fight to restore the deadlands. They immediately loved the ideas Viv shared.
+
+“There was a similar event called the Dust Bowl in one of my world’s nations. Essentially, intensive agriculture destroyed deep rooted grass over large plains. Deep roots keep the soil in place and capture moisture. Without it, the wind can create massive dust storms that lead to widespread devastation, not to mention the drought,” she told them.
+
+“And you have a solution?”
+
+“Well, I remember what I read in geography class. Here, let me explain.”
+
+Viv expected farmers to complain about her new measures but she underestimated the reputation she had for good ideas and the pyramidal structure of Nyil society. For most people, they were just implementing a mysterious outlander plan to make the land even more fertile, and, actually, they were right. It also helped that Solfis identified native species that would work very well for this purpose and also eagerly distributed rose seeds, leading to nice hedges decorated with colorful flowers and the odd blue roses. The first blooms matured right in time for the next big event.
+
+The celebration for the harvest festival was massive. The Blue Rose dueling ground was especially popular, with Viv having organized ‘friendly’ bouts in full protective gear between neighbors and family with no penalties. People handled grudges through the cathartic medium of beating the shit out of each other and then going for a drink. The female-only slapping competition was a hit as well. Viv was happy to see that the mood was good and a little wild. The Harrakans were trying stuff ranging from new embroidery techniques as remembered by Solfis to northern music. The festivities even included the kark, the yries, and even masked hadals performing tricks and sneaking naughty messages in people’s pockets while they were distracted. All in all, Viv had a blast.
+
+The festive mood continued over the next day with the induction of a new class of recruits for the various companies, this one picked directly from the beastling war games’ deadliest winners. It had apparently gotten so bad that the hadal hunters had to ferry the teenagers deeper in the forest because they’d successfully depleted the local population.
+
+The local beastlings had been exterminated.
+
+Oh, they would come back, but in the meanwhile the Harrakans had achieved something no one really thought possible. The recruits already had skills and beginner paths to serve them. Even Solfis called the little psychopaths ‘a promising lot’, perhaps due to their tendencies to collect trophies. Like before, Viv couldn’t really afford to pay all of them despite an exploding budget so they would be pillaging the deadlands for all it contained. Even the local young adults had now taken revenant hunting as a pastime, though there was little slaying and a lot of drinking.
+
+In the following months, Viv got busy spreading and then maintaining the portal network over the places she had agreed to cover. Building the portals only took a little bit of time. It was the traveling that was the most time-consuming, especially on the two occasions a portal array was destroyed. Harrak was spared most of the upheaval that came with the fall of several caravan guilds, with traffic drastically reduced between large cities. Although many blamed her for the crisis, no one dared attack Viv directly. She happily left the task of managing the rebels to local authorities. She returned during fall to prepare for the island trip to face Octas. There were two more good surprises waiting.
+
+First, Lady Azar had finally gathered enough people who intensely disliked farming enough to accept less fertile plots of land near the mine to start factories. Although they didn’t actually embrace mass production, some of the more systematic methods Viv had suggested were still accepted including specialization and production lines. It helped that the crafters accepted to be in large buildings built specifically for production rather than successions of smaller ones organically sprouting all over a city. The first cheap steel farming tools were soon out, though they would only be useful next year. Nails, needles, and other miscellaneous items soon followed. Viv was feeling good about it when she was contacted by Lak-Tak.
+
+“We want to show you what we have done,” he said while Viv was visiting the yries caves.
+
+“Hmm?”
+
+“We have done this mass production thing. Humans are cunning, yes. The machines to make machines are already at work. I used my free time to design the next platform.”
+
+“Oh, I didn’t expect that.”
+
+“We work well.”
+
+The owl-like being dragged her to a hangar under the fearful gazes of some of his compatriots. They were more scared of him than they were of the elemental witch in their midst.
+
+The hangar housed a new breed of tanks.
+
+While the previous platforms were clearly repurposed drilling machines with a flat, modular surface on top, this one was a massive armored beast with six wheels and actual plates to protect the crew. Viv judged only an artillery spell would make a dent in that thing as even Enorian snipers wouldn’t go through that much steel. It looked like the gothic unholy child between a steam locomotive and a modern armored personnel carrier. Even the crossbows started as hunting tools so Viv believed she was standing in front of the very first yries creation specifically designed to kill people.
+
+“I will name it after you.”
+
+“What, like, Viv?”
+
+“No. This is the Liberator. It only needs a weapon.”
+
+Viv felt fear crawl up her spine. This was it. The moment to decide.
+
+“You know of weapons. Tell me of weapons.”
+
+“This will take time and require intensive testing.”
+
+“I am ready.”
+
+“I know you are. I’m just not sure Nyil is.”
+
+“If we are ready, and it is not. Then it will burn.”
+
+“Sometimes you scare me, my little friend.”
+
+“Good.”
+
+***
+
+Viv had done all she could to make sure Harrak would thrive while she was away. Now the time had come to prepare for the confrontation with Octas, starting with extensive planning. A quick calculation confirmed that no portals could reach the island. It was simply too far from the shore of the continent and the energy required to activate it would be prohibitively expensive. That didn’t mean that her nation couldn’t help. She explained her plan to the clergy of Neriad, Enttiku and Sardanal during a secret conference.
+
+They didn’t seem too pleased.
+
+“The only reason I assent to this insanity is because my god appeared to me in a dream asking me to comply,” the new bishop said.
+
+“Excellent! Construction starts immediately.”

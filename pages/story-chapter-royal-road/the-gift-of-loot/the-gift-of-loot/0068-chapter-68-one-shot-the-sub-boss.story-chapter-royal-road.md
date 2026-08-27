@@ -1,0 +1,231 @@
+---
+id: 7aa52b18-581e-592e-81c8-9b96f8761a06
+page-type-slug: story-chapter-royal-road
+title: "Chapter 68: One Shot The Sub-Boss"
+slug: 0068-chapter-68-one-shot-the-sub-boss
+partOf: the-gift-of-loot
+position: 68
+ownLength: 2716
+unit: words
+publishedAt: 2026-08-14
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3814428/chapter-68-one-shot-the-sub-boss"
+royalRoadId: "3814428"
+---
+
+Thomas knelt over the fallen, backstabbing dagger. It was firmly dead, and the loot it had dropped was much larger than itself. That made no sense, but really, neither did the concept of loot drops as a whole.
+
+Anyway, it had dropped a gunmetal gray shield, round, and maybe two feet across. He grinned as he picked it up. Finally, he had some armor.
+
+The System labeled it as: Mutable Shield
+
+"Oh, that's new," Zach said, drifting over to admire the shield. "I wonder if it's going to drop a cape next."
+
+"Let me guess," Thomas said with a grin, "you know how to use one of these?" Zach seemed like he knew how to use every single weapon, probably courtesy of his messed-up childhood.
+
+"Yeah," Zach said, "but I've never been much of a shield guy."
+
+Curiously, Thomas hooked his left arm into the leather straps on the back and tightened them. As he did, he felt a small tug deep in his mana core. He would have flung the shield off in alarm, except that the straps were tight and the tug didn't feel bad.
+
+"Then I think there is an enchantment–" he started to say, and stopped as the gunmetal gray surface rippled and color started bleeding into it. Thomas took an involuntary step back as the shield went from plain gray to a warm, rose-gold, which was not quite skin tone, but it was veined through with blazing white light.
+
+Zach leaned in for a closer look. "Whoa. That's your mana, dude."
+
+It wasn't the most manly of colorations, but it was strong and it was his, and... he didn't hate it. The dominant color came from the Healing mana, but with bright Wellspring right underneath as the ultimate support. Adaptation glittered throughout like a vampire in a YA novel, and now there were gold-white lines of light woven through, thanks to his Light mana.
+
+"I wonder if it's showing me this because it was my loot drop, or if it shows whoever's mana is holding it."
+
+He gave a quick tug to the straps to unhook the shield, then passed it over to Jo, who was hovering nearby and looking on with interest. The moment his arm left the straps, the color bled out of the shield.
+
+"Try it out, Jo."
+
+She did, eagerly, having dropped her Still Waters skill the moment she sheathed her sword.
+
+It was probably better for her to have the shield, even though no one was saying it. The moment she tugged the straps tight, the shield went a dark, muddy brown, thick and viscous looking. Right underneath the churning mud color, Thomas could see shadows of purple and black.
+
+"That is so dangerous looking," Zach said, delighted.
+
+"Yup." Jo turned it around as best she could to look. "Earth, Water, a dollop of Mud, Poison, and Shadow. It gets the job done." She tugged the strap loose and held it out to him. "Your turn, hot shot."
+
+Zach took it and buckled it on with ease. As he did, the shield went through the most dramatic change of all. It turned semi-transparent, woven with red-orange fire that was tipped with dark, flickering, starry black.
+
+Zach studied it with mild curiosity, then without worrying about the fire at all he stuck his hand straight through one of the gaps. Turned out, it wasn't semi-transparent, it was literally woven with fire.
+
+Drawing his unburnt hand back, he shrugged. "Fire, Teleportation, and Sky don't make much of a shield. It's fine. I'm a dodge master."
+
+He held the shield between Thomas and Jo. "Who first?" He nodded up to the ceiling as yet another sword was peeling itself from the flock and heading their way. This one looked a little bit like a meat cleaver.
+
+Thomas sighed. He wasn't exactly sure what a healing shield was supposed to do as Healing was not supposed to work that way. "Jo first."
+
+She snatched it from Zach and quickly buckled it over her left arm, holding her Blood Thirst sword in the other.
+
+The sword came in low and fast, and she stepped forward to intercept it, shield and sword both at the ready. The way she was positioned, Thomas suspected she was going to go for the slash first, but at the last second, she thrust her shielded left arm forward and caught the oncoming sword dead center on the shield.
+
+There was a wet sucking sound, and the blade sank several inches into what should have been solid metal. It was stuck there, thrashing and half-swallowed.
+
+Jo grinned and held her shield up while the sword struggled like a mouse caught in a glue trap. Of course, it had come at her blade first, so the hilt and its crystals were exposed. "Get it, Thomas!"
+
+Thomas stepped in and brought the halberd's hammer sideways to crunch down on the crystals. Jo braced herself and held the shield still. It took three hits, and the sword went dark.
+
+"If that thing had blood, I bet you a hundred bucks my mana would have poisoned it by now, too," Jo said with extreme satisfaction.
+
+Two crystals seemed to fall out of the dead blade and landed on the ground: a Metal and an Earth.
+
+"Two for one," Zach said. "Sweet."
+
+Unfortunately, they had trouble getting the sword out of the extremely sticky, poisonous mud. For obvious reasons, no one really wanted to get the mud splashed on them, and Jo couldn't pull the blade out one-handed. She finally unstrapped the shield, which reverted back to its gunmetal gray state. Only then did the sword fall out.
+
+By that time, another sword had broken off from the flock. This one was a narrow stiletto shape.
+
+Jo looked at the shield regretfully. "It's not going to work if I can't release swords without taking the whole thing off. Thomas, you try it."
+
+He was really curious how healing mana would handle this thing, and if his Burden would twig him about it or not. He strapped the shield on, and it erupted into its flashy rose-gold just as the sword closed in.
+
+Thomas didn't really have a strategy; he just raised the shield in its path, wanting to see it work. He wasn't expecting the blade to hit square on, and he really wasn't expecting the deep bong of metal ringing on metal, or the force of the impact that rocked him back a full step and sent a hot twinge of pain shooting up through his wrist. That thing had hit him like a linebacker.
+
+The sword didn't stick in because his mana wasn't mud. Instead, it ricocheted end over end a couple of dozen feet. Before Thomas could do more than wince at his wrist, soothing warmth flooded up his arm from the shield itself, and the twinge was erased like it never happened. The mana in the shield had instantly healed him.
+
+The sword righted itself but then hung in the air before closing the distance. This time it was slower before it drew to a stop a few feet off. It almost looked hesitant as it drifted back and forth.
+
+"Is it... scared of you now?" Jo asked. "What's going on?"
+
+"It's the healing mana," Thomas realized. "It wants to hit me, but now it knows it's healing mana, it can't."
+
+He took a few steps sideways, and the sword floated after him, still unsure. It seemed to be stuck between wanting to close the distance and run him through, and being unable to act.
+
+Zach laughed. "Bro, your mana made a shield so nice that the monster attacking you feels weird about it."
+
+"Oh... shaddup. Someone just kill this thing."
+
+In the end, it took Zach circling around and bashing it with a dead sword. It had been easy as the flying sword seemed fixated on Thomas.
+
+Zach actually got a loot drop from it, too, though it was only a D-grade Earth mana.
+
+"I think you should keep the shield," Jo said.
+
+"Yeah, dude. It's the perfect tank shield," Zach agreed.
+
+Thomas snorted. He really was leaning towards a Healing Tank build.
+
+_____
+
+After that, it was no more Mr. Nice Flying Sword Dungeon.
+
+The swords stopped coming one at a time. Two suddenly dove down from the flock above, and then as they were dealing with that, another dagger tried to backstab Zach, which forced him to quickly teleport out of the way to save himself. Short-range teleporting was harder with his Skip The Distance skill, so he was out of breath when he rejoined the fight just in time to stop two swords from ganging up on Thomas at once.
+
+For his part, Thomas held back his Severing Beam shots unless he absolutely had to. The combo of his Healing Shield and awkward one-handed chops with his halberd were enough to keep from getting cut.
+
+Soon, though, he had to switch hands so his right held the shield and his left chopped with the halberd. It wasn't the shield giving him a problem. The halberd was meant to be a two-handed weapon.
+
+Maybe he should opt for a strength skill next time. They made those, right?
+
+Jo was a menace to the swords. With Still Waters making it so she never reacted badly to surprise and never let fear dictate her actions, she slashed and struck with precision.
+
+Zach held off on his fire since the swords had no flesh to burn. Instead he picked up any dead sword, no matter its crazy shape, and use its one shot with ease. Occasionally, he smacked a flying sword twice: once with the blade of the dead flock-mate, and once with the handle when the blade disintegrated.
+
+They were so pressed that there was no way Thomas could get the last shot on all of the swords. That was fine as the loot kept coming, and it was surprisingly varied: A rapier dropped a large Air mana. A curved cutlass yielded a Water crystal for some reason—Thomas thought it might have had to do with pirates and the sea. Mostly, though, when he struck them they came out with rarer Metal mana.
+
+Thomas had a second to glance at the flock above, then stilled. His Eyes of Riches showed something... weird.
+
+"Hey! That curved blade. The, uh, scimitar I think." He pointed. "It's not a goldie but it's flashing... colors."
+
+What color, he couldn't say. Somewhere between purple and silver.
+
+"Yeah," Zach panted. "Sounds good. I can use a break. Cover me a sec."
+
+"What?" Jo asked, but moved in along with Thomas on either side as Zach knelt and reached into his messenger bag.
+
+He pulled out one of the altered fireworks from the LA Marketplace. It looked like a standard fountain, but if it came from there then there was no way it was.
+
+Pinching his fingers on the wick, he lit the top.
+
+"Back up!" Zach warned.
+
+Thomas and Jo moved with haste. Zach didn't. Instead, when the firework lit he lifted his hands sharply like he were tossing a ball into the air.
+
+Multicolored sparks fountained upward at least a hundred feet in the air with a piercing whistle. Then the sparks exploded like bombs among the flock of swords.
+
+Thomas wasn't sure if the concussion was enough to crack the crystals by themselves or if the cinders from the explosion did it. Plenty rained down on his head.
+
+The flock was decimated. Most were injured with only a couple crystals shattered and flopped along the ground like dying fish.
+
+Thomas had to really watch his ankles as he headed for the silver-purple shining sword.
+
+He struck it dead and waited eagerly for the loot drop.
+
+There was nothing.
+
+"What? Oh, c'mon!" He picked it up, looking under it for a mana crystal or a shard or anything.
+
+"What'd you get?" Jo asked eagerly as she put down a flopping sword that was trying to kneecap her.
+
+"We got skunked," he called back.
+
+"What, really?" Zach said. "Boo."
+
+Ugh. It must have been a trick sword. Thomas was about to toss it away in disgust when he noticed the fine filigree wrapping around the handle, and the ghostly images of vines along the blade itself. Huh. What if...
+
+Putting down the heavy halberd, Thomas used the pointy end of the scimitar to end a nearby flopping sword.
+
+It didn't disintegrate in his hands.
+
+He held it up in triumph. "Never mind! This is the drop. It's a real sword!"
+
+____
+
+There was thankfully a bit of a lull after that as the flocks that had not been targeted by the ultra-firework skedaddled for safer skies.
+
+That gave them time to collect more loot, which of course Thomas was powerfully interested in. Aside from the real sword, which Zach took for now but said they ought to sell it later, the rest of the drops were mana crystals.
+
+But they were really cool mana crystals: Grade A Earth, Air of various grades, a few level 3 Healing crystals that Thomas took charge of, more Metal mana, and even a Flying mana that none of them had seen before.
+
+Sadly, no one felt compatible with the Flying mana. Not even Zach, who had Sky in his core.
+
+"I don't feel it's in the same family," he mused as he held it between two fingers. "It feels more... animalistic."
+
+Thomas exchanged a puzzled glance with Jo. "What, like Bird mana? Is that a thing?"
+
+Zach shrugged. "If it is, I bet it would be related to this stuff." He tossed the flying mana in a slow underhand. Thomas caught it and put it in his backpack for safekeeping.
+
+"Guys, the flock's acting weird," Jo warned, and pointed.
+
+Ahead, another flock had come into view making a bee-line directly for them. That was a little strange since the other flocks had acted like birds, flying this way and that without a real purpose and only breaking off as individuals to dive down at them.
+
+This one seemed to have a mission.
+
+Before they could do more than tense up, the flock stopped at a hover a good fifty feet away. Then different ones started to turn and sort of fly together, slotting and merging with one another.
+
+Is this how they make little swords? Thomas wondered. But he didn't voice the thought before it became clear that the swords were building something.
+
+"I think we're about to meet the sub-boss," he said, throat dry.
+
+The whole mass fell to the ground, the last swords zoomed in, and the conglomeration stood. It was shaped like a faceless swordsman.
+
+"Alright, there's only one. We can take it if we're smart," Jo said. "Thomas, you good to tank?"
+
+Thomas stared at the thing with his Eyes of Riches. Whatever the loot drop was, it was going to be good.
+
+"No," he said, "I'm calling dibs on this one."
+
+Zach glanced at him. "You sure, Mana Man?"
+
+"Feel free to jump in if it looks like I'm losing," he allowed. Then, setting the shield down, he strode forward with only his halberd.
+
+The soldier looked happy to oblige and squared its shoulders, then raised a sword of its own in what Thomas suspected was a guard position.
+
+Oh, it wanted to duel.
+
+No thanks.
+
+Radiance of the Severing Beam, he thought, though he didn't even need to do that to activate it. It just felt cool.
+
+A wrist-sized beam of pure light lanced out of his halberd and passed through its chest where all the sword hilts joined to form a single, gigantic crystal.
+
+The soldier staggered, the crystal dimming alarmingly, though not yet dead.
+
+Thomas ran forward. His Light mana was used up to the last mote. Now every step felt heavy, like he had suddenly gained a hundred pounds out of nowhere, but his adrenaline carried him through. He swung his halberd.
+
+The Sword Soldier tried to parry, but the movement was slow. It was almost out of battery. In a way, so was Thomas, but he had three other wells of mana to lean on.
+
+The hammer end of the halberd connected and the large crystal shattered.
+
+Twenty thousand dollars to upgrade his weapon was well spent.

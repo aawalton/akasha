@@ -1,0 +1,99 @@
+---
+id: 4886e614-00f9-5854-997b-e75e09af5d30
+page-type-slug: story-chapter-royal-road
+title: "Chapter 45"
+slug: 0052-chapter-45
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 52
+ownLength: 1875
+unit: words
+publishedAt: 2026-07-21
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3705690/chapter-45"
+royalRoadId: "3705690"
+---
+
+We held a tiny break after learning about the Kadren. Mostly as a concession to Cuilcis, so he could pop out of the office and shoot a rapid-fire series of orders to his guards and hold a quick back-and-forth with Kimzi.
+
+I had to admit, though, my mind was already fogging over a bit. It wasn’t that I loathed being educated. Yet, of all the skills I’d cultivated over the years, the ability to sit still and concentrate for hours on end wasn’t it.
+
+There was no denying the usefulness of what we were getting. Receiving detailed information on our enemies? Good. Detailed information that we were certain he couldn’t lie about? Priceless! Well. In theory, he could be touting bullshit as truth, as long as he believed it himself. Yet, what we had just learned definitely fit with everything we’d experienced so far.
+
+Cuilcis sat back down, looking over the four of us in distaste. “Let us continue. Since you insist on using my precious time, we will make the most of it.” He reached below the table and located a rolled-up piece of parchment. “These are the skills, as we know them. You will not open the scroll yet, since you clearly do not have the basic knowledge needed to appreciate them yet. At the end of our time, you will be allowed to leave, so you do not waste my time in agonizing over your selections. You will learn what you need, and then you will return it to me. Should you choose to share this with any others, you will earn the enmity of the Tethered. These are for your eyes only.”
+
+I salivated at the scroll. It was so long! That single scroll must hold hundreds of skills, even if they’d written it with a larger size than the few essays I’d actually turned in during my school years. Meanwhile, I’d only unlocked twenty-six skills on my own. There was so much knowledge waiting to be gained – so much power, once it was combined with the prospective growth hidden in the Starved Growth trait.
+
+“Let me be clear about this, because so many people do not understand it. No. There is no known limit to how many skills you may earn. Clearly, there is a limit to how many you can efficiently grow and cultivate beyond the fledgling level, but you may unlock any number.”
+
+I perked up at that. We were off to a lovely start. Especially given how our trait worked, we’d be able to learn any number of passives, that would then be able to grow on their own.
+
+“While I am stamping out rumours: No. There is no given bonus waiting in the system for anybody who manages to earn a specific number of skills. The skills are their own reward.”
+
+That was less entertaining. I would’ve absolutely loved getting some ultra-rare system cheater bonus.
+
+“Having said that, I need to impart upon you some of the basics. I am sure you’ve already been told some version of this. Yet, I cannot stress enough how much people tend to get wrong. In actuality, I believe that some species are trying to confuse the topics to remove any possible challengers to arise from future generations.”
+
+I absolutely failed to hide a smile at his frustration. Fortunately, he wasn’t looking my way.
+
+Nix was less lucky. She chuckled out loud.
+
+Cuilcis reeled on her. “Anger. You think this is funny? People should not mess with knowledge! It leads to confusion and misunderstandings. Sometimes, people have been so deceived that they will not accept actual truth.” He shook his head and jabbed one tiny finger at his desk for emphasis. “Now, pay attention, because I will only say it once. Any person can theoretically earn any skill, as long as they have the capacity for it. Yet, that does not mean that you will be able to learn any skill. Because, when it comes to learning skills, you will find yourself limited by your class, your attributes and, most of all, your nature.”
+
+Steve frowned. Then he asked. “What does that actually mean, though? In practice.”
+
+“Gratitude.” Cuilcis looked me dead in the eye, then rephrased. “I am glad you asked. In practice it means that you will most often be awarded with the skills that come naturally to you. The ones that do not suit your build, your class or temperament will either be difficult to learn, or will be outright impossible without aid or concerted efforts.” He went silent for a second, then offered. “Running. Who among you has Running?”
+
+We shared a glance. What was this about now?
+
+“Exasperation. Running is one of the most common skills there is. I do not care about your skill lists. Now answer.”
+
+I raised a hand, as did Steve. Meanwhile, to my surprise, Nix and Haddock didn’t.
+
+Cuilcis merely nodded as if the development was no surprise to him at all. “There we are. Now, it was my understanding that the three of you,” He pointed at the others. “arrived to Last Chance together. You need not confirm or disprove my guess – I am merely making a point. Yet, one would think that those who have gone through the same should earn the same rewards.” Shaking his head, he finished. “That is not so. I cannot specify exactly why he has earned the skill, but you two haven’t. But I can say that Fighters and Scouts are more likely to earn Running, which corresponds to your classes. On top of that, somebody like you,” A tiny digit indicated Nix. “likely hasn’t invested much into Agility or Fortitude. Both are attributes that increase the odds of earning Running.
+
+“Wonderful.” Haddock said. His gaze was distant, but there was no denying that the look on his face was downright overjoyed.
+
+“It’s great that you haven’t earned Running? Sorry. I don’t follow.” Steve said.
+
+“No! Not at all.” Haddock stroked his beard, searching for words. “But there is an underlying logic to everything. That means we can figure it out. Earn exactly what we want. Right?” He turned to Cuilcis with the question.
+
+Cuilcis nodded. “Affirmation. Within reason. At times, a certain skill is simply beyond your grasp. Either because it runs contrary to your nature, or your attributes veer too far in the opposite direction.” He tapped the table. “Instead of allowing further questions right now, I will monologue for a while, because it is likely to answer what you desire. Class. Attributes. Temperament. Three specifics that decide the majority of whether you are offered a skill or not. Of those, only your class is immutable. You cannot, of course, alter your class. Yet, even that comes with caveats. Liam mentioned you were a Combat Crafter? That would make you more likely to earn Running than regular Crafters. However, in most cases, your class will not deviate enough to have, say, a Fighter earn Mana Shield.”
+
+I could practically see Nix perk up. I had no clue what Mana Shield was, but she craved it now.
+
+“Attributes. You can absolutely improve your odds there. Attribute-increasing food, drink or potions, buffs and enchanted items, all may aid you in improving your odds of earning a skill. A combat Crafter with twenty in Fortitude and Agility, however temporary, will have much better odds of gaining the Running skill than one with 10 to each. And once you have the skill, it will automatically improve the same as if you earned it naturally in the first place.”
+
+Cuilcis did not change in his demeanour or expressionlessness. Yet, it was clear to see that he enjoyed having us hanging on his every word, because he added in theatrical pauses and seemed to take greater care in choosing his words.
+
+“Your demeanour is mutable as well. Some would argue that this is a lie. Yet, that is shortsighted, and undeniably wrong. Changing the way you think about any given skill might be difficult – but it can be done. Somebody vocal about hating running is much less likely to gain the skill compared to somebody who might not enjoy it, but goes out of their way to see the positives of it.”
+
+Was Nix blushing? Yes! She was blushing. Heh. The tiny bundle of temper was frigging adorable at times.
+
+“Finally, we come to one all-encompassing term which includes everything else that I have not mentioned: stressors. In this context, it applies to anything else impacting the person attempting to gain the skill at the time of trying to gain it. There are many details that can have an impact here. Effort, obviously. Somebody sprinting all-out is more likely to succeed to somebody just plodding along. The stress of the situation. Are you running for your life or just running for fun? Your state. Somebody at the end of their rope is more likely to be rewarded than somebody in pristine condition.”
+
+“Whoa, wait.” I surprised myself by speaking up, but kept going. “Are you seriously saying that you have better odds of gaining a skill if you’re about to die?”
+
+He nodded. “Also, if you are fighting for your life, heavily outnumbered, running out of mana or stamina or suffer under the influence of debuffs or mind-altering effects. Kismet rewards adversity. Besides. Who would you argue deserves earning the skill more? Somebody who attempts gaining it in safety, or somebody who tries to run from a horde of Ghastlings?”
+
+“The one trying to do it in safety, clearly. Because they’re not being stupid about it.” Steve said.
+
+“Mirth. Well. Let us just conclude that kismet disagrees with your conclusion.”
+
+It struck me. If the Tethered knew this, beyond a doubt, and lived for the sake of gaining knowledge and profit off of it… “What can you offer?”
+
+“Confusion. What do you mean?”
+
+“Well, the rich and powerful always find a way to get ahead. Since the Tethered earn a living off of those people, I’m sure you’ll have solutions prepared, offering people aid in earning the skills they crave.”
+
+He bowed his head. “Of course we do. The Tethered regularly arrange tailor-made situations to aid people in earning new skills. Yet, our offers were not part of the agreement. Should you become rich enough that you can afford our services, you may return.”
+
+I snorted. “Well, fuck you too.” I smirked at the others. “Ah, well. I’m sure we can come up with our own solutions to boosting ourselves. Also, I’ve been damn good at putting myself in life-threatening situations.”
+
+“I’m not sure that’s the win you’re trying to paint it as.” Steve said.
+
+“You are… probably right.” I grinned. “But I’m damn well going to lie and act like I did it on purpose all this time.”
+
+“Could we maybe focus?” Asked Haddock. “That scroll is going to have a lot of wonderful skills, and I am going to be very sure I learn as much as possible, so I can pick the right one.”
+
+“I guess.” I grinned. “Cuilcis. Please make sure we survive to actually get some good ones.”
+
+Cuilcis’s expression didn’t change. But if there was a ‘loathing’ skill, I was pretty sure his just climbed a few points.

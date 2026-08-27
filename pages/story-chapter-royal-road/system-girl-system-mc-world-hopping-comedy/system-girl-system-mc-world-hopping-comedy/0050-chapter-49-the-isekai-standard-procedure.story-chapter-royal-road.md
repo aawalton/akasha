@@ -1,0 +1,253 @@
+---
+id: 843f9390-6176-5fae-8ef6-745bcc428202
+page-type-slug: story-chapter-royal-road
+title: "Chapter 49: The Isekai Standard Procedure"
+slug: 0050-chapter-49-the-isekai-standard-procedure
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 50
+ownLength: 1952
+unit: words
+publishedAt: 2026-01-03
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2907192/chapter-49-the-isekai-standard-procedure"
+royalRoadId: "2907192"
+---
+
+The morning sun filtered through the cracks in the wooden shutters, illuminating the dust motes dancing in the air of the Tipsy Ursine.
+
+I was awake before Ren. Well, "awake" is a relative term when you are a disembodied consciousness floating in someone’s parietal lobe, but I was online. I was currently running a background defragmentation on my patience while staring at my SPP balance.
+
+[CURRENT SPP: 113.5]
+
+It was a beautiful number. It was the number of a System who could almost afford to buy a chair for her void. I didn't need a chair, obviously, but the option to sit down was a luxury I missed.
+
+Ren stirred. He groaned, the mattress crunching beneath him like a bag of dry leaves. He sat up, rubbing his face, and looked around the room with the grim determination of a man who had a meeting at 8:00 AM and hadn't had his coffee.
+
+Then, he paused. He patted the mattress. He pulled a long, yellow stalk from a tear in the fabric.
+
+"Scan," he croaked, his voice thick with sleep.
+
+[Item: Dry Wheat Straw][Quality: Poor][Description: Agricultural byproduct. Used for bedding, thatching, and livestock feed.]
+
+Ren stared at the text. His eyes widened.
+
+"Livestock feed," he whispered.
+
+His mind, warped by a lifetime of synthetic paste and corporate history lessons, began to connect dots that didn't exist.
+
+"In the old archives," he muttered, "they said cows—the ancient milk beasts—ate this. It was a delicacy. A specialized nutrient delivery system."
+
+He looked at the bed with horror.
+
+"These people," he gasped. "They sleep on food. It's decadence. It's madness. It’s like sleeping on a pile of nutrient paste packets."
+
+I watched, horrified, as he brought the stalk of dirty, flea-ridden straw to his lips.
+
+No, I screamed internally. Ren, stop. It's dried grass. It's literally garbage.
+
+He bit down. He chewed.
+
+A look of profound disappointment crossed his face. He spat the straw onto the floor.
+
+"Dry," he critiqued. "Fibrous. No flavor profile. The texture is akin to... well, straw."
+
+He shook his head, looking at the mattress with pity. "The cows of the 21st century must have been insane. Or desperate."
+
+He glanced out the window at the lush green grass growing in the courtyard.
+
+"I suppose I could try the fresh variety," he mused, leaning towards the window. "Chlorophyll content should be higher..."
+
+He paused. He looked at his jar of peppercorns sitting on the nightstand. He looked back at the grass.
+
+"No," he decided, pulling back. "I have standards now. I have pepper. I don't need to graze."
+
+I let out a sigh of relief so deep it rattled my nonexistent bones. Thank the Architect. I almost had to explain to a Moderator why my Host was eating the lawn.
+
+"Day two," Ren announced, shaking off his culinary experiment. "Status check."
+
+He waved his hand.
+
+[HP: 100%][HUNGER: 45%][ASSETS: 270 DOLARION]
+
+"Broke," he summarized. "Hungry. And sleeping on tasteless cow-snacks."
+
+He stood up and walked to the small basin of water on the dresser. He splashed his face, trying to scrub away the lingering soot from yesterday’s fire. He looked in the cracked mirror. He didn't look like a hero. He looked like an accountant who had been lost in the woods for a weekend.
+
+"Breakfast," he decided. "Real breakfast."
+
+He went downstairs. The common room of the inn was empty, save for a few hungover patrons nursing mugs of ale. The innkeeper, a burly woman with forearms like tree trunks, slammed a wooden bowl onto a table as Ren approached.
+
+"Porridge," she grunted. "Two coppers."
+
+Ren paid. He looked at the bowl. It was grey. It was lumpy. It smelled like wet cardboard.
+
+In his old life, Ren had eaten Omni-Paste every day. He should have been used to grey sludge. But something had changed. He had tasted the rabbit. He had tasted the truth.
+
+He pulled a spoon from his pocket—he’d washed it the night before—and took a tentative bite.
+
+He gagged.
+
+"It has no soul," he whispered, horrified. "It's just... hot wetness."
+
+I watched, amused. Welcome to the medieval experience, buddy. No MSG here.
+
+Then, Ren’s eyes narrowed. He reached into his pocket and pulled out one of his treasures. The [Garlic Powder].
+
+I gasped internally. Don't do it. That’s a premium product on discount gruel!
+
+Ren didn't care. He sprinkled a generous dusting of the white powder over the porridge. He stirred it in. The scent of garlic hit the air, warring with the smell of stale beer.
+
+He took another bite. He chewed thoughtfully.
+
+"Edible," he decreed. "Barely."
+
+As he ate, he watched the innkeeper wiping down the bar. He needed a lead. He needed a revenue stream.
+
+"Excuse me," Ren said, putting on his best 'Polite Colleague' face. "I'm new to town. My... assets... are currently frozen due to a bandit-related liquidation event."
+
+The innkeeper blinked. "You got robbed?"
+
+"Essentially," Ren said. "I need to acquire liquidity. Where does one go to find gainful employment in this sector?"
+
+The innkeeper stared at him like he had grown a second head. "You mean work? You got a trade? Blacksmith? Baker?"
+
+"I have... project management skills," Ren offered weakly. "And I can butcher small animals."
+
+"We got a butcher," the woman grunted. "If you want quick coin and you ain't got a trade, go to the Guild. They pay for odd jobs. Monster parts, herbs, that sort of thing."
+
+"The Guild," Ren repeated. "Is that a union?"
+
+"It's the Adventurer's Guild," she said, pointing a wet rag toward the door. "Big stone building down the street. Shield sign out front. Can't miss it. Try not to die."
+
+Ren nodded slowly. "Adventurer's Guild. Monster parts."
+
+His eyes gleamed.
+
+"That means... the grocery store pays you."
+
+He finished the bowl with the grim efficiency of fueling a machine. As he scraped the last bit of garlic-infused sludge from the wood, he stood up.
+
+"To the Guild."
+
+. . .
+
+The Adventurer’s Guild was exactly where the innkeeper said it would be, and it looked exactly how I expected it to look.
+
+It was a large, stone building with a sign depicting a sword crossing a shield. Creative. Inside, it smelled of sweat, cheap ale, and testosterone. A massive quest board dominated the far wall, covered in parchment.
+
+Ren walked in. He didn't swagger. He didn't look intimidated. He walked with the brisk, annoyed pace of someone entering the Department of Motor Vehicles.
+
+He navigated through the crowd of leather-clad warriors and robed mages. He ignored the bard playing a lute in the corner. He ignored the brawl breaking out near the bar.
+
+He reached the board.
+
+It was a mess. Papers were torn, pinned over each other, or stained with unidentifiable fluids.
+
+" 'Slay the Goblin King - Reward: Honor'," Ren read aloud, scoffing. "Honor doesn't buy basil. 'Find the Lost Cat - Reward: 5 Coppers.' Not worth the shoe leather."
+
+He scanned the board, his frustration growing. He was looking for high-yield, low-risk investments. He was looking for a procurement contract.
+
+I watched him struggle. This was inefficient. If he spent all day reading papers, he wasn't earning money. And if he wasn't earning money, he wasn't buying upgrades from my shop.
+
+I checked my temporary Moderator privileges.
+
+[MODULE: QUEST GENERATION SUITE (VER 9.0)][STATUS: ACTIVE]
+
+I grinned in the void.
+
+Technically, I wasn't allowed to interfere with the world's natural economy. But I was allowed to "interpret" local needs and present them to the Host in a user-friendly format.
+
+I ran a scan of the local area.
+
+[SCANNING ECONOMY...][DEMAND DETECTED: THE 'GILDED FORK' RESTAURANT REQUIRES QUALITY MEAT.][TARGET DETECTED: MINI-BISON (LVL 2). LOCATED: EASTERN PASTURES.]
+
+Perfect. A cow. A small, wild, angry cow.
+
+But if I just put up a quest that said "Kill the Bison," Ren might ignore it. He wasn't a fighter. He was a chef. I needed to speak his language. I needed to write the copy like a marketing executive selling a luxury lifestyle product.
+
+I opened the Quest Editor. I cracked my knuckles (metaphorically).
+
+[NEW QUEST AVAILABLE]
+
+A golden exclamation mark popped into Ren’s vision, overlaid directly on top of the messy physical board.
+
+Ren blinked. "System Quest?"
+
+He tapped the icon. A window opened.
+
+[QUEST: THE BOVINE BOUNTY][DIFFICULTY: E-RANK][DESCRIPTION: The local culinary scene is stagnant. The market craves innovation. A herd of Wild Mini-Bison has been sighted in the Eastern Pastures. Unlike the extinct domestic cattle of your era, these beasts possess a natural marbling ratio of 40%. They are aggressive, territorial, and delicious. Think Wagyu, but it tries to gore you.][OBJECTIVE: Hunt and Field-Dress one (1) Wild Mini-Bison.][REWARD: MARKET VALUE OF MEAT (~500 DOLARION) + 50 DOLARION SYSTEM BONUS.]
+
+Ren read the description. His eyes stopped at "Wagyu."
+
+"Beef," he whispered, a tear forming in his eye. "Actual beef. Not paste-protein disguised as steak."
+
+The hook was set.
+
+"Accept," he said instantly.
+
+[QUEST ACCEPTED.]
+
+I did a little dance. Go get 'em, tiger. Big sis needs a new pair of shoes. Or, you know, a vocal processor.
+
+Ren turned around and marched out of the guild. He didn't even stop to register with the receptionist. He wasn't here to be an adventurer. He was here to go grocery shopping.
+
+He stopped just outside the town gates. He looked at his knife—the cheap, 500 Dolarion iron blade.
+
+"Bison," he muttered. "Thick hide. Heavy skull. This knife is good for skinning, but not for stopping a charge."
+
+He looked at the forest. Then he looked at the System Interface button.
+
+Yes, I thought. Realize your inadequacy. Embrace consumerism.
+
+He opened the Shop.
+
+"I need reach," Ren analyzed. "I need something to stop a charge. But I can't afford a sword, and I don't know how to use one."
+
+He browsed the weapons. Swords, axes, maces. All expensive. All requiring skills he didn't have.
+
+Then he saw it. In the 'Gardening & Agriculture' section.
+
+[Heavy Iron Pitchfork - 300 Dolarion]
+
+"A spear," Ren reasoned. "With three points. Good for holding meat in place."
+
+He checked his balance. 270 Dolarion.
+
+"Short by thirty," he sighed.
+
+He looked around. He needed quick cash.
+
+His eyes landed on a patch of weeds growing near the town wall. He walked over, knelt, and activated the [Analysis] module.
+
+"Scan."
+
+[Item: Blue-Leaf Mint][Quality: Low][Description: A common herb. Used in teas and minor potions.]
+
+Ren grinned. "Inventory."
+
+He spent the next twenty minutes pulling weeds like a man possessed. He filled his pockets. He walked back to the general store where he’d sold the pelt.
+
+He dumped a pile of mint on the counter. The merchant looked confused.
+
+"Fresh mint," Ren said, using his 'Corporate Sales Pitch' voice. "Locally sourced. Organic. Perfect for a morning brew."
+
+He walked out with 40 coppers.
+
+[ASSETS: 310 DOLARION]
+
+He opened the shop. He bought the pitchfork.
+
+[TRANSACTION COMPLETE.][COMMISSION: +15 SPP.]
+
+[CURRENT SPP: 128.5]
+
+I was practically vibrating. This guy was a machine. He was monetizing weeds to buy farm equipment to kill cows. It was the most beautiful gameplay loop I had ever seen.
+
+Ren materialized the pitchfork. It was heavy, rustic, and sharp. He gave it a test thrust.
+
+"Coming for you, brisket," he warned the empty air.
+
+He adjusted his grip, checked his map, and marched toward the Eastern Pastures.
+
+I floated along in his head, reviewing the shop catalogue. At 150 SPP, I could unlock the [Advanced Communication Module]. It wasn't the full Voice Synthesis, but it would let me send text messages that weren't generic system alerts. I could finally stop pretending to be a calculator and start being a manager.
+
+Just one dead cow, I thought. Just one dead cow, and I can finally tell him to stop analyzing the furniture.

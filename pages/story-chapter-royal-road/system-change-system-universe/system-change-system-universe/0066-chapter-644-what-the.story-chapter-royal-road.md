@@ -1,0 +1,101 @@
+---
+id: f53314fe-6aa8-51fe-84a0-57dc53d5cc98
+page-type-slug: story-chapter-royal-road
+title: "Chapter 644: What the..."
+slug: 0066-chapter-644-what-the
+partOf: system-change-system-universe
+position: 66
+ownLength: 2121
+unit: words
+publishedAt: 2026-04-28
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3330893/chapter-644-what-the"
+royalRoadId: "3330893"
+---
+
+Chapter 644: What the...
+
+Let's see...Derek thought as he looked at the first man to put him in such a predicament in a long time. He'd grown used to being a big fish in a small pond, and it seemed that he'd need to adjust his thinking a bit if he could make it out of this fight alive. As long as I don't unleash my aura or use Void Call... I think I can go all out against this guy. Dave said that using the lower levels of Void Eclipse should be okay, too. If I'm going to get out of this, I have to give everything I can without giving off a ton of void energy.
+
+Anyway... there are only two options now that this guy knows about my void affinity, he thought. Either he makes an extreme oath, or he has to die. So... can't be afraid to use all my skills now. After that, Derek closed his eyes and breathed in slowly while focusing on not accidentally unleashing his aura. Moments later, a massive sphere the size of a car appeared over the battlefield, and the area turned darker and sort of eerie.
+
+He couldn't just let the domain stay over the battlefield and do nothing, so Derek focused on increasing its strength as much as he could at its low progression. It wasn't much, but the effects should be noticeable. Derek just hoped that his skill domain would have enough power to affect Nikolai since he was at such a higher level than Derek.
+
+Just like that, a pressure fell off of Derek's chest. It seemed like his skill domain had interfered enough with the skill that Nikolai was using that it finally got rid of the extreme itch from his regeneration and erosion constantly fighting one another.
+
+Derek took a deep breath in and let it out. That's much better, he thought as he stared at the man across from him.
+
+"Really?" Nikolai looked at Derek with newfound shock in his eyes. "An actual domain skill, not just a widespread area of effect spell that drains you while active?" The shirtless man held his hand out in front of his face and moved it around. A very small, almost imperceptible piece of his finger disappeared, and a tiny bead of blood formed before healing. Occasionally, his hand would move just a bit faster than normal, then do the exact opposite. "This... is an annoying domain."
+
+Derek reached out and summoned Harbinger again. This time, he channeled his void through it until the massive void purple projection of the blade overlapped with it all. He swung and activated Sweeping Slash at the same time he reached out and cut through the air to unleash a Spatial Rend and Spatial Collapse simultaneously.
+
+Nikolai crossed his arms in front of himself and let the Sweeping Slash hit him. He didn't move at all, so the Spatial Collapse that Derek had placed in a position where he thought the man would dodge popped up, but missed everything. The Spatial Rend just touched the back of the man's thigh—which was only enough to go through his clothing.
+
+Derek hadn't expected the man to just stand there and take a charged void attack to the chest like that, but he did. Derek knew that the man was testing to see just how powerful Derek's attack would be against him, and to be honest, the reason that Derek didn't quickly follow up with another attack was that he was also curious. He was also wishing that Multi-Strike had been off cooldown, because that would have been a nice surprise for the man.
+
+Though, Derek doubted he would have used Multi-Strike on the first attack, anyway. There was no way to know the man wasn't going to dodge at all. After a few moments of waiting, Nikolai coughed, and a small amount of blood flew from his mouth. It wasn't a lot, but Derek knew that he was at least injured a bit internally. If I'd been using Harbinger when I had him down a while ago instead of my fists...he lamented, but it was too late for that.
+
+"Interesting..." Nikolai said as he looked at the blood in his hand. "It's much harder to feel and learn from when you're being pounded in the head by it, but void is certainly an interesting affinity. It's no wonder that the Void Emperor keeps such a tight leash on it. We even hear of his dealings this far away from his organization. Now, I am intrigued. Are you able to summon those precious Void Beasts, too? That's what the Void Emperor is afraid of, right? Someone to come along who can do what he does, but at a cheaper price?"
+
+"Who knows?" Derek said with a shrug. "Does it even matter? Either I win and you die, or you win and I..."
+
+"No, no... I'll be taking you alive," Nikolai replied.
+
+I wasn't saying anything about me dying, Derek thought, but didn't say it out loud. "We'll see... we'll see."
+
+"Come on, show me what a void user can do."
+
+***
+
+As Edgar looked down at the darkness sphere, he suddenly felt an ominous tingle go down his spine. It was a bit of a dreadful feeling. He instantly knew something was up. The lightning user quickly looked to his left and saw that—a bit away from them—there was an area that was slightly darker than the rest of the area, and there was almost like a purple haze or fog around.
+
+"We have to hurry," Edgar said.
+
+"Why? And what's that odd feeling?" Alex asked.
+
+"That odd feeling is why we have to hurry if we are going to do anything," Edgar replied. "That is Derek. It looks like that guy is pushing him if he's using that skill so early." Edgar was, after all, one of the only people to have felt Derek's new Void Eclipse skill, and he also knew that Derek was doing his best not to release a ton of his energy because of the Void Emperor guy.
+
+"Derek?" Alex frowned. "Such a strange man..." he muttered.
+
+"Get down there and get to work!" Edgar's demeanor changed as he looked at the sphere with squinted eyes. "If Derek's doing this, then I guess we won't be having any survivors."
+
+***
+
+Jace spat out a mouthful of blood and held his severed forearm to the rest of his arm so it could regenerate back together. He needed that evolution stuff that Derek and Marrick had. He wasn't a fan of having to reattach limbs when there was an easier way to grow them back. Luckily, he'd been getting his ass kicked so badly that he was at the point where reconnecting the limb took next to no time. The problem was waiting for the bit of time it took for the nerves to all start firing again.
+
+He looked up and saw a battered Amelia and panting Marrick fighting the pale-faced human. Herring was still in his stupid protective bubble and nearly immune to most damage. His pale face was beginning to turn a bit crimson, though, and the projectiles were coming less and less often. In fact, the man's go-to moves had already changed from projectiles to weapons attached to the bubble.
+
+Get too close, and dozens, if not hundreds, of spikes would shoot out but stay attached to the bubble. Occasionally, he'd block one of Jace's blades with a water blade attached to the bubble. Jace also saw the man sneak a potion at one point, so he knew that the fight was actually starting to turn in their favor. Jace had no doubt that he'd be able to match Amelia at the moment and beat Marrick if they were to fight. And, with Surge of War ready, he could push his Battlelust to the extreme at any time.
+
+Still, the longer he waited, the better the boost would be. But even though all three of them were running out of mana, it looked like Marrick and Amelia would be the first to go. So, Jace, with his Battlelust instead of mana powering him, might have to go all out sooner rather than later.
+
+However, as he thought about that while he waited for his arm to heal enough to return to the fighting, he felt Derek use a skill. He looked over and saw the area darken and, with his boosted stats, even made out a bit of the purple floating sphere and fog falling over that battlefield. He used that skill he showed us. He must be having a ton of fun right now! Jace's smile deepened. But if he finishes that guy off before we finish this one... he'll come and fight this guy, too. Can't have that.
+
+Jace wasn't the only person to pause at the activation of Derek's skill. Both Amelia and Marrick cautiously glanced in that direction while Herring frowned and turned that way, too.
+
+"What dreadful aura is this?" Herring asked himself. "This does not feel like space. What other affinity is mixed in with the spatial affinity to create such a feeling?" He rubbed his chin. "Hmm... perhaps he uses a chaotic-type affinity? Chaotic space... how interesting... wait... chaotic space..." His eyes narrowed. "If he also has a trace of time... could it be?"
+
+As the man was talking it out to himself, Amelia and Marrick attacked. Sand suddenly shot up and covered the entire bubble and began to push the bubble down. It took all he had, and Marrick broke out into a cold sweat, but he somehow managed to push the bubble all the way to the ground. Still, he pushed even harder from the top while hardening the earth below. If the bubble was going to keep all the attacks out, then they would just use it to squash everything within.
+
+Amelia swooped down and hovered just above the sand-covered bubble and held her hands out. She, too, pushed using her skills—doing her best to crush the bubble and everything within. Finally, it started moving. Dozens of projectiles began shooting out in every direction. A few even went right through Amelia, but she stayed unmoving, using her force to help crush the man inside.
+
+With all the concentration he had, Marrick soon felt a crunch from inside the bubble and widened his eyes. "It's working!" he shouted as he redoubled his efforts. With blood dripping from her wounds down onto the sand-covered bubble, Amelia, too, pushed harder and harder—rapidly burning through the mana reserves she had been saving.
+
+The vibration of another crunch was felt through Marrick's connection with the sand, and he let out an excited breath. This one had come with a loud grunt from the man inside. Just a little more. Nobody can withstand being flattened like a pancake. Well... almost nobody.
+
+And just as Marrick thought that, all tension left the bubble, and the sand crashed onto the ground. No notification appeared, and Marrick and Amelia looked at each other with confusion on their faces. However, they both realized what had happened at the same time.
+
+Of course... if the Astrus bunch can turn into ice... why wouldn't someone at a place like this have a transformation skill, too? Marrick sighed as he saw a pool of water move away from them, then form into a humanoid figure. He was aqua blue and seemed to be flowing. He wasn't transparent, though.
+
+"I didn't want to have to use this," Herring said—his voice a bit muffled by the water. "But you have pushed me too far, and something strange is going on with Nikolai. I have played around far too long. It's time for you two to die."
+
+"Three!" a shout rang out, and everyone turned to Jace.
+
+"What?" Herring tilted his water-formed head.
+
+"There are three of us," Jace said. "It's time for the three of us to die."
+
+"You are not worth counting, little Berzerker," Herring chuckled.
+
+"You're right... sometimes you overlook things until it's all too late," Jace replied with an almost evil chuckle, then his laughter grew louder and louder as steam started pouring off his skin and his body became gangly and dark crimson—like it was burning. All the dried-up blood burned off in an instant, and every vein on his body looked like it was trying to break out of his skin. Still, he had both kukri gripped tight.
+
+"What the?" Herring muttered as Amelia and Marrick looked at each other, nodded, and then backed away. "What even are..." the water user started, but Jace disappeared, and the next moment, an explosion of water flew through the air.

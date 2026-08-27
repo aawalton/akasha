@@ -1,0 +1,191 @@
+---
+id: 1675404b-c2d7-5208-b46f-37da0c218f9d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31: Spirit Spring Source"
+slug: 0031-chapter-31-spirit-spring-source
+partOf: phoenix-ascension-cultivation-litrpg
+position: 31
+ownLength: 2565
+unit: words
+publishedAt: 2025-10-04
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2651651/chapter-31-spirit-spring-source"
+royalRoadId: "2651651"
+---
+
+“Brother Hao, hahah, we’ve really gotten lucky this time. Who would have thought that his worthless Kong Lin forest held such a secret.” A rotund man in his mid to late twenties said while holding a large, blue stone.
+
+It wasn’t bigger than the one Fa Xiaolan had found at the bottom of the previous Qi Lake, but there wasn’t a single one.
+
+The other man, the one named ‘Hao’, also held two. Both were of equal size to the one the rotund man held.
+
+They wore the same sect uniform— a plain gray robe with blackish edges. The symbol of a mountain etched onto a round badge decorated their chest; the symbol of the Mount Ching Sect.
+
+A large smile, filled with just as much greed, creased their lips. “Brother Li is right. Our luck has increased ever since we met that strange fellow.” He smiled from ear to ear, then continued. “First, we didn’t meet any of them bothersome snakes, and second, we find these? Once we hand the crystals over to the sect, we’ll definitely get a generous reward.” Brother Hao nodded and licked his lips.
+
+“Huh? Why should we hand them over? Can’t we use them for ourselves?” After saying that, Brother Li’s head met with Brother Hao’s palm, as the latter scolded.
+
+“Idiot, do you have a Spirit Valley to use them on? If you use these just anywhere they’re going to end up wasted, just like in this lake.”
+
+“Ou ou ou ou, Brother Hao, you didn’t have to hit me so hard.” The rotund Li said, rubbing the back of his neck.
+
+“Bah, who hit you hard? If that hurt you then I’m stronger than I ought to be.” He then smacked the round man again. “See? I’m the one getting hurt by your copper skin. Stop acting. That strange fellow gave you a good offensive technique. I only received a cultivation technique I can’t even use!”
+
+“Hehe… Brother Hao, stop joking. Even if I have my copper skin, that doesn’t mean your foundation establishment cultivation base doesn’t hurt. It did hurt, see, my neck is all red now.”
+
+“Oh stop joking, we’re both at foundation establishment, idiot.”
+
+The round man’s eyebrows frowned, and he adjusted the rope that held his white daoist robe tied to his waist. Of course, he made sure that the blue stone within his hand didn’t go anywhere. “Brother Hao, if you keep insulting me, I’ll get angry.” He said, but after a moment of silence, the two started laughing.
+
+“Alright brother, let’s get going. We can grab a drink after we get our rewards. I’m sure we’ll get at least 10 middle grade spirit stones for each stone we bring back, hahaha.”
+
+“Brother Hao is right, so very right. However, what if they decide to search our bags of holding? Those things we received from the fellow, won’t they be discovered?”
+
+Brother Li took a moment to think about that matter, and a smirk appeared on his lips as he came up with a plan. “We’ll hide them somewhere if that happens, and come back to get them later.”
+
+“Right, that’s a good idea. Brother Hao, let’s go then. I’m hungry…”
+
+However, right as they turned to leave, something collided with both of their skulls.
+
+“What was that? It kinda tickled me.” The round man looked around, clueless. The other man, though, Brother Hao immediately went on high alert.
+
+“That was a spiritual attack you blockhead! Raise your defenses right now!”
+
+“Tsk.” A tiny clicking of tongue echoed in their ears, and soon a barrage of attacks was upon them. Fire rose from the ground as if the earth had split open; the heat oozing off of it making their hair curl.
+
+Both stepped backward at the same time, landing near the edge of the lake. Some koi fish splashed about, the water inside their home rising to dangerous temperatures.
+
+“Brother Hao, what is going on?”
+
+“An attack! A fire cultivator is attacking us. Brother Li, be careful and place your barriers.”
+
+Saying that, he slapped his bag of holding and pulled out a few paper talismans, which he then activated with Qi and placed them on his chest. The fat man did the same, and two to three round Qi barriers surrounded them.
+
+At the same time, the blue stones within their hands disappeared, replaced with weapons. The fat man held a metallic whip— serrated blades strung together by a thick, yet sturdy rope— and the other one had a large sabre.
+
+Brother Hao’s blade shone with a faint light, and he then slashed forward at the lingering wall of flames. He split it in two, and the remaining wind put out the rest of it. “Charge out, charge into the forest– Huh?”
+
+He screamed, but his words remained stuck in his throat as he saw a Spirit Beast creep out of the darkness. It appeared out of nowhere, its figure gradually becoming visible as it walked through the shadows.
+
+Within moments they saw it— a large bird, about the size of a toddler, with beautiful red, orange and yellow feathers— looking at them with sharp killing intent. Its orange eyes shone as it stood there. Yet, despite it not doing anything else, both men sensed their blood freezing in their veins.
+
+Something deep within their souls told them that the creature before them was dangerous, yet the fear and anxiety coursing through their bone marrow made them unable to act right away.
+
+Behind them was a fiery inferno, in front of them was an unknown beast who sent shivers down their spine. Their only option was to fight.
+
+***
+
+Well I didn’t expect the Myriad Qi Needles to be so ineffective. The difference between these guys’ reactions and the other seven or eight that tried to kill me during my evolution was like heaven and earth.
+
+At the very least, only a few of them were immune to my Qi needles, but both of them here could endure them without any issue. What was the difference?
+
+I had to give it to them, they looked stronger at the very least. That guy’s sabre attack could cut off a hundred people’s heads, if I had to guess, and the whip the fatty pulled out looked even scarier.
+
+Did they talk about some sort of copper skin? Was that a technique that made one’s skin tougher? If so, that was incredibly interesting. Did they have it on them? Argh, even if they did, I couldn’t read it…
+
+Even if they didn’t, once their sect found out about this Qi Lake, the peace of the forest would get destroyed by greedy humans looking for lore blue crystals. I couldn’t allow that, not while Mother and I still lived here.
+
+Are they scared of me? I thought as I looked at them just as hard as they looked at me.
+
+They looked at me with trembling pupils, as if what they saw before them was Mother, and not a way smaller, way cuter version of her. Was that the effect of Tiny Blood Lord? Before, when the other humans saw me, they were either greedy or wanted to outright kill me.
+
+These two, however…
+
+Oh, they charged at me. Finally.
+
+I figured it was a good time to test out the Bloodline Skills I’d gotten, and maybe rank them up as well.
+
+Phoenix Fire was a no brainer, as I waved my wing and created a few basic fireballs. They weren’t anything fancy, but by using Precise Flame Control, I could make the fire concentration even denser.
+
+With a thought, I sent them flying toward the two, who nimbly dodged out of the way. However, with another thought, the fireballs stopped in their tracks and turned, hitting them in the back.
+
+“Ah, what the hell?!”
+
+“What sort of technique is this?”
+
+Clearly, they had never expected an attack to just turn back after being shot. That was the power of Precise Flame Control. Without it, doing that would have been way more difficult.
+
+I couldn’t get them with the same thing twice, though. Nor did I intend to.
+
+I focused on a point right behind them, and used Ember Step to dash in between their legs, a giant trail of Phoenix Fire following me as I landed.
+
+Sensing the dangers, they stepped to the side, but in that moment I used Elemental Wave, and created half a dozen fire waves that spread out in rapid succession.
+
+The two jumped once, twice, thrice… However they couldn’t dodge all of them. The fourth wave collided with their barriers, the fifth wave cracked them and the sixth wave burned the hairs on their chest— and their skin.
+
+Their screams of pain echoed through the forest, though they weren’t quite dead, only hurt.
+
+Oh and they decided to finally fight back.
+
+“Die, demon!” The fatty yelled, his skin glowing with a coppery ting as the flames burned off his clothes. He whipped with the blade whip toward me, its tip reaching me in less time than it took to blink.
+
+My feathers stood on their end, but something in the back of my mind told me how to dodge. Despite the fact that it only needed a moment to reach me, I turned my head to the side, and it didn’t even scrape the fluff at the back of my neck.
+
+Then, I jumped instinctively, dodging the other man' s sabre attack, and flapped my wings mid air to dodge a second whip shot. At the same time, I summoned more Phoenix Fire, and concentrated it into a spinning tornado, with the two at the center.
+
+It didn’t last very long though, as the fatty screamed and slammed down with his feet, shaking the earth.
+
+The wind scattered my flames in all directions, breaking away the entrapment.
+
+Oh, come on! I worked hard on that tornado!
+
+I dove down upon the skinnier man, aiming a perfect peck at his skull. However, I missed— rather, he dodged— and I could only resort to using my claws.
+
+However, that failed as well, as my attempt at digging his eye out was met with an irony resistance. Sparks flew off as the sabre parried my claws, and sent me flying upward.
+
+I took the opportunity to raise even higher, and looked at the two from above. Despite the wild barrage of attacks, neither of them seemed particularly bothered by my fire. Unfortunately, that was the only thing I could use.
+
+Taking a look at my Qi reserves, I had about half left. The lake within my dantian looked quite depressing when it was half empty. But it was far from wasted.
+
+Since it was the first time I’d ever used these new Bloodline Skills, this gave me a good idea of how effective they were, as well as the time between uses. The mental skills like Precise Flame Control had no cooldown, but took a big toll on my mental strength, while skills like Ember Step and Elemental Wave had an incredibly short cooldown, but not short enough to use them in quick succession.
+
+Aside from that, I felt the Phoenix Reflex skill do its work while in the middle of the battle. The amount of information I could gather was amazing, and my reaction speed had increased by a large amount.
+
+However I wasn’t sure it would be enough to kill them. It didn’t look like I did much damage, and that pissed me off.
+
+Were the people from the other sect just weaklings or are my bloodline skills this weak? No, they’re a Phoenix’ skill, even if I’m not even a year old, they shouldn’t be weak. Am I using them wrong? I really wish Mother had given me some lessons… I’ll have to ask her.
+
+My feathers itched, and I dodged to the side just in time, as a Sabe Qi flew right past me. I didn’t even get some time to think mid battle? These guys are seriously courting death!
+
+I considered what I’ve learned so far about my Bloodline Skills, and dove.
+
+The two sent wave after wave of attack, but I dodged all of them using my skillful air control and Phoenix Reflex, as well as my acute battle sense. They had no choice but to dodge out of the way as I crashed in between them, activating Elemental Wave, then ran away with Ember Step.
+
+The place where the wave originated from got bombarded with attacks, but I didn’t stop to inspect if they’d gotten hit or not. After a few seconds of waiting time, I stepped again, leaving a trail of fire behind me, activated another wave, then cheated and used Side Step to get out of the way.
+
+I repeated that process until they were surrounded with flame waves, and had no choice but to dodge. They had no time to attack, as they would either need to protect their feet from getting burned or their entire body from getting burned.
+
+The fatty’s skin began dimming, returning to its original, human-like color. It seemed that keeping it activated consumed a large amount of Qi.
+
+He slapped his bag of holding, a talisman appearing in his free hand, and it was in that moment that I acted.
+
+An opening!
+
+I shot off of my feet and flew straight at him, dodging the other guy’s desperate attempt to save his friend.
+
+As I neared, I spread my wings and gathered all the fire created by the waves, concentrating it in a large ball of dancing flames, which I then shot toward the fat man.
+
+By the time he reacted, it was far too late. The size of the ball would make one think it would be slow, but in reality it traveled the distance of a few feet in the blink of an eye.
+
+Boom!
+
+The fireball exploded as it collided with the man, and pieces of his body flew everywhere. There were a lot fewer pieces than I’d originally expected, though, and my Phoenix Reflex told me to get out of the way immediately.
+
+Yet, just as I moved, a hand from within the dispersing explosion grabbed my leg.
+
+The fat man’s chubby fingers coiled around and pulled me downward. I tried kicking and scratching, but nothing seemed to make the man budge.
+
+“Brother Li, what have you done?!” The skinny man screamed as he shot a Sabre Qi toward me, which I just barely managed to dodge by sacrificing the tip of my wings. “What happened? Your appearance… this-”
+
+Fuck, not again!
+
+I grumbled and raised a wall of fire between me and the skinny guy, trying to get the fat man off of me. However, his iron-like grip tightened the more I struggled, and a loud scream shook my mind.
+
+The explosion disappeared, revealing the figure of the man’s deep bronze-like skin. His eyes glowed with an ominous red light, and he seemed to have grown by a few sizes. His right hand— the one he manipulated the whip with— had disappeared, but began growing once again.
+
+At least my attack wasn’t completely useless.
+
+I thought while bracing myself with Strengthened Constitution and hoping that the Dragonbone Tempering skill did its job.
+
+Whatever attack was coming next would definitely hurt.
+
+Bring it on! I snickered inwardly, fighting spirit burning within me.

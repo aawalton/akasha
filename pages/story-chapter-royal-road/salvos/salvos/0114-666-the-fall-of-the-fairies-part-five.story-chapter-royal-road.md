@@ -1,0 +1,181 @@
+---
+id: 6cc44f69-9d3f-5056-97bd-4a40801d161d
+page-type-slug: story-chapter-royal-road
+title: "666. The Fall Of The Fairies Part Five"
+slug: 0114-666-the-fall-of-the-fairies-part-five
+partOf: salvos
+position: 114
+ownLength: 1786
+unit: words
+publishedAt: 2024-03-27
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1570130/666-the-fall-of-the-fairies-part-five"
+royalRoadId: "1570130"
+---
+
+666. The Fall Of The Fairies Part Five
+
+“This was your fault.”
+
+The thundering voice of the Fairy Queen struck Basil like a blast of lightning, and he recoiled at her words. Her accusation stunned him into silence. This was his fault?
+
+No— it couldn’t be his fault. It had to be her fault. She was the one who planned the creation of this New World. He was a mere Sacred Spirit who had been forced into being her Architect for this insane project.
+
+He tried to open his mouth to protest. But he blinked when he heard another voice coming from the side. He spun around and stared at one of his fellow Architects with wide eyes.
+
+“This happened because of you! If… if it weren’t for you, they’d all still be alive!”
+
+Basil stared in shock as he heard those harsh words. He swept his gaze over the rest of the other surviving Fairies, and he saw the looks of disdain they bore towards him. He flitted back as he tried to work his jaw.
+
+“N-no—”
+
+He started as the Fairy Queen descended upon him with her looming shadow. Behind her, her entourage of Honored Fairies followed with their weapons raised.
+
+Basil gesticulated weakly and sputtered.
+
+“I… I did not do this!”
+
+He exclaimed. But the Fairy Queen did not listen. Nobody listened.
+
+“Basil the Architect. For your failures which resulted in the destruction of the New World…”
+
+“Please! I am begging you—”
+
+Basil spoke desperately. He looked around for anyone to hear him out. But he was alone, even if he was surrounded by his own people.
+
+And the Fairy Queen finished as she flicked a wrist.
+
+“I hereby sentence you to death by the Void.”
+
+Basil blinked as he processed her words. And suddenly the space around him warped. He felt an overwhelming force yank him from where he floated, before he was ejected out of the barrier the Fairy Queen had created, shot into the nothingness of the Void.
+
+Hartia raised his head as he stared at the two Demons standing defiantly before him. An unending rage filled the Fairy to a brim as he saw them there. They were still alive.
+
+Even after he had used his strongest Grand Skill against them, they still lived. Not only was he forced to remember his background and his failures, he was forced to relive it, but he had done it all to win.
+
+And yet, victory wasn’t assured. Worse— it wasn’t even likely at this point.
+
+Hartia had exhausted most of his greatest Skills to defeat Salvos. And while she had also wasted her own Grand Skill— whilst revealing a strange Skill that was reminiscent of the Voidspace he had accidentally created— she looked ready to continue fighting for as long as was necessary.
+
+Meanwhile, Haec was stronger than ever. And that was in the literal sense. Somehow, while he had been away, he had gotten a boost in strength that let him keep up in close contention with Salvos.
+
+Hartia couldn’t defeat them. Even as he so desperately tried. He launched thousands upon thousands of boulders their way— it fell like the black rain of the Netherworld during the most torrential periods of Genesis, but it wasn’t enough.
+
+The two Demons ripped their way up towards him as he screamed in frustration.
+
+“I will kill you!”
+
+But even as Hartia dropped a giant meteor on them, they tore through it and reached him. His [Fractal Barrier] flickered as Salvos struck him first. Her attack sent him flying back as the world spun around him. Before he could even gain a sense of his bearings, Haec intercepted him and knocked him into a mountain with a powerful kick.
+
+The [Unseelie Lord] shouted in anger as he tried to catch himself with his wings. But Salvos appeared next to him in an instant. He barely even registered she was there. She laughed as he pointed at her, trying to crush her with his magic. However, the distortion protecting her stopped him.
+
+And she struck him with a fiery blow that sent him crashing into the earth.
+
+Basil tumbled out of the barrier protecting him from the Void. He barely had any time to process it. It happened so quickly. The Fairy Queen gave him his judgement, his sentence, and his execution all in one fell swoop.
+
+He had raised a hand to try to do something. But he barely even conjured up the first vestiges of an area of space around him before he was ejected into the Void.
+
+Perhaps it should have been a painless death— perhaps he would have simply faded into nonexistence. Based on his understanding of the Void, he knew that was what was supposed to happen. But that didn’t happen.
+
+Because of the thin layer of space he had created to protect himself. It barely saved him. Or at first, that was what he thought as he floated there, surrounded by a world of nonexistence. However as time went by— or perhaps time stayed still, he didn’t know— he realized that this had been a curse.
+
+That he had condemned himself to an eternity of nothing but his own thoughts.
+
+Hartia screamed in anger and frustration as he was thrown back once again. He was knocked around like he was a rock being sent flying around by low-leveled Fairies practicing their basic space magic. There was not a single moment of reprieve for him.
+
+Right now, he couldn’t even fight back. Even as he desperately tried to break free. He felt so… weak.
+
+“Come on, Haec! His [Fractal Barrier] will break eventually!”
+
+Salvos shouted as her scythe slammed into him once again.
+
+And Basil floated there. Even as eternity came and went. He couldn’t move. He barely could even comprehend his existence. His mind screamed for him to do something— to try and break himself free from this stasis.
+
+But there was nothing he could do.
+
+…until he appeared.
+
+“Tsk. Tsk. Tsk.”
+
+The voice echoed throughout the Void as Basil’s mind froze, processing the first sign of something after so long. The Fairy tried to raise his head— he tried to move his eyes. However, he remained stuck in place.
+
+“Once again, she’s punishing her own people for her own failures.”
+
+Basil didn’t know where the voice came from. He didn’t know who was speaking it. All he knew was that he could hear it come from all around him. And the words that were being said… they piqued his interest.
+
+No— they stoked the fire burning in his soul.
+
+“I told her it was an impossible project. I told her she would never succeed. But even now, after so many failures, she still refuses to listen.”
+
+This was not the first time it happened…? Basil thought as the speaker continued.
+
+“Alas, this time around, you are the one to take the blame.”
+
+And suddenly a figure appeared right before Basil. A crimson face with a goatee stared right at Basil, wearing a mocking look.
+
+“Poor you.”
+
+[??? - Lvl. ???]
+
+Basil was so taken aback by the sudden figure appearing right before him, he actually blinked. The figure laughed before disappearing back into nothingness.
+
+“Well, unfortunately for you, you’re going to be stuck here for a while. I mean— I could save you. But… I won’t! So bye!”
+
+And Basil was left alone once again.
+
+Hartia’s head spun as he was thrown around by both Salvos and Haec. How long had this been going on? He didn’t quite know. But he knew that he was getting tired of these games.
+
+His [Fractal Barrier] could last for quite a long time, but it did not make him invincible. It could be whittled down with enough attacks. And while he knew he wasn’t quite at its limit yet, if he allowed this to continue for long enough, it would be the end of him.
+
+So he had to do something. Specifically, he had to do something about Haec.
+
+While Salvos was an annoying pest, he was certain he could deal with her if it was just the two of them. The only problem was this sudden power boost that the former Heir of the Netherworld received. That was why Hartia was now caught in this predicament.
+
+He needed to find a way to remove Haec from the equation here. But… how?
+
+Basil was left alone with his thoughts again as he floated there amidst nothingness. His mind raced with regret. With his failures. He thought of everything that had happened. Again and again, he replayed what had happened. And he knew it was her fault.
+
+It was the Fairy Queen’s fault. Not his.
+
+What happened to Ivory. What happened to Lotus. What happened to all those Fairies who died. It wasn’t his fault.
+
+So he didn’t deserve to die. He didn’t deserve this judgment that had been passed upon him. He needed to live. For Ivory. For Lotus. For everyone.
+
+And he slowly made progress towards his survival. He didn’t know how or why, but after that stranger visited him, he was able to move ever-so-slightly. Because of that, he was able to manipulate his magic again. All he needed was to expand the small layer of space he created to protect him.
+
+So he focused on that. He focused on surviving. He focused on those he had lost.
+
+He needed to live.
+
+For Ivory.
+
+He needed to survive.
+
+For Lotus.
+
+He needed to escape.
+
+He needed to live.
+
+He needed to survive.
+
+For himself—
+
+Grand Skill [Expanding Domain: Fall Of The Fairies] Gained!
+
+Abundant Experience is awarded—
+
+Hartia’s eyes flickered as he saw the white aura coating Haec. He frowned, tracing the strands of mana across the canyon. And then his gaze landed onto the Third Legion standing silently by the coliseum. They hadn’t intervened. Not once throughout the battle, had they moved to help the [Unseelie Lord].
+
+The realization settled in as Hartia was knocked back by a powerful punch again.
+
+“I understand now.”
+
+Hartia grinned, even as he was hurled through the air. He began to laugh maniacally as he spread his arms wide. Salvos and Haec didn’t slow down in their attacks. But the [Unseelie Lord] didn’t care. He just exclaimed victoriously as he was knocked around like a toy, facing the Third Legion in the distance.
+
+“So I just have to kill them all if I want to win, is that it? Then that’s not difficult at all!”
+
+And he brought his hands together as Salvos and Haec both blinked. They exchanged a glance, before the former Heir of the Netherworld shouted.
+
+“No!”
+
+But Haec was too slow. Hartia clapped, and it was over.

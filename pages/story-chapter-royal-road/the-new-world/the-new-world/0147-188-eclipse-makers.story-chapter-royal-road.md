@@ -1,0 +1,225 @@
+---
+id: 1b3b199a-0481-53b2-998f-3cf1c791239f
+page-type-slug: story-chapter-royal-road
+title: "188 Eclipse Makers"
+slug: 0147-188-eclipse-makers
+partOf: the-new-world
+position: 147
+ownLength: 2903
+unit: words
+ownProgress: 2903
+publishedAt: 2019-03-01
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/338636/188-eclipse-makers"
+royalRoadId: "338636"
+markedReadAt: "2026-06-29T21:25:50.705Z"
+---
+
+I raised an eyebrow, "It has something to do with the dry air?"
+
+Torix shook his head, "Most definitely. I'll be sapping water from the mountain and its innards. The amphibious gialgathens will suffer."
+
+I scoffed, "Yeah. Chapped lips and dry skin. Real deadly."
+
+Torix brushed a hand at me, "You've no understanding of the extreme those discomforts may inflict. On the desert world where I gathered the rations you eat, I explored some of their water magic. They mastered the art of weaponizing dehydration."
+
+Torix spread his hands, "I watched many a soldier's skins crack wide as trenches. It was as if they turned their skin into a brittle paper. Thick blood oozed out of the wounds, coagulate in massive scabs that ruptured as they moved. This was against a reptilian race who's skin resisted said parching magic."
+
+Torix brought his hands in, "The gialgathens aren't so fortunate."
+
+I winced, "Well shit. Remind me not to get on your bad side."
+
+Torix waved his fingers with delight, "Oh, you won't need reminding after this. This display will carve itself into your memory if all goes as planned."
+
+As we stepped up the mountain, Torix raised a hand, "To explain further, the coagulated wounds also serve as stroke inducers. Giant blobs of congealed blood float in their veins, wreaking havoc on their circulatory system."
+
+Torix waved his hand,
+
+"Of course Schema's system assists greatly with repelling these health problems in a normal sentient. The eldritch will likewise resist this kind of death as they own many hearts and many circulatory systems to fall back on. The gialgathens are normal creatures, a fact I realized when I watched your battle with Delilath."
+
+I bit my lip, "Yup."
+
+We stepped in front of a cave leading into the mountain. Torix placed a hand on my shoulder,
+
+"You did well in that fight. She was a worthy foe, and you expect far too much of yourself."
+
+I took a deep breath, "Yeah, you say that and I know that. I saw her family though. Hard to ignore the consequences of your actions when they throw themselves at your face, yenno?"
+
+Torix gave me a curt nod, "We'll have time to reflect later. Are you prepared to enter the cave?"
+
+I nodded, sweat still pouring down my brow from channeling my Lightning Eater skill. Torix raised his hands, dominion mana flowing like fountains. He converted it into the light, airy blue origin mana, his experience evident. With further skill, he transformed the blue mana into plumes of dry air.
+
+It was like watching a math professor do complex calculus. Before he fumigated the mountain, I reached out a hand and heated the air with Star Forger. Torix turned to me, and he gave me an approving nod,
+
+"Well done, disciple. This eases the constraint on my own mana."
+
+I grunted out, straining under the demands of Lightning Eater. My other skills were inherent by now, so it required next to no thought. Lightning Eater was like using a different part of my brain all of a sudden. That increased the demands of the skill by leaps and bounds. Torix relished his role as our team's driver. I was fine with taking a backseat for once.
+
+Along for the ride, my ears popped as the pressure changed around us. With the air pooled, Torix flourished a hand up. His blue fire eyes flared red, and he whispered,
+
+"Kill them all, save any espens you find."
+
+Hiding among the many spires, crags, and crevices around the mountain, an army of silvers crashed into the magnetic field. The entire mountain rumbled as the feet of the horde quaked the ground. The distant echoes of starving cries racked the air like a whip across a sinner's back.  They crowed for a meal of soft flesh, their mutant eyes consumed with hunger.
+
+At first, the magnetic field around the mountain held against the onslaught. The silvers repelled against an invisible barrier, some silvers breaking limbs on the repulsing force. It mattered not. More and more silvers stacked behind their brethren. Less an army and more a moving wall, the endless troops built up.
+
+They stacked up taller, silvers atop one another. They reminded me of ants covering a grasshopper, their victory inevitable. Torix kept his hands spread wide, relishing in the sense of power. At the same time, he maintained absolute focus on the task at hand.
+
+The thousands of silvers never relented, his command unmitigated. The dry air siphoned into the mound, choking the life out of its inhabitants. After minutes of his assault, the magnetic field on the outside of the island faded in strength. The gialgathens were losing mana liked a sliced tire losing air.
+
+Their time was running out.
+
+Within ten minutes, the forcefield dissipated. The silvers swarmed across the greenery, tearing trees and rocks apart in their wake. They were a tidal wave, washing away the living creatures on Mt. Ash. As the dense wave of silvers passed, they left nothing but dirt behind them.
+
+Several silvers keeled over, choking on the organic matter. Just as a Giessian creature rejected silver matter, the silvers rejected normal animals, at least in excess. That's why they stayed contained within their metalscapes.
+
+Torix pushed them past this impulse, forcing them to cleave a path through the life here. With no survival instinct, they acted as kamikazees. The exchange proved lethal for both parties involved. Unfortunately for them, we had more troops on our side.
+
+The remains of the army approached a puddle beside me rippling as the silver's approached. The low rumble evolved into a deafening roar, their footsteps many. With the entire mountain ravaged, the horde descended into the caverns below.
+
+Every exit swarmed with the beasts, leaving no escape for the Skyburners. The monsters scrambled over one another, squeezing themselves in. My skin crawled watching the tactic take place. Inside, the gialgathen's skin was broken and cracked as they fought this swarm.
+
+They never stood a chance.
+
+Torix laughed as he prepared icicle spears above his head, aiming to cut off a Skyburner's escape. Foolproof and methodical, Torix carried out his execution. His confidence evident, he turned to me with his fire eyes red,
+
+"Is there anything more satisfying than watching a plan come together?"
+
+"This is an execution."
+
+Torix shrugged, "Eh, both are equally fulfilling, aren't they?"
+
+I looked up, thinking about it,
+
+"Depends on who you're executing."
+
+Torix pointed at the gialgathen's base, "Then I've much too look forward to. Killing slavers is always exhilarating."
+
+I frowned, "How different is slavery and necromancy though?"
+
+Torix waved off my concern, "Life isn't something to be stolen so easily. Once life is gone, however, there remains little to be taken. Instead, I'm using a resource left behind, nothing more and nothing less. It would be like leaving a freshly uprooted tree instead of harvesting it for lumber. It's wasteful."
+
+"Huh, kind of like how I eat the eldritch after they die. At least some good comes out of it instead of letting it rot."
+
+Torix waved his arms, "In a sense, but we must elaborate further. You see..."
+
+After half an hour of philosophical discussion, the swarms lessened. The silvers trickled in instead of flooding. Torix raised a hand to the cavern in front of us,
+
+"As much as I enjoyed the conversation, they should be ripe for the taking."
+
+I scoffed, "If they're still alive."
+
+We paced into the cavern, finding little of anything. A few minutes of walking later and the edge of a room filled my senses. I raised a hand and turned to Torix, "Be ready. The room is close. It's big too."
+
+He acknowledged me with a nod. As we came closer, I charged my mana, saturating my blood with energy. Torix coalesced two spells in his palm, the holy dark combo ready to fire. As we reached the end of the path, a steady, fluorescent light leaked into the tunnel.
+
+I peaked into the room, finding a massive cavern. The size of a warehouse, it contained enough boxes and supplies to cover the gialgathen's needs for months. Unlike the Skyburners, these gialgathens lacked any slaves as well. They preferred the company of books and archaic rituals.
+
+All seven of the gialgathen mages licked their wounds, shivering at the center of their magical sanctuary. Mahogany robes draped over them instead of platemail like the Skyburners, reminding me of handwoven carpets from some middle eastern country.
+
+Despite their different style, the gialgathens wheezed in a circle all the same. The luscious fabric contrasted their broken wills and broken skin. They looked like dry mud, wounds winding over their skins.
+
+A mound of charred corpses surrounded them in a large, outer ring. A tighter, inner circle drenched the ground in silver blood, leaving a puddle of purple mush. Gialgathen blood, skin, and cloth mixed in with the blend, looking like an art project gone wrong.
+
+As I inspected the beasts, one fact became clear - they survived by the skin of their teeth. Missing claws, chipped teeth, and innumerable gashes showed on the exhausted creatures. On the walls around them, charred banners carried the emblem for Lehesion. One statue laid along a wall in the back with a plaque on its front. It read:
+
+"To our lord and champion, may Lehesion be praised."
+
+We skulked up to the pitiful group, the entire entourage shellshocked. I raised a hand, counting down with my fingers. Torix understood, readying a spell to launch at a Skyburner's throat. As I reached one finger in my countdown, one of the Skyburner's howled,
+
+"Wait. We won't fight you."
+
+I grimaced, ignoring their plea. As I bent over to leap towards them, Torix put a hand on my shoulder. He whispered, "We can worm some information from them."
+
+I sighed, letting Torix do his thing. The lich puffed out his chest and raised his voice, "Then tell us what you're doing here before I send yet another wave of my minions here."
+
+I suppressed laughter at Torix's impression of an evil overlord. He deepened his voice to intimidate these mages. To my surprise, it worked. The oldest  one stepped in front of the group, murmuring,
+
+"We...We are willing to make compromises."
+
+Torix looked down on him, "You're in no position to demand compromise. Submit or face destruction."
+
+The Skyburner lowered his head, bowing to Torix. The old bag of bones lived it up, enjoying his new role of commander. The lich waved a hand at the gialgathens, "Answer or die...What is your purpose here?"
+
+The one in front mouthed, "We...we're here to serve Lehesion's bidding."
+
+Torix leaned back and laughed, "He demands you live surrounded by vermin? To what end?"
+
+The eldest of them shook his head, "It is not for us to question the bidding of a god. We are to obey him, for we are but mortals."
+
+I bit my lip, already frustrated by their bullshit. These sorcerer's humility sure seemed convenient for the situation. Torix didn't take too kindly to their answer either,
+
+"Then you're all useless. Minions, leave me the marrow in their bones. I've been meaning to test a new potion with it."
+
+The few straggling silvers motioned towards them. The Gialgathen out front shouted out,
+
+"Wait, there is much we can tell you still you."
+
+Torix crossed his arms, his icicle spears floating above him, "Like what? It had better be of some utility as well. Otherwise, you'll be worm's meat soon enough."
+
+One of the other gialgathens announced from the shivering pack in the back,
+
+"What are you doing? You act like Emagrotha's filthy cult, caving under any pressure. We are better than them."
+
+The oldest gialgathen turned around and snapped, "Silence. There's is nothing more painful than a sorcerer's spells. They can eat your guts while keeping you alive. He will play with our corpses. Don't you see there's no honor in a puppet's death?"
+
+The younger gialgathen walked out, his red and white skin sticking out,
+
+"And there's no honor in dying a dog's death either. He will show no mercy. More still, you make us out to be cowards. Lehesion will rain down on us his wrath should we continue this heresy."
+
+The younger gialgathen turned to the pack, "Remember this. Emagrotha's entire army caved after her failure. They preached relentlessly about personal excellence and achievement. They spit in the face of those that dwelled in mediocrity, even from inferior races. We give in here, and we follow the path of those hypocrites. We become cowards."
+
+Torix crossed his arms and tapped his foot, "My patience wears thin."
+
+The older gialgathen stood in front of the younger mage,
+
+"He knows not what he says."
+
+The younger one snapped his tail across the side of the older gialgathen's head. The elder mage fumbled sideways as, the younger Skyburner shouted,
+
+"I know exactly what I say, old coward. I'd rather die than be remembered as a betrayer."
+
+Torix let out a slow, evil laugh. The room went quiet as the necromancer murmured, "Then you may die as a martyr for the others."
+
+Torix clapped his hands, sending out a shockwave. As he pulled them apart, he generated an icy staff in his hands. The lich prepared a spell while I soaked in pure mana, already charged to the brim. Before Torix unleashed an onslaught, the youngest gialgathen's head snapped back as if possessed.
+
+Color bled out of his skin, a glowing amber covering the red and white. As it did, the other gialgathens stepped back and bowed their heads. One of them whispered,
+
+"He has ascended."
+
+Sparks of amber lightning coursed from the young gialgathen's skin. A radiant power coursed through him, rushing like a river. The beast lifted his head and roared, his echo shaking the mountain. He raised a claw, leaving a trail of condensed mana behind him. He stretched out his hands, swords of a golden glow stretching out from his claws.
+
+Before he unloaded his no doubt devastating attack, I raised a hand. Discharging a vast well of mana, a singularity formed in the enhanced gialgathen's chest. All the energy in the world couldn't save him as the atoms that composed the beast collapsed inward. Feeding the implosion, a tiny black hole feasted on him, creating a growing ball of pitch black where his chest was.
+
+The awakened mage caved in, sending out a shockwave of kinetic energy. The gialgathens burst out, landing on charred walls and crushing the silvers behind them. The eldest one flopped towards Torix, limp and unconscious. I stepped up to block the impact, but the lich was in full control.
+
+He unloaded holy magic with one hand and swung his staff with the other. A pure light emanated from the gialgathen before a slicing shadow cleaved the beast apart. The sides of the monsters splayed against the insides of the mountain, blood spraying over us in a mist.
+
+With only five weakened mages left, Torix pinched the bridge of his nose, letting the situation sink in.
+
+They were fucked.
+
+The gialgathens stared at the spot of the singularity, a blast zone encompassing most of the mountain base. One of them raised a hand and pointed at the once glowing gialgathen,
+
+"Lehesion granted him ascension...but you killed him...just like that."
+
+I cracked the knuckles of my hand, each pop sounding like the snapping of metal cables. They laid like lead, stunned into submission. I analyzed them, trying to get something out of the situation while they were incapacitated.
+
+Sonora Sun-Splitter(lvl 8,902) - Sonora Sun-Splitter was a member of Lehesion's elite group of Eclipse Makers. The namesake came from their ability to create complex hallucinations, going as far as blocking out the sun to an entire army in the middle of the day.
+
+Though the group was named for such an illusion, they created many other feats of renown. They fooled a naval force with the image of a tidal wave. They caused retreats from falsified astral bombings. They even sieged cities by fooling the local populace into believing their water was rank and the food spoiled.
+
+Powerful as the force can be, proper setup and time are required since even a single Skyburner could rip a group of Eclipse Makers apart. At the same time, their talents are formidable when utilized correctly.
+
+In the case of Sonora, very little is known outside of her name. Found on Mt. Ash, she's propagated the spread of silvers and researched unknown queries.
+
+Her elimination is highly recommended.
+
+The other gialgathens were higher leveled than Sonora, and I couldn't analyze them. Their perceptions were too high. I turned to Torix,
+
+"They're a group of mages from Lehesion called the Eclipse Makers. They're pretty weak so we can capture them without risking our lives. Watch out for their fire though."
+
+Torix nodded as I jumped down into the pit. I swung my arms out wide, my hands forming into tendrils of metal. My armor pierced the two pieces of the corpse, needles swarming the Eclipse Maker. Within seconds, nothing remained but the splash of blood and scent of meat.
+
+With the mages terrified, I reformed my arms spikes back into hands. At the same time, I slammed my hands together, sending out an echo like shotgun rounds. I stepped up to them and growled,
+
+"Who wants to be the next bloodstain?"

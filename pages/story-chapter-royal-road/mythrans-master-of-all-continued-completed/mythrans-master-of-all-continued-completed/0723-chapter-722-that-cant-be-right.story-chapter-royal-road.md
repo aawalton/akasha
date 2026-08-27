@@ -1,0 +1,279 @@
+---
+id: 5da5c8f1-65b9-5633-b46b-d48b7a58feb2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 722 - That Can't Be Right"
+slug: 0723-chapter-722-that-cant-be-right
+partOf: mythrans-master-of-all-continued-completed
+position: 723
+ownLength: 3252
+unit: words
+publishedAt: 2018-10-06
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/296131/chapter-722-that-cant-be-right"
+royalRoadId: "296131"
+---
+
+The judge wasn't having a good day, and he was a little upset that his normal docket had been superseded by higher authority and had changed all of the cases he had to judge that day to more high priority cases.
+
+I'm the one that's supposed to decide what cases have higher priority. The judge thought and entered the court room. Everyone stood up and he sat down behind his bench.
+
+“Be seated.” The bailiff said and everyone else sat down.
+
+The judge opened the first folder on his desk and read the header. “This first case is...” He stopped speaking when he recognized the litigants mentioned, then frowned because they were on the same side of the page and were both defendants. “This case isn't supposed to be heard for another two weeks.”
+
+“Your honor, if I may speak.” A lawyer from Ren's law firm said, and the judge looked up from the case file. “This is a separate case for an injunction against issuing a patent to companies that participated, either knowingly or unknowingly, to get information that was obtained illegally by experimenting on a child.”
+
+The whole courtroom fell silent at those words and you could hear a pin drop, if anyone was dumb enough to drop one into the silence.
+
+“That... that...” The judge looked back at the file and quickly read it again. “Council will approach the bench!”
+
+The lawyer started to walk over.
+
+“All of you.” The judge said, and the defendants sent their lawyers as well. “This had better not be a joke.” He said to Ren's lawyer.
+
+“Sir, we have both evidence as proof and sworn testimony from the child in question.”
+
+“I object.” One of the other lawyers said. “When has sworn testimony been taken at face value without being cross examined?”
+
+“Where is this child?” Another lawyer asked. “Our clients have the right to face their accuser.”
+
+Ren's lawyer smiled. “He's not accusing you of anything.”
+
+“You just said...”
+
+“Quiet!” The judge said. “Why is this being heard in open court?” He asked. “You should have just filed the injunction and gotten it over with.”
+
+“Your honor, I'm under strict orders to, and I quote, 'to make the most of the evidence in court'.” Ren's lawyer said.
+
+“You could lose and not get the injunction if you don't prove your case.” The judge said, thinking he would do just that, because he didn't want the headache this was going to give him.
+
+“Your honor, just getting this out in the open and exposed to the public will be enough of a win in our favor.” Ren's lawyer said and smiled. “We will get the injunction... and all of the patents.”
+
+The other lawyers chuckled at the absurd boast, then stopped when the judge glared at them.
+
+“All right. I'll hear opening statements.” The judge said. “If any of you try to make this courtroom a farce, I'll have you held in contempt of court and tossed in jail for a month. Are we clear?”
+
+“Perfectly, your honor.” Ren's lawyer said, and the judge motioned for them to go back to their positions. After a brief opening statement by all parties involved, Ren's lawyer had the video technician plug a thumb drive into the laptop he had requested, and the video started to play. The image of a very decrepit and frail-looking boy appeared on the screen, then the pale face spoke.
+
+“My name is Ren Haddon. I am of sound mind and questionable body...”
+
+After an hour of listening to Ren's torture and the direct links to both technology companies, half of the courtroom's audience had left and the judge had granted the injunction and ceded the rights to the patents in question to Ren Haddon. When the litigants left the courtroom, the judge saw Ren's lawyer shake someone's hand, then that person walked over to the plaintiff's desk and handed a thumb drive to the bailiff to put in the laptop.
+
+Son of a bitch. The judge thought and opened the next folder, then heard several groans from the courtroom. They had seen that the thumb drive was the same as the one Ren's lawyer had, too.
+
+*
+
+“Oh... my... god.” Trisha Takinawa whispered after Ren was done telling his story. Everyone's faces were filled with shock and surprise, except for Elise and Lisa. They both knew about the AI and the realm it was in, so it wasn't as big of a shock to them. Ren had been smart to not mention exactly how long he had been there, though.
+
+“That... I... I can't air that.” Trisha said.
+
+“Wh-what?” Barbi and several others said at the same time.
+
+“It's just... too fantastical.” Trisha said. “Talking to an AI? Programming inside the game to fix the game you're in? How does that even work?”
+
+“I said that...”
+
+“Yes, I understand what you said. You were in a separate part and changed everything.” Trisha said. “But, you were still within that framework in order to do that, so if you change part of it while inside, it shouldn't have worked because it was in use at the time.”
+
+Ren didn't have an answer for that.
+
+“Anyway, I can use aspects of it to enhance the real story.” Trisha said and turned to Barbi. “You already sent me the video of your encounter with Mr. Hastelbeck.” She said, and Barbi nodded. “I need a bit of background on both of you, and then Ren's view of the cancellation of his show.”
+
+“At least they couldn't demand some of the money back.” Barbi smiled. “The station screwed themselves over big time by cancelling it.”
+
+“Ooo, do tell!” Trisha said happily, and Barbi told her all about the contracts designed to cover the company in practically any case, except for fraud. Trisha turned to Ren with a huge smile. “Tell me you're suing over wrongful termination!”
+
+Ren shook his head. “If I do that, they'll reinstate the contract and I'll have to share the rights again.” He smiled. “On the advice of both my public relations specialist and financial advisor, keeping it all in-house is a much better idea than putting the show back under such incompetent management.”
+
+“Are you starting your own production company?” Trisha asked.
+
+“We haven't gotten to that decision yet.” Barbi said. “At the moment, we're only concerned with getting the show to a good point to end the season, then we can worry about where to go from there.”
+
+Trisha nodded. “That's reasonable.” She said. “So, Ren... what did you think when you found out the show had been cancelled?”
+
+“Well...”
+
+“What was your very first thought?”
+
+Ren chuckled. “How monumentally stupid it was to cancel their most popular show.” He said. “After I found out the rights reverted back to me, I had another thought.”
+
+“Oh? What was that?” Trisha asked.
+
+“They cancelled it right after I had fallen into the bottomless pit with the ogre.” Ren said, then smiled at Trisha when her mouth made that little 'o' of surprise. “Yeah, isn't that the worst time to end something? On a literal cliffhanger?”
+
+“I... I didn't realize...”
+
+“The fans do now.” Barbi said and took out her cell phone and shook it, and Trisha looked at her own and saw all of the messages about that and everything else going on with the show. “Elise, can you...”
+
+“Sure.” Elise said and walked over to the small television in the corner and turned it on, then put a thumb drive into the side of it, and used the remote to show several images of the television's stock dropping significantly. “This is only the preliminary projections from the stock exchange. When the knowledge of what happened gets into the financial sector and they realize what's been going on inside a publicly traded company...”
+
+“They're going to be reduced to a fraction of their previous value, even with Mr. Hastelbeck as the scapegoat.” Trisha said.
+
+Elise nodded. “They'll recover, since this was only a single incident... but...”
+
+“It will leave a lasting suspicion over all the other shows that have been cancelled over the years, and if they were in a similar situation.” Trisha said, and completely understood the situation.
+
+“You got it.” Barbi chimed in. “I feel really bad for the people that work there, since they are probably going to cut back on staff when the stock drops to where Elise thinks it's going to be.”
+
+“That's because your loyalty is to the workers and not the company.” Trisha said. “Are you going to offer...”
+
+“I already did, and they said no.” Barbi said, and everyone was surprised by this. “They said something about going down with the ship or some nonsense.”
+
+Ren had seen her eyes twitch when she said that, so he knew she wasn't quite telling the truth. He wasn't sure why, since he hadn't seen her exhibit any kind of tick like that before, then figured that was why.
+
+“So.” Ren said. “Now that we have the meet-and-greet out of the way, I'm feeling pretty good about this.” He smiled at Trisha. “I think I'll be able to handle giving an interview.”
+
+Trisha smiled and stood as she reached out to take his hand. “Ren, don't be shocked, but I don't need an interview from you.”
+
+“Wh-what?” Ren blinked his eyes at her, and she laughed.
+
+“You've given me everything I could ever use, and I barely had to ask any questions.” Trisha gave his hand a squeeze. “You're very personable, even if you are a little too forward for some people's tastes.”
+
+“Yours?” Ren asked, and she shook her head.
+
+“I like people who don't mince words and tell it like it is without sugar-coating it.”
+
+Ren nodded and shook her hand. “Then it was an even bigger pleasure to meet you, Miss Takinawa.”
+
+Trisha laughed and let his hand go. “Likewise.” She said, then shook the hand of everyone else.
+
+“I'll walk you out.” Barbi said and led Trisha and the camera man out of the den. When the door shut, Ren turned to Elise.
+
+“Did you notice that the camera man moved his camera around, even though he wasn't supposed to be filming?”
+
+Elise nodded and picked up the house phone, spoke for a moment, then hung up. “If he was transmitting wirelessly, there's nothing we can do to get the footage back.”
+
+“I'm not worried about the footage, I'm worried about what he's going to do with it.” Ren said.
+
+*
+
+“Thanks a lot for coming over.” Barbi said as they stepped out of the elevator. “You did a great job keeping Ren relaxed.”
+
+“You need to keep the subjects comfortable and let them talk.” Trisha said as they walked across the lobby. “They want to tell their story. If you try to push or force them, they clam up and won't volunteer anything.”
+
+Barbi opened the front door and several security guards were there. “Wh-what...”
+
+“You need to come with us.” One of them said and grabbed the camera man's arm, and the other grabbed the camera.
+
+“Hey, what are you doing?” Trisha asked, her voice a slightly higher pitch. The guard with the camera popped it open to see that it wasn't a normal video recording device.
+
+“You can't do that!” The camera man exclaimed as the guard pulled out the odd contraption.
+
+“When you come in here under false pretenses, we can do whatever we want to trespassers.” The guard holding his arm said.
+
+“What are you talking about?” Trisha asked.
+
+Barbi sighed. “Trisha, please.” She said, and the reporter looked at her. “Who are you helping?”
+
+“I'm not helping anyone.” Trisha said.
+
+“How long has this guy worked for you?” Barbi asked.
+
+“Three years.”
+
+“What's his name?”
+
+“Bob.” Trisha said, and Barbi nodded to the guard holding Bob. He quickly searched the guy's pockets and took out his wallet. He opened it and saw the driver's license up close, then chuckled.
+
+'Wow, we really do need a brush up on procedure.” He said and held it out to Barbi, and the name on the driver's license was actually Bob.
+
+“But...”
+
+“Bob is a nickname.” The guard said and put the wallet back into the guy's pocket. “No one in the DMV would issue a drivers license with Bob as the actual name.”
+
+The guy saw an opportunity and stepped on the guard's foot, used an elbow to hit him in the gut, then tried to run. Barbi was right there and stuck out her foot, which tripped him and he fell hard onto the door frame and it knocked the wind out of him. Another guard came over and two of them picked the guy up and put him in handcuffs.
+
+Barbi turned to Trisha. “Okay, so who is he?”
+
+“He's Bob.” Trisha said.
+
+Barbi scowled at her. “I vouched for you.” She said, menace in her voice. “I picked you out of the dozens of reporters as someone who was safe to bring in to meet Ren.” She said and stepped close to her. “Do you realize what that means?”
+
+“Bob didn't do anything.” Trisha said.
+
+“Are you really going to deny it?” Barbi asked, and then pointed at the fake video camera. “The evidence is right there!”
+
+“I didn't know that...”
+
+“What? Isn't he the man you came here with?” Barbi asked, and Trisha closed her mouth. “You claim to know him for three years, and yet you didn't know his video camera was fake, or that Bob isn't his real name.” She said. “Where's your real camera man?”
+
+Trisha didn't say anything in response, and Barbi shook her head.
+
+“Take her, too.” Barbi said and sighed. “Make sure they can't contact anyone.”
+
+“Hey, you can't do this!” Trisha said as she was handcuffed. “I'm the press!”
+
+“Yes, you are.” The guard said. “You also knowingly and intentionally violated several laws, including fraud, privacy, and misrepresentation.”
+
+“I did no such thing!” Trisha exclaimed in a higher pitched voice as she was dragged away with the camera man. “Barbi, please! This was just a misunderstanding! Let me explain!”
+
+“You can explain it to the police for all I care.” Barbi said, sadly. “Oh, and claiming you were coerced won't fly.” She said and pointed up at the security cameras. “It's all on video, and not once did you try to defend your actions or disassociate yourself from your partner.” She said. “Good luck claiming innocence now.”
+
+Trisha closed her mouth on further protests and Barbi didn't bother trying to get some satisfaction by watching them be loaded into the back of the security guard's van. Tears started in Barbi's eyes as she walked over to the elevator, and she tried to stem their flow as she went to the third floor. She wiped at her face and messed up her makeup slightly; but, she didn't care about that. What she cared about was that she had inadvertently damaged Ren's trust in her.
+
+*
+
+Ren and the others turned towards the door as it opened, and Barbi stood there. Her face was a mess and she was crying.
+
+“R-Ren, I... I'm so...”
+
+“Come here.” Ren commanded, and she walked meekly over to him. “Kneel.”
+
+Barbi didn't question him as she knelt in front of the wheelchair, and then Ren shocked her as he leaned forward and took her into a hug.
+
+“Shh, it's okay.” Ren said and rubbed her back. “It wasn't your fault.”
+
+“But... but...” Barbi tried to speak.
+
+“I'm not mad at you.” Ren said. “I can't hold you responsible for this.”
+
+“R-Ren, I...” Barbi's arms eased around his back and held on.
+
+“I've suffered a lot when people I thought I knew, did something to hurt me.” Ren said. “You know I have.”
+
+Barbi nodded, and Ren leaned back to sit up straight and left his hands on her shoulders.
+
+“My guards even vetted them beforehand, and it wasn't their fault that the camera man was replaced at the last minute.”
+
+“But... but...”
+
+“It's not your fault, either.” Ren said and leaned back down to give her a kiss. It was soft and tender, and Barbi didn't think she deserved it. He felt her stiffen slightly, and he leaned back. “I'm sorry, I thought you wanted me to...”
+
+“I do, but... I... I don't deserve it. Not after a mistake like that.” Barbi said through her tears.
+
+Ren smiled and gave her shoulders a squeeze. “That's why you do deserve it.” He said and gave her a brief kiss. “The guards know how to do their jobs. They should track down where the other camera man is and hopefully we can get this sorted out.”
+
+“You... you don't think that...”
+
+“No, they wouldn't kill him.” Ren said. “All they would have to do is not tell him about the last minute interview.”
+
+Barbi sighed in relief and Ren let her shoulders go, then he sat back in the wheelchair and looked at Elise.
+
+“Is there enough security camera footage in here for a good interview? Trisha said she had enough information to make a good story.”
+
+Elise shook her head. “I'll have the guards try and get something from that camera the guy had, but I doubt it'll have anything even close to what we would need.”
+
+“Well, damn.” Ren said. “Barbi, is there any chance you can salvage any of this? The fans are going to expect something.”
+
+“I... I don't...”
+
+Ren touched the side of her face and rubbed her cheek with a thumb. “You might not have good video, but the audio should be perfectly usable.” He said, and her eyes widened. “Elise will give you a hand retrieving it from the secured server and you can edit it into an appropriate info dump for the website.”
+
+“That... that's a great idea.” Barbi said. “I can cut out Trisha's questions and either type them up and have people click the answer, or dub in my own voice asking them.”
+
+“Now you're thinking.” Ren smiled and let her face go. “After Elise checks it for sensitive information, you can post it where you think it'll get the most views and shares.”
+
+Barbi nodded. “I'll start it right away.”
+
+“If that's not enough to get more people interested in what's going on, maybe we can have a draw for a set of figures before they hit the stores.” Ren said.
+
+“That's a great idea.” Elise said. “Lisa, how many sets came in the crates?”
+
+“There were two sets per crate and six crates.” Lisa said. “I took mine and the special figure, so there's eleven left.”
+
+“Barbi, grab a set and bring it to the office. We'll take pictures of it and pack it up in a box, then after you release the interview and the teaser trailer for the next episode, we'll announce the draw will be made in a week.”
+
+Barbi nodded again and stood up, then wiped her eyes with the backs of her hands. “Ren, I... I just... thank you.” She said, leaned down and cupped the sides of his face, then gave him as tender of a kiss as he had given her mere moments before. She didn't say anything else as she stood and let his face go, then she quickly left the room.
+
+“How long do you think it'll take her to remember to get the security video from you?” Ren asked.
+
+“At least until she sits down at her desk.” Elise said, and everyone chuckled.

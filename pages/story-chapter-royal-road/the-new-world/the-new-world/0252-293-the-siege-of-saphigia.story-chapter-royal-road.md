@@ -1,0 +1,269 @@
+---
+id: 6776029d-16ff-5a17-a44a-9ee66adeb73a
+page-type-slug: story-chapter-royal-road
+title: "293 The siege of Saphigia"
+slug: 0252-293-the-siege-of-saphigia
+partOf: the-new-world
+position: 252
+ownLength: 5126
+unit: words
+ownProgress: 5126
+publishedAt: 2021-03-12
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/645740/293-the-siege-of-saphigia"
+royalRoadId: "645740"
+markedReadAt: "2026-06-29T21:29:46.428Z"
+---
+
+I reached out my hands and clapped them together, releasing a dull thud. Getting myself amped up, I reminded myself what to do. I could make a massive difference during this siege, and that might ensure our victory. Those thoughts fueled my resolve as I stepped up to Mt. Verner. Walking towards a cleared out hillside, many of our members walked around in the open, using Omega Strains.
+
+It was as Torix and I agreed; everybody already prepared for the battle. Others practiced working with my rings, some floating in the air already. That was good. Mobility kept our people away from the Hybrids. Stepping past one of my super golems, they'd do well there too. Surrounded by ten legion members apiece, the supergolems stood heads taller than the crowds around them. They'd protect everyone during the invasion.
+
+Walking up the shortest of these golems, I found my most loyal member,
+
+"How's it going, Alpha?"
+
+The golem turned towards me, something about its thoughts unknowable, even if I made its mind,
+
+"I am well. I thought about what you told me when we met last."
+
+I raised an eyebrow, "What did you figure out?"
+
+"I contemplated how limited we golems are. It left me feeling insignificant. This feeling, while inevitable for all living creatures, was...painful. It left me empty and afraid. In that darkness, I found purpose, however."
+
+I nodded, finding myself admiring Alpha's willingness to dwell on these kinds of topics. I couldn't tell if those kinds of reflections didn't bother me or if I was too scared to bring them up. I was better off than most considering my being a dimension, but I still paled compared to an Old One and the like.
+
+It sounded like Alpha wrestled with those same concepts. The first golem raised a hand to me, "But you gave me a reason to be. I use that to quell this apprehension...I wonder if all things that live must contemplate their existence like this?"
+
+"I think they do."
+
+"Then, that is good. It will keep us humble despite the frames we wield. In that manner, we dwarf humans...I remember telling you it was a miracle that humans survived the last time we talked. I aim to enact that sentiment towards our enemies but in action instead of words."
+
+Alpha met my eye, "I-I also wish to make you proud."
+
+I smiled at him, "You already have."
+
+I gave him a pat on the shoulder, glad he was keeping a team safe. He wasn't alone in that effort. Our necromancer would join him, commanding our forces, so they operated in harmony. Torix stood with Chrona and Krog beside him, and they all wore some variation of my skin. It gave me an odd sensation looking at them. If that's what I looked like, then I dreaded seeing me in person.
+
+Outside of those three, Hod, Amara, Kessiah, Althea, and Spear stood nearby. Florence and Helios wouldn't be participating in this siege. They studied on the third floor, remaining with noncombat personnel. Only those present would be joining in the attack, and we intended on making it count. What we lacked in numbers, we aimed to compensate for in quality.
+
+In total, we amassed 250 super golems, 2,000 gialgathens, and 2,000 Omega Strain users. Outside of that, we had 1,000 supportive members. They'd help set up camp once we established a fortress. After walking up from the warp, I passed by these soldiers, and I dwarfed them. They gawked at me, the super golems bowing their heads.
+
+My guildsmen followed suit. As they did, the talkative crowd across the mountainside quieted. Even my followers did so, the ritual feeling out of place for just me. It took all I had to accept this, er, reverence, I'll call it. I wanted to just make a joke and let everyone loosen up. However, part of being a symbol was being larger than life.
+
+We needed everyone to feel like our victory was inevitable. This process was a crucial part of that. Still, discomfort ate at me even after I stood beside my core members. Lifting an arm, I raised a platform of earth generated beneath us from my mana. With a good view of our surroundings, I peered at the people here.
+
+They drilled the combat requirements for today over the last two weeks, many veterans showing their faces in the mix. My followers and I already made the plan while I created the golems, and we'd make up for our numbers using quality. Knowing this, I kept our members in suspense until after Torix gave me his patented loudspeaker magic.
+
+With everything in place, I expanded Rise of Eden while lifting my hands, "Everyone, rise."
+
+The aura gave my command more weight, and they listened. Our people synchronized the stand up even without any planning. Torix's training made sure that was the case. It was my turn to do my part, so I met as many eyes as I could while starting my speech,
+
+"Many of those here know the taste of war and the shedding of blood. To those veterans, I have nothing to say aside from congratulations on living on and building our guild. Without you, we'd never have made it this far. Our lives and current prosperity was built on your sacrifices."
+
+I raised a hand, "For those that are new here, I'd like to remind you what we're fighting for. These people we fight today, Elysium, they've committed genocide. The gialgathens here know all too well what they're capable of, and these monsters will be coming for our planet next. Given our track record of kicking their asses, I'd say they hold a grudge against us too."
+
+A laugh radiated through the crowd, one filled with confidence. I smiled too, "We'll return that favor, but we happen to speak louder with our actions than they will with their words. I promise you that."
+
+Many of our members raised a hand and let out a roar in agreement, gialgathens included. I turned and peered at many,
+
+"We've evolved from a guild that struggled against Yawm to one where you fight beside golems strong enough to bring that monster to his knees.  I used my sweat, tears, and blood to make these guardians for each of you. They are behemoths of might, and they'll tear anyone apart that would wish you harm. Their loyalty is also absolute, so treat them well."
+
+Taking out Yawm individually was a bit of a stretch, but our guildsmen believed me. It didn't hurt my argument when supergolems stomped in unison, and the mountain quaked as they telepathically shouted,
+
+"As we live, your enemies shall die."
+
+Our guildsmen gave them wide-eyed looks, but before they felt out of place here, I widened my arms,
+
+"Know that none of you are helpless even without these titans by your side. These Omega Strains were made with our enemies in mind, researched by our archmage Torix. He'll assist each of you, ensuring your fights matter and that your victories hold meaning. We'll gain ground with every passing second, and he'll guarantee our losses will be nonexistent."
+
+I wasn't rigorously honest about the Omega Strains either, but my exaggeration served its purpose. Looks of intention and resolve covered those present. That's exactly what we needed. I gripped my hands into fists,
+
+"We will expand through Blegara, and it will be the first piece of our conquest. I will charge ahead of you all, and I will leave carnage and devastation in my wake. My new class has made me into a true Harbinger of Cataclysm. I no longer live in its namesake. I am it embodied, and I will aim my abilities towards those that defy us."
+
+I shook my hands, "Believe me when I say that they fear me. I fought toe to toe with Lehesion before my class. Now, I will evoke biblical wrath onto our enemies, and when they sleep, they will remember what I've done. It will be etched into their memory, unable to be forgotten."
+
+I changed the Rise of Eden to Event Horizon, "You all, you will be pivotal in this. I want our enemies to live in a nightmare. I want them to be terrified of their own shadow. I want them to regret ever having heard our names. We are legion, and we exist as a force of nature, an unstoppable torrent that will drown them in our endless march."
+
+The vibrance and fervor of Event Horizon infested those here, and they roared out in violence. It wasn't only useful for the draining effect, after all. Tapping into that primal instinct, I let out an inkling of ascendant mana to get them excited,
+
+"We will conquer this world and then ours. We'll establish cities, routes of trade, and protection for our families. The eldritch will be rumors of a forgotten age, and the Hybrids will be stories we tell our children at night. With this battle, we establish ourselves as a galactic power, one worthy of fear and awe. This is our first step into a bright future, one where we are victorious."
+
+The crowd let out another shout before I raised a fist,
+
+"Now, who will take that first step with me?"
+
+The crowd let out a booming outcry of approval, one that echoed for miles around. Not too many miles, though, as Torix dampened the earth-shattering echo. We didn't want Elysium discovering us. With everyone inspired, I turned towards the others here,
+
+"You all remember the plan, right?"
+
+They each gave me nods, my followers, and generals preparing for the upcoming battle. Turning towards Spear, I grinned, "You ready?"
+
+The Sentinel shivered as my helmet collapsed over my face. A menacing grin appeared over it, its hunger endless. Spear waved his dimensional slicers with hesitation,
+
+"I...am."
+
+He got his swinging in rhythm before ripping dimensions, and I jerked the spatial rends apart. I tore further than ever before, creating an enormous splice large enough for gialgathens to fly through. An ocean opened on the other side, my blood boiling at the sight of my next battle. It'd been too long.
+
+But before that, I pulled out a bit of my molten fabric. Creating two struts for the dimensional portal, I pried them into the warp before Spear gawked at me. I turned to him, "Eh, just trying out something new."
+
+He glared, "You realize that this dimension isn't something to play around with, don't you?"
+
+I tilted my head, "Does Schema?"
+
+Spear leaned back, but I waved my hands, "Spear, that's a rhetorical question."
+
+Spear looked like he wanted to retort, but he chose to stay silent.
+
+I turned towards Blegara, "Come on, let's go."
+
+I jumped forward through the engorged veil. Water appeared beneath me, the wind of Blegara humid and heavy. As I sliced through the water, no one followed just yet. They were to witness my initial assault and handle the aftermath. Knowing this, I floated down towards the epicenter of Saphigia, Blegara's capital.
+
+Below me, many Vagni, Hybrids, and Elysium people stared from above. I drifted downwards, an omen of what was to come. As I did, alarm systems went off throughout the city, their detection magic discovering our tear in space-time. It was irrelevant. Their defensive artillery, Hybrids, and mind mages turned their jaws towards me. They clamped down with fury, violence, and competence.
+
+Against my skin, sharpened fangs shattered. Under my gaze, their fury turned to frailty. In my shadow, they turned into ants under a child's heel. I loomed over their vessels, and my mana charged. It permeated the water around me, the entire landscape deforming under its presence. I warped the space around me, the void screaming out.
+
+And they heard my name.
+
+I reached out my hands, gravitational wells exploding outwards in a plume of darkness and radiation. These growing blots of black consumed the vessels, ripping the hulls apart like cold glass under boiling water. Within seconds, little remained of their vast fleet under me. I used more mana, my skin heating until the water boiled around me.
+
+Glowing and visible, I separated my mind into three parts. One attacked the most apparent clusters of foes using my singularities. This fractured their line and spread chaos throughout their ranks. Another logic strain retaliated at the telepathic links formed against me, and this prevented mental fatigue and damage from culminating over this battle.
+
+My final mind wielded my magic and auras like vast whips of carnage. Event Horizon sculpted the city beneath me, eliminating the espens present. Beyond those members, I melted the sand beneath every Hybrid's feet, and a second sea of glass formed, the ocean boiling around them.
+
+I splashed this glass over Hybrids before flash freezing it. Catching them in the trap, I pulled my hands apart and slammed them together. A kinetic wave snapped these frozen monsters, and a wave of gravitation followed. This all happened as I bombarded their lines with singularity after singularity, leaving a wasteland where my enemies once stood.
+
+Gravitation followed, swarming the few remaining survivors collapsing from compressive snaps. These tiny pulses of gravity crushed individuals, immobilizing them. Event Horizon washed over these remains, eliminating the corpses and those left alive. It sapped these remains, leaving the seafloor abandoned as it passed.
+
+My relentless assault continued. I froze the blood in their bodies, and I crushed their skulls under gravity wells. I pulped individuals with telekinetic flicks of my finger, their bodies more fragile than glass. Within minutes, I devastated a several mile wide area beneath me, which left little for Elysium to defend.
+
+But they were a galactic power for a reason. Elysium's defense systems activated, and reinforcements arrived. From portals, Hybrids from other cities on Blegara came in mass. Ships, dreadnoughts, and submersibles swarmed into the sea, and they brought the blighted with them. These twisted leviathans carried improved Hybrids, Version 2.0s riding them.
+
+This swarm appeared before me, yet I remained steady. No fear ran up my spine. I stared them down and left them stricken in terror. They would gaze upon what I wrought, and they'd tremble. I was built for this. This was within my means, and they needed more than fodder to handle me now.
+
+From behind me, my guild invaded as I lifted my hands at the incoming forces. I lobbed simultaneous gravitational singularities, having saturated my frame with mana. They triturated under the might of gravitation, and swaths of water disintegrated, swallowed by the gravitational holes. Waves erupted upwards, turning the steady sea into a stormy puddle.
+
+These compressed wells of gravity enacted a destruction absolute, tearing enormous swaths of their forces apart in seconds. Those alive sent back vital information to the further reinforcements, and their portals split apart into multiple directions. From these vantage points, their Hybrids, Blighted, and mind mages advanced.
+
+I shifted to Rise of Eden, and I partitioned myself into several minds once more. One of these minds generated singularities on clustered enemy forces. This split their offensive apart. Beyond those, others came riding in, forming a telepathic link with me. Their blighted shot out orange plumes of acid, and their Hybridized leviathans swam into combat range.
+
+One of my minds chased these telepathic links down, and I didn't launch a mental assault back. Instead, I smothered the source with Event Horizon. Though still somewhat useful on Hybrids, Event Horizon disintegrated the squishy mages, all the flat damage overwhelming them. This proved much more helpful than fighting them at their own game.
+
+Another mind focused on dismantling the telepathic connections between Hybrids and espens. Unlike their controllers, the Hybrids lacked any real intellect to beat. They obeyed like puppets pulled by unseen strings. Copying Alpha's strategies, I tugged at those strings while surging bursts of ascendant mana through them.
+
+This created short lapses in the espen's control, which became deadly from the ascendant mana's influence. The Hybrid's orange pustules pulsed red, and they attacked everything nearby, often each other. This made for an efficient, targeted approach instead of brute-forcing them to death like I usually did.
+
+Despite my onslaught, some of their ships escaped my singularities long enough to fire at our troops. This was where I made yet another mind control my dimensional shield. I generated my pocket dimension, swallowed the dreadnought's blasts, and reversed the artillery back at them. This left little for our troops to dodge as they rolled in.
+
+And even those that passed beyond this decimation, they fought with me in hand to hand combat. Magic or not, I could still crack skulls with my fists, and it required little thought to do so. Dwarfing these foes, I tore the blighted apart. I charged through bodies, awash in red and orange blood. I siphoned the life from enemies coming to close, and I gored enemies through telekinesis.
+
+My all-out offensive gave our ground troops free rein. They rode into the warzone without doubt or pause. They secured Vagni, letting them escape from my carnage. Others killed Hybrids, silvers, and Elysium soldiers left behind. They went in all directions, the golems acting as vanguards. Behind them, the gialgathens carried mind mages and power armor wearing humans.
+
+Between these ranks, the Omega division came through. These members crashed over the seafloor, dashing at the Hybrids. A woman from our guild crashed into these metal monsters first, and the Omega Strain pierced its chest. It sucked the life out of the Hybrid, the twisted monster howling out in agony.
+
+It died seconds later, the Omega Strain's thirst quenched. The strain division continued this breach, devouring the metal within our enemies. We used this saturation tactic to fully charge our Omega Strains, and it gave us a tremendous headstart in this battle. Their individual efforts cleaned the few remaining forces I left behind.
+
+But this was only the beginning. We walked a bloody path of many miles, and this was the first step.
+
+Leaping around, I cracked the earth and glass all around me. These jumps gutted the ground, making craters large enough to swallow buildings. My armor grinned with joy as I indulged it with Event Horizon, running through the enemy ranks. I throttled the minds of their mages. I snapped necks and bit through bone. I boiled the blood in their bodies. I crushed arteries in their skulls, and I inundated the sea in their corpses.
+
+Little remained from my passing, but what I left behind, my guild conquered. Torix commanded the mass of our army, and he did so with intelligence and ability. His mind operated at a supernatural speed, commanding various forces with fluidity. At the same time, he controlled our enemies' corpses, giving them wills of their own with his newfound primordial mana.
+
+Torix didn't stop there. He bolstered our soldiers with quintessence magic, granting them enhanced attributes. These soldiers and super golems ripped gaping holes in Elysium's defenses where I wasn't present. Torix used his ascendant mana as well, flooding Hybrid's minds with the desire to kill. Many Elysium troops died by being devoured and by their own Hybrids.
+
+This was still only a part of our victory. Althea took out the strongest members of the enemy army, one at a time. Usually, she just shot these spears that were easy to forget about. Though significant, they weren't exactly flashy. Well, something drastic changed, and now her spears unleashed these massive explosions. They would pierce into an enemy before exploding outwards with tectonic shockwaves.
+
+These aftershocks left ripples in the ocean like children playing in a bath. The sheer size of these waves sent apocalyptic shivers up my spine, and they scattered the light above us. This cast innumerable shadows that Hod abused to his fullest extent. He took out elemental mages, snapping necks, tearing jugulars, and ripping heads. They left plenty for me to do, and I continued battling for hours.
+
+In this war, I acted as our juggernaut. I ran forward, unveiling my full arsenal as I did. Wielding multiple magics, I generated acts of absolute ruin. Earthquakes spawned under my feet. Tsunamis covered the surface as I passed. The ocean boiled into an abyss. It was a display of my potential, realized to its fullest extent at this moment.
+
+I wanted this fight to be a milestone for our guild, one where we carved our names into history. If I had my way, Schema would write out how we began a complete pushback for the war. An essential piece of that, my guildsmen secured the territory I left behind. Super golems acted as unmoving constructs, our omega division handling stragglers.
+
+They leveled rapidly, many of our members capping their levels in the process. They began stabilizing the territories we passed as the fighting died down. Each golem could monitor a one-mile radius, its vision and senses sharp. Humans helped, each of them offering judgment to certain situations. This gave us the ability to rescue the Vagni, many of them just looking for a way out of this endless war.
+
+I offered a solution as we bodied their lines. Despite this rapid progress, we eventually slowed down. Our assault coursed out like a blitz, but so did Elysium's eventual retaliation. They summoned new foes for us to face, many upgraded Hybrids joining the fray. Like us, Elysium prepared for battle, and they began bringing out larger prey for me.
+
+Version 2.0's appeared, their strength formidable. Not formidable enough for me, however. Their mental tricks no longer phased me, and without that edge, I could put all of my focus on taking one out. It was as simple as pinning one down and blowing it up with a singularity. It took all of seconds, and those that closed in, I simply crushed with my hands.
+
+A Version 2.0 couldn't beat a super golem, we found out, though they got close. Our guildsmen turned the tide in that regard, giving us an edge. The gialgathens as well, they gave us a superiority in mobility that proved invaluable. From scouting to transport, they offered urgent utility to the rescue services, Kessiah leading the charge with her healing. And aside from their utility maneuverability, the gialgathens connected to the Vagni, something I hadn't expected.
+
+The gialgathens had controlled the espens long ago, even before the espens had language. This was due to the gialgathens innate, telepathic communication.  Comparatively, the espens showed a refined edge similar to humans while the Vagni mirrored animalistic warriors. Because of that, the gialgathens herded the Vagni with relative ease. Seeing the Vagni's reaction reminded me of when I first saw the flying amphibians.
+
+Gialgathens, they struck a memorable scene. That immediate awe gushed from the Vagni as the gialgathens drifted overhead. It didn't hurt that a gialgathen's wings enabled superior swimming, giving them a grace similar to when they were in the sky. I could tell they were once aquatic, and they hadn't altogether left those adaptations behind.
+
+I abused these factors to the fullest, giving us a controlled territory exceeding the Empire's grasp at its fullest. Within hours, we contained the center point of the city, and by the end of the day, we safeguarded nearly twenty square miles. This gave us a bastion to launch from, giving us innumerable advantages.
+
+Spear created warps for supply chains, giving our troops fresh food, unsalted water, and resting places. Torix established a non-aquatic zone with his magic, letting our members move and breathe with ease. The super golems established a baseline perimeter for this depot, and I generated rows of wild plant life.
+
+I did so at random, culling the non-edible varieties. Afterward, I created a swarm of crabs to feast on the various plant life in our underwater terrarium. This established a farm, one the Vagni immediately got to work in. The gialgathens commanded while offering them protection, allowing the Vagni to begin founding new lives here.
+
+Yeah, all in eight hours.
+
+The speed of our establishment defied reason, our plan working better than we imagined. Our resources converted to this planet perfectly. In particular, many of the gialgathens preferred Blegara to Mt. Verner. This gave them a bit more oomph when fighting, their typical laziness replaced by ferocity. By the time we finished establishing a fully realized camp, I peered at the beginnings of a colony.
+
+Finalizing the effort, I established a tower covered in runes, some enchantments cipheric and others every day. I pulled out a blue core at the top of this lookout, one of the two I had remaining. Planting it down, I went through the system menus before stamping our position onto this world. My palm placed, I began charging.
+
+The elemental furnace on my chest roared, and my own mana funneled into the device. By the time I finished, the blue core sizzled to the touch. I finished in only twenty seconds. The dungeon heart's protective barrier washed over our new colony, our members flabbergasted that it was already here.
+
+I stared around at that point, finding my super golems finishing off Hybrids in the distance. Twenty of them kept this central camp secure, protecting us as explosions radiated in the background. Gialgathens swam and carried our members across the seafloor, ensuring few casualties came out.
+
+It was a thing of beauty.
+
+Wanting to focus on construction, I honed into my working mode. Talking with a few engineers on the scene, we drafted up a few ideas. As they sketched onto blueprint paper, an explosion radiated from overhead. I peered upwards and found one of my super golems falling in pieces. Its eyes shattered; it no longer sustained life, having been the first casualty of its kind.
+
+It was Alpha.
+
+A burst of rage roared into my mind as I stared up at whatever did this. Standing outside of a dimensional rift, a Sentinel stared down at us. It loomed like a forerunner, one that beckoned forth a second wind for Elysium. It mirrored Spear in both demeanor and appearance, so I believed our Sentinel had gone mad. Looking closer, I found signs of this Sentinel's corruption.
+
+It carried a single dimensional slicer, the magenta-colored blade humming underwater. Its armor cracked, though gray graphene soaked between the aged fractures. Eyeless and without a face, a remnant wore the armor, but it was no longer its own being. Nanomachine laden fluid pumped through large exposed veins clustering in its joints. It twitched at random, an ever-present fight for control booming in its mind.
+
+I analyzed the creature, trying to ween as much information out of it as possible before running in.
+
+Hybridized Sentinel(lvl 21,019) - This mockery of Schema's glorious troops results from a Sentinel being Hybridized. While still retaining fragments of its previous mind, it has been wholly neutralized via a psionic solution. Whether or not this is the same means of controlling Lehesion is unknown.
+
+What is known is this is a harrowing foe. It wields the graphene armor that most Sentinels boast, further augmented by implants. This monster also wields a dimensional slicer, using the absolute weaponry to enact harm onto anything it touches. There is almost nothing known that can withstand a dimensional slicer's attack head-on, so evasion is recommended.
+
+Outside of this, the years of training also assist the Sentinel in becoming exceptional. This gives it a tremendous hand to hand combat ability and mental prowess. Sentinels can cast a variety of magic, most of it non-absolute in nature. Some arcane magic can be used, and this is the most deadly of these sorcery based abilities.
+
+Last of all is the Hybridization process. As disgusting and filthy as the monsters are, Hybrids are incredibly tenacious. They carry regenerative abilities exceeding almost every known species. Combine that with their metallic constitutions and nanomachine laden blood, and they are physically strong while being difficult to kill.
+
+Most would need to run. I ask you to show this monster what you're capable of.
+
+By Personalized AI-C90
+
+It was interesting that my perception got high enough to see which personalized AI was making my statuses. That being said, the Hybridized Sentinel lost in its mental war, so it banged its chest with its spear. A vast echo rippled across the landscape as mana flooded through its tear in dimensions. Like Lehesion before him, a sacrificial ritual empowered this being beyond its limits, and it radiated with energy.
+
+Rearing back its spear, it let out a swipe that launched out a dimensional wave. It tore across the blue core's defenses, leaving cracks in the hexagonal barrier. Before it swiped again, I propelled myself towards the attack. Reaching out a hand, the slice snapped against my palm, unable to harm me. I gripped the slicing energy, draining it. The Sentinel leaned back from my presence, and I glared at the poor sap stuck in that armor.
+
+It telepathically linked to me, speaking on conversational terms,
+
+"Ah, it's you again. The so-called Harbinger."
+
+It was someone I wasn't familiar with, but that didn't matter. Staring them down, I roared back, "You're going to die here...You know it. That meat puppet can feel it."
+
+The Sentinel they controlled trembled, but its psionic controllers repressed its urge to run. My armor grinned, "I cannot wait until after I'm able to reach you all."
+
+The voice replied, "You will never be able to find us."
+
+I shot a mental bombardment it's way, just a raw burst of will. The mind's resolve wavered as I gripped my hands into fists harder than iron,
+
+"I will, and when I do, there'll be nowhere left to run."
+
+It feigned confidence, but I pressed on,
+
+"Have you ever thought about how fragile you are? One pulse of so many different forces, and you die. It's a miracle you can even survive, but you still chose to make me your enemy."
+
+It replied, "We've made far greater enemies than you, like Schema."
+
+I narrowed my eyes, "Schema hides on an unseen planet while I fight on the frontlines, and I do so without fear of death or failure. I can walk across stars without burning, and I can drift across the cosmos without breathing. They do me no harm, not them nor the monsters you wield."
+
+"Those monsters will be the death of you and your guild."
+
+"But they are only monsters to you. See, unlike Schema, I need not hide, for I can face anyone in battle. Unlike Elysium, I need no puppets, for the body I wield is invulnerable."
+
+Event Horizon crept towards the creature as I seethed,
+
+"You, you may bide your time, but know that I am eternal."
+
+The runes across my armor shined crimson,
+
+"And I will find you."

@@ -1,0 +1,143 @@
+---
+id: b9a7b72d-58c0-546e-90d9-5031c8e47ec4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1193 - Nightmare of the Olthorn"
+slug: 0065-chapter-1193-nightmare-of-the-olthorn
+partOf: the-primal-hunter
+position: 65
+ownLength: 2695
+unit: words
+ownProgress: 2695
+publishedAt: 2025-11-03
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2728892/chapter-1193-nightmare-of-the-olthorn"
+royalRoadId: "2728892"
+markedReadAt: "2026-06-29T19:31:19.563Z"
+---
+
+Jake overlooked the snowy wastes that stretched out endlessly before him. Far in the distance, mountains pierced into the sky, and below him, deep crevices of ice could be seen, monsters dwelling nearly everywhere whenever he felt for them.
+
+As planned, he was back in the Hunting Ground he had briefly visited after getting his World Tree bow and had to go test it. He had told himself back then he would return, and now, while waiting for Minaga to go tell him that the Sword Saint and Sylphie were ready to leave, he would go for a little hunt.
+
+Scouting the area, he soon spotted a lone Olthorn wandering the wastes, using a staff to walk. The bipedal goat-like monsters were a perfect target in Jake’s mind, as not only were they incredibly weak for B-grades, but they also apparently reproduced at an absolutely insane rate.
+
+Not to say all members of the Olthorn race were weaklings. As with most races, they had their powerful variants, and Artemis had warned him before going that if he spotted one, leaving would be his best option.
+
+Spotting the powerful variants was also relatively straightforward, and they could be easily avoided. First of all, none of them wandered the surface, but all dwelled within the mountains or deep beneath the ground, surrounded by their kin. Secondly, they looked quite different, as every single variant worth its salt was female.
+
+For a quick lesson on Mystical Olthorn biology and their reproductive cycle, it could be summed up that the males were weak and all the females were powerful. In some ways, they reminded Jake a bit of Vesperia and the ectognamorph race, except not really.
+
+The Mystical Olthorn weren’t drones but creatures that could, in theory, evolve past B-grade and forge their own Paths, and there were very rare instances of powerful male variants, but those wouldn’t be found in B-grade.
+
+In fact, if Jake ever encountered an A-grade male Olthorn, he would have to be wary, because for one to even evolve meant it had forged a Path far beyond the norm, and it could be said to have truly broken free of its destiny, no matter how much Jake hated that word.
+
+Anyhow, one could only find the male Mystical Olthorn on the surface because they were the only ones doing the work of their Matriarch. They were wandering the wastes to collect natural treasures, slay elementals, and collect their cores, and do all sorts of other tasks for their mother. However, perhaps most importantly for the males, they went to gain some power on their own, because if they got strong enough, they could be lucky enough that another Olthorn tribe’s Matriarch took them as a mate to sire the next generation.
+
+This happened around once a year, and each round of these mating sessions created hundreds more Mystical Olthorn who would grow to B-grade in just a couple of years, at which point they would be put to work and go to the surface, and the cycle would start all over again.
+
+To call the male Mystical Olthorn pitiful was an understatement, but at least they were blessed with relatively low intelligence to make up for it, likely as an evolutionary trait not to think too much about how much their existence sucked.
+
+For the Pantheon of Life, these Mystical Olthorn were a great race, as they reproduced quickly and created plenty of prey for the Hunting Grounds. For Jake, it also gave him plenty of targets that he didn’t have to fear accidentally overhunting or – Villy forbid – exterminating the local populace entirely.
+
+Last he heard, the monkeys in Haven’s forest back on Earth had yet to recover and only survived due to preservation efforts by certain good Samaritans...
+
+What made the Olthorn even better targets was that there was a large number of mages amongst them, far more so than with other beast races. Only around one in ten was a warrior, with the rest either being magic users or walking other, more squishy Paths.
+
+Again, likely an evolutionary trait. With how weak they were overall, an over-investment in durability would result in them being unable to kill any B-grade, while if they leaned fully into their offensive prowess, they would at least kill some foes, especially when working together.
+
+A caster being squishy didn’t matter as long as they weren’t attacked directly and were just durable enough to handle wayward attacks that the one durable Olthorn taking the frontline couldn’t stop.
+
+Of course, what Jake was about to unleash on these casters was more than just wayward attacks, and going by his experience the last time he was in the Hunting Ground, Jake knew he was capable of taking them down in one hit.
+
+Even if he failed, he was confident in taking his target down within a minute. More realistically, not even close to that. What this meant was that as Jake scoured the wastes for targets, he wouldn’t even need to avoid groups of Mystical Olthorn... he could simply choose one target and kill it even if it was surrounded by dozens of its kin, after which he could make a swift escape, recover, and return to take down his next prey.
+
+For now, he would start with striking down the lone Olthorn he’d already spotted and was actively following as he summoned his Protean Arrow. That was another thing: the more he knew about his foes, the better his Protean Arrows would become, which should theoretically speed things up.
+
+Additionally, since Jake was in this Hunting Ground last, he had upgraded his archery skill, meaning he was even more confident in killing his prey before they even had a chance to respond.
+
+As was the plan, Jake would also take this opportunity to begin working on his next archery upgrade. However, while that was one of his objectives, his primary objective was still to farm experience points before returning to the Order of the Malefic Viper.
+
+Soon enough, his Protean Arrow was ready. Jake nocked the massive arrow made with Eternal Hunger as its base and took aim at the monster below. As with the last time he was there, Jake held nothing back – except for a certain new class skill he was still waiting for the “right” time to use.
+
+When his arm could no longer handle his Arcane Powershot, Jake released the string as it descended upon his unsuspecting prey below. It tried to react when its danger sense warned it, but Jake’s Primal Gaze was ready and waiting, stopping it from mustering any response.
+
+The end result was exactly the same as the last time Jake did this.
+
+You have slain [Mystical Olthorn Cryomancer – lvl 351] – Bonus experience earned for killing an enemy above your level
+
+One arrow, one kill... and contrary to last time, Jake was far from done after slaying a single one. He recovered Eternal Hunger, and as it was already in its arrow form, he began to weave another Protean Arrow while at the same time recovering the relatively minor damage he had taken from Arcane Awakening and pushing Arcane Powershot to its limits.
+
+He hadn’t gained a level with his first kill, something he hadn’t expected either. Not considering how easy it had been. However, he was still killing B-grades, and no matter how strong a C-grade Jake was and how weak the B-grades were, he was still hunting above his grade, making that “bonus experience earned for killing an enemy above your level” part of the notification have a serious effect.
+
+Not to mention Jake’s other skills that increased experience gained from killing foes above his own level, which also experienced a massive boost when crossing grades. It all resulted in Jake having easy hunts with great rewards.
+
+The only thing Jake risked by acquiring experience like this was damaging his Records, but honestly, Jake didn’t view that as a serious downside. With the quality and quantity of Records he had at this point, a few dozen levels from what was effectively low-effort hunting wouldn’t matter in the slightest.
+
+Either way, after killing his first Olthorn and recovering sufficiently, Jake moved on before he spotted three walking together towards one of the usual elemental hunting spots.
+
+They never got there.
+
+Jake killed the first one with his initial attack, something that genuinely surprised him as he had purposefully held back to keep himself in decent shape to fight afterwards. Either way, with one dead, Jake entered a more prolonged battle with the other two. One of them was a Cryomancer, while the other wielded a crudely made bow and shot arrows seemingly made from the goat-like monster’s own horns.
+
+Within half an hour, all three B-grades lay dead in the snow, leading to another small period of recovery before Jake moved on to his next prey.
+
+Like so, Jake continued turning the Hunting Ground into a domain of death for any creature that dared wander the surface. He even began taking down a few elementals here and there just for the spice of it, and while he failed to kill those in a single arrow, they were still weak variants for the most part.
+
+There were instances where Jake chose not to engage, primarily if he spotted particularly high-level elementals or the one time he spotted a rare female Olthorn Matriarch near the peak of a mountain. Even from afar, he could tell it wasn’t a fight he was confident in winning, especially not when taking into account the roughly five thousand Mystical Olthorns surrounding it and the mountain.
+
+Throughout, Jake popped potions like no tomorrow to keep himself going as more and more Olthorns fell. In just the first day, he killed seventeen, and on the second, twenty. From there, it only went up as he had already slain well over a hundred by the fifth day.
+
+Two weeks in, more than three hundred B-grade Mystical Olthorn had been wiped from the surface of the planet. While just waiting for Minaga to show up, Jake continued his hunting spree, only slowing down his pace a little as he began to have a harder time finding Olthorn to hunt down, but also because he wanted to diversify a little.
+
+While he still got decent experience from the B-grades simply on account of them being B-grade, there were still diminishing returns when hunting down the same type of monster over and over again. Luckily for him, the Hunting Ground was ripe with prey.
+
+There were many other types of monsters than just Olthorns and elementals, including a wide variety of beasts. Jake killed a couple of snow leopards, a large bear, several scaled creatures, and a wide variety of other beasts, many of which he didn’t even have an Earth creature to compare to. Of the thirty-one beasts killed, only two died in a single attack, both of which had been speed-focused monsters.
+
+The strongest monster he killed was a snow fox capable of creating powerful illusions that warped the sense of reality of whoever was affected, making it the most dangerous creature in the Hunting Ground outside of a few named monsters or the Olthorn Matriarchs, and one that hunters should generally try to stay clear of unless they wished to find themselves killed.
+
+At least that was what the Hunting Grounds Manual said.
+
+To Jake, the fox was easier than many of the other beasts. He saw through the illusions it used to hide itself while roaming the desert of ice and snow, and even if he failed to win in a single blow, its illusions had little effect on Jake. Tricking the mind of someone who was an expert at turning off their mind and fighting solely on instinct tended not to work out well, and neither did it for the fox.
+
+Jake ended up spending a total of thirty-nine days in the Hunting Ground, with his longest break during his stay being just shy of two hours. He had consumed hundreds of potions, often drinking a new one as soon as the hour-long cooldown was up, all while alternating which resources he restored to always be at acceptable resource levels.
+
+After what would end up being his final kill in this Hunting Ground and likely the Pantheon of Life – at least for now – he felt the familiar presence of the Unique Lifeform. It was only a few hours short of hitting day number forty, as Jake, who was standing on a bank of snow, looked up right as the god teleported in.
+
+“You look like something a more posh person like me would describe as tremendously unsightly,” Minaga commented with a laugh as soon as he appeared.
+
+Jake quickly gave himself a look-over, and he couldn’t really disagree. His armor had suffered a fair amount of damage, partly from his own arcane energies, but also from the monsters he had to fight with in more prolonged battles. Sometimes, he also just took a hit on purpose to finish off his foe or land a bigger blow in return.
+
+One also couldn’t discount the healthy amounts of blood and grime covering him. Overall, yeah, Jake definitely looked haggard and like someone should throw his clothes with him still wearing them into a laundry machine.
+
+“I’m not gonna disagree that I could be more aesthetically pleasing,” Jake said, using a bit of destructive arcane mana to clear the worst off. As for the damaged armor, it would fix itself in time as long as Jake kept pouring mana into it.
+
+“That’s an understatement,” Minaga smiled, landing beside Jake. “You definitely look like you’ve been busy, and you also feel like it. Had a nice hunt?”
+
+Jake smiled in return while checking back on all his notifications before giving a nod. “A good hunt? Debatably. There weren’t really any good fights. However, if you asked me if it had been a productive hunt-“
+
+“Was it a productive hunt?” Minaga quickly interrupted him.
+
+“Sure was,” Jake chuckled, looking at his notifications.
+
+Filtering out the hundreds of kill notifications, Jake focused only on the level-ups, but even so, there were a fair amount, as he had honestly gained more experience than he thought he would.
+
+’DING!’ Class: [Arcane Hunter of Horizon’s Edge] has reached level 324 - Stat points allocated, +50 Free Points
+
+…
+
+’DING!’ Class: [Arcane Hunter of Horizon’s Edge] has reached level 332 - Stat points allocated, +50 Free Points
+
+Despite how easy the hunts had been and despite the near-complete absence of risk, Jake had gained nine class levels in just shy of forty days. That was more than one level every five days, which didn’t sound like a lot considering the speed at which Jake slaughtered B-grades, but for someone approaching the peak of C-grade, it was damn impressive for sure. Especially when one considered Jake’s Anomalous Soul and all that, making him require more experience per level than others, even if he did make up for this with his skills that increased experience gain.
+
+With the class levels naturally also came the race ones.
+
+’DING!’ Race: [Human (C)] has reached level 324 - Stat points allocated, +45 Free Points
+
+…
+
+’DING!’ Race: [Human (C)] has reached level 329 - Stat points allocated, +45 Free Points
+
+All in all, this brief trip to the Hunting Grounds had certainly been a good idea, even if Jake had ended up neglecting his plans to upgrade his archery skill a little in favor of getting more levels.
+
+“Now you’re making me feel bad for cutting your adventure short,” Minaga mumbled as he saw Jake going through his gains. “But I do feel obligated to inform you that the bird of ruined labyrinth dreams and the swordsman who’s way too good at seducing demons are both ready and waiting back in your far too big palace.”
+
+“Better not keep them waiting any longer, then,” Jake smiled as he gave the Hunting Ground one final look. He was going to miss it... Though he had a feeling the local wildlife wouldn’t miss him quite as much.

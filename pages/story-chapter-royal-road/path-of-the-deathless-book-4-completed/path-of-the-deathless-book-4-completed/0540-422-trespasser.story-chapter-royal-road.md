@@ -1,0 +1,187 @@
+---
+id: 1d2b5d7c-de1c-5641-a1eb-ebd2824c1457
+page-type-slug: story-chapter-royal-road
+title: "422 Trespasser"
+slug: 0540-422-trespasser
+partOf: path-of-the-deathless-book-4-completed
+position: 540
+ownLength: 4945
+unit: words
+publishedAt: 2026-08-03
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3764716/422-trespasser"
+royalRoadId: "3764716"
+---
+
+Trespasser Shaped of Dread and Null is a Skill Fusion unique to Tarrasques and a small number of Colossal-Class monsters, combining Stealth and Intimidation to manifest a zone of absolute concealment. From the monster, a realm of oppressive darkness stretches across the world and continues to spread until it reaches the extent at which the monster’s internal mana reservoir is depleted. Additionally, when other beings capable of fear are shrouded by this realm of oppressive darkness, their dread will be turned to fuel and mana for the devourer and cause the sea of blackness to spread ever further.
+
+Unlike most Stealth Skills, this betrays the monster’s position and makes it impossible to hide when gazed upon via Divination. But, paradoxically, it counters Divination in a most peculiar way, since the Stealth skill is tied to the monster’s spirit, an outward manifestation of unattuned mana. It further colors a broad expanse of the world, and so, though the general position of the monster might be known, a Diviner will only know the generality, for an entire spread of their local environment will be subsumed by the raging fires of strife, inflicting a sort of metaphysical blindness if stared at for too long. Worse yet, should the Diviner strive to push through the discomfort, the darkness will leak over into them, spreading out from their body and consuming them in mind and flesh. The darkness will not harm you materially, but it will drown you. All sounds will be nullified, and all light will be banished, aside from a small sphere of space allowed by your courage.
+
+This skill is a good counter against those possessed of even the highest echelons of Awareness, for it is not a skill that contends with Awareness but rather bravery. The more one can control their fear, the further they can dispel the darkness, shredding through its dense fabric. Yet be warned: the oppressive terror is unceasing and unending. Should your spirit break, it will wash through you; it will drown you. You will find yourself isolated in a realm of nothing, a realm where a trespasser, shaped of dread and null, will be free to close in on you at their leisure.
+
+The best thing to do when faced with this skill is to seek someone that can raise morale, that can bolster courage, and stand against the oppression of fear. Faith and Psychomancy might be your only reliable bulwark—for your senses will be swallowed by the dread-stained dark.
+
+—Encyclopedia Apocalyptia, Trespasser Shaped of Dread and Null
+
+422
+
+Trespasser
+
+At first, the new skill reminded Shiv of The Creeping Void. It seemed like a stronger variant, further incorporated by a tinge of fear. But then the darkness swelled ever further, and there came a crushing weight accompanied by the gloom. To make matters more interesting, he could feel the darkness. He could control it. It was much like his plague flies in that it was attached to him, rather than an immaterial spot of ink that stained the world. He kept it close to his body, shaped it around his form, and it coiled across his person, furling more like a cape of fabric than a metaphysical black that couldn't be contained. Then he unleashed it further as a moment's reflex, and soon it crept across the jungle, swelled over Valor, and everything fell perfectly into an oppressive dark that was caressed by Shiv's senses.
+
+The sensations this new skill—Trespasser Shaped of Dread and Null—provided were hard to explain. It was like running unseen in the grass, clinging to the trees, twirling about. It severed his fellow creatures as the darkness trapped them in a dense silo; while their screams shook the air, they didn't pierce through the crushing nullification, and the dread that Shiv bestowed swept down and drowned the Jotun Valor had captured entirely. It pressed against his body, effectively sealing him in a sensory deprivation chamber manifested from pure blackness.
+
+As the nullifying dark swept through the Frost Giant, Shiv extracted fear and devoured it in this place of mana. It empowered him. It made him grow larger, made him turn greater. Instead of becoming a thing of physical nightmare, his body merged with the darkness. His body became a part of the dread of the fear, and so he went beyond the material, taking on an emotional aspect to his physiology—and his mana and all other skills were further tainted by an infectious edge of dread.
+
+A low hum escaped Valor as he looked about. The skill seemed to affect him as well, but then, to Shiv's astonishment, the ancient Pathbearer swept a hand, and he managed to tear a gap in the surrounding darkness, piercing the fabric of null and black as if it was parchment rather than a gas or an expression of magic.
+
+“Quite potent. Quite potent indeed.” Valor's comment was like someone testing a bowl of noodles, sampling the flavor rather than facing a skill aspected to stealth and intimidation. “This will serve our purposes well.”
+
+Across all of Shiv's other bodies, a similar darkness reached out from him, coiling out of his skin in faint tendrils. It was bound to the shadow he cast, connected to his soul, but it didn't explode out unless he willed it. Yet even so, anyone who stood in his shadow would be stained with a measure of fear and the rippling aura of intimidation. It was forever anchored to Shiv's soul, ever more solidified compared to the Shape of Monstrosity it was once spawned from.
+
+“I can feel things in my darkness,” Shiv said, watching his hands partially dissolve into the black, become part of the black, and spill out more black. He could also see other things: threads like chains, changing the shapes in crystallized incidents, instances of fear. It circulated through the domain of dread and null, and flowed back into his soul. As he spread the dark, so too did he extract terror, and from that did he spawn more of this oppressive nightmare.
+
+The Jotun had ruptured his throat from screaming. He was trying to get away. He was rolling about, but he couldn't even see the ground he lay on. All there was was darkness. All he heard was nothing, not even his own voice. He struggled, he strained, but all his senses were swallowed by Shiv's horrific skill—and that was the only way he could describe it. It was horrific on the surface. It isolated someone, even while they were within the world. It severed them completely from their environment, from their allies, from everything.
+
+It was an exaggeration of both his Shape of Monstrosity and his Creeping Void. For this couldn't hide him, not really. This was a higher tier of consistency and concealment rather than true stealth.
+
+“The exercise I had you do was worthwhile after all.” Valor's approval surprised Shiv.
+
+“You actually wanted me to get this skill? It seems counter to everything you had me do. I mean, frankly, I didn't even use my Creeping Void or Shape of Monstrosity on you. All that planning and preparation was more for out-thinking your wards than actually sneaking up on you.”
+
+“Planning and preparation are essential to your Legend. It needs an aspect of calculation for you to develop this skill, as it requires a measure of displayed intellect to achieve. This skill is something that you must have if you are to contend with the Diviners across Integrated Earth. Here, let me give you a measure of insight.” Valor waved his hand, and from his palm he conjured a manifestation of light. When those ripples steadied and the mana grew stable, Shiv saw a gleaming scar that sprayed flame across reality. It was a dark, sour flame, an infectious, inflamed flame. It was wrong to look at, all-consuming, ever-building. Instinctually, he realized that was the metaphysical manifestation of who he was, of the strife he bore.
+
+That was how the System saw him.
+
+“You cannot follow exactly in my footsteps. There is something lamentable about that, but the lamentable aspect is only a problem of pride on my part; your Path and mine are dramatically different. But you are not limited either. Your Continuity Error allows you to achieve similar effects as my Legendary skill, and that is quite something already. But a proper Pathbearer does not rely on a single skill. As I have shown you just now, Stealth is about understanding your environment, your enemy, and yourself, and it is in this mental understanding that you learn how to become a proper trespasser.”
+
+Shiv understood then. The exercise, slipping past those boundaries. Valor knew he was coming, but he got to Valor anyway. That was the critical point of the struggle. That was the legend he was supposed to acquire: to be expected and yet to sneak up on your adversary regardless. “You want me to be good at another type of stealth altogether. You want me to beat expectations, to work around people who already know I'm coming.”
+
+“Exactly so,” Valor replied, grinning. “And it is your new skill that will grant us a measure of latitude when operating in the North. The Pale knows you are coming. It can see you. The System howls your presence to the Diviners and the gods that they serve in the North. You cannot be obfuscated, not so long as you remain inside the context of existence.”
+
+Shiv still wasn't exactly following. “So, if they're Diviners and can see me, what's the point of this skill?”
+
+“The skill is an amplified expression of your soul. Test it. Stretch it as wide as you can go. Consume as much of your surroundings as you can, using the fear you have imbibed.”
+
+And so, Shiv did. The darkness exploded out from him. It stretched out, and so did he. Instead of being a human near two and a half meters tall, Shiv felt himself expand. His body grew titanic, much like it did when he manifested his Garden of Wounds and Broken Things. But rather than being a material collection of eldritch devastation, he was a projection of fear. He was the dark.
+
+His body, his flesh, his being could still be shredded and torn if one possessed the courage. Yet his Scarforged Shell might see that countered as well. As Valor reached out once more and ripped through a patch of the darkness, he pressed upon the nucleus of this spreading dread, and Shiv's body came aglow in a platinum shell as a faint scratch was left upon his Toughness.
+
+Valor hummed. “In most cases, when faced with someone capable of manipulating their own emotions, capable of extreme courage, they might be able to tear into someone who possesses the Trespasser Shaped of Dread and Null. However, you are different. Unlike most who walk the Path of Shadow or Thief, you are first and foremost a creature shaped by death. You are an unbreakable darkness, and so the desperation of those that drown in it must be a measure greater. They must rely on magic before they can ever strike at your person. Yet this is the lesser benefit provided to your skill. Consider your presence viewed through divination once more.”
+
+Valor summoned another image, and this time Shiv didn't see a scar spreading fire, but a massive explosion that blazed blindingly bright. It was hard to tell where he was or what he was even looking at. Where Shiv was a manifestation of darkness, a colossus of shadow and horror, the System viewed him as a crawling conflagration that assailed the fabric of reality.
+
+“Now consider how Divination works,” Valor intoned. “A Diviner must pluck your information from the world, and with all the strife passing through you, spreading out from you, you are like a klaxon sounding over the horizon. You burn bright enough to light even the bend of the world. Even so, if your flame stretches across kilometers and leagues, as it does now, where are you truly? Where is the core of your person?”
+
+And true to Valor's words, Shiv's threshold continued to stretch wider. It got up to twenty kilometers of all-consuming black, twenty kilometers that continued inching out bit by bit due to all the microdoses of fear he swallowed in. The Frost Giant was foaming, twitching, driven mad by the silencing, consuming black. The same fate befell the birds in the sky, the fish in the water, all creatures in these gentle woods. They slammed into trees, they fell from the air, drowned, deprived of senses and severed from companions. They were lost in this maze, in the tyranny that was Shiv.
+
+He grew vast enough that the massive cannons atop Fortress City Vermind turned toward him in recognition of a threat.
+
+***
+
+Back within the city's barracks, his other body hurriedly explained to Jessica and the Ascendants that this was his doing, that he was testing a new skill.
+
+“Been working on your Stealth, huh?” Jessica hummed. “You turned your Creeping Void bigger? That it?”
+
+The Giantsbane regarded Shiv with light curiosity, but he saw how Anthony was watching him in silence. The Councilman was tense, as did his Ascendant. The darkness in the room was unnaturally still and stiff. Shiv gave them an on-site demonstration of his new development. “Not really Creeping Void anymore. Here, try this.”
+
+And then a second patch of darkness detonated out from him. It was a far smaller patch, for the majority of his Skill had been expended to coat an entire portion of the woods outside, but there was still enough of him to entrap a kilometer-wide room. The chamber was drenched in absolute black in a near instant. His body disassembled itself into an expression of spreading darkness, and Jessica took a surprised step back as the waves of crashing black smashed into her. It didn't strike at her physically, but it did hammer against her emotions. To Shiv's surprise, she proceeded to shred through the nightmarish nothingness with the flex of her tranquillity skill. The cool waters of her emotional core proved impenetrable, at least for now, to his dread. Even so, her core had to continuously push against his dark like she was hacking through a thicket of nightmarish stealth. Meanwhile, he was free to maneuver as her senses were suppressed to the limit.
+
+The Avatars responded differently. To Shiv's surprise, certain Avatars were consumed completely by his new Stealth-Intimidation Fusion. Daughter collapsed in an instant, lost to his darkness. She had always feared him. Though she was a god, he'd left her marked, and that mark proved fatal when faced with this isolating black. Instead of fighting back, she manifested her tar-black form around Hannah's body, and clawed blindly—yet her attacks proved impotent: unlike Jessica, she couldn't find any purchase on the null and dread. It was something that spilled through her, into her, consuming her, drowning her. It was water to her, not solid, not parchment. And Daughter the Deadly went from an Ascendant to a terrified girl screaming for her mother.
+
+Shiv, for a brief instant, lost track of himself and winced. He pulled his power back, for he had no interest in traumatizing her further, nor the Avatar that suffered the presence of Daughter within. As Shiv receded like the tides, Daughter stared frightfully at the black, her body language becoming that of a child curled in on herself, having briefly forgotten the power she wielded.
+
+Meanwhile, Maiden and the other Ascendants fared far better. They examined his darkness, studied his stealth, and it was Harlem that inflicted the first true blow upon Shiv. A sweeping beam of cleaving light and insight slashed into Shiv as Harlem's Avatar projected a wave of Divination in him. Yet even he struggled against the null and dread. He was winning the struggle, but it was a grinding battle of attrition between his piercing glare and Shiv's oppressive presence. Maiden’s Avatar strode forth, shredding through Shiv's dark like a towering suit of armor would through a curtain of vines.
+
+Then there was Harlock the Midnight, who managed to counter Shiv altogether. For though he was Valor's inferior, he managed to use the surrounding darkness to move at will. He materialized right behind Shiv, planting a single finger upon his back, or so Shiv thought. Instead of it being a finger, it was a blade, one gleaming with Animancy, a weapon he knew all too well. It was the one that had crippled Shiv's soul during his escape from the Rubix Well, requiring Udraal’s help to fix him. The Deathless turned and gave Anthony a casual nod, betraying no hint of his own fear.
+
+“Quite the useful skill, boy,” Anthony said. Instead of being fully apprehensive like before, his interest was genuinely piqued. “Trespasser Shaped of Dread and Null, is it?”
+
+Shiv raised an eyebrow. He knew where this was likely going. "Let me guess, you killed someone who had this skill before?”
+
+“An Awakened Beastlord, a Legendary Kraken of the deepest sea, approximately sixty years ago. It took a while. He crept across the coast and swallowed several of our vessels using his presence.”
+
+“But then you arrived at the scene, huh? He thought his darkness would protect him, but since Harlock's the Midnight and you have a Stealth Skill that lets you blend into the black entirely, his Stealth betrayed him to you?”
+
+The old Councilman just smirked. “Remember this, Deathless: there is no supreme skill. Every skill has an opening to another, and it might not even be one you know. It might not be the one you anticipate. I've seen certain Adepts outplay Legends from asymmetry alone. Keep that in mind, and never over-rely on a single skill.”
+
+“Yeah, I'm getting that lesson a lot.” Shiv withdrew all the surrounding darkness, and it collapsed back into his own shadow. It took less than a second for his trespassing presence to recede, and by the end, his true form and that nucleus of core darkness which he became remained utterly untouched.
+
+You know, between the stealth this provides and the fear that empowers it, this might just be more than a little useful when it comes time for me to spar against Roland…
+
+“Well, that's gonna be annoying as shit,” Jessica surmised. She looked around the sparring chamber and regarded the others. Most of the Ascendants were quiet in their regard, each one contemplating and speaking to one another, but the Avatars were more on edge than ever before. It was their fear that sustained Shiv, their fear that empowered him more than anything else.
+
+And then there was Daughter. She fled behind her mother, who used the iron maiden-looking automaton as a barrier, granting her child a single degree of separation from Shiv.
+
+Shiv didn't look at her, not directly. He had no interest in traumatizing her further, but something went sour inside of him. This demonstration of power didn't need to be that vicious towards her. She was a devourer of children, someone who butchered the lives of the innocent, but she was also insane and broken, and a child when she rose to Divinity besides—how much of her nature could truly be blamed on her? How much of it was simply because she had no choice in the matter and was subsumed by the legend she found herself entombed in?
+
+Did the other Ascendants ever give her a choice whether she wanted to be a god or not? Did Maiden care, even when she was an actual person?
+
+Fucking doing the right thing is godsdamn hard sometimes. What even is the right thing when it comes to her? I can't just let her use up more children and mess up Hannah. Daughter hates and fears me now, but… just euthanizing her like I did Longinus doesn't sit right either. I don't wanna kill a kid. I really don't. But is this what you're trying to drive me towards, System? Is this what you're planning internally?
+
+There came no answer. It gave him no offer, not like it did in the aftermath of Georges' death, but he could still feel it. It was watching, waiting, considering this new development on his part, and doubtlessly warning the Frost Giants and Diviners across the world, making them more confused, fanning the flames of eventual conflict.
+
+***
+
+Back in the woods beneath the cliff upon which the fortress-city stood, Valor watched as the dark receded back into dishes and gave a satisfied hum. “To the North, then, my disciple?”
+
+Shiv froze. “Like, right now? Immediately?”
+
+“Of course. You must keep the Court of the Shattered Moon unbalanced and worried, after all. I wish to observe what they do internally, how they restructure their movements.”
+
+A beat followed, and a chuckle slipped out of Shiv. “Okay, I see what you're doing now. You're using me as a big distraction, the obvious trespasser, to distract and break the focus of the Pale while you slip in deeper.”
+
+“In part,” Valor admitted, “but there are other things as well. This will be a furthering of your education in terms of stealth. As I told you before, we do not share a Path, but there are fundamental lessons when it comes to being unnoticed or unseen. I have been in your position as well, where my enemy knew I was coming, where they understood my skills, where they knew my methods. They have reviewed my behavior and placed a series of obstacles and prepared specialized experts to deny me my encroachment. But while they observed and studied me, I observed and studied them as well—and then countered them before they could even begin to outplay me.”
+
+“How'd you do that?" Shiv asked.
+
+“Oh, that's quite simple Shiv. The people they hired as scouts and monitors to intercept me I had hired in advance as plants.”
+
+Shiv exploded into a guffaw. “That's not Legendary-Tier Stealth, Valor. You should be known as a Legend of Deception.”
+
+“All Legends are practitioners of deception, Shiv,” Valor replied, shaking his head in amusement. “If you are to be a Legend at all and ensure your continued survival, you must understand how to exploit expectation and knowledge to your own gain and your adversary's detriment. Deception is the core of warfare. It is the only thing you might still save if you possess nothing else. And it is what I intend to use your current skill to enforce upon the North. Fear and paranoia. At present, we still don't know which dimensional cage the Tarrasque is trapped within, but you can force the Pale and its minions to react.”
+
+“Alright.” Shiv held his hands out expectantly. “Pitch it to me, Valor. What kind of sick scheme are we running on these poor fuckers?”
+
+“I want them to flinch. I want them to worry so much about you that they fail to notice my presence, and I want them constantly agitated and to suffer your encroachment outside their borders. But know this: You are not to trespass inward. If you over-extend, they will kill you. They will destroy you, and we do not want that. You are at your most highest influence as a looming threat. When tensions are high and the possibility of peace on one hand and destruction on the other hand draws nigh, decisions must be made, and all proper Pathbearers learn to be decisive rather than passive when it comes to choosing their future.”
+
+Shiv saw the vision, but parts of it didn't sit right with him. There were risks as well. “I get what you're going for, but if we push too hard, won't they just accelerate their plan to hand the Tarrasque to Scorn? After that, we might have to fight Scorn on his own territory. I don't know how that'll go. We're not prepared for that.”
+
+The ancient Pathbearer shook his head, devoid of worry. “If they are to accelerate how soon they are to transfer the Tarrasque, then preparations must be made in advance. It is a powerful creature, and the manner in which it will be safely transported across realms is going to be immense. That means they will likely have to shift a considerable number of High-Tier Dimensionalists. That would be impossible to hide, informationally and logistically.” Valor paused, granting Shiv a moment to digest the plan. “At present, Can Hu's contacts at New Albion either are uncertain of or unwilling to part with information regarding the Tarrasque's exact position. I suspect it is more the former than the latter. If we provoke the North to action, if we accelerate their timetable, then maybe something concrete can spill over to the Inquisitors at Yellowstone, or more likely the agents of Aviary. At the same time, I will take a more hands-on approach as I investigate the inner territories of the North.”
+
+“Not sure if I like that part, Valor,” Shiv muttered. “That place is still too much of a risk for you.”
+
+The Undying clasped Shiv's arm in a display of grandfatherly affection. “The worry you hold for me is a treasure my heart will cherish, but you should not worry about me. I know my limitations better than most, and I have re-familiarized myself with the Pale's methods and blind spots with my last excursion. Between the two of us, one trespasser, the other a true shadow, we will be able to achieve deeper levels of subterfuge than either of us could alone. And besides, I will not be walking the confines of the North without assistance; you have far more than one body, my boy. You have mimicked the Ritual of the Dichotomous Soul, and so I expect you to operate as a legion rather than a singleton.”
+
+“Oh yeah.” Shiv huffed. “Sometimes I don't consider everything I can really do.”
+
+“That is very common when someone comes into far too much power before they have the chance to familiarize themselves, but this is that opportunity, and this is the proper beginning of your tutelage. You won't just facilitate my infiltration. You will facilitate your own. Between the two of us, with one of yourselves masked by my skill and your other skill providing cover and drawing the attention of the North, there is much we can learn together—for every infiltration is different, and though I might be your elder in experience, we are both disciples beneath the totality of art.”
+
+As Valor spoke, Shiv's Harbinger departed from his body near the forest and leapt over to another one of his spare vessels, left idle inside Gate Piety. In a flash of temporal mana, it materialized right next to him, and another version of himself was deposited beside Valor. Now there were three in the region: one inside the fortress-city, and two beyond its walls operating in tandem with their shared master.
+
+“Alright then, North it is. I’ll let Jessica know about what we’re doing; I think it might be wise to get confirmation from Veronica and the Inquisition before we make an executive decision of our own. It keeps the feeling that this is actually an alliance alive a little while longer.”
+
+“I would agree,” Valor replied. “I also anticipate no dissent on the part of the Republic. Only good can come of this.”
+
+***
+
+However, though Valor's words proved true, the Ascendants and one Avatar among their collective surprised Shiv with a request of his own.
+
+“Okay, they're not disagreeing, Valor.” Shiv scratched his neck awkwardly. “I just told Jessica what we're planning to do, but—”
+
+“Harlock and, by extension, Councilman Anthony, wish to join our infiltration runs?” Valor asked.
+
+The Deathless paused. “Okay, how the hells did you know that?”
+
+“Because I remember Harlock. I understand how he used to be, and I know Anthony as well, or at least the way he is. Understand, Shiv, that there is a special kind of pain that comes with discovering your inferiority, even at the point of Legend. Anthony and Harlock are both specialists in Stealth, yet I've left them ashamed before. They are here not because they are interested in aiding us, though that is a small aspect. No, they wish to observe how I operate, to learn how to counter me and to surpass me, and so they seek to take on a shadow tutelage under me using the excuse of this alliance.”
+
+“And you think it's a good idea, exposing them to what you can do?”
+
+Valor threw his head back and let slip a bark of laughter. “They will only learn what I allow them to understand, Shiv. I am not the kind to betray myself. Again, deception is at the core of all things, and though he is a Legend, his years as a Councilman, exposed neither to enemy nor struggle, have left Anthony undisciplined and careless in certain ways: mainly that he has fooled himself, for he is placing himself in close proximity to you and your social aspects. It will be more to our benefit to see what you can gain from him than what little he could glean from my mastery.”
+
+The sheer number of agendas at play left Shiv feeling giddy. “It's like everyone's got a game of their own. I kinda like it—oh shit.”
+
+Valor tilted his head. “Shiv, what's wrong? What’s happening?”
+
+“Gate Piety,” Shiv said, words bursting out of both his mouths as a rush of memories flowed through him. “It’s Adam—Uva says his mind—it’s… She said he just finished his Delve.”
+
+Absolute, uncharacteristic disbelief crushed Valor’s unflappable facade in an instant. “What?”

@@ -1,0 +1,113 @@
+---
+id: 15c63cbd-f133-5dd4-aba4-3825d706031d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1255 - Taking Turns"
+slug: 0127-chapter-1255-taking-turns
+partOf: the-primal-hunter
+position: 127
+ownLength: 2534
+unit: words
+ownProgress: 2534
+publishedAt: 2026-02-13
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3050554/chapter-1255-taking-turns"
+royalRoadId: "3050554"
+markedReadAt: "2026-06-29T19:34:32.709Z"
+---
+
+The Labyrinth Master regarded Casper for a moment as he shifted the gunlance in his hand before lifting it up and pointing it at the Risen. It instantly erupted, releasing a massive shockwave as it shot out a bullet that Casper barely managed to avoid with the help of Lyra.
+
+He was still mid-dodge as the boss shimmered, displaying the same kind of movement skill as the Marksmen as he appeared right behind the Risen. Stabbing forward, Casper had no other choice but to simply take the hit, allowing the weapon to phase through his body. It still dealt noticeable damage due to the energy infused in the gunlance, but it remained manageable.
+
+Trying to counterattack, Casper erupted with curse energy as dozens of chains appeared from empty space, trying to wrap around the B-grade; however, his body released a shockwave of disruptive energy that tore the chains apart before they could fully manifest. Even the half-summoned cursed stakes were blown into splinters as Casper was forced back with a groan.
+
+Before he could stabilize, another bullet from the gunlance struck him, once more phasing through his body, but as it was halfway through, it exploded into a sea of flames that sent the Risen reeling.
+
+Pure energy attacks were still very effective when he was in his ethereal form, and the flames were incredibly dangerous, forcing the Risen to retreat as he summoned traps in his wake.
+
+The Labyrinth Master chased after, making all the traps activate at once. Curse magic erupted from all around the B-grade, some of it trying to attack him, while other parts only sought to delay. Seemingly unable to merely erupt with a shockwave again, the boss was forced to wrest himself free in a more manual fashion.
+
+In the hand not holding his gunlance, the Labyrinth Master summoned a sword and proceeded to cut through the web of chains and cursed energies, quickly freeing himself, but fortunately for Casper, he still took enough time for the Risen to create some distance.
+
+Making a few hand signs, magic circles appeared behind Casper as dark walls of curse energy began to surround the boss. With another yell, the boss released a second shockwave of mana that disrupted Casper’s magic, allowing the B-grade to easily cut apart the half-formed walls and charge toward the Risen again.
+
+Casper was being completely and utterly overwhelmed as the boss unleashed a barrage of attacks that the Risen could do little more than endure. What few counterattacks he attempted were nullified or failed to do any damage, making it evident who the eventual winner would be.
+
+Of course, that assumed Casper was fighting alone. He had purposefully engaged the boss solo in an attempt to make him overconfident and not even consider the presence of another opponent. When Jake was finally ready to unleash his arrow, he subtly let the Risen know, making Casper “desperately” try to unleash an attack.
+
+Summoning a massive amount of curse energy, Casper flooded the B-grade with a torrent of small stakes that the boss easily blocked as he conjured a barrier of blue mana. A bit of the curse energy still made its way through, but all it could do was slightly weaken the defenses of the Labyrinth Master. Something that wouldn’t be a problem under usual circumstances, seeing as Casper could barely do any damage either way, but it would soon prove to be quite impactful.
+
+The Labyrinth Master didn’t even know what hit him.
+
+Too focused on fighting Casper and the stream of curse energy surrounding him, he failed to detect the Arcane Powershot launched from the hidden hunter far behind him. Only a fraction of a moment before it struck his body did he realize that he was facing two adventurers and not one.
+
+Jake’s Arcane Powershot struck the Labyrinth Master in the back, aimed right below his right shoulder, as that was one of the places on his body with flesh and not metal. The Eternal Hunger arrowhead easily pierced into the B-grade’s body, and because of the design of the Protean Arrow, it purposefully lodged itself there, as the rest of the arrow collapsed into it.
+
+All the energy and poison infused into the arrow slammed into the B-grade’s back, sending blood and metal flying out as the Labyrinth Master let out a loud yelp of pain. His entire back had been torn up in an instant, and seeing this happen, Casper didn’t sit idly by.
+
+Without any hesitation, he leapt forward while summoning a special cursed stake from his inventory. He used all his power to slam it into the Labyrinth Master’s shoulder through the wound Jake’s arrow had already created, and right as it did, a torrent of curse energy was vacuumed through the stake and straight into the deeply lodged Eternal Hunger.
+
+The mythical weapon gladly accepted this extra fuel and was energized as it began to rapidly drain the B-grade’s energies from within. Jake continued taking advantage of the moment and aimed to activate Rapid Fire while still taking advantage of the increased damage window of his Supreme Stealth Attack, intent on doing as much damage as possible.
+
+However, despite the wonderfully pulled-off combo attack from the two C-grades, the B-grade dungeon boss was still a B-grade dungeon boss. Casper, who had just used his stake, wasn’t ready as the B-grade reached up and grasped him around the shoulder, now that he had made himself corporeal to attack.
+
+Casper tried to quickly wrest himself free, but the vice grip of the boss tore into his flesh, the fingers digging through his skin until they held straight onto bones. The Risen had no way to resist as he was dragged down in front of the boss, who proceeded to launch a laser beam out of his robotic eye.
+
+The beam passed straight through Casper’s temple and out the other side, the boss not caring in the slightest, even as another arrow slammed into his back, getting nothing more than a grunt in response. He was fully focused on finishing off the annoying Risen and didn’t waste any time.
+
+While still holding on to Casper, the Labyrinth Master skewered him on the gunlance and lifted it above his head as he pressed the trigger. Rather than a single bullet, the gunlance released a barrage of shrapnel that exploded through the Risen’s body, tearing it apart completely.
+
+Jake watched as Casper was utterly blown to pieces, his limbs and flesh sent flying everywhere. Even as two more arrows struck the boss, pumping in more poison and dealing more damage, the Labyrinth Master took his time to even throw a grenade into the air, blowing up the pieces of the destroyed Risen.
+
+As the smoke cleared, the boss was revealed as he stood there with his back completely torn up and with more than two dozen arrows sticking out of him. Jake’s rapid fire had been going all throughout, and gone quite a number on the guy.
+
+Only now, with Casper seemingly gone, did the boss spin around to address the hunter. He summoned a barrier of energy to block Jake’s arrows, but they simply curved around it as two more struck the boss. He stumbled back in pain, groaning as he spoke once more.
+
+“You are powerful, adventurers. Unsurprising, considering you managed to get all the way here,” the Labyrinth Master spoke, Jake not even questioning why the hell the boss didn’t even seem to address what had just happened, but clearly just had some scripted dialogue he had to get out.
+
+“However, your efforts are still in vain. I had hoped to avoid doing this, but you have proven yourself worthy of witnessing the power of this Labyrinth Master!” the final boss yelled as he opened his eyes wide.
+
+Jake politely responded by landing four more arrows on the cyborg’s body during his speech, finally also giving him some wounds on his front side, but Jake felt that these had done less damage than those prior. In fact, the boss seemed to currently be in a state with serious passive dungeon-fuckery damage reduction during this transition to phase two, as Jake even felt his poison doing less.
+
+The release of power from the dungeon boss continued as the entire room seemed to resonate with his energy. The many tiles on the ground started glowing with power, and magical scripts filled the walls on all sides. Jake quickly checked that the path out of the boss room remained open, and confirmed it was... at least for now. Because of what the Labyrinth Master did next, that could quickly change.
+
+Beneath them, the tiles began shifting, and with a deep rumble, the outer walls began closing in from all around, shrinking the area. At first, anyway, because as Jake looked up, he saw that the walls were also bending downwards, creating a dome.
+
+Right then, as the transformation was still underway, Jake felt the damage reduction effect on the boss disappear, and the Labyrinth Master lifted his gunlance and pointed it toward Jake.
+
+Before he had even fully lifted his arm, Jake had shot off an arrow in response, landing a pre-emptive counterattack right as the gunlance went off. A swift bullet shot toward Jake, forcing him to dodge out of the way as he returned a quick potshot.
+
+They continued to exchange a few ranged blows, but it quickly became apparent to both of them that in a battle fought at this range, Jake would be the one coming out victorious. However, the Labyrinth Master evidently wasn’t planning on winning this exchange but was just buying time as the arena continued to close in and more and more of the tiles rose upwards, lifted by solid beams of metal.
+
+Seemingly satisfied, the B-grade finally made his move. Lifting the hand not holding the gunlance, he pointed toward Jake as parts of the ceiling started warping and bending as a piece of wall moved to block one of Jake’s arrows.
+
+When Jake hit the wall, he instantly knew that it was actually a piece of the Grand Labyrinth wall. In other words, Jake’s arrow didn’t even leave a mark on the damn thing. The material was likely far too tough for even B-grades to damage it, and seeing this boss being able to manipulate such a wall like this... yeah, final dungeon boss fuckery was at play.
+
+Two more pieces of the wall moved down toward Jake, but luckily, they weren’t that fast, allowing Jake to quickly get out of the way. Right as Jake started moving, the Labyrinth Master also moved to intercept Jake, now wielding his usual gunlance, though now also with a sword in his left hand.
+
+The movement skill of the B-grade proved itself pretty damn good as Jake barely had time to dodge under a crescent wave of sword energy, followed by half a dozen quick stabs from the gunlance, two of which also included shooting bullets.
+
+He tried to counter, but the rising tiles made the floor close in as walls lowered all around Jake, creating a makeshift arena under the Labyrinth Master’s control, and damn did he use it to his advantage.
+
+Jake constantly had to contend with moving walls getting in his way, and as the floor was made up of tiles that rose individually, the ground was unpredictable, often helping the boss by giving him platforms to leap from, making his attacking pattern and momentum difficult, if not downright impossible to read.
+
+Unfortunately for the boss, Jake was very hard to fake out, and even if his mind couldn’t keep up at all times, his instincts could. Jake focused only on dodging, not even bothering to counterattack, as he knew he wouldn’t accomplish anything even if he did.
+
+Fighting in melee also wasn’t an option, as Jake currently only had one katar. Eternal Hunger was still lodged in the large wound in the B-grade’s back that also had a cursed wooden stake sticking out of him. The curse kept doing continual damage, and combined with the poison ravaging the Labyrinth Master’s system, even if Jake wasn’t attacking, he was still chipping away at his opponent’s resources. The poison would start to lose potency if Jake couldn’t inflict more, but he knew his current passive state was only a temporary measure.
+
+Jake continued to retreat while being fully defensive as he circled around the still-shrinking battlefield. At first, the circular boss arena had been more than twenty kilometers wide, but now, it was down to only around ten, and it was only getting smaller by the second. Jake had purposefully dodged toward the perimeter, wanting to keep the middle of the arena as undisturbed as possible.
+
+With his bow and one katar, Jake had to block a few blows, and while Fangs of Man allowed him to handle it with his katar, his wrists and hand holding the bow were taking a beating. Fortunately for Jake, the bow was far too durable for a B-grade to destroy it, but using it as a melee weapon really wasn’t going to cut it.
+
+To keep up, Jake began to also sprinkle in plenty of magic as he unleashed Pride and summoned constant bolts and exploding arcane orbs. He knew they wouldn’t do any damage, but they did obscure vision and sometimes made the B-grade overreact, buying Jake a second here and there.
+
+However, despite all Jake’s efforts, he couldn’t avoid everything anymore due to the conditions of the arena. Random walls and rising platforms moved to block him at very inopportune times – on purpose, clearly – making him take minor wounds intermittently.
+
+Gritting his teeth, Jake took a small gamble as he barely dodged the swing of a sword and moved in with his Voidblade Katar. He aimed for one of the fleshy bits as he unleashed a Piercing Fang. The skill was less effective when not used with Eternal Hunger, but it was still good enough for Jake to draw blood. He didn’t care much about that, though, as more importantly, it allowed Jake to instantly make all the energy infused into the blow explode, propelling him backwards and away from his opponent.
+
+He had sent himself flying toward the center of the arena, where one could still vaguely feel remnants of the energy released when Casper was blown up earlier. Expectedly, the boss instantly chased to continue pressing his advantage.
+
+Jake used One Step as he teleported back, with the boss hot on his tail, using his movement skill that turned his body blurry and made him insanely fast. He was only focused on Jake as he passed through right where the Risen had his body destroyed before... all according to plan.
+
+In the first phase, Jake had landed his powerful stealth attack while Casper took a beating.
+
+Now, those roles had been reversed, and it was time for Casper to finally show Jake just how good his much-promised ability to curse single-target foes truly was. The fading presence of the destroyed Risen suddenly rose once more, an aura of cursed blight awakening as the Labyrinth Master entered the trigger area of the trap.

@@ -1,0 +1,229 @@
+---
+id: 716d159d-2af3-5821-a608-98c6113d2a78
+page-type-slug: story-chapter-royal-road
+title: "Chapter 600: Post-Invasion"
+slug: 0020-chapter-600-post-invasion
+partOf: system-change-system-universe
+position: 20
+ownLength: 2079
+unit: words
+ownProgress: 2079
+publishedAt: 2025-11-07
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2739029/chapter-600-post-invasion"
+royalRoadId: "2739029"
+markedReadAt: "2026-06-29T19:57:23.311Z"
+---
+
+Chapter 600: Post-Invasion
+
+Derek looked over the notification from the Davenresh System again. Actually, that message had to have come from Dave himself. He still hasn’t told me exactly what his role is in the system. Since he apparently wants to speak soon, I’ll see if I can get anything about it out of him, he thought.
+
+After that, he let out a sigh of relief and dismissed the notification. So far, that was the only notification that he’d received. Also, looking around, all the other invaders—including Jace—were still running around in a panic. Derek rolled his eyes, then turned his attention back to Marrick and Jace.
+
+“Did either of you get any notifications or anything?” he asked.
+
+“Nope,” Jace replied.
+
+“I have not,” Marrick said. “But if you look at the Invasion Status, you will see why.” The Old Goblin certainly didn’t look too worried about anything, so Derek thought he might as well see what the man was talking about.
+
+With a thought, he pulled up the Invasion Status.
+
+Invasion Status
+
+Strongholds
+
+Savannah
+
+Ashgarde
+
+Virendell
+
+Eloria
+
+Inactive
+
+Inactive
+
+Inactive
+
+Inactive
+
+Guardians
+
+Champions
+
+Ascending Monarch—Active
+
+Braxi—Active
+
+Old Goblin—Active
+
+Sir Brandt—Active
+
+Vendra—Defeated
+
+Aria—Deceased
+
+Big Sparky—Defeated
+
+Osian—Active
+
+Siren’s Second—Active
+
+The Queen—Defeated
+
+Amelia—Defeated
+
+Great Ul’oc—Defeated
+
+Jakis—Defeated
+
+Silent Night—Defeated
+
+Holcom—Defeated
+
+Wri—Deceased
+
+The Indomitable—Defeated
+
+Shield—Defeated
+
+Azureblade—Defeated
+
+Trischa—Defeated
+
+Invasion Time Remaining: N/A (Invasion Complete)Current Status: Processing ResultsTime Remaining: Unknown
+
+“Oh, I see,” Derek said after looking over the status.
+
+“Look over there,” Jace said, and Derek turned his head to look where he was pointing.
+
+“Looks like the magic barrier around the Stronghold is coming down,” he said. Visible to his naked eye, Derek could see the top of the magic barrier slowly dissipating. “I guess it took a bit to get started, so it’s not just going to instantly end.”
+
+“I wonder if the invaders will have to teleport back through the arrays,” Marrick said as they all turned to look back at Jace.
+
+“How the hell would I know?” Jace asked with a shrug. “I have the same invasion status box as all of you. It doesn’t say that the invaders lost or anything—just that the invasion is complete and that it’s processing the results. I haven’t gotten any notification about going back. At least, I haven’t yet.”
+
+“Hmm…” Derek rubbed his chin in thought. “Well, I’m sure something will happen soon enough. Right now, though, we have to do something about all this chaos.” He motioned to the massive city all around him. Just as he was about to release his aura and yell at everyone to calm down, he noticed two figures floating down from the sky.
+
+“You did it,” Ryven said as he stepped off the flying barrier. Ashley, David Brandt’s granddaughter, stepped off behind him.
+
+“That seems to be the case,” Derek said, then he got an idea. “Ryven.”
+
+“Yes?”
+
+“You are a duke, are you not?”
+
+“I… am,” the elf replied.
+
+“And Ashley,” he turned his attention to the woman, “you’re basically a princess or something, right? Like, you’re a super high-up noble, no? I mean, you have to be if David was strong enough to have such a high ranking on the Guardian’s list.”
+
+“I… am,” she replied, the same as Ryven did. “I am the heir to a high noble house, if that is what you’re talking about.”
+
+“Great!” Derek said, genuinely happy. “In that case…” he motioned to his surroundings, “would the two of you please take charge and shut everyone up so we can all think?”
+
+Ryven and Ashley looked at each other, then shrugged.
+
+“Let me see what I can do,” Ashley said.
+
+A few moments later, Derek felt the woman’s aura spike. Her eyes turned completely white, and her hair raised up off her shoulders. The woman took a few breaths, then pointed her palm into the air. Suddenly, a large ball of light appeared over her head.
+
+Slowly, the ball of light floated higher and higher into the air. Around them, some of the frantic invaders slowed to look up at the light. Finally, once the ball was high enough in the air, it exploded. If the glaring ball of light wasn’t enough to get everyone’s attention, then the explosion was—in fact, it was a bit overkill for the situation.
+
+“How about you warn us next time?” Jace said from the side as he rubbed his eyes. He’d been looking directly at the light when the explosion happened.
+
+Derek had to admit, it was one hell of a blinding skill. Even though he wasn’t looking directly at the ball when it exploded, it still blinded him for a moment.
+
+Ashley ignored everyone and continued doing whatever it was she was doing. Soon, Derek saw exactly what that was.
+
+The blinding explosion had gotten the attention of the whole city, and what came next was actual text in the air that was made out of light.
+
+“No danger,” Derek read the text. “Please stay calm.” It was simple enough, and though it didn’t work for everyone, the chaos lessened by a significant margin. “Good…” Derek said.
+
+“We’re not finished yet,” Ashley said. “Ryven. Raise me and Derek into the air with your barrier. Put us directly under the text.”
+
+“Why me?” Derek asked, but Ashley didn’t answer him. Instead, her body floated off the ground, and she motioned for Derek to follow. He sighed, then stepped up onto the barrier. Once he was on it, Ryven raised it to where Ashley had told him to.
+
+Soon, most of, if not all, the eyes in the city—especially the ones closest to them—were on Derek and Ashley.
+
+“Let’s see…” Ashley said. A few moments later, a stone with a magic rune etched on it appeared in her hand.
+
+“What’s that?” Derek asked.
+
+“Sound amplifying rune,” the noble answered.
+
+“Oh, I see,” Derek replied.
+
+“Would you like to do the honors?” Ashley asked. “You are the Guardian, after all.”
+
+“Nope. I don’t want to. Not even a little,” Derek replied. “I’m still not sure why you brought me up here with you.”
+
+“It’s just on the off chance I need you to display some of your strength,” Ashley said. “Nothing more, nothing less.”
+
+Derek snorted but didn’t say anything. Instead, he nodded at Ashley, and the girl took a deep breath in. A few breaths later, she spoke.
+
+“Citizens of Virendell and invaders from the Universal System V3, please listen up!” Her voice boomed over most of the city. After all, the battle had been close to the center. The remaining people who were panicking all stopped to look up. “Good!” Ashley said. “Now, if you have noticed, the invasion is technically over. We are only waiting for the systems to process the results.”
+
+“I am unsure of what has gone on here over the last days or weeks, but know that, since the invasion is over, there are no longer any sides. True, there may be some bad blood between the Citizens of Virendell and the invaders, but the invaders were just on a mission from their system. I also understand that once the Stronghold was captured, all the citizens were protected, so, other than displacement during the time they were in control, I do not believe the bad blood can be overly bad.”
+
+With those words, everyone looked around at each other. It seemed that what she was saying was true for the overwhelming majority of people. Instantly, the tension in the air lessened… until someone else in the crowd decided to speak up.
+
+“And who are you?” a man’s voice sounded out.
+
+“Who am I? I am the granddaughter of David Brandt, who is ranked number four on the list of Guardians. And this man,” she pointed at Derek with her thumb, “this man is known as the Ascending Monarch on the list. That’s correct, he is ranked number one.
+
+“I’m sure many of you saw his fight. He came in alone and stood against all the remaining Champions until his backup had time to arrive. Once his backup of three people—two of whom weren’t even Guardians—arrived, the Champions were all wiped out one by one. He is that strong.” Ashley turned to Derek, then nodded at him. Without the rune active, she whispered, “Release your aura.”
+
+“Fine…” Derek rolled his eyes. Then, he released all of his aura at once. He didn’t direct it anywhere and just let it spill out.
+
+“Ugh…” Ashley let out a grunt, slightly bent at the waist before straightening her back. Below them, every eye that looked up was like a saucer. The entire city was stunned beyond belief. “That’s… enough,” the woman finally said.
+
+“Good,” Derek said after reigning his aura back in. “Because I think Ryven was just about to drop us.” He looked down, and the usually perfectly transparent barrier that Ryven used to travel on was rippling. When his eyes met Ryven’s, he saw that the man was sweating intensely.
+
+“Attention!” Suddenly, Ashley’s voice boomed once again and brought everyone back from their thoughts. “Here is what we are going to do for now. Obviously, Virendell is no longer a Stronghold. It is now just a city in this kingdom. I would like all the invaders to move through the city and meet outside the gates. As you can see, the protective barrier is now coming down, so I’m sure the citizens will no longer have the protection of the system any longer.
+
+“This move is to keep both the citizens and the invaders safe until we figure out what to do next,” Ashley continued. “Now, once you are all outside the city, you may make camp or whatever you need to keep yourselves comfortable. I’m sure the results will be processed shortly, and the systems will send you all back home. And who knows? Perhaps there will be a reward waiting for you when you get back. You did, after all, participate in the invasion, even if you did ultimately lose.”
+
+For the last bit, Ashley actually sounded a bit smug. She just had to rub a little salt in their wounds.
+
+“Do you really think they’re going to get participation rewards?” Derek asked.
+
+“I hope,” Ashley said. “If they do, then it means we will, too. And since we won, perhaps our participation rewards will be better.”
+
+“Well,” Derek said. “You actually did more than just participate. You contributed.”
+
+“I just have to hope that the systems see it that way,” the woman replied. “We do not know how it is going to judge anything. For all I know, only the remaining Guardians will receive anything. That, or only the people who actually fought Champions. I only took out a few scouts.”
+
+“Who knows?” Derek replied with a shrug. Then, he looked back down at Ryven and pointed at the ground. The elf nodded, then Derek and Ashley began slowly floating back down.
+
+“That was very good,” Ryven said once they reached the ground. “I couldn’t have done it better myself.”
+
+“Thank you,” Ashley replied.
+
+“Ryven boy,” Marrick spoke up from the side. “You have a son, do you not? And he is not married, corr—” the Old Goblin started but was interrupted.
+
+“No, you can stop right there,” Ashley said. “If I am to ever marry, it will be with the person I choose, and when I want. That is the end of that discussion.”
+
+“Very well,” Marrick sighed. “You can’t blame a dying old elf for trying to make the kingdom he’s from better.”
+
+“I can,” Ashley said. “And I will… if you speak of it again. I do not care if you are dying or not, nor do I care if you have come to have a friendly relationship with my grandfather.”
+
+Marrick looked over at Ryven, then shrugged. “I tried,” he mouthed.
+
+“You don’t get used to it,” Derek said to Ashley. “Being asked to marry someone because you’re strong.”
+
+“Don’t I know it?” Ashley sighed.
+
+Over the next few hours, Derek and everyone else waited for the invaders to move outside the city. Once they did, everyone posted up on the wall separating the citizens from the invaders. In the distance, they were able to watch as the teleportation array barriers also began to fall.
+
+Finally, after a bit more than seven hours of restlessness and anxiety, the notification that Derek had been waiting for—the one from the system that truly governed the invasion—appeared.
+
+…
+
+Invasion Complete
+
+Results Have Been Processed
+
+Please prepare…
+
+…

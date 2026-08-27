@@ -1,0 +1,277 @@
+---
+id: a601a4dd-5658-5af0-a6fb-61655aef982d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 727 - Just Stuff"
+slug: 0728-chapter-727-just-stuff
+partOf: mythrans-master-of-all-continued-completed
+position: 728
+ownLength: 3328
+unit: words
+publishedAt: 2018-10-11
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/297358/chapter-727-just-stuff"
+royalRoadId: "297358"
+---
+
+Ren woke up with two very hot women on either side of him and felt contentment from them. Both Fire Dancer and Zetaya had death grips on him and were cuddled in as tightly as they could get.
+
+Hey, Teepo. Ren thought.
+
+“Good morning, Ren.” Teepo said in the voice only he could hear. “You've got a few hours before Fire Dancer needs to be ready to face the realm.”
+
+Thanks, buddy. Ren thought and closed his eyes so that he could just lay there and bask in both women's intense heat. If I doze off, wake me when it's time.
+
+“Sure thing, Ren.” Teepo said.
+
+It took another two hours before Fire Dancer started to stir, and Ren felt it when she woke up. She startled herself when she realized what she was doing, being cuddled up against him, so she let him go and lifted her head to look at his face to see if he was awake.
+
+“Good morning.” Ren said and kissed her forehead.
+
+“I... you... how long have you been awake?” Fire Dancer asked.
+
+“A couple of hours.” Ren said.
+
+Fire Dancer pushed the blanket off and sat up. “Why didn't you wake me up?” She asked and tried to ignore the fact that she had been holding on so tightly.
+
+“I wanted to bask in your intense heat.” Ren said honestly, and she couldn't deny his feelings and that it had felt nice. “You've got about an hour before you need to start your duties.”
+
+“I know my responsibilities, Father.”
+
+Ren chuckled. “I was trying to tell you that you can bask in my heat until then.”
+
+“Father, I...”
+
+“I want to share small moments like this with you.” Ren said and touched her arm. “I know that we have years to spend with each other; but, these times are few and far between. These precious moments I want to savour and keep, and I want you to keep them, too.”
+
+Fire Dancer took in a shallow breath and laid back down, and Ren pulled the blanket up to cover her. She looked at his face and he gave her a warm and welcoming smile.
+
+“Cuddle in tightly like you just were. I want you to enjoy this.” Ren said.
+
+The Fire under Fire Dancer's translucent skin swirled faster and he felt her start to be embarrassed. Ren put an arm around her and pulled her in close, which gave her a one-armed hug, then he activated his Hands of the Gods ability Burning Hands. Since both Fire Dancer and Zetaya's arms were bare and he was holding them there, they had direct access to his pure Fire and started to absorb it.
+
+“You're awake, too?” Fire Dancer asked when she felt Zetaya absorb Ren's Fire. Zetaya didn't open her eyes as she nodded and rubbed her face on Ren's chest.
+
+“More, please.” Zetaya said, and Ren concentrated and started to pour more Fire out of his hands. “Mmm, yes. Thank you.”
+
+“You don't have to... enjoy it so much.” Fire Dancer whispered, because she had to hold her own enjoyment in.
+
+“I know it feels good.” Ren said. “I can feel it, remember?”
+
+“But...”
+
+“Do you want me to stop?” Ren asked, even though he knew that she didn't want him to.
+
+Fire Dancer put a hand on his pyjama top and made a fist as she gripped it into a bundle and held on, then she opened the dam she had made inside of herself to hold her feelings back. Zetaya gasped as it flooded the room and Ren held them both tightly and tried not to laugh.
+
+“There's my little girl.” Ren said, and Fire Dancer looked at him with wide eyes. “I love you, Honey.”
+
+“F-father...”
+
+“I keep telling you that you don't have to hide your feelings when we're alone.” Ren said and kissed her forehead again. “You can be all stoic and regal when you're outside this room, and I won't ever complain about it; but, inside this room, all you need to be is my beautiful daughter.”
+
+“I...” Fire Dancer put her head back down onto his chest. “Sometimes, I... that's all I want to be.”
+
+Ren felt her genuine emotions and that she really wanted to just be his daughter for a while and not the Deity of Fire, so he deactivated his Hands of the Gods ability.
+
+“F-father, what...”
+
+“I'm really glad you finally admitted that.” Ren said and took out the Vasalor Statue. “So, a year? Would a year's vacation from work be good enough?”
+
+“A what? Vacation?” Fire Dancer asked as she stared at the statue. “Did you say a year?”
+
+“No, you're right. That's nowhere near long enough.” Ren said as he opened a portal under the statue. He let it go and it dropped onto the nightstand, since he couldn't reach over that far because he was penned in on either side and didn't want to disturb them. He activated the statue and set the time compression. “Ten years should do it.”
+
+“But... but...”
+
+“So, what do you want to do to start your vacation?” Ren asked and tried not to laugh at her surprise. “My vote is to stay in bed and sleep a bit longer, so I can keep sharing my ability with you.”
+
+“But... but...”
+
+“We're in a time compressed zone.” Ren said and activated his Hands of the Gods ability Burning Hands again. “Everything we do here is going to pass by almost instantly in the Fire Realm.”
+
+“But... but...”
+
+“If you're worried about me being able to do this inside your realm, Vasalor himself gave me permission.” Ren smiled. “When I mentioned that you might need a break after taking care of the Fire Realm for so long, he was all for it.”
+
+“But... but...”
+
+“I know that it's a bit presumptuous of me to assume that you would want to take time off with me; but, I hoped that having Zetaya here would make it easier for you to relax.” Ren said. “I tried to get Suniva to come; but, after I spent a year with her in the modified Sanctuary, she missed her people a bit too much to leave them after only spending the night with them.” He chuckled. “Who would have thought she would get tired of having me around so quickly?”
+
+“Yes, spending a year with you would be 'too quickly'.” Zetaya said sarcastically and laughed.
+
+“To be fair, I've been giving her and Artemis 6 months of my time every morning and night; but, the last visit to the Sanctuary, where she had pretty much everything she had ever wanted, proved that she really could have too much of a good thing.” Ren chuckled and gave Zetaya a kiss on the lips. Neither of them felt a spark of desire or sexual tension from it.
+
+“That's really weird.” Fire Dancer said, and Ren and Zetaya looked at her with a question on their faces, and she felt their curiosity. “You raised Zetaya from a baby. How can you kiss her on the lips like that?”
+
+Ren chuckled. “I kissed you on the lips until you decided you were too old for it.”
+
+The Fire inside Fire Dancer's face swirled faster as she remembered saying that and tried to look away from him.
+
+“I wasn't angry, Honey.” Ren said. “You were getting older and your little acts of rebellion only made me love you more.”
+
+“F-father, I...”
+
+“What a time I had trying to keep you inside your mother's gift after that, though!” Ren chuckled. “I couldn't tease you by saying I wouldn't kiss you if you didn't listen.”
+
+Fire Dancer felt his amusement and smiled herself. “I wasn't that bad.” She said, then thought about it. “Well, maybe I was. Sometimes.”
+
+Ren laughed and kissed her forehead. “I'd expect nothing less from the daughter of a goddess.”
+
+Fire Dancer felt his love and acceptance of her, and she took a deep breath and sighed. “I don't know how you can... how are you able to...”
+
+“Shh.” Ren said and increased the flow of his ability. “All you need to know is that I can, and I will always love you, no matter what.”
+
+Zetaya's love and acceptance joined Ren's and Fire Dancer relaxed in Ren's warm embrace, both mentally and physically, and she closed her eyes.
+
+“I love you, too.” Fire Dancer said.
+
+“Of course you do.” Ren said smugly. “I'm awesome!”
+
+Fire Dancer snorted and laughed, then Zetaya, Teepo and Ren joined her.
+
+********
+
+“I really wish we were home right now.” Dana said.
+
+“A double lunch period is not enough time to go home and come back for Chem Lab this afternoon.” Gretchen told her, again.
+
+“But we're missing all the good stuff!” Dana exclaimed and tapped her phone with her free hand and ate a spoonful of macaroni and cheese.
+
+Gretchen barked a laugh and took another bite of her sub sandwich. “Yeah, we're missing that it's practically the same game and a few things are tweaked a little.”
+
+“A few!” Dana stopped eating and pushed her long blonde hair back behind her ear and then swiped at her cell phone. “He's added a real time clock so that you know how long you've been playing and can keep track of the time of day it is in the real world.” She said and swiped again. “He's added a rolling map feature that shows you up close where you are, rather than the full top-down one that only appears in certain areas... if you find the map.”
+
+“I still can't believe we sold all of the ones we had.” Gretchen said.
+
+“I know! We've helped so many people with those and from nearly every city.” Dana said and started eating again. “Thanks to Ren, now the quest NPCs show up on your display on those maps, and not just the new ones for the current world event.”
+
+“Yeah, that is a good feature.” Gretchen had to admit. “We always used to have a hard time finding our way back to get those repeatable quests.” She smiled. “Of course, now we have Teela, and she tells us right where to go, once she learns where they are, that is.”
+
+“I'm really glad we weren't there to suffer this 'lost connection' thing.” Dana said in relief as she swiped through the hundreds of messages about it, and the responses where people said that they got everything back. “I don't know what I would have done if I'd lost Teela to it!”
+
+Gretchen nodded and took another bite of her sub sandwich and chewed. “Yeah... I'd feel bad... if anything happened to her.”
+
+“Even though we only just got her, it's like she's always been with us.” Dana said. “I really need to thank Ren for that.”
+
+“How are you going to do that?” Gretchen laughed. “What are you going to get someone that not only probably has everything, he can make everything that he needs or wants?”
+
+Dana opened her mouth to respond, then sighed. “I don't know.”
+
+“Well, if you think of something, I'll help you give it to him.” Gretchen said and finished her sub sandwich and wiped her hands on a napkin. “If even half of what that says is true...” She pointed to Dana's cell phone. “...we all need to seriously thank him for fixing everything.”
+
+We need to seriously thank him. Dana thought in surprise, like she hadn't had that thought before. She had; but, the tone of voice Gretchen used had given her a bit of a thrill.
+
+Gretchen pulled close her bowl of strawberry jello with a dab of whipped cream on it, and started to eat it. “I don't think we're getting online tonight, though.”
+
+“Wh-what?” Dana was brought out of her thoughts.
+
+“We got that class assignment this morning, remember? We need it done for tomorrow.” Gretchen said and ate some of the whipped cream, then licked the spoon. “Why is this so tasty?”
+
+“Probably because you're imagining licking it off Ren's penis.” Dana said without missing a beat.
+
+“I. Am. Not!” Gretchen said, then her face went completely red as her thoughts went right to imagining licking Ren's penis the same way.
+
+Dana saw her friend's face and started laughing. “Now you are!”
+
+“Sh-shut up!” Gretchen said and thought about whacking her friend with the spoon, then decided it wasn't worth the effort and losing the opportunity to eat the rest of the jello. She dipped the spoon into the dessert and lifted it to her mouth, then couldn't help but imagine that it was that great penis Ren had let her see.
+
+Gretchen slipped the spoon into her mouth, turned it over, then closed her mouth and licked it as she slowly pulled it out. She shivered slightly and she put the spoon down on the tray and sat there quietly.
+
+Dana kept laughing and didn't notice her friend's reaction. “Hey, I'm only joking.” She said when she calmed down.
+
+“Y-yeah, I... I know.” Gretchen said and stood up. “I need to go to the bathroom.”
+
+“I'm done eating, too.” Dana said and picked up her tray.
+
+“I'll meet you at the locker to grab what we need to start that project.” Gretchen said and picked up her own.
+
+“This is supposed to be an off period, Gretchen.” Dana groaned, and Gretchen smiled as they dropped the trays off where they were supposed to go.
+
+“If we get it done soon, we might get online tonight.” Gretchen suggested.
+
+Dana grinned. “All right, you don't have to twist my arm.”
+
+They left the cafeteria and split up, and Gretchen ducked into the closest bathroom to take care of her slightly leaking problem.
+
+*
+
+Several news reporters had made it a regular thing to sit in courtrooms during slow news times to try and find interesting stories to add as fluff pieces. They didn't pay as much, since it wasn't a main story, and most of them just liked getting paid to sit there and do nothing all day.
+
+That wasn't true for the lucky son of a bitch that had chosen the courtroom that Ren's lawyers were using that day. He always recorded everything, because he almost never paid attention to what was actually said, and then Ren's video evidence started playing. It snapped him out of his self-imposed daze and he watched the screen intently as Ren laid out all the evidence.
+
+His expert eye had caught the skipped portions of the testimony, and had guessed correctly that they only used the parts necessary for the case. When that lawyer left and another stepped in, then Ren appeared on the screen again, the reporter almost jumped for joy as a different section of video played. He stayed there the entire time and recorded it all, and he mentally marked the places where certain videos would fit into the narrative, and he smiled. When the judge called an end to the day at 2 pm, which was three hours early, the reporter joined everyone else as they left the courtroom.
+
+Is it less crowded? He asked himself and went to the elevator. I wonder why?
+
+It never occurred to him that most people couldn't disconnect themselves from what they were seeing, and he left the courthouse with a treasure trove of a story. It didn't take him long to get back to the television station and commandeered one of the editing booths, then spliced the footage together in the right order. His mind always had an eye for details and he easily reconstructed the video into what it should look like in it's entirety.
+
+He smiled and saved his work, dropped a couple of copies of both the original files and the combined video to his own memory device and onto the memory device from the station, then quickly sought out the news anchor. He knew she was a real go-getter and would listen to what he had to say, especially when he told her what the story was. He found her in her dressing room, and he knew she had an hour or so to wait before she needed to be in front of the camera.
+
+He knocked on the door frame and leaned in. “Sorry to bother you.”
+
+“Hm? Yes?” The very pretty news anchor turned in her swivel chair to look at him, and he caught his breath at her beauty.
+
+“Um... well... I....”
+
+“I could tell you not to ogle me like that; but, that was the effect I was going for.” She giggled, and the guy shivered as her laugh was music to his ears.
+
+“Ah... miss, I...”
+
+“Now now, don't be shy.” She said and stood up and saw he had a death grip on something in his hand. “Do you have something for me?”
+
+“Oh! Yes!” The reporter said and stepped into her dressing room and held the memory device out to her. “Boy, do I have a story for you!”
+
+“Really?” She purred and gently took the memory device from his hand and her fingertips rubbed his palm as she picked it up. He shivered again from her touch, and she smiled sweetly at him. “Tell me all about it, will you?”
+
+“S-sure!” The reporter said and started to babble about everything he had seen that day. Her smile grew broader the longer he talked, and when he was done, she put a hand on his shoulder and gave it a squeeze.
+
+“Thank you very much for coming right to me with this.” She said seductively.
+
+“Y-you're w-welcome.” The man said.
+
+“If I can work my magic, this will be the headline for tonight's show.” She looked at the clock. “Yes, there should be just enough time for the 5 o'clock show.”
+
+“M-miss...”
+
+“Yes, don't worry. I'll make sure that you have a sub-header credit.”
+
+“Th-thank you!” The reporter said and shook her hand vigorously, then left her dressing room in a daze. She let him walk down the hallway for a moment, then gripped the memory device just as hard as he had and she walked very quickly to the news director's office. She knocked once and opened the door, then entered and shut the door behind her.
+
+“We have a problem.” The pretty news anchor said.
+
+“Oh? What problem is that?”
+
+She tossed him the memory device and he caught it, plugged it into his laptop, and the video started playing right away. She told him how she got it and from whom, and told him what he said.
+
+“Well, damn.” The news director said.
+
+“What do we do?” She asked.
+
+“We report it, of course.” He responded.
+
+“But...”
+
+“He wasn't the only one in the room.” The news director said. “If we don't do it, they will.”
+
+“But...”
+
+“I'll give it to Harris if you want to keep your distance.”
+
+“No, I'll do it.” She said. “Harris is too straight-laced to watch that, let alone report on it.”
+
+The news director thought about that and smiled. “Actually, you're right. I will get Harris to do it.”
+
+“Excuse me?”
+
+“This is going to blow everything out of the water.” He said and motioned to the laptop. “I think having an overly-emotional man react to it will give the story that much more of a punch, don't you?”
+
+She opened her mouth to protest, then sighed. “Dammit, I can't argue against my own argument.”
+
+The news director laughed. “I'll have a news-copy done up and given to him, then we'll see how he reacts.”
+
+“I suggest you tape it while he reads it the first time.” She said. “He might not get through a second reading.”
+
+“That is a wonderful idea!” The news director praised her idea, and she shivered in pleasure. “You have main credit for this, by the way.”
+
+“As long as you...”
+
+“Yes, sub-credit to the cub-reporter.” He smiled. “We must keep the underlings happy.”

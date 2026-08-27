@@ -1,0 +1,451 @@
+---
+id: 72c4f54c-ffd4-597b-bb94-18c9551862da
+page-type-slug: story-chapter-royal-road
+title: "Chapter 120: Of Setting Out, and Skillful Sandwich Surprises"
+slug: 0121-chapter-120-of-setting-out-and-skillful-sandwich
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 121
+ownLength: 2430
+unit: words
+publishedAt: 2026-04-17
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3286804/chapter-120-of-setting-out-and-skillful-sandwich"
+royalRoadId: "3286804"
+---
+
+PoV Luna
+
+Luna didn’t have to wait long for her pack.
+
+Not long enough to get bored, at least!
+
+There was still movement around the Guild, people finishing up after the feast. Or returning to the Guild from resting after it!
+
+Luna still didn’t quite understand why so many of them were groaning and holding onto their heads–
+
+But from the smell, she knew it had something to do with the bleh tasting water she tried!
+
+Tastes bad and makes the head go bad bad!
+
+Yep, Luna will stay away!
+
+But she made sure to use that down time properly!
+
+Mister Grevan and his helpers were still there, working through the last of their tasks, and Luna stayed with them for a while.
+
+She watched them work, and helped where she could! But importantly thanked each and every one of them before they left!
+
+It was well deserved!
+
+To make so much tasty food was worthy of head pats!
+
+…Even if Luna was too small to give them.
+
+But!
+
+The results of their work were awoomazing!
+
+The cooks really were nice people, good people, and they made very good food!
+
+Though–
+
+Mister Grevan’s still tasted the best.
+
+But Luna was a proper wolf!
+
+And would never tell them that, yesh.
+
+By the time she finished, and Mister Grevan left with the others, the Guild had settled into its usual rhythm again.
+
+And then, just as Luna turned back toward the entrance, her pack arrived together!
+
+All of them, ready and prepared!
+
+Luna spotted them immediately, her ears perking up as her body reacted before her thoughts had time to follow.
+
+A happy yip slipped out as she pushed off into motion, closing the distance in a quick, eager burst before circling them once, fast and light, taking everything in at once.
+
+Then she went straight where she belonged.
+
+Right into her Second!
+
+A proper pomf directly into Syl’s side!
+
+Luna pressed in without hesitation, her tail already moving behind her as she settled there for just a moment before pulling back enough to look over everyone properly.
+
+Veric stood as he always did, composed and steady.
+
+There was a faint sheen of sweat still present, his posture carrying the clear signs of morning training! That much was obvious, and Luna’s eyes brightened at the sight.
+
+Very Apex Predator!
+
+Luna approved!
+
+She stepped closer to him and reached up, giving him a firm pat on the arm in clear approval!
+
+Praise delivered, Luna nodded to herself, satisfied.
+
+Then checked on the rest of her pack!
+
+Ray looked different in another way.
+
+Sleepier, slower in posture, his movements lacking their usual sharpness, but the scent he carried told a far more important story!
+
+He smelled of satisfaction, layered over everything else!
+
+Ehehe!
+
+It was nice to see her feast idea made her pack happy too!
+
+Very nice.
+
+Luna nodded at him too.
+
+And Syl–
+
+Syl was exactly as she should be!
+
+Ready, composed, and meticulously prepared!
+
+The very image of ‘having everything in place’.
+
+Yip yep!
+
+Her Second was super cool!
+
+But while Luna was busy inspecting her friends, Trianna was already busy!
+
+Luna caught sight of her leaning toward a nearby adventurer who looked distinctly worse for wear, the man groaning softly as Trianna poked at him again with clear intent. The grin on her face made it obvious this was not a one-time thing, and the poor man seemed entirely unprepared to defend himself properly from the ‘prank’.
+
+Heh!
+
+With everyone accounted for, the group moved together toward the front desk.
+
+Julia was already there, as always, standing ready despite everything that had happened the day before.
+
+Feast or no feast, that did not seem to change anything for her.
+
+Luna only half-listened how Syliana handled all the formality thingies.
+
+Blah bleh blah and other stuff.
+
+Why was it being done, she still didn’t know!
+
+It was already decided they were going!
+
+Feh!
+
+Another weird human thingy.
+
+Once finished, Syl turned, and the rest followed, the group falling into motion together as they left the Guild behind and stepped out into the open.
+
+Luna stayed close to her Second as they moved, her attention already shifting forward – to the tower waiting ahead!
+
+There would be monsters there.
+
+And she hoped they would be strong!
+
+A proper big hunt after a big tasty feast sounded downright delicious!
+
+She couldn’t help licking her chops in anticipation.
+
+Oh yes!
+
+It would be fun!
+
+They were nearing the gates when Luna’s attention shifted, her nose twitching as something familiar slipped through the usual smells of the city.
+
+Oh!
+
+She knew that smell!
+
+Sandwich friend!
+
+Her head turned immediately, her steps slowing before redirecting entirely. She did not hesitate, already zooming off with clear intent as she called back to her pack.
+
+“Luna will be back soon!”
+
+And then she was gone.
+
+***
+
+PoV Derek, The Sandwich Guard
+
+Derek stood at his post, looking out over the road beyond the gate in the same way he always did, his stance steady and his gaze fixed forward.
+
+To anyone passing by, he appeared attentive, watchful, and fully focused on his duty.
+
+But in truth…
+
+His thoughts had long since drifted elsewhere.
+
+The morning had settled into a calm rhythm, and with nothing demanding his attention, his mind had slipped into a familiar pattern, circling back to the same quiet realization he had been turning over for days now.
+
+Years spent standing watch, doing everything expected of him, maintaining order, staying alert, and proving himself reliable had only given him some generic Guard skills, after much toiling around.
+
+It was just how the world worked. Do something enough times, and you get a Skill out of it.
+
+Yet what caught him off guard was that the first unique sounding skill he would get in his life…
+
+Was completely unrelated to his daily life.
+
+Instead, it was one relating to something he used to do just for himself.
+
+And instead of years of toil and effort, it took mere weeks of fun and joy.
+
+Just a little encouragement was enough to set him on this path.
+
+And there it was.
+
+Sandwich Maestro.
+
+The grand System sure had a way with words.
+
+And it was already level 3 too, helping him improve his creations in small but very perceptible ways.
+
+His attention dropped briefly to the two sandwiches resting in his hands, his grip adjusting slightly as he looked one of them over with quiet focus.
+
+It had started as something simple, really.
+
+Just some food.
+
+A way to fill the time between duties, something he only started to do properly because it gave him a bit of joy every day.
+
+And all it took was an excitable child for him to start paying more attention to his pastime. He refined it, tried different combinations, adjusted small details that most people would never notice.
+
+And somehow, that had been enough.
+
+Heh.
+
+Life sure was funny like that.
+
+All it took to switch it around was to simply care enough about something, no matter how small or ordinary, and keep at it long enough…
+
+And it would, indeed, be enough.
+
+“Sandwich friend!”
+
+The call broke cleanly through his thoughts.
+
+Derek looked up just in time to see Luna already there. As always he never even saw her approaching.
+
+She sure was quick!
+
+“Well, if it isn’t my best customer! Came to try a new type of sandwich I made?” he said, the hint of a smile already forming.
+
+Luna stopped in front of him, her attention fully locked in at the mere mention of food.
+
+…It was cute how her ears and tail all turned still and serious.
+
+“A new one?” she asked, excitement barely contained.
+
+But Derek didn’t hand it over right away, nuh uh.
+
+Instead, he lifted it slightly, presenting it properly so she could see it first.
+
+“At a glance, it’s simple and no different from normal,” he said, turning it just enough for the details to show. “But it’s the inside that counts!”
+
+Two slices of bread, lightly buttered, gave no hint at first.
+
+The difference revealed itself as he tilted the top slightly, showing the inside where the ingredients had been arranged with careful precision. They formed a circular pattern, each section distinct, each holding a different combination, invading onto another segment just enough to create yet another combination.
+
+Ham in one segment. Cheese in another. Vegetables, sauces, small variations in seasoning, all placed deliberately so no two angles would offer the same bite.
+
+“It’s a rosetta,” he explained, clearly pleased with the design. “Where you bite changes what you taste. You go around it, you get something new each time.”
+
+Luna leaned closer, her attention fully engaged now as she followed the pattern, understanding settling quickly. Her tail swooshed left and right with increased frequency, and he couldn’t help but chuckle at the happy glint in her eyes.
+
+“Sounds awoomazing!” she said, already convinced.
+
+“You could even say sandwichmazing,” Derek confirmed with a wink, handing it over.
+
+Luna took it without hesitation, her first bite coming from one side as she tested it properly. Her ears lifted as the flavor settled, her grip shifting immediately as she tried another angle, then another, each bite confirming what had been promised.
+
+Different.
+
+Every time!
+
+Her fluffy silver tail swishing rapidly sure made for an adorable sight.
+
+Derek watched with quiet satisfaction.
+
+This reaction…
+
+It made the effort totally worth it.
+
+He bit into his own sandwich.
+
+…Yes.
+
+Definitely worth the effort.
+
+“Mhm! That was delish!”
+
+“Ha! Sandwiches have your back, anyday, anytime! Glad you liked it, kiddo!”
+
+“Very smart! Here, for more sandwiches!”
+
+The shadowy Maw opened, and one item after another was placed right into his hands with clear intent.
+
+And every time he thought the girl was done, she just kept going!
+
+“Um, Luna?”
+
+But she ignored him and kept on going!
+
+…At least he had a bag for everything.
+
+Even if it would barely fit.
+
+Soon enough, he was holding far more than he had expected, his expression troubled.
+
+“That’s… quite a bit.”
+
+“New things,” Luna replied simply. “For sandwiches!”
+
+She nodded once, satisfied with the exchange, then turned without hesitation, already moving back the way she had come.
+
+“Bye, sandwich friend!”
+
+And she was gone.
+
+Derek remained where he stood, the weight of the ingredients settling into his hands as he looked down at them again. The possibilities were immediate, and he would surely be able to make some truly unique combinations with them.
+
+Heh.
+
+He might never become the best guard in the world.
+
+That much had become clear over time.
+
+But as for becoming the best sandwich maker?
+
+…That he could do.
+
+***
+
+PoV Luna:
+
+Luna returned quickly.
+
+The moment she spotted her pack, her speed picked up, closing the last stretch in a burst of motion before circling once around them, unable to keep the excitement contained.
+
+“I bring new best sandwich!” she announced immediately, already pulling the half-eaten article out.
+
+It did not wait.
+
+She pressed it toward Syl first, practically bouncing in place as she held it up.
+
+“Each bite different! Very good! Very, very good!”
+
+Syl accepted it without hesitation, her expression softening just slightly as she examined it, quickly understanding the source of Luna’s excitement. She took a measured bite, letting the taste settle properly before taking another from a different angle.
+
+Her brows lifted faintly.
+
+“I see,” she said, calm but clearly pleased. “That is… quite clever.”
+
+“Yes!” Luna agreed instantly, tail moving fast as she shifted closer. “Different every time!”
+
+She leaned in and took another bite herself, proving the point properly, her expression brightening again as the new taste hit.
+
+It was still good!
+
+Satisfied, she tucked the rest away, and shifted her attention forward.
+
+And as the town became smaller and smaller behind them…
+
+Luna sped up!
+
+Simply because she could.
+
+Because it was fun!
+
+Wind met her first, brushing past her face as her stride lengthened, her body settling into motion with ease. For a moment she held her pace there, enjoying the steady rhythm, and the ground passing cleanly beneath her.
+
+Then she pushed faster!
+
+The wind sharpened.
+
+While her steps lightened!
+
+The world blurred just enough at the edges to make it feel right.
+
+A moment later she slowed again, letting the pace fall away just as easily as she had built it, her movement shifting into a lighter jog.
+
+More playful!
+
+Luna turned back, then forward again! Playfully adjusting her speed.
+
+It felt different to Run and to run, with and without her Shadows, Momentum, and–
+
+She jumped.
+
+Hehe!
+
+Then again, higher this time, landing cleanly before pushing forward once more.
+
+Moving had flavors too!
+
+Luna could feel it.
+
+Could taste it!
+
+And enjoyed it very much!
+
+Soon after she slowed down, Trianna joined her without warning, slipping into the same shifting rhythm with an easy laugh. Her steps were quick and responsive as she matched Luna’s pace change for pace change, turning it into a game!
+
+Luna took step back, Trianna took step forward!
+
+Luna to the left, Trianna to the right!
+
+Back, left, right, jump, zoom, and skip back!
+
+Yay!
+
+“Slow down!” Trianna called, though her grin said the opposite as she sped up, trying to keep up with Luna’s movements.
+
+Luna just laughed and sped up again!
+
+Veric followed as well, though in his own way. His pace remained steady, and controlled, but he adjusted it just enough to keep them within reach.
+
+He watched their movements without interfering, simply maintaining position as they ranged ahead and back again.
+
+Behind them, Syl looked over them with a quiet smile, her pace unbroken as she let them expend their energy.
+
+Sepio and Ray exchanged a look.
+
+Neither said anything.
+
+They simply shook their heads and continued forward at a steady trot, letting the others do as they would.
+
+The road stretched on.
+
+Time passed easily.
+
+Eventually, Syl’s voice carried forward.
+
+“At this pace, we should reach the tower by evening,” she said, her tone calm and clear. “The path ahead is straightforward, and there are no expected complications before then.”
+
+Luna slowed just enough to listen properly, her attention catching on the important part.
+
+Evening!
+
+So it wouldn’t be much longer!
+
+Yay, strong prey soon!
+
+Then Syl called out again.
+
+“Luna, what do you say about a little more training, hm?”
+
+She turned immediately, her ears snapping forward.
+
+Training?
+
+Saw a piece of jerky dangling between her Second’s fingers–!
+
+And her tail picked up speed again.
+
+“Yip-yep!”
+
+For jerky she could train furever!
+
+Ehehe!

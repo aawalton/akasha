@@ -1,0 +1,169 @@
+---
+id: 49d74a88-21c8-5d28-ab61-a4f99a2d7e62
+page-type-slug: story-chapter-royal-road
+title: "Chapter 120: Let the auction begin."
+slug: 0120-chapter-120-let-the-auction-begin
+partOf: phoenix-ascension-cultivation-litrpg
+position: 120
+ownLength: 1916
+unit: words
+publishedAt: 2026-04-30
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3338572/chapter-120-let-the-auction-begin"
+royalRoadId: "3338572"
+---
+
+I waited quietly for the moon to fully rise. At the point where it was highest in the sky was when the Moon Bloom would actually bloom. It would absorb the strong energy that would emanate from the full moon, and would stay like that for a few minutes until the moon passed.
+
+If it wasn’t plucked during that time, it would wilt and die. If it was plucked and not sealed it would wilt and die, so one also had to know how to seal it.
+
+My plan was to chuck it into my dantian and go from there.
+
+While watching the cultvators and arirve for the faithful moment, I took note of their cultivation. Most, if not all of them, were in Foundation Establishment. That mean that by default I was at a disadvantage.
+
+Thankfully, I also had my own advantage, namely being a Phoenix, and having levels and skills. For one reason or another, humans didn’t posses a system, while Spirit Beasts did. They did have other advantages, but I believed that Spirit Beasts still had an edge over the average cultivator.
+
+As for what sort, that wasn’t really something I would know, since I didn’t know what the average cultivator was capable of. I would find out soon, I figures.
+
+Because the following few minutes will be a complete bloodbath.
+
+Meng Mao really went and done this sutpid thing…
+
+I still couldn’t believe that he called a bounty on a flower with such niche use cases, all to test me.
+
+But I was supposed he was nice enough to deliver some experience points to me.
+
+Then again, I was higher level than most of those people, so that would also give me diminishing returns.
+
+I could only let out a sigh and blame my luck. I had to babysit Yo Na’s child and, well, I’d already promised her that I would mix that elixir. Though I could break that promise anytime since the terms of the contract were false, and as much as I wanted that water affinity increase…
+
+No, I really wanted it.
+
+So I had to refine that elixir.
+
+It would also give me some great reward since it as so difficult, so I supposed it would work out eventually.
+
+Anyway, I had to focus on being a stealthy bird.
+
+Unfortunately, even as much as I wanted to swoop in and steal it at the best possible moment, nothing always went according to one’s plans.
+
+I thought that even if they spotted me despite my stealth skills, there wouldn’t be an issue, but I was wrong. The moment a guy with far too much perception for his level spotted me, all hell broke loose.
+
+Well, it was bound to happen anyway. My stealth skills couldn’t be invincible forever…
+
+“It’s a Spirit Beast! Some sort of bird.”
+
+“What? Where?!”
+
+“There, right behind those rocks. It’s looking at us… So creepy.”
+
+“Kill it before it gets in our way!”
+
+Honestly, that was a little bit senseless of them, as they were far to quick to anger. Not all of them reacted that. In fact, the majority of them just stood still and watched the few that reacted like that make a fool of themselves.
+
+Some even have scornful expressions, which was rather funny to see.
+
+Those that dared attack me, all seven of them, had low levels and probably very low early Foundation Establishment cultivation. It was rather sad.
+
+Since they’d spotted me already, there was no point to hiding myself any longer. Jumping out of stealth, I flew and dashed toward the group. Priming my wings with Qi, I activated Blade Wing and cut the first guy’s head off, while a successive Iron Claws attack killed two others.
+
+With four remaining, I used an unconventional attack. Peck.
+
+Gouging their eyes out first, I slashed at their chest and used another Blade Wing to take care of them.
+
+With six dead, the last one gulped and stopped mid air, then commanded his sword to turn around and flew away as fast as possible.
+
+I let him go, since I had to conserve some energy.
+
+The other cultivators watched me with curiosity, but didn’t do anything even as I looted the bodies. I also dragged one corpse toward the spot that I was hiding in and started eating it.
+
+Overeater was happy.
+
+Some did flinch upon seeing me do that, but it wasn’t my problem. It did seem that the general consensus was to wait until the Moon Bloom was about to bloom, then fight for it.
+
+It was a little strange, seeing cultivaotrs sit so quietly before going at each other’s throats. An eye opening experience if I dared say so myself.
+
+The moon was almost at the top of the sky. It was time for the fight to begin, and just in time, as I’d just finished my meal.
+
+Slipping back into stealth, I changed positions after putting the looted bags of holding somewhere safe, and starred making my way toward the flower. The best option was to take it away as soon as possible and be done with it.
+
+Of course, ti wouldn’t be that easy, since cultivators were still hot on my train. To be honest, mos tof htem could probably see through my skills, at least partly. It wasn’t that difficult considering some of them had to sit in meditation  a lt, and I imagined a few ofthem had cultivated skills that would give them better senses.
+
+Divine Sense in itself was a cheat at detecting stealth, and part o fme considered that my skills weren’t exactly made for that sort of opponent.
+
+Still, the fewer people that saw me the better. With the flower starting to open, most cultivators started to act.
+
+Blood didn’t shed immediately, since many people weren’t stupid enough to die for a fucking flower. The moment two cultivators clashed, and one saw that they were weaker than the other, then most of the time they’d give up and leave.
+
+Most cultivators also didn’t want to sow bad karma with other people and their clans, so letting them go was courtesy.
+
+I was a little surprises, but not entirely, since again, it was just a fucking flower.
+
+However, there was one that didnt seem to care for the consequences. He would kil each opponent that came his way, and the aura oozing off of him was dangerous. To give him credit, he didn’t go out and challenge people himself, but waited for them to come to him.
+
+It was an immense display of arrogance, one that I respected. The guy was not joking around, which was strange, because it was just a flower.
+
+As a result, besides those six from earlier and some weaker ones that clashed with people far stronger than them, there was no bloodshed, aside from the elephant in the room. The minutes quickly ticked by, and after my display of power, nobody challenged me. However, I knew that would soon change, as the weaklings slowly disappeard and those that were worthy of Meng Mao’s money remained.
+
+Would he pay me if I got the flower? Probably not, but it was an interesting thought.
+
+Anyway, once the weaklings disappeared, the atmosphere became alittle bit… tenser. I was expecting a random free for all, not this sort of organised duels where the winner would be decided with one strike.
+
+Either way, I wasn’t planning on doing any fighting. I stuck to the shadows and hid, slowly approaching the blooming flower.
+
+I was still ways off, but the flower was also yet to be in full bloom.
+
+Unfortunately, right was I wanted to advance again, a man stepped in front of me.
+
+He had the usual allure of a cultivator, wearing a black hanfu, with long hair tied behind his back and sword-like eyebrows. By his hip he had a sword, and he was wearing sandals.
+
+The man looked straight at my position, his eyes seeminly able to pierce through every stealth. “I know you’re there. It’s useless to hide. I don't know what a Spirit Beast needs this flower for, but you’re clearly no idiot.”
+
+I didn’t reply immediately, and opted to stay quiet, but if I moved I would probably be truly out in the open.
+
+Since neither of the options would allow me to advance, I turned off my stealth skills and faced the man head on.
+
+He looked shocked for a moment, but quickly regained his composure. “I don’t know what you are, but this will be interesting. What do you say we settle this with one strike?”
+
+That seemed like an interesting and quick proposition, ad the fact that he hadn’t attacked yet must have meant that at the very least he saw me as some sort of equal, right?
+
+I nodded my head, and he smiled.
+
+“We each get one attack, and the one that steps back or gets hurt loses, agreed?”
+
+I nodded again, not really feeling like I wanted to talk.
+
+“Good, then allow me to start.” He said, then placed a hand over his hilt. The moment he did that, something changed. His aura turned quiet, and for a moment, I felt like a dragon was about to be unleashed.
+
+Unfortunately, whatever it was that he’d tried doing failed. The man’s hand shook as veins popped up, and he painfully drew his sword.
+
+In that moment, the world turned quiet, and I hastily activated Heaven’s Protection. That very same moment it activated, the barrier shattered, but I was otherwise unhramed.
+
+The man looked shocked for a moment, then he chuckled. “I give up.”
+
+With that said, he hopped on his sword and flew away.
+
+That was easier than I thought.
+
+Again, what was going on? Why was everyone so understanding and polite? I was expecting a lot more blood, this was a little underwhelmng. There would be no chaos for me to take advantage of, which meant that I couldn’t follow my original plan.
+
+What now, did I actually have to fight each guy until the flower bloomed? What would happen once it did bloom, would they start going crazy then?
+
+This entire situation was too confusing for me. Was I turning into a bird brain? These people were far too civilised!
+
+Regardless, I just gave up on using stealth and started marching forward.
+
+***
+
+The long awaited final day of the auction arrived. Guests from all over the continent game to try their luck and open their wallets for some of the most precious pills in the area.
+
+Xing Ya Chen knew the manager was very happy about it, and he wasn’t sure what sort of strings he had to pull for he to be allowed to auction them.
+
+Even for the people in the far bigger cities than even Golden Arch City, these types of pills were very useful, as it would allow their youth to progress faster and more smoothly. The better the pill, the better the result.
+
+He didn’t reconigse even one tenth of the people that were standing outside, or sitting, or floating. Some were old, young, or used strange cultivation techniques that kept their age a mystery.
+
+One thing was for sure though. All of them were there for Miss Xiaolan’s pills, and Xing Ya Chen couldn’t be happier.
+
+The branch manager walked onto the illuminated stage, and without even opening a discourse, he declared with a loud voice,
+
+“Let the final night of the yearly auction… begin!”

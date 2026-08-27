@@ -1,0 +1,129 @@
+---
+id: cad50a51-7799-5e71-9eac-c87de7ea8799
+page-type-slug: story-chapter-royal-road
+title: "Chapter 621: One Problem"
+slug: 0190-chapter-621-one-problem
+partOf: rise-of-the-living-forge
+position: 190
+ownLength: 1902
+unit: words
+publishedAt: 2026-07-23
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3715219/chapter-621-one-problem"
+royalRoadId: "3715219"
+---
+
+Arwin sat down in Lillia’s room and did his best to keep the sigh building in his chest from escaping. Even though she was still working in the kitchen, he knew that she’d hear him. There wasn’t much in the Devil’s Den that she didn’t know about — and she didn’t need any more stress right now.
+
+All of them were already under a lot of it.
+
+It had been several days since Rodrick’s announcement and the beginning of the Menagerie’s preparations for war. Every single one of them had been hard at work. Arwin had already begun the blueprints for the next piece of armor he would make. The next person on his list was Art. It was a slightly odd choice, and he knew it. Art didn’t exactly go around fistfighting people.
+
+With his leg, Art was in huge danger any time he got close to a fight. His skills were best applied from safety. But his magic didn’t go anywhere near as far as Rodrick’s did. He had to be close to any battle for the full effectiveness of his magic to work.
+
+And with the approaching conflict with the Guild, something told Arwin that they wouldn’t have the luxury to ensure Art didn’t get pulled into any fights. Every single one of them were going to be at risk. Fortunately, Arwin had come up with a bit of an idea for the next set of armor.
+
+Or, to be more accurate, sets.
+
+Art and Vix were tied closely together already. Their classes literally bound them into one. Vix was a warlock and Art was basically her patron. That connection had been quite difficult for them up until this point — but now it was an advantage that Arwin was confident he could take advantage of.
+
+Half the point of his crafting style was searching for existing strengths in materials and capitalizing on them. Asking for a more apparent advantage than this one would have just been unfair. It was practically already spelled out for him. His recent work with Soul Items and Guardians made Arwin fairly certain that he’d be able to pull this off without too much new innovation.
+
+The item they’d created for the Beast was already a step in the right direction. If he had Ida helping him and figured out how to keep the sets functional on their own without a distance limit on them, then it wouldn’t be too hard to get both Art and Vix in short order.
+
+His current plan was to snag Ida when the morning dawned and get straight to work. Koyu and Wallace had already been primed and their rough blueprint had been started a few hours ago. He was pretty sure that they’d be able to wrap the equipment up sometime fairly soon in the next few days.
+
+But that wasn’t where his thoughts were at the moment.
+
+Arwin had gathered a pretty sizable amount of magical energy from his most recent projects. Enough to push himself another large step forward. He could feel the power churning within him in wait. Pushing it off wouldn’t help anyone. The stronger he was, the more powerful items he could create and the better he could defend the others in the event that the Guild struck before they could.
+
+Or if a Dungeon Break happens right under us.
+
+That, fortunately, had yet to happen. Rodrick had confirmed multiple other Dungeon Breaks throughout the kingdom. Things were depending into chaos at terrible speeds. The war had restarted as well. There were rumors that the armies wasn’t even all that far from Milten. It looked like the Guild were doing their best to keep the current Hero and Demon Queen from figuring anything out by ensuring they stayed as occupied as possible fighting.
+
+But Arwin couldn’t let any of that slow them down. On the contrary. The Guild’s actions just confirmed just how important it was for them to succeed.
+
+Arwin blew out a slow sigh. He let his senses drift across the power lurking in him. He still had two options. Another skill or another improvement to his body. And if he was honest, he wasn’t really sure which of the two he wanted to go with. It wasn’t like there was a bad choice.
+
+But there was a better choice.
+
+He just wasn’t sure what it was yet.
+
+Abilities were more concentrated applications of power. If he had a specific thing he needed to accomplish, then getting a new one or upgrading an old one would be the best way to achieve that… assuming his body was capable of handling whatever power he was trying to get his hands on.
+
+It was a balance.
+
+One that Arwin didn’t have any desire to tip over.
+
+I upgraded an ability the last time around… so maybe I should keep things balanced. Improve my body again. Make sure its keeping up with my advancements. Strengthening myself definitely isn’t going to hurt given the fact that we might be going up against the Guild sometime soon. At this point, I can’t only focus on crafting.
+
+Arwin sat in the darkness silently for several seconds as he pondered his options. He didn’t want to go changing himself in such a way that he started to lose what made him — well, him. Explaining to Lillia why he’d transformed into some kind of lava golem when she hadn’t been looking would have been a very awkward conversation.
+
+And if he was honest with himself, physical defenses weren’t exactly what he needed right now. Arwin’s flesh was already tough. Between the Gehenna armor as well as his titles and improvements to his body damaging him with a physical attack was already going to be pretty difficult.
+
+Then Arwin’s head tilted slightly to the side. He had defenses against magic as well. [Indomitable] considerably strengthened his mental resistance. But he couldn’t help but remember that when Lillia had tested it, she’d still been able to partially compel him.
+
+There’s a very good chance that our opponent is going to be a Lich. Hmm.
+
+He was probably going to be up against someone that knew Soulmancy. If this were indeed a lich, and it was powerful enough to survive this long, then this wasn’t even that much of a long shot. It was just a reasonable guess.
+
+All the warnings that Koyu had given him about Soulmancy and its dangers hadn’t faded. He had to be prepared for someone to try and turn that weapon against him. Partial immunity wasn’t going to be enough.
+
+Arwin thought for a few seconds longer. Then a small smile pulled across his lips. He was pretty sure he knew exactly what he had to do. The results probably wouldn’t even be too invasive. At least, he hoped they wouldn’t.
+
+He drew in a deep breath and let it out slowly to steady himself. Once Arwin’s focus had honed, he reached for the power lurking in wait within him.
+
+Then he got to work.
+
+***
+
+Arwin’s awareness snapped back into his body.  He wasn’t sure how long it had been since he’d gotten started, but there was a strong throb at the back of his head. Power radiated out from him in a heavy miasma. It was so thick that he could have swept his hand through the air and gathered it on his palm. What felt like electric currents raced up his body to tingle across his skull.
+
+It almost felt like he’d dipped his skull into a pool of hot lava. The sensation wasn’t an unpleasant one. Lava didn’t do to him what it would do to others. But there was no mistaking the raw, hungry power that had carved itself even deeper into his flesh.
+
+Arwin ran a hand across his forehead. His fingertips traced across slight lines of raised, warm flesh. Patterns from the Soul Magma deep within him, seared into his flesh and soul alike. Arwin didn’t bother wondering if he’d succeeded. The raw magic pumping through his flesh made it abundantly clear that he had.
+
+He was changed.
+
+A grim smile pulled across his lips. He didn’t try reaching for the power to test it. Deep down, he knew without a doubt that his efforts had succeeded. He could feel it, just as one could feel their own hand. And this wasn’t something he had any desire to draw on until — or if — the time came.
+
+If our opponent is a lich… and if they do try to use Soulmancy on me, then they’re going to have a bad time.
+
+And It doesn’t feel like the results are too obtrusive either. That’s good. I really didn’t want to start warping into some horrible creature the more powerful I got.
+
+Arwin let his eyes open. Floating before him were faint, shimmering words of gold. His status screen. Most of it hadn’t changed. There wasn’t a reason for him to look too closely at it right now. He’d upgraded his body, after all. Such changes weren’t reflected in his status.
+
+But what was reflected was his level.
+
+Class: Living Forge (Unique)(Tier: Master 1)
+
+He sat there in silence for a second. 5 more levels. That was how significant this advancement had been. He’d known he’d stored up a huge amount of power from his recent creations, but it was easy to forget just how much power that was. Of course, Sunsetting’s optimization of his body and class certainly helped ensure that he got a lot more benefit out of getting stronger. There were a number of things working together in his favor.
+
+But that didn’t make the effects any less significant.
+
+It was disgraceful how horribly the Guild had tried to screw him and Lillia over with their intentionally wretched leveling. The fact that something like Sunsetting existed in this world… all Arwin could do was shake his head.
+
+At least part of it is the fact that I actually understand myself now. That goes a very a long way. Couldn’t say the same back when I was the Hero.
+
+Arwin braced his palms against his knees and cautiously rose to his feet to make sure that his boost in power wouldn’t accidentally launch him into the wall. He was pretty sure it wouldn’t, but it never hurt to be safe.
+
+Everything seemed to be in order.
+
+Arwin nodded to himself.
+
+And then there was a knock on the door.
+
+He blinked. Lillia never knocked. She didn’t need to. It was her room. His head tilting to the side, Arwin made his way over to the door and pulled it open.
+
+And standing on the other side was a woman with long, ragged black hair that completely covered her face and eyes. Arwin did a double take.
+
+“Eleven? It’s late. What are you—”
+
+“You think I don’t know that?” Eleven asked irritably. “Madiv is done.”
+
+“Oh. That’s great,” Arwin said. “We can pick the next person—”
+
+“Tomorrow,” Eleven said flatly. “Right now, there’s something else that we’ve got to do. It won’t take long.”
+
+“Is that so?” Arwin asked. Something about Eleven’s tone made it clear that she didn’t plan on taking no for an answer. “And what is that?”
+
+“I need you to come with me,” Eleven replied. She extended her hand and a portal swirled into being at her back. “One wishes to speak with you.”

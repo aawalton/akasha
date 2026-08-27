@@ -1,0 +1,531 @@
+---
+id: ea7b5126-7266-53f8-aa53-4b8e7adc1dca
+page-type-slug: story-chapter-royal-road
+title: "Chapter 98: Of Darkness, Light, and Muddy Battles"
+slug: 0099-chapter-98-of-darkness-light-and-muddy-battles
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 99
+ownLength: 2418
+unit: words
+publishedAt: 2026-02-11
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3037677/chapter-98-of-darkness-light-and-muddy-battles"
+royalRoadId: "3037677"
+---
+
+PoV Luna
+
+The wind picked up first.
+
+It tugged at Luna’s hair and fur in strange, nervous little pulls, carrying smells too fast and in the wrong directions. The air quickly grew heavier, pressed down and restless.
+
+Then the rain started getting serious.
+
+If Luna was expecting a little drizzle, or perhaps a refreshing sprinkle, she would be very disappointed. Instead, this was the cold, insistent sort of rain that soaked through clothes and fur and mood alike in what felt like no time flat.
+
+But Luna was fine with that, it was just water!
+
+Though–
+
+–It made things unpleasantly clingy.
+
+“…That isn’t looking good,” Syl said quietly.
+
+Luna opened her mouth to agree–
+
+–and then felt her Second’s mana gathering.
+
+It dispersed above them, forming a pressure in the air.
+
+So weird!
+
+It felt like the moment before a pounce!
+
+And then the rain around them just… stopped.
+
+The droplets curved away mid-fall, pushed aside by an invisible barrier that wrapped them in a shallow dome. Water hissed and slid along its surface, spilling off to the sides instead of soaking through. Wind hit it and bent, forced to flow around instead of through.
+
+Luna stared.
+
+“Ooooh!”
+
+Syl was already speaking again, voice steady despite the rising storm.
+
+“Darkness, rain, and wet ground… This will make the battle–”
+
+The sky lit up.
+
+White. Sudden. Everywhere.
+
+Then–
+
+CRACK.
+
+The sound slammed into Luna with a physical force.
+
+“YIP!”
+
+She jumped straight up, heart exploding in her chest – and before she even realized what she was doing, her body poofed back into wolf form, fur fluffed out, ears flattened tight against her head.
+
+Second stared.
+
+Nearby adventurers stared.
+
+Time stopped.
+
+Oh no.
+
+No no no.
+
+This was bad!
+
+Luna was better than that!
+
+Weird loud sky sounds were not scary! Definitely not scary. Luna was Apex Predator, not tiny puppy!
+
+She instantly turned back to human form, hands flying to her clothes as she tried to fix everything at once. Tunic straightened. Belt tugged. Tail swatted nervously behind her.
+
+But it was hard.
+
+Her fur was still standing on edge. Her limbs trembled despite her best efforts. Her ears felt too sensitive, buzzing faintly.
+
+Another flash.
+
+Another thunderous crack.
+
+“YI–”
+
+She cut herself off with a strangled sound, jaw snapping shut as she clamped down on it. Her hands clenched into fists.
+
+No.
+
+No yipping.
+
+Woo…
+
+Her ears hurt.
+
+Luna swallowed hard and looked around.
+
+People were looking at her.
+
+A few with surprise. A couple with concern. The others – traitors! – with barely restrained chuckles.
+
+Luna’s eyes narrowed.
+
+She fixed them with a glare so sharp it could only mean one thing.
+
+You saw nothing!
+
+It… did not help much.
+
+But to their credit, most of them looked away, suddenly very interested in straps, weapons, or the rain hitting their shields.
+
+Luna huffed and grabbed both a mana potion and a health potion, sipping a little from each in quick succession. Warmth spread through her chest. Strength steadied her legs just a little.
+
+And her ears hurt a little less now.
+
+By the third thunderclap, she no longer yipped.
+
+The trembling, however, stubbornly stayed.
+
+That was when Second’s hand found her head.
+
+Gentle.
+
+Slow.
+
+Ruffling her head-fur with deliberate care, fingers moving in small, grounding motions. Then Syl hesitated – thought better of it – and pulled Luna in close instead.
+
+“There, there,” Syl murmured, one arm wrapping around her shoulders. “It’s just a storm. It’s loud, but nothing scary.”
+
+Luna leaned into the hug immediately, pressing her forehead against Syl’s side. Her tail curled in tight, wagging weakly despite itself.
+
+The shaking took a long time to fade.
+
+But her Second didn’t let go in all that time.
+
+She worked while holding Luna, staff raised, voice calm and precise as spell after spell went out. Balls of soft light drifted outward, floating into position around the perimeter. They cast steady illumination over mud and grass and churning shadows, pushing back the approaching dark as the rain worsened.
+
+Then jerky appeared in Luna’s mouth.
+
+She didn’t question the sudden gift of spice and glory!
+
+Instead, she chewed.
+
+Slowly.
+
+The spicy goodness spread warmth through her jaw and chest, calming something deep and tight inside her. Her breathing evened out. Her ears slowly lifted again.
+
+She watched the world around her again.
+
+The battle had changed.
+
+The advantage the adventurers had earlier was slipping away. Ants fell – many of them – but more kept coming, dark shapes emerging endlessly from the rain-soaked field.
+
+In the wet and dark, their carapaces were harder to see. Their forms blurred into the ground until they were close.
+
+Only their eyes gave them away.
+
+Weird, insect eyes.
+
+Shining.
+
+Red.
+
+They appeared in clusters, glinting from the darkness just before bodies followed.
+
+Luna swallowed.
+
+Storm or not…
+
+This was getting serious.
+
+***
+
+Luna stayed close to her Second.
+
+Because the world felt wrong.
+
+The rain kept falling, steady and cold, drumming against the invisible shield Syl maintained and dripping where it slid away. The wind tugged at cloaks and hair, carrying smells in broken, confusing layers. Luna sniffed constantly, trying to make sense of it all, but everything blurred together – wet earth, ant gloop, blood, magic, fear.
+
+Things weren’t looking… good.
+
+Not terrible either!
+
+But bad enough that Luna couldn’t wag her tail at what was happening anymore.
+
+All the trap thingies were gone now. She had watched them snap shut one by one, felt the click of finality each time, the Ants falling every time.
+
+But the careful space the humans had prepared – the neat ‘Killzone’ with lines and plans – had stopped being a zone a while ago.
+
+It had spilled.
+
+Now it was just everywhere.
+
+And her Second was fighting too.
+
+Not all the time. She still held her spells together, maintained the lights, kept the rain shield around them  stable. But now and then Luna saw her step forward, staff flashing, earth heaving or ice forming where things threatened to become worse.
+
+Ferric was doing the same.
+
+The Guildmaster moved like a man who knew exactly how much he could give and when. He was everywhere he needed to be, charging into pressure points, rallying faltering lines, cutting down Ants when things got ugly.
+
+As the only two A-rankers in the expedition, they were their trump card.
+
+And yet–
+
+Syl could only stay in one place while maintaining spells.
+
+And Ferric could only be in one place at a time.
+
+And the ground…
+
+The ground had betrayed everyone.
+
+Mud sucked at boots. Ant gloop mixed with rain, slick and foul-smelling, turning solid footing into treacherous lies. Luna watched humans stumble, catch themselves, stumble in the mud again.
+
+Her chest tightened.
+
+And then she saw it.
+
+One of the younger adventurers – though it was hard to tell through mud and rain – lost his footing completely. His boots slid out from under him as he tried to step back, arms flailing as he went down hard.
+
+Right in the way of an approaching Ant.
+
+The creature loomed above him, mandibles spreading wide, legs anchoring into the muck with horrifying stability.
+
+Luna’s ears flattened.
+
+Syl and Ferric were both responding to something else – another surge, another breach from a different direction – on the far side of what now only pretended to be a Killzone.
+
+They were too far.
+
+And too busy.
+
+No time.
+
+Luna needed to get there!
+
+And now.
+
+The thought didn’t even really finish forming.
+
+There was nothing to decide, her body simply knew what needed to be done.
+
+Everything inside her coiled tight in a single instant.
+
+Muscles locked. Breath vanished. Shadows surged.
+
+Every Shadow skill she had answered at once, piling on top of each other without hesitation. Shadowmeld. Shadow Run. Shadow Step. Jump. Momentum Claw. All of them screaming the same word.
+
+Go!
+
+Luna launched.
+
+And the world collapsed.
+
+Rain became needles against her face, each droplet stinging as she tore through them at impossible speed. The ground didn’t exist anymore – only direction did. Shadows wrapped around her legs and spine, compressing and releasing, hurling her forward harder than she had ever gone before.
+
+Faster!
+
+Faster than thinking.
+
+Faster than fear.
+
+Numbers pinged somewhere distant and irrelevant.
+
+【Shadow Run Lv. 7 → Lv. 8】【Jump Lv. 12 → Lv. 13】
+
+She didn’t see them.
+
+Didn’t even feel them.
+
+In her sight there was only the Ant.
+
+Then–
+
+Luna’s claw hit chitin.
+
+An impact beyond a mere strike.
+
+An eruption followed.
+
+The force detonated outward in a blinding flash, a violent bang that cracked through the rain like thunder born too close to the ground. Even the Ants around it froze for a heartbeat, bodies locking mid-motion as debris, mud, and water mist blasted outward.
+
+The rain swallowed the light almost instantly.
+
+Mud and fragments rained down.
+
+For a moment, nobody could tell what had happened.
+
+Then the adventurer blinked.
+
+Stared.
+
+What had been an Ant was now… not.
+
+Just shattered chitin and upturned ground, pieces scattered in a rough arc where something impossibly fast had just passed through.
+
+Luna stood right beside it.
+
+Actually–
+
+She took two more steps through before skidding to a stop.
+
+…Whoops.
+
+She turned around, blinking, chest heaving slightly as the world rushed back in all at once. Her ears rang faintly.
+
+Luna shook her hand. It hurt and was all tingly from that strike.
+
+But it was so powerful!
+
+Totally worth it!
+
+The adventurer looked up at her, mouth opening and closing without sound.
+
+Luna tilted her head.
+
+“…You okay?” she asked.
+
+Rain fell.
+
+Ants clicky-clacked somewhere farther away.
+
+And Luna realized, distantly, that she had gone faster than she ever had before!
+
+Just a second later, someone thudded into the ground right beside her.
+
+Literally appeared!
+
+Ferric slammed down into the mud with the weight of a man who had no time to arrive normally, already half-turned, voice raised as he took in the scene.
+
+“What in the Antsplosion was that?” he demanded. “Do we have Bomber Ant variants he–”
+
+He stopped mid-sentence.
+
+Mid-thought.
+
+He looked down.
+
+Saw Luna.
+
+Beaming like mad.
+
+Mud and ant gunk smeared all over her front, clinging to her clothes, her hair, her tail. Saw the adventurer she had saved, still sitting in the mud, staring at the space where death had very recently been.
+
+Ferric blinked once.
+
+“…Ah,” he said. “So it was little Luna.”
+
+He stared at her for a long moment, eyes narrowing slightly as the pieces rearranged themselves in his head.
+
+Disbelief.Acceptance.Resignation.
+
+All in the space of a breath.
+
+Then he turned on his heel.
+
+“…Thank you for saving him,” he called over his shoulder. “Carry on.”
+
+And he was gone again, already flinging himself back into the fight like nothing strange had happened at all.
+
+Nothing at all.
+
+Luna watched him go.
+
+“…Uh. Luna happy to help?” she offered to the rain.
+
+She glanced around.
+
+Her pack was staring from nearby too.
+
+Frozen in place for a beat too long.
+
+Syl’s mouth was slightly open. Ray had stopped mid-motion, hands forgetting to get his knife back from the dead Ant. Trianna’s brows were raised so high they nearly vanished into her hairline. Even Veric had paused, though not before flicking Ant gunk off his sword, looking between Luna and the crater with a slow, thoughtful squint.
+
+Then – almost as one – they shook their heads and went back to fighting.
+
+Because of course they did!
+
+Luna’s tail wagged once.
+
+Proud!
+
+Then she looked down at herself.
+
+The pride dimmed.
+
+Mud.Ant bits.Wet, sticky, gloopy everything.
+
+Her fur was caked in dark splotches. Bits of shattered shell clung stubbornly to her clothes. Something squelched unpleasantly when she shifted her weight.
+
+“…Eww,” Luna said.
+
+This would not do.
+
+Licking it all off would take forever!
+
+There was no bath.
+
+And the rain wasn’t helping either – it just made the mud splash more, adding fresh layers of gross every time she moved.
+
+Luna frowned, glancing around helplessly.
+
+Then her eyes caught the shadows.
+
+They shifted oddly in the rain and spell-light, clinging to shapes, sliding over surfaces. She remembered how they behaved under her feet. How Shadowmeld let her slide through bad ground like it wasn’t even there.
+
+Her ears perked up.
+
+“…Oh!”
+
+She focused, really hard.
+
+Luna reached inward, nudging the shadows in the direction she wanted them to go – gentle at first, then firmer. Ordering them to do what she wanted. And slowly–
+
+They obeyed.
+
+Crept up her legs, then her sides, darkening her silvery fur to a smoky grey.
+
+She frowned.
+
+That wasn’t it.
+
+Again!
+
+The shadows thickened, crawling higher, swallowing her outline until only her glowing golden eyes stared out from a silhouette of darkness.
+
+Rain pattered uselessly against it.
+
+Luna concentrated harder!
+
+Slide.
+
+Slide!
+
+Slide!!!
+
+But not her!
+
+The stuff.
+
+Something shifted.
+
+Then, all of a sudden, it worked!
+
+All at once, the gunk moved!.
+
+Mud, ant gore, sticky residue – everything slid cleanly off her body and slapped wetly into the ground at her feet, leaving her fur and clothes startlingly clean in comparison.
+
+Luna blinked.
+
+Looked down.
+
+“…Yes!”
+
+【Shadowmeld Lv. 11 → Lv. 12】
+
+“Luna is a genius!” she declared proudly.
+
+She struck a quick, victorious pose–
+
+–and noticed the adventurer she had saved.
+
+…Staring at her.
+
+At the living shadow thing that had just peeled filth off itself like it was nothing.
+
+He swallowed hard.
+
+“Th-thank you for saving me!” he blurted out.
+
+Then he scrambled to his feet and ran.
+
+Just… ran.
+
+Straight back into the battle, boots slipping but never stopping, like he was afraid to be near her any longer.
+
+Luna watched him go.
+
+“…Uh,” she said.
+
+She scratched her head.
+
+“What just happened?”
+
+She shrugged.
+
+Humans were weird!
+
+So that was okay!
+
+Clean and satisfied again, Luna bounced back into motion. She helped where she could– throwing shattered Ant bodies into her Maw to clear footing, zipping around to get all of them out quickly.
+
+A few adventurers nodded gratefully as she passed by them.
+
+“Ehehe!”
+
+It made Luna just a little happy.
+
+The deluge of Ants finally began to slow too.
+
+Luna’s nose twitched hopefully.
+
+She sniffed.
+
+Once.
+
+Twice.
+
+Her ears flattened.
+
+The strong trail she had been sensing earlier – leading the Ants straight into the fight – was gone. Washed away by rain and churned mud.
+
+“…Uh oh,” Luna muttered.
+
+She turned sharply, scanning for Syl.
+
+This felt like a Second problem.
+
+And Luna knew exactly who to tell!

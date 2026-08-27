@@ -1,0 +1,165 @@
+---
+id: ff51a2b9-f979-5243-853f-32d90c805768
+page-type-slug: story-chapter-royal-road
+title: "Chapter 324 : Magic Seven"
+slug: 0025-chapter-324-magic-seven
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 25
+ownLength: 2337
+unit: words
+ownProgress: 2337
+publishedAt: 2025-12-12
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2840656/chapter-324-magic-seven"
+royalRoadId: "2840656"
+markedReadAt: "2026-06-29T19:42:38.013Z"
+---
+
+After the giant squid was defeated, a few other creatures came to investigate, perhaps smelling the blood in the water. Unfortunately for them, they were small fry, and it seemed that when they detected our presence, they made a hasty retreat.
+
+You know… I've always wondered if other monsters have any instinct to not mess with me, although considering my disguises, I might be messing with them.
+
+As for the monster squid, I sadly couldn't just grab the whole thing like Syl the Adventuring Elf was known to do. I hadn't baked [Dissection] master into Sylvain's backstory, wanting to avoid obvious parallels whenever possible.
+
+The outcome became us chopping up the massive creature into chunks and splitting it between the various storage bags we had on hand. I would have loved to take the entire squid myself to convert into slime mass, but once again, Sylvain didn't have the special elven storage bag, so I couldn't use my [Core Storage].
+
+Well, when I create a Riftmancer persona, I won't have this issue.
+
+The parts I stored away, I secretly ate on the side, gaining the squid profile and access to even more tentacles! Sadly, it wasn't a magical creature, so my hopeful target of [Enchanted Fins] still eluded me.
+
+At least I've got a new giant form for some variety. Vee was getting tired of my worm form, and this one even has tentacles! I don't know if I'll ever use the [Ink Spray] ability, but it's interesting at least.
+
+The rest of the guard duty went smoothly, other than a few curious pokes from the deep-sea wildlife. I quickly removed anything that approached too closely or that I suspected might have new parts for me, leaving my coworkers with not much to do.
+
+Not that they raised any complaints, as they seemed quite delighted to see my water wizardry in action. [Hydrokinesis] was simply too good in this environment, putting me straight to the top of the food chain.
+
+With all the water magic I was throwing around, it was finally enough to push my proficiency over the edge into the next level.
+
+<Proficiency gained. [Basic Elemental Magic LV 6] improved to [Basic Elemental Magic LV 7].>
+
+It was both unexpected and expected. I had fused four skills in the middle of a dungeon, and while [Dimension Magic] was definitely my latest focus, I hadn't exactly thrown [Basic Elemental Magic] to the wayside.
+
+Sadly, I can't say the same about light, nature, steam, and healing… Even magma only got its recent use because I randomly chose it for deconstruction. Maybe when Vee and I are setting up our home base, I'll take some time to work on them.
+
+Then there was the exciting bit. A new level in magic meant a new spell, except this time there were four of them! If not for [Roleplay] keeping my outside emotions in "Sylvain mode," I would have jumped or wiggled for joy. I ordered my [Sub-Cores] to maintain appearances while guarding against threats, allowing me to focus my mental energy on examining my new toys.
+
+<[Fire Magic LV 7] spell [Pyrokinesis] learned.>
+
+Fire finally joins the rest of the kinesis group. Although admittedly, I'm still not sure why it needed to be at a higher level than the rest. Hmm… If I'm understanding this correctly, I cannot only use it to control fire but also start it? That's not exactly new… Oh, wait, I'm being dumb, it's not just starting a fire but increasing its level. From nothing to a spark, from a spark to a flame, a flame to a bonfire, and so forth… Huh, I guess I can see why it's a higher-level then!
+
+It could also go in reverse, so you could use [Pyrokinesis] to smother a flame. It seemed pretty nifty, although I imagined that if you kept increasing the size of a conflagration, it could quickly get out of hand.
+
+<[Water Magic LV 7] spell [Whirlpool] learned.>
+
+Isn't this just [Cyclone]?
+
+I had mixed feelings about this one and was once again feeling a little disappointed in [Water Magic]. The default spells it gave were never as flashy as its fiery counterpart, but [Waterjet] was probably one of my most-used spells at this point. Not to mention that in my current situation, it was definitely the king of all my magics.
+
+Guess I'll just have to try it out when I get a chance. If I'm judging this spell correctly, I can't really use it without getting all the humans here involved in its pull, so I'll need to wait.
+
+<[Air Magic LV 7] spell [Vacuum Blade] learned.>
+
+Oh? This sounds interesting…
+
+Interesting was an understatement. This spell not only had a fantastic effect but seemed to fill my mind with a few things I hadn't heard of before, like "air pressure". As for the spell itself, it magically condensed pure air pressure into an invisible and ultra-thin blade.
+
+The spell, by default, was close range, seemingly to conserve Mana for the absurd magical feat it was accomplishing. While I didn't really want a magical handblade spell, I had to imagine this was the easiest way to show off the concept so it could be adapted to other uses.
+
+Can I modify [Wind Cutter] to use this? Although the Mana cost to keep it stable as a projectile will probably be quite steep. Nothing I can't afford, of course, but something to think about.
+
+<[Earth Magic LV 7] spell [Entomb] learned.>
+
+Ha! Now this I like!
+
+The reason for my joy was pretty self-explanatory if you looked back at my recent victory against the giant squid. Trapping an opponent in a helpless state was a surefire way to win, and this was exactly what this spell did. From my understanding, it caused rocks and earth to collect and gather at a target, trying to encase them in a prison.
+
+My immediate thought went to "couldn't you just crush someone with the rock cage," but that was surprisingly not what the spell did. It was only for capture and restraint and would need to be modified or another spell used to make it lethal.
+
+I think I could use [Geokinesis] to do that after capturing my foe… Is this a case of putting a limit on the spell to increase its effectiveness?
+
+I still hadn't toyed around with that concept, as admittedly it still felt weird to me. Why wouldn't you use the best spell with all the bells and whistles? The obvious answer was "Mana", but if you didn't need to worry about that, like me, then surely there was no need to limit your spells?
+
+I'll add it to my ever-growing list of things to look into…
+
+Shortly after my magical perusal, the workers had finished their work, and we all gathered around the crate. A signal was sent, and we all began to slowly be pulled up to the surface. This would have been the most opportune time to attack us, yet surprisingly, nothing came.
+
+I must have scared everything off! Ha!
+
+When we arrived back on the ship, they eagerly began recounting Sylvain's accomplishments to the captain and his guard. At first, they seemed to think it was an exaggeration, but when they saw that the collected food supplies were roughly eighty percent monster, they quickly changed their tune.
+
+"I'm sure the Admiral will give you a big bonus," Kevin said, patting me on the shoulder.
+
+"At the very least, he will likely assign you to some bigger jobs," Geoff replied. "Not that I don't appreciate the break for a change, but I was feeling like a kid on a field trip."
+
+The crew chuckled, and as we sailed back to Peggy, many stories were shared.
+
+When we arrived back, the first order of business was payment and loot. Naturally, I asked for my share of deepstone, despite the earlier advice from Kevin. This caused some surprise from the others, but they couldn't complain; it was my earnings after all.
+
+It might be a bit out of character for Sylvain, but I want it for myself.
+
+Admiral Nathaniel was delighted by the success, and when he saw the chopped up bits of the giant squid, along with hearing the tale of how I manhandled it, he vowed to get me on some proper assignments.
+
+I didn't stay for too much longer and departed for my cabin. It was late, and I could sense Vee was hiding somewhere above, waiting for my return. The travel there and back, plus the mining operation, meant we'd arrived back much later than regular jobs, even with my attempts to speed up our ship.
+
+When I got to my room, I started to unwind, making sure to sample the deepstone and wait for Vee's eventual arrival. About ten or twenty minutes later, Vee finally showed up, and I quickly reestablished our telepathic connection.
+
+"You're finally back!" she cried out.
+
+"The job took longer than I expected. Sorry about that."
+
+"It's okay. I had no idea where your room was, so I spent some time at the top of the mast waiting. When you stopped moving and I sensed you were alone, I finally teleported to you," Vee explained.
+
+We both shared our days, with mine once again being the most eventful. Vee was sad she missed the giant squid fight, although I promised I'd show her the new form as soon as possible. While she seemed curious, her genuine interest was in hoping for some delicious calamari to be cooked up.
+
+Then I showed her some of the deepstone I'd received and shared the explanation that came with it. The water-resistant property of it was interesting, but the fact that it sank when injected with Mana was a double-edged sword.
+
+"I personally can't really think of a reason to use it. Unless you want to drop something heavy on someone," Vee said.
+
+"Well, we could maybe make two rings for you, one out of floatstone and another out of deepstone. Then you could float up or sink rapidly while in the water," I suggested.
+
+"Or I could [Blink]," Vee responded.
+
+"Or you could [Blink]," I agreed with a shrug.
+
+"It might be handy in case I can't [Blink]," Vee finally admitted. "The rumors said that mermen could stop magic with their voice, right?"
+
+"It did… Although I'm not sure if that applies to skills."
+
+I still firmly believed that skills were just magic for dummies, but I had no idea if that could be extrapolated into the rumored mermen being able to disrupt them. Still, it was better to be safe than sorry, and I wouldn't want Vee floating helplessly against them.
+
+There was one obvious issue, though; I didn't have any floatstone.
+
+"Could you mix it with something?" Vee asked.
+
+"I wanted to see what would happen if I mixed it with deepstone, but I'm not sure if alloying works the same as the duplicating process."
+
+"Even with your new cheat slime?"
+
+I paused, rocking my head back and forth in thought. "I'm not actually sure. I was sort of under the impression my impossible alloys wouldn't work as soon as it stopped being [Metal Slime]."
+
+"I suppose that makes sense if you look at it from a trait perspective, which is supposed to be personal," Vee replied after giving it some thought of her own. "If you were a mythical blacksmith, for example, then it would be believable that you could make and share your legendary creations."
+
+"Only one way to find out," I replied and got to work with a bit of slime forging.
+
+Since I only really had copper, silver, and gold on hand in terms of real metals, I tried melting them and mixing them with some floatstone produced from my [Metal Slime]. It quickly became apparent that the two would not cooperate.
+
+I then tried the same using only [Metal Slime] and found that, with a bit of force, they would eventually mix. The copper variety seemed to be merely an inferior version of pure floatstone, while both the silver and gold varieties were somewhat improved due to their increased Mana conductivity.
+
+I thought that by mixing the resulting alloy with the respective standard metal, I could get it to work, but that quickly proved not to be the case. Sighing at the failure, I tried to mix the slime version of floatstone with deepstone, only for it to also refuse to mix.
+
+While it unfortunately didn't work as expected, I still wanted to see the result of the impossible alloy through my [Metal Slime]. They mixed surprisingly well, better than the copper at least, but the result made very little sense.
+
+I made a bar of it, primed it, and then placed it on the table, trying to infuse it with some Mana. I felt the deep-float alloy drink in the Mana, but nothing happened.
+
+"That's weird…" I muttered and tried to pick it up, only to find I couldn't move it.
+
+"Are you trying to do a comedy bit?" Vee asked with a snort before trying and failing to pick up the metal bar. "Wait… what?"
+
+Refusing to give up, Vee tried again after sizing herself up. This time, when she failed to lift it, she sent it sliding across the table. We watched it with fascination, as if it were so heavy we couldn't pick it up, yet it could slide.
+
+Our curiosity piqued when it reached the end of the table, and instead of falling down, it continued to slide across the room as if under an invisible table.
+
+Vee was flabbergasted, but I actually let out a chuckle.
+
+"You know… that actually makes sense," I said, causing Vee to stare at me as if I'd grown a second head. "If you combine floating and sinking, you get suspended!"
+
+Vee made a noise as if she was going to raise a complaint, but just sighed. "I guess this is slime logic in action…" she grumbled.

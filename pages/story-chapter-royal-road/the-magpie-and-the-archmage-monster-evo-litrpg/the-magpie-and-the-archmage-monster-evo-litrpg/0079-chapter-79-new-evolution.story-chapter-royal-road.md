@@ -1,0 +1,245 @@
+---
+id: 3eeb54c7-f92b-5d99-9837-b0d00f63204f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 79 – New Evolution"
+slug: 0079-chapter-79-new-evolution
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 79
+ownLength: 1979
+unit: words
+publishedAt: 2026-02-02
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3003755/chapter-79-new-evolution"
+royalRoadId: "3003755"
+---
+
+Liora couldn't understand what she had done. She had dropped Renir into the swamp water. Out of all places, she had dropped him into swamp water.
+
+"RENIR!" She screamed so loudly that the sound echoed through the whole marsh.
+
+No, she couldn't just let him sink into the murky waters like that. She had to get him back. Liora flew a bit higher, ready to plunge into the water after Renir. Maybe if she were fast enough, she could get him back.
+
+"Liora, don't!" Cee screamed and shot a web at Liora. It latched onto her leg, preventing her from diving into the water.
+
+"Let go! I have to get him down!" Liora flailed, desperately trying to get the sticky web off her foot.
+
+"Can you swim?" Cee shot accusingly.
+
+Liora paused. They both knew that she couldn't.
+
+"What point would it be for you to plunge into the water to drown? How will that help anyone?"
+
+Liora realized that Cee was right, but she couldn't just do nothing. She couldn't accept that Renir would be forever lost in the depths of the swamp. That would be the worst fate any person could ever experience. No, she couldn't allow it to happen.
+
+"I have to get him out! I have to!" Liora cried desperately.
+
+"I…I don't know. You can't swim. I can't swim. What can we do realistically? Find somebody who can, perhaps. But who would willingly dive into a place called Hell Marsh? Especially with the king fish around. That thing would eat anything that dares to get in the water," Cee said, flailing her legs helplessly.
+
+"I have to be stronger," Liora said. "I have to be able to swim."
+
+"And how are you going to do that?" Cee asked.
+
+"I'll evolve! I'll take an evolution that will allow me to swim. Some birds can swim. Come. Guard me while I evolve," Liora said, flying to the tree hollow they used last night as a hiding spot.
+
+"Evolve? Do you really think the System will just give you a convenient evolution like that?" Cee asked, scuttling after her.
+
+"I'll make it give me that evolution. If not this time, then next time. I'll do whatever it takes to get Renir back," she said resolutely, flying into the tree hollow.
+
+"Okay, okay…" Cee said, peering into the hollow from outside. "Are you sure you want to evolve here?"
+
+"It's the safest place in the whole marsh."
+
+"What if you get too big?"
+
+"I'll just return to my magpie form."
+
+"Well, okay… If you're sure…"
+
+Liora nodded and brought up the evolution menu.
+
+[You may choose one from the following three evolutions.]
+
+[Starveil Crow]
+
+[A large celestial bird that rules the night. There are not many who can withstand its deadly beauty, and even fewer who can actually find it. As a starveil crow, your feathers will bend light to your will and make you invisible. Creating illusions will be as natural as breathing.]
+
+[Cost: 35 glimmerstones]
+
+I actually like this one. If I were still in Cyene, I would have undoubtedly chosen this evolution. It would only amplify my stealth skills. But now, I cannot.
+
+[Nightflare Raptor]
+
+[Speed and strength are your weapons of choice. Your streamlined body would allow you to move faster than any other creature, while your powerful talons and beak would tear them apart. At night, your power only grows further as the dark strengthens your natural abilities.]
+
+[Cost: 40 glimmerstones]
+
+Powerful and speedy physical attacker. It's definitely not bad, and probably relies a lot on darkness. But this is not what I need right now.
+
+[Starwind Raven]
+
+[You are the magic incarnate of the night. Your feathers glow with magic, allowing you to create powerful celestial gales that both damage the enemy and purify your allies. Striking in the darkness will only amplify your magic further.]
+
+[Cost: 38 glimmerstones]
+
+Magical evolution. Renir would have loved this one. Even I'm a bit tempted since it has put emphasis on the purification aspect. But purification won't help me now. System, where is the secret evolution?
+
+[For repeatedly defeating marsh inhabitants, you've unlocked a secret evolution. Would you like to view it?]
+
+Yes!
+
+[Lumenwing Aethral]
+
+[Speed and precision combined into a single sleek avian body. Your feathers repel water, allowing you to dive and strike even underwater enemies, while your eyes can see even into dark, murky waters. The shimmering of your feathers can both provide light and also confuse your enemy.]
+
+[Cost: 55 glimmerstones]
+
+The System had given her exactly what she needed. Part of Liora worried about what she would look like after evolving. Aethral didn't exactly explain her appearance since it was obviously some kind of magical bird. But with this evolution, she would be able to swim, and currently, it was all that mattered.
+
+Evolve into Lumenwing Aethral!
+
+With that declaration, the System did its job, and her consciousness faded. The next moment she came to, she felt completely squished by the tree hollow. She had expected as much and promptly activated her Magpie Disguise, shrinking down and hopping out.
+
+It was nighttime, although it was safe to assume it was not the same day. Looking around, she saw Cee half-dozing in the spot above the tree hollow.
+
+"Liora, you're awake! God, I thought you would never wake up. Also, what kind of scam is this? You still look like a magpie," Cee said in an accusing tone, although her legs wiggled in the air excitedly.
+
+"That's because I turned into my magpie form. I got stuck in the tree hollow," Liora said. "How long was I out?"
+
+"Three days, give or take," Cee said. "At one point, a python almost found you. It was such a pain in the ass trying to lure him away."
+
+"Three days?!" Liora exclaimed, thinking of how horrified Renir must be at the bottom of the swamp. Imagining herself in his place, she couldn't help but shudder. "I need to go get Renir."
+
+"Calm down. I highly doubt something can happen to him there."
+
+"King fish…" Liora pointed out.
+
+"Oh… right… But in either case, you should at least check your profile for new traits and skills. And show me your evolution," Cee said impatiently.
+
+Liora released her magpie disguise, instantly feeling the size difference. As a starfeather corvid, she was larger, but as a lumenwing aethral, the branch that previously seemed large was bending under her weight.
+
+"Holy bird…" Cee exclaimed. "You're huge!"
+
+Liora flew down, landing on the willow mangroves' roots. It was more difficult to avoid the tree's long tendrils; she had to be quite mindful of her new, long wingspan. Looking into the water, she saw her reflection—a powerful, huge bird which in shape resembled an eagle, no, an osprey more than a corvid.
+
+Her legs were definitely longer than those of a regular eagle, and the signature white patch on her head had returned. Experimentally, she dipped one of her wings into the water and saw how it all rolled off her feathers, leaving them dry.
+
+"Wow, that's so cool! Is it a skill?" Cee asked, having jumped down next to her. The spider seemed so small by comparison, although in the magpie form, Cee was almost the same size.
+
+"Let me check," Liora said, opening her profile.
+
+[Profile]
+
+Name: Liora
+
+Species: Lumenwing Aethral
+
+Level: 1
+
+Health: Average
+
+Mana: Moderate
+
+Glimmerstones: 544
+
+Skills (10/12):
+
+Mimicry [Legend]
+
+Lunge [Expert]
+
+Skypierce [Adept]
+
+Air Slash [Expert]
+
+Fade [Adept]
+
+Mana Conversion [Adept]
+
+Poison Shot [Adept]
+
+Holy Light [Adept]
+
+Wind Blast [Novice]
+
+Purify [Novice]
+
+Traits (9/12):
+
+Twilight Vision [Legend]
+
+Treasure Sense [Adept]
+
+Aerial Agility [Expert]
+
+Glimmerlust [Adept]
+
+Shadow Glide [Expert]
+
+Inventory [Novice]
+
+Magpie Disguise [Adept]
+
+Poison Resistance [Adept]
+
+Fluid Flight [Basic]
+
+Next Evolution: Requires Level 40 and ??? Glimmerstones to unlock
+
+Four things struck Liora's attention. First, and by far the most painful—she had only 544 glimmerstones. She was so close to getting to 600, yet the evolution had been so costly. The worst part of it was that she couldn't even blame Renir. She had been the one to drop him.
+
+The second thing was that her health had increased to Average, meaning that she wasn't as frail anymore. Third, the limit for both her skills and traits had increased to 12. The last one was her new trait—Fluid Flight. Curious, she brought up the System description.
+
+[Fluid Flight – Converts aerial movements and skills into underwater counterparts. At [Basic] level, you can remain underwater for 10 minutes without needing to resurface for air.]
+
+"Yes!" She cheered loudly at the trait.
+
+"What?!" Cee asked, raising her legs in shock.
+
+"I got a trait called Fluid Flight, which lets me move underwater as if in the air for 10 minutes," Liora explained.
+
+"Seriously?! The System gave you exactly what you wanted. How come it never does that for me?"
+
+"I don't know. Currently, I know only one thing. I'm going after Renir," she said, ready to dive in.
+
+"Wait, wait, wait. Let's work out a plan first."
+
+"Plan?" Liora cocked her head.
+
+"Yes. I've had lots of time to think while you were undergoing evolution. I can't dive underwater, and most of the webs are useless underwater anyway. But I can give you this," Cee said and extended a weird, wet-looking thread.
+
+"Did you soak your web in water?"
+
+"No. This is a water web. It will maintain its shape underwater," she explained.
+
+"That's nice and all, but what am I supposed to do with it?" Liora asked.
+
+"It's a safety precaution or a weapon, perhaps. Basically, you go down with this tied to your leg. If you pull on it three times, then I'm instantly going to pull you up," Cee said.
+
+Liora was about to ask whether she could even lift her, but then remembered how she had carried the crane without much issue.
+
+"Okay, but if I get tangled in your web. Isn't it sticky?"
+
+"No, that's the beautiful thing about the water web. As long as I'm touching it, I can change how sticky it is. I can make it completely liquid, in which case it's not sticky at all, or I can turn it into what is basically glue."
+
+"That's very useful!"
+
+"Right?"
+
+"Could we make a signal for you to turn it gluey?" Liora pondered, thinking of the scenario if the king fish decided to make her into a snack.
+
+"Yes. How about you tug it from side to side four times? But you have let go of the web then, otherwise it will stick to everything," Cee warned, handing the end of her web to Liora, while firmly holding the other, ready to weave more of it.
+
+"Got it. Wish me luck," Liora said, looking into the water.
+
+"Wait, how are you going to find Renir in the dark water?" Cee asked.
+
+"Easy. My Treasure Sense will guide me where I need to go," she said and flew up.
+
+Liora circled the area where she sensed Renir was to better pinpoint his location. When she was sure of where he was, she folded her wings close to her body and dove.
+
+It was amazing. Instead of clumping together, Liora's feather slid through the water effortlessly. It indeed felt almost as if she had never left the sky to begin with. She flapped her wings and swam deeper and deeper in the swamp water. At the very bottom, she saw him. Renir shone among the dark, gloomy murk.
+
+I'm going to get you out! Don't worry!
+
+But Liora's dive into the water didn't go unnoticed. If her eyesight wasn't at Legend level, she likely wouldn't have noticed. But it was so she saw the king fish swimming straight at her at full speed. There was no way she was going to reach Renir before the fish.
+
+Fine. I wanted to try out my new body anyway. Bring it on, fishface!

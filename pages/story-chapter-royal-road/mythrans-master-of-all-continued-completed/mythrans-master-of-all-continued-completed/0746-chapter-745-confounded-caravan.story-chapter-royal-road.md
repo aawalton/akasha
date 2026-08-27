@@ -1,0 +1,301 @@
+---
+id: 4abdcb9d-83a7-5ca2-8398-d7e71cc50461
+page-type-slug: story-chapter-royal-road
+title: "Chapter 745 - Confounded Caravan"
+slug: 0746-chapter-745-confounded-caravan
+partOf: mythrans-master-of-all-continued-completed
+position: 746
+ownLength: 3392
+unit: words
+publishedAt: 2018-10-29
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/301867/chapter-745-confounded-caravan"
+royalRoadId: "301867"
+---
+
+“I can barely remember what happened.” Ren said. “It was like a fog or something was in front of me.” He said. “I kind of knew what was happening, but... I couldn't think.”
+
+“You were like a child who learned to change for the first time.” Tatya said as she stood up, and reverted back to her human form. “Unbridled. Passionate.” She stopped and shook herself. “They usually don't have so much power available at that age.”
+
+“You made a bit of a mess of things.” Artemis said and wiped at his tears.
+
+“Let's see how big of a mess it is.” Tatya said, matter of factly, as if he hadn't just terrified her. Ren took a deep breath and let it out, then tried to stand and winced. Tatya looked down at him to see what was the matter, and saw the bulge he still had from his excitement, and was surprised when it was just as pronounced as it was when he was in his Dire Werewolf form.
+
+“We'll be right out.” Artemis said.
+
+Tatya felt her confidence and nodded slightly as she stepped around them and opened the door to the carriage. Kenkoth, Beholo, and Jirqym stepped out of the carriage behind her and she shut the door.
+
+“Check on everyone.” Tatya ordered, and they split up to check on the other carriages.
+
+“Ren, use the statue.” Artemis said and Ren didn't protest about not wanting to use it, not after what had just happened. He activated it and she stored her clothing, and he did, too. Ren took out several cushions and piled them on the floor, and Artemis laid down.
+
+“Artemis, I...”
+
+“You're welcome.” Artemis said and opened her arms. “Now make love to me.”
+
+Ren climbed onto the cushions with her and did just that. Over and over, almost desperately. “You brought me back.” He kept saying. “I was so lost.” He said. “Then you were there.”
+
+“I'll always be there for you.” Artemis said and kissed him.
+
+They spent several days with each other and Ren worked out his anguish over what had happened. Or what could have happened. He didn't need to tell her that he had been really hungry after changing and he had looked at the people around him only as food. She could read his thoughts and felt his emotions, and she had helped him work through them all. When Ren felt ready to face the consequences of what had happened, Artemis gave him one last kiss, cast Full Illusion on herself, and Ren deactivated and stored the statue, then stored the cushions that they had made a complete mess of.
+
+They equipped their clothing and Ren opened the carriage door. Only a few seconds had passed for everyone else, and he saw the Pervarians run to the closest carriages to check on the others.
+
+“You go to the last cart and I'll go to the first.” Ren said, and Artemis flew down to the last cart and checked on the driver and the occupants, and Ren ran to the first cart and saw the driver was fine. He was still transformed into a tiger-man and said that all the drivers were his kin, since they needed to be predators or the giant boars wouldn't run when commanded.
+
+Or stop when something like what I just did happens. Ren thought. It had taken him days to work through it and pieced together what happened, with both Teepo and Artemis' help. With their outside observation and his internal feelings at the time he had transformed, he agreed with Teepo. He was never becoming the Dire Werewolf again.
+
+Ren nodded to the driver and ignored the driver's surprise at the Respect gain, and Ren went to the carriage and opened the door. “Hey, are you...”
+
+“My King.” Yuwen said submissively and wouldn't lift her head to look at him. Her shoulder length whitish blonde hair hid her face from view. “Thank you for letting me live.”
+
+“Yuwen.” Ren said, and she felt his deep sadness.
+
+Yuwen's hand reached out and found his and gave it a squeeze. “I have to decline your dinner offer.” She said. “I can't share a meal with someone so powerful.”
+
+“But...”
+
+“I don't deserve to be in the same caravan with you, let alone sit beside you.” Yuwen said.
+
+“I'm not taking no for an answer.” Ren said, and she felt him gain the Angered condition.
+
+“Please don't kill me.” Yuwen said and let his hand go, and he felt her fear.
+
+Ren took a deep breath and let it out to calm down, and the Angered condition went away. “Yuwen, I invited an intriguing woman to have a meal. No politics or social ramifications were anywhere in my head when I asked you.”
+
+“You say that, and I believe you.” Yuwen said. “Now, though...”
+
+“How can I fix it?”
+
+“Make her a concubine.” Mires said.
+
+Ren looked at him with wide eyes. “Excuse me?”
+
+“If you announce that she's a concubine, her social standing will be raised.” Mires said.
+
+“But...” Ren thought about lying or staying quiet, then decided the truth was the best course of action. “I was told to not sleep with her because she's been using men to try and make you jealous.” He said, then he felt her deep embarrassment.
+
+“They also told you why, didn't they?” Mires asked, and Ren nodded slightly. “Unlike their version of things, she didn't sleep with anyone. She's just an outrageous flirt.” He said. “She's never been unfaithful, despite what I've told everyone.”
+
+Ren frowned at the dishonesty and Mires held up his hands in surrender as he felt Ren's annoyance.
+
+“Please don't kill me.” Mires pleaded.
+
+“Why are you assuming that I'll kill you?” Ren asked.
+
+“We submitted to your power as soon as we felt it.” Yuwen said and shivered, from both fear and desire, because he was so close. She still couldn't make herself look at him, however. “We are not predators.”
+
+“My Etiquette skill prevents me from asking the questions I want to ask.” Ren said in frustration. “What will being my concubine mean?”
+
+“You don't have to take me to your bed, since I am so undeserving.” Yuwen said. “All it means is, if at any time you need someone to help you in the bedroom, I am at your beck and call.” She said. “My social status will be higher than those not your concubines, and I can... with your permission... be seen in public with you.”
+
+“I assume this is only for this trip and while I am in your lands.” Ren said, and she nodded.
+
+“Our ways are too odd for normal people to comprehend.” Yuwen said. “You, as an outsider, cannot be held to our customs and rules.”
+
+Ren took a breath and let it out as he relaxed. “Finally, some common sense.”
+
+“Wh-what?” Yuwen asked, and Ren took her hand. She stared at it, and his other hand touched her chin and lifted. She tried to fight the movement; but, he was much too powerful for her. He stopped lifting when their eyes met.
+
+“If I can't be held to your customs and rules, why can't you meet my eyes on your own?” Ren asked.
+
+“I... you...” Yuwen blinked her eyes and she tried to look away. “Too strong.”
+
+“I'm not that creature, and I am never becoming it again.” Ren said adamantly, and her whole body shook from relief. He picked her up from the floor and she put her arms around his neck.
+
+“How can you be so strong and so unassuming at the same time?” Yuwen asked.
+
+“I've always been underestimated.” Ren said and held her easily. “Please, join me for a meal.”
+
+“I can't.” Yuwen said and did her best to keep looking at his face. “Not after your declaration.”
+
+Ren sighed. “So, in order to save face for myself and for you, I have to say you're my concubine.”
+
+“Not just me.” Yuwen said and she felt Ren's shock. “No, not Mires.”
+
+Ren took a quick breath and let it out.
+
+Yuwen almost laughed at his relief.
+
+“Who?” Ren asked.
+
+“The other woman in the delegation.” Mires said. “Dilseffa is in the next carriage.”
+
+Ren took another quick breath and let it out, then took a step towards the carriage door. “Oh, do I take you with me?”
+
+“You can take me anywhere.” Yuwen said and made an odd sound under her breath. Ren raised a single eyebrow at her because he understood her insinuation, and she kissed it. “I'll go with you, but you can put me down.”
+
+Ren let her legs go and stepped up into the air so she could stand up easily, and she held on for a moment.
+
+“I never thought I would ever meet someone like you.” Yuwen said and let him go, and Ren felt her reluctance.
+
+“What do you mean?”
+
+“Someone not of our kind that can compete against the best of us.” Yuwen said. “You're an Adventurer, too.”
+
+“Well, I kind of cheated to become so powerful.” Ren said.
+
+“I highly doubt that.” Yuwen said, because she had detected a slight lie. “You used your skills, didn't you?” She asked, and he nodded slightly. “You only used what was available to you to full advantage.”
+
+“It ruined my character development, though.” Ren said. “I was supposed to take my time and grow into everything, and I hit several speed bumps...”
+
+“Speed what?”
+
+“It's something Adventurers have that stop them from moving too fast on roads.” Ren said. “I gained a bunch of levels, almost by mistake, and I had a difficult time catching up on the skills and abilities it unlocked for me.”
+
+“Oh! I understand.” Yuwen said as she felt his emotions. “Yes, I believe I've had something similar happen.”
+
+“You have?” Ren asked, surprised.
+
+Yuwen nodded. “It took me a little longer than usual to hit puberty.” She said and her hands touched her breasts through her tunic. “When I finally did, my breasts grew to three times their previous size and I gained several skills that I had no idea how to use.”
+
+Ren blinked his eyes as she tucked her hands inside her tunic and rubbed herself. “You mean like a Seduction Aura and maybe an Enticement skill?”
+
+Yuwen smiled and nodded, and he dismissed the Respect popup.
+
+“I guess that would be a big thing to handle out of the blue.” Ren said.
+
+“Oh, it was.” Yuwen said. “The heat cycles were the worst, especially with all of the males around.”
+
+Ren raised both eyebrows at her, and she giggled.
+
+“No, I didn't offer myself up to them; but, I really wanted to and my Aura told them I wanted to.”
+
+“Oh.” Ren said. “I assume that...”
+
+“Auras play a big part in compatibility.” Yuwen said and stopped playing with her breasts when it didn't illicit the emotions in Ren that she thought it would. “Your Aura... well...”
+
+“It's overwhelming, I know.” Ren said.
+
+Yuwen smiled and caressed his cheek. “I can't wait to get back home and see the reaction you're going to get from everyone, My King.”
+
+“I'm not your-mhm.” Ren stopped talking when she covered his mouth with her hand.
+
+“If you make the announcement, we can have dinner and I'll show you that I am yours.” Yuwen said.
+
+“Hmm.”
+
+“No buts.”
+
+“Hmm mhm.”
+
+Yuwen chuckled. “No, I told you we don't have to have sex. Ever.” She said and moved her hand. “Just saying we have potential will make things right between us.”
+
+“Then follow me.” Ren said, and they left the carriage. Mires came with them, and they went to the next carriage. Inside were 4 people, two were representatives Ren had seen in the reception area at the castle in Bore Reale, and two were the weirdest people he had ever seen. They had slightly longer necks than normal people, and their eyes were wide as if they were surprised. Everyone looked at him when he opened the door, and the two representatives were on the floor and hugged themselves.
+
+“My King.” The woman named Dilseffa said calmly. “Thank you for letting me live.”
+
+“You're welcome.” Ren said, and she shivered slightly.
+
+“You... don't really...”
+
+“No. Saying that for leaving you alive isn't how I really feel about this.” Ren said, because she had easily detected the lie. “I wasn't in my right mind when it happened, and I can't even...” He stopped talking and took a deep breath and let it out. “I can't tell you that I would have let you live if you had been next to me when I transformed.”
+
+Dilseffa shivered again, this time as fear flooded through her.
+
+“No, don't be afraid.” Ren said and reached out to touch her face to pour Reassurance into her. “I'm never taking that form again, so you will never suffer through that feeling. Ever.”
+
+“But... you...”
+
+“I was told that I can make this right by claiming you as a concubine.” Ren said, and he felt her relief, and then he felt her shock.
+
+“N-no, I... I am...”
+
+“Are you married?” Ren asked as he let her face go, and she shook her head. “Are you dating someone?”
+
+Dilseffa took a sharp breath and tried to shake her head, and she couldn't. That would have been a lie.
+
+“It's all right if you are.” Ren said. “I was also told that I don't have to have sex with you, just claim that the potential is there.”
+
+“But... My King...” Dilseffa took a shallow breath and built up her courage. “I won't be able to... to be with...”
+
+“Is there a restriction on concubines seeing other people?” Ren asked, and she shook her head. “Is there a restriction on concubines having sex with other people?”
+
+Dilseffa nodded slightly.
+
+“Can I lift that restriction and not cause a social uproar?” Ren asked.
+
+Dilseffa was so surprised by this that she lifted her head for a moment and looked into his eyes, then ducked her head again. “You're my King. Your word is law.”
+
+Ren paused for several moments to think about it. “Can I just declare it to you and it counts, or does it need to be a big announcement in front of the whole delegation?” He felt surprise from the Pervarians, since no one had asked such pointed questions before, and waited for them to get over it.
+
+“My King.” Dilseffa said when she recovered. “A personal declaration from you would honor me, and others would know it in time.”
+
+“Good.” Ren said and glanced at Yuwen. She stepped into the carriage with a smile and knelt beside Dilseffa. He put a hand on each of their shoulders. “I, Ren the First, The Tainted King of the Predators, hereby accept you as my concubines.” He said and they were covered in a soft golden glow. “I lift the restriction of having sex with others, with the understanding that you don't use that to tease or entice married people or people already in relationships.”
+
+Yuwen gasped as the glow faded. “N-no.” She said. “I swore to...”
+
+“It's all right.” Ren said.
+
+Yuwen's anger started to rise. “You would deny me my revenge?”
+
+“You've already proven that he doesn't deserve you.” Ren moved his hand from her shoulder to cup the side of her face. “From now on, you are my concubine and will act like it. You are above such pettiness.” He smiled and took the sting out of his words by filling her with potential pride. “Don't concern yourself with what is in the past and look to the future.” He said. “He will still desire you, and now he won't even get to see you tease him.”
+
+Yuwen opened her mouth to respond hotly, and then she caught Mires' emotions and how much he was going to regret not seeing her like that anymore. She took several breaths and put a hand on Ren's as she understood what he did for her.
+
+“He has to suffer in silence from now on.” Ren said. “Your task is done, as is that part of your life.”
+
+Yuwen nodded slightly. “Thank you, My King.”
+
+“Ren.” Artemis said from nearby, and Ren stepped out of the carriage. “You need to see this.”
+
+“How bad is it?” Ren asked as the carriage he was just in emptied of people and they all followed him.
+
+“You're not going to be happy about it.” Artemis said and led him down the caravan.
+
+“Is there anyone still on their knees?” Ren asked.
+
+“No, Tatya and Kenkoth took care of them.” Artemis said and pointed at the middle carriage. “The problem is this.”
+
+“It's a giant boar.” Ren said and looked at the large creature attached to the front of the carriage. “What's the... no.” He said and stepped close. He couldn't feel any emotions from it. “No.”
+
+“It's dead.” Tatya said as she came over to them and the rest of the caravan's occupants joined them. “The others survived what you did, but this one...”
+
+“No, I... I didn't mean to...”
+
+“I'm surprised it was the only one that died of fright, actually.” Kenkoth said. “That was...”
+
+“...an awesome display of power.” Jirqym said. “I've never seen anyone cause something to die from giving up its life for them.”
+
+Ren closed his eyes and pet the carcass. “It gave up its life for me.”
+
+“It's never happened before.” Jirqym said. “We should honor its sacrifice appropriately.”
+
+“How?” Ren asked. “How would we honor this?”
+
+“We eat it, of course.” Kenkoth said, and Ren turned and looked at him with wide eyes. “It gave up its essence to feed you. The least we can do is fulfill its dying wish.”
+
+“We need to stop and rest anyway.” Tatya said. “We can let the other boars rest while we eat dinner.”
+
+Ren closed his eyes and sighed. “I knew my love of bacon would come to haunt me one day.”
+
+“Bacon? What's that?” Tatya asked.
+
+“It's the most delicious...” Ren started to say and stopped. “I don't know if I can eat it now.”
+
+Kenkoth slapped him on the shoulder. “It's all right. The boar should provide enough meat to feed everyone in the caravan easily.” He said. “I'm not sure how this carriage can continue on without a giant boar to haul it, though.”
+
+Ren sighed and opened his eyes, then turned to face everyone. “I'll pull the carriage myself.”
+
+“No, you won't.” Tatya said. “You are not a common pack animal.”
+
+“What else can I do except take its place?” Ren asked. “I wish I could replace it, but...”
+
+System and Administration Request
+
+Create Anything Ability: Generating one (1) Giant Boar Pack Animal (#GBPA0026)
+
+Ren's mouth dropped open in shock at the popup, then it faded as a giant boar appeared right behind everyone. It was even harnessed and set up for hauling a carriage. Everyone felt his shock and caught their breath.
+
+“What... what is it?” Tatya asked.
+
+“Look behind you!” Teepo chittered in delight and pointed. Everyone turned around and saw another giant boar, identical to the others, and their shock was just as profound as Ren's.
+
+“Wh-what... what is this?” Someone asked, dumbfounded.
+
+“He...” Jirqym clamped his mouth shut and didn't say anything else, and was glad that no one had noticed he had tried to answer the completely ridiculous question with a ridiculous and true answer.
+
+“It's a miracle!” The driver of the carriage with the dead giant boar attached said. “Quick! Someone help me with it!”
+
+Four other drivers quickly switched out the dead giant boar with the new one, and they dragged the dead one to the side of the road and stripped it of its harness and equipment. They put the old equipment on the new giant boar and congratulated each other for doing it so quickly, then stored the spare harness.
+
+“Well, now you don't have to feel so guilty over this.” Kenkoth said and clapped Ren on the shoulder again, then he waved to several people. They came over to the giant boar and started to cut it up. Ren didn't say a word as he was led back to Tatya's carriage by Artemis, while everything was set up for the caravan members to have a meal.

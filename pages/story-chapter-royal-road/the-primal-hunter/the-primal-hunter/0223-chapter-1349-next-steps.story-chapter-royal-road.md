@@ -1,0 +1,123 @@
+---
+id: c8a865be-4676-5247-bd42-57ec746c65e4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1349 - Next Steps"
+slug: 0223-chapter-1349-next-steps
+partOf: the-primal-hunter
+position: 223
+ownLength: 2578
+unit: words
+publishedAt: 2026-07-08
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3649138/chapter-1349-next-steps"
+royalRoadId: "3649138"
+---
+
+“It was a good decision,” Miranda said, nodding approvingly. “Though perhaps not necessarily for the reasons you believe.”
+
+“I just thought having a Behemoth and a few dozen other decently strong B-grades would be a boon,” Jake shrugged, wanting to hear why Miranda thought turning the United Tribes Territory into a Vassal was a good idea.
+
+About a full day had passed since Jake’s fight with the Behemoth and Archfiend, and after dismissing any misunderstandings, Jake had communicated with Miranda and set up terms for the United Territory to become Vassals. As the Chief Administrator, the Behemoth had the authority to fully surrender, and the terms Miranda wanted weren’t that harsh.
+
+The terms for Vassals in general were very harsh, though.
+
+First of all, the dominant Chief Administrator was capable of destroying the Beacon of any Vassal at any point, for any reason, only using the system menu. It more or less meant their existence was in the hands of Jake and Miranda now. Partly, anyway.
+
+They still had the option of destroying Jake’s Beacon within two months to stay in the event, meaning it could be a risk to have too many Vassals at once should they choose to rebel. There were also many other advantages, though.
+
+Jake’s Territory could take a portion of a Vassal’s Prima Credits income, with the minimum amount set at 10%. Even if Miranda wanted to, she couldn’t make this number any lower. All she could do was increase it, even setting it to 100% and taking every single Prima Credit a Vassal earned, leaving them entirely starved and unable to obtain any.
+
+She couldn’t touch their existing balance, though, only their income. There were many more things and several other limitations placed on Vassals, but the most important thing was that their existence was tied to Jake’s Territory now. Should his Beacon be destroyed, so would theirs, and the only way to get released from being a Vassal was for Jake to do so.
+
+Miranda had smartly left the possibility of a future alliance open, should they do a good job. Jake didn’t know if she was actually serious about that, and he still had some reservations regarding the Behemoth, but nothing he’d voice.
+
+No one knew what would happen to Vassals at the end of the event, but they were bound to fare better than eliminated Territories, which was definitely part of why the Behemoth had agreed. Oh, and she also let something slip out during the negotiation with Miranda that made her willingness to surrender make a bit more sense:
+
+The United Tribes’ upper leadership, her own Patron included, had urged their members to seek a better relationship should they encounter Jake’s Territory during the event. In other words, it had likely been her plan to become an ally of Jake in one way or another, but due to the circumstances, becoming a Vassal was the best option available that would allow her to both accomplish her task and remain in the event.
+
+Anyway, Jake’s only goal by turning the United Tribes Territory into a Vassal was to get more B-grades in their camp, but Miranda believed the benefits went way beyond that.
+
+“Having more fighting power is great, but we would eventually get that anyway when we meet up with our existing allies or more people from the Order of the Malefic Viper,” Miranda explained. “No, I believe the biggest gain is the Territory Beacon.”
+
+Jake raised an eyebrow, not entirely certain what she was getting at with that. Outposts could do everything the Beacon could, though at a smaller scale, so he didn’t see why having a Vassal Beacon would be so damn valuable.
+
+“Think about it like this: we’ve made a lot of enemies, right? Including at least one of the Hells, seeing as you’ve killed that Archfiend and destroyed his Beacon,” Miranda continued. “We don’t know if this Archfiend can return in thirty days after his Territory is claimed, but even if he can’t, others from the Hells may come for revenge. Perhaps he even had existing alliances already within this event. The point is, if they don’t exist already, there will be many wanting to break our Beacon in the future to remain in the event... or the Beacon of a Vassal.”
+
+Jake instantly understood what she was getting at. “They’re effectively a buffer now... because who would dare go for my Beacon to remain in the event when they could go for my Vassal.”
+
+“Precisely,” Miranda smiled. “In fact, this entire Vassal and alliance system, coupled with the rules for remaining in the event should one get their Beacon destroyed, has a lot of interesting implications.”
+
+She outlined her thoughts and made many good points, making Jake think a little.
+
+It also added another variable Jake hadn’t thought of. In most events like this, forming alliances was purely a good thing, as it meant growing one’s base of power, but in this particular simulation, it was a double-edged sword. Yes, making an ally or becoming a greater faction's Vassal meant one had powerful backing, but it also came with significant risk.
+
+To remain in the event, one only had to destroy the Beacon of the weakest ally of whatever faction took down one’s own Beacon. This made it incredibly risky to be an ally of a powerful faction that had conquered a lot of Territories, especially seeing as they had little incentive to actually defend their allies.
+
+If a weak ally fell, there was a solid chance it would become a Neutral Territory, in which case another faction of the Alliance could simply reclaim the area, resulting in no real loss. Jake was sure that other factions were already exploiting all the loopholes they could in this event, including ones to keep allies around.
+
+Shit, Miranda pointed out that many probably already had “sacrificial” Vassals for when one went to battle with powerful Territories capable of revenge. Say Jake’s Territory ended up getting destroyed, any other faction would be happy for him to join them, but to allow him to join, Jake would have to destroy a Territory Beacon. Whatever faction had destroyed his wouldn’t want Jake and whatever new ally he had made come straight for them, so instead, they had weaker Vassals for Jake to take down instead, with the hope it would at the very least buy them some time.
+
+Jake wanted to say he had thought about all these things already and really understood all the strategies Miranda had theorized other factions would use, but let’s be honest, she’d know he was full of shit.
+
+He was really lucky to have smarter people to think about all that stuff. Jake did have one piece of exploitation he was very certain others were doing, though.
+
+“I think we should also prepare ourselves to encounter people at quite a higher level than we currently are,” Jake said, having thought about this after fighting the Archfiend and Behemoth.
+
+When he’d gone to destroy the Archfiend’s Beacon, he had very much deliberately looked for a demon at level 361 to see who had been the original Administrator that had brought Archfiend into the event. He found her, and that confirmed one of his theories.
+
+“I believe many factions are forcibly raising the levels of Administrators from the ninety-third universe for them to bring far more powerful veteran B-grades into this event,” Jake followed up, getting a nod from Miranda.
+
+“Not unlike what some factions did in Nevermore to try to improve their score towards the end,” she said with a sigh. “I do believe you’re right. If not, getting above level 360 as a native would be nearly impossible. At least all the most notable figures that competed in Nevermore alongside you all seem to have barely reached B-grade before the event arrived, same as us.”
+
+Jake nodded along, already aware of this. He did feel bad for the people forced to raise their levels quickly, as it would entirely fuck up their Records and future prospects. Then again, maybe they weren’t that bothered. The vast majority who made it to B-grade would never also evolve to A-grade, so perhaps this wasn’t the worst outcome for a B-grade who barely got there. As a sacrifice, they would at least get treated nicely for the rest of their lives, as if factions weren’t kind to them, then why the hell would the next person sacrifice themselves willingly?
+
+This was essentially how the entire Holy Church functioned, which was probably also why Jake didn’t like their way of operating at all. He despised that entire mindset of individuals sacrificing themselves for the “greater good.”
+
+He did have to reluctantly admit that for most people, losing future potential wasn’t that much of a sacrifice, and sometimes the factions would even make up for the loss. Azal, the Ghost King from Nevermore, was one example of this. He’d forced himself to level up many times towards the end of the event, hurting his Records significantly, but he’d still managed to reach B-grade and remain a top figure within the Risen faction. They had recognized his sacrifice and compensated him for it, and while it wasn’t clear if he wouldn’t be stronger now if he hadn’t hurt his Records, it was inarguable that he was still a top-tier genius.
+
+Jake was never going to do that kind of thing, though, because he was fairly certain that Azal had at least hurt his chances to step into godhood, and Jake didn’t see a world where he wouldn’t become a god. Hurting his Records and reducing his chances in any way was a non-starter, which was also why he wasn’t in a rush to gain levels. Slow and steady wins the race, and all that.
+
+The Behemoth and Archfiend were also kind of examples of this. Both of them were a lot older than Jake, having taken the time to consolidate their power after evolving rather than jumping straight to leveling up a bunch. They were geniuses who could have likely easily been mid or even late-tier B-grades by now if they’d so desired, but they had instead continued to grow stronger through qualitative means, definitely also heightening their chances to reach A-grade in the future.
+
+Not that Jake was even thinking about slowing down significantly and taking a few millennia to sit in a cave pondering skill upgrades. He would likely do that kind of thing one day, but not when there was action to take part in, and he also knew himself well enough to be aware that the best place for him to grow both in quality and quantity was on the battlefield. That kind of style did come with a significantly higher chance of dying an early death, but when had that ever bothered Jake?
+
+“Anyhow, we should discuss next steps and continue our expansion, no matter what kind of foes we’ll encounter,” Jake said, not even trying to hide his excitement. To others, the prospect of powerful, old B-grades taking part probably scared them, but for Jake, it was an awesome development. Especially after learning that while experience gain was reduced, it wasn’t to the degree where gaining levels was impossible.
+
+“We should,” Miranda agreed. “Tramon is still out there enjoying his newfound existence as a True Dragon, with William and Holstred having also headed out again despite their losses.”
+
+Jake nodded along. “So where should I head so we don’t constantly run into one another?”
+
+“Let me see,” Miranda said as she summoned a map of their expanding Territory. It looked a little funny, made up entirely of squares of different sizes, which made the borders weird, to say the least.
+
+“Also, taking into account the Behemoth’s expansion plans, it makes the most sense for you to-“
+
+Miranda didn’t get any further as she was interrupted by a very rude system message. A system message that had definitely interrupted a lot of conversations and caused pauses in a lot of fights throughout the World of the Exalted Prima right at that moment.
+
+It had come earlier than expected, but really, five years to cull nine out of ten had really been way too long.
+
+The second phase has now ended, with more than 90% of all Territory Beacons destroyed. All Territories that have failed to destroy at least one Territory Beacon have been permanently eliminated.
+
+All individuals who have been slain and had their corresponding Territory Beacon destroyed will be permanently eliminated from the event, and their Seat of the Exalted Prima has been decommissioned.
+
+Surviving individuals who’ve had their Territory Beacon destroyed are still required to fulfill the conditions to remain within the event.
+
+Initiating the third phase: War of Abundance.
+
+Within all Territories, a new special construction project has been unlocked, allowing individuals to enter the Central Domain of the World of the Exalted Prima, a Neutral Territory filled with resources, treasures, and other opportunities. Some of these opportunities may be brought into reality.
+
+The third phase will persist for a total of ten (10) years, or until the Palace of Abundance within the Central Domain has been fully cleared of valuable rewards. Any Territory that fails to at least gather 1,000,000 Prima Credits worth of resources from within the Central Domain during this phase will automatically find itself eliminated.
+
+Continue to dominate the World of the Exalted Prima and seek wealth to fund the war effort, as expansion still remains a priority, and know that the Exalted Prima continues to observe.
+
+The two of them sat silently for several seconds, digesting the message and considering what this meant for the event going forward. Miranda especially looked as if her brain were working overtime, her face warping several times before she finally let out a sigh.
+
+“Well then, perhaps you should delay your conquest plans for a little,” she said, having definitely already opened the menu to see this new special construction available.
+
+There was also the part about the Seat of the Exalted Primas being “decommissioned” that caught his eye. Did this mean 90% of all space stations in different galaxies had disappeared? Something else entirely? He naturally had no way of knowing and instead focused his attention on what had an immediate bearing on this event.
+
+“Palace of Abundance, huh,” Jake muttered at the name of the next major objective of this event. It was clear that this Central Domain was a place to earn a lot more Prima Credits than just the daily income and whatever was earned from conquering new Territory. What’s more, the fact that one had to obtain at least a million to stay in the event had to mean there were a lot of PCs to be gained for the top factions.
+
+Of course, Jake cared far more about the prospect of obtaining rewards that could be brought outside the simulation. It could be physical items, but it could also be something like titles, which was what Jake really hoped for. That, or some other kind of permanent benefit. Who knows, perhaps even a chance to finally improve his comprehension of Eternal Shadow.
+
+However, perhaps most importantly, wasn't everyone going to enter this Central Domain? Wouldn’t this be a place for Jake to meet up with old friends, enemies, and, of course, meet many new opponents worth fighting?
+
+Who knows, maybe he would even encounter this Eastbound Monk that he’d been hearing so much about.

@@ -1,0 +1,109 @@
+---
+id: 8bbd9818-dd81-5009-b372-6004f5e6300b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 515: Body"
+slug: 0081-chapter-515-body
+partOf: rise-of-the-living-forge
+position: 81
+ownLength: 1839
+unit: words
+ownProgress: 1839
+publishedAt: 2025-11-11
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2751909/chapter-515-body"
+royalRoadId: "2751909"
+markedReadAt: "2026-06-29T20:01:01.522Z"
+---
+
+Dinner came shortly after a bath — one which Arwin made absolutely certain not to be late for — and he joined the gathering members of the Menagerie in the bottom floor of the Devil’s Den.
+
+The rest of the adventurers had vacated the premises for the night, and the only ones that still remained within the Den were back up in their rooms. Even though they were in the same building, Arwin wasn’t worried that any of them would accidentally stumble into their meeting.
+
+Sound could barely travel within the Devil’s Den in the best of circumstances. Nobody would be able to hear anything through the thick shadows. And, even if an adventurer left their room and headed down in an attempt to spy on them, Lillia would know well before they even got close.
+
+And so the Menagerie gathered without concern around several tables that the shadow imps pushed together, all settling down in wait while a train of floating dishes piled high with appetizers made their way out of the kitchen to deposit themselves upon the table before everyone.
+
+Nearly everyone from the Menagerie had managed to make themselves present. Ash and Vix sat near the head of the table and across from Arwin and Lillia. Olive and Reya sat beside each other. On the other side were Kien, Monica, and Thane. Koyu and Wallace had also joined in.
+
+Anna was on the other side, not too far from Madiv and Esmerelda, who had positioned themselves across from each other so they could bicker without anyone getting in the way. The only one officially missing was Rodrick —Vanessa might have been recently employed but definitely wasn’t yet an actual member of the guild — and though Eleven had been around for quite a bit, she wasn’t a member either.
+
+Elias and Maeve weren’t present, but that was only because both of them were still currently out training. They’d both been a bit hard to get a hold of since the end of the tournament.
+
+The clink of silverware quickly filled the shadows as everyone dug in. Business wasn’t going to go anywhere, and nobody was going to sit around yapping while they could instead be eating. Nearly five minutes of uninterrupted face-stuffing went by, interrupted by muffled compliments spoken through full mouths, before anyone spoke properly.
+
+“Is Rodrick not back yet?” Art finally asked as he looked around the table. “I had thought he would be finished by now.”
+
+“Not yet,” Arwin replied. “He said you would be taking over for him with regard to the whole vault-Blacktongue thing coming up. He did manage to let you know about that, right?”
+
+“Of course he did,” Art said. “Half a dozen members of his network all found us back in Thornhelm to let us know the plan. He is a thorough man. I am prepared for the upcoming events to the best of my knowledge… even though it does involve splitting our forces.”
+
+“Do you think that’s going to be a problem?” Reya asked. “We’ve got a pretty good number of people now, and you can’t bring a whole guild into most dungeons without drawing the attention of every single monster in the place.”
+
+“No,” Art said. He shook his head. “No more a problem than any other plan could have. I’m more than confident this will work. From the information Rodrick had passed to me… the Blacktongues are more than incompetent enough to fall for this. They don’t have any real basis for maneuvering beyond what little political power they still hold. I’m more concerned about the Dwarven Council.”
+
+“Did Ida have more updates on that?” Anna asked, cocking her head to the side. “They shouldn’t be a problem at all so long as we actually have something from the Vault to sell them and the Auction House is ready, right? But we can always just say the house is going to open in a week or two and that buys us more than enough time to deal with everything.”
+
+“Raen is also getting some things ready for that,” Monica put in, raising a hand. “He and Melissa have begun spreading word to some of their wealthier contacts about the Auction House. There should be a good bit of interest when it opens.”
+
+“That’s perfect. It’ll put pressure on the Dwarven Coucnil to act themselves. That’s what we need,” Art said with a nod. His brow furrowed for a moment in thought and he exchanged a glance with Vix. “I… just thought Rodrick would be back.”
+
+“Sunsetting your class isn’t a simple matter,” Arwin said. “And Rodrick is a very cautious individual. He wouldn’t do anything before he’s certain he’ll succeed. But if you’re concerned about—”
+
+“No, no. It’s fine.” Art shook his head firmly. “I am more than capable of handling this. And that is not false bravado. I am aware of my own capabilities. More so now than I ever used to be. I would be more worried about your chances of clearing out the Vault. Are you certain it’s possible? You’ll likely only be able to have around four people and that dungeon isn’t going to be easy given the scale of rewards the vault holds.”
+
+Arwin’s lips twitched. Art hadn’t seen the Gehenna armor in action — nor had he seen how much more powerful the Menagerie had gotten in just the few days it had been since he’d headed out.
+
+Reya and Olive had been basically fighting dungeon bosses nonstop for the food delivery service. Even Arwin wasn’t entirely sure how much stronger they’d gotten. But between them, Esmerelda’s potions, and all the other deadly options the Menagerie had at their disposal… he was pretty sure the dungeon was going to be more than within their grasp.
+
+And that’s not even counting any advancements I get tonight after spending all the magical energy I’ve been saving up from the results of my smithing and fighting.
+
+“I’m sure,” Arwin said. “We’ll have to figure out who’s going, but I have confidence in our abilities. I suppose now is as good a time as any for that. Does anyone want to volunteer?”
+
+“Don’t forget we need to leave a fairly strong fighting force behind here,” Lillia put in before anyone could speak. “The chances of somebody trying to attack the street are higher than they’ve ever been. Even with Arwin’s guardian… well, having a strong presence here is mandatory. I’ll be staying. There isn’t any location that I’m more powerful than the den.”
+
+“I’ll remain here as well,” Esmerelda said with a yawn, taking a brief pause from her current argument with Madiv to join the conversation. “As will Thane. The boy is not allowed to do any dungeons until he figures out how to get a better handle over the hussy in his sword.”
+
+The black sword at Thane’s side shuddered. Esmerelda shot it a sharp glare.
+
+“I would like to volunteer,” Kien said. “I have been honing my skills over the past days with my new class. But a blade can never be tested purely in theory. I must push myself farther. My level may be behind the average level of the Menagerie, but I do not believe that will impede my abilities.”
+
+“You’ll need a healer for a dungeon like this,” Anna said. Her voice held no room for argument. “I’ll be coming.”
+
+“I want to go as well,” Olive said. “I need to feed the arm. It’s gotten a bit of an appetite recently.”
+
+Reya tilted her head to the side. Her brow furrowed in thought for a second. “Wait. That already makes four, doesn’t it? Because Arwin is definitely going. I kind of wanted to go as well… but I’m not as good at fighting as Olive or Kien are. It might be smarter if I stay back. We need our hardest hitters on something like this, don’t we?”
+
+“It would be wise,” Arwin agreed. “But don’t discount your abilities. You might not be able to inflict a lot of harm, but those chains of yours are pretty damn effective against powerful enemies. If you really want to go, I don’t think anyone would be against having a discussion to figure out what the best—”
+
+“No,” Reya said with a shake of her head. She sent a quick glance at Olive before looking back to Arwin. “I want to go… but I’m not the best option for something like this. I think you’ve already got the best group you’re going to gather, especially since Art needs people to back him up as well, right?”
+
+“I do,” Art confirmed. “We will need a fake group to be ambushed by the Blacktongues. Your ability to escape situations easily would be very useful for a situation like that.”
+
+“Yeah,” Vix said with a nod of agreement. “Me, Reya, Art, and Monica could be the other group. That leaves Esmerelda, Lillia, Thane, and Madiv to defend the street.”
+
+“That distribution seems good to me,” Lillia said. “Especially with the Soul Guardian to back me up.”
+
+More than one, should everything go properly tonight. I’m already feeling much stronger again. Lillia’s food is something else. Maybe the Mesh’s whole world-ending problem could be solved if she just cooked a few meals for it.
+
+That thought brought a flicker of a grin to Arwin’s lips.
+
+“I have been abandoned again,” Madiv declared. He paused, then glanced at Lillia. “Wait. You’re not going?”
+
+“No,” Lillia said. “Which I believe I just said.”
+
+“I no longer wish to go,” Madiv said. “Count me out. I will guard the street along with the old strip of leather that calls herself a woman.”
+
+“You’re one to talk,” Esmerelda snapped. “You’re as dried out as a stick of jerky that got left in the sun. Do you even have any blood in you that doesn’t belong to someone else?”
+
+Arwin repressed the urge to roll his eyes as the two of them devolved back into an argument. It seemed that everything was arranged. Now all that remained were to finalize the last of their preparations.
+
+“I think it’s time,” Arwin said, pressing his hands against the table and making eye contact with Wallace, who hadn’t wasted even a second of precious time on talking. He’d been continuously eating from the moment they’d sat down at the table.
+
+The dwarf glanced at him. Then he grabbed a napkin and cleaned his lips off. He looked to Koyu. The Lich had only eaten a single plate of food — but considering he barely ever ate at all, that was more than normal.
+
+They rose as one.
+
+Arwin joined them, then glanced to Lillia. “You still coming?”
+
+Lillia blinked, then nodded. “Yeah. I’ve got a plate of food waiting for the Infernal Armory as well.”
+
+“Then let’s get to it,” Arwin said with an eager grin. “There’s one last thing we have to finish making tonight, and I’d hate to make the Devil’s Den wait any longer. Let’s go finish its body.”

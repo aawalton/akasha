@@ -1,0 +1,137 @@
+---
+id: 5e86c22c-fde1-59a5-8bef-c97e4fc22443
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1250 - First Phase: Guards"
+slug: 0122-chapter-1250-first-phase-guards
+partOf: the-primal-hunter
+position: 122
+ownLength: 2880
+unit: words
+ownProgress: 2880
+publishedAt: 2026-02-06
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3019022/chapter-1250-first-phase-guards"
+royalRoadId: "3019022"
+markedReadAt: "2026-06-29T19:34:22.889Z"
+---
+
+The Formation Master was clearly the most powerful foe at the ziggurat, but targeting them first didn’t seem possible. The entire top floor of the ziggurat was enveloped by a translucent barrier with countless runes swimming across it, and while Jake was confident in breaking through it, he doubted even his opening attack would be able to do so, and if he wanted to break it fully, it would take way too long.
+
+Moreover, this barrier seemed to not only stop everything from going in but also made it harder for the Formation Master to exit. In other words, they would likely have a grace period where they only had to face the Guard Captain and Elite Guards before the Formation Master would become active.
+
+“Very game-like design,” Casper noted. “Not that unlike Minaga’s floors in Nevermore. Those demon floors definitely felt like a kind of campy tabletop game.”
+
+“For sure,” Jake nodded. “And, yeah, this entire encounter does feel straight out of a video game. In its first phase, we gotta try to take down the Guard Captain and Elite Guards before we engage the real boss in the Formation Master. Should we be too slow, we face them all at once.”
+
+“Could also be that the Formation Master automatically enters combat with us after we kill a certain number of Elite Guards or perhaps the Captain himself,” Casper proposed. “Also, I don’t think we need to engage all the guards at once. This entire place is more than big enough to avoid notice from at least some of the guards on the other side of the ziggurat.”
+
+“I guess there’s only one way of finding out,” Jake smiled, though he did agree that, based on the extremely limited range of perception shown by enemies in the dungeon so far, it seemed possible.
+
+“Say, what’s your idea for an approach? I propose that we start things off with me shooting the Guard Captain half to death, and then we both move in together and wipe the floor with the Elite Guards near the captain. Then if that goes well, we can start wiping out the rest of the Elite Guards, or if the Formation Master becomes active, deal with the guards in that phase.”
+
+“Sounds good to me,” Casper shrugged. “Though I’ll save the good stuff for the second phase.”
+
+“Obviously,” Jake said as he pulled out his bow. Casper looked at the mythical weapon and shook his head before moving closer to their enemies. Of the two of them, Jake was by far the best ranged combatant, and while Casper avoided fighting directly in melee, he was best at close-to-medium range. Being a trapper, he also dealt best with melee enemies that liked to chase him, as it allowed the Risen to bait them into his own domain. If not, he would primarily just shoot out cursed stakes, which all had a rather limited range, in part due to the intense curse energy on them quickly dispersing while in flight.
+
+After waiting a little for Casper to be in position, he got started. Nocking an arrow, Jake took aim and channeled an Arcane Powershot. He would also start this fight with Arcane Awakening at the offensive 50%, willingly trading some power in his opening attack for more longevity during the encounter. Primarily because he didn’t know how long it was going to take, and going by Minaga’s love for showmanship, Jake could totally imagine something shocking and bombastic happening.
+
+Once Jake felt his shoulder begin to give out, Jake loosed the arrow, marking the beginning of their very first boss encounter in the place beautifully known as Minaga’s Awesome and Illustrious Labyrinth Complex Dungeon-5.
+
+Casper was ready as the Arcane Powershot tore through the circular room, kicking up the gray sand far below it as it flew straight for the Guard Captain, who didn’t at all look prepared for the ambush.
+
+Nevertheless, he reacted far better than any enemy in the dungeon before. Right before he was struck, the Guard Captain tried to summon a shield – the physical, not magical, kind – but before he could raise it to block the incoming arrow, his body froze, courtesy of Primal Gaze.
+
+The Guard Captain was struck square in the chest, sending him flying backwards and into the wall of the ziggurat, bouncing off it and into the sand below, where he made a large crater as he slid across it. Jake was slightly surprised upon seeing that the structure suffered no damage at all despite having the heavily armored Guard Captain strike it, though that did mean the body of the B-grade had to absorb all the energy in the blow.
+
+Damage-wise, the Guard Captain had suffered a large hole in his chest and was still trying to orient himself even as the hunter began shooting follow-up arrows. Jake would be lying if he said the increased effect of his upgraded Stealth Attack was obvious, but he trusted the system enough to believe it had indeed increased his damage done.
+
+At least he could confirm that the two arrows he shot right after benefited from his improved Stealth Attack, as he managed to strike the Guard Captain two more times before an Elite Guard managed to get moving and intercepted Jake’s arrows.
+
+Others also tried to assist their captain, but Casper made his move before they could. He released a barrage of stakes while at the same time summoning two magic circles behind himself. Lyra also showed up, infusing his body with power alongside the two circles behind Casper.
+
+The stakes distracted four Elite Guards who were attempting to help their captain, and that brief distraction was enough for Casper’s second attack to be unleashed as the two magic circles behind him exploded, sending out torrents of turquoise energy that emanated a sensation of pure death.
+
+All four Elite Guards grouped up and formed a shield together that blocked the attack completely, but their defensive move meant that they couldn’t go and help their Captain and the one Elite Guard who had managed to come to his assistance.
+
+This allowed Jake to continue his barrage of arrows upon the Elite Guard, who desperately tried to defend his recovering captain. Having more than fulfilled the conditions to activate the skill, Jake used the Rapid Fire mode of Steady Focus as he began loosing arrows even faster than before. Too fast for a single Elite Guard to handle everything by himself without taking a lot of damage.
+
+Jake landed more than a dozen arrows on the poor guy before the Guard Captain managed to stabilize himself enough to provide any help. Rather than try to help defend the Elite Guard, the captain went fully on the offensive, pulling out something from what looked like a spatial storage.
+
+Is that a gun?
+
+The bullet aimed at Jake’s head from the rifle-looking weapon equipped by the Guard Captain confirmed it was indeed a gun. Moreover, the attack came a lot faster than Jake had expected, forcing him to dodge out of the way and deactivate his Rapid Fire.
+
+Several more bullets came for Jake in the next couple of seconds, but knowing what he was dealing with, Jake began counterattacking. He kind of ignored the Elite Guard that was heavily damaged as the poison was likely going to finish him off, but that proved to be a potential mistake.
+
+Pulling out another gun-like object, the Elite Guard aimed it upwards into the air before shooting. A beam of light ascended before exploding into a bright flash that filled the whole room for a moment.
+
+Casper, who was still dealing with four Elite Guards, also noticed this, and they both knew what it was:
+
+A flare.
+
+The two of them had managed to only engage the Guard Captain and five Elite Guards with their opening attack, and even if one guard was practically already dead due to a severe case of poisoning, that didn’t mean adding too many more wouldn’t be a problem. At least to Casper, dealing with four at once was already stressful.
+
+So it didn’t help when the ten other Elite Guards in the room saw the flare and instantly began running towards Jake and his Risen friend. Cursing internally that nothing ever went entirely according to plan, Jake at least took the time to check out that the Formation Master was performing as expected.
+
+At least the robed figure was doing as they predicted and still looked like they were doing some kind of magic that didn’t allow them to exit the bubble around the top of the ziggurat. However, that didn’t mean they weren’t still on a timer and now had a lot more enemies to deal with than they would have preferred.
+
+These ten charging Elite Guards also pulled out rifles of their own, and after being engaged in combat, their range of perception had seemingly expanded massively, allowing them to shoot from across the room towards Jake and Casper.
+
+The four Elite Guards Casper was dealing with were all using spears, but when the Risen tried to disengage from them, they switched to rifles of their own and shot after him. A few bullets grazed the Risen, but he managed to avoid any major injuries as he kept shooting out cursed stakes while sprinkling in other ghostly magic spells with the help of Lyra.
+
+Jake switched to providing cover fire for Casper while dodging all the bullets flying his way. His assistance made several of the charging Elite Guards switch targets to Jake, alleviating the pressure on the Risen.
+
+Right then, they at least got one piece of good news.
+
+You have slain [Aginian Elite Guard – lvl 363] – Bonus experience earned for killing an enemy above your level
+
+The Elite Guard, who had shot the flare earlier, had succumbed to his poisoning and died, cutting the number of guards down to fourteen. It was a small victory, but a victory nevertheless. Also, the most powerful enemy wasn’t having a particularly good time, and Jake also realized that the reason why the Guard Captain was only shooting his rifle from afar was due to his injuries negatively affecting his movements too much.
+
+These rifle shots from the captain were far more dangerous than those from the Elite Guards, but as long as the guy focused on Jake and not Casper, things should be fine, as if there was one thing Jake was good at dodging, it was projectiles. And responsibilities, but mainly projectiles.
+
+With the help of Jake, Casper had managed to create some good distance from the Elite Guards, making a few chase after him rather than just continue shooting their rifles. Jake kept focusing on the ranged shooters while ignoring these charging guards, as he knew that one doesn’t simply chase a guy specializing in placing traps.
+
+While running, Casper had left behind several invisible magic circles floating in the air, and the second an Elite Guard got close to one, it would explode. This happened soon when an Elite Guard was taken by surprise: a torrent of death energy appeared seemingly out of nowhere, followed by a chain that shot out and phased straight into the guard’s body, the other end anchored to empty space, simply disappearing in thin air.
+
+Despite this happening to one of their comrades, the Elite Guards didn’t hesitate to continue their charge, resulting in several more getting caught in these traps. The chains didn’t appear to do much damage, and the torrent of death energy only served to rattle the target of the trap, buying time for the chains to connect.
+
+After five were caught, the others finally got at least a little cautious about the minefield placed by Casper, but their focus on avoiding traps also meant they’d neglected Jake’s presence.
+
+Despite the Guard Captain shooting at Jake, he got off a good Powershot, blasting one of the Elite Guards back before landing an explosive arrow rain on several others. The rain of explosions dealt little damage, but the Elite Guards overreacted as Jake had hoped and fully hunkered down into a defensive stance when the many arrows approached, giving Casper even more time to pull out tricks.
+
+One thing Jake had learned for certain over the last few days was that Casper had way more things in his toolbox for fights than Jake did. He had several kinds of traps, magic circles, rituals, dungeon magic, curse attacks, and, of course, an entire ghost girlfriend who could either amplify what Casper did or attack independently.
+
+Meanwhile, Jake could shoot arrows. Sure, he did have a lot of skills, but they mainly revolved around making him better at shooting arrows, so he still pretty exclusively shot arrows if given the chance.
+
+It sounded like a complaint, and while Jake was impressed even now as he watched Casper quickly throw down five stakes into the ground to summon a wave of curse energy that washed over the Elite Guards, temporarily messing with their senses from the looks of it, he wasn’t envious in the slightest.
+
+Because while Casper did have a lot of versatility, when it came to pure combat power, Jake far surpassed him, which only became clearer as he continued bombarding the many Elite Guards while dodging any bullets shot at him. Meanwhile, Casper had to rely on Lyra to block bullets he couldn’t avoid while focusing all his efforts on not taking too much damage, and even then, the wounds on his body were starting to accumulate.
+
+Fortunately for the Risen, Jake’s superior offensive prowess, coupled with the fact that Casper kept placing traps, made all but the four original Elite Guards who chased the Risen switch target to the hunter in the sky.
+
+Perhaps the right decision, as it made it slightly harder for Jake to attack. Only slightly, though, as he still got off plenty of potshots while dealing with the hail of bullets coming his way. Jake landed several solid arrows in Elite Guards, gradually spreading his poison, but it was slow, as they were pretty good at covering each other, and a few had even switched to using shields rather than guns, focusing solely on defending their mates.
+
+Jake’s arrows were relentless, each shot precise and calculated to maximize the spread of his toxins. He maintained a steady rhythm, weaving through the air with practiced movements, and every so often, he’d exploit a momentary gap in the Elite Guards’ formation to drive a piercing arrow into an exposed foe. The battlefield was a chaotic dance of arrows and bullets, but Jake’s constant assault kept them one step ahead, ensuring the Elite Guards never had a chance to fully regroup or press an advantage against Casper or close in on Jake too much.
+
+Eventually, they seemingly gave up entirely on attacking Jake as nothing they tried worked, while they at least dealt damage to Casper. Not much, though, and as the seconds passed, Jake landed several more arrows on unprepared Elite Guards.
+
+Alas, despite the progress made, this relative downtime, where Jake and Casper were both taking a slow and steady approach to slay the guards, had allowed the Guard Captain to recover somewhat from Jake’s devastating opening attack.
+
+The Guard Captain stood up and forced himself to move closer to the guards he was meant to captain. While running, the man’s aura started to change, making him emanate a powerful energy that rushed through the room.
+
+It affected all the Elite Guards, who were infused with newfound power. The many guards began breaking free of the traps set by Casper, whatever buffing skill the Guard Captain unleashed making them noticeably stronger.
+
+They regrouped, and with high morale, the Elite Guards prepared to rejoin their captain and-
+
+Suddenly, the Guard Captain stopped running, his movements frozen. The B-grade didn’t even have time to turn his head as a second Protean Arrow Jake had just gotten done making descended upon him, the result unsurprising considering how damaged the Guard Captain already was.
+
+His head was blown off, and for good measure, Jake raised his hand and used Touch of the Malefic Viper while also detonating his Hunter’s Mark. Touch didn’t prove necessary, as the detonation of Hunter’s Mark proved enough to annihilate the final vestiges of life within the B-grade.
+
+You have slain [Aginian Guard Captain – lvl 366] – Bonus experience earned for killing an enemy above your level
+
+The headless Guard Captain fell to the ground, already fully dead before he hit it. With his death, the aura he had permeated naturally disappeared, and all the Elite Guards seemed to experience a temporary moment of shock from their leader dying, allowing Casper to quickly impale two of them with large, cursed stakes.
+
+Jake smiled, preparing to just start killing the remaining Elite Guards… which was when a powerful aura erupted from atop the ziggurat as a beam of pure energy shot into the sky. The beam sent a pulse of power through the room, creating a wall of gray sand, as whatever had just happened seemed to shake the entire Grand Labyrinth.
+
+Exchanging a quick glance with Casper, they both understood.
+
+It was time for the second phase of the encounter.

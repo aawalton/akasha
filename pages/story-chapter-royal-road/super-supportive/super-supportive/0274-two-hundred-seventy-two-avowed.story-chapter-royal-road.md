@@ -1,0 +1,445 @@
+---
+id: 0c48c221-0e28-54df-bb9b-315386a96078
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED SEVENTY-TWO: Avowed"
+slug: 0274-two-hundred-seventy-two-avowed
+partOf: super-supportive
+position: 274
+ownLength: 4035
+unit: words
+publishedAt: 2026-02-20
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3076105/two-hundred-seventy-two-avowed"
+royalRoadId: "3076105"
+---
+
+272
+
+******
+
+In between the choosing of a major door and the act of walking through it, there was a moment to be lived. Alden had some things to do.
+
+On the day before Christmas, he left the TC with a stack of NesiCards that had been provided by the helpful woman who now worked at the desk, and he stepped out into the drop-off area where Lute waited for him.
+
+Lute was lounging on top of a giant stuffed pig with an adhesive gift bow stuck to its snout. The pig was on top of the nonagon. Someone had parked their car below the nonagon. It was a very Anesidoran scene.
+
+“I decided,” Lute announced, as Alden summoned the vehicle over and hopped on. “Ham. His name’s Ham.”
+
+“I was on edge waiting for that decision.”
+
+Lute had been debating between Ham and Bacon.
+
+“You now have Ham, a pillow named Egg, and a harp named Aubergine. There’s a whole meal there.”
+
+“I can’t believe you really bought it for me. What’s wrong with you?”
+
+[It’s to commemorate the time we got an ambassador fired together,] Alden texted.
+
+When Lute had finished laughing, Alden asked, “Anything else you need to take care of before we head to Haoyu’s?”
+
+He’d invited them to sleep over at his house tonight. Lexi and his family would be joining them there for lunch tomorrow.
+
+“Let’s go.” Lute leaned over to slap the box beside his pig. It held Haoyu’s party badger skateboard. “It’s going to be way better than a Velra Christmas.”
+
+“It sounds good to me, too.”
+
+“What’s with you wanting NesiCards anyway?” Lute asked. “Those are more for kids and other people who aren’t Avowed.”
+
+“I’ve got a plan for these,” said Alden. “I might tell you about it one day…if you don’t throw Ham into the Pacific Ocean less than an hour after I bought him.”
+
+“I’m sitting on him. If he goes, I will. Shouldn’t you be more worried about me?”
+
+******
+
+******
+
+During this long, in-between moment, Alden was increasingly aware of a cascade of changes happening within himself as the decision he’d made altered his course. His priorities were shifting. Plans that had seemed solid only days ago became fuzzy possibilities.
+
+“If you volunteer a couple more times over the break, you’ll basically have finished the practical requirement for your class with Instructor Marion, right?” Haoyu asked, dropping a blanket onto the air mattress they were setting up for Alden in his family’s guest room. Lute had won rock, paper, scissors for the real bed.
+
+“Yep,” said Alden. “I need to do some write-ups on it, too.”
+
+“That’s like getting all your homework done before term starts. I should try to get into that class the next time it’s offered.”
+
+A short while later, lying on the mattress while he waited for sleep to come, Alden thought that he might be able to do that write-up for Marion’s class. But he also thought he might never see the man again.
+
+Everything depends on what happens after I go through with it.
+
+He could tell by the sound of slow, deep breathing that Lute was already asleep.
+
+He watched midnight arrive. His interface still had the timer running for Stuart’s first binding date. Even if it had become useless, Alden didn’t feel like deleting it.
+
+Looking at it no longer induced the same anxiety and guilt. Fear remained, but it was more about what Stuart would go through than about his own indecision and the consequences of it.
+
+That’s not a bad change. He shut off his interface and slept for around three hours before he jolted awake, flooded with nervous energy.
+
+These changes might not have been bad, but the past couple of days hadn’t been restful. Too much adrenaline here on the threshold.
+
+He rolled off the air mattress with what was probably a wasted effort at stealth given Lute’s talent for sound sleeping and picked up his messenger bag from the corner. He left, traversing a hall lined with family pictures.
+
+The Zhang-Demirs lived in a house with a petite front yard and a blocky white exterior that didn’t do justice to the warm and spacious rooms inside. In the dining room, a table that had once belonged to one of Haoyu’s grandmothers stood on an intricately patterned rug. Alden took a seat at it and pulled his tablet out of his bag. A package of blank cards with matching envelopes slid out onto the table along with it, and he looked at them for a minute before putting them away.
+
+That’s not a good project for three o’clock on Christmas morning.
+
+He read what information he could find about Goldbush online. He read about the annual cost of owning a cat on Anesidora. After a while, he went to the guest bathroom and sat on the edge of the tub to request Whan-tel’s Art from System storage and read about the summoning spell once more.
+
+There was nothing new to discover in the instructions.
+
+His auriad slid around the fingers of his right hand as he began the spell, keeping his eyes on his target, which lay on the counter across from him. He’d tried the spell a couple of times yesterday. The Forgetful Traveler’s Bag was the only thing that had moved toward him at all, like it wanted to come. So he was aiming at it again.
+
+Will I get to keep doing this? he wondered as his fingers moved smoothly and his authority interacted with the auriad. Where? How? In secret? In the open? Not at all?
+
+His plans weren’t the only things changing. His hopes were, too. Some had faded until he could barely find them; others were deepening so much that he was already dreading the scars they’d leave if they never came true.
+
+On the other side of the door, he would reach out with everything he had. If nobody reached back…
+
+The bag flew off the counter toward his waiting left hand. He caught it with a quiet gasp.
+
+Magic.
+
+I did it. I can make the universe listen. I can do this remarkable thing.
+
+He clutched the bag to his chest and looked at his reflection in the mirror.
+
+It’ll be okay. Stuart won’t hate me for all the secrets. He’s my friend.
+
+******
+
+******
+
+It was a great day for making memories.
+
+That morning, Alden learned about Turkish breakfast food. He talked about Matadero rice pranks with Mr. Zhang-Demir. And he opened a large box labeled, “To: Lodge Residents. From: Lute” to discover he now owned one quarter of a white electric guitar.
+
+“I’m not being cheap,” Lute said. “But I wanted to increase the chances that someone other than me would actually try playing it. I got you individual presents, too.”
+
+They all tried playing it, including Kon and Irina. Alden had the thrill of being better at it than all the other beginners, although it turned out that Kon and Lexi both had good singing voices, and Alden sounded awful.
+
+In the afternoon, they left the adults and Irina behind and went to an area of Boomtown with a staircase that Haoyu really wanted to jump on his new skateboard. They all stood at the top looking down. The steps were wide and steep. A Wright flag was snapping on a pole held by a robot sculpture at the bottom.
+
+“What color should your urn be?” Lute asked.
+
+“I’m a Dura Brute.”
+
+“Thirty-five steps didn’t sound like that many,” said Alden.
+
+“It’s not,” said Haoyu.
+
+“It looks like many.”
+
+“I’ve done bigger ones, but not without demolishing boards and making mistakes. I’m not really the best skater for a superhuman. I’m developing.”
+
+“Doable.” Lexi turned away after he said it as if the stairs were no longer worthy of his consideration. “You’ll be fine.”
+
+Alden was still staring down it. “I could jump it.”
+
+All four of the others failed to respond.
+
+“Shut up,” he said to them. “I could jump it. For sure. I have my trait…I just might break some things when I landed at the bottom.”
+
+“Bunny goes hop,” said Lute.
+
+Lexi let out a little chortle.
+
+“Bunny goes hop, then, ‘Ahhhhhhh! My legs!” said Kon.
+
+Alden laughed in spite of himself. “I only said I could jump over that many, guys. I was talking about the distance of my leaps. That’s it. Not really doing it.”
+
+“Sure, Bunny.”
+
+“Lexi will tackle you if you go for it.”
+
+“No. I’d call ET for him, though.”
+
+“Stop trying to steal my moment, Alden. You can break your bones after I land a few.”
+
+“Three of you are being buttheads because I was so much better than you on the guitar.”
+
+“What’s Lute’s excuse?” asked Haoyu.
+
+“It’s his nature.”
+
+The board held up to the abuse Haoyu put it through beautifully for the next hour. And Haoyu didn’t get a scratch.
+
+“What’s it like to be getting closer to human wrecking ball status every day?” Lute asked on the bus ride back.
+
+“Fun,” said Haoyu. “I’m going through a lot of clothes, though.”
+
+Through the bus windows, Alden could see the roof of the building where Natalie lived. She, Hadiza, and Emilija had sent him pictures of them all holding their new sledgehammers.
+
+“We should get Max to set up his float zone at the bottom of those stairs,” Lexi said to him. “Safer landing when you try to jump it.”
+
+“That would be fun.”
+
+“Everly wants me to go ice skating with her tonight.” Kon was moving a hand over his interface. “I’ll have to leave you guys soon.”
+
+“Want me to fly you to meet her on the nonagon?” Alden asked.
+
+“You don’t have to, but I wouldn’t mind it.”
+
+“I wouldn’t mind it either, so let’s do it.”
+
+They took that flight together a short while later. Alden hadn’t been sure that they’d end up alone or that, if they did, Kon would want to bring up the subject that was on Alden’s own mind.
+
+But they hadn’t been in the air for long when Kon said, “So…”
+
+They were sitting side by side. Alden could see a hint of nerves behind his brown eyes.
+
+“You heard anything about my business?”
+
+Before Alden could open his mouth, Kon added, “It’s fine if you haven’t. I know it hasn’t been long, and it’s not like I expect you to have access to every piece of information on the Triplanets because you know a few Artonans.”
+
+“My friend has a theory,” Alden said. “It’s a theory, so it could be wrong. But I bet it’s right. He’s pulling in info from some high quality sources, and even if his parents wouldn’t tell him outright, he has a sense of what was going on the day you visited and who they talked to before they teleported you in to help.”
+
+Kon inhaled deeply.
+
+“Should I tell you even though it’s not confirmed?”
+
+“I don’t know. Is it bad news?”
+
+Alden looked down, thinking. Rooftops and streets flowed past below them.
+
+“If it’s bad or not probably depends on where you wanted your life to go from here. Some people would definitely think it’s amazing. Others would think it’s horrible.”
+
+“Urgh.” Kon grinned and winced at the same time. “I obviously need you to tell me now. The wondering has been… ”
+
+“Yeah. I get it. There’s a ship being built to serve as an oasis for large forces fighting out there where the chaos issue is…rough. You can actually look up some stuff about it online if you’re curious. Not much about where it can go and what it can do, but there are pictures. And descriptions of a few of the crazy things they’ve done to build it. Don’t let those freak you out. I’m sure it’ll be luxurious inside when it’s finished. It wouldn’t be an oasis if it was creepy and uncomfortable, would it?”
+
+“I’m going to space,” Kon said, voice low and rushed. “All right. Okay.”
+
+“It’s called the Sdyelis Branch,” said Alden. “And I’m not sure you’ll even see it, but Stuart thinks your skill and spell combo might have been designed for repairing it.”
+
+“I’m going to be a spaceship fixer?” Kon stared up at the sky, then back at Alden. “How do I feel about that?”
+
+“I…don’t know.”
+
+“I don’t either. That’s why I’m asking.”
+
+“Again, it’s just a possibility. If Stuart’s right about all his guesses, you’d be getting training for the job. And you’d have long assignments in space, but you’d be rotated out with others who have the same powers you do. It— ”
+
+“Oh, man,” said Kon. He fell onto his back and closed his eyes. “That’s…it’s not bad.”
+
+“It’s not.”
+
+“But it's huge and different.”
+
+“Yeah.”
+
+“Fly slower. I need a minute.”
+
+Alden dropped their speed and input a random additional stop for their flight plan so that it would take even longer.
+
+“You’ve got tons of time now,” he said. “You can tell Everly I was the holdup if you want.”
+
+Kon didn’t open his eyes for the next couple of minutes. When he did, he said, “You’re a globie.”
+
+Alden stared down at him. “Yep.”
+
+“Did you ever feel sorry for us? Before you were one of us. When it comes to things like this.”
+
+“I don’t…I’m sure I didn’t consider the situation well. Or as much as I should have. Even with my background, the way I thought about it was kind of shallow.”
+
+“You can say no. I wasn’t judging you.”
+
+“I’m not sure ‘no’ is the answer, though,” said Alden, trying to think back. “I felt sad when I heard a famous Avowed had died or gone missing.”
+
+“Most of the ones who go missing took the chance to go live somewhere tropical I think,” said Kon. “We still have to have a funeral for them because maybe they died out there and we don’t want to upset their families by saying they wanted a new life on the wrong side of the law. But I like to assume the best for those people.”
+
+“I’m sure that’s not what happened with Hannah,” said Alden. “But you’re probably right about a lot of them.”
+
+“I temporarily forgot you knew the Gloom’s daughter.”
+
+“It’s okay.”
+
+“No, it was insensitive.” Kon sat back up.
+
+“I dropped a bomb on you. Don’t sweat it. Anyway, I was saying that of course I felt sorry for Avowed sometimes, but I didn’t have nearly as much respect for the hard parts as I do now.”
+
+“That’s fine. I’m not even sure if I feel sorry for myself hearing this news.”
+
+“Potential news,” Alden reminded him. “Unconfirmed.”
+
+“Unconfirmed.” Kon swallowed. “Right. Spaceship. Spaceship repairman. Sounds like…a lifelong career. I might be able to negotiate for awesome benefits. ‘Oasis’ is very positive. I can’t…well, I can’t be a superhero if I’m away from Earth for months or years at a time. So that’s out.”
+
+He doesn’t sound as upset about that as I thought he would.
+
+“I should sign up for an Artonan language class or two, but if I do, I’ll have to explain why to Lexi.”
+
+“Are you still not going to tell him?” Alden asked.
+
+“I need more time on my own with this. Before everyone else starts telling me what I should do and how I should feel.”
+
+“I get that. I’ll keep it to myself.”
+
+“Sorry. He’s going to lose his shit at you if he finds out you knew before him.”
+
+“I’ll live.”
+
+“Watch out for Writher.”
+
+“I might not live.”
+
+Kon snorted. “If Ignacio’s right about how the future goes, you've actually just told me I’m one of the luckiest S-ranks on Anesidora.”
+
+“Ignacio?”
+
+“You haven’t heard his theory? It’s more like his whole family’s theory. Basically, they believe that there’s no way peace lasts forever for powerful Avowed. That Earth’s bill for joining the empire has never been paid, and our generation is bound to see it come due. Sooner or later.”
+
+He smiled. “Sooner for me, I guess. But I’ll be making a killing fixing parts on a big space cruise ship. I might be the first person in our friend circle who has to pay the bill, but that’s a sweet posting, isn’t it?”
+
+So quick to be positive.
+
+“The place Artonans consider an oasis in a chaos war zone must have the most ludicrous parties in the universe,” said Alden. “And you’ll be right there for all of them.”
+
+“I hadn’t thought of that, but you’re right.”
+
+“That ship’s going to have knights on it. I bet they eat good.”
+
+“My cup!” Kon said. “I can take my favorite drinks and have as much as I want.”
+
+“You’ll be living it up.”
+
+“What kinds of activities do you think they have on an oasis ship?”
+
+“Every one they could think of, man. They’re not into self-deprivation. And if you suggest one they haven’t thought of they’ll probably decide they need to have that, too.”
+
+They spent the rest of the flight trying to come up with absurd activities to add to the Sdyelis Branch’s hypothetical daily entertainment schedule. Alden knew they were only joking about wizard pogo stick races, but he hoped it was helping Kon swallow the news.
+
+Eventually, they made it to Everly Kim.
+
+She was waiting at a familiar duck pond that had been frozen by another Adjuster who may or may not have had permission to create their own rink in a public location. Everly had found out about it on Trime.
+
+She’d brought skates for Kon and navy blue earmuffs.
+
+“I don’t need earmuffs, though. It’s not cold right now.”
+
+Everly blinked up at him. “But they match mine, and we’ll be cute together. Won’t we, Alden?”
+
+“Say earmuffs are annoying, Alden,” Kon demanded.
+
+“Wear earmuffs at first, then take them off later,” said Alden. “Both of you will be happy.”
+
+Kon groaned, but he took the earmuffs and a peck on the lips from Everly without further complaint. “Where’s Snowball?”
+
+“I didn’t bring my drone,” she said. “I wanted to look cute with you anyway.”
+
+Kon grinned. Everly rose onto her tiptoes for another peck. Neither of them had realized that Kon was standing in poop.
+
+They are cute together, Alden thought as he walked over to the food dispenser to buy treats for the disgruntled ducks. Does it last, or not?
+
+He imagined Konstantin must be thinking the same thing.
+
+******
+
+******
+
+The wind that night was the kind that stung and drowned you in its roar. Alden flew through it under a starless sky toward the cube, and in the darkness, with nothing but the System interface to guide him, he was very much himself.
+
+Not touching Earth, heading toward chaos, unable to see.
+
+Am I all right? he wondered.
+
+If he roared back at the wind, it was just because he needed to. There wasn’t another living soul around to hear him.
+
+******
+
+******
+
+“They’re gingerbread cookies,” he said to Esh-erdi and Lind-otta.
+
+The knights had greeted him at the door of their Matadero suite wearing soft matching robes that made him think they were either preparing for bed or they’d risen from it when they received his message announcing his arrival.
+
+“I was going to give them to you tomorrow, but it’s technically still Christmas right now. And I felt like flying.”
+
+“You look like you felt like flying.” Esh-erdi was taking in Alden’s disheveled hair. Lind-otta was opening the box Alden had brought to look at the pair of gingerbread knights. The cookies had smiles, and their coats had been decorated with fairly accurate symbols in tiny dots of icing.
+
+“Thank you, Alden. They smell very delicious.” She picked up the Esh-erdi cookie.
+
+Esh-erdi glanced over to see what she had. “They’re us! Look, that’s me! Lind, we should keep these and show them to— ”
+
+She bit off his head.
+
+The expression on his face and hers in the following instant would’ve been worth the flight over even if Alden hadn’t had any other business with them tonight.
+
+“…it was me,” said Esh-erdi.
+
+Lind-otta swallowed. “Should I have spit it out?”
+
+“No. I’m glad you enjoyed executing me. But you’ll be sorry if Alden is about to tell us those are rare pieces of art.”
+
+“I’m not going to tell you that,” said Alden. “They’re only food in a fun shape. But I did want to ask you both something. It’s not about getting a tattoo for Matadero. I know we need to do that, but I’m really not in the mood for it at this moment. It’s a question on behalf of a friend of mine. Would you be able to tell me if a specific Avowed is going to be assigned to the Sdyelis Branch?”
+
+Alden took a breath. “Or, if it’s not proper to tell me, could you call him and tell him? Because it seems like he might have been, and he should know about his own future if other people are already making plans for it.”
+
+The wait for their answer felt longer than it was.
+
+“I think I know who you’re speaking of,” Esh-erdi said.
+
+“Oh.” Alden breathed in. “So I’m right.”
+
+Esh-erdi stepped back into the room. "Come in. Sit comfortably.”
+
+******
+
+******
+
+It wasn’t a long conversation. In fact, it was shorter than the flight down to F-city afterward. And barely longer than the time it took for Kon to get the message that Alden was waiting in front of the place where his family was staying and come down to meet him. He’d thrown on a sweater with his pajama pants.
+
+“It’s like one in the morning, Alden,” he said as he approached. The Nine-edged Son was hovering low beside a postdrop. “You didn’t have to come in person.”
+
+“I wanted to. And I thought you’d be awake.”
+
+“I was." Kon took a seat on the edge of the nonagon.
+
+“It’s confirmed now,” Alden said simply. “I don’t have details, but someone will call you tomorrow morning.”
+
+[Alden:  Esh-erdi or Lind-otta will call. I don’t know everything they’ll tell you, but they’re easy to talk to.]
+
+Kon stiffened, then relaxed. “You got all that fast.”
+
+“I thought it would help you to have some certainty. Sorry it’s not more. Or sooner.”
+
+Kon sighed. “You have important people calling me tomorrow morning. That’s plenty. If you weren’t here, I might not know anything for…not sure about timelines with this kind of thing. But what if it was a year or more from now before anyone got around to filling me in? This is better. It’s way better.”
+
+Alden let him sit with the information, wondering if he’d ask any questions.
+
+He never did.
+
+Finally, Alden said, “You’re going to be good at it. The System probably offered this to you instead of someone else because it knew that.”
+
+Kon jerked. “I’m sitting here and not letting you leave! You should’ve said something sooner.”
+
+“I didn’t mind.”
+
+“I know I’ll be fine. I’m just… gahh! You know?” He rubbed a hand through his hair. “Thanks. For finding out all of this for me. And I’m sorry about earlier.”
+
+“What about earlier?”
+
+“I was talking about how I’d be the first person our age to do anything out there…and you were sitting right beside me with your commendation. I must have sounded like an ass.”
+
+“You didn’t.”
+
+“I did.”
+
+“I literally didn’t notice it until you brought it up yourself.”
+
+“I was in my sleeping bag replaying it in my head when you messaged me to say you were down here.”
+
+“Yeah, you should be focused mostly on me tonight. You don’t have much else going on.”
+
+Kon hopped off the nonagon. “Thank you. Seriously.”
+
+“You’re seriously welcome.”
+
+Kon turned to go.
+
+“Hey.” Alden waited for him to turn back around. “You can call me anytime. I’ll answer. Wherever I am in the universe. If I can.”
+
+“You make it sound like you’re the one with the faraway future. I appreciate it. Night, Alden.”
+
+“Goodnight.”
+
+Alden watched him head into the building.
+
+Well, you know, Kon…we’re all Avowed.
+
+******

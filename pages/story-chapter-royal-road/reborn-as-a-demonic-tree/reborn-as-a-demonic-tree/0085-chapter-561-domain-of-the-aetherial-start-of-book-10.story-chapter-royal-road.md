@@ -1,0 +1,153 @@
+---
+id: 7b58d8a8-6ede-538f-8495-6097d8df993a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 561: Domain of the Aetherial (Start of Book 10)"
+slug: 0085-chapter-561-domain-of-the-aetherial-start-of-book-10
+partOf: reborn-as-a-demonic-tree
+position: 85
+ownLength: 2316
+unit: words
+publishedAt: 2026-04-20
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3297903/chapter-561-domain-of-the-aetherial-start-of-book"
+royalRoadId: "3297903"
+---
+
+Stella smiled as she watched Kael leave the vast ascension chamber.
+
+He spared her one last glance filled with admiration before turning away to inform Thalos Tessellate of her triumphant ascension and her willingness to meet the Tessellate family's Patriarch.
+
+The instant the chamber doors clicked shut, the smile vanished from her face, and the mask of perfect control slipped.
+
+Stella staggered and slammed her shoulder into a nearby pillar. Every muscle locked at once as she bit back a scream, her body trembling under the strain. Fine fractures spider-webbed across her skin, pale and otherworldly light bleeding through as if something was trying to escape.
+
+She barely held on.
+
+Seconds stretched into a full minute before her control finally slipped. Her breath broke, a raw sound tearing from her chest, and she squeezed her eyes shut, forcing the burning tears back before they could fall.
+
+Reality was fighting her impossible presence, but it slowly came to begrudgingly accept her taint. If not for the Phantom Veil Amulet obscuring what she had become after her ascension, reality would surely stop at nothing in banishing her to the beyond.
+
+Stella slowly opened her eyes.
+
+"I can't believe I'm on solid ground again," she croaked while breathing heavily. The pain of returning to reality had lessened somewhat but still lingered. "Who knew reality could burn like this?" She muttered as she heaved her dulling body up from the stone ground and glanced around the destroyed room. It had taken weeks and the combined efforts of all the experts from the Tessellate family she had bribed with pills to construct this space, which had served as the stage to the most suicidal ascension of all time.
+
+The Tessellate family believed she was aiming for the Sovereigns of Reality realm and had built the formations for such an ascension, yet it stood in ruins.
+
+A shaky laugh left her lips. "I wonder how they would react knowing a Monarch Realm ascension did this to their beautiful handiwork."
+
+She had wanted her ascension to be bigger than any before it, because she had meticulously laid the groundwork by perfecting her foundations and tempering her mind for this moment. She knew Aether Law and had been ready to endure the most brutal of ascensions, yet nothing could have prepared her for what transpired.
+
+In an attempt to bend the Aether to her will, she had been swiftly humbled and shattered into a million pieces both physically and spiritually. She had literally died in an instant. She still remembered the moment she broke like a phantom pain—torn apart, and scattered into the Aether. Each piece of her crying out into the silence.
+
+Ascensions weren't supposed to go like that, as far as Stella knew. They were supposed to be a test conducted by the affinity to see if you were worthy of becoming its Monarch. The Aether hadn't done that. Like a wrathful god, it had sneered at her attempt at control and obliterated her.
+
+Or so she had thought.
+
+But as her fractured self drifted aimlessly in the in-between, she realized she wasn't dead. By the standard definition, she most certainly was as dead as one could be. Yet she didn't find herself being pulled to Ashlock's Grove of Eternal Rebirth, nor the afterlife. She simply floated there.
+
+That's when Stella had realized something.
+
+You couldn't be the Monarch of a kingdom without being present. The Aether hadn't killed her; it had killed the body and soul called Stella that had existed in reality and brought it into the Aether in the only way it knew how.
+
+In pieces.
+
+After all, the Aether wasn't a tangible space. The Aether was the breath between heartbeats, the shimmer of a dream remembered too late.
+
+It was not air, nor light, nor shadow, but something more elusive—an intangible space draped across the bones of reality. It's a mirror with no reflection, a boundary without shape. It cannot be grasped—only passed through. And until now, that was all Stella had ever done. Skimmed its surface. Dipped her toes into an endless ocean without ever surrendering to its depths. She had always kept herself anchored. Always kept one foot in reality.
+
+Yet she had built this array, called out to the Aether, and demanded sovereignty over it—without ever fully surrendering to the in-between. Only after accepting that the only way she would survive and get home to Ash was to surrender to the Aether and embrace it wholly, did things start to go her way.
+
+Stella let out a long, shaky breath and raised her arms. The cracks on her skin were finally gone, but she could feel their presence. "I'm not whole anymore," she muttered, "but I am complete. I suppose this fractured version of me will have to do." Gathering all her strength, she stood and could feel the Aether silently shift around her as she moved like a weighted veil.
+
+"I suppose a Monarch of the Aether can never truly detach themselves from the beyond," Stella mused as she traced her finger in the air and drew a casual line into the Aether as easily as breathing. "Now, instead of being a cultivator traversing the Aether, I'm an Aether being dipping their toes into reality. Wow, this is weird." She chuckled. "I can't wait to see Ash's reaction."
+
+The doors to the great chamber suddenly opened, compelling her to stiffen her posture and fall silent.
+
+Thalos Tessellate, alongside many members of his family, strode inside. The sight of the ruined room stole their attention for a moment as they all curiously glanced around.
+
+"Ahem," Stella said, coughing lightly into her hand to draw their attention. "I must apologise for the mess. The ascension was a little more unruly than we anticipated."
+
+"Mess..." Thalos muttered absentmindedly as he continued to look around at what was left of the formations that had emptied the Tessellate families' vaults to build. Blood, sweat, and tears had been poured into its creation by dozens of experts. It had likely been the greatest ascension assistance array ever built by the Tessellate family in here and on the mainland.
+
+Yet it had been reduced to charred ruins in its efforts to contain the Aether's wrath.
+
+Thalos Tessellate cooled his expression and focused back on Stella. "I heard from Kael that you are ready to meet with our Patriarch?" he said, impatience dripping from every word.
+
+"About that," Stella said calmly, a stark contrast to her condition moments ago. "I'd like a few days to recover my strength before attempting such a feat as communicating with your Patriarch will be difficult due to my father's efforts to isolate this pocket realm. It takes quite a lot of effort to defy someone of his level, as I'm sure you can understand."
+
+Thalos didn't bother to hide his irritation. "Fine," he said. "You can have three days."
+
+"Thank you," Stella smiled. As expected, she was the one in control here. Thalos was at her mercy, and she planned to take everything. "While the formation was destroyed, my ascension was successful, which means it's time for rewards." She raised her hand and clicked her fingers. Her command rippled across the Aether to pull a handful of pills and high-grade spirit stones from her spatial rings and deposit them before the many Tessellate cultivators that assisted her.
+
+Thalos was not one of them. He frowned deeply as those around him were excited by the rewards.
+
+"I'll see you soon, Thalos," Stella said, and effortlessly retreated into the Aether. What had once felt like a hostile place that would briefly tolerate her presence now felt like home. She looked around the shimmering, fractured space and enjoyed the silence as she floated around in her ethereal form.
+
+"Now this is more like it," she grinned. "Nobody can bother me in here."
+
+After consolidating her strength and meeting with the Tessellate Patriarch to stop Thalos from destroying her house in a rage, she would return home and join the fight.
+
+***
+
+Thalos Tessellate awaited Stella's arrival in the portal room with a frown.
+
+Ever since she had distributed those rewards to those under him, her perception within the family had changed from someone to be cautious and skeptical of to someone to be admired.
+
+Was there something infused in those pills to turn my family into her docile dogs, or were they really that good? Thalos pondered. He had gotten his hands on some, but hadn't taken them yet. The sudden shift in opinion was too suspicious, and until he saw the Princess display capabilities worthy of admiration, he wouldn't trust her.
+
+"She's here," he murmured a moment before the doors were opened by Kael, the Princess's attendant. As usual, Stella was a ghost to his perceptions, so he had only known she was coming due to her company. A Monarch Realm ice dragon, somehow enslaved, also wordlessly followed Stella inside.
+
+"So this is the portal you use to reach the mainland?" Stella asked rhetorically as she strode into the room and easily commanded everyone's attention. She seemed healthier than the last time he laid eyes on her.
+
+"It seems to be running, though," she stated, slowing to a stop before the portal.
+
+It was set into the heart of a vast tunnel, tall enough for ten people to stand atop one another. Arrays lined the walls and floor, all of them glowing with the same pale white light as the swirling aether Qi vortex at the tunnel's center, their radiance pulsing in quiet synchrony with the portal itself.
+
+Thalos nodded. "We can have it running, but no matter how many spirit stones we pour into it, a connection to the mainland is never established. This is the same problem that persists between layers of creation before Eras of Ascension, as I'm sure you know."
+
+"Yeah, that does sound rather inconvenient," Stella said as if she weren't the culprit, causing Thalos's eye to twitch.
+
+All of this will have been worth it if I can show Father that the Princess really was here and that she can traverse layers of creation, Thalos thought, his eyes glinting with greed. If my family can extract the way this Princess travels and use it, forget reuniting the family between layers; we will become unstoppable throughout all of reality.
+
+Thalos crossed his arms and eyed Stella. "So, how are we going to do this? Will your father lower his hold on this pocket realm to facilitate the meeting?"
+
+Stella shook her head and stepped up to the portal. "No, I was going to do it myself."
+
+"How?" Thalos asked.
+
+"Just watch and see," Stella said, closing her eyes and reaching out to the portal. The room fell silent as everyone gathered, awaiting the spectacle to unfold. Stella took a deep breath and then whispered, "Domain of the Aetherial."
+
+Thalos's hair went on end as he spiritually felt an immense shift in the world around him. Everyone glanced around, trying to make sense of what they had just felt.
+
+That's when Stella opened her eyes—but they were no longer pink. Instead, they were entirely an unsettling milky white, glowing faintly with refracted light like moonlight through mist. The air around Stella was also fractured, as though reality itself were a mirrored surface, with hairline cracks that shimmered and shifted. Her cloak's sleeve fell away, revealing fractal patterns traced along her skin that radiated an otherworldly glow, familiar to Thalos.
+
+She's channeling the Aether, Thalos realized, stunned. No, she's housing it.
+
+As a Soverign over the Aether himself, he had mastered the traversal of the liminal plane and could infuse his strikes with its dimension-slicing force. But never had he witnessed someone become its vessel like this without being torn apart.
+
+The Aether historically refused to be controlled and contained. Yet here it was, flowing through Stella like starlight through glass, serene and unbroken.
+
+Stella plunged her fingers into the portal. It rippled violently in response.
+
+Is she trying to destroy it?! Thalos worried as he noticed the many formations in the room flare up from Stella's touch. Just as he stepped forward to put a stop to it, Stella tore her hand back, and the portal's surface shattered.
+
+"There's no need for a functioning portal to facilitate this meeting," Stella said, her calm tone cutting through the chaos. "A window through the Aether will be good enough for this." She snapped her fingers, and that same shift in reality from earlier clicked back into place, and the portal reappeared like a plane of glass.
+
+And on the other side, Thalos could see the mainland.
+
+Three startled Elders were gathered around the portal.
+
+"Elder Thalos?" one of them questioned hesitantly, as if speaking to a ghost.
+
+"Get the Patriarch," Thalos instructed sternly. "The Princess from the upper layers I told him about is here and willing to meet him," he said, gesturing to Stella, whose appearance, with milky white eyes and glowing fractals across her skin, made quite an impression.
+
+The Elder at the front, who was an old array master in service to his Father, bowed deeply and rushed off to inform the Patriarch. While waiting, the other two inspected the strange portal between them.
+
+Despite being able to see and communicate with one another, Thalos couldn't reach through it with his spiritual senses. It was like gazing into a mirror.
+
+"Why did you choose this over a portal?" he couldn't help but ask.
+
+"Your Patriarch isn't worth me expending such effort," the girl replied casually, despite being in a room surrounded by the Tessellate family. "If he shows himself as worthy of my interest, I may turn this into a portal."
+
+Thalos ground his teeth, but didn't have anything to say.
+
+They needed Stella and her capabilities too much, which was shown further by how quickly his Father arrived before the Aether mirror.

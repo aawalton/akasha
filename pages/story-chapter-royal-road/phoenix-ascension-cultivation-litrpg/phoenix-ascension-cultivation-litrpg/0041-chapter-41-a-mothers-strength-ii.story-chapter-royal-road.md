@@ -1,0 +1,137 @@
+---
+id: f19f1602-82eb-5d83-b8f4-37720b6d5372
+page-type-slug: story-chapter-royal-road
+title: "Chapter 41: A Mother's Strength II"
+slug: 0041-chapter-41-a-mothers-strength-ii
+partOf: phoenix-ascension-cultivation-litrpg
+position: 41
+ownLength: 2152
+unit: words
+publishedAt: 2025-10-27
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2709795/chapter-41-a-mothers-strength-ii"
+royalRoadId: "2709795"
+---
+
+The process of refining a human into a pill was quite easy when you didn’t have to worry about the result. A strand of Qi here, a strand of Qi there, and then boom, you have a useless pill that does nothing at best and kills you at worst.
+
+The cauldron opened and out came a reddish purple pill. I had to say, the irony was quite funny. The other cultivators looked at me with dreadful gazes, and I could only roll my eyes. Who told them to attack me out of nowhere?
+
+I threw the pill away, giving it to the now free Bashe clone to hold for safekeeping, and created a fire clone of my actual body to attack the nearest cultivator.
+
+However, despite all of that, the old bastard still continued to cast the formation, and I could feel my flame dominion shrinking with each passing moment.
+
+He had to be casting a sort of restraining formation, which would be bad for me. Right now, they could barely do anything to me, unless they had a really powerful ice cultivator in their midst, which I doubted.
+
+But if the restricting formation makes my flame dominion disappear, then I would have no choice but to return to my main body.
+
+I wasn’t worried about any physical harm they could do to me; however, I was most vulnerable when I had a physical body. If they could restrain me once, they could do it twice.
+
+However, I couldn’t sit in my flaming state for long. Sooner or later, I would run out of energy and Qi, which I could only replenish when I had time to rest.
+
+These hateful humans, on the other hand, had pills and other cultivation resources that could allow them to outlast me. That’s how they killed the most powerful Spirit Beasts anyway. Not in an honorable fight, but surrounding us in large numbers and forcing us to die of exhaustion.
+
+Despicable, ruthless, shameless!
+
+They had to die, they had to!
+
+With my flaming phoenix body, I used Ember Lunge and appeared in front of the nearest cultivator, then sent a torrent of scorching flames toward him as my beak grew to five times its size.
+
+I swallowed him and chomped down. Bones cracked, flesh seared, but he was alive. Some sort of barrier technique protected him from dying.
+
+I lunged again, making him take a step back straight into the mouth of the Bashe Clone. The fire engulfed him and the serpent constricted around him, making to so he couldn’t breathe, on top of having his lungs burning from the inside.
+
+He died, as indicated by my notifications, and fell from the flaming ocean toward the ground. I caught Little Flame rushing toward him with the corner of my eye and smiled to myself.
+
+Atta girl.
+
+If nothing else, she could at least eat some Qi-infused meat.
+
+With another one down, the wills of the others began faltering. However, all it took was for the old bastard to wave his hand and send a talisman toward each of them while barking out, “Resist, the formation is almost complete. Send Qi into those paper talismans and protect yourself against the fire.”
+
+He was awfully generous; no doubt he planned on betraying them later. Or maybe he had the biggest share, since he had the higher cultivation base.
+
+Either way, he could only dream of killing me.
+
+Unbeknownst to him, I created another nine Bashe clones and sent them slithering through the ocean of flames. They were just about to pounce on the talismans. Yet, just as they did, a wave of Qi surged from the battlefield, destroying all of my clones, including the Phoenix imitation.
+
+That burned through a lot of my energy reserves, and making new ones would be troublesome. Naturally, the pill the Bashe held fell through the flames just like the corpse did. Oh well…
+
+However, as long as I was near the nest, I could recover rather quickly. I also scanned the area for any leftover corpses of anything. There was no way Little Flame could eat all of the dead humans anyway.
+
+I apologised to her and waved my wing toward the ground, and all the corpses turned to ash, only their clothes and bags of holding remaining intact. Despite being so skinny, their bodies, and especially their dantian, held large amounts of energy.
+
+Mostly in the form of Qi, but as a Spirit Beast, Qi was stored in the flesh, which was the energy we needed to survive and fight. Some skills used pure Qi, but most of the skills we used our energy reserves.
+
+After that little meal, I could summon up to twelve serpents, which evened the playing field a bit.
+
+However, by the time I’d managed to do that, the area of my flames had been reduced. It kept decreasing no matter how much I struggled to spread it. Those talismans the old bastard summoned worked quite well, and soon I would be forced to turn back into my physical form.
+
+If I didn’t do anything about it, that is.You might be reading a pirated copy. Look for the official release to support the author.With a screech, I used another skill and gathered large amounts of fire into the sky, which then turned into a feather-like shape. The feathers pointed toward the cultivators like arrows on a pulled bowstring, and they multiplied at a rapid speed.
+
+Feather Volley, once used, this skill won’t stop until it claims blood. Metaphorically speaking, of course. It used up a lot of energy, and my stamina reserves would quickly deplete. Under normal circumstances, I wouldn’t be using it, but considering the fact that I was near my nest, I didn’t have to worry as much.
+
+Soon, thousands upon thousands of flaming feathers aimed at the despicable humans, and once I felt that they were enough, I let them loose.
+
+Like a volley of arrows upon a battlefield, the feathers rained down on the cultivators. They all hurried to raise barriers and other forms of protection. Strangely enough, they didn’t do as much damage as I expected them to.
+
+I found the reason why soon enough. The talismans the old bastard distributed boosted fire resistance by a considerable amount. Add that on top of what they already had and the restrictive formation, then I suspected that my feathers only did about one-third of the damage they should have.
+
+That wasn’t good.
+
+These people had come prepared to deal with a Phoenix. That thought alone filled me with an insurmountable amount of rage.
+
+Wave after wave of feathers rained down upon their protections, and the barriers they raised began to show signs of cracking. The Bashe clones also aided in breaking down the barriers, but they couldn’t even approach the one protecting the old Nascent Soul bastard.
+
+He was simply too strong. However, there was nothing that I could do against him until I took care of his lackeys.
+
+Finally, the sweet sound of a shattering barrier rang in my ears, and six of the twelve fire serpents rushed toward the unlucky cultivator. It was none other than the quasi Golden Core cultivator that targeted my daughter.
+
+His death was unceremonious, and he fell to the ground with a muffled thud. His corpse was resilient enough to not be broken into a million pieces, but Little Flame’s talons could cut off his arm just fine.
+
+Witnessing that, I focused my attacks on the nearest cultivator. He didn’t seem to be happy about the situation he was in, and it was about to get worse.
+
+Out of the ocean of flames appeared a head, my head, made out of pure Phoenix Fire, and I screeched as fire spewed out of the beak. Using a similar attack to the one I liked to use when killing ants, except hundreds of times more powerful.
+
+His barrier shattered, talisman burned, clothes turned to ash, and life seeped out of him as my breath melted the flesh off his bones. The corpse he became also fell to the ground, though Little Flame didn’t bother chasing for it.
+
+I didn’t stop my attack there, though. Moving on to the next target, I attempted to do the same. However, my attack didn’t cause as much destruction. Its energy ran out halfway through, and my ethereal head returned to the ocean of flames.
+
+However, that gave me some time to breathe. With two of them gone, the pressure on my fire had reduced considerably.
+
+I managed to regain some of the lost area and commanded half of my serpents to travel through the fire, then to head out toward the nine talismans. The more they could burn, the better.
+
+The light in the eyes of the cultivators began to dwindle. Being surrounded by flames on all sides couldn’t be comfortable, even with their increased fire resistances. It was a constant attack that slowly but surely ate away at their defenses.
+
+Copying Little Flame, I used the oldest trick in the book and summoned Fire Wave, a skill that reduced their resistance to fire. My INT and DEX were pretty high, so the stacked effect gave them a lot of trouble.
+
+To everyone except the Nascent Soul old bastard.
+
+The difference between Nascent Soul and Golden Core was like the difference between heaven and earth. It was the step from mortal to immortal, or whatever these stupid humans liked to talk about. However, the difference in strength and energy reserves was considerable.
+
+I’ve eaten a few Nascent Soul cultivators, and they tasted like a very, very sweet fruit, even the old ones. Each time I killed one, my levels would go up by at least two. That wasn’t anything to scoff at.
+
+Once you grow strong enough, levelling up becomes very difficult. You would need to fight stronger and stronger monsters, or kill hundreds of thousands of middle-range Spirit Beasts just for one level.
+
+However, when it came to humans, it was very different. Even the weaker ones gave large amounts of XP, and the stronger ones were like a treasure.
+
+After killing these three, I could feel a level up coming. Once that happened, my strength would be replenished, and I would launch an all-out attack against the Nascent Soul bastard.
+
+My feather volley kept attacking them at the same time, each hit making the tiniest impact in their defense. However, they quickly built up, and if multiplied by a couple of thousand feathers every minute, then their defenses would fall quickly.
+
+Soon, barrier after barrier was shattered. However, the sound of their death never arrived. Unlike what I’d expected, they were prepared for that scenario, and all reunited under a single barrier the moment their personal ones broke.
+
+Some of them incurred some damage, but nothing that would prove fatal. That wasn’t good for me, as the Bashe clones didn’t manage to destroy a single talisman, and it didn’t look like they would be able to either.
+
+“Fellow Daoists, now!” The old Nascent Soul bastard yelled, and the cultivators within the barrier all sent an absurd amount of Qi in their talismans. They glowed with an eerie light, and the nine talismans surrounding me did the same.
+
+The formation activated, and the pressure it released forced my flames back with increasing intensity. I cursed inwardly and decided to pick a spot for a surprise attack once I’d be forced to return to my physical form.
+
+The group of cultivators was obviously the best choice. Kill, eat, dodge, fly away. If killing them from the safety of my flames couldn’t be done, then I could only do the next best thing and fight like a normal Spirit Beast.
+
+I decided that I shouldn’t wait until they forced me to return. As the flames dispersed, I appeared behind them. I didn’t stand on occasion and pecked at the barrier. My powerful body made it so the barrier that was meant to protect against fire broke faster than a vase smashing against the ground.
+
+They panicked for a second before pulling out their weapons. Sword light, spear light, halber light, sabre light, all sorts of ethereal attacks rushed toward me in less than an instant. They weren’t coordinated, but they could hardly scrape my feathers.
+
+I bit the head off of the nearest cultivator, swallowing it whole before using my tail to coil around another one. A third one got slashed in two by my talons, and the previous one I caught burned to death under the heat of my fire tail.
+
+[XP Acquired][Phoenix Healer Lord Lvl 74 has become Phoenix Healer Lord Lvl 75]Ah, it’s been a while since I had this feeling. The feeling of levelling up always made my entire body shake, and it came just in time. My energy reserves replenished, and it was time to massacre that old bastard!

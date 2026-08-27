@@ -1,0 +1,159 @@
+---
+id: 7725426e-4ac2-51e7-98f0-fc09abb930e6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 330 : Kept Busy"
+slug: 0031-chapter-330-kept-busy
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 31
+ownLength: 2184
+unit: words
+ownProgress: 2184
+publishedAt: 2025-12-29
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2888960/chapter-330-kept-busy"
+royalRoadId: "2888960"
+markedReadAt: "2026-06-29T19:42:50.316Z"
+---
+
+For the next few days, similar events occurred. Every time I wanted to see the magma forge, something would come up, and I'd be forced into resolving some emergency for the island.
+
+I obviously had my suspicions that something was up, but Vanessa seemed so distraught that I was finding it hard to believe it was foul play. Considering that I didn't actually need the refined deepstone, I didn't press on it, and with each of these requests, I kept hoping I'd eventually run into a mermen.
+
+Plus, if it involved any monsters, it was worth good experience points, and soon I had reached level twenty-six!
+
+<Class Experience threshold reached. Elementalist is now LV 26.>
+
+<10 Skill Points are now available.>
+
+Just four more to go. I wonder when my next racial level will be? I know I put it to the lowest distribution, but now that I'm a tier-five monster, it will probably take ages.
+
+I also had a sneaking suspicion that once I reached my milestone for Elementalist, I'd see my class-race distribution set back to fifty-fifty by Gramps. I was honestly still surprised he even let me change it this way in the first place, and I wondered if it was some agreement he had reached with Mother.
+
+As for the tasks I was doing for Vanessa, they weren't all monster exterminations. At one point, they wanted me to clear out some land, which I did so with [Air Magic].
+
+Another mission was to retrieve resources from a nearby wreck. The first time this happened, I had a small crew to help me, but after that, I was allowed to do similar tasks solo, as they effectively just held me down.
+
+Thanks to [Hydrokinesis], I could singlehandedly do almost anything underwater, including harvesting, catching, and gathering all at once. My control over my magic was spectacular, making the surrounding area effectively my domain.
+
+And so this became my life for a bit. Of course, when I was alone, I made progress towards creating [Terra Step], and when I hit a roadblock or grew bored, I would switch to [Warp]. Also, whenever possible, I would use [Elemental Step] to increase its proficiency, as I wanted a big payout when I finally used [Skill Deconstruct] on it.
+
+Of course, after every mission, I would be invited to stay with Vanessa. There were times when even [Roleplay] was suggesting I accept, but I would always disable the skill and ultimately reject her.
+
+Truthfully, I was growing a little concerned with how the skill wanted me to behave around her, and the warning I'd received to not lose myself in the immersion from Loreleia was still fresh in my mind.
+
+As for Vee, aside from her relentless teasing about this situation, she had actually found a few islands that were now on her shortlist. However, since we weren't settling down yet, she was still looking to see if she could find anything better.
+
+Her quest, on the other hand, recently got an extra exclamation mark added to it, although neither of us knew how to actually approach it. We'd come to the supposed location, but we hadn't seen even a whiff of the mermen, leading us to a dead end unless the quest provided more information.
+
+We even tried openly lamenting our frustrations, hoping it would cause an update in the quest if one of the gods happened to be watching, but it fell on deaf ears. Either that, or Unc was being blocked by Gramps or Mother, which, obviously, we could do nothing about.
+
+On the positive side, I was pretty happy with my progress and had several skills increase during this time.
+
+<[Elemental Step (Basic) LV 4]
+
+[Aquatic Finesse LV 5]
+
+[Elemental Shift LV 8]
+
+[Identity Fabrication LV 8]>
+
+My traits didn't see as much progress, but there was a little bit of movement, and I got an unexpected level in [Core Storage] with all the slime I was storing away, thanks to the influx of monster meat. I was once again well supplied and could easily detonate a worm or two without worry.
+
+With [Core Storage] now at level seven, I was curious if it received any new features beyond its maximum capacity increasing dramatically, as per usual. An earlier upgrade had granted me the ability to sort and keep my slime in various states, but this time, nothing immediately jumped out.
+
+I kept trying a few things out and was going to write it off as just a size upgrade when I suddenly stored a [Sub-Core] inside of the space. It was something I had tried so haphazardly that I hadn't expected any result, and yet I was suddenly proven wrong.
+
+With this, I don't need to worry about my minimum slime size too much—I can keep them in storage if I really need to!
+
+What was interesting, however, was that they remained connected and active while in storage. I immediately tried a few experiments, like seeing if they could still help with spellcasting, but sadly, they couldn't interact with the outside world at all.
+
+The one thing they could do was interact with all the slime in my storage and perform refinements, density changes, and even craft slime weapons for me. This feature alone made me ecstatic, as now if I left some workers in there, I could skip needing to withdraw slime to manipulate it.
+
+I did try to see if I could have them cast spells in storage, but that didn't work. If it had, I would have had a way to train in secret, but other than my slime, everything seemed to be in a state of stasis, including Mana.
+
+I was a little upset, as I had a rather fun idea of casting massive spells inside my storage and then ejecting them. To my opponents, they would appear as if they were instantly manifested, which I had to assume would shatter any of their expectations.
+
+Since they were the newest of the bunch, and their Vee wrestling duties were long passed, I threw Lambda, Mu, Nu, and Xi into storage to be the dedicated crafting team. Depending on how it worked out, I would throw more in there, or possibly buy some more [Sub-Cores].
+
+If I didn't need to save points for uncapping, I'd buy more right now. Ugh, this sucks… I need a way to earn more trait points other than leveling.
+
+Other than that, the only progress was my derived elements, which hit a rather significant milestone.
+
+<Proficiency gained. [Derived Element (Magma) LV 9] improved to [Derived Element (Magma) LV MAX].>
+
+<Maximum derived affinity reached, would you like to incorporate the affinity permanently?>
+
+I saw no reason not to incorporate it immediately, so I did, permanently gaining it and cleaning up my massive profile in one swoop.
+
+Magma had gotten there sooner than the others, thanks to it being my test subject for taking apart magical skills… which I'd forgotten about due to recent discoveries. I still wanted to get back to it, but I hadn't really found an opportune moment to cast the spells.
+
+As for my derived steam and dust elements, they were at level eight and seven, respectively, from just passively going up. I knew I'd need to work on them eventually to create [Intermediate Elemental Magic] as they needed to be the same levels as my ice and lightning magic skills.
+
+It's fine. I'll do all of it on the side when we're creating our island home.
+
+I was getting into a bit of a groove, and the magma forge had almost left my mind, until one day Vanessa suddenly brought it up.
+
+"Thanks again for all your hard work, Sylvain," she said, fluttering her eyebrows. "I think you've more than earned a break and a visit to the magma forge."
+
+"Really?" I replied, quite shocked that I wasn't being thrown into another situation as the universal solution.
+
+"Yes, really," Vanessa said with a pout. "I didn't want to use up so much of your time, but you effortlessly solved so many problems for us as if they were nothing. We were concerned that you'd leave us, and so we wanted to make the most of the limited time we had."
+
+Is that the reason? I guess that makes sense…
+
+"I have no current plans of running off," I chuckled. "Honestly, I'm still looking forward to some more dangerous missions."
+
+"Maybe after this we can see about that…" Vanessa replied, looking a little lost in thought.
+
+I was escorted up to a workshop that had been built into the side of the volcano, with Vanessa humming the entire way there. Compared to the rest of the town, it seemed out of place, as it was made with what looked like the best materials available. If anything, its quality almost reminded me of one of the dwarven forges I'd visited.
+
+"This is where the magic happens," Vanessa explained excitedly.
+
+The way they were harnessing the magma was different from what I expected. Considering the losses they suggested in the process, I thought they were dunking the deepstone into the molten rock to refine it.
+
+What they were actually doing was completely different: they had channels dug out that could be opened and closed to release the molten rock, and they simply used it in place of fire. I watched as one of the workers was currently refining some deepstone, but he appeared to just heat it up until it was soft, then hammer it into a bar shape.
+
+I was immediately confused. Was this all there was to it? Why did it need to be magma? Where was the loss in material? None of this made any sense at all; in fact, my current impression was that this was a scam set up by the settlement to steal deepstone on the side.
+
+While I was ruminating on this, Vanessa, who had still been humming to herself, suddenly started singing. Her voice was melodic and beautiful, like nothing I'd heard before. Even the elven virtuoso Dewdrop felt like an amateur in comparison.
+
+Even though I had to admit the performance was delightful, this was definitely not the time or place for it. I then noticed the workers were lost in an entranced rapture and suspected something was wrong.
+
+<[Beguile] has been detected.>
+
+What!?
+
+<[Allure] has been resisted.>
+
+The first notification had startled me, the second nearly drove me to a murderous rage. I was split seconds away from attacking Vanessa when [Roleplay] suddenly screamed at me to stop. I'd never felt it behave like this before, so I restrained my murderous intent and tried to see what it wanted, causing it to gain an unexpected level-up.
+
+<Proficiency gained. [Roleplay LV 6] improved to [Roleplay LV 7].>
+
+Seeing that, I decided to trust the skill and let it take full command despite my paranoia. I did still have my hands tightly on the leash, ready to pull back control and unleash my full, slimy wrath if needed.
+
+[Roleplay] had Sylvain take on a relaxed and delighted appearance, his shoulders slumping slightly and his gaze filled with adoration.
+
+I was wondering what the point of all this was when Vanessa finally stopped singing and approached. She caressed Sylvain's face while smiling like a predator that had caught its prey.
+
+"I was beginning to worry that I'd lost my touch, but it looks like even archmages are putty in my hands," she said with a giggle.
+
+Since I had relinquished control, it was almost like I was watching it happen to someone else, which made the experience a lot easier to stomach. If she had touched "me" with that fiendish smirk, I would have fired a point-blank [Fireball] right then and there.
+
+I guess this is the full power of [Roleplay]... but I wonder what it hopes to accomplish by playing along?
+
+"Sylvain, dear, can you please hand me the rest of your deepstone?" Vanessa asked.
+
+"Of course, it's all yours!" Sylvain said, positively delighted to receive a request.
+
+I watched as [Roleplay] had Sylvain take out another bag, filled with more deepstone. It wasn't all I had, which made me feel relieved that [Roleplay] was still on my side.
+
+Vanessa was delighted and threw the bag at one of the workers.
+
+"Refine it immediately! We have places to be," she commanded.
+
+"Yes, mistress!" the worker replied, throwing his full effort into refining all the deepstone he had.
+
+Another worker began collecting and distributing the deepstone into two piles, with the lion's share evidently going towards Vanessa. Immediately, I understood where the sixty-percent loss was truly happening.
+
+While I was watching this, I couldn't help but wonder if this was the reason why [Roleplay] had wanted me to go home with her all those times. Had it somehow detected her treachery? But what was her ultimate goal?
+
+I guess I'll just have to watch and follow to see where this goes. The only silver lining is I don't feel like I'm participating in this, only an outside observer… Is this what Loreleia warned me about?

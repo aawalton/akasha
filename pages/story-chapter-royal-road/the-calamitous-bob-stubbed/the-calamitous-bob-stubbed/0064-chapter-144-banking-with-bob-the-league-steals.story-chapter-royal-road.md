@@ -1,0 +1,355 @@
+---
+id: 33c37b98-4c05-5eb6-838e-81e5fd556096
+page-type-slug: story-chapter-royal-road
+title: "Chapter 144: Banking with Bob (The League Steals)"
+slug: 0064-chapter-144-banking-with-bob-the-league-steals
+partOf: the-calamitous-bob-stubbed
+position: 64
+ownLength: 4517
+unit: words
+ownProgress: 4517
+publishedAt: 2023-12-01
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1428544/chapter-144-banking-with-bob-the-league-steals"
+royalRoadId: "1428544"
+markedReadAt: "2026-06-29T21:16:59.536Z"
+---
+
+“I need to know you can do it,” Irao said.
+
+“Sure,” Viv replied.
+
+“Otherwise we need to delay and train.”
+
+“No problem.”
+
+The Hadal gazed at Viv with an insistent and slightly upsetting intensity that would have left most people nervous. Viv wasn’t affected. The slitted eyes were just that and his ability as one of the world’s foremost assassins didn’t matter because she knew with absolute certitude he was just a big nerd eager to try himself against a security system. It was rare for Irao to have fun. She wanted him to have fun.
+
+“I feel like you are surrendering leadership of this project to me,” he finally said.
+
+“My dad always used to say, listen to the experts. You don’t have to do what they say but you have to listen. But he was a politician not a thief so we will all follow you on this one. We all want this to succeed.”
+
+“I see.”
+
+The long pauses made talking with Irao a little slow but that was fine. Viv’s mind could split and wander. She was considering new spells at the moment and dedicated part of her mind to their conception when she had nothing else to do.
+
+“Follow me.”
+
+They left the living quarter of the Chalice towards the main ritual room which was wide enough to suit their purposes. Irao had prepared a few tests with the help of Abe, who himself stood at the side like a statue.
+
+“The first test concerns mana detection. The bank will have threshold seals. Those are constructs that trigger when the mana intensity increases past a certain point. You are a caster. You know about ambient mana?”
+
+“Yes, I do. Threshold seals will only activate past a certain point, a level much higher than the ambient level of magic to prevent constant false positives due to natural variations. If a spell is cast in the vicinity, inefficiencies will lead to mana bleed, which increases the ambient magic. Similarly, once a spell fades, the leftover mana will disperse. That means that the seals will detect if someone casts a spell. In theory. In practice, efficient spellcasting and spells that remain linked to the caster means that the mana is reabsorbed.”
+
+Viv walked between a pair of two seals Abe had placed on the ground, They looked like flat hexagonal discs, thicker in the middle. They were surprisingly easy to make and quite durable as well. She used an excalibur and then a thin net in quick succession. The discs did not react at all.
+
+“Seals will be more spaced in the corridors and just about that close to each other in the safe room.”
+
+“Hmmm. Yes,” Irao conceded. “Then there is the gate ward.”
+
+They moved to a corner of the room where Abe had formed a block of solid stone in the likeness of a massive circular door and its surrounding wall. A thin tapestry of mana ropes criss-crossed its surface in a shiny net of interlocked, colorful strings. It looked pretty, Viv thought.
+
+“Gate wards are not meant for durability. They are meant to snap if the gate is tampered with, alerting the guards. Unfortunately, the door is still much easier to breach than the surrounding walls so we will have to go with that. The best way to handle a gate ward is to stretch it. It requires great mana control since the ropes need to be fed at the same time as they are pulled or they might splinter. Like so.”
+
+“I have changed the pattern according to Irao’s recommendation. It should match the defenses more closely,” Abe helpfully added.
+
+“Great,” Viv said.
+
+She plucked at the strings and stretched them three at a time with patient focus. After she was done, she used an excalibur to carve a hole through the stone. The bank gate would be more solid, of course, but it made little difference to her spell.
+
+That was one of the times when Vandal was actively useful.
+
+Once done, Viv was left with a Viv-sized gap in the defenses through which she squeezed with reasonable dexterity.
+
+“Aaaaand done.”
+
+She did not yelp when Irao slid through the hole as if through a door but it was a close thing.
+
+“Yes. Hmm. Impressive.”
+
+He pondered his next sentence carefully.
+
+“You are good at this.”
+
+“I think I have to remind you that I am good at magic. Very good, in fact.”
+
+“Yes. Now we only need to memorize—”
+
+Viv manifested a full, three-dimensional map of the bank with all exits and the main defense points as well as several possible avenues of retreat.
+
+“— the layout. You are prepared. I have no more questions.”
+
+“Abe did a great job.”
+
+“I had the time and motivation,” the lich gracefully admitted. “I have prepared your gear, though I will act as overwatch as suggested. We may leave when ready.
+
+“Alright. Out of curiosity, how did you plan on getting past the safe gate?”
+
+“Acid. I can pass through… tiny spaces. I cannot take much with me. I would have had to steal one thing only.”
+
+//I wish to steal too.
+
+They turned to the striding form of Solfis.
+
+“What do you want in there?” Viv asked.
+
+//I am not certain yet.
+
+//I wish to acquire a trophy.
+
+“Not a head this time please.”
+
+//I left my embalming tools in Harrak.
+
+“Taatatata I said I didn’t want you to mention that anymore!”
+
+//Then do not bring up the topic.
+
+//As Abenezigel said, we are prepared.
+
+//We should depart at night.
+
+//The flesh bags should consume nutrients for the night will be long.
+
+“Yeah yeah.”
+
+***
+
+The five active members of the League of Lesser Evil dropped from the chalice at low speed. Viv floated in her harness; Sidjin and Abe flew. Irao was doing something for sure since he was keeping up with them. It was just hard to look at. As for Solfis, he hung to Abe’s tall frame which made the bone duo a horrible sight to behold. The lights of Helock sprawled below, poorer areas forming blotches of darkness on an otherwise colorful tapestry. There was no unity of color when it came to magical lights so the noble district shone like a Christmas tree in the cold night. They came across a patrol of flying griffin riders, fortunately, they were looking downward.
+
+Everyone landed on the roof of the theater which was decorated with statues and poorly warded. Abe immediately used a spell to hide himself in the shadows with the bag containing their emergency supplies. Meanwhile, the four others crossed the street, still levitating. They stopped moving when a patrol of guards passed underneath.
+
+Viv and Sidjin wore sealed black body suits that masked skin heat and even their smell. On top of that, Viv used a mana coating on herself with the darkness intent which made her almost impossible to notice. Abe would not take any chances. Sidjin immediately went to work on one of the few high windows present in the building. He placed spikes in the stone to stretch the ward, then pulled using brown magic. What had started as a slit became a lozenge wide enough for people to go through. He, too, used a spell to mask his presence completely with black mana while the remaining three got in. Irao was able to select people who were allowed to see him and Viv’s coat of dark mana had no effect on him so they were able to see one another. As for Solfis, he trailed them at a distance. They found themselves in a wide corridor, surprisingly spacious and soberly decorated. It was the administrative wing, a relatively defenseless section that was never locked on account of employees often pulling all-nighters. The largest door directly to Viv’s right stood partly open, a band of light shining on lush red carpet. That was the director’s office.
+
+He was apparently pulling an all nighter alright, with his vice-director whose office lay a little farther. Abe’s report stated that the two men held a fierce work rivalry. That didn’t extend to late night, however, as the pair was engaged in an intense, passionate bout of coitus.
+
+Viv had never seen a heist movie where this sort of thing happened so she wasn’t exactly sure if it was a good thing or a bad thing. Irao led the way by crawling on the ceiling and placing handholds for easier movement. They used the ceiling was because most defenses were on the ground along with most guards. The handholds would help Solfis not leave his mark on masonry, and also reduce the strain on Viv’s antigrav harness. Stamina would be a factor in this operation.
+
+Viv floated after him. The three then made their way along the corridor in perfect silence, leaving quiet seals in their wake. They bypassed a high ward by walking ‘above’ it. Viv noticed several alarm constructs here and there. Most of them were linked to barely visible amulet readers to permit employees to deactivate them as they went through. Viv realized that someone without mana sight would struggle immensely in this place. They reached the first real obstacle in the form of a massive door that blocked their way to the central stairs, but Irao easily bypassed it by removing a high panel.
+
+The second floor was deserted so they simply made their way down an unlocked gate to the second floor balcony which overlooked the atrium, still clinging to walls like a bunch of spiders. The entrance was completely shut. A guard with a dog patrolled at a sedate pace. Viv followed Irao down the wall, making sure to use the handholds. There were a few pressure plates scattered around, after all. They were near the basement stairs when the dog growled and turned around, looking directly at them.
+
+Viv was absolutely sure she could not be seen while Solfis was still hidden by a pillar. She was also sure she could not be smelled and they had not made a noise, yet the dog still whined a bit, sniffing the air and searching. The guard joined it with a frown. She was an older woman with keen eyes. Viv felt sweat pearl on her brow. A moment later, her ears picked up the dulled echo of a particularly intense orgasm.
+
+The guard sighed and pulled on the leash. Viv guessed it was not an unusual occurrence. They waited for the patrolling pair to turn their backs to continue.
+
+The stairs down led to two locked gates made of solid bars. A second major obstacle.
+
+The way things worked was that the guard in the middle was supposed to open and close those one at a time to let people in as a sort of air lock but without the air part. The purpose was to add a human layer to the defenses as they were regarded as more reactive. The bars were there to stop intruders while still letting the guard see them approach. It was a tradeoff that would cost the bank dearly.
+
+The plan called for Irao to disable the guard with a blowdart filled with soporific liquid. It would then be child play to disable the locks on the gate while blocking the loud sound that came with opening the door. Unfortunately, there was another unforeseen development.
+
+The first thing Viv saw was a pair of contracting pale buttocks. The guard was furiously pumping into a woman in scribe robes he held against the wall. The couple let out muffled moans with each thrust, naked legs locked around a muscular back.
+
+Irao turned and shrugged, shaking his head in the universal gesture of ‘the fuck is this’. Viv returned the gesture then made the sign for ‘two’ and ‘arrows’, following which Irao revealed he had enough blow darts to take down half the city.
+
+Viv made the sign to wait. The couple’s furious embrace was reaching a crescendo. The man kissed the woman silent when she convulsed in the throes of pleasure, then they half collapsed against the wall in a tangle of limbs. The man laughed softly.
+
+Viv made the sign for ‘now’. Irao hit them both and the pair finally fell down, pink and pleased. With any luck, they would believe they just fell asleep.
+
+It was child’s play to get through the two gates, not least because the guard had already taken the care to muffle the alarm so as not to let his colleagues know he had a guest. Another set of stairs layered in wards and seals led them down into the basement and to the last obstacle.
+
+“Unplanned difficulty,” Irao gestured after he checked the angle with a thin mirror.
+
+Viv checked. A solid, metal statue engraved with runes stood guard at the back of the very last tunnel, the door firmly in front of it. It would necessarily see them as they worked to open it. Golem sight pierced dark mana. It also ignored the darkness intent’s main function which was to instantly tell people to look elsewhere because this spot was empty.
+
+Abe’s notes didn’t mention that. It was probably a recent addition.
+
+Irao thought for a moment. He pulled the three people back.
+
+“Can you make an opaque shield? Something that emits light rather than hides it.”
+
+//An inspired idea.
+
+//Base models are programmed to identify threats based on mana and shape.
+
+//A rectangle of light would not be recognized as an intruder.
+
+“Wouldn’t it know something is wrong?”
+
+//Base models do not have the capability to recognize that ‘something is wrong’.
+
+//It will take another few centuries of golem before those primitives can patch out the most common exploits.
+
+“Huh. Well. Sure, give me a moment. And I won’t be able to maintain it to shield all of you while I work on the gate. Even I am not that good yet.”
+
+//Do not be concerned.
+
+//I have a plan.
+
+Viv knew how to make a shield. She also knew how to make light of a certain color. It took five minutes of effort but eventually she had a working thick blue pane that shone like a fucking lighthouse but didn’t bleed mana. It was lucky they didn’t have guards down. When she made a sign she was ready, Solfis had emptied a vase off its potted tree. He held the ceramic between two delicate claws.
+
+Viv had no idea what the fuck was going on.
+
+The trio lined up and crawled over layered wards, Viv at the front next to Irao. They progressed slowly. The golem didn’t react. They moved past the safe room gate until Solfis was directly over the golem, then, with slow movement, he delicately placed the upside down vase on top of the other golem’s head.
+
+The improvised hat settled down with a light clonk.
+
+//User notice.
+
+//Visibility obstructed.
+
+They waited.
+
+And that was it. They returned to the gate with the sentry now blinded by a vase. Viv looked behind and shook her head. It was at that moment that Irao made the sign he was leaving.
+
+“What?” Viv signed in panic.
+
+The Hadal replied with perfect calm by showing his tiny backpack, which was empty. He had run out of handholds. With quick motions, he indicated he was going to fetch more before disappearing in a flash of darkness.
+
+Viv was left behind, appalled.
+
+‘I thought this was a serious outfit,’ she told herself before coming to an unpleasant realization.
+
+She was the nominal head of said outfit.
+
+She was the one who had gathered a genocidal golem, a slightly autistic retired assassin, an undead dork and a fallen prince. It was her fault. She had done this to herself.
+
+Every damn second spent waiting for Irao to return cost Viv a year of lifespan, or it would have if she still had a lifespan anymore. Her heart thundered in her chest and she bit her tongue not to swear in case the potted golem had ears. Solfis spent the entire thirty seconds inspecting his inferior brethren. When the Hadal returned, he had the audacity to lift an eyebrow and point at the door.
+
+Viv realized that she technically could have started on opening it. This was her part of the job. Now she was angry at herself for acting stupid. Great. With a silent sigh, Viv got to it.
+
+The net covering the door was exactly as Abe had recreated it. She had practiced on that construct until she could stretch it reliably and quickly, yet she still took her time. There was no reason to hurry. The change of the guard would take another half an hour at the very least and the only thing they were bound to find was not-safe-for-work material. With deliberate focus, she made a decent sized opening in the structure, leaving the enchanted steel exposed. A last inspection using her mana senses confirmed that there were no spells directly on the other side. Everything was normal.
+
+Viv called a thin Excalibur, then muffled the sound made by cutting the opening. Once she finished separating a disc, it was a simple matter to levitate the hunk of metal on the floor, taking great care not to trigger a pressure plate. Irao went first, then Viv followed him with Solfis watching over her.
+
+The safe room was small and cramped with safes piled on top of one another. Elunath’s safe was at the back. They stuck to the ceiling once again since the entire ground floor was made of pressure plate in this room. There were no more wards except those on the safes. Viv notices that Elunath had an additional layer of defense. Unfortunately for him, they were all near the lock so Viv simply cut a hole near the hinges. They ended up with a head-sized gap in the protective steel. It was now time to check the loot. She excitedly glanced through the opening.
+
+What she saw surprised her at first. There were no obvious valuables. Only stacks of documents tied together alongside a little black notebook she picked up after checking for lingering enchantments. It was encrypted in some script she’d never seen though the structure of the text evoked a list of profiles. Abe would probably be able to make sense of it. She picked an errant document at random. She opened it.
+
+It was a saucy letter thanking a certain ‘Lezebeth’, or Lezzie, for a night of torrid carnal acts, and it was signed ‘your Bareon’. At first, Viv recoiled before the medieval equivalent of sexting but soon, the names triggered an old memory from her ethics class.
+
+Lezebeth Icarna, leader of the Builders Guild.
+
+Bareon Adolis, current head of the minority faction in the Council of Elders.
+
+Definitely no formal alliance. Most definitely married to other people.
+
+Holy shit.
+
+Viv opened another. It was a financial record with circles around what she immediately recognized as ‘creative accounting’. Another document was a will repudiating an important socialite. There were dozens of similar documents.
+
+That was… Elunath’s entire collection of blackmail material, organized and ready for plunder. She immediately shoved everything into a bag, only stopping to check for enchantments. There were none. She turned excitedly to find that Irao had opened another safe and removed a fancy cup made of bone with inserted black pearls and a tiny little skull. It looked tacky and quite old. Irao certainly seemed to like it. With his trophy obtained, they were ready to depart.
+
+Viv resisted the urge to open more safes. She was here to mess with Elunath, not ruin families.
+
+Had to resist. She was here for the lesser evil which was more or less the greater good if one thought about it.
+
+Solfis waited for them outside. The plan had always been to use his monstrous strength to carry their loot, in case it was something massive. His assistance would not be needed after all but Viv still wanted to give him the bag to hold. She stopped and gawked as soon as she was out.
+
+Solfis was hanging upside down with his feet and hands firmly anchored on handholds like the universe’s ugliest, deadliest sloth. Attached to his body like a baby sloth by stolen curtain ropes… was the bank’s golem.
+
+Viv firmly gestured her incomprehension.
+
+//You can talk, Your Grace.
+
+//I have taken the liberty of deactivating the golem.
+
+“What the fuck are you doing?”
+
+//I am stealing.
+
+//You unequivocally gave me the permission to do so.
+
+“I didn’t say you could steal their fucking security system!”
+
+//You never forbade it either, Your Grace.
+
+“What do you even intend to do with that thing?”
+
+//A great many things which should not be listed right now.
+
+“Great. Fantastic. Isn’t it too heavy?”
+
+//I have secured it to my satisfaction.
+
+Viv resisted the urge to slap her face. It was her fault. Her fault. And arguing with Solfis was an exercise in futility. At this stage, she just wanted out.
+
+“Ok well fine, fiiiine. Let’s just leave then. I’ve had enough.”
+
+The crew retraced their steps, Irao recovering his handholds as they retreated past the sleeping couple and up to the atrium where they waited for the poor dog and guard pair to be at a respectable distance. Viv felt sorry for that unfortunate lady who would probably be fired alongside everyone else although she was the only one doing her job. They retreated to the third floor where the director and his rival had started another round, then absconded through the window. The escape was surprisingly eventless. As soon as everyone had gathered on the theater’s roof, they took off and returned to the Chalice with no one the wiser.
+
+***
+
+The next morning.
+
+Two men in the gambeson of Helock’s guard sat on the step of the previously unassailable Bank of Helock, smoking pipes under the curious gaze of a crowd of gossips. The younger one sighed heavily.
+
+“That’s some mess we got on our hands.”
+
+“Damn right,” the other replied, “in thirty years of career I’ve never seen the like. No wards triggered. No missing guards. No seals broken. No signs of entry of any sort. If it weren’t for the damaged safe room door, no one would have noticed the theft until the customers came.”
+
+“They cut through enchanted steel too, and without bleeding mana. And without melting it! Who the fuck can even do that?”
+
+“I don’t know. Hell, I’m scared to find out. No one is safe in this city. It’s a terrifying thought.”
+
+“Yep. Never seen such a flawless job before. One thing’s for sure. We’re dealing with gods-damned professionals.”
+
+***
+
+Elunath held two new pamphlets in his trembling hands. Rage filled him in a way that no emotion had touched in a very long time.
+
+“What is the meaning of this? I killed that idiot myself. WHY DO THEY HAVE MORE OF THOSE?”
+
+His gaze landed on Sen.
+
+“They must have anticipated it.”
+
+She pointed at the first pamphlet.
+
+“Is Elunath afraid of the truth?
+
+Yesterday, our previous copier was found killed by a falling boulder.It happened one day after he bravely showed the truth about Elunath.
+
+Coincidence? You decide.
+
+Elunath is trying to silence us but the truth will always come out!”
+
+“They must have anticipated your move,” she said.
+
+Elunath dragged her bodily with kinesis until she stopped against his desk with a pained huff. He had never used violence with her yet but that was her fault for provoking him. She should know better.
+
+“Are you saying I’ve been outwitted by her? HER?”
+
+“You had no choice but to react,” Sen croaked, “so she had notes ready. Her or someone else.”
+
+“Yes! Yes. She has a low, animal cunning but she lacks the intellectual faculties to come up with such a devious plan. She must have received help from… someone. Most likely my political opponents. I need to… visit him again. Remind him of the cost of duplicity.”
+
+He glared at the second pamphlet.
+
+“Elunath purchased dark gods artifacts.
+
+It should be expected when one believes himself above the law. Elunath has purchased a cursed club bearing the mark of a dark god, according to a sworn witness to the transaction.
+
+This dark staff could be anywhere in our fair city, spreading its vicious corruption.
+
+Protect your families from the clutches of evil!”
+
+The piece of paper was shredded by an uncontrolled burst of mana.
+
+“That bitch sold that thing to me herself. The gall. The audacity. The hypocrisy! I will not spend a second more than necessary on this sorry diversion. I ought to be obtaining ink for your tattoos, not wasting time chasing a rat! What of my orders?”
+
+He caught another glare filled with venom from Lana. That decided it. Bedding Renea yesterday had been nice but this time, Lana would get a reminder.
+
+“Renea and the mercenaries didn’t find anyone because no one recharged the sound speakers. They faded in the morning. Instead, someone installed more sound speakers in different parts of town, mostly near the south gate.”
+
+“They saw such enchantments as disposable?” Elunath asked with disbelief.
+
+“They appear well prepared,” Lana replied with a shrug. “As for the patrols outside of the walls, they have found several smugglers hideouts but no signs of her so far.”
+
+“The city guard?”
+
+“Their best investigators are busy with an important theft.”
+
+“So they are delaying, as expected! Except killing the scribe you two found, which is something I did myself, nothing was achieved! Nothing! Can I count on anybody around here?”
+
+“They are obviously well-prepared,” Lana finished after a short hesitation.
+
+“You keep blabbering that excuse. It really is true. One can only count on oneself. You two go out and find a way to ‘motivate’ those mercenaries. Our foe comes and goes too easily to be very far. FIND THEM.”
+
+They left in a hurry.
+
+Elunath sat back in his chair and regretfully discarded the mail containing the ink and tattoo patterns he intended to purchase. It was time to drop the act. His servants would be marked as one announced their ownership. The contract gave them entirely too much leeway, and enforcing it required active focus on his part. The magic more or less warned him if someone was actively working against his interests but he needed to react to inflict pain. Tattoos were much more… visceral in their enforcements of magical binds. With those, he would no longer have to fear half-truths and secret sabotage. But that was for later. For now, he had a bug to squash.
+
+No matter what, making so many copies had to cost a lot of money. She had to be getting it from somewhere. Bareon Adolis was a good place to start. If he wasn’t responsible himself, his path would let him find who might be. He would comply if he knew what was good for him.
+
+Elunath fell through the ground and swam through the rock towards the distant shape of Bareon’s manor.

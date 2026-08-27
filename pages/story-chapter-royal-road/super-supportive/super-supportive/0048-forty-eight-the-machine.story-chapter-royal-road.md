@@ -1,0 +1,277 @@
+---
+id: d3659c81-be1a-5b5e-b61c-98cc960bec5a
+page-type-slug: story-chapter-royal-road
+title: "FORTY-EIGHT: The Machine"
+slug: 0048-forty-eight-the-machine
+partOf: super-supportive
+position: 48
+ownLength: 3191
+unit: words
+publishedAt: 2023-06-25
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1257466/forty-eight-the-machine"
+royalRoadId: "1257466"
+---
+
+Dawn came. The red blob continued to spread across the map of Moon Thegund.
+
+Alden and Kibby stayed alive.
+
+Instructor Gwen-lor taught the class full of wizard tots magic, and Alden and Kibby studied with them. In the beginning, the first thing you had to learn was how to move your authority deliberately and with control. To do that, you had to feel it. That was the point of the beginner exercise, and it was why you were supposed to have a partner to poke at you.
+
+It came naturally to the Artonan wizard class. Alden didn’t think he ever would have figured it out if he hadn’t been trapped in a chaos sandblaster, being poked from every direction with no means of escape while also being highly motivated to actually try for Kibby’s sake.
+
+But he had figured it out. He’d obtained the supposedly unobtainable sixth sense, and he’d learned how to use it.
+
+Then, finally, the lessons moved on to actual spell casting, and it…wasn’t that hard?
+
+Well, it was. But it was hard in ways that had a lot more to do with basic physical and mental limitations than with his newfound sense for and control over his authority.
+
+Artonans could think two thoughts at once. Literally. Two completely separate conscious mental processes. When they wanted to, they could work a math problem with one eyeball and read a book with another. They weren’t just good at multitasking, as Joe had once said, they were the gods of it.
+
+Which was so unfair that Alden had to complain about it aloud every now and then.
+
+“Facts are facts,” Kibby intoned, looking at him with one eye while the other was fixed on the tv. “They’re not required to be fair.”
+
+“Ugh. You are so….what’s a friendly-mean word that says you are too proud of yourself?”
+
+“Smug,” Kibby said smugly.
+
+“You’re that,” said Alden, slouching on his learning cushion. Slouching was acceptable. Sitting on your butt was not. He knelt on it properly now like a respectful student.
+
+“You’re moving forward faster than me,” Kibby said. “And they’re my lessons.  That’s what isn’t fair.”
+
+Kibby was very proud that she even had lessons. It was pretty uncommon for a child to be taught magic long distance. Most teachers, especially good teachers like Instructor Gwen-lor, found anything but in-person instruction insulting. They didn’t allow themselves to be recorded.
+
+“I’m only faster because I’m older. And I’m an Avowed.”
+
+She smiled and nodded determinedly.
+
+Alden was lying. Kibby knew he was lying. But Artonans considered kind lies to children to be an act of love. It was grown-up manners he’d learned from one of the soaps. Not exactly a foreign concept for a human, though the Artonans took it way farther than he ever would have on his own.
+
+If Kibby was expecting a loving lie, and he didn’t give it to her, it really hurt her feelings. On multiple levels. It was like in addition to forcing her to have the information she didn’t want, he was telling her that he didn’t care enough about her to protect her. He’d accidentally made her cry several times before he’d finally watched the right show and realized his mistake.
+
+The truth was that Alden was pretty sure he was not better at magic because he was older. And due to some recent realizations, he was positive it wasn’t because he was an Avowed.
+
+It was a strange thing to think, but he was growing fairly certain that he was just naturally more talented at authority control than Kibby. He was careful not to ask about it, since it was a painful subject for a girl who was pursuing wizardry so doggedly despite some sort of disadvantage.
+
+But the more they partnered up and worked on manipulating their power together, the more he could tell. Authority was more than just strong or weak. There were multiple other elements involved in turning it from something you had into something you used to enact magic on the world around you. Kibby seemed to have power, but it was like it didn’t want to move for her.
+
+She had the Artonan gift that had allowed her to know her authority and use it in the first place, but now that Alden had found his, too, he was outpacing her.
+
+Not that it means I’m particularly good in comparison to other small Artonan children, though, he thought as he watched the kindergartners on the screen.
+
+He couldn’t perform a huge percentage of even the most basic spells.  And he would probably never be able to.
+
+Artonans sure liked their magic ingredients and toys and tools and chants—things Instructor Gwen-lor said carried them through the maze of reality to a new destination. That metaphor meant nothing to Alden, and even if it had, he could not obtain the supplies or chant many of the chants.
+
+Not enough octaves in his vocal register, and besides, trying to say one magic spell in his head and a different one with his mouth—a fairly common requirement—was like patting his head and rubbing his stomach times a thousand. You were supposed to mean the things you said, and he couldn’t mean two completely different words at once as far as he knew.
+
+But Artonans and humans had really similar hands. And Alden’s little bit of enhanced dexterity plus lots of repetitions of the finger exercises were doing him some favors.
+
+The spells were silly. They were for little bitty people after all. But Alden just followed the patterns with his fingers, wove his authority in and out of the imaginary symbols they made in the air, and presto. A series of musical notes sounded through the vault, matching the rhythm of his ring fingers as they flicked through the air.
+
+It had required a few hours of practice and memorization to learn the signs.
+
+It was useless.
+
+And it was so damn cool.
+
+“That is very good,” Kibby said.
+
+You always complimented your partner when they got their spell right. Alden had gotten several right lately. He could light the promise sticks with one. With another, he could create tiny puffs of air that blew dust off of things. With a third, he was supposedly sanitizing his hands, though it was hard to know if it was working. He hoped Kibby would get one right soon, so that he could compliment her, too.
+
+“Thank you.” Alden tried not to grin too much.
+
+“You aren’t upset anymore.” She was staring at his face with both eyes now.
+
+“What?”
+
+“After you did that spell for the first time last week. You were upset. You left the vault in a hurry.”
+
+“Oh, that. I hurt my finger a little. I was afraid I wouldn’t be able to do it again. But it’s better now.”
+
+“Which finger?” Kibby asked, her brows drawing together as she leaned over toward his cushion to examine him worriedly. “You are only good at hand casting. You must take better care of yourself and remember your stretches.”
+
+“I will.”
+
+“Let’s stretch now!”
+
+“Oh. Sure.” Alden felt guilty about it, but he let her lead him through the hand stretches.
+
+There was nothing at all wrong with his fingers.
+
+#
+
+They should have spent every waking minute in the vault. But they couldn’t. They’d go mad.
+
+A few times they had tried and managed for multiple days, but one of them inevitably lost their temper or, more dangerously, they started to feel despondent. Authority wasn’t willpower, but you had to have at least a little willpower to keep asserting it when you were tired.
+
+Sometimes, if you were depressed and tired and feeling sorry for yourself, it started to seem like too much trouble to right the askewness again. And again. And again.
+
+So they did the best they could. And they had agreed to let themselves enjoy going outside.
+
+On the grounds of the compound after their lesson that day, Kibby threw chunks of gravel at Alden enthusiastically. He caught each one, flicked his wrist, and dropped the preservation in a smooth motion so that they flew off in different directions. Momentum preserved and redirected. One after another in rapid succession.
+
+Panting from exertion and clearly delighted, Kibby ran at him. “You’re so much better at it, Alden!” she crowed. “You never used to get it right, and now you’ve gotten it right every time!”
+
+Alden gave a dramatic bow. “I am the great rock…er…direction changer?”
+
+“Bouncer?”
+
+“I am the rock bouncer.” He stood up. “And there’s something else. Hand me two pieces of gravel at once.”
+
+Kibby’s face lit up with excitement. She grabbed two pieces of the pale gray gravel and flung them at him.
+
+“Ouch,” he said. “Hand them to me this time. Not throw.”
+
+“Oh! I am sorry.”
+
+She politely put two pieces side-by-side in her palm and offered them to him.
+
+“They don’t have to be touching,” Alden said.
+
+Her eyes widened. She moved the rocks apart, and Alden stared at them for a moment, concentrating, then he grabbed one in each hand.
+
+“Yes,” he said, looking down at them. “Both preserved.”
+
+“Let me feel!”
+
+He shifted his weight from foot to foot to keep the skill going and held out his hands. She prodded at the rocks. “Alden, you did it! Two at once! Did you finally master the Art of Perceiving in Multiple Ways?”
+
+“No,” said Alden.
+
+The Art of Perceiving in Multiple Ways had been mentioned in passing by Instructor Gwen-lor, so Alden had been able to tell Kibby he thought perception would be important for practicing his skill without mentioning that Joe had given him the idea. “That’s still really difficult for me. I did it in a different way.”
+
+“How!?”
+
+He considered how best to describe it.
+
+“Forgive any poor word choices,” he said finally. “It’s a hard thing to explain without them. I think my Avowed skill is like a machine. Like the—” He couldn’t say it was like the car. They never talked about the car. “Like the television. It comes with several possible options, but because a human can’t feel or control the parts of the machine, it’s a mix of our perception and the Contract that determines which options are normally turned on or off.”
+
+Kibby’s eyes were narrowed, and she was biting her lower lip. It was her thinking face. “So changing your perception changes the show?”
+
+“There’s only one show,” Alden said evenly. “It’s a show called Alden Preserves Objects. All my perception can change is the volume. Or the clearness of the image. Or…it can do more than that. Probably. The description is bad. But learning to change your perception gives an Avowed a way to select the options they can’t feel.”
+
+“But you haven’t learned?”
+
+“Instructor Gwen-lor did say it was a difficult art,” Alden reminded her.
+
+Having the right perception was important with spell casting because it could cover minor mistakes, according to Gwen-lor. And with the right perception, powerful and talented wizards could push their spells in directions they weren’t really supposed to go. Alden assumed mastering perception might, one day, similarly allow him to bend the outcome of his skill activation a little. In addition to being a way of triggering Let Me Take Your Luggage’s various inherent options.
+
+It did make sense that Joe had focused on it so much.
+
+“Anyway, I haven’t really learned to play around with my perception. I think that’s probably how a human would normally need to train their skill. Probably it would be the best chance I had of learning to use it better. But I’m lucky. I have the best teacher in the universe.”
+
+“Instructor Gwen-lor is renowned, Alden,” Kibby said. “She is a friend of Distinguished Master Ro-den. But I do not think she is the best teacher in the universe.”
+
+Always so serious about teachers.
+
+Alden looked her in the eyes. “I didn’t mean Instructor Gwen-lor. I meant Instructor Kivb-ee.”
+
+She stared at him. “Are you trying a friendly-mean joke?”
+
+“It’s not a joke,” Alden said firmly. “You taught me how to feel my magic correctly. You were patient, generous, and hard-working. Nobody else would ever be that patient with me or work that hard for me. I was a very slow learner.”
+
+“Very slow,” she agreed.
+
+“I thought I couldn’t do it.”
+
+“I thought you couldn’t do it either. But I didn’t have anyone else to practice with.”
+
+Alden snorted. “And you’re honest. The point is, thanks to you I can use my authority. The more I learn to feel it, and the more I practice controlling it, the more I can use it to directly sense how my skill works.”
+
+“Really?”
+
+“Yes.” He showed her the gravel again. “There’s a part of the skill that starts the preservation. After it activates, that part naturally turns off. It wouldn’t usually turn on again while the skill is in use. But because I can feel what part of the machine works that way now, I was able to practice with it. And I learned how to tell my authority to do it. It’s really a lot like learning the control techniques for a spell. So…two things can be preserved now. Only easy things, though. Like rocks.”
+
+There was a good reason for the skill to be automatically set to not work this way. It was taking almost every fiber of his authority to double-run it even on rocks. The old Alden would have been on his knees, staring at the lab cabinets while Sophie threatened to disembowel him and told him to figure out the difference between his power to exert influence over reality and his will.
+
+Now, he was merely aware that his limit was approaching, and he needed to stop the preservation before he exhausted himself and left himself completely vulnerable to chaos.
+
+He dropped the rocks.
+
+“So. That’s enough skill use for today. Let’s exercise.”
+
+“I will get the stopwatch.”
+
+He gasped. “You’re timing me? After I’ve had such a hard practice session! So strict.”
+
+“You want to be the best Avowed in the Triplanets’ service, don’t you?”
+
+“What? No! My goals are much smaller than that. And set on Earth. Where did you get that idea?”
+
+Kibby stood straighter and lifted her chin. “As your first Instructor, I berate you. You will shame my name if you do not become the best Avowed.”
+
+Huh?
+
+“Is this a friendly joke?” he asked hesitantly.
+
+She stared at him. “If yours was not a joke, then mine is not a joke. You will be the best Avowed.”
+
+“Kibby, I’m not that great. I think maybe you should lower your—”
+
+“You will be the best Avowed.”
+
+#
+
+Instructor Kivb-ee conked out right after their exercise session. Alden was still wide awake.
+
+He stood in the shower, letting the water blast him. It was running cold in a lot of places now, or not running at all, but the shower near the vault was still blazing hot.
+
+He’d overdone it today. He’d tired himself. He could feel the askewness creeping in.
+
+The chaos was like filthy fingers pressing and pressing against him, breaking through at the edges of his existence.
+
+Mostly the new edges.
+
+His authority had grown. And the fresh authority he’d earned through the many hours of practice with Kibby felt a little softer and more vulnerable than the rest.
+
+It was also beautiful.
+
+So much more beautiful and dear to him than the massive portion of his authority that was dedicated to his skill and trait. He cherished it partly because for a long while now he’d been aware of himself earning it and developing it through hard work. But more than that, he enjoyed it because it was free.
+
+Free to become anything and everything. Free to reshape the world in any way Alden chose and knew the spell for.
+
+Casting a spell—casting it with intention and full awareness of your own power—was awesome. In the original sense of the word. Heavy emphasis on the awe.
+
+It was like Alden became more in some profound way every time he did.
+
+He wouldn’t be surprised if wizards were all addicted to it. He was, and he could only perform a handful of spells intended for children.
+
+And he could only do them with the free authority.
+
+Alden had told Joe he thought an Avowed’s authority must be bound up with their skills and other talents, so that it was easy to use. And Joe had been impressed that he was right.
+
+But I wasn’t right, was I? he thought, resting his back against the shower wall. I was just saying things without understanding them. Back then I couldn’t have understood them. I didn’t even have the words.
+
+The skill was like a machine. It wasn’t a great simile, but it was good enough.
+
+Alden contained within him a powerful, startlingly complex, rock solid machine made of pure authority. He thought if the chaos ever became too much and he started to lose himself, the skill would be the last bastion that held him together. The very last thing to go.
+
+He could sense that about it—its fundamental strength.
+
+And one day, if Alden finally found his way back to a world with a System on it, all of his beautiful free authority would eventually be crammed into a permanent functional shape, too. Something useful. A new skill if he wanted one. Or the mysterious alternate path Joe had advised him to follow for Let Me Take Your Luggage. A few points in Agility. Some mental processing. A spell impression. Some speed.
+
+Whatever he was allowed to choose.
+
+I wonder how many levels I’ve earned.
+
+Three maybe? Or four? He didn’t know how the System kept track. He was just guessing, but it had to be more than it should have been.
+
+His authority—both bound and free—was growing so much faster now that he was consciously using it all the time.
+
+The System will give me a lot of options when the time comes. I should be fine with that. A few months ago, I was just a guy bombing Hamlet quizzes. The skill is strong and useful. I should be grateful. I’ll have choices.
+
+But…not the one I really want.
+
+Joe had said Avowed died if their free authority grew too large and unbalanced their fixed talents. So Alden couldn’t just keep it.
+
+The professor hadn’t been wrong when he advised Alden not to try learning wizardry.
+
+If he’d never done it, he wouldn’t have known the profound joy of it. He wouldn’t have felt the rush of swinging your power at the universe and making things happen. He would never have learned how to feel his skill.
+
+And so he wouldn’t have known that, although his Avowed powers were indeed a gift for someone who wouldn’t have been able to do magic if his life had taken any course but this, they were also a set of chains.
+
+The more Alden mastered his own authority, the more clearly he felt them.
+
+And they were really, really heavy.

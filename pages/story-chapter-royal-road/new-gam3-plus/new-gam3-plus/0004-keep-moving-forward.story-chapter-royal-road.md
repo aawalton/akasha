@@ -1,0 +1,167 @@
+---
+id: a5db0828-c26d-5c34-aa33-8f93d4a32bd7
+page-type-slug: story-chapter-royal-road
+title: "Keep Moving Forward"
+slug: 0004-keep-moving-forward
+partOf: new-gam3-plus
+position: 4
+ownLength: 2486
+unit: words
+publishedAt: 2022-03-24
+link: "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/870523/keep-moving-forward"
+royalRoadId: "870523"
+---
+
+Night had fallen, but the surrounding area felt alive. Huddled behind the exit door Alan heard constant gunfire from the direction of the Haxlard auditorium. A shadow passed far overhead, and a group of drones in the distance were destroyed by fragments of an exploding metal sphere. A helicopter strafed by with the constant brrrt of a minigun, firing at ground forces Alan couldn’t see. It took evasive maneuvers when bright bolts of plasma arced upwards at it and hit an energy shield. Missiles exploded in the air like fireworks—a constant barrage shot down by defensive systems.
+
+A sniper fired and the sound echoed around the battlefield.
+
+That came from the hangars, Alan thought. He recalled the map. The three auditoriums were set up in a triangular formation, with the main UWG auditorium at the northern tip. The Haxlards were to the east, while the Ashes seemed to be pushing in from the west. The hangars that everyone had teleported into were contained in the center of the triangle, north of Alan’s current location.
+
+Alan chose to head in the direction of the sniper, rather than away. It was risky, but there would be more opportunities for loot.
+
+What’s the best way to get there? Alan asked.
+
+Wait for an opportunity, make a mad dash, or sneak around on the tarmac, Nu sent. Both sides should ignore firing on new players, but that would mean abandoning your new uniform and weapons.
+
+Thanks for the options, but I need direction, Alan sent. Which plan has the highest chance of success?
+
+Don’t revert to the mindset you had when you first joined the Game, only good for following directions, Nu sent. Think for yourself. I’m not hiding any information.
+
+Alan rolled his eyes, wondering if any other players had to deal with insubordinate AI.
+
+Why do we need a sniper anyways? Nu sent.
+
+To acquire a set of power armor, Alan responded. Only an anti-material rifle will be capable of taking out armored targets with a reasonable rate of success without completely destroying the items. Besides, I want to take advantage of all the chaos and see if I can earn some easy experience.
+
+These are rather extreme risks. There’s no real need for better gear before the Tutorial has even started, Nu sent.
+
+Have you not been in the same Game that I have? Winners are rewarded above all else, and gains accumulate. Success snowballs. To challenge Predecessors, the Three, and the Ascended I need to do more than survive, I need to exceed all expectations—pass the Tutorial with flying colors so incandescent the entire planet will notice.
+
+Jeez, Nu sent. No pressure or anything. The fate of the world does not rest on your back, Alan.
+
+No, it doesn’t, but if I have a shot at changing the cosmos I’ll take it, no matter how infinitesimally small.
+
+Nu’s voice sounded quietly in the back of Alan’s mind. It’s dangerous to go alone…
+
+A lull in the action occurred, and Alan sprinted out of the barracks. He’d go the long way around, keeping to unlit paths and as out of sight as possible.
+
+A minute later and Alan was out of breath. His pace slowed to a jog, then to a walk, and finally to a crawl as he took giant gulps of air. His legs were tired. His lungs burned. The rifle he carried felt like a brick weighing him down. Had he always been this out of shape?
+
+Nu started a response, but Alan tuned him out as he scanned the surroundings. His eyes slowly adjusted to the dark. With airfield runway lights and the base lit up it wasn’t pitch black, but it was still difficult to see.
+
+Every shadow made Alan jump. He could be eliminated out of nowhere, anytime. There was movement in the distance, a convoy of trucks and buses headed to the north. None of the flights or spaceships had taken off yet, but Alan could see the outlines of vehicles waiting in the wings. Massive airliners, space shuttles, and even a rocket ship far to the west.
+
+As Alan regained his strength he walked further north until deciding to take an empty path that cut between the auditoriums. It was quiet in this direction, the gunfire and explosions had begun to taper off.
+
+Then there was a flash of light and sound. Red smoke filled the air, coming out of vents on the base. Humvees raced off along the tarmac, adding their own layer of smokescreen. A spaceship took off, shooting up into the sky and away. It was too fast for Alan to follow, but it was large and came from the direction of the Ashe’s forces.
+
+Then half a dozen figures materialized out of thin air, all with their weapons trained on Alan.
+
+“Don’t move. Icewolf wants to talk, not fight,” one of the soldiers said. He held out a small object. An earpiece.
+
+Seeing no other choice, Alan took the earpiece and put it in. The soldiers disappeared from his sight before he could examine their gear in detail. It looked like they were wearing some version of Revenant Scout Power Armor, made of chunks of metal that absorbed light. The armor had a basic invisibility field but didn’t look as sleek or pristine as Alan remembered, more like a jury-rigged version of dark medieval plate rather than a futuristic battle suit. Had Earth started manufacturing its own armor?
+
+“Be careful what you say, this line isn’t secure,” Icewolf said into Alan’s ear. “Still, I’m confused. Did you think I wouldn’t notice your arrival? Why have you returned, and why are you so weak? How are you a new player again?”
+
+Honesty might be the best policy here, Nu sent.
+
+“I don’t know,” Alan said. “The last thing I remember is defeating the Emperor. I think I may have ascended, and through an in-game mechanism returned without my memories. Like some kind of New Game+.”
+
+“None of that makes any sense. You never defeated the Emperor—they were crushed by the Smith in the Haxlard Crusades. And the handful of players we’ve tracked that ascended never returned.” There was a pause on the other end of the line. “Are your contingencies still in effect?”
+
+Alan almost asked what Icewolf was talking about, but Nu stopped him. Deflect.
+
+“Why should I tell you anything? The last I remember you tried to force a contract of servitude down my throat then had me killed when I refused. What plans within plans are you working on this time?” Alan asked.
+
+“That—that was a mistake. I apologize. And I have no grand plans. Only a simple goal: Humanity independent, free of alien control,” Icewolf said.
+
+“You’re going about it in a funny way, causing untold chaos and dividing Earth’s forces,” Alan replied.
+
+“Conflict leads to progress, in the Game most of all,” Icewolf said. “You don’t understand, Alan. You haven’t been in the same meetings. You haven’t interacted with people. You’ve been in an almost self-imposed exile—cut off from the discussions the elites and the public and the politicians have. I’m fighting for a better future. For leaders and a society that cares about all of humanity, not a select few.
+
+“The United World Government should have stayed united against a common foe. I thought we would. Instead, no one could control their greed. When the first asset turned to the Haxlards it was like an avalanche of defections occurred. It was every country for itself. Everyone was trying to hold onto the virtual wealth and territory they’d gained. Better to lose two-thirds to the Haxlards than it all, even if it meant losing vast swathes of humanity.
+
+“But I won’t let that happen, Alan. I won’t let the traitors and scumbags enjoying the profits of my work keep it. Society is changing, but it’s too slow. I’ll set the whole world on fire if I must—to pave way for whatever rises from the ashes.”
+
+Okay… that was a lot, Nu sent.
+
+“What do you want from me then?” Alan asked. “I still need to redo the Tutorial, I can’t change the fate of this war under leveled and geared.”
+
+“I’ve learned not to underestimate anyone—you least of all, Alan.” There was another pause on the other end of the line. “What I want is simple. My niece and nephew recently entered the Game. Help them through the Tutorial. Guide them. Teach them what it takes to thrive as you have. Will you do this for me? I promise they’ll carry their own weight.”
+
+Alan hesitated, thinking it over. If his suspicions were correct Icewolf was referring to the two teenage kids he’d seen wearing Omnitech Industries jumpsuits waiting in the security line. He wasn’t a babysitter, but there was still that message from his past self echoing in his head: make more connections.
+
+Icewolf also has a squad of soldiers ready to kill you, Nu sent.
+
+“Fine, I’ll help, but I want to be paid in advance,” Alan said. “For a set of power armor and an energy-based sniper rifle you have a deal.”
+
+“I can’t provide gear before you’ve begun the Tutorial, but don’t worry. I’ll reward you for a job done well. If they perish early, however, and you ruin their chances at advancement, you’ll know my wrath,” Icewolf said.
+
+A quest appeared:
+
+Training:
+
+Help Ivy and Isaiah through the Tutorial.
+
+Penalty: If they make insufficient progress in the Tutorial your Ashes of Humanity reputation will plummet. It is possible your reputation will fall to the point you will be at war with this faction.
+
+Reward: 250k credits for the successful completion of the Tutorial. Partial completion will result in variable reward. 25k bonus credits for every stat progression unlock.
+
+“What does it mean to progress a stat?” Alan asked. He accepted the quest.
+
+“You are missing memories,” Icewolf said. “After the Haxlard Crusade there was an update to the system. Stats like agility or strength now also have a rank and cap at 100. No more wandering around with 10,000+ in a stat and wondering how strong that really makes you. Humans, as a rank D species, have a soft cap at rank C. In order to push past that boundary we need to defeat a powerful enemy, unlocking the rank they have in one stat, or complete a challenge that tests the relevant stat.
+
+“You can evolve your species from rank D once all of your stats have increased in rank and meet the requirements, but the Tutorial will cover that. Speaking of, we must end our chat here. Security has been updated so you’ll be recognized under an alias of Alan Anderson. I will message Ivy and Isaiah to meet you in front of the United World Government auditorium—if you must contact me do it through Ivy. Good luck, Alan. Try not to have too much fun.”
+
+“User has disconnected,” a female mechanical voice said.
+
+Alan took out the earpiece and held it out. Nothing happened.
+
+I think they left. This update is intriguing, and does push the Game’s agenda, Nu sent.
+
+Which agenda is that? Alan asked. He put the earpiece into one of the many pockets of the guard’s uniform.
+
+Survival of the fittest. I wouldn’t be surprised if an Administrator was influencing Icewolf’s decisions, Nu sent. In reality wars are costly—disastrous with no real winners. In the Game that can be true too, but often one side will emerge far stronger. A desperate gamble that whatever emerges from this conflict will be capable of standing up to the Three may have been Earth’s best option, but I doubt it. Someone else is pulling strings.
+
+How the hell did you get that from the conversation? Alan asked.
+
+Communication. Communication is key, Nu sent.
+
+A message appeared:
+
+Once he read that message others popped up:
+
+Player: Alan
+
+No recorded destination. Neutral standing with all factions. Please choose from the following options.
+
+Alan contemplated the message while walking forward slowly. Signs of battle, debris, and bodies began to fill his vision. Smoke continued to fill the air making it difficult to see. A new 60-minute timer appeared.
+
+We’ll be forcibly entered into a Tutorial if we don’t choose one of the options or make other arrangements soon, Nu sent.
+
+There was movement. Alan took cover. A trickle, and then a flood of new players emerged from buildings. Many stood and gawked at the destruction surrounding them.
+
+A new announcement began to play over the loudspeakers: “All new players report to your designated tutorial. I repeat—all new players report to your designated tutorial. If you have not chosen a destination please report to the main hangars for testing.”
+
+Alan waited a minute in the shadows, watching as the silhouettes of players began heading towards wherever they’d been assigned. Whatever the penalty for hurting new players was, it must be quite steep, as all signs of fighting had stopped. Guards, soldiers, and even a few Haxlards began stepping out and examining bodies, gathering loot. The smoke began to dissipate. Whatever objectives the Ashes of Humanity had were finished, as Alan didn’t see a single member of the faction about—not that he could tell the difference between them and normal United World Government forces.
+
+It irked him. That he was in the dark. He had no idea what was happening out in the world, the galaxy, the universe. Whoever the major players were now—whatever they wanted—Alan had no idea. Perhaps that was the reason he was sprinting at the starting line.
+
+Alan slipped into the crowd as he headed towards the United World Government auditorium. Just another guard. As he looked around for possible sniper nests he wondered how hard it would be to break into an armory.
+
+Other players walking in the same direction were animatedly talking about the fighting, pulling out phones and tablets to take pictures or look up what was happening. From the sound of it, war had broken out all around the world.
+
+Recruitment images popped up on the side of buildings, holograms made to appear like system messages. Alan read one:
+
+Enlist:
+
+Join the United World Government Army and protect the world from an alien invasion!
+
+Rewards include: a stable and fulfilling career, the opportunity to bring new players into the Game, and unlocking your unlimited potential!
+
+Any faction choice could prove disastrous, not to mention the two players he’d need to guide. Alan remembered turning on every group. He’d abandoned Icewolf, committed terrorist acts against the United World Government, and had killed the crew of a Haxlard ship before stealing it.
+
+You are at neutral standing with all factions, Nu sent. Think of everything that happened before now another life. Grudges may be held, but you have a mostly clean slate. You should consult your new charges. They will likely have valuable input.
+
+Fine, Alan sent. Time to make new allies.

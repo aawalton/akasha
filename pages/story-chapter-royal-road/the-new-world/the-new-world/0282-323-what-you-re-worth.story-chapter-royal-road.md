@@ -1,0 +1,227 @@
+---
+id: 364f23f4-12f1-52ca-b687-3a158c7518e6
+page-type-slug: story-chapter-royal-road
+title: "323 What You're Worth"
+slug: 0282-323-what-you-re-worth
+partOf: the-new-world
+position: 282
+ownLength: 3141
+unit: words
+ownProgress: 3141
+publishedAt: 2021-10-10
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/764723/323-what-youre-worth"
+royalRoadId: "764723"
+markedReadAt: "2026-06-29T21:30:53.275Z"
+---
+
+Obolis closed his warp before peering out at the horizon, the distant clouds drifting. The Emperor gave it a nod, "It would seem your planet is fairing well. It's quite an attractive place, I must say."
+
+I stared with him, "It is...What are you here for?"
+
+"As always, you're down to business as usual, not that I dislike such a thing. I've come here to discuss the deal along with a few future offers for you if you're interested."
+
+I blinked, "I might not be, but we'll see."
+
+Obolis raised a finger, "I assure you that tempting prospects await. As for our deal, an update on our planets' situations should give you an idea of what to expect moving forward."
+
+I frowned, "I talked about it with Helios after one of my warping lessons. The ahcorous are excellent Hybrid killers as expected, though losses are still high among natives. Your albony were called off the frontlines, and the subsidiary planets are now fighting with the slimes and natives primarily."
+
+My frowned devolved into a grimace, "And you're exploiting a lot of the experience gained. It's an unpleasant thing to think about, honestly."
+
+Obolis's smile dampened, "Hm, that would be...Noteworthy, under different circumstances. Details aside, I can see you're establishing a network of cities on your homeworld. You've done that before doing so on Blegara even. It would seem I'm not the only individual devoid of favoritism, hm?"
+
+I tilted my head down to him, "Yeah, my people are being eaten alive, and I'm stopping it. You're making other people be eaten instead, and you're taking as many benefits as you can at the same time. It seems a bit...like leveraging your position."
+
+Obolis's smile ceased altogether, "It would seem you're no longer in a talkative mood. Perhaps I caught you at the wrong time?"
+
+I shook my head, "I'm busy but not in a mood."
+
+"Then I'd remind you that we're allies on amicable terms."
+
+I raised my brow, "If you say so."
+
+Obolis pinched the bridge of his nose, "Then this shall be the given atmosphere of this meeting. So be it. Our planets are doing very well since the ahcorous have stepped in. Your quick dispatch of Plazia is the reason for that, despite your initial delays. Despite your rudeness, I'm still grateful."
+
+"So, what are you going to give me in return?"
+
+Obolis's grin popped back up, "I'm glad you asked. I'll be adding three additional furnaces. It's quite the haul-"
+
+I raised a palm, "Woah now, I don't want three furnaces."
+
+Obolis leaned back, "Really? Three furnaces would enable a plethora of options for you, given your position."
+
+I smiled, "My position, huh? What is my position, exactly?"
+
+Sensing my challenge, Obolis raised his chin, peering down at me. His tone lowered, "You've recently acquired a planet, you've just ended a war you're still recuperating from, and you have one city on a world you don't even own."
+
+Obolis tilted his head, "From where I'm sitting, you seem to be rather precariously positioned. This sudden burst of confidence, while amusing, isn't going to change any of those realities."
+
+I scoffed, "So that's where I'm at, eh?"
+
+Obolis nodded, "As far as I can tell, yes. It is."
+
+I waved my arms, stepping over towards the monolith at the center of my city, "Guess how many of these cities I've made in the last two weeks?"
+
+Obolis walked around, interlocking his hands behind himself. He peered into the horizon, seeing several other pillars beaming mana from the skyline. the Emperor raised a brow, "Hm, perhaps two dozen?"
+
+"I made one hundred and fifty-two of them."
+
+Obolis froze in place. Despite his usual composure, he stuttered, "O-over a hundred of them?"
+
+I gave him a nod, "Yup. Five hundred-plus golems too. We've already amassed a growing population in some of the earlier centers I established, though there's still time left before people learn what's happening. By now, I've covered Michigan with them. It was my home state before Schema's collapse."
+
+I gestured at the large slab of granite we stood on, "And now it's where I've started the 'conquest' of my home planet."
+
+Obolis pulled his hands back in front of himself, "That...That rate of creation is absurd. You've truly outdone yourself."
+
+I stated, "You want to know how I've done it?"
+
+Obolis squeezed his hands together, "My curiosity is why I'm called the Finder of Secrets, so of course I'd love to know."
+
+I gestured to myself, "I'm using twenty-one furnaces right now. They're hidden under my skin."
+
+Obolis took a step back, the grizzled Emperor struck by verbal lightning. He took a breath, "Over twenty at a time? And your still alive?"
+
+I narrowed my eyes, "That's right. That's why I'm not too keen on three furnaces. I helped clear out several of your planets, places you'd lose otherwise. Planets give hundreds of millions of credits yearly. Four of those planets for a single decade is billions in raw credits. For that, you're giving me three furnaces in return?"
+
+I spit out my words with disgust, "You're giving me nothing."
+
+Obolis coughed into a hand before his tone rose, "You must include the skeptiles in that arrangement."
+
+I sighed before peering off, "You know, you mentioned thirty million people being there, right? I know there are billions of people on each of your planets. If I saved you four of them, then that could amount to a hundred billion people if the worlds were densely populated."
+
+I raised my brow, "The skeptiles are a sub-race on one of your planets. They're not even a main race by any stretch of the imagination. I know I agreed to them for saving your planets, but man...That's a low reward for what I've accomplished."
+
+Obolis raised a hand, "And what of Tera? He gained us a planet on his own."
+
+I nodded, "He's the skeptiles' crown jewel, the absolute pinnacle of their species. From what I've researched, he hasn't accomplished anything like that since. Nothing even close."
+
+As if caught, Obolis froze for a small, fraction of a second. He caught himself back onto an argument smoothly, "You killed Plazia in less than a day. Three furnaces in that time is surely a massive benefit?"
+
+"That's not how deals work. I accomplished a lot, and that deserves something of equal value. What can you offer me?"
+
+Obolis sighed, "I...I can grant you credits, cores, even cities."
+
+I pointed at him, "What about planets? Do you have any undeveloped worlds on the backburner?"
+
+His face gnarled up, "How many? You wish for more than a single world?"
+
+I spread out my hands, "Yeah. I fought with you on Blegara. You cut your losses before I turned the situation around. You'd of lost that planet and several others by now if I hadn't intervened. I want a fraction of what I helped you keep. They don't have to be developed worlds. Barren wastelands are fine by me."
+
+Obolis frowned, "I won't give you a planet. You couldn't even manage the world even if I did hand one over."
+
+I had two minds dedicated to the conversation. Three joined, "Oh, try me. Policing won't be an issue, and neither will the eldritch. I'll be able to create cities on a whim wherever I please, and I'm offering powerful legacies to those that join my guild."
+
+Obolis scoffed, "You're giving your legacy to anyone that joins your guild?"
+
+I nodded, "Of course. You don't? Wait, let me guess, it's only for the albony?"
+
+Obolis's eyes turned to slits, "Perhaps."
+
+"Yeah, I figured as much. Anyways, if you can't offer territory, what about obelisks?"
+
+Obolis spread his arms, "Well then, I see you've suddenly become reasonable. I can trade obelisks. How many do you require?"
+
+"I'll need one hundred advanced ones, the same models you gave Torix."
+
+Obolis let his arms slap against his sides, "I rescind what I stated. A hundred of them? You want a hundred advanced, AI-driven obelisks?"
+
+I pressed my fingertips against my temples, "What are you even willing to give me? If it isn't anything that matters, then why are we even talking anymore?"
+
+Obolis took a breath, "So you've suddenly decided that I'm an evil overlord worthy of ire, have you? Is that the reason for this sudden shift in your demeanor and personality?"
+
+I let out a breath, "I don't think you're evil, but I know you're taking advantage of me. I've recently gained peace offerings from two different parties, and their rewards dwarf what you've given me. It's not even close. That's despite me doing next to nothing for these two people."
+
+Obolis's nose twitched, "Hm, two parties then? The first is Elysium. That much is obvious. Who would the second be then?"
+
+Obolis's ancient mind whipped into action. He considered possibilities before his jaw slackened, "You...You made a deal with Plazia to leave Svia, didn't you?"
+
+I kept my expression muted, but Obolis could tell the truth either way. He gave me a wide grin, "Hah, clever...Very clever. You came intending to wage war, but instead, you did dealings. I intended on getting one over on you, and yet, you've done the same to me."
+
+Obolis's fangs glinted white, "I must say, Daniel, I'm impressed. Deeply. Is this where this newfound confidence came from? If so, perhaps it's more earned than I anticipated."
+
+I spread out my hands, "It wasn't from the deal, but it did lead to some understandings on my part."
+
+Obolis gave me a sideways glance, "Hm, your secrets are your own. You're in a position to keep them as you wish. However, you've already obtained quite a few net benefits from this deal. The animosity I'm receiving seems undeserved; at least from my position, it would seem so."
+
+I sighed, "Obolis, let's just spell out some facts here. First, at no point did I ever need your help. Remember, I joined into an alliance with you because I was fighting Elysium at the time. You happened to need my help because you were attacked, and I've helped defend you. I chose not to ask for anything in return because I assumed you'd offer me something of equal value."
+
+I grimaced, "I was wrong. You're holding out on me even though I've done what I've done out of goodwill."
+
+Obolis's fur ruffled in the wind, "I gave you a planet and an entire species. You even have two able subordinates because of me, and I've given you an elemental furnace. That's quite the sum already."
+
+I pulled his furnace out of my chest, floating the antique in the air, "This thing, right? I've used quite a few furnaces by now, and I have a 'feel' for them. This one, it's awful. It's choppy, out of date, and poorly made. It's older and worse than all of my other ones. Ancient? Psh, this is a junky furnace. That's what it really is."
+
+I raised my brow, "So you gave me an offhand relic you probably can't even use. You weren't going to hold Blegara either, and if anyone knows that, it's me. Even your subordinates weren't the cream of the crop."
+
+Defiance formed from Obolis's eyes, "Despite that, look at how useful they've been to you. You've made Florence into a true utility, and Helios's warping has been indispensable."
+
+I raised a hand, "Helios was put under me as a punishment. Florence was an offering on top so you could get him out of your hair."
+
+Obolis rolled his eyes, "Look at this, you've caught me. You're correct. I managed my situation so that I wasn't put at a disadvantage. It's the albony way, and yet, despite my positioning, my 'poor' deals have worked wonders for you."
+
+Obolis pointed the finger at me, "You've turned every situation I presented you with into an advantage. Despite that, you're whining to me of unfairness while giving me an attitude. It's childish, and it demeans you as the Harbinger. I expect more from you."
+
+I raised a hand, "See, that's exactly my point. You never put me in a good situation. You took advantage of me, and I turned each and every situation around. I never stomped on you to make it happen, either. No matter the circumstances, you still ended up on top."
+
+Obolis put a hand onto his graphene chest plate, "How am I on top? My planets are besieged by strong forces, and two of my strongest subordinates are under someone else."
+
+I counted on fingers, "You kept planets you had no right to keep. Blegara's still a guaranteed resort and source of resources like you wanted, and the albony don't even have to fight anymore. Florence floundered in the Empire, and the only person you really lost was Helios. And it isn't like he's been under me for years or anything like that either."
+
+Obolis stared at me with disappointment, "I believed that we could've arranged a long relationship with many gains for both parties. It seems your intent on severing it."
+
+I raised a brow, "I never mentioned severing our relationship - I mentioned changing it. This reward is for saving four or more of your planets. It should reflect that. Either give me what I'm worth or just leave. I don't want to waste my time here."
+
+Obolis stayed in place, not moving a muscle. He considered what I said before taking a deep breath. He ruffled the fur on his head before groaning.
+
+He pulled his fur back before sighing, "Hah...It would seem my attempts at retaining our previous style of transactions were in vain. Fine. I'll relent. Your suspicions are correct; I have sold you short on numerous occasions, and it's done you little in the way of service."
+
+His expression was like he swallowed rotten milk, "Gah, I'll grant you better terms moving forward. It would seem you're no longer a backwater savage, and you've decided to gain some perspective."
+
+I blinked as Obolis acted like a different person. All of a sudden, his personality changed. Instead of being this esteemed royal, a more rugged air came over him. This person carried war on his breath and brutality in his hands. I gave him a smile, "A bit of fairness is good. It's all I'm asking for."
+
+Obolis spread out his hands, his previous politeness gone, "I'll give you thirty furnaces, four billion credits, and another conscripted albony royal. It can be anyone aside from my generals and me. Is that enough?"
+
+I held back my surprise, keeping my expression tame, "Now that's more like it. That'll do nicely."
+
+Obolis opened his status, "Is there anyone, in particular, you'd prefer? I'd rather you not take Alastair or Victoria, but I'll do it if I must."
+
+I grabbed my chin, "I'd like...Hm." I peered up. My eyes widened as the answer came to me, "Yeah, I'll take Ophelia."
+
+Obolis scoffed, "Ophelia? You know she wishes to be a tailor more than a magician, don't you?"
+
+"Eh, she's a lot like Florence. Undervalued and in the wrong place."
+
+Obolis opened his status, and he smirked, "If you wish to turn another situation around, then be my guest. Speaking of which, when do you want the skeptiles sent over?"
+
+"In six months."
+
+Obolis rolled his shoulders, "That's acceptable. I'll have it handled forthrightly. Would you like to hear my offers for further work?"
+
+I tilted my head, "You still want me to handle tasks for you?"
+
+Obolis rolled a hand, "Yes. It's as you've said. I took advantage of you, but that doesn't mean the only deals I want are lopsided. Honest dealings are fine when forced. Since you've done so, I'll still tell you the tasks I require solving."
+
+Obolis shrugged, "And aside from that, you rid Svia of Plazia in record time. Regardless of your method, the reality came about. If you handled other tasks of such magnitude so quickly, I'd have nothing to complain about. I'd give you awards like this current one."
+
+I peered at the horizon, Earth seeming small to me, "For now, I'm focused on establishing my planets."
+
+Obolis scoffed, "As if you'll gain anything from them. This place will be akin to a wildlife sanctuary by the time you finish muddling it with various races."
+
+I gave him a thin smile, "Oh, we'll see about that."
+
+Obolis's eyes tightened, "Then do as you wish." Obolis pulled out a spatial ring, one of many hidden on his person. He frowned while handling a few transferences between them, moving the required furnaces and credits. He sent a few messages while tossing the ring at me, and I caught it. Obolis turned towards the portal.
+
+He murmured, "Well, It's been a pleasure up till this point. Now it's more of a necessity, but perhaps it's better that way long term. Regardless, goodbye, Harbinger. May you be well."
+
+He stepped out of the warp, the ripple clashing shut. As the Emperor left an immense silence behind him, I raised a fist. I swung it in celebration before doing a little dance. This was the first deal I made on the galactic scene where I wasn't swindled. It wasn't exactly the best position to be in, but at least I progressed.
+
+Taking a breath, I let out all the tension from the talk before pulling up the ring. I pulled out the furnaces, marveling at the supreme sigils in each of them. Weeks ago, I owned one of them. Now, I commanded dozens of them. The credits let me hire and train people for my imperial expansion, and Ophelia was pivotal for improving the golems moving forward.
+
+I contemplated other avenues of improvement. I'd have golems continue scouring the trenches of Blegara for the omega strain. Finishing the city establishing might take a while, but it put Earth in an impervious position. Even a Spatial Fortress would struggle taking Earth if cities and golems covered it so densely.
+
+Taking two more furnaces in hand, I fed the hungry incantations with my flesh. They gave me energy in return, and I gazed at my work. For hundreds of miles, rising pillars from my cities shot out and up. I had made excellent progress so far, but it would take years to cover Earth with these cities.
+
+I stared down, wondering at different ways to amplify my efficiency. One method kept shouting out at me - Time magic. That could turn years into months or even weeks. While I parsed through some of Plazia's runes, they still left me confused in different places. However, other avenues of approaching this problem crept up. One of them was Amara, as she worked with Schema's system before.
+
+She may do so again. It was about time I had a talk with our eldritch Builder.

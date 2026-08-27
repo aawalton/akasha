@@ -1,0 +1,237 @@
+---
+id: 0898c0f9-d1ef-57e0-847f-5ceb592c6f80
+page-type-slug: story-chapter-royal-road
+title: "343 Hell Hath Opportunities"
+slug: 0302-343-hell-hath-opportunities
+partOf: the-new-world
+position: 302
+ownLength: 3651
+unit: words
+ownProgress: 3651
+publishedAt: 2022-06-07
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/922742/343-hell-hath-opportunities"
+royalRoadId: "922742"
+markedReadAt: "2026-06-29T21:31:33.537Z"
+---
+
+Shalahora seethed, his claws brandished, "I believe Valgus intends to do something with the bones here."
+
+Shades rushed our direction from outside the city, and Shalahora turned to them,
+
+"And I shall uncover exactly what that something is."
+
+Chapter Begin
+
+I pondered aloud, "I might know what he's up to."
+
+Shalahora lowered his arms, the condensed limbs dispersing, "And what would your thoughts be?"
+
+I peered up, using memories of Valgus as a reference while I spoke, "From what I recalled, Valgus had a few unique properties. Laying those out can help us get a grip on his goals. Firstly, he allied with Baldowah as an Avatar. He loved fighting. He also wanted a group of people to help him. In that case, those actions let us guess his goals somewhat."
+
+Shalahora lowered his arms, "They do. Baldowah's warriors all strife for combat and war. As Valgus stated to you, they wish for the finality and consequence of battle. It's the means to Baldowah's end, though why an Old One tampers with us to such an extent is unknown."
+
+I remembered touching on Eonoth's mind once, and it was incomprehensible. I shrugged, "I've met two of Old Ones, but I still know next to nothing about them. Either way, Valgus is trying to set up conflict and battles. That's safe to assume. If so, why is he terminating the wandering rulers first? It seems to go against his personality. Even if he's not the sharpest tool in the shed, he didn't seem to pick on the weak. I think he'd prefer crushing the strong."
+
+Shalahora oozed onto the chair I laid out, "I knew little of him before the lottery, but he was a fair warrior in those times. Perhaps he fought duel after duel, steadily eliminating the other rulers?"
+
+I shook my head, "From what you've described, it was a systematic annihilation. That requires grouping with other rulers and killing the stragglers en mass. In fact, I probably wasn't found because I holed up here."
+
+I thanked my foresight to avoid those problems, and it allowed me to learn time magic and establish cities unimpeded. Snapping me out of my thoughts, Shalahora said,
+
+"Then perhaps Baldowah gave him a different command than normal? Besides that, I mentioned him eliminating competition. Is that so difficult to believe?"
+
+I blinked, "Well, yeah."
+
+"What makes you believe it is so?"
+
+"It's simple: Valgus hasn't acted for his gain since I met him. He tried pulling you over to his side, yeah, but he threw that away because he wanted to test me. His priorities revolved around a strong fight like you mentioned, and he'd have gotten one if he faced the survivor's faction. Avoiding that just doesn't make sense."
+
+Shalahora mused, "He's cultivating a better fight then. That's the only answer."
+
+I raised a hand, "He could be hoping to bundle all of the rulers into a single location then take them on in a large-scale battle. In that case, he's gotten the rulers all together to war against them. Still, I can't imagine him working so hard to kill rulers just for his lottery rankings or a good fight. If anything, the survivors aren't even in the running, and from what you've described, they're weak."
+
+I gestured to my city, "They can't match this or what you've gotten either, surely. Even then, the eldritch here are a great fight if he's looking for that. The ossuary would be a haven for any battling lunatic."
+
+Shalahora's eyes narrowed towards the floor, "That's certain. Hm, then Valgus is aiming for something else. It's a question of what that goal is."
+
+In the distance, two primevals fought, each a walking calamity. I turned a palm to them, "The primevals, maybe Valgus doesn't want to fight them. Maybe he wants to control them."
+
+Shalahora stared at them, "You call them primevals? And you think he's avoided fighting them?"
+
+I tapped my side, "Yeah, primeval is as good a name as any, and Valgus probably has been duking it out with them. I just don't think that's his goal. I bet he's trying to control them."
+
+Shalahora leaned back, "You believe his psionic techniques are that powerful?"
+
+I nodded, "It's not as hard as you think. I've turned three primevals into my own henchmen, so it can be done. It's not easy, though, and Valgus is probably struggling with the process." My eyes widened, "Unless he's not subduing full strength primevals."
+
+Shalahora scoffed, "If there is one undeniable facet of these primevals as you call them, it is their tenacity. How would one weaken them?"
+
+I opened my dimensional storage, pooling out the liquid rainbow bone, "He could use this."
+
+Shalahora reached out, "What is it?"
+
+I jerked the liquid away, and I snapped, "Woah, I know you're powerful but don't be reckless. This stuff kills the mind of whatever drinks it. The giant bone beast below uses it to control primevals...Well, at least I think it does."
+
+Shalahora condensed his foggy form and stretched out two arms, "Uhm...What?"
+
+I frowned, "You know, I told you what I've done here, but not how it all works. Let's start with why this is the ossuary."
+
+I detailed what happens here, from the behemoths dying, the bones piling up, and the strongest behemoths evolving into primevals. Adding to the tale, I mentioned parts about the underground tunnels in the giant bone beast, its gamma bursts, and how it seems alive. Hm, well, kind of. Honestly, it was hard to say.
+
+Shalahora grappled with the concept while murmuring, "It's alive then? It responds to a psionic stimulus, so it at least carries a mind, though it is a bit disparate."
+
+He peered down, "And...You built a city on it like a parasite."
+
+I scoffed, "If a planet was alive, then would people be parasites? My point is I'm not affecting this thing's bottom line. Even with a hundred cities, I wouldn't be taking one 100th of a percent from this thing's energy accrual, which seems to be its goal. Anyways-"
+
+I reached up a hand, using the psionic network in my cities to open the barrier for Shalahora's shades. They waited outside as we kept talking. Freed from the barrier's blocking, the shadows flowed towards the Sovereign. They empowered him with knowledge and granted him his entire mind's ability.
+
+Once consolidated, Shalahora's eyes deepened in color, from sky blue to navy. He nodded, "You're right about Valgus. I've searched thousands of miles of territory, and I found his presence within the ossuary, as you call it. He's near the entrance from the desert, nestled in the bone tunnels."
+
+Shalahora's gaze turned distant, "He's amassing rainbow bone and primevals alike. It is similar to what you've done, but he's grouped with many rulers. They assist him, all of the members splitting the blue core bounties. It seems Valgus is uninterested in that, and he takes the rainbow bones instead."
+
+I frowned, worrying about some primeval army in the distance or worse. Before thinking of the next issue, I grabbed my chin. From the sounds of it, Valgus grouped up with a couple dozen rulers minimally. If Shalahora and I got some allies, we'd stand a better chance of fending Valgus off. Peering at my golem armada, I preferred that approach instead of having my golem army destroyed.
+
+I spread my arms, "How about we go meet up with the other rulers and see what they're up to? I think we can get a lot out of their situation as well."
+
+Shalahora scoffed, "They're wounded animals licking their wounds. They offer us nothing."
+
+"Not necessarily. Let me show you how it's done."
+
+We stood before floating out of the spire and over my city. Before heading outside, I raised a hand, "Let me check on something first. You're welcome to join me."
+
+"Then I shall."
+
+I headed over towards the city run by my primordial golem. I flew into the underground tunnel, Shalahora following behind me. We passed the cipheric tunnels, which reminded me of my time in BloodHollow. I wondered when I might match Baldag-Ruhl's cipheric knowledge. Peering down at my hand, I smiled at myself.
+
+Probably never.
+
+Shalahora and I flew into the city run by the director golem. Dispersing primordial mana, the leading construct turned to me before bowing. It telepathically thought over, "Ah, creator, it is grand to see you. I see that you've brought over a friend. Might I ask what your name is?"
+
+Shalahora bowed to the director, "I am Shalahora, the Sun Swallower. I allied with Daniel before my arrival here, and we've found one another once more. It is good to see he doesn't work alone and those that toil for him are loyal and just."
+
+The director raised his hands, "While I appreciate the sentiment, I'm only trying to keep the situation stable. Now, I've gathered the cores for today's yield, creator. I can give them to you whenever you'd like."
+
+I opened my dimensional shield, and the primordial golem raised a hand, "One moment."
+
+The director raced over towards the city's center, having built a holding cell for the blue cores. Taking out a bunch of them, he toted them in a gravity well. Once over, the director lunged down and raised his arms to me, presenting the gift,
+
+"Please, accept these."
+
+I swiped them into my storage, "Well done."
+
+"Thank you, creator."
+
+Shalahora's form condensed more, and the shade gazed at the orbs, "You mentioned cities, but never how many. It seems many by that tribute."
+
+"I've amassed twenty-four of them and counting. I planned to continue making them until the end of our arrival here, but the survivor faction has gotten me curious. I think they present a good opportunity, and we shouldn't miss it. Believe me, they won't want to miss our opportunity either. Let's head out."
+
+Shalahora bowed once more to the director, "It was good to meet you. May we meet under bright stars next time as well."
+
+The director gave a deeper bow, "Most certainly. Good day to you both."
+
+We raced off, and I counted the cores. Forty-six jingled around in my pocket dimension while we traversed the ossuary's depths. Without anything holding either of us back, we bolted forward until our surroundings blurred. While doing that, I shook a fist in celebration at the newest director. That humility addition really paid dividends, and the director increased core output by nearly 50%.
+
+It was an incredible boon, and Shalahora gave me a nod of approval while we traveled. The shade thought over, "While I would've helped you out of the depths given our alliance, it is good to know my ally is capable."
+
+Remembering the scouting and info from Shalahora, I reached out a fist, "Same here."
+
+Shalahora peered at me before giving me a fist bump. I gawked at my hand before blinking at him. So far, no alien matched my hand gestures, all of them messing up the handshake entirely. Somehow, Shalahora nailed it, so I murmured,
+
+"Huh...How did you know to do that?"
+
+The shade replied, "I speak via telepathy, and you know this. However, there are surface-level details and memories that people expose during telepathic links. For me and my kind, it is considered proper to peruse the available information and use it while speaking."
+
+From above, a behemoth howled out and interrupted our conversation.
+
+Shalahora gave the behemoth's shadow life. The living shade consumed the behemoth in one gulp before running into the light. Both entities died the moment they touched the shining ray, and they wisped into shining fragments that howled on death.
+
+It was hauntingly beautiful.
+
+Shalahora gazed at the erupting of sparks, "My kind are shadows, but what is a shadow really? They are the darker reflections of a person, that which doesn't see the light. My kind reflects onto those we speak with, acting as umbral mirrors."
+
+Shalahora met my eye, "My kind are shadows, both in how we look and how we live."
+
+I'd of taken it entirely differently if he'd lied about his intentions, but he told the truth. I checked the telepathic link, finding a few memories from the shade available for me to review. They included a solid grip on galactic time, memories of the survivor's defenses, and information on dungeons here.
+
+Worried he'd gotten my entire life story, my eyes narrowed, "How much can you read from my memories then?"
+
+"Whatever you don't wish to hide, I may see. You glory against Yawm, the battles with Elysium, and even your knowledge of the cipher, you parade it in the open. You also hold pride in your kind and old culture, one from before Schema lived. It colors your perspective like any great painting, adding depth to the trials you've faced since the culling of your world."
+
+Shalahora continued, "But there is much hidden, and I will not pry into those details. I would expect the same courtesy."
+
+Testing the waters further, I peered at Shalahora's memories. The amount he shared was far more than the life I'd lived, and I had no idea what kind of hornet's nest I got myself into. This Sovereign lived a long life, and he experienced many things. If I inspected all of this, I might end up swamped in the centuries he'd taken in. My own ego might wash away like the eldritch I destroyed prior.
+
+I gave him a nod, "Then I'll make sure to avoid the topics you'd rather not touch."
+
+"Likewise."
+
+The conversation ended, and we traveled in silence. We crossed over the entirety of Leviathan-7, its sights and sounds numb to me compared with my first passing. Time magic explained some of that distance, but the other part revolved around how I traveled. The entire time we dashed forward, I built more primordial golems.
+
+While it was a strange way to pass the time, the activity put the blue cores to good use and wasted none of this interim. After several hours, I constructed twelve more primordial hearts. I also precharged twelve sets of cipheric runes for them, having stored the glowing letters from my grimoire in my pocket dimension. That was something I learned during this trip - my pocket dimension carried infinite uses. It was up to me to find all of them.
+
+One of those utilities was easing the bottlenecks of golem construction. In this case, building the golem's body took about three seconds or so after designing it. I'd mold myself into the necessary shape before leaving the body. Boom, done and done. Having spent my time wisely, I arrived in a good mood as the survivor's camp came into view. Seeing the ruler's state changed that attitude to one of confusion.
+
+The survivors camped in the same area I spawned in. On this shadier side of the world, Leviathan-7 resembled an actual planet with creatures and a sensible ecosystem, though problems still lingered. The air compressed, gravity crushed, and eldritch fought. One aspect that most life shared here was the encapsulated gas bubbles.
+
+The thin air in the sacks pulled them up, using the dense atmosphere to their advantage, and the rulers did the same. They holed up in an advanced, gray fortress, a pyramid with many chains pulling up on it. Those cables connected to harvested air sacks from nearby wildlife, which helped keep the fort afloat.
+
+Where it could be seen, the dull, gray surface sheened despite its rough texture, reminding me of Schema's ships during his battle with Elysium. That gray substance composed the pyramid's walls, peak, and the writhing, interlocking tendrils moving on it. Marring the edifice, blood, gore, and guts cooked on the building's surface, drawing in Behemoths that attacked the immobile building.
+
+Fighting back, the building's mobile spines snapped at each incoming behemoth. From within, a colorful cocktail of magic exploded the behemoths. All elements erupted outward, and a colorful cacophony of sounds muted under my time magic and the behemoth's insulating corpses. I blinked, the brutal display ending with intestines, organs, and roasted flesh falling off the graphene tendril.
+
+The cooked corpse fell onto the pyramid's wall, the slick blood congealing in seconds. Stuck on there, the unblinking eyes of the behemoth sunk into its skull while it emaciated out from every wound. The heat of Leviathan-7 sapped the water from the beast, and those desiccated bodies covered most of the gray substance composing the pyramid.
+
+After peering close, it was probably graphene, something Schema used for his ships, Overseers, and even the Sentinels. These rulers wielded that same technology, and they composed their bastion with the carbon supermaterial. It was a good choice; traditional materials crumbled under the augmented weight on Leviathan-7.
+
+Understanding the engineering constraints of that gravity, the developers of this dystopian structure sided against any windows. Considering the insane radiation levels here, any kind of covering was essential. To my knowledge, graphene wouldn't deflect the intense radiation from Leviathan-7.
+
+They needed something like lead to block it, and it would be so heavy that even graphene composites would struggle to hold up the weight. Peering at the chained air sacks, that might be why they used those as counterweights. Either way, answers waited for us inside.
+
+Shalahora and I got near the structure, a bit outside the writhing tendril's range. Once there, Shalahora connected to the others telepathically. The writhing shadow stated, "I am here, and we've come to discuss with the rulers present."
+
+My eyes narrowed when Iona Joan answered, the bubbly administrator somehow surviving, "It's good to see you, Shalahora. We're glad to have you back. If you wouldn't mind answering, who is that beside you?"
+
+Shalahora condensed an arm and gestured it to me, "This is Daniel, the youngest ruler here and a fellow Sovereign."
+
+The cheerful voice replied, "Ah, it's so good to see that he's fine. I knew he was tough, but wow, he's even tougher than I imagined. You know what? That's fantastic. Just great, really."
+
+At this point, it sounded like she was convincing herself. I joined the conversation, "Hey, it's good to see everyone in one piece. Do you mind letting us in?"
+
+Her voice answered, and from her tone, I got the image of a receptionist locked into a permanent grin, "We would love to have you here, but before we offer protection, there's a series of contracts I'll need you to sign. We can't just offer this place to anyone because of the costs of maintaining it."
+
+I scoffed, "I'm not here for safety. I'm here to offer it."
+
+Iona flatlined, "If you intend to try and take advantage of our situation, I'd recommend you go elsewhere. We're doing just fine here, thank you very much."
+
+I raised a brow while crossing my arms, "Do you speak for everyone? And you're certain everything's perfect inside?"
+
+In the distance, a behemoth bit into one of the air sacks above the pyramid, bursting the gas bubble. Gray tendrils pierced it from multiple angles before destroying the eldritch, but the chain fell down, rattling on the pyramid's surface. I pointed at it,
+
+"How many more of those mishaps can you guy's handle before your building topple? I have a few solutions I'm trying to offer here, but you're not exactly making this easy."
+
+Iona Joan simmered, "We're fine, so you can leave."
+
+Tilting my head at Shalahora, I mused, "Huh...Were they this combative before?"
+
+The shadowy figure ruminated back, "No. They've grown far more defensive with time. I expected some of this, but not to this extent."
+
+I sighed, "Well...It seems like they're not willing to-"
+
+A different voice weighed in on our telepathic conversation, this one far gruffer. However, it still sounded like a woman's voice, "We're more than willing to discuss terms and deals for different offers. Please, come inside, and the entrance is below the surface. You can show him, Shalahora."
+
+Shalahora dove downwards, and I followed. We dove under the dirt and phased through it while I burrowed. After getting underneath the building, I got a better understanding of its full bearing. The structure wasn't a pyramid; it was two of them stacked on top of each other. The resulting diamond prevented the surrounding dirt and rock from crushing the subterranean lair.
+
+We reached the bottom of this fortress, heading towards an entrance of sorts. A graphene cage held the rock from collapsing inward, and it opened at the bottom. We burrowed into it and stayed there until a tunnel of pure energy pierced into the dirt below. Primordial mana composed the magic, the tube terraforming the air, the pressure, and the gravitation.
+
+I followed Shalahora, who floated into the tunnel. Like a net, it wrapped around us before pulling Shalahora and me into the lowest section of the building. There, a flat panel locked behind us, sealing us in. I peered around at the futuristic room with long plasma lights. They hummed, the constant white noise masking all other sounds.
+
+Feeling like a caught fish, I pushed against the primordial web. It restrained my push before the energy strands changed into quintessent chains. Strengthening many times over, the net tightened over Shalahora and me. The shadowy Sovereign wisped out of the restraints before the energy held me in place. Burning my skin, the power hissed out with the smell of burning sparklers in the air.
+
+Interrupting my thoughts, Shalahora simmered, "What is this? You intend to fight us?"
+
+Iona Joan walked out, her angel wings interlocked behind her. Several other rulers paced behind her, each looking like members of a council or guards. The bubbly ruler walked up and gazed at me, a smile on her lips and a twinkle in her eye,
+
+"Calm down, Shalahora. We're just making sure he's trustworthy." Her eyes narrowed,
+
+"Well then...Tell us everything we want to know...Mmkay?"

@@ -1,0 +1,175 @@
+---
+id: d3456629-56cb-5dff-9065-312763e39377
+page-type-slug: story-chapter-royal-road
+title: "Chapter 479: The Menagerie"
+slug: 0046-chapter-479-the-menagerie
+partOf: rise-of-the-living-forge
+position: 46
+ownLength: 1958
+unit: words
+ownProgress: 1958
+publishedAt: 2025-09-08
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2584730/chapter-479-the-menagerie"
+royalRoadId: "2584730"
+markedReadAt: "2026-06-29T19:59:54.955Z"
+---
+
+“What is she…” Arwin started, still looking back at the door that had closed between them and the dark room, where Esmerelda had been left alone with Mask.
+
+Rodrick put a hand on Arwin’s shoulder. “You don’t want to know. Trust me. I asked once. While I was trying to figure out what she was capable of. And I’ll say it again. Trust me. You don’t want to know.”
+
+“Right,” Arwin said slowly. “Is everyone in my guild secretly a terrifying monster walking around in human clothes? And do you all feel like you need to protect me from that because my sensibilities won’t hold up to finding out?”
+
+Rodrick just patted him on the shoulder. “You’re a good man, Arwin. Stay that way. There are a few of us that can never become that again. Let us keep the burden for you. Gods know you’ve already got enough of that on your back.”
+
+“And I’m still a monster when I take my clothes off,” Lillia said. “I can hope you can attest to that.”
+
+Arwin coughed into his fest as Rodrick arched an eyebrow.
+
+Raya’s nose scrunched and she laughed as she held her hands up before herself defensively. “Ew. I don’t need to hear that. You’re both too old.”
+
+“Old?” Arwin exclaimed. “I’m only a few years older than you are! And you’ve pointed that out yourself! Multiple times!”
+
+“Only when it suits me.” Reya stuck her tongue out. She pressed her back to the wall, then waggled her fingers at them. Then her form rippled, turning translucent as she slipped through it and vanished.
+
+Arwin stared in disbelief at the spot where she’d been standing a moment before. Then he glanced at Lillia.
+
+“Am I old?”
+
+“I’m the same age as you,” Lillia said. “Am I old?”
+
+“I’m not answering that question.”
+
+Rodrick let out a snort and gave Arwin an approving nod. “Nice. Good— ow!”
+
+He glared at Anna, who looked away innocently as if she hadn’t just prodded him in the side with her elbow.
+
+“What?” Anna asked. “Were you saying something?”
+
+“No,” Rodrick said, ruffling her hair and chuckling. “Nothing at all. We should probably be off. There’s more to be done. A lot more. But first—”
+
+“Hold on,” Arwin said. He glanced over his shoulder at the closed door, then shook his head and returned his attention to Rodrick. “Don’t get too far ahead of yourself. We know the Guild is doing something in the Guildwall, but that’s not a place we can just traipse into. We’ll die. Even your disguises won’t get you far.”
+
+“Oh, I’m well aware. I’m not suicidal,” Rodrick said. “We need to get stronger. A lot stronger. In every single way.”
+
+“That always seems to be the case, doesn’t it?” Lillia asked with a wry smile. “But we’re always doing that anyway.”
+
+Arwin nodded. “Yeah. But we’ve got a pretty good way to keep moving right now. I think we should relent on the Guild for a little. We need to be careful here. I know you want to keep digging, Rodrick, but if we bite off too much, we’re all done for. I won’t risk any of you.”
+
+Rodrick shook his head. “Well—”
+
+“We’ve got other things to do.” Arwin said firmly. He was pretty sure he heard a scream come from the room behind him, but he pointedly ignored it. “The Blacktongues gifted us with access to that vault. We’ve got new deals to solidify, and—”
+
+“Arwin!” Rodrick exclaimed. He grabbed the other man by the shoulders. “By the gods man, I know. You’re wound like a spring. I’m not heading off to do more work. I’m going off to do unspeakable things to my wife.”
+
+Arwin blinked. He looked from Rodrick to Anna, then back to Rodrick. “Oh.”
+
+Anna gave Arwin a thumbs up.
+
+Rodrick glanced at her.
+
+“What?” Anna asked. She lowered her hand.
+
+Rodrick just shook his head, a grin crossing his lips. He scooped Anna up, tossing over his shoulder as she let out a surprised — but not particularly displeased — yelp.
+
+“Be seeing you,” Rodrick said as he strode for the stairs. Anna waved to them over his shoulder as they ascended up to their room.
+
+There was a thud a few moments later as they closed their door behind them.
+
+Arwin and Lillia were silent for a few moments. Then Arwin scratched the back of his neck. He glanced at Lillia, only to find her arching an eyebrow in his direction.
+
+“Were you about to go work on your armor?” Lillia asked. There was something in her voice that made Arwin hesitate for a second before giving her an answer.
+
+“Well… I was planning on getting some work done, but there’s no huge rush. It’s just going to be some analysis of how the Gehenna armor fared during the battle. Nothing that has to be done right now.”
+
+Lillia grinned.
+
+***
+
+About an hour later, Arwin headed out of Lillia’s room and made his way over to the Infernal Armory, a small grin still lingering on his lips. He was a fair bit more tired than he had been after he’d gotten back from the party — but strangely enough to anyone who might have been looking in — quite a bit more energized.
+
+Maybe we should take more lessons from the way Rodrick and Anna handle themselves. They seem to know exactly what works.
+
+The Infernal Armory was waiting for Arwin when he returned. It closed the door to the inner room behind him the moment he stepped inside, manifesting itself within a pillar of twisting red smoke.
+
+“You made me wait,” the Armory said, a slight note of displeasure in its voice. “The Den informed me that you arrived some time ago, and your business with the Adventurer’s Guildsman was concluded quickly.”
+
+Arwin adjusted his shirt. “I was otherwise occupied.”
+
+“That’s one way to put it,” the armory said irritably. “I don’t understand humans. Don’t you already spend half of the day in bed? Why do you want to lie in it for extra—”
+
+“We don’t need to spell it out, okay?” Arwin asked, his eyes narrowing. “I didn’t say what time I’d be coming back. And don’t snoop on what I’m doing by asking the Den.”
+
+The Armory grunted. “How would you like it if I got in bed with the Den and wasted a ludicrous of time?”
+
+“Can you even — you know what? Never mind. I don’t want to know. Now stop acting like a brat. What’s gotten into you?”
+
+There was a moment of hesitation. Then the pillar of red shifted to the side, almost as if in embarrassment. “I… got hurt. I did not enjoy it.”
+
+Arwin blinked. “What? Hurt? You?”
+
+“Yes,” the Infernal Armory said. “The Guild’s dagger. When it cut the Gehenna armor, it managed to injure me as well.”
+
+“Badly?” Arwin asked, worry cutting through his thoughts. “Is it—”
+
+“Approximately equivalent to a thin scratch for you,” the Armory said sheepishly. “But it hurt. I am not used to this sensation. Pain is not an emotion I know. There is no significant damage to me. I have already recovered from it. It simply made me displeased.”
+
+“Well… just say that next time,” Arwin said with a small sigh of relief. “I’m glad you’re okay. I can’t be losing you. It’s pretty concerning that those daggers can injure you. Do you think it’s the daggers specifically? Or do you take a small portion of the damage that the armor does?”
+
+“I am uncertain,” the Armory admitted. “But I believe it to be the latter. The daggers may simply do more damage. They target magic directly, and our connection is pure magic. Unlike the purely physical connection you were making with—”
+
+Arwin glared at the armory, and a distant laugh rolled through the roiling red mist.
+
+Lovely. It’s developed a sense of humor. Just what I needed.
+
+“What, are you going through your teenage years all at once?” Arwin grumbled. “Stay on topic. Now, do you want to take a look at the Gehenna armor to see how it fared, or are you going to keep being jealous?”
+
+“Jealous?” the Armory exclaimed. “I am the perfect being! An optimized cauldron of creation that brings forth to weapons never before seen in this realm, so long as you give me the proper attention! How could I be jealous?”
+
+Arwin stared at the mist for a moment. Then he burst into laughter.
+
+“Holy shit. You are jealous.”
+
+“I most certainly am not. I do not know the definition of the word.”
+
+“Yes, you do,” Arwin said. “You’ve got all the knowledge I have. But you’re a building. You definitely aren’t into — oh, shit. No way. You can’t be serious.”
+
+“Stop,” the Armory said. “Don’t do that. Don’t look at me like that. It’s… unsettling.”
+
+“The Den?” Arwin asked, aghast. “You’re into the Den? I mean — it makes sense, but how does a building even—”
+
+“I can make a body!” the Armory protested. “That’s what we did! We made me a body!”
+
+“You are not going to boink the Devil’s Den in my armor,” Arwin said flatly.
+
+“It’s my armor,” the Armory countered. “I can do what I want in it.”
+
+Arwin opened his mouth. Then he paused. That was a fair argument, actually. The armor was meant to let the Armory roam around as it wanted to. He’d been under the impression that would largely be for fighting, but apparently his forge had more desires than just bloodlust.
+
+That’s actually probably a good thing. Not that I want to be thinking about how two buildings get together — much less what would happen if they did — but at least the Armory isn’t a complete bloodthirsty psychopath.
+
+“Fair enough,” Arwin allowed. They were both silent for a few moments.
+
+“Do I get the Den flowers?” the Armory asked quietly.
+
+“Oh hell no,” Arwin said. “I am not becoming the de-facto romance advice distributer. I could barely help Reya. How do you think I’m meant to help you? You’re a building! The Den is a building! How could I know what to do?”
+
+“It’s your fault I don’t know what to do,” the Armory protested. “I’m born from your knowledge. And who else can I ask? Wallace? Koyu?”
+
+“Certainly not,” Arwin said with a grimace. “Does the Den even actually talk? I’ve never heard it.”
+
+“Not in the same way I do, but the Den talks,” the Armory replied.
+
+“Then maybe you should ask what it would like,” Arwin said. “Seems better than trying to guess at it with the help of someone just as blind as you are.”
+
+“You can do that?” the Armory asked in surprise. “It’s allowed?”
+
+“I don’t think there are rules for this,” Arwin said dryly. “Now… are we going to look at your armor or not?”
+
+“Yes. Yes, the armor.” The red smoke shifted in what Arwin suspected was its best attempt at giving him a hurried nod. “We should do that now. I need time to think.”
+
+Arwin’s lips twitched in amusement, but he didn’t say anything else. He just summoned the Gehenna armor from [Arsenal]. It materialized in the air before him.
+
+And, as he and the Armory got to work inspecting it for any lasting damage from the fight against Mask, he couldn’t help but wonder what turn he’d taken in the past to somehow end up here — and how, if time ever reset and he came to that exact branch in his life once again, he could make sure to take the exact same turn.
+
+This was the Menagerie, and he wouldn’t change a single damn thing about it.

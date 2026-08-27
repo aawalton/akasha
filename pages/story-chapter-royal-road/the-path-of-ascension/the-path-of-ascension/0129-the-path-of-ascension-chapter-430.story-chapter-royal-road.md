@@ -1,0 +1,301 @@
+---
+id: f9f18a83-c520-5106-92a8-dd6d6ea424ec
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 430"
+slug: 0129-the-path-of-ascension-chapter-430
+partOf: the-path-of-ascension
+position: 129
+ownLength: 4777
+unit: words
+ownProgress: 4777
+publishedAt: 2025-07-21
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2454914/the-path-of-ascension-chapter-430"
+royalRoadId: "2454914"
+markedReadAt: "2026-06-29T19:22:19.542Z"
+---
+
+Chapter 430
+
+Matt looked at the readout and smiled.
+
+His expression wasn’t exactly unique, with nearly all of the scientists he had allowed into the testing room having some variation of the same excited expression.
+
+Tim’s Talent was weird.
+
+Or at least, it wasn’t what they had expected. Which they probably should have expected.
+
+As Tim moved through the small kata he had been doing for the last few minutes, they could all see as his Talent pulsed.
+
+Having worked closely with the teams inside— they were mainly the researchers who had worked with the skill modifications for the Tier 0 spells— he could tell they were equally interested and bemused in what they were seeing as he was.
+
+They had studied the spirit in the skill-making procedure extensively, looking for potential pitfalls in Rah’s Realm’s teachings. They hadn’t found any, but during that search, they had learned a lot about how people’s spirits react to carving skills inside of them.
+
+Looking to the man in question, Matt saw the now peak Tier 27 Rah looking just as puzzled as everyone else.
+
+He might not have had the scientists’ official credentials in the various fields at the start, but he had all of the practical experience, which was why he had been originally included. A hundred or so years later, he now had several diplomas from some of the Empire's best colleges. Rah’s advancement looked vastly different for himself than anyone else, given the development of his cultivation technique to take him to Tier 30, which demanded he still use ambient essence.
+
+His cultivation creation hadn’t been simple, but he and Ciceron had eventually figured things out enough to let them both move onto other topics. According to Rah, the cultivation technique was far better than what he had had before, but still not quite as good as he wanted it to be.
+
+Matt interpreted that as: not as much raw power as their simpler crunch method.
+
+His assumption was nearly confirmed when Rah started talking about the possibility of an expedition into chaotic space to find some of the rare resources that might be able to fully reset and backfill his cultivation with compressed monster essence.
+
+Not that they expected him to make the jump any time soon, as Rah was still trying to create his next Tiers of cultivation technique; he just wasn’t in so much of a rush and was happy to cultivate.
+
+Which meant being on a higher-Tier world and just sitting around. At Rah’s level of ability, he didn’t need to truly meditate any longer to cultivate. So long as he wasn’t fighting, he could do other things at the same time.
+
+Rah decided to get accredited in several of the things he had learned in his former Realm, which had been a shock to those who knew where he Ascended from.
+
+When he tested as a formation and enchanting Grandmaster all the way up to Tier 30, after only a decade of dedicated study, they had learned the hard way that Rah downplayed a lot of his own achievements.
+
+The man was a gifted enchanter who specialized in large-scale formations and weapon enchanting, but was competent in most fields. It wasn’t just that he hadn’t learned in a set institution in his lower Realm, but that what he had learned came from several schools of thought mixed and matched together, thanks to his adventures and travels. According to him, he hadn’t really realized just how good he was in his Realm, given the general difficulty most people had complained about and what he experienced being somewhat equal.
+
+So when Rah reached the Empire, with its compiled and compartmented schools of thought which had been iterated upon for millions of years, he took to the lessons easily.
+
+His other specialty was in skill manipulation. That same free time when cultivating was spent on one of the hottest academic topics: low-Tier skill creation.
+
+Being from the Realm which had developed the technique, as well as having more experience than most, Rah was easily able to get his Hidden Master’s qualifications, making him the first to reach such a degree. That had outed him as the inventor, but by that point, Rah was settled in and established well enough to fend off the numerous requests from every high Tier organization, large and small, including other Great Powers.
+
+Which meant Rah had more of a right to be there than Matt did, which was why he’d invited the man back to the guild for this first test.
+
+They had expected Tim’s Talent to be in some way preparing himself for the flood of knowledge that would come once he reached his proficiency threshold. And in some capacity, they were correct, but that was far from the whole truth.
+
+As far as they could tell, Tim's Talent was distilling all of their lessons, preparing to make a skill into four discrete movements of his body and spirit. The moves should have been far beyond the skill level of even what someone who had made all five skills could do at the same time.
+
+Everyone had turned to Rah to see his reaction who said, “Those movements are incredibly advanced because of the layering, but I believe that his Talent is also customising the movements for him personally. While I could probably do the combined movements with a little study, it would take years for me to get comfortable with merging so much; as well as modifying the movements to fit myself; that I wouldn’t have considered it worth it before seeing him. Still, it is fascinating to see the lessons distilled to their core components in such a manner.”
+
+Even more interesting was how his physical body was incorporated into the movements. Their current methodology used the physical moments as a sort of training wheels before moving to more mental manipulations. That was brought into question as they watched. They could see that his physical movements weren’t just guiding the process, but rather were an integral part of it.
+
+Which was incredible all on its own, and Matt could hear two teams forming up behind him and working on a proposal for a team to see if they could use these more advanced movements to redefine what a typical Tier 0 could do. The other team wanted to create more advanced preparatory movements for those who wished to move beyond the Tier 0 or Tier 8 levels of strength.
+
+He’d greenlight both ideas after the first month of observation, when they learned the first bits from Tim’s Talent.
+
+They also realized that his Talent was preparing itself for more information.
+
+Tim’s spirit wasn’t outside of any normal bounds, but it was well above average for a Tier 3 of his age and experience, which they believed was a result of his Talent repeatedly straining his spirit. Seeing that, Matt immediately ordered several sets of spirit-strengthening potions and Natural Treasures.
+
+Awda, one of the Tier 30 spirit specialists, leaned closer to Matt. “Guild leader, given Timothy’s ability to learn from what he sees or what he has access to, I believe we should start with temporary spiritually strengthening potions, then move onto strengthening exercises. If he can get an ‘entry’ as he calls them for spiritual strengthening, we might be able to learn more about how to improve one's spirit without outside elixirs.”
+
+Matt nodded even as several others looked like they wanted to say something, but Matt just said, “Put it on the list. It's certainly an interesting proposition.”
+
+Another woman, Lisa, copied Awda and added, “It brings up the question of missing entries. I postulate that the more obvious entries are available, but limited by a combination of his spiritual strength and baseline knowledge. We will need to see if his spirit growing expands his repertoire of available options or if there is another mechanism at play, such as raw Tier.”
+
+Matt continued to nod. “That, and see if outside additional training can lower the costs.”
+
+Sadly, their test subject was growing tired, and having just recovered from getting his AI implanted, Matt wasn’t going to push the kid any further than he needed to on the first day.
+
+Matt grinned and clapped Tim on the shoulder as he stepped down and out of the machine as it was winding down.
+
+“How do you feel? Any strain or the like?”
+
+Tim shook his head even as he wiped his sweat off with a provided towel.
+
+“No, I feel pretty good actually. Just a little tired from the repeated movements. My Talent really wanted me to be strict with those movements, and I’m not really used to moving my spirit around like that.”
+
+That last statement got everyone's attention, but they returned their gazes away from the mortal before he could notice the oddity.
+
+Instead, Matt just nodded along. “So it's giving you guidance on the movements? How much flexibility is there?”
+
+Tim was busy downing an entire bottle of water, and Matt was pretty sure some of the scientists were about to need to regrow teeth if he panted any longer before answering, but that was exactly why Matt had lowered his perception to a Tier 3’s speed.
+
+His reasoning wasn’t just politeness.
+
+“There is definitely some wiggle room for getting the proficiency, but my gut tells me it will be less efficient per movement.”
+
+Matt started guiding Tim through the guild while still speaking. “We’ll test those limits tomorrow while things are fresh and you are still at the beginner level.”
+
+At the teleporter, Matt smiled as Tim vanished to be replaced with Stew.
+
+Grinning, Matt led the even younger man down the hall to an alchemy lab.
+
+Stew’s Talent was incredibly simple. At least in theory. Like most Talents, it had incredible depths, and it was his appearance that made them start the program so quickly.
+
+Stewart absorbed one hundred percent of what entered his body, along with what seemed like perfect excess storage.
+
+He originally used that to great effect, and quickly started delving up at only Tier 2, which caught Mathew and Vinnie’s attention, who brought Stew to Palustris where Matt and Liz met with him.
+
+They originally wanted to sponsor Stewart on the Path, believing that with his drive and Talent, he could easily go far. But he declined, instead wanting to develop without such restrictions.
+
+It wasn't that crazy of a request, though it definitely surprised them, given who they were. Still, there was a reason Mathew and Vinnie had brought Stewart to their attention, as they intended to open their own training program. With their plans, it was easy enough to push things forward and start the school a few years early, and so they started recruiting.
+
+Their total goal was two hundred or so people for the first few decades. But they were building facilities for ten times that, complete with expansion routes, making it easy to go all the way up to fifty thousand students should things progress that far.
+
+Liz was already in the alchemy lab set aside for his testing, along with the members of Titan’s Torch who signed up for Stew’s project.
+
+It was less than Tim’s had been, but that was mostly because the applications of Stewart’s research had little chance of being mass marketable. There was the slim chance they might learn how to make a person's body absorb more of a potion’s effect from Stewart’s Talent. But it was unlikely, given its nearly wholly spiritual origin instead of being a biological mutation.
+
+Still, it was very interesting to watch, and Stew always seemed to like Matt’s more combat-oriented input, which was why he hung around when he had the free time.
+
+They started Stew off with their usual rounds of permanent potions.
+
+Three physical strengthening potions each targeting different parts of the body, two magical boosting ones— one boosted his mana regeneration by a slight amount and the second expanded his mana pool by a percent or two— and finally, a single spiritual strengthening potion.
+
+All but one of the potions were things that were available in nearly any alchemy store that specialized in delvers, but that was what they were testing in Stew.
+
+When he had first been identified by Mathew and Vinnie, Stewart’s Talent had already allowed him to take potions that, for others, were one-time use. His efficiency wasn’t perfect, it was far from perfect in fact, but even now dozens of doses in, he was still getting small but minor effects.
+
+Most interesting of all was that his Talent was still growing as he pushed it, showing no signs of slowing down.
+
+That, in combination with Stewart’s Tier 3 Talent, which allowed him to convert any excess stored energy into other forms of energy, allowed the kid to work for days on end, even at Tier 3.
+
+They had been forced to step in after he went three days without sleep, as all of the immortals had started to note the buildup of beta-amyloids and forced the kid to sleep for at least four hours.
+
+That didn’t make it any less interesting to see Stew down enough calories to feed a school and then hit the gym or sparring yard, his Talent burning the energy to make both mana for his spells and stamina for his body.
+
+So far, his Talent hadn’t been able to regenerate on the level of a undirected Tier 14 healing spell like [Ranged Heal]. The pinky finger they had cut off had simply healed faster instead of regenerating, but they were hopeful if he kept pushing his Talent, he might be able to turn healing into full-on regeneration.
+
+Even if it didn’t work, they had backup avenues, such as Stewart teaching his Talent so that it could recognize that a healing potion wasn’t needed. So instead of using the energy to restore his body, his Talent should shift that into his magical reserves, but that was a long way off.
+
+First, they needed to finish the test for how long his Talent could preserve food. Or rather, how long could he go off the energy stored in food before the expected negative side effects started appearing.
+
+It was a test they were failing.
+
+So far, the longest Stew had managed to go without eating a meal was about ten hours, and four of those were because he had been asleep, and another four where he had been sparring with Matt.
+
+The moment the kid got any amount of free time, he just wanted to eat.
+
+They were still debating if it was a side effect of the Talent or just a personality quirk, but it was becoming a recurring theme that even Stewart couldn’t explain.
+
+The kid at least had a good attitude about it. “I really think we should just put a mask on me. It might be the only way to get me to stop eating. Honestly, the moment I stop thinking about stuff, my body goes into autopilot and I start shoving food down my face.”
+
+That wasn’t the first time he had mentioned it being a seemingly automatic response, and Matt shared a look with the other researchers and finally Liz.
+
+At her small shrug, Matt nodded back, letting her take the floor.
+
+“Stew, do you have any cravings that maybe you aren’t meeting? Are you hungry right now? What would you eat right now if you had the choice? Specifically.”
+
+Stewart hummed for a moment before shrugging. “I could eat, but I wouldn’t call myself hungry so to speak. If I had to eat, steak, potatoes, and asparagus sounds really good, but so does breakfast food. Really, I’d eat anything.”
+
+Speeding his perception up to Tier 25 levels to match the lowest Tier scientist, Matt said, “It’s gotta be his magical reserves are relatively empty, prompting his body into overdrive mode. There is no way this is normal, given it only really started happening when he was able to eat as much as he wanted.”
+
+Liz spun the clipboard she had been taking notes on, catching it right before it fell past her arms reach. “I still don’t think that giving him higher-Tier food is wise. If you are correct, that might make things worse as his body adapts to the energy in higher-Tier food. It might fill up his reserves but make lesser energy sources less effective.”
+
+One of the other scientists, Bradley, tapped a nondescript Tier 15 box. “We can always try having him digest energy itself. We have five mana stones and two essence stones for the testing. There is a better than even chance he can safely do so from all of our other tests.”
+
+That started a quick round of bickering, which Matt and Liz both stayed out of given their transient nature.
+
+Finally, it was Vincent Marcone, a Tier 30 and the deputy headmaster of the school, who settled things with his right as the legal counsel for all of the students.
+
+It was one of the positions they had created so as to rein in some of the more eager pursuits of power from either the students or the trainers and scientists. It was also one of the positions Matt was most proud of, because they had to fight tooth and nail to get it allowed by the Empire censors, who justifiably didn’t like high Tiers having final veto rights for lower Tiers.
+
+That, and the Talent mind wipe, but that was pretty much stolen from Ciceron and the Legacy requirements, so it wasn’t like they could really claim credit for that.
+
+“Eating energy raw is still too dangerous. Stewart has proven himself far too eager to advance, and as seen here, lacks the self-restraint needed to try eating such dangerous and potentially addictive substances. Someone mentioned a concentrated food pill. Giving him some in addition to his normal allotment of food is the most I will allow at the given moment. More calories haven't seemed to stop him yet. Worse comes to worst, this lets him concentrate better.”
+
+Having been given the final answer, they all dropped back down to Tier 3 speeds and one of the scientists brought several boxes of pills that looked more like jerky than any type of medicine.
+
+Which it pretty much was.
+
+Long out of style, the so-called ‘fasting pills’ reportedly used to be staples of alchemy, particularly for extended delves in the Tier 5 and up range, when rifts started to get large. In a time without easy access to spatial expansion for backpacks or good food preservation methods, delvers would take the pills into the rifts as low-weight meal substitutes.
+
+They were basically calorie balls with just enough vitamins to prevent scurvy, and they tasted like it. But they were pretty much a day's worth of meals packed into a pinky-thick pill.
+
+Hearing what they were, Stew immediately lost all of his hesitation and popped one of the pills into his mouth and swallowed after a few chews.
+
+They all watched as the pill slowly made its way down to his stomach. It felt like the longest five seconds of Matt’s week, but finally they watched as the pill was dissolved in seconds until nothing remained.
+
+The weirdest thing was that all of Stewart’s internal organs acted like they were working normally. Which they were, but shouldn’t have been given that no actual food made it out of his stomach. His intestines and such should have been empty wastelands. But instead, the kid had perfectly normal bowel movements that no one could explain.
+
+They had even run tests on said stool, but the results were lackluster, as they had nearly zero digestible protein or even fiber in them, leaving only inorganics and anything truly nondigestible to be vacated.
+
+Except, there shouldn't have been any matter for him to excrete. With his Talent absorbing everything that entered his stomach, the origin of Stew's stool was subject to fierce speculation among the researchers.
+
+Their best guess was that Stewart’s Talent was using his stool as a method to remove waste it couldn’t process along with his kidneys. Or it was the leftovers from the energy conversions made manifest in the most easily disposable manner.
+
+Stew immediately picked up a second pill and popped it in his mouth, chewing slightly. “Doesn't taste like much, but I like them. Can I get a few more?”
+
+Before he had even finished speaking, the remaining week's supply was gone.
+
+All eyes went to Vincent, who finally waved for them to continue. “I want blood work done on him every day for the next week, as well as to push ahead with the poison testing. Mild allergens at first, remember. If he's eating this much, I want to ensure that it's simply a case of Talent-driven hunger and not him lacking something vital. After that, load him up with as much same-Tier food as he wants, so long as it's still a relatively balanced diet.”
+
+One of the scientists shrugged. “Are we even sure he needs vitamins and such? His Tier 3 says it converts resources into missing ones. If he was lacking something, should it just get fixed as he eats more? In fact, maybe that's the issue?”
+
+Stewart’s blood work came back perfectly normal, surprising no one, given that they could all see his individual cells. But it still left everyone stumped as to what the issue could be.
+
+Thankfully, after eating over a month's worth of fasting pills, Stew finally didn’t reach for another box.
+
+“So, are you full?”
+
+Stew looked at the second box, head cocked to the side. “I could eat more, but I feel less hungry. Or I think I do.”
+
+Following up, he popped another six pills down the hatch in short order. “Yeah, I could eat more.”
+
+That got a reaction from everyone else, who immediately started logging the results as well as looking for any physiological signs. But he was as healthy as when he walked into the lab.
+
+Matt tapped his chin before speaking up. “Hey Stew, how has your practice been going? Any new breakthroughs or the like?”
+
+“Nothing so advantageous, Ascender Titan. At least not that I’ve realized. Want to spar again?”
+
+The kid bounced on his toes shuffling between stances, but Matt shook his head. “Sorry Stew, I gotta do paperwork now that I’m back, but in a few days I might just take you up on the offer.”
+
+Stewart grinned even as his gaze went to Liz who shook her head as well. “I’m taking a well-deserved break now that Matt is back.”
+
+Matt laughed at the downcast expression, making Stewart flush slightly.
+
+Not mentioning the healed leg directly, Matt asked, “How’s the delving? Your latest reports said you slowed down a tad. That's good.”
+
+He knew how even the kids like Stewart, who didn’t want to join the Path, still tried to emulate Liz or himself, pushing many of them to delving beyond their means.
+
+Stewart had been reprimanded twice in his short few months of stay with their growing academy because of his speedy delves.
+
+In a vacuum, delving fast was a good thing, but not at the expense of safety, which was something all of the instructors, Matt and Liz especially, tried to drill home. Speed could come later, once their fundamentals were down pat.
+
+There was a reason they didn’t restrict how much their students could delve, but did put a pause on how fast they could Tier up.
+
+Their academy wasn’t the Path, and they were in no rush. The teachers were more than happy to let a student sit at a Tier and polish themselves a bit to improve the kid’s foundations, which was what they were trying to drive home with the first batch.
+
+For the first time, Stewart looked sheepish. “I took a fairly bad blow. Cracked my femur and fucked me up something good.”
+
+Matt felt hypocritical as hell as he tsked, but he did it all the same. “What have we been saying? Gotta take it slow. Once you are good, then you can speed up. How bad did it hurt? Want to do it again?”
+
+Stewart’s bravado came back immediately. “I can definitely take that stupid snake a second time.” Catching himself, he calmed down, adding, “But there is no reason I need to kill the boss immediately. I could have taken out the weaker monsters first with a luring method, and it would have only cost me five minutes or so.”
+
+Matt nodded, even as phoenix Liz quietly pecked his ear, sending Matt a message. “What would he think if you told him you teleported yourself into the mouth of a quetzalcoatl when you were younger than he is now?”
+
+Biting his lip, Matt shook his head slightly. “He’d take all the wrong lessons, but it would be funny. I remember nearly vomiting when you waved my hand at the healer.”
+
+“Yeah, that was a shit healer as well. We were so bad as low Tiers, it's not even funny.”
+
+Somehow, despite the movies that hid less than expected of their younger days on the Path, people still somehow thought they, as Ascenders, were flawless when that was far from the truth. How someone could come out of the theater seeing Matt get his ass beat in a training montage and think they had never made costly mistakes was something he just couldn’t understand.
+
+Finally, Stewart was given a new potion and his final test of the day.
+
+The new potion was meant to increase his mental clarity, which was useful for learning new and complicated things. It wasn’t meant for long-term consumption, as most potions of its type had nasty side effects if not properly used, or if used too often. But they were interested in how it would affect Stewart, and he was more than eager to use the test to try and learn his own alchemy to eventually produce his own potions.
+
+For all that Stewart was driven, he wasn't very good on the alchemy side. It was that lack that Matt thought was the reason he so decisively opted out of the Path. He was a decent fighter who was more than willing to put in the time and work on his combat skills. He was also willing to push his Talent. But without outside support, he’d struggle with the expenses of utilizing his Talent.
+
+Which would have been a shame.
+
+Stewart was driven in a way few truly were.
+
+Sadly, while the potions effect lasted longer than normal, there were no lingering effects like they hoped. At least not yet, but Stewart was determined, and might just push his Talent that far given more time.
+
+As Matt and Liz were walking to Aster’s commandeered laboratory where she was diving headlong into mana type research, they caught up on what had happened in the last few months. When they reached the laboratory it was a familiar sight, given that a lot of the stuff was stolen from their time in the army when Liz was working on Ichor mana.
+
+The door had a written ‘Matt not allowed’ that he promptly ignored as he sauntered in.
+
+“Hey ther—”
+
+Ducking, Matt dodged the snow ball that had nearly taken off his head.
+
+“Hey, now that's not nice.”
+
+Aster, in a lab coat and pirate bandana, glowered at him. “This here be commandeered land. I—”
+
+Matt pulled out a bowl of chili and acted like he was going to pour it over her head, which earned him a glare before a smile as they hugged.
+
+“Tier 29. Kind of embarrassing the rest of us.”
+
+“I’m just that good.”
+
+“How's the mana type research?”
+
+Aster sighed. “Well, my pirate outfit is in a better state than our progress. I knew it was going to be slow, but I might need to grab Zack for some of these tests. Sadly, he’s as busy as the rest of us. Why are we given duchies to run again?”
+
+Liz snorted. “Because it keeps us busy enough we don’t start problems.”
+
+Aster flicked her tail. “I can't really tell if it's working, given how much shit we are knee-deep in, but whatever.”
+
+Matt laughed as he sat down next to Liz and they tried to help Aster. They didn’t make any real progress, but it was a good way to spend some time together and connect to their older days on the Path.
+
+Sadly, Matt’s meeting with Kees interrupted them and he knew that was going to be much less pleasant than his earlier meetings.

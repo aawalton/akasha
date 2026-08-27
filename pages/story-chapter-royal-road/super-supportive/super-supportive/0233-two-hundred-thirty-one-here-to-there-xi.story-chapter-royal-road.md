@@ -1,0 +1,329 @@
+---
+id: c6c92f10-578c-5de8-9be9-126917d057b5
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED THIRTY-ONE: Here-to-There XI"
+slug: 0233-two-hundred-thirty-one-here-to-there-xi
+partOf: super-supportive
+position: 233
+ownLength: 5375
+unit: words
+publishedAt: 2025-07-16
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2438817/two-hundred-thirty-one-here-to-there-xi"
+royalRoadId: "2438817"
+---
+
+231
+
+******
+
+The sound that a single handful of pulverized spell ingredients made as it hit the roof of the pavilion was a quiet one. Just a whisper at Leeter-zis’s feet, and another puff of white dust joined the cloud around the wizard. He stood above them all, his arms sweeping through the air while he chanted in a voice not much louder than the falling powder.
+
+Yet Alden had begun to feel that the ingredients struck the roof with the urgency of a commanding shout, and the parts of the chant that were about the journey they’d all shared together found his ears more and more easily. He was between Stuart and Emban in his assigned position on the outermost ring of participants, his body moving in time to the rhythm of the spell.
+
+Move a chip of wood into his right hand; pass it to Emban while his left accepted another from Stuart. He had lost count of how many times he’d done it. He brought the latest one up to his mouth and said, “Christmas tree,” his two English words lost among hundreds of Artonan ones that were being spoken at the same time. He breathed in. Powder hit the roof. He breathed out, and traded his wood chip for another.
+
+“Wombat.”
+
+The pace and the images he was supposed to call to mind with each word were all that prevented him from relaxing into it fully. That and his fear that the thoughts of home he was contributing to the spell were too muddled and not warm enough for this occasion. For “wombat,” he wanted to think of his stuffed animal sitting on its knock-off learning cushion in the corner of his dorm room, but that memory blurred with another one of Wummy surrounded by “Get well soon!” cards when he’d been in the hospital as a child.
+
+That one wasn’t good.
+
+But the ingredients were hitting the roof again, the dust cloud was thickening, and the chip of wood had to be sent on.
+
+When they’d begun, it had still been dark. Now the dawn was bright enough for Alden to clearly see many of the people standing in the concentric circles that wrapped around the pavilion. Several of them were still impaired from whatever they’d enjoyed at the party, and any children who were old enough to stand and pass things had been included. Alden took some comfort in that because maybe he wasn’t doing worse than knee-high Artonans who had put the first few chips they were given in their own pockets, and inebriated ones who kept repeating the same few words even though they’d been told to choose as many to represent their homes as possible.
+
+Some of the most obvious words, the ones others had said first, were still stuck in Alden’s head, waiting for him to attach them to a specific thought about what home was. And some gloomy words like “fleeting” had to be repeatedly beaten back because this wasn’t the time for them.
+
+“Suitcase.”
+
+He grimaced as that one came out. Wasn’t suitcase the opposite of home? He’d been thinking his wombat was a good choice because the stuffed animal had been with him in multiple residences. He’d wanted to think of something else that had accompanied him like that. So suitcase. The big blue suitcase being attacked by Other Alden. And rolling along behind him through the halls of Matadero.
+
+Matadero? I’m so lost I’m including the cube now?
+
+He had to be the only person in the universe who’d put the demon slaughtering facility anywhere near the concept of home. But there it was.
+
+He had made his bed there look nice before he left his room last time.
+
+Another wood chip.
+
+“Succotash.” A recipe written by the hand of a grandmother he’d never met, turned into a cooking video for Kibby. It had tasted good. He would make it next Thanksgiving and eat it. Somewhere.
+
+“Bedlam Beldam.” He didn’t think of the quirky superhero herself, but of a silly game he’d played with Boe for a couple of years in which anytime they saw a broom they pretended it belonged to her and tried to make up the funniest reason she might have lost it.
+
+Beside him, Stuart was enjoying the unfair advantage of having a million relatives who all resided with him. But assuming the Artonan was going through homey elements of the siblinghold in order of importance, he did rate some unexpected words high on his list. He mentioned “patient ones” very early, before he’d even named some of his parents; and most of his family members came after sacrifice, husenots, and Murmur.
+
+Although Murmur was a family member, and husenots and sacrifice represented the efforts of many family members. So maybe it was Alden’s own shallow thinking that made him surprised Stuart would name Emban only after he’d acknowledged a room full of rock creatures and the wevvi boiler.
+
+They kept going until Leeter-zis was almost hidden by the powder. Then, just after the sun made a full appearance, the wizard’s voice rose, his chant becoming loud, and they stopped.
+
+All of them at once.
+
+Nobody said stop, thought Alden.
+
+He’d done it because it was the right thing to do. His breathing had synced up with Stuart’s and Emban’s, and that was right, too. He felt heavy, like he ought to be sinking into the grass, and he realized he wasn’t blinking even though his eyes were dry.
+
+He could blink, or move his feet if he had to. But he was a part of what was happening here, and it was like floating and letting a current carry him.
+
+“This home will recognize you!” Leeter-zis shouted.
+
+The current was growing stronger quickly. And with the sense he wasn’t supposed to have, Alden could feel something happening. He was resonating with this place and the people here. There was no conscious effort like when he cast a spell alone, but the volume of his self was rising along with everyone else’s. The gremlin seemed curious about what he was up to, but he couldn’t spare it much attention. It was time to thrust the hand holding the piece of wood out in front of him.
+
+Because that was what the ritual wanted.
+
+“This land’s fruit will fill your stomachs. The fruit of your body will fill this land. You will hold those you love between the Mother and the sky here. And everything that a home has been and can be will be yours.”
+
+Every time Leeter-zis said “will,” the effects that Alden was feeling increased sharply. He was rooted to the ground; the piece of wood seemed to want to burrow into his hand.
+
+“Now!” Leeter-zis said.
+
+On the roof of the pavilion, a ball of dark red flame swallowed the wizard, flashing through the air and heating Alden’s lungs as it consumed the powder. In every hand, the wood chips began to glow. Most of them were like embers just removed from a fireplace. Some were brighter.
+
+Stuart held a palmful of flame.
+
+Alden held a dim wooden splinter with a flicker on one end.
+
+“The opportunity will pass soon,” Leeter-zis said, suddenly conversational. “Look to your neighbors if they hold less than you. To strengthen one is to strengthen all.”
+
+Alden didn’t completely snap out of the trance until he felt a hand close over his own. Stuart had just covered the barely glowing wood chip with his palmful of fire. Red flames flickered around their wrists and across their knuckles. It looked alarming, but it didn’t hurt.
+
+Alden only felt warm, dry fingers locked around his. As the sensation brought him out of the place where the spell had taken him, his nerves about getting it wrong all came back.
+
+“Mine barely burned,” he said apologetically. “I was having a hard time, and so many of my home ideas were things I don’t have anymore.”
+
+“You did well enough.” Stuart gestured for Alden to look around to where Ryada and Bithe had their hands clasped in the same way. “You’re not the only one. Just tell me something you think about home, and I’ll hear you. The spell will be strengthened.”
+
+Alden turned away from the vulnerable expression on Bithe’s face as the knight explained something about himself to Ryada and a listening Emban.
+
+Stuart was watching him, waiting to hear him, his fingers tightening around Alden’s.
+
+Home. Okay.
+
+“I’ve had it before, but I don’t think I do now. I’m trying. To me, home is…I would rather think of it as a place where I can be safe and happy with the people I care about most. But the people I care about are scattered. And I don’t often feel safe. My aunt’s going to have a new family soon. She already does, really. And it’s a good thing for her, but I’m not going to be more than a distant part of it. And my childhood friend doesn’t want to live on Anesidora. So. I don’t know…”
+
+“You do know,” Stuart said, after thinking for a moment. “You know you want a happy place and people you care about. Isn’t that enough? That will be your home one day, even if it doesn’t have every single person you love in it due to circumstance.”
+
+“You’re saying I could just imagine a future one?”
+
+Stuart nodded. “My father, Aunt Alis, and Uncle Tesen hated much about their first home. When they were our age, I think they would have had trouble with a ritual like this, too. But they kept each other and Murmur and built the siblinghold together. And it’s a wonderful home for the people they love. So I think a home you imagine for your future may be more powerful than whatever you’ve had thanks to good or bad fortune before now.”
+
+Something in the future. Something to begin and build up.
+
+“That’s a nice way of looking at it,” said Alden.
+
+Maybe it should have been obvious, even. But a future home lacked certainty, so he hadn’t thought he was free to go in that direction for the magic.
+
+“While I was <<dispersing>> the liquid blessing through all the houses, I thought of what you and Bithe said about the focus of this ritual. And I realized I spoke too casually about home being easy. What’s easy for me was created through the hard effort of my father, my caregivers, and others. Your path toward home may be more like his was than like mine.”
+
+Not a comparison I was expecting.
+
+“Longing should be enough for the spell. Hope. Imagining,” Stuart continued. “Or even one treasured memory given full focus.”
+
+Alden closed his eyes, trying to shut out the sounds around him and commit to one single thought of home in these last few moments. He went with “treasured memory” because it was easier to find one quickly than it was to clearly imagine what he would or could build in the future. But he looked at the memory in a different light.
+
+Not just something that happened a long time ago, he thought, recalling the way his dad had once laughed when Alden had come out of the Nashville house struggling with the weight of a punch bowl he’d ferreted out of the back of the kitchen cabinets. He’d thought it would be a superior vessel for catching a firefly in. His vision of the largest glass container he could find shining like a spotlight in their yard had been too powerful for him to worry about practicalities. It’s something that can happen again, even if it will be a little different.
+
+A single bug blinking under the dome of the bowl, a Diwali firework that left specks of silver light floating around Apex for minutes, scooping zansees into a jar at the siblinghold…
+
+Stuart mentioned those, too.
+
+When Alden opened his hand again, his wood chip was glowing as bright as most of the others. He held it higher to show off his success, and Stuart beamed. Bithe was showing his own properly lit piece to Ryada and Emban.
+
+Emban looked touched. Ryada was smiling, but to Alden, it seemed strained. Over the next few minutes while people mingled with friends, hugged family members, and thanked Leeter-zis, the fire faded out and left them all holding darkened bits of wood.
+
+Many of the participants buried theirs around the pavilion. Everyone who wasn’t going to be living around here was supposed to take their piece home, where it would be a kind of charm for them, making their houses more harmonious and increasing the fertility of their lands and bodies.
+
+“I can’t bury a fertility increaser at a dorm full of people my age,” Alden said. “What if it works too well?”
+
+Stuart found this legitimate question very funny until Emban asked what he was laughing about.
+
+“What if Alden’s right, though?” she said. “I know it’s not that strong, and it’s his, not theirs. But could it do something unexpected in the soil of Earth?”
+
+“That wouldn’t happen…probably…”
+
+They ended up dipping Alden’s wood chip in a waxy coating provided by Leeter-zis, who thought they were being stupid. Alden was to remove the coating and bury it in a pot of dirt within the walls of a house that was his one day.
+
+“The spell was interesting to be a part of,” he said as he tucked his latest souvenir into his bag.
+
+The morning was already getting hot. Most of the Artonans who weren’t gathered around Leeter-zis were cleaning up the remains of the party or helping Uro-bor and a couple of equally ancient people make a dish called “scrap loaf” that involved every single crumb of uneaten food in the pavilion being diced and added to a batter they would bake in cylindrical pans.
+
+Stuart said it was something people often did after a party, though wizards weren’t usually invited to eat the scrap loaf. He was under the impression that most people who took one home would end up having a bite or two and then composting the rest of it.
+
+Alden would have been tempted to try it if he could and if they were using just the untouched leftovers. But Gorol-bor was merrily taking a sweeper pan full of floor food over to his mother.
+
+“In Jatonta, I think they make a porridge instead of a loaf,” Stuart said, replying to the bow of a woman passing by them with a nod and an upturned palm. “And in…are we leaving? I think we might be leaving. No. Emban looks upset. What’s going on?”
+
+Suddenly, he was looking toward their knight trio.
+
+Alden and Stuart were at the edge of the open area surrounding the pavilion, standing close to one of the walls of paddle plants that marked the start of the garden. Emban, Ryada, and Bithe had been nearby, accepting farewells and gratitude from anyone who wanted to speak to them, but now they were walking fast to one of the wooden pathways that led out. Alden caught a glimpse of their faces. Bithe’s jaw was quivering, his eyes wide. Emban was tense from head to toe, mouth clenched. One of her hands pressed Bithe’s shoulder, and the other pressed Ryada’s as she steered them onto the path and out of sight.
+
+And Ryada…she seemed calm.
+
+That calmness made Alden’s breath catch.
+
+What happened? What did she do?
+
+Stuart was already in pursuit. Alden jogged after him.
+
+They soon realized they should have run if they wanted to catch them. The knights had sped up even more once they were out of public view. Stuart and Alden hurried along the walkway and even spent a while checking nearby nooks, but they were nowhere to be found.
+
+“Emban’s not receiving my messages. Or not answering them.” Stuart was frowning as they met back after another quick split-up to look down side paths. “They must have wanted to speak of something in private. I suppose we should let them without <<making bothersome noises>> in their ears. Earlier, I said they should check my work on the houses one last time before we leave, so we can wait at the prans’ new home or the bors’ until they arrive.”
+
+“Are you worried you did a spell wrong?”
+
+“No. It’s proper for them to show their diligence in that way since I was still performing final blessings and adding gifts to the houses after they left to attend the party. I represent them as their votary, but it might be disappointing to the families for them not to cross the threshold again when the homes are such a short distance from here.”
+
+Alden hesitated to say anything about the Ryada situation for a couple minutes more while they left the pavilion and garden behind and crossed the wide green park, heading toward buildings with the same swooping white rooflines and balconies that filled many of the residential areas.  The bor home was only one street back from the park edge. Alden couldn’t remember which roof was theirs from this direction, but he knew the assistants had a great view from their uppermost floor because they’d been so excited about it. Greenery hadn’t featured much in their old village.
+
+“Stuart, Bithe told me something. It was right before we heard Olget-ovekondo being distressingly weird with Uro-bor. I don’t know if he would appreciate me repeating it to you. I’m not sure he meant to tell me. He might have had emotions summoning his thoughts from him when he wanted to keep them private.”
+
+“What did he tell you that would…of course you may wait to speak to him again and make sure he wouldn’t mind you sharing it with me.”
+
+Alden was impressed at how fast Stuart had switched the tone of that sentence from curious to primly professional.
+
+“Since they’re acting like this, I think I’d better tell you now. So you’re not surprised, and so that one of us can do the right thing. It can’t be me because I don’t know what the right thing is. Give me a moment.”
+
+He sent the story via one long text message in English. Not only because he didn’t want to share that gossip out loud, but also because he suspected the translation the System provided to Stuart about this kind of situation would be much clearer than anything Alden could say in Artonan. He knew when the whole missive had been read because Stuart stopped for a moment, stared down at the ground, then moved forward again at a faster pace, taking one of the privacy rings from their box and thrusting it toward Alden.
+
+“So Emban’s joy will become a long period of fear,” he said before Alden had even managed to get the ring all the way on. “And anger, if I know her nature as well as I should. Where she’ll place that anger I can’t predict. I hope not on Bithe. Much of his behavior on this trip has an explanation now, doesn’t it? And he was speaking such tender hopes to them both when I was talking to you about homes. I heard part of what he said, and they were beautiful words about how he thinks of their squad.
+
+“Perhaps Ryada couldn’t hold those words in one half of her thoughts while her own pain sang loud in the other. She must have told them she wouldn’t deepen with Emban after all, and why. With this, Rel might want to step in and replace Hn’tyon Kyana-let as their next mentor…well, someone will decide that. This will chill the last days of summer for those who are fond of Ryada. I’m not sure how close she has become to this season’s Declared, but she was <<involving>> herself a lot in the preparations for Welcome End. Quite a lot. Emban complained. That will be hard. And the squad will miss her.”
+
+Stuart said all of this so quickly that Alden wasn’t able to get a question in. And once he finished, with that ominous line, Alden could only focus on what those final words meant.
+
+“They’ll miss her…” He swallowed. “What do you think is going to happen to her?”
+
+“I think the older knights will recommend that she be removed from their squad until she’s more <<stable>>,” Stuart said. “If she’d been honest about her struggle, it might have been different. Hiding it, changing her mind about something as important as deepening with another person so quickly…it’s concerningly <<erratic>>. If the squad was more experienced, her staying with them so that they could help her would probably be good for them all. This is too soon, and they care about her too much.”
+
+His necklaces rattled against each other. “They would blame themselves if anything happened to her on a mission. They would feel responsible for monitoring her decisions. Did she sacrifice her life in a battle because it couldn’t be prevented? Or was she having trouble they didn’t recognize that day? Should they have told her to stay back?”
+
+I hadn’t thought of it like that. The pressure of that would be too much for anyone.
+
+“That needs to be avoided,” said Stuart. “Staying at the Rapport while they travel or being included in a squad with older members—I think one of those two are likely for her. Maybe…I’m sure she’ll be fine. A lie like this, when we are taught not to lie about this, is frightening. But it’s only been a short lie, since her latest binding, or so I will hope. And she seems to have ended it herself unless there’s some other reason for their reaction. So she knows what she should do, and she’s trying.”
+
+Bithe was telling her their squad was his home.
+
+Maybe it was because Alden had just spent an hour locked in a communal spell that Bithe was a part of, striving to find home himself, but the ache of empathy for the knight was stronger than it had been. And it hadn’t been weak before.
+
+What if Emban and the others are mad at him for considering hiding Ryada’s trouble from them?
+
+“Fuck,” said Alden. “The Here-to-There was such a success. I thought we’d helped Emban and Ryada, and now…it ends like this.”
+
+The city was slow to wake up. They had made it to the end of the park and reached a mottled orange street. Nobody was walking down it, and there were only a few signs of life through windows and on balconies. A warm wind was blowing.
+
+“I’m disappointed, too,” Stuart whispered. “They all deserved ease; they will have this instead. Through our efforts, may the way be made closer to perfection.”
+
+Alden had heard the phrase plenty of times. Wizards really liked it. But it landed like a boulder on him now.
+
+“Through our efforts,” he said. “Is there anything we can do to make this better?”
+
+Stuart sighed. “Let’s just wait for them. And we can leave the appropriate one of those at each house.”
+
+He pointed at the wooden pins Alden was wearing to represent each knight. “Those could be a <<token>> for the families if Emban and the others are too busy with all of this to make a final visit in person.”
+
+Alden studied the pins. They had dust all over them. And some party grime. “Entrust them, and I’ll clean them with my skill.”
+
+If this was the only thing left to do, then he was going to make them spotless.
+
+“I’m glad you’re here, Alden.”
+
+“Is it only because I’m going to be useful for getting dirt out of all the swirls on these pins?”
+
+“Yes.”
+
+Alden started to take off one of the pins. Then he stopped and made a gesture instead, two fingers extended and bouncing in front of him. A funny character known for telling lies then running away over the hills.
+
+“You’re right,” said Stuart, smiling tiredly at him. “I’m so sorry for the danger and harm you endured when Anesidora flooded, but I’m grateful it made me realize I shouldn’t delay getting to know you better.”
+
+“That’s right. My first real invitation to the siblinghold was supposed to be next weekend.”
+
+If it had gone that way, there would have been no zansees yet. No long talk about mind healing or introduction to Yenu-pezth. No knowledge about Stuart’s childhood, and no demonstration of The Maker of Narrow Ways. He’d have gotten some of it probably during next weekend’s visit, but today…he’d know so much less.
+
+“What was on the itinerary for that visit when you planned it?” he asked.
+
+“I was hoping to show you what I want my skill to be. And I wanted to explain to you that I will use it to make a universe where there are fewer places like the one you survived on Thegund. I hoped you’d be…not grateful to me…<<comforted>> by the knowledge that I’ll dedicate my life to this path. And I hoped you would think my skill was cool. I thought it would be encouraging to know you a little better and tell you about myself before first binding. It has been more than encouraging.”
+
+“Your skill is cool,” said Alden. “Beyond cool. By a very long distance.”
+
+“I don’t know what will happen between now and the weekend,” said Stuart. “Emban may need me. But the next time you stay at the siblinghold for a longer while, I would like to show you something. The symbol on the front of my study journals—I wanted to tell you about it before my first binding. That was the last thing on the itinerary.”
+
+“I look forward to it.”
+
+Maybe if we complete your itinerary, I will somehow, miraculously, know what to do myself.
+
+******
+
+******
+
+Before they reached the bor home, Alden spotted a person through one of the balcony windows of a house that stood across the lane and a few doors down. He was slumped on a chaise just inside, playing with his auriad with one hand and drinking from a bottle with the other.
+
+Good grief, dude, thought Alden, even as he spared a few seconds to see if he recognized anything about the way the auriad was shaped. Really?
+
+The tall black bottle with the red filigree had been a gift to each household from Olget’s own brother. Stuart had turned his nose up at it because the drink was brewed on III, which made it less than traditional for a Mother planet Here-to-There in his opinion, but it was expensive stuff and almost all of the recipients had seemed pleased with it.
+
+Instead of going home, he broke into one of the houses to drink the present and get back at his brother.
+
+The buildings weren’t locked. Most of them had windows open to welcome the air in.
+
+“Do you want to hear about Olget-ovekondo drinking someone’s bottle of shenav back there?” Alden asked as he caught up with Stuart again. “Or should I pretend I didn’t see him?”
+
+“Like a suckerbeast with no sense of direction!” Stuart spat.
+
+“Was…that a no or a yes?”
+
+“He is an adult wizard, but he makes my schoolmates seem mature. Let’s do our work. I’ll speak to him if he’s still there when we’ve finished and call his sister if that doesn’t move him.”
+
+“She seems like a better choice than their brother,” Alden agreed.
+
+The house where several generations of bors would be living now was very different from the one they’d left behind. The door chimed a welcome when Alden and Stuart stepped inside, the shelves beside it sliding open to receive their shoes and then disappearing seamlessly into the wall. Only the kids liked that feature. The grown-ups all thought there was meaning in seeing the shoes lined up together.
+
+“We’ll put the pin beside the wevvi service.” Stuart took Bithe’s symbol from Alden, and led him down three shallow steps into the main room. “They’ll like that.”
+
+All of the furniture in the living room was arranged for a view of the wide hearth in one golden brown wall. The family stone at the base of the fireplace was a rock twice the size of Alden’s learning cushion. On the hearth, Stuart had placed one of the logs wrapped with red string that Alden had found him transporting to the summonarium yesterday morning. It would be burned tonight.
+
+And above it, high up so that it was beyond the reach of curious young fingers and protected by a clear case Bithe had asked Stuart to order before they boarded the train, the greatest honor the family had ever received was displayed. Tass-ovekondo’s wand. Its case was surrounded by stubby candles that Uro-bor had insisted on arranging herself while everyone fretted about the old woman toppling off the tall ladder.
+
+The candles weren’t lit at the moment, but light from the three narrow windows on the opposite wall filled the room.
+
+Alden had been in and out of here so many times he thought he could have navigated around the chairs and cushions with his eyes closed. He followed Stuart to the walk-in closet beside the kitchen where the wevvi service and a few other significant dish sets stayed when not in use. Stuart slid the door aside and stepped back in surprise.
+
+Inside, a flustered voice was saying, “Stu-art’h! Oh.”
+
+Alden looked over Stuart’s shoulder and saw Bithe holding an ink brush and a piece of paper.
+
+“It’s both of you?” The knight turned back around quickly, but not before they got a look at his face. His eyes were puffy, and he’d wiped away some of the paint Leeter-zis had applied. “Ryada and Emban are talking. They should talk. And…I’m tired, so I thought I’d come leave a note here. For the bors. Learning about their lives has been a privilege. I’m going to write something like that and then leave. I’m just taking a while, <<arranging>> my thoughts.”
+
+He stood over the wevvi tray. The paper in his hand was blank. Alden waited for Stuart to say something.
+
+Say something, Stuart.
+
+“I am not going to be pleasant company right now,” Bithe said after a moment. “Maybe Alden Ryeh-b’t didn’t tell you, Stu-art’h, but Ryada has decided to reject Emban. And…she’s also decided she will not go with our squad this year. She said she’s sorry for all the trouble this will cause everyone. She said she…that she couldn’t take my home away from me by asking me to hide her secrets from the ones who live there with me.”
+
+His neck was bent, his shoulders hunched. “This paper is a lot more trouble than Ryada…I can’t seem to put anything on it.”
+
+“We were going to leave your pin,” Stuart said, at the same time as Alden was saying, “Stu said the bors would appreciate the pin. So maybe you don’t have to think of something to write.”
+
+They were both crowding into the tiny room with him like proximity would somehow solve it all.
+
+“The pin? That would be fine. Yes…”
+
+“We’ll put it right here,” Stuart said. “And I’ll get rid of this ink drop on the tray. Please don’t take on anything else by yourself. If you want to go to the teleportation point now, Alden and I will handle whatever needs to be done for the rest of the morning.”
+
+“We will,” Alden said.
+
+“We’re very capable.”
+
+“We are.”
+
+Stuart was pulling an embroidered handkerchief out of a pocket and dipping the corner of it in the drop of ink. “See? Everything will be—”
+
+Would he have said “fine”?
+
+Alden never found out. At that instant, something strange happened around them. Alden held himself still, trying not to react physically or with his authority, even though reality seemed to have an unfamiliar buzz to it.
+
+It’s not that strong? I don’t think it’s directed at me. Is it dangerous?
+
+Bithe was wincing. Stuart had stopped talking and closed his eyes like he was listening.
+
+The phenomenon ended as suddenly as it had started…with an explosive, shattering sound from the living room.
+
+******

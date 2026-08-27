@@ -1,0 +1,473 @@
+---
+id: c9b1f589-ca7d-5bb5-b506-c36a5d7acc19
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED SEVENTY-SIX: Class Notes"
+slug: 0178-one-hundred-seventy-six-class-notes
+partOf: super-supportive
+position: 178
+ownLength: 5010
+unit: words
+publishedAt: 2024-10-17
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1854383/one-hundred-seventy-six-class-notes"
+royalRoadId: "1854383"
+---
+
+176
+
+******
+
+Scenario:  Your entruster is about to ride away in the car with her father and sister. You shoved a temper sphere into your pocket earlier…in case you needed to scare seasonal Jatontan pests to death. You spot some paracord lying on the ground. You manage to get her to entrust the cord to you just before the car takes off.
+
+It’s getting dangerous. What can you do with the things in your hand and the environment around you?
+
+In the MPE gym, the only resources Alden had were the ones he carried and the ones people threw at him. The floor was a hostile alien substance that wouldn’t work as ground. Elemental weights could be taken into dueling blocks if he wanted, with some caveats prompted by the trouble a couple of people had caused with them on Wednesday.
+
+The random breaks between duels were part of the challenge, too.
+
+What could he put together if he had only ten seconds? Five minutes? Here at the beginning of class, the wait in between fights could fall at either end of the spectrum.
+
+And he was behaving himself today. Constant double preservation wasn’t an option while he practiced since he would be switching his entruster repeatedly to whoever was nearby and not busy. So he’d cut himself off if he needed to—a self-imposed authority-strain limit. He was hoping that he could make it all the way to the end of the session anyway.
+
+Flinging around mostly small things and not using super long weapons should help with that.
+
+His fingers pulled four of the white inner cords out of the woven sheath that formed the paracord’s outer layer.
+
+Out of the corner of his eye, Alden spotted Haoyu and Lucille entering the dueling block nearest to where he stood in the prep and practice area.
+
+I want to watch that one.
+
+He reminded himself that the footage would be available later and turned his attention back to his hands.
+
+Just a few inches of the white strands for this. Since he’d already had time to put together some more fiddly, time-consuming options before class started, he’d go for a ten-second tool here. He draped the white strands over the top of the temper sphere and pinched them closed around it.
+
+“Lexi,” he said.
+
+His roommate was nearby punching tiny holes in a target with Writher. “Preserve it,” he replied without even looking.
+
+Alden did. Just the paracord, not the sphere. The bulk of the cord was in an oval coil he could grip like a handle. A three-foot strand extended out from it, and then the white strands emerged from that, forming a cage for the translucent orb. He waved it around, getting a feel for it.
+
+Preserved, it was basically the same kind of ball launcher people used to throw farther when they were playing fetch with their dogs.
+
+It’s definitely simple.
+
+He went through a few different throwing motions, careful not to drop preservation yet—overhanded, swinging it like a bat, side arm. He was trying to imagine what would happen if he released the sphere at different points.
+
+Finally, a couple of his classmates got called to duel, and the area in front of him cleared. He tried an overhand throwing motion again, with more force this time, and at what felt like the top of the arc, he stopped shielding the cord. It went lax and fell, but the temper sphere, freed from its cage, shot up and out to hit the barrier at the end of the practice area.
+
+Wow. Distance is easy to achieve.
+
+The spheres were slightly larger than golf balls. Deceptively heavy. Hitting one of his classmates in the head with that one he’d just launched wouldn’t be ignorable for most of them. The realism settings being dialed up would help.
+
+Today nothing would hurt. Just movement restriction again.
+
+But I’m not going to be able to deliberately hit anyone with a shot at that distance. He bent to take another sphere from the carton at his feet.
+
+It didn’t look like the one he’d just thrown had broken on impact, but hunting for where it had rolled was a waste of time.
+
+He loaded the next sphere the same way as the first. It took just a moment to drape and pinch the strands around it, then he stretched the cord taut again. Reloaded.
+
+And the speed wasn’t bad. Maybe he could get off more that one shot against some of his classmates.
+
+I don’t know. It’ll be slightly embarrassing if it’s worse than just pitching without a tool.
+
+He wondered if Tatiana Evans was still furious with him for hitting her in the face with one of the temper spheres during combat assessment.
+
+He practiced, imagining he was going up against a running person who didn’t have any ranged talents of their own. Then they reach me, furious because I hit them…but not hard enough to do any real damage. And I hold them off with the paracord until time runs out or I yield. Or die. Depending on who they are.
+
+He had to consider what shielding cost him in duels. A repeat of his instant loss to Marsha was no good. As long as the instructors didn’t get annoyed by it, he’d rather just not protect himself with his skill when someone was almost certain to land a blow like that on it.
+
+It wouldn’t be very fair of them to complain as long as I’m trying something else educational.
+
+He set aside the ball launcher. It really wasn’t that bad. Especially when he reminded himself that he could fling a bowling ball exactly the same way with only a little more authority strain.
+
+Possibly an invisible bowling ball. Several invisible bowling balls.
+
+He decided that any time he successfully smacked someone with a sphere or some gravel, he’d pretend he’d gotten them with a more substantial piece of ammo instead. And there were a couple of situations he thought he might end up using the larger elemental weights for.
+
+He practiced with one of his slings next. He had a long Balearic-style one he’d found a design for online. He wanted to try it out in two different ways: swinging and preserving the whole thing, projectile and all, for a perfectly timed and aimed release. Or swinging and then preserving just the projectile.
+
+As long as he didn’t screw up and drop the preserved rock or sphere, he thought he should be able to take it out of the sling and then hide it in his hand and deliver it directly to someone’s face.
+
+That would be pretty effective against most people, I—
+
+[Dueling Block 2]
+
+[Opponent:  Heloísa, Strength Brute - A]
+
+[Incapacitate your opponent.]
+
+[Kills:  Allowed]
+
+He looked over to where Heloísa had been practicing roundhouse kicks against a dummy that turned different colors depending on how badly she’d hurt it. She sprang into the air in a split jump and waved at him eagerly.
+
+She’s going to be so disappointed when I don’t let her punch the hell out of my shield.
+
+******
+
+MPE Notes - November 23, 2040
+
+DOG BALL LAUNCHER
+
+Pros:  very easy to make in a hurry, not difficult to use. Once I switch from ranged attacks to close ones, it’s just a stick with extra pointy pieces on the end, and that’s not too complicated to handle.
+
+Cons:  can’t preserve the projectile…if I double-run the skill I could. But not in gym.
+
+Modifications to try for DBL
+
+for temper sphere:  invisibility will be useful when my aim is better.
+
+for gravel:  definitely easier to get a hit with several pieces at once, harder to quickly make a “cage” that the pieces won’t slip out of. Solve this.
+
+Try again:  with elemental weights to see how far they fly
+
+Heloísa (Loss)
+
+It would be good to practice the sling against her instead. Doesn’t seem to want to hurry through the fight, just stood there kicking whatever I threw at her back toward me until the last few seconds. Can’t afford to let her hit one of my shields early in the class period either. She’s a willing target. Don’t throw spheres at her next time. Too expensive. She’s found out they’re tough to break and she takes that as a challenge.
+
+Rebecca  (Draw)
+
+I think she was taking the opportunity to try something with her jumps. Easy enough to dodge and then she messed up and overshot me when she was going for the last-second win. I should try a fishing line weapong against her at some point. She’s more likely to slam into it than most, and I want to see how it compares to taking Winston’s hit.
+
+Tuyet (Loss)
+
+Obviously. Might try to shield against a dart if I get to fight her at the end of a class.
+
+GRAVELPULT
+
+Well, now I know what this is good for in the gym. Scattering gravel all over the place makes randomly dispersed ground element. I can’t imagine what it would be good for in real life. It’s just an oversized version of Dog Ball Launcher that requires more focus to preserve correctly.
+
+Having additional containers or pre-made nets attached to a rope for easier loading of ammo is good, though.
+
+Haoyu (Loss)
+
+I don’t know why I hurled the gravel at him from the wrong side of the block during the territory game. It was zero percent distracting for him. Stop grinning at me like that, Haoyu. I’ll use it the right way next time.
+
+STAFF SLING
+
+There is some design flaw or a timing flaw or a me flaw. When I dropped preservation to release the end of the sling, the sandbag I was trying to throw went almost straight up instead of forward. I should probably try this again when I’m allowed to have an actual staff. Practice area only.  Didn’t bother to try in battle since we aren’t besieging a castle today. Unfortunately.
+
+BALEARIC SLING
+
+Fun. Can choose to preserve the sling and the projectile together just before release, or I can preserve only the projectile. Second is slightly risky…don’t let it slip out of the sling again, stupid. Preserving projectile only would be good for tricking people. Especially combined with temper sphere invisibility. But preserving the whole thing together is better in most cases since I don’t lose entrustment on the sling and can still use it for defense.
+
+Everly  (Win)
+
+She froze my shoes. I gave her a concussion with the sling from close range. I hope it didn’t hurt her feelings too bad.
+
+Mehdi (Loss)
+
+It was the territory game versus an Agility Brute—of course I lost. He’s being weird about it.
+
+*POCKET FULL OF SAND — I want this. I think I should talk to Marion, Foxbolt or Big Snake. They let Shapers have something reasonable that represents their element because why wouldn’t they always have a little something on them? And since I have an element-specific ability, I should be allowed to als—
+
+******
+
+[Dueling Block 3]
+
+[Opponent:  Max, Adjuster - B]
+
+[Claim your opponent’s territory by tagging all of the marked locations on their half of the block.]
+
+[Kills:  Disallowed]
+
+Alden stopped adding to his notes and swiped them away, along with the damage read-out for the dummy he’d just tossed a heavy bag at.
+
+Max.
+
+A little thrill of anticipation and nerves ran through him as he looked around for the Adjuster.  He saw him heading toward the block they’d been assigned.
+
+They didn’t give him any set-up time for this one.
+
+Sometimes, they let Max have an extra few seconds in the block before his opponent was notified of the duel. For trap placement.
+
+He doesn’t really need the head start in this game. At least not against me.
+
+Having float zones or inescapable treadmills in a competition where speed was key was tough to manage.
+
+Alden had spent more time imagining duels against Max than against most of the others. The match-up between the two of them wasn’t a foregone conclusion. Physically, Max might be a bit stronger, but Max definitely couldn’t get through one of Alden’s shields. Unless the float zone screwed Alden over.
+
+I should be able to keep it from doing that.
+
+But it might take practice.
+
+Territory claim favors him.
+
+Max could go for the win in so many different ways. Trap me, attack, ignore me completely and speed himself up with his own zones.
+
+Alden had come up with options of his own for handling the Adjuster, but picking the right one wasn’t easy.
+
+I’ve been managing my authority well so far. I’ll go with…
+
+He looked over at the bag he’d just hurled into the dummy. A little extra weight wouldn’t hurt. And his enhanced hands were getting better at tying stuff together on the fly.
+
+******
+
+“I’m flattered,” Max said dryly when Alden walked past him on his way toward his starting spot.
+
+“You should be. This is the largest weapon of the day.”
+
+Max raised an eyebrow. “If you actually manage to hit me with that, you might break my neck.”
+
+Alden smiled at him and waved his sandbags over his head—the two 120 kilo sausages were tied together, and plenty more of the webbing that bound them was frozen in a substantial coil around one of his arms. He didn’t really want to hit Max with the sandbags unless it became the thing to do in the heat of battle. But if Max assumed that they were meant to be used as the giant hammer head they resembled, good.
+
+While the timer to the duel’s start counted down, Alden set his sandbags beside his feet and considered the layout of the territory squares on the floor. The block for this duel was around three quarters the size of a standard basketball court by his estimation, and the squares on the floor would be identical on his side and Max’s. The game would be three minutes long.
+
+According to the rules, you had to tag each square in your opponent’s territory with a body part—usually a foot unless you were having a really bad time. Once you’d tagged the tenth square, ten more would appear in a random pattern, one at a time. Tagging the twentieth square on your opponent’s starting side before they tagged twenty on yours was a victory. Injuring your opponent was fine, but killing them meant you had to go run track until Klein felt like forgiving you.
+
+Deceptively hard. That was what Alden had decided after watching a lot of rounds and participating in a few himself.
+
+Tagging twenty squares in three minutes wasn’t a problem; they were sometimes even arranged conveniently. Alden had already spotted the cluster he would end his first round on, assuming there was no interference from Max—four squares grouped in the corner that could all be tagged with a couple of steps.
+
+But there would be interference.
+
+Probably.
+
+[START]
+
+Alden lifted and preserved his burden in a single motion. His skill protected the webbing from the weight of the bags. He positioned it over his shoulder like a hobo’s bindle and dashed for Max’s side of the block.
+
+From this point on, he knew it would mostly be action and reaction. Ideas would seem stupid or brilliant after the fact, but the only ones he could really take pride in were the ones he’d thought about and planned for before the start signal.
+
+He was still trying to decide if he liked the way close matches went here in the gym. He thought maybe he did, or he would when he knew his own abilities and responses better. When he’d done it so many times that right decisions got baked into his bones and he wasn’t constantly being surprised in unfortunate ways, they would be fun.
+
+Now, he crossed the midline onto Max’s half to see the Adjuster wasn’t running yet. Instead, he was casting the spell Alden had thought he would.
+
+Treadmill Zone.
+
+Satisfaction. Annoyance.
+
+Alden’s foot tagged a square. He ran at Max, swung the bags toward him like a hammer turned sideways, and dropped preservation so that the bags flew, trailing a line of webbing behind them that was still connected to the supply in Alden’s hand.
+
+Don’t stop, he told himself.
+
+Another square got tagged as the bags thudded onto the floor and rolled toward the place Max had just vacated with a sideways lunge.
+
+The coil of webbing unspooled rapidly. Alden almost didn’t adjust his grip in time to avoid losing it.
+
+Preserve. Lift.
+
+He ran at Max again.
+
+Max’s hands hadn’t stopped moving. His mouth hadn’t stopped moving. Spell impressions helped you focus, and he might have been the best in the class at refusing to be interrupted no matter what.
+
+I saw him casting while he was falling off the wall on the obstacle course that time.
+
+And here he was now, casting and sprinting while Alden was levering the bags up again, over his own head again, down and forward toward Max again.
+
+Don’t die, Max. Don’t fall apart, knots. Don’t snap, rope.
+
+Max ducked, and the bags sailed over his head.
+
+Alden re-preserved his webbing at once.
+
+Heavy.
+
+He had caught the sandbags before they hit the floor this time. They strained against the preserved webbing then settled, momentum spent.
+
+Shouldn’t smash them around more than I have to.
+
+He wasn’t completely confident in the knots he’d tied at the last minute to add the second bag to the first. He’d been in a hurry.
+
+But throwing them around played into Max’s impression that they were primarily a weapon. If he thought that, then maybe he wouldn’t decide to change tactics. Alden managed to catch a territory square with the very edge of his shoe as he reached the spot where the Adjuster had ducked. It was empty. Max was two strides ahead of him, arms pumping instead of casting as he ran for the other side of the block so he could start tagging Alden’s squares.
+
+He got the spell finished.
+
+Just one zone, but it could be anywhere. Max often cast them directly in front of where he was standing, which made it tempting to imagine it there, but that was a trap too. He could put them where he wanted as long as it was in range.
+
+Stop chasing him.
+
+Alden stopped and swept the thing that wasn’t a weapon sideways hard for one last attack. The preserved line slapped into Max’s shoulder and stopped. He ducked under it and glanced back.
+
+Can I drop the bags on him from here after all? That might be—
+
+And before the thought could be completed, Max was one step farther ahead. Out of reach.
+
+Squares!
+
+Alden set the bags on the ground. Dropped preservation. He was closer to one side of the dueling block than he’d planned, but it didn’t matter. Speed was what he needed now. He ran around the sandbags in a circle, leashed to them by the end of the webbing still gripped tightly in his hand. When he’d hit every square in range, he grabbed one of the loops tied around the bags like a handle and re-preserved. Those four squares in the corner.
+
+He ran toward them.
+
+He ran toward them.
+
+He ran toward them and went nowhere.
+
+Found the trap.
+
+He felt a rush of excitement. It was only a single trap, he had managed to keep his tool in one piece without loosing entrustment, and Max wasn’t nearby.
+
+The treadmill was wild; he couldn’t travel more than a single step in any direction. Some people could jump or run out of it—not Alden.
+
+He set the sandbags down again, outside the treadmill zone he was caught in. He looped the webbing hastily around his left arm, gripped it, and tugged against the weight, trying to use it to pull himself free.
+
+Nope.
+
+Unsurprising. He’d thought more force would be required. He just hoped he’d brought enough.
+
+He preserved again, lifted the sandbags over his head, and flung them hard ahead of him before dropping preservation.
+
+Two hundred and forty kilograms sailed forward beyond the limits of the trap, and as Alden’s breath caught, the weight yanked him off his feet, into the air, and free.
+
+He hit the floor in a decent roll and stopped himself quickly.
+
+My arm is super broken! Elated with his success, he slapped two squares with his unbroken arm and scrambled to his feet.
+
+The suit was applying a movement restriction, but only to his arm and shoulder. The plan was to use his legs now, nothing else.
+
+He tagged the last two squares, and a new one appeared only a step away. He sacrificed a fraction of a second to take a single look at Max—not to worry about how much progress his opponent had made, only to make sure he was still over there, running around, instead of heading back this way and casting spells.
+
+As soon as he saw that was the case, Alden took off.
+
+I’m not slower than him.
+
+Max had speed zones, but he had to cast them. And he had to choose to cast them here, in this duel, instead of in another one.
+
+He’ll think the trap was enough to stop me. I have to go all in.
+
+Alden sprinted from square to square, running as hard as he could.
+
+Fourteen. Fifteen.
+
+Don’t look again. A fight will end in a draw at best. He won’t be satisfied with a draw against the only other B-rank. He’s not coming back over here.
+
+The treadmill trap probably still had juice in it. If another square appeared inside it, the delay would be unlucky.
+
+He dodged around the zone. Eighteen.
+
+He went all the way to the opposite corner flat-out for nineteen. Then, spinning so hard he almost fell, he spotted the last one appearing.
+
+Red. There.
+
+Three strides to reach it.
+
+Twenty!!!
+
+In his mind, he screamed it victoriously. In reality, he doubled over, gasping as he took in the notice.
+
+[Duel over.]
+
+[Winner:  Alden]
+
+******
+
+******
+
+[Tattoo gone!] Haoyu texted the second Alden stepped into the recovery sauna.
+
+Which was just about the only thing that kept him from promptly turning around and leaving the recovery sauna. The benches were nearly filled. Instead of the usual two or three adults minding their own business, there were more than thirty of them. They were still minding their own business, but the crowd made it way less relaxing.
+
+For me at least.
+
+Haoyu looked comfy enough. [Where did it go?] he asked.
+
+I was only going to spend twenty minutes anyway. He still preferred not to fly back to Matadero in the dark. He took a seat between Haoyu and a guy with his arms crossed over his chest and his eyes closed
+
+[What do you mean?] Alden texted. [I never had a tattoo.]
+
+Haoyu let out a tiny puff of amusement instead of a laugh.
+
+[I’ve still got the triangle under my arm,] Alden said. [It’s permanent. I had the rest removed.]
+
+[Where the new tattoo?]
+
+Right. The secrecy tattoo for Matadero that I don’t have yet. He kept his face as straight as possible. [Got it right over my butt. A big M for Matadero. To cheer Lute up.]
+
+Haoyu’s brown eyes went wide then fixed on Alden’s stomach like they could x-ray vision through him to see the spot in question. [He didn’t really. Did he? What to say?]
+
+If they had been alone, Alden would have died laughing. Instead, he clenched his jaw…and still failed to bite back a grin.
+
+Haoyu caught the expression. [Joke!]
+
+[I got you. Finally.] He looked around again at the people filling the sauna. [Why is it so crowded tonight?]
+
+With a series of only slightly confusing texts, Haoyu managed to explain that the spa facilities at North of North had been packed when he stopped by yesterday as well. Everyone with a membership was treating themselves after the week they’d had, and a lot of working superheroes and celebrities who were usually off the island had come back to help out and to be seen helping out.
+
+[Like Cavemanly.] Haoyu subtly pointed at the man beside Alden.
+
+Much less subtly, Alden turned his neck to stare. [That is Cavemanly!]
+
+[You didn’t knowing?]
+
+[I didn’t recognize him with his hair up. And clean.]
+
+There were several other vaguely familiar people in here, now that he looked around.
+
+[So what do you think of duels?] Haoyu asked.
+
+Alden refocused. [I liked them more today than Wednesday. I learned a lot.]
+
+A lot.
+
+The high he’d gotten from the challenging but manageable fight with Max had been marred by a duel he’d had with Ignacio shortly after it. Just the memory made his shoulder blades draw together and his breath hitch. Unlike Marsha, who wanted to get her fights against boring low-ranks over with as fast as possible, Shrike wanted to make his more interesting for himself. So he’d decided not to use his flock of knives against several members of the class. He’d faced off against Alden with zero powers, relying instead on his significant stats and a single bowie knife.
+
+Which was very sportsmanlike and all, but I wish he’d just pincushioned me from the front with his Meister weapons and overwhelming magical force.
+
+Having someone knock him to the ground and then drive a sharp object toward his back hadn’t caused a panic attack, but Alden had frozen in the moment and felt almost sick to his stomach afterward.
+
+It was way too similar to what the guy in the greenhouse had done to him while he was trying to rescue Zeridee.
+
+Something else I need to deal with. Can’t let stabbing attacks from behind become a new phobia or trigger.
+
+Tiresome. Maybe it was the kind of thing the mind healer could help with.
+
+It’s going to be so awkward if I meet her and decide I can’t trust her not to go poking through memories I don’t want her to see.
+
+He needed to take his mind off it for now.
+
+[I’m going shopping tomorrow,] he told Haoyu. [With one of the Rabbit counselors from intake. For clothes that will help me blend a little more when I go to—]
+
+The door to the sauna opened and one of the spa employees ran in.
+
+They really must be busy if she’s delivering the recovery potion refill at that speed, thought Alden.
+
+The spa people usually went for calm and quiet.
+
+<<I apologize to you all for the interruption,>> she said. <<But we thought we should tell you that a wizard has arrived and asked to try this room. You’re welcome to stay, but…a wizard will be here in two or three minutes. Maybe five minutes. We’re stalling him by giving him smoothie samples.>>
+
+Alden was surprised that a third of the people present immediately stood and headed for the door. Cavemanly ran off at a speed that made the employee shout.
+
+The woman who Alden had seen here a couple of times before took her cucumber slices off her eyes. “They scampered away just like that? Good. More room for the rest of us. Bring me a fresh towel, please.”
+
+She started to replace her slices.
+
+<<It’s one of the generals.>> The employee whispered the news so quietly that Alden wouldn’t have been sure it was intended to be heard if not for the translation.
+
+Alden exchanged a glance with Haoyu.
+
+Is this my fault? he wondered. Maybe Drusi-otta told them I was in a room full of heat and healing magic fumes, and one of them thought that sounded like the best idea ever.
+
+Cucumbers frowned.
+
+A couple more people stood up and left.
+
+The employee gave a small nod to everyone else in the room. <<I’ll be back in a moment with a new potion and more water bottles. We might send someone in to freshen up.>>
+
+There was silence for half a minute or so after she left. And then a man Alden had once seen playing the villain in an action movie made a show of stretching before he stood up. <<I don’t mind a little visit from a wizard, but if people are going to be marching in and out to clean I might as well go try the thought-softening sauna.>>
+
+“That’s a good point,” a woman said, standing up. “I’ve always been curious about that one.”
+
+Over the next five minutes, the sauna slowly emptied. Some people made excuses. Others just left.
+
+One older man with several tattoos, looking grumpy, was finally dragged away by a much younger looking man. It was just Haoyu, Alden, and Cucumbers left.
+
+She sighed and rose to her feet. “The Sunday crowd is so much cooler. I don’t mind chatting with a knight, but I don’t want to be the only human representative in the room. It’s not very spa, right? You two had better get going, too. Don’t try thought-softening, though. Who knows what it’ll do to teenagers?”
+
+When it was just the two of them, Alden, feeling very unsettled, looked over to tell Haoyu it was all right if he wanted to go.
+
+“Now there’s room!” Haoyu said. “I’m going to lie on the top.”
+
+And he did, planting himself dead center on the topmost bench.
+
+Alden looked around at the large, empty room, then back at Haoyu, who was making himself comfortable.
+
+The employee hurried back in with a potion. She stared at them.
+
+“Are we allowed to have cucumbers in the sauna like that woman?” Haoyu asked. “It says no food, but I really want one.”
+
+“Which of the hn’tyons is it?” asked Alden
+
+“General Esh-erdi.” Her frown was worried, her voice nearly sub-audible. <<You two should leave. He’s heading here now.>>
+
+“Why would I leave?” Alden replied. “He’s nice, I have his nonagon, and I need to ask him about a corn snake.”
+
+******

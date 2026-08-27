@@ -1,0 +1,241 @@
+---
+id: 6011d870-094d-5b7c-b4e7-2d41934c0d30
+page-type-slug: story-chapter-royal-road
+title: "Chapter 629 - Subsidization"
+slug: 0630-chapter-629-subsidization
+partOf: mythrans-master-of-all-continued-completed
+position: 630
+ownLength: 2732
+unit: words
+publishedAt: 2018-07-05
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/230915/chapter-629-subsidization"
+royalRoadId: "230915"
+---
+
+Dana and her friend went to Ren's business and saw that it was quite empty of customers. “Do you think what he did drove them away?”
+
+Her friend shrugged. “No idea.” She said. “Maybe this is just a slow time of day?”
+
+They went inside and saw three sales girls asleep on a big couch and walked over to the counter.
+
+“Hello! What can I do for you today?” Anabelle asked them.
+
+“We'd like one of those life saving novelty rings.” Dana said.
+
+“Those have been very popular lately.” Anabelle said and reached under the counter and took one out. “That'll be one gold coin, please.”
+
+“Wait, did you say one?” Dana's friend asked as Dana paid. “Just one?”
+
+Anabelle nodded. “I was tempted to raise the price when the demand became so high, but Ren wouldn't want me to do that.” She said and smiled. “Everyone should get it for the same price, no matter when they buy it.”
+
+“How does he stay in business?” Dana asked.
+
+“More things become available, and there are a lot of people around.” Anabelle said. “Tee-one told me about the Portal Gate, so I expect there's going to be a lot more customers around soon.”
+
+“How soon?”
+
+“Oh, by tomorrow at the earliest.” Anabelle said. “People will start finding their way here eventually, and then I'll need to have my helpers here all the time.”
+
+Dana turned and looked at the three women. “They don't look like much help for you.”
+
+Anabelle laughed. “Ren's Charm Person spell had them dancing all around the store, and now they're exhausted.” She said. “I couldn't blame them, really. I feel like dancing myself after he makes me... um... happy. Yes, happy.”
+
+Dana and her friend stared at Anabelle with wide eyes at the implication, and she laughed again.
+
+“Is there anything else I can help you with?” Anabelle asked.
+
+“Yes. I'd like a ring, too.” Dana's friend said and Anabelle gave her one as well.
+
+“Just put them on and say 'Activate', and you will pop out of the water like a cork, or you can just walk on water like it's the ground.”
+
+“Really?” Dana asked and slipped the ring on her finger. She read the popup that told her the same thing, and smiled as she dismissed it. “That's so cool!”
+
+“It really is.” Anabelle said. “A novelty toy turns out to be the best thing that everyone needs now, especially with all this Sea Dweller nonsense.”
+
+“Um... did... did Ren make this?” Dana asked. “Not like had it made, but he actually touched it and stuff?”
+
+“Actually, yes.” Anabelle said. “When he was here the other day he made lots of stock for the store.” She said. “The first thing he did was make several thousand of them.”
+
+Dana caught her breath and hugged her hand to her chest.
+
+“Hold on, did you just say several thousand?” Dana's friend asked.
+
+Anabelle nodded. “We are almost out again.” She said and looked over their shoulders. “Tee-one?”
+
+“Another batch coming right now.” Tee-one said and walked out of the forge section and over to the counter with a display box. There were hundreds of rings in it. “Being able to make multiple items with one use of the Craft Wondrous Item ability is so much easier than making them individually.”
+
+Dana and her friend stared at the armored metal man. “Hey, I've seen your face somewhere!”
+
+Tee-one smiled. “I've only been back here for a few days, so unless you've been to Walin County, you wouldn't have seen me anywhere else.”
+
+“I think she means who you look like.”
+
+“Oh!” Tee-one chuckled. “Yes, I do look like someone else. Ren did it as a joke.”
+
+“Who are you?” Dana's friend asked.
+
+“My name is Tee-one, and I'm Ren's Dedicated Servant Crafter.” Tee-one said, deliberately not giving the information she asked for. “Anabelle, anything else that needs to be restocked?”
+
+Anabelle turned around and looked at the display behind her. “Maybe another hundred or so of the Protection amulets, and I suppose you could make a few more of the Dexterity enhancers. We've sold a lot of those.”
+
+“I'll do them right now, then move on to the armor sets.” Tee-one said.
+
+“We only need them ready for the town soldiers by tomorrow afternoon, so don't work too hard making them.” Anabelle said with a huge smile.
+
+“Please don't insult me like that.” Tee-one smiled back. “I'll have those items ready in a few minutes.”
+
+Tee-one walked away and Anabelle turned back to the two women.
+
+“Will there be anything else?”
+
+“Um... how much for... do you have a Strength enhancer?” Dana's friend asked.
+
+“Of course.” Anabelle said and turned to the shelf behind her. She picked up a pair of gauntlets and turned around. “These are a bit more expensive at 5 gold coins.”
+
+“Hmm.” Dana's friend squished up her mouth. “That is a little pricey.”
+
+“They give you +10 Strength and +20% to your Defense.” Anabelle said. “It works great for fighters because it combines with your armor.”
+
+“Plus 10 Strength?” Dana's friend asked, then took out 5 gold coins from her inventory. “It's definitely worth that!”
+
+“What about the Dexterity one?” Dana asked and pointed.
+
+“It's the same price, except that it's +10 to Dexterity and +20% to your Accuracy.” Anabelle said and grabbed a set of bracers. “It's mostly intended for archers of all types; but, it can be used by any class that uses Dexterity as a main skill, especially with some kind of throwing weapon.”
+
+“I'll take...” Dana stopped talking when she looked into her inventory and saw only 4 gold and a few silver coins. “Nope, I can't.”
+
+Tee-one came over with the stock refills that Anabelle wanted, and she caught his hand to stop him from leaving when he set them behind the counter.
+
+“How much money do you have on you?” Anabelle asked Dana, and Tee-one held in his laugh.
+
+*
+
+Half an hour later, Dana and her friend left Ren's store with more enchanted items than they thought they could have ever afforded.
+
+“What just happened?” Dana asked in a daze as they walked down the street towards one of the East Gates of the city so they could get to the docks.
+
+“I'm not sure.” Her friend said while her hand played with the Protection amulet around her neck. “That metal guy touched my armor a couple of times and now I feel like it weighs nothing.”
+
+Dana's hand touched the spot on her cheap leather armor where some kind of symbol had appeared for a second, then it had disappeared and her armor looked so much better than she knew it was supposed to be. It also gave her what she thought were ridiculous bonuses for leather armor to have.
+
+“Mine, too.” Dana said. “This is really tough leather now and is nothing like it was before.”
+
+“I didn't think stuff like that was possible.” Her friend said. “I mean, I knew they could make some neat things, but...” She drew her sword out of the sheath and it gleamed in the light. “...look at this!” She exclaimed. “It actually looks better than it did new, and it has a Lightning enchantment!”
+
+Dana nodded and took out her cheap bow, only it didn't look cheap at all now. It looked like a proper warrior bow, and even though that metal guy had improved it right in front of her, she still had no clue how he had done it. On a whim she had said she wanted an Ice enchantment and he said that whenever she fired an arrow, it would do additional Ice damage.
+
+“That place is amazing.” Dana said and stored her bow, and her hand grazed her brand new coin pouch. “The coin pouches are cute, too!”
+
+“I can't believe you asked him to add frills and lace to yours.” Her friend said. “It's bad enough you asked him to make it into the shape of a heart!”
+
+Dana chuckled. “I would have liked Ren to make it, but that metal guy said he was made by Ren, so...”
+
+Her friend shook her head. “Give a mouse a cookie...”
+
+“After the first time they gave us something, you weren't protesting too much that we couldn't pay for it.” Dana said as they passed through the gate. “Then they gave us so much more!”
+
+“If they offer this mouse a glass of milk to go with the cookie, I can't really say no, can I?”
+
+Dana smiled. “No, because... oh, I think that's the one we're supposed to look for.”
+
+Dana's friend turned and saw a sobbing woman that sat on a chair in front of a fish stand. When they were close enough, they heard her asking for help to find her husband that was lost at sea.
+
+*
+
+“You know, I only wanted to help them out a little.” Anabelle chuckled after the two women left.
+
+“They were the ones near Ren when he did his leveling up.” Tee-one said. “Neither of them saw him as a monster, and they asked good questions. I wanted to thank them for that.” He said. “It let everyone around them hear his justification for what he did, and that word will spread.”
+
+“Oh, I don't doubt it with that Portal Gate in the town square.”
+
+“He picked the perfect spot for it, didn't he?” Tee-one said. “At some point during the day, everyone passes by the town square for some reason or another, and it's a common area that's not owned by anyone.” He smiled. “He's getting almost 150 platinum every few minutes from it.”
+
+“Wh-what?” Anabelle gasped. “You can't be serious.” She said. “He would have to charge...”
+
+“Only one copper coin.” Tee-one said. “Just think about it. If only the population of his Human starter city, about 300,000 of them, went through the portal just once...”
+
+“That's 30 gold.” Anabelle said. “But...”
+
+“They have to use it to go home, don't they?”
+
+“Okay, that's another 30 gold.”
+
+“Now, if you had access to every town and city in the whole country and could go anywhere you wanted, would you only go to one place?” Tee-one asked and smiled. “It's only one copper coin. Just curiosity alone would make someone travel to at least a few places, if only to see if it worked.”
+
+Anabelle thought about it. “Oh... oh, my.” She said with wide eyes. “A large portion of the entire country's population is now travelling through the Portal Gate Network every few minutes!”
+
+“They are, and I think what you said to those girls is right. People should settle down by tomorrow and start using the portal gates for actual trips to buy things, which means everyone in the entire country is going to be buying things from everywhere else.”
+
+“That means... Ren, he...” Anabelle took in a deep breath and let it out. “The sneaky little devil. He's causing an economic boom.”
+
+“Everyone is going to want things they've never seen before, now that they have access, so right after I finish making those armor suits, I'll start adding new stock as quickly as I can.”
+
+********
+
+Gloria had been deep inside a VW Beetle's engine block at the garage when her cell phone beeped at her. She had ignored it the first time because she was covered in grease and oil and it was all the way over on the workbench. She felt annoyed at the second time it happened half an hour later, then decided she had better check it, just in case it was something really important. She started to dry her hands, then was pissed when her cell phone buzzed again and kept buzzing at her.
+
+“GODDAMMIT!” Gloria yelled and tossed the rag down and grabbed the cell phone, and Frank looked out of his office at her.
+
+“Everything all right out there?” Frank asked.
+
+“Sorry, Frank. My stupid phone won't leave me alone.” Gloria said and held it up as she turned off the sound.
+
+“I warned you to turn the thing off.”
+
+I made that mistake too many times already, and it... it cost me. A lot. Gloria thought and sighed.
+
+“Hey, don't look so sad.”
+
+“The Beetle's dead, Frank.” Gloria said to cover her sadness with a harsh truth. “Heat and impact fracture in the engine block at the bottom of the last piston hole, and it goes right into the transmission housing.” She said. “It won't ever seal that way, so it needs a new block. If the guy can afford a new engine block for this thing, he's better off buying another car.”
+
+“Dammit, Gloria.” Frank said. “Now I'm sad.”
+
+Gloria chuckled. “Hey, you shouldn't have told him that if you can't fix it, you wouldn't charge him.”
+
+“I thought he just blew the piston.” Frank sighed. “Put the thing back together and I'll call him.”
+
+“It would be easier to just put the parts in the trunk.” Gloria said. “He'll just have to get them taken off later anyways.”
+
+Frank opened his mouth to argue, then shrugged. “I'll tell him.” He said and leaned back into his office, and Gloria looked at her phone. A large glob of grease was smudged over the front of it and she grit her teeth. It took her a minute with some degreaser and very careful cleaning before she could see the screen, and saw who it was.
+
+Dewtech.
+
+Gloria hit the dial button and waited, then an automated message played.
+
+“All lines are currently busy at the moment. Please stay on the line and a representative will be on to talk to you shortly.”
+
+Elevator music started to play and Gloria hung up the phone. She didn't have the time to wait until someone felt like picking up the phone, so she slipped it into her pocket. By the time she had piled all the engine parts into the trunk of the VW Beetle, her cell phone vibrated at her. She leaned against the wall and checked the phone. It was Dewtech again.
+
+I figured they would call back. Gloria thought, then answered. “Hello?”
+
+“Ms. Rayford, I'm glad I caught you.” A woman's voice said. “You didn't show up for work today and I was wondering if you were okay.”
+
+“Excuse me?”
+
+“After clarifying your job perks, we thought you would be in first thing this morning to accept.”
+
+“Did you, now.”
+
+“Of course.” The woman said happily. “Not everyone gets offered a high-end job as an entry position to the company.” She said. “No one in their right mind would refuse such a generous offer.”
+
+Gloria thought about everything that had happened that day, and the reasons for it to happen, and she sighed. “I need a bit more time than a few hours to think about it.”
+
+“If you count today, it's been 2 days since the offer was made.” The woman said. “Unless you make a decision soon, this offer might just disappear as quickly as it was offered.”
+
+“Really.” Gloria said. “If I said I needed until the weekend to make my decision, what would you say?”
+
+After a moment of silence, the woman spoke. “One moment please.”
+
+Gloria was now on hold. No elevator music, no business promotional, no anything. Just silence. After a couple of minutes, she thought she had waited enough and moved her thumb to end the call.
+
+“Ms. Rayford? Mr. Bitterdew urgently requests that you accept the offer as soon as possible.” The woman said. “Our timetable needs your expertise as quickly as you can make it available to us.”
+
+“Well, I suppose asking for 2 more days was a bit too much for you to wait.” Gloria said.
+
+“Wh-what?”
+
+“I was told I could take all the time I needed when the offer was made, so I'm not sure why you seem to have such a hard-on for me to take this job before the weekend.” Gloria said. “Something must have happened on your end for you to be so adamant about it.” She said. “Do you want my answer right now?”
+
+“That would be best.” The woman said, and the relief was clear in her voice.
+
+“Okay. No one pushes me around like you just did.” Gloria said, then spoke in her best sing-song voice. “You can take this job and shove it.”

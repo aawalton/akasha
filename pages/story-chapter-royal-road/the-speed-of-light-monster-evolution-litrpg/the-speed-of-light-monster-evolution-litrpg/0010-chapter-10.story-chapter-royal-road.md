@@ -1,0 +1,161 @@
+---
+id: 82264ff8-801c-5469-ae25-57e15f8b8646
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10"
+slug: 0010-chapter-10
+partOf: the-speed-of-light-monster-evolution-litrpg
+position: 10
+ownLength: 2169
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2525649/chapter-10"
+royalRoadId: "2525649"
+---
+
+Tachyon’s foot slammed down into the head of the Marsh Treant Sapling. An audible pop accompanied with a splash of green pulp that made her shiver.
+
+She had just reclaimed the 3rd Controlling Stone that she had lost the previous day. Unfortunately, every time she reclaimed a stone that she had already conquered beforehand, it did not spawn a chest nor give experience.
+
+But it wasn’t all bad. Along the way she was able to restock her bag with tasty treats. It seemed that the foliage and vegetation in the tutorial grew back rather quickly. At least here on the outskirts.
+
+Now that Tachyon had cleaned up the last of the screaming little trees that ran around and turned into green goo when squished. She was ready to continue her way to the faint pillar of light in the distance.
+
+And if you are wondering why she had not brought up her new rare skill. Well, there was a very good reason.
+
+She had tried to use it earlier and frankly. It was scary as fuck to control.
+
+Currently, there was a problem with using the skill. Her stats were incredibly disproportionate.
+
+While she was happy with being very fast. Tachyon was not at all durable.
+
+Forceful Momentum used a total of four stats. And from her experience when using the skill initially, she was able to find out that the speed and power of the skill was no problem. It scaled off of her Strength and Agility.
+
+The problem was that the control of the skill happened to scale with her Magic and Resistance. Which, you might have guessed, were not nearly as high as the former combined stats.
+
+Tachyon had given the skill a try on the way to reclaiming her first Controlling Stone. The skill itself gave her a very basic understanding of how to activate and use it as all skills did when they were acquired.
+
+However, she grossly underestimated just how fast she was.
+
+After charging the skill and galloping forward, she very easily built up speed and momentum like the skill described. The issue arose when she could not stop properly, nearly slamming into a tree -but missing it by a hair- only to nearly kill herself slamming into a rock.
+
+Thankfully, she just had enough resistance to put a dent into the boulder instead of turning into a broken mess against it.
+
+She was surprised by how little injuries she had from colliding with it. But a happy little accident let her continue on instead of waiting to heal for hours again.
+
+The previous two Controlling Stones were more of the same monsters surrounding them. A pack of mangy wolves and some silly birds that thought they could outrun her magic. However now, she raised her nose to the air.
+
+Tachyon could smell water and a lot of it. Before when she was in this area it wasn’t as prominent. The smell of fresh air, dirt and trees overwhelmed her senses. But now that she had become used to it over the few hours here, she could pick out the dirty water smell in the air.
+
+Leaving the most recently conquered Controlling Stone, she trotted towards the smell, the ground around her beginning to soften slightly under her weight.
+
+Which she thought was weird, she hadn’t eaten that many sweet berries. Was the ground just being rude?
+
+There was also a lack of trees, the once dense forest beginning to thin out. The dirty watery smell becoming overwhelming as the trees that did show up were much more barren. A lack of green feathers distinct.
+
+On the brown exposed trees there were flocks of idle birds that seemed uninterested in Tachyon passing through.
+
+After a few more minutes of traveling, the ground became so soft and soggy that muddy pools of water began collecting in certain places.
+
+Tachyon grew annoyed, her feet sinking into the more soft mud than hard dirt she was used to. This forced her to activate her Leg Strength skill to pull her feet from the sinking holes regularly.
+
+Soon, she felt a larger collection of mana which she recognized as the Controlling Stone. Along with whatever monster was currently guarding it.
+
+Trudging in that direction, she continued to use her skill to help her navigate the mushy ground, each one of her steps accompanied with a squish and a plop whenever she pulled a foot out of the mud.
+
+The stone pillar finally came into view, sitting on a small patch of green in the middle of dirty water.
+
+However, the problem was getting to it. As it was surrounded by lizards in the water.
+
+This was a problem. Tachyon had never fought in the water. In the arena it was always in the dirt and sand. She also had no idea what kind of monsters these water lizards were.
+
+The disadvantages were already piling on and the fight hadn’t even started.
+
+A bit annoyed and disgruntled, she still trekked on, using her Leg Strength skill as much as possible to help her limit how much the mud was restraining her.
+
+Leg Strength has upgraded from Common to Uncommon.
+
+A welcomed upgrade in her current predicament. However, even with the skill rarity increase, she was still having difficulty with the muddy terrain. Only now she was becoming increasingly tired while using her skill.
+
+The skill seemed to have increased in strength from the upgrade but also took more stamina to activate and maintain.
+
+And just as Tachyon was reaching her peak frustration with the stupid soft muddy ground. She felt something bite her foreleg.
+
+Screaming in pain, she quickly manifested a pair of light carrots, raising her bitten leg at the same time.
+
+The leg emerged from the water with a scaly lizard the size of her whole leg, its teeth just barely unable to tear her leg apart thanks to her shoes and buffed resistance.
+
+Quickly sending a magic carrot into the side of the lizard's head, blowing it to bits. Tachyon quickly began reconsidering how worth this Controlling Stone currently was.
+
+You have killed, Mullard Caiman Level 5. Experience earned.
+
+Suddenly she felt the water move more than before. Looking down red was now mixed in with the muddy brown water, her leg still dripping from small puncture wounds.
+
+Realizing that she had just started a feeding frenzy, Tachyon summoned more light magic carrots and had her shoes consume a carrot for each leg as she scrambled to jump from the water into the air.
+
+A moment after freeing herself from the mud, her legs left the water, just nearly dodging the open maws of a large group of caimans. At the center a larger monster that wasn’t of the same race looked up at Tachyon with an extra large mouth, two long tendrils on either side of its face.
+
+The monster looked to be brimming with power, a more condensed amount of mana within it than the others. And she soon found out why.
+
+The weird creature closed its mouth, its cheeks puffing out. A second later she felt the mana inside the monster spike just as it pursed its lips, shooting out a jet of water into the air.
+
+Tachyon would normally scoff at a stream of water, but the mana within the attack had her gravely concerned as she jumped to dodge.
+
+The stream of water passed by her, however small flecks of the attack splashed and landed on her skin.
+
+Her skin began to sizzle and burn wherever the water had touched her, but soon died down thanks to her Resistance, dealing no real damage. But the thought of if the attack had hit her head on made her shiver.
+
+Was that an acid attack..? She grimaced.
+
+Only once in her life had she seen an attack like this. It was the same fight and attack that had killed her mother in the arena. A monster her mother had underestimated used it as a sneak attack to surprise her.
+
+Abject rage and anger filled Tachyon’s mind as the memory welled up within her consciousness. Losing the last of her family was the last straw that broke her within the arena. It was what turned her from a small foal into the fighter she became.
+
+She felt her anger reach its peak before calmness took over as her body numbed to it. Looking down at the monster, she knew she couldn’t win right now. But she would certainly be back.
+
+Tachyon moved on, leaving behind the Controlling Stone and acid-spitting monster for now. Losing the stone was regrettable but she had become complacent and underestimated the monsters of the tutorial. What she had gained from this encounter was the reminder of what pushed her to endure and escape from the arena.
+
+The one truth and law of monsters and the world. The strong get to live.
+
+If she wanted to enjoy her freedom, truly enjoy and embrace it, she needed to wholeheartedly throw herself into this new world outside the arena. She needed to gain unquestionable strength and carve out a piece of it. Just for herself.
+
+Gabriel sat down, a cigarette hanging from his mouth as he laid back with his hands behind his head. It had been a full day now as he stared at the same spot from his chair.
+
+At first he was unsure of what had happened. Had the horse monster had an escape or teleport skill? But he found out a few hours later that wasn’t the case. How could it?
+
+An F-Rank monster escaping a C-Rank? His mana sensing alone could track it for miles, but it had just up and vanished.
+
+No, what had happened was the introduction of a new era. And it had been scooped up to join in it.
+
+Gabriel wasn’t a stranger to random abrupt situations falling into your lap. Or pulling you into a separate subspace to give you a hard time. He had gone through it enough now to just shrug it off as good old system fuckery.
+
+But the bad feeling he had all of the sudden wouldn’t leave. With the system in place a monster or person going to a new tutorial when an introduction happened wasn’t strange. But monsters could grow much faster than humanoids, reaching the ends of S-Rank much more quickly.
+
+That wasn’t to even mention that after a certain point those monsters became nearly indistinguishable from people. And the biggest problem was that they were able to grow so fast, but they were animals first. Meaning their motivations were different than his and other humans.
+
+That meant that eventually the monsters would stop growing despite having the advantage of growing faster. They didn’t have the same insatiable hunger for power like most people driving them forward.
+
+But there was always an exception. If a monster decided not to stop. Well, that was when you got divine beasts and the beastial gods.
+
+Sapient monsters were always a problem, but a sapient monster with a bone to pick and nothing to stop it was a disaster.
+
+“Guardsman Gabriel, I do not believe this is a proper use of the city's resources…” Luka sighed, tapping a pen to a clipboard.
+
+“I think this is a fine use of our resources,” he laughed, pointing at the exact spot the monster disappeared, “You ever seen what happens when a monster evolves?”
+
+Luka scoffed, “Of course I have. Do not act like I haven’t been to the dungeon, every guardsman is required to survive an entire year there.”
+
+Gabriel shook his hand, “I’m not talking about those weak E-Ranks. I mean a real evolution. When they start catching the eyes of the other Beastial Gods and get some nasty blessings.”
+
+Luka raised a brow, confused.
+
+“Do you remember Pier, the Verdiant Wind?” he asked.
+
+“The B-Rank from France? Tutorial forerunner, one of the great 10 powers of Earth…”
+
+“Yeah, that was until a B-Rank jellyfish by the name of Unbrada came and put a fuck you sized hole in his chest,” Gabriel laughed mirthlessly, “That thing killed him and wiped half of Europe off the map all because it didn’t like that they were in it’s way while it was making its way to the Persian Gulf.”
+
+“And you are saying that this monster could be something like that?”
+
+Gabriel shrugged, “It’s only F-Rank, but a blessing by a God, especially a powerful compatible blessing, can turn a problem into a nightmare in the blink of an eye. And I just have a bad feeling… So, I’ll be sitting my pretty white ass here until that tutorial is done. Either it shows back up in a few months, or it died and I get to sleep easy.”
+
+Luka looked dubiously at Gabriel, expecting him to just be making an excuse to slack off. But Gabriel remained seated, staring at the spot on the alleyway for something to happen, a small white line of smoke snaking into the sky.

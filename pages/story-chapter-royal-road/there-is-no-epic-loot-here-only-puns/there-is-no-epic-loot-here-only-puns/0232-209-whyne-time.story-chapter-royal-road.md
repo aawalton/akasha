@@ -1,0 +1,237 @@
+---
+id: ff37f72d-79b1-5149-aa63-8c48d101ff67
+page-type-slug: story-chapter-royal-road
+title: "209: Whyne Time"
+slug: 0232-209-whyne-time
+partOf: there-is-no-epic-loot-here-only-puns
+position: 232
+ownLength: 2524
+unit: words
+publishedAt: 2024-07-02
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1702322/209-whyne-time"
+royalRoadId: "1702322"
+---
+
+Grim frowned as the voices of protest rose with increasing irritation.
+
+“Why are they moaning at me?” he muttered to himself as he looked down at the rabble on the ground floor.
+
+“Something about you being a guildmaster, I presume,” came the annoying voice of Grim’s royal guest. Princess Serma walked past, eyeing the adventurers demanding answers for the newest problem they were running up against.
+
+“They’re complaining about a ‘king’?” she asked, listening to people offer ideas only to be shot down by their others.
+
+“King Jellagon; he’s making them all turn to jelly at the knees,” Grim responded as he crossed his arms. His inside sources of Hob and Gob ensured Grim knew the basics of each floor but he did give his word he wouldn’t spoil anything adventurers hadn’t encountered personally.
+
+“A boss? Surely, someone must have beaten it, there are too many here for them all to have failed,” Serma blinked and Grim knew she wouldn’t believe any ideas of a peaceful Dungeon. She presumed them to be bloodthirsty or so close to gods that they didn’t think like people.
+
+“Delta doesn’t kill. She keeps you alive to make sure you learn a lesson or go insane,” Grim said, knowing it was pointless to tell the girl this. She wouldn’t listen until she experienced it.
+
+“Putting the moral issue aside, how has no one in a group this diverse discovered a weakness?” Serma deflected and Grim pursed his lips as he listened to people argue.
+
+“We used fire axes and he was as big as a house! He smothered us like a wave of blueberry death!” a woman yelled in anger. Grim snorted. Fire Axes on a being using a dragon skull for a home? Were they adventurers or just arsonists with axes?
+
+“Psh, we used ice magic and it shattered into a dozen ricocheting ice cubes that knocked out Daryl’s teeth!” a man roared, dragging a puffy cheeked man into view, his jaw wired shut. Grim clenched his jaw and fought tooth and nail to start hurling insults.
+
+“Ice magic? On the amorphous blob? You might as well arm the goblins with mythril steel shields and run into them repeatedly!”
+
+“We used an expensive curse spell scroll. Cost us half a year’s savings. The thing withered and we thought we won until a hidden piece fell out from my boot and it regrew! All that gold! Gone!” a woman screeched, looking wild in despair.
+
+“Idiots,” Grim said and his voice echoed around the guild hall impressively.
+
+“Oh! Mighty Guildleader. I don’t see you down there,” someone called with a mocking tone and Grim flexed his hand, making his cat totem glow, letting the extravagant fluffy cat spirit appear for him to pet. The reward from that accursed mouse was still a novelty item, rewarded to only a few.
+
+Those who knew their stuff looked at Grim with slightly more respect.
+
+“As my duty implies, I am here to help you all reach new levels of the Dungeon and solve any issues that arise from squabbles of adventurers. I’d have better luck herding cats, but here we are,” Grim scowled at the overgrown children pretending to be adults.
+
+“No one knows how to get past that monster slime,” someone argued and Grim smiled with amusement.
+
+“No one ‘here’ knows how. Any adventurer with half a brain wouldn’t spread it around because the longer you all flail around using idiotic methods, the greater chance they will obtain something special before the rest of you,” he pointed out and it must have just clicked that there were some prominent groups absent from this little schoolyard temper tantrum.
+
+“Then tell us the answer,” someone demanded and Grim was already bored of people demanding an easy answer to all their problems. He went into the dungeon himself and with some luck and effort, got to the second floor.
+
+He should have died if Delta wasn’t Delta, but that was beside the point.
+
+Grim didn’t like these sorts tainting the dream goal of Grim. Adventurers were smart, industrious, cunning, and had proficient group poses. Most of the people here had none of those things and it showed.
+
+“Instead of proclaiming what should have worked, how about we all talk about what didn’t work?” Serma interrupted and Grim watched people shuffle about. As far he knew, no one had actually gotten past Jellagon. He just wanted them to stop thinking they were the hottest stuff to come to town since Quiss.
+
+“Fire,” someone said, raising an axe.
+
+“Ice,” Darly said, jaw swollen.
+
+“Fisticuffs!” someone roared and Grim watched the drunk man topple over. Good ole adventurers of ale.
+
+“Death magic, barrier magic, spears, explosives, poison, stealth, and a dozen more things,” someone rushed and Grim saw a red-bearded man who was in charge of the newer groups in town. The Burning Breeches or something.
+
+“Statistically sharpened slime-slayer arrows. It seems improbable that our gear should fail so I suspect the monster has unseen passive bonuses,” a dull man said to his similarly dull comrades.
+
+Grim was about to speak when a bell rang on the third floor and Grim hummed at the timing.
+
+“What is that?” Serma asked, turning her head.
+
+“New record bell. People who register here and go deeper can set off achievement bells. I think it's for their ego and to motivate others. It only works when they leave the dungeon so...” Grim said as he turned to the front door.
+
+Knowing the person in question, they would arrive right about-
+
+“I’m back!”
+
+-now.
+
+“Everyone, Deo has just beaten Jellagon,” Grim said bluntly and the silence was oddly deafening.
+
+“H-How?” someone asked and Deo blinked.
+
+“I beat him? I just walked through his room and he was asleep on his really cool chair,” Deo reported.
+
+“Did you use magic?” a woman asked, a staff made of gems in her hand.
+
+“Only the power of manners!” Deo answered brightly, making the wizard soften at his earnest tone.
+
+“Did you by chance use fire or ice?” Burning Breeches man pondered.
+
+“The warmth of love and the coolness of dependability,” Deo said, seemingly impressed by his own deeds. The crowd swarmed him but Grim used a rope to fish the boy out of the horde and pulled him to the second floor with him and Serma.
+
+“You have your hints. The dungeon has a stupidly obvious theme, master it once and you can waltz through the rest of it,” Grim snapped at the needy parasites.
+
+“Here’s the loot,” Deo said, pulling out shiny sapphire jeweled scepters and potions with thick gelatinous substances inside.
+
+“Good job,” Grim said and Serma shot him a dry look.
+
+“The parasitic pot was calling someone?” she said and Grim looked at her with an annoyed look.
+
+“Royalty leech off the common folk, I refuse to be judged by you,” he said and the girl pinched his arm making him yelp.
+
+“Apologize for calling me a leech,” she demanded.
+
+“Leeches are important parts of the ecosystem. They’re a parasite, prey, predator, and help other parasites move about which keep certain monsters exploding out of control with breeding,” he said and Serma eyed him.
+
+“Don’t make me feel better about being called a leech,” she warned.
+
+“Yeah, I was implying the worst implications of the word,” Grim agreed bluntly.
+
+Serma pinched him hard again and then she gave Deo one more look.
+
+“I think I get it,” she said slowly and there was silence on the ground floor as everyone was listening to their conversation.
+
+“Deo-ism. Empty head, big heart,” she whispered to herself and Grim couldn’t help the snort that escaped him. How terribly accurate. Still, Deo was his friend so he had to defend him.
+
+“Better than you, empty head and big coin purse,” he said but Serma was already wandering off, her face ponderous and Grim thought she was oddly pretty as she moved through a streak of sunlight.
+
+Pretty annoying.
+
+“Where do you want the loot?” Deo asked and Grim blinked.
+
+“I just want to record for the Guild, it’s your winnings” Grim said and Deo looked unsure.
+
+“But we’re a team,” he said and Grim internally sighed at the boy before him. If he didn’t do background checks on any potential partner Deo would have then any unscrupulous person would have someone they clearly didn’t deserve.
+
+“Can I have the sack?” he pointed to the bag Deo carried the stuff in.
+
+“The bag?” Deo blinked again.
+
+“I ripped my last one, don’t make a big deal out of it,” he said, chiding Deo who was left holding the fabulous potions and scepters.
+
+He was going to look forward to a certain princess doing her first dungeon run soon. He would get popcorn and refreshments for the event.
+
+‘Princess Performs Poorly!’ he could call it.
+
+Maybe ‘Royalty Really Regrets Romp’?
+
+---
+
+“A Shape?” Quiss said, staring at the questioning goblin through a mild-hangover. Kob or Nob or Slob or whichever one it was nodded at the question.
+
+“A power from the soul! Something you!” the goblin asked and Quiss’s already dark mood became even darker. He closed the door on the goblin with a succinct grunt to indicate the conversation was over. His tiny shack was a little untidy as he turned back around.
+
+“Have you heard about it?” an ugly green snout pressed against his single window and Quiss shut the ratty curtains on the goblin, making the inside of his hut even gloomier.
+
+“Damn pests,” Quiss said and stepped over more annoying garbage.
+
+“You will fail to dodge them for too much more than some time,” Seth said, reading a book and leaning back to let Quiss pass.
+
+“I will damn well try. Do you have to be here? This place is not big enough for both of us for longer than a few hours, why did you have to sleep here?” Quiss asked, trying to search for a bottle of whiskey he had hidden somewhere behind his unused and dusty cooking pots.
+
+“Apprentices stick together,” Seth said in a perfect quote.
+
+“We’re not apprentices anymore,” Quiss retorted back as he found a bottle but the contents had turned to sludge so he kept looking.
+
+“We were never graduated. Us did not rise from humble ranks,” Seth said, turning a page and Quiss wanted to throw a pot at his fellow magic user and his annoying broken tongue. Slowly, Seth did look up and the room cooled a little, the contrast between their two natural auras sliding against each other for a moment.
+
+“You indeed think of the Shape. We know of the Shape,” Seth said and Quiss paused in his searching, standing up to slam the cupboard doors closed.
+
+“We know of Shape because our master had one. We do not. We know nothing about Shapes other than they don’t do crap against evil god trees and insane towns,” Quiss said quietly and his fingertips glowed red hot when he laid them on his counter.
+
+“I remember her gift. She did name it oddly... What was its label? Title?” Seth mused. Quiss’ fingers cooled as he thought of their master, a chirper smile so easily recalled even in his attempts to numb it with alcohol.
+
+“The ‘Super Duper Lucky Magic of Unification’. She could make things work together. She could make opposites coexist,” he whispered.
+
+“She would smile at Delta,” Seth said and Quiss found a tiny bottle of cooking sherry and took it back with him to the floor where he sat next to Seth.
+
+“She would have enjoyed it more. She should have enjoyed it so much more. This world could have used her, not us- not me,” Quiss amended and downed the terrible liquid.
+
+“Is that why you continue her life? Why you took this occupation? Live in this little box?” Seth asked and Quiss didn’t answer for a moment.
+
+“They weren’t happy when I showed up and not her,” Quiss snorted at the memory.
+
+“Explain. You are a marvelous postman,” Seth said intensely, his focus over the language failing at the indignity.
+
+“A PeaceKeeper is special. One that promotes peace and lets everyone harmonize is one thing. One that burns everything to the ground is quite another,” Quiss reminded.
+
+“Master was meant to be the here, but they got most lotto winning. They got Quiss!” Seth insisted and Quiss appreciated the support but knew that it was only one part of it.
+
+“I didn’t have anywhere else to go. I was just killing time and it was killing me right back,” he admitted quietly. He wished this bottle was stronger and he shook it sadly. Seth sighs, putting his finger on the bottle of sherry and before Quiss’ eyes, dark wine began to fill the bottle.
+
+“You can make alcohol?!” Quiss said, staggering at the sudden magic.
+
+“I am liquid wizard,” Seth said proudly.
+
+“Please... never call yourself that again when we’re in a small contained space and pressed against each other,” Quiss muttered, sipping the bland wine.
+
+“I shall be Royal Spray Magus!” Seth insisted and Quiss choked on his wine, trying not to snort at his friend.
+
+“You’re an idiot,” he said and Seth winked.
+
+“So, you have no Shape so far?” Seth asked after a moment and Quiss hesitated before holding his hand out and summoning his soul fire.
+
+“That looks... changed,” Seth commented, all serious at the silver flickering flame.
+
+“It started to change when I did some work in the Dungeon. Felt like the first bit of progress in years,” Quiss said as the fire was more of a rounder shape with far less wasteful cast-offs.
+
+“What is the difference now?” Seth asked, peering at the flame. Quiss almost thought he didn’t know but deep down, he found the answer and it wasn’t something he would ever admit to someone other than Seth.
+
+“Hope. I think I have hope now,” he said with a small voice.
+
+“You are no longer all pain,” Seth said with a smile and Quiss put the flame out and gave the water mage a look.
+
+“And what about you? No special power at all?” he asked sarcastically and to his surprise Seth’s ears turned pink.
+
+“Seth?” he said slowly and the man sighed as he held out something.
+
+“A mirror?” he asked, trying to keep his tone neutral as the thing seemed to be made out of Seth’s magic but something else.
+
+“Just a glass,” Seth agreed.
+
+“It came to me when I came here. When I rejoined you. As if seeing you made my lungs feel at home,” Seth said and Quiss was sure it was more poetic in normal speak.
+
+“And it doesn’t do anything?”Quiss asked, holding it aloft.
+
+“Just glass,” Seth repeated sadly.
+
+“Who needs Shapes, we can throw ice spears and fireballs!” Quiss toasted and then tapped Seth with the bottle, giving him a long look.
+
+Seth eyed the empty bottle and he looked nervous.
+
+---
+
+Under the floorboards, Hob wrote notes after dropping his eaves.
+
+His notebook was expertly written in his humble opinion.
+
+‘Hoipeh?’
+
+Under that was a much bolder word.
+
+‘Wyhine! Lots of Wyhine!’
+
+---

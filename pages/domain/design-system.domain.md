@@ -3,7 +3,7 @@ id: 86479edd-74af-5bb2-95f2-a743a4b2887d
 page-type-slug: domain
 title: "Design system"
 slug: design-system
-domain-parent-slug: repo/code-repo
+domain-parent-slug: domain/global
 required-reading-slugs:
   - domain/browser
 persona-champion-slug: olwen

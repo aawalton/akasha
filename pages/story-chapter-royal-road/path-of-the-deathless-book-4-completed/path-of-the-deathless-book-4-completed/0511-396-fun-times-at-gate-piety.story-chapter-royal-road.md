@@ -1,0 +1,393 @@
+---
+id: 07cc47da-5103-5d27-8c37-3b1b840e734a
+page-type-slug: story-chapter-royal-road
+title: "396 Fun Times at Gate Piety"
+slug: 0511-396-fun-times-at-gate-piety
+partOf: path-of-the-deathless-book-4-completed
+position: 511
+ownLength: 6525
+unit: words
+publishedAt: 2026-07-02
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3620035/396-fun-times-at-gate-piety"
+royalRoadId: "3620035"
+---
+
+A Legendary-Unique. Onus of the Scarforged—What the fuck, kid? Jesus Christ resurrected and the New Apostles, it’s only been a week on your end. Shit. You needed to be at Chorus yesterday—Oh, come on, really? A new god? Wait, two new divine entities… and a new eldritch progenitor.
+
+All that between three fucking kids in a Category 3 Gate.
+
+I don’t even got the words anymore. We gotta turn around, Deathless. It’s not just you Chorus wants to pick up anymore. The other two have to take a trip beyond Integrated Earth as well.
+
+—Farwalker Produrveral upon receiving [EMERGENCY EXPEDITION QUEST DEATHLESS]
+
+396
+
+Fun Times at Gate Piety
+
+Acting 26 > 29
+
+Scheming Bastard 25 > 28
+
+Truth be told, Shiv wasn’t really traumatized by the Delve Jessicas. As she said, he tore his own genitals off as a distraction; pain and mental trauma dulled to passing recollections of discomfort that dulled within days.
+
+“That being said, her anal fixation is still deeply disturbing,” the Harbinger mused. “Shaming her was a good choice. A bit of mental rehabilitation will be good for her.”
+
+Yeah, and thank Cripple for not going along with her shit, Shiv grunted as he jumped back to the Perch via Chronomancy.
+
+***
+
+A few minutes ago…
+
+“This is degeneracy,” Cripple grumbled, glaring at the collective Jessicas. “I refuse. The very fact you would ask this of me has inflicted offense beyond measure. Bear your weapons; I will only strike him when there are none of you left.”
+
+“Wait, what the f—” And thus did Cripple drive a fist into the first of the Jessicas, sending her blasting through the others and threading gap after gap through the layered orichalcum walls.
+
+“Yes!” Shiv cheered, laughing as the Jessicas turned to fight the invading Ascendant. “You’re the best Ascendant, Cripple! The best! My felling favorite! You’ve always been my favorite! Get her! Beat the shit out of her! Buy me a few more—” His words turned into a choked cry as a detachment of opportunistic Jessicas started bashing him with an arsenal of psionic weapons.
+
+By the time Cripple reached him, Shiv struggled not to drool all over himself as he recovered from a Psychomancy-induced concussion. Even so, he still remembered to be polite when it mattered. “I—’ove you the most, Nipple.”
+
+The Ascendant’s battered Avatar shuffled awkwardly, the stump that remained of its left arm spraying coolant and oil against the far wall. “I… am honored by your regard.”
+
+“Nuh.” Shiv giggled. “Serious. You best. Starhawk has the stupid… He’s a bird. Bots are better than… than birds. Just how I feel. Not anything wrong with that, huh?”
+
+Racism 1 > 3
+
+Shiv gave a groan of pure outrage. “System, that’s horseshit. Didn’t mean it like that. Don’t make me a racist. I’m not racist, am I, Cripple?”
+
+Cripple’s eye flickered. “I… do not think I would deem you as such from our interactions, but these things are always measured on a spectrum. And it is not uncommon to get a Racism Skill. Do not be disheartened.”
+
+Cripple's pleasantries assuaged Shiv's inner turmoil, but from it came another question: “Cripple, how high is your Racism Skill?”
+
+“I…”
+
+“Adept? No… I can see your core—oh, Master, huh? Did you get that while you were in the Abyss being forced to fight bullshit by the… the… whoever used you as slave? That’s bullshit by the way; you tell me who did that to you and I’ll… I’ll felling cooking them. If they’re still alive or whatever.”
+
+Being next to braindead wasn't without its benefits. In fact, Shiv thought he could read an automaton's body language better than ever—and Cripple's Avatar was utterly consumed by shame. “I would like this topic to end.”
+
+Shiv nodded with understanding. “Yeah, maybe for the best. Don’t worry, though: You’re still the best Ascendant—even if you’re the most racist Ascendant.”
+
+“I am not,” Cripple replied defensively. “That indignity goes to Harlock and his feelings about the First Blood.”
+
+Shiv’s nodding intensified. “I mean, is that even racism? They’re vampires. You can kill one randomly and probably call it justified pre-pre-pre…”
+
+“Pre-emptive?”
+
+“Yeah. Pre-emptive self-defense.”
+
+Silence followed. The final seconds of the Delve loomed. A hiss of steam spilled out around Cripple’s neck joints, and it sounded suspiciously like a sigh. “I have updated my judgement: You are potentially a slight bit prejudiced toward a specific group of people.”
+
+“Well, my first… meeting with one of those people ended with them exploding the Umbrals and me I was with using blood magic, and almost all my other meetings had them throwing meat-monsters at me or fucking torturing entire towns to death. So. Bad impressions. And… all that.”
+
+“Indeed,” Cripple replied, sounding more than done with this dialogue.
+
+Racism 3 > 4
+
+“Aw, hells,” Shiv said. “Maybe I need to apply a bit more… nuance? Is that the word? Yeah, nuance to things. World’s complicated. Makes my head hurt.”
+
+“Indeed,” Cripple grumbled again, its empathetic core glistening with genuine sympathy. “Take care not to lose your way. Take care to garner wisdom to buffet against the corruption of power.”
+
+Shiv tried to rise, but found himself too laden with damage and too spent of tides to even get on his hands and knees. “I know. I have to figure something out. Have to find a way to get around the System before it ruins us all. I have to.”
+
+“We have to,” Cripple agreed.
+
+A beat of shared regard followed, and Shiv smirked. “Hey, Cripple. Thanks for coming back. You’re not my favorite Ascendant just because of the brain damage; you're my favorite because you try—even if it hurts you.”
+
+These Words of Truth and Adoration 89 > 91
+
+The near-broken Avatar stood just a bit taller as Shiv reaped a bounty of affection through those words. “Sometimes, the act itself is reward enough. Sometimes, it must be done, reward or not. I will see you back in the Gate, Legend Shiv.”
+
+“Yeah,” Shiv said, feeling the Delve start to collapse. The Quest completion notification appeared before him, and everything began to dissolve. “See you there, Strongest.”
+
+***
+
+A surge of hope and inspiration buffeted Shiv's heart as he arrived atop the Perch. There were still so many threats and dangers arrayed against them, but with an Ascendant on their side—truly on their side rather than weaving his own machinations—then they just might—
+
+“Adam! Adam! Talk to me, son! Please! Please don’t—” Roland's anguished cries shredded Shiv's reverie. The room was shrouded in a faint layer of incandescent mist, and Shiv flinched as the moisture eroded his flesh.
+
+“Ow, shit,” Shiv hissed, wincing in surprise as he felt his skin start to peel. For whatever reason, his Legendary Toughness didn’t activate, and—
+
+WAR IS! WAR IS! WAR IS! PEACE CANNOT BE WHEN WAR IS! PEACE CANNOT BE! A deafening roar exploded out of the Red Rider's Hand and flooded Shiv, and his thoughts were scattered anew. It was only upon looking over his shoulder that he discovered a disturbing truth: It wasn't his skin that was sloughing off his flesh, but the Red Rider’s fist that was shedding itself, layer by layer. The strange mist staining the room ate away at the strife-wrought limb, and every bit of pain it felt crossed over into Shiv. PEACE CANNOT REIGN! PEACE CANNOT REIGN! PEACE CANNOT REIGN! ONLY ONE DREAM! ONLY ONE TYRANNY! ONLY ONE DREAM! ONLY ONE TYRANNY!
+
+Shiv's disbelief only grew as chains of fear exploded out from the Red Rider's Hand. A sensation of second-hand dread took hold inside of him and speared out in all directions, connecting the hand of strife to the mists, which dissipated down to nothing as the last bit of incandescent moisture vanished. The melting sensation faded, and the hand suffered no more wounds, but the fear lingered—an existential terror that strife should have never felt.
+
+“What in the fuck was that?” Shiv breathed.
+
+“Adam!” Rose’s wail wrenched Shiv away from his stupor. The unnatural dread the Red Rider’s Hand suffered wasn’t even a secondary concern when measured against Adam.
+
+Shiv exploded across the room in a reckless burst of speed that caused the ground to crack. The charcoal borders designating the boundaries of Adam’s garden sanctuary had been breached. Leaden smears stained the surface of reality, and Shiv deduced that the strife-scalding mists were the cause. Squeezing himself through the gap in the Educator’s borders, Shiv found the garden unblemished aside from a path of trampled greenery, with flowers and grass ground down into the mud beneath a stampede of feet trying to get to Adam.
+
+The same couldn’t be said about Adam's bedframe. The reinforced steel that once held the mattress was so compressed it resembled a flat spring of steel. A blossom of fluff swelled out beneath Adam—a mess of bloodstained fabric that had once served as a mattress. His blankets and sheets were somewhere in that mangled mess of red-white material, and Shiv caught a glimpse of something truly unnerving: the imprint of a massive palm deforming the soil around Adam.
+
+It looked like an invisible hand of pure force had hammered him down into the earth.
+
+Not the Challenger. Not an act of strife! The Red Rider’s Hand trembled with every thundered syllable. Something opposite. Something older. Something the System cannot ape in totality.
+
+“Quiet,” Shiv growled. He didn’t have time for the hand’s nonsense ramblings distracting him. If the Challenger had done this after all, then Shiv would see that debt squared after Adam was safe. The same went for Scorn, the First Blood, Compact, or anyone else trying to make an attempt on the Paragon’s life. Adam’s survival came first; if revenge was needed, Shiv would go about it with patience and precision.
+
+No more flailing or distractions. Shiv forced calm on himself, channeling his trepidation and fury into pure focus. We solve our problems completely. We do this right.
+
+A small mob of people was crowded around Adam. Next to him were Roland, Rose, and the Culturist. Standing at the destroyed bed’s feet were the Educator and Isabella, looking on with inverse expressions. Maia looked outraged and baffled, confused as to how someone had managed to breach her border sketch. Isabella, meanwhile, was pale with horror, shivering with each wet gurgle that left Adam’s throat, every violent spasm that ripped through his body.
+
+Then there was Adam himself. His body was wreathed in a corona of incandescence. The godly mana that infused him burned brighter than Shiv could recall ever seeing it. But there was something else. A dense veil of mist swirled about him, making the Red Rider's Hand flinch back in fear as Shiv got closer to it. The chains that bound it to the surrounding vapors a moment ago returned—and all latched onto Adam concurrently.
+
+But all that paled before the azure radiance flooding out from Adam’s orifices. Every single sensory organ Adam had was highlighted with a dense concentration of mana, and the overflowing power that leaked out from him was so dense it inflicted a tangible pressure on the surrounding atmosphere.
+
+“Roland!” Shiv snapped, kneeling down beside the Culturist to examine Adam. “What’s wrong with him? Was this an attack? Is he hurt?”
+
+All eyes snapped to Shiv in an instant. Both Roland and the Culturist did a double-take, as if they were unable to process his presence.
+
+“You… You’re here…” Roland swallowed, his pupils dilating with astonishment. “You were Delving.”
+
+Shiv rolled his eyes. “I finished that. Forget about me: Adam. Tell me about Adam.”
+
+But even Shiv’s harried request wasn’t enough to break Roland’s disbelief. “In less than a day?”
+
+“Could we expect anything less from a chosen disciple of Valor Thann?” The Culturist chuckled humorlessly. “And could we ever gauge one born of Udraal’s genius by the standards of lesser ken?”
+
+“Stop kissing my ass and focus on Adam!” Shiv snarled, slamming his fist into the ground. Mud and plant matter splattered everywhere—with a particularly thick clump slamming down on Adam's face.
+
+“That was a terribly calculated display of impatience,” the Harbinger cringed.
+
+“Godsdammit, fuck me, shit,” Shiv seethed as Adam gagged and coughed. Before he could move to do anything, the Culturist shaped a Dynamancy spell and telekinetically yanked the mud-clump out from Adam’s open mouth.
+
+He then cupped the clump in a hand and slapped Shiv over the back of the head with it–hard enough to trigger Onus of the Scarforged Unbreakable. A faint blemish materialized on the back of Shiv’s skull; his platinum-crystal flesh began to harden and expand, transforming into a scab-shell of adaptive armor.
+
+Yeah, I felling deserved that one.
+
+“To answer your question,” the Culturist began, “we have no idea what ailed him.” The orc’s expression darkened, and his core and his mind trembled—the ignorance of his mind further inflaming the tension of his heart. “I reached into Adam’s soul using my connection to his Awareness. I tried to grant him a measure of relief; made an attempt to place him in a meditative state that helped me resist the worst of my withdrawals, but then I brushed against something. Or the act woke something. A notification appeared telling me my Devotion was accepted.”
+
+“Your Devotion?” Shiv asked. “So, what, you worshipped Adam and then this mist spilled out everywhere?”
+
+“I don’t think it was Adam he worshipped,” Roland whispered, his eyes glistening as he regarded his son with something beyond worry. “Something spoke to us through the mist. Something held us utterly still. Something… something beyond power? I don’t know how to describe it. It was inside Adam. An echo, perhaps, but…” Roland’s clenched his jaw. “Starhawk! Starhawk! I am no longer begging for your presence; I demand it! What is it that festers inside my son! What have you done!”
+
+While Roland raged and the Starhawk remained absent, the Culturist palmed his palm atop Adam’s head once more and let out a low rumble of unease. “The presence is gone now, but we face another matter: I believe Adam is Delving.”
+
+Shiv blinked. “What? How? He was in a coma for—Broken Moon, did all those levels come from his mind getting ripped apart over and over?”
+
+“It shouldn’t be,” Maia said. “He should be well past the point of insanity by now if his Awareness was allowed to expand without end. I created this garden for a reason—to contain how far his Omniscience could spread. The borders I sketched should have been unbreachable.” And Shiv saw how her core held the most fear of all. “Nothing could pass through my borders. Nothing…”
+
+“Regardless, he has descended into a Delve now, and I believe his Awareness, Meditation, and Multitasking are merging into one.” Just as the Culturist finished his diagnosis, two things assailed Shiv at the same time.
+
+The first saw Farwalker Produveral shaking the body Shiv had left with him, trying to have a conversation. They were… Well, Shiv wasn’t sure where they were. The last thing he could recall from the bodies he left in the Fairwoods was the restarting of a loop and his departure through one of the many dimensional gates. Now, they were caught in a sea of extremely unstable dimensional Mana, and Produveral was forcing said static sea to part and tear as he charted a new path, saying something about how the other two needed to take a trip beyond Integrated Earth too.
+
+But he proved the lesser problem as, without warning, twin beams of Eldritch mana erupted upward into the sky not far away from his body in Piety. Shiv felt the Outsider magic before the shifting colors spilled over him, before Uva’s tainting mana caused slithering veins of invasive energy to spread across the Gate. All heads shifted away from Adam once more—Shiv’s included this time. As they stared out of the broken windows, they saw beams of unknowable colors rising like skybound rivers before they splashed into and infected Gate Piety’s Unique mana more.
+
+“Shit,” Shiv gasped. “Uva!”
+
+He didn’t even get a chance to gather his own thoughts before a clusterfuck of new problems hit him all at the same time.
+
+The first thing that made Shiv groan was the notification.
+
+Quest Gained: Stabilize Gate Piety’s mana core to prevent a total Ambient Mana Threshold collapse.
+
+Rewards: The Gate gains 2 Unique-Tier Skills
+
+Failure: The Outside consumes Gate Piety and all beings below a certain Magical Resistance threshold are converted into Outsiders.
+
+“You’re just pouring salt down our asses by this point, System,” Shiv muttered.
+
+Then, all the other problems arrived at once.
+
+“Deathless!” Hymn cried as he stumbled out of a clench of spatial mana just outside the Educator’s garden, putting his sweat-drenched and lipstick-covered blouse on backward for some reason. “You need to come with me, no—”
+
+Another, far more powerful presence blinked into existence behind him in a blast of divine mana. Shiv’s jaw dropped open as what he could only describe as an absurd amalgamation of Uva and what he'd personally always imagined in his head when he teased Adam about attending “Flaming Chicken Academy” manifested before him, wearing an exact replica of Georges’ clothes—which absolutely did not properly accommodate her far larger frame—and with a dazed expression on her face. “Shiv! Hi! Uh, I might have done a fuck! I mean, I might have fucking done a bad! I mean—things got fucked! Don’t know what to do!”
+
+Hymn shuffled in place and gawked at the unfamiliar entity—just as Jessica teleported into the room, carrying a large, gleaming mirror that reflected an extremely unhappy Veronica Chandler on the other side.
+
+“Deathless. If you do not wish for the Yellowstone forces to move and seize your Gate, you can either read and reply to my sync-letters or speak through that body you surrendered to the guard. You have two minutes to give an explanation as to why all of Longinus’ higher faithful are undergoing Eldritch mutations, and I pray that your explanation is enough to keep me from deciding to make my presence known, breaking your soul until there is nothing stopping us from fitting a leash around you, and making you watch as we reduce the rest of that Gate to blood and rubbl—what is that?”
+
+Jessica stiffened as she angled the mirror to face the practically half-naked Uva with flame-colored feathers sprouting from her head and arms. “Oh, hey!” The divine entity smiled at Veronica, the meter-long puff of feathers extending from her head bouncing wildly. “Nice dress, girl. Oh, right, so, I, uh, did a fuck. I mean I fucked up. I need to… un-fuck it. Where is Seeker Uva?”
+
+“Oh,” Hymn breathed. “So you’re what the Dreamtaker evolved into. How… beautiful. How—” The Headmaster frowned. “Wait, that means you’ve infested the Great One too. Oh, no. Oh, no, no, no…”
+
+Just then, the sound of a mana platform locking in place drew Shiv’s attention, and the pattering of desperate feet was followed by the rustling of branches and leaves as Siggy of all people exploded through the shrubbery of the garden, covered in blood and other fluids. “Boss! S-Shiv! Master Arrow! Someone! I need someone! We need someone! We need everyone at the surface district! It’s gone fucked! Everything’s fucked! All the human men are pregnant! All the men at immigrations are pregnant! Some of them are already undergoing contraptions or whatever it is you humans do!”
+
+“But men can’t give birth,” Isabella said, her shell-shocked expression growing by a magnitude.
+
+“Not without changes to their finer biological architecture,” the Culturist specified. “Done via sufficiently advanced technology or a Biomancy spell.”
+
+It was just too much for Shiv to deal with all at once; he wasn’t even overwhelmed anymore; he was just numb. “It’s godsdamned him isn’t it?”
+
+“Most likely,” the Culturist answered without hesitation.
+
+Then, from the outside, a deafening roar shook the entire Gate, causing half the ceiling to collapse outside Maia’s garden. “VALOR THANN! CUR, BUTCHER OF MY LOVE, SLAYER OF MY HEART, BETRAYER OF BROTHERHOOD AND FRIENDSHIP: BEAR YOUR BLADE! I WILL ENDURE THIS GRUDGE NO LONGER! TODAY, ONE OF US WILL DIE, AND THE OTHER WILL BE FREED OF THIS BLOOD DEBT! TODAY, I WILL STRIKE YOU DOWN!”
+
+“I have reconsidered,” Veronica said, her mask of barely fettered rage overwhelmed by a secondhand exhaustion. “I’m ordering the Guard to refrain for now; present yourself in… Is four hours a reasonable allowance of time?”
+
+Shiv just shrugged as a creeping pre-exhaustion washed through him. “No, that’s alright—I’ll be with you in a bit. While I’m dealing with everything else. I’ll just… fix everything at the same time.”
+
+Veronica’s stern expression cracked into something nearing sympathy. “That’s not necessary—”
+
+“No. I already wanna kill myself, so I might as well take all these swords up my ass at the same time and die.”
+
+“Look, I’m planning to read those books,” Jessica mumbled behind the massive mirror she was holding. “I just—I just didn’t think it was a problem before, okay?”
+
+Though Shiv’s body was now nigh-unbreakable, his willpower ached as if it had been ground down to dust and bombed again for good measure. He turned to Adam, his heart imbued now with jealousy rather than worry. “You have no idea how lucky you are, you piece of shit. No idea. I should have Delved longer.” He let out a breath—and found a hand reaching down for him.
+
+Shiv lifted his head and looked up at Roland, who curled his fingers, beckoning Shiv to accept his grasp and rise. And the Town Lord looked different. His gaze was hardened. His expression was neutral. The father he was and the human weaknesses that assailed him retreated as the Dread Horizon took charge. “Get up, Deathless. The System has cast down the gauntlet. We win where we can. We save who we can. We do what we can. The time for kneeling is later; we solve the problems right now. Starting with the Quest.”
+
+Shiv locked eyes with Roland, and gleaned a measure of judgment in his gaze.
+
+“He’s taking our measure as well,” the Harbinger noted. “He wants to see our worth in all conflicts. Not just combat.”
+
+Shiv began his showing by gasping Roland’s arm—for his hand alone was too small—and rising to tower over the man. “Starting with the Quest. Alright. Uh.” Shiv rubbed his head. “You know what: I’m going to skip ahead and do the stupid thing to see if that buys us some time.”
+
+“The stupid thing?” Roland asked.
+
+“Yeah, I’m going place one of my bodies in front of whatever is casting those eldritch beams into the sky—”
+
+“That would be Seeker Uva,” Hymn answered.
+
+“I know, godsdammit,” Shiv fumed. As if he didn’t have enough worries right now, he had to deal with Hymn’s emotionally illiterate ass. “I’m trying to build some barriers here so I can concentrate on the problem instead of worrying about her all the time.”
+
+Hymn opened his mouth to reply something, but ultimately just settled on, “Ah.”
+
+“You’ll buy me time and insight using raw power and death, and I’ll try to solve the problem at its root in the meantime?” Roland asked.
+
+“Something like that,” Shiv said. “There’s always a chance that we run into some weirder bullshit and have to pull something out of our asses.”
+
+“Closer to a certainty,” Roland agreed. But a hesitancy took hold in him. He narrowed his eyes at the Culturist, and then shot a glance at his son once more.
+
+Shiv knew what troubled Roland in an instant—and that sparked a moment of inspiration within him. “Wait. I got an idea: Let’s go over the order of things before I do the stupid brute thing and discover if my new Toughness Evolution can handle all that Eldritch goop. Adam needs Valor, and I might need Marikos if I can’t block the mana pouring out from Uva alone—I’ll go snatch the Dragon-Knights; you try and—”
+
+“No need; I am here,” Valor said from right beside him.
+
+Shiv, Roland, and Jessica all flinched—barely restraining themselves from instinctive violence.
+
+“One of these days, you’re going to find yourself half a head shorter, lich,” Jessica growled.
+
+“It will still be wise to intercept Marikos before his anger unravels into a fit of truly destructive rage,” Valor began, ignoring her. He cast his gaze at Adam and let out a sigh. “One Delve after another. Madness. Absolute madness. To think that I thought my favor comparable or even greater to yours—any of yours. My struggle was but a candle. Perhaps not even that.” Valor’s hands were not idle as he griped—he projected a flow of Animancy directly into Adam and began sculpting spell-shapes of fine and immense detail at an absurd pace.
+
+I can’t even follow what he’s doing, even with Legion of Self and Inertial Overdrive, Shiv realized.
+
+“Our limitation remains a bottleneck of knowledge, not one of raw capability.” The Harbinger considered that, and a foul emotion boiled inside Shiv. “Increasingly, I wonder if that is by design. It might be more than just our deathlessness that causes strife to explode around us wherever we go. We can evolve Tarrasque Skills. The Endhounds are meant to pacify worlds, according to the Farwalker. If the System is unable to determine if we are human or Tarrasque, then…”
+
+“Valor!” Marikos bellowed again. “You will not escape me! Come back here, coward! Come back and see this grudge given a right end!”
+
+Shiv shook off his suspicions and prepared to jump across time again. “Alright. Roland—go for Uva first; see what you can do but don’t get blasted. I’m going to get Marikos to make sure he doesn’t vaporize the entire Gate, and maybe use him as an additional blockade.”
+
+“Will the two of you be enough?” Roland asked, sounding dubious.
+
+“Marikos shrugged off hits from the Tarrasque; I got an Eldritch thing all my own. Yeah. I think the two of us have decent odds. Maybe.”
+
+The Dread Horizon questioned Shiv no longer. “Then make haste. Legend Valor—”
+
+“Do not worry,” Valor said absently. His complete focus was devoted to Adam. “I have seen to the successful evolution of one disciple. This will just be another.”
+
+Roland grunted—but his heart still quivered with reluctance.
+
+“Wait,” Jessica called out, peeking out from behind the mirror. “What do you need me to do?”
+
+Rose, Roland, and Shiv blinked at her.
+
+“This isn’t some kind of plan to stab Roland in the back, is it?” Rose asked, squinting. “Because if it is—”
+
+“No, you paranoid bitch—and when do I stab people in the back?”
+
+“You stab people in the back all the time, you goblin-fuck,” Rose snapped. “I saw how you cut down—”
+
+“I was being felling figurative! If I was going to try and kill Roland, I would just go for him.”
+
+“Ekkihurst and Helix,” Shiv said. “Find them. Get them to the surface district. And if you find another orc somewhere in the Gate, kill him. Kill him slow and nasty. Male Pregnancy… Now of all times… So tired of all this shit. Hymn! Go with Roland too. And bring… bring…” Shiv couldn’t even get himself to look at the Divinity-radiating thing currently violently shaking a branch of the tree next to Adam's bed for seemingly no reason. Gods, just looking at her is giving me mind damage. I need to get the hells out of here.
+
+And then Shiv flung himself across time once more, his Harbinger reverting him back across his personal history to arrive over the Abyssal gateway as he left an imprint of gold in his wake. “Alright, Atlas, let’s see where—oh, right, never mind.” He located Marikos immediately. Not sure why I assumed I wouldn't just be able to see a gigantic dragon. Must be the mind damage.
+
+The gigantic dragon in question was currently projecting an eruption of blazing mana out from his wings, blanketing an entire section of the Gate and choking the skies with Shiv-sized fireballs. “Godsdammit, Marikos, you don’t give a shit about collateral damage at all, do you?”
+
+A disturbing realization occurred to Shiv. Wait, is he basically me if I never managed to develop out of my early sloppiness? He shuddered as he remembered everyone who died during his fight with 811 and imagined that collateral damage scaling with every increase of power he'd gained. Okay, no time for this. Figure out his psychological problems later, Shiv. Get him to stop trying to burn everything down first.
+
+Roland and Shiv shot up into the air, and to his surprise, he found the other Descenders trying to talk Marikos down.
+
+“Sir Marikos, that’s enough!” Tall Ben cried, his necks stretching hundreds of meters up into the air as he tried to catch and drag his fellow knight down. “You are ne’ar over that line of hospitality! Remember your oaths! You're shamin’ yourself. You're shamin’ us! You’re shamin’ the Union!”
+
+But Marikos’ wrath far surpassed his reason, and he battered his comrade aside, striking Tall Ben’s heads with his shield. Thankfully, Tall Ben stopped himself from swinging violently in any direction, sparing the architecture and people below from harm.
+
+A good thing too, since the temporary settlements for the Blackedge refugees were nearby.
+
+“Sir Marikos!” Tallowine called. She was the size of a kitten next to Marikos, and her voice held a quiver, but she was drawing her greatbow nonetheless. She had a psy-arrow nocked in place and in line with the unruly Dragon-Knight that seemed more like a flying volcano than a creature of flesh and blood. As his flames grew brighter, his scales darkened until they were devoid of color, just slabs of purest black behind a full set of heavy armor. “Sir Marikos, if you do not master yourself, we will have to ensure our honor is retained and the laws of hospitality are upheld!”
+
+And it wasn’t just her; the Descender Scribes radiated with fatalistic sorrow, but they shaped spells all the same, preparing to strike one of their own down.
+
+“Go charm him, Deathless!” Yellowbelly called from somewhere behind Shiv. The Dragon-Brokers were still sipping tea nonchalantly, unwilling to uproot themselves from their treasure hoards. Shiv regarded them briefly and noted how their empathic cores were bright with amusement and interest.
+
+Didn’t know why I expected heroism from crime lords, Shiv thought.
+
+“Sir Marikos, please!” Tallowine called out again.
+
+“Let me speak to him,” Shiv declared telepathically, arriving on scene. He hovered just past Tallowine, slowly sliding himself alongside the aerial formation the Descender Lance held so as not to make them think he was approaching with the intent to perform violence.
+
+As Tallowine and the Scribes sensed Shiv’s presence, a terrible shame came over them, and they struggled not to bow their heads or avert their eyes. Valor had said something about the Dragon-Knights being extreme in their commitment to traditions, and well, hospitality was practically a universal law for most cultures and civilizations across Integrated Earth, and Marikos had more than broken a few fundamental taboos with this rampage of his.
+
+“Deathless,” Tall Ben called out with another head from below. He extended his neck until he was keeping pace with Shiv, and briefed him on the situation. Compared to the rest of the knights, he was far calmer—and carried no shame. Instead, his mind and heart churned with interest as he waited to see what Shiv would do. “We apologize for this great and terrible humiliation we brought. Sir-Legend Marikos encountered an old rival, he did. Valor Thann. A terrible deed scarred their past, and—”
+
+“I know,” Shiv interrupted gently. He regarded Marikos, who was swinging his mace and shield around, howling for Valor to show himself or see this place burned. To Shiv’s growing fascination, it seemed Marikos’ rage was more than just a personality defect—it was also Skill-empowered. His emotional and intellectual bluntness were drastically exaggerated, even compared to how they were before.
+
+Shiv’s instincts took hold.
+
+“Logic and reasoning will be wasted on him,” the Harbinger declared.
+
+Yeah. He’s pretty much deaf to his comrades, so I doubt he’s going to give much of a shit about us if we come in trying to tell him to calm down. Shiv frowned. He doesn’t want to calm down; he wants to kill Valor—that’s the only thing he wants. And judging from the turbulence in his mind, it’s the only thing he can think about. But we can use that.
+
+“Yes. In his current state, and knowing what he wants, he might just be immensely easy to emotionally manipulate. And maybe he can be distracted from his mental breakdown by holding back that torrent of Eldritch mana.”
+
+“Alright: I’m going lie to Marikos,” Shiv said honestly to the Dragon-Knights so they didn’t misunderstand his actions and this didn’t become an issue later.
+
+“Lie to him?” One of the Scribes muttered, confused.
+
+“Yeah, I need to give him a bit of emotional bait to distract him from whatever this is. Just wanted you all to know that: I’m not using my Social Skills on him for something nefarious. But I am going to need him to come with me and help block that mana beam over there before it fully infects the core and causes this Gate to get swallowed by the Outside.”
+
+“What?” Tallowine whimpered.
+
+And at that moment, the first forking tendrils representing Uva’s mana came creeping forward, fracturing the clouds in the sky.
+
+Shiv sighed. “Weird story, I'll explain everything later. Anyway, I’ll forgive your breach in hospitality if you’ll forgive this deceit and try to help me keep this Gate alive.”
+
+And before any of them could fully grant him permission, Shiv pointed his tides up and rose to greet Marikos.
+
+There were four hundred meters between them. The air undulated with mirages caused by searing heat, and Marikos swept his right wing wildly. A solid wall of flame gushed toward Shiv and slammed into him like an avalanche. He didn’t even bother sacrificing Shapeless Tides to resist; he let his Onus of the Scarforged Unbreakable serve as a bulwark instead.
+
+Pyromancy once hot enough to melt through a mountain and disintegrate Shiv outright from kilometers away simply splashed apart against his now Legendary resilience like warm water. However, Marikos’ flames never seemed to go out; the heat clung to Shiv, and continued to feed and build, even as he tried to extinguish the flames.
+
+“Huh,” Shiv hummed. “Guess that’s part of his Pyromancy.”
+
+“Deathless!” Tall Ben cried, sounding slightly concerned. “You alright? You’re burnin’ pretty good.”
+
+Shiv gave a thumbs up without bothering to turn. “Doing fine. Just give me a second.” Though he couldn’t put the flames out the direct way, Shiv decided to fight fire with fire, and summoned his scintillating flame to eat away at Marikos’ Pyromancy—and immediately felt the intensity of the gnawing flames weaken, if not die down.
+
+“Marikos!” Shiv bellowed, making full use of his Legendary vocal cords. “I need your help! I need you to help me stop Valor!”
+
+The maddened Dragon-Knight was mid-swing when he froze. “VALOR!”
+
+Holy shit, that’s the only word he’s going to respond to, isn’t it?
+
+“Yes!” Shiv shouted. “Valor! Come with me! He’s over there! But we can only get to him if we stop those beams!”
+
+“Beams?” Marikos asked, confused. And then he turned, seeing the twin streams of Eldritch mana in an instant. “Ah! There! With me, knights! Semper fidelis! VALOR! YOUR LIFE IS MINE!”
+
+And with an aftershock of pure destruction, Marikos tore across the air and accelerated toward the twin streams of eldritch mana at a speed Shiv couldn’t hope to match. The wave of fire and force he left in his wake fell straight down like a guillotine, threatening to smash down upon the other Dragon-Knights and cleave into the refugee settlement.
+
+Shiv scoffed. “Marikos, you sloppy—” He intercepted the blow with his Last Morsel. Its edge came aglow with Vitae as he cleaved into the blast-wave’s direction vector and inverted its path by spending a minor fraction of his tides. His Return to Sender Skill activated; the fires unleashed by Marikos painted burn-scars on Shiv’s unbreakable shell, but never got anywhere close to harming him. In fact, he didn’t even suffer any more damage-debt from the fires as his Scarforged Toughness adapted.
+
+“Yeah, I think I’m gonna love this skill.” Shiv chuckled as he tore off after Marikos. “I think I’ll miss getting injured, though. Ah, well, there’s always ripping myself apart with Biomancy.”
+
+Return to Sender 162 > 165
+
+***
+
+“Did he just… let Marikos burn him?” Tallowine asked, her voice choked with disbelief. The Deathless was a fading comet now, chasing after Marikos as they both went to block off the spires of Eldritch mana infesting the Gate’s mana core in the far distance. “I didn’t see his Magical Resistance trigger. The flames washed through him—broke against him. No one can endure Sir Marikos’ flames without wounds. No one but the Semper Paragon.”
+
+“But the boy did,” Tall Ben called out from below. “If that’s a boy at all. Sir Tallowine, my eyes might be blurred and my mind real slow somedays, but I do think that shell around him is the kind a Tarrasque might grow.”
+
+“A Tarrasque Skill?” Legend-Scribe Juvens sputtered. “I-impossible. He’s human! Only human!”
+
+Tall Ben’s many heads all scoffed at one. “Nay. Deathless might be a boy in truth—but I think the human bit’s just a look. Them flames didn’t even sting ‘em. Didn’t use his Magical Resistance at all. But that’s not the part that got me worryin’; that is how he’s just showing all that to us—not even bothering to keep the fact that he got two Legendary Skills and more than a few Uniques a secret. Not afraid. Not even a little.”
+
+A shudder went through Tallowine as she let her bowstring go slack. She'd thought this diplomatic expedition to be a duty born of burden; to wipe away her shame of surviving where her last Lance perished in noble sacrifice. But instead of boredom and politics, she found herself in a Gate consumed by crisis, having her honor preserved by the so-called Deathless as he mastered the mercurial Marikos in a way she didn’t believe was possible.
+
+“Well. Nothin’ for it,” Tall Ben said as he began to move. “Come, fellow Sirs. Come. Let’s go about seeing how we can make our hands and heads less idle to repay the dignity our host has provided. Semper fidelis.”
+
+“Semper fidelis,” Tallowine and the other Knights repeated. Yet, as she saw the Deathless and Marikos place themselves in front of the surging pillars of impossible colors, watching how both Marikos and the Deathless endured, causing the magic to splash around them, a shiver slid down her spine.
+
+She was a Dragon-Knight—the Deathless was smaller than her hand; little more than a larger insect when it came to size. But just from observing his prowess alone, she could tell the opposite was true.
+
+Compared to what she sensed in him, she didn’t feel like much of a Legend at all.

@@ -1,0 +1,319 @@
+---
+id: 290d6a85-6a82-59ea-b75c-eda3a6bc7a17
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25: Shave or dye?"
+slug: 0025-chapter-25-shave-or-dye
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 25
+ownLength: 2169
+unit: words
+publishedAt: 2026-04-23
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3310149/chapter-25-shave-or-dye"
+royalRoadId: "3310149"
+---
+
+My answer did something I hadn't expected.
+
+The tension in the carriage shifted. Ghost's pale eyes lingered on me for another heartbeat. Then they moved to the window slit and stayed there, watching the road scroll past with detached interest.
+
+He stopped staring.
+
+Brandt didn't. His dark gaze remained fixed on my face, but the quality of it changed. It was more curiosity than assessment.
+
+Beside him sat a mountain.
+
+I hadn't noticed the third figure until now, which was absurd, because not noticing him was like not noticing a boulder in your living room. He occupied the far end of the bench. His shoulders were so broad they pressed against the carriage wall and Brandt's arm simultaneously.
+
+I recognized him.
+
+The Knight with the iron slab.
+
+The one whose sword had erased two elves from existence while I lay bleeding against a wall.
+
+His weapon rested on the carriage floor between his boots. Even lying flat, it dominated the space. A block of raw steel that someone had ground into a rough approximation of a cutting edge and apparently decided that was close enough. Its surface was scarred and stained with streaks of something dark that could have been oil or old blood or both.
+
+I tore my eyes away from it and looked up at the man who carried it.
+
+"Thank you," I said.
+
+The mountain blinked.
+
+"What for?" he asked.
+
+His voice was deep.
+
+"You saved my life," I said. "Last night. On the street near the square. Two elves had me pinned against a wall. One of them put a blade through my stomach."
+
+I paused.
+
+"You cut them in half."
+
+The mountain's brow furrowed. His eyes narrowed with the concentration of someone trying to remember what they had for breakfast three days ago.
+
+"Ah," he said.
+
+That was it.
+
+One syllable. Delivered with the tone of a man who had just been reminded he'd left a window open.
+
+He doesn't remember.
+
+He had bisected two armed elven assassins with a single stroke, and it had made so little impression on him that the event hadn't survived hours in his memory.
+
+Ghost leaned forward from his position by the window.
+
+"Don't waste your breath," he said. "Shit Brains only cares about one thing. Fighting. If he killed those elves, he didn't do it to save you. He did it because they were between him and the next fight."
+
+Ghost's pale eyes flicked to the mountain.
+
+"The fact that you happened to be dying at his feet was coincidental."
+
+The mountain's expression shifted.
+
+It was a remarkable thing to watch. The vast, placid geography of his face rearranged itself into something that resembled offense. His jaw jutted forward. His brow lowered over his eyes.
+
+"Don't listen to him," he said, "I'm Roen."
+
+A beat.
+
+"Some call me Iron."
+
+I looked at him properly.
+
+He was enormous. His head was completely bald, the scalp smooth and scarred in places where hair would never grow again. A scar ran from the center of his forehead down through his right eyebrow.
+
+His hands, resting on his knees, were each the size of dinner plates. The knuckles were swollen and misshapen, broken and reset so many times they'd given up trying to look normal.
+
+"Thank you, Roen," I said. "Regardless of why you did it."
+
+Roen grunted.
+
+It might have been an acknowledgment. It might have been indigestion.
+
+I shifted on the bench, the ropes around my wrists biting as I adjusted my weight. The carriage rocked steadily.
+
+"Where are we going?" I asked.
+
+Brandt answered without hesitation.
+
+"The capital."
+
+The word hung in the air. I let it settle, then probed further.
+
+"Is that where the training happens?"
+
+The three of them exchanged a look.
+
+It was a fast look. I couldn't read it. Couldn't tell if it meant this kid asks too many questions or do we tell him or something else entirely.
+
+"The first stage starts there," Brandt said. His tone was measured. Careful. He was trying not to reveal too much.
+
+I nodded slowly.
+
+Another thought surfaced. One that had been waiting after the more immediate concerns of ropes and roads and enormous bald men.
+
+"Will there be problems?" I asked. "With my family?"
+
+Brandt's eyebrows rose by a fraction.
+
+"What family?"
+
+The question was genuine. Not dismissive. He simply didn't know.
+
+Ghost tilted his head from his position by the window.
+
+"We assumed you were an orphan," he said, tone flat. "No one came looking for you while you were unconscious."
+
+I stared at him.
+
+"Did you investigate me at all?"
+
+Brandt had the grace to look slightly uncomfortable. It was a small thing, a shift in his jaw, a brief glance toward the floor, but from a man whose default expression was carved stone, it was practically an admission of guilt.
+
+"There wasn't time," he said. "You had a punctured stomach and a collapsed lung. We sealed the wound, loaded you onto the carriage, and moved. The standard process takes weeks of assessment and negotiation. We had hours."
+
+His steel hand flexed. The articulated fingers clicked softly.
+
+"Normally, people resist when the Iron Cross comes to requisition a soldier. Families petition. Officers lodge formal complaints. The bureaucracy alone can delay a transfer by months."
+
+"Your colleagues, however," Ghost said, "seemed at ease with your departure."
+
+He let the words settle.
+
+"Several of them appeared relieved, in fact. When we carried your unconscious body to the carriage, I distinctly heard one of them say, 'good riddance.'"
+
+"So we assumed you were either an orphan or a troublemaker. Possibly both."
+
+I exhaled through my nose.
+
+The sound was somewhere between a laugh and a sigh.
+
+"Well," I said. "You were half right."
+
+I straightened on the bench as much as the ropes allowed. Squared my shoulders. Lifted my chin.
+
+"My name is Kaspar von Hexenzeit. Firstborn of my house."
+
+I paused long enough for the name to land.
+
+"But you could consider me an orphan."
+
+The carriage seemed to go still.
+
+Ghost's eyebrows climbed his forehead. It was the most expression I'd seen from him. The pale gray eyes widened by a fraction, and for the first time, genuine surprise cracked through the frost.
+
+"Hexenzeit," he repeated. The word left his mouth slowly, as if he were tasting each syllable. "As in Roderich von Hexenzeit? The leader of Silberwald's magical armies?"
+
+The question was rhetorical. The way he said the name made that clear. He knew exactly who Roderich was.
+
+I drew a breath.
+
+"Yes," I said. "Leader of the Magical Armies of Silberwald. Archduke of Hexenzeit. Sixth Circle mage."
+
+The words came out before I could stop them.
+
+I froze.
+
+How do I know that?
+
+I had never met Roderich. Iris had mentioned my family's fire magic, their political influence, the legendary ancestor who founded the house. But she had never specified Roderich's Circle level. She had never called him Archduke. She had never described his role as leader of the kingdom's entire magical military apparatus.
+
+Yet the information had left my mouth as easily as breathing.
+
+As if it had always been there.
+
+A second later, another thought surfaced. From somewhere I hadn't known existed until this moment.
+
+Roderich is my father.
+
+The thought arrived fully formed, with the quiet certainty of something that had been waiting behind a locked door for a very long time. I hadn't gone looking for it. It had simply appeared, the way a room appears when you open a door you didn't know was there.
+
+I stared at the floor of the carriage.
+
+My mind felt like a house I'd been living in for weeks, navigating the same hallways, the same rooms, the same empty spaces where memories should have been. Without warning, a new door had materialized in a wall I'd walked past a hundred times.
+
+Behind that door, things.
+
+Not full memories. These were facts. Names. Titles. Relationships. The skeletal architecture of a life I couldn't remember living.
+
+Roderich. Father. Archduke. Sixth Circle.
+
+The door was open, but only a crack. I could see shapes beyond it, but not details.
+
+"Shit."
+
+Ghost's voice cut through my reverie.
+
+"Shit. Shit. Shit."
+
+He was pacing. In a carriage barely wide enough for three men sitting, Ghost had found a way to pace. Three steps forward, pivot, three steps back. His leather armor creaked with each turn. His hands had risen to his temples, fingers pressed into the skin as if trying to hold his skull together.
+
+"Why the panic?" Brandt asked.
+
+Ghost stopped mid-stride and turned on him.
+
+"Does anyone here know who this boy is?" he demanded, gesturing at me with one sharp hand. "Did anyone recognize him? Before this moment. Did either of you know?"
+
+Brandt shook his head.
+
+Roen shook his, too, though his expression suggested he wasn't entirely sure what he was being asked.
+
+Ghost's jaw clenched so hard I could see the tendons in his neck stand out like cords.
+
+"He is the son of two first-rate mages," Ghost said. "His father is not just any officer. He is the supreme commander of Silberwald's magical military. The man who controls every mage regiment, every war-time allocation of magical resources in the entire kingdom."
+
+He drew a breath that shuddered with barely contained fury.
+
+"The Iron Cross operates independently. We answer to the Crown, not the army. That is our charter. That is our protection. But independence does not mean invulnerability."
+
+Ghost's pale eyes found mine, and for the first time, I saw something other than cold calculation in them. I saw worry.
+
+"We took him in the middle of a battle. Without authorization. Without identification. Without so much as checking his name."
+
+His voice dropped.
+
+"The report that will reach Roderich von Hexenzeit is not 'your son was recruited by the Iron Cross.' The report that will reach him is 'your son was lost during the elven attack on Grezheim. Status: Missing. Presumed dead.'"
+
+Ghost looked at Brandt.
+
+"Do you understand what happens when the most powerful military commander in Silberwald believes his heir has been killed by elves?"
+
+The carriage was very quiet.
+
+I could hear the wheels grinding against packed earth.
+
+"It's not as much of a problem as you think," I said.
+
+Three heads turned toward me.
+
+"I'm not the heir."
+
+Ghost's eyes narrowed.
+
+"Explain," he said.
+
+"I have nine mana cores," I said. "But zero Circles."
+
+The silence that followed was different from the ones before.
+
+Roen let out a low whistle. The sound was surprisingly melodic from a man his size.
+
+"Nine cores," he rumbled, and something close to respect colored the words. "That's... a lot."
+
+Ghost made a dismissive sound.
+
+"Without Circles, nine cores is the same as nothing," he said. "An ocean of mana with no way to channel it."
+
+"Not for a Knight." Brandt's voice cut through Ghost's dismissal.
+
+I held his gaze for a moment, then continued.
+
+"My father adopted a boy," I said. "He's the official heir of House Hexenzeit now. He carries the name, wears the crest, has the Circles."
+
+Each fact emerged from behind the door with the same detached clarity.
+
+"If I disappeared tomorrow," I said, letting the truth settle into the space between us, "no one in that house would notice."
+
+Ghost had stopped pacing.
+
+He stood with his arms crossed, staring at me with an expression that was recalculating everything he'd assumed in the last five minutes.
+
+"It could work," he said slowly. "If what you're saying is true, and Roderich genuinely doesn't care—"
+
+He stopped.
+
+His pale eyes traveled upward, to my hair.
+
+"But you're still a problem."
+
+I frowned.
+
+"You draw attention," Ghost said. "White hair. Everyone in the kingdom knows the Hexenzeit are famous for their red hair. Which means every noble also knows there's exactly one of them who wasn't born with it. Walk into the capital with a white-haired boy wearing an Iron Cross uniform and every intelligence officer with half a functioning brain starts doing the math."
+
+He fixed me with a look.
+
+"Questions lead to rumors. Rumors lead to investigations. Investigations lead to someone connecting 'missing Hexenzeit son' to 'new Iron Cross recruit with unusual hair.' And then..."
+
+"Then Roderich's attention lands on us," Brandt finished.
+
+Roen stirred. His massive hand rose and rubbed the smooth, scarred dome of his skull as if polishing it.
+
+"We could shave his head," Roen offered. His tone suggested this was self-evidently the best solution. "Worked for me."
+
+I looked at Roen's bald scalp.
+
+"Or," I said quickly, "we could dye it."
+
+Roen looked vaguely offended.
+
+"Dye works," I pressed, the words coming faster now. "Brown. Black. Anything common. It's less noticeable than a shaved head, and it doesn't require explaining why a recruit suddenly has no hair."
+
+Ghost considered this.
+
+"Dye fades," he said. "You'd need to maintain it."
+
+Another glance passed between the three of them.
+
+Before anyone could render a verdict, a voice erupted from outside the carriage.
+
+"GOBLINS ON THE ROAD!"

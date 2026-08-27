@@ -1,0 +1,249 @@
+---
+id: 7b3d0056-9395-5883-922e-49db5ed69588
+page-type-slug: story-chapter-royal-road
+title: "Chapter 254: Ethereal Roots (Start of Book 4)"
+slug: 0018-chapter-254-ethereal-roots-start-of-book-4
+partOf: reborn-as-a-demonic-tree
+position: 18
+ownLength: 2804
+unit: words
+ownProgress: 2804
+publishedAt: 2024-03-08
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1546730/chapter-254-ethereal-roots-start-of-book-4"
+royalRoadId: "1546730"
+markedReadAt: "2026-06-29T19:02:06.485Z"
+---
+
+Ashlock had never been a morning person. Even when he had been a human back on Earth, the morning sunlight filled him with more dread and sleepiness. Rather than waking up to the constant chirping of birds, he would roll over, bury his head deeper in his pillow, and pray for a few more minutes of rest.
+
+Ever since becoming a demonic tree, his slothful nature had only worsened. It was partially the fault of his personality that had followed him through death to this new world, but it was also due to his new biology.
+
+Time passed at a different rate to him, and even with the marvels of Qi, he was still a giant tree with a body that spanned a thousand miles in every direction and spread throughout the eight thousand-meter tall mountain he called home.
+
+Whatever the reasons and excuses, the point was he sucked at mornings, and the only thing worse than the mornings was a very eventful one that was sprung upon Ashlock before he could even bathe in the sunlight for a while.
+
+He had a headache, and it was not because of Dante Voidmind blowing himself up supernova-style inside his soul.
+
+[Warning: Foreign Qi Detected]
+
+[High Risk of Soul Corruption]
+
+Ashlock looked at the messages he had seen before and, unlike last time, didn't feel a hint of panic. Soul corruption used to terrify him, but with his latest S-grade skill {Nocturnal Genesis}, which slowly healed soul damage, such a risk didn't bother him.
+
+[Generating solutions...]
+
+[Convert foreign Qi into spatial Qi]
+
+[Merge void Qi with a system skill to upgrade it]
+
+[Dispel void Qi into the nearby atmosphere]
+
+Just like last time, he was given a list of options.
+
+"If only I was immune to all types of Qi and not just void Qi," Ashlock sighed as he picked the second option, "Having someone go supernova inside my soul would undoubtedly kill me, but wouldn't it be cool if I could merge my skills with other affinities?"
+
+The system messages drifted away, and his all-too-familiar status screen appeared.
+
+[Demonic Demi-Divine Tree (Age: 9)]
+
+[Star Core: 9th Stage]
+
+[Soul Type: Amethyst (Spatial)]
+
+[Mutations…]
+
+{Demonic Eye [B]}
+
+{Blood Sap [C]}
+
+[Summons...]
+
+{Ashen King: Larry [A]}
+
+{Midnight Ink Lindwyrm: Kaida [B]}
+
+[Skills…]
+
+{Skyborne Bastion [SSS]}
+
+{Necroflora Sovereign [SS]}
+
+{Mystic Realm [S]} [Locked until day: 3626]
+
+{Progeny Dominion [S]}
+
+{Dimensional Overlap [S]}
+
+{Nocturnal Genesis [S]}
+
+{Eye of the Tree God [A]}
+
+{Abyssal Whispers [A]}
+
+{Deep Roots [A]}
+
+{Magic Mushroom Production [A]}
+
+{Lightning Qi Barrier [A]}
+
+{Qi Fruit Production [A]}
+
+{Consuming Abyss [B]}
+
+{Blooming Root Flower Production [B]}
+
+{Language of the World [B]}
+
+{Fire Qi Protection [B]}
+
+{Transpiration of Heaven and Chaos [B]}
+
+{Superior Poison Resistance [C]}
+
+"Compared to last time, I have so many more options to choose from," Ashlock lamented. It was too early in the morning to make such an important decision, and he was also pressed for time.
+
+Beyond his trunk were literally thousands of people and monsters that had emerged from the Mystic Realm awaiting his direction, and he also wanted to see how they had progressed.
+
+[Select the skill you wish to merge with the void Qi]
+
+As if sensing his wandering attention, the system reminded him to choose. The void Qi could harm him if left unused and floating around his soul.
+
+"Let's think this through. Assuming it works the same as last time, whatever skill I choose will go up a grade and be changed due to the addition of the void element. {Devour [C]} became {Consuming Abyss [B]}, and without it, I would likely be dead by now. The void tendrils have been invaluable for disposing of stronger opponents that got past or defeated my allies."
+
+So, ideally, he would pick one of his attack skills to upgrade...
+
+"I don't have any other attack skills other than {Consuming Abyss}." Ashlock scanned down the list, "Other than {Skyborne Bastion [SSS]} or perhaps {Dimension Overlap [S]}, which are sort of attack skills but not really."
+
+The more he thought about it, the more he realized these two would be interesting options. {Skyborne Bastion} because it was an SSS grade skill, and he was curious if there was a grade higher than the SSS grade. Whereas if he upgraded {Dimension Overlap}, he might gain access to the void where Maple's siblings live.
+
+But these two skills already had a big issue. They were expensive. Sacrificial credits were getting harder to come by, and as Ashlock progressed, more skills relied on SC to function.
+
+"Skyborne Bastion is one of my strongest skills right now, but the thousand credit cost is already far too steep. If I upgraded it now and the cost jumped up to create void bastions, I would never be able to afford it. Dimension Overlap is the same. Even if it unlocked a feature where I could go and visit Maple's siblings, I bet it won't be cheap."
+
+Ashlock didn't dismiss these skills, but he hunted for something better.
+
+"Mhm, I don't see how my production skills could benefit from the void element much. My protection and resistance skills would greatly help me, but they feel like a waste. If I need to use those skills in a fight, it means all else failed, and I am in great danger. So, I would rather pick a skill that lets me avoid that."
+
+Ashlock then noticed {Transpiration of Heaven and Chaos [B]}, "There isn't much point in upgrading my cultivation technique as I believe it was listed as one of the system rewards for reaching Nascent Soul Realm, right?"
+
+[Rewards upon formation of the Inner World:
+
+You will ascend to the Nascent Soul Realm.
+
+The System will be upgraded with new features.
+
+{Transpiration of Heaven and Chaos [B]} will be upgraded.
+
+Your attacks will carry the weight of your Inner World behind them, and your rate of cultivation will increase the more you develop your Inner World]
+
+"Oh yeah, there it is. Of course, there could be an argument for upgrading it to an A grade with void affinity and then upgrading again to an S once I reached Nascent Soul Realm, but I want to pick something that will help me both now and in the future." Ashlock dismissed it. He had no idea how long it would take him to gather those 10,000 credits and different star cores to reach the next realm, and in that time, a better cultivation technique wouldn't help as it wouldn't advance him past the bottleneck.
+
+Progeny Dominion, Nocturnal Genesis, and Abyssal Whispers were also ticked off his list as he didn't want the void affinity affecting his connection to his offspring, warping the dreamscape before he figured out the purpose of those moons, or buffing his telepathy skill to the point it obliterated any mind he used it on.
+
+"So what does that leave me with?" Ashlock mulled over the list, and then a skill that he used every day in the background that was in desperate need of an upgrade caught his eye, "{Deep Roots [A]}, now that is an old skill. It constantly empowers my roots with Qi, allowing them to burrow deeper and grow far faster than a normal tree. The distance I can cover that would take another tree years, takes me a few days due to this A grade skill. I can also hollow out my roots to turn them into tunnels, which Stella used to travel through the mountain before we both got better at using portals."
+
+It sounded like a simple skill, but its importance in his life should not be underestimated. Spreading his roots was integral to expanding his power and influence upon the realm. Anywhere within Ashlock's roots was his domain. He could flood areas with Qi and open portals to transport people across vast distances. Connect with faraway forests and hunt monsters and people before they get closer. Not to mention, his Bastions moved faster over land under his control.
+
+All of this happened because of his roots.
+
+His agency depended on the spreading of his roots. The further he reached, the more powerful and safer he was. In a way, his roots were his ultimate attack skill, as they enabled everything else.
+
+"I can also see how void affinity would greatly empower my roots. Maybe I can burrow deep enough to latch onto that leyline that causes the beast tides to follow set paths." Ashlock mused. He had not forgotten about the leylines. They were basically the Qi arteries of the realm, and the area along them had higher concentrations of Qi, which caused sects to be built upon them, but it also attracted the monsters.
+
+[Choose system skill: {Deep Roots [A]}?]
+
+Ashlock was a little hesitant. He was spoilt for choice, and there had been so many good options. No matter what he picked, there would be some regret, but overall, he felt this was the best choice for his current objectives.
+
+"There could always be a next time if I get my hands on some of the Voidmind family and force them to go supernova inside my soul."
+
+Mentally accepting the system prompt, he watched as the skill vanished from his list, and information began to flood his mind as something took its place.
+
+[Skill upgrading... 1%]
+
+[Skill upgrading... 27%]
+
+[Skill upgrading... 53%]
+
+A short while passed, and as the information settled in his mind, he knew he had made a good choice.
+
+[Skill upgrading... 100%]
+
+[Void Qi corruption eradicated]
+
+[Skill upgrade successful]
+
+[Upgraded {Deep Roots [A]} -> {Ethereal Roots [S]}]
+
+A wave of power surged through the entire mountain and across the land as his roots slowly changed from simple fleshy roots coated in a layer of Qi to something more.
+
+It wasn't until now that Ashlock realized how weighed down he had been. Much like burying his foot in wet sand at the beach when he had been human, Ashlock's roots had tons of rock and earth pressing down and restricting their movement. He just hadn't noticed since it had been like that since his rebirth as a tree.
+
+Until now, he had spent a lot of Qi and nutrients trying to force his roots through the rock, which grew more challenging and costly the further from his trunk he ventured. But now he felt reborn as his roots began to take on an ethereal nature, much like the ones that phased through reality to connect him to his Bastion, and he was freed from the pressure.
+
+"God, that feels so good," Ashlock relished in the relief washing through his vast body. It was impossible to describe, but it was as if the weight of the world unknowingly suffocating him had been lifted.
+
+Ashlock closely inspected his nearest root right below his trunk, as it had been the first to complete the transformation. It looked similar to before but was ever so slightly transparent. He could see his cursed sap flowing through it and the hollowed-out center, which had served as a tunnel before.
+
+"Before, my roots could only burrow deeper; I couldn't move them around freely due to the rock restricting them, but if the information regarding the skill is correct, then..." Ashlock tried to raise his root upwards, and to his astonishment, it worked. As the root rose to the surface, the rock above vanished as if eaten by the void. Ashlock felt Qi being drained from his Star Core, but to his relief, no sacrificial credits were spent.
+
+"So, at the cost of Qi, I can move my roots around freely as if they were tentacles underwater. Well, it is more like viscous mud; there is still some resistance, but it's way less than before. Am I like a rock octopus now? No... more like an octotree." Ashlock wiggled around for a bit and wanted to experiment more, but at the rate of change, it would take a few days for all of his roots to transition to their new ethereal form.
+
+Which was a shame since he was looking forward to the other effects of the skill.
+
+Turning his roots from fleshy sap to ones that were more ethereal in nature came with many advantages. Worrying about the distance from his trunk was a thing of the past. Because his roots were now ethereal, the transfer of Qi down them offered no resistance, so he lost no Qi to the surroundings during the transfer.
+
+Which was a massive boon to everything he did. He could exchange Qi and nutrients with his offspring with the same efficiency no matter how far they were from him, and he could fight distant battles without wasting as much Qi.
+
+"The fact I don't leak Qi into the surroundings as much also helps me spread my roots closer to my enemies without them noticing, perhaps even under their very feet," Ashlock concluded because one of the most significant advantages of the void element that had turned his roots ethereal was its ability to remain undetected.
+
+It's what made Khaos an apex predator that could appear beside and rip apart cultivators before they even knew how they died. Other aspects of the void also carried over to his new roots, such as their capabilities to go through anything. Defensive arrays? Runically enhanced walls? Dimensions? The void itself? There was nothing to block or stop his roots from spreading.
+
+"Space also seems compressed in my roots, considering how fast my cursed sap appears to flow," Ashlock muttered as he examined his own root a little closer. Deciding to quickly test it for curiosity's sake, he had the hollowed-out root rise out of the ground beside him and then, under everyone's curious gazes, used telekinesis to drop fruit into it.
+
+The fruit blinked in and out of existence, traveling through the root as if the distance was near zero and arriving at the tunnel exit down in the cavern a second later. 8000 meters had been crossed in an instant. The fruit didn't gain any velocity, so rather than splatting hard on the ground, it simply plopped onto the stone.
+
+"I am glad I tested that beforehand with a fruit. It would have been a disaster if Stella or someone went through and got slammed into the ground as if they had been shot via a railgun." Ashlock already had many ideas for this aspect of his new ethereal roots, as it seemed safe for even mortals and weak cultivators to use it.
+
+"Basically, it's like a portal, but I don't have to manually keep opening and closing it. The possibilities really are endless. I could use this to connect Red Vine Peak to Ashfallen City, create a way for the Redclaws to venture deep into the wilderness in seconds, or use it for our pill empire... which is still in the process of selling a single pill but let's ignore that small detail."
+
+Ashlock had felt some spatial Qi being spent to send that fruit down, so his roots were definitely using his spatial Qi to shorten the distance.
+
+"Oh shit. If I spend my Qi, will the system take away my ability to reach Nascent Soul Realm?" Ashlock dug through his system screens and pulled up the notification.
+
+[Requirements to turn Chaos Nebula into an Inner World:
+
+2565 / 10000 Sacrificial Credits
+
+0 / 1 Absorbed Fire Star Cores
+
+0 / 1 Absorbed Water Star Cores
+
+0 / 1 Absorbed Earth Star Cores
+
+0 / 1 Absorbed Wind Star Cores
+
+0 / 1 Absorbed Metal Star Cores]
+
+He couldn't see anywhere that mentioned or suggested that he couldn't spend as much Qi as he wanted, which was a relief. As usual, the system only really cared for the precious sacrificial credits and left him and his cultivation alone.
+
+"Master, please excuse my interruption."
+
+Ashlock was pulled out of his consciousness by a gruff voice he recognized immediately. Since his {Demonic Eye} was still open, he gazed down at Larry standing before him. In the red hue that showed Ashlock the flow of Qi, Larry looked like a blazing sun of power on par with Nox, who had died moments earlier and been turned into a tree and planted in Ashfallen City.
+
+"Larry, my loyal summon. How can I help?" Ashlock asked, but he suspected the answer.
+
+"I was hoping the honorable master would bless my evolution."
+
+[Larry has accumulated enough Qi to evolve to S grade]
+
+[New evolution option(s) have been added due to consumption of divine flesh]
+
+[Ashen King {Larry} wishes to evolve]
+
+[Yes/No]
+
+Was that even a question?
+
+"Yes, of course, I approve of your evolution," Ashlock replied to Larry, and the system also seemed to hear his words as the words faded and new ones took their place.
+
+The divine evolution options for the Ashen King filled his mind.

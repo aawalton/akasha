@@ -1,0 +1,179 @@
+---
+id: 4a6b2c40-3142-5799-a000-74e6adb1b71f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 66: Already at the first layer?"
+slug: 0066-chapter-66-already-at-the-first-layer
+partOf: phoenix-ascension-cultivation-litrpg
+position: 66
+ownLength: 2209
+unit: words
+publishedAt: 2025-12-24
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2877692/chapter-66-already-at-the-first-layer"
+royalRoadId: "2877692"
+---
+
+“How are your plans advancing?” Yo Na asked me, as if she was my boss and I had to report everything to her. It was truly quite upsetting, but there was little I could do about it.
+
+[You have absorbed Water Crystal[Lesser]]
+
+[Water Affinity has increased by 2%]
+
+I was using her resources, after all. In the time it took me to reach her cave, I  secretly snagged a few of those water crystals, increasing my water affinity ever so slightly.
+
+She must have realised, of course, but didn’t say anything.
+
+“I’ve taught the little girl how to cultivate, so I left for the night. I will return tomorrow to check on her progress and talk to the humans that sell medicinal pills. I could get what we needed for the recipe off them.”
+
+Yo Na scoffed at that, but didn’t voice her displeasure. I didn’t think that the idea of working with humans would appeal to her, hell, it barely appealed to me. But I had to do what I had to do.
+
+Once I refined that pill for her, I would be free of my obligations. In fact, I didn’t want to sit here for a moment longer. Not with the Core Formation cultivator knowing of my existence. He hadn’t made a move yet, but it hadn’t been that long either.
+
+However, I never knew when he would arrive. I would have left a long time ago were it not for the quests, which did promise me some amazing rewards. I was confident in being able to get away if he did chase me, though it would not be without a price.
+
+“Are you confident in being able to steal the flower?”
+
+“I should be able to. I wish to be able to break past my current limitations until then, though. I will need to train and get rid of… something that keeps bothering me.”
+
+Yo Na purred in acknowledgment, but didn’t say anything else. I supposed there wasn’t anything else she wanted to tell me, and it didn’t seem like  there was anything I could help her with either.
+
+Besides, her eyes kept darting toward the thing in the corner, so I decided to take my leave, snagging some more crystals on the way out.
+
+So what if she knew? It’s not like she used them anyway!
+
+And that’s how I got four more points in my water affinity, bringing me up to a total of  negative ninety six percent!
+
+The advancement was rather fast, but I still felt like it could be better. Of course, if she’d allowed me to absorb as many crystals as I  wanted, I could have  probably increased the water affinity to be as high as my fire affinity.
+
+In time that would not be an impossibility, given the fact that Yo Na didn’t really need them, plus whatever the quest would give me.
+
+With that I flew back toward the village, grabbing my human clothes on the way there. It had been a day since I left the siblings by themselves, both because I wanted to spread my wings and because I didn’t want to be too involved with their growth.
+
+I’ve already done way too much, so I was too deep in.
+
+Not to mention if the technique worked on her body I could start cultivating it as well, and use it to break through into the foundation establishment realm.
+
+My current plan was to rely on the Ghost Qi Technique to bring my Qi lake to the peak of condensation, but the thunder… err Divine Lighting Construction to break through.
+
+The only issue was gathering Qi. I could use Spirit Stones, but I didn’t have many of them, or any at all. Then again, once I sold those pills I could get a large amount of Spirit Stones. It all depended on how I would do today when selling them.
+
+But first, I had to check up on the little girl.
+
+I snuck inside the village and entered the house, where I sensed some Qi fluctuations. The little girl, Shu Xu Ning, was meditating on the floor, and her brother was watching over her from his bed. He looked even sicklier than yesterday, and showed surprise when he saw me.
+
+He ought to have gotten used to me by now, but I supposed having someone enter your house as they wished wasn’t something one could just accept.
+
+Shu Xu Ning must have sensed me enter, as she opened her eyes and greeted me with a big smile. “Miss Immortal!” She got up and rushed toward me like a child excited to see their parents return.
+
+No, wait, that was not it at all! I was not her mother!
+
+Anyway, I grabbed her wrist and checked her meridians, just to see how far she’d gotten. Imagine my surprise when I saw that her dantian had not only a small Qi lake inside, but some lighting also danced in the ‘sky’.
+
+How is she at the first stage of Qi Condensation already? Didn’t she start only yesterday? Is this cultivation technique special or…
+
+I stared at her with some disbelief. When I first started in my past life, it took me three months to reach the first stage of Qi Condensation, and that was with an amazing master. But this little girl had reached the first stage in… one day? That was unbelievable, too unbelievable, just how talented was she?
+
+“This…”
+
+“Miss Immortal, did I do something wrong?”
+
+“No, not at all… I am just… happy.” I could not bear telling her that I was surprised, since there was no way it could have a good impact on her. But what the fuck was this girl some sort of monster?
+
+I glanced at her elder brother, who was sitting on the bed almost absent minded. He flinched upon sensing my gaze and straightened his back.
+
+“How fast did you reach the first stage?”
+
+“It took me four months… miss.”
+
+Four months… that’s not bad, but just a little above average. So how in the world—
+
+The door swung open just as I was thinking, and the voices of a group of young men resounded through the hallway.
+
+“Cousin, where are you, why have you not greeted me yet?” The voice sounded both arrogant and amused, and the footsteps grew louder and closer rather quickly.
+
+I didn’t want to reveal myself, so I hid behind the bed and transformed into a tiny worm, hoping that the clothes would not be so obvious.
+
+Right as I did that, the door swung open, and from what I could see from under the bed, a man with a large frame and two others waltzed in.
+
+“Cousin Chiao… it’s been a while.”
+
+So that’s the ciao guy they were talking about?”
+
+“Indeed, too long indeed.” He replied with amusement in his voice. “I trust you’ve been well?”
+
+“I have… been.” Shu Tao Wu replied, coughing at the same time. It seemed that talking did a number on him. Either that, or the presence of the ciao guy made him immediately worse.
+
+I could understand him, of course. Just based on his tone alone, he sounded like an absolute piece of shit. I did not wish to know what he looked like.
+
+“Hm… something feels different.” He said, walking forward, approaching Shu Xu Ning, who’d stood up in front of her big brother. The ciao guy took a whiff of the air, and immediately gasped. “Little cousin you… have become a cultivator? How is that possible?”
+
+“That’s none of your business!” She yelled, and I could tell that it wasn’t the best course of action. Whatever this ciao guy had over them, it wasn’t good. Especially when the System wanted me to help them against him.
+
+Would it not be better if I killed him right now?
+
+But if I did that then the quest would fail and I would not get the reading skill, which was a major problem.
+
+In that case I had to be patient and lead them in the right direction.
+
+Oh, it seemed that in the little time I was lost in my head that the ciao guy stepped even closer, and he even released some of his cultivation base. It seemed that he was at the fourth stage of Qi Condensation. Not a walking per se, but really weak anyway.
+
+Just like I was to the Core Formation experting wanting me dead. I thought he wanted me dead anyway.
+
+Alright little girl, let’s see how you react to his threats.
+
+She was smart, so she definitely had to know when to back down. I hoped, at the very least. Antagonising the ciao guy at the moment would not do her or her brother any good.
+
+“Kid you better not mess with me, or I will—”
+
+“She got a pill from a monk.” Shu Wao Tu stepped in. Not literally, of course, but he stole the attention away from his sister. What a dependable brother, that’s how it should be indeed.
+
+But his statement worried me. What sort of monk gave away Meridian Awakening pills? That was absurd in way too many ways.
+
+“Hm? Is that where you got the other pill too? Show me! Hand them over now!” The ciao guy ordered, and the big brother moved about before reaching with his hand toward their cousin.
+
+I could see what was happening with the faint usage of my Divine Sense, but guessing was just as fun.
+
+The ciao guy held the pills between his fingers, as if inspecting them. In truth he didn’t look like someone who knew what a pill would do even if he stared at it for a hundred years, but I understood that it was fun to pretend.
+
+I, on the other hand, could tell that those pills were trouble. They seemed really familiar, and if they were red I could have sworn they were the same pills that the two guys swallowed before becoming demons.
+
+But they didn’t have any sort of demonic aura around them. Quite the opposite, a faint holy aura lingered on them, perhaps from the monk that handed them over.
+
+That also meant that they were complete bullshit, as holiness simply didn’t exist.
+
+“Oh, cousin, these are some good pills. I can’t believe you’ve been hiding them from me.” The ciao guy clicked his tongue, shaking his head.
+
+“I wanted to show them to you in person, once I got better and could move about.” The big brother said, his words surprising me a little.
+
+“Is that so?”
+
+“Indeed it is. I can feel myself starting to heal.” Shu Xao Tu lied through his teeth, and the ciao guy didn’t seem to believe him one bit. Nevertheless, he smiled.
+
+“I hope that’s the case, cousin. I’d hate for you to die before paying your debt…” He allowed the words to linger a little, and he turned to leave alongside his lackeys. Just before he left, he stopped and turned. “Oh and that bill you gave me the other day. The master apothecaries inspected it and said it was a very precious pill. It will be auctioned off in three days. Haha, I have to thank you cousin. Thanks to you, my family will make a lot of profit.”
+
+After gloating, he left, leaving all the doors open.
+
+I walked out from under the bed and got dressed, then stood in front of the little girl. She looked sick to her stomach, but the brother looked even worse. He knew.
+
+He knew that hiding such a thing from me was bad, yet he did it anyway.
+
+“Shu Xiao Ning.” I called out to the girl, “leave us. Your brother and I need to discuss something.”
+
+She was surprised upon hearing that, but nodded and left, closing the door behind her. I made sure she truly left with my Divine Sense, then glared at Shu Wao Tu.
+
+He avoided my glance, but knew that there wasn’t anything he could hide anymore.
+
+A moment later he told me everything. How a monk randomly showed up to his doorstep and showed him kindness, giving him pills and a cultivation technique.
+
+I was glad he didn’t immediately use them, and I would have asked him to read me the cultivation technique. Instead, I forced him to hand it over, and turned it to ash. Such a thing had no business existing.
+
+He watched in horror, but there was little he could do to oppose me. Besides, the Divine Lighting Construction was a fine enough cultivation technique, and if I was right, then Shu Xu Ning had a lighting-type constitution. It was rare, but it just so happened to be genetic as well.
+
+Therefore I wanted to check if he had it. I was about to do the same for the little sister, but that bastard waltzed in before I could do so.
+
+It wasn’t an accurate reading by any stretch of the imagination, as one needed specialised stones or artifacts to truly test constitution. But just getting an idea should be enough.
+
+And so I grabbed his wrist and sent trace amounts of Qi into it.
+
+And my heart skipped a beat.
+
+He had been poisoned.

@@ -1,0 +1,162 @@
+---
+page-type-slug: story-chapter-royal-road
+title: "Chapter 640: Charge!"
+slug: 0110-chapter-640-charge
+partOf: rise-of-the-living-forge
+position: 110
+ownLength: 1827
+unit: words
+publishedAt: 2026-08-27
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3872068/chapter-640-charge"
+royalRoadId: "3872068"
+---
+
+One’s breath was ragged.
+
+A sea of corpses surrounded him. Bodies of men and monster strewn about, the stench of blood and ash and death so thick in the air that it coated his lungs.
+
+It was such a shame.
+
+All the potential. All the life that would never be lived, wasted, spilled across the increasingly muddy ground. And all of this would be forgotten if they couldn’t succeed. If the Guild wasn’t stopped today, then only the Mesh would remember what had happened. Who knew how many more lives would be wasted.
+
+How many more cycles would be lost... Or if whatever the Guild was preparing for would finally come to pass. Maybe this would be the very last cycle before the world was truly lost to the greed of those who controlled it.
+
+One didn’t know.
+
+He didn’t care.
+
+There was a sword jutting out of his right shoulder from where one man had gotten a lucky blow. One hadn’t bothered pulling the weapon free. All it would do was make the wound bleed more. It wasn’t stopping him. Not yet.
+
+The sounds of echoing battle roared all around him. The clash of metal and thunderous boom of magic. He ignored all of it, dragging himself through the battlefield toward where the Hero and Demon Queen fought. The Guild had protected them well. It was not an easy task.
+
+He wasn’t sure if it was even a possible one.
+
+But he had to attempt it.
+
+Even if just to keep attention off the Menagerie, he had to try.
+
+An armored guildsman stepped into his path. The man’s features were cold and professional. He had one of the Guild’s magic-stealing daggers in each of his hands and wore enchanted armor that seemed to swallow up the sound around him.
+
+The man was Grandmaster Tier at the least. Magical energy warped the air around him, hungry and dangerous.
+
+One let out a rattling breath.
+
+“Stand aside,” he growled. “You do not know the cause for which you fight.”
+
+“I know who you are, One,” the man said simply. “You will not succeed. We will protect the Hero from you, traitor.”
+
+Another brainwashed fool. How many will be swallowed by the Guild’s lies?
+
+“I will not warn you again,” the man said. “Stand down. We will fight to the death to protect this kingdom. Your evil will not prevail.”
+
+One raised his hand.
+
+A mote of brilliant orange light ignited in the air before the guildsman. His eyes only had an instant to widen before a deafening explosion rocked the battlefield.
+
+Two daggers spun through the air. They squelched as they landed on the corpse strewn ground. One stepped past them, his features cold as he walked through the remnants of the flame and smoke that had once been a man. Master. Grandmaster. None of it mattered.
+
+These men were crops that the Guild had raised to cut down and burn, all just to keep the flame in their hearth burning. One was loathe to feed that flame… but there was no longer a choice. He would kill whoever he needed to in order to succeed.
+
+The Hero and Demon Queen had to be saved. The Cycle had to be stopped.
+
+And the Guild had to keep their eyes on him and the rest of Setting Sun.
+
+Several shadows blurred around One. Four guildsmen appeared, surrounding him. None of them tried to attack immediately. They were smart enough to realize that getting close to him meant death. All they wanted to do was stall until enough of the Guild arrived to make the mission impossible.
+
+One’s jaw clenched. The rest of his people were equally held up.
+
+“Get out of my way,” One said grimly. Orange light shimmered to life all around him. “I will not spare your lives. I have not the strength to soften my blows.”
+
+The guildsmen didn’t reply.
+
+They just raised their weapons.
+
+***
+
+Art rifled through his deck as the sounds of magic crashing outside the Devil’s Den petered away. He tried to keep his features as expressionless as possible. Rodrick never let on what he was thinking. All that did was stress people out. What they needed was information and guidance as to what they were up against.
+
+Unfortunately, Art was not Rodrick.
+
+“How bad is it?” Vix asked.
+
+“They’re surrounding us,” Art said. He looked away from his cards, to the members of the Menagerie standing with their weapons drawn beside him. They’d piled the tables up against the door and windows. “Vanessa is down. Madiv is injured as well. The Guild are being smart about their advance. They aren’t just rushing ahead blindly.”
+
+“So we have more time to prep?” Uriel asked, watching him with her glowing eyes.
+
+“Some,” Art said. “They’re checking for traps. We don’t have any… but it doesn’t matter. This is an experienced force. Master Tier. Maybe even a few Grandmasters. We… we’re outmatched.”
+
+“Speak for yourself,” the Beast said. “Not all of us.”
+
+“He’s right on that,” Esmerelda said grimly. “I’m far from done playing. You told us to take it light outside.”
+
+“I know. And that was important. It’s the one thing we’ve got left,” Art said. He rifled through the deck one last time, then pushed the cards back together and shuffled them nervously. “I’m going to need a hell of a lot more from everyone. Everything you’ve been saving up. We need to buy time. Arwin and the others aren’t back. Just hold out until then. Whatever you’ve got… when I give the signal, reveal it. The Guild will think we’re weaker than we actually are at this point. Take them by storm.”
+
+Everyone nodded grimly. Art raised his hand into the air. Not one of them said a word.
+
+They just turned to the door and waited.
+
+It creaked open entirely on its own.
+
+Art’s stomach nearly dropped through the floor. He’d already known what was coming. But actually seeing it was far worse than he’d expected.
+
+Their street was ruined. Buildings had been torn to shreds, ripped apart by the fighting.The only structure still standing was the Infernal Armory. There were far more bodies piled up around and in it than any of the other locations. But all their efforts had amounted to nearly nothing.
+
+A small army stood before Art.
+
+There were at least 50 guildsmen, and he could tell there were more on the way. All of them were armed with powerful enchanted gear and weapons, and their average rank was so much higher than everyone here that it was almost painful to think about.
+
+But their fight wasn’t done.
+
+Advancing through the ranks wasn’t the hard part. Doing it right was.
+
+And if these people had been truly deserving of their power, they’d have managed to make it here faster than they had. These guildsmen were strong. But they weren’t strong enough to blow the Menagerie away without one hell of a fight.
+
+Art bared his teeth, his grip on his walking stick tightening until his knuckles had turned white. The Guildsmen advanced slowly toward the opened entrance of the Devil’s Den. They couldn’t see through the magical darkness cloaking the Menagerie, but that threat wasn’t enough to stop them.
+
+An explosion rocked the building as something struck it from above. Whatever it had been, it wasn’t enough to break through the Den’s walls. But if the first strike didn’t, one of the next dozen inevitably would.
+
+The first of the guildsmen reached the barrier of tables. He thrust his hand forward. A ripple of translucent blue energy exploded out from his palm. It drove into the tables and sent them flying backward, spinning through the air to shatter into fragments as they hit the ground.
+
+Another explosion ripped through the air. Tremors shook the Devil’s Den.
+
+Then the first members of the Guild’s force stepped into the darkness. Art kept his free hand raised, clenched into a fist around his deck. His heart beat so loud in his chest that he feared it would give their position away. The Menagerie held their attacks.
+
+More and more of the guild poured into the Den.
+
+A deep groan echoed through the tavern.
+
+The guildsmen raised their shields in preparation for an attack.
+
+Instead, the creaks grew louder. Another groan echoed through the entire tavern. And then, with a cacophonous symphony of cracks, the ground of the Devil’s Den split open.
+
+Black wood roots tore up from the ground, winding around several of the invader’s legs. They called out, hacking at the wood, but not all of them were fast enough. Several men were yanked beneath the ground in an instant, dragged down to the demon tree within the basement of the den.
+
+Shadowy imps snapped into being all throughout the room. They leapt, clawing and attacking the Guild’s men from every angle. The door to the kitchen slammed open. Cutlery flew out from it, flashing through the air in deadly streaks of silver as they slashed at the Guild. They were joined by pots and pans, every single table and chair within the tavern, and each scrap of debris littering the ground.
+
+Chaos tore through the guildsmen. They tightened their ranks in an attempt to stave off the hail of attacks. Aside from the grasping roots of the tree seeking to drag anyone that dared enter their domain into hell, nothing was so dangerous as to pose them a true threat. But with everything combined…
+
+The invaders were off balance.
+
+Esmerelda clapped her hands together, a horrid hissing whisper pouring from between her lips like acid. A deep thrum rocked the room.
+
+“One hour, you little brats. Never let it be said that I don’t let you out to stretch,” Esmerelda whispered.
+
+Inky black magic bubbled up from the walls of the Devil’s Den. It pooled on the floor at Esmerelda’s feet and extended outward like an oil spill. The darkness bubbled and popped. A rusty sword rose up from between her feet to float in the air before her.
+
+An axe slipped free from the walls. More and more weapons poured out from all over the Den, moving of their own will as they lifted to form a wall before the Menagerie. All manners of ghostly red forms materialized, from humanoid to hulking monstrosities, their hands wrapped around the weapons as dark, hungry laughter filled the Devil’s Den.
+
+Devils.
+
+Dozens of them.
+
+They rose to form ranks before Esmerelda, their eyes smoldering like dying embers.
+
+“Go on, then,” Esmerelda said with a grim smile. “Go and play.”
+
+Many of the guildsmen called out warnings, but with the torrent of shit assaulting them, there was no time for them to react against the sudden new force.
+
+Art dropped his hand.
+
+“Now!” he roared, pulling a card free from his deck and flicking it toward the Guild’s warriors.
+
+Then the devils charged, and the Menagerie were right behind them.

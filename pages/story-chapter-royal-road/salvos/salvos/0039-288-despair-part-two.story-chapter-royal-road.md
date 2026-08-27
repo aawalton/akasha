@@ -1,0 +1,175 @@
+---
+id: 3b39e968-ab6a-5430-b205-4d192d1ae669
+page-type-slug: story-chapter-royal-road
+title: "288. Despair Part Two"
+slug: 0039-288-despair-part-two
+partOf: salvos
+position: 39
+ownLength: 2143
+unit: words
+publishedAt: 2022-02-24
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/851939/288-despair-part-two"
+royalRoadId: "851939"
+---
+
+288. Despair Part Two
+
+[-̶̧̛̻͕̹̩̖͕̑̈́̂͗̾͊̓͌̀͗́͝ͅ-̵̖͎͖̤̌̇̿̓̿̌́̆͛͆͘͝-̵̧̣̩͚̗͕̤͙͉̱͕͎͔̟͐̑͊͌ͅ-̶̻͕̲͓͈̼̥̰̘͔͛̍̊̒̉̈́̐̂̋̕͝ Centinel - Lvl. 162]
+
+The world seemed to warp around me as my vision somehow grew muffled. Bits of rock and sand floated into the air, distorted into odd, jagged shapes that obscured their original form. The rose as obfuscated water descended from the sea above, filling the air with these twisted parts of reality.
+
+It was almost reminiscent of the fold between planes where the Devil lived. Except— corrupted.
+
+I dove through this changed landscape, fleeing the Corrupted Centinel with my clone trailing slowly behind. The mass of broken shells and limbs and wings followed after us as parts of its body shot out, propelled by a great force that closed the distance in an instant. My clone and I zipped around each other, like a pair of spiraling wisps, avoiding these attacks as I pointed at her.
+
+“What are you still doing here? Distract it for me!”
+
+She crossed her arms as she flew around one of the floating corruptions. Another projectile shot out between us, and I nodded, listening to her arguments against that idea.
+
+“I see. You think it’d be stupid if you just went ahead and died in a few seconds, wasting my only advantage before even formulating a proper plan of action. I think you’re right. As expected of myself, you’re a genius!”
+
+However, there was one problem there. I wasn’t sure what I could even do against this Corrupted Centinel. The Bloodied Gulf itself was collapsing and rising, being flipped over and entirely rearranged. Most of my Skills were exhausted. The only idea I had left was to utilize the Breastplate of Alexander’s Temporary Skills.
+
+Temporary Skills:
+
+[Greater Status Effect Resistance] - Lvl. 20 (Maxed)
+
+[Superior Aura of Greater Protection] - Lvl. 20 (Maxed)
+
+[Repudiation Repulse] - Lvl. 10 (Maxed)
+
+I could feel the [Superior Aura of Greater Protection] fading, but I knew the [Greater Status Effect Resistance] would hold up. And then there was [Repudiation Repulse], which had helped me defeat parts of the Cursed Boulder before.
+
+It accumulated the damage it had taken and unleashed it out onto others. This meant that it had been storing up an unfathomable amount of power for a while now, with all the damage it had taken since I arrived here. I just had to get close and release it all into the center of the Corrupted Centinel— where its smaller body lay.
+
+“Alright. I’ve decided. We’re going to charge straight into it.”
+
+My clone gave me a judging look, and I rolled my eyes.
+
+“Look, unless you have a better plan, I don’t think anything else will work.”
+
+She acquiesced after a moment’s deliberation. The wall of water that marked the end of the Bloodied Gulf loomed over us as we rapidly approached it. A ripple ran through the ocean, and I glanced back. The Corrupted Centinel was close. Its corruption began to spread to the ocean itself, splitting it in twain.
+
+The sea unfurled like a shorn curtain, divided and contorted. I nodded at my clone.
+
+“Now, break!”
+
+We flew straight at each other before continuing on, heading in opposite directions. [The Primordial Spark] flared around as I unleashed a deluge of blue and red flames at the Corrupted Centinel. It didn’t reel back— it was protected by the distorted shells floating around it. It concentrated that barrier in my direction, essentially absorbing the flames.
+
+My clone, however, released more precise attacks, aiming straight for the center of the mass. Weapons made of silver-gold flame shot out and swerved their way around the outer mosaics. The entirety of the Corrupted Centinel shifted back as its true body was pierced by the salvo of blades. It looked like a Sage Centinel, but different.
+
+I could hear a warped screech erupt from it as I continued to circle around it, using my fiery arms to scorch its outside. The Corrupted Centinel twisted. Its outer body exploded out, aiming for myself and my clone.
+
+I dipped down as my clone flew up. Most of its attack was concentrated on her, rather than me. It thought I was the distraction since I’d only been annoying it, while my clone had actually hurt it. Well, that was what I wanted it to think.
+
+As the array of obfuscated shells and spikes crashed down towards me, I suddenly changed course. I sent a burst of flames to redirect my trajectory and began to rapidly ascend. Bits of the outer body of the Corrupted Centinel receded to cover its true body, but I focused on it.
+
+[Scattering Displacement]. [Mass Particulate Modification].
+
+My grip over the flying layer of [Ancient Centinel] parts was weak. It was just like with the Cursed Boulder. For whatever reason, the corruption distorted my control over space magic in the area. But it was enough of an effect to create a small hole for me to slip through.
+
+I shrank some of the large shells, while prying them aside. Then before it could close in, I entered the inside of the Corrupted Centinel’s outer body. Immediately, I was afflicted by a strong pressure. One that threatened to tear me apart. My Breastplate of Alexander shone, flickering and fading. I could see parts of the iridescent metal dissolve into particles that slowly vanished.
+
+And it wasn’t just the Breastplate of Alexander. Unfortunately, its protection magic was failing. My skin ebbed too. I watched as bits of my body flaked off, being replaced with a stinging pain. A ghost feeling taking over for where it used to be.
+
+I grimaced, but I fought through this. My entire body flared up in an eclectic blaze. Different colors that spiraled around my body, protecting me as much as it was meant to hurt the Corrupted Centinel.
+
+I drew closer to the center of this corrupted mass. More of its outer body receded, moving to intercept me with corrupted projectiles and tendrils of the [Ancient Centinel]’s remains encroached around me. I burned it all away, keeping it back as I reached for the true body.
+
+I wasn’t going to activate [Repudiation Repulse] until I was close enough that I knew it would have an actual effect on the Corrupted Centinel. Also, I wanted the Breastplate of Alexander to absorb as much energy as possible before I released it all back into the world.
+
+My teeth ground together as I burned my way into the heart of the corruption. But just as I was about to reach the true body, I was assailed by a mass of the corrupted carapace. It surrounded me, trying to bury me from all directions. It pulled me back as I struggled to wade my way closer to the small figure at the center.
+
+I met the gaze of the Corrupted Centinel’s true body. It rose an arm, dismissively waving it as I was tossed back. The Breastplate of Alexander dimmed, its light beginning to vanish as it crumpled under the pressure. My body twisted in pain as black blood seeped out of my skin.
+
+“No!”
+
+I shouted, eyes flickering. My vision changed as I saw myself wrapped up in a distorted red of shells and flesh, quickly flying away from the Corrupted Centinel. My clone rushed in, despite the corruption damaging her very being. Chunks of her body dissipated as she was impaled by multiple flying barbed parts.
+
+Still, she made her way towards me, flying through this storm until she was nearly within arm’s length. I smiled as I grabbed her hand. She sighed.
+
+And she exploded.
+
+A blast of gold and silver blew apart a quarter of the Corrupted Centinel’s body. The amalgamation of carapace that had been pulling me back was knocked away, burned by her fire. It was more powerful than even my [Demon’s Mark], now. At its current level, it was the strongest area of effect Skill I had. And combined with [Divine Essence of the Daeva Cambion], it burned everything it touched.
+
+Everything that wasn’t the corruption.
+
+Somehow, the corruption couldn’t be destroyed. It was protected by something. Or maybe warped to the point that it couldn’t be damaged. Whatever the case was, all my clone did was buy me some time. It cleared the area of most of the outer layer of the Corrupted Centinel, but it would recede back into itself soon.
+
+I had to move fast. I was injured and burned by my own clone’s explosion. The Breastplate of Alexander tanked the attack, but its protective barrier was at its very last leg now. I spread my scorched wings wide and coupled it with the [Wings of the Netherworld]. My scalded and partially disintegrated arms turned into tendrils along with [Faux Limbs], shooting out to grab hold of the Corrupted Centinel’s true body.
+
+It tore apart my [Faux Limbs] as I pulled myself closer. I flew faster with four pairs of wings, and with a burst of flames propelling me from below, I closed the distance before the corruption could regather around me.
+
+My arms changed back into scythes as I stabbed the true body, clinging onto it. I was face-to-face with the Corrupted Centinel. A kind of deformed Sage Centinel that stared at me with near-lifeless eyes. It attempted to pry me off, but my Breastplate of Alexander shimmered one last time. Its arms tore through the barrier, ripping it apart as it tried to hold up with whatever magic it had left inside of it.
+
+The metal collapsed, folding inwards as my skin was torn and ripped. But I just smiled, even through the pain.
+
+“Hey. I’m Salvos.”
+
+“You!”
+
+It screeched back, and I placed a hand on the Breastplate of Alexander. It suddenly shone, brighter than ever. Like a star that suddenly filled the night sky. A nova.
+
+“And you’re dead.”
+
+[Repudiation Repulse].
+
+A ring exploded out. A wave. A ripple in the ocean. That of total obliteration. The corruption wasn’t safe from this pulse of energy as it rapidly expanded out. A blast that inflicted all the damage that it had absorbed over time.
+
+Everything was released at once. The corruption was wiped back and I hoped that it had been enough to destroy the true body itself.
+
+“Is it… over?”
+
+I asked, panting. But it wasn’t. Of course it wasn’t. A hand reached out from the smoke and grabbed me by the face.
+
+Most of the Corrupted Centinel’s true body had been destroyed. It was now just a mangled mess with a torso, a single arm, and a head. But it still floated there, regenerating slowly as the corruption took back hold of it.
+
+“No.”
+
+Its mandibles clicked as it brought me closer.
+
+“You will forever be a prey in this world.”
+
+I thrashed in its grasps as it bit into me. It shredded the now-inert Breastplate of Alexander, flying up as it tried to rip off my head. Its mandibles closed around me as I held out a hand, summoning something with [Dimensional Pocket].
+
+The Corrupted Centinel blinked as it tore into… paper? It stared at the thick diary I’d produced, temporary staving away the killing blow and confusing it for a moment. Then one of my [Faux Limbs] whipped out and attempted to strangle it.
+
+It ripped apart my [Faux Limb] as my arms changed once again. My left arm morphed into two. The same claw-like arms I had in my [Demonic Essence] form. They were longer and could push back against the Corrupted Centinel’s grip over me. My right arm changed back into a scythe as I sliced open its side, baring my teeth.
+
+“You should’ve stayed silent.”
+
+My head morphed as the Corrupted Centinel ripped off one of my claw-like left arms. I stared down at it with gleaming eyes— a silvery face that made it paused for a moment.
+
+“How…?”
+
+It met its own gaze, looking up at itself. At a Demon that wore the head of a Centinel. No— its very own head. I clicked my mandibles as I leaned in.
+
+“You will be nothing but a memory in my world.”
+
+And I chomped down on it. I tore its neck off with a single, clean bite. The Corrupted Centinel struggled for a moment, even without a head. Then its body went limp. The corruption around me dispersed.
+
+I won.
+
+Defeated [-̶̧̛̻͕̹̩̖͕̑̈́̂͗̾͊̓͌̀͗́͝ͅ-̵̖͎͖̤̌̇̿̓̿̌́̆͛͆͘͝-̵̧̣̩͚̗͕̤͙͉̱͕͎͔̟͐̑͊͌ͅ-̶̻͕̲͓͈̼̥̰̘͔͛̍̊̒̉̈́̐̂̋̕͝ Centinel - Lvl. 162]!
+
+More experience is awarded for defeating an enemy at least 30 levels above you!
+
+Subspecies [Daeva Cambion] Level Up!
+
+[Daeva Cambion – Lvl. 127] -> [Daeva Cambion – Lvl. 128]
+
+Gained 5 Stat Points and 3 Skill Points!
+
+Subspecies [Daeva Cambion] Level Up!
+
+[Daeva Cambion – Lvl. 128] -> [Daeva Cambion – Lvl. 129]
+
+Gained 5 Stat Points and 3 Skill Points!
+
+Subspecies [Daeva Cambion] Level Up!
+
+[Daeva Cambion – Lvl. 129] -> [Daeva Cambion – Lvl. 130]
+
+Gained 5 Stat Points and 3 Skill Points!
+
+[Title Available]

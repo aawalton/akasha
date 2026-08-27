@@ -1,0 +1,61 @@
+---
+id: 303b8c9e-cb27-50fd-b3ec-c3f477410fd0
+page-type-slug: story-read-royal-road
+title: "Rise of the Living Forge"
+slug: rise-of-the-living-forge
+world: rise-of-the-living-forge
+unit: words
+author: "Actus"
+rank: b-rank
+following: true
+royalRoadTags:
+  - "LitRPG"
+  - "Portal Fantasy / Isekai"
+  - "Progression"
+  - "Martial Arts"
+  - "Male Lead"
+  - "Action"
+  - "Adventure"
+  - "Fantasy"
+  - "Mystery"
+  - "GameLit"
+  - "Magic"
+  - "Secret Identity"
+  - "Strong Lead"
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge"
+royalRoadId: "79094"
+---
+
+STUBBED UP TO CHAPTER 453 FOR BOOK 5.
+
+You can read Book 1, 2, 3, 4, and 5 on Amazon HERE
+
+----
+
+Ever since Arwin was summoned as a child, all he has known is war. And now, to claim the demon queen's life and end the war, he has to kill himself. 
+
+But, as he deals the final blow to his mortal enemy, the Hero of Mankind is betrayed.
+
+Caught in a magical explosion thought to end him, Arwin awakens a month later to find that everyone has already moved on. His [Hero] class has changed to a unique blacksmith class called [The Living Forge] that is empowered by consuming magical items, but some of his old passive [Titles] remain, giving him the power to forge his new future exactly the way he wants to.
+
+Arwin isn't going to settle for anything less than completely surpassing the powers he wielded as the Hero.
+
+After all, you are what you eat – and Arwin’s diet just became legendary.
+
+DISCORD LINK:
+
+CLICK HERE!
+
+What to expect: 
+
+- Item focused crafting story, where a lot of the MC's power comes from his equipment
+
+- Mix of crafting & combat as the MC has to get the materials himself. The MC does not spend the whole novel in one room crafting. 
+
+- No Harem
+
+- Strong to Stronger MC
+
+- Slow burn revenge with a focus on the MC rebuilding his life and discovering new purpose
+
+Chapters every day at 11:30 AM CST

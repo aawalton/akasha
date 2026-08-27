@@ -1,0 +1,135 @@
+---
+id: b2e2968d-b679-54a5-b057-1f73ee496075
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4: Police At The Door"
+slug: 0007-chapter-4-police-at-the-door
+partOf: shapeshifter-a-non-human-litrpg
+position: 7
+ownLength: 2005
+unit: words
+publishedAt: 2026-03-31
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3214183/chapter-4-police-at-the-door"
+royalRoadId: "3214183"
+---
+
+Xen tensed as the door continued to be pounded by a human's fist.
+
+"If anyone else is home, open up!" the policeman on the other side shouted again.
+
+Valoria scrambled off the couch in a daze and almost tripped over a pile of clothes.
+
+"What are you doing?" Xen hissed under his breath.
+
+"I don't know," Valoria hissed back. "Looking for a weapon or something, I guess?"
+
+"You want to fight them?" Xen whispered in surprise. She had told him the surface was safe and the laws humans lived by prevented killing. Yet now she was talking about a weapon?
+
+"I don't want to, no." Valoria scowled, pointing at the door. "But how are we supposed to explain why we are here?"
+
+"If killing them is possible, then you go and hide in the back," Xen whispered. "Leave this to me, as I can always change identities."
+
+Valoria hesitantly nodded as the pounding continued, then retreated into a back room. With her gone, Charlie began squirming unhelpfully in his lap, so Xen clamped his hand on the cat's neck, making it go docile.
+
+"Don't make a sound," he hissed at the cat. Keeping one hand clamped around the limp animal, he reached into the inner pocket of his oversized suit and slowly drew out his mithril shortsword. Blade in hand, he shifted his footing and eased into position beside the door.
+
+Now, all he had to do was wait. If they knocked down the door, he would slice off their heads in an instant.
+
+Just as tensions were at their peak, the pounding stopped as a policewoman spoke up beyond the door.
+
+"I told you Ronnie was mistaken, Chief. Gerald was reported dead a few days ago alongside his party leader, Brandon. There's no way he could be here," she said with a chuckle. "Unless the Living Armor floor boss reanimated him as a corpse."
+
+"Ronnie reported that he heard loud noises coming from Gerald's apartment last night," the officer replied. "It's our job to investigate."
+
+"Yeah, but those two always had an ongoing feud, with many reports made between them," the policewoman reasoned. "Gerald claimed Ronnie let his dog shit on his porch, despite never being able to provide evidence. Ronnie sent in reports about loud music, but Gerald insisted it was his neighbor..." she sounded tired as she listed them. "It's endless, really. I've been to this door so many times over the last few years to no avail."
+
+"I suppose you're right," the Chief shrugged. "No point knocking on the door of a dead man. Say, do you want to grab breakfast with me?"
+
+"Oh, Chief, I'm not sure if we should eat together while on shift."
+
+"Come on," the man laughed. "It will be my treat, and don't worry about being on shift; they think we are wasting our time here."
+
+The woman reluctantly agreed, and Xen felt the police officers step away from the door through Geomantic Perception. He didn't dare make a sound until they had left through the squeaky gate of the apartment complex and down the road.
+
+He dropped Charlie, and the startled cat landed on its feet.
+
+"They are gone," Xen called out, still surprised at how different his voice sounded now that he was Yuki the elf.
+
+Valoria peeked her head out of the dark bathroom. "Oh, thank God," she muttered after confirming his words.
+
+"Would killing them have gone badly?" Xen asked as he pocketed the mithril short sword.
+
+"Yes, quite badly," Valoria nodded. "While those police are regular people and are equipped to deal with civil cases like noise complaints, there are Hunters in the police force who are brutal. The sudden disappearance or discovered murders of two police officers would send even more people on our tail." Valoria huffed the hair out of her eyes in annoyance. "I've not even had a coffee yet, and we've already had a run-in with the police."
+
+"They talked about a neighbor and a man called Ronnie," Xen said, glancing around. "The surrounding apartments are currently empty, besides a few below us."
+
+"People must have left already for work," Valoria reasoned as she stretched her back. "Ugh, sleeping on cheap couches is the worst," she massaged her neck to no avail. "Now I'll have a stiff neck all day."
+
+"Cleansing Light," Xen said, and a flash of light enveloped Valoria, startling her.
+
+Her eyes widened. "My neck feels fine now. What was that?"
+
+"Cleansing Light, one of the D-grade skills I got from devouring the Priestess," Xen explained. "It bathes a target in radiant light, removing a random debilitating effect. If cast on an undead enemy, it will deal holy damage to them. The mana cost and cooldown are really low, so using it to fix your neck is worth it."
+
+Valoria surprisingly scowled at his explanation.
+
+"What is it?" Xen asked. Had he done something wrong?
+
+"Cleansing Light... I thought that skill sounded familiar, and I just remembered where I heard it from. The university nurse charged me five hundred credits to use that skill to remove my food poisoning once. She made a whole show while casting it, and at the time, I was really grateful. But it's a cheap-to-use D-grade skill?" She looked genuinely mad. "Five hundred credits for a cheap skill? That's outrageous."
+
+Xen coughed into his hand. "Ahem, maybe I should have clarified that it's a cheap spell for me. For a weaker Radiant Healer, it might take up a significant amount of their mana pool."
+
+After all, despite being a level one Radiant Healer, he had the mana pool of a level sixty-eight Hexreaver Slime to draw upon. A Radiant Healer would have to reach level seventy at least to match him.
+
+Valoria calmed down. "I suppose that makes sense. Removing any debilitating effect instantly is incredibly overpowered, and the skill is likely pinned at D-grade because the targeting is random."
+
+"But when you only have one debuff to target, it's quite effective. In your case, it was a minor stiffness debuff," Xen mused, and Valoria nodded in agreement.
+
+"That's true," she sighed. "Sorry, the greed of most healers really annoys me and many other Hunters. They are all cowards too, so few are willing to join Hunting parties in raids, resulting in many more casualties than necessary."
+
+Xen felt there was a good reason for that. He looked at his list of available skills he could use as a healing elf to confirm his theory.
+
+Multilingual, Radiant Smite, Orbs of Light, Beacon of Grace, Cleansing Light, and finally Flash Mend. Having not yet checked the description of that last skill, he brought it up.
+
+[Flash Mend (C)] Expend mana to trigger a surge of condensed restorative light within a chosen target. The spell draws upon the target's remaining life force to rapidly reconstruct damaged tissue, instantly restoring health. The healing scales dynamically with the severity of the target's injuries—the closer they are to death, the stronger the effect. However, because the restoration effect is fueled partially by the target's own vitality, excessive use, especially when not close to death, may leave them more harmed than healed.
+
+An incredibly potent healing skill, and the rest of his skills carried amazing effects... but if someone in the party wanted to kill him, or a monster got past his party members, besides praying for a stun from Radiant Smite, he had nothing to protect himself. At best, he could prolong the agony of death by self-casting healing spells over and over until he ran out of mana.
+
+"I can't really blame them," Xen said honestly as the final hours of Gerald's life replayed in his mind. Despite Gerald being a mage with offensive capabilities, because he had run out of mana, he had been abandoned and left for dead by his party. A manaless healer would likely meet the same fate. "Humans are as untrustworthy as monsters. If I were a normal healer with this list of abilities, I wouldn't set foot in a dungeon either."
+
+If he couldn't raid the upper floors and solo level his elf form quickly by relying on his Free Skill Slots and the magic stat his level 68 slime form afforded him, he wouldn't even think twice about it. Staying on the surface and charging a lot for healing sounded like a way better idea to slowly level while staying alive.
+
+"But don't worry," Xen said, feeling Valoria's displeasure at his answer. "I plan to become one of the greatest combat healers the surface has ever known. A savior that the strongest of hunters would beg to have in their party and trust with their lives." He then grinned behind his mask and left the rest unsaid, but Valoria caught on.
+
+Before she could voice her thoughts on his devious plan, a knock on the door made them both tense again.
+
+"Let us in," Randy said quietly through the door.
+
+Xen cursed himself for not even noticing their approach as he unlocked the door. The surface's lack of mana significantly decreased the passive range of Geomantic Perception. Only when he was intently focused on using the skill could he notice things around him.
+
+The two exhausted-looking friends made their way inside.
+
+"Is something the matter?" Randy asked, noticing the tense atmosphere as he shut the door behind him.
+
+"Police were here a few minutes ago. You must have just missed them on the way in," Valoria explained with a sigh. "Some guy called Ronnie informed them of noise in Gerald's apartment despite the man being reported as dead a few days ago."
+
+Randy clicked his tongue. "Shitty Tokyo apartments and their thin walls. With such nosy neighbors, that means this place is compromised sooner than I thought." He dumped a black duffel bag on the floor and unzipped it. "We need to move fast. I stopped by a charity shop on the way here and picked up some clothes that will suit you, Yuki."
+
+Xen still found the name Yuki a little disorienting after being called Gerald for so long, but he had to get used to it. This likely wouldn't be the first or last time he would switch names. Since he's reported as dead, I can't rely on Gerald for anything. That mask of mine has to be burned to ashes. The only constant is that I'm Xen, an evolved Mind Slime. These other names and bodies I wear are just skin suits to fool the humans around me.
+
+"I also got you some hopefully better-fitting clothes, Valoria," Randy said, passing some worn-out jeans and a jacket to her. Meanwhile, the clothes he had picked out for Xen seemed nicer: a simple, clean, dark blue cloak with a hood and a golden staff with two intertwined serpents on the top.
+
+Sensing his intrigue, Randy explained, "Healers typically wear cloaks or robes as they need mobility, and armor would block their passive effects."
+
+Ah, like my Radiant Aura passive? Xen thought while Randy continued.
+
+"The staff is a fake knockoff of a genuine magic item that certified healers use. You can buy a real one later, but this will work to avoid suspicion for now," Randy frowned. "If they are already aware of Gerald's demise in the dungeon, then using any of his old things, like credit cards, will cause problems. Can you give them to me?"
+
+Xen didn't mind. His mask opened, and he ejected the stored wallet and Hunter's badge from his mouth. He also decided to part with all the credits. It felt nice being freed of them, as constantly preventing his body from devouring them felt like holding his breath. It was deeply uncomfortable.
+
+Randy sifted through the belongings and was drawn to the Hunter's badge.
+
+"Shit," he cursed, flipping it over. "It has an 'E' on it."
+
+"What's wrong with that?" Xen asked.
+
+"You're level 1, an F-grade Hunter," Randy sighed and pocketed the Hunter's badge. "We are going to have to get you registered as a brand-new Hunter today."

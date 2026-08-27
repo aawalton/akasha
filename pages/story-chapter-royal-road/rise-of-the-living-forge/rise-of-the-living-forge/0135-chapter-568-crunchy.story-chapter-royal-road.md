@@ -1,0 +1,139 @@
+---
+id: 9ae53b2f-a947-5732-8038-0a17daa8244a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 568: Crunchy"
+slug: 0135-chapter-568-crunchy
+partOf: rise-of-the-living-forge
+position: 135
+ownLength: 1834
+unit: words
+publishedAt: 2026-03-04
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3115890/chapter-568-crunchy"
+royalRoadId: "3115890"
+---
+
+Mask — or, at least, one of them — staggered back to his feet in the dark cavern beneath the Menagerie’s street. Tiny fragments of debris covered his hair and a thick cloud of dust hung in the air all around him.
+
+But the darkness did nothing to hide the glowing form of the massive suit of armor standing on the other side of the cavern. Brilliant blue energy burned behind its eyes, cutting through the shadows like spotlights to stare straight at him.
+
+The armor was huge. If this was a golem, it was one of the largest he’d ever seen. Power hummed around it with a droning whirr. Mask could literally feel the magic prickling against his skin. The intensity of the power pouring out from the golem was incredible.
+
+The sheer magical energy needed to keep something like this active must have been astronomical. It was well beyond anything that the Menagerie should have been reasonably capable of.
+
+That confirms they’ve got quite some backing. What an impressive piece of magical craftsmanship. Unfortunately, it’s completely wasted.
+
+“Fools,” Mask said, shaking his head with a rough laugh. “You sent your strongest guardian after the wrong person. If this was the Menagerie’s final plan, then they should have used it against the Beast.”
+
+“It doesn’t feel very wise for you to tell me that,” the golem replied. It stepped out from the darkness, the humming energy enveloping it shifting to a bright white hue. “I could just leave and go deal with this Beast individual.”
+
+“You’re not nearly strong enough to turn your back on me,” Mask replied. He reached down to his waist, pushing his cloak aside to pull free a glistening silver dagger as he lowered into a fighting stance. “And it seems the Menagerie and their backers created you with enough intelligence to communicate. I trust you can think as well? If you turn around, I’ll end you. This blade will cut through magic and metal just as easily as flesh.”
+
+“You? End me?” derision filled the golem’s voice with far more intensity than Mask had expected. “Are you trying to rile me up?”
+
+Mask hesitated for a moment. Never in his life had he heard of a golem with so much intelligence that it could actually be bothered by an insult. Only an idiot would bother making them with enough intelligence to have thoughts beyond fighting. Emotions would completely ruin the point of a golem in the first place.
+
+Golems were fighting machines. They existed to defend or kill, not to get mad about being disrespected in a fight. It shouldn’t have cared about anything other than stopping him.
+
+Perhaps someone is controlling it from afar. Either that or the Menagerie wasted precious power giving a weapon a personality. Either way… it doesn’t matter.
+
+“Why would I rile up an inanimate object?” Mask asked. He cocked his head to the side. “You can’t turn your back to me. So what will you do? Try to fight me, and leave the Beast to finish off your masters? Or try to escape and feed your power to my blade? Or perhaps you have the processing power to register the magnitude of difference in our power? Will you run instead?”
+
+The light behind the golem’s eyes intensified. Masks’ skin prickled even more as the magic filling the air grew thicker and thicker. A spark of flame lit at the golem’s hand, exploding with a fwoomp to form into a molten blade of crackling white flame. “What did you say?”
+
+It genuinely sounds angry. Fascinating. I wonder what mistake they made along the way. Maybe I should try to bring some part of it back to study after we’re done here.
+
+Mask didn’t bother wasting his effort on a response. There was no need to try to banter with an inanimate object. He’d already wasted enough time down here. The sooner he got back to make sure the Beast didn’t get distracted, the better.
+
+This will only take one hit.
+
+“I’m done chatting,” Mask said. Gray magic twisted down from the handle of his blade to wind into his veins. His body blurred as if a thick cloud of fog had swallowed him whole.
+
+Then he vanished.
+
+Mask reappeared several feet in the air beside the large golem’s shoulder, his dagger arcing down for a gap in the armor. Power screamed in the weapon’s blade with such intensity that it rattled in his grip.
+
+He gritted his teeth, preparing for the surge of energy that would come from the impact of his dagger piercing through the golem’s armor.
+
+This was always the worst part.
+
+The dagger slammed home.
+
+There was a brilliant crack. Metal rent with a horrid shriek, and a brilliant explosion of white light sliced through the dark cavern. Mask squeezed his eyes shut, gritting his teeth as magic slammed into him.
+
+He flew back several feet, landing on the ground and skidding until the wall met his back with a painful thud. Mask cursed, blinking the angry white motes of energy from his eyes furiously.
+
+The scent of hot metal filled the air with acrid intensity.
+
+Damn. That golem had way too much goddamn power in it. More than I thought. I’ll have to head right back after this. The dagger is probably completely full. It won’t be able to…
+
+Mask’s thoughts sputtered out as he caught sight of the dagger — or rather, what remained of it.
+
+The blade was completely gone. The top of its handle had warped badly, leaving him holding little more than a fragmented chunk of iron. There wasn’t so much as a single scrap of magic left within it.
+
+Mask blinked. His thoughts sputtered out, spinning helplessly like the wheels of a wagon trapped in mud.
+
+And then his eyes raised.
+
+The golem stood, unmoving, the burning white light of its gaze staring straight at him. Fragments of his dagger littered the ground around the golem’s huge form. They glistened with fading energy, power rising up like thick smoke around the golem.
+
+“What?” Mask whispered.
+
+“Inanimate object?” the golem asked, its worlds trembling with fury. It took a step forward, driving a huge metal foot down onto what remained of the dagger, grinding it to dust with a loud crunch. “Inanimate object? I am Uriel the Gatekeeper.”
+
+“Impossible,” Mask growled. His eyes narrowed as his training kicked in and forced him to focus. Whatever this Golem was, the guild would want it. This would be worth quite the reward. “What are you? How did you break the dagger?”
+
+“You disrespectful worm,” Uriel hissed. The flaming sword in the golem’s hand sputtered out. “The Menagerie wanted you alive. And I was going to follow orders… but I’ve changed my mind.”
+
+Mask snorted. He clapped his hands together, pulling them apart with a sharp motion. A gray polearm materialized between them, glistening with raw magical power. He grabbed onto the cold wooden haft, spinning the deadly weapon around and pointing it at the golem—
+
+Except Uriel wasn’t there anymore. The golem was gone.
+
+Wait. Where did—
+
+A fist slammed into the side of Mask’s body. But this blow wasn’t anything like the previous ones he’d been dealt. It was easily a dozen times more powerful. A dozen loud snaps split through the air in such close succession that they may as well have all happened at once.
+
+Mask rocketed to the side. The world disconnected for an instant. Then a second impact slammed into his skull as he drove straight into the rock face of the cavern wall. His ears rung as blood dripped from between his parted lips.
+
+“What?” Mask wheezed. “How?”
+
+“I had to hold back when people could still see us,” Uriel’s voice said from just to his side. “That is no longer the case.”
+
+Mask jerked his head around, but it was too late.
+
+Uriel was upon him again. The huge golem grabbed Mask by the leg, tearing him free from the wall in a spray of debris and swinging him down through the air. Wind screamed past his face for a brief instant before the ground abruptly rose to meet him.
+
+A loud crunch echoed through the darkness. Darkness flashed before Mask’s eyes. He found himself rising back into the air, blood and teeth raining down from his mouth. His skull throbbed as stunned thoughts rattled helplessly around in his battered brain.
+
+He spotted his polearm lying on the ground a few feet away from him. His hand twitched, reaching out to call it—
+
+Uriel’s foot slammed down on the magical weapon. There was a brilliant flash and a crack. Her foot raised once more, and all that remained beneath it were a few warped pieces of metal.
+
+Stunned disbelief beat against Mask.
+
+“How?” he wheezed. “That… enchanted. It can’t break.”
+
+“Can’t break?” Uriel repeated, words still trembling with unrestrained anger. “You dare insult me when garbage like that is all you can bring? Those pathetic instruments? They aren’t even suited to be food. Not even Arwin would disgrace himself by eating them. It wouldn’t even be worth the trip to the toilet to shit them back out.”
+
+This thing is a monster. I need — I need to get out of here. The Beast. He has to deal with this. Time. I need to buy time.
+
+“Okay,” Mask wheezed, holding his hands up weakly. He was pretty sure his nose was broken by how nasally his words came out through his battered lips. “Okay. I surrender. The Menagerie have earned… they’ve earned it. We’ll avoid interfering.”
+
+“Surrender?” Uriel whispered, metal hand freezing an inch above Mask, so close that he could feel the heat of the power burning within the golem beating down on his bloodied head.
+
+“Yes,” Mask said. A weak smile curled across his features. He swallowed the blood filling his mouth and coughed, then continued, pushing through the pain pounding in his skull and chest. “I surrender. Unconditionally. Bring me… your leader. Bring me to your guild leader. We will discuss terms. Those are your orders. To bring me.”
+
+“They were,” Uriel agreed. The golem’s fingers twitched.
+
+“That’s right.” The weak smile on Mask’s face grew slightly larger. Even though it hurt to grin, he still wasn’t done. The Beast would deal with the Menagerie. All he had to do was stall until it was over. He wiped his lips with the back of a wrist, then grabbed his nose and jerked it back into place with a sharp motion. Then he stared up at the impossibly powerful golem defiantly. “Take me. Your task has been accomplished successfully. You must obey your orders.”
+
+Uriel’s hand lowered slightly. Then it clenched into a fist.
+
+“No thanks,” Uriel said. “I’d rather kill you.”
+
+Mask blinked. “What?”
+
+Uriel’s fist fell.
+
+There was a wet crunch.
+
+When it raised once more, nothing remained of the guildsman but a pile of squashed flesh and a shattered bones in a blood-soaked black cloak.

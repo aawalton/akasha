@@ -1,0 +1,199 @@
+---
+id: 2c08312b-7d71-53b1-b6aa-8d7f901d7725
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13 - Cow May Cry"
+slug: 0013-chapter-13-cow-may-cry
+partOf: sherly-the-most-virtuous-holy-cow
+position: 13
+ownLength: 2122
+unit: words
+publishedAt: 2025-08-28
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2555300/chapter-13-cow-may-cry"
+royalRoadId: "2555300"
+---
+
+Chapter 13 - Cow May Cry
+
+I lost my initiative…
+
+Ishuin saw the determination in Sherly’s eyes when the cow took the frontline and proposed to heal the newly transformed demons. Regardless of whether they would be even successful or not, the elf knew that this gesture alone would cause a lot of gears to begin moving. Eyes would not only be turning to her and her Cancer’s Claw, they would be turning to Braum as well.
+
+And most of all, they would be turning to Sherly.
+
+A demon-cow trying to return demons to their former selves.
+
+Ishuin observed how Sherly entered the flames, and remained unscathed to face the group of demons alone. The elf counted three, all burning up with hate. They pounced on the cow like she was an offering, but she dodged them.
+
+”Someday, Ishuin, we’ll find hope. Be patient. Protect those that you can, mourn for those that you can’t. But when hope finally comes, my dear Ishuin, please never let it go.”
+
+“I’m not yet sure, Lady Kansa,” Ishuin muttered to herself as she stopped reminiscing old memories. “Maybe she’s the one we’re looking for, but I don’t want to drag her into our problems.”
+
+Before anyone could notice her whispers, the elf Wielder turned to Braum. “Lend me your Wielders,” she started.
+
+The former captain nodded. “Pigmie, help Lady Ishuin out.”
+
+“Just you?” she asked the boar-chilim.
+
+“Yes, ma’am.”
+
+“I never took any of Lady Kansa’s Wielders,” Braum explained. “Only a few people joined me when I went away. Pigmie, like the rest of my people, I took in on my own in my travels.”
+
+“Fine.” Ishuin turned to Pigmie. There would be another time to discuss old wounds. Her own wasn’t that deep to begin with. For now, she needed to help the former captain’s people. “How many Strains do you have?”
+
+“Eighty,” the boar-chilim replied. He quickly understood the implications. “How many do you need?”
+
+“I need to bestow these unirat horns with a blessing. I’ll need three Strains per horn, but they might not be able to handle the Strains. We gathered as many as we could, so hopefully these will be enough. We’ll only need one successfully bestowed horn for each infected.” Ishuin turned to the group of demons scratching away at Sherly. “I’ll need something stronger for those. Ten per demon.”
+
+“Do we need the bigger one?” Maymay inquired. “I can start chipping at it.”
+
+“No, we’ll keep it. The small ones should do.” She turned to Pigmie next. “Can you afford those? You’ll only expend your Strains for each successfully bestowed horn.”
+
+They had ten people still suffering from being demon-touched. Including the three demons attacking Sherly, they would need sixty Evolution Strains in total. Pigmie had more than enough. But the question was, if he would agree to part with that many.
+
+“Sure,” said the boar-chilim without a single thread of hesitation.
+
+Ishuin smiled. “You have loyal men, Braum. It seems I misjudged you, Pigmie.”
+
+“They took me in after I evolved from a wild boar,” said the only Wielder in Braum’s bandits. “Of course I don’t mind giving back. If you need the rest, I’m happy to give them away.”
+
+“Just the ones to heal your friends, Pigmie. If you want to help them out more in the future, you’ll need to be stronger, which means you’ll need every Evolution Strain you can use.”
+
+Once more, she turned to the leader of the bandits. “Braum, you need to make sure those demons don’t run anywhere. It’ll take me a while, but I’ll start with the horns for them first.”
+
+“Alright, we’ll make a surround,” Braum said without turning to her. His eyes were glued to Sherly and the three demons. “Unbelievable. She’s just taking the wounds and fighting back like it’s nothing. I’ve never seen anything like it.”
+
+“Sherly doesn’t need a leader demon-cattle to heal herself,” Ishuin began, smiling. “You can probably say that she has more than enough potential to surpass them.”
+
+“You mean…?”
+
+“Yep. Sherly’s a Wielder too.”
+
+“A demon-cow Wielder from another world…” Braum relaxed, clutching his chest. “By the Zodiacs…”
+
+“Oh, I didn’t expect that,” Sherly said as she weaved through the three demons. A claw clipped her thigh despite her dodges, but she didn’t care. The wound was shallow, and it closed straight away.
+
+[Expect what?] Letters asked. His prompt was quick, and the screen in front of the cow was small and unobtrusive.
+
+Since her System Assistant didn’t have a voice yet, Sherly asked Letters to continue communicating with her in small instances only. If she were to tackle greater threats that would need her Assistant, she needed to be able to do so on the fly and without breaking her focus.
+
+“I didn’t think I could level a Skill without gaining a Level.”
+
+Sherly kicked the demon’s chest with her hind leg, pushing him to the ground. She avoided using her horns, just in case he couldn’t regenerate. Since the other demon-cattle from before couldn’t without their leader. Still, she expected him and the other two to be sturdy enough for a few headbutts and stomps.
+
+[Explanation might be long.]
+
+“Give me a short version.”
+
+[Most Skills can be trained to level. Few can’t. There are some thresholds too.]
+
+“Gotcha.”
+
+Sherly ducked under a pouncing demon. Then she rolled down sideways from another one. She managed to get to her feet just in time to parry a third’s claws with her horns.
+
+[Limits too.]
+
+“Okay.”
+
+Sherly ran into the fire, giving chase to the three demons. The flames couldn’t even singe her hair. One almost caught up to her, but she kicked his face without hesitation.
+
+“Are they done?”
+
+Sherly checked Ishuin and the others. One thing she immediately noticed were the people containing the fire. They had surrounded her and the demons, preventing them from going elsewhere. As for the elf, she was meditating, sitting on the ground. In front of her was Pigmie, looking a little exhausted.
+
+“Sherly!” Braum called out. He was on the right, away from the group. He was waving a unirat horn in his hand. “Lure them towards me!”
+
+Sherly followed the former captain’s instruction. The demons were closing in on her. And because she had to change her direction, one managed to jump on her back when she slowed. He dug his claw into her side, but it only managed to pierce her skin and the fatty layer right under it.
+
+The weight dragged Sherly down, allowing the other two to reach her. They tried to pierce her body in the same way, but they couldn’t get through her muscle.
+
+With three demons, fully grown men with metal armor, on her back, Sherly could barely walk. She managed to get close to Braum before the weight pushed her to the ground.
+
+Braum didn’t waste a second. He pulled one, enduring the flames with his own Fire Resistance, and stabbed the unirat horn into the demon’s shoulder. The entire thing went in, causing a deep wound. Then it began to glow and paralyze the freshly formed victim. The self-immolation also stopped.
+
+Captain Braum went to work, pulling the other two in and forcing them into submission before stabbing them with a unirat horn. It didn’t take long for Sherly to be freed. And almost instantly, all her wounds were healed.
+
+“Fine work, Sherly,” Braum said. “Now we just hope that it works.”
+
+He signaled for his men to completely douse the fire. Without the demons consciously feeding the flames, they made an easy enough job of it. After that, they surrounded the three demons with an improvised cage.
+
+Made out of wood, Sherly noticed.
+
+“Are those made of a special wood?” she asked.
+
+“No,” Braum replied. “I know what you’re thinking, Sherly. We just have no other option at the moment. If they burn their cage, I’ll kill them myself.”
+
+“I see…” Sherly turned to Ishuin, who was still meditating. “Still not done.”
+
+Braum gave a quick explanation of how Ishuin was infusing Evolution Strains in the unirat horns. The elf was giving the successful ones to Maymay, and in turn, the dog-zilim was administering the horns. The application was always the same, a stab in the shoulder.
+
+Like injections, but without the sanitation, and way larger… Maybe part of that blessing includes the sanitation. I hope. Those rats were not anywhere sterilized, that’s for sure.
+
+Sherly returned her attention to the three demons and was pleasantly surprised. Their skin was no longer red. Their nails were shorter now, too, along with their limbs. No fangs. She couldn’t remember if they had fangs in the first place.
+
+Slowly but surely, the effect of the blessed unirat horn showed wonderful effects. And it didn’t take long for them to return to normal.
+
+At the same time, their eyes opened. Confusion quickly shifted into fright. Then anger.
+
+The three former demons stood alert, with their angry eyes directed at Sherly. One moved, looking for his weapon, and found it missing. Then one by one, they realized they were caged.
+
+“You think this flimsy woodwork will stop us, demon!?” said one of them.
+
+Braum stepped in and provided a light chop to the neck. Only then did the three realize they were actually in familiar company.
+
+“Don’t threaten your savior,” said the former captain. Sherly could feel him holding back a few words. Emotions were making him shake. “You became demons quicker than the rest. And this little cow sacrificed much for you three to return you to normal. Apologize.”
+
+Sherly patiently waited as all three of the former demons turned from their leader, to one another, to the rest of their companions. Their realization came slowly, held back by anger and disbelief.
+
+Of course, it’s hard to believe…
+
+“I should go check on Ishuin,” she said finally, turning away from the people she saved.
+
+“Wait!” said one of them. “I don’t really understand. I find it hard to believe, to be honest. But if the captain says so, and if the others say so…”
+
+“Wait!” said another. “The demon’s talking, so this might be a hallucination! We should—gah!”
+
+Braum punched that man’s stomach.
+
+“Still hallucinating, Drad? And just for clarification, some demons can talk without needing a hallucination. You’d do well to remember it.”
+
+“No, sir! I mean, yes sir! I mean no, it’s not a hallucination, sir! And yes, I’ll remember, sir! I’m sorry, sir!”
+
+“If it’s really true, then we owe you our life,” said the final victim. He knelt down and tried to reach Sherly’s head, but hesitated. She recognized it was a gesture to hold her hand as a show of gratitude, but she had no hand of her own to reciprocate. Instead, he gave up and slumped them on his knees as he made a light bow. “Umm… Thank you. Sherly, was it?”
+
+“Thank you, Sherly!” said the other two. One of them was still nursing his stomach. “We owe you our life!”
+
+A fuzzy feeling invaded Sherly’s chest. She felt giddy, like she could run entire marathons without stopping.
+
+“You’re welcome!” she said with as much enthusiasm as she could muster.
+
+“Alright, we should check the others,” Braum said. “You three rest.”
+
+Sherly followed him to where Ishuin was. The elf was finally done meditating. Instead, she, Maymay, and Pigmie were standing over one of the still demon-touched victims. They had gloom on their faces.
+
+“What’s wrong?” Sherly asked.
+
+“Did you heal the others?” Braum added.
+
+“Just this one left, Braum,” Ishuin said. She had a unirat horn on her palm. “She’s a survivor.”
+
+“Survivor?” Sherly inquired. “Of what?”
+
+The final one to be cured was a female human. Her skin was turning red. Her breathing ragged. And her fingernails were far too long.
+
+“She’s been demon-touched before, and was already cured,” Ishuin answered. Her eyes turned to Braum. “We can’t cure her anymore.”
+
+Braum massaged his forehead. Eyes closed. “Pigmie. Find a suitable spot. She no longer has any biological family. But we should still give her a proper burial.”
+
+“What!?”
+
+Sherly stood there confused as people got to work. Braum manifested a sword, while a few people lifted the lady to her knees. Her head drooped down, nape fully opened.
+
+“Miss Sherly,” Braum began. He held his sword down, with two hands resting upon its hilt. He was solemn. “I’m afraid, there’s no cure this time. Please return to Lady Ishuin. This is my duty to perform.”
+
+Ishuin slowly and softly guided Sherly away. But the cow girl had good hearing.
+
+She didn’t miss the sound of the blade cleaving through the air.
+
+She didn’t miss the thud.
+
+Sherly cried as she joined Pigmie and the others.

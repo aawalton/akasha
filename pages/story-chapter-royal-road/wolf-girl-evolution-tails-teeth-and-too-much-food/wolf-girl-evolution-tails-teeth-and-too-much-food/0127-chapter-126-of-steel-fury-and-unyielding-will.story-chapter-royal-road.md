@@ -1,0 +1,515 @@
+---
+id: d919a8f3-0936-59c5-ae08-51fa70367176
+page-type-slug: story-chapter-royal-road
+title: "Chapter 126: Of Steel, Fury, and Unyielding Will"
+slug: 0127-chapter-126-of-steel-fury-and-unyielding-will
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 127
+ownLength: 3353
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3367725/chapter-126-of-steel-fury-and-unyielding-will"
+royalRoadId: "3367725"
+---
+
+PoV Luna
+
+Just as the sound reached its peak, the world shifted!
+
+Guildmaster Ferric did not arrive quietly.
+
+He jumped into the fight with all the force of a falling meteor, refusing to be ignored. The thunder of hooves was overwhelmed by the booming pressure of his attack. Before the horse even had the chance to slow down, Ferric’s power and weight carried him forward into a jump that turned his entire body into momentum.
+
+Skill, strength, and everything the man had to give, all joined in one.
+
+A mere second later his armored mass reached their opponent with all the murderous intent the heavyset man could manage.
+
+And it made Luna’s heart flutter with hope and awe!
+
+The strike landed with a force that tore the space apart where the man had stood, driving him back for the first time since the fight had begun. Not a step back, or even a shift. A full displacement that forced him to react or suffer being crushed to death.
+
+Even that crazed wrong creature had to take its power seriously.
+
+Yesh!
+
+Seeing the man-turned-creature finally meeting an attack capable of pushing it back gave Luna hope.
+
+And Ferric did not slow his assault!
+
+The moment his feet cracked the ground, he followed through, his weapon already moving again. He did not give the man any space to reset, constantly pressing to prevent him from returning to his previous rhythm.
+
+The second strike came nearly as heavy, the uppercut barely blocked and still nearly flipping their enemy over. By the third, Syliana joined in, and their combined offensive was no less dangerous, each attack warranting a response.
+
+Under the pressure of the dual assault those responses were imperfect, the wounds mounting. Luna saw how that initial strike from Ferric cracked the creature's chest open, revealing the core!
+
+But…
+
+He did not stop, fiercely fighting on.
+
+The focus in his one remaining eye was unnatural, with something swirling underneath the reddened whites.
+
+The clash between them changed the tone of everything around it, steel meeting resistance that no longer yielded easily, and each impact carrying weight enough that it could be felt through the ground.
+
+Where Syl and Veric had been forced into reactive defense, Ferric was able to meet him directly, forcing a back and forth that held its own.
+
+Despite that, Ferric’s armor was already sporting minor gashes.
+
+Syl moved together with him, disrupting the creature with whatever spells she could.
+
+She stepped back into the fight with control restored, her casting weaving in alongside Ferric’s strikes, furthering the damage, and reinforcing the blows.
+
+Her staff strikes helped shape the openings Ferric utilized with ruthless efficiency.
+
+Veric rolled back up on his feet, and joined from the other side. His blade cut into the rhythm with no wasted movement. He did not hesitate despite the damage he had already taken.
+
+The three of them formed a formation that kept on pushing the creature back, keeping it on their back foot – or whatever the sickly appendages had now become.
+
+The man laughed.
+
+“And now the nosy old man shows up,” he said, his hissing voice cutting between clashes as he shifted his footing, deflecting one strike while barely slipping past another. “Still clinging on to the past, eh?”
+
+Ferric did not answer.
+
+His next blow came even heavier instead.
+
+The man buckled under it, but managed to step aside just enough to let the force pass through, before his weapon snapped toward Ferric’s exposed side. The Guildmaster met it without flinching, his guard solid, the impact driving through him but not breaking his stance.
+
+“You are too slow,” the man continued, his grin widening as he pressed forward. “Too heavy. And too old to keep up for long.”
+
+He moved with speed that did not match his damage, slipping between attacks that should have caught him, his body responding with unnatural fluidity despite the ruin beneath his skin.
+
+What little humanity was left of him before was almost completely gone now.
+
+“Couldn’t make it out there, could you?” he went on, voice sharpening with each exchange. “Too fat. Too weak. Too stupid to survive outside your little town. And now you come running here, hoping to make a difference. Ha–!”
+
+Ferric’s response was another strike, catching the audacious creature straight in the face, interrupting whatever else they wanted to say.
+
+Placed just where it needed to be, bouncing off his head hard enough the man was forced to take two steps back.
+
+To acknowledge the threat posed by the very person he belittled.
+
+Luna finally got her paws under her again, her body no longer shaking with battle strain. Her Second’s awoomazing potions helping her recover just in time to hear the fool snarl and spit out a tooth.
+
+The pure malicious vitriol in his voice was unmistakable now.
+
+“Should have stayed where you belonged,” the man continued, his tone turning even colder. “Left the world to those who deserve to use it! But no–! Here you are, refusing to die quietly like you should.”
+
+Syl’s spell cut through the moment, forcing him to break his rhythm just long enough for Veric to press in again, the coordination between them tightening as they built pressure together.
+
+They did not answer him.
+
+None of them did.
+
+Their focus stayed where it needed to be, every movement committed to laying ever more damage onto the increasingly battered man.
+
+Ferric spoke only once.
+
+“What a friend would I even be,” he said, his voice steady even as he met the next booming strike of the creature whip hand head-on, “if I didn’t arrive in the time of need?”
+
+The man’s expression twisted, but the grin remained.
+
+Though given the damage to his face, Luna didn’t know if it wasn’t just stuck that way now.
+
+“Wanted to play a hero, then?” he snarled, his next movement carrying more force behind it, more intent to break rather than test. “Very well.”
+
+The clash intensified again.
+
+“I shall–”, Syliana’s staff nearly tripped him to the ground,”–grant you an early death.”
+
+Luna watched it from the ground, her breathing still uneven, her body still a little slow to answer as she forced herself to stay up. To see properly what was going on.
+
+She understood it clearly now.
+
+The man was just too strong.
+
+Maybe not in technique or Skill, or even battle sense… But he was prepared, and whatever the smelly Corruption thing did, it helped him survive where few others ever would.
+
+Even with Ferric there, even with Syl and Veric back in the fight, this had not changed. Despite mounting damage, and every exchange they won, he just kept coming, not minding even the missing eye.
+
+He survived every exchange, every wound a mere nuisance, the bones in his whip arm were broken now, but he just kept going.
+
+In fact…
+
+The bleh smell of Corruption had intensified throughout the fight, and Luna suspected there was nothing human left of the thing before them.
+
+But–
+
+He wasn’t winning either!
+
+Not anymore.
+
+The balance had shifted, and her friends were exploiting it every moment!
+
+Woo!
+
+Luna’s claws pressed into the ground as she steadied herself, her eyes locked onto the ongoing fight.
+
+This wasn’t over yet.
+
+Not when Luna, Apex Predator Extraordinaire, had any say here!
+
+She did not hesitate.
+
+The moment she saw Ferric hold, saw Syl regain her footing and Veric rejoin the rhythm without collapsing under it, Luna understood her friends could survive for a while. They could push back and keep the man occupied.
+
+But would it be enough?
+
+Luna didn’t think so.
+
+The man was just too hardy, too enduring, and her friends quickly getting too tired.
+
+But Luna still had more potions, even if Second told her not to drink too much at once–
+
+She needed every bit of mana, health, and stamina for what she needed to do next!
+
+Her Maw opened before the thought fully settled. One potion followed another without pause. Luna quickly gulping them down.
+
+The effects hit her immediately.
+
+What should have been a steady warmth, a pleasant tingling, or a burst of energy ended up hitting her much sharper.
+
+The sensations turning unpleasant and nauseating even before she was done drinking them all!
+
+The familiar tingle turned into a burn that crawled along her limbs and settled deep in her core. A jitter then went through her body, making it hard to stay still.
+
+Her wound began to close more rapidly,
+
+It was far from comfortable, but in that very moment the only thing that mattered to Luna–
+
+–Was that it would let her hunt the big meanie thing right away!
+
+Her stomach twisted, the mix of potions settling poorly as the effects layered over each other, her breath hitching as she forced it down.
+
+Yesh!
+
+Luna would not lose to potion thingies!
+
+The fight continued before her, every impact carrying through the ground, every shift in pressure reminding her that time was something they did not have in excess.
+
+But–
+
+It gave her time enough to get back into shape!
+
+It was time for a gamble.
+
+An Apex Predator gamble!
+
+The bestest plans were the simplest, and this one was simple indeed!
+
+Bite or die!
+
+Though… Luna needed a little bit more.
+
+An extra something, just in case, and she had a good idea what would help–
+
+She pushed herself fully upright, her body protesting for a fraction of a second before the forced energy drove through it again, holding her steady. Her focus turned inward, her attention locking onto a Skill that might give her that edge.
+
+Her second Lunar Form.
+
+Just waiting for her to decide on its shape.
+
+And what she needed right now–
+
+Was power!
+
+Luna reached for the empty space in her Skill, and pushed her will and mana into it.
+
+But it resisted!
+
+The energy swelled, flowing into the form she wanted. And yet it wasn’t enough, the skill pushed back against her control, refusing to listen.
+
+Luna growled under her breath, forcing more into it, trying to shape it the same way she had shaped her human form.
+
+And still it didn’t want to listen!
+
+Even with the faint glow of the moon beginning to rise above the horizon that always made it easier, it was not enough to stabilize what she was trying to create.
+
+The skill had limits, and while the form Luna tried to create was taking shape–
+
+It was simply too big, too heavy.
+
+Too costly.
+
+Her mana would bottom out and it still wouldn’t be enough!
+
+Woo!
+
+System meanie!
+
+Why are you like this?!
+
+Her focus wavered for a fraction of a second, and then–
+
+The shifting shadows gave her an idea.
+
+A great and intoxicating idea!
+
+The shadows around her moved, and Luna understood what to demand of the Skill next!
+
+She just had to demand of it–
+
+A little less weight!
+
+And supplement the missing bits with what she knew worked for her always!
+
+Luna adjusted, no longer insisting on the full shape, filling in the blanks with what would listen anyhow, and which would still let her take on the shape she desired!
+
+The Skill accepted her new demand.
+
+Yesh!
+
+That would work.
+
+It had to!
+
+She did not have time to try for anything else.
+
+Luna turned away from the fight.
+
+And ran!
+
+The decision came without hesitation, the plan already set. Her path cut away from the tower and into the open terrain beyond!
+
+Her Skills letting her zoom away and make a lot of distance fast.
+
+Every little bit counted, every little bit meant more power, more momentum!
+
+Behind her, the man noticed her leaving.
+
+Of course he did.
+
+His voice followed, sharp with mockery.
+
+“Ha, running away now?! Go then!” he called out, the hissing sound of his unnatural voice carrying easily over the clash. “Once an animal, always an animal!”
+
+Luna did not look back.
+
+The man was distracted, and it gave her more time!
+
+“You can flee,” he continued, his tone twisting ever colder. “But I WILL find you. There is no escape.”
+
+She ran.
+
+And ran!
+
+To build up more speed.
+
+Each step pushed harder than the last, her body driven forward by everything the potions had forced into her, by everything she had left to give. The ground blurred beneath her paws as Luna accelerated even more, her stride lengthening with every passing heartbeat.
+
+Momentum gathered.
+
+Faster.
+
+Harder!
+
+Her breath burned in her chest, her vision beginning to smear at the edges as the world struggled to keep up with her movement. The terrain lost detail, shapes blending together into a single direction that mattered and nothing else.
+
+Luna turned, only her shadows letting her accurately make the perfect turn without losing much of what momentum she had built up.
+
+The motion carried through her entire body, redirecting everything she had gathered without letting it fade. Her paws dug in for the briefest instant before she launched forward again, now aimed back toward the fight.
+
+Toward him.
+
+Her friends better hold on, Luna was coming!
+
+She surged forward, becoming even faster!
+
+And all of her Skills answered.
+
+One after another.
+
+Layering into each other, creating a whole greater than any individual part would have allowed.
+
+Every movement Skill worked to give her the needed burst of speed.
+
+Every fragment of momentum Luna had managed to build up.
+
+They came together as one.
+
+United for a single purpose!
+
+Her vision narrowed until there was nothing left but the target ahead, the rest of the world falling away entirely as her body committed fully to what she had chosen.
+
+It would all work as one!
+
+One Claw to Rend the Ugly Thing!
+
+But even as the shapes around no longer held any meaning, the blur too strong to discern anything–
+
+Luna added one final Skill to that mix.
+
+【Lunar Form Lv.20 → Lv.21】
+
+And Lunar Form responded.
+
+And her form shifted into one both familiar and new.
+
+She grew mid-stride, stretching larger, becoming heavier, and stronger! The shadowy darkness bled into her fur. The shadows no longer merely wrapping around her, but actively becoming a part of what Luna now was!
+
+They reinforced what the Skill itself refused to sustain. Made up for the missing weight. The strain hit Luna immediately, her mana dropping hard as the form tried to collapse under its own cost.
+
+But Luna did not let it.
+
+The shadows answered her call, and she would not let it go to waste!
+
+Her form wobbled–
+
+【Lunar Form – Slot 2: Shadowmerged Wolf(Adult) Set】
+
+But held.
+
+A far larger fusion of wolf and shadows, the new body everything Luna wanted it to be!
+
+And her next stride came sure and precise.
+
+Pushed her ahead ever faster.
+
+The sonic boom left far behind her wake.
+
+Luna felt unstoppable now.
+
+And not a moment too late.
+
+The fight came back into focus all at once, the blur snapping into clarity as she closed the final distance. Veric, Syl and Ferric were still holding, but barely. Their movements strained, their positions pushed to the edge of what they could maintain, and Veric was barely standing, a new injury marring his leg.
+
+The distance shrunk like never before, Reaper’s Pass snapping her body forward hard.
+
+But even then, Luna struck her target!
+
+Everything she had gathered released in a single instant, her claw driving forward with power the likes of which it never held before, never needed before. The large distance and all of her movement was behind it now.
+
+And the impact of it landed with a weight that belied her size.
+
+It hit like a falling star.
+
+The contact tore through the man’s chest with immense power. Whatever resistance the Corruption could still hold, finally broke under the combined forces of the blow.
+
+The sensation of flying assaulted Luna next, the man flying through the air from the impact, and she right with him.
+
+The sound followed a heartbeat later, a shockwave that cracked through the air and ground alike as the force of it spread outward, staggering her friends away.
+
+The damage to her own body was equally immense.
+
+Her own arm gave under the strain.
+
+The force she had driven forward tore through her as much as through him. Pain exploded up her limb sharply. All sensations overwhelmed by pain and needles.
+
+Her body shook as it tried to hold together after what she had just forced it to do.
+
+A slew of System messages assaulted her just then.
+
+【Momentum Claw Lv.17 → Lv.18】【Shadowmeld Lv.17 → Lv.18】【Shadow Run Lv. 9 → Lv. 10】【Jump Lv. 17 → Lv. 18】【Strike Lv. 16 → Lv. 17】【Reaper’s Pass Lv. 5 → Lv. 6】【Pain Resistance Lv. 2 → Lv. 3】【Beast Instincts(Lesser) Lv. 2 → Lv. 3】
+
+【HP -37】【HP 30/124】【Bleeding Damage: -5 HP/s for 8s】
+
+But Luna barely even registered the warnings.
+
+The man’s chest had been fully split open, the Corruption beneath exposed fully now. The structures beneath laid bare, leaving no doubt about what he was.
+
+The wound was deep, revealing shrunk organs, cannibalized to support the mad surge of power.
+
+It revealed the core within.
+
+A heart, or what was left of one.
+
+Half damaged, her strike nearly crushing it too.
+
+Yet it was still beating.
+
+Wrong.
+
+Everything about it was wrong!
+
+The creature screamed in pain and fear.
+
+Rage and madness mixed into a sound that tore through the space around them. Even then, even with that ridiculous wound, he still moved.
+
+His body responded with the same unnatural resilience as before.
+
+There was no man left here, only monster.
+
+Syl and Ferric struck together, aiming for the revealed heart.
+
+Coordinated.
+
+But he stopped them.
+
+Just barely.
+
+His arms moved, his body twisting despite the damage, deflecting what should have ended him, the Corruption driving him past limits that no living thing could sustain.
+
+The damage still wasn’t enough.
+
+But it was close.
+
+Close enough that Luna could feel it.
+
+Just a bite away.
+
+She forced herself up on her three paws.
+
+The fourth did not answer.
+
+Shadows pooled beneath her, holding what her body could not, keeping her upright when she should have fallen.
+
+It would have to be enough.
+
+Luna saw the opening come to her.
+
+Her friends working hard to make it happen.
+
+Ferric caught one of the creature's arms, locking it in place for a fraction of a second. Syl blocked the counter that followed, her staff holding just long enough to prevent the second arm’s attack from landing cleanly.
+
+It created a delay.
+
+But it was all she needed!
+
+Luna moved with everything she had left.
+
+She threw herself forward, her body carrying into the opening as her transformation began to collapse, the form giving out at the worst possible moment–
+
+–and saving her in the process.
+
+The strike meant for her passed over where she had just been, missing by the smallest margin as her size decreased mid-motion.
+
+She hit the Corrupted heart with all of her strength.
+
+Her jaws closed around it with everything she had left to give.
+
+And it still tried to resist!
+
+But Luna bit harder things before, ate rock, scales, and bones!
+
+Bit corrupted things dead!
+
+It would yield!
+
+It had to!
+
+The Corruption surged, pushing into her mouth, trying to invade, to claim, to turn what she was into something else.
+
+Luna just bit down harder, never letting go.
+
+Her teeth sank in deeper, her jaws tightening until pain flared through them, until her gums split, until the taste of blood mixed with everything else.
+
+Time and time again Luna demanded her Bite aid her, even as her whole body turned numb.
+
+She refused to stop, refused to let it have a chance of survival.
+
+The resistance broke, her teeth clunk shut with a snap.
+
+The tendrils invading her mouth spasmed, then stilled.
+
+The heart’s pulse stopped.
+
+The pressure collapsed.
+
+The System pings that arrived were the sweetest things she had ever heard.
+
+They told her the threat was dead.
+
+Her pack was safe.
+
+Luna relaxed, and the world dimmed.
+
+Darkness took her.

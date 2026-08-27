@@ -1,0 +1,265 @@
+---
+id: a4b575c8-1cee-5fcf-96ff-b1089bdf50bc
+page-type-slug: story-chapter-royal-road
+title: "261. Black Hole (II) "
+slug: 0016-261-black-hole-ii
+partOf: speedrunning-the-multiverse-complete
+position: 16
+ownLength: 1978
+unit: words
+ownProgress: 1978
+publishedAt: 2023-07-13
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1275514/261-black-hole-ii"
+royalRoadId: "1275514"
+markedReadAt: "2026-06-29T22:42:12.897Z"
+---
+
+The Frost Realm
+
+Jez stood atop an icy bluff overlooking a slaughter. His eyes were closed, his hands clasped behind his back. He hummed to the tune of the battle, to the throaty cries of Salieris’ ice giants as his Frost Drakes gored through them, to the dying throes of Salieris’ golems as his own crushed their insides to shards.
+
+Salieris had chosen to make his last stand in this realm in the fortress of the Frost Emperor.
+
+It was strategically sound. The fortress was thought to be impregnable. It was walls upon walls, spiked like a porcupine, giant cannons peering out from every window spitting thousands of balls of frost qi each breath. There was a moat around the fortress which dropped so far you couldn’t hear a body hit the bottom. There were soldiers on every rampart, so heavily armed you could hardly make out bare skin through all that armor, brimming with Salieris’s insurrectionist red qi. And they fought with the certain knowledge that if they lost here there would be no clemency.
+
+They fought with the desperation of caged animals.
+
+Yet none of it would matter.
+
+This time, Jez did not play around with tactics. There was no strategy to this assault.
+
+The boot did not need tactics to squash the insect. No matter which hives it wished to hide in.
+
+“Jez,” whispered a voice. There was Nujia behind him, smiling dreamily. “I come bearing good news.”
+
+“Sorry?” said Jez. “What was that you just called me, general? I must have misheard.” He kept his voice light, but he saw Nujia stiffen.
+
+“Master Jez. My deepest apologies.”
+
+“Better,” he said with a kind smile. “What is it?”
+
+“It seems we are on the verge of victory. Look.”
+
+She gestured to the sky, where a lone Ice Roc was flying over. It clutched in its mouth a white flag.
+
+“It seems Salieris wishes to negotiate a surrender. What shall I tell him?”
+
+“Surrender?” Jez’s eyes sparkled. “I never knew he had such a sense of humor!”
+
+In an instant he’d drawn his sword and slashed. The golden arc whipped furiously through the sky, met the Roc. And it burst apart in a shower of gore and light.
+
+That shot had about ten times the strength it needed. Jez pursed his lips. He hadn’t meant to put that much into it—it seemed he’d slashed in anger. A happy accident. It sent his message rather nicely.
+
+The white flag fell and fell, spinning and fluttering, and was lost to the depths of the moat.
+
+“Did you know, Nujia, that I’ve cultivated a poor reputation?” he whispered.
+
+Nujia shifted uncomfortably. “I would not put it that way—”
+
+“Please, be honest!” Jez’s eyes glinted. “I despise liars. I despise them most of all.”
+
+“Poor to some is rich to others, master.”
+
+“Well put. Yet in the eyes of the Multiverse kindness is the greatest poverty, isn’t it? Kindness invites predators. Predators like our good friend Salieris, holed up on his little Fortress. Do you know what I think? I think he planned to ride my kindness all the way to Multiversal domination! I think he thought I’d simply roll over and let him have it all. Just as I’d let him gouge out his little resistance.”
+
+Below, hundreds of cables stretched across the moat. Golden warriors swarmed across them, burning with the powers of the Infinity. Too strong. Too fast. Too much. They swarmed up the walls, and the red warriors atop were powerless to resist.
+
+Tides of gold and red surged against one another. The red broke. The gold crashed through.
+
+Jez laughed.
+
+“I’ve come to realize that the Multiverse is like a child,” he said. “I love the Multiverse, and all its living creatures. And so my instinct is to dote on it. But what comes of this? Nothing but petulance, resistance—like a spoiled child. To truly love the Multiverse is to raise it right. And sometimes that means a healthy beating.”
+
+“Very wise,” said Nujia.
+
+“I must correct my reputation,” Jez mused. “And this shall be the first act. How many realms yet remain in Salieris’s possession? A handful of Upper Realms—a half dozen of the Middle ones? I shall go realm by realm. I mean to enjoy myself.”
+
+He nodded down at the Fortress, which was so overrun all but the highest peaks were glazed gold. Salieris had fled. But not for long.
+
+“There is another matter,” said Jez. “I have a mission for you.”
+
+“Yes, master?”
+
+“I have heard reports of other misbehaving children. A certain Godking of Time, making a mess of the dragonrealm. While I pursue Salieris, may I entrust him to you?”
+
+A long silence from Nujia. “Master—it pains me to admit, but I fear I am not his match.”
+
+“Even overdrawing from the Infinity?”
+
+“…I can bring no assurances.”
+
+“I see.” Jez pursed his lips. “Then you can have whoever you need.”
+
+Nujia started. “Truly?”
+
+“I want this done, Nujia.” He turned to face her, and the millennia-old Empyrean flinched at something in his gaze. “No more close calls. No more failures. Take enough power to bury five Dorians. If he is not dead within the month… I will be very, very disappointed in you. Do you understand?”
+
+She swallowed. “Yes.”
+
+“Good.”
+
+He turned back, sighing happily.
+
+***
+
+Dorian’s eyes were closed but he felt his body smoking with qi, the way breaths smoke on a wintry day.
+
+The supergiant was unstable, and he felt what it must do—and he’d only have one chance to do it. Ahead there was only rebirth or ruin.
+
+He drank another qi elixir, slowly, felt the added mass wobble his core. Careful did it. He needed to hit a tipping point—no further. His Law gave the structure, his qi the substance. As he poured in more and more qi, and the mass strained against its Law confines. A sense of pressure welled up within him.
+
+The elixirs poured in like drops of water, drip-dripping into his core. It would not stop wobbling. Yet it wouldn’t give in either. The thing was stubborn. It needed a shove.
+
+Dorian kept drinking.
+
+[Level-up!]
+
+[Star Realm: Supergiant]
+
+[101% -> 102%]
+
+…
+
+…
+
+And drinking.
+
+[Level-up!]
+
+[Star Realm: Supergiant]
+
+[104 % -> 105%]
+
+…
+
+…
+
+And drinking.
+
+[Level-up!]
+
+[Star Realm: Supergiant]
+
+[112% -> 113%]
+
+The Supergiant wasn’t merely wobbly now. It was a volatile spasming mass. It seemed more likely to burst like a broken dam than to condense like he envisioned.
+
+For the first time he wondered if this was a good idea.
+
+Maybe there was a good reason he hadn’t heard of any Empyreans or Godkings with his setup. Maybe those that got to this point and kept going inched their way to oblivion. There was something uniquely settling about feeling that seething mass spasming within you, like bad heart palpitations. Somehow when it’s a part of your own body you get this nearly overwhelming instinct to stay still and touch nothing. Lest you break something vital.
+
+An irrational instinct, Dorian knew. He really ought to keep pushing. This method’s fundamentals were sound. There was no reason it should cap out at Empyrean. If this were a run he’d probably be rushing ahead already.
+
+But this was not a run. This all felt real in a way leveling hadn’t for a very long time.Each time he took a sip it felt like prodding a slumbering giant. Who knew what it’d do when it woke?
+
+In the end, it was simple logic that convinced him.
+
+If he didn’t advance and maxed himself out as a God… Jez had just reaped Godkings from his prison. Dorian would likely fail in his mission, and then die a terrible death. That way lie certain oblivion.
+
+He might die here. But if he was going to die either way, it might as well be on his own terms.
+
+He drank.
+
+[Level-up!]
+
+[Star Realm: Supergiant]
+
+[113% -> 114%]
+
+He felt something within him crack. His breath caught.
+
+Fissures crackled down the Supergiant. Streams of black light burst out from within. And the Supergiant exploded in fiery qi.
+
+Blood spurted from Dorian’s mouth. He was burning up all over; he was certain he was about to melt. Huge chunks of qi burst out against his innards. There was no pain at first. Then acid surged up his throat, choking him. For some reason he giggled, which was a terrible idea with a throatful of acid; he doubled over, coughing and hacking. Puddles of blood splattered the tatami.
+
+Then it all froze.
+
+The explosion, and its many chunks of supercharged qi, hung suspended.
+
+[Rank-up!]
+
+[Star Realm: Supergiant -> Black Hole]
+
+Dorian choked—this time out of surprise.
+
+A heartbeat passed. Then it all reversed.
+
+Some intense gravity at the heart of his being had wrested control of the explosion. Now all the qi in him sank towards it, slowly at first, then quicker and quicker. As they neared the center of his being they so fast they streaked like comets.
+
+Then they vanished, one by one. Sucked into seemingly nothing and nowhere, gone without a sound.
+
+[Level-up!]
+
+[Star Realm: Black Hole]
+
+[0.0 -> 0.1]
+
+[Level-up!]
+
+[Star Realm: Black Hole]
+
+[0.1 -> 0.2]
+
+Dorian probed the center of his being, fascinated. There was only a swirling whirlpool of force, this immense pull, but he could sense no great reservoir of qi as its source. All he could do was deduce its presence at the very center of things—just as he might deduce the presence of an object by its shadow.
+
+…
+
+…
+
+[Level-up!]
+
+[Star Realm: Black Hole]
+
+[0.3 -> 0.4]
+
+And the last vestiges of his Supergiant’s qi had been recalled. All that cultivation—from nothing until now—counted only as 0.4 in this new system, whatever that meant.
+
+As he opened his eyes, he found he had no aura. He felt like a mortal. Yet as he moved the air shimmered around him, suddenly charged, like he was exerting some invisible force upon the world.
+
+It was a similar effect Jez achieved when he pulled power from his Infinity. Or his brother, when his bodies merged into one.
+
+Dorian had not climbed to their heights just yet.
+
+But it seemed he now breathed the same air.
+
+“I’m alive,” he croaked, astounded. Then burst out in laughter.
+
+He waded into old Coldheart’s ring and pulled out a suitably strong vial of spirits. Time to celebrate! He rarely had time to indulge in this life but the moment deserved it. Besides, he had time to spare.
+
+***
+
+The next seventy years were devoted to two things.
+
+Stockpiling qi and Dao insights.
+
+He’d reached that grind-y part of the growth curve. The stretch where most Gods spent their whole lives struggling, and getting nowhere.
+
+Luckily he had a literal treasure trove at his disposal.
+
+In those seventy years his bladder certainly got a level-up. But more important things did too—
+
+[Level-up!]
+
+[Great Law of the Eclipse]
+
+[Grade: High]
+
+[Saturation] 28% -> 29%
+
+Compared to other Gods going nearly a third of the way from Empyrean to Godking in Dao in just seventy years was astounding progress.
+
+Compared to his prior rate of progress it was a little depressing. But that was cultivating for you.
+
+[Level-up!]
+
+[Star Realm: Black Hole]
+
+[2.9 -> 3.0]
+
+It had taken him fifteen years to go from 0.4 to 1.4. Then about thirty from 1.4 to 2.4. He’d been grinding at this last level-up for years. That last notification was like sunrise after a long night.
+
+What was the benchmark for 1.0? He felt a lot stronger, but there was no way to know by just how much stuck here in the Chamber.
+
+He glanced to the hourglass on the wall, where the last few motes of glowing sand were trickling their way down.
+
+He’d been sitting here long enough. It was time to stretch his muscles.

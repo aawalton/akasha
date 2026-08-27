@@ -1,0 +1,123 @@
+---
+id: 5f29bfa4-d3d3-540a-91fb-b4cdd0de8978
+page-type-slug: story-chapter-royal-road
+title: "297. Finale (III)"
+slug: 0053-297-finale-iii
+partOf: speedrunning-the-multiverse-complete
+position: 53
+ownLength: 1680
+unit: words
+ownProgress: 1680
+publishedAt: 2023-08-30
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1326569/297-finale-iii"
+royalRoadId: "1326569"
+markedReadAt: "2026-06-29T22:43:30.690Z"
+---
+
+With the Blessing of Hecate, Sun’s cloaking had reached surreal levels; as they weaved between the crowds of soldiers, rushing blindly forth, eyes fixed ahead, not registering them in the slightest, it felt like they were but ghosts observing the real world. They had no maps, no real plan, even. All they knew of the tower was that it had floors, and it had stairs. And the Infinity Heart was likely on one of the highest levels. He could feel it now like a North Star of qi, gently pulsing high above; it fed qi to so many beings he couldn’t ignore it if he tried.
+
+In this long dark tunnel you could hear the panting and clanking and growling of Jez’s troops. You could hear the explosions outside, the screams and the roars, the sounds of metal grinding on metal, the low groans as hordes of great beasts gored each other. They all mingled here, ricocheting off the walls, bouncing, bouncing. Dorian had been in marshes so foggy you could hardly make out your own hand—it was like that, except for sound. Hearing was nearly impossible. Sun had to repeat something twice for him to make her out.
+
+“Ten… minutes!”
+
+How much longer she could cloak.
+
+At some point this would drop—and then the climb would get a Hells of a lot harder. So he leapt forth, rocketing along streams of wind qi, and burst into the light of the first floor.
+
+Soldiers milled here in a chaotic mess, swirling whirlpools of bodies jostling them this way and that. It was hard not to be moved along with them as they streamed toward the doors. Dorian waded through, taking care not to shove or blast with too much force. You could only cloak so much.
+
+On the far end, a wide marble staircase spiraling up into a square of blackness. They squeezed their way there and shoved their way through.
+
+By now Sun had become a sweaty mess. She’d gone so still she could’ve been carved of wood, but when he asked her how she was she put up a brave face and threw him a thumbs-up. “Never been better!”
+
+There was nothing he could do for her but finish this as fast as he possibly could.
+
+The second floor was a forest of machinery, pipes sprouting out of nearly every inch of wall, connecting to giant steel boxes flashing with lights, riddled with dials. Clanking, whirring, humming, bubbling overtook the sounds of shuffling feet and clanking armor. In the background they could still hear the muffled roar of battle. As Dorian wove between the ranks of machinery he felt like a rat running a maze. He found a few staircases here, leading up… But which to choose?
+
+Empyrean soldiers shuffled in and out of several.
+
+“Running out!” gasped Sun. She had become a ragdoll in his arms.
+
+One staircase was unattended—a smaller one, to the side. Cursing, Dorian dashed for it.
+
+They’d barely made it up when Sun went totally limp.
+
+“Here,” he said, producing his Chamber of Infinite Time. “Use this to recover.”
+
+Then he took in the room and froze.
+
+“Get in. Now.”
+
+Sun seemed baffled at the sudden intensity, but she didn’t question it. In she went. The room was like a steel trap, lit only by a string of weak, flickering light—little bright islands in a sea of darkness. In the far distance was another staircase leading up. She didn’t have eyes like him. She couldn’t see the deformed shapes lurking in the darkness whose eyes, or eye, swiveled to greet them as soon as they’d stepped foot here.
+
+If he’d thought chimeras were deformed, they were nothing compared to these things. Bodies made by nature had a natural order to them—a balanced, often symmetric configuration of limbs. A harmony. These things were like if you’d cut up ten species and slapped their body parts together with hardly any consideration. Tails shared space with foreheads. Tongues stuck out from sores in rotted skin. The horrible mistakes of some creator god.
+
+And each exuded the auras of Godkings. Though none had the mark of the Infinity, nor its aura…
+
+Are these supposed to be chimeras? Or rather, failed chimeras? The ones that didn’t make the cut, the ones ruined in experimentation?
+
+“So… hungry…” rasped one, its eyes two pale white marbles.
+
+“Please… “ shrieked another. “Please!”
+
+They came at him like a pack of starving lions that’d sighted a slab of raw meat.
+
+They might’ve been ungainly. But they did have raw aggression, and raw power, and it made them all the more unsettling for it. They should not be able to move like they did. For a moment he wasn’t sure what to do with them—their weak points, their qis, even the way their joints bent defied all he knew of fighting.
+
+But he settled himself with a breath. Of course, some things were always the same. Hit something hard enough, precisely enough, and it would break; that he understood well. Against these things most other Godkings might be taken aback—their instincts would be a hindrance to them as these long sweeping limbs zigzagged towards them, bending in ways no limbs should. Yet who needed instincts to predict things when you knew exactly what was coming?
+
+[Prometheus Eye!]
+
+Ghostly images ripped through his body. He leapt up before they were made real, letting them crash into one another, tangling themselves up.
+
+In that split second, he had a choice to make. Which curse to use? He could simply blind them, or give them slowness, and dash up the stairs. But they’d follow—and who knew what awaited him there? They might alert others to his presence too. No good.
+
+Best to end them here.
+
+[Curse of Niobe!]
+
+He cast the spell out like a net. Confused groans rippled through the beasts when it struck. The Curse of Niobe inflicted debilitating weakness. It made you feel brittle, hesitant—if you moved too fast or struck too hard your entire body screamed at you; it made you feel on the verge of shattering.
+
+But it did no damage on its own. It was merely to soften them up.
+
+His Dragon’s Bane burst into his hands, and by the time they sighted him and began their clumsy lunges it was already half-drawn. A flash of blue light, and a beast staggered, its chest caved in. Three more, and its pulped heart leaked out its backside. It glanced down, stupefied, before its many many eyes rolled back. One last shot knocked it off its feet.
+
+He struck down three more—which still left six of them lumbering after him, circling him. One awful thing flapping on three wings swooped in from above, cutting off any escape. They’d crowded too close for bowshot.
+
+So fists it was. He had to blow through them fast. He had neither the time nor qi to spare. He struck one with a [Fist of Falling Star, Rising Moon], saw the force fissure its chest—but his Eclipse qi smoldered off its front. It was thick enough, and potent enough, but its Laws simply couldn’t find purchase on its skin.
+
+Then an idea came to him, as it was so often wont to do in times like these. Perhaps it wasn’t so much that it came to him than it was squeezed out of him, so great was the pressure.
+
+These things—they’re akin to zombies. They’re undead.
+
+He winced just thinking of it, but it would end things quickly, and without much hassle. Why do all my best ideas involve sacrificing myself, one way or another?
+
+He bashed it again, sinking it to a knee before a tentacle caught him around the neck like a noose and dragged him off his feet. And then he was under and they sank their teeth in, sank their fists in, sank their claws in. He howled, partly to sell it, partly because being eaten alive really fucking hurt. It must’ve worked. They sliced into him with renewed vigor. Every one of them had a tooth or nail in him—several multiple.
+
+In other words, a point of contact.
+
+[Midas Touch!]
+
+He emptied his entire Godking core in that fraction of a second.
+
+The neat thing about bones was they tended to touch other bones, linking to a full skeleton. And they were mostly inorganic; especially the bones of these creatures, which hardly fit anyone’s definition of living.
+
+Which meant you could shoot a Midas touch quite far into a being in a situation like this. Dorian chose Durin’s Coal—the single most explosive, flammable substance in the Multiverse. These things were simply bursting with Laws of Energy. Incredibly expensive to transmute. Even dumping all his qi, he only managed about half their skeletons. Which was good enough.
+
+Now all they needed was a spark. A flame.
+
+A breath from one of the fiercest fires in the Multiverse ought to do the trick.
+
+He spewed fire and darkness, and the world went out. There was a ringing in his ears, a blurring of his eyes; he hit a wall, bounced off another, then struck the floor hard.
+
+It took him several deep breaths before he was well enough to stagger to his feet and observe his handiwork.
+
+There wasn’t much to observe. A fine dark sludge now covered the floor. Nothing solid existed in the room anymore. Not even the lights. Of the fact that this had been the holding cell of creatures of Godking-level powers, there was no evidence.
+
+Ordinarily, Dorian would never have allowed himself to spend this much qi, and be this wounded, this early into a mission.
+
+Except he had access to a space where time flowed ten thousand times slower, and replenishing himself took but a few breaths’ time.
+
+“You good?” he asked Sun, and she nodded. They hadn’t known each other very long but by now they had an understanding, a kind of telepathy. With a glance he could tell how she felt, and she him. The nod was all he needed.
+
+They forged on into the dark.

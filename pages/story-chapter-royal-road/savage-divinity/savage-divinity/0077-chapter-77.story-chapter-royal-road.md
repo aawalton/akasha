@@ -1,0 +1,127 @@
+---
+id: f1ed8674-573a-516a-9795-15c47c6467eb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 77"
+slug: 0077-chapter-77
+partOf: savage-divinity
+position: 77
+ownLength: 4336
+unit: words
+publishedAt: 2016-06-06
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/74555/chapter-77"
+royalRoadId: "74555"
+---
+
+Author's note: A big thank you to blue1ao for the donation.
+
+Akanai sat still as she gave her orders, setting workers to task burning the dead and clearing the hilltop. Several pits were already ablaze at the bottom of the hill, as soldiers continued to unceremoniously throw Defiled corpses into the flames. A better send off than they deserved, but she was left with little choice. She could not allow the bodies to sit and rot, so close to their camp, bringing predator and scavenger alike. There was still too much work to be done.
+
+A pinch on her ribs sent a spasm of pain through her bare chest, a displeased grunt escaping from her throat. “When we return home, I will have the tailor Cierna teach you how to properly sew. A worthwhile investment.”
+
+Unaffected by her words or glare, Tokta continued to stitch up her wounds, a neutral, almost bored look upon his face, tired from the day's work. “You could just take a day or two and fix this all yourself. You need rest Chief Provost, you push yourself too hard. What would have happened if Dagen had not arrived to aid you? You should have abandoned the soldiers and regrouped.”
+
+“Hmph. I had things well in hand. The Demon would have died at my hands eventually, it was running out of corpses with which to heal itself. Perhaps another 30 minutes, and I could have pierced its outer armor with ease. It was no threat to me, newly formed and awkward in its movements.” Had she not been required to keep the mental attack at bay, the Demon would have fallen within minutes, and not the long, drawn out battle she had endured. A simple enough thing, to obliterate the creature beyond repair, but the amount of chi she had available to fight with was severely limited, everything going towards her defenses. Thankfully, the Demon had descended out here, isolated and alone, rather than at Shen Huo, with others to defend and protect it, a disaster thankfully avoided. With the support of other Demons and a full army, the city would have fallen with ease. “How is Dagen? I was not aware how strong his mental defenses were.” It irked her that the man was in full control, completely unhindered in his fighting.
+
+“He is unconscious, heavily injured by the acid, and my healers are at their limits. He won't die, but he will not enjoy the next few days, if he even regains consciousness in the interim.” The stitches complete, she stood and accepted the vest handed to her, gingerly covering herself up, much to the chagrin of the staring soldiers. Foolish men, acting as if they had never seen breasts before.
+
+The looks on their faces reminded her of Rain and his awestruck look when their paths crossed in the baths. “And the boy? Did he survive?” Charging a Demon with only a spear, screaming like an idiot. Brave, but reckless.
+
+A slow chuckle from Tokta caused her to relax. “Rain has managed to impress me once again. Two broken arms, one collapsed lung and a shredded kidney, as well as several lacerations in his intestines and stomach wall, he managed to remain alive long enough for a healer to reach him. His right arm was crushed beyond repair and amputated, but the boy likely knew that would happen. He cut off the flow of blood to it, all but separating it from himself. Formidable indeed, keeping calm under pressure. He should wake within a day or so.”
+
+Shaking her head, she let out a sigh of both relief and worry. “I am at a loss of what to do with him. He manages to inspire both pride and anger with a single action. I would have thought him more … prudent.” Cowardly was the word she wished to say, but he had disproved that with his actions. The mystery of how he had managed to move about under the Demon's mental attacks would need to wait until he regained consciousness as well, two mysteries that both grated at her pride. If he was already capable of setting mental defenses, then he was far ahead of any of his peers, a genius without comparison.
+
+“Well, I have nothing to suggest in that regard. Happily, you are the Chief Provost, and I am but a lowly minion, free from such concerns.” Collecting his things, Tokta shuffled off towards his next patient as she watched, noting his half-lidded eyes and tired posture. Between battle and healing, the man had been pushed to his limits, as were most of the warriors under her command. A hard-won battle, she had underestimated just how many Defiled were still united in this area, almost 10,000 strong, each mounted atop a fierce Garo. The initial reports of the attack on Kai's camp had numbered less than half that and had not included any Garo riders. Even if there were twice the number of Defiled, if they had not been mounted then this battle would have been far more one-sided in her favor.
+
+Inwardly sighing, she kept her face free of anger as she strode out of the healer's tent, surveying the soldiers around her. Many of them were badly injured, missing eyes or limbs, damaged organs and torn muscles, but they would survive, for now. They watched her as she strode about, nodding at them in thanks for their service. Pitiable souls, while she could guarantee that each of her Sentinels would be healed to full strength with time, it was unlikely that the Empire would do so for troopers without rank. It was often more economical to dismiss them with a reward in lieu of paying a healer, a sad truth of the world.
+
+Raising her voice, she spoke to the gathered masses. “You have each served the Empire well, and my healers will aid you where they can. I can make no other promises, but know that should you need aid, shelter, or work, come to me and I will not turn you or your families away. If you cannot find me, then speak to the Magistrate of Shen Huo, or someone in the Man Family and they will send word to me.” Her speech had little impact, a jaded, bitter group, all too aware of how they would be treated upon their return, already resigned to being thrown away, but she would not abandon them. If they came to her, she would see them healed, even if she had to pay Taduk's exorbitant fees herself. If the Empire would not have them, then she would take them in as Sentinels, find them homes within the mountains. The blood toll for this battle had been high, and her ranks would need to be filled. These men had proven their worth to her, weathering a fierce charge without breaking.
+
+She repeated her promise several times to other groups, each response as muted and unenthusiastic as the first, all of them unwilling to believe, too afraid to hope. Having done all that she could, she left to survey the remains of her camp, ravaged by deep furrows and bloody pits. Directing the idle and healthy soldiers, she began organizing better defenses, digging trenches and building small fences. As she worked, the constant, lingering smell of burning corpses filled the air as they stacked fallen soldiers and Sentinels in neat little rows atop their pyres, readying the dead for their sendoff.
+
+Night turned to day and wore on, the camp finally cleared of corpses by mid afternoon, the oily smoke still hanging about, the smell replaced by the delightful scent of wild game cooking over the campfires, allowing all to indulge in a celebration of life after such a difficult battle. Her sentries were in place once again, unwilling to leave anything to chance, but her army had earned a single night of respite, before resuming the bloody task at hand. At least 4,000 riders had escaped, and without a leader, it was likely they would fracture into smaller groups, causing her no small frustration in tracking them all down.
+
+All of that was for her to deal with tomorrow. Tonight, she ate delicious food and sang songs around the fires, commemorating the lives of the fallen whilst little Mila sat at her side, smiling and in good cheer, listening to the stories being told of the day's events, from dozens of different viewpoints. She laughed in disbelief upon hearing that Rain had defeated the Defiled Champion, going so far as to exchange names, who then turned into the Demon likely from aggravation. It delighted her that she was not the only one to be so frustrated by his actions. Pleased at the results, but maddened by his methods. Hopefully, Rain's injuries and the lack of coddling from Taduk would temper his future actions.
+
+The celebration came to a close as night began to fall, and she stood before the living, the dead at her back. Lifting a single cup of wine, she held it high, displaying it for all to see. “3,173 soldiers and Sentinels lay dead, the price for our victory here. Their tribulations are over, their journey at an end. May they rest in peace, safe in the arms of the Mother.” Turning, she poured the wine out on the pyre of a soldier, a commoner with no rank. Others approached with their cups, pouring them over the heap of wood and corpses, all down the line until every person present had taken part.
+
+She poured herself a second cup, once again raising it high. “Warriors of the Empire, our duty is yet to end and trials still lay before us. We will endure.” Bringing the cup to her lips, she drank it in one sip before placing it aside for a torch. Without another word, she lit her torch and threw it atop the pyre, watching as the flames consumed the bodies of the fallen. The fire soared up into the night sky, a beacon of smoke and light as she sent off her fallen with a salute and a bow, before turning to return back to her tent, retiring early to ready herself for the next morning.
+
+The threat had been weathered, but the hunt was on, and she would not stop until the Defiled were eliminated, stem and root, every last one of them killed before they could spread their filth within the Empire.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sitting in the healer's tent, Alsantset watched as Rain slept on the ground, relaxed and happy. A burden had been lifted from her shoulders after she was told that he would survive. Without Balance, he would have died of his injuries before she had reached him, proof positive that he was not Defiled. Smiling to herself, she wiped away his drool with a handkerchief, almost giggling at his light snores and oafish smile, wishing that he could always be this slack and content. His face twitched as he smacked his lips, looking every bit like a perverted old man, likely dreaming of some woman.
+
+Foolish child, always causing her no end of worries. Finding him on the field, broken and bloody, smiling and relaxed as he sat and watched the celebrations had almost caused her heart to leap from her chest. Why did he never fight alongside the Sentinels, instead choosing to fight with soldiers? When he fought beside Fung, she could be relieved, knowing that the Magistrate's son would be well protected, but out here he was simply just another soldier, fodder for the grinding war machine that so loved to devour lives like his.
+
+At least now with his injuries he would be relegated to duties less dangerous. If Akanai had decided to send the wounded back to Shen Huo, Rain would be back within the month, but now, it would take Rain months to regrow his arm. A few days and his broken arm would be fixed, but until then, Alsantset was determined to pamper him the best she could. It would be just like the times when he had first arrived, a scared little rabbit, brought out of his shell with good food and steady patience. She had requested to attend the camp and Akanai had granted her request easily, even mentioning that she should look after Rain in the meanwhile. Akanai played at being aloof and cold, but in truth, she was a caring, mothering leader, beloved by all under her command.
+
+“Hello, Alsantset.” Little Mila pranced into the tent, Song following closely behind, both of them carrying bowls of rice and platters of roasted meat, placing them onto a small table. “We noticed that you haven't eaten yet and thought we would join you for a late night meal.”
+
+Grateful for the meal, Alsantset moved over to the small table and seated herself on the floor, accepting the offered bowl and chopsticks. “Thank you little Mila. You are so warm and caring, you will make a good wife and a good mother someday.”
+
+Her words were met with a scathing blush and a small pout as the girl quickly glanced at Rain, and the three of them began to eat. Alsantset watched Song's movements, who lately seemed far more comfortable, no longer asking for permission for every little action, her tail raised behind her as she ate with poise and composure. She had still yet to smile, but under Mila's care, she had come far, hopefully soon breaking out of her shell as Rain had, but that would take more time yet. She was well suited to war, however, unflinching in the face of danger, skilled beyond her years and quick to learn, already riding quins like one born in the harness, putting Rain to shame.
+
+“So, the soldiers had some stories to tell about Rain.” Mila was speaking through mouthfuls of rice, her face lit in delight. “He dismounted a Champion, killing the garo in a single strike! The soldiers were all talking about it, wanting to meet him.”
+
+“Oh? Why? It was only a champion, he has killed several already.” These soldiers were too easily impressed, were they to learn of all his strengths, they would likely go wide-eyed in awe.
+
+Giggling, Mila looked smug as she kept silent, until upon further prodding, she revealed, “After the Champion had been dismounted, he killed a few dozen soldiers, all of them unable to bring him down with weight of numbers. Then Rain stepped in and the Champion gave his name. Vivek Daatei.” Her eyes gleamed, her smile breaking wide. “Rain defeated him in a single exchange, and would have killed him, but then … Vivek turned into the Demon! Rain defeated a Defiled Champion that was strong enough to become that fearful creature!”
+
+Smiling at her enthusiasm, Alsantset shook her head. “The strength of the Demon has little to do with the strength of the host. Many Demon's will even take forms from animals, or even objects of power. There is truly too little that we know of the Enemy.” Pride blossomed in her chest, contrary to her words. Rain loved to complain and whine, but they were merely words, his actions defining him as a warrior. If only he would fight alongside the Sentinels so that they too could see his worth, rather than just hear his grumblings.
+
+Still smiling, Mila bounced about in place, unable to stay still. “I know, but even then it's impressive. Some of the stories say that he fought the Demon as well, sacrificing his arm to lead it away from the soldiers, saving many of their lives. It’s laughable, since none of them would have even been able to watch, but still the stories spread.” Barely able to contain herself, she shifted about, leaning into Alsantset's arms. “I want to be like Rain, fighting among the soldiers, making a name for myself, but Mama always has me stationed in a place of safety. I spent the entire battle firing arrows into the night, not meeting a single living Defiled. She even threatened to tan my hide in front of everyone if I ran off like Rain does.” The precious girl pouted once more. “It's just so stifling, I want to prove my worth, like Rain and Huushal have, but Mama is so overprotective.”
+
+Alsantset would have never guessed it before, but the sweet, kind, talented child, the hope of all the village, was in many ways a spoiled princess. It brought a smile to her face, made the girl seem more approachable. “She loves you, and would see you safe. If I could, I would do the same with Rain.”
+
+As if hearing his name, Rain stirred in his bedroll and she moved to his side. His eyes half-lidded, he coughed lightly, and Mila poured a cup of water for him, helping him up and letting him drink slowly. “Hello.” Half smiling as he looked about the tent, he yawned, moving his stump as if to cover his mouth. After a moment of confusion, he chuckled. “I've lost my right arm twice now. I should take better care of it.” Kicking at the blanket covering him, he struggled feebly out of them. “Why didn't Tokta fix my left arm? It's only broken. Stingy. How am I supposed to pee? Or worse...”
+
+“Foolish child.” A tear of joy ran down her face as she gently stroked his face. He was so tough and resilient, already laughing. “You wake from a serious injury and your first words are of base humor. What am I to do with you? Do not blame Tokta, there are plenty of soldiers and Sentinels who are close to death, and the healers have little energy to spare for minor injuries. Besides, you are likely to just break it again.” Alsantset lightly tweaked his nose as she smiled. “How are you feeling?”
+
+“Hmm... Hungry. Tired.” He raised his stump, cut off above the elbow, looking at the bandaged area. “Dreading having to grow this back.” She helped him stand, supporting him as they walked out of the tent in search of food, Rain adamant about not staying in the healer's tent. “So... how long ….was I out for... this time?”
+
+They had barely walked a dozen steps and he was already winded, Alsantset's hand upon his chest and the other around his waist, almost carrying him, worried that he would fall. “Not even a full day. Your injuries have mostly been healed, but there are some that you will need to fix on your own. Taduk will help you with the arm when we return to Shen Huo, or if you feel able, you can begin trying, under supervision.” She tried to make her glare menacing, but his tired grin showed that she had failed.
+
+“Alright... enough walking... carry me please.”
+
+She chuckled and lifted his tiny frame into her arms, holding him like a child as he nestled his head upon her shoulder. When he had first arrived, he hated being held or touched, always jolting away or freezing from any embrace, but that had long since faded and she walked towards his tent, ignoring the judgmental looks. Rain was a Warrior, but he cared little for face, and never worried about showing weakness. It was one of his troublesome yet lovable quirks.
+
+Mila ran off with Song to fetch more food, and Alsantset soon reached Rain's tent. Yan sat meditating nearby, her progress astounding all who knew of it, another young hero of the People. Propping Rain up against a stone by the fire, Alsantset rummaged through his tent for clean clothes and a blanket. She paused, noting that there were two bedrolls, and upon further inspection realized that little Yan had moved into Rain's tent. She smiled mischievously to herself, glad that the little orphan was being so assertive. She left the tent and helped him change, wrapping him snuggly, guarding him from the night's chill as he sat looking tired and happy.
+
+Mila and Song returned and Alsantset stepped back and watched as Mila fed Rain, smiling at his fortune. Between Lin, Mila, and Yan, it would seem that Rain would be well-loved and cared for. After a few minutes, Yan joined them, sitting quietly off to one side. Unable to help herself, Alsantset decided to speak out. Yan was her favorite, Lin too admiring and Mila too indulging of Rain, but there needed to be fair play. “Yan, I see that you've moved into Rain's tent. I'll have to trouble you to look after him.” She enjoyed the small look of jealousy that flashed across Mila's face, quickly smothered with feigned indifference.
+
+Rain chuckled. “Oh Adujan, you're too good to me. I think I may have to take a shit later, so you're going to have to wipe for me.” The relief in Mila's eyes almost made Alsantset laugh out loud.
+
+Without missing a beat, Yan replied, “You've got two working legs and there's plenty of grass, just scoot along the ground. You'll be fine.”
+
+“Don’t be so shy. I like to wash it off with water after I shit, so I'll need your help with that as well.”
+
+Their banter continued as she watched Mila pout, internally laughing at the prickly situation that Rain was in. Although the two of them would be in close quarters, Alsantset was positive that Yan would not succumb to her base desires, likely leading him about by the nose. She was a tough one, and would brook no insult from Rain. She would wait until properly married.
+
+Deciding that the increasingly filthy discourse would have to end, she interrupted with a question. “Rain, how were you able to withstand the mental attack of the Demon? The Lieutenant General will want to know, none of the other Sentinels were able to move about unhindered besides Dagen. Tell me of your experience, starting just before the Demon turned.”
+
+A sheepish grin on his face, with the promise of more debate aimed at Yan, Rain simply shrugged. “Hmm... I fought the Defiled guy, err, Vivek Daatei. He was wounded, I went up to end him, but before I could, he … turned inside out, or something. Not pleasant to watch, but I couldn't stop. Then it hit me, and I blacked out, and when I opened my eyes again...” Pausing his narration, Rain lay on his back, looking forlorn.
+
+She waited for almost a minute, until she was unable to keep silent any longer and asked, “And?” She feared the worst, that it had shown him the scenes of his enslavement, broken him once again, despite how happy he had seemed.
+
+“I was in a perfect world, where all my dreams came true. All of you were there, along with Tate, Tali, Baatar, Sarnai... My parents... my dog... my children.” He sat there, staring into the sky, a sad smile upon his face. “It showed me what it was like to be happy.”
+
+No wonder none who were afflicted spoke of what they saw. They were all mourning their loss, a difficult thing to deal with. A lump formed in the back of her throat. “You saw your parents?”
+
+“Ah, no, not exactly. There were two people who I knew were my parents, but I couldn't make out any physical details about them. It's one of the things that threw me off, helped me break free of the illusion.” He spoke as if it had been simple, always unwilling to brag. Coughing sheepishly, he continued. “Even after I figured it out, I kept watching, kept trying to go back into the illusion, to be happy again. I didn't want to leave, even knowing it wasn't real, that my life was at risk. It was powerful and wonderful.... but empty.”
+
+Her fear assuaged, she moved forward and gave him a hug. “Well, you broke free and are well. Pursue your dreams here in the real world, and they will not be empty.” Her hands planted on his shoulders, she gave him a stern look. “At least now I understand why you were so angry and rash upon waking. Akanai almost died of laughter watching you assault the Demon so foolishly.”
+
+Rolling his eyes, he settled back into his reclining posture. “Yea, well you know the rest. After getting beaten by the Demon, I went and woke up Dagen, and blah blah blah, here we are.”
+
+Mila laughed, clapping her hands. “You woke him up? Mama will be delighted to hear that! She was being a little grouchy, thinking that you and Dagen had stronger mental defenses than her.” The others smiled as well, and the conversation turned to other questions of his ordeals, but after a few minutes, Alsantset motioned for everyone to retire, Rain already drifting back to sleep, his body still weak from his ordeal.
+
+Moving a short distance away with Mila as Yan helped Rain into their tent, Alsantset smiled at Mila's envious look. “It seems Yan has stolen a march, aiming for Rain's body. What do you plan to do now?”
+
+“Hmph. Nothing. Who that lech sleeps with is none of my concern.” Mila's face heated up again, too many times in one night.
+
+Chuckling, Alsantset gave her a hug, refraining from pinching her freckled cheeks, still plump and childish despite her beauty. “Be more honest with yourself, little Mila, or Rain will be lost to you.”
+
+Leaving with those words, Alsantset moved back towards her tent, light on her feet, delighted at how everything had turned out. He had broken free of the Demon's sway when all others had remained locked within, and had even freed Dagen to aid Akanai. The story would be told, Dagen's word giving it weight, and Rain would be praised as he so deserved. A small fright at the mention of his parents, but it seemed that nothing was amiss.
+
+Things were finally working out for Rain, and she could not be happier.

@@ -1,0 +1,235 @@
+---
+id: 027c22cc-81b1-5919-97b9-b441df0adb6f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 689 - Prep For The Garden Party"
+slug: 0690-chapter-689-prep-for-the-garden-party
+partOf: mythrans-master-of-all-continued-completed
+position: 690
+ownLength: 2852
+unit: words
+publishedAt: 2018-09-03
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/287262/chapter-689-prep-for-the-garden-party"
+royalRoadId: "287262"
+---
+
+Ren appeared in the bedroom in the house in Aurora and immediately cast the Portal spell to go to the underground chamber that he used as a transition point to enter the Fire Realm.
+
+“I'm taking a quick trip to the Fire Realm.” Ren said to everyone and took Artemis' hand. Teepo dissolved into the ring, then Ren and Artemis stepped through the portal. He dismissed it and cast a portal into the Fire Realm, then they stepped through that one. He didn't see Fire Dancer in the bed, so he assumed it was daytime and stayed in his normal form, then made Artemis invisible and they flew to the throne room.
+
+“Father.” Fire Dancer said as Ren entered the throne room though the humongous doors.
+
+“Please forgive my early intrusion into your domain, Deity of Fire.” Ren said formally and bowed to her, and he felt all of the Fire elementals approval mixed with hers. “I came early because I have just learned that my Adventurer's business may take much longer than I had originally anticipated.”
+
+“So, not just overnight in the Earth Realm, then.” Fire Dancer said.
+
+“I may be gone for the next day and that night as well, Deity of Fire.” Ren said, sadly. “Possibly for even longer than that, depending on the turn of events.”
+
+Fire Dancer felt his regret and sorrow over this information. “That is... troubling.”
+
+“I know it is, Deity of Fire.” Ren said and knelt on one knee. “I interrupted my current Adventurer's business to come here, with the sole purpose of informing you of the change, as soon as I had learned of it.”
+
+A ripple of surprise went through the Fire elementals in the throne room. They had never heard of an Adventurer doing such a thing, and those that could, felt that he was telling the truth.
+
+“Your consideration is appreciated.” Fire Dancer said. “What do you expect of me because of this?”
+
+“I expect nothing, since that would be highly inappropriate of me.” Ren said and ducked his head. “I only wanted you to hear my apology for the unexpected change in plans. I sincerely hope to be allowed back into your presence as soon as the altered Adventurer's business has concluded.”
+
+Fire Dancer waved that last statement away. “Do you know what this new Adventurer's business is?”
+
+“No, Deity of Fire.” Ren said. “I won't know until it happens, which is why I added the caution that it could take much longer.”
+
+“Would you tell me if you knew?”
+
+“Of course I would.” Ren said without hesitation. “As proof of this, I will tell you all about it when I return.”
+
+Another ripple of surprise went around the throne room. It was rare for an Adventurer to reveal the nature of their business when away from the world.
+
+Fire Dancer shared this feeling and this view. “Very well.” She said. “I won't hold this delay against you.”
+
+“I thank you from the bottom of my heart for being so magnanimous.” Ren said and stood up, but he kept his head ducked slightly. “Please accept this as a small gift of appreciation.” He equipped his platinum armor and replaced the spells in the two shoulder-mounted giant wands with something he had never used before. “The combined spell, Firestorm Whirlwind!”
+
+Ren fired both wands and two 50 foot wide fireballs shot out and hit the mass of Fire Elementals. The fireballs exploded and each made a 500 foot wide Fire Tornado 200 feet tall as the Firestorm and Whirlwind spells combined and swirled together. The hot air from the fire and the cold from the wind made them twice the size they should have been and increased their damage potential, then the two Fire Tornadoes combined and became one massive 1000 foot wide churning Fire Tornado.
+
+Fire Dancer gasped as nearly all of the Fire elementals were quickly engulfed in the spell's effect and picked up and tossed around in its interior. All of them changed color from their orange-yellow normal state to nearly white hot. She felt them all rejoice as they all fed and fed and fed. Since the original spells were only used to start the process, when the Fire elementals consumed the effects of the combined spells, it didn't lessen their impact in the least.
+
+Fire Dancer reached a hand out and stuck it inside the swirling mass of Wind and Fire, and absorbed some of it. It's sheer destructive force tickled her hand and she felt how happy the Fire elementals were at such a display.
+
+“It should last a while, considering this is the Fire Realm.” Ren said. “Please enjoy it while it lasts.”
+
+“We will.” Fire Dancer said.
+
+Ren ducked his head. “If you will excuse me, I need to return to my Adventurer's business.”
+
+“I look forward to your return.” Fire Dancer smiled as the massive Fire Tornado started to move across the throne room and the Fire elementals inside enjoyed the ride. “We all will.”
+
+Ren put a hand over his heart and sent her a large dose of his love and appreciation, then he left the throne room and went back to Fire Dancer's bedroom. He made Artemis visible again as they approached the spawn point and landed, then cast a portal back to the Earth Realm and into the underground chamber with the magical barrier.
+
+They stepped through and Ren dismissed the portal, absorbed the Everlasting Fire, then cast another Portal spell to return to the bedroom. Once there, he summoned Teepo and made him solid and able to talk, then he kissed Artemis, Suniva, and the 4 succubi goodbye and told them be might be gone for a couple of days.
+
+“We understand.” Seldanna said for all of them. “Return when you can.”
+
+Ren took her hand and kissed it, then he left the room to tell the Marilith Demon he wouldn't be back for a couple of days. She asked for a kiss, which he gave to her without hesitation, then he went back to the bedroom and looked at Suniva, who was back in her normal 1 foot tall form.
+
+“I know it's going to be hard on you, so let me make you something.” Ren said to her.
+
+“You gave me that cloak the last time you had to leave.” Suniva said. “Having your warmth near me was so nice.”
+
+“You absorbed it all.”
+
+“I couldn't help it.” Suniva chuckled. “It felt too good not to take it into myself.”
+
+Ren smiled and took out several stone bricks and a paving stone, then built a little pen for her on the nightstand. “You should love this, then.” He said and filled it with his Hands of the Gods ability Burning Hands. Pure Fire flowed almost like water, and he used his Fire Manipulation ability on it to push it down and created a Solid Fire wall on top of it, but still inside the pen.
+
+“R-Ren!” Suniva exclaimed and flew down to land on it. “Oh... oh, my!”
+
+“Now don't take it all in at once.” Ren said and kissed his fingertip and touched the side of her face. “This should last a few days, if you pace yourself.”
+
+“I... I...” Suniva took a breath and let it out. “I love you!”
+
+“I love you, too.” Ren said and Teepo flew up to land on the ceiling. “I'll see you later, buddy.”
+
+“Bye, Ren!” Teepo said. “See you when you get back!”
+
+Ren nodded and went to stand by the wall. Artemis came over to him and bent over slightly to give him another kiss.
+
+“Be safe and return to us.” Artemis said.
+
+“Stella will be there to help me. I can't get much safer than that.” Ren said. “Logout.”
+
+********
+
+“Whew.” Ren said and slipped off the VR headset. “Okay, I'm pretty sure she won't be too angry when I don't come back right away.”
+
+“I'm so glad that you care so much.” Elise said, and Ren turned his head to look at her.
+
+“Hey, Beautiful.” Ren said and smiled at her. “Of course I care. Like I told Stella, I need to make up for not being there for her.”
+
+“Even though it's the programmer's fault?”
+
+Ren nodded. “They made the changes because of me, so it's still my fault.”
+
+Elise smiled and touched his hair. “You are not responsible for the actions of everyone else, Ren.”
+
+“But...”
+
+“My sweet little man.” Elise said and leaned in to kiss him. “Just play and have fun.”
+
+Ren took a breath and let it out. “Actually, I can't. Apparently, you all have cooked up a little surprise for me today.” He said. “I think I better get a quick sponge bath and have all of my bandages changed.”
+
+Elise nodded. “That's a good idea.”
+
+“Can you pick out a good outfit from the dregs in my closet for me?”
+
+Elise chuckled. “Of course I can.” She said and lightly touched his wrapped knee. “I'll make sure it's nothing too restrictive.”
+
+“Thank you.” Ren said and looked at Denise. “If I could impose upon you...” He glanced at Stella. “...and maybe an extra pair of hands?”
+
+“We'll have you all ready in about 20 minutes.” Denise said, then Stella and Elise nodded.
+
+“Then have at it.” Ren said and opened his arms, and they laughed.
+
+“We need to prep first before we undress you.” Denise said. “Elise?”
+
+“I'll try not to start without you.” Elise said and winked at Ren, and it was his turn to laugh.
+
+“Okay, go ahead then.” Denise said as she and Stella walked towards the bathroom. “Just be careful.”
+
+“It's his last silky pyjama set.” Elise said. “Of course I'll be careful.”
+
+Ren sat there as Elise carefully stripped his top off and didn't make his wounds hurt in the least. Her hands grazed the edges of his rib cage and she softly caressed the bruised skin above the bandages. He shivered slightly and she looked at his face to see if she had caused him any pain, and he glanced down at himself. Her eyes glanced down as well and she saw the bulge there.
+
+“Oh, sweetheart.” Elise said and leaned in to kiss him. She leaned back and thought about taking his pyjama pants off, then decided he would need to lay down for her to get them off without hurting him. She was about to ask him to scoot down when Stella and Denise came back out of the bathroom with the proper supplies to tend to him.
+
+“You took his top off? I thought you'd start with the pants.” Stella said. “I owe you a dollar, Denise.”
+
+Denise chuckled. “He'd need to lay down to get them off without it hurting his side.”
+
+“That's just what I was thinking.” Elise said.
+
+“I'll put the towels down so he can.” Stella said and laid the towels down, then she and Denise moved Ren over onto them and laid him down. Stella braced his hips by putting an arm under his lower back, and Denise and Elise easily pulled his pyjama pants and underwear off in one smooth motion.
+
+“That was a lot easier than I thought it was going to be.” Elise said.
+
+Stella slid her arm out from under his lower back without disturbing the wound on his side. “It's all about leverage.”
+
+“With a big enough lever, you can move the world.” Denise said. All three women stopped what they were doing and looked down at Ren and his very ready state, then they quickly looked up and exchanged glances.
+
+“I found a lever that rocked my world.” Stella said, and Elise snorted a laugh.
+
+“Mine, too.” Elise said.
+
+“It was okay.” Denise said and her face flushed red as the other two women looked at her with wide eyes. “He's going to get a swelled head if we keep complimenting him about how good he is in bed.”
+
+Stella laughed. “A swelled head!”
+
+Elise laughed as well and Denise rolled her eyes.
+
+“You know what I meant.”
+
+“We do, and it's right there!” Stella said and pointed, then they all laughed.
+
+Ren laid there quietly and let them laugh, mainly because he knew if he said something, they would realize that they were talking about him as if he wasn't there and he was right in front of their faces. It took them a few moments to calm down and then they looked at his face.
+
+Stella saw his blank expression and sighed. “Sorry, Ren.”
+
+“For what? Treating me like a sex object or ignoring me while you laughed at me?”
+
+Stella wasn't sure how to answer that.
+
+“We weren't laughing at you.” Denise said.
+
+“It sure seemed like it.” Ren said. “I'm laying here waiting for the 'quick' sponge bath, and all you're doing is standing around and making jokes about my penis.”
+
+“Ren, that's not...” Elise tried to speak and he held a hand up to stop her.
+
+“No, it's okay.” Ren said and looked at Denise. “You don't have to worry about me thinking I'm good in bed.” He said, and they could hear the self-recrimination in his voice. “I know I never have been, not in the real world.”
+
+“Ren, you've been...” Denise tried to tell him he was spectacular.
+
+“No, I haven't.” Ren said and cut her off. “Do you really think I don't regret that I can't make love to you like I want to? That I have to... not want to... have to... let you do all the work?”
+
+None of the three women said anything.
+
+“Do you really think I don't realize how disappointed you all are because of that?” Ren asked them.
+
+“I'm not disappointed.” Elise said.
+
+“Yes, you are.” Ren said and saw she was going to argue. “I'm pretty smart, Elise.” He said. “Every time I get hurt, you have to keep your distance and that disappoints you very much.”
+
+“I... it's only because I can't cuddle you.” Elise said. “I want to hold you close and be with you, and I can't.”
+
+“I know.” Ren said. “I feel the same way.”
+
+“Then what's all this about?” Stella asked. “We were only joking.”
+
+“I'm just... I'm frustrated!” Ren said, and they looked at him in surprise. “I can barely do anything with you normally, and now with being so hurt, I can't do anything at all!”
+
+Elise caught her breath. “Ren...”
+
+“I can't even ask for a hug from my girlfriend, who I love, because we're both afraid of making my injuries worse.” Ren said and let a tear appear in the corners of his eyes. “Your jokes about... using my lever and giving me a swelled head... they hurt because I... I can't use it and I've never had a swelled head.” He said and wiped at his tears before they fell. “Do you understand?”
+
+“Yes, Ren.” Stella said in a slightly subdued tone. “We understand.”
+
+“Please, give me a bath and change my bandages.” Ren said. “I need to get ready for whatever it is you have planned.”
+
+Stella unwrapped the bandages around the wound on his side and checked the stitches, and Denise checked his wrapped knee. She couldn't remove the wrap, not without a doctor's permission, so she washed around it without getting it wet.
+
+“Barbi planned it, actually.” Elise said and walked over to his closet and picked out clothes for him to wear. “She thought it up a couple of days ago.”
+
+Ren thought about what it could be, and sighed. “Let me guess. It's a garden party of some kind, right?”
+
+Elise, Stella, and Denise looked at him with wide eyes.
+
+“I hope she only invited the neighbours and not everyone in the city.” Ren said, and the three women exchanged glances. “If you wheel me out there and there's a big crowd...”
+
+“Don't worry.” Stella said. “I'm sure she kept the guest list at a respectable limit.”
+
+“Uh huh.” Ren said as he closed his eyes and successfully ignored the feeling of having two women give him a sponge bath. “Just get ready to calm me down when I have a panic attack.”
+
+“We're always ready for that.” Denise said and her hands moved up his thighs to scrub him with the soft cloth. “Ren, do you...”
+
+“You can do it.” Ren said. “For some reason, I'm not that excited about this situation anymore.”
+
+Denise held in her sigh and scrubbed his private place, and he didn't react at all. She thought about trying to tease him a little, then saw Stella's glare. She gave him a quick rinse and moved down to his feet, and Stella finished his chest and arms. After a quick shampoo and rinse of his hair in the water basin, Ren was dried off and dressed in his best clothes, then helped into the wheelchair.
+
+Elise got changed right there while Stella and Denise left the room to get changed themselves. When they returned, the four of them went downstairs and through the house towards the garden party in the backyard.

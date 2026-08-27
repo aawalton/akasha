@@ -1,0 +1,245 @@
+---
+id: 7706d9d8-6c27-5f0b-9706-d85225c56481
+page-type-slug: story-chapter-royal-road
+title: "307 The Past and Present"
+slug: 0266-307-the-past-and-present
+partOf: the-new-world
+position: 266
+ownLength: 3796
+unit: words
+ownProgress: 3796
+publishedAt: 2021-09-07
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/746700/307-the-past-and-present"
+royalRoadId: "746700"
+markedReadAt: "2026-06-29T21:30:18.756Z"
+---
+
+I pointed Tera towards the set of stairs leading to Torix's lair. Tera followed me in a nervous trot. Once up the stairs, we found Torix still reading with his eyes plastered to a book. Little did he know I did the same. I waved a hand at the lich, "Hey, do you mind casting your silencing magic over one of the rooms in the temple? Maybe one with a view?"
+
+Torix raised his hands and snapped his fingers, "On the uppermost floor, third room on the left."
+
+I thanked him before Tera and I walked up. The skeptilian mercenary kneaded his hands out of nervousness, but I waved away his concerns, "You'll be fine to talk as you like once we're in the room, and there won't be any consequences for it. I'll make sure of that."
+
+Tera listened but chose to stay silent. Whether out of fear or respect, I couldn't say. We crossed a hallway, a flight of stairs, and reached the room covered in Torix's silencing magic. Once inside, Tera and I stepped up to a view of Saphigia. It was an ancient opening designed for the flow of water into the building. There, Tera and I rested with a full view of our surroundings.
+
+Hybrids remained in the foreground, but they no longer lingered. Elysium called them back towards vessels siphoning them elsewhere. They carried their dead and dying, along with other on-field supplies. We watched this retreat while I said,
+
+"So, you continue to serve the Empire. Why?"
+
+Tera stared down at the Hybrids, "They own us."
+
+"Us...You mean the skeptiles?"
+
+"They conquered our planet long ago. We've been under their imperial subservience since."
+
+A manifolded mind searched my memory. Something popped up. After first leaving BloodHollow, I fought two mercenaries scrounging in a low-level dungeon. They hunted for easy dungeon cores, ones they could then sell on the black market for credits. Their status showed they were petty scavengers at the time, so I managed to kill them despite them boasting a level lead.
+
+Unlike them, Tera was different. He was the first classer I ever saw, so I held him in higher regard. In the end, the Empire and Schema found no difference between them. I frowned,
+
+"You couldn't escape subservience even when you're capped and have a class?"
+
+Tera gave me a sardonic smile, his teeth like needles, "You would be amazed at how binding contracts can be when desperation and blood are the ink used to sign them."
+
+I tilted my head, "How's that?"
+
+"I'm surprised you know so little about a faction you're allied with."
+
+I stared down, wincing at his words, "Yeah, so am I."
+
+Tera waved his clawed hands, "It doesn't matter. The Empire used standard tactics on our species. We bordered on becoming a fringe world, so they offered protection. We neglected their offer at first, but when the threat of glassing loomed overhead, we signed away our planet and our people."
+
+He let his palm clap against the stone railing, "And now this is what we've been reduced to. Servants."
+
+I shook my head, "Damn. I didn't know."
+
+He shook his head, "You don't have to apologize to me. I understand your position better than most. You were only a normal person a few years ago. This must all be unsettling, and the Empire must've been one of the only factions offering anything to you. Of course you'd take their deal. And just so you're aware, most large factions aren't any different from them. You shouldn't judge them too harshly. They are not overtly cruel to us. Not usually."
+
+I guess being a gouging, autocratical asshole wasn't so bad as long as everybody was doing it. Choosing to bring it up later, I nodded,
+
+"What I'm wondering is how the Empire still has you serving them despite your position. I mean, you're a classer. Doesn't that mean something?"
+
+His face contorted in pain, "Ah, you...You lack perspective. I must remind myself of that."
+
+"Did I say something rude?"
+
+"Yes. You did, and you're right. Being a classer means something. I'm tied to the albony because I wished for my clan to be free, as you estimated. For them to remain unshackled, I've pledged servitude to the albony. I work for the albony now, and they pay me a modest stipend."
+
+I gazed at his variety of tools, "Ah, so that's why your tools are from eldritch."
+
+He narrowed his eyes, "I am too poor to afford the proper gear. Thank you for the reminder."
+
+I gave him a thumbs-up, "Hey, it's what I'm here for."
+
+Tera's grim mood cracked, and he let out a small laugh, "Hah. I told you the same sort of thing when we first talked. You even mentioned how uncomfortable my own words were at the time. I guess I deserved that."
+
+I smiled, "Yeah, but you still gave me that vial of eldritch energy. I have to admit, it really changed my circumstances back then. I'm willing to do the same for you."
+
+Tera's eyes narrowed, "What do you mean?"
+
+"I'm willing to offer a new host planet for your village, along with a position in my guild."
+
+Tera's jaw slackened. He raised his hands, his claws shaking, "What? Really?"
+
+"Yup."
+
+"This isn't necessary. I'm satisfied with my arrangement. You don't have to do that."
+
+I raised an eyebrow, "You have no reason to feel fear right now. You helped me once, and I aim to return the favor."
+
+Tera blinked, "That was a vial of eldritch energy. I held it to throw away for a Fringe Walker I worked under."
+
+I sighed, "Here's the thing - you remind me of myself in a lot of ways. I just finished working with Schema, and he gave us nothing for battling his war. We were being taken advantage of, and I wasn't able to move forward because of that. You're like that right now."
+
+I raised a fist, "I don't have to sit by and watch you wallow in that kind of state anymore. I can change circumstances if I so choose, and I want to."
+
+Tera shook his head, "I'm worried you don't understand my position. You're going to put yourself in another war, but this time with the Empire."
+
+"Are you that big a player in their guild?"
+
+"It's as you've said. I accomplish a lot but am left with little. They skim off all that excess, and I doubt they'll want to throw away that advantage."
+
+I narrowed my eyes, "They will."
+
+Tera gave up, letting his hands drop to his sides. Resigned to his fate, he shook his head at me, "You're a raging eldritch in conversation, you know that?"
+
+I peered off, "Thanks for the compliment. Here's a friend request. Send me the details of your current employer and all that. I'll hand it off to Torix to get you and your village squared away."
+
+Tera watched me with a look of wonder on his face, "You're more kind than you let on."
+
+I grimaced as Hybrids carried the corpses of fallen Elysium soldiers, "Eh, we can agree to disagree there."
+
+We gazed off at the view for a while. My reach, despite my lack of sight, was well beyond my expectations. The vibrations in the ground, the temperature shifts from variances in light, even the currents streaming, it fell into my comprehension. I kept my face oriented that way as Tera gave me a bow,
+
+"Thank you, Harbinger. I must be off. My lord is calling. If you don't wish to follow through with all this, I won't hold any animosity against you...Unless you don't stop the repercussions, of course."
+
+I gave him a curt nod, and he left. Leaning on the edge of the temple's opening, I contemplated. If there was one thing Tera was right about, it was my lack of knowledge regarding my allies, my enemies, and my everything, really. It left me with a bad taste in my mouth.
+
+I stared down at my hands, as I often did when I wondered about what I'd done up till now. At times, I felt like a fool way in over his head. I allied with the Empire without fully understanding their methods, though I signed on out of necessity at the time. I could've at least researched them first and tried to understand what they were trying to do.
+
+Yet, I hadn't, and because of that, killing Plazia would support the Empire and their methods. Those weren't procedures I agreed with, though they seemed better than Elysium at least. I also neglected so much of my potential by misusing my mana. I always, at all times, poured it into my cipheric markings. This paid dividends over time, granting me a lot of stats.
+
+But, the price for that proved dear. I stunted my processing speed for tasks all the time up until now. That inability to see past my own nose was precisely why I was so inept. Something that enormous, that groundbreaking, lay at my feet, and I walked all over it instead of picking it up. I was an idiot. An imbecile. An oaf.
+
+I tried punching myself in the face. Forgetting my helmet was on, the echo from steel on steel grated my ears while the force of the tap shook the temple. More frustration mounted. Even that might've interrupted the party below, and my irritation just mounted even more. It was like I was given a gift I couldn't even fully comprehend.
+
+And in my ignorance, I wasted it.
+
+My own powers exceeded my competence to use them. Hell, even my intelligence exceeded my ability to use it, if that even made sense. I mean, I always understood I wasn't the sharpest tool in the shed, but I never took myself for a fool. This and my other mistakes made all of that obvious.
+
+These thoughts about my lack of foresight lingered as I stared at Elysium's retreat. At least with them leaving, I could get this place up and running, along with Earth. I found some peace in that, and my self-loathing waned.
+
+Minutes passed before a pair of footsteps tapped along the cold stone of the Vagni temple. They sounded behind me, but I didn't turn my gaze, inspecting the gravitation and finding the outline of a guild member. More precisely, a soldier, one equipped with an Omega Strain. Turning to them, I got a better look via my other senses.
+
+He wore a ring of my making along with many scars on his face and hands. He was an engineer of some kind, signified by his more conventional clothing, but his eyes hardened from the many battles he'd been through. Even if he stayed in the back to build structures, he still faced the Hybrids time and time again. It gave him a piercing sort of look, one that didn't drift from eye contact.
+
+Taking off his hat and holding it in his hands, he spoke up, "Hello, sir. Are you busy?"
+
+I was always busy, but I had plenty of excess 'mind' left to spare at the moment. I shook my head,
+
+"I've got time to talk. What's on your mind?"
+
+He remained there, nervousness oozing out of the poor guy. Even sitting down, my head rose over his, and I struck an imposing figure, no doubt. That was one of the worst parts of the armor I wore. People never walked up and talked to me, at least not your average person. This was an exception, as this soldier had resolved himself to speak to me.
+
+I wasn't going to ignore how much will it took just to walk up, especially after my temple shaking head tap. I gestured to the windowsill for him to sit, and he followed through with the nonverbal suggestion as if it were a spoken order. He coughed into his hand, "I heard your argument with Spear."
+
+"You did? What did you think about it?"
+
+I kept my tone light as I spoke. Getting an average person's perspective might have given me some insight into the situation. This soldier offered that as he took a breath,
+
+"Well...I wanted to talk to you about what the Sentinel said about you. I know you did your best to talk about our guild and what you've done, but it didn't seem right to me."
+
+Oh, I was well aware of my shortcomings at this point, but I figured why not add some more to the mix. I turned a hand to him,
+
+"How so?"
+
+"It's a lot to talk about, but to make a long story short, you've done a lot more than you said you did."
+
+A sad smile traced my lips, "You might be putting me on a pedestal."
+
+"I'm not. I just know what I've seen and what it's been like since the Schema arrived. I lost a lot of my family during the tutorial, both my grandparents, my wife, and my children. It was a terrible thing. I was lost for a few weeks before I ended up joining the Steel Legion."
+
+And I thought my situation was hard. My brow furrowed,
+
+"I'm sorry to hear that."
+
+He rubbed his nose, "It's still hard to talk about, but it happened. I'm dealing with it, and I dealt with it the best I could by staying busy. The Steel Legion helped a lot with that. We gave everyone a refuge right after the initial chaos of Schema's transition. That all changed when Yawm landed in Springfield."
+
+His eyes stared into a distant memory, "It was...it was awful. Horror. Corpses. Infection. I had to put down a lot of good people during those times, and their twisted faces still haunt me."
+
+"But you had to do it. There was no way to save them. I know because I did the same."
+
+"I ended up thinking the same thing. That's what kept me going after it all went down. Back then, we kept losing people in droves before Torix came along and organized our guild. After that, our losses cut to a half and kept dropping until they barely trickled in."
+
+"Torix is incredible, no doubt."
+
+"But he wasn't the only reason our losses cut down so much. I still remember you standing there, telling all of us that we didn't need to fear the eldritch or Yawm. You told us that they weren't devouring us. We were devouring them. It was a simple idea at the time. We take in experience when they die, and that makes us stronger as if we ate them."
+
+"It was definitely simple."
+
+He pointed at me, "But powerful ideas are in simple packages. I never thought of my situation like that. Having someone larger than life tell me about how the eldritch were afraid of even me? It never crossed my mind, but it changed how I thought about them forever. It took my fear and made it mine."
+
+I flushed, a bit embarrassed by the compliments, "Yeah. That was one of the more visceral speeches I've given."
+
+The soldier swung his fist, "And it lit us up like you wouldn't believe. I ran in there, and we killed a whole slew of solar beetles and these abominable painting monsters. It really drove home that even if we were small, we could do a lot if we set our mind to it...That is until we saw Yawm."
+
+His eyes darkened, "And that's when I felt hopeless again. He nearly blew us up in atomic fire. He was overwhelming, like a wrath-fueled god walking onto our planet to destroy us. We'd never have salvaged anything from that situation if it wasn't for you and your team."
+
+I shook my head, "I'm the reason he arrived, to begin with."
+
+"I've heard it from Torix. He explained it all to us, as did Althea. You did what you had to do to survive. You couldn't have known. Gosh, we've all done the same. And, and since then, look at all the good you've managed to do."
+
+Thinking of all my mistakes, I crossed my arms, "I think there was more that I could've done."
+
+The soldier stood up, his voice rising, "And that's just it. I can't sit by and watch you talk about yourself like that. Since we escaped Yawm, you've gone to other worlds, saved three species from being tools, and you made sure we were kept safe in the meantime."
+
+"Three species?"
+
+"Yeah. Us humans from Yawm, the gialgathens from Elysium, and the Vagni from the eldritch."
+
+I never thought about it that way. The nameless soldier threw up his hand, "I'd never have done what you did, but that's because I wouldn't have bothered. You rose above, put yourself at the frontlines the whole time, and you stood up for what you believed in. You shouldn't feel ashamed about that."
+
+I never thought of myself like this. It was surprising to hear anyone did. The soldier raised both his hands, reaching out, "I'm sure you've made some mistakes, sir, but we all have. You'd done a damn good job of making up for them, whatever they were. Spear spoke like he and Schema never made a mistake in their lives, but I can promise you-"
+
+His voice cut sharp, fizzling out as he squeezed his hands. He shook as he spoke, "I can promise you they have. I lost my family because we weren't worth their time. Now they're asking us to keep giving until we have nothing. If it wasn't for this guild, we wouldn't have anything left to give. We'd all be dead or worse."
+
+His eyes watered before he calmed himself down. He took a deep breath and nodded at me, "I just had to say that. Thank you for all that you've done for us. Thank you for giving me a home."
+
+My eyes burned as he gave me a salute before walking off. I meant to catch his name, but he left before I processed what he said to me. Once away, he left behind a heaviness and lightness all the same. On the one hand, he showed me my actions carried consequences. On the other hand, not all those consequences were bad.
+
+Many of them were good.
+
+I found myself understanding his dilemma as well. He wallowed in guilt from surviving. From the outside looking in, he showed admirable grit and determination. I admired that drive to live, and he shouldn't have felt bad about what happened after Yawm landed. He did what he had to do, and in a way, I think he was trying to tell me the same.
+
+It left me uplifted. Mistakes or not, I'd be able to help out my guild after killing Plazia. I stood tall while walking back into the celebration below. Passing Torix, I walked down the stairwell and found the party dying down. Obolis kept inspecting the goods, being the only one still doing so. The Emperor chatted away with a golem, keeping himself immersed in his fervent study of the items. Florence entertained guests with Hod, the both of them acting as a dynamic duo. That's why the party lingered at all. Other pockets still existed, however.
+
+Amara spoke with the razor queens, discussing the merits of different meats. I paced up to several of the groups, walking back and forth between different cliques. Despite their rocky introduction, I preferred the razor queens to the albony royals. These aristocrats came across as haughty, entitled brats to me, though I decided against telling them that. However, I admit I cut them off on more than one occasion when they said something stupid, shortsighted, or entitled.
+
+Ok, I might've even relished doing so. Sue me.
+
+Either way, it was amazing how little a person could think when they came from wealth and privilege like that. Of course, not all of the albony acted like this. A few demonstrated determination and grit, going back and forth with me in conversation. I starred those people in my contacts, knowing how valuable certain people could be. Ophelia, Florence, and Helios acted as prime examples.
+
+By comparison, the razor queens stuck out like a quirky, offbeat group of eldritch. This gave them an endearing weirdness, one that instilled in me more motivation to take out Plazia-Ruhl. At a bare minimum, I'd be helping out a group of lovable weirdos. They got me interested in their culture and home planet as well. It sounded like a desolate place, but it would be different at the very least.
+
+These finishing talks made for a successful ending to the event. Florence wrapped it up with an announcement along with taking any offers for the merchandise someone might have. Florence sent me the list, which I sent to Torix, and he'd hand me the best offers of the bunch after doing research whenever he found the time.
+
+All in all, I gained more from thinking during the party than the actual party itself. Counting my victories where I could, I helped Florence lead the albony and razor queens towards our warping pad at the center of the city. Quests or not, the AI still gave us this necessity, so I gave him some credit where it was due.
+
+Before everyone departed, I tapped the Emperor on the shoulder before he stepped through his own portal. He turned to me, his gaze curious, "Ah, what do you need?"
+
+"Do you mind having a quick chat?"
+
+"Not at all."
+
+He took his foot from the polished floor of his study before putting his boot back onto the sandy stone of Blegara. With my own guild busy and his having left, we stood in a courtyard where my soldiers darted around for various tasks. In that throng of activity, I raised a hand,
+
+"I just wanted to touch on my conversation earlier."
+
+His eyes widened, "Ah, the one with Phillip. I'll ensure he understands the full repercussions of what occurred. I can assure you of that."
+
+"I can talk with him in private if I need to. I'm more concerned with the skeptilian I spoke with, Tera."
+
+"So you weren't saving his life when you spoke of him being an old friend then? The galaxy is smaller than it appears at times. I didn't hear the rest of your conversation or its initial parts, as your presence dissipated entirely afterward. Magic, I assume."
+
+"You're right. I spoke with him about being contracted under the Empire. I wanted to buy out the contract, along with his village. What's your price?"
+
+A sly grin cropped up on the Emperor's scarred face, "Oh, Tera? He's not for sale."

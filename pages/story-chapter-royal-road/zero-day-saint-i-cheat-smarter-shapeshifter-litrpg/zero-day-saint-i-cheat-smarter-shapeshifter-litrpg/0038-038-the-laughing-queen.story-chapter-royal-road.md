@@ -1,0 +1,201 @@
+---
+id: 26268f8d-b1c1-5e6d-b0cc-bdaa030c980b
+page-type-slug: story-chapter-royal-road
+title: "038 - The Laughing Queen"
+slug: 0038-038-the-laughing-queen
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 38
+ownLength: 2138
+unit: words
+publishedAt: 2026-06-09
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3512920/038-the-laughing-queen"
+royalRoadId: "3512920"
+---
+
+I was just shoveling down delicious Chili Sin Carne, when Lucy manifested across from me, behind Ash and Liz.
+
+"Ahem," they overdramatically cleared their throat. "Day 2: Today I could have used my cheat to make you waste two of your precious ATP to transform into the Might of the Meek version of your kobold shape."
+
+I blinked at them. "And what good would that have done you?"
+
+They put their hands on Ash's shoulders, who froze at their touch, gently kneading. "Oh, I don't know. Maybe I could have satisfied scientific curiosity? At what point does it transition from 'adorable' to 'kind of hot'? 5'6"? What do you think, Ash?"
+
+Ash took a couple of attempts before he could reply. "I do not wish to be part of this discussion."
+
+"Lucy," I said. "You have the humor of a teenager. Also, bullying is beneath you."
+
+"Sue me. I would have thought you'd have a better understanding of how upsetting the sudden transition to an entirely different biological reality can be." They leaned in closer to Ash. "At least there you can agree that it is upsetting, can you?"
+
+"A bit," Ash answered.
+
+"There you go. Day 2, I could have made things even more awkward. Outpacing even your own capability for social self-sabotage. Ta-ta." They vanished again.
+
+I shook my head and continued with my food. Awkward silence hung over the group.
+
+After refreshing the food buff, there was one more step of preparation left.
+
+I was walking away from the fire station, responding to every ["Ping 1."] Jamie wrote in party chat, with a ["Pong 2."] of my own. Counting up. At roughly 17, or 200 yards, my replies no longer reached Jamie. That was my chat range. It would make our plan a bit more risky.
+
+#
+
+The others returned a bit earlier than planned. They'd all risen by around one level each. But by their looks, it had cost them more trouble than us. Roslyn and Jason were covered in blood. Everyone's clothes were covered in soot, and some were torn pretty badly.
+
+Only Luke was relatively untouched. He wouldn't have participated in any of the fighting and just stayed back. Which was still pretty fucked up, but better than to leave him behind on his own.
+
+Judging by their health bars, Annika's mana had eventually run out. I pulled a mana potion out of my inventory and walked up to her. Everyone stopped at my sight.
+
+It was Anthony who understood first. "Eve? Is that you?"
+
+"Yup, I'm expanding my repertoire."
+
+I held out the potion for Annika.
+
+"What's that?"
+
+"Replenishes your mana."
+
+She took it cautiously. "Thanks."
+
+The group slowly gathered at the table, while Stephen served them more of his chili.
+
+"What did you fight?"
+
+They exchanged glances. It was Jason who replied.
+
+"Orc pigs."
+
+That made a faint smile appear on Roslyn's face. "Not wrong. Found a profane police station that had Orc Created in it. We kept luring them out."
+
+"But they had guns," Constance said. "Not modern ones. But, like, comic versions of old ones. Blunderbusses and such."
+
+"But we showed them. Bastards," Jason said.
+
+For a teenager, he had the right attitude.
+
+"Do you all still feel up for the main course of today?"
+
+Anthony looked around. "Give us an hour or two to recover and we'll be ready."
+
+"I've got some more potions to help with mana and health recovery," Jamie said.
+
+Constance was the only one who'd reached level 10 so far besides me and Jamie. Judging by her unfocused eyes, she was weighing options right now.
+
+I knew barely anything about her class. I knew about two spells, the Holy Bolt and Holy Armor, and that it was called a Thaumaturge. And that was it.
+
+She nodded as she made her decision. "I can make my spells affect an area now. So I can give everyone in our party buffs."
+
+Straightforward and incredibly valuable.
+
+"What about your attack spells?" I asked.
+
+A fierce smile crept across her lips. "Those too."
+
+"Awesome."
+
+I got up to give them space to recover.
+
+"Wait," Anthony said. He pulled something out of his inventory, a plastic bag. "Who carried the tank?"
+
+"Me," Roslyn said. A gas bottle manifested out of her inventory as she put it on the ground.
+
+Anthony tossed me the bag. It contained balloons. "I don't know what you need them for, but we found it: balloons and a helium tank."
+
+I picked the tank up and put it into my inventory. "Thanks, guys."
+
+I didn't want to tell them that it was for flight practice, and thus, that I didn't need it anymore.
+
+But then it occurred to me how this would solve the communication issue. At least somewhat. I went off to prepare the signals.
+
+#
+
+Eventually all preparations were done and we set out to attack the Gnoll Fortress. We had contemplated going at night, but with the demon bats in the skies and gargoyles actively hunting for us, we just didn't know yet how dangerous the streets of New York would be at night.
+
+The fortress's west side was nestled against what looked like the East River. The gnolls had focused their reinforcements on the southern and eastern parts of the former junkyard. The north was mostly untouched junk and territory of the hyenas.
+
+This was where I would attempt to sneak in. It was unlikely the hyenas would let my hyena shape pass unbothered, but it was worth a try. And if they spotted me, I'd run for the eastern gate, and give the signal to attack. That would serve as the perfect distraction to draw the hyenas away from the other party's attack vector, and the ruckus around the gate would allow my party to approach and breach there.
+
+At least that was the plan. Frank would certainly have had opinions and improvements.
+
+We'd approached along the river bank and now I was waiting with Roslyn and her party for Jason to scale the wall, a structure built out of haphazardly connected metal plates, and to lower a rope. It was difficult to even see what he was doing. With his stealth abilities and the Elven Cloak he just slipped from my vision.
+
+"He gave the signal," Roslyn whispered. He used party chat, which I wasn't part of.
+
+I nodded. "Good luck to you. And happy hunting."
+
+I jogged off. As promised, a rope dangled from the wall. I didn't fully trust Jason, and I had no idea what his devil guide was telling him, but I doubted that if he was about to do something dumb, he'd do it here. He wanted those levels nearly more than I did.
+
+I tested the rope and it snapped taut under my weight. Under the summer's sun, the metal plates were scalding hot against my bare feet. I kept contact to a minimum and dropped down on the other side, where I landed right next to Jason.
+
+The air smelled of rot, blood, and rust.
+
+We were mostly obscured by multi-story high piles of junk.
+
+"Why did you trade your eye?" Jason whispered.
+
+"What? Why is that important now?" I asked.
+
+"It was then you became a corruption vector. It was that decision that killed my father."
+
+Oh, god. I was not ready for this conversation. That kid had incredible timing.
+
+"I traded it because our safehouse had been turned into a death trap and we needed to find a new one, fast. Before the ice storm hit. We can talk about this more when this is over."
+
+I swapped to the Spotted Hyena shape. The scents snapped more into focus. I could hear distant laughter of other hyenas and the similar-sounding language of the gnolls. My minimap populated with a whole lot of red dots. There was no way they hadn't heard our whispers.
+
+And then there was the pop-up.
+
+[Become the new Matriarch (Personal Localized Task)
+
+Objective: Prove your superiority over the current Hyena Matriarch.
+
+Hint: Killing alone is not proof enough.
+
+Reward: ???]
+
+I should have seen that coming. I had rejected the edgelord path, and the Blessing went right back to turning me into my best girlboss self. Ash had given me the CliffsNotes on hyenas. Their alpha wasn't just the strongest lady of the pack. She had to be willing to prove her dominance, to intimidate any potential challenger to her throne.
+
+In an instant all dots around me on the minimap turned white. All but one, which was in the midst of a whole gathering of them. Laughing screams echoed over the junkyard.
+
+I slotted the hyena shape into the slot on my collar that had been occupied by the pheasant. That dropped my ATP cap down to 5, but raised my stats by another +2.
+
+On my way to the Matriarch an escort formed. Most kept a respectful distance, and I made sure to growl and snap at any who dared to come too close.
+
+In a 'clearing' among the junk I found her court. The Matriarch lounged on the roof of a wrecked muscle car. Examination revealed that she was a level 15 Dire Hyena. Half as tall again as the biggest female I'd spotted so far.
+
+I felt that flickering instinct underneath—that wanted me to submit to her. I'd need the hyena's instinct for this, simply killing her as Eve in a hyena suit wouldn't do. But I needed it angry.
+
+I barked a challenging laugh at the Matriarch, who replied with her own mockery in turn. But she sat up from her relaxed position.
+
+Not willing to outright murder one of her subjects to get her attention, I went for the next best thing to prove that I possessed the strength to challenge her. I grabbed a loose tire from a nearby pile, and effortlessly ripped through its rubber. I chomped down once more, on the exposed rim, and the metal twisted under my jaw's incredible strength.
+
+My demonstration done, I shook my head like the rim was a squeaky toy, and tossed it into the rubble behind her, causing a small avalanche of junk to descend on her.
+
+That's when she made her first mistake. She hadn't seen that coming and jumped down from her throne in a hurry, showing the smallest hint of fear. My hyena brain had liked that display, and I allowed those instincts to guide me a bit more, gave up a bit more of my human thinking.
+
+I let out another mocking laughter at the Matriarch, now at the same height as me, and activated Focused Fury, diminishing her size advantage.
+
+When she charged me in a rage, I dodged past her attack and nipped her in the hip as she bouldered past. I had an Agility of 18 and that training with Liz was already paying off dividends.
+
+In this fight, the Matriarch was the clumsy Cape Buffalo, and I was the nimble one, who had to be a bully to wear her down. And just like the Unicorn in that fight, I couldn't afford to get hit even once. What she'd do to my body would make what I did to that tire look harmless.
+
+And as important as dodging was to know when I shouldn't.
+
+When she charged me again, but lowered her head to the side, I just braced myself and stood my ground. A regular hyena would have been tossed across the arena. Thanks to Dense Musculature, I didn't even slide one yard.
+
+I laughed, nipped at her again, and bounded away before she could retaliate with a bite.
+
+The observing hyenas, who'd been silent at the start, were howling, and laughing, and barking now.
+
+Time to end this.
+
+The next time I dodged past her attack I didn't buy myself distance, but I went after her. With a tackle of my own, I launched her against the car that had been her throne and bounded after her. Before she could shake off her daze, I put my jaw around her throat.
+
+She growled once before I tightened my grip, my teeth drawing blood. Her growl turned into a whine, and my Task was marked as completed. I let go of her and her dot turned into a white one with blue stripes. The same happened all over my minimap, as the pack's awareness of their new queen magically spread.
+
+Over the noise of my nearby followers celebrating my ascension, another noise drifted over. Growling and screams of gnoll and hyena alike. The gnolls didn't consider my followers as their allies anymore.
+
+From my inventory, I released a blue balloon. The signal for 'Proceed with Plan'.
+
+As I ran toward the eastern gate, I spammed local chat with the same message, over and over again.
+
+["Do not attack the hyenas!"]

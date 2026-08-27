@@ -1,0 +1,147 @@
+---
+id: 23af3e23-d56d-5950-9ccc-609d633f6ece
+page-type-slug: story-chapter-royal-road
+title: "Chapter 42: Ctrl+Alt+Delete"
+slug: 0043-chapter-42-ctrlaltdelete
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 43
+ownLength: 1719
+unit: words
+publishedAt: 2025-12-05
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2822141/chapter-42-ctrlaltdelete"
+royalRoadId: "2822141"
+---
+
+The invasion did not begin with an army. There were no legions of demons, no sky-darkening swarms of dragons. There was just a man.
+
+He stood at the northern border of the cultivator lands, a place where the lush, green forests usually met the barren ice fields of the north. Now, there was no forest. There was no ice. There was simply a line where existence stopped.
+
+Null looked remarkably, terrifyingly ordinary. He wore a set of clothes that clashed violently with the world around him: a grey hoodie, faded jeans, and canvas sneakers. He looked like a bored office worker on a casual Friday who had taken a wrong turn into a high-fantasy epic. He had headphones around his neck and a smartphone in one hand, which he tapped with a lazy, rhythmic cadence.
+
+Before him stood the combined might of two nations.
+
+The Council of Elders and the Council of Immortals had mobilized faster than anyone thought possible. Thirty-one Archmages hovered in the sky, their staffs glowing with the power of a thousand storms. Thirty-three Sky Immortals stood on the ground, their swords drawn, their Qi a unified ocean of pressure that flattened the grass for miles. Behind them were legions of battle-hardened cultivators and mages, a force capable of conquering continents.
+
+Null looked up from his phone. He seemed mildly annoyed, like someone who had just been interrupted while trying to order lunch.
+
+"You're blocking the path," he said. His voice wasn't loud, but it carried across the battlefield with perfect clarity, cutting through the wind and the chanting of spells.
+
+Elder Corvus, floating at the head of the mage formation, raised his staff. "By the authority of the Council, you are ordered to halt! Identify yourself, intruder!"
+
+Null sighed. He tapped his phone screen once. Then he pointed a finger at the front line of the Immortal Guard—five hundred elite cultivators in jade armor.
+
+"Delete."
+
+He didn't shout. It wasn't a spell incantation. It was a command.
+
+There was no explosion. No flash of light. No scream of dying men.
+
+The five hundred soldiers simply… weren't there anymore. The space they had occupied was empty. The grass beneath their feet was untouched. The air where they had stood didn't even rush in to fill a vacuum, because the vacuum itself hadn't been created. They had been removed from the equation of reality so cleanly that the universe hadn't even noticed they were gone.
+
+A silence, heavier and more terrible than any I had ever experienced, fell over the battlefield.
+
+"What… what was that?" a young mage whispered, his voice trembling.
+
+Null pointed again. This time, at a mountain peak to the east, a massive, snow-capped spire that had stood for eons.
+
+"Delete."
+
+The mountain vanished. It was simply erased from the skyline, leaving a perfectly flat, smooth surface of grey bedrock where its base had been. The sky where the peak had been was suddenly empty, clouds drifting into the space as if the mountain had never existed.
+
+Panic, cold and absolute, broke the ranks.
+
+"Attack!" Elder Corvus roared, his voice cracking with fear. "All forces! Burn him from existence!"
+
+The sky lit up. A meteor swarm, summoned by a dozen Archmages, rained fire from the heavens. A tidal wave of sword Qi, sharp enough to cut the world in half, swept forward from the Immortals. It was an apocalypse of magic, enough power to unmake a titan.
+
+Null didn't dodge. He didn't raise a shield. He just looked bored. He swiped his hand through the air, a gesture like dismissing a notification on a screen.
+
+"Select All. Delete."
+
+The meteors vanished mid-flight. The sword Qi dissolved into nothingness. The magic, the intent, the very energy of the attack was wiped from the server.
+
+Then, he began to walk.
+
+Every step was a deletion. He moved without ever walking on the earth, creating a void-born path with every step.
+
+The Sky Immortal with the long eyebrows, Princess Liling's grandfather, charged. He moved with the speed of a lightning bolt, his sword glowing with the power of a thousand years of cultivation. He was a Rank 9 being, a demigod. He closed the distance in a heartbeat, his blade aiming for Null's neck.
+
+Null didn't even look at him. He just tapped his finger against the air.
+
+"Delete Legs."
+
+The Sky Immortal fell. He didn't scream in pain; he screamed in confusion. He hit the ground, his torso thumping against the dirt. His legs were gone. There was no blood, no wound. His body simply ended at the waist, smooth and sealed as a mannequin.
+
+"Grandfather!" Princess Liling’s scream from the command tent was a raw, tearing sound in my mind.
+
+Elder Corvus tried to cast a teleportation spell to save him. Null glanced up.
+
+"Delete Mana Core."
+
+Elder Corvus gasped, clutching his chest. He didn't fall, but the light in his eyes died. The crackling storm of power around him vanished. He was no longer an Archmage. He was just an old man in a robe, hovering for a second on momentum before plummeting from the sky.
+
+The armies broke. Rather than retreating, they broke into a rout. Soldiers threw down their weapons and fled, screaming. The strongest beings in the world, the titans who had ruled for millennia, had been dismantled in seconds by a man who looked like he was waiting for a bus.
+
+Null kept walking. He stepped over the legless form of the Sky Immortal without a glance. He checked his phone again.
+
+"Still three days to the capital," he muttered, his voice amplified by the terrifying silence. "Too slow. Delete Distance."
+
+The horizon seemed to lurch. The world warped. He took a step, and he was a mile closer. He took another, and he was ten miles closer.
+
+He was coming to the Jade Palace. And there was nothing left to stop him.
+
+Liz… my voice was a whisper in the terrified silence of our bond. The Moderator is gone. The armies are gone. Who is going to stop us from setting the dial to 70%?
+
+Liz, trembling in the vault, let out a shaky, hysterical laugh. The Suggestion Box?
+
+It was a joke. A moment of levity before the fall. But we both knew the truth. What once counted as a required procedure now felt like an indulgence we couldn’t spare.
+
+. . .
+
+The survivors poured back into the Jade Palace, a tide of broken bodies and shattered spirits. The grand courtyard, once the site of our triumphant return, was now a field hospital and a command center for a war that was already lost.
+
+Princess Liling was on her knees beside her grandfather. He was alive, his powerful cultivation sustaining him even without his legs, but his eyes were hollow, staring at nothing. Elder Corvus sat nearby, staring at his hands, trying to summon a spark of magic that simply wasn't there anymore. The deletion of his Mana Core had left him a shell.
+
+The sky to the north was gone. A wall of absolute nothingness was eating the horizon, moving toward us with terrifying speed. He no longer moved step by step; Null was modifying his own coordinates, appearing in ten-mile increments.
+
+He would be here in seconds.
+
+Liz and I retreated to the pavilion. Dave was standing on the balcony, watching the approaching void. But he wasn't the Dave we knew. He was already at 75%.
+
+The change was not like the others. It wasn't a straightening of posture or a sharpening of gaze. It was a violent, biological seizure that had reshaped him into something unrecognizable. His bones had cracked and popped, rearranging themselves under the skin. His robes had torn as his muscles swelled, then condensed, then swelled again, shifting density and composition in real-time. His skin rippled, hardening into plates of grey chitin, then softening into translucent, bioluminescent scales.
+
+He had grown. He didn't just get taller; he had expanded. He stood seven feet tall, a titan of shifting biology. His eyes were gone, replaced by a band of multifaceted, crystalline sensors that wrapped around his skull. His hands were no longer hands, but shifting tools of bone and sinew—claws, blades, hammers—cycling through forms faster than the eye could follow.
+
+He was no longer a user. He was a biological nightmare engine. He was a glitch made of flesh, waiting for the command to execute.
+
+Null appeared at the gates of the Jade Palace. He stepped out of a hole in space, looking bored, checking his phone. He looked up, expecting to see another army to delete.
+
+Instead, he saw Him.
+
+Dave stepped off the balcony. When his foot hit the ground of the courtyard below, the stone cracked. He roared. It wasn't a sound; it was a biological weapon, a frequency that shattered the remaining windows of the palace and sent the cultivators to their knees.
+
+Null blinked. For the first time since he arrived, he looked surprised. He pocketed his phone.
+
+"Delete," he commanded, pointing at Dave.
+
+A sphere of nothingness appeared in Dave’s chest, erasing heart, lungs, and spine.
+
+It didn't matter.
+
+Before the hole could even fully form, Dave’s body identified the error and patched it. Ribs of black diamond erupted from the wound, knitting it closed. A secondary heart, grown in his thigh, took over, pumping a slurry of high-efficiency alchemical blood.
+
+Dave lunged. He crossed the courtyard in a blur of shifting motion. His arm elongated, transforming into a whip of bone and acid.
+
+Null sidestepped, deleting the air to create a vacuum shield. The whip snapped against nothingness.
+
+"Select Area: Ground. Delete."
+
+The floor of the courtyard vanished. A pit to the center of the earth opened up.
+
+Dave didn't fall. Wings—leathery, feathered, insectoid—erupted from his back. He hovered, and then dove.
+
+It was Deletion vs. Creation. Static vs. Chaos. The unstoppable force had finally met the object that refused to stop growing.
+
+Liz watched from the balcony, her tiny body pressed against the railing. She was terrified. The Dave she knew, the gentle, bumbling boy who liked rocks and apologized to furniture, was gone. In his place was a monster.
+
+And for the first time, she wasn't sure if she wanted him to win. Because if that thing survived… what would happen to them?

@@ -1,0 +1,165 @@
+---
+id: e016b79f-54af-5c41-b371-23b47e2860b7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 612: Dorian"
+slug: 0033-chapter-612-dorian
+partOf: system-change-system-universe
+position: 33
+ownLength: 2340
+unit: words
+ownProgress: 2340
+publishedAt: 2025-12-17
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2854641/chapter-612-dorian"
+royalRoadId: "2854641"
+markedReadAt: "2026-06-29T19:57:47.866Z"
+---
+
+Chapter 612: Dorian
+
+“What do you mean by troublesome?” Derek asked. “You told me that the void affinity was rare, but is it really that dangerous for me?”
+
+“As an affinity? No, it’s not dangerous… unless you use that skill you have to call down an Ascendant Void Beast. If you do that… then you are dead, and everything and everyone around you is dead,” Dave replied. “Well, that’s not exactly true. Ascendant Void Beasts are very smart—almost the same as you and me. Though their thoughts and actions are still quite primal. So, it depends on where you are when you call one down. If you are on a planet with the right people, then they can take care of it. But if you are alone with your friends… you’re either dead, or you’re ripping that hole in the void, jumping in, and running like hell.”
+
+“So… it’s troublesome because of my Void Call skill?” Derek asked. “If that’s the case, then I just won’t use it until I’m prepared or as a last resort. I’ve always had it in the back of my mind that calling a Void Beast could be a nuclear option. And this… Ascendant Void Beast sounds like just that.”
+
+“It actually could be,” Dave said. “That would certainly be a brutal trump card in certain situations, but would you really be able to do it? So far, you have been able to handle the beasts that you’ve called down, and you haven’t caused any casualties from it. But if you bring one of those down… that could mean the loss of countless lives if you or someone close by can’t defeat it. Knowing that, would you still do it?”
+
+Derek rubbed his chin in thought. Would he be able to sacrifice random people he didn’t know just to save himself? Maybe if there aren’t any children? he thought, then shook his head. “No, I don’t think I would be able to do that unless it is more than just my own life at stake. If others are there—like Brandi, Thomas, Malorie, and so on—it may be different. If I’m alone, I believe I can escape from most danger, so I wouldn’t even bother then. But if it is the only chance that my friends have of making it out alive… yeah, I just might. But that’s purely hypothetical.”
+
+“It is, and hopefully you never have to make such a decision,” Dave said. “However, Void Beasts aren’t actually what I’m talking about when I say troublesome or dangerous.”
+
+“Then what are you talking about?”
+
+Dave looked up and rubbed his hands together. He frowned as he was silent for some time. Finally, he sighed.
+
+“What?” Derek asked.
+
+“I’m just trying to think about how much to tell you,” Dave said.
+
+“Is the Origin System causing problems? Is it trying to interfere with what you want to say?”
+
+“No,” Dave said with a shake of his head. “It isn’t.”
+
+“Then what’s the problem?”
+
+“I am still a firm believer that the more you rely only on yourself, the better your growth,” Dave said. “At least, that’s how I gained all of my power. So far, everything that I’ve told you about the Origin System has been basic things that any kid on the street could tell you. Affinity? Children begin learning about it as soon as they can talk and understand.”
+
+“Why don’t they learn all about that here? Or in the Universal System?” Derek asked.
+
+“Because the Origin System is the only system that can fully quantify your affinity,” Dave replied. “And even then, there have been instances where it was not able to. Though, I have not heard of anything like that happening in a very, very long time.” He took a sip of his coffee, then placed the mug back down on the table. “Since there is no way to see it or know, the Origin System doesn’t allow those of us who come to a lower-tier system—which includes you now that you are part of the Origin System—to speak of specifics with others.”
+
+“I see,” Derek said. “So are you going to tell me what you’re thinking of?”
+
+“I am,” Dave said with a sigh. “But only because the information will save your life. Not may, but will.”
+
+“Really? It’s that bad?”
+
+“Yes,” Dave replied. “In the Origin System, there is a person. His name is Dorian Bellamy. But he does not go by that name, and most who call him by that name lose their lives.”
+
+“Sounds like a dick,” Derek replied. “So, what’s up with this Dorian guy? What name does he go by?”
+
+“Well, his title is Void Emperor,” Dave answered.
+
+“Oh…” Derek said. He could already see where this was going, but he decided to stay silent and let Dave continue.
+
+“Oh, indeed,” Dave said. “He is a cantankerous old man, but he is also well protected. As you probably know, Void Beast materials are essential throughout the Origin System because of the possible permanent stat boosts they can provide. On top of that, the void affinity is extremely rare. Very few of those who gain the affinity also gain a skill that allows them to find Void Beasts. Your Void Call skill is the most sought-after skill of that type because it’s a guaranteed success almost every time.”
+
+“So… I’ll be a walking bag of money?” Derek asked. He didn’t like where this was headed. “I’m going to have to worry about getting captured and made to summon Void Beasts, aren’t I?”
+
+“No… not at all,” Dave said with a smirk. “You are a void affinity user with some powerful escaping skills. You cannot be held captive. Sure, someone could knock you unconscious or threaten your loved ones until you comply, but they could never hold you. And since the Origin System does not allow slave contracts or oaths anymore, you don’t have to worry about that either.”
+
+“That’s… good to know,” Derek replied. “I definitely don’t like the idea of someone going after my friends, though.”
+
+“Of course,” Dave said with a nod.
+
+“So then, what will this Dorian do?”
+
+“He will try to recruit you,” Dave said. “He completely controls the market for Void Beasts, and someone like you would most certainly help his bottom line if you were to join him.”
+
+“That doesn’t sound so bad,” Derek replied.
+
+“If you refuse, he will kill you.”
+
+“Okay, that sounds bad… but, hypothetically… if I don’t refuse?”
+
+“You and your friends will be well looked after and will want for almost nothing,” Dave said.
+
+“I certainly don’t like the idea of following someone like that…” Derek said. “But to save my friends…” he started but was cut off by Dave.
+
+“And when you grow too strong, he will kill you before you are able to challenge him,” Dave said. “And he will most likely kill your friends so they cannot take revenge.”
+
+“Oh… Yeah, that’s bad,” Derek replied. “There is no way that I’ll stay stagnant while I can grow. Time off here and there? Sure. But just… stopping when there is more for me to do? I don’t think I could do that.”
+
+“And therein lies your problem,” Dave said.
+
+“Can’t I just… stay away from him?”
+
+“No,” Dave replied simply. “You can’t.”
+
+“And why not?”
+
+“Because he has void trackers spread around the Origin System. If a void ability of a certain strength or higher is used, they will certainly detect it. Once they detect it, they will imprint it, and your particular energy will become easier for them to detect. It could take years or even decades for them to be able to fully track you, but they will eventually find you.”
+
+“So… I’m essentially going to be hamstrung once I ascend?” Derek frowned.
+
+“Not necessarily,” Dave replied. “I’ve been doing research and thinking about it, and I have some ideas to help.”
+
+“Please do share.” Derek snorted.
+
+“Don’t release your aura,” Dave said. “The biggest spike in one’s energy comes from auras and domains. Yes, releasing your aura helps a bit with power and control—along with intimidation—but you do not need to release it to fight.”
+
+“That’s going to take some practice,” Derek said. “I’ve gotten so used to releasing at least a portion of it when I’m channeling the void that it’s natural now. But I don’t think it will be a problem. I will just have to think before I act. What else?”
+
+“I’m sure this goes without saying for countless reasons, but don’t use your Void Call skill,” Dave said. “It is quite literally a beacon. Dorian will come running just as quickly as the Void Beasts.”
+
+“Yeah…” Derek muttered. “I didn’t plan on ever doing that, anyway.”
+
+“I am honestly unsure if you opening a portal with your travel skill will be detectable. I’m ninety-nine percent certain that it won’t, but I have never seen a traveling skill like it, so I cannot be sure. If I were to use it, I would do so sparingly.”
+
+“And Void Steps, Void Sense, Void Creation, and Absolute Nullify?” Derek asked. He did just get a new skill, but with a name like Void Eclipse, he was pretty certain that it would be a last resort type of skill.
+
+“Void Sense will actually help you. It is a purely internal skill, just like Meditation. So, using it to find an access point and tearing open a space to the first layer of the void won’t be a problem. I do not even know which layer of the void your travel skill falls under, though. The system can’t even keep track of you when you’re in there.”
+
+“As for the other three, Void Steps and your nullify skill are fine. I’ve never heard of Void Creation, but I have seen a bit of what it can do… with your companion’s pots and lids and such. It seems like it could become very strong. However, I don’t feel much of anything when you use it—at least no more than a normal skill—and it seems to be much more of a utility skill. I can almost guarantee that it is safe.”
+
+“That’s good at least,” Derek said. Maybe I was too quick to count Void Eclipse out, he thought. So, he decided to ask, “I was also rewarded with a new skill from the Origin System. It is called Void Eclipse. Have you heard of it? Will it be a beacon?”
+
+“Void Eclipse?” Dave’s eyes widened in shock. “The Origin System rewarded you with a domain skill?”
+
+“So you do know it?”
+
+“I don’t!” Dave said. “But when you’ve been alive as long as I have, you can pretty much guess what a skill can do by the name. Domain skills are rare… like, very rare.”
+
+“Really? I feel like when I fully release my aura it is very close to creating a domain,” Derek replied.
+
+“No, no, no…” Dave waved Derek’s words away. “Everyone can obtain a domain. It is just an advanced form of releasing aura when you gain a high enough affinity.”
+
+“Then how is it rare?”
+
+“Because that type of domain isn’t a skill,” Dave answered.
+
+“Huh?”
+
+“You have essentially received a skill that you can stack with your natural domain,” Dave said. “It would be like a double debuff.” Seeing Derek waiting, he continued. “Think of it this way. The person with a domain has a better chance of winning a fight. That is because when two people close in power go head to head, their domains will cancel each other out. If the difference in strength is great, then one domain will dominate the other and either make it cover a much smaller area or just cancel it out completely. Thus, being the only one with a domain up means that your stats and affinity are much higher than your opponent’s.”
+
+“If you have a natural domain and a domain skill, then if you are equal in strength to your foe, your domains will cancel each other out, but you can still use your skill. That way, in an even fight, you still have the advantage. It is a very good skill to have.”
+
+“Oh,” Derek muttered. “That’s good to know.” He nodded. “So, about the skill?”
+
+“I don’t know,” Dave said with a shrug. “Test it out once you leave here, and I’ll see if I can have a message delivered. Being a domain skill and similar to aura… I would lean on the side of caution, though.”
+
+“That’s what I was thinking,” Derek said. “So basically, I can fight like I usually do since I don’t have many attacking void skills anyway, and I haven’t used the Void Eclipse before. I just need to control my aura, stay away from Void Call, and… not go around telling people I use the void.”
+
+“Pretty much,” Dave said. “Which leaves us with the final couple of ways to lessen the chances you are discovered.”
+
+“And what ways are those?”
+
+“Wear a cap or hood, or dye your hair back black for a bit,” Dave said. “Maybe get some drops for your eyes to turn them colors. If you choose not to do those things and someone you must answer asks… say that the affinity that caused the change is one of the other purple affinities like aether, gravity, corruption, or entropy. The shades aren’t the same, but I doubt anyone looks too deeply. That…” he rubbed his chin in thought and smiled. “Or… you could say that you are the offspring of a Velari and a human.”
+
+“Velari?”
+
+“One of the few races with features so distinct that one’s affinity doesn’t override,” Dave explained. “They are known for their deep, majestic purple eyes. Being a half-Velari, you would have some traits and not others. That could easily be accepted.”
+
+“Okay… remember Velari… got it,” Derek said. “Anything else?”
+
+“Yes, if you do get into a fight with someone,” Dave said as he leaned in. “Get rid of them.”

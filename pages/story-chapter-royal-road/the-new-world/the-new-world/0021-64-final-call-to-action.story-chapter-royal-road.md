@@ -1,0 +1,221 @@
+---
+id: 81dd582c-c6ae-565d-855a-c3c8d40ee7b7
+page-type-slug: story-chapter-royal-road
+title: "64 Final Call to Action"
+slug: 0021-64-final-call-to-action
+partOf: the-new-world
+position: 21
+ownLength: 3283
+unit: words
+ownProgress: 3283
+publishedAt: 2017-10-23
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/169881/64-final-call-to-action"
+royalRoadId: "169881"
+markedReadAt: "2026-06-29T21:21:27.156Z"
+---
+
+At least by post-apocalyptic standards. It looked like she’d borrowed a dress from Kessiah or Torix, considering the quality. It was stylish, fitted dress made of black fabric. A pretty normal garb though a slight split up the left leg and a split down the chest gave it an edgy vibe. It showed a little more skin than normal. She still had on a pair of leather shoes instead of heels. It made it obvious how uncomfortable she was in the dress.
+
+I grinned, “You’re beautiful.”
+
+Althea blushed, glancing down at her feet. I continued, my grin turning mischievous,
+
+“But, yenno, maybe a tad over dressed for the occasion. It’s just lunch after all.”
+
+She glanced up, a subtle smile tracing her lips. She shoved me, more playful than forceful, “I don’t get an opportunity to dress up often. Cut me some slack. Besides, what’s with the haircut? I’m not the only one to dress up.”
+
+I hadn’t even thought about it, but it was a good point. I’d prepped myself a bit for the lunch as well. We’d crossed into date category by now. I shrugged,
+
+“Well fuck…you got me there.” I turned and picked up the supplies. Althea’s smile turned into a deep frown at the sight of the deer skin and bent out of shape shopping cart.
+
+She crossed her arms, “What is this?”
+
+“Lunch, it’s just unmade.”
+
+She leaned towards the deer skin and sniffed. Leaning back, she put out a palm to it,
+
+“Yeah, that smells terrible.”
+
+I laughed, “Of course it does. It hasn’t been cooked yet.”
+
+I walked into the tent, making telekinetic pads for my feet. The oversized tents had been something you’d expect a family would own, room for several people. Althea moved several small utilities into the open space since the last time I’d been here. A small, electric stove, a giant block of granite she’d polished, even a sink with tiny plastic wrap beside it filled with water. It looked like a tiny bath she liked soaking in I guessed.
+
+I walked over and set my supplies onto the block of granite. The rock already busted through the tent, reminding me why I kept my feet from doing so as well. It did the job as a cutting board and prepping area for the meat, however.
+
+Before I got started, I glanced around the room, exploring for a few seconds. I’d never glanced that close to the inside of the place. It felt rude, since she never really invited me in. Now I had the perfect excuse to see inside.
+
+There was a place she slept and lounged in, a bunkbed carried into here. The blue sheets were unmade, more like she didn’t know how to make a bed rather than just being messy. I didn’t comment, knowing it was rude. The other painful part of the place was the books and magazines scattered about. They were unfolded, along with quite a collection of clothing.
+
+That was the problem with her whole place. She just didn’t know how the hell to organize anything. It made a piece of my brain writhe in discomfort. I wasn’t someone with ocd, but I still hated inefficiency. This place was marred with it. It wasn’t filthy though. She didn’t leave food out or dirty dishes everywhere. From what I knew about cleanliness, that was the deciding difference between being filthy and just being cluttered.
+
+Still, prepping the meal would take some time, so I got started. Under a nearby lamp’s light, I set the vegetables, herbs, and seasonings to the side of the granite block. I set the meat of the deer out onto the boulder. It looked like was very recently polished, making it squeaky clean. It was perfect for a cutting board.
+
+After that, I grabbed a few packs of the lemon powder and olive oil. I set them beside the meat. After growing out a knife from a palm, I broke the object. After washing it and my hands in some soap and water Althea had nearby, I grabbed slabs of meat. With my right hand holding them down, I started slicing the meat down the grain of it.
+
+It’s a pretty simple way of making tough cuts more tender. You slice the meat in the same order as the fibers of the meat. This breaks of some of the tougher fibers, making the meat take better to margination. With how precise and quickly I could move, this process took about two minutes. A few slabs of meat later, and the cuts were ready.
+
+“Althea, do you have any paper towels or something like that?”
+
+“Uh, oh…Yeah, of course.”
+
+Althea was waiting for me, looking closely from her bed. After looking in a burlap bag beside her bed, she handed a bundle of them to me. This let me grab the olive oil with my hand without getting blood on it. Taking another bundle of paper towels, I grabbed a glass bowl behind the block of granite. Althea had gathered a few cooking dishes and stuff for me, making this process much simpler.
+
+I took the glass and poured the oil into it. After that, I mixed in the packets of lemon substitute. From my experience with cooking, this worked better than real lemon juice. The packets mixed into the oil better, because lemon juice had water in it. After that, I washed my hands in the sink.
+
+Reaching back to the granite, I grabbed a few pinches of lemongrass and mint to throw into the marinade. I took a bundle of cilantro, and reached out a hand towards Althea.
+
+She stared at me, confused. I shook the bundle, and she reached out a hand before I pinching some off.
+
+“Taste this and tell me what it tastes like.”
+
+She tried some, nodding as she chewed, “It’s good. I can’t really describe it.”
+
+I frowned, “Does it taste like soap?”
+
+“What, no. Why are you asking?”
+
+I turned back to the marinade, pouring some cilantro in, “Some people say cilantro tastes like soap. I didn’t want to ruin the meat for you, so I checked before adding it.”
+
+She blinked, “Oh.”
+
+I mixed in some pepper, salt, and dill from there. After stirring it with my hands, I dipped the meat into the solution. Making sure to work the marinade into the tiny cuts I made, I squeezed the meat until it was saturated in the solution.
+
+After that, I walked over towards the sink and washed my hands with soap. I made sure to wash the bottle of soap as well, because leaving bloody gunk on the bottle was disgusting. Cross contamination was a serious problem in restaurants, and I wasn’t about to let it happen under my watch.
+
+After that, I walked over and cleaned the granite with a few antibacterial wipes I had on hand. I let the antibacterial solution soak in, cleaning my new knife in the soap as well. After that, I cleaned the boulder with water twice, making sure to get the antibacterial stuff off it. Otherwise the salad would taste like complete and utter shit.
+
+After preheating the oven, I set the vegetables onto the granite, lining up the tomatoes, cucumbers, and herbs. After grabbing a wooden bowl from behind the granite boulder, I cubed the tomatoes and sliced the cucumbers into thin slices. Tossing them into the bowl, I grabbed oregano, thyme, and a bit of basil and tossed them onto the salad.
+
+Skill unlocked! Cooking(lvl 1) - Some craft symphonies with sound. For you, the ingredients are your notes and the meal is your chorus.
+
+After that, I poured a bit of olive oil and lemon juice onto the vegetables. After adding a generous portion of salt, I stirred with a wooden spoon grabbed from behind the granite boulder. Althea had piled up as many kitchen wares as she could. It looked like she just grabbed a whole aisle of them and piled them behind the boulder.
+
+I chuckled a bit at them before Althea frowned at me,
+
+“What’s so funny?”
+
+“Nothing. You just took a whole store’s worth of kitchen stuff. It’s kind of funny is all.”
+
+She blushed a bit before watching me stir the salad. After I set that aside, I handed it to her with a fork,
+
+“Taste it and tell me what you think. I can make something else if you don’t like it.”
+
+She grabbed the dish from me, tasting it with an almost ravenous look on her face. After the first bite, she recoiled back for a second before taking another. A few bites later and she set the dish onto her lap. She threw her hands up,
+
+“This tastes so good. How is this so good? I tried eating this green stuff before and it tastes like dirt.”
+
+I busted out laughing, “That’s lettuce, not cucumbers and tomatoes. If you don’t rinse lettuce off, it keeps some of the grit on it. That makes it taste like dirt.”
+
+She blinked, “Why didn’t you ever tell me you were a chef?”
+
+With an irrepressible grin on my face, I went back to work on the granite table top,
+
+“I wouldn’t say I’m a chef. I just know my way around a kitchen. No one cooked for me when I was younger, so I learned to cook for myself. It was fun, so I just kind of kept at it until I had a couple of dishes I liked. This is one of them.”
+
+I pointed at the venison, “Most meat is expensive for example, so I have to get the tougher, leaner kinds of pork.” I gestured a hand out to my side, still holding the knife, “The thing is, they’re barely edible if you don’t learn a few tricks for eating them. After that, I just wanted something lighter like a salad for the meal. That-“
+
+I picked up a pack of rice, “And something like this to fill me up.”
+
+As I poured some water into a pot, Althea frowned, “Do you need any help?”
+
+I shook my head, staring at the pot as I put some cumin and powdered garlic into the pot, “I said I’d make you lunch, not have you help. Sit down, relax. I’m here to feed you, not to make you feel bad.”
+
+The sounds of her adjusting herself and grazing on the salad ebbed through the room for another minute. Once I finished adding some salt and pepper to the pot, I poured a dash of the canola oil in. Olive oil made the rice taste like shit, even in small amounts. I don’t know why, but it does. Trust me.
+
+Breakthrough! Cooking (lvl 1)--->Cooking (lvl 25)
+
+It was a pleasent bonus for using my skills. At some point I would want to get breakthrough's in all my previous life skills. That would have to wait till later.  After seasoning the rice’s water, I set the venison into the preheated stove. With that finished, I cleaned up the area. Althea stood up and walked up to the granite. I was about to wipe it down, but she pushed my hand down,
+
+“Let me. Please.”
+
+I grinned, “Alright, sure.”
+
+I handed her the bundle of paper towels I was about to use. She set them on the nearby sink before stretching out a claw from her finger. She sighed before slicing through an ultra-thin slice of granite. So thin, light leaked through the plate she pulled of it. Her hand didn’t struggle with the cut though. Combine her overwhelming strength and armor piercing, and feats like that were normal.
+
+Not normal for me though. I spread out my hands, “How in the fuck did you do that?”
+
+She shrugged like nothing was out of the ordinary, “You know, armor piercing.”
+
+I blinked, “Is it that strong?”
+
+She nodded, “Depends on the stuff I’m cutting through. Steel or metal in general is much harder to cut, because it’s like cutting through you. You have too much health, so I can’t do enough damage. Once I can do enough damage though, I can cut through whatever it is like it’s nothing.”
+
+I frowned, “Jesus…It’s crazy to look at.”
+
+She frowned, “Yeah, I know. A bit freakish.”
+
+I waved my hand, “No, I mean like crazy awesome.”
+
+She glanced up at me, almost like happiness was trying to crawl out but she wouldn’t let it,
+
+“Really?”
+
+I nodded, “Hell yeah. It’s cool. I wish I could cut through my armor like that. It would make carving out the runes so much easier.”
+
+She grinned, “Yeah, but the runes are so hard to work with anyways.”
+
+I turned back to the stove, setting a timer for 30 minutes, “You just have to get used to them.”
+
+She shook her head, “No. They’re really hard to get. All those extra perks let you understand faster than you think you do. I could stare at one all day and not get a thing from it.”
+
+I weighed my hands back and forth, “But I can’t cut through granite like paper. Trying to get there, but it’s tough.”
+
+She rolled her eyes, sitting onto her bed. She crossed her legs and leaned forward,
+
+“When’s lunch ready. Smells great.”
+
+I made another invisible chair, sitting near Althea, “Eh, about forty minutes.”
+
+Looking surprised yet again, Althea chimed,
+
+“How did you learn to do that? That’s straight up like Torix.”
+
+I glanced down, “Oh, the chair thing.” I glanced back up at her, “It’s a mix of telekinesis and molding my armor.”
+
+She nodded, fascinated by the casual display. A minute passed, a silence passing but never turning awkward. Althea had that effect on the people around her. She was one of those kinds of people you could be quiet with, pass the time, and it never dawned on you that things were awkward. A pleasant calm would come to pass.
+
+After I placed the rice into the boiling water, Althea started back up the conversation, “So uhm…how did you get so good at all this stuff?”
+
+I raised an eyebrow, “What do you mean?”
+
+She fumbled with her hands, “I uh…I don’t know. You got good at all these different things so fast. Maybe if I knew how you did it, I can do it to…or something like that.”
+
+I grabbed my chin, organizing my thoughts for a moment. I glanced at the orange lamp in the corner of the tent, “I think it’s really just three things. A bit of discipline, motivation, and making goals.”
+
+She leaned towards me as I continued, “I make tiny changes every day, and after a month or two, it makes a huge difference. That’s the discipline part. Making goals gives me a direction to focus my thoughts. Otherwise I’d be making changes without any purpose. Motivation is trickier though.”
+
+I leaned against a hand, like I was floating in the air, “I just think of where I could be in five years. If I focus and push myself every day, what’s the best outcome possible?”
+
+She frowned, “You kill Yawm then have to fight in an endless war forever. Life still sucks.”
+
+I shrugged, “Eh, I disagree. Once we kill Yawm, there’s a whole galaxy out there to explore. You think this food is good? Wait till we go somewhere in space and have a chef make us something. Or, or, what about finding a developed world, where Schema has been around for ages. They probably already have the dungeons and stuff sorted out.”
+
+I turned to her, “Not everyone has to fight there. I’m sure there’s plenty of people who would love having a chef cook them delicious food. You could be that chef. You could open a restaurant, start a family, whatever you wanted.”
+
+My eyes turned harder and less hopeful, “But you have to want it, and I mean really want it. Not some half ass kind of want, I mean a desperate, ravenous, all-consuming kind of want. Right now, we’re trapped on a dying planet called earth. Either we kill Yawm, or we die here. I know you hate fighting. I know you hate endless war. Hell, I know you want to live out a peaceful, calm life. I understand that. I really do.”
+
+I turned back to the meal, “But peaceful days and meals like this are numbered unless we stop that festering sore named Yawm.”
+
+Althea nodded, glancing down. She sighed before looking back up at me, “Yeah…ok.”
+
+The first word was meek, like a half resolution. Her words gained strength as she spoke them, like something was pushing her. It was like she saw a light at the end of the tunnel, something to aim for. She nodded,
+
+“I’ll make a plan with Torix. Maybe set up a schedule for training with Kessiah or something like that.”
+
+I stood up from my seat as the timer went off, “Sounds good.” I walked over and pulled out the glass from the stove. Turns out that venison cooks the same as pork, so I grabbed a few dishes from the boulder pile. After that, I set them on the tent floor, setting up the meal with reasonable portions.
+
+The conversation turned lighter after that, Althea asking questions about my cooking. The light chat was a pleasant contrast with lead laden conversation from earlier. The entire time we talked, I hoped my words went through to her. Getting Althea to train and use her powers with all her might was damn near necessary to beat Yawm.
+
+A combination of Kessiah’s blood arts and Kessiah’s assassination was our best method of killing a follower. Sure, Torix and I could hold the line against an army with his summoning and my tenacity, but we’d falter eventually. We needed Kessiah and Althea to get their heads in the game. Either I pushed her to change, or this world would eat us alive.
+
+After how many speeches I’d given Althea, I was getting frustrated with her. Coming into a messy room, lounged in for weeks, then seeing her waste her time on wearing pretty clothes…I won’t lie, it tested my patience. After this, I wasn’t going to spend any more time convincing her to try. Either she and Kessiah killed Yawm, or I would dive into another dimension with him. Fun times for all.
+
+Wiping away those cynical thoughts, I chatted until the meal was finished. After that, I said my goodbyes. As I left, Althea almost said something. She didn’t finish her words though. Maybe it was something to try and restore my confidence in her. Maybe not. I couldn’t tell.
+
+What I could tell was that I needed to finish the rifle I was making her. If she wouldn’t improve herself, I would do the job for her. Getting Kessiah to improve herself was simpler. I just had to nudge her in the right direction with a bit of competition and good faith. Torix needed a reminder of how serious the situation was. Althea…well I don’t know what she needed to get off her ass.
+
+Before Yawm came out of his world tree, I needed to find out. We had no way of knowing when Yawm would come out. My intuition told me along with a sinking feeling in my gut that it wouldn’t be long now. The forest grew closer to the quarantined wall every day. The eldritch evolved as Yawm’s minions fed them. As I gathered ingredients for this lunch, I even came across an eldritch or two.
+
+Interrupting my thoughts, a small earthquake shook the ground for a few seconds.
+
+We were running out of time.

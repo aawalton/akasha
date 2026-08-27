@@ -1,0 +1,1 @@
+key=characterSortOrder targetId=019f945f-ccec-7fe1-8cf7-683be67adecc — deriveViewTargetSlugs likely missed this target type (#15778)

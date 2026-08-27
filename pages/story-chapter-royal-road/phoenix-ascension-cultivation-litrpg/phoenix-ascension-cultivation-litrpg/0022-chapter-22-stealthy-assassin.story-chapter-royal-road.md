@@ -1,0 +1,225 @@
+---
+id: 726ff63e-9266-5d24-9fea-ecbfdff3815b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22: Stealthy Assassin"
+slug: 0022-chapter-22-stealthy-assassin
+partOf: phoenix-ascension-cultivation-litrpg
+position: 22
+ownLength: 2484
+unit: words
+publishedAt: 2025-09-13
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2597831/chapter-22-stealthy-assassin"
+royalRoadId: "2597831"
+---
+
+Watching them made me feel a little angry. They could simply absorb Qi and not even use it to advance their cultivation, but instead strengthen their fleshy body. Such a thing would make any cultivator spit out blood!
+
+Luckily, there was something I could do about it. With my advanced stealth and Qi needles, I had a good shot of making a quick job out of this.
+
+I had to make it a quick job, as my Qi won’t last forever, at least not while in Stealth. The Qi in the lake felt pure, purer than even the one resting in my dantian. And whilst the water wasn’t one hundred percent Qi, it was at least ninety percent.
+
+That meant that the ethereal had become physical, and the Qi floated in a very condensed form. Just standing next to it, I felt like I’d gotten stronger and my dantian vibrated in anticipation.
+
+I can’t wait for all of this to be mine.
+
+Approaching the closest panther, I quietly summoned the twelve needles and shot them all toward its head. They pierced its brain instantly, and the beast died in an almost unceremonious way.
+
+[You have slain [Heavy Pawed Black Panther] Lvl 15]
+
+[XP Acquired]
+
+There was no sound, nor any sign it had died aside from the notification. I would need to remember to grab the meat, skin and core. Nutrients were very important for a growing chick, hehehe.
+
+With that taken care of, it was time for the next ones. They kept sleeping soundlessly, and a dozen needless later, I got the same kill notification. With only three remaining, my confidence soared.
+
+However, just as I’d sent the other dozen needless toward the third one, my Qi ran out completely. The Shadow Cloak and Stealth skill running in tandem drained me way too fast.
+
+However, I was standing on top of a Qi lake. Without hesitation, I circulated the Ghost Qi Technique and replenished my Qi, but it wasn’t enough.
+
+An angry roar shook the heavens as the Qi controlled needles killed the level nineteen Heavy Pawed Black Panther— what a shame, one more level and it would have evolved. Well, serves it right for lounging around and getting a free meal.
+
+The ashen colored Heavy Pawed Black Panther woke up from its slumber, its voice shaking the heavens. I turned around, my stealth having disappeared, and met its ugly face head on.
+
+“Hmph,” I snorted, meeting its glare. “Kowtow to this young mistress and I may let you live. Otherwise, SCRAM!”
+
+“You—” The ashen colored beast said, its roar having stopped mid-way, and looked at me with a shocked expression.
+
+“Me? Yes, what about me?” I asked, earning some precious time to absorb as much Qi as possible.
+
+[Qi 788/2393]
+
+Come on, faster!
+
+“You have some gall to come into my territory and speak like that.” The ashen colored beast jumped down from his high rock, its paws not making a sound despite their large size. The remaining, regular, Heavy Pawed Black Panther stared at the corpses of its companions, then glared at me as if I had killed his mother.
+
+I probably did, if they were a family. Oh well.
+
+“Your territory?” I chuckled, finding the notion quite funny. Once a Phoenix makes a nest in a forest, that entire forest is their territory. If anyone dared to say otherwise they would be courting death.
+
+[QI 1513/2393]
+
+Good enough.
+
+Without being able to focus completely, the rate of absorption of a Mortal Grade technique was abysmal. That speaks volumes of my actual Qi capacity as well, though.
+
+I flicked my wrist, instantly summoning another dozen or so needles, and shot them at the remaining basic Heavy Pawed Black Panther. I couldn’t aim quite well without looking at the target, and the first few needles landed on its paws, but at least four of them shot right through its skull.
+
+It died on the spot.
+
+[You have slain Heavy Pawed Black Panther Lvl 18]
+
+[XP Acquired]
+
+[You have Leveled Up]
+
+[Phoenix Chick Lvl 8 has become Phoenix Chick Lvl 9.]
+
+[Skill Points Acquired]
+
+Well, it was about time.
+
+With the level up, my Qi supply had instantly replenished to the new maximum, and I slipped into Shadow Cloak and Stealth without hesitation.
+
+The timeframe between me killing the spirit beast and slipping into the shadows was less than it takes a spark to fly off a piece of flint. I watched the ashen Heavy Clawed Black Panther look at the dead body of its comrade. Its expression turned from sorrow to shock, then anger.
+
+“I will skin you alive and feed your remains to the Jaded Serpents!” It yelled, its roar shaking the air. However, I was long gone from the vicinity of the Qi Lake, already sneaking behind it.
+
+I couldn’t fly while sneaking, but quickly climbed up the rock it once sat upon, deactivating my stealth skills while summoning a dozen Qi needles. I activated Heaven’s Protection at the same time, and shot my attack at the beast’s open back.
+
+Sparks flew off as my needles disappeared right before they hit, and the panther turned toward me with a spark of electricity filling its mouth. The purple lighting shot toward me at a speed faster than I could react, and my barrier broke as I crashed against the stone wall.
+
+It didn’t look like that was an attack it could shoot all the time, as it opted to jump up on the stone and bear its fangs at me. “Chicken, did you think you had a chance at snatching my treasure?”
+
+Chicken? Well now that was just insulting.
+
+“I didn’t think I had a chance. I know I will.” I smirked, or at least did the best impression of a smirk I could with the beak this universe endowed me with.
+
+The panther snarled and slashed at me with lighting-infused claws. I waited until the very last moment and used Side Step, disappearing, letting the claws hit nothing but stone.
+
+With the claw-shaped indent behind me, I appeared right below its jaw and activated Heaven’s Protection once again, then jumped.
+
+My barrier pushed against its maw as I used all the force my tiny legs could lend me. It was enough to send it leaping backward, as it fell off the stone and rolled into the lake.
+
+I watched with an amused expression as it jumped out of it, its fur damp, dripping with water. I couldn’t help but chuckle.
+
+“Why you little—” the ashen colored black panther snarled. “You dare laugh in my face? I’ll turn you into paste!”
+
+“Oh, don’t be so salty. Here, let me help you dry off.” I jumped and summoned the Phoenix Fire, as opposed to my Nirvanic Flames. This one seemed a little fun to toy with, and besides the Myriad Qi Needles and the stealth combination, the rest of my skills didn’t use that much Qi.
+
+Phoenix Fire used very little, in fact, as it was a bloodline skill. Those types of skills required the beast’s innate ability to use them, and used their energy instead. Early stage Spirit Beasts had very little Qi, so skills with high Qi expenditure would be counter intuitive.
+
+Upon seeing my flames, the panther’s expression immediately changed to one of terror, though it quickly settled. The continuous stream of fire blasted against its defensive barrier, creating a wall of flames that kept damaging it relentlessly.
+
+To its credit, the beast pushed against the fire, walking forward while letting out defiant roars. However, both Phoenix Fire and Nirvanic Flames had no special skill tied to them, and their shape or usage could be manipulated at will.
+
+Of course, that would require a huge familiarity with fire and the Fire Dao in general, but who was I?
+
+I was Fa Xiaolan, owner and wielder of the Nirvanic Flames, the strongest fire in the Greater Realms.
+
+[Skill: Phoenix Fire has reached the (Beginner) rank!]
+
+With that notification, I felt the flames had gotten easier to control, and their Qi expenditure has also diminished.
+
+Well isn’t that convenient!
+
+However it was clear that this attack did not do enough to break through the ashen Heavy Pawed Black Panther’s defense. The fire alone would not be enough.
+
+Just how much Qi do you have?!
+
+I stopped the fire and rushed through it, activating my Iron Claws and slashing at the barrier. Sparks flew as I attacked, sending at least a dozen slashes before the fire disappeared. I flew high, briefly activating the stealth combination then dive bombed with enough momentum to make a small crater.
+
+With my talons pointed forward, I undid the stealth skills. The impact shattered the barrier into thousands of pieces, but the strength of my attack had also lost most of its effectiveness.
+
+A tentative swipe at its fur told me that I didn’t have enough force to do any substantial damage, so I opted to take off.
+
+“You’re quite fast for a chicken.”
+
+A claw gripped my foot tight in that moment, though, and I got slammed into the ground before I could raise my defenses. Again, and again, the panther slammed me to the ground until its arm tired, and that was when it threw me against the wall.
+
+Blood seeped from my head, legs and chest, as well as other parts I didn’t even know I had. Everything hurt, and I mean everything. But at least it didn’t use poison.
+
+I could barely move, to be frank, as the pain from the continuous slamming drove my HP below the 50% limit.
+
+It could have been worse.
+
+The beast could have shot me with that lighting ball again.
+
+“You’re quite sturdy as well.” The ashen panther spoke, as if it wanted to take pleasure in killing me. I couldn’t blame it, but it was foolish of it to think it could kill me.
+
+Despite the lighting ball in its mouth.
+
+“You have no idea.” I chuckled and decided that it was time to stop playing. Bearing through the pain, I side stepped its attack, opting to dodge to the side instead of the predictable forward. Just as expected, it sent another powerful blow toward where I would have landed had I not had a brain.
+
+The ground beneath it exploded from its attack, and I looked for another opportunity in the opening. At a quick glance, it didn’t seem like he’d activated another barrier, but one could never be too sure.
+
+I waved my wings, clicking my tongue at the inefficiency, and conjured a ball of Nirvanic Flames that shot toward its belly as soon as it appeared. A thin outer layer of protection made it bounce off of the beast, but another one hit it just as the first one dispersed.
+
+No less than six Nirvanic Flame fireballs hit the creature’s second barrier in just a little above a second, shattering it completely. It didn’t lose its cool, though, and immediately turned around.
+
+Only to meet my talons.
+
+Unprotected and vulnerable, my flame-enhanced Iron Claws scratched at its eyes for a moment before I jumped, dodging a swipe of its claw. I fell back and poked at its eyes with my beak, barely managing to hit it one eye as I hit the ground.
+
+It would have tried to crush me with its claws again, were it not for the fact that blood spurted out like a fountain, and the only thing it could do was recoil back from the pain.
+
+I didn’t hesitate to Side Step forward, the sound of my talons scratching against rock making it ignore the pain. The ashen Heavy Pawed Black Panther’s entire body got surrounded by purple lighting, which made me hesitate just a little.
+
+But I was a bird. I could fly.
+
+While I didn’t know much about lighting as an element, I knew it wasn't effective if the target was flying. Or at least, it wasn’t as effective. And that’s all I needed.
+
+With Strengthened Constitution, and the Dragonbone Tempering skill, I had confidence in being able to withstand the defensive shock.
+
+I jumped, taking off into a high kick. The beast sent a bolt of lightning my way, which I dodged by a hair’s breadth with a kick flap of my wings. That made me spin like a kite with its string cut, and it was clear I couldn’t use my talon attacks anymore.
+
+But I had something else in store for it.
+
+I put more focus on my tail and activated Tail Whip. In that instant, my tail grew by a few dozen inches, and it lashed at the beast’s face. It was weird, seeing such long feathers on a tiny body, but I couldn’t complain.
+
+It had no time to defend against the unexpected attack, and I claimed its second eye with that attack.
+
+I didn’t have time to gloat before a shocking pain flew from my tail all the way up my head. A sudden tug caught me while I tried to flee— the beast had grabbed my tail and was preparing to slam me against the ground once again.
+
+Oh crap—
+
+The moment I hit the earth, the electrical shock hurt way more than the physical pain. My entire body had turned to char in almost the same instant I met the cold stone.
+
+Luckily, that only lasted for a moment, as the panther’s skill turned off, and the only thing it did was slam me against the wall, again.
+
+Do you have something with throwing people against the wall?
+
+Is what I would have asked if I had any strength left in me. The beast growled and roared as it followed the scent of burnt feathers, and placed its paw on my chest with pinpoint accuracy.
+
+“Nowhere to run now, eh, chicken?” It tried to get under my feathers again, but it looked like this panther had no better insults.
+
+Yet, it didn’t seem to want to chat anymore, as the purple ball of lighting manifested in its bloody mouth once again.
+
+“Heh...” I chuckled drily, my eyes filled with disdain.
+
+That made it pause for a moment, and I only needed a moment to raise my wing and point it toward my right.
+
+The panther’s head followed where I’d pointed at for some inexplicable dumb reason, and I bet its eyes would have widened if it could see anything.
+
+Thump!
+
+It fell, dead, my Myriad Qi Needles all hitting its brain at the same time.
+
+[You have slain Ashen Heavy Pawed Black Panther Lvl 25]
+
+[XP Acquired]
+
+[You have Leveled Up]
+
+[Phoenix Chick Lvl 9 has become Phoenix Chick Lvl 10.]
+
+[Skill Points Acquired]
+
+[Skill: Side Step has reached the (Beginner) rank!]
+
+[Skill: Stealth[Lesser] has reached the (Beginner) rank!]
+
+[Skill: Shadow Cloak has reached the (Beginner) rank!]
+
+[Skill: Myriad Qi Needle has reached the (Beginner) rank!]
+
+[New Evolutions Available]

@@ -1,0 +1,175 @@
+---
+id: 3352670a-7ebe-5ae6-b9e6-addb7e097e05
+page-type-slug: story-chapter-royal-road
+title: "SCS Halloween Special"
+slug: 0587-scs-halloween-special
+partOf: stray-cat-strut-stubbing-never-lol
+position: 587
+ownLength: 1476
+unit: words
+publishedAt: 2024-10-31
+link: "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1876901/scs-halloween-special"
+royalRoadId: "1876901"
+---
+
+"Alright, you little shits. Line up!" I snapped.
+
+The little shits did not line up, because they were little shits, and you didn't earn such an illustrious title by listening to people when they gave you instructions.
+
+I worked my jaw and narrowed my eyes at the lot of them. "Last one in line I get to pick their costume."
+
+That snapped them to attention. It was always about the stick and the stick. If they misbehaved, you whacked them with a stick. And if they did good, you'd give them a stick to whack others with. Carrots were for losers.
+
+The plan for the day was easy. Actually, it wasn't so different than the usual plan. Every year, on Halloween, we'd head out and canvas the nicer mega-buildings. Most of those had these events. Corps would 'give out' candies for the low-low price of filling out surveys and signing waivers, and there were a few shows and the like on as well.
+
+For whatever reason, some people liked handing out treats and stuff. Some of the nicer, more upper middleclass mega-buildings would allow people to decorate their apartment doors. You could knock on those and do the old traditional trick-or-treat thing.
+
+I found it kind of stupid, but it was also free food. It was one of the few nights in the year where being a poor shit wasn't all that bad, because people were bleeding hearts and orphans often got an extra handful of candy.
+
+At the end of the night we always sorted it. Stuff that'd last a while, stuff that needed eating sooner, and then drugs and other crap that had been snuck in. The last we used to resell, because it was basically free credits.
+
+This year would be different, though.
+
+Nose stepped up first, having shoved Bargain back behind the Twins. He turned my way, sniffed, then rubbed the back of his hand across his upper lip. "Alright," I said. "What do you wanna be?"
+
+Nose grinned. A year ago he'd be grinning with a gob of snot poking out of his nose, but we'd fixed that. Still left him with a few ticks, and that name. "I wanna be snot."
+
+"Snot," I repeated. "Like... a large heap of snot?"
+
+"With cat ears," he clarified.
+
+"That's stupid," I said.
+
+"You said we could be whatever," he said.
+
+I crossed my arms. "I said that assuming you wouldn't want to be something dumb." Nose pouted at me, and I rolled my eyes. "Okay, fine."
+
+New Purchase: Cat-eared gob of snot costume
+
+A box appeared next to us, and Nose cheered before scooping it up and running off. He started to change into it right then and there and... yeah, he quickly turned into a large gob of snot... with cat ears that bore a striking and disturbing similarity to my own.
+
+"Alright, next," I said.
+
+The Twins stepped up next. They were fighting, which is just what they did, but they also shared a look before locking eyes with me. "Princess," one of them said. "Knight," the other said over their twin.
+
+I narrowed my eyes at the two. "Like, as in the samurais Princess and Knight? Or like, a generic princess and knight?"
+
+"The samurai," the said at the same time.
+
+It was creepy as shit when they did that. "Okay. Princess would probably love having people dress like her."
+
+New Purchase: Princess costumeNew Purchase: Knight costume
+
+"There you go," I said as two boxed appeared before me. They were quick to snap them up and run off to get changed... and then the started arguing over which one of them would be wearing what. I didn't get involved. The Twins would argue over anything for any reason. "Who's next?"
+
+The answer was obvious as Bargain stepped up. He narrowed his eyes. "When you say any costume, what are the limits?"
+
+"Don't start," I said.
+
+He started. "What if I chose to go as a fully-functional matter fabrication unit? Or can I go as Infinite Power Man?"
+
+"Who the fuck is that?" I asked.
+
+"My OC. His costume allows him to generate infinite power, which he sells at market rates in order to generate income."
+
+I pinched my nose. "No," I said. "You can't go as that."
+
+Bargain grumbled, but he nodded eventually. "Fine. In that case I'll go as Crackshot. He's cool."
+
+"He's alright," I said.
+
+Bargain looked a little insulted at that. "He's saving so many points with his catalogue that lets him keep the same weapon and just upgrade it."
+
+"I guess," I said.
+
+"Plus hes' definitely banging that goth chick."
+
+"Oooookay," I said, cutting off that entire line of conversation. I was as dirty as the next person, but I didn't want to have the brat bragging about someone I knew like that. It veered into the realm of impossibly awkward.
+
+New Purchase: Crackshot Cowboy costume
+
+Spark stepped up and met my gaze with a serious one of his own. "Power junction box."
+
+I sighed. There wasn't a normal one in the lot.
+
+New Purchase: Power Junction box costume
+
+Nemo was next. She stepped up and stood tall. She'd always been very shy, and extremly reserved. To the point where it was an actual challenge to get her to talk sometimes. Now she was a lot better. She was gaining a bit of weight, in a good way, and was far more likely to tell the others off. "I want to be like Grasshopper," she said.
+
+I nodded. First costume that I fully approved of. I might not be the best... parental figure around, but even I could understand that Grasshopper was a good influence. "Good choice," I said.
+
+New Purchase: Grasshopper costume
+
+Tim came up next and he grinned like the little shit he was. "Hotter, male Stray Cat," he said.
+
+"No, that's a terri--
+
+New Purchase: Hotter, Male Stray Cat costume
+
+"Myalis, what the fuck?" I snapped.
+
+It was too funny not to. Don't worry... he won't be that much hotter.
+
+I watched as Tim went off and opened his box. Within was a costume of my usual power armour, but with redder lines and some flames on it. Cheeky AI.
+
+"Did you want to be a hotter version of me too?" I asked Junior as she came up next. She was next to Katallina, with Catkiller the mutt trudging along next to them.
+
+"Nah," Junior said. "I'm going as a sexy nurse."
+
+"Sexy witch," Katallina said simply.
+
+I wanted to say no, but they were both old enough... ish. Well, whatever. Myalis would keep it pg, probably. "If you freeze, that's not on me," I said.
+
+"Burff," Catkiller barked. He was giving me a look. That dog never liked me, and it was mutual.
+
+New Purchase: Sexy nurse costume
+
+New Purchase: Sexy Witch costume
+
+New Purchase: Bunny costume
+
+I blinked as three boxes appeared. The last was smaller, but it had a dog bone on the cover. We all stared at it for a moment, then looked to Catkiller. "IS that for him?" Junior asked.
+
+"I guess?" I said before I opened the box. There was a sort of plastic band in it, with a tie around the bottom, and two long, floppy bunny ears. "Myalis, do you speak dog?" I asked.
+
+Catherine, I know more languages than you know words.
+
+Well, whatever. I wasn't going to investigate that further, for the sake of my own sanity. I leaned over and called out across the living room. "Daniel, you want a costume?"
+
+"Is there a costume that would let me stay home and not have to go out?" he asked.
+
+"No."
+
+"Then no, I'm good," he said.
+
+Yeah, that's what I thought. That actually only left one person... Lucy sauntered into the room, taking note of all the kittens getting dressed up or showing off their choices. Spark's costume let out little electrical jolts and Tim's really did look like it was on fire.
+
+"And what about you?" I asked. "Do you want a costume?"
+
+Lucy smiled, and I felt my heart skipping a beat. Damnit. "Oh? Maybe I want to dress up as my hero?"
+
+"Your hero, huh?" I asked.
+
+"Mhm," she said as she came closer, close enough that she was pressing into me. "My big damned hero."
+
+"I swear if this is a bait-and-switch and you say something like Gomorrah, I'll be so annoyed," I said.
+
+Lucy giggled. "Aww! You know me too well! But I was gonna say Emoscythe."
+
+"Really?"
+
+"Goth is hot."
+
+Fair.
+
+"How about something we'll both enjoy, then?" Lucy asked. "How about... Sexy Stray Cat?"
+
+New Purchase: Sexy Stray Cat Costume
+
+The box was very small. "Do you want to help me... put this on?" Lucy asked.
+
+"I think I'd like that," I said.
+
+The trick or treating could wait a couple of minutes, right?
+
+***

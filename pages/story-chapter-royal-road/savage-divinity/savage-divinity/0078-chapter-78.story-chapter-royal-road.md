@@ -1,0 +1,139 @@
+---
+id: 2fcca43e-eb0f-5c49-92b7-bbac87e94206
+page-type-slug: story-chapter-royal-road
+title: "Chapter 78"
+slug: 0078-chapter-78
+partOf: savage-divinity
+position: 78
+ownLength: 3721
+unit: words
+publishedAt: 2016-06-08
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/74979/chapter-78"
+royalRoadId: "74979"
+---
+
+Stretching as I wake, I luxuriate in the warmth of my bedroll, enjoying the brief sensation of total relaxation that comes from waking naturally. The dark interior of my tent tells me that the sun has yet to rise and after listening for a moment, I hear the slow, steady rhythm of Yan's breathing, still deep in sleep. Reaching my arm out to stroke Yan's face, to bring her close to kiss, perhaps even indulge a little before our children wake and our day truly begins. My body freezes at the sight of my stump, cut just below the shoulder, and pain flares in my chest as my injuries protest my continued existence.
+
+Snapping back to reality, my mind fully awake now, I quietly mourn the loss of my wife and children, despite the irrationality of it all. The memories of her sprawled in our bed, caring for our children, having dinner with my family, none of that was real, but the memories still remain. I try to tell myself that it was all a dream and to forget it all, but my mind continues to reminisce about my happy life with Yan, or with Mila, Lin, and Akanai... That was a nice one, I'll hold onto that, but the others I should just forget about.
+
+Struggling out of my blanket burrito, I sit up and shuffle around on my ass, looking for my boots so I can go out to take a piss. I haven't worked out the logistics of that yet, but I'll figure something out.
+
+“Need a hand?” Yan asks me sleepily, lying on her side as she watches me struggle, her dark hair mussed up, cheek laying upon her arm, looking like a porcelain doll, perfect and lovely, with a little smirk on her face. Snapping out of my thoughts, I smile at her as I scold myself for already slipping. She is Adujan, my friend and comrade, not Yan, my wife, or the mother of my children.
+
+“Yes, please. I can't find my boots.”
+
+Yawning as she stretches in her thin cotton shirt, my heart skips a beat at the sight, before she rolls over and grabs my boots from the other side. “I hid them. I figured you'd try to slip out on your own and do something embarrassing like fall into the latrines, and there's no fucking way I was going to fish you out. It would have been a sad end for Falling Rain.” Slipping my feet into my cold boots, I stand unsteadily, almost falling forward before she catches me, and I can't help but enjoy her scent, yearning to just feel her lips on mine. “Just wait a few seconds and I'll help your crippled ass out of here.”
+
+A few moments later, we are walking towards the edge of camp, her arm around my waist and a cloak around my neck. The cool morning air feels good, the sun yet to rise but the birds already singing as they flit about the camp, the busy morning ritual of cooks and sentries getting ready for the morning rush. We reach the open line of pits that we use as latrines, and I stand awkwardly, unsure of what to do.
+
+“What, you need me to hold your cock while you piss too? I might even do it if you ask nicely.” She stands at my side grinning like a pervert, but I can see the tinge of blush in her cheeks as she tries to joke about it.
+
+“Ah no, just lower my pants a little, and I can do the rest.” Even the thought of her touching me makes my blood burn. She lowers the waist of my pants and stands to the side, arms crossed with a smile on her face. “Err, could you uh... not look?”
+
+My face burns at her smirk as she slowly turns away, feigning disappointment. “Don't fall in.”
+
+Fixing my broken arm is priority number one now. Thankfully, I've been on a diet of dried meat and rice and there's no coffee in this world, so I don't have to poop. Yet.
+
+We walk back together in blissful silence, both of us awkwardly avoiding conversation. She talks a big game, but when it comes right down to it, she's as bashful as any, which is endearing. Before we reach the campfires, we run into a sleepy looking Mila... Sumila, looking slightly disheveled, and a neat and well rested Li Song, whose clothes look as if they've been freshly pressed. Stifling a yawn, Sumila falls in beside me, her arm snaking around my waist to grab my belt and help support me.
+
+“So, did you two sleep well?” She asks nonchalantly, but I can hear the burning curiosity in her voice, wondering if anything gossip worthy had happened
+
+Adujan pokes me in the side, hiding her grin from Sumila. “Very well, for a man so badly injured, Rain has a surprising amount of vigor.”
+
+Sumila misses a step, her face turning red despite the obvious lie. Shaking my head, I speak between breaths. “I'm wheezing from an easy walk, do you really think I have the strength to do anything like that?” I don't think Tokta re-inflated my collapsed lung, and I'm starting to really appreciate just how well Taduk took care of me.
+
+“Ah, right. Of course.” She smiles, helping me along a little faster, my chest burning by the time we reach the cooking pits, my shirt damp with sweat. We sit down in the grass together, and soon, Sumila is spoon-feeding me broth, with tiny chunks of meat and rice, easily consumed despite my missing and cracked teeth. I'm not going to enjoy fixing that,  it would be easier to rip out the broken teeth and start from scratch, but I lack the necessary tools. Or hands.
+
+Without any choice, I study Sumila's adorable face as she feeds me, one spoonful at a time. She fed me last night too, a sweet girl, always willing to help me. My dreams with her were much the same as with Adujan, bringing her to meet my parents, or having a nice quiet time at home, snuggled up together. Again, the feeling of loss wells up within me, despite all of my attempts to supress them. It's the little things, like seeing her dimples, and it brings up a memory of how my marriage vows had mentioned them, or the way she blows on the spoon to cool the broth, reminding me of how she fed our children, sweet and patient, smiling through all the mess.
+
+I know none of that ever happened but my mind keeps bringing it up, every false memory showing me what I lost, driving me a bit deeper into despair.
+
+“You're staring too much, pervert.” Mila blushes a little, giving me a little pout.
+
+“It's your fault for being so damn beautiful, love.” The words are out of my mouth before I can stop them, my eyes widening in panic as Mila freezes. “No, no, sorry, wait.” My head shakes furiously, trying to deny the very existence of my words. “I didn't mean that.” Her eyes narrow in anger, the wooden spoon still held halfway to my mouth. “No, well, I meant it, but not for you.” Closing my eyes for a moment, I clear my mind and choose my words carefully. “I'm mixing up my dreams with reality. We had a conversation like that in one of my dreams, and the words just came out without thinking. I'm sorry. Please just ignore my words.”
+
+My eyes open to see Sumila smiling gently at me, much to my surprise. “No need to be sorry, just a slip of the tongue.” Her words are sweet and kind as she lifts the half raised spoon to my mouth, and I drink, thankful that she didn't take offense. “So, in your dream... we were married?”
+
+My stomach flops as I remember our time together, walking my dog through the village, introducing her to my parents, proposing to her at the year end festival, our wedding ceremony a few months later. All of it rushes into my head without warning, and happiness fills me at the thought, until reality sets in and my euphoria dissipates, leaving ashes behind. “Yes. I married many people in many dreams. I'd rather not talk about it.”
+
+She acquiesces with a sour look on her face, her curiosity brimming, but too polite to continue asking. Our meal concludes in awkward silence, when a Sentinel arrives, asking me to meet Akanai in one of the healer's tent. Standing at the foot of a cot, Akanai impatiently waits as Tokta is hard at work healing Dagen, who lays awake, grimacing and gritting his teeth in pain. Shirtless on the cot, the skin all over his body covered with patches of burned skin, bleeding skin, his wounds slowly heal as I watch, hardening into large swathes of scabbed tissue. Only moments after scabbing, the wounds break open once more, starting at the edges and moving down the scabs until they slough off, revealing painful patches of burned skin and oozing pus once again.
+
+My stomach threatens to rebel, the bile churning in my belly and I choke down the urge to throw up my breakfast. Scabs are gross. Wet scabs floating in pools of pus are a nightmare. After finding me a stool to collapse on, the girls step out, and the tent is empty except for the four of us. Akanai studies me with an intense look and my neck flushes as I involuntarily remember my dreams, my eyes looking everywhere except at her. “You look terrible boy, but it could have been worse. If you had truly injured the Demon, you might be like Dagen here. Perhaps now, you will listen when I tell you to leave.”
+
+Stupid voice in my head, telling me to fight the Demon. I haven't heard from him since he left me to deal with the injuries he sustained. He didn't even put up a good fight, just a giant phony. I hope he's gone, I have enough shit to deal with right now. Nodding sheepishly, I remain silent, shooting glances at Tokta as he heals Dagen. The back and forth struggle continues between the healing and reopening of Dagen's wounds,. This can't continue, eventually, Tokta will tire and lose, and even with a second healer standing by to take over, it seems a losing battle.
+
+My curiosity gets the better of me. “What's causing the wounds to reopen?”
+
+Surprisingly, Akanai answers. “The Demon ichor is corrosive to the living, eating away at living tissue until it burns itself out. Dagen was covered in a large amount of it, seeping into him from his wounds, carried by the shards of the creature that are embedded in his flesh, poisoning his blood. They will continue to heal him until the corrosion has run its course and the shards broken down.” Noting my concerned look, she adds, “It is not life threatening, just painful, nor is it constant. It will ebb and flow, but this is a particularly bad episode.”
+
+“So how are you supposed to kill a Demon without getting covered in its blood?”
+
+Shrugging, she answers with a simple sentence. “You simply avoid it.” Guess that's her way of saying 'Git Gud'. Sitting idly, I watch the proceedings, wondering about just what exactly causes the burning, but without anything to work with, all I have are guesses. Most are 'Magic', but there could be a real, scientific reason, like... microbes or acid or something. I dunno. I'm a muscle wizard, not a scientist.
+
+After about 15 minutes of constant treatment, the scabbed wounds finally remain healed and in place, although they look fluid, soggy, crusted yellow-green chunks of half healed flesh that might crumble to pieces if Dagen were to move. Tokta nods at Akanai and turns to leave, looking exhausted. “Don't keep either of them for too long. They need food and rest.”
+
+Ignoring his words, Akanai stands and waits until the three of us are alone, before turning to me. “I have heard Dagen's story, and Mila repeated what you told her, but I would hear it in your own words.” Without hesitation, I tell her the entire story, starting from the duel with Vivek, to the dreams, and waking to attack the Demon, then finding Dagen. She listens in silence, immobile, her eyes seeming to peer straight into my mind as if she already knows everything that I'm not telling her. When my story is finished, she watches me closely, seeming lost in thought once again.
+
+After a long pause, she turns to Dagen, who gives a small, almost imperceptible shrug. “I don't know either. He just showed up in front of me and the dream was no longer real.” His words are slightly slurred, his voice weary. “It was as if my mind were in a fog, and it burned away at his approach.”
+
+Turning back to me, Akanai asks, “Your dream, how did you escape it?”
+
+“Uh... I don't know? After I realized it was all in my mind, I just...” I try to snap my nonexistent fingers before feeling like an idiot. Phantom limb, it's so weird. “Err, I just thought my way out of it, I guess.”
+
+My answer is met with silence once again, only the labored sounds of Dagen's breathing to fill it. I still can't tell if this is good or bad, and I always just assume it's bad when it comes to Akanai. She moves close, lifting me to my feet, making me look her in the eyes. Her lovely smiling face greets me, warm and concerned about me and the tension flies from my shoulders at the rare sight. “Many of the afflicted are having issues coping with the aftereffects of the Demon's attack, and several soldiers killed themselves last night. Are you well?”
+
+No, not really. “I'm fine.” Not like she can help. Poor soldiers. Happiness is a difficult thing to lose, even if it is only the illusion of happiness. It's all the same, biologically.
+
+“Good, Good. Good. I expected as much, you are a survivor, but should you need rest or aid, speak up.” My heart lifts at the quasi-compliment, and I promise myself to not cause her worry. About this, anyways. “It seems you are a natural at setting up mental defenses. While Demons like the one we killed are rare, they are fearsome and difficult to approach for most. If you can remember exactly how you defended yourself, let me know, or Baatar or Taduk. Any information on how to better defend against them would be useful.” She pats me on the head, musing my hair, her way of showing a job well done I guess. Even still, at her touch my face heats up again, reminded of my dreams once more. I need to get a handle on this, it wasn't real. I just need to meditate.
+
+Or I just need good old lefty in working order. That might work as well.
+
+Straightening up, she turns me around and begins marching me out of the tent. “Let us leave now, allow Dagen to rest, and you to begin healing yourself."
+
+“Let the boy stay a bit longer, Lieutenant General, I would like some words with him in private.” Dagen's voice is quiet as he strains his neck, trying to look at us as we leave. With one last pat on the back, Akanai leaves and I return to Dagen's side. “Good to see you well, boy. You looked like shit the last time I saw you.” He laughs weakly. "You still look like shit, to be honest."
+
+“Well, you don't look that great either.” If I had hands, I don't think I would be able to stop myself from wiping off one of the nasty, wet scabs that pockmark his skin, floating in pools of pus. “You need to rest.” Maybe I can find some herbs, and make a healing bath for him, or just... scrub the dead flesh from him. It can't be healthy to just leave it like that.
+
+“I'll be fine, boy. You need to stop looking down on me, or I'll likely take offense.” A wan smile keeps me from taking his words too seriously, but it's a little sad that even mentioning the need to rest can be taken offensively. I don't think I'll ever understand a warrior's mentality. “I want to talk about the dream.”
+
+There is a pause as he gathers his thoughts before he speaks again. “I remember that in my dream, it felt like I lived years with my family, always happy and joyous, my wife and children never growing older, my successes great and varied. I would have never left if you hadn't shown up, would have given myself fully over to it. You helped me see it for false, and for that, I thank you.”
+
+His steely gaze locks onto my eyes, and he weakly pulls me forward, his voice a whisper. “When you appeared in my dreams, I couldn't even recognize you.”
+
+Panic and hope mingle together when I hear his words, and the question bursts out from me before I can stop myself. “What did I look like?” Did he see my real face?
+
+“Older. More refined.” A sly smile shows on his face. “Taller.” His body is wracked with coughs, and I stand by, unable to help, disappointed and relieved, a bittersweet combination. “You also kept shifting about, changing forms and faces. After hearing your story, I believe I know why. I relived a memory, while you lived a thousand different lives and are still half lost in the dream, unsure of who you truly are. I need to tell you something that I believe will help. Do you remember what you said to me, inside the dream?”
+
+Nodding, I recite the words. “You can't be lying around, Sentinel. There's a war to fight and enemies to kill.”
+
+“Exactly so. After you spoke those words, you stood before me solid and real as you are now, albeit with two working arms and without missing teeth.” He grins, looking hale and healthy for a moment, his eyes lighting up. “Hold onto those words, boy, for they embody who you are. You are a Sentinel, a warrior, and you will see yourself through this.”
+
+Sweat drips down his forehead as his labored breathing continues, his body sinking back into his cot, the effort of so many words draining him. His words are barely audible, and I lean in towards him to hear his words. “No matter that you lied to the Chief Provost, but remember, be proud, but not overly so. You come talk to me if you need it, or your sister, your friends, anyone at all. You are not alone in this boy, and should not face this trial without aid.”
+
+This man is struggling to stay conscious, suffering through agonizing pain so that he can give me advice, keep me from losing myself. “Thank you, Dagen. Rest now, and remember, that goes both ways. You are not alone either, and I am more than happy to talk with you, should you need it.” A silent smile is my only answer as he closes his eyes, mercifully falling asleep, no longer pained by his wounds. A healer comes into the tent, politely asking me to leave so that Dagen can rest, a bucket of warm water and herbs in his hands. Realizing that it is to clean Dagen's wounds, I feel relieved that he is well taken care of here.
+
+At my request, Adujan harnesses Zabu for me and I ride out to the river's edge, alone. I can hear someone following me, but as long as I don't have to talk to anyone, I'm fine with that. Zabu flops down into the dirt at my command, flattening himself to the ground, and I roll off of him, grunting in pain. Settling myself up against a tree, I let Zabu loose to do as he likes, and he remains flattened, content to just nap in the grass.
+
+I allow myself to just relax as I watch the beautiful scenery before me, my mind blank and free of worry, if only for a few moments. The riverside is lush with greenery, hills rising straight out of the ground at an almost vertical slope, jutting protrusions of rock and vines, a picturesque scene of natural beauty. The water is tinged with blue, green, and orange hues, the sunrise reflecting on the waters, the early morning fog being swept away.
+
+Feeling relaxed and calm, I close my eyes and reach for Balance and begin healing my injuries, focusing on my broken left arm. Shattered in four places, it will likely take me days to fix completely, and until then I need to rely on others to help with even the most basic things, but at least I have people willing to help.
+
+The Energy of the Heavens flows through me, as calm and peaceful as the river before me, my injuries healing as I bask in the warm, timeless feeling. This is real contentment, not like the dreams and illusions of the Demon. Enjoying a nice, quiet day with my animal companion, surrounded by beauty, knowing that there are people who love me. Those memories are an illusion, a fantasy, and while escapism has it's place, I can't just wallow in it. If I truly want something then I will work towards it in reality.
+
+Like Dagen said, I need to remember who I am.
+
+I am Rain, Sentinel of the Bekhai, Disciple of Baatar, Brother to Alsantset and Charok, Uncle to Tate and Tali.
+
+I have a life here and it is a pretty good one.
+
+Everything else is unimportant, for now.
+
+Face my problems head on, one step at a time, beginning with my greatest problem of all: my broken arm.
+
+I will eventually need to poop, and while I have people willing to wipe my ass for me, I really don't want to ask, nor do I want to rub my ass in the dirt.
+
+Priorities.
+
+- End of Volume 4 -
+
+Chapter Meme

@@ -1,0 +1,221 @@
+---
+id: 72e19e15-d4fa-5499-ab5c-c7ac09b3274d
+page-type-slug: story-chapter-royal-road
+title: "390. Level Difference (Start of Volume 5 Part 4)"
+slug: 0055-390-level-difference-start-of-volume-5-part-4
+partOf: salvos
+position: 55
+ownLength: 2039
+unit: words
+publishedAt: 2022-07-24
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/955674/390-level-difference-start-of-volume-5-part-4"
+royalRoadId: "955674"
+---
+
+390. Level Difference
+
+It was a silent night. The forest lay still underneath the wheeling sky. Scintillating stars dotted the sky above, and a sliver of moonlight shone down into the valley where a silver-haired girl slept. She wore the form of a Wyvern, bestial and long with arms extending to wings and legs bent backwards. Still, she had hair in this form. Most Wyverns didn’t, but she did— because she wasn’t a Wyvern.
+
+She was a Demon. One who could shapeshift. Take on any form she wanted. But today— or, at least, tonight, she had the body of a Wyvern. Why? The reason was simple. It was the same reason why she was sleeping instead of staying awake like she could.
+
+It was because of the three baby Wyverns cuddling up against her. And, yes, these were real Wyverns. They weren’t transformed Demons— no, they weren’t [Changelings] or other kinds of shapeshifters. They had been taken in by the Demon girl over a promise of sorts.
+
+It made no sense— not to the [Will O’ Wisp] who’d been observing the Demon girl for a while now. But none of her actions ever made sense. From the time he met her in the Bloodied Gulf where she promised to save the monsters trapped there, to offering to save the last Wyverns of Sharik by taking in their children. It all felt illogical, yet it was logically consistent with Salvos’ values.
+
+So, Willy didn’t question it. He just went along for the ride, amused at times, bored at other points, but usually preoccupied.
+
+And that was all that mattered to him. As long as he had something to do, Willy was fine with dealing with Salvos’ shenanigans. Now— Willy had a problem when he didn’t have something to do. He didn’t care for anything else. Not for the Humans and their meetings just a bit away at Alyras. Nor did he care about the upcoming Demon invasion of the Mortal Realm.
+
+It was all looming threats and petty politics. Things that had always existed— that had always permeated the world. Willy never understood it. Such things didn’t exist in the Spirit Plane. So, he cared not for it. Because it would always be there tomorrow.
+
+So, instead of dealing with that, he watched. He looked on silently as the first of the three Wyverns stirred. Novis blinked his eyes open, casting his gaze around the dark valley. And started to wail.
+
+“Waaaaaaaaah!”
+
+I jerked up at the sound of crying. I had gone to sleep a bit ago— not because I wanted to, but because I didn’t want to disturb the sleeping baby Wyverns. Unfortunately, that was a bad idea because I had to deal with the worst part of sleeping: waking up.
+
+I looked around as the shrill sound pierced my ears, searching for the noise. At first, it was slightly bearable with only a single source of screaming. But two more joined it soon after. I got up and craned my neck, looking through the valley with narrowed eyes and saw nothing. There were no monsters nearby letting out a war cry as it charged me, and neither did I sense anything out of the ordinary in this space.
+
+No— the source of the screaming came from somewhere else. It originated from directly below me. And it was not an attack, either. It was a cry for help.
+
+I looked down and stared at the three baby Wyverns that I had taken under my wing— literally. From oldest to youngest, their names were Novis, Bellum and Oriur. A boy, a girl, and a boy. They had hatched at about the same time, with only a few seconds in between, but that still counted for something, right?
+
+Anyway, their age didn’t matter because they weren’t even a day old. They were new hatchlings. Newborn Wyverns. Little tiny things that couldn’t defend themselves. They were sprawled on the ground, wailing as they threw their arms and legs in the air. They had gone to sleep last time all so suddenly that I instinctively joined them. But now—
+
+“It’s not even sunrise! Why are you guys already awake and screaming?!”
+
+I poked their open bellies one by one, trying to figure out what was wrong. However, they didn’t explain. They just cried louder.
+
+“Ugh, what’s going on? Are you guys hungry?”
+
+I flicked a finger, and a rabbit from a nearby bush came flying to my talons. I lowered it for the baby Wyverns.
+
+“Here, have this.”
+
+They exchanged a glance for a moment. Their crying stopped, and I got a little excited that it was over. Then Novis punted the bunny rabbit away. The small thing went flying into a nearby bush with a squeak as the Wyverns erupted back into their howlings.
+
+I waved my wing-arms in a panic, hovering over the three of them.
+
+“What? What do I do?”
+
+“Idiot.”
+
+I heard a voice snort behind me. A green glow flitted up my way. A ball of flame. A wisp that was the size of the palm of my hand. I stared at it— at him. And frowned.
+
+“What do you mean, Willy?”
+
+The [Will O’ Wisp] just sighed, even with no lips. He gave me a judging look with no face, and spoke with no mouth.
+
+“Biology.”
+
+“Biology? What about it?”
+
+I raised a brow, but Willy didn’t elaborate as usual. He left it up to me to infer what he meant, and my eyes widened. I looked down at the baby Wyverns, hearing their stomachs growl. The realization sunk in as the three of them looked at me pleadingly.
+
+“Huh.”
+
+I made a face of disgust.
+
+“Ewww.”
+
+I backed up as just Willy scoffed and flew down past me.
+
+“I’ll handle it.”
+
+—--
+
+Half an hour later, Willy came back with the three baby Wyverns. The sun was rising in the horizon, and I poked my head out from behind a nearby tree. Although the tree did nothing to hide the rest of my Wyvern body.
+
+“Is it over?”
+
+I asked apprehensively. The [Will O’ Wisp] paused. He stared at me, not responding. But Novis, Bellum, and Oriur just sprinted forward to me.
+
+“Mama!”
+
+“I’ll take that as a yes.”
+
+I scooped them up as they came to a halt at my feet. I glanced down at them.
+
+“Make sure to thank Willy for his hard work!”
+
+I grinned at them with bared teeth. They smiled back at me the same way, but they didn’t actually thank Willy much to his chagrin. I saw his flames turn green in envy— well, greener in envy. He harrumphed, and I scratched the back of my head.
+
+“Um, so…”
+
+I tried to change the subject, putting the baby Wyverns down.
+
+“What do you guys want to do now?”
+
+I faced them. Novis brightened and chirped ecstatically.
+
+“Hunt!”
+
+Bellum nodded in agreement.
+
+“Kill!”
+
+The third, Oriur, looked as excited as them, but he just pointed at me.
+
+“Mama!”
+
+“Um…”
+
+I shifted back. I looked at Willy questioningly. I wasn’t sure if this was good parenting— not that I was their parent. I just wasn’t sure if this was a good idea. He didn’t say anything for a moment, but I continued looking at him in desperation. Eventually, he gave in.
+
+“Sure.”
+
+“Willy says yes…?”
+
+I glanced back down at Novis, Bellum, and Oriur. They chorused.
+
+“Yay!”
+
+And they immediately dashed off, together. I scratched my chin uncertainly, watching them reach the end of my dome of obfuscation. I got up, sighing.
+
+“I guess we should follow them, right?”
+
+“Yes. It’s dangerous.”
+
+Willy flew after them. I quickly scanned the area with space magic, and found that there were no Humans nearby. There were a few monsters, but they were quite small— and judging by how they were moving, probably low-leveled monsters too.
+
+“Seems like there’s nothing dangerous around.”
+
+I slowly flew out after the baby Wyverns. Willy was just a bit ahead of me. I waved a wing-arm dismissively.
+
+“They’ll be fine.”
+
+I watched on as Novis ran up to a nearby rabbit. It had horns and red eyes—  but it was small. It wasn’t even half the size of Novis. And as he prowled up to it, Bellum and Oriur snuck up from its behind. I looked on approvingly.
+
+They had the instinct of predators. As expected of Wyverns. They lunged at the same time as the rabbit glanced up—
+
+And it knocked them back one after the other. I blinked a few times. Willy immediately rushed to their side as my jaw dropped.
+
+“Um, what? How—”
+
+That rabbit had to be strong. It took on the three of them at the same time. My gaze snapped towards it as it bounced away, and I used [Identification]. What are you?
+
+[Horned Rabbit - Lvl. 10]
+
+I blinked a few times. The [Horned Rabbit] vanished into the bushes. I glanced back at the baby Wyverns as Willy healed them, at first confused, then I remembered a very important fact that I’d neglected.
+
+“Right, they’re newborns. They’re not even Level 10…”
+
+The only reason that [Horned Rabbit] hadn’t skewered them was probably because of the fact that they are baby Wyverns and not baby rabbits. That was close. I wiped the sweat off my forehead and descended next to them. Willy’s flames dissipated as their bruises vanished. But they were still crying.
+
+“Supervise. Carefully.”
+
+“Ugh… do we have to?”
+
+I groaned, and Willy glared at me.
+
+“Fine!”
+
+I threw my wing-arms into the air. This was going to be exhausting. However, I was ready for this task, right?
+
+Then I remembered something else. I had also promised Edithe and Daniel that I’d help them reach Level 120 by the end of the month. I sighed, sprawling on the forest floor as the ground shook under my weight.
+
+“So much to do…”
+
+I looked up at the rising sun and tried to look at the bright side.
+
+“But at least there’s still a few more weeks left until the end of the month, right?”
+
+Certainly, nothing exciting was going to happen until then.
+
+Three figures watched the city as life was slowly breathed into it at the break of day. There were travelers from all around the world entering its gates— all for a meeting. The Conference of Alyras, as they called it.
+
+These three figures were there for the same conference, but they had very different reasons for being there. The first figure had yellow skin. He almost blended in with the sunlight. A single horn protruded from his head, curving forward like a blade. He glanced back at his two companions and spoke in a warning tone.
+
+“So this is where this meeting will be held. We can’t be reckless. I hear there will be Elites present at this meeting. Quite a few of them, actually.”
+
+The other two figures didn’t respond. He narrowed his eyes and cleared his throat.
+
+“Gloria, Desidia, are you listening to me?”
+
+“We heard you the first time, Iivor.”
+
+One of the two figures yawned. She lay there as she raised one of her three tails and waved it dismissively.
+
+“We just don’t care.”
+
+“Desidia. This is serious.”
+
+Iivor frowned, But the other figure— a petite girl with pink skin got to her feet. She stretched her back and sighed.
+
+“Sure, sure, we heard you. But what even is an Elite, anyway?”
+
+“Are you being serious, Gloria? Elites— Humans at Level 150. Have you not done even a little bit of research on Human culture?”
+
+Gloria came to a halt next to Iivor. She scanned the rolling hills and valleys as she spoke simply.
+
+“Why should I?”
+
+Her eyes locked on a cloaked figure moving down a road, heading away from the city. A [Rogue]. A Human man at over Level 160. She smirked as she raised a hand, pointing at him.
+
+“Level 150, Level 100, it makes no difference to me. After all, at the end of the day, they’re all—”
+
+A crimson aura coalesced at her fingertips as she aimed for the unknowing Human man’s head.
+
+“—mortals.”
+
+Her hand recoiled as a crimson beam shot out, crossing thousands of feet in an instant.

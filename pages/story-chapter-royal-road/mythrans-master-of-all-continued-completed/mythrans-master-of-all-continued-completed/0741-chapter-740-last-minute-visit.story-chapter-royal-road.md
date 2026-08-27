@@ -1,0 +1,301 @@
+---
+id: f57ebb8f-21d2-58d0-924b-435d6d870b10
+page-type-slug: story-chapter-royal-road
+title: "Chapter 740 - Last Minute Visit"
+slug: 0741-chapter-740-last-minute-visit
+partOf: mythrans-master-of-all-continued-completed
+position: 741
+ownLength: 3378
+unit: words
+publishedAt: 2018-10-24
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/300619/chapter-740-last-minute-visit"
+royalRoadId: "300619"
+---
+
+“You're really going to just leave me here.” Orimihr said and chuckled.
+
+“Sometimes a man needs to face the consequences on his own.” Dwarf Ren said. “On the other hand, all you need to do is send word to House Neram, and I'll come back to get you when it's necessary.”
+
+“Well, I was released into your custody.”
+
+“Yeah, and you've been that way since we left the dwarf lands.” Dwarf Ren chuckled. “How much of all that time did we actually spend together?”
+
+Orimihr was about to say that it had been a lot, then he realized the only time Ren was around him was today and that day last week when he had met those two women at Ren's shop. Even then, he told the women the story about Delthid, and not Ren. The rest of the time Orimihr had been working on the ship and Ren wasn't anywhere near it.
+
+“Well, damn.” Orimihr said and laughed. “Some custody that was!”
+
+“Only the best.” Dwarf Ren laughed, too. “Do you need any money?”
+
+“No, I've got plenty of gold on me.” Orimihr said. “I never realized working on a ship paid so well.”
+
+“Hold on, working for me pays well?” Dwarf Ren asked, and lots of the dwarves around them laughed. “I look forward to hearing from you soon.”
+
+“As do I, my friend.” Orimihr said and held a hand out to him. They clasped forearms and shook. “By the way, when you came and picked me up at the ship, you said you had to find Delthid urgently.” He said. “I could tell you didn't lie; but, why was it so urgent that it had to be done right away?”
+
+“After I had decided I wanted to finish up a couple of open quests I still have, I was told by the Sage of Ages that I needed to join a caravan from another kingdom.” Dwarf Ren said. “Plus, I wanted to make it sound impressive to the two women you were with.”
+
+Orimihr laughed. “They were impressed all right.” He said. “They made me promise to tell them all about it.” His eyes went wide for a moment. “Oh, damn! They won't know I'm not there anymore and might come to the ship looking for me!”
+
+“Don't worry. All they know is that you've gone on a quest with an Adventurer. I doubt they will expect to see you for a few weeks, considering they know where you needed to go.”
+
+Orimihr thought about it, then nodded slightly. “If you would send word to them that I may be here for a while, I would appreciate it.”
+
+“Of course.” Dwarf Ren said. “I'll do it as soon as I get back to Aurora.”
+
+“Thank you.” Orimihr said.
+
+Dwarf Ren let his arm go and leaned in close to Princess. “Only a slow trot to House Neram, please.” He whispered and then climbed into the back of the carriage with Ereka while Artemis landed in the driver's seat to keep up the pretense that Princess needed a driver. When the carriage turned around in mid-air and started to move, Ereka's hand reached out and stroked Dwarf Ren's big beard.
+
+“Is it real?” Ereka asked in a whisper as her desire for him rose.
+
+“Give it a tug.” Dwarf Ren said, and she yanked on it. “Ow.” He said playfully.
+
+Ereka's desire spiked and she leaned in close. “How long is this carriage ride going to take?”
+
+“Princess, Lady Ereka requests a tour of the countryside.” Dwarf Ren said and Teepo flew out of the carriage and landed on Princess' helm.
+
+Ereka took that cue and pushed him over as she straddled his waist, then she gripped his beard hard and he felt that her passion was about to explode.
+
+“Um... better make that a tour of the continent.” Dwarf Ren corrected as he took out the Vasalor Statue.
+
+“Yes, My King.” Princess said happily and took off at a fast run while Teepo chittered in delight and Artemis held in her laughter.
+
+*
+
+Barnar walked into the royal apartments with a piece of parchment in his hand. “Darling, you aren't going to believe this.”
+
+“What is it?” Narhilda asked. She was getting close to her due date and her belly was quite big. On the advice of the healers, she was in bed and relaxing and let the kingdom be run by her advisor and her husband while she waited for her belly to pop.
+
+“It's a birth notice and baby registration.” Barnar said, a little confused.
+
+“We get several of those a week, dear.” Narhilda almost admonished him.
+
+“Not from House Neram, we don't.”
+
+“Wh-what?” Narhilda's heart beat faster. “What did you say?”
+
+“There's a new heir to House Neram.” Barnar said as he came over to the bed and held out the notice to her. “This says that Nathalia gave birth this morning.”
+
+“N-no, that... that's not... possible.” Narhilda said as she read the notice and then felt a twinge of pain. “She... would have been... pregnant when... before he... no, it can't...”
+
+“Narhilda? Are you okay?” Barnar asked with concern in his voice.
+
+“Get... healers!” Narhilda said, then yelled at the sharp pain she felt when her water broke.
+
+*
+
+“R-R-Ren, by... by the gods.” Ereka said and moaned as Ren held her tenderly after storing the Vasalor Statue. “How... what...”
+
+“Shh. All that matters is we got to spend some time together after so long.” Dwarf Ren said. “I'm glad that you're not angry that I can cancel the supreme power your breasts had over me.”
+
+Ereka chuckled. “You can feel how happy I am that they still work and you need to cancel their effect on you.”
+
+Dwarf Ren gave her a kiss. “I think you need to get back to work.”
+
+“I really should.” Ereka said. “Managing a growing House is still time consuming.”
+
+“I was about to say that you don't know how proud I am that you can do it; but, you can feel how proud I am of you.”
+
+“I can.” Ereka said and sat up, and her hand touched the side of his face. “Thank you.”
+
+“No, my Lady.” Dwarf Ren took the hand and kissed the inside of the wrist. “Thank you.”
+
+Ereka's face flushed red at the intimate contact. “R-Ren, you...”
+
+“We should get dressed. I think we are arriving at our destination.” Dwarf Ren said as Princess came to a stop next to the Main House at House Neram.
+
+“I suppose we should...” Ereka started to say, then their Auras merged with the artificial one around the Main House and they felt someone's panic. They equipped their clothing and stepped out of the carriage. Ereka landed on the ground and Dwarf Ren was a foot higher in the air. They quickly went inside with both Teepo and Artemis behind them and they saw a frantic receptionist.
+
+“OH! Lady Ereka! Thank goodness you're here!”
+
+“What is it?” Ereka asked.
+
+“The sending square! The queen! She's giving birth almost three weeks early!”
+
+“That's great!” Ereka said. “Why are you panicking?”
+
+“There's trouble with it!”
+
+“Say no more.” Dwarf Ren said and checked the All-Seeing Mirror. “Artrude is free.” He said and cast a portal.
+
+“I'll stay here.” Artemis said as Teepo landed on Dwarf Ren's shoulder. “I doubt I'd contribute to calm if I showed up there.”
+
+Dwarf Ren chuckled. “Understood.” He said and stepped through the portal. “Artrude, the queen is giving birth right now.”
+
+“Lead the way.” Artrude said. “Malenka, we're stepping out for a while.”
+
+“If you need anything...” Malenka said, and Artrude nodded slightly.
+
+Dwarf Ren checked the All-Seeing Mirror for where Narhilda was, them cast another portal. He and Artrude stepped through and no one noticed. Several healers were there and Dwarf Ren felt their panic.
+
+“STOP!” Dwarf Ren commanded, and everyone within his Aura stopped moving. “Calm down.”
+
+They all visibly relaxed as their emotions calmed down.
+
+“You can move now.” Dwarf Ren commanded, and they all sighed as they were released.
+
+“Ren! What are you... is that a beard?” Barnar asked.
+
+“R-Ren!” Narhilda gasped. “N-no... he... he's banished!”
+
+“Make a hole.” Artrude commanded and the healers around the bed moved aside and Narhilda saw him.
+
+“N-no... it... it's not... possible! AGH!” Narhilda grabbed her belly and screamed in pain.
+
+“If anyone in a House, or previously in a House, is suffering pain or bodily harm or is in peril, by law I can come into the dwarf lands to provide aid when I can.” Dwarf Ren said. “Since it's the heir to the throne, that supersedes any and all other concerns.”
+
+“B-but... banish...”
+
+“Forget about that for now.” Dwarf Ren said. “Artrude is here to help.”
+
+Artrude knelt between Narhilda's legs and examined her. “I'll need the All-Seeing Mirror.”
+
+Ren asked it for a view inside Narhilda's belly and made it twice as big, which made all the healers gasp when they saw inside a patient's body.
+
+“Oh, damn.” Artrude said.
+
+“What... is it?” Narhilda said.
+
+“They're fighting for who's coming out first.” Artrude said in disbelief.
+
+“Wh-wh-WHAT?!?” Narhilda yelled.
+
+“You're having twins, Your Highness.” Artrude said. “I'm sorry, but I have to end the fight before they kill each other.”
+
+“By the gods.” One of the healers whispered as Artrude carefully applied some numbing liquid and reached inside Narhilda's womb and blocked the babies from fighting, then pulled on one. Dwarf Ren felt the joy of one baby and the disgruntled feeling of the other one. It didn't take long for the first one to come out after that encouragement, though.
+
+“IT'S A BOY!” One of the healers yelled as she saw the brown-eyed baby. “The new king is a boy!”
+
+He was bald and had a big smile on his face. A healer came over and assisted while Artrude made sure the baby was fine and breathing, then handed it over to the assistant to be cleaned and swaddled. The next baby slid right out, now that the competition was over, and those that saw it were quite surprised.
+
+It was a girl.
+
+She looked cute as a button and had a full head of fluffy brown hair. Artrude took care of her and checked her over, then discovered the baby had silvery-blue eyes. She quickly glanced at Ren, who was still staring at the All-Seeing Mirror and inside the womb. Without a word, Artrude handed the baby off to another healer to be cleaned and swaddled, then kept doing her work on Narhilda.
+
+Dwarf Ren saw the two sacks and umbilical cords fade from the All-Seeing Mirror and stored it. Both babies were given to Narhilda to hold, and he stepped close to look down at them.
+
+“Congratulations, Your Highness.” Dwarf Ren said and beamed a smile at the new mother. “Both babies are healthy and...” He stopped talking when the baby girl opened her eyes to look at him and he saw his own silvery-blue eyes. “No way!”
+
+“Dodge and catch!” Teepo said and Dwarf Ren stepped to the side slightly and caught the sword before it came close to the bed or its occupants.
+
+“What the hell are you doing?!?” Dwarf Ren asked and crushed the sword, then tossed it aside. “You almost hit Narhilda and the babies with that!”
+
+“You... slept with... my WIFE!” Barnar panted, because the attack had drained a lot of his Stamina.
+
+“She wasn't your wife at the time!” Dwarf Ren nearly yelled. “Plus, even if the queen hadn't instituted skipping the courtship phase for previously married people, I still could have slept with her legally!”
+
+Barnar couldn't refute that, since as long as it was before the official ceremony, both he and Narhilda could do what they wanted.
+
+“You... baby...” Narhilda whispered and stared at the two babies she held in her arms.
+
+“Yes, and I didn't think that was possible!” Dwarf Ren exclaimed. “I was an elfling! Nathalia and I had been sleeping together for a long time and nothing came of it!” He said, almost ranting. “It wasn't until recently that I took her into my Sanctuary, polymorphed into the dwarf you see before you now, then we successfully made a baby!”
+
+“So, that's... how you...” Narhilda panted.
+
+“Don't talk.” Artrude said and glared at Ren. “You need to calm down. This was a hard labour for the queen and she doesn't need you idiots flailing about and yelling.”
+
+Dwarf Ren opened his mouth to respond, took a deep breath, then touched Artrude's shoulder. “If I may?”
+
+Artrude thought about saying no, then nodded.
+
+Dwarf Ren stepped around to the side of the bed. “Narhilda...”
+
+All the healers and Barnar gasped and started to feel outrage at his use of her given name, so he turned to look at them.
+
+“She's already married to someone else and gave birth to my child.” Dwarf Ren said. “I could shout her name at the top of my lungs in the middle of town and it wouldn't make any difference.”
+
+Their feelings eased away at that realization, and he turned back to Narhilda. His hand touched the top of the baby girl's head and ruffled her hair, then his hand reached out to caress the side of Narhilda's face. She closed her eyes and didn't tell him no, so he poured Healing, Reassurance, and Energize into her while Artrude tended to her other area and healed her there.
+
+“Narhilda, I love you.” Dwarf Ren said and everyone in the room gasped. “I know you don't love me; but, we did make a baby together.” He said. “I'm going to come and visit, probably sometime in either the mornings or the evenings, depending on the day.”
+
+“Hey!” Barnar exclaimed.
+
+“It's not a threat or a promise, since I'm pretty busy during the day and have Adventurer's business at night.” Dwarf Ren explained. “This is my third child, and she is no less important to me than the first two, so I'll do my best to visit when I can.”
+
+“Did... you say... third child?” Narhilda said, her words and emotions much stronger than they were a moment ago.
+
+“The Deity of Fire was my first.” Dwarf Ren said, and complete silence filled the room. “Renardos is my second, and he's the cutest thing.” He said and produced a picture of him.
+
+“He... looks like... you.” Narhilda said.
+
+“...and a heck of a lot like my daughter that you hold in your arms.” Dwarf Ren said and laid the picture on the nightstand by the bed.
+
+“R-Ren... I... if I'd known...”
+
+“You still would have done what you did.” Dwarf Ren said to her and everyone's surprise. “You didn't want me to intrude on you and Barnar, and I don't hold that against you.”
+
+“But...”
+
+“It hurt a lot when you tossed me aside so casually, even though you were already pushing me away by the time Fritz entrusted you with the kingdom.”
+
+“He did that because of you.”
+
+“It doesn't matter how it happened.” Dwarf Ren said. “All that matters is that it did, and things changed, and other things happened, and now here we are.” He said. “How we go from here is up to you.”
+
+“But... you just said...”
+
+“I'll come and visit, but that doesn't mean you have to let me see her or spend time with your children.” Dwarf Ren said. “I'm not trying to throw my weight around or force you to accept me coming into your life like this.”
+
+“But...”
+
+“I'm still going to see her and she will know I'm here and watching over her.” Dwarf Ren said. “The last thing I want... the very last thing I want... is for us to expose her to any animosity between us.”
+
+“H-how?” Narhilda asked. “After everything that's happened...”
+
+“I'll only be a visiting presence and I'll try to help raise her when I can.” Dwarf Ren said. “I won't come here and cause fights, say bad things about you, or even try to take her away from you.”
+
+Everyone took in deep breaths as they realized that he could have taken her without any resistance whatsoever, and Narhilda's eyes filled with tears.
+
+“You're her mother, and she's second in line for the throne.” Dwarf Ren said and moved his hand back to the top of his daughter's head. “I may be her father; but, I don't have any right to deny her rightful heritage.”
+
+“R-Ren...” Narhilda started to say something, then caught her breath as he leaned in.
+
+Dwarf Ren smiled at her spike of desire, then shifted his movement to give her a kiss on the cheek. “Congratulations on making such beautiful babies.” He said and stood up straight. “Please accept these gifts in celebration of their birth.” He said and took out several bracelets, necklaces, and rings with different magical abilities like Protection, Regeneration, Strength, Speed, and Healing in various combinations. “They should keep you spry and healthy, so you can have as much enjoyment raising your children as the dwarf people will enjoy seeing the future rulers grow up.”
+
+“R-Ren, I... you can't just...” Narhilda's tears kept coming.
+
+“Shh. It's okay. Just equip them and you'll keep feeling better.” Dwarf Ren said.
+
+Narhilda did so and took several breaths, then she smiled when she did feel better.
+
+“You're going to need them if you want to keep up with the little darlings.” Dwarf Ren said and stepped back through the air, and Artrude finished her work and stepped back as well. “When they are old enough, I'll give them everything they will ever need for the rest of their lives.”
+
+“Th-them?” Narhilda couldn't wipe her eyes, so Dwarf Ren took out a cloth and wiped them for her.
+
+“I can't spoil one child and not spoil the other, can I?” Dwarf Ren smiled.
+
+“Even though...”
+
+“I won't cause resentment or envy between siblings.” Dwarf Ren said. “You know how much I hate pointless fighting.”
+
+Narhilda was about to comment on that, then closed her mouth and nodded. Dwarf Ren dismissed the Honor popup, since it was negated and his stat was locked. He turned towards Barnar and felt both dismay and sorrow.
+
+“You better do a good job raising them or I won't be happy.” Dwarf Ren said to him, and he felt Barnar focus on him and not Narhilda or the child that wasn't his.
+
+“I know how to raise a kid properly.” Barnar said, almost angrily.
+
+“You mean kids, don't you?” Dwarf Ren asked. “There are two of them. You better treat them equally, since they are both Narhilda's children.”
+
+“You don't have to tell me how to be a parent.” Barnar almost spat.
+
+“Good, because this isn't your fault.” Dwarf Ren said, and he felt surprise from him, and then felt it from everyone else. “It's not Narhilda's fault, either.”
+
+“Are you claiming it, then?” Barnar asked, as if Ren thought he was more manly.
+
+“I don't have to, since no one is at fault.” Dwarf Ren said. “If it makes you feel any better about this whole mess, your son will be king.” He said. “Your son. King of the Dwarves.”
+
+Barnar took in a deep breath and let it out, then did it again. “Yes, it does make me feel better.”
+
+Dwarf Ren motioned for Artrude to follow. “Now that the immediate crisis is over, I need to go.”
+
+“W-wait.” Narhilda said as a portal appeared. “Don't... don't you want to name her?”
+
+“I won't take that honor away from you.” Ren said. “Nathalia named Renardos.”
+
+“Sh-she did?” Narhilda asked, surprised. The other healers in the room and Barnar were also surprised by this.
+
+“If you would honor a humble request, I would like her middle name to be Barbara.” Dwarf Ren said. “That way, she's named after the mother that raised me.”
+
+Narhilda looked at Barnar, and he nodded slightly. “It will be so.”
+
+“Thank you very much.” Dwarf Ren said and his Aura pulsed as it was filled with happiness. Everyone shivered as they felt it, because even though none of them shared his Aura, it was so strong they couldn't help but react. He gave Narhilda a regal bow, ushered Artrude through the portal and stepped through himself, then it disappeared.

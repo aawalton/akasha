@@ -1,0 +1,379 @@
+---
+id: 0b9b5ae1-a0c6-5df9-9e87-c332ad948871
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 198"
+slug: 0027-the-path-of-ascension-chapter-198
+partOf: the-path-of-ascension
+position: 27
+ownLength: 6420
+unit: words
+ownProgress: 6420
+publishedAt: 2023-01-27
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1098723/the-path-of-ascension-chapter-198"
+royalRoadId: "1098723"
+markedReadAt: "2026-06-29T19:18:23.085Z"
+---
+
+Chapter 198
+
+Matt walked through an alley and shied away from the shadows that reached out to try and touch him. It was just an instinct, but something told him that if he allowed the shadows to touch him, he’d never be able to leave.
+
+At first, it was easy to casually walk along, but with each step he took, it became harder and harder to progress. Soon, he was jumping and flipping, using every bit of his Tier 1000 body’s prowess to avoid the grasping shadows.
+
+Just as the shadows were about to finally entrap him, he felt someone push him from the side, and he woke up with a start.
+
+Liz had her face buried into her pillow and murmured, “Bad dream. Tossing and turning.”
+
+Matt kissed her forearm draped across his chest, then slipped out from under it and into the living room.
+
+There, he found Aster standing guard. Which meant she was curled around a carton of ice cream and using her spiritual perception to watch their surroundings.
+
+With their shielding, their house was nearly impervious from attacks, but nearly impervious wasn’t enough this deep in Minkalla.
+
+Aster felt him arrive then whined in what he interpreted as a question, and he quietly explained, “Weird nightmare. I was super strong but trapped in an alley, and shadows were trying to trap me forever. So yeah, I’ll give you some company for a bit until I settle down.”
+
+His bond picked up her ice cream and settled into his lap, where he brushed her fur while she ate her treat.
+
+While he sat there, he contemplated his dream and the implications it carried, and what they said about himself.
+
+If his fading memories of the dream were right, he had been something like Tier 1000, and impossibly strong. But despite all that power, he had still been cornered and captured like a mundane human, in the end.
+
+He interpreted the dream as his brain trying to reconcile the danger of Minkalla and the realization that eventually, the Emperor and other high Tier people like Luna wouldn’t be able to protect him. Soon, he would be in danger everywhere he went, in every waking moment.
+
+Minkalla was the first time since he had gotten a manager that his life was in immediate danger, and there was no one who could pull him out of the fire if it got too hot.
+
+The idea of death had never been far, but Matt and his team had been seriously wounded, and now, they were on a floor where they could actually run out of mana for their skills if they weren't careful.
+
+Even his Talent couldn't fix the issue when the cost of a skill became more than an entire mana pool.
+
+This floor had the possibility of being a hard stop for them, if they weren't careful.
+
+It was a degree of danger that Matt had known about but hadn't really conceptualized as he should have.
+
+But while they were in Minkalla, there was nothing they could do but push through. So, after he mulled over the feelings he was left with, he did his best to push them out of his mind.
+
+Without his AI to translate Aster’s yips, he was forced to rely on their bond, but they didn’t really need any more than that. She was comforting him, and wanted him to know that it was just a bad dream, which was quite appreciated. The follow up thoughts of her wanting a warm brownie with her ice cream were also meant to comfort him, he was sure.
+
+Aster didn’t have a selfish bone in her body after all. Not a single one.
+
+They were watching a movie when Susanne came out to take over the guard shift, and Matt took the opportunity to go back to sleep himself.
+
+After brewing Susanne some coffee, he slipped back into bed with Liz and the leg cooler that was Aster.
+
+When he woke up the second time, after a dreamless nap, they set off quickly after a small bite to eat.
+
+The second level of this floor was better than the maze they had been stuck in, but the waves of rats that they were up against had forced them to dip into their spell usage, despite their trying to rely mostly on items.
+
+It could have been worse, admittedly. The rats were swarm monsters, and were quite weak individually, meaning Liz could just cast [Blood Sprites] and allow the multiplying nature of the spell to wipe out most of the horde.
+
+Even then, they had to deal with the next wave as they pushed forward, which quickly made the tactic untenable. Though, after clearing an area of the rats, they were able to slowly bait the rest into the room and finish them off in smaller numbers that they could safely handle.
+
+Susanne got to test out [Crescent Sweep] for the first time, and she seemed to deeply enjoy the ability to make her sword spin through dozens of rats at a time. The ability to summon a second copy of her manifestation and use that for a potent short ranged attack, while also attacking normally, would catch a lot of people off guard.
+
+After they finished the labyrinth ruin and entered a forest, they decided to retreat and take a break for a few hours to get some sleep.
+
+Without their buffing spells, they were spending more energy with each fight, and without [Endurance], they were unable to magically purge the exhaustion from their bodies either.
+
+They could use potions to help, but that would burn through their limited supply, and even potions couldn’t be used one after another without side effects.
+
+So they went without.
+
+It slowed them down a little, but everyone should have nearly the same problems and restrictions.
+
+As they moved into the forest, Matt gripped his sword with one hand, and his staff in his off-hand, prepared to cast spells the second something attacked them.
+
+Except, there was nothing.
+
+As they sped up slightly, they discovered the aftermath of battle in the form of trampled trees and shrubbery, but it had been long enough ago that Minkalla already reclaimed everything.
+
+At nearly the same time, they felt a bright beacon of Genesis Energy ahead of them, like a shining star to their spiritual sense, as soon as they came into range. It felt like one single person, but they couldn’t be too sure.
+
+It took the four of them nearly half an hour, but eventually, they encountered the nude man that they had seen in the second floor's safe room, fighting a swarm of monkeys with various colored fur.
+
+Not wanting to seem like they were going to attack him, they stopped and watched. As they did so, Matt whistled.
+
+The man was a fantastic fighter, which he would have to be without any weapons or armor.
+
+Each attack missed him by inches; the man was just a bit faster than all of his opponents, and somehow was able to keep track of the entire troop during the skirmish.
+
+After dodging the dozen or so monkeys' attacks for roughly fifteen seconds, he finally launched his own counter attack, and his fist lashed out like a falling meteor that sought to wipe out all life on the planet.
+
+As his fist landed, all of the monkeys exploded at the same time in a display of gore.
+
+Even before the bodies hit the ground, he spun and faced them.
+
+In the corporation language, he asked something, but seeing their non reaction, he changed to the Republicans’ language. Seeing their blank stares, he finally asked in perfect Empire, “Is there something I can help you with?”
+
+Once more, Matt was surprised. The man’s Empire was textbook perfect, despite the man not using an AI to translate, which was impressive. Even Luna hadn’t bothered to teach them the other Great Powers’ languages beyond a few key words, having considered it a waste of their limited time.
+
+The man seemed to be avoiding confrontation by denying anyone the ability to determine where he was from, which was an interesting strategy. Few people would be willing to attack members of their own nation; national loyalty ran strong in many cultivators, so plausible deniability on his origin would at the least give people pause. Just like what was happening now.
+
+Matt assumed that the man must have a spatial storage implanted in his body somewhere, as there would be no way that anyone would be willing to go through Minkalla without the ability to carry items around. In addition to being a waste of loot, all of the growth item floors wouldn’t do anything if one didn’t have an item to use them on.
+
+Liz shook her head. “We were just looking for monsters to fight, and stumbled upon your battle.”
+
+The man nodded and pointed to their right. “From your direction, I assume you came from the rat caves?” At Liz’s nod, he continued, “There’s a Horse-Lizard ruin that way, if you wish. Or if you would rather fight for this ruin, I will welcome your challenge.”
+
+Liz shook her head. “Not necessary. We’ll take our leave then.”
+
+Having said that, the four of them turned and started walking in the indicated direction, while keeping a portion of their spiritual sense on the nude man. He didn’t make any aggressive moves, and after they passed through the treeline, he similarly turned around and moved deeper into the ruin.
+
+As they moved in the direction he had indicated, they were attacked by a few of the monkeys that hadn't been defeated by the naked man, and they slowly killed their way forward.
+
+Upon reaching the dividing line between ruins, the surroundings went from a lush forest to a grassy plain, where they found a herd of horses with scales and long, thick tails.
+
+Matt shot a [Mana Bolt] at the nearest one, and the entire herd of twenty turned on them and started charging. If it had been a normal rush forward, that would have been fine, but they all used [Charge] to accelerate their mad dash. They seemed to be pouring mana into the skill, because they continued to run even faster as they came closer, each step carrying them further than the last.
+
+Matt and the others simply took to the sky, and used the height advantage to kill the monsters that tried to curve upward with their Concepts. While [Charge] was a dangerous move, it had the weakness of making it hard to change one's direction, and they ruthlessly took advantage of that fact.
+
+Sadly, the horse lizards weren’t mindless beasts. Seeing that their first collective charge only yield aerial counterattacks, they canceled their spells and turned in various directions before trying once more to use [Charge] and attack them. Being in the air and having three different attack vectors to worry about increased the threat of the horses’ advance, but Matt and his team didn’t have any issues in dodging the monsters, even without their AI tracking them.
+
+There were a few close calls, but they finished the horses off and started to loot the items they dropped, when all four of them felt the new arrivals with their spiritual senses. A group of ten people came out from the forest and immediately started casting spells directed at them.
+
+Matt didn’t hesitate to cast [Bulwark], relying on the spell to defend his allies. Even still, he was staggered by the damage that the spells did to his own. Their attackers weren’t holding anything back in their initial bombardment.
+
+Aster immediately cast [Hail] and used the ice as a screen to cover the follow up attacks, while gathering the ice on the ground and sending it forward at the their attackers in a small wave.
+
+Their attackers split at the sight of the wave, and in two groups of five, tried to flank and pincer them. But Matt and Aster broke off to face one group, while Liz and Susanne held off the other.
+
+A five versus two wasn’t impossible, but it would be a hard fight, and Matt disregarded any concept of rationing his spells usage during the engagement.
+
+As he closed in on the group, an arrow glowing with silver mana raced towards him, but he summoned a shield from his spatial ring and used it to block the attack. He was forced to toss the shield away with his Concept, as he felt a sense of danger from the arrow. Before it did anything, he quickly pushed it into the group of enemy cultivators. Half a second later, it exploded in a blinding flash, which unfortunately didn’t seem to harm the other group.
+
+That forced them to scatter, and he charged at the closest attacker, a woman who was blocking for her team with a massive tower shield.
+
+Matt wasn’t willing to deal with these people, and quickly slapped a talisman on the shield before deflecting their retaliatory attack with his sword. Spinning, he rushed to where two of the attackers were trying to overwhelm Aster.
+
+The fox in question was darting around the battlefield, keeping a number of their enemies tied up in fending off her [Snowblind] afterimages, which were empowered by a fog of snow coming from her tiara.
+
+Using that slight distraction to his advantage, Matt drove his sword forward in a lunge that skittered off the armor of the shortsword wielder.
+
+The other woman tried to rush Aster, but was met with a snowflake the size of her chest that appeared and impaled her, then started to spin and cut through the woman like a saw blade.
+
+That seemed to earn the group's ire, and while a healer went to see to their mutilated teammate, two of the others tried to attack Aster in retaliation.
+
+Seeing the woman’s body start to pull itself together, Matt lashed out at the healer with a [Mana Slash], but one of the men attacking Aster threw themselves in front of the crescent of mana, trying to protect their healer.
+
+Seeing his attack blocked, Matt started casting [Shield Shatter], and allowed a few hundred mana to flow into the spell before he brought the blade down on the man's shield.
+
+The resulting explosion sent the man flying, gravely injured, but he wasn’t dead. To make matters worse, the healer had already repaired most of the obvious damage for the first woman who Aster nearly killed.
+
+The same woman punched out at Matt and broke one of his ribs with the strike, despite the protection from [Cracked Phantom Armor] and his physical armor.
+
+Caught by surprise, Matt dodged the next attack, and was about to bring his longsword around at the woman when he caught an arrow in his arm that interrupted his swing.
+
+Cursing, he pulled back and tossed a half dozen [Fireball] talismans out of his spatial ring and activated them with a thought.
+
+The streams of fire went in nearly every direction, and seemed like a chaotic and uncoordinated attack that would miss each of the attackers. But Matt used [Fire Manipulation], and at the last second, caused all of the spells to turn and slam into them.
+
+That earned him a second of reprieve, and gave Aster a second to cast [Ice Spear] at the healer, who was recoiling from the ball of fire that had just hit her in the chest.
+
+The shard of ice exploded inside her from Aster’s [Shatter], and Matt ensured that the woman was dead with a swipe of his blade. Unfortunately, he had had to take a [Shield Bash] to the arm in order to secure the kill.
+
+The woman who Aster nearly killed with her giant snowflake tried to punch Matt in the side again, but he kicked out and tried to break her overextended knee, only to find her body was made out of what felt like concrete.
+
+With his failed attack, he caught a punch to the face and felt his jaw pop out of place, spitting out a tooth a moment later.
+
+Despite that, he didn’t allow the pain to overwhelm him, and quickly brought his longsword up and around, cutting the woman's arm off at the elbow.
+
+The precisely aimed strike ignored the woman’s stronger than usual bones, and earned him some breathing room, which he used to twist and swing his sword around at the man who was rushing his rear.
+
+His [Mana Slash] was cast at the last second, and he used its resulting explosion to tackle his remaining assailant with a burst of [Mage’s Retreat]. With the extra boost, he was able to overpower the woman. He had to send more mana into the spell than he expected, as the woman was far stronger than he had initially thought.
+
+She felt like a Tier 14, despite only being a Tier 12, and when Matt felt her strength increase as she activated her own spell, he sent mana into his gravity gauntlets while morphing the first layer of [Cracked Phantom Armor]’s gauntlets into spikes.
+
+His fist landed on her like a falling star, brutalizing her face and shoving her nose into her brain, hopefully bypassing her abnormally tough bones. Quickly turning his gauntlets off, he repelled her head with his concept, then reversed the polarity of the force to land a second blow that should have liquefied her brain. The finishing strike left him absolutely covered in blood and gore.
+
+Before he could revel in his victory, he had to deflect a glowing shield that sought to decapitate him, diverting it with his sword to land on the neck of the woman he had just killed.
+
+He had been taught well to never let a good blow go to waste.
+
+At the same time, he felt a burst of happiness from Aster, and an accompanying burst of Genesis Energy, which told him that she had finally succeeded in taking out the archer who had been peppering them.
+
+Regaining his footing and sliding back, Matt took a slash on his leg in order to lash out with a heavy chop that carved a furrow through the opposing man’s breastplate.
+
+With a moment of reprieve, Matt cast [Cracked Mana Trap] without any additional mana in order to delay the man for a few seconds while his latest assailant’s ally closed in on him.
+
+Even with that, he was forced to drop his blade as the remaining woman tried to impale him with a short sword. Using both his Concept’s repulsion effect and his forearm, he deflected the blade upward and punched with everything he had.
+
+Matt felt a bone in his own fist break with the impact, but followed through with the attack properly, and felt the woman's ribs give under his blow.
+
+Fighting defensively, he exchanged a few more attacks, buying Aster enough time to come back and change the fight from a two on one to a two on two. With her assistance, it only took them a few seconds to overwhelm their attackers and finish them off.
+
+Picking up his sword, Matt and Aster rushed over to help Liz and Susanne finish off their two remaining opponents.
+
+After a few bloody minutes, the final attackers fell, but they didn’t go down without leaving a few injuries on the four of them.
+
+Aster had an arrow through her left rear leg, Liz had a set of needles that peppered her front like she had a run-in with a pin cushion, and Susanne was holding in her intestines in with her hand. She had nearly been gutted in the initial exchange, when a woman she cut didn’t go down as expected.
+
+Matt had to gesture at his jaw to get Liz’s assistance in setting the bone back in place with a pop.
+
+He was just about to thank her when a group of five rushed out of the forest at them. They had likely been waiting for the fighting to finish so that they could finish off the weakened survivors.
+
+“Nope, fuck this, and fuck you.” Matt accompanied his words with a short burst of [Cracked Mana Spear] that cut through the five charging people. They threw up their defensive abilities commendably quickly, but Matt was out of patience for half measures and narrow wins. An [Earth Wall] cracked like it was made of flint, a [Water Bubble] popped almost as soon as it formed, and the last man’s tower shield managed to hold Matt off for nearly a quarter second before it too buckled.
+
+Liz clearly agreed, as their blood crawled out of their bodies and started stabbing them. A few bursts of Genesis Energy told them the group had finally died.
+
+Despite their injuries, they took a few seconds to loot the slowly fading bodies of their gear and items.
+
+Dropping their house, Matt staggered inside and started charging the reserves to counteract the shielding he had going at full power, even as Liz cleaned off his island in the kitchen, where she helped Susanne lay down.
+
+Instead of cutting away her armor, she simply retracted it into her spatial ring, allowing Liz to get to work and Matt to act as an assistant.
+
+They weren’t by any means professional healers, but they needed to do more than dump a healing potion on a gut wound. While the risk of sepsis and its related infections wasn’t high for someone of their Tier, they still needed to flush her abdomen before they started properly healing her.
+
+As they worked, Aster limped over and nuzzled Susanne, who scratched the fox.
+
+Matt only kept half an ear out as Susanne talked to Aster, despite not being able to understand her yips and chortles.
+
+The only good thing about Susanne's injury was that it was large, and gave the two amateur healers more than enough room to reattach and heal the cut intestines. The gaping wound made it a little easier to wash the waste that had leaked out away from her abdomen.
+
+Once they double and then triple checked that Susanne didn’t have any remaining waste, they dumped a healing potion in her and stapled the wound closed before pouring a second healing potion on a bandage, and wrapping her stomach.
+
+After that, a sore Susanne helped him pull out the hundreds of tiny needles that had perforated Liz’s body with tweezers. While it was slow and tedious work, none of the needles were in her face, which would have been a real cause for concern. They had seemingly gone through her armor as if it wasn’t there, though they didn’t seem to have done much damage to her flesh. It took them quite a while to find each and every one of the tiny needles, but the work itself wasn’t all that demanding, which at least allowed them to chat.
+
+“I agree. That group was way too strong,” Liz murmured as Aster yipped something.
+
+Susanne agreed. “Yeahhhh, I don’t think I’ve ever seen a group that strong at Tier 12. I’m assuming that their armor must be enchanted to the brim.”
+
+Matt shook his head. “No, that's not it. It was their bodies that were strong, not their gear. I only checked it out a little before putting it away. I got a good enough look to prove that it's not that. While it's top of the line, it's not enough to explain their durability.”
+
+Aster whined, and Liz translated, “Aster asked if maybe they were someone's rich kids or the like?”
+
+Matt mulled that over, but disagreed. “That doesn't make sense. Why would some group geared to the teeth ambush us outright, and then not even try to flee when the tide of the fight turned away from them. Even if they were super confident in their gear, they should have tried to run once their healer dropped.”
+
+Liz threw out her own idea despite Matt pulling needles from her neck. “Maybe they were a low Tier hit squad.”
+
+Susanne made a noise of disagreement, which Aster seemed to back up, but Liz defended her idea. “Think about it. Most death squads are strong Tier 14 teams who are then kitted out after being trained to counter a few Pather equivalents. But what if the team was extra strong, and you wanted them to kill people and also get good rewards? Why not send them in as Tier 12’s? It would even get them underestimated by the majority of people who would be incredibly suspicious of any higher Tier team.”
+
+Matt didn’t think she was right, but he also didn’t have a better explanation, so he left it at that.
+
+Anything more they could learn would be from the group's belongings, and they needed to finish healing before they started going through loot.
+
+After Liz’s needles were pulled out, they pulled the arrows out of Aster and Matt.
+
+His broken rib was left to its own devices after he drank a healing potion.
+
+They could have used spells or even talismans, but they all suspected that their talismans would be nerfed in some way soon, and their spells were meant for emergencies until they left this floor.
+
+This was only the second level of this floor, and they had already encountered four teams, three of which attacked them on sight.
+
+It wasn’t a comforting trend, as it only promised to get worse as they slowed down and ventured deeper, where everyone was pushed further together.
+
+As Matt lay down on the floor, he concentrated on keeping the mana in their reserves topped up while working his still sore jaw.
+
+Liz started going through the first group's gear, but it was indistinct and didn’t have any telltale signs from any of the Great Powers. But like Matt had said earlier, it was well crafted gear, about as good as Minkalla would allow.
+
+Thankfully, Tier 14 materials and enchantments could only be so strong within the restrictions of the planet, which prevented teams like this from coming in with Tier 20 disposable weapons, and just killing everyone they encountered with wealth.
+
+The second team that attacked them, and had been killed by Matt’s [Cracked Mana Spear], were a different story altogether.
+
+They, unlike the first group, were very obviously Republican delvers, judging by their gear and items. As far as Matt could tell from the quality of their gear, the team had been on the Republican equivalent of the Path, though they weren’t notable enough to have been included in any of the briefings that Matt had received. Unfortunately for them, they were a case study in the dangers of delving too deep and too greedily; all their years of hard work were wasted because of a single bad decision.
+
+Matt was just about to take a nap when he felt a ripple of Genesis Energy flow through his spirit, and it traveled with the mana he was sending into the house.
+
+He jerked up, despite the pain, and started concentrating as much as he could on the sensation of the house becoming a growth item.
+
+As his Genesis Energy flowed out of his spirit, he was able to follow it as it spread like an infection through the house. It wasn’t a perfect description, but it was the best way he could describe the change.
+
+The Genesis Energy from his spirit spread through the house’s physical material and the accompanying spirit, but where it passed through, the material was changed. The spirit and materials of the items were strengthened and reinforced, while also binding to him like his other growth items. From their relatively ordinary house, things shifted and twisted as the Genesis Energy worked its magic.
+
+Matt could feel as the unique energy completed its first pass and encompassed the physical house, before it started making leaps.
+
+First, it jumped to his kitchen and started flowing through his range, and then to his fridge, and then to his spatially expanded cabinets. Even as he watched, the enchantments he had personally laid out morphed and changed. The changes weren’t large, and as far as he could tell, the function of the runes didn’t change. Just like he observed with Susanne’s armor binding, it was like print letters being changed to cursive.
+
+After his kitchen was absorbed into the collective whole that was the house, both his and Liz’s work stations started to be absorbed at the same time.
+
+He tried to concentrate on both, but focused most of his attention on his own room. What he found interesting was that he could feel his workstation itself bind to the room, and then to the house as a whole. It was like a nested binding that made absolutely no sense when he considered what he knew about linking enchantments, but the Genesis Energy seemed to easily accomplish the task anyways.
+
+At the same time, as they were bound, he noticed that his workstation did what he could only call ‘settling in’. It was like they became unified and singular, despite remaining distinct items. With a thought, Matt knew that he could merge the two tables that made up an ‘L’ shaped desk into a seamless whole, and then break them apart once again, but he wasn’t so limited as to just return them into the original shapes. No, he was able to break off just a foot of the greater whole to create a smaller table that he could move around.
+
+His tools also seemed to melt away into the workshop, and he knew that he could summon a carving pen at a whim, as long as he was inside the room.
+
+As far as he could tell, Liz’s workshop had the same things happen to it, but he wasn’t nearly as familiar with it as he was his own, and he wasn’t able to really investigate the changes there before both of the bedrooms started transforming.
+
+The changes were smaller, but like the workshops, the furniture merged into one with the room as the Genesis Energy passed through.
+
+As it hit the bathroom, he paused to inspect the changes a little more thoroughly, but found nothing new there either.
+
+Watching the living room, and finally, the mana storage room change, Matt tried to commit the changes and how they happened to his memory, so he could try and replicate them eventually.
+
+He paid extra attention to the house as a whole as he felt the Genesis Energy finishing its job.
+
+Like with every item Minkalla converted to a growth item, they all got something extra added, and he wanted to see how that happened.
+
+From the runes and enchantments he knew so well, he felt something extra taking form, like a whale rising from the depths and pushing the water above it away. That was the best way he could describe the way runes seemed to appear out of the Genesis Energy that had infiltrated the house's spirit.
+
+Then as the new runes appeared, the Genesis Energy retreated back into his spirit, signaling that the conversion was over, and weighed down on his spirit like a lead blanket.
+
+As it ended, Matt started making notes on a pad of paper he pulled out of his spatial ring and jotted down everything he could while it was still fresh in his memory.
+
+The instant his pen stopped, Aster yipped, and Liz asked, “What did the house get?”
+
+Matt blinked at them before shrugging. “Don't know. Haven't checked yet. I was trying to note down what I felt first.”
+
+Liz rolled her eyes so hard she fell back into the couch while Aster flopped into her.
+
+Susanne tried to suppress her laughter at seeing their exasperation, as her barely healed abdomen would have made laughing quite painful, and he took the opportunity to inspect the house and the feeling it gave him.
+
+He twitched slightly as he realized what the house actually did.
+
+As he tried to speak, he ended up stammering, “What kind of growth item needs stuff like this? That's stupid. How does that even count?”
+
+Seeing the two other humans' amused expressions and feeling his bond, Matt scooped up and blew a raspberry on her head. “The house eats other houses to upgrade itself and expand. I also sense that we can upgrade individual parts, like our workshops, by buying a new one and letting the house absorb it. Frankly, I'm disappointed to the extreme. We’ll need to buy new houses anyway, so why bind as a growth item? We could have just used the new house. It feels pointless.”
+
+Liz rubbed his shoulder and stopped laughing long enough to ask, “Would you really want a new house anyway? You love this one so much.”
+
+Matt tsked at her point as he couldn’t deny it. “I like it because it’s mine. Future houses would also be mine… but you aren’t wrong, I do like this one. I just wish it had a better ability..”
+
+Aster, on the other hand, squirmed free of his grasp and into their storage area before returning with a ring in her mouth.
+
+As Matt grabbed it, he realized that she had brought the house they had found in the third-floor safe rooms area.
+
+It was worth a test, and they all piled out of the house to drop the other house next to their original one.
+
+The other house was smaller than their own, but even more opulent and well crafted.
+
+Matt turned to Susanne, as she also had a stake in this house, so he couldn't just let his own house absorb it without her approval.
+
+He didn’t even need to say anything before she gestured for him to continue.
+
+With her go ahead, he thought of their house absorbing the new house, and it did exactly that.
+
+Their houses seemed to stretch slightly before its edge merged with the smaller house, and then it started to absorb the smaller house like a slime eating its prey.
+
+It was slightly horrifying to watch, but Matt was more occupied with the feedback that the house was giving him.
+
+He found it interesting that he could expand the individual rooms of the house, or add entirely new rooms with the additional material from the house being consumed, but he immediately rejected that option.
+
+Their house was already as large as it could be with their current spatial ring, and if it got any larger, they wouldn't be able to take it with them, but thankfully, he was able to guide the upgrade.
+
+Instead of enlarging the house itself, he was able to send the materials into their own house and improve various functions.
+
+Their old shower and bathroom was replaced with the smaller house's full tub and better enchantment suite, even though he was forced to expand the room slightly into their bedroom closet. They really didn’t need the closet space anymore, because they had more spatial rings than they knew what to do with. He likely would have moved the walls around anyways, after getting out of Minkalla, so doing it now with no effort was a minor but welcome boon.
+
+After inspecting the kitchen, he kept his own appliances. The other house had much better appliances, but they weren’t built to the same standard sizing as he was used to. He would have had to spend a lot of effort to directly incorporate them to his original house, while also giving up some countertop space. Instead, he was able to direct his house to improve the existing kitchen with the cannibalized materials of the other house, adding in better self cleaning functions and spots on the countertop that would keep plates placed on them warm. All of the appliances were improved to varying degrees and effects. Though, he always thought it was a bit of a waste every time he saw that something became more mana efficient.
+
+Matt then felt prompted to make a decision about the emptied armory in the smaller house, but as he couldn't just add the room to their house, he was forced to sacrifice it as well.
+
+That turned out to be the right decision, as he felt his house’s shield generators become more efficient and adaptive to outside attacks. There was some slight feeling from consuming the armory that the house would be able to attack back, if fed a few more similar houses.
+
+Even better, he felt their mana storage crystal absorb the other house’s, letting it store even more mana in the same volume.
+
+That, more than anything else, was a boon sent by Minkalla itself. It nearly ensured that he would never have an issue with finding ways to increase his own mana pool as he Tiered up, if his read on how much additional capacity it had gained was right.
+
+It wouldn’t have been his first option to convert into a growth item, but Matt was content with how things turned out. He did love his house, and knew himself well enough that he would have pushed them to continue living in it long after they could have afforded something better.
+
+But this was a good solution, even if he would have preferred to bond with… well, pretty much any of his other commonly-used items over it.
+
+He just wished they weren't constrained by spatial ring size, and that he could add more rooms. Some of the other teams they had killed and looted had also had houses that they could absorb, if only their rings had the space to hold the upgrades.
+
+As they entered back into the house, Matt started showing off the new abilities, and even learned that he could grant people permission to change things like he could.
+
+He seemed to have greater rights, and could lock things down so others couldn't change it, but it made it convenient for Liz so she could change her workshop, and allowed Susanne to rearrange her room with a thought.
+
+They spent half a day recovering before they finally put the house away and continued their slaughter of the horse lizards.
+
+Even injured and limited on spells, the Tier 14 monsters were no direct threat to them as long as they were careful, and didn’t pull too many teams at once.
+
+As fun as the new items were, they needed to try and pull as far ahead as they could to avoid having to fight over Genesis Energy with other teams.

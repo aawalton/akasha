@@ -1,0 +1,110 @@
+---
+id: be63d2f4-13b8-58fb-af8e-f017636f798a
+page-type-slug: story-chapter-royal-road
+title: "015 - Horned Ewe"
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 15
+ownLength: 1845
+unit: words
+publishedAt: 2026-05-06
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3361060/015-horned-ewe"
+royalRoadId: "3361060"
+---
+
+I learned multiple facts in quick succession. There was a reason that animals who developed such truly ridiculous running speeds evolved in wide open plains. 55 miles per hour was not a reasonable speed to run in the streets of New York. Especially not if they were clogged with cars, construction sites, and the occasional human corpse.
+
+That last point led to the interesting realization that an impala could jump high. Very high. I'd learned that when I nearly ran over a corpse and ended up jumping ten feet into the air. That's not a height to jump when you don't have soft ground and grass to land on. My health bar dented from the ensuing impact. The corpses on the streets were a horrible sight. You could tell who died because they'd been outside during the 'scramble'. Even their corpses looked scrambled. I avoided looking at them.
+
+Furthermore impalas have eyes that work very differently than a human's. I could see nearly all around me, with only a tiny blind spot directly behind me. Their color spectrum was also different, giving the already scrambled New York an even more alien vibe.
+
+All of that combined meant my start was less swift and more disorienting than I had anticipated. My new eye allowed me to spot the altered spaces, as Lucy called them, for about three to four blocks, after which I struggled to see the outline, even knowing it was out there. Since I wouldn't be going full speed anyway, I went for a more systematic approach than running away as fast as possible—like I wanted. I'd systematically expand my search in a half-circle around the deli, away from the direction of the tower, so the others would have to cover the least amount of distance to get to any sanctified space I found.
+
+I soon learned that profane spaces were a lot more common than sanctified ones. They came in all sizes, some only spanning a single room in some larger building, though the MAMMON Inc. Tower remained the largest I encountered.
+
+I was about five minutes into my scouting mission when I spotted my reflection in an intact storefront. This supposed 'Blessing' fucking with me got really tiresome, really fast.
+
+["Why do I have horns? I am not an expert but I'm really sure that girl impalas aren't supposed to have those. Is the Blessing really trying to give me gender dysphoria?"]
+
+"No, Eve, it is not that. I am fairly certain that you are indeed a girl impala," Gabriel's voice had a hint of amusement to it, which she failed to hide. "Remember what happened when you picked your first perk? How it equipped your human shape with natural weapons? I suppose that if sexual dimorphism would mean you lose out on a weapon, you'll get them anyway. Additionally I feel obliged to inform you that horned ewes do exist in the wild, though they are both rare and infertile."
+
+I felt dumb for being so angry. I was angry. At a lot of things. But this was a rational explanation.
+
+["Thanks, Gabriel. For everything. I don't mean to be a difficult, irrational and ungrateful charge."]
+
+It took her a moment before she replied. She was multitasking multiple Blessed, after all.
+
+"You are doing fine, Eve. Everyone I've ever assisted with this had to just face the end of their world. You are doing remarkably well and being upset is only natural. Don't be too harsh on yourself."
+
+"Yeah, you got us to drag you down," Lucy's voice added.
+
+Their comment reminded me of the moment in the bathroom earlier. I had tried not to think about it too hard, mostly because it was intimately linked with the memory of getting my eye ripped out, but there had been something there.
+
+["Lucy, what happens to you when I die?"]
+
+"I will be unmade and become part of myself, my true self, once again." There was zero emotion in their voice.
+
+["And if I fall?"]
+
+"Then, my dear, we shall attempt to conquer this world. And afterwards? Who knows."
+
+["Those are strong incentives. That's not how it usually goes for Hell's Guides?"]
+
+"Nope, just me."
+
+It seemed incomprehensibly unlikely. Out of 8 billion people, I got stuck with the one person who had the same stakes as me in this? My end would be theirs, too? This question was not one that'd help me survive the next four hours. But maybe whatever came after.
+
+Suddenly Jamie's health bar dropped, 25% gone in an instant. I turned around. At my current position I could be there in only a couple of minutes.
+
+["What's going on?"]
+
+"Jamie convinced them to loot the deli and leave it behind, but another pack was summoned and noticed their retreat. It is smaller than the last, you do not need to return. This will be over before you ever make it there."
+
+I stopped. Gabriel was, of course, right. Besides the constant assault of the Wild Hunt, no fight I'd seen lasted more than a minute. Lives on both sides could be ended in seconds. I returned to my mission.
+
+["Please tell me when it's over. And how they did. And if Anthony got any experience out of it. And how often Jamie can heal."]
+
+"Do you know the Serenity Prayer, Eve?"
+
+That was a weird response to give to those questions.
+
+["Is that the A.A. one? Asking God for the courage to change things, or something like that?"]
+
+"Yes, but also for the serenity to accept those things you cannot change, and the wisdom to distinguish the two. Yes, the fight is over. Yes, Anthony managed to level up once. But you, Eve, need to worry about what lies ahead of you. Knowing how they are doing, to such detail, will distract you more than it'll help you."
+
+I bristled at that. Information was important, and one could never know when which would be relevant.
+
+And then I spotted it. Part one of my mission. A subway entrance, a couple hundred feet down the road. I felt a flood of relief, stamping my hooves to release pent up emotions. If they made it here in time they'd be safe from the next attack. I'd just have to find a space to sit out the storm in. And some place they could stock up on materials to insulate said space. If push came to shove we'd just go for apartments. With enough mattresses, blankets, and clothing, stolen from the dead, they'd find a way to make it through the cold.
+
+I ran over to inspect the entrance while Gabriel relayed my directions. They'd start on their trek over here, while making sure to look for opportunities to loot. It was just a staircase, wide enough for two, decently defensible. Though the darkness beyond unsettled me. Gabriel had warned me about liminal spaces, especially now after the scramble, but I couldn't fully comprehend how they worked yet. Getting lost in endless tunnels felt like a horrible fate.
+
+Still staring at that darkness I had a split second to register the red dot on the map, rapidly approaching. I jumped to the side—impalas are really good at that—before a shadow whizzed by my previous location. At its speed it took me a moment to discern its shape. It was a winged creature, with the distinct three sets of eyes of a demon. Up ahead it rose back up into the sky and turned around. I bounded away in the other direction.
+
+I had been too slow to react and couldn't gather momentum before it dove in for another attack. Prey instincts kicked in and I stopped and switched direction once more. I could feel the wind of its passage behind me, as I ran for a side street. I needed distance. If I could just find a clear enough path I could maybe even outrun its flying speed.
+
+But the streets weren't clear and I was by far not as fast as I wished I was. The second I lost sight of it, it vanished from my minimap. Moments later it appeared above the building next to me. Once more I changed direction a heartbeat before impact and ran off the other way.
+
+It was remarkable how different something as fundamental as fear felt, depending on the body you were in. For the cat it was a skittish type of fear, just ready to run and race for cover. As a dog, it was a lot more aggressive, urging me to do something about the threat.
+
+Now though? I felt like a coiled spring, all tension, itching to spot the predator, to jump into motion. But that wasn't what would get me out of this, was it? It probably had intended to spook me into running down those stairs, like the scarab-swarm had done with the profane space. And if I kept giving into instinct? It could fly. I would tire myself out running from it.
+
+I had seen a spot where a small stretch of park had appeared, squashed between two regular buildings. I made it there before the demon dove in for another attack. The last thing I needed was to shatter my hooves on asphalt. Again I stopped running, just before it reached me. This time I didn't run the other way. This time I turned around, lifting my horns in my attacker's direction.
+
+All six demonic eyes widened, just as it impaled itself on my horns. The demon crashed into me, I slid over the soft ground for a couple of feet before I lost my balance and we fell into a tumble. It screeched in pain, a noise that was followed by a crack, which in turn was followed by a blinding pain. The fucker had broken off my horn.
+
+I got back to my feet—hooves—and looked around for the demon. It had crashed into the ground ten feet ahead of me and was now getting up. The horn still stuck in its shoulder, while a gashing hole went all the way through its center. Its health bar was down to just a quarter remaining, with the Bleed indicator underneath.
+
+It stretched its wings. Oh no, I was not leaving this up to chance. My health bar had gone down in the crash, but I could still go from standstill to run in a heart beat. And I did, driving my remaining horn into the demon's gut just as it tried to lift off.
+
+Two more Task completions popped up, while I pulled my ichor-covered horn out of the corpse. I'd already collected a handful on my scouting mission, but hadn't opened the menu yet. There was still that bugged one in there. I feared it'd pounce me the moment I opened the menu.
+
+"I'll have you know," Gabriel said, "that Jamie reacted exactly like you did. Breaking into a sprint the moment your health dipped."
+
+["That's… reassuring?"]
+
+"You two have good team spirit."
+
+["Please tell him about flying demons."]
+
+"Already did."
+
+["You're a treasure"]

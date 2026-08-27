@@ -1,0 +1,161 @@
+---
+id: 692f880a-d199-5864-bbc4-94f1c02bde52
+page-type-slug: story-chapter-royal-road
+title: "Chapter 50: Buying Allies Don't Come Cheap"
+slug: 0050-chapter-50-buying-allies-don-t-come-cheap
+partOf: the-gift-of-loot
+position: 50
+ownLength: 2330
+unit: words
+publishedAt: 2026-07-03
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3627953/chapter-50-buying-allies-dont-come-cheap"
+royalRoadId: "3627953"
+---
+
+After the meeting, the three of them were led into another room that had comfortable seating and a spread of food and drink on a table. It was, of course, alien food, but at a glance, it looked like the Elfin versions of cold cuts.
+
+The meat was purple. Meat should not be purple. It tasted like chicken, though. (Of course, he had to try some.)
+
+Everyone was quiet and lost in their own thoughts as they picked at their food. Jo was the one who finally broke the silence.
+
+"Anyone else think that this deal is too good to be true?"
+
+"They're buying allies," Zach said. "That gets expensive."
+
+"Really?" Thomas asked. "Because I was thinking that they were low-balling us. We should definitely ask for more."
+
+Both looked at him.
+
+"Think about it: This is the perfect opportunity to offload crystals into their marketplace. I've collected a ton from delving over and over in the last few weeks," he explained, as if this wasn't a cover story he had just made up. After all, he didn't know if there were listening devices, magical or otherwise, here. "I don't know if you've noticed, but sometimes selling can be a pain in the ass when you dive as much as you can."
+
+Especially when you weren't trying to draw attention to yourself and stay off databases, which was why he was emphasizing his cover story. Let them think that he was a dungeon maniac.
+
+"Hey, yeah," Zach agreed, perking up a little. "I wonder if I can trade any of my Level 3 Water and Earth Crystals from that last dungeon for Fire?"
+
+"You should. If they have Teleportation mana, they should have Fire since it's so common," Thomas said.
+
+Zach shook his head. "No, dude. I mean, you'd think that, right? But it's only common because we're from Earth."
+
+Both Thomas and Jo looked at him.
+
+"I don't know much," said the one and only alien expert in the room. "But from what I remember hearing, what we think are classical elements: air, water, earth, and fire are all based on our planet. Elves have their own classical base elements to start from, and so do the dragonkin and gnomes and whatever."
+
+Thomas fully intended to address that minor revelation about dwarves and dragonkin at a later point. But for now... "So what are the classic base elements here on, uh, Elf-world?"
+
+"Um." He squinted. "I think it follows the theme of their different species. Light, Wood, Ice, and Shadow."
+
+"So we can dive here and get Shadow mana dropped like it's candy," Thomas said. He was really starting to like the sound of this.
+
+"You want Shadow mana?" Zach asked, looking a little surprised.
+
+Ah, damn it, he was right. He'd felt nauseous touching Void mana, and Shadow had to be in the same family. He'd probably be compatible with something more like Light. Still... he'd always have the equivalent of a flashlight with him. That was handy.
+
+"I don't want to dive for Shadow mana," Jo said, then amended, "Okay, I really do, but I have responsibilities at home. I can't just fart around on an alien planet. Besides, how do we even know these are good guys? Remember, they want to colonize our world."
+
+"Not the entire world, and it sounds like they won't be the only group doing it," Thomas clarified but thought for a moment. She had some good points. "Okay, maybe we make free transit to and from this world part of the deal. We should write all this down..." He looked around, but the room was spare and clean, and he wasn't sure if elves had the equivalent of paper and pencils. So he brought out his phone and opened the notepad app. "As for knowing if they're good guys..." He trailed off. He had nothing.
+
+"Dunno," Zach said. "You have to get to know a person before you know a person, you know?"
+
+Thomas shrugged. "They did agree to heal you two with basically no restrictions—"
+
+"Other than the timeshare pitch," Jo said.
+
+"Other than the timeshare pitch," he agreed. "But also Akilah offered me the chance to apprentice under him as a healer," Thomas added hesitantly. "I don't know if I'll take him up on it, but it does imply that he sees me as a person and not chattel."
+
+"I suppose," Jo said doubtfully.
+
+"Does he want you to be a pure healer?" Zach asked, looking at Thomas carefully. "Like, those don't normally dungeon dive, right?"
+
+"He didn't say it, but I got the impression the answer is yes. He didn't seem impressed when I told him I wanted to be a Combat Healer."
+
+"Boo." Zach made a thumbs-down gesture. "Forget that. Combat healer sounds hella sick."
+
+It did sound hella sick. He just had to figure out how to do it without backlash to his soul. Maybe more tanking, like he had with the turtle swamp boss?
+
+On his notepad he added: Healing guides and training?
+
+Jo drummed her fingers on the table as she thought. "Do we even need these guys? No offense to them, but I think we're doing pretty well on our own. Thomas and I are already level three, and Zach, as soon as you get fire mana, you'll be there too, right?"
+
+"Yeah," Zach agreed, "and staying at level three is no big thing, but I have aspirations beyond, you know? The dungeons on Earth won't start opening up for higher levels until after System Integration, and by then lots of people will be level three. I don't want to lose that edge."
+
+Neither did Thomas. He suspected he knew the answer but he wanted to ask. "And it's not a good idea to build up to the level 4 layer on your core with level 3 mana?"
+
+He wiggled his hand back and forth. "It's not the worst thing, but you won't be building with the strongest magic. If you keep doing it, or you want to operate at peak levels, you'll be put at a disadvantage. You guys have felt level one mana. It's sort of airy now compared to the level 3, right? I've heard of people's cores collapsing if they try to build up with levels far below them."
+
+Though he'd only had his core a short amount of time, Thomas shuddered and saw Jo do the same.
+
+"My Wellspring mana is overleveled, and that hits me like a truck every time, except in a good way." He shrugged at Jo's amused look. "No, I don't want to wait either, or build up my core with weaker mana."
+
+"If we're diving levels 4 and 5, I want to know that I can come and go freely," Jo said, returning to her point. "Then I'll think about what else I want from these guys and what they want from us."
+
+Zach sat back and crossed his arms. "About leaving... I'm worried about the coven, dudes."
+
+"Yeah, what was that about you two?" Jo asked. "Didn't they say they wanted Hollow Shadow mana? Did you steal something from them?"
+
+Zach put a hand over his heart as if he were wounded by the accusation of theft.
+
+Thomas rolled his eyes. "No, we actually cleaned up their mess. We dived a dungeon that was about to overflow thanks to them taking off and not taking care of it." Thomas looked to Zach. "You think the Hollow Shadow mana was that black crystal in the darkness trap?"
+
+"Yep," he agreed, "and it's long gone now. I bet Tabitha needs it so bad because she'll be in deep shit with the rest of her family for letting it out of their grasp. But that means she's not going to stop, and she knew enough about us to show up at the Ross-Astor feeder dungeon."
+
+"So we fight them, though it won't be easy." Jo grimaced. "I gave that wizard guy a good dose of poison, but somehow I don't think it killed him."
+
+Thomas winced and looked down at the table. He hadn't really wanted to go into this and was still coming to terms with it himself... But they deserved to know. "If it comes to another confrontation, I can't kill any of them."
+
+"Thomas, they were going to use you as a sacrifice," Jo said. "What if they go after your family next to pressure you? Or mine?"
+
+"No, I agree that they need to be stopped," Thomas said, "and possibly killed. I'm just saying I can't do it." He closed his eyes and searched his own emotions. Yeah, killing people was a hard stop. "Not even if I don't use healing mana."
+
+"What do you mean?" she asked sharply. "Why?"
+
+Zach, however, looked at him with sympathy. "It's a healer thing?"
+
+He nodded. "Monsters are fine, as long as I don't use healing mana to do it. People are a no-go."
+
+"But you took care of Grimm back in the Grizzly dungeon," Jo objected.
+
+"I didn't know what I was doing, and that was about as clear-cut a case of self-defense as I could get," Thomas said. "Even more so because I knew right after he killed me, he was going to kill you and Twitch. But I still got spiritual backlash from it. It felt exactly like a burn on my soul." His hand drifted to press against his chest. "Some things Akilah told me clarified a lot. I... I have a way to start with fresh mana if I need to, but I want to follow this path and see where it takes me, even if I have to find workarounds."
+
+"Thomas is a little weird," Zach told Jo, then, before Thomas could take offense, he added, "The few healers I've seen are all about peace and love. You can slap them in the face—not like you'll ever want to, but if you could, they'd never fight back. It's like... a prohibition?" He looked at Thomas, who nodded. That was close enough.
+
+"Well, that's just peachy," she looked put out. "How are me and Zach supposed to fight an entire coven of dark witches by ourselves?"
+
+"Give them some A-grade Shadow mana and tell them it's Hollow Shadow mana?" Zach suggested, half-heartedly. "We can probably buy Shadow real easy here, and Tabitha might not know the difference for a little while."
+
+Jo was not impressed. "Then she'll hunt us down when she figures it out, or kill us anyway when we hand over the fake mana even if she believes it's real, just to make a point." She stabbed a finger down on the table in emphasis. "You saw what her wizard did to Thomas. They're crazier than a bag of cats."
+
+"We could try to buy real Hollow Shadow mana," Zach said. "But it sounds way advanced and probably expensive."
+
+But something Zach had said sparked an idea. "They were on Ross-Astor land, right? You said something about dark magic leaving a trace?"
+
+"It's not my thing. But it's supposed to be like sewage to anybody who can tell that sort of thing, yeah," Zach said. "Why?"
+
+"So why don't we tell the Ross-Astors what the coven is up to? They murdered two of their guards, spilled dark magic sewage all over their land... and maybe dived their dungeon without permission while they were there." He wiggled his eyebrows suggestively. "They have to have more resources than us, right? More reason to make a point not to mess with them?"
+
+Zach sat up straight and Jo looked interested.
+
+"They don't get along at all," Zach said. "Well, no one likes the Brightens. They'd be happy to slap them down, but..." He slumped. "Even if I could find out how to get a message through, they won't take my word for it, or worse, think it's a trap. You can say my family doesn't get along with the Ross-Astors either."
+
+Thomas had figured that much. Instead, he looked toward the door. "I wonder if our new good friends, the dark elves, would be willing to pass a message. They are doing covert research on the area."
+
+With that, he added it to the list.
+
+After they sorted out their requests, Thomas mentioned his suspicion that they thought Zach was the leader. So it was decided that he would be the one to present their terms to the elders.
+
+While that was going on, Thomas got up to use the little elf boy's room, which was a wild experience. Apparently, elves used a magical equivalent of a composting toilet.
+
+He was just washing his hands at a thankfully normal-looking sink when he caught his expression in the mirror and froze. He looked... different.
+
+It was subtle. Over the last couple of years he had noticed the beginnings of wrinkles at the sides of his eyes and, though he still tried to ignore it as much as possible, a touch of thinning at his temples. He had resigned himself to sporting the dreaded peninsula on his forehead one future day.
+
+Now the beginnings of crow's feet had vanished, and his hair was just as thick as it had been a few years ago.
+
+"Um…" He pulled up his shirt and noticed that there was a little bit more definition to his pecs, too. Maybe that could be explained by all the running, fighting, and so on over the last couple of weeks, but why did he look a couple of years younger?
+
+He dropping his shirt, he flexed in front of the mirror. It wasn't like he was complaining, but what the fuck?
+
+Then he remembered the radiance that Jo had around her after she crossed into level three. Maybe the same thing had happened to him.
+
+Akilah had mentioned he was seven hundred years old. Thomas had thought that was an elf thing. Now he started to wonder.
+
+"You know," he told his reflection, "I'm really starting to like magic."

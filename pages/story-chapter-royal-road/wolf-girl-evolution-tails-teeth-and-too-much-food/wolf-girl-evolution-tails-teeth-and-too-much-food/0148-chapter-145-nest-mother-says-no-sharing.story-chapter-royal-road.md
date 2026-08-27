@@ -1,0 +1,515 @@
+---
+id: e18c7d8f-7413-598b-a4b5-4e142b28a340
+page-type-slug: story-chapter-royal-road
+title: "Chapter 145: Nest Mother Says No Sharing"
+slug: 0148-chapter-145-nest-mother-says-no-sharing
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 148
+ownLength: 2607
+unit: words
+publishedAt: 2026-07-29
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3743103/chapter-145-nest-mother-says-no-sharing"
+royalRoadId: "3743103"
+---
+
+PoV Luna
+
+A little girl stared from beneath a torn cloak, eyes huge and shining, one hand clenched around the edge of a broken crate like letting go would make the whole world fall apart. Beside her, an older boy had one arm wrapped around her shoulders, trying to look brave while smelling terrified enough that Luna’s chest hurt.
+
+They smelled of dirt, stale tears, hunger, and terror. But alive.
+
+Luna went soft all at once.
+
+She crouched low, hands open, tail still.
+
+“Small ones,” she said carefully. “Luna will get you out, okay?”
+
+The boy flinched.
+
+The little girl’s face crumpled.
+
+Cake was not medicine, but crying small human pups needed more than medicine.
+
+So Luna pulled cake from her Maw!
+
+Syliana made a tiny sound behind her and did not stop her.
+
+Luna broke the cake in half and held it out.
+
+“Here, eat! Is tasty!”
+
+The boy stared.
+
+“Cake?”
+
+“Yesh. Rescue cake! Luna tried some earlier, and it tasted awoomazing!”
+
+The girl did not take it. Her fingers stayed locked around the crate, and her breath hitched again, smaller this time, like she was trying very hard to be quiet and failing.
+
+Luna’s ears lowered.
+
+Cake alone was not enough.
+
+She leaned a little closer, careful and low. To not scare the pups more!
+
+“What name?”
+
+The girl blinked through tears.
+
+The boy swallowed. “Linley.”
+
+Luna’s ears perked high.
+
+“Linley,” she repeated, very seriously. “Good name. Luna is Luna!”
+
+She tapped her own chest, then offered the cake again with both hands, like it was the most sacred rescue treasure in the tunnel.
+
+“Luna is rescue wolf. Luna has cake for you. Luna gets you two to mom!”
+
+The girl stared at her.
+
+Her lip trembled.
+
+Then, tiny and cracked, she whispered, “Mom?”
+
+“Yes!” Luna said, with all the certainty in the world. “Mom is above. Luna brings you and Linley. Very fast! But first you eat little tasty cake, so mouth remembers brave!”
+
+The girl’s hand loosened from the crate.
+
+Slowly, she took the cake.
+
+Then she bit, and Luna could see tears welling up. Happy relief tears!
+
+Luna’s tail gave one careful, tiny wag.
+
+“See? Brave!”
+
+A little more life came back into the girl’s eyes.
+
+“Luna?”
+
+“Yip yep, Luna here!!”
+
+The little girl clutched the cake tighter, nibbling on another piece.
+
+Hehe! Food always worked!
+
+The older boy swallowed, his arm still wrapped tight around her shoulders.
+
+“She’s Finnie,” he said. “I’m Linley.”
+
+Luna’s ears sprang up all over again.
+
+“Oh! Finnie!”
+
+The little girl blinked.
+
+Luna leaned closer, delighted and very serious at the same time.
+
+“Finnie is also good name. Luna knows both now, so rescue is stronger!”
+
+Linley stared at her like he did not understand how names made rescue stronger.
+
+That was because he was not a genius rescue wolf!
+
+Finnie’s fingers curled into the cake.
+
+“Please get Mom.”
+
+Luna’s whole body went warm and fierce.
+
+“Yip-yep, Luna will! Luna gets Finnie and Linley to mom. Very fast. Very safe. Very zoom-awoom!”
+
+Once the girl took the cake, the chamber started moving again.
+
+Potions opened. Bandages shifted. The adventurers remembered their hands. Syliana asked quick questions while healing magic warmed the air, and Luna listened for the parts with teeth in them.
+
+More people were deeper in, and they talked about flooded lower cells.
+
+One of the adventurers swallowed hard, eyes fixed on the deeper passage.
+
+“We saw the thing creating those chimeras once,” he said. “Only for a moment. The System identified it as a Corruption-forged Chimera Broodmother.”
+
+Luna’s ears angled forward.
+
+Big nest mother making bad bads?
+
+Dragging people down into her nest?
+
+Now Luna knew what to bite!
+
+Bite big bad to stop small bad bads, then just hunt all the small bads down, the Genius Apex Predator Luna way!
+
+Yesh!
+
+That was the plan!
+
+The adventurers kept talking about the small bads.
+
+That they sometimes waited outside walls and listened, or mimicked crying children.
+
+Bad things pretending to be hurt children got extra biting!
+
+A scrape echoed from the deeper passage.
+
+The survivors flinched.
+
+Both children froze around their cake.
+
+Luna lowered her head until Linley and the little girl could see her eyes.
+
+“Rescue first,” she promised. “Big ugly waits will get bitten by Luna later!”
+
+Then she shifted.
+
+Shadows swallowed her human shape and unfolded into her big shadow wolf form. Silver-black fur filled the chamber with damp night and moon-dark edges.
+
+【Lunar Form Lv.22 → Lv.23】
+
+Ehe!
+
+The adventurers recoiled.
+
+Hehe! They knew Apex Predators deserved respect!
+
+Very smart humans!
+
+Then Luna was doing a lot of rescue wolf all at once.
+
+She lowered herself until her belly nearly touched the stone.
+
+“Be not afraid. Luna carries!”
+
+Syliana touched her side.
+
+“Fast trips. Children and the worst injured first.”
+
+“Yesh!”
+
+Luna looked at the survivors.
+
+“Climb up children, Luna is ready!”
+
+No one moved fast enough. And Luna might have forgotten only Syl understood her in wolf form!
+
+Woo–ps!
+
+That was fine. Hurt people were bad at hurry anyway.
+
+So Luna moved them herself!
+
+Carefully.
+
+One shadow lifted Finnie first, placing her against Luna’s chest where thick fur and Luna’s lowered body kept her safe. Another guided Linley against her side, close enough that he could keep one arm around Finnie if he needed.
+
+Good big-brother instincts! Luna approved very much.
+
+Only after both children were tucked safely against her did she gather the hurt ones.
+
+The feverish man was pulled onto her back, and Luna pressed low until he could lie flat against her fur instead of trying to sit upright and tumble off. The spear woman came next, settled along Luna’s other side with her weapon still clutched in one hand.
+
+Then Luna’s shadows tightened around them like dark paws holding everyone close.
+
+“There,” Luna said. “No falling!”
+
+Linley stared at her from against her side. “Is this safe?”
+
+“Yesh!”
+
+Syliana just shook her head in disbelief.
+
+“It’s safe, I assure you. And Luna, don’t forget only I can talk with you like that!”
+
+Awoops?
+
+Luna had forgotten the small talking detail again!
+
+She gave Linley her most reassuring rescue-wolf look instead.
+
+Syliana’s mouth twitched.
+
+“Luna says she is about to zoom. You will be out above very soon.”
+
+Finnie made a tiny squeak from Luna’s back.
+
+Luna turned her head just enough to look back at her.
+
+Finnie already had both hands buried in Luna’s fur.
+
+Good!
+
+Cake later.
+
+Mom soon!
+
+Luna’s tail gave one pleased thump against the stone.
+
+Then she ran!
+
+The tunnel snapped into motion beneath her paws, stone and water and turns blurring together while her shadows caught broken edges before they could bite anyone’s feet. Finnie and Linley held tight against her back. The feverish man stayed flat because Luna’s shadows kept him flat, and the spear woman pressed close along Luna’s side, breathing through pain with her weapon still in her hand.
+
+Good spear woman!
+
+A side passage clicked, and Luna smelled the throat-lump before the bad thing finished lunging.
+
+She bit it with a crunch and kept running.
+
+The children screamed.
+
+Luna gave them a reassuring little awoof over her shoulder!
+
+They were holding strong. Very good screaming too! Worthy of making some proper awoos.
+
+Linley made a sound between terror and laughter, even as Finnie buried her face in Luna’s fur and held on tighter.
+
+Hehe!
+
+Luna burst out through the tunnel entrance into rain and lantern light.
+
+The waiting townspeople shouted.
+
+Luna slid to a stop in the mud and lifted her head.
+
+“Awooo!”
+
+First Luna rescue delivery done!
+
+For one heartbeat, everyone froze.
+
+Then a woman screamed.
+
+“Finnie!”
+
+The little girl’s head snapped up.
+
+“Mom!”
+
+The woman shoved past a guard so hard he nearly dropped his spear. She hit the mud on her knees beside Luna before anyone could stop her, arms already reaching.
+
+“Finnie, oh thank the gods!”
+
+Luna lowered herself carefully, shadows peeling back.
+
+Finnie tumbled into her mother’s arms with a sob so big it shook both of them. The woman clutched her tight, rocking once, twice, rain and tears mixing on her face as she pressed kisses into Finnie’s hair.
+
+“My baby. My baby, I thought–”
+
+Finnie cried harder.
+
+Linley slid down next, still clutching his cake, and got pulled into the hug so fast his feet nearly left the ground.
+
+Luna sat very tall beside them.
+
+Extremely tall.
+
+Heroically tall!
+
+Mud dripped from her fur. Black blood stained her jaws. The feverish man and the spear woman were still being helped off her back, but that was fine because this was clearly the correct moment for a proud rescue-wolf pose, like Mister Bull taught!
+
+She lifted her chin.
+
+Chest out, ears up!
+
+Tail doing only a little victorious wag.
+
+Then Finnie’s mother turned and threw both arms around Luna’s neck too.
+
+Luna froze at the unexpected hug.
+
+“Thank you,” the woman sobbed into her wet fur. “Thank you, thank you.”
+
+Luna’s ears shot straight up.
+
+Her tail went stiff.
+
+She looked down at the woman clinging to her, then at Finnie and Linley, then at the surrounding hopeful people, who looked like they were trying very hard not to smile too much.
+
+Warmth crawled all the way under Luna’s fur.
+
+This was different from praise.
+
+Much stronger.
+
+Much more embarrassing.
+
+“Yip,” Luna said, very quietly.
+
+The woman squeezed her harder once, like she could not help it.
+
+“Thank you.”
+
+Luna’s paws shifted in the mud, then shadows swallowed her big wolf shape and folded back into her human form.
+
+Apex Predator retreat!
+
+Finnie’s mother blinked as her arms suddenly closed around much smaller Luna.
+
+Luna patted her shoulder twice.
+
+“Luna needs get the others now,” she said quickly, very interested in the tunnel. “Very important. Rescue wolf Luna busy!”
+
+The woman let go with a wet laugh-sob and pulled both children close again.
+
+Finnie looked up from her mother’s arms, cheeks soaked, cake still clutched in one hand.
+
+“Good luck, Luna.”
+
+Then she waved.
+
+Small, shaky, and the happiest she saw the little girl yet.
+
+Luna’s chest puffed so hard it almost became a problem.
+
+“Luna will bite the bad bads extra good!”
+
+Finnie gave the tiniest smile.
+
+Luna turned fast before the warm embarrassment could catch her tail and drag her into more hugging.
+
+Then she jumped back into wolf form and plunged into the tunnel again.
+
+The second trip was rougher, even though Luna knew exactly where to go.
+
+Surface had rain, lanterns, healers, Finnie-mom, and too many wet humans shouting. Down had Syliana, hurt people waiting in the hidden chamber, black blood, stitched stink, and bads waking up because Luna had stolen their snacks.
+
+So Luna went down.
+
+Fast!
+
+The tunnel knew her paws now. Broken stone, flooded dip, low beam, rude corner, old blood mark, turn, turn, down. Her shadows remembered where the floor tried to cheat. Her nose held Syliana’s scent steady through the rot and fear, warm magic and calm elf under all the ugly.
+
+There.
+
+The hidden chamber came back into view.
+
+Syliana was waiting near the barricade with healing light in one hand and her blade in the other. The remaining survivors had already been moved closer together, wrapped in whatever blankets and cloaks they had. The worst injured were nearest the passage, ready for Luna instead of scattered in frightened corners.
+
+Everyone was learning!
+
+A click answered from the dark behind Luna.
+
+Syliana’s eyes flicked past her. “They’re moving faster.”
+
+Luna’s lips peeled back.
+
+They needed to hurry then! Nothing new, Luna was great at hurry!
+
+She lowered herself, and Syliana guided the next injured onto her without wasting words. An old man went against Luna’s side, shaking but awake. Two adventurers who could barely stand were settled flat across her back. The guard who insisted he could walk made it one proud step before his knees folded, so Luna caught him by the coat and tucked him close with shadow.
+
+Silly guard!
+
+But still alive guard.
+
+The click came again, nearer.
+
+One of the survivors flinched.
+
+Luna huffed.
+
+No.
+
+Her people pile!
+
+She tightened her shadows around the hurt ones and ran.
+
+A bad thing dropped from above the doorway before she reached the turn.
+
+Luna smelled the neck knot first. Shadow Step slipped her forward, the thing hit stone behind her, and her back paw crushed the knot as she passed.
+
+Another crawled along the wall near the flooded dip. Luna’s shadow-wrapped tail slammed it down without slowing, and Syliana’s magic flashed from behind her, sharp and bright, finishing what Luna had pinned.
+
+Impawssive pack tactics!
+
+Then crying came from the side passage.
+
+Thin, frightened, and small.
+
+Luna stopped for half a breath, ears forward.
+
+No child smell.
+
+Only old blood, wet hide, and bad stitching.
+
+Luna’s growl filled the tunnel.
+
+“Bad fake.”
+
+She kicked loose stone toward the pillar.
+
+The fake cry shifted away from the monster-blood stink.
+
+There.
+
+Luna pounced, crushed the throat knot, and came back with black blood on her jaws before the injured on her back had time to slide.
+
+Then she ran again.
+
+Find route.
+
+Hold hurt ones.
+
+Bite blockers.
+
+Deliver.
+
+Back down.
+
+That was Luna's Apex Predator approved rescue method!
+
+The surface learned fast. By the time Luna came thundering out again, blankets were already close, healers were already reaching, and guards were already pushing people back from the tunnel mouth. The learning healer waited near the entrance, muddy to the knees, arms open for whoever Luna brought next.
+
+Good healer, deserving of mlems!
+
+On another trip, Linley stood near him wrapped in a blanket, cake crumbs on his chin and Finnie tucked against her mother nearby. Luna burst out with another rescued pair, and a wounded guard, and Linley pointed at her with fierce, shaky pride.
+
+“Rescue wolf!”
+
+Several heads turned.
+
+The name stuck faster than mud.
+
+Trip after trip, Luna went back to Syliana and the hidden chamber. Each time, there were fewer people waiting below and more people breathing above. Syliana’s magic got sharper and brighter around the edges. Luna’s shadows snapped harder with effort. The bads clicked louder, rushed faster, and died quicker.
+
+By the time the last conscious survivor reached the surface, Luna’s legs burned pleasantly. Rain soaked her fur. Mud splashed her belly. Three potions remained tucked in shadow, along with half a squished rescue cake and her important emergency meatloaf!
+
+Syliana came up behind her with blood on her sleeve and magic still bright around one hand.
+
+Their eyes met.
+
+Syliana looked tired and fierce and proud.
+
+Luna’s chest warmed until it felt bigger than her ribs.
+
+“Luna rescued so many people,” she said, trying very hard not to wag so hard she splashed the nearest healer. “With potions. And cake. And only some screaming!”
+
+Syliana crossed the distance and put one hand against Luna’s wet fur.
+
+“You did beautifully.”
+
+Luna’s tail thumped once.
+
+Mud splashed anyway.
+
+Then the ground beneath the cracked tower trembled, deep and heavy and angry.
+
+The smell rose from below like a mouth opening under the town.
+
+The wounded pulled back. Finnie clung tighter to her mother. Linley stepped in front of them even though he still had a blanket around his shoulders and cake crumbs on his chin. Guards gripped weapons that suddenly looked much too small.
+
+Luna turned toward the dark.
+
+Her ears lifted, and her lips peeled back.
+
+People-dragging bad.
+
+Fake-crying bad.
+
+Nest mother needed some biting!
+
+Luna stepped forward, shadows spreading beneath her paws.
+
+Syliana’s hand tightened once in her fur.
+
+Luna’s growl rolled into the tunnel, low and eager and full of every person she had carried back to the rain.
+
+“Now Luna bites nest mother!”

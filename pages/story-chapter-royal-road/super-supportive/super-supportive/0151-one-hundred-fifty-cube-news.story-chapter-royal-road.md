@@ -1,0 +1,433 @@
+---
+id: 89b9f062-5ee9-5c38-a270-3e813fa854d4
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED FIFTY: Cube News"
+slug: 0151-one-hundred-fifty-cube-news
+partOf: super-supportive
+position: 151
+ownLength: 5862
+unit: words
+publishedAt: 2024-06-20
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1684839/one-hundred-fifty-cube-news"
+royalRoadId: "1684839"
+---
+
+150
+
+******
+
+“Connie seemed to be in a strange mood,” said Alden.
+
+He was lying on his side on top of the covers of his hospital bed so that whenever he wasn’t focused on the person he was calling, he could see the news stations he’d pulled up on the wall. “I don’t know what it was. She didn’t exactly sound unhappy. But she said we should talk about something, and then she changed her mind. Do you think the Artonans freaked her out when they collected her?”
+
+“Alden, from my perspective, I left your room in intake a few hours ago,” said Boe. “Now, I’m nearly blind in a foreign country. Nobody will tell me exactly which country or how I’m getting home. And I almost stepped on a poison dart frog when I went to pee.”
+
+Understandably, Boe sounded tense about all of that.
+
+And Alden didn’t doubt that his friend was having trouble seeing. The rainforest floor at night couldn’t be a bright place, and he didn’t have his glasses.
+
+Alden couldn’t quite picture the situation at the mass teleportation site. He would have expected a large building, but from the snippets of stressed-out description he’d gotten, it sounded almost like the people who’d been taken there had just been dumped deep in the Amazon with lots of wizards.
+
+“Let me repeat: earlier today, I covered my body with some fronds I found. Then, while I was trying to figure out what was going on and get help, someone sent my furry orange ride back to Chicago without me! Where Connie also is, apparently. Priority shipping for the two of them!” Boe exclaimed. “You’re worried about her being freaked out? I’m probably going to be killed by a jaguar while the Artonans who are in charge of this wilderness adventure have a few more debates about what to do with me. I don’t know if they’re leaving me until last because I’m a Contract refuser or because they feel like I’m greedy for wanting a travel ticket after they already gave one to your cat.”
+
+“Turn on video mode,” said Alden. “I’ve never seen an Earth rainforest.”
+
+“No. And there’s nothing to see except me, standing in the dark as far away from everyone else as I can get without getting lost. I wanted to talk to you, but I don’t want the last of the humans who are left around here realizing I have an interface and memorizing my appearance.”
+
+“I am sorry you came out of catspace there,” said Alden. “When they asked me who I wanted to save in the event of the world ending, I wasn’t thinking about the fact that they would send you somewhere full of other Avowed.”
+
+“It’s fine, it’s fine. I was just on Anesidora, wasn’t I? And I’ve been…I can’t bring myself to say lucky…but not as unlucky as I could have been. I didn’t come out of catspace in front of people. Victor was in a forcefield pen some wizard had made for him. When I appeared, I was just standing naked in the rainforest beside a cat in a magic dome. I considered all the possibilities, decided it was definitely your fault—”
+
+“Hey!”
+
+“—found my fronds and followed the sound of voices toward other people. I’m sure everyone who saw me thought I was a lunatic, but at least they were all strangers and we’ll never meet again.”
+
+Alden couldn’t quite hold back a laugh. “Are you still wearing nothing but fronds?”
+
+“No. Asshole.”
+
+“Don’t be ashamed. My crisis wardrobe gets weirder every time. I figure I’m only two or three disasters away from fronds of my own.”
+
+Boe vented for a while longer before taking a breath.
+
+“I’m glad you’re back.” Alden shifted positions to get more comfortable with his mound of pillows. “It would take so long to catch you up on everything that’s happened if you’d waited until I was forty or something.”
+
+Catching him up was going to take a long time as it was. Too long for them to make a serious start of it right now when Boe was flustered.
+
+He can listen to all my messages from the past couple of weeks when he’s got a minute.
+
+And then he could share and explain the Zeridee-saving story when Boe was safely back home and things were calmer.
+
+“Don’t even joke about that,” Boe was saying. “I seriously worry about pulling a Rip Van Winkle.”
+
+“That’s such an antique reference.”
+
+“We had to read it for English while you were gone and compare it to a modern day time travel book.”
+
+I think it’s been almost a year since I read a book that wasn’t for a class or for wizardry, Alden realized. Last Christmas break—that popular but terrible one about the arrival of Artonans making a bunch of werewolves reveal their existence to the rest of humanity.
+
+“Hey,” he said,“I left you some messages. The boater was a fail. I don’t think I made a difference in their lives at all. But I tried, and I’m done with it. There’s some other stuff. I’ll tell you about it when you’re home and you’ve dealt with your own life. It’s your turn to be the surprise returnee…I hope that goes well for you.”
+
+Boe’s voice turned suspicious. “What kind of stuff?”
+
+“I’ve been in a disaster. Naturally there was a little bit of stuff. I’m not sure if some of it even qualifies under the terms of our accord.”
+
+“Why don’t you tell me what it was, and I’ll decide?”
+
+“As an example, I was on The Span when the Pacific went less pacific—”
+
+“I literally can’t leave you alone for two weeks.”
+
+“That was in no way my fault. There was this guy I agreed to share my emergency teleport with. I didn’t stick my neck out for him, and he was such a shithead that I wish I hadn’t bothered. All I really did was save my classmates from his presence. So I’m pretty sure you don’t also have to find a shithead to transport somewhere.”
+
+Even Boe’s silences sounded suspicious now.
+
+Neat trick.
+
+“You do have to save a Great Dane, though,” Alden added. “And a snake.”
+
+“…you found a pet store in need of a hero?”
+
+“I really will tell you everything later.”
+
+“Okay,” Boe said after a second. “I was watching some news footage before I got your call. It looks like it was insane there. And the System sending me a safety notice for you but not letting me talk to you directly was worrying me  a little. But you say you’ve already been healed?”
+
+“Partially. The healer here—” Not talking about Matadero on the call he shouldn’t even be allowed to make was a given. “—will be seeing me again soon. I’ve been walking around all day, though. It’s just a busted ankle, a cut on my hand, and a lot of scrapes and bruises.”
+
+“From The Span?”
+
+“I told you the Pacific got unpacific with me. And with the rest of the island. It was a lot.”
+
+It threw me around like a toy. I thought I would freeze to death. I was afraid a Brute who was a pretty decent dude would panic and steal my shoes. I lost half of my remaining faith in humanity when I watched someone try to kill Zeridee-und’h while she was helpless.
+
+Alden stared at the videos playing on the wall without seeing them properly.
+
+It feels like every time I try to be even a little good, the universe sucks me dry and gives me back less than I had to start with.
+
+“I’m glad you’re all right,” said Boe. “Sorry I wasn’t there.”
+
+“Yeah. Why couldn’t this have happened before you ditched me?” Alden replied. “We could have made memories together.”
+
+******
+
+Alden called Jeremy and discovered that his friend had spent all day Saturday knocking on doors and checking animal shelters because he assumed Victor had escaped from his house. Only for the cat to reappear in his room, along with three dollars.
+
+That makes no sense.
+
+“Maybe the three dollars were there already, and you just forgot.”
+
+“Three brand new dollar bills with no wrinkles? I would have remembered putting those on my dresser,” Jeremy insisted. He was on his way into a convenience store. “I’m using them to buy Cherry Coke. I had a whole bottle last week, and now it’s gone. Mom says she’s off sugar, but I know it was her. So why was Victor disappearing your fault? Weren’t you busy dodging super tsunamis?”
+
+“Well…”
+
+Nobody had told Alden whether or not the evacuation to the Amazon was a secret, and he hadn’t thought to ask Boe or Connie if the Artonans had sworn them to silence upon their arrival.
+
+Zeridee wouldn’t tell me the location until she got confused with the head injury, so I guess it’s at least partially a secret?
+
+Or an un-secret secret. There was a blip of a mention of the flyers leaving Anesidora on the news. And, after all, if someone had asked Alden on Thursday whether or not he thought the Artonans had some kind of a planetary evacuation plan in the event of a catastrophe, he’d have assumed the answer was yes. He just wouldn’t have known for sure what triggered the evac, how they planned to do it, or that he would be chosen to leave himself.
+
+Maybe I just don’t want to tell him the truth. Maybe I just feel guilty.
+
+Saying, “You were my third choice,” wasn’t much of a compliment when there were only two choices.
+
+If he’s really mad about it…
+
+Alden took a breath. “I can’t give you many details, but it seems like the Artonans have put me on a list of people who get to leave if the planet has so much as a hiccup.”
+
+“As, like, an apology for the Thegund thing?” asked Jeremy. “Good. They should apologize to you more.”
+
+“They only let me pick two people to go with me,” Alden said.
+
+He realized he’d been expecting a dramatic pause as soon as he didn’t get one.
+
+“Only two?” An electronic doorbell chimed as Jeremy headed into the shop and stopped to examine a display of chips. “I mean, two is a lot more than zero, but man…I’d have a heart attack trying to pick.”
+
+He’s not upset at all?
+
+Jeremy was good-natured and upbeat, but this seemed like too casual of a response.
+
+“If I ever get a third slot,” said Alden,  “you would be…”
+
+Jeremy was bending down to see the hot and spicy chips on the bottom of the display. He really didn’t look bothered at all.
+
+“Would you come?” Alden asked, suddenly uncertain. “If I put your name in a third slot?”
+
+His friend finally looked back at the phone in his hand. “You mean in a real Titanic situation?”
+
+“I’m told there’s not much risk of it ever coming to that. But…yes?”
+
+Jeremy stared off into space, still crouching there by the chips with the doorbell chiming as someone else entered or exited the store.
+
+“Wow. Thank you. I think I would?” he said at last. “I’d want to stay with my family, but if I did that and they found out, it’d hurt them, right? We’d all hit the iceberg together, and they’d know I could have survived, which would just make everything more terrible for them instead of helping them. So yeah. I would come. But you need to be prepared to tie me up and drag me along in case I’m stupid in the moment.”
+
+There was a hint of a joke in his voice.
+
+“Stop getting taller if you want me to carry you,” Alden said, forcing the same lightness into his own words. “If you hit 6’ 3”, you go down with the ship.”
+
+They chatted for a while longer.
+
+When the call ended, Alden went to sit in the room’s one chair beside his scaly companion.
+
+“Jeremy’s feelings aren’t hurt because I wouldn’t be in his top two either,” he said after a moment. “I wouldn’t even be in his top five, probably. I would have known that if I’d thought harder about it. He has a lot of family. He has his girlfriend. He’ll have Boe when Boe gets home…if Boe’s not an unfriendly dumbass.”
+
+Tiny Snake was in its bento cave, digesting the baby mouse that Esh-erdi had sent for it via wizard messenger. When Alden tried to imagine the process that must have led to a miniature snake dinner being delivered all the way to Matadero, he got a lot of confusing images.
+
+“I’m glad he wasn’t upset.”
+
+He watched the reptile. After deciding that it was a young corn snake—and thus not deadly—he had held it for a few minutes before its meal arrived. Letting it crawl around his hand and arm had been interesting, and he was conscious of the fact that he was already much too attached to it.
+
+Tiny Snake had a name. They’d been through shit together. The Longs couldn’t even take care of themselves; should they really be trusted with Alden’s survival buddy?
+
+They had a nice tank for it. And Liam said it was friendly.
+
+“I have a cat named Victor. I’ll probably get him back soonish.”
+
+Tiny Snake stuck its tongue out. It was alive and safe and full of mouse.
+
+“Stupid Liam,” said Alden. “I guess I’d better text him. Maybe he doesn’t want you back.”
+
+He accessed his interface with a thought.
+
+[Liam, I rescued your snake from the rubble outside of Apogee. I hope you and your brother and sister are fine. If you’re too busy to take care of it right now I’d be happy to do it for however long…]
+
+[Lute, are you doing all right? I think I might be able to get to campus tomorrow for a little while. What…?]
+
+[Haoyu, I saw your mom on television bashing the heck out of that inflatable dinghy that was cannonballing through the streets down in…]
+
+[Are you all fine, Lexi? The Nilama building…]
+
+[Hi, Natalie. Yes. I’m safe! Sorry I’ve been out of touch. Are you all right? What do you mean Emilija got possessed…?]
+
+[Winston, thank you for checking on me and for offering to help me with my image. I’m sure you’re a great video editor, but I don’t feel like releasing my selection story. Especially not this week.]
+
+[Vandy, I appreciate the reminder about the vigil on campus, but I’m not going to be able to make it to tonight’s…]
+
+[So I do still have your teeth, Kon, but…]
+
+******
+
+The replies to Alden’s messages trickled in while he watched the news. The texts were almost all brief and rushed in tone. Even from his roommates.
+
+Makes sense. Everyone’s busy.
+
+The wall in front of him was giving him a view of four different channels at once. He could enlarge one and turn the volume on by pointing at it. But there was so much to take in that he couldn’t absorb any of it as well as he should have been able to.
+
+Every newscast held a different scene of heroism, tragedy, or commentary.
+
+As for how the disaster had happened, a story that was basically the same as what he’d heard from Zeridee and Esh-erdi was the official one. There was the addition of “a suspected link to the often-violent movement known as Superhumans at Large” and mention of the person who was likely responsible being in the company of others.
+
+Investigations were ongoing, and names weren’t being released to the public yet.
+
+The number of dead was confirmed at just under three hundred. Far more were injured.
+
+When Alden first heard, he thought, Oh, that’s so good. And then he realized that his wavelength was different from everyone else’s as the faces of the victims’ families and friends kept appearing and everybody kept talking about the scale of the tragedy.
+
+He tried so hard to feel the right things. He couldn’t quite get there.
+
+The large number still looked small to him because of that fear he’d had in his gut that it was so much worse. Thousands. Tens of thousands. The world.
+
+He knew it was strange, but he couldn’t stop being relieved that it wasn’t the world.
+
+Some people were pointing out that there was nowhere else on Earth where an event that destroyed so much, so quickly could take the lives of so few. The two tips of Apex, once among the most desirable real estate on the island, looked like junkyards. There were swaths on the west and northwest coast of F-city that weren’t much better. Paragon Academy, where his roommates had attended school until recently, was gone.
+
+But Avowed were harder to kill, and they were available for mobilization in an instant if the Triplanets wanted. And the Triplanets had wanted. A huge number of emergency orders had gone out.
+
+Even the Anesidoran newscasters who bothered to try offering a judgment on the matter seemed to be struggling to land on opinions about the Artonans’ actions. It was a strange thing to see; the local Avowed news people didn’t often stutter and stumble. They all had voices that made you glad to listen, from buttery and soothing to bright and bubbly. No such thing as a bad hair day. Never a lack of confidence or composure.
+
+But on Channel 6, during a show that featured a member of each of the six largest Avowed classes, the Meister had started out criticizing the Artonans for not giving the Anesidoran government a chance to organize a response on their own while the Adjuster had praised them for bypassing niceties in order to reduce the number of lives lost.
+
+By the end of the hour, they’d exhausted most of their energy for the topic and accidentally talked each other into the opposite positions before mutually agreeing that the important thing now was to grieve and rebuild.
+
+Earlier in the day, the President of the High Council had given a speech that focused so heavily on the contributions of Avowed who had used their powers to protect their homeland without being ordered to do so, that it had started to feel a little like she was deliberately downplaying the work of everyone who’d been red haloed. Alden went from finding the speech uplifting to being annoyed that she was trying to make a point without actually making it. But then again, he’d assumed it was a veiled complaint about the summonings, only for one of the commentators afterward to say it was an ill-timed dig at high ranks—who’d been the vast majority of the red halos—and an attempt to pander to the C and below demographic.
+
+So what the hell do I know? Alden had thought, before changing the channel.
+
+A few of the news shows from other countries were tastelessly trying to calculate the amount of argold the Triplanets had shelled out to issue all the orders. By law, Avowed had to be paid when they were summoned, even if they were summoned to save their own city.
+
+Meanwhile, one of the Anesidoran stations had a counter on the screen ticking up every time they received a report of someone using their Fragile Atmosphere signing bonus. There had been an interview with a man who thought he should be given another one under the circumstances because what if something like this happened again?
+
+Almost everyone who’d died had died by refusing evacuation, or they had died very suddenly around the time the disaster began.
+
+The System hadn’t been able to locate individual Sinker Sender particles or perfectly predict their effects. One of the wizards who was speaking as an expert on the device was doing a good job of explaining that it was unreasonable to expect a “sound but youthful Contract” to correctly analyze vastly complex, never-before-seen magical events on the spot.
+
+Some boats had been yanked so deep so quickly that the victims were killed in an instant. Others had been pulled down just as quickly, only to be protected by the Sinker Sender’s own magic for a while, allowing the System time to teleport the people onboard to safety or teleport help to them.
+
+There was also dramatic footage of a melee at a shelter on Bunker Street.
+
+Word had gone around that it was better than all of the other evacuation destinations in the area. In order to travel there, people had bypassed the safe places that had been recommended by the System, and upon arriving to find the shelter full, they had prevented the doors from closing and swarmed the entrance. Red halos had been sent in to push them back.
+
+To add to the confusion, a small number of those people, who were being called doomsday preppers on most channels, had tried to mount an organized assault on the shelter’s defenders.
+
+The use of violent powers from a few had tipped the many over the edge, creating an us-versus-them situation that made everyone feel like the end was nigh and they had permission to engage in a war in the streets for the sake of their own survival.
+
+Some of the talking heads were trying to explain crowd psychology. Others were discussing how, with so many Avowed wielding weapons and having powers designed for battle, it was a wonder that serious fights hadn’t broken out elsewhere.
+
+<<Speaking of Bunker Street, we have reports that the combat was halted by a wizard who’s becoming a familiar figure as more footage of the disaster reaches us…>>
+
+Alden spotted a segment on the Punta de la Luna area starting up on another channel, and he switched to it.
+
+Several times, on every show, people mentioned that this was still early days. The narrative would change. Understanding would change. Everyone was just beginning to pick up the pieces.
+
+Around 9:00 PM, which felt much later thanks to his screwed-up brain clock, Alden fell asleep to the sound of a voice saying, “We don’t yet know how, or how much, this terrible tragedy will change things for our beloved Anesidora, but we know they will change. Tonight, I will be holding my children close…”
+
+******
+
+Porti-loth had Alden’s pharmacy drone wake him up six hours later. He had just enough time to rub the sleep from his eyes and get out of the bed before the wizard healer appeared, wheeling in a medical cart. Alden felt himself smile at the sight of it.
+
+I doubt the manufacturers expected someone to build a fire on top of that thing.
+
+The fire was smokeless, and it was heating a deep cast iron pan full of what looked like muddy reddish paint.
+
+“You aren’t watching Kwoo-pak,” Porti-loth said disapprovingly, staring at the silent news still playing on the wall.
+
+Was that a prescription I was supposed to follow right away? “I will soon.”
+
+“I am going to paint your wounds with a potion brewed from the ground of your birthplace,” Porti-loth announced.
+
+“You got ground from America?”
+
+“Peaceful Union Birthing House.”
+
+Alden stared at the pan. He’d gone just a tad more specific than America then.
+
+“I regret to tell you that they didn’t record the precise location of your separation from your mother,” Porti-loth said in a truly regretful voice. “Only a building. <<Unthinkable.>>”
+
+A lot more specific.
+
+“Don’t worry your minds.” Porti-loth jabbed a paddle-shaped wooden implement into the potion and stirred. “This is made of wood from the first tree you would have passed under on your way out of the building.”
+
+Should I not have been born in a building? Alden wondered. I’m sure Artonans have babies in buildings all the time.
+
+“Hn’tyon Esh-erdi will care for the rest of it,” Porti-loth said.
+
+“The rest of what?”
+
+The healer looked up. “He will arrange for the <<proper storage>> of the tree and the ground.”
+
+Several questions later, Alden finally understood that a tree and a “vehicle” full of dirt had been purchased from a birthing center he hadn’t even known the name of in Tennessee.
+
+He means a dump truck, doesn’t he? He was now standing shirtless at the foot of the bed, holding his hand out while Porti-loth packed the deep gouge with mud.
+
+It didn’t hurt. A perfectly normal-looking injector had taken care of that.
+
+Somewhere, a whole tree and a dump truck full of my birthplace dirt is being stored.
+
+Valuable personal spell ingredients. Just in case he ever needed them again.
+
+Why?
+
+As if to punctuate the question, one of the channels he was watching while the healer worked showed an aerial view of the neighborhood Alden had been rescued from. He was reading the subtitles with the volume off because he didn’t want to interrupt the healing chants, and the newscasters were talking about Lind-otta and Esh-erdi.
+
+They were explaining to viewers that two of the highest ranked wizards, generals from the Mother Planet’s anti-chaos force, had been on hand for dealing with Matadero and had lent their help after the cube was secured. The scale of that help was being shown with overlays that indicated how far inland the water could have progressed without their interference.
+
+Alden hadn’t been that far from safety when he’d nearly drowned. A line was drawn across the crescent, indicating the area where wizards and Avowed had chosen to defend against the incursion of the water. Just a few streets more, and Alden would have made it to them.
+
+A few impossible streets.
+
+If Esh-erdi and his partner hadn’t dealt with the massive build-up of water that had almost killed him and Zeridee, the collapse of it would have sent a megawave past the defenders’ line into parts of Apex that hadn’t been completely evacuated.
+
+It would have forced everyone else to scramble, destroying more homes and lives.
+
+Why is someone like Esh-erdi involving himself in all these little unimportant details for me? Alden thought. At a time like this? It’s not like it should matter to anyone else if I get dirt or my phone calls or snake food. Those things are all inconveniences for me to put up with, not crises for a knight to handle.
+
+And Esh-erdi was handling important matters. Alden had wondered if the Artonan’s skill wasn’t at all helpful for the current problem, but according to the subtitles, he had been using magic to degrade the contaminant throughout the enormous quantities of water that his partner put on pause.
+
+Alden watched the segment on the two knights until it ended.
+
+It wasn’t long, probably because there was no video of the two knights actually doing magic, and saying how strong Generals Esh-erdi and Lind-otta were wasn’t as exciting as showing how badass other people looked using their powers.
+
+It’s fine that Earth calls them ‘generals’  in English. I don’t like it as much as knight, but at least it’s establishing chain of command for chaos events through vocabulary.
+
+The main Artonan spokesperson on Anesidoran news was Bash-nor. If a demon crawled out of the ground in downtown F right now, Alden didn't want anyone getting confused and assuming the ambassador was supposed to be the knights’ boss.
+
+Bash-nor was largely inoffensive on camera. Alden had indulged his own bias earlier by looking for flaws, but the ambassador’s prepared statements were tidy mixes of polite condolences and facts that matched up with what most of the other Artonans were saying.  There was a lot of, “Such-and-such matter is still under consideration.”
+
+He also looked nothing at all like Alden had pictured. Bash-nor was a small man dressed in gray who delivered the messages clearly and slowly with a hint of condescension so minuscule that it might have been imagined—he didn’t seem like someone who threw grand parties all the time and rode mechanical bulls.
+
+<<Now let’s take a look at what happened at the intake dorms,>> the subtitles said. <<They’re all still standing and everyone there was safe, but we have another reported sighting of that very recognizable wizard who has not slept since arriving on Earth in the middle of the disaster…>>
+
+The sound of the door opening drew Alden’s attention. When he looked over his own mud-potioned shoulder he saw Esh-erdi letting himself into the room. While Alden had been benefitting from the knight's help all afternoon and evening, he hadn’t seen him in person since just after lunchtime.
+
+“This House of Healing is peaceful!” Esh-erdi exclaimed. “The halls around the rooms I share with Lind are full of <<pests>> now that people have decided to take their rests.”
+
+He meant “my fellow Artonans” when he said “pests.”
+
+Alden had poked his head into the cafeteria to grab a sandwich and say hello to Kabir before holing himself away for the evening, but there had been no sandwiches left to grab. Hotel Matadero was being used as housing for the wizards who’d traveled to Anesidora to serve as the disaster response crew. They’d all stayed out and about for a conspicuously long time, and even now, there seemed to be some attempt at a polite fiction that they were all coming back to Matadero to check on it.
+
+As opposed to crashing out in the cafeteria surrounded by empty plates, like one elderly woman Alden had spotted.
+
+It was like it would be gauche for them to say, “My magic’s worn out, I need a nap, and my species actually functions very poorly if we go more than a couple of days without eating.
+
+“Lind and I should move! So many pleasing empty rooms in this section. Is that the snake?” Esh-erdi walked over to the table where Tiny Snake’s plastic tub sat, looking curious.
+
+He had hissed and emphasized the “s” in snake, so it came out sss-nake. Given that Artonan adults had much better vocal control than humans, Alden suspected he knew that snakes hissed from researching them. So he was either trying to interact with the animal itself, or he was giving the word additional color to be social and amusing.
+
+“You would not look out of place on our planets,” he said to the snake. “I might think you were a slimeless oontsy. Did you eat the mouse? Did it eat the mouse and like it?”
+
+Alden mentally put the likelihood that he had been talking to the snake directly a little higher.
+
+He was probably looking forward to seeing some Earth animals, he realized. I wanted to see ryeh-b’ts when I went to the Triplanets. The facility here has to be one of the least fun places ever to start your vacation on another world.
+
+“It seemed to enjoy the mouse very much,” Alden said, assuming that it was all right to talk over Porti-loth’s chanting since Esh-erdi was doing it. “Thank you for that. And for the calling permissions. And for the…ground from my birthplace and the tree.”
+
+“Honeylocust.”
+
+“What?”
+
+“Your birth tree. I am having it sent to my house because even though there is a garden associated with your current <<dwelling,>> it’s very small and unprotected.”
+
+Okay. The first tree that ever shaded my infant face is still alive even though they stole some of its wood for this spoon Porti-loth is massaging my ribcage with. It’s going to live on the Triplanets. Almost certainly in a knight Rapport.
+
+This is starting to feel…Esh-erdi doesn’t know, does he?
+
+Is this his way of nudging me toward realizing that he knows?
+
+Next, Alden would find out that his fairy godfather here had gone to fetch his clothes and his learning cushion, and they’d been moved to a cozy little extraterrestrial location for safekeeping, too.
+
+And then a few hours from now, he’ll say, “Alden, wouldn’t your body be more comfortable with your tree and your possessions? A growing wizard shouldn’t live too far from his birthdirt. Let’s pack you up and ship you to meet it!”
+
+He swallowed even though his mouth was devoid of saliva.
+
+Esh-erdi was leaning closer to sniff Tiny Snake’s container.
+
+“Thank you for keeping those safe for me,” Alden said. “Um…why…”
+
+“You’re thanking me for doing things that are simple and necessary for your health and well-being.  I’m the one who’s asked you to stay here at the cube for a time. How are you feeling?”
+
+Muddy and concerned. “I’m good.”
+
+“I also had someone obtain this for you.” Esh-erdi tapped one of his rings to a thick, brown triangle-shape that hung from his belt like a decoration. A perfectly folded Celena North uniform appeared in his hand.
+
+Alden stared at it.
+
+Esh-erdi tapped the belt again, and a pair of black dress shoes were suddenly in the other hand.
+
+“There is no regular class for students at your school tomorrow. But you have a student assembly at ten o’clock.”
+
+Alden was aware of that, since CNH had sent out an email. All students who were currently in Apex were supposed to be there, and all students who were in F were to attend by calling in.
+
+Did he check the school website?
+
+Alden hoped he’d checked the school website. If he’d called directly, then whoever answered him was probably freaking and trying to figure out why an Artonan general wanted to know the class schedule. Or Esh-erdi had just told them the truth, and right now, Alden wasn’t sharp enough to think through what that might do to his life.
+
+“I’m sorry your instructors will not be teaching. You wrote an <<earnest>> essay, and routine can be <<succor>>.”
+
+“It’s all right.” He had wanted school to start back pretty badly so that he could have the normalcy of it. “I can attend by video. And what about Ambassador Bash—”
+
+“Bash-nor has a busy day tomorrow, which I have <<contrived>> to make busier for him.”
+
+Porti-loth chuckled mid-chant.
+
+“You may <<engage with>> your human peers,” said Esh-erdi. “Someone trustworthy will keep an eye and a mind on you in case Bash-nor finds a way to bother you.”
+
+Both of his eyes flicked past Alden toward the television wall. “Or in case anyone else does.”
+
+When Alden followed the direction of the knight’s interest, he found himself reading subtitles that said, <<And here he is again! It is impressive how quickly The Bald General broke up a fight that was giving quite a few of our local S-ranks some trouble. What a spell!>>
+
+A couple dozen Avowed from the Bunker Street riot were all up in the air and wearing frantic expressions as their legs climbed what looked like invisible staircases toward outer space. Sandwiched between them and the subtitles, offering a red haloed woman a potion vial with one hand and casting with the other, was a tall, bald wizard so covered in tattoos that his skin looked like a circuit board.
+
+“Did they just call him hn’tyon in their language?” Esh-erdi said in a disgusted voice. “I hope he gave them that misapprehension himself so that I can comment on the matter.”
+
+“Joe!?” said Alden, gaping at the screen. “What’s he doing here?”
+
+******

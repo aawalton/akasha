@@ -1,0 +1,30 @@
+reader-shift-capture  finalDrift=-370.0px onset=1401ms
+refIdx=92  restore=yes  baseY=9467
+coincident Δ@1401ms:  safeTop 59.0→59.0  padTop 59.0→59.0  vvOff 0.0→0.0  y 9467→9837  font unloaded→unloaded
+
+signal              base    final       Δ
+scrollY             9467     9837    +370
+drift(shift)         0.0   -370.0  -370.0
+safeTop(env)        59.0     59.0    +0.0
+main.padTop         59.0     59.0    +0.0
+vv.height          852.0    852.0    +0.0
+vv.offsetTop         0.0      0.0    +0.0
+vv.pageTop        9467.0   9837.0  +370.0
+vv.scale            1.00     1.00   +0.00
+innerH               852      852      +0
+doc.clientH          852      852      +0
+doc.scrollH       115103   115129     +26
+font.literata   unloaded unloaded
+chromeHidden           0        0
+
+t   drift  safeTop  padTop  vvOff  y
+1298   0.0   59.0   59.0   0.0 9467
+1348   0.0   59.0   59.0   0.0 9467
+1401 -370.0   59.0   59.0   0.0 9837
+1453 -370.0   59.0   59.0   0.0 9837
+1505 -370.0   59.0   59.0   0.0 9837
+1557 -370.0   59.0   59.0   0.0 9837
+1609 -370.0   59.0   59.0   0.0 9837
+1661 -370.0   59.0   59.0   0.0 9837
+1713 -370.0   59.0   59.0   0.0 9837
+1765 -370.0   59.0   59.0   0.0 9837

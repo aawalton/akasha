@@ -1,0 +1,11 @@
+ReferenceError: pageTypeSlug is not defined
+    at PageSystemTabContent (http://localhost:5199/@fs/var/home/walton/repos/code/packages/shared/pages/ui/src/components/page-system-view.tsx?t=1787201282668:149:69)
+    at Object.react_stack_bottom_frame (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=cfb2eb49:12864:12)
+    at renderWithHooks (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=cfb2eb49:4211:19)
+    at updateFunctionComponent (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=cfb2eb49:5567:16)
+    at beginWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=cfb2eb49:6138:20)
+    at runWithFiberInDEV (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=cfb2eb49:850:66)
+    at performUnitOfWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=cfb2eb49:8427:92)
+    at workLoopSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=cfb2eb49:8323:37)
+    at renderRootSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=cfb2eb49:8307:6)
+    at performWorkOnRoot (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=cfb2eb49:7992:27)

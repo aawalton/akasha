@@ -1,0 +1,139 @@
+---
+id: 4c4ac0cc-24a0-5e62-a25f-a9c9982c792e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1291 - Venus(?)"
+slug: 0164-chapter-1291-venus
+partOf: the-primal-hunter
+position: 164
+ownLength: 2786
+unit: words
+publishedAt: 2026-04-10
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3256353/chapter-1291-venus"
+royalRoadId: "3256353"
+---
+
+As Jake stared down at the toxic atmosphere, he realized that the “treasure” his Sense of the Malefic Viper had picked up from across space wasn’t any treasure at all. Instead, it was this very atmosphere that had reached such a high level of toxicity that it gave a huge response.
+
+Curious, Jake started floating towards it, as he surprisingly felt Villy reach out, something he very rarely did, especially not in situations like these.
+
+“What’s up?” Jake asked, assuming that the snake god had something to say about the upcoming system event or something like that.
+
+“That’s a question I’m also asking right now,” the Malefic Viper said, sounding quite curious. “Why is something like this here?”
+
+“Venus? Pretty sure the planet has been there all along. As for why it’s got a toxic atmosphere, I reckon it’s related to Venus being a very nasty place even before the system. Definitely not a candidate for colonization,” Jake answered. He remembered reading about Venus on the internet during a late-night binge of random facts, and he recalled that the atmosphere was filled with gases, making it very dense and the planet itself incredibly hot.
+
+“Yeah, those things are all very true, except for one minor detail... that’s not a planet. Not anymore,” Villy said, leaving little room for argument.
+
+“Not a planet?” Jake frowned, tilting his head. “It very much still looks like one.”
+
+“Oh, it does have the appearance of one, and unless observed up close, will pass as one. However, it’s most certainly not,” the Viper said. “Instead, it’s something you’ve encountered before. Places like these have many names, but I believe the most common one you know them as is minor worlds or dimensions.”
+
+“Like what Yalsten was?” Jake asked with confusion.
+
+“Precisely like what Yalsten was,” the Viper answered, sounding annoyingly proud that Jake remembered.
+
+Jake frowned even more at that as he inspected the toxic atmosphere more closely. “What exactly does that mean?”
+
+“I don’t know,” Villy said casually. “These things can appear entirely randomly throughout the multiverse with no rhyme or reason, and there is little one can do to find out what’s inside without actually entering. Even if I were there in person, I wouldn’t be able to see anything amiss unless right up close. Which does make me curious: what do you detect with your Bloodline-empowered sense?”
+
+“Just a dense wall of never-ending toxic energy,” Jake shook his head. He had already released a Pulse of Perception, but all he saw was pure energy that flooded his mind. Perhaps, given enough time, he could filter it and look to see if there was anything odd about the place, but he doubted it would feel weird, given Villy’s explanation.
+
+“Makes sense,” the Viper said. “It may also look like a planet to you, despite not being one. Now, it’s more of an entrance than anything else, perfectly disguised as a planet. That’s how minor worlds like these are constantly discovered throughout the multiverse, even in the oldest of universes. They are so hidden that one must practically stumble upon them. Which does make them great places to hide away, especially if you destroy their entrance. Like what happened with Yalsten.”
+
+“What happens if one blows up Venus?” Jake asked.
+
+“It explodes,” the snake god cheekily answered. “But in all seriousness, it disappears, leaving a spatial fracture leading into the minor world. If this fracture is then also removed, the minor world becomes entirely sealed off unless someone on the inside can find a way to re-establish a connection to stable space. Finding the minor world again from the outside is multiversally considered impossible, though I won’t go as far as to say someone like the Wyrmgod wouldn’t be able to do it if he really tried. Oh, and Eversmile, if he has a powerful enough karmic bond to latch onto.”
+
+Hearing that answer, Jake immediately had another thought. “Is that also how that unknown faction that likes to ambush people in the void and get eaten by Oras hides itself?”
+
+“Definitely a part of their strategy to stay undetected, though these minor worlds aren’t perfect hiding places, especially not for gods. The reason why is a bit complicated, but it pretty much boils down to every god’s Divine Realm being a minor world of its own, making the two come into conflict,” the Viper briefly explained. “Anyway, enough about that. Back to why this being here is odd in the first place. While there are many minor worlds in the multiverse, and while there’s plenty of precedent for planets being turned into ones during integrations, I do find it highly peculiar that one so close to your homeworld became one.”
+
+“I definitely agree it’s quite a coincidence,” Jake said. “Though it does leave the question: is this a good or a bad thing?”
+
+“Depends, but I’ll lean towards good, but again, the only way to find out is to see what’s inside,” Villy answered. “As for it being a coincidence, I doubt it’s one. A better explanation would be the high density of Records on your planet. During the Tutorial, as your universe was being transformed, your planet, and subsequently surrounding celestial objects, benefited from all its inhabitants, Tutorial-attendees naturally included. Your planet’s Tutorials were quite a show with many outstanding individuals. It was already weird that your planet had a Wood Meteor hit your moon and create a B-grade, and that so many powerful items granted by the system spawned there, so this really doesn’t strike me as out of expectations.”
+
+Jake slowly nodded, not having really questioned all things, but now that he considered it, the Viper did have a point. Jake had been to quite a few planets during the Prima Guardian event, and when it came to native monsters and whatnot, Earth was definitely at the top.
+
+“Thanks for the explanation, and I guess it does leave one final, all-important question... should I go in?”
+
+“Duh, of course you should,” the Viper said without any doubt. “Granted, it may be risky, but I trust your survival instincts to pull you out if you can’t successfully get in there. There is also a chance you could get trapped inside, which is just another reason now is the best time to check the place out. Even if you do get stuck, the system event will pull you out.”
+
+“That is a very good point,” Jake said with a small smile. “Anything else I should look out for?”
+
+“If the minor world has any peculiar traits. Like with Yalsten, these minor worlds may carry certain traits or aspects, making them either beneficial or detrimental places to be. Perhaps you gain extra experience within, or maybe your lifespan is consumed twice as fast. There’s really no way to know unless inside. Though if I had to guess, I would say that if it does have a trait, it’s related to the toxic atmosphere in some way. Maybe it’s a paradise for growing toxic herbs or creatures, or for gathering an extreme amount of certain natural treasures. These can even be unique items that can only be found in the minor world and nowhere else throughout the multiverse.”
+
+“Yeah, alright, I’ll definitely check the place out,” Jake nodded, slowly floating even closer to the toxic atmosphere. He tried to reach out with his energy, but found it instantly dissolved, making him move even closer.
+
+Putting his hand inside, he felt his hand sizzle, making him pull it out again, only to see his skin had turned slightly red. Seeing this, Jake did have one more question.
+
+“How exactly do I enter?”
+
+Having not encountered a minor world before, and having only heard about the one Casper had constructed using the World Core of Yalsten, Jake assumed he would just have to touch the atmosphere to enter or something like that. Evidently, that wasn’t the case.
+
+“Fly into it until you pass through. That’s how these tend to work. It’s effectively a spatial tunnel leading you into the minor world. Do be warned, though, from your brief interaction with the toxic energies, it isn’t exactly a pleasant way to enter. Or maybe it is for you, but it definitely wouldn’t be for most people,” the Viper said jokingly.
+
+“I guess there’s nothing else to do but enter,” Jake shrugged.
+
+“Nope, so have fun, and if the place turns out to be filled with A-grades, better run quickly,” Villy said, Jake not sure if he was joking with that one, and seeing as the Viper cut the connection immediately, he clearly wasn’t going to elaborate.
+
+Jake shook his head and looked into the toxic atmosphere, sighing. “Nothing ventured, nothing gained.”
+
+Unfolding his wings, Jake also covered his entire body in scales and a faint barrier of stable arcane mana before he shot straight into the toxic barrier covering Venus. Immediately, he felt the hostility of the environment as it sought to corrode and destroy him in both body and soul.
+
+It was an incredibly powerful toxin that would be dangerous to most B-grades, and Jake doubted C-grades could even survive a few seconds within. Jake himself wasn’t confident he could have safely passed through the barrier before he evolved to B-grade either, and he could definitely understand why Arnold had a hard time figuring out what was going on with Venus.
+
+Another thing he understood was why Villy said that, while others definitely wouldn’t enjoy passing through this toxic storm of destruction, Jake actually found it surprisingly pleasant.
+
+His small arcane barrier was immediately destroyed, allowing the energy to strike his scales and be absorbed by them. Even his scales were overwhelmed, allowing some of the energy to invade his body, at which point it encountered Palate of the Malefic Viper.
+
+With Palate, Jake rapidly consumed much of the toxic energy, gradually granting him some level of understanding regarding the nature of the barrier he was passing through. At the same time, it also helped make him more resistant to it, easing the journey further.
+
+Also, while Jake couldn’t outright confirm it, he felt that the environment should have been more dangerous than it actually was. This made him believe that Primal Spirit of Man’s effect of allowing him to better adapt to environments was a lot more potent than he’d first thought.
+
+Continuing his flight, Jake soon realized that this spatial tunnel was a lot longer than he’d initially guessed it would be. He flew at high speed for more than four hours without any end in sight, eventually switching to purposefully inhaling and taking in some of the barrier’s energy for Palate to consume.
+
+He’d long flown further than the entire diameter of Venus, at least if one went by the "fake" celestial object floating around the solar system. During his entire flight, all he saw was dense, multi-colored toxic gas that, even after all these hours, he couldn’t entirely recognize the full properties of. Jake recognized many of them, but there was just so much going on that it was overwhelming, and the conceptual level of these toxins surpassed anything Jake had ever worked with before. Outside of when he got things directly related to the Malefic Viper, of course.
+
+Finally, after seven full hours of high-speed flight, Jake detected the tunnel changing ahead. Through his sphere, he felt the density of the toxic domain decrease, which he took as a sign of some kind of opening, only making him speed up further. Shortly, he encountered the last barrier, and with one final push, Jake was free of the toxic domain and finally entered the true world hidden within what was once Venus.
+
+The first thing Jake noted was that while the toxic atmosphere had become less dangerous, this was still not a place where any regular being could possibly live. One thing that also surprised him was the temperature.
+
+Jake had fully expected the place to be absolutely scorching, perhaps because he still mentally associated it with Venus, which was known for being quite hot, but instead, it was surprisingly chilly. Not extremely cold, but definitely below freezing. It wasn’t like the temperature had much bearing, though, considering everything else.
+
+Using his sphere, Jake scoured the area and confirmed there was nothing solid anywhere nearby. Looking back, Jake was also surprised when he saw the barrier. It was completely vertical, like a wall extending endlessly upwards and down. When outside of Venus, he could at least detect some curvature, but inside, there was not even a fraction of a degree, making him wonder if this minor world was even spherical.
+
+Seeing as Jake had no direction, he just glanced around before picking somewhere random to fly. He kept his senses peeled, continually looking for any monsters or other living creatures, but even after flying for a solid fifteen minutes, nothing. Only at the thirty-minute mark did something happen.
+
+In the distance, something physical entered his Pulse’s range. Speeding up with a bit of excitement, Jake rapidly got closer to the object, all the while getting more and more familiar with his environment. The toxic fumes filling the air obscured his vision heavily, but the more time he spent in it, the better he got at filtering it out, increasing his range of perception by the minute.
+
+Closing in on the physical object further, he confirmed it was more than just some floating rock. Instead, he felt an entire island, or perhaps a continent, based on how big it turned out to be.
+
+Just then, he detected something even more interesting:
+
+Movement.
+
+Big movements.
+
+In the distance was an absolutely massive creature moving about on what he could now confidently call a giant continent floating in the middle of this minor world. Speeding up even further, and coupled with his increased familiarity with the environment, Jake’s eyes adapted enough to soon lay eyes on the monster.
+
+What he saw was a creature that looked to be made out of water, leaves, plant matter, and pure toxic sludge. It stood on two giant, stumpy legs and had two equally stumpy arms that separated into dozens of vines at their ends. Jake estimated it to be at least fourteen or fifteen kilometers tall, truly taking its size into the realm of what Jake would call ridiculous. Just each of those vines that swung around were thick enough to crush entire city blocks. Using Identify, Jake confirmed this monster wasn’t weak either.
+
+[Elder Boglord Titan – lvl 411]
+
+The lake it was standing in was naturally even more massive, practically an ocean in its own right. He wasn’t so sure the lake was made of water, though. His Sense of the Malefic Viper gave off a strong response, making it clear that taking a bath was not recommended unless one had sufficient poison resistance.
+
+This monster was surprisingly fast, sliding through the water as it swung its vines from its arms, with more randomly shooting out elsewhere on its body here and there to try to swat away its attackers.
+
+Because yes, it appeared that Jake had stumbled across quite a scene. Around the huge Boglord were five small figures flying around, keeping mostly together while trying to outmaneuver the far larger monster. All five looked to be around four meters tall, making them big by humanoid standards but absolutely tiny compared to their massive opponent.
+
+These five attackers moved like a coordinated squad, working together to avoid being caught out, as they were individually far weaker than their opponent. Observing these creatures, Jake wasn’t quite sure how to classify them. They all looked like vaguely humanoid frogs, with three of them being big and bulky, and two of them being slim.
+
+The three bulky ones had shell-like growths covering their bodies, while the two slender ones wore clothes made of plants, indicating some level of civilization. The bulky ones also had simplistic clubs that they repeatedly used to block or attack the Boglord, while the two slender ones seemed to be casters of some kind.
+
+Shooting an Identify on one of the bulky frog monsters, Jake confirmed two things quickly. The first was that these were indeed creatures Jake had never heard of or read about. Which made sense, considering the second fact:
+
+[Venusian Warrior – lvl 388]
+
+It turned out that while it was still perfectly possible that men were indeed from Mars, women were not from Venus. Frogs were. Then again, it was entirely possible these were all female frogs.
+
+Jake would have to further investigate if any of them survived their encounter with the Boglord, because while they were working pretty well together, they were definitely not winning.

@@ -1,0 +1,121 @@
+---
+id: 5308af60-4c63-5112-987d-a97c742e16c7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 616: Dave’s Irritation"
+slug: 0037-chapter-616-dave-s-irritation
+partOf: system-change-system-universe
+position: 37
+ownLength: 2201
+unit: words
+ownProgress: 2201
+publishedAt: 2025-12-31
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2894209/chapter-616-daves-irritation"
+royalRoadId: "2894209"
+markedReadAt: "2026-06-29T19:57:55.443Z"
+---
+
+Chapter 616: Dave’s Irritation
+
+The avatar that Dave uses to keep an eye on his Davenresh System appeared in another dark room. It was his council room, where all of those he’d chosen as part of his council could come to meet. Currently, only three of the seats were occupied, and Sereph stood beside the head seat that belonged to Dave.
+
+Dave slammed his hand down on the war table in the center of the room before walking over to his own seat and falling into it with a sigh.
+
+“Master Davenresh…” Sereph said cautiously. “Are you okay? Did the meeting not go well? You… released some of your aura.”
+
+“No,” Dave sighed and shook his head. “Our chat went quite well… it’s just that the Origin System is being irritating by making things difficult for me again.”
+
+“Really?” Sereph asked in surprise. “Was it about Derek Hunt? That’s the only time it seems to interfere, but I thought that was over now that he is already a part of the system.”
+
+“No, it wasn’t,” Dave said. “It’s about something that I wanted to tell the man, but the system wouldn’t allow me to. We spoke of ascensions, and I wanted to tell him about the rewards that I received from the invasion and what I receive from people ascending. But the system wouldn’t let me say anything specific.”
+
+“Oh,” Sereph said. “That’s understandable. Isn’t that how it has always been? Only Transcendents and their retinue…” he motioned to himself and the chairs around the room—both the empty and full ones. “Can know the specifics. There is nothing you can do about that.”
+
+“I know,” Dave said. “But I know Derek would make some different decisions if he knew that once the Davenresh System gains the final essence it needs—which it will probably get from either Derek or Shaemus’s ascension to a higher-tier system—it will be promoted. If he knew, then he would be able to let those who want to go with him know about it.”
+
+“You’ve done all you can already,” Sereph said. “Besides, this is good for all of those who don’t go with him. The best opportunities and most peaceful times come when a system ascends. The Davenresh System users are about to be in a golden age. Their essence-starved bodies are about to find out what it’s like to be in a part of the universe rich in it. They will have new Achievements to earn and new monsters to slay. It’s really a win for all—especially you. They will grow side by side with everything. Isn’t this what you’ve been striving for? To become your brother’s equal in less than half the time it took him to get where he is?”
+
+“I know and understand all of that,” Dave said. “But I see that he plans on taking the former prince with him, and I know that man will accept. He is very family-oriented, though. I believe if he knew that he would soon be able to get back on track with his growth while staying with his family, he would. And I think that is the same for most. Like the Siren’s Second. I’m sure he will go, but he would rather stay. And the more strong people who stay, the better things will work out for me, too.” Dave sighed. “At least he is limited to ten system users, though…”
+
+“Did you…” Sereph’s eyes widened. “Did you give him a guest pass?”
+
+“I did,” Dave replied.
+
+“You spoil him,” Sereph said. “There is more than a chance that he doesn’t make it. Why waste such a bargaining chip?”
+
+“Do we really need to have this conversation yet again, Sereph?” A feminine voice came from the direction of one of the filled seats. When Dave looked over, he saw Aestra. She was a member of his council—an Ascendant who could reach Transcendence at some point. Aestra was a member of the velari race that Dave had just told Derek about. She looked human and had perfect pale white skin, but she had a pair of deep purple eyes along with matching shoulder-length hair. Protruding from the top of her head were two silver-blue horns about six inches long.
+
+By looking at the woman, one would think that she had a strong void or gravity affinity—maybe even chaos. But no, Aestra was actually a full-on lightning user and the reason that the lightning affinity was strong inside the Davenresh System—though not as strong as the earth affinity. The only part of her body that changed with her affinity was the horns on her head.
+
+Aestra was actually a genius, and Dave was lucky to have convinced her to join him. As an orphan who made it to her position with her own talent and drive, she could have had her pick. Yet she agreed to join Dave all those years ago when he was first starting out as a Transcendent. She was a blunt but well-respected member of his council.
+
+Sereph looked over at the velari and clicked his tongue. “I don’t see what concern it is of yours, Aestra.”
+
+“Master Davenresh has made his fondness for the human known,” Aestra said. “It is not our place to judge, and it is especially not your place to judge… glorified secretary.” Sereph winced at the words but didn’t say anything back.
+
+“What Aestra says is true,” Dave replied. “The guest pass was burning a hole in my dimensional space, anyway.” He then looked over at Aestra. “By the way, Aestra… I got an idea while speaking with Derek because of you.” He then explained how he told Derek that if things got bad, he could say he was a half-velari.
+
+“Good thinking,” Aestra said. “I have seen my kind mistaken for void users before. I was mistaken for one just the other year. Of course… a nice little shock from my horns was enough to clear up that misunderstanding…”
+
+“I feel bad for anyone of the Void Emperor’s men who mistake you for a void user,” Dave said.
+
+“Don’t feel bad,” Aestra replied. “He got a little handsy, and he doesn’t feel anything anymore.” She closed her eyes and tapped her chin for a moment, then said, “And he won’t for another five years. The numbness should go away then.”
+
+“W-which part did you numb?” Sereph asked hesitantly.
+
+“Yes,” Aestra replied.
+
+“Huh?” Sereph tilted his head in confusion. “Yes? What does that mean?”
+
+“That means that she numbed him… completely,” Dave answered. He looked at Aestra with a raised brow. “Five more years? Can he at least taste food?”
+
+“Nope,” Aestra replied. “No taste. No sex. No feeling… he should thank me. When his feeling comes back, he will be even stronger than before… if he’s been training to fight with full body numbness. At least it doesn’t mess with sight or hearing… at least… what I hit that void orc with doesn’t mess with them. So… if he doesn’t die in the next five years…”
+
+“And he’s not dead?” Dave asked.
+
+“No. I can feel that my skill is still active. I set it to last on a weakling like him for ten years, and it’s been five.”
+
+“That is surprising,” Dave replied. “With such a disability, I would have thought the Void Emperor would make an example out of him. How has he not killed the man yet?”
+
+“Beats me,” Aestra said with a shrug. “But yes, having your friend say that he is a velari is not a bad move if you want to keep the Void Emperor away from him. They have actually become much more cautious with velari over the last five or ten years for some reason, so that’s even better.”
+
+“For some reason?” Sereph muttered. “You… you are the reason.”
+
+“That can neither be confirmed nor denied,” Aestra replied with a smile. “But,” she ignored Sereph again and spoke to Dave, “if it is ever needed and not too out of the way, I can verify that the man is a half-velari. If he comes to Origin City, I can get him some documents that will hold up under most scrutiny. Of course, he will need some kind of blocker so he isn’t personally scanned.”
+
+“I told him to be on the lookout for an item to keep his aura in check, and to be careful selecting one because Dorian probably has a bunch of ones with trackers up for sale,” Dave said. “Though, I didn’t think about an item for blocking Identify or other such skills because he earned the Enigma Achievement long ago. Unless a Transcendent or powerful Ascendant is the one using the skill on him, or someone with an incredibly unique skill, they should only be able to see his class type and level.”
+
+“Mhm…” Sereph nodded. “I… scanned him during the invasion ceremony.”
+
+“What did it say? You are a weaker Ascendant,” Dave asked, which caused Sereph to clench his fists. Sereph wanted a seat on the council, but he wasn’t strong enough. Instead, he was brought in to be Dave’s assistant because he was the first person from the Davenresh System to fully ascend. It was also why he felt so much jealousy towards Derek, who was already offered a seat on Dave’s system council.
+
+“It said Level 251, ??? Magic Warrior, with endurance, vitality, and intelligence as his highest stats,” Sereph said. “So, unless they have a better Inspect skill than I do or are more powerful than me, anyone will just think he is a close-range mage fighter.”
+
+“That means that as long as he is sent to an area the Origin System believes he has the ability to survive in,” Aestra began, “he won’t have to worry about a blocker until he leaves that place. Did you tell him to work on that Achievement to upgrade it?”
+
+“I… forgot,” Dave said. “But I plan on getting one more notification to him if I can slip it past the Origin System again. I’ll mention Enigma in it. It won’t help him against the Void Emperor’s trackers, but it will certainly help him against inspection skills. I’ll also make sure to have him turn the secondary effect of the Achievement on once he upgrades it another time or two, like others who have it do. At his level and in the Origin System, he should be able to grow it to Minor Enigma or even Enigma in just a few days inside a regular city. After that, he won’t have to worry about his most personal information leaking to regular inspection skills.”
+
+“Good idea,” Aestra replied. “I must go now,” the woman said with a sigh. “I promised one of my grandsons… great… great… grandson?” She shrugged. “I don’t know how far down the line he is, but he’s one who has shown a bit of talent, so I promised him that I would help him with his lightning affinity. Now, he knocks on my door asking if I’m ready every week. I’ve carved out a bit of free time today, but I need my full attention. So, unless you need anything from me, Master Davenresh…”
+
+“No, you’ve been helpful today,” Dave said and waved away Aestra’s concerns. “Go, have fun spending time with your grandson. Try not to harm him too badly.”
+
+“It will build character,” Aestra replied with a smile, then chuckled. “In that case, I will be off. I’ll check back in later, but if I’m needed, you know how to get ahold of me.”
+
+“I do,” Dave said. “And I’ll let you know if a stage one lightning nova appears anywhere. I have alerts set and some trustworthy people keeping an eye out.”
+
+“Thank you,” Aestra said with a nod of her head, then her silhouette was overtaken by a bright white light. When the light dissipated, the chair she had been sitting in was empty.
+
+“Sereph,” Dave said to get the man’s attention.
+
+“Yes?”
+
+“I have put off discussing rewards with my father for too long now, so I really must go,” Dave said. “I wonder how green with envy my elder brother’s face will get when he learns that I’m only lacking in an ascension or two.”
+
+“I am sure he will be stunned,” Sereph said.
+
+“I’m counting on it,” Dave replied. “Anyway, Sereph… Derek is going to use a new skill at some point soon. I want you to be on the lookout for it. When you see it, log everything you can about it. It’s an eclipse-like skill, so you should be able to spot it when he uses it.”
+
+“Very well, Master Davenresh,” Sereph said with a slight bow.
+
+Dave looked at the other couple of seats that were occupied but quiet. It took focus to really listen in, pay attention, and control an avatar multiple universe tiers away, so there were always council members present, but they weren’t ‘truly’ there at all times. Of course, if Dave said anything to them, it would get their attention, and they would focus in.
+
+He nodded at the seats, then at Sereph, then closed his eyes. A few moments later, he blinked out of existence.

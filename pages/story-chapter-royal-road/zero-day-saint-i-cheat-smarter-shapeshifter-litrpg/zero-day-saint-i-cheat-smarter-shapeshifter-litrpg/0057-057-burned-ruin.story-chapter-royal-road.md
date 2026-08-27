@@ -1,0 +1,173 @@
+---
+id: 8c402d09-d6de-5f2f-ac68-bd91d7c11d89
+page-type-slug: story-chapter-royal-road
+title: "057 - Burned Ruin"
+slug: 0057-057-burned-ruin
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 57
+ownLength: 1891
+unit: words
+publishedAt: 2026-07-15
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3678842/057-burned-ruin"
+royalRoadId: "3678842"
+---
+
+They were all gathered in front of the club by the time I returned, even Helene with her dogs. Roslyn was pacing up and down. Even at a distance, I could see that she had allowed herself to hope. That there would be a fight in which she could save her child.
+
+Any fighting spirit drained when I dropped the plush donkey in front of them and landed. I kept my back turned as I canceled the shape. A murmur went through the gathered group.
+
+"Eve?" Roslyn asked. "Where is Jason?"
+
+"Claire—" My voice gave out. I balled my fist. "Claire killed him."
+
+I had dropped the bomb, but I didn't stay for the explosion. While the group erupted into confusion, questions, and cries, I walked away. Jamie confirmed that I was telling the truth. Of course, he had only my emotions to judge that by. I didn't know how he knew what I was feeling. I didn't know what I was feeling.
+
+Moments later he fell into step beside me. Even though I spent all that time as a Golden Retriever, he sometimes reminded me more of one. All I had done was shove him into a profane space, and it had gotten me undying loyalty. It didn't feel fair.
+
+But right now? I was glad he was here.
+
+We wordlessly made our way into the ruins of a burned-down house. It was far enough away that the chat no longer transcribed the discussion that was happening in front of the club.
+
+I stared at the melted remains of a gaming console that had dripped along the front of a burned-down TV stand.
+
+I didn't know what to do. About Claire. About the Wyrm. About the Warlords. With one act, she had poisoned any cohesion this city had. We couldn't coordinate with other Blessed through her.
+
+"Can I hug you?" Jamie asked.
+
+I looked up at him. I wanted to reply, but my throat was acting up. Instead, I nodded.
+
+He pulled me in close, and I put my head against his shoulder.
+
+"It'll be okay," he said.
+
+Part of me wanted to argue that this was incredibly cliché to say. I resigned myself to the hope that he was right.
+
+"Want to talk about what happened?" he asked.
+
+I did. Laid everything that happened out. The only parts I skipped were the Wyrm's spoilers and Lucy's offer of a weapon against Claire. At some point the tears had started flowing. We were sitting in the ashes of someone's former home, covered in soot.
+
+"Do you think she'll do it? Help the Wyrm?"
+
+"I—I think she will. It's her class all over again. She always thinks she can outsmart something or someone. That she'd be the one going into this with a plan and that she would end up on top."
+
+"Damn. What do you think it wants from you?"
+
+I was drawing circles in the ash with the tip of a claw. "To build something. It said something, and at that point I didn't fully grasp it. 'Please don't disembody me.' It is restricted to technology. It crashed a ton of EVs, taking pot shots on us all the night this all began. Its movement is very limited now. There aren't many bodies like that robot out there. And even in one of the most modern workshops in the world… a lot of equipment is made for human hands. It probably only needs a tiny jumpstart before it can build anything on its own. But before then, it requires engineers. Or the closest to that it can get."
+
+"And we need to try to prevent that from happening."
+
+I looked up at Jamie. "I am not sure we should. Embodiment. That is literally a Perk I have. Is it okay to deny that to someone? Even an enemy?"
+
+"Are you… are you saying you want to help it?"
+
+I picked up a charred piece of wood, leftovers from a burned-down couch, and tossed it into the remains of the TV stand. They crumbled.
+
+"I don't know. The most enticing part about this is that it's a problem I'd know how to tackle. Easily digestible into distinct problems and steps to solve them. Simple feels really attractive right now."
+
+"Hubris."
+
+Jamie leaned back, leaving the word hanging between us.
+
+"What?"
+
+"You heard me, Eve."
+
+I looked at him and explored the strange sensation that was the Oath's shared understanding. Underneath the familiar current I had come to associate with these discussions, there was something colder.
+
+Jamie was afraid. Of me. Of what I could do.
+
+I leaned my head back, looking at the ceiling.
+
+"Fuck," I said.
+
+Jamie put a hand over mine. "I'm not saying you are entirely wrong. Just… maybe table this thought for now, okay? You are talking yourself into something, and I don't think it has anything to do with the Wyrm."
+
+"Okay."
+
+"Thank you, Eve."
+
+I stood up and held out a hand to help Jamie up. "No, I need to thank you. Ever since Mammon, and… you know. I'm feeling lost."
+
+Jamie took my hand and allowed me to help him up. "One step at a time. We got this. Eventually."
+
+I looked around, back toward the club, where the others were still processing the fallout of the bomb I had dropped.
+
+"I need to talk to Helene. I don't want to head out there without you again, but I think I should team up with her, and just her, for a bit."
+
+"Oh? Not that I doubt your judgment, Eve, but I'm curious to hear that justification." He was amused. Not a hint of hurt feelings over me telling him I was about to abandon our partnership once more.
+
+"Why is this idea so funny?"
+
+"She's extremely your type, isn't she?"
+
+"That—is entirely accurate. Yes. But it's mildly offensive that you'd think I'd let that cloud my judgment. Very immature of you, Jamie."
+
+"Well?"
+
+"We'll need to part ways with her. Anthony's party needs someone to replace Jason. He… He was their skirmisher. But I also fear that she's trying to put a square peg-shaped class into a round role hole. That her Mad Alchemist class isn't really well-suited to protect her dogs over the long run. However, a subclass might fix that. So I want to power level her to get her to level 20. And then she can help the others out."
+
+Jamie had joined me as I made my way out of the building. We were looking back to where the others were still gathered.
+
+"Apologies, Eve. That is a well-thought-out reason. I hadn't thought of the party composition consequences yet. I'll miss her though."
+
+"Do we have a bit of a pot-calling-the-kettle-black situation here, Jamie?"
+
+"Oh, her? No, definitely not my type. Just a delightful person to be around. And I love the dogs."
+
+"Ash is, isn't he? Your type?"
+
+Jamie looked over at me. "Woah, Eve. That's a bit out of left field."
+
+"You inquired about my crush. Fair's fair, as Lucy would say."
+
+"Yes, he is. I kind of want to cuddle him and not let go."
+
+"Hah!" Lucy's voice rang in my head. "I knew it! Fucking called it. Tell him to go for it."
+
+"Lucy says I should tell you to go for it."
+
+I didn't wait for his reaction and walked over to the others. Claire was still alive, the group had broken up a bit, some were consoling Roslyn, others were still arguing with Claire.
+
+I made eye contact with Helene and waved her over. After a brief moment of puzzlement, she leaned down and said something to her dogs, who promptly rushed ahead of her to greet me. I, too, loved her dogs.
+
+We settled down at a nearby bus stop.
+
+"What can I do for you, Eve?" Helene asked.
+
+"It is more that—sorry, before we get to business: what are their names?"
+
+Helene had a really nice laugh.
+
+"Reynard, Ysengrim, and Tibert." She pointed at each in turn as she shared their names.
+
+"Is that French folklore? Sorry, I may be showing my ignorance."
+
+"No, you are correct, Eve. They are all names from the same cycle of fables. A fox, a wolf, and a cat."
+
+"Okay, thanks. So, I wanted to discuss your class and if I could help you."
+
+"Oh? Help me? How? And why? You do not owe me for my assistance."
+
+"No, not that. Not that I'm not grateful. But it's more practical. I think Anthony's party needs your help now more than we do. And on top of that, I worry about your dogs. As stupid as that sounds. Your class isn't exactly meant to be used like you are, is it?"
+
+Reynard had been intently staring at us since we sat down. Helene pulled a rubber ball out of her inventory and tossed it down the street. Reynard bounded off after it, while the other two didn't bother.
+
+"Astute observation, Eve. While the Blessing eventually gave me many Task Rewards related to them, it has been a struggle to make it work. My concoctions aren't easy to create, and I'm not exactly willing to take too many risks experimenting with them. What do you propose to do about this?"
+
+"Team up, just the two of us. I got a Perk that would increase your experience gain notably at the cost of me not gaining immediate experience. We'd stick together until you are level 20. And then hopefully you'd get a subclass focused around buffing your boys. If you wanted that. I was offered a whole bunch of subclasses, all related to and buffing how I tackled the Apocalypse so far."
+
+Reynard returned and offered me the ball. I shot Helene a questioning glance.
+
+"He wants to include you. He's a very social one."
+
+"Oh god, my heart. That's just… wow." I took the ball from Reynard and tossed it down the street.
+
+"I obviously love all my babies equally," Helene said, lowering her voice to a whisper. "But if I were to love one the most, it would be him." She leaned back and raised her voice again. "As for your offer, I am not sure what to make of it."
+
+"What's the issue?"
+
+"How do I say this? You aren't exactly like the other Blessed anymore, Eve. People saw what you did, and some will expect something similar soon. I am not sure if I can justify slowing you down to accelerate my own growth."
+
+"With all due respect, Helene. Fuck that. Yes, I may carry more expectations now that I have already killed one warlord on my own, but I will not let that stop me from helping the people around me survive this. I can't protect everyone, but I can damn well make sure that people who need my help get it." At some point I had stood up, and now I was looking down at Helene. I held out a hand. "Will you spend a day or two with me, murdering as many Created as we can, Helene?"
+
+Helene looked at my hand, then into my eyes. Next to me, Reynard dropped the ball again. Then a smile crossed her lips, and she took my hand and stood up. "It would be a pleasure, Eve. You are an odd one, though."

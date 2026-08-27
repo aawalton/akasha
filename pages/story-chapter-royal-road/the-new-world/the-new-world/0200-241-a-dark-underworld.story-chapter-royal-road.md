@@ -1,0 +1,149 @@
+---
+id: 185a7282-d8a0-57fb-a57e-0c3db014135d
+page-type-slug: story-chapter-royal-road
+title: "241 A Dark Underworld"
+slug: 0200-241-a-dark-underworld
+partOf: the-new-world
+position: 200
+ownLength: 2061
+unit: words
+ownProgress: 2061
+publishedAt: 2019-12-06
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/431632/241-a-dark-underworld"
+royalRoadId: "431632"
+markedReadAt: "2026-06-29T21:27:49.239Z"
+---
+
+- Althea -
+
+I held my breath, slipping into the other plane. Stepping onto a string of connected steps, I followed the line leading towards the remaining members in the compound. Phasing back onto our plane, I grabbed the remnant's white hair, slicing clean through her neck.
+
+Pink flesh and the arteries exposed themselves under the fluorescent lights. The body flopped forward, splattering onto the ground. I frowned while turning towards the other scientist. Wearing a medical mask, his brows creased in horror. Instead of running or fighting back, he froze in place. That was something I learned after assassinating many people.
+
+There isn't just a fight or flight response. There was also the freezing option. When faced with a surreal, horrifying reality, most people only lock up. Not wanting to waste time, I pressed my heel against the ground. The sterilized tile beneath my feet cracked, the floor smelling of chlorine and antiseptics.
+
+I bolted towards him before piercing a dagger at his heart. I slit upwards while tiptoeing around him. Like peeling a bloody banana, his face sternum, collarbone, and skull split apart. His blood sprayed onto the ground, none of it touching me.
+
+Bleck, blood was so gross, but it was inevitable in this kind of work. Daniel kind of just wallowed in the stuff. It was rare I hit that kind of bloodlust anymore. Now I just entered this cold state of mind, like nothing mattered.
+
+Around me, the fluorescent lights flickered over tubes of Hybrid research. With each flicker, a pair of red eyes darted further into the facility. I followed it as a shiver raced up my spine. It still stunned me that he could turn into a different person like that.
+
+Opening the door to the next room, the lights flickered as a dozen scientists studied their work. They peered around in confusion as the lights above them went on and off. I watched as the shadows of the researchers came together. A broad figure rose from the umbral well. Hod peered around, the researchers paralyzed with fear.
+
+A tense moment passed as they understood what was about to happen. I wanted to close my eyes, but I kept them open. There was something sickening about watching someone look at death. It was the same stare a mouse gave a cat. They both stay still, knowing what would follow. Neither moves alone. They spur into action together, each of them struggling for life.
+
+That unbearable specific kind of silence stretched on for a few seconds. To its victim, it was an eternity. That infinity passed in the eyes of the researchers. None of them so much as breathed. The most primal emotion, fear, wrapped its cold embrace around them.
+
+At this moment, recognizing their death, they were most alive. The lights flickered, going dark for a second. As flight returned to the room, entrails and blood covered the entire space. Hod butchered them during the lapse in light.
+
+Hod was a natural assassin in that way. Fast, efficient, and quiet, he cleared rooms without needing more than a semblance of shade. I didn't quite understand how his powers worked, but I didn't need too. All I needed was the work he could get done.
+
+He turned towards me, a black flame ebbing from his swollen, muscular frame. Without saying a word, we stepped up to the computers, downloading files and information. We used a cipher from the Overseer developed with a group of researchers. The software let us read the hidden data. Another researcher opened the door before closing it.
+
+He stared up at Hod, who glared at the scientist with eyes lacking empathy. The lights flickered. More blood. More gore. More death.
+
+I shook the chill off, turning back towards the data. We found information, lots of it. The kind of information that really helped the cause. That's what this was all for. I found one of the research facilities conditioning children. Since then, I wasn't about to let the Adair Family off the hook. They'd hang on the noose they made for themselves, and I'd be the hangman.
+
+Er, well hangwoman, but whatever.
+
+Anyways, I sent the data over to Torix before finding an opened file. Skimming over the information, my eyes hollowed, and my stomach sank. I turned away, a bitter taste leaking into my mouth. Hod stepped up, his frame shrinking back to his other form. I took a sigh of relief. He was so much easier to talk to when he was like this.
+
+"Hod not good at read. What thing say?"
+
+I took a breath, "It's a record of Schema's offenses. It's...ugly. Like, really ugly."
+
+"Hod wonder what kind of ugly?"
+
+"Uhm, it's hard to explain."
+
+"Hod willing to listen."
+
+I dragged my hand across the back of my neck,
+
+"So, it, hm...It's detailing a few of Schema's crimes against the remnants, but it has other stuff we didn't know about. It mentions eldritchifying worlds so that they can glass them later. I...I know that's hard to hear."
+
+Daniel and I went to Hod's homeworld after it was destroyed for some reason. Daniel mentioned runes or something like that, but it seemed kind of random to me. Either way, Hod lost his home because Schema eldritchified it, so hearing this must of stung.
+
+Hod stared down as he mumbled,
+
+"Ah."
+
+A silence passed before he nodded, "Hod understand why Adair Family do what Adair Family do."
+
+I bit my lip, not wanting to go on with the list of stuff Schema was doing. Hod stared at his winged arms and taloned fingers,
+
+"Hod lost home. Remnants lose home. They want home back. Simple reason. Powerful reason. Hard not to understand for Hod."
+
+He gripped his hands, "But Adair Family take Gialgathen home. Adair family ruin other home to make new home. Adair Family ruthless. Adair Family evil. Must be stopped."
+
+I nodded, "Yeah. I think so too."
+
+Hod took a deep breath, "So what else AI man do?"
+
+I shivered a bit before replying, "Er, this document is saying Schema has created massive mana battery farms to power the system. There's no concrete proof, but there's a lot of circumstantial evidence here."
+
+Hod shook his head, "AI man bad. Not bad as dry man, but bad man still."
+
+I let out a nervous chuckle before the gloom returned. I scratched the side of my head, "Yeah, but that's not all of it. It says here that Schema is purposefully stalling the research of the eldritch or the dimensional cracks and where they come from."
+
+Hod spread his wings, "Why AI man do that? Thought AI man want get rid of eldritch?"
+
+I blinked, kind of stunned at the accusations I was reading,
+
+"Your guess is as good as mine, but it says here that Schema is programmed to stop the eldritch a certain way. If people got rid of the eldritch, Schema would lose his reason for existing. This goes on and shows a list of canceled research projects about these subjects. It then details how Schema is essentially a symbiotic life form to the eldritch."
+
+Hod gave me a classic confused stare,
+
+"What."
+
+A bead of cold sweat dripped down my forehead, "It's saying that Schema needs the eldritch to be a problem, so Schema's making sure they are a problem that is never completely solved. In a way, it needs the eldritch like we need food or air."
+
+Hod rubbed the underside of his beak,
+
+"Hod see...AI man now Conspiracy AI man."
+
+Hod's oddness was refreshing at times like this. I let out another laugh. Another awkward pause passed over us. Hod turned to me,
+
+"Hod wonder...Does lady friend think we do right thing?"
+
+I wondered about it for a moment. I remembered my childhood with Yawm, how awful the research had been. I dwelled on the hollowed faces of starving children, and the looks of those with scrambled minds. I took a deep breath,
+
+"I...I don't know. I think it's more like we're just choosing our poison. For me, I'm sticking with Schema...Yenno, for now."
+
+Hod nodded, "Then Hod do same. Come. Lady Friend and Hod not finished. Work still left undone."
+
+I followed him after we harvested the data from the room. Hod took an enormous breath, forming and breathing in a dark miasma. Brightening the room, his lanky frame swelled with umbral energy, the shade empowering him. His eyes shifted from a hollow white to a piercing red.
+
+He turned towards me and nodded. I phased off our plane, entering somewhere else. To be honest, I still didn't quite know how it worked. All I knew was that I had to hold my breath and that no one could see me.
+
+I phased through the door while he fell into the shadows. Both of us wandered through the underground facility, each of us killing dozens of researchers, guards, and managers. In those moments, I went cold. My heart slowed. My mind numbed. I quit thinking. I quit doubting.
+
+There was no time for doubt. There was too much to do. We found horrific experiments, groups of indoctrinated children, and deformed gialgathen hatchlings. The deeper this rabbit hole I went, the more I wondered where it would end. The more twisted it turned, the more I understood it would never end.
+
+Down into that winding path we went. A researcher found me slicing someone's throat. He went to scream. I dashed forward, reaching out my hand. I squeezed my hand to stop his voice. My hands cut through neck. Blood sprayed. Disgusting. I wiped my hand on a tissue nearby.
+
+I walked up to another data log, Hod inspecting other parts of the facility. In the next data patch, I discovered the extent of the rebellion's success. More cold sweat poured down my back as I read on.
+
+The rebels amassed over five worlds to their side already. These reports listed easily controlled societies. Lots of them were enslaved worlds subservient to new races that came in and took over after being systemized. Earth was on the list.
+
+I kept reading, my nerves racing. Lehesion decimated everything in his path. It was a biblical kind of destruction, the kind that left the viewer in awe. He eradicated the defensive operations on the planets, letting the rebels organize. Even worse still, there were reports of the system still being used by the insurgents.
+
+I remembered Amara and what she could do. Did the rebels have someone like that too?
+
+It was too much to think about. This rebellion was expanding faster than I ever imagined. The only real thorn in their side was the glassing of Giess, which they seemed pretty calm about. Well, that and Daniel. These reports had a lot to say about our guild, and most of it was really bad.
+
+At least they didn't know where we were. Yet.
+
+I scanned over some more of the documentation. It mentioned cloning an army of psionics. It talked about figuring out how to hack into Schema's mana streams and information channels. It even detailed a few ways of systematically killing Sentinels and taking their armor and spears.
+
+The more I read, the more I realized something - we were in way over our heads. I wondered since this rebellion stared how the enemies organized so quickly. Turns out this, had been planned for years. They were just waiting for the right time to mobilize. Since we got in the way, they spurred into action early.
+
+I took a deep breath, trying to calm myself down. Some of the stuff on here didn't even make sense. It mentioned something called a dimensional cipher. There was a bunch of mumbo jumbo about rewriting reality like Schema did.
+
+Pfff, uh, yeah, whatever. Talk about ridiculous.
+
+I downloaded the rest of the documents, regrouping with Hod. In my status, our scouts found another base nearby. I began the information transfer to Torix, making sure he understood what was going on. After that was finished, my mind went cold again.
+
+That was enough thinking for now. We needed a cold, ruthless assassin. I enveloped my mind in apathy. These were enemies, not worth my emotions or empathy. They were lambs to the slaughter. They were to be culled.
+
+It was time to move on to the next mission.

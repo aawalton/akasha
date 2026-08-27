@@ -1,0 +1,565 @@
+---
+id: 555418ab-0ed7-5791-978f-8873fa31d6ea
+page-type-slug: story-chapter-royal-road
+title: "Chapter 106: Of Luring Prey, and Chasing Fun!"
+slug: 0107-chapter-106-of-luring-prey-and-chasing-fun
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 107
+ownLength: 1835
+unit: words
+publishedAt: 2026-03-02
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3109417/chapter-106-of-luring-prey-and-chasing-fun"
+royalRoadId: "3109417"
+---
+
+PoV Luna
+
+The moment Luna crossed the treeline, the air changed.
+
+It was cooler between the trees.
+
+And the air felt… thicker?
+
+Sap-heavy and damp enough that each breath tasted green.
+
+She paused for exactly half a heartbeat.
+
+It was weird!
+
+Not like old pack home.
+
+It felt more like–
+
+Luna inhaled deeply, her chest expanding wide as her boots skimmed over exposed roots.
+
+The scent of churned soil layered beneath sharp ant-pheromones. Bark carried invisible trails, sticky and weird. Moss had been stripped in wide swathes.
+
+The forest floor looked ruffled, churned all up in places and combed through by far too many legs.
+
+Luna’s nose twitched.
+
+It all smelled of hurt!
+
+A wound upon the forest.
+
+“Clickies are messy,” she declared softly.
+
+She chewed on a strip of jerky while walking forward. Spice burned pleasantly on her tongue.
+
+Mhm!
+
+Jerky best!
+
+And it gave Luna strength!
+
+After all–
+
+Important wolf business required proper fuel!
+
+Luna swallowed the last piece, happily licking up the rest.
+
+Yes!
+
+All ready now!
+
+She burst forward.
+
+The first cluster of ants scattered before she even reached them.
+
+Cowards!
+
+Luna didn’t chase after them immediately.
+
+Instead she curved wide, letting the nearest soldiers orient themselves and give chase. Their legs skittered over bark and broken roots. Mandibles clicky-clacked.
+
+The sound vibrated through the tree trunks around her.
+
+She let them come!
+
+Momentum built naturally beneath her boots.
+
+One stride. Two. Three.
+
+And Strike!
+
+Her finger-claws sliced through chitin without driving much weight into it.
+
+Efficient and minimal!
+
+Exactly as Luna intended!
+
+The Ant fell just as she slipped between two trunks without breaking rhythm.
+
+Her Maw swallowed the crunchy mid-step.
+
+Better.
+
+And cleaner!
+
+Her grin widened.
+
+“Efficient attacks,” she decided. “Mean less splat on face!”
+
+Before long, another group reacted to the noise.
+
+And another!
+
+She wove between them, deliberately letting small clusters spot her before darting away.
+
+It wasn’t the time to be fighting–
+
+But it didn’t mean Luna couldn’t play around!
+
+She pushed into a longer stretch of open ground and triggered Reaper’s Pass deliberately.
+
+Then took off into a long long run!
+
+Long enough for the feeling of strain to build behind her ribs.
+
+And then–
+
+She swerved at the end instead of driving straight!
+
+Her body protested. Muscles pulled. Mana tugged at her spine–
+
+–and she shot two full strides sideways beyond where her weight should have carried her!
+
+Ehehe!
+
+That was awoomazing!
+
+She skidded, laughed, and bounced upright again.
+
+Two strides farther meant two strides freer!
+
+And while a little hard to do… Luna could choose direction at the very last instant!
+
+Harder to predict. Harder to pin.
+
+Powerful!
+
+And very Apex Predator!
+
+The Ants caught up, clacky-skittering!
+
+But Luna was ready, and launched into another test!
+
+Over a mossy ridge. Overshot on purpose!
+
+Twisted at the end.
+
+Strain!
+
+And then–
+
+Release!
+
+Luna landed clean!
+
+Though her balance faltered–
+
+She managed to adjust at the last second!
+
+【Reaper’s Pass Lv. 2 → Lv. 3】
+
+Ohh!
+
+Testing new things always meant big gains!
+
+Very proper!
+
+A flanking trio attempted to cut her left.
+
+Luna pivoted, and let her body’s Momentum carry her naturally, slicing through two legs! She ducked under the third, away before the attackers could hope to chase!
+
+It was a delicate maneuver, one Luna didn’t really try before.
+
+And yet–!
+
+【Momentum Claw Lv.11 → Lv.12】
+
+It worked!
+
+Luna froze for a fraction of a second.
+
+Then preened mid-sprint!
+
+“Impawsive!” she informed the forest solemnly.
+
+The revelation that Luna could gather enough Momentum to matter, with so little movement was great!
+
+Awoo worthy!
+
+Perfect for weak prey like Ants!
+
+She landed lightly.
+
+Straightened up, and took a deep breath.
+
+Hrm, still wrong!
+
+The smells of the hurt forest were bad enough.
+
+But the sights made things look bleh too!
+
+Wide gaps where undergrowth used to be. Moss ripped up. Sap bleeding thick from fresh gouges. Entire patches churned into raw dirt, while others were left untouched.
+
+Everything looked so ruffled up.
+
+Damaged.
+
+And yet–
+
+Birds still cried overhead.
+
+Small prey darted in the distance.
+
+Insects buzzed defiantly in sunlit gaps.
+
+The forest resisted!
+
+Tenacious.
+
+Luna liked that.
+
+A soldier lunged from beneath a broken fern.
+
+But Luna was ready!
+
+A Shadow Step, to the side, and the big dummy Ant missed!
+
+“Silly Ant,” she chirped. “Luna is two steps ahead!”
+
+The cluster behind her grew louder. Click-clacks layered into a rising chorus.
+
+Oh, she stayed in one place too long!
+
+The Ants caught up.
+
+But that was good!
+
+It was time to lead the clicky presents back!
+
+She twisted through trunks one last time, deliberately passing near another patrol to add to her tail of outraged followers.
+
+More ants joined.
+
+More legs thundered.
+
+Her grin sharpened.
+
+“Come on, clickies,” she called sweetly. “Big pack is waiting!”
+
+And she sprinted toward the forest edge, rhythm smooth, skills cleaner than they had ever felt before, shadows stretching eagerly at her heels.
+
+And when she reached the plains, it made for a tremendous sight–
+
+A tiny wolf girl, grinning madly, chased by dozens of Ants.
+
+And she couldn’t look any happier!
+
+***
+
+Huh.
+
+Guildmaster Ferric was right!
+
+…There were still a lot of Ants out there.
+
+Hiding.
+
+Everywhere!
+
+Luna had learned that the long way.
+
+Hours long!
+
+Run around. Find Ants. Poke Ants! Then poke nest too! Get chased. Lead clicky-clacky parade back to big pack place.
+
+Then loop back. Hunt down stragglers. Peel off!
+
+Repeat.
+
+Again!
+
+And again.
+
+And again…
+
+By the time she stood before the nest entrance once more, her patience was wearing thin!
+
+There really were too many of those buggers!
+
+The opening still gaped in the earth like a wound.
+
+Dark, and breathing faint heat. The air that rolled from it was thick with layered pheromones – sharp and invasive.
+
+It clung to her tongue and stung her nose.
+
+“Bleh,” she muttered, scrunching her face. “Smells like angry feet.”
+
+But did that stop her?
+
+Nope!
+
+Luna darted into the darkness all the same!
+
+And immediately ran into a Soldier mid-click as soon as she rounded a bend.
+
+Lucky Luna, unlucky Ant!
+
+She snipped three of its legs off in passing and veered into a side tunnel instead of committing to the big tunnel beyond!
+
+There were still a lot of ants inside.
+
+Possibly more than before!
+
+Did they return and not know what to do without their Queen?
+
+She could just imagine them skittering in frantic circles!
+
+“Wut happen! Where da qwueen?!” she whispered in a tiny, outraged voice, then giggled.
+
+So silly!
+
+But Luna forged on!
+
+The tunnel narrowed ahead, antennae scraping dirt walls as soldiers converged. And very soon she found herself dodging more than moving.
+
+Annoying!
+
+She surged back out.
+
+Of course they followed.
+
+They always followed!
+
+But only bringing that many felt like a waste!
+
+She led them in a big long teasing loop instead!
+
+Then zoomed back towards the nest to poke more of them out!
+
+Before leading both groups toward the plains.
+
+She cut two stragglers mid-run without even looking back.
+
+Yes, much more efficient!
+
+Luna was a genius!
+
+Aaand plains!
+
+And big pack ready to receive the crunchy presents!
+
+Luna did her job!
+
+She peeled sharply behind a moss-heavy trunk and vanished from sight with a series of Shadow skills.
+
+The ants thundered past her hiding spot.
+
+But there were still more hiding in the nest!
+
+Luna huffed, hands on hips.
+
+“Luna wants explore,” she grumbled. “Not babysit clickies!”
+
+Still!
+
+Luna was a responsible Apex Predator!
+
+And would never allow her pack to get stuck here for days!
+
+Days!
+
+That was too scary a thought.
+
+So Luna zoomed back to the nest!
+
+With most of the outer defenders drawn outward and the rest scrambling in messy confusion, she angled inward again and slipped through the main entrance.
+
+This time–
+
+No parade.
+
+Just Luna!
+
+The tunnels swallowed all sound.
+
+Packed earth walls smoothed by endless passage. Roots punched through ceilings like ribs. The pheromone scent layered thick enough to taste.
+
+Luna moved slower now.
+
+Not because she was tired!
+
+She just wanted–
+
+To take a look!
+
+And explore where all those side tunnels lead to!
+
+So she hid among the shadows, Shadow Stepping past any pesky Ants.
+
+The first chamber she entered was piled high with stripped bark and shredded leaves. Uneven mounds. Compressed in places.
+
+Storage!
+
+She nudged one pile with her boot.
+
+Dry. Fibrous.
+
+She bent, sniffed deeply, chewed on a few interesting looking pieces.
+
+…And tasteless.
+
+“Boring.”
+
+Moving on!
+
+The next few chambers had nothing much in them, but then!
+
+It hit her nose before her eyes.
+
+Meat!
+
+And lots of it!
+
+Luna drooled.
+
+The most awoomazing of all treasure!
+
+And there was a whole chamber of it!
+
+Only some of it smelled rotten and bleh.
+
+Carcasses lay stacked and half-consumed – deer, boar, frog, some weird thing with too many legs, another horned, scaly, and cracked open. Bones split for marrow. Flesh torn in uneven patches.
+
+Her mouth flooded instantly.
+
+She crouched low, nose twitching carefully.
+
+Which ones were wrong?
+
+A few reeked metallic-sour. Spoiled or Corruption-touched. She wrinkled her nose and avoided those.
+
+But the rest?
+
+With all the many different weird thingies in there Luna never saw before?
+
+Acceptable!
+
+More than acceptable!
+
+Her Maw opened.
+
+Shadows slid forward with soft, eager fingers.
+
+The darkness of the chamber helping them reach a little further.
+
+One carcass vanished.
+
+Then another.
+
+And more and more! Big and smoll!
+
+【Devourer’s Maw Lv. 4 → Lv. 5】
+
+Her eyes gleamed.
+
+So many flavors were waiting!
+
+For Luna to explore!
+
+Her drool hit the ground in a tiny splat.
+
+“Later,” she whispered reverently. “Victory snack pile.”
+
+Her Maw felt pleasantly heavy now.
+
+A promise of a feast to come!
+
+Luna gulped just thinking about it!
+
+This chamber…
+
+She left it nearly empty!
+
+Then straightened up and padded over to the next side tunnel.
+
+This one… was curved very sharply downward!
+
+And as Luna descended–
+
+The scent shifted.
+
+Metallic smells dominated.
+
+But it wasn’t blood, or meat!
+
+More… stone-like?
+
+She followed.
+
+The chamber that opened before her glittered faintly, even in the dark!
+
+Grey rock streaked with dull silver veins. Some surfaces caught even the faintest light and reflected it strangely.
+
+She tilted her head.
+
+Stone that smelled like metal.
+
+Weird!
+
+She pressed her nose against one vein and sniffed.
+
+Cold.
+
+Sharp scent.
+
+She licked.
+
+Metallic.
+
+She bit.
+
+Crunch!
+
+A small flake broke free. It scraped unpleasantly across her teeth. She chewed twice.
+
+Hmph!
+
+This wasn’t spice!
+
+Or even food.
+
+But it was a little crunchy–
+
+Not good crunchy though!
+
+She spat it out and wiped her tongue on her sleeve, scowling.
+
+“Rude rock!”
+
+Still–
+
+She scraped a chunk loose and slipped it into her Maw.
+
+Ray liked weird shiny thingies!
+
+And humies collected the strangest of things.
+
+So might as well gift them some!
+
+For the tiny tiny price of jerky!
+
+Ehehe!
+
+Luna would get all the jerky!
+
+And–
+
+She idly wondered…
+
+What else were the silly Ants hiding?
+
+Luna was eager to find out!

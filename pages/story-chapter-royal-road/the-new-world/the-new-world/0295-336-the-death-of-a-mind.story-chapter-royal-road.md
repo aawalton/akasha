@@ -1,0 +1,291 @@
+---
+id: 735288a2-9160-54d0-9534-9f13b0071777
+page-type-slug: story-chapter-royal-road
+title: "336 The Death of a Mind"
+slug: 0295-336-the-death-of-a-mind
+partOf: the-new-world
+position: 295
+ownLength: 7491
+unit: words
+ownProgress: 7491
+publishedAt: 2022-03-08
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/860717/336-the-death-of-a-mind"
+royalRoadId: "860717"
+markedReadAt: "2026-06-29T21:31:20.051Z"
+---
+
+Taking a breath, I detached once more. I dispersed with a struggle before snapping back into my body. A strange kind of endurance reached its limit, and my psyche hated the idea of leaving my body again. Smiling at myself, I closed my eyes, willing my egos away from my body. After another mental breakdown, I leaned back with the urge to vomit intermingling with more motion sickness.
+
+I gave my temple a tap before leaning forward, and my mind dispersed once more. The pop back into my body happened even faster, but I shrugged off the failure. Failure wasn't getting knocked down; it was staying down. Knowing that truth, I chose to remain relentless. Many hours passed as I persisted in pulling myself up and out of my body.
+
+The entire time, I insisted on dispersing my awareness throughout my whole dimensional wake. At first, my limited endurance fizzled out, resulting in no more time spent outside my body. Over the next while, the shortening of my mental trips inverted, each attempt becoming longer than the last. Appreciating progress, I hounded at the process, and the resistance lessened as I poured focus and attention into the task.
+
+Putting several minds to the job accelerated my progress, turning the awful disruption into a far more casual occurrence. However, this diffusion never bordered on comfort, though I adapted to the surreal sensation with time. The intolerable became tolerable, and the extreme became mundane. After establishing a basic mastery, I attempted other actions while dispersed. The first experiment involved wielding mana while disconnected from my body, and to my surprise, I still generated mana like usual.
+
+However, that energy spawned from my body instead of my dimensional wake. On and on, that never changed. Testing a different angle of progression, I kept piling the mana up before gaining a thick cloud of it. It fogged down along the opal bones below, surging up at the edges of my dimensional space. Like filling a bowl, the energized miasma stuffed the wake and billowed up along the limits of the unseen dome.
+
+In time, I smothered my entire dimensional field with the dense cloud until it crackled with electric energy, turning to plasma. It stayed within my domain, ripe and usable at all moments and any angle. This much mana fought back a bit, but within my primordial wake, my mind magic showed immense potency. I suppressed the burgeoning, aimless mind and bent gravity in my dimensional wake using the plasma. The familiar tug touched even the ethereal minds dispersed in the aura.
+
+It tugged on my body below as well. The corpse slid over in an eerie grind, clanking and thunking against shining ridges. It shifted like a statue of steel, immovable as a mountain. When I lived within it, each joint moved with ease. It stiffened up without me within, needing mana for movement.
+
+As the body clunked into the gravity well, I accepted being present elsewhere. It disturbed me, but that was my new reality. Moving on, I sensed my mana's current source. Unlike before, I channeled from the piled-up plasma instead of my palms or runes. The mana used wasn't the same as producing mana, but it closed in on that sensation.
+
+Adding to the plasma, I tried generating mana from outside my body using the previous experience as a reference. It worked, though only to the tiniest degree. Minuscule mites of mana dripped out of my wake, the dollops almost unseen if not for my sharp sense for them. These microscopic mana beads built into a usable source, but the vast majority coursed and flowed from my body below.
+
+It was drenched in volatile, humming energy, but I needed that out here. Readying myself, I let out a mental growl, setting myself on this next ability. After all, repetition was the mother of learning, and I devoted a dozen minds to the task of making mana from my wake. Unlike the mind dispersal, this process only stressed the psyche instead of morphing it. Unlike vertigo and nausea, stress and pain were familiar feelings. In fact, I mastered them long ago. Returning to those old friends, I hammered away at this odd ability. I turned the fine mist of generated mana into thicker clouds in no time. However, a piece of me avoided the other exercise as it strangely challenged me.
+
+With awareness, I gained cause to conquer that unconscious fear. I learned both skills simultaneously. Hours passed once more as I fell into this flow of detaching, oozing mana, and popping back into my body once more. Over and over, I hit the limits of my endurance. Over and over, I pushed those horizons further.
+
+Into a beyond I never touched, I tread. Out into an abyss, I wallowed. The comical difficulty of the process reminded me of solving a complex problem in a G-force simulator. Or perhaps in the middle of a battlefield. Either way, I kept splitting myself up and making mana in different places.
+
+After some time passed, I learned to disperse without the same struggle. Even while detached, I oozed out mana in a generous flow. It gave me many origin points for casting magic, something I might abuse later. When I tried doing so, I found my next problem - my control suffered in my diffuse state. Even essential magic left me fumbling. Taking a moment to analyze why, I found the culprit.
+
+It stemmed from how I spawned my mana. I felt my way through it, like relying on muscle memory. In my body, the physical senses gave me direction. No tactile sensation guided me while out in the aura, and I acted in a darkness of my own making. Without knowing my new path, I stumbled like a child with no eyes, ears, or taste. It was humbling.
+
+I cut myself off from the physical, and my mind showed my weakness from relying on my body all this time. I laughed a little before rubbing my hands together. Many Daniels toiled and endured, so I gained many times my standard progress. That meant this was only a matter of time.
+
+I gave it another go, a bit of my warrior spirit kicking in. I lasted a moment longer than before snapping back into my physical body. Back inside the metal shell, I took a moment to be grateful for having one. Being an aetherial blob required diligence and fervor, not qualities I lacked but characteristics I'd neglected. This exposed that lack of diligence, which I'd rectify in the future.
+
+Taking a breather, I laid back and closed my eyes. Using my gravitational awareness, I gawked at Leviathan beyond my shell of rainbow bones. The gravitational anomaly always cut me down to size, and it acted as a celestial reminder of my mediocrity compared to the forces of nature. It left me in awe, both at its brilliance and my benign being.
+
+To it, I was nothing.
+
+And I aimed to change that. Those primordial elements needed to be within my palm, so I stretched my awareness outwards once more. This time, I stayed in my body, but I kept a kind of sphere of my consciousness dispersed out. As I'd hoped, I retained my physical form while soaking into my wake's extent. In a way, my body grounded the process, giving me a much-needed point of reference.
+
+In that ethereal air, a few minds floated about. One thought of themselves as an astronaut sent into space, and it radiated back to me,
+
+"Pshhh, Houston, the launch is a go. I repeat, the launch is a go."
+
+We laughed before getting back to work. As many, we persevered with the exercise, the difficulty like an exorcism of our weakness. That vulnerability oozed and trembled out while strength took its place. Eventually, we maintained several minds floating in my aura's domain. The more egos out there, the more mana coursed out of the ether as well.
+
+In a sense, the disembodied minds acted as beacons for mana generation. They worked as wills, each guiding the input and control of magical energies. Despite becoming accustomed to the pionic dispersal, we struggled to control the mana while out there still. Finding a loophole, I kept us all out there while linking up via telepathy. This gave a slight tactile sensation to those drifting, allowing them to control mana as we always had.
+
+The web structured the experience as well, making it less unstable, and those factors made the variety and intensity of our sorcery far greater in the ether. Reassessing our current state, my psyches popped back into my body, each of them exhausted. As they recuperated, an idea whipped up in my head.
+
+I gave the diffusion another go but with a slight alteration. I kept that telepathic web active between me and the minds. We lived as a psionic network, all the egos connected while at disparate points. As the outer egos fatigued, I sent other psyches out to replace them. This shifting schedule let me maintain the psionic loading while occupying my body.
+
+The arrival of that breakthrough marched in with a breakdown. While I extended my endurance from partial to limitless, I also multiplied my exhaustion. Several minds recuperated at all points in time, and that weighed on me no less than usual. As the weary egos piled up, they arrived with a terrifying concept that I had never contemplated.
+
+I could now suffer more than any single mind could. If anything, this enabled torture on a scale unbounded. Imagining thirty minds being tormented with psionic slaughter sent chills up my spine. In the end, A Manifold Mind was worth it since I could tackle many times more work.
+
+However, I could also experience several ego worths of doubt, pain, and suffering. The agony of many exceeded the pain of one, and unfortunately, I was many now. That meant owning their miseries, fears, and weaknesses, and it meant my vulnerabilities split open like rotten wood hammered with a steel wedge.
+
+Each second illustrated this disturbing reality to me and in vivid detail. My flaws magnified, each lapse magnified as if viewed with a microscope. And it happened by turning small doubts into significant fears. They rushed in from all angles. A plethora of questions assaulted me, weakening my resolve.
+
+Did time really slow down on Leviathan-7? Would time pass here faster than usual? If so, would Yawm's contract kill me? My psyches effused those worries without meaning to, each of them trying to hold in their discord. After all, my time on Leviathan-7 was of the utmost importance, and we absolutely had to push forward.
+
+There was no time to sit here and wallow, even if I wanted to. As the resistance on my mind mounted, I centered on the reasons I continued in the first place. My time here wasn't about me; it was about my guild and about making up for all the delays on Earth. I'd much rather eliminate that growing guilt rather than let it fester further.
+
+Besides, this was only the beginning. I had to trek many more miles before I rested. Aware of that reality, I took the next step forward. With a few minds still left in my body, I tried moving my dimensional wake while several psyches inhabited the aura. The ether shivered and trembled while I maintained control of it. Pushing my abilities, I extended my dimensional wake as much as possible. In a sudden rush, the minds returned to me instead of wallowing in that shifting aura.
+
+And they bled, torn apart at the psionic seams.
+
+Their disturbed, mutilated forms haunted me for a moment. Each one carried mental wounds as if something crushed and pulped them. Without meaning to, I minced them to pieces. They communicated what it was like out there, and I understood the depth of their disturbance. It was one thing to inhabit a dimensional space instead of a body, but it was something else entirely to have that space move and shift while residing in it.
+
+The movement collapsed a person's mind, inducing madness as one's frame of reference changed and altered. The ensuing insanity acted like mental wounds, ones that required time to recover from. The shifting of the aura blended the healing sanities, turning them into a mash of sentience.
+
+Which, you know, sounded pretty unpleasant.
+
+At this point, I questioned the utility of even learning this bizarre ability, but then I remembered Chrona's lessons. To hasten the flow of time, she compressed her surrounding dimension, but to slow it, she expanded said space. In essence, the density of the dimensional fabric decided the speed of events occurring within it.
+
+The minds had to be out there to control my dimensional wake at that level. Otherwise, it was like trying to maintain a body with strings.
+
+Sure, a puppetmaster could get pretty respectable at wielding their figurines, but they never gained the mastery of someone within their own body. In that same vein, I was imbuing my aura with life, giving me genuine autonomy over it.
+
+It was an unfortunate reality that being a dimensional wake happened to suck.
+
+Peering around, it dawned on me how much tolerance this would require. Inhabiting the aura acted as the first step. Going beyond that, progression necessitated both finesse and mastery while molding my wake. Or stretched. Or worse, compressed. I shivered at the idea of being in the ether while condensing down. Despite that innate fear, going out there and getting smashed was crucial.
+
+That would be my way of achieving time magic.
+
+Before sending more of myself out there, I came up with a few strategies for maintaining our morale. I extended my psionic net out, allowing them to spread the pain over all of us. I gave every Daniel a mental drill, ensuring they were ready and willing to go out. I even prepared better shifting maneuvers, so Daniels could cycle out of there faster than before.
+
+Even then, we all dreaded the task, so we took a breather before readying ourselves for it. Having rested a few minutes, we set forth and mangled our minds. Like troops walking onto no man's land, the Daniels saturated my dimensional space before I moved the aura around. The consciousnesses within dismembered, disfigured, and pulped into pieces.
+
+They rotated back into our body, healing as others replaced them. The Daniels resting in our physical form honed in on controlling the procedure as much as possible, but we met our limits. In time, dozens of attempts turned to hundred, then thousands. Each time we failed, several of us died psionic deaths.
+
+It was like putting my brain and awareness in playdough then mushing it around. We stepped into the aura's edge each time before being sculpted alive. I was shoving us into a box before mish-mashing its shape in a fluid fashion. Those within the box broke bones, split skin, and dripped blood. This stressed a different kind of tolerance than simple suffering. Training that unknown resilience took on this alien form of psionic pulping, and to my horror, we adapted to it. However, the adaptation arrived in a slow, steady dribble, like learning the depths of pain.
+
+We applied different techniques to ease the process, and mental grit replaced our previous naivete. It hardened us like any undertaking. In time, we gained more comfort with the ability. We also expected the worst while receiving something just shy of it. That combination of grim expectations and rising tenacity gave us the mindset to push past this plateau.
+
+So, hours passed like that, each second inching by in a slow, steady march. All the while, many minds practiced psionic butchery. I obtained more fluidity as I practiced, moving my body and wake as one. The psionic loading purified, and my entire being no longer separated into them and us.
+
+Though diffused, we all connected via our telepathic web. It evolved from a loose connection to a dense cluster of interconnected consciousnesses. This mental mist extended my persona into the wake's edge and the wake's edge into me. In that abyss, I remained a single person, and I bore this transition as a unified entity.
+
+It changed the way I viewed the world. I seeped into it, my aura as physical as my body. When I fully dispersed, I soaked into my surroundings, and it was as if I engulfed whatever existed there. I sensed my periphery through the rainbow bones below while stepping over the ground. When I moved, my dislodged intellects swirled around within my wake.
+
+Existing in this state, I learned the merits of this diluted form. I could control my wake in new ways while out there in it. Even complex incantations could be cast from anywhere I dispersed to, and I maintained absolute perception wherever I inhabited. It gave several reference points for my gravitational and mana awareness, giving me a clearer picture of everything around me.
+
+Oddly enough, I gained an aerial view of my surroundings. It also earned me exceptional dominance over the rainbow bones. The opal shards bent and molded to my mind's pressure because I didn't send out telepathic attacks anymore. I occupied the bone within my wake, making it a part of me.
+
+That disturbed me because the psionic loading could be used in horrific ways. For instance, if a person existed in my wake, I could force my ego into their head until their mind within splintered. That's what I did to the rainbow bones, actually. With the ego within wiped, only I remained. The body left behind devolved into my flesh puppet.
+
+It was an evolution of necromancy and in a dark direction. I needed no death for control. I required only for my victim to succumb, and even just thinking about that technique made my skin crawl. I let that unease pass over me, choosing to let it go. I could use this technique for unspeakable acts, but it also unlocked many other abilities.
+
+It mirrored a knife, being a tool capable of creation and death. In the end, my decisions determined this newfound tool's outcome. Setting that outcome on time magic, I made my focus inviolable. I continued my attempts for hours, and those hours inched by in a slow, dreadful crawl.
+
+I found myself gazing up at times. I wanted to build golems or fight primevals, each process more dynamic or peaceful than this. Instead, I pulled my mind out of my body and moved it around. This was like self-induced torture on a mass scale, for weeks on end, and without company. Despite my absurd willpower, it stung after a while.
+
+But I dealt with it as I usually do - with brute force. Putting myself back in the moment, I gave my head another thudding blow. The ringing sound reminded me of where I was and what I did. I narrowed my eyes while working, knowing this was only temporary. It would pass in time, becoming a memory of my perseverance, a piece of my story.
+
+Remembering my history, I contemplated the many times I did something similar. This wasn't my first undertaking, and it wouldn't be my last. Besides, golem crafting would bring me solace after this was over. I held onto that, continuing on.
+
+Forgetting how long I stayed there, I took a deep breath. It was time for the next step. I extended my consciousness throughout my dimensional wake, cool and calm. Nausea and discomfort passed before I willed my aura into a strip. My minds endured, many of them cracking. Testing their fortitude further, I compressed that wake into a denser blob.
+
+They smashed into one another, blending into a psionic smoothie. All sense of egoism faded as they became a single, fractured entity. Rushing away from the onslaught, those blended egos poured into my body. Their disturbed, warped visages sank into me, and I collapsed. The sense of rejection and disgust seethed from the minds, their outrage making perfect sense.
+
+The psionic compression blended their senses before shoving them together. It was like having their bodies blended into a paste, mixed with other people's corpses, and then everyone operated the giant flesh hunk that remained. In a word, grotesque, but in action, it strayed into the eerie and vile.
+
+It seeded doubt in my mind about continuing on. Already, I let go of my physical form and became intangible. I stepped further, relinquishing the stability of being one mind in one place. I occupied a vast swath of territory at once, becoming inhuman in every regard. At that point, it disturbed me how far I trekked onto that path because it glorified my own mutilation.
+
+And yet, I needed to go even further. The minds that smashed and mixed in my wake had to let go of even being a mind in the first place, which was a terrifying prospect. Instead of being sensical streams of thoughts, my psyches smashed into a psionic amalgam out there. What lingered from their remains mirrored madness.
+
+The sane minds had to make sense of it while forcing the psionic mash to keep the wake compressed. It was like shoving my body into a meat grinder, maintaining awareness, then making the pulp handle a complex task. Honestly, it's difficult to fully convey what it was like. It kind of defied anything I'd done prior, and it ended any illusions about being human.
+
+A human would never return to sanity from that abyss. A person's mind wasn't made that way. Once a person's psyche broke into pieces, it never recuperated in its entirety. Cracked lingered, and that ego relied on an external structure to grant rationale from then on. Unlike a person, my mind popped right back to normal from the brink of death in less than a second.
+
+The psionic deaths acted like vivid nightmares that left no impact on me. I awoke in a cold sweat simultaneously for ages, yet my tolerance for that evil never waned. I kept pushing myself into the nightmare, but somehow, the nightmare never seeped back into me. It should've left me a broken shell.
+
+It didn't. I stayed strong.
+
+I didn't think I was capable of tolerating that kind of mental pressure, but there I was, doing it all the same. At that moment, I stepped into the realm of monsters. My entire life diverged utterly from the norm, so nothing connected my experience to humanity anymore. Hell, to people anymore. I disconnected in my entirety, but I embraced a new form in doing so.
+
+Stepping into my role as a dimension, I psionically loaded my wake once more. I molded it in a slow, subtle manner. Dread drenching me, I compressed the psionically loaded aura. My egos pulped before rushing back in, each of them broken. They shouted out what it was like out there in the trembling ether.
+
+I was shoving their bodies into a container that was too small. Within, they broke. They bent. They shattered. Once smashed inside, I coiled the box downwards, inwards, even outwards. At the seams, those minds disintegrated into a psionic mush. We all existed within a shrinking cage, one that pressed through skin and nerves alike.
+
+It gelatinized the frame of my psyche, an awful fear pouring through me. My skin crawled. My hands trembled, and I shook with a palpable terror as I continued mutilating my mind. The abuse continued, and I wobbled my wake while within it. After another round of psionic compression, I stopped, pulling the minds back in.
+
+Using the same strategy, I exchanged the destroyed psyches for fresh ones. The Daniels going out carried a fearful gaze at their recovering brethren. With white-knuckled determination, those incoming egos smashed into the warped wake, and they suppressed their screams. The tormented minds of the other Daniels seeped in, and their aches radiated through me. They infused into my being, a chorus of pain.
+
+In a sense, I crushed several of my bodies before absorbing their pain. In fact, I was almost certain a human couldn't even experience this much discomfort. I bunny hopped into a different dimension in that regard. I dealt with it, but it burdened me all the same. Schema wasn't here to give me a mental resistance skill either. No, I endured the full brunt of psionic liquification and fusion.
+
+It left me regretting my regeneration and tenacity. I recovered in an instant even from utter mental collapse. This allowed me to put the minds back into the line of fire right as they returned to normal. Again and again, I smothered the minds in the suppressed wake. Desperate for a different solution, I pulled all the psyches within me. I tried compressing my dimensional extent without having the consciousnesses stretched out.
+
+It was like foregoing a pen while writing elegant words. Instead, I tried dashing down calligraphy with an unwieldy, ink-dipped brick. Reverting back to my previous strategy, I loaded my wake and compressed it.
+
+And the strain suffocated me.
+
+I existed under the ocean, all fading away aside from this one experience. I lost sight of my surroundings, all turning into a blur. Time inched by in slow motion, each moment an eternity. Despite that dragging crawl, I tolerated the molding better with time. Make no mistake, it wasn't any lesser; I merely accustomed myself to it.
+
+In the corners of my mind, cracks, snaps, and pops snapped through my skull. I collapsed but returned to my full form in a flash. I trembled before straightening up. Sharp spikes of heat radiated out in my head, unlike pain but perhaps worse in how unfamiliar the sensation was. The feel mirrored discomfort and disgust that somehow molded into a singular phenomenon.
+
+It kept shoving my body into a small box. Bones, blood, and pus, I pushed myself in like a butcher. Unlike a human, I remained alive while smashing down. To my chagrin, I fit in that box. The fact that I was capable of this disgusted me, and I rebelled at the unnatural mashing and smothering. For some reason, I continued this process until I pushed too hard and snapped back to my baseline.
+
+Insult added to injury because even my usual form didn't feel right either anymore. Broken and alone, I fell down, laughing at myself for a second. I grabbed my hair and pulled until my scalp ripped. The sound of metal shearing erupted in the tiny cavern, my entire body made of metal. I closed my eyes while shaking my head.
+
+I'd go insane here if I kept this up. Remembering what it was for, I let myself experience the welled-up discomfort, horror, and disgust. I shook for a second before sitting back up. After collecting myself, I marched into the process once more. Dispersal, compression, cracking, breaking, snapping, ripping, and writhing. It continued.
+
+Each time I gave my all, but I conditioned myself to fear it. Before I even began, I trembled at what was to come. Even if the sensation left me, the memory remained embedded deep in my consciousness. In this cave in a different world, I whittled away at my sanity. When one consciousness collapsed, another took its place.
+
+I evolved into an internal carnival of horrors, slaughtering one ego after the next. Many minds acted as a blessing, but they also allowed for torment on this scale. It was more than one person's pain, like the ache of many. It carved into my memory, and looking for an escape, I questioned my existence.
+
+Did I enjoy my own pain? Was this worth it? Was I still alive? Those questions assaulted me, and I had no real answers to them. Despite those doubts, I persevered because of a growing sense of comradery. Without it, I'd of crumbled. When one mind weakened, another picked up the slack. When one mind questioned, another believed.
+
+My doubts were weakness disguising itself as reason and rationality. I already clarified my questions and doubts long ago. It just so happened that my answers didn't feel like they were enough at that time. It didn't matter what I felt, however.
+
+What mattered were the results, and they were immense.
+
+When the compression of my wake reached my skin, I fell back with surprise. My egos rushed back into my body, the mangled minds wanting nothing more than to return. My focus splintered, and my dimensional wake burst outward from its compressed pit. I gasped as my psyches snapped back in a violent, grotesque rip.
+
+As if lightning shot through my consciousness, streaks of vivid pain erupted out, into, out of, and inside my head. After a few seconds, I laughed at the sensation. It was like an old friend telling me a bad joke. While a bit offputting, I still enjoyed hearing from them again. In a way, that's what pain was to me now.
+
+That pain arrived with the palpable rush of victory. I clasped and swung my fists and celebrated the milestone. My progress continued even as I failed to mark it, and with its arrival came a renewed sense of vigor. Tackling the sensation once more, I pulled myself outward before condensing the aura again.
+
+I put several minds to the task, compressing the wake further. Once more, my dimensional extent pressed against my actual body. Ready and waiting, I kept my psyches condensing my dimension. Under that pressure, I remained in place for a few seconds before releasing it. I laughed again, and it was a peal of booming laughter, one of dominance and madness.
+
+I did it. I finally did it.
+
+And I would master it. Another two hours passed, and I found myself tolerating the psionic squeezing. I wasn't putting every bit of myself into the task for the first time. I gained familiarity within the unfamiliar. I gained comfort in the uncomfortable, and that left mental energy for perceiving my surroundings.
+
+And I gasped in awe. I perceived a different world.
+
+It was a world numbed by time's slowed passage. Hearing dulled and dimmed, high-pitched sounds droning on for long spans. Hot and cold turned to warm and cool, the flow of energy slowing. It mirrored wearing insulation from my environment, a barrier between it and me.
+
+In my opal cave, the shards' glimmering slowed. This was why I hadn't noticed the effect of my dimensional compression. What marked my progress weren't sharp, explosive booms. Instead, it was the lessening of sensation that exposed my advancement. As I gawked at the surreal shifts, another violent shear erupted across every mind in an engulfing wave.
+
+My mind snapped back. Like ripping my psyche in half, I gasped as the mind-rupturing faded. While the pain subdued, my new competence didn't. The process drove me insane for a while, but I'd done it. I compressed my timeline, making everything else slow down by comparison.
+
+Pressing my hands together, I toiled and worked at the process, grasping on the cusp of fluid time manipulation. I kept getting closer and closer to pushing my saturated aura down without effort. As I did, the rumbling echoes outside my cavern slowed down once more. They droned in like haunting echoes. As those howls hummed in like a sweet symphony of sirens, I listened in anticipation.
+
+The slower the drone, the greater my dimensional compression. Those signs of progress switched exhaustion to strength. My contempt turned to courage. After getting some kind of freedom while compressed, I peeled a hole in the rainbow bone to view outside. The breeding grounds for the behemoths crawled by, the once vicious, explosive activity turning into a manageable mess.
+
+Their overwhelming speeds turned into quick sprints and dashes. My golems fought behind the converted star beasts. From this distance, they floated in the air like lazy pieces of dust. Using my golems as a reference, I guesstimated that I sped up my sense of time by double. However, as their fight moved, I couldn't continue watching.
+
+I grimaced, my focus so intent on temporal manipulation that I couldn't even move my head or eyes. I took a moment to rest while sending out a quick psionic pulse to pacify the rainbow bones. That tamed it for the next while, letting me continue my training. Taking a breath, I kept my awareness, perceiving everything in the distance.
+
+I couldn't move yet, the dimensional pressure overwhelming me, but my senses still gave me information. Those facts leaked in, along with plenty of time to think about them. The dulled, dragging sensations emphasized that further, letting me catch details I'd otherwise miss. Mana flowed through the golems, and their sigils lit up with crimson light. The primevals reformed in splashes of energy and color. Even the pulses of power rippled across the horizons at a slowed pace.
+
+Dwelling in that strange world, I found time manipulation mirrored diving deep into a planet. The constant pressure, the freeing isolation, even the bombinating hum resembled swimming through a planet's core. After hearing the sounds for a while, I grew accustomed to the continuous noise. Everything else quieted by comparison.
+
+In that subtle silence, I found a measure of solace.
+
+Sitting in that kind of meditation, I tried moving. Each step required exhaustive mental effort. It added another layer of strain to the mind mush in the ether around me. By how this felt, it could take years of practice before I maintained this insane compression while fighting. At least it gave me a goal to strive for.
+
+With intense time magic off the table, I eliminated the dimensional squeezing altogether. Testing a theory, I walked around while my wake loaded up psionically. While still challenging, psionic loading was a break compared to condensing. The minds whirling around in the ether agreed, though they still disliked being wounded out there.
+
+After suppressing the Daniels' concerns, I pressed my wake down a tiny bit while walking. Once again, the surge of difficulty rushed in. Taking bite-sized chunks of progress at a time, I developed the skill of moving while condensing myself. Taking routine breaks, I repeated the skill with a relentless, unending march.
+
+One attempt led to another, and many hours passed. After a while, I maxed out the effortless gains I garnered from simple repetition. The uphill struggle began from then on, but at least I could move, think, and channel mana while condensed. It was enough to actually apply the time magic in real-time.
+
+Within a few steps, I found even a slight temporal acceleration made a palpable difference. My surroundings softened, and the air thinned. I moved with momentum behind every step, fundamental forces transferring at bizarre speeds. I mean, I'd never noticed my feet pressing into the ground before, but it took forever when slowing time.
+
+Testing more differences, I spoke, and my voice sounded the same to my ears. I repeated my shout with temporal acceleration before ceasing the ability. My echo bounced back, and it pitched higher as if I spoke through a voice modulator. I kept talking with more and more dimensional compression, testing out the limits of my abilities.
+
+After a while, my shrill words sounded like I breathed in helium. Laughing at myself, I controlled the rainbow bone around me. My psionic mush filled into the bone, the pulped egos finding a haven in something physical. They moved the bones out of the way, and I viewed the outer world.
+
+Pulling the Daniels back, I sped up my timeline while peering above. The eldritch and golems steadied into a more casual stream of information. Easing the dimensional condensing, I hopped out of my opal cavern. I walked and soaked in my different state of being while on the ossuary of Leviathan-7.
+
+Primevals battled in the distance, bits of light leaking through the algae above. This world was once a roaring river coursing by at a frothing pace. The clear water thickened into thin honey, making it much more comprehensible by comparison. I probably experienced time at about 10% to 15% faster than normal, but I learned that time magic worked well even in small doses.
+
+An easy to feel but hard to explain difference was the snapping point of objects. Confusing as that sounded, it was a very simple idea. Take glass as an example. If someone put pressure on it slowly, it held up against immense loads. If someone put pressure on it quickly, glass shattered into fragments. Most materials worked like that, having a snapping point to them once a set amount of stress was applied in a certain timeframe.
+
+Temporal magic allowed me to reach that snapping threshold with much greater ease. Testing that, I stomped down with all my strength, and my foot imprinted into the rainbow bone below, cracks ebbing outwards in every direction. I clapped my hands, the force in my palms springy and immediate. In every capacity, I felt snappy and powerful. In a sense, my slow turned into everyone else's fast.
+
+Testing other abilities, I tried moving my primordial wake like normal. As always, it shifted but only up to the limits of my dimensional compression. In that way, speeding up my timeline limited my dimensional wake's range, but it was well worth the trade-off in most situations. Testing my primordial wake, the aura's powers augmented even further while condensed.
+
+Ideas about that utility seeded in my mind. Movement was difficult while accelerating time, but mana generation wasn't as challenging. Generating matter and carving runes in this condensed state might result in some serious gains, but I put theorycrafting on a mental backburner. Instead, I considered my options for a moment, and an idea popped into my head.
+
+After snapping my fingers, I stopped moving and pressed my wake down, giving me some extra time. While standing perfectly still, I contemplated how to wield this new ability within its limitations. Honestly, just making the most of my thinking time was a good start.
+
+Practicing that ebb and flow, I expanded my loaded wake, moved a bit, then pulled my wake back down. When standing still, my surroundings slowed to a crawl, but while moving, everything sped back up again. The surreal, otherworldly sensation made everything feel like slowing down a video. It displaced me a bit like I walked through a dream. The strange surroundings of Leviathan-7 didn't help me in that regard since my surroundings were already vivid and surreal.
+
+While I perfected this real-life pausing ability, an eerie sensation crept over me. The feel of gravity and space changed. Each time I stood still, this odd sensation crossed over me. Well, the lack of sensation, really. The elemental forces around me thinned, but my own abilities thickened. It was as if the rules and principles of the world weighed on me less.
+
+Though subtle, it omened an immense potential. Breaking the laws of nature might be the next step in the Daniel progression program. Time would tell.
+
+Loosening my wake, I sat down and took a deep breath of fresh air. It wasn't fresh at all because the fumes here were toxic, but whatever. I leaned back, supporting myself with my arms. I rewrapped the shining opals over me, and I let the insanity of my situation soak in. Even the eccentricities of gravity paled when compared to time manipulation.
+
+This entire process only complicated further because I was a dimension. I smiled at myself, knowing I learned time magic in less than three months, but that grin hollowed. I learned temporal acceleration that fast because I was a dimension. That's also why many physical forces came so easily to me.
+
+However, dying thousands of psionic deaths wasn't something anyone could do. That set me apart, letting me accelerate my learning by leaps and bounds. Peering around, I wondered how much time remained for conquering Leviathan-7. I had no idea since my sense of time was warped to all hell and back.
+
+My gauge for how much I manipulated time was also terrible since nothing on this planet was familiar. After all, my points of reference offered little to no comparison. It made this already wild, crazy process into more of a mind-bending experience than it already was. Giving myself a moment, I sat in this opal shell for a few minutes with no magic running.
+
+I soaked it in, recognizing how disjointed I'd become. Going further into that sudden tranquility, I centered myself into one mind. Without time magic, many psyches, or charging runes, I sat still and just existed. I remembered my normal was this; being one person in a single wave of time. This was me, and I shouldn't forget that.
+
+After a while, I split my ego into egos. They marched into my wake before being pulped down. Taking a second, I dribbled mana into my primordial rune, trying to charge it. It pulled at my mana with visceral violence, collapsing my temporal acceleration. Wincing at the experience, I sighed.
+
+I'd eventually power my rune and hasten time in tandem. However, it was too much at that moment. If anything, that would be an exercise to train time magic while supercharging my sigils. I saved that for later before pressing my wake down once more. Breathing in the sensation, I molded it in and out, gaining more fluid control of the collapse and the crush.
+
+Once I gained some comfort in that, I moved between the periods of confinement. When my endurance hit its limit, I let my dimension extend back to comfort. Back and forth, this ebb and flow continued like a ceaseless tide and cycle of seasons. Stretches of time passed, and I maintained dimensional collapse while walking, then running, and finally jumping.
+
+It was a modest temporal acceleration, but it made me faster, stronger, and snappier. I practiced interspersing those movements with With stalls in my movement. Once I got the hang of it, I peeled back the protection of the opal shards, heading into the outside world. I didn't fight yet, choosing to keep some distance between the monsters and myself.
+
+Instead of rushing in, I let myself adjust to the ability, and for good reason. I'd remain in this state forever. Well, maybe not forever, but for the foreseeable future at the minimum. While on Leviathan, every second was precious, so capitalizing on my temporal acceleration was essential. Adjusting to it took a long time, but I had enough time to spare.
+
+While exploring Leviathan-7's ossuary, I acclimatized to the oddities of temporal manipulation. Walking around, I took note of what golems and star beasts remained. Even after I sat in a bone bubble for so long, most of them were still locked into combat with the primevals. Each side existed as inexhaustible fountains of intensity, and so far, a good portion of the super golems died from it.
+
+I frowned at the sacrifice, a pinch of guilt welling in my chest. It was a necessary sacrifice to keep this place from spawning more primevals. We couldn't afford to spend any more time building ourselves up. We had to conquer from here on out and peering up, some of the spawn algae returned overhead in the meantime.
+
+Despite my golems relentless work and pace, we hadn't gained any more ground than when I retreated beneath the bones below. In all honesty, I expected as much since the primevals gave me trouble. Without my converted star beasts, there's no chance the golems would've survived at all.
+
+Stilled and temporally accelerated, I dove into thought, my surroundings sauntering about in a slow crawl. First off, conquering a city was of the utmost importance since our time limit on Leviathan-7 could end at any point in time. However, conquering the land would be meaningless if we couldn't hold it.
+
+The primevals would smash through my golems and current fortification strategies. Strengthening my cities general defenses was my next pivotal step to dominance here. Set on that goal, I decompressed my wake and tore off one of my arms. The metallic, deep shear rippled over my surroundings at a higher pitch than I expected.
+
+Arm in hand, I stared up while melting the limb, and my golems and star beasts struggled above. Itching to test my new abilities, I smiled and gave myself a break. Crafting golems required some safety, after all. Otherwise, I might be interrupted, and I couldn't have that happen.
+
+Floating myself up, I cusped on the primeval's combat range. I spread my hands and soaked the sight in. They moved without their previous, rampant pace. Leaning over, I soaked in a sensation of density, strength, and utter lucidity. In a sense, I stepped into a different realm from those around me.
+
+And it was time to feel that change in all its fury.

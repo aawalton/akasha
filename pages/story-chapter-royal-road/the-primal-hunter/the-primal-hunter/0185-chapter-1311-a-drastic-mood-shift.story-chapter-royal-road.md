@@ -1,0 +1,147 @@
+---
+id: 4b1b4df7-da66-5acd-a7cc-574a005075e9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1311 - A Drastic Mood Shift"
+slug: 0185-chapter-1311-a-drastic-mood-shift
+partOf: the-primal-hunter
+position: 185
+ownLength: 2789
+unit: words
+publishedAt: 2026-05-13
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3390859/chapter-1311-a-drastic-mood-shift"
+royalRoadId: "3390859"
+---
+
+Jake didn’t particularly enjoy feeling like the child stuck between two bitter, divorcing parents who really should have split up years ago, but stayed together for stupid reasons.
+
+It didn’t make it better that they definitely did treat him like a child, being only B-grade, while these were all A-grades. Admittedly, age-wise, these frogs and undead spiders were far older than Jake, with the Shaman talking about the Oracle being well over two thousand years old, with the Nestmother and horned frog definitely older.
+
+Oh, and to make matters even worse, this wasn’t a divorce that either parent wanted to end amicably. Both wanted full custody, and both sides would rather see their metaphorical child dead than with the other parent. Jake was very much put in the middle, forced to choose, knowing that he really wasn’t in a position to make that choice.
+
+Something the horned frog also seemed okay with. If Jake picked the Venusians, the Arachnecs would likely refuse or even try to just get rid of Jake immediately, and if he picked the Arachnecs, the damn frog had justification to unleash hell and crush the nest. He had clearly come there for violence and was just looking for a good excuse, seriously making Jake question why a guy like this had been chosen by the Venusians to come.
+
+Probably because he was one of their strongest members and available... but still.
+
+Jake thought about his predicament for several seconds, with everyone staring at his projection and the Archweaver keeping a very close eye on his real body. Tension was building as Jake closed his eyes for a second, having decided on his course of action.
+
+Well, here goes nothing
+
+Letting out a big sigh, Jake shook his head and spoke. “This is so profoundly stupid. Seriously, what are we even doing here?”
+
+Jake’s response was very evidently not what any of the A-grades or the Archweaver had expected. This allowed him to keep momentum as none of them immediately spoke up.
+
+“I’ve been in this world for only a bit over a month, which clearly isn’t enough to know all about it and its history, but one thing is certain: the Venusians and Arachnecs hate one another. Am I right in that assumption? Don’t even answer the obvious,” Jake said, sounding as if the situation was incredibly boring.
+
+“As for why you hate each other, my guess is that it initially started the same way all these conflicts do. The Arachnecs require domains of death, while the Venusians need life, making them natural enemies simply due to their Paths clashing. This led to fighting and eventually deep hatred as both sides killed each other,” Jake continued, outlining the most obvious of observations.
+
+The A-grades politely remained quiet as Jake spoke, and from their reactions, Jake was clearly correct. Again, it was obvious, as this seemed to be the cause of most of the conflict both before and after the system arrived.
+
+“Which is precisely why I find this entire conflict so stupid. You’re all missing the bigger picture here, trying to get one over each other, letting hatred blind you,” Jake said, shaking his head in disappointment.
+
+Jake’s demeanor was calm, purposefully as if he was speaking down to all the far more powerful A-grades present. This definitely didn’t earn him any points with anyone present, as the horned frog spoke up first.
+
+“I do agree with one thing you said. You don’t truly know us or our history, so-“
+
+“Why would I need to? It’s ultimately irrelevant,” Jake shrugged, knowing he offended the nearly peak A-grade, but he quickly continued, nevertheless. “Look, let’s take a step back here. What you all want is to go beyond the Boundary and enter what’s known as the multiverse. That’s what it’s called, in case you weren’t aware.”
+
+His revelation of some minor information about the outside world was enough to interest the frog and overshadow any other emotions, as the A-grade remained calm and allowed Jake to continue.
+
+“But have you given much thought to what entering the multiverse means? Because from my perspective, it seems like both factions think it’s the key to either side getting an S-grade among you, leading to absolute dominance. Oh yeah, little extra info, S-grade comes after A-grade,” Jake said, continuing to speak casually as he revealed more grand information to the Minor World.
+
+Knowing he was stuck between a rock and a hard place, Jake had truly chosen to switch up his strategy for how to approach these factions. It may also have played a small role that he found their treatment of him objectionable. They saw him more like some magical treasure than a person, using him as a piece in their political game. They thought he was just another pawn to move around the chessboard with the Venusians and Arachnecs playing... but he was determined to make them fully aware he was no pawn.
+
+He was now the one deciding the rules of the game.
+
+“Do you have any way to confirm that claim?” the horned frog asked a question Jake once more found incredibly silly.
+
+“You’re really proving my point here. Everyone knows S-grade comes after A-grade in the world outside, for the simple reason that in the grand scheme of things, S-grades aren’t that rare,” Jake said, shaking his head.
+
+While S-grades were the peak of mortals and were incredibly powerful and rare, the multiverse was simply so unimaginably gigantic that there were still a lot of them. The Holy Church could mobilize an entire army if it had to, and often did when fighting the Risen.
+
+“Which brings me to my main point. What you all seem to be missing. Your ability to go beyond the boundary and explore the rest of the multiverse also means that the multiverse can explore this place. You will become part of the multiverse, and that comes with a lot of implications, I think you all need to consider very carefully,” Jake said in a severe tone, getting the crux of everything.
+
+Jake didn’t need to include that the ninety-third universe was currently isolated, but focused more on the fact that these frogs and undead spiders were about to be exposed to a world far beyond their comprehension. While an army of A-grades and likely several S-grades in the semi-near future was an impressive line-up, it was nothing compared to the overwhelming power of divine factions.
+
+What’s more, Jake couldn’t forget where the entrance to this Minor World was placed. It was in his backyard, part of his galaxy, and frighteningly close to Earth, his home planet. Which meant that, by all accounts, when all was said and done... this Minor World was part of his dominion.
+
+His words seemed to have gotten the cogs turning in the heads of the many A-grades as this obvious realization seemed to suddenly hit them all. They had been so caught up in going beyond the Boundary that they forgot that what lay beyond it could also enter their world.
+
+“So what you’re saying is that our fight is ultimately a waste of time, because some outside force with power beyond our imagination will end up conquering this place anyway?” the Nestmother spoke up for the first time in a while.
+
+“In essence? That’s exactly what I’m saying,” Jake said in a matter-of-fact tone. “The entrance to this Minor World is placed somewhere that already has the protection of a faction with power beyond your wildest imagination.”
+
+They were all quiet for a few more moments, everyone throwing looks at the Venusian that was capable of confirming whether Jake was telling the truth. The frog could only give a grave nod to all those present, making the situation significantly more tense.
+
+The next one to step forward was the Oracle, who looked at Jake with an inquisitive gaze.
+
+“You keep talking about beings far more powerful than we understand. I assume these are beings beyond even this S-grade you mentioned?” she asked.
+
+“Naturally,” Jake confirmed, having already decided by now to reveal the existence of the divine. Primarily because he had a strong feeling that he would have to soon anyway.
+
+“What is this grade called?” the Venusian asked, all the A-grades present once more looking incredibly curious. It was honestly a bit funny that everyone present seemed to forget all animosity and why they were even there as soon as Jake started to reveal interesting knowledge about the multiverse.
+
+“I’m not quite sure I would call it a grade,” Jake muttered, making all the curious souls even more interested. “After S-grade is the end of mortality. It’s a qualitative shift in one’s existence and the hardest wall to overcome. Far harder than any regular kind of evolution. But should one succeed, they will become what is known as a god.”
+
+Jake said this final part with full expectation of getting some kind of visceral reaction from someone. The Venusians treated this Ancestor Spirit as a god, and while the Arachnecs didn’t appear to have any existence like that, he wouldn’t rule out the possibility either. That’s why he was ready to see at least someone call him a blasphemer or something... but nothing.
+
+“God, you say,” the Oracle muttered, with the others also looking in thought, making it evident that this was a word none of them had ever even heard before. So, yeah, that was a nice hurdle to avoid having to overcome.
+
+The Nestmother stared at Jake as she narrowed her eyes. “What do you mean when you say it’s the end of mortality?”
+
+Knowing this was probably the biggest reveal so far, Jake took his time to build suspense as he closed his eyes for a moment before opening them again with a serious look on his face. “Immortality. Gods no longer fear the march of time, but have eternity before them.”
+
+Jake had predicted this was the biggest bombshell to the powerhouses of this world, and from their immediate reaction, he was very right to have that assumption. The horned frog’s eyes opened even wider than usual, as everyone else had similar reactions of disbelief or awe. Mostly disbelief, though.
+
+It didn’t make things better that the Venusian who could confirm Jake was telling the truth stood there, frozen in shock themself. Everyone looked to him, as he was far too slow to reveal that Jake had indeed been honest. His slow nod served as a second moment of shock to everyone, as it seemed only now they were starting to believe that the outside world was something they would have a hard time understanding.
+
+Deciding to hammer while the iron was hot, Jake continued.
+
+“The most powerful of gods in the multiverse have been around since ancient times, with a few having even been there since the very advent of the system itself. They have lived through countless years, seen thousands upon thousands of A-grades and S-grades rise and fall to the passage of time, as they honed their own power and built their factions,” Jake said, taking full advantage of everyone’s shock.
+
+“These factions are now what primarily rule the world beyond the Boundary. Led by powerful beings that could effortlessly remove this entire world from existence should they so desire,” Jake finished, and from the looks of it, he had gotten beyond the stage of them all instinctively questioning him now as they all listened intently.
+
+By now, the entire vibe had shifted, and Jake believed it was time to reveal another trump card of sorts now that he didn’t fear any of them daring to kill him.
+
+Looking at the Nestmother, Jake spoke again. “Remember our conversation around Records and the incredibly powerful snake I’m close with?”
+
+The high-tier A-grade nodded solemnly, having definitely already realized what Jake was getting at. At least partly.
+
+“That snake is known as the Malefic Viper. A Primordial God, which is a title given to the first twelve beings in the multiverse to ever achieve godhood,” Jake said, once more giving them all a moment to take everything in before continuing. “Beings like the Malefic Viper are so powerful that their Records radiate throughout existence, even reaching places like this. Case-in-point, the entire existence of the Arachnec race.”
+
+“What do you mean?” the horned frog asked with a frown.
+
+“Blight. You know what that is?” Jake asked an open question, not actually sure if they knew. What he hadn’t expected was the Nestmother and even Archweaver to look shocked, as if they couldn’t possibly comprehend how Jake knew that term.
+
+Seeing this, Jake nodded towards the Nestmother. “Blight is also common knowledge in the multiverse, so please, what do you believe it is?”
+
+The Nestmother looked very conflicted, but likely due to being taken with the current atmosphere and flow of conversation, she actually answered. “We call it the Noble Essence of we Arachnecs. In sufficient quantity and quality, it’s what allows us to create nobles.”
+
+Yeah, that was definitely something the Venusians didn’t know, but to Jake, it was no surprise. The only surprising part was that it seemed like the Arachnecs had learned to funnel and focus blight energy intentionally, but he should have really seen that coming.
+
+“Did you know that Blight isn’t something that occurred naturally? It was created by one of these twelve Primordials. A god known as the Blightfather,” Jake continued. “When he first created this energy, it was known as his arcane affinity, but through his immense power and influence, it has now become the Blight you know today. Capable of appearing anywhere and everywhere due to its Records.”
+
+Jake noticed that upon mentioning the name Blightfather, both Arachnecs had an odd reaction, as if they recognized the name without truly knowing who it was. Some instinctive recognition, perhaps. They owed the existence of their entire race to the Primordial, even if he had no idea they even existed.
+
+“And this is just the passive dissemination of Records,” Jake continued. “I’m sure you’ve already noticed how a teacher can pass down Records to others. How the power of one’s parents affects one’s Records. Now imagine something akin to that, but with the Records of a god. Actually, rather than imagine, allow me to demonstrate a small Legacy skill that I got from the Malefic Viper.”
+
+To really push his momentum, Jake had concluded that being a mere projection in front of the A-grades wouldn’t do. What’s more, because this had dragged on for so long, Pride was back on the menu again. Of course, if he even wanted the option of using it, Jake would have to get to the sky.
+
+“Be there in a moment,” Jake said as he took a step back, his projection disappearing from the sky as he went out of the bubble created by the Archweaver. Two wings appeared on his back as he gave the Archweaver a look.
+
+“I’m gonna head outside, thanks for the tour,” Jake said with a smile as a sphere of poison started appearing around him.
+
+“I do not have the ability to disable the barriers surrounding the Nest,” the Archweaver said, making Jake smile a little. His words indicated he would have turned them off if he could, which was yet more proof that their entire view of Jake had shifted.
+
+Fortunately, Jake didn’t need the barriers turned off.
+
+“It’s fine,” Jake said as he activated the escape function of Wings of the Malefic Viper and shot towards the sky above. During their conversation, Jake had also done a bit of work to analyze the barriers surrounding the Nest, and while they were quite powerful, they had one fatal flaw:
+
+They allowed toxic energy to enter and exit freely.
+
+This was certainly done because why wouldn’t monsters want more environmental energy within? Usually, this wouldn’t be a problem either, but through a combination of Unseen Hunter and effectively making himself a living mass of toxins, Jake had found a path through. His increased sensitivity towards space also helped, in an unforeseen way, as Jake felt his control over his movements, speed, and where he would appear had all increased massively.
+
+Enough so that as Jake came to a stop, and his wings started scattering into toxic dust, he found himself standing right in the middle of all the A-grades, who definitely hadn’t expected a mere B-grade to be capable of escaping from within the Nest.
+
+“Now that’s better,” Jake said with a smile, also stopping holding back other things as he fully released his Bloodline and gladly unfurled his aura as the Chosen of the Malefic Viper, blanketing the sky.
+
+“Now let’s properly discuss the future of this world.”

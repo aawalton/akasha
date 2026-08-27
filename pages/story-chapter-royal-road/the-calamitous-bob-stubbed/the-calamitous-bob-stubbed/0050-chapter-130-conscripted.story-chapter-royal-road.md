@@ -1,0 +1,381 @@
+---
+id: 76de7497-32e8-591b-bcc5-03bd0488a877
+page-type-slug: story-chapter-royal-road
+title: "Chapter 130: Conscripted"
+slug: 0050-chapter-130-conscripted
+partOf: the-calamitous-bob-stubbed
+position: 50
+ownLength: 4787
+unit: words
+ownProgress: 4787
+publishedAt: 2023-08-11
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1306814/chapter-130-conscripted"
+royalRoadId: "1306814"
+markedReadAt: "2026-06-29T21:16:28.094Z"
+---
+
+“I fucking hate escort missions,” the young sergeant said.
+
+It was tight inside of the command tent. Tight and a little rank, and hot despite the cold air blowing from the south. It was dark as well. The company didn’t have oil to waste on lanterns while the sun still shone outside.
+
+His name was Tarn and he was an idiot. Not a bad sort really, and not a bad commander either, provided someone told him what to do. He could do his job well enough beyond the fact that everything that came out of his mouth was moronic, poorly timed, or uncalled for. No wonder he ended up with this apparently unworthy assignment.
+
+The older, cannier officer cast a quick glance at Captain Cernit before replying with a nod. That was old Jarod Three-Eyes and he had seen much. Cernit had never worked together with the others, and Old Jarod knew better than to antagonize an officer right off the wagon. Besides, they knew Cernit was a noble and some nobles had a tendency to be asshats.
+
+It was just the way things were in the Baranese army.
+
+Cernit smiled.
+
+“She’s different.”
+
+“You know her?” Old Jarod asked.
+
+“Besides the fact she comes recommended by General Jaratalassi? Yes. She took down undead crawlers and gut spillers by the dozen back in the deadlands where I met her.”
+
+“Huh,” Tarn said, suitably impressed.
+
+“Of course, she was only first step then.”
+
+That got their attention. Cernit allowed himself a smile, feeling that for once in his life, he knew someone important. By Sardanal it felt good to be connected.
+
+He would have said she stopped an entire undead horde led by two necromancers but that was the golem. Overselling a caster’s ability was also dangerous business.
+
+“Jaratalassi said she’s the only witch he’s accepted in his second year. He also said she was among his ten best students.”
+
+“Grim Jaratalassi? The bear trap?”
+
+“In person. In any case, you will see. She should be here any time now.”
+
+In truth, Cernit's high finesse had let him hear the quieting camp around them. It could only mean one thing. Old Jarod stood at attention before him.
+
+The person who came in the tent was almost unrecognizable. Gone were the gaunt traits, the hollow eyes. The one he had grown to call Bob was hale and confident, dressed in black and silver armor that must have cost more than he’d made since he’d last seen her, bounties included. A round shield rested on her shoulders, a dagger waited on her chest, to the side. The pommel was a black core the size of a large egg. More importantly, mana danced around her, visible in tiny fumaroles at the edge of her soul. It played strangely with the light that came from the entrance. Only the blood-tinged hair and emerald eyes hadn’t changed, though there was less despair and more control now. Cernit also felt that sense of weight one had when facing forces of nature. He inspected her.
+
+[Ascendant, fourth step, one who has followed the path of direct war magic and leadership. Lethal. Undead nightmare. Man bane. Monster hunter. Leader. Smart. Lucky. On the rise. ]
+
+Fourth step!
+
+The woman’s face lit up when she noticed Cernit.
+
+“Captain Cernit. Congratulations on your promotion!”
+
+“Thank you. You look much better than last time!”
+
+“I feel that way too. Glad to see you again. I love to see a familiar face. Let’s catch up later. For now, I believe an introduction is in order?”
+
+“Yes. Those are Sergeant Tarn who will command the line, and Sergeant Jerod but everyone calls him Old Jerod Three-Eyes on account of his vigilance skill. With him, we’ll never get caught off guard.”
+
+The two men saluted.
+
+“Right. I am attached to your company as a member of the Academy. Do you know what that means?”
+
+“Means you can’t give us orders?” Tarn replied before his two brain cells could catch up with his lips.
+
+Cernit smacked the back of his head. The blow tilted the man forward.
+
+“That means she’s considered an expert, not a member of our glorious army. But if she says jump by Neriad’s balls you’ll jump. Understood?”
+
+“Yes sir!”
+
+“I am only here to complete my objective, but I will be providing support and arcane-related advice to the commander, so Cernit. If I do give a quick recommendation though, you’d better obey. If you want to live, that is.”
+
+“Makes sense,” Tarn grumbled.
+
+“Could we know what that objective is? We’re to take a fort?” Jerod asked.
+
+“Occupy. We don’t know if there is anything there,” Cernit said.
+
+“Of course it’s fucking occupied,” Tarn grumbled in his beard.
+
+“This will be our primary objective as far as you’re concerned. The rest is classified,” Viv said.
+
+The two sergeants waited for her to elaborate, which of course, she declined to do.
+
+“Wow, we're doing something important.”
+
+“Tarn,” Cernit said, “talk less.”
+
+“Yes sir.”
+
+“You just have to get me to that fort in one piece. That is all.”
+
+“Understood,” Cernit said.
+
+He knew what she was supposed to do.
+
+“Are you ready to depart?”
+
+“Anytime.”
+
+***
+
+Viv was not having a good time.
+
+The trip to the regiment’s meeting grounds had been quite pleasant in a way wealth and connection could make trips enjoyable. Nice inns, nice manors, General Jaratalassi’s letter of introduction had been the best key money couldn’t afford. She had ridden her expensive horse down the best tables of the northern kingdom and to the border of Baran. It had removed the sting of Arthur’s ever longer trips. Now though, things were different.
+
+Her mission was to reach the northern flank of the current front and open a portal to a predetermined region. She wasn't sure how Jaratalassi knew she could open portals and suspected he’d just asked her in a hunch knowing her skill and relationship with Sidjin. In any case, she was officially a portal maker for the alliance. The destination portal being in the wilderness, she was granted an escort of good size: a hundred experienced infantrymen to protect her during the trip and help ‘secure’ the fort. Viv highly suspected Jaratalassi knew the fort was occupied but she didn’t know by what. That part was fine. The part that wasn’t fine was that they had to walk through the boonies of the boonies of Baran, a heavily forested area creeping along the barren wastes of western Haluria. The marches of Baran were a patchwork of deserted moors and survival villages huddled in remote valleys, eking a living between two invasions. None of the parochial villages kept any roads because roads led raiders to places, places where people lived. As such, everyone walked over rocky hills and through arid ditches. Everyone including Viv.
+
+Now, Harrakan heavies were superior in combat for a variety of reasons, one of them because their paths favored explosive power. They were unmatched on the battlefield. The problem was getting them here. Harrakans were masters of logistics for a reason. You couldn’t win a war unless your overly muscular soldiers wearing seventy kilograms of enchanted steel could get in spear range of your enemies. The rest of Param favored a more balanced approach. That meant that the supersoldiers making this regiment had trained to move fast and far. It meant that Viv was contending with a hundred fucking winter soldiers on an ‘active stroll’ and that meant that her life was utter shit.
+
+Endurance: 28
+
+She’d not hated her life that much since special forces training. Worse, she was more resilient than even an Olympic Marathonian champion and it was still not enough. Even with people carrying her tent and some of her gear, even with scouts leading her silently through the easiest path without comments, even with all of that, she would collapse in her bed every night with a groan.
+
+It was a different groan every time.
+
+“How the fuck did they drag a water barrel through that thing?”
+
+“If Mouq could see me she’d laugh her ass off. I’m in a world of magic and back to being a grunt.”
+
+“My feet are now 80% blisters.”
+
+“Fuck.”
+
+Day after day, the regiment went farther into the forest. Viv got the beginning of a fever, the first time she’d been sick from actual disease since she came to Nyil. Fortunately, a small dosage of potions managed the symptoms until she got better. No soldiers said anything, not even Cernit, but they could see they were waiting, expecting.
+
+Expecting her to break.
+
+Viv was unwilling to give up. The path she had picked gave her a fast improvement of her physical stats as well as the mental. This was a good opportunity to push herself to her limit in a relatively safe environment. This was also a point of pride. Viv knew any other mage in her class would have demanded a better accommodation, possibly riding in a handcart. It would be reasonable too. Viv was not feeling reasonable.
+
+“We can help more if you want. We expected to slow down,” Cernit told her one evening, not unkindly.
+
+“It’s fine. Don’t worry, I will not be too stubborn to forget our goal. I will be in shape to cast that spell.”
+
+“Good. There is a betting pool going to see how long you’ll last.”
+
+Viv huffed, a bit annoyed. So everyone was pretending not to notice her struggles then.
+
+“I feel encouraged. Wait, what did you bet?”
+
+“An officer does not join in such base pursuits.”
+
+“Come on.”
+
+Cernit smiled in the dim light of the tent.
+
+“I bet two silver talents that you’d make it to the end.”
+
+“Wow. Thank you for your trust.”
+
+“Do not mention it.”
+
+Viv’s pride lasted until she realized that Cernit was purposely slowing down the pace to let her adapt.
+
+Bastard was cheating.
+
+Like this, they walked for almost three days, then snow started to fall in heavy tufts for the first time this year. As Viv licked a thick flake off her lips, she allowed herself to smile. The men were whining about the much harder work but Viv had come prepared. She had potions, she had clothes, and she had… snowshoes. Custom-made snowshoes to attach on her boots made to her specifications by a refugee from the southern wildlands. An old man from the same region as Koro had weaved them himself for a meager price. The result was immediate. First, they laughed. Then, they scolded. Finally, they asked to see them.
+
+“Snowshoes spread the weight over a larger area. That way, you can stay on top of the snow unless you’re really, really loaded,” Viv explained. “Even then the packed snow should only dip a little.”
+
+“You sure came prepared,” Tarn said with some admiration. “Not a city flower then? From peasant stock, maybe?”
+
+Cernit massaged his temples.
+
+Viv wondered if Tarn had ever said anything that didn’t offend someone. She didn’t mind herself but even the mildest mage here didn’t enjoy being reminded of their humble beginnings. Paramese society was fundamentally layered. It was only a matter of time before Tarn put both feet in that damn mouth of his in front of the wrong person and got sent to steal a dragon’s favorite tooth. It said a lot about their assignments.
+
+Viv didn't interact much with the rank and files, they wouldn’t understand it anyway, but she heard that old Jerod was an exceptional scout. It was just that he couldn’t hit the broad side of a barn with his bow. Cernit had led a doomed defense that saw only six survivors return to Baran.
+
+It sort of stank, Viv thought. She delicately shared her concern with Cernit.
+
+“All part of Jaratalassi’s plan. Tarn is a great executor. Old Jarod is still a solid spearman. If the Halurians have any spies, they will see a bunch of misfits sent to a peripheral mission and think little of it.”
+
+“The Halurians use spies? I took them for a straightforward bunch.”
+
+“Their women are the wiliest snakes to ever live. They lead their nation’s dishonorable ways of waging war. Even more dishonorable, I mean. They… they convince men to betray the cause. They have… compelling arguments.”
+
+“You mean sex.”
+
+“Yes,” Cernit said, blushing a little. He looked terribly embarrassed.
+
+“So General Jaratalassi hid this operation. It must be important. I still don’t know what we are opening the portal for.”
+
+“Me neither. The general takes secrecy very seriously. He’s not just called the bear trap because of his defensive fighting.”
+
+“Hmmm.”
+
+***
+
+Day in, day out, the column moved on. During the day, they crossed the pristine snow between leafless trees and hidden stones. At night, Viv raised walls and lights to help with safety. The stars above shone brightly on a good day, so far from all the light of mankind. Most of the time they were muted, however, and the encampment became an oasis of existence in an ocean of darkness. Nature was silent now, with most creatures burrowing for the winter. Only the creaks of laden branches broke the silence. Sometimes, Viv would look out of her tent at night when the only motion were the puffs of breath from the hidden sentries, an ethereal reminder that life still persisted in this barren land.
+
+After a week, rolling hills and crags replaced the denser forests. Even the few villages Cernit somehow found grew more rare while above, the gray cover of low clouds masked the entire sky. The world was reduced to a dreary expanse of white, gray, and the occasional brown touch of sleeping wood. Stones gave the snow strange forms and hid pitfalls that the scouts had to find for them. Water was thankfully abundant, as was wood, so they always had fire and warm water going.
+
+It was also the first time they were attacked.
+
+It happened as they were crossing through a canyon, its surface devoid of much snow thanks to chance and wind. A mighty roar stopped the men where they stood. Viv felt a pressure against her that her intimidation dispersed immediately. She was no prey.
+
+“Form up! Form up and grab your spears!” Cernit roared.
+
+The clarion call of his voice dispersed the aura of fear that had gripped the men. Tarn and Jarod ordered their men to form up by squad because there was no time to do anything better. Almost immediately, a white form like a bear in armor topped a nearby ridge and charged.
+
+Viv had removed her silverite runes the moment she’d realized the danger. They hovered around her, waiting for a command. She opened with astra spells as soon as the creature was in view, launching a swarm of them. The beast didn’t stop. Instead, walls of ice and frozen earth rose to protect its flanks. The spells hit them and blew holes in the protection.
+
+The armored bear’s bullheadedness played against it when its forward charge placed it in the path of most projectiles. Many were stopped too early, but a few hit around or over hastily raised obstacles. Viv saw a puff of red and heard a roar, but the beast was already hitting a squad. Viv saw a white trail and a man went flying.
+
+She couldn’t hit it without hitting her own soldiers.
+
+Thankfully, the creature stumbled and swiped. The squad it had attacked spread out before its anger. Viv finally noticed the wound on its flank when it stood on its rear legs, howling terribly. Blood dripped freely from its flank.
+
+She must have hit something important.
+
+“Blast.”
+
+The artillery spell hit the creature as it was falling back, braining it instantly. It fell where it was.
+
+Silence spread over the plain. The engagement had lasted less than five seconds.
+
+“What are you ogling? Form squads! Medics, check on Leras! NOW!” Cernit bellowed.
+
+The men moved with needled pride. A soldier with a bag of remedies approached the fallen warrior. He shook his head. He was dead. Now Viv could see that his head was turned at an unnatural angle, the helmet deformed by a violent impact.
+
+“Wow,” Viv said.
+
+“Fantastic shot there. Good job.”
+
+Viv didn’t tell him she was aiming for the chest.
+
+“Sorry about your man. I wish I had been faster.”
+
+“You did great. We couldn’t have killed it without you. Its skin is too thick for the short bows we have with us. This is a female rock bear. Gravid. If they haven’t fattened up enough for the winter, they’ll even attack humans. First they roar, then they use the confusion to charge a group and drag away prey. They’ll eat it then do it again if they’re still hungry. It’s rare to lose just one person.”
+
+Viv’s brows rose in amazement.
+
+“You seem very knowledgeable about those beasts.”
+
+Cernit leaned conspirationaly. Despite the loss of his soldier, he seemed to be in a good mood.
+
+“It is a secret, but there is another reason why I was the one who was picked. My lands are very close to the border, next to the fort in fact. I told you I was a minor noble?”
+
+“Yes. Oh, so you are going home.”
+
+“Not by the best road, but yes!”
+
+He turned to his men.
+
+“You lot! Skin the beast and get the core out. Get the best cuts of meat with you. We’ll have a stew tonight. And don’t touch the liver!”
+
+He turned to Viv while a mass of drooling, knife-wielding maniacs fell on the carcass.
+
+“Shame about the pelt, but we really don’t have the time to get it. Come with me. Tonight we will feast.”
+
+***
+
+The first signs of their destination came with the forests’ return. A chain of low mountains rose in the distance, the location of the fort. Those were not young mountains, tall and sharp like new teeth, but old and comfortable ones. They sagged under the weight of eons and the current snow, forming white mounds with soft tops where pines had taken refuge. A river still flowed along their flanks. Its deep blue waters provided some color to the winter landscape. It would have been quite nice if it were not for the corpse.
+
+It belonged to an old woman. She had been carrying wood home on her back and the twigs surrounded her like a marker. She was lying on her chest. Something had bitten off her calves and thighs, then attacked the flanks but it had been interrupted. Entrails extended away from the regiment then over the ridge amid a mess of snow tracks. The corpse was still steaming. There were roars and the neigh of horses in the distance.
+
+Viv was standing next to Cernit when they came across the dead one. He blanched like she’d never seen him do before, even on the wall of Fort Sky when all was lost.
+
+“Weapons out. Move it! MOVE!”
+
+Viv sprinted alongside him, cursing the slightly duck-like step the snowshoes forced on her. She was still fast enough to keep up and they topped the slope just in time for the battle.
+
+Below them, a creature like a massive wolf with strange tusks and a vaguely serpentine face charged a man on a horse who raced away as far as his mount could carry him. Another two young men turned around their quarry, wielding javelins. They wore forester garb, not armor, and the horses had no barding. One of them hurled his weapons and found the beast flank but it seems it only angered it. As Viv watches, another landed a javelin in the back, between the ribs. The shot was fantastic and just as immediately useless as the previous one. The beast gained on the young man.
+
+“Those are my SONS!” Cernit bellowed before charging.
+
+Ah.
+
+Viv sprinted as well but the horseman was heading towards them and she wasn’t confident in hitting the creature. Too close. Fuck, if only it went sideways.
+
+The rider skilfully turned as the beast pounced, but the horse was caught, somehow. Back of the leg. It stumbled, yet the young man somehow still managed to stay on top.
+
+This gave Viv the opportunity she needed. Her silverite symbols hovered and she cast a series of Astra forward, angling them to the side.
+
+Rather than attacking the rider, the beast jumped nimbly to the side, which meant that it was still hit by three of the fast spells. Viv had faced enough fast opponents to know to spread her attacks.
+
+The attacks were powerful enough to dig devastating gaps in the beast’s back. It fell to the ground, clawing and whining until a blast put it out of its misery. Viv did not stop, however. On the field below, more creatures had appeared. A dozen.
+
+Those were pack animals.
+
+Viv followed the sprinting Cernit in silence. Scouts remained behind, peppering the lead beasts with arrows. They didn’t seem to do much more than annoy them.
+
+“Father!” the young man nearest to them said. Without prompt, he led his horse to Cernit who jumped on his back as if he were not wearing armor. The old knight gave Viv a hand. She took it without hesitation.
+
+The horse departed at a gallop towards the marauding monsters without a hint of fear. Viv thought the horse ought to be wounded but it seemed the claws had miraculously avoided the leg’s flesh.
+
+“Yah!”
+
+They charged forward, Viv’s silverite symbols hovering around her and letting her cast on the fly. The sudden speed made her heart lurch after a week of walking. It felt like flying, with the powdery snow peppering her cheeks. Stress and excitement sent her heart racing. Cernit’s sons. She had to save them. She would save them. Those beasts were as good as dead.
+
+The two remaining young men threw a javelin then galloped across the clearing towards the quickly approaching soldier squads. For a beautiful moment, it seemed that they were faster and would escape but the lead beast hissed, a sibilant sound that made Viv wince, and one of the horses panicked.
+
+The youngest son fell off his horse. Cernit swore and yelled but his mount was already going as fast as it could.
+
+“Blast!”
+
+Viv’s attack curved to kill another creature, though the largest specimen was still hidden at the heart of the quickly moving pact. She could see more of them now, red gums, slavering tongue, deep-set black eyes. She silenced the part of her that said she couldn’t kill them all before they reached her. Her heart thundered in her chest as she lined another artillery shot and killed another creature. They didn’t stop. They should have stopped. It didn’t make sense.
+
+The older son changed his trajectory and picked the younger by the scruff, then placed it in front of him. The younger son grabbed the horse’s neck with all his strength. It slowed down.
+
+Viv distinctly saw resignation on the older boy’s face, calm when he dropped from the saddle and turned to face his death with a straight back and a javelin in his hand. Cernit cried. She decided that the man would live.
+
+Power coursed through Viv’s core and roared, answering her call.
+
+“Eldritch walls!”
+
+A barrier of grasping tentacles and scales rose like a tide to grasp at the beasts. It was fragile and weak but they didn’t know it. Some jumped over but more stopped or tried to go around. The strict formation scattered in an instant. It wouldn’t be enough to save him but it gave Viv the time she needed. With her hand in front of her, she found her target.
+
+“Kinesis.”
+
+It was the older son’s turn to be lifted by the scruff, rising over the plain with a yelp. Viv unceremoniously dragged him towards her at good speed like a squealing, flailing package. At the same time, the first beasts were almost upon them. A volley of arrows stopped them just in time. One of the beasts screeched, eye pierced.
+
+“Purge net.”
+
+Viv turned the space in front of her into a hell of flaying tendrils that scored deep gouges into the beasts’ hides. Those were not the leaders. They yelped. The lifted son landed on his feet and sprinted without pause past them. Cernit turned their horse around and trotted back. Meanwhile, Viv sent another blast at a flanking beast and killed it, all while maintaining her flay spell. Her mind worked in overdrive to juggle all the symbols and her intent but it didn’t feel like pressure. It felt like a dance of minds, her against the pack, and she was winning. The beasts were whipped, killed, obstructed. She projected her will and the most powerful kinetic spell she could at another flanker and saw it reel as if punched.
+
+The lead beast smashed through the wall and roared. The creatures attacked with suicidal frenzy, and Viv dropped the purge net. A moment later, the roaring mass of Baranese soldiers smashed into the disorganized pack spears first. The creatures fought, but the soldiers held on.
+
+Viv cast another blast but the beast dodged with a natural ability that made it move so fast it left an after image. Viv could not hit it.
+
+“Charge it!” Viv asked, and Cernit did it without a second of doubt.
+
+The opponents charged each other, the slavering monsters and the humans and their fearless horse. Viv waited until the last moment. She saw the thing jump, heard the woosh of snow, heard the cavernous sound of its breath. A flash of gray pelt.
+
+“Aegis.”
+
+The creature smashed against her shield at full speed and bounced back with a resounding smack. Viv winced from the strain but she grit her teeth and unsheathed her dagger,
+
+“Excalibur.”
+
+The blade was massive, easily as long as the horse. Viv screamed. She swung. Something so large shouldn’t be so light, she thought. There was no resistance when the blade bisected the reeling, airborn beast cleanly before it could touch the ground and jump again. A sprinkling of blood covered her face and most of her clothes. It was warm and smelled like iron.
+
+That was too much for the rest of the pack. The maimed survivors limped away, the archers picking off a few of the more wounded ones.
+
+Shield mastery: Beginner 2
+
+For a moment, the plain was silent except for the heavy breaths of the recovering soldiers. Viv couldn’t believe everything had gone so well.
+
+“For Baran!” Cernit roared.
+
+“For the king!” his men echoed.
+
+Viv turned and saw that the older man had tears in his eyes and a smile on his lips.
+
+“I’ve never seen anything like that. You are a champion,” he whispered. “A champion. And you saved my son. I owe you twice over, Viv the traveler. But now please give this father a moment.”
+
+Cernit stepped down while Tarn and Jerod busied themselves ordering the men. A few of the braver fighters planted spears through the ribs of the dead beast to check if they weren’t faking it. Viv watched Cernit with some amusement from the top of her saddle. The main reason why she didn’t come down was that she was tired and the horse let her sit with a dry butt.
+
+Cernit practically jumped on his older son and hugged him with an energy only fear could bring. They smacked each other’s backs with their fists and cried. Then, Cernit placed two hands on his shoulders and stayed there for a good ten seconds before punching him square in the jaw.
+
+“An entire pack of Halurian beasts with javelins? You utter morons. Where are your armor sets? Where are the bloody bear spears? Huh?”
+
+“We didn’t have the time, dad,” another boy said in defense.
+
+“What did I say about delaying hunts?”
+
+“This wasn’t a hunt,” the middle one said. “This was a rescue.”
+
+He pointed up the slope where the rest of the infantrymen were appearing, dragging their luggage. There were villagers with them. Young ones too.
+
+“The beast got old Shev but we bought time for the rest. You said that we had to protect them.”
+
+“I said that, aye. I did.”
+
+Cernit mussed their hair, all three in turn. He made no effort to hold his tears.
+
+“And you did a bloody fine job. I just hate to see you in danger like that. By Neriad…”
+
+The four hugged again while everyone else pretended not to watch. The oldest son was the first to break, fuming with mock outrage.
+
+“So I’m the only one that gets punched then? It’s not fair!”
+
+So Cernit gently punched the other two.

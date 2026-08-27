@@ -1,0 +1,19 @@
+---
+id: ec713189-33a8-544b-b93e-3331b2ed7262
+page-type-slug: story-chapter-royal-road
+title: "Interlewd Two"
+slug: 0133-interlewd-two
+partOf: stray-cat-strut-stubbing-never-lol
+position: 133
+ownLength: 438
+unit: words
+publishedAt: 2021-05-03
+link: "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/675920/interlewd-two"
+royalRoadId: "675920"
+---
+
+Interlewd TwoI barely took in the interior of the cab, too busy wrestling Lucy’s tongue with my own as we slid into the long backseat.“Greetings, honoured customers,” the taxi said. “Was your meal satisfactory?”“Mmh,” I said. Lucy was scooting towards the middle of the seat, but she still had one hand around my neck and was making sure that my ability to breathe and think was a little on the short end.We broke apart, for just a moment. “Yeah,” I said. “Hotel, bring us to the hotel. Myalis, turn off any observation stuff.”I wish I could off my own. There are some things I don’t want to see.I snorted, then was cut off when Lucy grabbed the front of my jacket in a fist and pulled me closer. She was on one knee on the seat, her other leg extended to the floor to keep her at an angle.I shifted, sitting up properly. “Lucy,” I said.She paused, and panted, her warm breath whispering past wet lips. “What?” she asked.“Sit?” I asked, patting my lap.She rolled her eyes. “Softie,” she said. “Fine.”I grinned as Lucy shoved over and plopped herself down on my lap. I wrapped my arms around her, pressing her close to my chest. Lucy could call me a softie all she wanted, this, having her in my arms all soft and warm, was the best.If you stumble upon this narrative on Amazon, it's taken without the author's consent. Report it.My head dropped to the nook of her neck and I started peppering her with soft little kisses. I knew that it annoyed her a little. Lucy was always a bit... rougher with her affections, and she liked it like that in return.The taxi started to move, both of us swaying just a little with the shifting momentum. I felt Lucy’s rear wiggling a little, pushing down onto my lap as I continued to press kisses into her neck and hair.“Cat,” Lucy whined.I loosened my hug a little, one hand slipping under the stealth jacket I’d given her. It was warm under the coat. I pressed my hand over her stomach, then up until it was atop a breast. I squeezed, just a little. Lucy squirmed some more.“For fuck’s sake Cat,” she muttered. “I wanted to fuck, not just some cuddles.”“Cuddles are important,” I said.
+
+Hi! It's me, RavensDagger... again!
+
+So, because Royal Road moved onto Apple and Google's platforms, it doesn't allow lewd content anymore. for that reason... well, the lewd part of this interlewd was moved off site. But it's okay! You can read it, entirely for free, on my patreon. Link right here: https://www.patreon.com/posts/91219584

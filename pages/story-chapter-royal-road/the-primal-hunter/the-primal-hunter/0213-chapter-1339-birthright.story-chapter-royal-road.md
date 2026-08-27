@@ -1,0 +1,157 @@
+---
+id: 2f4cd5fb-e376-5c43-ad1e-11d71cdac207
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1339 - Birthright"
+slug: 0213-chapter-1339-birthright
+partOf: the-primal-hunter
+position: 213
+ownLength: 3145
+unit: words
+publishedAt: 2026-06-24
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3584799/chapter-1339-birthright"
+royalRoadId: "3584799"
+---
+
+The first few days of the event were truly unfortunate for all those who found themselves positioned next to powerful factions or galaxies with incredibly strong individuals. What’s more, while the system had certainly done some “seeding,” it didn’t entirely work, especially not for the galaxies that had an outsider come, join as an Assistant, and ultimately ended up the Chief Administrator.
+
+These – on the surface – weak Territories would be placed in the middle of other weaklings, only to absolutely dominate their surroundings. However, there were also some cases where they were placed next to a powerful faction. Their seeding was low, after all.
+
+That led to situations where forces believed they could easily sweep their surroundings, only to encounter an insurmountable wall of resistance. A resisting faction that, instead of being consumed, changed the roles around and became the invading force, threatening even a faction that believed they would have an easy start to the second phase.
+
+Jake and his Territory did not encounter a situation like this, though he would have definitely loved to, but some certainly did, creating quite the upset.
+
+“All dead?” the Master Templar asked into the communication device that the one he’d put in charge of logistics had purchased from the Territory Beacon. “What direction? I’ll head over immediately.”
+
+The Master Templar, who had just destroyed a Territory Beacon and helped expand his Territory, motioned for all his fellow Church members to gather around, as it seemed they would have to postpone their conquest.
+
+At the beginning of the second phase, four teams had been formed and sent in different directions to conquer as many Territories as quickly as possible. The first two days had proceeded smoothly, and while some resistance had been met, they had suffered no significant losses and destroyed over a dozen Beacons.
+
+However, now it appeared that a force had emerged capable of mustering resistance. The Master Templar knew that the team that had fallen was by far the weakest and had already suffered a few minor losses, but they were still more than capable of purging the wastrels that dared stand in the way of the Holy Church.
+
+No matter. The Master Templar was not worried in the slightest. He was not a being to be trifled with, after all, and after his recent promotion and being made the Chosen of a high-tier god of the Holy Church, who would dare stand against him?
+
+He had ridden the momentum of getting top 1000 on the Nevermore Leaderboards and only continued to grow his power and potential until reaching this point. That was also why he had been given so much responsibility, especially after successfully conquering his entire galaxy before this odd system event.
+
+“Hm?” the Master Templar asked as he got an update. “They dare head into our Territory? It was a monster faction, right? Is it the United Tribes daring to stand against us this early?”
+
+The foolishness and arrogance of monsters were well known, and this was also why they tended not to fit well within the Church. They were far too individualistic and selfish, following their natures rather than adhering to the teaching of those wiser than themselves.
+
+As for how he would gain information on this enemy, well, it was rather simple. Dying within the simulation meant getting kicked out of it, which in turn meant being returned to the Seat of the Exalted Prima.
+
+All they had to do was make someone leave the simulation and speak to those killed to get information on who had slain them. It almost seemed like a flaw in design, but the Master Templar did not see any reason or need to question anything like that. He merely followed the advice of those the Church had deemed more competent in the field of strategy, fully aware he held his current position due to his personal power.
+
+It didn’t take long before the Master Templar got a response that made him raise an eyebrow.
+
+“That thing? Hmm, I see. I’m on my way back,” he answered, realizing that they would certainly need him now that he knew what they were dealing with.
+
+It didn’t take him long to return, and after fully recovering, he waited for the arrival of the invading force. He disliked the inefficiency of merely sitting around alongside the most powerful combatants of his Territory, but they unfortunately had to. He wasn’t that worried, though.
+
+The Administrators he had brought along were all experts from across his galaxy, all of whom had seen the glory of the Holy Church and joined, only becoming stronger for it. They were a united force with more than fifty expert B-grades on their side; meanwhile, there was only one opponent worth worrying about. An opponent, the Master Templar, believed he could face himself if need be. In fact, he found the prospect of doing so appealing.
+
+Not many could say they had slain a Unique Lifeform, after all. Though it was a pity that it would only be within a simulated world. Unique Lifeforms were beings that should not exist, after all. They were inherently corrupt, unable to accept the grace of the divine and unable to ever set foot within the Holyland. He nearly pitied them, but all had their fate. Like the Risen, the fate of Unique Lifeforms was either to be purged, though in extremely rare cases, they did get the opportunity to truly dedicate themselves to the Church, despite not even being Baptized, trying to make up for their own inadequacies through constant actions that proved their faith.
+
+This Unique Lifeform would not even get that opportunity, though. It had slain the members of the Church and was an enemy. Plus, from what the Master Templar knew, this particular monster was close to a person that many within the Church considered an antagonist.
+
+“The invaders should be visible soon,” a member of the Church in charge of monitoring the odd radar building said. “There are a total of fifteen individuals, all confirmed B-grades, led by the Unique Lifeform.”
+
+“Let us meet them on the field,” the Master Templar said as he stood up and motioned for the other B-grades to gather around. “Fighting at our Territory Beacon would be a needless risk.”
+
+If the battle dragged out or the other side had unknown means capable of breaking through their defenses, it would be an unforgivable sin for the Master Templar to lose his Territory Beacon this early on in the event. Hence, he judged it wiser to face his opponent out in the open. Not that it would matter much, as they had not used Prima Credits on any defenses besides the barrier.
+
+Instead, the Master Templar had decided to invest only in the radar building and a building that he believed would make it possible to contact other Territories belonging to the Holy Church. That, along with a few vehicles to speed up their expansion. Defense had never been on his mind, as he didn’t believe anyone would dare invade the Holy Church, and if they were so foolish, they would simply handle them.
+
+“Be careful,” the chief strategist said before the Master Templar headed out. “It’s still a Unique Lifeform, and they’re all known to have their trump cards. Even if you kill it, losing you or too many of the others in the process would be an unacceptable outcome.”
+
+“Do not worry,” the Master Templar said. “I do not plan on giving the monster any quarter, and will ensure my own safety as well as the safety of all those who’ve put their trust in me.”
+
+“Then I can only eagerly await the Chosen’s victorious return,” the strategist bowed as he placed his hands together in prayer. The Master Templar nodded as he motioned yet again, as they set off into the sky and toward their opponents.
+
+It did not take long for the wastrels to enter his vision. They were all flying together, not even having brought any vehicles to speed up their flight or anything to assist them in what lay ahead. All the approaching figures were monsters, except for two, and it was only now that he realized who they were.
+
+“The Pantheon of Life has gotten bolder these days,” he said with a frown. “Rather than tend to their roots and continue to strengthen what they already have, just like their Primordial, they instead lust for more. Foolish.”
+
+What’s more, their foolishness only grew, as when they got closer, all but one stopped flying and instead retreated back, allowing only their leader to continue. The Master Templar considered whether they were perhaps trying to negotiate, at which point he would have to pay them the respect owed to another Primordial’s faction.
+
+However, as the Unique Lifeform unleashed its aura, it became clear it had not come to negotiate. The Master Templar felt relief at this knowledge, as he had no desire to speak with such a creature if he could avoid it, and instead used Identify, confirming the identity of his opponent. Turned out they were the same level, so his opponent should hopefully be a good whetstone.
+
+[Golden Forest King – lvl 353]
+
+From the unleashed aura, the Master Templar had to admit that his opponent was stronger than expected, especially for someone who, according to their intel, had been nearly destroyed by a False God in C-grade, after which it had to spend a long time recovering. Chances also were that such injuries would have left lasting damage to its Records, so while it was a Unique Lifeform, it was expected to be on the weaker end. This theory was further reinforced by the Unique Lifeform having no notable achievements since its recovery.
+
+“Engage as one, let’s finish this quickly,” the Master Templar said as he drew his sword. As he did so, the world was filled with radiance, the blinding light only intensifying as he swung his blade toward his approaching opponent, seeing no need to give his foe the first move.
+
+At the same time, the ten priests with him started using their magic to further strengthen his body, making his armor gleam golden as his aura spiked even higher. He also unleashed his own boosting skill, empowering the sword slash significantly as the Unique Lifeform responded by raising its ivory claw.
+
+That’s when something odd happened. A faint golden pulse was released, warping everything as the sword slash seemed to curve and bend before breaking apart, scattering wisps of light everywhere. With its other hand, the Unique Lifeform pointed towards their group.
+
+Through the telepathic link with the others, the Master Templar gave the order to defend, and just in time, as three warriors moved in front, right as the attack arrived. The invisible blast of force they knew the creature was capable of unleashing knocked them all back as the priests moved to heal and assist everyone by casting protective magic, primarily with the intent of shielding everyone’s souls.
+
+It was known that this Forest King – formerly known as the Fallen King – possessed four types of magic. Force, Gold, Soul, and a nobility-based one. The Gold and nobility concepts were on the vaguer side, but the Force and Soul ones were easy enough to understand and appeared to be the dominant forms of attack, with the other two concepts serving to empower either Force or Soul attacks.
+
+Intending to pressure his opponent, the Master Templar moved in for the attack as he turned into a beam of holy light and appeared right in front of the Unique Lifeform a moment later.
+
+The Master Templar’s blade, bathed in radiant light, descended toward the Forest King with force capable of sundering continents. But before it could strike, shimmering magical barriers erupted around the Unique Lifeform, layers of gold-tinged energy and twisting force interlocking with one another. The sword met the barrier, sending arcs of light splintering across the battlefield as space warped. The barrier seemed to bend reality under the pressure, yet despite it all, the Forest King’s defense held as it didn’t even move.
+
+Undeterred, the Master Templar pressed forward, channeling even more holy power into his sword. The barrier rippled and began to crack under the assault, even as much of the energy infused into his attacks was deflected, dispersing holy light into the surroundings. The priests in the rear maintained their enchantments, several of them chanting in tandem as they prepared a large spell while under the defense of five warriors. Yet the Forest King stood unyielding behind his defenses, the two wisps of energy within the mask staring back with a look of challenge and amusement.
+
+Unique Lifeforms are indeed Unique Lifeforms, the Master Templar admitted as he took a step back, realizing that his attempt to break the barrier through brute force wouldn’t get him anywhere.
+
+Seeing the opening, the Forest King launched a blast of force that the Master Templar dodged as he raised a hand toward the sky. Holy power channeled through his being as he called upon the might of the divine.
+
+“Judgment.”
+
+A beam of solid holy light descended from above, completely covering the Unique Lifeform. The Master Templar didn’t expect this blow to do much damage, but he did plan on it buying him an opportunity to follow up.
+
+Raising his blade again, he took a deep breath as swirling light embraced the sword. It spun around it at incredible speeds before expanding, transforming his blade into a drill-like lance of intense holy energy.
+
+At the same time, his fellow Templars moved, having waited for their opportunity. They had surrounded the Unique Lifeform, and as one, pointed their swords toward their opponent as they unleashed their own attacks.
+
+The Master Templar also shot forward into the holy beam, full of momentum. He saw the Unique Lifeform within waiting, responding solely to his attack as it moved for the first time to meet his blow.
+
+A golden claw met the holy sword a moment later; their clash scattering the beam as the air shook and the ground more than a kilometer beneath them cracked open from the impact. At the same time, the attacks from the other Templars arrived, but several barriers of golden energy sprang up to block them, as the Unique Lifeform seemed only focused on the Master Templar.
+
+Pushing forward, the Master Templar grimaced as he unleashed another burst of power, gaining purchase as the golden claw cracked, and with another explosion, the Unique Lifeform was blasted backward, his ivory claw and even some of his arm now full of fractures glowing with holy light.
+
+The Master Templar breathed heavily, but still pressed forward. Unfortunately, he was met with a powerful blast that pushed him back, and the Unique Lifeform also retreated slightly as it looked at its injuries.
+
+“You surpass my expectations, even though I had expected the Holy Church to be an annoying opponent,” the Forest King spoke as it stopped retreating. “Though your means seem rather limited. Also, the noise surrounding us is starting to be a bother, so allow me to show you something.”
+
+Raising its still uninjured arm, the Unique Lifeform continued.
+
+“Being a Unique Lifeform means that your Path is set, that your magic is defined from birth. Yet I didn’t feel like I truly realized myself before now. That I hadn’t fully grown into my potential, more than likely due to certain limiting factors I’ve now freed myself from. Though in retrospect, I believe these limitations only ended up making me stronger.”
+
+Letting the Unique Lifeform talk perhaps seemed unwise, but the Master Templar didn’t feel the movements of magic, and behind him, his priests were chanting, and the Templars were also preparing themselves for a joint attack, seeing that many individual attacks had proven ineffective. Time was on their side, so he was fine with having the monster monologue.
+
+However, he came to realize that perhaps this had been a mistake, as an intense burst of energy suddenly emanated from the Unique Lifeform. He was certain it had already used some boosting skill before, but this somehow felt like a second one.
+
+“Force. Gold. Soul. King. Those are what made up my being. Force is power, Gold is stability of form, Soul is what bridges the gaps and binds them together... but my identity as King always felt lacking. Unrecognized.”
+
+Above in the sky, space shivered and swirled as something started to take form. A faint outline appeared, filling the Master Templar’s entire field of vision, stretching for hundreds of kilometers in every direction.
+
+“Yet the answer was simple. There for me to merely grasp when I regained my true self and actualized what I am upon my evolution.”
+
+The golden claw on the Fallen King started glowing with more intense light than ever, and at the same time, something manifested above. The Master Templar’s eyes opened wide as he realized he was looking at a massive claw.
+
+“To be a King is not a burden. Not a privilege. It’s my birthright. To stand above everything else is merely part of what I am, and with that, I rightfully claim...”
+
+At once, the entire claw fully solidified as all the mana in their surrounds was dragged in as if it were a black hole, empowering it with an incredible amount of energy as it descended with the King’s final word.
+
+“Authority.”
+
+Finally, the Master Templar was shaken out of his stupor as he yelled loudly.
+
+“Full focus on defense!”
+
+The sheer pressure as the golden claw descended stopped his allies from moving. It wasn’t merely the aura of a powerful attack, either, but an actual physical pressure trying to bring them down as the Unique Lifeform had taken control of all the mana in their surroundings.
+
+We were wrong.
+
+Looking at the claw descending, the Master Templar finally realized that he had been the foolish one.
+
+It is not weakened, but far more dangerous than our intel indicates.
+
+Lifting his blade, he shot upwards toward the massive golden claw as he yelled, infusing his sword with yet another burst of power. A massive blast wave of crescent holy light clashed with the massive claw as the world was consumed by the powers of holy light and golden force.
+
+That day, the Holy Church lost thirty-two of its B-grades, with the rest forced to retreat under the leadership of the Master Templar, who also had to abandon his Territory Beacon, which was promptly broken by the Unique Lifeform.
+
+It was the first major loss suffered by one of the biggest factions in the multiverse, but it would be far from the last, as there were many powerful individuals found in otherwise low-seeded Territories... a fair number of them courtesy of the utterly anomalous planet known as Earth.

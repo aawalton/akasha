@@ -1,0 +1,199 @@
+---
+id: 9df86a0f-00ab-5931-9f6c-c0c4e7c37ba7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 357 : Praxis"
+slug: 0058-chapter-357-praxis
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 58
+ownLength: 2487
+unit: words
+publishedAt: 2026-03-06
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3121626/chapter-357-praxis"
+royalRoadId: "3121626"
+---
+
+Before I plunged into something I might regret, I took a step back. I had newfound information thanks to [Basic Elemental Magic], and I wanted to see what it could be used for.
+
+I spent what must have been a day poking and prodding these "symbols" until I partially uncovered their secrets. It got so bad that even Vee came to check up on me, growing worried that I was truly becoming a hermit. I explained the situation, which was enough to alleviate her concerns.
+
+With that out of the way, I was allowed to recklessly continue my studies, and eventually found out what they were—Mana converters! Yes, this impossibly complex symbol governed an entire branch of magic, and through it, birthed every spell of its kind.
+
+In theory, this meant that if you knew the appropriate symbols, you could cast the spells through sheer force alone. But there was a catch: a natural component was missing from this equation that I eventually concluded must be your affinity.
+
+Without the appropriate affinity, you lacked the proper resource to fuel these symbols and create magic. I theorized that you could likely force it, even without the affinity, but the cost would either be astronomical or the results would be exceptionally subpar.
+
+I took my findings and actually ended up discussing them with Leon, of all people. While he seemed to loathe magic for being "unscientific," he apparently couldn't resist contemplating the theories and discoveries I had made.
+
+Leon threw around a lot of terms that must have come from his past world or life to explain the principles behind this phenomenon, and after Vee provided some translations, we boiled it down to a reasonable explanation.
+
+The governing magic symbol was a recipe to refine raw Mana into a spell of its type, which was why it was in the center of every spell and fueled the rest of your magical construct. However, the conversion efficiency was based on your affinity, which was where the whole "purity of Mana" thing came from that I'd heard before.
+
+Leon had likened it to something called "petrol" and explained that my absurd affinities must have been like "jet fuel". Then, these governing symbols were the engines, and the spell construct was the vehicle. I hadn't the foggiest idea what he was talking about, but Vee was nodding and humming along in agreement, so it must have been an insightful analogy.
+
+Regrettably, I had none of these governing symbols for any branches of magic that I lacked an affinity for. I attempted to coax Vee into casting a simple fire spell I made for her, but she gave up before even reaching a ten-percent completion of the engine. Leon outright refused, and even though he was interested in expanding his Mana, he wasn't interested in the magical arts.
+
+My only hope is that either I get access to one of these governing symbols through a reward or, by expanding my understanding of my current ones, I learn to create them myself.
+
+I still had Mother's quest to "Continue exploring all avenues of magic," so there was a real possibility I'd eventually get some form of hint or reward.
+
+Okay, let's do it then.
+
+I'd spent enough time postulating, and now I wanted action. Worst case, I spent some time grinding out spell levels again, which I could just give to some [Sub-Cores] while I embarked on a journey in [Dimensional Magic].
+
+I deconstructed [Intermediate Elemental Magic] and, after losing a significant amount of instilled knowledge, received a bucketload of new information in return. The images I had for my basic four elements were clearer than ever, and the blank converging spots for each intermediate element were filled in.
+
+I felt like I usually wasn't the type of slime to gaze at pretty art, but this tapestry of the elements weaving together looked glorious. Not only that, but I instinctively understood that this was only a piece of an even grander puzzle.
+
+So this… is the magic system.
+
+Sure enough, with what I now had, I could recreate the spells I had previously. My [Sub-Cores] had the completed blueprints saved, but I felt like now that I had such clear and detailed impressions of the governing symbols, I didn't even need them.
+
+I cast a few spells and confirmed my suspicions, finding little to no difficulty casting them. The best part was that I hadn't only received the symbols; thanks to the fusion aspect of [Intermediate Elemental Magic] and my previous information from [Basic Elemental Magic], I could see how the basic elements fed into the intermediate, or how the intermediate broke down into the basics. It was marvelous.
+
+But what about [Chaos Elements]?
+
+I'd made significant progress in that skill due to abusing it to advance my intermediate spells. Even so, I only hesitated for a moment before pulling up [Skill Deconstruct]
+
+<Do you wish to deconstruct the skill [Chaos Elements LV 6]?
+
+Warning: this cannot be undone.>
+
+Do it!
+
+<Skill [Chaos Elements LV 6] has been lost.>
+
+The skill was gone in an instant, but then came the information. If a normal intermediate spell was combining two lesser engines into a more powerful one, then [Chaos Elements] was combining any number of engines into a temporary monstrosity. You lost efficiency in the conversion, but the output could not be underestimated.
+
+I initially thought [Chaos Elements] would be a framework like [Multicasting] that could handle conflicting elements, but I hadn't expected this.
+
+I was addicted to this feeling. The more I discovered, the more I wanted. Before I'd even realized it, I'd pulled up [Skill Deconstruct] again.
+
+[Elemental Adaptation] was the next to go; it was a no-level skill, so I didn't fear its loss. Unfortunately, this one didn't hold secrets for the grand tapestry and instead came with new constructs to handle buffs or enhancements. It was useful, but not what I wanted, and I pulled up the deconstruction selector again.
+
+[Elemental Harmony] got thrown in, and to my relief, there was a fraction of information relating to the tapestry since this one dealt with Mana and affinities based on the environment. Effectively, this gave insight into adapting your surroundings to fuel your "engine".
+
+More!
+
+I glanced at my list and shuddered. All I had left was [Elemental Shift LV 8], and this caused me to waver. This was not an easy skill to level up, and it had taken me substantial time and effort. Not only that, it was a key part of my whole [Sub-Core] plan and aligned with my personas, too.
+
+But it directly involves affinities! Even more so than [Elemental Harmony]!
+
+My gut was unfortunately not speaking on this decision. I felt like I had a fifty-fifty shot at this being amazing or dreadful. I genuinely froze, not knowing what to do.
+
+Fine, let's gamble then!
+
+I pulled out a gold coin and flipped it.
+
+Heads I deconstruct, tails I don't.
+
+Whatever the outcome, I'd listen to the coin. I watched as it spun in the air and eventually landed, dancing along the surface till it came to rest.
+
+Well, that's that.
+
+<Skill [Elemental Shift LV 8] has been lost.>
+
+The world went dark.
+
+…
+
+…
+
+…
+
+Did someone hit my core with a sledgehammer?
+
+I woke up from what felt like a coma, my mind felt fragile, and I was accompanied by the migraine of the century. My main body had become a puddle, but by the looks of things, my [Sub-Cores] had kept the show going despite my absence.
+
+Well, that's good at least… No need to worry, Vee. Now what was I doing…?
+
+I slowly recollected myself mentally and eventually pried myself off the ground, forming a vague humanoid shape. I recalled what I had done and the consequences of my actions.
+
+Information overload, I suppose? Well, let's see what I've got.
+
+Another full day went by just as I attempted to process it. Sylbera informed me that Vee was looking for me, but she told her not to disturb me. I silently thanked her and continued to digest this.
+
+It was a lot, too much in fact. But the more I explored, the happier I felt.
+
+This… Can't I create fake affinities with this?
+
+Yes, [Elemental Shift] wasn't the core skill for the Elementalist class for no reason; it made noteworthy contributions to the grand magical tapestry. Not wanting to leave my isolation, I sent some of the information to Sylvester, who discussed it with Leon and sent back their findings.
+
+So I can refine better fuel now?
+
+This was what it seemed to equate to from their gatherings. The principle behind [Elemental Shift] was to enhance an affinity beyond its normal means, and now I had the building blocks of that process and could apply it to my elemental engines.
+
+For me, it would enhance things as per usual, but for someone without the appropriate affinity, wouldn't this be like giving it to them?
+
+Leon had told Sylvester that "zero multiplied by infinity is still zero," meaning that he disagreed with my approach. But I felt like nobody truly had zero affinity. If my theory were correct, the biggest issue would be requiring the user to construct not only the governing symbol but also the affinity-enhancing formula.
+
+Who could realistically do that? I don't think a human, or even an elf, would be able to.
+
+I sighed and shook my head. It wasn't like I was planning on gifting magic to the world or anything, but it was still a terrifying thought. To overcome the limitations of your birth, you needed to go this far!
+
+Well, at least this means I might be able to create my own affinities one day? Is the time slime dream real!?
+
+I chuckled to myself and began a simple experiment, starting from my very first element and magic—water!
+
+To my surprise, with a little bit of [Sub-Core] help, it didn't take me too long to have a working model that combined all of these aspects together. The best part was that now that I had the working engine, I could just replicate it for all future spells.
+
+No, I should call it the magic core instead of this "engine" thing. Since who else could do this but a slime and its cores? Hehe…
+
+I plugged the magic core into my trusty [Waterjet] and watched it blast a hole straight through the ground. This was in no way inferior to any of my prior castings, despite lacking any of the aforementioned skills. In fact, I could've sworn it was a bit stronger than previously.
+
+Actually… If I have these, wouldn't I not lose as much of my elemental bonuses when swapping to a Riftmancer?
+
+I'd definitely lose something; the class system wasn't even in my periphery, and I was still probably only barely beneath the surface of skills and magic right now. Still, if this unexpected boost was enough to compensate for the loss from the class change, even partially, then I'd be a happy slime.
+
+Okay, let's make a magic core for each element, and then I can finally swap over. But first, let's go show my face to the others, just in case they think I've absconded.
+
+And that was just what I did. I met up with the others and spent some time with them. Surprisingly, during dinner, Sylbera complained to me that she needed me to finish the earth and fire magic cores as soon as possible, as they were hindering her work.
+
+Vee was so upset by this remark that she jokingly ordered me to get back to work pronto. I could only chuckle in response as it was precisely what I wanted to do.
+
+I wonder if she said that just to get Vee to let me go?
+
+I brushed that thought aside and spent every moment of my free time creating a magic core for each element. When I had them for the four basics, I moved on to the intermediates and found it was actually easier, thanks to having working versions of the basic elements.
+
+When the intermediate elemental magic cores were complete, I thought I was done, but I felt like something was still missing. I hummed and hawed for a little while until I realized it was the [Chaos Elements].
+
+Perhaps because I already had working versions of every basic and intermediate element, I found the progress was swifter than I expected. The biggest difference, however, was the results: I found that my chaos elements were far more potent than before.
+
+My first test was a simple frostfire spell, but I felt like its output was doubled at the very least. I created a few more and found similar results, which baffled me. I even asked Vee and Leon about it, but they had no idea.
+
+Eventually, while I was completing the last few elements, I had a sudden inspiration.
+
+Is it because the chaos elements didn't have official affinities? But now I've kind of made it official?
+
+I believed I was right, but before I could do anything else, I received a sudden and unexpected notification that pinged through my mind.
+
+<Quest updated. Significant progress has been made!>
+
+<[Elemental Praxis LV 6] acquired.>
+
+I made progress? Is it because I made my own affinity? Or because I solved a lot of the big, magical-system tapestry?
+
+I put my questions aside and looked at the description, hoping it would provide the insight I craved.
+
+<[Elemental Praxis LV 6] This skill reflects both your understanding and your progress in the elemental magic system. Provides system assistance with certain activities and pursuits. This skill cannot be revealed. This skill cannot be shared. This skill cannot be discovered.>
+
+Well, talk about vague…
+
+While I was fuming at the strange skill I had been rewarded, I had a sneaky thought come to mind.
+
+Can't I deconstruct this?
+
+I activated the skill and, right as I was browsing my deconstruction list, I received an unexpected notification ping.
+
+<Skill [Elemental Praxis LV 6] has been updated.>
+
+Huh?
+
+I pulled up the description to investigate and soon found the change. Right at the bottom, after "This skill cannot be discovered," was a brand-new line: "This skill cannot be deconstructed."
+
+Damn, I should've been faster or sneakier about it.
+
+There was no use crying over spilt milk, so I could only shrug it off. I'd made significant progress, according to the quest description anyway, and I felt like I could finally close this chapter of my journey.
+
+Well, I'll come back to the elements eventually. I still need to get the rest of the default spells at the very least. I wonder if I'll get them when [Elemental Praxis] levels up?
+
+But that was a question that would eventually solve itself. I'd been delaying it for long enough, and now I could finally change my class.

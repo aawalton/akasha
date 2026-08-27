@@ -1,0 +1,401 @@
+---
+id: 400af5e0-96e3-59c1-af2c-95cda6bf7d62
+page-type-slug: story-chapter-royal-road
+title: "Chapter 76: Of Skewers, Guilds, and Lovely Young Ladies"
+slug: 0077-chapter-76-of-skewers-guilds-and-lovely-young
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 77
+ownLength: 2032
+unit: words
+publishedAt: 2025-12-02
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2813087/chapter-76-of-skewers-guilds-and-lovely-young"
+royalRoadId: "2813087"
+---
+
+PoV Luna
+
+The door jingled shut behind them, Trianna apologizing for the trouble.
+
+But the shopkeeper’s voice followed with cheerful finality.
+
+“It’s no bother at all! Helping dress up lovely young ladies is a joyful thing.”
+
+Luna stopped.
+
+Mid-step, mid-wag, ears pitched forward with all the focus her sound sniffers allowed. Her eyes went wide. Then wider.
+
+“Lovely… young… lady…” she whispered, the words catching in her throat like rare prey.
+
+Sparkles danced in her gaze, the words echoing around in her head.
+
+The rest of the group kept walking – until they noticed Luna still frozen near the shopfront, staring skyward with stars in her eyes.
+
+Syl turned.
+
+Luna spun slowly, cupping her cheeks, tail flicking excitedly.
+
+“Lady. Lovely lady. Luna. Luna is lovely lady!”
+
+The shopkeeper blinked, then chuckled at the reaction she had apparently inspired.
+
+“Glad she likes it.”
+
+“Likes it?” Syl sighed. “She’ll probably start introducing herself with it.”
+
+“Luna, lovely Apex lady of the Moon,” Luna muttered to herself with awe, then nodded firmly. “Yip-yep! Luna accepts this role!”
+
+And with that declaration of nobility secured, the group finally turned down the stone-laid road toward the Adventurers’ Guild.
+
+Almost directly.
+
+Syl’s hand snaked down and clasped Luna’s fingers.
+
+Luna looked up at her Second. Her friend. Her pack.
+
+Her smell, her presence.
+
+It made Luna calm. Told her things would be alright. That she wasn’t alone.
+
+She squeezed back, and got rewarded by a beautiful smile.
+
+Luna’s eyes sparkled and she declared:
+
+“Lovely Young Lady Luna and Pretty Second!”
+
+Syl chuckled, gave her fingers a light squeeze, and then they were off.
+
+People wove past in bunches, arms full of produce, tools, sacks, or tiny screaming human pups – not as cute as her little sister! Carts rattled, goats bleated, and the air pulsed with competing smells – fresh bread, oil, sweat, meat, perfume, and something bitter and strange.
+
+Luna sniffed rapidly.
+
+“So many smells! Luna’s nose full! Nose too full!”
+
+Syl squeezed her hand lightly again, grounding Luna.
+
+“Breathe slowly, Luna. Don’t chase after every scent.”
+
+But then–
+
+Meat.
+
+Charred, spiced, sizzling meat.
+
+“Second!” Luna’s head whipped left so fast it nearly took Syl’s arm with it. “Smells spicy! There! Trade?”
+
+Syl followed her gaze. One of the food stalls had set up a grill, skewers glistening over glowing coals.
+
+Luna’s eyes glistened too.
+
+Syl sighed, already fishing into her pouch.
+
+“How much?” she asked the vendor.
+
+“Two copper each.”
+
+She paid without flinching.
+
+Luna accepted the skewer with reverence, immediately digging in.
+
+“Mmm! Spice-stick good!”
+
+Trianna gave her a sideways glance.
+
+“Do you even know what it is?”
+
+“Delicious,” Luna answered.
+
+And it was.
+
+Each bite sent a wave of warmth through her, smoky and peppery and slightly sweet.
+
+She crunched, chewed, and licked the skewer clean, humming happily.
+
+“Bestest Second ever. Praise be to Second!”
+
+Syl shook her head, but her smile betrayed her.
+
+With one hand full of skewer and the other still gripping Syl’s, Luna marched with newfound purpose.
+
+Crowds no longer scared her.
+
+Because Second held her hand.
+
+And because she had spicy food!
+
+The two greatest protections in the world.
+
+Whenever the noise buzzed too loud or someone bumped into her too hard, Luna leaned into Syl’s side. The tea-and-magic scent of her Second filled her nose, soothing every ruffled fur.
+
+Trianna watched them from behind.
+
+“I never thought the apocalypse could look this wholesome.”
+
+Ray adjusted his collar.
+
+“Pretty sure this is the calm before the chaos.”
+
+“Hrm.”
+
+Luna, unaware of their muttering, began to hum.
+
+A new one Luna thought up just now! An awoo to humans making sense and her belly being full. A strange, wobbling hum full of vowels and victory!
+
+“Hmm-hmm-hmm, skewer-bite, no-humies-fight, trade for all the goodies! Hmm-hmm-hmm, so many sights, Luna is confused!”
+
+The rhythm spread with a cheerful infection.
+
+Trianna caught herself tapping a finger against her thigh. Ray started whistling along without meaning to.
+
+Even Veric cracked a slight smile.
+
+And by the time they rounded the corner, the Adventurers’ Guild rising ahead, they weren’t a squad of weary travelers anymore.
+
+They were a pack following the battle-hymn of one proud, humming Wildling!
+
+The door creaked open, and Luna padded in alongside Syl, chewing the last juicy bite of her skewer with deep satisfaction.
+
+She didn’t even notice the noise at first – too busy licking the stick.
+
+But then the wave hit.
+
+Voices. Metal. Footsteps. The clatter of mugs and dice and boots and weapons. A roar of sound, bouncing off the wood-paneled walls, woven through with strange scents – sweat, paper, wax, wood polish, something bitter and foamy, and a whiff of cooked onion from somewhere deeper inside.
+
+Luna blinked slowly.
+
+Then sniffed.
+
+Then sniffed harder.
+
+So many things!
+
+And so many of them bad-smelly!
+
+Reminded Luna of Ray’s boots!
+
+The Adventurers’ Guild of Altracia had the air of a den – big and noisy, full of clashing energies and half-growled challenges. A home for sharp-toothed wanderers. The floor was clean, but claw-scratched. The people loud, but worn at the edges.
+
+Luna liked it already!
+
+Before she could even wander three steps in and test the acoustics with a proper awooo, a clear voice rang from behind a long wooden counter.
+
+“Syliana! Took you long enough!”
+
+Luna turned with a mouthful of skewer stick still wedged between her teeth.
+
+The speaker was a tall woman with a crisp blue vest, warm brown hair pulled into a practical tail, and eyes that glimmered like sunlight through glass. Her smile was quick and bright, but those eyes carried something else. Sharp. Focused.
+
+Predator eyes.
+
+Syl stepped forward with her usual quiet poise.
+
+“Hello, Julia. We’ve been… occupied.”
+
+Her tone made it sound like ‘occupied’ was a battlefield.
+
+Julia’s gaze dropped – and locked onto Luna.
+
+“Ohh? And who’s this young lady? Wait–”
+
+The shimmer behind her pupils brightened. Magic. Luna felt it immediately. The air thinned around her, tingled across her skin.
+
+Her tail puffed.
+
+Danger!
+
+Ears up. Shoulders tense. Instinct surged.
+
+One hand clenched tighter around the skewer stick. It was no claw, but it would do!
+
+Syl caught the twitch. Before Luna could snarl or pounce or throw the mighty meat-stick of warning, a hand settled gently on her head, fingers moving through her hair in steady reassurance.
+
+“Easy, Luna,” Syl said calmly. “Julia means no harm.”
+
+Luna blinked.
+
+Sniffed.
+
+The weird smell of magic still lingered, but now she caught the under-layer and found no hunter-scent.
+
+“…Okay,” she muttered, lowering the stick.
+
+Julia stared, frozen between curiosity and concern.
+
+“Julia means no harm?”
+
+Her voice cracked with surprise at what her magic revealed, but her smile never faltered.
+
+Syl kept petting Luna’s hair, as if smoothing a ruffled pup.
+
+“Yes. I would recommend calling for the Guildmaster now.”
+
+That got Julia’s attention.
+
+She straightened.
+
+“What–? Ah. Yes. Of course!” She spun on her heel and disappeared into the back hallway.
+
+Luna tilted her head.
+
+“Second used serious voice.”
+
+Trianna leaned in, muttering under her breath.
+
+“That was the very serious voice.”
+
+Ray adjusted his gloves.
+
+“Guildmaster-level serious.”
+
+“Luna-level serious,” Luna corrected, proudly.
+
+Syl gave her a look that was half fond and half resigned.
+
+Her nose twitched as the air shifted again.
+
+The room’s noise began to return to Luna’s ears – snippets of conversation, laughter, clinks of coin, the occasional yell. A couple adventurers turned and waved towards the group. Trianna waved back.
+
+But now it felt a little less chaotic.
+
+The Guild had layers!
+
+Luna liked layers.
+
+They promised many flavors!
+
+And fun!
+
+She wandered a little, guided gently by Syl’s grip on her hand. Her gaze bounced between the wall-sized mission boards, the trophy-lined back walls, and the other adventurers watching their group with open curiosity.
+
+***
+
+The double doors slammed open like a beast kicked them, and the noise of the guild fell silent in a heartbeat.
+
+“Well, I’ll be damned! A Wildling in the flesh!”
+
+The voice boomed across the hall, echoing off rafters and bouncing off every mug and mouth mid-sip. Heads turned. Dice froze. A single coin spun on a table and clattered to a stop.
+
+And every eye locked onto the Guildmaster. And then, as the understanding of what the loudmouth had just said hit – to Luna.
+
+The sudden wave of attention felt like an attack. Her ears flattened. Her fur fluffed out into full danger mode. Tail bristled, hackles raised. She crouched slightly, ready to pounce, growl, or bolt, depending on what came next.
+
+Behind her, Trianna inhaled sharply.
+
+“Uh oh.”
+
+The man who had spoken strode into view like he owned the building – and probably did. Thick arms, thick neck, voice like rolling thunder, and a coat too long and too dramatic to be anything but Guildmaster fashion.
+
+His grin stretched too wide.
+
+Luna didn’t like it.
+
+Sepio moved instantly, stepping in front of Luna without a word, shield sliding into place. Veric mirrored him on the opposite side, smooth as smoke, hands ready but relaxed. Anyone watching closely might have noticed how their triangle placed Luna right at the center – and everyone else on the outside.
+
+Syliana, however, did not move.
+
+She didn’t need to.
+
+Her voice cracked through the air like the snap of frozen silk.
+
+“Guildmaster,” she said, not loud, but with such weight that people stepped back instinctively. “You have overstepped.”
+
+The man blinked, his bravado deflating.
+
+“Oh, ah, my apologies?”
+
+“Not. Accepted.”
+
+Luna’s ears perked.
+
+Her Second was awoomazing!
+
+“Right. Damn it. Me and my big mouth,” the Guildmaster muttered, scratching the back of his neck. “Didn’t mean it like that.”
+
+The big man didn’t smell like danger now.
+
+The tension crackled for a few more breaths, then broke as Julia reappeared at Syl’s side, apologizing and whispering with hurried gestures.
+
+In short order, Syl and Trianna were guided toward a side office, the Guildmaster trailing behind like a dog freshly scolded by the alpha.
+
+That left Luna with the rest of the pack – Ray, Sepio, and Veric.
+
+Technically, they were shielding her.
+
+Functionally, they were shielding everyone else.
+
+The guild hall resumed its flow, but something in the air had shifted. Curiosity was stronger than caution now. The murmurs began.
+
+“That’s her?”
+
+“No way. To think such a little kid could be one. The myths make them all sound… larger.”
+
+Luna tilted her head, tail still twitching. She could hear them. Hear their heartbeats speeding up, feel their stares, smell their unease mixed with excitement.
+
+Pack was calm. Syl was nearby. That meant it was fine.
+
+Probably?
+
+Then the crowd parted, and someone stepped forward with powerful presence.
+
+Tall. Scarred. One ear half-missing. He wore no armor, but his aura was weighty.
+
+Ray groaned under his breath.
+
+“Instructor Kent. Oh no.”
+
+The man grinned.
+
+“Boys,” he greeted casually, “that Wildling claim true?”
+
+Veric’s reply came cool and measured.
+
+“Indeed. But–”
+
+“Glorious.” Kent clapped his hands once. “Never thought I would get to spar with one again.” He turned toward Luna.
+
+“You there, girlie. Up for a little play-fight?”
+
+Luna blinked.
+
+“Spar?”
+
+Ray leaned in.
+
+“Friendly fight. No claws, no biting. No killing.”
+
+“Oh!” Luna’s ears perked. “Like pup playfight!”
+
+Kent laughed. Luna’s eyes sparkled and got ready, empty skewer forgotten. Exercise was good after a meal!
+
+“That’s the spirit.”
+
+Ray looked skyward.
+
+“Well. We tried. Don’t die on us, old man.”
+
+“Huh? What do you–”
+
+Thud.
+
+Kent’s body hit the floorboards with a heavy crash that shook a nearby mug off a table. He landed flat on his back, blinking at the ceiling, mouth half-open in confusion. The guild fell silent again.
+
+Luna stood two paces away, looking pleased, tail wagging at full speed.
+
+“Good play-fight!” she declared, bouncing lightly on her heels.
+
+Ray whistled low.
+
+“She just swept your legs from under you. Didn’t know she could do that so fast.”
+
+Half the hall looked on, stupefied.
+
+The other half exploded into laughter, cheers, and groans.
+
+“That’s what you get for underestimating a pup!” somebody shouted from among the group.
+
+Kent laughed from the floor, one hand half-raised.
+
+“...Well, color me impressed.”
+
+Julia leaned over the counter, head in her hands.
+
+“I’m going to need a raise.”

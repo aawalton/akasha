@@ -1,0 +1,309 @@
+---
+id: 9e5736ef-d2b1-5765-b8aa-f1a314030322
+page-type-slug: story-chapter-royal-road
+title: "282 Beasts of Burden"
+slug: 0241-282-beasts-of-burden
+partOf: the-new-world
+position: 241
+ownLength: 5891
+unit: words
+ownProgress: 5891
+publishedAt: 2020-12-03
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/594265/282-beasts-of-burden"
+royalRoadId: "594265"
+markedReadAt: "2026-06-29T21:29:21.530Z"
+---
+
+-Althea-
+
+Past the guarded doors, we entered a hallway lined with orichalcum on all sides. The smell leaking in from another room was of acid and burning hair, the stench sharp and unpleasant. The wailing, however, made my stomach sink like an anvil in the ocean. The howling sound echoed into this place, resonating from all sides. Dozens of voices joined into a singular, absolute lamentation, one that made me both sad and afraid.
+
+I ignored those parts of me screaming to run away, and I followed the remnant guards. They carried the unconscious individual through the hallway and into a room with a sliding doorway. As the metal shutters opened, the agonizing cries intensified in volume. That's where it came from.
+
+Before the doorway shut, I skulked my way through even as the room repulsed me. Staring around, my instincts were right all along; this was a hellhole. Elysium fashioned together a massive pit at the center of this building. Dim lights hid most of the carnage in that abyss, but what I could see wore at my nerves.
+
+Eyes, mouths, horns, bodies, blood, silvers, and nanomachine slop pooled together in a wasteland. I turned around, vomiting out my guts. I opened my dimensional storage, unable to contain myself. As I unloaded my lunch, I stored my puke so it wouldn't be found. It cost blood and bone. Stinging like fire, it added to my discomfort. I wished I had a little dimension of my own like Daniel, but we all had our unique abilities. Mine oriented around killing instead of other stuff, and that kind of sucked.
+
+Either way, I wiped my mouth off and regenerated. As I did, I gazed upon the horror. In the distance, two espens walked out of a shutter leading to the silvers reserve. Using Hybrids to wrangle silvers from the wildlife exhibit, they pulled one in as it writhed in their grip.
+
+It was a merject, and it peered around with its single eye. It gawked at the pool, and the merject howled out in anguish. One espen walked in front of the silver while the other walked behind. The Hybrids held its arms and legs down. The espen in front pulled out a stake of metal. The other had the silver's head, stopping it from moving.
+
+With a steady series of strikes, the front espen hammered a spine just under the silver's eyelid. Once deep in the brain of the silver, the espen twisted the stake a few times. It repeated this process one more time, and the silver grew more docile afterward. Once subdued, they tossed the silver into the muck, the monster's instincts coming to life. It wrangled in the mud, struggling to escape. It was too late. The silver was pulled in.
+
+That slop was alive, and it grasped at the tormented creature like thick, living mud. The ooze drenched into the eyes, ears, and entire body of the silver. It flooded under its skin before pulling the merject under, making the monster swollen and bulbous.
+
+One of the espens murmured, "I hate this place."
+
+The other chimed in right after, "Tell me about it."
+
+Yeah, I agreed with them both. Further in the pit, several mouths of silvers exposed themselves to the surface. In those places, the wailing began, and it didn't stop until the silver's mind was shattered beyond all repair. Their mouths grafted shut after a while, the need to eat taken from them. Further still in the sludge pit, the other signs of Hybridization showed themselves.
+
+Nanomachine slop built up into pustules across their bodies, the orange fluid keeping them alive as they transformed. The silvers' bodies molded with the soup, giving them strength at the cost of their minds. On the other side of this abyss, I followed the two remnant guards as they walked up past a line of newly made Hybrids.
+
+They paced up to a Hybrid matching the picture showcased above the person's chosen vial. One of the remnants reached out a hand, and they channeled mana into the unconscious person and Hybrid. After a while, the Hybrid sprung to life from its stasis, no longer ensnared with mind magic. It soaked in the slop over its skin, absorbing it with ease before the remnants checked the Hybrid's mind.
+
+A quick scan later, and they found no problems. Sending them off, I followed to find a ward full of beds and Hybrids. People awoke every now and again, looking around. Their Hybrid bowed to them as they regained consciousness. A remnant doctor walked around, explaining the situation, calming patients down, and giving them tips for managing their Hybrid.
+
+I left them, going back into the pit room. Once again, the unearthly wailing grated at my nerves, but I got through it. We needed this info, and discomfort wasn't an excuse here. Taking footage and photos as I went, I documented details I noticed with a note-taking app on my status. I left no stone unturned, this being the first time someone saw any massive Hybridization pits.
+
+I learned a few things as I documented more about the Hybrids. The most important part was the vials. They took some type of serum from the silver's heads before throwing them in the pit. I overlooked the needling the first time while watching them. The lobotomy overwhelmed everything else they did.
+
+I also uncovered how they adjusted their Hybrids. Along the back of the room, they took different eldritch and flooded them in the nanomachine fluids. In these tubes, other chemicals soaked in too, and they melted the eldritch. Once again, the nanomachines kept them alive.
+
+These cocktails of eldritch and chemicals were called DNA elixirs. I figured that out by sneaking into a back room where a remnant scientist tinkered with the formula. Once finished, the eldritch mush was drained into the slop, fusing with the enormous super organism. As that scientist toiled about, a different team of espens brought them different kinds of forest roaming eldritch.
+
+These were relatively benign varieties of monsters designed for moving around nearby terrains. Only those kinds of eldritch were brought in here. Now I wasn't a genius by any stretch, but even I could tell they did all this for a reason. My educated guess was that they wanted a certain kind of Hybrid to come out of this process. Given we were in the middle of a forest, they made Hybrids that could run and maneuver around trees.
+
+This kept them useful and not too volatile. Along those same lines, they threw in varieties of silvers able to handle trees and thick underbrush. For the most part, they used merjects like the first. Those things could crawl up trees on all fours and in an eerie, unnatural sort of way at that. Every now and again, they brought different kinds of silvers to mix things up too. I didn't know why, but I noted that all the same.
+
+After getting a fair bit of info, a message popped up in my status. The three dungeoneers got accepted and just reached their first dungeon. I waited a bit before sneaking out of the facility. I got out of that hellhole and took my first breath of fresh air since getting out of there. Since I popped back up, I kept myself in a hidden alleyway. After a few deep gulps of air, I held my breath once more while collecting myself.
+
+That was something beyond my wildest nightmares. I never felt pity for eldritch or silvers, but somehow, someway, the Adair family brought it out of me. Seeing all that left me sick to my stomach, and I waited a few minutes for the trembling in my hands to stop. As I waited, my mind wandered onto what I'd seen.
+
+It reminded me of what Yawm wanted to do. He always talked about some world where eldritch and sentient were considered one and the same. The idea in isolation sounded like a convenient solution to an inconvenient problem. In practice, it was something more like that pit of slop.
+
+Gruesome.
+
+I let out a shiver as I remembered the labs I was raised in. I grinned to myself as a weird little thought came into my head. Yawm's labs sure beat the one I just saw. In reality, my situation could've been so much worse. And here I thought I had it bad. Compared to those poor silvers and eldritch, I might as well have been raised in one of the royal academies with Caprika.
+
+I laughed a bit at my own joke. After using humor to cope with my nerves, I stood upright and looked at my messages. Once I got a grip on the coordinates, I ran towards their dungeon location. A few minutes later, I found myself staring down at a mossy tunnel. Aesthetic as it was, I didn't have time to inspect the vines overhanging the cave.
+
+I unzipped two pieces of my jumpsuit running along my back. Wings spawned out of those two openings, and I flew down into the dark. This place reminded me of BloodHollow, the site where I overcame my eldritch half. I still heard those voices, and sometimes they scared me. I wasn't about to let a little fear get to me, though, so I pressed on.
+
+I shifted my eyes, making my irises larger. The retinas along the back of my eyes shifted, and more light leaked into them. A dark vision of sorts came over me, and monsters popped up in the distance. I unzipped another part of my jumpsuit and pulled up my sleeve. Putting my arm along my back, I unhinged a partially made harpoon cannon.
+
+Pulling it in front of me, my arm's bone and skin shifted into place. It filled the missing pieces of the cannon before I took aim. Using thin spears of bone, I impaled each creature and killed them as I went along. Isa and Lester passed here already, but I figured eldritch would still be here. They mentioned never killing all the eldritch, and the dungeoneers preferred focusing on the boss.
+
+I could get behind that idea. The boss gave the most experience, a pricey dungeon core, and it was easy to make a plan around. I found it fun using these little tykes as target practice, so I vented some steam by taking out a couple of bats, creatures, and crawly things. A girl had to find her me-time somewhere after all. I happened to get it in by killing bugs and nasty animals.
+
+After destressing some, I reached the others as they fought a boss. Swinging over a bottomless cavern, Lester and Isa used ropes tipped with eldritchian glue to stick to stalactites on the roof of the cave. From their mobile positions, they threw and tossed their acid vial spears and napalm bombs. Alexander watched with Other Hod, both uninvolved in the fight.
+
+They warred against a dexterous and nimble spider that crawled along the cavern's roof. The boss fashioned a fortress of webs to reach the two dungeoneers. It crafted its lair long ago for just such an occasion, but Lester and Isa outmaneuvered it despite the circumstances. The dungeoneers swung from stalactite to stalactite, cutting their ropes if the spider grew too close.
+
+They were...actually brilliant about the whole thing. Isa and Lester used a series of planted torches for light. Isa and Lester kited the creature, never taking it head on the entire time either. They even used the napalm bombs to ignite the monster, giving them a much better view of their surroundings. It's hard to miss a giant fireball like that.
+
+Operating like clockwork, I watched them whittle down the level 2,000 boss monster with ease. They even made it die where they could harvest the body, it's entire frame impaled on a sharp spine jutting from a wall. After swinging back to the edge of the abyss, they gave each other a well deserved high five. Isa smirked,
+
+"Now that's how it's done. You'd be wise to take a few pointers from us, birdman."
+
+Hod walked out of the shadows, a torch along the cavern's edge offering light to them all. Other Hod mocked,
+
+"I would do so, but I need no tricks. I use my talent to kill. You use your desperation." Other Hod coughed into his hand while looking away, "Though I will admit, there were aspects of your acrobatics that were...impressive."
+
+Lester scoffed, "Come on, Hod. There's a good reason we're the leaders of the Dungeon Clearing Corps. We get shit done."
+
+Other Hod deadpanned, "Perhaps you two should join a circus? That would be more fitting."
+
+I popped up behind them, "Hey now, these guys-"
+
+The two dungeoneers both squealed, leaping back and throwing weapons at me. I rolled my eyes while turning on my feet. I caught a spear's handle and kicked a bomb into the pit below. After handling their craziness, I put my hands on my hips, spear in hand,
+
+"Come on guys, I know I'm hard to see, but you don't have to attack me like that."
+
+Other Hod brandished his claws at me, but he waited before attacking - as he should. He lowered his hands, "It's you. I always understand why you're such an asset when you reappear. It's more unnerving than you realize."
+
+Tossing the spear back to Isa, I frowned, "Maybe I should send a message or something before I arrive? Would that help?"
+
+Isa put her hand over her chest after catching the spear, "Ah, please. I, I can't handle any more surprises like that. I'm too old. We just fought a giant spider for Christ's sake."
+
+Lester wiped the sweat from his brow, "I can't believe you're here so fast. What did you do, fly?"
+
+I spread the wings along my back, "Of course. What else would I do?"
+
+Their faces grew long, and they both gawked at me. Embarrassment crept up from my chest before I couldn't meet their eyes. This might be how Daniel felt all the time, getting looked at like some weirdo. It was terrible.
+
+Lester shook his head, "I swear, our guildleader's followers are almost as impressive as him. You can shapeshift?"
+
+Oh, they meant their surprise as a compliment, and understanding that made me feel a whole lot better. Relief replaced my chagrin, and I raised a hand, showcasing the cannon attached to my arm,
+
+"Yeah. It's how I do most things. My stealth is, well, a little different, but everything else revolves around shifting my body."
+
+Isa stared at my figure before comparing her own. Crossing her arms, Isa narrowed her eyes,
+
+"Everything's shapeshifted, huh?"
+
+I scratched the side of my cheek, my face flushing, "Well, some things I was born with, but yeah, some things I change here or there. You know, for reasons."
+
+In the back, Alexander flushed red as a tomato. The poor guy was younger than everyone else here, and his inexperience stuck out almost as bad as his embarrassment. I kind of knew the feeling, so I didn't point it out. No one else noticed, and Isa let out a grunt of approval,
+
+"Gah, I know I'd look like you if I could shapeshift too. Either way, let's get this show on the road. We have other dungeons to clear."
+
+Other Hod leaped into her shadow, fusing with the umbral manifestation behind her. I walked right into another realm, my presence concealed entirely. The others got ready, Alexander scrambling to get out his grimoire. They swung with their ropes for a bit and found a red dungeon core flowing with eldritch energy at the center of the bottomless cavern.
+
+Using a spell given out by Torix, Alexander harvested the red core before placing it in his backpack. We ran out towards the spider's charred corpse and brought out a sample of its blood too. Isa used an energized, mana powered knife to saw at the spider's claws and fangs. She placed the animal's weaponry on new spears, pulling them from her dimensional storage.
+
+As she did, Lester took the spider's venom sacs, taking care of them like a surgeon as he did. Once that was handled, he cut out its eyes one at a time. Each eye was put in a ziplock bag before being placed in his dimensional storage. They both chugged health potions the entire time, assisting their regeneration.
+
+Once harvesting was done, we got out of the dungeon fast, most of the monsters handled by yours truly. Once near the entrance, we got back towards the encampment. The Remnants let us in via passes they got from registration with the adventurer's guild. Considering the looks our team got, people were impressed but not overly so.
+
+That was good. We wanted just the right kind of impression. Our team stepped back towards a large, wooden building near the center of town. There, we walked past gates towards a rambunctious, homey inn. People drank and ate at tables, enjoying some downtime from clearing dungeons. A row of futuristic terminals handled the various detailed aspects of quests, including requirements, rewards, and locations. Unlike with Schema's system, these weren't system bound; anyone could participate in their quest systems. After finishing one, a party lined up before being processed by an espen worker.
+
+These workers lined up behind a row of desks with a few machines laid on them along with a computer. These espens helped handle the logistics of quests, like proving they were done. All you needed was a blood sample and the kind of core since most dungeons were documented nearby. They included rewards for finding new dungeons too.
+
+We waited in one of those lines, having all those parts already. Once we reached the worker, the espen smiled at us, her teeth sharp and skin shiny. She looked like she was a pretty shark to me.
+
+The espen said, "It's good to see you all again. Fast clear?"
+
+Isa smirked, "Of course. We're the best in the business...most of the time."
+
+Professional and concise, the espen gave her a quick bow, "Indeed, you all appear to be. Your reward will be a week's free stay here at the adventurer's guild, giving a four-person bedroom along with a week's worth of food. To receive more, the three of you will need to be systemized on an Elysium world. The core is yours to keep."
+
+Lester's eyes sharpened, his curiosity peaked, "Elysium, huh? I heard of it, but I didn't think it was real. What does being systemized mean, and how would we make that happen?"
+
+The espen smiled as she spoke, "We'll need confirmation of five dungeons being completed along with confirmation you've read the terms of Elysium. This means signing an oath. It details a lot, but the most important part is that you all will be considered exiled from Schema's rival system if you decide to join ours. We don't make that part happen, Schema does. Otherwise, we'd offer both systems at once."
+
+I doubted that, and Lester did too as he leaned forward onto the desk separating the worker and us,
+
+"Between you and me, you're already in Elysium's system, right?"
+
+The espen worker nodded. Lester rolled a hand, "Say I wanted a comparison between the systems, how does Schema's hold up when compared to Elysium's?"
+
+The espen worker looked up before leaning back into her chair, "Now that is a tough one. Hmm, well, I'd say that Elysium's doesn't offer the same sky-high limits that Schema's does. There are no classes, and attributes, trees, and skillpoints are harder to get. That being said-"
+
+She pointed at a Hybrid nearby, "Very few individuals succeed in becoming even half as powerful as a Hybrid. After all, less than one out of ten reach the level cap of 5,000 in Schema's system. Hybrids start at level 8,000 and reach as high as level 12,000 if you get a blighted one. That takes military service and a lot of willpower, however."
+
+The espen shrugged, "In my opinion, I think our system offers much higher immediate benefits. For people who are doing as well as you three are, I wouldn't recommend it. You all have great long term potential in Schema's system."
+
+It kind of stunned me just how honest she was. Isa crossed her arms, "And why did you join Elysium's system if you're not recommending it?"
+
+The espen looked down, "That's easy to answer. I'm not the best fighter. I'd rather do this kind of thing to help people. It suits me better, and I don't have to put my life on the line every day. I also get a Hybrid of my own for self-defense, and I call her scrappy. I also get paid over twice as much as I would in Schema's system."
+
+Isa's eyes opened wide, "Pay, you say? How much?"
+
+"120,000 credits yearly."
+
+The espen smirked as Isa's eyes widened until they looked ready to burst. Isa mumbled, "Are you fucking kidding me?"
+
+It was the espen worker's turn to smile, "Not one bit. Now, please hand in the blood. Others are waiting behind you."
+
+The espen put out her hand with a vial. Lester gave Isa a pat on the back, "It'll be ok." Lester poured some monster blood from his own flask, and the espen put it in a machine. After swirling it and doing some computer mumbo jumbo, they verified where and what it was from. The espen smiled, handing them three passes with fancy runic markings on them.
+
+"Here are the three passes you need for your stay at an inn in town. We'll compensate for any restaurant for whatever you order over the next week as well."
+
+Isa and Lester's eyes lit up, thoughts of feasting coming over them. As we walked out of the guild room, we found a restaurant nearby. They used the passes for buying lunch along with two extra meals. Once they resupplied and rested for an hour, we moved out. The downtime let me relax for a second, and that was a refreshing change compared to normal.
+
+Most of our assignments and goals were structured by either Daniel or Torix. Neither of them slept, and both of them hounded at their work. I wasn't a slouch either, but geez, they could afford to slow down sometimes. Having Isa and Lester understand that concept made this mission much, much more comfortable than it would otherwise be.
+
+It would still be a long day, but we'd pull through. We needed four more dungeons finished before the end of tomorrow. As we paced out of the city, Hybrids stomped on the ground all around us. Their metal frames and entrenched cords left me unnerved, mostly when one met my eye at random. They never held their gaze, if you could call it that, for very long. I preferred it that way.
+
+Walking past the outskirts of the encampment again, I stared back. Everyone here relied on the Hybrids who spawned from a living hell. They needed the silvers and eldritch as much as they wanted to stop them. Unlike Schema, however, these guys weaponized their enemies. They turned them inside out, destroyed their minds, and used the husks to do their bidding. Thinking about it made my stomach sink. I realized right then what was bothering me about the whole situation.
+
+I couldn't tell who the real monsters were anymore.
+
+-Daniel-
+
+I stared at Obolis after he offered me an entire planet, and the grizzled Emperor kept his composure with ease. The ancient king grinned at me, showing his sharpened teeth and a wild glint behind his eye. The guy talked about this like it was nothing, and I still couldn't believe it.
+
+Before I let myself get overwhelmed with it all, I calmed myself down. This was the same style of negotiation that was so effective before. I wasn't going to fall for it again. I raised a hand,
+
+"Holy shit...a planet? For real?"
+
+Dammit, Daniel, keep it together.
+
+Obolis spread his arms, "That is exactly correct. You seem keen on keeping the territory. Considering that's economically unfeasible for the Empire, perhaps conquering it on your own will prove fruitful. And I expect compensation, of course, though it won't be as steep as you may imagine."
+
+I raised a brow, "It sounds like you've done this before."
+
+"This wouldn't be the first planet I've wagered nor my last. Regardless of my own history, let's focus on yours. From your perspective, this should be quite a lucrative offer. At the moment, you're unable to establish a dominant position on your home planet due to Lehesion. He'll tear any territory there apart, at least in theory."
+
+Obolis raised a hand, "This has kept your guild stunted from wide-scale resources. By colonizing a different world, you enable much greater gains for your guild. You can discover what Elysium's retaliation will be towards a territory you own as well."
+
+Obolis pressed his fingers together, "I cannot stress that point enough - that information is vital for your guild's future growth. If Lehesion is used to conquer worlds elsewhere outside your own, you may even announce your presence on Earth. Given your ability to create golems, you may rapidly expand thereafter."
+
+The Emperor met my eye, "Besides, I'm certain your species could use your assistance in that regard. They're likely struggling, and you could easily rectify the situation they're in."
+
+I winced, remembering the conditions of most people back at home. Obolis gestured at a few of the rare shells lined behind him,
+
+"Think of it. Earning resources from Blegara will no doubt expand your guild's abilities and members. The Vagni will be at your disposal should your plan work and even the eldritch to an extent. Once conquered, the pearls, corals, shells, ores, water, sand, and resort locations will be yours. You could even use the planet's water for terraforming planets close to habitation."
+
+Contemplating a few of the variables, I pointed at Obolis, "What does owning a planet do exactly?"
+
+"That's based on the arrangement we'd make. If I offer you ownership of the world, it will allow you to take a percentage of the world's resources. To give a point of reference, I receive 7% of the credits, exp, and resources harvested on Blegara, though that is far less than the cost of maintaining control there. You could have that number increased or decreased depending on preference if you'd like, however."
+
+"There's no way you could increase that cut to like, 50%, right?"
+
+Obolis scoffed, "Of course not. The residents would starve and be weaklings. There's a cutoff of 15% total resource skimming for owning a planet. Even that is very rigorous, and only the most totalitarian regimes would enact a tax that high. There are city taxes as well, along with other kinds of resource management at your disposal. Those details are your own to manage."
+
+Obolis raised a fist, "However, for a guild that's growing such as yours, you could generate tremendous income in only a matter of months from the new territory. Think of the opportunities given to your guild. Space to grow beyond that mountain, resorts for sunny vacations, and even rare organic resources, all that is yours and more. Those are valuable commodities that most empires dream of. They are at your fingertips should you act decisively on this."
+
+I crossed my arms, "And why do you want me to take the planet off your hands so badly then if it's so valuable?"
+
+"I'm glad you asked. You see, you're able to retain and hold the territory. I cannot. I still control the territory, so I require some kind of compensation for giving control to you. I wouldn't ask for a flat, permanent tax rate from your planet. Instead, I'd ask for favorable trade deals. I'd want a price reduction for those resources I mentioned earlier, along with vacation priority for my citizens."
+
+I leaned back, "How favorable?"
+
+Obolis put his hand on his chin, thinking, "Hmmm, how about a percentage cut, say 15%?"
+
+I opened my status, double-checking his offer. Information on a planetary exchange was sparse, but a few results popped up. A 15% price cut was the average for trade deals in a situation like this. Obolis read my expression well and turned a palm to me,
+
+"Your research no doubt verifies my request as a reasonable one?"
+
+I shook my head, "Not exactly. The comments talk about how a lot of times, this results in middleman trading. The new planet owner works to harvest resources and is forced to sell it to the old owner. The old owner then just resells it to someone for a higher price, taking all the profits."
+
+"Duly noted. Perhaps a 10% cutoff then? That would make reselling for a profit much more difficult given the margins involved with trading. You could consider this a gift."
+
+"I'm not so sure about that. This isn't a fully functioning planet you're handing off to me, not by any means. You don't have control of it, and you're about to lose the world anyways. I'll be reconquering it from the top-down, meaning your ownership means little here."
+
+Obolis grinned, "You've learned a bit about negotiation, I see. Excellent. Let's do battle then." Obolis spread his arms,
+
+"Allow me to explain planetary ownership. I've been suppressing the eldritch to pre-fringe world extremes to retain the planet. That has prevented Schema from annexing the territory from me. That requires resources that you simply don't have. A part of any arrangement between us would be my Empire maintaining the planet for the next five years."
+
+Obolis a raised a hand and one finger, "This means your guild is given the time to establish a presence. That's a valuable service. I can also give you access to highly trained, planetary coordinators. They can offer up systems and approaches for maintaining a territory long-term. Our previous data on the planet, including dungeon locations, would be available for you as well."
+
+I bit my tongue for a moment before firing back, "Here's the thing - you're doing the bare minimum to maintain that planet. You won't be able to hold anything without my guild's direct assistance. I know this first hand. I'll be fighting a large, hostile force that's established a presence on the planet."
+
+I pointed at the Ruhl in stasis near us, "Elysium is a much more organized and deadly force than the eldritch. If anything, I'm allowing you to maintain a presence on Blegara without needing much investment. Considering that, here's what I'm thinking is fair."
+
+I raised two hands, and I gestured them to my left, "You can transfer the planet to my guild, and I won't require you to maintain control of the world." I gestured my hands to the right,
+
+"In exchange, I'll guarantee your guild is prioritized in trade relations. So there won't be a discount, but if demand is high and slots are full, the albony get first grabs. How does that sound?"
+
+Obolis's eyes narrowed, "I give you a planet and all its resources, and you allow me to buy those resources from you? Ah, yes, perhaps you've gone deaf midway through this conversation?"
+
+The irritation in his voice showed simmering anger, but I pressed on, not backing down,
+
+"That's not exactly right. You can't harvest any of the resources on your planet. They will all be dominated by Elysium soon. I'm allowing you to take a guaranteed loss and turn it into the chance for a net gain. You won't be forced to fight somewhere you can't defend, and you'll be able to get the resources you want from Blegara, guaranteed."
+
+Obolis frowned before pacing around his study for a bit. After a minute or two, he let out a sigh, "Then...then I suppose you're right. It isn't as if I could lie to you about the state of Blegara seeing as you've been there. This isn't the worst arrangement, either. My wealthy patrons will be pleased since they get their luxuries, and you get your credits. It's...It's not an awful arrangement."
+
+Obolis waved his hands, "There's just not much about this deal that's beneficial for me, however. Is there anything you could throw in that would make this more lucrative for our side? Perhaps a few of your super golems as protectors in my attacked cities?"
+
+I frowned, "I'd like to, but I'm not offering a product that hasn't been tested yet. I wouldn't want you to take one and try and reverse engineer it either. They're valuable for a reason."
+
+Obolis's eyes went distant before widening,
+
+"How about this then - you allow me to contract them for a certain amount of credits. You'll be leasing them to me, and I'll pay you based on an approved rate we agree on beforehand. Is that acceptable?"
+
+I reached out a hand, "That sounds good to me. Is that a deal?"
+
+Obolis took my hand, and we shook on it. Obolis gave me a look of begrudging respect,
+
+"Then, I'll look forward to seeing what you can do on Blegara that I couldn't."
+
+Obolis got out a chair after that, and we sat across from one another while ironing out a few details about our arrangement. He let me know that he recorded the conversation, and a Speaker would draft up a contract for us. We'd revise it a few times, going back and forth before agreeing to the planet swap. Once it was finished, we'd sign it, and the planet would be mine.
+
+Just like that, I'd own an entire world.
+
+It would be a really long-term investment for my guild, of course, but I didn't intend to use it as an economic power anyways. I needed those crystals at the bottom of those trenches, which guaranteed my main selling point for owning the place. Testing Elysium's response to my guild's territory offered some reliable info as well. If the Adairs came down like a hammer, then I knew not to establish myself on Earth. If not, then we could begin expanding outward.
+
+This all rode on the plan that we cooked up earlier, however. For that to happen, I agreed to a few of the details involved with our contract. Before I left Obolis's study, I raised a hand to the guy,
+
+"Oh yeah, you can go ahead and pull your forces off of Blegara."
+
+Obolis sat in his chair at this point, and his main of fur ruffled out,
+
+"You'd like me to let them conquer the planet utterly? That would just make it even more difficult to retake. Are you sure about that?"
+
+"Sometimes, an enemy being overconfident is more valuable than them being weak."
+
+Obolis furrowed his brow, "I, ah, well, if you say so. It will be your planet soon, after all, so who am I to judge? What will you and your team do in the meantime?"
+
+My armor grew sharp edges as my intent became clear,
+
+"I'll be getting ready for reconquering Blegara and soon."
+
+Obolis tilted his head, confusion spreading over his face, "Now how would you intend to do that?"
+
+I grinned,
+
+"Shock and awe."

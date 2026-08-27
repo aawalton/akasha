@@ -1,0 +1,563 @@
+---
+id: 0bbda3c9-6999-5d88-8085-929a800016f5
+page-type-slug: story-chapter-royal-road
+title: "384 Of Alpha and Omega"
+slug: 0344-384-of-alpha-and-omega
+partOf: the-new-world
+position: 344
+ownLength: 3834
+unit: words
+ownProgress: 3834
+publishedAt: 2025-03-03
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2099821/384-of-alpha-and-omega"
+royalRoadId: "2099821"
+markedReadAt: "2026-06-29T21:33:03.757Z"
+---
+
+After she fell asleep, I pulled myself out, feeling refreshed. I got back to work on mass-producing basic cored golems. I handled this in the golem creation facility I made a while back, though my new method of making the golems put out less residual heat than before. Halfway through making a batch of twenty, a pile of insects crawled up the wall.
+
+They formed a smiling face, and they echoed out.
+
+"We've made strides with the Omega Strain."
+
+I put my grimoire back in my pocket dimension.
+
+"Does it need my attention now?"
+
+The insects cackled.
+
+"There are decisions to be made and consequences to be wrought."
+
+Plazia oozed.
+
+"Who else is there to dictate them, Harbinger?"
+
+Chapter Begin
+
+I put my hands on my hips.
+
+"Man, Plazia. You enjoy sounding nefarious, huh?"
+
+Plazia's insect eyes narrowed.
+
+"I am speaking as I will. There is no act. It is what I am."
+
+I lowered my hands.
+
+"Oh. My bad."
+
+"You are forgiven...It is this way."
+
+The insects flew away before burrowing into the ground. I left twenty golem bodies on the manufacturing floor, casting antigravity panels under them. After settling them in, I flew over towards Mt. Verner's depths. In the repurposed lower tunnels, I found the underground compound set up for the Omega Strain and its training facilities.
+
+To step inside, I left a block of dimensional fabric molded outside the space. I walked in at about twelve feet tall, letting me explore the area. Since I last saw the place, it had accumulated lots of wear and tear. Claw marks and torn chunks littered the floors, walls, and ceilings. I found three humans here while a large group of Eltari participated in the Omega Strain project.
+
+I recognized several faces, saying hi and bye before walking past one of the arenas where a fight took place. An armless Eltari wielded two Omega Strains at once. One magenta-colored crystal replaced her missing wings, and the other turquoise Omega Strain gave her long legs and talons. It was Elthara from long ago.
+
+She battled against three strained Eltari and performed elegant, timed maneuvers against her assailants. An Eltari with a green strain flew up and sliced with its crystal tail. Elthara grabbed it with her augmented talons and pulled the green strain into the attack of another armed Eltari. They crashed together before Elthara spun in a circle, launching shards from her wings. The spines stormed at her assailants before creating a web of magenta-shaded electricity.
+
+While I watched, Torix walked up.
+
+"You remember Elthara, I assume?"
+
+The violet electricity netted over the other two combatants before Elthara kicked off the ground. She ripped concrete out, propelling herself forward before her wings condensed to blades. The other eltari struggled to escape, but Elthara stopped her blades inches short of their throats before they could.
+
+The charged net dissipated, and her crystal swords reverted to feathered wings. Elthara helped the other Eltari up before peering up at us. She bowed. I raised a hand.
+
+"At ease...And good work."
+
+I gave Torix's shoulder a nudge.
+
+"How are the golems treating you?"
+
+Torix's eyes flared a bright white.
+
+"The level 30,000 monsters you sent?"
+
+I shrugged.
+
+"I didn't know they'd be that high a level. It's honestly crazy."
+
+Torix titled his head.
+
+"They are at a higher level than you. Perhaps crazy is underselling their prominence?"
+
+I weighed my hands back and forth.
+
+"Alright, fair enough. Still, are they doing well?"
+
+Torix unlatched his hands from behind himself.
+
+"They are strange. While not dimwitted by any means, they are simpler than they initially appear. However, they are leaps and bounds above the previous models of golems, and they've taken care of many concerns I've had regarding our future for a while now."
+
+Torix put a hand against his chin.
+
+"Is it possible to have them learn magnetism?"
+
+I shrugged.
+
+"I don't really know much about it, honestly. So, at the moment, no."
+
+Torix lowered his hand.
+
+"Hm? Really? That's strange...But I do forget you're specialized in your knowledge sets at times. I mention magnetism as your lottery exposed several of Elysium's tactics. The implanted Hybrids were one of them, and if the keepers could check for them-"
+
+I snapped my fingers.
+
+"It would make their screening more secure and complete...I could give them that ability, but having them remove the implants isn't something I'm putting in my golems hands."
+
+Torix shook his head.
+
+"I wouldn't dream of placing that kind of responsibility on them...Hm, perhaps the executive."
+
+I furrowed my brow.
+
+"What? That goofball?"
+
+Torix shook his head.
+
+"It is nothing of the sort. They're all newly made and learning, so they'll appear more competent in time. The executive, in particular, seems to have already formed ideas of what to do for Mt. Verner."
+
+"Aren't you going to temper it some so it doesn't go buck wild?"
+
+Torix shrugged.
+
+"I prefer my disciples to learn their own ways. I am a guide, not the maker of an obstacle course. Their difficulties will be of their own making and choosing. I merely nudge where needed."
+
+We stepped past a hallway before reaching a darker corner of the facility. Here, many vault doors kept different monsters contained for experimentation. One vault door hung open in the far back area, and Torix walked us up to it.
+
+"After seeing your golems, I'd rather we move my new body operation up to a more recent dating. Their extraordinary strength is something I'd use well, and we could do much with your new golem knowledge to temper the absurd mana flows generated therein."
+
+"Good point, but first things first."
+
+We stepped past the vault door, finding Plazia operating on a concrete table soaked in green and blue blood. One of the electric hummingbirds squirmed on it, its entrails exposed and its spine opened. It still lived through some magic but wouldn't be alive for long. A yellow Omega Strain helped keep it together, forming crystal vines. They coiled around the creature, and electricity hummed in the air.
+
+I winced at it.
+
+"Is this what you needed to show me?"
+
+Plazia nodded. The hivemind rumbled its words from the walls.
+
+"There is more to this than you  have seen."
+
+Torix walked over before stretching a hand to the bird. The Omega Strain sank in as Torix controlled it, and the bird's yellow feathers spread over it entirely. Blue lines traced its sides as it was reconstituted back to its original form. No, well beyond its beginning. It expanded and grew another pair of wings.
+
+It fluttered the four wings, each pair flapping in an opposite cadence. As it did, vines expanded from the ground.
+
+I furrowed my brow.
+
+"Where did the Omega Strain go?"
+
+Plazia let the birds land on his outstretched hand.
+
+"It is within. We've uncovered how the eldritch may assimilate the Omega Strains."
+
+My eyes widened. Torix sighed.
+
+"It's not as perfect a solution as it seems."
+
+Torix flew the bird to the ground, where the vines coalesced. He released his control of the bird, and the vines expanded outward. They bolted at my feet, clanking against the metal. The bird thrashed about, its mind broken. I shook my head.
+
+"Why not tell me this instead of showing me?"
+
+Plazia pointed at the bird and insects crawling over it from the ground. A spiked worm crawled into its mouth before it squirmed for a bit. It ceased struggling before landing on Plazia's shoulder.
+
+"This creature is the result of mighty strength held back by a weak mind. The strain is unconquerable by it, but we may induce a far more productive outcome while wielding it."
+
+The bird flew down before shrieking. Vines expanded over the room, blossoming with yellow and blue flowers. Plazia reached out a hand, and vines wrapped around his arm, gentle as a mother with a newborn.
+
+"This will allow us to dramatically strengthen the eldritch under my command."
+
+I raised a hand.
+
+"So you need me here for permission?"
+
+Plazia peered at several flowers.
+
+"That, among other things."
+
+The bird landed on the table before sitting. It groomed itself with its beak. Reaching back, Plazia scratched the top of its head.
+
+"We showed you what happens from the Omega Strains assimilation, so you understand the repercussions of it."
+
+Torix stepped up, his hands interlocked behind himself.
+
+"We've found that any eldritch or eldritch sentient may assimilate one of these strains. It changes them, makes them into something different afterward, and the effects are...Volatile at times."
+
+I crossed my arms.
+
+"Could you use it on your necromantic eldritch?"
+
+Torix nodded.
+
+"Easily. The Eltari also show an affinity for it, likely due to their world being slowly turned by Schema's negligence. They're partially eldritch, which lets them use the strains long-term. In fact-"
+
+Torix waved his hand.
+
+"Come in."
+
+Elthara walked into the room, her Omega Strains still connected to her. She wore the necklace I gave her so long ago and brushed my shoulder with a magenta wing. At least, I thought she did. Elthara glared at her strain.
+
+"Jaqueta, no. Bad Jaqueta. We ask first."
+
+The strain pulled back and shook for a moment. Elthara turned up to me.
+
+"He who gives wings. It is good to see you again."
+
+I smiled.
+
+"Same. How are they treating you?"
+
+Elthara leaned to her wings, and the Omega Strain cuddled against her.
+
+"Jaqueta and I are bonded by fate. She never leaves me, and I never leave her. This chick-"
+
+Elthra tilted her head at her turquoise talons.
+
+"Karm still needs to learn obedience."
+
+The turquoise strain rippled, bristling with spines. It shot out a blade at my foot before I raised a finger. Event Horizon crossed over it, and the pressure paralyzed it instantly. I squatted down.
+
+"You'll need to behave, Karm."
+
+I tapped it, and a tiny crack stretched out from my fingertip.
+
+"Or there will be consequences. Understood?"
+
+It rippled, returning to its talon shape. I stood back up, and Elthara laughed.
+
+"You are an angry mother who chides chicks back to her nest, no?"
+
+Torix laughed before I shrugged.
+
+"Eh, I guess."
+
+Torix turned a palm to Elthara.
+
+"As you have surmised, she's fully acclimatized to her first strain and no longer needs to remove it. Her second strain is proving more difficult to manage, but one day, Elthara plans to control three strains at once before finally choosing a class."
+
+I peered down.
+
+"That patience will pay off in the long run."
+
+Elthara covered herself with her wings.
+
+"You give me too much praise. I do this for the legion."
+
+I raised a brow at the others.
+
+"Can she assimilate them?"
+
+Plazia's hummingbird landed on Elthara's shoulder. In an eerie voice, he spoke through the tiny bird.
+
+"No. She is not fully our kin, and her mind is not broken. Few eldritch can control a strain, but we believe there are candidates among us. Hod is eldritch enough, as is Amara and Althea."
+
+I peered at the hivemind.
+
+"What about you?"
+
+It murmured.
+
+"I...I am corrupted enough."
+
+Understanding his past memories of a time before being eldritch, I decided I wouldn't pry. Plazia would tell me when he wanted to. I put my hands on my hips.
+
+"What about the Vagni?"
+
+Plazia and Torix stared at each other. They turned back to me, and Torix spread his hands.
+
+"Ahem, what of them?"
+
+I pointed at Elthara.
+
+"Like the Eltari, they're part eldritch. They should be able to use the Omega Strains, right?"
+
+Torix leaned back.
+
+"Ah, well, hm...I'd never even given it a thought."
+
+Plazia shrugged.
+
+"They seem primitive. Useless, even."
+
+I frowned.
+
+"We don't know much about them, but Florence controlled their world for a while. He may be able to help us out with all of this. I'll need to head out and get the rulers and empires saved from my pocket dimension soon, anyways."
+
+I rubbed my temples.
+
+"In fact, I bet you could control the eldritch on Blegara and use them as effective governance. The Vagni listen to them, and you can make them listen to you. I mean, Omega Strained eldritch boosted by your coordination? It sounds like a winning combo to me."
+
+Plazia pointed at himself.
+
+"You mean me?"
+
+"Of course. Any other hiveminds here?"
+
+Plazia tilted his head.
+
+"You are close."
+
+I waved my hands.
+
+"You know what I mean."
+
+"Ah...Yes."
+
+I put my hands on my hips.
+
+"Does governing the planet seem like too much or something?"
+
+Plazia twitched.
+
+"No. It will be fine."
+
+There was something there that affected his confidence or ability to perform. I didn't enjoy digging around for someone's secrets, but this affected his governance. We needed to get it squashed or addressed. I put a mental note of that down before raising a hand.
+
+"Shalahora can help, and we'll discuss details later. No pressure."
+
+Plazia leaned forward and rolled his fingers across the concrete table.
+
+"There was no pressure, to begin with. It will be done and done well."
+
+"Good. We'll definitely apply this to your eldritch and Torix's summons. As for the guildmates, they can choose whether or not they'll do this. It's up to them."
+
+Torix coughed into a hand out of habit.
+
+"Ahem, I happen to wonder about a few of the effects involved with the strains. Althea and Amara should be fine, as they are fully functional. Hod...Hod may never fully recuperate from the assimilation of a strain. His limited mental faculties bode poorly for him should even more of his mind become eldritch."
+
+I winced at the idea of losing the loveable klutz.
+
+"Yeah, we'll put that off the table until we can get Hod some help."
+
+I raised a brow.
+
+"But why would we need to worry about that? Are the strains effects psionic as well?"
+
+Elthara's strains rippled, and she nodded.
+
+"They are. Jaquetta is a part of me. She has broadened my mind and shown me much. My potential has magnified many times, but it is no shallow thing. To part with her is death."
+
+Torix raised a finger.
+
+"That isn't a turn of phrase; it is the absolute truth. I've created fully assimilated strains and removed them from my creations. It kills both the strain and the undead creation as well. It is safe to assume that what kills the dead shall also kill the living."
+
+The hummingbird flew over to me, landing on my shoulder. I scratched its head.
+
+"Elthara, can you use any psionics?"
+
+One of her strains itched her side while she tilted her head.
+
+"I can use rudimentary kinds. It is clumsy, at best."
+
+"That's fine. I want to feel its effects. Just attack me."
+
+She tucked her head closer to her chest.
+
+"It will not anger or harm you?"
+
+I smiled.
+
+"It won't. Go ahead."
+
+She took a breath before rushing at my mind and tackling it. It wasn't anything to write home about, but after a few minutes, she'd done some damage. I observed an Omega Strain-ed mind in action by letting her go off. It acted like a boost to her mind magic, something like 30% extra oomph.
+
+I'd compare it to a vicious familiar, one with some sentience. It gave her offense a notable edge. Testing the other side of the spectrum, I pressed against her mind with a light tap, and she winced. I stayed well outside her limits, only testing about half of her abilities. After a few minutes, sweat dripped down her face as I stopped the exercise.
+
+Elthara heaved for breath.
+
+"You...Are strong."
+
+I nodded.
+
+"You too. The strain seems to give your psionic offenses an edge, but it does little for defenses. Does it raise your level cap?"
+
+Elthara spread her wings.
+
+"By a 1,000. With Karm, I shall be able to get to level 7,000 before accepting a class."
+
+I put my arm into my dimensional storage before lopping the limb off. Within my domain, I melted and molded the metal into another ring and chain. Pulling it out of my dimension along with my grimoire, I leaned against the edge of the room. I peered at the book and carved.
+
+"Keep talking, guys."
+
+Plazia generated a steel ingot before pulling it up. His hummingbird landed on his arm before it heated the steel and pecked at it. Like a woodpecker, it stabbed at the block, notching tiny pieces off at a time. Plazia helped it along.
+
+"Strained entities must devour metal to sate their strain's hunger. Your dimensional fabric is delicious to them, and we have fed pieces of your golems to the viral entities. The strains revel in it, becoming greater."
+
+Torix waved a hand.
+
+"I believe they enjoy the more crystalline structure of your metal. Crystallized mana, gemstones, and other ores are also effective feeds."
+
+I kept carving.
+
+"Are there any other downsides?"
+
+Plazia sighed.
+
+"There are many. One of them is the further eldritchification of their users. In Eltari, the effect is containable as there is physical separation during assimilation. Within the body of an eldritch, it is different."
+
+The hummingbird squawked an unnatural call.
+
+"And you have seen it in person."
+
+Elthara pointed above her head with a wing.
+
+"This as well."
+
+Her titles popped up.
+
+Elthara, the Bearer of Blights | Guild: Harbinger's Legion | Level: 6,000 | Status: Unknown
+
+I frowned.
+
+"Ah, Schema doesn't approve."
+
+Elthara drooped.
+
+"It...It is so. They have given me so much, and why the Schema wishes to take parts away, I do not know. But-"
+
+Elthara peered up at me.
+
+"I would give more for my wings. I would give anything."
+
+Finishing my carving, I charged my grimoire.
+
+"Well, you won't have to give anymore. I'm hooking you up with more than you'll probably need."
+
+Elthra took a step back as I pulled out a blue dungeon core. It radiated in the room like a violent storm, its aura palpable. A minute passed, and I floated the charged runes from my book to the ring. After etching it, I put the core into the ringlet. It snapped into place with a pulse before I planted a final smaller circle atop it.
+
+Once welded together, I connected the chain through the upper ring, connecting it to the core. The necklace was made. I finalized the chain runes a few minutes later, making it weightless until it bonded to its wearer. I tossed it to her.
+
+"Here, catch."
+
+Her Omega Strains caught it. Elthara winced, worried about its weight. Her fear passed, and she marveled.
+
+"It...It is lighter than my old necklace."
+
+She reached out to me.
+
+"I cannot accept this."
+
+I frowned.
+
+"That one is yours for leading the Omega Strain program and teaching us so much about them. Your efforts haven't gone unnoticed, and they've added enormous strides to our war efforts. If you think about it, your actions are to blame."
+
+I stepped forward, pushing it back to her.
+
+"So this is the result of what you've done. Bear your consequences."
+
+I smiled as she gawked at the necklace, the dark metal oozing mana. Torix coughed into a hand.
+
+"Are you certain she can contain the mana?"
+
+I nodded.
+
+"Yes. The core guarantees it."
+
+She pulled off her previous garment and put on her new one. It bonded to her instantly, weighing on her neck like a magnetic paperweight holding files to a desk. The core hummed with energy, and she blinked a few times.
+
+"I...What is this?"
+
+She fell backward, collapsing against the concrete. Torix peered at me.
+
+"Perhaps you'd answer her question for all of us?"
+
+I raised a hand.
+
+"Wait a second."
+
+She twitched on the ground before snapping back into consciousness. She took a breath.
+
+"I...I have never experienced such a rush. What has happened to me?"
+
+She stood up, becoming a foot taller. She toned, becoming dense and durable. She gawked with clearer eyes than before, and she stared down. Her turquoise talons shaped into symmetrical pieces and had helped her upright.
+
+Elthara shook her shoulders, and a ripple crossed through both strains without worry or struggle. She let out a sigh.
+
+"It is done. Karm is a part of me now. This is a joyous day."
+
+Torix and Plazia clapped. I followed right after but started late, so I barely even got a clap in before they stopped. I kept clapping, trying to show support, but I was the only one now. Feeling awkward, I stopped, knowing no one else gave this a second thought while I was having a whole ass conversation with myself about it.
+
+Elthara turned to me and grabbed my right hand with a strain.
+
+"Thank you, Harbinger. Thank you."
+
+I scratched the back of my head.
+
+"Heh, no problem."
+
+She turned, heading to the main room.
+
+"I shall find my next strain, and Karm  and Jaquetta shall have more family."
+
+Elthara disappeared before Plazia cackled.
+
+"You have given her much for little."
+
+I frowned.
+
+"The Eltari have a lot of potential with these strains. She'll be the forerunner for all others, and by giving her that position now, she will grow a following under her. That strength will be my own."
+
+Torix's eyes turned green.
+
+"Ahem, might I ask what the necklace did precisely?"
+
+I turned to where Elthara ran.
+
+"It carries a psionic presence using the dungeon heart as the catalyst. I also made the dungeon heart quintessant, so it is motivated to help Elthara and her growth. That should let her handle further strains if she wants them."
+
+Plazia's hummingbird flew out of the room. The Hivemind spoke from the walls.
+
+"And she may tread into territory yet unseen, giving us sight into dark waters."
+
+I blinked.
+
+"Huh. Yeah, I guess."
+
+Torix waved a hand.
+
+"My issue is the level cap. It shouldn't be able to assist her, yet it is. How was that done?"
+
+I pulled out a blue core.
+
+"I created a mind out of the blue core, and that received the benefits from the item. It then gives those benefits to a bonded person while amplifying the effects."
+
+Torix shook his head.
+
+"That is a straightforward solution to a difficult problem...Well done."
+
+I smiled.
+
+"Thanks. Schema will find a way to stop her from unlocking insane trees, but it still boosts her. Now, who's going to get an Omega Strain?"
+
+Manifesting outside the room, Shalahora walked in.
+
+"Am I interrupting?"
+
+Torix waved his hands.
+
+"Not enough for it to matter. We were discussing who will receive the Omega Strains."
+
+Shalahora murmured with force.
+
+"It shall be Althea and Hod. Amara isn't ready."
+
+I raised a brow.
+
+"Hod? Aren't you worried he'll be eroded?"
+
+Shalahora wavered.
+
+"It is the eldritch half that we must strengthen and quickly."
+
+Torix's eyes flared.
+
+"Not that I disagree with you, but I'd estimate that to be his dominant half."
+
+Shalahora's form wavered.
+
+"It is no longer."
+
+He tapped the side of his head.
+
+"I have unlocked a piece of who Hod was."

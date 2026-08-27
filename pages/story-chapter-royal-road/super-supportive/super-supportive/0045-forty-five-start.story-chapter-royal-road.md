@@ -1,0 +1,335 @@
+---
+id: b4eeee47-6052-587d-9e29-0a3f3e9e04cb
+page-type-slug: story-chapter-royal-road
+title: "FORTY-FIVE: Start"
+slug: 0045-forty-five-start
+partOf: super-supportive
+position: 45
+ownLength: 4708
+unit: words
+publishedAt: 2023-06-15
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1246304/forty-five-start"
+royalRoadId: "1246304"
+---
+
+Staying alive in a place that didn’t want you to was an endless string of chores. For the first several days at the lab, Alden spent every waking moment trying to organize and figure out how to do completely basic things. Like eat and bathe and sleep without having his brain run-through by a demon bug.
+
+On Day 10, he woke up inside the bedroom he’d made for himself. He checked the clock he’d stolen from the wall in the rec room and marked the time. It rolled over about every twenty-six hours, keeping time according to Mother Planet and Artona III standards. Alden was counting days and sleeping according to a human schedule to stay sane.
+
+“Still alive,” he said, his voice echoing.
+
+His bedroom was set up within a large vault in the main lab building. Alden thought it was probably a cage for some kind of extra-dangerous summons. It had white metal walls and a floor so coated in runes it made the summonarium on the LeafSong campus look plain. And the only way in or out was a door six-feet thick that opened with a touch panel from the outside.
+
+Which Alden couldn’t use.
+
+He kept it opened just far enough for himself to come and go, and he’d wedged it with so many metal bars and pipes that the only way it could shut on him was if Kibby finally had enough of his nonsense and decided to off him in his sleep.
+
+She left again, he thought, taking in the child-free room with frustration. Even after I explained to her why we ought to stay in here as much as we can stand.
+
+Not a single bug had ever punched through the vault. Even though the lab was so much safer than the surrounding area, it was still slowly being riddled with damage.  Signs of intrusion were everywhere if you knew how to look for it, and though he only saw a handful of the small demons buzzing around indoors each day, a handful wasn’t nothing.
+
+He had to sleep. He couldn’t watch Kibby while he slept. She was supposed to stay with him here in their creepy-cozy vault asylum. He’d let her absolutely fill the place with toys and other odds and ends she’d brought in from all over the lab, hoping it would keep her entertained when they couldn’t rest at the same time. But she still disappeared on him constantly.
+
+He rolled off the mattress he was using for a bed and dressed himself in clothes he’d found in storage in the room that had once been Joe’s. The guy was tall for an Artonan, and they were the only clothes that weren’t too tight. Wizard pants and turtlenecks made up the bulk of Alden’s outfits now.
+
+Joe had also left behind a single Hawaiian shirt that must have been a gift from one of his contractees. It was green with huge pink hibiscuses all over it. Alden had decided to save it for special occasions.
+
+There was a full bathroom with a shower in the main lab, and Alden followed the line he’d laid out on the floor in tape to get to it. The lab was magically booby trapped. Maybe. Alden didn’t know how the traps were triggered, but Kibby claimed she did. Either Joe didn’t mind having kids running around while he was experimenting, or in the time since he’d been gone, the assistants had decided it was fine to let her.
+
+On Alden’s second day here, when he’d been dragging her around to catalogue every inch of the facility, she’d insisted this particular winding path was the way you had to get through the main lab. So down the tape went, and Alden followed it.
+
+He kind of hoped she was just messing with him. It was going to be one heck of a practical joke if a few weeks from now he found out she just thought it was funny to watch him weave around random floor tiles.
+
+As he did every morning, he thanked the faucet for coming on and the toilet for flushing. His irrigation sticks were tucked safely in the vault, where he hoped he’d never ever need them.
+
+“Kibby!” he shouted. “I’m awake!”
+
+She might not have been around to hear him. Or she might have been ignoring him. She’d probably appear soon, though.
+
+The little girl hated the vault, but she seemed to enjoy following Alden around and watching him do stuff.
+
+First, water.
+
+Every day, partially to make himself feel better, he added to his growing collection of bottled water. He’d found loads of storage containers all over the facility. Today he selected some large glass jars with strong seals on the lids, and after washing them with a removable shower head over and over again in hopes that any undetectable chemical residue would be taken care of, he filled them to the top and hauled them into the vault.
+
+He set them beside all the other jars, bottles, and even a couple of small plastic barrels he’d filled so far.
+
+How long did water last in containers? Alden didn’t know. But if it became necessary, he’d boil the heck out of it and hope for the best.
+
+Second, food. He’d squirreled away a couple of wheelbarrows full of dry goods in the vault, but that, too, was for emergency use.
+
+He headed across the compound, sneakers crunching on gravel as he made his way to the residential section of the perimeter building. He’d repaired the damaged soles of his shoes with something that looked and acted like a hot glue gun. He hadn’t gotten it quite right, but the patch was holding up pretty well.
+
+How’s the buzz today? he thought, listening hard.
+
+The drone of the demon bugs was quieter. It had been getting quieter for two or three days now. That had to be a good thing.
+
+He went to the main rec room where the assistants had once hosted him. The kitchen was there, and they had a well-stocked larder full of food. There were sacks of grain and beans, and there were pre-packed meals in gold foil pouches. Alden had moved a lot of it to the vault, but the place was still full. The huge fridge had been stuffed with fruits and vegetables from one of the greenhouses when he had first arrived, and he’d kept it supplied with the same varieties ever since.
+
+He took a notebook made of oddly slick paper from the counter and grabbed one of the oily-looking pencils that wrote on it well. He glanced at the last note he’d made.
+
+Day Nine — Dinner — Ate a full serving of the green eggplant thing. Ate a trial serving of the pink rice (?). If dead tomorrow, be advised that pink rice is lethal to humans. :)
+
+He added a new line:
+
+Day Ten — Breakfast — Still alive. Feel fine. Pink rice not super poisonous. Eggplant is officially okay. Eating larger serving of leftover pink rice. Adding a spiky strawberry. For science. Hope I see you at lunch.
+
+So far, the worst he’d had was an upset stomach. Humans and Artonans could consume most of the same foods, but not everything. Alden definitely remembered hearing that it was a very bad idea to eat shellfish on any of the Triplanets.
+
+He’d been getting by with things he recognized as safe from his meals on the LeafSong campus. And though he was sick to death of the stuff, he was drinking a lot of wevvi. They had so much of it, packed into bags that fitted onto the dispenser in the kitchen, and he assumed he needed the calories.
+
+There was more than enough food at the lab to last him and Kibby for ages. He just had to make sure he survived taste-testing it all.
+
+He shoved a small serving of rice and some beans he’d already declared safe into the blue box that served as a microwave.
+
+“Heat and sanitize,” he said in Artonan.
+
+It had taken him a while to figure out what the word “sanitize” meant. When it came to using appliances, he’d learned by following the little girl around and repeating whatever actions she took and sounds she made. He still did that a lot. He pretended not to know that they were both calling the automatic launderer “ugly butt” for no reason at all whenever they used it.
+
+“Kibby, food! You eat before? Or now?”
+
+Alden assumed not. She wasn’t really into feeding herself. She’d eat absolutely anything he prepared for her without complaint, though, so it had worked out so far.
+
+She liked marleck berries, and they still had some of those in the fridge. There was a jug of what looked and behaved like chunky liquefied egg and she’d called it “something something for second meal” when he’d asked, so he’d been scrambling that for her, too.
+
+He couldn’t eat it himself, so it was better not to let it go to waste. He had no idea how to season it. He hoped it wasn’t disgusting.
+
+She appeared as he was sitting down with a cup of wevvi and his own bowl of probably-not-deadly rice and beans. She’d been crying. Her dark brown eyes were swollen and her short brown hair was tangled and sticking up at the back. It was a frequent occurrence. Alden didn’t ask her about it. He’d tried a couple of times to offer comfort, but it seemed to make it worse for her.
+
+“Breakfast!” he said, pointing at the plate he’d made her.
+
+He’d arranged the berries into the logogram for “friend.” Because he was a dork, and he didn’t want his one and only companion to be mad at him for constantly trying to stick her in a vault.
+
+She ate the berries and the scrambled stuff together, with her fingers. Not how Alden would have done it, but what did he know?
+
+“Thank you.”
+
+She always thanked him.
+
+“You’re welcome. Thank you for eating with me. What are you doing today?”
+
+She got up and went to the sink before answering. Kibby rarely felt the need to answer a question quickly. Even simple ones. It didn’t seem to be deliberate rudeness on her part, and she never seemed offended that he’d asked. He hadn’t noticed the habit with adult Artonans, so maybe it was a kid thing. Or a personality quirk.
+
+“Watching ———-.”
+
+“A show?”
+
+The appliances at the lab mostly ran on their own independent power sources. Magic, electricity, tiny hamsters on wheels—Alden didn’t care how it worked. He just loved that it did. He was pretty sure it was the only reason they still had so much nice stuff to use.
+
+The big television in the main room had served them well for a few days before suffering from a demon strike. A few smaller ones throughout the residence had just died. Like they couldn’t take the pressure of living in this world anymore, the cowards.
+
+But there were still a lot working. Everyone who lived here had enjoyed at least one personal device in their room. Alden didn’t know yet if the shows you could watch on them were contained on the televisions themselves or if they were receiving a signal from something. He thought it was at least partially the second, since he could pull up a much more high quality-looking version of the chaos map he’d seen at Elepta.
+
+It didn’t seem like something every individual device should be able to supply on its own. Maybe they were receiving input from sensors of some kind.
+
+Kibby didn’t know, so Alden didn’t know. They just watched shows together and appreciated the distraction. Kibby liked a category of entertainment that Alden had mentally classified as “Soap Operas for Children.” They were really weird by human standards. The shows were clearly meant for kids since they each had a teacher explaining the moral lesson at the end of the episode, but some of them were dark.
+
+Actually, Alden had watched enough of them now to notice that a dark one was delivered exactly every five shows. Like sandwiching a really harsh life lesson in with the nice ones was the whole point.
+
+Little Klee-pak learned about taking good care of his flower garden. Little Klee-pak shared purple daisies with a pair of children he often saw going into the House of Healing next door. Little Klee-pak attended the funeral of his friends, ripped up his daisies, and got stuffed in the punishment closet by his parents.
+
+For what!? Alden had wondered, while Kibby nodded as if to say, “Well, naturally. What else can you expect?”
+
+The dark ones drove Alden crazy. He couldn’t understand enough of the show or the following lessons to even begin figuring out what cultural thing they were trying to convey. Was Klee-pak in trouble for destroying the daisies? Was he supposed to ignore his grief? Or grieve differently? Was it a social class thing? Were children not allowed at funerals?
+
+Or maybe the point of the show was that parents were sometimes nasty and abusive and you shouldn’t trust them completely?
+
+“Not a show, a ————,” Kibby told him now.
+
+“That sounds good. I’ll come, too.” Alden would just watch it with her and find out what the word meant that way.
+
+Kibby led Alden back to one of the rooms she spent a lot of time in. It wasn’t the one she’d shared with her little sister. He wasn’t allowed in there. This one didn’t have many personal affects, but he thought it might have been  her father’s.
+
+The bed was folded up into one wall, and a small table folded into the opposite. A pair of cushy chairs were arranged in front of the television from their last confusing soap opera session. While he waited for the girl to return, Alden made a mental list of the other things he wanted to do today:
+
+Go to the greenhouse the food came from and pick things that looked like they might be ripe. Avoid the other greenhouses, because they had hazmat suits by the doors, and Alden wouldn’t be eating anything from those. Explore one of the outbuildings and catalog the contents better. Try to figure out where the sensor or sensors for the chaos weather map were so that they could be protected.
+
+Alden had some tablets in his vault, where he hoped they would be shielded from whatever damage was slowly taking out other things at the lab. He’d like to save whatever it was that gave him the weather report, too.
+
+Though the numbers of demons seemed to be decreasing, the red color was spreading wider with every passing day, just as Thenn-ar had said it would.
+
+After a couple of minutes, Kibby reappeared dragging a pair of cushions behind her. She gave Alden an annoyed look.
+
+“Why didn’t you ——?”
+
+He looked around. “What?”
+
+Had he been assigned a chore he didn’t know about?
+
+She stomped over to the chair she usually sat in and started shoving it away from the television.
+
+Move the chairs? Maybe that was what she’d said. He stood up and moved his own chair out of the way, too.
+
+Kibby pointed to one of the cushions, and he took it obediently. It was a heavy, stuffed leather pillow, square-shaped with logograms stitched around the edges in gold and silver thread. It looked like the ultra luxury version of the chopped-up yoga mats they used in wordchain class at the consulate.
+
+“Are we saying wordchains?”
+
+Kibby paused. “No. Unless you need to do it for _________?”
+
+“Let’s do what you want.”
+
+He said that a lot. It gave him an excuse to let her lead without looking completely clueless all the time. He hoped.
+
+Kibby set her cushion down and started taking off her socks. Alden blinked. Were they doing school of some kind? An educational show?
+
+That was usually what barefoot meant with Artonans in his experience. He dropped his cushion beside hers and hurriedly unlaced his own shoes. When they were done, Kibby walked over to the panel that controlled the lighting and spent over a minute dimming it until it was at some precise level that satisfied her. Then she disappeared again and returned with what looked like a polished wooden chopstick. She used it to measure the distance between her cushion and Alden’s.
+
+Wow. It’s got to be school. We’re being so serious about the layout.
+
+Then she pulled a round silver disc from her pocket. Alden was startled when she used it to set the end of the measuring stick on fire. She let it burn and looked at Alden expectantly.
+
+He smiled at her. I have no idea what you want.
+
+“Let’s have a good education time?” he suggested.
+
+She looked surprised. So that probably wasn’t the right thing to say. But she considered it for a while, then nodded at him and blew out the stick.
+
+Kibby walked over to the television and turned it on. She had to stand on her tiptoes to reach some parts of the screen, but she didn’t like it when Alden did it for her. She brought up a program he hadn’t seen before.
+
+Well, good. Klee-pak was starting to stress me out.
+
+An Artonan woman in wizard’s garb stood in a dimly lit room that was mostly multicolored wood and large shuttered windows. Barefoot children who looked at least a couple years younger than Kibby were filing in one after the other with cushions under their arms.
+
+They all did the thing with the polished measuring stick while the adult watched them patiently, and then they set their sticks on fire and recited something that was several sentences long while they faced one of their neighbors. Kibby glanced over her shoulder at Alden.
+
+“Um…I’ll say it better next time.”
+
+Then everyone sat on their cushion, and Kibby rushed over to hers. She knelt on it, and Alden joined her. He hoped she didn’t mind him sitting cross-legged. Kneeling for a long time didn’t seem that comfortable.
+
+He still wasn’t sure what was going on in the video. His best guess was wizard kindergarten, but it wasn’t what he would have imagined. They spent the first twenty minutes stretching their fingers in specific ways while the screen showed close-ups of small Artonan hands, and the teacher offered advice in a placid tone that would have put Alden straight to sleep if he wasn’t so busy trying to decipher what the heck she was talking about.
+
+There were way too many words for fingers. Was she naming specific muscles or saying something completely unrelated?
+
+After finger exercises, there were mouth exercises, breathing exercises, and an exercise that Alden was sure was supposed to be some kind of mental thing. Since he couldn’t understand what was being said, it just looked like a bunch of little kids drooping on their cushions.
+
+Kibby drooped right along with them.
+
+Alden was bored.
+
+And then, fifteen whole minutes after the drooping had started, just when he was certain this was all something completely incomprehensible that didn’t apply to him, Kibby gave him a friendly pat.
+
+On the existence.
+
+Which was not a place he’d known could be patted by another person, so he considered it a real achievement that he didn’t shriek and fling himself across the room. Instead, he froze, processing the feeling in the same way he’d spent the past ten days processing a few other new feelings that came along with living in demonville.
+
+Lacking any actual names for them, he was calling his new states of being “centered,” “askew,” and “assertive.”
+
+Centered was for how he normally went about life. He couldn’t even detect it. As far as he knew, it was just the absence of the other feelings.
+
+Askew was what happened when he got smacked by a demon bug, which hadn’t occurred in two whole days—major success.
+
+And assertive was the feeling he’d had upon activating Azure Rabbit by himself for the first time—a sense that he was actively expanding his personal space. He’d begun to notice it now when he was using his skill, too.
+
+He had two theories about why he was aware of what it felt like to assert his authority when he hadn’t been before. The first was that the System had been stopping him from feeling it somehow, either by taking some of the load off with all the various little conveniences it provided or actively altering the way he felt things to make them less confusing to a human.
+
+The second one was that humans really couldn’t feel authority at all under usual conditions, and he was only beginning to feel his own “assertive” state now because he was constantly pressing against something he’d never had to deal with before. Like the difference between breathing normally and breathing with a thick cloth over your nose.
+
+The chaos was everywhere. He knew it. All day yesterday, he’d been askew whenever his skill wasn’t active. He could only relax in the vault. It was why he’d had yet another talk with Kibby about the importance of spending time in the unpleasant place.
+
+Pat, pat, pat.
+
+Alden shook his head and tried to focus. Well, here’s a new one to add to the list. Centered, askew, assertive, and…poked? Petted? Wizardy fist bump?
+
+It was kind of cute. He was sure he was supposed to friendly-pat back, but he didn’t have a clue how. He couldn’t even activate his skill without breaking her concentration and asking her to hand him something. He’d been wearing a string around his neck as his preferred carried item lately, but he always lost entrustment on it when he went to sleep.
+
+Alden drooped on his cushion like the little kids. Maybe slouchy posture helped? He closed his eyes and tried to imagine himself patting back.
+
+It was a failure. But maybe not a complete one.
+
+When Alden gave up on trying to do something and instead focused intently on just the sensation of Kibby’s magical fist bump, he gradually became aware of his own power as he had a few times before.
+
+It’s here. Around me. My own little patch of authority, keeping me here and keeping me myself. It’s been shaped by the System so that I can use my skill, but it’s still mine. Joe said that there was always a portion of it unbound…I guess I should be able to do things with it. Right? Surely a little friendly pat?
+
+The lesson ended before he could get there.
+
+Well, that was all right.
+
+“Sorry,” Alden said, when Kibby gave him a disappointed look. “I can practice.”
+
+Why not? He had plenty of free hours ahead of him. And it was about time for him to figure out how to spend the next weeks of his life now that he had started to get a handle on surviving.
+
+After the magic class, they spent a few hours watching Artonan children learn important life skills and suffer hardship. Kibby seemed pleased.
+
+And Alden sat beside her, making a list in his notebook of all the things he wanted to do if he didn’t die from eating the spiky strawberry. He had to assume he had a future. One back on Earth, where he would maybe one day  attend school, get a job, play video games…
+
+Live on Anesidora.
+
+He hadn’t really dug too deeply into his feelings about certain things yet, but maybe it was necessary. Boe and Jeremy would have known something was wrong the first time he skipped their usual phone call. He didn’t think Joe could entirely hide his absence from LeafSong, so the university would have known by the next day, too.
+
+Alden wasn’t officially off on a super secret mission. He was a Rabbit, and it was supposedly a berry collection quest that had ended in disaster. It wasn’t the kind of thing that the Artonans would keep under wraps for any reason he could imagine.  He wouldn’t just vanish with no word like Hannah had.
+
+He would be officially declared something. Dead, missing, lost cause. He wasn’t sure which because he wasn’t sure what anyone else might know about his current predicament.
+
+But they would tell his aunt.
+
+If they declared him dead, legal stuff would happen.
+
+If they declared him missing, Connie would definitely contact someone from Anesidora, probably Ms. Zhao or Mr. Thomas, and try to get them to find out what had happened to him. It most likely wasn’t something they could do, but Alden’s aunt wouldn’t believe that. And she’d be desperate.
+
+In the same situation, he would have been, too.
+
+Sorry, Aunt Connie. Sorry, guys.
+
+Dead or missing—either way, he’d be a known Avowed when he made it back home. So the secret unregistered route was completely off the table now. He’d have to go fully on the run if he didn’t want to live on the island.
+
+I don’t think I had any doubts about registering. But I feel like someone took a choice away from me anyway. It’s stupid.
+
+Well, life on Anesidora would be his starting point. He could still go from there in a ton of different directions. Battlefield support like he’d always dreamed wasn’t off the table. It…seemed like a more extreme decision than it had before, though.
+
+Alden had a lot more experience with being an Avowed dealing with a crisis now. It was so hard. He was terrified literally all the time that he was going to screw up. If Kibby died—his fault. If he died and she was left to suffer here alone—his fault.
+
+The first time she’d abandoned him in the vault, he’d used the privacy to break down and sob until he almost couldn’t breathe. And only then had he gone to find her.
+
+That didn’t seem like very adult behavior. Never mind superhero behavior.
+
+Maybe I’m not cut out for this after all.
+
+If he’d had training of some kind, would that have made a difference? If he’d had partners? A team? Would he have helped them the way he’d always envisioned or would he just lean on them?
+
+He didn’t know anymore.
+
+What he did know for sure was that weird, awful shit could happen to you as an Avowed. You could choose a peaceful life for yourself, and you’d probably get it unless everything Alden knew about living on the island was a conspiracy.
+
+But maybe you wouldn’t. Maybe you’d randomly get summoned to a place like this.
+
+Even if I’m not hero material, I still want to be able to survive.
+
+So he would learn all the things he could learn in this situation. Language. His trait. His skill. Maybe even magic if Kibby had more of the kindergarten lessons.
+
+How will I even know I’m gaining authority and leveling the skill if I don’t have the System?
+
+Not sure. Try it anyway.
+
+“What are you doing?” Kibby asked as Alden stood up from his seat and stretched.
+
+He took off his string necklace and handed it to her. Familiar with the ritual, she handed it right back. His skill activated.
+
+“Practicing,” he said. “Practicing my magic. And running for my health.”
+
+“———?”
+
+“Exercise,” he confirmed, assuming that was what it was. “Can I ask you for a gift, Kibby?”
+
+She stared at him for a long time and then nodded.
+
+It’s not that serious. I just don’t know how to say favor.
+
+“Will you help me learn to talk better? When I say something bad, will you help me say it better? You’re smart, so you know what I want to say a lot. Give me help when I talk bad.”
+
+“You want to say badly,” said Kibby promptly. “Or ———. Or ————.”
+
+“Badly,” Alden repeated. Awesome. Adverbs. “Thank you.”
+
+“Can I watch the exercise?”
+
+“Yes, it’s not secret.”
+
+“You don’t ———- ‘secret.’  ———- is better.”
+
+“It’s not private?”
+
+“That’s good,” she said seriously. “You sound less ———.”
+
+“I’m happy,” said Alden, wondering what he sounded less of. “Thank you for teaching me.”
+
+It was a start.

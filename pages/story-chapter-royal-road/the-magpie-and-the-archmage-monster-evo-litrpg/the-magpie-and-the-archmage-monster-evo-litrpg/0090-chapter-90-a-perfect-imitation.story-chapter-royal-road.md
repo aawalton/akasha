@@ -1,0 +1,161 @@
+---
+id: 257d4851-a40d-517f-9a70-8056f99bbbaf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 90 – A Perfect Imitation"
+slug: 0090-chapter-90-a-perfect-imitation
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 90
+ownLength: 2090
+unit: words
+publishedAt: 2026-02-27
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3097312/chapter-90-a-perfect-imitation"
+royalRoadId: "3097312"
+---
+
+Where is Cee?!
+
+She must have sneaked away while these fools were arguing. I bet she's scouting ahead.
+
+Isn't that dangerous?
+
+Normally, I'd say yes. But this is Cee we're talking about. She is a spider who is naturally very sneaky.
+
+That's true, but there's a shapeshifter on the loose. And likely those creepy mages, too.
+
+Yeah… Whatever you do, do not take me out of your Inventory.
+
+I wouldn't even if you begged me to do it.
+
+"Enough squabbling, you sissies!" Morgana said firmly, glaring at both the arguing parties. "We'll just toss coins. Heads we head for the monster, tails we go for the people."
+
+Morgana found a coin in her pocket, then tossed it up in the air. However, the coin didn't get to me when a web shot out and grabbed it. Everyone turned to look at the source of the web and found Cee.
+
+"Oh, it's just our spider friend. Not a fan of coins?" Morgana asked.
+
+But Liora's feathers stood on end. While the creature certainly looked like Cee, she could instantly tell it wasn't her. Without warning, Liora launched Air Slash at the imposter spider.
+
+The attack seemed to connect at first glance. It struck one of the spider's legs, severing it and making it fall to the ground. However, instead of hitting the floor, the leg… vanished. As if it had never been there in the first place. The spider itself also didn't react to the hit, as if nothing at all had happened.
+
+Morgana was first to react to Liora's attack. She grabbed one of her pistols so fast that Liora could barely register it and shot the spider. It moved away even faster than the bullet, disappearing in seemingly thin air.
+
+The humans were looking around in confusion, trying to find the spider. They didn't notice the tiny, dark beetle that clung to the wall. Liora let out a loud caw and swooped at the bug, about to swallow it whole.
+
+Don't approach it! It'll kill you!
+
+At Renir's warning, Liora let out another Air Slash and Faded. She wasn't a moment too late. A snake shot out in the place of the beetle, reaching out and trying to grab Liora. She swiftly dodged and put some distance between herself and the obvious shapeshifter.
+
+Never approach a shapeshifting monster. Always assume it has a close combat form that can take you down in seconds.
+
+Thankfully, Morgana's crew recovered from their momentary confusion and sprang into action. As much as they could, at least. The area Liora had purified was rather limited, and it was rapidly being reduced by the miasma coming from the third tunnel.
+
+The front liners, namely the dude with the giant sword and the lancer, jumped at the snake. She really should learn their names… They tried to strike it in a coordinated attack, with the lancer going first, trying to strike from afar. Meanwhile, the swordsman narrowed the distance and swung his giant sword in a long arc.
+
+But the moment they came closer, the snake transformed into a small falcon, swiftly avoiding their attacks and charging straight at them.
+
+The mage and archer reacted next, shooting spells and arrows at the nimble bird. But Liora already knew that these kinds of attacks would be easy even for a large bird like her to dodge. She equipped the Necklace of Sunpeak and shot a beam of Holy Light in front of the mage.
+
+"What the hell?!" The mage fell back, thinking Liora had tried to strike him.
+
+But the falcon had been aiming at him, and with her Holy Light, she managed to stop its advance. Not to mention that she cleared out a small portion of miasma.
+
+"We need to move the battle away from this miasma-filled chamber. Lead it into the first tunnel!" Morgana commanded.
+
+The falcon tried to strike at the mage again, but this time the man brought up a barrier, making it crash into it. But the falcon then quickly began to expand and inflate, turning into some giant rhinoceros-like creature, but with armor that looked to be made of steel.
+
+Morgana's crew was forced to run into the tunnel to avoid being squished. The mage stuck behind his own barrier wasn't able to move into the tunnel. The shapeshifter also didn't leave him any breathing room, smashing into the barrier and forcing the man back, closer and closer into the miasma.
+
+Ugh… I just have to do everything. Let's see if I'm strong enough to carry a human. That guy looks scrawny enough.
+
+Liora flew behind his barrier, grabbing him by the shoulders, and Faded. The mage struggled at first, but then allowed Liora to carry him over the monster into the tunnel with the rest of the crew.
+
+She was surprised that she was actually able to carry him so well. He was heavy for sure. But she was a bird. Yet she could pick up and fly with him. There had to be some magic involved here.
+
+"You were just saved by a bird!" The swordsman laughed.
+
+"I'll give you the nicest pieces of shark once we get through this," the mage thanked her.
+
+"Hurry into the tunnel!" Morgana commanded.
+
+They all rushed ahead, but the shapeshifter had already turned into a falcon and was hot on their trail. Liora, the mage and the archer, shot projectiles at it to slow it down enough for them to make it into some larger space.
+
+Suddenly, the wall behind them detonated in a loud explosion, making it cave in and leaving the shape-shifter behind.
+
+"What the hell was that?" Morgana asked, not slowing down her sprint.
+
+"Spider friend!" Liora exclaimed, seeing Cee hunkered in a crevice near the end of the tunnel. To her horror, one of her back limbs was missing.
+
+She's injured!
+
+We need to heal her!
+
+Potion!
+
+"Potion!" Liora asked.
+
+Without hesitation, Morgana retrieved a potion from her pouch and tossed it in the air. Liora grabbed it and flew towards Cee.
+
+Meanwhile, behind her, there was a loud crash as the shapeshifter, now in its rhino form, broke through the rubble like it was a stack of papers. The huge beast barely fit in the tunnel, but as soon as the rubble was cleared away, it changed back into the falcon.
+
+Liora didn't have a lot of time. She flew up to Cee, grabbed the spider with one leg, making sure not apply her sharp talons. With other legs, she held the potion, which she swiftly uncorked with her beak and then poured the contents all over the spider.
+
+"Careful, careful!" Cee squirmed and wiggled her legs all over the place.
+
+Much to Liora's relief, Cee's back leg grew back. It must have been a really potent potion for it to fully regrow a limb so quickly.
+
+"What even happened?" Liora asked as she kept flying forward at full speed while occasionally launching either Air Slash or Holy Light at the pursuing shapeshifter.
+
+"I crawled ahead using Shadow Walk, hoping to scout out just how dangerous the monster was. But I didn't even get to the end of the tunnel when this damned thing attacked me and pulled one of my legs clean off," Cee complained, but also added to the projectile barrage with Poison Shot.
+
+Just barely, with all of them combined, they were able to keep the monster at bay for long enough for them to reach a large, dark cavern. The mage instantly waved his wand up, producing several orbs of light near the cave ceiling, thus illuminating the whole area.
+
+It was mostly just an empty cave with stalagmites and stalactites sticking up and down. But among the rocky growth, Liora also saw bones. Lots and lots of bones. Animal bones, monster bones, and without a doubt, human bones too. Liora could see why it was called a skinweaver.
+
+Morgana and her crew didn't pause even a little at the sight of bones. Instead, they all strategically placed themselves among and behind the rocks and waited for the shapeshifter to appear. Liora placed Cee at the ceiling and flew some distance away from her so they wouldn't be clustered together.
+
+But the seconds ticked by, and the skinweaver didn't appear; all of them grew tense. Did it decide not to pursue them? Had it turned itself into some tiny creature so they wouldn't see it?
+
+That wouldn't work with Liora. Even an ant wouldn't be able to escape her vision, and she was watching for any kind of movement.
+
+"Please don't hurt me!" A little hurt girl suddenly appeared at the entrance, her eyes riddled with tears and her arms covered with bruises and scrapes.
+
+Liora hesitated for just a second. The girl reminded her of Christie, but it didn't take long to realize that there was no way an actual human child would be down here.
+
+Morgana, however, reacted before Liora could and shot the girl with a fiery bullet. The child quickly warped into a bird, dodging the bullet and flying straight at Liora.
+
+But she had no intention of letting the shapeshifter get close. Instead, she used the combined Poison Slash in quick succession, trying to hit the beast. Morgana also followed up with her bullet, trying to snipe the nasty critter. But it was far too fast.
+
+"Liora, distract it from me!" Cee called, showing her thread. Liora understood. The spider was going to use her webs to trap the shapeshifter. Frankly, that was probably the best option they got.
+
+I'm going in!
+
+Liora, no!
+
+If the shapeshifter insisted on being an agile bird, then the best way to fight it was with an agile bird. Liora stretched out her talons, ready to grab the little thing. She was ready to Rend it to shreds the moment it got close.
+
+The shapeshifter took her challenge head-on, flying straight at her. Did it think it could beat a powerful bird such as her? Not a chance.
+
+But the bird once again changed its shape, expanding rapidly until it had turned into a large wyvern. It wasn't quite the size of a building, like dragons were portrayed in the movies. But compared to the rock wyrm Liora had fought before, it was huge. It broke a good chunk of stalagmites with its bulk.
+
+The wyvern opened its jaws, ready to swallow Liora whole. She shot Poison Shot straight into its mouth while flying backwards away from him. Yes, she could fly backwards. Another perk of getting Aerial Agility to Expert level.
+
+Morgana and her crew weren't sleeping either. Morgana shot one bullet after the next, aiming for the wyvern's tender wing membranes. The mage shot ice lances at the thing, while the archer shot one after the next. Unlike with the falcon, many of the attacks actually connected, including Liora's Poison Shot.
+
+The wyvern let out a horrifying roar as the attack hit the back of its throat. Liora hoped that maybe, just like with the wyrm, it would just topple over and die. Unfortunately, that wasn't the case. Clearly, it was more resistant to poison. The shapeshifter turned into a tiny beetle, which was virtually impossible to hit.
+
+Liora flew after it, figuring that if it turned into a wyvern again, she would try to blast its mouth with Holy Light this time. But instead of turning into a wyvern, it turned into… Liora.
+
+What the hell? I thought it could only turn into creatures that it ate.
+
+At base form, yes. I suspect this skinweaver has evolved some sort of ability that allows it to turn into whatever it sees.
+
+The aethral screeched and flew at Liora. Liora screeched and flew at it, ready to Rend out its eyes. But the thing was agile. As she reached to bite its wings, it pulled back and tried to grab her leg instead. She pulled back and spread out her talons in defense, ready to sink them into the shapeshifter's flesh.
+
+The shapeshifter did the same, and their talons locked together. For a wild moment, Liora and the shapeshifter were tumbling in the air, locked at their talons, trying to bite and maul each other while simultaneously avoiding any hits.
+
+Eventually, they pulled apart as they almost crashed into a stalactite. Liora was ready to launch Air Slash at it, but then realized that everyone else had paused their attacks.
+
+"Captain, which one is our bird?" The swordsman asked.
+
+There's a moment of silence.
+
+"I… I don't know," Morgana replied.

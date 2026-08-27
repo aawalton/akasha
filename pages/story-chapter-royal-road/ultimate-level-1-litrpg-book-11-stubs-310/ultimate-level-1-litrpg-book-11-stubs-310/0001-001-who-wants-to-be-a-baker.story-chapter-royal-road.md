@@ -1,0 +1,213 @@
+---
+id: ccbc71ba-9051-5458-8f92-fd712e224b42
+page-type-slug: story-chapter-royal-road
+title: "001 - Who wants to be a [Baker]?"
+slug: 0001-001-who-wants-to-be-a-baker
+partOf: ultimate-level-1-litrpg-book-11-stubs-310
+position: 1
+ownLength: 3004
+unit: words
+ownProgress: 3004
+publishedAt: 2023-10-31
+link: "https://www.royalroad.com/fiction/76259/ultimate-level-1-litrpg-book-11-stubs-310/chapter/1391286/001-who-wants-to-be-a-baker"
+royalRoadId: "1391286"
+markedReadAt: "2026-06-29T20:31:37.793Z"
+---
+
+Max refused to piss himself while waiting in line. He went before he left, of course, but his whole life had come down to a god’s whim, and now there were twisting needles running from his bladder down into his balls and up into his gut. He couldn’t piss himself. Not with his family with him and the whole town watching. Waiting to see what the gods chose for him.
+
+Max was still thin. Weathered from working with his dad on the sheep farm. The smell of lanolin never quite left his clothes and hands. He wanted to smell like bread and have a life with Nancy.
+
+After hundreds of hours of kneading, folding, and rolling out dough, he should unlock the [Baker] skill. The gods chose, though, and he knew he might get something different. Being human meant Max was most likely to end up with a skill that dealt with growing things or making stuff.
+
+Or you could be one of the chosen few pushing back the front lines against the monsters and other sapients- an adventurer. But he could still taste Nancy’s kisses on his lips, taste the apricot jam she put in the cookies, and he could smell the flour on her hands and the bread baking in her ovens. He could hear her pledge echoing in his ears.
+
+He would be a baker. They would wed as soon as his apprenticeship was done. Their parents had already informally agreed to their courtship, but they couldn’t formalize it until he learned his skill. His skill was going to be his life. And it was in the god’s hands now.
+
+”Please don’t let mine suck like that one did, Max pleaded in his head as he heard the guild advisor shout out [Shepherd] for the young man who had just gotten his life’s path chosen for him.
+
+Max fervently began praying again as he waited in line behind the people before him.
+
+Once a year, the adventurer guild brought the skill shard to each town, allowing everyone who had turned eighteen since their last visit to see what skill they would be given.
+
+It had been four months since he turned eighteen, yet every day since the last time he had been here, all he could think about was getting the [Baker] skill. Since Nancy had received that skill last year, he wanted nothing more than to spend his days making things with her.
+
+“Your sister is hoping you get something cool like swordsman or caster,” Caleb called out from behind him, breaking his train of thought.
+
+Max shuddered at that thought as he heard Caleb start to chuckle. His body couldn’t stay still as the chills kept running through him at the thought of being an adventurer. It was hard to stand still between the need to piss and the fear of being a fighter. Not one to admit his cowardness, he preferred to be a lover and not a fighter. Or at least he had told Nancy that a thousand times.
+
+Thankfully, only one out of every twenty humans was given a skill worthy of being an adventurer. Each race had different chances for skill selection, yet it seemed harder for the human race to receive a skill that gave them the adventurer path. No one knew why the other races were most often gifted with combat skills. Perhaps the gods were still punishing humans for the wars of the past. Most would be merchants, craftsmen, and workers.
+
+“You still planning on joining the [Baker’s] guild?” Caleb asked as he nudged Max in the back. “Your sister told me you already had the initiation fee saved up.”
+
+“Just like you are praying for the [Warriors] guild,” he shot back over his shoulder. “None of that really matters as long as we both end up with something. I’m just glad no one has been an unskilled this year.”
+
+Ignoring the shiver that ran through him, Max glanced at the families lining the street, ignoring Caleb and his teasing. For the last mile on both sides of the road were all the townspeople and nobles with children who had turned eighteen, each in their best clothes, waiting to celebrate whatever skill their child received. Formal dresses, simple outfits, full-on suits, and the fancy getups the nobles wore were on display. Cheers were given when a child was bestowed with a skill that would give them a promising job and future. Loud applause and celebration could be heard for minutes when a person acquired a combat skill. Thankfully, no one had experienced the worst response today. The cries and wailing from a family when a child was led away after being listed as unskilled was a horrible thing he had only experienced twice.
+
+Max ran his hands along the pleats of his best outfit, knowing there were no wrinkles since his mother had pressed it about a dozen times. He was trying to wipe the sweat that kept forming on his palms.
+
+He spotted his sister, Stacy, off up ahead with his parents, standing on her tiptoes and smiling at him as he waited his turn. She wore that pink dress she loved because she caught his friend Caleb ogling at her when she wore it. The long hours she spent practicing with the town guard were evident by the muscles and shape of her body. He found himself smiling, knowing next year would be her turn. Her dream of being an adventurer and conquering the towers and dungeons since they were kids might finally come true. Thinking about that caused him to fidget in line.
+
+I just want a skill that makes life easy. Please, gods, hear my prayer. No blacksmithing or farming. [Baker]!
+
+His mind ran back to when he had gone to the temple and given a small offering the day before. The priests had laughed when they asked what he was praying for. Helping his father work all those long days caring for sheep had taught him he didn’t want a job like that. The smell and constant noise had driven him crazy. Something indoors, perhaps a job crafting jewelry or even in a bank, would be okay if a bakery wasn’t an option.
+
+Most importantly, something without risk.
+
+A loud roar of cheers snapped him out of his thoughts. Someone just got the [Scout] skill! He didn’t recognize the boy up there, but Max could only imagine how jealous a few of the others in line would be. Too many people seemed to think a life of adventure would be grand.
+
+Letting his mind wander to take it off the call of nature that seemed to overwhelm him, Max thought about how each child had to work in different trades from the age of thirteen. Exposure to all these things was believed to give them a better chance of success and the skill they desired. Nothing had ever really piqued his interest until he met Nancy and tasted her pastries. Glancing up at Phillip, who was still celebrating, he grinned, remembering when it was his turn in the blacksmith's forge had come up. Being sweaty and dirty was not his idea of a good time, so he had always found a way to leave early and relax elsewhere.
+
+A push from behind came, and he turned. His best friend Caleb was smiling from ear to ear like a fool.
+
+“That guy is so lucky. The [Scout] skill can set one for life,” Caleb groaned as he pointed at the next person moving to the stage. “I don’t know that one. Do you?”
+
+Checking out who Caleb was talking about, Max didn’t recognize the well-dressed guy, but he knew it had to be a noble. The clothes he wore were far nicer than his. They were far nicer than most of the kids in line.
+
+A sapphire blue suit with long tails in the back and those shiny black shoes made it easy to point out the difference between haves and have-nots.
+
+“I’d bet he gets something cushy like the rest of them,” Max stated before groaning after hearing what the boy had received. “How the heck does that happen?”
+
+“Will of the gods.” joked Caleb as he whispered his reply.
+
+“[Administration] and [Banking]!” shouted the advisor once more to make sure everyone had heard. A huge grin ran across his face as he held the boy's hand in the air. The red robe that he wore almost matched the color of his face as he shouted.
+
+Thunderous applause echoed across the courtyard and street as the crowd recognized the rarity of two skills.
+
+“That’s like one in a hundred thousand,” hissed Caleb as he clapped his hands out of obligation. “Damn nobles! Always with the crazy crap, I swear the gods listen to their prayers more than ours, or something is off. It’s always like that!”
+
+Max bobbed his head as he saw the blond-headed teen raise his hands toward the crowd. Two skills were almost unheard of. Everyone believed different things about how it appeared certain nobles always got better skills or the occasional double skill. The truth was only the nobles seemed to know, and they sure weren’t sharing.
+
+“I guess we need to offer more to the temple if we want two skills,” mumbled Max as he frowned at Caleb. “That like sucks all the joy out of everyone else. Why not put that guy at the end of the line?”
+
+He knew Caleb was nodding as they turned to watch the last six before him wait their turn. He searched the crowd and saw Nancy by his sister's side. Her green eyes were watching him, and he smiled. The combination of her red hair and yellow dress almost took his breath away. He would have stopped there and stared at her forever if Caleb hadn’t begun beating on his back for him to keep moving. She gave him a wink and blew him a kiss. He felt a smile running from ear to ear on his face when he noticed the basket she held in her hand. She had made celebration treats!
+
+Please let me be a [Baker]! I’ll give twenty percent of all the money I make!
+
+Unsure if his prayer was even heard, his foot almost tripped over the steps leading to the stone podium in the town center due to his lack of attention and how his legs seemed to be failing as he clenched his pelvic muscles tightly.
+
+Caleb’s steady hand grabbed the back of his shirt, keeping him from falling over and looking like a fool before the entire town. Shaking his head, Max forced himself to focus. Now was not the time to think about eating desserts with Nancy.
+
+“You’re dancing like you're going to piss yourself or pass out!” Caleb snapped at him from behind.
+
+Looking over his shoulder, Max glared at him and saw Caleb start to chuckle.
+
+Caleb’s head motion forced him to turn around, and he realized he was standing on the base of the platform. Looking forward, he saw the five representatives watching and waiting to see who might be given a skill worthy of their time. The back four looked half asleep as they stood almost motionless in their red robes. Their faces were blank as they gazed at the back of the only one actively doing anything. Even with their expressionless faces, something about them screamed danger.
+
+An older man with maybe one hundred grey hairs on his head and enough wrinkles to prove he had seen a few things called out the skills as they were revealed from the shard. He would smile at every teen who came forward and whispered something before making them put their hands on both sides of the crystal shard.
+
+Each time, the shard would change colors before it finally settled on one shade of something, and then somehow, the older man would get a notification in his status screen, telling him what they had been given. Over the years, Max had seen him laugh, tell jokes, and even encourage the teen who had received a skill they did not want. The few times an individual had received no skill, he had quietly ushered them away to one of the four who were standing behind him.
+
+Turning again, Max smiled at his parents, sister, and Nancy, waving and cheering for him.
+
+“Please step forward,” the man informed him in a deep and precise voice. He flashed a toothy smile. “What is your name?”
+
+“Max Hoste,” he replied, his voice cracking and making his face flush.
+
+“No need to be worried, my boy,” the man stated with a wink as he motioned to the shard. “You have seen this done hundreds of times. Simply come close and put your hands on both sides and let's see what the gods have gifted you!”
+
+Taking a deep breath, Max nodded and took the two steps required to approach the shard. As he prepared to put a hand on each side, he paused, noticing the courtyard was quiet. It never seemed quiet when anyone else had done this.
+
+“The shard,” the older man whispered.
+
+Bobbing his head, Max snapped out of the fog he had been in and put his hands on the clear shard of crystal.
+
+It felt warm and smooth. Almost slick like ice and yet somehow warm like a fresh cake.
+
+The shard began to flash dark colors before turning black and staying the color of night with no light.
+
+Max glanced up from the shard, having never seen it this color before, and noticed the older man looking at him and the shard with a puzzled look. His eyebrows were raised, and one eye was cocked at him.
+
+The other four behind the old man had lost their blank looks and were now staring at him and the shard.
+
+If the courtyard had seemed quiet before, it was now like a graveyard as everyone waited to hear what this different color meant.
+
+“What does your status say, boy?!” the older man exclaimed. His voice was low but gruff and able to strip off bark off a tree when he leaned in. “What skills do you have?”
+
+Noticing the look on his face and how his two white eyebrows had become one, Max wasted no time checking.
+
+Skills?
+
+[Status Check]
+
+*****
+
+Max Hoste
+
+18-Year-old Human Male
+
+Level 1
+
+Exp 0/1000
+
+HP:  40/40
+
+MP:  20/20
+
+Stamina: 20/20
+
+STR:  3
+
+DEX:  4
+
+CON:  4
+
+INT:  4
+
+WIS:  4
+
+Skills:
+
+Baker
+
+Consume
+
+*****
+
+Max felt his chest suddenly become lighter than he could believe as he stared at the small status window he had summoned. It had been unlocked since he was thirteen, but nothing had ever shown up before besides the first two lines.
+
+Now, there were two skills listed! [Baker] and something else he had never heard of.
+
+What in the world is consume? Is that a skill to help him test food?
+
+Smiling, he considered how cool that would be if it helped him grow as a renowned tester of some kind.
+
+The sound of fingers snapping broke his shock as he saw old, spindly fingers before his face.
+
+“What skill does it say!” the man exclaimed louder as he waved a hand at those behind him.
+
+“Uh… it says…” Max trailed off as he watched the people moving toward him.
+
+Max couldn’t speak as his voice failed him. His mind was racing, and things were moving so fast. Why were those four coming near him? That only happened when things were bad.
+
+The man's face contorted, and he shook his head from side to side.
+
+Motioning to a woman standing behind him, he whispered in her ear.
+
+Glancing around the courtyard, Max realized everyone was staring at him and that his mother was crying. His dad was holding her back as she reached her hands out toward him and wept.
+
+His sister’s face was white as snow as she stared at him. Glancing next to her, he noticed that Nancy was not there. The basket she had been holding was upside down on the street, and some muffins that he loved were crushed under the feet of those near it. Scanning the crowd, he saw a patch of red hair bobbing and weaving through the crowd, leaving the street.
+
+Turning around, he saw Caleb looking at him with tears in his eyes.
+
+“What is wrong?” Max asked Caleb as his friend pointed behind him.
+
+“Unskilled! Unskilled!” The cry rose from the crowd, and Max turned around, confused as to why they would say that. As he turned, he saw the four people behind the older man moving toward him.
+
+“Unskilled! Unskilled!” the cry echoed again all around him.
+
+“Do not resist, and they will not strike you down before your family,” the older man stated as the men and women surrounded him. “If you fight, your family may die as well.”
+
+Glancing at the older man, Max saw rage and anger burning in his eyes. It was like he had done something evil to this man every day of his life to earn a look like this.
+
+Looking at the other four, he saw they each wore the same expression as the two on his side grabbed his arm and yanked him in the direction away from the crowd, his family, and friends.
+
+“Why?” Max shouted at the four who were dragging him away. “I have a skill! Why…”
+
+A fist, harder than any blow he had ever received, hit his jaw, causing his knees to buckle, and the world began to shimmer.
+
+The woman who had struck him spoke in a hushed tone as they yanked him along.
+
+“Put him in the cart, and we will deal with him once we are gone.”
+
+The cart she was talking about was not that far away, and before they had thrown him into it, he was already lost to the looming darkness that beckoned him.

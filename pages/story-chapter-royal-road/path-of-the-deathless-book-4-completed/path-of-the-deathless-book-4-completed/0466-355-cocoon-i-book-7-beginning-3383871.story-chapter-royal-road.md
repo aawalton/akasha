@@ -1,0 +1,237 @@
+---
+id: f15bc366-a611-594b-8b43-913c52f31866
+page-type-slug: story-chapter-royal-road
+title: "355 Cocoon [I] [Book 7 Beginning]"
+slug: 0466-355-cocoon-i-book-7-beginning-3383871
+partOf: path-of-the-deathless-book-4-completed
+position: 466
+ownLength: 4900
+unit: words
+publishedAt: 2026-05-11
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3383871/355-cocoon-i-book-7-beginning"
+royalRoadId: "3383871"
+---
+
+The project has failed.
+
+Totally, irrevocably, indisputably, it has failed. It has failed in every way it could possibly fail and has given me nothing of value for the time and resources invested in it, but heartache, trouble, and misery, as well a potentially undying, eternal foe who will stop at nothing to devour my soul, spit it out, stomp on it, and torture me for an indeterminate amount of time before its mind finally frays into nothingness and then afterward collapses into a ball of grief that wails its misery and lamentations across all Integration.
+
+What an unfortunate, wretched outcome for so much labor. There must be something about the gods I don't fully grasp. What is it? What eludes me? I understand their divine nature, or at least I assume I do. The foundations of their power are shaped by faith. Divinity is a magical attunement, but decided upon the structures of conceptual lore channeled into a specialized soul that the System has designated as an authority over a concept—a sort of demiurge that modifies and alters our relationship to a romanticized idea.
+
+I managed to change the god's Domain several times by targeting his faithful and altering the way they saw him. I managed to evolve his Domains and even turn his alignment from a well-meaning God of Nature to a hateful God of Fire and Industry. My control over him was almost ontological.
+
+So why didn't this transformation work? Why was I unable to convert its power over into the Outside, thereby separating the System's influence but letting it retain its source of matter? Why could I not create an altered zone of control all my own, a sort of sub-Integration severed from the System's power but bearing all its characteristics and further imbued with the ability to defy natural law?
+
+Was it the Eldritch Entity? No, I had even more control over that. I was its progenitor, after all. I decided how it grew, how it expressed itself. It was, literally, the embodiment of a faith-infesting parasite that defied paracausal rules.
+
+If there is a more perfect being for the task of infesting the flesh of a god, I don't know what it would be. I cannot even begin to imagine.
+
+Why, then, did what evolved from that union break free of my will and bind itself fully to its Avatar? Why did an act of System-forced parasymbiosis on the divine mortal it chose as High Priestess and anchor follow?
+
+Why?
+
+I don’t understand.
+
+Why!?
+
+—Udraal Thann’s recovered notes
+
+355
+
+Cocoon [I]
+
+Longinus was screaming.
+
+His Avatars were screaming.
+
+Every single one of his faithful was screaming.
+
+They had all collapsed and started to wail in synchronized agony at once. And Veronica Chandler had no clue as to why.
+
+***
+
+5 minutes prior…
+
+She was personally overseeing the eradication of House Springbrick when they came searching for her. The boy they sent was frantic but initiated—he barely batted an eye at what Veronica's cleaners were doing. Instead, he sought her out directly, his heart and mind consumed by fear, but not toward her. Well, not entirely. And what little terror he reserved for her was overwhelmed by another happening: something he was tasked with letting her know.
+
+“Councilwoman!” the boy wheezed. He licked his lips as he struggled to assemble his words. Nearby, a loud, muffled scream came from the patriarch of House Springbrick, who howled for the unfamiliar boy to come to his aid. The boy, an Assistant-Interrogator of the Inquisition, ignored the last surviving member of the House like he wasn’t even there.
+
+Inside the patriarch's personal study, they had the man magically restrained to his aged oak chair. He was wrapped by pitch-black mana, a gravity spell holding him in place, preventing him from breaking free or exhibiting any kind of defensive moves. There was only a small gap in the mana, just wide enough for someone to deliver an injection, and that was what one of the cleaners did. The masked woman of the Path of the Alchemist jammed an adamantium needle into the patriarch's flesh and pressed, emptying the substances within her vial. Soon, the man would suffer a sudden embolism in the heart and the mind, and his organs would undergo spontaneous necrosis right after.
+
+Veronica did not eradicate noble Houses lightly. Springbrick was not a great House, but they were known, and their absence would be regarded. As such, proper precautions needed to be taken and excuses put in place to prevent any unwanted interlopers from sniffing about.
+
+This made an engineered plague the ideal solution.
+
+With a single injection, they could make it seem like House Springbrick was consumed by an unanticipated virus. That would give Veronica authority to quarantine the house as well. The virus only had a half-life of a few days, but it was extremely lethal. The collateral damage would be within acceptable limitations. A few would perish, but that would sell the illusion that this was a proper virus.
+
+But again, she took no pleasure in this. She didn't truly possess Anthony's natural coldness. She had to dedicate part of her will to hardening her heart, and the patriarch's pitiful screams made her stomach turn despite her age.
+
+But it had to be done. All forty members of House Springbrick needed to die, for some of their number had made a pact with something from the south during one of their expeditions, a creature Veronica didn't fully understand. It traveled through blood and bodily contact. She'd managed to intercept those House Springbrick had infected, and she had actually captured a sample of the creature before it could recede. It was intelligent, almost vampire-like in its haemokinesis, but rather than being a thing that could wield its own biology, it seemed to dwell within the blood like a living haemophagic network.
+
+If the Inquisition's inner ministry had been lacking at all, then the Republic would have likely undergone one of the most catastrophic calamities in the past twenty years. At the very least, the entirety of the nobility would have been infected, considering how often the nobles ate at the same soirees and exchanged bodily fluids in all their sordid manners within and outside of marriage. The only way she could contain that would be through fire.
+
+And if there was one thing Veronica hated more than purging an entire household of people down to the infants, it was burning a large portion of her Republic to atone for the mistakes of her inattentiveness and the cowardice of a single fool.
+
+House Springbrick thought their betrayal hidden, that their new master was unknown to Veronica. Idiotic more than naive. Though the Stolen Throne's birds were the foremost spies and intelligence brokers on integrated Earth, that didn't make her own network any lesser, especially with all the favors the Dragon Brokers owed her.
+
+She directed a final glare at Simon Springbrick, for it was his actions that condemned the rest of his house to share such a fatal end. “You should have accepted the inevitable as a Pathbearer and enjoyed the time you had and let yourself pass on, Simon. Instead, you signed yourself over to a hostile god as a slave, and then you went and promised him your wife, your children, your children's children, and your brothers' and sisters' children, and the children of those, as well as four separate automata pattern assemblies connected to your house. Now your House is dead. All you hold dear is ash because of you. Damn you for this. I was looking forward to an easy day of arguing with idiots about economic policy.”
+
+Simon Springbrick let out a final gasping moan as the magical virus began taking effect in his cells. Even though his words were incoherent, she understood him perfectly. He was begging, even now, down to the last breath.
+
+Veronica had come close to death before. Had known its chill. That frightful unknown that waited in the nebulous eternity beyond life. But as much as conceptual oblivion shook her, she still had her pride, so long as she was alive. She was a Pathbearer, no matter what fate might fall. She held her composure. It was the last choice she would make.
+
+Perhaps nothing mattered in the grand scheme, but she was not the grand scheme. She was Councilwoman Veronica Chandler. She would die doing all she could, until there was no time left. Until she had no words left to speak.
+
+The last surviving member of House Springbrick foamed at the mouth and relieved himself a final time. Veronica waited until she heard his death rattle before she addressed the young Assistant-Interrogator. “What is it? The Inquisition sent you. I know this; you don't need to explain yourself. I can read that fear on your face. The Head-Inquisitors of the interior ministry wouldn't have told you where I was, otherwise. So, what is it? Tell me.”
+
+Despite her reassurance, the young man still stammered and swallowed. He struggled to compose himself and properly deliver the message, and she stared at him blankly, trying to keep the weary anger off her face and lessen his burden. “It's Longinus, Legend-Councilwoman,” he finally choked out.
+
+As soon as he said that, her composure crumbled. Her pitch-black anger bled out from her eyes, and a growl escaped her, one that made the building tremble. Her rage was made palpable through a single utterance: “Of course it's him.”
+
+Her sheer frustration became material as the surrounding wood, glass, and stones began to groan, crack, and shriek. Her words carried the weight of her will, and her will wanted something to break. Yet, so fine was her control over the skill that she avoided hurting the Assistant-Interrogator or either of her two cleaners in any way. The boy, however, was still shaken, taking a step back as if the Councilwoman had shed her skin and turned into a monster.
+
+And perhaps she had. She showed him a taste of her true capabilities. When fully unleashed, Veronica Chandler could give a small apocalypse a run for its money. That didn't make her more powerful than a god, but words and intentions traveled far—and hers went further than most.
+
+She ended her rage-filled outburst before it could fully begin and let out a resigned sigh. “Okay. Out with it. Tell me what that philandering, depraved fool did this time. And before that, spoil me about the victim. Tell me if the one he hurt was noble or common blood.”
+
+“I-it’s not that. I… He’s screaming, Councilwoman! He’s hurt! Hero-Avatar Cassius collapsed earlier. As did Councilman Hornhowl. It seems that Longinus tried to manifest in both of them at the same time. They were enwreathed by his glorious glow, but they screamed in tandem the same words, the same phrases, as if Longinus was speaking through them, and that has spread since then, to even his ordinary followers! It's still spreading across the entire Republic! Everyone who has devoted themselves to the Wanderer has been affected by his… his state!”
+
+A yawning chasm opened in Veronica's stomach, and she felt her organs plunge far, far down in a lasting descent with no bottom. The cold dread that followed was heavy and painful. She was used to cleaning up after Longinus—had taken special measures to ensure he kept his tastes satisfied to keep the people of her Republic guarded from him when one of his more ravenous moods took hold. Despite the luxuries, experiences, and consorts she provided him, however, there would be times when he slipped his gilded cage and went forth to adventure. In times like that, there were protocols to be followed.
+
+Longinus was a dangerous creature, but also a predictable one. Knowing his habits and tastes made him easy to track, and even easier to anticipate. But cleaning up after him was always a nightmare.
+
+Longinus didn't understand what "no" meant. Most of the Ascendants shared that flaw in some ways, but where Kathereine would sing to you until your emotions and thoughts betrayed you and your soul wailed for her to take and enslave and keep you as a pet or even a toy, Longinus liked the chase with every bit of darkness that entailed.
+
+More than once, Veronica had to dispatch substantial bribes to noble families after one of Longinus' episodes. One time, the entire household gained prominent government positions from these episodes. On the surface, it seemed like they struck gold. But those who were touched by Longinus usually fared poorly, mostly because Longinus liked to break what he couldn't keep, and if he kept you, he would grow bored with you, usually after he broke you, regardless.
+
+But Longinus had certainly never broken down screaming before, and most certainly hadn't tried to inhabit his Avatars all at the same time. He didn't even like spreading his divine mana across countless bodies, usually choosing a singular form, because that was how he enjoyed experiencing the world. His Avatars also mattered little to him because he regarded them as little more than skin suits he could swap in and out of, based on novelty and mood.
+
+But with his suffering sweeping across entire sections of the world, that meant something else was at hand. Something terrible.
+
+She addressed the Assistant-Interrogator no longer. Instead, she reached out to her own Ascendant. One that was bound to her by more than divine connection. "Grandmother! What is this? What is happening? What is the meaning of this? What have you done?" Veronica didn't bother with greeting or tact. She just wanted to know what was happening. Yet the response she got both confused and unnerved her.
+
+“Hm? What are you speaking of, girl?” Kathereine sounded distant and absent-minded, and Veronica didn't need to indulge in any further dialogue to know that her grandmother didn't know anything.
+
+"Longinus. He's suffering from something. He is screaming out through his Avatars, all of them, and his faithful as well. Have you felt anything? Have you done anything?"
+
+And though the Songbringer was a social god, a god of mystique and charisma, even she couldn't mask her overwhelming surprise. “That cannot be. I was speaking to him just…” She trailed off as she sensed something. “He is in pain. He is in so much pain. There's something wrong with him. Wrong with his… Divinity. There's something inside of him.”
+
+"Inside of his Avatar? Which one?"
+
+“No, girl. Inside of HIM, inside of his Domain, there's something there that's not… divine.”
+
+The Songbringer also wasn't a god to reveal when she was frightened, even in the direst of circumstances, but Veronica tasted her grandmother's fear at that moment regardless. "Then what is it, Grandmother? If it's not divine, what are we dealing with?"
+
+But Kathereine had nothing to offer her. The Songbringer herself didn't know. Instead, she descended upon the body of her granddaughter and attuned her to Divinity. Suddenly, Veronica could hear Longinus, and his screams were so loud they seemed to shake all existence.
+
+The Ascendants had undergone apotheosis together. As a pantheon, their godhoods were interlinked, or at the very least, neighboring one another, and their Domains were closer than most.
+
+That proximity proved its use today as Veronica heard Longinus cry out in two voices: one begging for death, euphoric at his final release; the other praying, bargaining, cajoling, and threatening to do anything and everything to be granted another microsecond of life.
+
+Most disturbing of all, Veronica recognized that first voice. It was the voice of Longinus the man, before he became a god, before the divine reverberation entered his every syllable.
+
+“He's fracturing,” the Songbringer gasped. “The skill he is entombed in is breaking and changing. The person he was has spilled over into the Divinity constructed around—”
+
+Kathereine's explanations were silenced as a rumbling noise beyond anything Veronica could describe smashed into them and briefly unlatched both soul and consciousness from Veronica’s flesh.
+
+For a moment, Veronica was… nowhere. Not within Integration. Not outside of it.
+
+Then she was wrenched back into her body, and a cold sweat broke out on her face.
+
+She was a Legend of Rhetoric. Her words could be apocalyptic if she willed them to be. But the voice that struck her made her feel like something less than an insect.
+
+What hit her was enough to rend universes clean of life. What hit her was a will above wills, even a broken part of what it used to be.
+
+A reality-shaking cry of discord was issued forth in the slumbering throes of a corpse, a Higher Being, slumbering, dead, deep in the Abyss.
+
+It ended as soon as it began, but in its wake, Veronica was left trembling as much as her grandmother.
+
+“This cannot be happening!” Kathereine screamed. “This is not possible! This cannot be. This can't… This cannot be, Veronica! The Starhawk, he has not reached the Deep Abyss! He has not brought the other Phylacteries there. This cannot be him! It's impossible!”
+
+But while the Songbringer had her breakdown, Veronica subdued the dread inside and began thinking. "This is not the Starhawk, nor Roland. It's not their way to see so many people across the Republic condemned to suffering. This is something else entirely. Someone utterly reckless and with no regard or respect for our nation."
+
+And suddenly she had a suspect. But even that suspicion came with its own doubts. She had spoken with the boy mere days ago. If this was him, then how did he manage to do it? He was powerful, yes, but the kind of raw, unrefined, stupid, bullish power possessed by an over-favored child.
+
+She could theorize about that later. For now, she had a task at hand and a problem to resolve. “Attention, all citizens of the Yellowstone Republic!” Her voice exploded out from her, detonating like one of those old City Cracker bombs from before the System's time. Her cleaners were swept off their feet. The Assistant-Interrogator was flung against the wall as his ears and eyes ruptured, but he would live. This was her restraining herself while also broadcasting her words to every living soul in the capital and then some. “This is Councilwoman Veronica Chandler. I declare a state of emergency. Curfew is in effect right now.”
+
+With a thought, she narrowed down the targets of her command to a fraction of before. “Prismatic Guard, attend to your duties. Enforce my order. Council, we are to convene this moment. Whatever else you are doing, it comes second. I repeat: CONVENE NOW! I will see you promptly at Flamecrown Castle.”
+
+And with that, she reached out with her Dimensionality and teleported the entire Springbrick Estate with her—along with its eight-square-kilometer meadow.
+
+With the arrival of this new crisis, the smokescreen of a virus was no longer necessary, and now the collateral damage could be waived since she had a new and potentially unrelated matter to blame this on.
+
+A critical skill every Councilmember learned was making use of one crisis to solve another.
+
+But that line of thinking led her to connect the Tarrasque with her wayward Deathless, and the stress inside Veronica grew three sizes that day. How did that fucking child even do this?
+
+***
+
+Attention: The Dreamtaker has found a host.
+
+(Eldritch Evolution Reached)
+
+Uva stared blankly at the alarming notification for a half-second before she regained control over herself. Her geometric shortsword was still buried inside Longinus' body, along with half a hundred other Aberrant Fractals. The Ascendant’s centaur-like form was beyond mutilated. His limbs had been sheared down to nubs. His incandescence was spilling out in a broadening pool of mana. His skull had come apart halfway through his thrashing. Already cracked from earlier, the final bit of damage she inflicted had caused him to go over the edge. The flesh of his face hung loose at a furled angle, like the petal of a flower bending away from its foundation. Only a scant few sinews connected it to the bone of his skull, and they were on the verge of snapping as well.
+
+But Longinus was still alive. Utterly broken, incapable of fighting, but still alive. His whimpers continued. His screams were deafening, and there was another voice in the undertow whose relief became the sweetest thing Uva had ever known.
+
+Someone had been trapped inside Longinus, or perhaps a portion of the man before the god had been freed, and he loved her. He loved Uva, Shiv, Adam, and everyone who'd fought to end his misery like they were kin, more than kin, like they were his saviors.
+
+And they were. They delivered him from a nightmare that lasted countless eons within the Fairwoods.
+
+But there was another presence within Longinus, one Uva had deposited using her Dreamtaker's Gaze skill in an attempt to quicken his demise. A swirl of colors beyond this reality hardened and formed an egg, a feathered egg that had eyes blinking out from its sides, little hands grasping, fingers curled as if beckoning Uva to join what waited within. A series of white, plumage-coated tongues slithered over the egg, creating a glistening outer layer that smelled like pears or that sweet fruit Shiv had once found in the depths. But the egg was also translucent, allowing her to see what lay within. Instead of beholding a monster, she saw the shape of a man. A man crawled in on himself, a man so suffused with divine mana and now eldritch energies that he was beginning to shiver and change.
+
+“Georges,” Uva breathed. Her eyes widened. This wasn't good. She'd been trying to finish off Longinus, not contaminate his Avatar as well. Reaching out using her Psychomancy, she tried to attach her mind to Georges', but when her mana greeted the egg, it couldn't pass through. There was a layer of magical resistance so dense it was like trying to drive a strand of silk through a wall made from steel.
+
+“Blood-cursed Outsider!” Uva snarled at her first eldritch patron. “You come back to me now, after months of silence, just to make problems?” Her hissed words provoked no reactions. The Dreamtaker was still there. Uva could sense the Eldritch God, but the Dreamtaker was also changing and had gone dormant once more. She wasn't slumbering so much anymore. She could hear everything Uva said, and her mind was active, but utterly occupied with a single event: her upcoming metamorphosis.
+
+Something Uva had inadvertently caused when delivering her final blow.
+
+And it wasn't just the Dreamtaker that was evolving. Uva saw two separate Skill Evolutions and one Skill Fusion notification appear before her eyes. She dismissed them for now, even as she felt her body twist and writhe, even as a rush of changes passed through her. Her Aberrant Fractals began to vibrate and expand. They turned winged in strange shapes, becoming more than just a series of interconnected pieces that distorted space and split through matter. She ignored that for now too.
+
+There were other, more pressing matters she needed to handle before she could take stock of her gains.
+
+The first thing she did was call upon a few of Longinus' Dimensionals. Three wind elementals arrived, their humanoid forms shaped from tumbling vortexes and pale whirlwinds. She sent them a mental command to carry Longinus using their Aeromantic powers. A cradle of air was formed around the downed god, and when they tried to pull him up, the egg over-formed when mixing outsider essence with divine mana, came free of Longinus's carcass. At once, the god stopped whimpering, stopped screaming, stopped making any noise at all.
+
+Instead, the remains of his body slumped off, sliding to the ground in suppurated chunks of gore.
+
+Uva looked away before the disgust could overtake her. She'd seen some deaths and drunk in more horror than she would have liked, but the Wanderer’s remains bothered her in a way she couldn't fully elaborate.
+
+She left the remains of a god's body abandoned in the ruins of his kingdom and went to retrieve the rest of her companions.
+
+Shiv should have been dead. Anyone else would have been dead. But her Dear Brute had more than a passing relationship with death and thus clung to life with a grip few could match. Despite all his wounds, despite the horrific condition of his soul, he was still trying to get up and was on his arms and knees by the time she got to him.
+
+There was a massive hole in his chest, and his Harbinger flickered intermittently around him, its golden shell fracturing, on the verge of coming apart, yet still holding together—somehow, some way, defying the end.
+
+Uva said nothing at first. Instead, she stretched her arms wide, expanding them into a massive spade-like form, and she picked Shiv up before bundling him into her torso. The action was uncanny. He was far larger than she, but her body elongated in ways that defied physical norms. She stretched herself wide and carried his weight with little more than a grunt.
+
+“You know, you don't just look as big as a small building. You weigh as much as one too.” She directed a psionic quip to lighten his burden; he let out a brief, pained laugh as his hands clutched her tight.
+
+“Did you… Did you get him?” Shiv wheezed through a haze of suffering.
+
+“I did. At least I think I did.” She grimaced at the egg. “It’s complicated. Longinus is in no condition to fight back. We have won, but the…” She cut herself off. There was far too much to explain, and Shiv was not in any kind of mental condition to process her words. “We're leaving.”
+
+“Georges…” Shiv slurred.
+
+“I have him,” Uva answered, unsure if it was truth or lie. And she took hold of the Culturist and Adam as well. The orc was in a meditative trance. Despite all the carnage happening around him, he looked so tranquil it felt somehow wrong to disturb him. Uva bundled him up as well, stretching herself even wider. She hadn't had the time to truly experiment with her Non-Euclidean Morphology Skill, and now she got some in-field experience. It felt like she could bend and distort her body a great deal more than she'd thought. Her person expanded into a far larger blanket with two huge knots protruding from her coiled body.
+
+She was like an ever-growing snake wrapping itself around prey after prey, yet instead of trying to feed on them, this simply made it easier for her to carry them away, as keeping them bound to her body made it possible to walk without difficulty.
+
+Adam was the lightest of her burdens, but she barely got to him in time. He was already on the verge of a fatal seizure. His eyes were rolling into the back of his head. His body was spasming, his legs kicking out and tensing. The pre-Legendary skill he possessed was driving him to the brink. Her thread pierced through his mind, drove itself deep, and wrenched him toward unconsciousness. She didn't bother trying to handle his Awareness. Even with her stacked consciousnesses, the burden his Legendary skill inflicted was substantial. She would endure it far better than he could, but she doubted that she could handle his Haunting Omniscience nearly as well as the Culturist.
+
+She picked the Paragon up into her arms as if a mother lifting an infant from its crib. Adam let out a pained moan, and Uva shushed him. “You were a marvel, Adam. A marvel. Sleep now. Sleep now. I have you.”
+
+Her words were further laced by her Psychomancy, and she pushed him even deeper into his unconsciousness. How she was going to protect him from his Legendary Skill down the line, Uva had no idea, but that was a problem for later.
+
+Escape came first.
+
+“Halt! Halt! Stop running!” a shrill voice cried out from above. Uva ignored the speaker. Telepathically tapped into Longinus' dimensionals, she directed them in a frenzied attack on Princess Plum Blossom’s personal guard, and the resulting chaos gave her a smokescreen.
+
+But it wasn't perfect. The Bread-Knight Shiv had returned to the Summer Court and then humiliated was coming after them, because his grievance ran deep, and he had a more personal reason to avenge himself than anyone else. As such, he only had eyes for the Deathless, and right now, the Deathless was wrapped in the body of a rather odd-looking Umbral who was fleeing with a red-maned man in her arms and two large protrusions poking out from her skin.
+
+“I told you to stop running!” he screeched. “In the name of Princess Plum Blossom's glorious hunger, stop!”
+
+Uva didn't stop. Instead, she took to the air, carried aloft by the wind dimensionals that guarded her. As she did that, she summoned forth more Fractals, using all the trauma she'd sustained throughout the battle to empower them, and directed them to delay the oncoming Bread-Knights.
+
+Unfortunately, Uva should have taken note of her earlier skill evolutions. In her haste to resolve what she deemed a priority, she neglected the small matter of her soul flourishing.
+
+As such, she was taken by complete surprise when she tried to summon some fractals, but ended up breaking herself into pieces instead.

@@ -1,0 +1,121 @@
+---
+id: 0831fa8b-6706-560c-97b9-e6caf981d764
+page-type-slug: story-chapter-royal-road
+title: "Chapter 76"
+slug: 0076-chapter-76
+partOf: savage-divinity
+position: 76
+ownLength: 3797
+unit: words
+publishedAt: 2016-06-03
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/73995/chapter-76"
+royalRoadId: "73995"
+---
+
+The Demon Formerly Known as Vivek lunges at me before I can react, the distance between us closed in an instant, its sharp talons scratching my face before Akanai's heavy thrust sends it away. Dragging myself backwards, my breath catches in my throat as my heart hammers away at my chest, threatening to burst out.
+
+“Leave now!” Akanai snaps at me as she engages the demon, a frenzied whirlwind of motion as she moves, dancing gracefully around the creature as she keeps her range, the two of them clashing again and again, a mighty battle between woman and Demon. Her weapon cuts through the bone as if it were water, moving about as it slices away at the creature, her power sending it flying when it comes too close, but I can see that she is near exhaustion. I need to find someone to help her.
+
+“We can kill the Demon, brother, earn ourselves honor and glory.” The words sound in the back of my head, faint and muffled as I scramble away, cradling my broken left-arm as I move across the muddy field, running towards the closest soldiers. “You need to free me though, whatever you did is keeping me from helping you like I have before.”
+
+Shit. Am I still dreaming, or am I really hearing voices? I should just ignore him. “I don't even have my sword, what the fuck am I going to kill it with?” There goes that plan.
+
+“The strength of the ancestors that you have experienced is not even a twentieth of what they can offer. Set me loose and I will show you as we tear the White One to pieces.” As I close in on the soldiers, I see their slack faced expressions of contentment, looking ridiculous as they stand there, unaware of the happenings around them. I hope I didn't look that stupid, and if I did, that no one saw.
+
+Grimacing as I look around for someone who isn't catatonic, I bite the bullet and ask, “So what would I need to do?” There are more corpses as I move away, and I shudder at the memory of the Demon consuming the corpses. I was lucky that the Demon didn't eat me while I was off in dreamland.
+
+“Set me free, let me take charge. I will show you our true strength and we will be praised by all.”
+
+Fuck this moron. “Yea, I'm asking how, you idiot.”
+
+His silence is overlaid with the sounds of fighting, Akanai's struggles against the Demon, clashing and stomping close by and out of sight. “... I don't know. You've kept me in check, not allowing me to fully come forth. This has not been intentional?”
+
+“No, man, I literally found out about you few minutes ago.” Let him out, let the confident, brash, arrogant, idiot out. It's all mental, I just need to unleash the beast within.
+
+“Then I am unsure about what we can do.” He sounds hurt and saddened, a sulky child, railing against the world.
+
+“Shut the fuck up! I'm working on it.” Taking a deep breath, I close my eyes and picture the other me, standing with confidence, proud and unafraid, the glint in his eyes promising violence as his fingers tap impatiently at his waist where my sword is usually strapped. His body language suggests power and impatience, brutal and savage in his motions. He stands behind me in my mind, and I step aside, allowing him freedom. “Go.”
+
+My eyes snap open and a low chuckle rumbles in my chest. It worked. Without direction, my body moves, grabbing a fallen spear as I trot back towards where Akanai and the Demon are engaged in a deadly duel, my broken arm no longer throbbing with pain but still hanging uselessly at my side. My skin goes from a light itch to a fiery swathe of stinging as I pick up speed, charging at the Demon, running full tilt with the spear ahead of me. The Demon struggles with Akanai as she moves about the field, her weapon humming in the air as it chips through the chitin of my adversary.
+
+A bestial roar escapes my throat as I close in, moving faster than I thought possible, and my spear impacts upon the Demon. My weapon crumbles under the stress of the collision, and my body smashes full on into the Demon coming to a crashing halt, the Demon unmoved by my attack. Turning to stare in disbelief as I stagger back, the Demon swings its arm, a slow, casual backhand that breaks bones and sends me flying away into the dirt and mud, sliding to a slow stop.
+
+The pain registers all at once as I scream pitifully, my other self fleeing into my mind, leaving me with the fruits of his labor, searing agony radiating all over my body. Spitting out teeth, blood, and dirt, coughing as I try to clear my airway, I groan and pray for sweet oblivion. Frothy blood bubbles up from my punctured lungs, every breath feeling like a sharp saw is grinding at my chest, and I wait for death to come as I lay face first in the mud, trying to scream, but lacking the breath to do so.
+
+Disappointed!
+
+That fucking asshole. 'Tear the Demon to pieces' he says. Bare hands my ass, he got beat like a redheaded stepchild and left me holding the bag.
+
+Well, that's what I get for listening to the voice in my head. That should have been obvious to me in the first place. Well whatever, I did my best. Time to re-roll.
+
+I actually hope I don't reincarnate again, I hope there's a heaven of some sort, so I can meet my parents again, learn what they look like. I should thank the Demon for showing me that scene, real or imagined, the memory of their embrace fills me with warmth, the pain melting away, and I hear Mom's words one more time, as if she were holding me, whispering in my ear: “You're not a quitter.”
+
+Clarity fills my mind, the words resounding through my head. I am not a quitter. That is my strength, I persevere where others would give up, endure where others would break, otherwise I would have died countless times again. My old family will have to wait, I have a new family here, and I am not ready to leave them. This pain is nothing, these injuries will not keep me down. This isn't just about me, if Akanai dies, then there is no one else to fight the Demon. One step at a time. I just need to heal myself. Simple enough. Just reach for Balance.
+
+The Energy of the Heavens leaps at my command, wrapping around me, a familiar embrace, warm and soothing. Snapping my eyes open, my body spasming from coughs, the blood being forced from my lungs as my injuries slowly begin to heal. Pressing my face into the dirt, I prop myself up and struggle to my feet, taking stock of my injuries. Both arms broken, my chest caved in, more bruises, internal injuries, and abrasions than I care to focus on, but my legs are working. More or less. Next step, find help.
+
+Limping away slowly, I move across the field as I focus on keeping myself alive, a dozen streams of chi connecting blood vessels and keeping me from bleeding to death. My right arm is in danger of sending my body into shock, possibly even shutting down my kidneys from the crushed tissues, and with a thought I cut off all of my body's support past my shoulder. Better if I could literally cut it off, but this will do for now, buy me an hour or so, plenty of time.
+
+My chest heaves as my single working lung burns with exertion, powering my broken body past the frozen soldiers, to where I see a line of roosequins and Sentinels, all frozen just like the soldiers. There is no one else alive around, and I stumble towards them, meter by meter, scanning their faces for someone who can help. There is only one person I recognize, Dagen, who sits atop his roosequin, and I stop in front of him, staring at his face. He looks intimidating, a subtle shift around his eyes the only sign of conflict in his mind. I don't feel so bad for wallowing in the dream for as long as I did. Even Dagen can't fight happy memories. Taking a deep breath, I scream at him the best I can, a feeble, cracking shout, “Wake up!”
+
+There is no answer to my plaintive cries, no response from anyone save for goofy grins and vacant expressions as I crash into Dagen with all my might, trying to wake him from his stupor. Fuck it, let's go for broke. Leaning forwards, I bite down on his meaty wrist, hoping the pain can wake him, unsure of what else I can do. As my teeth touch him, a jolt flies up my jaw and into my brain, sending fresh waves of pain through my body as I reel back and fall to the ground, writhing in agony. What the hell just happened?
+
+Blinking groggily, I stand gingerly, swearing under my breath as I lift myself up from the grass. My legs give out under my weight, and I stumble forwards, falling to my face, my hands stretched out in front of me, stopping my descent as I kneel in the tall grass, the fresh scent of spring wildflowers in the air. Pushing myself to my feet once again, I look around at a sea of color, a beautiful, picture-perfect meadow that surrounds a lovely, quaint courtyard manor. I guess this is Dagen's dreams? My body is whole and uninjured, and with nowhere else to go, I walk towards the manor.
+
+The scene shifts and Lin stands before me, holding our two daughters, but I brush them away with barely a thought, returning to the meadow. I'm through with dreams. The sound of children's laughter greets me as I stand in the doorway and watch as two beautiful children, no older than five, play in the dirt, while Dagen lays upon his stomach, playing with them, his gleeful expression covered in dirt and grime. His hair is combed and groomed, tied up in a bun, his long beard trimmed and neatly braided, flung over his shoulder to keep it off of the ground. A lovely woman sits nearby, playing a stringed instrument as she watches, dressed in silks and jewels, her hair magnificent and elegant, an enchanting smile upon her face. The details are clear and crisp, the plum-tree in full, pink bloom, the clear pond with its jumping golden fish, the intricate detailing in the woodwork of the door, the clear notes of the instrument, it all leads me to believe that this is a true memory, something he experienced before and not a construct of his mind.
+
+These are Dagen's memories, a perfect little family, what he dreams about. See that, other me? I'm not the only one with 'meager' dreams, there's nothing better than family. While there are a few inconsistencies that I can spot, they are not jarring or obvious like mine. Some of the flowers are impossible to grow, the color pattern on the birds incorrect, the bird calls on repeat, but still Dagen is engrossed in the illusion.
+
+He looks younger here, without the weathered skin or hard look, his eyes merry and light, his clothes of high quality materials and craftsmanship, giving the air of a young scholar and not a veteran soldier. The difference of a few details and the transformation is so great I can hardly believe that it's the same person. He looks so jubilant and carefree, I almost want to leave him be, but I can't do that.
+
+With a thought, I dismiss the memory, and wait for the world to come crashing down.
+
+…
+
+The sun continues to shine as the children remain at play, Dagen directing them as they dig and toss dirt, the woman continuing to play on her instrument, the birds chirping as they hop about the tree.
+
+Hmm.
+
+Didn't work. I guess I'm not all-powerful here. Maybe because all of this belongs to Dagen?
+
+Well... Fuck. What do I do now?
+
+Hesitating, I continue to watch Dagen's happy life as he plays with his children, his carefree and joyful laughter taking me by surprise. I don't really know him that well, but from what I've seen, he's rarely laughing outside of battle. The man loves killing Defiled, sweeping them away with his long-handled hammer, leaving them a bloody mess with each strike. Outside of battle, he's taciturn and strict, always willing to help with training, but never too gently, a wry smile never far from his face when he beats down another sentinel. I like the man, and seeing this side of him makes me like him even more. He seems like a good father, and looking at his clothes, it seems he once led a very different life. I wonder what his story is.
+
+Finally, unable to delay any longer, I clear my throat, attracting his attention. Dagen looks up at me and his smile freezes, as does the world around us, darkening for a split second. Flower petals fixed in place, a single note hanging in the air, his children and wife rigid and unmoving, the beautiful, bright veneer of this untainted memory is broken. In an instant, the world changes around us, the walls broken and burning, the grass stomped flat and upturned, the tree broken in half at the trunk. His wife and children lay dead, together in the courtyard, pierced with blade and spear, their bodies and clothes in disarray, the finality of death upon them.
+
+Only for an instant. Then, the children return to digging in the dirt, smiling and laughing, the melody continues to play, the house and garden all pristine and vibrant. Dagen continues to lay there, looking at me with a mixture of despair and resignation, the pain clearly stamped upon his face as I realize why he could not leave on his own, why he had been so entranced by this memory. An icy hand grips my heart as I share in his pain, knowing that the dream would have seemed so real to him until the moment it came crashing down, that he now had suffered through the loss of his beautiful family a second time.
+
+Swallowing the lump in my throat, I march over towards him, holding a hand out for him to grasp, as he did for me so many times during training. “You can't be lying around, Sentinel. There's a war to fight and enemies to kill.” After a long pause, his face unreadable, he nods at me before accepting my hand. He kisses his children on the forehead, and walks over to his wife, kissing her upon the lips. He speaks, but I close my ears and divert my attention, allowing him a moment of privacy. After a few heartbeats the world shatters around me like shards of glass falling to the floor, and we are left in the void once more.
+
+My eyes open and I am once again standing on the battlefield, Dagen's wrist in my mouth as I stare at his confused and angry expression. My legs quiver before giving out, and I stumble, falling to the ground. Grabbing me by the scruff of my neck, Dagen holds me up on my feet as he dismounts and stands quietly, staring off into the distance towards where Akanai and the Demon clash unseen, a battle of titanic proportions as they shake the hilltop with their blows. A single tear drips down his face, furrowing through the dirt and grime, leaving a sparkling trail behind it, the rest of his body still as a stone.
+
+After a short moment, he speaks. “Thank you for waking me, boy. It was a good dream, and I lost myself in it. Are you well?” His words are stilted, forced, his throat closed as he struggles with his pain.
+
+“I'll be fine.” I think. Maybe. I'm a little light-headed. “Do you know who are the strongest Sentinels, besides Akanai? She needs help with the Demon, and maybe I can wake them as well.” Minus the biting this time. That was super awkward.
+
+“Ha Ha Ha.” With a slow, sad laugh and a wistful look, his eyes seem unfocused as he glances at me. “You look down on me boy, but this is what I have earned for being such a fool. Follow closely and watch, so that I may redeem my pride. You need wake no one else, let them dream a little longer.” He walks off towards the Demon, his long stride eating up the distance as he carries me back towards the fight, each foot planting firmly in the mud before moving on, his back straight and shoulders squared. Before long, we come into sight of the Demon, pressing Akanai back as she continues to lose ground before it. I realize now that she was keeping it away from her soldiers and Sentinels, forcing it to only feed on the corpses of the dead, rather than the still living and entranced.
+
+Dagen gently puts me down on the ground in a sitting position before breaking into a lumbering gait, not quite running, but moving too quickly to be walking. With a leap, he sails through the air, his long-handled hammer held in both hands, raised straight to the sky. He lands his strike in mid-air upon the Demon with a thundering crash, the sound reverberating in my ears and the world once again goes silent except for a familiar high-pitched tone.
+
+A delayed burst of wind hits me, emanating out from the point of impact, raising dirt and mud, obscuring my vision. Shielding my eyes, I strain to see what's happening through the dust and debris, and with great difficulty, I make out two figures moving around the Demon as it fights with claw and saber. Dagen stands firm, his feet planted, his every strike to a vital point, raising the wind yet his foe remains unmoved, as if being tapped by a toy. With every block, Dagen's feet sink further into the mud as he assails the Demon without fear, his weapon wielded like a staff, twirling and blocking, striking and stabbing. Akanai moves gracefully around the Demon, dodging its errant strikes, circling it, piercing and cutting it when an opportunity presents itself, cutting chunks off the creature, attempting to cripple it to no avail.
+
+Unable to focus upon a single target, the Demon grows frustrated as it strikes again and again, back and forth as Akanai dodges effortlessly, Dagen taking them head on with ease as the fight wears on. Ten strikes turn into twenty, which turn into thirty, and still Dagen stands uninjured, while the Demon is whittled away, bit by bit, its frame visibly shrinking as it repairs the damage as it struggles beneath the blows of the two warriors.
+
+The battle continues for several minutes, and Dagen looks every bit the hero as his weapon pounds away at the Demon, but doing little to no visible damage to it. Akanai is more successful, but the Demon is unable to pick up on it, focusing almost all of its attention on Dagen, its frenzied slashing and striking seeming unstoppable until it meets the immovable object that is Dagen, who takes each strike with aplomb, looking no more stressed than when he is sparring with me.
+
+An errant strike from the Demon catches Akanai off guard, sending her flying back, unable to resist the strike like Dagen does. Seizing the opportunity, Dagen lands a heavy swing that culminates with a light tap upon the Demon's shoulder, and to my surprise and shock, the shoulder explodes, shards of bone and gore, yellow, red, and green fluids flying about as the creature is rocked to the ground by the hit. It stumbles to its feet, only to receive a second strike to the knee, exploding once more, as if bursting apart from within, completely contrary to how it should crumple. More hits follow at various vital points, each one resulting in an explosion, and I realize that those are all the areas that Dagen has hit before, each one multiple times. I guess it finally paid off, and in spades, as soon, the creature lays upon the ground, its limbs shattered, its spine wrenched about in a back-breaking posture, its head bent at an unnatural angle.
+
+Dagen stands before it and raises his hammer high, holding it in both hands at the bottom of the haft, and brings it crashing down on the Demon's chest, splattering bone and ichor about. He lifts it again, repeating the motion, and I can make out his features, screaming and raving, his anger being vented at the one responsible for tearing old wounds. He stands there and hammers away over and over, until after a dozen strikes, he can no longer lift his hammer, his strength spent as he stands victorious over his fallen foe, wounded and bleeding, chips of bone embedded in his skin and face, burns from the ichor covering his body.
+
+I'm claiming an assist for this kill.
+
+Akanai catches him before he falls, and the two of them stand upon the field, gleaming in the moonlight that shines almost as brightly as the sun. Around us, the soldiers begin to come to their senses and I watch their faces as they emerge from the dream, some confused, some saddened, others angry or ashamed. Soon, they begin to lift their arms, their mouths open in what I can only assume are thunderous cheers for the victorious heroes, cheering at the sight of the pulped Demon. Moments later, the Sentinels arrive on quinback and take Dagen, limp and injured, away to the healers, as I sit in place, drained from the night's events, longing for a nice, hot bath and a warm, firm bed, too tired to even wish for more.
+
+Alsantset appears in front of me, and I smile at her as her mouth moves, a concerned look upon her face. “I'm okay. Can't hear you. Ears broke.” My smile widens as she cradles my body, holding me close, my head resting on her shoulder. “Found Balance. Can fix it. Later though. Sleepy.” She strokes the back of my head as I drift off to sleep.
+
+I'm a lucky guy.
+
+Two lives, two amazing families that love me.
+
+Can't ask for any more than that.

@@ -1,0 +1,151 @@
+---
+id: 73af2365-8969-5a8c-8d7a-8a7414013544
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1270 - A Totally Standard Human(B) Evolution"
+slug: 0143-chapter-1270-a-totally-standard-human-b-evolution
+partOf: the-primal-hunter
+position: 143
+ownLength: 2830
+unit: words
+ownProgress: 2830
+publishedAt: 2026-03-06
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3123386/chapter-1270-a-totally-standard-humanb-evolution"
+royalRoadId: "3123386"
+markedReadAt: "2026-06-29T19:34:49.636Z"
+---
+
+Hesitation wasn’t even an option in Jake’s mind as he promptly opened the system message and had the choice presented to him.
+
+Race Evolution Requirements Met
+
+You remain steadfast on your Path, embracing your Legacy and Origin as you do so. Every challenge in your way is merely an opportunity for improvement, and every opponent a stepping stone towards supremacy. Despite myriad mysteries still eluding you, never once have you questioned who you are or what you stand for. A hunter, unrivaled as you seek the furthest horizons, a human, yet so much more, a creator, living omen to Origins thought forever lost. Never shy away from your Path, but remain true to yourself, allowing none to stop you from reaching the apex.
+
+Begin Evolution now?
+
+Y/N
+
+WARNING: Postponing evolution may have adverse effects, and no further race experience can be earned before the evolution is completed
+
+Jake read the message closely, smiling as he went along. These kinds of messages were the closest Jake could get to the system directly telling him things about himself, and he took note of one sentence in particular:
+
+“Human, yet so much more.”
+
+This more or less confirmed to Jake that while he was indeed still a human, he was “more” than just a human. What exactly that meant, Jake still had no bloody clue, but he felt that if he just kept going on his Path, he would eventually find out.
+
+Overall, the message was a lot like the one he’d gotten when he evolved to C-grade, though this one felt a lot more specific. It even talked directly about his class and profession, though it focused more on Jake’s abilities to harness Primeval Origin Energy than his alchemy on the profession side, something Villy surely wouldn’t approve of.
+
+Perhaps more interesting was that it mentioned horizons. Jake already suspected that the Path he was on with his class wasn’t ordinary in the slightest, and for the system to put it alongside his weird variant race and Primeval Origin shenanigans said a lot. Before even seeing the options, Jake pretty much knew he was going to continue down that Path when he got to his class evolution... but enough about that. He had to reach B-grade first before he could evolve his class, and he knew this race evolution also had some interesting aspects to it. It wasn’t that exciting, though, as he more or less already knew all it entailed.
+
+As for the question of whether Jake wanted to evolve now? Well, yeah, Jake found the question a bit silly as he instantly accepted the prompt.
+
+He disappeared from the bed within his lodge, finding himself within a void that he now held a far greater appreciation and recognition of. Before, it had only been a theory, but now, as Jake found himself floating there, he was certain.
+
+This was indeed the same space as the one where Jake had found the Gate of Enlightenment.
+
+And yet... not truly. To call it a “place” at all was a misnomer. No matter how far Jake traveled from the Gate of Enlightenment, he would never arrive where he was now, and no matter how much Jake tried to float through his current void, he would never approach the Gate of Enlightenment.
+
+Perhaps, more accurately, it was not that they were in the same space; they simply shared the same Origin. Both were special places created by the system, linked to the Truesoul, and designed to spark progress among all who set foot there.
+
+As Jake was lost in thought, the system waited for him. Gave him time to finish his pondering, and as he did, the void itself came alive as all prior times he’d been there. A torrent of energy surged towards him from all sides, worming into his body and soul as it nurtured him on a fundamental level.
+
+Congratulations! You have successfully evolved into a variant B-grade human.
+
+Due to Origin, all other variant options are blocked.
+
+Congratulations! You have successfully evolved to B-grade!
+
+The system message carried no surprises this time, so Jake quickly dismissed it as he focused on the sensation of the evolution. The energy continued to surge into him, also finding its way towards Eternal Hunger and his Eternal Shadow, and to his surprise, even his new bow was affected, evolving alongside its owner.
+
+Compared to his C-grade evolution, the influx of energy took far longer, and Jake focused more on the entire process as he felt himself grow and improve qualitatively. This sensation was always odd and, in some ways, off-putting, but with the system doing everything, all actual unpleasantness was removed, leaving only a way for growth.
+
+Soon, the influx of energy began to slow down, and Jake was finally represented with his “new” race.
+
+Human (B) – One step at a time, you keep stepping up on the evolutionary ladder, finding yourself worthy of standing amongst the myriad races who once seemed so far away. The human race is known as the most balanced and numerous races in the multiverse, being able to walk many different roads on their Path to power. You have shown yourself to stand on the extreme side in this regard, reaching a level few of your race ever accomplish. With this evolution, you shall further specialize, embracing aspects of the Human Spirit that best fit you, as it helps strengthen and guide your Path. Stat bonuses: +54 to all stats, +135 Free points per level.
+
+Reading the race description, Jake was in two minds. A part of him was slightly disappointed that, despite his “variant” race, he still got precisely the same stats and race description as everyone else. Stats had tripled like always, and as for the description, it seemed generic enough for Jake to assume this was the standard one.
+
+Yet, despite his slight disappointment, Jake also felt a tiny bit relieved that he was still very much human. Not only because he would personally feel weird about not being human anymore, but because it was bound to raise a lot of questions if a “high human” or whatever suddenly appeared for what Jake assumed to be the first time in the history of the multiverse.
+
+Even with Shroud of the Primordial, it wasn’t something Jake was confident in keeping under wraps, and the moment someone knew, things could get very annoying. Valhal would surely be a lot more interested, and he could only imagine how many more factions would start hounding him if they believed he couldn’t only assist in the evolution of monsters but also enlightened species.
+
+Fortunately, he was saved from even having to think about something like that. Instead, he should really think about the last part of the new race description, speaking about the Human Spirit. Jake knew this was similar to when he picked the Path of the Hunter, granting him the Wisdom of the Hunter skill and some extra stats, during his C-grade evolution.
+
+At least that was what all the books said. Yes, details about widely known evolutions, such as the human race’s, weren’t something considered Forbidden Knowledge or hidden by anyone. Trying to keep something like that under wraps would simply be impossible due to how many humans there were, so Jake already knew all he could expect.
+
+Jake reckoned that knowing what was considered standard was a good way to see if his evolution varied in any way. That’s why he’d done plenty of research on human evolution, and he was ready for any surprises, though none had shown up so far.
+
+Upon reading the following system messages, he was more or less confirmed in what he knew.
+
+Through the eras, humanity has always prevailed, in no small part due to its profound Legacy and heritage. Records run deep within all humans, and now, you have been given the chance to tap into these Records and take inspiration from all those who’ve come before you, embracing aspects of their spirit.
+
+Your spirit.
+
+The Human Spirit.
+
+Ten aspects of the Human Spirit are presented to you. Choose to embody two of them, signifying the variety of humanity’s power and potential, and embrace the power found within the eternal spirit that dwells deep within.
+
+So far, so average and normal. Jake even knew what he wanted to pick beforehand, though, of course, he couldn’t be sure he would actually be presented with these two desired options. From what he knew, there were at least a hundred commonly known Spirit of Man variety skills to choose from, with all of them varying in how good they were.
+
+Still, picking new skills was fun, and he could even pick two of them this time around, so it wasn’t all bad! Also, although the selection process itself wasn’t the most exciting, the effects of these skills were nothing to be scoffed at whatsoever.
+
+As he saw the list, ten options were indeed there, and he couldn’t help but smile when he saw the first one, which was really the obvious choice... at least it looked to be at first.
+
+[Hunter’s Collaborative Spirit of Man (Unique)] – The human spirit is one of collaboration and improving alongside one another to create the tool of your ace. You embody this aspect. Reduces experience penalty while hunting alongside other enlightened races. This effect is even stronger when hunting with your fellow humans. Grants slight damage resistance against opponents when fighting alongside other enlightened races. This effect is even stronger when hunting with your fellow humans. As you progress deeper onto your Path, your growth reflects it, and your body adapts: +10% Perception, Agility, and Strength. +15 to Perception, Agility, and Strength per level in your race. This effect works retroactively (+10 Perception, Agility, and Strength per level in C-grade, +5 Perception, Agility, and Strength per level in all prior grades). Go forward, hunter of humanity, and prove the Spirit of Man.WARNING: Stats gained from Spirit of Man skills cannot overlap.
+
+Not gonna lie, Jake had just seen that the first word of the skill offered said “hunter,” making him assume it was the one he had planned on taking. However, upon reading it, Jake realized that this wasn’t the one. Still a good skill, though, just not really something for him.
+
+Fortunately, he only needed to go two options down to find the skill he’d been expecting.
+
+[Hunter’s Brave Spirit of Man (Unique)] – The human spirit is one of braving danger and facing the impossible. You embody this aspect. Increases experience gain when slaying opponents higher level than yourself. This effect is even stronger when hunting with your fellow humans. Grants slight damage resistance against opponents higher level than yourself. As you progress deeper onto your Path, your growth reflects it, and your body adapts: +10% Perception, Agility, and Strength. +15 to Perception, Agility, and Strength per level in your race. This effect works retroactively (+10 Perception, Agility, and Strength per level in C-grade, +5 Perception, Agility, and Strength per level in all prior grades). Go forward, hunter of humanity, and prove the Spirit of Man.WARNING: Stats gained from Spirit of Man skills cannot overlap.
+
+Yeah, out of all the ones offered, this was definitely the one that fit him best. To clarify, these Spirit of Man skills were all relatively generic, even if they were diverse. He wouldn’t be able to find one that perfectly fit his Path, but this one definitely seemed to be the closest.
+
+Ideally, Jake would have wanted to just take two skills with ”hunter” in their names, but sadly, the fact that stats couldn’t overlap made that a non-starter. This was definitely by design, according to all the wise scholars who’d written all about human evolution. Humans had professions and classes by design, so it was perhaps expected that one would choose a skill that fit the class and another that fit the profession. Jake didn’t see any reason why he should do any differently.
+
+After reading all ten through, he was confident that at the very least, Hunter’s Brave Spirit of Man would be one of them, alongside another one that seemed good for his profession.
+
+[Alchemical Spirit of Man (Unique)] – The human spirit is one of creation, the alchemical arts being no exception. You embody this aspect. Increases experience gain when performing profession-related activities. This effect is even stronger when working collaboratively with your fellow humans. Grants slight resistance to some toxins and negative environmental effects found in alchemical travels. As you progress deeper onto your Path, your growth reflects it, and your body adapts: +10% Wisdom, Intelligence, and Willpower. +15 to Wisdom, Intelligence, and Willpower per level in your race. This effect works retroactively (+10 Wisdom, Intelligence, and Willpower per level in C-grade, +5 Wisdom, Intelligence, and Willpower per level in all prior grades). Go forward, alchemist of humanity, and prove the Spirit of Man.WARNING: Stats gained from Spirit of Man skills cannot overlap.
+
+Yeah, this one seemed the best fit for the second one. He was an alchemist, after all, and again, not like he could get something that was perfect. He did kind of find it funny that it would grant him increased resistance to toxicity, and wondered if it even worked with Palate of the Malefic Viper, but oh well.
+
+He had already more or less mentally selected the two of them, so without further ado, he made it official and selected Hunter’s Brave Spirit of Man.
+
+With his selection, the surrounding energy came alive once more, fueling Jake’s skill selection directly. He began to get the familiar sensation of a new skill and the instinctive knowledge that came with it... but something immediately felt wrong.
+
+Very wrong.
+
+A system message appeared in front of Jake, flickering into existence only for a single moment that allowed him to see what it said.
+
+Race Skill Gained: [N/A]
+
+Jake was confused as the energy infusing his body only intensified by the moment.
+
+ERROR
+
+The system message flickered once more for a moment, first showing an error message, before correcting itself to something equally nonsensical.
+
+Race Skill Lost: [N/A]
+
+It didn’t take a genius to realize that things weren’t exactly going according to the usual script for how a human’s evolution to B-grade should unfold. At least none of the research Jake had done ever mentioned the system glitching out and nonsensical system messages.
+
+However, despite the situation and Jake finding himself unable to open up the system menu, he didn’t panic. Things were fucked up, yes, but he felt no sense of danger and continued to trust that the system would do what the system usually did. He saw no world where it would actually mess up Jake’s Path or corrupt his soul or anything like that. Such just wasn’t the system’s MO, and he knew that should the system so desire, it could do anything it wanted, so a world where it failed or broke wasn’t an option either.
+
+This was merely the system adapting, and as he continued to absorb energy from his environment, Jake felt something growing within him. At this point, he was well past knowing what to expect, and all he could do was wait patiently as he focused on the sensation of existing within this special system space.
+
+Finally, after what felt like an eternity, the absorption of energy petered out, and the system once more came alive. A familiar message popped up in front of Jake, as if the entire Spirit of Man skill selection had started over.
+
+Probably because it had.
+
+Through the eras, humanity has always prevailed, in no small part...
+
+Jake skipped reading the section that was the same, and as he got to the end, he saw that the final sentence had changed.
+
+The Spirit of Man echoes throughout your being, resonating with your Origin. As the Primal Hunter, you do not choose which aspects to embody, but radiate all those deemed useful for your Path. Through the Legacy of humanity and your very Origin, you embrace this power, your Spirit of Man, unlike any other, past and present.
+
+As a well-read individual regarding the evolution of humans in the multiverse, Jake could confirm that he’d moved well beyond what was considered standard now. Seeing the system even directly Jake’s identity as the Primal Hunter definitely got him to raise an eyebrow... but not as much as what came next.
+
+With a final push, the whirlpool of energy with Jake at its center came to a stop, forming a singular skill within him. While everyone else got two, Jake only received one as the system prompt finally appeared.
+
+Race Skill Gained: [Primal Hunter’s Spirit of Man (Unique)]
+
+With it, Jake’s mind was flooded with instinctual knowledge and power as he got the skill. Immediately, as he’d not even opened the description yet, Jake knew... he had no fucking right to ever complain about only getting a single Spirit of Man skill.

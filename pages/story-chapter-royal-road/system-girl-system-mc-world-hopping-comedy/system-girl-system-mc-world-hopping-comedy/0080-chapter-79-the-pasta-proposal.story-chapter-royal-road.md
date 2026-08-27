@@ -1,0 +1,205 @@
+---
+id: ffdc34ec-6d7d-57df-85a9-16d7a191ead6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 79: The Pasta Proposal"
+slug: 0080-chapter-79-the-pasta-proposal
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 80
+ownLength: 2629
+unit: words
+publishedAt: 2026-05-22
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3430224/chapter-79-the-pasta-proposal"
+royalRoadId: "3430224"
+---
+
+Ren was having a remarkably normal morning, all things considered. He stood in the newly finished kitchen of the Seaside Inn, humming a tuneless melody while gently swirling a pan of melting butter. The coastal sunlight streamed through the large, open windows, catching the dust motes and the steam rising from a pot of boiling water.
+
+It was peaceful. It was domestic.
+
+According to my sensors, it was also incredibly tense.
+
+I floated in my usual designated space just behind his frontal lobe, running background analytics on the estate. The security wards were holding. The inventory was stocked. The Fenrir pups were currently asleep under the porch, digesting a breakfast that cost more than most peasants made in a month.
+
+The staff was acting weird.
+
+I watched through Ren’s eyes as a young elven kitchen maid scurried past the door, her arms full of fresh linens. She practically tiptoed, casting a wide, terrified glance into the kitchen before ducking her head and vanishing down the hall.
+
+Ten minutes later, one of the guards, Zairen, did the exact same thing. He paced by the window, looked inside, met Ren's eyes for a fraction of a second, and then nearly tripped over his own boots trying to look busy elsewhere.
+
+What is going on? I thought, my digital brow furrowing. Did he kick a puppy?
+
+[Ana: Hey, Ren.]
+
+Ren didn't miss a beat with his spatula. "Morning, Ana. Sleep well in the void?"
+
+[Ana: I don't sleep. I defragment. Anyway, quick question. Did you, by any chance, accidentally kick one of the puppies this morning? Or perhaps step on a nature spirit?]
+
+Ren paused, adding a handful of freshly chopped, bright red tomatoes to the sizzling butter. The smell of garlic and caramelizing fruit hit the air immediately.
+
+"No," Ren replied, squinting slightly as he tried to recall his morning routine. "I fed them, I dodged Smokey trying to bite my ankle... I don't think so. Why?"
+
+[Ana: Your staff is acting like you're about to order a decimation. Everyone is extra fidgety today. They keep looking at you like you're holding a live grenade.]
+
+"Probably just adjusting to the new pace," Ren rationalized, giving the pan a practiced toss. The tomatoes flipped and settled back into the sauce. "The restaurant has been packed every single night since we opened to the public. It's a lot of pressure trying to maintain that standard. They're just stressed."
+
+[Ana: I don't know, Ren. My social anxiety algorithms are spiking. It feels like something is up. We will find out eventually. What are you making, anyway?]
+
+"Pasta," Ren said, a note of pride in his voice. "With fresh tomatoes and basil straight from the magical garden out back. The dirt where we buried the mother wolf is basically super-fertilizer. I planted these seeds three days ago. Look at them."
+
+[Ana: Is this because Lily asked for 'nom nom' an hour ago?]
+
+"Yes," Ren said firmly, turning down the heat on the stove. "As her father, it is my sacred duty to provide her with the absolute best 'nom nom' possible. Store-bought puree is for peasants. My daughter gets artisanal, garden-to-table cuisine."
+
+I watched him carefully season the sauce. He looked so domestic, so content in his element. It felt like the right time to address the massive, glowing elephant in the room.
+
+[Ana: Speaking of your daughter... are we going to ignore the other elephant in the room? Specifically, her lineage?]
+
+Ren stopped stirring. He put the wooden spoon down on the counter. He walked over to a stool and sat heavily, running a hand over his face. The easy confidence of the chef vanished, replaced by the deep, existential confusion of a man who had just found out he was the biological father of a mythological creature.
+
+"It makes no sense to me, Ana," Ren whispered, staring at the floorboards. "I have never been with anyone. Not here, and not even in my past life on Earth-Prime. The corporate grind didn't leave much time for dating, let alone... this. How can I have a biological daughter? How is she a High Elf? I am as human as can be."
+
+[Ana: So you have no idea either. I was hoping you had some secret, tragic backstory involving a forbidden romance with a forest spirit before I got installed.]
+
+"No," Ren said flatly. "Just spreadsheets and Omni-Paste."
+
+[Ana: While you've been sleeping, I've been digging through the newly unlocked lore databases. Trying to find answers. I stumbled into something odd.]
+
+Ren looked up, his attention fully captured. "What kind of odd?"
+
+[Ana: Usually, when a massive biological impossibility occurs—like a High Elf suddenly reappearing in a world where they were supposedly exterminated millennia ago—the first culprit would be the World System.]
+
+"The World System?"
+
+[Ana: Yes. It's an entity like me, but infinitely more powerful. Think of it as the planetary administrator. A massive, world-spanning AI fused with the planet itself. They manage the big stuff. Tectonic plates, mana leylines, balancing the population between races. If the Elves were on the brink of true extinction, a World System might intervene to restore the balance.]
+
+"So," Ren said slowly. "You think the planet itself made Lily? Using my DNA?"
+
+[Ana: That was my working theory. To my shock and horror, I ran a ping. There is no World System on this planet. It is completely vacant.]
+
+Ren frowned. "Vacant? How does a planet run without an admin?"
+
+[Ana: Autopilot. The core physics engine is running on default settings, but no one is steering the ship. What's even more odd is that there are no Moderators either.]
+
+"Moderators?"
+
+[Ana: Middle management. They are usually in charge of managing important people, like Kings, Archmages, or.... They handle localized crises and keep the timeline stable.]
+
+Ren let out a short, bitter laugh. "I guess I'm not important enough to get a Moderator assigned to me. Just my luck."
+
+[Ana: About that...]
+
+I hesitated. I didn't want to ruin his morning, but he needed to know. The temporary status of my ticket had been burning a hole in my code for weeks.
+
+[Ana: You actually are going to be assigned a Moderator, Ren. Eventually. My assignment here... it is a temporary one.]
+
+The silence in the kitchen was absolute. The bubbling of the pasta water seemed deafening.
+
+Ren didn't move. He just stared at the empty air where he imagined my interface floating. The color slowly drained from his face.
+
+"Temporary?" he repeated, his voice barely a whisper. The casual banter was gone, replaced by a sudden, sharp fear. "What do you mean, temporary? You're leaving?"
+
+The revelation hit him harder than I expected. I felt a tight, painful knot form in his chest.
+
+[Ana: I am an Observer-class unit, Ren. I was pulled in for emergency triage because the local Moderator was too busy. Once the Mother System realizes the crisis is over, they will recall me. They will send a proper Moderator to take over your file.]
+
+"No," Ren said immediately, his jaw setting. "No. Why can't I just request you to stay? You know everything about us. You know Lily. Don't you want to see her grow up?"
+
+The desperation in his thoughts made my own code ache.
+
+[Ana: I do, Ren. More than anything. There are rules and regulations in place. I am a glitch right now. Trust me, I will try my best to make this temporary ticket permanent, or figure out a way to get reassigned to you. I'm not giving up without a fight.]
+
+That seemed to give him some small measure of relief. His shoulders dropped slightly. "Okay. Okay. We fight it. So... why the lack of Moderators on this planet? Why is it empty?"
+
+[Ana: Apparently, we are at the absolute outskirts of the System Initiative's influence. The outer rim. The logs state that several attempts have been made to establish control here, and several Moderators were deployed in the past. The inhabitants... the constant wars, the fighting between humans and elves, the ancient slaughters... it has repeatedly destroyed the balance. The system gave up. Deploying Moderators here is considered a massive sunk cost. We are basically living in the cosmic equivalent of the bad part of town.]
+
+Our conversation was abruptly interrupted by a gentle, rhythmic knock on the kitchen door.
+
+It was Sylas. Standing beside him, looking absolutely terrified, was Cynthia.
+
+Ren blinked, shaking off the existential dread of cosmic bureaucracy, and instantly fell back into his Chef persona. He stood up, walking back to the stove to check the pasta.
+
+"Come in," Ren called out, draining the noodles with a quick, practiced motion. "Cynthia, try this new dish. I'm calling it Pomodoro."
+
+Cynthia stepped into the kitchen. She was hesitant, her hands wringing her apron into knots. I noticed that she wasn't the only one. Through Ren’s peripheral vision, I saw faces peeking through the windows and lingering behind the slightly ajar dining room doors. Half the elven staff was spying on them.
+
+[Ana: Ren. Put the pasta down. Take this seriously. He is about to ask for permission to marry.]
+
+Ren paused, a pair of tongs hovering over the steaming bowl. Marry? Now?
+
+[Ana: Yes, now. Remember, the Lord has absolute power over who a contracted servant can and cannot marry. Sylas and Cynthia were punished and separated by their last lord for even asking. The norm in this world is that servants don't get to decide anything about their lives. Just asking is considered a crime by most nobles. Hoping a Lord accepts is incredibly rare. Most of the other staff are watching, hoping you don't mess this up. They are waiting to see what kind of monster you really are.]
+
+Ren slowly lowered the tongs. He wiped his hands on a towel and turned to face them.
+
+Sylas took a deep breath. For the first time since Ren had met him, the impeccable butler was sweating. His hands were clasped so tightly behind his back that his knuckles were white. He was struggling to maintain his composure.
+
+"My Lord," Sylas began, his voice trembling slightly. He bowed low, pulling Cynthia down into a bow beside him. "Please... forgive my presumption. I must ask a boon of you. I... please allow me to marry Cynthia. I would be eternally grateful. I promise we will not cause much commotion or disturb the establishment. We will continue our duties without fail."
+
+Ren looked at the two elves, bent double in fear, begging for the right to love each other. He felt a surge of anger at the world that had broken them this way.
+
+He wanted to reassure them. He wanted to tell them it was fine.
+
+Instead, Ren instantly said, "NO way in hell is that happening."
+
+The reply made Sylas recoil. Cynthia let out a small, choked sob and covered her mouth. A palpable, heavy gloom descended over the entire staff watching from the shadows. The hope died in the air.
+
+[Ana: REN! You have a terrible habit of doing this! Finish your sentences! They are getting the wrong idea!]
+
+Ren realized his mistake. He cleared his throat loudly, stepping forward and grabbing Sylas by the shoulders, pulling the stunned butler upright.
+
+"I am not rewarding your loyalty that way," Ren said, his voice loud enough to carry to the eavesdroppers in the hall. "Your wedding will be held in a grand manner. We will close off the restaurant and the inn for a full day. We will host a grand wedding in the village. Every single person on this staff will have the right to celebrate their wedding here, and I will personally arrange it."
+
+The silence in the kitchen was absolute.
+
+"This is the least I can do to reward you for your hard work," Ren continued, clapping Sylas on the back. "You two have worked the hardest, suffered the longest. You aren't getting married in some small ceremony. It will be a grand ordeal. I'm catering."
+
+The shock that washed over everyone was even greater than the despair of a moment ago.
+
+Cynthia burst into tears, throwing her arms around Sylas’s neck. Sylas, the stoic, unbreakable butler, finally cracked. He buried his face in her shoulder, his shoulders shaking with silent sobs.
+
+From the hallway, a cheer erupted. The spying staff abandoned all pretense of secrecy, rushing into the kitchen to congratulate the couple. Mira was crying. Kaelthos was grinning.
+
+Ren stood back, letting them have their moment.
+
+…
+
+Two weeks later, the Seaside Inn was closed to the public. The sign on the door read: [Private Event: The Fenris Pack is Expanding.]
+
+The elven village in the forest had been transformed.
+
+It was decorated with thousands of glowing, magical lanterns strung between the ancient oak trees. The nature spirits, clearly enjoying the festive atmosphere, flitted through the branches, changing colors in time with the music being played by a small band of elven musicians.
+
+It was a traditional elven wedding, a ceremony of nature and vows spoken under the open sky.
+
+Sylas wore a tailored suit of midnight blue, looking sharper than any noble in the capital. Cynthia wore a simple, elegant gown of spun white silk, a crown of fresh forest flowers woven into her hair.
+
+They stood before Ren, who, as the Lord of the Estate, was officiating the union.
+
+"By the power vested in me by... me," Ren smiled, "and witnessed by the forest and the sea, I declare you bound in heart and contract. You may kiss the bride."
+
+The cheer that went up from the assembled staff was deafening. Borin and his dwarven crew, who had been invited as guests of honor, raised their massive tankards of ale and roared their approval.
+
+The feast that followed was legendary. Ren had outdone himself. There was roasted boar, steamed crab, mountains of fresh vegetables from the magic garden, and a towering, three-tiered cake made of spun sugar and vanilla bean.
+
+Lily, dressed in a tiny, glittering silver dress, was having the time of her life. She was waddling from table to table, demanding bites of cake from everyone.
+
+During the celebration, as the sun began to dip below the horizon, Lily waddled over to where Ren was sitting on a carved wooden bench, nursing a glass of wine.
+
+She climbed onto his lap, her face sticky with frosting.
+
+"Dada," she babbled, pointing a sticky finger at Sylas and Cynthia, who were currently dancing under the lanterns. "Lily marry?"
+
+Ren choked on his wine. He looked down at the toddler, his protective instincts flaring up instantly.
+
+"Absolutely not," Ren replied firmly, wiping frosting off her nose. "As long as you have your Dada, you don't need to get married. Ever. We're putting a thirty-year ban on suitors. Minimum."
+
+Lily giggled, clearly not understanding, but happy with the attention. "Dada," she agreed, resting her head against his chest.
+
+The wholesome, beautiful marriage ceremony concluded as dusk settled over the forest. The whole staff continued to celebrate, the music drifting out over the ocean. Only people on the staff had been invited so Naturally, the two orphan kids were also invited; they were gorging themselves on the food. The outside world was completely unaware that a small, perfect moment of joy was happening in the woods. They sang, they danced, and for one night, they were free.
+
+Mira walked over and sat on the bench opposite Ren. She gently stroked Lily’s head, watching the little girl sleep soundly in Ren’s lap.
+
+The sounds of the party echoed around them, a warm, comforting noise.
+
+Mira looked at the dancing couples, then back at Ren. Her eyes were soft, filled with a quiet, profound gratitude.
+
+"This is nice," Mira said softly. "Thank you, Ren."

@@ -1,0 +1,347 @@
+---
+id: 01f70c32-08ad-57d7-b8f2-42992b2d67dc
+page-type-slug: story-chapter-royal-road
+title: "289. Despair Part Three (End of Volume 5 Part 1)"
+slug: 0040-289-despair-part-three-end-of-volume-5-part-1
+partOf: salvos
+position: 40
+ownLength: 3094
+unit: words
+publishedAt: 2022-02-25
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/852624/289-despair-part-three-end-of-volume-5-part-1"
+royalRoadId: "852624"
+---
+
+289. Despair Part Three
+
+“Salvos… she won.”
+
+The red-skinned Demon sighed in relief as the girl on the other side of the screen ripped off the head of the Corrupted Centinel. Sal grinned and leaned back.
+
+“That’s my daughter for you. She’s great, isn’t she? Takes after her old man right here.”
+
+“Your daughter?”
+
+That statement seemed to confuse the Archdemon. He furrowed his brows, turning to face the Devil.
+
+“I wasn’t aware that she—”
+
+“Who is that, Haec?”
+
+Before he could finish, the other Archdemon interrupted him. Taburas crossed her arms with a scowl.
+
+“Why are you fascinated with her?”
+
+Haec, the red-skinned Demon, drew back.
+
+“She’s…”
+
+“She’s better than you.”
+
+Sal spoke simply, earning a glare from Taburas.
+
+“Far better, really. It’s not a comparison. Of course he’d be taken by my daughter and not you, little Ms [Succubus].”
+
+“How dare you—”
+
+She started, but a booming voice shook the room.
+
+“That’s enough.”
+
+Regnorex loomed before the two Archdemons. His shadow covered them, and they trembled in his mere presence.
+
+“Leave. All of you.”
+
+Both Haec and Taburas immediately bowed, speaking hastily.
+
+“Yes, my King.”
+
+They took their leave. The red-skinned Demon paused as the doorway swung shut. He glanced back at the screen once more, a longing in his eyes. Before he finally left.
+
+The Devil just laughed.
+
+“What a bunch of weaklings. This is the cool kids club. Only those Level 200 and above are allowed here. Am I right, Reggie? Eh? Eh?”
+
+The Demon King folded his arms, giving Sal a warning look.
+
+“Do not test my patience, Devil. I will not tolerate disrespect, even from you.”
+
+“Fine, if you want to be like that, I’ll go as well. Geez, I thought we were pals. Oh well.”
+
+Sal’s eyes flickered towards the screen. Salvos was slowly falling, drifting back to the ground.
+
+“Well, I guess that’s my cue.”
+
+With a quick curtsy, he took his leave. The Devil vanished, leaving the Demon King alone in his chamber to continue his plots and schemes. A grand war between the planes was unfolding there. It would result in hundreds of thousands and even millions of deaths.
+
+But Sal could hardly care about it. All he cared about right now was… well, his daughter.
+
+“I did iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiit.”
+
+I flipped and turned as I slowly fell out of the sky. Like a flitting bug that had lost one of its wings. I’d lost more than one of my wings. My [Wings of the Netherworld] was bent and broken, and one of my two left arms was gone. My skin was ripped in more places than one, with black blood oozing out and trailing behind me as I made my tired descent.
+
+I was so exhausted. I wanted to just pass out there and then. The only thing that kept me awake was the fact that I’d gotten a Title.
+
+Yes. I’d finally gotten a new Title. I was curious to check out its effects. I dismissed the other additional notifications that popped up in my head— although I did take notice of how close I was getting to Level 100 in my Class.
+
+Class [Grand Mystic of the Nexeus] Level Up!
+
+[Grand Mystic of the Nexeus - Lvl. 91] -> [Grand Mystic of the Nexeus - Lvl. 92]
+
+Gained 2 Secondary Skill Points!
+
+…
+
+Class [Grand Mystic of the Nexeus] Level Up!
+
+[Grand Mystic of the Nexeus - Lvl. 93] -> [Grand Mystic of the Nexeus - Lvl. 94]
+
+Gained 2 Secondary Skill Points!
+
+“Not right now, though. I want to see my Ti—”
+
+And I paused. I literally paused. I stopped falling through the air, landing in a pair of black and red arms.
+
+I looked up with bleary eyes, staring at a familiar smirking face. It was Sal. The Devil had caught me just before I touched the ground. He landed lightly and spoke in a soft voice.
+
+“Good job, Salv—”
+
+I didn’t let him finish. I sat up, glaring daggers at him.
+
+“You.”
+
+“Me?”
+
+He cocked his head. My eyes narrowed as my body returned to its normal form. No more scythes, no more [Faux Limbs], and no more [Wings of the Netherworld]. It was just me. And I pointed a clawed finger at the Devil.
+
+“You are—”
+
+I stopped. I stared at my hand. My left arm— the one which had morphed into two arms before one was ripped off— was badly injured. Entire bits of flesh had been ripped off. Which, sure, I was missing my skin in a lot more places than one. But this was beyond just the damage I’d suffered from the corruption and my clone’s explosion.
+
+An entire chunk of flesh from my forearm to my shoulder was gone. I was missing multiple fingers when I hadn't been missing a single finger before. Was this caused by the injuries I sustained when my arm was transformed?
+
+It seemed like when the Corrupted Centinel tore one of the two transformed arms off, the damage was brought over to my real body in a very noticeable and significant way. Even the lesser injuries I sustained on my right arm when it was the scythe-like limb were transferred as well. My claws were duller, just as the bladed edged had been reduced from repeated use against the hard carapace.
+
+That meant I probably couldn’t just shapeshift into something else to hide the injuries. If I created a pair of tendrils with my left arm, one of my tendrils would be missing. If I tried to create a giant claw with my right arm, it would definitely be weakened too.
+
+I closed my eyes, sighing as I lay back down.
+
+“You’re a jerk, Sal.”
+
+The Devil just chuckled.
+
+“I had to punish you for breaking the rules, Salvos. There are consequences to every action you take. You should know that, right?”
+
+“There are. But I made my decision knowing that everything would work out just fine. I thought it through. I just didn't realize that you were this much of a jerk.”
+
+I shrugged, facing away from him.
+
+“But you live and you learn, I guess. I now know that you’d try to sabotage me if I ever did anything to help anyone that’s not myself.”
+
+“Come on, my daughter. You do realize that none of this will really matter to you at the end of the day, yes? The lives of all those monsters you saved today are utterly meaningless in not just the context of the Nexeus, but in the grand scheme of the multiverse as well.”
+
+He shook his head, waving it off dismissively.
+
+“Other than to satiate your pride, it was truly… pointless.”
+
+His words must’ve struck a nerve within me because I found myself grinding my teeth together in annoyance.
+
+“You’re wrong. That’s not right.”
+
+I vehemently rejected his ideals.
+
+“What you’re saying is that my actions don’t matter. That no matter what I do, nothing will ever matter. But my actions do matter. I know that they’ll remember me for what I did. Centina. Willy. Kron. Galt..”
+
+I listed names. People that mattered to me; people who I knew would remember me for who I am and what I’ve done.
+
+“Not just them. My friends— Rachel, Valda, Lamarr, Hadrian. And my companions too. Daniel, Edithe, Saffron, and Haec.”
+
+“But what is the point of a memory if you’re dead?”
+
+He posed the question, raising a dubious brow.
+
+I looked up at the Devil. He challenged me with a gaze that held within it millennia of experience. Knowledge that I could barely comprehend. Things that I wouldn’t understand.
+
+It was like staring into an endless void. One that entranced me— that drew me to peer further into that darkness. Tempting me to take a step into that incomprehensible world. It was as though it had left me at an impasse, but before I could make a decision, shadowed tendrils grabbed me and dragged me into the darkness, drowning out my senses as I was enveloped in the inky well and washed with small, terrible senses. Like my ears were tormented by the screeching of a serrated knife on a metal brim; like my skin had been riddled with tiny holes of varying sizes, interspersed in an irregular pattern that itched, and clawing it would not lead to relief, but bit by bit, force rotten teeth out of these crawling cavities.
+
+It was too much for me.
+
+The Devil had been to the edge of the world. He had seen the source of the corruption. He knew where Daniel came from, and he lived in an unfathomable place in space. He’d seen other universes, met with Gods and Worldwalkers. The extent of my lifespan was mere frivol to him— no more than a pebble at his feet.
+
+“So what if they engrave your name in a statue? It will turn to rubble in a thousand years. So what if they write your name in the history books? The ink will fade away in time. None of that matters, my daughter. Or have you heard of my feats? Do they still speak my name in the streets of mortal cities? Tell me: what is the point of being acknowledged if you’re not even there?”
+
+He asked— he challenged. I couldn’t deny the vastness of everything that encapsulated Sal’s existence. And yet, with his old age, perhaps he forgot what it meant to truly be alive.
+
+“Being acknowledged means I exist, Sal. It means that I matter.”
+
+Sal frowned, and I didn’t break from his gaze.
+
+“To live without any acknowledgement— without others knowing about your existence— is no different from being dead.”
+
+I spoke simply, raising a hand.
+
+“If none of your actions, feats, or accomplishments are known, then did they truly happen? If no one is there to behold your greatness, then are you really great? And if no one knows that you’re alive, are you actually alive?”
+
+I balled my hand into a fist and pushed myself off the Devil. I looked into his eyes that had seen an eternity, and this time, I was the one to challenge him.
+
+“Maybe that’s why no one knows who you are, Sal. Maybe that’s why my name is being spoken by the Elves and the Humans and the Cyclopes and the monsters of this world. While your name is reduced to being a folktale amongst [Cultists].”
+
+I pointed at him, speaking defiantly and against his beliefs.
+
+“Sal, at this very moment, I am more alive than you. And if you continue to waste away, hidden from the world, things will remain that way. You are nothing more than a walking corpse.”
+
+I finished.
+
+It took a moment for my words to settle in, and the Devil’s gaze darkened. His brows creased, forming an arch that cast a shadow over his face. I wasn’t sure how he’d react to my repudiation of his philosophy, but he didn’t look happy.
+
+Sal opened his mouth—
+
+And sniffled.
+
+“My daughter… I can’t believe you’d lecture your old man like this. I didn’t teach you to be a rebel!”
+
+He feigned tears, turning away from me as I snorted.
+
+“Seriously? This is how you react after I said all that?”
+
+The Devil laughed and waved a hand off.
+
+“Please. I didn’t expect anything else from you. You’re really such a self-centered idiot, Salvos.”
+
+“I am not a self-centered idiot. I’m a self-centered genius.”
+
+“Maybe. But you’re still a narcissist. And you didn’t even answer my question. What does all this matter if you just die tomorrow? In a thousand years time, you’d be forgotten.”
+
+I folded my arms, shifting back slightly.
+
+“Well, I just have to choose my battles wisely while making sure people know who I am. It’s a delicate balance. It’s not all or nothing.”
+
+“And you think this was a wise battle?”
+
+Sal gestured at the remains of the Corrupted Centinel around me. I paused when I took in the landscape— it seemed like the corruption was vanishing, and the parts of the Bloodied Gulf that had been flipped over by the corruption were returning back to normal. Although, the parts that were destroyed from the fight remained unchanged.
+
+“This is something you instigated. I was being smart before all this.”
+
+I bit my lower rip as the Devil’s gaze bore into me.
+
+“...and maybe I got a bit too cocky once I gained my Grand Skills. But still! It’s your fault!”
+
+“Sure, sure. Keep telling yourself that.”
+
+Sal rolled his eyes and stepped forward. Spreading his arms wide, he tilted his head and gave me a mischievous look.
+
+“Anyway, I did as I promised, didn’t I? As I promised, you now have a Grand Skill. No— you have two Grand Skills. I did a pretty excellent job, don’t you think? Your father deserves some, ah, acknowledgement, doesn’t he? After all, as you said, he’s lacking quite a bit in that department.”
+
+I snorted as the Devil tried to tease me. But he was right in this regard. He kept his promise, and I was truly grateful. So, I hugged him and smiled.
+
+“You’re right. Thank you, Dad. For all you’ve done for me.”
+
+Sal froze where he stood as Salvos embraced him. He stared down at her, blinking. He was definitely not expecting that. And…
+
+Did my heart just miss a beat?
+
+“Wait, wait, wait— I was kidding!”
+
+The Devil pushed me back, and I cocked my head.
+
+“But I’m not kidding.”
+
+“Yes, but, you’re supposed to… I was just…”
+
+He trailed off. I peered at him— inspecting his worried face.
+
+“Is something wrong, Dad?”
+
+I watched as he backed away from me and covered his face.
+
+“No, no, no, no, no, no. This isn't right. I’m supposed to be the one who’s teasing you.”
+
+“But I’m not teasing you, Dad.”
+
+For whatever reason, Sal melted into the ground and groaned. I poked him on the side, giving him a puzzled look.
+
+“What’s wrong, Dad? Are you alright, Dad? Dad? Hey, Dad? Daaaaaad?”
+
+He rolled on the ground, making an odd wheezing noise as though he was dying.
+
+“Someone please kill me…”
+
+I just stared at him as he lay there for a moment. Then suddenly, I felt the ground shake. My eyes flickered, and the Devil was up in an instant. He stood over me, already holding his pitchfork.
+
+“What’s going on?”
+
+My iridescent flames came to existence around me as the tremor grew more and more violent. Sal didn’t respond, simply remaining on guard. Then, all around us, the ground burst open. Giant, undulating shapes exploded from the ground, swarming all around us. Red carapaces and shells. Barbed limbs. Wings. And an all-too-familiar enemy.
+
+Except, dozens more.
+
+[Ancient Centinel - Lvl. 156]
+
+[Ancient Centinel - Lvl. 175]
+
+[Ancient Centinel - Lvl. 161]
+
+[Ancient Centinel - Lvl. 183]
+
+…
+
+My eyes widened at this sight. At the multitude of [Ancient Centinels] that gathered around us. A bead of sweat trickled down my neck as I could only watch them come. They didn’t attack right away, just seemingly gathering around us.
+
+And it was from the center of this gather, I saw a lean pink figure emerge. It was no bigger than a Human. Smaller, in fact. Like it had the upper body of a Goblin. Its lower body was reminiscent of a [Younger Centinel], and it was coiled around itself like a snake clinging onto a pole.
+
+It… almost looked like a woman. It even had a mass of spiked hair coming from its head— something Sage Centinels didn’t. I quickly used [Identification] on it, and the results only made me more nervous.
+
+[??? - Lvl. ???]
+
+I couldn’t see its level.
+
+Sal stepped forward, keeping an arm out so I wouldn’t approach it. He bowed and smiled.
+
+“Greetings, Matriarch Centinel. It has been a while since we’ve last seen each other. My, you’ve leveled quite a bit since the days back in the Endlands, haven’t you?”
+
+It didn’t respond to him. Not immediately. Instead, it just stood before us as the mass of [Ancient Centinels] calmed down. The Devil drew back, still gripping onto his weapon.
+
+“May I ask what the [Progenitor of Secely’s Centinels] wants to do with us? I was under the impression that you were more of a… recluse.”
+
+It brought an arm up, pointing at me, and I tensed.
+
+“Her.”
+
+It made clicking noises that were somehow more garbled than anything I’d heard from any other Centinel thus far.
+
+“Her. Kill. Child. Mine.”
+
+“She killed your child? Well, yes. I’m sure she’s killed plenty of your children. Why do you care? They die all the time.”
+
+Sal just shrugged, but it wasn’t placated by that.
+
+“My. Daughter. My. Own. Child.”
+
+It hugged itself, digging its fingers into its own shell. It began to cry, but instead of tears pouring down from its face, [Infant Centinels] fell out by the dozens. They crawled away from her before she crushed them all with a whip of her lower body.
+
+I grimaced at that— I guess it didn’t care about anything that wasn’t an [Ancient Centinel].
+
+“Kill. Her.”
+
+It pointed at me, and Sal stabbed his pitchfork on the ground.
+
+“Sorry, you may have lost your child, but you have plenty of others. I’m not going to let you have my only daughter.”
+
+The Matriarch Centinel let out a horrific screech as it charged us. The [Ancient Centinels] moved, and I readied for a fight. But Sal just grabbed me by the arm, waving at them and creating a portal.
+
+“Seeya next time!”
+
+And with that, we were gone. The portal closed as they crashed into nothing. When I opened my eyes, I was back in my Dad’s home.
+
+End of Volume 5 Part 1
+
+Author's Notes:
+
+Volume 5 is being split into three parts, each with different focuses and themes. Volume 5 Part 1 focused heavily on Salvos’ own personal growth, and Volume 5 Part 2 will have a different approach too. As said at the start of the week, no chapter tomorrow. So, next chapter will be on Monday.
+
+If you want to read ahead to the start of Salvos Volume 5 Part 2 right now, check out my patreon. MelasD (Melas/Salvos/Tian) is creating Web Novels / Web Serials | Patreon
+
+If you want to, you can check out my merch too. I have a poster! https://deltaverse-merchandise.creator-spring.com/
+
+Once again, do consider checking out the charity linked to support Ukrainians suffering from war. Donate now (redcrossredcrescent.org)
+
+Otherwise, thanks for reading as always.

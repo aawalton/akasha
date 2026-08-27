@@ -1,0 +1,341 @@
+---
+id: affda209-8519-5f97-9064-248aceda6bff
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED TEN:  Sun"
+slug: 0212-two-hundred-ten-sun
+partOf: super-supportive
+position: 212
+ownLength: 3834
+unit: words
+publishedAt: 2025-04-03
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2170142/two-hundred-ten-sun"
+royalRoadId: "2170142"
+---
+
+210
+
+******
+
+How did I get here?
+
+The tall, yellow grass surrounded him in every direction.
+
+How is it happening again?
+
+No wind. If he held still—and he was holding still, his feet planted by uncertainty and horror—then nothing moved. Even the clouds, hanging low overhead and dimming the day, appeared motionless.
+
+Why?
+
+It was so quiet.
+
+During a storm on Anesidora, facing a raging sea, he’d told Stuart about this. About how he hated it.
+
+“Even before the Contract failed, it sucked….That place felt like death even before it turned into death.”
+
+That conversation had happened. Once upon a time. When had it been?
+
+Something’s gone wrong.
+
+Alden turned slowly in place, straining his eyes.
+
+I have to get back.
+
+He looked for any sign of life, anywhere, and he didn’t find it.
+
+Home. Earth. Now.
+
+“System!” he shouted. “Contract! Are you there?”
+
+The wizards with Alis-art’h were supposed to be building a new one. A better one. If this was the bad side of the moon, and the grass had had time to grow back, shouldn’t it be here?
+
+Please, not again.
+
+“Contract!”
+
+The answer that came wasn’t the one he wanted.
+
+He felt a pressure that had once been so unfamiliar he’d clumsily identified it as a privacy violation. Being spied upon.
+
+Eventually, it had become a very familiar enemy. That thing you had to assert yourself against all the time, that would wear away at your edges and leave you slightly askew—chaos.
+
+No.
+
+Alden told himself it wasn’t too much. He wasn’t worn down. It didn’t feel as bad. He tried to be calm.
+
+But a speck of black drifted lazily up from the ground a few inches in front of him, and as it floated upward, it skimmed a single blade of grass. The vegetation withered and curled.
+
+Alden’s breath caught, a feeling like a knot tightening painfully in the middle of his chest.
+
+Sometimes, they change direction suddenly.
+
+He backed away from the demon bug, and when backing away wasn’t enough to control his fear, he turned and ran.
+
+More black specks were rising. A buzz was filling the air.
+
+It was happening everywhere he could see as he fled. He thought the swarm was a little thinner in the direction he’d chosen, but he still had to slow to a walk to dodge the bugs.
+
+And it was so much like it had been last time. Only worse. He didn’t have the lab coat for protection. He didn’t have an object preserved, so he didn’t have his trait.
+
+The corrupted zone must have an edge, he thought frantically. What if I’ve picked the wrong direction? Am I moving toward the center of the problem or away from it?
+
+Beneath his right foot, the ground gave way, and he stumbled.
+
+Careful. Slower, he commanded himself, staring at the crumbling edges of the hole that had tripped him. Keep walking. Stay alive until help comes.
+
+Stay safe. That’s the most important thing.
+
+As if that thought had summoned it, a sound other than the buzzing reached him. It was so quiet he believed he’d imagined it at first. But then, as he realized it was real and as he recognized what it was, that tiny, silver chiiirrrr-chirrrpp of noise became as loud in his heart as anything he’d ever heard.
+
+“Kibby.” Her name knifed its way out of him on a breath. Not you. You’re not supposed to be here. You’re never supposed to go through this again.
+
+“Kibby, I’m coming to find you!” He screamed the words. She had to hear him. She had to know she wasn’t alone. “Kibby, keep whistling! I’m coming!”
+
+He rushed—cautiously enough that he wouldn’t break his neck in a fall and leave her here in this hell by herself, but fast enough that it was only a matter of steps before he was struck by a demon. It had zigged toward him when he had expected it to travel past him. Both of them were moving too quickly for him to dodge it.
+
+The grasshopper demon smashed into his chest on the upper left side, and he looked down, registering the hole left in his Hawaiian shirt, bracing for that feeling he’d gotten the very first time one of them had touched him.
+
+It would be a hurt that wasn’t physical. An intense, violating confusion of a sensation that he hadn’t had the ability to truly understand.
+
+But now, the mote of concentrated chaos had hit him. And though it was a bad feeling, it was a milder blow than the one he’d anticipated. The demons were less they had been…or Alden was more.
+
+Who cares? Keep going. He started moving again. I have to get to her. Can she hear me calling out to her? What if she stops whistling?
+
+The thought gripped him like a fist, and he sped up.
+
+I can’t lose her. Where is she?
+
+Realization burst inside him a second later, and it was a wonderful realization.
+
+What am I doing? This isn’t before. I know now that I can do it without a System’s help. If she’s close enough for me to hear the whistle, I can…
+
+Alden had his skill. He was his skill.
+
+The very first, most basic part of what he could do with his bound authority was something he was still learning about. In gym class with tennis balls flying toward him, in an intake apartment with Hadiza handing him a beautified ice cream cone, and also in his room at Celena North, imagining his affixation in a way that was a little kinder. Not the confining chains and the machine he’d pictured so many times in the weeks after he’d finally grasped what his species wasn’t supposed to be able to, but something else.
+
+Targeting my entruster. Choosing the person I want to serve with my power.
+
+It was strangely easy and clear to him right now. An unfolding of a small but important part of himself, a turning toward and an acceptance of…a personal sun.
+
+Kibby. There you are.
+
+In that moment, Alden thought he could have found her from a whole world away.
+
+******
+
+******
+
+“The dream that troubles Alden is filled with fears that muffle his reason and hide truths from him. To help him, I don’t tell his mind what is reasonable or truthful. I only present the challenges and alterations he has discussed with me, and I watch over him as he experiences them.”
+
+Yenu-pezth’s eyes were closed, but her bare feet moved unerringly along an oval path laid out on the floor in the white smoke from a yosha plant. The leaves smoldered in a shallow bowl placed on Alden Thorn’s chest, and Stu-art’h watched the steady rise and fall of it from where he stood in the corner of the room.
+
+“His walk with me earlier enhanced his ability to make connections between present questions and past experiences,” the healer continued. “You are familiar with that effect of the path yourself.
+
+“Now, I help him maintain that openness of thought beyond what would normally be possible in a state of heightened stress. When the fear becomes so strong that he is in danger of becoming trapped by it, I sweep some of it away. I interpret the tone of his confusion, as well as the threads of his satisfaction, confidence, and loss. In this way, I know when he has found what he hoped for. Sometimes, I check in with him by reminding him of what we are doing, but most of the time, he is unaware that he’s dreaming.”
+
+Stu-art’h waited for her to finish another turn around the sleeping human before he spoke. “He should have disliked me after our first meeting, even if he did accept my apology. When I learned he was lost, I contemplated his behavior and his sufferings. I admired him. I wished that I could have a chance to meet him again, but I didn’t think he would want to meet me.”
+
+Yenu-pezth didn’t reply. She had just stepped closer to Alden and bent over to prick one of his fingertips with her long pin.
+
+“The Mother brought him to our house for reasons I understand. But then she allowed him to stay without announcing his presence to anyone. He came to see me. He seemed happy to meet me after all, but when he left, I thought perhaps that had been out of politeness.” He took a couple of steps toward the center of the room. “Later, he sent me videos from Earth of things he likes. Musicians marching in formations and black and white animals called panda…”
+
+“Stop sneaking away from your corner,” said Yenu-pezth. “Nothing bad is going to happen to the human you’ve discovered such a fondness for.”
+
+******
+
+******
+
+“There are too many demons. What if your human brain is distracted trying to see them all, and you don’t notice bad ground? The car will roll over.”
+
+They had spent the past two Earth days packing the car and preparing to survive a long trip. Alden had stopped being baffled that they were both here again. For some reason, it had happened. For some reason, most of the lab had been rebuilt. For some reason, the universe wanted Alden Thorn and Kivb-ee dead.
+
+And the why just didn’t matter to him. It had stopped mattering the moment he’d found her there in the grass, put his arms around her, and told her not to be afraid.
+
+The universe could go fuck itself. Alden was going to make sure Kibby got out of here and lived forever.
+
+“My human brain is good,” he said, looking down at the plate of food on the table in front of her while his fingers finished braiding her soft brown hair.
+
+Since he’d started hairdressing, she’d pointed out fifteen different reasons why leaving today might result in disaster, but half of the scrambled curds he’d made her were gone and all of the marleck berries. So whatever was making her nervous wasn’t bad enough to kill her appetite.
+
+And she’d seemed fine when they were picking the berries. Where one of the greenhouses had been before, there were marleck bushes now, irrigated by the same sprinklers that the Elepta farm had used.
+
+Formerly irrigated, actually, since Alden had taken every single sprinkler. They were loaded into the car with a thousand other things.
+
+He wrapped the piece of string she wanted as a hair tie around the bottom of the braid. It matched the auriad around her neck. It almost perfectly matched his own. He wore his casting tool openly on his wrist right now, and he’d caught his little instructor looking at it smugly a couple of times. She was proud of her contribution. Proud they matched.
+
+“My human brain is even better than the last time we were together, and it got us out of here then, didn’t it?” He leaned over to see her face. “Why do you look so doubtful? Are you being funny-mean to me with that expression?”
+
+When Kibby didn’t answer, he tried to guess what might be making her more hesitant to go this time than she had been before.
+
+The lack of necessity could be it.
+
+When they’d fled the lab in the past, there had been no other choice. She’d been weakening. Salvation had been too many days away. Now, this new lab looked like a fortress. And it didn’t help that the land surrounding it was still swarming with tiny demons that hadn’t yet lost their grip on existence and dispersed into the general spreading chaos. Some of them were powerful enough to put holes in the old car.
+
+Or maybe it was less about power and more about the chaos around some demon bugs having exactly the wrong effect on the wrong part of the enchantments that protected the vehicle. Whatever the case, he was telling her they were going to drive through miles of the things.
+
+And we’ve both seen those trails in the grass again. Something bigger is—
+
+A buzzing caught his attention, and he looked up to see one of the stray demons that sometimes made it into the lab drifting around over the microwave.
+
+“Kibby, can I have this?” he asked, pointing toward the paper napkin beside her plate.
+
+She nodded, and he picked it up.
+
+I could swear this is the same kind of napkin we have at Cafeteria North. Did I bring it with me in my pocket and forget?
+
+The origin of disposable paper products was less important than making her feel better. He preserved the napkin and walked over to the microwave.
+
+“Watch this with both halves of your attention,” he said, holding the napkin in front of the oncoming demon bug.
+
+She made a sound of protest right before the demon bumped into the magic created by Alden’s skill. But the transformed creature shattered on impact and disappeared except for a single blackened fragment of something that might have been a piece of exoskeleton.
+
+Or it could be literally anything else considering chaos is involved.
+
+The fragment fell to the floor.
+
+“The first time one of those hit my shield, I was scared,” he told her. “It seemed so strong. Now, I understand more, and I’m a lot stronger. My skill is more powerful than it was when I carried you to Hn’tyon Alis-art’h.”
+
+“You carried me most of the way,” Kibby corrected. “I helped you get to the travel dome at the end.”
+
+Alden nodded. “You did.”
+
+“You were hurt,” she said in a small voice, her face turning back toward her plate. “Last time, you were hurt. Avowed Rrorro helped you…but it was…”
+
+Broken bones. Abraded lungs. Skin missing from his feet, and sores burning on his back. The memory of waking up for the first time in the travel dome, only partially repaired and in pain, came to the forefront of Alden’s mind.
+
+If I end up in that shape again because I insisted we leave this place…what happens to Kibby?
+
+As he watched her finish her breakfast, a dread even more oppressive than the chaos crushing in on him began to grow.
+
+******
+
+******
+
+“This is interesting.” said Yenu-pezth, regarding Alden’s sleeping form. “He’s found a fear we didn’t plan for. Or perhaps one we did plan for has arrived on its own, at a point in the dream when I didn’t expect for it to appear.”
+
+“What do you do for him now?” Stu-art’h asked.
+
+She thought for a moment, then she reached for a wand that lay on the floor beside Alden’s ear.
+
+“He’s trying to calm himself and think through it,” she said, drawing a line in the air with the tip of the wand. “I will make space in the dream for him to do so.”
+
+******
+
+******
+
+Alden walked the curving halls of the lab’s residential section. He was alone for now, trying to control his doubts.
+
+He’d had a plan. They’d been working toward it from the moment he’d carried her here. But now…now he was worried that trying to escape might actually be a mistake.
+
+If I’m wrong about being strong enough to get us away from here, she could be stuck out there with my corpse and no way to survive.
+
+This corruption event wasn’t like the last one. It was different in ways that were all to their benefit, except for their mutual lack of knowledge about how they’d ended up back on Thegund. This time, Alden had thought he could get them out.
+
+The plan was all there in my head. Almost like I worked on it before I ever got stuck here again.
+
+Sprinklers. Food. Mover discs. All the other supplies. The walls of the charging shed had been a pain in the ass to tear down and load onto the roof of the car, and it might not charge very well without the base, which would have to be left behind. But if it got them even a little farther on wheels, then Alden wouldn’t resent hauling it along.
+
+They were supposed to get out of the chaos, head for the place where Alis-art’h had arrived the last time this had happened, and keep going.
+
+The ruins of an abandoned city were in that direction. A few people still lived there. They would find shelter and some means of communication with those reclusive few if they could. If not, they would cross the whole freaking moon, and Alden would walk into Chayklo with Kibby on his back and say, “We politely request assistance,” to the first Artonan he found.
+
+It sounded possible. If a lot of things went wrong, there were even plans B and C and D…but there was no plan that worked for Kibby if Alden got himself killed.
+
+He passed door after door, agonizing over the matter.
+
+I’m almost positive I could do it.
+
+And I’m almost positive I could keep her safe here at the laboratory until help came, too.
+
+He could preserve her every waking moment. He had more than twice as much bound authority now. His skill would hold, he’d be more stable, and he wouldn’t tire before someone showed up.
+
+If they came as quickly as the Quaternary had. If they came at all.
+
+At some point, do they just give up on repairing this shitty moon and abandon it for good?
+
+There had to be people who cared about it. They’d built another lab. And if she was protected by his skill most of the time, then Kibby would be all right for as long as Alden was.
+
+Last time, leaving had truly been the last resort. This time…it was a choice he had to make for both of them.
+
+Choice.
+
+My choosing season. I was glad to have one. How did I end up here?
+
+He brushed the thought away and refocused.
+
+The responsibility for getting everything right and not getting them killed had been hard before, and now here it was again, in even more overwhelming amounts. Kibby would go if he said to or stay if he told her that was best.
+
+He felt so alone with the decision that he wanted to scream.
+
+Am I freaking out? I want to. But I can’t do it in front of her. No scaring the little girl.
+
+Abruptly, he turned into one of the rooms, no goal in mind other than getting even more privacy. He just needed a moment to compose himself before he went to find her and tell her, warmly and confidently, that he knew what he was doing.
+
+That’s how it works now. You’re the rock. You get it right, or you get it wrong.
+
+The door shut behind him. He slid down it and squatted there, eyes closed, trying to pull himself together.
+
+When he opened them again, he discovered that he was facing a familiar painting on the wall.
+
+“You,” he said. “You’re not supposed to be here.”
+
+But then again, none of us are.
+
+The knight in the painting was exactly as Alden remembered from when he’d seen it at the Rapport School. How long ago was that?
+
+Although the barren red landscape and the knight with his spindly plant and his lantern were there, the painting had lost its magical pull. Instead of falling into it, Alden was able to look at it normally.
+
+It must be a copy, he decided, approaching it.
+
+The magic might not be there, but he still recalled the feelings the artwork had given him as clearly as if he’d seen it only a day or two ago.
+
+The knight was tired. He was besieged by chaos on all sides. He protected one tiny patch of that world from the shadowy figures of the demons.
+
+He was alone in a hellscape, too.
+
+Alden pressed his hands to the painting on either side of the man’s image. He felt the roughness beneath his palms, let his face draw close. He thought about what he saw there for a long time.
+
+“Thank you,” he said finally, stepping away. “You’re amazing there with your light and the life you’re guarding. I’m sorry you had to be in that place. I hope the fact that there’s a painting of you means you made it out.”
+
+He left the room and found Kibby waiting beside the loaded car. He crouched in front of her, gravel shifting beneath his feet.
+
+“Listen,” he said, reaching for one of her hands and smiling at her with every bit of confidence he had in him, “this place is dangerous for us. Being trapped here for so long hurt us. Too much chaos, the not knowing, that time you almost took out my eye with a rock you threw—”
+
+“The best Avowed should have been able to catch that,” Kibby said.
+
+He laughed for her. “I should have. You’re right. But this place is dangerous. It stinks. And my skill and I are strong enough to get us out. Trust me. I’m going to take you to Chayklo. We’ll watch a poetry festival together, and you’ll explain all the complicated words for my human brain, okay?”
+
+Her face turned serious. “Yes.”
+
+“All right,” he said, putting some enthusiasm into it. “Let’s go!”
+
+They climbed into the car. They’d be sharing a seat. With the risk of having one of the demon grasshoppers come through the windshield, Alden wanted to shield Kibby for the whole drive to the edge of the corruption zone. It hadn’t spread so far yet. If everything went perfectly, she wouldn’t have to feel the chaos again.
+
+I’ll get us beyond its reach then let her take over for a turn, he thought, pressing the memorized series of buttons. Her stomach will still be full from first meal. She’ll be wide awake and smiling.
+
+His own stomach was churning.
+
+“Where did you get these?” Kibby asked curiously, reaching for his forehead.
+
+A second later, the sunglasses that had been resting there were knocked down onto the bridge of his nose. I brought these with me, too?
+
+“From some Ryeh-b’t Avowed on Anesidora. They are the traditional face jewelry for people in Hawaiian shirts.”
+
+“They look like protective glasses for too much light.”
+
+“They’re that, too,” he agreed. The engine whooshed to life. “Can I protect you with my skill now?”
+
+“First, I have to tell you I added something to the car. Another ingredient for weapons. In case we need one.”
+
+“More explosives?”
+
+“It’s the green jar in the back. It doesn’t explode on its own.”
+
+“Okay.”
+
+“Don’t drink it,” she warned.
+
+“I’ll try to resist.”
+
+She looked at him with one brown eye while the other turned slightly to stare over his shoulder at the place they were leaving behind. Again. “You can use your skill on me now.”
+
+He nodded. “I’ve really missed you. Let’s get out of here and watch some Klee-pak together.”******

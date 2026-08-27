@@ -1,0 +1,423 @@
+---
+id: 78d6fcaa-5163-59ed-9c94-53cb65eac577
+page-type-slug: story-chapter-royal-road
+title: "Chapter 219: Mercy’s prerequisite"
+slug: 0144-chapter-219-mercy-s-prerequisite
+partOf: the-calamitous-bob-stubbed
+position: 144
+ownLength: 5281
+unit: words
+ownProgress: 5281
+publishedAt: 2025-09-05
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2576709/chapter-219-mercys-prerequisite"
+royalRoadId: "2576709"
+markedReadAt: "2026-06-29T21:19:33.084Z"
+---
+
+The descent towards the ravaged city of Barrier was a long and quiet affair. Viv’s gaze kept lingering on the marks of devastation off the path to her right. Most of them were burn tracks but here and there, claws scarred the walls where the town’s butcher had landed for a better angle. The smell was next. Now, Viv knew the town had been killed less than two weeks before from the way the wind carried ash, and, beyond it, something burnt and rotten. Her acute mana senses picked presences long before they arrived at the foot of the mountain, yet she remained quiet. It wasn’t just her confidence that those were Sandsong scouts: the view of the land had ruined her mood more effectively than days of pressure could have managed.
+
+Veiled soldiers soon emerged from between boulders and half-demolished walls, surprising the Ravinport delegation. Viv noticed that they’d wisely kept their distance so as to not get picked up by the blade master’s acute senses. Viv was summarily inspected while Ambassador Bes, flanked by his two servants, took the lead in the confrontation. With great dignity, he hailed the men and women now blocking their path in a loose half circle. Viv only paid minimal attention to the official declaration. The scouts around them wore the yellow of Sandsong. They were not foes. Instead, her gaze traveled to a section of the ruins that had remained hidden so far, beyond the main entrance wall. She had spotted it before, but now that she knew it was here, she had to see it. Her feet carried her in that direction before her mind could catch up.
+
+A scout placed his spear near her but she batted the shaft out of the way. The ambassador’s voice wavered before he bravely pushed on, somewhere behind where it didn’t really matter. Black mana seeped around and through the brown and red of the sun-baked fortifications, pallid bones exposed under the falling plaster. She knew what she would find there. As soon as she passed the edge of the protective wall, it came in full view.
+
+It was a mass grave. From the black mana grasping up even in the light of the late morning, at least half of the population was buried there in a shallow pit. That meant not just the defenders, but their families. The artisans. She turned her head towards a leveled farmstead. Even those who worked the soil.
+
+When Judgment had punished Aristan for its arrogance, he had reduced their proud military to cinders, and the city to a husk, but he had proceeded district by district, giving the people time to evacuate. There had been a very thorough tale because Judgment had been, for a hostile dragon, merciful. This one had destroyed Barrier like a child kicking over an anthill before burning the surviving insects as they carried their eggs deeper. It disgusted Viv. It reminded her of Lancer’s methods, or the atrocities she’d seen in Regnos during her brief foray to help with the aberrant cleanup.
+
+War required a cold heart, but when one saw its adversaries as nothing more than pests to be eliminated, then a step had been taken that could not be taken back. Viv’s heart dived in her chest. So far, she had thought there might be a chance for diplomacy. The majority of her interaction with dragons had been peaceful because they were surprisingly rational and calm as far as giant creatures of legends were concerned. This was different. The dragon was not punishing. They were exterminating.
+
+“Lady Jaratalassi? Sai?”
+
+“Hmm?”
+
+The person who had talked was Captain Sin. A few veiled Sandsong sentries stood at a respectful distance. He was frowning.
+
+“I thought you were from beyond the sea. Did you have any family in Barrier?”
+
+Viv noted the past tense.
+
+“Sorry, the sight was awfully familiar in the worst possible way. You can feel it, right? The black mana…”
+
+The blade master closed his eyes for a little while before nodding.
+
+“At least… seven hundred dead. More than half the town’s population.”
+
+“I thought so as well. In any case, we should leave. I have delayed us enough as it is.”
+
+“Quite so,” a voice complained from a distance.
+
+It was Ambassador Bes shaking his head with anger.
+
+“You cannot stand to be anything else but the center of attention for more than ten heartbeats, then? You could not even wait until I finished my introduction?”
+
+Viv pressed back her anger. It was true that, from his perspective, a member of his delegation moving away while he talked was quite rude. She decided to give the man a bit of face considering the circumstances.
+
+“Apologies. I just noticed…”
+
+She pointed at the field of upturned earth dotted by hastily made religious symbols carved into stone slabs.
+
+“What? What is it? Are those… graves?”
+
+“This is more than half the population of Barrier.”
+
+The Ambassador made a holy sign with his fingers.
+
+“Enttiku guide their souls…”
+
+His expression softened.
+
+“I hope you are as good as you seem to believe, Sai Jaratalassi.”
+
+“You will see soon enough,” Viv hissed.
+
+Some scaly fuck was going to regret their life decisions.
+
+***
+
+The Sandsong sentries received them with softly uttered promises they would lead them to their king. A group of around fifty soldiers escorted them in loose formation through the abandoned outskirts, then towards a wall of sand dunes blocking the horizon. They were guided in a polite yet careful manner, and if Ambassador Bes suddenly decided he wanted to go another way, he would still be pushed onward by spear tip if necessary. The Sandsong people remained sullen and taciturn the entire way, their eyes aimed up as much as around.
+
+Viv had expected the carts to have some difficulty traveling the sand, and she was pretty sure the best strategy was to follow crests and yet, the path behind the head scouts was more firm, more manageable, somehow. She noticed the barest hint of brown mana left behind in their footsteps. Yet another example of specialized paths pushed to their extremes so mankind could prosper.
+
+Shortly before night, a whistle rang from one of the back ranks. A few of the Sandsong looked up in alarm while their sergeants barked orders, forcing them to move. With commendable speed, the soldiers covered all the carts with sand-colored tarps. Everyone huddled underneath and the place fell silent.
+
+Viv placed her head as close to the edge as possible on account of the unwashed human smell which, outside of the tarp, had remained manageable. There was nothing to see at first but then she spotted it. Far above them, a dark shape flew under the vivid purple of the twilight sky. It was flying away from them. Soon after, it was gone from sight.
+
+“The Black One’s hungry,” one of the soldiers whispered.
+
+Mutters erupted after though the officers were in no rush to get people out, perhaps in case the dragon decided to head back. That was when Viv heard it: a sound like a bugle constantly running out of air, or a very large bumblebee. Her imagination conjured giant wasps and the likes, but the lack of alarms among the locals told her it was probably not that. Instead, she saw sand flowing down like a slow river. Brown mana pulsed above them.
+
+The irregular call suddenly gained a rhythm. Viv felt the mana stir above her in a more primal, undirected way than spells would. She looked up with curiosity.
+
+More of the sand flowed down but it was a very slow trickle, and nowhere close to enough to risk submerging the covered carts. By contrast, the strange call had turned into a song. The source being strange flickers of light jumping across the sand about midway up the slope.
+
+It took a long time to confirm what she was looking at. They were not unlike sprites, fragments of images barely visible when the sun hit them just right, then disappearing, or changing. She couldn’t be sure. Half a butterfly wing, a scale in a bowl of water, fingertips, a feather, the images blinked in and out of existence as the song gained in volume. Those were… shards of elementals. Similar in nature in the same way a minnow is related to a hammerhead shark. And they were performing music.
+
+Slowly, the song went away as this side of the dune calmed and the fragments traveled onward, perpendicular to the path she was traveling, until all she could hear were echoes.
+
+“Song of the sand,” she whispered.
+
+A nearby soldier nodded. He seemed young under the yellow veil, and quite proud.
+
+“It is a beautiful call,” he said.
+
+“That it is.”
+
+The group continued on well into the night. No one started any fire this time, and Viv grumbled although they still had food left. It took another full day before she spotted a splotch of incongruous green bursting out of the ground right behind yet another tall dune.
+
+They’d found an oasis.
+
+The soldiers whistled a tune. Other soldiers emerged from various hiding spots including from under the sand itself which made Viv itch in sympathy. The oasis turned out to be as large as a town, with several metal ballistas installed at regular intervals. They looked nasty, but they also looked expensive and situational.
+
+As the soldiers wordlessly guided them towards a gathering of large tents at the center of the green expanse, Viv inspected the ground here. It was a wonder but she was actually certain the oasis was entirely artificial. There were patiently carved mana channels improving water flow around vegetation enriched with liberal application of mana — most likely from a gardener path. As expected, the palm-like trees were thick with all manner of fruits she couldn’t recognize. As they neared the tents, she noticed a large well in the center, with an open cover and the very distant sounds of someone digging. This one went deep.
+
+The soldiers near the tents had more in common with Captain Sin than with base soldiers. Garbed in chain mail and rich yellow fabrics, they carried enchanted polearms and bows of various sizes, a sure sign they were custom made. Viv was inspected as she approached but once again, if anyone could tell there was a trick, no one reacted.
+
+The escort was politely moved to the side. Soldiers tried to pull Viv aside as well but she refused. When it looked like they were hesitating, Bes unexpectedly came to her rescue.
+
+“Soldier, Lady Sai Jaratalassi has crossed the Ocean to meet your royal family. Or so she claims. I kindly ask that you let her in.”
+
+He was obeyed after a sign exchange between the elite soldiers. Viv risked an inspection.
+
+[Royal Guard. Fourth step of a warrior path dedicated to defending Sandsong royalty. Not dangerous. Close quarter expert. Bodyguard. Slayer of men.]
+
+The royal guard locked eyes with Viv. She shrugged. They’d started it anyway. As they were led to the largest tent, Viv addressed Bes.
+
+“Thank you for the assistance. You surprise me.”
+
+“Either you are as important as you believe, or I will have the pleasure of seeing you struck down for your arrogance. Both outcomes would satisfy me.”
+
+“Fair enough,” Viv replied.
+
+She wasn’t even mad. The elite guard took Viv’s knife away and then yellow-clad mages gently confiscated her gauntlets as well, proof they were not incompetent. One of them was about to grab her medallion when he froze.
+
+He looked up, dark eyes wide with surprise. Bes’ brow rose as well.
+
+“Right over there, my lord and lady,” he hastily said.
+
+“It appears your reputation does precede you,” the ambassador mentioned in a wry tone.
+
+As soon as they entered the tent, Viv was slightly taken aback by the scene. The room smelled unlike anything she’d expected. It was a smell she was familiar with from visiting people as part of her duties. It smelled like a baby.
+
+Clean baby, which was definitely better than the alternative. It also sounded like baby. There was a distinct happy gurgle emerging from behind the wooden panels that cut the large tent in half. A folding chair that must act like a throne waited near the front between two royal guards even more heavily armored than their peers.
+
+Viv settled to wait. Soon after, a tired looking man entered the room.
+
+He kind of looked like what Sidjin would have been if Sidjin were a jock instead of a mana nerd. Actually, he could have been Sidjin’s older bro, the one who slaps his shoulder with love and propels him into the nearest couch. Well, they were not that similar but the Arabian Night energy was there and he did have a large saber hanging in a sheath. He also moved with the measured confidence she had seen in so many weapon masters. He barely spared Viv a glance before greeting the ambassador.
+
+“It is a pleasure to meet you, envoy from Ravinport.”
+
+“It is my honor, King Jei. My name is Bes of the Saritalagi family. I greet you in the name of my city. May your reign prosper.”
+
+“Thank you. I apologize for the poor reception. The hour is dark, and my dear wife the queen must attend to our young child whom I wish we didn’t have to bring with us… But before we begin, is this your peer?”
+
+Viv felt the intrusive caress of inspection.
+
+King Jei froze, his expression turning into a mask of stupefaction. Viv felt the inspection, again, this time more deep though it quickly withdrew like a hand found in someone else’s bag.
+
+“You… it’s you… but… could it be? We did not dare hope… Is it really you?” he said in accented Old Imperial.
+
+“I received your invitation and your proposal,” Viv replied with the biting tone of Imperial nobility. “I felt the pull of fate pushing me to agree. And here I am.”
+
+“This is unexpected,” the man continued in excited Viziman. “No, unhoped for, and yet… and yet you are here! You are really here!”
+
+Energy suffused his muscular frame. He stood straighter, now taller than her by half a head. It was as if a great weight had been removed from his back.
+
+“This changes things, no this changes… do they know who you are? Does anyone?”
+
+“I have managed to maintain secrecy.”
+
+“Fantastic. Absolutely fantastic. This changes… everything. Everything! Naila! Naila, my love. She’s here!”
+
+A tired dark-skinned woman walked in from behind the panels. Viv noticed a portly lady carrying a small bundle left behind — possibly a maid. The newcomer was a powerful red mage, something Viv had felt before entering the tent. She was also stunningly beautiful though tired, dressed in rich clothes with the large bosom of a new mother. She also had the deep pockets under her eyes that came with the role. The idea of bringing a baby to a dragon frontline was… but then, what did Viv know? She’d never birthed a child.
+
+A pang of bitterness clutched at her heart because that, too, Emeric had taken from her. Even if he hadn’t meant to. She pushed it away. There was nothing she could do about it, and reality was waiting. Always.
+
+“Hello,” Viv greeted.
+
+By now, the ambassador had his mouth open so wide Viv could have shoved an entire egg in it, but she didn’t take advantage. Queen Naila was next in expressing her surprise.
+
+“No… I mean yes… I cannot believe it!”
+
+Tears of joy and relief streamed down her cheeks. Viv thought they were perhaps a little premature.
+
+“She managed to maintain secrecy,” King Jei explained.
+
+He grabbed his wife in a half hug, not caring about the context. Viv still wasn’t sure why luck had whispered in her ears that this was where she was meant to be, but the locals certainly had high expectations of her.
+
+“Ahem,” King Jei said after a while. “I apologize for the overt display of emotions, however, I believe the situation warrants it. First things first. Ambassador, I imagine you are here to strike a defensive deal between our two nations?”
+
+Recovering instantly, the diplomat bowed.
+
+“That is correct, Your Grace.”
+
+The king looked embarrassed.
+
+“It is my regret to inform you that two days ago, the Sheem army reached Ravinport by land, and conquered it. The city has fallen.”
+
+“No…” the ambassador gasped.
+
+“I received the word from… special scouts. I am terribly sorry.”
+
+Probably air mages, Viv thought.
+
+“However, the city was prepared for war, and I have heard news that a flotilla of soldiers and mages fled the citadel before it could fall. The losses were heavy and the land is occupied, but your people’s leadership has survived thanks to your preparedness.”
+
+Bes gave Viv a glance. He was starting to suspect something. Not about her status, about her nature. Too many coincidences.
+
+“We hope the ships will reach our shores now that the storm is fading. Our own fleet is watching. The Sheem know that they do not have the advantage on the sea, so they are coming by land. Their army is already making the perilous journey to the Salt Mountains, following your path.”
+
+He looked down, wearily. Queen Naila took the lead in the following lull since the ambassador had yet to process the terrible news.
+
+“We were on the verge of considering surrender but with you here… and since they do not know… How confident are you that you can fend off the dragon?”
+
+“Would you say it’s an adult dragon?”
+
+“I am unfamiliar with dragon sizes…”
+
+“It is a young adult,” her husband confirmed.
+
+He gave her an apologetic look.
+
+“It was in the scout reports. That is what their inspection returned. I did not believe it to be a vital detail to share with you, love. Sorry.”
+
+The queen waved his concerns away.
+
+“A young adult then.”
+
+Probably someone about as strong as Meadow. The placid green dragon had always refused to spar with Viv but she’d faced dragonfire before and she had a few tricks up her sleeve.
+
+“I believe I can take it, yes.”
+
+“What?” Bes blustered. “Are you not an arcanist?”
+
+Viv hesitated, but the cat was out of the bag.
+
+“No.”
+
+“Keep the medallion on for now, please. We were hoping that you could chase the beast away and then support our army as we repulse the Sheem. Would you… consent to that?”
+
+The two looked on. Viv knew that they were supposed to swear allegiance in return for her help with the dragon, but as expected it was a poisoned apple. She would need to enter the war on their side as well if she hoped to keep her gains. It was a little devious on their part, but she understood they were desperate. And besides, she was here voluntarily, pushed by fate and instinct in what appeared to be a dangerously foolish endeavor. No need to get angry at this junction. She already had enough anger for the dragon.
+
+“The oath would be of little use if I just left afterward now, would it? And besides, I bear bad news. It appears the Sheem are allied with Nero Olleander, sovereign of the Shadow Lands.”
+
+The royal pair exchanged glances.
+
+“We have had news of strange ships of unknown designs treading our waters, but I would have never imagined…” King Jei started.
+
+“Perhaps they are from an unknown part of the Shadow Lands, yes.”
+
+“They might be allies, but our spies report no presence of a Shadowland army. We should be safe for the next battle.”
+
+“Then I must face the dragon.”
+
+Naila nodded, a little nervous.
+
+“The creature has mocked us. It ignores fortified places while burning villages and the likes. Two weeks ago, we made the mistake of stopping our chase.”
+
+“It burnt Barrier in retaliation,” Jei added. “It also destroyed our best defenses and many talented soldiers. We are at our wit’s end. We have tried to bring it to battle, but it ignored us.”
+
+“Is there a way to get it closer?”
+
+“It has consistently attacked caravans. I believe that it will attack another, should one be spotted. It is playing with us…”
+
+“The convoy sounds like a good idea. Before we do that, I will take your oath… in private.”
+
+“We will not fail you —”Jei began.
+
+“Do not say her name,” his wife interrupted. “the camp might have spies.”
+
+“She is right. If the dragon attacks out of sight of anyone, you can keep my existence a mystery until the Sheem arrive. When will they come?”
+
+“The presence of elementals is delaying them. We have a week, but no more.”
+
+“Then I’d best be off, but before I go, I have a request besides the oaths.”
+
+“Anything you desire.”
+
+“I’d like a bath.”
+
+The king and queen blinked a few times, but then they laughed. It was a brittle laugh but it did feel liberating, and Viv found herself smiling as well.
+
+“I will be on that convoy,” Bes said.
+
+Viv admitted, she wasn’t expecting that.
+
+“Are you serious?”
+
+“I am now a diplomat without a nation. If I must lose all I know, at least, I would like to see the truth with my own eyes.”
+
+Viv shrugged.
+
+“I have no objections. Let’s begin the preparations right away.”
+
+***
+
+A short caravan trudged alongside the ‘life road’, a stone path drawn across the desert going south to north. Sometimes, singing dunes crossed its path and the road, against all logic, swerved around to avoid them. It was composed of only three carts, yet the dust they lifted was so much, it was as if the drivers had the paths of roof cleaners instead. It was more than bait, it was a provocation to a creature that had preferred to strike unannounced before, yet it was such an insultingly small one that a curious, extremely arrogant creature with no predator would naturally seek it out. Despite being so blatant about the trip, it still took most of the day for anything to happen.
+
+Every minute of the trek had shelved months of lifespan from Bes’ harried heart. At the false arcanist’s insistence, she had taken the central cart alone while Bes sat at the back alongside Sin. The sturdy Janar sometimes turned to meet young lady Gar’s reassuring eyes. He had also taken it upon himself to drive the horses, a mercy, because Bes had never done it in his life.
+
+The first cart moved under the command of a lone scout, a volunteer who had lost everything at Barrier. Young Sai had been clear to everyone that they should leave the carts behind and run back ‘half a league or so’ when ‘the battle started in earnest’, whatever that meant. He had long since stopped to try and make sense from the unseemly disorder his life had become.
+
+Bes took a gulp of water. How foolish was he being right now? He did not dare contemplate. If he stopped, he would run back screaming all the way back to his family’s hidden estate, likely dying on Sheem spears on the way. No, he wanted to see this through.
+
+A dragon: the stuff of legends, of Ilim the Wanderer who outsmarted one according to Viziman children tales, of Eron of the South, who — the Paramese claimed — had killed one in single combat. Nonsense! And yet there was one here who pretended she could do the same? He had to see it with his own two eyes, and be a witness to history. That, or die a preposterous death… but the royal couple believed in her! He wanted, so much wanted to believe.
+
+Bes massaged his neck. He felt a pressure there, as if something pushed on his spine with a heavy hand. It was most likely the collected anxiety. Or so he told himself.
+
+Until the pressure increased, then increased. Sweat pearled on his brow, despite the cool temperatures so far today. An oppressive feeling clamped his chest. He gasped, turning to Sin.
+
+The stalwart soldier was sweating as well. His hand had covered Gar’s, who had gripped his virile shoulders. The two of them were wide eyed and sweaty. It was an expression that surely mirrored his own.
+
+It was coming. The Bane of Barrier. The Black Scourge.
+
+The Dragon.
+
+A shape masked the sun for the barest of instants, then wind pushed sand in front of them. Bes saw it then, the scales, the claws as long as daggers. He could not look up. He could absolutely not look up from the sheer terror. The thing swooped and then heat made the sweat evaporate.
+
+There was darkness, then three dull impacts, and then, silence. It was suddenly cold again.
+
+He looked up. He saw nothing. Nothing but lingering embers floating away in the refreshing wind.
+
+“Keep us moving, chop chop,” Sai said from the central cart. “At normal speed.”
+
+What?
+
+“What?” the head scout asked.
+
+“I said, let’s go again. Normal speed.”
+
+And against all odds, the horses accepted. The carts moved again. It was so surreal that Bes felt detached from his body, a mere spectator in a cosmic farce featuring godlike calamities and madwomen. Despite his disbelief, the short convoy resumed its slow pace for around fifty of his panicked heartbeats before a dark shape swooped down, the incredible weight returning with a vengeance. With wings extended until they covered the narrow valley between two dunes, the dragon landed in front of them.
+
+It was as tall as four men, as wide as a ship with its sails unfurled, and as for the length, Bes could not see it, but he did see its tail flick out like a black dart.
+
+CLANG.
+
+A strange shield, like a transparent honeycomb, appeared briefly around them. Sai Jaratalassi stood from the stopped cart.
+
+The two of them seemed to stop there. Bes didn’t dare move. Had he not needed it so badly, he would not have dared breathe either. Images of vivid clarity soon assailed his mind with such strength, he could not push them away. They were alien and terrifying.
+
+Interest. Amusement. Query: nature? Purpose?
+
+Sai’s mind returned a series of images. To Bes, they felt much more coherent, or at least they adapted to his human psyche with considerably more ease.
+
+I am here to stop you.
+
+The dragon guffawed. Bes knew it because he felt his dark joy like thick tar upon his mind, but it sounded like a hiss, and it was loud, and when the dragon’s teeth peeked from behind his serpentine jaws, the heat became less bearable.
+
+But the arcanist was not done.
+
+Tell me, why would you unleash your wrath on these people? What caused your anger?
+
+The dragon moved its head forward. It was enjoying itself.
+
+Unknown human: speech capability. Surprise. Delight. Anticipation of murder. High expectations. Anger? No anger. Human anger when killing insects?
+
+As the dragon spoke, Bes’ trained diplomat mind sorted through the images to make sense of the creature’s speech as his skills worked to their limit to make him understand that alien language… if one could call it that. Form of communication might be more adequate.
+
+I feel impatience that they cling here. I showed many times that I was setting my territory here. Humans breed and expand. They can expand elsewhere. I want those green spots.
+
+They made the green spots via engineering.
+
+Bes noted that the engineering image was a particularly complex one. By now, Sai had the dragon’s full attention, and it didn’t feel amused anymore.
+
+So?
+
+You killed the humans and their spawn, and burnt their fields, because you coveted the green spots they made?
+
+Yes?
+
+They did not steal your eggs? They did not intrude upon your domain?
+
+They intruded upon my domain when I decided this was my domain. I told them to leave in a language they understand.
+
+There was now a new emotion radiated through the strange, sympathetic link established between the two, and its bleed through shocked Bes again. It was an emotion he had never expected coming from Sai. That emotion was… disappointment.
+
+I see.
+
+The dragon’s eyes narrowed. Of course, Bes knew the dragon would have eventually killed them for their transgression, but now he realized the creature might make them suffer first.
+
+But then, the dragon recoiled. It hissed and bared its teeth. This time, it was not conveying joy.
+
+You, mother? What is the meaning of this? Anomaly! Blasphemous. Merciful vanquisher? Unthinkable!
+
+Did you really slaughter men, women and children because of greed?
+
+Greed? Greed is for taking from other people. I do not answer to you! I do not respect you! I do not see you as entities. You are things. I take, because I can take, and you leave, because you must. We are not equals. You are not worthy of my consideration. We will never be equals. There is no discussion to be had.
+
+Would you say that the powerful dictate the rules, and that the most powerful takes all at their leisure?
+
+I do not say this is my belief. I state this is an immutable truth.
+
+… So be it.
+
+The pressure on Bes’ shoulders disappeared. It was as if the presence of the dragon had been suddenly removed, as if they were seeing it through glass. He blinked, and by his side, Sin did as well.
+
+What are you to speak with me with such ease? To bear the name of mother, of mercy, and of victory? Are my senses deceiving me?
+
+Slowly, Sai Jaratalassi reached for her neck. She removed the medallion.
+
+The world around Bes breathed out deeply as if from the release of a great tension. Things that had been pulled tight were released now with immense relief. The woman didn’t grow taller, didn’t widen, but suddenly she was more present. She was more… impactful. The colors around them dulled ever so slightly while her wavy dark hair suddenly shifted to the color of old blood. Her skin whitened to a deathly pallor.
+
+Twin spikes of pure darkness emerged from her shoulder blades, eventually resting on the ground like half-formed wings. A wave of intimidation and leadership so powerful it was like a gust suddenly hit his mind and washed away the terror of the dragon with a fresh one, a man made one, a fear that wasn’t born from essence but from achievements. The rivers of blood, the moving armies one must gather to gain such a mantle…
+
+Even though he knew it was a bad idea, Bes couldn’t resist.
+
+[Ascender: one side of the coin. Half-elemental. Peerless battle caster. Merciful dragon slayer. Mother of a dragon. Political power: sovereign. Danger level: disaster.]
+
+What the fuck.
+
+Even the dragon stepped back when the woman’s reply came.
+
+For you, I am The Hand that Strikes Down.
+
+Fire glowed in the creature’s throat though, once again, the woman showed no fear.
+
+You are a fool if you think you can bear a name like us! You are twice a fool if you think you can defeat a dragon!
+
+Just so you know, in order to be merciful, one first has to win so completely as to have a choice. Mercy is a choice. And for you the answer to that choice will be no.
+
+Eyes like pools of liquid void split by emeralds turned to Bes.
+
+“You guys should probably start running now.”
+
+It was the best suggestion he had ever received in his entire life.

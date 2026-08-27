@@ -1,0 +1,275 @@
+---
+id: 6b2ae399-9676-56f7-9dec-860b3edd3299
+page-type-slug: story-chapter-royal-road
+title: "Chapter 66: The Leftover Lord"
+slug: 0067-chapter-66-the-leftover-lord
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 67
+ownLength: 2290
+unit: words
+publishedAt: 2026-03-24
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3189100/chapter-66-the-leftover-lord"
+royalRoadId: "3189100"
+---
+
+The morning air at the estate was crisp and salty, smelling of the nearby ocean and the woodsmoke from the campfires. The construction of the main house was progressing rapidly thanks to the Dwarves' newfound motivation (and fear of losing access to the Miyabi knife), but the kitchen was still a makeshift affair under a large canvas tent.
+
+Ren stood over a large wooden bowl filled with cold, clumped rice from the night before.
+
+"It looks... sad, My Lord," Cynthia, the newly hired head chef, observed. She was wringing her hands in her apron, looking between Ren and the bowl with deep concern. "I was preparing porridge for the staff. Surely you wouldn't deign to eat... yesterday's leavings? I can have fresh bread ready in minutes."
+
+Ren smiled, breaking up the clumps of rice with his hands. "Trust me, Cynthia. Rice is like a good story. It gets better with a little time."
+
+[Ana: That was a terrible line. Please never say it again.]
+
+"Day-old rice is the secret," Ren explained to the skeptical elf. "Fresh rice is too wet. It gets mushy when you fry it. But this? This dry, sad rice? It's thirsty. It wants to drink up the oil and the sauce. It's perfect."
+
+Cynthia didn't look convinced. In her world, leftovers were for the pigs or the compost heap. A noble lord eating yesterday's grain was unheard of.
+
+"Watch," Ren said. "This isn't just for the staff. It's for everyone."
+
+He heated the massive cast-iron wok—another custom order from the blacksmith—until it was smoking hot. He poured in a generous glug of oil.
+
+Sizzle.
+
+Ren moved with a practiced, fluid rhythm. He cracked four eggs directly into the hot oil. They puffed up instantly, turning golden and crispy at the edges. He scrambled them quickly, breaking them into fluffy curds, then removed them.
+
+Next came the aromatics. Diced onions, garlic, and ginger hit the pan. The smell was explosive. It cut through the morning chill, savory and sharp.
+
+Cynthia leaned in, sniffing. Her skepticism wavered. "That... smells good."
+
+"Now the rice," Ren said.
+
+He dumped the cold rice into the wok. He used a spatula to press it down, letting it sear against the hot metal, then tossed it into the air. The grains flew, separated, and coated in the fragrant oil.
+
+He added the eggs back in. Then, diced carrots and peas for color. A splash of soy sauce sizzled against the hot steel, caramelizing instantly and turning the pale rice a rich, golden brown.
+
+And finally, the secret weapon.
+
+Ren reached into his pouch and pulled out a small pinch of white crystals. [MSG].
+
+He sprinkled it over the wok.
+
+"What is that?" Cynthia asked, eyes narrowing. "Salt?"
+
+"Flavor Essence," Ren corrected. "The soul of the dish."
+
+He gave the wok one last, dramatic toss, the rice leaping into the air like a golden wave, before sliding it onto a large platter.
+
+"Breakfast," Ren announced.
+
+He took a small bowl for himself and sat down on a log near the fire. Mira was sitting nearby with Lily in her lap. The baby was wide awake, currently engaged in a staring contest with Smokey the shadow pup.
+
+Ren took a bite. It was perfect. Salty, savory, the rice grains are chewy and distinct.
+
+Lily turned her head. She watched him eat. She smacked her lips. She reached out a chubby hand toward the bowl. "Ba!"
+
+Ren chuckled. "Curious, huh?"
+
+"Master, she is too young for solid food," Mira warned gently.
+
+"Just a taste," Ren said. "Texture training."
+
+He picked up a few grains of rice—no veggies, no meat—and held them out on his finger.
+
+Lily opened her mouth like a baby bird. Ren fed her.
+
+She chewed, her brow furrowing in concentration. She paused. Her eyes went wide. Then, she let out a happy squeal and banged her hands on her legs. "Momo.."
+
+Ren laughed, feeding her another tiny pinch. "It's good, right? That's the power of MSG, kid. Don't tell your mom."
+
+[Ana: Her mom is dead, Ren. Too soon.]
+
+"Right. Don't tell Mira," Ren corrected mentally.
+
+Cynthia approached the platter cautiously. She took a spoon. She took a bite.
+
+She froze.
+
+It was simple food. Rice, eggs, and vegetables. But the flavor was explosive. It was savory, rich, and deeply satisfying in a way that defied the humble ingredients. The MSG had amplified the natural umami of the soy sauce and the eggs, turning a bowl of leftovers into a feast.
+
+"This..." Cynthia whispered. "It tastes like... like meat. But there is no meat."
+
+"It's the Essence," Ren said, wiping a grain of rice from Lily's cheek. "It tricks the tongue. It makes everything taste more like itself."
+
+Cynthia looked at the white crystals in Ren's pouch with something approaching reverence. "My Lord... if we had this in the kitchen... I could make boiled cabbage taste like a banquet."
+
+Ren paused. The gears in his head started turning.
+
+"You're right," he realized. "This isn't just a cooking hack. It's a product."
+
+He looked at his schedule. "System. Add 'Pitch MSG to Spice Guild' to the itinerary."
+
+[Ana: Added. Right after 'Deliver Ramen to Army' and 'Change Diaper'.]
+
+"Busy day," Ren sighed.
+
+…
+
+The delivery to the Knight's Order went smoothly, mostly because Ren didn't have to do much talking.
+
+General Paramor was waiting for him at the gates of the fortress. The grim, scarred soldier looked almost giddy.
+
+"Lord Fenris," Paramor greeted him. "Do you have them?"
+
+Ren gestured to the three wagons behind him, piled high with crates. "Ten thousand units. Spicy Beef, Chicken, and Shrimp flavors."
+
+Soldiers began unloading the crates with a reverence usually reserved for holy relics. One young squire dropped a crate, and Paramor barked at him so loudly the boy nearly fainted.
+
+"Careful with that! That is morale in a cup!"
+
+Ren handed over the manifest. "I trust the payment is ready?"
+
+"Transferred to your Guild account this morning," Paramor confirmed. "My men in the north... they sent a message via carrier pigeon. They said the first shipment saved a platoon from freezing to death. They made soup in their helmets."
+
+Ren felt a flicker of pride. It wasn't gourmet, but it was warm. "Glad to be of service, General."
+
+"We will need more," Paramor said seriously. "Winter is coming to the borderlands. I want to double the order next month."
+
+"Done," Ren said.
+
+[TRANSACTION COMPLETE.][COMMISSION: +2,500 SPP.]
+
+Ren walked away richer and slightly terrified of the military-industrial complex he was feeding.
+
+…
+
+Next stop: The Spice Guild.
+
+Ren walked into the meeting room with a swagger he hadn't possessed a month ago. He was a Lord now. He had a successful business. He had a baby who was secretly a queen. Confidence was easy.
+
+Gormal and the other Spice Lords were waiting. They looked eager. The Five-Spice Powder had been a massive hit in the capital's high-end restaurants.
+
+"Lord Fenris," Gormal boomed. "You bring us more treasures?"
+
+"I bring you the future," Ren said.
+
+He placed two jars on the table. One was the [Chinese Five-Spice] they expected. The other was filled with the white crystals of [MSG].
+
+"The Five-Spice is for the rich," Ren said. "For chefs who want complexity. But this..." He tapped the jar of MSG. "This is for everyone."
+
+"Salt?" Gormal asked, disappointed. "We have salt."
+
+"This is not salt," Ren said. "This is Meat Salt."
+
+The merchants blinked. "Meat... salt?"
+
+"Imagine," Ren said, stepping into his sales persona. "A peasant family. They can't afford beef. They have stale bread and boiled turnips. A hard life. But then... they sprinkle a pinch of this on their soup."
+
+He opened the jar. "Suddenly, the soup tastes rich. It tastes savory. It tastes like it was simmered with a bone for three days."
+
+He looked around the table. "It turns poverty into comfort. It makes the inedible delicious. It is the ultimate luxury for the common man."
+
+Gormal looked at the jar. He took a pinch and put it on his tongue.
+
+His eyes widened. "It... it lingers. It makes my mouth water."
+
+"It opens the palate," Ren explained. "It enhances whatever is already there. It is the 'Essence of Flavor'."
+
+"If what you say is true," another merchant breathed, "every tavern, every inn, every household in the kingdom will want this."
+
+"Exactly," Ren said. "I can supply it in bulk. But I want to brand it. 'Fenris Flavor Crystals'. And I want it distributed everywhere. Not just the capital. The villages. The border towns."
+
+Gormal nodded slowly. "The volume would be immense."
+
+"And the profit," Ren added.
+
+They haggled for an hour. Ren walked out with a contract that would put MSG on every table in Dolaria.
+
+[COMMERCE SUCCESSFUL: +500 XP][LEVEL UP!][REN IS NOW LEVEL 6.]
+
+He stepped out into the street, taking a deep breath of the sea air.
+
+"Level 6," he muttered. "And I haven't swung a sword in weeks."
+
+[Ana: You're killing them with cholesterol and sodium, Ren. It's a slow death, but profitable.]
+
+"Hey, I also sell vegetables," Ren defended.
+
+He walked back toward the carriage, where Sylas and Mira were waiting with Lily.
+
+Lily saw him coming. She strained against her straps, reaching out her arms. "Dada!"
+
+Ren picked her up, burying his face in her neck, blowing a raspberry that made her shriek with laughter.
+
+"Did you miss me?" he asked.
+
+She patted his cheek with a sticky hand.
+
+"Master," Sylas said, opening the carriage door. "We should return. Borin says the roof of the inn is finished. He wants you to inspect the shingles."
+
+"Let's go home," Ren said.
+
+As the carriage rolled through the streets of Duckland, Ren looked at his family. Mira was smiling at Lily. Sylas was checking his pocket watch. The puppies were probably destroying something back at the estate.
+
+He was tired. He was stressed. He was responsible for the fate of a hidden queen and the culinary habits of a nation.
+
+But as Lily fell asleep against his chest, clutching his lapel, Ren knew one thing for sure.
+
+He wouldn't trade it for anything. Not even a King Crab leg.
+
+…
+
+As the carriage rolled along the docks, a commotion near the water caught Ren’s eye.
+
+A group of sailors were hauling in a net. They weren't cheering. They were cursing. As they dumped the catch onto the pier, Ren saw what they were angry about.
+
+Crabs. But not normal crabs. These were massive, spiny creatures with legs as thick as a man’s arm. They were a deep, angry red, thrashing on the wood.
+
+The sailors didn't sort them. They immediately began stomping on them, crushing their shells with heavy boots, then kicking the broken bodies back into the water. One sailor took a gaff hook and smashed a crab’s carapace with a sickening crunch.
+
+"Vermin!" the sailor spat. "Tearing the nets again!"
+
+"Stop!" Ren shouted, banging on the carriage roof.
+
+The carriage lurched to a halt. Ren jumped out before Sylas could open the door. He ran toward the sailors.
+
+"What are you doing?" Ren demanded, pointing at the massacre.
+
+The lead sailor, a grizzled man with no teeth, looked at Ren’s velvet tunic and sneered. "We're cleaning the harbor, fancy-pants. These are sea-bugs. Baby monsters. You let 'em grow, they turn into Red Pincers and sink ships. Their meat rots before you can cook it. Smells like death."
+
+"That's because you're killing them wrong!" Ren argued, looking at the crushed bodies. "You're rupturing the digestive glands! The enzymes spoil the meat instantly!
+
+He pointed to a live one that was trying to scuttle away. "That is not a monster. That is a King Crab. And it is delicious."
+
+The sailors laughed. "Delicious? Go ahead, eat one. I'll dig your grave."
+
+"I'll buy them," Ren said. "All of them. The live ones."
+
+The sailors stopped laughing. They looked at each other.
+
+"Buy 'em?" the leader asked. "You want to pay for trash?"
+
+"Five coppers a crab," Ren offered.
+
+"Listen, idiot," the sailor growled, stepping forward, a gutting knife in his hand. "We don't have time for jokes. Get out of here before I toss you in with them."
+
+Ren didn't flinch. But behind him, a shadow fell over the sailor.
+
+Sylas stepped out of the carriage. He adjusted his glasses.
+
+"You are addressing Lord Ren Fenris," Sylas said, his voice projecting across the dock with the cold authority of an executioner. "A Peer of the Realm. You will show respect, or you will answer to the King's Justice."
+
+He flashed the crest on the carriage door. The silver wolf on blue.
+
+The color drained from the sailor's face. The knife clattered to the wood. The other sailors dropped to their knees so fast it looked like a choreographed dance.
+
+"M-My Lord!" the leader stammered, pressing his forehead to the salty planks. "Forgive me! I didn't know! I'm just an ignorant fisherman!"
+
+Ren sighed. "Stand up. I don't want your apologies. I want your crabs."
+
+"Take them!" the sailor cried. "Take them all! Free! Just don't hang me!"
+
+"I pay for my goods," Ren said firmly. He tossed a bag of coins onto the pier. "Bring them to my estate. Alive. Keep them in seawater. If one dies, I don't pay."
+
+"Yes, My Lord! At once, My Lord!"
+
+The sailors scrambled, handling the crabs with the tenderness of midwives.
+
+Ren watched them, satisfied.
+
+[Ana: You just bought a ton of giant sea spiders by threatening people with your title. Very noble.]
+
+"It's for the greater good," Ren thought back, watching a massive crab get gently lowered into a barrel. "The greater good of garlic butter."
+
+He returned to the carriage. "Let's go home, Sylas. We have a menu to plan."

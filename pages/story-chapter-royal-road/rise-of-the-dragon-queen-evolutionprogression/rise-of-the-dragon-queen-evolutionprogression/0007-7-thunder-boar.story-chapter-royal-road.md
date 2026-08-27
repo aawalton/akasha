@@ -1,0 +1,269 @@
+---
+id: e2b83cb0-7cfe-5e8c-8785-3af5a7401348
+page-type-slug: story-chapter-royal-road
+title: "7 - Thunder Boar"
+slug: 0007-7-thunder-boar
+partOf: rise-of-the-dragon-queen-evolutionprogression
+position: 7
+ownLength: 2597
+unit: words
+publishedAt: 2025-09-08
+link: "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2585237/7-thunder-boar"
+royalRoadId: "2585237"
+---
+
+Three days had passed since Stella's evolution to Fledgling. Stella had used that time to practice her [Elemental Breath] and adjust to her new form. Her training methods improved her [Elemental Breath] with a single level-up. Not much, but it was progress.
+
+After flying a distance from camp and coming across two humans, she now smelled the powerful scent of a boar. And judging by all the other creatures she'd encountered, it would probably be gigantic.
+
+I'm a dragon, no need to be afraid of a pig. I'm sure it's small and—
+
+A lightning bolt came down beside her, narrowly missing her left arm. She'd huddled deeper against the tree she was pressed against.
+
+PLEASE DON'T KILL ME, IT WASN'T ME THAT WANTED TO EAT YOU!
+
+[Answer: Thunder boars are highly territorial. Even if you mean it no harm, it will not permit trespassers to leave its territory alive.]
+
+Why would the word ‘Thunder’ ever be associated with a pig! This is revenge for all the times I ate bacon, isn't it?!
+
+Another lightning bolt landed near her, scorching the ground. Stella stared at the charred ground with wide eyes and a slack jaw.
+
+She popped up and ran into a bush across from her. Instantly, it was incinerated. She did a tactical roll towards a nearby fern, but failed, her wings gluing her to the ground with their weight.
+
+She flailed all four limbs and then froze as another lightning bolt streaked down from the sky, piercing the spot she had intended to roll to.
+
+Getting to her feet, she surveyed her surroundings.
+
+Yep, that's a forest. But where is the pig?
+
+The boar appeared behind her, sniffing the air with a long wet nose. Its hooves promptly dug into the ground, readying itself to charge.
+
+Stella could already tell it had magically appeared behind her and scowled at the empty space in front of her. She turned casually, as if she wasn't in any danger, and took in the sight of another giant monster.
+
+Nearly as big as the bear, the boar had pale, jagged tusks. The fur across its back was a stormy grey, and its eyes white and glassy. Its appearance alone was enough to strike fear into its enemies.
+
+Not to mention the lightning bolts.
+
+Stella blinked a few times and then turned to run, but the boar was faster. She felt its approach and reflexively leapt into the air. Before she knew what had happened, she was soaring over the back of the boar as it lunged below her, striking the ground where she had been.
+
+My feet, they’ve changed!
+
+She transformed and leapt into the air at a moment's notice, as if it were second nature.
+
+Briefly, she smiled, thinking about how awesome she was. That was before she started to plummet toward the ground.
+
+Multiple lightning bolts hit the ground near where she landed, and yet, none of them had hit her. As each was cast, the sky above growled prior to the bolt forming. With so many examples, even someone with low intelligence could figure out that pattern.
+
+She could avoid them by paying attention to the thunderous sounds overhead. But the boar wasn't going to sit idly by while she did so. It once again scraped the ground with its hooves, snorting aggressively.
+
+Stella thought fast and decided to escape. With her current transformed state, she easily leapt up a tree, digging her claws into its bark. The boar rammed the tree, the impact shaking her so hard she nearly threw up.
+
+It angrily banged its head against the trunk, unable to reach Stella.
+
+“I won, so why don't you run along?” She chuckled.
+
+The boar looked up at her, eyes narrowing as if it completely understood her. Stella swallowed thickly and then looked upward, hearing what sounded like thunder churning just above the canopy.
+
+Oh, great.
+
+She lunged away from the tree; seconds after, it went up in flames. Below, the boar opened its jaws.
+
+It wants to eat me?! She thought in disbelief.
+
+After a deep breath, she used [Elemental Breath] and propelled herself both upward and forward She spread her wings, recalling the pattern she adopted in the sky to keep herself afloat.
+
+This time, that pattern didn't work. There were no air currents to carry her weight. By the time she attempted to adjust, she’d crashed into a branch.
+
+As she dangled, the boar squealed below her, and the sky churned again. Her mind raced as she tried to come up with a plan of attack.
+
+In such a dense forest, flying was hazardous, so escaping in that manner wasn't likely to end in success. She still had plenty of breath gauge left, and her last few days of training had definitely improved her aim and lung capacity, but was that enough to defeat it?
+
+Seconds later, Stella had run out of time. Thunder echoed around her, signaling another lightning attack. Before the boar could cast its ability again, she released the branch she’d been dangling on. Below her, the giant thunder boar had parted its jaws, preparing to eat her in one bite. Inches from death, Stella released an explosive fire breath, casting molten heat straight into the monster’s belly.
+
+Gotcha!
+
+Upon feeling its belly fill with fire and not human flesh, the boar slammed its jaws closed and backed away. As it did, it released a breath of smoke as Stella rushed to glide to the ground. The boar continued to back away, shaking its head all the while.
+
+[Elemental Breath is now level 5.]
+
+Stella scarcely acknowledged her progress, willing the pop-up to fade, revealing the boar and the destruction around it.
+
+The lightning strikes had caught multiple trees on fire. Before she could even consider putting it out, she had to kill the boar. If she wasted her breath putting out the encroaching flames, she would have none left for the pig.
+
+The thunder boar was disoriented, still shaking its head. Smoke rose from its nostrils, and even as that smoke disappeared, its sanity was not reclaimed. Injured, enraged, the boar relentlessly rammed trees, most of them on fire.
+
+Stella watched in disbelief as the boar sentenced itself to death. Two trees fell, crossing over its back and pinning it down. As fire spread from the trees to the boar, its squeals became shrieks.
+
+Stella felt a modicum of pity for the creature and approached it, casting a blaze much stronger than the others. The pig was dead seconds later.
+
+[You have defeated Thunder Boar.]
+
+[Evolution progress increased to 10%]
+
+[Item: ‘Thunder Tusks’ has been dropped by Thunder Boar.]
+
+Stella was quick to cast ice over the flames, smothering them to nothing. What remained were blackened trees that abruptly began to fall apart. Overhead, a massive branch threatened to squash Stella.
+
+“Look out!” Someone cried.
+
+Stella leapt out of the way just as the branch hit the ground. After looking to ensure she wasn't in any danger of being crushed, Stella spotted the source of the outcry.
+
+A woman with reddish brown hair and a fancy gown. Her eyes were a brilliant emerald color, full of urgency.
+
+“Are you hurt?” There was genuine concern in their voice.
+
+Stella got into a defensive crouch, watching suspiciously as a familiar man joined the woman's side.
+
+“Are you okay, Elizabeth?” The man asked.
+
+“I'm just fine, don't fret over me.”
+
+They continued to go back and forth for a time as Stella backed away, eventually stopping due to the wall of cooked pork in her path.
+
+“We came to see if you were okay. Don't be afraid, we won't harm you.”
+
+“We heard all the noise and came to help in case it was another hunter. But it seems you handled the boar yourself. That's quite impressive.”
+
+Stella considered whether to talk to them or run away. The pair seemed genuine, but that didn't mean they weren't planning something nefarious.
+
+“If you want the clothes back, take them. Take the pig too. I don't want any trouble.”
+
+I don't plan to fight humans, even if they are plotting something.
+
+“We aren't here to cause you any harm, I promise. You can keep a dress. We understand your kind has a hard time entering cities… It's not right that they run you out like they do.”
+
+My kind? Oh, right. They've seen my shapeshifted form. They know I'm not human.
+
+“I wish I could have taken that beast down myself, but if you sell me the body, I’ll offer you something in exchange.”
+
+“The clothes?” Stella asked.
+
+“Yes, and you can stay for dinner, I’d feel better if you did,” replied Elizabeth.
+
+Stella thought about it, but decided she'd better not. Whether that was because they were human or because she didn't have the constitution to dine with strangers, she didn't know.
+
+“Even that wouldn't be worthy of such a feat, would it? Most beastlings struggle to handle creatures like these. Rather, why don't you tell us what you want?”
+
+Stella decided to trust the two strangers. She'd stolen from them and yet they had come to help her even after realizing who—and what—she was.
+
+Stella abruptly removed all the stolen clothing and approached the couple.
+
+“I should’ve earned these on my own. I shouldn't have taken them from you.”
+
+Jeramiah shook his head.
+
+“You've definitely earned them. That boar was so close to our camp, it would have definitely caught us off guard. If you hadn't dispatched it before then, who knows what could've happened.”
+
+“I agree, you should keep them. Especially if you intend to continue living all by your lonesome in these horrid woods.”
+
+Stella’s heart swelled in her chest.
+
+“And here, take this too.”
+
+The woman pulled a shiny glass vial from a small purse. The vial reminded Stella of something that would contain perfume.
+
+“It will help you find your way back to us if you change your mind about joining us for dinner. And even if you don't, I won't be needing it anymore. I won't be returning to this forest, not even to accompany my husband.” She spoke the last bit through a string of nervous laughter.
+
+“Anyway, I bought that from a wizard who claimed it would show the user exactly where they want to go as long as they've been there before. I intended to use it if I ever got lost.”
+
+Stella took the vial gratefully and thanked the couple. After a brief exchange, she took the thunder tusks from the boar and moved in the direction of her camp.
+
+After distancing herself from the corpse and the couple, she opened the strange glass vial. From it rose blue smoke that clung to the air like ethereal tapestry. She watched it expectantly, but it did not ascend further than a few inches from the vial.
+
+Great, it doesn't work… I was hoping it’d help me find my way back to camp.
+
+Instantly, the blue smoke coated the ground and extended forward, creeping deeper into the forest beyond. Wide-eyed, Stella followed it.
+
+I guess not everyone is like that merchant I met. He wanted to sell me, not give me free stuff. I'm glad I met humans who aren't that way.
+
+Her tail swished cheerfully as she made her way home.
+
+***
+
+Name: Stella Algos
+
+Stage: Queen Dragon Fledging (10% to next evolution)
+
+Class: None
+
+Renown: 0
+
+Wealth: Peasant (+1 to all stats)
+
+(C: 250 S: 0 G: 0)
+
+Stats: (0 points available)
+
+Power: 28 (27)
+
+Vigor: 24 (23)
+
+Grace: 21 (20)
+
+Intellect: 10 (10)
+
+Skills:
+
+Wrath Of The Ravenous (Grade SS) - Level 1
+
+Elemental Breath (Grade S) - Level 5
+
+Strength In Numbers (Passive)
+
+[Thunder Tusks: An ingredient that can infuse storm-based powers into items or creatures. Must be a (Artisan, Alchemist, or Magic class type to utilize).]
+
+I guess the thunder tusks are useless for me, but that, along with the clothes, increased my wealth! But it also labeled me a peasant, even despite all my new loot! Would a peasant have such nice clothing?
+
+[Answer: You lack property and basic necessities.]
+
+I'm my own value! Someone tried to sell me, y’know?!
+
+[...]
+
+It took hours for Stella to return to camp. When she did, she took a long nap. Upon waking, she decided she wanted to train.
+
+After washing her new clothes, she stowed them on a branch to dry. She hoped she could figure out the whole shapeshifting thing soon, so as not to have to tear holes in her new attire.
+
+These damned wings and tail, how can I wear nice clothes with these!
+
+Stella sighed.
+
+No, they look awesome. I shouldn't get angry. I just need to learn to use my super cool dragon powers!
+
+While training in novels and anime seemed fun, reality proved to be different. After a few hours of transforming her hands and then reverting them, she was so fatigued that she felt like giving up.
+
+She took a break from shapeshifting practice to do wing strength training. But within minutes, her wing muscles were sore and cramping.
+
+Just one more flap! I need you guys to get stronger!
+
+Stella tried to lift her wings again, but couldn't manage without a burning sensation stretching across each one. Her frustration with her lack of ability made one of her wings suddenly disappear. The abrupt change in balance made her fall into her wingless form.
+
+Whoa!
+
+Her emotions were a consistent trigger for her transformations, regardless of how significant those changes were. If she could harness her emotions, she could harness shapeshifting.
+
+After a break, Stella tried to use that to her advantage. Looking inward, she reached for something substantial, like rage. But she didn't have much rage to go around. Fear, on the other hand, she understood. But focusing on it came with a ton of anxieties, all weighing her down at once.
+
+When she examined her body, she found that harnessing fear and willing it to shape her hands had indeed spawned a set of dragon paws.
+
+It worked!
+
+Her excitement caused them to revert.
+
+Stella continued to try to trigger her shapeshifting, and once that was semi-reliable, she tried it in reverse. She didn't want a more dragon-like body; she wanted to appear human.
+
+These exercises continued for the next few days despite much distraction from the dragon hatchlings. In the end, while rotating through different exercises, she obtained what she wanted. The ability to appear almost entirely human. That said, she could only maintain her human form for a few hours at most.
+
+She allowed Fire, Smoke, and Sapphire to interrupt her with bites and puffs of smoke, making herself more resilient to being distracted. She also tried to shapeshift without triggering such extreme feelings inside of herself. While her emotions did fuel her transformations, she didn’t want them to hold absolute control over her form, as that could end in disaster.
+
+Stella also tried to figure out how many breaths it took to reduce her [Elemental Breath] gauge to zero. For all breath types, she found it was the same: roughly three to five, depending on the strength and length of time cast.
+
+Holding her breath increased her lung capacity; hiking around the woods with the hatchlings increased her stamina. Within a week, she was ready to head into town.
+
+[You're forgetting about your horns.]
+
+Oh, yeah.
+
+She furrowed her brows and focused until they disappeared against her scalp. Then she let out a sigh, and all of her dragon parts appeared back in place.
+
+No! I ripped my dress!

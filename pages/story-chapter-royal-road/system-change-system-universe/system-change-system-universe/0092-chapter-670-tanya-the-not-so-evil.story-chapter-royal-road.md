@@ -1,0 +1,171 @@
+---
+id: 4ff6ac52-14de-5aee-a999-196b65c2d866
+page-type-slug: story-chapter-royal-road
+title: "Chapter 670: Tanya the Not-So-Evil"
+slug: 0092-chapter-670-tanya-the-not-so-evil
+partOf: system-change-system-universe
+position: 92
+ownLength: 2066
+unit: words
+publishedAt: 2026-07-28
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3739434/chapter-670-tanya-the-not-so-evil"
+royalRoadId: "3739434"
+---
+
+Chapter 670: Tanya the Not-So-Evil
+
+“So, who are you, really?” Tanya asked Derek as she fell in beside him while Alex moved toward the front building. “There’s no way that someone with your status is actually that little twerp’s friend.”
+
+“Isn’t that little twerp higher ranked than you by far now?” Derek asked with a sly grin.
+
+“That... still,” Tanya stomped.
+
+“But to answer your question... I really am his friend. Or at a minimum, we were on friendly terms, but he invited me to his home and is doing me a big favor, so calling him a friend isn’t wrong,” Derek replied.
+
+“I’m just repaying him for saving my life,” Alex looked back and said.
+
+“So you don’t consider me a friend?” Derek asked.
+
+“That’s not what I said,” Alex moaned. “Yes, we can be considered friends.”
+
+“That’s better,” Derek replied. “See?” He smiled at Tanya.
+
+“You... are odd,” the second-ranked family member said.
+
+“That’s what people keep saying,” Derek replied. “I think everyone is just a little too uptight and needs to relax a little. Acting so constipated all the time can’t be good for your health, after all.”
+
+“Constipated...” Tanya shook her head as Alex pushed the doors to the building open and they walked through.
+
+“So, what’s your story? Are you a higher level, or do you have a rarer ranked class than Alex, or something?” he asked, curious about what made her the top-ranked in the family before Alex achieved the great success of becoming friends with Derek.
+
+“Legendary ranked, but my affinity is high enough that my level 500 upgrade should let me make Mythical at the lowest. I could even become a low or mid-ranked Ascendant one day and become a hall master,” Tanya said.
+
+“Huh...” Derek muttered. He wasn’t exactly impressed. The more he thought about it, the more he liked the chances of Edgar and Marrick becoming powerhouses one day—especially Marrick since he was already Mythical yet still under level 300. “Maybe look for a way to get a Title or something and force yourself into Mythical rank before your level 500 class upgrade. Then you can aim for Transcendence or at least high-ranked Ascendant.”
+
+“Yeah... because something like that is easy...” Tanya snorted.
+
+“I’ve seen it happen... twice actually,” Derek replied—thinking about when Avery tamed Lyra when she was an epic-ranked Immature Amphithere, but she evolved into a legendary-ranked Mature Amphithere during the process. “Doesn’t seem too hard to me. Go tame yourself a Mythical-ranked beast or complete a system challenge or something. Easy peasy.”
+
+“Easy... peasy...” Tanya muttered. “You’re serious? You’ve really seen that happen? And twice?”
+
+“Yup,” Derek replied. “Once to Legendary rank and once to Mythical rank.”
+
+“It... it’s not exactly easy to tame a beast that is above oneself in rank,” Tanya replied. “Yes, I have the affinity to do it, but I don’t believe I have the battle capabilities. If it were easy, everyone would do it, and far fewer people would die trying.”
+
+“Well... I guess you have to know your capabilities and have the courage to do it,” Derek replied. Then, thinking about Avery, he said, “Or just really want to fight and have a pet dragon.”
+
+“That... seriously?” the woman looked at Derek, dumbfounded.
+
+“Well... technically, he tamed an epic-ranked Amphithere that evolved into a legendary-ranked Mature Amphithere during the taming,” Derek replied. “He got a nifty Ach... Title. It was called Taming Up, if I recall.”
+
+“That...” Tanya rubbed her chin and muttered, “I wonder if I can find a beast on the verge of a breakthrough...” She shook her head and said, “No, it’s way too risky. What if it doesn’t evolve? Then I’d be stuck with a tamed creature and all the downsides that come with it and no real upsides at all. It’s too risky. Taming a creature with no guarantee that I would be able to break the bond isn’t worth the risk.”
+
+“Having a bond isn’t that bad,” Derek clicked his tongue. “It’s actually one of the best things.”
+
+“That... but the downsides...”
+
+“You just have to figure out how to sever the bond without it hurting either of you, keeping everything you gained so you can both continue to grow stronger and stay together,” Derek replied with a shrug. “Not that big of a deal.”
+
+“You speak as though you have done that...” Tanya muttered.
+
+“Who knows?” Derek shrugged. He hadn’t severed the bond yet. It was hard for him to do so, even though he and Silvi would literally lose nothing in the process, and they would both be able to grow and become stronger faster—most likely. But he had the Title and the ability to do it whenever they needed to, and he wouldn’t hinder Silvi’s growth just because of his selfishness. “There are still system challenges.”
+
+“Yeah...” Tanya muttered. “Like that’s easy to do. The Origin System doesn’t just hand out challenges to everyone. They only happen under certain conditions. What conditions was the other person you spoke of under that he was able to receive a challenge?”
+
+“That is for him and me to know,” Derek replied. “It’s his to tell if he ever wants to, not mine.”
+
+“Can I meet him?” Tanya asked.
+
+“Do you like elves?” Derek replied.
+
+“I have nothing against elves,” Tanya said. “Why? Is he one? Is he some extremely old but low-level elf?”
+
+“Uh... hmm...” Derek rubbed at his chin. Marrick wouldn’t actually be considered extremely old now, would he? At least, not in the Origin System. He just looks that way. But he looks that way because he evolved and subconsciously chose that appearance, he thought. Finally, he shrugged. “Not really old, no. But he’s certainly different from most elves.”
+
+“Then... can I meet him? Could you take me to him? I would love to discuss something like that,” Tanya replied with a glimmer in her eyes. Then she muttered, “I need to get my rank back.”
+
+“Maybe one day. It will be up to him the next time I see him. I don’t know how long that will be or if he would agree to it. I won’t see him again until I get to Origin City,” Derek replied.
+
+“Origin City?” Tanya’s eyes widened even further. “How are you going to get into Origin City? Is it just a day pass? I accompanied my grandfather to the city on a day pass once.”
+
+“No, nothing like that,” Derek replied. “Mine is for a decade.”
+
+“A... decade?” Tanya let out a gasp. “How did you get a ten-year pass to the First City? That... those aren’t just given out. Are you some Scion of a certain family in the Origin System? Do you have an uncle who is a Transcendent?”
+
+“Uh... no on the Scion part... also no on the uncle part,” Derek replied. “Just an incentive for me, really. But that’s all you need to know. I told Hall Master Sheen the rest.”
+
+“And you’re really friends with my brother? Someone with a guest pass to the First City—not just any guest pass, but a decade-long one—is friends with my wimpy, twerp of a brother?” Tanya reiterated.
+
+“That’s what we’ve been saying,” Derek replied.
+
+“At least his rise in the rankings makes sense now,” Tanya said. “Why didn’t I make a friend like that when I went on my training mission? I just got a bunch of sand in my boots and killed worms.”
+
+“We did that, too,” Derek replied. “Oh, and speaking of boots, do you know anyone who can remove a pair of boots from a block of amber... sticky stuff?”
+
+“Derek... shh...” Alex suddenly turned and said while holding his index finger up to his lips.
+
+“What?” Derek asked, confused.
+
+“I’ll take care of that later,” Alex said. “I know someone who can help.”
+
+“Oh,” Derek replied. “Okay... that works, I guess.” He looked back at Tanya. “Scratch that request. Looks like Alex will take care of it.”
+
+“Wait, no! What are you two talking about?” Tanya narrowed her eyes suspiciously, then muttered, “Amber... sticky... amber... sticky... you saved Alex. Alex was on the abandoned planetary battlefield planet.” Suddenly, her eyes went wide. “The Amber Tyrant!”
+
+At that, Alex winced. Derek still didn’t understand what the big deal was. Alex knew about the Amber Tyrant, too. It was just another World Boss. How rare could they actually be?
+
+“I was right!” Tanya said as she clenched her hand into a fist, then she slowed down and said, “Wait... my brother got a World Boss Title?”
+
+Alex clicked his tongue, stopped walking, and turned around. He sighed. “No... I didn’t.” He shook his head. “I wasn’t allowed to be part of the fight. Derek didn’t want me getting in the way.”
+
+“So... Derek...” Tanya looked at Derek. “You soloed the Amber Tyrant? At... what level? In your 250s?”
+
+“Something like that,” Derek replied with a shrug.
+
+“What... rarity is your class?” she finally thought to ask.
+
+Derek smirked. “What rarity do you think my class is?” He flicked his wrist, and the black card appeared in his hand. “What do you think it takes to get one of these?”
+
+“You’re... Mythical?” she finally put it together.
+
+“Got it in one,” Derek replied and stored the card again.
+
+“Of course you’re Mythical-ranked,” Tanya rolled her eyes. “I was so caught up in Alex surpassing me in our rankings that I didn’t even stop to think about that. Even without the card, that badge... Tier III... I don’t know why I didn’t put that together sooner. I knew what the badge meant to me, but I didn’t think about what it truly meant about you.”
+
+“It’s okay. People tend to underestimate me,” Derek replied. “Usually doesn’t work out well for them in the end.”
+
+“I bet it doesn’t,” Tanya replied. “So you killed the World Boss?”
+
+“Yeah,” Derek replied. “Got my Title upgraded, too.”
+
+“Upgraded?” Tanya tilted her head, then sighed. “Of course it wasn’t the first World Boss you’ve fought and killed. Why would it be? I mean, you’re only what? 70... 80 years old?”
+
+“Something like that,” Derek replied. There was no sense in bringing up his true age again. Hall Master Sheen already thought it was crazy, so who knew what Tanya would think about it?
+
+“That’s ridiculous,” Tanya replied. “Alex has all the luck.” She laughed, and Alex turned back and continued walking through the building. Some servants saw them and were stunned silent after seeing Alex alive, but Tanya just looked at them and told them to continue on with what they were doing each time. “But it may not be so good that the World Boss from a Planetary Battlefield was defeated... especially not that one.”
+
+“Why do you say that?” Derek asked.
+
+“Because, unlike World Bosses on truly populated planets, the ones on Planetary Battlefields are sort of like... the emperors of all monsters on the planet. There are a few things that happen.”
+
+“Which are?” he asked.
+
+“Well, first... they are usually kept alive for a hand-selected group to go fight and earn the Title from at the end of training,” she said.
+
+“Well... that’s not happening this time,” Derek replied.
+
+“Of course it isn’t. And nothing would happen to a trainee if they defeated it anyway other than them gaining status,” Tanya explained. “If they can beat it, more power to them.”
+
+“Right,” Derek replied.
+
+“But the other thing is... most, if not all, of the monsters on that planet are likely going wild right now. That’s why it’s done at the end of training, not the beginning—so the trainees are all off the planet for it. I bet the trainees left on that planet are having one hell of a time right now with it being so early in their training,” she explained.
+
+“Oh... well... I guess the monsters did start going pretty crazy before we teleported here, didn’t they?” Derek said.
+
+“Yeah, they did,” Alex replied with another wince. “I knew that... but it slipped my mind.”
+
+“Well... that’s got nothing to do with us. It just means that Jace is probably having the time of his life right now,” Derek replied.
+
+“Who is Jace?” Tanya asked.
+
+“We’re here,” Alex ignored her question and said. They were standing in front of a well-decorated door with the Spindle Family crest above it. “Let’s go tell Father that I’m alive.”

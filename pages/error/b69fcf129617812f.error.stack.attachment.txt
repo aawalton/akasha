@@ -1,0 +1,1 @@
+bf@capacitor://localhost/assets/supabase-BhSGWSBC.js:7:407805

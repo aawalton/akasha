@@ -1,0 +1,432 @@
+---
+id: 68d83ac2-bfd7-5edb-81e0-79e09f807c35
+page-type-slug: story-chapter-written
+title: "Athena"
+slug: 0001-athena
+partOf: anthology
+position: 1
+ownLength: 5123
+unit: words
+---
+
+The door is open because she leaves it open. You can hear her before you see her — not talking, just the small sounds of someone working: a chisel set down on wood, a breath through the nose, the scrape of a strap being drawn across the edge of a bench.
+
+Then you're in the doorway and she looks up.
+
+She sets the tool down. Not pauses with it — sets it down, flat, both hands off it, the way you put a thing down when you are finished with it for the day. The little owl on her raised hand shifts her feet and turns her head almost all the way around to look at you, yellow-eyed, unimpressed. Her hair is up and losing itself; two strands have already come free at her temple and stuck there. Grey eyes. That steadiness people mistake for cold until they understand it's just that nothing else is getting any of it.
+
+"There you are," she says.
+
+That's all. It's not much. It goes into you like a nail into soft pine.
+
+---
+
+She lifts her hand and the owl goes — a shove of grey wings, three beats, out the window into the afternoon, gone. Her hand comes down. Now there is nothing in either of them.
+
+She wipes her palm once on her thigh, on the linen, leaving a faint pale smear of wood dust across the cloth. Then she looks at you again and she keeps looking, and the looking is the thing. You feel the moment your own weight shifts, because she saw it before you did.
+
+"Your hands," she says.
+
+You look down. Your hands have found each other in front of you and one thumb is working the knuckle of the other, back and forth, the way you do when you're about to be measured for something.
+
+"You do that when you're not sure you're allowed," she says. "You are. Come here."
+
+---
+
+You cross the floor. Wood shavings under your boots, that dry crackle, and the smell of the room comes up to meet you — cut pine, lamp oil, warm plaster, and under it the sun-on-clean-linen smell of her.
+
+She doesn't step back and she doesn't step in. She lets you arrive at exactly the distance you choose, and then she notes the distance you chose, and something in her mouth goes amused about it.
+
+Close enough that you can hear her breathing. Not touching.
+
+She takes your measure the way she'd take stock's — a slow read down and back up, no hurry in it and no apology either. It ought to be uncomfortable. It isn't. It's the opposite of uncomfortable. You have spent your whole life being half-looked-at by people whose attention was somewhere else, and here is a woman standing a hand's breadth away giving you the entire, undivided, unembarrassed whole of hers, and your body understands what that is before your head does.
+
+Your breath has already changed. She hears it.
+
+"There," she says quietly, like she's found the grain.
+
+---
+
+Her palm comes flat to your sternum.
+
+That's the first touch — not your face, not your mouth, not anywhere clever. The flat of her hand on the bone in the middle of your chest, warm and slightly rough at the base of the fingers where the tools have made her hard, and she leaves it there and does nothing at all with it.
+
+She's reading you through it. You can feel that she's reading you through it. Your heart is going and she has her hand right on top of it and she is simply letting the information arrive.
+
+"Faster than you'd have told me," she says.
+
+You try to say something. Nothing arrives.
+
+"Don't," she says. "You don't have to give me the report. I've got you right here." Her thumb moves — one small stroke along the ridge of bone, once, and stops. "This is the part I'm good at. You just stand there and let me find where it's binding."
+
+---
+
+Her other hand comes up and finds your jaw, and her fingers turn your head half an inch. That's all. Half an inch.
+
+"Here," she says. "You're holding here." Her thumb presses just under the hinge of the jaw, and you hadn't known — genuinely hadn't known — that the muscle there was clenched down like a fist until she put pressure on it and it let go, and the letting-go runs down your neck and into your shoulders and out, and your whole head gets suddenly, stupidly heavy.
+
+A sound comes out of you. Not a word.
+
+"Mm," she says. Approving. One clean mark. "That's the one."
+
+She works her thumb there, slow, small circles, and the other hand stays flat on your chest holding the count of your heart, and she stands close enough now that her linen is against your shirt and you can feel the warmth of her stomach through two layers of cloth. She is entirely unhurried. There is no part of her that is trying to get to the next thing. You are the thing.
+
+---
+
+When she kisses you she does it the way she does everything — she arrives at exactly the right moment with exactly the right amount.
+
+Not deep, at first. Her mouth on yours, closed, a full second of just pressure and warmth and the small give of her lower lip. Then she tilts her head a fraction — that same half-inch adjustment, the craftswoman's knuckle-closer — and the fit changes and it is suddenly right in a way it wasn't a moment ago, and your mouth opens under hers without being asked.
+
+She makes a low sound into it. Pleased. The hand on your jaw slides back into your hair and takes hold, not hard, just closed, and holds your head where she wants it while her tongue finds yours.
+
+She tastes faintly of the water she's been drinking. She kisses like she has all afternoon and intends to spend it.
+
+Your hands are still at your sides. You'd forgotten about them.
+
+---
+
+She feels that too, of course.
+
+She breaks the kiss enough to speak against your mouth. "Put your hands on me."
+
+"Where."
+
+"Anywhere. Learn it by hand." Her breath is warmer now. "Don't stand there taking me in with your eyes like a drawing. I'm not a drawing. Use your hands — that's how you'll actually have me."
+
+So you do.
+
+You put your palms on her waist and the shock of it is that she is *warm* — much warmer than the cool of the linen made you expect, the heat of her coming straight up through your hands. Bare skin at the middle of her, a hand's width of it between the wrapped band and the tied skirt, and it is smooth over the ribs and then softer just above the hip, and when your thumbs move she draws a breath in through her teeth.
+
+"There," she says. "Yes. Like that. Slowly — I want to feel you finding it."
+
+You move your hands up her sides and the ribs come under your thumbs one at a time, and up over the edge of the linen band, and the band is coarse under your palms after all that skin, and beneath it her breast is small and firm and her nipple is already hard against the cloth, and when you cross it with your thumb her hand tightens in your hair.
+
+---
+
+Your hand goes down her arm to steady yourself and finds the strap.
+
+Leather, thin, brass-buckled, snug around her upper arm. Not decorative — you can feel the wear on it, the shine at the buckle where a thumb has gone a thousand times.
+
+Your fingers close on it and stop.
+
+She goes very still. Then she laughs — one short breath of it, entirely delighted, right against your ear.
+
+"That's mine," she says. "I do that. When I'm thinking." Her own thumb comes up and finds the brass and turns it a half-turn, slow, the way she must have done ten thousand times at this bench. "It's a bridle. Scaled small. For something about the size of a promise." She turns it back. "I'm not thinking now. So." She takes your hand off it and puts it back on her waist, flat, pressed. "Here instead."
+
+---
+
+The band takes a long time.
+
+She wraps it in three turns and it is tucked, not tied, and you have to find the tuck. You find it at her back, low, a corner of linen folded under itself, and she stands there with her arms loose at her sides and lets you work it out with your fingertips while she watches your face from four inches away.
+
+The first turn comes free and the band slackens and settles lower, and she doesn't help.
+
+"Take your time," she says. "This is the good part. Everybody rushes this part."
+
+The second turn. Her breathing has gone shallower. The cloth comes away from the underside of her breasts and you can see the pale line where it sat, pressed pink at the edges, and you put your mouth there before you take the last turn, on that line, on the marked skin — and she says *oh* on an exhale, quiet and surprised, and her hand comes to the back of your head and stays.
+
+The third turn is the one that lets it all go. The linen slides down between you and lands on the shavings.
+
+She is entirely still for a moment, letting you have it. Then, low: "Well. Go on."
+
+---
+
+The knot at her hip is a proper knot.
+
+You get down — one knee, then the other, into the wood dust, and it is dry and it prickles through your trousers, and from here she is very tall and the light from the window comes across her stomach in a long band and you can see her breathing move it.
+
+Her hand comes to rest on top of your head. Not pushing. Resting.
+
+The knot is at the front of her left hip, pulled snug, the tail of it hanging. You get a thumb into it and it doesn't give.
+
+"Not like that." Her voice has gone lower and slower but it's still exactly instructional, and that combination does something violent to you. Her hand comes down over yours and moves two of your fingers a knuckle to the left. "Here. Under, then across. It's a fitting, not a fight." Her fingers guide yours through it once. "Feel where it wants to go?"
+
+You feel where it wants to go.
+
+The knot opens. The whole wrap loosens all at once and slides and she is bare in front of you in her own workshop with the light on her and wood shavings stuck to one calf, and she looks down at you with those grey eyes and her mouth is not amused anymore.
+
+"Good," she says. "Now."
+
+---
+
+You put your mouth on her and her fingers close hard in your hair.
+
+She is hot and slick already and the taste of her is sharp and clean and she says *fuck* very quietly, once, like a fact she has just verified. Her hand stays in your hair but she doesn't steer — she lets you find it, and you find it, and you know you've found it because the muscle in her thigh goes rigid under your other hand and she stops breathing for a second and then starts again much rougher.
+
+"There. Stay — stay there, don't get clever —"
+
+You stay there.
+
+She goes up onto the ball of one foot. Her hand tightens until it hurts and you don't care. Above you she is saying something that isn't words, low in her chest, and the flat of her palm comes down on the bench beside her to hold herself up, and you hear the tools jump on the wood.
+
+Then her hand pulls your head back off her.
+
+"Not yet," she says, breathing hard. "Not yet. Up."
+
+---
+
+She clears the bench with one arm — a chisel and an awl and a spool of waxed thread go over the edge and hit the floor and she does not look at them — and then her hands are on your shirt.
+
+She undresses you fast. That's the tell: she was slow for everything else, and for this she's fast, and her fingers slip once on a button and she makes an irritated sound and gets it anyway. Your shirt goes on the floor with her linen. Your belt she deals with one-handed without looking down at it, the way you'd unbuckle a strap you'd unbuckled a thousand times, and you get your boots off against the bench leg with an inelegance she has the grace not to comment on, and then there is nothing between you at all.
+
+She puts both hands flat on your chest again, the way she started, and slides them down over your stomach, and her eyes drop and follow.
+
+She takes you in her hand.
+
+Her palm is warm and hard-edged at the base and she closes it and holds still, exactly as she held still with her hand on your heart, just reading.
+
+"Mm," she says. And then, absolutely level: "You've been like this since the doorway."
+
+You have. You have been like this since the doorway.
+
+She strokes you once, root to tip, unhurried, watching your face the whole way — not your cock, your *face* — and whatever crosses it makes her mouth curve.
+
+"There," she says. "That's what I wanted to see." Her thumb rolls over the head, spreading the wet. "Again?"
+
+"Yes."
+
+"Say it properly."
+
+"Again."
+
+---
+
+She turns and puts her hands on the bench.
+
+That's all — she just turns, sets her palms down on the scarred wood among the tool marks, and looks back at you over her own bare shoulder with her hair coming down out of its pins.
+
+"Here," she says. "This is where I work."
+
+You get behind her. Your hands go to her hips and the heat of her comes up through your palms again and she pushes back into you, once, deliberately, so that you're pressed against her and you both feel exactly where everything is.
+
+"Slow," she says. "I want to feel you find it."
+
+So you go slow. You put yourself against her and she is soft and open and hot and you press and she takes the first of it and stops you with a hand back on your thigh — "*wait* —" — and you wait, held there, both of you breathing, and then her hand opens and she says "now" and you sink the whole way in.
+
+The sound she makes is not decorative. It comes out of her stomach.
+
+---
+
+For a long moment neither of you moves.
+
+You are all the way in her and she is gripping the bench and her head has dropped between her shoulders and you can see the knots of her spine and one damp strand stuck at the nape, and her whole body is going through something that makes it shiver in short runs from the hips up.
+
+"*There*," she says. Muffled. Almost annoyed at how good it is. "Oh, there it is. That's the fit."
+
+She lifts her head. Turns it enough to find you.
+
+"That's the whole thing I want," she says, and her voice is wrecked and precise at the same time. "That. Where you stop being able to say where you end and the work begins." Her hips move — a small circle, testing, and it drags a groan out of both of you. "Do you feel that? You can't find the seam. There isn't one."
+
+---
+
+Then she starts to move and she does not stop reading you out loud.
+
+That's the thing that undoes you — not the wet grip of her, not the sounds, not the flex of her back under your hands. It's that she keeps telling you what you're doing.
+
+"Your grip just went." — and it had. "There — your breath's gone short and high, that's close, that's not there yet but that's close." — and she was right, and you hadn't known. "Slower. Trust me, slower, you've got more than you think —"
+
+She knows your state before you do. She is standing inside your own body with a lamp, naming things off, and every time she names one it becomes true and enormous, and you are learning what is happening to you from her mouth, in order, as it happens.
+
+"Your hands are shaking."
+
+"Yes."
+
+"Good. Keep going. Don't manage it."
+
+---
+
+You feel her start to go.
+
+It comes up through her from somewhere low and it takes her breathing apart first — three fast ones, then none — and then her arms give out and she goes down onto her forearms on the bench, and every muscle in her back stands up under the skin, and she says your name once, flat and astonished, like something she's just this moment understood.
+
+And she clamps around you and that is the end of you.
+
+"Yes — *now*, yes, come on —"
+
+It goes through the base of your spine and out and there is a stretch of several seconds where there is nothing in the world but heat and grip and the sound the two of you are making, and you are pressed as deep into her as you can physically get with your hands closed hard enough on her hips to leave marks, and she is holding you there, driving back onto you, taking every part of it.
+
+Then it lets go.
+
+---
+
+The first thing that comes back is the sound of both of you breathing, badly, out of time.
+
+The second thing is that she has not let go.
+
+She's down on her forearms on the bench with her forehead on the wood and you are draped over her back, and your hand has ended up flat on her sternum from underneath — the exact place she started, the bone in the middle of her, her heart going hard against your palm — and she has both her hands over that one hand, holding it there.
+
+Neither of you moves for a long time.
+
+You slip out of her eventually, just from the softening, and she makes a small sound of loss at it and reaches back to keep your hip against hers.
+
+"Stay," she says, thickly. "Not finished."
+
+---
+
+She gets you both down onto the floor.
+
+Not gracefully. It's a slither and a stagger — her arm around your ribs, your knee going into the shavings again — and then you're sitting on the workshop floor with your back against the leg of the bench and she is sideways across your lap with her head under your jaw, both of you slick, both of you shaking in the small aftershock way, wood dust stuck to every damp part of you.
+
+Her hand comes up and settles on your chest. Flat. Not doing anything.
+
+And you understand, with the light coming across the floor and a chisel lying where she knocked it, that the woman who always has a tool in her hand has nothing in her hand and is not reaching for anything.
+
+"I'm not going to get up," she says, into your neck. "In case you were bracing for it."
+
+You hadn't known you were bracing for it. Your whole chest lets go at once.
+
+"Mm," she says. "That."
+
+---
+
+A while later, she says, "Tell me when the chisel should rest."
+
+You turn your head. She's looking up at you from under your jaw, grey eyes gone soft and slow, and she is entirely serious.
+
+"I don't stop on my own," she says. "That's my failing, not a virtue. I can see what you could be so clearly that I'll keep taking material off a thing that already fits, and you won't stop me, because being worked on by someone who sees you is —" she moves one hand, gives up on the word — "it's the best feeling there is, and it will still be too much eventually, and you will not say so."
+
+She puts two fingers on your sternum.
+
+"So say so. Now, if it's now."
+
+"It's now."
+
+She nods once, like a foreman accepting a measurement. "Then it's now. Down tools."
+
+And she goes heavy against you, all at once, every bit of the working tension going out of her, and it is one of the more astonishing things you have ever felt a body do.
+
+---
+
+She reads you the whole way down.
+
+She does it in the same voice, with the same accuracy, and it turns out the descent has as many parts as the climb did — more — and she names every one.
+
+"Your pulse is coming down. Feel that. Four, five beats slower than a minute ago."
+
+Her hand on your chest, staying.
+
+"Your legs have gone heavy. That's not tiredness, that's the drop — the whole system letting go of the rope. It's supposed to feel like sinking. Let it."
+
+Her thumb, moving in one slow arc and stopping.
+
+"Your hands have opened. They were fists an hour ago and I doubt you knew it. Now look — " she lifts one of your hands off the floor by the wrist and lets go of it, and it drops back onto the shavings with no resistance in it at all, dead weight, and she makes a satisfied noise. "There. Nothing holding."
+
+The room is getting cooler and you can feel exactly where — the outsides of your arms, the top of your foot. Everywhere she's touching stays warm.
+
+"Your breathing's moved," she says. "It was up in your chest the whole time we were working. It's in your stomach now. Put your hand here —" and she takes your hand and lays it flat below your own ribs, and you feel it, the slow low swell of it, somewhere you had not been breathing from in a long time.
+
+"Your jaw's open. It's been open a while. You didn't do that on purpose." A breath of laughter against your throat. "That's the one I like best. The default can't lie."
+
+You lie there on the floor of her workshop while a woman who reads friction for a living reads your nervous system emptying out, and it arrives from outside you, one true fact at a time, and not one of them is something you had to produce.
+
+---
+
+Then she says, "I'm going to count."
+
+You don't ask why. Somewhere in the last hour asking why stopped being a thing you do with her.
+
+"In," she says, and you take one in, and she says "one" against your throat on the way out. Then "two." Then "three."
+
+She doesn't tell you how deep or how slow. She just counts what you actually do — takes the breath you were going to take anyway and puts a number on it, so that the number is outside you and the breath is inside you and you don't have to hold either end.
+
+At six your shoulders come down another notch off the bench leg.
+
+At eleven she has to say the number twice because the first one didn't quite make it out of her.
+
+At nineteen she gets it wrong — says nineteen twice — and neither of you corrects it.
+
+Somewhere in the twenties the counting stops mattering and just becomes the sound she is making, low and even, right under your ear, and your body has stopped doing anything except the one slow thing it is being counted through.
+
+"You could do this all day," she says, eventually.
+
+"I do."
+
+"Mm." Her hand flattens on your stomach and rides it up and down. "Then somebody built you a good tool. I'd like to have met them."
+
+---
+
+She gets up exactly once, and only for water.
+
+She comes back with a cup and holds it while you drink, one hand behind your head, and when you've had enough she finishes it herself in two swallows and sets it on the floor within reach — not on the bench. Within reach. Then she wets a corner of the fallen linen band in what's left and cleans you up with it, unhurried, entirely matter-of-fact, thigh and stomach and hip, the way she'd wipe down a tool she intended to use again.
+
+There's nothing shy in it and nothing performed in it. She is a woman who takes care of the things she works with. This is simply that, applied to you.
+
+"Cold?" she says.
+
+"A bit."
+
+So she takes the long linen band — three turns of it, the whole length that was around her chest an hour ago — and she wraps it around your shoulders instead, and tucks the corner under itself at the back with two fingers, the same tuck you spent so long undoing.
+
+Then she sits back on her heels and looks at the result and says, "Better," and means the fit.
+
+---
+
+The light moves.
+
+That's all that happens for a long time. The band of sun on the plaster goes from white to a low honey and slides up the wall, and it finds the little wooden cross hanging there and lies on it for a while, and then goes past. Dust turns over in the shaft of it. Somewhere outside, a bird that isn't hers.
+
+You are on the floor of her workshop wrapped in her clothes with her weight against your side, and nothing is required of you.
+
+She turns her arm-strap slowly with her thumb. Half a turn, back. She isn't thinking hard about anything. It's just what her hand does when it's happy.
+
+"I like this hour," she says, to no one. "Nobody ever asks me for anything in it."
+
+---
+
+You take that hand.
+
+You do it because you want to, and because it is the first thing all afternoon you have done to her that she did not set up first, and you feel her register that — a small still moment, then her fingers going soft and letting you have it.
+
+You turn it over. It is not a delicate hand. There's a hard yellow ridge of callus across the top of the palm under all four fingers, and a second one at the base of the thumb, and the pads of the first two fingers are smooth and shiny where the callus has gone past rough into polished. A white seam of old scar runs across the back of the knuckle. There's a nick on the side of the index finger with a dark line still in it. The nail of the middle finger is flat and slightly split from something that fell on it, a long time ago, and healed wrong.
+
+You go over all of it with your thumb. She lets you take as long as you want, which is a while.
+
+"Well," she says at last, and her voice has gone strange. "Nobody does that."
+
+"Does what."
+
+"Reads me back." She closes her hand around your thumb and holds on. "They look at the work. Everyone looks at the work." A breath. "Do it again sometime."
+
+---
+
+After a while she says: "You did that."
+
+You start to say something about her and she stops it flat, one finger against your mouth.
+
+"No. Listen — this matters to me, so let me get it out properly." She takes the finger away. "I know exactly how much of that was mine. I set the angles. I chose where to press. That's craft and I'm good at it and I won't pretend otherwise." Her hand flattens on your chest. "And none of it was the thing itself. The thing itself was your body deciding, over and over, to let go of something it has been holding for a very long time. That was yours. Every one of those was yours."
+
+She lets that sit.
+
+"The hand on the chisel does not sign the statue," she says. "Remember that. Someone will try to tell you otherwise, and it'll probably be you."
+
+---
+
+Later still, when it's nearly dark, she tells you the other thing.
+
+She says it quietly and into your shoulder, so you understand it's the one she doesn't hand out.
+
+"Here's what it costs, doing what I do." Her thumb finds a seam of the linen and follows it. "I only ever get to shape the one material that doesn't last. Everything I've made that was worth making has been made out of something that ends. I've finished exactly one masterpiece per mortal, every time, and I have never once got to keep the medium."
+
+Her hand stops.
+
+"I could have chosen marble. Marble stays." A breath. "I chose this. I keep choosing this. Loving a permanent thing is nothing — anybody can do that, it costs you nothing to love what's going to be there tomorrow." Her arm tightens around your ribs, once, and stays tight. "I do the other thing. On purpose. Every time."
+
+She lifts her head just enough to look at you in the last of the light.
+
+"I'm not telling you that to be sad at you. I'm telling you because you should know exactly what you are to me, and *temporary* is the entire reason, not the exception."
+
+---
+
+The owl comes back at full dark.
+
+You hear it before you see it — a hard silent something across the window, then claws on the beam overhead, then a small indignant shuffle of feathers as she settles in for the night. Neither of you moves. Athena makes a low amused noise at the ceiling.
+
+"She thinks you're furniture now," she says.
+
+Your eyes have been closing for a while. She feels it happen — of course she does, she has a hand on your chest and she never stops reading — and she doesn't fight it and she doesn't comment on it, which is its own kind of kindness.
+
+She shifts once, gets your head properly onto her shoulder, and pulls the linen up over you where it had slipped.
+
+"Sleep here," she says. "The bench isn't going anywhere. Neither am I."
+
+And her thumb finds the brass at her arm and turns it, slow, half a turn and back, half a turn and back, in the dark, over and over, until you're gone.

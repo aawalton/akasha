@@ -1,0 +1,185 @@
+---
+id: a1096b73-a281-529f-a6e1-1a21d410dd1a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 577: Dark Gods Advancement"
+slug: 0101-chapter-577-dark-gods-advancement
+partOf: reborn-as-a-demonic-tree
+position: 101
+ownLength: 2745
+unit: words
+publishedAt: 2026-06-05
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3498878/chapter-577-dark-gods-advancement"
+royalRoadId: "3498878"
+---
+
+Mistress Veilshade overlooked Floridawn from the shadows with a frown.
+
+It had been a few days since Droskan and Thal'korr targeted the captured city in an effort to wipe out the dark god's supporters. While casualties among the mortal populace had been reported, the dark god swiftly restored faith by driving the invading Monarchs away and showering the people with rewards.
+
+There had also been further changes to Floridawn.
+
+The vast area of Floridawn, conquered by the dark god, was no longer a desolate wasteland. Seemingly overnight, a thick forest of demonic spirit trees had bloomed.
+
+Attempts to determine the forest's purpose had failed. Spiritual senses and long-range scrying techniques were blocked by a thick haze of desolation Qi emanating from the trees and blanketing the land.
+
+Ground-based investigations had fared even worse, with Shadows sent into the forest being almost instantly slaughtered by a six-armed headless monstrosity, alleged to traverse the void by the few who managed to survive. Entire elite squads of Shadows were wiped out, suggesting the creature possessed strength close to a Monarch.
+
+"But that isn't even the most concerning part," Mistress Veilshade muttered, glancing toward the border that was advancing in real time. The beast tide had already been unkillable under the dark god's influence, with slain beasts simply rising again as twisted monstrosities of wood. However, it had been somewhat containable by Empyrea's forces... until now.
+
+Something had set the dark god into a full-on assault.
+
+Whether it had been the attack on the dark god's believers, the ball invitation, or something else entirely, she had no way of knowing. But Empyrea's forces were being pushed back with ease.
+
+The mile-long, worm-like monster that had initiated the assault a few days ago continued to lay waste to Empyrea's ancient defensive formations and hastily erected walls. The shadow angel also made regular appearances to raise fallen Empyrea cultivators into monstrosities and summoned fiends of darkness that joined the already immortal beast tide. However, worst of all was the haze of desolation that extended from the forest and shielded the advancing monsters from long-range spiritual bombardments. Whether it be fireballs, hail, boulders, or even lightning, the haze devoured it all the same.
+
+At this point, even if a Monarch stepped in to combat the beast tide, they would only manage to put a temporary dent in the assault, which was a dire problem. At its rate of advancement, the beast tide would reach the base of the World Tree's trunk and Empyrea's gates by the start date of the ball, with no signs of stopping.
+
+The Empyrea nobles were in an uproar, and with the Chairman vanishing in place of his ancestor, the mysterious Crowned One, who seemed uninterested in matters besides the ball, they had nobody to point their fingers at and blame.
+
+In their rage, a few small assaults were launched on the abyssal gate in the center of Floridawn, only for void lightning to strike their attempts out of the sky with ease.
+
+At this rate, the Celestial Empire will tear itself apart from within due to the pressure the dark god is placing on the fragile alliances between Monarchs. Everyone is demanding that someone else step up and deal with the situation, with nobody willing to risk wasting their Qi against an unkillable horde of monsters. After all, in the absence of the Chairman, the spot at the top is wide open for the taking.
+
+Mistress Veilshade was included in that. Besides literally going supernova, she didn't see a way to wipe out the beasts by herself, and even if she could, there would be no reward waiting for her. If anything, the canopy factions would see her weakness after victory as an opportunity to invade Umbraholme and squash her Shadows.
+
+The dark god's unprecedented, relentless assault presented the Celestial Empire with no good options. Which is why Mistress Veilshade was heavily considering swapping sides.
+
+"Mistress Veilshade," a woman said suddenly behind her.
+
+Startled, Mistress Veilshade turned around and relaxed a little, seeing it was one of her Shadows. I must have been so deep in thought that I somehow didn't notice their approach, she reasoned.
+
+"Yes?" she asked, confused as to why the Shadow didn't continue their report.
+
+"A Monarch of the Celestial Empire has been assassinated, specifically Councilman Verath Tindrel of the Luminarch Conclave," they said dryly as if that wasn't unbelievable.
+
+"By Grand Elder Ren?" Mistress Veilshade guessed. The Monarch Verath had been on the list of targets she had provided Ren with. Having been in closed-door cultivation for decades, Verath was long past his prime days, and the Luminarch Conclave had few allies that would retaliate should he be slain. As a light cultivator, he possessed frightening firepower and healing but lacked strong defenses. He made a good target.
+
+"No," the Shadow said, surprising her. "It was likely done by the Covenant."
+
+"How can you be so sure?" she insisted. "There are so many Monarchs who want him dead; I'm sure it could have been any number of them."
+
+"It was not," the Shadow insisted. "The assassin didn't leave a trace, a feat no other Monarch in the Celestial Empire could achieve."
+
+"Verath was slain without a trace?" Mistress Veilshade found that hard to believe. Monarchs could die, but they weren't killed quietly. There would be evidence of a struggle—perhaps scorched ground from stray light beams or blood on the floor from sword cuts. For there to be nothing? Impossible. She glanced out over the demonic tree forest as she pondered the implications. Hold on, how could they suspect the Covenant if no evidence was left behind?
+
+"If that is all, I have another assignment to attend to."
+
+"Wait—" Mistress Veilshade said, but the Shadow was already gone like a ghost. She scowled. "What other assignment could possibly be so pressing compared to answering to me?"
+
+Whatever, disciplinary action can come later. We have an assassin capable of killing a Monarch without a trace who has targeted the Canopy. I should schedule an urgent meeting with the other Canopy Monarchs. We can't leave the issue of the dark god for Empyrea alone to handle.
+
+A Shadow stepped out of the darkness behind her.
+
+Did that rude one realize their mistake and come to apologize?
+
+"Reporting to Lady Darkness," a man said respectfully this time. "We have overheard reports from the Luminarch Conclave of a slain Monarch."
+
+"Another one?" Mistress Veilshade asked with surprise.
+
+The Shadow seemed confused. "This is the only reported assassination I'm aware of. While the identity of the Monarch murdered is unknown, we believe it was Councilman Verath Tindrel, though the Luminarch Conclave is trying to keep it under tight wraps. Any other attempts at investigating the scene were swiftly intercepted, so we were unable to confirm if it was done by an insider or a rival."
+
+Mistress Veilshade was confused. "I already had a Shadow report moments ago and confirmed it was Councilman Verath Tindrel who was slain, and they said the assassination was done without a trace by the Covenant."
+
+The reporting Shadow seemed equally confused. "I believe I have the latest information and rushed to bring it to you, Lady Darkness."
+
+"Then who could that Shadow have been..." Mistress Veilshade's blood suddenly ran cold as the realization dawned on her. That was no Shadow of hers. "That was the assassin I just spoke to. They weren't reporting the murder to me—they were admitting to it."
+
+"The assassin was here?" The Shadow quickly brought out a communication jade, ready to call in reinforcements.
+
+"Don't bother, we can't catch her," Mistress Veilshade said. Not only had that assassin come and gone without a trace, but they wore the attire of her Shadows and got so close to her with ease. Having Shadows swarm the area would only make her stand out less.
+
+Though I don't understand. If the assassin possessed the strength to kill Councilman Verath, why didn't she kill me?
+
+A terrifying thought for a Monarch, but it was the truth. If she managed to get that close without detection, Mistress Veilshade doubted she would have had time to react to a sword through her neck. In that case, why hadn't she been assassinated?
+
+Verath must have been easy pickings, Mistress Veilshade reasoned to protect her own sanity, as she didn't like the other possibility—that the assassin had chosen to spare her as a show of power.
+
+"We have a mole," she informed the Shadow. "An incredibly dangerous one. From now on, everyone has to show their badge when speaking to confirm their identity."
+
+The Shadow nodded and relayed the order.
+
+"Wait, one more thing," she said. "Inform the Shadows to suppress the news of Councilman Verath's demise."
+
+The Shadow seemed surprised. "May I ask for the reason? The Luminarch Conclave is our enemy, the news of losing a Monarch would be a massive blow to them politically—"
+
+Mistress Veilshade glared at the Shadow, silencing them. "They are our enemy," she said, pointing toward the distant border overrun with monsters. "The Luminarch Conclave's strength is pathetic in comparison to the All-Seeing Eye. I assume the assassin self-reported the kill as being done by the Covenant, hoping I'd spread the news to weaken the Luminarch Conclave. But all that will achieve is nothing but more chaos among the Council and fear toward the Covenant."
+
+The Shadow bowed deeply. "Your insights are truly eye-opening."
+
+"A leak will be inevitable," Mistress Veilshade sighed. "The death of a Monarch, especially one on the Council, can't be kept under wraps forever. Now go and fulfill my requests."
+
+The Shadow bowed again and left.
+
+"This is bad," Mistress Veilshade said as she left Floridawn and headed toward Empyrea.
+
+There was another reason she didn't wish for the murder to be reported. If the Monarchs in Empyrea and the Canopy knew their lives were in danger, it would be harder for Grand Elder Ren to achieve his goal of killing the Monarchs to please the All-Seeing Eye.
+
+With Verath, one of the weaker Monarchs, already slain, that left Grand Elder Ren in a tough position. He needed to move quickly if he wanted to have a chance of landing two kills before the assassin got to all the low-hanging fruit.
+
+I just hope this is the extent of the dark god's plans. The beast tide was tough enough to deal with, and now there's a Monarch assassin posing as one of my Shadows?
+
+Mistress Veilshade bit her lip. The fall of the Celestial Empire seemed to be fast approaching.
+
+***
+
+"I want to make an army of Primordial Ice Bone Dragons," Ashlock told Elaine.
+
+With Morrigan's body coming along nicely, it was time to think bigger. Deep within the Eternal Grove of Rebirth, beneath the shade of the death-affinity bodhi trees that had risen from the sacrificed souls of the Blightbane cultivators, a second Heaven-Defying Orchard began to take shape. Those death-affinity cultivators had traded their lives to birth the Grove, and in death, they had become its caretakers—quietly deciding the fates of every soul that drifted through, whether they became a tree, flora, a wandering beast, or simply a spirit left to roam.
+
+Since the Eternal Grove had been made from a portion of Ashlock's soul, it served as an extension of himself, similar to his Inner World. This made the land perfect for nurturing a Heaven-Defying Orchard as he could control it more directly.
+
+Elaine seemed puzzled by his request. "Primordial Ice Bone Dragons?"
+
+"Yes. I have a pile of bones harvested from a Primordial Ice Dragon once buried under the Frozen Star Sect. Just her skeleton alone possessed so much Primordial Ice Qi that in death, she turned a volcanic region to ice and gave birth to a new biome. I was thinking of making use of these bones and creating an army of dragons from them."
+
+"Well, a body needs a soul," Elaine frowned. "But if these bones released as much Qi as you claim, then remnants of the dragon's soul likely fester deep within the bones. Though, should we succeed, I worry they will turn out rather mindless."
+
+"That isn't a concern," Ashlock reassured her. "So long as they are a body with a soul, I can turn them into Ents and control them that way. I also captured the souls of many shadow cultivators originating from the Empire. They are imprisoned in Tartarus for now because runic brands carved into their tongues prevent them from speaking. To get around this, we could grow them new bodies and imprint their souls into them to gain answers."
+
+Elaine nodded. "I will see that these tasks are done, though I have a question if you don't mind."
+
+That surprised Ashlock. "Go ahead."
+
+"Is this my new role in the sect?" she asked, her expression mixed.
+
+Ashlock countered with a question of his own. "Do you want it to be?"
+
+"Well," she frowned. "I'm honestly happy to feel needed, but managing the dead and growing bodies isn't exactly what I had in mind for my future. This feels more like something Stella or perhaps Diana would be into."
+
+"I understand what you mean," Ashlock said. While such things didn't disgust him, his tree senses had long dulled his human ones. Corpses looked more tasty nowadays than grotesque. "Feel free to offload most of the more gruesome tasks involving the Fleshfruit trees to the Blightbane caretaker trees. For now, I just need someone with expertise overseeing it, as this is a cutting-edge field of research that you currently possess the most insight into."
+
+Elaine perked up at that. "When you phrase it like that—okay, I will continue."
+
+"You have my thanks," Ashlock said genuinely. Elaine had really stepped up to the plate in the absence of Stella and Diana, and he was relieved to have another competent Grand Elder at home to manage things while those two were away.
+
+Speaking of Diana, she had been in the Eternal Realm for a while now. He'd left it empty beside her to give the maximum time dilation, yet she still had not returned.
+
+"She must be trying to reach a higher realm than Stella," he guessed as he moved away from the Eternal Realm and returned to the Hellroot Abyss in Floridawn.
+
+Elysia was calling for his attention through the ethereal root network.
+
+Arriving at Floridawn, he was reminded of the immense drain on his Qi reserves that he had numbed himself to. With his Desolation Law reaching 100% comprehension and the ball approaching, he had decided to make a statement and see how far he could push his new strength.
+
+The answer was quite far. Empyrea cultivators seemed to be struggling greatly with firing techniques through the haze of desolation he had blanketed over the beast tide and his newly grown forest of demonic trees.
+
+Unfortunately for the freshly grown demonic trees and all other trees in his ethereal root network, they were being sucked dry of their Qi to fuel his advances. Even with the World Tree lending him increasing amounts of Qi as her restraints weakened, the cost of using Desolation Law was simply immense.
+
+This wasn't something he could keep up indefinitely. Luckily, the ball was only a few days away. By then, his roots would have thoroughly infiltrated Empyrea, hopefully giving him reach to wherever the ball was being held.
+
+Peering into the Hellroot Abyss, he saw Elysia and Cyphion standing over a corpse. Even in death, it was radiating the spiritual pressure of a Monarch, with light Qi leaking out of the remains of its severed neck and spilling into the darkness—the corpse's head was nowhere to be seen.
+
+"Did you two kill a Monarch?" Ashlock asked, somewhat surprised.
+
+"No," Elysia admitted, shaking her head. "Stella came by, said she left you a snack before teleporting off. We then found this corpse moments later."
+
+Ashlock laughed in disbelief. "What? Stella left this here for me? But she only infiltrated the Celestial Empire this morning!"
+
+"Yet she already killed one," Elysia said, looking disappointed in herself.
+
+"So cleanly as well," Cyphion added, crouching near the corpse and inspecting its severed neck. "I think she killed him in one blow," he shuddered. "I wonder if he even saw himself die."
+
+Ashlock carefully picked up the corpse like a prized treasure.
+
+Ready to devour it to feed his quest reward, he had a thought.
+
+What if he turned it into an Ent instead?

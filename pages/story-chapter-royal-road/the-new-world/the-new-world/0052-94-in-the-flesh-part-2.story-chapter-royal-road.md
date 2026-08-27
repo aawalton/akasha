@@ -1,0 +1,189 @@
+---
+id: 2ec6e12f-3a10-5efc-8d31-e57cd3dd48a1
+page-type-slug: story-chapter-royal-road
+title: "94 In the Flesh(part 2)"
+slug: 0052-94-in-the-flesh-part-2
+partOf: the-new-world
+position: 52
+ownLength: 3618
+unit: words
+ownProgress: 3618
+publishedAt: 2018-01-09
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/185661/94-in-the-fleshpart-2"
+royalRoadId: "185661"
+markedReadAt: "2026-06-29T21:22:36.577Z"
+---
+
+Surrounding the behemoth, plants flourished near the roots of the world tree. Nearby trees, bushes, flowers, grass, sprouts, vines, and even weeds leaned towards him, as if worshipping a god. They wilted in the face of him, but none of the plants died. They endured.
+
+Waterfalls fell from curves in the enormous trunk, giving the plants nearby nourishment. Those waterfalls poured downwards into elegant trails of fine mist. This mist collected on the surface of plants, creating a display of light. Literal rainbows arched near these waterfalls, the beams of light reflecting off the mist.
+
+This water pooled into an enormous lake underneath the world tree’s trunk. The green glow from Yawm’s energy reflected off the top of the lake, turning the water seafoam blue. Black forms swam under the lake’s surface. Insects crawled across the water, fish splashing up out of the water for a quick meal.
+
+At the center of the lake, there was an island. At the center of the island, a set of stone stairs led downwards. These stairs circled a pillar beaming light into the world tree. It was the same white energy that sustained the other rifts, except it fed into the world tree instead. The greater the distance from this lake and white beam of light, the more feeble and fragile the plant life was.
+
+I tried analyzing Yawm, but the system couldn't affect him for some reason. I guessed it was the world tree and the green aura.
+
+Interrupting my trance, Hod whispered, “Hod thought world tree suck up life like...like Dry Man want to suck up water.”
+
+I turned to him, almost falling over at what he said all of a sudden.
+
+Hod continued, “Hod not know why Dry Man not drink. Dry Man not be dry if Dry Man drink to not be dry.” Hod shook his head, “That’s what Hod think at least.”
+
+I chuckled, the tension of seeing Yawm fading, “I needed that. Thanks.”
+
+Hod puffed out his chest, putting his hands on his hips, “Hod glad Hod help Harbinger.”
+
+The feeling of dread dwindled as I glanced down on my hand. The grimoire’s ironclad lock on my palm finally released. The eldritch rune floated off the page, an almost miracle of ingenuity. At least to me it was.
+
+I lifted my left arm, watching the glowing rune fall onto my forearm. It landed in the perfect center of the outer edge of my forearm. The other runes carved out and left smoothed metal behind. This rune worked differently. It glowed with the same color as my ascendant mana. A gentle hum radiated from it, and the rune created an invisible shift around me.
+
+The sensation almost threw me off balance before I planted my feet. I rolled my shoulders before lifting the hand in front of me. This was the time for finally getting the rune working. All the hours were either wasted now, or they would pay off in spades. With no idea how the runes would work, I put a drop of mana into the rune.
+
+The rune hardly responded. I raised an eyebrow before pouring more mana into the rune. It swallowed the mana, eating even more of the energy. It amazed me how mana hungry these runes were. Even with all the setup time, they required more and more and more. The demand was hard to maintain even for me, and my mana generation was second to none.
+
+Still, the rune wanted more so I relented. I ramped up how much mana I was giving until it matched my own health regen. What amazed me was how the rune didn’t even hesitate at the amount. The other rune cracked well before my current max. The eldritch rune didn’t show any signs of reaching its potential.
+
+After a few minutes of waiting, I sighed with a bitter disappointment. There was no rush, no surge of power. I expected a godlike increase in my potential. I expected something ridiculous. Schema outlawed these runes, and despite the rune showing signs of completion, it hadn’t done jack shit. It was like spending months working day and night for the reward of a shit sandwich.
+
+I shook off the resentment, keeping the torrent of mana flowing into the rune. At some point it might payoff later, just not now. I didn’t need immediate pay off anyways. I needed the other runes instead. The eldritch runes didn’t seem like they were meant for conflict. With that in mind, I pat Hod on the shoulder,
+
+“Let’s go.”
+
+Hod nodded, “Harbinger still walking?”
+
+I frowned, remembering the impotence of the eldritch runes, “Unfortunately, yes. I have to finish the other runes for my armor.” I raised the eldritch rune, the rune’s red hue darkening over time, “This piece of shit isn’t going to give me the oomph I need.”
+
+We walked down from the top of the high island. As we stepped down the vine, I admired the view once more. The gray cloud covering the tree was gone now, exposing it in its entirety. With that unveiling, Hod and I discovered the complexity of Yawm’s base of operations. It wasn’t just some tree. There was so much more.
+
+The most obvious anomaly were the effects of the floating islands. They only increased in intensity was we went on towards the rift’s core. This explained the four largest islands orbiting the world tree.
+
+On the island closest to us, the crimson edges of a volcano spewed black smoke. There was a lack of life there, though a few of the stone eater’s scrambled on its surface. It looked like the rift I locked Etna in. The magma even has rats and crystalline fish in it if I looked closer.
+
+On the island farthest from us, it was the polar opposite. That particular island was like a planet floating in space, oceans shimmering on its surface. Giant slugs and a few kraken sized squids swam under the waters. The gravity defying lakes hid their black, shifting forms, but they were the same as Krakow-Wahl. They were just giant squid monsters.
+
+On the leftmost island was a vast desert surrounded by high mountains. Even from so far away, Hod and I glimpsed at vultures and snakes slithering on its surface. Dunes formed on the biome, like a tiny slice of the Sahara. Giant worms slithered on the surface of the island as well, snapping towards any creature that neared the sand.
+
+On the right most side of the four islands, the entire landscape was a bustling metropolis. The futuristic city floated with the island, the buildings covered in glass and metal. Insulated bridges hung between this island and the world tree, pinning it there. Several smooth hunks of metal floated over these bridges.
+
+They were like space ships in a sci-fi movie. With everything made of sleek, edgeless designs, the island was aerodynamic and seamless. What it lacked in character it made up for in practicality.
+
+Three of these islands looked like they were made as tiny ecosystems for eldritch. The metropolis one looked like a research center, somewhere for noncombatants to dabble. What they did there was more than likely abominable, like what the scientists did to Althea. It made my blood boil.
+
+My hands clasped into fists without me realizing it before Hod nudged me,
+
+“Hod understand Harbinger frustration. Hod think Harbinger focus on book rather than giant tree. Harbinger need markings on armor. Otherwise Harbinger weak. Not Hod or Harbinger can afford weakness.”
+
+I sighed, relaxing my hands before shaking my head, “Yeah...yeah, you're right...Thanks for keeping me focused.”
+
+Hod nodded, “Hod glad Hod help Harbinger like Harbinger help Hod.”
+
+It took me a second to put his words through my Hod language translator, but I nodded back before we trekked deeper into the rift. Hod kept a lookout as I etched out my runes onto another black page. By now, creating the runic carvings on my armor was simple as breathing. I maxed out the skill for it a while back, and I had carved almost everyday for months since.
+
+So using those skills I honed, I wrote in my grimoire as we walked towards the rift’s center. The faraway screeching of abstractions heightened in tone and pitch as we came closer. Before we reached them, I wrapped up my runes on the page. It took about fifteen minutes for the whole thing.
+
+As I channeled mana into the grimoire, I contemplated the differences in eldritch and magic runes. The magic runes were more like etching out memories into words now. Airy, light, and spacious, they were like the fogginess that surrounded a memory. Of course they still held power, but they weren’t in the same league as the eldritch runes.
+
+If magic incantations were pages, then eldritch runes were books. No, not books but dictionaries. It was like I had to argue them into existence, justifying every aspect of it. The meticulous detail was exhausting, like running a marathon. The razor thin margin of error and exact structure required for each glyph made them as fun as stomping on a rusty nail.
+
+Combine that with the eldritch runes not amounting to much, and it was downright depressing. I had hope for them though. Yawm was covered in them, and he was one strong guy. If they were good enough for someone who killed a sentinel, they were good enough for me.
+
+With that in mind, I added runic lettering onto my upper arms, shins, chest, and back. They were similar with my previous runes, but a tad more precise. The grimoire let them come through better than marking them on my own.
+
+Once I completed them, I turned towards Hod,
+
+“You ready to get going?”
+
+Hod spread his wings, “Hod ready. Hod been ready for long time.”
+
+I charged my magic runes, limiting the flow of my mana. I overcharged the runes until they were about to burst. Instead of letting them crack, I siphoned all the excess mana into the eldritch rune on my left arm. Even if it didn’t do anything, it could act like a mana sink for me, preventing me from rupturing the other runes.
+
+As I filled the runes with my mana, the familiar sensation of strength and control surged. I cracked my neck, relishing in the renewal. Without the runes, I was bare, like I was unclothed. Considering I could feel with my armor like it was skin, maybe I was naked.
+
+I pushed the thought from my head before jumping upwards. The ground crumbled under my feet, a gust of dusty wind rippling over the island I was on. I fired towards another island as Hod flew behind me. I grinned as the ground closed in on me. I reformed my armor, gliding into the ground, more at home in the dirt than the sky.
+
+The mana cost involved with The Coming Tide wasn’t a burden anymore. As I leveled the skill, my efficiency with the movements increased. I wriggled through the earth before firing off the top of a different island. I shot over the skyscrapers littering springfield before smashing into one. I drilled through the concrete and drywall, shifting through the buildings floors with ease.
+
+Reaching through it, I burst out the other side of the skyscraper. The quake of my leap crushed the glass around me, making the sharp pieces fall through the air. I turned back, observing the damage I dealt. The skyscraper wiggled, dispersing the weight as a wave traveled through it. Across the side I leapt from, broken glass fell like a glimmering rain. Hell yeah.
+
+I turned forward, gliding through the islands as I leapt between them. Hod tried keeping up, but this terrain was perfect for me. Bouncing from island to island, I was ready for a fight from an anime at this point.
+
+The manic grin on my face grew before I reached an island near the world tree. On its surface, hundred of the Solar beetles crawled. Their after images formed as I neared them, their shapes shifting. It was like I just chugged a fifth of vodka, leaving me unable to see or stand up straight.
+
+I closed my eyes and covered my ears. This time I felt outwards with my sense of gravity. These tiny creatures released ripples in the space around them. Using that as my new sight, I molded my armor for landing.
+
+Just like that, I flew towards the island like a nuke dropping onto an unsuspecting city. I slammed straight into a beetle, crushing it into a wet splat. I reached out with Tactile Cognition, getting a more concrete view of my surroundings. Without eyes, my armor grinned with jagged teeth.
+
+I unleashed Event Horizon. As the aura reached out, the damage covered the cost of my runes without me even trying. As it reached over hundreds of insects, the surge of mana from it exceeded my own production. It raised in volume, becoming a torrent running into the eldritch rune.
+
+It was an amount of mana I hadn’t handled since making the grimoire. I suppressed the growing hunger the mana caused as I dashed forward. A solar beetle snapped its jaws towards me. I side stepped to its right side, countering the blow with a right hook. My heels rotated on the ground as my fist pulverized the mandibles of the insect.
+
+The sound rumbled through my armor like a far off bomb. The warmth of the beetles blood covered me, soaking into my armor as it fed on the monster. Before it could escape, I stepped forward, gyrating another blow into the monster.
+
+My fist collided with a telekinetic pad, disintegrating the remains of the monster. Another beetles snapped towards my right leg. I turned towards it, lifting my leg. The jaws snapped beneath me, so I stomped the beetle’s jagged mandibles. They crumbled before I reached out a hand towards it.
+
+The impact of my foot landing on the ground sent out a shockwave, knocking the beetle back. I grabbed it, digging my fingers through its hardened shell. Harder than steel, the shell cracked like dry wood as I clasped it. My armor dug into the monster, sapping its strength before another beetle reached towards me.
+
+I roared at the monster, giving it pause. During the monster’s hesitation, I dashed forwards and slammed my held beetle into it. The beetle in my hand cracked in half, the insides rupturing. The beetle beneath it had its exoskeleton crushed inwards. A beetle snapped from behind me. I dashed forwards, stomping the head of the grounded beetle.
+
+With the remaining half of a beetle in my hand, I spun around. Dragging my arm behind me, I mauled the beetle with the other half. The insect pulped before I turned on my heels, arcing a fist over my head. It spun over me before crushing the beetle into the island. The mush splattered against my armor as I unleashed my overcharged runes.
+
+Firing forward, I drilled through three beetles before converting another one into paste. An abstraction dived towards me. I grabbed its deformed face with both my hands, pulling it downwards. I raised my knee, squashing the abstraction’s head against it. Another abstraction dove from behind.
+
+I turned around, creating a gravity warp in front of me. The abstraction wobbled before losing control of its flight. It spun towards the gravity warp before I torqued a fist into it. The monster evaporated, and a thin, light sheen of humidity ran into my skin.
+
+It was a mild sensation, like walking into a cloud. My attack had left a fine, orange mist in place of the abstraction before. My armor stretched out needles towards the blobs of flesh around me, draining them as I passed.
+
+I smashed my fists together, walking into an oncoming horde. Each of my strikes killed the monster’s making them fall apart. I kept killing, ripping the wings from abstractions and tearing the legs from beetles. Hordes came. Hordes died. It was a massacre. Even if a monster attacked me, they did little to no damage. The condensed dimensional fabric was too dense.
+
+Their teeth cracked against my skin. Their bones crumbled against my fists. Their shells shattered against my murderous intent. With each strike, I took at least one life from a monster. I kept each strike sharp and malicious, crippling and killing like a plague. Each moment, I fell into the motions of my strikes.
+
+Everything molded together, becoming a dance of sorts. I shifted my momentum, following a flow of battle. With each blow, I gave destruction. With each second, I took life. My aura sustained me, giving me an unstoppable endurance. My mana was limitless, fueling the carnage and decimation.
+
+I sunk into the earth, dodging attacks and unleashing The Coming Tide. I shot forth rippling attacks that disintegrated the monsters. I pulled them close with gravity and telekinesis, preventing their escape. Time disappeared during my bloodlust, the onslaught all there was. Everything faded away but the blood.
+
+My shifting form was death. It was a malignant force unleashed on the unsuspecting souls. Battle was my haven, a refuge from everything. There was no future or past, only that moment. A fight consumes you, freeing you from everything else. It offers a chaos, forcing a resolution. It was simple, something I savored.
+
+But like all things, the battle ended in time. Whenever I finished the last abstraction, I glanced around. This was no longer a field of battle. It was a field of corpses. It was a canvas painted with the red and orange blood of the monsters, grinded into nothing but pulp. Nothing remained near me that was living, no plant life, birds, or chirping insects.
+
+No, only a dreadful silence remained from where I passed. That, and the steady drip of leaking blood. I walked around, cleaning the corpses with Event Horizon and my armor. Event Horizon disintegrated them over time while my armor was a sponge. The needles drained any corpse in seconds.
+
+Once the island was devoid of life, I turned Event Horizon off. I glanced around, looking for Hod. He flew above the island, so I shouted, “You can come down now.”
+
+“Hod wonder if Harbinger sure?”
+
+I waved my arm, “Yeah, it’s fine.”
+
+He dived downwards before spreading his wings, slowing his descent. He landed on the ground, his feet thumping against the ground. He turned towards me, “Hod told Harbinger. Harbinger the cataclysm now.”
+
+I waved him off, “I’m just fighting. It’s easy to destroy anyways. It’s building that’s actually difficult.”
+
+Hod shrugged, “Hod not know.” He pointed towards the rift’s core. “We go now?”
+
+I clasped a fist, “Of course.” I turned towards Yawm, “I wish we could just kill him.”
+
+Hod shook his head, “Yawm awaken. Yawm strong, so Yawm kill us. Dry Man lose time for assault. Followers and Yawm impossible to kill. Yawm alone, maybe.”
+
+I sighed, “Yeah, I know.” I shook off the bit of the desire to just run in and punch Yawm. I ran forward, firing off the island. Hod followed behind, darting through the air. We passed the islands, my teeth clenching as we passed the city covered one. Hod and I could try and kill the people there, but we might end up doing more harm than good.
+
+It reminded me of my outing with Bloodbull and the Freedom Fighters. I ended up killing everyone. No matter how I justified it to myself, that’s what I did. I gritted my teeth, fearing the same outcome here. I didn’t want to kill a crowd of normal people. The thought of doing so made me sick to my stomach.
+
+I remembered the man I strangled with telekinesis. His eyes were full of fear, bloodshot as he wallowed in his own filth. It was an awful way of dying. There was no mercy. As I dashed through the air, I stared at my hand. It was the one that clasped his throat, taking his life away.
+
+I clasped it into a fist. This wasn’t the time nor place for brooding about what I’d done. This was the time for taking a dungeon core. It was time for killing. Even if these hands were covered in blood, they were the hands I needed. If I was going to live through this, that was the only way out.
+
+With that resolve, I drilled through another island before jumping towards the ground. I dove into the ground, firing off of it before reaching the lake underneath the world tree. I shot myself onto a branch before climbing up the edges of the tree.
+
+The bark minced in my hands, soft and pliable. Over the next ten minutes, I reached over the lake’s center island. I dropped from the top of the roots covering the lake. Landing beside the stone stairs, I created a rippling wave across the lake around me. The forms under the water stayed there, not coming at me like some ravenous horde.
+
+Hod landed beside me. I could have used Event Horizon for drawing in agro before killing the monsters in the lake. We didn’t have the time. Before stepping down the stairs, I checked out my status for how many levels I gained.
+
+I gained fifty. Before putting in my attribute points though, I scrolled down my notifications. Two were very odd, both of them red. It was outlined with white, like an overseer’s status screen. It read,
+
+Dimensional Cipher completed. Changes assimilated into Living Dimension.
+
++4 Strength and Dexterity.
+
+Dimensional Cipher completed. Changes assimilated into Living Dimension.
+
++4 Strength and Dexterity.

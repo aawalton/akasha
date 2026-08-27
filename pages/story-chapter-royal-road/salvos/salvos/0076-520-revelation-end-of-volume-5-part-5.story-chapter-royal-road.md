@@ -1,0 +1,65 @@
+---
+id: 9fe389a3-3ad1-5178-8083-7c9a5529beb9
+page-type-slug: story-chapter-royal-road
+title: "520. Revelation (End of Volume 5 Part 5)"
+slug: 0076-520-revelation-end-of-volume-5-part-5
+partOf: salvos
+position: 76
+ownLength: 667
+unit: words
+publishedAt: 2023-02-26
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1123913/520-revelation-end-of-volume-5-part-5"
+royalRoadId: "1123913"
+---
+
+520. Revelation
+
+And Salvos was gone.
+
+Haec watched as the portal closed overhead, and the pressure on his shoulder eased. Regnorex’s rage calmed. The dark aura that had caused the entire Domain of the Demon King to quake dissipated.
+
+He stood there in silence, but none of the Primeval Demons dared to move. Haec closed his eyes as he lay there, sighing softly. He should have been unhappy— upset that he could no longer cross through to the Mortal Realm.
+
+But he was content. After all, he had finally seen Salvos— the real her— after so long. And that was enough for him.
+
+“It is no matter.”
+
+Regnorex’s words caused Haec to jolt up. The gathered Primeval Demons raised their heads, while the Archdemons still dared not to move. The Demon King strode up the cracked stairway leading up to his throne, his demeanor starkly different than what it was just moments before.
+
+“Levithus had done his duty. The partial merging of the planes has been completed.”
+
+Haec slowly rose to his feet, watching as Regnorex settled onto his vast throne. The gathered Primeval Demons bowed their heads low and listened to their King.
+
+“Desolation will come to an end. The cycle of Advent continues, and Revelation will begin. The Beast shall return to its slumber. The Devil…”
+
+The Demon King paused. For a moment, a black aura flickered around him, and Haec felt the overwhelming fear seeping in once again. But that moment passed.
+
+“The Devil shall has played his tricks once more, but this time, he shall pay for what he has done.”
+
+The Primeval Demons exchanged a fearful glance. Even Haec understood what that entailed. Regnorex simply leaned back on his throne and closed his eyes.
+
+“Soon, the Mortal Realm will understand hell. And I will lead us all to salvation.”
+
+End of Volume 5 Part 5
+
+Author's Notes:
+
+I will be taking a two week break from Salvos public chapters now that volume 5 is finally fucking finished!
+
+This took me over a year of non-stop uploads, where I never went more than 5 days without writing a Salvos chapter. But it's finished! Patreon is currently still posting because they already had their break, so it's honestly the best time to subscribe.
+
+The next chapter will be out some time between the 12th the 14th. But wait-- as I said, patrons will continue to get a chapter during this period, which may seem unfair. However, when they all hit this chapter, they all did face with the same ~14 day break of no chapters.
+
+Anyway, regarding volume 5... in total, Salvos volume 5 was split into five parts and over 600,000 words long. I haven't done the full calculations yet, and when I do, I'll let you guys know what its total tally was. But man, I initially planned for everything that happened in volume 5, and everything that happened in volume 4, to happen in only a single volume. What was initially was supposed to be 200,000 words spiraled out of control to 800,000 words.
+
+I wish I was more concise in my writing. But I know that I wouldn't have been satisfied otherwise. Even though I wrote a few bad chapters over the course of moving countries, I am still happy with how it turned out as a whole.
+
+Volume 6 is going to be incredibly hard to write, honestly. So part of my break is also trying to figure out what I need to write when I return from my break.
+
+It's only two weeks. It's not that long, especially when you can check out Amelia: The Level Zero [Hero] while waiting! It has over 70 chapters now, and it'll continue to update even over the break from Salvos!
+
+I'm also going to have another popularity poll posted tomorrow, because the last one was kinda for the lulz with Salvos included. Stay tuned for that.
+
+Thanks for reading always <3
+
+Also, shoutout to my Twitter. Give me a follow https://twitter.com/melas_delta

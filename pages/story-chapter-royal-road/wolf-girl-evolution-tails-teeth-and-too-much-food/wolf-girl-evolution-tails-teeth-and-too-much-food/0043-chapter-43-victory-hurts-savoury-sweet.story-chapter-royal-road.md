@@ -1,0 +1,235 @@
+---
+id: ca2431db-a1ef-5274-9cb2-90c684944f46
+page-type-slug: story-chapter-royal-road
+title: "Chapter 43: Victory Hurts Savoury-Sweet"
+slug: 0043-chapter-43-victory-hurts-savoury-sweet
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 43
+ownLength: 1388
+unit: words
+publishedAt: 2025-10-02
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2646552/chapter-43-victory-hurts-savoury-sweet"
+royalRoadId: "2646552"
+---
+
+PoV Luna
+
+Luna came to slowly.
+
+Everything ached.
+
+Deep aches, heavy and stubborn, buried in every bone. Her paws throbbed like she had run three hunts in a row. Her ribs groaned with each shallow breath. Her jaw pulsed dull and heavy, every tooth sore as if she had chewed stone.
+
+Even her ears hurt, twitching with weak protest at every sound. Her snout stung. And her head hurt the worst of all – foggy, pounding with each beat of her heart.
+
+A tiny whimper slipped out as she curled tighter up.
+
+Then – she felt a touch.
+
+A hand brushed across her head, careful, gentle, and steady. Fingers slipped to that one spot behind her ears, pressing soft circles until the ache eased a little.
+
+Luna sniffed, weak but sharp enough to know, to recognize the scent.
+
+Syl.
+
+Her tail gave a tiny twitch.
+
+She nuzzled into the hand, letting the warmth wrap around her. Calm rolled down her spine with every stroke, and for a moment the pain dulled.
+
+A cool drop touched her tongue. She swallowed before thought even caught it.
+
+It tasted like the thing Syl let her drink before, though buzzy in a different way.
+
+Potion?
+
+Warmth trickled down her throat, spreading into her chest and sides, softening the sharp edges of hurt. The aches stayed, but the worst of them dulled to a manageable throb. Room enough to breathe again.
+
+Her chest rose slowly. The air filled with smoke, sweat, ash, and faint spice. Beneath all of it, the steady calm scent of Syl.
+
+It felt…
+
+Safe.
+
+Her eyelids lifted heavily. One golden eye cracked open.
+
+Blur greeted her first. Then shapes. Then faces.
+
+Syl crouched above her, worry softening her sharp features.
+
+Behind her, the others worked in tired rhythm. Ray crouched beside Sepio, binding his limp arm with strips of cloth. Trianna sat apart, counting arrows with lips pressed thin, eyes darting to the shadows as if more could crawl out. Veric leaned on his sword, blood streaked across his cheek, grinning wide even through exhaustion.
+
+The ogre was dead.
+
+Its body lay unmoving in the distance.
+
+No longer a threat. To her, to mom, to cubs.
+
+…To old pack.
+
+Only rot and broken ruin remained, its stench fading slow into the air.
+
+It felt like victory! But why did that have to hurt so much?!
+
+Luna did not appreciate that kind of spice in life!
+
+Ouch…
+
+Her excitement made her feel worse again. She couldn’t even awoo without something aching!
+
+Luna blinked again, vision sharpening. Her tongue lolled out, and a small sound rumbled low in her chest. Awoo was out of the question now!
+
+So she settled for a half-growl, half-purr.
+
+She was alive!
+
+But sore.
+
+And very hungry!
+
+She wondered if Syl had any jerky…
+
+Her tail twitched again, weak but certain. Ears flopped against Syl’s hand as she nosed her way closer. The battle ache lingered, but so did the satisfaction humming deep in her ribs.
+
+Luna had bitten through the core! And the big ugly thing was no more!
+
+She had won!
+
+Luna panted, gathering her aching thoughts. Each one fleeting like mischievous pups out on a prank mission.
+
+Until a clear, important thought formed in full:
+
+With the great ugly defeated…
+
+Now she wanted soup!
+
+Luna blinked. Did an aching part-yawn. Got another sip of the potion from her amazing Second Syl. Closed her eyes for just a moment…
+
+***
+
+…and found herself back at new-pack camp.
+
+Whuh?
+
+Luna looked on blearily at the sudden change.
+
+Then yawned again. It hurt a bit less now too!
+
+She mlemed her nose wet, then sniffed.
+
+The air was thick with blood, smoke, and boiled herbs.
+
+The adventurers were scattered around the fire in tired circles, bandages crossing arms and shoulders. Their armor stayed buckled, and weapons leaned within reach. They rested, but the edges of danger still clung to them.
+
+Not much time had passed then.
+
+Luna could smell it!
+
+Everyone looked worn and hurt. And even Luna’s Awoos would feel more like Ouchoos now.
+
+But they had won!
+
+Luna wiggled her paws. A hiss slipped between her teeth. Everything still hurt. Muscles pulled stiff, joints groaned, her ribs whined at every breath.
+
+Everything ached a good deal still… but less.
+
+Her ears twitched, hearing somebody nearby.
+
+Just one person.
+
+Syl sat near, cloak folded around her, legs tucked neatly beneath. Worry clung to her scent, wrapped around burned mana and exhaustion. Her sharp eyes softened when she noticed Luna stir.
+
+“You passed out,” Syl said gently. “We got you out as fast as we could.”
+
+Her fingers brushed through Luna’s fur, smoothing it down in steady strokes.
+
+“Veric carried you most of the way back.”
+
+Luna blinked at that. The big tree-man, huffing and stomping, her limp across his shoulders. A huff escaped her nose.
+
+Acceptable. Luna supposed he earned his soup today!
+
+“I cast what healing I could,” Syl continued. “Then the potion helped stabilize you further.”
+
+Luna licked her lips. Potion, yes. She remembered the bitter-sweet warmth sliding down, curling in her chest. Its burn exciting her blood.
+
+“And the ogre,” Syl added, her voice quieting, “is dead.”
+
+Dead. Indeed!
+
+Luna bit it hard, after all!
+
+Her ears shot tall. And her tail twitched hard against the moss. It tried to wag, but only managed a floppy half-slap.
+
+Too sore.
+
+Still, her eyes shined bright.
+
+Revenge was had!
+
+Her jaws stretched in a tired grin, tongue slipping out as a small rumble shook her chest. She had bitten through the core herself. She had chewed hate and rot until nothing remained!
+
+Victory tasted like blood, burn, and ash.
+
+And it was sweet.
+
+Syl’s voice carried on. Calm. Steady. Second-in-command voice!
+
+Another cool drip touched Luna’s tongue. Potion again. She licked greedily, swallowing the bitter-sweet taste before it could slide away.
+
+Around them, the pack gathered in their slow rhythm. They had left the ruin behind, smoke and rot fading into forest air.
+
+No charge forward now. Only rest. Regroup. Heal.
+
+So they could hunt again later! Smart pack.
+
+Luna chose well!
+
+And through it all, Syl stayed the closest.
+
+Warm fingers combed through Luna’s fur, parting it with patient care. A gentle press here against a wound. A pause there to check the rise of her chest. Each touch careful, and steady.
+
+Luna let her do her thing.
+
+The strokes reminded her of mom’s mlems, but softer. Fingers instead of tongue. They smoothed the ache that still sat heavy in her ribs, dulled the burn lingering in her jaw. The rhythm settled into her bones, telling her body it could stop fighting.
+
+Words drifted above her head. Not sharp orders, not even full sentences. Just Syl’s calm voice, steady in tone, endless in flow. They blurred together into a hum Luna didn’t bother untangling.
+
+Warm. Safe. Fed.
+
+Her tail twitched once, then curled tight against her paws.
+
+A yawn cracked her muzzle wide. Her tongue lolled out, curling as air rushed past her teeth.
+
+But then–
+
+Level ups!
+
+Luna’s eyes snapped open, golden wide.
+
+Yes!
+
+She blinked her System awake. The glowing window filled her vision.
+
+【Luck +1】【Vitality +1】【Level Up: 3 → 4】【Level Up: 4 → 5】【Level Up: 5 → 6】【Intelligence +1 Willpower +2 Strength +3 Dexterity +1 Vitality +2】【Shadowmeld Lv.3 → Lv.4】【Gluttonous Soul 7% → 8%】【Devourer’s Right Lv.1 → Lv.2】【Bite Lv.11 → Lv.12】【Strike Lv.8 → Lv.9】
+
+Three whole levels! Bite sharper, claws faster, shadow trickier!
+
+Her tail wagged once, heavy but proud, thumping against the moss.
+
+Then there were the System meanie messages she deigned to read. Just this time! And not because she was curious, or anything!
+
+【You won by headbutting the very concept of survival. Unbelievably, it worked.】【A new record in poor decision-making. Inspiring.】【Congratulations. You are now sadly harder to kill.】
+
+Yep, it was still a meanie. But Luna was happy at the praise anyhow!
+
+Another sip of potion slid down her throat, cooling her tongue before warming her belly. Syl’s hand returned to its path, brushing slow lines between her ears.
+
+Her eyes drooped again. A yawn escaped her jaws. Comfort weighed on them heavier than the battle had.
+
+She would get up soon. Hunt a deer. Bring it back to her Second.
+
+She would do more. Bite more. Eat more. Level more!
+
+Yes. She would.
+
+…After a nap.

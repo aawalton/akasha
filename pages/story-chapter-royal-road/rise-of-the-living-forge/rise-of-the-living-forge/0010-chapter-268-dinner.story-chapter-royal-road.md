@@ -1,0 +1,128 @@
+---
+id: a81e167f-888a-5412-8400-5176c134d840
+page-type-slug: story-chapter-royal-road
+title: "Chapter 268: Dinner"
+partOf: rise-of-the-living-forge
+position: 10
+ownLength: 1986
+unit: words
+ownProgress: 1986
+publishedAt: 2024-09-04
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1788315/chapter-268-dinner"
+royalRoadId: "1788315"
+markedReadAt: "2026-06-29T19:58:46.740Z"
+---
+
+After the Menagerie cleared the first room of the dungeon before Arwin even had a chance to swing his hammer a single time, it became abundantly clear to him that his guild had improved significantly since the last time he’d gone delving with them.
+
+Gone were the days of cobbling together a fight with a group of individually capable adventurers. The inefficiency had been ground out of them until nothing but teamwork remained. Out of every monster in the first room of the dungeon — of which there had been four red-skinned little imps vaguely reminiscent of Lillia’s summons — not one had even gotten a chance to fight back.
+
+Reya had frozen one in place. Olive had cut it clean in two before it could recover, while Rodrick dashed from monster to monster, drawing their attention. They’d then all been cut down in rapid succession, dispatched like animals rather than true foes.
+
+As stunned as Arwin had been, the expression on Yonas’ face had been so good that he didn’t even mind. The guildsman looked like he’d swallowed a whole egg and couldn’t tell if he was surprised, scared, or just plain confused.
+
+Of course, the first room was just a single room. The improvement was an immense achievement. Their coordination was impressive. It was clearly borne from constant practice and training, not to mention all the monsters that the members of the Menagerie must have killed while Arwin was crafting.
+
+But when they reached the second room, it went much the same.
+
+As did the third.
+
+And the fourth.
+
+Arwin’s delight and surprise only grew. He found himself reduced to a gawking spectator alongside Lillia and Yonas, left with no option but to simply marvel at the progress of his guild.
+
+There was also no doubt that they’d all gotten better at fighting. It was apparent to see in the way they carried themselves. Olive had always been a good swordswoman, but she positioned with her missing arm constantly to either Rodrick or Reya. She wasn’t trying to take every fight on her own. Olive was positioning herself with the rest of the team — and it was freeing her blade. Even with the restrictions of how long it took her to swing an empowered attack, not having to cover one side had drastically improved her speed.
+
+Rodrick had always been a good warrior, but now he’d become more than that. Instead of trying to fight the monsters directly, he focused on keeping their attention. He danced through the fight, absorbing blows but only returning them when an opportunity arose.
+
+His distraction kept the pressure off the rest of the team, allowing the rest of them to rip apart their opponents’ ranks like a wildfire through a field of dry grass.
+
+Anna kept largely to the back of the fight. Her attention was largely focused on keeping Rodrick patched up, but she occasionally stepped in to dispatch a crippled enemy left behind by Reya or Olive specifically for that purpose.
+
+Reya had made it a point to remain near Anna. Wyrmhunger remained at her side, sheathed. Arwin suspected that wasn’t usually the case in dungeons by how the blade seemed to rattle faintly at her side. She was keeping from drawing the weapon and revealing its abilities while Yonas was present.
+
+If anything, that meant the Menagerie was even more capable than they were letting on right now. Reya was only using half of her skillset.
+
+Arwin and Lillia exchanged more than a few disbelieving looks. They’d long since stopped worrying about Yonas. All the man did was direct them into the right rooms before being shoved off to the corner so he wouldn’t get in the way of the fighting.
+
+Any faint doubts Arwin may have had about their chances in an Adept-ranked dungeon evaporated. It had been a little strange when nobody had blinked at the rank of the dungeon they were going up against when Lillia had gathered them.
+
+Arwin hadn’t questioned it much because he’d just assumed they were used to dealing with harder dungeons and had guessed that an Overloading Journeyman dungeon wouldn’t be that much weaker than an Adept ranked one.
+
+He was starting to think the real reason they’d been so calm was because they’d all gotten so much stronger. Arwin wasn’t even sure what tier the others were anymore, but he made a mental note to find out when Yonas wasn’t there.
+
+If anything, he was starting to feel bad for Lillia. She’d previously been calling the shots in their fights. Rodrick hadn’t exactly taken the role from her — he wasn’t barking out orders to control the fight — but the group had gotten into such a seamless flow that none of the monsters they’d met thus far were actually enough of a threat to draw on her talents.
+
+In a way, that was probably best. Arwin and Lillia didn’t get any energy for killing monsters. They could only get Achievements or Titles. And, if they were fighting low Adept level monsters like the ones that populated this dungeon, they certainly weren’t getting either of those in a normal fight. Leaving the energy to the rest of the Menagerie worked out perfectly.
+
+And so they continued deeper.
+
+The fifth room of the dungeon was cleared within minutes. Stone demons, ranked between Journeyman 8 and Adept 1, had joined in on the fight together with the imps, but the group had banded around Olive and carved them to pieces with no more difficulty than hacking apart a large tree.
+
+Arwin nudged Lillia gently with his elbow as they followed after the others.
+
+“Did you know they got this good?” Arwin muttered, keeping his words low so Yonas didn’t overhear him. He was pretty sure the man was too busy being stunned at the rest of the guild to pay him any attention, but it didn’t hurt to speak quietly just in case.
+
+“I knew they were bringing me back a lot of materials to work with to the point where I had to stop accepting them,” Lillia muttered back. “I think Madiv was pawning the excess off to make some money. But I didn’t know they were this good. I honestly feel a bit useless.”
+
+“You won’t be when we get to a boss,” Arwin promised. “Your leadership experience in fights like that is invaluable. It looks like we might need to really focus in on our ranks, though. I fear we may have been surpassed in rank. I haven’t checked in on yours recently. Sorry about that. I should have been more attentive, but…”
+
+“Apprentice 9,” Lillia said with a grin. “I’ve been busy. Just need one last push to break into Journeyman. But if you think about it, adventurers always increase in rank faster than noncombatants. It’s both a blessing and a curse.”
+
+Arwin nodded. Speeding through gathering enough energy to charge through the ranks as an adventurer wasn’t all that uncommon. He and Lillia knew the drawbacks of that path all too well — but it looked like the Menagerie were advancing at a solid rate, not an unsustainable one.
+
+I’m going to have to keep making stronger and better items. Both for them, and to increase the speed of my own advancement. It’s not even just about outfitting everyone. I need to push myself to get more Achievements and Titles to keep up with them. It’s my duty as guild leader — but I don’t think they’ve caught up to me quite yet, even if their levels have reached or surpassed mine.
+
+Verdant Inferno trembled in Arwin’s grip at that thought. The weapon was practically humming in eagerness. It could feel all the death around it and the lack of crunching bone and squashing flesh beneath its head. His hammer seemed like it wasn’t too far away from leaping into battle on its own.
+
+Arwin shook it slightly.
+
+Down. You’ll get your chance soon enough. We aren’t leaving the boss to the guild. I don’t think it’s going to be nearly as simple as the rest of this dungeon. There’s a big difference between a low ranked Adept monster and a mid-ranked one, which the boss is likely to be.
+
+To Arwin’s mild surprise, that actually worked. Verdant Inferno settled down in his grasp. It then vibrated slightly, as if to warn him it wasn’t willing to wait much longer, and went still for good.
+
+The weapon was getting more intelligent. That was probably a good thing.
+
+Probably.
+
+He glanced away from the hammer as Rodrick approached the corner of the room where Arwin, Lillia, and Yonas were waiting.
+
+“How far are we from the boss?” Rodrick asked. “We’ve been going pretty fast, but we may have to take a break to rest and recover if there are more than one or two rooms left. You said it was about a thirty minute trip, right?”
+
+Yonas swallowed and coughed into a fist, shaking his head. “I… must have misspoken. The trip only takes around twenty minutes for a competent party. There are six rooms in this path before the purple torch doors. We have not attempted properly challenging the boss yet, so I cannot speak to how difficult the fight will be.”
+
+You haven’t really said much of anything other than telling us which doorways to take thus far, so I don’t think you knowing nothing about the boss really changes anything. All that matters is we get in there, get the heart, and get out as quickly as possible.
+
+“Good to know.” Rodrick gave him a nod, then gestured around the room. There were several paths forward scattered along its walls. “Which one?”
+
+Yonas indicated a tunnel near the center of the rightmost wall. “That one.”
+
+“Great,” Rodrick said. “On we go, then. Lillia — it might be best if you take over after the next room.”
+
+Lillia blinked. “Are you sure? You’ve been doing a good job thus far.”
+
+“Against normal fights, yes. We’ve had a lot of practice with that. But I don’t think we want to take the risk when we’re up against something that poses as big a threat as the boss of an Adept-ranked dungeon.”
+
+Lillia smiled and inclined her head. “I’ll do that, then. Thank you.”
+
+“Anytime. Wouldn’t have anyone else actually telling us what to do. Other than Arwin — but his orders are usually some variant of charge! Simple, but effective.”
+
+“Some strategy will go a long way in keeping me from overworking,” Anna said dryly, sending a pointed look in Rodrick’s direction. “And maybe help you from getting hit constantly.”
+
+“Getting hit is my job!”
+
+“Keeping attention is your job. You don’t have to be a magnet for every attack in existence.”
+
+“Noted,” Rodrick said with a chuckle.
+
+Yonas looked from Rodrick to Lillia, clearly trying to figure out why it was that the guild’s innkeeper was being consulted for strategy. His befuddlement only seemed to grow with every step. It was a bit childish, but Arwin was looking forward to seeing how the man handled watching them all fight together.
+
+“Everyone ready?” Lillia asked, noticing that the Menagerie were all waiting for her orders. “Let’s clear the next room out, take a short ten minute break to strategize and recover some energy, and then get this dungeon wrapped.”
+
+“We aren’t that pressed for time,” Yonas said, shifting his weight from foot to foot. “You can all take longer to rest. There’s no need to push so hard. The Ardent Guild isn’t going to catch onto us that quickly.”
+
+Lillia tilted her head to the side. “Who said anything about the Ardent Guild? There’s something far more important than that I don’t want to be late for if I can help it.”
+
+“What’s that?” Yonas asked, blinking in surprise.
+
+Lillia grinned and tapped the hilt of the knife at her side. “Dinner.”

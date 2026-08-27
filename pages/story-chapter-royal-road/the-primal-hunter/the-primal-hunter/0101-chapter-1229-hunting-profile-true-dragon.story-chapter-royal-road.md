@@ -1,0 +1,145 @@
+---
+id: 2419a8ba-96c5-55f1-b6ef-9b16a946d0ac
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1229 - Hunting Profile: True Dragon"
+slug: 0101-chapter-1229-hunting-profile-true-dragon
+partOf: the-primal-hunter
+position: 101
+ownLength: 2791
+unit: words
+ownProgress: 2791
+publishedAt: 2026-01-08
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2923731/chapter-1229-hunting-profile-true-dragon"
+royalRoadId: "2923731"
+markedReadAt: "2026-06-29T19:32:27.903Z"
+---
+
+“Oh, I have, and let me tell you, she’s quite something,” Villy said, seeming almost too excited as he prepared himself to tell Jake all about the dragon he’d found for his Chosen to hunt. This thought was only further amplified as the snake god cleared his throat and stood up while looking at Jake with a serious gaze.
+
+“Are you ready?”
+
+“Yes?” Jake exclaimed, very confused.
+
+“Then let the briefing begin,” the Viper grinned as he teleported back behind the sofa and closer to a wall. At the same time, an image appeared on the white wall reading:
+
+Dragon Hunting 101: Choosing the Right Prey
+
+Jake could only stare as the Viper began. He snapped his fingers as the title disappeared and was replaced with bullet points, a picture, and…
+
+“Are you seriously doing a slideshow?” Jake couldn’t resist asking.
+
+“That’s exactly what I’m doing,” the Primordial said, clearly proud of himself. “Now let’s begin.”
+
+“Do we really need a slideshow?” Jake still tried to butt in.
+
+“Yes, now be quiet and let’s get started already,” Villy waved him off and cleared his throat once more, as he even went as far as to shoot a beam of green light out of his finger to mimic a laser pointer.
+
+“Let’s start at the beginning. Dragons are monsters with scales that- “
+
+“Villy,” Jake cut him off, throwing the god a glare.
+
+“Ugh, fine,” the snake god sighed as he started skipping slides. About three dozen slides later, he finally reached the point where this representation would become relevant.
+
+“Here we go, your target. After a lot of research and looking about, I decided on this one as I truly believe she’s someone you’d both find decently challenging and deserving of being hunted down,” the Viper began as he showed a picture of a draconic woman.
+
+“Her name is Yrelstromoz, a former member of the Lumenflight. She’s a few hundred years old and reached full maturity, and became a True Dragon about three decades ago. However, ever since becoming a True Dragon, she’s done nothing more than be a menace to everything and everyone she came across.”
+
+Skipping to the next slide, Villy continued.
+
+“As the daughter of two peak A-grade dragons, she grew up in relative wealth, even by Dragonflight standards. She found herself wanting for nothing, and seeing as both her parents were rather protective, she didn’t get many real-life experiences either, but led a mostly isolated existence.”
+
+Jake instinctively held up his hand, making the Viper nod towards him, allowing the question.
+
+“If she was raised like that, doesn’t it mean she lacks actual combat experience?” Jake asked. He didn’t doubt that dragons were still unbelievably powerful, but if she never learned to fight, he feared the experience wouldn’t be very satisfying.
+
+“Alright, let me just quickly cover that,” the Viper said, skipping forward a few slides more before clearing his throat. “As a member of the Lumenflight who was born a True Dragon, she was put through their rigorous education from a very early age, covering the mastery of magic, combat, and many other important skills. So while it’s true she doesn’t have many life-and-death battles under her belt, she’s still more than capable. From what I gathered, she was even considered relatively gifted growing up, with her parents providing her with extra tutoring. In summary, she knows how to make use of her innate power. At least on paper.”
+
+Jake nodded, finding that knowledge a little relieving. Seeing Jake had gotten his answer, the Viper continued.
+
+“Now let me get to the part that allows you to justify killing her,” Villy said quite bluntly. “First, the sob story. Less than a decade before she became a fully fledged B-grade True Dragon, her parents were both killed in a dungeon. They were trying to break through their wall and reach S-grade, but failed and died for it. This left Yrelstromoz feeling less than happy, especially when she learned why her parents had tried so hard to evolve.”
+
+After rapidly going through a few more slides, the Viper showed a picture of two dragons, one of them looking sad and the other posing proudly.
+
+“While the Lumenflight provides brilliant education to dragons before they are fully grown, after they reach B-grade, it’s mostly up to them to keep progressing. However, if the parents are powerful enough, they can still leverage their influence to assist their whelp. In an attempt to evolve and thus become more influential, her parents desperately tried to push past their limits even if they weren’t capable enough.”
+
+Jake slowly nodded along, still having a very hard time seeing why he would want to hunt down the grieving daughter of two dragons who’d tried to do everything they could for her.
+
+“Some questions for the students! If this happened to you, and your parents died in an attempt to give you a better future, what would your response be?” the Viper asked.
+
+The room got silent for a few moments as Jake genuinely believed the question was rhetorical, but the Viper was just staring at Jake until he raised his hand with a sigh.
+
+“Yes, you, how would you react?” the snake god said, pointing his green laser at Jake.
+
+“I would obviously be sad and then probably want to prove my parents’ efforts weren’t in vain by proving to everyone just how powerful I could become, all with the hope of one day surpassing them?” Jake said, not sure if that was the answer Villy was looking for.
+
+“Interesting,” the Viper nodded. “Yeah, would it surprise you that this wasn’t Yrelstromoz’ reaction? In fact, I would argue her reaction was quite the opposite. After her parents died, the first thing she did was make a fuss about her inheritance. The second thing she did was waste most of this inheritance on useless things. As for trying to get stronger… yeah, fat chance.”
+
+Okay, Jake was beginning to understand she perhaps wasn’t the best of people, but so far, Jake had heard nothing outrageous.
+
+“After evolving to B-grade – something she did merely by being alive – she stopped trying to grow entirely. The power boost from becoming a True Dragon truly went to her head, and she evidently had no desire to progress further from there. In fairness to her, even a newly evolved True Dragon is still a True Dragon, and in the grand scheme of the multiverse, she is indeed powerful and could live a comfortable life if she so desired. I’m not even going to ask if you think she decided to live a quiet life.”
+
+Jake nodded along as he had a strong feeling his justification would come now. The next slide confirmed that suspicion. It depicted a large crater with several holes and deep fissures covering it.
+
+“Having decided to use some of her many funds to travel, she went around her universe living like a spoiled rich kid. One of her favorite pastimes was gambling. Thing is, you can’t be good at gambling and the house always wins… unless the loser is a True Dragon with bad emotional regulation. At that point, the losing dragon might get angry enough to blow up an entire city, killing a few dozen million at least.”
+
+Skipping forward to another slide, Jake saw a large scar burned through a city with everything melted down into a seemingly bottomless fissure.
+
+“The first incident was excused by the Lumenflight, and the local small faction didn’t make too much of a fuss as they couldn’t afford to make enemies with a bunch of True Dragons. While Yrelstromoz certainly isn’t smart, she isn’t the dumbest dragon alive either. She knew to only throw tantrums and cause destruction in areas not ruled by major factions, or if she felt confident, she could cover up her actions. This is another such incident where she decided to unleash an attack on a residential neighborhood. The reason? I believe it was said someone asked her to “blow me” during an argument, and she did just that by blowing them up without a care for collateral damage.”
+
+By now, Jake was beginning to really understand that this Yrelstromoz was a real menace.
+
+“Next instance of her destruction… actually, let me just do a quick-fire round,” Villy said as he began going through the slides quicker, just allowing Jake to read the text on display. He had dozens of entries, making Jake’s face fall the more he saw. By the last example, Jake had one major question in mind:
+
+“How come no one ever stopped her?” Jake asked. “Namely, the Lumenflight. You said she was a former member, right? Shouldn’t they try to rein in those that belong to the faction?”
+
+“They tried,” the Viper responded, shaking his head. “Not very hard, mind you, as she only ever destroyed those too weak for anyone to bother making a real fuss. The only ones who tried were a few remaining family members of Yrelstromoz, but it was all to no avail. She did get plenty of warnings to stop her antics, but these warnings seemed to only make her mad and throw even more of a tantrum.”
+
+“What made them decide to finally throw her out?” Jake questioned.
+
+“She killed someone she shouldn’t have,” the Viper said, going to the next slide where a young beastkin was shown. “A group of young C-grade prospects from the United Tribes were out exploring the universe and went to one of the many neutral planets famous for having some good dungeons suitable for people of their level. She ended up killing the entire group of C-grades, and for the first time, she did so with the express purpose of pissing off the Lumenflight. The beastkin shown was the son of a demigod and even had a Divine Blessing. Needless to say, the United Tribes were not pleased, and having been done with her shit for a while, the Lumenflight fully tossed her out of their faction.”
+
+“Sounded like it was a long way coming,” Jake sneered. “They should have done something more, and way earlier.”
+
+“Probably, but they didn’t, and now she’s on her own,” the Viper shrugged. “As I told you before, the Dragonflight hates killing their own kind, but after she was expelled, they won’t create trouble if someone like you decides to take her down.”
+
+Jake nodded, having more or less decided she was indeed a good target. In some ways, she perhaps even seemed too good a target. There was definitely still one thing bothering him:
+
+“I don’t get why she acts that way, though. It just seems cartoonishly self-destructive and – while I don’t particularly like the word – evil,” Jake said.
+
+“So, having been an asshole in the past, I can somewhat relate to why she doesn’t feel bad about it,” the Viper said. “As a True Dragon, she genuinely believes herself to be a superior being that doesn’t have to abide by any morals or norms when it comes to those she considers weaker. In her eyes, wiping out millions of F, E, and D-grades isn’t even something she sees as a bad thing. They’re just ants to be exterminated if they annoy her. Now, to defend myself, there is one big difference between who she is and who I was. Unlike me, she evidently takes pleasure in killing those far weaker, as it makes her feel powerful. Meanwhile, I enjoyed fooling and killing the powerful, while the weak dying was indeed just collateral damage. Never the goal.”
+
+“You’re seriously telling me she’s killing random people to feel powerful?” Jake said, finding it a ridiculous notion. In his mind, the true way to feel powerful was to fight someone actually powerful and come out on top.
+
+“And to feel like she’s in control of her own life,” the Viper shrugged. “Probably also why she’s been purposefully throwing a tantrum and refusing to listen to her remaining family. While I don’t wanna act like a shrink, I reckon she grew up feeling like her life never truly belonged to her. Now that she’s fully grown, she wants to act without any inhibitions and enjoy life. It just happens that her version of fun includes being an absolute menace.”
+
+“I think I get it now,” Jake sighed. “Yeah, it definitely does feel like the multiverse would be a better place with her gone. I still don’t think her motivation makes much sense, but I guess some people just suck.”
+
+“Yep,” the Viper shrugged with a smile as he skipped to the last slide. “Anyhow, this concludes my presentation of what I believe to be your ideal True Dragon target. She’s not too weak but not too strong either. Moreover, she’s unaffiliated with any major factions now, and even someone so hateable, I wouldn’t fault you for wanting to put an arrow in her skull. So I guess the only other thing I can do is wish you luck and remind you to approach her with all your preparations in order, as she won’t be easy to take down.”
+
+Jake nodded as he noticed something. “Say, there’s a reason you didn’t include any actual details on her abilities and what kind of training she underwent, right?”
+
+“Of course, I wouldn’t want to give you an unfair advantage,” Villy smirked. “If you want to learn any of that, you can do the research yourself, though I have a strong feeling you prefer to go without.”
+
+“Can’t argue with that,” Jake shrugged. “Even if she does seem like a shitty person, I at least want a fair fight, and it wouldn’t feel fair if I fight with a dossier of all her abilities while she knows practically nothing about me.”
+
+“Eh, pretty sure she will have a basic understanding of your abilities if she’s paid any attention to multiversal news in recent years,” the Viper shrugged. “You’re kind of famous, you know? Then again, she hasn’t proven herself the smartest or most thoughtful, so perhaps she doesn’t know you. I guess the only way to find out is whether she recognizes you during the fight.”
+
+“I guess,” Jake muttered as he looked at the final screen of the presentation, which just depicted a picture of the True Dragon named Yrelstromoz with a target on her. She looked almost entirely humanoid, save for the two curved horns on her head and her eyes, which were definitely reptilian in nature.
+
+Of course, Jake didn’t expect to fight that form for long. As the Viper had shown in all his visions, dragons were at their strongest when actually in the form of a dragon, and he had no reason to believe this one was any different. Knowing she was part of the Lumenflight, Jake also expected to encounter his fair share of light magic, which he was both good and bad against.
+
+His scales had extra resistance to light magic, but due to Jake’s connection to the dark affinity, he was naturally more susceptible to light magic, as shown by the Great White Stag all the way back in the Tutorial. He also had what was pretty much an immunity to all blinding attacks, but he also knew that light magic tended to counter those that relied on speed, making Jake unsure if he could dodge everything the dragon threw at him.
+
+Overall, he reckoned it was a pretty neutral matchup. Actually, thinking about it, if he had fought a dragon specializing in dark magic, Jake guessed he would have had an advantage, but besides that, most types of dragons seemed like neutral match-ups.
+
+The more Jake thought about the upcoming fight, the more he felt excitement begin to bubble up within, and combined with his newfound growth in power from his sacred skill and the accompanying title, Jake felt strong enough.
+
+Villy seemed to recognize Jake’s building excitement as the snake god smiled. “I’ll leave you alone for now. Make your preparations. Your prey currently believes she is in hiding and is purposefully lying low, but I wouldn’t dally too much, or she may be taken out by someone else or get herself killed by being too obnoxious in front of the wrong person. It would suck if I had to prepare another presentation.”
+
+“I don’t need much,” Jake said as he stood up and looked toward where the lab was.
+
+“Then get to it,” Villy smiled before disappearing.
+
+Jake nodded as he telekinetically lifted his forgotten bottle of beer off the table, chugged it in one go, and placed it back down with determination. It was time to make a new batch of poisons and potions, and once they were ready…
+
+It was dragon-hunting time.

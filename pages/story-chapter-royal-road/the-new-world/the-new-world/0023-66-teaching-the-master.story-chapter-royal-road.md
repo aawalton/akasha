@@ -1,0 +1,227 @@
+---
+id: c031840b-b8db-5d86-9d15-c82dabec5301
+page-type-slug: story-chapter-royal-road
+title: "66 Teaching the Master"
+slug: 0023-66-teaching-the-master
+partOf: the-new-world
+position: 23
+ownLength: 3546
+unit: words
+ownProgress: 3546
+publishedAt: 2017-10-26
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/170405/66-teaching-the-master"
+royalRoadId: "170405"
+markedReadAt: "2026-06-29T21:21:31.441Z"
+---
+
+Stillness crawled back across the town, like a looming shadow. The landscape froze in place once more. I sighed, relief pouring over me. I shook my head, making the worry slide off my shoulders. Living in Springfield was like living beside a volcano. You could never tell when it was going to erupt.
+
+I needed to be ready for that eruption, so I grit my teeth and readied myself. I headed back towards Torix for a few tips. He may already know several of the skills I needed anyways. As I ran over towards his place, I took full advantage of my new skill Phaser. Hopping across cars, wall walking, and diving through windows was fun as fuck anyways.
+
+Once I reached his house of horrors, I jumped and leapt over several burrows lining the house. Torix colonized some beetles for some reason, probably for foot soldiers who actually worked, unlike the steel legion. After jumping over the burrows, I rolled inside and back onto my feet. I kept running, reaching the basement where Torix hunched over a desk.
+
+He read a tome with a blot of white mana as light floating above him. I jumped down the basement stairs before rolling as I landed. I rolled back up to a standing position as he glanced at me with an eyebrow raised,
+
+“Ahem…why did you roll inside?”
+
+I shrugged, “I just gained a unique skill, and I’m using the fuck out of it. Mainly because it’s a blast.”
+
+He grinned, the dry skin crinkling, “Ah, I can understand that. Mind sharing what it is?”
+
+I turned a palm to him, “It’s a movement skill called Phaser. Helps with getting to places. It could be a useful part of the steel legion’s training, if they don’t get the skill already.”
+
+Torix turned back to the book, “I suppose it depends on the kind of soldier being used. Scouts may have that unique skill as a part of their training.”
+
+I nodded, “I was actually wondering if there were any easy unique skills I could unlock. You’ve been around for a while. You know a ton of unique skills I’m sure. I was going to show you my list of skills and see if we can’t condense a few of my skills.”
+
+He pursed his dry lips, glancing back at me, “Hmmm, I could, but sharing skills is highly personal. Perks and builds can be inferred in a moment’s notice. The sharp eyes of someone specced in perception and intelligence, the pounding steps and broad shoulders of a strength and constitution build, those things are obvious. Skills are what truly sets you apart.”
+
+I shrugged, “Eh, you’ve seen me develop like 90% of my skills. It really isn’t telling you much more shit than you already know.”
+
+He nodded before setting the book down. He stepped beside me as I opened my screen, willing the system to let him see my screen. Torix cupped his chin, nodding and mumbling to himself some. After a while, he nodded,
+
+“I saw three I can point out immediately. You have quite an assortment of skills for how little time you’ve had to develop them. Color me impressed.”
+
+I grinned, “Eh, I think it’s part getting my ass kicked over and over. That and I always try new stuff.”
+
+“Indeed. I’m sure you’ve gained an arsenal of stuff by now with your approach.”
+
+Torix raised a hand, and his obelisk opened. Surrounded by the icy mountain top and scenic view of a mountain, he opened a status screen in front of me. Within it, three boxes with five words underneath each were open. I read them out loud,
+
+“Words of Power, Knowledge Maker, and Strategic Commander...You're telling me I can already make them?”
+
+Torix shook his head, “No. You couldn’t make any of them. You need one skill for Knowledge Maker and Strategic Commander. You need two for Words of Power. Learning the skills shouldn’t take more than a few hours…”
+
+He turned to me with a sly grin, “With a bit of help from your master of course.”
+
+I gripped a fist, “Hell yeah. Where do we start?”
+
+“Knowledge Maker would be the simplest. All you need is reasoning. For that, a few problems would be enough.”
+
+He opened a hand, raising a black blot of mana. He closed his hand. A second passed before a rippling sound ebbed from in front of me. The familiar black mana reached out from the center of the sound before coalescing into a bundle of black metal pieces.
+
+I reached out and grabbed it as Torix crossed his arms,
+
+“Solve this by removing the center piece. By the time you have, you should gain the reasoning skill.”
+
+I glanced at the pieces of charred metal. It felt like charcoal in my hand, thought it reflected light like metal. I frowned before glancing at the corners of it. The each rotated in different directions, kind of like a rubix cube but less tightly configured. After jiggling it for a moment, I found a red sphere at the center. I tapped it, and it banged against my hand like metal. Surrounded by multiple complex pieces, getting the red sphere out looked hard as hell.
+
+I scraped my claw against the red sphere. It didn’t leave an indentation. On the other hand, I scratched the black pieces and they crumbled easily. Without needing anymore thought, I lifted my fist and slammed it into the puzzle box.
+
+The black pieces broke, but I kept the force low enough to keep the red sphere from shattering. After another two hammer fists, I jiggled the red sphere out. After using a bit of telekinesis, I cleaned off the black dust.
+
+Skill unlocked! Reasoning (lvl 1) – While others hunt for a solution, you hunt for the best solution. +1% to application of knowledge.
+
+Walking back up to Torix’s reading spot, I handed him the red sphere. He frowned at me,
+
+“Excellent work. Where is the rest of the puzzle?”
+
+I shrugged, “I broke the pieces. The stuff was softer than the prize, making it easy to just break. It’s kind of like putting gold into a wooden chest. You can just swing a hammer at the wood then take what’s inside.”
+
+He glanced at the red sphere, inspecting for damage. Torix shook his head before putting the red sphere in a robe. He glanced up at me,
+
+“I…I suppose it’s a creative solution. Did you get the skill?”
+
+I gave him a thumbs up before he stood up,
+
+“Superb. Then let’s move on to getting the skill.”
+
+We walked deeper into the basement. Torix expanded the building, using the beetles as workers. They dug out many rooms, using some type of yellow adhesive for reinforcing the corridors. We walked down a hallway of smooth earth before pacing into a library. It wasn’t large, just four bookshelf’s lining a small room.
+
+Torix cupped his chin, tapping his jaw before raising a hand,
+
+“I want you to research something you find interesting. I’ll give you three hours to do so. When I come back, we’ll discuss whatever it is that you found interesting.”
+
+I nodded, trusting his judgment. No point in having him explain the obvious because it would become evident with time.
+
+Trying to learn what he was talking about, I walked around the room. Glancing at the spines of books, I looked for an interesting read. My eyes set on a book titled Fringe Monsters: A Categorical Account. The book dealt with all kinds of eldritch monsters. Some of them I’d seen. The clear majority of them I hadn’t.
+
+It was like looking at a book of horrors. I couldn’t take my eyes off it. The old, yellowed pages of the book wafted the scent of an ancient paper. Not a bad smell, just a calming one. As I read the book, I sat down on telekinetic pads with my armor holding me up. Might as well train as I read, right?
+
+Hours passed, and I gained a smidgen of the books information, glossing over most of it. In depth descriptions were almost entirely theoretical. I wasn’t going to waste my time pouring over them. I figured focusing on the concrete facts would work best. By the time Torix walked in, I already covered about two hundred pages of the material.
+
+“Did you find something interesting?”
+
+“Yeah, a book about the eldritch. There’s so many though that I don’t think it’s too useful. I’ll probably never face any these horrors.”
+
+He nodded with a grin on his face, walking out of the room, “Good. Now follow me.”
+
+We walked out of the personal study before reaching a much larger room. Full of jars, beakers, and vats of chemicals, the room stung the nose with a smell so sterile and clean, it could burn your nose hair. It took a few minutes to adjust to the acrid stench. By then we reached a series of floating tubes. In each, a different monster floated in suspension fluid.
+
+The pods were similar to the pods used to hold Michael and Kelsey when they were infected. At the thought of it, I glanced down. I couldn’t help but feel a burning shame in my chest. The feeling only grew with time, like I understood just how badly I messed up.
+
+As if reading my mind, Torix walked up to a tube, “Remembering your friend’s demise? I wouldn’t feel too bad about it. The pods they used didn’t have a signature system. Any mana from anyone could open them. It’s an outdated practice, and they shouldn’t have left them like that. These pods will only open to my balance of mana. One dominated by dominion magic.”
+
+Torix placed a hand on a tube, feeling the glass, “Your ascendant mana will have no effect.” He turned to me, “You can still break them, however. Do be careful.”
+
+Cheering me up a bit, I turned my gaze towards the monster he was beside.
+
+“Can you tell me what monster this may be? Without using Schema’s notification of course.”
+
+It looked like a catfish, except the whiskers were spears and its tail stretched out many feet past the main body. It could probably dish out a mean whipping attack with the end of it, stunning other fish. Its eyes stretched outwards off its face, like a hammerhead’s face. Combine that with a throat full of sharp teeth, and you had a scary creature.
+
+It was most certainly an underwater species. I searched my memory of reading the book. A few seconds later, I remembered a segment about a fish that could crawl up sheer cliff faces. They stored oxygen in their gills before using the spears on their face move their way up rocky cliffs. With that in mind, I answered,
+
+“Tripofloxerix. The dumbest name for a fish I’ve ever seen.”
+
+Torix nodded with an understanding grin, “A sentiment I can agree with. On to the next sample.”
+
+We went through the lab full of test tubes. Some of the creatures I answered immediately. Others required a bit more struggle to pry the knowledge from my head. Torix wouldn’t let me come up with a wrong answer either. We sat on a specimen until I got it right.
+
+Over time, I developed a few tactics for trying to remember this stuff. The hardest of which required me to remember the page the monster’s name was on using my photographic memory. It was tough. While keeping that memory in my head, I would read the page until I found the name of the creature. It was an arduous process.
+
+Still, I got better at it as time passed. The exercise reminded me of recalling a name by remembering their face first. By the time we reached the last tube, my head was throbbing from flexing some mental muscles I didn’t know I had. It made everything seem a bit floaty, like I couldn’t focus my thoughts.
+
+Pushing past the mental fog, I remembered the page the monster came from. I sat down on my self-made chair and read off memory for a minute before I got what I came for.
+
+Unique skill gained! (Requirements: Critically apply your knowledge and stress your mind for answers) Fuses the skills Biology, Mathematics, History, Reading Comprehension, and Reasoning into the unique skill Knowledge Maker. Gives half of missing tree points from skill fusion (189 total points gained)
+
+Knowledge Maker (lvl 1) – Most forget the lessons they’ve learned. Unlike most, your mind snaps onto the lessons you’ve learned like a bear trap. Increases ability to utilize knowledge for problem solving. Effect depends on level.
+
+The task at hand became easier, letting me hold onto the information without the same focus and struggle. A minute later, I spoke,
+
+“It’s a Ro-Ran. A beetle species used for the colonies and production of working adhesives. Good for building structures, guarding areas, and moving materials…Are these the insects you're using right now?”
+
+He nodded, “Indeed they are. I’m formulating the details of the fight against Yawm as we speak. We’ll need a sentinel’s spear and you to pull Yawm over. Hopefully you won’t fall into the other dimension as you do so. I’m trying to come up with a plan for getting you back. Using the runes from that eldritch you slew in BloodHollow is an integral part of that.”
+
+I nodded, standing up from my makeshift chair of formed armor and telekinetic pads,
+
+“Can we make our way towards the next unique skill? I just finished that one.”
+
+Torix placed his arms behind him, “Not a problem. Let us go to the next exam.”
+
+As we walked, Torix hummed a happy tune. He kept light on his steps, enjoying the teaching process more than I ever imagined he would. The old, crusty corpse smiling for a change was a nice shift away from his normal guise. While I walked, I didn’t waste any time, putting points into Cosmic Soul. No point in waiting anyway.
+
+Heroes are praised for the strength of character, the might of their body, but not the spirit that fuels their desire. A king who treats his subjects with a gentle grace and his enemies with a heavy hand is lauded for his intellect, never for the soul that guides his journey. You will teach history the error of its ways. The stories told of your legend will echo the sound of your soul. +25% learning speed of soul related skills. +25% learning speed of oblivion related skills. Ability upgraded! [Cosmic Soul (Tier 4) - +80% scaling and handling of related skills and abilities.]
+
+Your story will speak more than whispers of a forgotten memory. They will boom with the might of life and echo in eternity. +25% learning speed of soul related skills. +25% learning speed of oblivion related skills. Ability upgraded! [Cosmic Soul (Tier 5) - +100% to scaling and handling of related skills and abilities. -50% Mana cost for soul skills and abilities.]
+
+As we paced up and out of the basement, I grinned while activating oppression. The deft handling of the ability allowed me to use it even with Torix walking beside me. The ability handled like a hand or leg, shifting around me with an instinctual grace. Condensing it weighed less on my mind, allowing me to form it to less than half its size in any direction.
+
+After shutting oppression off, I molded my armor a bit. It glided on my skin like liquid, shifting at my command. The metal responded with rapt attention at even the smallest piece of mana. The efficiency of the movement gave it a different feel. Before, molding the armor felt like forcing it out of place, like pushing down a spring. It wanted to return to its base form the moment my mana was released.
+
+Now it obeyed my will like an iron clad order. I raised a hand, shifting the length of each finger on my gauntlet. I toyed with armor as we stepped outside of the house.
+
+The sun already set long ago, and the full moon casted bright light down on us. Ever since Schema took over, the stars shined with far greater intensity. Without street lights or cars making everything bright down here, it let you see how bright things were up there.
+
+It made seeing the stars a joy.
+
+“What is that you’re doing? The armor manipulation?”
+
+Snapping me from my trance, I glanced back down and created a metal flower from my palm. He frowned, “Deft work for a skill so new.”
+
+I shrugged, “It’s a part of Boundless Storm. Makes it easy to use.”
+
+“Ahhhh. Is that why you want unique skills then?”
+
+I raised an eyebrow, so he continued, “To gain another mythical skill?”
+
+I nodded. He looked forward, acting casual,
+
+“Why would you want more than one?"
+
+Torix kept composed, feigning nonchalance that was obvious. His acting wasn't good, easy to see through as peering through glass. I could see he wanted to share his knowledge, almost like he was jumping out to do so.
+
+"You know, I could teach you my own mythical skill. It’s quite useful, even if you don’t intend on becoming a summoner.”
+
+I turned to him, “Really? I thought you said sharing skills was a big deal.”
+
+He kept his glance staring forward, “There are no unnecessary secrets between a master and his pupil.” He turned to me, “And besides, I should return your honesty in kind. You’ve shown that you are an able and willing student. Even my son, Alfred, couldn’t have matched your scholastic prowess. What you lack in his talent you’ve made up for with the will of your mind. It’s a feat to behold.”
+
+I blushed a bit, turning forward as well, “Well uh, I don’t know what to say…Thank you.”
+
+He grinned, his smile a both subtle and knowing, “Do you know why I wanted a disciple?”
+
+I shook my head. He continued, the smile turning into a grimace, “I didn’t. I wanted my son. If you would allow me to be frank, I wanted to send you to the eldritch dimension when we first met. I wanted you to suffer. I figured it would be a fun experiment too, so I could kill two birds with a single stone.”
+
+I frowned, “Well, you accomplished one of those things.”
+
+Torix laughed a bit before going on, “My thoughts changed over time. After seeing you survive the eldritch portal, I wanted you as a sample. It was fascinating to see such a low leveled and new unknown. After seeing you struggle on, I found myself wanting you to succeed despite a bit of lingering hatred. Everything changed after you saved Kessiah. Not just for me mind you.”
+
+He nodded, “It’s no secret I’ve tried convincing Kessiah to utilize her potential. I’ve done so for ages. She’s quite talented, even for a remnant. Her potential exceeds my own. I saw it as a great shame when she wouldn’t use her powers no matter the circumstance. Unlike me, you convinced her with your actions and conviction. That, and you set her competitive nature ablaze.”
+
+He turned towards the sky, looking at the moon and stars.
+
+“Kessiah was floating from planet to planet, wasting her time like an unfeeling ghost. Seeing your vitality gave her life. When I saw the change in her eyes, I couldn’t help but be a bit envious. I wanted the same energy she had.”
+
+He glanced back at me, “It’s strange. Ever since I’ve become immortal, I’ve felt dead. It was only when I was waiting for death that I even felt alive. When time was scarce, it held meaning. Now it’s lost agency with its passage. Seeing your struggle renewed a bit of that vitality.”
+
+He laughed before staring at his hands, “I haven’t worked this hard in centuries. Imagine that? I’m not terrified, I’m excited. I don’t know if I’ll make it out of this alive, but it’s better than just running away from death forever.”
+
+He met my eye, his voice solid as stone, “I’ll use every bit of my talent, and I’ll push my limits. No more spending years and years gaining a single level. All I learned over my life means nothing if I never use it. I’ll struggle forward, as you do. I’ll find something to live for.”
+
+He grinned, “Because knowledge can fill your head, but it cannot fill your soul.”
+
+I blinked a few times, shocked at the speech. I nodded, “Well shit…I’m glad I could do that for you. I’m also glad you didn’t decide to kill me. Thanks.”
+
+A moment passed before he continued with a sly grin,
+
+“Think nothing of it, disciple. I hope you’re ready to give your own speech.”
+
+I crossed my arms, “Uh…Speech? I don’t really give speeches.”
+
+Torix nodded, “Oh, but you will. Your next unique skill demands it. You won’t face against giant monsters. You’ll be standing in front of several hundred troops and rally them.”
+
+As cliché as it sounds, I gulped. I’d fought monsters a plenty. I told plenty of people to fuck off. Giving inspirational speeches?
+
+Yeah, not my cup of tea.

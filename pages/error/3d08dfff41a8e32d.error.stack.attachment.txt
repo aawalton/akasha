@@ -1,0 +1,3 @@
+Error: Leader changed, pending operation in indeterminate state
+    at EventTarget.i (https://alanwalton.com/assets/src-CTg1pHzK.js:190:8948)
+    at BroadcastChannel.<anonymous> (https://alanwalton.com/assets/src-CTg1pHzK.js:190:7880)

@@ -1,0 +1,119 @@
+---
+id: e9673397-4df1-5d0e-b523-96133d008ec8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28: A \"Free\" Breakfast"
+slug: 0028-chapter-28-a-free-breakfast
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 28
+ownLength: 1430
+unit: words
+publishedAt: 2026-08-18
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3830825/chapter-28-a-free-breakfast"
+royalRoadId: "3830825"
+---
+
+Putting on her day clothes, Marina looked down upon herself with a slight disappointment. Even if it was only a simple breakfast request, she was still going out with someone special. In her previous life, she never had the chance at a serious relationship after stepping into the corporate world. Every day, her mind was filled with paperwork, spreadsheets, and the anticipation of a raise or the fear of a tedious client. The last bit of free time after work was spent baking and testing out flashy dishes that she came across on social media. It was how she lived, and the money helped her bear the dissatisfaction.
+
+Climbing down from the attic, she waved goodbye to Mellie, who tried her best to put on a happy face, but it was still a long way from fooling an HR manager such as Marina, who decided to play along.
+
+Outside the hut, Hecate was already waiting below the twilight skies. Her long, white hair cascaded down her waist, flowing along the wind as it revealed parts of her face. She turned at the sound of a closing door, now facing Marina.
+
+“Ready? My love?” Her voice was as calm as a pond.
+
+Marina nodded, “As much as I was not used to it, I would prefer if you went back to ‘dear’ instead.”
+
+“Ah. As you wish, my dear.” Extending her arm, Hecate gestured for Marina’s hand.
+
+“I don’t really understand why people do this…” Intertwining their fingers, Marina accepted. “It’s not like I’m going to get lost as an adult, you know.” She blushed.
+
+“I don’t know the exact reason either,” Hecate kept her eyes straight ahead. “It’s what a knight would do for a lady of their heart, so I suppose I shall do the same.”
+
+“So, you’re my knight now?” Marina giggled. “Where is your shining armor then?”
+
+“The bravest knights need not be in armor, my dear,” Hecate said. “Just like how the most beautiful ladies need not be in lavish dresses.”
+
+“O-oh…” Marina blushed as she comprehended Hecate’s words. “T-that is true…”
+
+As the two of them strolled along the pathway, thoughts regarding the breakfast items popped into Marina’s mind. The bee bread from before did leave her in a traumatized state; she could still taste the awful texture even now.
+
+“We have arrived.” Hecate pointed. “This residence belongs to the Apis family, who also happen to be one of the more affluent families around. They were the ones who won the honey-production competition last year, or so I was told.”
+
+The house standing in front of the two young women featured the same design as the architecture of the rest of Pollen Patch with one exception. It was much brighter. Most of the homes around have darkened due to the aging wood used for their construction, but the Apis’ home maintained a lustrous mahogany like a shining diamond in a bag of coals.
+
+“This house does look bigger than the ones around.” Marina said, “Should we knock?”
+
+“Of course.” Stepping to the front door, Hecate knocked twice.
+
+“Coming!” A voice rang from the other side.
+
+The door creaked open. In front of Marina stood a middle-aged woman, likely in her forties, wearing a white apron, likely for the chores she was doing. She had brown hair tied into a ponytail, and a pair of antennae grew from her forehead just like the rest of the Bee-ple.
+
+“Miss Hecate, welcome!” The woman beamed. “Oh, that must be Miss Marina.”
+
+“You know me?” Marina tilted her head.
+
+“Why wouldn’t I? Miss Hecate talks about you every time we have a conversation.” The woman said, “Good things, of course.”
+
+Marina did not like the sound of that. She knew she shouldn’t worry about what others think of her, as she was told at a young age. But it was damn near impossible to put into practice, especially when that someone lay by your pillowside.
+
+“My name is Melissa, by the way.” She introduced herself, “Please come in.”
+
+The inside was brightly decorated with a layer of yellow paint, and unlike Mellie’s hut, the rooms of this house were organized to serve their purpose and combined to form a cozy home, rather than an amalgamation of multi-purpose rooms smashed into one. And from Marina’s first step through the door, it was clear that the living room was in front of the kitchen, and the stairs led up to what she presumed to be bedrooms.
+
+“Miss Hecate!” A young boy ran down the stairs. It was the same boy whom Hecate had been training a couple of days before.
+
+“Ah. Drover.” Kneeling on one knee, Hecate patted his head. “How have you been?”
+
+“I’m good, Miss Hecate,” Drover replied. “The forms you taught me, I have been practicing them every night!”
+
+“Really? I must check on your progress later then.” Hecate said. “Do surprise me.”
+
+“Mm.” Drover nodded before glancing at Marina. “You’re Miss Marina, right?”
+
+“Y-yeah, that is me.”
+
+“Are you really powerful, too? Can you also teach me?” Dover asked with a spark in his eye.
+
+“N-no, I’m not powerful. In fact, I’m really useless—”
+
+“That is not true at all, my dear.” Hecate interrupted. “Dover, if you don’t know, I am only an assistant to Miss Marina. She is more powerful than I am.”
+
+Marina wanted to disappear at this very instant. Whatever power Hecate was talking about, she did not have. And if being able to tell the difference between salt and sugar was a superpower, she wouldn’t be able to pass it down to someone else.
+
+“Whoa! Does that mean you’re trying to hide your power and keep it a secret, Miss Marina?” Dover gasp. “Don’t worry, I won’t say a word to anyone, I promise!”
+
+“T-thank you, Drover.” Marina raised a brow. Hecate! Why are you like this?
+
+“Breakfast is ready!” Melissa announced.
+
+From the kitchen came a smell that Marina could never forget. It was her childhood favorite before her habit of skipping breakfast took hold. Walking to the dinner table, Marina took a seat beside Hecate, stunned by the plate of food in front of her: Eggs, bacon, sausage, a glass of juice, and a basket of toast.
+
+“I heard you guys are going to open a bakery, so I decided to make some bread this morning. Not sure if it would be up to your standards,” Melissa said. “But please dig in.”
+
+Slicing open the sausage with a metal knife, Marina dipped it into the running egg yolk before taking a bite. The smoky, herbaceous sausage was juicy with a bouncy texture from the casing, all complemented by the creaminess of the egg yolk. Next was her favorite, the bacon. She picked up a slice with precision. It was salty, crispy, and the fat was rendered perfectly to reduce the weight on one’s palate. This was her first real plate of food in days. The selections may have been ordinary by standards of her previous life, but to be eating it in the afterlife made it just so much more delicious and nostalgic.
+
+“Melissa, how did you make the toast?” Marina asked after taking a bite.
+
+“I used refined pollen and combined it with some of those yellow mushrooms from the forest.” She replied. “Flour is less and less accessible the further you are from the capital, but pollen is a nice replacement.”
+
+My hypothesis was correct. Marina took a sip of the cold, refreshing juice. “And what about the eggs? How do you get those?”
+
+“My husband and my other son bring them back from their trips,” Melissa said. “Actually, that’s one of the reasons why I wanted to ask the two of you to breakfast today.”
+
+“Oh?” Marina set down her utensils. “What’s wrong?”
+
+“They have been gone for over four days now, when they typically would return on the second day,” Melissa’s voice grew heavier. “I have asked Bee-ple to look for them, but there hasn’t been any word. And I saw what happened at the village entrance, so I wanted to ask if the two of you can lend me some help. I’m willing to repay with whatever I can get my hands on.”
+
+There was no free brunch in the world after all.
+
+“Hecate.” Marina glanced.
+
+“Yes, my dear?”
+
+“What do you think of this breakfast?” She asked.
+
+“I think it is delicious, my dear,” Hecate nodded. “You?”
+
+“I think it is delicious as well.” Turning back to Melissa, she smiled. “We’ll do what we can to get your family back to you, I promise.”
+
+“...”

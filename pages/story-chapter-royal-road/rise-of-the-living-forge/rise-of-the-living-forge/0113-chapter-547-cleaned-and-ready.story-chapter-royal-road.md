@@ -1,0 +1,135 @@
+---
+id: e7595c1f-629b-5148-b2a6-0e2066af270e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 547: Cleaned and ready"
+slug: 0113-chapter-547-cleaned-and-ready
+partOf: rise-of-the-living-forge
+position: 113
+ownLength: 1976
+unit: words
+ownProgress: 1976
+publishedAt: 2026-01-22
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2968131/chapter-547-cleaned-and-ready"
+royalRoadId: "2968131"
+markedReadAt: "2026-06-29T20:02:03.021Z"
+---
+
+Vix returned to the Infernal Armory a day later than she’d promised to. Arwin barely even noticed her entrance. He and Wallace stood before a wall covered with scribbled papers bearing dozens and dozens of different ideas and discarded designs.
+
+The two of them had been in the armory for just about every waking moment between them. Their only breaks had been to rest for the night to keep their minds sharp. Every scrap of their attention over the past few days had been focused on the contents covering the wall before them.
+
+Crumpled up paper littered the ground all around them. It was joined by unsuccessful tests and scraps of materials that had once cost enough to purchase an entire top-level set of armor. It was carnage. If another adventurer had seen it, they likely would have wept at the sheer scale of lost gold.
+
+“Whoa,” Vix breathed as she skidded to a stop a few steps into the back room. “What happened in here?”
+
+Arwin glanced back at her. “We’ve been testing some things out. I think our earlier suggestion of a day was too optimistic.”
+
+“And I was just about to apologize for being so late,” Vix said, unable to tear her eyes away from the scene covering the Armory. “It looks like you murdered a golem in here.”
+
+“Not entirely far off,” Wallace said. He ran a hand through his thick beard. There were a few scraps of metal stuck in it that definitely weren’t normally there. “We’ve blown up one or two of these right before they took proper form.”
+
+Vix paled a shade. “Is that… common?”
+
+“No. It’s only happened a few times,” Arwin said with a shake of his head. “Don’t worry. You can’t make a cake without blowing up a few eggs.”
+
+“That definitely isn’t the saying,” Vix said. She swallowed, then cleared her throat. “Uh… should I wait another day or two or something so you can finish the tests and stuff?”
+
+“Depends,” Wallace replied. He pulled a scrap of metal out of his beard and tossed it to the ground, where it landed in a pile of scraps with a faint clink. “Do you know what you want yet?”
+
+“Yeah,” Vix said. She set her jaw. “I do. I’ve been thinking about it a lot. I wasn’t really sure how much was actually possible. Some of my ideas might be completely ludicrous. They’re probably not even reasonable, so you can just go in the general direction instead of—”
+
+“Don’t go shooting us down before we even get a chance to give this thing a shot.” Wallace crossed his arms in front of his chest and leveled a flat stare at Vix. “Tell us what you want, lass. We’ll see what we can do to get it for you.”
+
+Vix swallowed the rest of her sentence. Then she gave them a sharp nod. “Okay. I want to control light. My skills already lend themselves toward that, but my body isn’t strong enough to handle the energy. Anything more than a little magic cripples me.”
+
+“Repairing your heart should handle a lot of that,” Arwin pointed out. “I don’t think you’ll have issues drawing on your abilities after we’re done.”
+
+“I know that,” Vix said. “But I want the opposite. I want a ridiculous amount of energy. I’ve spent so long using my power sparingly. Being careful with it. You know I trained to be an assassin because I didn’t have the strength for anything else? A prolonged fight will kill me. The only thing I’ve been capable of is short bursts of measured power. Even when I use Art’s magic, I’ve got to measure everything. Every move has to be intentional. There’s no room at all for even the smallest mistake. I hate it. I hate having to think so closely about every single step I make. I want to be free. I want to fight without worrying about if I’m going to kill myself or Art in the process. I want to be stupid, Arwin.”
+
+Arwin and Wallace exchanged a glance.
+
+“So you want a massive store of energy?” Wallace asked. “Something that lets you just… recklessly call on your magic, to the point where you don’t have to worry about if you’re going to overdraw something?”
+
+“Pretty much,” Vix said. “And if it helped my control over shadows, that would be pretty nice as well. I know that’s a pretty ridiculous request. There’s no such thing as an infinite energy source.”
+
+“It’s a pretty straightforward request,” Wallace said. He tapped a finger against the bridge of his nose. “But a very powerful one. Raw power like what you’re asking for would be very effective. It would easily scale with you as well.”
+
+“Doesn’t mean it’ll be simple though,” Arwin said. He thought for a moment. “Something that direct might actually be even harder than a more complex ability. We’d need a way to let the core gather power itself, almost independently of Vix.”
+
+“Sorry,” Vix said sheepishly. “I know it’s not a very fair request.”
+
+“Don’t apologize. I don’t want some stupid easy job. There’s no fun in that at all,” Wallace said gruffly. “We can figure something out.”
+
+A power source strong enough to let Vix fight without thinking about how much magic she’s using… hmm. I wonder.
+
+“Wallace is right,” Arwin said, tearing himself from his thoughts. “Give Wallace and I some more time to work on it. Let’s meet again in a few days.”
+
+“You think it’ll be ready by then?”
+
+“Honestly? No idea,” Arwin admitted. “But we’ll probably have some stuff we need to test. This is more difficult than we expected. Wallace and I don’t want to rush anything. Don’t worry. We’ve already made good progress. It won’t be long until we’re ready.”
+
+“There’s no huge rush,” Vix said. “I’m not about to drop dead, you know.”
+
+“We’re not rushing,” Wallace said. “But a man who wastes time is one who doesn’t deserve it. We’ll have something for you soon — so long as it’s safe. Just sit tight.”
+
+Vix nodded. “I can do that.”
+
+“Don’t thank us until we’ve got something worthwhile,” Arwin said with a wave of his hand. “We’ll talk in a few days. Even if we’re not quite where we want to be yet, we’ll keep you in the loop. We’re going to get you fixed up, Vix. You can count on it.”
+
+“Thank you,” Vix said with a smile. “I will.”
+
+***
+
+It took Arwin and Wallace a week.
+
+That was considerably longer than either of them had been expecting. But the task at hand was no simple problem. Even with the two of them working on it non-stop, there were so many risks. So many different ways where things could go wrong.
+
+Vix’s new heart could end up being too strong. It could be too weak. They couldn’t afford for it to have a personality that would compete with hers, but they couldn’t let it be so passive that it failed to actually aid her to its fullest extent.
+
+This was an item that would — in an ideal world — never have to be replaced. That meant it would have to grow along with her, all the while refraining from trying to change Vix in any way.
+
+Something with such intense restraints was never going to be simple. The first few days alone were purely spent planning and theorizing. Both Arwin and Wallace noted the absence of Koyu then more than at any point before.
+
+The lich likely would have had some very insightful takes into the making of something like this that would have been very useful. Unfortunately, he was still off with Setting Sun. There was no choice but to move ahead on their own.
+
+And, slow though it was, they made progress.
+
+Arwin couldn’t help but find slight similarities between the Hungering Maw and what Vix was looking for. There was no mistaking the two problems for one another. They were definitely separate.
+
+But elements were present in both. The need for some manner of renewable energy source was universal. Arwin still didn’t know the best way to accomplish that, but he did have a few ideas that would work.
+
+In the end, ironically enough, the solution that he and Wallace landed upon was inspired by the Adventurer’s Guild.
+
+Vix wasn’t going to want to find herself having to draw magical power out of objects to live for the rest of her life. She’d said herself she wanted to avoid anything that made her think. Vix just wanted to live.
+
+That was the solution that Arwin and Wallace had found.
+
+Every single creature had magical energy within them. Existence itself was energy. It wasn’t all that different from people dying and being born under the domain of the Mesh. It was a cycle.
+
+A cycle that the Adventurer’s Guild had tried to control by killing thousands of people in an endless war that would continue to feed the Mesh. Their methods were terrible, but the base idea of some way to make the cycle sustainable felt like the right direction.
+
+If Vix’s heart harvested power from her very existence, then it could store it up for a fight. It could passively draw power from the kinetic energy of her movements and absorb nutrients and magic from the meals she ate. The heart would even be able to gather power from her breathing as she slept.
+
+They could then take that a step farther, letting her actively use the heart to absorb power at an increased rate from the environment around her. It wouldn’t be sustainable, but it wouldn’t have to be. That was the kind of ability one would only use during a fight, when they weren’t worried about the damage inflicted to their opponents.
+
+The key would be creating an item that was efficient enough to constantly gather power and refine it into something that Vix would be able to draw on without worrying about draining it dry.
+
+And for that to be reliable, the materials needed for the heart were going to have to be immensely powerful. It would also have to drain a pretty significant portion of the magical energy Vix got from anything she killed.
+
+There was no doubt that it would slow down the rate she advanced in Tiers at — but if it worked, it would also make her considerably more powerful than anyone else even remotely close to her level.
+
+They explained the concept to Vix when she came to check in on their progress. Unsurprisingly, she was entirely on board with it. It fit her goals exactly. All that was left to do was figure out how Arwin and Wallace would make it.
+
+Over the rest of the week, that was exactly what they worked on. They consulted with the other members of the Devil’s Den. Tried out dozens of different materials that people had brought back from dungeons or gotten from merchants.
+
+And, eventually, they found what they were looking for.
+
+No more visible holes remained in their plan. The week had come to a close and so had their preparations.
+
+Arwin and Wallace found themselves in the Infernal Armory once more, but this time, it was different. The floors and walls were clean. Not a single scrap or speck of dirt marred any portion of the armory.
+
+Anna and Vix stood alongside them. Several of Esmerelda’s potions hung from Anna’s hip and all four of them had just finished a hearty meal that Lillia had cooked. Magic filled every single part of their bodies to the brim.
+
+They all knew why there were here. Nobody wasted any words. There was no time or attention left for such things.
+
+There was nothing left to do but make Vix her new heart.

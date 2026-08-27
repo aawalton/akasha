@@ -1,0 +1,129 @@
+---
+id: d54ff2e7-241d-550b-87c1-1250dd415cb9
+page-type-slug: story-chapter-royal-road
+title: "128 Fissures Form"
+slug: 0087-128-fissures-form
+partOf: the-new-world
+position: 87
+ownLength: 1197
+unit: words
+ownProgress: 1197
+publishedAt: 2018-06-14
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/224167/128-fissures-form"
+royalRoadId: "224167"
+markedReadAt: "2026-06-29T21:23:50.745Z"
+---
+
+I sighed. Yawm walked over,
+
+“What is it?”
+
+I let him see the screen. Yawm scoffed,
+
+“I wouldn’t worry about your exile. We have someone who can reconnect us to the system.”
+
+I nodded, “Let’s hope so.”
+
+As I said that, the marble tablet disintegrated in a flash of white fire, like a firecracker burning. Yawm put his hands on his hips, looking at where the tablet was,
+
+“Then that settles that. It’s time we learn some of the cipher’s secrets from Amara, don’t you think?”
+
+I shrugged, “I guess so. Lead on.”
+
+We walked towards Amara, I wasn’t frustrated. I didn’t have time for frustration. I had to learn the cipher with everything I had now. If Schema’s system was taken away, then I’d find another way of fighting Yawm.
+
+By the time we reached Amara’s personal library, I was pumped. Yawm glanced at me,
+
+“You seem revitalized. I anticipated a fit perhaps at signing the contract, even if it was voluntary.”
+
+I raised a hand, “You’re an example of just how strong someone can get without Schema’s system. There’s no real reason to be mortified. It just means I have to focus on something else for progress.”
+
+Yawm knocked on Amara’s door, “I didn’t anticipate you bouncing back quite so quickly from such a setback.”
+
+I looked at the opening door, “It’s just another fight. That’s all.”
+
+Keeja opened the door into Amara’s room. Yawm leaned back, surprise splashing across his face, “Keeja, why are you opening the door and not Amara...better yet, why are you here at all?”
+
+Keeja bowed to Yawm, “She asked for me to serve her tea and turn the pages as she read.”
+
+Yawm nodded, “Hmmm, an interesting request. It’s good to she’s making herself comfortable.” Yawm looked up towards Amara who was lounging on a leather chaise lounge. A stack of books were spread beside her as she read, both her hands scanning across the pages. She raised one hand, looking towards us,
+
+“So you both have come back for what I know?”
+
+Keeja stepped out of our way, letting us walk into the bedroom and library. Every wall was a bookshelf, and she separated her room with them. On one side, the leather chaise lounge let her relax as she read. On the other, her bed was hidden behind a bookcase that acted as a separator for the room.
+
+That was what was normal about the room. What made it extraordinary were the jellyfish. They floated along the air, like floating candles. They added an otherworldly ambiance to the room.
+
+“Why didn’t I get these jellyfish in my room?”
+
+Yawm walked up to Amara, “You never asked for them. I can have them added if you’d like.”
+
+I shook my head, “Naw, I was just a little jelly is all.”
+
+I know, that one was pretty bad. That’s how you know a pun is good though. If it makes everyone else wince, then you can laugh like an evil mastermind afterwards.
+
+Yawm turned towards me along with Amara. Amara tilted her hand which tilted her eye,
+
+“Jelly? Is that a human phrase I don’t understand.”
+
+This was where the pun gets particularly good. If a pun is like stabbing someone with a dagger, explaining one was giving that dagger a twist. Since Amara asked, I couldn’t help but oblige,
+
+“See, I mean jelly as in jealous. I said it like that bec-”
+
+Yawm raised his hands, “Don’t teach her about that evil. Now back to the matter at hand.”
+
+Amara turned her hand towards him, looking at Yawm. I laughed, “Hah. Nice one.”
+
+Yawm shook his head, flabbergasted for a second. He raised his hands, looking at them,
+
+“I...I’ve been infected.”
+
+Yawm lowered his hands, laughing with me for a moment. Amara stared at us both with abject confusion. I walked up, waving off her curiosity,
+
+“It was an inside joke, sorta. Anyways, do you have some time to teach us about the cipher?”
+
+She nodded, standing up from her reading area. A second later, Yawm spawned ice chairs behind us and whipped out two marble plates. I picked mine up, “Damn, you’ve been fancying marble lately.”
+
+Yawm nodded, “I don’t understand my desire to see it either, but it is so.”
+
+Amara walked in front of us, almost like a lost puppy. Everything was happening pretty fast, so I cut her some slack to get her bearings. Yawm didn’t.
+
+He raised a hand at her, “Here is a board.” A thin sheet of sky blue crystal formed behind her. It thickened, the material expanding to the sound of cracking ice. Amara looked between us. She pointed at the board,
+
+“I can write on this?”
+
+Yawm nodded, “Do so.”
+
+She turned towards the board, then back at us. That’s when she began her lecture, and what a lecture it was. If I had to describe it in three words, they’d be cryptic, confusing, and complex. Everything she said made the cipher harder to understand rather than easier.
+
+It was something I couldn’t quite put my finger on. It almost felt like she was misleading us, but I doubted it. Learning the dimensional cipher was a massive undertaking. It wasn’t something easy to teach, and she could just be an awful teacher. Hell, it could be that she was eldritch.
+
+Regardless, after three hours of complete nonsense, Yawm stood up,
+
+“That will be all for me until later. I appreciate your efforts at transferring knowledge, but my frustration has reached a boiling point. I’ll need some time to decompress.”
+
+Amara reached out her hands, “I meant to unveil you both. My words, if they puzzle you, then I’m puzzling.”
+
+There was a steady fear lining her words. Yawm waved a hand at her, “There’s no reason to apologize. This will take time and effort, that’s all.” He sighed, “I was hoping for a more instantaneous benefit. Having my hopes dashed feels unpleasant, but I will persevere.”
+
+He turned towards me, “Are you exhausted as well?”
+
+I shook my head, “Eh, it’s less frustrating than staring at a blank page and not knowing where to start.”
+
+He raised his hands, “Then you may both continue. I’ll self study for a while. You both enjoy this...lecture, we’ll call it.”
+
+Yawm walked out of the room. As he did Amara raised her eyes towards me, “Are you certain you want to continue this?”
+
+Her black hair moved out from over her face. It twitched around, seemingly at random. Her creepy mouth opened, and she rubbed her teeth together. It sounded like a watch’s hand ticking down the seconds. A second later, she mouthed her words without saying anything. I managed to read her lips,
+
+‘Do not react.’
+
+Like she said, I didn’t react. Instead, I stood up from my chair,
+
+“It’s ok if you don’t want to teach me. I get it. Take some time, plan your next lesson, and-”
+
+48##$%SystemError#%*#)%$#
+
+Dimension-C138, Harbinger of Cataclysm given admittance into sub-system C-137 Fringe Walker clearance. Access to cipher enhancements, learning enhancements, and the obelisk mainframe given. Classes and guild rights are reinstated. Pardoning of bounties lays outside the clearance of Admin M-Y-444.
+
+Exile terminated.

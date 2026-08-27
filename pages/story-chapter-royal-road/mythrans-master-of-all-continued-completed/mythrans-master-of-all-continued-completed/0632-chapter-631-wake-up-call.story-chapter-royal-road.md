@@ -1,0 +1,227 @@
+---
+id: 54f22f06-c14d-534c-ab8b-8bc98f09d09b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 631 - Wake Up Call"
+slug: 0632-chapter-631-wake-up-call
+partOf: mythrans-master-of-all-continued-completed
+position: 632
+ownLength: 2844
+unit: words
+publishedAt: 2018-07-07
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/231671/chapter-631-wake-up-call"
+royalRoadId: "231671"
+---
+
+Ren and his group flew around for a little while, until it started to turn dark. They came in for a landing at the house in the Housing District, and they were a little tired but also happy. They went inside and Princess went to her room and Ren and the others went upstairs.
+
+“That was so much fun!” Suniva exclaimed and folded her wings down. Her suit opened up in the back for her and enclosed the wings to protect them, then she jumped onto the bed. She bounced and the succubi jumped onto the bed with her to make her bounce again, and she laughed.
+
+Ren walked over to them, stored his armor bodysuit, then equipped his underwear as he climbed onto the bed with them. “I can spare... Teepo? How long?”
+
+“An hour and 45 minutes before you need to go on Adventurer's business.” Teepo said. He had thoroughly enjoyed flying just as much as Suniva had. He was in high spirits and would probably stay that way for a while.
+
+“I've got a lot of Adventurer's business to take care of, so I won't be back for a day or so.” Ren said. “I need to sleep for an hour, but after that, I'm all yours for 45 minutes.”
+
+The succubi exchanged looks with each other and then looked at him. Ren felt their surprise, and he chuckled.
+
+“We should restrict the last bit of playtime for the end, because you know when I try to please you, it just knocks you out.”
+
+The succubi nodded their heads and moved over slightly, and Ren climbed in between them and Suniva while Artemis laid down on the other side of Suniva and cuddled her from behind. Seldanna moved up and let Ren rest his head on her chest and put his arm around Suniva and Artemis, Ellaria laid her head on Ren's chest, and Chenoa put her head on his abdomen while Katori put her head on his thigh.
+
+Seldanna felt his emotions strongly, now that they were in direct contact. “You've matured so much in so short a time.” She said and ran a hand through his hair. “I wish I could have grown up with you.”
+
+Ren smiled. “I thought you might think about that.” He said. “Remind me to give you a present when we wake up.”
+
+“I know it's not armor or a bodysuit.” Seldanna said. “Maybe a new bauble to hang around our necks?”
+
+“Among other things.” Ren said and closed his eyes, took a deep breath, and sighed. Everyone else sighed and closed their eyes as well, then they all drifted off to sleep.
+
+*
+
+“With this much money, we can stay indoors!” Dana's friend said. “No more sleeping on the ground for us!”
+
+“We can't just waste it.” Dana said.
+
+“Dana, even the most expensive inn that charges by the night, is only a silver coin!”
+
+“Only a silver coin?” Dana chuckled. “We've scrimped and saved as much as we could since we started playing, so we could save up for some nice equipment.”
+
+“We've only stayed at an inn twice, but now...” Dana's friend smiled. “One gold coin will let us stay for a hundred days at the best place in town!”
+
+“Well...”
+
+“Come on, it's getting dark.” Her friend said and dragged Dana down the street towards the inns. “It won't be long before we need to log out and grab a bite to eat.”
+
+“Oh, right. Supper.” Dana said. “Playing so much really messes up my time sense.”
+
+“Well, this is the first time we've completed a quest in a single game day.” Her friend said. “We had planned on doing that quest for the next two days, and we finished in only 5 hours!”
+
+“You know, we should really go back to his store and buy something else.” Dana said. “You know, to thank them.”
+
+Her friend chuckled. “Are you trying to get more free stuff?”
+
+“No, it's just...” Dana wasn't sure how to explain it properly. “If they hadn't helped us and given us so much, there was no way we would have gotten those extra quests done.” She said. “I mean, no one even mentioned extra hidden things, did they?”
+
+Dana's friend shook her head. “No, they just said to find the ship and ask what happened, then go back to the dock and tell the wife that the Sea Dwellers had her husband.” She said. “That's why it's such an easy quest.”
+
+Dana nodded. “Now I wonder who else did it and found the extra stuff.”
+
+“Me, too.” Her friend said. “Do you think he did?”
+
+“He, who?”
+
+“Who else have we been taking about? Your super duper game crush!” Her friend said and laughed.
+
+Dana's face flushed red. “I think if anyone has done it, he has.” She said. “I'm sure he got the extra stuff, too.”
+
+“Like he needed it.” Her friend said. “Just think. If he sells those rings for a gold each and he sold how many thousands of them... how rich do you think he is?”
+
+Dana went quiet as she thought about that. If he only sold rings for a gold each, he could make quite a lot of money just from them... but then his market would dry up once everyone had one.
+
+Dana's friend dragged her into the inn and asked for the best room in the place for a week. The innkeeper was overjoyed at this and she paid him for the room. He took her up the stairs and opened the door to the room, talked for a little bit and bid them good night, then shut the door.
+
+He would need to keep changing the rings to something people would need, then that would open up a new demand, and that could keep a steady flow of income. Dana thought. He has 4 workers, though... so, minus their pay, he would still make a tidy profit from the rings alone. If you take into account everything else in the store, then...
+
+“DANA!” Her friend yelled.
+
+“What?” Dana asked, her train of thought derailed.
+
+“Guess where we are!”
+
+Dana looked around the generic room and shrugged. The only thing notable was the picture of a unicorn on the wall.
+
+“This is Ren's favorite room!” Dana's friend exclaimed. “For an extra silver coin, he's going to give us a tour tomorrow of all the things Ren has broken!”
+
+Dana's mouth dropped open and she looked around the room again. A desk and chair where Ren sat. A medium-sized bed where he slept. A window he looked out of, and a picture that spent the night with him.
+
+“Happy Birthday!” Her friend said and hugged her.
+
+“Th-thank you.” Dana said, tears in her eyes. “Do... do you know...”
+
+“He spent about a week or so here, according to the innkeeper.” Her friend said. “Not all at once, though. The last time he brought a really scary Dark Elf woman in and they wrecked the place.”
+
+“You're kidding!” Dana exclaimed.
+
+“Not a bit!” Her friend said and smiled. “The innkeeper said he would give us all the details tomorrow during the tour.”
+
+“I... thank you.” Dana said. “You always give me the best presents.”
+
+“That's because I love you, you silly goose!” Her friend said and kissed her cheek. “Now store your armor and equip your Travelling Clothes so we can both fit on the bed.” She said and did it herself. “Whew! I'm so glad that cleans us up and the clothing at the same time!”
+
+“Me, too.” Dana said and stored her armor and equipped her clothing. She wasn't fussy on how the Travelling Clothes looked. “You know, I thought I saw a few nice outfits at Ren's store...”
+
+Her friend laughed and climbed onto the bed. “I knew you couldn't resist spending some of our riches!”
+
+Dana chuckled. “Some things are a necessity.” She said and climbed onto the bed. “Move over a little.”
+
+“There's nowhere to go. I'm against the wall already.”
+
+Dana looked at the available space. “What about a half-spoon?”
+
+Her friend laughed. “How does that work? I only crunch up my legs?”
+
+Dana laughed, too. “No, turn almost onto your side and put your arm under the pillow.”
+
+Her friend did that, and with her back partially resting on the wall, she was actually comfortable. “Well, what do you know. That worked!”
+
+“I should be insulted that you sound surprised.” Dana said and laid down in a similar manner, only she was completely on her side and not quite touching her friend. There was lots of room for the both of them on the bed and they relaxed.
+
+“Want to log out now and we can eat and come back in to sleep?” Dana's friend asked.
+
+“If it's okay with you, I'd like to just lay here for a while.” Dana said.
+
+“You're my best friend and today is your day.” Her friend said and leaned in to cuddle her. “We can do whatever you want.”
+
+“Thanks, Gretchen.” Dana said and closed her eyes.
+
+********
+
+Clint and his date walked down the boardwalk near the docks. The smell of the sea floated to them on the nice cool breeze, and they ate their ice cream in silence. He watched Gwendolyn out of the corner of his eye as she licked her ice cream cone, and he couldn't help but admire her technique.
+
+Git tha' thought outta yer head. Clint thought to himself in admonishment and tried to concentrate on eating his own cone. Gwendolyn chose that particular moment to upend the cone and took a big long suck from it.
+
+“I hate it when it starts to drip, don't you?” Gwendolyn asked and suck out her tongue to lick all around the outer edge of the cone as she turned it, which cleaned up the streaks of leaking ice cream and gave Clint another very suggestive image.
+
+“Ah... yessum.” Clint managed to say and turned away slightly so she wouldn't see the longing look on his face. Gwendolyn suppressed her smile at Clint's reaction and mentally thanked Tommy's girlfriend Jaime for the tips.
+
+They are working like a charm. Gwendolyn thought happily. She stopped teasing and ate her ice cream normally, and used short licks and small bites. I'm pretty sure I'm driving him wild.
+
+Clint wasn't sure if she was intentionally trying to be provocative, and when he glanced back at her, saw her eating her ice cream cone normally, and relaxed.
+
+Ah'm overreactin' ah think. Clint thought. Maybe ah'm ah wantin' her a lot more than ah thought ah did.
+
+Gwendolyn glanced at him, and if she guessed right, by the expression on his face he was in deep thought. “What are you thinking about?” She asked before she could stop herself.
+
+“Ah'm thinking you and I should...” Clint stopped walking and looked at her. “Ma'am, ah'm rightly sorry.” He said and his face flushed red. “Ah damn near said something tha's not anywhere near gentlemanly-like to yer face.”
+
+Gwendolyn looked around and saw a trash can nearby, gently took Clint's half-melted and pretty much forgotten ice cream cone and tossed it into the trash with her own. She turned back to him and gave him a bright and warm smile.
+
+“You are a gentleman, so I guess it's up to me to say this.” Gwendolyn said. “I want you to take me back to your place.”
+
+“Ma'am, are ya shore? Ah mean, it's not like...” Clint sighed. “Y'all can see righ' through me, cantcha?”
+
+Gwendolyn put both hands on his chest. “We've had fun the last little while and even slept together in the game, but I... Clint, I...”
+
+“Yah wanna feel if it's real, too.” Clint said, and she nodded. “Then, ah'd be more than happy to oblige ya, an' we can find out togethah.” He said and motioned back down the boardwalk towards the parking lot. They turned around and walked back the way they came. “Since we're gittin' thangs out inta tha open, lemmie us' say tha' yer damn pretty an' smarter than a whip, an' spendin' time witcha has been tha bes' thing ah've done in a while.”
+
+“Clint, you don't have to say...”
+
+“Ah know ah'm not as smart as ya, an' ah'm man enough ta admit tha' yer intimidatin' sometimes.” Clint said as he put his arm around her waist. “Tha only way ah can think of ta git over tha' feelin', is ta ask ya ta stick around fer a while.” He smiled. “If'n this thing between us turns out ta be real, ah'd be mighty honored if ya wanted ta go steady wit me.”
+
+“Steady?” Gwendolyn asked, and tried not to melt from all the old southern charm Clint was heaping onto her.
+
+“Ya know, exclusive like. You'n me.” Clint said. “If'n yer inclined ta that kinda relationship.”
+
+“Clint, I can't think of anything better right now.” Gwendolyn said and smiled.
+
+They got into his truck and he drove her to his apartment in town. She had been surprised at first, then he explained that it was too long of a drive to go all the way back to his ranch, because he couldn't wait that long to be with her. Gwendolyn was perfectly fine with that.
+
+********
+
+Ren woke up after the hour and thought about stretching, then decided against it because he was covered in women. They had inched their way closer somehow and had him almost completely covered from head to toe. He might have laughed at the situation, if he hadn't appreciated it so much. He let them each wake up on their own, and gave them individual attention and cuddled each of them for 5 minutes, which used up 30 of the 45 minutes he had remaining.
+
+“Assume the positions.” Ren said, and he felt anticipation and a strong need from the succubi. Seldanna and Ellaria had stored their clothing and bent over for him, while the other two had laid down on their backs and stored their clothing. Ren charged up the emotions that they wanted and started with Seldanna. As before, he had barely started to please her when she finished and collapsed onto the bed. He held in his laughter at their reactions as he proceeded to lick the other three, and they finished just as quickly and collapsed as well.
+
+“I won't be that easy to... AHH!” Suniva gasped as Ren activated his Burning Hands ability and rubbed her special place faster than anyone but Teepo and Artemis could see. “N-no f-fair!” She panted and then finished, and collapsed onto the bed with the succubi. “Ch-cheater.” She whispered, and Ren chuckled.
+
+“I need to go.” Ren said and turned to Artemis. “Don't have too much fun without me.”
+
+“I'll try not to.” Artemis said and kissed him. “See you in a couple of days.”
+
+Ren walked over to the wall of the room and braced his hands on his hips after equipping his armor bodysuit. “Logout.”
+
+********
+
+“What the hell were you doing?” Denise asked a little angrily as she helped him take off the VR headset. “I had to empty the bedpan 6 times and force feed you water to keep you hydrated!”
+
+“What?” Ren blinked his eyes. “Oh, sorry. I didn't mean to stay in for that long.”
+
+“That long? An hour and 20 minutes of blue screen is 5 hours of game time.” Denise said. “I've seen you perform for that long before, and that doesn't explain the... well, torrent of... how the hell did you do it?”
+
+“My Sanctuary has super-compressed time, remember? I was actually inside for 11 years.”
+
+Denise's mouth made that little 'o' of surprise and she didn't say anything in response.
+
+“With that, and the 2 years I was in there this morning, the 5 years I was in there last week with Zetaya, and the 2 years with Lisa before that and the 2 years before that...” Ren chuckled. “Good god, I'm really old now.”
+
+“R-Ren, you... how do you feel?” Denise asked with real concern in her voice.
+
+“Surprisingly enough, I'm not tired.” Ren responded.
+
+“That's not what I meant.”
+
+“I know.” Ren said and smiled. “What's for supper?”
+
+Denise thought about not answering, then sighed. “Exactly what I said I was going to make.”
+
+“You beautiful woman! Bend over so I can kiss you!”
+
+Denise chuckled and leaned in to give him a kiss. “Come on, let's get you downstairs.”
+
+“We're eating in the dining room?” Ren asked and rolled over to the edge of the bed, then Denise helped him get into the wheelchair. “Ow.” He said and rubbed his chest. “I forgot about this.”
+
+“You're going to have it for a while, so you need to be careful.” Denise said and bent over to kiss him again.
+
+“I'm not complaining, but what was that one for?” Ren asked.
+
+“Just because.” Denise said and ran her hands through his hair to straighten it out, then pushed him out of the room.

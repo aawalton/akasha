@@ -1,0 +1,177 @@
+---
+id: a01eb36a-cb1d-5cee-8e76-a5d768e75949
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1204 - Emotions Are Complicated"
+slug: 0076-chapter-1204-emotions-are-complicated
+partOf: the-primal-hunter
+position: 76
+ownLength: 2805
+unit: words
+ownProgress: 2805
+publishedAt: 2025-11-18
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2772181/chapter-1204-emotions-are-complicated"
+royalRoadId: "2772181"
+markedReadAt: "2026-06-29T19:31:40.484Z"
+---
+
+Meira had been both relieved and gotten more nervous when she heard Lord Thayne had arrived with the rest of his entourage at the teleportation circle. Armed with that knowledge, she knew he would soon arrive at his residence, and Meira got herself ready mentally for when that would happen.
+
+As expected, it didn’t take long before he was there. Incredibly nervous about seeing him for the first time after so long, Meira flew over to his residence and prepared to knock on the door as he swung it open before she even had the chance to.
+
+He stood in the doorway, his usual casual demeanor on full display. He looked the same as the last time they met, though his aura had definitely grown once more. Unsurprisingly, considering he was in a constant state of improvement.
+
+Yet when she looked at him now, it felt different, and she knew it wasn’t because he had changed. Lord Thayne had been the same person for all the time Meira had known him, which was likely why it was so much easier to realize her own feelings regarding him.
+
+For a long time, Meira had seen Lord Thayne as her only Path. That if she wanted to live and have any kind of future, her only choice was to cling to him as hard as possible. He had been the one to change her Path and allow her to become who she was, after all, and a part of her had always feared that all he had given could be taken away if she displeased him too much.
+
+To say she had developed a dependency on him was an understatement. Her emotions had further developed into something she believed was more than mere dependency. Throughout her childhood, she remembered her father always talking about the importance of making the best of their situation. When the young master of a powerful faction took an interest in her, Meira’s entire family acted as if it were the greatest gift they could possibly receive.
+
+Both her parents had instilled in her the idea that if a person of such status showed even the slightest interest in her, she should seize the opportunity and try to convince them to fully pursue her, hopefully forming a relationship.
+
+Lord Thayne was a person of status beyond anything she could even imagine when she first met him, to the point where it was honestly horrifying. Yet he treated her nicely and even wanted to actively help her. To this day, Meira still didn’t know exactly why he decided to help her. If it was out of pity or perhaps just because his Patron had forced her upon him. Either way, it didn’t matter to Meira.
+
+She interpreted his kindness – or perhaps just lack of apathetic callousness – as a sign that he was indeed interested in her. Truthfully, in the beginning, the primary reason she’d gone along with everything he wanted her to do wasn’t to improve for her own sake, but just because he wanted her to, and she believed that if she did as he wanted, it would please him.
+
+However, with time, her mindset shifted. She began to enjoy the feeling of improving herself, especially as she made friends and got to know other people both in the Order and outside of it. With her Master making her his Chosen, she felt like her entire life had truly turned around and become something she could bare recognize.
+
+Even so, her emotions toward Lord Thayne remained. No, perhaps they grew even stronger. A part of her still hoped that if her status grew enough and if she proved herself capable, he would one day look at her with different eyes and decide that she was worthy of being at his side.
+
+During her time in Nevermore, Meira had a lot of time to think, and the Challenge Dungeons had actually ended up helping her a lot. Especially the Test of Character one. It had allowed her to realize many things about herself, including the insight she now had into her own emotions toward Lord Thayne.
+
+For the longest time, she had legitimately believed this was what love was supposed to feel like. What else was it supposed to be? Lord Thayne made Meira feel safe; he was strong, had status, and she could get along with him. Based on all her parents had ever said, this was like finding an invaluable natural treasure.
+
+This mindset wasn’t entirely wrong, but Meira knew now that such a relationship would never be one based on emotions. It would instead be one based more on convenience and have a far more transactive nature. He would provide her with the benefits of his status and power, while she would give him anything he demanded in return.
+
+These were just some of all the considerations Meira had swimming around in her head as she looked at Lord Thayne, who looked back at her. She had truly been waiting for this moment, to see what she would feel when she finally saw him again. Would she feel an overwhelming sense of longing? Want to jump into his arms? Meira had heard many stories from others about their relationships and how they felt about their partners, and Meira genuinely wasn’t sure what she wanted to do.
+
+However, as she looked at him, she felt only a sense of relief that he was indeed the same person she’d always known, as well as a deep sense of gratitude. In fact, more than any other feeling, Meira felt immense gratitude, as if she owed a debt she would never be able to repay.
+
+After a few moments of standing there, he finally spoke:
+
+“Hey Meira, it’s been a while. From your perspective more than mine, I’d imagine.”
+
+Meira felt a bit awkward, being forced out of her thoughts as she answered politely, welcoming Lord Thayne back to the Order. After some small talk, when he invited her in, she naturally accepted.
+
+From there... things went surprisingly well. They had a nice conversation, and Meira even got the chance to have Lord Thayne try some of her tea, which he, to her delight, enjoyed.
+
+The two talked for a long time, Meira feeling the same sense of safety and calm as usual when interacting with him. More now than ever, seeing as a lot of her nervousness from interacting with Lord Thayne was no longer there.
+
+Conversation flowed, and Meira wasn’t sure she’d ever talked this much about herself with Lord Thayne before. She proudly shared some of her better moments and was incredibly happy when he praised and approved of how she’d handled things in the World Wonder.
+
+Meira naturally also asked Lord Thayne about his own exploits and was genuinely curious about what he’d been up to and the adventures he’d undertaken. He was as impressive as always, having fought several B-grades and interacted with Primordials and other top gods, as if it were second nature.
+
+She felt it a bit odd when he suddenly asked her about the Lord of the Hunt, and Meira was a little surprised when she learned that it was actually Artemis. Meira wasn’t entirely sure what Lord Thayne meant when he said she and the image of the god had gotten close during the Challenge Dungeon... but she definitely understood fully after he proceeded to give a long-winded explanation of sorts.
+
+Meira could only listen, trying to take everything in at once as her head was swimming with all the information he’d just dumped on her. If any other mortal had ever told Meira he was in a relationship with a Godqueen, she would have checked him for curses or signs of mental magic causing delusion, but for Lord Thayne, she could at least imagine it.
+
+Not to say she didn’t find it hard to comprehend. Especially not as it became clear, this was indeed a serious relationship. From Meira’s understanding – and put in a context she could better understand - it sounded like the Godqueen had gained the position of official wife, meaning any others would at most be concubines.
+
+Though it didn’t sound like Lord Thayne planned on having any concubines. At least not now.
+
+Meira sat silently and took everything in, and she quickly understood the meaning behind his words... and she wasn’t quite sure how to feel about it. It was evidently a rejection of the feelings Meira had clearly shown in the past, which made her feel a little awkward.
+
+Never once had she expected any kind of reciprocity from Lord Thayne to be more than making her one of many concubines or mistresses, but it seemed that Lord Thayne had taken her misguided crush very seriously. He had been very considerate of Meira’s feelings and even pretty gently turned her down.
+
+She also felt awkward because she’d finally fully realized her own feelings.
+
+When Lord Thayne had mentioned he was in a serious relationship, Meira hadn’t felt heartbreak or anything else like that. Instead, her first thought had been that she hoped it would make Lord Thayne happy.
+
+Master had indeed been right all along. Meira hadn’t truly known the difference between gratitude and love, but now she did, which is why her response was indeed a genuine one.
+
+“Congratulations, you two sound like a good match.”
+
+Yet, despite saying this, Meira also knew that if he’d instead said that the Godqueen had agreed to make Meira a mistress, she would also have instantly agreed and had a feeling she wouldn’t have regretted that decision either. Emotions were complicated like that... but hearing the rejection, Meira decided that her childish pursuit of Lord Thayne was over.
+
+He would always be her benefactor and someone she owed more than she felt she could ever repay. In a way, perhaps she did love him, but it wasn’t the kind of love that could have ever led to a healthy relationship of equals, meaning it wasn’t the kind of relationship Lord Thayne would want.
+
+Yeah... the more Meira thought about it, the more a Godqueen seemed like a more suitable match for Lord Thayne. Perhaps others thought a god would automatically be way out of a mortal’s league, but Meira admittedly had, and would always have, an unrealistically high evaluation of Lord Thayne.
+
+And even if she wouldn’t serve by his bedside as a partner, she was determined to continue to grow and improve herself to at least one day repay a fraction of all that she owed him.
+
+--
+
+Jake looked closely at Meira, trying to see if she truly meant what she said. The more he looked, the more confident he became that she had indeed been genuine, even if there was a faint trace of resignation behind her eyes.
+
+However, even that seemed to disappear quickly as the high elf continued smiling, prompting Jake to speak.
+
+“Thanks,” he said, not entirely sure what more to say than that.
+
+“Please do allow me to reassure Lord Thayne that you don’t need to be considerate of me when it comes to your personal life,” Meira said as she bowed her head. “I have come to realize that my selfish desire to pursue you was flawed from the very beginning and not healthy in the slightest.”
+
+Jake was surprised again at just how blunt Meira was being as she continued.
+
+“I was lost and had nothing, but you gave me a Path and a future,” Meira said with a smile. “For that, I shall be eternally grateful, and I’ll continue to serve Lord Thayne in any capacity he allows me to, even if it happens to be from afar.”
+
+“You really don’t have to,” Jake said, raising his hands.
+
+Meira smiled at him. “But I want to... and weren’t you the one who taught me to do what I want?”
+
+Jake was momentarily lost for words, not having a ready response to that one.
+
+“Of course, I do want to clarify that if Lord Thayne does want more from me, I’m more than willing as long as his wife agrees,” Meira continued. “Just be aware that I realize I’ll never be able to fully view myself as your equal, but that to me, Lord Thayne will always be my Lord.”
+
+“A bit early to throw that w-word around...” Jake muttered, not going to verbally address the rest of what she said, as he was already too mentally busy processing it all.
+
+This talk definitely wasn’t going as Jake had expected, but somehow both better and worse than he would have hoped. Meira fully accepted Jake’s rejection and wasn’t heartbroken or anything; in fact, she seemed more determined than ever.
+
+“I’ll be more careful with my phrasing,” Meira bowed.
+
+Jake nodded slowly. “Also, Artemis and I being together is still a secret.”
+
+“I understand,” the elf nodded. “I assumed as much after such a detail wasn’t included in the official declaration of friendship.”
+
+“Alright, good, just wanted to make sure,” Jake said, feeling at least a little reassured. “Want to keep it under wraps for now.”
+
+The two of them got quiet as the mood in the living room had admittedly gotten a little awkward due to the heavy conversation they’d just gone through. After a few seconds, Meira finally chuckled.
+
+“You know, maybe I should entertain some of the courting attempts I’ve received,” Meira said. “There are even a few sons of council members from the Altmar Empire among them.”
+
+“Just don’t ever come to me for advice regarding anything like that,” Jake said, on board with lightening the mood.
+
+“Why not? Lord Thayne successfully courted a Godqueen as a C-grade. I see no better person to ask,” Meira joked back.
+
+“I feel like she courted me at least as much as I courted her... actually, I’m not even sure I would call what happened proper courtship,” Jake muttered. “Anyway, the point is, don’t ask me.”
+
+“Noted,” Meira bowed in confirmation.
+
+Jake was about to say more when his Order of the Malefic Viper token reacted. He wondered who it could be, at first assuming it to be the Sword Saint or one of his other Nevermore party members, but instead, it was a recent topic of conversation.
+
+“Let me just take this,” Jake said quickly to Meira as he used the token to telepathically respond. “So, gotten yourself a token and my contact information already, huh? Surprised you ever bothered calling.”
+
+“The Malefic One modified and improved all the internal formations of his Order, meaning I can’t teleport around without it being instantly noticed. Even if I could, I wouldn’t be able to enter your residence without being allowed entrance first, seeing as the Malefic One has truly gone all-out with the formation covering your place,” Artemis responded. “I just wanted to tell you that I’m done with preliminary meetings and have some time to stop by for a very brief visit... assuming you’re done with your meeting.”
+
+“We spoke, and things are cleared up,” Jake said.
+
+“Great, in that case, there’s no issue with me stopping by?”
+
+Jake briefly looked at Meira. “Would it be alright if Artemis comes by now?”
+
+Meira looked confused for a moment as she responded. “This is Lord Thayne’s home. I don’t believe I have a say.”
+
+He took that as a yes and gave the positive to Artemis. Using the token, he allowed her entrance, and a few seconds later, the aura of a Godqueen descended upon the living room.
+
+Meira was quick to her feet and stood ready when the god appeared.
+
+Artemis took a moment and threw Jake a smile before looking at Meira.
+
+“This one humbly greets the Mistress of the Hunt,” the elf bowed deeply.
+
+“Chosen of Duskleaf,” Artemis nodded in acknowledgment before glancing at Jake again and throwing him a telepathic message.
+
+“I take it she knows?”
+
+“Yep,” Jake confirmed.
+
+“And?”
+
+“As I said, all cleared up.”
+
+Artemis looked at Meira again. “It’s a pleasure to meet you... Miss Dawnleaf, was it?”
+
+“That’s correct,” the high elf bowed again. “And the honor is all mine.”
+
+The Godqueen observed the C-grade a little longer as Meira stood there, giving Artemis a bright smile in response. The two elves looked at each other for a few moments before Artemis nodded.
+
+“Alright. I’ll have to head back now,” the Godqueen said before quickly turning to Jake, who was still sitting down. Before he could even stand up, she leaned in and gave him a kiss before whispering in his ear. “See you later.”
+
+With those words, she was gone, leaving behind a very confused Jake, and it didn’t help that Meira stood there with a look of understanding on her face, as if that sequence of events made perfect sense.

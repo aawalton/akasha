@@ -1,0 +1,239 @@
+---
+id: ded82aa9-b30b-5a8f-9f18-8091353a6b95
+page-type-slug: story-chapter-royal-road
+title: "Chapter 732 - A New Kingdom"
+slug: 0733-chapter-732-a-new-kingdom
+partOf: mythrans-master-of-all-continued-completed
+position: 733
+ownLength: 3428
+unit: words
+publishedAt: 2018-10-16
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/298673/chapter-732-a-new-kingdom"
+royalRoadId: "298673"
+---
+
+Ren, Teepo, and Artemis didn't have to wait long before Princess Diana came into the large lobby of the castle. As Ren felt her approach, he stood up and helped Artemis stand, then walked over to the middle of the lobby so that they could be seen clearly. Even though it was early in the morning, it was still a little crowded in the castle, so he made sure Diana wouldn't have to search around for him.
+
+Diana had paced herself so that she wouldn't be winded when she stopped running. When she finally reached the lobby, she came to a stop and wasn't out of breath at all. Her eyes started to scan the room and she caught sight of Ren immediately. He stood in the exact middle of the lobby and smiled at her, and she smiled back.
+
+He did that for me, so I could find him quickly. Diana thought right away, and her smile grew broader. She took a quick shallow breath and let the smile fade as she walked across the lobby towards him.
+
+“Good morning, Princess Diana.” Ren said when she was close enough and bowed his head to her.
+
+“Good Morning, King Ren.” Diana responded and bowed her head to him in return. “You're here early.”
+
+“I've got a very important pending appointment without a set time, so I came here while I waited.” Ren said.
+
+Diana tilted her head to the side slightly. “You don't mean my birthday party this afternoon, do you?”
+
+“Is that today?” Ren asked and looked around. “I don't see any decorations in here or outside.”
+
+Diana chuckled. “I don't think the people would enjoy celebrating my birthday like they do my father's.”
+
+“I think you are selling your people short, Princess Diana.” Ren said. “If you will excuse me for a few moments, I'll prove it.”
+
+“I doubt that...” Diana started to say and Ren disappeared. “Wh-what? Where?”
+
+Artemis chuckled. “He's making sure the country knows it's your birthday today.”
+
+“What? How is he...” Diana stopped talking as she felt Ren's presence and everyone in the lobby took in a sharp breath. “What's going on?”
+
+“It's... Ren's... Aura.” Artemis said and tried not to react to Ren activating his country-sized artificial Aura.
+
+Diana shivered as she felt a happy feeling tickle her, then she had a distinct image of herself in her head and that it was her birthday. “Wh-what... what...”
+
+“It's a very clever use of a modified Charm Person spell.” A gruff voice said from about 11 feet away. Diana turned her head to see one of the male delegates from the nearby kingdom of Pervaria. He was 6 feet tall and had a bulbous nose, slightly slanted eyes, and tanned skin that went well with his shoulder length fluffy black hair. He wore a long white tunic, almost like the ones the healers wore, and his well-muscled arms were bare from the shoulder down.
+
+“How would... oh, he's using his Aura to cast it.” Diana said in understanding.
+
+“His Aura must already have that innate ability for it to work.” The man said, but he didn't come any closer.
+
+“It does.” Artemis said and the man looked at her.
+
+“You are a very interesting... person.” The man said, and Artemis squinted her eyes at him.
+
+Ren appeared in front of Diana and she caught her breath. “Okay, I've got all the decorations and fireworks set up and put your image on all the displays.”
+
+“You... what?”
+
+Ren smiled at her. “Outside, anyway.” He said and deactivated the artificial Aura. “Do you want me to decorate inside the castle, too?”
+
+“I... I don't think that's necessary.” Diana said with a similar smile, then remembered her manners. “King Ren, I'd like to introduce you to one of the representatives from the Pervaria Kingdom, Kenkoth Zaerepis.”
+
+Ren's Etiquette skill kicked in and he immediately equipped his Dire Wolf Hooded Cloak and his platinum armor, along with several different rings and bracelets, and his Hand of Glory now held a rod of rings. In the same instant, he activated his Ultimate Terror Aura and his Controlled Berserk Rage ability as he took out his golden shield and hammerpick.
+
+“My name is Ren.”
+
+Diana held in her scream and froze in terror, mainly because she had been trained to not let her emotions show; but, everyone else in the lobby and the rest of the castle completely lost it. Screams of terror filled the lobby and the castle, and even several streets outside. Ren's Aura was huge normally; but, with his armor on and all the other boosts added to it, his Aura spread out to over 2,000 feet.
+
+After suffering for only 3 seconds, Kenkoth Zaerepis nodded. Ren switched his Aura from Ultimate Terror to Reassurance and filled everyone with the best feelings they could ever feel. That brought out just as many yells and hollers as his Ultimate Terror one did, only for different reasons. He cast Charm Person and asked for forgiveness for what just happened. He felt mostly forgiveness, except for several of them that were shaken up pretty badly.
+
+“Please excuse me for a few more moments.” Ren said and disappeared. He went to the ones that were shaken up and used his Emotion Siphon ability to help them get rid of most of those feelings. It took several minutes to deal with the fallout from his display, and they thanked him for taking care of them. He didn't try to go to King Alamast or Lady Eleanor, since they had dealt with it just as well as Diana had. He went back to the lobby and reappeared in front of Diana and beside Artemis.
+
+“What. Was. That?” Diana said through gritted teeth, and he felt how angry she was.
+
+“Please accept my sincere apologies, Princess Diana.” Ren said and took her hand to bend over it as he stored all of his equipment and armor, except for the Dire Wolf Hooded Cloak, and equipped his fancy blue suit again. “When officially greeting someone of his high status, I needed to show my best fighting capability.”
+
+“Excuse me?” Diana looked from Ren to the representative and then back again.
+
+“If I didn't show him, he would have been deeply insulted.” Ren said and kissed her fingers, and he felt a thrill go through her. He stood up straight and let her hand go. “The last thing I want to do is cause the people here even more problems.” He smiled. “Besides what I inadvertently just did, I mean.”
+
+Kenkoth Zaerepis still hadn't moved any closer. “Your presence is quite impressive, King Ren.”
+
+“Aren't you glad that you don't have to reciprocate?” Ren asked.
+
+Kenkoth smiled with a slight nod and Ren dismissed the popup without reading it.
+
+“Even though I am tempted to, I believe these people have had enough of a show for now.” Kenkoth said. “May I ask why you are here?”
+
+“Of course.” Ren said. “I noticed the odd-looking caravan when I was making an inquiry, and I wondered where it was from and who was in it.”
+
+“So it's not for the Princess' birthday?” Kenkoth asked.
+
+“I was invited, but I didn't realize it was today.” Ren said. “I was worried I was going to miss it and gave her a present early.”
+
+Kenkoth let a small smile appear on his face for a second and it disappeared. “That was a respectable decision.”
+
+Ren had to pause in talking, so he didn't dismiss the popup this time and saw that he had gained Respect, the same as he got from the Giants.
+
+Notice!
+
+You have gained Respect: +500.
+
+Cool. Ren thought. “I'd like to say that was why I did it, to maintain Respect; but, I really just wanted to see her happy face.”
+
+Kenkoth barked a laugh and Ren thought he could hear a kind of screech or a cry. He couldn't place where he had heard something like it before, though.
+
+“King Ren.” Diana said, and Ren turned his attention back to her.
+
+“Yes, Princess Diana?”
+
+“Can you stay for a while?”
+
+Ren took out the All-Seeing Mirror and saw Nathalia was still asleep and he didn't feel any distress in their connection. “I can, with the caveat that I may need to leave on a moment's notice.”
+
+Diana smiled and her face almost glowed as he felt her happiness. “Understood.” She said. “We were all about to sit down to eat breakfast.”
+
+“I couldn't possibly intrude...” Ren tried to say, then Diana broke normal protocol and took his hand.
+
+“I insist.” Diana commanded.
+
+Ren thought about protesting, since him being there wouldn't make her father and mother happy. “But...”
+
+“I won't take no for an answer.” Diana said and turned and looked at Kenkoth. “Representative Zaerepis, if you will accompany us?”
+
+“Of course, Princess Diana.” Kenkoth said and motioned to the hallway she had come from.
+
+“Before we go Representative Zaerepis, are your people following us or do you have people there already?” Ren asked, and Kenkoth's head whipped around to stare at him.
+
+“What people?”
+
+Ren didn't turn his head to look as he pointed to the far corner of the room about halfway up the wall. He then pointed straight up to the chandelier, then pointed across the room to just above the receptionist desk there.
+
+“The others slipped back outside as I held the door open when I came in.” Ren said.
+
+Diana wasn't sure what was going on. The places Ren pointed had people somewhat near them that she could see, except for the ceiling above them. She had to assume that he could feel them in the reception room above the lobby, but she thought it was odd he had missed pointing so much.
+
+He should have looked to see where he pointed. Diana thought.
+
+“My people... won't be following.” Kenkoth said and made a small motion with his hand.
+
+Ren thought he could feel something from him; but, he couldn't tell what it was. “Then lead on, Representative Zaerepis.”
+
+Kenkoth walked ahead of them and Ren led Diana behind him, and Artemis brought up the rear. She did her best to not smile as they passed some of the surprised people in the lobby that saw Ren holding Princess Diana's hand.
+
+“That was a little intense.” Teepo said in the voice only Ren could hear.
+
+I actually expected to receive Respect for finding their hidden people. Ren thought in amusement. I guess he's more upset than respectful.
+
+Teepo chittered in laughter. “No doubt.”
+
+They walked through the castle to the main staircase, then went up the stairs and walked back to the large reception area that was above the lobby. Ren saw 11 more people there wearing the same long white tunic that Kenkoth wore, and he activated his Controlled Berserk Rage.
+
+“That won't be necessary.” A woman's voice said and Ren turned his head to look at her as she approached. “We have felt your prowess already, King Ren.”
+
+Ren turned his head back to Diana for a second to whisper. “Excuse me for a moment.” He said and let her hand go, then he turned back to the woman and stepped forward as his Etiquette skill demanded and equipped his armored bodysuit. The representatives interest piqued at its appearance and then Ren saw the woman's slight smile. He dismissed the Respect popup and chose the Hidden Fighting skill he had learned from the wooden sword in Issac's shop.
+
+Notice!
+
+You have entered PvNPC Mode: Display Duel
+
+The woman saw Ren's stance and took her own stance, then she lunged forward to swipe at his head with her fingers. Ren easily pushed the hand aside and ducked, then dodged the followup kick to his side.
+
+Diana gasped as she felt the force of the Wind from both moves. “What are they doing?” She asked as Ren kept dodging the woman's attacks and they moved into the middle of the room.
+
+“A test of skill.” Kenkoth said and nodded to someone across the room. A Magical Barrier of Protection appeared around the center of the room and covered Ren and the woman.
+
+“But...” Diana wasn't sure what was going on.
+
+“It's one thing to be powerful and another to be skilled to use that power.” Kenkoth said. “Usually, when power is gained it is relied on solely, to the detriment of the fighter.” He explained. “Sometimes finesse is needed to deal with opponents and not brute Strength alone.”
+
+The delegates from the Pervaria Kingdom gathered around the magical barrier to be as close to the fight as possible. Although, it wasn't much of a fight. The woman tried to attack and Ren easily dodged all of her attempts.
+
+“Are you mocking me?” The woman asked as she lunged again and missed.
+
+“No, I'm just...” Ren folded himself backwards, almost in half, as her foot breezed by. “...trying not to let you get hurt.”
+
+The woman laughed. “I can feel your confidence.”
+
+“That's because I am confident.” Ren said and grabbed her wrist carefully when she tried to punch him, then he slipped down to the floor and slid through her legs. She looked down as her tunic flopped closed, then she realized too late what he was doing. Ren stood up behind her and pulled. Since he still held onto her wrist, her body flipped over and she was going to hit the floor hard. He cast Permanent Air Walk on her and she stopped just before she hit the floor.
+
+“Wh-what...”
+
+“I'm sorry. I stood up too fast.” Ren said.
+
+The woman looked at her wrist that he held, and she couldn't understand how he could hold her both firmly and gently at the same time. She wasn't going to pass up the opportunity that presented her, however. She yanked on that hand as if to pull herself free, then her body rolled as her feet flew up to strike Ren's chin. He leaned back just enough to let her feet pass, as she suspected he would, and she slid up and over him to land on his back.
+
+“Ha!” She barked in his ear as she wrapped her legs around him and put her free arm around his neck and started to squeeze as she locked her hand around the arm that Ren held. “Your hold is strong but too flexible.”
+
+“I told you I was trying not to hurt you.” Ren said. “If I hadn't shifted my grip, you would have broken your arm.”
+
+“It is a small price to pay to have gained the advantage in a battle to the death.”
+
+“This isn't a battle to the death.” Ren said and her arm squeezed tighter.
+
+“All battles can be to the death.” She said, and he laughed. “Am I amusing you?”
+
+“Unintentionally.” Ren said. “Not long ago I had a duel with another Adventurer, and our battle could never be to the death.” He smiled. “Well, it was actually 3 duels, with each one the best out of 7.”
+
+“What... were you...”
+
+“The circumstances are private.” Ren said, and his desire spiked through her. Both she and the other representatives gasped, and she eased her hold around his neck. “Shall I try to actually fight you now?”
+
+“You haven't been?” She asked, and he felt her surprise.
+
+Ren chuckled and only slightly pulled down on her already held wrist. She winced at the strength and had to let the choke hold she had on him go, just so she could keep the strain off of her elbow. He pulled down a bit more, and she had to slide up and over his head again, then she flipped forward and sat down on the floor in front of him.
+
+“Your head is too high to hit me there.” Ren said and she felt his amusement.
+
+The woman growled in frustration as she leaned against him, and then she felt Ren react to the sound, both emotionally and physically. She was surprised for only a moment, then she held in her smile as she shimmied her back against him and growled a little more. Ren let her wrist go and stepped back from her, and she rolled forward to get farther away from him. When she turned back to look at him, she saw his reaction was profound and felt his confidence waver.
+
+“I believe I have found the weakness in your fighting stance, King Ren.” She said and stood up, then quick as a flash, she took two steps and leaped across the space between them with her hands held up high in a clear grabbing technique. Ren reacted automatically and grabbed both of her wrists to catch her, and he felt how happy that made her. He stared at her face with wide eyes as she completed the move in an instant and swung down from his hold and wrapped her legs around his waist and pressed herself against his pronounced bulge.
+
+She only wore a thin bodysuit, so she ground herself against him and wiggled her hips and stared back at him. She was sure of her win in this fight, since using everything at your disposal to win was a part of their philosophy, then she gasped as his desire burst out and flowed directly into her and then out.
+
+The other representatives had enough composure not to gasp as they felt the flood of desire, and unlike Ren's opponent, they stopped moving. The magic user was glad that he didn't have to keep concentrating on the magical barrier, because all he could think about was the woman beside him. They had been fooling around in secret, and that really turned them on. Their heads turned at the same time and they stared at each other, and their desire joined with Ren's.
+
+“Good god.” Kenkoth whispered as Ren's desire filled the room and wasn't held back by the magical barrier, since it was only intended to stop physical and magical attacks from reaching the crowd.
+
+“Let... go.” The woman fighting Ren almost pleaded.
+
+Ren felt her emotions about needing to get away, so he let her wrists go. She didn't hop away like he expected, though. She instead wrapped her arms around his shoulders and kept staring into his eyes as she kept moving and grinding against him.
+
+“I... will... win.” She panted and ground harder.
+
+Ren felt her determination to defeat him where she believed he was vulnerable, and he let a big grin spread across his face. “I enjoy being underestimated.”
+
+She caught her breath as his confidence overwhelmed his desire and he reached down to grab her backside firmly and helped her move. Her eyes widened as he essentially took over her attack and then he used his other hand to expertly untie her complicated tunic. She gasped when he slid his hand inside to grip her breast and started to massage her, then did the same to her backside while still keeping her moving.
+
+She couldn't stop her own emotions shifting from needing to win to needing to finish. Ren slid his hand from her breast to her back, while still inside her tunic, and he pulled her in close.
+
+“I'm sorry that you were wrong.” Ren said. “I'm the one that's going to win this fight.”
+
+“N-no, I... mhmm!” She moaned as Ren kissed her and poured all of his sexual desire into her. She tightened her arms around his neck and she moved her hips even faster than she thought she could. The people around them couldn't help but add their own desire at the sight, and then Ren felt her getting close. He moved his hand from her back and grabbed her hip, and slid his other hand from her backside and gripped her other hip.
+
+She thought he was going to stop and she held on desperately, and he felt her emotions as they matched her movements this time. He broke the kiss and leaned back slightly and saw her red face, and he smiled as he pulled her gyrating hips away slightly.
+
+“N-No!” She exclaimed at the denial of her satisfaction and tried to pull herself back in.
+
+Ren grinned and pulled her back in to jam her against his bulge, which made her moan, then he did the same motion again several times to essentially dry-hump her, and that drove her over the edge. She finished spectacularly and her body shook as her emotions flooded out to fill the room and covered everyone.

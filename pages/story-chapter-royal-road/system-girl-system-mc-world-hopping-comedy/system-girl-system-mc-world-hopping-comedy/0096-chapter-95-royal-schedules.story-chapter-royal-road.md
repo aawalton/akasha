@@ -1,0 +1,125 @@
+---
+id: 2366b419-a5c8-565b-9707-cb8b9fe1af28
+page-type-slug: story-chapter-royal-road
+title: "Chapter 95: Royal Schedules"
+slug: 0096-chapter-95-royal-schedules
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 96
+ownLength: 1946
+unit: words
+publishedAt: 2026-08-03
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3764978/chapter-95-royal-schedules"
+royalRoadId: "3764978"
+---
+
+Ren sat at the polished mahogany table, nursing a steaming mug of imported coffee. His shoulders dropped an inch as he watched the scene unfolding in front of him.
+
+Lily was thoroughly enjoying her breakfast.
+
+The fluffy, creamy scrambled eggs he had prepared were a hit. She had completely ignored the small, carefully sanded wooden spoon Mira had provided. Lily was eating with fierce determination, shoving the eggs into her mouth one messy, chubby fistful at a time. Her blue overalls were already dotted with yellow crumbs. She let out a contented, bubbling sound around a mouthful of food, looking perfectly at peace in her custom-built high chair.
+
+Caladorel sat across from Ren, quietly sipping his tea. This had become a regular occurrence. As the days passed, the ancient Archmage was settling comfortably into the role of a grandfather figure for the household. He watched Lily’s messy eating habits with a gentle, indulgent smile that completely betrayed his reputation as the nation’s most destructive magical force.
+
+The heavy dining room doors swung open. Sylas entered, his posture impeccable. He carried a silver tray stacked high with letters and official correspondence.
+
+The butler sorted through the pile with swift, practiced movements. He selected a single, particularly ornate envelope and handed it to Ren.
+
+The envelope felt heavy in Ren's hand. It was trimmed with actual gold leaf along the edges, and the thick, red wax seal bore the crest of the Royal Family.
+
+Ren broke the seal and scanned the elegant calligraphy. A slow grin spread across his face.
+
+"Good news?" Caladorel asked, pausing with his teacup halfway to his lips.
+
+"The Seal of Culinary Excellence has been formally approved," Ren announced, setting the letter down on the table. "The establishment is deemed fit for the royal palate. Now, only the formalities of the ceremony remain. The Royal Family will be making an official visit to dine here. They are scheduled to arrive on the first day of the following week."
+
+Ren looked up at Sylas, his brow furrowing slightly as he reread the date. "Why the first day, specifically? The letter makes it sound like a non-negotiable decree. Usually, restaurants are busiest on the weekends."
+
+Sylas paused, realizing his master was still unaccustomed to the rigid, often baffling etiquette of the Dolarian nobility.
+
+"Sir, it is a matter of strict protocol," Sylas explained, his tone shifting into the familiar cadence of a lecture. "In noble circles, the week is heavily structured. The last day of the week is strictly reserved for visiting the temple and observing religious rites. The sixth day is usually reserved for hosting large social events, galas, and balls."
+
+Sylas gestured to the letter. "The first day through the fifth day are designated for hosting guests. These five days are ordered hierarchically. It is common courtesy to invite your most important or highest-ranked guests on the first day of the week, descending in importance as the week progresses."
+
+Ren blinked. "So, Monday is for VIPs, and Friday is for the people you kind of like but don't want to impress."
+
+"Essentially, yes," Sylas nodded. "The King, possessing absolute social and political supremacy, would naturally only accept an invitation for the first day. To offer him any other day would be a grave insult, suggesting you prioritize another lord above the Crown."
+
+Ren sighed, rubbing his temples. The sheer amount of useless, performative etiquette required to survive in this city was exhausting.
+
+"Well, that gives me three days to prep," Ren calculated, looking toward the kitchen doors. He turned his attention back to Caladorel. "On that note, how many family members does the King actually have? I need to know how many plates to prepare for the main service."
+
+Caladorel carefully set his teacup down on the saucer. His attention was finally drawn away from Lily, who was currently attempting to hunt down a stray egg crumb that had escaped her tray and landed on her knee.
+
+"The King himself," Caladorel stated, his voice dropping into a serious register. "His wife, the Queen, and their two daughters. That is the entirety of the immediate royal family."
+
+Ren frowned. He leaned forward, resting his forearms on the table. "The King has no male heir?"
+
+A deep, profound sadness settled over the old elf's features. The lines on his face seemed to deepen, making him look his age for a fleeting moment.
+
+"The Queen did give birth to three male heirs over the years," Caladorel said softly, his gaze fixed on his cooling tea. "All of them lost their lives in a series of tragic accidents before their fifth birthdays. A hunting accident. A sudden, virulent fever. A fall from a balcony."
+
+Caladorel looked directly into Ren's eyes. "That is the official story, at least. But in truth, the Old Circle did away with them."
+
+Ren felt a cold knot tighten in his stomach. He glanced over at Lily, who was happily chewing on a crust of bread, blissfully unaware of the dark reality of the world she had been born into.
+
+"The old nobility want to incorporate their own houses into the royal bloodline," Caladorel continued, his voice tight with suppressed anger. "Historically, tradition dictates that the Queen must be chosen from a neighboring nation to forge alliances. That makes it incredibly difficult for the local lords to inject their blood into the immediate royal family through marriage to the King. So, they are exploiting a legal loophole."
+
+Caladorel traced a circle on the polished wood of the table. "In the event that the King has no male heir, the Crown must marry their eldest daughter to a high-ranking noble born within the country. This man is then elevated to King Consort. He rules alongside the Queen, and the children they have will continue the royal line, Elevating the Consort's house to a ducal household."
+
+The Archmage sat back, folding his hands in his lap. "The Old Circle are actively murdering any male heirs the current King manages to produce to ensure this loophole remains open. There is a vicious, quiet war being waged in the shadows between the major houses right now over whose son will be granted that King Consort status. They are a pack of greedy, murderous pigs."
+
+Ren stared at the table, processing the sheer brutality of the political landscape he had just entered. He had thought dealing with cutthroat supply chains on Earth was bad. This was an entirely different level of corporate espionage.
+
+What are the chances the current King is fully aware of the wrongdoings of these nobles, but is entirely powerless to do anything against them? Ren asked in his mind, the thought heavy with implications.
+
+[Ana: I think he must have caught on by now. Losing three sons to 'accidents' is a statistical impossibility. Or maybe he is an impotent fool himself. For a monarch to relinquish that much power and become a puppet to his own court is absurd.]
+
+It means we are dealing with men who murder children for political gain, Ren replied, his mental voice cold. Greenwood fits right in.
+
+Sylas, who had remained silent during the heavy conversation, continued to sort through the remaining stack of letters. He stopped, his gloved thumb pausing over a thick, dark envelope.
+
+He handed the open envelope to Ren. "Master. This one bears the crest of House Greenwood."
+
+Ren took the letter. He unfolded the heavy parchment and read the short, arrogant script.
+
+"He has invited himself," Ren said, tossing the letter onto the table near his coffee mug. "He states he will be arriving for a private dinner to discuss 'matters of mutual business interest'. On the first day of the week."
+
+Sylas’s jaw tightened. "Ordinarily, if this was anyone else, I would strongly advise you to send him a correspondence stating that a scheduling conflict has arisen. We would shift his visit to the second day of the week. It is common courtesy, and they wouldn't mind the shift if it was due to a higher-ranking noble requiring the first day."
+
+The butler adjusted his glasses, a rare, vindictive gleam in his eye. "In this specific instance, I say let him come."
+
+Ren raised an eyebrow. "You want him here during the royal visit? It seems like an unnecessary complication."
+
+"Allowing a noble to arrive on the first day, only to publicly relegate him to a secondary status behind the King upon his arrival... it is considered the greatest social discourtesy," Sylas explained smoothly. "It is a deliberate, calculated humiliation. It tells everyone in the room exactly where he stands in your hierarchy."
+
+Ren smiled. It was a sharp, dangerous expression. "I agree. Let him come. Let's see exactly what kind of leverage he thinks he has. The social humiliation is just a bonus."
+
+...
+
+The following days where a blur of frantic, highly organized activity. The Seaside Inn was closed to the public yet again. The entire staff was busy executing a deep, meticulous cleaning of the estate for the second time this month. The floors were scrubbed, the windows polished, the curtains pressed until they were stiff enough to stand on their own.
+
+Sylas was the only reason Ren was able to accomplish any of it without losing his mind. The butler knew the intricate, baffling ins and outs of hosting royalty. He knew exactly what the royal tasters would check, how the dining room needed to be arranged, and the proper distance to maintain between the King's chair and the closest servant. Apparently, his education under his previous, cruel employer had been incredibly thorough in this specific regard.
+
+Ren spent the weekend locked in the kitchen. He was prepping the exact same multi-course meal he had served the Royal Taster, ensuring every single component was flawless. He carefully stored the prepped ingredients in his Inventory, locking them in temporal stasis to guarantee absolute freshness for Monday. He also prepared large batches of his everyday, regular delicacies offered in the inn—the chili crab, the ramen, the tacos—just in case the King wanted to sample the food that actually made the establishment famous.
+
+Throughout the hectic weekend, one thing continued to bother Ren.
+
+There had been no letter. No correspondence whatsoever from Lady Parisa.
+
+Late Sunday night, Ren found Sylas in the main hall, finalizing the placement of the floral arrangements near the entrance.
+
+"Sylas," Ren said, leaning against the doorframe, a kitchen towel slung over his shoulder. "I haven't heard anything from the northern border. Is it possible Parisa didn't receive the letter we sent with the ramen delivery?"
+
+Sylas paused, stepping back to analyze a vase of blue flowers. "It is highly unlikely the delivery was intercepted, Master. The military supply lines are secure. However, it takes a fast rider on a good horse a full five days to reach the northern encampment from the capital."
+
+The butler turned to face Ren. "If she received the letter, she would either send a response back immediately, which would take another five days, or..."
+
+"Or she is currently on a mad dash toward the capital herself," Ren finished the thought, dread settling in his stomach.
+
+"Given Lady Parisa's noted temperament and her affection for your daughter," Sylas noted dryly, "I would prepare for the latter. We should likely expect her arrival at any moment."
+
+Ren ran a hand through his hair. "Great. Just what we need. A furious battlemage."
+
+He looked over at the playpen they had set up in the corner of the room for Lily. She was fast asleep, clutching a stuffed crab toy, completely oblivious to the political storm brewing over her head.
+
+"It's all for you, kid," Ren whispered.

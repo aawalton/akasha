@@ -1,0 +1,267 @@
+---
+id: 74e62cd5-587f-5159-8c7d-0fae6aff887f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20 - The Printer"
+slug: 0021-chapter-20-the-printer
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 21
+ownLength: 2180
+unit: words
+publishedAt: 2022-06-11
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/925340/chapter-20-the-printer"
+royalRoadId: "925340"
+---
+
+Eleanor had her hand on the front door handle when she heard a voice behind her.
+
+“Well, don’t you look lovely this morning.”
+
+She jumped. “Eddie!”
+
+The baron was sitting on the front stairs. A half-eaten apple was in his hand, and he was smiling.
+
+Eleanor looked at the ground. “I’m only going on my walk.”
+
+“You don’t usually wear that kind of dress when you go walking.”
+
+“There’s nothing wrong with this dress!”
+
+“Nothing at all. I told you, you look lovely.” Edward stood up and walked over to the side table. After putting down the apple, he picked up his hat. “Shall we?”
+
+“You’re coming with me?”
+
+“Mother said she caught you looking thoughtful yesterday, so I’m not allowed to let you out of my sight.”
+
+Edward had to keep himself from laughing when he saw the bright pink hue in Eleanor’s cheeks. No doubt she would have said she was angry or frustrated, but the baron had a new respect for whoever coined the word “miffed.”
+
+“Snitch.”
+
+“Hardly! You can blame your own face. Besides, I’m more like a faithful guard dog because she also said I was not allowed to stop you. Make of that what you will.”
+
+That seemed to mollify Eleanor. “Oh, all right. Come on then. Or should I say heel?”
+
+He bowed. “At your service.”
+
+When the gate of the mansion was behind them, Edward said, “So where are we really going?”
+
+“Craft Street.”
+
+Edward thought about it. “All right, I give up. Why?”
+
+“I want to talk to the printers. I want to see if I can find who made the invitations.”
+
+“Eleanor, do you have any idea how many printers work in this city?”
+
+“I know that there are three on Craft Street, and that if anyone knows how many printers work in this city, they do.”
+
+Edward hailed a cab. Since it was horse drawn, they had some time to relax before they reached their destination. The baron leaned back in his seat while Eleanor pulled some papers from her pocket.
+
+One of them was an invitation to her upcoming wedding with the master thief. The others were newspaper clippings. Each one showed the face of one of her suitors.
+
+Eleanor looked up when she heard her cousin laugh.
+
+“Where did you get those?” Edward asked.
+
+“Cook keeps the newspapers. She finds them useful.”
+
+“It’s a good thing we are who we are, or you never would have managed to find those pictures—one of the many advantages of being a Serrs.”
+
+Eleanor looked at her collection. “I couldn’t find one of Mr. Penn. Oh, well. If he did commission them himself, I doubt he would have used his real face.”
+
+The baron had several more chances to reflect on the advantages of being a Serrs as they went around Craft Street. No matter what shop they entered, as soon as someone heard Eleanor’s name, the owner personally came to greet them. None of them had done the printing, but they were all so eager to help, each one managed to think up at least five other places she could try.
+
+The morning was long gone and the baron’s stomach was grumbling about neglect before they were able to track down the printer they were looking for.
+
+He didn’t need to hear Eleanor’s name. He guessed it.
+
+“Excuse me,” she called as she entered the shop.
+
+A man stood up from where he’d been leaning over a work bench, consulting with the craftsman seated there. He came toward them. His stained white shirt sleeves were rolled up to his elbows like all the other printers’, and he wore the typical black apron of his trade, but otherwise, he was a bit of an unexpected beast. He was much taller and broader than anyone else they’d met that morning. His voice was gruff, but he politely wished them a good afternoon.
+
+“I’m looking for Mr. Russel,” Eleanor explained.
+
+“I’m Mr. Russel.”
+
+She put the invitation into his ink-dappled hand. “Are you the man who printed this?”
+
+Mr. Russel gazed at the paper for a long time. Then he raised his eyes. When he spoke, he sounded like a grizzly bear trying to whisper. “You’re her, aren’t you? You’re Lady Serrs.”
+
+Eleanor nodded.
+
+The man sighed. As he did, he caught sight of Edward for the first time. “And you?”
+
+“He’s my cousin,” Eleanor said. “Lord Edward Comtess.”
+
+Mr. Russel nodded. “Your Lordship.”
+
+In spite of the polite greeting, Edward could see the man was uneasy. His massive arms were tense, and he shifted his weight around his feet.
+
+The baron made a quick decision.
+
+“Eleanor, will you be all right without me for a minute? I’d be just outside.”
+
+“Yes. Of course. Thank you, Eddie.”
+
+Eleanor tried to communicate her confusion with her expression, but Edward wasn’t watching her. He was watching Mr. Russel. When the baron said he would be outside, he saw the large man relax.
+
+It wasn’t easy for Edward to swing his leg around and take the three steps that brought him back to the door, but he managed it. Eleanor was left alone with the printer.
+
+“This way, please, my lady.” Mr. Russel motioned over to an empty corner of the room.
+
+Once Eleanor was seated, the printer pulled up a bench so he could sit near her.
+
+“That man,” Mr. Russel said, not quite managing to look at her, “he wasn’t a policeman?”
+
+“No.”
+
+His eyes met hers. “And he wasn’t Penn?”
+
+“No, sir. He really is my cousin.”
+
+Mr. Russel nodded, satisfied. Then he said, “Yes, Lady Serrs. I printed those announcements. I wish to god I hadn’t.”
+
+“Why, sir?”
+
+“I read the newspapers. I know what’s been happening.” He rubbed his chin. Judging from the smears of ink on his face, it was a habit. “And I’ve been worried this whole time.”
+
+“You knew they weren’t real?”
+
+“An engagement between Ryce Penn and the daughter of Duke Aubrey-Serrs? Oh, I knew they weren’t real, but I told myself it was only a gag! Then it got serious, and I worried about what might happen to you.”
+
+As he’d been speaking, his voice grew quieter. By the time he finished, his whole demeanor drooped in a full-body frown. Seeing that bear of a printer so miserable made Eleanor’s heart ache.
+
+She tried to think of anything she could say that might distract him.
+
+“May I compliment you on the quality of your work?”
+
+When Mr. Russel looked up in surprise, there was a gentle smile on Eleanor’s face.
+
+He laughed. “You may!”
+
+“They’re beautiful. My friends all commented.”
+
+“Highest quality paper, highest quality work! My headman did the gilding himself.”
+
+“I’m honored you took such trouble.”
+
+“Well, it was an expensive commission.” He hesitated. “All the same, I think I shouldn’t have taken it.”
+
+“Mr. Russel, may I ask you a question?”
+
+“Yes, Lady Serrs.”
+
+She passed him the three newspaper clippings. “Do you recognize any of these three men?”
+
+He returned the photo of Gervase. “That’s Duke Fitzmon’s son.” He considered the others, then handed them back. “Those two look familiar, but I don’t know their names—”
+
+Eleanor felt a blush stinging her cheeks. Of course he would recognize them. He’d said he read the newspapers.
+
+“—but if you’re asking if any of them came into my shop and paid me to print those announcements, the answer is no.”
+
+“Did the man who commissioned them talk to you?”
+
+“I’m always the one you see for jobs like that.”
+
+“Could it have been Mr. Penn?”
+
+The printer made a face. “Who’s to say?”
+
+Eleanor nodded with perfect understanding.
+
+Russel went on, “I wondered because it was done like a criminal might do it. He paid in cash, up front, wouldn’t give his name, and only came twice—once to order them, once to pick them up. But in the end, I decided that it probably wasn’t Penn because of how much it cost.”
+
+“Can you describe the man you saw?”
+
+Mr. Russel said nothing; he only watched her with a slight scowl on his face. By the time he finally answered, Eleanor expected him to say no.
+
+“I’ll tell you what I can, but I don’t think it’ll be helpful.”
+
+“Anything at all. Please.”
+
+Russel blew his breath out his lips and gazed up at the ceiling. “He was younger. Twenty-four or twenty-five. He was shorter than me—”
+
+The printer didn’t seem to notice the incongruent nature of his remark, but it made Eleanor smile.
+
+“—and had brown hair. I didn’t notice his eyes.” Russel looked down at her. “Honestly, he could have been any man you see on the street. I don’t know that I could pick him out of a crowd.”
+
+“His clothes?”
+
+The bear’s brows pulled together. “Now that you mention it, his clothes were nothing special. That wouldn’t stand out, except for the nature of the order. I remember wondering if he could afford it, but then he plopped down this bundle of bills.”
+
+“Was there anything—anything at all—that might distinguish him?”
+
+“I—yes, I think. He had…” The man hesitated, then dashed his finger across his eyebrow. “He had a scar. It was a small thing, right on his eyebrow. The only reason I noticed it was because no hair would grow there, so it looked like his eyebrow was cut in half.”
+
+Eleanor’s heart sank, but she said, “Thank you, Mr. Russel. That’s exactly the kind of thing I was looking for. I appreciate all your help.”
+
+The printer stood up when she did.
+
+“Lady Serrs, will you be all right?”
+
+Eleanor tucked the papers back in her pocket. “I will be. I have a lot of kind people looking out for me.”
+
+“That Mr. Penn won’t bother you?”
+
+“He bothers me a little, but not half so much as he bothers Inspector Haley.”
+
+She’d meant it as a joke, but the printer didn’t laugh. He was looking like a sad bear again. Lady Serrs put a hand on his arm.
+
+“Mr. Russel, please don’t worry about it.”
+
+“I’m sorry.”
+
+“And I forgive you. I really do.”
+
+“Thank you, Lady Serrs.”
+
+He led her to the door. When it opened, Edward, who was sitting on the bench right outside, stood up. The two men nodded to each other as Eleanor passed from the custody of one to the other. The door closed behind them.
+
+As they walked down the sidewalk, Edward asked, “Did you learn anything?”
+
+“I don’t know the man who ordered the invitations.”
+
+“Not at all?”
+
+“Mr. Russel described him well enough I feel sure I could recognize him. But I don’t.”
+
+Edward growled for a moment, deep in his throat. Then he said with forced cheer, “Well, I’m hungry. What about you?”
+
+Eleanor closed her eyes and chuckled.
+
+“You need to feed your poor guard dog more often,” the baron said.
+
+“Should I get you a bone?”
+
+“Anything would be better than starving like this. Come on. I’ll get a cab.”
+
+Edward stepped into the street. He’d gone no more than two steps when he heard a strange sound behind him. All his nerves lit up, white and electric. The guard dog in him knew the noise had come from his charge. He turned.
+
+There were three men. One had his arm clamped around Eleanor’s throat, while he pressed his other hand over her mouth. Another man was facing Lady Serrs. A pistol was at his hip; Edward could see it because the man had pushed his jacket aside to rest his hand on it. The two of them were backing Eleanor between the buildings, while the last man watched the street.
+
+He was the one that saw Edward.
+
+There was no time to reason or think—the baron threw himself at the assailants.
+
+But for all his good intentions, Edward was no fighter. The guard stopped him with a punch to his gut that made the baron feel like he was being hoisted on hell’s lance. When the man removed his fist, Edward dropped to the ground. His opponent stomped on him several times, then, with particular care, he smashed his boot along the baron’s face.
+
+“It’s not him,” the guard said.
+
+“We knew that when he came at you,” the pistol holder said.
+
+“Leave him,” the last man ordered. “We have to get out of here. I had to choke her out.” When his companions turned to stare at him, he grumbled, “She was fighting.”
+
+The two of them made derisive noises, but they followed him back into the alley.
+
+Darkness. Confusion. Noise came in waves that lived and died in lights that made no sense.
+
+Then Edward felt the water. Cold water on his face. And a voice.
+
+“What happened to you, son?”
+
+He squinted until the swirls lined up enough he could make out a face. He didn’t know it.
+
+“They took Eleanor,” he muttered.
+
+“Who?” The face grew more concerned. “Who was taken?”
+
+The baron grabbed the man’s jacket. “Get me to a police station. I have to call Haley. They took Eleanor.”

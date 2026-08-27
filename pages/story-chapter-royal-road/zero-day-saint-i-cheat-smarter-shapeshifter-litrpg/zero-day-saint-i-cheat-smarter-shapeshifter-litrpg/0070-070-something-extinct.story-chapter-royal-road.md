@@ -1,0 +1,177 @@
+---
+id: f085008a-726d-5176-8e61-5b83c58ffcf7
+page-type-slug: story-chapter-royal-road
+title: "070 - Something Extinct"
+slug: 0070-070-something-extinct
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 70
+ownLength: 1812
+unit: words
+publishedAt: 2026-08-14
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3811755/070-something-extinct"
+royalRoadId: "3811755"
+---
+
+I paced along the garage roof. The plan was to just extract these people. But did a Fallen change the priorities?
+
+"Claire, what's the status of the others?"
+
+["At least thirty minutes. They are grouping up, but are at least thirty minutes away."]
+
+"They also shouldn't enter this jungle unprepared," Alex said. "It's not like the zoo itself, but it still messes with your mind."
+
+"How?"
+
+"Makes you very angry. More prone to snap decisions."
+
+"Probably the only reason we haven't been overrun," Inaaya added. "Those creatures attacking each other on the way here. It's also how Sarah got hurt. She got so mad, she wanted to rush to the zoo and attack Nemesis on her own. Luckily she didn't make it very far before she got overwhelmed."
+
+"Nemesis? Is that the Wrath warlord?"
+
+"Yes."
+
+Not entirely constrained to mythological bad guys then. Nemesis was complex and about revenge, but she wasn't depicted as strictly evil. And the fact that punishing Hubris was one of her duties, I decided to book as pure coincidence.
+
+I turned around to the other two, causing both of them to flinch at the sudden motion. "We should party up," I said.
+
+Both relaxed, and Alex walked up to me. I extended a paw to meet his hand and promptly received a party invitation. Once I joined, I could see that Sarah was nearing full health, but had an active potion cooldown. I had wondered if a potion could help. She was already level 16 and a Vanguard. I activated Exemplar Leader.
+
+"Vanguard. Melee shocktrooper?" I asked.
+
+"Yeah. Jumps into the fray and laughs while doing so. Got a big sword, too," Alex said. He also took the cue to stash his sword and to pull his bow out. It wasn't a wooden bow, but a modern one, like the one we'd gotten for Frank—like the one he hadn't ever had a chance to use.
+
+"I like her already."
+
+That caused the two of them to exchange glances again. I had zero idea what they were communicating.
+
+"Was she close to Jai?" I asked.
+
+"Ah, no, that… No, he was definitely not her type. She, Ina, and I worked together at the zoo, and she only knows Jai because of us."
+
+My Sherlock-vision was really lacking on social cues. Only now did I notice the ring Inaaya was wearing. Alex and Inaaya were the glue and deeply tied to the zoo, and Sarah and Jai were the respective siblings. And not romantically compatible.
+
+I shook my head. Not useful data right now. But there was one band-aid we had to rip off sooner or later. Ideally not in a combat situation.
+
+"I know this is probably not the best time, but you should see this before it causes issues later."
+
+I switched out of my current shape into my real one.
+
+They both stared.
+
+A voice came from inside. "Holy shit! This sucked so much." Chat transcribed that as Sarah.
+
+A moment later Sarah poked her head out of the window. She had medium-length blond hair, shaved on one side. She eyed me with a serious expression before she leaned closer to Inaaya. "Is that Nemesis?" she whispered.
+
+Inaaya sighed. "No, Sarah, that is Eve. Claire sent her to help us. She's the one who killed the first warlord." All three kept their eyes on me this whole time.
+
+The blue-skinned guide also looked out of the window. "This looks even worse than I had anticipated."
+
+"Hello, Sarah. Nice to meet you. I'm Eve. Despite everything, I'm one of the good guys."
+
+"How did you do it?" Sarah asked eagerly.
+
+Something had waited for us to be distracted and was using the moment of distraction to approach the building. I heard it slowly climbing the wall behind me.
+
+"Luck got me a potion that made me immune to collision damage. With that and some other tricks, I became a pheasant going mach 4 and turned Mammon's insides to soup. Well, his outsides, too. There wasn't anything left to loot afterward."
+
+Throughout my explanation, I had made eye contact with Alex and signaled to him that there was something approaching. While his sister seemed entirely oblivious to this second conversation, he was quicker on the uptake. He readied his bow as I counted down on my fingers.
+
+The moment the chimera reached the top, I jumped to the side, and Alex' arrow hit it right in the face. I looked over the edge to see the vines down below still pulling in the corpse. And due to my new eye, I could see the remaining life force drain away.
+
+Behind me, Sarah whispered something to Inaaya. This was actually quiet and probably not meant for my ears. "Holy shit. She's so fucking cool."
+
+I blinked down at the corpse. There had been many firsts over the last few days, but this was a special one. In my old life, I had been regarded as pretty darn good. I knew multiple agencies had files on me.
+
+But never, ever, had anyone been starstruck when meeting me.
+
+"My subclass," I said, clearing my throat, "Apex Seeker. It gives me substantial boosts to my perception. Very sharp hearing. Just… so you know."
+
+"Oh shit," whispered Sarah.
+
+I turned to see Sarah climb through the window. She was tall—at least a head taller than I was. And shredded. Not a bodybuilder, but definitely some kind of professional training. Also, her face was glowing red, and she was avoiding eye contact.
+
+Which would have occupied a significant amount of my mental capacity if the entire atmosphere of that jungle hadn't changed in one heartbeat.
+
+What had been chaos before shifted into order. The fighting, the screams, even the buzzing of insects, it all fell into lockstep.
+
+What had protected us was gone. Someone was approaching, and they commanded the chaos.
+
+"We have to run," I said.
+
+The unicorn wouldn't be great for the terrain and far too vulnerable. Also couldn't carry three. The Cape Buffalo would cost nearly all my ATP, and I had zero hope to control its anger in that jungle.
+
+"What's happening?" Sarah asked.
+
+"I can hear it, too," Alex said. "Something changed. Something's coming."
+
+As I went over my options, something strange stood out.
+
+Might of the Meek worked with my new shape. That perk looked at base Endurance. Before the Garmr-touched modifier applied.
+
+"Where is my sword?" Sarah asked.
+
+"Out there," replied Inaaya, nodding toward the jungle.
+
+I pulled out No Quarter and stabbed it into the ground. "Don't let it talk you into anything evil. I got this off a demon."
+
+Then I shifted into the Garmr-touched shape with Might of the Meek active.
+
+It nearly matched the other's shoulder height. I activated Spectral Tackle.
+
+"I think I can fit two," I said over Queen's voice.
+
+"You won't need more. I can keep up," Alex said.
+
+Sarah picked up the sword and looked at me, her eyes gleaming with joy. "This is the most He-Man thing that ever happened to me."
+
+["Throw me inside. I'll observe if this space remains sanctified,"] Claire wrote—prompting an "Oh, hi, Claire," from Sarah and Alex to unceremoniously toss her through the window.
+
+And then there came the growl—a growl from deeper within the jungle. Even in this shape, it went past conscious processing right into the hindbrain, where it triggered pure terror. A terror that evolution had wired into the instincts of every mammal that survived to this point.
+
+"Go, go, go!" I shouted, lowering myself for Inaaya and Sarah. Inaaya waited for half a second before Sarah just lifted her up and jumped on my back with her. "The tack is only for one rider. Hold on tight," I said. "Oh, also, hit accept now."
+
+I hoped they did and leaped off the garage. Before I even hit the ground, I felt the aura hit me. A second earlier, my mind had firmly settled to react to that growl with 'flight.' Now, I was already facing the direction of the sound and growling at the challenger, ready to fight, before I could stop myself.
+
+"Fuck yeah, let's rip that fucker a new one," Sarah shouted. Inaaya did something to cause Sarah to quiet down and say "Ouch".
+
+I forced myself to face the other direction and ran after Alex, who was clearing the overgrown ground like it was a running track.
+
+Just as the building became nearly lost in the greenery behind us, there was movement on my minimap on top of the garage. I twisted my head to take a look to see Devil-Eve holding Claire's fox body right over the edge before she dropped and kicked her like a soccer ball, right into the jungle.
+
+Red dots were approaching from all directions now.
+
+The second we made eye contact, Devil-Eve vanished. Should have killed that bitch when I had the chance to.
+
+I stopped and turned around.
+
+"Cover me!"
+
+With a couple of leaps, I was over Claire. To my right, something that looked like a mix between a panda and some kind of ape swung itself from a tree, right at us. I lowered myself and angled my body, hoping that the sword would cooperate and that Sarah could fend off the assailant.
+
+And fend it off she did. She held out the sword towards the not-panda, and even as it impaled itself on the blade, she pulled it up and sheared cleanly through its upper body.
+
+I carefully picked up Claire while an arrow hit another attacker that was coming from straight ahead.
+
+Under the cover of Alex' arrows, I caught back up with him.
+
+["You should have left me behind,"] Claire wrote.
+
+If I had chomped down right there and then, I don't think anyone would have blamed me. Instead, I growled and twisted my head to hand Claire off to Inaaya.
+
+"You liked that, didn't you?" Sarah said. It took me a moment to understand she wasn't talking to any of us. She was talking to No Quarter.
+
+"No, I shouldn't have, Claire," I said. I didn't know the exact mechanics of her hive mind, but I strongly suspected that one body being exposed to this jungle's aura of wrath meant the entire hive was infected.
+
+There was a roar behind us. Closer than that horrifying growl had been, and so much more terrifying for its proximity.
+
+"Sounds like a tiger," Sarah said.
+
+"That's not the sound of a regular tiger," Inaaya said.
+
+I had a horrible suspicion and cast Seek the Unseen, targeting something extinct and Wrath-touched.
+
+The spell pointed directly toward the source of the roar. I had wanted a tiger shape since the first day. Of course the first one I found was extinct, Wrath-touched, and chasing me.
+
+Fucking monkey's paw bullshit.
+
+There was a Wrath-touched Sabretooth Tiger on our heels.

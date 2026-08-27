@@ -1,0 +1,259 @@
+---
+id: 6ce85593-9a3f-58ae-a00d-724a305daa2d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15: Soft Parts, Sharp Teeth"
+slug: 0015-chapter-15-soft-parts-sharp-teeth
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 15
+ownLength: 1294
+unit: words
+publishedAt: 2025-09-02
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2569041/chapter-15-soft-parts-sharp-teeth"
+royalRoadId: "2569041"
+---
+
+PoV Luna
+
+Luna crouched in the muck, ears flat, eyes locked forward. The swamp was quiet, thick with green breath and damp shadows. Perfect for sneaking. Perfect for stalking. Perfect for snacks.
+
+Across the shallow pool, half-sunken in black water and slime, Muckdrip the Bog-Sweller gurgled.
+
+It hadn’t moved in ten whole minutes. Just wheezed, pulsed, and jiggled.
+
+She could almost hear it slosh.
+
+So soft. So bitable. So juicy.
+
+Luna licked her lips.
+
+Each breath made its belly wobble like spoiled jelly. The light caught the curve of it just right, and her claws flexed without meaning to. Every instinct screamed: Jump now.
+
+But Luna knew better.
+
+This was a plan. A dumb-fect plan. It had steps. She would follow the steps.
+
+She circled it slowly, paws silent in the mud. Shadows clung to her fur. Her tail didn’t wag. Not even once.
+
+Closer. Closer.
+
+The frog shifted just a twitch away, but it was enough.
+
+Now.
+
+She pushed off the bank, [Shadow Step] flickering behind her. Space blurred, vanished, returned. Her paws slapped moss just beneath the beast’s hanging gut.
+
+Time to bite!
+
+She launched upward, mouth wide, teeth ready.
+
+Crunch!
+
+No.
+
+Splash.
+
+She hit something, but it wasn’t flesh. It was… goo?
+
+Her jaws clamped down on a layer of thick, squelching slime. Her momentum died. Her feet slid out from under her, and suddenly she was skidding backwards through frog sweat and swamp moss.
+
+“Glarghblff–!”
+
+She tumbled once, hit a root, and bounced off it with a muddy squawk.
+
+By the time she stopped spinning, Muckdrip was still in the same spot.
+
+Still wheezing. Still wobbling. Still jiggling.
+
+Untouched.
+
+Luna groaned into the dirt.
+
+“Slime armor,” she muttered. “Foul play.”
+
+She peeled her face off the moss and spat out a clump of something green and untrustworthy. Her ears twitched, one flopping lazily to the side. Her whole body felt like a wet sock.
+
+She blinked up at the sky.
+
+"...Okay. Maybe not bite first."
+
+Plan revision: Step one... test belly first. Or maybe attack from the side. Or above. Or just bite really hard.
+
+She picked herself up with a squelch, fur dripping, pride soggy but intact.
+
+“Didn’t die,” she mumbled. “Still counts as progress.”
+
+The system agreed. A soft ping blinked behind her eyes:
+
+【Shadow Step Lv.4 → Lv.5】
+
+Luna’s ears perked.
+
+“Awoo! Progress meat!”
+
+She shook her body out with a shiver that sent water droplets flying. A leech flopped off her leg and landed with a sad little plop.
+
+Her tail twitched, then wagged. Slower, but proud.
+
+That had almost worked. She just needed more speed. More damage. More everything.
+
+But most of all?
+
+She needed to learn how to punch through frog slime.
+
+Luna padded back to the edge of the swamp, still watching Muckdrip’s wobbling bulk from afar. She flopped down into a new patch of moss and stared.
+
+The frog gurgled again.
+
+Luna licked her teeth.
+
+"Next time," she whispered, "your belly will crunch."
+
+The toad bellowed.
+
+Its throat ballooned, round and veined, pulsing with swamp-colored light. The sound rolled like thunder through a tunnel full of water. Trees shook. Birds vanished.
+
+Luna blinked.
+
+Then the world turned green.
+
+Sludge hit her like a falling boulder, cold and wet and fast. It launched her across the swamp and straight into a rotting stump.
+
+Something cracked.
+
+【HP -9】
+
+Luna wheezed, slid down the side of the wood, and hit the muck with a gurgling sound.
+
+Her chest burned. Her ears rang. Her tail twitched once, pitiful.
+
+She pushed up on shaky paws, coughing filth. It clung to her fur, thick as paste, heavier than hunger. Her eyes stung. Her breath tasted like old pond.
+
+But she still breathed.
+
+Still meat-capable.
+
+Luna snarled and flickered once more into Shadow Step – only for the skill to slip mid-cast. The muck grabbed her feet as mana surged. She spun sideways, blinked crooked, and reappeared half-sunk in mud. Face-first.
+
+A shadow of weight smashed into the ground beside her.
+
+The frog's leg. Bigger than her. Too close.
+
+She rolled. Just barely.
+
+A second leg slammed down. Moss and slime exploded upward. Luna yelped and scrambled away, belly low, ribs screaming.
+
+Another blast of muck. She saw it coming this time, if barely, and ducked under. It still grazed her tail. Burned cold.
+
+She struck blindly. Her claws slid off slime. Bit in a panic yet tasted nothing but goo.
+
+No damage, nor progress. No snack.
+
+The frog wasn’t even trying. It just sat and spit and stomped. And Luna was losing.
+
+Her heart hammered in her chest. Her breath came sharp and loud.
+
+This was bad.
+
+Bad plan.
+
+Very bad plan.
+
+Her body screamed to flee.
+
+But her belly growled louder.
+
+Quitting wasn’t meat.
+
+She snarled loudly, and forced her legs to stand. Shaking. Bent. Upright.
+
+The toad turned toward her, its red eyes staring at her lazily, as if it hadn't noticed she was still alive.
+
+It gurgled.
+
+She bared her teeth.
+
+“Mine.”
+
+Her voice cracked, hoarse and low. Filth dripped off her chin. Her tail wagged once, stiff and stubborn.
+
+No more bounce. No more perfect plans. No more tricks.
+
+This was a chew-fight now.
+
+The frog opened its mouth again, and she moved forward.
+
+Slime or not, she would find a way.
+
+Even if she had to bite through the whole swamp to do it!
+
+She crouched low, muscles trembling, breath ragged. Slime oozed from her snout, sticky and hot, dripping into the muck below. Her belly growled, legs quivered, eyes burned.
+
+She had just one chance now.
+
+Luna stilled her tail. Lowered her ears. Let the filth coat her until she was shadow-colored. Breath shallow. Heart hammering.
+
+The muck whispered around her, quiet as thought.
+
+Then she vanished.
+
+Shadowmeld wrapped her in stillness. She became a lump of darkness, an encroaching smear of black. Her body barely twitched as she waited. And watched.
+
+Muckdrip groaned and shifted. The great toad twisted, its bulk rippling like soup set to boil. Slime slid down its sides as it lifted a limb, exposing a patch on its underside.
+
+There.
+
+Near the thigh, right where her claw had torn it earlier, just beneath the slime, pink skin peeked through. Torn. Soft.
+
+Weak.
+
+Her shadow rippled. Magic pulsed through her blood.
+
+【Shadow Step Lv.5 → Lv.6】
+
+Luna surged.
+
+The world bent, shadows spun, and she burst into motion. Her body flickered, then blinked.
+
+And reappeared in mid-lunge, snout-first, fangs bared, aimed like a knife.
+
+She hit the wound.
+
+【Shadowmeld Lv.2 → Lv.3】【Momentum Claw Lv.3 → Lv.4】
+
+Her teeth drove deep, ripping through slick flesh. It tasted like rot and pond water and old regret. Her jaw locked. Her claws tore at the wound.
+
+The toad shrieked.
+
+It thrashed like a thunderstorm, flinging swamp water in all directions. Muck flew. Roots snapped. Air turned wet and wild.
+
+It hurt, but Luna held.
+
+She bit harder. Dug deeper.
+
+She would not let go.
+
+The toad twisted, slammed itself into the ground, rolled over twice, bellowed one last time–
+
+And then stilled.
+
+The world paused.
+
+The swamp held its breath.
+
+Then came the messages.
+
+【Enemy Defeated: Muckdrip, the Bog-Sweller】 【Level Up: 6 → 7】 【Level Up: 7 → 8】 【Strength +2 | Vitality +2 | Dexterity +1 | Intelligence +1】 【Bite Lv.9 → Lv.10】 【Pain Resistance Lv.1 → Lv.2】 【Gluttonous Soul 4% → 5%】 【You bit a frog so hard it died. Consider therapy.】
+
+Luna didn’t laugh.
+
+She flopped onto her side, chest heaving, ears limp, side hurting, and tail twitching weakly through the swamp grass.
+
+Mud soaked her fur. Her mouth still tasted like pond death.
+
+And she chewed. Slow. Steady. Focused.
+
+It wasn’t good meat. It was awful.
+
+But it was hers now!
+
+And her belly gurgled in approval.

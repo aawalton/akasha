@@ -1,0 +1,567 @@
+---
+id: 19c8e0f9-bd5c-5dc4-8925-d14ebde20c80
+page-type-slug: story-chapter-royal-road
+title: "Chapter 141: Of Communion and Roads That Look Back"
+slug: 0144-chapter-141-of-communion-and-roads-that-look-back
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 144
+ownLength: 3092
+unit: words
+publishedAt: 2026-07-15
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3681774/chapter-141-of-communion-and-roads-that-look-back"
+royalRoadId: "3681774"
+---
+
+PoV The Novice
+
+The body was a door.
+
+That was the first lesson.
+
+Not a prison, possession, nor a crude vessel to preserve until age hollowed it out and death claimed the rest.
+
+The body was a door.
+
+A threshold of meat, blood, bone, breath, and fear.
+
+The novice repeated the words silently while kneeling before the black stone basin. His hands trembled, but he kept them open over the carved rim as instructed. Blood dripped from the fresh cuts across his palms, each drop falling into the basin with soft, wet taps. The runes carved within filled more and more with every offering.
+
+Around him, the hidden chamber breathed incense and smoke.
+
+The old shrine above had collapsed generations ago, leaving broken stones, moss-choked steps, and weathered carvings no traveler bothered reading anymore. Beneath it, the passages remained: cramped, wet, and deep enough to hide the work from eyes that would only profane it.
+
+Unfortunate, but necessary.
+
+Nonbelievers did not take kindly to the Lords’ glorious work.
+
+The faithful endured that blindness for now.
+
+For the day would come when the blind would see!
+
+Stone corridors twisted under the hill in angles no sane builder would have chosen, through chambers where roots pressed through cracked ceilings and rainwater slid down walls carved with scripture older than the current kingdoms. The cultists had chosen the ruin because it was forgotten, sheltered, and close enough to the roads for offerings to be gathered without drawing too much attention.
+
+A hidden place for their holy work.
+
+“Again,” said Mother Vaelis.
+
+The novice swallowed.
+
+“The body is a door.”
+
+“And pain?”
+
+“The hand upon the latch.”
+
+“And fear?”
+
+“The breath before opening.”
+
+“And devotion?”
+
+The novice’s voice steadied.
+
+“The will to step through and let the Lords in.”
+
+Mother Vaelis smiled.
+
+The black growths along the left side of her jaw shifted with the expression, ridged and glossy beneath the candlelight. They climbed from collarbone to temple, surrounded by holy scripts, like layered bark, bone, and horn woven into flesh by careful hands.
+
+A gift from the Lords, to remake the parts once lost.
+
+She wore it with pride.
+
+The left side of her face had been ruined before the Lords answered her. Blade, fire, or old cruelty; the novice did not know which, and he would never ask.
+
+It did not matter.
+
+The Lords had remade what mortal hands had taken. They had filled the broken place with something stronger, darker, and more beautiful than flesh alone.
+
+Holy script framed the gift in tight spirals, carved from her collarbone up the side of her throat and along the edge of her cheek. The lines were too dense to read all at once. Looking at them too long made the novice’s eyes ache and his thoughts slide sideways. The words burned. They wanted to be understood by something deeper than sight.
+
+He lowered his gaze.
+
+Mother Vaelis noticed.
+
+The novice bowed his head, and only then did she take his wounded hands between hers.
+
+Her fingers were warm.
+
+Too warm, bordering on scorching. Her gift ran deeper than flesh.
+
+The chamber quieted as she guided his palms into the basin.
+
+The blood inside stirred.
+
+The novice gasped as the surface rose around his fingers, climbing too high, too eager, clinging to his skin in thin black-red threads. He tried not to pull away.
+
+He almost succeeded.
+
+Mother Vaelis tightened her grip.
+
+“Do not turn from their love.”
+
+The novice went still, even as the threads slid beneath his skin.
+
+His breath broke.
+
+For one terrible, glorious moment, he felt the runes answer.
+
+Pain was only the latch.
+
+There was pressure behind the door.
+
+Something vast leaned close enough to notice him.
+
+The carved lines in his palms filled black. Then deeper than black. The script climbed beneath his skin in thin branching strokes, finding the cuts, the blood, the places he had opened properly. Heat flooded up his arms so sharply that his breath caught in his throat.
+
+Power followed.
+
+Not much, only the first touch.
+
+But it was proof the path was true, the Lords did answer their prayers!
+
+His fingers flexed against Mother Vaelis’s hands, and the stone rim beneath them cracked with a soft, beautiful sound.
+
+A murmur passed through the chamber.
+
+The novice stared, shaking.
+
+Mother Vaelis smiled wider.
+
+“They listen,” she said.
+
+His eyes filled with tears.
+
+“They listen.”
+
+“And?”
+
+His voice broke.
+
+“They care.”
+
+A pleased sound moved through the faithful.
+
+A devotee behind him began the low hymn, and the others joined one by one. The sound filled the chamber without rising above a murmur. It pressed against the walls, slipped through old carvings, and sank into the floor where the larger circle waited.
+
+The novice wanted to keep staring at the new script beneath his skin, but Mother Vaelis turned his hands gently, making him look toward the center of the chamber instead.
+
+“Do not hoard wonder,” she said. “Offer it.”
+
+At the center of the circle lay three bodies.
+
+Not dead.
+
+Not yet.
+
+Their mouths had been bound with linen soaked in bitter herbs. Their limbs were fixed inside bronze braces that held them in the proper position. Symbols marked their chests, their eyelids, their throats, and the soft places beneath their ribs where breath trembled closest to the skin.
+
+Traveling nonbelievers.
+
+A guard, a pilgrim, and a man who had carried merchant papers and thought a sword at his hip made him prepared for lonely roads.
+
+They had all been Anointed.
+
+Opened up and made ready for the Lords.
+
+The man with the merchant papers wept silently beneath his gag. The pilgrim had stopped fighting the braces, though his eyes still moved too quickly under the painted lids. The guard watched the faithful with the fixed, furious terror of someone who still believed their rage could help.
+
+The novice pitied them for their ignorance.
+
+They had been brought close to grace and could only tremble before it, like animals hearing thunder. They will feel their grace before death.
+
+Mother Vaelis guided the novice’s bleeding hands over the circle’s outer groove.
+
+“Fear calls,” she said.
+
+The novice repeated it.
+
+“Fear calls.”
+
+“Blood marks.”
+
+“Blood marks.”
+
+“Breath opens.”
+
+“Breath opens.”
+
+“And devotion?”
+
+The answer came even easier now.
+
+“Devotion lets the Lords in.”
+
+His blood fell into the groove, and the circle drank.
+
+The three bound bodies arched at once.
+
+The guard strained hard enough against the bronze braces that something in his shoulder gave with a wet pop. The sound made the novice flinch, but only slightly.
+
+Mother Vaelis did not rebuke him.
+
+Across the chamber, Brother Halven adjusted the third body’s brace by half a finger’s width. The correction stopped the man’s shivering from disrupting the line of the circle.
+
+Brother Halven’s hands moved only long enough to make sure the braces held the struggling bodies in place. After that, even he stepped back.
+
+The hymn deepened, and the script carved into the faithful answered.
+
+All around the chamber, beneath sleeves, collars, loosened robes, and exposed skin, the holy runes woke one after another. Lines cut into arms filled with ember-dark light. Words carved across ribs wriggled, pulsing through thin cloth. A woman near the candles tilted her head back as the scripture along her throat shifted beneath, breathing through her skin.
+
+The novice’s eyes watered as he looked at them.
+
+The marks were too much. Too sharp. Too alive. They dragged meaning through his gaze faster than thought could follow, until the chamber seemed full of open mouths whispering without sound.
+
+But he did not look away.
+
+Every answered rune was proof. Their Lords were beyond the boundary, and still they heard. Still they reached. Still they pressed love and power through any flesh willing to open properly.
+
+The incense curdled.
+
+And the circle struck back at the offerings.
+
+The hymn broke apart as every candle flame snapped flat against its wick. The blood in the grooves darkened too quickly, turning thick and clotted before the circle could drink it cleanly.
+
+The bound guard spasmed hard enough for the bronze braces to scream against stone. His eyes flew open beneath the painted lids.
+
+For one heartbeat, the symbols on his chest answered like the others.
+
+Then something moved wrong beneath them.
+
+A thread of black-green corruption crawled up through the carved mark beneath his ribs, thin as a vein and ugly as rot under glass. It had hidden deep. Beneath fear. Beneath blood. Beneath the bitter herbs and washing rites. Deep enough that none of the tests had caught it.
+
+The novice felt the chamber’s wonder curdle into horror.
+
+The presence beyond the circle recoiled with anger, felt whether one looked on or not.
+
+It was nothing so small as language.
+
+The anger slammed through the chamber like a door opening onto a furnace. Every rune carved into faithful flesh burned at once. The novice cried out as the new script in his palms flared bright enough to blind him. Around him, robes shifted, bodies buckled, and several cultists dropped to their knees beneath the force of their Lords’ displeasure.
+
+The corrupted guard screamed through his gag.
+
+His body swelled against the restraints, the filth finally showing its teeth.
+
+Mother Vaelis snarled.
+
+“Cut it out.”
+
+Brother Halven moved before the words finished.
+
+His ritual blade flashed once across the guard’s throat, then again through the corrupted core under the ribs. The body convulsed, blood spilling black at the edges where the contamination had nested. The circle shuddered, rejecting the offering so violently that two carved grooves cracked across the floor.
+
+The novice stared at the ruined offering, shaking at the polluted threshold.
+
+A gift fouled before it could be given.
+
+Mother Vaelis’s face twisted with fury, the black gift along her jaw tightening until the holy script around it pulsed.
+
+“The Corrupt have learned to hide even deeper.”
+
+But this was not the first time.
+
+That was why the chamber held more bodies than the circle required.
+
+Mother Vaelis turned toward the side passage.
+
+“Bring the others.”
+
+Acolytes rushed to obey.
+
+The novice remained on his knees, palms burning, breath shaking in his throat.
+
+He understood now.
+
+The Corrupt were not merely defilers. They were thieves hiding rot inside offerings meant for the Lords. They crept beneath skin, beneath blood, beneath every test the faithful knew, trying to poison the threshold before it could open.
+
+And still the Lords had noticed.
+
+Still they had answered.
+
+Their anger filled the chamber like heat from a black sun, terrible and glorious, pressing through every rune carved into faithful flesh. It hurt. It seared. It made the novice’s thoughts tremble apart.
+
+But beneath the anger was attention.
+
+Proof that the Lords saw them.
+
+The Lords cared enough to be displeased.
+
+The novice bent lower until his forehead touched the stone.
+
+His tears of wonder struck the floor between his hands.
+
+The world above could whisper about disappearances, old ruins, and unsafe roads. Let it be blind. Their holy work would continue.
+
+Down here, beneath stone and scripture, the boundary was thinning.
+
+The Lords were close.
+
+And the novice would help them get closer.
+
+***
+
+PoV Syliana
+
+They followed the thread of disappearances the next morning.
+
+Leading southwest.
+
+Syliana had no intention of dragging Luna through every rumor simply because an old friend had pointed at a map and frowned. But the village had given her enough to justify the route. Too many conversations bent in the same direction. Too many travelers chose longer paths without wanting to explain why.
+
+So southwest they went.
+
+Luna accepted the decision easily enough once Syliana explained there might be something ugly to find at the end of it.
+
+A dreadful proposition for any other merely caused the wolf girl’s ears to perk up.
+
+“Ugly-biting investigation!”
+
+“Investigation first.”
+
+“Then ugly biting!”
+
+“Possibly.”
+
+“Hehe!”
+
+That was apparently settled.
+
+The road south made Syliana increasingly certain Ferric had not sent them here because of a single rumor. But being actually here… things didn’t need much interpreting.
+
+People were avoiding it, though not completely.
+
+That would have been obvious. A dead road meant everyone knew the danger and agreed to stay away.
+
+This road was worse.
+
+It was still being used by people who clearly wished they had another choice.
+
+A merchant wagon passed them with a fresh gouge running along one side, deep enough that someone had hammered a plank over the damage in a hurry. One guard sat beside the driver with a loaded crossbow across his knees. Another kept looking back at the trees even after the wagon had passed.
+
+Syliana looked at the trees the guard’s eyes were pointed at.
+
+“Hum-awoo.”
+
+Luna hopped over a root with both hands raised out to the sides.
+
+“Hop hoppity hop!”
+
+Syliana blinked once.
+
+The guard stared at Luna for half a breath, then went back to watching the trees.
+
+…That told Syliana more than she liked.
+
+Even Luna being Luna was not enough to pull fear loose from whatever waited beyond the road.
+
+A little farther on, the ruts thinned. Thinner than they should have been for a trade route feeding a river town.
+
+People were still coming, but fewer were willing to come twice.
+
+“Hop.”
+
+Luna cleared a flat stone.
+
+“Hop hop!”
+
+Another.
+
+“Hoppity superior paws!”
+
+“Please do not trip over your own investigation.”
+
+“Impossibru! Luna has superior paws!”
+
+Pfft.
+
+…Syliana let the answer pass.
+
+The side paths bothered her more.
+
+Three travelers took one before midday, choosing a route that would cost them hours for no visible reason. They did not look back until they were already between the trees. They clearly knew to avoid the main route.
+
+“Hum-awoo. Tactical hop.”
+
+A branch cracked under Luna’s landing.
+
+Syliana looked over.
+
+Luna looked down at the branch.
+
+“…Branch weak.”
+
+“Clearly.”
+
+A few miles later, they found the broken handcart.
+
+One wheel had cracked. The cargo was gone, but not cleanly. A split sack of grain bled into the mud, half-eaten by rain and birds. Something had dragged through it afterward, leaving a smeared trail into the brush.
+
+Luna stopped hopping.
+
+Syliana stopped watching the road.
+
+The wolf girl crouched beside the grain and sniffed.
+
+“Old.”
+
+“How old?”
+
+Luna did not answer immediately.
+
+She followed the smear with her nose, stepping around the broken wheel, then leaned toward the brush where the trail vanished beneath wet leaves.
+
+“Hum-woo,” she said at last. “Rain sat on it!”
+
+Syliana waited.
+
+Luna’s ears angled uneasily.
+
+“But not old-old,” she tried counting on her fingers, got to five, and gave up. “...Uhh, birds came after! People did not.”
+
+“...So, less than a week ago then,” Syliana tried very hard not to smile, but she was sure she failed.
+
+Luna was just too precious.
+
+Ah, but more importantly.
+
+The cart had been abandoned and ransacked. No one had come back to recover what remained, even though the cart lay close enough to the road that any passing traveler could see it.
+
+Luna sniffed the brush again.
+
+Then recoiled slightly.
+
+“Bad.”
+
+“Corruption?”
+
+“Yesh.”
+
+Syliana’s hand moved closer to her weapon.
+
+Then Luna frowned harder.
+
+“…But weird.”
+
+Syliana went still.
+
+“Weird how?”
+
+Luna’s nose wrinkled.
+
+“Dunno. Too many.”
+
+“Too many what?”
+
+“Things.” Luna pointed one finger toward the brush. “Smells like many things, but only one trail.”
+
+Syliana looked at the trail again.
+
+The rain had blurred most of it, but not all. Beneath the smeared grain and churned mud were impressions that did not belong together. A deep clawed mark beside something heavier and rounded. A drag line that appeared, vanished, then appeared again at the wrong angle. One crushed patch of grass at shoulder height against the brush, as if something broad had forced through there without moving like any animal Syliana knew.
+
+And it was just one creature.
+
+Wrongly assembled.
+
+The reports they got in Altracia shifted in Syliana’s mind.
+
+Corrupted beasts, missing travelers.
+
+Chimera rumors that had been too thin to trust on their own.
+
+Ferric had not sent them on a goose chase, after all. Someone clever, cruel, and ambitious decided a single monster was not enough.
+
+She just hoped they would be enough to handle whatever it was.
+
+Luna looked up at her.
+
+“Follow?”
+
+Syliana wanted to say yes.
+
+The trail led into the brush, away from the road, away from witnesses, and toward a creature that had already frightened armed travelers into abandoning cargo. Following it now would give the thing every advantage.
+
+“No,” she said.
+
+Luna’s disappointment was immediate and easily measured by how low her tail dipped.
+
+“But ugly!”
+
+“Yes.”
+
+“Bite ugly!”
+
+“After we know where it lairs.”
+
+That made Luna pause, consider with a cute ‘uh-woo!’, then she nodded, solemnly.
+
+“Strategic biting, Apex Predator biting.”
+
+“Yes, exactly.”
+
+Luna rose, gave the brush one last suspicious look, and hopped over the broken wheel.
+
+“Later hop!”
+
+By midday, the little warnings no longer needed searching for.
+
+Fresh protective paint marked a roadside shrine. Iron charms hung from the branches above it, cheap and badly tied. Yet the offering bowl beneath the shrine sat empty. People wanted protection but no longer trusted stopping long enough to ask for it properly.
+
+Luna sneezed beneath the charms.
+
+“Bad metal.”
+
+“It is supposed to ward things off.”
+
+“Bad at job too!”
+
+Syliana looked at the empty bowl, the rushed paint, and the road bending toward the town beyond the next rise.
+
+“Yes,” she said quietly. “That it is.”
+
+The town sat around a narrow river crossing, newer houses pressed into the bones of older stone. Broken arches stood beside the market road. A cracked tower rose from the northern district, older than the current walls and watched by every guard who pretended not to watch it.
+
+The gates were open, though the guards did not look relieved to see travelers arrive.
+
+One of them gave Luna a long look, hand tightening around his spear before he forced himself to stop.
+
+Syliana stepped slightly ahead before Luna could decide this was a social problem.
+
+“We’re looking for lodging,” she said.
+
+“And work?” the guard asked, looking at her adventurer badge. Too fast.
+
+Clearly hopeful.
+
+Syliana noted that carefully.
+
+“Information first.”
+
+The guard’s mouth tightened.
+
+Then his eyes flicked toward the northern district.
+
+There.
+
+Luna noticed too.
+
+Her nose went still.
+
+That worried Syliana more than a growl would have.
+
+“What did you smell?”
+
+Luna looked past the gate, toward the broken tower and the old stones clustered behind the roofs.
+
+“Same bad.”
+
+“Corruption?”
+
+“Yesh.”
+
+She paused.
+
+“Many-things bad.”
+
+…Indeed, Ferric’s gut was still reliable.
+
+They entered the town.

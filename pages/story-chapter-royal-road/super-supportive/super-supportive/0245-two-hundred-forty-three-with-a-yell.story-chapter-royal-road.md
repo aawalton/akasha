@@ -1,0 +1,291 @@
+---
+id: 6143a7da-0a08-537b-88fb-6396907016c8
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED FORTY-THREE: With a Yell"
+slug: 0245-two-hundred-forty-three-with-a-yell
+partOf: super-supportive
+position: 245
+ownLength: 3711
+unit: words
+publishedAt: 2025-09-11
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2591302/two-hundred-forty-three-with-a-yell"
+royalRoadId: "2591302"
+---
+
+243
+
+******
+
+The master of the house, the neighborhood, and the golden retriever often revised his initial rating of his Saturday morning show after some time had passed. This revision was usually positive. An episode interesting enough to linger in his thoughts was a good episode.
+
+On the Saturday night after Episode #473 was created, Elias emerged from his workshop on the top floor of the house and descended the stairs with a shallow black case in his arms. The keys he had made that afternoon were within it, each of the small circular devices perfectly placed in its own slot. A drone waited on the front stoop with an identical, but empty, case in its compartment. Elias swapped the cases and watched the drone lift off. It flew toward the infogear factory, one yellow light blinking in a dark sky.
+
+This routine had been repeated for many nights and would be for many more.
+
+“Daunting.”
+
+He closed the door, then went into the living room. When he flopped onto the sofa, the dog, paws wrapped around a stuffed toy, thumped its tail in greeting.
+
+“MBF,” Elias said after several minutes spent gazing at the light fixture, “revise the rating on this morning’s episode. Eight out of twelve is too low for Alden. For keeping my mind engaged during tedious work this afternoon, let’s give him…”
+
+MBF waited silently.
+
+“He went to the Rabbit Welcome tonight?” asked Elias.
+
+“He did.” MBF’s voice spoke in his ear.
+
+“I’m sure he was invited to participate in almost every one of the follow-up events. Rabbits do love pulling the significant young ones deep into the fold as soon as possible. Is he currently at a dance, a dinner, or whatever the special after-gathering is this year?”
+
+“He left Nautilus Needle at 9:28 PM,” said MBF. “He’s currently approaching the Celena North Campus.”
+
+“Show me the clip of him with the friend from Chicago…name?”
+
+“Jeremy Levi.”
+
+“Show me Jeremy and Alden outside Bridget’s shop again.”
+
+One of the screens he’d used earlier dropped down from the ceiling, and a ten-second-long clip of two teenagers walking into the largest Wright store in Apex appeared.
+
+Jeremy was teasing Alden about being an Adjuster geek who’d forgotten he had a spell impression.
+
+“Alden is rolling his eyes like he might have heard this more than once. And it sounds like part of a longer conversation they’ve been having,” said Elias. “Do we have more like it? Something else from around the same time?”
+
+“They spent a significant amount of time at North of North prior to this.”
+
+“Ah. Even if we could somehow persuade the gym to let us record, the members there wouldn’t be caught dead wearing infogear.”
+
+“A few of them have ordered pieces recently,” said MBF.
+
+“I can’t say I’m delighted about our increased popularity given the reason for it.”
+
+Elias drummed his fingers on the tops of his thighs while he thought. “A boy who wants to be an Adjuster superhero gets Chainer and trades it for Rabbit…and afterward, he relishes neither the perks of Rabbit society nor his spell impression…
+
+“The most likely explanation I’ve come up with so far is Aulia’s obscenely reckless wordchain. I’m not ruling out the possibility that Alden was five minutes away from trading Chainer for Adjuster on the eve of the Elber girl’s memorial service when a live rabbit crossed his path—spotlighted by a moonbeam breaking through heavy clouds—and he took it as a sign from God, not realizing it was just a set-up to make him the delivery boy for Aulia’s little killer. By the way, is anyone suspicious about that situation beyond the expected amount?”
+
+“Not to my knowledge,” MBF replied. “Those who knew Manon Barre well enough to find her absence and lack of communication strange are the ones who knew her well enough to suspect that questioning it might be dangerous for them.”
+
+“I see. And Aulia couldn’t have arranged a more effective cover-up than the one we just endured. A wealthy Rabbit not returning to Anesidora after a deadly disaster in which the System showed a relatively low interest in protecting her class—even Archie wouldn’t bother looking into it. Are we sure Aulia didn’t drown the country a little bit on purpose to protect Hazel?”
+
+“It isn’t likely that—”
+
+“I was joking, of course, MBF.” He looked at the clip frozen on the screen, focusing on Alden’s face. “I almost want to tell him how perfectly he vanquished his enemies. When Aulia called to request we block access to any suspicious records of Hazel, the information you put together about how it had all come to pass painted such an elegant path of cause and effect.
+
+“Somehow, during Alden’s first assignment as an Avowed, Manon Barre makes an error, and he obtains a piece of her truth. He keeps it to himself. After he finally lands on Anesidora, he continues keeping it to himself for weeks. He is, apparently, waiting for her to be away from Earth so that she can’t respond to his attack. Then, when he decides it’s time, he informs.” Elias clapped his hands together once. “Based on the activities of her underlings around then, I think he even had some theories about their hierarchy and the limitations of her control over them that he was trying to leverage by staggering the release of his knowledge. I’m sure he was ignorant of many things, but he was correct about enough to wound her.”
+
+Elias extended his index fingers and began to draw one slowly through the air toward the other. “Manon returns to find her people upset and her power threatened. Angry and under stress, her flaws strengthen, and her self-control weakens. And that’s when Alden attacks Hazel Velra with the same weapon—damaging, damning truth.”
+
+His other finger began to move. “Hazel has been made fragile by the pressures of her family, her disappointing rank, and her genius. When the boy’s accusation forces her grandmother to publicly scold her, she shatters. And Manon, not at her best, is too eager to pick up a broken Velra. She must think she can use Hazel without getting cut.”
+
+His fingers met.
+
+“She was wrong about that. And she was the only person positioned to understand how it all came to pass. She had much more information than you and I. Do you think in her final moments she gave him any credit for it? If she and Hazel hadn’t offended Alden’s sense of right and wrong, they wouldn’t have ended up in that room together.”
+
+He dropped his hands.
+
+“Well, I’ll give him credit for it. One belated point for that incident, because I’ve enjoyed thinking about it even if it wasn’t part of today’s show. Victory through the acquisition and release of secrets deserves at least that much from the Informant. Let’s see…only one point more for the mystery of why he picked his class. His discovery of a skill that’s limited to a single user could have been the result of Gloss effects on that day, but if that’s what happened, it would still be interesting to understand why it all needed to end up as it has. I can tell from the way you presented that puzzle that you don’t have a likely answer for how he might have ended up with that class and that skill. Am I mistaken?”
+
+“You are correct,” said MBF. “There are many possibilities based on my collected knowledge of him. None of them are likely occurrences or perfect matches for what is already known.”
+
+Elias nodded. “But you do think you know something worthwhile about him that I might enjoy figuring out, don’t you? That one tantalizing moment you put at the end of the show. The final scene. Show it to me again.”
+
+In the clip that appeared before Elias a second later, Alden Thorn walked along a street in F-city, a plastic rain poncho preserved by his skill protecting him from the howling storm that was keeping the sidewalk and street mostly empty.
+
+The scene had been captured by an infodrone struggling to return to an owner who wore a matching infowatch. The image wobbled wildly. The sound of Alden’s laughter and the single word he spoke had not been recorded.
+
+His smile was brilliant, and the show ended on it.
+
+“I appreciate the opportunity to practice my lip reading, MBF,” said Elias, “and I don’t mind you making it a bit too obvious which part you think I’ll have the most fun with. A single, very significant word is most likely to be a proper name. And look at his face! He’s either receiving excellent news from the person he’s talking to, or that person is one he likes very much. Don’t tell me if I’m wrong…the name is Stuart. And Stuart is someone Alden Thorn considers himself close to. You believe that you know who Stuart is and that I know enough to eventually figure it out myself even though you’ve given me almost nothing that seems to be connected to this in the rest of the show.
+
+“And naturally, the answer must be important enough to earn its spot as the finale…without being so urgent that you’d just tell me to save time.”
+
+MBF didn’t respond.
+
+“Thank you. You know I hate spoilers. Have the name Stuart appear on my calendar at random intervals so that I’m reminded of this. One more point for how much I’ll enjoy coming up with the answer. That’s eleven out of twelve for the episode. Give Alden the standard thank you present for being this week’s star.”
+
+“Requests for information about him will be denied for eleven months, starting now,” said MBF. “I will remind you when the lock expires.”
+
+******
+
+******
+
+[…What I’m saying is that I nearly criticized that person in Artonan. First the gokoratches, now this. Your influence on humanity is getting more powerful every day.
+
+I assume you’re still resting. I will be, too, as soon as Lute stops composing music in our kitchen. One of his instructors finally got annoyed with him for skipping so many classes this term and said he couldn’t have an A. That’s the highest grade on our student ranking scale. Since it’s a music class, he’s mad about it, so he’s creating a song using his harp and nontraditional instruments for extra credit. When I walked in, he was recording the sound of potato chips falling into the sink.
+
+He says he’s almost done.
+
+I hope you wake up to a day that’s easier than yesterday.
+
+Goodnight from Earth.]
+
+Alden yawned, sent the message to Stuart, and spent a minute listening through one ear to all of the kitchen drawers being rapidly opened and closed.
+
+How did I lose just one of my good ear plugs? Shouldn’t it be both or neither? Did I swallow it in my sleep?
+
+The dorm’s loosely observed quiet period wouldn’t start for almost an hour, so it wasn’t just Lute being noisy. Someone up on the third floor was shouting out of his window because that was obviously the best way for an Avowed to communicate with his sister in the girls’ building.
+
+It was fine. Bed was comfortable. He was thinking Boe might text him soon, since it was two hours later in Illinois, and Boe could at least shoot a message before he went to sleep.
+
+And Alden did feel like he had a few things he wanted to say to other people. Finding the right words might take a while.
+
+[Dear Ryada… ]
+
+[Ryada,]
+
+[Hi there, Ryada-bess!]
+
+Alden wove his auriad through his fingers while he watched his interface, where his message was failing to magically write itself.
+
+I’ll let the hardest one marinate in my subconscious while I send a different one. Maybe that’ll do it.
+
+He started one to the faculty advisor who needed to sign off on his classes for next quarter. It would only take a minute or two.
+
+******
+
+[Boe:  Hey. You up?]
+
+[Alden:  Hey! Finally. I’m awake. Turn on video to see something awesome.]
+
+Boe appeared. Still in day clothes, he was sitting on the floor with his back against his bedroom door. “I see you’ve found your way back to your dorm room. Truly, that is awesome.”
+
+[Alden:  You’re supposed to be admiring my light source. I can’t hold it much longer.]
+
+He moved his auriad around, looking away from his friend’s face so he could concentrate on the light he’d called. The beam was tight. It would be neat if he could just…
+
+“Crap.”
+
+[Boe: It went out.]
+
+[Alden:  I wanted to make it more diffuse. Like a glow. It’s a spell that seems adjustable. The first time I cast it, I think I almost set my room on fire, which wasn’t anything like what my book described. It’s more demanding of me than I expected, too. I’m not strong enough to keep it up for long. I think because of what it is… ]
+
+“Sorry, I’m rambling on aren’t I?” He let his auriad wrap itself back around his left wrist. “What have you been up to all day?”
+
+“You can ramble. I’m interested even if it’s not something I can understand the way you do.”
+
+[Alden:  I’m calling on the memory of light that’s filled this space previously. Isn’t that wild?] He tucked his hands behind his head. “There, my ramble is over. Your turn.”
+
+“Went to breakfast with Jeremy,” said Boe.
+
+“Hash browns!”
+
+“Reuben sandwich.”
+
+“That’s a fine choice, too. Not normal breakfast food, but I used to puree chaos-altered lettuce and cover alien rice and beans with it, so who am I to judge?”
+
+“Yum.”
+
+“Natalie owes me cinnamon rolls. I’ll try to keep one hidden for you in the freezer while I wait for a package teleport slot, but I can’t promise. What was the rest of your day like?” He waited.
+
+“Alden, are you really thinking you won’t do the superhero thing like you always wanted?”
+
+Alden blinked. “I thought we were on you now. Why do our conversations keep going back to me? I was about to ask you some stuff about your own plans.”
+
+Boe shook his head. “Are you sure I’m not screwing that up for you?” [By being what I am.]
+
+Alden couldn’t tell if Boe was very worried about it or just a little. His tone wasn’t giving much away.
+
+“If it’s because of you, then it’s only ten percent because of you,” said Alden. “And ninety percent of it is me figuring me out. I still admire so much about Hannah’s goal for being a support hero, but…”
+
+“Doesn’t fit with the new hero type you’re crafting for yourself?”
+
+“It’s not that. It’s less big picture than that. Me pulling away from my old vision in this case is based on some practical, basic stuff. Like in Engaging with the Unexpected, the question is usually, ‘What would you do?’ And my answer half the time is either, ‘I’d do nothing,’ or, ‘I’d do something I actually think is wrong to prevent another superhero from doing something I think is wronger.’ I think working as a city hero like Hannah did, I’d get tired, and probably fired, rapidly. So even if I do decide to slip into a costume, something less like that and more like what Haoyu’s parents do, or Instructor Fragment, would be better for me. Why?”
+
+Boe shrugged. “No major reason. We’ve touched on the topic from a couple of angles since I got back. You told me you weren’t going to devote a ton of time to making nice with the Chicago team, even though they’ve given you an opening. That’s a big decision. I just wanted confirmation.”
+
+[Alden: Confirmed. You being a technical criminal isn’t the main factor in this decision.] “Every other decision in my life is about you, of course. I can’t get you off of my mind. I only chose my Azure Rabbit trait because I suspected it would make me jump higher, and—”
+
+“If you say what I think you’re going to say, you dumbass—”
+
+“I just want you to look at me the way you look at frogs.”
+
+“You are not funny.”
+
+“Then why are we both laughing?”
+
+Boe straightened his face, then gave Alden a superior look. “I was laughing at you, not with you.”
+
+“Sure you were.” A tear of mirth tickled its way down Alden’s cheek. He wiped it away. “Now, if you’ve got a minute, I did want to ask you something. Several things. Mostly about your own future plans.”
+
+“My own?”
+
+“Yeah, man. We talk mainly about me since everything happened. I didn’t mean for it to be that way every time I called you.” [I’m not the only one learning how to handle this whole superhuman lifestyle. What about what you’re dealing with? I think if we account for catspace, you can’t have had much more time than I have to get used to it all. Don’t you want to pick my brain about what you’re planning sometime? If you’re going to come to Anesidora one day, I’ll rent all the apartments around yours so that I can bother you from every direction but you won’t have to hear from other feelers. If you become a superhero, I will buy all of your merch and wear it constantly. And if you’re going to stay in hiding, might I suggest any of the great places on Earth that lack an active hero team? That money I’ve put you in charge of will spend even better in some of those places, right?]
+
+Boe was staring at him so hard he was calling to mind a very different friend.
+
+“Do I have a booger hanging out of my nose or something?” Alden asked. “I don’t think I said anything to deserve this awkward silence.”
+
+Boe shook himself. “No…it’s…of course I have things I want for my future. Ideas. That’s what people our age do, isn’t it?”
+
+“It’s all a scam to keep guidance counselors in business. Share your ideas with me instead of them. I work for free.”
+
+“Sure,” said Boe. “I will. Not…now, though. It’s almost one in the morning here, and that would be a long convo.”
+
+“It does sound like a longer one. Fun, though. Okay. I was in the middle of figuring out what I wanted to put in a letter to someone anyway. Dream of me ribbiting at you.”
+
+“I will not fucking do that.”
+
+“You hope.”
+
+******
+
+******
+
+Hn’tyon Bithe,
+
+The Here-to-There ended with such an unexpected act by Olget-ovekondo that I don’t feel like I said a proper farewell to you. I’m glad to have met you, and if our paths don’t cross again, know that I believe I have grown through our meeting.
+
+Life here on Anesidora is mostly safe and mostly peaceful. I wish safety and peace for you and the family you’ve chosen, even though it’s a wish for a harvest out of proper season.
+
+I hope I’ve said that well enough for my meaning to overcome differences in language.
+
+Sincerely,
+
+Alden
+
+***
+
+Hn’tyon Emban-art’h,
+
+Thank you for inviting me to help with the Here-to-There. It was an experience I don’t think another human has ever had. I learned so much and enjoyed working alongside you, your friends, and Stu.
+
+I’ll remember it always. I look forward to seeing you again and maybe being beaten at throwing paper flyers.
+
+Sincerely,
+
+Alden (the human one)
+
+***
+
+Hn’tyon Ryada-bess,
+
+It’s hard to explain why meeting you has had an impact on me without telling you things that are too personal. I keep trying and then erasing it all. I’m sorry that in this version I’ll probably tell you more about myself than you wanted to know and still not everything I wanted you to hear.
+
+In a way, I died on Moon Thegund.
+
+I didn’t lose all of me, but I lost so much. And when I came back here, to Earth, I thought I’d never stop grieving for all the missing pieces and fighting against who I am now and all the ways I feel different.
+
+Sometimes, I still grieve. Sometimes, I smile even though I’m screaming inside because it’s rarely okay to show your darkness to someone else, and it’s never easy.
+
+Right now, I want to take those words back and not show them to you. I hope I don’t. I hope I leave them in.
+
+One thing I have to say is, I’m glad I didn’t die there. Another is, I keep finding new pieces to replace what was lost. And there are parts of me I was sure were worse after Thegund—parts I called bad—that don’t bother me much at all now. I believe that some of them may even be strengths I haven’t learned to appreciate yet.
+
+It was so hard for such a long time, even after I came back to this place I thought would feel like home. If you’d met me several weeks ago, you’d have met a t’tchispa freaking out and slicing its belly open on rocks, trying to make myself fit back in.
+
+I hope you read that poem you were standing on at the train station, or you’re going to think that sentence was weird.
+
+I’m seeing a mind healer. I’m facing my fears in my dreams instead of letting them consume me. I saw you folding the kooba skins, and I won’t presume to know what it meant to you, but in watching your action I recognized a weakness in my own compassion that I will try to make better.
+
+I couldn’t have done any of this in the immediate aftermath of Thegund. I couldn’t have done it without the help of people who’ve been looking out for me. Stu is one of them. I know you have people like that, too.
+
+I’m sending you a picture of Everly Kim trying to keep her new exfoliating cloth away from everyone in our class who wanted to touch it. It was funny. Kon said to thank you for buying it.
+
+I’m honored to know you.
+
+Thank you.
+
+I hope I’ll see you again.
+
+With a yell in my throat,
+
+Alden

@@ -1,0 +1,247 @@
+---
+id: 0b85b3f4-c375-5af9-9aa2-76481c5b7b04
+page-type-slug: story-chapter-royal-road
+title: "347. Edithe's Elation"
+slug: 0049-347-edithes-elation
+partOf: salvos
+position: 49
+ownLength: 2755
+unit: words
+publishedAt: 2022-05-19
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/910233/347-edithes-elation"
+royalRoadId: "910233"
+---
+
+347. Edithe's Elation
+
+Mori Gladius was dead.
+
+It was not something anyone expected to hear today. Edithe Dawnrise couldn’t believe it at first. He’d been one of the highest-leveled Humans in the world. He was literally known as the Champion of the Human Lands. It was said that he couldn’t be killed— that he once was slain in battle fending off a Goblin King and its army. Yet, he came back the next day.
+
+Perhaps Mori Gladius would return. Maybe he might come back like he did before. However, once Edithe heard the full details, all her hopeful thoughts… vanished.
+
+“A second Primeval Demon…”
+
+She massaged her temples. It wasn’t even something she’d thought about or really considered. A single Primeval Demon was bad enough, but a second one on top of that?
+
+“The Watcher really needs to return from wherever the fuck he’s been hiding for the last three decades, or we’re all going to be so fucked.”
+
+The Valiant Dreamers Company was back at their section of the encampment now.  Edithe looked over at Hadrian and Celine. They exchanged a glance, and she exasperatedly gestured vaguely to the southeast— to where Nixa had been.
+
+“An entire country has been razed to the ground, and more Demons keep popping up. We need to put an end to this before it gets out of hand.”
+
+“I mean, isn’t that why we’re gathered here?”
+
+Celine piped up. Edithe nodded.
+
+“But it’s still not enough. We’re still just… fucking about. Ugh!”
+
+The red-haired woman groaned. Her temper was flaring up again. She always was quite hotheaded. She’d managed to keep in check by lengthening her fuse. But once the fuse was gone, she’d explode like she did right now.
+
+“We’ve lost too many Elites at this point. If they all just fucking worked together, they’d be able to kill the Primeval Demon yesterday.”
+
+There were nearly a hundred individuals who were above Level 150 registered right now. Of course, not all those who were above Level 150 had combat Classes. But still, that meant there were about… fifty-or-so Level 150 individuals who were combatants. And while a good chunk of them were missing in action like the Watcher, whatever was left was still more than enough to take care of Belzu and that other Primeval Demon.
+
+The fact that they were too stubborn and idiotic to put aside their differences and work together to save millions of lives was just ridiculous at this point. It frustrated Edithe. She paced around the tent, cursing as Hadrian and Celine watched.
+
+The leader of the Valiant Dreamers Company rose to his feet. He raised a hand, hesitating. Edithe glanced at him as he drew back. Hadrian said nothing. She opened her mouth, about to urge him to speak. But a voice interrupted her.
+
+“Excuse me.”
+
+She turned to face the figure standing at the flaps of the tent. He wasn’t part of the Valiant Dreamers, but he was a familiar man. Leopold, a member of the Rising Veterans Company. The one who’d informed them of the coalition. He bowed as he entered.
+
+“I apologize for my intrusion. Helena Warshade has requested all representatives from the major companies present to attend a meeting.”
+
+“A meeting?”
+
+Edithe raised a brow, and he nodded.
+
+“Indeed. One to acquaint you with our new allies in Alyras. It need not be your leader if he is busy. Anyone from the company will do, simply to represent your interests.”
+
+Her eyes flickered as Leopold explained. Hadrian shifted back. She knew what that meant— the Vampire Families were going to be present. She started past her leader, volunteering herself first.
+
+“I shall go.”
+
+Leopold looked over at her approvingly.
+
+“Very well. If you’ll follow—”
+
+“Wait.”
+
+Hadrian cut them off. He turned to Edithe, meeting her gaze.
+
+“I’ll be going with.”
+
+Edithe opened her mouth. But what about the Veridians? she wanted to ask, but caught herself. He looked determined. Despite his worries and his fears, he was going to step up to his role as the leader of the Valiant Dreamers.
+
+“As long as there isn’t any issue.”
+
+“There is no issue with multiple representatives. As long as you don’t bring your whole company…”
+
+Leopold eyed Celine. She just shrugged.
+
+“Hey, I’m comfortable with having no responsibilities.”
+
+“Alright, now follow me.”
+
+Leopold led them away from the tent, gathering other representatives from other companies and bringing them to Helena Warshade.
+
+—--
+
+Once all the major companies had their representatives present, they left for the city state itself. They made their way to the palace at the center of Alyras. It was a grand structure that looked almost reminiscent of a temple. It had a domed roof at the center, while its base was made entirely from marble. There were no spire towers, and it was rather uniformly built— entirely even.
+
+They rode into the city on horseback. No caravan, no carriage. An unceremonious procession. Yet, they were greeted by cheers from the people of the city. Edithe looked over at the hopeful faces of the citizens of Alyras, wondering if they’d heard the same news she heard just earlier today. If they did, would they be this excited for the adventurer army’s arrival?
+
+Or perhaps it was precisely because they’d heard of what happened, they were elated to see an army here ready to protect them.
+
+Edithe found herself riding into the palace— through a massive door-like gate that led into a gilded hallway. Helena Warshade was at the front of the procession. Everyone recognized her. The guards lining the walls fixed their gaze on her in awe and wonder, even though she didn’t so much as glance their way.
+
+Finally, they reached their destination. It was a hall. It looked like it was used for parties or balls. While the outside of the palace had been relatively bland, the inside was teeming with opulence. Edithe alighted from her horse and entered this gilded room, her footsteps on the marble floor echoing along with the clatter of the other adventurers.
+
+Their guide through the palace— a young man dressed in regal robes— bowed smoothly as he stepped aside.
+
+“The king will be here soon. Please, do make yourself comfortable.”
+
+He gestured at the food that had been set up. There were various tables and chairs prepared for dining. It was about lunchtime, and Edithe had stuck mostly to eating rations for the last few years. It wasn’t unusual for adventurers to occasionally have feasts or dine in fancy establishments— especially those who could afford it. But Edithe had been so engrossed with the company war and what came after that. That was ignoring the fact that she’d been stuck in the Plaguelands for quite a bit before that.
+
+She took one look at the food— at the delicacies and treats that had been arrayed throughout the room. There was cake and steak and everything in between. Her stomach rumbled, and her face turned crimson. Hadrian glanced at her as she quickly apologized.
+
+“I, uh, haven’t had lunch.”
+
+He just laughed. She drew back, flustered. He waved a hand off in a carefree manner.
+
+“Hey, we’re all adventurers here. It’s not like we’re a bunch of snobbish nobles.”
+
+And as if that was some sort of cue, another group joined the adventurers. They funneled into the room from a different hallway, all dressed in fanciful garbs and speaking in eloquent voices. Hadrian caught sight of them. And he paused. His apprehension was evident.
+
+Edithe didn’t know who they were, but by his reaction alone, she could infer that they were likely the Vampire families. The Demon Slayers. The Demon Hunters. And the ones who were responsible for the fall of Hadrian’s family. But… as Edithe had said, they shouldn’t have had any quarrel with Hadrian himself.
+
+And yet, reason warred with anxiety. Hadrian tensed up. Even Edithe grew nervous. She watched the Vampire families as they moved to greet Helena Warshade at the head of the adventurer representatives.
+
+Hadrian eyed them warily. He listed out names as they stepped forward, one after another. The first was a man wearing plated armor.
+
+“That’s Lord Crocus Merryster. He’s the head of the Merryster Family. He was Nixa’s strongest general. A Level 130 [Warrior].”
+
+Crocus Merryster introduced what looked like a few of his family members before drawing back. Hadrian watched as the next group stepped forward. The leader of the Valiant Dreamers spoke softly.
+
+“Those are the Norwoods. A powerful family in Shedos.”
+
+He picked out two specific individuals. One of them looked like an ordinary man. Dressed relatively well, but nothing too flashy. And the other was a woman. An odd woman. She looked like she hadn’t even been told there’d be a meeting. She looked messy with unkempt hair, and wild eyes that looked as though she were a wildebeest looking for her next prey. Oddly enough however, she didn’t speak brusquely but did so with poise and elegance.
+
+“That’s Gannon Norwood. The Patriarch of the Norwood Family. He’s a senator in Shedos— one of their most popular politicians. And that’s Zin Norwood, his mother. She’s a high-leveled [Druid]. She is said to have survived for a whole entire year in the Rainforest of Monsters when she was only equal to a Platinum Ranked adventurer— all on her own.”
+
+Edithe’s eyes bulged. The red-haired woman was in complete shock. Sure, she managed to survive the Plaguelands when she was a Platinum Ranked, and the Plaguelands and the Rainforest of Monsters were both considered similarly dangerous. But Edithe hadn’t been alone. She’d always had Salvos or Daniel by her side. And they’d regularly taken trips to cities, be it a Kobold or a Human city.
+
+“Seriously? I had no idea they were all Vampires. They really are hidden in plain sight, huh?”
+
+She gaped at Zin. Hadrian shifted uncomfortably, and she blinked.
+
+“Wait, was that offensive? I didn’t mean to—”
+
+“It’s fine. I know what you mean. Vampires are a lot more prevalent than most people would think. But that’s why they are the hidden protectors of Humankind.”
+
+He almost looked proud when he said that. Then he pursed his lips, eyeing the last family to greet Helena Warshade. Edithe didn’t need him to tell her who they were. His reaction spoke volumes, and simple process of elimination meant that it only could be—
+
+“The Veridians.”
+
+One of the Greater Vampire Families that had collaborated to crush the Slydrifts. Hadrian’s family. Edithe saw the way he looked at them. She wasn’t sure if it was contempt or nervousness in his eyes. But she held his hand, calming him.
+
+“It’ll be fine.”
+
+She spoke softly. He glanced over at her, face softening.
+
+“Right.”
+
+Hadrian shook his head and faced the middle-aged woman at the fore of the Veridians.
+
+“That’s Anya Veridian. She’s the head of the Veridian Family. Not just that— she’s an [Enchanter-Mage]. One of the best in all of the Helbir Plains. People from all around the Human lands would pay a gross amount of money to get their artifacts enchanted by her.”
+
+Anya laughed and said something to Helena Warshade. The leader of the Rising Veterans Company, of course, didn’t show much emotion as always. But Helena was pleasant enough in her curt responses. Edithe furrowed her brows.
+
+“I’ve heard of them before. But I thought they were a group of [Merchants], not nobles.”
+
+“Nobility in the Helbir Plains isn’t like what you imagine elsewhere.”
+
+Hadrian explained.
+
+“They can be [Warriors] or [Traders]. It is simply a lineage. They aren’t given lands by the king or the queen to manage since the city states are so small.”
+
+“I see— wait…”
+
+Edithe stared at Anya Veridian. The lady was looking their way. She excused herself and approached them as Edithe’s eyes widened.
+
+“Is she… heading our way?”
+
+Oh no. Edithe looked on in fear as Anya Veridian walked past the other adventurers, barely nodding at them out of courtesy. She really was heading towards both Edithe and Hadrian. Edithe turned to him as a pit opened in her stomach.
+
+“What do we do?”
+
+Hadrian didn’t say a word. He slowly brought a hand to the hilt of his sword as Edithe warily backed up. Anya Veridian reached Hadrian— the son of Baris Slydrift. The enemies of the Veridian Family.
+
+Edithe grew worried. She feared that a battle might break out— that Anya Veridian would suddenly strike out. The red-haired woman didn’t know what to expect. She just waited as the tension in the air became palpable. Hadrian didn’t break eye contact with her. He didn’t let down his guard. And as for Anya, she… walked past him.
+
+Hadrian blinked. Edithe paused. She stared at Anya Veridian as the noble lady addressed her.
+
+“Are you Edithe Dawnrise?”
+
+“I… am?”
+
+It took Edithe a moment to answer. And when she did, she was somehow uncertain of herself. She caught herself, remembering her manners as she was speaking to a noble.
+
+“I mean— I am Edithe Dawnrise. But… how do you know about me?”
+
+Anya Veridian smiled politely, bowing at the red-haired woman.
+
+“How would I not know of you, Liberator of the Plaguelands? Your reputation spreads quite far and wide. A former [Summoner]. A Gold Ranked adventurer who nearly reached Diamond in under a year while fighting in the dangerous Plaguelands?”
+
+Edithe nearly physically stumbled. She did have that Title, yes, but this was the first time anyone really properly addressed her by it.
+
+“I-I am indeed… one of the three adventurers who killed the Lich of the Plaguelands. But I, uh, didn’t really contribute as much as my companions.”
+
+“Nevertheless, you have the Title. I am Anya Veridian. It is an honor to meet you, Liberator.”
+
+Anya straightened as she spoke. Edithe hurriedly returned the bow, still caught off-guard by this.
+
+“And I am Edi— uh, fuck! I already said that…”
+
+She cursed before flushing.
+
+“I mean, it is an honor to meet you too, Lady Anya Veridian.”
+
+“Please, I am but a mere lady. I do not have the Title of a Lady, which is rather irksome to even maintain. And, please, there’s no need to stress over formality with me.”
+
+Anya spoke reassuringly. The head of the Veridian Family was… nothing like what Edithe imagined. She stared at the noble lady, before looking past her at Hadrian. He was just as lost as Edithe was.
+
+Neither of them expected this, evidently enough. They’d been worried about meeting with the Veridian Family. If there’d be any sort of issue. But so far it had gone the exact opposite way. It had been rather pleasant instead of hostile.
+
+Edithe nodded with a bit of uncertainty.
+
+“O-of course. I appreciate your… generosity?”
+
+She was never one who could deal with nobles. Their diction alone had too much nuance. Edithe was a street rat— the daughter of a prostitute. She felt stiff when talking with Anya.
+
+“I’d love to chat with you for longer, Edithe Dawnrise. I’d especially be delighted to hear about your exploits in the Plaguelands. But, alas…”
+
+Anya glanced back. Footfalls echoed down a nearby corridor. More figures were approaching for the meeting.
+
+“It seems that the meeting is starting soon. And while we still have time to chat, I’d rather not intrude upon your reunion.”
+
+“My… reunion?”
+
+Edithe didn’t know what Anya meant by that. She stared, perplexed. Confused. Then she heard the footsteps grow louder and louder. The door to the hallway was thrown open— quite literally thrown open.
+
+It broke and went flying, nearly hitting a handful of the gathered adventurers. Helena Warshade’s eyes flickered. She flicked a finger, sending a gale of wind to deflect the door. A figure raced through the crowd and leapt forward.
+
+Anya Veridian stepped back. One of the Merrysters sighed audibly. And Hadrian had to duck to avoid the blurred figure. Edithe watched as it zipped straight for her. She braced herself— until she heard the excited voice.
+
+“Ediiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiithe!”
+
+A familiar silver-haired girl collided into Edithe Dawnrise. The red-haired woman found herself on the ground as a pair of arms hugged her tightly. The world seemed to freeze as Edithe saw the girl’s beaming face. The exuberant smile.
+
+“Salvos…?”
+
+“That’s me!”
+
+Salvos spoke as she clung onto Edithe. Slowly but surely, the red-haired woman returned the hug. She ran a hand through the girl’s silver hair, laughing as she used [Identification] on her friend.
+
+“It’s been a while. You’ve grown quite a lot since we last met, haven’t you?”

@@ -1,0 +1,121 @@
+---
+id: b6aa1dfd-506d-59e3-a074-f5c6bca376cc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 485: Prepared"
+slug: 0052-chapter-485-prepared
+partOf: rise-of-the-living-forge
+position: 52
+ownLength: 1625
+unit: words
+ownProgress: 1625
+publishedAt: 2025-09-16
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2605047/chapter-485-prepared"
+royalRoadId: "2605047"
+markedReadAt: "2026-06-29T20:00:06.271Z"
+---
+
+“Wow.” Eleven stared longingly over Two’s shoulder at Arwin. He sat upon the stone chair in the center of the room, slumped back with his mouth hanging askew and eyes closed. “That looks incredible. I’ve always wanted to die.”
+
+“Would you stop that?” Two snapped, shoving the flask of water into her hands as he raced into the room. “He’s passed out! Help me get him down! Shit! I shouldn’t have left him alone.”
+
+“He looks comfortable,” Eleven said, looking down at the flask in her hands. “I want to be comfortable too. Do you think death is like a really long, comfortable sleep?”
+
+“Eleven, I’m going to throttle you so hard that you never sleep again,” Two yelled, holding a hand up before his eyes as he clawed his way up the twisted mound of stone leading to the Leyline. “Go do something useful! Find Three! Tell her we need her services immediately!”
+
+He reached the top of the chair and reached out for Arwin, his fingers flinching back as they brushed through the molten power of the Mesh.
+
+“Why?” Eleven asked.
+
+“What do you mean why?” Two exclaimed. He gritted his teeth, then thrust his hand into the light again, grabbing Arwin by the arm. “He’s—”
+
+“Would you stop that?” Arwin’s eyes snapped open.
+
+Two let out a curse and leapt back, tripping over his own feet and tumbling down the small mound in a ringing crash of metal and a few solid thunks.
+
+“He was just sleeping,” Eleven said.
+
+“I’m going to kill both of you,” Two said from where he’d landed, not even bothering to get up. He just kept his eyes squeezed shut as he pressed a hand to his forehead. “Especially you, Eleven. Get ready to wake up at six in the morning for the next week.”
+
+Eleven’s face went paler than normal. “No! Please! I’ll throw myself out the window and shatter my body against the embarkments. My blood would be on your—”
+
+“I installed a net. You can’t do that anymore,” Two said.
+
+“Oh,” Eleven said. She sighed. “Thinking up other ways to die is too much of a hassle. I’m too tired for that. Could you just kill me instead?”
+
+“No,” Two said. He rolled over, then dragged himself over to the entrance of the room and away from the Mesh’s scorching light. “You’re going to suffer. Could you not have told me Arwin was sleeping? You said he was dead!”
+
+“Sleeping like the dead,” Eleven amended. “It looked very comfortable.”
+
+“I wish you hadn’t Sunsetted your class yet, just so I could watch you suffer through the damn Leyline again,” Two said. He pushed himself back up to his feet and snatched the flask of water from her hands before turning and flinging it through the air toward Arwin.
+
+Arwin grabbed it with one hand.
+
+“Thanks,” he said, tipping the flask back and greedily draining the water within it. A satisfied sigh slipped from his lips and he slumped back against the chair. “That hits the spot. I didn’t mean to fall asleep. Do you think it’s done yet? It feels like my internal organs are getting a massage now. This is really something else. You should try it.”
+
+“I have,” Two said through gritted teeth.
+
+He wasn’t sure if he was more impressed or annoyed. A part of him was still convinced that something was wrong with the Leyline. It just wasn’t possible for someone to straight up ignore it. He knew the pain. The feeling of his magic separating from his body. All the wrinkles and imperfections that needed to be smoothed out had still been a part of him. They should have still been a part of Arwin.
+
+If anything, his imperfections should have been far, far worse than mine. I don’t believe that the Mesh would just decide to make things easier for him, and he literally died during his first Sunsetting.
+
+There’s no way he’s got no damage. I can’t accept that. But what options does that leave?
+
+“Do you have some kind of item on you?” Two asked. “Something that’s allowing you to withstand the Leyline?”
+
+“Nothing immediately on me,” Arwin hedged. “And certainly nothing that would be strong enough to stop the Mesh itself. Would a skill or title be able to do anything here?”
+
+Two hesitated for a moment. He’d never heard of any manner of ability that could withstand the Mesh. Skills, titles, magic itself — all of it came from the Mesh. The idea of a skill stronger than the Mesh was laughable.
+
+“No. I don’t think that’s possible,” Eleven said before Two could even speak. “And I don’t detect any magic escaping you right now. If there was a skill strong enough to interfere with a Leyline, there’s no way we’d be missing it. Maybe the Mesh just likes you.”
+
+“The Mesh does not play favorites,” Two said. “It plays by its own rules. I’ve seen it push and pull and walk the edges of its own lines, but it doesn’t break the rules. I don’t think it can.”
+
+“What makes you say that?” Arwin asked. Interest sparked in his eyes and he leaned forward in his chair — still ignoring the Leyline burning all around him. “What more do you know about the Mesh?”
+
+“Questions better suited for One, but he’s asleep right now,” Two said with a shake of his head. “We know that the Mesh is more of a law than a being. It has a presence, yes, but not in the way we do. The Mesh just… exists. I’m not sure if that really holds much meaning—”
+
+“No,” Arwin said. “Actually, it does. I know exactly what you’re talking about it.”
+
+“Only the ones who have seen or spoken extensively to one who has seen the Mesh do,” Two said with a small nod. He pinched the bridge of his nose and repressed the urge to let out a huff of air. “I… well, do you feel different? At all?”
+
+“Dunno,” Arwin said with a frown. “I feel tenderized.”
+
+“Yes. You’d already said that. Tenderized isn’t exactly what I was looking for, though,” Two said.
+
+He’s capable of withstanding such immense levels of magical damage that the Leyline genuinely doesn’t even register to him. If Eleven doesn’t sense him using a magical ability — not that it would even matter — then it really is Arwin just tanking a literal river of pure magic.
+
+Incredible. No wonder One was so invested in this one. Why is he like this? Is it inherent to him? Some kind of mutation? Or is this just pure mental fortitude on a scale that I’ve never seen before?
+
+“Has there been any change in the last few minutes?” Eleven asked. “Do you feel the same as you did? Or is something still happening?”
+
+Arwin thought for a few moments before responding.
+
+“Well… I’m getting a little bored. But that’s about it. Everything else feels pretty steady. I’m still getting the massage. I can’t really feel some huge obvious shift within me though.”
+
+“That might just be because you can withstand the Leyline so much that any shift would go just as unnoticed as the pain,” Two said. He ran a hand through his hair before shaking his head. “I suppose we should try to commence Sunsetting.”
+
+“Wouldn’t it be better to wait?” Eleven asked. She yawned. “Not that I want to stay awake for longer. But if the preparations aren’t done, he could die.”
+
+“I would prefer not to die,” Arwin said. “It would be inconvenient.”
+
+“You don’t say,” Eleven said dryly. He sent a glance at Two out of the corners of his eyes. “Remind me how long you spent in the Leyline?”
+
+“A few hours,” Eleven said.
+
+“Right,” Two said. “And at any point, did you feel like the pain was lessening or equal?”
+
+“No. It got worse every second I was there.”
+
+“Right. As it did for me as well,” Two said. “But he hasn’t felt any significant changes at all. Arwin just feels a mild discomfort. I don’t care how powerful he may or may not be. A soul is a soul. If there’s no significant shifts occurring, it’s because he’s already prepared. I have to wonder if his previous Sunsetting actually somehow pre-damaged his soul in a way that made it more adaptable. I’ve got no idea… but I don’t see any world in which his class isn’t prepared to Sunset.”
+
+“Yeah. Makes enough sense to me,” Eleven said drowsily. “So that means I’m not needed, right? Can I—”
+
+“No,” Two said. “I may need you if something goes wrong. Arwin, emerge from the Leyline when you’re prepared. Take it slow. Easy. Even if you don’t feel anything, the extent of the damage might be more extensive than you expect. And do not use your magic. It’s unstable right now.”
+
+“Noted,” Arwin said as he carefully rose from his chair. “Do we Sunset my class here? Or how does it work?”
+
+“Not here,” Two said with a shake of his head. “Sunsetting a class is simple, but it needs one extra element that isn’t present in this room.”
+
+“And that is?” Arwin asked as he slipped down the twisting slope beneath the Leyline and made his way over to join Two and Eleven at the door.
+
+“You’re a blacksmith, aren’t you?” Two asked, a small smile tugging at the corners of his lips as he turned and started down the hall, only pausing long enough for Arwin and Eleven to fall in line behind him. “Think of what you just did as the heating and preparations of a magical material. Now you’re prepared. All that remains is to be forged.”

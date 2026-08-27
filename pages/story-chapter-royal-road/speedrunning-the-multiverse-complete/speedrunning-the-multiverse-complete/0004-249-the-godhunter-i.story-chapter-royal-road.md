@@ -1,0 +1,177 @@
+---
+id: 5f37f356-ce0b-5b79-868a-dce54aae18d8
+page-type-slug: story-chapter-royal-road
+title: "249. The Godhunter (I) "
+slug: 0004-249-the-godhunter-i
+partOf: speedrunning-the-multiverse-complete
+position: 4
+ownLength: 1827
+unit: words
+ownProgress: 1827
+publishedAt: 2023-06-27
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1259048/249-the-godhunter-i"
+royalRoadId: "1259048"
+markedReadAt: "2026-06-29T22:41:45.541Z"
+---
+
+2 days later…
+
+“I’m not an invalid,” grumbled Dorian. Sure, he might’ve been halfway to a mummification and hog-tied to a sick bed, but Fate’s healing elixirs had worked wonders. At first after Yama’s Godking qi ran roughshod over his insides he would’ve put his odds of survival at a coin flip.
+
+But now, after chugging Fate’s most potent healing elixirs day and night and letting his Torchdragon Bloodline do its work, he was nearly feeling like himself. All the gold qi in him had been round up, neutralized, and expelled, leaving a few patchy holes in the tarp roof as they went. His insides all felt strangely itchy, and his spleen somewhat tender, but besides that he had no complaints.
+
+He couldn’t seem to get that across to Gerard. Who stood at his side wielding a giant glass instrument purportedly used as a medical device to measure vitality, but which could easily double as a torture device for prisoners of war. Hells—strapped in and tied up as he was, Dorian even looked the part.
+
+“Please stop protesting, my liege,” said Gerard, holding it aloft. “This will only take a second.”
+
+“Must you shove it up my nose?”
+
+“It is for your own good,” explained Gerard. Gerard Jr. burped smugly on his shoulder. That toad went wherever Gerard went these days, to Dorian’s great chagrin. “Other orifices are possible, but you would find them even less comfortable. Unless—”
+
+“Nose is fine.”
+
+“Very good, sir. Hold still. You should feel a small pinch.”
+
+Dorian sighed, laid back, and submitted to his fate. He watched the instrument approach with not a small amount of trepidation.
+
+“Hello!” A head poked through the tent flaps. It was Fate. Or rather the top half of him, on a flying carpet. For a man missing half his body he seemed in good spirits. “Hey,” said Dorian, his voice made nasally by all the glass in his nose.
+
+“Oho! What’s this?” said Fate.
+
+“Gerard’s doing a check-up—” Then it felt like a hot nail was being driven into the center of his skull. He howled, fists clenching.
+
+“And done,” said Gerard. He checked the readings on the instrument as Dorian keeled over, gasping. Gerard Jr. gurgled in satisfaction, the mean little turd.
+
+“Was that necessary?” he croaked. “I’ve been hit with torture devices less painful!”
+
+“No, not strictly,” said Gerard, wiping down his instrument. “We could have done a simple nasal swab. But it would’ve been slightly less precise. In matters of health we should always seek the best evaluations… ah. As expected. Your levels are perfectly normal.”
+
+“Thanks,” hissed Dorian.
+
+“Of course. It’s my pleasure to help, sir,” said Gerard without a hint of irony. He even gave a little bow.
+
+“Err,” said Fate, unsure. “May I come in? Is now a good time?”
+
+“Go on,” sighed Dorian.
+
+The flying carpet scooted a stride inside. Fate had on a conflicted look, which put Dorian instantly on guard. Fate’s default expression was beaming. Fate’s conflicted was anyone else’s distraught. “I come bearing news! News good and bad. First, the good! I’ve just had a very pleasant chat with your brother, Dorian. He seems to be in good spirits—”
+
+“Shame.”
+
+“Eh?”
+
+“Apologies. Go on.”
+
+“Ahem—yes—the bad news is what he said. Namely, that we appear to be in a bit of a pickle! Jez has found new strength. He’s resorted to torturing the Godkings under his possession…” Fate swallowed. “Including your brother. I’m… sorry.”
+
+Dorian was silent for a few seconds. “On the one hand,” he said at last, “It’s my brother. Let’s be honest, he sort of deserves it. I mean the man has no sense of humor. On the other…” His voice grew tight. “Jez! What a fucking ass, eh?”
+
+“Most uncouth of him,” said Gerard with a frown.
+
+“Houyi suspects he’ll soon resort to killing his prisoners outright…” Fate shuddered. “That, and he also suspects Jez will launch a ruthless counterattack on Salieris imminently. Friends, we have entered a new stage of this war! Before, our enemy had some civility. Now we must take extra care, and move extra fast.”
+
+He tapped his Interspatial Ring and produced a scroll out of thin air. “Which also means your mission will need to operate on a tighter timeline than we had first agreed on. Eight bodies you must retrieve. I shall portal you within ten thousand li of each body. In the meantime, the rest of us shall be making a fervent push to reach the Labyrinth, Jez’s stronghold here in Hell! We would be most obliged if you could portal back to meet us there for the final shove. At full strength, that is.”
+
+“So how long do we have?”
+
+“At the latest… three moons!” said Fate. “We’ll have arrived at Jez’s stronghold by then. We have driven him back, demolished much of his presence on this plane. We must not give him adequate time to regroup.”
+
+“Three moons, huh?” Dorian scratched his head. “For eight bodies? Not a lot of time.”
+
+“I know. And I’m sorry to put it on you. But we truly have no choice! And, well…” Fate smiled weakly. “If anyone can manage it, it’s you. Here are your weapons for the journey. This scroll has a map of the bodies. This Interspatial Ring contains all of the Fate-Strings, labelled properly. They shall shuttle you between the planes, and back here once you’re all done.”
+
+And he handed the treasures over, a little tearful. “If it means anything—I believe in you!”
+
+“Oh, it means the world,” said Dorian.
+
+“What he said, but in a non-sarcastic manner,” said Gerard.
+
+“Lovely!” said Fate. “I knew I count on you!”
+
+Fate turned to leave. But he stopped in the doorway. “Ah! I nearly forgot. Your brother insisted I ask you a question.”
+
+“What?”
+
+“He told me to ask you, ‘What is the purpose of footwork?’”
+
+“…Seriously? He’s literally in prison a million li away, and he’s still on my ass about my training?”
+
+“He was rather insistent you answer,” said Fate, looking embarrassed for him.
+
+Dorian rolled his eyes. “Well, Gerard? What do you think?”
+
+“Hmm.” Gerard frowned. “The textbook answer, I believe, would have something to do with controlling space, keeping balance, creating momentum, and controlling distance.”
+
+“Almost. But your answer is incomplete. The point of footwork is to fulfill the first condition of those so-called ‘Houyi’s Principles of Combat.’ The purpose of footwork—and all movement Techniques—is about positioning, of course. It is about putting yourself in the optimal place to attack or defend relative to your opponent.”
+
+“Excellent!” beamed Fate. “That is nearly word-for-word what he said! He instructed I give you a gift if you got it right. Namely—”
+
+Fate drifted over and gave him a pat on the head. Dorian’s cheek twitched a little. “He says to imagine it’s from him. And he says he’s glad all that drilling was not for naught. And… to come visit him already. He grows bored of waiting for you.”
+
+The most annoying part was, Dorian could vividly imagine the bastard’s smirking face as he said it.
+
+***
+
+1 day later…
+
+Dorian was released from the wards the next morning. Gerard had done all the necessary preparations, naturally. All the resources they’d need were on an Interspatial Ring on his finger. There was another ring which he gave to Dorian, which contained the exact same materials, just in case. Always best to be certain.
+
+Then they set off to pick up the last member of their party, who’d been missing all this time.
+
+Neither of them had heard from her in a week.
+
+“Where is she?” said Dorian.
+
+“I’m not sure. But I can hazard a guess,” said Gerard. They shared a glance. And then, as one, started marching toward a thin streak of smoke in the distance. The kitchens.
+
+Sure enough—
+
+There was a figure on the floor of the mess tent.
+
+“Oh…”
+
+They found Sun collapsed on her side, twitching lightly. She’d taken on a vaguely spherical shape. Her stomach had bloated to thrice its normal size, and there was so many sauces smeared on her face a cluster of Orcs were using it to dip their chips. Sun didn’t seem to mind. By the look in her eyes her body was here but her brain was on some other plane.
+
+But she did light up when she saw Dorian and Gerard draw near.
+
+“Oh, hey!” She waved.
+
+“What happened to you?” said Gerard. “Are you…quite alright?”
+
+“I don’t remember,” mumbled Sun. She burped. “Let me think.”
+
+She scrunched her face in. There was a brief silence.
+
+“Ah!” She grinned. “Three days ago I started eating. And then… I didn’t stop. I was trying to test my limits, I think. I’m still digesting.”
+
+“It was very impressive,” commented one of the Orcs. “She ate a small civilization’s worth of food.”
+
+“We Orcs have a tradition of giving nicknames to creatures worthy of great respect,” said another. “We have bestowed upon her the title: ‘Creator of Famines.’”
+
+“Huzzah!” roared the bunch, toasting her.
+
+“Huzzah!” cheered Sun.
+
+“Sorry to bother, O ‘Creator,’ but duty awaits.” Dorian dragged her unceremoniously to her feet. Gerard offered her a handkerchief with which she wiped her face off, to the Orcs’ loud displeasure.
+
+“Thanks!” said Sun. “I think—a day or two, and I’ll be normal. Where to?”
+
+“The dragonrealm. Where all of the great dragon bloodlines originated, including my own, and where the great dragon clans still situate their ancestral homes! And where… I made a fairly significant mess a few thousand years ago.” He winced, recalling the state he’d left the place in. “Last I was there, I was told in no uncertain terms never to return. Well, told is a gentle way of putting it. I made—how should I put it?—significant impact, I think. It was in my life as Salas Godhunter, and—well—let’s just say I lived up to the name…”
+
+“Oh no,” said Sun, wide-eyed. “You were naughty.”
+
+“Very,” said Dorian gravely. “In any case, it’s been, what, six? Seven millennia since then? Surely they’ve put it all behind them, rebuilt, and moved on—”
+
+“The residents of dragonrealm mark their time in two eras,” supplied Gerard. “Before Salas, and After Salas. This year is 6413 A.S., I believe.”
+
+“Ah.”
+
+“Each year children make sugar sculptures of Salas, which they burn and eat.” He paused. “There are crueler holidays of a similar ilk, but I will spare you the details, sire. I would not want to hurt you.”
+
+Dorian nailed him with a long stare.
+
+“…Anyways!” A tap of the Interspatial Ring, and three glowing threads of Fate appeared in his palm. Emerald strings, frayed at one end. The other end vanished in thin air. It led to a realm far, far away.
+
+“Let’s definitely not mention we are in any way searching for, or related to, the body of Salas Godhunter.”
+
+Each of them gave their string a tug. And they were off.

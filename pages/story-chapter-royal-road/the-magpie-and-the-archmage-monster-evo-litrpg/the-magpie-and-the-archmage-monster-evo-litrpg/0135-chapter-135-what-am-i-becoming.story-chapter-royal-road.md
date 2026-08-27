@@ -1,0 +1,197 @@
+---
+id: 3aba22c4-abbd-55ec-8b32-17889fbfc47d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 135 – What am I Becoming?"
+slug: 0135-chapter-135-what-am-i-becoming
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 135
+ownLength: 1751
+unit: words
+publishedAt: 2026-06-12
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3527382/chapter-135-what-am-i-becoming"
+royalRoadId: "3527382"
+---
+
+"What's the hold up, Liora? Read the first option," Cee urged, after Liora had gone still.
+
+"I… Uh…" Liora hesitated for a moment, then mechanically read out the System description of the Umbral Harpy.
+
+"That's…. Holy cow! A humanoidish evolution. That's amazing. I'm so jealous right now! I mean, the description isn't flattering with the human torso and arms but bird head, but I imagine the evolution after that would certainly be a full humanoid," Cee gushed, her front legs wiggling excitedly in the air.
+
+Liora felt none of her excitement. In fact, the more she stared at the description, the more disgruntled she became. Long legs, arms, and a torso while keeping a bird head. That sounded so weird. Human limbs and bird limbs just didn't mesh together in Liora's head, at least not in this arrangement.
+
+You don't seem happy about this at all.
+
+I… It just sounds weird. I'd be stuck as this weird hybrid creature for fifty levels if the System follows the same pattern as before.
+
+You can always use your Magpie Disguise and use the harpy form only while battling. It appears to amplify your Mimicry skills even further, so it would certainly do well for your fighting style.
+
+This made Liora even more peeved. Why did it have to match her fighting style? If it didn't, then she could have outright dismissed this evolution.
+
+"Why are you all puffed up and angry?" Cee asked.
+
+Liora looked at the spider and realized that she indeed had puffed up her feathers in frustration.
+
+"I… I don't like this evolution," Liora admitted.
+
+"What?! But it's your ticket to becoming a human again. Sure, it's a weird transitional stage, but think about the long game. Next evolution would surely let you become more human," Cee argued.
+
+"I… I don't even want to be human," Liora said.
+
+"What?!" Cee shrieked in disbelief.
+
+"I like being a bird. I like flying, I like having wings and feathers, and not living by the rules of human society. I like being awake at night and travelling from place to place, never settling down. I love hunting for treasure and collecting glimmerstone. Why would I want to go back to being bogged down by human rules and expectations?" Liora snapped.
+
+A memory flashed in her mind. Two large figures. She couldn't discern their features very well; they appeared as nothing more than foggy figures. But even so, Liora recognized them. Her parents. Human parents.
+
+How many times had she looked at them, hoping to receive an ounce of recognition? But no matter how hard she tried, all she got in return was a dismissive shoulder shrug at best. If she made so much as a single mistake, they yelled at her, called her useless and…
+
+Liora, stop!
+
+Liora found herself gasping as the memories of her past life had nearly swallowed her whole.
+
+"Are you alright, Liora?" Cee asked, scuttling closer and placing one of her eight legs on her leg.
+
+"I… I'm alright…" Liora exhaled in relief.
+
+Liora, you… I can't believe I'm saying this… But you shouldn't take the Umbral Harpy evolution. I'm not sure what exactly happened in your past life, but I could feel that it was very… painful for you. If you took this evolution, I feel like you would be miserable. Just look at the other options, okay?
+
+I… Okay. Thank you for bringing me out of that.
+
+There's no way I could just sit back and let you suffer through that alone… Geez, you made me all emotional now. Hurry up and check those other evolution options already.
+
+She could feel that Renir was feeling awkward at the moment, but Liora was nonetheless grateful. She didn't know what she would have done had she lingered in those unpleasant memories any longer.
+
+"Never thought you hated the idea of being a human that much since you were one in your past life…" Cee noted.
+
+"I don't hate it per se…" Liora said, trying to sort through her emotions. "I don't know how to properly call it. It's just too early for me to think about becoming human again. Maybe I'd change my mind in like twenty years or so."
+
+"It's your choice… Well, then go ahead and read the other evolution options," Cee urged.
+
+[Abyssal Riptalon]
+
+[Become a true predator in the water. With wings adapted for swimming and webbed feet, you would become unstoppable underwater. Water would be your home, and you would no longer be able to fly as nimbly as before.]
+
+[Warning: Your skill <Aerial Agility> would be replaced with the skill <Underwater Agility>.]
+
+[Cost: 65 glimmerstones]
+
+"Oh, hell no!" Liora shook her head. "The System is trying to turn me into a penguin!"
+
+"I'm sure you would make for a lovely penguin," Cee said with a snicker.
+
+"No, no, no! Heck, the human option looks much better by comparison," Liora grumbled.
+
+This is what you get for dropping me in swamp water.
+
+Let's not go back to that conversation!
+
+[Storm Roc]
+
+[Harvest the power of wind and create storms with your mere wingbeats. This massive bird is the king of the skies, able to fly with its massive body only thanks to its innate high affinity with wind magic.]
+
+[Cost: 75 glimmerstones]
+
+"Okay, that doesn't sound so bad. You'd be an even bigger, badder bird," Cee said.
+
+"Out of the three, I definitely like this option the most," Liora noted.
+
+Eh… It's not bad, but I'm not sure if you would like it all that much.
+
+Why not?
+
+You don't know how large a roc is, do you?
+
+Nope. How would I know?
+
+Okay. Imagine a bird whose body is at least ten meters tall with a wingspan of around thirty meters.
+
+What the frick?!
+
+"What?! What's wrong now? What did Renir say?" Cee asked, noticing Liora's shock.
+
+"He says rocs are ten meters tall with a thirty-meter wingspan," Liora said.
+
+"What?! There's no way a thing that huge could ever fly. That's the size of a dinosaur," Cee said.
+
+"The system did say that it can fly only thanks to magic."
+
+Cee pressed one of her front legs to her mandibles. "It would make dealing with the wyvern much easier, no?"
+
+"Wouldn't I just be making myself into a huge target? It would roast me and have enough food to eat for a year!" Liora protested.
+
+"Yeah, that's true. If you can't resist fire, there's not much you can do against the wyvern… Not going to lie, your evolution options kind of suck so far. Well, the harpy one is nice, but since you don't want to be human…"
+
+"Don't worry! There are still secret evolutions. Show them to me, System!" Liora said, spreading her wings as much as she could in the tiny space and praying that something halfway decent would show up.
+
+[Would you like to see the secret evolution option?]
+
+Yes!
+
+[Prismfeather Dracoryx]
+
+[You lust for treasure and shinies more than any other creature. This evolution brings you closer to those who value their hoard above anything else—dragons. While still mostly avian in shape, your feathers become tougher and more able to resist magical damage. Your whole body would also become more powerful, able to withstand both physical and magical attacks better.]
+
+[Glimmerstone cost: 150 glimmerstones]
+
+"Wow, that's expensive!" Liora glared at the cost. It was nearly twice as expensive as everything else.
+
+"What the hell? You can turn into a draconic creature? That's quite the leap, isn't it?" Cee huffed.
+
+"I don't think it's that huge of a leap. It says I would still be mostly avian. Besides, dragons are in a way similar to dinosaurs, no?"
+
+"I suppose. What's that got to do with anything?"
+
+"Birds are descended from dinosaurs. So a bird turning back into a dinosaur-like creature isn't that crazy," Liora defended.
+
+"I suppose anything is possible in this weird world. What does Renir think?" Cee asked.
+
+Silence.
+
+"He's silent?" Liora said.
+
+"That's odd…"
+
+Renir! What's up with you? Where's your usual analysis?
+
+I… I can't believe this… A draconoid… You got a draconoid evolution because of your wish to hoard treasure…
+
+What's so crazy about that? It's clearly something dragons and I both appreciate. They seem like very sensible creatures if they understand the true value of shinies.
+
+Liora, do you understand—no, of course you don't understand.
+
+Understand what?
+
+Dragons are incredibly powerful creatures. Wyverns are nothing more than worms in comparison.
+
+That's a bit harsh. They appeared rather strong. If susceptible to poison.
+
+No, I am serious. Wyverns may look similar to dragons, but when it comes to their physical AND magical prowess, there's no comparison. Dragons are, without a doubt, the apex hunters of this world. You MUST take this evolution.
+
+Okay, okay, I get it. No need to get your shinies in a twist. I would have taken this evolution anyway. Even if the price… is quite high.
+
+Hahaha… High, she says. Trust me. Once you evolve, you'll see that this price is rather low.
+
+"Okay, Renir was just stunned. Apparently, dragons are super powerful, so my being able to evolve into one is really amazing," Liora said.
+
+"I don't think that yet counts as a dragon. But sure. I hope you don't look too weird after evolution," Cee noted.
+
+"It can't be as bad as half-human, half-bird abomination, a penguin or a literal flying mountain," Liora shot back.
+
+"I suppose so. Well, get to it then. I suspect you will be asleep for quite a while," Cee said.
+
+"Yeah, most likely. Take care of Renir for me while I'm asleep," Liora said, withdrawing the shiny rock from her Inventory. However, she hesitated, giving the beautiful gem to Cee, staring at it longingly.
+
+"Please don't leave me under your butt during evolution. I'll die of boredom," Renir said.
+
+"Those are called underfluffies! I've told you that before," Liora snapped, then sighed. "Make sure nothing happens to him, Cee."
+
+"You're too paranoid," Cee said dismissively. "We're on a remote volcanic island. No sane human would ever come here. And if they would, I'm pretty sure our wyvernian friend would give them a warm welcome."
+
+"Very well. I… I'm going to evolve now," Liora said, somewhat reluctantly.
+
+Evolve into Prismfeather Dracoryx!
+
+[Are you sure you wish to evolve into Prismfeather Dracoryx? This will cost 150 glimmerstones.]
+
+Liora looked at Renir one more time and then confirmed the selection. Her consciousness grew weary in less than a minute; Liora's mind was plunged into darkness.

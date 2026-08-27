@@ -1,0 +1,327 @@
+---
+id: f28097cd-ee87-59f0-b78f-1792fc4be4e4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 94: Saskia"
+slug: 0094-chapter-94-saskia
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 94
+ownLength: 3070
+unit: words
+publishedAt: 2026-07-24
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3721273/chapter-94-saskia"
+royalRoadId: "3721273"
+---
+
+The Academy's central registry was a long room on the ground floor of the administrative building, staffed by clerks.
+
+I stood at the counter and waited while a woman with steel-gray hair and spectacles thicker than Eren's ran her finger down a ledger the size of a tombstone.
+
+"Elven magical theory," she repeated. "That's a narrow field, Herr Hexenzeit."
+
+"I know."
+
+"It's also a sensitive one." Her finger stopped. She looked up at me over the spectacles. "Most of the work is classified under the Ministry of War's academic partnership. Access requires—"
+
+"Iron Cross Investigation Division." I set the case jacket on the counter between us. "I don't need the classified material. I need the names of researchers. Active and former. Anyone who's published or studied on elven spell architecture or elven casting methodology in the last ten years."
+
+She looked at the jacket. She looked at me. The white hair, the Iron Cross coat, the face that had been in every paper in the capital for the better part of two months. Whatever internal calculation she ran, it resolved faster than most.
+
+"One moment."
+
+She disappeared into the stacks behind the counter. I heard drawers opening, the dry whisper of paper against paper. Three minutes. Five. When she returned she had a single sheet, and the sheet had one name on it.
+
+I read it twice. Then a third time, because the first two hadn't changed it.
+
+Saskia von Winterkrone.
+
+Department of Elven Magical Studies. Fifth Circle. Lead researcher, Elven Offensive Spell Architecture.
+
+The clerk was watching me.
+
+"Is that sufficient? She'll know which students studied in her classes," she said.
+
+"Yes," I said. "Thank you."
+
+I took the sheet and walked out into the corridor.
+
+The Academy's hallways were quieter in the late morning, the rush of lectures settled into the deep silence of study hours.
+
+I didn't walk toward the Department of Elven Magical Studies. Not yet.
+
+I stopped in an alcove between two pillars and leaned against the stone and closed my eyes.
+
+Saskia.
+
+I recognized it from a place much older and much harder to reach.
+
+I went looking for the memory.
+
+Saskia von Winterkrone was buried deep.
+
+They were from too early. Childhood. The years before the failure, before the ceremony, before the world decided what Kaspar was worth. Those years were the hardest to reach.
+
+I found her in a garden.
+
+A garden in the north, behind high stone walls. The walls were gray. The sky above them was pale. There was snow on the hedges, the kind of thin frost that came in late autumn before the real cold set in.
+
+Two children sat on a stone bench. A boy with red hair, Hexenzeit red, and a girl three years older with hair the color of a winter lake. Blue, the shade that ran through Ameriz and Asena and through the whole northern bloodline.
+
+They were playing chess.
+
+The girl was winning. She was always winning. The boy didn't mind. He was eight, and she was eleven, and the disparity in their ages meant the disparity in their skill was simply a fact of the world.
+
+Your knight's exposed, the girl said.
+
+I know, the boy said. I'm sacrificing it.
+
+For what?
+
+For three moves from now.
+
+The girl looked at the board. Looked at the boy. The first flicker of respect that had nothing to do with houses or arrangements.
+
+Show me, she said.
+
+The memory dissolved. Another took its place. Older. The boy was ten, the girl thirteen. Same garden, different season. Summer now, the hedges green and dense, the stone warm underfoot. They sat with their backs against the wall and the girl was reading aloud from a book on elemental theory while the boy listened with his eyes closed and his mouth moving silently.
+
+Between the pages, fragments of conversation. The politics their families discussed at dinner. Who was allied with whom, who hated whom, why the boy's father and the girl's father wanted them to be friends.
+
+The boy understood. Even at ten, he understood. The Voralbergs held a county within Winterkrone territory. Kaspar's mother Ameriz had been born a Voralberg before she married Roderich. Saskia was the sole heir of Duke Winterkrone, the suzerain of the Voralberg lands. A marriage between a Hexenzeit firstborn and a Winterkrone heir would bind the two most powerful northern houses into a single dynastic structure.
+
+It was not romantic. It was politics.
+
+But the friendship that grew inside that strategy was real. The chess games were real. The afternoons reading in the garden were real. The girl who said show me when the boy sacrificed a piece was real.
+
+The memories thinned after the ceremony. After The Hanged Man. After zero Circles and the long public death of Kaspar von Hexenzeit's future.
+
+The arrangement evaporated. No formal announcement. No letter. It simply stopped being discussed. The Winterkrones withdrew. The visits ended. The chess set gathered dust.
+
+A few fragments survived from the Academy years. Saskia had enrolled three years before Kaspar. She would have been a fourth-year when he was a first-year. Their paths might have crossed in corridors, in the library, in the amphitheater during symposia. If they had, the original Kaspar hadn't preserved the moments.
+
+I opened my eyes.
+
+What do I feel?
+
+It was a question I'd learned to ask myself, because the answer was never simple. I had two lives and they didn't always agree.
+
+The firefighter in me felt nothing. Saskia von Winterkrone was a name on a list. A lead in an investigation. A researcher who might help me find a killer.
+
+The fragment of old Kaspar that lived in my archive felt something else. Not love. Not longing. Something closer to the ache of a phantom limb. The boy in the garden had lost his chess partner along with everything else, and the loss had been so small compared to the larger catastrophe that it had been swallowed.
+
+There was a third feeling, colder than the other two. The strategic one. The one that looked at Saskia von Winterkrone, Fifth Circle, lead researcher and saw a piece on a board.
+
+She's brilliant. She's connected. She's the heir to a duchy. And she studies elven magic at a level no one else in the Empire matches.
+
+I folded the sheet and slid it into my coat.
+
+She's also a suspect.
+
+The Department of Elven Magical Studies occupied a wing of the Academy's eastern tower. A quiet wing.
+
+Elves had been humanity's enemy for centuries. You'd think the study of their magic would be a priority. You'd be wrong. The prejudice runs too deep. No one wants the political risk of research that connects them to elves.
+
+And yet, I thought, climbing the stair to the third floor, someone in this city has learned to cast the way they cast. That doesn't happen in a vacuum.
+
+The corridor on the third floor was lined with doors. Small plaques beside each one. I passed research fellows, visiting scholars, a storage room, a shared workstation.
+
+I stopped in front of the last door on the left.
+
+The plaque read:
+
+S. von Winterkrone Lead Researcher — Elven Offensive Spell Architecture
+
+I stood there longer than I should have.
+
+I knocked.
+
+Footsteps. Light, quick, the sound of someone who'd been pacing rather than sitting. A latch turned.
+
+The door opened.
+
+She had the hair.
+
+That was the first thing I noticed. Ice-blue, the shade that ran through Ameriz and Asena and through the whole northern bloodline. Shoulder length, practical, pulled back in a way that suggested she'd stopped thinking about it hours ago. Her face was sharper than the childhood memories, the softness of thirteen replaced by the clean angles of a woman who spent her days in focused work.
+
+She was taller than I'd expected. Nearly my height. The Academy robes she wore were formal — dark blue, well maintained, the insignia of the research faculty stitched at the breast — but the sleeves were pushed to her elbows and there was chalk dust on her fingers.
+
+Her gaze took me in. The serious expression that met me was very different from the girl in the garden.
+
+Something shifted. A micro-adjustment behind the eyes, a softening that she caught and controlled almost before it surfaced.
+
+"Kaspar." She said it carefully. Testing the weight of the name in her mouth. "It's been a long time."
+
+"It has."
+
+A beat. She searched my face, my hair, the breadth of me under the Iron Cross coat. Whatever she'd been expecting, the reality unsettled her the same way it unsettled everyone now. The boy she'd played chess with had been thin and red-haired and quiet. The man at her door was none of those things.
+
+A small smile came. "My old chess partner. I didn't think you'd ever turn up at my door." She stepped aside. "What do I owe the visit? It's been — what, seven years? Eight?"
+
+The research suite was larger than any office I'd seen at the Academy. I understood immediately what a Fifth Circle bought you. The main room served as a study and receiving area. Bookshelves lined three walls. A heavy desk dominated the center, its surface buried under layers of manuscript and notation.
+
+Beyond it, through a half-open door, I caught a glimpse of the workspace proper. A bench with runic instruments. Projection panes showing spell diagrams.
+
+On the near side, a sitting area. Two upholstered chairs flanking a low table. A small brazier with a copper kettle.
+
+"Tea?" Saskia was already crossing to the brazier. "I keep it going all day. The department doesn't heat this wing properly. Something about the ventilation and the runic insulation and a budget I stopped trying to argue."
+
+"Please."
+
+She poured.
+
+I took the offered chair and held the cup between my hands. The warmth was good.
+
+Saskia settled into the opposite chair with her own cup and drew her legs up beneath her.
+
+She looked at me over the rim.
+
+"You're larger than you used to be," she said.
+
+"I've been told."
+
+"And the hair." Her eyes tracked the white. "I read the theories. Some say you did a pact with an elf."
+
+I didn't confirm or deny.
+
+"So." She set her cup down. "What brings an Iron Cross investigator to my corner of the Academy?"
+
+I set my own cup down and opened the case jacket on the table between us.
+
+"I'm working an active investigation," I said. "Three attacks on noble households in the capital over the past six weeks. Each one a fire. Each one killed everyone inside." I let her read the summary page. "The Royal Guard's forensic analysis identified the fire as Third or Fourth Circle work. Human caster. Professional."
+
+Saskia's eyes moved down the page. The playfulness was gone from her face.
+
+"And you're here because something about the fire wasn't human," she said.
+
+I looked at her.
+
+"I'm right, aren't I?" She set the page down. "You wouldn't be in my office if it were simple arson. There are a hundred fire mages in the capital who could do this. You're here because whatever you found at the scene doesn't match the way we build spells."
+
+"The casting pattern," I said. "The mana was shaped directly — willed into form without a matrix. The spell wasn't assembled. It was created."
+
+Saskia went still.
+
+"You can read casting patterns," she said quietly.
+
+"My mana perception is sharp enough."
+
+She studied me for a moment with an intensity that had nothing to do with the case. Then she blinked, and the researcher retook control.
+
+"Direct shaping," she said. "That's elven methodology. The fundamental difference between human and elven spellcraft." She rose and crossed to her desk, pulling a sheaf of notes from a stack. "We build from the Circle outward. Foundation, channels, framework, output. The Circle provides the scaffolding, and the mage fills it." She turned back to me, holding the notes. "Elves don't do that. They never did. Their relationship with mana is intuitive. Direct."
+
+"Which is why we've been losing the war for centuries."
+
+"Among other reasons." She didn't flinch from it. "A human Fourth Circle fire mage can produce a fireball that arrives at its target in two and a half seconds. An elf of equivalent power produces the same result in the time it takes to think it." She paused.
+
+Her face had settled into something hard and focused.
+
+"Then you have a problem," she said. "Because if a human is replicating elven direct-shaping methodology, that's not something you learn from a textbook. There are no textbooks. The theoretical framework barely exists. I've spent six years trying to reverse-engineer the principles, and I can describe them but I can't replicate them." She held my gaze. "Whoever your arsonist is, they've gone further than I have."
+
+"Or they had a different teacher."
+
+The implication sat between us. A human trained by elves. A human who'd crossed the line that separated research from collaboration.
+
+"I need names," I said. "Students. Former students. Anyone who's passed through the Academy in the last ten years with serious study in elven offensive magic. Preferably someone with a fire affinity."
+
+Saskia was already rising. "The field is small. Embarrassingly small." She crossed to a cabinet behind her desk and pulled a drawer. "I keep records on every student who's come through the department."
+
+She worked in silence for a minute. I watched her hands move through the files.
+
+I used the time.
+
+Advanced Mana Perception opened like a lens, and I let it map the room.
+
+Saskia's mana was clean. Cold. The dominant signatures in her aura were ice and water. There was no fire affinity in her. Not a trace. If she'd wanted to burn a building, she would have had to do it with matches.
+
+There were no recent injuries. No healing signatures in the tissue, no residual trauma in the connective structures. No sign she'd been in a fight or near a fire in the past several weeks.
+
+Not her.
+
+I'd known that before I walked in, or close to it. A duke's sole heir didn't prowl the capital at night incinerating noble families. Yet I checked, the investigation demanded it.
+
+Saskia returned with a single sheet. She set it on the table between us and sat.
+
+"Three names," she said. "All former students. All graduated within the last five years. All spent significant time in elven offensive architecture coursework or independent research."
+
+I turned the sheet toward me.
+
+Three names. Three houses. Three brief annotations in Saskia's careful hand.
+
+The first: Lukas von Breitenbach. Third Circle. Fire affinity. Completed a thesis on elven thermal manipulation two years ago. House Breitenbach, minor northern nobility. Politically neutral.
+
+The second: Theresa von Hallström. Third Circle. Dual affinity, fire and earth. Published three papers on comparative spell architecture, elven versus human. House Hallström. An old military family, three generations of Regular Army officers. Politically neutral.
+
+The third: Viktor von Steinhauer. Fourth Circle. Fire affinity. Left the Academy after completing his studies without taking a research appointment. House Steinhauer. A prominent capital family. Close ties to Princess Elara's faction.
+
+I read the names twice.
+
+"All nobles," I said. "All from established families."
+
+"The department attracts a certain type." Saskia's voice was careful. "Studying the enemy's magic requires access to captured spell fragments, elven artifacts, recovered manuscripts. That access comes through family connections. Commoners don't have any of those."
+
+"Can you imagine any of them involved in something like this?"
+
+Saskia was quiet for a moment.
+
+"No," she said. "I can't. I taught all three of them, at different stages. Though I'm aware that says more about my imagination than about their innocence."
+
+I folded the sheet and slid it into my coat beside the registry page.
+
+"Thank you," I said. "This narrows the field." I stood.
+
+"I may need to come back," I said. "If the investigation develops."
+
+"My door is open." She stood with me.
+
+I was halfway to the door when she spoke again.
+
+"Kaspar."
+
+I stopped.
+
+Saskia stood by the chair with her hands clasped in front of her, and the researcher was gone. What I saw now was simpler and harder to read. The face of a woman standing at the edge of something she'd been carrying for a long time.
+
+"There were good memories," she said. "In the garden." She paused, and the words came with difficulty. "I should have found you. At the Academy. When everything happened. I didn't." Her throat moved. "I'm sorry."
+
+I looked at her.
+
+What do I feel?
+
+The firefighter felt nothing. A lead had provided useful information. The interview was over.
+
+The fragment of old Kaspar felt a pull. A tug toward the person who'd once said show me and meant it. The last person outside his family who had looked at him and seen potential instead of failure.
+
+But I was not that boy.
+
+"There's nothing to apologize for," I said. My voice came out level. Empty of the warmth she was reaching for and empty of the coldness that would have been a cruelty. "You did what made sense. Everyone did." I held her gaze. "I'm glad you're well, Saskia."
+
+Her face went through something I couldn't fully track. Three or four expressions fighting for the surface, none of them winning, all of them retreating behind the composure she'd spent years learning to maintain.
+
+She nodded.
+
+"Be careful," she said quietly.
+
+"I will."
+
+I opened the door and stepped through.
+
+The corridor was empty.
+
+I closed the door behind me and stood there.
+
+Exhale through the mouth.
+
+I took the sheet from my coat and unfolded it.
+
+Three names. Three former students. Two from neutral families. One from a house tied to Princess Elara.
+
+Katja's briefing echoed: all three families were politically neutral. They weren't backing anyone. They were sitting the succession out.
+
+Someone was burning neutral nobles. Sending a message. The question was from whom and to whom.
+
+Two neutral-family suspects. One Elara-faction suspect.
+
+Viktor von Steinhauer. Fourth Circle. Fire affinity. House Steinhauer, close ties to Princess Elara. Left the Academy without taking a research position, which meant either he'd found something better or he'd found something he didn't want the Academy watching.
+
+I folded the sheet and slid it back into my coat.
+
+I knew which one I'd start with.

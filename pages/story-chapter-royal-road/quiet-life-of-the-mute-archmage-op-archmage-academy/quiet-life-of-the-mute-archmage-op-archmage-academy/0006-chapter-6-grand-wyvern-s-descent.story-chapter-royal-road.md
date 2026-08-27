@@ -1,0 +1,135 @@
+---
+id: 90c21ac7-84a2-57c5-877b-73f508c94fc2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6: Grand Wyvern's Descent"
+slug: 0006-chapter-6-grand-wyvern-s-descent
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 6
+ownLength: 1781
+unit: words
+publishedAt: 2026-05-13
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3389270/chapter-6-grand-wyverns-descent"
+royalRoadId: "3389270"
+---
+
+Wyverns, creatures a step away from being dragons.
+
+These reptilian beasts bore a striking resemblance to their legendary cousins, the only differences being their smaller stature and the fact that they walked on two legs rather than four.
+
+Flap.
+
+The sound of massive wings cutting through the air echoed above. Molly's heart skipped a beat, her pale white hair fluttering wildly from the downdraft. Her breath caught in her throat as she stared at the shimmering red scales that armored the creature's body, each one catching the morning light like polished rubies. Sharp claws glinted at the ends of powerful wing joints, much like a bat's. A long, whip-like tail trailed behind it, tipped with a stinger that seemed to drip with molten stone. Small horns jutted from its head, framing eyes that burned with a predatory glow.
+
+The Grand Wyvern circled the market square, searching for the right prey to strike. Its wings beat with each pass, sending heavy gusts of wind that threatened to tear the stalls apart.
+
+A frown settled on Molly's features as she recalled that this wyvern was nothing like the common wyverns one saw every day. According to records from ancient times, Grand Wyverns were creatures that had grown exceptionally large, old, and dangerous.
+
+These dominant predators roamed and hunted alone, their mastery of magic far surpassing that of ordinary wyverns, who could only manage [Tier 2] to [Tier 4] formulas.
+
+Grand Wyverns had the capacity to cast [Tier 5] to [Tier 7] formulas, perhaps even a [Tier 8]. That made them formidable adversaries indeed.
+
+"Inform the heroes!"
+
+"Everyone! Run to the hall!"
+
+"Hurry!"
+
+Molly's thoughts were cut short by the rising chorus of shouts. Her gaze swept the square as people fled in every direction, abandoning the vicinity to find safety and await the heroes stationed in Sigsug.
+
+As if remembering something, her eyes darted behind her to the young woman who had asked her that question earlier.
+
+The young woman's orange gaze was fixed upward, her light blue hair spilling around her shoulders. Her mouth hung slightly agape, entirely transfixed by the Grand Wyvern. Her face had gone somewhat pale as she watched the beast circle the market square.
+
+Molly's expression brightened a little. This was exactly what she needed. With the young woman so distracted, she could slip away and hide somewhere secluded, a place where she could handle the Grand Wyvern before the heroes arrived—
+
+Molly's gaze snapped upward at a deafening roar. She watched as the Grand Wyvern began flying higher, ascending into the sky. With each sweep of its wings it climbed further and further.
+
+"It's about to attack." Not too far from her, she heard the grim voice of the young woman. Her eyes flicked toward her, and she noticed the young woman had grown considerably paler than before.
+
+She looked more like a statue than a person. But she wasn't completely frozen in fear. Molly observed that the young woman was contemplating something, her hands clenching and releasing in a repeated motion. Molly didn't know what the young woman was wrestling with, and before she could even guess—
+
+"Roar!!"
+
+Molly's eyes flew back to the sky, her expression hardening. There wasn't much time.
+
+She broke into a sprint, clutching the neatly woven basket against her side. Her free left hand gathered the folds of her robe so she could run faster. Her deep crimson eyes darted frantically around the market square, searching for any place to hide, somewhere out of sight.
+
+Her expression immediately softened with relief, a warm smile touching her lips when she spotted a secluded corner tucked behind a larger stall structure.
+
+With a swift motion, she slipped into the corner, carefully concealing herself behind the large stall until no one could see her. Her crimson eyes swept the area, quietly checking if anyone lingered nearby. When she confirmed she was alone, her focus shifted to the Grand Wyvern, which was already descending with alarming speed, its mouth gaping wide as rough white symbols in the air gathered around its maw, rapidly forming a shape.
+
+Molly squinted, unable to make out the formula from this distance. Seeing that wouldn't do, she sighed and, with a silent command, rough white symbols began to take shape near her right eye. The first symbol to form resembled a cursor, and the last to appear was the structure that bound everything together into a complete spell. The formula dyed red in an instant.
+
+Molly felt her vision zoom in the moment she cast [Farsight] on her right eye.
+
+A small smile played on her lips as she could finally see the symbols forming within the Grand Wyvern's open maw.
+
+The first symbols assembled into the image of a giant sigil of fire. The ones that followed arranged themselves into seven long lines, each tipped with an arrow shape pointing outward, beyond the fire image, creating the roots. The final symbol was the structure, which took the shape of a large circle encapsulating the entire arrangement.
+
+Molly's breath caught. She knew this spell. It was a [Tier 7] formula, [Blazing Fire Burst], an advanced and far more chaotic version of the [Tier 2] and [Tier 3] [Fire Burst]. The arrow-shaped lines pointing outward indicated that the completed spell would be projected from the formula. Had the arrows pointed toward the central symbol, that would have meant an inward pull.
+
+Molly watched as the completed spell abruptly dyed a vivid, seething reddish-orange, creating a perfect and terrifyingly beautiful image for the eye.
+
+Her mind began calculating. If that attack landed on the market square, the entire marketplace would burn. Sellers would lose their goods, the village would suffer a devastating loss, and the people who still hadn't fled far enough would be caught in the aftermath.
+
+And Molly still hadn't finished buying all her ingredients. In fact, she hadn't bought anything but the red lettuce.
+
+Without further delay, Molly slowly lifted her left hand, pointing toward the Grand Wyvern, and exhaled.
+
+The white symbols drifting through the air began to shudder. The mana all around answered her call.
+
+In an instant, a sudden surge of mana enveloped her slender hand and began to take shape.
+
+The first symbols gathered together to form an image of a horizontal line, a clear representation of a minus sign. The remaining symbols shaped themselves into four X-shaped images that surrounded the minus sign in a circular pattern on all sides, creating the roots. The last to form was the structure, a large circle encapsulating the entire formula.
+
+Molly's eyes hardened. Her [Farsight] gaze stared intently at the glowing formula in the Grand Wyvern's maw. She focused her will on that specific spell.
+
+And in that moment, her own completed formula, poised upon her fingertips, suddenly dyed a bright red, a perfect and pleasing visual of finality that etched its name deep into the world:
+
+[Simple Minus]
+
+In that instant, the completed [Blazing Fire Burst] formula that had already taken shape in the Grand Wyvern's opened maw, ready to rain destruction upon Sigsug Market—
+
+Suddenly vanished. Deleted. As if it had never existed, leaving the wyvern's mouth gaping wide and empty.
+
+A deafening shriek of rage erupted from the Grand Wyvern's throat when it realized its spell had been undone. With a massive flap of its wings, it surged downward with renewed fury, intent on destroying everything in its path.
+
+But Molly wasn't going to let it.
+
+Molly intercepted it, casually waving her slender hand through the air as if silently commanding something, making a soundless utterance without moving her lips. The rough white symbols drifting through the air obeyed her will without hesitation. They shuddered for a suspended moment before surging into the sky where the Grand Wyvern was, instantly blocking its path, though the creature itself couldn't see them.
+
+The mana began taking shape after gathering in a massive wave.
+
+The first symbols assembled into the image of a swirling giant vortex that made the Grand Wyvern seem impossibly small. The remaining symbols followed, arranging themselves into ten long lines, each tipped with an arrow shape pointing toward the vortex, creating the roots. The final symbol was the structure, which took the shape of a large circle encapsulating the entire massive arrangement. The completed spell was the spitting image of a vast gravitational force, something that seemed to tear a hole into reality itself. After a few moments, the formula dyed a dull, dark bluish-purple.
+
+This was a [Tier 10] formula.
+
+[Void Hole]
+
+A massive suction force began to emanate from the completed formula. The Grand Wyvern halted mid-flight as though all ability to fly had been stolen from it.
+
+With a thunderous roar, the Grand Wyvern thrashed violently when it realized it was being dragged toward the giant formula in the sky. It writhed and flailed, like a rat caught in a trap.
+
+Molly's expression tightened as she poured all her concentration into the active formula, focusing precisely on the Grand Wyvern so she wouldn't pull anything else into the [Void Hole].
+
+This formula demanded immense precision and focus. If Molly wasn't careful, as Jen always warned her, she'd end up dragging more things into that place of emptiness, causing greater harm than good.
+
+And she didn't want that.
+
+Molly used her right hand, the one still hooked around the woven basket, to wipe her nose. A thin stream of blood had begun to leak from her nostril.
+
+She knew this was the aftereffect of using her affinity's magic.
+
+Just as Jen had also warned her: 'Molly… be very careful and decisive when using your affinity's magic. You see, [Epilogue] isn't just a normal affinity that one awakens. It's an abstract affinity, and a dangerous one at that. It's the kind that takes something from the user each time it's invoked. So please… master other formulas and don't use your affinity's magic unless absolutely necessary.'
+
+'Please…'
+
+Jen's words replayed calmly in Molly's mind. Her gaze hardened once more as she concentrated intently, watching as the Grand Wyvern's form was fully seized by the powerful suction, until there was nothing left of it to remember.
+
+Molly's left hand fell to her side. The giant formula she had created in the air dissolved into nothingness. She leaned her back against the large stall she hid behind, her breathing coming in steady gasps as she fought to steady herself. A small giggle of triumph escaped her, a bright smile spreading across her face.
+
+She did it.
+
+She had saved the people. She had saved her future ingredients. She had saved the market square.
+
+And all of it was done without anyone catching sight of her.

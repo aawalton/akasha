@@ -1,0 +1,525 @@
+---
+id: c12063a0-520b-5e29-bc28-a4a49ea6de38
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED SIXTY-SEVEN: Notion"
+slug: 0169-one-hundred-sixty-seven-notion
+partOf: super-supportive
+position: 169
+ownLength: 5633
+unit: words
+publishedAt: 2024-09-09
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1794805/one-hundred-sixty-seven-notion"
+royalRoadId: "1794805"
+---
+
+167
+
+******
+
+“My Body Becomes My Assistant?” Stuart asked. He was on the floor with his legs crossed, and though he had sat in polite silence while Alden finished the wordchain, he’d watched the whole casting process intently.
+
+“I want to use it in gym and get the hang of it, but I’ve been thinking I might mix up having it active with having it inactive so that I’m getting better at moving in both ways. Trouble doesn’t always happen in convenient six-hour windows. Do knights use a lot of wordchains?”
+
+“Yes. Chaotic environments can reduce their efficacy, so depending on the situation a large number of casts might be necessary to gain the desired benefit. It’s often worth it, but not always.”
+
+“Peace of Mind worked well on Thegund.”
+
+“That’s not the kind of chaotic environment I mean. And Thegund is populated by Artonans. That makes a difference.”
+
+The cottage had brightened with the arrival of morning, and the suitcase on the floor between them had revealed the full glory of its patch job. Most of the rips and gouges were small, since a certain ryeh-b’t preferred to make sure the whole bag received her attentions rather than committing to the total destruction of any single part, and now they were all repaired with a silver fabric that looked like it had melted into place to fit the holes rather than being stitched.
+
+Stuart had been planning to turn it all blue to match the suitcase, but Alden had stopped him.
+
+His eyes fell on a silver bite mark while he reached for another piece of fruit from the bowl of welcome. He was pretty sure the one that tasted like a mild pear was going to be good while under the effects of the wordchain.  “There are so many things I don’t know.”
+
+“Do you want to know more about wordchains in chaos fields?”
+
+“No. I still have a few questions about mind healing. I know I need to go soon, but—”
+
+“You don’t have to go.”
+
+“I probably shouldn’t be late, especially since I don’t know how many sessions I might need with the healer, and those could take me away from school, too. How many do you think it might be to make the Thegund nightmares go away?”
+
+“That’s a question that would be better for the healer, but in my experience…”
+
+******
+
+******
+
+“You’re laaaate.”
+
+“And he’s not in his uniform.”
+
+“I thought he was going to skip class.”
+
+“He was just scared to face me in battle!” Astrid announced to the other girls who were standing around in the corridor in front of the locker rooms. She sprang toward Alden and punched the air with a vicious expression that was undermined by her cotton candy pink lipstick and eyeshadow.
+
+Actually that might not be makeup. That might be a new morph.
+
+“I’m not late yet!” Alden dodged around her. Easily thanks to the wordchain. His duffel bag full of gym supplies was over his shoulder, and his face felt chapped from his high speed flight here aboard the nonagon. It had been waiting for him at Matadero’s helipad, and a message from Esh-erdi telling him to use it if he wanted had appeared as soon as Alden arrived in the cube’s teleportation area.
+
+“I can dress in three minutes.”
+
+“But you only have two minutes and fifteen seconds,” Vandy told him.
+
+He rushed through the group of girls so fast that he was already a couple of steps inside the locker room by the time he realized Astrid’s teeth had been pointy.
+
+“Nice teeth!” he called as the door shut behind him.
+
+“All the better to beat you with!”
+
+There weren’t that many guys lingering inside, and they were all in their suits already.
+
+“No, I never met him,” Finlay was saying to Kon. “I did hear about him in intake a couple of times, right before I left. But that was all.”
+
+“Alden! Was that Astrid you were yelling with?” Kon asked. He was tousling his hair while he observed himself in one of the mirrors. “What’s she done to her teeth?”
+
+The weird emphasis on some of the words made Alden suspect he was still having trouble with pronunciation.
+
+“They’re sharp now,” Alden answered.
+
+“Where have you been?” Lexi was waiting for Haoyu to finish tying his shoes. He had Writher in his hand, and the end was twitching toward Ignacio. Alden was sure it was innocent enough, but it did make Lexi look like he was planning terrible things for the other Meister, who was staring at his knife collection while he put on his wrist cuffs.
+
+“Hello, Lexi,” said Alden as he dove into a shower. “I missed you, too. Your warm smile, your whip, your tone of suspicion.”
+
+“You got your foot fixed?” Haoyu called.
+
+Alden stripped off his shirt. “I got permission to take the boot off. And a lecture about my diet and my badness as a patient. And the healer sent the school a note saying I could come to class if the gym suit was set to punish me for running and jumping with that leg.”
+
+It had been about two hours since he’d teleported from Rapport I to Matadero. He still wasn’t quite over the shock of transitioning from an informative, calm, and very mature-feeling conversation with Stuart about his options for mind healing and how the appointments could be handled, to Porti-loth. The wizard had been waiting to catch Alden as soon he arrived and check that he’d behaved himself while he was away.
+
+“Punish?” asked Haoyu.
+
+<<You’ll have a movement restriction?>> Ignacio asked in Spanish.
+
+Alden was surprised he was jumping into the conversation.
+
+<<I was going to duel against you differently, but if you can’t run…>>
+
+Alden actually wasn’t sure what Porti-loth had meant. He’d just griped a lot about the fact that Alden was unable to follow the very simple instructions he’d been given to eat foods native to Earth.
+
+“But I ate an Earth-based lunch the day I left,” had not been a good enough excuse. Nor had, “I honestly forgot. So much has been going on.”
+
+“Yeah,” he said, reaching for his gym suit. “A movement restriction is probably the penalty he had in mind.”
+
+By the time he exited the stall, the room was empty. He hurried out and ended up entering the gym a step behind Tuyet, who was looking tired.
+
+“If we duel each other, do you have another bandage for me?” Alden asked. He didn’t know her well enough to think of a joke about anything else.
+
+“Alden,” she said. “Did you know him, too?”
+
+That seemed like a random question. Had he missed something?
+
+“Know who?”
+
+She frowned. “The SAL member who Orpheus Velra sold the Submerger to. The person Maricel left class on Friday to warn SkySea Guard about.”
+
+Alden’s thoughts had to run a whole marathon before those two sentences made sense. By the time they got to the finish line, the [FLOOR ON] warning was flashing on his interface, and he and Tuyet were headed for their classmates and instructors.
+
+It was only Klein, Marion, and Wu today.
+
+“No,” he managed to say in the final second before class officially began. “I didn’t know the guy.”
+
+“All right!” Instructor Klein said. “I hope you all did your homework.”
+
+Alden looked around at all the faces. Everyone had managed to make it to class except for Maricel.
+
+So…she’s the student who’s taking time off. And the guy she asked me to talk to when we were standing outside the mall, the runaway who took a boat that night, crashed the Sinker Sender into Matadero.
+
+He wondered how he ought to feel about that.
+
+Really sorry for Maricel. Nothing personal beyond that, I suppose?
+
+Having a few less degrees of separation from a guilty party than he would have expected was unsettling, but he was already roommates with Lutewing van Nutmeg.
+
+There just aren’t that many human Avowed. Most of us are probably only a friend of a friend away from any insane thing that happens with another one of us.
+
+He’d watch the news later, figure out what he’d missed, and stop by to check on Maricel.
+
+Class first.
+
+One-on-ones were conceptually simple. Everyone was supposed to stand in their assigned dueling block and complete an objective before the timer ran out. The objectives this time would be the two most basic. Both duelists would be told to fight head to head until one was incapacitated, or they’d be assigned to play a simple territory claiming game.
+
+Opponents would be randomized at first, and then the instructors would be adjusting the pairings to make sure that nobody was fighting the exact same class or rank every time.
+
+Mehdi raised his hand. “Are we going to have a duels scoreboard like the other classes? One point per win?”
+
+“Yes!” said Heloísa.
+
+“No,” Klein said. “Not in this course.”
+
+“But—”
+
+“Realism is set to movement restriction only for today and Friday,” Klein went on.
+
+There was a buzz of excitement at that. If nothing hurt at all, then getting thrown across the gym by someone else could be fun. It depended on who the someone else was and how scared you were of their particular method of doing harm.
+
+“Usually we don’t do pain-free duels until the last class of term, as a reward, but this has been a rough week. Don’t use it as an excuse to play around. Instead of pain, you get research. On Monday, you have to turn in a write-up about all of your injuries. Instructions for that are in your inboxes.
+
+“Kon and Søren, you two won’t be dueling this week. You’ve both discovered new features of your powers that you need to figure out in a safe environment.” He paused. “Normally, I would congratulate you on your progress, but in your cases…
+
+“Well, we’re low on faculty, so you’re working on your own today. Søren, you’ll be shaping until you can repeat your accident and understand what caused it. Setting yourself on fire isn’t something that should happen in the future. Kon, we’ve modified some of the tonne weights for you. You’ll be moving them. Without hitting yourself in the face. You’re lucky you didn’t break your own neck on Friday.”
+
+Søren reddened. Kon beamed like he’d been complimented instead of criticized.
+
+Lexi shook his head.
+
+Alden was privately mourning the loss of two opponents he was interested in having matches against.
+
+“We’ll be running five to ten dueling blocks all the time. When you’re not in one, you can all use the practice area over there to figure out what went wrong, what went right, and what you might want to try in your next fight.”Instructor Klein gestured to the far end of the gym, where the floor had already been marked off with lines.
+
+“If you exhaust your body or your main talents during duels, you’ll be out. You can choose to observe from the bleachers or, if you’ve got something that’s still worthy of testing on the floor, you can do that in the practice area. If your temper gets the best of you and you continue attacking another student after the time call, you get to run laps around the track all by yourself until I have time to come and talk to you. Which should be around nine o’clock tonight, after I’ve had my supper.”
+
+Alden looked around, trying to guess if anyone might end up in that unenviable position.
+
+His eyes skimmed past Winston, who was wearing a red sweatband on his head that said, “Need a heeling?”
+
+What does that mean? Is it his latest hero motto? Or is it smack talk just for today?
+
+Marsha’s hand lifted.
+
+When Klein nodded at her, she asked, “Why can’t we do S versus S? And A versus A?”
+
+Haoyu, standing just in front of Alden, turned around and rolled his eyes so dramatically that even Tuyet smiled.
+
+“Because there’s value in learning from all of your classmates,” said Klein. “We’ll mix things up in future sessions. Now, let’s get started.”
+
+Their first assignments popped up, and the whole class burst into chatter.
+
+“VANDY!” shouted Haoyu, waving at her excitedly.
+
+“I’ve got Max,” said Lexi.
+
+“It’s me and Olive.” Tuyet was swiping at her interface. “That’s good. She’s nice.”
+
+Olive looked less than thrilled.
+
+Alden hadn’t been assigned an opponent yet, so he jogged toward the practice area.
+
+“WALK, ALDEN!”
+
+He halted and then waved at Klein in acknowledgment. Marsha passed by him, irritation apparent in her every stride. Her polearm, in glaive mode, was propped on one shoulder, looking as deadly as usual. And Jupiter was trotting beside her, carrying a single, fist-sized cactus in a pot.
+
+Is she going to fight with that? Alden wondered. It was a cactus, but it was so petite compared to her usual choices. Maybe it wouldn’t be bad to fight her since she didn’t bring a whole hedge or a tree with her.
+
+“These were almost free because the store flooded,” Jupiter said to Marsha. “I brought forty of them.”
+
+Never mind. She’s planning to be a cactus pitching machine. But that’s still not as bad as some of her other options. If she only sent a few at a time…
+
+Marsha turned around to glare back at the pairs who were starting their duels. “It’s not fair. Maybe there’s value in fighting some of the A’s. But for most of them? For this kind of dueling? I might as well chop wood.”
+
+Max and I are so invisible to her she’s not even mentioning our rank.
+
+Alden wanted to do a Haoyu-style eye roll at her, but he held back the impulse. He needed to focus on what he’d be doing today.
+
+When he reached the practice area, he claimed a spot for himself where he didn’t think he’d be in anyone else’s way, dropped his duffel bag on the floor, and bent to search through it. He was way less prepared than usual. His internal clock was confused, he smelled like one of the soaps he’d bathed with at the cottage, and his combat plans were currently all the same ideas he’d had before the obstacle course last week.
+
+On top of that, he had no idea who he’d be up against.
+
+I’m allowed to have string or rope, something to weight the ends, the elemental bags if I want them, and my temper spheres.
+
+Too bad he was fighting Avowed instead of Jatontan pests.
+
+With a restriction on running, and if it’s just me versus one of them…what do I want to practice?
+
+Today, the dueling blocks were going to be empty rooms of varying sizes. No obstacles of any kind for him to work with or hide behind.
+
+Alden started examining the other people in the class one by one. I can’t plan something that would be good versus everyone. Maybe I should just guess and plan with one of them in mind? Hope whatever I come up with transfers to the others?
+
+Heloísa.
+
+Jupiter.
+
+Reinhard.
+
+Reinhard?
+
+Okay. Him.
+
+I owe him back for combat assessment anyway. Let’s figure out a way to beat Reinhard. I’ll boldly feed him to victory, instead of going for a tie.
+
+Nothing in Alden’s bag of supplies was really screaming victory, though.
+
+Not dying did seem doable. Partly because of Reinhard’s personality. He probably wouldn’t fire his strongest shot at Alden. Power built up in his bow every time he hit his target and then he sacrificed that magic all in one go for a big one.
+
+But he would be conservative with the big ones because he wanted to shoot the strongest members of the class with them. Not the Rabbit. If he killed Alden that way and then got assigned to duel one of the S’s immediately afterward, he wouldn’t be happy.
+
+He would absolutely take a draw against me and use me to build up steam so that he could try to beat someone he respected more.
+
+Snatching an arrow out of the air with his skill then firing it back at Reinhard would be the coolest option.
+
+We’re not there yet even with the wordchain. Save that for last ditch efforts.
+
+Ten minutes later, when his turn came, Alden had made a plan.
+
+Can I call it that? It’s not really good enough to be a plan. It’s a theory about how I could attack Reinhard if I had nothing but lots of string for a weapon. No, not even a theory. It’s a notion we’re going to try.
+
+And…oh boy, look who I’m fighting with my notion.
+
+[Dueling Block 3]
+
+[Opponent: Jeffy, Aquatic Brute - S]
+
+[Incapacitate your opponent.]
+
+[Kills: Allowed]
+
+He only had one minute to get into position, so he thanked Jupiter for being his entruster, picked up his notion, and speed walked toward the block with it.
+
+“Alden,” Instructor Marion said, looking up to take in his weapon of choice as he passed. The Engaging with the Unexpected Teacher had his brown hair pulled back in its usual low ponytail.
+
+“It didn’t take long to make,” said Alden, worried he was about to be told that his creation was too much of a creation. “I could manage it in…not an emergency maybe. But in an urgency, it would be doable.”
+
+“I was just going to tell you to be mindful of your injuries,” Marion said. He was still staring at the archer-defeating basket Alden had made, though.
+
+The quick birdnest shield method—just take all the ribbon, paracord, fishing line, and other lightweight string you’d brought and then scramble it into a pile of the desired size and shape before preserving. No tying, minimal fiddling around. If you had a little extra time, you could make sure there were no large gaps, and if you had a convenient largish object handy—like the mounds of elemental bags in the practice area—you could drape your scramble over it and make an easy basket shape.
+
+Then you could give it a long handle and preserve the whole situation.
+
+The basket was around the size of a pair of small sofas stacked on top of each other. The handle was nylon webbing about six yards long that Alden was currently holding much closer to the “basket” part than the tip, because it was too unwieldy.
+
+Ideally, he would have run at Reinhard with it and dropped it onto his head. The crazy mess of a net would stop a couple of quickly fired arrows while he closed distance, and then, assuming that Alden lost preservation when he trapped his foe, all of the crap would still get tangled up with archer’s bow and arrows. For at least a moment.
+
+Reinhard would be very pissed. He’d throw it all off. And then Alden would try the final part of the plan. Reinhard would naturally end up stepping on top of the remains of the basket when he freed himself. Most of those strands would still be connected to the handle.
+
+And then I re-preserve, lift, and hurl him as hard as I can. He’ll smash into one of the barriers. Definitely, he’ll be injured. And if he’s not completely unconscious I…stab him with one of his own arrows or something.
+
+He didn’t know how good his chances of making it work were, but it would have been a really fun way of winning.
+
+Maybe it will work on Jeffy, too?
+
+“Alden! Alden, guess what?!”
+
+His mowhawked opponent was waving both arms when Alden stepped into the block.
+
+“Hey, Jeffy. What?”
+
+“The System says I’m two levels stronger overall now!” Jeffy started to walk toward him.
+
+“Everyone, remember to start on your own side of the dueling block,” Marion called.
+
+Jeffy sprang backward. “I also got a lamp!”
+
+Alden knew all of that already, but he was glad the guy was excited. He stared at Jeffy through a narrow gap in his basket, then he turned his new tool sideways, so that the basket was to his left and the handle extended out to his right. The block they’d been assigned was ten by twenty-five meters. If Alden stood with his back to the barrier in the start position, he couldn’t hold the basket directly in front of him. The handle was way too much unless he extended it out toward Jeffy.
+
+He didn’t think there was actually an established dueling rule for holding your six-yard-long, human hurling device, but he was sure someone would say something to him about it if he was bold enough to start with his weapon already a quarter of the way toward his opponent’s end of the block.
+
+“I heard you were working really hard during the disaster,” he said to Jeffy. “That’s awesome, man. You should be proud.”
+
+[Duel Timer: 2 minutes]
+
+[Start in 5s…]
+
+Alden took a deep breath and let it out.
+
+Nerves.
+
+Just a little.
+
+One-on-one duels at Celena North. Let’s see what this is like.
+
+******
+
+******
+
+[Fractured ribs.]
+
+Well, fuck.
+
+[Fractured ribs.]
+
+“Jeffy!” Alden said. “Let me—”
+
+“He’s a tricky Rabbit. Gotta hold him real tight for sixty more seconds,” Jeffy said in Alden’s ear.
+
+“Put me down!” Alden pried at the arms wrapped around his chest.
+
+“Get the job done. Aqua Brutes have the strength and wisdom of the ocean.”
+
+I think I would feel better right now if I were in physical pain.
+
+Jeffy had started his attack by bellowing “LAND MOVES!” and baseball sliding across the floor at high speed. Alden had been proud of himself for about a second. Despite the unexpected method of attack Jeffy had chosen, Alden had gotten his basket in between the two of them to intercept before the Brute reached him…only for Jeffy to shout, “SKY MOVES!” mid-slide and somehow lever his stupidly strong ass up and over the basket. He’d hit the floor at what had looked like a spine-breaking angle, but apparently it wasn’t, because he sprang right back up and bounded forward to grab Alden.
+
+A wordchain that helped you move better wouldn’t save you if you couldn’t predict Jeffy’s randomness fast enough.
+
+And now this.
+
+Instead of killing Alden, Jeffy was bear-hugging him from behind. The Brute had bent himself backwards so that Alden’s feet wouldn’t touch the ground. He had failed to trap Alden’s arms, so Alden could freely wave all four of his limbs helplessly in the air while an unmovable Jeffy slowly caved his ribs in and said everything in his head out loud.
+
+“Max says not to overthink,” Jeffy chanted. “Instead, overdo.”
+
+I should yield.
+
+“You look stuck there, Alden!” Instructor Marion shouted. “Perhaps you’d like to concede?”
+
+“No! I’m still thinking!” He kicked his feet. He waved his arms.
+
+He’d still had a grip on his basket handle when he’d first been picked up, but whacking Jeffy in the head with the end of it did absolutely nothing.
+
+Sixty seconds later, Jeffy set him down. Alden was breathing hard. He reminded himself that Jeffy wasn’t a deliberate jerk and him going on about the strength and wisdom of the ocean while Alden flailed wasn’t some kind of insult.
+
+“Good fight!” Jeffy held his hand up for a high five. “Wow, your face got red!”
+
+“You…” Alden took a deep breath, let it out, then slapped his hand. “Yeah. Good fight. The overdoing is working for you.”
+
+******
+
+[Dueling Block 6]
+
+[Opponent: Njeri, Shaper of Water - A]
+
+[Claim your opponent’s territory by tagging all of the marked locations on their half of the block.]
+
+[Kills: Disallowed]
+
+“Um…this doesn’t seem fair if you’re not allowed to run today,” said Njeri, staring at the red squares on Alden’s half of the block. The jumbo water jugs she’d overturned were spilling their contents onto the floor.
+
+“I’ll just do my best.”
+
+She lifted her hands, and the water began to form a blob in front of her. “But your shield is a net.”
+
+That is unfortunate versus a Water Shaper. Maybe I’ll get Reinhard next time.
+
+******
+
+[Dueling Block 3]
+
+[Opponent: Marsha, Meister of the Mutable Haft - S]
+
+[Incapacitate your opponent.]
+
+[Kills: Allowed]
+
+Just hold out for ten seconds, thought Alden. He’d ditched the handle, and he was holding the big bird’s nest shield directly in front of him with both hands. It covered his whole body and then some. Versus several members of the class, with his back to the barrier, this would be enough to ensure a draw. Versus Marsha ten seconds would be a triumph.
+
+[Start in 5s…]
+
+How to make it last that long against her?
+
+I’ll throw myself toward her as soon as we start. Using the good foot, so nobody can complain. She won’t be expecting that from me. As soon as I land, I’ll jump to the left as hard as I can.
+
+I’ll zigzag around like crazy. At least ten seconds, then I’ll find out what it feels like to take one of her hits with my skill.
+
+He wanted to know that, and this was his first opportunity.
+
+The polearm was still in glaive shape. She would probably just run straight at him as soon as they started and swing it.
+
+[1s…]
+
+[START]
+
+Alden bent his knees to throw himself toward her.
+
+A sense of threat to the space he occupied. A flash of light.
+
+No. His fingers tightened on the shield.
+
+For the briefest instant, there was a detectable battle—the authority of his skill to bear and preserve, resisting the attack of someone whose power was bound for the creation of an offensive strike. Then Alden was standing there, holding two fistfuls of severed cord and string.
+
+His skill was toast. An injury list that could have been abbreviated as “very dead” appeared.
+
+He looked across the dueling block at Marsha. She hadn’t come toward him after all. She’d just swung her weapon from over there, trusting that the magical follow-up slash would finish him.
+
+“Like chopping wood,” she muttered, stalking off.
+
+So, thought Alden, as he watched her go. This is what duels are going to be like.
+
+******
+
+******
+
+He was the second person to head to the bleachers. Olive was there, sitting with her arms wrapped around her knees and a jacket draped over her like a tent.
+
+The posture and the puffiness around her eyes made Alden think the illusionist wasn’t in the mood for company. He went past her and found a seat high enough to provide a good view of all the blocks.
+
+Should have expected this.
+
+When having one big skill was your style, and that skill was tired, you didn’t have anything to fall back on.
+
+I guess I could have told Klein that I wanted to keep going until I’d run out of temper sphere uses. The look on his face might have been worth it.
+
+He stared down at the current batch of duelists. Max and Astrid were just standing in their block, watching each other with tight postures. Alden assumed the problem was that Astrid knew Max had put down a trap, and she was trying to guess where it was.
+
+The skill that went with Max’s zone spells was one that let him adjust the effects the zones had on him. It was reduction only at this point, but that meant he could walk around in the middle of one of the traps and fool people into thinking it was normal floor.
+
+In the neighboring block, Reinhard versus Haoyu wasn’t going well for Reinhard. He ran faster than Haoyu, but not when he was shooting at the same time. Haoyu had him in a chokehold already and would be winning any second.
+
+There was still over an hour left of class.
+
+I have thirteen more classes until the end of term. Maximum. We’ll probably be dueling in a lot of them.
+
+How should I handle it?
+
+Writher plunged into the back of the Brute who’d just grabbed Lexi.
+
+Should I try to figure out how to beat each classmate?
+
+Lucille had the Object Shaper pinned to the floor. She looked apologetic about it.
+
+No. Let’s stick with the plan. I’m here to learn, practice, and grow the skill. So if I leave a fight having done that, it’s a personal win. And if I don’t get anything out of it, it’s a loss.
+
+He looked down at Marsha.
+
+No taking her hits like that again this term.
+
+He understood what it was like now. There was nothing else to be gained from a repeat.
+
+I also can’t outrun her without a ground element surface. So she’s absolutely no good for practicing defense against in a battle like the one we just had. Next time, I’ll try out something offensive.
+
+Okay, so if she’s going to stand in place and chop wood like that whenever we fight, I might as well use her to practice hitting hard and fast from range. Getting my aim down might take a while, but how fast can I make something on the end of a string fly if I have…let’s say a minute to prep it in the practice area in advance.
+
+He considered it for a couple of minutes, then put the problem aside and studied the fights going on in front of him. The outcomes were usually predictable. He wasn’t surprised by where the gaps between his classmates were, but witnessing the width of those gaps in this kind of scenario was brutal.
+
+Everyone had been freed of the need to think about delicate rescue operations, team strategy, and complicated rules.
+
+The S-ranks looked like monsters. And the S-rank Meisters looked like the monsters that ate the other monsters for breakfast.
+
+Tuyet, Marsha, and Ignacio didn’t lose except to each other.
+
+Alden didn’t see Finlay fight Ignacio, but Tuyet got the speedster by throwing all of her darts at once. And Marsha just barely beat him in a difficult-to-follow close combat situation. Alden was going to have to watch that one in slow motion. He thought Finlay’s mistake might have been positioning himself between her and the place where the polearm had fallen on the floor.
+
+S-rank Weapon Meisters were generally the killingest of killing machines. Most of them lacked the flexibility and creative options that Shapers and Adjusters had. They weren’t given as many foundation points as Brutes. What they had were magic weapons and the talents they needed to make those weapons extremely dangerous. So their dominance today was to be expected.
+
+It was to be expected…but a lot of people, including the members of the class who had seemed most eager for duels, were acting like they hadn’t expected it.
+
+The obstacle course didn’t make it as stark as this, Alden thought as he watched a boy stalk away from his duel with Ignacio. He turned back to say something that made Klein bark a warning.
+
+The tempers were getting hot in the A-on-A fights as well.
+
+Njeri was out running on the track. Her competitive streak had gotten the better of her during a fight with Heloísa, and she’d launched a jet of water at her roommate after time was called. It hadn’t seemed like she was really angry, just too into the battle and unwilling to stop mid-attack.
+
+She’d looked mortified to be sent off to do laps.
+
+As time passed, spell impressions wore out. Skills wore out. A few of the Brutes got tired and clumsy, and Klein ordered them off the floor. A couple of people went to use the bathroom and never came back. The smarter ones just had private breakdowns in their seats.
+
+“People in this program get very upset about losing,” Alden said when Lexi, wearing a towel around his neck and moving like he was exhausted, finally joined him on the bleachers.
+
+He’d done well, and he looked satisfied. That’s probably the equivalent of an average person wearing a giant grin.
+
+Lexi drained a water bottle in a few gulps. “How did you do?” he asked. “How’s Haoyu? I haven’t been able to pay attention to anything but my own fights since I started.”
+
+“Marsha butchered my magic and my body,” said Alden. “Haoyu hasn’t been winning as much as you. Some people have started running from him to force draws. But he’s going to be the last A-rank standing.”
+
+Lexi looked down at the floor, then sat up straighter at the sight of Haoyu’s current opponent. “Everly’s still in it?”
+
+“Not really. She’s been on a losing streak for a while, and she can’t run at all anymore. She just wobbles around the block until she gets killed or manages a spell cast. But when Marion tried to tell her she could quit, she shouted that she had been careful and saved her impressions and this was her gym time.”
+
+The instructor had seemed a little concerned, but he’d let her go on with it.
+
+After a minute, Lexi said, “The bridge really bothered her. It should bother us all of course, but she’s got Kon asking me for running tips. Like I’m some expert on training just because I exercise in the mornings.”
+
+“Why didn’t she just ask you herself?”
+
+Lexi frowned. “I don’t know. It’s not like I’m that hard to talk to.”
+
+Alden clamped his mouth shut and focused on Jupiter. She and Vandy had agreed to have a Shaping-only duel. They were each sitting on the floor while a ball of smashed cacti and a current of air clashed in the middle of their block.
+
+“She blinded three people.”
+
+“What?”
+
+“Jupiter. With her cactus bomb.” Alden watched the green ball creep a little closer to Vandy. “She aims for the face.”
+
+******
+
+******

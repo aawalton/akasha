@@ -1,0 +1,77 @@
+---
+id: 78acd5a6-7553-5ea5-983b-4580f7921676
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4"
+slug: 0004-chapter-4
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 4
+ownLength: 2326
+unit: words
+publishedAt: 2026-05-29
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3463408/chapter-4"
+royalRoadId: "3463408"
+---
+
+The giant portal shimmered right before me. It looked like a calm lake that had suffered a gasoline spill, giving it a dirty sheen. Every other second, tremors raced through the surface, subtly rearranging it, like things were moving beneath the surface. I felt trapped, frozen in the knowledge that I was actually observing something entirely, fully alien. I-
+
+“Hey! Move yourself, du gottverdammte Drecksau. I have a world to invade, jah?”
+
+The hostile voice tore me away from my musings, and I raised a middle finger behind me. Was it to the angry older German asshole? Or was it to the rest of the world? I wasn’t quite sure. But right this moment, I felt sure I wasn’t going to miss Earth one bit.
+
+I took a step. The world changed.
+
+A voice shouted, practically in my ear. ”Move along! Get moving! Yes, that means you, lady. Move it! You can gawk over there!” The voice was loud and hoarse as if it had been shouting all day.
+
+It was also enough to get me moving, before I’d even started taking in what surrounded me. On all sides, people were marching, in smaller groups or alone, being ushered in one direction. What was I wearing? This was-
+
+There were people here. People who clearly knew what was going on. Humans with cold, clear eyes and… magic. That nearly made me stumble, as I watched a rat-faced, dark-haired obese man wearing a leather armor that carried a shimmering aura of blue frost all around it.
+
+“That way. That way, man. You’ll get your questions answered soon enough.” Somebody pushed me from the side. I nearly struck out at him. I was all jitters and reflexes.
+
+As we moved along, I understood it, though. Constant traffic emerged from the portal, with nearly no movement going the other way. Unless people were made to move along, we’d stopper up the open ground beyond the portal in minutes. We moved as a shapeless mass, unthinking, minds trying to catch up.
+
+I came to a belated realization, my mind trying to catch up to the changes. My old clothes were gone. I was now dressed all in white, as was every single person stumbling alongside me. Not a single outlier among the bunch, we were all clad in simple, form-fitting white clothes, tailored to our shapes. I didn’t recognize the material. It was elastic, comfortable and silky soft. I also had form-fitting harder shoes, and thin socks. They’d thought of everything. Oh. My passport was gone, though. And my phone and my… everything.
+
+We were being corralled onto a muddy field. Sections of the place had been cordoned off with ropes, like cattle being prepped for slaughter.
+
+A tall, stark lady with a grey bun and what looked like simplistic sunglasses stood at the side, counting out loud. Then started the wait. A few people started talking, but she simply glared them into silence.
+
+I took the chance to properly take in our surroundings. We were on a plain. A broken-earthed, muddied plain with patches of coarse, yellowish grass here and there to break the monotony. That was all I could really see of this new, alien realm. Well. That, and the wall.
+
+Perhaps half a kilometre in either direction, a wall cut off any stares. A weird wall. At a glance, it was about six meters tall, with battlements of some sort tacked onto the top. It was also uniformly made from stone. That was where the similarities stopped. Even from afar, it looked like it had been created by three dozen different crews, who’d only ever had the plans explained to them verbally, probably while they were drunk. On one side of the camp, it looked well-made, from a grey rock. On the exact opposite, some red stone material mixed with black and white, and it looked more like somebody had tried to cobble together a bouldering area for a gym. The damn thing hurt the eyes.
+
+The tower at the centre of the walled-up area… okay. That one was impressive. And weird. Basically, it was a watchtower. An extremely thin and spindly watchtower, less than three meters across, and at least a dozen meters tall. A spot of movement on the top indicated somebody was up there. The construction looked like it was swaying in the wind – or maybe that was just in my mind. No money in the world would get me up there.
+
+I’d just thought how underwhelming the scenery was – there was nothing outlandish, nothing alien or magical – when it happened. A tremor started beneath my feet, seeming to expand into my body, until it rattled my entire being. It wasn’t just physical, but mental too. Like somebody was screaming in pain at the top of their lungs right next to me, only soundlessly. Then, as fast as it started, it stopped. I looked around to see everybody else looking about in shock and consternation. The lady with the sunglasses didn’t flinch, didn’t even show that she’d noticed.
+
+Ten awkward minutes passed, twenty. Some started talking between themselves. A few started complaining, but were silenced. The lady kept counting out loud. When she hit a hundred, she nodded, and a rope snaked out of nowhere, cutting in between two persons. She shouted. “The rest of you, move on to the next enclosure. Don’t worry. You’ll be introduced and let loose soon enough.”
+
+The pair of newcomers who’d been cut off from joining us grumbled, but moved on to the next open space, wide-eyed and overwhelmed.
+
+In front of us, the woman cleared her throat and started talking loudly. “All right, you lot. Settle the fuck down, and I’ll do you right, show you how to get powerful.”
+
+We clammed up instantly. The offer of vast cosmic powers had that effect.
+
+She chuckled. “All right. You don’t need to know who I am, because a week from now, half of you are going to be dead and I’ll have wasted my breath. That’s not hyperbole, by the way. Just statistics. Just know that I’m a Mage, specializing in telekinesis. That’s a choice I made. A conscious choice, after quite a bit of consideration. You will all have the same choice, whenever you feel like it. You can pick your class and instantly start creating your build.” She nodded. “Some of you might have located the option already. However, this is where you have a choice. You can either eschew all kinds of aid and try to make it by yourself. In that case? The plains are every damn way around us, and there’s monsters everywhere. Good luck!” She waited with one eyebrow raised.
+
+We looked at each other, blinking. I took in our state. A hundred humans. Most probably between twenty and forty years old. More men than women, but not overwhelmingly so. We looked confused. Clueless. And, one and all, dressed in the same form-fitting garments the aliens had arrived in back in Florida. A few among the group sidled to the side, as if they were going to take off on their own. But when they saw that nobody else planned to take their chances, they inched back.
+
+“I thought as much. Now. Unless you want to fuck up your choices, hold off on selecting your class and everything for now. You, for all that matters, are entirely clueless. You’re also unarmored and unarmed. But.” She pointed behind her. “Behind me are different organizations. Groups. Those who live and survive here in the Ever Steady, who’ve learned the hard way how to survive, and who are ready to impart that knowledge to you, along with other offers, like food and arms. Now. Are they going to do that for free? Of course, they aren’t. They’re going to ask for your allegiance in return. For you to follow their rules. And… probably a bunch of other crap that I don’t care about. At any moment, you’re allowed to leave and go talk to them. They’re the tents right here behind me. Just form an orderly line. If you don’t? No skin off my back. You do you and all that. You’re still free to go and pick a class for yourself, go off into the unknown and get yourself killed. If, instead, you decide to stick around and cause trouble? Well, you’ll be blacklisted from any group, and the weakest person here is likely stronger than you.”
+
+Her smirk was self-satisfied. “If you doubt me, please test me. Now, for those who can’t wait to get killing, move on and find a group to give you a nice axe. For the rest of you, I’m going to tell you what kind of place the Ever Steady is, and what the surroundings are like. Because I’m nice like that.” She settled down with a half-cocked smile, arms crossed over her chest.
+
+About two thirds of our group ambled off, looking for a group, weapons and a target – probably in that order. I stuck around. I might not be smart, but I wasn’t dumb. If a person offered to give you the lay of the land when not knowing could actively get me killed? I’d settle the hell down and listen, even if my entire being was itching at me to get with the program and start leveling.
+
+The lady stood, impassive and unflinching, expectantly waiting to see who’d stay. Finally, a cold smile burst onto her face and she rose into the air. Not a lot. She simply floated a meter into the air, looking down on all of us. “Good.” She floated closer to where the remaining thirty or forty of us had automatically scooted closer. “Now I won’t have to yell. Kills my voice.” She let her gaze slide across all of us, then nodded before talking at a more normal volume. “And just like that? You’ve improved your chances of initial survival. Here's a freebie for you. If you intend to survive this place? You need to learn. Figure out what’s what, and adapt. Those who can’t will either die or find themselves fleeing back to Earth, lacking an arm, a leg, and whatever confidence they used to have. We do not know what this place is called. But we call it the Killing Grounds. And the name is apt.”
+
+That put a dampener to the mood. She nodded softly. “Take that in. Don’t let it crush your spirit. Then use it! When you take your next step, always keep that in mind. Today, a few thousands will enter through that portal. Tomorrow might be even more. And you’re going to struggle to stand out among those, and still survive. What’s my point? It’s this. Survival comes first. Even if you climb the stairs toward power slowly, you’re still climbing. Those who intend to make it or die trying? They tend to end up with the latter. When you pick your classes, your quirks, your talents, don’t go for fancy. Go for solid, for efficient. Because survival here isn’t one clash. It’s hundreds. Every day, staying alert, fighting and struggling. And mark my words. On this world, humanity is on the very bottom rung of the ladder. We are weak!”
+
+Until now, our group had been quiet, buying what she was selling in grudging silence. Now, one hoarse-voiced, grey-haired oak tree of a woman challenged. “If we’re that weak, how come we’re still here?”
+
+The speaker took off her primitive sunglasses and bared her teeth at the question. “That’s what I’m goddamn talking about.” She barked. “Why are we still here?” She shouted the words. “You could ask that of the Earth as well, of humanity’s history as a whole. I’ll tell you why we aren’t here. We’re not here because we’re the strongest, or wisest, or fastest. There are monsters out there who have us outclassed in every damn aspect. We’re still here and will remain on top, because we’re stubborn, we’re clever and we play dirty. So, if you forget anything else I’ve said? Remember this: Humans are persistence hunters. Fucking act like it!”
+
+She did give us a few additional nuggets of information before ushering us on and opening the cordon for the next bunch of newcomers to trickle in. Honestly, her advice felt nigh-on useless. The terrain is dangerous. The climate can be dangerous. Food can be dangerous. Trust nobody and nothing, unless you’ve had it confirmed by the system. There was one thing I took to heart, though. The knowledge that we couldn’t just go out there and try to match up against everything else. Not yet. We’d have to play it smart.
+
+I did disagree with her in one area: the one about playing it safe when it came to choosing your class and all that. Because she was looking at the success of humanity as a whole, that made sense to her. But as I looked at the overwhelmed, grim-faced people milling about in front of me, moving as a confused mass in the direction of six large tents, I was forced to acknowledge another fact. Sure, it might all be about survival, about humanity earning a foothold in this new, strange world. But it was also a gold rush.
+
+Earth heard the clarion call and we were responding. And by damn, we were going to milk this place of all it had to offer. So, sure, we had to make sure we didn’t pick anything stupid and go out in a blaze of glory. But it was also a race – and if I didn’t plan for that? I was going to become a nobody. And I’d had more than enough of that experience for a lifetime. For now? It was time to see if I couldn’t find a group who’d set me up with weapons and armor so I could go out there and make a name for myself.

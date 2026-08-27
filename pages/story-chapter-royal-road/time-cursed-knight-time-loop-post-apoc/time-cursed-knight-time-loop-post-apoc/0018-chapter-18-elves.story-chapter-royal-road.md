@@ -1,0 +1,337 @@
+---
+id: dbc025f7-6640-5c92-a436-964d8519c2b6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18: Elves"
+slug: 0018-chapter-18-elves
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 18
+ownLength: 2465
+unit: words
+publishedAt: 2026-04-18
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3290210/chapter-18-elves"
+royalRoadId: "3290210"
+---
+
+I stopped dead.
+
+My eyes locked onto the professor with an intensity I couldn't hide.
+
+He wasn't the same person. That much was obvious within seconds. The man who had slit my throat had been pale with features sharp enough to cut glass. This one was different. His skin was a deep olive-brown, and his hair was raven-black. He still had those long ears, but they were not the same.
+
+Earrings. One in each ear. Small silver hoops.
+
+His build was leaner than a human's would be at his height.
+
+Not the same person. Not even close.
+
+But the ears. The proportions. The way the bones of his face were arranged. It didn't look human.
+
+I didn't need to ask what he was. The crowd around me was already doing the work.
+
+"Elf?" someone whispered, the word barely a breath.
+
+The man beside her hissed sharply. "Shut your damn mouth. That's Academy robes. Can't be an elf."
+
+A third voice, lower and meaner, muttered a single word.
+
+"Half-blood."
+
+The professor, if he heard any of it, gave no sign. He strode through the forge quarter with the ease of a man accustomed to rooms going quiet when he entered them.
+
+Behind him, a cluster of students followed in tight formation. They wore Academy uniforms I hadn't seen before, cut differently from mine. Their faces were hard in a way that first-year students' faces weren't.
+
+The professor reached the nearest active forge and stopped.
+
+Every smith within earshot turned toward him. The hammers stopped mid-stroke. Even the fire mages paused their channeling, letting the coals dim by a fraction as their attention shifted.
+
+I had watched people try to get service at these forges for the past hour. Begging, shouting over each other, waving silver in the air. The smiths had barely acknowledged them.
+
+For this man, they stopped everything.
+
+Whether it was the Academy robes, the pointed ears, or simply his presence, I couldn't tell.
+
+Maybe all three.
+
+"A staff," the professor said. His voice was measured and calm, carrying easily over the residual noise of the quarter. "Cast Acceleration runic framework. Fifth Circle capacity."
+
+Fifth Circle.
+
+The words sent a visible ripple through the smiths. One of them, a heavyset man with a long beard, stepped forward and wiped his hands on his apron.
+
+"Professor Molino," the smith said, and there was a deference in his voice I hadn't heard him use with anyone else all day. "Good to see you again."
+
+"And you." Molino inclined his head. A minimal gesture, precisely calibrated. "I need this completed today. I understand it's hard, but the circumstances require it."
+
+The smith's brow furrowed. "Today is tight for that level of work. What's the rush?"
+
+Molino's expression didn't change, but something in the air around him shifted.
+
+"We've received intelligence," he said. "Elven forces are massing along the southern front. Preparing for a push. The Academy is dispatching reinforcements ahead of schedule."
+
+The word elven landed in the crowd, making it restless. Heads turned. Whispers surged.
+
+The smith's eyes flicked toward the students standing behind Molino. His face tightened.
+
+"Students?" he asked. "You're sending students to the front?"
+
+"Fourth-years," Molino said. "All of them. They're capable."
+
+"They need battlefield experience. Real experience. Not the sanitized version the capital feeds them alongside their morning pastries. If they keep believing life is the fairy tale the politicians sell, they'll die the first time something real looks at them."
+
+The smith's discomfort was visible, etched in the deep lines of his face and the way his hands gripped the edge of his apron.
+
+But he nodded.
+
+"Late afternoon," he said. "Best I can do."
+
+"That will suffice," Molino said. "Thank you."
+
+The smith turned back toward his forge, shoulders set with the grim resolve.
+
+My mind was still stuck three sentences behind.
+
+Elves.
+
+We're fighting elves?
+
+The thought bounced around inside my skull, colliding with every fantasy story, every half-remembered book and film from my old life. Elves were supposed to be the wise ones.
+
+They weren't supposed to be the enemy.
+
+They weren't supposed to be at war with humanity.
+
+The question was supposed to stay in my head.
+
+It didn't.
+
+"Aren't elves supposed to be the good guys?"
+
+The words left my mouth before my brain could slam the gate shut.
+
+The forge quarter went silent.
+
+Every head within ten meters turned toward me. Hammers hung frozen. Conversations severed mid-word.
+
+Someone snorted.
+
+"This kid is fucking insane," a smith near the back muttered, loud enough for everyone to hear.
+
+A man closer to me spat sideways onto the packed dirt. "These capital nobles don't even know about the war? That's crazy. Can't be."
+
+Laughter rippled through the crowd. Disbelieving laughter. The kind directed at someone who has revealed themselves to be too stupid or too sheltered to deserve the air they breathe.
+
+The worst part wasn't the crowd.
+
+It was the professor.
+
+Molino's gaze found me.
+
+His dark eyes moved over my face, my white hair, my Academy insignia, and I watched recognition dawn behind them.
+
+"Kaspar," he said. "I expected more from you. But it seems that being from a powerful family has led you to lose your way entirely."
+
+The students behind him shifted. I could feel their gazes landing on me, one by one, like darts thudding into a board. Contempt gathered in their expressions.
+
+I didn't know this man. I had no memory of Professor Molino. No shared history, no previous conversations to draw upon.
+
+But he knew me.
+
+He knew my name and my house and whatever reputation had preceded me.
+
+I had no defense.
+
+Anything I said would sound like an excuse.
+
+So I held his gaze.
+
+I didn't flinch. I didn't look away.
+
+Molino studied me for a moment longer. Whatever he was looking for, he either found it or gave up.
+
+He turned away.
+
+The tension didn't break. It lingered as the crowd's attention remained fixed on me, their expressions ranging from pity to amusement to disdain.
+
+As they kept their attention on me, a new voice cut through from the entrance.
+
+"The carriages are ready."
+
+A young woman stepped through the forge quarter's archway.
+
+She was perhaps my age, give or take a year. Her hair was mix of orange and red, short and practical. Her frame was compact but walked with confidence. She wore the Academy uniform, same cut as the fourth-years, but something about her bearing separated her from the group.
+
+Her eyes found Molino immediately.
+
+"Professor, you can go ahead with the main group," she said. "Once the equipment's finished, I'll bring it along."
+
+"Thank you, Drez," Molino said. A nod, brief and approving. "I'll leave it in your hands."
+
+He departed without another glance in my direction. The cluster of fourth-year students followed him.
+
+The girl remained.
+
+She stood near the entrance with her arms folded, watching the smiths return to their work. She hadn't looked at me. Hadn't acknowledged my existence at all.
+
+But I was looking at her.
+
+Specifically, at the insignia pinned to her collar.
+
+It was the same design as mine. The same Academy crest.
+
+Except mine was black.
+
+Hers was gold.
+
+The difference was small enough to miss if you weren't looking. But I was looking. And I'd seen enough of this world's obsession with hierarchy and classification to know that color didn't mean nothing.
+
+The forge quarter was returning to its normal chaos. Hammers resumed. Voices climbed. The brief spectacle of my humiliation was already being forgotten in favor of more pressing concerns.
+
+I didn't wait for someone else to take a shot at me.
+
+I turned on my heel and walked out.
+
+The sword sat at my hip, concealed beneath my robe.
+
+The town's main gate was ahead. Two guards flanked it, armed with crystal-topped staves, their postures suggesting boredom rather than vigilance.
+
+I walked up with the stride of someone who had somewhere to be.
+
+"Name and affiliation," the nearer guard said, not looking up from a ledger propped on his forearm.
+
+"Kaspar. Academy expedition, southern caverns."
+
+He scratched something in the ledger. "Purpose?"
+
+"Training."
+
+The guard finally looked up. His eyes traveled over me, pausing on the Academy insignia.
+
+"There's a training ground inside the walls," he said. "Eastern quarter, plenty of space."
+
+"It's crowded," I said.
+
+The guard exchanged a glance with his partner. A shrug passed between them.
+
+"Suit yourself," he said, stepping aside. "Stay within visual range of the wall. If you see anything moving that isn't human, don't be a hero. Run."
+
+"Understood."
+
+I stepped through the gate.
+
+The cleared land around Grezheim extended in every direction.
+
+No crops were planted. No trees stood. The ground had been stripped to bare earth and low scrub, deliberately maintained to ensure nothing could approach the walls unseen.
+
+I turned slowly, scanning the perimeter. In the distance, perhaps a kilometer out, the terrain resumed its natural state. The same low hills and scrub forest.
+
+Nothing moved.
+
+No monsters or patrols.
+
+I walked until the wall was a comfortable distance behind me, close enough to sprint back to if something came, far enough that no guard on the rampart could see exactly what I was doing.
+
+I drew the sword.
+
+It came free with none of the clean, whispering elegance of the officer's blade I'd stolen in the loops. The leather grip shifted slightly in my hand.
+
+I held it up and examined it properly for the first time.
+
+Short. Two and a half spans from guard to tip. The blade tapered to a point shaped like a diamond, faceted on both sides, with a gentle curve along the cutting edge that swept toward the tip. It wasn't a thrusting weapon exclusively, nor a slashing one. It sat somewhere between.
+
+The guard was almost nonexistent. A thin bar of metal that barely extended past the grip on either side. My knuckles were essentially exposed.
+
+Against a world of monsters and magic, the absent guard wouldn't have bothered me.
+
+Who fights with swords in a world of fireballs and mana shields?
+
+Yet, the memory of the hooded figure stopped that logic.
+
+He had used a curved blade.
+
+I was going to face someone tonight who also fought with steel.
+
+My fingers tightened on the grip and I swung.
+
+The blade cut the air differently then I was used to.
+
+It was lighter. The reduced weight was obvious, not in some abstract, analytical way, but in the raw sensation of my arms and shoulders. They didn't protest. The burn I'd grown used to, that fire that crept from forearm to shoulder after a dozen swings, didn't arrive.
+
+I cut again. Diagonal, high to low.
+
+My wrist held. My elbow stayed locked at the right angle. The movement completed without the wobble that had plagued me with the heavier blade.
+
+Again. A horizontal slash, recovering into a thrust.
+
+The tip didn't quiver as much.
+
+The difference was dramatic enough that I paused, breathing hard, and stared at the blade as if it had spoken to me.
+
+It wasn't just the sword's weight. My body felt different too. The Amateur Swordsmanship at Level 1, the thousand repetitions the system had counted, the deaths that had purchased muscle memory, all of it was present in the way my wrists set before a cut and the way my hips drove rotation instead of my shoulders muscling through it.
+
+The lighter blade amplified everything.
+
+I stepped into a sequence. Slash, recover, pivot, thrust. The same pattern I'd drilled in the cavern.
+
+The short blade completed each motion faster. The transitions were tighter. I could change direction mid-swing with a flick of my wrist rather than the full-shoulder commitment the longer sword had demanded.
+
+But the trade was there too.
+
+Reach.
+
+I could feel the missing inches. Every thrust terminated closer to my body than it should have. Every slash covered less arc. The wyvern's mouth, with its gaping maw and the vulnerable sacs inside its cheeks, would have required me to be inside the jaws to land the same strike.
+
+That's a problem for the next time I fight one.
+
+Tonight, the enemy was man-sized. Or close to it.
+
+I shifted my focus. Shorter movements. Tighter arcs. Cuts aimed at close range, at the distances where someone was already inside your guard. I practiced slashes that began from a withdrawn position, compact motions that sacrificed power for speed.
+
+The blade responded.
+
+It liked being used this way.
+
+The unforgiving nature of it became clear as I pushed harder. With a longer sword, a sloppy cut still carried enough mass to do damage. With this blade, a sloppy cut was just a sloppy cut. If the edge wasn't aligned, if the angle was wrong by even a few degrees, the impact would skip off instead of biting.
+
+It demanded precision. It punished laziness.
+
+But when I got it right, when the edge and the arc and the timing aligned, the blade moved through the air with a speed that made my breath catch.
+
+This weapon could kill. If I was good enough.
+
+After several minutes, the fatigue arrived. Slower than before, but undeniable. My lungs burned. Sweat ran freely down my temples and soaked the collar of my robe.
+
+I stopped.
+
+Not yet. Not time to push to the limit. Tonight would demand everything I had. I couldn't afford to face it exhausted.
+
+I sheathed the blade, wiped my face with my sleeve, and turned back toward the gates.
+
+The guards watched me approach with mild amusement.
+
+"Productive?" one of them asked, eyeing the sweat staining my robe and the red flush across my face.
+
+"Very," I said, still catching my breath. Then, before the moment could pass. "Is there a library in town?"
+
+The guards exchanged the same glance they'd shared earlier. The one with the ledger shrugged.
+
+"Not exactly," he said. "Town hall has some books. Basic stuff. History, local regulations, a few primers on mana theory. Nothing that'd impress an Academy student."
+
+"You're better off waiting till you get back to the Academy," the other guard added. "They've got more books than you could read in a lifetime."
+
+"The town hall will do," I said. "Where is it?"
+
+"Central square. Big stone building. Can't miss it."
+
+I thanked them and passed through the gate.
+
+It wasn't much.
+
+But I couldn't read this world's language, and every hour I spent unable to decipher a sign, a notice, a warning, or a book was an hour I was blind. Iris had started teaching me in the loops, sounding out letters, correcting pronunciation.
+
+Maybe the town hall's basic primers were exactly what I needed. Children's books. Simple sentences.
+
+I had a few hours before nightfall..
+
+A few hours before Grezheim burned.
+
+I walked faster.

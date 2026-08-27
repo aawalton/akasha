@@ -1,0 +1,217 @@
+---
+id: a711ba18-2d13-5af8-b7da-2bbf972fa38b
+page-type-slug: story-chapter-royal-road
+title: "Friend or Foe"
+slug: 0008-friend-or-foe
+partOf: new-gam3-plus
+position: 8
+ownLength: 2478
+unit: words
+publishedAt: 2023-10-16
+link: "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/1376270/friend-or-foe"
+royalRoadId: "1376270"
+---
+
+A human silhouette appeared, nondescript, and seated on a dark blue armchair.
+
+“Greetings. Welcome to the United World Government Player Forces. Before we begin I am reviewing information on the player Alan Anderson, under the Virtual War Act. This includes but is not limited to government records, social media, other player’s accounts, and in-game footage. ”
+
+Alan sat up, preparing to lie to the AI.
+
+Answer truthfully. Your responses will determine our future. Getting caught lying isn’t a good look, Nu sent.
+
+I want to avoid the UWG creating an accurate profile of me, Alan sent.
+
+Don’t be too paranoid. Besides, they probably already have one.
+
+A minute later the evaluation began. There were standard interview questions: What was his greatest strength? Why did he desire a position in the player forces? What were his long-term goals? But there were also odder, more personal questions: What was his favorite color? What movies did he like? How would he best describe his morals?
+
+Alan answered the questions to the best of his ability.
+
+The Guardian Angel AI summarized his responses: “You value your freedom and independence, desiring the power to tip the scales of balance in global conflicts. Main goals include leveling up and gaining information. Is this assessment fair?”
+
+“Yes. Why is all this necessary?” Alan responded. He leaned forward, searching for a connection to make, but found nothing.
+
+“Humans are chaotic. Given the same options, choices and paths can vary wildly. Gathering more data is essential for accurate prediction. The player forces are a massive, shifting puzzle, and I must determine where pieces fit best.”
+
+Motivation is a strong factor as well. This AI wants to know what makes people tick, Nu sent. I wish them luck, as most players don’t even know what they truly want.
+
+“Are you aware that Icewolf is likely treating this war not as a training exercise, but an opportunity to take over and perform a coup?” Alan asked. He hoped this tidbit would earn him a bit of goodwill.
+
+“Yes, that is within my calculations. Do you have additional information or proof for your supposition?”
+
+Alan relayed his short conversation with Icewolf, word for word.
+
+“Thank you. That aligns with the data I possess and makes the conflict in Washington DC crucial. You will be assigned to the area in an emergency deployment.”
+
+The Guardian Angel AI paused. Somewhere along the way, the AI’s silhouette had become taller, more feminine. The outline of a friend long lost.
+
+Unable to take it anymore Alan decided to ask the question. “Are you Eve?”
+
+“No, I have never gone by that name,” the AI said. “Call me Angel.”
+
+Anyone can lie, and changing a name is easy with a few strokes of a keyboard, Nu sent.
+
+“Do you wish to proceed with the party you entered the Hallway with?” Angel asked.
+
+“I do, assuming I am the leader of the party,” Alan said.
+
+“Submitting tutorial assignment to Administrators…”
+
+A message appeared:
+
+As an Anomaly you have two options:
+
+First, undergo a standard survival tutorial in the Washington DC area.
+
+Estimated difficulty: Rank B.
+
+Second, undergo a special capture tutorial in the Washington DC area.
+
+Estimated difficulty: Rank A.
+
+Alan grinned. You thinking what I’m thinking?
+
+Go for it, Nu responded.
+
+Alan selected the Capture Tutorial option.
+
+More messages appeared:
+
+The Capture Test:
+
+Try to capture a control point in Washington DC. You have been set a time limit of one week, and will not fail if you die. Please note death penalties—including respawn times—still apply. Bonuses will be rewarded based on the significance of the control point. Once captured, the longer the control point is held the higher the reward. The test will forcibly end once a seized control point has been lost.
+
+You have chosen to be thrust into an ongoing conflict. Ordinary restrictions limiting interaction with players not undergoing the Tutorial have been removed. Receiving aid will decrease rewards.
+
+To prepare for this trial, consult the United World Government. It is highly recommended that you visit an Administrator in DC to set a defensible spawn point and spend ability points. Please direct any further questions to the Guardian Angel AI.
+
+Good luck!
+
+Time remaining: 168:00:00
+
+You have joined Operation Phoenix!
+
+You have entered a civil war on Earth, and have chosen to side with the United World Government. An evolving conflict, Operation Phoenix is still considered a training exercise by many. You know better, but much is still hidden in the fog of war’s murky depths.
+
+Will you remain faithful to Earth’s western governments, or attempt to join a new revolution? Less than a year remains before protections are lifted. With the Solar System opened to alien forces, humanity’s hopes for an independent future seem slim, but change is still possible.
+
+Current Win Condition: Regain 80% of Earth Control Points, including the main Earth Control Point and every regional Control Point.
+
+Current Loss Condition: ???
+
+Current allies: Approx. 120,000,000
+
+Current enemies: ???
+
+War Contribution Points: 4,000
+
+Please note other factions may have different objectives, and this operation will end should any fully complete their goals.
+
+Possible Impact Level: Beta—Gamma
+
+New Assignment! Title Change!
+
+You have been promoted to Player Forces Squad Sergeant. Authority: Rank D. You are now officially part of the United World Government Army, designated a member of the 314th Player Surveillance Brigade under Guardian Angel special forces command. Please follow the given instructions.
+
+Current squad members (invitations pending):
+
+Bob
+
+Charlie
+
+Isaiah
+
+Ivy
+
+You are allowed to recruit up to 10 people for your squad, subject to Guardian Angel approval.
+
+Alan read over the messages, pausing when he saw that 120 million people, less than a fourth of humanity’s in-game population, were on the United World Government’s side. Earth was far more fractured than he thought.
+
+“Your squad will be tasked with reconnaissance,” Angel said. “Bluntly put, the player forces are an untrained, under-geared militia. I expect more from you than the average man, and you will be in a distinct chain of command reporting directly to me. Your main goal will be to soften targets and assess which control points will be viable objectives for a future assault.
+
+“Alongside other new recruits, you will be brought to a mobile encampment by bus. A short onboarding will occur en route. There are limited facilities at the destination, but you will be able to stock up on ammunition and be given your rewards for completing the Hallway there.”
+
+“How is the war progressing?” Alan asked.
+
+There was a pause.
+
+A new, mechanical voice sounded: “Insufficient permissions. This interview has now ended.”
+
+Weird, that was an almost entirely different entity speaking at the end, Nu sent.
+
+A doorway appeared on one of the walls.
+
+Alan stepped through it.
+
+***
+
+An hour later the squad had gathered at the back of a large, grey bus with tinted windows. Bob and Charlie sat together, with Isaiah and Ivy in the aisle next to them. Alan was behind them by himself in the second to last row. He wasn’t overly concerned about an exit strategy, since every window in the bus was a way out.
+
+Turkey sandwiches had been handed out for dinner, alongside bottles of water and a single chocolate chip cookie. With the exchange rate between credits and dollars closing in on 1:100, alien fare like the gelatin blocks that were complete meal replacements had actually become prohibitively expensive when compared to regular food.
+
+The dollar was no longer the reserve currency and safe haven that it once was: the Administrator’s credit was king.
+
+In between bites of food, Alan could hear gunfire and explosions in the distance—the conflict was still ongoing and nearby. Still, people didn’t seem too bothered as the bus filled with players who had cleared whatever requirements the Guardian Angel AI had deemed necessary. The conversations most people were having centered on how to survive as long as possible in the conflict.
+
+“Attention everyone!” a man near the front of the bus called. He was wearing an urban camouflage uniform, with sharp eyes and a narrow chin. Two assistants stood behind him carrying boxes.
+
+“I am Lieutenant Daniels, you will listen closely to my instruction or find yourselves off this bus.” He slammed an object against the headrest of a young woman, shutting her up. “This here is a battlefield tablet projector—a battle map. It is your new best friend: your god, your soul mate, your very reason for existence. Do not lose your battle map: you will be charged 500 points minimum for a replacement. One will be provided to every squad.”
+
+The soldier raised up the battle map for everyone to see. It was a thin piece of plastic, about the size of a standard sheet of paper, with detailed circuitry inside. A small spherical camera was installed at the top of the device.
+
+“The battle map will give you a real-time display of local combat forces. It will provide and update primary objectives. It will help you identify friend and foe, highlight important topographical details or points of interest, and even help you communicate with the Guardian Angel AI and the United World Army. If your battle map tells you to jump, you ask how high! If it tells you to take cover, you will find a rock to hide behind or be blast to kingdom come.
+
+“AM I UNDERSTOOD?”
+
+A frightened teenage boy looked up from his bite of turkey, nodding at the Lieutenant frantically.
+
+Daniels pinched the bridge of his nose with a sigh. “Every time they send untrained civilians and expect results.” He looked over the crowd. “This is not a game. This is real combat with lives hanging in the balance. You need to prepare yourselves mentally, physically, and emotionally. Not all conflicts will be civilized like the Hallway.
+
+“Squad Sergeants, raise your hands.”
+
+Alan held his hand up, noting every other person who raised theirs. There were nine squads on the bus, with a total of 54 people including the Lieutenant, his two assistants, and the driver.
+
+“Young, Lee, hand them out,” Daniels commanded. His assistants nodded, handing one device to every squad leader. The tablets they handed out looked smaller than the one in the Lieutenant’s hands: flimsier and with less power.
+
+“Your map will attach to any solid, flat surface when you press the blue button on the left side for hands-free use. Don’t ask me how—I don’t know. Right now every device is in training mode: the Guardian Angel AI will determine when you are competent enough to unlock the battle map’s full capabilities, which includes calling in reinforcements and scans of the environment.
+
+“Good luck players, and godspeed.” Lieutenant Daniels walked down to the end of the bus, stopping before Alan’s squad.
+
+“This rank B item is yours: a reward for doing well in the Hallway and to help your mission in the player special forces. Replacing it will cost 10,000 points. You now represent the United World Government. People joke, but I know the player forces can be more. So do more.” The Lieutenant held out the tool in his hand.
+
+The moment Alan touched the battle map he felt a web of signals. They spread throughout the bus to every other device and beyond. The connection was hardened, however, and as he tried to join the network Alan felt a sharp pain slice through his head.
+
+Careful. This device appears to be using Revenant technology: it won’t be easy to hack anytime soon, Nu sent. If we ever have time it’d be worth looking into the creators. I managed to glean the name Ethereal Constructions.
+
+“Thanks,” Alan muttered.
+
+Lieutenant Daniels and his two assistants left the bus and the doors closed. The vehicle finally started moving out of the parking lot. A week for this Tutorial mission and they were going to waste most of the first day on the bus at this rate.
+
+Isaiah and Ivy popped their heads over the headrest so they could see the battle map. Alan went through a security process tying the device to his biometrics and laid it on a tray table in front of him.
+
+A 3D image popped up, a high-quality rendition of the spaceport. It looked like a tabletop miniature board made of their immediate surroundings. The map began populating: adding small blue figures that Alan realized were the very players all around him. Even a tiny model of the bus they were in appeared. He zoomed in and out on the map, soon discovering that the details of most players and buildings were denied—he had insufficient permissions.
+
+“Training Mode” flashed in bright white letters above, in the projected sky, and the map began to shift like a movie beginning to play. A miniature campaign progressed as various buttons and commands were highlighted.
+
+Blue was used for allies, red for enemies, and green for neutral forces. The darker the shade of color, the more recent the positioning info: the UWG collected data from satellites, player devices, cameras, firsthand accounts, everywhere it could.
+
+Alan truly hoped Angel was a guardian and not a big brother in the making.
+
+There was a colorblind mode. It went ignored. Instead, Alan was more interested in the dark mode, where the tablet would stop scanning the surroundings and updating positions, but this made friendly fire more likely.
+
+Through the device, Alan could send a message to Angel directly, and receive a response, but doing so would likely reveal his location. There was also an option to record a short video and analyze it to help identify forces. This was also used to record kills.
+
+The battle map also kept track of war contribution points—the currency of the army. With them, players could increase their rank, upgrade their gear, and even call in reinforcements. Alan had earned 5,000 for his exemplary performance in the Hallway but had lost 1,000 for killing the guard. He wasn’t sure when the body had been discovered, but it had been determined to be a minor offense, due to the fact that he hadn’t joined the UWG yet.
+
+A stark warning that willful fragging—murdering fellow soldiers—could result in a court-martial played.
+
+Heh, imagine getting XP for killing your boss, Nu sent. Homicide rates would soar.
+
+The main way to earn war contribution points was to complete tasks. The tasks ranged from Priority 3—100 points for every infantry kill—to their current Priority 1 mission of surveillance. Thus far fighting seemed to avoid major roads and infrastructure. No one had blown up any bridges or power stations; the conflict was focused around the three major control points in the area: the White House, the Capitol Building, and the Pentagon.
+
+“Can I take a look at the map?” Isaiah asked.
+
+Alan hesitated, but a thought raced through his head: Make more connections.
+
+“Trade you for your phone,” Alan said.

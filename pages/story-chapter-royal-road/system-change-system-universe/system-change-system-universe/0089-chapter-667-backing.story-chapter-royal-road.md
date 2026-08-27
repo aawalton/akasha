@@ -1,0 +1,137 @@
+---
+id: cae9c006-54c8-55bf-8b35-e2839a101ad6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 667: Backing"
+slug: 0089-chapter-667-backing
+partOf: system-change-system-universe
+position: 89
+ownLength: 2195
+unit: words
+publishedAt: 2026-07-16
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3686733/chapter-667-backing"
+royalRoadId: "3686733"
+---
+
+Chapter 667: Backing
+
+"Hmm..." Derek imitated the old man and rubbed his chin in thought. He'd been setting himself up for this moment with his acting. Now, he just had to figure out the best way to play it without saying he was from the Gravenholt Clan. They could assume all they wanted, but he felt it wouldn't be the best idea if he said it when it wasn't true at all. Let's do it like this... he thought, then said, "You know, I'm not exactly from any clan or organization, to be honest."
+
+"Not from any clan or organization?" the man replied, his eyes narrowing just a little in confusion. "Could you please explain? You are much too advanced for your age to have no backing."
+
+"That's not true at all," Derek replied. "Because I had no backing, I became advanced for my age. When you choose to rely on yourself and nobody else, the gains that you can make in a short amount of time will surprise you. I mean, look at where your clan sent Alex. Isn't it the same thing, but on a much smaller scale? And if I'm being even more honest... both my parents died in that incident, and I wasn't even level 25 yet." To be fair, he didn't even have a system yet. But the hall master didn't need to know that.
+
+"You're being completely serious, aren't you?" Hall Master Sheen asked. "You are not easy to read for someone so young, but I don't sense any lies. There may be something you're not telling me, but you are not lying."
+
+"Well, I can't give away everything, now can I?" Derek replied with a chuckle.
+
+"So, you actually do not have a backing?" the hall master hummed. "I know I said I wouldn't bring it up again, and I am sorry that I am, but if that is so, then why would you choose not to marry into a prestigious clan such as the Loomis Clan? Why forgo gaining that backing? Even if you have a girlfriend, I am sure she would understand. And who is to say she could not join you?"
+
+"Uh... well..." Derek muttered. The final words of the man caught him off guard. I guess it's still one of those things where each clan may look at marriage in a different way. Who am I to judge? Finally, he shrugged. "I'm a one-woman kind of man," he said. "And, like I said, that one woman is scary."
+
+"I see," the man burst out in another laugh. "My wife was the same. She would have approved of your answer. But still, to have no backing and risk offending the Grimshaw clan..."
+
+"I never said I didn't have any kind of backing. I said I 'had' no backing," Derek explained.
+
+"Oh? So we are just too late? I take it your girlfriend is from the backing party?" Hall Master Sheen asked.
+
+"Nope," Derek replied and left the man stunned once again.
+
+"Then..." the hall master frowned. "You will have to forgive me. I am currently at a loss for words."
+
+"No need to apologize," Derek replied with a shrug. "I tend to have that effect on people."
+
+"I bet you do," the man replied. "I am still curious to know about your backing, if you do not mind."
+
+"Of course," Derek replied. Here goes nothing, he thought, then flicked his wrist—showing the black guest pass to Origin City.
+
+"Ooh!" the man's eyes widened, and the shine grew even brighter. "A guest pass to Origin City? At your level? It seems that I was mistaken in my previous judgment of your abilities. For someone with a guest pass to give it to someone at your current age and level, you must truly be a one-of-a-kind talent. I... I am actually not sure if I should pry any further—though my curiosity has reached an apex."
+
+"Eh," Derek replied with a shrug. "I met a guy, and we hit it off. Turns out, he was a Transcendent. It's a crazy universe."
+
+"You... hit it off... with a Transcendent?" the man stared at Derek, dumbfounded for a second time in the conversation, before rolling his eyes and snorting. "Of course you did. Why wouldn't you? You are not normal at all. Did you... speak to him the same way you have spoken to me today?"
+
+"No," Derek replied and saw the man let out a sigh. Then he said, "I was much less formal with him than I have been with you. That bastard interrupted my adventuring out of nowhere."
+
+"You... what... how..." the man stuttered. "Which Transcendent would allow such... informalities?"
+
+"You have," Derek replied with a shrug. "Oh, and it was Dave."
+
+"Dave?" the man asked, then shook his head. "I know no Transcendent who goes by the name Dave. And you were lucky to have met me. Most Ascendants wouldn't take kindly to such a casual way of speaking."
+
+"Ah, but I paid attention to your conversation with these two," Derek replied with a shrug. "You didn't seem to be like 'most' Ascendants. I'm decent at reading people, too," he explained with a slight smirk, which caused the hall master to chuckle. "Oh, by the way, Dave isn't his real name. It's a nickname that he told me to call him."
+
+"Oh," the hall master replied. "That is interesting." The man brought the mug to his lips and took a sip of the 'mundane' coffee. Derek waited until the perfect moment.
+
+"Yeah, his name is Davenresh," he said, and the man spat the coffee out all over the place.
+
+"A Gravenholt?" he choked out, staring dumbfounded at Derek. "The young Gravenholt who surprised the entire universe with his Transcendence out of nowhere? How? There is barely any information on the man, yet someone like you..." The man put his hand to his forehead and shook it. "I do not understand. This is all... unexpected." Finally, he looked up. "So, you have the backing of a clan with an Exalted Transcendent."
+
+"Uh... no," Derek replied.
+
+"Huh?"
+
+"I have the backing of Davenresh Gravenholt," Derek clarified.
+
+"It is one and the same!" the hall master replied. Then, he looked over at Alex. "You truly make good friends." He burst out laughing yet again. "Bringing home a future High-Ascendant at the very least... possibly even a Transcendent with such backing."
+
+Derek definitely doubted what the man was saying. Dave had mentioned that if he'd joined him, his father would likely step in against the Void Emperor. However, since Derek chose not to accept Dave's offer, he really only had Dave behind him. However, what the hall master was thinking was exactly what Derek wanted him to think.
+
+"If you say so," Derek replied. "We didn't really get into it. After like... his third visit, he gave me this card and told me to come visit him in the city when I get a chance."
+
+"He visited you? Three times?"
+
+"Something like that," Derek replied.
+
+"Then he must have wanted to vet you—to make sure you were worth his time," the man said, taking a deep sigh. "This wasn't on a whim, like some Transcendents may do... he met you, and he made sure. Boy, you are one lucky fellow."
+
+"I guess," Derek replied. "I mostly just run around and try not to die."
+
+"Very true!" the man replied. "I guess I shouldn't call it luck. It seems like you make your own luck." Hall Master Sheen sighed, then shook his head. Finally, his eyes fell onto Captain Hawthorne, who was having a hard time processing everything. "Hawthorne!"
+
+"Y-yes! Hall Master?" he managed to say.
+
+"You will say nothing about this man to anyone. Got it?" the hall master said. "And when I say anyone, I mean anyone. I will not make you take an oath, but know that speaking of Derek Hunt to anyone other than me will put you on my bad side—will put you on this entire hall's bad side."
+
+"I... understand!" the captain bowed deeply and let out an audible gulp.
+
+"Good!" Hall Master Sheen said. "Now, go back to the front. I have given you access to certain halls to peruse. The clerk will have your card waiting. You have 24 hours."
+
+"Y-yes! Sir!" he bowed even deeper this time—if that was even possible. "Thank you so much, sir! I will not forget this kindness."
+
+"Go!" the hall master shooed the captain away. Captain Hawthorne quickly stood, turned, then almost disappeared out of the room in the blink of an eye. The hall master let the grin fall back over his face, then spoke. "I do have a question, Mr. Hunt."
+
+"Call me Derek," Derek said. "And what question is that?"
+
+"If you have met Davenresh on multiple occasions and you have been invited to join him inside Origin City, then how did you come to be on that Abandoned Battlefield Planet with young Alexander here?" the hall master asked. "Why are you so far away from the Gravenholt Planets or Origin City? Why are you here?"
+
+"Oh... that?" Derek put his hand on the back of his neck. "It was more of an accident than anything else," he said. "I didn't exactly mean to go to that planet. I just sort of ended up there."
+
+"You just... ended up there?"
+
+"Yeah," Derek replied. "You know how there are items and things that can just randomly teleport you somewhere in the universe?" Derek knew there were such things. There were escape scrolls and teleportation scrolls—albeit with limited distances—back in Cydaria, and he was sure such things existed in the Universal System, too. "That planet is where I found myself."
+
+"Truly?" the man asked. "Did you truly just end up on that desolate planet through an uncontrolled teleportation?"
+
+"I could swear an oath that I was teleported to the planet with no idea where the destination would be," Derek said.
+
+"Were you trying to escape something? Or someone?" the hall master asked.
+
+"I was trying to leave a place that I'd been for quite some time," Derek replied. "It was the only way out I had, and... well... it worked."
+
+"Seeing you standing here..." the man sighed. "It looks like you are correct." The man shook his head with the same genuine smile that he'd worn for the majority of the time. "So, then, I suppose you have plans?"
+
+"I do," Derek replied. "I've finally decided to head to Origin City. I would appreciate it if you could point me in the right direction."
+
+"Of course," the hall master said. "I would be more than happy to send you in the right direction. However, you will have to give me one or two days to make the arrangements to get you off the planet. Even though we are only in Protocol 2, it is enough that we have certain restrictions about people coming both in and out. I will have to get it cleared. It shouldn't be a problem, just extra precautions that not even I can skirt."
+
+"An extra day or two isn't going to hurt anything," Derek replied. "Will you be able to send me directly to the planet that the city is on?"
+
+"Oh, no," the hall master said, shaking his head. "We are, unfortunately, quite a distance away from Origin Planet. You will need at least three long-distance teleportations to reach it. Still, it shouldn't be a problem. We will be able to provide the first two, and the last teleportation—the one to the planet—will have to be done from a public teleporter, as no clan has a direct way to reach Origin Planet. You will have to show that you have permission to go to the planet—which that pass is more than enough for—and then they will send you there. From there, you just have to make your way to the city. Once you are on the planet, you need not concern yourself with your safety any longer, but I'm sure you know that already."
+
+"Dave mentioned it," Derek replied.
+
+"Good," Hall Master Sheen said. "In that case, it was a pleasure meeting you, young friend. I am certain young Alex will not have a problem with you keeping him company for the next couple of days. If he does, you may come and find me, and we will figure something out. My granddaughter has quite the living arrangement in the first branch." He chuckled and winked. Derek knew he was joking, so he laughed and shook his head.
+
+"No, sir," Alex replied. "Derek is welcome to stay with me for as long as he would like. And I'm sure my father won't have a problem with that after he learns that he saved me."
+
+"I'm sure he won't," the old man said. "And Derek, do not worry about being 'interrogated.' I will update your status to VIP Status, and nobody will bother you unless they are higher ranked than me. And I don't think you have to worry about that, as those clan members are few and far between. I will see you as soon as your teleportation is available."

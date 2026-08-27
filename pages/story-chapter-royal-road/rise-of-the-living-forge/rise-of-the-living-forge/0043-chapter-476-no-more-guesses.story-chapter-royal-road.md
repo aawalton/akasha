@@ -1,0 +1,169 @@
+---
+id: 2b5f2ab9-08fd-58dd-92dc-398e9b68e523
+page-type-slug: story-chapter-royal-road
+title: "Chapter 476: No more guesses"
+slug: 0043-chapter-476-no-more-guesses
+partOf: rise-of-the-living-forge
+position: 43
+ownLength: 1864
+unit: words
+ownProgress: 1864
+publishedAt: 2025-09-03
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2571371/chapter-476-no-more-guesses"
+royalRoadId: "2571371"
+markedReadAt: "2026-06-29T19:59:49.558Z"
+---
+
+It was surprisingly easy to slip away from the Blacktongues’ party. None of the nobles that had watched Arwin’s fight wanted to get too close to him. No matter what their believes or gaps in understanding said about how strong a smith could be — they’d just watched him kill an adventurer.
+
+At least, they all thought they had.
+
+That was enough to make sure none of them got too close. They parted around Arwin and he quickly banished Gehenna before slipping into the mess of people. Fortunately, the Blacktongues had invited quite a few people. Getting lost within a crowd this big wasn’t too difficult. It wasn’t long before Arwin vanished within the sea of bodies.
+
+He didn’t waste time idling around. More than enough time had passed since they’d arrived at the party. Rodrick would be wrapping up his work soon. With any luck, Reya would be doing the same. All that remained was to secure Thane and get out of here before anyone figured out just what had happened.
+
+The only part of that plan that he was mildly concerned about was the last one. Vanessa was an excellent distraction. He didn’t need to see her working to know that she would be effective. It was getting her and Thane out of the spotlight that he was less confident in.
+
+I hope she hasn’t brutalized anyone too important. Not that anyone of any real relevance is going to be here… but I digress. I want to get back to the Armory as soon as I can.
+
+Arwin slipped free from the crowds and made his way across the courtyard to their designated meeting point. When he arrived, he was pleased to find that Reya and Lillia were already there waiting for him. Esmerelda, Rodrick, Vanessa, and Thane were still nowhere to be seen.
+
+“Any trouble?” Lillia asked.
+
+“No.” Arwin shook his head. “Gehenna worked perfectly. Mask’s dagger couldn’t break through it. It doesn’t seem like he used the dagger himself, though. He was a trained fighter, but he didn’t have the same level of power that Hein seemed to.”
+
+“Interesting,” Lillia said with a frown. “So does that mean the higher up members of the Adventurer’s Guild aren’t actually utilizing their own weapons?”
+
+“Maybe there are some big drawbacks,” Reya said.
+
+Arwin just shook his head. “I don’t know. The dagger is secure, I trust?”
+
+Lillia nodded. “And hidden away. Nothing to worry about.”
+
+“Good,” Arwin said. “Then the rest will be determined in short order. We just need to get everyone out of here. Something tells me Thane isn’t going to want to stick around for this party.”
+
+“It’s still half his,” Reya said, sending a sad glance in the direction of the distant nobles. Even with everything that had happened, sounds of merriment and celebration filled the air. They all knew equally well that none of it was meant for Thane.
+
+“Technically speaking, his birthday is tomorrow,” Arwin said. “We can celebrate it then. There’s nothing to be gained for anyone by standing around and watching everyone suck up to Drake.”
+
+A large woman with curled, golden locks of hair that swayed around her face in a mesmerizing pattern stepped out from the crowd. A big sunhat rested atop her head and cast her eyes in shadow. She made her way in their direction at a leisurely pace, cooling her face with a large fan.
+
+“Shit,” Lillia muttered. “What now?”
+
+“Just don’t make eye contact,” Reya said, looking away. “They can’t see you if you don’t make eye contact.”
+
+“It’s a woman, not a mythical creature,” Arwin said, studying the dirt intently just in case Reya’s suggestion worked.
+
+“Same thing,” Reya said. “Trust me. I’d know. Been trying to figure out how Olive works for ages.”
+
+“You are a woman,” Arwin said.
+
+“Doesn’t help,” Reya said. “Olive is unique.”
+
+“She’s not the only one,” Lillia muttered under her breath. “The lady is still coming. She might want to commission you, Arwin. You should have hidden farther away.”
+
+“Hiding is suspicious. Standing is not,” Arwin muttered under his breath. He turned toward the approaching noble, hiding the grimace on his lips as he inclined his head in greeting. She was only a few feet away from them now. “Hello. Can I help you?”
+
+I really don’t want to deal with this right now. Where the hell is Rodrick?
+
+“Really? Are you blind?” The woman asked in a voice that was most certainly not female. She reached up, wiping a thick layer of makeup from her face — and Arwin choked on his own saliva as he found Rodrick staring at him.
+
+“Godspit,” Lillia breathed, her eyes going wide. “You’re a woman?”
+
+“Talk about mythical creatures,” Reya exclaimed. Her eyes drifted down to Rodrick’s rather ample chest. “How did you get those so—”
+
+“Practice,” Rodrick said.
+
+Reya stared at him. “What? You trained your—”
+
+“Some questions are best left unanswered,” Arwin said, clapping Reya on the shoulder. He stared at Rodrick a moment longer, then shook his head. “I trust you wrapped your business with the Blacktongue’s manor?”
+
+“I have,” Rodrick said. “It would be wise if we departed soon. I may have had to wipe the evidence of my passing a bit more zealously than I had originally planned.”
+
+“What exactly does that mean?” Lillia asked suspiciously.
+
+Before Rodrick could respond, Esmerelda stepped out from the crowd. She ambled over to them, cheerfully rolling a gold coin across her knuckles as the potions within her bag clinked against her shoulder with every step.
+
+She came to a stop alongside the group, then paused as she saw all the gazes directed at her.
+
+“What?” Esmerelda asked. “Gods forbid a woman parts a few idiots from their coin. It’s my right, you know. Some people are too stupid to own money. Don’t act like Reya was doing anything better.”
+
+“Hey!” Reya protested. “I was setting up trading paths for Melissa and Raen! That’s not scamming!”
+
+“And I’m certain you cut them an excellent deal,” Esmerelda drawled. “And you definitely aren’t fleecing them for every coin they’re worth by slightly overestimating just how many sales we currently have on things that are not Arwin-related.”
+
+Reya coughed into her fist. “They may have drawn a few connections that didn’t exist. Not my fault, though.”
+
+“That’s exactly right,” Esmerelda said with a nod. “You could do a bit more denying first, though. Don’t give in too easily. Spew some bullshit first. The more confused people are, the harder it is for them to remember what they were calling you out for in the first place.”
+
+“Noted,” Reya said.
+
+“What exactly did you sell?” Arwin asked. “Nothing that will get us into trouble, I hope. People know you were with us. We don’t need negative attention. Not more of it, at least.”
+
+“A new formula. Mostly contraceptives for men,” Esmerelda said with a wave of her hand. “One hundred percent effective ones.”
+
+“Whoa. I didn’t know that existed,” Reya said. “Potions can do stuff like that too?”
+
+“Oh, these weren’t potions,” Esmerelda said. She gave Reya a crooked grin. “They’re one hundred percent natural plants, no magic whatsoever.”
+
+“What kind of plant does that?” Rodrick asked.
+
+“Chili peppers,” Esmerelda replied. “Pasted ones, mixed with some sap to conceal the color and make it stick longer. Very effective.”
+
+“Chili peppers stop you from getting pregnant?” Lillia asked with a frown. “I never knew that.”
+
+“Sure they do,” Esmerelda said. “Can’t get pregnant if your lower bits are burning like the sun. Very effective. Not a single lie was said.”
+
+“Hm,” Rodrick said. “I now regret asking. Where’s Thane? Now we have even more reason to get out of here quickly. I don’t want some idiot noble sprinting after us with his pants down because you scorched his manhood.”
+
+“Wouldn’t be the first—”
+
+“I do not want to know,” Rodrick said, holding his hands up. “Some things are best kept to yourself.”
+
+Esmerelda grinned, then sent a pointed glance at Reya. “See? That’s how it’s done.”
+
+Arwin was halfway to something between a laugh and a sigh when he caught sight of a rather poorly dressed warrior hurrying along the edges of the party in their direction. Even though the shifting crowd blocked out most of his view, he caught a glimpse of Thane in her wake.
+
+It seemed that Vanessa had managed her escape. But, judging by the speed she was moving at, something told Arwin that it hadn’t exactly been smooth.
+
+“Esmerelda?” Arwin asked. “Might be time to get that doorway back open.”
+
+“Already on it,” Esmerelda said. “The shop is in a good mood after all the sales I made today. Pretty sure a few people are about to become repeat customers. You never know what someone’s into, you know. But I digress. The door will be open soon. Just give it a — hold on. Does anyone else smell that?”
+
+Arwin paused. His nose twitched. He blinked, then sniffed the air.
+
+“Is that… smoke?”
+
+Rodrick coughed into his fist.
+
+Lillia’s eyes widened. Arwin turned to follow her gaze. He found his own eyes mirroring hers as he spotted a thick plume of black smoke rising into the air over the Blacktongue mansion.
+
+“What did you do?” Arwin hissed.
+
+“Times up,” Rodrick said. “We need to get out of here.”
+
+Vanessa and Thane broke away from the crowd and started toward them. A few yells rang out as other people started to notice the fire. Thane turned in its direction. Vanessa did the same.
+
+Her eyes snapped back to Arwin’s group. Then she grabbed Thane by the wrist and accelerated, striding toward them at a brisk pace as he stumbled over his feet to keep up.
+
+“Looks like someone might have had more fun than I did,” Vanessa said as she drew up to them.
+
+“What’s going on? Why is—” Thane started.
+
+“I’ll explain later,” Rodrick said tersely. “Esmerelda?”
+
+“Ready,” the old woman replied, rapping her fist against the wall beside them. Brick rippled, then shifted into the form of a rickety old door. She shoved it open without another word. “In you go!”
+
+All of them rushed in. Arwin turned to look over his shoulder, catching one final glance at the fire that was now racing to swallow the Blacktongue’s estate. Flame didn’t spread that fast. Not on its own.
+
+The flame had already risen high into the air, crackling as it consumed huge swathes of the mansion.
+
+Then the door slammed shut, and all the sound coming from the party vanished.
+
+They were out. And, no matter how curious Arwin was, he couldn’t forget that they were still on a time limit. Their extraction had been successful… but there was still one last step in their plan.
+
+It wouldn’t be long before Mask woke up from the potion that Arwin had poured on him. And, when he did, they had an interrogation to carry out.
+
+He was done guessing at what the Adventurer’s Guild was doing. The stakes were too high to keep playing around.
+
+It was time to get some actual answers… no matter what they had to do to get them.

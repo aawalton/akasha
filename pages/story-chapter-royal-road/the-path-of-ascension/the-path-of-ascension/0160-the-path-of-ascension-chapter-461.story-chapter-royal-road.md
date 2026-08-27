@@ -1,0 +1,445 @@
+---
+id: b14ba161-f96f-5f4b-88e1-1ddf82febe5e
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 461"
+slug: 0160-the-path-of-ascension-chapter-461
+partOf: the-path-of-ascension
+position: 160
+ownLength: 5323
+unit: words
+ownProgress: 5323
+publishedAt: 2025-12-01
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2810028/the-path-of-ascension-chapter-461"
+royalRoadId: "2810028"
+markedReadAt: "2026-06-29T19:33:15.502Z"
+---
+
+Chapter 461
+
+Matt’s anticipation of Aster’s reaction was spot on.
+
+“How?! I was so fast. I broke out of every illusion as fast as possible. Or did you fail?”
+
+Aster’s face fell in a burst of worry as she landed on the final possibility. The expression faded as quickly as it appeared when she inspected their bond, her eyes narrowing.
+
+Seeing that, she went right back to her earlier indignation. “You’re smug as shit, there is no way you failed. You must have cheated. Tell me everything!”
+
+Matt nodded in response but didn’t speak, knowing he had the upper hand.
+
+Finally, unable to resist the temptation and with him unwilling to speak first, she caved and flopped onto a chair she made next to his makeshift work bench. “Tell me everything. Oh, also, there is a pile of bodies here. Do I need to be worried?”
+
+Matt shook his head, answering her second question first. “The monsters are harmless. Or rather, I already killed all of the ones that kept attacking me. I’ve had the time. You guys have been inside for over a day. Really slow showing compared to my own run.”
+
+Aster’s head whipped around just in time to see him breathe on and then buff his finger nails with his shirt.
+
+After she looked at the timer for confirmation, she knocked her knee into his as she flailed around. “Not nice, you cheated. You must have considering you beat me. Spill, I’m jealous and I need to know how you did it. How did you beat meeeee? I got out super fast!”
+
+Seeing he had his moment of smugness, Matt explained what he had gone through to her rapt attention. “That’s so cool. I punched through illusions and arrived in the areas, but I always had to let the illusion gradually pull me in if I wanted the biggest reward I could. I didn’t know I could just tell it to give me all the tests at once. Damn. Well played. Also what's our reward?”
+
+A little testing showed Aster got a similar power to Matt. It perceived and highlighted the flaws in an illusion, but for her it latched onto anything winter adjacent.
+
+More than willing to help, Matt cast a few illusions of varying types and robustness, letting her get a feel for the new power.
+
+Popping to her feet, Aster walked a few feet away and took a deep steadying breath. “Okay, I got this. Ta da! Now check the illusion and we can start testing.”
+
+Next to her, a simple wooden box appeared with a single, ordinary looking fox Aster sitting on top of it.
+
+Raising a paw, fox Aster waved at Matt, waiting for him to activate the new ability.
+
+Strumming their bond, he kept staring at the fox on the box rather than the illusionary woman standing next to it.
+
+Blowing a mental raspberry, Aster jumped off the box and back onto the seat next to him. “You’re no fun. You could have at least played along.”
+
+Not deigning to give the blatant lie a response, Matt finally used his new Intent ability on the human illusion.
+
+Sharing the flaws his new sense highlighted, he sent the feed of the information to Aster as the illusion started to morph and twist.
+
+Together they tested several variations and the new power proved to be very thorough. Aster couldn’t effortlessly circumvent the power like she did to most anti-illusions effects she encountered. While she slammed her head against the illusionary wall, trying to find a flaw to exploit, he went back to his own project.
+
+“Can you sense it now?”
+
+“Yes.”
+
+A few seconds later, she once more asked, “What about now?”
+
+“No change.”
+
+A dozen twists and turns later, Matt felt his Intent’s gravity sense being twisted and stretched.
+
+“How about now?”
+
+“Stretched a bunch and I felt you picking at things. In fact, I think I feel more flaws?”
+
+“Son of a bitch! I was sure I had isolated the energy responsible for tracking in the illusion.”
+
+When he wasn’t bothered for almost a full five minutes to check the illusion, Matt probed his bond with Aster to see if she needed him.
+
+Feeling the entire illusion filled with flaws all at once, he looked up from his hands to her ‘work space’.
+
+And up.
+
+And up.
+
+A thirty foot tall tree that had Allie’s face in the trunk blinked back at him.
+
+Except it was tinged yellow.
+
+Turning to Aster who, still in fox form, sat on the bench next to him, he couldn't help but ask, “What did you do?”
+
+With a sigh, Aster rolled over onto her back and let her tongue roll out as if she had perished dramatically. “I thought I found the Intent’s tracking, but in reality all I found was the color blue.”
+
+“Did you… remove the blue? Even the illusionary spirit energy is missing the color. I didn’t even know that was possible. Also, your illusion is full of flaws. I thought I might mention it in case you didn’t notice.”
+
+Aster flicked her tail. “Don’t try to comfort me by telling me all of the reasons that such a thing is impossible. Simply revel in the fact I did it! Praise is allowed, not mockery, mister ‘I keep regrowing fingers’.”
+
+Point well taken, they studied what she had done, hoping to replicate it. Sadly, things weren’t so easy.
+
+While she managed to alter an illusion’s color by selectively removing part of the magic, she had little control over the color, nor did she succeed most of the time. The vast majority of her attempts ended in the illusion collapsing as something vital was disturbed.
+
+Seeing her mood was fine and she was happy with only the occasional assistance, he went back to work. He only checked to recast his new sense when he wasn’t making illusions for Aster to test her own ability on.
+
+Ultimately they weren’t willing to use too much willpower when they had no assurance of safety and he could provide them plenty of mana to keep the active effects running without worry.
+
+They spent three additional days alone outside the strange realm testing before the rest of their exploration team started to exit. Once the first came out, the rest followed in rapid succession over another day and a half.
+
+Liz’s new sense was better than he’d feared, but not quite as well as he’d hoped, knowing her Intent was so Ichor focused. Given she was the sole source of the element and bloodline in the Realm, if the power solely looked for flaws through that medium, it wouldn’t have much practical application.
+
+Thankfully, they weren't so unlucky.
+
+In fact, Matt was quite relieved with the result.
+
+Liz’s new Intent power still worked on most illusions, but its inherent funneling came through the life portion of her Intent rather than the Ichor. That let her lock onto anything ‘organic’ and ‘alive’ in an illusion. The definitions seemed to have some wiggle room, but anything in an illusion that met those two criteria was open to her abilities scrutiny.
+
+Entirely artificial illusions were a bit of a problem but that single disadvantage was well worth her ability’s breadth.
+
+When Rah came out second to last, he couldn’t wipe the smile off his face. “So, is that what Minkalla was like? A bunch of places like that? I believe I see the appeal.”
+
+Allie blew a raspberry at the older man's attempt to play it cool. Instead, she pointed at her tree form that was still showing off Aster’s accidental color removal, trying to brag for her friend.
+
+Best of all, the crew all succeeded in their attempts. Being two Tiers higher than the strange realm, their tests were reportedly harder, with additional thresholds for them to cross before they earned a reward from one of the illusions.
+
+They had made it, but none of the Tier 30s had had an easy time. Lura was apologetic when she came out last, but they waved her concerns away. Someone always had to be last, and she hadn’t made them wait all that long.
+
+Gan Le, on the flip side of the Tier issue, was perfect for the test and his Intent power latched onto an illusion’s defensive properties, or lack thereof.
+
+They didn’t want to linger on the planet for too long, but only being able to enter one out of the appropriate Tier strange realms they encountered so far meant they had some spare time to dedicate to their second goal for entering the breach.
+
+Advancing in Tier.
+
+Thankfully, the planet's high relative Tier meant a single fight on the surface world wasn’t catastrophic. Not that their fights were clean.
+
+They were, however, productive.
+
+The Ascenders split off while two Liz clones and Gan Le protected the crew, but they had little to do beyond harvesting resources from cleared out rift zones.
+
+To Matt’s bemusement, Gan Le carried his weight and fended off two attacks by roving Tier 31 monsters, allowing the Liz clones to finish the creature off with the crew never needing to lift a finger.
+
+Three rift zones deep in his slaughter, Matt deflected the armored orc’s great axe as he slowly started filling his Power with willpower.
+
+He started with his legs, empowering them and moving up into his torso until finally his arms were included.
+
+Out of necessity, he kept the total willpower to a minimum, instead using the monsters to re-familiarize himself with his full abilities.
+
+Having so many new breakthroughs, new abilities, combined with the few Natural Treasures they had used, they all needed to find their new limits and the humanoid monsters on the world were perfect practice targets.
+
+Twisting his chest, Matt dodged a spear thrust that tried to take advantage of his decapitation of the axe-wielding orc.
+
+His Power flowing slowly like a deep river that hid the true amount of movement through its still surface, Matt reached up and grabbed the spear shaft. Its movement halted and the orc grunted at the strength.
+
+In a battle of raw strength, Matt knew he would lose, so the moment he felt the orc gather its power to retreat, he let go of its weapon.
+
+The orc slamming into its reinforcements was almost comical, but he didn’t let himself get distracted.
+
+Instead, he focused on his body.
+
+With a hundred percent of his cultivation in his physical core, Matt was as physically powerful as it was possible to become without some additional boost or massively lopsided essence distribution.
+
+He had no illusions he’d be able to stack up to Moe and his insane Talent, or even Gideon and his bond with Eclavorn, but only being better than most wasn’t a place he wanted to languish. He could be doing more.
+
+The question was how to make his body stronger.
+
+He was trying to solve his mana control issues and added a new problem to the pot.
+
+His main option, which he had already done, was modify his muscles and organs to be more efficient.
+
+While helpful, every elite had done similar, zeroing out the effect. Additionally, he had already done the best modifications he could when he was in the army, so there was little room to progress.
+
+Matt wanted, needed, a better way to apply what he already had.
+
+He still had some hopes pinned on [Physical Empowerment] but he wanted to look into alternatives when they returned to settled space.
+
+As the spear-wielding orc rushed at him with half a dozen of its fellows, he launched himself forward, letting his subconscious mind think while he concentrated on fighting.
+
+Letting the spear hit his [Cracked Phantom Armor] covered chest, he used the spell's second layer to best deflect the energies the attack carried.
+
+Feeling the spell being pierced despite his earlier efforts, he didn’t immediately reinforce his armor with his Tier 25 Talent. Instead, he waited until the spear had fully penetrated through his chest to crystalize his armor.
+
+Only then did his hand clamp down on the orc’s, locking it to the spear still trapped in his armor.
+
+The solidified [Cracked Phantom Armor] blocked the other monsters' attacks, but it was already too late for them.
+
+Aiming for the most effective kills, Matt moved three times before ending with a thrust.
+
+The first slash cut through two of the orcs’ helmets, his longsword only stopping inside the center of the original spear-wielding orc’s head.
+
+Using the spear that was still sticking out of him, Matt twisted. The shaft of the weapon exploded, but it caused the dagger-wielding orc to stumble back and get too close to one of its compatriots.
+
+[Dragonflame] obliterated the two, along with a small portion of the forest around them, but a small effort with [Fire Manipulation] kept things from spreading.
+
+As the last orc tried to circle around the flames, he stepped forward and thrust his blade into its head.
+
+Allocating the essence rushing into his core, he pushed deeper into the orc rift claimed area, using the monsters to hone down on what he wanted out of his future advancement.
+
+Ideas formed and were discarded, but a few stuck around.
+
+Seeing another dozen well armored orcs, he focused on killing them as quickly as possible, trying skills he didn’t often use any more.
+
+They spent an extra day to full-clear the surface world of monsters, but they were more than happy to have done so. All of them made progress, and Gan Le was nearly ready to break through to Tier 29 himself, but they didn’t let themselves linger for too long.
+
+Their Seekers had each made several divinations while they were fighting and gave them three viable directions.
+
+One was immediately dismissed for pointing to an opportunity in the direction Evander’s team went, but the other two were both good choices.
+
+Magnus was somehow able to estimate his target world as at least Tier 25 from a chicken’s feather patterns, giving them hope it might be higher. He even had an indication there was at least one strange realm on the world.
+
+The only issue was that the world in question was much deeper inside the breach, nearing the rough center of the three estimated breach points.
+
+There was no proof a world would be better based on its location from the edges, but they hoped to explore more of the worlds before they had competitors.
+
+While his world was at the lower limits of what they might find useful, its location made it a prime target, as even with Rah’s worst estimation, they should have six months of a head start before others could enter behind them.
+
+Lura, on the other hand, found something much closer.
+
+She had no indication of its Tier, but her keywords were uniformly positive, and that tempted all of them.
+
+Rah, with his higher sensitivity through sky bridges, had been building a map of the worlds they passed through, along with the neighboring worlds. With each day that passed, the oldest portions of the map became more unreliable, but it allowed them to plan rough routes, saving them the time of backtracking.
+
+Eventually, thanks to Katya abstaining on the final vote, they chose to deviate in Lura’s world’s direction while keeping on a general course to the center of the bubble, where they wanted to go anyway.
+
+Sadly, Lura’s world turned out to be a dud. At Tier 20 with no strange realm and only one ruin, they found nothing of interest.
+
+To be thorough, they had both Seekers check twice more, but when they wound up empty handed they didn’t linger.
+
+Two planets later, while they were waiting for Arden to replace a vein of Tier 17 enriched titanium, everyone’s attention was pulled to the distance where a sky bridge they hadn’t intended to travel down thrummed.
+
+Their neighboring planet had just formed a connection with a new Tier world, and even two planets away, they felt it.
+
+Trying to probe through, Matt thought it was a Tier 15 world, but Rah’s senses were more accurate.
+
+“A Tier 10 world. A tad low, but high enough if we are lucky with the Natural Treasures.” Pausing, Rah’s eyes unfocused for a moment before he added, “Though the world feels unusual.”
+
+Matt tried to feel what Rah mentioned, but failed.
+
+“I think I feel something. Something is weird with the world. Almost like there is a lot of only a few mana types.”
+
+When Liz finished, Rah grinned, “It almost feels like an aspected world, but not quite.”
+
+The mention of a possibly aspected world quickly got them into the adjoining sky bridge as they temporarily abandoned their earlier route.
+
+Being on the neighboring planet and then on its sky bridge, Matt finally started to feel the discrepancy; but before he could truly puzzle through the feeling, they exited the sky bridge and were deposited into a battlefield.
+
+Tier 10 ground exploded in a shower of molten rock as the surface underneath the thin crust boiled from the magma worm's slithering passage.
+
+Sensing their arrival, the creature dove deeper, leaving its smaller and weaker prey. As it turned, more of the ground liquefied as the creature's inherent heat transformed its surroundings.
+
+Instead of running away, the worm swam upward like a fish trying to ambush a bird floating on the surface.
+
+Except they were the bird.
+
+They only needed to move slightly for the creature’s telegraphed attack to miss, but Matt didn’t miss the opportunity. Reaching out with [Telekinesis], he grabbed the worm mid-air, letting them inspect it properly.
+
+Matt almost wanted to call the creature an elemental, but that was clearly wrong, as the creature wasn’t a rift monster or some phenomenon of magic given the semblance of life. Despite being incredibly magical, it was a mundane creature.
+
+To further prove that, a quick scan showed a thriving population of the magma worms roaming beneath the world's crust, along with several other subterranean lifeforms.
+
+A tidally locked planet, it didn’t have what he would call a normal environment.
+
+With half of the world being baked by the local star while the other half was forever banished to the darkness, the planet never should have developed life; but it clearly had.
+
+The life was really strange.
+
+He would have expected a duality between fire and ice, given the temperature extremes, but instead, the world was better described as one of opposites. More than simply hot and cold, the world was one of duality, and life was equally ferocious.
+
+The hyper massive magma worms were far from apex predators and h—
+
+Matt was pulled out of his introspection by Aster and Liz’s reactions.
+
+All of them were excited at this strange world, but he got hit by the duo’s exuberance in rapid succession.
+
+Aster’s excitement in finding such a strange world filled with so many cold-based, odd life forms was like an adrenaline dump that bypassed most of his usual defenses.
+
+Liz’s reaction was less emotionally jarring and more physical, as she started shaking him as if his non-reaction was an insult. “Do you see the liquid fire tree? Do you think we can transplant one back on Palustris? Can you picture my sibling's faces when they see it?”
+
+Being so much stronger than the world's inhabitants, they didn’t fear the local wildlife. Not that they indiscriminately killed the native wildlife because of that. They were careful not to disturb it any more than they needed to, as they inspected the area where they arrived.
+
+Near the borderline of ‘day’ and ‘night’, they were in a perpetual twilight, with the ecosystems of both extremes interacting and creating a plethora of strange lifeforms, as well as strange rifts.
+
+The rifts, at least based on the monsters surrounding them, were far from what he considered standard for a planet.
+
+The mana types in the border zone churned like a convection oven bouncing off each other as they were swirled around. As mana collided randomly, some inevitably merged. Most were unstable, but others formed new, more complex mana types.
+
+Thermal mana, the raw combination of fire and ice mana was in abundance, but it was far from alone.
+
+The cycle had been going on long enough that pockets of every possible mana type had already gathered in a segmented rotating tunnel of mana circling the entire world. None of the mana types were new to them, but the way they undulated along the planet's solar equator resulted in a near-unique mana environment.
+
+Zack and Matt spent a significant amount of time recording the patterns for later study, though they did it for vastly different reasons, even if they would undoubtedly end up helping each other.
+
+What was almost stranger was the natives’ reactions to the rifts.
+
+Most worlds’ rifts and their corresponding monsters turned their surroundings into no man’s land for similar Tier animals, but lower-Tier wildlife used the monsters’ usual nonaggression as protection. It was far from a uniform rule, but it was rarely turned upon its head like they saw in this world.
+
+Higher-Tier animals led their weaker brethren to recently broken rifts and they feasted.
+
+Rift monsters, once attacked, were always aggressive, but even with a Tier disadvantage most of the wildlife easily killed the rift monsters. Their unique energy rich bodies combined with their connections to esoteric mana types let them punch well above their weight, despite not being any more sapient than a typical animal.
+
+Like monsters, their advancement through the Tiers was entirely automatic with zero variation, only requiring the accumulation of essence. Essence the animals easily got thanks to the higher-Tier members of their species acting as semi-protectors, and intervening before the lower-Tier members could be wiped out.
+
+Watching a Tier 6, six limbed, obsidian bear-like animal that leaked shadows like a smokey furnace wade into a small group of miniature quartz centaurs two Tiers higher than it was a new experience.
+
+The centaurs tried to drive spears through the thick hide, but the bear’s fur wasn’t entirely composed of physical matter. Its smoky outer shell wasn’t shadow at all, but rather its larger outer coat of fur, which seemed to primarily exist in the fourth dimension.
+
+Unable to easily bypass the bear's outer defense, the rift monster's own aggression turned their undoing as the bear calmly ate the centaurs one by one until it was full.
+
+Only then did the bear lumbered back into the dark half of the planet as she started to enter her not quite entirely biological estrus cycle’s most fertile period. Entire portions of the creature's biology were infused with so much magic the creature never should have been fertile but they watched it happen nonetheless.
+
+Absorbing mana to power biological functions wasn’t unheard of, but it was normally a rare mutation that made an apex predator king of a world. However, on this world, every animal seemed to have some biological function assisted or enhanced by magic.
+
+The unusual mana types and wildlife combined to make an incredibly strange and unique world.
+
+There was one strange realm, but it was Tier 8 and far too weak for them. Not that they minded too much, given the samples and scans they collected of everything else.
+
+Liz and Aster each split off to go and investigate their sides of the world while Matt inspected the rifts in the span between the two.
+
+A being of Ichor, Liz could almost be mistaken for a native flying around in phoenix form.
+
+The side of the world constantly baked with the star's energy was far more active than the dark side of the planet, but that also made it the less populated side.
+
+Fights for territory broke out constantly as the wildlife fought with the various rifts’ monsters or each other as their roaming paths crossed.
+
+That was one of the largest differences between sides.
+
+On the light side everything was in motion.
+
+Mushroom-like tree structures roasted happily as their umbrella caps absorbed the heat creating small, cool patches that were quickly overrun by prey creatures seeking a moment of respite from the relentless sun.
+
+Their gathering inevitably attracted the predators, who restarted the cycle as all of the animals who survived fled back into the direct light.
+
+The dark half of the world was the opposite. Predators and prey could sit dozens of feet apart for weeks at a time before one or the other bothered to move. That led to far more creatures on the other side of the planet but without magical senses a mortal wouldn’t recognize half of the things it saw for the Tiered creatures they were.
+
+Sadly none of the ice based creatures could survive in Aster’s spirit space but they took samples of everything intending to start her own breeding programs back in settled space. Matt wasn’t entirely sure how he got roped into doing all of the necessary enchantment work but he didn’t mind knowing how much Aster wanted to populate her spirit space.
+
+It took them nearly a week to fully catalog everything, but no one minded the delay and the sights gave them things to talk about for weeks as everyone debated and speculated.
+
+They intended to return one day which was why Aster recorded the place's location with [Home].
+
+With no one else in the breach, their moods were high as they headed deeper.
+
+***
+
+Tim wasn’t entirely sure how he ended up on a pleasure world, but as he came out of his drug-induced haze, he couldn’t help but question how he had arrived.
+
+Since achieving his vaunted biological immortality and having his Concept shattered, he had struggled to remain truly conscious. He had tried locking himself into a room, but upon reviewing his AI log, he himself dismantled his own safety measures before sauntering away.
+
+At first, he had simply walked.
+
+If he encountered a city with a teleporter, he took the next transfer and he continued to do that for what felt like years between his clarity going in and out.
+
+Even having the logs to review, Tim wasn’t entirely sure how he made it through the pleasure world’s security protocols, but he assumed his immortality must have been enough to get through the gate.
+
+Almost a month into the process, Tim tried to cling to his glimmer of awareness, knowing it would slip away before too long.
+
+Standing, he looked through the notebook he never seemed to lose despite having lost everything else.
+
+Flipping through his recent notes to himself, Tim couldn’t help but hate how much his ramblings sounded like his mother when she was in a bad cycle.
+
+T—
+
+***
+
+Tim came back to full awareness only to choke on the stupid spicy fajita he had been in the process of eating. Unexpected spices hit even worse and he gagged, resisting the urge to vomit.
+
+Finding himself in a park, Tim relaxed and reviewed his previous actions through his AI to find he had spent nearly two days in this park, keeping himself busy by eating increasingly spicy food despite his low tolerance to such foods.
+
+Physically, his body ached and demanded sleep. Come to think of it… he couldn’t remember the last time he actually slept.
+
+Finding the nearest hotel, Tim almost couldn’t believe it when he both made it inside the building and through a shower all without falling into his fugue-like state again.
+
+Laying under the blankets feeling confused and afraid about what was going on, Tim probed his Concept.
+
+It was the root of his problem, but also the solution.
+
+Having been incredibly careful not to disturb his shattered Domain, Tim finally unclenched, letting the dust that once made up his Concept start moving again.
+
+The near human form his unconscious self had tried to create immediately started to sluff down like dry sand when its container was removed.
+
+It didn’t hurt nearly as much as he thought it would, but seeing the outline, Tim felt something click into place.
+
+His ‘unconscious’ self was trying to rebuild his Concept.
+
+Like trying to recreate a lost loved one with clay, his efforts could take on the semblance of a form, but they lacked that core spark that made a person themselves.
+
+Why bother?
+
+Looking at the booklet, he saw variations of the same general idea about being himself but he didn’t see the point.
+
+Why should he be himself when he didn’t like the person he was.
+
+What reason was there to try for? He’d only take the easy way out.
+
+It was an inevitable part of him.
+
+Broken from a young age. Destiny—
+
+Tim rejected the idea of giving him up.
+
+He hated the idea.
+
+Not a single part of him liked the idea. Not the superficial facets of his personalities, the ones he brought out when he thought it was what others expected of him, rather the very core of his person rejected the idea.
+
+The part of Tim that he had thought he had forgotten.
+
+The real Tim.
+
+The Tim who could exist without all of the pressures and expectations placed upon him by society and himself.
+
+Taking hold of his Concept, Tim tried to force it together. Tried to force the dust into the shape of the person he wanted to be.
+
+He wanted—
+
+He wanted a break.
+
+Sluggishness crept up his spine.
+
+Trying to change his thoughts, Tim quickly did the only thing he could think of as he saw the small booklet sitting on the room's nightstand.
+
+The pen he picked up didn’t have any ink, and he never saw the page he wrote on, but his words for his future self were left behind nonetheless.
+
+“I am who I am.”
+
+Like a drowning man who had given up clawing for the surface but sure he’d pass out before he reached it, Tim felt the sweet relief of air as he earned a moment of respite.
+
+Immediately he felt the weights start to drag him back down, but the moment of lucidity remained even as the edges of his mind became blurry.
+
+How can I find who I want to be if I don’t know who I really am?
+
+Unbeknownst to him, two pieces of dust snapped together, then a third as he tried to put himself back together.
+
+Tim didn’t have an answer for his own internal question, and his conscious mind fully faded.
+
+***
+
+Luna watched from above as the boy once more triggered his Concept’s mental protection, restarting the cycle all over again.
+
+Watching the boy accidentally memory wipe himself was mildly amusing at first but by now she had long since grown accustomed to such sights.
+
+Luna hadn’t even known a Concept shattered in such a way could reestablish its natal protections, but he had clearly done so. Even after her careful analysis, she wasn’t sure if that was a side effect of his Talent, his Concept, or something else entirely. The only thing she knew for certain was that it was very strange.
+
+It was also delaying the inevitable quite a bit, buying Tim extra time.
+
+Tim’s Concept should have lost its energy and died months ago, but every time the energy started to fade, he would be driven to rebuild part of the Concept until he failed and triggered the mechanism. That would, for reasons she couldn’t quite comprehend, revitalize the boy's Concept and give him more time.
+
+Seeing half of a human form take shape in Tim’s Concept, Luna watched as the boy’s mind shattered and he started moving on autopilot.
+
+As much as she was tempted to steer the child where she thought he needed to go, out of this pleasure world, she let his feet and instincts lead him.
+
+She was only here to ensure his journey didn’t kill him, and there were plenty of places that were worse than simple death.

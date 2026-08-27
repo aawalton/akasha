@@ -1,0 +1,308 @@
+---
+id: fb8c50de-007b-5c30-920f-e692b441e25e
+page-type-slug: story-chapter-royal-road
+title: "234: Player versus Player"
+slug: 0257-234-player-versus-player
+partOf: there-is-no-epic-loot-here-only-puns
+position: 257
+ownLength: 3435
+unit: words
+publishedAt: 2026-02-14
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/3052862/234-player-versus-player"
+royalRoadId: "3052862"
+---
+
+Still thinking of what she had experienced with the two new Dungeon Cores, Delta remained in the comfort of Wyin’s boss room, nestled deep within the main Dungeon.
+
+Her gaze flicked across the monitors spread before her, where a dozen screens captured different bursts of chaos in the Mirror floors. Traps sprung without warning. Illusions collapsed mid-fight. Adventurers bickered over riddles that didn’t care for logic.
+
+In one mirror, the Pygmies had shaved a dozen people for their hair. It was a bit of a… hair-raising scene.
+
+One screen held her focus. It displayed a boss battle in full swing, with an illusory copy of Wyin standing tall at the centre of the arena. The fake barked insults with theatrical flair, tossing her head and pointing dramatically between barbs.
+
+They had sound, rhythm, and flair. But none of the venom. Without the real Wyin’s brutal precision or emotional targeting, the lines landed a little flat.
+
+Delta considered adding a feature for custom insults. Wyin would love that.
+
+Probably too much.
+
+The invading druid didn’t care for Delta’s ideas. His cloak shifted like bark in a breeze, but his arm moved with something else. It reached forward too smoothly, fingers twisting into roots before they even touched, twisting unnaturally around the fake Wyin’s branches like living roots.
+
+It wasn’t a clean hold, more like something alive coiling to crush. The roots flexed once, then locked tight.
+
+Before the decoy could react, the berserker closed in, both axes lifted. The first strike slammed into the illusion’s shoulder. The next carved down through its back. Each blow landed with a wet, heavy crack, like timber splitting after too much pressure.
+
+The copied Wyin’s form shuddered, threads of illusion coming undone in waves. Bits of glowing magic scattered into the air, curling faintly before fading out like embers caught in wind.
+
+“Control ‘nature’? What does that even mean?!” the real Wyin shouted at her side. “What’s next, a class for ‘vibe manipulation’?” Her branches slammed into the arena dirt, hard enough to crack stone and send a dust wave rippling out from the impact. Delta didn’t even blink as grit brushed past her.
+
+Wyin’s complaints were nothing new. She yelled like this every time someone dared to out-druid her, or even just managed to land a solid hit. Her win record still hovered around ninety-eight per cent, after all. More than a few adventurers had walked away from the Dungeon muttering about “spiritual trauma” and never came back.
+
+Delta had the exit surveys to prove it, colour-coded by severity.
+
+“I think they’re called Empaths,” she said, voice neutral. In her mind, she imagined a calm, smiling figure coaching a demon lord through childhood grievances before executing a perfect roundhouse kick powered by emotional stability.
+
+The druid in the arena was strong, but compared to the kind of presence that clung to someone like Mrs Dabberghast, who felt like a storm in the skin of a woman, he was still a baby sapling in the wind. Delta didn’t even need to check his seed to know he’d never fought anyone who meant it. Not really.
+
+The Mirror Wyin’s body cracked sharply, lines of pale light racing along her limbs like veins under pressure. Her form pulsed once, then burst into a sudden spray of rainbow-hued magic. The air warped. Mana surged across the arena, saturated with raw Echo residue that drifted outward in glimmering waves, cloaking the battlefield in haze.
+
+The adventurers erupted into cheers, flushed with triumph and riding the afterglow of stacked buffs that lit up their cores like festival lights. Strength surged through them briefly, just long enough to feel invincible.
+
+Delta watched it unfold, calm as ever, already moving beneath the surface. She moved through the feedback streams like Dungeon had a direct connection to the adventurers. Unstable Echo sprouts clung to their energy lines, flickering wild and directionless. She replaced each with a Dungeon Seed, clean and quiet, severing the Echo’s grip before it even took root.
+
+It was subtle.
+
+A fair trade, she figured. They got strength. She got structure. No one needed to know. See? She could do her job without everything catching fire or screaming.
+
+Mostly.
+
+“You should be proud,” Delta said aloud, her voice dry as she glanced over.
+
+Wyin, still part-tree and always prickly, gave her a flat stare.
+
+“A druid to hold you down, a forester to take axe to you, a hairdresser for your branches, and a bag full of fire potions just in case things got too heated.” Delta nodded toward the adventurers, now circling their loot like survivors after a storm, still unsure if they’d earned it.
+
+On the screen, one adventurer fanned themselves with a small paper fan that looked half-melted already. Their pack glowed a soft, steady orange, the heat from the fire potion bottles seeping out through reinforced lining.
+
+“Urgh, don’t tell me I’ve been teaching these dullards strategy,” Wyin groaned, like the idea physically hurt. As if summoned by her voice alone, a single leaf on her leftmost branch turned a sickly yellow in silent protest.
+
+“Is it that bad?” Delta stretched, slow and unbothered, a faint smile tugging at the corner of her mouth.
+
+The leaf detached itself a moment later and drifted down, landing beside Delta’s foot with a soft, offended whump.
+
+“You really do feel like a raid boss someone released before the tuning patch,” Delta said, stepping forward to tap the hovering screen. Her gaze lingered as the interface flickered.
+
+Delta had seen enough: grainy MMO clips, blurry highlight reels, and forums with thread counts higher than most spellbooks. She’d watched players yell over drop rates, argue endlessly in comment chains, and fracture entire guilds over boots that sparkled just a shade more than someone else’s.
+
+She never played those games herself.
+
+Delta always thought she would. One day, maybe. But teaching filled the space where hobbies might have taken root, and time, when it did appear, always seemed to slip away just before she reached for it.
+
+“You’ve got nerve to say that to me,” Wyin replied. Her voice was light, though a sharp edge lingered just beneath. “Your darling little king, my ‘superior,’ is still waiting. And these adventurers?” She leaned slightly, narrowing her eyes at the looters clustered around their prizes. “Their bags are bursting at the seams.”
+
+Wyin almost purred with the last line as she eyed the adventurers' many sacks of herbs, items, pots, and materials they lifted wholesale rapidly. There was a note of respect hidden deep in her tone, something reluctant and quiet.
+
+The kind of thing she’d never say aloud. Certainly not where Jellagon might hear it.
+
+One of the adventurers held up a wooden shield, thick and worn, carved with a strange circular pattern. It resembled a dartboard drawn by someone who had only heard vague stories about darts, it even had a tiny bell hanging off one edge, as if it were proud to be targeted.
+
+Delta leaned in, narrowing her eyes at the etchings burned into the shield’s edge. A faint glow pulsed beneath the wood, steady and unnatural. The enchantment shimmered into focus: ‘Projectile Drawing.’
+
+“That’s cruel,” Delta muttered, her lips twitching into something between concern and admiration.
+
+She had once crafted a glyph designed to absorb threats from the deeper levels, especially from the Silence. It had been clean, directional, and protective. This shield was the opposite. Reversed, inverted, and possibly doused in goblin moonshine. It took the idea of defence and reimagined it as bait. Chaotic, layered, and completely broken in theory.
+
+And yet, it worked.
+
+Because one particular goblin, somewhere, had jailbroken reality.
+
+“A rose by any other name,” Wyin sang, her voice light, melodic, and entirely detached. Her earlier irritation vanished like mist in morning heat. Dwelling wasn’t her habit.
+
+Not over adventurers.
+
+Delta’s attention shifted back to the screen. From her view, the group looked triumphant, loud, slow to move, weighed down by loot and adrenaline. But as their boots touched the worn stone of the Third Floor stairs, something shifted. The bravado dipped. One by one, they paused to adjust straps, count potions, and mutter quiet warnings like folktales passed between survivors.
+
+Most of the advice was vague. Cautionary tales wrapped in half-remembered details. But one line had become gospel.
+
+“Beware the trolls,” said the same guy who still had a jagged gap where his hair should have been,thanks to opening Clamamity the mimic chest.
+
+Clamamity was usually hard to find, tucked into the well that linked the Lake Room and the Goblin Fort. Most people missed it entirely. But this one had ‘treasure sense.’
+
+Shame he didn’t have regular sense.
+
+Delta raised an eyebrow at his words, however. That one had clearly been here before.
+
+“Fire’s awful in the first section,” another sighed as they reached the steps. “But it gets handy again deeper in.”
+
+“Water too,” the mimic victim replied, his tone lower now. “Those creepy little blue monsters in the Mushroom Grove? Still have nightmares.” The stairwell swallowed their voices as they disappeared into the misty light. Around them, faint blue spores floated like sleepy fireflies, weightless on the Dungeon’s slow breath.
+
+Delta tilted her head.
+
+Oh, they were going to get water. That much was certain.
+
+A whole floor of water. She’d even added birds and crabs to give it a tropical feel.
+
+It almost qualified as paradise.
+
+Assuming they behaved.
+
+Delta smiled as she switched to another layer, her eyes settling on the feed where two adventuring teams were making the ‘clever’ choice. Instead of facing Fran, the First Floor boss, they’d slipped through the submerged fishing tunnel hidden in the lake chamber.
+
+It wasn’t easy. The path was narrow, wet, and smelled like mouldy bait, but it bypassed the boss room to the Second Floor.
+
+Fran still struck fear into disorganised teams. Larger than most of his kind but smaller than a person, green, and proud, and he rode into battle atop a massive pig named Bacon.
+
+And together, they made early parties panic.
+
+But, despite that, they were still Delta’s monsters, with feelings and desires.
+
+When ignored, Fran sulked quietly. Bacon did not. Bacon got moody. The pig would start blocking shortcut paths, chewing directional signs off walls, or flopping sideways across narrow corridors just to delay adventurers out of spite.
+
+So, the teams had taken the ‘easier’ path.
+
+The Fishgeon had started as a shortcut. A gentle detour with mild challenges. Now? It was a proving ground.
+
+All because of one thing.
+
+Faction pride.
+
+“For the sky!” a mage shouted, spreading her arms wide. Her cloak flared, woven from seagull feathers that shimmered silver-blue. She caught the updraft and glided overhead like a drifting gull, triumphant and loud.
+
+Below, a warrior crouched behind the wreckage of a half-sunken galley. He hoisted a rusted cannon, clearly salvaged from something that shouldn’t have sunk in the first place. The barrel gleamed with chitin plating, forged from the Para-Mercerines that skittered through the flooded caverns.
+
+“Sink to the deeps!” a man bellowed, leaping from the crow’s nest ruin toward a half-buried mast. He landed beside Sea Gulf’s fluttering flag. And there, perched with defiant poise, was the Seagull King himself, King Trashlover.
+
+His crown was still a can lid. Dented, but proud.
+
+The oversized bird squawked a royal order, sending his Sea Gulf Warriors diving from perches to aid the airborne faction. In response, the crabs churned up silt, dragging broken hulls together to sink the wrecked arena under more water, removing perches and denying roosts to their enemies.
+
+Delta exhaled through her nose, amused despite herself.
+
+She had wanted it to be peaceful. Maybe a puzzle or two. But there was a potential game here if she angled it right! She began to hum as she recalled the good old days of her youth, playing laser tag or throwing water balloons in the summer heat. It was… harmless, but it gave a thrill that some sports just couldn’t.
+
+“What’s the current score?” she asked.
+
+Prim didn’t look up from her game as she shot a window to Delta with cool efficiency.
+
+‘Birds: 0 / Crabs: 0 / Flag Time Held: 0s / Total Damage Dealt: Unmeasured’
+
+Delta stared at the display.
+
+Then blinked. Slowly.
+
+“What kind of player chooses to beat the other side down rather than win the game?” Delta asked aloud, her tone flat with disbelief, a snort escaping at the sheer idea she had a bunch of grown adults chasing each other with the equivalent of foam bats if a little tougher.
+
+‘These ones? Yeah, they’re not here for the objective. They think pain equals fun. Someone just got drop-kicked off a mast and the others cheered,’ Prim said casually, her voice utterly detached from the madness playing out onscreen.
+
+“But... they don’t get anything if they don’t score,” Delta replied, still clinging to the idea that some basic rules of progression applied.
+
+Then she spotted it, King Trashlover, with the grace of a raccoon sneaking into a bakery, slipping one of his players a shiny bribe token.
+
+The enormous gull fluffed his feathers innocently as the adventurer casually pocketed the token and hung back, ignoring the very clearly marked and flashing exit route.
+
+Delta’s jaw dropped at the scene.
+
+‘They bought their full faction sets ages ago. Gulf Glide suits. Deep Armor Isopads. Even custom emotes that make their body move on its own. Now they’re just playing to mess around,’ Prim explained, with a tone that might have been impressed, or simply familiar, like a fellow chaos-gremlin observing kindred spirits.
+
+Delta opened her mouth then closed with a shake of her head, unable to stop the smile on her face from spreading at the sheer idea her little leaders were trying to keep their new friends with bribes. She leaned over and lightly tapped the bird on the beak with a hum.
+
+Trashlover froze.
+
+His feathers puffed up, stiff with guilt as he slowly noticed Delta floating nearby.
+
+“Having fun?” Delta asked with a grin and the monster seemed to consider his options before he held up his wings in surrender.
+
+Then, with a long, wheezy honk, he slowly slumped back into his driftwood throne like a guilty beanbag.
+
+Without warning, a system window sliced across Delta’s view with crisp clarity.
+
+SYSTEM ALERT
+
+She hadn’t touched anything. It wasn’t her! She was across the country being innocent!
+
+Black Gulf Battlegrounds: EXTREME Upgrade UnlockedCondition Met: Excessive Hours of Active Battleground Chaos
+
+Fishgeon now linked across all Mirror Dungeon copies
+Six dynamic capture zones activated
+Hidden chests added, randomized loot enabled
+Death disabled (pain still active, reduced)
+Titles, rankings, and Faction Reputation enabled
+Procedural Tier Rewards unlocked upon victory
+
+Cost: 50 DPNote: You caused this. Somehow.
+
+She blinked twice, then slowly scrolled through the capture zones. One was labelled “Wreckage Upper Mid.” Another, “Crab Casino.”
+
+They had gambling?! She calmed herself and thought for a moment.
+
+Did she really want to encourage this?
+
+Then she looked down.
+
+Prim stared up, eyes unreadable. King Trashlover watched her like a student waiting for the teacher’s blessing. Emperor Scuttlebutt, ruler of the Para-Crabs, had surfaced on the nearby screen, his right claw holding a tiny, battered crown. His left tapped rhythmically, as if drumming for dramatic effect.
+
+Three pairs of eyes. A menu, a bird, and a crab.
+
+It was deeply unsettling.
+
+“I desire the legal violence,” Prim said, calm and sincere.
+
+“M-Maybe we can compromise!” Delta said quickly, fingers twitching as she summoned a blank window. Her voice cracked halfway through, like her confidence had tripped over itself. She needed a distraction. A patch note. Something that sounded official enough to slow the stare-down she was under.
+
+Anything to shift the focus from sanctioned carnage to... well, less sanctioned carnage. A mini-game? Some rules!
+
+The blank interface blinked at her expectantly. That didn’t help. She typed “Timeout Beach” at the top.
+
+Underneath, she scribbled out the basics in crooked bullet points.
+
+A neutral zone. Peaceful music with sand that didn’t trigger quick time events the moment you stopped walking. Coconut slimes stationed at the entrance, handing out complimentary towels and sunscreen with mechanical chirps.
+
+Not enchanted. Just... very good at customer service. A crab with a monocle and far too much free time, calmly lecturing players about team cohesion while sipping a leaf smoothie through a tiny straw. He’d have a name. Something respectable. Probably. Dr. Clawford, maybe.
+
+A little tidepool off to one side where players could fish up shiny apology tokens, but only if they used the group chat feature with kindness. Points deducted for emoticon abuse.
+
+It was good. Wholesome, even. Delta nodded once, almost proud, despite the wonky UI spacing and one bullet point getting eaten by a formatting bug.
+
+It was almost perfect!
+
+‘They’d turn the tidepool into a PvP duel ring,’ Prim added helpfully, as if getting ahead of Delta’s dreams and hopes just to block them from loading. She hadn’t even looked up. Delta blinked then stared at her crude sketch. The pool looked less like a tide zone and more like an angry pancake with arms and one large, ominous eye. She frowned. That wasn't helpful.
+
+The hope shrank fast. She imagined the pool… then imagined the players enjoying it.
+
+Crab cults forming beneath the boardwalk, their banners suspiciously well-made. The hammock was repurposed into a siege weapon named “Crabapult,” complete with launch trajectory predictions and a cooldown timer. The coconut slimes unionize, forming demands, switching sides.
+
+That same monocled crab, corrupted by administrative power, defecting and founding a splinter Dungeon with 'mandatory therapy bosses' and passive-aggressive trap notes hidden in flowerbeds.
+
+Someone would start smuggling in PvP flags to mark beach territory to support Clawford.
+
+Then, with a quiet sigh, Delta closed the tab without a word.
+
+The blank screen snapped shut. Lips tightened. A long, balloon-deflating noise slid out of her mouth. It echoed, soft and slow, the sound of a well-meaning idea fading into the background.
+
+Perhaps… she was approaching this wrong, like Prim might be thinking…
+
+Prim didn’t move, but her voice dropped in from just overhead, smug and low.
+
+‘You’ll make star-eating dragons but you won’t give me a 24-hour warzone fish dungeon?’ she asked with a sulk that could’ve wilted a less patient interface.
+
+Delta tilted her head and gave her a long, unimpressed look. The kind teachers saved for students who had very nearly gotten away with something clever.
+
+Prim blinked innocently. Her menu icon adjusted its brightness by 2%.
+
+“I’m a sister and a teacher,” Delta said flatly, stretching one arm over the other with slow, practiced indifference. “Your petulant sadness has no power here.”
+
+Her tone was calm, balanced, teacher-grade patience honed through years of managing tantrums with eye contact and breath control. The kind of voice that could silence a class with just three words and a raised brow.
+
+Prim didn’t flinch.
+
+‘It’s fine. Your finger hasn’t lifted off the "Buy All" option,’ she said sweetly.
+
+Delta frowned, then slowly looked down.
+
+Her traitorous digit hovered just above the screen, elegantly poised, perfectly still, as if it had a mind of its own and was awaiting purchase confirmation with saintlike devotion. The purchase box flickered gently. It was just one touch away and it would all be hers.
+
+Delta stared, then shrugged with a kind of world-weary grace that said she knew better, but chose to commit anyway.
+
+What was the worst that could happen?
+
+It wasn’t like mortal combat had some kind of metaphysical draw that lured in monsters from unstable realms. It wasn’t real bloodsport. Just a sandbox PvP zone with flair.
+
+It was just fun, right?
+
+--
+
+Zane of the Royal Knights found Durence fun but a little stale after a few days. Plenty of good people to fight, barely anyone cared to. He scowled as he tugged on the stupid uniform he wore, gold and tacky with unneeded weight, but in the end, the Royal Knights came Zane… well, sane.
+
+He needed to go deep into the capital's powerful Dungeon to truly stress his power once in a while. Zane tended to… war otherwise.
+
+No one liked Zane the Warbringer.
+
+Some tolerated Zane the annoying guy in the Royal Knights.
+
+All Zane wanted was the ‘itch’ to go away for a while.
+
+Just one good fight, that would do it. It had to have meaning, it had to have violence, it had to be fun, and most importantly.
+
+It needed to happen every weekend.
+
+“Sure, and the moon is fake and I might like this place,” Zane snorted and walked off.

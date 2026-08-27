@@ -1,0 +1,269 @@
+---
+id: a85cfc91-fe17-575c-acb1-e49b910c9656
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED FIVE: Herdcreatures III"
+slug: 0207-two-hundred-five-herdcreatures-iii
+partOf: super-supportive
+position: 207
+ownLength: 4894
+unit: words
+publishedAt: 2025-02-27
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2091947/two-hundred-five-herdcreatures-iii"
+royalRoadId: "2091947"
+---
+
+******205
+
+******
+
+Alden poured what was left of his cup of dried fish mix into a plastic bag that had held one of his disposable ponchos. He couldn’t find anything that looked like a waste receptacle here, and the Artonan boy he’d questioned had already escaped into the library proper.
+
+After belatedly worrying about the safety of his breakfast, Alden had asked the System about it and been informed, via a message that had an unnecessarily amused tone to it, that yovkews were bad for his liver. He wasn’t going to get sick from having a few, but scarfing them like potato chips would mean he needed to take a potion.
+
+They were more okay than delicious, and he liked all of his organs. So why risk it? He didn’t think eating another and trying to interpret the gremlin’s complete lack of concern one more time was going to result in a breakthrough. He could look into something like this and wonder about it when he got back home.
+
+This weekend is too much.
+
+Yesterday, Natalie wanted to date me. This morning I met a bokabv. I’m a few steps away from finding out what the “top library” at the Rapport I school looks like, and I’ve eaten a handful of toxic meat that the gremlin somehow knows is fine and dandy as far as triggering its sacred rites goes.
+
+Any one of those would have been enough to fill his thoughts and occupy him for the rest of the day. If all the shocks, puzzles, and must-dos could just patiently wait their own turn, that would be great.
+
+On top of that, Stuart had been saying some things before Noh-en’s arrival had interrupted him that Alden was going to need to approach with a clear head.
+
+What if there really is a path for me that’s just easier than everything I’m scared of? One where shitty summons don’t happen. One where I never run out of refusals because I get mostly normal jobs.
+
+A path where keeping my head down and being a quiet Rabbit, doing a better job of it than I have been…works.
+
+It felt like a distant possibility without Stuart standing in front of him saying some version of, “Literally, you dumb human, you’re going to have to beg summoners to let you do anything more dangerous than wielding a butter knife from now on.”
+
+What he said made sense. It just doesn’t feel real.
+
+He wondered if he should ask Yenu-pezth to spend some time during his upcoming inward path session focusing on his inability to shake the gnawing sense of doom that had only gotten worse after the Submerger crisis.
+
+He blinked down at his bag of dehydrated fish. “One thing at a time,” he told himself.
+
+He was in a wizard library, unmonitored. How often could he anticipate something like this happening?
+
+He needed to make it count.
+
+Moments later, he was stepping through the doorway into the main room. Not what I was expecting, he thought.
+
+When Quinyeth had said she was bringing him here so that he’d have something interesting to do while he waited on Stuart, Alden had been hoping for a moment alone in a place full of books. If he’d had a wish list for the experience, then learning a little bit about contract magic so that he could make good on his promise to Boe would have been at the top of it. But the library didn’t have any immediately visible books in it at all.
+
+This was one of those places that would never be mistaken for its Earth counterpart beyond the first glance. Rows of shelves curved around the room, and in the center, there were some simple wooden tables and chairs. After that, the differences were more apparent than the similarities.
+
+The shelves were covered in collections of cubes, spheres, and pyramids made out of different materials. Mostly stone.
+
+Alden actually had an educated guess about what they were based on what Kibby had told him big kids got to use at their big kid schools. You did something to activate them, and they gave you a multisensory experience of whatever had been recorded on them.
+
+Neat. For the people who knew how to use them.
+
+Maybe there are books farther in. Or anything I can understand would be fine.
+
+He’d known that reading on tablets and through eye pieces was ubiquitous on the Triplanets, but surely some of the students here liked a book every now and then. The Primary did. Stuart’s house had a whole library floor specifically called ‘the manuscript library.;
+
+Why couldn’t Jeneth-art’h have sparked a fad with the youth? Used his power for bringing printed tomes back in style.
+
+Alden walked quickly between the shelves, hungry for knowledge that was locked away inside carved shapes he dared not touch. Breaking one of them would probably shame him, Alis-art’h, and Stuart. They were tempting, though. Especially when he noticed there were seats built into the shelving units.
+
+They were mostly cubbies for one, with compartments in front of the seated person that were perfectly sized to fit the different recorder shapes. He wondered if the setup might be for people who didn’t want to run the recorders with whatever spell or technique you were supposed to use to activate them. They definitely had a population at the school who would appreciate something like that. Stuart had said even adults came here for classes sometimes, which meant the knights, which meant people who weren’t in the mood to cast.
+
+Focus on finding something that you’re reasonably sure is safe, Alden told himself. You don’t need brain damage to go with the liver damage, and who knows if these thing are human-friendly?
+
+Not long after that, he heard voices coming from the direction of the door. At least three people, he thought.
+
+No. Not yet. He sped up. It’s the weekend. Go sleep in some more. I haven’t found anything good yet.
+
+He’d seen the number of first meal offerings in the entry room, waiting for takers. They wouldn’t be there if the library didn’t regularly receive plenty of visitors even on the students’ weekends.
+
+When he reached the last row of shelves, only more recorders greeted him, and beyond those shelves, he encountered the wall. The boy who’d confirmed for him that he was eating meat earlier was nearby in a window seat. He had a cube in one hand and a tablet in the other. One eye was closed. With so much going on in his head at once, the guy probably wouldn’t notice Alden unless Alden walked right up beside him and spoke into his ear.
+
+He kept his distance anyway, and he stayed quiet.
+
+Should I put on the pezyva to flash the commendation? he wondered. Yet another situation Tuck and Yinuo didn’t cover. When roaming a library in search of a quick wizarding education, which version of my outfit is less suspicious?
+
+He pulled the pezyva out of his messenger bag and put it on. A few steps later, he caught a glimpse of himself in the reflective surfaces of a few metal shields that hung on the wall.
+
+Well, now I definitely can’t risk anything too embarrassing.
+
+He glanced up toward the balcony level that circled the room. That partial second floor might hold something different than the shelves down here did. He could see that there were cabinets up there. And he might have some more privacy to browse if he kept away from the railing.
+
+The voices of the students who’d arrived a short while ago were still chattering away. It seemed this library didn’t come with an expectation of quiet.
+
+He made his way around the edge of the room to one of the ladders that provided access. It was built of woven roots that weren’t connected to anything alive, as far as he could tell. While climbing, he would be visible from almost the whole lower floor. If anyone looked up…
+
+The worst that can happen is someone asking me what I’m doing. It won’t be some sign to everyone here that I have an authority sense and need to be taken into custody to avoid confusing the entire known universe.
+
+He still took a few seconds to invent an excuse he could give as soon as he was questioned about his purpose. He’d say that he was going upstairs to admire this awesome learning space from a different angle. That would have been a strange-sounding reason if he was at Celena North, but he thought it worked here.
+
+His hand fell on a ladder rung, and the feel of rough, knobby root under his palm gave him one more reason to hesitate.
+
+[Climbing this isn’t offensive to the tree that made it, right? It’s not going to be insulted that a human hauled his heavy human body up?] he asked through a text to no one.
+
+He waited for the reply, sure it was taking longer than usual.
+
+[Your questions are so delightful this morning. No tree will be insulted.]
+
+[You could just tell me what’s in the cabinets up there and if it’s useful to me,] he suggested.
+
+[Can you imagine how surprised everyone would be to learn that I had given you the books you already have?] she countered.
+
+Surprised is probably too mild a word for it. He hoped Alis-art’h didn’t come back home and discover that her entire account of stored up favors had been bankrupted by the Artona I kernel taking her request to help Alden not die and running with it in directions she couldn’t possibly have imagined.
+
+[Thank you again for those. I’ll figure out the cabinets on my own.]
+
+It was a short climb, and he made it swiftly. But before he was at the top, the voices stopped. His stomach clenched in anticipation of someone calling out to him in curiosity or alarm, but he pulled himself up onto the upper level smoothly. Then, he made himself turn with a smile to address whoever was about to comment on his presence. Only to discover that he hadn’t been spotted after all.
+
+From up here, the group that had entered the library a couple of minutes ago was easy to see. There were three of them, and they’d gone quiet because they were using one of the stones together. They were all sitting around it, on the floor beside the shelf it must have been taken from. Two of them had both eyes closed, and one was busy drawing something on her tablet.
+
+Lucky, he thought, moving away from the balcony railing so that he wouldn’t be on display.  All right. What have we got up here?
+
+Cabinets about the same height as him were arranged so that they formed the walls of short, narrow aisles. Woven rugs on the floor between them were decorated with poems about the duty and pleasure of acquiring knowledge. The railing stood at one end of the cabinet corridors, and at the other, floor cushions were evenly spaced against a wall covered in huge paintings that Alden saw as blurs of uninterpretable color.
+
+He was familiar with that type of magic from Artonan artwork he’d encountered at the same museum where he’d had the realistic volcanic eruption experience on a school trip. They were paintings you wouldn’t be able to see unless you were positioned correctly. It was supposed to increase their impact if you only viewed them from the ideal angle.
+
+Right now, he was more interested in the contents of the cabinets. Each of them had between one and four identifying labels on it, in the form of carved tags of paler wood that were stuck to the fronts of the sliding doors. Unfortunately, they weren’t intended to be helpful to a human looking for information. They just had names on them.
+
+Instructor Cabro-neethe, Instructor Mesuvi-athet, Instructor Yond-waro…
+
+He walked around the entire balcony searching for a tag that would tell him more, but there were only two cabinets that weren’t labeled with specific instructors. Instead, they both said, “Exceptional pursuits.”
+
+Alden stood by one of those, trying to think of what the worst outcome of opening it could be. This is a library for students. The cabinet’s not going to explode in my face.
+
+He was ninety percent confident that she would have at least hinted at lethal threats up here when he’d asked her about the ladder. So probably it’s nothing more dangerous than the trail mix anyway.
+
+He stood as far back as he could, took his stylus from his bag, and gently pushed the door with the tip of it. He intended to open it just a crack to start with, but it glided aside smoothly, as if he’d given it a firm shove.
+
+In the moment when it slid back faster than he’d expected, he thought of multiple reasons why he shouldn’t have opened it that were better than an explosion but still bad. What if there was an alarm? What if the cabinet was full of something extremely light sensitive that would be damaged if he didn’t cast a protective spell first?
+
+He let out a breath as the contents were revealed. Books!
+
+Six shelves full of them. He stepped closer, sticking the stylus back into his bag as he examined the spines. They were different colors, many of them bright shades. Their heights were all the same, and the range of widths seemed off for them to be a random assortment. They were almost all slim, and instead of names or titles, the spines were covered in an eclectic mix of embellishments. From single lines drawn down the center, to tiny gemstones, to flowers and scrollwork. The effect was a bunch of books that looked like they weren’t sure if they wanted to be part of a set or not.
+
+The reason for that was revealed when Alden took a salmon pink one with nine horizontal stripes on the spine from the shelf and saw the information pressed into the front of the cover. A student name, an instructor name, and a range of dates from two Artonan years ago were followed by the description, “Thoughts on Stretching Multiple Hides Using a Chant of Expansion.”
+
+They must be student journals. Or long essays.
+
+After picking up a few and carefully flipping through pages, he knew it was closer to the former. Each one was a record of the student’s attempts to engage independently with the subject the instructor was teaching, and to Alden, it seemed that they were written with the expectation that other students in the same class would read them.
+
+There were some things that sounded like they might be jokes. And there were lots of compliments and mentions of gratitude toward classmates who had offered the journalers insight into the subject they were exploring.
+
+The more Alden read, the more he began to build a picture of what school might be like for the upperclassmen here.
+
+Ending your study journal abruptly, without any major revelations or answers to the questions that had prompted you to start it, seemed to be fine. The closing could include the author expressing relief that they’d solved a problem that had been bothering them, or it could be them frankly telling the reader that they were getting bored with it and stopping for now. That, combined with the fact that these were in the case labeled exceptional pursuits, made him think that the point of the journals was to pursue a personal curiosity beyond the scope of what the students had to know to satisfy instructor requirements.
+
+Classmates interacted with most of the journals by adding notes at the end to thank the writer, point to relevant reference materials, or mention that they’d started studies of their own on a similar subject.
+
+And being quoted in someone else’s journal was a thing at least some of them took seriously. There were multiple instances of journalers asking someone for their thoughts and then not getting a reply back for days because the other person was crafting a paragraph that was almost always deemed astoundingly insightful when it was finally included.
+
+It might just be that anyone making one of these only asks the biggest geeks in school for advice.
+
+The journals weren’t what Alden had hoped for as far as educating himself went. But what he’d hoped for was a great big book called Tattooing Yourself with Friends Who Are Sometimes Cats: A Guide, and that wasn’t the most reasonable thing to want.
+
+These are actually so neat, he thought, admiring the journals.
+
+But they stung him, too. A little. More than a little. Because even though these were written by young people, he was years behind them.
+
+Decades, Alden. Admit to yourself that it’s decades…and that’s assuming you keep getting your hands on new books.
+
+The authors didn’t seem that far away from him and the teenagers he knew in many ways. The person with the pink and black journal had a good sense of humor. The bright red one with the yellow vine on the spine was super social with their learning; he or she liked to involve as many members of the class in the project as possible. Someone who wrote in a dark gray one drew a diagram, illustration, or chart on every other page with elegant flourishes.
+
+Alden could follow the journeys their thoughts took from curiosity to comprehension. But while he got a sense of their personalities and could see that their knowledge was growing, the specifics of that knowledge—the questions they were asking and the answers they were arriving at and the magic they were describing—he couldn’t figure it out.
+
+These are the pursuits that someone thought were exceptional. Maybe if I read whatever is in the other cabinets I’d have more of a chance.
+
+He slid the red one back into its place. Probably that’s the last time I’ll ever touch this, he thought as his fingers withdrew.
+
+Because he couldn’t imagine ending up in this library on his own again without making some leaps, and no matter how many leaps he made, he couldn’t imagine ending up here with time to appreciate the writings of one student in one class on reversible transmogrification.
+
+Reading these whenever you want is something you have time for if you’re one of those wizards down there. He pictured the students on the floor below him. Not me.
+
+He told himself it was one of those things he was going to be okay with because he had to be okay with it.
+
+It worked well enough for now.
+
+He moved through the journals more pragmatically after that, just glancing at the subject on them to get an idea about whether they could be useful to him even if quickly skimmed and poorly understood. Viewed in that light, none of them were. The students in these classes were dealing with magical questions that were way out of his league.
+
+I should have asked to see a lower library. This will teach me not to try to graduate from kindergarten ahead of schedule.
+
+He was halfway along the second shelf, reaching for a green book, when the one that was four down from it suddenly caught his eye. It was an average thickness, and it hadn’t stood out until now because it was sandwiched between others that were also in pastel shades.
+
+A purple so soft it was almost white, with a silver swoop near the top.
+
+That’s Stuart’s auriad color. That’s it exactly.
+
+He skipped the others to take it and found that he was right. The pale purple journal was from last year. Stu-art’h’s name was stamped on it above a silver line that squiggled a couple of times before disappearing over the edge. Inside one of the silver curves was a small shape Alden recognized. The round shape—a not-quite-spherical blob maybe—with pointy rays protruding from it.
+
+It’s the symbol he embroiders on some of his belts.
+
+According to the cover, this was Stuart’s study of, “Mysteries from the History of Teleportation and How to Approach Researching Them Without Resorting to Unethical Methods.” Cool. So he was already thinking hard about magical transportation when he wrote this.
+
+Alden wondered if this study was sparked because of his budding interest in Maker of Narrow Ways or if it was the other way around. He opened it and started reading from the first page because he was sure Stuart would be offended if he skipped to the middle.
+
+The flash card translation had been working overtime since Alden had made it up here. These students had some writing quirks he didn’t recognize, and they were fond of the various creative toning tricks. While Alden would have liked the word-gamey quality it gave the reading experience at another time, right now trying to figure out why a journaler wanted him to experience the logogram for “hominess” simultaneously with a thought they’d had about laying animal skins out in sets of two would make him crazy.
+
+By contrast, Stuart’s opening page was refreshingly straightforward.
+
+“Teleportation was a treasure found before its time,” he wrote. “The wizards of that earliest era hadn’t learned to appreciate our own Mother world. They hadn’t learned to desire the unity of our own species. If legends have truth in them, then the first Artonan to leave our planet did so because he was trying to reach a mountaintop. The only thing more shocking than the strength of his authority must have been his inability to judge what the effects of using it would be.”
+
+Alden fought back a laugh. So Stuart’s not too impressed with the legendary first teleporter.
+
+“Obviously, this isn’t an uncommon opinion among wizards trained as we are today. I doubt anyone will ever solve the mystery of whether or not that legend is true, but since we are still trying to learn what happened during teleportation accidents that are documented better, I intend to study the ethical questions that arise from that research. I would like to form thoughtful opinions about this subject and share them with all of you so that we can hone one another’s understanding.
+
+“I’ll begin by looking for information about the practice of collecting blood from the descendants of those suspected of dimension piercing… ”
+
+After that, he made a reading list, then blazed through it with lots of commentary Alden couldn’t hope to understand without having access to the references. What did come through was Stuart’s earnest attempts to grapple with whatever the moral conundrums were.
+
+It’s a very Stuart journal. Alden smiled. I like it.
+
+Before he continued reading, he did skip to the very end. Not to find out how the studying of the subject had ended but to see if Stuart’s classmates had added material. He imagined that having lots of comments and shared information from the others was exciting for the person who wrote the journal.
+
+At the back, he found the added pages he’d been hoping to see. Several students had interacted with Stuart’s work. Alden was pleased for him until he gradually noticed what felt like an off note running through their contributions.
+
+Normally, he would have dismissed something so mild because aliens and translations. But this was being translated for him by the System that had done his last affixation and then nudged him over to the Primary’s house to say hello.
+
+If Artonan was ever going to be spoon fed to him with maximum accuracy it was here, by her, while he was trying to glean social information about Stu-art’h.
+
+Noh-en read it.
+
+Alden studied her addition. It was a suggestion that Stuart might want to contact a certain historian and request a season of mentorship. “Your curiosity about this topic could blossom into a flower worth a far walk, if you give it a little more time.”
+
+It was a nice thing to say, and if this had been the only journal Alden had picked up, it wouldn’t have seemed out of place at all. But he had looked in the backs of several others. And in those, he’d only seen one or two comments that could be taken as advice to the author. They were usually more cooperative, just adding information that would help everyone who might read the journal. Or they were pure gratitude.
+
+Alden didn’t think there were supposed to be expectations of future study placed on the writer, but Noh-en’s wasn’t the only suggestion that Stuart pursue this subject further. And one person mentioned that he might want to go into summonarium construction.
+
+Yeah, they’re being pushy with him. Like they can urge him into liking this topic in a way that slows him down or doesn’t fit with his plans for himself at all.
+
+He became surer of it the more he read the comments, and he was soon hoping that the Stuart of the past had missed the subtext and enjoyed the compliments from his friends. Maybe someone had given him the kinds of conversation he wanted face to face without inserting subtle roadblocks.
+
+On the very last page, Stuart referred the curious reader to another study he’d pursued, along with the name of the instructor whose class had influenced it. Alden shut the door and carried the journal with him until he found that instructor’s cabinet. When he opened it, the pale purple journal in the middle stood out.
+
+So they do keep journals from recent graduates up here, too.
+
+He took it and turned to the last page. By following the breadcrumb trail of references Stuart had left, Alden managed to collect seven of his journals over the next few minutes. When he had them all, he knelt on a cushion as far out of sight from the library below as he could get and studied the dates, titles, and any comments from classmates.
+
+Even with these few, there was a clear pattern. The two that seemed to have been written before Stuart announced that he’d made his choice had classmate interactions more like the ones Alden had seen in the others he’d read. Then came the ethics of solving teleportation mysteries. From that point on, it had changed.
+
+Stuart had written one on “Learning about Methods for Drawing Similar Life Together,” which was basically an admission that he wanted to send a bean to another bean as far as Alden could tell, but by then, he didn’t seem to be confiding the specifics of which skills he was considering to the rest of them. They’d left notes for him in that one with the same kind of, “Please take a few years studying this more,” undercurrents that the ethics one had had. Alden didn’t think they would have done that if they’d realized this was a skill-specific interest, because the one journal that was absolutely, undeniably a study written by a future knight trying to figure out what skill he might like was completely devoid of comments. Like they’d all refused to read it, or refused to acknowledge that they had.
+
+Perhaps that was their only recourse. Alden hadn’t seen any criticisms in the journals. Maybe if you didn’t have anything nice to say, you just didn’t say anything at all.
+
+The subject of Stuart’s study for that one was “Skills Rooted in Concepts of Connection.”
+
+It was the thickest of his journals. The single blank page at the back, waiting for a comment, was crushing Alden’s soul. He had two warring impulses as he stared at it. The first was to grab a pen and write the most glowing praise for Stuart’s skill choice he could think of. The second was to take the journal away from the library because the adolescent wizard twits who shunned it didn’t deserve to have access to it anymore.
+
+Before he could talk himself out of either course, a loud voice from below said, “You saw a human in here?”
+
+And Alden’s thoughts raced straight toward a fact that suddenly seemed very obvious. He was holding seven journals filled with information that he wouldn’t have been invited to access by wizards who’d been trained in proper discretion.
+
+He’d gotten so invested because these were Stuart’s. But seven was a lot. Seven was too many to put back on the right shelves before someone who was interested in looking for him found him, and seven journals by the same author was less, “Just looking around,” and more, “I am intentionally collecting these for some purpose.”
+
+What if Stuart’s mad that I looked at them? What if I get him in trouble? Whoever’s downstairs could be up here in a second. Do something!
+
+He shoved six of them into his bag and one into a pocket hidden in his pezyva and scrambled as quietly as possible off of the cushion toward the nearest painting, thinking that being found staring at it was the most innocent thing he could possibly be doing up here. As he rose from a squat, nerves making his pulse race, his eyes crossed the appropriate point to let him experience the piece as the artist had intended.
+
+And he discovered that the artist had intended to take the viewer into chaos.
+
+******
+
+******

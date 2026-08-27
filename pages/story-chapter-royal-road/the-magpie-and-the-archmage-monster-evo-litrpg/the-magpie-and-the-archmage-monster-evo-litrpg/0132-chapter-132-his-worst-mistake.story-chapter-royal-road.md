@@ -1,0 +1,123 @@
+---
+id: 904d0545-0fd8-5a66-8752-e30e34916b11
+page-type-slug: story-chapter-royal-road
+title: "Chapter 132 – His Worst Mistake"
+slug: 0132-chapter-132-his-worst-mistake
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 132
+ownLength: 1746
+unit: words
+publishedAt: 2026-06-05
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3495111/chapter-132-his-worst-mistake"
+royalRoadId: "3495111"
+---
+
+He couldn't believe that he was doing this. He, the great Damien Stolte, had to turn around and walk all the way back to Forestwind Mage Academy less than an hour after he left. He never would have agreed to such a humiliating gesture, which no doubt would be witnessed by many students from prominent families. But he made an exception this time.
+
+Why?
+
+Because he had made a mistake. He loathed to admit it. He, a member of the Stolte family, had made a mistake in judgment. But who could blame him? After all, he was told about this elite, new academy by a member of Pillar Merlin's family. Granted, it was a distant relative, and that likely was Damien's mistake.
+
+He had believed that this young man—what was his name again—whom he met in a gathering with other prominent noble families, was talking rather sensibly when he was inviting young mages to go and study there. Damien had thought of it as a golden opportunity because he had managed to arrange for Serena to study there.
+
+It was nothing short of a miracle. Serene didn't have any notable pedigree. Nonetheless, Damien didn't care for this fact, for she was more noble in her attitude and actions than many noble descendants. So he had told a little lie to get Serena into the school. He had said that she would be a Stolte one day and allowed the people nearby to make their own conclusions.
+
+As a result, she was accepted into the mage academy. Serena had been delighted. He could still envision the smile on her face when he had told her the news. She looked almost as happy as when she pet that hellsent magpie. Why she liked that cursed bird, Damien will never understand, but nobody was perfect.
+
+Yet now this very same magpie had told Damien that the Order of the Night King was involved with this school. Of course, it wasn't that he trusted the bird. In fact, he was pretty sure it had just heard the name while skulking around some unsavory folk and repeated it on a whim. But if there was even the slightest possibility that the bird wasn't lying…
+
+Damien had to get Serena out of there. So he strode back into the village with his head held high and did his best to ignore the confused glances. Some even dared to narrow their eyes at him. The nerve! Even if he wasn't a mage, that didn't mean that he wasn't allowed to come in here.
+
+He went to the far side of the village to the large house, which was made to look simpler than the rest. The reason was that this was the servant's quarters, and it was also where Serena would sleep. Damien was outraged. How could they stuff her in these horrible conditions?
+
+But Serena didn't mind, and insisted that Damien not trouble the staff over it. He had relented, but only this time. If he found out that she would be treated any worse than other students, he would bring the full wrath of the Stolte family upon this establishment.
+
+But given the information the magpie had provided him with… it was likely necessary to get his family involved anyway. Albeit in a more subtle way.
+
+"Damien? Why are you back here?" Serena called out in surprise. It appeared that she had been exploring the servant's quarters and acquainted herself with the people here.
+
+"Let's talk somewhere private," Damien urged. He led her outside, into the unkempt backyard behind the servants' quarters.
+
+It was a messy place, filled with buckets, large wooden tubs, and tools required for maintenance and cleaning. No self-respecting member of a prominent family would come here. It disgusted Damien that he had to come here. But he couldn't risk being overheard, and he worried that inside, the mages might have used some of their magic to spy on the servants.
+
+"Serena, we're getting out of here," Damien said firmly.
+
+"What?!" She exclaimed in shock, then narrowed her eyes. "We talked about this. I'm not going to do the infusion."
+
+"No, it's not about that. Your magpie friend talked to me again," Damien said, wincing in displeasure as he remembered the nasty bird.
+
+"Liora did?"
+
+"Yes. She warned me that… the Order of the Night King might be recruiting fresh mages for their cause in this academy," Damien said.
+
+"The what?" Serena cocked her head.
+
+Damien ruffled his hair angrily, unsure of how to explain the heart of the matter quickly. "You remember that corrupted bear in the dungeon, right?"
+
+"Bear? Oh! You mean the badger. One that Liora purified," Serena corrected.
+
+"Bear, badger. Whatever. The point is that it didn't corrupt itself. The people who corrupted it are the Order of the Night King," Damien explained.
+
+"How can you know that?" She asked.
+
+"N-Now it is not the best time to explain. The point is that staying here is dangerous. Even your magpie bird flew all the way to me to get you out of here. I promise I'll find a better mage school for you," Damien said, reaching for Serena's hand.
+
+But she stepped back. "I… I'm going to stay."
+
+"Wh-What?! Serena! No!" Damien barely managed to contain his voice from turning into a shout. "This is too dangerous. It might take a while to find another mage school, but…"
+
+"No, it's not that. I…" Serena sighed and stepped closer to Damien, making him look down nervously at the shorter woman. Why did she suddenly step closer? "You know that I've been taking care of my brother since I was fifteen, right?"
+
+"Yes…" He drawled out, unsure of where this conversation was going.
+
+"You know that our parents died, but I never told you how."
+
+"You didn't."
+
+"It was because of… corruption. Or at least I believe that to be the case," Serena said, her gaze downcast.
+
+"Please, explain."
+
+"Initially, we believed it to be a disease. First, my father fell ill after he came back from a hunt. Apparently, he had run into some weird monster that had injured him. It wasn't a bad injury, so we thought it would heal. But it only spread further and further, and at one point, my mother got infected too. We were isolated from them and never even allowed to see their corpses. The other villagers said that they had turned all purple and their wounds were oozing with weird black liquid."
+
+Damien's blood ran cold. It sounded familiar. "That's just like…"
+
+"The time you got bitten by those corrupted monsters. Initially, I didn't piece the two together. But after some time, I realized that the corruption you suffered and the one my parents suffered was likely the same thing. The difference being that Liora healed you."
+
+Now Damien felt sick to his stomach. It wasn't that he didn't know that the injury back then would have killed him. It wasn't a difficult conclusion to make. But hearing that Serena's parents had died from the same thing was… mortifying to say the least.
+
+"I'm very sorry that happened to you… and your brother."
+
+"I'm just glad you're fine," Serena smiled, but her expression quickly shifted to a determined one. "But I'm not willing to let this go. If there are people going around, spreading this horrible affliction, I can't just sit back and do nothing. I'll stay here and try to figure out more about them."
+
+"Serena, no! This isn't some small bandit group behind the corner. They are a huge organization with lots of members, money, and power behind them. Should you push them in the wrong direction…" Damien reached his hand to Serena, but then stopped. It would be inappropriate for him to touch her so casually.
+
+"I understand that. But perhaps I can figure something out about them and give that information to Archmage Renir through Liora. I'm sure he would know what to do," Serena said.
+
+"Please, Serena! Abandon this madness. What do you think Kalen would say if he found this out? I'm not going to hide this from him, you know," Damien warned, hoping that the mention of her brother would make Serena think twice.
+
+She did look conflicted, for just a moment. But then she shook her head. "I promise, if it feels like it'll get dangerous, I'm going to get out of here."
+
+"You might not be able to get out of here on your own!" Damien snarled.
+
+"I'll be fine. I promise you that. Write to me often and send my greetings to Kalen."
+
+"No, no, no! We can figure out more about what happened to your parents in some other way. After all, it's unlikely the culprits would be in this school. We can ask my family. Have them search for clues," Damien pleaded.
+
+"No, Damien. I won't be a spectator in this. I won't wait on the sidelines while everybody else does the work for me. It won't be like before, where Liora was the one carrying us."
+
+That was a sore spot for Damien as well. He hated that he had been fully reliant on that bird to survive.
+
+"Even so. This is different!" Damien insisted.
+
+Damien tried to talk her out of it, but Serena's mind was made up. It didn't matter what he said or how he argued. She remained firm. In the end, Damien had nobody to blame but himself. He had brought her here.
+
+"Okay… Okay, you can stay here. But I'm also telling my family about this," he said firmly.
+
+"Of course. That would make me feel more at ease," Serena agreed. "Thank you for looking out for me, Damien."
+
+Damien clenched his fists. He felt like his heart was full to bursting. He wanted to tell Serena how much she meant to him, but held himself back. He wasn't yet worthy. He hadn't even become the Elite. He could only rely on his family's power to help her. No, if he were to tell her, then he needed to stand on his own two feet firmly.
+
+"I'm going to return to Cyene and continue the path of the Silver Sword," he announced and left.
+
+Damien dearly hoped that he wouldn't come to regret his decision to leave Serena here even more than he already has. Perhaps the magpie was wrong and the Order of the Night King wasn't here after all. But his gut feeling was ominously telling him otherwise.

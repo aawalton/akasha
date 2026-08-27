@@ -1,0 +1,145 @@
+---
+id: 4b51474f-67e1-5bd0-9ec1-c73169961298
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10: Credit Where Credit is Due"
+slug: 0010-chapter-10-credit-where-credit-is-due
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 10
+ownLength: 1519
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-progfan-slice-of-life/chapter/3733580/chapter-10-credit-where-credit-is-due"
+royalRoadId: "3733580"
+---
+
+The hunk of moving wood stomped through the dirt, charging straight for Hecate, who stayed her ground in an unwavering stance.
+
+Marina decided to spectate from a distance, leaning on the nearest tree as the shaking ground made it difficult to stand still. She kept her eyes on Hecate, curious about what stunt she would perform this time. And to her surprise, Hecate, too, charged straight forward without any care for what she was facing at this very moment.
+
+Lunging into the air, Hecate adjusted her body in an agile motion. She struck the bark of the monstrosity in a downward kick of both grace and precision.
+
+Crack.
+
+The tree was thrice Hecate’s size, yet it was knocked into the ground like Jenga. It let out a furious roar at the white-haired woman, who now stood on top of its oversized body.
+
+Hecate’s expression remained the same; her smile persisted. At least that was what Marina could see from her position. Hecate’s red blade sprouted to life under a shimmer of a glamorous glow.
+
+She swung without hesitance. The blade split the air like an ink stroke on paper.
+
+Countless flashes of light immediately covered Marina’s vision, followed by the sound of crumbling branches and falling leaves. All that was left beneath Hecate’s feet was a pile of wooden blocks, cut into clean pieces, and yet unable to be reconstructed to their previous form.
+
+“Even after millennia, you are as splendid as you were on that day.” Hecate looked down at her sword. “Though I apologize for the diminishing of my skills.”
+
+Marina carefully made her way into the opening, wary of another potential conflict and of the vampire. “So, what was that thing?”
+
+“Most likely a golem formed by the forest. It lacked a mind, because if it had one, it would’ve fled at the sight of me.” Stashing her sword away, Hecate jumped down next to Marina. “May I interest you in some firewood?”
+
+Though Marina preferred gas stoves like the ones at the bakery, some firewood for grilling outdoors would be quite nice. If they weren’t lying on the forest floor miles away from home.
+
+Marina twisted her lips. “Sure, only if you carry all of it on your back.”
+
+“What a rude statement that is?! I did all that work slaying such a dangerous creature, only for you to assign me such a hideous task.” Hecate herself cringed a little at her own words. “I demand an apology.”
+
+“Sorry, it was a joke.” Marina rolled her eyes. “Did you see the person who called for help?”
+
+“Did I see them? No.” Hecate glanced at one of the bushes. “But I do indeed sense that they are around.”
+
+“Um, ladies first.” Marina gestured with a smirk.
+
+“Are you not a lady yourself?”
+
+“Of course not, I don’t consider myself a proper lady, like you.” Marina winked. She only considered herself to be one under the right conditions, such as when someone held the door for her.
+
+“If you do consider it someday,” Hecate began to walk towards the bush. “I can teach you everything.”
+
+“Sure. I will definitely consider it someday.” Marina nodded, knowing she would never mark it on her calendar.
+
+The two of them caught a glimpse of a figure hiding behind a tree, obscured by a curtain of weeds and shrubs, with their face buried to their knees.
+
+“Hello? Are you alright?” Marina called out as they approached.
+
+Silence was the only response given.
+
+The two of them took a few steps closer, and at that distance, the figure appeared much more clearly. It was a young woman, around her early twenties if Marina had to guess, with golden blond hair running past her shoulders. And just like most things Marina had experienced so far, there was something peculiar about this young woman. Notably, the antennae that tipped down on her forehead, as well as the membrane-like wings behind her back. It was clear to Marina that those were insectoid features.
+
+The young woman murmured in gibberish, or rather a language that Marina didn’t understand.
+
+“What is she saying?” She whispered to Hecate.
+
+“According to my Authority, she is telling herself that we can’t see her...”
+
+The idea that if you cannot see your enemy, your enemies wouldn’t be able to see you was not a foreign concept to Marina. In fact, she had a fair share of it while playing hide and seek in the playground when she was little. Seeing it being used in a dire situation such as this was… new.
+
+Marina raised a brow. “Should we maybe introduce ourselves first?”
+
+“After you, my dear.”
+
+“But what if she doesn’t want to speak in a language I understand?” Marina growled.
+
+“Looks like I will be taking the lead for all our troubles today.” Hecate sighed before taking a step forward, a dark aura beginning to surround her vicinity. She looked down on the young woman in front of her. “Puny insect, stand before my presence at once.”
+
+Marina froze. If it weren’t for physical limitations, her jaw would’ve dropped to the ground. The individual in front of them was definitely younger than both of them, especially from the way she hid herself from danger. And yet, Hecate greeted her, if one could even call it a greeting, in such a way. It was another lesson to be recorded into Marina’s notebook of faults.
+
+She watched as the young woman shifted her attention to Hecate in absolute horror.
+
+“M-my lord! I am deeply sorry if I offended you in any way!” The young woman knelt in panic. “Please spare my life!”
+
+“Hecate!” Marina rushed in, couldn’t wait any longer. “You are scaring her.”
+
+“Indeed, I have come to realize. Perhaps I am just not as good at introductions as you are.” Hecate winked.
+
+For a moment, thousands of insults filled Marina’s mind, ready to be thrown. But she suppressed such thoughts. It was not the time, especially not in front of someone they’ve just saved.
+
+“My name is Marina. Sorry about my assistant.” She helped the young woman off the ground, ignoring Hecate’s nonsense. “What is your name?”
+
+“I-it's Mellie.”
+
+“Mellie, that is a cute name. Are you hurt anywhere?” Marina noticed the damage on Mellie’s clothes.
+
+“I’m fine. Did you two defeat the Guardian?” Mellie asked.
+
+“The Guardian?” Marina pondered. “You mean that tree monster? Yeah, we defeated it and turned it into firewood.”
+
+“Aren’t you generous with sharing the credits, my dear?” Hecate commented as she caught Marina’s glaring eyes. “My apologies, I shall not speak another word.”
+
+“You defeated it?! How?!” Mellie questioned.
+
+“Hecate, you have my permission to reply to this question.”
+
+“This Guardian you speak of did pique my interest when I first sensed it.” Hecate pointed out. “It seems to me that barely anyone in this region is an Authority Bearer, and yet that creature has an Authority count of ten.”
+
+“Ten…?” Mellie stumbled backwards. “Not even the strongest warriors in our village have Authorities…”
+
+“Okay, hold up. It’s like my third day here. What does Authority count mean?” Marina interrupted.
+
+“It means that the creature has killed other creatures or people and devoured their Authority ten times.” Hecate clarified. “Or, devoured a Bearer with an Authority count of nine.”
+
+Even with a count of ten, the monstrosity was dispatched like a toy barely put together. Marina could only begin to imagine how far the trail of blood followed Hecate and what the System admin meant by the brutal culture of the Underworld.
+
+“But if these Authorities are as rare as you say they are, where are these numbers coming from?”
+
+“The forest…” Mellie said in a shaky voice.
+
+“I speculate the same, these authorities, if not devoured fast enough, will disappear.” Hecate held out a batch of various eye-catching, colored orbs. “Which Authorities shouldn’t be able to do on their own, unless controlled.”
+
+“Thank you for saving me today.” Mellie suddenly bowed before picking up her basket. “I don’t have much to repay you. This is all I harvested today, if any of these herbs look useful.”
+
+“Yeah, no problem.” One of the herbs caught Marina’s eye. “I am curious about this one.” She picked up a white flower that was shaped like a star. “What is this called?”
+
+“This is uh… Star Orchid.” Mellie answered nervously. “It has a really sweet scent.”
+
+“May I have this one then? It looks really pretty!” Marina exclaimed.
+
+“Of course.” Mellie placed the flower in Marina’s palm. “Thank you again!” She bowed once more before preparing to leave.
+
+Holding the flower within her fingertips, Marina brought it up to her face, ready to admire the scent of the flower, but Hecate snatched it right away.
+
+“What are you–” Marina glanced at Hecate in confusion, only to find an unusual expression upon her face.
+
+“Mellie,” Hecate called.
+
+Mellie turned around. “Y-yes, is there anything else you need?”
+
+“No, there is nothing I need in particular, but I was just wondering…” Hecate said with the usual tone of amusement. “How do you say goodbye in your native tongue?”
+
+“...”

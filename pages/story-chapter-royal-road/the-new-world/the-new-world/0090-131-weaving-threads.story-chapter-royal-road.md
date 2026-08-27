@@ -1,0 +1,149 @@
+---
+id: 9a4684c1-df0d-52a6-8cb9-0973f89d6705
+page-type-slug: story-chapter-royal-road
+title: "131 Weaving Threads"
+slug: 0090-131-weaving-threads
+partOf: the-new-world
+position: 90
+ownLength: 2340
+unit: words
+ownProgress: 2340
+publishedAt: 2018-06-26
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/227905/131-weaving-threads"
+royalRoadId: "227905"
+markedReadAt: "2026-06-29T21:23:57.349Z"
+---
+
+I numbed myself, eliminating any thoughts about his accusation. I raised an eyebrow at Yawm. He stood up straight. He moved his hands between us, measuring our heights.
+
+“Odd. I thought I noticed a difference for some reason. My mistake.”
+
+I shrugged, “Eh, it happens. Sometimes I forget how much taller you are than me."
+
+Yawm raised his eyebrows, “I suppose I’m seeing stars after that lesson with the eldritch. I think you were right about her. She can’t speak even an ounce of sense.”
+
+I raised both my hands, “Well, I’m pretty sure she knows what she’s talking about. She just doesn’t know how to get it across. Like, at all.”
+
+Yawm nodded, “Some knowledge is carried on calm seas. She sends her knowledge through a muddy, viscous quagmire. Getting through that is becoming difficult. You didn’t need to worry about that recently as of late, however.
+
+I grinned, “Yeah. I got caught up in the whole fighting thing. It’s a hell of a lot of fun.”
+
+Yawm raised a hand, “I attempted to wait for you to finish at one point, but you trained within the cyclone of abstractions far too long for that. I’m guessing you wanted a challenge from the beetles?”
+
+I scratched the side of my head, “I suppose. I was trying to see if I couldn’t work on my dodging skills. It worked ok.”
+
+Yawm narrowed one eye and widened the other, creating a questioning gaze,
+
+“It didn’t work well then. My guess would be the sheer disparity in speed.”
+
+I shrugged, “It sucks, but yeah. They're not the, er, most powerful monsters.”
+
+Yawm cupped his chin, staring off in the distance, “I suppose they’re not. Though they’re interesting, they lack the dynamism to make truly challenging foes. If it wasn’t for the abstractions, they’d be worse than useless in that regard.”
+
+Yawm looked at me,
+
+“I thought about what you said about variety and blowing off steam as you put it. I think I may implement a bit of that as I find myself plateauing in my progress recently. I think injecting a few alterations in my daily schedule will get me out of this sticking point. What do you think?”
+
+I looked around then pointed at my chest, “What do I think?”
+
+Yawm nodded, “Yes. I’m asking for your counsel.”
+
+I turned a palm to Yawm, “If it were me, I’d try and progress in something else.”
+
+Yawm placed a hand on my shoulder, “I’ll implement that bit of ideology.”
+
+Yawm paced down the hallway, “I may call on you later, if you wouldn’t mind.”
+
+I waved him off, "It shouldn't be a problem. I have a project I need to grind out. After that, I'm free for a while. Good luck with the cipher, World Eater.”
+
+“Hah, hah, Good fortune for you as well, Harbinger.”
+
+He walked into his study. I walked to my room, sighing with relief. I expected a bit more resistance from him. He might be taking it easy after the contract. Either that or he doesn’t want to put too much pressure on me. I didn’t have time to contemplate exactly what he was thinking.
+
+What I did have time for was learning the cipher. I walked into my room, sitting on the bed. I wrote a thank you message to Amara. After that, I sent a string of messages to Althea. I missed her and having decent meals, among other things.
+
+So I sent her a message about how I couldn’t call her for a long time. I also explained that I had a chance against Yawm and for her not to tell anyone else. Ajax could be trying to fuck us over for all I knew. By then, I was paranoid. I had a good reason to be.
+
+After finishing that, I read through Amara’s messages in detail. The first few mimicked the basics that Yawm discussed with me. As I delved deeper into her advice, I found some incredibly interesting pieces of info.
+
+Amara, the Lost One(Time: Undefined) - Changing a confined space, the dual layered etching, and perspective, those three principles will only get you so far. In order to progress through the more advanced portions of the cipher, you’ll need more than practice.
+
+You need understanding.
+
+That fool thinks he can dissect the cipher just as he’s dissected others. The cipher isn’t a code you can solve. The cipher is a fluid representation of your understanding of your universe. If you lack understanding in a subject, then you cannot write the cipher within that subject.
+
+No matter how many decades that idiot spends writing, he will never progress because of that simple fact. He’s expunged any chance of progression. Why else would I ask for books and information? It is to further my understanding of this material world, thereby enabling me to change it.
+
+You’ll learn the cipher quicker by reading books on a subject then by trying to write that subject down. Yawm is trying to run before he can crawl. Sharpening his knowledge on quantum physics or biology would help his efforts far more than his current method.
+
+Amara, the Lost One(Time: Undefined) - That is where he and I differ. You will differ here as well with time. If you intend on gaining the true meaning of the cipher, then understand the true meaning of this realm. Is it your strength that you wish to enhance? Then read about true strength. Is it your dexterity you want to hone? Then research and understand the meaning of finesse and control. When you aim to write in the cipher, the marking will come to you as you make it.
+
+These messages and the ones that followed had an underlying theme. Amara was bitter towards Yawm. I didn't know why, and maybe I'd ask one day. For now though, I blocked out the messages that went into excruciating detail.
+
+I was a novice, so I focused on the basics. The first step would be mastering the meaning of endurance. I know, big shocker.
+
+Based on that, I opened my obelisk and scanned through Torix’s library. I entered the key words endurance, perseverance, and tenacity. Dozens of novels, biographies, and anthologies appeared. I scanned through them, opening the first book I found interesting. The book was titled, Worlds of Eldritch: Tales of a Fringe Walker.
+
+The title was pretty self explanatory. Even then, the book was harrowing. It broke down three different worlds that a Fringe Walker went to. Each one outdid the last, until the last one. On that world, Flocks of eldritch flew so dense that they cast darkness below them. The land was fire and the air was acid. Those are quotes by the way.
+
+He lived on that foreign, unlivable world for over five years. Being abandoned by a key comrade sucks like that I suppose. During that time, he struggled finding food and learning how to not die. It was basically a survival story ramped up to an eleven out of ten.
+
+Even though it was about 600 pages long, I finished it in three hours. As I laid it down, I was blown away by how quickly I understood it. With how high my intelligence was, it made sense. This was the first time I noticed such a drastic shift from having that intelligence though.
+
+After finishing that novel, I moved on and read a few more. After about twelve hours and five more books later, I was ready to give a new rendition of the cipher form. Before I gave it a shot, I thought about what I read.
+
+My head was crammed with stories of life and death. There was a biography about a young girl who lived in a galactic slum all her life. She escaped and became a monstrous bounty hunter. One book was an anthology of victims of genocide. The most compelling story detailed something else.
+
+It was a story about a man who carried a keycard that would save his world for over 9,000 years. It showed the vast loneliness, the maddening quiet, and the numbness of time. He never rested.
+
+Over and over, he faced machines, androids, and hostile life. There wasn’t even an ounce of hope for his situation. 9,000 years later and the guy won. It was inspiring, but I didn’t learn a damn thing about endurance. Instead of taking that approach, I tried out my own.
+
+I opened my grimoire and sat down with my legs crossed. As I did, I kept my ears covered with my armor. It blocked out the sound near me, blurring my picture of my surroundings. It blocked out the swimming of the jellyfish, the shifting currents, and the pacing of footsteps.
+
+I closed my eyes, honing in my focus. In the roar of silence, I sliced into the charcoal colored page, visualizing my mark. As I wrote, I kept my hand steady and stable. I paced my breathing, keeping it slow and shallow, like a sniper. I eliminated all other thoughts, putting myself in the moment.
+
+Like that, I etched out the framework of my new rune. I didn’t add extra detail. There was no need to. Instead, I eliminated lines, took out excess pieces, and simplified the design. As I did, my translation didn’t lessen the impact of the original rune. It refined it.
+
+Without excess, the original meaning of my rune came across more clearly. I purified the meaning, like filtering water over and over. With each change, the rune’s meaning popped ever clearer. With each shift, the subtlety of the inscription was gone. It was like pulling the body bag off a corpse. You couldn’t see what laid beneath until you did.
+
+Hours passed like that. I took my time. There was no rush. Messages appeared in the sides of my vision, but I pushed them aside. Everything was this rune. It was like shifting a gear. I pushed all other distractions out. I aligned my thoughts into a single thing. This rune, right now.
+
+With that intense concentration, I neared the finishing touches of the rune. As I neared the completion of it, the rune sapped energy from me. My mana generation offered up an ocean for it, yet it wanted even more. It dipped into my health. A warmth spread up my arm from the channeling mana.
+
+It was the opposite of the icy sensation I got from taking out dungeon cores. Energy wasn’t infecting me. It was being taken away. After several hours of this, the rune finalized. Brimming with an explosive excitement, I raised a hand, creating a single copy of the rune.
+
+The vibrant, glowing letters floated in the air, landing on my left forearm. The new rune overwrote the old one, devouring it. Once it finalized, I channeled mana into the next one. Hours later, the marking sparked to life, drifting off the blackened page. The engraving landed onto my right arm, engulfing the previous rune.
+
+The new, glowing mark sizzled as it engraved itself onto my armored wrist. I sighed with relief, the task at hand finished. I funneled my mana back into the runes, their work beginning once more. I squeezed my hands, satisfied with my work before I opened my status.
+
+Althea Tolstoy(Time: Undefined) - I really, really don’t like the messages I’m seeing, but I get it. I do. You’re doing what it takes to make it happen, just like you always do. I miss you too, and I guess messages will have to do for now.
+
+Hurry up though, because I have a surprise for you when you get back.
+
+I promise I’ll make it worth your while. ;p
+
+I grinned at the message. I loved having something to look forward to once this was all over. It reminded me why I couldn’t stop preparing myself. I had something to lose, and I’d be damned if Yawm, Schema, or anyone was going to take what I had away from me.
+
+That inspiration fueled me as I stood up. I shook my head, wiping away my mental fatigue. I walked out of my room, intent on going back outside to train with the beetles. As I walked past Yawm’s room, he stepped out. I turned around, finding him looking at me with one hand holding his door open,
+
+“Daniel, are you going to fight the eldritch here again?”
+
+I nodded. Yawm raised a hand, “I have a different idea of what you could do with your time, if you’d like to listen to my suggestion.”
+
+I shrugged, “Sure, I’m game.”
+
+Yawm waved me into his room, “Then come and sit. You may enjoy what you have to hear.”
+
+We walked into his study, the rows of books lining numerous windows. The giant eye of a leviathan glanced inside, its iris glowing blood red. A school of squirming fish followed behind it, nibbling at a chunk of meat in its mouth. I sat down on a frozen chair, Yawm’s hulking form facing me.
+
+The entire time, I kept my unique skill, Mass Manipulation constant. Maybe Yawm could make a mistake about me being shorter. I doubt he’d accept seeing me change size, however.
+
+Yawm raised his hands unperturbed, “I’ve given your exercise a great deal of thought. In all honesty, I’d rather you not decimate the populations of eldritch I fostered here. It took effort to get them here, and it will require effort to do so again.”
+
+I sighed, “Damn, I expected this honestly. I figured me doing something like that was out of line.”
+
+Yawm shook his head, “In fact, it wasn’t. I more so than anyone understands why you fight as an outlet. The slaughter is healing. The violence is calming. Warriors such as you and I are most at home in carnage. That is why I offer you suggestion.”
+
+I raised an eyebrow, crossing my arms, “Well what did you have in mind?”
+
+Yawm raised a hand, “We go hunting for pieces of the cipher.”

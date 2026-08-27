@@ -1,0 +1,87 @@
+---
+id: 3d03a8f2-3063-596c-847e-65217c728ba7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 574: Legendary"
+slug: 0141-chapter-574-legendary
+partOf: rise-of-the-living-forge
+position: 141
+ownLength: 1631
+unit: words
+publishedAt: 2026-03-18
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3164044/chapter-574-legendary"
+royalRoadId: "3164044"
+---
+
+The second round of the Menagerie’s auction drew to a close. No further attacks came. It was a rather anticlimactic ending, with the final few items selling quickly and without any trouble whatsoever. Arwin could have almost called it boring if not for the absolutely ludicrous amount of money that they’d just earned out of the first 2/3 of their auction.
+
+He could still barely comprehend the magnitude of their winnings. It would be enough to start building up pretty much every single building on their street with the highest quality materials. Hell, there was a chance they might have even been able to just straight up buy another Dungeon Heart for gold alone if they could find a seller.
+
+Expansion was going to be easier than ever. The fact that the main auction had managed to wrap without a single person getting seriously injured or attacked even in the face of what had clearly been a pretty significant assault was a massive boon to their name.
+
+“We’d like to thank you all for coming today!” Madiv called from his podium. “But before anyone starts heading out, there are two more things that we’d like to cover.”
+
+A murmur rolled through the crowd. Any doubts of the Menagerie’s abilities had long since been quenched. As strange as Madiv may have been, he had the complete and utter attention of every single person in the room.
+
+“First, the Menagerie is actively looking for craftsmen. We don’t care what you do. If it’s art, if it’s unique, bring it to us. We may very well have a spot for you amongst our ranks. If you’re interested, speak to Anna on your way out of the auction.”
+
+That made the murmurs even louder. Arwin and Lillia exchanged a look. This had been one of the main goals for the auction. Even if there wasn’t a single useful person in the audience today, it wouldn’t be long before word of this spread.
+
+They’d soon have quite a few interested craftsmen coming to apply. And while most of them wouldn’t be suitable, if they could start to transform Milten into a crafting hub, the number of adventurers heading to the city with rare materials and the ability to work with them would increase.
+
+And if the quality of Milten’s people go up, then so does the quality of what we have access to. A rising tide lifts all boats. I think Rodrick was the one who said that.
+
+“And there’s one more thing,” Madiv called, clapping his hands together to get everyone’s attention back. A wry grin curled across his lips. “The auction, at least for the standard section, is indeed over. However, if you’d like to continue watching to see the final leg of the auction and what you may aspire to participate in when the next auction rolls around… you may remain and watch. That will, of course, come at a small price of 500 gold a seat. A price that will be offset by another round of our very own Lillia’s cooking.”
+
+Some people in the crowd let out disgruntled murmurs, but the vast majority of them laughed at the sheer audacity of that offer. But, most notably, a very sizable portion of the attendees sat right back down in their chairs.
+
+“I have to say it’s pretty funny that the Mesh allows this to work. Are you getting magical energy for these people eating your cooking, given the fact you have to price it fairly and such?” Arwin asked.
+
+“Some,” Lillia replied. “But not nearly as much as I do from people eating inside the tavern. This is technically selling the food as part of a bundle, so I’m not going against the limitations of my class.”
+
+“Huh,” Arwin said. “Interesting. Is it still giving them buffs?”
+
+“Much smaller than normal, but yes.”
+
+Another clap echoed through the room. It was followed by the great doors at the back of the auction hall finally swinging back open.
+
+“Right, then!” Madiv called. “If you’d like to head out, now is the time! We will continue to remain vigilant and watch over our street. However, please keep in mind that we cannot interfere with anything that happens off our property. Take all proper care and caution when leaving. There have been a number of attacks already. You should expect some idiots to try to rob you when you leave the safety of our property.”
+
+The crowd milled as people started to make their way for the door. It wasn’t too many of them — roughly around 25% of the audience seemed to be leaving. Everyone else had elected to stay and watch the 3rd round of the auction.
+
+“Godspit,” Lillia whispered. “Look at that. There are so many people sitting back. We’re practically manifesting money out of thin air.”
+
+“Yeah,” Arwin said with a disbelieving shake of his head. “Makes me wonder how much the guilds with the really big auction houses can make away with. This was still a relatively small auction. I’ve been to a few in my time, and the ones run by the huge guilds are a lot bigger than this. Still, we’ve made out like absolute bandits. I could make someone a solid suit of golden armor if I wanted to.”
+
+Lillia sent him a sidelong glance. “Would that actually be of much use?”
+
+“Well, it would look cool. It would also deal mental damage to anyone who lost a fight against some bloke wearing the softest, squishiest metal as a defense.”
+
+She snorted. “Fair enough, I suppose. I’m going to have to pass on looking like a gaudy decoration in a pompous noble’s house, though. That’s the kind of thing that the Blacktongues would outfit someone in.”
+
+Arwin grimaced as he mentally scratched the idea from his mind. “Point made.”
+
+They both fell silent as they watched people head out of the auction house. It wasn’t long before the noise started to die back down. Everyone who planned to leave made their way out, leaving a sizable portion of the audience sitting in wait.
+
+Shadow imps bearing plates of sandwiches, drinks, and assorted snacks marched in through the door, delivering their meals to the people who had remained to watch. They had everything distributed in an impressively short amount of time.
+
+The doors to the Mausoleum ground shut once more, casting the room back into shadow and leaving the beam illuminating Madiv on his center stage as the only source of light. Only once all the sound had completely drawn to a halt and attention had returned to the vampire did he speak again.
+
+“Thank you all for staying,” Madiv called. “And to our VIP guests, thank you for your patience. I hope the first two rounds of the auction have served as an appetizer to show you what we’re capable of. I am eager to begin the next stage of our event today. And, as with the previous section, if there is anything you wish to sell, please voice your intention. We will send a representative to speak with you.”
+
+He fell silent to give everyone time to process his words. Then Madiv started to speak again.
+
+“Allow me to get into the exact details of how the final round of the auction will work. This auction will function the same as the previous two rounds save for one small difference. No gold will be accepted for any items up for sale. That includes items that you may give the Menagerie to sell on your behalf.”
+
+Surprised murmurs cut through the lower level crowd. Arwin wasn’t surprised. Even from the auctions he’d attended in his past life as a hero, this was out of the ordinary. The whole point of an auction was to get gold. Auctions weren’t some random market in a small town where bartering was seen as acceptable.
+
+But the Menagerie were far from a normal guild.
+
+“The only thing we will accept as collateral or payment for any of the items in this final round will be materials and magical components,” Madiv continued. His lips pulled into a wide grin. “Of course, should anyone find themselves in possession of gold and lacking in materials, we have a broker that would be willing to work with you as a third party. That said, please be aware that you may have to move quickly to purchase any of her wares. She has found herself to be in high demand and has limited supply.”
+
+If anyone in the VIP sections had issue with that, Arwin and Lillia didn’t hear it. It wasn’t like they could have even if they’d wanted to. The rooms were soundproofed, after all.
+
+“Now then,” Madiv said. “Allow us to begin. Following in line with the previous segments of our auctions, all the items we’re about to offer up will continue to be better than the previous ones. Please keep that in mind and act fast if you’re going to sell. We aren’t playing around. Now, without further delay, let’s get things started. Up first is a rather interesting item that the Menagerie claimed from a dungeon a short while ago. It might not be the strongest item up today, but it’s sure to make quite the impact.”
+
+Madiv clapped his hands together. Green mist twisted across the stage before him, forming into the shape of a glossy silver sword studded with a pale blue gem in its center. He took the weapon gingerly in his hands and raised it into the air.
+
+“We’ll start the 3rd round with a blade by the name of Earthsliver.” Madiv’s smile grew predatory, as if he were watching the jaws of a carefully laid trap finally snapping shut upon his prey. “Its rarity is Legendary.”

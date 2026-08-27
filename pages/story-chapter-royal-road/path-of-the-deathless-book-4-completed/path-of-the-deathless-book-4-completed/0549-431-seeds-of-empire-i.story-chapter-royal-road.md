@@ -1,0 +1,233 @@
+---
+id: 7f1fcca2-9ce0-58b7-83f3-577969a487d2
+page-type-slug: story-chapter-royal-road
+title: "431 Seeds of Empire [I]"
+slug: 0549-431-seeds-of-empire-i
+partOf: path-of-the-deathless-book-4-completed
+position: 549
+ownLength: 4924
+unit: words
+publishedAt: 2026-08-13
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3809719/431-seeds-of-empire-i"
+royalRoadId: "3809719"
+---
+
+The way most empires collapse is through unintentional suicide. It is not a suicide that the people or their rulers choose. It is a suicide nonetheless.
+
+This suicide takes shape in many forms: Over-immigration; Under-immigration; Under-replacement; Over-replacement; overexpansion; and underexpansion.
+
+This disease of empire mirrors metabolic disease. A nation that is unable to process its own people and logistics effectively overdevelops in specific areas while underdeveloping in others. The imbalance crushes the culture from within, and the people balkanize. They fragment into their own factions as they fight over conditions of pseudo-scarcity, and what once was a unified whole scatters into warring tribes once more.
+
+For a nation is unnatural unto itself, yet also one of the greatest achievements of humanity: to create a nation, you must reach beyond your tribe, beyond those you know, and rely upon them. This is an act of highest trust, one might even call it faith, but this faith cannot be wielded blindly.
+
+One cannot venture into nation-building without thought, for that is how you trigger a disease of nation. You must understand your limitations better than anyone else. When you make your decisions, choose what your nation can sustain, and do so with clear eyes. This is where most wise rulers fail, due to being susceptible to a singular flaw: they have a vision, they have a want, they have a model of how the world is to be in their head.
+
+World models are always far removed from any kind of reality that will transpire, but there is also always something useful to be found in them. When you have a vision and you realize that vision is mistaken, you have to kill it. You have to kill your pride, and in that pride, where most rulers hide their egos, is a fragility they cannot abide. So they choose the disease if only to desperately prove their principles right rather than facing the material realities at hand.
+
+The Yellowstone Republic has stood for centuries. That is centuries longer than most nations on Integrated Earth. If you have any knowledge of history at all, you'll see a brutal and stark truth: most tribes that roamed the surface of Integrated Earth after the arrival of the System barely lasted decades before they fragmented, before a new individual came to power. In these early days, the imbalance between the majority and the elite minority was so severe that the rule of one was ever so common.
+
+The thing about tyranny is that it's a brittle thing, a fragile thing. For when one was laid low or when one reaches the extent of their knowledge, their tribe and slaves usually follow them into oblivion, because destruction awaits those that can not face a broad set of problems. Even when technocratic societies followed, small townships and city-states established themselves. The same problems applied. Those who over-expanded found themselves unable to subdue and fully culturally assimilate those they defeated, and thus constant rebellions ensued.
+
+Remember this: might does not make right. Might makes law, but law is contingent upon your ability to enforce it. If you allow your enemy's culture to remain, then they will always stand apart from you, and you will always be assailed by a sickness from within. This, then, is a disease of empire: too much to process, too much to digest.
+
+Then some city-states were too insular. The former rulers of Fortress-City Vermind, for example, were religious zealots that refused to proselytize, yet were extreme in their beliefs nonetheless. They created countless enemies, both among the monster nations of the North and the individual tribes to the east. When the Republic came to seize them, they put up barely any fight at all, as they were already on the verge of being overrun.
+
+Their mistake, then, was also a disease of empire, for they failed to embody an empire. For they failed to assert themselves and grow, to grant themselves room to retreat or room to expand.
+
+As such, if you are intent on developing a civilization, if there is a project you are building with countless people and many factions aligned, then there must be a common pillar they abide by, a common culture or a common goal they refuse to turn away from. It is not the perfect distribution of resources that holds a nation together, but a singular unifying faith. If we suffer, then we should suffer together in some measure. Not perfectly even in our suffering, perhaps, but everyone should bleed, if only to indulge in symbology.
+
+But to ensure that remains the case, then the pillars of your faith must prove unassailable as well. For if the foundational ideas of your empire are suspects of decay, then those below will find themselves assumed of a nihilism, of a grand meaninglessness, and then the final disease of empire will take shape. The disease of the individual before the community, the individual before the project, where personal power reigns above all other expressions…
+
+—Diseases of Empire, by Councilwoman Veronica Chandler
+
+431
+
+Seeds of Empire [I]
+
+Gate Skill Gained: Quick-Fab (Adept) 1
+
+District Updated: Surfacer Way > Farnest
+
+District Gained: Skyfolk Residentials
+
+District Gained: Grounder Residentials
+
+District Gained: Aquatic Residentials
+
+District Gained: New Blackedge
+
+District Gained: Peacehold
+
+District Gained: Abyssal Residentials
+
+District Gained: Draconic Hoardnest
+
+Gate Skill Gained: Industrial Transplantation (Adept) 1
+
+“Uva, I'm starting to get the feeling that you should have been Gate Lord all along,” Adam murmured. Lightning flashed in the distance, and sheets of psionic rain fell, but rather than dissolving into nothingness, they crashed upon the land in symmetrical order and assembled grand edifices of matter from mental magic.
+
+“Nonsense, Gate Lord—this place needs someone to bear its greatest burdens and to serve as its face. I am not that person. I am merely the rain and storm that accompanies the sunrise. Your shine should light this world, and as such, your shoulders should carry the weight of critical decisions—and their failures.” Uva’s voice was smooth and distracted—her mind focused on a greater task, and that was finishing what remained of the Peacehold.
+
+The orcs had given the grand structure that name in both appreciation and mockery. For now, they were to be acolytes of peace, or so they boasted, as they were bound to Adam's Divinity. As such, they couldn't live in ramshackle fortifications among the corpses of their own kind and the debris that rained down upon the Tutorial. They needed an aesthetic change, as much to match their spiritual rebirth, and so the Peacehold was created and designed to their exact specifications.
+
+The orcs merely played along with Adam's symbolism, as they were to be creatures of peace now. They couldn't represent themselves using violence or icons of violence, and so the Peacehold had to be a shield. Thus, it was shaped into a sloped series of battlements around Starhawk's Perch. Rather than containing a castle of its own, it was nothing but trenches and moats along the outside. Dense fields of wardings and literal constructs lit the air as orc mages shaped the first line of defense to warn off all who were foolish enough to approach this place without declaring themselves.
+
+Beyond those initial protections, the battlements stood bright and tall, lit by Adam's divine glow and cast with each thunderclap of Uva's distant lightning. Whips of psionic energy sheared and remodeled its exterior, and eventually, a measured plainness became its face. It was smooth in a way that no matter could be, polished to a gleam that resembled the marriage between metal and crystal.
+
+Furthermore, it was lined with countless turret slots that served as windows for the orcs, for the orcs who treated the walls as their abode. Inside, the space grew wider than that, for Uva's mind was the fundamental skeleton that supported the interior. She connected chamber to chamber, hall to hall, without needing to abide by physical laws. Though that made the Peacehold vulnerable, this was only its initial conception, for she would see it replaced bit by bit in tandem with Can Hu, the Geomancers, and orcs possessed of architectural talents.
+
+Relying on her Dreaming Storm alone was too treacherous. If Uva was incapacitated in any form, all of her psionic constructs would collapse, and the people within would be exposed to gravity and the slights of materialism. As such, all architecture within the Gate would eventually be two-layered: while Uva was active, she would use her Psychomancy to create initial structures for people to reside in. With time, the constructs she made would be replaced with physical embodiments. Though she would apply her internal mechanisms, allowing halls to be interlinked and people to travel across gates using the connective bridges forged from her mind mana, everything else would exist upon a stable foundation.
+
+As such, the Peacehold was only a work in progress for now, a draft of what was to come, but it was quite a magnificent draft at that. Each one of its walls was structured like a risen shield, painted bright as Uva interfaced and negotiated with the orcs within the panoply of colors that splashed down with the falling rains. She tweaked and modified every stretch of the outer walls to the appeal of the orcs that lived within. And she gave them ample space inside as well, for orcs were ultimately hyper-individualists, and keeping them in close proximity gave rise to foul behavior. Beyond the others, they were still taunted and incentivized to resolve old slights, and though they didn't hurt one another—as it would displease Adam and incur the Deathless' wrath—that didn't mean they weren't already sniping amongst each other: cliques grinding against cliques, and old rivals staring each other down as dark thoughts brooded in advance of retribution to follow.
+
+Beyond the grand spaces allowed by her Psychomancy, Uva also decorated the interior with temporary psionic constructs. Furthermore, she staffed the orcs with a single communal servant that could be summoned with the ring of a bell.
+
+***
+
+Whisper, Mortar, Tequila, and a dozen more orcs rattled the hand-held bells they'd been granted as hard as they could. They were gathered within a block forum, a central space that allowed orcs to convene and debate one another within a single battlement block. In this space, a few hundred orcs could assemble around a wide-open table surrounding a platform for specific individuals to speak. This resembled debate forums across other worlds, or an amphitheater meant for public oration, but right now they simply wanted to watch a performance, and it was one the speaker was only too happy to oblige.
+
+“Owl! Owl! Owl!” they all cheered.
+
+A falling bolt of lightning cast the one they called for. She manifested, dressed as she had been during her assault on Passage. A look of absolute fury and overwhelming exhaustion swept over Lady Eileen Harkness' mental clone. She fell to her knees and screamed to the heavens, screamed to the cruel non-goddess that kept her enchained in her mind. “Mettabon! You bit—”
+
+Her curse was cut off as the orcs lifted their bells in a unified cheer, and then they began throwing rotten fruits at her.
+
+Because even without the itch, old habits died hard, and Harkness had a certain personality that brought out the worst in others.
+
+***
+
+The Peacehold wasn't allowed to completely surround Starhawk's Perch. Instead, it had wide-open thoroughfares to the east and west of the castle, granting the residents of New Blackedge twin valley-shaped passages if they wanted to venture toward the Abyssal gateway or the surface.
+
+Major changes had taken shape at both dimensional poles of Gate Piety as well.
+
+A vast stretch of Abyssal Residentials was constructed right beside the Abyssal gateway. The buildings there were built in imitation of those that could be found back in the Weave. Towering spires of glistening dark brickwork and crystal, lit by hovering spheres of light and connected through sprawling bridges, turned the Abyssal Residential District into an urban nest.
+
+But this was for the more human-sized Pathbearers, and with there being other visitors who sported vaster, more monstrous dimensions for their physiology, there was always the nearby Draconic Hoardnest. The massive mounds of mithril and treasure established by the Dragon Brokers had been expanded. Though the Brokers stood as the nucleus of the Hoardnest, the Descenders had set up their own encampments. They cast out spore-shaped tents as massive fungal structures opened up and created bivouacs for them to rest at. Several dragons set flames at block-sized bonfires to warm their food and heat their tea—but ultimately, this was just a place for them to speak amongst their own kind as they spent the rest of their time mingling, mostly with the brokers, sometimes up near the surface, as they socialized with surfacers and Abyssals alike.
+
+Some, however, found their interest captured by the vast, crystalline web-work forming above them. For there was a second layer to the Gate in development, a layering of eldritch nature. The Terrorspawns still crawled through sprawling tendrils connected to the mana core, and they grew in number with every passing day from every existing mind, nourished by fear and engendered by nightmare. They never broke free. Instead, they were contained within the core.
+
+Uva could feel them building and growing, propagating, but there was a discipline to them now that she'd regained control over her being. Mana equilibrium had established itself as the mana core's crystallization spread beyond the Abyssal gateway. No longer did it need to infest the Stranger's Garden. Instead, it completely usurped the environments outside the Abyssal gateway, consuming the sediments and mud, swallowing the trenches, devouring the trees as everything was made into crystallized mana, as a part of the Outside bled over into Integration and stayed there.
+
+A series of kaleidoscopic fangs rose around the entrance to Gate Piety, climbing high and pressing against the sky-like ceiling of the Umbral Wilderness. There was no flanking the gateway from above, no easy point of ambush. If someone came, they would have to breach the crystal, and in doing so, allow an exit for the Terrorspawn to spill free. With that, there would be no avoiding what followed. Uva would be alerted. The true defenders would be scrambled, and that was if the Terrorspawn didn't overrun and completely consume the fools who dared provoke them.
+
+A similar series of residential districts had been constructed near the surface gateway. Yet Uva was only a supporting effort in the labors that took shape there. Instead, the main figures of the surface districts' reconstruction and the residentials that were established thereafter were Can Hu taking the lead and Roland as advisor.
+
+A massive swarm of construction drones, numbering in the hundreds, swept through the Gate. They buzzed like bees, and their queen, the Penitent, worked tirelessly, using its Geomancy to sculpt and construct structures of great beauty and polish.
+
+The platform that once carried Surfacer's Way had been repurposed as a separating layer. The Skyfolk visiting from the surface were granted the top side, while those who once lived on Surfacer's Way were moved down—along with all their buildings. The Industrial Transplantation skill was gained during such an effort as Can Hu secured the bases of entire residential clusters and moved them as if a chef carrying a stack of plates.
+
+What followed then was an easy means of transportation for all stabilized constructs within the gate. Anything that could be moved was now capable of instantaneous transportation across all districts, meaning that a building in the surface district could be shifted over to the abyssal. So long as there was something to bear its weight, and it could sustain the momentum of its departure, the transplantation would always be a near-certain success.
+
+With everything that was being built, the Quick-Fab Skill also took shape. It effectively allowed the rapid reconstruction of existing mechanisms and materials, provided that the resources were available. Between Uva, Can Hu, and all the workers within the Gate, all constructive efforts were accelerated to staggering paces.
+
+And thus, it took less than a few days to rebuild the surface district to accommodate everyone coming through. The dimensional entrance to the surface was still being blockaded in part by Shiv's Sky-Swallowing Carp, with the restaurant effectively serving as an immigration center now. It was also an easy filter for anyone who was unwise enough to start problems in the Gate, who were provoked and lured by the promise of the Deathless. If they could claim his life, they would gain a wealth of Legendary skills and be among the greatest Pathbearers to ever live on Integrated Earth. Yet, after everyone Shiv had broken, the assassination attempts were only on a downturn rather than an escalation.
+
+It seemed that the moaning victims he'd left festooned to the upper entrance of his restaurant sent the proper message. The fact that he wrote "behave yourselves" on their bodies in bright red sauce also added to the enforcement of discipline.
+
+Beyond the Sky-Swallowing Carp, however, the bridge split in three ways. One was straight ahead to the platform that now held a series of hovering nests. The Skyfolk were used to manipulating gravity, and as such they danced weightless but still granted a measure of space away from the mana core and the terrifying creatures that now teemed within its crystallized nest.
+
+Below them were the residential districts meant for man and machine. Charging stations had been established as massive influxes of automata spilled in, most of them representatives from Lone Star. The bots were the third most populous race within the Gate, behind the orcs and then the goblins.
+
+The Grounder Residential District was the largest district because it encapsulated many rival empires and many diverse physiologies. It needed to be separated into over a thousand different communities. The Southerners refused to mingle with anyone who wasn't their own, and even among their own, they were separated by the banners they held to and the gods that claimed them as subjects.
+
+Lone Star, Yellowstone Pathbearers from the far east, west, and the far, far north could co-mingle, but Yellowstone's Prismatic Guard needed to be on close watch as well. They were among the most threatening to Gate Piety, even if Veronica and Shiv were currently operating along the lines of a pseudo-détente.
+
+But the Jotun needed to be isolated for what was to come and what might follow. Having the Frost Giants and those of Yellowstone in close proximity was an alchemical equation for violence. More than once, Uva had to break up a brewing battle. More than once, Shiv was called on to intervene, and when he did, he made sure that the example came with pain for all sides. Hospitality was a law that needed to be enforced, for any leniency would give other troublemakers fresh ideas. Ideas that would always see them suffer bleak fates beneath Shiv's pan.
+
+It wasn't just Shiv who was in charge of security, however. Still Water and the rest of the Arachnae Order present in the Gate were granted a new headquarters. It was shaped to go underground, designed as a subterranean tower akin to a layered oubliette. At the very bottom were the prison cells that currently held certain Inquisitors, Aviary agents, and other dissidents of interest. Higher still were the barracks for the Arachne Order and a fourth permanent dimensional gateway that was being constructed, one meant to connect directly back to Weave. Then higher still were administrative modules.
+
+Uva's personal abode was connected to the Farnest through an adjacent tunnel, but not directly and not so close either. Instead, she buried herself far and deep from all other districts, just in case she lost control again.
+
+A final district stretched between the outer walls of Peacehold and the place where the Grounders lived. A series of stilt houses emerged from the surface of a vast lake, but the true district was made underwater and designed specifically by Can Hu to accommodate the aquatics. This place was separated in half between the freshwater aquatics and the saltwater beasts—apparently, those of the former considered themselves more individual than monster, and those of the latter, vice versa.
+
+Despite this, their prejudice against each other was surprisingly far more muted compared to that which was expressed by the Grounders.
+
+As to why, Can Hu had a pithy statement: "Empire cannot abide by empire. And soon we might enter that equation as well. For in this place, we might be sowing the seeds of a nascent empire in the process of becoming.”
+
+Those words still resonated deep in Shiv's mind. After all those weeks, after the Delves experienced by the trio and the labors they'd performed, Gate Piety had transformed dramatically. It was sprouting before them, but that wasn't a purely joyous thing—a tension staying in the space like never before.
+
+What existed prior was a blank canvas, rich with potential but not filled with becoming. Now it was in the process of becoming. Even though it was a draft, a sketch of the future, the gate was growing and changing dramatically, like the three unique Pathbearers who stained its core. That core was now swelling as well, rumbling with power as the glow which imbued it shifted between scintillating flame that shrouded a heart of azure blue from extending limbs of crystallized translucence.
+
+It was a core unlike any other, and it was a core that yearned to taste the fruits of hard-earned rewards.
+
+Success: Grants the Gate Lord a Master-Tier Elemental Dimension Biome they can select; grants 2 selectable Heroic-Tier Skill Evolutions; grants a Unique piece of Heroic-Tier Equipment based on the Gate Lord’s Path.
+
+Adam, Uva, and Shiv hovered directly in front of the mana core. Not far away were Roland, Valor, and the Culturist, who kept a close eye on the Terrorspawn, as if they might betray the Gate at any time. The three looked at the rewards, and Adam just swallowed. His mind was raw with pain, but whole for now, yet his heart quivered, and his emotions failed, frail still. He didn't want to make any more decisions. He felt drained from all he'd gone through, and besides, it wasn't just his decision alone anymore, for the mana core now held more essence than his own.
+
+“Alright,” Adam said, accepting the System’s bestowal of power. A flash went off inside the mana core, and the notifications he beheld updated. A spread of options manifested itself inside his mind, and through Uva, Shiv saw what Adam's choices were as well.
+
+Select Elemental Dimension Biome:
+
+Master-Tier: [Plane of Fire]
+
+Master-Tier: [Plane of Frost]
+
+Master-Tier: [Mithril Caverns]
+
+[Unique] Master-Tier: [Psionite Quarry]
+
+The trio paused as they all zeroed in on the final option. “What's that last one?” Shiv asked.
+
+“I have no idea, and judging from the Unique modifier, neither does the System.” Uva frowned. “Although I do have a guess. I've been using my mind to construct things all this time, and so maybe it's a substance that can be shaped by Psychomancy. If so, however, I find myself more aligned toward the Mithril Caverns. We need a source of sustainable wealth—simply choosing the Unique option all the time isn't wise. Just because something is novel doesn't make it superior.”
+
+Adam's disagreement was quiet at first. He continued fixating on the Psionite Quarry, and he considered what it might provide them. “If it's scarce, then doesn't that make it more valuable?”
+
+“Generally, yes,” Uva said. “But what it does is another question. Mithril has an inherent worth all its own—it is a magical conduit. If nothing else, it will be a tremendous boon for our Gate even under conditions of autarky.”
+
+“Under conditions of autarky, I fear we are fated to die,” Adam replied, drawing in a sharp breath. “I know what you’re thinking, but with what we are to defeat, I fear we need to steal strength from those around us. We gained two million orcs from the Tutorial. They are a minority still—the Challenger’s forces dwarf all others and us as well. If we find ourselves besieged and isolated further, then I fear defeat is unavoidable. Diplomacy is the only game we can truly play.”
+
+“It's probably a good game too,” Shiv added. "We got a lot of Lone Stars in this Gate right now. If the Challenger is coming for us specifically, then maybe we can enlist an entire nation to help us.”
+
+Adam and Uva shared a look. One of doubt.
+
+“Okay, maybe not their entire nation, but we can get enough of them to help us. We have a direct access point to the Tutorial, after all. We have turncoat orcs. I'll talk to that Hero of theirs after this—guy’s been in my restaurant for the past week. Hasn’t even gone to the toilet or anything. He’s just sitting there watching Gone—and Helix when he comes in. If nothing else, we can get some experience from them.”
+
+“Right. Do that. Do whatever you can.” Adam paused. “I’ll think about the biome some more in a moment, but… Uva, how well can you control the Terrorspawn?”
+
+“Not very,” she reluctantly admitted. “I’ve been trying to study them with Hymn’s help, but beyond giving them specific targets or pacifying them with my Dreaming Storm, they are close to feral.”
+
+“Hmm.” Adam scowled, the expression much more brutal than usual on his orc-like face. “Fortune favors the mad… We need numbers. Expendable numbers.”
+
+“Adam, what are you planning?” Shiv asked, slightly worried.
+
+“Skill Evolutions,” Adam replied. “I think they aren’t for me, but for the mana core. I want to see what I can make of the Skein of Hollow Dreams and Feast of Dreaded Flame.”
+
+Uva and Shiv tensed.
+
+“I… cannot advise that,” Uva replied. “I cannot guarantee my control. The flames, perhaps—they feed and burn hotter based on fear, so it might prove devastating to a demoralized army, but the Skein—”
+
+“We don’t know what might become of the Skein,” Adam said. “But I have a feeling it might be part of our coming salvation.”
+
+“A feeling,” Shiv muttered.
+
+“A hope,” Adam corrected.
+
+“This feels like how I used to make decisions, Adam,” Shiv said, cringing. “Me striking that original pact with the Challenger is—”
+
+“The only reason we managed to save any bit of Blackedge at all,” Adam finished for him. “We agreed on that accord in desperation, but it wasn't the wrong choice. It might have been a shit choice, but a shit choice is still better than making no choice. Right now, I think we have something better. Uva, if you inherited the Dreamtaker's dimension, and these creatures are tied to that dimension and anchored to the Mana Core, then perhaps evolving it is the way to give them more intellect and to instill them with deeper control.”
+
+“Or it might just make them stronger and more uncontrollable,” she retorted. “If that is the case, we could just end up getting invaded from within before we ever get the chance to be besieged from without.”
+
+“Perhaps,” Adam said. “I think that's a problem I can resolve using the other Heroic Evolution. If these creatures are comprised of eldritch fear, and the Feast of Dreaded Flame sources mana from fear itself… doesn't that mean they're already functionally covered in napalm?”
+
+A bead of flabbergasted silence followed. Uva facepalmed as if she was a fool to miss such a fact, and Shiv slapped Adam on the back. “And that’s why you’re Gate Lord, I guess. Alright, say we do that. Say it works out. Say we have an army of eldritch terrors that we can control and use—what about that piece of kit you’re getting—one connected to your Path?”
+
+“No choice with that one,” Adam breathed. “So. Let’s see what the System offers and build back from—”
+
+The moment Adam accepted his equipment reward, a shadow fell from above. It was a shadow shaped like mist, the same kind that was suffused with Adam's Divinity and spilled forth from his soul. Yet as it passed through the dense, crystalline nest sprouting out from the mana core, it solidified mere meters away from Shiv, Uva, and Adam, and provoked Valor, the Culturist, and Roland to respond with alarm.
+
+Yet everyone froze a half-second after, as they laid eyes on what the System gifted Adam.
+
+It wasn't a weapon nor a piece of armor. It wasn't a mount he could ride or even a cape he could strap to himself. Instead, what spawned was a tessellating temple, the size of a small hill, nested atop a massive palm made from tumbling clouds. Beneath the cube-shaped pagoda that loomed over the temple was an effigy carved in Adam's likeness. It resembled him down to the last detail, forged from the same kind of desolating material that made up the rest of the temple—and it mirrored him as he was right now—closer to orc than man.
+
+“Huh,” Shiv grunted. “It gave you a prayer shack.”
+
+Adam’s misted right socket twitched in confusion and frustration. “So it seems… agghhh!”
+
+And, for seemingly no reason at all, the temple came aglow with incandescent light, and the effigy of mana swallowed the actual person in a stream of radiance.
+
+The last thing Shiv glimpsed through his mental connection to Adam’s was the following message.
+
+Divine Anchor Gained: [Evangelizing Temple of Tyrannical Peace]
+
+“Why?” Uva groaned. “What fresh shit is the System forcing on us now?”

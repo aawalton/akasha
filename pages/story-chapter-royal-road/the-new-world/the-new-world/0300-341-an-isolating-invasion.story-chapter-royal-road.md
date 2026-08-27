@@ -1,0 +1,207 @@
+---
+id: f627547f-4676-55bc-9034-766dbb6bdd54
+page-type-slug: story-chapter-royal-road
+title: "341 An Isolating Invasion"
+slug: 0300-341-an-isolating-invasion
+partOf: the-new-world
+position: 300
+ownLength: 4099
+unit: words
+ownProgress: 4099
+publishedAt: 2022-06-01
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/918758/341-an-isolating-invasion"
+royalRoadId: "918758"
+markedReadAt: "2026-06-29T21:31:29.569Z"
+---
+
+Those questions and a dozen others piled on in tandem, and as always, I rushed to fix them. As primordial mana oozed over me, droplets of the mana funneled upward. They rained into a surging, semitranslucent ooze of navy blue. It piled up at the end of navy blue fire that burned on my skin. I clapped my hands together, the mana coursing into my body until I almost burst.
+
+Clarity infused into my mind, and I smiled at all that was to be done. It was time to get to work.
+
+Chapter Begin
+
+**********************************************************************
+
+-Daniel-
+
+I brushed my hands together, metallic rings resonating from the clanging claps of my palms. The echoes radiated through another city's barrier, the swirling field of blue strata no less beautiful than the first time I built one. Anytime I crafted anything, I wanted peace, quiet, and beautiful scenery. My cities on Leviathan-7 fit the bill.
+
+Taking a deep breath, I put my hands on my hips. This would be my fourth attempt at making one of these, and I hoped it would work. Implanting a blue core into the golem's body, I inspected the next model of my primordial core golems. They proved more challenging to get right than the ascendant and quintessence models.
+
+Those assault and constructor models fit into their mana types well, everything syncing up. On the other hand, primordials had a bad habit of going haywire. Given the motivations I gave them, the mishaps weren't mutinies exactly, but they came close at times. That chaos stemmed from the primordial golems being the most independent of any golem type.
+
+These golems, directors as I called them, could think for themselves, and while that let them manage cities, it also meant the golems could go against me if they wanted to. Not directly, but in a roundabout way. For that reason, I had to get specific with the wording behind the motivations I put in them.
+
+I tried out a variety of directives with each dungeon heart, but few made it past my initial prototype phase. Most primordial cores carried a sinister air I didn't like, so I never put suspicious ones in an actual golem body. I probed each and every finished heart, ensuring some quality control. Despite that caution, my three previous attempts blew up in my face.
+
+My first attempt worked wonders for my first city. Under the primordial's management, the blue cores and rainbow bones rained in. It was all roses and sunshine until I placed another primordial over a different city. Like two ticking time bombs, both golems met, disagreed, and waged war with each other.
+
+They wanted the other golem's territory so they could help me more. It turned out that 'help Daniel' was too vague a motivation for them. After that, I started the quality controls and added some constraints. My next director ended up trying to gather more dungeon hearts instead of the bones. That was fine until it tried dismantling my cored golems to get more blue cores.
+
+The third test ended up the worst of them all. By then, I piled up a lot of motivations and constraints, the complexity of the code mounting. With an advanced mind, the last director tried changing their internal code to help facilitate their goals. Once again, I applauded the initiative, but tampering with the cipher was a dangerous game. They paid the price for it.
+
+Without the know-how, the director ended up turning themselves into an endlessly growing pile of flesh. It was both grotesque and remarkably unhelpful. This last set of changes would either work, or I'd scrap the idea altogether.
+
+The first adjustment added self-satisfaction, so these golems carried a solid amount of pride. This stopped them from morphing their own code. The second shift involved a heap of humility. Having the primordials understand their limitations prevented them from doing too much, which had been the main problem prior.
+
+Though a bit contradictory, I hoped the two contrasting traits would stabilize the golem. As the primordial soldier clicked on, I telepathically linked to it with my breath held. It radiated back,
+
+"Ah, it's very good to see you, creator. How are you?"
+
+I raised an eyebrow, always impressed by their verbal skills,
+
+"I'm doing well. What's your goal?"
+
+"Well, firstly, it's to not make a mess of things. Secondly, it's to manage the others as best as I'm able. That's honestly about it...Ah, and to follow your orders, creator. That goes without saying, however."
+
+I gave him a nod, assigning two assault golems as his guards. They'd keep him in line and report any issues to me if the situation went haywire. Crossing my fingers, I put some faith in this golem. He sounded sane, and I needed the help. Running twenty-four cities by myself was weighing on me.
+
+Reminding me of all those places, another assault golem landed beside me. A waft of wind blew past me as I turned to it, the dark metal of the golem sheening under Leviathan's light. In its palms, dozens of blue cores crackled like orbs of lightning. Good, today's harvest was alright. I raised an arm, the spheres whirling into my pocket dimension.
+
+They funneled into the vast pile I amassed, well over two hundred of them clanking around in my storage. The dungeon hearts radiated out in that void, a testament to what I accomplished here. Staring down at another cityscape dotting the distant horizon, I took note of my progress.
+
+I finished twenty-four cities with connecting road systems, made hundreds of core golems, and progressed in time magic. Despite everything, it didn't feel like enough, and it seemed as though the three-month deadline should've already arrived. It hadn't.
+
+In all honesty, I was getting worried that Schema sent us here to raid our empires while we were gone. If that was the case, I'd ensure the AI regretted that dearly when I returned. Despite that unease, I trusted Schema. It wasn't based on blind faith, however. It was based on a hunch.
+
+Closing my eyes, I reached out and released the hastening of time around me. The broken minds in my wake flowed in, every Daniel numb to it by now. The standard dimensional rules rushed in around me, and that 'other' coursed thick as tar. Getting a feel for it, I couldn't help but trust this feeling.
+
+In the last weeks, I gained the ability to sense time's flow. At least I think I did. Here on Leviathan-7, time thickened to an absurd extent, far more than I could ever hope to match. My hastening only added to my temporal compression, and I couldn't accomplish this same feat without Leviathan's temporal warp.
+
+If this black hole worked like a normal one, time's flow would be thin and wispy. From what I could tell, that's how time worked. The more present, the faster stuff went, and the less present, the slower stuff went. I could've been messing up my terminology and presenting a complete and utter oversimplification. However, this understanding worked had for me so far. It wasn't like I was an armchair astrophysicist with access to the internet.
+
+That would make poking holes in my theory easy, after all.
+
+Anyways, I used this normal state of time to gauge the progress of my time manipulation. From many trials, I found my temporal acceleration increased time's flow by about0 25% while moving. When standing still, my time coursed several times faster for me than usual. This skewed my priorities big time.
+
+At first, I hoped to multiply my own time's pace, but that would require years of training which I didn't have here. Instead of a brute force approach, I focused more on mastering my application of temporal manipulation. When brainstorming, devising runes, or thinking up improvements, I always stood still. I paired that compression with my Mass Manipulation skill, a simple ability that shrunk my physical size.
+
+While seemingly small, every millimeter I crunched inward was another my wake could compress.
+
+It gave me a temporal dilation that left the world crawling in slow motion when standing still. The slowed worldly pace made cipher rewrites or brainstorming trivial investments since each minute of thinking equated to only seconds spent moving. This warped how I handled everything, and I contemplated every minute decision until it radiated with efficiency.
+
+Those incremental improvements resulted in a streamlined city-building process. Despite those advancements, I failed at building a city twice. The first defeat stemmed from the rainbow bones. We bothered them too much, and they kept erupting gamma bursts. After several hours, we moved on to greener pastures while the bones settled down. Our second loss came from an underground pocket of primevals.
+
+Thirty of them rested under the opal bones, so we retreated to avoid losses. Over the last couple of hours, we picked them off one by one when it was convenient, but we stopped the orbital bombardments after that. If we hadn't faced the primevals all at once, I could've planted two cities in the time it took to make one.
+
+Speaking of cities, we finished this one a few hours before I got to crafting. At this point, I owned many settlements surrounding my first settlement. This web of cities gave me over hundreds of guards golems and about a hundred assault golems to improve my assaults with. They darkened Leviathan-7's sky with their numbers, surging into each new zone like a volley of arrows.
+
+But these arrows learned fast and loved war. The assault golems waged it at all moments, each one a spiral of violence and hate. Their ferocity would imbed fear in our enemies, the packs like hungry sharks when facing a weakened foe. The apex of those opponents, the primevals, no longer slowed me down when I established cities. Well, outside of freak occurrences like the thirty primeval blow-ups.
+
+Without worrying about fighting, I put all of my efforts towards the rune carving and city building. Each hub I planted gained me another piece of Leviathan-7 as my own. The roads stretched for dozens of miles between these hubs, and we continued the expansion each day. By now, I ran while making the tunnel structures between the cities.
+
+Those tunnels expanded outwards in circles from my initial building point, creating a ring of settlements. The first ring of cities numbered six, making a hexagon around the alpha settlement. The second ring rounded the first one, the twelve cities maintaining a hexagonal shape. I positioned the towns in that same ratio, keeping everything roughly equidistant from each other.
+
+While it sounded complicated, it was essentially just a controlled expansion. It prevented me from creating a line of cities that defended itself poorly. This denser, symmetrical frontier made the maintenance of new cities less of a hassle, something I came to dread. If I had a quarter for each time I managed a city's defense against some primevals, I'd probably have, like, thirty bucks.
+
+Terribly analogies aside, I kept hopes high that this new primordial golem wouldn't be an abject failure like the last one. For now, I poured my efforts back into expansion. As I did, I frowned. I dragged my hands down my face, wanting to see Althea again. Or Torix. Or anyone, for that matter. Althea led the loneliness front, though.
+
+At this point, the isolation sank its teeth into me, and I detested being on this planet. No matter what I thought up, I couldn't reason those emotions away anymore. The golems helped, and so did having a Manifold Mind. At the same time, those all came from me. In a way, I spoke to myself, about myself, and for myself.
+
+In other words, I was in a complex conversation with just me, and it drove me insane. At times, I questioned whether all of this was real or not, mainly because of how alien and strange everything was. Having all of my life ripped away for so long left me wondering if I died and this was hell. But it couldn't be. Because I couldn't die.
+
+Snapping me out of my nihilistic stupor, a scouting golem landed beside me. They were just normal golems sent out to explore, but I liked calling them by their roles. It helped keep everything organized, something I wished I could offload to Torix.
+
+Poor lich had to take a lot of offloading. Damn, I missed the guy.
+
+I linked to the scouting golem, and it radiated back to me,
+
+"Hello, creator. We have found an oddity in the deserts of this planet."
+
+I frowned, "What is it?"
+
+"The bone piles spread through the dunes are missing through vast swaths of land."
+
+I tapped my chin, a dozen minds thinking back at once, "Something's collecting the bones then, so there are several possibilities." I smiled, "It sounds like some rulers were harvesting the easiest to grab bone sources. Either that or...something else is taking them." I peered down, giving the rainbow bones a few stomps,
+
+"Like this big bone thing."
+
+The scout spoke out, "Do you wish for us to find the source of the oddities?"
+
+My brow crinkled, my mind drifting off to the idea of talking to someone. I shook my head, "No, I've got this. Let me handle it."
+
+The scout gave a bow while raising its hands, "Of course, creator. We shall continue surveying the continent, and I shall lead you there."
+
+It pressed its feet into the ground, darting away. I followed, putting a hand on its shoulder. Mana siphoned from me into it, and the golem picked up the pace. In minutes, we passed the wafting forests of kelp, the algae thinning. The desert came in force, pockets of kelp spawning behemoths here still.
+
+I gazed at the red dunes, the light of Leviathan forever beaming down its brilliance here. It cast a permanent mid-morning shine onto the dunes, lighting piles of sand into majestic, glowing pyramids. I gawked at the beauty, glad to be out of the damn ossuary for once. The madness there felt like it was crawling under my skin, and I enjoyed the peace here.
+
+A behemoth dropped down from above. I raised a hand, several singularities goring it apart. As its blue blood rained onto the scout and me in a vile downpour, I kept my eyes on the shining dunes. I centered on those beaming hills. Ah, the beautiful dunes. Peace, tranquility, and serenit-
+
+Another behemoth barreled down from above, interrupting the moment. I glowered at it before sending a psionic wave through its mind. Ten Daniels stuffed its psyche until the creature's ego burst, its spirit exploding into fragmented mush. The corpse flopped against the sand, its body still living but its mind dead.
+
+Watching it fall, I heard each beat of its heart, all its organs in perfect order. I took deep breaths of the toxic air here, and I put a hand on the side of my head. Closing my eyes, I settled my anger. From beside me, the scouting golem trembled for a moment. Its fear worked like a whip, and it lashed me with shame. I had to get the hell out of here.
+
+This place was changing me, and not for the better.
+
+Changing my attention, I peered down. Sharp spires of rainbow bone pooled at the bottom of the dunes here, but we found swaths of the desert where the bone orbs went missing. Rulers may have intended on donating the opal shards to avoid conscription. If so, I gave them props; it was a good idea.
+
+It wouldn't be enough to take the number one spot, though.
+
+Several other scouting golems met up with me, having different reports. I got a picture of the situation from them. They found several underground tunnels in the desert along the ossuary where the rainbow bone piles began. From those burrows, strange creatures gathered the rainbow bones piling here, and they brought them back to some hidden ruler.
+
+A few culprits popped into my head, not least of which being the colossal rainbow bone pile. However, I hoped it was Valgus Uuriyah. The ruler held many captured eldritch on him, and he had the potential to control even primevals based on our fight. It kind of felt desperate for me to hope for an enemy, but being in battle was better than being alone.
+
+Exploring further, I darted towards one of the tunnels, the opal bones stretching out of the side of a desert's dune. I walked into the expanse of opal before my scout followed behind me. Before it entered, I raised my hand,
+
+"Don't. This entity could destroy you down to the atom."
+
+The scout raised a hand, "But it is the same for you, creator."
+
+I gave it a hollow smile, "The difference is, I won't die. You will."
+
+"But-"
+
+I waved my hand, "Thanks, but I've got this. Go back to your post."
+
+The scout's hand lowered, and it turned to explore Leviathan-7 once more. My smile turned genuine as I walked off, a sense of surprise popping up in my chest. It wasn't from the golem's concern but from the golem objecting to my command. Even if it was only a slight challenge, it stood out from the monotonous, 'Yes, creator' that I usually got.
+
+Pacing into the opal tunnel, I scowled at the shining opals. The short-lived flight out of this hellhole ended faster than one fight with a primeval. Darting into the depths, I raced through the winding tunnel, and I became a whirlwind of motion. A dozen twists and turns blurred in my eyes, no branches or divets present in the shiny, smooth surface. A few minutes of this passed, and I slammed into a patch of flattened bone. It popped up out of nowhere, being almost invisible from the other angles of opal.
+
+And so, my heels collided into the radiant floor, cracks in the rainbowed remains forming underfoot. A burst of powdered bone splashed into the air like electrified glitter. I chose not to breathe, the sparkling dust worse than broken glass. Walking through the shining cloud, I gazed around. The sleek surface of opals pooled into a sort of bubble that branched off into several other tunnels.
+
+Raising a brow, my eyes set onto a fountain at the center of this room. It bubbled and frothed, the lurching of the liquid like living light. It almost squealed out in pain as the bubbles burst along the surface, and it whispered for me to drink in its delicacy. Stepping up, those whispers strengthened into silent wails that rebounded in my head.
+
+I smiled at the cute fountain, the subtle psionic attack almost laughable. After dipping my hand into the mixture, it coated my hand in light, energy coursing from it. My armor assimilated the fluid, the power becoming my own. Scooping up more with my hands, I drank from the water, and it burned in my belly like fire and ash.
+
+And vitality.
+
+I reached out my hands, grasping them with confusion spreading over my face. While this wouldn't grant me an incredible boost, the fact I even noticed it bewildered me. Before taking it all in, I waited a moment to see the other impacts of the mixture. The side effects took hold like I swallowed hornets.
+
+Rainbow needles expanded from my stomach, throat, and mouth. They drilled through the skin and injected some kind of pain-inducing poison. Barely noticing it, I tilted my head at the fountain. It seemed like it was made to both tempt and kill. Interesting. Moments passed before the rainbow needles oozed out a psionic poison and attack all at once.
+
+Once again, I stumbled back in astonishment. The mental whiplash tore one Daniel apart, the mind in tatters. It regenerated before noting how this reminded it of time magic. I agreed before scooping up the rest of this, er, stuff. It was difficult to even give it a name based on its hodgepodge of abilities, but there it was, existing whether I named it or not.
+
+Taking the ossuary juice, I scooped in the entire fountain at once with my dimensional shield. It fell into the abyss of my pocket dimension before I gained complete awareness of it. My eyes widened as I found five blue cores at the bottom of the mixture, bits and pieces of primordials dribbling out of the cleaved fountain.
+
+I pocketed the rest of the demonic sluice before heading deeper into the tunnel system. Minutes later, I found another of these fountains. Unlike before, I didn't attempt drinking the stuff, and I shoved it into my dimensional storage for later. After taking seven more fountains, the psionic beast I walked within roared out in rage.
+
+Understanding its frustration, I put a hand on a wall and set out to calm it. We warred for a moment, its wrath facing my serenity. Placing all of my minds on the task, the behemoth tore through one of my minds after the other. The entity destroyed each Daniel in a row like a charging animal. It gouged and ripped and gored while I disintegrated into psionic shreds.
+
+I died many times before giving it a sad smile. This was what I did to myself every waking moment. How could an attack like this stop me? It couldn't, and it didn't. In time, the bone beast calmed, its surging flows of energy becoming tame. Pacing further into this large trap, I sensed a primeval below.
+
+After flowing through the tunnel, I surged towards the monster as a glowing liquid. As I reached it, the primeval turned to me, having drunk one of the shining reservoirs. Unlike me, it gorged on the entire fountain.
+
+So to did the fountain gorge on it.
+
+A writhing mass of shining spines erupted out of its back, the stone beast twitching with random movements. It gurgled at me, and I raised my hands. While I locked eyes with it, I shouted, "Come on. My fists itch, and your face looks like a backscratcher."
+
+I winced at what I just said before watching it rush at me. It kept going forward before dashing past me. Lowering my hands, I watched the primeval go out into the distance and up the tunnels. Following it, we both ran through this chasm in the colossal bone pit. A few minutes later, we bolted back into the dunes of sand.
+
+The red dunes burned in the overwhelming light of Leviathan. In that sweltering heat, we crushed through dune after dune. A sandstorm whirled behind us before we reached the bottom of several dunes. The converted primeval grabbed a big ball of rainbow bones, picked it up, and ran off back to the ossuary.
+
+Of course. It was the giant consciousness all along.
+
+I fell onto my knees, not because I had to but because I wanted to. Several sandworm behemoths popped out of the ground, trying to eat me. I splashed the bone fluid over the monsters, watching them suffer. I thought to add to that suffering, but I stopped myself. Gazing at my hands, I wondered what was wrong with me.
+
+The minds and I came to a consensus - we lost our sense of normalcy. It wasn't something I was ever aware of, yet it remained with me most of the time. Even if I lost most of what made up my life sometimes, I held onto something from before it changed. However, I lost everything here.
+
+Schema's lacking presence eliminatedTorix's books to read. I could reread ones through my memory, but that was it. My emptied dimensional storage meant none of the other trinkets existed outside of what I put in my pocket dimension. Unless I wanted to chat with Lehesion's lopped-off tail, that wasn't exactly a bonus.
+
+Scratching my hair, I closed my eyes, trying to swim through my memories. Once more, behemoths interrupted my train of thought. I killed them, keeping a fit of explosive anger in check. Laying back on the side of a sand dune, I made a few sand angels in the dust. It gave me a nostalgic feeling as if I were a child in the snow again. In my ears, a low, droning voice ebbed in,
+
+"And fate has decided we meet again, I see. It's good to see you again."
+
+I looked up, and Shalahora gazed back down at me. My eyes widened as he tilted his shadowy face at me,
+
+"You...appear troubled."

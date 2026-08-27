@@ -1,0 +1,133 @@
+---
+id: 01d29ed2-f22b-5ec5-939c-6652620a3bc0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30: Sweeter Than Honey"
+slug: 0030-chapter-30-sweeter-than-honey
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 30
+ownLength: 1430
+unit: words
+publishedAt: 2026-08-20
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3838685/chapter-30-sweeter-than-honey"
+royalRoadId: "3838685"
+---
+
+“How much butter do we need?” Mellie yelped, resting her exhausted arms in the air.
+
+“The secret to better cooking, Mellie, is adding extra butter to everything,” Marina said with a smirk. “Therefore, we need a lot.”
+
+“But I really want to make some whipped cream…” Slouching into her chair, Mellie murmured.
+
+“Do you have a whisk?” Marina asked.
+
+“What’s a ‘whisk’?”
+
+“Well, if you don’t have a whisk, it might actually be more tiresome than making butter,” Marina recalled from her experience. Sometimes she would make whipped cream just for the fun of it, because it was delicious and paired well on many desserts. Though even with a whisk, it would be a difficult task.
+
+“Why is every one of these ingredients so tedious to make!” Mellie cried.
+
+“Oh, come on, if you could build all those mechanisms in your lab, things like this should be easy peasy for you.” Pulling the solidified butter from the jars, Marina tossed them into a bowl.
+
+“But that is different, Miss Marina. I didn’t need to shake a jar for half an hour for those machines!”
+
+“It’s all part of the process.” Marina chuckled, as if she did not just torment an innocent bee girl for the past hour. “How about I make you something delicious?”
+
+“Aren’t you going to cook something for dinner anyway?”
+
+“Yes, but this will be something more special.” Carrying the bowl of butter, Marina headed to the lab. “Just need to rinse the butter, be right back.”
+
+“Do you still need the leftover cream in the jars?” Mellie glanced behind her.
+
+“Oh, that is actually something called buttermilk. There are uses for it, but don’t try to drink it,” Marina said as she set the butter down on a counter.
+
+She grabbed a bucket of clean water from the corner of the room and, after dropping the chunks of butter into it, carefully rinsed the last bit of cream residing on their surfaces. She then molded the portions of butter into a single mass, kneading it into a round tube. Compared to the rectangular nubs of butter one would normally find at the supermarket, Marina preferred circular ones much more.
+
+“Mmm… Maybe some herb butter while I’m at it?” Searching through the baskets of brightly colored plants, she picked out the two batches that were used the day before.
+
+In terms of scent and taste, they closely resembled thyme and rosemary, except they looked as if they were soaked in blue paint. Marina was never the master of herbs and spices, especially now that she is living in the Underworld, where everything looked like cryptids from a horror show, or drawings from a children’s book. And even back home, she used only a handful of herbs in her everyday cooking.
+
+Some might point that out as laziness, but she believed it to be simplicity.
+
+Chopping the bushes of herbs into a mixture, Marina tossed them into a separate batch of un-kneaded butter. After a quick mix, the bowl of herb butter was ready for its new home in the icebox. Marina would’ve preferred to roll it like the other batch, but with the addition of other ingredients, she didn’t want to make a big mess, especially without plastic film.
+
+“Mellie, where did you put the pollen powder?” She called out from the lab.
+
+“Should be in one of those jars under the extractors.”
+
+“Yeah, but there are like four identical jars under there.” Marina pointed out in frustration.
+
+“Uhh,” Mellie paused. “Maybe the one in the middle?”
+
+“Mellie, there are four jars!” Taking a deep breath, Marina peeked her head out of the room. “Can you just come in here? I don’t want to look through your stuff.”
+
+“Coming…” Mellie pushed in her chair.
+
+“You really gotta organize your lab sometimes. It's very messy,” Marina said. “It’s also hard to find stuff when nothing is labeled.”
+
+“I know…” Mellie let out a sigh. “It’s just not something I’ve thought about before.” Pulling the four jars from under the table, she uncovered each one. “Found it.”
+
+“What was in the other jars?” Marina asked.
+
+Mellie fell silent, her expression tightened as if strangled by the truth’s consequence. “Promise me you won’t tell anyone else.”
+
+“Oh, uh, it’s not some sort of illicit substance, is it?” Marina took a step away. “What about Hecate? You know I can’t hide anything from her, as much as I try to–”
+
+“Promise me, Miss Marina,” Mellie repeated firmly.
+
+“Ugh, fine, I promise I won’t tell anyone.” Marina gave in to her curiosity. “What’s in the jar?”
+
+“Herb-infused honey.”
+
+“Okay?” Marina stared. “Is that illegal around here or something?”
+
+She was in a village of bees after all; the appearance of honey was nothing out of the ordinary.
+
+“We are not supposed to consume the honey we produced before meeting our quota.” Mellie said, “Especially for a bee like myself…”
+
+“But nectar is okay?”
+
+“The process of refining nectar into honey is very time-consuming, and the yield rate is also very low, which makes honey much more valuable,” Mellie explained. “And the nectar of some flowers also happens to have a terrible yield rate, and in that case, we turn it into a beverage.”
+
+“The villagers are already filling your quota. I don’t see what’s wrong with having a little bit of fun—”
+
+“I don’t want them to fill my quota,” Mellie’s expression grew stiff. “I want to fill my own quota. It’s not their fault that I can’t fly, nor is it fair for them to do what I was born to do.”
+
+Marina glanced at the table of lab instruments. “You were searching for a solution.”
+
+“That is exactly why I built this lab.” Lifting the first jar off the ground, Mellie presented the contents. “This amount of honey was my weekly output before you and Miss Hecate arrived, and it would be considered an impossible amount with flying to the tall flowers.”
+
+“Ok, so, am I not supposed to leak the fact that you have honey in your possession, or the fact that you have just discovered a revolutionary method of refining honey?” Marina asked.
+
+“Both. Please keep both a secret, Miss Marina.” Mellie pleaded. “It’s impossible to lie to Miss Hecate, so let’s keep it between the three of us.”
+
+“That sounds good to me.” Marina nodded. “Would you mind if I borrow some of your honey?”
+
+“Not at all, Miss Marina. Do you want non-flavored or one of the infused ones?”
+
+Marina glanced at the various colored jars. “Can I taste them first?”
+
+“Yeah.” Grabbing a few spoons from one of the cabinets, Mellie scooped each one with its own flavor. “Here, Miss Marina, the first one is how the honey tastes on its own.”
+
+Picking up the first spoon, Marina brushed her lips against the sample of amber-colored honey. The sweetness felt familiar to her palate, matching the tone of the nectar she had previously tasted. As she continued to savor the flavor on her tongue, a complex aromatic scent emerged, like a combination of resinous tree bark and the boldness of dried mint.
+
+The honey had a degree of intensity, but it was a grounded intensity, enough to establish its intricacy, but not enough to dilute its purpose as a sweetener.
+
+She continued with the next spoonful. Same texture, flavor, and intensity, but this time, a bright note of vanilla pierced through the earthy notes. It reminded her of the sweetness one could find in ice cream.
+
+The last spoon awaited patiently, and without the need to taste, Marina already received the answer from its smell alone. It reeked of cinnamon, like her mother’s room that was always decorated with scented candles. But as much as Marina despised the smell, she found what she was looking for.
+
+“This one is perfect.” Marina gestured. “But they are honestly all very good, very different from the sort of honey I’m used to.”
+
+“Is it better than what they have in the cities?” Mellie asked, her eyes lit up in anticipation.
+
+“Definitely,” Marina said as if she had any idea.
+
+“Yes!” Mellie jumped into Marina's arms for a hug. “I did it!”
+
+“Yeah, Mellie, well done.” Marina patted the back of her head. “Why don’t I make something special with the herb honey?”
+
+“Really?” Mellie broke away from the hug as she tilted her head. “I guess I have never experimented with it that way before.”
+
+“Oh, then it would be a first time for both of us.” Marina smiled. “I hope you’re a fan of apple crumbles.”
+
+“...”

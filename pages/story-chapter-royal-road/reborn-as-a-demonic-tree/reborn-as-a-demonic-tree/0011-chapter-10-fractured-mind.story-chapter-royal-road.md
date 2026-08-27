@@ -1,0 +1,141 @@
+---
+id: dc77f84d-ebf9-553f-8e98-3dd65bf0c516
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10: Fractured Mind"
+slug: 0011-chapter-10-fractured-mind
+partOf: reborn-as-a-demonic-tree
+position: 11
+ownLength: 1797
+unit: words
+ownProgress: 1797
+publishedAt: 2023-01-07
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081631/chapter-10-fractured-mind"
+royalRoadId: "1081631"
+markedReadAt: "2026-06-29T19:01:51.581Z"
+---
+
+Stella felt helpless as the thunder roared in her ears and freezing rain cascaded from above, causing Stella to shiver and her breath to steam.
+
+Due to the relentless rain and her own efforts, the Qi-powered flames from the lightning strike within the tree trunk finally died out.
+
+Stella collapsed to her knees before the charred trunk and mud splashed on her black cloak with the symbol of the Blood Lotus sect proudly embroidered on her chest.
+
+"Tree... why do you face the wrath of the heavens?" Stella muttered to herself as she gazed up at the chaotic sky. Lightning flashed between the dark clouds as if ancient calamities were battling in the realms above.
+
+Stella knew that one day she would also face the wrath of the heavens. As a demonic cultivator, it was a natural part of her progression.
+
+Stella felt lost... confused.
+
+Her eyes were unfocused as she set her sights on the smoldering tree. For her, the tree represented stability. It was always there, growing alongside her and offering fruits to relieve her hunger. It never spoke, but it didn't need to—she understood its desire for growth, yet she admired its selflessness for charity. Yet now, it was in a state of instability, half destroyed and lifeless. Its spirit was weak and barely noticeable, like a flickering candlelight in the howling wind.
+
+If she didn't help the tree somehow, it might be extinguished forever.
+
+Demonic cultivators like Stella were at the peak of selfishness. They destroyed... devoured... consumed everything for power. They cultivated the principle of one standing above all rather than defeating the beast tides through cooperation.
+
+But the tree not only took the Qi of the dead as every demonic tree does, but it also recycled the dead into a new life. Through its fruits and its own growth. Stella felt the clouds above stir, and she made a decision that may be foolish, but she deemed it necessary for her future.
+
+Standing up, purple flames roared to life, and the water drenching her body evaporated in a rush of steam. The mud caked on her shins also slid off as she stepped forward.
+
+"Tree. I don't know why you face a heavenly tribulation so early. But let's face it together."
+
+When forming a Star Core, one will naturally attract the wrath of the heavens, Stella was still many layers away from such a threat, but it didn't matter. She couldn't ascend to such a high realm in a mere five years—it was time to take a risk.
+
+Another roar of thunder rolled over the mountains as Stella used her movement technique.
+
+It was ill-advised to use Qi-based techniques as her Soul Core took a long time to replenish, but she had no other option. Although she had super strength and could jump high, the tree was over ten meters tall and had many branches in the way. A trail of purple flames manifested on the tree's trunk as Stella sprinted up its side with her movement technique.
+
+Using her hand to shield her eyes from the relentless rain from above, Stella looked up at the sky from atop the tree with an unsettled mind. "It's coming again." Stella could feel the restless Qi as the world displayed displeasure for the tree's continued existence.
+
+Stella sat cross-legged on the highest branch and felt warm air rising from the open hole on the tree's left side where the lightning had struck, and dying flames still festered.
+
+Purple fire shrouded the young girl's form as she braced for the impact of lightning.
+
+Unfortunately, she didn't have to wait long.
+
+The heavens made their anger known with another powerful strike. The world lit up as a lightning bolt arced out of a nearby cloud like a coiling viper eager to annihilate its prey.
+
+Stella screamed as the bolt struck her location as if drawn by the open hole of the tree below. The tree took the brunt of the impact—the lightning Qi striking the wood but mysteriously doing far less damage than last time. Only managing to destroy another branch and leave a burning indent in the tree's side, which was quickly dispelled as if the fire struggled to keep the wood burning as fuel.
+
+Stella, however, didn't know of the tree's increased resistance to lightning and fire. So instead, she gritted her teeth as she tried to take on as much lightning as possible.
+
+Like last time, the tree's branches acted as a conductor, and the lightning Qi, unable to penetrate the tree's 6th layer ambient Qi, had no choice but to seek out another conductor, perhaps a fleshy human that had volunteered herself to become a lightning rod.
+
+Stella's hair frizzled as lightning that arced between the tree branches lashed at her. She clamped her eyes shut to avoid being blinded and instead concentrated on her breathing technique and keeping herself covered in purple flames. With the rain, the noise, the bright lights, and her overwhelming desire to protect—Stella had to concentrate harder than ever on maintaining her Soul Core and keeping it topped up with Qi.
+
+As residual lightning struck her, she felt her Qi deplete rapidly, but the chaotic Qi and her concentration helped her rekindle her Soul Core's reserves. Despite the situation, a smile appeared on her face as she felt her progress quicken. It was hard to find adverse conditions to push her limits here—alone on Red Vine peak.
+
+So long as the tree survived... today would be a good day.
+
+***
+
+Ashlock awoke, and he felt drunk. An unfathomable headache wracked his mind from within, and his vision, despite being spiritual, was fragmented, limited, and blurry. Tiny jolts of pain around his branches helped jump-start his mind and focus... like getting slapped in the face.
+
+Idletree Daily Sign-In System
+
+Day: 2008
+
+Daily Credit: 33
+
+Sacrifice Credit: 0
+
+[Sign in?]
+
+"Huh?" Ashlock's mind spun into gear, and he focused on the numbers of the daily sign-in system.
+
+The fact there were 33 unspent daily credits suggested a month had passed by. "What happened?" He questioned himself in a sluggish voice. The fact he was missing half his vision and his body felt wrecked helped jog his memory of the fact he had suffered a rather hefty attack from the sky.
+
+Looking around, Ashlock's blurry vision picked up grey stones with glowing silvery lines like shimmering mercury. Concentrating on one thing was challenging. His mind was drowsy and drifting in and out of consciousness. But even in the haze, he could see a girl shrouded in purple flames sitting atop him with her eyes closed and breathing steady. If he looked a little closer... sparks of purple lightning ran through her hair and between her fingertips.
+
+Slowly, over the course of an hour, Ashlock was able to regain some focus without falling back asleep. Surrounding him in a circular formation were familiar stone blocks. If his memory served him correctly, they were the stones that made up the runic formation Stella used to cultivate.
+
+"Did she move her runic formation to be around me?" Ashlock wondered. He felt the subtle current of Qi being pulled toward the formation. His leaves captured some of it, and the rest went in and out of Stella's lungs as she cycled her cultivation technique.
+
+Using his {Eye of the Tree God}, his mind screamed in pain, but Ashlock ignored it—he needed to get a full rundown of his condition, and without an aerial view, it would be impossible.
+
+"Well, that doesn't look good at all..." The left side facing the pavilion's kitchen was utterly charred black. It was hard to tell compared to his usual black bark, but the unburned side had a glossy and pleasant tint, whereas the burned side was jagged, raw, and untamed like the side of a volcano.
+
+"Would this be considered a manly scar for a tree?" Ashlock sadly chuckled to himself. It was apparent why he could no longer see anything in that direction, as the wood was dead and no longer part of him... It would seem the charred bark blocked the rest of his body from functioning.
+
+Alongside his destroyed half, he counted nine dents, likely given by multiple lightning strikes.
+
+"Sigh... I knew I would get hit by lightning eventually. It was just a matter of time. As a tree atop an eight thousand meter high mountain, I would be the quickest route to the ground for any lightning strikes for miles..." Ashlock remembered seeing the charred lifeless trees in the courtyard of the neighboring mountain. It was obvious what had happened to them.
+
+Canceling the skill, Ashlock returned to his fractured view of the courtyard and huffed in annoyance. "This simply won't do... it's like someone is holding an eye patch over one of my eyes with weird holes through it." Ashlock tried to think of a solution, but like always... it resorted to his golden finger in this world.
+
+His system.
+
+Idletree Daily Sign-In System
+
+Day: 2008
+
+Daily Credit: 33
+
+Sacrifice Credit: 0
+
+[Sign in?]
+
+"Yes," Ashlock said with a slur, and a notification popped up.
+
+[User is too damaged to receive a system manifestation]
+
+[Damage calculated at 67%]
+
+[Repair body with credits? Yes/No]
+
+"Oh, a repair feature! How helpful." Ashlock felt things finally going his way, so he happily pressed yes.
+
+[33 credits consumed...]
+
+The few clouds littering the sky seemed to part as a ray of sunshine beamed down on Ashlock, illuminating him in a warm golden glow.
+
+Stella's eyes snapped open as she felt the heavenly light on her back— looking down at the tree, she saw the smallest of the nine holes seal up in front of her eyes. "Tree? You're awake? How are you healing like that?" A smile bloomed on her face.
+
+[3.3% of damage repaired... 63.7% remaining]
+
+Meanwhile, Ashlock was yelling at the system in rage. "Stupid fucking system, a month's worth of credits for 3% of the damage to be repaired? Why didn't you tell me of this horrendous conversion rate? Oi! Give me back my points, you scamming bastard." Alas, the system cared not for his plight, and the notification drifted away without a care in the world.
+
+Letting out a deep sigh, Ashlock felt his willpower to stay awake vacating him. "Well, although it will be a slow process, I should heal naturally... best to save my points for a new skill or something... Due to this new runic formation surrounding me, I am getting far more Qi than before, so I should heal and cultivate faster..."
+
+"Tree! Hey! Don't sleep again! I will go get you food..."
+
+Ashlock would really like to listen to the girl's ramblings, but sadly it would have to wait for another day... or maybe another year.

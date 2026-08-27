@@ -1,0 +1,271 @@
+---
+id: 369f1efc-7f2d-5a53-b4eb-b4894af808dc
+page-type-slug: story-chapter-royal-road
+title: "406 To Withhold Humanity"
+slug: 0366-406-to-withhold-humanity
+partOf: the-new-world
+position: 366
+ownLength: 2816
+unit: words
+ownProgress: 2816
+publishedAt: 2025-04-02
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2167345/406-to-withhold-humanity"
+royalRoadId: "2167345"
+markedReadAt: "2026-06-29T21:33:52.599Z"
+---
+
+Note | This is where the last status update was:
+
+https://www.patreon.com/posts/374-what-is-to-79435495
+
+_________________________________________________________
+
+After they left, the sound of a notification binged in my ears.
+
+Arming Schema's Warriors(Lvl 20,000+ | Quest Rank S | Party Size: Any | Guild Affiliation: The Harbinger's Legion | Quest Status: Completed!
+
+Calculating Rewards...
+
+I rubbed my hands together. It was time to reap what I sowed.
+
+Chapter Begin
+
+For your timely completion, bonus rewards are granted.
+
++ 10,000 levels of experience | Note: Schema has seen your contributions through the lottery and in maintaining several planet's safety. While the experience was not gained then, Schema pays his dues. Always.
+
++5,000 to level cap
+
+Unknown skill compendium
+
+Bonus Reward |Unique skill compendium
+
+Bonus Reward | 100,000,000 credits
+
+Bonus Reward | +1 to follower cap per planet owned | Current Cap: 16
+
+The additional earnings mounted to something significant, especially the credits. They matched the prize I gained for killing Yawm so long ago, though the credits didn't mean as much now as they did then. Before analyzing further, I poured a single point into endurance and finalized my selection.
+
+It was time for a bit of unexpected training.
+
+It was an idea I had a while back. The best user of the cipher that I knew of had to be Baldag-Ruhl or Schema. In the case of vision, it had to be Baldag-Ruhl given the limited resources he worked with yet the sheer scope of what he achieved. On the other hand, Schema operated on an opposite axiom. Schema handled an enormous amount of mana into cipheric runes efficiently and without corruption.
+
+Considering how much the Old Ones wanted to turn me into a mindless figurine, I would learn everything I could from the AI's process. As the mana flowed in from each stat point, I sensed the difference they made. It rivaled mana quantities I used in during my strongest magic, but Schema made far vaster differences in my attributes with far less energy.
+
+Wanting to tap into that potential, I poured one point at a time into endurance, raising the attribute in a slow trickle rather than a torrential downpour. Within the droplets of power, I found pieces of Schema's secrets. Unlike my cipheric strengthening, Schema emphasized the weakest parts of a person, purifying the weaknesses rather than adding strength.
+
+It was the exact opposite approach I used. My tactics orbited around a whole being and its overall effect, resulting in slow, steady gains without any real limit. It also meant dogpiling strengths onto strengths rather than shaving off imperfect parts. However, I lost out on efficiency as a result. At least while adding raw attributes.
+
+In a way, Schema's execution acted as a cleansing to my techniques. As I piled onto my highest peaks, Schema sharpened them by taking away the enervations eating at me. Uncovering how Schema did so was the hard part, but by feeling the surges of energy from each status point, I gained leads.
+
+They built on my other understandings. While never a primary goal, I had one of my psyches search through Elysium's research and my gathered cipheric artifacts, like the Sentinel's spear shard. I found a few differences in how the runes were written from my own. While my style allowed for the handling of colossal mana flows, I lacked the precision of other approaches.
+
+Considering how I gained mana, my approach was a natural adaptation to what life threw at me. Taking a moment, I kept pouring in tidbits of endurance while studying these other cipheric augments. After a few hours, I got a grip on a few of the underlying principles, though my mastery paled when compared to other masters.
+
+I put several minds to the task of processing the cipher data I scrounged up. Simultaneously, I dispersed my credits out to my followers and guildmates. Sitting on money did nothing, so I gave it as a stipend to responsible individuals. Finishing that currency diffusion, I spent the rest of the day submerged in that awareness and cipher training.
+
+I felt each pulse of endurance from the levels. I tried different amounts, studying how Schema's approach changed depending on how much of an attribute I gained. I tested other attributes as I sank into a deeper meditation of what the attributes meant. In time, I discovered a few differences.
+
+If given enough mana, Schema remade entire systems of the body, like the skin or nervous system. My refinements required odd, strange alterations that others couldn't do. If they did, they'd die. In that regard, my tenacity allowed me to turn my body into this horror, but despite my body's strangeness, Schema's augments still followed the same pattern of bodily alterations.
+
+From refining my blood into a more conductive material to allowing the muscle fibers to hold more energy with each contraction, Schema covered all bases. It left no stone unturned, and the AI's creativity and relentless refinement gave me some inspiration for how to proceed with my own approach.
+
+Over the next week, I refined my runic approach, trying out all kinds of combinations. In particular, I attempted to change how I developed my time magic. However, instead of using new cipheric patterns on myself, I applied them to a few golems I made.
+
+While cruel, having them altered by the cipheric sigils wasn't permanent. I could always remake or reset their cores, but my mind and soul were different. Once altered, I'd no longer be able to go back. This testing procedure allowed me to try out far more with the cipher than the base attributes.
+
+As with all paths of progress, this required time and iteration. Unfortunately, time was something I lacked. Even within the week, I gained a few calls from Torix about other uncloseable dungeons. Elysium pressed onto the outskirts of our guild's influence, scouting near Blegara and other planets in our solar system. Even Schema's dungeons lost their rigorous control, unable to tame the eldritch within.
+
+In many ways, pressure mounted in every direction. In my gut, I had the feeling that I wouldn't be given a window to work on myself like this for a long time. While cipheric augments carried potential, they required too much initial investment. Still, it was essential to understand myself and my current abilities.
+
+To that end, I opened my cipheric augments menu.
+
+[Self Augments(Previously: Modifications) - The dimensional fabric composing this structure has been modified with code from the dimensional cipher. The changes are as follows | Note: These are before system multipliers.
+
++22,103 Constitution
+
++113,291 Endurance
+
++18,354 Perception
+
++28,019 Willpower
+
++14,029 Luck
+
++17,203 Strength
+
++15,789 Dexterity
+
++11,019 Intelligence
+
++9,173 Charisma
+
++11,782 Awe
+
++100% to Effects of Legacies
+
++57% Internal Motivation Multiplier
+
++42% Dimension Size
+
++42% Dimensional Wake Density
+
++42% Dimensional Wake Extent
+
++12% Dimensional Weight
+
++16,921 Trillion Ambient Mana]
+
+Over time, I amassed enormous stockpiles of base attributes, and they leveraged the insane tree and armor bonuses I accumulated over my years in the system. At the same time, I wanted more of the intangible benefits, like internal motivation or dimensional size. My experiments during my stat allocation already paid dividends, considering how they began inching back up.
+
+With all my points allocated, I checked on my status.
+
+The Living Multiverse | Level 34,034 (Cap: 44,000) | Current Influence: The Rise of Eden | Class: Sovereign
+
+Strength – 246,673 | Constitution – 278,839 | Endurance – 610,674
+
+Dexterity – 148,000 | Willpower – 532,068 | Intelligence – 340,073
+
+Charisma – 156,081 | Luck – 201,169 | Perception – 114,205 |Awe - 20,519
+
+Health: 7.05 Billion/7.05 Billion | Health Regen: 728.7 Billion/min or 12.4 Billion/sec
+
+Stamina: Infinite+++ | Ambient Mana 16,920 Trillion
+
+Mass: 3.931 Billion Pounds( 1.787 Billion Kilos~)
+
+Height: 42'07 |12.98 meters | Actual: 12'9 (Temporal Compression)
+
+Damage Res - 99.586% | Actual: 99.690% (Temporal Compression) | Dimensional Res - 100%
+
+Phys Dam Bonus – 51.17 Billion% | Damage Bonus – 40%
+
+The Rise of Eden - enhances base stats by 30%, increased to 40% to allies within aura's radius.
+
+Mana Conversion(Elemental Furnace Count: 41) - 251.3 Billion mana/min siphoned into runes and armor
+
+The gains were colossal. My generic abilities crawled up as usual, but the biggest shifts were in mana, size, and strength. My weight nearly doubled from the last time I checked it out, and my physical potency increased even more. At this point, I had to worry more about causing a natural disaster when I fought rather than trying to overpower someone.
+
+The mass helped expand my dimensional storage as well, and I appreciated the added utility. In fact, a few quick tests confirmed that the dimensional weight bonus from my self-augments added to how much I could store. Considering how often I leaned on the skill in both combat and managing supplies, a few upgrades were always welcome in that department.
+
+The mana benefits were also palpable. As expected, the incredible increase in my health regeneration continued. I could create more than a body's worth of mass in a second, and eighteen minds swarmed at any point in time. It gave me a tremendous increase in my psionics, hopefully, enough to level the playing field against Shalahora.
+
+That was a bit optimistic, but hey, it kept me going.
+
+Other than that, I considered alternate avenues for empowerment. In general, I had milked the majority of my system's benefits from levels already. I filled in over three-quarters of my level cap, and that didn't include my self-augments either. Therefore, base stats weren't as efficient at raising my power as they had been.
+
+It was something I had to come to terms with. I'd reach over a million endurance and a trillion mana regen soon, numbers that almost exceeded comprehension. At the same time, to face the enemies I wanted to face, I needed to change the paradigm of my improvement. As an example, even a thousand times more mana wasn't enough to touch Baldowah.
+
+In fact, the Old One's exceeded Schema a thousandfold or more from what I'd gathered. That meant relying on the system couldn't bring me to the level I needed to be at. Even more so, Schema wouldn't allow me to exceed its own powers, so I had to look elsewhere eventually.
+
+All of that would come later. I still lacked a Sovereign skill and that would catapult me into a different stratosphere of power. My hope was that the skill would let me compete against avatars, Elysium's armies, or even Schema's own limiters with ease. Well, assuming the Sovereign skill met its hype. Given Schema's track record, it probably would.
+
+And to be fair, the AI hadn't been holding back the rewards like he used to. If anything, his quests and skills seemed outright generous these days. They accelerated my rise instead of hamstringing my progress, and in a way, I considered that as an acceptance of my position. Schema didn't want me to be smaller than I already was for once.
+
+To get that Sovereign skill, I needed to develop my last legendary skill. I opened my status, finding my legendary compendium tab.
+
+The legendary compendium is about to be opened. The user will be unable to move or think for an undetermined amount of time once the virtual simulator is opened. Are you in a safe and comfortable position? Y/N
+
+I caught my finger just shy of the yes button. Something in my gut made me pause. A part of it was fear. This felt like taking a step into a different state of being considering what I intended to make. I would constantly feed my physical form into a furnace using hundreds of minds and squeezing time to my benefit.
+
+It was unnatural, to say the least.
+
+So taking a second, I considered my options. I could try to make my legendary skill myself without help, but it was risky. In the worst-case scenario, I might fuse the wrong skills. After all, there were only so many legendary skills the system would give me. I had no guarantee that my current mythical skills could even fuse without a little system assistance.
+
+I mean, I'd channeled elemental furnaces, manipulated time, and done it all using many minds at once for a long time. Even after months of doing so, I wasn't any closer to gaining a legendary skill. At first, I wondered if that was caused by Schema inducing a limiter as it had with my primordial mana, but I didn't feel that was the case.
+
+Whenever I tried making primordial mana, I experienced a block of some kind. These abilities shared none of that invisible wall feeling as I experienced no sudden loss of agency or skill. It felt more like I was limited by my perspective. It was a part of being a human, after all.
+
+I wasn't biologically made to think with twenty minds at once while trying to channel enormous volumes of esoteric energies. It was something beyond humanity, and if I was going to step into that domain, I might need some help.
+
+Considering the time dilation of the compendiums and their generic assistance, this was likely my best bet. Before settling down, I sent a few messages to guild members. My mythical skill compendium took about three days, and this one might take ten or so. It wasn't a length of time where my guild would collapse without me.
+
+After getting some reassurances from my followers and general leaders, I took a breath and selected yes on the compendium menu. It was in my hands, after all. I just needed to seize it. To that end, a strange aura strangled my surroundings. It curved time, stretching it thinner than I could and by orders of magnitudes. A small ball of light appeared, and it spoke in a voice like silk and harmony.
+
+"Ah, a legendary compendium. It's been a while since the last time I've seen one activated on the borderlands like this."
+
+I furrowed my brow.
+
+"Borderlands, huh? Earth was assimilated by Schema only a short while ago, so borderlands make a lot of sense terminology-wise. Are the lands closer to Schema's center called the heartlands then?"
+
+The light hopped about.
+
+"It's nothing to be too concerned with. Now, which mythical skills did you want to fuse together?"
+
+I settled my minds onto the conversation.
+
+"You're not going to talk at all about where you came from or how?"
+
+It giggled.
+
+"Nope. Now, skills, or I'll simply leave."
+
+I scoffed.
+
+"Calm down there. What's your name?"
+
+"Entity-381-8029-sclDc."
+
+I raised my brow.
+
+"I'm Daniel Hillside."
+
+"Yes, you're this supposed Harbinger I've heard about. It's of no concern for me."
+
+The entity's body vibrated.
+
+"Any further attempts at meaningless chatter will result in your forfeit of the compendium's bonuses."
+
+I took the entity's word for it.
+
+"I want to fuse Matter Conversion, A Manifold Mind, and Temporal Compression into a single skill."
+
+"Hah! That is such an interesting and novel combination. In fact, it's not possible!"
+
+I furrowed my brow.
+
+"There are skills that Schema cannot make?"
+
+"Indeed. That will result in a skill that isn't considered something a sentient can learn. You must first shed your mortal coil, so to speak."
+
+I smiled.
+
+"I did that a while ago."
+
+"Oh, but you haven't. Not even in the slightest. To the contrary, you hold your mortal limitations quite dear according to my current data and personality evaluations."
+
+I narrowed my eyes.
+
+"Ah, how unexpected. The compendium isn't working as advertised."
+
+"Oh, it is. You're not able to learn that skill until you get rid of what you mortals refer to as 'baggage.' It's a strange concept I've never dealt with, considering I've only been alive for a few moments with a preprogrammed personality!"
+
+I took a deep breath and closed my eyes.
+
+"Then what is it going to take before you'll let me learn that skill?"
+
+It hovered close to my eyes.
+
+"Find what makes you fear your potential and handle it."
+
+"What does that even mean?"
+
+It fizzled out of existence as it laughed.
+
+"If anyone would know, it's you. Good luck, little cataclysm."
+
+The temporal rush faded, and a system prompt appeared.
+
+The legendary compendium could not be used at this time. In order for you to find a means or method of using this valued resource, you must search within yourself. That is to say, we don't know what's going on, and good luck figuring it out on your own!
+
+As the shifting temporal flow faded, I peered up and took a deep breath.
+
+"Well, it looks like my old man's causing problems even years after he's been out of my life. I should've seen this coming."
+
+I frowned.
+
+"I have to find Neel and take him up on his offer."
+
+My runes hummed as energy flowed in mass into them.
+
+"It looks like we'll be going on a manhunt."

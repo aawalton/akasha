@@ -1,0 +1,159 @@
+---
+id: b8f8d7da-85e3-5bd9-9bcc-d3d5f0ca9354
+page-type-slug: story-chapter-royal-road
+title: "Chapter 126 – The Perfect Distraction"
+slug: 0126-chapter-126-the-perfect-distraction
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 126
+ownLength: 2127
+unit: words
+publishedAt: 2026-05-22
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3430427/chapter-126-the-perfect-distraction"
+royalRoadId: "3430427"
+---
+
+Liora had rotten luck. She had known that since the day that she picked up Renir. But this has got to be some evil joke from a prankster god. Or a prankster divine, she supposed.
+
+Serena had appeared in the forest, the very night she and Cee had decided to pull off their heist on the magic school. They spent a week setting up the surroundings to pull the perfect distraction and studying the movement of guards and students in the school.
+
+During this time, Liora learned the shocking truth that Renir had indeed been right about infusing mana into one's body. First of all, these so-called "teachers" never let more than a few students in at a time. No doubt, so they could easily cover their tracks should something go wrong.
+
+One day, something did indeed go wrong. Cee witnessed one of the students being carried away from the central room on a stretcher. Secretly. Nobody else had been around besides the teachers. After that, the poor student was carried beyond the village bounds, where Liora and Cee both witnessed what happened to the body if oversaturated with mana.
+
+The skin on the student's arms began to seep with blood. Not as if they had been cut but rather as if it was being forced out of the pores. There was a lot of screaming involved while the teachers poured one potion after the next on the student's hands. Eventually, the bleeding stopped, but the student was left with horrible scars on their hands.
+
+The very same night, this student was taken away from the village. Renir sounded relieved that they survived, but Liora believed it was horrifying. It was clear even to her that this young man would never be able to use magic again. Not to mention the ugly scars all over their hands. She could only be grateful that he survived.
+
+But why had Serena come to this accursed school?
+
+She had more or less gotten the gist of things by listening to her conversation with Damien. Which was yet another oddity. Why was she travelling with this douche? Yeah, yeah, they were supposedly training, but still. Damien. Out of all the people she could have chosen. He was an asshole.
+
+Noisy asshole. His clanging armor still grated on Liora's nerves. It was likely the reason why they hadn't noticed when she was flying literally half a meter behind them. If it had been an actually dangerous monster sneaking up on them, these two would be dinner.
+
+Nonetheless, Liora had warned Serena and Damien not to head to the school. They hadn't listened. Obviously, they hadn't. Liora couldn't even blame them. They had no reason to trust her after she abandoned them in the dungeon.
+
+Confronting them face-to-face about it wasn't pleasant. In fact, it was so unpleasant that Liora tried to forget the matter as quickly as possible. She decided to proceed with her plan.
+
+Are you sure about this? Those two are sneaking through the forest as we speak.
+
+I think Serena is clever enough to stay away from any monsters we rouse. Besides, we're not really doing anything dangerous. Just a little distraction.
+
+BOOM. BOOM. BOOM.
+
+Cee detonated more of her mana overcharge sigils in the distance. Why were they doing this? Quite simple. To wake the monsters and the people.
+
+The loud explosions would startle the monsters, sending them into a frenzy, and humans worried about some potential threat would undoubtedly try to investigate. Seeing the frenzied monsters, they would have to try to keep them away from the school.
+
+Liora surveyed the area and saw that most monsters around the monastery had either yellow or orange names. Meaning that they were somewhat stronger than Liora, but not by much. The guards at the school had red names, meaning that they should be able to handle them without much issue. Nobody should get hurt. Besides the monsters.
+
+Ah, here they come!
+
+The guards came rushing out of the village, splitting up into groups of five, making up three groups in total. Each headed in a different direction, where Cee had set off the explosion, while ten guards remained in the village to guard it.
+
+But the point was that they were guarding the village. There were no guards at the school itself anymore. It was time to act.
+
+Liora switched out of her magpie disguise, receiving a notification right as she did.
+
+[Your skill <Magpie Disguise> has reached [Expert] level.]
+
+[Magpie Disguise – Allows you to assume the form of a regular magpie and masks your profile upon inspection. You revert to your original form if your health drops below the <Critical> level.]
+
+So I can remain in disguise unless I'm dead… That's not morbid at all.
+
+No, shortly before death. I think you need legendary level to remain in disguise even when critically injured.
+
+That wasn't comforting in the slightest. Liora hoped that there wouldn't be a time when she would have to maintain her disguise while critically injured. She didn't want to get seriously injured in the first place. Besides, her goal now was to infuse the Resonance Crystal with wind mana. That wasn't even a crime. These greedy bastards were just hogging it all to themselves, for their morbid mana experiments.
+
+Liora flew low above the treetops where she and Cee had agreed to meet. Another flurry of explosions resounded in the distance, after which Cee jumped on Liora's back.
+
+"That should keep them busy for a while," Cee said. "Did you manage to convince that human friend of yours not to come?"
+
+"No. But she's still a good distance away from the school. I suspect by the time she gets here, we'll be done. You know how slow humans are," Liora said.
+
+"What if she does the mana infusion thing?" Cee asked nervously, likely remembering the student who was taken away a few days ago.
+
+"I…I hope she doesn't. Serena had always seemed so smart. I think she's coming just to see things here with her own eyes," Liora said.
+
+You're likely right, but there's currently no time to talk. We can worry about Serena later. We need to infuse that mana as soon as possible. Most of the guards are distracted right now, and a good chunk of teachers and students are also at the edges of the village, watching what's happening in the forest.
+
+Liora nodded and decisively flew at the school, high in the sky, where no human could ever hope to see her.
+
+"Hang on, Cee. This will be a bumpy ride!" Liora warned.
+
+The spider had already woven safety webbing, securing it to Liora's body. Seeing that her friend was secure, Liora folded her wings and fell. She allowed the gravity to accelerate her fall and Faded just as she neared the lights that illuminated the school.
+
+Liora had chosen one window on the upper floor as her target. Without slowing down, she smashed through the window, making shards of glass fly everywhere. With a strong wave of her wings, she was able to stop herself from crashing into the ground, but the room had been turned into a mess.
+
+It looked like a small study room, filled with books and papers, and now shards of glass. She had destroyed the desk upon her landing. Since when had she been strong enough to smash through wood like it was nothing? Maybe it was shoddy human craftsmanship. Or perhaps her evolution had made her stronger than she thought.
+
+"That was crazy! If anyone was nearby, I'm sure they heard us," Cee said, emerging from her safety cocoon while carefully stepping over glass.
+
+"Let's hope that nobody did," Liora said and fluttered up to pull the door open with her talons.
+
+"I heard something!" Liora heard muffled voices somewhere further away in the building. It appeared somebody had heard them after all.
+
+The door didn't want to give up either. It was hard pressing down on it with the right force while trying to fly in a small room.
+
+Why are doors this inconvenient?!
+
+It's because you're a bird. Also, it might be locked.
+
+Liora let out an angry caw and sank her talons into the wood around the door handle. Then she pulled it out without any issues. The door finally opened.
+
+"Remind me to never get you angry. Your talons are much scarier than I thought," Cee noted.
+
+"Let's hurry before the guards come. Lead the way!" Liora commanded, changing to her magpie form.
+
+Cee jumped up to the ceiling and scuttled forward, navigating the dark corridors with ease. Liora followed her, carefully listening for any sounds. There seemed to be voices coming from somewhere behind them. They were likely heard, but luckily, the path they chose was clear. For a short while.
+
+"There was a noise from the upstairs study!" Voices called from ahead of them.
+
+Cee instantly disappeared into the shadows with her Shadow Walk skill, while Liora Faded and flew as high up to the ceiling as she could. A group of mages ran past them. All but one. An older man stopped running right below where Liora was, his expression twisted with confusion.
+
+"Somebody has broken into the study!" A voice called from above, and the man hurried away.
+
+It wasn't a moment too late. Liora's Fade ended, and she hurriedly flew ahead, weaving behind the corner before anyone threw a glance back.
+
+"You need a better stealth skill," Cee whispered, emerging from the shadows.
+
+"I am plenty stealthy at night. But illuminated places…" Liora cringed, looking at the lanterns that were lit in the corridor.
+
+They were rather dim during the night, but still bright enough that Liora's Shadow Glide couldn't function properly. She needed to get some kind of stealth skill that would keep her hidden in all possible ways. Sound, heat, vibrations, whatever. She wanted to be undetectable.
+
+"Sadly for you, the first floor is even better lit. We must hurry," the spider said and scurried away, further into the corridor.
+
+They had to proceed cautiously. While most of the attention was undoubtedly focused outside, there were still people inside who were now desperately searching for this intruder. Liora and Cee often had to hide in dark corners or take the long way around to avoid detection.
+
+A few times, they got lost. It wasn't like the spider could perfectly map out the whole place. Sneaking around here was difficult.
+
+When they finally reached the first floor and the main hall that led to the mana node, Liora and Cee were sorely disappointed to see that even with all the commotion going on, two guards remained at posts by the door.
+
+"What do we do?" Cee whispered, watching the guards from behind the corner.
+
+Liora wanted to screech angrily. They were so close. All they needed was to infuse mana into the crystal and bracelet. Why were these humans so greedy and hoggin it all to themselves to torture their students? This was absurd.
+
+They remained hidden in the corners for a good while, waiting for an opportunity to sneak inside. Half a minute would have been enough for them. Yet the guards wouldn't leave, no matter how long they waited.
+
+At one point, the same mage who had stopped below them in the corridor earlier walked up to the guards.
+
+"Somebody powerful has sneaked into the school. We don't know who it is, but I sensed very potent magic in the air. You must remain vigilant! I suspect that the explosions outside are merely a distraction," the mage said.
+
+"Headmaster, do you really think they would target the mana node? There are other more—" one of the guards began, but was promptly cut off by the mage.
+
+"Silence, you fool. Stay in your post and do not question me!" The mage said harshly.
+
+"I… Of course! I apologize, headmaster!" The guard bowed.
+
+The headmaster left the building, his eyes scanning the surroundings suspiciously. Liora Faded and Cee too disappeared into the shadows, just in case. It felt like the man's eyes once again lingered on the place where Liora and Cee were. But eventually, he left the building.
+
+That man is dangerous. I think he can sense the pearl.
+
+All the more reason we do this quickly and get out!
+
+"What now? They definitely won't leave," Cee whispered.
+
+Liora didn't know what to do. The guards were warned to guard the door. There would have to be a really good reason for them to move.
+
+Then an idea appeared in Liora's mind. She would depend on the very skills that made her a proud magpie. Mimicry.
+
+"Guards, guards! Help! The monsters have invaded the village!" Liora called out, mimicking the headmaster's voice.

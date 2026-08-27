@@ -1,0 +1,225 @@
+---
+id: 93f1a862-f2cd-566b-9700-f96417c0dd2e
+page-type-slug: story-chapter-royal-road
+title: "16 - Training"
+slug: 0016-16-training
+partOf: rise-of-the-dragon-queen-evolutionprogression
+position: 16
+ownLength: 2164
+unit: words
+publishedAt: 2025-10-07
+link: "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2659020/16-training"
+royalRoadId: "2659020"
+---
+
+Stella had witnessed proof that Michael's medicine worked. After both celebrating with some non-alcoholic drinks, they set up their stand with potions and the potent medicine.
+
+“Potions for sale! And medicine that can cure any illness, healer certified!” Stella yelled while stuffing her face with a pastry.
+
+“Stop yelling!”
+
+“Why? This is how you get people's attention, you're just a worry wart!”
+
+“I am not a wart!”
+
+“Are too!”
+
+“Ah, so it is you who has the potions I hear tale of. I'm sorry to inform you of this, but you will no longer be allowed to sell such things.”
+
+Stella’s mouth hung partially slack as she turned her head, gazing up at the intruder. A man with a navy blue vest and white button shirt, stared at the stand like he could pick his teeth with the material. Meeting Stella's gaze, he smiled like it was a burden to do so.
+
+“I am Octavius Shamun, the leader of the merchant guild in Fellheart. All merchants selling in this town answer to me… And as you two do not, I'll have to ask you to shut down this operation.”
+
+Michael frowned, crossing his arms.
+
+“I've worked in this town for years, and I've never gone through the guild. Why now?”
+
+“Because your sales were minimal and backed by your parents. But your parents grow apples, boy, they didn't promote this. Additionally, your usual concoctions get discontinued before I can intervene.”
+
+“So, what do we have to do to keep selling stuff?” Stella asked.
+
+“Get approval from the guild when our meeting comes around next month and prove your product won't harm others.”
+
+“We have a healer certification, our product is safe,” Michael replied stiffly.
+
+He held up the document, and the guild leader took all the time in the world to stare at it, even applying glasses to see it better and read it over again.
+
+“I see… But do we have any proof outside of this?”
+
+“Outside of—It's a royal healer, they gave us their approval. What more do you need?”
+
+“Well, at the very least, we require your earnings to be properly taxed. And you'll owe the guild a yearly fee as well.”
+
+“What?”
+
+“It's simply how things work, you understand, don't you, Fritz?”
+
+The guy looked smug as he walked away, calling over his shoulder about meetings and such. He strutted around, seemingly chipper as could be.
+
+“Well, what can he do? Let's just ignore him,” Stella suggested.
+
+Michael shook his head, sighing heavily.
+
+“The merchants around here won't take kindly to us ignoring someone all of them have to put up with. It's safer if we just close things down.”
+
+“But what about training? Or money?!”
+
+“I can sustain myself. I'll pay you part of what I've earned so far, given how much effort you put in, and you can still come to lessons every day. This might be our chance to do something different.”
+
+“Different how?”
+
+“Buy other products and resell them. It's the best way to continue things while avoiding Octavus’s wrath. What could he say against an already approved product? And if he asks for a cut, then I'll just give him some.”
+
+“That sounds like bullying. He's a bully.”
+
+“Sure, but he'll win regardless of our cooperation or not. Better to join the guild and follow his grubby rules than leave every merchant with a reason to hate us.”
+
+Before Stella could reply, Timmy appeared in front of their market stand. He smiled at her and then offered her and Michael an enthusiastic handshake.
+
+“Thank you both for helping my wife. She's improved tremendously! If there's anything I could do to repay you, let me know!”
+
+“Well, you could vouch for us at the merchant guild meeting next month.”
+
+“Oh, sure! Whatever you need is what I'll do!”
+
+Well, maybe that will help. But it doesn't stop the fact that the guild seems crummy. Taking cuts? Are they officially the tax collectors around this town or do they just take what they want?
+
+“I was hoping to bring you these.”
+
+Timmy pushed a basket full of herbs onto the table.
+
+“Whoa! These look amazing!” Michael burst.
+
+“They were for my wife, but I don't need them anymore. You can use them and the others I have anytime you'd like. That's all I came to say, I have to return to my wife with something tasty, or she'll complain at me!”
+
+Stella waved while calling out a few recommendations for Timmy to try for good food as he left.
+
+“Well, do you want to go try to build your skills or take the day off?” Michael asked.
+
+He offered her coin and she put it away without counting.
+
+Stella thought quietly, wondering if building merchant skills was something she really needed right now. In the end, she decided to take the day off. Or, that's what she said anyway. In reality, she was on the hunt for a mage, someone who could help her identify an apparent mark or tracker on her. And someone who might know of the summoner who'd attacked her days ago.
+
+The risk here was that the healer, Jessie, had clearly suspected Stella of something. It was likely that mages and all magic users could sense mana and, therefore, sense the capacity of another person's power. Was she releasing some kind of aura?
+
+If she found a mage, then she might out herself. But it wasn't like she had many options. She could set a trap for the familiar, but then it would disappear again.
+
+She could search, but without any clue as to where to start, that would be idiotic. Her final option was to find someone with more knowledge than her. Someone who could fill in some gaps. And the next step from there was to use her Familiar Horn and summon the three-headed bear and possibly send it on a trail to the summoner.
+
+But maybe that was all just a one-time thing. Nothing bad has been happening around town… That I know of.
+
+Fellheart was dense with buildings mostly smashed against one another, with minimal space. It was a crowded town with plenty of businesses that helped it to thrive.
+
+Eventually, Stella came across a shop marked ‘Magic Stuff' and figured it was a good place to start her search for a mage. Inside it was much more spacious than the clothing store and had isles that spanned great lengths before reaching the check-out area.
+
+She perused her way through to the counter and there she found an old, bald man with glasses that made his eyes look big. He was humming as he mixed a red jar of liquid with a green jar of liquid.
+
+“Erm, excuse me?”
+
+“Oh! Hello there! I'm sorry I didn't see you! Do you need help finding something?” The bald man fiddled with the bridge of his glasses and smiled.
+
+“No, I was hoping to hire a mage. I have something wrong with me, I think, and I don't have the ability to detect it myself.”
+
+“Oh, I see.”
+
+He was staring at her so intently she froze up, but when he didn't speak, she had to clear her throat to break his focus.
+
+“You see?” She asked.
+
+“Yes, I do. You have a spec on your back. Can you turn around?”
+
+Stella wondered how he could even see her back. She turned around, and he flicked her, hard. When she yelped and turned to grumble, he was looking so serious that she said nothing.
+
+“I'm sorry, I cannot remove it. The mark is too powerful for me, and it seems to be a particularly persistent spell.”
+
+“What kind of spell?”
+
+“Hm… Have you angered any mages recently?”
+
+“No? I don't think so, at least.”
+
+“Well, it is common for mages to put curses and things on their rivals. It is uncommon for mages to torment those without any magical ability, but it seems you have been cursed. It is only called a curse because of the way the spell is and how disturbing it is. But it is a tracking spell, one that reveals your location to the caster.”
+
+“How do I get rid of it?”
+
+“You can't, not without expert help, and even then it's no guarantee. To resolve this issue, you'll need to discuss it with the caster. And I'm sorry, but I can't have you bringing a squabble in here. I'm going to have to ask you to leave.”
+
+Stella was unceremoniously pushed from the shop with a wind spell, and then the door shut tight, forbidding further entry.
+
+Well, that was a bust. Even a happy old man is scared of me. And I've been cursed? That sounds way worse than just a locator spell or tracker spell.
+
+Maybe I can return to that healer. Could someone heal curses?
+
+She had to do some looking to find where Jessie’s tent had been, but it was gone now. The fortune teller, too. It seemed everyone she met who got an inkling about her situation was bound to disappear!
+
+Why will no one help me! It scares me!
+
+Back in the forest, Stella decided on her next course of action. Step one: getting more powerful. If she just did that, then regardless of what came, she could defend herself. But right now, she was in no shape for a big fight.
+
+But I've played games enough times to know what to do. Little critters will serve as my slimes! I can farm them for skills and level-ups!
+
+***
+
+Due to her injuries, Stella couldn't risk major fights, not even with some particularly large centipedes. So, she began looking for smaller, easier prey.
+
+She had some desire, however primitive, to eat the wild bunnies she spotted scurrying across meadows and ferns. However, bunnies wouldn't significantly increase her evolution progress or skills.
+
+I have to think harder, not smarter! Wait… Was that how it went?
+
+[Sigh]
+
+BE QUIET! I'M TRYING MY BEST!
+
+In the end, she decided on monster fish. They were a specific kind, one that likes to prey on the trout and bass in the river. They had bitten her a few times.
+
+Monster fish, as she called them, were not super common. But they appeared frequently enough that she was certain they were a decent target.
+
+They weren't able to chase her or injure her outside of the water, giving her full control of the situation. Plus, she hoped they would make a tasty meal.
+
+But instead of luring them with the bodies of dead trout, or blood, or tracking them to their spawning grounds, she tried a much more all-in approach.
+
+She used herself as bait.
+
+Stella enjoyed playing in the river to begin with, so now all she had to do was play with the intention of luring in the monster fish and slicing them clean through.
+
+She began in the calmest parts of the river, saving her wings from any rushing currents. The coolness of the water soothed her aching wings. Soon enough, she’d become so relaxed that she forgot why she'd entered the water in the first place.
+
+“OUCH!”
+
+One bite, right to the rear.
+
+“YOUCH!”
+
+Another to the knee.
+
+“Knee surgery!” Stella gasped as she fell backward, sinking into the water.
+
+For a time, there was nothing, just the stillness of the water's surface. Then, slowly, bubbles began to rise. They grew more frequent and larger, sending ripples across the surface of the river. Then, finally, Stella popped out, a monster fish in each hand.
+
+The large, spiky, fanged fish wiggled with such strength that she dropped one, and neither dropped the other. Lending all her strength to the remaining fish in her grip, and held it firm and then ripped its head off with her teeth.
+
+[You have defeated Vampire Fish.]
+
+She was bitten again by a gathering of more fish, forcing her to retreat from the water, her body getting covered in small puncture wounds.
+
+Once on the bank, the fish swarmed in the shallows, the blood in the water drawing even more.
+
+Why am I so delicious?! They never did this when the dragonets hunted fish!
+
+Stella glared at the mass of bug-eyed vampire fish, then barred her teeth, heat gathering in her center.
+
+The fish that had dared to get close to the bank were fried instantly. The others fled from the boiling water, some rising to the surface seconds after attempting to flee.
+
+[You have defeated Vampire Fish x5]
+
+[Evolution progress has increased to 30%]
+
+[Item ‘Red Gill’ X3 has been dropped by Vampire Fish.]
+
+[Red Gill: A protein rich ingredient.]
+
+Haha! I guess being delicious has some perks! I wonder what potions Michael could make with red gills?
+
+Beyond just discovering a good way to farm and finding out that her blood was, apparently, delicious. She also discovered that the vampire fish were extremely tasty.
+
+It's probably the extra blood, they are so fatty, almost like red meat!

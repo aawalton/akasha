@@ -1,0 +1,110 @@
+---
+id: 7c249aed-25ad-548a-a159-fa9f6df8cc72
+page-type-slug: story-chapter-royal-road
+title: "Chapter 276: Tests"
+partOf: rise-of-the-living-forge
+position: 18
+ownLength: 1539
+unit: words
+ownProgress: 1539
+publishedAt: 2024-09-17
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-book-6-stubbing-in-3/chapter/1807523/chapter-276-tests"
+royalRoadId: "1807523"
+markedReadAt: "2026-06-29T19:59:02.114Z"
+---
+
+The Menagerie dispersed quickly to get back to work. They all had their own role to play. Every single step any of them could take toward making the potential fight with Twelve just a little bit more viable was instrumental.
+
+If they couldn’t pull it off, then they’d have no choice but to hand the Dungeon Heart over to Twelve. The mere idea filled Arwin with distaste.
+
+And that was how he found himself seated on the anvil near the center of the back room of the Infernal Armory, his chin braced against his closed fist and elbow supported against his knee, lost in thought.
+
+Pieces of Ashleaf tree wood littered the ground around him. They were joined by the demonic tree’s razor-sharp leaves. He had every piece of the tree laid out other than the fruit, which Lillia had taken back to the tavern.
+
+It had been just under an hour since everyone had headed out. In that time, Arwin had barely budged from his spot. The most important part of crafting an item was figuring out exactly what materials he was going to use.
+
+When it came to making a weapon or a piece of armor, that was already difficult enough. Everything had desires. Some metal wanted to cut. Some wanted to protect, and some wanted to be used for something else entirely.
+
+Arwin could work with that. But that was for armor. For weapons. For items that were used in battle, or for knives meant for the kitchen. This was different.
+
+He was trying to make Olive an arm.
+
+Not a sword that she affixed to the stump of her shoulder. Not something that could hold a spoon and do nothing more. He needed an arm. An arm that could replace what she’d lost. Something with all the immense intricacy and capability of the human body. An arm that could support the immense power she needed to swing her sword.
+
+Arwin had studied every single metal he had remaining to him. He needed a material that was flexible enough to move when needed, but strong enough to resist impacts. Something that wasn’t too heavy but wasn’t so light that it splintered easily. It couldn’t be brittle. It couldn’t be stiff.
+
+It had to be an arm.
+
+And that was what had led him to the wood.
+
+The Ashleaf Tree’s wood was far tougher than normal wood had been. It wasn’t quite up there with metal, but it had taken several blows from Verdant Inferno before it had splintered. The dead tree’s wood was tough, but it wasn’t so firm that it couldn’t move. Arwin had seen just how dexterous the tree’s roots and branches had been firsthand.
+
+Really, the wood was a perfect material in theory. Arwin just had one small problem. He had absolutely no idea how to forge wood.
+
+Red mist twisted past him, rolling over the materials littering the ground. Invisible footsteps passed through the smoke as the Armory’s manifestation approached Arwin and came to a stop at the edge of the anvil.
+
+“I wish to create.”
+
+“Yes, I’ve gathered that much,” Arwin said, lifting his chin from his palm and stretching his arms out before him. “I’m working on it. I need to figure out how to do this.”
+
+“Do what? You have not consulted me, so I cannot help.”
+
+“I’m trying to make an arm,” Arwin explained. Perhaps speaking out loud to someone else would help spur his thoughts. “For Olive. I think it’s the biggest single power upgrade I can make anyone right now, but it’s such a far shot from everything else I’ve done that I’m stumped on starting.”
+
+“You wish to make an arm from wood?” Red smoke curled up, and something in the Armory’s voice carried a note of amusement. “It is little wonder you are stumped.”
+
+“That was horrible. Who taught you puns?”
+
+“I do not know of what you speak. The issue lies in the attributes of the material you seek to utilize. Wood will burn.”
+
+“Yes,” Arwin said. “I’d gathered that much. That’s the issue. How can I use Dwarven Smithing, much less Cursed Dwarven Smithing, if I can’t do the first and most important step?”
+
+“A conundrum,” the Armory said. It stepped through the smoke, vanishing from sight for several seconds until the wispy strands of red caught back up to it and revealed where it stood once more. The smoke rippled in a shrug. “Unfortunate.”
+
+And that was it. Arwin stared at the Armory, but he was caught so off guard by the off-handed resignation in its tone that he burst out in laughter.
+
+“That’s it? Unfortunate?”
+
+“Yes.”
+
+“Very helpful,” Arwin said, still chuckling as he shook his head. He reached down and picked up a piece of the Ashleaf Tree’s bark. Arwin held it up before him, scrunching his nose as he turned it over in his hands. The wood was cold and hard in his hands. It was a lot heavier than actual wood, though it was still lighter than metal.
+
+I can’t just skip over the process with the lava, can I? I doubt this wood is completely pure. Normally, I’d be using it as a component rather than the core of the material. Even if I was to use metal on the inside of the arm like a skeleton, it’s like the process is reversed.
+
+I wonder just how flammable the wood actually is. Sitting around and thinking isn’t going to get me anywhere. I’ve got a lot of wood to work with. Maybe I can find a way around this.
+
+“So, which of you wants to be an arm?” Arwin asked, letting his senses drift across the materials littering the ground around him.
+
+The responses weren’t thrilling. It seemed the pieces of the tree still didn’t think much of Arwin yet. The vast majority of them gave no response at all, but a few pieces sent a faint response to his mind.
+
+Visions of death and slaughter flickered through Arwin’s mind, and the taste of iron washed across his tongue. He grimaced, then nodded.
+
+“That’s right. Killing lots of things. Causing agony to your foes. All that delicious stuff. I can let you do it again. Now say it louder. Who’s interested?”
+
+Some of the visions grew stronger. A root in the corner, a piece of bark beneath the bag. Piece by piece, Arwin picked out every part of the wood that felt like it was most willing to work with him. He cooed sweet promises of slaughter and destruction to the wood as he brought it over to the corner of the smithy and set it to the side, gladder than ever that he was working alone.
+
+Arwin’s eyes fell on a gnarled, knotty root that hadn’t been quite as willing to work with him. He plucked it from the ground and headed back over to the anvil. The pieces that were actually willing to work with him had to be saved.
+
+But this one was stubborn.
+
+That was quite fine. Arwin needed a few stubborn pieces.
+
+“I’d like to thank you for your help,” Arwin informed the root.
+
+The Infernal Armory rumbled around him, sensing his desires. Energy pulsed in the veins running through the ground. Black tendrils stretched out from the wall and lifted into the air behind Arwin like snakes. They slammed into his back and arms, merging with his flesh.
+
+Arwin stiffened with a hiss. Power flooded from him and the armory as they merged. A dull hum filled the room, and a heavy thump echoed through the walls. Blood pumped in Arwin’s veins. It was matched by the veins in the floor as they filled with a dull orange hue.
+
+The anvil sank into the ground, vanishing beneath the stone as the power filling the Infernal Armory intensified. A plain basin perched upon a pedestal rose up in the anvil’s place, a small hole at its base.
+
+Heat rolled out from the basin, and lava followed after it. It filled the bowl with molten orange stone, the intensity of its warmth pressing into Arwin’s face like a physical force. Arwin lifted the root in his hand and held it up in the warm light rolling off the lava.
+
+“I’d also like to apologize,” Arwin said. “It seems you aren’t willing to work with me. That’s fine. I won’t make you into something you don’t want to be. But I’m afraid you aren’t going to have a future as much of anything. Your sacrifice will be appreciated.”
+
+[Soul Flame] erupted over Arwin’s hands, coating them in a protective layer.
+
+Then he plunged the root into the lava. The material hissed in Arwin’s mind, but there was absolutely nothing it could do. It didn’t even have a true will of its own. Most materials simply had a desire to become something.
+
+Unfortunately, it hadn’t told Arwin what that something was. It had kept silent — and now, all it would be was kindling that would fuel his research. Arwin needed to determine how to use Dwarven Smithing techniques on wood, and he had a room full of test subjects.
+
+It was time to see just how much the Ashleaf Tree’s materials could take.

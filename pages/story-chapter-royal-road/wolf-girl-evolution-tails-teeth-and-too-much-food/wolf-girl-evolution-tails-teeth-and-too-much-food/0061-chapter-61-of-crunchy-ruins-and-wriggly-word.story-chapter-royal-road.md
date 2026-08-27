@@ -1,0 +1,345 @@
+---
+id: 4e42a8ea-a96f-5e06-a08e-00d4f5d268b6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 61: Of Crunchy Ruins and Wriggly Word Dilemmas"
+slug: 0061-chapter-61-of-crunchy-ruins-and-wriggly-word
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 61
+ownLength: 2042
+unit: words
+publishedAt: 2025-10-28
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2712407/chapter-61-of-crunchy-ruins-and-wriggly-word-dilemmas"
+royalRoadId: "2712407"
+---
+
+PoV Luna:
+
+Getting out took longer than Luna would have liked.
+
+For dum-dums, at least!
+
+Who knew sprinting through falling rocks while the ground tried to eat you would be so difficult for them?
+
+Luna darted through the collapsing corridors in silver flashes – paws hitting, claws sparking, dust spinning behind her tail.
+
+No easy route, a bend in the corridor?
+
+No problem!
+
+Shadow Step! Wall jump! Kick off the ceiling!
+
+And Luna was through!
+
+Then another leap!
+
+Easy! Fast! Fun!
+
+Except no one else could do that.
+
+Her pack stumbled through clouds of grit, coughing, shouting, slow boots dragging through cracked stone. Syl’s glowing light bobbed wildly behind them, bouncing off broken pillars and half-buried archways.
+
+Luna circled them three times before they reached the final tunnel.
+
+“Run faster!” she barked, racing ahead, looping back, then ahead again. “Big bite coming!”
+
+Sepio growled something unhelpful through clenched teeth. Ray wheezed. Trianna muttered words that sounded very not nice. Syl’s voice carried, even between the crashes.
+
+“Keep formation! Don’t stop!”
+
+Then – air!
+
+Sweet, sharp, wonderful outside air!
+
+Luna burst through the crumbling entrance in a spray of pebbles, landing hard and proud on open ground. Her tail shot straight up, wagging victory into the wind.
+
+“Ha! Luna wins!”
+
+She spun, waited for her dum-dums. Waited.
+
+And waited more.
+
+Waiting was boring!
+
+So she went back in.
+
+Bounding through the dark again, she found her slow pack still crawling toward daylight.
+
+“Go go go!” she yipped beside them, running sideways on the wall for extra flair, her Shadowmeld helping her get a grip.
+
+“Luna cheering! Fast means soup!”
+
+She liked to think that helped! A little.
+
+They finally stumbled out into the open, coughing and covered in dust.
+
+Trianna bent double, hands on knees.
+
+“Well,” she gasped, “I guess we won’t be crushed underground now, at least.”
+
+Syl straightened, wiping dirt from her sleeve, voice still too calm for anyone’s comfort.
+
+“Indeed. Velssarin architecture was truly remarkable – reinforced through runic layering and multi-point–”
+
+“Syl, not now!” Sepio snapped.
+
+“Yes!” Luna barked. “Less talk, more run!”
+
+The trembling underpaw faded to a long, low growl beneath the earth. The sound crawled through her bones.
+
+Luna’s nose lifted.
+
+The air was thick with stone dust and something new – ozone and heat, sharp on her tongue. She squinted toward the ruins, ears straining.
+
+The entrance behind them was half-buried in rubble now, shadowed by slanted walls and shattered towers flanking it just hours prior. The buildings that had once stood proud now leaned against each other in clumsy heaps, forming a jagged maze of stone teeth.
+
+Perfect climbing field!
+
+Luna leapt to the top of the nearest pile, tail flagging high.
+
+From there she could see everything – the broken ruins, the swaying dust, the faint shimmer of mana bleeding from cracked earth.
+
+Her pack followed slower, armor scraping as they climbed after her.
+
+Then, all at once, everyone stopped.
+
+The wind died. Even the trembling stilled.
+
+Luna’s ears twitched.
+
+The air felt wrong – too quiet, too heavy.
+
+Something was wrong, yet it took her brain a good moment to catch up just what.
+
+And then the thing moved.
+
+Far in the distance, near to where the big hole had been, the earth itself split open. Black stone gave way to scales. Huge, gleaming, endless scales.
+
+A shape rose from the now even more ruined side of the city – serpentine, monstrous, its body lined with ridges sharp as blades. A fog of darkness rolled off it in heavy waves, swallowing the sun’s edge and painting the horizon gray.
+
+Despite the devastation, only the lower parts of it were hidden behind the still-falling chunks of debris and dust.
+
+It wasn’t climbing from the hole. It was the hole.
+
+A black scar splitting the sky in a jaggedy line.
+
+Luna froze, tail stiff. The wind that came from its movement carried heat, dust, and a low hum that vibrated in her teeth.
+
+She whined at the sight.
+
+Syl stood silent beside her, face pale in the dim light.
+
+Behind them, Trianna whispered:
+
+“It’s bigger than the ruins…”
+
+The creature kept rising. Each motion shook the air, the ground, even the sky. Its tail dragged through the rubble in swerving sinuous motions, carving trenches through what had once been buildings.
+
+Luna’s fur rippled in the rush of air that followed. The wind hit like a roar.
+
+She crouched low, claws digging into stone, heart hammering fast.
+
+That wasn’t a monster. That was a slithering mountain on the move.
+
+And it was still waking up.
+
+Luna crouched low behind a cracked pillar, ears flicking against the rising wind, watching the shadow move across the ruined ground.
+
+The monster’s tail scraped through the wreckage, carving a trench deep enough to swallow a house whole. Dust hung thick in the air, gray against the dimming light.
+
+Sepio was the first to speak, voice low and hoarse.
+
+“Well, I’ll be damned. What even is that thing?”
+
+Syl’s tone stayed measured, but her hands were tight around her staff.
+
+“It looks like a Titanoboa variant. They can grow quite big.”
+
+“Titanoboa?” Ray hissed, crouched low beside her. “No way! Those are rank two at best – the largest are maybe the size of a big house! That thing could swallow a whole village and ask for dessert!”
+
+Trianna peeked over the wall, eyes wide.
+
+“We’re lucky it’s not chasing us. There’s no outrunning… that.”
+
+Veric gave a short nod, his armor creaking.
+
+“We would barely make it three steps.”
+
+The ground quivered again. Whole trees vanished under the sweep of the serpent’s coils. Its movement was silent but huge, every shift of muscle sending ripples through the earth.
+
+Luna tilted her head. Her nose twitched. The air smelled rich with mana and earth – warm, strange, and faintly edible.
+
+Her tail gave a thoughtful wag.
+
+That was a lot of meat. Strong meat. Possibly crunchy meat.
+
+Maybe even spicy!
+
+Syl caught the look instantly. Her voice snapped before Luna could speak.
+
+“Don’t you dare.”
+
+Luna blinked innocently.
+
+“But it looks like a big worm! Very wriggly!”
+
+Syl froze, expression shifting from scholar to scandalized disbelief.
+
+Ray didn’t look away from the creature.
+
+“What did she say?”
+
+Syl exhaled through her teeth.
+
+“…That it looks like a worm. And is very wriggly.”
+
+There was a heartbeat of silence. Then Ray threw his hands into the air.
+
+“A worm?! A worm?! That thing’s the devil’s noodle! The spaghetti of destruction! You don’t call that a worm!”
+
+Trianna burst out laughing so hard she had to brace herself on the wall. Veric sighed into his gauntlet. Sepio muttered.
+
+“You’re not helping.”
+
+Syl’s shoulders shook with suppressed laughter.
+
+Even Luna started wagging harder, tail sweeping little puffs of dust into the air.
+
+“Big worm is funny!” she barked, which only made them laugh louder.
+
+For a moment, the fear broke – washed away by absurdity and exhaustion. Their voices carried across the ruins, bright and defiant against the backdrop of a world still trembling.
+
+Luna tilted her head back, listening to their laughter echo off stone and sky. Her chest warmed.
+
+Pack was safe. Pack was loud.
+
+The serpent’s shape moved again on the horizon, scales glinting black under the fading sun. The laughter faded slowly, leaving only the hum of the wind.
+
+Syl straightened, eyes narrowing.
+
+“We need to make distance. Now. Before it decides to surface fully.”
+
+Luna nodded, muscles already coiled to run.
+
+“Run again?”
+
+“Yes,” Syl said, voice firm but soft. “Run again.”
+
+Luna grinned.
+
+“Luna’s favorite plan!”
+
+But before they could even think about moving to run, a shape caught their attention. Leathery wings visible even from here, and a shape that would have screamed danger… if not for the gargantuan snake dwarfing it completely.
+
+It rose high into the air, fiery energies coming off it.
+
+And the next instant… the snake moved.
+
+Far faster than its size would suggest. Far too fast for the new shape to react.
+
+One moment it lay there, half-coiled. The next its mouth clamped where the shape used to be. And only the bits of wings falling to the sides told them of the shape’s fate.
+
+…Whether it intended to fight or flee, they would never know.
+
+Seconds later, the shockwave hit them.
+
+The pack needed no more convincing. And neither did Luna!
+
+They took off through the shattered city – dust rising, laughter dimming at the deadly sight.
+
+No one wanted to test if the wriggly death noodle could smell laughter and felt peckish for another snack.
+
+They ran until the ruins vanished behind the trees, until the shaking in the earth quieted to a faint pulse under their boots. Every few steps, Luna glanced over her shoulder – half expecting to see that enormous tail slicing through the treeline.
+
+Nothing followed. The forest only shivered softly in the wind.
+
+They finally reached the old camp location, and by then the tremors were completely gone. And the big wriggly snake was nowhere to be seen.
+
+“Running further would be pointless. We’ll make camp. If nothing else, we can be sure to catch it, ah, snaking around. What with how loud it is while moving.”
+
+“Wriggly worm!” Luna corrected proudly.
+
+“...Did you just make a joke? I didn’t know you did those.” Sepio chipped in.
+
+“Excuse me? I’m a perfectly respectable normal elf, well capable of making normal jokes!”
+
+Trianna snorted, and that was it, the tension fleeing their forms.
+
+Soon the air was thick with the smell of spice, herbs, and smoke.
+
+The pot bubbled softly over the fire, sending warm light across tired faces.
+
+Luna sat closest, nose nearly dipped in steam, tail sweeping slow lines in the dirt. Every bubble made her mouth water.
+
+And as the Moon climbed slowly through the trees, spreading silver light across the clearing. It brushed Luna’s fur, soft and cool.
+
+Then – pomf!
+
+Fur shimmered into skin. Paws turned to feet and fingers. Luna blinked at the sudden weight of her hair falling across her shoulders.
+
+She opened her mouth to speak, but Syl stepped close and pressed a gentle finger to her lips.
+
+“Clothes first.”
+
+Luna blinked again at her far-too-well-prepared Second, then huffed.
+
+“Fine. But soup next!”
+
+Trianna smirked over the rim of her bowl.
+
+“Priorities.”
+
+“Proper priorities,” Luna corrected firmly, tugging at her tunic with as much dignity as one could manage while still making it clear to everybody watching this is still not a well-learned skill.
+
+The pack chuckled again. Even Syl’s lips curved faintly before she sat beside Luna and reached for the pot.
+
+***
+
+Luna devoured the first bowl fast, chasing every last drop with a piece of cracker. Then the second.
+
+Then – mercifully! – the third.
+
+Heaven. Spicy, salty, soupy heaven!
+
+Her ears twitched at the soft clinks and murmurs of her pack behind her – Trianna sharpening an arrowhead, Ray counting coins, Veric wiping his blade, Sepio setting his shield aside.
+
+Syl moved between them with calm precision, checking on everybody, quiet and assuring.
+
+Safe noises. Good noises!
+
+Still, the earth beneath her paws didn’t feel still, even if the tremors stopped long since. Yet her legs could still ‘feel’ them, waiting for the real one to appear.
+
+Her eyes turned toward the distant horizon. The trees swayed gently, but the shadows beyond them were darker than they should’ve been. The worm was far, but not gone. Sleeping again, maybe.
+
+Luna’s stomach growled, drool gathering.
+
+“Big worm meat probably chewy,” she muttered around her spoon.
+
+Trianna nearly choked on her own bite.
+
+“Gah! You’re hopeless!”
+
+While Ray looked terrified at the very notion.
+
+“Please don’t give her ideas.”
+
+Syl sighed softly, stirring her cup of tea.
+
+“If she ever finds a way to cook one of those things, we’ll all retire rich.”
+
+“Or dead,” Sepio muttered.
+
+“It is NOT a worm!” Ray couldn’t help but add.
+
+Luna grinned, unbothered.
+
+“Luna rich and full! Very good plan.”
+
+Their laughter returned at that.
+
+For a while, no one spoke. The wind moved through the trees. The fire crackled. Far away, the ground gave one more slow, distant rumble.
+
+Luna listened, content, and leaned into Syl’s shoulder.
+
+Warm soup. Full bellies. No one squished.
+
+A perfect night!

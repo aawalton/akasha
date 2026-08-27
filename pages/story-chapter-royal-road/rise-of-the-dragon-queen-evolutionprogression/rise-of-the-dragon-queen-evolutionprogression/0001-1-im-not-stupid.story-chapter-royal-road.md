@@ -1,0 +1,271 @@
+---
+id: 24867e16-8b11-5ca3-aebd-fd73b8315c07
+page-type-slug: story-chapter-royal-road
+title: "1 - I'm not stupid!"
+slug: 0001-1-im-not-stupid
+partOf: rise-of-the-dragon-queen-evolutionprogression
+position: 1
+ownLength: 2169
+unit: words
+publishedAt: 2025-08-20
+link: "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2532783/1-im-not-stupid"
+royalRoadId: "2532783"
+---
+
+Cracking out of an egg was the last thing Stella expected to happen upon her death.
+
+Bright lights? Sure! A godly figure? Definitely!
+
+But an egg? Absolutely not.
+
+The first thing to welcome her to the world was the sensation of a smooth shell cradling her into the fetal position. Instinctively, she moved, testing her body, measuring the space she lived in.
+
+I'm alive? she questioned internally.
+
+But how?!
+
+[Answer: Reincarnation to Dragon is complete. Evolution to Queen Dragon subspecies available! Do you accept?]
+
+If Stella had been given the ability to scream, she would have. Not out of fear, out of joy.
+
+Really?! I've been reincarnated?
+
+[Affirmative.]
+
+Oh, wow! I can't believe it! A life of endless paperwork and meetings to…this!? I mean… I'll miss my old life a little. But beggars can't be choosers, am I right?
+
+This time, the mystical voice of guidance declined a response.
+
+What’s the difference between a queen dragon and a regular dragon? I want to know what I'm walking into.
+
+[Answer: They are largely the same, except that a Queen/King dragon is a superior specimen and the Alpha subspecies of all dragons. Only a select few can exist at one time.]
+
+Really?! Superior how?
+
+[Answer: Base stats are increased by 100%. Stat Points are 300% more frequent. Skill Acquisition is easier and Skill Evolutions have a wider range of options. Base form Evolution is more powerful than lesser species’ versions by 200%, and—]
+
+I'm sold! Sign me up!
+
+[Your evolution will take 90 days. Commencing.]
+
+Wait! 90 wha—
+
+Stella hadn't felt anything. Her egg was dormant and warm as it huddled among a few others much smaller than it. The sound of boots and the activation of her system screen welcomed her at the end of her 90 day long nap.
+
+[Evolution from Dragon to Queen Dragon is complete.]
+
+You didn't tell me it would take so long! What if my egg had been cracked!
+
+[Answer: The likelihood of your egg being cracked—]
+
+Enough!
+
+Stella squirmed. Her movements felt more natural, and it was then she realized she had fingers. Some things were still out of the ordinary, like a tail she could feel twitching as it branched from her tailbone. She used it to pound against her egg as she began to become increasingly uncomfortable in its confines.
+
+It wasn't liquid and warm as it had been before, it was mostly dry, and an air pocket had taken up the spot where the liquid had been. Stella now had the means to breathe.
+
+How do I get out of this thing?
+
+[Answer: Breaking the shell, which requires strength and perseverance. Upon hatching, you will obtain a new skill and evolve from (Embryo) to (Hatchling).]
+
+Am I even developed enough to hatch?
+
+[Yes. Would you like to see your status screen?]
+
+Yes!
+
+It was hard for Stella to think when she was in a completely new body and had a brain likely the size of an orange. But of course there would be a status screen in a world like this.
+
+Despite having been a low-level businesswoman, she had been a die-hard fan of gamelit stories and roleplaying games.
+
+Name: Stella Algos
+
+Stage: Queen Dragon Embryo (99% to next evolution)
+
+Class: None
+
+Renown: 0
+
+Wealth: None
+
+(C: 0 S: 0 G: 0)
+
+Stats: (0 points available)
+
+Power: 15
+
+Vigor: 10
+
+Grace: 10
+
+Intellect: 5
+
+Skills:
+
+Stella’s eyes were closed, but if they'd been open they would have sparkled. Mentally, she went over every word and every number, twice. The reality of her reincarnation still hadn’t set in.
+
+I guess my worst stat is intellect… Makes sense given I'm a big lizard. But I'm strong! So that makes up for it, especially right now.
+
+She continued to think about her stats, particularly focusing on her [Renown] and [Wealth]. Her curious line of thinking brought up an answer.
+
+[Answer: Dragons are naturally dominant and greedy creatures. Renown and wealth are key features to their power and pride.]
+
+Do those boost my strength? Like, overall?
+
+[Overall.]
+
+So my first priority should be gold and a good deed… Or, maybe it should be breaking free. Heh.
+
+Beyond the shell of her egg would be even more adventures. Freedoms she'd never had, even during her previous life. A medieval world with dragons and fairies, magic and mayhem, were right at her fingertips.
+
+All she needed to do was break out of her shell.
+
+A few harsh thumps of her tail gave way to wallops that eventually dented the back of the egg. Cold air sliced through the confines, making her shiver. She continued to work each part of her body, struggling to adjust after sleeping for months.
+
+She punched, kicked, and even headbutted. Eventually, the shell splintered away, leaving her tired and a little wet as she laid across a few other eggs. It took her a while of panting to realize the eggs were likely her siblings and only a bit longer to notice the tent surrounding them all.
+
+Where… Am I?
+
+[Evolution to Hatchling was successful. New skill [Elemental Breath] has been added to your status.]
+
+Awesome! B-But wait… So I didn't need to be asleep in order to evolve?
+
+[Drastic evolutions take significantly longer than basic ones. During that 90 day period, your entire physical form was adjusted and your overall power level has improved.]
+
+Stella nodded along with the text now hovering before her, a blue sheen in a world of shadows. The tent she was in was quiet, but clearly lived in. Books and unlit candles decorated a wide and well-furnished space.
+
+Stella worked her way into a standing position. She was mostly human, and upon gazing down at herself, she was definitely still female, though smaller than she remembered being.
+
+She rummaged through the tent, fingertips gliding across the backs of books as she went. Eventually, she found a white gown to dress herself.
+
+But beyond the dressers and mirrors, there was more she'd yet to uncover. In the back of the tent she found cages containing strange creatures. They weren't human, not even close. Many were reptiles or small mammals, and there was a ledger documenting what seemed to be their buy and sale price sitting on a nearby desk.
+
+She felt bad for them.
+
+I think I'll free these guys and get out of here.
+
+This was clearly a merchant's tent. Specifically, one that dealt in living things. Stella didn't want to be the next thing that was sold, especially if she was some kind of superior beast.
+
+Just as she reached out to free a crimson bird sleeping on a perch, the tent flaps opened and the sun cast a spotlight on her.
+
+She turned too quickly and fell as a man in lavish purple silks entered the tent. The second his eyes met hers, a greedy smile crept onto his face.
+
+“Wait! Ah!” She stammered.
+
+Okay system! I need help. How do I escape?
+
+[Breaking out of the tent, which requires strength and perseverance.]
+
+Stella tried her hardest to sound out every swear word she'd ever seen or heard, even in different languages, thinking them all directly at the system. Then an idea struck her.
+
+My elemental breath!
+
+A golden gauge appeared at the bottom of her vision as she summoned forth her skill. The activation was swift, but awkward. Her mouth opened in an aggressive snarl and then fire shot out. It was fast, a ball of fire that made her throat feel dry and her tongue taste burnt.
+
+She jerked while it happened, causing the flames to hit the tent instead of the man. Instantly, everything was being eaten away.
+
+Holy smokes!
+
+As the flames climbed, she took advantage of the distraction and ran past the guy and out of the tent. As she did, he grabbed her wrist.
+
+“Not so fast, dragon! You’re not going anywhere until I sell you!”
+
+Stella stopped dead in her tracks and looked at the guy, who was smiling and twisting his mustache like a classic villain.
+
+“Really? You saw what I could do and you're still going to get greedy?”
+
+His expression fell as realization hit him. Stella could feel her skill rising again, a faint glow lighting behind her teeth and reflecting in his eyes.
+
+“No! Eh, sorry! Please don't kill me!”
+
+Stella considered ignoring his pleas, but decided not to sacrifice her morals. She had panicked, but now, as the man released her and knelt down, she realized this was not a true danger to her life. Instead of summoning fire, she summoned water.
+
+She spit all over the flames so as not to kill the animals in the tent and then stood over the merchant and demanded his wares.
+
+After releasing all the animals and taking the guy's money, she burnt the rest of his belongings to a crisp. Luckily, he’d set up away from any big towns, hopefully this would all go unnoticed.
+
+Stella attained a sack of coins and plenty of self-esteem as the weirdo old guy cried and cried until his mustache was no longer curled up and instead became very droopy.
+
+Every critter had long since run off, but what remained were three large white eggs. Stella wondered if they were all like her, until she was reminded that she was a rarity and that these were normal dragons. Just to be certain, she held one up to the sun and indeed, it was the figure of a dragon inside.
+
+Will these hatch too?
+
+[That outcome is very likely.]
+
+Then I should put them somewhere safe.
+
+She picked up one egg after the other, worrying she would drop them, only to find that she was stronger than she thought. Despite being small and definitely a hatchling of her species, she could carry three large dragon eggs into the forest and hide them with relative ease.
+
+When she returned to the tent that was now ashes and the man still crying, she waltzed up to give him a final word of warning.
+
+“Don't capture innocent creatures and sell them. Go do something else,” she advised.
+
+The man sniffled.
+
+“Slavery?”
+
+“No! Not that either, that's worse!”
+
+He began to sob.
+
+“Then what am I supposed to do!”
+
+“I don't know, man! Just live in the woods and connect with nature! Something besides evil. And if I catch you doing evil again… I'll put a curse on you!”
+
+He shrunk down into the grass and Stella rolled her eyes. If she could contact the authorities, she would have, but it was likely he wasn't even doing anything illegal. That was the price of being born in a world of this time period. She would have to watch her back, there was no telling how a magical world had evolved to capture its equally magical monsters.
+
+Stella left the man to his weeping and explored the forest, tail bobbing behind her. She really needed to find a mirror and look at herself. Or maybe a puddle. A mirror wasn't even something she could likely go near.
+
+Oh, god. If she managed to get into a town, what if they chased her with pitchforks? Maybe she could fight them off, or maybe they called the big boys like mages or knights and they skewered her for sport.
+
+Better to avoid everyone and take her own advice. Live in the woods. Unless she could somehow hide her identity…
+
+She reached up to scratch her head and soon found budding horns beneath her thick locks of hair.
+
+Great, now I also have to wear a hat.
+
+All in all, it hadn't been a horrible start to life. Sure, she had died and come back to life as a dragon. But she could have been born as a mouse. Maybe a dragon stood out more, but at least she could fight back.
+
+Stella had obtained her first money pouch. It was quite big, too big for one hand. It was heavy too.
+
+Hey! That means my wealth has increased! Lemme see!
+
+Name: Stella Algos
+
+Stage: Queen Dragon Hatchling (1% to next evolution)
+
+Class: None
+
+Renown: 0
+
+Wealth: Meager (+0 to all stats)
+
+(C: 250 S: 0 G: 0)
+
+Stats: (5 points available)
+
+Power: 25
+
+Vigor: 20
+
+Grace: 20
+
+Intellect: 5
+
+Skills:
+
+Elemental Breath (Grade S) - Level 1
+
+Somehow, despite gaining what she had assumed was worth a lot, her pouch had only made her wealth improve slightly. Now she could see that her wealth affected stat bonuses, making it of utmost importance.
+
+But what she found even more pressing right now, was that even after hatching, her intellect hadn't improved one single point!
+
+I'm not stupid! Why does this say that!
+
+[Answer: Your intellect is extremely below average.]
+
+Shut up! I'm not stupid!
+
+Stella argued with the system about not being stupid for longer than she would ever admit. Eventually she found a nice place under a willow tree to eat some random berries and finally behold her pouch of treasure.
+
+Huh?! Why is it all copper?!

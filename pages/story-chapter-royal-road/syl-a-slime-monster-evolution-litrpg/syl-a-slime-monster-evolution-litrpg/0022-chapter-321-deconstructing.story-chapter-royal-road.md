@@ -1,0 +1,153 @@
+---
+id: 4a21b5d1-76db-5bf9-8023-1e3db528bea5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 321 : Deconstructing"
+slug: 0022-chapter-321-deconstructing
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 22
+ownLength: 2242
+unit: words
+ownProgress: 2242
+publishedAt: 2025-12-05
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2820284/chapter-321-deconstructing"
+royalRoadId: "2820284"
+markedReadAt: "2026-06-29T19:42:32.175Z"
+---
+
+After narrowly avoiding a self-inflicted catastrophe, I took a moment to calm down. I wanted to examine my skills to identify any I wouldn't necessarily miss for experimentation, while also trying to pinpoint those that might further my development.
+
+[Wind Step] and [Thunder Step] were probably close to the chopping block, as I hardly used them after getting [Blink], and pulling them apart might lead me to discovering some crucial components. After all, they were effectively the same skill but with slightly different flavoring.
+
+[Tracking] and [Rogue Expertise] were two I hardly ever used, for example, but I wasn't sure what benefit pulling them apart would even bring me besides clearing up some clutter from my status screen. The former might be reproducible with magic, such as using [Air Magic] to bring in scents. Still, I couldn't see how I could replicate the effects of [Rogue Expertise] without something akin to what I'd unofficially dubbed [System Magic].
+
+[Tranquil Flow] was another skill I almost never used, as dodging had long stopped being incorporated into my combat style. I could expand space, teleport, create various magical barriers, or even just block it with reinforced slime. Outside of pretending to be a small humanoid, it didn't really have a purpose for me.
+
+As for the targets I wanted to deconstruct for a purpose, but was hesitant due to their usefulness; there were a lot, such as: [Multitasking], [Mapping], [Perception], [Triangulate], [Magic Efficiency], [Subtle Afflictions], and even [Vanish].
+
+I think if I deconstructed [Mapping] and [Triangulate], I might be able to make a spell that lets me get coordinates from previous locations. Or it could be completely beyond my capabilities, and I'd have lost a skill I'm heavily reliant on.
+
+[Triangulate] was doing a lot of heavy lifting with [Dimension Magic], and I was terrified of losing it, even if I could repurchase or unlock it again. I was still tempted, however, as part of me wondered if I'd unlock a spell construct that could be added to anything in [Dimension Magic] to create a permanent upgrade.
+
+Maybe I should test that theory with [Subtle Afflictions] or [Affliction Mastery]? They aren't as important to me and are a much easier tier of magic. I could also test it out with [Stabilized Fluctuations], which would probably add a stealth component to the spells.
+
+Expanding that theory was why I was also curious about [Magic Efficiency] and even [Multitasking]. The former would probably give me something that could be applied to all spells, while the latter might unlock a new form of spell construct.
+
+Maybe it was due to my trials with [Mana Weaving], but I'd considered making a quilt of patchwork spells to all go off at once. If I was right about [Multitasking], then that could be a key component.
+
+Shit… I'm having a bit of decision paralysis here. I have so many options available to me, I don't even know where to start.
+
+[Identify] was another skill that could technically fall under both of my classifications. It still had a purpose, although it had diminished in recent times due to its repeated failures. However, I was curious about what I'd gain from sacrificing it, and I felt like I'd already tread on similar grounds thanks to [Temperature].
+
+I'm not sure if I'd classify [Identify] as [System Magic], but it definitely falls under the concept of information, like [Position] and [Temperature]. Kind of like how every magic has a debuff despite that being the domain of [Corrosion Magic].
+
+I knew I was jumping all over the place now with ideas, but any attempts to focus down were futile as I kept thinking of strange idea after strange idea. My eyes fell upon my magic skill list, and I found another bizarre conception brewing.
+
+What happens if I take apart something like [Magma Magic]?
+
+I fell into silence as I stared at it, while the cogs were turning. I had a lot of magic at level one thanks to my scatterbrain approach to whatever was interesting at the time. Right now, however, that could be seen as an unforeseen boon as I could take them apart without losing any levels, although I wouldn't gain much from my understanding of the [Skill Deconstruct] description.
+
+I'd lose a skill point, though.
+
+Magic skills needed to be bought from what I understood, as it wasn't as simple a matter as injecting the proper type of Mana into a similar spell construct.
+
+But… I already know how to cast the spell. If I lose the skill, I can only assume the automatic knowledge would go away, but what's stopping me from getting a [Sub-Core] to reproduce the spells blueprint?
+
+I held out a hand and cast the basic [Molten] spell construct in front of me. If I lost [Magma Magic], could I earn it back for free? I was in a strangely unique position in this regard, as I wasn't sure if anyone else could perfectly replicate a saved construct without the system creating it.
+
+I also have access to the human trait [Untapped Potential], which helps learn new traits and skills, not to mention [Prodigy] and [Elven Legacy]. In theory, it shouldn't take me too long to regain it, if it's possible.
+
+I sighed as I started moving to my final patrol position for the day. I immediately wished I could have spoken to Vee about this, but I had an instinctual feeling that I wouldn't be able to share this knowledge with her. I would have loved to have someone to bounce ideas off of to alleviate the pressure I was putting on myself.
+
+Maybe I should just pick something random, or select all of them? I don't know…
+
+When I arrived at my next destination, I was still in turmoil over my decision. I could summarize my reasonable ideas into three objectives: create a new spell using a skill, modify an existing spell with a skill, and explore what makes magic skills tick.
+
+Of course, there was still my combined [Mapping] with [Triangulate] goal, but I wasn't willing to take the risk there at the moment. Plus, we still had our quest to save Leon from the mermen, so my unlocking teleportation to old locations wouldn't even be usable.
+
+Okay, let's do it! Big risks, big rewards!
+
+<Skill [Wind Step LV 4] has been lost.>
+
+Information flooded my mind with a vaguely familiar template. I could almost immediately see parallels between it and the [Blink] one I'd received earlier. I nearly threw [Thunder Step] into the grinder straight after to see if there were more similarities, but held back until I'd successfully recreated [Wind Step] as a spell.
+
+I wonder if I can make a movement spell for Fire, Earth, and Water? I have [Basic Elemental Magic], so it should be theoretically possible with how easily I can swap out elements. Anyway, next up!
+
+<Skill [Subtle Afflictions] has been lost.>
+
+I'd barely recovered, and again I was being assaulted by the skills information. I thought that by the skill not having levels, it would have a lesser effect, but I had grossly underestimated it, and I nearly fell over myself.
+
+After taking a moment to recover, I began scrutinizing what I'd actually received, and it seemed like my theory was partially correct! It was a construct, but rather than being added to the spell, it needed to be applied after the spell was cast, almost like a final coating, if I had to describe it.
+
+I had no idea spells could be modified this way. I'd always assumed you needed to create one big spell all at once, but this throws that idea out of the window. I can't discuss [Skill Deconstruct] with Vee, but I should be able to talk about coating spells with her, and then maybe we can brainstorm a bit.
+
+I still had one more skill I wanted to break down. However, I first wanted to witness this coating in action, as I felt I could easily replicate it from the complete template I'd received.
+
+In spite of my confidence, it still took me a handful of attempts to manifest it correctly despite having the entire blueprint at hand. I had to admit it was a bit of a humbling experience, but I'd still managed to succeed.
+
+[Subtle Afflictions] as a "spell" behaved strangely, or maybe that was due to the fact that I was trying to use it in conjunction with my defense debuff [Fracture]. Being a perception-based spell, I didn't have a projectile hide, so instead it seemed to manifest as a lens I gazed through.
+
+Despite the earlier hiccups, it worked like a charm, and soon I started debuffing a variety of sea life through the nefarious lens. Regrettably, it didn't register as an official spell, which made me think there might be a "primary" spell this one branched off from.
+
+I can even point to [Stabilized Fluctuations] as likely being a similar effect. I'm tempted to deconstruct it right now, but I don't really want to risk losing my dimension stuff just yet. Besides, I got a bigger mystery to solve…
+
+I braced myself and selected my next target.
+
+<Skill [Magma Magic LV 1] has been lost.>
+
+<[Magma Magic LV 1] spell [Molten] has been forgotten.>
+
+I was fully expecting a skill revolving around an entire category of magic to be jam-packed with information. That was one of the reasons I'd played around with [Subtle Afflictions] to give my mind a bit of time to recuperate.
+
+However, once again, my expectations fell flat, as all I got was a small segment of a structure and a snippet of information. I couldn't help but stare out into the expanse of the ocean as I felt dumbfounded by how little I'd gotten.
+
+I know it's only a level one skill, but what the hell?
+
+Even when I scrutinized the information, I found very little. I felt frustrated by how little I received, which I knew could only be solved by using [Skill Deconstruct] again.
+
+Okay, let's see if I can still cast [Molten].
+
+I first tried casting it myself, but I'd underestimated how much information would be lost alongside the skill. Thankfully, my [Sub-Cores] came to the rescue and recreated it with picture-perfect precision.
+
+I targeted a nearby rock and watched as the spell successfully went off, causing the rock to explosively sizzle in the water as it was transmuted into glowing hot molten rock.
+
+Success! Now, to see if I can regain my skill without spending a point.
+
+I confirmed that I had [Untapped Potential] borrowed and began a process of casting the spell over and over again through my [Sub-Cores]. After each casting, I'd peruse my profile and soon enough I saw a [??? LV 0] pop up under my skill list.
+
+Please be [Magma Magic]!
+
+I continued casting, and not long after, I received a notification.
+
+<Skill [??? LV 0] has become [Magma Magic LV 1].>
+
+<[Magma Magic LV 1] spell [Molten] learned.>
+
+Yes, yes, yes! This is great! I can repeat this process as many times as necessary until I assemble more information.
+
+I was about to throw my recovered skill back into the grinder when I hesitated and paused.
+
+Should I try to quickly level it up to two and then use [Skill Deconstruct]? I'd get more information that way and complete it quicker in the long run… I've always had a suspicion that leveling a skill to level two is easier than unlocking it for free; now's a good chance to confirm or deny my gut intuition.
+
+And so with the last of my patrol time, I began trying to get [Magma Magic] to the next level.
+
+***
+
+Gramps and Mother were staring at the screen, reading the detailed log of what they had just witnessed. They had both cried out in horror when Syl attempted to destroy the valuable skill she'd literally just received.
+
+After that horrific spectacle, they were treated to what could only be described as the ramblings of a madman trying to piece together every single scrap of information into one coherent picture.
+
+Syl bounced around every subject, and both were stunned into silence as they watched the decision process firsthand, until finally the deconstruction began. It started with one, then two, then three, and both sighed with relief when it finally stopped there.
+
+"Well," Gramps finally said, breaking the silence. "It looks like you got to see how far Syl is willing to dig."
+
+Mother coughed, an awkward expression quickly appearing over her face. "I knew the slime was curious, but… I don't think I could have ever expected this."
+
+Gramps chuckled. "All I can say is you reap what you sow. I fully expect Syl to entirely scrutinize [Magma Magic] unless something else becomes the latest fixation."
+
+Mother frowned. "Well, if Syl still wants [Intermediate Elemental Magic], a fully comprehended skill will not be sufficient. Besides, with the way the magic system is set up, one key is not enough."
+
+"Don't you mean three keys?" Gramps replied. "Unless you don't think Syl will find that out."
+
+Mother sighed, shaking her head. "Yes, three, but the point still stands. Syl could have ten keys, but without knowing where they go, there's only so much that can be done."
+
+Gramps couldn't help but chuckle again. "Well, it will certainly be interesting. I hope you won't regret your decision in the future."

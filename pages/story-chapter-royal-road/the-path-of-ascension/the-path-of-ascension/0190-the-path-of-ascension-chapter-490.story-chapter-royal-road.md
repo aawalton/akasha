@@ -1,0 +1,279 @@
+---
+id: 68b15fbd-7498-5db5-bb06-f968bfdbb8f8
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 490"
+slug: 0190-the-path-of-ascension-chapter-490
+partOf: the-path-of-ascension
+position: 190
+ownLength: 5261
+unit: words
+publishedAt: 2026-04-20
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3297842/the-path-of-ascension-chapter-490"
+royalRoadId: "3297842"
+---
+
+Chapter 490
+
+Knocking on the door of Liz’s workshop, Quill stepped in after the briefest of moments. The door was unlocked, indicating she wouldn’t mind.
+
+Feeling playful, he drawled, “Wanna play hookie?”
+
+Looking up from the cauldron of orange nightmares, Liz wrinkled her nose. “This attempt isn’t that bad? Is it?”
+
+The second question was asked to phoenix Liz, who’d been napping on a nearby perch before Quill’s arrival woke her up.
+
+Fluttering over, she cooed into his beard while ignoring her human self's question. The move also managed to remind him that he had facial hair. He contemplated getting rid of it, but chose not to after a brief debate. Such a sudden alteration to his appearance would signal something had changed, when he was trying to prevent that as much as he possibly could.
+
+Scratching the raptor, he shook his head. “I hadn’t even noticed the concoction. Originally I came here to bounce ideas off you as a blood mage, but I got distracted by how pretty you are.”
+
+Tapping her chin, Liz smirked. “A consultation? Did you consider you might not be able to afford my rates?”
+
+Patting his spatially expanded pockets, he pretended they were empty. “Forgot my wallet, but I can offer you lunch somewhere hopefully interesting.”
+
+Liz tapped her foot for a moment, pondering his question, but she agreed. Before anyone else could distract them, they slipped out and into one of the autonomous shuttles that came with the estate.
+
+“I don’t feel like eating a fine as well as lunch. So the slow way it is.” His explanation earned him a laugh but given that he really did have something to ask her he continued as the shuttle drove them to the restaurant he’d picked out. “So I’ve been tinkering with the idea of a resonance aura-based universal tracking talisman. Initially I figured copying a harmonization talisman would be a great shortcut, but I’m running into road blocks at step one.”
+
+Liz flipped through the files he sent her, chewing her lip before nodding. “I can see how not using the monster blood in the ink is messing with the typical structures. What translation mechanism are you using? AI?”
+
+Quill snorted. “No, I wish. That would at least be easy. Most common delvers hate anything that relies on an AI interface in combat. They need their AI to fight for them, and as such, they don't want to spare the mana needed for upkeep most of the time. Ahh. I almost feel like I need to make equipment for cowards if I want them to sell well. Hmm…”
+
+After realizing he had a solid idea, he made a few mental notes, not wanting to let the moment slip him by. “Actually that's a good idea, but I shouldn’t be impressed by this point. Pure genius.”
+
+Liz humored him, but phoenix Liz seemed to thoroughly enjoy his joke. It could have been the scratching, but he firmly believed it was the joke.
+
+“No, I was thinking of using the more traditional attraction or temperature methods, but I’m open to suggestions if you have one.”
+
+“Not a coherent idea quite yet, but keep going. What other problems have you run into?”
+
+Sighing dramatically, he answered, “Too many to list. But the next big one is longevity. If I want to use aura in the product, even Tier 5 aura, it will immediately put the talisman in the premium category. The raw materials alone will dictate that. After that, it's a two way tie between range and fidelity, but that's a classic problem for every talisman.”
+
+“Okay, so what are you thinking? I know you have some answers. What problems do they have?”
+
+They spent the rest of the ride going over them, but the conversation easily shifted to the ‘restaurant’ when Liz saw the Tier 4’s food stall where they’d landed next to. Notably, their shuttle wasn’t the only hyper expensive method of transportation dropping someone at the low Tier location, but that was how he'd noticed the location in the first place.
+
+The Tier 20 chef visible behind the extended grill worked the low Tier poultry and vegetables while chattering with everyone. Despite his apparent distraction, each stroke was made with perfect precision and timing, even when he wasn’t looking. In fact, they only paused talking long enough to take their orders, two meals of the day. It was the only thing for sale.
+
+While the chef continued chatting with the regulars, they shifted their attention to their surroundings, wanting to people watch.
+
+The floor they were on must have been made when there was an oversupply of bronze, because nearly every permanent item had some amount of the metal. It was managed tastefully, but the choice gave the area a unique atmosphere they both enjoyed ogling.
+
+When they were both handed two pockets of bread stuffed with vegetables and chicken with barely a word in response, they exited the roadside stall and found a spot to sit not too far away where they could continue their observations.
+
+Taking a moment to appreciate why a Tier 20 chef was using low Tier ingredients, Quill focused on savoring his first bite of the pita. The ingredients’ Tiers were simple, as were the sauces and spices, but that had been the point. They were merely vessels for the chef's nascent Intent to project onto.
+
+Currently, the effect was a more complex flavor interaction, but from the hints of deeper yet undeveloped notes, he felt that the chef was trying to bring out magical effects from the otherwise mundane food.
+
+The chicken variant had a hint of fire mana running through it, but it was otherwise unnoteworthy, magically speaking, beyond its baseline spiciness and flavor. With the same ingredients, Quill would have only been able to use the notes of fire infused in the chicken to for flavor, but the chef was trying to elevate that single note into a symphony. In their particular dish, he was trying to turn that note of fire into fire resistance, but every ingredient had been treated the same way.
+
+The chef was using Tier 4 ingredients simply because they were cheap and plentiful while he honed his craft.
+
+“It’s good. The flavors are excellent.” He had to gush a little.
+
+Liz nodded until she’d taken a drink to clear her throat. “The broccoli is to die for. And the tiny bit of char combined with how soft the bread is on the inside. And the carrots, ugh. I love them. Can you replicate this?”
+
+“I’m always willing to try.”
+
+Punching the air, Liz took another bite.
+
+As they finished up, Liz brought their conversation back around to his problem via their [AI]s while they audibly continued to chatter about the food and area around them. “I don’t talisman nearly as well as you do, but as a blood mage, I have thoughts. First, if you are using resonance aura, my instinct is to tie the talisman into the user's body. Or more accurately, their blood. Rift monsters are near-clones, so you should be able to do what you want and track them all from it. In fact, we already know it works due to the existing talismans. And if that's possible, why can’t we treat this new talisman like a body enhancement one instead of external? You could use the cultivator's body as an amplifier or transmitter of some type. Knowing blood as well as I do, that’s gotta be easier than trying to amplify everything from a single drop.”
+
+Despite having zero ideas on how he’d enchant that, since there weren’t any readily available runes he’d ever heard of that had such powers, he was confident he’d be able to cobble something together. Whether those ideas would prove usable would be another matter, but tying it into the user’s body also solved another problem he’d been pondering, protecting the talisman.
+
+He liked Liz’s idea. A lot.
+
+“That’s a brilliant idea. Or at least it sounds like one to me. I think you have a good point about the amount of blood. For all of the problems turning the blood into an ink cause, it solves others like range. I’d honestly been considering making the activation sequence to dump the talisman entirely in the monster's blood, just to ensure enough blood was used. If your idea works, it will at least save me trying to spin that into a positive. Coming at this from a blood angle is a good idea. What else are you thinking?”
+
+Having experience tracking through blood, Liz had several tips and things to watch out for and how she typically solved them. He took note of each one before changing the topic as they were finishing up their food.
+
+“That's enough about me, I can’t stand to hear any more. Let's talk about someone more interesting. What was your potion problem?”
+
+Instead of heading back immediately, they wandered around the bronze floor, turning their outing to an impromptu date and tour. Seeing a Tier 20 knicknack shop, neither needed to divert the conversation to agree to the destination.
+
+“If Aster and I want to keep our businesses around, we need to stay competitive. Selling Empire products at cost and abusing our special local status will only take us so far if we want to continue extracting resources from here. Even with a great COO we are going to struggle, so Aster and I are both trying to solidify our standings in more permanent ways. I’m trying to abuse the slight difference in resources between Great Powers and improve potions by replacing expensive secondary ingredients with foreign, similar ones that are hopefully cheaper. Then I get a full power knockoff at a lower price in a way no one else can easily replicate. What you walked in on was an attempt to replace a five hundred year snow poppy with a southern lights star flower from the Corporation. Medicinally, the two herbs are similar, but the change affects the secondary ingredients as well as the tertiary process. If I succeed, I get a budget spiritual stabilizing potion at sixty percent the normal cost, but I’ve had no real luck so far.”
+
+While smiling at a very pretty clockwork ballerina she liked enough to tuck into her cart, Liz sighed through their channels. “Ughhhh. Realistically, it’s probably going to take a change in refining steps as well. I can only hope that on the other side it's actually a cost improvement.”
+
+“What Tier?”
+
+He was only slightly distracted by an entire clockwork circus made with no enchantments that he thought Aster might like, but he was still paying attention. Her potion had been Tier 10, but she’d only been testing, and so that meant little. He wasn’t starting with Tier 30 talismans either, and it did change his response.
+
+“The original recipe is Tier 25, with lower Tier ones all the way down to Tier 15, but I’m hopeful that, with my change, I can go all the way to Tier 30. Theoretically, the change is a positive one but we'll have to see.”
+
+Quill was no specialist, but he tried to ask constructive questions. He wasn’t sure how helpful he was when her conclusion was to start from scratch using the two most important herbs as base ingredients. It would be more initial work, but it might be faster than forever trying to stamp out unintended consequences of each previous chance.
+
+As they left the first shop, Quill silently asked Liz if she wanted to continue or if they should head back. Seeing she was in no rush to return either, the two of them wandered down the street taking everything in.
+
+For all that the Corporation was a different Great Power with its own unique language, culture, and customs, people were still people. As such, there were similarities anywhere he looked.
+
+There were also differences and he couldn’t help but latch onto them. Though he tried not to look at things in a negative light.
+
+The first was the lack of mortals, at least in the city.
+
+With most mortals in their floating cylinders, most everyone at the space station was a cultivator. That seemed obvious and normal at first, but there was a difference that only became clear as they walked more of the streets and saw more.
+
+While seeing lots of low level cultivators wasn’t unusual in the Empire, he wasn’t in a Great Power that awakened everyone, which raised the question. Where was everyone coming from? They couldn't all be locals.
+
+The rest of the Great Power felt like the obvious answer, but a quick search showed travel wasn’t free or subsidized. No, most the low Tier cultivators were what he would call semi-local, in that they were born in the closest dozen systems. It made travel cheap enough for many ambitious young cultivators to travel to Asa, hoping to change their fate.
+
+Some left, Quill was sure of that, but most were absorbed into the space station and never left, always chasing the dream. That seemed especially true now, with the recent economic reset fresh in everyone's memory.
+
+Additionally, a shocking amount of them seemed to be working as hard as they could even while traveling. Training on the move was nothing new to him, but the people he saw seemed to be improving themselves and their job related skills over combat ones. If they only wanted to reach Tier 15 as fast as possible that would be one thing but it struck him as strange.
+
+Not being on a planet with an inherent essence cycle, Asa and most space stations relied on gathering up all the ambient essence they encountered as they circled the local star. Following Asa’s grand ambitions, the Ascendency had not only installed localized collectors but also one of the best essence distribution systems they could devise.
+
+According to their vision, by carefully controlling an area's essence density and Tier, they could strictly manage everyone remotely. Such lofty aspirations hadn’t lasted long after the fall.
+
+At first when the scars were fresh and the pain well remembered, Asa’s essence distribution had been incredibly egalitarian, but as populations rose, so did resource demand.
+
+Milton, the grand phoney who caged people and passed off their Talents as wonders, was the one to formalize the current setup. Now, Asa’s residents bid on the distribution allocation via the best way they knew how. Money.
+
+It worked fine from a mechanical perspective, and he could appreciate the care that clearly went into both the distribution and deciding who gets how much, but the whole thing just rubbed him the wrong way. He found some amount of solace in that part of the labyrinthine calculations ensured a baseline level of ambient essence for the entire space station so the low Tiers could do exactly what he saw them doing: Cultivating or improving their skills while out and about rather than needing dedicated cultivation rooms, just like on any other capital planet.
+
+For those that could pay, their neighborhoods and floors benefited from the much higher than normal essence density. While the bronze floor they were on wasn’t a high essence floor, two floors above and three below and off to the side were. Together they enriched the areas in between, stimulating the inhabitants.
+
+Quill had seen plenty of driven cultivators in the Empire, but it took him a few minutes of self reflection to pinpoint why it stood out to him as strange at all. He wasn’t used to seeing such ambitious and hard diligent cultivators working day jobs, he was used to them being delvers and other more combat oriented roles as part of a noble household or retinue.
+
+He was sure a check of the outer planets would show just as many ambitious delvers, but low Tiers weren’t the only ones to flock to Asa.
+
+The higher Tiers were more than capable of traveling to the Corporation’s capital system, but they found it just as hard, if not harder, to stay. Especially the CEOs who were trying to break into the most competitive market that existed in the Realm.
+
+There was a reason JR was letting Quill fund everyone's business without restrictions. If he wasn’t, none of Quill’s friends would be able to afford the prices that came with such competition.
+
+Together, that led to the floors taking on their own unique atmosphere as they found their niches. The bronze floor hadn't been stratified by Tier, but rather by those who wanted to live in a floor of finger smudges on everything, and those who didn't.
+
+A floor above them was mainly filled with Tier 25s and higher, with even the menial workers being Tier 15’s. Five floors below them, there was an entire floor dedicated to people who were naturally left handed.
+
+When they reached a transitional area, they decided to return to their estate, leaving the next area for another day. Refreshed, they each returned to their individual workshops.
+
+Quill threw himself back into designing a new talisman, but immediately ran into several roadblocks. The first and most serious was that he was still in a catch twenty two about using the resonance aura and the runes that could properly utilise it.
+
+With only one resource to resolve that problem, he threw himself into designing the runic sequence for taking a sample of blood and searching for other similar copies. In his first iteration, he spared no expense and cut no corners, working through the problem more like a novice trying to show his work. Mainly because that’s exactly what he was trying to do.
+
+Working through each system the sequence would need, half of the talisman started to form. His answer was far from elegant, cheap, or easy to draw, but he couldn’t see any reason why it wouldn’t work, which surprised him, given how convoluted his answer was.
+
+Ultimately, Liz’s suggestion to use the body as an amplifier proved an absolutely brilliant disaster.
+
+Interacting with a cultivator's blood came with significant challenges. Using such a medium, a talisman could all too easily interrupt or be interrupted by body based spells, and he needed to take significant care on what the talisman could interact with. Even worse, because he used the blood as an amplifier, he couldn’t see any feasible way to use anything other than the blood as the receiver.
+
+Both flaws came with a single redeeming quality that had him forging ahead despite the many setbacks. Using a cultivator's blood as the receiver gave a massive boost to the talisman's theoretical range. In fact, the range was so high, that when combined with the increased fidelity he hoped to get out of the resonance aura, he had to consider setting range limits.
+
+Theoretically.
+
+Everything was theoretical until he made it, but looking at his equations, he couldn’t see any reason why it couldn’t work. The aura would be a giant question mark until he started the second half of the talisman, but even without it, he was pretty sure this half was possible, if not commercially viable.
+
+Moving on, he immediately ran into problems trying to create the formation to sense the sample blood and then translate that into something that could be understood by the caster. That critical core piece gave him both theoretical and practical problems, neither being easy to solve.
+
+The theoretical ones were worked through as he slowly built out the runic circuits, but two practical ones remained. The resonance aura and use time. In its current state, he estimated a few hours of use time for a Tier 25 talisman, which was far from satisfactory.
+
+Customers might be willing to pay the cost of one or two utility talismans per delve, but the tens of thousands they would need if they needed to reapply a new one every two hours? There was no way anyone would be willing to downgrade to a talisman more expensive and less useful than the currently available ones.
+
+Fearing that was a fundamental problem, he shelved that until he got a model working before wiping his hands of the issue. That was future Quill’s problem.
+
+Stepping back after almost a month of work, he spent some time meeting the various employees at the building he’d ended up renting.
+
+Larger than he really needed, Quill’s Quality Quintessentials first and only shop location would house its administrative and production capabilities as well as its storefront. Buying out the first four floors of the building's location hadn’t been cheap, but that was better than outright impossible.
+
+Quill didn’t dwell on the possibility that the former company had only been on the cut list thanks to Blake’s inadvertent suggestions. Not due to the guilt that might eat at him, rather because he genuinely didn’t care.
+
+Between JR and Winter Hornet, he’d come to accept that the Tier 50s would do what they wanted. They might make an excuse, but as often as not, they wouldn’t bother with such pretext. Being that pretext didn’t put the guilt on him. It may have taken losing part of himself, but Quill was happy with his realization.
+
+Picking his new talisman designers' minds, he tried to get a feel for the things they thought made a good talisman. Most answers were simple: general ease of drawing was the largest, followed by as few inks, switches, or secondary additives that would require more steps. Another was low spiritual strain during the creation and especially failures, using commonly known runes, and finally, using as few toxic or unpleasant materials. The last one came up as a near unanimous secondary complaint.
+
+Immortals didn’t want to handle nasty things any more than anyone else, and Quill made sure everyone knew he’d understood their plea. They didn’t miss that without any shadow of a doubt, like every other designer, he’d prioritize effectiveness over pleasantness. But he’d at least try.
+
+Some of the replies weren’t so simple, and while Quill tried to give them all the attention they deserved, he was no fount of answers either. How was he supposed to change optimal drawing patterns? They were optimal for a reason, if there was a better way to draw the talisman, that method would have been the pattern.
+
+There was only so much anyone could do. Talismans were complicated.
+
+Returning to the estate, he popped in to see Liz, only to find Aster there with a bottle of amber mist.
+
+Instead of her normal reaction, she gave him a side eye heavy enough to nearly cause him to sigh out loud, but he kept the impulse in check. He knew their bond felt strange and fragmented, but she seemed to want to address it as much as he did.
+
+Not at all.
+
+The problem was that if he knew that wasn’t a solution, so did she.
+
+Willing to pretend nothing was wrong, he smiled at both of them and asked, “How’s the bloodline business, businessing?”
+
+Flicking her tail, Aster signed dramatically but he could tell her heart wasn’t really in it. “Not bad, but not great. Since Liz offered to help, she needs to actually help me make a product like she said she would, now that she has solved her own issue.”
+
+Quill was about to congratulate Liz when she flicked Aster's tail. “Stop saying I’m done! I’m not done yet. I’m nowhere close. All I said was I got a working recipe. It's far from ready to go. I’m using thirty different herbs for a Tier 10 potion, Aster. Thirty. Explain to me how that’s finished?”
+
+“It's more finished than what I have. I understand like three percent of what your bloodline specialists back home are saying, and I don’t know the alchemy as well as you.” Coughing, she added in a rush, “I also don’t trust any of my new people. At least not enough to let them get their hands on the Empire records they’d need to do it themselves.”
+
+Liz’s tirade halted before it could restart, and she finally had to agree. “I’ll look at it and give you something you can at least give to your people.” Seeing Aster’s excitement rise, she quickly added, “But you need to really do the business side.”
+
+Bouncing from her seat, Aster left in a hurry. “Perfect! Okay gotta go, byeeee.”
+
+She only paused long enough to give Quill a one armed hug before vanishing out the door.
+
+Liz looked like she wanted to say something, but when she didn’t broach the topic, Quill did. “Its not as bad as you think.”
+
+“Really? It sure looks bad from my vantage.”
+
+Taking Aster’s spot, Quill waggled his hand. “Our connection is through the spirit. While JR may not have directly taken a part of my spirit out of me, he might as well have. Part of what he took included parts of our bond. Picture it like the middle of a braided rope was teleported out of the rest without being broken. It's all stretched, taught, and clearly wrong.”
+
+After a brief moment of consideration, he sighed, not wanting to lie, even by omission. “Annnnd realistically, I’m probably only feeling part of it. After all, the stretched out parts are the pieces of me I don’t have. I’m not feeling any of that. Aster is feeling everything while I’m feeling half. Not to be morbid or to put words in her mouth, but I bet it feels like I’ve been possessed or like I’m otherwise not myself.”
+
+Rubbing his hand, Liz looked more worried than he felt. Grinning, he distracted her by bringing up her alchemy success and listened as she eagerly explained her next steps. She already had several herbs she wanted to swap as she tried to reduce the amount of necessary ingredients.
+
+While not pure subtraction, adjusting what she designed was easier than untangling someone else's mess.
+
+Filled with inspiration, Quill returned to his own workshop where he made negative progress as he realized a flaw with his relay system. Unless he wanted the monsters to know the talisman was active and possibly where it was, he’d need to switch to a different detection system and then solve the resulting problems.
+
+After solving that issue, he checked the rest of his logic circuits but found no other problems, letting him move onto the next step. Making one.
+
+The sheet of talisman parchment he used was purpose built for such early testing, which was why it was five feet to a side and made out of the best generic materials possible. Each Tier 15 talisman cost as much as the materials for ten Tier 20 talismans, but Quill was prepared to burn as many as he needed.
+
+Or more accurately, Blake had been. Among the supplies he’d brought there were several dozen spatially expanded crates full of such low Tier bulk materials. Rolling his eyes at himself for bringing smithing equipment, he made a note to give it all to Aster. It would let her hobby blacksmith if nothing else, and he didn’t need any of it.
+
+He made mistakes in the first three sheets, but the fourth was successfully created.
+
+Carefully moving the talisman into a protective chamber for experiments, he remotely completed the mana circuit, activating the taliman.
+
+Nothing happened.
+
+A dud.
+
+Seeing a problem in how two of the major circuits needed to be offset in their activation timings, he waved a hand to destroy the failure as he moved to make another.
+
+Five tests later, his first talisman activated. It failed almost immediately but that brief moment of hope caused him to spend two days tinkering with the conduits and pathways, trying to resolve the problem before giving up. None of them would be used in the final design, but he still needed them operable for his testing, so he put in a simple delay.
+
+Once that problem was fixed, he discovered four more in his next test. Telling himself that he was glad to have discovered all of them at once, he started iterating. Four issues happening at once was only possible because each system as a whole seemed to work. Sure, several of them deadlocked almost instantly, either internally or with each other, but it was progress.
+
+With some progress under his belt, Quill tossed everything he’d discovered into his [AI]. Doubling his mana regeneration by being in the Corporations’ capital proved its worth, as he didn’t have to slow his mana stone creation in the slightest to run his tests, giving him a glimpse of his next Tier’s mana production a little early.
+
+He hated that his presence had ‘freed up’ Icliz’s mana balancers, but he rationalized it by remembering many of them were getting their first extended breaks in centuries.
+
+Quill tweaked his testing parameters between batches of iterations, but was quite happy with the results, as they were spat out. Following two of the suggestions, he allowed the process to repeat over and over, both inside his head and on his work bench.
+
+Seeing the fourth talisman in a row activate and light up without any issues, he sent a message to his employees, letting two in particular know practical testing would start the next day.
+
+Creating a tracking talisman required something to track, which meant monsters.
+
+Under normal circumstances, Quill would have done the testing himself, but that wasn’t possible. Thankfully, it wasn’t needed. The Tier 15 and 20 were both going to be testing Tier 10 talismans in Tier 10 rifts, so there would be no danger.
+
+Not that they were going far. Their entire trip was in-system, allowing him to easily [Portal] them to one of the many moons around the gas giants. Lower Tier rifts slots weren’t cheap with it being a capital system, but it wasn’t too hard to find a single team who didn’t mind them tagging along.
+
+They had their pick of rifts because ideally, the monster's type wouldn’t matter.
+
+Their news wasn’t what he’d expected.
+
+The talismans actually worked!
+
+They didn’t do well, but they did track. The first problem was they were so specific in their search criteria that even with the monsters being near clones, it only tracked those who were truly identical. That was how they’d discovered his tracking didn’t differentiate between the living and the dead.
+
+It was that final problem that he found to be the difficult one. It may have taken him a few iterations to finetune the living detection to something closer to what he found acceptable, but tracking the dead proved to be a persistent thorn in his side.
+
+Blood didn’t have an innate alive or dead sensing function, nor did it have an essence release detector. Initially, his solution was to track moving blood, but he quickly realized the possible pitfall in such a broad search.
+
+He tried copying both other tracking talismans answers and even seeker runes to find a solution, but with every change and iteration, he only managed to make the problem worse. It was only mentioning it to Liz that finally gave him a solution with a timely suggestion to track the ‘blood continuity’, which proved effective.
+
+Apparently, one of blood’s inherent properties was its wholeness. Any disruption in a circulatory system broke something fundamental in what blood considered normal. By tracking that, several other problems fell into place.
+
+Or so he thought.
+
+While the suggestion worked, it necessitated an almost full revision of his earlier timing choices, forcing him to work on things he’d already fixed.
+
+Again.

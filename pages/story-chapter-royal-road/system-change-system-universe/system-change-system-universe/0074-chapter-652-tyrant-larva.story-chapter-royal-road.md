@@ -1,0 +1,93 @@
+---
+id: 573505fe-b1d8-5afe-a180-e9961ec31193
+page-type-slug: story-chapter-royal-road
+title: "Chapter 652: Tyrant Larva"
+slug: 0074-chapter-652-tyrant-larva
+partOf: system-change-system-universe
+position: 74
+ownLength: 2075
+unit: words
+publishedAt: 2026-05-26
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3451202/chapter-652-tyrant-larva"
+royalRoadId: "3451202"
+---
+
+Chapter 652: Tyrant Larva
+
+"Tyrant Larva or Graboids... it doesn't matter," Jace said with a big smile. "Things just got a lot more interesting."
+
+"I guess," Derek replied as an explosion of sand shot up from the ground in front of him as another Tyrant Larva appeared. As it rocketed from the ground, he chopped down on it with Harbinger—thinking he would be able to easily slice it in half since the monster seemed to be a minion of the World Boss, but instead, he was only able to cut it open.
+
+The cut was long and deep enough to deal a decent amount of damage, but the fact that he wasn't able to slice it in half or even leave a fatal wound on it showed that the Tyrant Larva were more than just little additional monsters spawned for the sole purpose of fighting with the World Boss. The worm fell to the ground with gooey green blood pooling out from the wound as it shifted to where it was facing Derek.
+
+Derek got a good look at the smaller sand-colored monster worm's 'face' at that moment. It was hideous. It didn't have any eyes like the actual tyrant did, but it did have a mouth—a very long one. The best he could describe it was like the maw of an alligator with rows and rows of sharp teeth like a shark. And in an almost hysterical contrast to the insane maw of the beast, it had a long, skinny tongue with a split end like a snake and what looked like a small black nose.
+
+I wonder if this thing moves based on vibration in the earth, Derek thought as the torso-sized sandworm pulled its head back, then launched itself at his head. The thing's mouth is just big enough to bite my head clean off. Derek brought Harbinger up to block, and just when the Tyrant Larva hit the staff and lost momentum, Amelia crashed down from above. Her foot landed on what could be considered the base of the monster's skull, then a force hit the creature—sending it hard into the ground and squishing it flat.
+
+"Nasty," Derek said as he took a step back from the entrails scattered near him.
+
+"What do you want to do?" Amelia asked as Silvi moved from her shoulder onto Derek's.
+
+Derek looked up at The Amber Tyrant as he thought about the answer to Amelia's question. The massive snake stared back at him as if it were also waiting for his answer. Either that, or it was observing the battlefield after summoning its minions from the ground.
+
+Derek sighed. "Silvi, go back with Amelia for a bit while you recover. Amelia... you, Marrick, and Jace will handle these minions. I think the head's the best place for me to hit them, but if you find a more vital area, tell me with Telepathy, because I'm sure they'll interfere with what I'm about to do, and it would be less annoying if I didn't have to guess the best place to attack with my void."
+
+"And what are you about to do?" Amelia asked.
+
+"You know exactly what I'm about to do," Derek said with a chuckle. "I'm about to go try to beat down a giant snake. If you're able to clear out all the minions, I'd be more than happy for you to join me, though. Oh, and if Jace surpasses you in strength by a good margin, you might want to send him my way, too. I trust his Battle Instincts, so if he says this is winnable without casualties, then it will be."
+
+The two of them glanced over at Jace for a split second to see him fighting a Tyrant Larva with a smile on his face and green blood spattered across his body. To the other side, Marrick had one of the creatures entombed in sand while another was on the ground with sand flowing into its mouth.
+
+"Looks like the two of them will be okay for the time being," Derek said, and Amelia nodded. Silvi hopped back onto Amelia's big shoulder.
+
+"Yeah. Thankfully, these things seem more like a nuisance than anything else," Amelia said as she held her hand out and blasted an attacking worm into the sky.
+
+"Alright," Derek said. "I guess you're in charge here."
+
+Amelia nodded. "Good luck." Then she blasted off into the air after the monster. Derek watched as she caught up with it, then hit it with an affinity-boosted bicycle kick right back to the ground.
+
+At least it doesn't seem like they can fly, Derek thought as he turned to face the real threat. Still, the massive snake did nothing but sit coiled, staring at Derek. That's not creepy at all, he thought as he let Harbinger rest over his shoulder and took a step toward the creature.
+
+As Derek cautiously inched closer to the World Boss, he played through different scenarios on how he might manage to take it out alone. There was his bread and butter when it came to dealing with such large creatures, but he wasn't sure if being swallowed by a snake that likely had a very strong venom along with whatever the amber liquid was would be the right move.
+
+He'd taken the whale out that way, and Silvi had managed to take out the Starfury Leonaris that way. But something told him that it wasn't the right move with a World Boss—or at least a World Boss that was already so many levels above him. There's also no way that we can trick this thing into the void like we did with Nikolai. It's way too big, and I doubt either Silvi or I can generate enough force to launch it into a portal. He looked back and saw Amelia fighting and shrugged. I don't even think she could generate enough force, even with her affinity.
+
+Derek kept his eyes locked with the beast's as he approached. Finally, a couple of hundred feet away from it, the snake twitched, and Derek halted. The creature pulled its head back like it had with the sticky amber liquid before it shot it. Derek got ready for the attack, but the snake did something unexpected. It launched itself straight up into the air, then started spinning.
+
+This time, the amber liquid came out in a cone shape and directly at the ground below it. When the snake landed, the entire area—right up to a few feet in front of Derek—was covered in the goo. The snake stared at Derek and, though it was likely just his imagination, he swore that it was smirking at him. It was daring him to come closer.
+
+"I'll take that dare," he said out loud to nobody, then stepped onto a void ripple and continued forward.
+
+As Derek moved closer—avoiding the sticky goo beneath him—something happened. The snake rattled its tail, and Derek expected more minions to come, but instead, the goo below him began roiling. Small, pebble-sized portions of the goo rose from the ground.
+
+"Shit!" Derek muttered as the dozens, if not hundreds, of projectiles flew at him at breakneck speed. He instantly shifted into the void just as one of the pebbles made contact with his shin guard. Even with Void Shift active, he could somehow feel the heaviness of his leg. It wasn't a lot, but just the one tiny pebble-sized projectile probably tripled the weight of his leg and wasn't affected by being shifted into the void.
+
+Does it weigh that much, or did it cause my leg to weigh more? He couldn't help but wonder as he pulled himself through a ripple and came out to the side of the snake. He swallowed hard when he saw the eyes of the beast track him the whole time. It was to be expected, but it was still eerie. Why did I have to open my big mouth about monsters not being smart? This thing obviously is at least strategic.
+
+Derek sighed and came out of his Void Shift. The rattling changed, and the projectiles immediately changed direction with it. For the next few minutes, Derek and the snake played a game of cat and mouse. Derek would use Void Shift and Active Void Shift to avoid the goo—which hardened upon sticking to him—and the World Boss would change up its patterns and the consistency of the goo to try to catch Derek by surprise.
+
+After coming out of the void again, Amelia spoke to him via Telepathy, 'Derek. The brain is the only weak point in these Tyrant Larva. They have multiple hearts and still move even when split in half. I imagine the tyrant itself is the same way. It seems to be a commonality for most serpents or worms that I've encountered.'
+
+'Okay,' Derek replied. 'Thanks. How are you all doing?' he asked as he used Active Void Shift to move around the snake while talking.
+
+'No harm has come to any of us. But the larvae don't seem to be running out, and they are certainly part of the World Boss because we are not receiving the experience... or essence... that I imagine we should be when defeating one,' she explained.
+
+'I thought it would be something like that,' Derek replied. 'I wouldn't expect minions to give proper essence, anyway. How is Jace?'
+
+'He is slowly climbing in strength. The minions are very good for him,' Amelia said.
+
+'Good. This thing is smart, and I may end up needing some help. It controls things with the rattle on its tail. It summoned the minions and controls the amber goo that it shoots out. It can turn it into more of a liquid or even a solid, and can control it like Telekinesis. When it hardens, it gets extremely heavy,' he explained after observing the snake and getting hit by a couple of the projectiles in the process. 'I'm looking for a way to attack the rattler because I think it will interrupt a lot of things, and it's very cautious about me getting close.'
+
+'Understood,' Amelia replied. 'I will let the others know.'
+
+'Good,' Derek replied, then the transmission cut off as he faced the snake down again. "Alright, you big-ass worm, let's do this," he said, holding Harbinger in his hand while balancing on a ripple with Void Steps. For the first part of the fight, he wasn't doing anything but gathering information . The Amber Tyrant seemed to be very adamant about not letting Derek get close, so he suspected that it didn't have the greatest defenses even though it was able to tank Silvi's flame at the beginning of the battle.
+
+Derek recast Absolute Nullify, and the next barrage of amber goo was pulled into it as it drew closer to him. Safe for the moment, Derek channeled the void into Harbinger, waited for the snake's next attack, and then, when the attack came at him from a different angle to avoid his Absolute Nullify, Derek activated Powerstride, appeared next to the tail, and swung down with a Multistrike.
+
+His glaive landed on the rattle, causing a high-pitched ring. The rattle cracked, and the snake hissed loudly. However, Derek clicked his tongue. Looks like the rattle can only be damaged with hard-hitting physical attacks. And it's probably best if they are blunt, he thought. The void he'd channeled through Harbinger had hit it, but it passed through the hollow rattle like nothing. It was meant for internals and vital spots, but Derek had hoped there was something inside, but he was apparently wrong.
+
+Before he could move, the tail struck him in the back and sent him crashing toward the ground. He shifted into the void, but the snake followed him with its eyes. Then, somehow—just like when Alanah had done it—the World Boss broke him out of his shift, and the rattle impacted the back of his armor. Derek was just able to flip himself around while he was flying and landed on the ground feet first.
+
+Just as he made to pull his feet out of the gooey amber mess, it suddenly hardened around him. Instantly, his surroundings grew dark as the snake coiled around him, covering any normal escape. All he could see were the glowing amber eyes of The Amber Tyrant—one bright and one dull—as a jet stream of amber blasted down at him.
+
+"Dammit!"

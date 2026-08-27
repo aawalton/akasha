@@ -1,0 +1,275 @@
+---
+id: 7d795389-453e-5e25-b6bd-aa332c24410a
+page-type-slug: story-chapter-royal-road
+title: "254 Quickly Into the Night"
+slug: 0213-254-quickly-into-the-night
+partOf: the-new-world
+position: 213
+ownLength: 3778
+unit: words
+ownProgress: 3778
+publishedAt: 2020-05-10
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/494491/254-quickly-into-the-night"
+royalRoadId: "494491"
+markedReadAt: "2026-06-29T21:28:17.774Z"
+---
+
+I grinned, my helmet forming over my face. As the metal shifted like liquid, red mana ebbed from my eye slit. Turning towards Spear and Torix, I found the Sentinel swinging his weapons of trade. Hod and I walked up to them as he sliced through dimensions. Beyond the veil, a sandy shoreline popped into view.
+
+Like the previous launching point, this portal showed the opening of an eldritchian rift. A giant pit of sandstone carved deep into a craggy shoreline, black stone jutting out of white sand. Deep within the depths of the opening, staggered stairways dug hundreds of meters down.
+
+Along these crisscrossing stairwells, entrances lead deeper down into the abyss. Beady, aquamarine eyes stared from these entrances, eying us like prey. Well, everyone but me that is. I walked down into its depths for a moment, and the eldritch backed away.
+
+They were right to fear me. With a thought, I liquified them into mana with Event Horizon. After securing our position, I walked out of the rift's depths and onto some shoreline. Around us, the ruins of a gialgathen civilization showed itself.
+
+Several empty buildings littered the shoreline, though few and far between. We were near Tholosa, and these were the equivalent of suburbs to the central city. Getting a feel for where we were, Torix turned towards us, "Just as before, we shall secure several locations before launching our assault from each gained point."
+
+He locked eyes with me,
+
+"I shall require your assistance with dismantling their mental defenses. All you need do is overwhelm them. I shall handle the rest."
+
+I nodded with an internal wince, "Sounds good."
+
+Meh, I didn't really enjoy mind magic. It was underhanded though useful.
+
+Torix turned to Hod, and the lich narrowed his fiery eyes, "You've been assisting Althea with her assassinations, correct?"
+
+Hod's outline shifted, bleeding into his surroundings,
+
+"Yes."
+
+Torix nodded his head, "Then you're adept at disguising your presence. Follow behind us, hidden in the shadows. If any members discover us and look as though they may alarm others, kill them quickly and quietly."
+
+"Yes."
+
+Torix looked Hod over, surprised by the Eltari's down to business attitude. Taking the surprise in stride, the lich turned towards the portal,
+
+"Then let us be off. The first location shall be a popular hotel that housed gialgathens visiting Tholosa. It gives us space to hold many within its bowels."
+
+Schema's three warp specialists stood beside Torix and the portal. They used the portal layering technique to cross vast distances in seconds. A few minutes later, and the outline of Tholosa showed itself in our view. Another few warps and the city's details sprawled out in all their splendor.
+
+We were attacking at sunrise, the subtle orange light of dawn leaking over the shoreline. Like the rift, white sand contrasted the black stones nearby. Someone carried the white sand from a distant shore, most likely espen slaves from ages past.
+
+The signs of their laborers exposed themselves to other parts of the city as well. Tholosa was set up in two portions, like most of the other towns on Giess had been. The lower section of the metropolis was made of glass, crafted from gialgethens. Here the espens made their way, homes of a reasonable size set up for living space.
+
+Above them, an enormous cliffside housed many lounging spots for the gialgathens. They reinforced the cliffside with bars of steel, melted from the same fires that forged the glass homes below. This created a city of two parts, one for those that flew high and one for the espens below them.
+
+I didn't get to glance much longer as we warped onto the top part of that cliffside. It was barren, no living souls housed here. The sun baked this spot, making it too dry for a gialgathens comfort. They wouldn't let espens live above them either, whether literally or figuratively.
+
+Upon this vast plateau, Torix took a deep breath, ready for an immediate battle. One of the warp specialists did the same before casting her spell. I followed suit, clearing my mind of distractions. A moment later, one more gateway popped up, and the hotel's inner sanctum revealed itself.
+
+Torix, Hod, and I rushed in, ready to dismantle anyone here. No one was awake yet, however. This gave us some time to observe, and we found exotic seashells and trees decorating a marbled expanse. That's right, fully sized trees. The entrance was large enough for them.
+
+Luxurious carpets and banisters showed apparent wealth but also the ravages of war. The lights went out long ago, crushed portions of the floor remaining from a fight that took place weeks ago. The windows of the walls laid shattered on the floor, some blood intermingling with the shards.
+
+A few burn marks coated the walls and scarred the tapestries. Gialgathens fought here. The entirety of the building suited gialgathens with everything oversized for them. Of course, the building lacked simple stuff like water fountains and elevators. Instead, a massive vertical courtyard opened its way to the highest recesses of the building. If not for a lining of glass along the top of the building, our fight's sounds would've informed the soldiers nearby.
+
+The glass was there, however, along with several silencing spells cast by Torix. That worked perfectly for me since I didn't have to duck beneath the doorways. Some doorways weren't huge at the lower levels, these normal-sized spaces used to house espens. Torix pointed at these rooms and whispered,
+
+"Our scouts reported this is where they sleep. We'll be taking the rooms one at a time."
+
+Hod and I nodded, and the three of us walking through the lounge. I cast some antigravitational pads under my feet, making me weightless. This silenced the sound of my footsteps, which otherwise made booming thunks at all times.
+
+Along the corner of the hallway's entrance, some kind of leathery shell laid splintered about on the floor. I reached over, picking up a piece, and I found an oily texture smothering the spry husk.
+
+Torix shook his head with disgust while whispering,
+
+"I doubt the Adair family wished for it, but these soldiers smashed the gialgathen eggs stored here. A travesty."
+
+I turned to him,
+
+"Why would the gialgathens put their eggs in a hotel? Shouldn't they be in an incubator or something?"
+
+Torix shrugged, "Gialgathens are amphibious by nature. Tholosa was actually a beloved nursing spot for newly laid eggs. These shall not be the first nor the last we see of them."
+
+I frowned at the shell, but it didn't affect me much. At this point, I expected the genocide and mass murder. If anything, I was only numb. With that lack of feeling, I focused as we explored the inner sanctum of the hotel.
+
+I took a moment to familiarize myself with my surroundings. Honing in on the air currents, temperature, and subtle fluctuations in gravity. With a firm grip on the hotel's layout, we walked up to our first room to siege.
+
+As we did, a creaking door echoed along a hallway.  Someone was coming out. Torix turned towards the sound, his blue eyes flaring bright. Two espens wearing gas masks paced out of their hotel hideaway, fluorescent light pouring from their room.
+
+I waited for the lich to silence their minds, but Hod acted first. The Shadow Stalker dispersed into his surroundings, only his eyes visible among the dark. Hod closed his eyes. When he opened them, he did so across the room and behind the espens.
+
+His form coalesced from the surrounding shade. The soldiers turned towards us, wholly unaware of the monster behind them. Lines of shade traced across their bodies as they stared at us. Their expressions didn't shift, and both of them stood utterly still as if frozen in time.
+
+I tilted my head, expecting a scream or shout. Instead, they both fell apart, blood splattering from their wounds. The red carpet drenched with the sanguine fluid, clean cuts carving them into a dozen different segments. It reminded me of Althea's slicing, surgical, precise, yet wild.
+
+Hod once again closed his eyes, dispersing from behind them. Opening his eyes, Hod reappeared beside Torix and me. The entire time I didn't hear any of his movements, his sudden shifting unsettling even me. Torix gave the Eltari an approving nod before we moved deeper into the hotel.
+
+Our first room was how we took the rest of them. I reached for the doorknob, grabbing it to get an idea of how large it was. With a quick gravitational vortex on the other side of the door, I unlocked the latches. Torix cast silencing magic to mask the sound of the first doorway at the same time.
+
+Finding the group sleeping, I created a telepathic link with each mind present. Like a raging bull, I rushed in with a mental bombardment, splintering their drowsy minds. Torix came in right after, reorganizing their thoughts for our benefit. Hod stood by in case anything went wrong.
+
+This worked like a charm, letting us siege several dozen rooms. During those attacks, the espen's mental strength startled me. They withstood my psychic attacks better than I thought they should. After a few hallways, I created a telepathic link with the lich before thinking over,
+
+"Were the espens always this tough?"
+
+"I would say not. When we fought last, the grunts fell with relative ease. Though they're still amateurish, these soldiers strengthened their minds somewhat. The Adiars must be preparing them after our last onslaught."
+
+"Damn, that's a relief. I was worried I'd somehow gotten worse at mind magic as we practiced."
+
+"I wouldn't put it past you, given your lack of experience."
+
+"Thanks for the vote of confidence."
+
+After cutting that link, we moved through the first floor in this way before reaching the upper levels. Anytime someone walked out early, Hod handled them in an instant. Some of the rooms didn't just carry espens, however.
+
+Where the gialgathens would normally lounge, the Hybrids and the blighted stowed away. Even when kept under mental shackles, they didn't trust them enough to sleep near them. Personally, I'd do the same. Keeping an ample distance from those monstrosities would sit pretty high up on my to-do list.
+
+Despite the different opponents, we used the same strategies as before. They fell far easier to my mental attacks, so we gathered an ever-increasing force of psionically controlled soldiers. My psychic blasts tired me some, but it left Torix with more energy for controlling the weakened troops. This expanded his working army of mind-controlled soldiers. They assisted us with searching out resources for our own soldiers.
+
+Within an hour, we eliminated the armed forces here, turning them into our puppets. Gialgathens poured in through our portals, and we sent several Hybrids to lay mana bombs. We put the pieces in place for another swift victory before heading out to secure the other outposts for our attack.
+
+These points of control fell like those before them, our lich mentally crushing them into submission. The plan ran along smoothly as we put everything into place, readying another offensive. Minutes later, I positioned myself along the cliffside. My dark armor blended into the background, disguising me.
+
+I chose this position since the dreadnoughts all pointed at least one cannon at the tallest buildings across the city. It was a slight tactical adjustment from them, but it wasn't anything we couldn't work around. After setting myself up for a gravitational bombardment, we initiated our blitz on Tholosa.
+
+It crumbled like cinders on a windy plain.
+
+Our offense came crashing down with might and fury. The first blow struck with a cascade of singularities, umbral spheres forming across the dreadnoughts floating over the shoreline. Seconds after, the mana bombs detonated, unleashing elemental storms and devastation.
+
+The ascendant mana loaded within the bombs infected nearby espens. Driven to absolute rage and hunger, they tore one another apart. Others flooded with the quintessence, matter generating within them before popping them like swollen flesh balloons. Torix flew across the city, casting spell after spell.
+
+Shadow hands ripped out of the ground and pulled people under. Ice beetles injected cold into espens, freezing their blood. One espen's skeleton pulled itself out of the espen's body while it was still alive. Others stared out into an abyss, overwhelmed by the onslaught and carnage.
+
+These members made easy pickings for mental magic. Torix swooped in and evaporated the little mental fortitude they still had left. Their wills suppressed, these controlled members fought amongst the Adair Family's troops. A cannibalistic uprising formed, and they destroyed themselves.
+
+The dreadnoughts fell in much the same manner. Devastated by the singularities, they collapsed from the sky, their wings clipped. Once on the ground, we ran past them one by one, leaving the crew killed and the gialgathens saved.
+
+Well, the few gialgathens left. Most were turned, so killing them was the only option. That dirty work fell to me, my abilities well suited for it, though it was far from pleasant. Once we finished with the crew and the ground level troops, I helped heal with Kessiah and the others. It was a welcome reprieve from smashing test tubes before pulverizing whatever was inside them.
+
+Hod stayed in the front of the assault, using the shadows to warp around the battlefield. He pierced into the depths of each dreadnought, using the now darkened ships as effective slaughterhouses. Using his blackened claws, he tore apart their shadows. This cut apart the real person owning the shadow.
+
+It was surprising. By hitting the shadows, Hod ignored most of their defenses, and it enabled Hod's other abilities. He could also switch locations in an instant, making for an odd thing to watch. Most creature's blindspots resided where their shadows started and ended.
+
+He jumped between them, his fluidity and lack of hesitation, giving him lethal effectiveness. In many ways, it was inevitable that they would die when Hod popped up behind them.
+
+He seemed like an entirely different person, his methods ruthless and his mentality lacking mercy. Gone was the goofy guy and his surprising empathy. A cold-blooded killer took his place, and he stayed relentless in his pursuit. It unnerved me a bit, as I understood little about his abilities or motivations.
+
+Having a soldier that could switch on a dime like that, it was...strange.
+
+I put it on my to-do list to ask him about the personality shift. I ignored it before since I didn't think Hod was dangerous. He was a true threat now however, and dismissing a danger to my troops was irresponsible. I was a leader now. I had to make sure they were safe.
+
+In all honesty, I didn't like digging into the history of my allies. I knew what it was like to hide a piece of my past, and I respected them not wanting to talk about it. At the same time, that kind of personality shift would unsettle anyone, given how drastic it was.
+
+Either way, Hod proved useful as I expected. He was a vanguard of death, selecting the right targets at the right time. It was as if he saw through the enemies, and using that foresight, he crippled their defensive forces.
+
+That allowed Torix to collect far more substantial portions of their military under his wing. From ten thousand strong in the last battle to thirty thousand, Torix commanded a massive force. This caused utter havoc in the ranks of the Adair Family, and they shattered beneath the overwhelming pressure.
+
+That pressure crushed them far faster than I imagined it would. Within two hours, I gawked at a devastated cityscape. Orange and red pools intermingled in the ocean's water, a surreal sight. Without anyone left to oppose us, Torix forced enemy soldiers to slit their friend's throats.
+
+Torix explained that overwhelming someone's self-preservation was nearly impossible with mind magic. Making them kill, though? That was much simpler. If they culled each other and moved on, slaughtering them systematically wasn't so difficult.
+
+This left a bad taste in my mouth, though I understood precisely why the lich did it. Leaving enemies alive like this was a recipe for disaster. They might dissect our tactics, rejoin the Adiar's cause, or compel others to do the same. Still, it sickened me to kill them when they couldn't defend themselves like this. If anything, it made me glad I wasn't the best at mind magic.
+
+It might be better that way.
+
+My ethical dilemmas aside, we finished taking over Tholosa's troops, taking the gialgathens in after settling the battle. Torix handled the logistics while I gazed at the blood-soaked shoreline. Not long after, I found Krog doing the same, peering out at the distant sunset. I turned to the guy,
+
+"You look awful."
+
+Krog nodded, "You as well."
+
+I frowned, hoping to get a rise out of the gialgathen. Instead, we watched the waves wash away the blood of battle. I sighed,
+
+"Was it a tough fight?"
+
+"No. This was all too easy, like stealing candy from children and watching them weep. Battle without resistance is akin to a game with the winner decided. It loses its luster, and the game will no longer be played."
+
+I stared down, understanding him completely.
+
+Krog sighed, "This is no game, however...You know, many espens died in this place. Though Tholosa may seem like a tropical paradise, it was a dense slave center decades ago. Graveyards litter the surrounding plains, the slaves buried in mass when they died. Not even their gravestones remain. Do you know why?"
+
+I winced, not wanting to hear an answer, "Not really."
+
+"They have none. We didn't even think the espens worthy of a gravestone to cement their memories and legacies in this world. Slaves or not, they deserved better."
+
+"Damn. That's fucked up."
+
+Krog nodded slowly, "It's a grim reminder of what we did to them and their species. In many ways, I believe the evils we face today are a result of those acts. We face the sins of our forefathers. The price we pay for their misdeeds is in our blood, and that blood was paid in kind by the espens long ago."
+
+Krog shook his head, pushing himself back up onto his four feet, "In the end, they will never forgive us. From my recollection, my own soldiers will never let go of their hatred either. The cycle must end somewhere. Who shall end it, anyone may guess. I wish for those days to come soon, however."
+
+Krog's spill got me thinking. I didn't dwell on the espen's history. Considering what they went through, their hatred for the gialgathens was understandable. I wouldn't pretend like I could understand something like being enslaved, either. I imagined it was a humiliating, dehumanizing experience. My imagination could never simulate the real thing, however.
+
+The Adair family used that resentment along with Schema's indifference to gain control of the espens. That didn't justify what they were doing now, however. I stared at the sand, "I won't say I understand, but I agree with what you said about killing the defenseless. It feels awful."
+
+Krog turned towards Torix and Kessiah who tended to the cleansed gialgathens,
+
+"Yet we do what we must. Come, this is no time to regret war. We won the battle, and that is worth celebrating."
+
+I nodded, thinking about what he said. We passed up to the wounded gialgathens, the members already cleansed by me earlier. Torix turned towards me as he stared at the corpses along the sand,
+
+"Ah, Daniel, I wanted to ask you something."
+
+I raised my eyebrows, "Go ahead."
+
+"I could raise the corpses of our enemies and use them against the living. They would rot after a few days, but even their skeletons could be reanimated. Do you think this would be a good idea?"
+
+A glint showed itself in the necromancer's eye. Once an evil lich always an evil lich I supposed.
+
+I pursed my lips, "Wouldn't that ruin our guild's reputation?"
+
+Torix's shoulders drooped, "Bah, an old sorcerer can try."
+
+Kessiah smirked, "Told you he'd say no."
+
+I glanced at the cliffside, "Any ideas why Lehesion didn't show up or at least a few evolved Hybrids?"
+
+Torix raised a finger, "I timed our battle during a specific rebellion they planned on enacting today. Their attention split, we rushed in and used the opportunity."
+
+I nodded, "Good work."
+
+He shook his head, "You may thank Althea and Hod for that. Their intel is the only reason for our successes."
+
+Hod walked out of Torix's shadow, spectral mana ebbing from his shoulders,
+
+"Are we finished?"
+
+I gave him a curious glance before spreading my arms out, "Yeah, I think so. Everyone, you all did a great job. We'll be back before nightfall. Drinks are on me."
+
+That last line got a cheer from the group. As everybody walked off, I caught up with Hod. He stared at the sea, his eyes idle. I did the same,
+
+"I was actually going to ask you a few questions after the battle. Can we talk somewhere private?"
+
+The darkened energy saturating his frame faded, and the goofy, stringy Hod returned. He paced up with a few unsteady steps, "Hod not in trouble?"
+
+I shook my head, "Of course not. I just wanted to talk."
+
+"Hod not blame you. Hod pretty good talking partner. Hod so good at talking, Hod sometimes talk to Hod. Hod just that interesting."
+
+I pursed my lips, "Alright." I looked to Torix, "Let me know if you need me."
+
+Torix gave me a small yet respectful bow, "As you wish."
+
+I walked off with Hod before no one was around. I turned to him, meeting his eye,
+
+"We've known each other for a while. I've been wondering about a few quirks of yours for a while."
+
+Hod grabbed the side of his elbow, a bit of discomfort radiating from the birdman. I turned a palm to him, "Before battle, you saturate with mana, right?"
+
+Hod nodded, "Hod does. Hod psyche Hod up."
+
+"Yeah, you seem to change at that moment. Is there a reason?"
+
+Hod stared, his blank expression unreadable,
+
+"Hod think so."
+
+"Well, what's the reason?"
+
+"Hod let other Hod out."
+
+I let my arms flop against my sides,
+
+"Ah, so that's it."
+
+A second passed before I shook my head,
+
+"About that, mind telling me a bit more about other Hod?"
+
+Hod straightened up, "Other Hod rather not say."
+
+My eyes narrowed, "I need to know, so explain."
+
+Hod sighed, "Hod explain. Hod not know if Harbinger like Hod explanation."

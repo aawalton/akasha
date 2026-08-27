@@ -1,0 +1,117 @@
+---
+id: b925be3a-ac34-554d-9abd-48a2f39fcc5f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 625: Pawns"
+slug: 0094-chapter-625-pawns
+partOf: rise-of-the-living-forge
+position: 94
+ownLength: 1694
+unit: words
+publishedAt: 2026-08-03
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3763453/chapter-625-pawns"
+royalRoadId: "3763453"
+---
+
+The entire Menagerie got right to work. While Rodrick set about gathering those who hadn’t yet been Sunset to begin holding lessons to prepare them for the ordeal, Arwin was joined by Wallace and Koyu within the Infernal Armory. The building’s obsidian humanoid form was already waiting for them when they arrived.
+
+“Where do we begin?” the Armory asked before the back door had even closed before them.
+
+“Someone’s eager,” Wallace said with a chuckle.
+
+“It is rare that one has a chance to craft the weapons that will topple a kingdom,” the Infernal Armory replied. “This is what I was made for. Echoes of our name will be sung unto the next century and beyond. The slaughter will never be forgotten.”
+
+Arwin coughed. “Slaughter? Hold on there. I think you’re taking things a bit far. There isn’t going to be a slaughter.”
+
+“How do you expect to defeat the Guild?” The Armory asked. Obsidian ground against itself as it turned to send Arwin an incredulous look. “Do you think you will ask nicely and that they will simply step when you ask politely?”
+
+“Of course not,” Arwin said. “But slaughter is a very strong word. We’re not looking to murder people for the sake of it. Most of the Guild probably don’t even realize what it is they’re fighting to protect. They think they’re doing good. I certainly did.”
+
+“There are few things more dangerous than a deluded man with good intentions,” Koyu said quietly.
+
+“Don’t you join in,” Arwin snapped. “We’re ending the Guild’s reign. That doesn’t mean we have to kill literally everyone in our path. Just… just the ones that need killing.”
+
+“Which ones are those?” the Armory asked.
+
+Arwin’s eyes narrowed. “The ones that can’t accept the truth. Now get this place ready to work. More than killing, I’m concerned about protecting. I need our people safe.”
+
+“So who are we starting with this time?” Wallace asked. “We’re starting to run out of people who still need armor and who are likely to be anywhere near the fight. As nice as Monica is, I don’t think she’s quite at the level of skill that we need to fight the Guild.”
+
+“Raen would kill us if we brought his wife to whatever is waiting for us at the Guildwall,” Arwin said with a chuckle. “She’ll be staying to defend the street. Several people will be. We can’t let someone destroy our home while we’re gone. And we’ll use the same formula we have been. Anyone that needs and can get the most use out of a new set of armor is prioritized. Right now, our options are Vix, Art, Madiv, Vanessa, and technically speaking, Esmerelda, and Koyu. You too, Wallace.”
+
+“Not me. I’m not fighting shit. And certainly not Esmerelda,” Wallace said. “That old bag wouldn’t wear anything we make her. And I don’t even think she can be killed. She’s probably immortal.”
+
+“What makes you say that?” Koyu asked, sending a sharp look to the dwarf. “You believe Esmerelda to be some manner of Lich?”
+
+“What? No. She’s just an old asshole. You know how assholes are. They don’t die. It’s always the one you like the least that survives.”
+
+Koyu blinked. Then, to Arwin’s slight surprise, he let out a snort.
+
+“Right you are,” he said. “I would not object to my armor. But I do not believe it is necessary. Of all those listed, I am the hardest to injure. It will take a very, very powerful being to hurt me. And we have already proven that I am capable of leaving this street after my Sunsetting. A body… I still desire one. I have not forgotten our agreement, Arwin. But it is not the priority.”
+
+“What about something for Vix?” Wallace asked. He stroked his beard.  “She’s an assassin. That’s something you can use when you go trying to kill some mystery monster. Especially with that new heart of hers. Anna seems to think she’ll be capable of quite a bit. Wouldn’t hurt to make her something in the vein of Rodrick and Lillia’s armor so she can blend even better into the background.”
+
+Arwin started to nod. Then he paused and tilted his head to the side.
+
+“What are you thinking?” Koyu asked. “I recognize that look.”
+
+“What if we made armor for both Vix and Art?” Arwin mused.
+
+“Isn’t the point to make it for everyone?” Wallace asked.
+
+“Of course. But I don’t mean separately,” Arwin said. “Vix is a warlock, and Art is somehow her patron. That’s a pretty interconnected magic. And we did just recently figure out how to pull something like that off with the Beast. Why not use that new ability to make something that empowers them both at the same time? They’re already bound pretty close together. It’ll probably fit perfectly.”
+
+Koyu and Wallace exchanged a glance.
+
+Then they looked back to Arwin.
+
+“I’ll go get Ida,” Koyu said.
+
+***
+
+Alrich’s back hurt. His throat was dry. He’d been hunched over for too long, and the benefits of his padded chair had long since become distant memory with the posture he’d been keeping. But he couldn’t tear his eyes away from the model on the table before him.
+
+Lanternlight danced over the scale replica of the kingdom on his table. A droplet of sweat rolled down his forehead as his fingers dug into his hair and his teeth clenched. The model had changed more in the past week than it had in years. Hundreds of them.
+
+Fourteen cities had been razed.
+
+Bloodthirsted monsters had swept over nearly a quarter of the kingdom. He didn’t even know what the death count was yet. The other guilds had started to mobilize. They’d formed pockets of resistance and were already working to connect with each other.
+
+It hardly mattered. The damage was enormous. The center of the kingdom hadn’t suffered destruction like this since the whole war cycle had begun. Casualties had always been largely limited to the outermost sections of the kingdom. Panic was rife. He’d lost count of the number of messages begging for support the Guild had received.
+
+And he’d sent people out. Key locations had been defended. People believed that the Guild was rallying up troops to come defend them — fighting a war on two fronts. Only a few had started to throw blame their way. But it would only be a matter of time.
+
+It doesn’t matter. I can deal with that later. The rumors can be quelled when we have the room to deal with them. It will be simple for the Secret Eye to go out on a few missions and remove the most problematic individuals. What we need now is to carve out and replace the weakness in our foundations before everything comes crumbling down.
+
+The droplet of sweat on his forehead traced its way down the side of his face to bead on his chin. It dripped to splatter against the edge of kingdom’s model. Alric’s hands tightened until his nails bit into the beds of his palms.
+
+All this damage… all the fear and disruption… and it still isn’t enough. The guilds have gotten more powerful than I thought. They’ve fended off the Dungeon Breaks very efficiently. I expected twice this level of destruction. What has the Secret Eye been doing? What happened to their rankings? They were supposed to be keeping tabs on the kingdom to make sure nobody got this powerful. That’s the whole reason we implemented the ranking system.
+
+There was only one obvious answer. The strength of the adventurers in the kingdom had grown more than expected. People were, on average, just more powerful than they had been in the past. The 100th strongest guild now could have been equivalent to the 50th in the past.
+
+Alrich forced a hand to open and ran it through his hair. Several strands came free to drift down to the table around him. He ignored them. Something had to be done. Right now, the best result he could picture was a shaky tower of cards. Even if they managed to re-gain order flawlessly, it wouldn’t work so well the second time around.
+
+People would speak. Rumor would spread. Suspicion would eventually find its way onto their shoulders. And if the entire kingdom turned against them…
+
+Alrich shuddered. Even if the Guildmaster finally emerged, they would fall. That couldn’t be allowed to happen. The Guild had held for this long. It would continue to endure. To protect the common folk from themselves. People were fools. They couldn’t be trusted with their own lives.
+
+That was why the Guild needed this power.
+
+That was why the Guild needed him.
+
+The Deepmind had already given him a suggestion some time ago. It had warned him that this would happen. He’d hoped that things would play out differently. But now it was clear that there wasn’t any other choice.
+
+They needed more control.
+
+A lot more.
+
+Alrich swallowed. He stared down at the model of the kingdom for several more seconds.
+
+Then he pushed his chair back and rose to his feet. The kingdom needed to remain distracted for a few weeks longer. Just enough for the Guild to sweep the last of their problems under the rug and show everyone that they were still in control.
+
+There would have to be a lot of deaths. Enough to justify the Guild’s lack of a response to the Dungeon Breaks. A war would have to end as well. The people would need good news, after all. A demon queen had to fall — and a hero had to be dealt with.
+
+There was a pit somewhere deep in his stomach. He ignored it. His own feelings didn’t matter in this situation. It wasn’t like he hadn’t already done worse. It would take at least a week for their forces to move into where he needed them to be.
+
+This was for the sake of the entire kingdom. For the sake of the future. For the sake of the cycle.
+
+And if a few more pawns had to die to protect that… then so be it.

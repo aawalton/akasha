@@ -1,0 +1,255 @@
+---
+id: 30e275c3-0423-56d6-bb5d-85abd8f3a6f2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 91: The Royal Taster"
+slug: 0092-chapter-91-the-royal-taster
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 92
+ownLength: 2514
+unit: words
+publishedAt: 2026-07-14
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3677180/chapter-91-the-royal-taster"
+royalRoadId: "3677180"
+---
+
+The fanfare for the Royal Taster bordered on the absurd.
+
+It started an hour early. Royal Ushers marched down the coastal road in scarlet and gold liveries. They stomped in a synchronized rhythm, clearing the path with aggressive efficiency.
+
+City guards shoved merchants into the gutters. They forcibly emptied the cobblestone road leading from the inner nobility district to Ren’s seaside property.
+
+Finally, the main procession rolled into view.
+
+The Royal Guards formed the vanguard, wearing gaudy armor. Heavy, gold-plated cuirasses were bolted directly over boiled red leather. The volume of gold plating on their breastplates denoted rank within the order. The captain, riding at the front, looked like he was wearing a bank vault.
+
+The carriage behind them dripped with gold leaf. Carved, twisting vines caught the afternoon sun, turning the vehicle into a rolling hazard.
+
+Ren, flanked by Sylas and Mira, waited at the wrought-iron gates of the estate.
+
+I monitored the scene through Ren's eyes. The overwhelming pageantry dedicated to a man whose sole job description involved tasting food for poison before the King ate it felt maddeningly inefficient.
+
+The Taster brought his own Assistant Tasters. Two pale, nervous-looking men rode on the back of the carriage. Their only job, according to Caladorel’s briefing, was to taste the food before the Royal Taster ate it. An endless nesting doll of bureaucratic paranoia.
+
+Lord Farhos descended the velvet-lined steps. A thin, pinched man, he wore a powdered wig standing three inches too high and a velvet coat trimmed with ermine. His upper lip curled into a distinct sneer as he surveyed the estate.
+
+"Lord Fenris," Farhos drawled, his voice a nasal whine. He offered no bow. "I am here."
+
+"Welcome to the Seaside Inn, Lord Farhos," Ren said, sweeping his arm toward the restaurant. "We are honored by your presence."
+
+Farhos sniffed. "We shall see. The King's palate is refined. He shuns shacks."
+
+He gestured vaguely at the massive, expertly crafted three-story timber and stone building.
+
+I felt a spike of irritation ping against my core processors.
+
+I was inches away from spending the 5,000 SPP needed to manifest Korgi right now. I will have that fuzzy minotaur pummel this powdered dandy into meat paste.
+
+Ren kept his smile plastered in place. "I assure you, My Lord, the accommodations are adequate."
+
+Farhos bypassed the kitchen entirely. He started his inspection with the walls. He ran a white-gloved finger along the polished mahogany wainscoting in the dining room, hunting for dust. Finding none, his scowl deepened.
+
+"Show me the storage," Farhos demanded.
+
+Ren led him to the cellars. Farhos glared at the massive saltwater tanks holding the King Crabs.
+
+"Vermin," Farhos muttered, tapping the thick glass with his cane. "You expect His Majesty to consume bottom-feeders?"
+
+"I expect His Majesty to enjoy the finest culinary experience of his reign," Ren replied smoothly.
+
+Farhos turned his sharp, rat-like eyes on Ren. "We require a full inspection of the premises. Every nook. Every cranny. The King's safety is paramount. The environment in which the chef lives directly impacts the humors of the food. I must inspect your personal mansion."
+
+My digital hackles raised instantly.
+
+He wanted to inspect the main house. The house where Lily currently played with her wooden blocks, guarded by an anxious elven staff and three mythical wolves.
+
+Oh, absolutely not. You are not laying your grubby, powdered eyes on my little angel.
+
+Ren's casual, polite facade cracked. He had let the insults to his food and status slide. Demanding access to his private home crossed a hard line.
+
+His jaw tightened. The muscles in his neck jumped.
+
+Sylas stepped forward. His hand slipped inside his coat, resting near his hidden dagger. Kaelthos shifted his weight by the kitchen door, eyes locking onto the gold-plated guards outside. The staff was ready to commit treason right here in the hallway.
+
+Fifty Royal Guards surrounded the building. Fighting the Crown's direct representative in broad daylight guaranteed suicide.
+
+[Ana: Ren. Stop. Breathe. Look at his pulse. Look at his sweat glands. He's nervous. He's pushing an agenda. Caladorel warned us about this.]
+
+The realization clicked in Ren’s mind. Caladorel’s warning from last night echoed in his ears: Lord Greenwood offered Farhos the deed to an entire unregistered elven village in the northern mountains in exchange for failing you. He will try to find any excuse to sabotage the inspection.
+
+Farhos actively hunted for leverage. He wanted the secret Greenwood's spy had died trying to sell.
+
+"The personal mansion is currently undergoing magical fumigation," Ren lied. His voice dropped into a cold, flat register. "To eliminate sea-mites. It is highly toxic. Opening the doors would violate safety protocols established by the Mages' Guild. I wouldn't want you, or your esteemed guards, to suffer respiratory failure."
+
+Farhos’s eyes narrowed, recognizing a closed door. He tapped his cane against the floorbars.
+
+"Very well. The kitchen, then. Let us see if your skills match your arrogance."
+
+The tasting began in the main dining room.
+
+Farhos sat at the head of the long mahogany table. His two Assistant Tasters stood behind his chair like nervous statues. Ren stood near the kitchen doors.
+
+A maid brought out the first course. The Ocean Pearl.
+
+A single, perfectly translucent slice of raw scallop rested on a chilled slate tile. A drop of dark blackberry vinegar sat in the center alongside one grain of coarse sea salt.
+
+Farhos stared at it, his lip curling in disgust. "Raw? You serve the King raw fish? Have you lost your mind?"
+
+"It is an amuse-bouche," Ren said calmly. "It awakens the palate."
+
+Farhos scoffed and snapped his fingers. One of the Assistant Tasters stepped forward, picking up the slate tile with trembling hands. He squeezed his eyes shut and slurped the scallop into his mouth.
+
+He chewed.
+
+The young assistant's eyes snapped open. He gasped, grabbing the edge of the table to steady himself.
+
+His reaction bypassed language entirely.
+
+The sharp acidity of the blackberry vinegar hit his tongue like a lightning bolt. The clean, sweet, oceanic brine of the raw scallop followed immediately. The single grain of salt crunched between his teeth, amplifying the flavors exponentially.
+
+The assistant swayed on his feet. The dark, oppressive dining room vanished from his mind's eye. He stood on a pristine, white-sand beach. A cool, salty breeze whipped through his hair. The spray of the ocean hit his face. A sudden, inexplicable urge to strip off his heavy, restrictive uniform and run naked into the surf washed over him.
+
+He slumped against the wall, sliding down to the floor, panting heavily. A look of euphoric bliss plastered across his flushed face.
+
+"By the Gods," the assistant whispered, staring blankly at the ceiling. "The sea... it calls to me."
+
+Farhos looked at his assistant, horrified. "What is wrong with him? Is he poisoned? Guards!"
+
+"He is experiencing flavor," Ren said dryly. "It overwhelms beginners."
+
+Farhos glared at Ren. He picked up his own silver fork, stabbed a second slice of scallop from a backup tile, and shoved it into his mouth. He chewed aggressively, determined to hate it.
+
+The acidity hit him.
+
+Farhos froze. The sneer slid off his face, replaced by absolute, terrifying confusion.
+
+The vinegar stripped away the heavy, greasy residue of a lifetime of lard-cooked banquets. It scrubbed his palate clean. The sweetness of the scallop bloomed.
+
+Farhos gripped the edge of the table. The heavy, gold-trimmed velvet of his coat suddenly felt suffocating. A phantom sensation of weightlessness took over. He floated. He felt like a majestic seagull soaring high above the clouds, catching the thermal updrafts, totally free from the oppressive, crushing bureaucracy of the royal court.
+
+He let out a loud, undignified squawk.
+
+He clamped his hands over his mouth, his face turning a vibrant shade of crimson. He looked wildly around the room, terrified someone had heard him.
+
+"Next course," Farhos managed to choke out, his voice trembling.
+
+The Butter-Poached King Crab arrived.
+
+The massive chunk of pristine white meat rested delicately on a crispy, golden-brown cracker made of its own ground shell. It swam in a small pool of clarified butter infused with garlic and lemon.
+
+Farhos bypassed the assistant entirely, chasing the high.
+
+He grabbed the crab meat with his bare hands, abandoning his fork. He shoved the entire piece into his mouth.
+
+The crunch of the tuile cracker gave way to the soft, yielding texture of the poached meat. The rich, heavy warmth of the garlic butter coated his tongue, perfectly balanced by the sharp, bright cut of the lemon juice.
+
+Farhos's eyes rolled completely back in his head.
+
+He slammed both hands flat onto the mahogany table.
+
+He ascended from seagull to Emperor. He sat on a throne made of solid gold, surveying a kingdom of pure, unending luxury. Beautiful maidens fanned him with palm fronds. Rivers of melted butter flowed through the streets. A surge of arrogant, undeniable power coursed through his veins. The sheer, concentrated richness of the dish injected a mainline of dopamine straight into his brainstem.
+
+"Greenwood is a fool," Farhos blurted out, his voice booming across the dining room, completely devoid of his usual nasal whine.
+
+The room went dead silent.
+
+Sylas stiffened. Ren’s eyes narrowed.
+
+The culinary euphoria severed the connection between his brain and his mouth. The truth spilled out of him in a tidal wave of buttery ecstasy.
+
+"A village!" Farhos shouted, throwing his arms wide, tears streaming down his face. "He offered me a miserable, freezing elven village in the north to fail you! He told me to say the food tasted like dirt! This is the nectar of the heavens! Greenwood is a moron who eats stale grain! He knows nothing of true power!"
+
+He grabbed the empty slate tile and licked the remaining drops of garlic butter off the cold stone.
+
+"I demand this every day! I demand you feed me until I burst!"
+
+The Royal Guards standing by the door shifted uncomfortably, exchanging panicked, confused looks. Their commander, the man with the bank vault on his chest, coughed awkwardly.
+
+"My Lord Farhos?" the commander asked hesitantly.
+
+Farhos snapped back to reality. He blinked, looking around the room. He realized he was licking a piece of slate. He realized he had just confessed to accepting a massive bribe and conspiring against a newly minted noble in front of twenty witnesses.
+
+He dropped the slate tile. It shattered on the floorboards.
+
+He looked at Ren. The sneer and arrogance had completely vanished. He looked at Ren like a fanatic looking at a prophet.
+
+"The main course," Farhos gasped, his hands trembling as he reached for a napkin. "Bring me the main course. Now."
+
+Ren smiled, a cold, sharp expression.
+
+"Sylas," Ren said, keeping his eyes locked on the sweaty, weeping Royal Taster. "Bring out the Wellington."
+
+The Beef Wellington arrived on a silver platter. The puff pastry was baked to a perfect, deep golden brown. The crosshatch scoring on top was crisp and defined.
+
+Ren stepped forward, taking a long, serrated carving knife from Sylas.
+
+He sliced the Wellington right down the middle.
+
+The pastry gave way with a loud, satisfying crack. The earthy, intense aroma of the mushroom duxelles mixed with the salty tang of the Axe-Beak bacon, exploding outward.
+
+The center of the tenderloin was a flawless, edge-to-edge ruby pink. The juices, trapped by the kelp and the bacon, flooded out, staining the bottom of the pastry crust.
+
+Ren plated a thick slice. He ladled the dark, glossy, MSG-fortified demi-glace over the top. The sauce clung to the meat like syrup.
+
+He set the plate in front of Farhos.
+
+The Royal Taster picked up his knife and fork with shaking hands. He cut a piece, ensuring he had a perfect bite: crisp pastry, salty bacon, earthy mushrooms, and the tender, sauce-drenched beef.
+
+He put it in his mouth.
+
+Farhos stopped moving entirely.
+
+A new hallucination took hold. He was a child again.
+
+He sat by the hearth in his mother's kitchen on a cold winter night. The fire roared. His mother, long dead, smiled at him, handing him a bowl of warm, rich stew. He felt safe. He felt loved. A crushing ache of nostalgia washed over him, something he hadn't experienced in fifty years of navigating the cutthroat politics of the Royal Court.
+
+The MSG in the demi-glace hijacked his neural pathways, triggering a flood of serotonin and glutamate receptors. The flavor struck directly at the heart.
+
+Farhos dropped his fork. It clattered against the plate.
+
+He buried his face in his hands and began to sob. He wept openly, his shoulders heaving, his powdered wig slipping slightly askew.
+
+The Assistant Tasters rushed forward in a panic, trying to comfort him. Farhos swatted them away with a violent backhand.
+
+He looked up at Ren, his face a ruined mess of tears and runny makeup.
+
+"You," Farhos choked out, pointing a trembling finger at Ren. "You are a sorcerer."
+
+He stood up, pushing his chair back so violently it tipped over and crashed to the floor.
+
+"A master of the dark arts!" Farhos proclaimed, his voice echoing in the silent dining room. "You have bottled happiness! You have cooked joy itself!"
+
+He grabbed the edge of the table, leaning toward Ren.
+
+"The King must taste this. He must. If I deny him this, I am committing treason against his palate."
+
+Farhos spun around to face the stunned Royal Guards.
+
+"Hear me!" Farhos bellowed, waving his arms. "Lord Ren Fenris is a culinary genius! He is a maestro! A legend! I declare this establishment the finest in the Kingdom of Dolaria! I will personally carry the seal here myself!"
+
+He turned back to Ren, grabbing his hands and shaking them violently.
+
+"When can you cook for His Majesty? Tomorrow? Next week? Name your price! I will give you my estate! I will give you my carriage!"
+
+Ren gently extracted his hands from the weeping man's grip.
+
+"Next week will be fine, Lord Farhos," Ren said, maintaining his professional composure despite the absolute absurdity of the situation. "We will need time to prepare."
+
+"Yes! Yes, of course!" Farhos nodded frantically, wiping his nose on his expensive silk sleeve. "Take all the time you need! Just promise me you'll save me a slice of the pastry meat."
+
+"I promise," Ren said.
+
+Farhos stumbled toward the door, supported by his bewildered assistants. He paused at the threshold, looking back at the kitchen doors with absolute reverence.
+
+"A master," Farhos whispered to himself as the guards escorted him out to the blindingly gold carriage. "A true master."
+
+The heavy oak doors of the inn closed behind him.
+
+The dining room descended into a stunned, ringing silence.
+
+Sylas adjusted his glasses. He looked down at the shattered slate tile on the floor, then at the half-eaten Beef Wellington.
+
+"Well," Sylas said dryly. "I believe the inspection was a success, My Lord."
+
+Ren slumped against the edge of the table, letting out a long, exhausted breath.
+
+"Yeah," Ren said, rubbing his eyes. "We passed. Get a mop, Sylas. The Royal Taster drooled on the floorboards."

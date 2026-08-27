@@ -1,0 +1,103 @@
+---
+id: 20527dc4-3fa7-5c63-8cde-7133ab101af6
+page-type-slug: story-read-royal-road
+title: "The Path of Ascension"
+slug: the-path-of-ascension
+world: the-path-of-ascension
+unit: words
+author: "C_Mantis"
+rank: a-rank
+following: true
+royalRoadTags:
+  - "LitRPG"
+  - "Progression"
+  - "Cultivation"
+  - "Male Lead"
+  - "Strong Lead"
+  - "Action"
+  - "Adventure"
+  - "Fantasy"
+  - "Dungeon Crawler"
+  - "High Fantasy"
+  - "Local Protagonist"
+  - "Magic"
+  - "Magitech"
+  - "Martial Arts"
+  - "Soft Sci-fi"
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension"
+royalRoadId: "40920"
+---
+
+The Path of Ascension has moved to Kindle Unlimited (Chapters 5-41 removed). Here it is on Amazon and Audible.
+
+The Path of Ascension book 2 has moved to Kindle Unlimited (Chapters 45-72 removed). Here it is on Amazon and Audible.
+
+The Path of Ascension book 3 has moved to Kindle Unlimited (Chapters 75-105 removed). Here it is on Amazon and Audible. 
+
+The Path of Ascension book 4 has moved to Kindle Unlimited (Chapters 107-129 removed). Here it is on Amazon and Audible
+
+The Path of Ascension book 5 has moved to Kindle Unlimited (Chapters 132-168 removed). Here it is on Amazon and Audible.
+
+The Path of Ascension book 6 has moved to Kindle Unlimited (Chapters 172-196 removed). Here it is on Amazon and Audible.
+
+The Path of Ascension book 7 has moved to Kindle Unlimited (Chapters 199-212 removed). Here it is on Amazon and Audible. 
+
+The Path of Ascension book 8 has moved to Kindle Unlimited (Chapters 215-246 removed). Here it is on Amazon and Audible.
+
+The Path of Ascension book 9 has moved to Kindle Unlimited (Chapters 247-277 removed). Here it is on Amazon and Audible. 
+
+The Path of Ascension book 10 has moved to Kindle Unlimited (Chapters 278-310 removed). Here it is on Amazon and Audible. 
+
+The Path of Ascension BOOK 11 has moved to Kindle Unlimited (Chapters 312-341 removed). Here it is on Amazon and Audible.
+
+Here it is on Amazon and Audible. (Links will be updated when they aren't broken any more) The rest of the story will continue here worry not.
+
+Discord link: https://discord.gg/6ukhCjayC5
+
+***
+
+The story follows Matt, a young man planning to delve the rifts responsible for the monsters that destroyed his city and killed his parents. His dreams are crushed when his Tier 1 Talent is rated as detrimental, and no guild or group will take him.
+
+Working at a nearby inn, he meets a mysterious and powerful couple. They give him a chance to join The Path of Ascension, an empire wide race to ascend the Tiers and become living legends.
+
+With their recommendation and a stolen skill, Matt begins his journey to the peak of power.
+
+***
+
+Chapters will now be MONDAY and FRIDAY AT 3:00pm EST.
+
+ 
+
+This is a mix between LitRPG and Xianxia. It's like a car that looks like a LitRPG with dungeons and skills, but the interior and engine are all Xianxia. 
+
+So no blue boxes and clicking +’s to get stronger.
+
+***
+
+What you won't see in this novel:
+
+Bland protagonists.
+
+Bland love interests that immediately fall in love with the MC.
+
+Murder hobos who kill entire families and clans for looking the wrong way at somebody.
+
+Pacifist MC’s who wouldn't kill a single person to save millions.
+
+Cartoonish villains who are bad just to be bad.
+
+***
+
+What to expect:
+
+A MC who acts rationally.
+
+World building that has more depth than ‘strong people 'stronk'. There will be no rules only benefiting the strong and no rule changes as they see fit. 
+
+An empire that actually cares for its citizens.
+
+People who act and talk like real people.
+
+A magic system and progression system that are logically and internally consistent.
+
+Realistic fight scenes.

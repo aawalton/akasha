@@ -1,0 +1,219 @@
+---
+id: 49d8b9b1-fffe-5a64-814d-3b69b08e3b78
+page-type-slug: story-chapter-royal-road
+title: "Chapter 76: A Poem"
+slug: 0076-chapter-76-a-poem
+partOf: phoenix-ascension-cultivation-litrpg
+position: 76
+ownLength: 2656
+unit: words
+publishedAt: 2026-01-18
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2953557/chapter-76-a-poem"
+royalRoadId: "2953557"
+---
+
+Finding my way to the auction house was rather annoying, but what was even more annoying was having Yo Na follow me everywhere. I went to check up on the siblings, and noted that Shu Xu Ning’s cultivation had risen by a little once again, while her big brother’s condition had somewhat stabilised.
+
+He was still looking rather weak, but he wasn’t in a situation where he would die if a gust of wind blew past him. No doubt his little sister was helping him every day.
+
+I entered without knocking, thankful that few people were awake so early in the morning. However, that didn’t change the fact that Yo Na grabbed everyone’s attention wherever we went.
+
+And for good reason, no doubt, but it was still annoying!
+
+When we entered the house, safe to say that both the Shu siblings were stunned. They looked at me, then at Yo Na, then back at me, and the little girl had to rub her eyes, perhaps to check that she wasn’t seeing double.
+
+“How have you two been?” I asked as nicely as I could, trying to break the awkward atmosphere.
+
+Shu Xu Ning looked at me, stunned, then replied, “Miss Fire Bi- err, Miss Immortal, I’ve had great progress with my cultivation! Big brother tells me I’m very talented.”
+
+“Is that so?” I glanced at Shu Wao Tu, and he nodded, though his expression was a little bitter. “I’m sure he was also very talented before.” At that, he winced, but said nothing.
+
+His expression fell on Yo Na, instead, who wore the best poker face I’d ever seen. I explained the situation to her before going into the village and forbade her from talking until she learned how the human mouth functions.
+
+Otherwise, she would meow and hiss, and I didn’t need that. Teaching her to walk on two legs was already difficult enough.
+
+Perfect Disguise was truly a powerful skill, albeit a little hard to use. It wasn’t nearly as good as a true flesh-and-blood body, but as long as we were careful, we ought to be fine.
+
+It wasn’t like awfully powerful people would be present in the Hu Village, right?
+
+Either way, it took Yo Na a good while to get used to walking on two legs, but she managed to do a semi-decent job.
+
+She knew about the siblings and how she should act around them, and I trusted her to behave. They were children, after all.
+
+“Have you been taking care of your brother?”
+
+“I have!” Shu Xu Ning jumped up and down while explaining. “Every day I took care of the bad Qi in his body, and he has managed to get out of bed as well; it seems like he’s feeling better.” Then she stopped, and looked up at me, tears swelling in her eyes. “Miss Immortal, thank you. Thank you so much…” She sobbed softly, wiping away the liquid dripping down her cheeks. “I can’t believe big brother…”
+
+“Hush there, it’s alright…” I patted her small head and reassured the young girl, though I couldn’t help but notice Yo Na’s suspicious side eye.
+
+Have you never interacted with a child before?
+
+I cleared my throat and decided to get to business. “I’m going to attend the auction, and came here to check up on you. Now that I know the two of you are unharmed, I can rest easy.”
+
+Shu Wao Tu worried me the most, considering his less-than-ideal situation. Unrefined Qi combined with the poisonous substance from the pill would make anyone want to lie down and rest. I was honestly surprised he still looked so energetic, and his mind must be racing with thoughts about everything going on.
+
+He, someone who had no doubt been talented, got cripped, lost his family fortune, and now his younger sister was rushing through cultivation stages like they were nothing. Anyone in his position would undoubtedly feel like shit, to put it bluntly.
+
+However, it looked like he truly cared and loved his younger sister and would do anything to protect her. Even if right now, he is the one being protected by her.
+
+Speaking of, I’ve just remembered the other reason I came to visit them. I looked at the little girl, who’d finished wiping the tears off her cheeks.
+
+“Is it safe to assume you are still at the first stage of Qi Condensation?” I could have checked her myself, of course, but gradually building up the reveal would definitely be better.
+
+She nodded. “But I can feel myself reaching a point… my brother called it a neck… neck something.”
+
+“A bottleneck.” He corrected,  his voice hoarse.
+
+“Yes, that.”
+
+A bottleneck already, but she just started cultivating. How could she reach the second stage so soon? Could it be that the Lightning Type constitution, paired with the cultivation technique I gave her, had such massive effects? By all means, that’s… awesome, and scary. With a good teacher, I’ve no doubt that she can become a fearsome cultivator in the future.
+
+Looking at the little girl, her potential was terrifying in more ways than one. If she could defeat the stepping stone that’s Chiao Gu, then her future would be boundless. Which led me to my next point.
+
+“Good… because you will have to fight that ciao gu guy.”
+
+“...What?”
+
+She looked at me with as much shock as she did fear. Yes, the buildup was only one question, but it was better than no question, right?
+
+“How?” Shu Wao Tu managed to ask, but that was as much as he could muster.
+
+“Well…” Now came the explanation part, but did I really have to explain myself to children? They didn’t need to know I threatened a guy after breaking into his home, all while using a fake identity. “I struck a deal with them, and if you win, Chiao Gu will personally hand over the pill to your big brother. Isn’t that great?”
+
+“That’s… that is great, but Chiao Gu is much stronger than me, so how…?”
+
+“Well, you can use that to your advantage. Cultivate diligently and get as strong as possible, then take him by surprise and finish him off in one fell swoop. Easy, right?”
+
+“Easy…” Shu Xu Ning looked like she was on the brink of tears, and her big brother’s face changed from a pained, deadpan expression to a pained, worried expression. I did feel sorry for them, but the quest specifically said that Chiao Gu needed to return the pill.
+
+[Quest]
+
+[Get Chiao Gu to return the pill, save Shu Xu’s big brother, and help heal him.]
+
+[Rewards: 5 Medium Spirit Stones; Reading Skill; 2 Mystery Pills;]
+
+[Bonus rewards based on completion percentage are awardable.]
+
+It was an incredibly annoying condition, but what choice did I have? I wasn’t sure what saving I needed to do, but he’s currently being healed, and once I purchase a Body Cleansing pill or two.
+
+The auction opened a lot of opportunities for me to help the siblings get stronger, and I was fully intending on using every little bit of help I could. Shu Wao Tu would have to wait until Shu Xu Ning defeated Chiao Gu, but afterwards everything should go smoothly…
+
+As long as they leave the city. I didn’t believe that the Chiao clan would let them live freely after this incident, but they would figure it out eventually. If not, I could just tell them to turn tail and flee some other time until they were strong enough to flatten the ground with even the patriarch of the clan.
+
+However, that would not be any time soon.
+
+“The duel will take place tomorrow or the day after. I don’t know for sure… I might have neglected to mention, but someone should come pick you up when it’s time.”
+
+Hearing that, Shu Wao Tu’s expression turned to one of helplessness, and Shu Xu Ning stared at me with a blank expression.
+
+I know, but… It’s not my fault! Well, maybe a little, I should have talked out the details more with Chiao Zhen, but he’s a smart man, he’ll figure it out.
+
+Then again, defeating the Fourth Stage of Qi Condensation Chiao Gu as a barely First Stage would not be easy. And for that reason, I decided to give Shu Xu Ning the core of the thunder beast I killed.
+
+While it could potentially serve me well, she needed it more than me, and I doubted she could use it all. Though I wasn’t sure how humans used the cores.
+
+I took it out of my sleeves and showed it to the two, and even Yo Na was a little surprised upon seeing it. She didn’t know I had it, as I flew back to my cave and returned with it while she was figuring out the whole walking thing.
+
+“A Spirit Beast Core?” Shu Wao Tu said as his eyes widened, and it looked like he was close to getting on his feet and coming to take a closer look. He didn’t, in the end, and could only lower his head in understanding.
+
+“Indeed. I got it from one I hunted, and it happened to be one that specialised in lightning. I must be a magnet for those things since my life all but revolved around lightning lately. But… It’s working out quite well. Here.”
+
+I handed it to the little girl, who grabbed it with both hands. It looked quite tiny in her possession, and maybe it was, but that was something else altogether. “Use it well, we’re heading to the auction now.”
+
+“The… auction?” Shu Xu Ning asked, torn between looking at me and the core. “Could I… come with?”
+
+I couldn’t help but raise an eyebrow at that. Why would she want to come? I didn’t mind, but I felt like she had better things to do than waste precious time there.
+
+She must have understood my brief silence, as she quickly added, “Just for the first part. I’ve never been and… I feel like with you, there's no one who will dare bully me.”
+
+“Are you sure? I feel like you could use the time to cultivate.”
+
+“I… Maybe a short break will do me good, and then I could better focus on absorbing the core, right?”
+
+What she said did make sense. Cultivating for so long would be difficult even for the most talented of children. Her argument was sound, but what worried me the most was leaving her brother alone.
+
+“I’ll be fine.” He said, almost as if sensing my worries. “She should go and expand her horizons.”
+
+That was all he said, but I could tell even that much was incredibly painful. Whatever poison pill he ate must be having an incredibly bad effect on his body.
+
+His assurance wasn’t exactly… assuring, though. However, between his conceded gaze and the girls’ excitement, it was really, really, really hard to refuse.
+
+“Please, Miss Immortal.”
+
+I looked at Yo Na, begging her for help, but all she did was cross her arms and give me a ‘This is your mess’ look.
+
+I tried looking away from Shu Xu Ning’s face, but something about her was just too cute and too impossible to refuse.
+
+So in the end, she came with us to the auction.
+
+***
+
+Shu Wao Tu sat on the bed, his lifeless expression watching the two immortals— He’d assumed the beautiful woman with long, luscious black hair was an immortal as well— leave with his little sister.
+
+She took the core with them, and he was left alone in the depressing room he’d spent most of the latter years of his life. He’d gotten sick and tired of it, and having to rely on the little sister he was supposed to protect.
+
+How long am I going to brood like this?
+
+So what if he was a cripple? So what if his body ached every time he moved? So what if he wanted to give it all up and just die?
+
+He couldn’t.
+
+Not until he got revenge for his father and for his mother, for all the pain the Chiao family had put them through, and not until he was sure his little sister could live a good life.
+
+Truthfully, he didn’t want her to be a cultivator. Talented as she was, he knew what cultivation meant; he knew how painful it would be, and how much danger she’d be in. Yet, as much as he wanted to shelter her, fate had other plans.
+
+He wasn’t mad or sad. Envious? Definitely. Worried? More than ever. However, what could he do?
+
+Shu Wao Tu knew that the immortal would take good care of his sister, even if he were to disappear. He could see the unnatural care in her eyes and the worry she held for the little girl. As for why, he could hardly say. He hadn’t seen such a look in anyone’s eyes ever since his mother passed away all those years ago.
+
+He still remembered her. Black hair that reached halfway down her back, beautiful brown eyes, a smile that always assured him that everything would be alright, and an angelic voice that calmed him down through any and all storms.
+
+She used to sing a song to him and the baby, Shu Xu Ning. He had never understood the lyrics, not until he was older at least.
+
+Small be thy land, yet grand be thy heart
+
+My little hero, give me your hand
+
+Hold it dear, don’t let go
+
+Mom will help, mom will protect
+
+Though ages pass, I may yet be
+
+Just hold on dear to me
+
+Never forget, but yet forgive
+
+For I may not be long
+
+Hold my hand, and feel my breath
+
+Feel your sister’s too
+
+Her tiny heart, a hero beats
+
+And shine as bright as stars
+
+Tears swelled up in the corner of his eye as he remembered the lyrics and her singing voice on the terrace where they often stood.  The sun shone brightly more often than not, and the wind made the grass softly bend.
+
+Those details remained vivid in his mind, and as he wiped away the swelling tears, a resolute look appeared in his eyes.
+
+He moved, slowly, and painfully, weakly pushing away the blanket that felt much heavier than it had any right to be.
+
+When he reached the edge, he tried to step on the floor, but his legs were so weak that he fell instead. His forehead hit the ground with a thud. Despite that, he struggled to push himself up, even that little amount of strain making him feel like his muscles were begging for death.
+
+I can’t allow Shu Xao Ning to fight that bastard. She… will not win. She’s never punched anything before, how can she—
+
+He coughed up blood, his mind turning foggy. The image of his little sister lying on the floor appeared in his mind, though, and that gave him just enough will to lift himself up with a sort of herculean strength that even he didn’t know he had.
+
+Shu Wao Tu promised himself that he would protect his sister, no matter what it took. He would beg Chiao Zhen to reconsider, and if that didn’t work either, he would…
+
+That wasn’t something he wanted to think about. He hoped that the Chiao Patriarch would forget about everything and let them off easy. Then, they could run away to the Bai Village and figure it out from there.
+
+Just as he grabbed onto a chair to lift himself up, a cold current blew past him, although he could swear that the front door had been closed. He turned to look, but just as he did, someone appeared in front of him.
+
+It was the monk.
+
+No, it was someone who pretended to be a monk, and the smile on his face revealed everything.
+
+“Long time no see, kid.”

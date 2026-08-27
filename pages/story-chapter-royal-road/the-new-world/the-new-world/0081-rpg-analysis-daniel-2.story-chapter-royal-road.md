@@ -1,0 +1,95 @@
+---
+id: f148d955-a2ac-55b3-a62f-c5f3a05f86eb
+page-type-slug: story-chapter-royal-road
+title: "RPG-Analysis: Daniel #2"
+slug: 0081-rpg-analysis-daniel-2
+partOf: the-new-world
+position: 81
+ownLength: 1665
+unit: words
+ownProgress: 1665
+publishedAt: 2018-05-24
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/218398/rpg-analysis-daniel-2"
+royalRoadId: "218398"
+markedReadAt: "2026-06-29T21:23:38.365Z"
+---
+
+Rpg Analysis Daniel #2: Dimension C-138, the Harbinger of Cataclysm
+
+Spoilers up to chapter 121. Read that before reading this.
+
+This analysis was a long time coming, but I felt like right now was a good time to release it. Considering the length of time since the last update on how his stats are working, some of you guys might feel overwhelmed. Fear not! Over the next few paragraphs, you’ll gain a solid understanding of how Daniel’s stats are working.
+
+In other words, I’ll be de-mystifying Daniel’s character screen. I’ll do so in a question answer format. Hope guys enjoy this tidbit of text.
+
+Is Daniel OP?
+
+Yes, he is very much overpowered now relative to your average joe. It is worth mentioning that he’s not really surrounded by average Joe’s though. Yawm’s a perfect example of this, with his absurd level and unbelievable mastery of matter itself. He’s an example of how the story’s general power operates less off of raw stats and more on knowledge.
+
+As an example, let’s consider what it is that makes Yawm so powerful himself. Is it his strength, speed, his stamina perhaps? Not quite. All of those factors do help his rather godly persona, but in actuality, it’s his knowledge of the cipher that makes Yawm so unwieldy.
+
+His unlimited mana comes from codes of the cipher on his skin. His ability to generate antimatter at will comes from the cipher. Even his ridiculous regeneration comes from the cipher. In many ways, Yawm is a representation of a sentient breaking the limits of the system. I would compare it with a mortal becoming stronger than gods in xianxia fiction.
+
+That means that stats and abilities won’t level the playing field, at least in normal amounts. For instance, how would a normal build tank Yawm’s antimatter attacks? What about Ajax splicing the dimensional plane that someone exists on? It’s a daunting task even imagining how to combat these techniques.
+
+Daniel’s going for pure efficiency since he doesn’t know how to stop these techniques. For example, a single point in endurance gives about three attributes worth of stats. Daniel gets four attribute points per level, so he effectively gets 12 attributes per level. Eventually that many stats will add up to something insane.
+
+Daniel’s character has shown several of these insanity’s coming together.
+
+Ok, so Daniel’s pretty op. The thing is, I’ve gotten kind of lost in the numbers and what they mean now in the story. So uh, how exactly is he op?
+
+The biggest oddity in Daniel’s stats is his health/mana regeneration. It is by all accounts and measures the highest of any warrior shown so far. Yawm can outpace it with his atomic splicing, but it doesn’t count as health and it takes a second for Yawm’s mana to kick in. Combine that with Daniel’s absurd health pool and increased damage resistance, and he’s nigh immortal.
+
+The only entities that can do decent damage to him right now are Althea, Yawm, Ajax, Sentinels, and the overseer. Other entities like Schema and Old Ones could destroy him instantly, but they aren’t going to go out of their way to squish Daniel. Not just yet at least.
+
+Besides for that, Daniel’s legendary skill, Force of Nature, is a very high tier legendary skill. It wraps up melee combat, the fluid use of telekinesis and gravity, and movement all into one handy dandy skill. Even for sentients that have hit the level cap, most of them lack a legendary skill. That kind of paints a picture for how rare it is to have what Daniel has.
+
+Event Horizon is also a really powerful aura. Considering how crazy his health is, the damage is starting to stack up pretty nicely. You’re average build gets about 12-16 health points per level. That means a level 5,000 thief has 75,000 health or so. With 95% damage resist, they die to the aura in about 2 minutes or less.
+
+There are items, armors, and all kinds of methods to slow that down, but even then, Event Horizon is a nice addition to his arsenal. It shines when he’s in a group of enemies more so than when he’s alone, which makes him a warlord of sorts. At least that’s what I imagine from warlords. Yenno, being stronger on a battlefield than versus a single person.
+
+Daniel’s armor is a powerful weapon as well. It makes him a heavy, dense warrior with pseudo-shapeshifting abilities. It makes him the only character so far that doesn’t fear the eldritch. If an eldritch swallowed Daniel, his armor would eat the eldritch from the inside out after all.
+
+His knowledge of the cipher will result in explosive ramifications in the future as well.
+
+TLDR: Daniel is uber tanky, deadly up close, and pretty hard to stay away from. That basically sums him up.
+
+You mentioned earlier that knowledge is the way to power. Why isn’t Daniel investing into intelligence then? Wouldn’t that be a better idea than his near obsession with endurance?
+
+This is a solid question. The reason is partially explained above, but the answer also lies in how his stats distribute. For every one point Daniel puts into Endurance, he gets right at 1/4th a point into intelligence. This drives home an important point. Even though his endurance is high, that doesn’t mean his other stats are low.
+
+In fact, look at his level relative to his intelligence. 3,126 compared to 2,614. That’s about a 500 point difference. A normal build would invest over half of their level ups into intelligence just to match Daniel’s intelligence. That means Daniel doesn’t have a low intelligence. So basically, direct investment isn’t required for an effective amount in a stat.
+
+This is due to how Daniel’s stats feed into each other, and due to his leveling perks. I’ll leave a link below that examines how the stats feed together in detail in case some people forgot. Hell, even I refer to it from time to time.
+
+Alright, I guess that makes sense. Thinking of his stats relative to his level does lead to a better perspective I suppose. I was wondering how can Daniel still move though? He’s hardly invested into strength, and he weighs a TON.
+
+This is how I calculate how well Daniel will move. Take his bonus physical damage percentage. It’s 32,955%. What does that mean exactly? Well, I consider one ‘athletic unit’ of this stat to be 100%. That equals the strength of an average athletic dude. This means Daniel is about as strong as 400 athletic people(The percentage plus his basic strength).
+
+So I take his weight(106,000 pounds) and I divide it by the number of ‘athletic units’ Daniel has. This gives me an idea of how many pounds each ‘unit’ has to carry. If I do the math, I get 265 pounds per athletic unit.
+
+I know what you’re thinking. 265 pounds is a bit bulky to move with ease, don’t you think Monsoon? You’re damn right it is. That isn’t the end of my calculations though. Remember that one of constitution’s perks halves strength requirements for movement. That means Daniel’s strength is twice as effective when applied to his own body.
+
+So we have to halve the amount that each ‘athletic unit’ has to move. That means it equates to about 132.5 pounds. An athletic person’s strength wouldn’t struggle to move 132.5 pounds nearly as much as 265 pounds. There are a few other factors that help Daniel’s mobility even further.
+
+Force of Nature helps some. The runes on Daniel’s skin power him up, reducing that number further. His gravity movement skill helps now too, reducing the number even further. At this point, Daniel is actually quite mobile. I hope this clears the confusion surrounding Daniel’s wieght.
+
+How tall is Daniel? I get ideas that he’s some giant, but it doesn’t seem that way in the story.
+
+I get this question a lot, so I’ll answer it here. Daniel’s weight reflects his height. So as Daniel’s weight increases, his height increases too. He would easily be 20 feet tall if it weren’t for his increasing density too though.
+
+Because of how dense he is, Daniel doesn’t actually need to become insanely tall. He can manage with much less overall height because of this. With his armor on, he comes out to about 8 feet in height. A giant by a normal person’s measures, but nothing too crazy. Yawm on the other hand is about 10 feet tall. A grown women would come up to his waist for reference.
+
+How do you calculate Daniel’s weight/mass?
+
+A point in constitution is worth 5 pounds of mass. Each level is worth 2 pounds of mass due to the constitution leveling perk. So, (Constitution*5 + Level*2) = 20,875 + 6,252 = 27,127. Then I add the armor dimension mass, which is about 1,000 kilos for every 56 billion mana stored in his armor.
+
+So Daniel has .22 Trillion = 220 Billion Mana = 3,928 kilos. Then we add the base weight of the armor so 4,928 Kilos = 10,843 pounds~. So 27,127 + 10,843 = 37,969. Now Daniel has a leveling perk for constitution that adds 10% more mass for every 1,000 points in constitution. Therefore we multiply (1 + (0.1(Constitution/1000)) = 1.4*37,969 = 53,158 pounds.
+
+Last but not least, Daniel’s tree, TitanSlayer, doubles his effective mass. So, 53,158*2 = 106,315 pounds. That is the math behind it all, and that is how I come up with that number.
+
+That Concludes this RPG analysis for now. Here are some links to up to data and stat sheets and up to date skill sheet for Daniel. Hope these add some legitimacy to the numbers in the story for those interested in them. (I forgot to save a backup for the leveling up math. I did remember to do it for skills at least.)
+
+Skill Sheet’s Spreadsheet: Daniel Ch.121 Skill Spreadsheet
+
+Visual of Attributes ‘Feeding’: Visual of Attribute's Feeding

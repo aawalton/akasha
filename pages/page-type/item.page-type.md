@@ -3,7 +3,7 @@ id: 01a01c8c-7346-7cff-b023-124f8df80e81
 page-type-slug: page-type
 title: "Item"
 extends-slug: world-mechanic
-files: stories:**/*.item.md
+files: akasha:**/*.item.md
 body-shape-slug: empty
 slug: item
 domain-parent-slug: page-type/world-mechanic

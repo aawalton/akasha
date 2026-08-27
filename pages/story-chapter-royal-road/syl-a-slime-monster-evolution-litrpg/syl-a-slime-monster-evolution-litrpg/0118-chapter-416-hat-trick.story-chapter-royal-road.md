@@ -1,0 +1,131 @@
+---
+id: f1f0be0b-bfec-59c0-8ba1-f6d0a90d2d6b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 416 : Hat Trick"
+slug: 0118-chapter-416-hat-trick
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 118
+ownLength: 2225
+unit: words
+publishedAt: 2026-08-17
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3824177/chapter-416-hat-trick"
+royalRoadId: "3824177"
+---
+
+With all the senses and visions I had in my toolbelt, I could've witnessed what happened myself, except I didn't really keep all of them going unless I needed to. While Vee could somehow live her life with [Spatial Sense] active permanently, I couldn't, as I would find myself far too distracted by things I probably shouldn't be seeing or focusing on.
+
+Of course, that was a risk, leaving myself open to ambush, which was why I closed this loophole by ordering my [Sub-Cores] to be on alert. If anyone tried to get the jump on me, they would be in for a rude awakening as my ever-diligent helpers counter-jumped them. However, in this case, whatever the hat did was obviously not seen as a threat, so nothing happened.
+
+I plucked it from my head without any issue and held it before me as I glared at it. Keldenar wasn't joking. The crown was entirely gone, and perhaps the only sign remaining that it was eaten was that the hat was almost… Chewing?
+
+"I needed that you stupid Fey hat!" I shouted at it.
+
+"Wait, your hat is a creature?" Keldenar asked, frowning. His eyes flashed for a moment, only for his frown to deepen even further. "Okay, what the hell, why are my [Eyes of Truth] failing me? This is literally what they are designed to do."
+
+"That's a bit concerning," I admitted. "You even saw through my disguise, which has never been done before."
+
+"I'm not joking when I say this should be impossible. I don't know why it's not working… In fact, what I'm actually being told is that I'm looking directly at the crown you put on your head, despite literally witnessing it being eaten."
+
+"Wait, really? It is the crown now? Is it not just lying to you, so I don't eat it back for ruining my treasure?"
+
+Keldenar looked unsure for a moment, but judging by the focus, he was evidently using a few skills or traits to get to the bottom of it. It helped that, aside from his [Eyes of Truth], he was also an enchanter, so he had many methods for performing an examination.
+
+"The signature is identical… And considering this is an ancient enchantment we are talking about, I've never seen those faked before. More importantly, I'd like to know how this creature has beaten my [Eyes of Truth]."
+
+With the relief that I hadn't just lost a really good item, I thought of any possible answers to Keldenar's predicament. Trixie had been able to figure out what the creature was, kind of, but she said it was harmless. Perhaps that had changed after its growth, but it still seemed eager to help me.
+
+It's also replicating the effect of that crown… Did it always have that ability, or did it gain it from being around me for so long? Has the creature evolved and gained, like, some magic item version of [Consuming Osmosis]?
+
+The question was burning on my mind, so I tried seeing if I could get the hat to eat the pair of boots, but unfortunately, the creature seemed to have zero interest in the item. Could it only eat headwear? Was it's ability on cooldown? Was it just not hungry? Or did it not want to eat in front of me? Unfortunately, I had no idea, and I might not get an answer until I got another piece of similar gear.
+
+Returning to Keldenar's predicament now that I had gotten my own curiosity underway, I actually had a strange idea of why his almost cheating ability had failed… It hadn't.
+
+"I don't think your [Eye's of Truth] failed."
+
+"No offense, but I think I know how my own ability works more than you do."
+
+"No, hear me out. I think the hat is making you believe it failed, and you're blocking the information yourself."
+
+"It can do that!?"
+
+"Well, maybe…? The reason I say that is that it's kind of done strange things like that before. When I first got it, everyone in the room suddenly couldn't imagine me without it, and no matter what shape it's in, everyone thinks it suits me."
+
+To demonstrate, I had the hat change into what Vee called a "cowboy hat," something she had drawn a picture of to see if the creature could turn into. It did, causing my spidery companion to giggle with delight.
+
+Keldenar started blinking rapidly, even shaking his head as if trying to deny it. "Okay, that's weird. Why the hell are you wearing a cowboy hat? Why does it look so damn good on you? This world shouldn't have bloody cowboy hats!"
+
+"That's not even the strangest part. When I met an old acquaintance, she thought I had always been wearing a hat. It seems to be able to manipulate the perception of those around it."
+
+"That's honestly a little terrifying… And you've just been letting it live on top of your head all this time? Well, I guess that technically speaking, that's not your head; it's just slime. You probably wouldn't let that hat creature sit on top of your slime core."
+
+"Definitely not," I confirmed. "As for why, well, it is soulbound to me, so I don't think I could get rid of it even if I wanted to. Then I also had a friend who could actually tell what it was, and she said it was harmless, so I didn't see any reason to worry. Plus, I have to admit that I sometimes forget it's even there."
+
+Keldenar started rubbing his temples as he shut his eyes tightly. I don't know if he was soothing a headache, trying to calm down, or meditating as he mumbled incoherently to himself while performing these actions. After some time, he eventually opened them, frowned, and then shook his head.
+
+"I give up. If you say it's fine, I'll believe you. I certainly wouldn't want to commit a fashion crime by destroying such a good-looking hat."
+
+"See! You think it's good looking."
+
+Keldenar's eye twitched. "Shit. That's extra stupid because I know I hate cowboy hats. Okay, I think your theory about how it's avoiding my [Eyes of Truth] might actually be right."
+
+I could only shrug. It wasn't exactly something to be happy about, as it hadn't granted me the same protection when I needed it. If this freeloader had helped me, my big secret wouldn't have been revealed, and sure, things eventually worked out for the better, but I refused to believe the damn hat predicted this outcome.
+
+With Keldenar now just accepting its existence, whether he wanted to or not, his natural curiosity jumped on my earlier tests. Thankfully, he actually had several different magical hats, either made by himself, found during his adventures, or sold to his golem merchants. We tried placing them before the hat creature, but weirdly, it refused to eat any of them.
+
+I even placed both of them on my head, but the creature didn't eat any of them. I even threw out the wild idea that it only ate crowns, since it was a crown when I originally got it. Keldenar happened to have one he dug out of his loot pile, but it was still not worthy of being eaten. I even tried asking it to eat something, but it either refused or couldn't do it.
+
+"Okay, it might be full. Maybe it hasn't digested the ancient crown yet? Take a few of these random pieces of gear and try them out in a few days or whenever. My other theory is that it might be a very picky eater and it only wants to eat loot of a particular quality. I don't exactly have headwear with ancient enchantments to spare, so we can't test out that theory."
+
+I nodded. "Thanks for the donations. I'll also try feeding it the boots. Although I get the feeling it only wants to eat hats."
+
+"You might be right about that. I actually have another rather absurd theory, so take it with a pinch of salt."
+
+"Sure."
+
+Keldenar sighed. "Maybe it was jealous of the crown?"
+
+"Wow, you weren't joking, that is absurd."
+
+"Yes, but think about it. You really wanted that crown, and I can't blame you; mind magic is a bitch. The hat felt threatened and ate the crown, securing its spot in your hierarchy of headwear."
+
+"I don't have a hierarchy of headwear… I usually don't even wear clothes."
+
+Keldenar blinked a few times, frowned, blushed a little, then shook his head. "Damn slime. What dirty thoughts are you trying to put into my head?"
+
+"I'm not? I'm being honest. At this point, my slime is better than any robe or armor," I confidently asserted, before glancing at the breastplate. "Well, maybe not that. At least until I learn ancient enchantments. Even still, not much can beat my adamantite-obsidianite alloy."
+
+"Okay, fair point. Your cheating slime ability to create an impossible alloy is hard to compete with. Regardless, you do wear the hat-creature, and you were going to wear the crown. It felt threatened, it took out the threat, and in a way that wouldn't anger you by replicating its effect."
+
+"Sounds plausible."
+
+"If that is the case, you might not get it to eat anything else until you find something better than the ancient crown. Hopefully, that's not the case, though you then have to worry about whether it can accumulate the effects or replace them. I doubt you want to lose the anti-mind powers."
+
+"Definitely not," I agreed wholeheartedly and pointed straight at the hat. "Listen, you better not get rid of that effect. If you can only pick one thing to copy, you're only allowed to replace it with an even better mind protection ability."
+
+I wished there was some kind of reaction to my declaration, but sadly, that wasn't the case. The creature seemed incapable of communication, and it only ever reacted when I asked for a change in its appearance. Even attempts to get it to indicate "yes" or "no" through specific hat transformations seemed too much of an ask.
+
+With nothing further to investigate, we returned to our earlier conversations. I confirmed that I ate a black slime core, which seemed to delight Keldenar, but not for the reason I had assumed.
+
+"Great, that means if there's ever an outbreak of demonic corruption, you can be on cleanup duty. It's probably a crap job, but it would earn you plenty of good-slime points from the populace. And no, those aren't real points you can spend."
+
+Keldenar also updated the direction golem with another labyrinth, although he said this one was much further away and, unlike the previous one, was more traditional. There weren't any secret motives or deadlines; this was just something I could challenge whenever I wanted to tick off the checklist.
+
+"It's way down in the north up in the mountains, and gets super cold, so make sure to bring a jacket," he joked.
+
+With business out of the way, we just casually chatted a bit before he requested we call it a day. "I need to write up a royal decree that I'm safeguarding Princess Sylthaeryn, or is it Queen Sylthaeryn?"
+
+It was my turn to twitch a little. "I don't think it matters. Princess might sound more believable; why would a Queen hide here?"
+
+"Good point. Anyway, I'll get that started, and once it is done, I'll casually mention it to a few nobles who I know are big gossips. From there, it should only be a matter of time before it reaches the ears of the Outeatus Kingdom."
+
+"Thanks again. Also, do speak with Sylthaeryn; she is actually supposed to serve as head of the Feirelle elves once this drama is settled. We also received a stupid amount of education on the elves, so she can answer your questions in that regard. If you ever want to know what elf family specializes in what industry, and what color of clothes they like, then she's your slime-elf to speak to."
+
+"Good to know, I'll have to pick her brain from time to time then. I don't suppose she has any merchant training?"
+
+"No, but she can put you in touch with someone who does. Actually, now that I think about it, we still have quite a few resources assigned to us for trade since we didn't end up using them…"
+
+"Sounds great. Hopefully, I'll eventually be selling worker golems to the elves, too. I know I just sold a batch of mining golems to the dwarves, which has made me a very wealthy man. Let me know if you ever need to borrow some cash, by the way."
+
+I chuckled and thanked him before finally parting ways. I still had no interest in money, and while he might be bragging about his big golem deal, I couldn't help but wonder how it compared to potentially selling regeneration elixirs. In theory, I had the power to bankrupt a few kingdoms, though I didn't exactly plan to do so.
+
+I made sure to check in with Sylvester and Sylthaeryn one last time before finally leaving Keld. I just hoped that my next [Core Collective] level was sooner rather than later, as I teleported around a few times before returning home to Tanglebay.

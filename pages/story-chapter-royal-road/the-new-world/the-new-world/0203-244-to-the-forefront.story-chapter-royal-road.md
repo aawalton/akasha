@@ -1,0 +1,259 @@
+---
+id: f66ba0a0-9c47-54c9-a76f-3fd49bafad00
+page-type-slug: story-chapter-royal-road
+title: "244 To the Forefront"
+slug: 0203-244-to-the-forefront
+partOf: the-new-world
+position: 203
+ownLength: 3361
+unit: words
+ownProgress: 3361
+publishedAt: 2020-01-28
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/450756/244-to-the-forefront"
+royalRoadId: "450756"
+markedReadAt: "2026-06-29T21:27:55.540Z"
+---
+
+Torix and I walked through the portal, Spear following not far behind. As the hordes of undead marched into Elderfire, Torix and I let the populace know what was going on. Once the army amassed into a relatively uninhabited part of the city, we gathered our legion.
+
+Well over a hundred gialgathens fought alongside us today. Torix situated our invasion point in a forested area for some reason. As he notched an X into the ground, I walked up while moving a vine out of my face,
+
+"Why are we moving out from here instead of in the desert? The underbrush is in the way. It will slow us down."
+
+Torix clasped his hands, "We're throwing the enemy off with misinformation."
+
+I raised my eyebrows, "Now that you mention it, I don't know where or what we're doing in this next city. I've been so busy with the lich thing that I don't really know the plan."
+
+Torix raised a hand, "It's quite simple this time when compared with our other assaults. The city we're attacking is Fausel. It's a city situated among the flowering plains. According to scouting reports from Althea, this town's sewers are infested with Hybrids. Its defense actually outdoes the surface. It isn't a practical plan to continue our launch point from beneath the surface."
+
+Torix shook his head, "Instead, we'll be incorporating a different strategy. We'll neglect your orbital bombardment in order to utilize my necromantic abilities. After warping into a larger building, we'll swarm their forces and kill the espens and mind mages."
+
+I crossed my arms, "Why would we do that?"
+
+"Orbital Bombardment would cull over a quarter of the town's inhabitants instantly. Due to those repercussions, we'll need to take a more targeted, specific approach this time. Fortunately, we've suitable alternatives arranged. Simply cull the mind mages, and I may wrestle control of the Hybrids. Once taken, we may use them against our enemy."
+
+My brow furrowed, "Wait a minute...you can take control of the Hybrids?"
+
+Torix cackled for a moment, enjoying his big reveal. He tapped the edge of his umbral skull,
+
+"I've already proven my ability to control silvers and eldritch. Hybrids are not so different. Considering this, I will need you to make a few adjustments towards this crown of thorns."
+
+He pulled his crown of thorns off, placing it in my waiting palm. Pulling out his grimoire, Torix turned it towards a later page,
+
+"I'll need you to embed this inscription as I inform the army of our plans."
+
+I lifted the book with a well of gravity before reading it over,
+
+"Can do."
+
+We stepped through dense foliage, and I carved into the booklet with heated telekinetic points. I walked through vines, each of them snapping,
+
+"I get not using my bombardment skill in the city, but that still doesn't explain why we're launching from this point."
+
+Torix gestured around us, "I'm working off several deductions. Considering the Adair Family caught wind of our sewer tactics, we'll utilize a large building as a launch point instead. This will be done with a purpose in mind. We shall hide it enough that they won't discover the portal easily. At the same time, it will be obvious enough for them to find."
+
+I pointed at his drawn X, "Then they'll see a thriving jungle instead of a desert?"
+
+"Precisely. This deception will prove necessary, as Althea's reports note that Elderfire is on a list of possible locations for our base of operations. While low on the list, that fact ensures some measure of deference is necessary. Ignoring their information network will lead to our downfall."
+
+I nodded while moving all of my fingers at differing points for the runic drawing,
+
+"We'll lead them to some jungles on Giess instead of to the Rak'Sha desert. Smart."
+
+Torix gripped his hands into fists, "That's my intention. Once staged, we'll be staging a frontal assault after your bombs have been placed. This will be difficult considering the geography of the territory. Fausel's surroundings are the flowering plains. They are situated upon a colossal plateau along the northern edge of the continent."
+
+Torix gestured to the jungle, "There, trees can no longer grow due to the lack of moisture. Wildflowers coat the ground to the horizons, however. It is flat as a table for miles in every direction, and this means aerial superiority is integral to our success. Given the suppressive nature of the Hybrid towers they use, we'll need your mana bombs."
+
+I gave him a thumbs-up, "I have like forty of them ready to go."
+
+"Once planted, we'll eradicate the spires in one fell swoop. At the same time, we'll be utilizing your gravitational singularities to cripple their dreadnoughts. I shall assist our aerial forces by eliminating the mind mages on the vessels."
+
+I pursed my lips, "You can do that?"
+
+Torix steepled his fingers, "But of course. I intend to use this body's abilities to their fullest. Control is its greatest strength, and that shall be the knife I use to slit our enemy's throats."
+
+I pointed at myself, "So what do I do after finishing off the dreadnoughts."
+
+Torix sent several messages as he spoke, "Simply support Kessiah and Krog's healing. They and Schema's forces shall ensure a far higher turnover for gained troops. Given the nature of our goals, that shall take precedence."
+
+I leaned back, "Wait a minute...I'm going to be healing people?"
+
+Torix scoffed at me, "It shall be a first."
+
+"You can handle the fighting without me?"
+
+Torix met my eye, "I've spent the past months honing my mind's abilities and preparing a plan to use them. I understand your skepticism despite this. You've beaten me in individual contests of will in the past. Without meaning to demean you, those victories were due to your overwhelming base stats."
+
+He raised a hand, "Given my augmented willpower and this crown, I will be a force unequaled in that arena. That is the general gist of our plans. I intend on this battle being the genesis of my newfound abilities. I wish for it to be a beginning to be remembered."
+
+The lich radiated confidence in his potential in a psionic arena. Trusting him, I gave the guy a begrudging nod,
+
+"Alright then. Lead the way."
+
+Torix turned towards a growing horde of gialgathens in the forest. He took deep breaths for a moment, unnecessary as they were. In all honesty, he was simply using the sound of taking a deep breath to calm himself.  Staring at the army, Torix looked like he was about to step into a fighting ring.
+
+Having noticed his apprehension, I put a hand on his shoulder,
+
+"Uhm, you ok?"
+
+"Of course. There's simply something I must do, and I am nervous about doing it."
+
+Huh. Torix usually didn't get nervous.
+
+"What is it?"
+
+"A public discourse of our plans and intentions."
+
+"You mean a speech?"
+
+"Ahem, yes."
+
+"I've got practice. I can do it. You don't have to stress about it."
+
+"I know full well you can, and I thank you for the offer. However, I will be leading many of the troops. Knowing who I am is important for ensuring cohesion among our troops. It gives them a face and persona to follow when I give them orders."
+
+Torix peered at the army, "And in a way, this is a crux for me. I've lead undead armies, but never armies of the living. It's actually far more intimidating to command sentient beings. This fear is partially why I've made you give the speeches in the past. I wish this to no longer be a weakness."
+
+Within his hollow eyes sockets, blue fires spawned. They mirrored the former flames of his old body. They blazed with intensity as Torix said,
+
+"The resonance is complete, and at the precise time I anticipated. Excellent."
+
+I raised a hand, "Hm...Alright. Want some tips?"
+
+He gave me an eager nod, "Oh, most certainly."
+
+I counted on my fingers, "Speak with confidence, remember no one knows you're nervous, and have a plan of what you're going to say."
+
+Torix scoffed, "I know that much of the issue."
+
+"A reminder never hurt."
+
+Torix sighed, "Indeed. Give me a moment to myself. I must collect my thoughts."
+
+I let the guy destress how he had too. I walked off as he sent out messages and orders. Our forces concentrated in the forested spot while I worked on the crown of thorns. It was a concise and straightforward conduit inscription, something I'd done a thousand times before for our soldiers. In fact, it mirrored the same markings we used against Yawm.
+
+Yup, this was a psionic amasser. It would take several individuals with similar inscriptions and wield their mental influence using this as the hub. If I had to guess, this was part of why Torix was keeping an open portal towards Elderfire. Telepathy didn't have infinite range, so the mages were in the city, wearing their own versions of this.
+
+It was a risky strategy in many ways, but the payoffs were massive. If we succeeded, we'd gain a large portion of troops and save more gialgathens. It would be far better than just destroying the city like I did to Polydra.
+
+It was a good plan.
+
+Making a few subtle adjustments to Torix's template, I leaned back against a knurled tree. Not long after, Krog arrived with Kessiah in tow. Several other people clad in power armor rode their backs as well. They wore painted blue crests on their chests. It was a symbol of a 2-D solar system from above. At the corners of the solar system, gnawing mouths chomped at the planets. It must have been some symbolism of the eldritch.
+
+Either way, the six individuals oozed a professional demeanor, each of them having a no-nonsense attitude. Krog carried them through the trees, weaving through the vines and underbrush. He landed with a subtle quake beside me. The general dipped into a deep bow,
+
+"Commander."
+
+It took a second before I recognized he was talking to me. I coughed into a hand, "Ahem, as you were."
+
+His change in attitude was a stark reminder of what we were doing. Earning respect like this felt good, and having Krog recognize my efforts was motivating. Following up on his bow, Kessiah leaped off his back, and she gave me a quick salute. It was less sarcastic than I expected.
+
+Eh, I'll take it.
+
+She introduced the six other soldiers,
+
+"These are the Overseer's guys. They're pretty good compared to what I expected." Kessiah leaned closer, cupping her mouth, "But let's be honest, we didn't expect much."
+
+The soldiers hopped off Krog's back, undeterred with Kessiah's teasing. They gave me a coordinated salute. I raised a hand, "Uh, all of you, at ease."
+
+They lowered their hands, saying in unison, "Sir, yes, sir." One of them walked up, about half my height. She reached up a hand, "It's an honor to serve under you, sir. Let's give em hell."
+
+We shook hands, and I stared at the gesture, "Is it common where you live to shake hands?"
+
+"No. We did research into your background. You're a legend, sir."
+
+Awe shucks.
+
+Kessiah walked over, "Don't let it get to your head. Anyways, I've whipped these guys into shape. The healers know what to do for the most part against the Hybrids. These three are going with Torix to help warp our soldiers around."
+
+I gave her a nod, "Perfect. How are you holding up?"
+
+She gave me a grin, "Just fine. I'm getting good at this healing thing. I actually beat these guys in a demonstration earlier. Felt nice."
+
+The one that shook my hand stood at the edge of the line of six. She nudged the member to her left, "That's not saying much when you're up against Shola."
+
+Shola stood a head taller than her, and she rolled her eyes for all they were worth while the group laughed. That was good. There was some comradery there. They would need it for what was to come. I looked between our new people and Kessiah. I turned a palm to her,
+
+"After this next battle, I'm making you a suit of armor. It should help against the Hybrids."
+
+"Thanks. The enchanted ring and necklace already helped a ton."
+
+"Good. Now let's get moving."
+
+They shuffled off, three of them walking over towards Torix and the other three hopping back onto Krog's back. The grizzled gialgathen lifted a wing to me,
+
+"You've done more for the gialgathens than any other before you. I wanted to thank you for all you've done and for giving us a fighting chance against these monstrosities. I would also like to apologize for my contempt for your actions at certain times. I was wrong to do so."
+
+Not even remembering the situations he was talking about, I scoffed, "Just make sure you guys never let yourselves get into this kind of situation again, alright?"
+
+He met my eye, "We will never allow such a catastrophe to pass once more. Of this, I swear to you and on Emagrotha's grave. See you in battle, commander. May they fall before us without effort."
+
+"Same to you."
+
+As they flew off, I walked over towards Torix. The lich was midway through giving the troops a rundown,
+
+"Outside of those general tactics, remember this - stay out of contact with the Hybrids. They will crawl under your flesh and wear your skin like a fine robe. Remember that."
+
+They replied, "Sir, yes, sir."
+
+As I walked up, Torix turned to me. I handed the finished crown of thorns to him, and the lich inspected my handiwork, "That was quick, as expected. I see a few adjustments. Interesting. This will do nicely."
+
+The lich stood tall, placing the crown on top of his head. As he channeled his mana into the inscriptions, he sent a few messages towards mind mages in Elderfire. Torix spread out his hands, the flames in his eyes expanding.
+
+The blue fire spread over towards his face and shoulders. Once fully assimilated, his aura saturated the entire area. The cobalt blaze singed nothing physically, but it stung my mind. It gave me a subtle headache, and it exhausted me.
+
+At the same time, the fires soaked in the light around him. The glowing flare contrasted the shadowy surroundings, making his figure stand out among the greenery. He seemed taller, more commanding. The three warp specialists took a few steps back from the lich, unable to withstand the aura shift.
+
+Torix lifted his hands, staring at them as they shook. A few moments later, the flames receded a bit, though they still rose from his frame. His hands ceased shaking. His aura condensed, his approach refining with each passing second. By the time he finished wrangling in the psionic energy, the difference was staggering.
+
+It was like comparing a chunk of iron ore with a sharpened knife. The latter was far more deadly. Even gialgathens in the distance took note, many of them staring at the metamorphosis. Torix turned towards me before coughing into a hand,
+
+"That was far more difficult than I anticipated, yet it was altogether necessary." He looked towards the sky, "Ah, she has finally arrived."
+
+From above, Chrona's silver skin shimmered in the sun's light. Lean and lithe, she darted between the trees and canopy without slowing down. Touching down without so much as a sound, she glanced between us, a grin over her face,
+
+"It is good to see you are both well."
+
+Torix gestured towards the X on the ground, "This will be the position you guard. Simply create a time field around this area, and cull any Hybrids or enemy forces that so much as look at it."
+
+I crossed my arms, "Man, so that's why you're not worried about leaving a portal open. We have the perfect defender right here."
+
+Chrona raised her head in confidence, "I will be a mobile fortress. This is our land, and it will remain that way as long as I am here. Just as well, it eases my heart to help the war effort outside of defending the city. These claws and teeth of mine were getting dull."
+
+Torix turned to me, "With this, our preparations are complete. It is time."
+
+With our forces pulled together, we stood in the jungle surrounding Elderfire. The sun belted down with intensity, the heat sweltering everything for miles. That is, except for a single point above the jungle's floor.
+
+There the light dimmed. It ran from a source of darkness, a creeping dread that infested those that saw it. Radiating blue flames, Torix stood over the treeline, his figure unmistakeable. He lifted a hand, his sound amplifying magic taking effect,
+
+"Those present, I ask you to listen."
+
+His request hit home like a command. The eyes of our troops locked into the shadowy figure, his sapphire hue contrasting the umbral outskirts of his presence. He raised a hand,
+
+"I am Torix, a lich serving under Daniel, your commander. I am the one who commands and organizes the resources of Elderfire. I've worked tirelessly within my lair, ensuring that your kind has a chance against the Adair Family."
+
+He clenched his hand into a fist, "This shall continue no longer. Armed with a new body harder than steel, I shall join the battle with each of you. I may command the dead to rise and fight alongside you. Know this - each enemy you cull is another ally at your side."
+
+The gialgathens roared with approval, bolstered by the unexpected blessing.  From behind us, the army of silvers and stone angels crawled out from the treeline. The gialgathens grimaced at the undead troops, but Torix raised his palms,
+
+"Wait a moment. These are your new brethren. They shall take fatal wounds for you. They shall bleed in place of you. Where you would die, they shall die in your place."
+
+The gialgathens calmed down as the growing army of the undead skulked from the trees. Torix spread out his hands,
+
+"I am also armed with a mind that can combat their mages. Many of you have tasted the sting of mental warfare. Know this as well - I too am armed with psionic abilities. I shall leave their forces scattered, and I shall turn their own footsoldiers against them."
+
+As the army amassed behind him, Torix gestured to his soldiers, "You all shall no longer fight against a superior force in number. We may take the city by storm, each of their dead given new life and purpose in our cause. With but one mighty surge, we can cripple them, scattering them like ashes in the wind."
+
+The gialgathens cheered once more. Torix steepled his fingers, his presence sending a chill up my spine,
+
+"Armed with these new tools, we will do more than land a strike at their side; we will slice into their neck. Our battle in Fuasel will be different than any other assault before it. Here we make our first true stand against the enemy. We will expunge them to the last man and save nigh everyone of your lost. Our return will be triumphant, our heads held high."
+
+The mention of saving their fellow kind bolstered the troops, and the remark about heads held high made the soldiers do the same. They remembered what they fought for, and it reminded me too. Torix thought this speech through.
+
+As the thousands of silvers stood behind him, the lich cackled. His laughter echoed across the dense undergrowth. As its haunting remnants faded,  Torix steepled his fingers, his entire being exuding confidence,
+
+"We shall show them what it is to have their own turned against them. We shall take back everything they have stolen from us. We shall retaliate with force unmeasured. We shall show them the might of the gialgathens. We shall stand over their empty graves."
+
+My hair stood on end as Torix seethed,
+
+"And regardless of their wishes, they shall join the Harbinger's legion even after death. Of this, I assure you."

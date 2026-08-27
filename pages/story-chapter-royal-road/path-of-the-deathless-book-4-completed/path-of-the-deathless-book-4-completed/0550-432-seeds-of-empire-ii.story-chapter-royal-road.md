@@ -1,0 +1,313 @@
+---
+id: 73d000b6-a70a-58ec-92be-a3889b38c293
+page-type-slug: story-chapter-royal-road
+title: "432 Seeds of Empire [II]"
+slug: 0550-432-seeds-of-empire-ii
+partOf: path-of-the-deathless-book-4-completed
+position: 550
+ownLength: 5196
+unit: words
+publishedAt: 2026-08-14
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3814281/432-seeds-of-empire-ii"
+royalRoadId: "3814281"
+---
+
+All faith is synonymous with spiritual imperialism. All gods seek to colonize parts of your time, your behavior, your souls. To submit to a faith means constraining yourself to another's ideals and mutilating yourself in their image.
+
+To achieve these ends, every god creates temples. They gather prophets and proselytizers. They dispatch their faithful to spread, and in this, their imperialism becomes more like a spreading plague, traveling across dimensions and worlds to enforce their vision of what should be on what already is.
+
+But the power contained within a god's temple is more than figurative. The moment symbology is invoked, the divine attunement of a god will be incensed, and so a metaphysical process takes place. A holy relic within the temple becomes a channel for the god to reside within, a divine anchor for a god to reach across dimensions.
+
+We all understand how divine Domains work. They are realms unto their own, silos in the most absolute of forms. This is what defines a god: they are not capped at any one mana ceiling, instead always pressing at a world's maximum threshold, existing as the very peak of a conceptual embodiment. After all, what right god would be outdone by a mortal? What God of Fire would let a Legendary Pyromancer shame them in their own home?
+
+And yet it does happen: Sometimes, Legends do shame gods. Though Legends are not absolute embodiments of the skills they possess, they can see gods outmatched in particular instances.
+
+Outmatched but never truly overshadowed.
+
+But it is this breadth, this spiritual imperialism, that cuts both ways and makes a god vulnerable. For if a god can reach you, if a god extends too far in countless dimensions, then it can be struck as well. It can be targeted by those who understand its scripture and force the god and its faithful to disfigure themselves along the veins of their own belief. They can be brought down. Their waters can be polluted—just like empires can over-extend and fail to consume those they try to assimilate.
+
+The diseases of empire apply here more than anywhere else. Choke the gods, make them fail to digest you, and poison the roots of their spreading faith…
+
+—The Heretic’s Guide to Anti-Theism, Authors Unknown
+
+432
+
+Seeds of Empire [II]
+
+“Adam? Adam? Are you there? Can you hear me? Are you alright?” It was the purview of the mad to be speaking with inanimate objects. However, Shiv had several good reasons for treating Adam's effigy as if it were the man himself.
+
+First off, there was how the azure band glowed around the effigy's brow. It burned brightly, and from it emanated a stream of incandescent fire that rose into the sky. The stream kept Adam's Glare of Immolating Omniscience in existence, signifying that he was still here, albeit entombed inside that tessellating substance made in mockery of his form.
+
+Then there was the vitality suffusing the effigy. It glowed bright with Adam's life force, and it burned brighter with every passing second, as if it was brewing Adam's very soul. Likewise, the Culturist maintained a direct connection to Adam's Awareness skill, and he was the first to realize what was happening. Adam hadn't been destroyed or stricken from this dimension. Instead, he was currently undergoing a divine anchoring process.
+
+Apparently, every god had to suffer such a process—with the Ascendants requiring both an Avatar and a Phylactery to help offset their counterfeit godhood.
+
+Things were more than a little different with Adam. He was closer in nature to the Composer at present than he was to any Ascendant. The System recognized him as a natural god in the process of evolving, but perhaps even more than that, he possessed a relic from a prior age—before there was any mana at all—that left his current state in question.
+
+Adam's continued silence built on that tension, and everyone waited with bated breath, trying to think of a way to extract him from within his effigy. Uva said she could still reach his mind, and she flung bolt after bolt from her dreaming storm into the tessellating fabric, yet found herself unable to penetrate its inner dimensions.
+
+“It's like I'm trying to push through a veil of immovable fog,” she said. And said fog categorized more than the dimensions within the effigy: it held the temple aloft. It spilled out from Adam. It was the manifestation of peace, and it came with the added symbol of the open palm. There was something poignant about all that, something that still eluded Shiv's grasp, but he couldn't shake the feeling that there was something sinister behind all this. After all, Adam never truly got to choose his own Domains. They were already nested inside him since the moment his Divinity was awoken via the flames of the Broken Watchtower.
+
+“I recognize the substance composing Adam's effigy,” the Starhawk suddenly declared, his voice hesitant but firm. “It is a piece of the material that was extracted from within the Great One. I purified it in the aftermath of the war, and when the rest of the crystallized Divinity was peeled away, only a tiny grain of this substance remained. I'd embedded that grain inside your daughter-to-be, Roland, and then, in the aftermath, I moved it over to Adam.”
+
+“So what is it?” Roland cried at his god in agitation. “A variant of Inertium?”
+
+“No,” Shiv answered. Though the substance was constantly tessellating, it lacked a vibrational frequency that rejected matter. Instead, it seemed to be a series of cubes that constantly propagated and dissolved, building on itself and then breaking apart, like a solidified parody of mist. “It’s not magically repellent at all—”
+
+And then, as suddenly as he had been drawn into the effigy, Adam was spat back out in a burst of vapor and Divinity. The flash of light sent a surge of brilliance down from the star above, and as Adam rematerialized, he found himself drawing in a long and ragged breath, feeling at his own body, whipping his head around as if he had been struggling to break free all this time.
+
+"Felling hells! Felling System! Felling everything! Stop doing this to me! Stop it!" Adam shrieked his frustration at the sky, but if the System felt any shame in forcing all this on Adam, it didn't show it. Instead, it kept to its silence and left this most esoteric of rewards in its wake.
+
+“Adam—” Just as Shiv was about to examine his friend, an echo of Adam emanated from his effigy. It replicated his furious expression and spat forth the words he'd just spoken in a rumble of resonating power. It was Adam's voice on the surface, but that blooming presence which made existence shudder below. It repeated every one of his complaints verbatim with a moment’s delay.
+
+Everyone drifted back from the temple, their postures tight with nervousness.
+
+Everyone except Adam. He shaped an arrow of incandescence, and before the Culturist could call out or stop him, he fired his projectile straight into the tessellating object made in replica of his form. A blast of flame shrouded the temple, but as the mists twirled, Adam's attempt at self-defacement failed. Not a single scratch marred his effigy, nor the pagoda it was situated under.
+
+A growl escaped him as he fired a stream of fiery shards at his own image. He managed three before he was forced to stop, in part because the Culturist seized him, restrained him, but more disturbingly, because Adam began hacking up blood as his flesh cracked, not so different from how Shiv broke people using his Harbinger.
+
+“Fool,” the Culturist grunted under his breath as he held Adam tight.
+
+Roland had his own arrow drawn, but he hesitated. He wasn't sure if he should help the orc in restraining his son, or if he should put a hole through the Culturist for daring to lay his hands on Adam. Shiv tipped the Town Lord's decision towards assistance with a nudge of his elbow. They collectively pulled Adam away from his effigy, even as he hurled curses and incoherent barks of rage at his own likeness.
+
+In seconds, the cracks that lined his body closed shut, but from the thinness of the remaining crevices did fingers of curling incandescence still hiss free. “Release me. Let me go!” Adam brayed with near incoherent rage. “See how the System mocks me when I break its prison!”
+
+“It's not a prison.” The Culturist forced Adam to face him. “And you are not breaking the effigy. The only reason it cracked at all is that you're defacing yourself. It is a symbol of your worship. It is your divine anger. What god would strike their own likeness? The only thing you are doing right now is damaging your Domains. Look upon it. Look upon it in true detail.”
+
+And Shiv did so before Adam. The cracks veining his body had faded, and so too did the damage afflicting the effigy. Both of them resembled one another, with only crevices of incandescence marking the prior damage. The Culturist's words proved true. Adam was a god defacing himself. He had not reached the point of deep harm, but had he pushed further, he would have more than wounded himself.
+
+At first, Adam still wanted to rage, his anger reactive, but as time passed, he realized the futility of his action. There would be no liberation in destroying his temple. There would be no significant symbol against the System for inflicting him with this reward. He was divine, and the System buried that point deep. Though Adam held something beyond magic, he was mostly infused with magic still, and thus a dog of the System nonetheless.
+
+When his struggle ceased, the others released him, and he drew close to his effigy, coming to greet it face to face. Once more he spoke, but this time the words were not uttered in hate, but rather in deep contemplation. “Why can I feel you?”
+
+The reply from within the effigy came instantaneously as well, and the Paragon was greeted with a reverberation of his own voice. Adam came to a halt in the air, but he held up a hand and curled his fingers, as if trying to draw the temple closer. To Shiv's surprise, the temple did approach.
+
+The Evangelizing Temple of Tyrannical Peace trawled through the sky as the palm traveled slowly. The clouds tumbled forth like tank treads, like an automaton's tank treads, though the temple held no power of speed nor teleportation. The presence it emitted was one of absolute tranquility, and judging from the mist that surrounded it, there was no force in existence, no active violence or power of destruction that could truly shatter it at its foundation.
+
+As the temple parked itself before Adam, a long and tired breath slipped out of him. “I see. I see.” And he did, but there was no joy in his epiphany. Uva, more than all the others, understood his feelings, for it was the System that forced itself upon him, that made him experience growth after growth, but not of his choosing. She wrapped him in an embrace and said nothing, but conveyed a feeling of true and deep sympathy. That proved to be enough.
+
+Above, the Dreaming Storm congealed around Adam's star as if mirroring their hosts in the same protective gesture.
+
+“I can feel myself inside the effigy. I can feel the temple. A part of me has been bound to it.” Adam made that known as his Omniscient Dawn suddenly jumped away from him, repositioning itself along the faintest of centimeters, but shifting nonetheless. It skipped away from him and manifested over the Evangelizing Temple of Tyrannical Peace, and then back to him right after. But as it did that, Shiv noticed Adam's mind start to turn once more, the mists that represented his thoughts spinning as he turned away from internal misery toward more productive ends.
+
+"We can use this," Adam declared. "I can use this to survey the world outside. I can use it to travel the lands, to speak with people directly. It is an evangelizing temple, and it can carry my Awareness beyond this gate.”
+
+That caused Shiv to consider the Realmrunner’s Keyhole that was still embedded around his shoulder. “Same way you can dimensionally fire through this keyhole, huh?”
+
+Adam shook his head. “No, it's more than that. It's like this is a portion of my soul, a channel for it. It's not entirely akin to what you can do with your vessels. Every single one is you, but this is like a branch of me, or at least a channel through which I can emerge into this world. My body… Even in the Delve, I dropped in and out of my personal reality—a place of mist and fog.” Worry trembled through his sinews as he faced the Starhawk. “Am I going to fall out of this world? Am I going to be banished from this place without an Avatar like you?”
+
+“Not yet, Young Arrow,” the Starhawk said, though he kept his voice somber. "You are still a god in the process of ascending. It will take you crossing that threshold of Demigodhood before you surpass the limitations of a dimension’s ambient mana.”
+
+“And how long will that take?”
+
+“For most, centuries. But with how the System has cast its flame upon you…” The Starhawk trailed off, unable to give a proper estimate, and how could he? There was no anticipating what might be looming over the horizon for any of them.
+
+“So I need to make preparations… This temple. It's a passage for me to cross over into this dimension, even if my physical body is lost.” Then Adam's left eye widened. An epiphany went to light inside of him. “I can also use it as a scout in hostile territory. Up in the north, I can use it to manifest my omniscient eye, and maybe that way we can find the Tarrasque. It will give us a lead at the very least.”
+
+Shiv froze in surprise and considered it. “You know what? It just might. Good thinking.”
+
+With a flex of his will, Adam started moving his Evangelizing Temple of Tyrannical Peace to slowly crawl toward the surface gateway. Very, very slowly. “It's, uh, going to take some time to get there, but we have… a bit of time,” Shiv said, trying to keep his cheer up.
+
+Adam lowered his head and let out a sigh of annoyance. “Integrated Earth's tectonic plates shift faster than this temple floats. Might as well go out on the surface and cast my glare northward instead—save us all the trouble. But before the System decides to hit us with any other surprises: skill evolutions.”
+
+Driven by spite and annoyance, Adam made his choice, and the mana core responded in kind. Crawling flames of scintillating brilliance swept through the nest of eldritch crystallization. The Terrorspawn within began to bubble and change, their bodies twisting and warping, but then they were lost. Amidst the spreading conflagration, Shiv and Uva tensed. Roland and the Culturist shared a wary or uncertain look at Adam, for this was an act of rashness, a singular decision without further consultation.
+
+One could almost call it tyrannical.
+
+However, an instant later, a notification appeared before him, and Adam drew in a sharp breath of building outrage.
+
+Skill Evolution Rejected
+
+Skill Evolution Rejected
+
+“What?” he hissed. “Why? What do you mean you can just reject my choice? What's the point of me choosing if you're going to force me to pick something else?”
+
+Shiv and Uva shared a look as realization blossomed between them. "Adam?" Shiv coughed awkwardly. "I think I know why the System's not allowing you to evolve them. It's probably because, even though they're technically Unique, they started out at Heroic levels of mana for the Gate anyway. We're going to have to level those normally. The only way to make those skills go up is to turn them, well, Legendary."
+
+Adam froze. Then, his body slowly began to shake as a semi-hysterical giggle shivered through him. “Of course, of course, of course, of course, of course, of course it would be! Of course!”
+
+“Adam, son,” Roland muttered, his anxiousness spilling over into his voice. “Adam, maybe you should get some rest—”
+
+“There is no rest, Father. There is no way out of this. The System is just waiting. You saw what it did to me. You saw what it keeps doing to us. It's just waiting. It's mocking us. It's leering at us. It can't help itself! It's just waiting to throw something else at us! It's taunting us with every step we take! It's shaping our future! Of course it has to be hard! Of course it doesn't need to abide by these rules, but not any other time, no! When it suits the System, it will allow Shiv to evolve in a certain way that makes things ever more chaotic, or it will drive me deeper into a Delve, or maybe it will give the Challenger some new powers so that he can breach our realm, and then he can beat me to death in front of everyone!”
+
+Those last words left Adam in an explosive shout that shook the air. Shiv's right ear rang slightly from the noise.
+
+“Not unless we beat him to death first, him and all our other enemies! It's our tyranny against everyone else! It's our empire against everyone else! This Gate! This place! It's more than a sanctuary. No, and we have to be more than peace. We have to be an expansive force. We have to take hold of everything because there is no other choice. Anything that we cannot control will be used against us. Anyone who we do not understand, who exists beyond our boundaries, will be turned against us, and they will keep coming over and over again, never stopping, never stopping!”
+
+Suddenly, Adam's rage went from a budding storm to an inebriated husk. His arms fell, and a listlessness took hold inside of him, never stopping.
+
+“I am tired, Father, but I'm starting to think I'm always going to be tired. Until I can just look at the horizon without worrying that someone might be there aiming at me with their own bow, preparing to kill me, or you, or Shiv, or Uva, or Isabella, or Mother, I'll be tired. I want to live life like I used to. I want to have a moment of peace for all the power this godhood has given me. I don't actually have that which it keeps talking about: peace. There is no peace. There is no peace because we live in an existence that is made cancerous by constant, unceasing war.”
+
+Shiv heard it in Adam's voice. The Paragon was so close to breaking, but he was also so close to being utterly unbreakable. Roland didn't see the same thing. Roland just saw his little boy, mutilated in heart and soul and flesh, and it was all the Dread Horizon could do to stop himself from crumbling in turn. Shiv could feel the heartbreak from inside him, and it was a horrific feeling, even tasted secondhand. The Harbinger shivered, and its pieces fractured beneath the strain; it was all the pre-Legendary skill could do to keep Shiv from suffering an overflow of damage.
+
+Adam reached up with both hands and rang his fingers down his face, staring up between them at his sun in the sky. “No, no, no peace. Not for me, but for my enemies. I will find my peace in the submission of our foes, and we will do this by order of operations. We are going to build this Gate up. We are going to make this place impenetrable, impregnable. We are going to make this place a living nightmare for anyone and everyone that dares to come here. We are going to drive them to the brink!”
+
+And as Adam spoke, his voice overlapped with the dreaded presence within the mist, and Shiv felt his will turn into law as reality groaned beneath his ontological weight. “Shiv, listen to me. I need you to do something for me. I need you to stand for me. I am fragile now. I am weak now, but you can't be. I need you to be my fist. I want you to be my fist. There is no one I trust more than you here and now—”
+
+And those words inadvertently hurt Roland and the Starhawk more than Adam could ever know. But he just continued in fury and ignorance. “The monsters of the North think that they can unleash that creature on my gate. That creature which broke my town, our home. That creature, that murderer of Blackedge. I need you to break that thing. Starve the System. You are to bend it to submission. You are to do anything you want to it, but do not kill it. Make the System starve. You were right before I was blind and weak not to heed you. You were right! Damn the System! Damn it to all hells!”
+
+The clouds around Adam rumbled and spread outward. The Divinity that lit him turned blindingly bright, even greater than the illumination which fell from his glaring star above.
+
+“I will cast my gaze forward. I will find the beast for you, and after that, use whatever means you can to put an end to this travesty. That is my… my…” Adam blinked again, and suddenly the mists broke and thinned. He was himself once more. The crushing presence that he embodied was banished like a sudden fever gone into remission. The Paragon looked at his hands, and they were trembling. “What's happening to me… what just…” He shook his head. “It doesn’t matter. Father, I need…”
+
+“What? What is it, Adam?” Roland swallowed.
+
+“I need your wisdom. I need your experience. I need you to gather everyone inside this Gate. I want to face them. I want to speak with them, their leaders at least. I want to know what to make of them.” He hesitated. “I—I—I—”
+
+“Adam,” Shiv said, his voice made stern and heavy through the Harbinger. “Go get some rest first. I can see your mind and heart peeling apart. It’s been too much—” Adam opened his mouth, doubtless to declare how it would always be too much, but Shiv kept talking. “I know. But I’m here. So is Uva. So is your family. You might not be able to feel the peace, but it’s there for now. So use it. Think about it. Deal with the rest when you're ready. I’ll handle the politicking.” The Deathless gave Roland a look. “Take him home.”
+
+“No, wait,” Adam said, his voice weak, his eyes darting about erratically and unfocused. “Look… before that: the Gate rewards—”
+
+“Later,” Uva whispered.
+
+“Now,” Adam said. “We need to get something done at least. Something for you to—to—” He hardened himself. “If those skills won’t work, I choose The Dawn Unites—and… and… Give me a suggestion. Something else.”
+
+“Quick-Fab,” Uva said after a moment’s thought. “It will help Can Hu—”
+
+“Done,” Adam snarled.
+
+Skill Evolution Gained: Quick-Fab (Adept) > Seed of Sprouting Edifices (Heroic) 200
+
+Skill Evolution Gained: The Dawn Unites (Unique) > Sovereign Star of Symmetrical Summits (Unique) 200
+
+Shiv wasn’t sure what the first skill was going to offer, but he felt the effects of the second immediately. The mana core experienced a solar flare, but as the wave of azure light swept through Shiv, he felt portions of Uva's essence carried over into him. He felt parts of himself pulled free as well. Imprints of his unique path were drawn into the mana core, and then a second flare followed, followed by a third and a fourth, until finally a new glow fell upon the world. A glow that was imprinted with one of Shiv's skills, and suddenly a new set of notifications appeared before his eyes as he looked upon Uva.
+
+Symmetrize Soul and Skills
+
+The same notification appeared twice when Shiv regarded Roland and the Culturist. He didn't know what it meant to symmetrize his soul and skill exactly, but he could guess The Dawn Unites allowed two skills to be fused within a Pathbearer. This then might mean the alliance of two separate souls, perhaps skills from separate Pathbearers or entire Paths as well. Maybe it would even forge two people into one.
+
+After a beat of uncertainty, Shiv and Uva both gave their speechless assent, and what followed was at once cataclysmic and subtle.
+
+Their souls didn’t fuse together. Their Paths didn’t blend. However, a portion of Shiv’s soul was tethered to Uva’s by a beam of light projected from the mana core.
+
+And in the next instant, their strongest skills were bridged as well.
+
+Legendary Skill Conjoined: Leviathan of the Shapeless Tides (Legendary) - The Dreaming Storm (Legendary-Unique) > Leviathan of the Dreaming Tides
+
+At once, his shapeless tides crackled with kaleidoscopic energy and translucent mana. At the same time, Uva's lightning took on a cascading quality as surging vectors speared down the forking bolts. Shiv's Legendary Physicality, Magical Resistance, and Grappling Proficiency had been transplanted onto Uva's Unique Psychomancy, and likewise, her Skill was placed directly upon him. This wasn't a fusion. It was an outright overlap—and if anyone tried to invade the Gate while their powers were in alignment, then they might just be walking into the jaws of oblivion itself.
+
+“Holy shit,” Shiv muttered.
+
+Roland noticed the changes instantly; his pupils dilated in shock while the Culturist took a second longer to catch up.
+
+“Ah,” the Legendary orc breathed. “I see. Well. This is quite something indeed…”
+
+“North… north… north…” Adam repeated over and over. Shiv’s awe at the mana core’s newest evolution was cut short as he stared worriedly at Adam. “Please… Just… Stop it. Stop it. Don’t let it take our home from us again. Don’t… Promise me… promise…”
+
+“Yeah, yeah, okay,” Shiv said without hesitation. “I’ll handle it. You don’t have to worry. Just… get better, Adam. Don’t break yourself. You promise me that.”
+
+The Paragon tried to muster a smile, but his mind was reeling again. Uva projected a rush of power into him to stabilize his mental architecture, but it was clear he had gone past his limit for the day. His Divinity might have stabilized him, but the torture inflicted upon him by the crown placed him on a knife’s edge.
+
+Adam was close to insanity—so close to falling. And without Uva, he might have already plunged into that abyss.
+
+“Father…” Adam finally managed. “I want to… I need to go home. Please…” His words then were closer to a terrified child than a Legend or a god—and hearing it hurt Shiv in a way that he never wanted to experience again.
+
+“Of course, son, of course,” Roland choked. He took Adam by the shoulder and guided him back down toward the Perch. Before he left, he shared a look with Shiv—and his expression tightened. “He believes in you. More than anyone.”
+
+“Yeah,” Shiv said, feeling the pressure. “Roland—”
+
+“I know. I understand. I… I’ve done so much, but not enough for him. Not when it mattered.” The older man’s self-loathing was undeniable. “If you need me on the surface—”
+
+“Stay here,” Shiv said, resolute. “He didn’t call for the Dread Horizon to head out not because he doesn’t trust you—he wants you to stay because he needs his father more.” Whether that was pure bullshit or what Adam actually meant was beyond Shiv—but it was the right thing to say to Roland, for it applied a measure of relief to the man’s wounded heart. “You take care of Adam and the Gate, I’ll make sure the Tarrasque and the monsters outside never breach the walls. I’ll give you your peace. I promise. I swear.”
+
+Worship Performed
+
+And the act of faith Shiv enacted burned him as the mists of peace gnawed at his soul. Even so, he suffered the pain gladly, for though he was a creature of war and death, he aspired to far greater things now—greater things, and higher hopes.
+
+Adam had given himself for Blackedge, for Shiv and Uva, for what he believed time and time again. But where the Deathless emerged from torment and suffering renewed and strengthened every time, too much had been taken from Adam. Too much had been done to his mind and heart.
+
+He needed time to heal. But the System wasn’t going to give them that time at all.
+
+“Unless we strike first,” the Harbinger agreed. “The voice in Adam is right. Even if it is something invasive, it is right. We go on the offensive—we stay on the offensive. That is our duty now. We take the first hits. We fight the wars. We give him his peace and his time. We are beyond death; so we will make use of that to carry the burdens that no one else can.”
+
+Uva, Shiv, and the Culturist watched Adam descend with Roland in silence. As the two became dots in the distance, the Culturist broke the silence. “I suppose we should get some unpleasantries out of the way, then.”
+
+Shiv looked to the orc. “The Tarrasque?”
+
+“That, but something else besides. The Endhound isn’t the only beast we must face. There will be others down the line. Even if you defeat and contain the Tarrasque, there will be my kindred, the vampires, Compact, the Vultegs, and the Jotun. Quite a coalition; it’s time we actually start building our own.”
+
+And Shiv realized what the orc was talking about. “You know, the Pathbearers from Lone Star might just shoot you if you turn up out of nowhere.”
+
+The Culturist shrugged. “Considering what I have done to them, I might even deserve it. But I think we can persuade them to turn their guns and hatred on a higher enemy. Or at least you can.”
+
+“You know, I’m starting to hate how everyone’s relying on me,” Shiv mumbled. “Not my kind of pressure.”
+
+“Best get used to it, Deathless,” the Culturist replied. “Responsibility is the price of love and being loved by a place and its people.”
+
+Shiv paused. “Yeah. So it is.”
+
+Gate Piety
+
+Category 4
+
+Skills
+
+Crisis-Forged Fortitude (Initiate) 1
+
+Emergency Relocation (Adept) 1
+
+Industrial Transplantation (Adept) 1
+
+Second-Person Perspective 2 (Master)Seed of Sprouting Edifices (Heroic) 200
+
+Sovereign Star of Symmetrical Summits (Unique) 200
+
+Feast of Dreaded Flame (Unique) 10
+
+Skein of Hollow Dreams (Unique) 13
+
+Biomes
+
+Autumnal Forest (Common - Active)
+
+Freshwater Aquatic (Common - Active)
+
+Umbral Wilderness (Common - Inactive)
+
+Saltwater Aquatic (Common - Inactive)
+
+[Undefined] Grassland (Common - Inactive)
+
+[Undefined] Desert (Common - Inactive)
+
+[Undefined] Tundra (Common - Inactive)
+
+Select Elemental Dimension Biome:
+
+Master-Tier: [Plane of Fire]
+
+Master-Tier: [Plane of Frost]
+
+Master-Tier: [Mithril Caverns]
+
+[Unique] Master-Tier: [Psionite Quarry]
+
+Districts
+
+Farnest
+
+Skyfolk Residentials
+
+Grounder Residentials
+
+Aquatic Residentials
+
+Bunker Point
+
+Shiv’s Kitchen Hellpit
+
+New Blackedge
+
+Peacehold
+
+Abyssal Residentials
+
+Draconic Hoardnest
+
+Gateways
+
+Tutorial
+
+Earth (Abyss)
+
+Earth (Surface)

@@ -1,0 +1,53 @@
+---
+id: 1caed251-a9b7-50d1-8955-5fc58c2f1bba
+page-type-slug: story-chapter-written
+title: "Firelit Knit"
+slug: 0001-firelit-knit
+partOf: come-here
+position: 1
+unit: words
+---
+
+She has your sweater on and nothing else, and she has been letting you notice that for twenty minutes.
+
+She sits sideways in the wing chair with her knees up and both hands around a mug, the cream knit slipped down off one shoulder, the hem of it gone useless where her thighs press together. The fire is close enough that one side of her runs hot. She watches you over the rim, takes a slow mouthful, swallows.
+
+Then she leans out and sets the mug on the hearth, and lets her knees fall open.
+
+"Come here," she says.
+
+You go down on the rug in front of the chair. Her legs come over your shoulders and the sweater rides up her belly and she is bare under it, warm from the fire on the outside and warmer than that under your mouth. She is already wet. You taste it on the first pass, the flat of your tongue up through her, and she makes a small ugly honest sound and gets a fistful of your hair.
+
+You take your time, because she will not let you take your time for long. Broad slow strokes, the whole length of her cunt, tongue pressed flat so she gets width instead of point. Her thighs shift on your shoulders. When you narrow to her clit she goes rigid — every muscle in her legs at once — and then loose again, and then she is pushing up into your face, and the hand in your hair stops being encouragement and becomes steering.
+
+"There. There, don't — yeah."
+
+You give her there. You keep your tongue where she put it and let her fuck your mouth from the chair, hips working in small tight circles, and you slide two fingers into her while she does it. She is hot inside and grips down hard on the intrusion, and the sound she makes when you curl them up is not a word. You find the ridged place behind her pubic bone and stroke it in the same rhythm as your tongue, and her heel digs into your back.
+
+Her breathing goes short. Ragged, out of time, catching on the upswing. The fire pops. She says fuck twice, and then she stops saying anything at all, and her cunt clenches around your fingers in one long grinding pulse and then a run of quick ones, and she comes with her thighs locked round your head and your name in there somewhere, distorted.
+
+You keep going through it, gentler, until she pushes your forehead back.
+
+"Up," she says, hoarse. "Up, up, come on."
+
+You get your jeans open kneeling there in front of the chair. She takes your cock in a hand still shaking and gives it two rough pulls, thumb dragging over the head, and then she is hauling at your shoulders — get up here, get in me — and you stand, and she comes forward to the edge of the seat and turns and puts her knees in the chair, forearms on its high back, the sweater rucked up over the small of her back.
+
+You push in from behind, standing, one hand on her hip. She is so wet from your mouth that you go the whole way in one slow shove, and she drops her forehead onto her arms and swears into them.
+
+Then you fuck her properly. The chair rocks on the rug and she takes it, braced on the padded back, breasts loose inside the knit and swinging with each stroke. Your hand slides up under the sweater and finds one and you fill your palm with it, thumb across a hard nipple, and she pushes back into you to meet the next thrust. The wet sound of it is loud in the room. Her hair is everywhere. Skin against skin, and under that the small squeak of the chair frame, and under that her breath punched out of her in a grunt every time you bottom out.
+
+"Harder. I'm not going to — harder, I'm not going to break."
+
+So you stop being careful. You get both hands on her hips and pull her back onto your cock as you drive forward, and the impact goes right through her, and after a dozen like that she reaches down between her own legs and starts working her clit while you fuck her. You can feel her knuckles moving against the base of your cock on every stroke.
+
+Her second one builds slower and lands heavier. You feel it start deep, a flutter that becomes a grip, and then she is clamping down so hard you have to fight to keep moving. She holds her breath through the whole first half of it. When it lets her go she sags forward onto her arms, cunt still pulsing round you, and says keep going into her own elbow, wrecked.
+
+You keep going. Four strokes, five, the heat gathering up hard at the base of your spine, and then you are there — you pull her hips back flush and hold and come inside her, hard enough that your vision goes white at the edges, pumping into her in long jolts while she reaches back blind and grips your thigh to keep you where you are.
+
+For a while neither of you moves. Her back rises and falls under the sweater. Your thumb strokes the top of her hipbone without you deciding it should.
+
+She lets herself down sideways into the chair eventually, in a heap, one leg still hooked over the arm, the sweater slipped off the shoulder again exactly the way it started. She reaches down and finds the mug on the hearth and drinks what's left of it and pulls a face.
+
+"Cold," she says.
+
+She holds it out to you anyway, so you have something to do with your hands, and shifts over to make room in a chair that was never big enough for two.

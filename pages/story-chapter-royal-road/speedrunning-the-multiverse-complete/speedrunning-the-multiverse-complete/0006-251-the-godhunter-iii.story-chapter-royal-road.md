@@ -1,0 +1,173 @@
+---
+id: 5f3111a8-bba6-5ced-852a-2dd516c613f7
+page-type-slug: story-chapter-royal-road
+title: "251. The Godhunter (III)"
+slug: 0006-251-the-godhunter-iii
+partOf: speedrunning-the-multiverse-complete
+position: 6
+ownLength: 1861
+unit: words
+ownProgress: 1861
+publishedAt: 2023-06-29
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1261141/251-the-godhunter-iii"
+royalRoadId: "1261141"
+markedReadAt: "2026-06-29T22:41:49.666Z"
+---
+
+Sun chewed thoughtfully on her carrot. “So… heist? Again?”
+
+“Not this time. I signed a pact with Fate, unfortunately.” Dorian sighed. “In return for his help we’re not only retrieving my bodies. We also have to destroy Jez’s Infinity Hearts on the planes along the way. And if his forces are headquartered at Mt. Tai…you can bet the Heart’s there too. There’s a very slim chance we can steal an object with a Godking’s aura out from under their noses. But we’re certainly not destroying the source of their power on this plane without them noticing.”
+
+“So we actually need to beat them? Like… in a fight?”
+
+“Unless you’ve got a better idea, it’s looking like it!”
+
+Sun wrinkled her nose, like she’d just smelled something rotten. “How’ll we do that?”
+
+“Not a clue,” said Dorian. “Why don’t you come up with something? Isn’t planning your thing?”
+
+“Well yeah, but I need a information! And resources! And time. And that’s a Godking and dozen Empyreans. That’s… a lot.” She scratched her head. “But I guess I can give it a shot. Be right back.”
+
+She squeezed shut her eyes, scrunched up her face, and went perfectly still.
+
+“You! Intruders!” Beneath, the dragon let out a spark-filled snort. Dorian had forgotten it was still there.
+
+“What?”
+
+“You mean to take on those bastards on Mt. Tai?”
+
+“Wait!” Sun’s eyes snapped open. “You’re not a fan of this dragon-king?”
+
+“A fan? Ha! That so-called dragon-king dipped his head to an outsider! Without an ounce of dragon’s blood in him! Not regal blood, no common blood, not even drake—nothing!” The dragon spat out a puff of fiery disgust. “No. He’s turned his back on the old ways. Not a mote of dragon’s pride left in him. He’s no king of mine.”
+
+“Imagine that.” Dorian whistled. “I remember old Snarltooth. That stubborn bastard  wouldn’t yield to me when I had him dead to rights. Now he grovels to Jez? Guess time really has dulled him.”
+
+“Snarltooth?” said the dragon. “You’ve not been around these parts lately, have you? He’s not been the dragonking for years!”
+
+“Then who is?”
+
+“Scraggletooth, that feckless brother of his! Sold out Snarltooth to Jez the first chance he got. Now he’s king, like he always wanted, only he spends every waking breath kowtowing to an outsider. It isn’t done.”
+
+“No it isn’t, not at all!” said Sun agreeably. “He sounds awful.”
+
+She was cooking something up. Dorian could tell by that cheeky grin slowly spreading across her face. He knew since he wore it all too often.
+
+“I never did like that Scraggletooth,” the dragon declared. He seemed like he had a lot to get off its chest, and was happy ranting at pretty much anyone. “Always seemed the slimy type. And now he’s forcing the rest of us to join that cabal of Jez’s—and give up our powers to them! And if we refuse, like most any self-respecting dragon has, why, we’ve got to pay tribute! A tenth of our hoards! It’s intolerable! It’s tyrannical!”
+
+He gnashed his teeth. “You can’t even spread your wings these days without Jez’s say-so.”
+
+“What a buffoon! A scoundrel! A… mean man!” agreed Sun, pounding her fist. “Someone should really do something about that guy. And his goons. Say—he’s only got… a Godking and few dozen Empyreans, you said?”
+
+“That’s my guess. What’s it to you?”
+
+“How many other dragons are there about, d’you think? Ones who might feel the same way you do?”
+
+“What do I look like to you? A fortune teller?” the dragon snorted. Quite the snorter, this one, and Dorian could hardly blame it. If Dorian’s snorts brought out giant clouds of sparks he’d snort all the time too. “Do you see a scrying glass lying about?”
+
+That was the thing with dragons. Their egos not only huge, but also made of rubber. Squash them down for a few minutes and they’d bounce right back.
+
+“Just give me a guess? Pretty please?” said Sun.
+
+The dragon eyed her, then Dorian and Gerard. Gerard quirked a brow, then flared his Empyrean aura. The dragon made the sensible choice.
+
+“There’s a few hundred gods, maybe, out and about! And a dozen or two Empyreans. I hear the folks up in the Glassy Mountains—” Here he jerked his head at an icy range beneath a clump of sleeting clouds—“Are snorting up a cloud over it.”
+
+“Hmmm,” muttered Sun. “Interesting.”
+
+She exchanged a glance, and Dorian caught her meaning instantly. “So what do you think?” she asked.
+
+“Not bad,” he said. “Could work…”
+
+His wings blew out to either side of him, stretching to their full size like masts in the wind. At the same time Dorian flared his Torchdragon aura, let it out in full. His Fourth Form Torchdragon aura.
+
+The dragon gasped.
+
+“Ah!” His eyes were instantly reverent. “T-Torchdragon? Regal bloodline!” That was the dragon’s term for a legendary Bloodline. Only a handful qualified, and his was among the rarest. Only with a regal Bloodline could one qualify to become a dragon-king. “And of such maturity, such purity…”
+
+He swallowed. “This one suspected you were of kindred blood. But this one did not think... this one has eyes but cannot see Mt. Tai!”
+
+Then it began to beat its head madly against the ground, showering gravel everywhere. “Please! Forgive this one! This one was foolish! This one was blind!”
+
+“No need for that,” laughed Dorian. “Please, rise! I’m not here to punish anyone. Or lord myself over anyone, for that matter. I’m not Jez. On the contrary, actually…” He winked at Sun, and she threw him a thumbs-up. “I’m here to save you.”
+
+“W-What?!”
+
+“My name is Dorian. And as you have felt—I am your kin. It so saddened me to hear of the many oppressions Jez has inflicted upon you of the dragonrealm,” he sighed. “In truth, the realm from which I come, Hell, has suffered his attacks too. It’s horrible.”
+
+“Horrible!” wailed the dragon.
+
+“But in my realm we’ve managed to route his forces. Beat them back! And we are even now marching on his capitol.” Dorian spread his arms. “Now I’ve come with my companions to liberate this realm too.”
+
+“You…have?”
+
+And he thrust out Fate’s map. “This was given to me by Old Man Fate himself, the leader of the Multiversal resistance!” He shook it out and held it up for all to see. Motes of Fate’s Laws, green and soft, swirled gently above it like drifting snowflakes.
+
+“Ahh,” croaked the dragon.
+
+“It was on his mandate that I came here.”
+
+Now he had this dragon hooked—his mouth hung wide open, leaking trickles of smoke out the edges—it was time to reel him in.
+
+Like a God descending to grace mortal soil Dorian flew down. Gently did it. He gave the dragon ample time to soak in the majestic sight, his majestic aura, his majestic smile, even. And then he reached out a finger and pointed it straight at the dragon’s head, like it was being specially chosen.
+
+The awestruck dragon ate it up. It was dribbling a little slobber as he drew near.
+
+“What is your name?” boomed Dorian.
+
+“This one is called greenscale!” cried the dragon.
+
+“Greenscale. Greenscale,” said Dorian, like he was some judge weighing the syllables. He nodded, like he found them worthy. He flared his Bloodline, and the dragon nearly keeled over. This close it must’ve felt overwhelming. “Will you join us on our quest to liberate this realm from Jez’s tyrannical rule?”
+
+“And also find a delicious treat for Sun!” Sun added, her voice a little squeak in the wind. “That part’s important too!”
+
+“Yes!” cried Greenscale. His eyes were watery.
+
+“Then welcome, brother Greenscale, to the resistance!” said Dorian. He swept his arm out in one grand gesture. “We shall sweep across to the Glassy Mountains!”
+
+…Where were the darned things, again? Gerard gently moved his arm to point at the correct mountain range. Ah, yes. Icy peaks, sleety clouds.
+
+“—To the Glassy Mountains!” Dorian continued unperturbed. “And then to its neighbors, and their neighbors, gathering strength along the way! Gathering all those true dragons who would never bow their heads! And then, our warriors in tow, we shall march on Mt. Tai itself, and liberate this realm for good! We shall show that Jez bastard that he can never keep down a dragon’s fighting spirit!”
+
+It had been a while since Dorian had played the maniacal cult leader. That speech was pretty rusty. Still, it was only a first draft, and he figured he’d have many a chance to revise it as they went about drumming up a force. Rough as it was it still seemed to move Greenscale. The dragon was trembling.
+
+“To the resistance!” whooped Sun. She gave a little fist pump.
+
+“To the resistance!” cried Greenscale, and burst into tears.
+
+“I also support this movement,” said Gerard. “I will distribute pamphlets if necessary.”
+
+“Excellent.” Dorian pointed at the Glassy Mountains. The correct ones this time. “Off, then, to gather more kindred spirits!”
+
+And so their party got a fourth member.
+
+***
+
+“—and so those dragons who refuse to surrender, who snort at tyranny and who kowtow to no one shall show those bastards on Mt. Tai who truly rules the dragon-realm!” Revision two was a little more soul-stirring, but too wordy still. ‘Refuse to surrender’ and ‘kowtow to no one’ were basically the same thing. Still, three white-scaled dragons of the Glassy Range seemed practically ready to go into battle for him then and there.
+
+A fourth—an Empyrean dragon with a shaggy mane shot through with ice—was not so easily convinced.
+
+“I don’t know. I don’t know you,” he grunted. “And you are but a God. How are you meant to defeat Scraggletooth?”
+
+“Ah, but I am not just any God.” Then Dorian whipped out his Spirit Pavilion ranking crystal. “I am the number one ranked God in the Multiverse! Ignore the username. And this—”
+
+He tossed the crystal to Gerard, who caught it with one hand. The other held up a parasol which neatly repelled all the sleet.
+
+Now a new number flashed above the crystal. “Is the seventh ranked Empyrean in the Multiverse. Both of us have fought and won against Godkings before.”
+
+“Hmm,” said shaggy-mane. “I don’t know.”
+
+“And the numbers will be on our side. A Godking is formidable alone, but he is but one Godking with but a handful of Empyreans. How many Gods will we storm him with? How many Empyreans? But even if the battle may be fraught, and the enemy strong…is that any excuse to bow your head? To flee with your tail between your legs, like some beaten dog?”
+
+“No!” cried Sun.
+
+“No!” cried Greenscale.
+
+“No!” cried the three ice dragons.
+
+“I should hardly think so,” said Gerard mildly.
+
+Which was how they got the dragons of the Glassy Mountains on board too.
+
+Dorian was pleasantly surprised how smooth it was going. His words and Sun’s well-timed cheerleading made for a nice one-two punch. Dorian the liberator. Dorian the savior! Imagine that.
+
+Of course Fate being the heinous bitch it was, their next encounter turned quite violent.

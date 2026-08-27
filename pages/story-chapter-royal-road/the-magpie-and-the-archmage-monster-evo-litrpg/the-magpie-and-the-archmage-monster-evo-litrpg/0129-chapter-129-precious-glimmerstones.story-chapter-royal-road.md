@@ -1,0 +1,285 @@
+---
+id: de799b05-c19d-535f-9045-a442ec471405
+page-type-slug: story-chapter-royal-road
+title: "Chapter 129 – Precious Glimmerstones"
+slug: 0129-chapter-129-precious-glimmerstones
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 129
+ownLength: 2081
+unit: words
+publishedAt: 2026-05-29
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3463376/chapter-129-precious-glimmerstones"
+royalRoadId: "3463376"
+---
+
+Are you sure this is free?
+
+Since when does looking at menus cost anything? Yes, it's free. Now, can you please take a look?
+
+Show options for Mimicry upgrade.
+
+[Mimicry (Rank 2) variants available:]
+
+[Perfect Echo Mimicry – Allows you to perfectly replicate voices, tones, accents, and even emotional undertones. Copy multiple voices in rapid succession and control how close or distant your voice sounds to others.]
+
+Sorry, but I'm not paying 100 glimmerstones for that. It's just a slightly improved version of what I can do now.
+
+Keep reading. This isn't the only option.
+
+[Commanding Mimicry – Your voice compels others to listen to your command. Make them hesitate, obey briefly, or misinterpret the words of others. Potency increases with skill level.]
+
+What. the. hell?! That is terrifying! How did we go from perfect voice mimicry to controlling people?! These two skills are definitely not on the same level.
+
+I suspect the effect is rather weak at lower levels. You'll likely need to rank it up to Expert level for it to be actually useful.
+
+That would take forever!
+
+Let's add this as a maybe. I don't think it matches your skillset very well.
+
+[Arcane Mimicry—
+
+YES! Pick this one!
+
+Let me read the description first, you magic maniac!
+
+[Arcane Mimicry – Allows you to replicate sound-based spells and incantations with higher potency. Also improves your spellcasting accuracy and power while mimicking.]
+
+Okay, I'm going to be frank. I'm not a fan of incantations. You always say I don't have mana for most spells, and even for those I do, it always takes time to recite the incantations and get the spell going. In the middle of the battle, it's not going to be very useful.
+
+But…
+
+And how many sound-based spells have we come across? Zero. I assume the sound-based skills I copied from monsters don't count.
+
+No…
+
+So, it's a no for Arcane Mimicry. Let's check the next one.
+
+[Resonance Mimicry – Your mimicry gains resonance, which allows certain sounds to create physical effects that can shatter weak structures, disrupt concentration, and interfere with projectiles. Effectiveness scales with the skill level.]
+
+There was a moment of pause as Liora and Renir contemplated the skill.
+
+This sounds… useful. I'd love to shatter glass with just my Mimicry. Breaking into places would be so much easier.
+
+It's always about theft with you, isn't it? But I do agree that this is a useful skill.  Disrupting mage concentration is huge and interfering with projectiles… It's exactly what you need. Although this will likely be more useful only after reaching a higher level.
+
+I like it! I'm picking this one!
+
+Liora was about to order the System to accept the option, but then paused. It would cost her one hundred glimmerstones. One hundred of her precious, hard-earned glimmerstones.
+
+Liora, I know what you are thinking, but getting stronger is crucial. We've been living on the edge basically, this whole time, winning most likely due to pure magpie luck.
+
+Amazing thing, isn't it?
+
+Yes. But we can't keep relying on luck, can we? You and Cee both need to undergo serious training. Glimmerstones can always be obtained. We can head into a dungeon to farm for glimmerstones. But skills are best when unlocked as soon as possible. So you have time to train them. Especially Mimicry, which you use all the time to talk.
+
+Liora hated to admit it. Her magpie self protested against this with all her might. But Renir was right. Resonance Mimicry would be a great boost to her combat abilities. Another way to disrupt the enemy and gain an advantage.
+
+Buy the upgrade, Resonance Mimicry.
+
+[Would you like to upgrade your skill <Mimicry> to Rank 2 skill <Resonance Mimicry> for 100 glimmerstones?]
+
+Liora's whole being shivered. She wanted to scream and object.
+
+Liora, confirm the choice!
+
+I… I…
+
+Confirm it!
+
+Yes. Upgrade it!
+
+[Skill <Mimicry> upgraded to <Resonance Mimicry>.]
+
+Liora broke out into tears. Or she would have if she could. Instead, Liora slumped into a heap on the branch she was sitting on.
+
+"What's wrong with you?" Cee asked.
+
+"I just spent a hundred glimmerstones to upgrade my Mimicry…" Liora said in a weak voice.
+
+"What?! You can upgrade skills? How?" Cee asked excitedly.
+
+"You need to max them out and pay the price… 100 glimmerstones… It hurts…" Liora groaned.
+
+"Yeah, I get it. You'll be depressed for the foreseeable future. Why don't we start the resistance training since you're a useless heap anyway?"
+
+"Why you got to kick me while I'm down…"
+
+"I'm helping you, you silly bird. Training your skills for you. You should be grateful," Cee said and began weaving her webs.
+
+Liora sighed. Oh well. Even Cee's webs couldn't hurt as much as the loss of one hundred glimmerstones. Again.
+
+True to her word, Cee placed the freezing cold web on Liora's leg and on two of her own legs.
+
+"I don't feel a thing…" Cee bemoaned.
+
+"I just feel the loss of glimmerstones… What kind of magpie even am I? Give up my hoard… for a skill. Humans are twisting my mind…" Liora said, not even fully noting the unpleasant cold on her leg.
+
+"Always with the glimmerstones with you. Aren't you bothered by the cold? Ah, never mind. If you're okay with this, might as well train both those skills at once. Can you withdraw Renir? I want to talk to him to decide which skills I should work on. Since I can't seem to train resistance from my own webs," Cee said.
+
+Liora numbly withdrew Renir, holding him in her talons, and allowed the two to talk. Their chatter turned into background while Liora wallowed over the loss of her glimmerstones. She would regain them. Every. Last. One.
+
+"Catch me if you can, stupid wolves!" Liora taunted, flying low to the ground while avoiding the trees in her path by using her much more compact magpie form.
+
+The stupid creatures that were actually twice the size of the regular wolf and with fur as tough as steel ran after Liora, cutting down trees with their metallic claws as they ran.
+
+[Razor Wolf]
+
+Their names were displayed in yellow, warning that they were higher level than Liora. Sadly for the wolves, that's where their advantages ended. Despite their fearsome appearance and the fact that there was a large group of them together, these wolves actually weren't that smart.
+
+They had caused plenty of trouble for people in Abylport, though. When the corruption fog descended upon the city, these wolves were given free rein, so they multiplied like crazy, making up many new packs that endangered the locals.
+
+Liora, after hearing this news while snooping around the city, decided to see whether they would make for good training practice. At first glance, she was terrified and outright refused to fight them. But Renir managed to convince her otherwise. She was very glad that he had, because there was nothing more satisfying than showing these dirty dogs their rightful place.
+
+As Liora flew past, clearing with intricate webs drawn on the ground, the wolves ran after her without faltering for a moment. The lines lit up, and the next moment, all wolves were forced to stop under the sudden shift. Confused, they looked around, searching for the source of the sudden increase in weight. But obviously, the spider was a safe distance away from them.
+
+"Let me see how you enjoy this!" Liora called, turning into her Aethral form, and opened her beak wide. "BOOM! BOOM! BOOM!"
+
+She was mimicking the sound of Cee's mana overcharge explosion with a bit of amplification by using the explosion noises from thriller movies. In the last two weeks, she had discovered that these kinds of explosive noises produced the most powerful resonance waves. Liora could almost see them vibrating in the air.
+
+And as it turned out, these resonance waves were a super-effective attack against the metallic wolves. They yowled and whimpered as the loud noise deafened their sensitive ears while the resonance reverberated through their bodies, throwing them completely off-balance.
+
+All Liora had to do was keep mimicking the loud, explosive sounds. This didn't cost any mana or stamina. Yet they were being weakened more and more with each of her explosive cries.  When it was clear that the wolves were close to being dead, Cee would cover half of the pack with her new patented magma web to finish them off for that juicy experience.
+
+[You've assisted in defeating <Razor Wolf – Level 38>.]
+
+[You've assisted in defeating <Razor Wolf – Level 40>.]
+
+[You've assisted in defeating <Razor Wolf – Level 41>.]
+
+Another flurry of her loud BOOM, BOOM, BOOM, and the remaining wolves were dead too.
+
+[You've defeated <Razor Wolf – Level 39>.]
+
+[You've defeated <Razor Wolf – Level 35>.]
+
+[You've defeated <Razor Wolf – Level 40>.]
+
+[Your skill <Resonance Mimicry> has reached [Novice] level.]
+
+"Finally! My Resonance Mimicry reached a novice level!" Liora cheered as she swooped down to search the Razor Wolves for glimmerstones.
+
+"That took ages!" Cee said, deactivated her Bedrock Mandala, and also jumped up to one of the corpses to search it.
+
+Rank 2 skills take quite some time to level up. Wait until you reach Rank 3.
+
+There's Rank 3? Spare me! I'll die of old age before ever reaching Rank 3.
+
+That… Hmm. I wonder what your current lifespan is at the moment. It must have increased when you evolved. To my knowledge, magpies don't live very long, do they?
+
+The oldest magpie I knew was apparently five summers old.
+
+Wow… that's not old at all. Aren't you like three already?
+
+Liora thought about it for a second.
+
+Not yet. It will be three springs next spring since my hatching in this world. My, how time flies. But never mind that. There are glimmerstones to collect.
+
+Liora counted the shimmering stones with glee. Twenty-eight per wolf. With six wolves, that made a total of one hundred and sixty-eight. Split half with Cee, which means that Liora got eighty-four glimmerstones.
+
+Yes, yes, yes! Finally!
+
+[Your skill <Glimmerlust> has reached [Expert] level.]
+
+[Glimmerlust – Rewards your desire to hoard glimmerstones. At [Expert] level, it provides you a 0.04% power and speed boost to all your skills.]
+
+"Chak-chak-chak! Chak-chak-chak!" Liora laughed. Finally. Her beautiful hoard of glimmerstones had reached one thousand. One thousand and five to be exact. With this skill upgrade, all of her skills received a 40.2% power and speed boost.
+
+"What are you laughing about like a maniac?" Cee glanced in Liora's direction suspiciously.
+
+"Because I have become the ultimate magpie! Over 40% boost! I am unstoppable," Liora gloated.
+
+"I can't deny that this training session has been very fruitful. I feel like a whole new spider," Cee nodded.
+
+"Yes! My profile looks so much better now!" Liora said, bringing up the screen to look at it in its full glory.
+
+[Profile]
+
+Name: Liora
+
+Species: Lumenwing Aethral
+
+Level: 36
+
+Health: Average
+
+Mana: Moderate
+
+Glimmerstones: 1005
+
+Skills (12/12):
+
+Resonance Mimicry [Novice]
+
+Lunge [Legend]
+
+Skypierce [Expert]
+
+Air Slash [Expert]
+
+Fade [Legend]
+
+Mana Conversion [Expert]
+
+Poison Shot [Expert]
+
+Holy Light [Expert]
+
+Wind Blast [Adept]
+
+Purify [Expert]
+
+Featherflash [Adept]
+
+Aegis Cyclone [Novice]
+
+Traits (12/12):
+
+Twilight Vision [Legend]
+
+Treasure Sense [Adept]
+
+Aerial Agility [Legend]
+
+Glimmerlust [Expert]
+
+Shadow Glide [Expert]
+
+Inventory [Novice]
+
+Magpie Disguise [Expert]
+
+Poison Resistance [Expert]
+
+Fluid Flight [Adept]
+
+Paralysis Resistance [Adept]
+
+Frost Resistance [Adept]
+
+Predator of the Deep [Novice]
+
+Next Evolution: Requires Level 40 and ??? Glimmerstones to unlock
+
+Good thing you have reached a new level for Glimmerlust. You might need to spend a few hundred more glimmerstones on skill upgrades since you have a few at Legend level.
+
+LALALA! I can't hear you!
+
+All of a sudden, Liora felt a weird vibration within herself. As if somebody had stuffed a mobile phone inside her and it was vibrating now.
+
+"What? Why are you making that weird face?" Cee asked.
+
+"Something is… vibrating…" Liora said.
+
+"Vibrating? What?" Cee cocked her head in confusion.
+
+It's the communication stone. Withdraw it from your Inventory.
+
+Liora withdrew the stone in her talons and felt how it was vibrating gently as well as glowing ever so slightly.
+
+Pour a bit of mana into it to answer the call.
+
+"Cee, answer it by pouring mana into it," Liora said.
+
+You lazy bird…
+
+Cee reached out her leg and touched the communication stone. The moment she poured mana into it, Sallie's soft voice came from it. "Liora, Cee, are you there? We have a problem!"

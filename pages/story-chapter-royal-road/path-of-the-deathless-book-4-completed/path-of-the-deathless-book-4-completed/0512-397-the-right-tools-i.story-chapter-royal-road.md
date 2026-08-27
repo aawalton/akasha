@@ -1,0 +1,187 @@
+---
+id: 64ad68b6-ee7e-5ff5-b0be-01e30930271a
+page-type-slug: story-chapter-royal-road
+title: "397 The Right Tools [I]"
+slug: 0512-397-the-right-tools-i
+partOf: path-of-the-deathless-book-4-completed
+position: 512
+ownLength: 4836
+unit: words
+publishedAt: 2026-07-02
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3623462/397-the-right-tools-i"
+royalRoadId: "3623462"
+---
+
+I've served under good leaders. I've served under bad leaders. Personally, I think I myself am an okay leader. Nothing special, but I'll do my best not to get you killed—which sometimes makes me a remarkable leader on the battlefield. You won't believe how many people mix being stupid with being heartless at the same time. Usually, those people don't last that long.
+
+You need to know what you have at your disposal and what obstacles are placed against you. Everything is decided by the details, and you have to pick the right tools for the job. If you need to set up a tent and you have someone who possesses Master-Tier Architecting Skill, you might think that the job will practically handle itself, but then you realize that your Architect is so haughty that they refuse to do such a meager job, or that they're bad at time management, or that their Skill Evolution only applies to underground megastructures. I've run into all of these cases before, and trust me, you don't want to pick wrong when the time comes.
+
+And sometimes the finest act of leadership you can perform is letting someone else take the lead because you know you are not the right person for the job. For the sake of everyone around you and the mission at hand, you gotta swallow your pride and let another tool take the stage.
+
+In that sense, being a good leader and being a powerful Pathbearer are more than a little bit opposed.
+
+—Memoirs of a Master-Tier War Mage
+
+397
+
+The Right Tools [I]
+
+Damming a concentrated torrent of Eldritch mana using one's body was like trying to wrestle a tidal wave into submission. Ultimately, the problem was leverage, mass, and surface area. Even if a Pathbearer possessed an adequate level of Physicality, a human body simply wasn't anywhere near as large as a dam; every bit of water they failed to block would surge right past and carry on with the momentum.
+
+Such a task would have been a hopeless endeavor for most, with only the mad or suicidal willing to try, fated to be wrenched away and cast out into the heartless ocean by the riptides as they were.
+
+For the Deathless of Gate Piety, however, this was simply to be another assignment of manual labor.
+
+The sheer amount of outsider magic tearing out of Uva was immense, dense, and destructive; it was pure luck that no one had perished when the sudden rush of overwhelming mana usurped her control. Even so, it came close. Her beam carved twin curves into the surface district where the slaves and residents resided. A series of major structural supports had been melted down to Eldritch slurry, dissolving to become dappled colors staining the air. Rows of buildings began to pitch and tilt—the grand platform holding the district aloft gave a groaning noise as if metal slid against metal.
+
+Shiv could hear the sounds of instability build behind him even now—even over the cacophonous noises emanating from within Uva’s magical expulsion. Gotta keep an eye on that too. If that starts coming down, I'll need to catch it. I don't really know much about physics or how Marikos' Physicality Skill works, but I doubt he can hold it up without punching clean through the plating keeping the district together.
+
+And that was only the lesser issue. Getting Marikos to do something you wanted required more than just persuasion. At present, he was using his shield to drive the Eldritch beams back, causing them to diffract in all directions as he screamed for Valor to reveal himself. He exploded forward at an alarming pace. If he kept going at this pace, he'd reach the building Uva was in sooner or later.
+
+Shiv couldn't accept that outcome either, mainly due to the risk of Marikos simply smashing the building down to rubble or immolating it in a violent tantrum.
+
+Thus, he was forced to keep pace and stay close to Marikos. He had separated his Shapeless Tides into two formations. The first was planted against the mana torrents, stabilizing the eldritch current and keeping them contained rather than diffracting in all directions and risking collateral damage like Marikos. Shiv stacked his secondary formation behind the first, gradually pulling himself ahead, working to keep pace with Marikos without burning through his strength resources in an instant.
+
+The difference between their respective Physicality Skills was evident—Marikos’ absurd strength seemed to be a thing of pure muscle, something he could keep tense and use in any situation until he was spent with stamina or broken of body. Leviathan of the Shapeless Tides, meanwhile, was an economy, and if Shiv used his mind with calculated consideration, the overflow tides he generated would compound or replace all that he lost. That meant if Shiv kept the tides he lost and gained in perfect balance, he could apply a perpetual output of force.
+
+Maybe that's my advantage over him, Shiv thought, trying to cope with how superior Marikos' Physicality seemed. Though Shiv could maintain his strength in perpetuity, he struggled against the onrush of matter while Marikos swam against the current—as if it didn't exist at all.
+
+As Shiv crawled forward, he tried to call out to Marikos, yet was surprised as the Dragon-Knight was suddenly driven back, making them parallel to each other for the first time.
+
+“Marikos, you alright?” Shiv sent through his Harbinger.
+
+Marikos let out a snarl of pure frustration. Shiv's eyes narrowed as he saw blood leaking out from Marikos' eyeballs, and gleaming, fractured limbs that resembled the twitching limbs of a spider were sliding into the wounds. “Do not expose your eyes, Deathless! That contemptible cur, Valor, has used a dishonorable implement to blind me!” Another swarm of fractured spiderlings leapt out from the surface of the eldritch stream and clambered down Marikos’ throat. Marikos choked and gagged, letting out a chuffed cry of outrage. “Valor! Will your perfidy never cease? Face me like a proper Pathbearer!”
+
+Shiv winced and then flinched as he was ambushed by his own cadre of eldritch arachnids. They crashed into him, and since he didn't possess a building-sized shield to protect himself, the fractured spiderlings were upon him immediately. A hurricane of razor-thin shrapnel assailed him. Shiv's scar-forged shell was shrouded in a dense layer of fine scars, but after the first dozen cuts, the weight ceased as the spiderlings bounced off him, breaking themselves upon his adapted Toughness. In an instant, the hurricane of shrapnel became a hurricane of glass. The spiderlings impacted him at such extreme velocities they barely had time to be fragments at all, turning to powder and then nothingness in an instant.
+
+As even more of the eldritch summons crashed into Shiv, his body was wreathed within a veil of bursting geometries. Each of their bodies glowed and gleamed like Uva's did, yet they were far more brittle than she and possessed none of her elasticity. Her tainted mana crashed against him and began burrowing into his Magical Resistance and infesting his other attunements. Shiv tore at the crawling spell-sickness that began to eat away at his magical Skills like a fast-developing cavity, but found himself fighting a losing battle. Every thread he ripped out of himself was replaced by another—divided into another.
+
+Yet, Shiv wasn’t done. Sometimes the best solution for a Unique Feat was a Unique Skill. Shiv called upon his scintillating flame and set himself ablaze. He concentrated his Pyromancy and cauterized sections of compromised mana, boiling himself in a wreath of mystical incineration and sparing himself from further compromise. Uva’s infectious mana spread into his Pyromancy, but Shiv countered by blasting the infected bits of the Nihilist’s flame back against the eldritch stream. Thus, he spent his compromised mana while also blowtorching chunks out of the rolling river of Outsider magic.
+
+“Beware, Deathless! Shield your face. And keep your mouth closed.” Shiv turned to see how Marikos was doing and found the dragon's eye woundless, with neither blemish nor scratch disfiguring his scales or armor.
+
+Some spiderlings definitely tore into his eyes earlier. A bunch of them went down his throat too. And now he's completely fine. Just what kind of Toughness does he have? And how isn’t he tainted by Uva’s Unique Feat? And Shiv's questions were compounded as Mariko's mind and core both resonated in unison, signaling something Shiv didn't understand yet.
+
+“Let us push together as one!” Marikos barked. “The magic we face is mighty, but together we are far stronger. Let us drive this tide back and reach Valor. Let us rend him asunder and finally claim deserved revenge!”
+
+Once more, Marikos began pushing forward without waiting for Shiv to respond. This time, the dragon wasn't in such a hurry. He kept his guard high, and Shiv narrowed his eyes as he saw the surface of Marikos' tower shield gleam bright and pure, adopting the qualities of a mirror.
+
+Wait, is he reflecting the eldritch torrent back at itself? How the hells did he evolve that skill? Is that how he managed to move so fast earlier? He wasn't actually using his Physicality at all. He was just directing the Eldritch mana back at itself.
+
+Again, Marikos roared. His bellow of rage sent shockwaves through the Gate, and Shiv winced as he heard some more of the Surface District start to crumble and sink. “Your spell will delay my wrath no longer! Ye who stills eternity! I have come to still your eternity! I have come to take forever from you! Face me! Come out and face me!”
+
+“Marikos! Marikos, calm the hells down!” Shiv shouted telepathically, gritting his teeth as he repressed his frustration. He should have seen this coming. Marikos was a destructive legend, more akin to a war hammer rather than a scalpel. And it wasn't even that he was cruel, but simply thoughtless and utterly consumed by his emotions. How someone could be so powerful in only one way felt wrong.
+
+And in that moment, Shiv saw a reflection of his older self in Marikos. “You said you wanted to do this together! You left me behind! Is that something a Dragon-Knight does?”
+
+Shiv cast his Harbinger free, letting his bound field glide across both space and time. Unfused from Shiv's physical body, the Harbinger couldn't strike matter without a sacrifice of memories and a subsequent alchemization. But Shiv wasn't aiming for matter. He dredged up all his regret and shame, recalling the collateral damage he'd caused and the lives needlessly lost. Pitch-black flames spilled out from the cracks of his Harbinger, hissing free like steam from a fissuring teapot.
+
+The Harbinger crossed three hundred meters in an instant and drove a brutal hook against the back of Marikos's head. An explosion of enkindled flame followed, searing the Dragon-Knight deep. Marikos cried out, but his voice was strained, not with pain but with mental anguish. In that carnage, Shiv called his Harbinger back before Marikos realized his crisis of shame was inflicted upon him rather than a natural emotion.
+
+A ragged cry of anguish escaped the Dragon-Knight, and slowly, all too reluctantly, he allowed Shiv to catch up as he held in place. “This is not the way of a Dragon-Knight, and I have shamed myself. I know I have shamed myself several times over, and I know I have threatened your hospitality. If you demand my head when this is done, then it is yours to take. I am unworthy. I am a failure, a humiliation, a wastrel!”
+
+Marikos was on the verge of an emotional breakdown, and Shiv was left speechless as waves of pure depression flooded the insides of his core. It seemed every emotion Marikos felt was amplified to the extreme. And that was connected to his Toughness as well, judging by that ripple of resonance that went off between the Marikos’ mind and heart.
+
+Shiv shook off his unease. Marikos was unstable, so Shiv couldn't be. He needed to be the calm and focused one here. Shiv channeled the spirit of Uva and spoke to Marikos not as a chastising host or an understanding friend, but a comrade-in-arms who needed his ally to master himself. “No, enough self-flagellation. Marikos, if you want to avenge your wife at all, if you ever want to slay Valor, you're not going to rush in, adverse in that trap. You're not going to go off on your own. We're doing this together for a reason. There are two streams of outsider matter. There is a surface district that might be on the verge of collapse at any moment, and so one of us is going to have to break off. Now, you probably can't hold up the entire district, so in the meantime I'm going to need you to be calm, to be steady, and to work with me. If we charge in as I told you earlier, he'll get away; we won't be able to solve anything. We need to hold this in place rather than trying to strike the source down. That way we can buy Roland enough time to actually solve this problem. I know Valor hurt you. I know. I don't understand how bad, but I know. But you're responsible for more than just yourself right now. You're responsible for me, and you're responsible for the people behind you. Your creed means always faithful, right? Well, you better live up to it right now, because I can't do this alone. I need you now.”
+
+Shiv paused and hardened his heart as he performed a final, perverse act of psychological manipulation. “Just like your wife needed you then when Valor was upon her. You can't make your past right, but you might be able to prevent your present from being another tragedy.”
+
+Marikos clenched his bladed teeth together, each one half the size of Shiv's body. The Dragon-Knight was trembling, not from physical exertion but from actual emotional indecision. He wanted to go forward; he wanted to fling himself down and pulverize the source of this Eldritch emanation and then seek out Valor to perform the very same act of destruction. His mind and the deeper aspect of his emotional core, that honor which defined him, was bound to serve Shiv and this Gate. For all Marikos' flaws, he was a Dragon-Knight, and the poignance of his self-image proved stronger than the grief which propelled him to madness.
+
+“I will serve,” Marikos said, his voice hoarse with misery. “Semper Fidelis. I will always serve. You are right. I am ashamed. I am ashamed.”
+
+So was Shiv, for that matter, for he couldn't think of an easier way to twist Marikos’s heart and keep the dragon controlled aside from an act of direct psychological mutilation. I'm sorry too. I'll find a way to make it up to you later. For now, I need you to be a blockade like me while Roland tries to sort this.
+
+And while one version of Shiv stood stalwart against the eldritch tide beside Marikos, another version of him was with Roland just a few hundred meters away.
+
+Minutes passed. The Dread Horizon did nothing but observe. His irises burned like twin stars of violet glory; he frowned as he examined Uva from afar. Shiv stole glimpses from her perspective using his own Awareness skill, and for the brief instant where he was mangled over her perspective, the world was drowned by chaos. The sheer amount of Eldritch mana spilling out of her was more than she could control. Her mind seemed still there. She was calling out for Still Water, trying to contain her overflowing magic, but the sheer counterforce that accompanied this mana eruption flattened her against the ground, driving her down floor by floor until she was being driven deep into the bedrock below.
+
+With every second, the eldritch magic leaving her grew stronger and less controlled. To make matters worse, Shiv realized her Psychomancy mana was also compromised, each strand becoming a massive fissure, releasing bursts of unstable, translucent magic tinted with Outsider essence. It caused patches of reality to overlap with strange places and geometries. Fissures opened in the world, giving Shiv glimpses of alien architectures and creatures of macabre design. Things made of teeth and too many limbs greeted him and vanished as Uva tried to regain control over her strongest skill. A city-sized centipede with thousands of screaming faces dotting its back like a mess of pimples appeared across another breach point and then slithered back as quickly as it came.
+
+Ultimately, the only thing Uva could do to keep everyone safe was draw her Psychomancy close to herself, and now she was wrapped in a dense hive of her translucent mana. Aberrant magic seeped out from her physiology, and the rest of her mana fields grew further contaminated as time passed.
+
+Shiv clenched his jaw in frustration. “Roland, not to ride your ass or anything, but we're gonna need a solution, and soon. Uva's tainted magic is spreading through everything, especially the mana core, and I don't think we can stop that without her. The only idea I can think of right now is cooking the unique core—but even if I spend a good long while building up a big fire, frying the mana core will just end up collapsing the gate.”
+
+The Dread Horizon didn't reply immediately. Instead, he narrowed his eyes and studied the streams of Eldritch mana blasting up from the Arachne Order Command Office or what remained of it. “Your Pyromancy is capable of cooking the outsider mana, correct?”
+
+“Yeah,” Shiv answered. “What are you thinking?”
+
+“I'm thinking that I'm not sure how to truly stabilize Sister Uva's condition, but I might have an idea on how to stop her gaze and how we can clean the corruption out of the mana core.” Roland turned away and looked back toward the Perch. “I need you to retrieve something from Valor. Some time ago, he told me that you and Adam brought another of his former disciples back to him—a Jotun known as Andra.”
+
+A series of thoughts chained together in Shiv's mind; he understood immediately. “Yeah, I can get an Animated Skill Infusion from her. I used that to subdue the Eldest… Shit, I did that before. I should have thought about that.”
+
+“Sometimes inspiration arrives at the direst of moments, but I find all too often that you fall to your standard level of experience and practice instead.” Despite everything, Roland managed a proud smirk. “Intuition is a fickle thing, and feeds off your knowledge and training. An easy trick is thinking of a similar situation you've faced before. The substance ripping out of her is Eldritch mana. We handled that before—or at least you did. On this note, you said that your frying pan can grant you temporary abilities, yes?”
+
+“Yeah, it lets me cut and cook things from my environment, even things that you normally can't cook or cut. I'm pretty used to pulling a trick with shadows, cutting pieces of darkness away and then diving into the black like it's a pool of water.”
+
+Roland gave a slight nod. “You told me about that before, and that's exactly what I have in mind. If you can use your new Pyromancy to cook Uva's corrupting mana, then you might be able to affect her corruption in and of itself. After we freeze the Eldritch mana leaving her, you can go into the mana core and try to extract the tainted magics—or whatever your meal allows you to do.”
+
+A moment passed as Shiv processed Roland's plan. “You know, I expected you to pull out some extra special arrow and just fire it into the eldritch stuff, freezing her and making her better or something. Didn't think you would actually come up with real solutions based on what I did before.”
+
+Roland gave a hum of amusement. “It is optimal this way: if things go wrong and you die, then it's only a minor setback. If I get directly involved and make a fatal mistake, however…” Roland shook his head. “A much larger problem, in my personal and humble opinion.”
+
+The surprised expression on Shiv's face withered into a sneer. “Oh, using me as expendable meat, huh? That's alright. I get it. I'm fine with it—more levels I'll get to use on you when we eventually get bloody.”
+
+“It's not even that. You're just more reliable than any other theoretical method I can come up with right now. And letting you do this reminds you and reinforces your previous moments of ingenuity. It's good training.” A beat passed. Roland licked his lips. “Also, if you want me to be entirely honest, I'm not exactly sure if any of my other plans will work either. My knowledge of the Outside and the Outsiders is limited if described with a boast. Frankly, I suspect no matter what we do, we're just behind time for the Headmaster to come up with a proper solution.”
+
+At the mention of Hymn, Shiv used his Atlas to track him down and found the man with Enchanter Merrielmel, dragging the evolved Dreamtaker in tow.
+
+“...Well, Merrielmel, consider the complete collapse of this Gate and all our horrible and inevitable deaths to follow as sufficient motivation to see your Slipgate moved.” A horrid series of ripping noises sounded across Hymn’s body as he spoke, and Shiv realized that the Headmaster was undergoing a metamorphosis of his own. Eyes were sprouting open where they shouldn't be, eyes that glared deep into the terrified Enchanter's face. Eyes infused with the stranger's power and anticipation of something to come. “All that mana is a bit too much for a single mortal to absorb, so I think it's due time I make another donation to my patron—it's been too long since I offered a tithe.”
+
+“B-but the diffusers and obelisk—setting things up and tuning the gate takes time,” Merrielmel stammered, struggling not to hyperventilate from terror.
+
+Through Hymn’s eyes, Shiv caught sight of Radio in the background, screaming as it ran in circles. Cripple's incandescent visage manifested over the tiny bot, demanding its expendable Avatar compose himself.
+
+“I can't take it back,” the Dreamtaker said, sounding a bit too much like Uva in pitch and Georges in tone for Shiv's comfort. “I try to pull on my power, but I can't take it back. It's not mine anymore. It's not mine. Sad-Fuuuuck…”
+
+As Shiv's Awareness snapped back into his own body, a sigh slipped out of him. “Roland, I think we're all trying to pull shit out of our asses right now.”
+
+The Town Lord tried but failed to hide a look of displeasure. “Too often the case: If we survive long enough and keep making attempts, the problem will eventually be solved, either by itself or by us. So, Legend Shiv, take your first swing.”
+
+“Got it, Master Arrow.”
+
+Instead of launching a physical vessel back toward the Perch, Shiv used his Harbinger to carry the body he had next to Roland and back across time. Shiv appeared in a flash of golden light and immediately called out for Valor. “Andra's Phylactery! I'm going to need it to freeze the Eldritch magic.”
+
+His sudden reappearance and alarming shout nearly made Rose jump out of her skin. “Fuck, kid, don't just pop out of nowhere like that!” Annoyed, she dug a clump of mud out of the ground and flung it at Shiv. He let it collide against his face and ignored her entirely. She wasn’t a factor right now; Shiv needed Valor to respond.
+
+Which might be hard since the ancient lich was swallowed by a veil of Animancy, trying to enter Adam’s Delve.
+
+Shiv winced. It really wasn’t a good time, but—
+
+A pocket of dimensional mana burst above him, and Shiv reflexively caught a frost-crusted dagger of darkened ice. Inside the Phylactery, a blinding presence of vitality greeted Shiv. “Huh. Thanks, Valor, and hello again, Andra. Don’t think you’re going to enjoy this.”
+
+Shiv’s Harbinger grew dense and bright as its magical field surged once more. Rose was just about to say something when he snapped back in time next to Roland. The moment he arrived, Shiv tossed the dagger up into the air and swapped that physical body with his Severed Shadow. A faint gash opened in reality as the position between his two vessels was inverted.
+
+He caught Andra’s Phylactery using his Severed Shadow and poured his Vitae into it, groping for her Legendary Cryomancy skill as the Jotun’s spirit within snarled in shock at his sudden intrusion. At the same time, his physical body swelled in size as an explosion of plague flies burst out of his skin and formed a massive flesh shield against the Eldritch torrent while his primary body was absent.
+
+“What is this?” Andra cried, her mind and heart wailing with both fear and loathing. “Deathless! You see me returned to our master only to steal me back? For what purpose? Mockery? Humiliation? You have already bested and shamed me—and Stiller than Frost has reminded me of my greater shame. There is no need to—”
+
+“I just need your skill,” Shiv cut her off. “It’s an emergency. I’ll apologize to you later; not some insult thing, alright. Need your help—will put in a good word with Valor after.”
+
+The Jotun went silent, her surprise—and suspicion—growing stronger.
+
+Guiding his Vitae into the only skill he didn’t break within Andra, he molded his vitality to the shape of her Cryomancy and imprinted the skill on himself once more. A dense coat of black ice spread over him as he called upon Andra’s power. Before, he burned a considerable portion of his vitality to sustain this skill each time he used it. Now, he barely felt the cost at all. Andra must’ve been a Low Legend at best—and if they fought now, Shiv would likely make a victim of her with contemptuous ease.
+
+Jessica’s right. Legends beyond Legends…
+
+Swapping places with his physical body once more, Shiv planted his Severed Shadow in the path of the Eldritch mana and slammed a palm coated in black rime against the ever-changing hues that defined the essence of the Dreamtaker’s realm. At once, twin corruptions went to war. Uva’s attunement-tainting feat spread through Andra’s midnight frost while the latter began petrifying the eldritch magics at horrifying speed. At the same time, he projected a condensed blast of Cryomancy with his offhand at the pillar of outsider mana Marikos was trying to keep at bay.
+
+In an instant, the energies leaving Uva went from rushing rivers to creeping mud. It didn’t halt or freeze entirely, but was so slowed that when Shiv moved back, the wall of magic he was pushing against moved forth by tens of meters instead of hundreds. Even so, Uva’s envenoming continued to spread, and soon Andra’s mana would be consumed and used against Shiv—and that would unleash another level of magical carnage and madness.
+
+Until then, however, they had a moment to plot further.
+
+“Alright, cook the corruption,” Shiv said. He swung his Last Morsel and chiseled away at a vein containing Uva’s unique corruption. It took two more swings to finally carve a full chunk clean, but when he was done, he wrapped it and the eldritch energies the tainted tendril was trapped within using a blast of glittering flame before throwing the sizzling lump of stuff into his Last Morsel and heating its base.
+
+The lid snapped in place. A new meal was underway. However, just as the notifications appeared before him, he heard a ragged, furious voice hiss out for him as a lashing string of translucent mana coiled the air and wrapped around his body.
+
+“Shiv,” Uva growled, her mind scattered, but her soul and body on the verge of rebelling against her. “I need you… I need you…”
+
+“I’m here,” Shiv replied, distracted from his task at hand. His spare body beside Roland shot toward the collapsed office building Uva once resided within, smashing down through the rubble and foundations to be near Uva—to make sure she wasn’t alone. “Don’t worry, we’re gonna get you—”
+
+“No… I need you to bring the Dreamtaker here… so that I can strangle that wench to death for doing this to me.”
+
+It was only then that he sensed the full extent of the white-hot rage radiating out from her mind.
+
+“Is your Berserk Skill active right now?” Shiv asked, knowing it was—feeling her outrage spill over into his mind.
+
+A dry and joyless laugh left her. “I am far north of fury right now for what she has done to my soul and skills without my consent. So, yes. Very much so. I did not ask to become a Progenitor. I did not ask for these skills. I did not ask to inherit her realm. And so we are going to have words. Long and painful words.”

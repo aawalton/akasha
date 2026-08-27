@@ -1,0 +1,235 @@
+---
+id: 8681c2f7-f68c-5c78-930b-aaac2dc2ece1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3 – Getting Stoned with Goblins"
+slug: 0003-chapter-3-getting-stoned-with-goblins
+partOf: rock-falls-everyone-dies
+position: 3
+ownLength: 1762
+unit: words
+ownProgress: 1762
+publishedAt: 2023-01-22
+link: "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1094284/chapter-3-getting-stoned-with-goblins"
+royalRoadId: "1094284"
+markedReadAt: "2026-06-29T22:50:19.749Z"
+---
+
+Grogg the level 3 [Skirmisher] fell down on the field, an arrow in his arm. It hurt oh so much, but he gritted his teeth, and rose up—only for another arrow to swish right above his head.
+
+“Bastards!”
+
+Screaming, growling, he threw himself down, the wooden spear at his back useless. He could not get close! The foes were relentless with their ammunition!
+
+The melee fighters had pulled off each other after the initial skirmish, and half of them now lay dead, dripping a rich river of crimson onto the windy hilltop. The others were staying back to nurse their wounds, letting the ranged fighters take control of the field.
+
+But they could not take it back. All charges broke against the barrage of arrows.
+
+Grogg felt despair and rage gripping him, all his hard training—useless! He could not even get close enough to poke his spear in! He rolled to the side, dodging another arrow, then saw the pebble on the ground.
+
+A pebble that was… the perfect size. Covered in grime, but the heft of it… Grogg’s youth ran through his mind. Once, before the fiends before him had slaughtered his kin like animals—he had played a game with his brother.
+
+A simple game of children, throwing rocks.
+
+Slowly, playing dead, Grogg reached out and grabbed the pebble. A stone that was really... just nice. Had circumstances been different, he would have started a rock collection then and there. A bit on the heavier side, but that only made him smile. More damage.
+
+Lightning fast, he jumped to his feet, hefting the stone up with once-mastered technique, somehow still stored deep inside his muscles. With a prayer to heaven, he readied himself for the throw of his life. This one’s for you, Grugg.
+
+He pitched the stone forward, but the wound at his arm made him stumble at the last moment, and he lost his footing. The throw went off course, and Grogg yelled out a curse, falling back down to the ground. Arrows were thick in the air, but he still focused on that pebble, cursing how it was… not going off course? His eyes widened, and the rage of battle faded as he focused on that miraculous flight.
+
+Gradually, with eerie precision, the rock’s trajectory changed. Rightward and rightward, and then when a wide-eyed goblin tried to dodge, it unerringly followed the sideward jump. A smashing hit right to the skull.
+
+Grogg jumped up, heart filled with newfound faith, and praised all the Gods and Goddesses of the world. “My brother! Your spirit of vengeance still lives on!”
+
+Then he paused. A goblin on the other side had picked the pebble up, and was aiming it at him.
+
+Chuckling confidently, Grogg fell into a ready crouch, wound up. Because he was ready, he would not be caught unaware. He would zig if it zagged, zag if it zigged. The foe hefted the pebble up, spinning it around in his hand, and then the rock was thrown, right at him.
+
+He used [Skirmisher’s Dodge], and leaped five feet to the side in one bounding step.
+
+He landed on his side, head up, searching for that rock. His eyes widened.
+
+It was heading right fo—
+
+THUNK
+
+—
+
+Collide activated!
+
+[Unnamed] Dealt 3.3 * 20.3 / 4 = 17 dmg to [Goblin Skirmisher Grogg]
+
+New Velocity for [Unnamed]: 0 m/s
+
+The pebble celebrated internally. This place was great! A veritable celebration of blood! A true battlefield!
+
+The rock was gaining a new type of wisdom, for it found that it understood battle. More than many military men might themselves, for battlefields were a place of motion, and more specifically, of two vector forces clashing against each other, challenging each other’s strength.
+
+Like two rocks tumbling down opposing mountains, grimly [Steering] course towards their inevitable clash. Who would break first?
+
+Not a question the pebble cared for—it only cared that the currents of war were an opportune place to let go and be carried forward.
+
+Almost as soon as it landed, a new goblin rushed to pick up the pebble. It had not gone unnoticed on this battlefield. Goblins were a poorer species, not generally able to afford enchanted tools.
+
+But this rock… There was something about it. Something odd. And goblins were noticing it. This was not a normal rock, not even just a very gneiss rock, no. This rock was...
+
+Special.
+
+Two times it had been thrown, and two lives it had claimed. Already 5 goblins on the field had felt their treasure-sense tingle and were keeping a wary eye out. They were watching the 6th one, who had picked the rock up.
+
+“Kabab the mighty shall slay every foe!”
+
+A muscled hulk of a goblin, who began to pitch out, muscles flexing as he readied for a throw.
+
+He pitched. Once more, a great increase in movement.
+
+But shields were up this time.
+
+Collide activated!
+
+[Unnamed] Dealt 3.3 * 25.7 / 4 = 22 dmg to [Fortified shield]
+
+Damage blocked!
+
+New Velocity for [Unnamed]: 0 m/s
+
+An eager hand reached out from under the shield to grab the rock—but Kabab the mighty was a clever one. It had taken note of the previous thrower’s fate. The mighty goblin chuckled, pointed at the stone with his muscled arm, and activated a skill.
+
+“[Boomerang throw!]”
+
+Right as it cluttered against the ground, the pebble once more started accelerating. Back toward the mighty hulk of a goblin.
+
+Seeing a chance for magnificent gains, the pebble began to [Steer] upwards, at the great goblin’s face. But… a force held it in a tight grip. Unnerringly, the shifts in its [Acceleration] vector were countered by an equal and opposite force—a skill ensuring the stone would return safely.
+
+To the throwers hand. A thud, but softer, one readied for. Kabab smiled at the magnificent enchanted weapon in his hand. He began to aim once more, this time muttering a skill.
+
+“[Shieldpiercer]”.
+
+Once more, the pebble was thrown. Faster than it had ever been thrown before. Shields were raised on the other side of the field, readying a hurried defense, but the pebble cared not. It was curious. A [ShieldBreaker] skill? That sounded like something worth investigating.
+
+So the pebble steered right at the shields, aiming for the toughest one it saw on the field. Toughness was naturally a result of being made from the toughest and firmest stone, so it chose a greyish shield to go for.
+
+Collide activated!
+
+[Unnamed] Dealt 3.3 * 29.1 / 4 = 24 dmg to [Fortified shield]
+
+[Fortified Shield] has shattered! Damage pierced through!
+
+New Velocity for [Unnamed]: 15 m/s
+
+The shield shattered into pieces, and the pebble pushed through. No time for a proper [Steer], but it was enough. The shrapnel from the shield shredded a face, sending the shield-holder down, beaten and bloodied.
+
+Assist Experience granted!
+
+And the pebble kept going, and passed into the backline, hitting an unprepared [Archer] right in the face.
+
+Collide activated!
+
+[Unnamed] Dealt 3,3 * 15 / 4 = 13 dmg to [Archie the Goblin Archer]
+
+[Fortified Shield] has shattered! Damage pierced through!
+
+New Velocity for [Unnamed]: 0 m/s
+
+Then the pebble fell to the ground—but no one picked it up this time. Because—as he had thrown the rock—Kabab had charged, leading his melee forces forward. And the lines clashed once more, in a bloody storm of gore and steel.
+
+The pebble lay amidst it all, forgotten for his brief role in the fight. But the pebble—it had gained quite a bit from this fight.
+
+So it was, that against the backdrop of a war’s finale, the pebble sat back to rest. It began to view the notification it had gotten.
+
+Level up!
+
+40 / 40 xp
+
+You have reached level 3!
+
+Stats up!
+
+Mass (m): 3.3kg -> 11.3kg
+
+Diameter (d): 0.14m -> 0.20m
+
+HP: 2 -> 3
+
+New Ability Gained!
+
+Energy Shift
+
+Change energy from one form into another.
+
+A new skill—one more intriguing than any it had gotten before. The rock was not vibrating from excitement—it sat stone-still, but regardless, it held anticipation within it.
+
+And as it had sat there, pondering, the war had ended, one victor surviving.
+
+Kabab stumbled forward, 10 arrows embedded around him, finally finding the stone of his victory. He picked it up, a smile on his face, and the pebble wondered how many years it would have to wait in service to this warrior? Perhaps a chance for levels. The anticipation grew.
+
+And Kabab held the stone up—up at the sky that glittered with a new moon. “The gods have seen fit to bless my victory with divine miracle! Thus begins my new life as [King] Kaba—”
+
+Thonk.
+
+An arrow went right through his face, entering by mouth, then exiting out the back. Kabab stumbled down to the ground, dead in an instant.
+
+And the hidden human [Ranger], who had been sneakily pelting arrows throughout the battle finally stepped forward. It was no coincidence that so many goblins had fallen down with arrows in them, evening out the forces until only one goblin had remained.
+
+The pebble had not been the only one placing a stone of their own on the scales of war.
+
+The [Ranger] walked around the battlefield, face not quite as grim as stone, surveying his work. A grim task. He went through every last goblin, doubling checking they were dead, cutting off ears, then finally returned to the great goblin’s corpse, where he stowed away his bow.
+
+He saw a stone. And smiled, his bushy mustache spreading out.
+
+“Hey—this one is the perfect size! Just like I had been waiting for.”
+
+And once more, the pebble was carried out, to aid a new needy caller in a grand quest, and it felt the anticipation growing.
+
+If such a great hunter could get rid of goblins with such contemptible ease... what plans might he have for an "enchanted" pebble.
+
+The levels and growth… the stone could almost taste them.
+
+But it could not. A pebble could not taste.
+
+So it once more set itself down into comfortable hands to wait.
+
+The patience of stone would always win over all, even if the man would carry it around for a hundred years.
+
+And so, the stone was carried down the mountain, towards a humble hunter’s cabin.
+
+Quest:
+
+Current Altitude: 7 823m
+
+Full Status:
+
+[Unnamed]
+
+Title(s): Title(s): Line-Ender, Patient Ambusher, Bane of Demons
+
+🗿
+
+HP: 3/3
+
+Mana: 0/0
+
+Level: 3
+
+Experience: 0/70
+
+Class: Rolling Stone
+
+Sub-class: None
+
+Race: Gneiss Stone
+
+Gold: 0
+
+STATS
+
+Diameter (d): 0.20m
+
+Mass (m): 11.3kg
+
+ABILITIES
+
+Collide
+
+Steer
+
+Energy Shift

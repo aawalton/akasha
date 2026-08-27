@@ -1,0 +1,181 @@
+---
+id: b627ad6c-a5c4-5478-bfdf-f2481617824b
+page-type-slug: story-chapter-royal-road
+title: "045 - Take a Nap"
+slug: 0045-045-take-a-nap
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 45
+ownLength: 1939
+unit: words
+publishedAt: 2026-06-22
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3573088/045-take-a-nap"
+royalRoadId: "3573088"
+---
+
+The others had only been moderately successful in their short excursion. They didn't want to enter the profane space of the police station, but real experience seemed to be mostly condensed in the dungeon-like areas set up by the Blessing. That, and actual warfare against actual demons.
+
+Neither of which could be casually tackled in a late morning stroll. I wasn't too keen on attacking the mall. For a party trying to move swiftly, it was an absolute nightmare. And the forest wouldn't be too rewarding for a group of five.
+
+We needed to find another dungeon and do a proper day trip.
+
+But first we returned to the fire station. We hadn't heard from the others since they departed nearly six hours ago. Liz and Stephen had Task Rewards to cash in—and so did I.
+
+"Did you fight any female orcs?" I asked, just as we entered.
+
+"Yeah, why?" Stephen asked.
+
+"What did they wear?"
+
+"Pretty much the same as the others. Police uniforms."
+
+I groaned. Of course. I somehow had anticipated them to wear bikini armor. But no, it was even worse. Stephen went off to shower. His new weapons meant he ended up looking much like I did after a short period of fighting—very, very bloody.
+
+"Gabriel? Do I risk desanctifying this place if I turn into a cop?"
+
+"No, Eve, the Blessing is not that harsh."
+
+I scoffed. I wanted to get through that shape before we left again. With the three others, and my original human body, it would push me to five humanoid shapes. While I couldn't spot anything in the Task list, it felt like a meaningful milestone, and that list was awfully incomplete.
+
+But first: Speed.
+
+The first reward was for reaching Mach 2.
+
+[Flight Instrumentation - Passive
+
+You possess intuitive awareness of your current speed, acceleration, altitude, rate of ascent or descent and kinetic energy.]
+
+This was an interesting one. It didn't change any rules of the game. But it allowed me to finally do precision math. With those variables I could exactly determine any shape's weight and I'd know exactly how fast I was running and how that would translate to flight speed. And I loved numbers. Those were fun numbers to know.
+
+And then, there was the second and final reward, for reaching Mach 4. At least I was fairly certain that the 'Capstone' keyword meant the Blessing was done rewarding this line of nonsense. That and the actual name. I got the impression of the Blessing running out of fucks.
+
+[Breaking Newton's Laws - Capstone Passive
+
+While traveling at high speeds, you can intuitively alter the effects of drag and inertia on your own movement.
+
+You can more easily preserve momentum, shed speed, and alter direction without suffering the full physical penalties such actions would impose.
+
+This does not protect against collision damage.]
+
+Suddenly the world got a lot smaller. If I could fully negate drag, and effectively fly as if I was in a vacuum, at one mile per second, I'd reach London in roughly half an hour. Assuming I knew where to aim.
+
+And that was just the obvious one. With this I could outmaneuver everything and anything.
+
+"Sorry, folks. I am no longer sorry for my supersonic bullshit. It was absolutely, one-hundred percent, worth it. I'd do it again any time."
+
+"What you got?" Ash asked.
+
+I read out the perk's name and description.
+
+"Wow," Ash said. "How are we ever meant to keep up with those rewards? What is even the Archivist equivalent of moving at four times the speed of sound?"
+
+And there was my answer to what we were going to do next.
+
+"Ash. Today we will find, and clear out, a library. You are clearly an untapped wellspring of potential. Time to get drilling." I paused for a moment. "Did that metaphor make sense? Do you drill into a wellspring to tap it?"
+
+"Yes, Eve, it does. And do you think that's the correct move? Shouldn't we focus on the group?"
+
+"I have no idea what we'll find in a library, but I'm sure the Blessing will guard them. What the hell can we do to powerlevel a kineticist or a paladin? I don't know. But we can do this for you and in turn, it'll make the whole group stronger."
+
+Ash looked over at me and smiled. "Thanks, Eve. I appreciate that."
+
+I looked at that smile and couldn't help but agree with Lucy. Jamie and Ash would make for a cute couple.
+
+"You okay, Eve?" Ash asked.
+
+"Yes, yes, I am. Anything Lucy said about my adventure this morning was absolutely hyperbole and clearly over the top."
+
+Ash blinked. "I don't know where this is coming from, but it didn't sound too extreme. I was surprised to learn that you could do this though."
+
+"I was a hacker. While I'm an unmatched tech genius, that is entirely unnecessary 90% of the time. People are always the biggest security flaw. I also got a Passive that made it easier. Which reminds me of something."
+
+Today was a weirdly distracting day. Last night I was buzzing with excitement to finally get around to finishing the next stage for Mind over Matter. Today I kept distracting myself from actually going through.
+
+I switched into the Honey Badger. The trait automatically upgraded itself to the next level. The next rank would unlock at 50 shapes and would increase the effect to 50% of my mental attributes. I immediately liked the shape. There was a certain immediate quality to it that I could only describe as Lucy-like. I wanted to be a menace.
+
+"Huh," Ash said. "Want to hear some honey badger facts?"
+
+["Sure, hit me up."] I knew various tidbits about the shape. It had been something of a meme after all, but that also meant my knowledge was limited to the funny bits.
+
+While Ash shared many a cool detail about the honey badger, I looked over where Jamie and Liz had sat down at the camping table.
+
+The Oath hadn't been affected by my sudden absence. That +2 buff lingered there in my UI. But even though I had the sharing activated on my end, I received nothing from Jamie. I wanted to think he probably deactivated sometime around Lucy's retelling of this morning's events. But maybe he was also really upset at what I'd done. Or started to regret picking it.
+
+I no longer felt like being a menace. I returned to human shape.
+
+"Let's go over to Claire's and figure out a good library to strike," I said.
+
+Ash paused mid-explanation, looked over to where I'd been looking and stood up. "Sure, let's go."
+
+Sure enough, Claire used the keyboard to speak instead of the chat. Under the most dehumanizing class possible, she was still a human like us after all.
+
+We quickly settled on a destination: Jefferson Market Library.
+
+It wasn't even that far away. Now that I knew it was around, I remembered seeing such a clocktower on this morning's flight. And despite its history as a prison and courthouse, it supposedly wasn't a profane space. I'd bet my life savings on it being a dungeon though. Its basement had literally been a dungeon.
+
+Ash seemed satisfied with the choice. I hoped my plan worked. It was a straightforward way to possibly trigger additional Task rewards for him. His class felt oddly similar to mine: very limited potential with its base kit, but massive potential if properly played around.
+
+I told Ash to go ahead and tell the others to get ready. There was another heart waiting to be eaten and I didn't want to spill orc blood in the fire station. I freed up a slot by removing the Gnoll Queen. It hadn't been too special. I had gotten the kill for it and I personally hadn't liked her.
+
+After the demon transformation, the orc felt downright pleasant. It, too, wasn't anything special. Another 6-feet tall warrior lady, now in a slightly too tight police uniform. But the important part was that I was right. The fifth humanoid shape did come with a reward. I waited for a minute, dismissed the shape and went back inside.
+
+The others were already around the camping table, eating sandwiches.
+
+"Sandwiches again? Running out of ideas?" I asked while I checked the reward.
+
+"Hey, now," Stephen said. "I'm only accommodating someone's need to go out there again as soon as possible."
+
+I clicked accept.
+
+[Shape Echo (Active Ability)
+
+Once per day, you may shift into any shape you have previously assumed, even if it is not currently available.
+
+This costs double the shape's normal ATP cost.]
+
+"Cool," I said. I joined the others at the table and took one of the sandwiches Stephen had prepared.
+
+"Eve?" Stephen said.
+
+"Yes?"
+
+"Are you okay?"
+
+"Why would I not be okay?"
+
+"I don't know. You seem a bit distant. One moment you are ribbing me for sandwiches, the next you zone out and don't respond anymore."
+
+"I—" I stopped myself. I wasn't fine. I just couldn't pinpoint which of the countless issues on my mind was the proper one.
+
+"I'm trying to solve the apocalypse and coming up blank," I said. "I've been granted powers I barely comprehend and I have all those puzzle pieces. I just don't know how they fit together or if I'm still missing more. So I keep chasing after more. We are in a fucking skinner box that rewards blood with superpowers."
+
+I closed my eyes and focused on breathing. Deep breaths. Counting them.
+
+Jamie stood up and crouched next to me. He, very slowly, took my hand into his.
+
+"Eve. You are, at least on some metrics, the smartest person around. But you are also being an idiot. You don't have to solve this on your own. You have friends and we will all work on this together. And beyond that there is a whole city full of other Blessed out there. No, you do not have all the puzzle pieces. They are spread all over the place. Some haven't even arrived yet. The Blessing gave us time because we would need it."
+
+I opened my eyes and looked over at Jamie.
+
+"Why did you lock me out?"
+
+Jamie's eyes widened. "Oh, fuck, I'm sorry. I—I turned it off a while ago when I didn't want to broadcast everything that was going on inside. I'm sorry. I forgot."
+
+I attempted a smile. "It's okay. I shouldn't have assumed anything."
+
+Stephen clapped his hands together. "Yeah, that's it. As the group's dedicated support class I'm demanding we take a 1-hour break. That library won't run away."
+
+I looked up at Liz who was already shaking her head. "I won't train with you, Eve. Stephen is right, and so is Jamie."
+
+Then I looked over at Ash, who we wanted to raid that library for. He gave me his endlessly optimistic smile. "Take a nap? I think it's the perfect time for a nap."
+
+I sighed and bit into my sandwich. "Thanks. To all of you."
+
+Jamie stood back up and bumped against my shoulder. "Take it easy, okay?"
+
+"Okay," I mumbled.
+
+"Unless you insist I stay, I will manifest elsewhere in the station, so you won't be tempted to ask me about the Blessing," Gabriel said. "I am sure Lucy will join me, too."
+
+"I guess," Lucy whined.
+
+After the sandwich, I made myself a cup of tea and retreated to my bedroom. Not thinking about the problems ahead wasn't a full success, but for some precious minutes I managed to think of nothing much at all.

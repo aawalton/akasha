@@ -1,0 +1,309 @@
+---
+id: 539a2df0-78d0-5185-98e7-3855a4d3ee73
+page-type-slug: story-chapter-royal-road
+title: "Chapter 693 - Party Hardy"
+slug: 0694-chapter-693-party-hardy
+partOf: mythrans-master-of-all-continued-completed
+position: 694
+ownLength: 3124
+unit: words
+publishedAt: 2018-09-07
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/288262/chapter-693-party-hardy"
+royalRoadId: "288262"
+---
+
+“Hurry along now.” The security guard said to Illonso the Illusionist. “We need this area cleared for the lunch tables.”
+
+“But...”
+
+“You had a great show and everyone enjoyed it.” The second guard said.
+
+“I need to pack everything...”
+
+“That's being handled.” The first guard said and Illonso turned to see everything being packed very efficiently.
+
+“But...”
+
+“Your second payment has already been deposited into your account.” The second guard said. “Mr. Haddon thanks you for performing so well and hopes you have a great day.”
+
+“But...”
+
+The first and second guard each grabbed him under the armpit and lifted, and the other guards picked up his suitcases and containers in the same fashion. As they moved Illonso and his things out of the way, a bevy of white-clad helpers carried in tables and chairs to fill up the space so that everyone could sit down and eat as one.
+
+The guards brought Illonso and his things out to the driveway and loaded up his panel van, much better than he could have himself, and they put him in the passenger seat.
+
+“Hey, wait a minute...” Illonso tried to protest.
+
+“Don't worry, sir.” The first security guard hopped into the driver's seat and started the van. “I'll navigate the parked cars and your vehicle will be just fine.”
+
+The second hopped onto the runner by the passenger door and held onto the outside of the van, and it backed out and around two parked cars as if they weren't there. Illonso could only watch and wonder how he was being unceremoniously and expertly escorted off the property. The van didn't even come to a stop at the gate as it opened and the van pulled out into traffic, then parked on the side of the road.
+
+“Good luck, and safe travels, sir.” The first guard said, then both guards left a shocked and disappointed Illonso on the side of the road. They entered the almost closed gate as if they had done it a hundred times before and had timed it perfectly.
+
+*
+
+Stella tried to clean Gretchen's skirt; but, even with the stain remover she had and the industrial washer, the grass stain wouldn't come out completely.
+
+“I think Ren's right.” Dana said. “It'll need to be replaced.”
+
+“No, that's okay.” Gretchen said and tried to take it back from Stella.
+
+“Hey, I can't let you wear it like this.” Stella said and tossed it back into the washer to put it on the harshest cycle. “Just a second.” She said and went to the dryer. “Hmm, okay... we've got jeans... no, too big.” She said and kept looking. “Top, top, underwear... come on... jogging pants.” She glanced back at Gretchen and shook her head.
+
+“I don't mind wearing...” Gretchen started to say.
+
+“No.” Stella cut her off and kept looking. “Tights alone won't work, either.” She said and tossed them aside. “I know there's something... ah, here we go.” She pulled out a very nice black a-line skirt and flicked it with both hands to make the cloth snap in the air. “There we go.”
+
+“But...”
+
+“Don't worry about the wrinkles. We have an industrial ironing press.” Stella said and opened the closet. Both Gretchen's and Dana's mouths dropped open as Stella pulled out the same big heated press that dry cleaners used.
+
+“What is with this place?” Dana asked before she could stop herself.
+
+“Noticed the difference from a normal house, have you?” Stella laughed at Gretchen's surprised expression and pressed one side of the skirt. “We suspect it was supposed to be a basketball team's off-season retreat, where they could relax and train if they wanted.”
+
+“That makes a lot more sense than someone intentionally putting all of this stuff in a normal house.” Gretchen said.
+
+Stella nodded and turned the skirt around to press the other side. “We got the place cheap, too.” She said and a moment later, lifted the skirt to make sure it was pressed right. “It was still really expensive mind you; but, not nearly as much as it could have been.”
+
+“I can imagine.” Dana said.
+
+Stella held the skirt out to Gretchen. “Try this on.”
+
+“Thanks, but I think...”
+
+“It's adjustable.” Stella said and pointed to the pull strap on the inside of the right hip. “I buy them like this for my bloated days.”
+
+Gretchen just blinked her eyes for a moment, and Stella gave her a reassuring smile.
+
+“Go ahead and put it on.” Stella said.
+
+Gretchen couldn't keep refusing, so she took the skirt and let the adjustable strap out a little, then stepped into it and pulled it up to her waist. It was a little loose, so she tugged slightly on the adjustable strap and it took up the slack in the cloth.
+
+“Here, let me.” Stella said and she put her fingers inside the top edge of the cloth of the skirt and ran them all around her waist to check the space. “A tad more, I think.” She said and used her fingers to give it one little tug, then did the same finger trick to check the space. “That's got it.”
+
+“Th-thanks.” Gretchen said.
+
+“Do a little walk to make sure.” Stella said and slid the press back into the closet and closed it. Gretchen glanced at Dana, who shrugged, and she walked across the laundry room and turned around, then walked back.
+
+“That fits really well.” Dana said, surprised.
+
+“It does?” Gretchen asked and looked down at it, then turned her torso from side to side to try and see all round.
+
+“I'm glad you like it.” Stella said and motioned to the door. “We should get back to the party.”
+
+“But...” Gretchen looked at the washer with her skirt in it.
+
+“We can check back on it later.” Stella said and ushered both young women out of the laundry room and the house. She took in a breath through her nose and smiled. “It smells like they're serving lunch.”
+
+“Smells like?” Dana asked and took in a breath through her nose, too. “Barbecue!”
+
+“Barbi sure knows how to throw a great garden party.” Stella said and pointed. “The smell is that-a-way.”
+
+The three of them walked over in that direction to where the illusionist had been and saw it was now a large area full of lunch tables.
+
+“Over here!” Ren waved, and Stella waved back.
+
+“We'll go find somewhere else to...” Gretchen tried to say, and Stella hooked her arms in both young women's arms and dragged them along.
+
+“We saved you seats.” Ren said and pointed across the table. “It was a fierce competition, but we managed somehow!”
+
+“Yes, we started to sit down and miraculously, those seats were left.” Elise said and laughed, as did everyone else.
+
+“Hey, you're making it sound like I didn't do anything.” Ren said.
+
+“But, you didn't do anything.” Barbara said.
+
+“That's beside the point.” Ren said. “We have guests. You're supposed to make me look good.”
+
+Barbara laughed again as Dana, Gretchen, and Stella sat down. Gretchen ended up right in front of Ren, and her leg rested against something that turned out to be quite warm.
+
+Ren looked across the table at her. “Can I say the new skirt looks good on you without you getting embarrassed?”
+
+“Maybe.” Gretchen said with a slightly red face.
+
+“That skirt was a good choice, Stella.” Ren said instead and looked at her.
+
+“It wasn't much of a choice, since that was pretty much the only appropriate thing I could find in the dryer.”
+
+Ren chuckled. “I'm glad.” He said. “She looks great in it.”
+
+“I'm happy you like my clothes on somebody else.” Stella said and glanced at Gretchen, and she had taken Ren's compliment without getting embarrassed. It was smart of him to compliment her like that.
+
+“That's your skirt?” Ren asked. “How come I've never seen you wear it?”
+
+“I do leave the house occasionally.” Stella said.
+
+“What? Why?” Ren asked. “When did this happen?” He looked at Lisa beside him. “Tell me it's not true!”
+
+“It's not true.” Lisa said with a huge smile.
+
+“Whew!” Ren said and wiped fake sweat from his brow. “Geez, Stella! Don't scare me like that!”
+
+Stella, Lisa, and Elise laughed, and Barbara chuckled.
+
+“Okay, I've got some food!” Denise said and came over with a couple of plates.
+
+“Wow! Who did you have to strangle to get it so soon?” Ren asked.
+
+“A cook and two waitresses.” Denise said and laughed.
+
+“I hope it was worth it.” Ren said and she put the plates down in front of him and he saw 6 hamburgers on each plate. “I guess it was!”
+
+“They aren't all yours, you nut.” Denise said to him as a waitress put two large bowls of potato chips on the table, then she put several different squeeze bottles of condiments on the table. “Thanks for the help.”
+
+“No problem.” The waitress said and glanced at Ren, ducked her head, then walked away.
+
+“Do you think she's a fan?” Lisa asked when the waitress was out of earshot.
+
+“We can find out when she comes back. I'll offer to give her my autograph and see if she falls all over me.” Ren joked and took one of the hamburgers and put it on the disposable paper plate in front of him. “Someone pass me the ketchup, mustard, and relish, please.”
+
+“Open it up.” Lisa said and picked up the ketchup. Ren took the top off the burger and she gave the bottle a shake and then a squeeze. She did the same with the mustard and then the relish.
+
+“Thank you, baby.” Ren said in a tender voice, and her face flushed a little red.
+
+“You're welcome.” Lisa said with a smile and looked across the table. “Stella, what kind of chips are those?”
+
+Stella ate one from the bowl in front of her. “Plain.” She said and leaned around Gretchen. “Dana?”
+
+Dana took one from the other bowl and ate it. “Sour Cream and Onion.”
+
+“Plain, please.” Ren said, and Stella grabbed a small handful and put them on his plate. He looked around the table and no one was moving. “What is everyone waiting for? I can't be the only one that's hungry.”
+
+A chuckle went around the table, because they had all unconsciously waited until he had been served first, then everyone reached for a hamburger at the same time.
+
+“Fight! Fight! Fight!” Ren chanted, and everyone laughed. They each managed to get a hamburger and didn't fight over them, and they all sat there and ate in relative silence. Some of them picked at the potato chips, and others went to get a hot dog. Barbara passed Ren a can of root beer soda in the midst of it all, and Ren pledged his eternal gratitude to her.
+
+“Now don't guzzle...” Barbara tried to say, and Ren upended the can and took several deep swallows before she could stop him and take the can. “Ren!”
+
+“That's so good!” Ren exclaimed and smiled at her, then the smile disappeared. “Uh oh! Incoming!”
+
+Gretchen turned her head to look around, then heard a low rumble and looked back at Ren. “What is that?”
+
+Ren covered his mouth with both hands and ducked his head. *BUUUUUUURRRRRRP!!!!*
+
+“Oh, my god!” Dana laughed and Gretchen just stared at him.
+
+How did he make such a loud sound? Gretchen asked herself.
+
+“Geez, Ren!” Lisa waved a hand in front of her face and turned her head as she leaned back. “What crawled inside you and died?”
+
+“It didn't die.” Ren said, and it made everyone laugh.
+
+Elise noticed that he held a hand over the spot on his side where his stitches were. “I think someone needs to go inside for a little bathroom break.”
+
+“That's a good idea.” Ren said and looked at Denise. “Would you do the honors?”
+
+“Sure.” Denise said and got up from the table and pulled Ren's wheelchair away from the table.
+
+Gretchen felt the immediate loss of the comforting warmth she had felt against her leg. That was Ren's foot?!? She thought in surprise. I thought it was Dana's knee!
+
+Elise got up and left the table to go with Ren, and Denise pushed the wheelchair across the backyard and to the patio doors into the kitchen. Elise opened one to let them inside and they took Ren through the house and to the main bathroom.
+
+“Does it hurt much?” Elise asked and knelt by the wheelchair.
+
+“A little.” Ren said.
+
+Denise opened his shirt and gently probed the bandage. “I think you just overdid it with showing off.”
+
+“I think you're right.” Elise said. “Ren, you need to be more careful.”
+
+“I'm sorry, I couldn't resist.” Ren said and Denise lifted the bandage and checked the gauze pad.
+
+“No excess fluid expulsions and no blood.” Denise said. “If you hadn't had that watered down painkiller this morning...”
+
+“At least there's no extra damage.” Elise said and cupped the side of his face. “No more showing off.”
+
+“Yes, dear.” Ren said, and she heard the slight disappointment in his voice.
+
+“It's all right.” Elise said and gave him a kiss. “We all know you're funny, so you don't have to try so hard to make us laugh.”
+
+“I like hearing you laugh.” Ren said.
+
+“You'll have plenty of time to make me laugh later.” Elise said. “For now, just concentrate on getting better.”
+
+Ren sighed. “All right.”
+
+Denise applied some antiseptic cream and a new gauze pad, then put the bandage back. “It won't be long before we can leave this bandage off and you won't have to worry about it anymore.”
+
+“Does it look like it's healing well?” Ren asked.
+
+“It's right on track.” Denise said. “We just have to wait to see if your rib heals.”
+
+“That's a relief.” Elise said. “I'll be able to hold you soon.”
+
+Denise tried to put Ren's shirt back into place. She couldn't tuck it in, since that would cause undue stress on his abdomen, so she had to open up his pants and pulled his zipper down.
+
+“No, wait.” Ren said, but it was too late. They both saw the bulge there and looked at him with wide eyes. “I can tuck it in.” He said and tried to, and they saw him wince.
+
+“Ren, are you okay?” Elise asked. “Is it...” She looked back down at him as Denise moved his hand out of the way and touched him there. He winced again, and Denise sighed.
+
+“Ren, you're supposed to tell us when you get like this.” Denise said. “You know it needs to be handled right away.”
+
+“We've all been pretty busy, so when was I supposed to tell you?” Ren asked.
+
+“As soon as it started to hurt.” Elise said.
+
+“It's been like this for a while, but it only started to hurt at the lunch table.” Ren said. “I wasn't sure how to ask with everyone around, so when you mentioned a bathroom break, I agreed right away.”
+
+Denise nodded. “That was good thinking; but, you didn't have to almost hurt yourself to do it.”
+
+Ren chuckled. “It worked, didn't it?”
+
+Elise shook her head. “If I hadn't noticed...”
+
+“I'll make sure to ask to go to the bathroom, even if I don't need to go.” Ren promised. “So, who's going to use their mouth first?”
+
+“Wh-what?” Elise blinked her eyes at him.
+
+“You can't really use your hands, since that'll put too much strain on my healing ribs.” Ren said. “I can move forward a little so it's not so awkward...”
+
+“We can lay you down, instead of leaving you in the wheelchair.” Denise said and went to the closet and grabbed several towels. “You're right, staying in the wheelchair would be awkward.” She said and spread them out on the floor to make a half-decently soft spot for him to lay down on. She helped him transfer from the wheelchair to the makeshift bed and he relaxed.
+
+“So, who...”
+
+“I'll go first.” Denise said. “Elise, lock the door.”
+
+Elise nodded and went to go lock the door, then heard Ren gasp. She turned to see Denise expertly apply her skills to help Ren, and it turned her on. She glanced at the bathroom door handle and fumbled with the lock, managed to click it to the right position, then slowly walked back to where Ren laid on the floor.
+
+“It's... not... working.” Ren said and looked up at Elise. “I need to see you.”
+
+“Ren.”
+
+“Please.”
+
+Denise stopped what she was doing and looked up at her. “He needs a bit more stimulation.”
+
+Elise nodded and lifted up her skirt, then pulled her underwear off. “Will this do?” She asked and stepped close to stand above his face.
+
+“Oohhh, yeah.” Ren said with a huge smile. “It's even dripping for me.”
+
+Denise returned to her work and Ren started breathing heavy.
+
+“It's always dripping for you.” Elise said and knelt down to bring herself that much closer to him.
+
+“I miss it so much.” Ren said and opened his mouth to let some of the dribble go in. “Mmm! That tastes so good!”
+
+Elise shivered and more came out of her, which he readily accepted, and Denise felt Ren's body react to Elise's pleasure.
+
+“Can I touch...” Ren started to ask.
+
+“Yes, Ren.” Elise said. “Always yes.”
+
+Ren reached up and touched her tenderly, and she moaned for him. Like a switch had been thrown, Ren's body shivered and then he finished. Denise couldn't take it all, since there was so much, so she grabbed one of the towels and tried to use her hand. Ren hissed at the touch and she sighed.
+
+“This might take a while.” Denise said.
+
+“Take... all the time... that you...” Elise managed to say as she slid her legs out a little more and Ren kissed her special place directly. “...NEED!” She yelled and finished.
+
+It took them nearly 20 minutes to relieve Ren's painful condition. Denise and Elise had even switched positions several times. It wasn't to provide Ren variety, though. They were getting tired and need a break from their tasks. When Ren's private place was back to a normal color, all three of them relaxed and laid down on the floor.
+
+“My jaw is so sore.” Denise said and rubbed it.
+
+“Mine, too.” Elise said. “You wouldn't think specific foreplay like that would actually hurt after a while.”
+
+“It's the lactic acid buildup in the muscles.” Denise said. “Any extended use can cause fatigue and soreness.”
+
+“That's not always true.” Ren said and smiled. “My tongue feels great!”
+
+“Yes.” Elise said with a matching smile. “It does.”

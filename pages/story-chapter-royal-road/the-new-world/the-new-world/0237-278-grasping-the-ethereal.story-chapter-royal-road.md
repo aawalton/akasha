@@ -1,0 +1,259 @@
+---
+id: 1f086e41-85b1-504a-a0b6-bd14a465e4ef
+page-type-slug: story-chapter-royal-road
+title: "278 Grasping the Ethereal"
+slug: 0237-278-grasping-the-ethereal
+partOf: the-new-world
+position: 237
+ownLength: 4346
+unit: words
+ownProgress: 4346
+publishedAt: 2020-11-17
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/586485/278-grasping-the-ethereal"
+royalRoadId: "586485"
+markedReadAt: "2026-06-29T21:29:12.542Z"
+---
+
+Lester leaned back, letting out a sigh of exasperation, "You're telling me that we need to take Amara, an eldritch, into an enemy encampment to gain access to an Elysium world. After that, we'll need to lay low and protect her until after she's hacked into their system, allowing you to relay a broadcast that will end a planetary war?"
+
+I nodded, "Yup, that's it. You summed it up pretty well."
+
+Lester's eyes widened, "Uh, why are we the most qualified for this?"
+
+Torix chided, "You're not, and as a matter of fact, none of you will be. However, we're sending you because you stand out so little as to go unseen. By virtue of your mundane attributes, each of you can sneak into their encampments without much struggle."
+
+Torix turned a palm to me, "It was by the guildmaster's recommendation, mind you."
+
+The three dungeon clearers looked at me with genuine fear as I smiled at them. Bryan murmured, "This...uh, we specialize in clearing dungeons. You know, killing all kinds of eldritch. Stealth missions aren't our forte."
+
+I gestured at them, "I know. We'll be having Hod and Althea tail you the entire time. They'll walk in your shadow, helping you with getting in and out. If the situation gets dicey, they'll manage it for each of you. Their protection makes this mission less suicidal than it seems."
+
+Isa leaned forward, "So we're doing this to help an ally guild, right? Doesn't this seem super risky for something like that?"
+
+I spread out my hands, "Here's the thing: I'm leaving this up to your judgment. If you think you can get onto an Elysian world for a few days safely, then by all means, go ahead. If you don't, then don't go there. Even if we only get some valuable scouting info, I would count this as a success."
+
+Torix raised a finger upright, "Indeed. It's less that we expect you to destroy their encampment. Rather, we anticipate information on their lifestyle and how the Adair's organize their colonies. That alone may help Schema. Understanding how they sell their new system to new recruits is also of valuable input."
+
+Bryan shook his head in disbelief, "Why are they even on Earth anyway? Doesn't that seem suspiciously quick?"
+
+Torix nodded, "I entertained the same notions when I first learned of the camp's existence. After a bit more thought, I've dismissed them having knowledge of our being here. Their encampment stands here for several reasons, our guild's location not being one of them."
+
+Torix raised a hand and then a finger with each point he made,
+
+"The most vital reason is our location: Earth. This celestial body is the closest inhabited location to Giess, and that's why we visited Giess to begin with. This makes coming here easy. Second, humanity has yet to have a generation that fully assimilated with Schemian culture. Very few children have grown up in Schema's system, and so converting to an Elysian system would be simple for most."
+
+Torix raised a third finger, "Most of all, our planet lacks other guild's influences, meaning they have a leg up developing this territory. We're likely one of the first colonization efforts from their side, in fact. That is why it has begun on such a small scale using relatively benign means."
+
+Lester rolled a hand, "So what about that other planet, errrr..."
+
+I helped him out,
+
+"You mean Blegara, right?"
+
+"Yeah, that one. Why don't we just put Amara there for a while?"
+
+Torix shook his head, "That is a planet waging war, and the Elysian forces have yet to take a full grasp of it. They likely wish to prevent others from using their own system against them, so security is pertinent before establishing a world link to their system. Otherwise, they may strengthen the enemies they wish to eliminate."
+
+Torix pointed at each of them, "It is up to each and every one of you to go out of your way to ensure our security for these reasons. They will be wary of newcomers. You all will need memorized backstories and reasons for your arrival. Just as well, our own location cannot be revealed."
+
+Torix's voice grew grim, "Lehesion may come down at a moment's notice, and our blue core will only maintain protection for so long. By understanding our enemies, we may avoid the inevitable for a longer time. Think of it as buying us time."
+
+He leaned forward, "These moments you earn us, they are invaluable. They represent a different life, each and every one of them. Fight for these moments, and you will give life to our guild and your world. That is why we're sending you on this mission."
+
+I leaned back, letting the charismatic lich get his point across. Isa and Lester sat enraptured by his speech, a sense of purpose pushing them forward. Bryan didn't share their sentiment, and his shoulders drooped at the prospect of such overwhelming pressure. He scratched the back of his head as Torix finished,
+
+"So...yeah, I'm getting old. I've been thinking of retiring for a while now, and...I think now is that time. I can't afford to take this kind of risk. I've got a family here. I don't want them to lose their father."
+
+Torix sighed, "Despite my urgency, I understand. If either of you has doubts, then voice them. We need a full commitment to this role for this mission to be successful. Otherwise, each of you will die and send us to our doom as well. Is that understood?"
+
+Lester and Isa gave the aged necromancer a knowing nod, the pressure building them up rather than tearing them down. People worked like that in general. Some people rose to the occasion while others would rise on their own. It's kind of like the many that fail in peacetime but triumph in war.
+
+Apparently, Isa and Lester were the latter rather than the former.
+
+I turned to each of them, proud of my decision, "Alright then. It's decided."
+
+I offered each of them a handshake. They took me up on the offer, their hands only wrapping around two of my fingers. It was the intent that counted, however, not the physical gesture. As they stood up, so did Torix. His fire eyes shimmered purple, a bit of venom leaking in his voice,
+
+"Each of you shall commence a three-day boot camp to squeeze out any weakness left in your bodies and minds. We'll focus on mental combat and preventing memory infiltration first. You'll also leave with Alexander, a talented mage under my wing. Though he lacks the real-world experience each of you has, he carries potent arcane magic. He'll be necessary if a situation spirals out of control."
+
+His fire eyes narrowed, "Understood?"
+
+Lester and Isa nodded. Bryan leaned back and let out a sigh. The gray-bearded mage dodged a bullet with this one. As Torix stepped out, Lester and Isa followed. Before they left the room, I raised a hand,
+
+"Wait a minute Torix."
+
+The cunning lich turned his head, "Ah, what is it?"
+
+"Can you include Alpha in your lessons? He could use the tempering."
+
+"Hm, if you believe it will be valuable, then I shall do so."
+
+"Alright, cool. I'll be focusing on my own magic for now. See you guys later."
+
+As Isa and Lester stepped out, they peered forward with fear in their eyes. Torix's cackling didn't help the situation either. I put my hands on my hips, pleased with how those circumstances played out. Getting ready for the rest of my day, I opened my status to meet with our resident portalist. A hop, skip, and really just gravitational flight later, I reached the top floor of Mt. Verner where our team slept.
+
+There, our crew congregated with each of them ready for yet another day of combat on Blegara. I rolled my shoulders as I walked up, and we silently walked across a portal made by Helios. We walked through the veil back into the oceanic world. Waiting in another coral room, Victoria, Alastair, and Obolis waited on us to arrive for the day's pillaging.
+
+Above them, the windows leaked in the shattered sunshine from the tumultuous sea above. These rays stretched and condensed like an estuary leaking into the sea, each piece forming islands of dim centered around rivers of light. This cadence covered those present, and Obolis spread his arms wide at the sight of us,
+
+"Ah, it's good to see our friends once more. I've received word that your super golem project has spawned fruit. These words come from Ophelia's own tongue, 'We created a golem without equal.' Perhaps you would offer to elaborate further as she needed rest given her nightly work."
+
+I shrugged, "It's a pretty damn strong golem. That's about all I've got to say on it, honestly."
+
+Obolis grinned, "Would you mind detailing a few of its inner workings? Apparently, Torix ensured Ophelia signed a confidentiality contract before she began her work. It's made it all but impossible to get even a word in from her, outside of what was said before."
+
+Obolis's eyes narrowed, "Speakers can be troublesome in that way."
+
+I frowned, "It's a golem with three minds telepathically linked. We made each mind control different parts of the golems functioning, and that's how we gave it an advanced conscious."
+
+Obolis's eyes widened, "I expected a word or two of its might, not an explanation of the machinations that fuel it. Why would you tell us so much in exchange for so little?"
+
+I grinned back at him, "Because you couldn't make one. It requires a rare metal for it to work."
+
+Obolis's eyes scanned the room, and he discovered a few of the tools made from my own skin for Althea and even Torix's host body. The rugged Emperor nodded his head with approval, "I'll take your word for it. Are you prepared to slaughter once more?"
+
+I gripped my fists, "Always am."
+
+The day began like all the others before it on Blegara. We scouted out a different portion of Saphigia, cleared it of Hybrids, and collected the resident vagni. Well, those that weren't combative. Even after the waves of absolute destruction we'd unleashed so far, the vagni fought on with a religious kind of fervor.
+
+It stunned me, watching them run forward to their deaths. Even if one swipe of my hand killed ten of their comrades, they'd march forward with a zeal unmatched. I admired them in a way, their fearlessness outdoing even the eldritch.
+
+Those same eldritch grew thicker as we conquered outwards from the city's center. They weren't kidding when they said the vagni worshipped those monsters. Sculptures, sacrificial zones, even sanctuaries were made for the eldritch here. As we moved further out, we met more of these landmarks of the vagni's culture. The eldritch density rose with the frequency of these cultural pieces as well.
+
+They incorporated themselves into the very water around us. Eldritch swam above us in the seas and skies. They skulked and burrowed beneath us in the sand and stone. No matter the location, they entrenched themselves deep into the lives and makeup of this underwater land. At times, it became difficult to discern whether something was eldritch or not; the biology of Blegara was that interwoven at this point.
+
+A lot of the native wildlife carried eldritchian characteristics. Giess was more like a fantasy playground by comparison. Here the monsters skulked out in the distance, their pounding footsteps like omens of what was to come. This left Blegara scarred and like a dark, dangerous world. How the vagni managed to survive for so long was beyond me considering what they were up against.
+
+Those thoughts rose up as we reached our first end of the city. We passed miles of villages to reach this point, finally laying siege to a sizable piece of this endless city. Off in the distance, forests of kelp rose from the abyss, trenches carving swaths of darkness across the seascape.
+
+Amidst the kelp, eyes peered back at us. From less dense portions of seaweed, we spotted eldritch of enormous size, their bodies swelled with the bodies of their fellow kind. They barely contained the numbers of victims shoved into their maws, yet they hungered endlessly. Covering the seabed, they scrounged for scraps and prey alike, everything in sight acting as an endless buffet.
+
+Everything but me.
+
+I met the eyes of a dark titan. They were the size of houses, and they glowed orange like lighthouses in the distance. Staring it down, the monster's eyes dimmed as its colossal frame shivered. It closed those enormous eyes, and with the posture of a beaten dog, it ran back from the hole it had skulked out of.
+
+Victoria whispered, "I've never seen an eldritch that big. Well, besides the ones at Giess's last stand."
+
+I grimaced at them, "We might need to question the vagni more than I thought. For creatures so primitive, they sure as hell survived something my own kind wouldn't have. Those guys must be at least level 5,000, and there's several of them out there just walking around."
+
+Alastair walked up, shielded from the water around us,
+
+"The eldritch follow patterns, or so I've read. Right now, they're competing with one another to see which eldritch will feast on this world. This is referred to as the post fringe era. Often times worlds this far gone require several Fringe Walkers to make dedicated efforts to clear out the world.
+
+Alastair set his tower shield down, the metal thumping against the sand, "Those monsters will fight until only one remains. That process can take thousands of years, plenty long enough for a society to develop around them. That's the hypothesis around their development."
+
+From the back of our group, Florence walked out of the woodwork. Ever talkative, he joined in on the conversation,
+
+"I've done research as well on the topic. I've found that Schema has mentioned no world lasting longer than 5,000 years in a post fringe era. I've found talismans and stone carvings here that predate the Vagni's organized society, however. We're talking illustrations of eldritch that are well over thirty to forty thousand years old."
+
+Alastair raised an eyebrow, "And how would you discover their age?"
+
+"A mixture of carbon dating and erosion tests held in our own lab."
+
+Alastair scoffed, "And that's why your data showed such prolonged artifacts. They were driven by a bias."
+
+Florence frowned. Once again, his theories were dismissed. I kept them in mind as I raised my eyebrows at them, "What happens when an eldritch starts winning in a post fringe era?"
+
+Alastair grimaced, "The world is smothered with the Alpha eldritch until not one atom of organic matter is left. They strip the world like a plague, and they leave nothing but weathered rock and salted water behind."
+
+Alastair coughed into a hand, "Or so I've read from Fringe Walker's testimonies. It's difficult to find any accurate data on the issue for, well, obvious reasons. Either way, they're terrifying, aren't they?"
+
+I glared out in the distance, "Yeah, in a way." I turned back to Saphigia, "Come on, let's go back. There's still more city to take back."
+
+We laid waste to another stretch of Saphigia, exterminating the Hybrids skulking about. Unfortunately, Espen and Hybrid reinforcements arrived with the blighted to retake portions of the city we secured. They ran through the Empire's defensive lines, forcing us to take time out of our day to save them.
+
+This meant retaking land took longer than expected, the endless streams of Hybrids wearing the imperial army down. That might be why we found different species wearing the Empire's banner and uniforms as we went from checkpoint to checkpoint. Many of these members stood upright with the same reverence for the Emperor as the albony. Others seemed coerced like mercenaries or adventurers.
+
+This different frontline proved no less useful than the one made of pure albony. If anything, they worked better. Despite the Empire's class system, they seemed more than fine with breaking those age-old rules when the going got tough. Either way, I appreciated the extra volume of troops for securing areas we passed. It meant we didn't need to retrace our steps as often.
+
+After carving out another stretch of territory, we reached the edge of the city once more. By now, the others were exhausted as usual, their eyelids heavy under their masks or on their open faces. We warped back towards Mt. Verner, which gave our members a safe place to rest. I stayed up, meeting with the golem creation team. Well, trying to. They remained absent for the night, taking some much needed time off.
+
+As always, I didn't give myself that luxury.
+
+Working with Ophelia and Chrona, I kept at the long and frustrating slog that was discovering primordial mana. They explained the concept and mindset enough times by now that I lacked any real insight from their descriptions anymore. They all bled together into an undefined mess. I needed fundamental, tangible concepts and applications to use with primordial mana. You couldn't really do anything with it till after you created the stuff. It was a catch 22 of sorts.
+
+That's how the entirety of my progression remained. No matter what I tried, I ended up grasping for air. There just wasn't anything tangible to hold onto. This wall wasn't the first of its kind, however. I worked on learning the cipher for well over a year on my own, night after night. In that situation, I lacked the same talent trees and teachers that I did now, yet I persevered until I was victorious. I would do the same here.
+
+In that way, I continued, on and on. I attempted holding different mindsets. Again and again, I failed. I stretched my mind until I managed two alternate states of thought for prolonged periods. I still fell short. I immersed myself in different perspectives, reading through some of Torix's old books.
+
+I changed my approach as the hours and days passed. Asking questions became second nature, and I managed my time between my various pursuits. This grind continued for the next three days. During sunlight, I handled Saphigia's reconquering. During the night, I toiled under the light of glowing metal, reading ancient works. At the end of the second day, I ended up gaining something for all my work.
+
+New Unique Skill Gained! Congruent Mind Strand(lvl 10) - By enveloping in the thoughts of others, you've gained insight into developing multiple perspectives. You may now hold two different strands of thought at the same time.
+
+I leaned back from the skill description, the starlight leaking down from above. Chrona rested while Ophelia worked on a portable chair and table she brought with her now. They answered my questions when I needed them, but this particular question left me wanting to find answers on my own.
+
+So I did. I attempted holding two different strands of thought. The first involved creating a golem and the cipher inscriptions involved, and the other was a small, unstable series of reviews about primordial mana. Just like my attempts at the mana in real life, my strand of thought was wispy and unrefined.
+
+But it was there. I held onto it, burgeoning it to grow. As it did, my thoughts about cipher inscriptions waned. Combined, the total of the two mental flows exceeded my average capacity, but only slightly. That still worked in my favor considering my computational ability was excellent at this point, mainly from my high intelligence. Most concepts and ideas didn't require my full attention by now.
+
+Having analyzed the new skill a bit, I brainstormed ways of using it and the first involved multi-tasking. Instead of only struggling with primordial mana, I also maintained a steady flow of mana absorption from my elemental furnace. This multiplied the growth of my cipheric runes, and I held a perpetual state of annoyance at the same time. It was a win-win situation!
+
+Sarcasm aside, it helped morale to have myself working on something I was good at for a change. Using the furnace was second nature, so even with less than my full efforts, I could maintain steady gains from using the tool. It gave me the ability to multi-task far more effectively than before. It was actually worth doing now.
+
+Even if it wasn't the same as primordial mana, I welcomed any useful new skill. As the night dragged on, the sheer scale and scope of the skill became apparent. It wasn't something that would save me from one of Lehesion's blasts, but it might have been even better. It saved me time and time I didn't have.
+
+If I learned anything over the last few months, it was how it felt to be stretched thin. I worked day in and day out, yet I never managed to get ahead of my responsibilities. I neglected my personal progress to keep up with them, in fact. Now keeping track of both was possible, and that opened up a world of possibilities. Of course, this wasn't enough to get rid of the pile of tasks I had mounted over the past few months. It did help me finish them faster, though, and that was enough.
+
+That reality bolstered my mood as I checked in with Torix's new recruits that next morning. This was their third day of training, and the lich set aside the last few days to whip them into shape. In that way, his own personal chambers serving as their training ground. Stepping into the top floor of Mt. Verner,I found four members sitting cross-legged while doing mental drills.
+
+Isa, Lester, Alexander, and Alpha sweated or rumbled under florescent lights. It made their pale faces paler, besides for the golem, and the three people earned bags under their eyes from the last few days alone. They each looked like they hadn't slept at all.
+
+Torix stared them down, walking back and forth in front of them with his hands interlocked behind him. He wielded his mind magic like a knife, testing their every defense and weakness, probing for any manner of crushing them.
+
+And crush he did. The two dungeoneers showed sheens of sweat over their foreheads, each one dripping profusely. Alexander handled the mind magic better, but he still showed symptoms of wear and tear. Alpha, on the other hand, was endless, and so he lacked their same signs of struggle.
+
+In many ways, the dungeoneers impressed me most, however. They dabbled in this forbidden art for the first time, and Torix relished in their struggle. Despite that, they were still here through thick and thin. That kind of dedication deserved recognition.
+
+As I paced up to them, the lich turned to me. As he did, his recruits took deep gulps of air.
+
+Relief at last.
+
+"Ah, it's good to see you, disciple."
+
+I gave the lich a wave, "You too Torix. How are they holding up?"
+
+I gave them the luxury of not answering, letting Torix handle that for them. Lester and Isa took me up on the offer, each of them recuperating as much as they could. Alexander couldn't meet my eye, so he stared down instead. Alpha gazed up with curiosity drenching his every move.
+
+Torix gestured towards Isa,
+
+"She shows the most promise, though none of these individuals lacks in their mental fortitude. Despite my misgivings, I must admit, they've held their own through the exhaustion and torment. I'll give them each an artificially assisted rest period before tomorrow. That should allow them to recuperate. As for Alpha, he is surprisingly gentle. His mind is similar to your own, Daniel, though he lacks the same visceral intensity."
+
+Torix weighed his hands back and forth, "Alpha is instead, a benign, giving creature. This is to his detriment when tasked with mental defenses, but I cannot condemn him too much. His natural ability far exceeds the others here by virtue of his mind's size - it is truly colossal. That alone means attacking him, and wearing him down takes time."
+
+Torix scoffed, "More than enough time to smash an enemy into pieces, I'd wager."
+
+I gave the golem a nod, "Good work, Alpha."
+
+The golem beamed with pride, sitting up straight,
+
+"Thank you, creator."
+
+I turned towards the dungeoneers and Alexander, "How's the training going?"
+
+They caught their breath by now, and Alexander answered first in a wispy voice,
+
+"It's hard. Very hard."
+
+I grinned, "Nothing a little pain tolerance couldn't help with."
+
+Alexander scoffed, "You're right about that. I uh...I trained that skill a lot after our lesson. I've gotten that skill up to eighty-eight now. This still hurts, but it's nothing compared to what it would be without my previous training."
+
+Torix nodded, his hands still interlocked behind him,
+
+"Precisely. If you experience pain now, you won't experience it later. That is why my lessons are as grueling as they are."
+
+Lester shook his head, "I don't know about that. I doubt we'd ever be torn up like this on a real mission."
+
+Torix stared down at him, the lich's gaze sharp as daggers, "The Adair's mind magic exceeds my own. If caught, you each will have your minds torn apart by many mages at once. There will be nothing remaining of you thereafter."
+
+Their faces darkened at the prospect and truth of his words. Torix sighed,
+
+"Though I wouldn't worry about such a fate. Althea and Hod have been instructed on what to do should you all be captured."
+
+Their grim looks turned outright bleak before I interjected,
+
+"Come now, it won't come to that. Althea and Hod have a lot of experience getting through the Adair's defenses. This is a recruiting camp, so those two will keep our team safe. Speaking of teams and plans, though, have you guys got a plan ironed out yet?"
+
+Torix steepled his fingers as he cackled,
+
+"Oh, we have one developed indeed."

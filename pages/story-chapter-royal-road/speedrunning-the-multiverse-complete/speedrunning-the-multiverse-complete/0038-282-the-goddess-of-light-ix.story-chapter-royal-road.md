@@ -1,0 +1,161 @@
+---
+id: cd104c68-a6a3-5e90-ad26-7d08097ff0ec
+page-type-slug: story-chapter-royal-road
+title: "282. The Goddess of Light (IX) "
+slug: 0038-282-the-goddess-of-light-ix
+partOf: speedrunning-the-multiverse-complete
+position: 38
+ownLength: 2141
+unit: words
+ownProgress: 2141
+publishedAt: 2023-08-11
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1306673/282-the-goddess-of-light-ix"
+royalRoadId: "1306673"
+markedReadAt: "2026-06-29T22:42:58.748Z"
+---
+
+It seemed to have punctured his heart, lungs and liver all at once. And probably a lot more, judging by the way his whole midsection seemed to shut down. There was the pain, of course—great shockwaves of it—but when something ran you through pain was usually a poor indication of the severity. Not all tissues were polite enough to let the mind know when they were shredded.
+
+A better indicator was how fucked your body was. If you told your spine to bend, did it listen? Dorian’s was mute. His torso felt like one rigid hunk.
+
+Whoever had punctured him had done an excellent job of it. Very thorough.
+
+Only now did a Godking aura explode behind him. Laws, hidden a second ago, ran the length of the lance. Blade Laws.
+
+He kicked off hard, freeing himself of the lance. A string of blood beads arced through the air as he rolled to his feet.
+
+“It seems,” Dorian grunted, “I forgot to mention something. But this was a pointed reminder. What makes Lucy especially tricky to fight is she hides her real minions amid her fake illusions!”
+
+“How can you tell which is which?!” yelped Junior.
+
+“You can’t. That’s the point, isn’t it?”
+
+Dorian rattled in a breath, though a great deal of it went out his front. “Oh, don’t you worry your little heads about it! Just heal me! I’ll take care of the rest.”
+
+As nearly forty Empyreans’ worth of qi poured into him, he inspected his the enemy.
+
+“Nice shot,” he said, wiping blood from his lips. “Who the Hells are you?”
+
+The visor flipped up, revealing a classically handsome face, startlingly symmetric. Square jaw, proud cheekbones, piercing blue eyes and a spectacular mustache. The knight bowed. “It is I. Marcus, the Divine Blade.”
+
+“Ah, yes. I’ve heard of you. What are you, in the seventies? Eighties?” “I am ranked sixty-one by the Spirit Pavilion. It is an honor, Dorian of Time. I have heard tell of you, too. Your tale is a glorious one.”
+
+Golden qi poured down his fingertips as he discarded the lance and drew a heavy sword with one hand. An eggshell white shield materialized on the other.
+
+“But it must end here, just as the sun must fall to make way for the rising of the moon. From today forth, you shall be but a stepping stone in my legend!”
+
+“Mmhm. Nice speech! Did you let me get fully healed out of some misplaced sense of courtesy, or are you just an idiot?”
+
+“‘Fully healed?’” Marcus frowned. “I ran you through with a [Thrust of Valor!] A thrust steeped in Blade Law!”
+
+Dorian wiped the blood off his chest to reveal pristine scale. No marks.
+
+“Yes, but I have forty Empyreans healing me—oh, and thousands of other Gods, pouring in qi by the second.”
+
+So much poured in that his skin was starting to smolder with white. Excess qi leaking out. In the span of a day his Dwarf Star had grown so much he’d silenced the notifications in his mind; it had gone past Sun, and was well on its way to a Red Giant. Every time he used a Technique qi rushed in to fill the gap. It made Techniques feel free. He could throw anything, do anything.
+
+Now as the Empyreans’ qi poured in he was struck by a heady rush; all that power, seemingly endless, filled him with endless confidence too. He felt like a God ought to. Boundless. Almighty. Invincible. Sometimes in a fight such pleasant delusions were useful. He let it take hold of him now.
+
+“You should’ve aimed for the head,” said Dorian with a wicked grin.
+
+He raised his hands and Dragon’s Bane leapt eagerly to his fingertips.
+
+“Hmph. Your arrogance shall doom you,” the knight. “So you have not come alone. But neither have I!”
+
+The army behind him stomped to life as one. A thunderclap in the chamber, rattling the ground, chattering the teeth of Dorian’s men. Hundreds of bright lights burned in hollow helms. Hundreds of peak Empyrean auras gushed out at once.
+
+There weren’t hundreds of peak Empyrean auras, obviously. There were a few dozen at most. The vast majority were fake. But there was no telling them apart, and there was the devil’s choice in it. Dorian could either admit they were all real, or none of them were. Both might spell his doom.
+
+“Charge!” roared the knight.
+
+Dorian waved a hand, and gust of wind swept through the chamber. Not at the army—for that would admit they were real—but toward his own men, who floated high above the battlefield, out of the way.
+
+Calmly, he drew his bow and fired.
+
+[Bolt from the Blue!]
+
+Marcus hefted his shield, then grunted as the arrow took him in the back. It punched a hole in the armor, but not deep enough to draw blood.
+
+Dorian drew again just as calmly as before, as though there weren’t a thousand peak Empyreans charging him at once.
+
+[Bolt from the Blue!]
+
+The arrow flew in a twisting arc. This time Marcus tracked it closely as he charged and heaved his blade at the last second to bat it away. He missed a finger’s width. The arrow struck precisely the same spot as last time, and this time it stuck there, lodged an inch into the flesh and stayed there.
+
+It only seemed to enrage Marcus. The knight was mere feet away. His broadsword whipped down.
+
+With a [Carp Leaping the Dragon’s Gate] Dorian spun halfway across the cavern.
+
+Unfortunately for him, there wasn’t much room to dodge. He landed in the midst of a cluster of Empyreans. They all hacked at him at once; so many swords, maces, spears rained down they got in each other’s way. Sparks showered as steel met friendly steel. Sparks showered as steel met his scales.
+
+It made quite a racket, but it did little of note other than obstruct his sight. For these weapons weren’t real. They couldn’t truly hurt him.
+
+Except when they did. A burning line scorched up his back. He whirled and threw a [Fist of the Falling Star] in the same fluid motion.
+
+It caught an Empyrean—a real one—in the helm, which crumpled like paper, and then met the bone underneath, which cracked like dry straw. He slumped. He hadn’t even had time to scream.
+
+Two more bursts of pain. One up his thigh. The other his arm. He smashed one offender; the other melted away into the press.
+
+This was Dorian’s gamble. He accepted whatever real strikes hid in this glut of fakery—for they told him where his real enemies were.
+
+You’d better hope you can end me with your one free strike. If not…
+
+I’ll hunt all of you down, one by one!
+
+“Move out of my way!” roared Marcus, struggling to ford the tide of men. Obediently they sloshed away, clearing a path from him to Dorian.But paths ran both ways. Dorian drew, aimed, and fired so fast Marcus didn’t even see the motion. Only felt it as a third arrow dug into that same spot on his back, splitting the first two and driving yet another inch deeper. It was so deep it ought to be tickling his spine. This time Marcus yowled. It didn’t slow his charge.
+
+So Dorian drew again, slower this time, slow enough Marcus had time to see it, and flinch, and instinctively shield his back.
+
+Naturally Dorian shot him in the face. Marcus was thrown off-balance, bowling into his own men. He vanished once more into the tangle.
+
+Dorian kept firing; he wouldn’t let the Sword God recover.
+
+By now he’d gotten a sense of his enemies. The little guys, the Empyreans, left flesh wounds. Scratches which healed in seconds. With his new body and his healing skills they were much less of a threat than he’d expected.
+
+But the big guy could wreck him if he got near. Best if he took care of him first. In the meantime, let the little ones do their worst.
+
+So he drew, and fired, and fired, and fired, making himself oblivious to the swarms of steel setting upon him like flies on fresh meat. It was quite annoying trying to shoot through it all. He had inherited Salas’s great skills, and his touch with the bow, deemed divine—second only to Houyi’s. Which meant he could shoot at every which angle, and let his arrows perform acrobatics which flew in the face of physics. Still, though, he was threading needles upon needles. Arrows sneaking through the gaps between helms, through the daylight between lattices of falling steel, slipping between plates of armor to land, at last, on the same two places.
+
+Marcus’s face and his back. When he blocked one Dorian sought the other. It was like drilling into a stone, patiently, shot by shot. Sooner or later he expected to hit something vital.
+
+Fresh gashes ran up his arms. Fresh wounds tore up his legs. He had to shove aside a few illusions—on occasion a few real Empyreans—with his elbow just to draw the bow. Marcus, meanwhile, looked like he was being beaten up by an invisible gang—thrown back and forth, stumbling, by blasts of force and qi and wind.
+
+Time to finish things.
+
+Dorian put aside the bow and forced his way through the boiling press. There was nothing the little folk could do to stop him, real or imagined. A few tried clinging to his legs, but some well-placed kicks put an end to that. Every second he must’ve been struck ten times by real blows, dozens more by imagined ones. Nearly every single sense of his was a chaotic mess. So he just focused on that thick tuft of red crowning Marcus’s dented helm. In a few breaths, it was before him.
+
+Marcus had staggered to his feet. Now he was on the other side of a good puncturing. The hole Dorian had driven through the Godking’s back had gotten wide enough to fit a fist through—and by the way Marcus moved his legs didn’t take to its presence well at all.
+
+Their eyes met. They both knew the end was coming.
+
+Marcus allowed himself a rueful smile. “Was that the power of the legendary Godhunter, returned to the realm at last?”
+
+He sighed. “If I were to be felled, I am gratified that it was at least at the hands of a figure of myth.”
+
+Blood leaked out his lips. “I only wish that I had put up more of a fight! What a dishonorable performance. This terrain… the presence of my allies… why, your incessant aggression too—I hardly managed two swings of the blade.”
+
+“If it’s any consolation, I’m sure you would’ve been a real menace in other circumstances,” said Dorian. “But what separates you from me, besides the insane difference in power, of course, is that that I’d never let those other circumstance happen. I’d never let an opponent get started if I could help it. You really should’ve aimed for the head! Oh, well.”
+
+To demonstrate the point, Dorian punched him in the face. And then kept punching, and punching, and punching, until the twitching body lay still.
+
+He surveyed the rest of the army, which was still intent on hacking him to pieces—with little success. “Now for clean-up.”
+
+There were still hundreds of Empyreans leftover. Identifying the real ones and picking them off one by one would be such a pain. This was likely the final room in this dungeon of Lucy’s, which meant the only way out was to clear it of all her minions. Then this whole world would collapse and let them free.
+
+So he waited for a strike to truly hit him so he could strike down the offender.
+
+Now that he actually wanted them to come, though, they wouldn’t. One breath passed, then two. It was just the mob of fakes hacking at him.
+
+“Where’s everyone gone? I’ll let you have two shots free!” shouted Dorian, spreading his arms wide. “Any takers? Or will you just hide in this crowd and make me pick you out one by one? This only prolongs the inevitable, you know.”
+
+Wait.
+
+Is that the point of this bizarre setup? To slow me down—make me play this ridiculous game of hide-and-seek until reinforcements arrive? We can’t have that.
+
+But if the real ones refused to strike at him and thus confirm their realness, he had little chance of finding them. The only way to do it would be brute force: treating everyone as a real warrior and blasting them en masse.
+
+If he did that, though, all those blows raining upon him would truly become real. It truly would be fighting hundreds of Peak Empyreans at once. He’d be made a bleeding mess in seconds!
+
+Hmm.
+
+What to do?

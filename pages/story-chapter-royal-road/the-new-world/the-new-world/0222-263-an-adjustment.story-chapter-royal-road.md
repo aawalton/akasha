@@ -1,0 +1,313 @@
+---
+id: fe132b45-b0d3-517f-8aa7-3509a18f2637
+page-type-slug: story-chapter-royal-road
+title: "263 An Adjustment"
+slug: 0222-263-an-adjustment
+partOf: the-new-world
+position: 222
+ownLength: 4157
+unit: words
+ownProgress: 4157
+publishedAt: 2020-06-18
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/512328/263-an-adjustment"
+royalRoadId: "512328"
+markedReadAt: "2026-06-29T21:28:37.654Z"
+---
+
+The most significant initial change was in the warping location. Though it was apparent why after thinking about it, we weren't on the second floor of Mt. Verner anymore. I mean, gialgathens were big creatures, more massive than elephants. Getting them out of a mountain base would require the construction of tunnels specifically for the job.
+
+Instead, the warp-drive resided in a gully along the side of the mountain. Nestled between two walls of dirt, a small community of handlers talked with gialgathens nearby. They found this gorge on the southern side of the bluff, facing towards Springfield. Water crashed through this chasm when it rained, preventing trees from ever taking root at its bottom.
+
+Here soft grass covered the ground with shade from trees above. I peered up, finding an open sky with fluffy clouds and warm winds. Earth looked welcoming, the drudgery of Giess behind us. Turning my gaze down, I found the traditional stalls that Schema set up for core conversion and the like. Just beyond them, crates carried the goods of the gialgathens.
+
+There the gialgathens conversed with humans who handled their living situation. Gialgathens would be covering the entire side of the mountain, given their need for open air and clear skies. That required some organization so they didn't end up collapsing the rock walls of Mt. Verner. Living in a hollowed mountain carried its risks after all.
+
+I paced towards them, setting my stored goods beside the groups. After getting a few stares, I jumped up, the ground quaking beneath my feet. It rippled and burst, unable to withstand the forces put upon it. I lifted myself with gravity after, looking towards Mt. Verner.
+
+Hundreds of gialgathens carved out homes here. Most of them preferred the middle of the mountain where it wasn't too cold nor too hot. Some of the Rivarians preferred the more frigid peaks, however, and a few even wanted to nestle along other ravines where moisture pooled. It depended on where we found them and what mirrored the geology of their birth.
+
+Considering their natural vitality and tenacity, gialgathens needed little shelter from the elements or from animals. They kept their homes simple, carving out caves into the cliffsides. These resting places had three main aspects: a sunspot, a dark place, and a landing area. They sunbathed in the sunspots, slept in the dark spots, and, well, landed in the landing areas.
+
+They spruced up their quarters with a variety of extra details despite those humble abodes. Most of them carved certain rocks to indicate the landing areas they wanted. Though unformed, several of the sculptures showed plenty of promise, the gialgathen's mastery of carving unmatched.
+
+Well, besides for me, but that was a given.
+
+Joking aside, the youngest of these giants adapted the quickest as most children do. Without skipping a beat, a few of the gialgathenic children played with the Eltari, Hod's native race. They slid and sliced through the skies, their forms mesmerizing to watch. It was like watching eagles perform circus stunts, the children's acts of daring both ridiculous and impressive.
+
+Not all gialgathens focused on domestic duties, however. A few prepared for war, several of them being outfitted with armor at a sort of station made for them. Along several rows of landing zones, our guild hand supply lines leading towards the mountain's side. Trucks carried massive plates of orichalcum for outfitting the beasts, giving them protection against the Hybrids.
+
+These gialgathens carried the equivalent of saddles on their back to many of the monsters' chagrin. It was a necessary transition; we needed troops to ride on their backs. The gialgathens were too valuable as transport and aerial support, avoiding the legions of Hybrids that would smother the land below. Not only that, but the humans on their backs served as valued resources in their own right.
+
+They usually carried an informational specialist along with a mind magician from Torix's program. This prevented Blighted Ones from overwhelming the gialgathen's defenses. Combine that with the added mana and combat prowess of people plus gialgathen, and the riding combo was worth pushing for.
+
+Even if the gialgathens had a resistance to the whole riding thing, they needed to get past that, plain and simple. It wouldn't be the first adjustment for them, and it sure as hell wouldn't be the last. That was the price of survival and prosperity, and so far, the gialgathens seemed more than willing to pay it.
+
+Either way, I didn't have any more time to check out how the gialgathens were adjusting. I floated back down towards the ground, several crate workers passing me. After walking through the warp-drive, I found the same desert jungle full of moving gialgathens. Passing through the sea of packages and luggage, I hoisted more gear up and moseyed on.
+
+Rinse and repeat, I carried millions of pounds of gear each trip, speeding up our evacuation. Torix organized those here, and many of the soldiers said their goodbyes, both gialgathen and human. Even if Elderfire turned out to be a temporary residence, it was where they bled and shed tears.
+
+Amidst the desert dunes, they rekindled hope and showed will. It wouldn't be forgotten soon, at the very least.
+
+With the moving finished, I nestled my way back towards Mt. Verner. Torix and I already set up a meeting with the Emperor in just a few hours, so I rested for a few minutes. In my fancy apartment upstairs, I lounged on my bed while checking out my status. The numbers amazed me still.
+
+The Living Multiverse(Lvl 15,000 | Current Influence: The Rise of Eden)
+
+Strength – 45,650 | Constitution – 65,389 | Endurance – 135,833
+
+Dexterity – 23,434 | Willpower – 95,137 | Intelligence – 51,447
+
+Charisma – 17,220 | Luck – 26,300 | Perception – 18,636
+
+Health: 149.6 Million/149.6 Million | Health Regen: 1.4 Billion/min or 24.1 Million/sec
+
+Stamina: Infinite | Ambient Mana 3.586 Trillion
+
+Mass: 8.2 Million Pounds(3.7 Million Kilos~)
+
+Height: 15'8 (4.7 meters)
+
+Damage Res - 99.16% | Dimensional Res - 100%
+
+Phys Dam Bonus – 25.7 Million % | Damage Bonus – 40%
+
+The Rise of Eden - enhances base stats by 30%, increased to 40% to allies within the radius of aura.
+
+They were otherwordly. I nearly passed the 100k mark with my willpower, and my endurance was surely unmatched by now. All my other stats, from strength to my lowly charisma, were higher than most mains in those stats. If anything, these numbers meant little to me now. From a raw specs perspective, there's no way anyone could match me.
+
+Well, unless they were getting help from an Old One, that is.
+
+Those were the waters I tread into, and they went dark and deep. In many ways, I transcended eldritch now, at least any that I'd seen. Maybe Plazia-Ruhl would change my mind if we ever met, but for now, they weren't an issue. My problems stemmed from people above Schema's system.
+
+That meant Lehesion, Old Ones, and maybe a few others drifting in the stars above.
+
+If I wanted to take my power to the next level, I needed some unnatural, twisted skills and knowledge. I would need to expand into frontiers unreached, and even then, mastery of those new fields would be required. Unknown skills, forbidden cipher knowledge, and talking with Old Ones, that's what I would need to do after my class was made.
+
+Talking with Old Ones was out of the question. It was just too damn risky. As far as the other options, time and effort would be required. I was in the long game now, and creativity would move me forward, not brute force. Either way, these gains from tearing Giess a new one were nice.
+
+At this point, I needed a new legendary skill along with red dungeon cores. Blue dungeon cores would be helpful for future cities as well. Considering our newfound status as a galactic power, perhaps I could get a few more of those. I was nearly broke from buying red cores in the past, so buying a bunch of red dungeon cores was out of the question.
+
+Tackling a few fringe worlds seemed like the right direction to take considering the sheer density of rifts. I could spend a few months on a planet, clear it out, then make my legendary skill after that. Of course, doing so was impossible at the moment, but it was a possibility worth considering for the future. As those thoughts tumbled in my mind, a gentle ring buzzed in my ears. It was time for the meeting with Obolis.
+
+I flopped myself upright, pulling myself from my bed. Falling onto the ground like a dancer, I gravity welled my way through my room and Mt. Verner. I reached the third floor, our meeting room already full. As I stepped in, I found several people here, some virtually some not.
+
+Krog and Chrona both appeared as screens from outside. They didn't fit in this space, and we hadn't renovated yet. Hod, Althea, and Torix stayed on one side of the table. On the other, Kessiah, Amara, and Spear sat together. It was a strange hodgepodge of different species, but we made it work.
+
+This was the backbone of our guild. These were the people my enemies would learn to fear.
+
+I sat at the end of a smooth, metallic table, and we chatted about the war, how we were holding up, and personal victories. Torix managed his status and listened to Althea as she gushed about a few of her difficult kills. Hod gazed longingly at Amara as the eldritch and Spear eyed one another with disdain. Kessiah twirled a tiny sphere of blood over one of her fingers while leaning back in her chair, confident as ever.
+
+The conversations ceased as a three-dimensional hologram appeared of Obolis. He stood in a knee-deep pool of orange blood, a Hybrid skull detached and in his hands. Around him, fires raged, bullets whizzed, and screams echoed. He turned around, inspecting everyone here,
+
+"It is good to command your guild's full attention. I won't waste it."
+
+I nodded, "We won't waste yours either. How are you holding up?"
+
+He squashed the skull in his hand, the brains splattering about. Obolis smiled,
+
+"As well as to be expected. I'm fighting here on my nephew's world. Due to the many rebellions he failed to dispatch, he's been...decommissioned as the ruler here. His brother Helios has also been demoted as well. His reduction in rank stemmed from his failure in fostering a relationship with your guild. It is sad, but they've both proven unworthy of the titles granted to them."
+
+He shook his head while staring down, "Time will tell if they regain that prestige once more..." He peered up, "How is your guild?"
+
+I turned towards everybody, "I'm doing good. How about all you?"
+
+Kessiah grinned, "I'm feeling good."
+
+Torix mumbled, "Yes. Doing swell."
+
+Amara hissed, "Worse with this gatekeeper here."
+
+Spear sighed, "I would not choose to stay here either if not for my commander. That is all."
+
+Obolis raised his eyebrows, "They're quite lively. Excellent. We'll need that vigor in battle here." He turned to me, "I saw your bombardments of Giess's cities. The burden of genocide lingers upon you, but so does the glow of victory. Know that you made a difference here with each passing city and marred wasteland you left behind."
+
+He gave me a small bow, "Brutal in its simplicity, it was remarkable."
+
+I raised my palms, "I threw rocks at cities. It wasn't exactly complicated."
+
+Obolis smiled, "Genius is not found in creating complexity. It is found in making the complex simple. Now, I hate to brush away pleasantries, but we must organize quickly. Lives are lost with each passing second."
+
+I nodded, "Of course."
+
+The ancient Emperor hardened his gaze, "When can we expect your support?"
+
+I stated, "Tomorrow."
+
+Torix gasped before sputtering, "W-w-what? Tomorrow? I...I...By Schema, if I wasn't already dead, I'd die from overworking." The lich flopped back in his chair, "Details shall be missed, but that deadline can be met."
+
+I looked the lich up and down, noting his drooping shoulders and dimmed eyes. The lich showed signs of exhaustion, even if they weren't exactly normal. I noted that as Obolis raised a fist at us,
+
+"We look forward to spilling blood with you. Of course, your kindness shall not be met without any form of reconciliation."
+
+I raised an eyebrow, "Like what?"
+
+"I've sent Helios and his brother towards Mt. Verner. They shall act under your express command, Harbinger. Think of it as a gesture of goodwill and as an enabler of your destructive potential."
+
+I covered my mouth by crossing my fingers in front of it. My hands hid a smirk as I dwelled on Helios's fall. From the ruler of worlds to a commander for an allied force, oh how the mighty had fallen. It was likely a direct punishment for how he treated us early on when we met on Giess. Either way, I didn't hate the guy, and his warping abilities alone were invaluable for moving troops.
+
+He better be expecting some portal sickness here soon, though.
+
+"Thanks," I said. "I was wondering if I could ask for something else while we're already talking?"
+
+The grizzled Albony raised an eyebrow, "Hmm, perhaps two previous owners of worlds aren't enough?"
+
+I scoffed, "They're plenty, and thank you for the offer. We need competent people, and they fit the bill. I was actually hoping for one of your treasures before we committed troops."
+
+A sly look passed over Obolis, "Ah, you're hungry for the elemental furnace then, correct? Given the nature of your cipheric inscriptions, I cannot blame you. They appear to siphon attributes into your frame, and that alone would bolster your abilities tremendously. Consider it done."
+
+I shook my head, "That wasn't actually what I was hoping for, though I'll take it if you're willing to give it. I actually wanted the Obelisks you showed us with the software attached."
+
+I turned to Torix, "Our logistics team could use a break."
+
+Torix stood up straighter in his seat, a glint in his fiery eyes. Obolis laughed in his solemn, noble voice while resting a hand on his forehead. As he pulled it back, a smear of blood lingered on his face,
+
+"Consider it done. They'll arrive with Helios and his brother."
+
+Obolis clapped his hands, sending out a shockwave in the room he lingered in. He turned towards us,
+
+"Message our logistical team when and where you wish to arrive. We shall be waiting."
+
+The meeting closed, and everybody took a breath. I turned to them, "You guys okay?"
+
+Althea winced, "Even through a hologram, he's scary."
+
+Kessiah blinked, "It's like talking to an Overseer and then some."
+
+I didn't notice pressure around him anymore, but maybe I was just used to talking to the guy. We continued the meeting for a little bit before finishing our discussions. With our plans organized, we stood up and went back to business. Althea and I exchanged a hug along with a light kiss before I walked out of the room.
+
+Torix waited for me. He waved me over, Althea and I walking over. Turning to the lich, I smiled,
+
+"What's up?"
+
+He walked up and gave me a hug, something I didn't expect. I hugged the guy back before he grabbed my shoulders with his arms extended out,
+
+"Daniel, I cannot thank you enough for the obelisks. They shall make a world of difference for me."
+
+I gave him a thumbs-up, "No problem. Elemental furnaces can wait. We need you rested for your plans to really work."
+
+The necromancer lowered his hands, "And so they shall. I'm off to find Helios and see if I can't begin automating functions right away."
+
+Torix turned away before Althea gave him a light punch on the shoulder,
+
+"Hey, don't forget me."
+
+Torix scoffed, "Forgetting the unforgettable? Impossible."
+
+They hugged before the lich walked down the hallway. Right as Torix turned the corner, the lich raised his hands,
+
+"Well, isn't this a pleasant surprise? I see you brought company as well."
+
+A deep voice spoke out with disdain, "Is it truly pleasant?" Helios continued, "For me, I'd say not. On the other hand, you appear eager to see me, likely due to the obelisks. Take them and leave me be."
+
+Helios handed Torix a fancy obelisk, eyeing it with hunger,
+
+"Ah, perfect." He turned to Helios's company, "We'll handle introductions later as I simply must automate a few of my duties. My workload has been unbearable as of late you see."
+
+A lighter voice replied, "Think nothing of it, and I look forward to a proper meeting."
+
+The lich waltzed away with excitement. The ruler of worlds walked through the corner, another figure beside him of equal size and stature. Unlike Helios, this albony didn't wear a cape with armor like the other high ranking albony I met. This guy wore fitted robes, desert wear that was folded in such a way that it wouldn't fall off.
+
+The new albony's demeanor matched his clothes. He walked with a skip in his step, peering around at our architecture. In a lighter voice, he nodded at the hallways,
+
+"Huh, how quaint."
+
+Pacing up to Althea and I, Helios and the new guy met my eye. Helios opened a hand towards this other albony,
+
+"This is Florence, my brother. Please do avoid hating him. However, if you don't accomplish that goal, I wouldn't blame you."
+
+Helios sighed, "As is obvious, how can I expect others to succeed where I have failed?"
+
+Florence turned towards Helios, slapping his back, "Don't worry, brother. That wasn't the first thing I've seen you fail at. It surely won't be the last."
+
+Florence turned to us and let me get a good look at the dude. He wore a black mask with six holes drilled in it, showing none of his face as usual. Unlike a normal albony, Florence didn't let his fur go wild. Instead, he kept it trimmed and kept, doing so with steel bands that bound his white hair.
+
+Compared with Helios and the Emperor, this new guy looked stylish. His peppered fur was accentuated by flowing robes of white and black folded over him. He lacked any armor like Helios or the Emperor. In fact, Helios often glared with a low chin as if ready for a fight. Florence kept his chin high with a confident swagger that his brother lacked.
+
+Florence inspected us, the large albony giving off a jovial and relaxed presence, though he didn't lack an imposing air despite that. Florence spread his arms towards us, peering between Althea and I,
+
+"It's good to meet you both. I'm Florence Novas, and I've just been demoted from the ruler of a world to an assistant in an ally's army."
+
+Helios winced as Florence placed his hands on my shoulders, "And I could not be happier. This will be far less boring than managing simple decisions and pushing paperwork. Those tasks tire me, as they would many. Working under the Harbinger, however? Now that is interesting."
+
+Florence let go of my shoulders before nudging Helios,
+
+"Wouldn't you agree?"
+
+Helios raised a flat palm to Florence, "Don't inject me into your disobedient tangents. Unlike you, I actually labored for my position, so I valued my post. Losing it is a slap to the face, and being placed in an appointment beside you is like daggers between my ribs."
+
+Florence draped his arm over Helios's shoulders, "Come now. Anyone could see that you despised the monotony of running a world as much as I did. If anything, Obolis chained us down as to stifle our growth. This, this is an opportunity to regain the ground we lost."
+
+Helios seethed, "Ever positive, aren't you?"
+
+Florence shook his brother, "Come on, we're in the presence of a beautiful lady and greatness. Speaking of the lady, would you mind if I asked for your name, darling?"
+
+Althea blushed, "Althea Tolstoy."
+
+"It is a pretty name suiting the pretty lady." Florence gave my shoulder a firm, familiar pat,
+
+"And you're the big man himself, the Killer of Yawm and the Destroyer of the Blighted. I've been meaning to meet with you, but my position bogged me down. Now that I see you in person, you're larger in life than even in the legends told about you."
+
+Florence gave me a small bow, "I look forward to following your command, Harbinger. May you take us to many worlds where we shall see many sights."
+
+I raised an eyebrow at the guy, kind of taken aback. For all the flack the Emperor and Helios gave this guy, he really commanded a room. He also carried an effortless, natural charisma. Hell, he gave off the same sensation that an old friend would, and if it wasn't for my stats, I might've gotten caught up in his ambiance.
+
+This made him valuable, so I took note while raising a hand to him,
+
+"It's good to see you're excited. We'll be spilling blood together, so I'll need you to watch my back."
+
+For a split second, Florence stared at my hand with a moment of indecision. With a smooth gesture right after, he grabbed my hand as if he'd given a thousand handshakes before,
+
+"You'll need to watch both our backs, though, I'm sure you're able. Now, is there anywhere to eat and drink here? I'd like to meet the people here if you wouldn't mind."
+
+I opened my status, "Send me a friend request, and I can give you the blueprints to this place. It will be a 3-D map of the area."
+
+Florence tilted his head, "Giving a map of your base to a stranger? Doesn't that seem...unwise?"
+
+I smiled, "If we get attacked, assassins aren't what I'm worried about. Lehesion will crash through this place like a boulder through a glass window. Having blueprints won't change that."
+
+Florence raised his eyebrows, "Huh...Fair point. I'll keep them safe."
+
+I gave him a nod, "I'll need a report on what your skills are, along with maybe an interview or something. You seem more like the talking type than a fighter, but that's not necessarily a bad thing. We could use more talkers around here anyways."
+
+Florence stood taller, "Well...thank you."
+
+I turned to Helios, "How resistant are you to portal sickness?"
+
+Helios scoffed, "I am all but immune."
+
+I grinned, "That's good. I could've taken out more cities on Giess with your help then, but that's in the past. I'll be needing your help with our transport to the worlds your uncle will be giving us the word to go to."
+
+Helios crossed his arms, "So I am now a glorified wagon. Excellent."
+
+I shrugged, "If that's what you think, then that's fine. Do as you're commanded, and we'll get along just fine." I put a hand on his shoulder,
+
+"You see, unlike some people, I don't feel the need to encase others in ice just to make a point. Either way, I'll definitely think of more for you to do. This is just a quick briefing for now."
+
+Helios shrunk a bit, his shoulders sinking, "Then...then I shall find somewhere to rest until I am needed."
+
+In a flash, he portalled elsewhere. Florence shook his head, "Gagh, he'll cheer up with time. He doesn't know it, but this is, in fact, an act of love by the Emperor."
+
+Althea frowned, "How?"
+
+Florence turned to meet her eye, "It was obvious to anyone who's known him, but he was not happy with ruling his worlds. Even if he believes those positions would give him happiness, that does not make it so; he is a fighter through and through. In time, he'll learn that."
+
+I narrowed my eyes, "You seem to see through people pretty well."
+
+Florence put his hands on his hips, "Does it seem that way? It was just a lucky guess I suppose."
+
+Althea rolled her eyes, "Okay. Sure."
+
+Florence coughed into a hand, "Ahem, now where is that feasting hall?"
+
+I pointed down, "There are several places to check out, though I'd say they're more like cafeterias or eateries."
+
+Florence shrugged, "It shall suffice. Both of you rest well and let us kill the blighted in droves."
+
+Florence turned and walked off, inspecting the nearby architecture as he did. Once he was gone, I turned to Althea, "So, what did you think of him?"
+
+"He was a lot cooler than Helios, that's for sure."
+
+I nodded, "Yeah, I think so too. I'm wondering how his worlds ended up rebelling? I mean, the guy seemed competent enough."
+
+Althea turned up to me, "Hm, we'll learn eventually. For now, we've got a lot of business to take care of."
+
+I grabbed her by the hip, "Oh, definitely."

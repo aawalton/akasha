@@ -1,0 +1,463 @@
+---
+id: f3062fdb-71b0-5466-b850-8eb34f312885
+page-type-slug: story-chapter-royal-road
+title: "Chapter 92: : The Bedbugs that Woke the Sleeping Wolf"
+slug: 0093-chapter-92-the-bedbugs-that-woke-the-sleeping-wolf
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 93
+ownLength: 2067
+unit: words
+publishedAt: 2026-01-28
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2989225/chapter-92-the-bedbugs-that-woke-the-sleeping"
+royalRoadId: "2989225"
+---
+
+PoV Luna
+
+The following day started with a knock.
+
+Luna heard it dimly, somewhere far away, woven into the warm haze of sleep. It slid through her dreams without urgency, tapping at the edges rather than forcing its way in. Her tail twitched beneath the blankets.
+
+One ear flicked in annoyance.
+
+Not enough to wake her up.
+
+The bed was soft and warm. The air was still. Everything smelled like pack and safety and yesterday’s food lingering faintly in the sheets. Luna shifted, curling tighter, paws drawing in as she burrowed deeper.
+
+A little mlem-yawn escaped her.
+
+Then the blankets moved.
+
+And Luna was gently – but very decisively – rolled onto her back before she had any chance to protest.
+
+“–Wuh?”
+
+Her paws lifted instinctively, toes splayed in confused protest as her eyes cracked open just enough to register betrayal.
+
+But her Second was already sitting up.
+
+Beyond the flailing paws promising revenge.
+
+Unfair!
+
+Syliana swung her legs over the side of the bed and stood, drawing a robe around herself with practiced ease. Luna squinted blearily after her, brain lagging somewhere behind her body.
+
+The door opened.
+
+“Apologies for the early hour,” came a respectful voice, distant but clear, “but Guildmaster Ferric would like to request your party's presence at your earliest convenience.”
+
+Luna’s ears twitched at the tone. It was calm. Polite. With no sharp edges.
+
+Syl nodded once, accepting the news.
+
+“Anything else you can tell me?”
+
+“Guildmaster said it wasn’t of immediate concern.”
+
+“But urgent nonetheless?”
+
+“That’s correct, ma’am.”
+
+Syl paused a moment, fingers resting against the doorframe, while she pondered the situation.
+
+“No details on what it’s about?”
+
+“Afraid not, ma’am. But you’re not the only party requested.”
+
+Luna listened to the sounds more than the words. She couldn’t sniff out any danger or excitement.
+
+Voices like this were calm and measured. And that meant waiting! Talking. And standing around doing silly human things!
+
+Probably boring too!
+
+Which was… good.
+
+It let her be lazy a little longer!
+
+Luna let herself sink back into the mattress, stretching now that she was awake enough to appreciate it. Legs extended. Toes curled. Back arched just enough to feel nice. A yawn crept up on her and spilled out in a long, rumbling huff.
+
+The door clicked shut, and she heard steps approaching.
+
+By the time the yawn finished rolling through her body, Syl was back at her side.
+
+Gentle fingers brushed through Luna’s fur, slow and careful, tracing familiar paths behind her ears. Luna melted instantly, eyes sliding shut again as her tail thumped once against the bed.
+
+Mhm.
+
+Very good morning.
+
+Pleasant, and warm!
+
+She tilted her head just enough–
+
+“Mlem–!”
+
+Her snout was gently but firmly redirected.
+
+“No mlems, Luna. You know that.”
+
+Luna froze.
+
+Then huffed.
+
+Another surprise mlem foiled!
+
+And this one had been perfect, totally unexpected, with little time to react!
+
+Her Second was too awoomazing sometimes.
+
+“Hmph!”
+
+Luna transformed into her human form with a poof.
+
+Just so she could cross her arms dramatically and turn her head away, ears flicking in exaggerated offense! Her tail gave one annoyed twitch.
+
+You win this time, Second!
+
+But Luna would get you.
+
+Eventually!
+
+She cracked one eye open again, just to check.
+
+Syl was watching her with a fond and patient look. Her slight smile and continued scritches making Luna feel just a little bad for trying to make it a contest.
+
+Just a little though!
+
+They felt shuffling from the other rooms. Luna heard Ray saying something that didn’t sound particularly nice.
+
+Though whatever it was, Trianna’s stretch and yawn overshadowed it completely!
+
+Luna closed her eye again, enjoying the scritches for a little longer.
+
+Fine!
+
+Wake up time was coming.
+
+Soon.
+
+But for now?
+
+For now Luna planned to extract every scritch and pat from her pack.
+
+As morning tax!
+
+***
+
+Once everybody got up, getting ready happened very fast.
+
+Far too fast!
+
+Luna strongly disagreed with this.
+
+Too little time was spent on snacking, scritches, mlems and pats!
+
+Definitely!
+
+…Was Luna getting a little lazy?
+
+Perhaps even too comfortable for an Apex Predator?
+
+No, it was the humans who were wrong!
+
+Good food and great scritches made the day all the nicer!
+
+Luna knew!
+
+Because Luna was a genius!
+
+But Syl was already moving with purpose, pulling on her coat and checking her belt, while Ray hovered nearby making pointed comments about time and urgency meaning money.
+
+Weird!
+
+Luna thought about it for just a moment… Her thoughts swirled, trying to understand what time tasted like, and why would it mean money.
+
+Luna already knew money meant food! So turning time to money seemed curious…
+
+…But unimportant!
+
+Luna would leave such things to humans.
+
+She had importanter things on mind!
+
+Standing in the doorway, her tail flicked irritably as her stomach reminded her that waking up did not automatically mean eating had occurred.
+
+Not yet!
+
+And since learning of breakfasts where Luna would just get food delivered to her…
+
+She decided that her Maw stores were for emergencies and snacks only!
+
+But breakfast was sacred.
+
+Precious.
+
+Import–
+
+“We’ll just grab something quick to eat on the way,” Ray said.
+
+Luna stopped.
+
+Turned.
+
+Stared at him.
+
+“Nuh uh! Luna does not agree,” she said flatly.
+
+Ray sighed.
+
+“Luna–”
+
+“Breakfast sacred! Luna wants proper food!” Luna declared, placing both hands on her hips.
+
+Trianna snorted. Sepio looked away very deliberately. Syliana paused, shook her head in amusement, then calmly handed Luna a small bowl, filled with a variety of cold cuts, and a large piece of buttery-smelling bread.
+
+Where did she even get it?
+
+Luna didn’t know.
+
+But it was food!
+
+“Quickly,” Syl said.
+
+Luna nodded, eyes sparkling.
+
+She immediately sat down and started nomming on all the goodies.
+
+They were good!
+
+Not as good as sandwiches…
+
+But she was sure she never tried at least two of those cold cuts before either. Her eyes flicked to Syl, now talking to Sepio about something.
+
+Yes. She picked a great Second!
+
+Luna chewed the last piece of bread before licking her bowl clean.
+
+And only now – satisfied and full – did Luna allow herself to be ushered toward the Guild!
+
+***
+
+The hall was already filling when they arrived.
+
+It wasn’t very loud yet – but already quite packed!
+
+Adventurers trickled in from every entrance, armor half-fastened, packs slung over shoulders, voices low with speculation. Luna slowed automatically, eyes bright, nose busy. Trying to make sense of all the new smells.
+
+She leaned closer to Syl.
+
+“Luna can tell… that one smells brave,” she whispered, nodding toward a woman tightening her gauntlets. “But nervous-brave!”
+
+A step and a sniff later–
+
+“And that one scared,” Luna added. “But trying to hide it. Failing.”
+
+Another sniff.
+
+“Oh. The worst one yet! He forgot breakfast!” she said gravely. “Will regret later.”
+
+Syl’s mouth twitched.
+
+Then Guildmaster Ferric came down the stairs.
+
+All geared up!
+
+Armor on. Weapon secured. Cloak fastened.
+
+Luna straightened immediately.
+
+Her tail gave a single, approving flick.
+
+The big human seemed quite strong now!
+
+Ferric stopped at the center of the hall. And as he did, the murmurs died down quickly.
+
+“Thank you all for gathering on such a short notice,” he said. “We have an Ant Surge on our hands, with at least a few hundred confirmed Ants.”
+
+A ripple went through the room, and some people straightened up.
+
+While others visibly relaxed.
+
+She could even smell the tension leaving them!
+
+Luna’s ears tilted forward.
+
+Did they expect worse?
+
+And what in the Awoo are Ants?!
+
+“As such,” Ferric continued, “the Guild and Town Council have issued a large-scale extermination quest. Although not mandatory, we all know what can happen if left unchecked for too long.”
+
+Luna looked at the faces of the gathered now.
+
+She saw some tightening jaws. Nods. Hands flexing.
+
+And even a few smiles.
+
+Ray also smiled!
+
+Luna looked at him, and her packmate leaned in.
+
+“Big extermination quests… are really well paid!” he whispered.
+
+Uhhhh?
+
+Luna really didn’t know how to take the news!
+
+“I will participate myself,” Ferric said, voice steady, “and hope to see most of you there too.”
+
+That seemed to impress a lot of people.
+
+It impressed Luna very much too!
+
+“We set out in two hours,” Ferric finished. “Please make your preparations and decide soon. Julia is available if you have any questions, or need a refresher on Ant biology and weak points. That will be all.”
+
+The moment he stopped speaking, the hall came alive.
+
+Voices rose. Groups formed. Armor clinked. Decisions happened fast.
+
+Luna stayed very still.
+
+She mouthed the words to herself.
+
+“…Ants,” she whispered, trying to count on her fingers. “…Hundreds…”
+
+She leaned toward Syl, tugging lightly at her sleeve.
+
+“Second,” she asked, very seriously, “What is hundreds?”
+
+Syliana’s stone face cracked, and her mouth opened.
+
+Then closed.
+
+Trianna was chuckling to the side, and even Sepio was shaking.
+
+She looked at Veric, who immediately hid his face behind his arm.
+
+Huh.
+
+What did Luna do?!
+
+***
+
+Luna’s pack decided to take part!
+
+And it happened very quickly too!
+
+After Syl calmed down, she simply stepped forward when Ferric’s gaze swept the room.
+
+What followed was a short exchange of words, and then a thankful smile from the Guildmaster that looked like a knot loosening in his shoulders. He nodded to her, once, firmly.
+
+Luna saw that.
+
+She straightened immediately.
+
+Chest out. Chin up. Tail held very still for a whole two seconds.
+
+Ah!
+
+That was the look humans made when something important had gone right. Which meant Second had done something clever.
+
+And pack-important!
+
+Probably.
+
+Luna glowed.
+
+“My Second very smart,” she whispered to herself, nodding gravely.
+
+Yes, almost as smart as Luna!
+
+Around them, the guild shifted into preparation mode. People broke off into clusters, voices overlapping as plans formed. There were pieces of parchment being handed out. Somebody argued loudly about the merits of using fire against Ant acid. And another person was already re-tightening straps that had clearly been tightened just fine a minute ago.
+
+Luna drifted around.
+
+All those weird human rituals were curious!
+
+After all…
+
+She flexed her fingers, itching to claw out.
+
+…Luna was always ready!
+
+She bounced from one small group to another, peering up at maps, sniffing at weapons, leaning far too close to conversations she absolutely was not part of.
+
+Not that the parties seemed to mind!
+
+“So many humans,” she murmured, eyes shining. “All hunting same things!”
+
+She hopped up onto the edge of a bench to see better, tail wagging as she took in the room. Armor clinked. Boots scuffed. Excitement smelled sharp and fizzy in her nose.
+
+This was new!
+
+Big hunts before had been Luna or pack! Small pack. Tight.
+
+Efficient!
+
+And everybody always close enough to touch.
+
+But this?
+
+This was huge!
+
+Luna decided, very seriously, that this must be what humans meant by civilization!
+
+Very Loud Pack Hunting!
+
+Yes.
+
+That made perfect sense!
+
+She hopped back down and nearly collided with Julia.
+
+The receptionist girl had set up near a table covered in diagrams and notes.
+
+Luna stopped short, blinked, then leaned in, eyes drawn to the drawings.
+
+“These ants,” she said slowly, pointing. “They hunt together?”
+
+Julia nodded, cautious but patient.
+
+“Yes. In big colonies.”
+
+Luna frowned in thought.
+
+“And… if you scare one, others come?”
+
+“Yes. And so long as their Queen lives, their numbers keep growing.”
+
+Luna nodded, absorbing that. She glanced around at the gathering adventurers again, then back at the drawings.
+
+“Humans hunt ants… together,” she said. “Because ants are many?”
+
+Julia nodded.
+
+Luna’s tail started wagging again, slow and thoughtful.
+
+“Okay,” she decided. “Luna understands. Ants are many prey! Thanks!”
+
+Saying thanks was important, Syl taught her that!
+
+“Um, you’re welcome?”
+
+And then Luna was off.
+
+She bounced once, then twice, energy bubbling up again now that thinking was done. She spun in place, scanning the room, clearly delighted by how many humans were preparing at once.
+
+“So many!” she said happily. “All ready! All sharp! Very exciting!”
+
+Her mouth watered.
+
+She wiped it on her sleeve without a shred of shame.
+
+Then she marched back to Syl’s side and planted herself there, posture proud and eager.
+
+“Luna is ready for Ants,” she announced firmly.
+
+Several heads turned.
+
+But then her Second ruffled her hair, nodding in approval.
+
+Her tail wagged even harder, others forgotten.
+
+…Two hours suddenly felt very long.

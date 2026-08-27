@@ -1,0 +1,181 @@
+---
+id: 78ec6435-2653-52d8-823a-281fb294ef2c
+page-type-slug: story-chapter-royal-road
+title: "239 Racing Towards Infinity"
+slug: 0198-239-racing-towards-infinity
+partOf: the-new-world
+position: 198
+ownLength: 2555
+unit: words
+ownProgress: 2555
+publishedAt: 2019-11-25
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/427403/239-racing-towards-infinity"
+royalRoadId: "427403"
+markedReadAt: "2026-06-29T21:27:44.768Z"
+---
+
+As the shattered god charged his attack, so did I. Bolting towards him, I neared him as the sky darkened. As stars formed overhead and fell, I reached out my hand, creating a singularity over Lehesion's chest. The golden aura siphoned into the void, the unstoppable wake of destruction eating it. Once full, it ripped outwards.
+
+The golden aura soaked most of the gravitational implosion, smothering the explosion like a wet blanket over fire. My attack served its purpose despite that. The falling stars dimmed, unable to unleash their full might.
+
+And even when dimmed, the lights were blinding.
+
+They shattered the horizons surrounding us, turning Astelle into a memory in seconds. Portions of the city evaporated, nothing remaining after the collisions. Several fell towards my own soldiers, but they flew away from the detonations. Those that couldn't react...they perished in a painless fire.
+
+I saved who I could. Several of the recovery squadrons were near me. I blocked the comets from above by making enormous shells of chilled earth around the lights. They detonated preemptively, turning the dirt into liquid magma. I lifted water from the surrounding lake, freezing it at the same time. The magma gushed over the ice, solidifying and shattering all at once.
+
+While not a perfect shield, it saved the gialgathens I covered. I did so with four different groups at once, my mind straining under pressure. My skin glowed and my blood boiled, the sheer volumes of energy coursing through me generating enough heat to melt steel. Staring Lehesion down, he turned towards me,
+
+"Ah, little one, it would seem you rise against me once more? I quashed you once with many at your back. What will you do now when facing me alone?"
+
+He laughed, a booming, noble voice,
+
+"Perhaps you will crumble like the many that have come before you."
+
+He whipped his tail through the air. I anchored myself in the air, clenching my hands together and intercepting his strike. Parrying sideways, I knocked the tail sideways. A sonic boom erupted beside me, as I slapped the blow sideways, the echo alone causing the lake to rumble.
+
+Lehesion's eyes widened,
+
+"And so you rise instead? Interesting."
+
+He grinned, "Then let us play in this venerable wood, each of us faint wisps when compared with the ancients."
+
+The skin on my hands healed, several bones crushed in my hand. I rolled my shoulders as I growled, "Come on then."
+
+Lehesion's laugh created waves and bent trees with the wind off his breath. He lashed out with his tail, using only the physical might he was gifted with from birth. I snapped each attack sideways, regenerating minor wounds from the act. The practice with Althea's spears from long ago gave me this ability. If I blocked his tail swipes, the recoil into my frame would make the damage pile up.
+
+Instead, I held firm under the storm Lehesion rained down.
+
+After several minutes of tail swipes later, the pace of his attacks increased. I learned something about our previous fight from this - he wasn't even trying before. He toyed with us, and he was still toying with me now. I strained under the onslaught, his strikes growing in precision. He learned from each attack, the angles of his attacks becoming harder to predict. With each slicing strike, he injected feints, varying pressures, and different amounts of 'whip' in his attacks.
+
+He glanced down at me with a grin,
+
+"Not since Emagrotha have I been matched so equally...Perhaps I can show my true potential."
+
+I internally groaned as the dispersed aura around him coalesced into his frame. I overcharged the runes over my skin, mana saturating my metal blood. As he swiped, I reacted long before he crashed towards me. I released enormous gravity wells. I used the Rise of Eden right before he made contact, enhancing my stats. I generated momentum blockers, making his tail slam through stony blocks.
+
+And I was nothing.
+
+He amputated my arms while cleaving off my torso from my right collarbone down to my left hip. Despite the grievous wounds received, I held firm. His tail bounced back, and I held my ground. Air in this case, but that was irrelevant. Lehesion understood the significance of me still standing there, facing him down.
+
+It was written all over his face.
+
+"You...you've changed, haven't you little one? From ant to beetle to bird. I'm mesmerized by what you've achieved in so little time. How did you accomplish such a feat?"
+
+I gurgled on my own blood, silver streams pouring out of my mouth. My body came back together over the next few seconds, aided by my regeneration. Lehesion gave me time to collect myself, not out of arrogance but out of respect. It kind of surprised me if I'm honest, but you won't hear me complain about it.
+
+As I gained the ability to speak, I figured conversing was just as good a distraction as fighting, better even. One involved not getting my ass kicked.
+
+"I...trained."
+
+It was the extra mass in all honesty. It was like slamming a sledgehammer on a rock. If the rock didn't break, the ricochet off the strike would rattle up your arms. I was that rock, and instead of breaking, I managed to stay together. To be honest, I couldn't guarantee I could do that again.
+
+Lehesion scoffed, "Training, truly? Here I imagined I faced one with a birth equal to my own." He leaned back onto his hind legs, crags of earth rising from the pressure while he lifted his front paws. His claws glistened,
+
+"I was given this frame when I came into this world. You earned your gifts from what I've seen. That is incredible, even if perhaps futile when faced with a being of my caliber."
+
+Eh, he was kind of an asshole, but whatever. This was as good of a chance as any to waste time.
+
+"Eh, we'll see if it's futile later. It's already made a difference, hasn't it?"
+
+Lehesion stared at me, his expression unreadable. A sadness spread over his face along with a small smile,
+
+"You cannot understand the depths of my ability. I am the end and the beginning. I am the sun and the stars and the earth beneath them. From my breath, life overflows." Lehesion stared up, trees expanding from beneath him without effort on his own part.
+
+Two could play that game.
+
+I rubbed my hands together, welling quintessence into my hands. Beneath me, I generated as much life as I could. An endless torrent of crabs filled the lake below. Crabs? Why was it always crabs? I closed my eyes in shame as I took a deep breath.
+
+Lehesion raised a horned brow, "It is only crustaceans, but you too can make life...perhaps you are a god in your own right. What is your name?"
+
+"Daniel."
+
+"Daniel? A name without the same impact you carry. Perhaps you carry other names?"
+
+"Eh, I do, but they're not the names I've chosen."
+
+Lehesion grinned at me as if looking at a student,
+
+"Names define us. They act as the one denotation that embodies our character and what we are. When spoken, names create a vision, a surge of emotion. That sentiment is the truest expression of one's self."
+
+Lehesion stared off into the distance, "And we, our acts in life, they decide the significance our names will carry. Despite how elemental names are to our being, there is one characteristic all names share."
+
+Lehesion met my eye, "A name is not chosen. It is given. Just as your name was given, I too shall give you a gift, the gift of recognition. You've left a legacy behind you, a path all your own. I shall remember the name, Daniel, the name you've chosen, along with the might it inspires."
+
+Was he...complimenting me? Lehesion was full of surprises.
+
+Lehesion's face twitched as he blinked away some mental struggle. His slitted eyes sharpened into thin lines as he heaved for breath. He swallowed, his eyes normalizing. He shook his head at me while peering down,
+
+"Even with a thousand lifetimes, I would still live out a life filled with regrets. If you should live through this battle, I urge you to dwell on your actions along those lines. Think of the regrets you may face and quash them before they live on to poison your thoughts and mind."
+
+I blinked, "Yeah...I will."
+
+Lehesion grinned, spreading his wings wide. The Hybridization spread further into them, wires tracing under the golden webbing.
+
+"Only three have withstood the strength of an actual swipe from me. You, Emagrotha, and Sheom. One was my ultimate rival before I...before I carried out one of my many grave mistakes in this life of mine. The other was like a second mother, someone who I...I cannot understand why I killed her."
+
+Lehesion glared down at me, rage filling his eyes as the psionics overtook his mind,
+
+"And this one before me...He too shall crumble into the memories of those that knew him. It was good speaking with you, but this is goodbye, Daniel."
+
+His palpable aura rippled as gilded flares swelled off his body like golden crescents. As if staring at the sun and the moon, Lehesion towered over me. He whipped his tail with untold energy. I reached out a hand, creating a singularity in his chest.
+
+With mobility defying his size, Lehesion shot sideways, the lake of Astelle crashing from him. A resulting tsunami consumed the city, he whipped his tail towards me. I lifted my hand, opening my storage. Using the portal as a shield, Lehesion's tail pierced into the alternate dimension.
+
+The force of the blow did as well, making the beast lose his momentum. With 20% of my health disintegrating from storing a chunk of his tail, I closed the warp. Lopping off a third of it, streams of blood poured from Lehesion's lost limb, flowing like rivers of gold. Lehesion stared between me and his tail, confusion spreading over his face.
+
+"You've more tricks up your sleeves? I am impressed once more."
+
+I grinned, "Hah...It actually works. I can't believe it."
+
+As my health regenerated, Lehesion's tail reconstituted. The orange gunk and wires acted as catalysts for his mana to reform onto. Lehesion grinned,
+
+"A worthy foe. Let us play upon this plane, and may it be fragmented beneath our heels."
+
+He flew into the air, the air off his wings causing massive waves and collapsing buildings. Flying towards me, I pulled myself sideways while he crashed into the ground. Like a battering ram worthy of crushing continents, the entire island in the lake caved in. The lake rushed out, barely enough liquid left for a puddle.
+
+The island itself spread out into our surroundings, crags of dirt and boulders of stone lobbed miles away. Moments later, a torrent of rain poured from above, a storm forming from the lake's water. I tumbled from the impact, unable to hold myself down with a gravity well.
+
+A familiar kinetic shockwave rippled through my body. A human's veins and insides would've dissolved from the internal vibrations. Being pure metal, I withstood the shellshock, though it took a tenth of my health.
+
+As I crashed against the landscape, I created craters beneath me, the ground crumbling and trees splintering. My own impacts meant nothing in the wake of Lehesion's charge, however. Astelle disappeared. Trees leveled. Buildings caved. For kilometers in every direction, no tree stood, no rock remained, and no life lived. A bringer of extinction, Lehesion annihilated everything.
+
+Thank god our troops were already out by now. Otherwise everyone, and I mean everyone, would be dead.
+
+My fight or flight instincts activated, fear racing up my spine as I laid on the ground. I got a sample of Lehesion, kept him at bay till our troops evacuated, and we saved most of the gialgathens. Escaping turned into my priority.
+
+Lehesion pulled himself from the new crater he created, a bit of glowing stone under the center of his impact. He grinned while turning around,
+
+"Surely, you survived? Come, let us quake the lands and bend the skies."
+
+How about fuck all of that.
+
+I dug into the ground as he laughed at the destruction around him. A bit of madness leaked into his voice as Lehesion rose back into the air and announced,
+
+"Remember this. The surface of most worlds are like layers of dust over molten marbles. If you strike the ground with enough force, that dust shell shatters, and the magma rises from below. We stand atop an ocean of magma. Let me bring it to the surface."
+
+I didn't like the sound of that, but it gave me an idea.
+
+Lehesion bounded onto the ground, hopping from space to space. It was the kind of movement I expected from an excited toddler. Unlike a toddler, this simple motion flattened fields and vaporized forests. Each time Lehesion landed, actual earthquakes bounded around the scenery.
+
+The ground wobbled. The earth-shattering bounds defied all logic. As if acting without limits, Lehesion tore the region apart. Unleashing a level of havoc that made natural disasters envious, Lehesion lifted into the sky once more. The clouds relented to his wings. With another impact, he created kinetic shockwaves that uprooted trees miles away.
+
+He laughed as he did, the simple act of moving more than enough to destroy any enemy he'd ever faced.
+
+I was out of there by then. I dug deeper down, deeper than ever before. Past literal miles of rock, I flew past the mana pollution layer and into the pressurized magma lying beneath the surface of Giess. It was my only hope of escape.
+
+Surrounded by the endless sea of glowing rock, I followed the coordinates to Elderfire. As I abandoned the fight, Lehesion let out a roar that bent the skies and broke the mountains. He announced,
+
+"Tell me then warrior, are you ready to play with the gods?"
+
+Swimming through the magma, I resolved to myself to take him down a notch. Neither of us were gods. As strong as he was, he wasn't divine. I dwelled on the piece of his tail locked away in my dimensional storage. It worked. I never imagined it would, but using the pocket dimension to block attacks worked.
+
+It wasn't enough, however. Lehesion toyed with us at Rivaria. He took our most potent barrage without so much as flinching before showing us his wrath. That 'wrath' was a piece of his abilities. If anything, this fight solidified something I'd been thinking for a while.
+
+Schema was underestimating Lehesion. In fact, Schema underestimated the Adair Family in general. Lehesion was beyond anything I ever imagined facing. That golden dragon made the Overseers look inept, and the Sentinels resemble fodder. If he strengthened further, then defeating him might become literally impossible.
+
+If that was the case, this rebellion might spread further through the cosmos, creating a galactic civil war. Lehesion could spearhead the effort, acting as a planetary destroyer. Schema needed to crack down immediately. Otherwise, this problem was going to spiral out of control.
+
+And even worse than that outcome, an inevitable reality lingered in the back of my mind - Lehesion was holding back.
+
+I might've started a fight I couldn't win.

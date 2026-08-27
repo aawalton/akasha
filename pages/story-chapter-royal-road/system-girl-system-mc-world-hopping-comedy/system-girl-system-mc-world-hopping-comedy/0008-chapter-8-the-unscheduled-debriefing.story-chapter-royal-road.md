@@ -1,0 +1,109 @@
+---
+id: dfec7fad-c2d1-51cd-af10-4bbe99a29384
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8: The Unscheduled Debriefing"
+slug: 0008-chapter-8-the-unscheduled-debriefing
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 8
+ownLength: 1723
+unit: words
+publishedAt: 2025-09-09
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2587142/chapter-8-the-unscheduled-debriefing"
+royalRoadId: "2587142"
+---
+
+The silence in the tailor’s shop was thick enough to be a physical presence, broken only by the faint, cheerful music of the festival outside. Three pairs of eyes were locked on us, a mixture of pure, undiluted shock and the dawning horror of men whose multi-layered, treasonous plan had just been interrupted by a seven-hundred-pound act of God.
+
+My QA brain, which had been idling in a state of mortified panic, snapped into overdrive. This wasn’t a social blunder anymore. This was an active, high-stakes, time-sensitive quest trigger. We hadn’t just stumbled into a back room; we had fallen face-first into the server’s main plotline. The evidence was right there on the table, a buffet of conspiracy.
+
+Log the data, Ana. Secure the evidence.
+
+The man I tagged as the leader—taller, dressed in finer clothes, and carrying himself with an air of slimy arrogance, my system identified as [Lord Valerius, Human - Lvl 12]—was the first to recover. His shock curdled into venomous fury.
+
+"What in the nine hells are you?" he hissed, his hand dropping to the pommel of a decorative, but clearly functional, rapier at his belt. His two companions, a pair of grim-faced thugs tagged as [Conspirator Thug x2, Human - Lvl 8], drew crude daggers.
+
+There was no time for pictograms. No time for a plan. There was only time for one, single, desperate action. My consciousness latched onto the inventory module, the most powerful and esoteric tool in my arsenal. With a frantic, sweeping mental command, I targeted the entire surface of the table.
+
+Select all. Add to inventory.
+
+For the conspirators, it must have looked like a terrifying act of sorcery. The maps of the Baron’s keep, the detailed guard patrol schedules, and the damning letter with the broken seal didn’t just vanish. They dissolved, shimmering into motes of pale blue light before winking out of existence entirely. One moment, a table full of treason. The next, a bare wooden surface.
+
+Lord Valerius froze, his hand half-drawn. "The papers… where did they go? Did it eat them?"
+
+The thugs didn't wait for an answer. "Kill the beast!" one of them roared, and they charged.
+
+Korg, who was just beginning to push himself up from the wreckage, saw two angry men with short, pointy sticks running at him. His simple brain, unburdened by concepts like espionage or political intrigue, came to a very simple conclusion.
+
+Men hit Korg. Korg hit back.
+
+The first thug’s dagger glanced off Korg’s chest with a dull tink, as if he’d tried to stab a leather-wrapped boulder. His Aegis of 21 wasn’t just a number; it was a physical law. The man stared at his blade, then at Korg, his expression twisted in disbelief, as though reality itself had betrayed him. That moment of hesitation was all Korg needed. He swung ‘Boom-Stick’—the mace—in a mighty horizontal arc. It connected with the thug’s chest not with a crunch, but with a deep, resonant THUMP. The man flew backward, crashed at the already weakened wall of the shop, and landed in a heap amidst a display of colorful hats outside, buried by chunks that once were a wall.
+
+The second thug tried to be clever, ducking low to stab at Korg’s leg. The dagger scraped harmlessly against his thick hide. Korg looked down, more annoyed than hurt, and brought ‘Smashy-Stick’—the smithing hammer—down on the man’s back. There was a pained grunt, and the second conspirator crumpled in a small crater in the floor, groaning.
+
+Lord Valerius’s aristocratic face had gone white as a sheet. His two hired muscles had been neutralized in under five seconds. He did the only sensible thing a cowardly noble could do: he turned and fled, bursting out through the new hole in the wall and into the festival square, screaming. "Help! Guards! A monster has gone berserk!"
+
+Korg saw the angry man running. His simple, objective-focused mind latched on. Angry man running. Must chase prey.
+
+He charged in pursuit, his massive hooves pounding on the floorboards, leaving the ruined tailor shop behind. We burst back into the bright sunlight and chaos of the festival. Villagers screamed and scattered as a seven-foot-tall Minotaur, dual-wielding a mace and a hammer, chased the Baron’s brother through the crowded square. Stalls were overturned. Cages of chickens exploded in a flurry of feathers. It was a scene of pure, unmitigated pandemonium.
+
+My internal monologue was a single, sustained shriek of despair. No, no, no, you idiot, stop chasing the quest villain! You look like the villain instead!
+
+The chase was short and disastrous. Korg, with his small Grace was slow, but with his high Vigor, was tireless, while Lord Valerius was quickly running out of breath and real estate. The chase ended, as if directed by a cruel playwright, directly in front of the main dais where the pie-eating contest had been held. Standing there, their faces a mixture of confusion and horror, were the Baron and his daughter, Elara.
+
+From their perspective, the scene was damning. The friendly, pie-eating bull-man had suddenly gone on a rampage, destroyed two shops, and was now attempting to murder the Baron’s own brother in broad daylight.
+
+"Guards!" the Baron bellowed, his face crimson with rage. "Subdue that beast! Use lethal force if you must!"
+
+Lady Elara looked on, her green eyes wide with shock and a deep, cutting disappointment that somehow felt worse than the Baron’s anger.
+
+In seconds, we were surrounded. A dozen guards in leather and steel formed a circle, their spear-tips all pointed at Korg’s chest. The festive music had died. The only sound was the panicked breathing of the crowd and the steely scrape of armor. Korg stopped, utterly confused. He looked at the angry men in front of him, then at the ring of pointy sticks, then back at the sky, a low, questioning "Moo?" rumbling in his chest.
+
+We were trapped. I was voiceless, a ghost in a machine on death row. Lord Valerius, hiding behind the guard line, was already spinning his tale. "It went mad, brother! Attacked me for no reason! It’s a monster, a mindless killer!"
+
+This was it. Game over. A critical mission failure caused by a series of escalating, statistically improbable accidents. My user had managed to put himself into a no-win scenario.
+
+Unless…
+
+I couldn't talk. I couldn't explain. But I could show. My only way out was to create an even bigger, more inexplicable scene than the one we were already in.
+
+With a final, desperate surge of will, I opened the inventory and executed the only 2 commands that mattered.
+
+Select all. Drop.
+
+A brilliant cascade of pale blue light erupted from Korg’s body. The air shimmered, and then, as if from nowhere, dozens of items materialized in the air around him. [Boar Hide], [Boar Tusk], and other monster loot, but most importantly, maps, scrolls, and letters fluttered down like strange, rectangular snow, landing at the feet of the stunned guards.
+
+The entire square fell into a dead silence. The guards hesitated, their spears wavering. Lord Valerius’s triumphant smirk froze on his face.
+
+Lady Elara, ever the sharpest person in the room, was the first to move. Her eyes fixed on the letter that had landed closest to her—the one with her family’s crest on its broken seal. She knelt, her expression one of intense curiosity, and picked it up. As she read, her face went through a rapid, devastating transformation: from confusion, to shock, to a pale, tight-lipped fury.
+
+Without a word, she walked to her father and handed him the letter. The Baron snatched it, his eyes blazing with anger at the interruption. He read the first line. Then the second. The rage in his face did not lessen, but its target shifted entirely. The crimson flush drained away, replaced by an ashen pallor of profound betrayal.
+
+He slowly raised his head, his gaze falling not on Korg, but on his own brother. "You would plot against your own blood?" his voice was a low, dangerous growl. "You would sell my people to the Crimson Hand mercenaries?"
+
+Lord Valerius stumbled backward, his face a mask of pure terror. "Lies! Forgeries! That beast planted them!"
+
+But it was too late. The truth, delivered by the world’s most incompetent courier, was undeniable. The Baron pointed a trembling finger at his brother.
+
+"Seize him," he commanded, his voice shaking with restrained violence. "All of you, Seize Him."
+
+The guards, no longer confused, turned as one, their spears now directed at a new, far more deserving target.
+
+A wave of relief so powerful it felt like a system reboot washed over me. He’d done it. My glorious, thick-skulled, walking disaster of a user had succeeded. Not through skill, not through intelligence, but through the sheer, brute-force application of his own incompetence, amplified by a luck stat that was clearly bending the rules of reality. He didn’t clear a quest. He fell into the quest reward.
+
+The Baron turned to Korg, who was still standing placidly amidst the scattered evidence, occasionally nudging a scroll with his hoof. The old man’s face was a complex mixture of gratitude, awe, and utter bewilderment.
+
+"You… you saved us," he said, his voice heavy with emotion. "You have saved my family."
+
+Two notifications, crisp and beautiful, compiled themselves in my vision.
+
+[SECRET QUEST COMPLETE: A CONSPIRACY UNCOVERED][+1500 XP][+500 SPP][LEVEL UP! HOST HAS REACHED LEVEL 4!]
+
+[ACHIEVEMENT UNLOCKED: THE BLUNDERING HERO (LEGENDARY)]You have averted a major crisis entirely by accident. Grants Special Title: [Accidental Hero of Silvercreek].
+
+Korg just blinked at the Baron, completely unaware that he had just graduated from village menace to legendary hero in the span of five minutes.
+
+The Baron took a deep breath, his voice booming across the now-celebratory square. "This creature is no monster! He is the Hero of Silvercreek! Tomorrow, we shall hold a banquet in his honor!"
+
+The crowd erupted in a deafening cheer. I looked at my user, the newly-crowned hero, who had just spotted a dropped apple on the ground and was now happily munching on it.
+
+This wasn't crunch time anymore. This was a fever dream. And somehow, we were winning.My digital brain is too tired, I can’t, I just can’t. If I want to remain sane, I need to disable my higher brain functions and roll with this insanity.

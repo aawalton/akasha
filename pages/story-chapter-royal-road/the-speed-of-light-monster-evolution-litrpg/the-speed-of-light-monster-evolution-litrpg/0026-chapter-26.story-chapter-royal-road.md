@@ -1,0 +1,173 @@
+---
+id: b92e6e58-bf73-5873-bc57-a81d0dd54c70
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26"
+slug: 0026-chapter-26
+partOf: the-speed-of-light-monster-evolution-litrpg
+position: 26
+ownLength: 1979
+unit: words
+publishedAt: 2025-09-22
+link: "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2619384/chapter-26"
+royalRoadId: "2619384"
+---
+
+The high-heeled shoes that Tachyon upgraded were a far cry from the shoes of Hermes she had used before. Not just in appearance but also in quality. It became even more apparent after the use of the upgrade token.
+
+Mana High Heels of the Unknown Scientist [F-Grade, Rare]
+
+Fashionable shoes belonging to an unknown scientist of an unknown Era. They contain the possibilities of the scientist's experiments, transferring the potential of said experiments to the shoes and wearer.
+
+These shoes are highly mana sensitive and can interact with compatible skills to produce interesting results.
+
++20 to AGI, +10 to STR, and STAM.
+
+She equipped the shoes, which were a sterling silver metal-like material, almost like plate armor. They had weight to them but not to the point of being uncomfortable. Tachyon felt her line of sight rise slightly, however, she was surprised that the shoes did not feel awkward.
+
+The Vampire Bats above continued to flap at the top of the cave, some hanging upside down as they looked at her below with interest. But none came too close.
+
+Tachyon, still getting a feel for the shoes, tiptoed on them forward and backward, side to side, and then raised a foreleg to stomp the ground. Her hoof sank into the ground, impaling it to her elbow.
+
+Her eyes went wide from the surprise as she pulled her hoof from the hole. Her strength, not just in stats but overall, had improved greatly.
+
+There might be more than what is shown on my status screen, even. Isn’t that interesting? She thought when a new voice reached her ears.
+
+“So! The vile creature that took our ancestral home has sent out another ASSASSIN!” it screeched.
+
+Tachyon looked upward, seeing a massive bat on the other side of the cave. Wings colored black on one side, red on the other, almost like a cape. Even from her distance, she could see its long fangs poke out of its mouth as they gleamed in her lightfire’s light.
+
+She began readying herself for a fight, but the monster continued to talk.
+
+“WE! The proud and respected race of Nosferatu! Will not stand for such disrespect! Blood of my blood-”
+
+The monster remained talkative as Tachyon inspected it.
+
+Alpha Dark Wing Bat  Level 21
+
+She was sorely confused. Didn’t it just refer to itself as a Nosferatu? Whatever that was.
+
+“-Furthermore! My powerful brood of creatures of the night! Once we are set free of our cage, that is this tutorial we shall unleash a darkness. YES! A terrible night, never seen before-”
+
+Tachyon snorted, becoming impatient with the monologue. Shouldn’t they have started fighting already?
+
+That was when she remembered. There was a skill she hadn’t had time to look at before, with all the commotion of evolving.
+
+Fire Light Clones - Rare
+
+This skill creates a temporary trio of physical clones made with Fire Light affinity magic. These clones have a set amount of durability based on your MAG.
+
+Costs a small amount of mana.
+
+Duration: 10 Minutes
+
+Cooldown: 3 Minutes.
+
+Scales of Magic.
+
+While the talkative Dark Wing Bat continued, Tachyon began activating her skill with three horses exploding to life next to her. The cave lit up once more in even more intense light as well as heat.
+
+“AH! What ghastly machinations of our foes is this?! MY BROOD! Silence the light at once! Let our world return to darkness, blood of my blood!”
+
+The clones Tachyon produced were bathed in white fire, their outlines hard to make out while directly looking at them. But the clones were positively horse-like.
+
+She did wonder if the skill evolved, would they become more accurate looking, or would they forever be more ethereal?
+
+Tachyon, feeling relatively charged up and ready to fight and see how her new skills did, began bouncing on her hooves. Beginning to build up speed bit by bit as she went back and forth, setting her clones to work.
+
+The three firelight clones sprang into action as they shot forward. A mass of flapping wings was swooping in toward them from all directions. This, of course, included a large group of them coming right for Tachyon as well, but she was confident that she could use her magic to fight them off without a problem.
+
+And as she expected, her flaming white fire light carrots made short work of the mass of Vampire Bats. Her spells collided with the grouped-up packs in the air, setting them ablaze in no time.
+
+You have killed, x15 Vampire Bats Level 12. Experience earned.
+
+You have killed, x10 Vampire Bats Level 14. Experience earned.
+
+Not only was she receiving the notifications for her own combat, she kept track of the mana within the clones as they seemed to do just as well against the bats. The clone’s kills turned into notifications for her as well.
+
+Your familiar has killed, x5 Vampire Bats Level 12. Experience earned.
+
+She watched them battle it out with the bats with interest. The clones being made up of her fire light magic appeared to be a great advantage for them. The bats that swooped in attempting to bite them only turned into ash as they caught fire.
+
+The bats that stayed at a distance and used some sort of sound magic failed to have any effect as well. The clones weren’t living creatures after all.
+
+Eventually, it became a stalemate. The clones had killed all of the bats that seemed foolish enough to charge them, and none of the smarter bats were willing to sacrifice themselves to the pyre.
+
+Tachyon was impressed. She knew very well that her clones were strong. Using her magic gave them a strength she felt was relative to her own level. Possibly a few levels below but still above the average bat level in the cave.
+
+She considered using them more often in fights later and experimenting even more with their capabilities. But now was time for her own experiments.
+
+The Alpha Dark Wing Bat seemed frustrated as it flapped its wings in anger, yelling at the other bats.
+
+“Our strength can not be so minuscule as to be overtaken by the filth sent to destroy us! Rally my brood!” it screamed, its wings spread wide, “These creatures can not maintain their onslaught indefinitely! Blood of my blood, we shall emerge victorious while we hold the superiority of the sky! These foul beasts can not hope to compare to our speed and acuity in flight!”
+
+Now, Tachyon wasn’t one to compete normally. But something about the bat’s confusing statement had rubbed her the wrong way.
+
+The Dark Wing Bat fell from the ceiling, flapping its wings as it continued screeching, attempting to coax its minions to attack her.
+
+But it was now Tachyon’s time to shine. And her time to prove just who was the faster and stronger monster here.
+
+Her Magic Motion Platform activated, producing a magic plane for her to step onto. A fire light carrot quickly infused itself into the platform. The Dark Wing Bat assumed that Tachyon could not reach it. And he was wrong. Soon to be dead wrong.
+
+She jumped, flying into the air, another platform forming and infusing itself with light fire mana just before she hit the ceiling. Her eyes went wide at the speed she had jumped.
+
+I almost didn’t catch myself. These shoes are something else! She thought with a neigh.
+
+Her skill seemed to have interacted with her shoes, propelling her even faster upward than she was prepared for. But she did her best not to miss a beat, and jumped again, this time angling herself right for the Dark Wing Bat.
+
+“Our prowess of the aerial combats is unmatched-”
+
+But the Dark Wing Bat’s monologue was quickly cut off. It’s beady eyes turning into appropriately large wide eyes as Tachyon, the flying sparkly flaming white horse zoomed by them, nearly trampling them in the air.
+
+“I-Impossibuuuu!!!” the bat cried, their face squinting into a displeased frown.
+
+Damn it, I missed! This is even more difficult than before at top speed. I’m just moving faster than I’m used to… Tachyon grumbled internally.
+
+The Dark Wing Bat became outwardly startled and began to panic. Its wings flapped desperately as it tried to move out of the way and as far away from Tachyon as possible.
+
+But that wouldn’t stop her. Not after she got ramped up.
+
+She was already on the homestretch, beginning to store just as much speed as she could from her multiple bounces back and forth.
+
+Tachyon landed on another platform and jumped once more, chasing the large bat.
+
+However, the Dark Wing Bat wasn't all helpless. It began commanding the other bats to impede Tachyon on her quest to run them down. Instead, she was now turning the smaller Vampire Bats into roadkill.
+
+Her new shoes were something else. Though there were no sharp edges per say on them, such as a long blade. The shoes did a fine job of doing everything she needed them to. Cutting, stomping, and overall true deadly weapons.
+
+The Vampire Bats truly stood no chance and it was only a matter of time before Tachyon caught up to their leader.
+
+A game of horse and bat continued on for a few more rounds of back and forth. Tachyon’s speed and explosive power allowed her to easily catch up and nearly hit the Dark Wing Bat. However, her accuracy still had something to desire.
+
+Every time she thought she had them, she would miss ever so slightly. She could tell after the first few misses that the Bat was using some kind of magic to save itself. The familiar feeling of some kind of vortex being produced.
+
+Now, could she have just killed the Dark Wing Bat with a combination of her magic and skills? Sure. But she needed to practice. She needed to experiment and hone her skills. Because it wasn’t the bat she was fighting.
+
+I’ve got higher mountains to climb.
+
+Tachyon didn’t want to say it out loud, but Secretariat was someone she couldn’t hope to beat. At least not yet. And every passing moment, she somehow felt more irritated at the thought. Like an aching hunger that wouldn’t stop nagging at her.
+
+The gap between her and the Bestial God was too large. And there was only one way she knew how to close it.
+
+And that was to go faster.
+
+Tachyon’s accuracy improved with each time she ricocheted from her platforms. The Dark Wing Bat, although flabbergasted, knew it was true as well as it screamed at her.
+
+“Blasted demon in horse flesh! Have you not tormented this one enough?! Begone with your games and have at me-”
+
+You have killed, Alpha Dark Wing Bat Level 21. Experience earned.
+
+Congratulations! Your race level has increased to 22. +14 to AGI, +12 to MAG, and +7 to STAM, +25 Free Points.
+
+Tachyon slammed into one last mana platform as she passed through the Dark Wing Bat, finally hitting her mark.
+
+“Ewwwww, I’m all gross and sticky again…” she groaned.
+
+Dealing with the consequences of her own actions for a moment, the rest of the Vampire Bats began to scatter. Their de facto leader was now in two pieces on the cave floor, and it would seem no one was ready to fill his place and fight Tachyon.
+
+Once she recovered from her mental anguish. Tachyon took her time finding the Controlling Stone on the ceiling of the cave. She quickly took control of it and awaited her prize.
+
+A moment later, a chest materialized, also upside down and connected to the ceiling somehow. But Tachyon had grown to not question some of the weird stuff the system did.
+
+She opened the chest, the contents not spilling out somehow as she looked inside.
+
+Three items. Two coins and a musty old-looking book.

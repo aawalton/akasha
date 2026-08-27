@@ -1,0 +1,245 @@
+---
+id: 067cccf6-b622-5a57-8fc6-8873912e7b13
+page-type-slug: story-chapter-royal-road
+title: "Chapter 720 - A Bit Of A Surprise"
+slug: 0721-chapter-720-a-bit-of-a-surprise
+partOf: mythrans-master-of-all-continued-completed
+position: 721
+ownLength: 2846
+unit: words
+publishedAt: 2018-10-04
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/295625/chapter-720-a-bit-of-a-surprise"
+royalRoadId: "295625"
+---
+
+Ren woke up on the bed and slipped off the VR headset. “Whew! That was a lot to do in one day!”
+
+“One day?” Stella laughed as she took the headset from him and set it aside. “It's only noon!”
+
+“One game day, then.” Ren corrected. “How is everything here?”
+
+“Bustling.” Stella said as she pulled over the rollaway table with his lunch on it. “Whatever you did has made everyone freak out.”
+
+“You're kidding.”
+
+“Not even a little bit.” Stella took out her cell phone and brought up the message board and showed him the number of posts concerning him.
+
+“Wh-what... how...”
+
+“I know, right? It's only been three hours, and the mods have already started deleting superfluous messages.”
+
+Ren blinked his eyes for a moment. “They... they only do that when...”
+
+“...a page passes a thousand posts.” Stella said and grinned.
+
+“Holy crap.”
+
+“Barbi's been run ragged by requests for interviews, both live and online, and everyone wants the full story of how you did it.”
+
+Ren thought about that. “How many did Elise trace back to Sid Tec and their tech department?”
+
+Stella snorted a laugh and ran a hand through his hair. “You caught onto that almost as quickly as she did.”
+
+“Thanks for the compliment.” Ren said and caught her hand, then pulled it down to his lips and kissed her wrist. “Thank you for cleaning me up.”
+
+Stella's face flushed a little red. “It's my job.”
+
+That was an old argument that Ren decided not to pursue this time. “It must have been a lot, and I appreciate you taking care of me like that.” He said instead and let her hand go. “The list of women I need to keep happy in the game is getting longer.”
+
+“It didn't take you long to do it, if that's the case.” Stella said. “You took out that little statue thing and after a quick blue screen blip, you were on your way.”
+
+Ren chuckled. “It's a localized time compression device, actually.” He explained what it did and how he could set the amount of time compression when it was activated. It also had the built in buffer to help people adjust to the time difference.
+
+“Oh, my.” Stella said and sat down beside the bed. “Ren, you... do you realize...”
+
+Ren nodded. “Like I told Anabelle and Tee-one, some things are too powerful to use.”
+
+“You used that several times.” Stella said. “Even at the shop.”
+
+“I did, and I'll use it again... if they can stand it.” Ren laughed. “I kind of overdid it with the succubi and Suniva.”
+
+“Oh? And not the multi-armed snake lady?”
+
+Ren shook his head. “She wanted to leave after the first month because I was giving her too much attention.” He started to eat. “I tried to leave her alone, but I felt her fighting her own instincts. So, I spent as much time with her as she needed.”
+
+“Not wanted?”
+
+Ren chuckled. “She's pretty finicky. If all I did was listen to her words and only did what she said, she'd never be happy.”
+
+“I hear that.” Stella laughed. “I understand the succubi wanting a break, but Suniva?”
+
+“She won't even want to look at me for another month at least.” Ren said. “I could feel her guilt about the other pixies building up each time we were alone together.” He sighed. “She's desperate for them to gain wings as well.”
+
+“She's tired of being the only one?” Stella asked.
+
+“I think so.” Ren said. “When I go back in, I'll see what I can do about fixing it.”
+
+“You do realize that it's not your responsibility to do that.” Stella said, and he nodded.
+
+“I know, but because I know, I want to help.” Ren said, and that made her laugh.
+
+“You're too nice for your own good sometimes.” Stella said and then pointed at his lunch. “Keep eating. I've got a few things I need to do in the kitchen.”
+
+“Abandoning me already?” Ren asked, and she swatted his head lightly.
+
+“Never.” Stella said. “I'll send Denise in to watch you.”
+
+“Great!” Ren said. “I haven't seen her since yesterday!”
+
+Stella laughed. “I'll tell her how enthusiastic you are.”
+
+“I'm pretty sure she knows.” Ren grinned, and Stella left the bedroom. He ate in silence for a couple minutes and then Denise came into the room.
+
+“I hear you couldn't wait to see me.” Denise said.
+
+“It's been a long and arduous journey without seeing your face.” Ren said and finished eating, then took a long sip of his supplement drink.
+
+“Long and arduous?” Denise chuckled. “Do I make an appropriate phallic symbol joke here?”
+
+Ren laughed. “It's no joke! It misses you.”
+
+“Uh huh.” Denise said and sat down beside the bed. “How much does it miss me?”
+
+Ren put the drink down and held his hands apart a very specific distance. “Exactly this much.”
+
+Denise looked at the distance between his hands and then couldn't help herself and looked down at his crotch. Her face went red because she had understood what he meant without having to think about it.
+
+“I told you.” Ren said as he eased the rollaway table over just enough for her to get the full view.
+
+“But...”
+
+“I know.” Ren sighed. “We physically can't; but, that doesn't mean I don't really, really want you to.”
+
+Denise reached out and took his hand. “Does it hurt?”
+
+“Can I lie and say it does?” Ren asked, and she looked at his face. “It will get there eventually, no doubt.” He said and smiled. “I'm just really horny for your sexy body right now.”
+
+Denise caught her breath. “Ren...”
+
+“I know I shouldn't say these things in the condition I'm in; but, I'm dying to have you straddle me.” Ren said, and she took several shallow breaths. “I want to feel our perfect symmetry again.”
+
+Denise closed her eyes and shivered slightly as she remembered how well they had fit together when they had sex. “Ren, I... I want to feel that, too.” She said, then used her free hand to check his bandaged rib and then lifted the blanket enough to look at his knee. “You're right, though. You shouldn't say those things. Not for another week or so.”
+
+Ren sighed. “I'm tempted to beg, but I know you won't risk hurting me.”
+
+Denise nodded. “I can only offer a... a hand and... a mouth.” She said, her face flushed completely red. “Anything more is out of the question.”
+
+Ren used his free hand to touch her face. “It's sweet, sweet torture to have you so close and so far away at the same time.”
+
+“Ren...”
+
+“Make me feel good, Denise.” Ren almost pleaded and eased back onto the pillows and closed his eyes. “Give me a glimpse of what we have together.”
+
+He still closes his eyes so I don't feel embarrassed, even though I haven't asked him to do it since that first time. Denise let his hand go, then eased his pyjamas down to reveal him. It is getting close to hurting. She thought and started to please him, and they both moaned as she did. Good god, I'm a horrible person for wanting him so much, even hurt like he is.
+
+“D-Denise... I... I'm sorry for... making you... do this.” Ren panted. “I just... I'm horrible for... wanting you so much, that... I can't wait... to be better.”
+
+Denise was surprised to hear her thoughts come out of his mouth that she faltered in her technique.
+
+“D-don't stop.” Ren begged. “P-please... I need... I need you to...”
+
+You don't need to beg, darling. Denise thought and concentrated on her task.
+
+“Y-yes, that... oh, yeah...” Ren panted. “God, right... right there... yes, oh, god...”
+
+*
+
+Barbi finally found an appropriate reporter that would give the actual story and not some sensationalized and blown out of proportion tabloid scandal, and she casually walked up the stairs to make her break from work last as long as possible. She had thanked Stella for lunch and felt satisfied, just like she always did after eating there, and she walked down the hallway towards Ren's room. She saw the door was open and started to walk in, then saw what was going on. She stopped and stepped back out and stood just outside Ren's bedroom door.
+
+“Make me feel good, Denise.” Ren said. “Give me a glimpse of what we have together.”
+
+Barbi heard the plea in his voice. Poor thing. She thought, then she gasped at what he said next.
+
+“D-Denise... I... I'm sorry for... making you... do this.” Ren panted. “I just... I'm horrible for... wanting you so much, that... I can't wait... to be better.”
+
+There was a short pause before he spoke again.
+
+“D-don't stop.” Ren begged. “P-please... I need... I need you to... y-yes, that... oh, yeah.” He panted. “God, right... right there... yes, oh, god...”
+
+Barbi knew she was listening to a very intimate moment; but, she also knew it was also a little sad and more than a little desperate. The tone of his voice... begging her to help him... Her thoughts put her in Denise's position and she shivered as she finished. Oh, damn!
+
+Barbi walked slowly over to the empty bedroom that she had stayed in a couple of times, then went into the bathroom to check on herself. She had made a mess a little too big for her pad to compensate for, and she slipped her underwear off and cleaned herself up.
+
+I'm so glad I always carry a spare pair. Barbi thought and opened her purse to take out a small folded bundle of cloth. She applied a new pad from the supply drawer and slipped the panties on. Her whole body felt better after having a small release and putting on new underwear. She took a deep breath and left the bathroom and the empty bedroom, then walked over to Ren's bedroom. She saw the door was still open and peeked inside to see that the scene was over and it didn't look like anything had happened.
+
+Oh, she's good. Barbi thought and knocked on the door frame to announce her presence. “Hey, there!” She said enthusiastically as she stepped into the bedroom. Denise and Ren turned and looked at her with big smiles on their faces, and she held in her laugh.
+
+*
+
+“The net's all abuzz over your little stunt, Ren!” Barbi said as she approached the bed.
+
+Ren was really relieved that Denise had finished only moments before Barbi had come in, and he beamed a smile at her. “I guess that's a good thing?” He asked Barbi, and she laughed.
+
+“It's the best publicity in the whole world!” Barbi said, and oversold the information a little bit. “I was tempted to release the show's cancellation; but, Elise in her infinite wisdom, asked me to check with you first before making any kind of announcement like that.”
+
+Ren nodded. “I'm not sure us telling everyone that the show is off the air is a good idea.” He said. “It might make it sound like we were responsible.”
+
+Barbi stopped walking before she got to his bedside. “I hadn't thought of that.”
+
+“Well, you've got lots of sources, right?” Ren asked, and she nodded. “Why don't you... ah... leak the information out that way?”
+
+“Now that is a great idea!” Barbi said and walked all the way over to him, then bent over slightly to look at Denise. “What do you think? Is it a good idea?”
+
+Denise had her mouth firmly closed and only hummed. “Mm hmm.”
+
+“I'll get on that right away.” Barbi smiled at her and turned her head to look at Ren. “I know this might be a bit forward, but... I have something else for you to look at.”
+
+Ren widened his eyes slightly as she reached into her suit jacket and her blouse gaped open to show off some of her cleavage. He looked at the bounty in front of him and his body reacted appropriately. Barbi glanced down at him and saw the significant bulge, and her smile turned to a grin.
+
+So, even after getting pleased, he'll still react to... other stimulation. Barbi thought in amusement and pulled out the sheet of paper with the reporter's information on it from her inside pocket. It also had the proposed venue and mentioned the possibility of recording it and airing it. “If you could look this over and think about it for a while, I'd appreciate it.”
+
+“Sure, Barbi.” Ren said and took the piece of paper from her.
+
+“You've had dozens of requests for interviews from all over the place.” Barbi said and stood up straight. “Out of all of them, this one I can actually vouch for.”
+
+“Interview?” Ren looked at the paper and read it. “How could they possibly ask the right questions to get the story if it just happened?”
+
+Barbi chuckled. “That's why I like you. You're always thinking.” She said. “Most times, you talk beforehand and discuss the questions that are allowed and aren't allowed.”
+
+“But, won't that twist and change the interview?” Ren asked. “It wouldn't represent the full story, would it?”
+
+Barbi chuckled. “Ren, we never get the full story in an interview. Even the live debates they have on television occasionally, the questions are discussed beforehand so that the participants aren't blindsided when a particularly bad question comes up.”
+
+Ren thought about it for a moment. “I always wondered why almost no one seemed flustered when a 'surprise' question came up.” He smiled. “It wasn't a surprise at all.”
+
+“Bingo.” Barbi said. “If you want, I can have this set up by this afternoon, and we can air it right after the leak about the show hits the internet.”
+
+“You want that to be the main topic.” Ren said, and Barbi nodded. “What about the game?”
+
+“You'll definitely be talking about that, but it's the show angle we want to drive home.” Barbi said. “At the end, I'll add in a small clip of the next episode and share it on the show's website.”
+
+“No spoilers.” Ren warned her, and she chuckled.
+
+“This isn't my first show campaign.” Barbi said and put a hand on his arm. “I know the rules. Only a quick montage, and not in the proper order.”
+
+Ren nodded. “I assume you talked to Elise about this?” He asked and held up the piece of paper.
+
+“Yes, and she thinks it's a little too soon for you to stress yourself out giving an interview.”
+
+Ren nodded again and thought about it. “If we have it here, where I can be comfortable, say, either in the dining room or maybe in the den...”
+
+“Both good choices.” Barbi said.
+
+“...I'll be relaxed enough and can stop the interview without too much of a fuss if I do suffer a panic attack or something.”
+
+“I'll stop it in a heartbeat if that happens.” Barbi gave his arm a little squeeze and let him go. “I'll set up a short meet-and-greet for an hour after lunch, and you can decide then if you want to go through with it or not.”
+
+“Okay.” Ren said. “Set it up.”
+
+“Thank you.” Barbi moved her hand from his arm to his face and gave it a light caress. “You can relax for now and I'll come back with more details later.”
+
+“Don't forget to tell the guards.” Ren said. “Oh, and invite everyone here to attend, will you? It's a good a time as any for a family gathering before the interview.”
+
+Barbi nodded as she let his face go, then she pat Denise's shoulder and left the bedroom. Denise turned to see Barbi disappear out the door, grabbed the bedpan and spit out the contents of her very full mouth, then spit and sputtered for a few moments.
+
+“Boy, that was close.” Ren said and touched Denise's face. “Are you okay?”
+
+Denise nodded. “It was almost too much to handle before she came in, then I kept producing saliva because my mouth was full.” She chuckled and used a tissue to wipe her mouth off. “If she had slapped my back instead of patting my shoulder...”
+
+“...there would be little bits of me all over the place!” Ren exclaimed and they both laughed.
+
+*
+
+Barbi had stopped just outside the bedroom door and held in her own laughter at what could have happened. He's right. She thought and walked down the hallway and then down the stairs. That would have been a sight to see!
+
+Barbi had a smile on her face as she walked back to the office. She waved to Stella as she passed through the kitchen, gave Elise the 'thumbs up' gesture when she entered their office, then sat down at her desk to get back to work. She had an important interview to arrange, so she sent off the confirmation email and text message, then picked up the house phone to talk to the guards.

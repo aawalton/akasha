@@ -1,0 +1,303 @@
+---
+id: 84101956-e8bb-568f-9554-b17642f74724
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 477"
+slug: 0177-the-path-of-ascension-chapter-477
+partOf: the-path-of-ascension
+position: 177
+ownLength: 5993
+unit: words
+ownProgress: 5993
+publishedAt: 2026-03-06
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3124156/the-path-of-ascension-chapter-477"
+royalRoadId: "3124156"
+markedReadAt: "2026-06-29T19:33:51.035Z"
+---
+
+Chapter 477
+
+After a decade of campaigning Matt, Liz, Aster, Allie, Zack, the contingent of dukes, various CEO’s, guild leaders, and lower ranking nobles slowly but surely climbed up the palace's stairs in sync with sunrise. They were following customs older than the Empire itself, but that didn’t make them any less important. With not one, but two teams of Ascenders leading the procession they could have broken the tradition, but opening themselves up to unnecessary critiques so late would have been foolish.
+
+Letting his spiritual perception sweep the surroundings as he and the other Ascenders reached the top of the steps and halted, he found representatives of every news station with an Imperial pass at the edge of the palace grounds, but he didn’t indicate he noticed them at all. In a rare show of unity, both them and their opposition had wanted to keep the press out of the proceedings, which meant that was as far as they could approach.
+
+Instead of thinking about the media, he watched as everyone in their party stopped on their respective station’s step as the star completed its slow ascent. The moment it fully crested the local horizon, they continued forward, even as the palace doors opened upon their approach.
+
+Having been to the palace on numerous official and unofficial trips, Matt was more than familiar with its layout, not that he needed it. One of the staff members was already there to escort them to the throne room and prevent ‘stragglers’ from ‘getting lost’ and going somewhere they weren't supposed to.
+
+Trying to probe ahead only gave him a slight feedback thanks to the numerous wards layered on the palace, but he’d expected that and didn’t try to push deeper. Deeper than the wards, the palace’s very spatial layers were twisted and folded in on themselves as both a means of expanding their limited area, as well as a way to make intrusion harder. Anyone who tried to forcefully go somewhere they weren't wanted would find a headache to be the least of their concerns.
+
+What Matt hadn’t expected was to be led to the main hall. The Emperor hadn’t returned yet and as such they shouldn’t have been using it, but when he saw who was waiting for them he understood.
+
+Carissa sat on her own slightly smaller throne, the perfect image of poise and elegance, silently waiting for them to arrive.
+
+When they did, they collectively bowed until she commanded, “Rise!”
+
+Her voice hadn’t been raised, but the careful construction of the room meant the sound was perfectly carried to every corner even without a magical effect.
+
+Standing, Matt straightened his robes as Carissa met his eyes before continuing to go through the expected formalities.
+
+When it was finally his turn to speak, Matt didn’t mince words. “We come before her Imperial majesty to address a grievance, but we do not come before the throne empty handed. We come with both answers and an agreement. Behind me are forty percent of the aura related businesses, and they have already agreed to our proposal. What we present to the throne today is what we believe is the Empire's best solution to permanently solve the aura crisis. We ask for an Imperial decree codifying this into law. If we can not secure the decree, we initiate an official Imperial Petition."
+
+Seeing Carissa twitch at his final comment, Matt let himself smile even as she shook her head.
+
+“As per his Majesty's decree before he left, none of the Royals may interfere unless this matter impacts the long term viability of the Empire. Anything else must be handled by the lower Tiers. Do you wish to change your mind and retract your Petition? If you can’t come to an agreement about the Petition internally, I cannot force one."
+
+Instead of taking her words at face value, Matt declined immediately, knowing anything else would waste all of their efforts, “No. We wish to proceed with the Petition as is. We’d love to handle things without Imperial interference but as it stands, we cannot get in contact with the rest of the aura representatives through our own power. That is why we seek support from the throne."
+
+Carissa twitched at the wording of his request but didn’t comment on it. “Who here disagrees with Ascender Titan’s call for support and does not wish to back it?” When no one answered, she tapped the air twice before sitting down. “The summons have been sent.”
+
+Officially, anyone contacted by the summons had an hour to arrive, but the longest took just over a minute. They’d made their opposition and the entire Empire aware of the chosen date over a year ago, and anyone who still chose to linger deliberately wasn’t challenging them but the Imperial Palace itself.
+
+Arriving last but still within an acceptable time, Mackenzie Harrington walked in step with Killian and the New Horizon’s representative, Andrea Yka. For all her strengths and faults as a businesswoman and aperologist, Mackenzie was the highest Tier and therefore the natural leader of the three, despite being the smallest business.
+
+They’d expected and planned around that but they’d hoped to be wrong.
+
+Mackenzie, a noble in her own right, was the best and worst opponent they could encounter. Their main advantage was that they’d prepared for her to lead, but they also had wanted either Kilian or New Horizon to pitch a fit at being placed under the smallest business of the three and weaken the core trio.
+
+They weren’t so lucky and the three were a unified front as they went through the various formalities and counter arguments.
+
+When they were through, Carissa waved to them.
+
+Matt originally thought it was a simple permission to continue but a cone of opaque light surrounded her and Manny’s throne, which was when he realized she didn’t want to listen to them argue back and forth for possibly hours.
+
+He didn’t blame her.
+
+The moment they had the room to themselves, or as much as was possible with the palace's various higher Tiers roaming around, he wished he could copy her.
+
+The respectful silence ended as everyone started to talk over each other.
+
+Various smaller companies leaders from either side of the fence started trying to convince their rivals or friends who’d chosen the other side, or commenting about those who had switched sides last minute.
+
+Allie shot him a glare as she had half a dozen people using the opportunity where she couldn’t leave to talk about topics unrelated to aura potions. To her credit she didn’t leave, putting on her best smile and making small talk politely. However what no one except Matt could see was her constant stream of ‘+1’ messages increasing how many unique pastries he owed her.
+
+Aster, on the other hand, rolled up her sleeves and brawled with anyone who tried to argue about the morality of their proposed change. She hadn’t been there for the majority of their planning or work, but no one would be able to tell with how expertly she worked people out of their defensive stances and eventually into changing sides.
+
+He appreciated her trying so hard for his sake, even when he knew she’d rather be in her lab with Zack working on her ‘Space Ice’. They had reached a point where they’d figured out the base mana types they thought might make a stable mana type, but from there it came down to repetition. They might succeed in their next test or in the thousandth.
+
+As Aster so wisely put it, “Matt’s paying for it, so better to just go ahead and test all thousand possibilities.”
+
+Not that he minded paying for the testing, but seeing her work so hard mollified the petty part of him that had been paying her with the smallest mana stones he could make.
+
+Looking at the other Ascender being swamped, Matt saw Zack surrounded by the Talented aperologists who wanted to entice him into working with them. When he made it clear he had no interest in working with Matt on rifts, let alone with them, they started asking him various mana related questions, trying to get an advantage over their competitors.
+
+Zack might not be sending Matt messages but he made a note to do something nice for the mage.
+
+Not that Matt got an opportunity to chat with anyone, as he and Liz beelined for the three people they hadn’t been able to reach since their campaign started.
+
+Proffering a hand, he smiled as if they weren't the three biggest obstacles to finishing. “Mackenzie, Killian, Andrea, good day to you all. Have you had time to look over our proposal? Any initial thoughts you care to share?”
+
+Andrea smiled as she took his hand, not showing even a trace of distaste towards what he was doing, which he thought was a positive sign until she replied. “I have, and I do have to say, it's one of the more egregious examples of Ascender overreach I’ve seen in my lifetime. We are here to stop you from ruini…”
+
+The Tier 40’s words continued until she finally paused waiting for a rebuttal from Matt. Instead of responding he took the opportunity and physically turned himself from her and onto the next.
+
+Killian, on the other hand, carried himself with an easy confidence that recordings showed hadn’t been there before his fortune turned around. True or false, he was at least outwardly polite to Matt.
+
+“Ascender Titan, a pleasure to see you in the flesh.” Leaning in and grinning, but having to look up slightly due to their height difference, he continued with a false whisper, “I don’t mind too many of your measures, but don’t tell the others I told you that.”
+
+Laughing as if he’d told the funniest joke, Killian slapped his own thigh as he put on his show.
+
+Matt spent a moment considering how much of the performance was an act, but ultimately decided he didn’t care all that much. If Killian was willing to work with him then they theoretically didn’t need the other two.
+
+Unable to be rude to the smiling face, Matt gave a smaller and more realistic smile, “That's wonderful to hear. I knew someone who climbed their way up from the bottom would understand why our stance is what it is.”
+
+While technically true in the details, Killian had never suffered a day in his life. He was the first and only child of two Tier 14’s who had simply wanted to have a child when it was easier before immortality. While referencing that in front of everyone might have risked alienating the other man Killian only laughed and agreed preferring to keep his persona intact rather than make a scene.
+
+Instead Matt looked at the largest opposition where she stood. It was almost funny how even in the crowds a small gap remained clear around her where no one was willing to get close by accident thanks to her Tier.
+
+Seeing his and Liz’s gaze on her, Mackenzie bowed marginally as required of her as a peer, “Ascender Titan, Ascender Legion. How… nice to see you two.”
+
+Having reached out personally, Liz shot right back, “If only we had been able to get in contact sooner. Pity, but I think this works too, don't you?”
+
+Matt was mildly surprised when instead of shooting back, Mackenzie lowered her head slightly but Killian stepped forward, pulling his attention back to the side.
+
+“Ascender Titan, as I said earlier I’m not against a number of your proposals but some simply go too far. Is there any way we can talk about some of the numbers? If we can tweak a few things, myself and the companies that look to me for guidance would feel much more comfortable.”
+
+Knowing he was probably wasting his time, Matt gestured, allowing Killian to launch his spiel.
+
+Matt was mid conversation with Killian, slowly getting the man to come around to the advantages of their new system when Mackenzie stepped beside him.
+
+“May I have a private word when you have a moment, Ascender Titan?”
+
+Seeing that Liz was talking with Andrea and feeling like they might finally be making progress, he could only agree. Anything else would be foolish, given that she'd taken the opportunity to publicly ask him to talk and declining would be an insult after how many times he’d attempted to contact her.
+
+As he turned back to Killian, the man waved their prior conversation off with a jovial smile, “Don’t mind me, we can resume our talks when you return.”
+
+Matt and Mackenzie moved to one of the private alcoves that lined the throne room while the alchemist walked away to join Liz and Andrea. They’d barely sat down when Mackenzie activated the privacy barrier and proceeded to check it over herself. Only when she was confident they were alone and only Carissa or one of the other Royals could penetrate their barrier did she speak.
+
+“I want to make a deal.”
+
+Hearing her words, Matt resisted the urge to sigh and roll his eyes. He’d made it very clear in the last decade of campaigning that they wouldn’t carve out company specific caveats. It had been one of the major sticking points in the last few years as they slowly chipped away at their opposition. Matt and Sciath had convinced the other nobles that caving on that point would be worse than letting things remain as is, as such they’d remained a unified front and he had no interest in changing that now.
+
+However her next words halted his train of thought. “I want amnesty.”
+
+Seeing she wasn’t going to continue, Matt hooked a thumb over his shoulder. “Then I think you need to talk to a Royal. Or possibly your own conscience if it still exists.”
+
+Mackenzie looked like she wanted to spit fire at his snark but after a moment she sighed as the heat left her. “If you agree to my amnesty, I’m willing to agree to your current proposal and break the current deadlock. I can probably get Killian to agree as well and make it a political coup, but I want your word.”
+
+Mind racing a million miles a minute, he asked what he considered the most important question, “What for? I’m not going to agree to a blank check for anything, let alone amnesty.”
+
+“Nothing major. Nothing that would see more than a fine or two if they came in front of a judge.”
+
+Hearing her specific wording, Matt tried to skip the games and flat out asked her, “What exactly are you talking about? Cut to the chase and use a noun or two, or no deal. But if you really did so little, I don’t see why I wouldn’t agree?” After a moment he added, “Please. I hate politics and talking in half measures.”
+
+Mackenzie drummed her fingers on their table still undecided, “And I have amnesty?”
+
+Knowing he couldn’t throttle her, he compromised as far as he was willing. “I’ll tentatively agree but if you were killing low Tiers or something I will consider our deal forfeit.”
+
+Instead of looking worried, the Tier 45 rolled her eyes, “I’m no barbarian, simply a woman trying to carve out her own place in the world.”
+
+His own eyes narrowing into slits, Matt had a feeling he knew what she was about to say but didn’t interrupt her, no matter how good a [Mana Beam] to the face would have felt.
+
+“When you originally published the aura rift recipes I was… angry. Talented aperologist struggle, or struggled before that. Our Talents were rarely considered better than non-combat Talents, unless you had an exceptionally strong Talent like being able to directly manipulate the drop tables or monsters that spawn, but that's never been what my faction has been about. We’ve always been interested in the rifts themselves and learning about them. We want to do the thing our Talents let us do. You must realize the draw there?”
+
+Shaking her head, Mackenzie refocused, “Before you brought so much attention to the field it was damn hard for any of us to find well paying work. It's a catch twenty two, as no one cared about special rifts beyond the highest Tiers and we were too poor to make rifts for no reason on our own, if we legally could at all. Not to be arrogant but there were few clients who were willing to pay for failed rifts at all before I came around, and I changed that standard by demanding it in all of my own and my peoples’ contracts once I became influential enough to make the change.”
+
+Matt knew that while what she said was historically true, she’d been more than willing to turn around and ostracize Talented aperologist who weren't willing to join her faction once she rose to a position of power.
+
+Seeing something on Matt’s face, she shook her head, “I’m not painting myself as a savior or anything so grandiose. I don’t think I’m a bad person, but I do admit I’m more greedy than most and want to protect what I see as mine. I’m no monster and I will defend myself against accusations of such. However, when you released the aura rift recipes, I believed you had killed my entire faction in a single move. As such, in my anger, I agreed to join a group dedicated to stopping you from ruining everything I cared about. So I want amnesty. In return, I’ll share everything I know but I won’t lie; one and all, we were careful to protect our real identities so I don’t know that much. Adding to that, when it became clear that instead of destroying the aperology field, you’d revitalized it, me and mine mostly fell out of the group as we simply had no time or desire to participate. The only thing I did was share information at the start and I can swear on that.”
+
+Matt took a long and deep breath before asking, “And in return for your changing sides, I… forgive you?”
+
+Mackenzie looked shocked, then laughed, “I won’t say no to your forgiveness but I want your word you won’t try to kill me when you reach my Tiers. I have my Aspect and can ascend at any moment, so if you don’t agree I can always leave before you reach Tier 40, but I’d much prefer to stay in this realm and learn more about my Talent. That has always been my primary goal and I see no reason to leave simply because of a past dispute.”
+
+Matt wanted to say no, to make her pay for joining the Cabal, but he forced himself to think logically rather than emotionally.
+
+After almost a full minute of contemplation he spoke, his voice icey, “I can tentatively agree, but let me make this very clear. So long as I learn you did one single thing more than what you said here and now, I’m not going to wait around to kill you myself. I’ll get Lila, Luna, Carissa, any of the Royals or even the Emperor himself to kill you immediately. No second chances to explain yourself, no keeping an eye on me and planning to escape before I’m strong enough to do it myself. If you did more, I suggest you ascend now. I have no sympathy for people whose first reaction to having their interests encroached on is to try and tear everything down.”
+
+Shaking her head, the Tier 45 reached down and patted her seat without breaking eye contact. “I’m quite comfortable where I am.”
+
+Matt couldn't know if Mackenzie was lying or telling the truth, but if she was being honest he thought he was okay with letting bygones be bygones.
+
+Mostly.
+
+“Then I’ll tentatively accept but my price won’t be cheap.” Seeing hope light up in her eyes he grinned to himself, “You want to stay around in this realm? This is my price, ten thousand rifts. Out of your own pocket.”
+
+Mackenzie closed her eyes and her jaw worked before she slowly nodded as if it physically pained her. “If you send a list of the rifts you want created, I can agree to that.”
+
+Waiting for her to open her eyes and look at him, Matt finally finished explaining, “Don’t think it will be quite that easy. I don’t want rifts. I want you to make ten thousand rifts for other people. My deal? Once a year, go to a new, preferably low Tier, world and solve a problem. I don’t care what it is, if you need to make one Tier 1 rift or a billion Tier 50 to fix the issue, it's the same thing to me. But let me be very very clear, I want you to solve real problems. Nor do I want you to knock out all ten thousand at once. One or two a year; but I also realize our work schedules don’t make for clean easy requirements. So long as you keep to the spirit of the deal, I’ll consider it fine if you owe and pay back a few years at once. If you agree to that deal, I won’t hold a grudge or try to murder you myself, or get you murdered by the people I know.”
+
+Mackenzie didn’t quite seem to believe his payback method but he felt it was fitting for someone as selfish as her. Making her have to create not only the rifts for free but forcing her to use her hard earned skills without compensation of any kind would hurt her almost as much as killing her would feel good.
+
+That made it feel like a fair exchange for her life and she could tell he was serious and didn’t try to argue.
+
+“Deal.”
+
+Shaking over the table, they both stood up, not wanting to remain so close to each other for any longer than necessary. Exiting with an agreement in hand, they instantly shattered the deadlock as the highest Tier player swapped sides.
+
+At the same time the white protective veil around the thrones dropped.
+
+However, instead of Carissa sitting in her throne, they were greeted by Emmanuel looming over them as he stood in front of their thrones.
+
+The Tier 50’s presence was made unmistakable by his cultivation, as even the Capital’s reality started to show minor signs of instability as he crossed his arms.
+
+Everyone bowed and held it as the Emperor surveyed them, his eyes starting to emit a soft golden light. It took almost a full minute, an eternity for the higher Tiers who no doubt hadn't lowered their perception unwilling to risk missing something, but Manny’s eyes dimmed, though his expression remained neutral and hinted at nothing.
+
+Use of his Talent implied Manny had just returned but was far from a guarantee as Matt had heard him talk about faking it for theatrical effect more than once. Rather, most of his confidence in the Emperor's return status came from the ever so bloodshot and sunken eyes that spoke to even an immortal desperately needing a break. He recognized the look because he’d seen the same thing after their own return from the breach.
+
+Matt flinched along with everyone else, even the carpet which twitched under them, as Emmanuel clapped once startling them all.
+
+“I formally accept your Petition. You may now rise.”
+
+Having said his peace, the Emperor smiled down at them all and it looked like an honest smile, but all Matt could see was how tired the Tier 50 looked.
+
+Matt also wanted to show off a little and see if Manny had gotten anything potentially useful for his new growth item. With the other explorers estimated to return in less than a decade themselves, he’d collected any and every Natural Treasure he thought might be even remotely useful. He’d planned to do the same later when the higher Tier explorers like Lila returned, but as it turned out the Tier 50s had returned before the Tier 45s.
+
+Not that Matt minded at all.
+
+He had a gem in his chest and he… wanted it back in his chest, preferably as a completed growth item as soon as possible.
+
+Realizing the Emperor might have teleported back via Allie’s Talent, Matt felt his stomach drop when he imagined JR still flying his way through chaotic space.
+
+Could he get Manny to go get the bird? Was that even possible? Not via Allie’s Talent but surely the Emperor had some super niche but very practical Talent he could use to get the crafting raven back to settled space as quickly as possible.
+
+Emmanuel must have noticed something as he shot Matt a brief but inquisitive look as his gaze went to Mackenzie and lingered on her.
+
+“Bring the provided list of people to the palace in two weeks. Someone will inform you of the exact time.” His words caused Mackenzie’s hands to tremble as she worked really hard not to look at Matt, Liz, or Aster.
+
+Not that he minded her fear, given what he’d just learned, but that didn’t seem to be Manny’s reason for singling her out.
+
+“Your majesty? I—”
+
+She tried to protest but Emmanuel shook his head, “I have no interest in interfering with the affairs of my nobles so long as lines aren’t crossed. I have a few higher Tier aperology tests I wish to conduct and while I can copy your Talent, I can’t copy your years of experience, both new and old. I can look elsewhere if you aren’t interested?”
+
+Hearing that it was a business offer and not an execution seemed to take a weight off Mackenzie’s shoulders, but she didn’t lift her gaze from the Emperor's feet as she acquiesced. “His majesty's will is my command.”
+
+Emmanuel watched for a few more moments with a flat expression, causing the atmosphere to turn cold, before he smiled at the other nobles, dissipating the gloom that had started to settle in.
+
+“I’m glad you all came to an agreement, even when I wasn’t here to meddle. Additionally, I appreciate that taking a step back isn’t always easy and that it takes both trust and a strong stomach to risk such things. Everyone here can be proud to know they represent the rebirth of a new industry, the likes of which the Realm has rarely seen before and might not see again for some time. Separately and together, you will help keep the Empire ahead of its peers and rising faster with each and every day along with every new invention. To that end, and to ensure this new transition goes smoothly, the crown will be offering a tax credit to allow you to defer half of your imperial taxes so long as that money is being reinvested in the company. I won’t be overly restrictive and more detailed plans will follow in the coming weeks.”
+
+After letting his praise and rewards sink in for a moment, Emmanuel dismissed them. “Now that this is settled to your own satisfaction, you all may go but not too far as I will be calling upon you one by one in the coming days as I settle back in. I’m quite happy and as such news of the new law will spread at the top of the hour from the palace, but you may share it yourself sooner if you choose too. Implementation will begin in…” Manny looked to the side but his eyes never changed color as he finished a moment later, “two months time.”
+
+That wasn’t the timeline they’d originally developed but there wasn’t a hint of complaint as everyone else funneled out of the throne room.
+
+Sighing, Emmanuel looked at Matt, “You wanted to talk to me?”
+
+“You didn’t see it already?”
+
+Instead of understanding, Emmanuel only looked more confused as he squinted at Matt. “Didn’t see what? I saw you wanted to talk to me about something, but I didn’t look too deeply a moment ago. I only went back a few weeks of the Capital’s history to make sure I hadn’t missed anything vital about this deal. I was more focused on what I walked in on if I’m being honest. I hadn’t expected this to be a problem so soon at all, but given the invention of aura enchanting it isn’t too surprising the timeline was moved up.”
+
+Imagining going through an ecumenopolis worth of history in seconds staggered Matt, but also sent a burst of excitement running through him at the idea of being able to surprise the Emperor. He knew Manny could be lying, but having known the Tier 50 for so long, he doubted it.
+
+“That said, let me reiterate how happy I am with how you guys chose to handle this situation. Same with the nobles, though I’ll let them know that in the next few days personally as I call them in to talk one on one. Honestly, after everything that’s happened, I was far more nervous about coming home and finding a mess or some large issue I need to fix immediately. So imagine my surprise when the largest problem is already being fixed by my nobles. I… What? Why are you guys looking at me like that?”
+
+Turning to Carissa, the Emperor found zero support or answers, so Matt decided to push things along. “Maybe we can go to your office? Your most heavily warded office?”
+
+Instead of responding immediately or even looking into the future, Emmanuel just silently looked at Matt as if trying to figure out if the news he wanted to share was a good or bad thing solely based on his expression. When he saw it was a good thing, he then struggled to make the decision whether he should accept or tell Matt to come back later.
+
+After several seconds of silent staring, Emmanuel sighed and walked down his dais with heavy steps that echoed through the throne room with his displeasure.
+
+When they arrived in front of his office and found miniature clones of all of the Royals already waiting, the Emperor sighed once again, this time glaring at Matt as if he’d personally caused all of his frustrations.
+
+Which was incredibly unfair. Matt hadn’t even told him the projected price for his theoretical best growth item yet and he was already mad. Having had five hundred years of time to think, plan, and iterate, he’d reached for the stars.
+
+Sitting behind his desk while everyone else found a spot to stand, Manny didn’t hesitate, “What?”
+
+Opening his shirt, Matt pulled the still sparkling gem out of his chest, but before he could say anything, Manny spoke with a strained voice.
+
+“Is that what I think it is?”
+
+His breathing sounded labored but Matt shrugged while grinning right back at the Tier 50.
+
+“Are you thinking this is a strange realm reward that can turn any item into a growth item, captured and preserved for the last few hundred years? If so, good guess because yes that’s exactly what this is. What gave it away?”
+
+Instead of being pleased, Emmanuel looked like he wanted to throw up even as the Royals, Ascenders, and Carissa enjoyed his discomfort. Sighing for the dozenth time since he’d arrived, Manny started massaging his temples.
+
+After a dozen deep and hopefully calming breaths, he asked, “Would I be incorrect in assuming that you already have a plan on how best to use this item?”
+
+“I do!”
+
+His exuberance caused a flinch as he sent Manny his top fifty designs.
+
+Seeing the man's eyes go wide, Matt tried to start speaking but was slower than the Tier 50.
+
+“Please tell me this is a joke? A set of paladin power armor? Oh look, it's a set of sub-dermal power armor, why didn’t I think of that from the outset. And it has the very common effect of stabilizing and expanding your spirit so you can cast spells of any mana amount. And, and, is it also a top notch defensive layer? Is this all? Nope! A third requirement that would allow the armor to link with other normal armor and your sword. Oh you just want it to act as a power conduit from your spirit to the outside world? How novel and easy to make… Cheap too, I’m sure.”
+
+Peeking through a gap in his fingers, Emmanuel sighed as Matt nodded readily. To help mollify the man who’d need to pay for it all, he made a liquid mana gem and tossed it to him, forcing the Emperor to sit up.
+
+“Capturing the reward allowed me to invent a new type of mana storage too. The working name is liquid mana gem, but I don’t love it.”
+
+Looking at his royals, who were thoroughly enjoying themselves, then to the other Ascenders who each showed off their new growth items, Manny said the words Matt had been waiting five hundred years to hear.
+
+Sitting up slightly Manny spoke in his normal voice, “Okay, honestly this is clever but we are going to need to go to JR to finalize anything because as impressive as this design is, you are severely underestimating the abilities of a Tier 50 who is solely focused on crafting.” Before anyone else could say anything, he met Matt’s eyes with a hard gaze. “You realize this type of item would require JR to be read in on your Talent? There is no way anyone can make such an item without working directly with your spirit. Are you okay with that?”
+
+Having thought long and hard about exactly such a choice, as well as sought advice from everyone in this room, Matt nodded without hesitation, “From my understanding, you already intend to try and ally with the Corporation’s for the true war. If that’s the case, then we are just speeding things up a bit. I can’t be afraid to use my advantages. Maybe Madam Renaissance can make something ninety percent as good but —”
+
+Emmanuel cut Matt off with a wave. “Renaissance can’t do a quarter of this to an acceptable standard, it’s JR or use one of your alternative ideas. Are you sure you are okay with this?”
+
+Not letting himself hesitate and start second guessing decisions he’d long rationalized, Matt simply said, “Yes. I’m sure.”
+
+Emmanuel put his face in his hands for a second time but it was clear he was thinking rather than stressing.
+
+“Putting my own cards on the table, I intend to use this—” he gestured at the gem still floating over his desk without looking up, “to get JR to agree to a meeting and make your armor but I have no confidence in anything after that. I can probably pay him to keep his beak shut if he declines an alliance, but I have little tangible leverage over him. There is a risk we go to him, he refuses, and then turns around and spreads the word about your Talent. It would take a heartbeat. Once we do this, there is no going back. Are you sure, Matthew?”
+
+Instead of speaking, Matt just met and held the Emperor's human colored eyes.
+
+It wasn’t a question of the future, Matt knew as well as anyone else that Manny couldn’t see the future of the other Tier 50’s, but a question of trust.
+
+While this circumstance hadn’t been what Matt intended, it was what they had. Unless he was willing to stall below the strange realm’s Tier, he needed to use his reward sooner than later.
+
+It was a risk but one Matt had come to terms with it.
+
+“Yes.”
+
+Standing, Emmanuel brushed his hands. “Then fill up your mana pool and let's go. Soonest started, soonest finished, and I want this over with as fast as possible. I’m going to vomit.”

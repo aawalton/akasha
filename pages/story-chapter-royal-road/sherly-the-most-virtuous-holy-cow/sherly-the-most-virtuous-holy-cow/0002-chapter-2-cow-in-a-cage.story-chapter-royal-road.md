@@ -1,0 +1,263 @@
+---
+id: 6405a0a8-c771-5180-8b99-4474935e2e38
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2 - Cow in a Cage"
+slug: 0002-chapter-2-cow-in-a-cage
+partOf: sherly-the-most-virtuous-holy-cow
+position: 2
+ownLength: 2794
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2525635/chapter-2-cow-in-a-cage"
+royalRoadId: "2525635"
+---
+
+Chapter 2 - Cow in a Cage
+
+The racketing noise of a wheel moving on uneven ground, the bumpy motions of sudden drops and surprising humps, the chatter and shouting. These things joined forces to push Sherly into consciousness.
+
+Blurry consciousness.
+
+Painful, distressing consciousness.
+
+The moment she stirred, she was met by a metal roof, catching her horns and sending the opposite sensation back down onto her head. A sharp pain pierced her neck, followed by a random drop that bumped up into her chin, causing a racketing on her teeth.
+
+Ow!
+
+Sherly’s moo vibrated as her narrow cage bumped into another pebble or some such. Combined, they were enough of a distraction on their own to take up everything. At least, until the surprising shots of pain from her head and chin subsided, and the true piercing agony from her foreleg screamed at her in a full-fledged awakening.
+
+Sherly mooed some more, trying to get someone, anyone’s attention.
+
+Her cage was too small. She could barely move. It was almost crushing her. And her dizziness made it almost impossible to see anything or anyone, aside from some blurry outlines. One in particular was a silhouette that at one point came close, almost close enough for her to focus on, but quickly went away, shouting in a particular direction.
+
+She followed it with her ears, ignoring the noise from the squeaking old gears, the turning wheels, and some other animal sounds that she couldn’t quite define.
+
+Her pain wasn’t subsiding. Her vision wasn’t clearing. She could only assume that had been afflicted with some infection, and a far worse thought than anything entered her mind.
+
+Not sure how sturdy a cow is against infections… Not sure if they have medicine for cows.
+
+Only then, did her questions catch up to her. Her dizziness had made her skip a few more important details. Like…
+
+Where am I? Who are these people? Are they… Are they even people?
+
+Another thought came to mind.
+
+Letters, are you there?
+
+No response.
+
+Guess I’m alone. The ‘moo’ that came out of Sherly this time was defeated. She had never seen a cow cry, but she definitely did.
+
+A small hand reached out and touched her side. It was slightly moving back and forth, as if attempting to provide her comfort. And it actually did. She could feel the throbbing pain on her leg receding, but not closing for some reason. Better yet, the dizziness in her head was calming down too.
+
+“I’ve tended to your wounds temporarily, Taurus-spawn. A demon-cow like you doesn’t deserve to live, but I’m allowing you a few words before I part you from this mortal realm, as payment for services you’ve rendered for us.”
+
+The voice was calm, yet commanding. A woman’s, Sherly thought. One which she would naturally relate to a person of high charisma, or experience in some leadership capacity. She was immediately compelled to be polite, but there was one thing she wanted to make crystal clear.
+
+“I’m not a demon-cow!” Sherly said desperately, but her words only turned to moos.
+
+“How am I supposed to believe that?” the woman replied, much to her surprise. “Cow-demons like you are the antithesis of Taurus. You strive to deceive, to manipulate. You’ve chosen your words poorly, demon. And now you shall perish!”
+
+“Wait! If you can understand me, then you should know that I’m a good person! I never wanted to be a demon-cow! I just wanted to eat a burger after running for so long!”
+
+Sherly desperately mooed. Her vision was finally clearing up, and yet the only thing she saw was the tip of a spear. She closed her eyes, awaiting death, but it stayed in that moment.
+
+“Burger?” the woman asked.
+
+Sherly, in her shivering cow form, realized then that the word she had used was probably a foreign term. But it had given her enough time to open her eyes. And the shock got to her so much that she bumped into the side of her narrow cage.
+
+The woman, an elf, she assumed, sat on a giant crab. The crab was looking directly at her as it walked sideways, with a massive claw dragging behind it and a smaller one leading in front. There was a certain intent to that crab, as if it wanted to eat her.
+
+Right… The elf.
+
+Sherly was sure that it was either an elf, or she was being extremely inappropriate. The ears of the woman were long and pointed, like the elves in her fantasy books. She had glowing blue eyes, like in some of those fantasy books. And she had long, blonde hair that was certainly in most of those books and depictions. Seashells and crab shells adorned the elf’s hair, like a beautiful ocean-themed tiara. Even her armor was themed after the sea, mainly depicting the crustacean animal.
+
+“A crab-elf?” Sherly thought, before noticing the woman’s beautiful legs. “Oh, heavens. She’s a normal elf.”
+
+“I can hear you, you know? What in Cancer’s name is a crab-elf?” It wasn’t exactly a question Sherly had to answer, as emphasized by the raised spear. Like the rest of her theme, the weapon was also adorned with shell-life.
+
+“Sorry! I didn’t mean to! I just couldn’t see much and I got confused!”
+
+“Explain this burger you speak of,” the elf commanded.
+
+“It’s food from where I came from. Not here, not this world. I know it’s crazy, but I’m not from here! I wasn’t a cow, and I was most certainly not a demon-cow!”
+
+“What were you then?”
+
+”I was just a normal human. My name’s Sherly. Nineteen. College athlete for track-and-field. I do marathons as a serious hobby and some board games from time to time. Not the highest of grades, but I make do. Plus, I’m really good at my sport—!”
+
+Sherly was cut off by the spear pointed dangerously close to her eye.
+
+“Your words do not make sense, Sherly!” the elf exclaimed as she, once again, retrieved her spear. “Your otherworldly terms do not translate well. Define them in more general phrases, or alternatively explain them. Otherwise, you’ll only cause more confusion.”
+
+“Umm, well… For starters, I’m a student. Was a student. Did that translate well?”
+
+“Yes. Continue.”
+
+“The level of studies I was doing was the required level before we went out to apply for jobs. Get work for a living, basically. But rather than paying money for my tuition—the payment to study, basically—I would compete with other people in racing competitions. I got to study without spending, and the school earned prestige and fame for letting me study there.”
+
+“School is what you call your academy?”
+
+“Yes, correct.”
+
+“What were you studying?”
+
+“Err… I’m not sure it would translate very well.”
+
+“Try me.”
+
+“Game Development.”
+
+“Seems easy enough,” the elf rubbed her chin, completely retracting her spear. The road had another bump, which caused Sherly great pain and annoyance. The woman’s crab simply treaded over it. “I would assume you develop games, then. Make them interesting and fun.”
+
+“That’s essentially it, yes.”
+
+“For an active person like you, I can see why you would choose to study such things.”
+
+“Hmm? Oh, yes. Yes.” Sherly had originally meant developing computer games, which was another of her favorite hobbies. But trying to clarify that to the elf seemed like a herculean effort to try to explain.
+
+“Well, at the very least, it seems that you’re not exactly lying, Sherly,” said the elf.
+
+“I can feel a ‘but’ following your statement, ma’am.”
+
+“Ishuin. You may call me Ishuin, Sherly. You were found by Kasta and her group. She said you passed out due to exhaustion while trying to run away from them. She was adamant that I provide you with a chance to defend yourself, after witnessing you devour a unirat and choosing not harm them.”
+
+“Oh, there’s no ‘but’. Thank you. And I would like to extend my gratitude to Kasta and her group as well. I was travelling all day yesterday, had nothing to eat and drink except the unirats and the river beside us.”
+
+“Well, there is actually a ‘but’. You’ve given me some reason to believe that you’re not a demon-cow, but your appearance says otherwise. If you were able to survive walking out in the open for the entire day without any protection on you, it’s because of that fact. Therefore, there’s only one way for you to prove that you’re not as evil as those who share your heritage are.”
+
+“How?” Sherly conceded to the need to prove herself. She knew there was no point in arguing.
+
+“If you are, indeed, from a different world, a non-native of Sinzodia, then you should no doubt be a Wielder. You wouldn’t be transferred here without its help in the first place.”
+
+“What’s a Wielder?” Sherly asked before realizing her mistake. “Wait! I might be one, but I just don’t know! Like I said, I’m not from here. If you can tell me what a Wielder is, then I can probably figure out if I’m one.”
+
+“Fine. System Wielders, or Wielders for short. They are those who have access to the System’s incredible features, allowing them to grow faster and stronger than the others.”
+
+“System…? Are you talking about Letters?” Sherly took a moment to remember that she named the letters on the screen yesterday that way. “I mean, I saw texts in front of my view yesterday. It said something about my psyche, a cow with the intelligence of a human, allows me to integrate to the System. That’s the one, right?”
+
+“Prove it, then.”
+
+“How?”
+
+“Learn a Skill. Completely heal your wounds.”
+
+“Wait… How?”
+
+“If you have your System with you, it will tell you how.” As if to stop Sherly from asking more questions, Ishuin readied her spear once again.
+
+“Letters? Letters! Please wake up! I need your help!”
+
+[Hmm? Sherly? Is that you? Are you alright?]
+
+“Letters! Oh, thank goodness, you’re back!” Sherly’s sigh of relief was a breathy moo. “Hold on, Ishuin! I got Letters back. I’ll ask about the Skill!”
+
+[I never left,] Letters explained. [Your mental condition was unstable, so it temporarily disrupted our connection. You should be fine now. Who’s Ishuin, and what Skill are you talking about?]
+
+Sherly spent the next minute recalling to Letters what she had just gotten through. All while Ishuin was clearly listening in.
+
+[Well, you did gain a Level after killing those unirats. You’ve absorbed their Evolution Strains too. You should have enough to learn a Skill, but are you sure you want to invest that into healing?]
+
+“Well, I don’t have much of a choice, do I? If I don’t heal my wounds, Ishuin here won’t believe that I’m someone from a different world.”
+
+The elf cleared her throat. “Technically, I already believe you. But if you want to convince everyone in this caravan that you’re someone they can trust, then you have to show them a more concrete proof. I can only speak to you since I’m also a Wielder myself, though I am from Sinzodia. The others only hear your moos.”
+
+“So I can prove myself in a different way?”
+
+“If you want, you can destroy your cage. If you can find a Skill that can do that, that is.”
+
+“They won’t attack me for destroying it?”
+
+Ishuin backed off for a bit and took a deep breath.
+
+“The captured cow will attempt to prove that she’s a Wielder by breaking the cage, or healing herself!” the elf yelled. “She wants your promise that you will not harm her, should she choose the former.”
+
+The air vibrated along with her cage, as Sherly heard the entire caravan yell in return.
+
+“Upon Cancer, we promise! Or may it strike our hearts!”
+
+“Taurus, then Cancer. Are these the zodiacs?”
+
+“For someone who’s not of this world, you’re lucky to have guessed their collective name,” Ishuin began, her eyes as sharp as her spear. “They are of the divine and the sacred. And you will respect them.”
+
+“I see. Yes, ma’am. I’m sorry.”
+
+“You have more pressing matters before you, Sherly. I’m a patient woman, but I do not recommend that you test it.”
+
+“But I heard someone in the back saying ‘no promises’.”
+
+For the first time in their entire conversation, Sherly saw Ishuin make a smile.
+
+“Too keen a pair of ears that you have got there, Sherly. To distinguish Kasta’s voice from a roaring crowd only convinces me that you’re no mere cow.”
+
+“I’ll prove that I’m not a demon-cow, either! Letters, help me out here, please!”
+
+[Well, if we can break the cage, we certainly have options.]
+
+“No, just let me heal. Let me regenerate my wounds. That’s better for me, anyway. Ishuin, if I can prove myself trustworthy, you’ll let me out of this cage, right?”
+
+“Only if you promise to remain by my side. Should you try to escape, I fear the others won’t be as lenient as I am.”
+
+“As long as I’m out of this cage, I promise to behave. I can’t even stand!”
+
+[Healing, then. What sort of healing?]
+
+“What’s the fastest, most effective one?”
+
+[Well, there’s only really Continuous Regeneration, and Healing Light. The first one is a Passive Skill that’ll let you continuously self-heal while the other one requires mana, but you can cast it on other people.]
+
+“I’ll take Continuous Regeneration, then.”
+
+[Really? Just like that?]
+
+“Yeah. It makes sense to me. If I can continuously heal, then I don’t have to worry about getting hurt, at all.”
+
+[But there are limits to it.]
+
+“I’m sure there are, and so does the other one, right?”
+
+[I suppose. Can you give me a final confirmation on that, please?]
+
+“I confirm.”
+
+“What’s that? It looked a bit more special?” Sherly observed as the text, written in a fancier, more presentable way, slowly vanished from her view. “Was that you, Letters?”
+
+[That was the System itself providing you with confirmation. Congratulations, Sherly. You should start healing up now.]
+
+Just as Letters predicted, the bite wounds on Sherly’s leg started to close. It was slow, although not exactly imperceptivity so. By the time they stopped travelling, as the sun was setting down, she was finally done completely healing. Even the scratches from when she fell over were gone. Even the pain in her joints from staying in a confined position was gone.
+
+“They’re all gone!” Sherly celebrated. She would’ve jumped for joy, if she could. She realized they had stopped, but she was too focused on healing to even notice that Ishuin had left her. “Ishuin?”
+
+Instead, a different woman showed up and opened her cage.
+
+A human woman. Wavy orange hair, blue eyes. Sherly recognized her as one of the three people who had captured her.
+
+“Kasta?” Her moo, however, didn’t translate as it did with Ishuin.
+
+“Out you go, demon-cow. Ishuin said you’re not actually a demon-cow, but you can’t really convince everyone that you’re a good egg just because you healed up. I still think you’re a demon-cow, but probably a good one.”
+
+You’re confusing. Sherly didn’t bother mooing this time.
+
+“Anyhow, Ishuin said you should meet her at the front of the caravan in five minutes, or we’re free to roast you.”
+
+Without a second more, Sherly sprinted like a free cow. But she headed straight to the front of the caravan. Trying to escape now wouldn’t be the smartest thing in the world, given how some of the members of this crew were bird-people. She wouldn’t get that far before something ended her life. She wouldn’t even know where to go in the first place.
+
+For now, she needed to stay with Ishuin and learn more about their world.
+
+Sherly started hearing other cows the closer she got to the front. Nobody bothered to stop her; they were all looking ahead. The moment she reached Ishuin, the sight she saw horrified her.
+
+“What…?”
+
+“Well, then, Sherly,” the elf started, dismounting her giant crab. “Do you understand now why cow-demons and bull-demons have to die?”
+
+In front of Sherly was carnage.
+
+An entire village filled with nothing but cows and bulls, some eating humanoid flesh.
+
+They were much larger than her. Angrier than her. More powerful than her.
+
+But despite it all, Sherly felt nothing but rage. There was nothing about survival in the eyes of those demons. There was no reason. Some people were left on the ground like leftovers. Some were still whole, save for the two holes where the horns had rammed into them.
+
+These cows, these bulls, they were all about destruction and nothing else. Food was just a by-product for them.
+
+“You’re right, Ishuin,” Sherly began, walking straight into the village. “They all deserve to die.”

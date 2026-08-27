@@ -1,0 +1,281 @@
+---
+id: aad50876-629b-59f3-ada1-9c78ef76bedb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 55: Of Holes, Hopes, and Half-Ruins"
+slug: 0055-chapter-55-of-holes-hopes-and-half-ruins
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 55
+ownLength: 1674
+unit: words
+publishedAt: 2025-10-20
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2691858/chapter-55-of-holes-hopes-and-half-ruins"
+royalRoadId: "2691858"
+---
+
+PoV Luna
+
+The world had stopped spinning.
+
+Mostly.
+
+Luna wandered in uneven circles around her landing spot, paws light, tail swishing a lazy rhythm through the dust. Her chest still buzzed from the run, the crash, the flying. Flying! For a heartbeat and a half, she had been faster than the wind, faster than thought, faster than anything!
+
+She grinned wide, tongue hanging.
+
+“Yes. Luna, air predator!”
+
+The trees didn’t answer. The forest rustled, unimpressed.
+
+Slowly, the thrill leaked away, the same way soup cooled when dum-dums forgot to serve it. The air turned soft and still.
+
+Luna blinked toward the treeline, then at the looming shape of the ruins behind her. The jagged towers of stone stretched against the horizon, distant now. Too distant.
+
+She frowned. Tilted her head.
+
+Luna was outside again.
+
+“…Oops.”
+
+Her ears drooped at the obvious betrayal of distance. She had worked so hard getting far inside those ruins. So many slow steps, so many no-bite rules! And now? One flying wolf moment later, she was right back where she started.
+
+Luna sat down with a small huff, pawing at the dirt. The ground was warm under her pads, rough with tiny stones.
+
+What now?
+
+Go back? To find her pack?
+
+That would mean slow walking! Careful walking. The kind of walking where Sepio counted every step and Syl said “patience, Luna.”
+
+Her tail twitched at the word.
+
+Patience.
+
+Ew.
+
+Luna knew Apex Predator hunt patience! But not walk-slow-to-be-slow dum dum patience!
+
+Her golden eyes flicked toward the forest stretching along the ruins. The broken walls covered in moss and sunlight, with half-collapsed roofs that smelled faintly of older things.
+
+The choice was obvious.
+
+Her tail gave one wag. Then another.
+
+“Yes. Exploration time!”
+
+A better plan already took root. Exploring was always tastier than being careful. Maybe she would find more shinies! Or food! Or the secret of proper flying! …Without the crash part.
+
+Decision made, Luna stood tall, tail high. The wind brushed through her fur, carrying the faint scent of old stone and burnt magic. Somewhere far off, a raven croaked from one of the bone-like arches. The sound echoed down the valley, lonely but daring.
+
+Luna’s grin returned.
+
+“Awoo permission granted,” she told no one in particular, then took off at a sprint.
+
+Her paws beat against the overgrown path, light and quick. Each stride lifted her a little higher, each breath filled her chest with warm air and promise.
+
+The ruins curved along the edge of the forest, twisting in strange angles where the earth had swallowed them long ago. Roots crawled over carved doors and half-buried statues peeked through the moss.
+
+Perfect. So much to sniff. So much to chew.
+
+She leapt over a fallen pillar, darted through a gap in the wall, then back out again, and laughed into the wind.
+
+The crash, the tumble, the ouch – those were already fading into a fun memory.
+
+Now it was all forward.
+
+All discovery!
+
+And maybe, if she ran fast enough, she would find a bit of sky again.
+
+So Luna ran!
+
+Faster. Farther. Freer.
+
+The ruins blurred by, wind tugging through her fur, paws drumming a rhythm across the forest floor. Her heart sang with it – thump, thump, thump, faster than thought, brighter than breath!
+
+Then – oh! Squirrel!
+
+She swerved without hesitation. One leap. One snap!
+
+Crunch.
+
+Weak meat. Barely a snack.
+
+She spat out the tail, offended by the lack of spice.
+
+“Bad squirrel,” she muttered, and bounded forward again, ears perked high.
+
+The ruins rose and fell beside her, long ribs of gray and white stone curving through moss. Their arches bent like old bones, crumbling into the earth. The air carried faint echoes of old mana, stale and faintly bitter, but not wrong.
+
+It was strange.
+
+The corrupted part of the ruins had been alive with noise and danger. Growls, rot, enemies to bite. This side though? Too still. Too quiet.
+
+Her tail twitched.
+
+Quiet meant no thrill. No thrill meant no prey. No prey meant no fun!
+
+Her nose picked up a faint movement ahead – another tiny rock-thing, one of those golem crumbs that shuffled about looking busy.
+
+She gave it a playful nip on the way past. A little too strong. It wobbled once and froze solid.
+
+“Friendly bite,” she called behind her, in case it misunderstood.
+
+No reply. Rude.
+
+So she ran faster.
+
+【Run Lv.10 → Lv.11】
+
+Her chest swelled with pride.
+
+“Fast wolf faster!” she shouted to the wind, her voice echoing through the fallen halls.
+
+The path bent downward, the moss giving way to bare stone. Light shifted, cooler now, the shadows long and thin. The air changed too – less forest, more cold and dry, heavy with the scent of ancient dust.
+
+Her instincts prickled.
+
+Something ahead was off.
+
+The ground seemed to fade. Not crumble. Fade.
+
+Then, all at once – it was gone!
+
+“Whoa–whoa–woof–!”
+
+Luna skidded hard, claws sparking against stone.
+
+Shadow Step!
+
+Blink–
+
+She reappeared midair, paws catching a thick branch jutting from the side of the cliff. The tree groaned, tilted, but held.
+
+Her tail lashed once for balance. Ears flat.
+
+That had been close!
+
+She blinked down into the darkness yawning beneath her.
+
+A hole. A huge one. The world itself had been bitten through!
+
+Not an end. A missing piece.
+
+“Big chew,” Luna whispered, impressed.
+
+She crouched along the branch, peering into the depths. The air that rose from the chasm smelled of dust and faint lightning – old magic and danger mixed into one flavor. The edges of the ruin had sheared clean away, whole buildings sliced mid-wall, their roots hanging into the dark like broken teeth.
+
+Maybe this was what had cracked the ruins apart.
+
+Or maybe something had eaten it.
+
+She sniffed again, nose wrinkling. Hard to tell.
+
+Could she jump it? No. Too wide.
+
+Shadow Step down? Maybe.
+
+Shadow Step out again? Maybe not.
+
+Her grin grew sharp.
+
+Less thinking. More running!
+
+She pushed off the branch, landing light on the nearest stone slab, and trotted along the rim.
+
+“Hole-thingy,” she declared, tail wagging, “Luna run circles around you!”
+
+Her paws blurred again, silver streak cutting through sunlight and shadow. The chasm howled below, wind rising from the depths, but Luna laughed and raced along the edge – part wolf, part storm, and entirely too happy.
+
+***
+
+PoV Adventurers:
+
+“Empty,” Ray muttered, boot flicking a pebble across the marble floor. It clinked, bounced once, and rolled out of sight.
+
+“All this effort, and every shiny worth selling already picked clean.”
+
+Trianna didn’t look up from the bundle of old arrows she was examining.
+
+“That’s rich,” she said. “Coming from the man whose bag is clinking just fine.”
+
+“It’s called efficiency,” he shot back. “You wouldn’t understand.”
+
+“Uh-huh. Efficiency. Right.”
+
+Their voices bickered through the ruins, familiar noise in the still air. Syliana half listened, half didn’t. Their arguments were predictable in tone, nearly comforting in rhythm – like a pair of forest birds yelling about who owned the same branch.
+
+Her attention stayed on the courtyard.
+
+The old Velssarin stone spread wide around her, worn smooth by centuries of weather and stubbornly holding its structure against time. Even broken, even drowned in moss, the place still pulsed faintly with power.
+
+She knelt near a cracked pillar, fingers brushing the faintly glowing lines along its base. A chill pricked her skin.
+
+“They built with the leylines themselves,” she murmured, more to herself than to the group. “Every column a conduit. You can still feel it – see how the mana stains the stone?”
+
+Veric leaned against a wall, arms folded, expression unimpressed.
+
+“Humming rocks. Lovely. But I would rather find something that fights back. This quiet’s unnatural.”
+
+Syl smiled faintly.
+
+“You could try fighting patience.”
+
+Before he could answer, a deep crash echoed through the ruins, far off but distinct.
+
+Every head turned.
+
+Trianna winced.
+
+“...Was that Luna?”
+
+“Probably,” Syl admitted, straightening.
+
+Ray groaned.
+
+“Do you ever worry about her?”
+
+“Constantly,” Syl said, lips curving despite herself. “But it wouldn’t help. She always lands on her feet. Eventually.”
+
+“Welp,” Trianna sighed, slinging her bow over her shoulder. “There goes our bonus payment.”
+
+Veric chuckled under his breath. Ray cursed quietly.
+
+Syl shook her head, smiling now. Chaos followed Luna the way sparks followed lightning. Yet somehow the wolf girl always came out of it grinning, tail high, usually with a mouthful of spice, treasure, or trouble.
+
+Luck loved her. Inconveniently.
+
+Her gaze caught on a glint near the far wall. A narrow archway half buried beneath vines and rubble shimmered faintly in the dim light. Runes carved into its frame pulsed with a soft, steady glow – wards still alive after all this time.
+
+“Interesting,” Syl whispered. She brushed away a tangle of leaves, revealing intricate glyphwork spiraling into the floor. The air there hummed, deeper than sound.
+
+When she turned, the others were already staring at her, identical looks of puppy-eyed expectation on their faces.
+
+She raised a brow.
+
+“Let me guess – you want it opened.”
+
+Veric gave a helpless shrug.
+
+“You’re the magic expert.”
+
+Ray grinned.
+
+“And you’re less explosive than I am.”
+
+Trianna’s smirk was pure mischief.
+
+“And faster.”
+
+Syl sighed through her nose, though her eyes warmed.
+
+“You’re all impossible.”
+
+She stepped forward, staff in hand. A pale silver glow coiled around its tip, mirroring the slow heartbeat of the ancient runes. The magic here was flowing slowly, but not dead. Just waiting for someone foolish or brave enough to stir it.
+
+Her party watched in silence as she pressed her palm against the first symbol. The ward responded with a low hum that vibrated through her bones.
+
+“Good,” she whispered, focus narrowing.
+
+Really, when she thought about it, this group wasn’t so different from her new Wildling friend. Both got into trouble. Both demanded impossible fixes with those hopeful stares of theirs. And both, in the end, trusted her to make the impossible behave.
+
+She smiled, faint and fond, and began to unravel the seal.

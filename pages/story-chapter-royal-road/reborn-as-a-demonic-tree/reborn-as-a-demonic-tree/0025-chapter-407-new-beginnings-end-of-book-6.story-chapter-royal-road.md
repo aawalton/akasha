@@ -1,0 +1,225 @@
+---
+id: 6882bee8-9d22-5fa5-ad19-1852b3fd47ac
+page-type-slug: story-chapter-royal-road
+title: "Chapter 407: New Beginnings (End of Book 6)"
+slug: 0025-chapter-407-new-beginnings-end-of-book-6
+partOf: reborn-as-a-demonic-tree
+position: 25
+ownLength: 3722
+unit: words
+ownProgress: 3722
+publishedAt: 2025-02-17
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2073020/chapter-407-new-beginnings-end-of-book-6"
+royalRoadId: "2073020"
+markedReadAt: "2026-06-29T19:02:21.000Z"
+---
+
+Ashlock felt a foreboding breeze rustle his leaves as Maple was awoken from his slumber and stared down at Vincent.
+
+He hadn't wanted it to come to this, but he'd been left with no choice but to manipulate Maple into helping him. When he had summoned the Worldwalker confined to the body of a mere squirrel many moons ago, his cultivation had been far too pathetic to have control over such a being. But Maple had offered a pact, one of peaceful coexistence.
+
+They wouldn't interfere in each other's business, and when the time came, they were supposed to protect one another.
+
+While mutually beneficial on the surface, it actually heavily favored Ashlock because of a simple fact: Maple wasn't allowed to be here. It was only due to this pact that the Worldwalker could treat the realm as his personal buffet. However, if Ashlock or Stella were to die, the pact would be invalidated, and his system would banish Maple back into the void—and Maple knew this all too well.
+
+The squirrel liked Stella and tolerated Ashlock, but at the end of the day, he was a Worldwalker with his own agenda. While Maple was considered a child by Worldwalker standards, he was an eldritch being who was far above Ashlock's prowess. So, unlike Larry and maybe Nyxalia in the future, Maple was not easily controlled or ordered around. He was incredibly lazy and preferred to conserve his cultivation rather than help them eliminate their foes. But Ashlock needed help from a heavy hitter to finally butcher Vincent Nightrose. He had already tried almost every trump card he had, and Vincent had highlighted a significant weakness in Ashlock's arsenal against stronger foes—the ability to fight against insane regeneration.
+
+While his Abyssal Devourer skill had recently gained a corrosive aura that allowed him to sap Qi and life force from those wrapped up in his vines and void tendrils, it wasn't good enough if the person in question had as much regeneration as a blood cultivator like Vincent. Especially since that skill required the enemy to stay still near his trunk or offspring, which was unlikely to happen when the foe had a higher cultivation level than him. Also, Vincent's regeneration countered his desolation Qi, which was supposed to destroy matter at a high cost. Even Abyssal Whispers did little as Vincent had illusion Qi and had managed to split his soul, so his consciousness was far more resistant to any mind-altering effects.
+
+Vincent had also flattened Ashlock's Bastions as if they had been toys. His Ents had no hope of fighting the 8th stage Nascent Soul cultivator except maybe Anubis, but he wanted to preserve them for the beast tide, especially after what had happened to Hades.
+
+This led to the current situation. Ashlock had taken a risk and let Vincent inflict a large, painful cut in his trunk that was oozing cursed sap and Qi, which forced Maple to finally awaken from his long slumber and honor the pact they had made.
+
+Vincent, in Valandor's body, was utterly frozen in fear, as if his soul was held in Maple's gaze. The mythical white squirrel let out a small snort before hopping off Stella's head, causing Vincent to step back slowly. The cultivator's eyes narrowed as he studied the small white squirrel. Clearing his throat, Vincent spoke cautiously, "Ancient being, I don't believe there is any malice between us."
+
+"You're right, there isn't."
+
+Maple's form shimmered, expanding upwards like a puff of smoke until it coalesced into an androgynous figure standing a head shorter than Stella and Vincent. Silken white hair cascaded down his shoulders, crowned by large, tufted ears. He looked up at Vincent, clutching a lush, snow-white squirrel's tail coiled around him like an expensive coat.
+
+Despite the height difference and Maple's childlike appearance, he radiated the aura of a dangerous being. His golden eyes gleamed with a predatory glint, shrouded by a tranquil, timeless power.
+
+Vincent didn't dare move a muscle, captivated by Maple's gaze, as if looking away would spell his death.
+
+Maple's face was utterly emotionless as he reached forward with his slender hand and gently placed the tips of his fingers on Vincent's chest. "I didn't plan to deal with you personally, as I don't like to interfere with the threads of fate," Maple said, his voice smooth yet edged with irritation. "But you just won't give it up." He pushed forward, and his fingers sunk impossibly through Vincent's flesh as if he were made of nothing but blood.
+
+"How are you doing that—AH! Stop!" Vincent gasped as he looked down. For the first time, Ashlock saw genuine fear in Vincent's eyes. An emotion he didn't know the cultivator could feel as Maple reached into his chest.
+
+"I can't." Maple said emotionlessly, as if talking about the weather, "Stopping here would invalidate my pact with this spirit tree. You hurt the one being you shouldn't have, and you also have the desire to kill another that I cannot let you hurt. You were always doomed to die here by my hand."
+
+"But the threads of fate. They told me if I killed Stella Crestfallen and bathed in her blood, I could live. I never saw your presence—"
+
+"That's because the threads of fate don't include me."
+
+Vincent's eyes widened in utter terror as Maple ripped his hand back.
+
+There was a drawn-out silence as everyone was mesmerized by the soft pounding of the still-beating spiritual heart held tightly in his fingers. He then broke his gaze with Vincent and looked up into Ashlock's Evil Eye.
+
+"You used me, Ashlock. But I forgive you. This is a worthwhile snack to wake up for." His jaw widened, showing off many rows of teeth, and he bit into Vincent's spiritual heart. It squished before popping in his mouth.
+
+Vincent silently screamed as he collapsed to his knees in utter despair as life seemed to drain from his face, and he slowly took on an ethereal appearance.
+
+Maple licked his bloody lips and yawned. "I'm going back to sleep. I assume you can handle the rest." Transforming back into a squirrel, Maple leaped up and found a thick branch to curl up and sleep on.
+
+"Seriously. Thank you, Maple," Ashlock said, and the squirrel's ear twitched as if acknowledging his words.
+
+While his gamble with getting Maple involved paid off, he paid the price of Maple devouring one of Vincent's spiritual hearts. However, if the pounding coming from the kneeling man was any indication, he still had one left to go. Vincent was not yet dead, just reduced to his infant soul. A state where Ashlock could finally deal with him personally. Until now, he had been unable to use Spatial Lock to secure Vincent in place as there had been two frequencies to match due to the two spiritual hearts and the fact that Vincent's cultivation far surpassed his own.
+
+But that had now changed. With the removal of one heart and Vincent being reduced to his weaker Nascent Soul state, it was time to finally put this enemy to rest.
+
+Until now, he had been holding back to bait Vincent into attacking him to get Maple involved, but now there was no need to hide.
+
+His Inner World, which was supposed to be a privilege of Monarch Realm cultivators, began radiating waves of power that he aimed at Vincent. The kneeling man who was fading into a spirit seemed to feel the sudden soul pressure bearing down on him as his head snapped backward, and he stared into Ashlock's Evil Eye in disbelief.
+
+As the waves of power matched the frequency of Vincent's spiritual heartbeat, he was now locked in place. He couldn't use any techniques to escape Ashlock's clutches.
+
+"You're in the Monarch Realm?" Vincent muttered, but then he seemed to realize something even more horrifying. "No, your Qi is weaker than mine. How do you possess such soul pressure?"
+
+"I formed an Inner World early."
+
+"How?!" Vincent rose to his feet despite the pressure bearing down on him in rage. "I have been stuck in the Nascent Soul Realm for as long as there have been some stars in the sky. I have searched every corner of the realm for answers. Only a few known beings have formed Inner Worlds on this layer of creation! The World Tree and its Council and the Frostbound Monarch of the Frozen Star Sect. None of them were willing to give their secrets to me. So how could some random tree like you do it? I demand to know!"
+
+Ashlock had no plans of telling this fool about his system, so he decided to send the man to the afterlife with as much regret as possible. "The Crestfallen bloodline has all the answers." He activated his Abyssal Devourer skill. The void crept out of his trunk, and thorn-covered vines and void tendrils emerged from the darkness and impaled Vincent's enraged spirit as if anchoring him to the mortal world. "Unfortunately, your story ends here."
+
+"I refuse." Vincent snarled as his soul body shuddered, and his presence rose tenfold as he stood despite the vines and tendrils impaling him. Twisting around, causing some of them to snap, he faced Stella. Lunging forward, he gripped her neck and grinned while throttling her. "The arrogance to stand so close to me thinking you could live while watching me die. I'm the one who let you live and prosper in my sect. I practically raised you, yet this is how you repay me? Die for me, you bitch—!"
+
+"You didn't raise shit."
+
+Vincent coughed up a mouthful of blood as the tip of a sword wreathed in aether Qi poked out of his chest. "What...?" he looked over his shoulder at Stella standing there, then back at the Stella he was throttling. "Did you trick me?"
+
+"You have been playing into our hands since the beginning. It's almost too easy, as you're a slave to your own nature," Stella said as she placed a foot on his back and brutally withdrew her sword in a shower of blood.
+
+Vincent let out a startled grunt as he kneeled over.
+
+"You're so arrogant you don't even bother to remember the faces of those you deem weaker. All you follow is your sense of smell despite already being tricked once in Tartarus. I've been in front of you many times, yet you overlooked me. Just like now."
+
+It was strange. Ashlock knew Stella well. He could tell she seemed angry, but not so much about his comment about raising her. No, she seemed infuriated that the man who had caused such grief throughout her entire life didn't even acknowledge her existence. It was as if Vincent was looking past her.
+
+"You lie." Vincent cursed her, "You're nothing but an illusion." He looked up and gestured with his chin to the one he still had his hands around, "I know this is the real you. I can smell it—"
+
+Bob the slime, who had taken on the vague shape of Stella and absorbed some of her blood and Qi, collapsed into a puddle at Vincent's feet. The real Stella standing behind Vincent still had her Phantom Veil Pendant hanging from her neck, making her appear as nothing but a mortal without a bloodline.
+
+"No, this isn't possible... I'm one of the strongest cultivators in all of the wilderness..." Vincent hissed as he clutched the hole in his chest that had gone cleanly through his soul. "I refuse to fall for such a cheap trick. There's no way I was slain by a weak girl like you. Swords can't even cut souls."
+
+"Is that so? I'm going to have to disagree. A while ago, after failing to kill Nox, I vowed to be able to cut anything, whether that be savage monsters, scheming cultivators, lost souls, or reality itself." Stella slowly raised her sword overhead like an executioner. As the world darkened with the coming of night, her anger faded and was replaced with a genuine smile. "Vincent Nightrose, I hate you with all my heart. But in a twisted way, you pushed me to become stronger all for this moment—where I can finally kill you."
+
+"To treat someone like me as a mere stepping stone?!" Vincent glared at Stella with an indescribable hatred that could transcend realms, "Does your unearned pride know no bounds?!"
+
+"Fate is funny like that sometimes." Stella closed her eyes and took a deep breath. Letting it out in a relaxed manner, her eyes slowly opened, and she met Vincent's rage calmly. "This is goodbye, Vincent. Thank you for everything."
+
+"You dare—" Before he could finish replying, Stella's sword, wreathed in ghostly white flames, descended upon him in a blinding arc like a reaper's scythe. The blade met Vincent's skull, and for a fleeting instant, Vincent seemed to finally face reality as he sensed the finality of death quickly approaching. But that realization was all too late.
+
+The blade phased through his flesh as though the very fabric of his being was being sliced. White flames surged along the sword's path as it carved a merciless line down his body. Bone cracked, flesh parted, and reality was split. The cut was flawless, the two halves of Vincent separating like pages of a book. His split face contorted into a grotesque expression of hatred, his mouth frozen in an unfinished scream.
+
+For a single heartbeat, Vincent stood in defiance as two halves. But then, as his spiritual heart let off one final beat, his sundered body fell apart. The left half toppled to the ground, followed by the right, a pool of steaming blood mixing with the void beneath him. The white flames of Stella's strike flickered briefly in the air before the cut through the aether faded, leaving only silence... and the finality of Vincent's death.
+
+Stella fell to her knees as if all the strength had left her body. "It's... over."
+
+"It's over," Ashlock mirrored, almost in disbelief himself. It had taken nearly everything he had to kill this bastard, but they had done it.
+
+Vincent Nightrose, a threat that had loomed over them since the start, was dead.
+
+As if having waited for this final moment, golden words crawled through the air, and his sign-in system notified him that a day had passed. But this time, it was special.
+
+Idletree Daily Sign-In System
+
+Day: 3653
+
+Daily Credit: 10
+
+Sacrifice Credit: 3970
+
+[Sign in?]
+
+[Congratulations, Ashlock. You have survived 10 years as a tree. Updating status screen.]
+
+[Demonic Demi-Divine Tree (Age: 10)]
+
+[Nascent Soul Realm: 5th Stage]
+
+[Soul Type: Nine Moons(Desolation)]
+
+"I've spent a whole decade as a tree." Ashlock couldn't believe it as he looked down at Stella, his adopted daughter. They had first met when she had been a terrified seven-year-old, abandoned by her parents and surrounded by servants who had wanted to kill her. He had tried his best to help, but at the time, he had been nothing but a two-year-old demonic spirit sapling with {Devour [C]}, {Basic Spirit Sight [F]} and {Basic Meditation [F]} as his only skills.
+
+Despite all the enemies and tribulations they had faced in the last decade, they had stuck through it together and made it to this point. So much had changed since they were a half-blind sapling and a terrified little girl fighting for survival on a half-forgotten mountain peak.
+
+Ashlock had transformed Red Vine Peak into the land of a Divine Level sect, overseen by a god that was worshiped by millions. He had exploded in power, reaching the mid-stages of the Nascent Soul Realm, forming an Inner World, and comprehending many daos while expanding his reach across the realm.
+
+Meanwhile, Stella was nearing the Nascent Soul Realm herself, and she'd gained a new affinity and understood her bloodline on a deeper level.
+
+But more importantly than any of that—under his ever-expanding canopy, he had worked hard to create a place for the both of them. Now, Stella finally had people she could depend on and a safe place she could call home.
+
+"Tree, are you still there."
+
+"Yes, Stella. I'm here."
+
+"Thank you for letting me have the final blow." She looked at him, her bright smile stained by a tear rolling down her cheek. "You hurt yourself to force Maple to take out one of Vincent's hearts, right? And then you restrained him and drained him so he would be weak enough for me to kill."
+
+Ashlock sighed, "Figured me out, huh."
+
+In truth, it would have been a struggle and a massive waste of the Qi he was using to try and hold back the beast tide right now to kill Vincent all by himself. But if it had come down to it, he could have killed Vincent without the help of Maple.
+
+But Vincent wasn't his demon to be slain.
+
+It was Stella's.
+
+"Thank you, Tree." She wiped the tears of relief flowing down her face, "For raising me, feeding me, protecting me... everything." Stella reached into the pool of blood at her feet and pulled out the Bloodiron sword. Holding it up with both hands, she presented it to him, "And happy birthday."
+
+Ashlock reached forward with an ethereal root and gently wrapped it around her hands and the sword's handle.
+
+"A more gruesome birthday celebration than I was expecting," Ashlock chuckled, "But I wouldn't trade it for the world."
+
+To his surprise, his system chimed in when he held the sword.
+
+[This Bloodiron sword has absorbed the lingering vengeful spirit of Vincent Nightrose. If fostered, the sword will gain an ego and be able to grow in power alongside its owner. Do you wish to name this soul sword?]
+
+Ashlock found it rather amusing that Vincent had felt so enraged during his death, he had refused to move on. Repeating what his system had told him to Stella, she thought for a second before suggesting, "The sword of new beginnings?"
+
+"I like that," Ashlock said. It sure fit the occasion, as while the beast tide was bearing down on them, the slaying of Vincent felt like the end of an era.
+
+[Name recorded. A new section has been added to your status screen]
+
+[Soul Weapons…]
+
+{The Sword of New Beginnings [?]}
+
+[Since the sword's ego is yet to manifest, its current grade and potential are unknown]
+
+Ashlock acknowledged the system messages before dismissing them. There was something he needed to say.
+
+"I'm sorry this is our first time doing this, but happy 17th birthday, Stella." Ashlock paused, "I would give you your present, but Elder Mo is still making it."
+
+Stella smirked as she withdrew her hand from his sword handle. With a flash of silver, she brought out the sword she had just used to kill Vincent from her spatial ring. That was when Ashlock realized he had shattered her sword a week ago, so she could not still possess it. Unless this was a new one.
+
+"The sword you used to kill Vincent..."
+
+"Yep," Stella beamed. "It was your birthday gift. I couldn't wait, so I paid Elder Mo a visit and got it early." She balanced it on her shoulder and did a twirl, her short hair lifting briefly and showing off the maple leaf earrings he had gifted her all those years ago. "How do I look?"
+
+"Like a daughter I can be proud of."
+
+Stella groaned, "That's such a lame dad answer."
+
+Ashlock chuckled as she dismissed the sword and wandered over to the bench under his canopy. She looked at the rather unremarkable bench for a few seconds before slothfully lying on it and stretching out like a satisfied cat. She let off one of the longest yawns he had ever heard.
+
+"Goodnight Tree." She murmured.
+
+"Sleep well," Ashlock replied as she drifted off to sleep with a blissful smile. As much as he wanted to sleep as well under the nine moons, there was much cleanup to be done.
+
+His void tendrils and vines wrapped around what was left of Vincent's body, devouring it for credits and Qi, which he both desperately needed. As the credits and Qi flooded in, he looked to the distant horizon. While it was seemingly safe and peaceful now with Vincent dead. The raging storm all around was a constant reminder of the impending doom.
+
+"I will need to upgrade a few skills to ensure this beast tide is an opportunity rather than the end of the Ashfallen Sect." Ashlock mused but then paused as he heard a rustling in his leaves.
+
+[Harbinger of the Eternal Ash: Larry [SS] has completed his evolution]
+
+"Master! You're hurt," the voice of his guardian beast roared out like an angered god. "Who did it? Where is Vincent? This servant shall reduce that vermin to ash!"
+
+"Hush, Larry. You'll wake up Stella." Ashlock sighed, "The battle... it's already over. You missed it."
+
+"It's over?" His faithful guardian said in disbelief.
+
+"Yeah," Ashlock replied with a hint of pride, "We won the battle..." He looked to the heavens, "But not the war. There's still much to be done until we can relax in true peace. Larry, I hope you're hungry because there's an all-you-can-eat buffet on the way. The only question is whether we are the devourers or the helpless prey."
+
+Larry fully emerged from Ashlock's canopy in all his radiant glory and hung his head low. "I failed you today, Master. But on my life, I swear," his voice was low and foreboding as he spoke in the ancient tongue and raised his head to look at him. His eyes glowed with a divine power, and his halo of ash spun with certainty. "Even if the heavens were to fall upon us, I would defend you and Stella until my last ash."
+
+Ashlock swiveled his eye to look at Stella. Her chest rose and fell, and her light breath played with a strand of hair as she blissfully slept, unaware of Larry's conviction. Raising an ethereal root, he moved the strand away from her mouth.
+
+"Thanks, Larry. Your loyalty has been boundless since the day the system united us," Ashlock said as he looked at his most loyal guardian, "It's not easy, but it's for brief moments of peace like this that are worth fighting for."

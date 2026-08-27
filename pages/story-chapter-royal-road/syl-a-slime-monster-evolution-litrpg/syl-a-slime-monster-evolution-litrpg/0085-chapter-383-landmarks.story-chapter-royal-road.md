@@ -1,0 +1,121 @@
+---
+id: 61bf7239-0dd8-5a5f-bdc7-43d420736065
+page-type-slug: story-chapter-royal-road
+title: "Chapter 383 : Landmarks"
+slug: 0085-chapter-383-landmarks
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 85
+ownLength: 2357
+unit: words
+publishedAt: 2026-05-25
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3442485/chapter-383-landmarks"
+royalRoadId: "3442485"
+---
+
+Honestly, this period was probably the longest time I had ever spent sitting in one place, and I was certainly starting to see this island as our home. It was a comforting feeling that surpassed even my original tree home back at the pond right at the very start of my new life.
+
+Sadly, whatever comfort I had was currently being drowned out by the frustration of trying to piece together [Triangulate] into my [Map] spell. Unlike [Mapping], I hadn't reached the end of the road in my deconstruction, so there were still plenty of unknowns, which just went to show what an amazingly complex skill it actually was. I would even go as far as saying it was the cornerstone of [Dimensional Magic].
+
+Fortunately, I was a slime with plenty of extra brainpower to throw around, and I began pulling back all my [Sub-Cores] to help crunch the information and piece together a solution. Even if it was barebones, if it was working, I could expand it later once I was more proficient.
+
+There's really so much potential with [Triangulate]. Imagine if I cast a sustained spell that computed every single coordinate for me. Yes, yes, I know that's basically what [Triangulate] itself already does, but what if I could expand on that background task and have it perform other actions for me? It would be like using my [Sub-Core] orders in spell form!
+
+I knew I was getting ahead of myself, but it was just too much fun to speculate at this point. I had so many tools and parts at my disposal, it almost felt like the world was at the tip of my tendrils.
+
+While I was trying to recreate the coordinate function, I also made some modifications to [Map] on the side, or when I needed a break from a roadblock. There was no point in getting the coordinates if I didn't have a list of destinations. Currently, I've only managed to reproduce the displayed map, probably because I took it from the guild tag. While it was certainly eye-catching, what I actually wanted was simply a raw list of information.
+
+Surprisingly, this wasn't actually that difficult, perhaps because I'd already opened the door on the subject, or because I was stealing parts from [Position] and [Temperature]. The result was a spell, if I could even call it that, which would provide a list of every landmark I had discovered. However, there was one glaring issue with my slapped-together creation: it was massive and basically unusable, with the top of the list literally up in the sky.
+
+I guess I should just be thankful this is only visible to me. If I made a giant list of destinations appear, and it really is taboo to touch the system, then I'd probably be smited on the spot!
+
+What I needed was a browsable list; if it were searchable, that would be even better. I immediately thought of [Consuming Osmosis] as its profile system had every component, and more, that I needed. Much to my regret, though, that was a trait, and thus I couldn't take it apart.
+
+I don't suppose you could give me [Trait Deconstruct], Gramps?
+
+My admittedly absurd request was met with silence. Whether such an ability actually existed, either Gramps couldn't or wouldn't grant it to me. Which was probably for the best, all things considered, as I'd already broken a few things with the whole [Mana Slime] debacle back on the floating island.
+
+Do I have any skills that have interfaces…?
+
+I browsed through my profile, trying to find something that fit the bill. Of course, the profile itself would have been a solution, but I couldn't even imagine what sort of complex system wizardry went into creating such a thing. [Split Personality] and [Identity Fabrication] both had interfaces with their own intricacies, but I was not willing to even risk the thought of dismantling them.
+
+I had thought all hope was lost when I glanced at a skill I'd almost forgotten about: [Equipment Swap].
+
+When did I even last use this…? I guess I made a few outfits for the whole princess ordeal, but since then, I haven't touched them. Once I evolved into a prismatic slime, even my armor forged by a dwarven master seems rather lackluster. After all, thanks to [Primordial Slime] improving [Metal Slime] beyond its limits, I can make metals the dwarves could only dream of.
+
+Looking through [Equipment Swap], I found plenty of old outfits that no longer worked because the original pieces were missing. The old leathers that Yuzz made for me were lost in the teleportation mishap, as damaged as they were. Even the robes that Whitney had bought me were gone at this point. I shifted my form a little and remade the leathers with slime, and while they looked the same as back then, the difference in performance was unimaginable thanks to the hidden power of slime.
+
+There was, of course, one exception that exceeded even my draconic leathers—the hat. I pulled it off my head and looked at it, which at some point had taken on the giant pointed wizard hat appearance again without me knowing. I constantly forgot about this thing that had latched onto me, no doubt an almost unparalleled survival trait it had.
+
+"I'm so tempted to eat you and figure out your secrets…"
+
+The hat shuddered. I sighed and shook my head before returning it to its spot. Trixie had said it was safe, and it had survived everything else that I'd been through up until now. At this point, it was basically the companion that had been with me the longest, even surpassing Vee, so it wouldn't be a lie to say I had my own attachments to it.
+
+Plus, Trixie said it was growing… So who knows what abilities it will have in the future? It already messes with people's perceptions, so who knows what's beyond that. Maybe it will reach a point where I can just bounce around as a slime, and people will think "that's perfectly normal."
+
+Recovering from my wave of nostalgia and dreams of the future, I returned to [Equipment Swap]. It had no levels, and I could easily repurchase it if needed. Aside from an interface, it also had the ability to interact with dimensional storage.
+
+I might actually discover more than I originally bargained for. This is exciting!
+
+I activated [Skill Deconstruct] and confirmed my selection. The skill was ripped apart, and the information soon surged into my mind. Being a skill with no levels, I received a lot of information, although sadly not all of it, which was honestly frustrating. Effectively, this would force me to repurchase the skill solely to deconstruct it again, as I couldn't level it up to gain more information.
+
+Well, skill points aren't really an issue right now, although it still leaves a bitter taste in my mouth. I'll spend a maximum of two points and call it a day, unless I absolutely hit a roadblock that I can't get past.
+
+I spent some time examining the information, and once I had a good idea of what I had and what was missing, I repurchased and dismantled it again. With the gaps filled, I had a much clearer blueprint and parts to work with, although I noticed a distinct lack of information regarding the system interface.
+
+You've got to be kidding me! Ugh… I did say I'll spend up to two points, but this feels blatant.
+
+Grumbling to myself, I bought and took it apart again, hopefully for the final time. It seemed like there were still some components missing, much to my annoyance, but I had finally received information on the interface, and just like with the parts I used to create [Map], there was this inexplicable wrongness to it.
+
+That 'eldritch' word Leon used was very appropriate. I wonder why using the system interface in magic feels so taboo? I mean, I'm just making a box to read from, is that really so bad?
+
+As always, my questions went unanswered, which was frustrating. Mother and Unc had no issue dropping quests on Vee or me, so why wasn't Gramps willing to do it?
+
+You know… Quests come from the adventurer tags too… Should I take apart Sylvain's tag to see if it has anything I can steal? Maybe I could use the quest thing to send a message straight to Gramps? Or is that absurd?
+
+I was tempted. Very tempted. But what ultimately stopped me was my current project and the little Vee in my head teasing me about everything I got distracted by.
+
+I'll add it to my to-do list…
+
+Thanks to what I'd gleaned from three [Equipment Swaps], I had what I needed to start working. There was the whole dimensional storage aspect to it too, which I definitely wanted to look into, but I needed to finish what I started first.
+
+I'd never done this before, so even though I had all the blueprints and parts I needed, it still took me a few days to complete. The first prototype was just a scrollable list of all the landmarks I had discovered, but the next iteration actually included a search function! I was delighted and bragged about it to both Vee and Leon.
+
+"You spent almost a week making a listbox that does a simple database lookup?" Leon asked.
+
+"Uh… Yes?" I replied, not understanding the exact words he was using, but grasping the gist of what he was saying.
+
+Leon sighed and shook his head. I wasn't sure why, but he seemed almost disappointed in me. Why? I had made a groundbreaking discovery!
+
+I'd like to see you do better!
+
+Later, he apologized to me, though I sensed he had been instructed by Vee to do so. No doubt she had felt my simmering rage leaking through our bond and advised him to put out the fire before the bridge was burned.
+
+I unofficially called this new spell [Landmarks], since the system hadn't prompted me to name it. Even if the system didn't recognize it, my [Sub-Cores] did, and I could simply command them to cast it by name, and they would.
+
+That only left the final stage to call this a resounding success. I needed the coordinates of these landmarks so I could teleport. Considering these locations were recognized by the system itself, I felt like this was inevitable. The best part was that if the coordinates were tied to the landmark rather than the location each time I used it, then I could teleport to Glimmerock even though it was drifting and changing.
+
+My excitement and anticipation were at an all-time high, and I went into full hermit mode. Other than Sylvain and Sylbera, I had recalled all of the [Sub-Cores] for this final stage of development. It was all tentacles on deck, and failure was not an option!
+
+To my pleasant surprise, [Equipment Swap] had actually filled in some gaps in the coordinate storage function for [Triangulate]. Despite leveling it up numerous times and subsequently taking it apart, I had never received even a fragment of its function, which was why it had slipped my mind that it even had an interface.
+
+Yes, the coordinate storage feature had a very minor interface that let you select, replace, and even name the coordinates you saved. Evidently, [Skill Deconstruct] only provided information about system interfaces when nothing else remained, but now, thanks to [Equipment Swap], I have some gaps unexpectedly filled.
+
+I have to admit, those two points I spent were well worth it then. Just like how every elemental magic I pulled apart came together, I suppose every skill that has some form of interaction with the system interface is somehow linked.
+
+Feeling much better about that, we started piecing together a rudimentary function. [Triangulate] could both fetch and save, but we only needed the former, and after plenty of trials, tribulations, and spectacular failures, we finally brute-forced a crude recreation.
+
+Looking at it after the fact, it was effectively an alternate version of [Position], touching on aspects the original couldn't. I could cast it on a location to get coordinates, and I could cast it on my list inside [Triangulate] to get what I had saved.
+
+Now comes the hard part. Getting it to work with [Landmarks].
+
+I didn't exactly need to combine the two spells per se; in fact, if I could simply cast the fetch spell on the list provided by [Landmarks], that would probably be enough. However, my expectations differed from what actually occurred, and it seemed that if I didn't link them together, the one couldn't properly see the other to fetch the coordinates.
+
+Sighing that the easy solution didn't work, I buckled down with my helpers, trying to tie the two constructs together. The hope was that even a loose connection would be enough to have them properly see each other.
+
+The initial interactions between the two were, to say the least, strange. In some cases, the two seemed to mesh, as if made for one another, and in others, they mixed as well as oil and water. My hope was once again dashed as even subtle connections were not enough for them to properly interact in the way I had hoped.
+
+I think the issue is that I don't actually have the coordinates for these landmarks, so just fetching from the surface isn't enough; they need to be more entwined.
+
+When I expressed my woes to Vee one day while taking a break, she asked me if I wasn't trying to do the impossible. It was a legitimate concern, but for some inexplicable reason, I felt compelled that I was on the right track. Yes, the coordinates weren't on the surface level, but they had to exist a little deeper. I just needed to combine the two correctly.
+
+Vee gave up trying to persuade me and simply wished me good luck. No doubt she was fully aware that she couldn't persuade me on this matter, and that I would continue until I succeeded or failed.

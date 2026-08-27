@@ -1,0 +1,217 @@
+---
+id: 3e41d3ec-eba5-5363-a495-5db72a8f2fd5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 338 : Arthropod Showdown"
+slug: 0039-chapter-338-arthropod-showdown
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 39
+ownLength: 2498
+unit: words
+ownProgress: 2498
+publishedAt: 2026-01-16
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2947744/chapter-338-arthropod-showdown"
+royalRoadId: "2947744"
+markedReadAt: "2026-06-29T19:43:06.074Z"
+---
+
+Unbeknownst to Leon, while Vee had jumped off the web, she had remained connected to it through her spinneret. While she didn't need to do this to accomplish the impressive reversal she had just performed, her actual goal was to take a page from Syl.
+
+By remaining connected with the web, especially through a spinneret, she could exert far greater control over it—something she had been taught during her time with the spider queen.
+
+After she had constructed the portal, she had begun sending out guiding lines of [Rift Thread] to surround the volcano fortress in the skeleton framework of a pyramid. While Vee had been producing and storing [Rift Thread] over time, inspired by Syl's ludicrous slime storage, she was nowhere close to having enough for more than these four threads—after all, she had to enclose a volcano here!
+
+However, creating a net wasn't her objective; instead, she just needed to make a dimensional boundary to improve her control over [Dimension Magic] in the region. Again, this was inspired by her original fight with Syl, where the slime had created a slimy hell by surrounding everything. Not only that, but Vee had been experimenting with the space inside the [Rift Door] and discovering the correlation between it and her [Rift Thread].
+
+While her own personal dimensional rift would always be far more impressive, by creating this pseudo-domain, she could replicate a portion of these effects. By making [Dimension Magic] easier to work with and combining it with her [Mana Shaping] adaptability, Vee could reach a whole new level of power.
+
+Although that lofty idea was feasible, her actual reason for creating this dimensional boundary was to achieve cost-saving effects. Yes, compared to Syl, Vee's Mana capacity was simply "good". Sure, she had more Mana than the average archmage, but compared to the living embodiment of Mana, she couldn't help but feel she came up short.
+
+Well, it's not like I wanted to be some grand wizard anyway. Being a teleporting assassin with dimensional traps sounds way more up my alley.
+
+As for how Vee returned the barrage of bullets, she had a large "shield" held out in front of her. This was a large portal that was paired up with the web she anchored in the sky, meaning that she could redirect anything sent her way right back at them.
+
+As Vee rapidly approached the volcano through her bungee-jumping, the attacks against her were escalating even further. Instead of cannonballs, strange contraptions and items were being fired out as if they were literally throwing shit at the wall to see what would stick.
+
+Unfortunately for them, everything had just been returned, causing untold devastation to the volcano fortress. Vee was delighted, as she wanted to get Syl to demolish this entire eyesore and have it become the foundation for planting the diamond acorn and growing their treehome.
+
+Vee couldn't help but snicker, feeling like she had obtained victory in the bag now. All she needed to do was land in the volcano and begin taking out whoever lived inside the fortress. That was when a siren like no other blared out, and the entire volcano began to tremble.
+
+Vee's immediate thought was that the volcano was going to erupt, but that idea fell flat when she heard what sounded like a series of explosions going off. The chain of explosions intensified, with the entire island beginning to shake, and she had a sense of what was happening.
+
+Does this bloody fortress have a self-destruct feature!?
+
+Vee was momentarily horrified, but that horror soon gave way to anger. This island was perfect, and if the detonation was large enough, then it would be ruined! While she had found some other decent islands, this one had both size and safety on its side. Unless someone could brave the deep ocean or teleport, they would be hard-pressed to reach it.
+
+I won't let you destroy it!
+
+Vee was thrilled that she had created this dimensional boundary, as she would not have had the Mana to do this otherwise. She first teleported straight back up to the web and then began to cast the most significant [Expansion] spell of her life.
+
+Her idea was simple: expand the space enough to contain the full radius of the blast and leave the island mostly unharmed. She channeled the spell through her [Rift Threads] and dumped endless amounts of Mana into it. Her [Spatial Sense] was going ballistic as she felt the area contained in the thread pyramid being rapidly expanded.
+
+The volcano exploded, but from Vee's normal perspective, it was almost as if it were occurring in slow motion due to the expanded space it needed to travel. Vee had the sudden urge to scold Syl, as the damn slime loved explosions like this and would no doubt be celebrating.
+
+That was when Vee saw a strange object being ejected from the side of the volcano at breakneck speeds, further evidence that the enemy had attempted to use the explosion to secretly retreat. Unfortunately for them, while their speed was terrific, the distance they were traveling was atrocious.
+
+You're not getting away that easily!
+
+At this point, Vee had the mental capacity to spare, since all she needed to do was upkeep the spell by fueling it with Mana. She drank one of Syl's Mana potions, just in case, and began using [Thread Mastery] to make a net to catch the escaping enemy.
+
+Although with [Rift Thread], your escape will turn you into sashimi!
+
+Vee watched from the safety of her perch as the volcano fortress continued its epic explosion. To her relief, it seemed her efforts to contain it were not going to be in vain as she oversaw its actual progress through [Spatial Sense].
+
+At the same time, the escaping enemy had reached her trap, and she was just waiting for the victory notification to pop up, but the rocketing object actually struck the web and was somehow caught in it.
+
+Vee stared in shock and awe. Nothing had ever survived being cut apart by [Rift Thread], unless it was another [Rift Thread].
+
+Is that made out of dimensional materials or something? Vee pondered, as it was the only reasonable explanation.
+
+Thankfully, despite it not being cut apart, it had also not managed to escape the web. In fact, its hasty escape and desperate struggles had only caused it to become even more entangled in the web. It went without saying that if Vee's [Rift Thread] couldn't cut it apart, then it likewise couldn't break her web.
+
+Let's take a look at what we are dealing with.
+
+Vee teleported over, gazing at the strange object stuck she had trapped. From what she could tell, it looked almost like a shell of some sort, except it appeared to be made out of some strange, pearlescent colored substance. Vee threw out an [Identify] and was shocked by what was revealed.
+
+<Leon [Ocean Scourge]; Bulwark Builder Crab LV 17; Bastionwright LV 31; Novice Artificer LV 6.>
+
+What the…?
+
+<Quest completed!>
+
+<Trait [Telepathy (Arthropod)] acquired.>
+
+What!?
+
+***
+
+When Vee had first arrived on the island, Unc had quickly learned that she had located Leon. Eager to share the news, he had rushed off to contact both Gramps and Mother; finally, his [Experiment] would be joining the group!
+
+When Unc had originally given Vee that quest, Leon was doing alright, but around the time of Syl's evolution, things had taken a turn for the worse. That was when he began using his limited authority to update the quest to "urgent".
+
+As time went on, Unc grew increasingly worried and used what little resources he had to keep updating the quest. Syl and Vee were trying, but he was stuck with what little he had left to work with, so he couldn't give them more guidance—he was spent!
+
+Much to his relief, however, Leon managed to eventually escape from the mermen, and while they were still a looming threat, it was no longer dire. Yes, he was stuck on an island, but he was mainly safe and having fun building his fortress.
+
+Now he would first meet Vee, and together they would join up with Syl; together, they could get rid of those pesky mermen! They certainly deserved it after first trying to enslave him and then hunting him down and nearly killing him, if not for that chance dungeon encounter, poor Leon would be fish food!
+
+However, what actually happened, he still couldn't believe. Upon announcing it, he was promptly restrained to a chair and gagged. Unc was flabbergasted. He thought they were a team?
+
+"This should be interesting," Mother commented. "I can't wait to see how Vee has grown."
+
+"It will be interesting to see two [Experiments] fight one another. I'll get to see if this partnership is worth all the trouble," Gramps responded.
+
+Unc was horrified by what he heard. He wanted Leon to join the team, working together with the other two, and rack up accomplishments. But now, these two were apparently offering up his subject on a silver platter to let Vee grow?
+
+No, I must stop this! If I complete her quest, she will realize what's going on.
+
+That was when Unc realized his access had been temporarily suppressed. He couldn't believe it. Even though they weren't officially friends, he thought he was closer to these two than this, but now he felt like he had a knife plunged into his back.
+
+"Looks like it's starting," Gramps said, pointing to the projection.
+
+"Interesting, it looks like Vee cannot teleport into the vicinity," Mother commented, and pulled up a screen of her own. "There's a dungeon on the island?"
+
+Gramps shook his head. "There isn't, however, it looks like the crab has incorporated dungeon materials into its shell. "
+
+"It could do that?" Mother replied, shocked.
+
+"I created a new experimental evolution using a few of our other branches. Effectively, he can collect resources to upgrade his shell, which can provide unique benefits. The teleportation dampening effect is due to the dungeon bricks he pilfered."
+
+Mother sighed and shook her head. "How did you even come up with that idea…"
+
+Gramps merely chuckled; he always found inspiration in the strangest of places.
+
+As they watched the battle, they were both quite surprised. Vee's performance was impressive, but the odd things Leon was doing baffled them. Initially, they were focused solely on Vee, but now they were forced to pull up some of Leon's information.
+
+"He has a class?" Gramps asked in surprise.
+
+"I believe that's a profession, although it looks like it's taken a hybrid branch route. It should have originated from either a mason or an architect?" Mother replied.
+
+"Odd… How did he even get a profession?" Gramps replied, glancing at Unc.
+
+Unc shifted in his chair while making incomprehensible noises. Gramps sighed and removed the gag, hoping for an explanation.
+
+"Y-you two! Don't you dare kill him!" Unc cried out.
+
+"Kill him?" Mother asked, tilting her head. "I just didn't want you ruining the performance."
+
+Gramps nodded. "It would be a shame to let this go by. It's not often we get to see a fight between two [Experiments]."
+
+Unc blinked in surprise. "Do you p-promise?"
+
+"Yes, yes," Mother replied, waving her hand dismissively. "Now, why does he have a profession?"
+
+Unc sighed with relief. "I-I gave it to him through an achievement."
+
+"Achievements?" Gramps repeated, frowning. "Do we even still have that old system in place? I thought we scrapped it decades ago."
+
+Mother nodded in agreement.
+
+"I asked for a favor… I didn't want Leon falling behind," Unc explained. "And he couldn't get q-quests, so an achievement was the only solution."
+
+"I see… To think the fortress system would actually be used by a monster. If the humans found out, they would be devastated," Mother chuckled.
+
+"It's a good synergy with the evolution I created. It explains why the fortress has such creations; he must have built them on his shell before donating them to the fortress," Gramps postulated.
+
+"Y-yes, he did something like that," Unc answered.
+
+"Okay, that explains the fortress," Gramps said, tapping the projected screen. "But why does he have two professions?"
+
+"Not just two," Mother added. "The second one is still in beta testing."
+
+"A beta profession!?" Gramps yelled in surprise and attempted to pull up the relevant info.
+
+"Yes, we haven't officially revealed the artificer profession to the world yet," Mother explained. "I only recognized the name because I provided some resources for it from the enchanting system."
+
+"How? Explain!" Gramps demanded, pointing at Unc.
+
+"I… P-pulled a few strings," Unc answered.
+
+"This is a lot more than a few strings," Mother refuted. "Not only is it a beta profession, but he has two active slots!"
+
+"Not even Syl has her second slot unlocked yet," Gramps nodded.
+
+"W-well…" Unc stammered.
+
+"Yes?" Gramps and Mother asked, expectantly.
+
+Unc sighed and tried to sit up straight. "Well. Unlike you two, I actually have f-friends!"
+
+Gramps and Mother blinked in surprise, even glancing at each other to share in the shock.
+
+"Y-yes. I have friends! And we traded some favors and some helping hands, because that's what friends do! If you two w-weren't always cooped up, maybe the others would do nice things as well!"
+
+"I have friends!" Mother insisted.
+
+Gramps snorted. "Aren't those just your apprentices?"
+
+"Says the old man whose closest friend is his own slime experiment!" Mother snapped back.
+
+"Bah! Who needs 'em? They just get in the way of progress," Gramps grumbled in response.
+
+"S-see! This is why nobody helps you two!" Unc cried out.
+
+The two shared another awkward glance; even Gramps, who didn't care about friends, couldn't refute that fact. Even this very "alliance" was formed through bribes and tricks.
+
+The two sat uncomfortably as they continued watching the display, although with much less enthusiasm now. Mother, of course, was excited by the display of Vee's progress in [Dimension Magic]. Still, after Leon activated the self-destruct feature of his volcano fortress lair, the show was almost over.
+
+"Well, you'd better complete her quest," Mother pointed out.
+
+Unc flinched. "Huh?"
+
+"Unless you actually do want her to kill him? I won't say no to a lot of experience, Vee certainly needs all she can get for her next evolution."
+
+"Ah!" Unc cried out, and with a mere thought brought up his own screen and completed the quest.
+
+"[Telepathy (Arthropod)]?" Mother asked, confused by the reward.
+
+"So they can talk without Syl!" Unc explained.
+
+Gramps, however, was frowning. "Who the hell made such a derivative, useless trait!?"
+
+"I—" Unc tried to explain.
+
+"Another bloody favor?" Gramps interrupted. "We already have telepathy traits! Why make such a pointless and inferior version?"
+
+"A small one… I couldn't afford anything better," Unc answered, shrinking in his chair.
+
+Mother sighed. "You should have asked me for some resources, since she is my subject. But… what's done is done, now we can only see what happens next."

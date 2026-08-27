@@ -1,0 +1,125 @@
+---
+id: a2b5f9f5-2647-5332-b4b2-af2c578d8380
+page-type-slug: story-chapter-royal-road
+title: "Chapter 316 : Peggy"
+slug: 0017-chapter-316-peggy
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 17
+ownLength: 1881
+unit: words
+ownProgress: 1881
+publishedAt: 2025-11-21
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2779503/chapter-316-peggy"
+royalRoadId: "2779503"
+markedReadAt: "2026-06-29T19:42:21.919Z"
+---
+
+The docks were jam-packed with workers carrying shipments back and forth. A large portion was dedicated to the fishermen, who came with all sorts of aquatic goodies from the bountiful ocean. The rest appeared to be various imports that couldn't be acquired here and judging by my quick perusal it seemed to be mostly textiles.
+
+It didn't take me long to find my destination and locate the dockmaster I was supposed to report to. Judging by how overworked and stressed he looked, I was expecting him to be an asshole, but to the contrary, he was delighted by my presence.
+
+"Thank the gods for another decent mage under our belt!" he cried out with joy.
+
+I hadn't thought mages were too rare, so I was a little confused by how delighted he was. Even disregarding Sylvain's combination of hydromancer and aeromancer, surely they could find someone to at least cast a few spells for them?
+
+While the dockmaster was scheduling my assignment to one of the supply ships, I found out the reason for his glee. Low-level mages barely made a difference as they either lacked the strength or the Mana capacity to make a difference. Then, once they reached a high enough level, they no longer wanted to do this kind of grunt work, as it was beneath them.
+
+Frankly, I can't blame them. I'm also rapidly feeling like this is beneath me. I won't even have Vee to keep me company…
+
+My hope was that if I did a good enough job, I could be fast-tracked to more important roles, so I was planning on giving it my all.
+
+During our wait I had the captain of the boat approach me to gauge my skill, and asked me to perform a few simple air spells. [Gust] was the bread and butter of this type of operation, but I had access to [Aerokinesis] and could cast far more spells than the average person. Needless to say, I left him so impressed his jaw almost hit the floor.
+
+Once the supply boat was loaded, I boarded it with the captain and two other people. They were going to be swapping out duty with some of the other people aboard the floating outpost.
+
+The sails were drawn, mooring lines released, the anchor lifted, and we began our departure. I waited for the captain's signal and then began casting my air spells into the sail.
+
+The captain was delighted by the speed, but I felt like I could do more. We were losing a lot of our momentum thanks to the choppy waters, so using my water-aligned cores I also began utilizing [Hydrokinesis] around us.
+
+Rather than fighting against the tides, I wanted to create my own to help us, and I had more than enough magical strength to do so. The captain immediately noticed that something was different and confronted me.
+
+I admitted my intentions, and while the captain was initially happy, he grew concerned that I was going to drain myself dry before we even reached the outpost. I laughed at it and even offered him a wager on whether I'd last or not, allowing my Sylvain persona to boast arrogantly until he agreed to it almost out of spite.
+
+"You should make your next persona a Riftmancer, so if we need to do transportation again, you can just teleport stuff. Imagine how much time we would save," Vee suggested after she grew bored of enjoying the sea breeze.
+
+"Well, I need to unlock it first… That might also be painting a giant target on my back. Maybe past-me was just unlucky, but I was poisoned for my dimensional affinity," I replied telepathically.
+
+"True… Well, you can always create a throwaway persona to test the waters. If it doesn't work out, we teleport away and never do it again."
+
+I gave a non-committal agreement to the idea, as even though it was a decent idea, I didn't really want to draw that much attention to my future personas. While Sylvain and Sylvester weren't nobodies, they wouldn't have assassins and plots sent against them like Syl the elf.
+
+As time continued with no sign of the boat slowing down, I watched as the captain's face grew grim. I could only presume he was realizing that I wasn't lying about my massive Mana reserves and he'd be losing out on some coin.
+
+I'd let him keep it and play it off as a joke, but Sylvain would never give away free money.
+
+Eventually, in the distance, I saw our destination, the massive floating fortress of a boat called "Peggy". I had asked why it had such a weird name, and the answer was "all boats are women" from the captain. Vee agreed with him, so I decided to ignore it and just accept it.
+
+Judging by how far away I could see Peggy, I knew she was massive, but when we got within range, I realized how much I had underestimated the floating fortress. It was like a small town, fortified with some wide-scale enchantments on its structure.
+
+I followed the captain's orders and slowed us down so that when we arrived, it was like our small ship was enveloped in a soft and gentle embrace by Peggy. Ours wasn't the only boat attached, which made me realize how true the words of each floating outpost being its own little hub were.
+
+The crew immediately began securing our boat to the fortress before dropping ladders and pulleys down to us. The passengers thanked me for such a speedy and smooth ride before climbing aboard the Peggy. The captain also thanked me before reluctantly handing over our wager.
+
+"We can always go double or nothing for the return trip," I said with a smirk, but the captain quickly shook his head and told me to start climbing.
+
+When we arrived aboard Peggy, we were greeted by an old bear of a man with a grizzled beard who seemed both perplexed and delighted by our arrival.
+
+"Captain Smithers, you're here ahead of schedule!" he hollered.
+
+"Admiral Nathaniel," the captain replied, giving a quick salute. "The credit for our timely arrival goes to Sylvain here from the Adventurer's Guild."
+
+"Hello, Admiral," I replied, giving a poor but friendly attempt at a salute.
+
+"Good gods man, what are you doing on boat duty?" the admiral asked.
+
+"Provisional silver until I get my feet wet," I replied.
+
+"Idiotic rules," the admiral grumbled. "And they wonder why any half-decent spellcaster leaves us as soon as possible."
+
+"Sounds like Sylvain needs to befriend this admiral for an easy career track," Vee chimed in.
+
+I silently agreed, not wanting to interrupt my performance by talking to her.
+
+"Well, if you can keep it exciting for me, maybe I won't become one of the runners," I chuckled.
+
+"Please don't talk about breaking the rules right in front of me," Captain Smithers groaned. "Unlike you I have to go back to Saltport and deal with the consequences."
+
+"Smithers is right," the admiral said with a nod. "How about we walk and talk? I can give you a tour of Ol' Peggy here at the same time."
+
+"Sounds good to me!" I quickly agreed.
+
+The captain groaned, but he was smiling as he shook his head. Evidently, he didn't really mind as long as he wasn't liable as a witness.
+
+Admiral Nathaniel and I shared some pleasantries and introduced ourselves. I gave him the quick rundown of Sylvain's backstory while expressing my interests in exploration, combat, and treasure. This time I avoided mentioning my desire to fight mermen, since it had previously backfired.
+
+The obvious "why didn't you join the guild sooner" question came up, to which I gave an encore performance of my stealing money rant. Unlike Ethan who was pained by my story, Nathaniel roared with laughter at it and even admitted he had similar opinions.
+
+"That's why I never joined the guild when I was younger," he admitted. "That and the whole metal adventurer ranks sounded like hogwash. At least here you know you go from lieutenant to commander to captain to admiral."
+
+I actually agreed with his opinion on the ranks, as now that I had [Metal Slime], I could not understand why silver and gold were above iron and bronze. Sure, I knew they had more monetary value, but why would that matter for adventurers? It should've been based on strength, and that was ignoring that diamond wasn't even a metal!
+
+The tour of Peggy was also intriguing, as it became rapidly apparent how it was literally its own little town floating on the ocean. It had pretty much everything you could've asked for, and the residents didn't seem unhappy with their time, given the healthy mix of combat and civilian personnel. I even spotted a few children aboard, and assumed whole families would live out here.
+
+As for my talk with the admiral about missions, he seemed eager to find a better use for me. He reluctantly admitted that I would still need to do another trip or two, and probably at least one patrol in the shallow waters, but after that, I could request to be stationed here, and he'd have the authority to make better use of me.
+
+He even tried to sweeten the deal by showing and offering me some rather luxurious personal quarters that were usually assigned for captains, fellow admirals, or visiting nobles. I feigned appreciation for the offer, as it seemed something Sylvain would be impressed by.
+
+When the tour was nearing its end, Vee grabbed my attention.
+
+"I think I'm going to start scouting around."
+
+"Are you sure?" I quickly asked telepathically.
+
+"Yeah, you've seen one ship, you've seen them all. Since I assume you'll be going back to Saltport I'll meet you back in our room tonight. If you start to live on Peggy, we will probably need to find a safe location for me to teleport to first and then I can use [Veil Step] to reach your room."
+
+"Alright. Be careful."
+
+"Aye aye captain!" Vee chirped, before I watched her slowly fade away. I felt her rapidly moving away through the bond until she was just a minor blip in the back of my mind.
+
+I wish I could have given her a [Sub-Core] to protect her or something. Maybe when [Core Collective] hits ten?
+
+Despite losing an entire spider from my hat, nobody seemed to notice, and the admiral never lost even a single beat from his conversation. I could only hope the hat's subtle protection would also work if Vee ever decided to make a surprise return to her spot.
+
+The admiral then invited me and the captain for lunch, and I couldn't help but laugh at Vee, who had just left before a small feast. Then again, it spared me from testing the limits of trying to feed my hat during a conversation, or explaining why food was magically disappearing if Vee was teleporting it.
+
+I guess we can also treat this as a sort of competition between us. Who will win: Vee with her brute-force exploration by warping around, or me with the planned-out infiltration? Unless Vee gets really lucky, I think my idea is better, but I suppose we will have to see.

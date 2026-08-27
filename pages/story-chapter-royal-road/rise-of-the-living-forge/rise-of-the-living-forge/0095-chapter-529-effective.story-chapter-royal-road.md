@@ -1,0 +1,163 @@
+---
+id: 546cfc48-f1b4-568e-ac07-4211ac3263fb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 529: Effective"
+slug: 0095-chapter-529-effective
+partOf: rise-of-the-living-forge
+position: 95
+ownLength: 2251
+unit: words
+ownProgress: 2251
+publishedAt: 2025-12-10
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2836041/chapter-529-effective"
+royalRoadId: "2836041"
+markedReadAt: "2026-06-29T20:01:28.402Z"
+---
+
+The dwarves were taking longer than Art had expected.
+
+That wasn’t really too big of a problem. The mercenaries were certainly skilled, there was no doubt about that. But the Blacktongues clearly hadn’t expected an enormous amount of resistance. Compared to the teams Art had gone up against in the Proving Grounds… well, the mercenaries weren’t exactly at the same level.
+
+The only reason the fight hadn’t ended already was because of their sheer numbers. Twelve against four was a tough fight in almost any situation. Art could have ended the fight fairly easily. It would have been a simple matter if he called Maeve and Vanessa to join them.
+
+But doing that would also completely ruin the entire plan. If the Dwarves weren’t the ones that dealt with the Blacktongues, the Menagerie would end up taking all the blame for the fall of the mercenaries and tensions between them and the Blacktongues would increase further.
+
+Art wouldn’t have said he was scared of that outcome. It was just annoying. Everything would be far more convenient if the Dwarves just wiped the Blacktongues out for him. There was never a reason to deal with a problem on your own when someone else could be convinced to do it for you.
+
+A hand of black magic stretched out toward him. Art idly flicked a card toward the ground, trapping the magic well before it could get close to reaching him. He could have sent it back nearly instantly, killing the mage that had been bothering him the whole fight, but that would turn the scales too heavily. They needed to keep the numbers advantage on the mercenaries’ side.
+
+Instead, Art sent the hand tearing back out of the card and toward the black-plumed spokesperson, who Elias had just tossed across the ground like a ragdoll. The man was midway through rising back to his feet when his own ally’s magic caught him in the side.
+
+His armor rippled. The man let out a grunt as he was launched off his feet and sent crashing into a nearby building, but the enchantments in his equipment had absorbed the vast majority of the attack’s damage.
+
+Art quickly scanned his surroundings. He couldn’t let himself get complacent. Reya had squared off against two men and had her back to the wall. Vix was dancing circles around four of them. Art had managed to draw the attention of two, though he’d accidentally knocked one of them unconscious by reflecting one of the mage’s attacks into a gap in his armor.
+
+The mage in question was still flinging magic in Art’s direction, trying to figure out how to get past his defenses. They were a fairly powerful caster. Art was pretty sure that their magic would have done some serious damage if it ever managed to touch him… but their training was just insufficient.
+
+So long as the mage was focused on Art, they wouldn’t be a threat. The rest of the merceneries had all surrounded Elias. That wouldn’t help them. His bandages whipped around him in a raging storm as he shifted through their ranks like a tornado.
+
+Not a single one of them had a chance of even cutting him. Elias was a menace. He probably could have dealt with the entire troupe himself if he had to — but that would have defeated the point.
+
+Nobody seemed to be at risk yet. But that could all change in an instant. Art’s grip tightened on his crutch.
+
+Reya and Vix will die to a lucky blow just like anyone else. I’m no different. The moment I get lax and stop paying attention, someone could get killed. I need to be ready. But Godspit, where are the Dwarves? They should have gotten here by now. Are they planning to just sit back and watch, then take the loot off the winner?
+
+One of the men that had been fighting Elias screamed as he sailed through the air. He crashed into the wall a few feet away from Art, sending a spray of debris flying through the air. The man scrambled to his feet, eyes wild beneath his helmet as they locked onto Art.
+
+Then, with a roar, he charged. Crackles of lightning arced across his body as the man accelerated into a yellow-gold streak, bringing his blade carving down toward Art’s shoulder.
+
+Something dark flashed in front of Art. A loud crunch echoed out through the square. The magic-cloaked man spun to the side. He bounced twice against the ground before driving into another wall with such force that his body embedded itself halfway into it.
+
+There was something embedded in his back.
+
+A hammer. Formed of pitch black metal with glimmering silver trimming, the huge weapon had torn through the mercenary’s enchanted armor like it had been made out of tinfoil.
+
+There was a crunch as the hammer tore itself free of his body and hurtled back through the air. It flew to meet a heavily armored figure that emerged from the shadow of the alley at Art’s side, slamming home into their palms with a ringing clang.
+
+The figure’s armor was made out of the same black metal as the hammer, rough and craggy with silver trimming. Not a single inch of their skin was visible. Everything was covered by a complex pattern of interlocking plates that moved as easily as a river as the figure walked soundlessly forward.
+
+Art hid a smile.
+
+Finally.
+
+Another man screamed as Elias hurled him across the square — coincidentally sending him right for the newcomer.
+
+The hammer flashed. There was a wet crunch as it obliterated the mercenary’s skull and sent the rest of his body reeling past the dwarf harmlessly.
+
+“There’s a third party!” one of the mercenaries screamed.
+
+You can’t possibly be surprised about that. You’ve made enough noise to draw down half the damn city. If I hadn’t told my father to make sure our guard stayed far away from this area tonight, there’d be ten different parties here by now.
+
+Another dwarf stepped out from the shadows. They wore identical armor to the first dwarf but bore a wicked looking two-headed glaive rather than a hammer. Art could feel the magic practically pouring out of both dwarves.
+
+These weren’t amateurs.
+
+They also weren’t the kind of troops one sent for a peaceful mission.
+
+The hammer-wielding dwarf blurred. He closed the distance between himself and the mercenaries fighting Vix. One of them managed to raise his sword defensively before himself. He may as well have hid behind a wet tissue.
+
+His sword shattered as the dwarf’s hammer continued right through it, pulping his skull like an orange. The dwarf spun, sending the man spinning to the side and using his momentum to send his hammer crashing right into the second mercenary.
+
+The dwarf with the glaive vanished.
+
+He re-formed beside Reya, the end of his dual-headed weapon impaling one of the mercenaries through the heart. The other one fell an instant later.
+
+But the dwarves were far from done. They bore down on the mercenaries, tearing through the men like starved predators. The mage turned in attempt to run, but the glaive-wielding dwarf carved the man apart before he’d managed to take two steps toward freedom.
+
+Art’s eyes narrowed.
+
+They’re too aggressive. Something is wrong. They should have stalled the fight out to try and bargain with us for help, not immediately started murdering the mercenaries. Not when they’re this much stronger than them.
+
+Shit. Are they planning to just kill all of us? If they think we’re weak enough, they may not care about the consequences and only want the loot from the vault without having to waste money or time getting it.
+
+We need to make sure it never gets there. The moment they attack us, there won’t be any plausible deniability left and they’ll have basically no choice but to keep fighting. I can’t let it get to that point. I have to make the first move.
+
+The last of the mercenaries fell as he tried to run for his life, the dwarf’s dual-headed glaive impaled through his skull.
+
+“Color me surprised,” Art called, walking right toward the hammer-wielding dwarf without letting a flicker of concern enter his voice. “I’m starting to get the feeling that a few too many people got a wind of our recent windfall. You’ve got good timing. The help wasn’t needed, but we appreciate it nonetheless. That’s more than enough to get you the first look during our upcoming auction.”
+
+The dwarves watched Art silently. Not one of them said a word, but he could practically feel their attention slip from him to the bag of trash in Vix’s hands.
+
+Yeah. This definitely isn’t a group sent to negotiate a better deal. They’re executioners.
+
+Art’s lips thinned. The mercenaries had died at the hands of the dwarves. He’d accomplished half of his goal, but if he now had to find a way to kill the dwarves, then he’d need to find a way to make it look like the mercenaries the Blacktongues had hired were far stronger than they had been.
+
+What a huge bother. But I can’t risk anyone getting hurt. I suppose we’ve got no choice. We can’t play with these guys like we did with the mercenaries. They’re too dangerous.
+
+Art was about to draw a card when an elderly woman’s voice cut through the sudden silence hanging over the street.
+
+“Well done.”
+
+Surprise passed through the stance of both armored dwarves. They turned to an alley. Art’s eyes widened as he did the same.
+
+Out from the shadows stepped Indrana. The old dwarf councilwoman had actually made an appearance. Here, of all places. Confusion exploded through Art’s thoughts.
+
+Why would Indrana leave the council? That makes no sense. She’s paranoid.
+
+“Councilwoman,” one of the dwarves said, sounding just as taken aback as Art felt. “What are you—”
+
+“Observing, of course,” Indrana replied. She walked across the square, stepping over the body of a dead mercenary before coming to a stop between Art and the other dwarves. “This is an important task. The Council is particularly interested in making sure everything goes smoothly.”
+
+“Of course, Councilwoman,” the dwarf said. He edged to the side, attention shifting back to the bag Vix had. “We—”
+
+“Are done,” Indrana said. She turned to look back at Art. “I trust we’ll be getting a healthy discount for our work?”
+
+“What?” the second armored dwarf tilted his head to the side. “But… I thought the mission was—”
+
+“Updated,” Indrana said sharply. “It seems the Menagerie was actually able to gather so much loot from the Vault that they had to send two delegations. The first one has already returned, has it not?”
+
+Art stared at her in confusion. He had absolutely no idea what Indrana was talking about. Perhaps someone had struck her over the head. This hadn’t been part of the plan, but it was exactly what he needed.
+
+The dwarves never would have believed such a claim if it came from him. It would have been clear bullshit. But coming from Indrana herself… that was perfect.
+
+“Yes,” Art said. The tone of Indrana’s voice had made it absolutely clear that the Dwarven Council had no plans of settling for just half of the loot. They wanted all of it — and that meant they couldn’t afford to attack the Menagerie and risk losing their access to the rest of it. “I’d ask how you know that, but it doesn’t matter. All of it will be up for sale in our soon to be completed auction house.”
+
+“And the discount?” Indrana pressed. “We don’t work for free, and it seemed your team was struggling.”
+
+“You’ll have it. We treat our allies well,” Art said after a moment. “But we’ll have to discuss terms.”
+
+“Of course,” Indrana said with a wry laugh. “Another time. We’ve drawn too much attention. These men were Blacktongue hired. You two — deal with the cleanup. Quickly.”
+
+The armored dwarves both bowed their heads. Then, without another word, they marched off into an alley.
+
+Art could barely believe their luck. The moment the Menagerie had the loot back on their home soil, there was basically no way the Council could steal it without an enormous fight.
+
+It took everything he had not to bust out laughing. Even with the influence they had over Indrana, he never would have thought that she’d betray the council to this degree.
+
+Indrana turned to look back at Art.
+
+The two of them were silent for a moment. Then a small crease formed in Art’s brow.
+
+Something was off.
+
+“That was impeccable timing. But… why are you here?” Art asked.
+
+“Why wouldn’t I be?” Indrana asked. “Well done, by the way. That was clean. Bit rough at the end, but nothing to complain about. You should be proud.”
+
+Art’s frown deepened. He took a step back. Indrana’s voice was wrong. It was deeper. Rougher than it should have been. That voice didn’t belong to her at all.
+
+The dwarf’s body rippled. What looked like a layer of shadows passed over her. She abruptly bulged, nearly doubling in height as her shoulders widened and features shifted.
+
+Standing before the Menagerie was no dwarf at all.
+
+“Would you look at that?” Rodrick asked, a wry grin sprawling across his lips. “I really do have to thank everyone for this new armor. Who could have guessed it would be so effective?”

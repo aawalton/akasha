@@ -1,0 +1,183 @@
+---
+id: 76558a54-f3fd-5fa6-a6cb-e01878ea7236
+page-type-slug: story-chapter-royal-road
+title: "Breaking and Entering, Pt. 1"
+slug: 0010-breaking-and-entering-pt-1
+partOf: new-gam3-plus
+position: 10
+ownLength: 2663
+unit: words
+publishedAt: 2023-10-31
+link: "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/1391044/breaking-and-entering-pt-1"
+royalRoadId: "1391044"
+---
+
+The minimap the battle map provided was invaluable, and the device itself had a small 360° camera, but the vast network the device connected to was what Alan really wanted to unlock. Phones, security cameras, satellites, and other battle maps were all feeding it real-time information. The UWG had to have a backdoor, and if he could piggyback onto that somehow he would no longer be in the dark. Unfortunately, any attempt to hack the device would be detected by Angel.
+
+At this point in time much of the network was actually down, and yet the map still painted a clear 3D broadcast of the surrounding neighborhood—highlighting occupied homes.
+
+When Alan had first entered the Game San Francisco had been almost a ghost town—the only busy area was a downtown mall. Maybe 1% of the real world population was in the digital city. In DC, however, he was seeing an occupant every five homes, far more people living in-game than before.
+
+It made sense, with the time dilation—four seconds in-game was only one in real life—and the collapse of economies outside the Game, everyone would want in.
+
+We are in a traditionally wealthy neighborhood as well, Nu noted. Far more people here can afford capsules, even with the dollar’s crash.
+
+The gunfire seemed to come from a few blocks away. Two forces had been identified—a band of a dozen thieves and a lone store owner firing back. There was a UWG patrol en route with a ten-minute ETA according to a notice from Angel, but their party would arrive at the scene first. They were authorized to kill the looters on sight.
+
+Bob took cover behind a wooden fence and beckoned Alan over with a finger. “Let me see the layout.”
+
+The projection of the battle map showed the fight occurring on Macarthur Blvd. Eight people were gathered around trucks at a gas station while across the street a squad of four bandits engaged with the lone holdout in an old movie theater that had been renovated into a gun store.
+
+They were southwest of the position. Cutting north through private property and up some stairs, they’d emerge near a few restaurants and shops on the same side of the road as the gas station, a block away from the bad guys.
+
+As the rest of the party gathered around the sound of much heavier gunfire filled the air, and then went silent after a barrage of return fire.
+
+“Holy shit, someone’s firing a machine gun,” Charlie said.
+
+The green, neutral figure on the map disappeared as four red silhouettes entered the movie theater. Once they entered they dimmed, as the battle map could no longer detect their movements inside the establishment.
+
+Eight enemies still sat in the open, loading up two pickup trucks and a large white van with gas and various goods.
+
+“Let me speak plainly since you folk won’t understand much lingo,” Bob said. “I’ll advance forward with Alan. We’ll take up firing positions here.” He pointed at the map, behind a few trees in the street. “Charlie will run down another block or two in an attempt to flank the looters if they retreat down the hill, while Isaiah and Ivy—you will stay back with the battle map and alert us if there are further developments or we need to retreat. Provide cover fire if they advance, but keep your safety the priority.”
+
+“What?” Isaiah said. “But I want to—“
+
+“You have a handgun, not a rifle, and have demonstrated piss poor aim. This will help,” Bob said. “These dumbasses are about to be caught with their pants down 'cause they don’t have a proper lookout, and I don’t trust this new tech.”
+
+Bob looked around, but as the battle map displayed, no one was there.
+
+“Sounds like a decent plan, though I was thinking more about how we would distribute kills and gear,” Alan said. “I can take apart a dozen armed soldiers by myself, but that’s only assuming these looters are undergeared and low level. Any of them might have psionic abilities or alien tech—though I doubt such people would be fighting it out in a suburban looting spree, you never know.”
+
+“Again, psionic abilities?” Ivy asked. “I looked online but—”
+
+“We don’t have time for 20 questions,” Alan said, pointing at the battle map. “The UWG squad is coming, while the looters are finishing up with the gas. If we can’t take them we back off and let the reinforcements handle it.”
+
+Bob looked down at an old watch. “Charlie, I’ll open fire three minutes from my mark. Mark.”
+
+Charlie, who glanced down at his own watch nodded, then began running down the block. Bob advanced up the street towards the stairs.
+
+Caught off-guard Alan hurriedly handed the battle map off to Isaiah. “Stay here and stay safe. Give me your phone, Isaiah. Ivy, text me if you run into issues or if there are any updates. If you fire or are fired upon, keep moving. As Bob said—your safety is a priority. I promise you both an equal share of the loot.”
+
+Ivy nodded while Isaiah sighed and handed his cell phone over. Alan pocketed it, checked his M4 rifle, and chased after Bob. He queried Nu about the time remaining.
+
+2 minutes 16 seconds, Nu sent.
+
+Having memorized the building layouts, Alan took a detour. He wouldn’t be where Bob wanted him, but that was what Bob got for charging ahead. Instead of running up the stairs, Alan climbed up a hill around the back of a restaurant. He brought a fire escape down and then began his ascent to the building’s rooftop.
+
+He’d have a bird’s eye view of the entire battlefield, able to keep track of both the looters and his squad.
+
+Alan tried to keep as quiet as possible, but with adrenaline pumping, it was hard to tell how much noise he was making.
+
+10 seconds, Nu updated.
+
+He wouldn’t make it to the top in time for the start of Bob’s mark, but that was fine. He’d be there a moment later, and all the combatants would be too focused to look up.
+
+Seconds later two submachine guns let loose. Alan arrived on the rooftop, peering over to get a better look at the gas station.
+
+The opening barrage had wiped out half the eight-man team at the gas station. While the others took cover and tried to return fire, Alan open-fired. Like he’d suspected no one was even looking up or had any idea where he was firing from.
+
+Barely 15 meters away, Alan didn’t miss and eliminated the looters with clinical accuracy. Two enemies were still moving on the ground, injured but not dead, which Alan remedied with two headshots.
+
+Messages popped up but went ignored.
+
+The dead thieves looked to be wearing civilian street clothes, though they did have matching dark orange arm bands—most had been carrying AK47s. Only two had any type of body armor.
+
+Charlie looked up at Alan, taking aim with his SMG. Alan dove down behind a vent on the roof, and yelled out, “Friendly! It’s me. Check the bodies and see if you can gather the loot. I’m especially interested if any of them dropped car keys—we could use one of those trucks.”
+
+Alan set party loot to shared—that meant anyone could take the drops of any of the other’s kills.
+
+Bob called out, “Do as he says! There are four more in the gun store and they sure as hell heard the racket.”
+
+After taking a glance to make sure Charlie wasn’t still aiming up at him, Alan turned in the direction of the old movie theater across the street. A head popped out by the entrance to check the noise.
+
+Alan fired—and missed. He swore. While designed for close combat, the carbine didn’t have the pinpoint precision of a sniper. Blaming a faulty round rather than poor aim, his position blown, Alan reloaded as he backed up so he was no longer in anyone’s line of sight.
+
+A loud explosion sounded off in the distance, but that was just background noise at this point. It was too far away to be relevant to this firefight.
+
+Bob was shooting, likely at the entrance to the gun store, keeping whoever was there pinned down while Charlie swept the gas station.
+
+Recalling the overhead layout, Alan moved down three more buildings. The rooftops were all right next to each other, the stores smashed together, so he didn’t even need to jump between them—just climb up or down.
+
+This time, Alan took a prone position on a flat rooftop that was next to a triangular roof that provided cover.
+
+Out of the corner of his eye, he saw movement—Ivy was advancing!
+
+Text received, Nu sent, connected to Isaiah’s phone. UWG reinforcements rerouted. There is a battle occurring at the Naval Observatory, near the Vice President’s residence. Ivy desires to experience a firefight firsthand and Angel requests we wrap up this conflict as soon as possible—Ivy accepts any and all harm that may befall her.
+
+Alan thought a moment. Send a reply in all caps to Isaiah to stay back and not follow.
+
+Sent.
+
+“Bob, Ivy is coming up behind you!” Alan said. “The UWG wants us to finish this fast, there’s another battle happening.”
+
+Bob swore. “They’re pinned down, but charging forward is suicide!”
+
+Alan contemplated his options. There were numerous emergency exits to the gun store, as it had been the MacArthur Theater. Maybe he could try going in through the back.
+
+Send a text to Isaiah, and stress that he needs to keep an eye on the exits of the buildings in case anyone makes a run for it, and to update us on the other battle, Alan sent. Try to help him estimate the power level of that fight.
+
+Sir yes sir, Nu sent. I will babysit the boy.
+
+The entrance of the gun store still looked like a theater. Two large, glass doorways with a ticket booth in the middle of it sat on the opposite end of the street, with a red VS sign above. Alan assumed that was the name of the store. A metal portico over the entranceway partially blocked his line of sight. Another three red doorways—likely emergency exits from the old theater—were located on the side of the building parallel to the gas station and stores.
+
+There was a flash of a muzzle, followed by a loud crackle coming from inside the building. Bob returned fire. Alan aimed at where he believed the shots to originate from, opening up with 3-round bursts. Recoil kept kicking his shots wide, but as he was shooting through concrete and wood it was all spray and pray. Charlie joined in, firing from the gas station with a new AK47.
+
+“They’re retreating!” Bob yelled. “Only saw two of ‘em, might’ve hit one. They were wearing heavy body armor and tactical gear.”
+
+“I’m going to head around to one of the back exits, see if I can maybe find another way in. Can’t get a good angle from up here,” Alan said. “Keep an eye on the entrance!”
+
+He took a moment to find a path to get off the roof. Two short jumps and a ledge drop got him back down to ground level.
+
+“Are we assaulting the store?” Ivy asked as she arrived, running up to Alan.
+
+“It’s risky but yes,” Alan said. “They’re probably higher level than the eight we wiped out by the gas station. Stay back, provide overwatch.”
+
+“You said to level to survive the fights to come—if I gain nothing from this fight won’t I be useless in the future?” Ivy asked.
+
+Alan paused and then nodded. “Fine. Follow me.”
+
+Shit. RUN, Nu sent.
+
+Without question Alan grabbed Ivy and dragged her behind a chest-high wall, ducking down. From one of the side exits a looming figure stepped out. They wore a suit of dark armor plates, and an energetic hum followed every movement. In their hands was a big fucking machine gun.
+
+As soon as the door opened Charlie was already lighting it up, but the bullets that struck were deflected with a shimmering glow. An energy shield—until its energy ran out every attack would simply drain the battery reserves.
+
+The armored figure fired back. A storm of bullets tore through the air, blasting through Charlie’s cover and eviscerating him.
+
+While this happened Bob fired off a few shots, but they were ineffective so he began sprinting away.
+
+The enemy turned towards Bob, unleashed a wave of bullets, and then started moving across to the gas station where Charlie had fallen.
+
+Alan had seen none of this—it was relayed to him by Nu through Isaiah. A few silent moments passed.
+
+Alan and Ivy stayed hidden. They didn’t have the firepower to take on this figure—it would likely take two dozen hits to even break the shield, and there wasn’t even a guarantee his M4 was capable of piercing the armor.
+
+The Game was meant to simulate real life warfare. All damage calculations were treated like they would be in reality—if a bullet couldn’t pierce a plate, it would do zero damage. High level equipment would have a shield total that would absorb damage and an armor score, which would be subtracted from incoming damage. However, even a C rank player might be killed by a point-blank headshot.
+
+Two more bandits exiting the gun store. They shouldn’t see you but if they start searching the block we may be in trouble, Nu sent.
+
+Alan held his breath, going over options. Retreat seemed like the best idea, but if he could get his hands on that power armor it would be a massive boon. Unfortunately, players didn’t drop their entire inventory when killed. Instead, only unbound equipment or items rank A and above dropped, along with credits. If the player had the armor for a while it was likely bound to them. As the armor didn’t seem to provide any special abilities besides a shield and possibly boosted strength Nu estimated it to be rank C at best.
+
+They are congregating by the gas station, going through the trucks and vans. They plan to get out of here before the authorities arrive. Bob has reached Isaiah with a minor flesh wound, Nu sent. No one is looking in your direction, move!
+
+The sound of a jet flying overhead roared through the air to the east. Before he could even fully think through his actions Alan began sprinting across the street, running to the side with the gun store.
+
+I thought the plan was to get away!? Nu sent. No one noticed you two crossing the street, but only because of the darkness and jet engine overhead.
+
+Alan turned and then blinked when he saw Ivy right behind him. In the rush of the fight he’d forgotten—he wasn’t solo. No, I made a new plan.
+
+“There’s a back entrance, we’re going to find a weapon capable of killing the player in power armor,” Alan whispered. “There’s still one more enemy in the store.”
+
+They’re moving the two trucks over to the store entrance, preparing to skedaddle, Nu updated. I’m not sure this is a fight we can take.
+
+It’ll be an uphill battle, but I have a good feeling about this store, Alan replied.
+
+The backdoor was locked by a keypad with a security camera overhead. Alan paused, wondering if he could shoot the lock off.
+
+No, give me a second… Nu sent. I have the code, 6731. Angel has sent an update reminding you that any merchandise taken or damaged must be paid for.
+
+What? But we’re literally stopping thieves, Alan replied.
+
+Yes, but UWG law still applies. Even if you must commandeer supplies the owner will need to be reimbursed, Nu sent.
+
+Whatever, Alan sent. I’m starting to see why people go rogue. He entered the code, raised his carbine, and threw open the door.

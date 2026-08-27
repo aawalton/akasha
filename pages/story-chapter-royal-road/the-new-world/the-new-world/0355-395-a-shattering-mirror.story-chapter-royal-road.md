@@ -1,0 +1,279 @@
+---
+id: 4dff03ea-3b09-512d-ab31-941f332fe291
+page-type-slug: story-chapter-royal-road
+title: "395 A Shattering Mirror"
+slug: 0355-395-a-shattering-mirror
+partOf: the-new-world
+position: 355
+ownLength: 2831
+unit: words
+ownProgress: 2831
+publishedAt: 2025-03-13
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2124670/395-a-shattering-mirror"
+royalRoadId: "2124670"
+markedReadAt: "2026-06-29T21:33:27.912Z"
+---
+
+I raised a palm.
+
+"Don't think for a second we're on amenable terms. You've got ground you need to gain before I consider you an effective subordinate. You slip up in any way, and we're done. Do you understand me?"
+
+Neel gave me a two-fingered salute.
+
+"Aye aye, sir. Loud and clear."
+
+"Good. So, about learning about my family. What did you have in mind?"
+
+Neel puffed out his chest.
+
+"I think I got a lead on Jacob."
+
+I closed my eyes. My wake crept over my surroundings, and it suffocated the air. I glared at Neel, and the old man paled. I clenched my jaw.
+
+"So, the old man's still kicking? I wonder if I should change that."
+
+Chapter Begin
+
+Neel paled in the moonlight.
+
+"Oh come on now. You'd kill your own father?"
+
+I stayed quiet. A sinking dread passed between us. I sighed.
+
+"Maybe. Probably not. Ah, who knows? It depends on what he's doing if the old man is still alive."
+
+Neel furrowed his brow.
+
+"Does it really matter?"
+
+I frowned.
+
+"It's the only thing that matters. If I acted based on what he has done, then I'd kill him for my own satisfaction and revenge. That's why I'll be ripping him apart if he's a raider, for instance."
+
+Neel gnarled his hands.
+
+"Have you thought about forgiving him?"
+
+I smiled. The expression was a thinly veiled lie.
+
+"Neel. I haven't forgiven you, let alone him."
+
+Neel winced.
+
+"This'll be the last piece of advice you'll hear out of me for a while. Forgiveness isn't really about the one who hurt you. It's about moving on from something. To really let it go. Otherwise, it just haunts you like a ghost, and it'll tear you down if you let it."
+
+I gazed through him, all of my minds peering in tandem. The hair on his skin bristled as I murmured.
+
+"It's easy to say as much when you've spent your entire life abandoning the people that need you most."
+
+Neel's arms slowly fell down. His breath grew less stable, and his eyes watered. A pang of guilt hit me before I pinched the bridge of my nose. I turned a palm to the guy.
+
+"That was...Too far. Sorry. Look, Neel, I appreciate you trying to clear things up. I really do. The thing is, the situation isn't resolved just because you want it to be. So far, you've stuck your foot in some cold water. Well, now you're going to have to get in there and swim."
+
+Neel took a second before giving me a nod.
+
+"You're right about that. To make it up to you, I was thinking we could take some time off and head out to the Rocky Mountains. I know some people there that think we might've seen him."
+
+That was where my mom's family lived. A spike of curiosity exploded in my chest, and I wanted to go. Before I acted on that desire, I raised a palm.
+
+"I can't. I have to finish creating some protection for most of my cities. I actually stopped by here for a break from all that. It's gone on long enough as it is, let alone if I add a few more weeks to the time. That's why I can't afford to linger here any longer."
+
+Neel sighed.
+
+"Then what about Jacob?"
+
+I shrugged.
+
+"If he's survived this long, then he'll be around when we choose to find him. Eventually, I'll get a moment to rest, and I'll meet up with you to find that lead you mentioned. How does that sound?"
+
+Neel smiled, a gold tooth sheening in the moonlight.
+
+"That'd be great, son. I'd love that."
+
+I walked up and offered a hand. He shook it before I turned to leave. As I rose off the ground, Neel reached out.
+
+"Ah, about your last name. There's a reason it isn't Stoltman."
+
+I smiled.
+
+"I already know why. My father took my mother's last name when they got married. Otherwise, I would've abandoned that surname a long time ago."
+
+Neel closed his eyes.
+
+"Good. Good. Er, that you know, that is."
+
+He waved a hand.
+
+"You...You take care now."
+
+I gave a curt nod before pulling myself away. I put several minds onto heaving the dimension around while I dove into thought. I picked up speed, and the crisp wind cooled my skin. My thoughts raced fast enough to counter the cold, leaving me heated.
+
+I never heard of Neel. Never. Not once. You'd think my father would mention him at least in passing, but he always referred to him as his old man. No names. No specifics. It gave me so little to go on along with no idea what my lineage was like. At least Neel's history helped explain why I had so little extended family.
+
+Part of that developed out of a familial disagreement. My mom's family never approved of her marriage to my father. Even after I was born, they still didn't like the guy. They especially didn't like me. Apparently, we visited whenever I was young, and I had a few fuzzy memories of that family branch. I remember they didn't smile much, but that could've been a personal anecdote.
+
+Apparently, they treated me differently than other cousins or friends. To them, I was like a representation of my mom's greatest sin, and my survival helped keep that sin alive. That family branch's resentment poured out onto me whenever I visited, and my mom cut them off after a nasty slap across my face. I remembered that part vividly.
+
+The man backhanded me and knocked me down. I ended up getting a purple welp under my eye since the man wore one of those large graduation rings. He was the kind of man who peaked in high school for sure, and I still couldn't remember why he'd slapped me in the first place. Either way, I always found the situation hysterical.
+
+You see, he broke that ring on my cheek. The fake sapphire broke out of the socket and clattered to the ground in pieces. He always said it was loose, poorly crafted, and ready to snap. I told him that no matter what he told himself, he hadn't hurt me. That wasn't true by any stretch of the imagination, but it got under his skin regardless.
+
+And to me, expressing defiance was a form of victory. Stupid, yes, but I was a kid.
+
+Regardless, my mom didn't visit after that, and my dad bowed up to the guy before backing down after they threatened to call the police. It was a painful memory for my dad, and he told me it was my fault that mom was cut out of her inheritance. Honestly, I hadn't thought about all of this in decades, but talking to Neel pulled all of it out of the depths.
+
+Speaking of, if what Neel said was true, then he made sure that our extended family wouldn't be on good terms with us either. In that regard, any kind of meaningful bond we could've had was scrubbed clean long ago. I still had so many questions in my head about my Dad's life, my grandmother's passing, and why Neel waited so long to tell me all this.
+
+At the same time, I already juggled a thousand other considerations and concerns. I had to prioritize the Earth for once, and I lacked any time or energy for a deep dive into my past, let alone something this emotionally draining. In fact, two psyches keeled over from pulling my dimension around.
+
+Despite my desire to dismiss the thoughts and dwell on something else, they lingered like roaches in the wall of an old apartment. After a while, I wanted the matter settled to free up my headspace. I resolved to talk to Neel if we met again, but I wouldn't go out of my way to make it happen. What would be, would be.
+
+Until then, I would focus on Earth's safety. Driving that conclusion home, I gasped as another mind went into a comatose from tugging along this tiny portal. Instead of waiting for it to heal, I killed the animus by shredding it apart. My mind regenerated far faster than it healed from the comatose, but it felt excruciating.
+
+Eh, whatever. I would do whatever it took to make progress. If that meant dying in a dozen different ways, then I'd do it. No excuses. Even as I tore pieces of my mind apart, I kept thinking about Neel and my father. No matter how much I tried pulling my mind off the topic, I kept wandering off into that vein of thought.
+
+Even worse, carrying the rift turned a half-hour trip here into a six-hour slog back home. At least it gave me time to sort through my status. As I did, I checked out my skillpoints, finding just over six hundred stacked up.
+
+I put them into Owner of Worlds.
+
+As the root of worlds, you shall be called Yggdrasil. The allfather. The allmaker. Nothing within your domain may dominate without your acknowledgment. Nothing may rise when you say fall, and within your open palm rests all the havens for billions. In your closed fist rests the ruin of any that crosses your domain.
+
+For that is the path of he who owns worlds.
+
+ADDITIONAL NOTE:
+
+Always remember your purpose. Those same fists you own must stop ruin from hunting down all that you know, have seen, and will see. An evil will come, and you must be ready. You will need to rise or be smothered by the forces encroaching from all directions.
+
+For they draw near.
+
++150% to city barrier strength
+
++150% to city barrier efficiency
+
++50% to city barrier size
+
++50% to credit income multiplier from owned territories
+
++50% to experience multiplier from owned territories
+
++150% to bounty payout in owned territories
+
++150% to bounty experience reward in owned territories
+
+-50% to warping costs in owned territories
+
+Rights to Planetary Ruler Classes unlocked! You may now grant classes to your followers! Note - Terms and conditions required. See the guide for more details.
+
+Sovereign Exclusive: +30% to World Perk Efficacy
+
+The ominous message in the second part of the tree stood out in more ways than one. It presented a terrifying reality, one I suited up for at a breakneck speed yet still felt woefully unprepared for. After the ominous feeling passed, I opened my tree menu.
+
+Select a talent tree for distributing points.
+
+Requirements met! Additional trees unlocked!
+
+Anomaly(Be singular in nature)(2,500) | Immortal(Have a possible lifespan of over 100,000 years)(2,500) | Conquerer(Take a city by force)(1,500) | Schema's Champion(Prove yourself worthy of my personal attention)(5,000)
+
+While the other trees still seemed more than worthy, I chose to take Schema's Champion. Without the prerequisite set of points to unlock anything more, I closed my status and contemplated Owner of Worlds. In many regards, it fed into my current goals beautifully, giving my cities a wider scope of protection.
+
+It granted better passive governance to my territories via the bounty bonuses, and the warping cost reductions made my local economies far more manageable. The last bit about classes also piqued my interest, so I checked it out.
+
+Class Upgrade Guide:
+
+Your followers will be given variants of chosen classes based on performance. Whenever a variant class is selected, they will be notified that this tree was the cause for transparency. We hope this guide has been helpful.
+
+It was about as helpful as damn near anything in Schema's guides. With a bit of time to kill, I considered a few avenues for self-strengthening, building up my army, or even working with Schema. It was something I was afraid of - hitting a wall in power. I'm sure my guildmate would roll their eyes at that idea, but I worried about it regardless.
+
+I mean, by now, I cranked all of the most obvious levers at my disposal to their utmost potential. At least the ones obvious to me. Despite turning over all those stones for power, I was lacking in many ways. I shivered, remembering how Eonoth crushed me utterly. Facing off against someone like him or even Valgus required absolute dominance psionically, physically, and dimensionally.
+
+Hell, in every way imaginable.
+
+It was the problem with having enemies I didn't know and couldn't name. I already worked on my cipheric markings, channeled mana, and worked on powerful skills like Temporal Compression and the new Dimensional Weight ability. Portions of my mind died all the time, and I recuperated because of my stats.
+
+Without them, I'd have been driven mad long ago. It still wasn't enough. As the vista of Mt. Verner expanded in the distance, I settled on my next course of action. Having received no messages on Diesel's progress on the golems, I asked for an update before landing at my golem creation facility.
+
+Until the next morning, I had some time. I'd make the most of it.
+
+A pit of dread filled my stomach as I typed up another message. As I sent a request for Shalahora, I considered what I was asking for. This would be yet another trial by fire. Oh man, it would be one more undertaking I wanted no part of, but based on my limited knowledge, I lacked any other options.
+
+I would progress where I knew I could, and as far as I could tell, all of my avenues to success required me to figuratively die. Well, die many times, really. All of my training would require me to expire enough that I'd rack up an impressive body count by the end of it all. Perhaps I'd name the training for each skill differently.
+
+What about battles? No, this would last too long. Conflicts? Eh, it sounded too light. Ah, yes, wars. I'd call them wars from within. Like, I don't know, the war of time. The war of dimensions. With Shalahora, this would be the war of the mind. I clapped my cheeks, silencing my growing procrastination.
+
+I sent my message to the guild's strongest member. Arguably, at least. A few minutes passed, and a heavy silence oppressed me. I jumped as a shadow welled up from the ground. Shalahora murmured with a silence that echoed.
+
+"Harbinger...I have read the request...Are you certain about this?"
+
+I took a deep breath.
+
+"I don't see another alternative. You're the only person I can train mind magic with."
+
+Shalahora peered at me before reaching out a hand.
+
+"Then be ready, and know I've been commanded to do this."
+
+I braced for impact.
+
+"Do your worst."
+
+Shalahora laughed.
+
+"It will be far from it, but for now, a piece is more than enough."
+
+A connection sprang up between us. As Shalahora's mind grazed mine, I stared into a relative infinity. The size of Shalahora's psyche mirrored Valgus's mana production. The scale of it was like seeing a great monster's eye taking up all I could see.
+
+Feeling like an ant on an elephant, I winced.
+
+"Oh, man. This is going to be pretty bad, huh?"
+
+Shalahora whispered.
+
+"Define bad."
+
+Shalahora's mind drenched out in a flood. It reminded me of Elysium's tactics, his mind akin to a horde. Unlike anyone I'd seen beforehand, Shalahora's psyche shot out without flaws, cracks, or edges. He was a one-man, walking army, and he commanded each soldier to perfection.
+
+It really was incredible. I gazed at an entire species folded into a tiny, miniature point, and it occupied a tremendously expanded mind. The density and vastness rivaled jumping into an ocean of mercury. I could hardly get under the liquid metal, let alone swim through it.
+
+I grimaced.
+
+"This is going to hurt."
+
+Shalahora's gaze softened.
+
+"In a sense, though pain isn't how I would describe it. It's similar to following an idealogy, one you don't agree with. The sense of unease, the cognitive dissonance, it builds until the mind breaks. You accept the corruption as the alternative becomes easier. More of you will follow until nothing is left. This is death by psionic dismantling."
+
+I tested the waters, throwing a mind against his. It all but vaporized.
+
+"Well...It sounds like going insane."
+
+Shalahora took a small step towards my mind. I buckled, unable to stand anymore. As I fell down, he tilted his head at me.
+
+"Is that too much?"
+
+I pushed myself back up.
+
+"I don't know. Maybe?"
+
+Shalahora tapped my forehead.
+
+"How many minds do you have free at this moment?"
+
+"About nine."
+
+"And how many may die before you lose your sanity?"
+
+I wanted to lie as I clenched my jaw.
+
+"I can lose eight, and they come back quickly too."
+
+Shalahora lowered his arm.
+
+"My last question is thus - how deep into the dark do you wish to tread?"
+
+I scoffed.
+
+"Further than I am. That's the goal."
+
+Shalahora's voice pierced into our surroundings.
+
+"Then let us tread into dark waters, Harbinger."

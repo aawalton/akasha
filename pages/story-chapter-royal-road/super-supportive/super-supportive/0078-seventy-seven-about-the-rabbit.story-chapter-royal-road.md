@@ -1,0 +1,522 @@
+---
+id: 3fc7e3d0-6159-5f3c-8de3-c48704335a7c
+page-type-slug: story-chapter-royal-road
+title: "SEVENTY-SEVEN: About the Rabbit"
+slug: 0078-seventy-seven-about-the-rabbit
+partOf: super-supportive
+position: 78
+ownLength: 6086
+unit: words
+publishedAt: 2023-09-27
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1356376/seventy-seven-about-the-rabbit"
+royalRoadId: "1356376"
+---
+
+“This is like Saturday morning cartoons. But better. We should hold these more often.”
+
+
+The middle-aged brunette woman who’d spoken was sitting at a table positioned at the front of a large classroom. To her left, a younger man in a sweatshirt, board shorts, and flip-flops was doodling on a tablet. And to her right, a man with short, salt-and-pepper hair was sitting with his arms crossed over his chest while he watched the images being projected onto the classroom’s wall. They showed a live feed of some of the battles currently taking place in the Celena North High gym.
+
+
+“Organizing this six times a year is already a strain on the Office of Admissions. We’re talking about reducing the number of third-round interviews and knocking the combat assessments back to a quarterly schedule,” he said.
+
+
+“That would be a shame. The production of these videos is good for superhumanity.” She pointed one ruby-colored fingernail at two girls who were pulling each other’s hair and yelling. “It’s like watching puppies fall all over themselves. Or like kittens batting each other with their little paws. One of those girls is an Adjuster. The other started out with a gun. Where are the bullets? Where are the spells? Why are two ranged power users doing—?”
+
+
+She mimed punching the air with loosely balled fists and meowed.
+
+
+“Can we rewind that section and watch them again?” she asked. “Surely they started out dueling normally?”
+
+
+“They’re probably scared to seriously hurt each other. Or to get hurt themselves. But they didn’t want to quit,” said the man in the board shorts.
+
+
+“The same as so many others,” said the older man in a dismissive tone. “We should be using this time to focus on footage of the interviewees we’re responsible for.”
+
+
+The woman gave him an amused look. “Torsten Klein, you could take a little pleasure in watching the newest generation discover that the System didn’t turn them into gods of war when it gave them their powers.”
+
+
+“Some of them are funny. There are two boys who’ve been chasing each other around in circles for their entire duel. They haven’t done anything but run. It looks like playground tag.”
+
+
+“See? Skiff agrees with me,” said the woman. “And the alumni gallery is supposed to give us their opinion of the students’ combat performance. Review the highlights we’ve already gotten for previous students if you want. I want to see some of the general madness. We only have time to enjoy the whole spectacle right now because of the drop-out.”
+
+
+“I’m surprised only one of our interviewees has dropped out at this point,” said Skiff. “It felt like a lot of people decided to quit earlier in the day when I was going through this.”
+
+
+“That’s right, Skiff! You’re a baby. And you went through the high school program. You must have done this stage of the admissions process. Did you show people a real fight, or were you this precious?”
+
+
+“I’m thirty-one, Instructor Colibrí.”
+
+
+“An infant! And since you’re still calling me Instructor Colibrí…” She narrowed her eyes at him. “You passed my courses in university with flying colors, so why are you wearing swim trunks for your hero costume?”
+
+
+He reddened. “About that…”
+
+
+“I seem to remember spending hours with you, developing a Greco-Roman inspired merman persona.”
+
+
+“Chicago didn’t like it.”
+
+
+“Down with them, then! They would have loved you in Los Angeles!”
+
+
+“LA wasn’t hiring.” Skiff looked at the teens on the screen. “As for the combat assessment…I didn’t grow up on Anesidora, so I didn’t have as much warning as the local teens do. I heard about it while I was applying, but in the middle of everything else that comes with unexpectedly getting selected and moving to the island, it was a blip. I was riding high, and I was worried about a million things besides whether or not I was really okay with having someone break my nose or stab me with a knife.”
+
+
+“One of your opponents stabbed you?”
+
+
+“With a dagger. It nicked my femur. You know what I mean. It felt like it did. Or I thought it felt like it did. I was doing okay up until that point, and then at the end of the day, after they announced that everyone had finished their interviews and they asked us all the final admissions question—”
+
+
+“The final question,” Colibrí said. “Was it a surprise?”
+
+
+“It was.”
+
+
+“Good.” It was Torsten who spoke up. “That question is supposed to be a surprise. It’s meant to be impactful. Damn alumni telling their offspring have spread it all over the island by now, and it's lost most of its purpose. It’s only the NDAs keeping it off the internet.”
+
+
+Skiff frowned. “It’s unfair to the first-timers without Avowed parents, but I get the point. Anyway, I decided I needed time to think. And then I came back a few months later, and I got in.”
+
+
+“And you passed all your classes, and went straight to the university program where you were a model student who dreamed of being a merman!” Colibrí clapped her hands.
+
+
+Torsten glanced at her but didn’t say anything.
+
+
+A notification pinged on all of their interfaces letting them know it was ten minutes until their next interviewee was scheduled to arrive. Skiff and Colibrí both pulled up the student’s profile on their tablets; Torsten continued staring straight ahead.
+
+
+“You don’t even blink when you mentally command the System, Instructor Klein,” Colibrí said in a faintly mocking tone.
+
+
+“Blinking gives enemies an advantage.”
+
+
+She laughed lightly. “I forget you do have a teensy sense of humor sometimes.”
+
+
+“I’m the funniest man I know.”
+
+
+Skiff cast a doubtful glance in his direction but didn’t say anything.
+
+
+“Let’s see what some of our alumni think of our extra special applicant,” said Colibrí. “Samuel Alden Thorn.”
+
+
+The live feed cut off, and the projection switched to show five people who were all in very different locations. One man was sitting in a lounge chair on a beach. A woman was curled up on a sofa with the lights of a city skyline filling the windows behind her. And a couple in their early twenties sat together in a study room of the Celena North University library.
+
+
+“Good morning to those of you on Anesidora. And good whatever to those of you elsewhere. Thank you for donating some of your time to help us observe the prospective students today,” said Colibrí. “This gallery was assigned number 192, and he’s our next interviewee. We’ve all studied his application. You’ve had a chance to see him during the combat assessment. Is there anything that stood out about him, good or bad, that you’d like us to consider before we talk to him?”
+
+
+A short pause followed, then the girl in the library raised her hand.
+
+
+“Yes, Robin? And you don’t have to raise your hand. We’re not in class right now. It’s just a casual chat.”
+
+
+“Sorry,” she said, blushing. “The last interview committee said that, too. I like 192. If you don’t mind, I’ll read my notes? They’re just a few bullet points.”
+
+
+She waited and when nobody objected, she picked up a notebook.
+
+
+“So, the first thing I noticed was his…uh…weapon—”
+
+
+“What’s he using?” Torsten interrupted.
+
+
+Skiff tapped on his tablet, and a moment later, an additional video window was projected above the faces of the alumni gallery. “This is the heroes vs. villains game.”
+
+
+“That’s an umbrella,” said Torsten in a startled voice, as the boy on the screen jumped in front of a flying sandbag.
+
+
+“Yes, Instructor Klein,” Robin said. “I was surprised. At first I thought, ‘Whoa, that’s one of the weirdest Meisters I’ve ever seen. Someone should tell the System to knock it off.’”
+
+
+Several people laughed.
+
+
+“But then he didn’t seem like a Meister. He’s not slick with his umbrella. You can tell there’s no special umbrella-wielding knowledge? And finally in the group match, it was confirmed. The umbrella is just a prop. It seems like he could use all kinds of different things as shields. He’s also got a spell impression. And he freezes people, which I’m assuming makes them safe?…I’ve gone off my notes a little bit.”
+
+
+She looked back down at the page. “What I wanted to say was, it seems like the umbrella and the fishing line were a choice on his part. I’m sure he could have picked something more effective if he had more experience, but I appreciate that he went with mundane items. Most teens would be tempted to choose something more impressive looking, but it seems to me that 192 was trying to be practical and show off his creativity. I like that. I also like that the ability to use everyday objects with his talents has great branding potential; I know Instructor Colibrí is always bringing that up in class.
+
+
+“Lastly, he’s not hesitant. I only saw him freeze up a couple of times, and after re-watching them, I think they were because he couldn’t figure out where to put himself on the battlefield, not because he was panicking or afraid of taking hits.”
+
+
+“I noticed that last one, too,” said the man on the beach. “This kid’s one of the gutsier ones out there. But not stupid gutsy like some of them. He seems to be trying to avoid pointless danger, but he does take risks when he decides it’s time. He’s in a good headspace. I figure he either has a hero parent or this isn’t his first time doing the combat assessment.”
+
+
+“I agree with that, too.” A fluffy white lapdog had just jumped up onto the sofa beside the woman who was calling from her living room, and she scratched it behind the ears while she talked. “Well, not the parentage part. I didn’t bother to consider it. But he’s a level-headed young man. He was assigned to the rescuer position, which usually implies that he’s one of the team members less suited to fights. However, he didn’t run from the ones that came his way. And he’s much less afraid of the gym suits than most of them are.”
+
+
+The man in the library with Robin spoke up. <<We have a record of their team chat from the group rescue game. He’s the only one who actually tried to use it. One of their teammates gave up, and he tried to get him back into the fight. It was a waste of time in the end, but if the teammate had responded to the instruction, the battle would have tipped in their favor.>>
+
+
+“He failed in some ways,” the woman with the dog said. “But those failures all seem to me to be failures of knowledge and training. And knowledge and training is what the school exists to provide.”
+
+
+The moments from Alden Thorn’s duels that the alumni had deemed the most significant were playing on the screen. The interviewers watched them with very different expressions on their faces. Skiff looked surprised and relieved. Colibrí was smiling. Torsten’s severe expression shifted slightly into a frown.
+
+
+“He’s not doing bad at all!” said Skiff. “Actually, he’s doing better than most…oh…that one boy is just laying there, isn’t he? For the whole fight? What happened to him?”
+
+
+“Sandbag to the gut!” said the man on the beach, shaking his head. “In the kid’s defense, it was a lot of sandbag to the gut. I know I’m not evaluating the Ground Shaper who did it, but she’s got a fixation problem. Once she’s found someone to hit, she just keeps hitting them. Might drop a note to her committee asking them to prod her. Someone ought to check if she’s got anger issues or if she’s just a bad judge of when the other guy has had enough.”
+
+
+“Finally,” Colibrí whispered, watching a Brute girl bounce off Alden Thorn’s umbrella, “someone who can use designer goods in a battle without destroying them.”
+
+
+“You all seem very approving,” Torsten said to the observers. “But what did you assume his class and rank were?”
+
+
+The couple sitting across campus in the university library exchanged glances.
+
+
+“I thought B-rank Adjuster,” Robin answered. “With an unusual set of spell impressions that he can stealth cast…or cast well in advance of using them.”
+
+
+<<I think he’s an A-rank Unique,>> the man with her said.
+
+
+The man on the beach yawned. “I considered a Sky or Object Shaper with a control method other than the usual physical gestures. Never seen a brand new Avowed with that kind of control. Seemed unlikely but not impossible. Then he froze one of the victims, and I decided I didn’t have a clue. Definitely A-rank, though.”
+
+
+“A-rank U-type is my guess as well,” said the woman talking from her living room. “Though I have some questions about the spell impression in that case. Uniques don’t usually get them to start with, so he’d need to have leveled at least once already.”
+
+
+The fifth member of the alumni gallery—a man with a neatly combed black beard who stood leaning against the railing of an empty rooftop restaurant—remained silent, as he had since the start of the conversation.
+
+
+“Interesting,” Torsten said finally. “Thank you. How would you rate his performance if you knew his class was—”
+
+
+“The correct procedure is for the gallery to give unbiased opinions,” Colibrí interrupted. Her voice was pleasant on the surface, but there was an undercurrent of censure in it. “So they should offer their final official recommendations for this candidate without us giving them any additional information.”
+
+
+Torsten narrowed his eyes at her. “In this case, since they’re making certain assumptions, don’t you think—?”
+
+
+“I agree with Instructor Colibrí,” said Skiff, twirling his stylus nervously between his fingers. He glanced at the man with the black beard. “We’ve had access to all of 192’s application information. They haven’t. We can always make our own judgments now that they’ve put together the highlights for us. But it’s important to hear from people who don’t know anything about the student. That’s how it’s supposed to work.”
+
+
+“Well, now you’ve all got me curious,” said the man in the lounge chair. He brushed sand from one of his arms. “But fine. I didn’t see any major issues. Just normal stupid new kid stuff. And less of that than most of the other squirts I’ve been watching this morning. Based solely on what I’ve seen today, I think he’s a solid choice for the hero track.”
+
+
+“Based on attitude, the shielding ability, and the apparent potential of that human-freezing power, I’d say he’s a yes, too,” said the woman on the sofa.
+
+
+<<I wouldn’t have minded having him on my team when I was doing that same exercise a few years ago,>> the boy in the library offered. <<So I say yes.>>
+
+
+His girlfriend hesitated. “Since I’m the only one who thinks he’s a B-rank…”
+
+
+“Why did you think that?” the other woman in the evaluators group asked curiously.
+
+
+“He’s physically too weak for an A-rank guy, isn’t he? It seems like he’s low on stats. We haven’t talked about his earlier duels, but the fight with the Sky Shaper girl and the archer were more telling on that front. I guess he could have put everything into hidden qualities. Micro adjustments to senses…or a lot of Stamina. Maybe the System let him boost some Processing qualities outside the norm? But I’m not seeing A-rank stats. ”
+
+
+<<You’re assuming he’s not a U. Or some unusual subclass that the Artonans gave peculiar starting stats.>>
+
+
+She nodded. “Horses not unicorns, right, Instructor Klein?”
+
+
+The stern-faced Torsten cracked his first smile. “You remember my lessons well, Robin.”
+
+
+Robin’s boyfriend made a few hand gestures, and a second later, the display of the candidate’s highlights shifted to show a concrete chunk smashing into the edge of an umbrella and breaking into pieces.
+
+
+<<That Brute looks like an A,>> he said. <<And that was a full strength toss. After bouncing off his shield on her run-through attempt, she decides to really try with the throw. You can tell by her posture. Maybe it was already a fragile piece of rubble. But the umbrella doesn’t even budge. None of the force is transferred to 192’s arm. That doesn’t look like a new B-rank’s talent taking a hit to me.>>
+
+
+“I see that,” Robin said. “If he is an A-rank, I say yes. But even though I think he’s cool, if he’s a B, I say no. Sorry, I know that’s not really how we’re supposed to evaluate, but his main spell, or his skill if that’s what it is, also seems to have some kind of weird condition? He asked another boy on his team to tell him to pick the umbrella back up.”
+
+
+“Starting powers are extremely important, but we don't have to evaluate based entirely on current limitations,” the man in the lounge chair said. “His mindset matters the most at this point. Especially if you’re right, and he’s an Adjuster. He just has to level enough, and he’ll have more decent spells to choose from. Whichever rank he’s at, the faculty can guide him toward choices that will increase his combat ability.”
+
+
+Robin nodded. “I understand. I still feel like based just on what I’ve seen today, though, I would worry if he were a B.”
+
+
+“So three yeses, and one conditional yes/no,” said Colibrí. “You all found his performance well above average in general and saw no major cause for concern. Is that correct?”
+
+
+They all nodded.
+
+
+“Excellent. If you’ll all please remember to take a few minutes and type up a quick evaluation for 192 to receive at the end of the day, then—”
+
+
+“I say no,” said the man standing on the rooftop in a flat voice.
+
+
+The other four evaluators looked surprised. “I wondered why you were dead quiet over there,” said the man on the beach. “Why didn’t you speak up sooner?”
+
+
+“It’s really inappropriate for you to comment on this candidate, isn’t it?” Skiff interjected, staring at the fifth member of the gallery. “I wasn’t going to say anything since you were being quiet. But if you were randomly assigned to evaluate 192 you should have refused it and let someone else take your place. Obviously.”
+
+
+The other alumni were wearing very curious expressions.
+
+
+“Skiff has a point,” Colibrí said lightly. “Even if you offer an evaluation, Arjun, we can’t take it into consideration.”
+
+
+“I’d like to hear what he has to say,” Torsten Klein said.
+
+
+“Of course you would,” Colibrí replied. “But that doesn’t change—”
+
+
+“He waited until everyone else had given their unbiased opinions to talk. We know what they think. So let’s hear him out.”
+
+
+“If we know their unbiased opinions, I don’t see why we ought to hear biased ones now,” Skiff protested. “That’s not how it works for any of the other kids. Why should Thomas even be here when—”
+
+
+“I slipped him into the group,” said a voice from behind them.
+
+
+The interviewers turned to see Lesedi Saleh striding between a row of student desks toward the front of the classroom. “Because he wouldn’t stop bothering me once he caught wind of this student’s application. And he promised to volunteer his time as a guest instructor frequently and enthusiastically in the future. Hello, everyone. I wanted to hear this conversation. I’m sorry I seem to have missed the first half of it.”
+
+
+“Who is 192 anyway?” asked the lounge chair guy. “Has he got important heroes for parents or something? And what’s with all the drama around his class?”
+
+
+“I’m surprised Torsten hasn’t already spilled the beans,” the principal said, her hands gripping the back of a plastic chair while she looked at the assembled heroes.
+
+
+“He was about to,” said Colibrí. “Skiff and I insisted on hearing their untainted opinions of the student first. I’ve recorded them all by the way. So those will be the official ones.”
+
+
+Lesedi nodded. “I’ve been taking the occasional peek at him throughout the day. He seems to be performing well. How did our evaluators feel?”
+
+
+“They said he was above average,” Skiff said quickly. “He was a ‘yes’ for most of them.”
+
+
+“He wouldn’t have been if they knew his class,” said Torsten.
+
+
+Skiff slapped his stylus down. “And he might have been if they knew other things. The point is for them to evaluate him without having the same information we do, so—”
+
+
+“He’s a B-rank Rabbit,” the principal said.
+
+
+Everyone looked at her in surprise.
+
+
+“There, Torsten,” she said. “I did it for you. And no, he doesn’t have an influential family. His name’s Alden Thorn. He arrived on Anesidora seven weeks ago. This is his first time applying to Celena North.”
+
+
+“It must’ve been one hell of an application if the school didn’t set it on fire when they saw his class,” said the man on the beach.
+
+
+“It was an extraordinary one. His name and class are easily discoverable anyway now that you’ve seen his face. Naturally, we won’t be sharing the detailed information contained in his Avowed profile with you. The school makes an attempt to protect student privacy at least…”
+
+
+“Not much point in secrecy, is there, when we’ve seen almost his full power set? Knowing he’s a Rabbit paints an entirely different picture of him as a candidate. Rabbits get one or two starter skills. And two crap spells at B-rank. He’s got the shieldy thing. It’s his only real trick if it’s strong enough to take that much of a pounding.”
+
+
+“That’s a robust skill.” The woman gave her dog one last scratch behind the ears and stood from the sofa. She walked over to stare out at the glittering city skyline through her window. “But I wouldn’t have said yes if I’d known he was a Rabbit. The rank is bad, but not impossible to overcome. B-ranks can do good work. If they have realistic expectations for their futures, I think the school should be much more open to accepting them than it is. But that class…if the boy has miraculously found a good primary skill for hero work, fine. But what happens for him next?”
+
+
+“I agree.” The man wasn’t lounging anymore. He sat up and threw his legs over the side of the chair. He was frowning. “I liked the kid. Appreciated his effort today. But how are you going to develop him from here? Even if that weird skill of his is a ten-top or better, and it takes him all the way to uni, what the hell is the college going to do with him in his last couple of years? What’s he going to do with himself a decade from now? Isn’t he going to be stuck at some point trying to choose between skills for toilet bowl sanitization and…I dunno…air freshening for his next upgrade?”
+
+
+“Never mind that,” said the woman, “how is he going to hold a job?”
+
+
+“With a custom-tailored tailcoat,” Colibrí said at once. “And white gloves. For a butler Rabbit vibe. Or if we have him tweak his Appeal toward the more adorable end of the spectrum—”
+
+
+“I don’t mean, ‘How are you going to persuade a city he’s marketable?’ I mean how is he going to stick around in one place for long enough to actually do hero work? If you successfully run a Rabbit through the program, and he levels quickly and starts picking up new skills, he’s bound to choose one that the Artonans are hungry for at some point.”
+
+
+“And there’s no long-term development path that will take him to the next level as a hero,” the man said in a frustrated voice. “Not unless the rest of you know about some Rabbit skills that are actually good for combat or rescue work?”
+
+
+“I won’t deny that there could be some,” Torsten said, leaning back in his chair with his arms over his chest. “The skill list for the class is even more absurd than the System’s usual offerings. And grivecks seem to do fine with it.”
+
+
+“Jesus, are we comparing ourselves to grivecks now? Even the non-Avowed ones can kill things the size of a grown man with their tongues. And they’ve been pals with the Artonans for more than a millennium. They know more than we do. I’m pretty sure the aliens like them more than us. And at this point, I’m assuming the wizards have gotten around to actually customizing some of their sillier sounding skills to perfectly suit their murderous needs.”
+
+
+“I was just pointing out that I had actually considered the possibility that useful skills for hero work might exist within the class,” Torsten replied. He turned and raised an eyebrow at the principal. “But as I said the minute I received his application, we don’t know of any. Because of that, directing Alden Thorn toward such choices will be impossible. Our instructors can help him learn to maximize the skill he currently has. But what if it tops out at level five? Even if it’s a ten-top, or if he’s lucky, and it’s a few levels higher than that, it won’t be enough. As a B-rank, one skill won’t allow him to keep pace with other career heroes. At worst, he won’t even be able to level it far enough to meet the high school graduation requirement. At best, he’ll be stuck as a lifelong bottom tier supporter. Even if he’s satisfied with that personally, it’s not the kind of student we would usually accept at Celena North.”
+
+
+The boy sitting in the library spoke up. <<If you don’t know what his skill’s maximum level is, does that mean he’s one of the only known possessors?>>
+
+
+“That’s a good point,” Robin said. “If he picked Rabbit, and he chose a random skill nobody knows about…that’s not very serious-minded, is it? That doesn’t sound like someone who actually wanted to attend a hero program to me. It sounds like he wanted to be a Rabbit, and then he got an interesting skill and applied to Celena North on a whim.”
+
+
+“I don’t think it was a whim,” Skiff said immediately.
+
+
+At the same time, Arjun Thomas said, “He knew what the skill was before he chose it.”
+
+
+Everyone looked at him.
+
+
+He stared down at where his hands rested against the rooftop’s railing. His next words were spoken quietly. “I don’t know it for a fact, but it would be a shock to me if he’d accidentally acquired a skill with that sort of effect. But whatever Alden plans to do with the Rabbit class and that skill is irrelevant today. The boy can become a superhero if he wants to. Or not. As Lesedi knows, I’m objecting on the grounds that the hero track is an inappropriate environment for him right now, and even his presence on the gym floor today is proof that the school is overeager to accept him for some reason.”
+
+
+“I’m not sharing his profile with you either, Arjun,” the principal said. “Your concerns have been noted. I’ve let you serve as an evaluator and cast your vote. Now you can write up an evaluation and use it to tell Alden why you don’t think he should attend your alma mater.”
+
+
+She smiled at him. “I’ll send your guest lecturer schedule soon. But I think that’s all the time we have for this chat. The subject of our discussion should be done having a final, painful duel with one our S-rank prospects about now, and he’ll be coming in for his interview any minute. Thank you all for your time.”
+
+
+Arjun opened his mouth.
+
+
+“Wait,” protested the man on the beach. “You can’t just leave us dying of curiosity like—”
+
+
+The connection to the alumni gallery cut off suddenly, and their faces disappeared.
+
+
+“So even Arjun doesn’t know about the star then,” Torsten Klein said to the suddenly silent classroom.
+
+
+“He’s not well-connected anymore,” the principal said. “By choice. And he’s too ashamed to call Gemma Elber and ask what’s going on with the boy’s application.”
+
+
+“Does she know already?” Colibrí asked. “I’m surprised. She’s so apolitical.”
+
+
+“People tell hyperboles things even if they aren’t political creatures. She called me last week and said she hoped I would make sure Thorn was ‘well cared for at school.’ ”
+
+
+“So even the Gloom wants him to get in,” Torsten said grimly. “I don’t know why we waste our time pretending to evaluate him at all.”
+
+
+“I believe I told you why when you were placed on this committee. I don’t want applicants to receive overly obvious special treatment, even if some of them do have special circumstances. It creates too much resentment within the student body.”
+
+
+“If he doesn’t want special treatment, he should—”
+
+
+“Should what?” the principal asked, arching her brows at him. “Go to a different school? Do you think there’s one on the island where people will be better informed and less agog about his circumstances than we will be here?”
+
+
+“A non-hero track program would be the best choice.”
+
+
+“For so many people. And yet thousands of teenagers want to be superheroes. Including this one,” the principal said. “The boy has to attend school somewhere. He wants to try this. There is absolutely nothing he can do to change his class. There is also nothing he can do to change that commendation or the way terrible old people like us react to it.”
+
+
+“He could change his own mind about what he wants.”
+
+
+“Yes, I thought that, too,” said Lesedi. “It was another reason I pushed for the combat assessment instead of the private evaluation. And now he’s almost through with it, and he’s performing in a way that makes me think he is unlikely to abandon his ambitions in the near future.”
+
+
+Torsten grunted.
+
+
+The principal smacked him lightly on the shoulder. “You should be happy. I let everyone know he was a Rabbit for you. And they realize that something strange is going on with his entry. The evaluations they write him will be much more critical now. No doubt he’ll even get some kind of gloomy advice from Arjun, a hero he presumably has strong opinions about. Short of having your dour self hold up a sign as he walks into the interview room that says, ‘You shouldn’t really be here,’ I can’t do much else.”
+
+
+“There’s no reason for everyone to take such a negative view of the kid,” Skiff protested. “He’s a survivor. He wrote an amazing essay. He’s a fast leveler. He—”
+
+
+“I like him,” said Colibrí. “I’ve got four costume designs and two dozen marketing schemes in mind already.”
+
+
+“I don’t have a ‘negative view of the kid.’ I have a realistic one. If the commendation isn’t just some head pat from an easily charmed wizard, then he’s very brave. Weak people can be brave. That doesn’t mean they belong at this school,” Torsten said. “He doesn’t belong at any hero feeder program. If he didn’t have that decoration beside his name, none of the rest of it would be enough. We’d tell him to level on his own for the next two or three years, give us proof of concept, miraculously find more useful skills in the home decorating class, and then come show us we were wrong at the uni tryouts.”
+
+
+“That’s how it would have been,” Lesedi said. “But that’s not how it is. As long as he didn’t have a breakdown, insult the faculty, or leave during the middle of the combat assessment there was no way to reject him. You knew that, Torsten.”
+
+
+She frowned. “And you may be underselling the value of bravery, don’t you think?”
+
+
+“I’m still hoping he’ll reject himself after he reads the evaluators’ comments.”
+
+
+Lesedi sighed. “Arjun is hoping the same. For different reasons. He seems to believe the only reason we would let the boy in would be because we’re ‘up to something.’”
+
+
+“Why does he think that?” Skiff asked.
+
+
+The principal was stretching out her shoulders. “It’s the timeline. You heard Arjun saying that his very presence here was proof we were overeager? It is. He spent much of the past year in what sounds like a horrific environment, even if you take the stripped-down description he gave of the event in writing at face value. The university was afraid that the good psychologist we usually use wouldn’t approve his readiness for hero track courses or combat after reading his application, so they hired a less good psychologist for this cycle. I’ve still had people watching him all day to make sure he’s all right.”
+
+
+“I wish you wouldn’t make me aware of things like that when I can’t change them,” Torsten grumbled.
+
+
+Lesedi shrugged.
+
+
+“I can’t change that particular decision either. But if there was a problem, we would have pulled him. And anyway, Arjun doesn’t know what we all do. If Celena North rejects Thorn…”
+
+
+“Nobody else will,” Colibrí said. She was rummaging through her purse.
+
+
+The principal put her hands on her hips. “That’s right. If Thorn wants hero school with his special star, someone’s going to give it to him. The other two Apex high schools probably have people filling out forms with his name on them right now.”
+
+
+“They can’t have him.” Colibrí pulled out a tube of lipstick. “I’m supposed to offer him direct entry into the university today if it looks like he isn’t going to get into the high school program.”
+
+
+The other three fell quiet and looked at her.
+
+
+“What?” she asked, rubbing her freshly reddened lips together and then smacking them. “We’re all being so honest about it. If he wants hero track, it’s better to start him in the high school. Academically he could probably handle uni, but he’s not ready for that level of combat training.”
+
+
+“He’s not ready for high school level combat!” Torsten said in an outraged tone.
+
+
+“We’d give him trainers and tutors. Call him a remedial student. Keep him out of regular heroing classes, and have him enrolled at the university level for six or eight years instead of four.”
+
+
+“That is too shameless,” Lesedi said, her own voice harsh. “Admissions has been pushing us hard to accept him, but admitting him directly to university would make Celena North look awful. And it would make the boy look like a fool. It’s bad enough that some of the faculty and students here at High are going to resent his presence. He’d never socially recover from receiving years of flagrant handholding and favoritism in the university program. People would never take him seriously enough to work with him.”
+
+
+“That’s why it’s so great that you’re not planning on rejecting him!” Colibrí said. “Although I don’t think we would look as bad as you’re thinking. He might, but we would just look like we knew the value of what we have on our hands. We’ve never had such a young student with a commendation before. I don’t know anything about commendations myself. I don’t get summoned, and I don’t want to, thank you. But the university’s cultural advisor is flipping out over that one.”
+
+
+Torsten’s seat creaked as he shifted his weight. He didn’t say anything.
+
+
+“Yes,” Colibrí said. “It’s something over the top. And I don’t just mean that General person’s rank number. They say we don’t even have record of an alumni receiving that particular wording on a commendation. The culture advisor thinks that one day after the boy has settled in, when the wizards swing by for a visit to repair the gyms and the other magical facilities, we just…trot dear Alden out to say hello to them. They’re going to see commendation plus kid plus educational facility, and great things will happen.”
+
+
+“I hadn’t thought of it that way,” Skiff said in a stunned voice. “I thought the school just didn’t want to reject him because they were worried about offending the Artonans or—”
+
+
+“You have to think bigger, my dear merman! The Triplanetary Government hasn’t been inclined to give the school wonderful magical presents for the past couple of decades, but that cute little Rabbit hits them in every one of their weak points. So…don’t try too hard to scare him off, Instructor Klein. Think of the needs of the many, won’t you?” She smiled at him. “You’re supposed to be a hero, after all.”
+
+
+*

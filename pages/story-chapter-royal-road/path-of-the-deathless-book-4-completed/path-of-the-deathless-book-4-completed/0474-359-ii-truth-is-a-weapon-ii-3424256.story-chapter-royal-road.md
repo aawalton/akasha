@@ -1,0 +1,105 @@
+---
+id: 9f229f90-2bca-5baa-a880-cb66421c8705
+page-type-slug: story-chapter-royal-road
+title: "359 (II) Truth is a Weapon [II]"
+slug: 0474-359-ii-truth-is-a-weapon-ii-3424256
+partOf: path-of-the-deathless-book-4-completed
+position: 474
+ownLength: 2170
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3424256/359-ii-truth-is-a-weapon-ii"
+royalRoadId: "3424256"
+---
+
+359 (II)
+
+Truth is a Weapon [II]
+
+Just as fast as it was conjured, the image vanished. The smile on Produveral’s face was empty. “Not a particularly nice ending to a story, wouldn't you agree? I come across worlds like these every other day. Billions dead, making up trillions with every passing few weeks. All of them new worlds that managed to survive up until the final Incursion before they were allowed to join greater Integration. And then there are the rogue civilizations, rogue worlds, rogue Pathbearers, and rogue Myths who decide they can't abide by any potential adversaries and go their own way. If you live like that, the easiest way of not facing any enemies down the line is making sure everyone's too weak or too dead to fight you. Above-light-speed tungsten rods aren't even a novelty anymore.”
+
+“And you're saying that my Harbinger is as bad as all that?” Shiv asked.
+
+“No, I'm saying your Harbinger is much worse. There are infinitely more worlds that collapse under their own inadequacy due to cultural reasons, resource reasons, or maybe just a few Pathbearers there who are a little too powerful for their own good, a little too powerful for their environment. They find themselves fighting each other and breaking their helpless little cradle before it could mature enough to survive one of their tantrums.”
+
+Produveral hesitated for a brief moment. “You haven't figured out how to cast your thoughts into the future yet. Before you ask, no, I'm never going to show you that. Too dangerous. Your thoughts are violence too. They're as much punches as your punches. Just like the emotions you conjure can cause people to be weighed down or hurt. If you can cast that across the void, well, imagine a world spontaneously driven mad as they hear the right set of words relating to the right set of emotional, psychological, or whatever flaws they might have. Suddenly, for no reason at all, an entire civilization turns on itself, with its strongest members tearing each other apart. You see, I can catch or intercept those tungsten rods. That's not hard for me. I cannot intercept those feelings that a Harbinger carries. I cannot intercept the right set of memories delivered across time; too much distance for even me to cover. When they hit and when a world falls, it's usually too chaotic for even a Myth to put together what really happened. We don't have nearly enough Myths of the Path of the Detective.”
+
+With every word that flowed from Produveral’s mouth, he offered Shiv a wealth of information. More importantly, his heart was sour. He had seen too much. He'd been worn down.
+
+He didn't want to do this to Shiv, but he needed to. He believed in his mission, and clearly, the people who controlled the Farwalkers did as well.
+
+"I can see why he thinks this is justifiable and how Chorus approaches problems," the Harbinger said. "Think of what we hold over Evanescia and the Farwalker right now. Think of that influence. That influence can be turned into power when any emotional or psychological weakness is offered. Now he says we can deliver this across time, or we can force mental and emotional instability through violence across time as well. There is an alchemy of softness and hardness we can transition between: the soft is difficult to detect, but does not deliver direct injury. The hard is obvious in naked power, but also vulgar and loud. I stride between both tracks at will."
+
+So how am I supposed to counter his argument? Seeing that he has a point doesn't help me. I need a counterpoint.
+
+"Correct. In fact, there are many counterpoints. We have to think about them clearly. This isn't just a matter of morality, but also philosophy and justification. How much duty does one hold to the masses and countless peoples of Integration? Produveral is clearly a moralist who places greater value in the many rather than the few. But that doesn’t mean he does not care about the one. And ultimately, we don't need to change his perspective. We just need to drive him into doing one thing: breaching the dimensional veil."
+
+And that got Shiv inspired. “Well, that's all kinds of bleak. Why can't you Farwalkers, I don't know, send someone down to these pre-Mythic greater community worlds before all this bad shit happens?”
+
+Produveral’s expression soured. “The ambient mana thresholds mean that anyone above the ceiling cannot go, and the gods often play their own games. Their calculus is different from Chorus—they don't really care if a few trillion lives are lost, especially if they are a few trillion enemy lives, or lives that can be turned to greater profits and converted into religious fervor for a crusade of the faithful.” Shiv knew him to be speaking from experience with how hot the fury inside him burned. “Admittedly, I'm a bit of a different case, as you saw in Weave, but that's because I have a special skill and some disposable bodies that can briefly bottleneck matter. That's why I get dispatched on more… delicate runs.”
+
+“So what happens when you are not available? Does Chorus just accept that a world is gonna be lost or turn to shit? Do you just roll the dice?”
+
+“That depends on the world. Centauri has done a great deal compiling information and gathering intelligence about worlds on the verge of transitioning through their final Incursion before they reach the Mythic-Tier ceiling. If we're dealing with a world of monsters or a world ruled by absolute bastards that can't be saved, special measures are authorized in the form of Endhound deployments.”
+
+“Endhound?” Shiv asked. He couldn't recall that term.
+
+“Lesser Integration knows them better as Tarrasques.”
+
+Another revelation that struck Shiv like a blow to the gut. But he wasn't the only one who suffered a shock.
+
+“So that was why the System was warning me,” Uva breathed. “That was why your names were brought up. They're your monsters, used to cleanse worlds like ours.”
+
+“No, decidedly not worlds like yours, though Centauri has petitioned and tried.” Produveral gave a bitter laugh. “You have no idea how much the old Ur-Soph monsters want to see the populations of Earth butchered to the last, and our hated ancestral homeworld made a pyre and then a tomb to spite the Core one last time.”
+
+Shiv hummed. “Let me guess: You guys got Integrated not that long ago in the grand scheme of things. Even if you technically are Myths, you got ties here. You might not be that high up on the Farwalker or whatever community totem pole, and this Chorus told you no.”
+
+Deductive Reasoning 27 > 3[error]
+
+Leveling hurt bad. It felt like a whirlwind of blades dancing from point to point beneath his flesh.
+
+Produveral gave Shiv a double-take. “Okay, when I get back to Centauri, someone's ass is getting kicked. Their intelligence packet on you is absolute garbage. ‘Low intelligence, inattentive, socially blunt and stupid,’ my fucking ass. You're either a really good guesser, or you've got some kind of intuitive bloodhound shit going there. Or maybe the Harbinger is a little bit less broken than it's letting on.”
+
+“Maybe,” Shiv said noncommittally. “But in the end, it's not hard to put all the pieces you give me together. You gotta admit that.”
+
+“And how did one of your Endhounds end up on our world, and in Sullain’s hands, at that?” Uva hissed. Her anger was open and harsh. “It's still here too. Up in the north, being traded around by surfacer fools as if it’s some kind of weapon they can direct. Do you not have a responsibility to come back and claim what is yours? Does this Chorus not care that your weapon has been deployed in a place it shouldn't be active?”
+
+The Farwalker shook his head. “As they didn't deploy, they don't see it as their responsibility. The final verdict was that forces present on Earth possess the capability to kill it and thus can be trusted to handle it themselves.”
+
+“That's your justification. It's none of your business. It's your business to prevent attacks, but not your business when someone uses a monster you mysteriously lost.” Uva was spitting every syllable. “Laughable. Absurd. What manner of organization is this Chorus?”
+
+“Twelve worlds,” Produveral intoned, sounding like he'd spoken the words many times before. “One alliance. A desperate, fragile alliance that has barely held for the past million years. Barely a blink in the grand span, and Centauri makes for a very late twelve to the previous eleven.” He sounded tired. “Integration is vast. You can't imagine how vast. I can barely conceptualize how much known space we have to cover, and with all the unknown dimensions and galaxies that have been Integrated under the System… We have to make some hard choices.”
+
+“Well, I suppose the grievance your Centauri holds against our ancestors made things easy,” Uva muttered.
+
+Once more, the sickly mucus of shame filled the Farwalker’s emotional core. Not enough for him to apologize, but it imposed a growing fragility on his soul.
+
+Shiv saw an opportunity—and he pushed in the most subtle way he could. “Yeah, so, Produveral, this is why I don't trust you. Well, maybe not you specifically, but I don't trust Chorus and all this other civilization nonsense. Because if you guys can barely give a shit about stopping someone from cloning your Tarrasque and using it, how am I supposed to expect that you'll honor any agreement with me? Or trust what you say that you're going to do to my Harbinger, or if you can even get me out of here at all? It seems if something is inconvenient, you just don’t do it.”
+
+“It's not really how things work, and besides, you are a special case. I've got the go-ahead to use any and all means to get you to Chorus. Capture and extract, with the Friend Corps tasked with smoothing things over with this one, regardless of what I do.” He jabbed a thumb at Evanescia, who most definitely didn’t appreciate his open intent on subverting her.
+
+“There is nothing you can do, Farwalker. This place—”
+
+“Is nothing but a zone that's convenient for everyone to cross through, with you an inconvenient enough target that we don't depose you, and inconveniently related to one of the more powerful people in the Twelve Worlds.” He took a step toward Evanescia. She stepped forward in turn. “The only reason why any of this is a problem is because I prefer to be delicate. I prefer not to have a conversation with Udraal fucking Thann again. Aside from that, you have nothing—nothing—you can use on me.”
+
+“You wouldn't be the first Myth I have taken as a character,” she hissed.
+
+“I would be the first dedicated Martial Myth, though, wouldn't I?” He chuckled. He shot Shiv a look and gestured at Evanescia. “Don't let her scare you. The body she's wearing right now? Yeah, not a warrior's body. That's an unfortunate courier who got lost and then trapped after a bad bargain.”
+
+“A porter?” Shiv asked. “The hell kind of courier has Dimensionality like that?”
+
+“The kind that usually jumps entire star systems out of dead universes or into new sections of Integration per their transportation contract.” Once more, the Farwalker’s casual admission left Shiv baffled about just how powerful a Pathbearer could get. “Nothing I can’t handle, though. You can use this one’s power to clench the Fairwoods all you want—I’ll leave when I want to, and the only problem that’ll cause is a diplomatic one.”
+
+The gangly creature’s lips pulled back in a predatory grin. “You forget those that have existed here since the great wheel of seasons began to turn, Farwalker. I am curious how loud your screams will sound when the Court Monarchs rip you limb from limb.” A growl escaped Evanescia. “Offend me one more time, and you will be made a permanent fixture.”
+
+“Uh,” Shiv said, playing up his nervousness. “Maybe we should calm down. Produveral, I know you're powerful, but Evanescia’s basically a god here. I don’t know how you're gonna just go and—”
+
+“Like this,” Produveral said, and his body went dense with Dimensionality. A wave erupted from him. A wave that crashed through Shiv and the others and sent turbulent rows of static mana washing through the Fairwoods. Evanescia raised a hand, and a counter pulse of spatial mana followed to match his. At the same moment, he drew a knife shaped from the substance of glistening moonlight and reared back—
+
+But the way was suddenly clear.
+
+Shiv didn’t just feel his bodies again—he could reach them.
+
+And he just needed a moment’s distraction: a single moment’s confusion for everyone to make his play.
+
+Thus, the Deathless dodged first in a battle that wasn’t his own—out of reality, and into the Backstage where no one could remember him.

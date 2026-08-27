@@ -1,0 +1,93 @@
+---
+id: ee25d85f-9f19-5a46-9116-0e9a721bf6e0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 69"
+slug: 0069-chapter-69
+partOf: savage-divinity
+position: 69
+ownLength: 3170
+unit: words
+publishedAt: 2016-05-18
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/71107/chapter-69"
+royalRoadId: "71107"
+---
+
+Mila watched as Rain sharpened his spear, the grinding of the whetstone almost hypnotic to her. He moved carefully, never applying too much pressure, moving in short, measured strokes. It took him minutes to finish, and it was likely that he had done nothing useful in the entire time. The spear was already sharp enough by her judgment, but Rain never liked to listen.
+
+The air about him was crackling with intensity, as if to come close would be risking injury, his eyes sunken, his skin sallow. He was not eating enough, too focused on practicing, wolfing down whatever was available. Adujan looked much the same, if not worse, cultivating close by, the two of them rarely separated now, loners together except when Rain left to fight with the soldiers. It made Mila jealous in an illogical way, the two of them having bonded in combat, how they were similar in attitude. Both took death too hard, too personally. The scene at the hamlet had been horrifying, but how many other groups had suffered the same? How could the two of them assume responsibility for it all? It was maddening. While it was not a romantic closeness, they still shared an unspoken attachment.
+
+With a deep breath, Mila gathered her courage, rehearsing what she would say. Walking briskly, she brought the two large bowls of stew and rice and handed one to Rain. “Stop uselessly sharpening your weapon and wake Adujan. You both need food and rest. Here.” She had already gone off script. That didn't sound kind or gentle at all. Why had she added 'uselessly'?
+
+“I'm fine, Mila.” Rain stood, the bowl placed aside, scratching at his neck as he ignored her request. “I'm going to practice the forms.”
+
+“Stop, Rain.” She was almost pleading with him, she didn't think he would refuse to even eat. At least he was calling her Mila now, seeming more familiar. “If you must practice, at least eat first. You've yet to regain your weight, and you continue to deplete yourself every time you heal. It is unhealthy. And stop scratching, you're almost breaking the skin. Don't you have a cream or salve for that?” She moved to wake Adujan herself, handing her the second bowl. The two of them ate as quickly as possible, barely even tasting the meal she had worked so hard to cook. Huu had complimented her on it, at least.
+
+Huu had adapted well to war, already the talk of the Sentinels, all of the unmarried women flocking to him in an effort to charm him. The son of a Bannerman, a rising young hero, handsome and sweet, the attentions Huu garnered had him grinning nonstop for the past few days. While his accomplishments were on the same level as Rain's, Huu was fighting among the Sentinels, while Rain had abandoned them to fight on foot with the soldiers. This was seen as a slight by many so Rain was ignored for the most part. She saw Huu close by, aiding two lovely women with their Forms, a pair of sisters from a neighboring village, a big goofy smile upon his face. Again, a twinge of jealousy shot through her, but Mila dismissed it almost instantly. She had no romantic feelings for Huushal and no prior claim upon him. She had no business being jealous, she should be happy for him.
+
+Finished with his meal, Rain placed the wooden bowl in her hands with a nod, and moved off to an open area, practicing his forms once again. Song swooped in to grab the bowl, running off to clean it. Another problem Mila needed to deal with. Mila watched helplessly as Song ran off, before turning to Adujan. Perhaps she would listen. They were both beginning to shut everyone else out, quiet and reserved, both looking determined to join battle once again. Mama had said to leave them be, let them deal with their struggle in their own way until they asked for help, or their actions demanded it, but it hurt her to watch them in so much pain. Smiling the best she could, she sat down in the dirt next to Adujan. “Hello Yan. Have you been well?” That was a stupid question.
+
+“No, not at all. War is shit, being a Sentinel is shit. I think I'm going to learn a more noble trade, like whoring or slave trading. In the city, they have these people who drive wagons around, collecting everyone's shit. What's that job called?” Adujan was terse, eating slower than Rain had, but still gulping down large spoonfuls. “Food's good though. You make it?”
+
+“Yes, thank you!” Mila beamed at the praise, happy to be acknowledged, choosing to ignore the foul bits of conversation. She had been learning how to cook from Alsantset, the lessons helping her unwind after battle. “How is your cultivation progressing? You're able to use the ring without supervision?”
+
+“Not really, but everyone is busy. Measured risk, and no one would miss me if I fuck up.” Adujan looked at her plainly. “Stop fucking dancing around it and just say it. You want to speak about Rain, right?”
+
+“Not just Rain, I want to talk about you as well.” Moving herself so she faced Adujan, she continued. “I'm worried about the both of you. Neither of you are taking good care of yourselves. You've been sullen and withdrawn.” More than usual, but that didn't need to be said. “I would miss you, Yan, so please be careful and find someone to watch over your cultivation, and don't speak like that in the future. I'm here for you if you want to talk.”
+
+Adujan studied her face for a moment, looking for something that Mila was unaware of. “Great. Thanks. I mean that.” Adujan slurped down the rest of her food and walked to the nearby stream to wash her bowl. Mila followed her in silence, letting Adujan gather her thoughts before speaking, waiting for her to be comfortable. Song was still there, scrubbing away at the already clean bowl, her fingers red and raw, while the roosequins frolicked in the water, happily swimming in the icy cold. When Adujan finished washing her bowl, she held it out for Mila before it was snatched away by Song, who began washing the bowl once more, as if the bowl had done her wrong and she wished to drown it.
+
+With a shrug, Adujan returned to her spot in front of her tent, and without a word, sat down to cultivate. Mila felt her brow twitch as she tried to rein in her anger at being ignored. It was not their fault. They were just both stubborn and rude by nature, neither having learned proper manners. She needed to be patient. Rain and Adujan both preferred to deal with their problems on their own. She only needed to wait for them to learn that they were wrong. She signaled Tanaraq who sat nearby, and after explaining the situation, Adujan now had someone to look after her as Tanaraq settled in to watch the stubborn girl.
+
+Letting out a slow breath, she turned to her other problem child. “Song, you don't need to do other people's dishes.” The girl had almost passed out from anxiety when Mila was cooking, unable to help because she lacked the knowledge. Mila grabbed her by the arm to pick her up, and the bowl tumbled into the stream. Wrenching her arm free, Song dove into the icy cold water, grasping at the bowl frantically as it floated away, disturbing the swimming roosequins. “Song, come back.”
+
+Hearing her order, Song hurriedly returned, kneeling in the dirt, her forehead thumping as she struck it against the ground. “This slave has failed you. A thousand apologies.” An unfamiliar quin brought the bowl up, squeaking for a treat which Mila provided. Somehow, on the trip here Rain had managed to teach many of the quins to fetch things for him, and they were all eager for the sugary fruits he provided. Sometimes they even stole things, and kept them for ransom until fed. It had been frustrating to scrounge up fresh fruits in order to get her helmet back from Zabu, the quin in a frenzy to provide courtship gifts to Shana.
+
+“Calm down, Song.” Mila was at a loss on how to deal with her. “Stop kowtowing, it's just a bowl, you don't need to panic. See, the cute little quin brought it back.” Brushing the dirt off her face, she looked down at the pretty girl, with her clear, olive skin and bright, feline eyes. Her lips were already blue from her short swim, shivering in the cold air, hair plastered to her face, and still she was a beauty. Mila had ugly freckles and shoulder cropped hair, a tiny nose and too-large forehead. Of course Rain paid no attention to her. Her shoulders were broad, her breasts meager, arms muscled, and legs short, completely lacking the soft, feminine curves that Song naturally had.
+
+Scrunching up her face, she silently admonished herself. This was no time for self-pity. “Song, could you stand up please?” It was important to ask, not order, something she had forgotten in the heat of the moment. Meekly obeying, Song stood, shivering while staring down at the ground. Nothing Mila said ever calmed her, nor did anything she did help. She'd tried many things, patting her head, letting her play with the quins, leaving her with free time, she even suffered through Song's insistent need to be held while sleeping. While Song didn't have nightmares, every night she would lay down and wrap her arms around Mila, sleeping in the dirt despite the bedroll laid out for her close by. Mama had said to be patient with her, and Mila was trying, but between Song, Adujan, and Rain, she was starting to lose her mind. She thanked the mother that Huu was doing so well on his own.
+
+Leading Song back to camp, Mila helped her change into dry clothes, and the two of them sat on a log together, warming her by the fire. “Song, you may be restrained by your oath, but no one here will treat you as a slave. You are one of the People now, one of ours. We look after our own.” No response. Song never spoke, unless it was to answer a question, or to insult herself, the poor thing. “Can you tell me, what do you want to do, more than anything? You won't be punished, just tell me something you would enjoy doing, if you want to.”
+
+“I wish to serve Master.” The answer came immediately, a rote repetition.
+
+“No, no, just... It's supposed to be something you want to do.” Mila wanted to pull out her own hair. How difficult was it to name something you wanted to do?
+
+“Give her something to do, Mila.” Rain never stopped his movements, not even looking over as he spoke, his tone dry. “She feels useless sitting around all the time. Find her chores, even if it's just peeling vegetables. She needs to feel useful.” He finally paused and looked over, a half-smile on his face. “I can find something for her to do, if you would prefer that.”
+
+Song continued to stare at the ground, but Mila thought she looked almost hopeful, her back a little straighter, shoulders not slumped so far down. Useful... “How would you like to... serve?”
+
+She perked up at that. “This slave is a warrior, and can serve best protecting master, or fighting in duels. This slave can also practice when Master will allow it.” Poor child, she wanted to fight and train. A third combat fanatic. Splendid. “This slave is well versed in the Tiger Forms, focusing upon it from young.”
+
+A foolish thing to focus on a single set of the forms. Why not learn them all? Mila pointed at the practicing Rain, making plans to teach Song properly in the future. “Well for now, watch him while you dry off. If you have something helpful to add, speak up. You can practice tomorrow, or whenever you want, really.” They sat together watching Rain practice. He didn't move through the forms, seeking enlightenment, but rather, studied a single form, over and over again. Tiger Form, Killing Lunge. Right foot forward and bent, left leg back and straightened, right arm shooting straight out. Reset. Both legs bent, right arm curved. Reset. Left leg forward, right arm arcing. Reset. He moved through multiple configurations of a very basic form, one almost everyone could perform.
+
+An idea came to her. “What are you doing, Rain? Perhaps it will help to talk it through.” Perhaps she could solve his current troubles, and he would learn to come to her with his problems.
+
+“Hmm. Maybe you're right.” He walked closer to her and squatted to talk to her. “In the first battle a few days ago, I killed a charging Ursagon, with one thrust, using this form.” He didn't sound proud like he would have before, just a statement of facts. There was little enjoyment in him lately, no smiles or quips, just cold, determined logic. “It wasn't until after the battle that I realized it should have ripped my arm out of my socket, except it didn't. I somehow stabbed a charging, two-ton creature head on and didn't die. I'm trying to figure out how, but it isn't going well.”
+
+Brushing her hands off, Mila stood. “Let us recreate the situation. Show me how it was accomplished.” They spent half an hour setting up the exact moment of the fight, Rain trying to recreate his movements, but to no avail. No matter how they tried, if Rain had killed the Ursagon like he said, by all logic, either the corpse would have crashed into him, or his arm would have been torn off. “Are you sure this was the form you used? Maybe it was something else, Hidden Ambush or Darting Fang maybe?”
+
+“No, no, I'm positive it was Killing Lunge. I'll figure it out.” He returned to repeating the movement in differing variations, unaffected by their failure. Mila sat back down with Song, who had spent the entire time watching them in her own careful way, without ever raising her head.
+
+Sighing deeply, she set her elbows on her knees and fists in her cheeks, discouraged by her inability to help. “If only I could help him...” She muttered under her breath, to no one in particular. She had never heard of anyone having a problem like this, to have been Enlightened, yet unable to grasp a hold of the knowledge.
+
+After watching Rain repeat his motions a few more times, Song spoke quietly. “Master, This slave may know how he killed the beast.”
+
+“Really? How?”
+
+“A combination form. Killing lunge is only one part of it. The other is Springing Step. Should this slave demonstrate?”
+
+Mila nodded several times. “Yes yes, of course, please do.” Tiger Form, Springing Step was almost like a dance movement, a small skip, but one foot always on the ground. Mila was delighted that Rain's suggestion had worked, the girl's first time voluntarily speaking up. She should have asked for his help long ago.
+
+Song stood up and moved a few steps forward, demonstrating the movement several times, from different angles for Mila to see. Unlike the head on, rigid movements that Rain was attempting, Song moved in a light, circular step, her feet swinging as she lunged. “It is a countering strike, to dodge with a half circle movement. Rather than a direct lunge forward, the leading foot turns 90 degrees from the back foot. This lowers the amount of power in the thrust, but the strike relies on using the power of the opponent against them. The step allows you to trick your opponent, by appearing to move to the right, while slipping to the left.”
+
+Rain watched closely a few times before closing his eyes to think. He stood still for long minutes, pondering the movements, while Song returned to her seat next to Mila. Whispering so not to disturb Rain, Mila praised Song. “Well done, I think you were right, Rain is in study.” The girl had no reaction to her praise, still stony and downtrodden as always, but it was progress at least.
+
+While the movement seemed limited in use, it could be very powerful in the right circumstances. Mila would need to practice it as well, a useful tool when on foot and faced with a mounted opponent. Dodge with minimal movement, and allow the opponent to impale themselves. It didn't look very impressive, if Mila was being honest, just a step at an odd angle, but in close quarters, it opened up many different angles of attack.
+
+Rain's eyes snapped open, and he moved, performing the same forms, yet very differently from Song. Where Song was soft, and reactive, Rain was forceful and aggressive. A longer step, a heavier thrust, Rain's demonstration was offensive in nature, Song's defensive. He repeated it several times, each time becoming more and more aggressive, using Springing Step to move into position, combining it with several other forms to attack, a chop, a slash, a twisting strike. A smile broke out upon her face as she watched Rain continue to become stronger. Already he was a fearsome opponent in close quarters, his only issue was reaching that range without dying. This step allowed him a gradual approach, rather than his head-on charge he was so fond of. He still lacked the explosive speed that Mama had, making it a risky gamble each time he used it.
+
+Rain stopped his practice and walked over, Mila waiting for her praise. “Thank you Song, you were a great help.” This... “Sumila, spar with me?” His theory worked out, now he sought to put it to the test, and Mila was more than happy to oblige. They stood across from one another, Rain taking his stance, sword forward, his body turned sideways.
+
+Smiling, she stepped forward, Springing Step. Smashing his sword aside with her shield, she drove her knee into his ribs. “You fight in close quarters, don't leave your sword sticking out like that.” Doubled over and gasping, Rain sought to regain his breath while Mila waited, happy and relaxed. Not only was she able to help Rain, sparring also helped her work out her frustrations with him. Stupid, angry, uncommunicative Rain. He should just open up and speak about his problems, maybe as they sit side by side, sharing warmth and chatting beneath the moonlight. Instead, all he did was ignore her unless he needed help or a sparring partner. Fine, if he wanted to spar, then they would spar. She would spar with him until he threw up. Perhaps then he would taste her stew, as it made its way back up.
+
+He didn't thank her even once the entire night. The big idiot.

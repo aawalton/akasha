@@ -1,0 +1,131 @@
+---
+id: a0c5613b-0bff-5b4f-a79b-c6bb8d5f509c
+page-type-slug: story-chapter-royal-road
+title: "B1 Chapter 3 - Understanding"
+slug: 0003-b1-chapter-3-understanding
+partOf: path-to-prosperity-litrpg-vol-12-stubbed
+position: 3
+ownLength: 1419
+unit: words
+ownProgress: 1419
+publishedAt: 2024-06-29
+link: "https://www.royalroad.com/fiction/89323/path-to-prosperity-litrpg-vol-12-stubbed/chapter/1697660/b1-chapter-3-understanding"
+royalRoadId: "1697660"
+markedReadAt: "2026-06-29T21:36:23.286Z"
+---
+
+The coin continued spinning. It accelerated slowly but steadily until the chill-inducing grimace was all he could see.
+
+“Come to me, you little disgusting coin,” Percy murmured and reached out. It stopped spinning when he grasped it.
+
+He moved his hand closer to study his Ego, only to see that his hand was empty. A sting was all that remained.
+
+Where did it go–...Oh…Ohhh!
+
+Percy’s face lit up as streams of information appeared out of nowhere. They flooded his mind and brushed past his eyes. His eyes began itching as something popped up in the corners. It was a small icon with a golden coin symbol.
+
+That’s…Not as weird as I expected.
+
+Percy could recollect that forming an icon in the corner of one’s vision was common. Though, he might be mistaken. His memories were a little foggy. Fortunately, the streams of information were more reliable than his memories. They settled neatly in his mind, easy to access.
+
+Percy nodded slowly and focused on the icon in the corner of his eyes. A dark blue screen with information popped up before him.
+
+『Percy 』
+
+[Ego – Coin of Prosperity]
+
+[Tier] – [Mortal-0]—[Empty]
+
+“Even the Messenger is telling me I have no family,” Percy chuckled once he finished reading through the information the first time.
+
+It didn’t matter much, but Percy found it amusing. He didn’t need a family anymore, either way. The old man raised him much better than many parents ever could.
+
+He was satisfied – or would be if he wasn’t dirt-poor.
+
+I shouldn’t have a problem improving my finances now. All I have to do is study my Ego and increase my Tier. I can hunt monsters and earn a good coin by then, right?
+
+Percy nodded slowly while reviewing the newly imprinted information once again. It showed him what he was currently capable of and what he might be able to do in the future.
+
+I didn’t know a Gifted One’s Tier could be Mortal-0. Wasn’t Mortal-1 the lowest rank someone with access to mana can have? Is that why I cannot sense any mana inside me? Because I don’t have any mana yet.
+
+Percy considered the possibility, and it made sense.
+
+That means I’m still an ordinary person. Hunting like this, in my current condition, would be pretty dangerous.
+
+As he ranked up, Percy would grow stronger and gain more mana. The mana would reinforce his physique permanently, elevating his natural power to a level ordinary people could never reach.
+
+Now, what can I do with my Ego?
+
+A new screen popped up.
+
+『Coin of Prosperity』Prosperity: 0➛Consume
+
+There was no description related to the Coin of Prosperity’s abilities, the meaning of Prosperity, and what he could do with [Consume], but that wasn’t necessary. A second stream of information entered his mind, engraving everything he had to know about his Ego into his mind.
+
+Percy grinned as understanding dawned upon him, and he used [Consume].
+
+His vision changed as [Consume]’s power was triggered. Several objects in his room were shrouded in a faint hue.
+
+[Iron Dagger – Average Quality – 53 Prosperity]
+
+[Leather Pouch – Low Quality – 1 Prosperity]
+
+[55x Copper Coins – Ordinary – 55 Prosperity]
+
+…
+
+Percy looked down at his body to verify that his clothes glowed dimly. Meanwhile, the bed, his nightstand, and the desk didn’t change. No information popped up. They didn’t belong to him.
+
+So the information streams are correct. Everything I own can be consumed by [Consume], transforming it into Prosperity points. But something is odd. The iron dagger is worth less prosperity than the copper coins. Fifty-five copper coins are never enough to purchase a proper iron dagger. I almost sold mine to that slimy merchant near Nighthound alley, who offered me 80 copper coins. It’s probably worth more than that. A silver coin, maybe two.
+
+He stepped closer to the desk and picked up his leather pouch to empty it before using [Consume] on it. However, Percy didn’t realize how sensitive his new power was and how excited he was at this moment.
+
+The moment he picked up the leather pouch, something within him stirred. A cracking sound reverberated through his little chamber of poverty before something burst out of Percy’s palm. It was hard to describe because everything happened so fast. One moment, Percy was holding his leather pouch, and the next, the leather pouch was no more.
+
+[Goods worth 56 Prosperity have been consumed.]
+
+“Fuck me,” Percy cursed.
+
+He was fairly sure that something eerily dark shot out of his palm…something with several rows of razor-sharp teeth. Percy shuddered and stared for several seconds at his palm, but there was nothing, no matter how long he observed his hand. There was not even pain, which he’d expected after the resounding cracking.
+
+He swallowed hard and pressed his lips together, giving his utmost to keep his composure.
+
+One thing is for sure. I don’t have enough money to pay rent anymore. Wait, wait, wait!! Forget about rent. This room is disgusting, either way. What about food?! I cannot afford food! Noooo!!!
+
+Percy wasn’t given any time to sulk as another notification popped up before him.
+
+[Your Tier increased by one rank]
+
+When the notification appeared, something changed. His pores opened naturally, and something entered his body. Percy’s hair stood up to its end, and the urge to run away awakened within him. Still, instead of running, Percy remained unmoving. He allowed the unknown to enter freely even if it felt odd.
+
+A cool gust – or was it a stream? – spread through Percy’s body. It dispelled his exhaustion and invigorated him.
+
+That’s what I was looking for. So that is how mana feels like? Like a cold, prickly gust?
+
+Percy’s Tier advanced to Mortal-1. That was a pleasant surprise. At least he didn’t fall behind every other Gifted One from day one. That didn’t solve his lack of money, though. His grumbling stomach affirmed that.
+
+“This is going to be an issue,” Percy mumbled, tapping his stomach lightly while looking outside. It was already too bright outside to steal a loaf of bread or something small from the neighbors. Not that he wanted to steal something in the first place.
+
+It was problematic that air didn’t feed him as well as a good loaf of bread.
+
+“Maybe I can eat Prosperity,” Percy joked, using [Consume] on his Prosperity.
+
+He had 56 Prosperity to use. But how could Percy use the Prosperity to quench his hunger? Was it possible to use Prosperity to earn money to buy food?
+
+The problem with his Ego was that the information stream only told him how to do the most basic things with his new powers. The theoretical understanding was already etched in his mind, but using the theory in practise was a bit more complicated. [Consume] showed that clearly. It worked as described but the process was different.
+
+Silverish-golden threads appeared in front of him after he used [Consume] on Prosperity. The threads connected to his remaining belongings, which wasn’t a lot. A few threads connected to his clothes and the dagger on the table.
+
+“The threads connected to the iron dagger are thicker and firmer,” Percy noted, his brain rattling as he inspected the glimmering threads. The threads connecting to his clothes were hair-thin and incredibly fragile. He ignored them and grasped the iron dagger, the thread attached to the weapon’s blade, to be precise.
+
+[Iron Dagger’s Blade has been enhanced. 30 Prosperity has been deducted.]
+
+Percy saw his Prosperity count drop to 26. His heart ached, but he focused on his blade instead of complaining aloud.
+
+The silverish-golden thread shrouded the blade and blinked twice before dispersing, revealing a polished blade behind. A single glance was enough for an ordinary person, just like Percy, to tell that the blade was sharper than ever.
+
+A shudder ran down Percy’s spine when his hand coiled around the dagger handle. He grasped the dagger tightly, his eyes glued to its blade as he walked over to the bed. He removed the bed sheet on one corner and stretched it lightly before slicing it. Percy expected some resistance as he sliced through the bed sheet, but he found himself cutting through it cleanly. There was no resistance. It was almost as if he cut through empty air.
+
+He put the bed sheet back, as well as possible now that it was cut, and stared at the Iron Dagger, a seed of excitement blossoming deep inside his heart.
+
+“That’s crazy!”

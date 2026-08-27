@@ -1,0 +1,323 @@
+---
+id: e161a45b-b3fa-52a3-afe1-1b17c5423362
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14 – Heavy Metal VS Rock"
+slug: 0015-chapter-14-heavy-metal-vs-rock
+partOf: rock-falls-everyone-dies
+position: 15
+ownLength: 2114
+unit: words
+ownProgress: 2114
+publishedAt: 2023-01-28
+link: "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1099389/chapter-14-heavy-metal-vs-rock"
+royalRoadId: "1099389"
+markedReadAt: "2026-06-29T22:50:45.069Z"
+---
+
+In the vastness of space, near the edge of our hero’s solar system, a pair of mobile suits were advancing, pushed forward by mighty jets.
+
+They were the vanguard of their people’s advance, the brave champions who explored the unknown deep and defeated dangers before they could threaten their push forward.
+
+The two giant mechs were rather different in construction. One was a scrappier unit, small and worn, repurposed out of a mining suit. Its grey exterior bore the scrapes of many a brawl, but despite its humble make, it still braved on, driven by a veteran mechanic.
+
+The other was quite the contrast. Gleaming, metallic chrome, a larger frame, and high-tech construction formed from the best of their scientist’s efforts. The driver was the young hotshot of the space force, a fresh face compared to the grizzled veteran piloting the other. A mismatched pair they may have been, but their bond was unbreakable.
+
+// HMS-112, please report in. Over.
+
+“Roger that, red base, this is HMS-112. Nothing strange detected so far. Over.”
+
+// Roger. Any sign of the destroyed scouting unit? Over.
+
+“Roger. Nope, no sign of it yet. Over.”
+
+// Roger. Be on the lookout, our sensors are still detecting the gravity anomaly in the system. Over.
+
+The message cut off with the buzz of static, and the veteran pilot sighed. He leaned towards his microphone, broadcasting his voice to the other mech. “Buddy, you seeing anything yet? Your eyes are sharper than mine.”
+
+“No—nothing yet. Stay focused,” came the answer.
+
+The veteran snorted, relaxing in his seat. It was an important task, but he did not think anyone could stay one hundred percent focused all the time. Even if their task was the most important one in the world.
+
+Their home lay a broken heap, shattered by war, and now only three great colony ships remained of their people. And defending one of the three was up to the two of them. Still, he needed to calm his partner. Nerves would be the death of them.
+
+“Hey—relax for a moment there. There haven’t been any nuclear-class energy signatures in this solar system yet. We’ll be fine.”
+
+There was a moment of silence, and then the communicator crackled again. “… I’m just—worried. The main ship is trailing too close to us. It should have stayed further back. Something isn't right about this place. Like an itch.”
+
+Internally, the veteran agreed, but calming his partner was priority number one, so he spoke in a relaxed tone. “Don’t worry, they have sensors to detect any possible hostile ships. And think of the probabilities. What are the chances that something would really be out here, in the middle of this solar system? Life is rare enough.”
+
+Suddenly, a sensor started blaring, and a red light filled the cockpit.
+
+// SENSOR ALERT. OBJECT APPROACHING AT RAPID SPEED.
+
+The veteran instantly kicked his legs into pedals, activating the thrusters, and pulled his joystick back, rotating the suit around 90 degrees, then thrusting up—just as an asteroid streaked below it.
+
+“Kinetic bombardment!” he shouted, pressing every single button in his cockpit because the people who designed their control scheme had no mercy.
+
+More asteroids were coming now, and he saw that his partner had activated the [High Tech Convenient Lazer Sword] of his suit, and was slicing the meteorites into bits and pieces, dancing a rhythm of destruction among them all.
+
+The veteran’s worn fingers finally prevailed, and he managed to type in the launch sequence. “Activating [100 Homing Photon Missiles]!”
+
+Streaks of light started to spread out from his photon-volt pack, homing in on the countless meteors streaking around him. Then… things went wrong.
+
+// GRAVITY ANOMALY DETECTED
+
+The veteran’s eyes widened as the missiles suddenly began veering off course, crashing into each other, almost as if they had all suddenly fallen into a deep bit together.
+
+“Hey—are you seeing this? I’m not getting any energy signatures!” he shouted, putting his thrusters at 100% capacity to escape the field. “We need a visual!”
+
+“I have one,” came the curt reply, cracking with static. A marker appeared on the veteran’s HUD, right between the fuel level indicator and the idle-clicker game he always kept at the edge of the screen.
+
+“That’s no enemy ship—” the veteran said, eyes widening. Because what he saw was not an enemy ship, looming above them, ready for battle. No—what he saw were rings. Three rings of rocks, all rotating around one central figure. “—that’s a rock.”
+
+It was stationary, flinging rocks at them, almost as if it was observing. Testing.
+
+“I’ll take care of it!” The veteran said, opening a hatch under his desk, revealing even more buttons, and starting to press all of them sequentially. “Activating [Homing Lazer]!”
+
+“I’ll cover you,” came his partner’s calm reply.
+
+Reassured, the veteran pilot kept pressing the buttons with his left hand, while using his right to reach out for the USB-mouse stowed under his chair, which he then attached to his main control panel. It took him three tries to get it in the slot, but once he did so—a targeting reticle appeared right above his eyes.
+
+Carefully, he moved the mouse, hands shaking from nerves, and right clicked on the rock’s position. A menu opened.
+
+// Lock in lasers? Y/N
+
+His partner had realized that just cutting the meteors into smaller pieces of shrapnel wasn’t actually helping much, and moved up to shield him with the [Indestructible Particle Shield].
+
+The veteran’s hand stopped shaking, reassured by his partner’s presence, and he clicked the left mouse button.
+
+// Launching [Homing Lazers]
+
+A single beam of light shot forward from his reactor core, moving much slower than the speed of light but still pretty fast, and split apart into hundreds of beams, which all began bouncing towards the central rock.
+
+“I’ve got it!”
+
+The rock moved its rings to block off the beams, but the beams dodged behind it, striking at its rear. The veteran cheered.
+
+“I’ve got a hit!”
+
+// ANOMALY DETECTED. TARGET IS VIOLATING THE RULES OF THERMODYNAMICS.
+
+The veteran’s eyes widened as he tried to read the message which had appeared way too close to his face, and they widened even more when he parsed the meaning.
+
+“What? How can it—”
+
+He clicked the little x at the top-left of the message with his USB-mouse, making it disappear, then looked at the scene. The rock was still there—absolutely fine. And moving.
+
+// TARGET HEATED UP BY 150K
+
+He clicked the new pop up away too, cursing. “This doesn’t make any sense! How can it do that? That's not how any of this works!”
+
+“Doesn’t matter. Just need to deal. I’m going in,” came the younger pilot's reply.
+
+The veteran pushed his thrusters further, reaching 200% power utilization, and rushed to back up his buddy who was rushing into battle. Because the rock had also started rushing at them.
+
+“It’s accelerating!” The veteran shouted, pushing his thrusters to 300% power utilization.
+
+His partner bobbed and weaved, then drew out a second [Lazer Sword], and reached the rock. “I’ve got it!” The giant robot slashed down, red and blue swords lights reflecting against its chrome finish, just about to hit the rock.
+
+And then the rock… pivoted.
+
+Right around the mech, revealing a barrage of meteors behind it.
+
+// ANOMALY DETECTED. TARGET IS VIOLATING THE LAWS OF PHYSICS
+
+With horror, the veteran watched as two trailing rocks clipped his partner’s mobile suit, smashing its left arm off.
+
+“Taking critical damage!”
+
+“I’ve got you! Activate the thing!”
+
+“Roger!”
+
+The veteran pushed his thrusters to 500%, then took his hands off the controls, clapping them twice.
+
+“Activate motion controls!”
+
+// Synchronising…
+
+He stood up from his chair, crossing his arms beneath his chest, looking down the hatch at his partner’s mech, and his suit mirrored his every movement.
+
+“It’s time to show this rock that the Heavy Metal Systems mark 1 and 2 are no ordinary machines!”
+
+His partner’s mech also went into gesture control mode, and the remnants of the destroyed arm were cast off, revealing a USB slot.
+
+One matched the USB connector that had just appeared on the veteran’s own scrappier suit.
+
+Together, they shouted out the key phrase. “Activate [Combination Sequence]!”
+
+The two mechs slotted together, one becoming the arm of the other, and all the lights in the cockpit turned red.
+
+// INCREASING POWER AVAILABILITY TO 1000%
+
+// SYNCHRONISING..
+
+// COMBINING...
+
+A single tear dropped from the veteran pilot’s eye. “Using the power of our bond, we cannot—”
+
+“Brother! It’s not letting us do the transformation sequence!”
+
+“Wait, wha—”
+
+THUNK
+
+Collide activated!
+
+[Unnamed] Dealt 202 * 133653.3 / 4  = 6749492 dmg to <Entity 666xz1122>
+
+New Velocity for [Unnamed]: 211.3 m/s
+
+The rock passed right through both mobile suits at once, wondering why they had clumped together like that for it. They had become much easier targets, staying in place for so long as they had.
+
+But the mystery soon passed from its mind, as the rock looked over the results of its hunt.
+
+Two large battered husks of metal, controlled by two smaller fleshy things inside them.
+
+It was… an interesting idea. Something about it lodged into the rock’s mind, to be parsed later. But then it moved on—towards the bigger target.
+
+The rock used [Energy Shift], and began using its Qi base to accelerate towards the much larger piece of metal, which had begun reversing course in the distance. They were trying to escape from the rock!
+
+Of course, our valiant hero could not allow such a thing, and followed them patiently, gradually gaining speed.
+
+And gaining speed.
+
+And gaining speed.
+
+And gaining speed.
+
+It finally reached the giant colony ship, a huge mass of pipes and wires, and like a golf player on the green, began lining up a shot. If it got this one just right…
+
+It [Steered], then [Pivoted], managing to find that perfect spot.
+
+Where it could pass through the whole body of the ship, along its length axis.
+
+It accelerated more, and activated [Diamond Skin] with the full power of its Qi, and hit the ship.
+
+Collide activated!
+
+[Unnamed] Dealt 900.1 * 133653.3 / 4  = 30 075 334 dmg to <Entity 021xz1199>
+
+New Velocity for [Unnamed]: 323.1 m/s
+
+A collapsing metal husk was left in the rock’s trail, exploding further and further in a chain reaction until only bits of scrap were left floating in the emptiness of space. And the fleshy bits that had been inside, controlling the larger metallic hulk.
+
+And so the war between worlds came to an end, fought with laser sticks and stones, as was once prophesied. But rock always won.
+
+Rock, paper, laser. It was written in the rules.
+
+But… seeing the results of its work, the rock was curious. For it was new to most things, and only knew some. But the way a smaller thing could control a bigger thing…
+
+It fascinated the rock. Because the system had stopped it from doing a certain thing before, and that had set the rock’s progress back significantly.
+
+It began collecting the bits of metal, new additions to its growing [Meteor Shower], when a notification finally appeared in front of it.
+
+Outsider Incursion Cleared!
+
+Congratulations!
+
+Bonus Experience awarded!
+
+Level up!
+
+20 000 / 5000 xp
+
+Discarding overflow xp
+
+You have reached level 11!
+
+Stats up!
+
+Mass (m): 133 653.3kg -> 1 069 226.4kg
+
+Diameter (d): 4.61m -> 9.23m
+
+HP: 89 -> 144
+
+New Title Granted!
+
+Galactic Defender
+
+Receive information about <Astral> tier threats to your home, and gain bonus experience for defending the world from them!
+
+Galactic Defender Alert!
+
+Class 10 [Doomsday meteor] will hit [Planet Dirt] in 230 years!
+
+Stop it to gain bonus experience!
+
+And so, the rock finally learned its home's name, but what was this? The rock focused on its [Kin of Stone], sensing a new presence being added to the map, much further away than any of the others.
+
+Much larger than our rock.
+
+But the rock… it felt offended. Some other rock was going to go to its home before it?
+
+Unacceptable.
+
+It began accelerating towards the new signal.
+
+Quest:
+
+Current Altitude: 187 300 122 111m
+
+Full Status:
+
+[Unnamed]
+
+Title(s): Line-Ender, Patient Ambusher, Bane of Demons, Grandmaster of Closed Door Cultivation, Galactic Defender
+
+🗿
+
+HP: 144/144
+
+Mana: 0/0
+
+Level: 11
+
+Experience: 0/20000
+
+Class: Meteorite
+
+Sub-class: Cultivator 8
+
+Race: Gneiss Stone
+
+Gold: 100%
+
+STATS
+
+Diameter (d): 9.23m
+
+Mass (m): 1 069 226kg
+
+Energy Level (E): 10 000 MW
+
+Core Temp (T): 4000K
+
+Domain size (d) = 10.0km
+
+ABILITIES
+
+Collide
+
+Steer
+
+Energy Shift
+
+Pivot Point
+
+Pivot Point: Orbital Slingshot
+
+Just a Rock
+
+Meditate
+
+Diamond Skin
+
+Stolen Cultivation
+
+Meteor Shower
+
+Kin of Stone
+
+Gravity Launcher

@@ -1,0 +1,29 @@
+---
+id: 9cee2367-3b99-520c-86d6-8f311fb25ebd
+page-type-slug: story-chapter-royal-road
+title: "SIXTY-ONE:"
+slug: 0062-sixty-one
+partOf: super-supportive
+position: 62
+ownLength: 115
+unit: words
+publishedAt: 2023-08-17
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1313039/sixty-one"
+royalRoadId: "1313039"
+---
+
+.
+
+.
+
+.
+
+It hurt too much for words.A case of content theft: this narrative is not rightfully on Amazon; if you spot it, report the violation.
+
+.
+
+.
+
+.
+
+Dear Royal Road Awesome Tech People, this is my attempt not to circumvent your lovely system for nefarious purposes but to have a single sentence chapter in my book for artistic reasons. It's something I would like to do, but it's not strictly necessary so I asked for permission first. Thank you for giving it! If it becomes a problem at a later date, please let me know and I'll delete it. Thank you very much for letting me write stories on your site. Sleyca

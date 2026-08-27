@@ -1,0 +1,99 @@
+---
+id: 33a12517-fb70-5f00-8f67-09d66ddb1dfa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 36"
+slug: 0036-chapter-36
+partOf: savage-divinity
+position: 36
+ownLength: 3147
+unit: words
+publishedAt: 2016-04-04
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/62792/chapter-36"
+royalRoadId: "62792"
+---
+
+Mei Lin wakes me when we arrive at our destination, a raised stone stage, unadorned and surrounded by stands, like stadium seating. There are people constantly coming and going, watching the proceedings, seeming in good mood, laughing and jeering, but I'm too low to see what's going on. Akanai stands stage side, straight backed, hands clasped behind her. Tokta carries me gently out of the rickshaw and over to her. As we approach, she leaps onto the stage and walks off without a word and Tokta lightly follows her, almost floating as he lands without jarring me. How did he do that? He ignores me when I ask.
+
+My throat closes as we approach, and I see what everyone is laughing at. In the middle of the stage, stands a tall, solitary column. Strapped to it is a barely recognizable, human shaped, lump of flesh. If not for the chains, it would not even be upright, all it's weight on conveniently placed supports. The mouth moves, but no words come out. It's chest has been flayed open, the skin hanging by the barest margins, it's flesh red and spongy, exposed for all to see, belly cut open, entrails hanging out. It's... His penis and testicles have been removed, sitting atop a small counter in a silk lined wooden box, on display in front of him for all to see. I stare into his eyes, which stare back, unblinking, because his eyelids have been removed.
+
+All this damage, this torture, each breath must be bringing new pain.
+
+Tokta gently puts me down, supporting me from my left. I put my foot down gingerly, and pain flares through it, but I endure. It's nothing compared to what I'm looking at. His fingers are all broken, nails removed, my hands clenching in sympathetic pain. I hobble forward and Akanai supports me, nodding at Tokta, who leaves the two of us alone, standing in front of this horror show. I don't know how long I stood there, staring at the mutilated shell of a person. I hear a voice screaming in my head, but my thoughts feel detached, clinical almost. This is a person. These are his entrails.
+
+Finally, something clicks, and I recognize who I'm staring at. “Hello Ren.” I speak, my voice subdued. “I guess I should have killed you the day we met or at our second meeting. At least I could have spared you all this.” He doesn't answer. I don't blame him. I think someone cut his tongue out. Turning to Akanai, I ask, “Why did you bring me here?” It's hideous. I don't need to see this. I feel myself shivering in her grasp, leaning against her frame.
+
+“To see what happened to the one who wronged you. He arranged for his guards to scatter a concoction around you, made from rotted carnugator eggs and some other ingredients. It drove the gators mad, attacking your group, thinking they were defending their nests from thieves. This is his punishment.” She was still staring at me. What does she want? I notice my sword under her arm, and take it from her, hugging it to my chest, tucked into my sling. “I went and retrieved it for you.” Clutching it to my chest, I nod my thanks. It makes me feel safer.
+
+I look back at Ren, who stares into the void, seeing nothing, hearing nothing, feeling... everything. His chest is shuddering, in what I'm guessing are sobs, but no tears drip out. It's impossible to hate him like this. How is he even still conscious? Or is the pain so great, that he can't escape it, not even in sleep? I speak out loud, mostly just to hear my thoughts. “You know those two bandits I killed? I've had a hard time sleeping since then. The first guy I killed, never bothered me, but those two? I worried if they left anyone behind, a lover, a child, a spouse, a parent. I felt responsible for their sorrow.” Akanai remains silent, so I continue. “I didn't kill Tian Yi for the same reason. It was on purpose. I could have stabbed him in the heart, but I felt bad for him. He had just lost a son. There was no hatred between us, not from me at least.” I feel the tears trickling down my face. I draw Peace, awkwardly fumbling with the sheathe. “Now, he'll lose another. I'll lose sleep over this as well, but for very different reasons.”
+
+I stab Ren in the heart, leaning my weight onto the weapon, driving it deep, watching his eyes as he dies. No one deserves this. I see no peace or relief, just... death. A final shudder, a last emptying of the lungs, and all that's left is meat and bone. Better luck next life, Ren. It's amazing what a simple encounter over bad manners can snowball into. Collapsing into Akanai, my legs are like jelly, my strength and resolve all spent. An attendant is screaming, calling for the guards, who approach, but hesitate, simply surrounding us, seemingly unsure of what to do. Akanai sits me on the ground, settling down behind me, propping me against her leg. She hands me a jar of alcohol, but I just hold it between my hands. I don't want to drink now. 'Drink because you are happy' is how it goes, right? We sit in silence, the guards watching us, waiting.
+
+The crowd begins yelling, jeering and throwing trash onto the stage. Fucking animals. The guards take the brunt of it, thankfully. Sorry guys. I nod in apology to the guards, but my tears keep me from seeing their reactions. Akanai just sits there while I cry, a silent, supportive presence. When my sniffling stops, Akanai breaks the silence. “I am glad you killed him. The Empires punishments are distasteful to me. Better to kill cleanly.”
+
+“What did you think I would do?”
+
+“I worried you would revel in his torment, or add to it. You are … difficult to understand at times.” There isn't really an answer to that. Is that the kind of person I appear to be? Or is it just what she expects from a normal person? There are people in the stands literally frothing, angry that Ren is no longer alive and suffering. How can they enjoy watching that, justify their pleasure? What goes through their heads when they watch, seeing a human in so much pain? Is that how she thought I would react, clapping my hands with glee, laughing at this torture? No. Not me. Never like that.
+
+I will do what needs to be done, in order to survive. I will fight and I will kill anyone who threatens me or the people I care about, but I will never let myself enjoy the killing. The fighting, the violence, the adrenaline, I admit, I do enjoy that. It is a rush, a high, that comes crashing down when all is over. Death is a responsibility to shoulder, not an entertainment to be enjoyed. I won't bother trying to change other people, and I won't allow myself to be changed by them.
+
+I will live and die by the sword. I will adapt to be better suited to this world, but I will keep to my convictions. Mercy is not a weakness, compassion is not a shortcoming, empathy is not a flaw. I will not allow myself to believe otherwise. This is who I am. This is who I will be. That is the path I will walk. Wiping my face with my sleeve, I rest my chin on my knees. I'm all cried out, exhausted and hungry. I just want to go home. Where the people are decent and loving.
+
+The Magistrate arrives just before I fall asleep again. He dismisses the guards, who retreat to their posts. “May I ask what happened here, Herald?” He is polite, but I can see he isn't happy.
+
+Jumping in before Akanai can answer, I say, “I killed him.” My hand is raised, as if I'm a student again.
+
+The Magistrate takes a deep breath. “Why?” His anger at me is barely contained.
+
+Feeling stupid, I put my hand back down, shrugging at the Magistrate. I need to stop shrugging, it hurts so much. “What purpose does his suffering serve? It's needless. He committed a crime, and he has paid the price.” I'm all out of fucks to give, and besides, I don't think Akanai will let him kill me.
+
+“The purpose is to deter others who would do the same.” He's scowling at me, but not with enmity, just at an annoyance.
+
+“If punishments were enough to deter criminals, there wouldn't be crime to begin with. I apologize if I overstepped myself, and will accept the consequences. I wouldn't wish suffering like that on my worst enemy. Just kill him and be done with it.”
+
+He looks taken aback at that, studying me intently for some time. I'm getting a little sick of being stared at. Finally, after a long minute, he lets out a breath and speaks. “You are an odd young man. You seem to revel in violence, but abhor death.” Since when do I 'revel' in violence? “You laugh and drink, hunt and fight, acting as you see right, a true son of the People.” He laughs. “If I had a daughter, I would wed her to you this instant. A fine young man. I expect greatness from you, and be forever welcome in my city, Rain of the People. I will not hold this against you.” He turns and leaves, his detail following him. How... kind of him, I guess?
+
+Akanai gingerly lifts me, and heads to the rickshaw. “Little Hai is a good judge of people, and a good man. I was worried he would exile you from here, or have you lashed. You have caused him no small amount of inconvenience. You are quite troublesome, indeed.” I chuckle. What an understatement. But hey, I think that's the nicest thing shes ever said about me, even if it was indirectly by agreeing with someone else. Baby steps. We return to the villa and after a light meal, I lie in bed, thinking about my time in the city. I really should have just stayed in the village. Not worth all the trouble. As expected, the nightmares continue to haunt me as I try to sleep. The unblinking eyes join the others, staring at me lifelessly.
+
+They'll disappear, in time.
+
+I hope
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Fung visited me before I left the city and we promised to keep in touch. Snail mail, but better than nothing. He looked … tired, haunted even. I wouldn't feel much better, if 20 guards died because I wanted to go hunting. He's a good man for caring, especially considering the behavior that seems normal around here. I didn't ask about the guardsmens' families, because I knew I wouldn't like the answer. They aren't big on welfare or death benefits around here. He hurried away when I tried to find Mei Lin so he could say goodbye, all flustered and panicked. A shy fellow. Kinda adorable. Ah, Young Love. I want that someday.
+
+The trip back was much less stressful, the entirety of it spent in Taduk's wagon, with Mei Lin looking after me, mostly playing some odd version of chess that I bought for Taduk. No bandits this time though, probably because word got out about Akanai. I spent a lot of time cultivating, trying to strengthen my newly grown limbs. The new nerves need to adjust themselves after growing, and until they do, everything is agonizing as they fire off for the smallest reasons. I wasn't exactly the best person to be around, but Mei Lin was patient with me. Sumila visited often, sometimes hanging out in the wagon all day. She kept refusing to tell me how to cut through gators like she did, telling me to ask Baatar. Stingy. I think she's my new rival, or goal at least. I'm so far behind her that calling us rivals would be an insult.
+
+My view of the village as I rode up on Zabu took my breath away, looking even better than the first time I laid eyes on it. Home. Safe, peaceful, home. I know why Taduk lives here now. No arrogant nobles, no pitiful slum residences, no torture exhibits, and no fucking carnugators. It's paradise on earth here. Also, I really do think he likes living in a warren.
+
+After a few days of bed rest, Akanai sent a Sentinel to find me. I'm currently sitting on a cushion in the top room of a building called the drum tower, a large multi-level building in the sort-of center of the village, each level progressively smaller than the lower one. I've seen it before, one of the more eye-catching buildings, with carved scenes on the outer wall all around the building. They depict scenes of battle mostly, some are duels, some are entire armies clashing. The art style changes from scene to scene, and they are too numerous to count. Ten flights of stairs, circling the outer perimeter of the building, moving upwards slowly. It was a bitch to climb. Akanai sits across from me, drinking tea cross-legged, . I fiddle with my cup, waiting for it to cool so I can drink, looking at the various weapons adorned about the room, while Akanai simply stares. Everyone just loves to stare. It's unnerving.
+
+“I, Akanai, Chief Provost, formally invite you to join the Sentinels.” She speaks suddenly, without warning, surprising me a little, tea spilling onto my hand.
+
+I process her words while waving my hand, trying to cool the burn. Not what I was expecting.“Um, honestly, I'm still not sure what the Sentinels do exactly.” I'm absolutely sure that I don't want to work for Akanai. That seems like a nightmare.
+
+She chortles, shaking her head. “Of course you don't know. You seem to know so little sometimes. The Sentinels are in charge of the defense of the village and its inhabitants. In general, we scout the surroundings, hunt for meat, do patrols, that sort of thing. Everything from escorting villagers to the city, or craftsmen in search of supplies, keeping the peace in the village, all tasks handled by the Sentinels.”
+
+So, police, scouts, militia and bodyguards all rolled into one. “What's the difference between the Sentinels and the Company?
+
+“The Sentinels defend, the Company hunts. The Company does what is needed, and they shoulder that burden so others have no need to. Your future does not lie at Baatar's side, boy. You are not suited for the Company, not as you are.” She doesn't sound disdainful or dismissive. More sad than anything. I think she's right though. She's pushy, and opinionated, but almost always right. Almost.
+
+“What would be my specific duties?”
+
+She shrugs, leaning back on her hand, taking a more relaxed posture. “It would depend on your talents. You've had a piss-poor showing as a guard though, I can say that much.” She laughs, and I smile with her. She's right again. I like this Akanai, more forthright, willing to have a dialogue, instead of just barking out my errors. “You can continue to learn with Taduk and Baatar, but Tokta would also train you as a Sentinel. You have the basics down, but there is more you need to learn. It would not take up much of your time. A week or two every now and then, for a year or two. All assignments are voluntary. You can pick and choose what you wish to do, so long as you contribute in some way.” She pauses, watching me carefully. “You will be paid a wage.” I chuckle at that, choking on my tea. For some reason, she thinks I'm some money grubber. Well, I do like money, and the comforts it brings. She continues her hard sell, ignoring my laughter.“You can be a Sentinel and remain stationed around the village. I also failed to mention that if you work hard and contribute enough, we will aid you in creating a Spiritual Weapon. My husband told me you wanted another.” She frowns at me. “I won't allow the pup to spoil you. You must earn your next one. Better to start now, and work towards it.”
+
+Damn. I swear they know how to read minds, they're just keeping it a secret from me. “Why are you so insistent I take this job?”
+
+She looks at me, deciding something. “You are suited for it, a caretaker, a protector. You sacrificed yourself in an instant for my daughter and Lin. You have your own set of morals, and though they differ from my own, I respect them. You wish to grow strong, and the job will aid you, presenting you with comrades, resources, and obstacles to overcome. If you remain in the village, learning on your own, you will never be strong. Join the Sentinels, become a cadet.” She pauses again. “More importantly, you need it. I feel like you would be a wastrel if left idle to your own devices, especially with your nightmares, and of course, your fondness for drink and women of ill repute.”
+
+Ouch. Harsh. I don't drink that much. And what man doesn't like women of 'ill repute'? I continue to ask questions, and she answers them patiently, as we drink our tea. It actually doesn't sound too bad, less like a day job and more like a volunteer sort of thing. Hand in some spoils from hunting every month and a little bit of extra training. I do that stuff anyways. I get paid more, since I'm in training to be a healer, and I'm not forced to do anything I don't want to. I can just take whatever missions meet my fancy. Well, it beats playing weird chess all day, which it turns out, I'm terrible at.
+
+A hunter. A provider. A defender. That's what I said I wanted to be, and here, Akanai is offering that very job to me. I can give back to the village that sheltered me all these years, do something for them. Sure, if an invasion happens, I'll have to fight, but I'd probably do that anyways, if that were to happen. Honestly, the most convincing thing that she's said is that she thinks I'm suited for it. I respect her strength and judgment, if not all her opinions.
+
+I extend my hand out for her to shake. “Then I accept.” She smiles, a friendly one this time, but seems unsure of what to do, grasping my fingers lightly. I guess they don't shake hands around here. Awkward.
+
+I am Rain, Sentinel of the People.
+
+It has a nice ring to it.
+
+- End of Volume 2 -

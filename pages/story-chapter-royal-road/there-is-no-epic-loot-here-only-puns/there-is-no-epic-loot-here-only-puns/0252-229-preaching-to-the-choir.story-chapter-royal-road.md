@@ -1,0 +1,245 @@
+---
+id: 350c3ff3-19fb-5062-b99a-c26d15339c84
+page-type-slug: story-chapter-royal-road
+title: "229: Preaching to the Choir"
+slug: 0252-229-preaching-to-the-choir
+partOf: there-is-no-epic-loot-here-only-puns
+position: 252
+ownLength: 3002
+unit: words
+publishedAt: 2025-12-14
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2847053/229-preaching-to-the-choir"
+royalRoadId: "2847053"
+---
+
+‘The Dungeon Tim-Tim-Tim has submitted to your Network’
+
+Delta was thankful the new core was so open to her suggestion, eager to work with her to "develop" better. The issue, however, was that the core was a little... strange.
+
+It hummed and cackled to its Woad, the little magic toad servant it had created as its first monster race. It then declared magic as its greatest power but also proclaimed all wizards as sworn enemies.
+
+Delta puzzled over how it planned to fight wizards when it couldn’t even sense the Archmage, Alpha, standing just a few feet from it.
+
+She had figured out how to communicate with it, somewhat. It involved a lot of ‘thine and thous and whomsts’, like debating with a dramatic theater child raised on poorly written Old English fanfiction.
+
+'I thouest request humble mercy, greater core. Beseech me your power!' Tim declared, and Delta translated that as ‘help me, miss.’
+
+Or something along those lines.
+
+After agreeing to join her Network, the core glowed and began to do what cores do best.
+
+“And I thought I ate fast,” Beta remarked so dryly it was like sandpaper, her arms crossed as the core’s field of influence rapidly spread across the floor and up the walls, unimpeded by Delta and the others, who were present as ‘ghosts’ of the Network.
+
+The purple mist moved with unnatural precision, slithering across the space like ravenous snakes, devouring everything in its path that wasn’t part of its domain. Items literally melted before Delta’s eyes, dissolving into nothingness as the mist consumed them.
+
+Gamma let out a noise of discomfort, wincing as wands and staves crumbled and fell apart in the mist, their once intricate craftsmanship vanishing into the void of mana. Delta understood the unease, seeing powerful artifacts reduced to nothing so effortlessly made the core’s power feel even more unnerving to the unprepared, and for a living weapon?
+
+Gamma was likely in danger even if they had a soul.
+
+Before long, filth, rock, books, candles, leftover wizard bits, and even shoe buckles were consumed, collapsing into rattling metal before dissolving into motes of mana. The mist of purple mana crept along the ceiling like smoke, stretching its tendrils into cracks and crevices, chasing out spiders and creatures that still clung to life.
+
+Occasionally, a spiderweb or a book would hiss and sizzle as it was consumed, vanishing into the mana with a soft crackle.
+
+“It feels more human than a dungeon, but I think that’s because it’s eating all this magic stuff just as it’s getting started, kind of like how you ate mushrooms,” Alpha remarked. Delta opened her mouth, then promptly shut it.
+
+She wasn’t about to argue. That kind of thing usually summoned the little fungus terror when she least expected it.
+
+“So, I guess I’m a… fun guy?” Delta attempted to lighten the mood as the core’s captor was next to be consumed, trying to divert attention from the gory details. Even she didn’t want to focus on that too much.
+
+The three teens grimaced, exchanging pained looks as they glanced her way, exactly what Delta wanted.
+
+Well, almost. Gamma, however, was looking past her, their gaze more focused on the process itself. It made Delta a little sad to think that Gamma had likely seen worse, given their lack of audible reaction. They turned slightly under their own power, watching intently, perhaps comparing the core’s consumption to their own ability.
+
+The robes dissolved first with a sizzle, followed by rings and hidden potions tucked away in the pockets of the mad wizard that collapsed with audible pops as the purple mana was still learning how best to consume things efficiently. The process, despite the grim context, was fascinating to watch out of the corner of Delta’s eye.
+
+Watching it from the outside was interesting, as Delta typically didn’t see her own mana, like one doesn’t see oxygen unless something is wrong. In a matter of seconds, the core had entirely consumed the tomb-like room where the wizard had made his home.
+
+Not that calling it homely would have been honest, in Delta’s opinion.
+
+Homes were meant to be places where one could relax or express themselves. Delta had many “homes” inside her home, each designed to allow her monsters the freedom to express themselves, sometimes to Delta’s own shock. But she never made any of them change what made them happy. Even Nu got his signs and occasional mischief.
+
+The image of them alone made her chest warm and her lips want to smile.
+
+This place, however, felt more like a workshop, cold, detached, and littered with unpleasant-looking materials. Nothing here seemed to have love, care, or even the faintest hint of affection. It had been an intentionally cold space, uncomfortable to all forms of life. Not that much life was allowed here, other than to serve as materials in one experiment or another.
+
+It was a tomb in more ways than one.
+
+One such material was a strange black tar, which Tim had to spend several minutes peeling apart in wet, sticky chunks that pulsed like an unsettling heartbeat. His frustration was palpable, his words tumbling out in broken Old English, sounding more like an answering machine having a heart attack. His core flashed, reflecting the effort he put into scraping the substance off his new dungeon.
+
+The slime pulsed and leaked in defiance, resisting Tim’s efforts, until he finally managed to stab something vital with his mana.
+
+A failed experiment... or worse, a successful one.
+
+Beta bent down to examine it.
+
+“It’s dead,” she reported. Gamma flashed slightly along the blade’s surface.
+
+“It’s dead... Jim,” they corrected. Beta shot them a look that hovered between confusion and annoyance, her expression hardening into a scowl as the reference flew over her head. However, the scowl softened as Gamma let out a chortle, and perhaps she decided to let the joke go, given the source.
+
+‘Ye beast is slaineth! I am the victor! I am thine blade of power!’ Tim roared, like a kitten puffed up with the excitement of their first victory, important, but only the first step.
+
+‘I shall now crown myself a royal servant by completing thine abode!’ Tim declared proudly, his mana swirling triumphantly over his first ‘kill’, circling it like a war dance of victory.
+
+Delta watched with mixed feelings. On one hand, Tim was developing faster than Foodie had, but not by too much. On the other hand, there was a slow worrying feeling growing in the back of her mind at the sheer amount of exotic materials Tim had access to was... a little concerning.
+
+Delta had started off with glue sticks and dreams. Tim was starting out with a blueprint for a nuclear reactor. Sure, Delta ended up with Star-Destroying Dragons, which-
+
+She suddenly paused, the thought sending a shiver through her.
+
+Her goddess part.
+
+What?
+
+She mentally put a pin in that for later, as Tim was on the move, producing Woad after Woad after Woad until he had a veritable swarm of little magical toads in puffs of purple mana.
+
+He seemed excited as the mana made dramatic flourishes or minor smoky puffs upon each use like a stage magician discovering pyrotechnics for the first time.
+
+Tim needed to spend his mana somewhere, the items he consumed were making his reverse overflow too dramatic to be comfortable.
+
+Delta stared as the swarm… no, choir of Woads gathered, their yellow eyes locked on Tim’s core with single-minded focus, waiting for a command. Their slightly shifting irises gleamed, each magical toad donning a unique hat. Some were red, others blue; some had wide-brimmed hats, while a few wore tiny leather shoes as headgear. As more appeared, they began to croak in sync.
+
+“They’re not very exciting, these things, are they?” Gamma asked in a bored tone as if he was already over the dungeon experience, spinning slowly to observe more Woads spawning around the room, covering every surface they could.
+
+The room now hum with a constant croaking thrum
+
+“I want to know how he’s making so many. I could only make like five goblins and a few Mushroom Spitters at first,” Delta mused, staring at the scene while trying to recall her own early days as a dungeon and all that had occurred.
+
+It was a different time, one tinged with nostalgia and screaming.
+
+Fewer mushrooms, briefly.
+
+‘Mine Apprentices, sing!’ Tim ordered and a single Woad raised its head and a small fireball appeared over its red hat, no more than a candle flame. Then the two behind it croaked and the fireball expanded in two puffs.
+
+Then four more Woads croaked and the fireball started getting alarmingly large.
+
+“Tim, maybe you should calm down before-” Delta tried to intervene and Alpha’s eyes suddenly went wide.
+
+‘SING, MY SAVANTS OF ARCANE! SING THE WIZARDS’ DOOM!’ Tim cackled madly.
+
+“DOWN!” Alpha thundered as the entire room emitted a single unionized croak.
+
+---
+
+Quiss glared as he argued with Fairplay idiots, wanting a drink so bad he was about to grab the next fool to bug him and squeeze it from their body like juicing a fruit, but with more screaming involved.
+
+Or maybe the same, he wasn’t a druid.
+
+He paused as the sun rose… in the wrong direction, his shadow casting long along the ground as the usual pattern of the sun around the world came in the wrong direction and he turned to see a pillar of fire so tall it stretched into the sky coming from the south.
+
+It stank of Delta. Quiss considered if he should chase it up but in the end shrugged, walking off to find a bar and drink it dry.
+
+It reeked of ‘not his business’ actually.
+
+---
+
+Delta finally has the sense to read the damn Woad screen as the land in a perfect circle around Tim was scorched black, leaving behind a pillar of black glass that Tim sat near the top off, smoking as he mumbled for more fire power in his unconscious state.
+
+On the plus side, Tim had enough room to grow any way he wanted, the bad news was he was literally a giant tower of molten glass reaching into the heavens with streams of burning mana coming off the top.
+
+‘Woads: Critters’
+
+Delta stopped reading and muffled a scream into the crook of her arm as Beta brushed ash off herself, the ghostly forms not able to stop a literal mana storm of hellish fire. Beta looked at home, Gamma was shrieking about their filthy state and Alpha was holding something that looked like a miniature sun.
+
+“What do you want me to do with this?” Alpha asked politely as he held a literal bomb strong enough to shatter the Shattered Left into an even more shattered mess.
+
+Alpha had caught ‘most’ of the explosion which went on to show the thing with Woads was they were multiplicative in their joint casting, not additive.
+
+“Give it here,” Beta commanded, her form shifting to something dark and huge, four wings emerging like slithers of moonlight. It looked like a dragon, but the immediate area began to freeze, affecting the mana first which in turn affected the physical material making up Tim’s new tower.
+
+In one motion she swallowed the thing whole and burped out black smoke, looking a little sick until she belched some more.
+
+“What is that?” Gamma asked in sheer delight, their tone indicating the form Beta was now using.
+
+“Something I found in hell. They freeze it over,” she explained bluntly. Delta stared at her then struck a certain phrase from her mind as it turned out to be quite useless in this world it seemed.
+
+‘Woads: Critters.
+
+A weak magical servant that lacks the ability to do any real harm, as a weak creature they come in groups of three to make up for their lack of talent. They have some ability to cover each other with cantrips to distract foes. Rumor has it that if a Woad finds the right hat somewhere in the world, it will become a true wizard but a perfect hat is one in a million.’
+
+Feeling a hint of dread, she accessed Tim’s records, finding his process for making Woads. They cost 2 mana but there was an additional feature hidden in the system.
+
+‘Delta Patch: On creation, the Woad may design their perfect hat!’
+
+“I applied no such thing,” Delta said as it began to rain around the land, the ambient smoke causing dark clouds to fill the sky above the tower.
+
+‘A one-time purchase to improve a creature or design. You called them ‘DP’. Tim has his set to ‘automatic most fire power’’
+
+‘Boom!’ Tim giggled in his orb.
+
+“Tim, you can’t kill people,” Delta insisted, waving a hand.
+
+“Why not?” Beta asked with a frown.
+
+“It solves a lot of problems…” Gamma suggested. Delta stared at them and she fought the new emotion as it rose but it fought free of her usual cheer, making her eyes water and lip to tremble as her beloved students sounded so jaded.
+
+She sniffed as she crouched down low , trying to get herself under control so she could figure out how to explain ‘defend, but not attack’ to a core that was born to do both if possible. It was hard because all she could think was how people had twisted Beta and Gamma, making them feel things they should have never had to experience.
+
+“You all suck,” Alpha declared with a tone that was solid like metal.
+
+‘Mistress D-Delta. Maybe… maybe just small boom, verily?’ Tim asked, his newborn mind still connected to Delta through the Network and he was feeling her sadness and Delta tried to shield him from that.
+
+“Tim, we’ll work on it,” she said, her voice small and a little watery despite her attempt at a smile.
+
+“If you don’t want me to kill people, I won’t. I’m not an idiot that only knows how to do one thing,” Beta said, voice louder and firm, yielding in one way but sounding like she wasn’t giving at all. “If your people get hurt or they hurt you, I’ll break them but they won’t die,” Beta said easily as if it was as simple as adjusting a dial on some violence meter.
+
+‘Forsooth! Only idiot wizards rely on one school of magic, one means of incantation! I will crave their coming so I can make their gods weep in shame, their children disown them, their familiar quit on the spot!’ Tim added, using Beta’s words as momentum for his own logic.
+
+Alpha eyed the purple orb but decided he had said enough to get the mood back on track. Delta stared at them and then she looked at Gamma who had remained quiet.
+
+“Hey, I don’t kill people. People kill people,” Gamma said, barely turning on the spot to show their lack of agency.
+
+‘Thou art the treacherous blade of which the ancient tomes do speak! Thou art known to have wrought wars and sown discord wherever thou dost wander, driven by greed, malice, and envy most foul!’ Tim said as if he discovered the library now inside his head as he looked for less ‘boom’ spells.
+
+He had access to the Network so he was well aware of who Delta considered important.
+
+“Fake news,” Gamma said easily.
+
+“Gamma, is okay, I trust you,” Delta said gently and the sword was quiet for a moment.
+
+“Terrible mistake, really, but you do you,” they said back with a casual tone that hid some emotion Delta couldn’t figure out.
+
+“I have a lot of forms that eat swords,” Beta added as if this was something she casually dropped into conversations.
+
+“Careful, Betty Boop, I was designed to help kill you too,” Gamma rebutted. Okay, feeling sorry for herself is over now.
+
+“Enough,” Delta said softly and she didn’t mean to pulse but all four beings aside from her paused then awkwardly mumbled to themselves.
+
+“Yes, miss,” Gamma said, sounding meek for the first time.
+
+“Beta, don’t eat your family. Gamma, I know you’re a sword, but stop being edgy, Tim, it’s your first day, you can improve, and Alpha,” she turned to the waiting teen who looked a tad bit nervous.
+
+“You’re perfect and I’m glad you’re here,” she finished.
+
+‘Question, my mistress,’ Tim asked slowly and Delta looked at the purple core, finally taking in his core room which looked to be at the top of the tower, exposed to the air which wasn’t the case. They were actually inside a room that projected the image of the outside which was impressive on Tim’s part, but the items he absorbed were still ‘digesting’ so it was nice to spend mana frivolously right now.
+
+“I insist you call me Delta,” she said back and Tim stutttered, struggling to get the name out without a title or suffix.
+
+“We call her Miss D,” Gamma offered, perhaps as a peace offering to the group for their earlier actions.
+
+“Basically,” Beta nodded.
+
+Tim exhaled, sending mana out in a puff.
+
+‘Miss D,” Tim tried and then gasped as if discovering some secret. ‘Miss Destruction!’ he declared.
+
+Wait, no-
+
+“Miss Delight,” Alpha added.
+
+What-
+
+“Miss Defy?” Beta shrugged as if she had no hat in this ring.
+
+That was-
+
+‘Miss Deed,” Gamma suggested slyly.
+
+“Then let me be ‘Miss Direct’ and say this bluntly-... wait no, wait!” Delta said as everyone shared a knowing look even Tim who didn’t have damn eyeballs!
+
+“What was your question, Tim?” Delta waved a hand in his direction.
+
+‘Ah, verily. Who is ‘Foodie’ and why are they throwing terribly salty mana at me in anger for upsetting you?’ Tim asked bluntly.
+
+Oh, the first two dungeons she recruited weren’t off to a great first start. Delta’s eye twitched as Foodie threw some very creative and very… foul sailor talk at Tim.
+
+Forget direct, she had to be Miss Fortune at this rate.

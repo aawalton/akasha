@@ -1,0 +1,679 @@
+---
+id: d11ba5d4-ba0d-57ed-a097-1cd84bf36f76
+page-type-slug: story-chapter-royal-road
+title: "Chapter 100: Regicidal Anticide"
+slug: 0101-chapter-100-regicidal-anticide
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 101
+ownLength: 2708
+unit: words
+publishedAt: 2026-02-16
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3060616/chapter-100-regicidal-anticide"
+royalRoadId: "3060616"
+---
+
+PoV Luna
+
+Hiding from Ants was… hard!
+
+Not because Luna couldn’t do it.
+
+But because Luna very much wanted to not do it.
+
+She crouched low behind a fallen log still slick with rain, fingers dug into damp bark, tail held perfectly still through sheer willpower.
+
+The forest around them felt wrong now – there was no birdsong, no rustle of harmless prey. Only the steady, unsettling rhythm of Ant columns moving through undergrowth like living machinery.
+
+Click.
+
+Clicky-click.
+
+Clicky-clack!
+
+Luna’s ears twitched.
+
+She leaned forward slightly, peeking around the log just enough to see a small procession of Ants marching past. They moved in a neat, organized line, bodies brushing against each other in constant communication. Their antennae flicked in precise patterns. Their legs cut paths through wet leaves without hesitation.
+
+She made a face.
+
+“They walk like they know everything,” she whispered under her breath.
+
+Dorian – Mr. Fox – crouched nearby, suppressing a grin.
+
+“Confidence is easy,” he murmured quietly, “when you have six legs and no imagination.”
+
+Luna blinked at him.
+
+“…Do they have no imagination?”
+
+“I hope not,” Dorian replied dryly. “Otherwise we’re in trouble.”
+
+She snorted softly, then clamped her hands over her mouth to stop the sound from escaping further.
+
+Syl raised a hand in quiet warning without turning around.
+
+Luna stilled instantly.
+
+Syl was counting, and doing lots of thinking.
+
+Luna could see it in the way her eyes tracked everything going on!
+
+The subtle shifting of her gaze. The faint narrowing whenever a new cluster of Ants joined the flow, following invisible pheromones. Her Second was doing important things, measuring things, and gauging numbers!
+
+Timing gaps where they would move next.
+
+“They’re slow to respond,” Syl murmured after a moment. “It takes time for their outer groups to redirect toward the expedition.”
+
+Luna sniffed deeply.
+
+Her nose wrinkled slightly.
+
+“No,” she whispered. “Not slow.”
+
+Syl glanced back at her.
+
+Luna tapped her own nose.
+
+“Heavy smell there,” she explained quietly. “Deep and old! Not fresh. Goes that way.”
+
+She pointed deeper into the forest, in a direction slightly off to where they were facing.
+
+Syl followed her gesture without hesitation.
+
+Dorian lifted his sword.
+
+“You’re sure?” he asked.
+
+Luna nodded confidently.
+
+“Thick smell is deeper inside,” she said. “Where Ants went, outside smells! Lighter, fresher, and thinner!”
+
+For her Second, that was more than enough.
+
+They shifted their route immediately.
+
+No second-guessing.
+
+At all!
+
+She trusted Luna’s corrections entirely.
+
+Dorian made a thoughtful hum as they moved again, staying low and quiet between passing columns.
+
+“Well,” he said softly, “I suppose we’re trusting the most food-motivated nose in the forest.”
+
+Luna beamed.
+
+“Food nose best nose!” she agreed proudly.
+
+He gave her a small, conceding nod.
+
+As they moved, the forest changed.
+
+Ant groups they passed by began shifting direction elsewhere – moving in broader arcs toward the expedition’s noise.
+
+They continued deeper in. And after a while–
+
+Luna noticed it immediately.
+
+“See?” she whispered urgently. “Smell thinner that way. Stronger here.”
+
+She gestured again toward a darker part of the woods where the trees grew closer together and the ground dipped slightly.
+
+It really was hardly different. The Ants stripped everything they thought worth eating bare.
+
+Luna suspected that, once prey grew thin, they would eat the forest too.
+
+Their hunger… It was formidable!
+
+Finally, a worthy opponent!
+
+She sniffed again.
+
+The air felt different there.
+
+A little heavier.
+
+More layered with Ant trails.
+
+It felt…
+
+Territorial.
+
+And they were trespassing.
+
+Luna grinned.
+
+That would not stop them, at all!
+
+And as they got closer, the pheromone density increased.
+
+New, sharp, and fresh mixed with old, thick, settled.
+
+A warning they were about to ignore.
+
+It pressed into Luna’s nose until she slowed instinctively, steps shortening, breath coming shallower.
+
+She wrinkled her nose again, blinking rapidly.
+
+“…Too many smells,” she muttered. “Old ones. New ones. Angry ones.”
+
+Syl noticed immediately.
+
+“How close?” she asked softly.
+
+Hmm.
+
+She tasted the different smells thoughtfully.
+
+“Very close!”
+
+They advanced the last stretch carefully.
+
+Then, with little warning, the ground dipped into a wide, shallow pit half-hidden by undergrowth.
+
+The soil there was churned and dark, riddled with openings and packed earth smoothed by countless passing bodies. Ants moved in constant circulation, disappearing into tunnels and emerging again in seamless flow.
+
+It wasn’t particularly subtle.
+
+Or even hidden.
+
+It was simply… there, deep in the forest.
+
+Luna stared.
+
+“…Found it.”
+
+Syl stepped up beside her, eyes narrowing as she took in the scale.
+
+Trianna let out a low whistle before catching herself.
+
+“Well,” she murmured, “that wasn’t very difficult.”
+
+Luna puffed up slightly.
+
+“With Luna,” she said proudly, “nothing is difficult.”
+
+The nest loomed below them, alive with motion.
+
+And very, very close.
+
+***
+
+PoV: Syliana
+
+There was no reason to rush.
+
+Even with the nest right there.
+
+…Or with Luna vibrating beside her like a coiled spring pretending very hard to be a statue.
+
+Syliana studied the pit a moment longer, watching the circulation pattern. Workers in. Soldiers out, soon gone from sight. A constant exchange. Predictable.
+
+And predictable meant exploitable.
+
+She crouched, motioning the others closer.
+
+“Once we begin,” she said quietly, voice level and stripped of warmth, “there will be no turning back.”
+
+Dorian’s tail flicked once in acknowledgment.
+
+Ferric wasn’t here, and most of her party stayed behind. No backup was waiting behind them. Just the four of them against whatever the nest decided to throw up in response.
+
+“We move fast,” Syl continued. “We head for the Queen. We do not stall. If we are overwhelmed, we carve a path out and run.”
+
+A pause.
+
+“Worst case scenario,” she added, “we fight our way up against an entire alerted colony.”
+
+No one liked that option.
+
+She didn’t either.
+
+Her gaze shifted to Luna.
+
+The little Wildling was still, now. Not fidgeting or grinning madly. It always amazed her how quickly her wandering focus could shift into one worthy of respect.
+
+All distractions put aside in a heartbeat.
+
+Her golden eyes watching everything sharply.
+
+Focused.
+
+And ready for the hunt.
+
+There was excitement there – of course there was – but it was threaded with something else.
+
+Awareness.
+
+Syl held her gaze.
+
+A silent exchange.
+
+You know the risk.
+
+Luna’s ears flicked once.
+
+Yes.
+
+You will not break formation.
+
+A slight nod.
+
+Yes.
+
+Trust!
+
+That was the last thing passed between them before Syl stood, the opportunity coming.
+
+“We move now.”
+
+And they did.
+
+The larger Ant Soldiers guarding the main tunnel never stood a chance.
+
+They looked tough, yes.
+
+But Dorian’s blades still slipped between their joints with clinical efficiency. Trianna’s arrow punched clean through a sensory cluster before the creature even finished turning its head. Syl froze one mid-step, cracked the chitin with a focused impact spell, and let it collapse without ceremony.
+
+And Luna–
+
+Luna did not explode forward.
+
+Not yet.
+
+She waited. For her Second’s signal.
+
+They dropped the last guard.
+
+Syl gave the smallest of nods.
+
+And they went in.
+
+The descent tunnel was wide enough for three Ants to march abreast, packed earth smoothed by constant passage. The air inside was thick. Humid. Saturated with pheromones so dense they felt almost physical.
+
+Luna wrinkled her nose – but she did not complain.
+
+They made it perhaps twenty strides in before the nest responded.
+
+Nest Guards surged upward in an organized formation.
+
+Mandibles flared. Bodies locked into a layered defensive posture. Outward-facing formation designed to block descent.
+
+All sitting firmly on the ground.
+
+Syl began forming a spell–
+
+–and Luna vanished.
+
+She zoomed on, forward and yet–
+
+Not quite.
+
+Luna hit the wall.
+
+And her climbing trick activated.
+
+Shadows gathered under her feet, giving purchase where there was none. Keeping her in place when she should have fallen off.
+
+She ran sideways, then up, and up! Her momentum never breaking, not even when she was clinging onto the ceiling just above the Ants.
+
+The wet-packed earth should have betrayed her footing.
+
+It did not.
+
+She pivoted mid-stride and twisted, turning her descent into a spiraling shadow corkscrew of Claws and swiping madness that cut through the tunnel space like a drill.
+
+Ants snapped upward–
+
+Too slow.
+
+Luna was already past, hitting them from the side.
+
+She dropped past one, claw carving through a joint. Pushed off another’s shell. Flipped, landed briefly on the ceiling–
+
+–then zoomed along it.
+
+Syl actually stopped moving for half a heartbeat.
+
+Dorian barked a short laugh.
+
+“Are you seeing this?”
+
+Trianna just looked on, incredulous.
+
+And Luna–
+
+Luna accelerated.
+
+The Nest Guards reacted quickly, to their credit. Their formation shifted. Instead of facing outward, they turned inward, presenting reinforced frontal plates toward the approaching spiral of shadowy death.
+
+They adapted.
+
+But Luna adapted faster.
+
+Far faster!
+
+Mid-motion, without breaking speed, she adjusted the angle of her descent. Instead of striking center mass, she began targeting the seams where inward-facing plates overlapped. Her corkscrew path along the tunnel tightened.
+
+Her speed increased further, the glint of her golden eyes the only hint the Ants had before death.
+
+Chitin cracked.
+
+Bodies tumbled.
+
+And Luna didn’t even slow.
+
+Syl exhaled slowly, then resumed casting – though now more as support than necessity.
+
+It just wouldn’t do to leave everything to Luna.
+
+Dorian leapt down after her, cutting through the destabilized edges of the formation.
+
+“By the gods,” he muttered, slicing clean through an exposed thorax. “She’s like a corkscrew of doom.”
+
+Trianna picked out the few stragglers Luna’s attacks didn’t fully kill.
+
+And below them, Luna bounced off the wall, off a shell, off another wall – never touching the ground longer than a blink. Shadow coiled around her limbs, eager to keep up, and even more eager to listen to its master.
+
+From corkscrew to streaks of shadow jumping about and off absolutely everything.
+
+Then back to the spiral of death.
+
+From above, it looked absurd.
+
+From below, it must have looked like terror incarnate.
+
+Ants began adjusting again – turning their defensive stance upward, guarding ceiling angles.
+
+Luna dropped straight through the center instead.
+
+Their best swift responses… just weren’t enough.
+
+Even acid was useless.
+
+It just had no way to work when they could not even land a single hit.
+
+Syl found herself staring despite herself at the impossible sight. At the little Wildling zipping along walls and ceiling in seamless arcs, golden eyes blazing from within a blur of shadow and motion.
+
+And nothing in that tunnel could possibly stand up to her for long.
+
+“…This might just be easier than I thought,” Syl murmured.
+
+Dorian ducked beneath a snapping mandible and drove a blade upward.
+
+“No kidding.”
+
+They followed the path Luna carved.
+
+Their descent into the ant tunnels…
+
+…Now felt almost like a walk in the park.
+
+***
+
+PoV: Luna
+
+There were so many side tunnels!
+
+Too many.
+
+They branched and twisted and forked into narrow passages barely wide enough for one Ant at a time. Smaller shafts angled upward. Others sloped down into darkness that smelled older, thicker, and more territorial.
+
+Luna glanced left once.
+
+Right once.
+
+Zoom-sliced some Ants.
+
+【Run Lv. 17 → Lv. 18】
+
+【Strike Lv. 12 → Lv. 13】
+
+The skill pings were nice!
+
+But–
+
+Luna shook her head.
+
+“Nope,” she muttered.
+
+The biggest tunnel smelled heaviest.
+
+Deepest.
+
+And oldest!
+
+It had a different smell wafting from it.
+
+A new Ant smell.
+
+A Queen-smell.
+
+So they kept going down the largest one.
+
+The air grew warmer.
+
+Denser.
+
+The pheromones layered so thick Luna’s nose almost went numb trying to sort them. Worker. Soldier. Guard. Fear. Alarm. Territory.
+
+And beneath it all–
+
+Something swollen and absolute.
+
+The tunnel widened abruptly.
+
+Then opened up into a massive chamber.
+
+It swallowed their light.
+
+High ceiling, slick with packed resin and earth. Walls carved by countless legs. The ground uneven with churned soil and hardened secretion.
+
+And in the center–
+
+A huge mass moved.
+
+【Enemy Identified: Titan Ant, the Immovable Brood Sovereign】
+
+The Ant Queen was grotesque.
+
+Bloated abdomen pulsing with slow, obscene rhythm. Chitin plates layered thicker than any Soldier’s. Mandibles longer than Luna’s arm. Sensory antennae twitching in sharp, controlled arcs.
+
+The Queen could never be fast.
+
+Not with that body.
+
+…But she didn’t need to be.
+
+Her presence filled the chamber.
+
+Soldiers clustered near her bulk. Nest Guards positioned in layered rings.
+
+Luna’s ears flattened.
+
+Then lifted.
+
+It was strong prey.
+
+Finally!
+
+A strong and worthy meal.
+
+Worthy of Apex Predator Luna!
+
+But before she moved–
+
+The battle already began.
+
+Syliana struck first – an impact spell cracking against a forward guard line to split their formation. Dorian dove left, blades flashing. Trianna’s arrow buried itself into a softer joint near the Queen’s underside, drawing a violent hiss that vibrated through the chamber.
+
+And Luna moved.
+
+Shadow caught her first step, slinging her sideways along the wall as the Queen’s mandibles snapped where she had been standing. Acid spattered the ground, hissing as it ate into packed earth.
+
+Nest Guards surged inward.
+
+Luna ran vertically.
+
+Her feet found purchase where there should have been none. She ricocheted off a protruding resin ridge, dropped behind a Soldier, carved through its thorax, and launched off again before its body finished collapsing.
+
+The Queen turned.
+
+Slow.
+
+But calculating.
+
+Her abdomen flexed–
+
+–and acid sprayed in a wide arc, coating half the chamber floor.
+
+Denying any who would dare to move close.
+
+Yet Luna was already above it.
+
+She pushed off the wall, twisted midair, landed briefly on the ceiling—
+
+–and then was gone.
+
+Just gone.
+
+For a heartbeat, the Queen’s sensory appendages froze.
+
+She could feel no movement.
+
+No vibration in expected planes.
+
+Luna had slipped fully into shadow, emerging beyond direct line and scent for a fragment of a second.
+
+【Shadow Step Lv. 12 → Lv. 13】
+
+The chamber tensed.
+
+Syl’s eyes widened.
+
+Dorian barked a laugh that was half disbelief, half battle-mad exhilaration.
+
+“Where–?”
+
+Luna tensed.
+
+Her skills aligned in an instinctive cascade.
+
+Jump.
+
+Shadow.
+
+Run.
+
+Momentum Claw.
+
+Her muscles coiled tighter than ever before.
+
+Time thinned.
+
+And then Luna was truly gone.
+
+The very shockwave too late to catch up to her shadowy figure.
+
+She launched at an angle.
+
+And the Queen sensed her too late.
+
+Luna felt the build-up swell in her arm – pressure, speed, inevitability gathering into a single impossible point.
+
+Release.
+
+She became a streak.
+
+Zoom-Claw tore through layered chitin like a spear through wet bark.
+
+There was resistance.
+
+Then rupture.
+
+The Queen’s massive body split along the seam her momentum carved, shock rippling outward as the impact detonated through the chamber.
+
+Luna landed on the far side, skidding through soil and resin.
+
+And behind her–
+
+The Queen convulsed, a massive hole through her body.
+
+Collapsed.
+
+Silence hung for one suspended beat.
+
+Then–
+
+Chaos.
+
+Soldiers shrieked in disorganized pulses. Guards lost formation. Movements stuttered. Coordination fractured.
+
+Luna’s body hurt.
+
+But then skill pings flooded in, and all pain was forgotten.
+
+【Level Up: 9 → 10】
+
+【Intelligence +1 | Dexterity +1 | Strength +1】
+
+【You ran at a wall so fast it failed to remain a wall. Impressive misuse of physics.】
+
+【Jump Lv. 13 → Lv. 14】
+
+【Momentum Claw Lv.10 → Lv.11】
+
+And then–
+
+【Evolution criteria met.】【Congratulations. Against all odds, evolution is possible for you once more.】
+
+Oh.
+
+Luna blinked.
+
+Strong prey!
+
+Of course.
+
+It was the Apex Predator way!
+
+She grinned wildly despite the carnage.
+
+“I knew it!” she declared breathlessly, tail flicking even as Soldiers skittered in confused rage around the chamber.
+
+She wanted to brag to Second!
+
+Her Apex Predator wisdom came true once more!
+
+–but the chamber was not safe.
+
+The Ants sounded furious.
+
+No longer coordinated, but oh so very numerous.
+
+Uh oh.
+
+…Perhaps Luna will brag a little later – after they get out of here.
+
+Syl’s voice cut through the din.
+
+“Out! Now!”
+
+Luna laughed once – bright, delighted, and perhaps a little mad – before storing the Queen in her Maw.
+
+And immediately feeling the cost.
+
+But there was no time to drink a potion now, the Ants were surging around them!
+
+“Race you!” she shouted – and launched back toward the tunnel, shadows already coiling to carry her upward.
+
+Evolution could wait.
+
+Barely.
+
+But even Apex Predators knew when to run.
+
+And right now–
+
+The Ants sounded very, very angry!

@@ -1,0 +1,489 @@
+---
+id: 16118929-20a0-5f4c-ae3e-c2adc09a38a8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 136: Of Roads, Restraints, and Temporary Things"
+slug: 0138-chapter-136-of-roads-restraints-and-temporary
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 138
+ownLength: 2671
+unit: words
+publishedAt: 2026-06-29
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3608866/chapter-136-of-roads-restraints-and-temporary"
+royalRoadId: "3608866"
+---
+
+PoV Luna
+
+Lake-smell faded first.
+
+The cool wet scent slipped farther and farther behind them until dry grass, wagon dust, and warm open land filled Luna’s nose instead. Trees thinned around their chosen path. Roots disappeared from underpaw. Soft forest dirt hardened into packed ground pressed flat by wheels, hooves, boots, and far too many humans agreeing to go the same way!
+
+Luna sniffed.
+
+Road.
+
+A real human road.
+
+Suspicious!
+
+Roads were strange things.
+
+Humans found ground, walked on it too much, rolled wagons over it even more, and somehow convinced the dirt to become flat.
+
+Very strange!
+
+But then–
+
+Caravans.
+
+Luna’s ears perked.
+
+Caravans changed everything!
+
+Flat ground made wagons move easier. Wagons carried boxes. Boxes carried food, cloth, tools, spices, and sometimes mysterious smells Luna had not met yet.
+
+Which meant roads were weird human ground-lines.
+
+But productive ones!
+
+Luna trotted through the trees beside one such road in her Shadowmerged wolf form, nose twitching as a long line of wagons rolled past far below. The merchants wore layered coats with stitched patterns along the sleeves, nothing like the clothes back in Altracia. Their guards carried curved blades and round shields painted with a red river symbol.
+
+One wagon smelled strongly of dried fruit, waxed cloth, and a spice Luna did not know yet!
+
+Her nose locked onto it immediately, and eyes sharpened.
+
+New spice!
+
+Luna’s tail gave one dangerous wag.
+
+Maybe roads were secretly clever?!
+
+Maybe humans made flat ground-lines so spice could find Luna faster!
+
+Awoomazing!
+
+She would need to investigate this delicious theory!
+
+Luna slowed down.
+
+Syliana’s hand pressed gently against the fur at her neck.
+
+“Keep moving, Luna.”
+
+“But new spice.”
+
+“We are not stopping innocent merchants for research.”
+
+“Trade research!”
+
+“Later, I promise.”
+
+Luna huffed but continued forward, shadows rippling along her paws as she carried Syliana and Ray through the thinner woodland parallel to the road. Dark restraints looped securely around them both, holding them steady whenever her stride lengthened or the ground dipped sharply beneath leaves.
+
+They were avoiding the roads and large cities on purpose.
+
+Syliana had explained this many times, with increasing patience and decreasing optimism that Luna would stop complaining about it.
+
+“If anyone connected to the tower is watching for us,” Syl said again, seated against Luna’s thick fur, “they will not only watch the closest roads. Large cities, guild offices, official gates, any checkpoints or registries whatsoever – anything busy enough to leave a trail.”
+
+Luna huffed.
+
+Stupid sneaky plans!
+
+But Luna understood…
+
+Even if she still wanted to just zoom through!
+
+Syliana’s fingers brushed once through her fur.
+
+“Yes, I know you hate the stupid sneaky plans.”
+
+Ray shifted carefully behind Syliana, one hand resting against the shadow restraint rather than gripping fur.
+
+Hehe!
+
+He had learned!
+
+“Stupid sneaky plans are the reason we are not answering questions from every guild office, noble clerk, and suspicious patrol between here and our destination.”
+
+Luna’s ears flicked back.
+
+Luna answers questions well!
+
+Syliana sighed.
+
+“She thinks she answers questions well.”
+
+Ray went very still for half a breath.
+
+“You once answered ‘where are you going’ with ‘food.’”
+
+Luna gave a low, offended grumble.
+
+Was true!
+
+And food has all the impawtant meaning anyhow!
+
+Syliana’s mouth twitched despite herself.
+
+“She says it was true.”
+
+“That is exactly the problem.”
+
+Luna considered turning sharply to make him squeak, but Syliana’s fingers tightened once against her fur, then moved in nice little caresses.
+
+Humph!
+
+Luna behaved.
+
+Mostly!
+
+***
+
+The farther they traveled, the more the world kept adding things.
+
+Every stop they made, every bend they passed brought new smells with them. Every road-crossing carried different boots, different wheels, different animals, and different food wrapped in cloth Luna did not recognize yet. Banners passed in colors she had never seen together before.
+
+Pilgrims with cow-pendants walked in long groups with painted staffs and little bells tied to their packs, making soft chiming sounds every time the road dipped. Patrols rode compact horses with dark green armor shaped strangely around the shoulders, and their words tilted oddly in Luna’s ears when they spoke.
+
+Sideways words!
+
+Outside-world words.
+
+Luna’s nose twitched constantly.
+
+The world beyond Altracia was not only bigger.
+
+It was fuller!
+
+Full of people, roads, bells, wagons, spice-smells, horse-smells, lake-dust, old leather, warm bread, strange cloth, and whole places Luna had never bitten, sniffed, climbed, chased, or accidentally terrified.
+
+That should have made her tail wag furever!
+
+Sometimes it almost did.
+
+Then the heavy feeling under her ribs pulled tight again, and Luna remembered why she was running so hard in the first place.
+
+So she threw herself into transport duty with all the seriousness of a sacred Apex Predator hunt.
+
+If the pack was going to split later, then first she would carry them properly to where they need to go.
+
+Fast, safe, and better than any horse ever born!
+
+Like the previous few stops, Luna took Syl, Veric, and Ray ahead first, dropped them in a shaded hollow beyond a bend in the road, then zoom-raced back for Sepio and Trianna. Sepio mounted with the grim resignation of a shield-man entering a known trap, checking the shadow loops twice before nodding once.
+
+“Controlled pace.”
+
+“Yip yep.”
+
+“I mean it.”
+
+“Yip yep!”
+
+Luna was impawssibly delighted when she learned Sepio understood her a little in wolf now!
+
+Most proper Apex Predator language!
+
+Trianna swung up behind him with far more cheer.
+
+“He means boring pace!”
+
+“I mean one where my spine remains mine,” Sepio replied.
+
+Luna launched forward.
+
+Not at full speed. Not even close!
+
+But fast enough that Trianna laughed into the wind and Sepio’s hand clamped down sharply against one restraint when Luna bounded over a ditch instead of going around.
+
+【Shadow Run Lv. 11 → Lv. 12】
+
+“Controlled,” he reminded through gritted teeth.
+
+“Ditch was small!”
+
+“Hmph.”
+
+By the time Luna carried them over to the rest of the pack, the passing caravan had already disappeared around the bend.
+
+Soon as they rejoined the others, Ray glanced from Veric to Luna’s enormous wolf form and shook his head.
+
+“If this becomes public knowledge, carriage companies are finished within the year.”
+
+“Guild couriers first,” Sepio said, still adjusting his armor after the ride.
+
+Obviously!
+
+Luna puffed up so hard her fur bristled, then transformed back into her human form.
+
+【Lunar Form Lv. 21 → Lv. 22】
+
+“Luna superior infrastructure!”
+
+A new word she learned recently!
+
+“I hate that I understood that.” groaned Ray with a pained look.
+
+Syliana smiled slightly, her hand rested warmly between Luna’s ears as the group moved on beneath the cover of the trees.
+
+A bit of travel together, so Luna can rest!
+
+And then they would be on the way again.
+
+***
+
+The next day stayed lighter on the surface while unease dragged beneath it.
+
+Everyone tried to act normal, and it almost worked.
+
+Almost.
+
+Luna still smelled the difference.
+
+The coming separation sat underneath everything, quiet and heavy, like rain waiting behind clouds. Nobody said it again. Nobody needed to. It was there whenever Ray’s voice paused half a heartbeat too long, whenever Trianna’s grin faded before she turned away, whenever Sepio folded the map too carefully, whenever Veric looked ahead and stayed silent.
+
+Luna hated noticing it.
+
+So whenever they stopped, she attached herself to Ray or Sepio or Veric before the bad thoughts could gain ground.
+
+Ray first, because he tried stepping away to inspect wagon tracks and therefore looked stealable. Luna caught his sleeve in both hands and leaned her whole weight back.
+
+He stopped immediately. “I need that arm.”
+
+“Luna also needs.”
+
+“For what?”
+
+“Emotional balance!”
+
+Trianna coughed into her hand.
+
+Ray stared down at Luna, then directly at Syliana in open request for proper intervention. Syl merely raised one brow.
+
+He sighed.
+
+“Fine. Five minutes.”
+
+Luna stayed seven!
+
+Sepio received the next attachment when they paused near a milestone carved with unfamiliar lettering. He was checking the road surface for signs of patrol movement when Luna pressed against his side and rested her chin on his forearm.
+
+He continued studying the dirt while very carefully pretending nothing had happened.
+
+After a while he said,
+
+“You are leaning on my shield arm.”
+
+“Strong arm.”
+
+“Yes. That is why I prefer using it.”
+
+“Use later!”
+
+Sepio closed his eyes for one long breath and did not move away.
+
+Veric needed no negotiation. Luna simply walked into his side and stayed there while he sharpened his sword during a short rest. His hand settled on her head once, heavy and calm.
+
+Ehehe.
+
+After that, the road stayed strange in quieter ways.
+
+Trianna kept drifting close enough that Luna’s shoulder brushed her arm whenever the path narrowed. She did not make a joke about it. She only bumped Luna back once, light and familiar, then kept walking beside her as if this was clearly normal travel formation.
+
+Luna’s tail gave a small swish.
+
+Yesh!
+
+Archer escort position.
+
+Very important!
+
+By evening they reached a roadside settlement built around a trade crossing. Low walls, busy gates, cookfire smoke, and too many strangers crowded behind the same defenses.
+
+Luna’s nose wrinkled.
+
+Too many eyes. Too many unfamiliar boots. Too many questions waiting near the gates.
+
+Syliana chose the woods on the eastern rise instead.
+
+Smart choice!
+
+Trees watched less than humans, clearly!
+
+They made camp beneath the pines, high enough above the road that wagon sounds reached them softened through the trees.
+
+Hidey-camp!
+
+Luna helped by unloading dinner.
+
+A sensible nobody-goes-hungry-if-Luna-can-help-it dinner!
+
+Fish from the lake, smoked Granidrake meat, skewers from Grevan, dried supplies, herbs, sauce jars, and three flatbread bundles appeared around the fire until Ray stopped mid-step and stared.
+
+“Still absurd,” he said. “Useful, but absurd.”
+
+Luna puffed proudly.
+
+Dinner softened the evening. Meat hissed over flame, sauce warmed in a small pan, and the smell of spice pushed back the cold road air. Luna sat close to Syliana at first, then gradually leaned half against Sepio while he tried eating with dignity.
+
+He glanced down at the tail fur pressed against his side.
+
+“You are stealing every bit of heat near this fire.”
+
+Luna looked up, innocent and chewing.
+
+Veric turned a skewer without looking over.
+
+“You have not moved.”
+
+Sepio paused, then turned his face away, embarrassed.
+
+Ray smiled into his cup, while Trianna did not even bother hiding her grin.
+
+Sepio adjusted his plate, stared into the fire, and refused to answer.
+
+Luna leaned harder against him.
+
+A proper victory!
+
+***
+
+Later, when the fire burned lower and the road sounds below faded to the occasional creak of late wagons, Luna sat with two skewers in hand and chewed like the meat had committed a serious offense.
+
+It helped.
+
+Biting usually helped.
+
+The meat was warm, smoky, and stubborn enough to fight her teeth a little, which made it useful. Luna tore off another piece and worked through it slowly while the tight feeling in her chest rubbed against her ribs.
+
+Trianna settled beside her without asking, close enough that their shoulders touched. Her cloak smelled faintly of road dust, bowstring wax, and smoke.
+
+Luna leaned into the contact by accident.
+
+…Mostly accident.
+
+For a little while Trianna only watched the fire, her bow resting across her knees while sparks drifted upward through the pine branches.
+
+“You know,” she said at last, voice softer than her usual teasing, “temporary doesn’t mean forever.”
+
+Luna huffed through the next bite.
+
+“Luna knows.”
+
+The skewer cracked between her teeth.
+
+A pause followed, filled by fire and night insects and distant horses farther down by the road.
+
+“…Still dumb.”
+
+Trianna laughed quietly, the sound warm rather than bright.
+
+“Yes. It is, little fluffball.”
+
+Luna’s grip loosened slightly on the second skewer. She lowered it and glanced at Trianna.
+
+The archer leaned sideways until her weight rested against Luna’s shoulder, easy and familiar, like the answer had always been to sit closer instead of saying more.
+
+So Luna stayed still.
+
+The others settled nearby as the fire burned lower. Ray took a tree at her left, Sepio remained by the fire, Veric sat beyond him with his sword across his lap, and Syliana stayed on Luna’s other side, holding her hand.
+
+Luna pretended not to notice all of them gathering closer.
+
+Obviously they were simply cold!
+
+Yip yep.
+
+Definitely.
+
+Tragic human warmth deficiency!
+
+Her tail gave one slow happy sweep through the pine needles. The fire warmed her front, Trianna warmed one side, Syliana’s herb-and-cloth smell settled on the other, and the rest of the pack stayed close enough that Luna could hear little things: Ray’s blade sliding against cloth, Sepio shifting his blanket, Veric’s steady breathing.
+
+Good sounds.
+
+Pack sounds!
+
+Her eyes started getting heavy.
+
+Luna tried to keep her eyes open anyway, because sleeping meant not checking whether everyone was still there.
+
+But the night was warm, her belly was full, and the familiar sounds kept pressing the awful feeling farther away. At some point, without deciding to, she slid down from Trianna’s side and curled into the middle space between everyone, tail tucked carefully away from the fire.
+
+Her body chose the center of the pack and refused further discussion.
+
+The shadows followed her drowsiness.
+
+They slid outward in loose, slow coils, only enough to touch. One loop rested across Ray’s boot. Another curled around the edge of Trianna’s cloak. A darker ribbon draped over Veric’s forearm and stayed there. Several strands settled near Sepio’s legs.
+
+He looked down at them.
+
+Then at Luna.
+
+She blinked sleepily back.
+
+Sepio sighed through his nose, reached for his blanket, and adjusted around the shadow instead of pulling free.
+
+Luna smiled, her eyes sinking halfway shut.
+
+Ray was still there. Trianna was warm. Veric did not move. Sepio allowed the shadow. Syliana’s hand brushed once through Luna’s hair before settling near her ear.
+
+The pack stayed close.
+
+Tomorrow, they would go separate ways.
+
+But for tonight, their warmth was enough.
+
+***
+
+PoV Syliana
+
+Syliana remained awake after Luna’s breathing evened out.
+
+The fire had sunk to red coals, and Luna’s loose shadows still lay across the group in faint, sleepy ribbons.
+
+No one pulled away.
+
+That was enough to make Syliana’s throat tighten.
+
+Then Luna shifted in her sleep.
+
+A small sound escaped her, thin and unhappy, and one ear twitched against the pine needles.
+
+Syliana stopped watching from the edge.
+
+She moved carefully toward the center of the group, easing herself between the loose coils of shadow until Luna lay within reach. The wolf girl stirred the moment Syliana’s hand brushed her hair, eyes blinking open halfway.
+
+“Mmm…?”
+
+“Come here,” Syliana murmured.
+
+Luna obeyed without fully waking, pushing herself clumsily toward the familiar voice. Syliana gathered her up before she could tangle herself in the shadows, settled back near the warmest side of the fire, and drew Luna into her lap.
+
+Luna yawned immediately, wide and helpless, ears flattening from the force of it.
+
+Syliana’s chest ached.
+
+She reached for the nearest blanket and wrapped it around Luna’s shoulders, tucking the edges beneath her arms until only silver-dark hair, drooping ears, and one sleepy eye remained visible.
+
+“There,” Syliana whispered. “Better.”
+
+Luna made a soft little sound and pressed her cheek against Syliana’s robe.
+
+Syliana let one hand rest against the back of her head while the other moved slowly along her hair, then down between her shoulders in light, steady strokes. Not enough to wake her, but enough to remind her she was there.
+
+Around them, no one spoke.
+
+Luna’s tense little fingers loosened against Syliana’s sleeve.
+
+Another yawn caught her, smaller this time. Her head sank more heavily into Syliana’s chest, and the last stubborn line of tension eased from her shoulders.
+
+Syliana continued stroking her hair long after Luna’s breathing settled again.
+
+The separation was necessary.
+
+That had not changed.
+
+Yet as the night settled around their small hidden camp, with Luna warm in her lap and every member of their strange little party still within reach, Syliana allowed herself one quiet, selfish thought.
+
+Necessary choices could still hurt.

@@ -1,0 +1,213 @@
+---
+id: 6f041a47-01a1-5d00-8a61-075d52a9943f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32: Spice for Blood"
+slug: 0032-chapter-32-spice-for-blood
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 32
+ownLength: 1339
+unit: words
+publishedAt: 2025-09-19
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2613559/chapter-32-spice-for-blood"
+royalRoadId: "2613559"
+---
+
+PoV Luna
+
+Shadow-hopping away from the lair, Luna darted behind the broken stone teeth of the ruins. Her paws skimmed the ground, tail high, nose sharp. A quick loop to map her escape, then back to her new-pack.
+
+Easy!
+
+The forest muttered strange things at her. Roots shifted where they shouldn’t. Branches curled low without wind. More ruin-things slumped one way, overgrown, mossy and lumpy.
+
+WHAM!
+
+She leapt sideways as a trunk the size of five wolves slammed down where she had just been. Bark groaned, roots ripped free. The tree had moved!
+
+Her ears shot tall.
+
+Corrupt tree?
+
+【Enemy Identified: Corrupted Barkling Guardian】
+
+Luna’s teeth bared. Instinct screamed to bite. But… bark? Was bark food?
+
+She wrinkled her nose. No spice smell. Only dry crunch and sap bitterness. The last bark-chews she had tried hadn’t been worth the splinters.
+
+“Bleh,” she spat. “Not food!”
+
+And she had a job.
+
+Big job!
+
+Entertain tree monsters later. Lead spice-friends now!
+
+Her tail wagged sharp once, and she bounded away from the slow, creaky guardian.
+
+“Bite you later, tree!” she barked over her shoulder, cackling at her own joke.
+
+But her grin faded fast. The further she ran, the more foulness pressed in.
+
+The air stank, heavy and moldy. Wrong pulses throbbed under her paws, black growths twitching through soil like worms. Branches bent in directions bark shouldn’t bend. Creatures twitched out of holes, eyes fogged, blood thick with stink.
+
+Not nice. Very not nice.
+
+Her ears flattened. Her pace quickened.
+
+The forest wasn’t the forest here. It was something else. Something she didn’t want near mother. Or pups.
+
+She cut hard left, nose twitching for clearer air. And there it was – beyond the corrupted stink.
+
+More stuff beyond the corrupt. Just some bounces away.
+
+It smelt different. Neither weird, nor nice. Not spice or fun. But not wrong either.
+
+So Luna didn’t care!
+
+Her problem was spice. Soup. Jerky. And revenge.
+
+She snorted, ears twitching back once toward the lair. Enough. She knew where it was now. She had it. That was the point.
+
+Now she could guide. Fast-fast. Straight back to her new-pack!
+
+Avoid her nap-place. Avoid pack-land. Where mom is. Where her cute little sister nibbles on weak prey.
+
+Her chest squeezed for a breath, but she shook her head hard. No. Not now.
+
+Tail wagged firm again.
+
+Yes. Best that way.
+
+And so Luna ran.
+
+She tore through the brush, her tongue flopping to the side, paws a blur. She ran apex-fast, tail streaming behind her, heart thumping joy into every leap. The ugly’s stink still stuck in her nose, but she pushed it down. This part of the run was for her. For fun. For spice.
+
+All she had to do now was bound back straight towards her new-pack place.
+
+And then–
+
+A deer!
+
+Not twisted, foamy, nor broken-eyed. Just plain deer.
+
+Food!
+
+Her ears pricked. Her grin split wide. Prey was prey, and prey was spice-currency!
+
+Strength coiled through her shoulders. Run carried her faster, faster, faster. Shadows bent under her belly, lifting her steps smooth and silent. She pounced.
+
+Claws out. Teeth sharp. Aimed straight for the neck.
+
+Strike!
+
+【Momentum Claw Lv.6 → Lv.7】
+
+The strike landed like thunder. The deer was nearly blown away, its legs buckling. It staggered once, twice, then crashed into ferns with a heavy thud.
+
+Luna’s tail wagged so hard it smacked her ribs.
+
+“That… was… awesome!” she yipped to the trees, puffed up with pride. Dead in one move! Apex Predator move!
+
+Her chest swelled. Her paws pranced in victory.
+
+She nosed the body, sniffing the fur, the blood, the still-warm weight. Good kill. Good trade. Soup fuel. Jerky money. Currency of spice!
+
+Luna clamped her jaws into the deer’s scruff, tugged once, and then bounded forward with it in tow.
+
+Dragging wasn’t even hard now. Wolf body strong. Wolf body perfect. Human body wobbly, but human body did the spice-talking. Both together? Unstoppable.
+
+She wagged again, smugness filling her belly alongside hunger. Very smart Luna. Very prepared Luna.
+
+The forest blurred past, her prize thumping against roots and stone, leaving a trail of crushed grass behind. Birds scattered from branches overhead, squeaking in outrage. She barked back in triumph.
+
+Yes! This was genius. Hunt ugly later. Trade prey now. Get soup. Get jerky. Get spice.
+
+Her tail lashed sharp with each step, keeping rhythm with the deer’s drag. She could already taste the smoky broth. Already hear the slurp. Already feel the spice sting her tongue again.
+
+Wolf strong. Human clever. Luna both.
+
+She trotted faster, chest puffed, eyes gleaming.
+
+Very smart. Very Apex.
+
+Very hungry!
+
+…And a little sleepy.
+
+***
+
+PoV Syliana:
+
+Syliana adjusted her seat on the log, eyes half on the fire and half on the treeline. Her expression remained calm, but a flicker of worry tugged at the edge of her thoughts. No matter how much she projected otherwise.
+
+Yes, historically Wildlings tended to be wildly powerful. Strong, defiant, and full of surprises.
+
+Wildlings this young though? Practically unheard of. No scroll, elder tale, nor wandering bard’s rambling had ever spoken of one so young. Not even in elven elders’ tales.
+
+And yet here she was.
+
+So small, silver-furred and sharp-eyed, running the woods with such reckless certainty.
+
+She had promised to come back, too. A promise Syl wanted to believe in.
+
+Whether the wolf pup understood what promises meant was another matter entirely. From what she had gathered, Luna’s world revolved around food. Soup. Jerky. Spice. Always spice.
+
+Syl sighed softly, hiding the curve of her lips.
+
+Perhaps it made sense. Born in a wild wood stripped of seasonings, then stumbling into a world of pepper, broth, and burning flavors. That kind of discovery could turn anyone’s path sideways.
+
+“Are you sure we can trust that wolf pup to guide us?”
+
+Sepio’s voice carried across camp, dripping with skepticism. Again.
+
+It was the third time he had asked since Luna bolted into the trees and she convinced them all to stay and wait for her to come back with directions.
+
+Syl lowered her gaze toward him, her tone even but pointed.
+
+“Yes, Sepio. She is our best chance.”
+
+Originally, they were supposed to move out and search already by now.
+
+But originally, she told him they should have hired a tracker for this.
+
+But no.
+
+He was confident they wouldn’t need one.
+
+Corruption spreads. The signs are obvious!
+
+...Obvious enough that they were stuck searching for any sign of them for the fourth day in a row.
+
+Their best lead being an area the recently disappeared party went out on a quest into.
+
+But it was still a big forest.
+
+And she got Sepio to back off again. Grumbling.
+
+…He really had a knack for being annoying sometimes. He could even wear her famously elven patience down if he tried.
+
+And he really tried.
+
+Syl folded her arms, staring into the still glowing remains of a fire. The forest pressed in around them, vast and untamed, swallowing their efforts with quiet disdain. Her thoughts circled back to Luna. Wild. Headstrong. Hungry. And yet… perhaps more dependable than the grumbling captain across from her.
+
+A rustle snapped her ears sharp.
+
+Leaves parted at the far end of camp. Her hand drifted toward her staff, but she stilled as soon as she saw silver fur gleam in the light.
+
+There she was.
+
+The wolf pup bounded in, dragging her prize with pride. A deer. Nearly her own weight, hauled across the forest floor without hesitation.
+
+Sepio scrambled halfway to his feet, hand brushing his sword hilt.
+
+Syl only smiled.
+
+“How did she even come from that side of the camp without us noticing?” Veric whispered, wide-eyed.
+
+Syl didn’t bother replying. The answer was obvious. Wildling.
+
+She let her smile curve wider as Luna tugged her kill into the firelight, tail wagging, chest puffed, eyes gleaming like she had just solved every problem in the world.
+
+Yes. More jerky would absolutely be required.
+
+And she already knew whose pack she would borrow it from.

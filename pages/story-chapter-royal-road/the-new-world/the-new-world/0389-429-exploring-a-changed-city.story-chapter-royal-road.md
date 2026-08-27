@@ -1,0 +1,679 @@
+---
+id: c0516b0e-bc13-5763-83c0-40d59f5e8f68
+page-type-slug: story-chapter-royal-road
+title: "429 Exploring a Changed City"
+slug: 0389-429-exploring-a-changed-city
+partOf: the-new-world
+position: 389
+ownLength: 7248
+unit: words
+ownProgress: 7248
+publishedAt: 2025-05-25
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2303650/429-exploring-a-changed-city"
+royalRoadId: "2303650"
+markedReadAt: "2026-06-29T21:34:41.456Z"
+---
+
+Diesel
+
+Scott guffawed.
+
+"Don't get me started on communications or electricity. This is what we call the dark ages, fellas."
+
+I cracked my knuckles.
+
+"Well, now, that's what we're here to fix. Isn't it?"
+
+My team cheered. I flushed a bit from the support before rubbing my hands together in excitement.
+
+"So everybody, let's get this show on the road."
+
+Chapter Begin
+
+Daniel
+
+After about two weeks of study, I uncovered a lot about magical theory and the history of its development across Xanathar, Torix's home world. None of what I uncovered applied to my magic, leaving me listless and bored. It reminded me why I dabbled so little in actual magic theory.
+
+The primary model from that world involved immersing one's self into a zone of thought. These mental states emulated the primary forms of mana from augmentation to dominion. At this point, I summoned those mana types as if they arose from within rather than having to think through them.
+
+A mere burst of feeling or emotion surged mana out, so I no longer needed careful consideration. In fact, suppressing the mentality of the energies was a much more useful field of study for me. However, the research into mana poisoning was paper thin. Few sorcerers lined up to be guinea pigs for the research, and you couldn't gain valid data by forcing individuals into a study. It warped the data, making it unusable.
+
+The studying did help me incorporate a bit more precision using lower volumes of mana than before, but the last two weeks amounted to little in the grand scheme of things. As I moved around the suite, those thoughts muddled my research and study, though that could've been the after-effects of my wounds.
+
+By now, the scars had begun fading ever so slightly from my skin. The light gray thunderbolt marks turned jagged as bits of black metal grew into them like roots. My head still rang like a bell all the time, and I could barely move the dimensions inside my body. Despite resting, only eleven minds swarmed in my psionic domain, and by now, I worried about my full recovery.
+
+If I couldn't recuperate, Blegara might be lost to an end-state eldritch. Anytime I forced out more than I could handle, the scars across me grew, setting me further back. By now, I had resigned myself for at least a month of subpar functioning unless I found a better means of healing. It left a bitter taste in my mouth, but all I could do was press on.
+
+At the same time, it wasn't all bad. Portions of my memory healed. I could recall tiny bits of my conversations with Marcella, and the first memory involved a piece of intel. Apparently, my guildmates wreaked havoc after gaining the legacy I let loose on the world. I never considered the prospect in detail, so that had been eye-opening.
+
+Sure, my legacy helped augment people, but I hadn't thought of how much it warped people's lives. I checked it out.
+
+Legacy Menu
+
+Below is a list of various achieved legacies alongside their bonuses. Legacies are awards that may be granted to select guild members, and they may be granted on a deferential basis.
+
+Sovereign | Sovereign Class Legacy | Tier S+ | Grants +110 to all attributes. +11% to base stats. Note - Only available to Followers.
+
+Endless & Undying | Endurance Legacy | Tier S++++++++++++++++++++++ | Grants 1,200 endurance, 1,000 willpower, 350 intelligence, 300 constitution, 150 strength, 100 luck, 100 perception, 100 dexterity, and 50 charisma. +15% health, mana, and stamina generation. +5% health, mana, and stamina total.
+
+Willful | Willpower Legacy | Tier S++++++++++++ | Gants 900 willpower, 750 endurance, 250 intelligence, 125 constitution, and 90 strength.
+
+Meticulous | Intelligence Legacy | Tier S+++ | Grants 500 intelligence, 450 willpower, 250 endurance, and 115 constitution.
+
+Orbital | Constitution Legacy | Tier S++ | Grants 400 constitution, 300 strength, and 250 endurance.
+
+Powerful | Strength Legacy | Tier S | Grants 300 Strength, 100 constitution, and 250 endurance.
+
+Aware | Perception Legacy | Tier A+ | Grants 150 Perception, 250 endurance, and 200 willpower.
+
+Fortunate | Luck Legacy | Tier A+ | Grants 300 luck, 60 charisma, and 250 endurance.
+
+Leadership | Charisma Legacy | Tier A+ | Grants 200 charisma, 150 luck, and 250 endurance.
+
+Note - All legacies require at least level 300. They must also be a member of your guild. This bonus does not apply to you, only to those who join your guild after meeting whatever parameters you set. Legacy bonuses do not count towards tree or perk unlocks.
+
+After accessing the legacy menu, my best one for a normal person granted 3,350 stat points. An average person averaged a bit less than two stat points per level-up, assuming they could afford dungeon cores. In that situation, my legacy granted around 2,000 levels worth of stats, not including the percentage multipliers.
+
+That made my legacy guildmates much stronger than a normal person. If you combined that with the rings, better training, and access to better class variants, then guild membership was a potent steroid to anyone fully initiated. I hadn't considered how much that would affect a society under my rule since the menu seemed to always help more than it hurt.
+
+Making people more powerful would help them fight monsters, so it seemed like a good thing. In general, it was, but it carried pros and cons. Only looking at one half of that equation, the one that felt nice to look at...That kind of shallow thinking wasn't befitting of a ruler, let alone one that ruled over worlds.
+
+At the same time, I healed into a shadow of my former self. I could move my dimensions once more, and mana called forth from my fingertips like water from a hose. However, I wasn't ready to face any meaningful foe like the rogue eldritch on Blegara. Althea hadn't visited a single time either, though we messaged multiple times a day. Apparently, The Shattered Spires needed more help than they anticipated.
+
+That gave me a window of time to work with. Doing so, I came up with a simple plan to broaden my perspective. The problem arose from my status; I was simply too high up in my organization. At this point, people revered me like some deity when I was nothing of the sort. I needed help just like everybody else, and I couldn't get a proper understanding of how people lived in my guild since they wouldn't be honest knowing who I was.
+
+That disconnect resulted in roaming legacy wielders that devastated entire settlements. I couldn't help if I was so blatantly ignorant, so I left my room while initiating a plan. I passed by marble hallways and decadent mana lamps before pacing down to the residential and financial sector of Mt. Verner.
+
+As I did, my appearance garnered more than a few stares, many bowing to me. It made me uncomfortable as always, their reverence more like cold water than a cozy warmth. It was a dichotomy of reverential treatment. Its purpose was to demonstrate thoughts of praise and regard. It also alienated whoever was treated in such a way.
+
+And my presence was like a soul-sucking alien as people hushed their conversations while I passed by. Despite the nigh scathing veneration, I peered at the changes to the district. All along the stalactites above, phosphorescent ivies glowed from the rooftops. They carried flowers that glistened like moonlight, and mana saturated the air like an electric current.
+
+It vitilized the people here, everyone awake at all hours in a city that never slept. They spent time working, talking, and beautifying this place. The residents carved out more of the cavern, taking out huge portions while supporting the ceiling using enchantments. The unobtrusive design enabled nature to take center stage, and the broadened avenues allowed for parks, sidewalks, and broader streets.
+
+Trees grew here, some of them blooming flowers and fruit I'd never seen. Flecks of silver speckled pears, each leaf glowing vibrant shades of lilac and violet. Along the branches, orchids bloomed, their petals flapping like butterflies on their branches. Even the grass let out wonderful chimes as a gentle wind coursed through the tunnel. A gentle harmonizing music rang through the city like the sound of rain.
+
+The architecture incorporated stone to match the exposed portions of the cavern walls, all of it polished and sculptured. I marveled at homes full of families and successful adventuring groups. Different crests and insignias lined their grand entryways. Inspecting closer, many of those insignia boasted a skull with two burning eyes alongside a symbol of magic, from conjuration staves to ritual ingredients.
+
+Torix's college created an upper crust of society here. Another product of his teachings, birds of mana floated between each home. These mana constructs chirped and sang like normal birds, and they left contrails of glowing mana behind them. To feed, they sat at the mana lamps and soaked in the light, many dancing to compete for the best spots.
+
+Enchantments lined every doorway, offering further support and structure to the solid homes. In fact, a close inspection revealed metal walls layered for maximal strength. A high-level individual could break them down, but a lower-level person would struggle. To be fair, most of those here leveled to around the two to three thousand mark.
+
+They rarely reached the level cap, but they'd seen their fair share of war from Elysium and Yawm alike. Different marks on homes demonstrated that. A world tree showed their participation against Yawm. An ocean full of life meant they fought on Blegara. A spire of twisted metal meant they faced Elysium.
+
+These people walked with scars along their hands, faces, and necks. They must've considered the wounds to be a part of themselves, as I did. It was an eccentricity of the system. At times, a person's scars fade. At other times, they regenerated while covered in them. For me, it seemed as though reforming slowly brought them about.
+
+Rapid healing scoured my body clean of any blemishes, but I never liked that appearance. I preferred the grit and imperfections. They reminded me of who I was. From walking around, it seemed I wasn't the only one. Aside from Torix's insignias, many families boasted any artifacts they owned that I created.
+
+Banners on their front yards exposed symbols of rings, swords, and rifles, all below a symbol of my face and eyes in a menacing glare. They had different amounts of symbols, from multiple rings to only one artifact on them. In general, the more artifacts a banner had, the larger the home it rested on. It seemed to be a potent status symbol.
+
+Either way, I wanted to stay here and enjoy the residential district, but a sense of unease at my inactivity ate at me. As if hounded, I kept myself active and passed the precinct before walking into the financial one. They held the same visual motif, though the buildings differed in both purpose and design.
+
+The grander, more ornate structures housed larger spaces for various activities. I found runic enchantment shops, bookstores, obelisk repair centers, and one of Althea and Kessiah's pharmacies. As I passed by, I found the store's name. The Althsiah, Home of Your Cure. It sounded way better than I expected, considering they just mushed their names together.
+
+It arrested my attention, and I couldn't help myself. I walked into the store. Inside, hundreds of vials lined the shelves. They contained a variety of taglines for the many origins of their goods. Blood tinctures, mana imbibed elixirs, docile symbiotes, they even had a section for berzerking brews. I picked up a few of them, each vial carefully crafted to hold their different contents.
+
+The blood tinctures came with immunosuppressant pills alongside certifications of their disease-free status. The elixirs were bundled beside powdered mana crystals and instructional pamphlets. If someone wanted a stronger effect, they simply had to mix the extra powder in. That particular variety of warnings and wavers came alongside the thick glass bottles.
+
+The symbiotes were clusters of various beneficial organisms. Every creature held some kind of drawback and benefit, each of them designed to bring out the best of certain builds. One set of living contact lenses augmented the sight and lessened the hand jitters of snipers, but they also muted one's emotions while active. Another set of bracers had claws to latch onto a person's hands. They gave extra strength and fervor in combat, but they caused poor precision and motor function for several days after their activations. They even came with night sweats for a week after.
+
+Curiosity burned in my chest at the sight of them, so I put several dozen bottles into my dimensional storage while taking other bottles off of the shelves. After buying the supplies, I popped open several vials to try the mixtures. It was a fine way to blow a few thousand credits, as each vial was a liquified experience.
+
+The berserker brews held ascendant mana molded to various upping herbs and stimulants. They caused the jitters from a fried nervous system. The boosting elixirs gave a temporary bonus to a stat before damaging the body in turn. Considering how resilient everyone's bodies were after systemization, it was a fine tradeoff.
+
+In fact, that also solved many of the problems of addiction. Most of these compounds were absorbed and processed in minutes. Any withdrawals also occurred over the minutes thereafter, reducing the development of a dependence. Of course, Althea and Kessiah did their best to minimize addiction rates. To be honest, someone would have to make the compounds addictive on purpose to get past the system's innate safeguards.
+
+I couldn't help but wonder how aspirin caused problems with the gialgathens based on what Neel said. I pondered about him for a while as I wafted in the enchanted liquids like some insane convict going through his last bender. My own composition weakened the effects of the compounds by orders of magnitudes, but I enjoyed them nonetheless.
+
+By the time I got to the currency exchange center in Mt. Verner proper, I floated a dozen empty vials beside me. I dumped them into a trash receptacle before walking up to the exchange center. The receptionist wasn't a remnant, instead being a native from Springfield. I couldn't remember their name, but the orange hair and blue eyes looked undeniably Irish. He had freckles and broad shoulders, and the guy looked like he pulled ladies left and right.
+
+Good for him. Either way, his eyes widened as I stepped up.
+
+"Hello, guildleader. Is there anything I can do for you?"
+
+I nodded.
+
+"I need standard dungeoneering supplies, a cloak that hides my status from leveled individuals, and normal-looking clothes for a wanderer."
+
+The receptionist peered up at me, recognition glowing over his face.
+
+"An infiltration mission? Say no more. I'll get you just what you need. Before I do, do you have a budget?"
+
+I shrugged.
+
+"This can't pass fifty million credits."
+
+His face paled.
+
+"Oh my god...What in the world were you thinking we had in stock?"
+
+"I'd imagine quite a bit since you can order it from some of the interconnected empires we've allied with, right?"
+
+"Of course, but even then, fifty million is a price tag reserved for scarce, esoteric goods."
+
+I smiled.
+
+"Good. I can get some pretty good-looking mundane gear then."
+
+The receptionist scoffed.
+
+"Alexander was right about you. You do get right to the point. The aura's there too. Man, crazy."
+
+I furrowed my brow.
+
+"Alexander? Which one?"
+
+"The arcane mage. He talked about a lesson about pain tolerance with you."
+
+I snapped my fingers.
+
+"Ah, him. How's he been doing?"
+
+"Oh, he's great. He's actually my older brother. He helped keep me alive during the culling, and he's been raising our little sister for a while now. I send him money from time to time for whatever she needs. I visit too, but he lives out in the countryside of the city. I only make it over twice a week."
+
+"The countryside, huh? That sounds like it's outside the barrier of the city. Not that it's my place to judge, but that seems unadvisable, given he cares for a child."
+
+The receptionist waved his hands.
+
+"Oh, he's in the city confines. Your barrier covers lots of extra space, and even after all this time, we're still filling in the gaps."
+
+I put my hand on my hips.
+
+"Well, hell yeah. I'm glad to hear it. By the way, what's your name?"
+
+He reached out a hand.
+
+"Connor."
+
+I grabbed his hand.
+
+"Daniel. What will the cloak cost? And a rifle or some normal-looking weapons."
+
+Connor scratched the side of his head.
+
+"The cloak is the only item worth talking about price-wise. To get a good one, it's going to cost around three to four million credits. I'll cut our share of the proceeds as this is helping the guildleader out. It doesn't seem right to profit off you, given we're in business due to, well, you."
+
+I opened my pocket dimension before handing him one of my premade rings.
+
+"Thank you kindly."
+
+He gawked at the item as if I handed him a gold bullion.
+
+"This...This is too much. These aren't sold, so the prices aren't set, but they're far higher than the cloak costs."
+
+I scoffed.
+
+"Maybe if I was paying for it using this, but this is a gift. It's for the little sister. She doesn't have to wear it all the time, but anytime you guys are traveling, it can help keep her safe."
+
+Connor stood, the ring weighing his hand down. After a moment, tears fell down his face. I leaned back, my face aghast.
+
+"Oh man, I, uh, what's going on?"
+
+He waved his hand.
+
+"I...Just...This is incredible. Thank you."
+
+I peered back and forth, an intense quiet settling on us in a strangling fashion. It felt like such an overreaction to me, yet he carried on as if this was expected, all the while immersed in a wave of emotion. I could hardly take it, so I gestured to the cloak.
+
+"So uh...How does the cloak work?"
+
+Connor wiped his face.
+
+"Ahem...It, uh, it will hide your title and status from anyone at or below level five thousand. What makes the cloak special is that it hides from level 5,000 as well. Most items like this miss that threshold."
+
+I nodded.
+
+"So only classers can see through it, and they're much rarer than cappers?"
+
+Connor nodded.
+
+"That's the gist of it. It's quite protective and can pull up lower attribute totals if that's something you struggle with. Knowing you, that's not something you have to worry about."
+
+I shrugged.
+
+"If it's raw attribute totals, probably not. Using them? Well, that's a different story. Anyways, thanks for getting me sorted out. I appreciate."
+
+He bowed far too deeply while holding the ring.
+
+"No, thank you. Thank you so much. Our family is forever in your debt. Thank you again."
+
+As I walked off, I had to shake off some unease. Connor had held that trinket like he was Gollum, and I handed him the one ring. In essence, I might have, and it further drove home how alienated I'd become. After passing through my suite, I changed into the new garbs and altered the size of myself.
+
+I still stood tall at nine feet, but I wouldn't be mistaken for a classer or guildsman. In dark leather, I had a hood over my head and a variety of consumables meant for combat. Daggers lined my chest, the metal glinting. Several vials hummed at my side, the potions thrumming out with volatility and promise.
+
+Ok, look, I mimicked a cheap version of Terra.
+
+There, I said it. I didn't know a single other real dungeoneer, and he had this grizzled look that felt down to Earth. My other guildmates barely wore armor since their bodies outdid what most protection provided. It would make me stick out like a sore thumb if I followed that fashion trend. It would also be nice to try out some of these other combat techniques using daggers and consumables. A sword, too, maybe.
+
+I wouldn't be an expert, but I could probably manage, given my immense statistical advantages. The other odd part of the outfit was actually wearing it. I hadn't worn clothes in a long time, and I wore the leathers like a cat forced into an ornate and itchy Christmas sweater. Either way, I headed out of the fifth floor of Mt. Verner and headed towards the city proper.
+
+After passing the lavish streets and decadent designs, I passed a few alleyways to a newer district. It was three miles from the city center, but it still used the architect golem's primary visual aesthetic. However, this place carried signs of being 'poor' relative to my guild's weird standards.
+
+Most buildings lacked integrated enchantments. In the developed part of Springfield, most buildings had all kinds of buffs that augmented whoever rested or worked within. Here, people existed in the sphere of only my own citywide boons. My bonuses dwarfed most buildings' integrated runes, but while mine revolved around pragmatism, these runes oozed comfort.
+
+For example, skilled enchanters created self-regulating and individualized mana constructs. Depending on a person's preference, these constructs modified their surroundings on the fly. It made temperature easy to forget, given how controlled it was. The same could be said for gravitation, where decadent bussinesses lightened the load a touch for a sense of ease inside their building.
+
+My brain thought of how that would soften a person's bones over time, but by now, I had already established that I was a total weirdo. Other signs of being oh so very poor were a lack of crystalized mana or my armor pieces. Torix's alumni banners also steered clear of this district alongside signs of being a part of the guild's wars.
+
+That's why I passed the unenchanted buildings and not quite so ornate lamps. It all screamed of opulent luxury to me, but the average level here sat in the upper hundreds. Think 500-1,000. People turned rowdier, and they carried less leveled gear. Some people didn't even shower every day, and a few of the buildings already showed slight wear and tear from lacking maintenance.
+
+I passed through the streets, the entire time feeling like an imposter. I was, so that sensation fit right in. I would've been far more nervous if not for how little attention I garnered. No one even gave me a second glance, my cloak giving me exactly what I hoped for - anonymity. As I walked by, a few people talked trash about The Harbinger and his policies.
+
+I couldn't help but have a hidden grin across my face at their griping.
+
+Even better, they complained about absurd trivialities. In general, I had a policy that certain people whined and complained, no matter the circumstances. You gave them ten thousand dollars? It could've been a hundred. Did you save their children from a car accident? You should've paid for full coverage on their insurance policy for them as well.
+
+The more absurd their complaints, the more you could respect what they complained about. Ergo, these people complained about how powerful the golems were, how hard it was to get a legacy, and how the Harbinger hadn't cleared all the eldritch on Earth. It was a long list of entitled complaints, and that meant I was doing pretty well.
+
+Still, I hadn't harvested all I needed after mingling in the masses. After passing a building that already had water damage on one corner of an immaculately sculptured roof, I stepped to the downstairs level of another low-lit basement. A sign at the front declared - Joshua's Gingertown, Where Fun Meets Taste. I wasn't the biggest fan of the title, but I liked the old wooden sign quite a bit.
+
+As I stepped into the tavern, I relished my surroundings. The place emulated a vintage-styled English pub. A set of barrels and old wooden stools lined the bar. Sawdust spread out over the floor to clean up beer and spilled spirits. Old kerosene lamps lit over the tables, and the smell of cigars and whiskey drifted through the air.
+
+It impressed me. Sourcing all of these pieces was far more difficult than simply making gold or marble. Even more so, the owner stood and served at the barkeep, his vest and rugged mustache putting a smile on my face despite my envy. I had always wanted to grow out a mustache, but alas, I quit growing a beard after integrating into my armor.
+
+A profound and deep sadness welled within me. My desire for a mustache would never be sated, so could my life ever truly be complete? Most definitely not, but I trekked forward in spite of it all. As I sat down at the bar on one of the barrels, I was stunned at how profoundly uncomfortable it was.
+
+Ignoring the angular wood beneath me, I met the barkeep's eye. He gave me a gesture of recognition before finishing up two other member's drinks. He walked over, polishing his glass.
+
+"I haven't seen you around here. New to Springfield?"
+
+I nodded.
+
+"I'm trying the town on for size. It seemed stable enough, and I heard the guild's strong. If I'm honest, I never expected all of this."
+
+Joshua shook his head.
+
+"You're telling me. I arrived here a few months ago, and I remember the first time I saw a Vanguard golem. I damn near shat myself right there."
+
+I laughed.
+
+"The ones with red eyes?"
+
+Joshua shivered.
+
+"They don't come into the town proper much anymore, but for a while, they were here all the time. I could hardly sleep at night. I kept thinking one of those thirty-foot-tall metal titans would come and eat me."
+
+An early twenties man at one of the tables raised a drink.
+
+"Like Attack on Titan?"
+
+The barkeep sneered.
+
+"Ugh. Kids and their animame."
+
+He spoke the last word as if fusing the words anime and edamame. He gave me a look of defeat.
+
+"I was thinking more of an Evangelion angel myself, but all these youngsters know about is the newer stuff before the culling."
+
+I leaned back.
+
+"Huh, you sounded like you never watched any anime."
+
+"Oh, I never said that. There're some good shows nested in the medium, just like anywhere else. It's a shame we lost a lot of the more niche shows after all the electronics failed, but most scavengers have been able to retain a lot of the more popular shows using tapes and CDs."
+
+I nodded.
+
+"Oh. I didn't know people were restoring lost culture. That's good to hear."
+
+Joshua kept polishing his glass, though it was already sheened.
+
+"People do when and where they can. It's tough, but a few cities like this have really opened people up to less militant pursuits. It turns out that not many people talk about Mozart or Shakespeare when monsters are running spikes through your throat."
+
+I scoffed.
+
+"Who'd of guessed?"
+
+Joshua smiled.
+
+"It would be a hell of a way to go, wouldn't it? Speaking lines from Hamlet or Macbeth as a monster tore your head off?"
+
+I reached out a hand.
+
+"It would. By the way, the name's Daniel."
+
+"Mine's Joshua, though you probably knew that already. What brings you here?"
+
+I peered around.
+
+"I've been looking for a dungeoneering group. I'm also trying to get a lay of the land."
+
+Joshua raised a brow.
+
+"Where you from?"
+
+"Castle Rock Colorado."
+
+"Oooh. Nice area. I had a cousin who moved there. I don't know what happened to him, but I like to think he moved to the actual Castle Rock and lived atop it like some king."
+
+I adjusted my hood, keeping my face in darkness for the most part.
+
+"The actual Castle Rock was a dungeon, though the legion recently cleared it. That's part of why I came here. That, and I can't help but wonder if the guild's everything people say it is. I mean, can it be?"
+
+Joshua's grin reached his eyes.
+
+"It's that and more, son. That and more."
+
+The mid-twenties man behind us let out a loud boo.
+
+"You just like that they helped you build your bar."
+
+Joshua raised his glass.
+
+"Damn right, I am. And besides, why wouldn't I be?"
+
+The mid-twenties man shouted back.
+
+"Because you're not a charity case."
+
+The innkeeper fired back.
+
+"Says you. I don't want people thinking I won't take free credits."
+
+The mid-twenties man snapped.
+
+"Shameless."
+
+Joshua sneered.
+
+"Hypocrite."
+
+The tension faded in an instant as they laughed. I tilted my head at the man and his crew.
+
+"Who are they?"
+
+Joshua rolled his eyes.
+
+"Oh, that miscreant? That's Jamal. Those two other members are Nissa and his sister Jasmine. They were friends that found each other after the culling."
+
+A spark of pain shot through my chest. For some reason, the group reminded me of Michael and Kelsey. Before I settled that emotion, a hand tapped my shoulder. The man from the table walked up.
+
+He wore a set of leather armor, each piece a different color and enchanted by a different set of hands. His dreads hung by the sides of his face, wooden beads styling the strands of hair. He wore earrings, and he had the kind of smile that was somehow charming and offputting at the same time. Hmm, it was kind of like a pug in effect, though not at all in appearance. Jamal leaned against the aged oak of the bar.
+
+"I heard you asking about us from the table. Do you mind telling me what you're trying to dig up?"
+
+I mirrored his posture.
+
+"I'm trying to find a dungeoneering group. I wanted to get my feet wet after traveling here, but it's been harder to find a group than I expected."
+
+Sympathy arose on Jamal's face.
+
+"I get that. We struggled to find larger subsections of the guild that would take us too. We're either nowhere near the requirements for a mission, or we're woefully overprepared. I'm not saying it to brag, but I'm level twenty-five hundred already. I'm not guarding someone's caravan as they travel the countryside if you know what I mean."
+
+In all honesty, that sounded like a fine job to me, but I didn't probe further. I gestured to his table.
+
+"Do you mind if I sit with you all then?"
+
+Jamal gestured to Nissa and Jasmine.
+
+"We're welcome to talk business anytime. Plus, you seem competent enough."
+
+I raised a brow.
+
+"Appearances can be deceiving."
+
+Jamal tilted his head.
+
+"You have no situational awareness. You didn't even flinch whenever my hand grazed my knife handle just now."
+
+I furrowed my brow.
+
+"Why would I?"
+
+He pointed at me.
+
+"See, that's how I know you know a thing or two. You're not even framing your questions as if I could threaten you."
+
+I scoffed.
+
+"You can't. You'd die to a golem or worse if you tried."
+
+Jamal sat at his table behind me. He smiled.
+
+"Thing is, I could've still sliced your head clean off your shoulders before you noticed, golems or not. That never even crossed your mind, though, did it?"
+
+His knife would shatter like glass, so no, it hadn't. I gave him a sheepish grin.
+
+"Honestly, it hadn't."
+
+Jamal waved me over.
+
+"My point exactly. Our crew could use another fighter to help round out our support package. It's not like we're lacking per se, but it would be nice to know we're covered."
+
+I raised my hands.
+
+"I'm game then."
+
+I reached their table. Jasmine eyed me like a tiger in the grass. Like her brother, she wore dreads and beads in her hair, though she used darker-colored woods. Her skin tone was brighter than her brothers, closer to caramel than dark Earth. She also used vicious iconography on each of her wooden beads, from wolfs tearing prey apart to cthulian imagery of eldritch horrors. A scar traced her chin, the laceration from something jagged and not sharp.
+
+She frowned at me.
+
+"You remind me of this arrogant prick I knew in high school."
+
+I leaned against the table.
+
+"How so? Cause it can't be my dashing good looks."
+
+I dripped sarcasm, but Jasmine narrowed her eyes.
+
+"So you think you're handsome?"
+
+"To goblins, maybe."
+
+She slapped my shoulder.
+
+"You can take a bit of heat and a joke. That's enough for me."
+
+Nissa frowned. She wore enchanted robes, and her gear dwarfed the others in quality. Tattoos wrapped around her neck, and she kept her hair short in a brunette bob. Her fair skin carried freckles from many lost battles against the sun, and she was also the youngest of the group while wearing circular glasses. They reminded me of Harry Potter's glasses, actually.
+
+She raised her brow.
+
+"We don't even know if this guy can do anything. Or if he'll kill us."
+
+I leaned against my hand.
+
+"What's that going to get me, exactly?"
+
+Nissa hit her staff against the ground.
+
+"Our equipment, at the least."
+
+I furrowed my brow.
+
+"And a bounty, one that exceeds the worth of your collective gear severalfold. I'll ruin my reputation here as well, and I won't be able to join the guild, given my criminal record. In essence, I'd give my future away for the chance at gaining equipment I could work my way to having over a few years."
+
+I frowned.
+
+"It's a bad trade, isn't it?"
+
+Nissa adjusted her robes.
+
+"It sounds like you've given murdering us a lot of thought."
+
+I peered at the bar's aged oaken walls.
+
+"More like I've thought about the concept of murdering in general. Either way, I understand the ramifications well enough to know what I'd be losing in the exchange, assuming I survived it. That should be comforting enough."
+
+Nissa adjusted her glasses, wiping off some grime.
+
+"I suppose, though I'm still not fully in favor of this guy joining our group."
+
+Jamal clapped his hands together.
+
+"We can't know unless we try, right? I say we go for it."
+
+I leaned back up.
+
+"Ah, great. When's the trip?"
+
+Jamal raised his hands.
+
+"We've got a job lined up, but we're fine with postponing for a few weeks while you get ready."
+
+I waved a hand.
+
+"I'm ready now."
+
+Nissa squinted at me.
+
+"You're telling me you run into a dungeon without any prep work?"
+
+I rolled a hand at her.
+
+"I'm assuming I can read your group's prepared documentation as we travel. As far as supplies go, I'm topped off and have what I need."
+
+Jamal cracked his neck.
+
+"There's only one last thing to verify."
+
+He put a hand up.
+
+"Let's see if you have any power in that arm."
+
+I spread my hands.
+
+"I'm not planning on wrestling an eldritch to the ground anytime soon if I can help it."
+
+Jamal's eyes lit with a competitive fire.
+
+"You never know if you'll have the choice. Now come on, or you're not joining the group."
+
+I gave the rest of the bar a cursory glance. I found no other groups, so I turned back to this one and shrugged.
+
+"Alright. Let's do this."
+
+I put my hand on the table, an internal bar of steel offering plenty of support for our arm-wrestle. To be honest, I hadn't arm-wrestled since I was in high school. I had no qualms about it, though I remember there was a risk of breaking someone's arm if you used the wrong angles of force or something.
+
+Either way, I planned on losing steadily but well enough to earn respect. As I grabbed the guy's hand, his eyes widened, and he laughed.
+
+"Dude, you feel like you're made of steel."
+
+I grinned.
+
+"I have plenty of hand conditioning skills."
+
+He took a breath before starting the countdown.
+
+"If you say so. Ok. Three. Two. One. Go."
+
+He began the epic battle of monumental proportions. I had to emulate the jittering of a muscular struggle, though the guy also cranked my arm and hand from a weird angle. It felt like he understood the game much better than I did, and it put me in a position where he leaned over my arm while I could only curl him.
+
+Nissa rolled her eyes.
+
+"You literally had an arm wrestling club before the system. Why do you even do this?"
+
+Jamal flashed a cheeky grin and spoke through a strained breath.
+
+"The glory, Nissa. The glory."
+
+I shook as he pressed down onto my hand. As his face flushed, I clenched my jaw, trying to appear like I was in a stoic struggle. After a while, I let the guy win, and he leaned back. He put his hands up.
+
+"The man. The myth. Undefeated."
+
+The girls rolled their eyes.
+
+"Childish," Nissa mouthed.
+
+"Stupid," Jasmine murmured.
+
+I shook my hand as if wringing out some discomfort.
+
+"Gah, you got me."
+
+Jamal smiled.
+
+"It was a good match. That seals the deal. We'll see if you're a fit, new guy."
+
+They ordered me a few rounds of drinks, and Joshua hung around the table for a while. As Jamal handed me the drink, a subtle sharpness entered his gaze. He spoke with nonchalance.
+
+"This brewery has a few connections with Torix and his crazy poison brews. Now, we're not poisoning you or anything, but this booze works for anyone at around level 2,000 and some investment in endurance, constitution, and, well, you know, the basics."
+
+I nodded.
+
+"I can handle that then."
+
+Jamal smiled.
+
+"Pray tell, what couldn't you handle?"
+
+He wanted to know my level range since my cloak hid that info. I offered the drink for a cheers.
+
+"Something meant for someone at level three or four thousand."
+
+Jamal clanked the glass.
+
+"You'll fit right in then."
+
+I tossed the drink back, and my metabolism eviscerated the poor booze and poison like a rabid bear challenging a puppy to a death match. After a few more drinks, we talked for several hours, discussing the dungeon, life outside of dungeoneering, and plans for the future. By the time we finished talking, they had warmed up to my knife abilities and consumable-based strategy.
+
+It had been fun, though my acting skill wasn't good enough to pull off being inebriated. That's why I left them fumbling about on their table before walking back to Joshua. As I did, I raised a hand.
+
+"Do you have any rooms?"
+
+He pointed a hand at me, his eyes piercing.
+
+"Listen here and listen well. If anything happens to them in that dungeon, I'll set a golem on you, boy."
+
+I leaned against the bar.
+
+"What's making you think I'll be so hostile?"
+
+Joshua sneered.
+
+"I poured booze in your glass that'd make cappers fumble around like wiggly noodles. You haven't even flinched. Hell, you didn't even notice it was a higher grade of booze than the others at the table."
+
+Damn. He got me. I sighed.
+
+"Look, I'm not here to start anything. I'm collecting info."
+
+Joshua leaned toward me. He met my eye.
+
+"Those kids. They're all they got in this world. I've seen them and got to know them well. They're good people. They treat other dungeoneers well. They've brought back quite a few groups to this town. They follow the law. So, if they disappear in that dungeon with you, then I'll pay every dime I've got to get the worst bounty on your head that I can. Am I clear?"
+
+I met his eye, and a sympathetic smile traced my lips.
+
+"They will come to no harm while I am with them. I can promise you that much."
+
+Joshua held my gaze for a moment before pulling back. He went back to polishing his glass.
+
+"Good. As long as we're clear on that, then I hope for your safe and profitable travels, wanderer."
+
+I pointed my thumb at them.
+
+"But I'm asking, in all honesty, do you have the rooms?"
+
+Joshua tilted his head at the back.
+
+"There's a staircase leading to a few hollowed-out spaces with beds. Make sure the dehumidifiers are on; otherwise, it gets dank in there."
+
+I went over and picked the three adventurers up, two on my shoulders and one held in my arm. As I passed him, he eyed me again. He shook his head.
+
+"If you're trying to appear normal, you're doing a horrible job of it. You're not even leaving cracks in this old wood while carrying three mid-leveled adventurers."
+
+I scratched the back of my head.
+
+"And you're a lot sharper than most bartenders tend to be."
+
+Joshua smirked.
+
+"You could say that."
+
+I waved a hand as I walked into the backrooms.
+
+"I guess we both have a few secrets."
+
+He nodded.
+
+"It would seem so. Sleep well, traveler."
+
+As I stepped back to the old rooms, I found a line of brutal cave rooms, ones carved out of solid rock and supported via scaffolding. My golems made this abomination in about three seconds, and I wanted to fix the place then and there. I didn't, but damn, did I want to. After setting each member into their own bed, I sat down and rested on my own cot.
+
+It had been years since I slept, and for the first time in a long while, I closed my eyes. As I drifted to sleep, I couldn't help but have a goofy grin plastered to my face. This had been a lot of fun despite the fact I could read their life histories in my status. I also knew whether they lied or told the truth by their heart rates alone.
+
+In fact, I knew full well the innkeeper had rooms back here. None of that mattered because this was the most normal I had felt since before the system arrived. Alongside the normalcy, a cascade of nostalgia and warmth for a rose-tinted past came alongside it all. It reminded me of long nights staying up too late in high school while watching horror movies with Michael and Kelsey.
+
+This whole evening had carried the same energy as one of Kelsey's pranks that ended just right, not too far over the line but still crazy enough to get a laugh out of me and Michael. In that regard, this had been like a homecoming of my old self which was something I hadn't felt in a long time.
+
+I raised my hands, and beyond the concealing magic of my cloak, the bright scars still traced my skin. They reminded me of my mortality, the wounds from a mad god. They were reminiscent of moon slices spreading over dark steel. Before this trip, I worried about being able to recover to my full might.
+
+However, my wounds gave as much as they took. Today, I was a normal man, or at least closer to one. I held down a laugh as I relished in the weakness these scars gave me. It was like entering a world where others could see me for who I was, not what I could do, and that was a refreshing feeling. As I settled into slumber, I found more empathy for the Old Ones.
+
+And I could see why they wished for weakness.

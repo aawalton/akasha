@@ -1,0 +1,205 @@
+---
+id: 5ca5492a-0f4b-5288-ac12-980cd1916e5c
+page-type-slug: story-chapter-royal-road
+title: "89 An Unexpected Trap"
+slug: 0046-89-an-unexpected-trap
+partOf: the-new-world
+position: 46
+ownLength: 3842
+unit: words
+ownProgress: 3842
+publishedAt: 2017-12-15
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/180403/89-an-unexpected-trap"
+royalRoadId: "180403"
+markedReadAt: "2026-06-29T21:22:21.970Z"
+---
+
+My stomach sank as a wave of nausea poured over me. Hod was a good friend. He annoyed me at times...well, all the time really, but he was funny sometimes too. This fucking piece of shit Etna was trying to kill him. I wouldn’t allow it, more out of principle and spite than kindness though.
+
+That meant I had to reach Hod before she finished the job. With my new movement skill, Meteoric Rise, I closed the gap much faster than before. I still wasn’t fast enough to save Hod though. Every time I landed, I lost almost all my momentum from the jump prior. To keep pace, I exploded off my feet again.
+
+That meant I slowed down each time I landed before speeding myself back up. It was like revving a car engine from 0-60 miles per hour over and over again. I wasn’t getting the amount of speed I could be getting.
+
+As the glowing blot of orange moved in closer towards the burning bird, desperation sunk in. There wasn’t any options here. Hod needed me to save his ass. As I came closer to the ground, I changed my pattern of flight.
+
+Up till now I landed on my heels before bursting back into the air again. Taking a risk, I dived towards the earth headfirst. Worse still, I used a gravity vortex to speed my descent. The ground grew in my vision, tiny specks turning into massive boulders. At my peak velocity, my head smashed into the ground.
+
+Except it wasn’t a smash, I slid into the ground. Faster than I’ve ever ran, I sliced through the rock. Angling myself back, I shot up to the surface. Right before I shot out of the stone, I discharged my mana. Like bombs detonating beneath my feet, I accelerated back into the air, even faster than before.
+
+It was like I was traveling through an ocean of stone like a dolphin made of metal. With each leap, I gained in speed. Over the next five leaps, I bounded through the air faster than a car could travel. The ground passed by me before I neared the pillar of white energy.
+
+Etna was holding Hod up by the neck. As I assumed, Etna was a woman. What I hadn't expected was how stunning she was. Voluptuous and glowing orange with fire for hair, she glanced at me. Her thick lips smiled, suggestive and wild. She dropped Hod, letting him fall down. Where she touched him, his skin was peeled back.
+
+I jumped up, reaching within shouting distance of her. With a passionate voice, she amplified her voice with mana, “You are the other toy trapped here?”
+
+I stayed silent as I landed into a plateau of rock. I intended on using them to my advantage. You see, Etna floated over several rocky planes with giant canyons crawling out between the plateaus. Using them for cover meant the walls of rock made me hard to pin down, and they might dampen her detonations a bit.
+
+Above me, a massive core of heat swelled. Underneath the ground, I discharged my mana. Ripping through the stone, I propelled myself like a landshark. I shot out of one of the plateaus before reaching the falling Hod.
+
+The plateau I left behind disintegrated. A gigantic pool of magma was left behind. Even with all my resistance, I doubted my ability to survive that. What mattered right now was that Hod was alive though.
+
+I slammed into the plateau, dispersing my impact with a widened telekinetic field. A wave of wind blasted Hod, reducing the speed of his fall before I created a gravity well above him. I steadied it, keeping it beside him as he fell. This slowed his descent before I caught him in my arms.
+
+Blood leaked from his mouth and eyes. Hod heaved for breath before I glanced up. Etna grinned with glee at us, clapping her hands,
+
+“Hah, you survived! It’s been a long time since someone has.”
+
+I stretched oppression out towards her, condensing it into an elongated tentacle. I hated her. I wanted her to choke on her own blood. This was a game to her, something she did for fun. Etna raised her hands, the mana welling into her slender hands,
+
+“It was fun. Goodbye.”
+
+Oppression coated her in agony. She howled raising her arms and firing the destructive bolt of energy upwards. Like an apocalypse laser cannon, a behemothic inferno ejected from her hands. The titanic wave of heat shot through the sky, leaving ozone and lightning bursts in its wake.
+
+Before she stabilized, I shot off the plateau towards the dungeon core at the center of all the rock plains. As I did, Oppression no longer coated Etna. With the grin tore right off her face, she grit her teeth and screamed like a banshee,
+
+“No one hurts me but Yawm. Do you hear me?”
+
+She kicked her feet and slammed her palms down, streams of fire sending her forward,
+
+“No one but him!”
+
+I slammed into the ornate pillar that held the dungeon core. I glanced at Etna, and she went right towards me, blindingly bright. I crawled up at the last moment before she collided with the pillar. Slicing straight through it, she left a tunnel of magma behind her. I crawled towards the core, dead set on taking it as she whipped back around towards me.
+
+The air whistled as she gained speed. I glanced at her as she kicked on her feet once more. An explosion radiated along with a shockwave behind her. I threw up Hod, and planted my feet into the stone pillar behind me. Standing sideways, I timed my hook as I twisted on my heels.
+
+At the end of my strike, I slammed it into a telekinetic pad. The bounce back moved me just out of Etna’s way as I struck her. Sending her sideways, she crashed into a giant wall of rock the pillar. I made a gravitational vortex beneath me as I ran up the pillar sideways, my feet keeping traction with spikes.
+
+Hod fell against me as I sprinted up the pillar. Once I reached the top, I peered down at her. A giant blob of lava covered the side of a mountain.The lava splattered in every direction as she detonated the entire side of the plateau. Etna enhanced her scream, amplifying her voice to a ridiculous extent,
+
+“Just stand still and let me kill you.”
+
+I didn’t give her the time of day as I reached the core. I reached my hand into the stream of white, pulsing energy. The cool, icy sensation was a welcome relief from all the heat. Interrupting my reprieve, Etna charged another fiery blaze in her palms. Before I could reach the core, she unleashed destruction.
+
+I was one hundred percent certain that I was dead. Her massive beams of destruction had decimated mountain sides. I couldn’t tank them, at least based on what I knew about my tankiness. Even if I somehow survived, Hod was dead well before the bolt of doom landed on us.
+
+Before it struck, something odd occurred. Instead of obliterating us into a fine mist, the gigantic energy cannon split in two. The white beam of energy radiated by the core was stronger and denser than her own energy beams. That meant her fire cannon divided into two streams of calamity.
+
+After the cannon dissipated, Etna lowered her hands. Several strands of her fire hair fell over her face as she heaved for breath. The vibrant grin warped into a furious grimace as she saw Hod and I still alive. I laughed at her displeasure as I ripped the core out of the stream of white.
+
+The stream withered and waned before disappearing. The squares of blue appeared off in the distance, altering the fabric of the dimension. Etna’s nose and brow scrunched up as she screamed like a baby. She dashed towards me again, fast as sound.I could dodge, but if Etna passed me, Hod would be erased. I couldn’t let it happen. No, I wouldn’t let it happen.
+
+I torqued on my heels and generated as much force as I could. Using a gravity vortex beneath my feet, I weighed myself down and pulled the ground up. I braced my left arm with several struts of molded armor. I held my breath, gritting my teeth as I readed for the impact. Etna just smiled, expecting my disintegration.
+
+I and my armor grinned back as I unveiled my last surprise. During the wait, I overcharged my armor. My runes saturated with the chaotic mana, waiting to release a nasty surprise. As she reached me, my fist reached her. They collided in a monumental explosion, the overcharged mana releasing right on time.
+
+Like a tank bullet firing through my fist at point blank range, my bones trembled. My skin rippled, the metal armor cracking. Blood splat from inside my mouth as the kinetic force turned my insides to mush. My shoulder socket crunched and popped and snapped. My spine cracked. My teeth split. Blood vessels ruptured all throughout my body.
+
+And yet, I stood. I stayed standing after the impact, my arm still attached albeit butchered from the inside. I slid back less than a foot from Hod, blood leaking from the wounds on his neck. Etna had fallen. She tumbled against through the air, scraping the pillar once before smashing into the ground.
+
+A satisfying thud echoed on the ground before a ripple in space time formed beside me. The overseer walked out, glancing around. He opened his status screen, the vast plain condensing into a dungeon as the blue squares rippled past.
+
+He turned towards me and Hod, “Worse for wear this time?”
+
+I heaved a breath, blood leaking from my mouth, “I can’t handle your shit right now. Just let me out of here.”
+
+The overseer laughed a little before a sentinel stepped out of a nearby, violet portal. As the overseer left, I pointed at the edge of the pillar, “One of Yawm’s four followers is right there. If you want, you can kill her.”
+
+The overseer shook his head, “Schema has dictated no direct interference for fear of corruption or death of a sentinel and overseer. I’m sorry Harbinger, but I must follow those rules.” He tapped the side of his head, “Otherwise I will be terminated.”
+
+I frowned, a bitter taste in my mouth. It didn’t make sense why someone so powerful couldn’t just handle the problem right now. The overseer continued as he messed with his status screen,
+
+“Don’t fret. She will be trapped here until another rift keeper is created. That could take quite a while, years even. She should have called for help instead of trying to kill you both off here. Now she will be trapped here for a very, very long time.”
+
+The overseer walked through his portal towards a different world,
+
+“Use this as an opportunity to strike at the other followers before Yawm awakens.”
+
+I sighed, molding my armor to fix my joints and bones back into place. My health regenerated at a rapid pace as the sentinel opened a portal towards the opening of the rift. A part of me wanted to go and see what kind of damage I did to Etna. If I could kill her, then I would get a massive boost in experience and levels.
+
+The problem was Hod and the other followers. It was difficult to tell if they were coming. There wasn’t even a time delay in this dungeon for some reason. Either that or it was too low to even mention. If I hadn’t really hurt Etna and just stunned her, then jumping down was certain death. If I didn’t get Hod some help, he was dead too.
+
+In the end, being greedy for levels was just too risky. I jumped through towards the opening of the rift. The cool breeze splashed against my face like a surge of pleasure. The constant, groggy heat drained me more than I realized. It wasn’t until I stepped back onto Earth that I appreciated the winter.
+
+I didn’t relish the cool for too long. Hod needed help, so I dashed towards a sewer. My new form of travel, Meteoric Rise, would probably turn Hod to mush as well, so that was out. A good old fashioned run was the only practical way of helping him. As I dashed through the sewers, hod’s pumped up form deteriorated.
+
+Without the shadow covering him, the full extent of his wounds revealed themselves. They weren’t pretty. Burns dug down to the bone in some places, with plenty of muscle and pus showing over a large portion of his body. Feathers singed on his sides. He was missing at least a quarter of his skin, if not half of it.
+
+Blood leaked from all his wounds, the damage over time exceeding his ability to regenerate. My own regeneration almost always made those effects irrelevant. For other, less resilient builds, the effects were devastating. Hod’s ragged wheezing proved that more than enough as I shot down the sewer tunnels.
+
+Once I reached the steel legion, I jumped out of the sewer by headbutting the manhole cover. The plate of metal flopped into the air, before I dashed towards the medical center. Torix could be off doing something random. The medical center was far more reliable. With that in mind, I reached the west side of the camp.
+
+Inside a pharmacy, the steel legion set up a tiny hospital. Running past several of the medical cots, I ran up to one of the steel legion’s doctors. He wore power armor painted white with red crosses on them. I remember enchanting their armor with intelligence and healing amplification runes. Those inscriptions crawled down the arms and chest, around the medical signals.
+
+As I placed Hod on one of the cots, the doctor raised a hand, “Wait a second. Get two cots. He’ll break through one.”
+
+I reached out an arm, pulling a cot towards me as I held Hod in one arm. Tall as he was, he was thin as a rod. Being too heavy for a single cot surprised me. He felt so light as I set him down. Moments later, the doctor pulled out a syringe full of black liquid. The doctor shot it into Hod’s neck.
+
+The black energy crawled down his neck, turning Hod’s wheezing into strained breaths. Seeing my concern, the doctor pulled out a clear tube from beneath the cot as he said,
+
+“We’ve tried adrenaline into the Eltari when they’re like this. Doesn’t work. We can process the insects that Yawm uses and just inject it straight into their bloodstreams. We don’t know the long term side effects, but-”
+
+He squeezed a clear gel full of red bubbles onto the wounds that bonded to him. The doctor looked up at me, “Those side effects would be hard pressed to beat out dying.”
+
+I grimaced, “Yeah. Dying’s a pretty nasty alternative. Having all the Eltari turn into zombies would be worse.”
+
+The gel stopped the bleeding. As the red bubbles touched his skin, they dispersed into his muscles. Wherever they dispersed, the pale muscle would turn from pink to red. The doctor finished putting the gel onto the Eltari before pulling out a few bandages. These weren’t cloth bandages though. They were like transparent food wrap.
+
+The doctor wrapped the plastic stuff over the gel, locking it against the skin. He only did this to places without any skin. Once he finished that, he stepped away from the bed. Grabbing a saline packet, he hooked up a needle towards Hod’s arm. Once the saline was set, the doctor paced back behind the pharmacy counter and pulled out a blue vial.
+
+He attached it to the saline packet, coloring it blue. Once he finished, he sat back into a chair, his sigh muffled through his intercom. He gave me a short salute,
+
+“I’m going to be able to tell my kids one day that I saved a friend of the Harbinger. What a day.”
+
+I turned around, no one else in the medbay. Surprised at how empty it was, I glanced back at the doctor, “Thanks, but I’m wondering...why isn’t anyone here?”
+
+The doctor looked around, “Oh yeah, I guess that is weird isn’t it? It’s crazy how crazy stuff can be, but then I won’t even notice until someone points it out. Makes me feel out of place.”
+
+I tapped the edge of the cot, “What’s that crazy stuff?”
+
+The doctor hit the side of his helmet, “Oh wow, sorry about that. I just never thought that I’d be seeing the Harbinger in person. Still kind of nervous. Anywho, Torix sent all the other doctors out with the active teams. Some of the followers have been coming really close to camp. They’ve almost found us a few times.”
+
+The gel on Hod’s wounds turned into muscle, veins, and whatever else he needed. I looked at Hod as the chatty doctor continued,
+
+“So the big man himself divided us up. The vast majority of the entire camp is attacking the quarantine or setting up checkpoints. We’re going out on a full assault.”
+
+Hod’s breathing stabilized. I wondered if I could use some cybernetic enhancements in the future. It might be another way of giving myself a boost. Making a mental note of it, I turned to the doctor,
+
+“How are you being supplied?”
+
+The doctor tapped the edge of his helmet, the glass plate over his eyes popping up. Parts of the helmet folded back, uncovering an old, smiling face, “By eldritch that the necromancer controls. You’ve seen the beetle colony I’m guessing?”
+
+“Yeah.”
+
+He leaned towards me, keeping both his hands up,
+
+“They haven’t only been making tunnels. Torix has been having the beetles expand into several places outside. They’ve been clearing out forests and farms, gathering the legion some supplies. Now they’re carting those supplies for us as we move forward. No one’s going hungry. We’re well fed and well rested.”
+
+The doctor shook his head, “All this time I thought he was sitting around while we did all the work.”
+
+The doctor leaned back into his chair, a cheeky grin on his face, “Boy was I wrong.”
+
+I frowned, “So was I. Thanks for letting me know all this. It’s good to get an idea of how the troops see the situation.”
+
+The doctor stood, reaching out a hand, “It’s good to see the Harbinger has a soul and can even bring people to a doctor.”
+
+I grabbed his hand, giving it a firm shake as I stood. The doctor met my eye, “All we need from you is to kill whoever Yawm is. We’ll handle the mess you leave behind. It’s what we do.”
+
+I nodded back, “That’s all I need.”
+
+I walked out of the hospital, leaving Hod in his care. I didn’t really know how long Hod was going to be out, so I sent a message to Torix. It explained what had happened and how the follower was trapped in the rift. I even included a little bit of my own thoughts at the end about what I thought we should do.
+
+Considering how many troops Torix was juggling, doing a bit of thinking for him was a favor. As I waited for a reply on what to do next, I ran towards the outer edge of the forest. My plan was to work on developing my next mythical skill. This one wouldn’t be as technical as Volatile Carnage either.
+
+As I reached an open field in the forest, a message appeared in my inbox,
+
+Torix Worm, of Darkhill(9:17 A.M. 11/28/00) – While I doubt Etna will remain within that rift forever, disabling her for any length of time is a great boon for us. Of all the followers, she was creating the greatest disruption in our current campaign.
+
+For now, let Hod rest up until he’s back on his feet. Three days should give him the appropriate recoup, both on a mental and physical level. Once Hod’s fine again, find and destroy the last high danger rift. That will be the last dungeon that’s about to burst out. With those out of the way, we can focus on culling Yawm’s forces.
+
+You exceeded my expectations as well. Capturing Etna in the rift saved hundreds of the legion. If we are fortunate, she might even go insane on that desolate world. Either that, or maybe even starve.
+
+We can only pray for such good fortune.
+
+I closed the message, sighing out with relief. Having to travel back would have been a waste of time that I didn’t have. Not wasting anymore of that time, I stepped into the center of the forest clearing. The light green grass opened up a plain about the size of four city blocks. At the edges of the plain, a line of trees created a clear, clean outline of the area.
+
+It was perfect playground for what I had planned. I pulled out my obelisk before writing a blueprint for my next mythical skill. It would be a fusion of Phaser, Meteoric Rise, and Earth Glider. I already came close to using the skills together during my chase and fight with Etna. Polishing my usage of the skills might result in them coming together.
+
+With that in mind, I charged my runes. The mana shot through my system like adrenaline, a rush of energy coming with it. Once the runes reached their cap for holding the energy, I urged the mana into them. As the runes saturated, the air around me hummed. I ran up and unleashed the force into a kinetic field, making sure to disperse the impact.
+
+The ground rippled as I shot into the air. Once high up, I morphed my armor and prepared for my descent. By the time Hod woke up, my goal was to be faster than him flying. Once I was, I’d turn myself into a three ton bullet. I was sure smashing into someone at that speed would kill most things, monster or not.
+
+Once I got this next mythical skill, it would be time for making a legendary one. As I reached the peak of my jump in the air, I turned towards Springfield. The suburbia bled into the cityscape and yellow forests. The quarantine zone wasn’t a straight circle anymore. In several places, the forcefield stopping the insects had caved into the zone. We were winning.
+
+At the center of it all was the gray haze covering the world tree. Within that gray cloud, a green radiance peaked out from within. At timed increments, pulses of the tree sent out earthquakes. They came with greater and greater frequency. Now they were an hourly occurrence, something no one even stopped and wondered at. They were the norm now, and the reason for them was clear.
+
+He was coming.

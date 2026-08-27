@@ -1,0 +1,183 @@
+---
+id: c1989885-81ad-5bd6-a703-6def83b2f892
+page-type-slug: story-chapter-royal-road
+title: "Chapter 612 - Clarification"
+slug: 0612-chapter-612-clarification
+partOf: mythrans-master-of-all-continued-completed
+position: 612
+ownLength: 2672
+unit: words
+publishedAt: 2018-06-18
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/225485/chapter-612-clarification"
+royalRoadId: "225485"
+---
+
+“No, Ren.” Lisa said after gathering her thoughts. “You are not the villain.”
+
+“I accepted that responsibility when I made the decision to change things.” Ren whispered. “I had a choice to make, and there is not going to be a lot of people that are going to agree with me on this.”
+
+“Ren, you... if you tell them...” Lisa sighed and stopped talking.
+
+“It's okay. I don't have to tell them myself.” Ren said and pointed, and it was a message from a system administrator that stated they had received a message from the head programmer from the game and they knew who was at fault.
+
+“Oh, no.” Lisa said.
+
+The hate shifted from the Sea Dweller update to Ren almost immediately, and then hundreds of messages popped up in his inbox in mere moments.
+
+“Don't read them.” Elise said, and Ren looked at her.
+
+“I'm sorry, I didn't mean to wake you up.” Ren said, apologetically.
+
+“I'm going to need lots of coffee in the morning, but other than that, I should be fine.” Elise said and yawned, then she reached out and clicked the logout icon.
+
+“I suppose I should log out.” Ren said, and she chuckled as she closed the laptop. Barbara slid the rollaway table over to the wall and came back to the bed.
+
+“I'll have Barbi try to fix this in the morning.” Elise said. “Max had no right to blame you.”
+
+“But, Elise... I did do it.” Ren said.
+
+“No, what you did was show them the inherent flaw in their design... again... and it's not your fault that it caused havoc.”
+
+“Even if what I did only led to the shutdown, then I'm still responsible.” Ren said.
+
+“Lisa's right, Ren.” Barbara said. “You don't have to admit that.”
+
+Ren chuckled. “I think admitting guilt doesn't really matter in the court of public opinion.”
+
+Elise looked at Barbara, and they had to reluctantly agree. As long as just the implication was there, it didn't matter if you were guilty or not.
+
+“Let's just get to sleep.” Elise said in response and yawned again.
+
+“Good idea.” Ren said and waited for Elise to lay down, then he snuggled up to her and rested his head on her shoulder, then buried his face in the side of her breast as he draped an arm across her abdomen. Lisa laid down beside Ren and turned to try and cuddle with him, but he wasn't in a good position for that. She sighed and tried to move away, then she felt a hand on the top of her head.
+
+“There's plenty of room on my other side.” Elise said and motioned with her head.
+
+“Are you sure?” Lisa asked.
+
+“I'm a little lopsided with only one breast support in place.” Elise said.
+
+Ren chuckled and it made her breast jiggle, which made her chuckle, too. Lisa crawled over the bed and laid down on Elise's other side, and saw what Ren had done with his head. She duplicated it and rested her head on Elise's shoulder and pushed her face into her breast.
+
+“This feels kind of weird.” Lisa said, but her voice was muffled. Elise put her arms around Ren and Lisa and hugged them, and all three of them sighed.
+
+“Goodnight.” Barbara said and left the room.
+
+*
+
+“Well, I'm glad it's just a weekday.” Jennifer, Billy's online ex-girlfriend said as she pulled off her VR headset. “We didn't have a lot of business anyway.” She got up from her bed and stretched, then went to the bathroom. She took a shower and came back out wearing a very comfortable set of pyjamas that covered her completely, then she crawled back onto the bed.
+
+Her name wasn't actually Jennifer, it was Alice; and she was the daughter of a very prominent religious pastor. Her family was rich by normal standards, and they had lived in a house slightly bigger than a family of three would have needed. Her room was covered in religious symbols, iconography, and bible verses. She was the epitome of conservatism and shyness, kept to herself most of the time, and rarely ever spoke out of turn unless spoken to.
+
+Alice enjoyed her life in the real world and it fit her personality perfectly. She wasn't hiding or faking anything in the real world. That was who she was, ever since she was a little girl. As she grew up, however... just like all rebellious children... she knew there was more to life than what her family had exposed her to. She watched and listened to the parishioners of her father's church, and over the years, she learned all about the hypocrisy they lived.
+
+Alice didn't want to live that way. She didn't want to present one face to her family and the church, and then show a different face to everyone else. She was who she was and that was all... until she found out about virtual technology. A couple of the parishioner's children had mentioned it in passing, and she went to the library to research it.
+
+It took years for the technology to advance to the point that it became fully immersible, and by that time, Alice had been living on her own. Her parents hadn't been too happy about that, but she worked a normal job and was an active member in the church. She lived up to her responsibilities without question or complaint, and that was how things remained.
+
+Then F.L.O.W., the Fantasy Life Online World, was released. Her strong and capable mind was enraptured immediately, and she knew that she needed to devote some serious time to exploring this new world. The first time she logged into the game was the first time that she felt free. She was unburdened by the life she led, and wasn't hindered by thoughts of propriety and decorum.
+
+Alice chose a new name for her new self in the game, Jennifer, and then chose the craftsman class. Next, she picked Blacksmith as her profession and the game formed around her. The wonder of a world to just have fun in, was intoxicating for her. She lost herself in it for a long time; but, only at night. The days were for Alice and she lived her life there, and the nights were for Jennifer and she lived her life there.
+
+Alice never saw it as hypocrisy, since the two worlds never met, except during confessional. She always asked for forgiveness, even for virtual sins, since they were of the mind and were just as damning to her beliefs as if she did them for real. She never felt bad about doing things in the game, since she knew that God loved her for who she was, and would forgive her for anything her mortal soul would do.
+
+Alice pulled the blanket up to her neck and made herself comfortable. She lived an entirely different life at night, and it was rare for her to try and sleep when she knew she should be enjoying herself. She turned onto her side and hugged herself to try and get comfortable, and her arms grazed the unpierced tips of her breasts. Not once has she ever had the desire to alter her body in real life to match her game body.
+
+She sighed loudly and tried to relax, but she just couldn't make her mind shut off. All she could think about was that the end of the week was coming up, and Ren's ban from the Pleasure Palace would be over. She smiled as she thought about the fun they had the last time she had seen him, and the many presents she got from 'Santa'.
+
+My friends would just die if they knew! Alice thought as one of her hands pinched the tip of her breast and the other hand slid down between her legs. She was already worked up from being at the Pleasure Palace, so she imagined that it was Ren that touched her. It didn't take long for her to finish, and she moaned contentedly and relaxed as the pleasure endorphins flooded her brain.
+
+*
+
+The messages on the forum became heated and started to boil over onto the main website. Some called for a complete recall of the Water Works update, and some called for Ren's punishment for causing the game to fail. The system administrators tried halfheartedly to keep the peace; but, they were also divided on the subjects and didn't really want to stop people from expressing their opinions.
+
+The death threats they squashed immediately and reported, then warned the offenders for taking things too far. For repeat offenders, the sysadmins suspended the user's accounts for 6 hours. There was a bit of an uproar about that until everyone was told it was only a forum suspension and not a game suspension. The message exchanges remained heated after that; but, they were also more civil.
+
+*
+
+Gloria drove around with no real destination in mind, since she decided that her anger at Ren wasn't really justified. She had debated going to visit him so late at night, and had assumed that even if he was awake, he wasn't going to want to see her if all she wanted to do was argue. Especially since her main argument was going to be for her to take the job that neither he nor Stella wanted her to take.
+
+Gloria drove around randomly, or so she thought, and she eventually ended up at the front gate to Emerald Estates, where Ren lived. She was let in with a minimum of fuss and drove up the street to his house. She saw the cars in his driveway and wondered who was there, then she came to a stop at the end of his driveway.
+
+One of the security guys walked over to the car to see her face, and he smiled as he identified her. “Welcome back, Ms. Rayford.” He said. “Do you need help with carrying anything?”
+
+Gloria didn't say anything and just sat there and stared at the guard. I didn't think I was here long enough for the security guards to just accept me like this. She thought. He offered to get her door for her, and she sighed as she got out of her car and went to the front door of the house.
+
+*
+
+It took Max a long time to calm down, long enough for him to regret his decision to message the forums and tell them information no one outside of the company should have. He thought about trying to undo his mistake, but the information was out there now. With just that available, he saw the backlash Ren was receiving for causing all those people to log out.
+
+His action had caused a customer to be vilified, and he didn't feel bad about it; but, he should have. Ren's actions only caused the flaw in the update's design to be brought forth. Even just doing that felt like an affront to Max, who thought Ren should be called out for causing everyone problems, not just for the tech department.
+
+Max checked the data recovery program and saw it would take another 4 hours to finish, so he turned off his computer monitor and went back to bed.
+
+*
+
+Barbara had come down the stairs at the perfect time to see the headlights lighting up the downstairs of the house and she went to the front door. When she looked out to see what was going on, she saw Gloria get out of her car with the help of the security guard. Barbara waited for her to get almost to the door, and she opened it with a flourish.
+
+“Shh! Everyone's asleep!” Barbara whispered and took her hand to stop her from either knocking or ringing the doorbell. She brought Gloria inside, nodded at the security guard, and shut the door. “I was just grabbing a bite to eat. Are you hungry?”
+
+Gloria's stomach chose that moment to rumble, and Barbara chuckled.
+
+“Come with me.” Barbara said and brought Gloria through the house to the kitchen, and proceeded to warm up a good meal for the both of them. “So...” She said after putting the food in the oven. “I assume you're here to talk to Ren.”
+
+Gloria sighed. “I thought I was.” She said, and Barbara looked at her with a smile. “Now, though...”
+
+“Did my pleasant demeanor throw off your rant?” Barbara asked.
+
+Gloria shook her head. “No, it... it was what happened on the way here.”
+
+Barbara listened to the story Gloria had to tell, and a smile grew as Gloria talked. She turned away for a moment and retrieved the food out of the oven and two plates from the cupboard, then split the food between them. She added utensils and napkins, then sat down at the table as Gloria finished her story with arriving at the house.
+
+“That's a wonderful story!” Barbara said. “I'm glad that not everyone is mad at Ren for crashing the game.”
+
+Gloria shook her head. “I think he would be angry if he knew Ren could do that.”
+
+Barbara laughed. “You underestimate the power of adoration.”
+
+“What do you mean?”
+
+“Oh, I don't doubt that a lot of people are angry at Ren for what he caused; but, you do realize what he did shouldn't have been possible, right?”
+
+“But...”
+
+“Both he and Elise warned the company that something like this could happen, and when they said they wouldn't undo what they did to Ren's friends in the game, well...”
+
+“Undo what?” Gloria asked.
+
+Barbara pointed to her plate. “Eat, and I'll fill you in on what's been going on since you still seem to have trouble returning people's calls.”
+
+Gloria's face flushed red from embarrassment and she started to eat, and Barbara told her all about how the Sea Dweller update had affected the maids, and how that had prompted Ren's latest actions. She ate as well, and by the time the two of them had finished the meal, Gloria was up to speed.
+
+“I can't believe... did they really refuse to...” Gloria shook her head. “Being ordered to not interfere with his gameplay is really messing Ren up, isn't it?”
+
+“Oh, yes.” Barbara said. “The poor thing has been struggling with having the weight of the entire game world on his shoulders.”
+
+“But... he shouldn't be...”
+
+“Like he said, he's chosen to bear the responsibility, since the programmers have chosen not to.”
+
+“He... he's going to be the villain.” Gloria said, and Barbara looked at her with wide eyes.
+
+“How do you know that?”
+
+“It's the only logical solution.” Gloria said. “With all the things he needs to do... he... he has to be the focus.” She stood up and put her fork down. “I need to see him.”
+
+“He's asleep right now, so you'll have to wait.”
+
+“How long?” Gloria asked.
+
+“Maybe 4 hours.” Barbara said and took their plates and put them in the sink. “Elise needs to talk to Barbi about trying to get ahead of this when Barbi arrives here for breakfast.”
+
+“She's not staying here?” Gloria asked, and Barbara chuckled.
+
+“Not everyone he meets lives here.” Barbara said. “You are proof of that, aren't you?”
+
+Gloria opened her mouth to respond, then sighed. “I would be living here if I wasn't so confrontational, wouldn't I?”
+
+“I have no idea.” Barbara said and put a hand on her arm. “You haven't been around since he asked you to take your relationship with him more seriously.”
+
+Gloria sighed again. “I just keep messing up, don't I?”
+
+“Yes, but I don't know if that's your own fault or the fault of everything that's going on.” Barbara said and pulled her from the kitchen. “Let's go upstairs and watch television while we wait for everyone to get up.”
+
+“O-okay.” Gloria said and let herself be dragged to the elevator and up to the second floor and into the theatre room.

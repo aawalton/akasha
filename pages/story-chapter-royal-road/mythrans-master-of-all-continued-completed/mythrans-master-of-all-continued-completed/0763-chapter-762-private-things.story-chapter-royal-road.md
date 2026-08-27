@@ -1,0 +1,269 @@
+---
+id: 9d7f56be-fce7-530e-a573-c2b2938756f4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 762 - Private Things"
+slug: 0763-chapter-762-private-things
+partOf: mythrans-master-of-all-continued-completed
+position: 763
+ownLength: 2993
+unit: words
+publishedAt: 2018-11-15
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/306941/chapter-762-private-things"
+royalRoadId: "306941"
+---
+
+“Oh, my god.” Yuwen whispered as the sight before her came to an end. In both senses of the word. She had fought very hard to not change as Ren and Tiyaphi had pleased each other orally and finished each other off, and she had played with herself and finished as well.
+
+“Ren, that...” Tiyaphi panted as she rolled off of him and turned around to lay down beside him. “That was...”
+
+“You didn't manage to groom my legs.” Ren joked, and she let out a bark of laughter that sounded like a cat's meow.
+
+“A... allow me, My King.” Dilseffa said, and she felt everyone's surprise as she got up from the couch. She climbed onto the bed and started licking his feet, then his ankles, and moved up to his calves. No one spoke as she licked him all the way up to his thighs. She stopped there and sat up to look at him.
+
+“Thank you.” Ren said. “Thank you very much.”
+
+Dilseffa's face flushed red at his sincerity, and she gave him a partial bow.
+
+“Both of you struggled not to change.” Ren said, and Dilseffa and Yuwen nodded. “You didn't have to.”
+
+“We weren't sharing in the moment, so it wasn't our place to...” Dilseffa started to say.
+
+“Nonsense.” Ren said. “Are you my concubines or not?”
+
+“We are.” Tiyaphi, Yuwen and Dilseffa said as one.
+
+“Then while things are happening, if you needed my permission for it, you can change and enjoy yourselves if you choose.” Ren glanced at Yuwen. “Although, someone enjoyed themselves anyway.”
+
+Yuwen's face went completely red as she blushed. “My King...”
+
+“There's nothing wrong with that.” Ren said, and looked at Dilseffa. “You've both called me king just now. Are you trying to distance yourselves?”
+
+“It was a ritual.” Dilseffa said. “Usually, you're supposed to...”
+
+“I said earlier that no titles are needed; but, I suppose I should say that no titles are needed between us while in private.” Ren said. “When alone, and by alone I mean situations like this where we are around our own people, you are to call me Ren and I will call you by your names.” He felt their doubt, and smiled. “Would you prefer I call you Mistress or Countess?”
+
+“What? No.” Tiyaphi said right away. “To hear my name cross your lips is a song that I can listen to forever.” She said. “When out in public, you are right that we should use titles.”
+
+“My Ki... um... my... oh, I mean...” Dilseffa took a breath and let it out. “Ren.”
+
+“Yes, Dilseffa?”
+
+“Your manhood is still prominent.”
+
+“Yes, it is.”
+
+“Why?”
+
+“That's what it does when it gets excited.” Ren said.
+
+“But...”
+
+“Are you offering to try and calm it down?” Ren asked, and her face went red.
+
+“My K... Ren, I...”
+
+Ren sat up and held a hand out to her. Dilseffa looked at it for only a moment, then took it. Ren laid back down and pulled her up to his chest and hugged her as she rested her head on it.
+
+“Do you remember what I said before?” Ren asked as he stroked her hair, and she nodded. “I can go for hours and hours and never be sated.”
+
+A shock went through Tiyaphi and Yuwen, and a thrill went through Dilseffa.
+
+“L-like m-me.” Dilseffa whispered.
+
+“I didn't think I would meet someone like you here.” Ren said. “I have someone similar to you when I go on Adventurer's business; but, I'm seriously hurt there and I can't do much for her except let her take care of me like Tiyaphi just did.”
+
+Dilseffa lifted her head from his chest and looked at him. “What are you saying?”
+
+“I want to take care of you, just like I get taken care of.” Ren said. “I know break-ups are hard, and stressful, and hurt a lot more than people let on.” He said, and let out a glimpse of what he felt about both Lucy and Gloria. Dilseffa gasped and put her hand on his heart, right above the emblem.
+
+“Ren, you... who would be foolish enough...”
+
+“You see me in a much better light than most people do.” Ren said and felt their slight confusion. “It means you have a higher opinion of me starting off than other people.”
+
+“Yes, we accept you for who you present yourself to be, then if you do something to lose Respect, our opinion drops appropriately.” Yuwen said.
+
+“So, when you met me...”
+
+“You already had 26,000 Respect.”
+
+“I gained that from the chancellor of the Giants when he confirmed my Dreaded Foe title.”
+
+Tiyaphi gasped and trembled. “Wait... Giants exist?” She asked, then her eyes widened. “You gained... Respect... from the leader of the GIANTS?”
+
+“It's a great story!” Yuwen exclaimed. “Ren told us all about it on the way here.”
+
+“I'd like to hear it, too.”
+
+“I would oblige...” Ren started to say, when Teepo interrupted him.
+
+“Just change the settings on Vasalor's statue.” Teepo suggested. “You can give them time to adjust to being with you like this, before you have to leave.”
+
+That's a good idea. Ren thought to his friend and changed the settings so that he could spend several days with them and only have a second pass. Thanks, Teepo.
+
+“Anytime.”
+
+“All right, I'll tell it again, if it won't bore Yuwen and Dilseffa.” Ren said.
+
+“I won't be bored, Ren.” Yuwen said from the couch. “I do feel left out, though.”
+
+Ren chuckled. “I only have two arms, so if you want to get in here to cuddle...”
+
+“It would be your pleasure.” Yuwen said and walked over to the foot of the bed and climbed on, then slowly moved up it and stopped above his crotch. She smiled at him and stuck out her tongue, to show him that it was normal, and he nodded slightly. She bent down and gave him a single long lick from the base to the tip and felt him throb for her. She purred as she rubbed her cheek on it for a moment, then she laid down between his legs and rested her head on his thigh.
+
+“All settled?” Ren asked, and they nodded. He glanced at Artemis, and she had stayed out of the way the whole time. Thank you. He thought to her and gave her a ton of appreciation.
+
+She blew him a kiss and turned onto her side to listen as well.
+
+“Okay. It all started when...” Ren began the story of how the situation with the Giants had come to be, and he felt Yuwen and Dilseffa were just as engrossed in the story as they had been the first time they had heard it. Now that he had all the time in the world, he added in the little details he had skimmed over the first time, so that it wasn't a complete repeat performance for them, and they enjoyed it that much more.
+
+Tiyaphi sighed happily when he finished the story. “Ren, you are amazing.” She said and sat up. “We've used up so much time and we haven't even had breakfast yet.”
+
+“Oh, right! Breakfast.” Ren said. “I forgot that your Sustenance enchantments won't be active until tomorrow.” He said. “I'll make you...”
+
+“No, I will handle the food preparation.” Yuwen said. “I run this household.”
+
+Ren chuckled. “The kitchen is fully stocked, and the meat and vegetables are right in there.” He said and pointed to the closed off center section of the room. “Help yourself.”
+
+“Give me half an hour.” Yuwen said and started to get up, then saw Ren was still ready. “R-Ren...”
+
+“Yes?”
+
+“N-nothing.” Yuwen said and got up, went into the cold storage room for a minute, then came back out dressed in a casual dress and went down the stairs.
+
+“With us eating so late, I don't think we will be ready before the caravan packs up to leave.”
+
+“Oh, we've got a few days before they leave.” Ren said, and Tiyaphi and Dilseffa caught their breath.
+
+“Wh-what did you say?” Dilseffa asked.
+
+“How can we have a few days? It's morning already!” Tiyaphi exclaimed.
+
+Ren held in his chuckle and explained about being able to make as much time as he wanted, but it only worked within a small area that he designates.
+
+“Oh, my god.” Tiyaphi whispered. “You could heal the sick in mere moments.”
+
+“No, it still takes just as long for you and for the patient, but no one else would detect the time passing.”
+
+“But, still...”
+
+“You... you're giving us this time.” Dilseffa said, and he felt a touch of reverence in her voice. “Even though you need to go and visit your maids and the mothers of your children, you're giving us the first time of your day.”
+
+“It seemed like the right thing to do, thanks to Teepo reminding me.” Ren said, and the two women looked up at the ceiling.
+
+“Thank you, Teepo.” Both women said.
+
+“You're welcome.” Teepo said, and they felt his appreciation.
+
+“What do we do now?” Tiyaphi asked.
+
+“Well, Yuwen said she needed half an hour, so we can just cuddle if you want.” Ren said, then touched Dilseffa's cheek. “I'd like to try and take care of you, though.”
+
+“You would... even though I... Ren, I'm still...”
+
+“You're going to love him for a long time yet.” Ren said, and she looked at him with wide eyes. “Things like that don't just turn off.”
+
+“But... we...”
+
+“Love takes time to grow, and it also takes time to fade.” Ren said. “It never goes away, but it won't be first in your thoughts after a while.”
+
+Dilseffa took several breaths and closed her eyes. “Ren, I... why would he hurt me like that? Why would anyone want to hurt anyone else?”
+
+“If I could answer that question, I would be a horrible person, because I would understand their reasons... and I don't.” Ren said. “I don't ever want to understand the reasons people do things like that.”
+
+“Ren...”
+
+“All I can say is that it's wrong, and no one should ever go through things like that.” Ren stroked her cheek again and she opened her eyes to stare at him. “I can't make you forget about him, not this soon; but, I can ease your pain if you want me to.”
+
+“The... the pain helps me remember.” Dilseffa said. “Both the good and the bad.”
+
+“I didn't say I'd remove it, just ease it.” Ren smiled. “Can I try?”
+
+“I...” Dilseffa debated it for only a few moments, then nodded slightly.
+
+“Then lay on your back, and let me see this wonderful body you've been hiding.”
+
+“Ren, I... I wasn't...”
+
+“Then what?”
+
+“I'm embarrassed.” Dilseffa admitted. “My chest isn't as big as Yuwen's, and my butt isn't near as nice and round as Tiyaphi's.”
+
+Ren chuckled, and he felt her embarrassment grow. “No, don't misunderstand my laugh.” He said. “I had a long conversation with a non-participating Adventurer about bad body images before coming back here.” He said. “Dilseffa. You are you. No one else.”
+
+“R-Ren...”
+
+“Don't compare yourself unfairly to those around you.” Ren said. “It won't give you peace of mind or help you in any way.”
+
+“But...”
+
+“I can command you to not compare yourself, if you want.”
+
+“What?” Dilseffa said in surprise. “N-no. No, I... I will take your advice and... I will try.”
+
+Ren beamed a smile at her and flooded her with happiness, and she gasped. “That's all anyone can ask of you, is to try.” He said and eased her back onto the bed and he felt her try and relax. “You can say no, and I won't do anything except cuddle you.”
+
+Dilseffa looked at Tiyaphi's big smile and felt her emotions. “Ren, I...” She remembered Yuwen's euphoric expression in the carriage when Ren pleased her. She didn't say anything else and stored her nightgown.
+
+“Oh, my.” Ren said, and she felt his wonder and his desire.
+
+“R-Ren, what...”
+
+“I really want to touch you.” Ren said, and she nodded slightly. He moved to sit up and then straddled her waist, and she looked up at him with wide eyes as he cupped her small and very perky breasts. “Look at them.” He said in wonder and flicked his thumbs over the tips to make them pop out, and they went out about an inch. “Good god.” He said and leaned down, then stopped just before kissing one. He looked at her face and it was bright red, then she nodded almost imperceptibly. “Thank you.” He said and started to suckle.
+
+Dilseffa started to grind her teeth lightly and wiggled a little as Ren did one breast, then the other one. She couldn't hold her transformation back and her body flowed from human into an anthropomorphic bunny. Since her hair was brown, Ren hadn't been surprised that her fur popped out and it was brown also, although there were more subtle shades of it than there were in the hair on her head.
+
+What did surprise him was that the tuft of fur stopped just above her chest so that her breasts, the rest of her chest and abdomen, and her special place were completely bare of fur and were actually framed by it. It made it even more of a sight, because those parts were surrounded by fur and never touched them.
+
+“I couldn't hold it.” Dilseffa said as her embarrassment came back in full force and her long bunny ears were folded back and in a distinct submissive pose.
+
+“I didn't ask you to.” Ren said and used both hands to rub her puffy cheeks. She closed her eyes and he felt her desire rise and it competed with her embarrassment.
+
+“I... I suppose you want to touch my ears, too.” Dilseffa asked sheepishly, and he felt her resignation.
+
+“I'd rather finish what I started, if that's okay.” Ren said, and she opened her eyes and looked at him.
+
+“You... you really...”
+
+“I want to ease your pain, not cause more.” Ren said and tenderly stroked the spot between her eyes and her forehead. She ground her teeth some more, and he leaned back and bent over to give each breast a quick kiss, then kissed and licked his way down to her belly. She squirmed and writhed the whole time; but, she didn't tell him to stop or to slow down. He moved down and eased her legs apart, and admired the sight before him.
+
+“R-Ren...” Dilseffa felt his admiration and he felt that she couldn't understand why he admired her body.
+
+“Every woman is different.” Ren said and bent in close. “They each have their own personalities. Their own problems. Their own ideas of how things should be.” He said and gave her special place a kiss. She let out a shrill cry and he felt how happy she was that he would do that to her, even changed as she was, so he activated his Emotion Siphon ability and licked her on the inside as well.
+
+Dilseffa was completely unprepared for that sensation. “AHH!!” She yelled and finished.
+
+“Liked that, did you?” Ren asked.
+
+“Y-Y-YES!” Dilseffa hollered.
+
+Ren started to please her and used his Emotion Siphon ability to dig through her emotions to find the parts that were making her sad. Her regret and all the related emotions that came with a bad breakup were easily found and he took the majority of them from her and used his link to Lylyth, the Queen of the Dark Elves, to give them to her.
+
+Dilseffa felt Ren taking it from her and she warred with her need to keep the pain with her need to be rid of it. She relaxed when Ren didn't take it all and left her a good portion of it. Then he started to get serious about pleasing her, and Dilseffa was perfectly okay with that and let her feelings roam free.
+
+About 20 minutes later, Yuwen came up the stairs with breakfast and saw Ren between Dilseffa's legs, and she wasn't surprised. She had felt their emotions from down in the kitchen, even though it was far outside her personal Aura.
+
+“Can you take a break for breakfast?” Yuwen asked.
+
+“Muh mmm hummum.” Ren mumbled into Dilseffa's special place, which made her gasp and she finished again. Ren stopped pleasing her and wiped her off with a cloth as he sat up. “Okay, maybe not in a minute.”
+
+Tiyaphi and Artemis laughed and Teepo chittered in laughter.
+
+Ren took out a table big enough for everyone to sit at and added the right numbers of chairs, and they all sat down to eat. “Hey, this is pretty good.” He said as he tasted it.
+
+“I bet you're glad for that, considering you had no idea how good I would be with running a household.” Yuwen said, and he reached a hand out and took hers.
+
+“It felt right.” Ren said. “When I was near you, I knew that was the best job for you.”
+
+“Did you, now.” Yuwen said. “Can I ask how?”
+
+“My Aura Sense skill.” Ren said. “You've got potential there and I gave you an appropriate job for it.”
+
+Yuwen barked a laugh. “You're talking about something I don't even have yet.” She said, then she stopped. “Wait, you mean I have that Aura already?”
+
+“When we unlock it, yes.” Ren said.
+
+“Wait... you said 'when' and not 'if'.” Tiyaphi said. “How can you be sure she can sync up with you enough to do it?”
+
+Ren concentrated on their bonds and dropped a single feeling of family into them, and the three of them caught their breath and put a hand over their hearts as their dire wolf emblems glowed slightly.
+
+“You are going to be the best there is at what you do.” Ren said confidently, and they believed him.

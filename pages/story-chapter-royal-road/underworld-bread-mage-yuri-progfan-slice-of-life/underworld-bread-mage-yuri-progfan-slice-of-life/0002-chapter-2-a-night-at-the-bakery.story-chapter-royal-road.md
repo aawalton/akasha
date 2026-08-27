@@ -1,0 +1,95 @@
+---
+id: a721acf9-e683-5196-ad0c-f51629679111
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2: A Night at the Bakery"
+slug: 0002-chapter-2-a-night-at-the-bakery
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 2
+ownLength: 1733
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-progfan-slice-of-life/chapter/3731534/chapter-2-a-night-at-the-bakery"
+royalRoadId: "3731534"
+---
+
+Wrapping herself in a towel, a wave of chilly breeze brushed her shoulders as Marina dragged her slumped figure out of the bathroom, eyes struggling to stay open. The room was frugal: a bed, dressers, desks, and some other essential furniture. Without much thought, she picked a dark brown dresser in the corner of the wall, making her way over before opening the drawers. Inside were clothes, plain and ordinary with a variety of colors that didn't quite match her taste; looking at it, she sighed.
+
+Better than nothing…
+
+Without much to choose from, she picked out the black shirt from the top drawer and a pair of black pants from the bottom.
+
+The clothes were just the right size. They fit her better than most of her own clothes back home, something she found oddly strange.
+
+She walked to the window next to the bed, staring into the dark clouds floating above as the drops of blood continued to pour. Letting out a low sigh, Marina shut the blinds, submerging the room in a warm ambiance of the ceiling light.
+
+Unfolding the blanket lying atop the footboard, she hopped onto the bed. But as she reached for the nightstand on her right, a realization struck her. Instead, she grabbed the hand mirror.
+
+The strange face reflected in the mirror once more. Except this time, Marina decided to take a closer look. Her skin had cleared up completely; all the scarring and bumps that needed to be covered in the past through makeup had disappeared. The shape of her face was also skinnier, with her usually chapped lips repaired from years of terrible habits. It all seemed way too good only because she hadn't treated herself better in years.
+
+Setting the mirror back on the nightstand, she got up to turn off the light. At the flick of a switch, the room sank into a dark grayness, and only a sliver of light peeked from the blind gaps. Marina lay back on the bed before covering herself with the soft blanket, turning on her left, only to find the absence of a red LED clock. Quickly, anxiety consumed her mind, only to be chased away by a headache and wave of exhaustion. Her body begged for a night’s rest, and so did she.
+
+*****
+
+Marina woke up the next day drenched in sweat. She quickly tossed the blanket aside before sitting up. Not having the air conditioning on overnight in such a hellish place was her first blunder. Activating the crystal device, the System appeared in front of her.
+
+It was already 2 pm, displayed in the top-right corner of the screen.
+
+Taking a small leap off the bed before heading to the bedroom, she hoped to cool herself off and prepare for the rest of the day. The amenities provided alongside the bakery were very thoughtful, but of course not unlimited. Filling her cup with cold water, she squeezed a nub of blue-colored toothpaste onto her brush. It resembled the brands on Earth and shared a similar tingling sensation and that particular minty taste.
+
+She avoided looking into the mirror for as long as she could, though it became inevitable when she needed to dry her face after a quick rinse. Her new appearance only reminded her of the importance of the meeting she was supposed to attend today, and how she couldn’t attend because some mischievous bastard decided to throw her into this nightmare, like a stage set on fire seconds before the curtain was meant to rise.
+
+Opening the door leading downstairs, Marina caught a glimpse of what looked to be a thermostat posted along the wall. Behind the glass cover, a pixelated screen displayed the number 31. She scratched her head at the unit used for measurement. Celsius was what she was used to, and by the feel of the indoor heat, it was pretty close to 31 degrees Celsius. Without a second thought, she dialed down the control unit by 10 degrees.
+
+A cool breeze rushed out of the metal vent covers, brushing Marina’s barefoot skin as she let out a deep sigh of relief.
+
+Due to the sudden change in weather from the previous day, there was a clear path of bloody footprints from the entrance all the way to the upstairs bathroom. She planned to have it cleaned right after the shower, but the comfy bed decided to intervene.
+
+Problems would only stay as problems unless solved… or ignored. And she chose to ignore it, for now.
+
+Marina tiptoed down the stairs, careful not to step into the bloody mess. Next to the cash register and display cases was a small, dark brown wooden gate around the height of her waist. Above it was a set of overhead boards, presumably reserved for menu items. Behind the cashier area stood a pair of doors resting along a corner of the wall, leading to the back prep area.
+
+Stepping through the gate, Marina’s curiosity brought her straight through the doors. In front of her sat a large, rectangular stainless steel countertop, surrounded by smaller countertops and appliances. Ovens, toasters, electric stovetops, and a couple of fridges were among the walls, resembling a standard kitchen setup similar to the restaurants she worked at during her teenage years.
+
+At the far side of the kitchen sat an industrial-grade pastry mixer, but what caught her eye most was the espresso machine on the nearby countertop. Being a frequent customer at the local cafe, she was quite fond of these devices, just not the luck to ever work with one. Marina took a few strolling steps closer, tracing her fingers along the cold stainless-steel surfaces as she passed. Next to the espresso machine lay a wooden basket; inside were small packs of what looked like coffee beans and a note card.
+
+Reaching out her hand, Marina unfolded the colorful pages to reveal a mess of illegible scribbles. Just as she tilted her head, the cryptic symbols glowed and rearranged themselves into order.
+
+“Congratulations on completing your first tasks in the Underworld. Here are some of my personal gifts to you. Feel free to enjoy them however you’d like. The Underworld fostered a culture of merciless brutality, which would cause many complications during your baking journey. Companionship is highly recommended. If, by any circumstances, this experience is not what you have imagined, a rebirth option is available in the Profile Overview of your visual System. By foregoing that route, your memories shall be erased, and you shall be reborn as a stranger in another universe. Any questions you may have will also have answers in the same section. Best luck to you, my future [Bread Mage].
+
+Regards,
+
+System Admin.”
+
+Stumbling back, Marina stared intensely at the glowing words. She reread the message over and over, yet nothing changed no matter the repetition. Her mouth opened and closed, yet no sound came from it. She collapsed to her knees as the note card fell to the ground. Desperation simmered into a boil of despair. It had only been a few months since her promotion. The meeting this morning was key to securing her current position, especially given her growing suspicion of a layoff, but fate decided to take the stakeholder’s seat.
+
+She pushed herself back up from the floor, wiping away the drops of tears that lingered around her eyes with a clutched fist. After a few long, deep breaths, she returned the note card where it had previously sat. To the right of the mixer was a short hallway with a line of tray racks resting against the wall, and at the far end stood a red metal door leading outside.
+
+The bakery contained almost every tool she would need to kick-start a new business. Except… there was one thing she needed to make sure of.
+
+After opening every cabinet and fridge in the kitchen, she froze. Not an ounce of flour to be found. Other common seasonings, such as salt and sugar, were likewise missing. There were really only two explanations that came to her mind, the first being the need to purchase from a supplier, which made the most logical sense. And secondly, the need for her to produce the ingredients herself from scratch, which would only be slightly better than being buried alive.
+
+Guided by her wishful thinking, Marina made her way back to the cash register, looking at the tablet and drawers beneath the cash box. She gently pressed the tablet’s home button with her thumb.
+
+Warning: Equipment Locked.
+
+Minimum Level Required: Level 5
+
+<Close>
+
+She raised a fist in the air and swung at the floating screen, only to phase right through it. Her fingers jammed onto the edge of the countertop.
+
+“Fuck!” She cursed while rubbing her hand. “Fine! I will clean the damn floor, happy now?”
+
+Her voice echoed through the bakery with no one to complain about her mannerisms. Biting the corner of her pink lip, she gathered a towel and a bucket of water before making her way to the front doorstep.
+
+The blood left from the previous day had all dried up, hardened like leather.
+
+Beginning with the first bloody footstep, Marina bent down on one knee as she scrubbed vengefully from one red stain to the next, rinsing her towels in between. A numbing sensation spread from the base of her foot, making her adjust her posture. Exhausted and out of breath, Marina stood up for some air.
+
+As she leaned against the front door, the sight of the entire bakery reflected in her red pupil. Due to her urgent arrival, she wasn't given the chance to appreciate just how detailed and beautiful this place was. The menu display boards were perfectly lined up with the entrance in a welcoming fashion, maybe a little too perfect. The furniture looked scattered, yet placed deliberately to form easily traversable pathways from one side to the other, like a road guided by an invisible hand. And the hanging ceiling's lights illuminated the tables beneath them with extra precision.
+
+Marina tossed the towel into the bucket. A smirk formed around the edge of her lips.
+
+“Sleeping in felt so nice… Maybe I do need a little break.” She looked up at the ceiling with a disgruntled sigh. “Yeah, fuck the spreadsheets. Fuck the meetings. Fuck the phone calls. Fuck the emails. And fuck my life…”
+
+“...”

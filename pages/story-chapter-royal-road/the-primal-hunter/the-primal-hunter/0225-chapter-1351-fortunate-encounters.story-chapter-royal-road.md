@@ -1,0 +1,145 @@
+---
+id: 17c2e862-01b2-593d-8d2e-3f6a5f3abbb4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1351 - Fortunate Encounters"
+slug: 0225-chapter-1351-fortunate-encounters
+partOf: the-primal-hunter
+position: 225
+ownLength: 2732
+unit: words
+publishedAt: 2026-07-10
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3658087/chapter-1351-fortunate-encounters"
+royalRoadId: "3658087"
+---
+
+“Racism is alive and strong,” the man said, letting out a sigh of disappointment as he shook his head. “Look at their reactions to the mere sight of us? Truly disgusting.”
+
+“In their defense, I would also be scared shitless,” another man next to him muttered. “Honestly, doesn’t it feel unfair? We brought along a few dozen to this event, really having to be selective with who could come, and here she is, bringing the army along by her lonesome. Even I’m starting to feel a little racist at the injustice.”
+
+“Hey now, not cool, you shouldn’t judge people simply because of their race,” the first guy, exaggerating his disappointment. “Not her fault that she was born a powerful True Royal, and I’m sure she’s just making the best of it.”
+
+The other Risen gave Casper a look before shaking his head. “I’m just happy she’s not an enemy. I guess we can also say that we’re lucky with the friends you made.”
+
+“Can’t argue against that,” Casper shrugged as he stood side by side with the Administrator, who was in charge of doing all the administrative stuff for his Territory. He was a nice enough dude, not a native of the new universe, and apparently like three thousand years old or something. Dude still seemed young at heart, though.
+
+Looking towards the horizon, a flood of creatures was moving, ravaging everything in their wake. Thousands of C-grade Vespernat ectognamorph variants formed a vast army surpassing what nearly any other force could muster at this point and time of the event, and it wasn’t like this army was lacking in B-grades either.
+
+Vesperia was leading them alongside her personal guards, who were all pretty damn powerful in their own right. Casper believed himself to be decently strong, having reached B-grade before the event and gotten quite a nice evolution. However, he also knew that if Vesperia had been an enemy when their two Territories encountered one another, he would have been eliminated from this system event way too early for someone recognized as a Ghost King.
+
+He wouldn’t blame himself, though, and he also had a feeling that his Patron wouldn’t have been too mad either. This was a True Royal who had summoned seven Queen’s Guards, something that his new Risen pal had told him meant she was very impressive even by True Royal standards.
+
+Anyway, Casper did think it pretty lucky that his Territory only ended up having about three other minor areas between his own and Vesperia’s, making them meet up on the fourth day of the second phase starting. He still remembered the utterly terrorized message he’d gotten from a scout about an Ectognamorph army invading, but the second Casper heard the description of their invader, he went himself to meet her.
+
+After Vesperia realized who Casper was, they quickly formed an alliance, much to the relief and surprise of the other Risen in his Territory. As undead creatures, they really didn’t go for many alliances, as most didn’t even want to form one with them.
+
+For events like these, the Risen tended to be incredibly unfavored, as the otherwise neutral factions had a bad impression of them by default. Meanwhile, the Holy Church coasted along with everyone thinking they were the bee’s knees and that forming an alliance with them or even becoming their Vassal was equivalent to winning the lottery. It was annoying, but hey, being hated for what you are builds character.
+
+Or resentment and trauma. Probably a bit of everything.
+
+“It seems like she’s got this area covered; we should continue exploring in... probably the exact opposite direction of where she’s destroying any opposition who’s stupid enough to stand in her way,” the Risen Administrator said, though he continued to look a bit conflicted. “Still not sure how safe I feel leaving one part of our Territory in her hands. The Risen and Endless Empire aren’t known for being allied, and when we make contact with other Territories of our respective factions, this current feeble alliance might break down.”
+
+“Nah, it won’t, and she wouldn’t attack us,” Casper spoke with confidence while shaking his head.
+
+“And how can you be so sure of that?” the other Risen asked skeptically.
+
+“Because if she does, I’ll tell her dad,” Casper said without a shred of shame as he smiled.
+
+The Administrator just stared at Casper for a few seconds, but unfortunately for him, before he could ask what the hell was up with the Chief Administrator he’d been assigned to assist during this event, a system message appeared in front of them all, marking the end of the second phase and the start of the third.
+
+--
+
+While the majority of those who had done well on the Nevermore Leaderboards ended up continuing to do well throughout the rest of C-grade and successfully evolving, there were some who had died or failed to keep momentum. Quite a few of those who had successfully evolved to B-grade also hadn’t lived up to expectations, no longer allowing them to be recognized as true geniuses.
+
+The majority had maintained their relative level of genius, and Caleb believed himself to be one of them. He had been considered top-tier as a C-grade, but not at the absolute apex, and he was the same as a newly evolved B-grade. Few could fight him, but the absolute top-tier geniuses of the multiverse were definitely superior to him, especially after reaching B-grade, where many older and more experienced beings had spent many years consolidating and improving their power after evolving.
+
+Finally, a few had managed not only to keep but also to increase their current momentum, taking them up a tier. Most natural B-grades, such as True Dragons, definitely fell in this camp, though that had only been expected, and most didn’t count it. Others Caleb knew of who had done this were few and far between. No, he didn’t believe Jake could fit into this category, as he had already been at the very top according to the Nevermore Leaderboards, and there wasn’t really anything above that.
+
+With how rare these geniuses were, the chances of Caleb meeting one of them this early on in the event were low, yet here he was, witnessing the power of one. It was someone that Caleb even knew pretty well, having seen the man fight many times in the past. Due to that, the Judge from the Court of Shadows did not have a doubt in his mind.
+
+He’s far more powerful than before, and not just due to his evolution. Something is different about him, Caleb thought as he watched the man casually swing his sword as the large gunship the Territory had likely spent way too many Prima Credits to summon and modify was destroyed in an instant.
+
+The Altmar Empire continued to struggle, buying a few more minutes until, finally, what they had been waiting for arrived. Five people had teleported back to the Territory Beacon and now came out, all of them definitely elites. One could see the hope and expectations in the eyes of the elves as they believed their saviors had just arrived, and the tide was about to turn.
+
+Reality was cruel, striking them swiftly and sharply.
+
+With measured movements and no wastage of energy, the Sword Saint walked towards them with his blade drawn. They responded with magic and a strong formation, with a healer, caster, and archer kept safe in the back as two warriors went to restrain the swordsman.
+
+Less than a dozen seconds later, the Sword Saint walked past the corpses of the warriors, his slow march marking the definite end of the other elves. An arrow flew for him, but with his sword raised, the old-looking human caught its tip with his sword, pushing it slightly to the side as it flew past him.
+
+With his next step, he appeared among them, and as three heads flew into the air, Caleb was ashamed to admit that he had barely even seen the Sword Saint swing his sword. He was far faster than before, or at least he appeared to be.
+
+It was an affinity Caleb wasn’t the most familiar with, but he definitely recognized the signs of powerful time magic revolving around the swordsman at all times. In some ways, it felt as if he wasn’t moving through time the same as everyone else, as if he was in another paradigm of sorts.
+
+Seeing all the enemy combatants dealt with, and shortly after all the Altmar Empire’s other defenses were gone and their remaining members killed, Caleb took out a communication device and relayed a message before flying down to meet back up with the old man.
+
+Landing beside him, the Sword Saint gave the Judge a look. “The Altmar Empire would have been a valuable ally.”
+
+“But we have to choose,” Caleb answered. “Conflict is inevitable, and while it would be nice to make friends with everyone, that simply isn’t possible.”
+
+“Aren’t you playing all sides by having me be the one fighting them?” the Sword Saint asked with a light smile.
+
+“I am for sure, but if push comes to shove, I would choose your side over the Altmar Empire. Things might change when or if I encounter other Territories under the control of the Court, but know that if I do, I’ll try to sell a partnership with you and others from Earth as best I can. Fortunately, the Territory you represent isn’t one that’s gonna cause controversy working with,” Caleb said, not seeing the need to hide anything.
+
+Caleb felt he’d been very lucky in encountering the Sword Saint only about a week and a half into the event. Well, it probably wasn’t all luck, but also a bit of Records and whatnot, bringing individuals with karmic connections together. That wasn’t super important, though. He just found it fortunate.
+
+Not just because the Sword Saint was one of the strongest people Caleb knew, but because of the faction he was from. If it had been Carmen, Jake, Casper, the King, Vesperia, or, shadow’s forbid, Jacob, things could have gotten awkward very quickly. Forming an alliance with a major faction wasn’t the MO of the Court of Shadows this early on in an event like this, as the primary strategy was to try to remain neutral.
+
+There were exceptions, though, such as if the allied faction wouldn’t cause conflict, and fortunately, the Sword Saint came from such a faction. More accurately, he didn’t come from somewhere usually classified as a major faction. Aeon didn’t have any official organization or set doctrine, even if he did have followers, and he didn’t compete for resources in the same way all the major factions did.
+
+The Sword Saint had joined as a member of this unofficial “Aeon faction,” effectively making him a neutral free agent. Sure, he was still a competitor for the event, and the Sword Saint’s participation as the new Chosen of Aeon did represent the Primordial of Time’s interest in the World Wonder, but until they reached the final stage where competition was mandatory, working together was preferable. At least Caleb believed so.
+
+“At least you’re honest,” the old man smiled. “Did you contact them?”
+
+“I did,” Caleb confirmed. “Should be here within a few minutes.”
+
+“Good. I guess in a way, I’m also using you,” the Sword Saint chuckled.
+
+“As long as it’s mutually beneficial, who’s complaining?” the Judge asked, returning the same energy as the two waited for the people who would destroy the exposed Territory Beacon of the Altmar Empire.
+
+Perhaps that had also been lucky, but a few individuals from the Golden Road Emporium had also found themselves in the vicinity of Caleb’s Territory just a day ago. They had gladly offered to make themselves Vassals with the only requirement being that they would get help to destroy another Beacon and remain in the event. Having some skilled merchants on one’s side would probably be a good thing, seeing as no one knew what this event would bring about in the future.
+
+The two of them waited, and not long after, a spaceship summoned using Prima Credits arrived, carrying six people. Five of them were a party of rather subpar power, with the last person being the Chief Administrator, who, as far as Caleb knew, had bought that position.
+
+“I must once again thank you for your help, Judge,” the merchant said after walking over, bowing deeply to Caleb before turning towards the Sword Saint. “May I know who this man is? He doesn’t appear to be from the Court.”
+
+“He’s not,” Caleb answered, and after getting a subtle nod of approval from the Sword Saint, he continued. “This is the Chosen of Aeon, also known as the Primordial of Time.”
+
+Judge was a pretty neat title, but compared to being the Chosen of Aeon, it was truly nothing. The reaction of the merchant only hammered this home, as the poor guy practically fell to his knees and started the expected groveling.
+
+“Pardon my ignorance, I was unaware that...” the guy began before Caleb just zoned out what was effectively the same speech he’d heard way too many give Jake in the past. The Sword Saint didn’t look annoyed in the slightest, though, but stood there with dignity before thanking the man for his deep sign of respect.
+
+“This is truly a day worth celebrating for me to meet the Chosen of a Primordial,” the merchant said, being all smiles as Caleb could practically see the cogs in his head turning. Becoming allies and making friends with a Judge from the Court of Shadows was nice, but making friends with the Chosen of Aeon? Yeah, no way the merchant was going to miss that opportunity, especially not with the swordsman acting so politely.
+
+Caleb hung back, allowing them to interact as the party of five there to protect the merchant also just stood there, watching. After what felt like forever, the old man finally spoke up, remaining polite, though a little firm.
+
+“Please, I implore you to destroy the Beacon immediately,” the Sword Saint said, remaining overly polite for a Chosen. “While there are no enemies present, delaying what must be done is simply an unnecessary risk.”
+
+The real reason was probably that the Sword Saint wanted to escape the conversation, but it didn’t seem like the merchant was willing to let go quite yet.
+
+“Most certainly we should, but it would also be such a waste to...”
+
+Unwilling to give up, the guy kept yapping, with the Sword Saint really proving himself an expert in the concept of patience. It was honestly a little funny to watch, and Caleb had to hold back a smile as he stood there for another ten minutes while the merchant really tried to sell himself as a great person and ally.
+
+He would have likely kept going if he hadn’t gotten rudely interrupted.
+
+“... thus, I shall personally make sure that any-“
+
+Mid-sentence, two things happened at once. One, the merchant, five protectors, and even the summoned spaceship disappeared; everything turned into blue wisps of scattered energy. Two, they got a system message telling them why that had happened.
+
+The second phase has now ended, with more than 90% of all Territory Beacons destroyed. All Territories that have failed to destroy at least one Territory Beacon have been permanently eliminated.
+
+All individuals who have been...
+
+After reading the message, Caleb shared a look with the Sword Saint, who let out a sigh.
+
+“I did tell him to destroy the Beacon quickly.”
+
+“You did,” Caleb nodded as he smiled.
+
+The two were quiet for a few seconds before the Sword Saint spoke again. “That truly was impeccable timing. He was absolutely insufferable.”
+
+“What? I thought you two were becoming best friends,” Caleb said, acting all surprised. “Didn’t he invite you to his daughter’s wedding? Pretty sure I heard him invite you to his daughter’s wedding.”
+
+“He did, but unfortunately, I never got the chance to accept the invitation,” the Sword Saint answered with a nod. “Alas, we must move on. Do you want the Territory, or should I break the Beacon?”
+
+“You go for it,” Caleb chuckled, shaking his head as he checked his communicator. “I’m already getting spammed down with messages about this Central Domain and Palace of Abundance...”

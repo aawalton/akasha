@@ -1,0 +1,195 @@
+---
+id: bc6b945b-9490-59f3-9b4d-a4bce623730b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 98 – Beneath Seabloom Island"
+slug: 0098-chapter-98-beneath-seabloom-island
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 98
+ownLength: 2119
+unit: words
+publishedAt: 2026-03-18
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3164674/chapter-98-beneath-seabloom-island"
+royalRoadId: "3164674"
+---
+
+"So you agree to help me?" Morgana asked.
+
+"You should at least tell us what we're supposed to do," Liora demanded.
+
+"I'll explain once we reach the site," the woman said evasively.
+
+"This is suspicious. Are you leading us into some crazy laboratory to do experiments on us!" Cee flailed her front legs angrily.
+
+"Yeah, how can we trust you if you won't even tell us what it is?" Liora added.
+
+I doubt Morgana would ever do anything like that, but it is suspicious that she won't say what she wants from you.
+
+"No! I wouldn't want to cause war with the beastkin. They are quite protective of monsters who are close to becoming one of their kind," Morgana shook her head. "The reason I can't tell you is that the information is highly confidential. It is only known to the Pillars and their closest associates. I'm putting a lot of trust in you by giving you this task."
+
+"Or more like you don't think anyone will believe a talking spider and a bird," Cee countered.
+
+"I'm sure there's someone who would, but yes. That is also partially the reason. People are much more likely to dismiss you two, in case you do decide to spread this knowledge. Although I ask that you don't."
+
+Any idea what this could be about?
+
+There are several things that only Pillars know about, but I can't imagine any that would require your help specifically. Must be something else. Some new issues, most likely. Perhaps, something to do with the corruption?
+
+Yeah, I can't imagine why else she would need us. Or need me, specifically. Why would she require Cee?
+
+That's a good question. I say that you go along with her for now. Worst-case scenario, we run. I'll come up with an incantation that can break through some weaker wards, in case she traps you in a room again.
+
+"Very well, we shall go and see what this task is. But I reserve the right to refuse it," Liora said.
+
+"Sure. I suppose that's fair. But I think you won't," Morgana said. "Now, let's go get some breakfast and set sail."
+
+Liora and Cee were both delighted at the idea of breakfast and followed Morgana eagerly. She led them out of the Guild and to one of the restaurants in the town. The streets were visibly livelier.
+
+People were coming back with carts full of stuff, dragged by either horses, bulls, or donkeys. Many were eagerly opening the doors to their homes, with wide smiles on their faces. There were even some street vendors with their stalls ready and delightful smells of freshly cooked food filling the streets.
+
+"Take your pick, beasties!" Morgana offered.
+
+Some people were throwing dubious glances in Cee's direction, but it was quickly forgotten when they saw Morgana. They showered the woman with praise and cheers, thanking her profusely for saving Abylport and offering her various gifts, which she declined.
+
+"I only wish for some breakfast for myself and my two friends," Morgana said.
+
+"Are these your magical familiars, Lady Morgana?" One of the vendors, who was grilling the most delectable-looking chicken meat, asked.
+
+"Something like that. They're a bit more on the wild side, but quite harmless. They helped me to get rid of the fog," she answered.
+
+The people instantly took a more positive attitude towards Liora and Cee, and they were both offered plenty of tasty snacks to eat. Liora took everything that was offered to her—grilled chicken, fried fish, roast pork, bacon slices, even squid rings.
+
+She ate what she could, and what she couldn't finish, she secretly stashed in her Inventory. Cee did the same, although she definitely finished most of the food offered to her. Surprisingly enough, some people were very eager to share their meals with her. They even called her cute.
+
+Liora couldn't deny that. As far as spiders went, Cee definitely was on the cuter side, especially with those runic lines on her body. The spider was basking in the attention, positively overjoyed that people weren't running away from her in fear.
+
+Once they had eaten their fill, Morgana took them to a ship where Donovan and Nord were waiting for them.
+
+"What about Freida?" Morgana asked.
+
+"She said she'll return home for a while. Inform parents of what happens to Elric," Donovan explained.
+
+"Understandable. She deserves the time to mourn. Sadly, we don't have time for such a luxury. We're heading to Seabloom Island," she informed them.
+
+"Aye, aye, Captain," both men replied in unison.
+
+The ship they boarded was much smaller than the one they were on previously. The crew size was also much smaller. If previously they had a crew of 50 people plus Morgana's core team, then now the crew size was reduced to five. Just enough to man the small ship.
+
+Liora and Cee settled near the helm where Morgana was, steering the ship. This time, they were sailing in the opposite direction from the corruption island, away from Abylport.
+
+"Where are we going exactly?" Liora asked quietly.
+
+"Seabloom Island," the woman replied nonchalantly.
+
+"What's on Seabloom Island?" She pestered.
+
+"You'll see once we get there."
+
+Renir guessed there was another corrupted monster that they wanted to deal with. But Morgana seemed more than capable of dealing with corrupted monsters on her own. Perhaps, she just wanted to have someone with holy magic on hand, just in case.
+
+About an hour later, their little ship pulled up in a small harbor on a seemingly uninhabited island. Aside from a few fishpeople skulking about on the shore.
+
+But unlike the fishpeople on the corrupted island, they were quick to run back into the sea once they noticed Morgana's ship. Did they recognize it and flee, or were these guys just more skittish since they weren't influenced by the corrupted fog?
+
+"You may sail back to Abylport. I'll send a message when we want to return. Donovan, Nord, and beasties, come with me," Morgana ordered.
+
+Liora and Cee followed them, while carefully watching the island for anything unusual. Monsters, more miasma, anything. But no, it was just a peaceful island. In fact, it was a rather beautiful place.
+
+Fruit trees were growing in abundance, while monkeys jumped from tree to tree feasting on their bounty. There was also a plethora of birds that filled the whole place with their songs. If somebody were to get stranded on this island, then life here would be quite pleasant. Perhaps, they could stay and rest here for a while after Morgana gave them that Resonance Crystal.
+
+They kept going deeper and deeper into the dense island forest. Humans were struggling to get through the wilderness. Cee and Liora had no such problems, feeling right at home. The spider jumped from tree to tree, often disappearing from sight while Liora soared above the tree tops.
+
+After a while, Liora noticed some kind of ruins, which turned out to be exactly where they were going. She circled them from above, trying to figure out what was so special about this place. Perhaps some hidden treasure Liora needed to find.
+
+But her Treasure Sense was completely silent, indicating that there was nothing of value there. She was mildly disappointed, but she supposed Morgana never did promise any treasure. Then again, what could be the reason for them to come to these ruins?
+
+Once Morgana reached the ruins, she strode towards their inner part, which looked mostly intact, with two walls standing tall, with a third, half-crumbling one giving the impression of a room. She went up to one of the walls and pushed against one of the stone bricks.
+
+There was an audible click, and suddenly part of the floor began moving. Liora watched in fascination as the large stone slab slowly moved out of the way, revealing a staircase below.
+
+"Light up the torches," Morgana commanded.
+
+Donovon and Nord each withdrew a torch from their Inventory and lit it up. Liora, meanwhile, stared at the entrance underground with displeasure.
+
+"Do we have to go down there? I don't like cramped spaces," she noted.
+
+"It looks kinda cozy," Cee said, peering into the opening.
+
+"Well, of course! You're a spider!" Liora shot back.
+
+"I'm afraid, there's no way around it. We must go underground," Morgana said.
+
+"Is this some trap?" Liora asked.
+
+"Listen, if I had wanted to trap you, I would have done so back at the Guild. You were already in my grasp, inside a warded room," Morgana pointed out.
+
+"Maybe you do have an evil laboratory down there," Cee said.
+
+"These beasts have quite an active imagination. Captain, why don't you just tell them?" Donovan said with a sigh.
+
+"Very well. It's a clinic," Morgana said.
+
+"A clinic?" Liora and Cee shared a look.
+
+Why would they build a clinic out here? It's so hard to get here, not to mention that it's quite far from Abylport. Although there's certainly no scarcity of food here.
+
+"Why would a clinic be here? I may be a bird, but even I know clinics are built in places where people live. Why isn't it in Abylport?" Liora asked.
+
+"You'll see why once you see the patients. They must be isolated from other people," Morgana said.
+
+That's not ominous at all.
+
+I'm getting a bad feeling about this.
+
+"Come here, I'll carry you. It'll be hard to fly down there with your large wings," Morgana raised her hand, which suddenly had a large falcon glove appear on it.
+
+Liora observed her for a moment, but couldn't sense anything ominous coming from the woman. Since she prided herself on being a good judge of character, she decided that it was safe enough to follow along with her.
+
+Morgana descended downstairs, Cee following with them by walking on the ceiling. The staircase was really dark, although that didn't really bother Liora. She could see everything perfectly with her Twilight Vision.
+
+The staircase kept going down from quite some distance until finally it changed into a large underground cavern. Several people dressed in long white robes—doctors, nurses, and clerics, Liora realized—were bustling about, running from one of the tunnels into another one.
+
+This place was much better lit, and the moment Morgana had gone down, she was greeted by the nurse who sat at the main desk.
+
+"Good day, Lady Morgana! It is a pleasure to see you again," she said politely, but her eyes were looking behind Morgana, searching for something. "Have you brought… another one with you?"
+
+"Thankfully, not today," Morgana said.
+
+Brought what?
+
+I have no clue.
+
+The nurse relaxed and finally turned her gaze to Liora and Cee. "Lady Morgana, may I ask why you brought these… creatures with you? Even if they are magical familiars, I'd prefer it if they didn't go into the clinic."
+
+"They're actually here to help. Both of them," Morgana said.
+
+The nurse looked shocked. "Help?"
+
+"They both possess a unique set of skills that could be very useful to us. The spider can weave extremely durable threads and restrain even the strongest of enemies. Meanwhile, the bird can use holy magic," Morgana explained.
+
+"A bird that can use holy magic. Can it use Purify?" The nurse asked.
+
+"I can," Liora confirmed, and the nasty nagging in her gut was growing stronger.
+
+"It talks?" The nurse exclaimed.
+
+"The spider talks too," Nord grinned.
+
+"I do," Cee confirmed.
+
+"My… Those are some very unusual monsters. Are you sure… that they can be trusted?"
+
+"Don't worry. They already helped us once. I believe they'll be willing to help, and if not, then I'm sure they won't cause any harm," Morgana assured.
+
+The nurse gave Liora and Cee a long, appraising look, then nodded. "Alright. We do need all the help we can get. Let's head inside."
+
+The nurse walked up to the largest tunnel, which was blocked off by a large metallic door with a red label hanging above it, and opened it. The moment she did, Liora could hear noises. Groaning, moaning, gurgling, and lots of other human and inhuman noises.
+
+Just what the hell is in there?
+
+I think I understand now. Gods, I hoped this wouldn't happen…
+
+What?
+
+But Liora didn't have to wonder for long. On each side of the corridor, there were rooms, each sealed with a metallic door. As they went by the first one, Liora peeked inside, and all of her feathers stood on end as she saw the horrors inside.
+
+It was a person. A man. However, half of his body had turned purple with corruption oozing out of his left eye. His still healthy hand was scratching on his corrupted side as if trying to remove the taint by force.

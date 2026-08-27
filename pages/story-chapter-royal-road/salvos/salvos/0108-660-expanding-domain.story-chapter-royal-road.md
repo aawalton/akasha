@@ -1,0 +1,151 @@
+---
+id: 837289a8-a307-53b8-9ffc-f4f17cc2b6dc
+page-type-slug: story-chapter-royal-road
+title: "660. Expanding Domain"
+slug: 0108-660-expanding-domain
+partOf: salvos
+position: 108
+ownLength: 1570
+unit: words
+publishedAt: 2024-03-22
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1563478/660-expanding-domain"
+royalRoadId: "1563478"
+---
+
+660. Expanding Domain
+
+“[Expanding Domain: The Fall of the Fairies].”
+
+My eyes grew wide as the world shifted around me. I saw the crimson skies of the Netherworld fade away, replaced by a collapsing purple dome that shone with the same intensity. Luscious green grass grew around my feet and carpeted the rocky terrain.
+
+Giant trees of green bark and red leaves sprouted from the ground, breaking the earth open. I leapt out of the way as a forest emerged from beneath my feet. I landed with narrowed eyes, watching as impossibly tall mountains shot up to the sky and reshaped the terrain.
+
+All around me, this brand new world was created. It reminded me of Belzu’s Grand Skill— an illusion of the Netherworld that was made real. However, unlike Belzu’s Grand Skill, this was no illusion. It was a pocket space.
+
+Just like my own.
+
+“Huh.”
+
+I stared in awe at the difference in power between our respective pocket dimension Grand Skills. This was an entire world. An unfamiliar world. It sort of resembled what I had seen of the Spirit Plane before, but… different.
+
+Like it was a graveyard. A thin mist permeated the landscape, and the skies seemed to darken. But there were no clouds overhead. There was only a curtain of dread hanging over the terrain. My brows snapped together as I took in Hartia’s pocket space. Then I recalled its name.
+
+A grin began to slip onto my cheeks, and I looked up at the Ruler of the Border hovering high in the sky. He glared back down at me as he spread his arms wide.
+
+“Welcome to my world— welcome to your grave!”
+
+His voice reverberated around me. A shockwave rippled out, causing the ground to tremble. I stared at the triumphant look on his face, then I pointed at him with glee.
+
+“Your Grand Skill is called the Fall of the Fairies? So you are a Fairy!”
+
+He blinked a few times, taken aback by my reaction to his Grand Skill. He stared at me for a moment, and I beamed, pointing a thumb at myself.
+
+“I knew it! I told everyone you’re a Fairy! Even you told me you weren’t a Fairy! But I was right!”
+
+I could tell he was a Fairy just by taking one look at him. And that was before I even knew that he was a master of space magic. He wore an annoyed look on his face when he saw the way I was practically bursting in excitement at his confirmation that he was a Fairy.
+
+“Perhaps… at one point, long ago, I was considered to be a part of their people.”
+
+He spoke softly as he looked down at himself. His eyes fluttered shut, and he remained in silence for a moment. I raised a brow at that, before I heard a rumbling echo in the distance. My gaze snapped to the side, and I watched as the nearby mountains cracked open. I frowned as Hartia continued.
+
+“But I’ve shed my past long ago. No— I was cast out by my kin long ago.”
+
+There was some disdain in his voice. A brief hint of anger flashed on his face. But he steeled himself as he raised his head. His eyes snapped open, and he looked down at me like I was an insect at his feet.
+
+“Now, I am a Fairy no more.”
+
+I gave him a quizzical look as he said that. I wanted to question what that even meant— if he was talking about it in a literal sense or a metaphorical sense. But he pointed at me, and my [Angelic Premonition] warned me of what was to come.
+
+I heard the buzzing in the distance. It was a thunderous chittering that filled this world with terror. The nearby trees seemed to stiffen up like they were strands of hair standing on end, and the ground continued to tremble. Then I saw it. Figures emerging from the broken mountaintops.
+
+Hundreds of them at first. And then, there were thousands.
+
+“Those are…?”
+
+My eyes went wide when I realized what they were. Hartia snickered, before flying higher into the sky.
+
+“And in this world? I am beyond your comprehension.”
+
+He flicked a hand, and giant boulders the size of small hills flew my way. I ignored them as I spread my wings wide and took off into the air. Instead, my gaze was focused on the approaching swarm of chittering creatures.
+
+Tiny little beings, each of them carried by their rapidly beating glowing wings. They almost sounded like they were laughing. However, the mixture of their voices just boomed cacophonously around me. Despite approaching me like one single amorphous figure, I could make out each of their individual features.
+
+And they were familiar. Very familiar. After all, they were the same creatures that Hartia was.
+
+They were Fairies.
+
+Hartia bellowed as his voice shook his world.
+
+“In this world, I am a god!”
+
+[Fairy - Lvl. 35]
+
+[Fairy - Lvl. 73]
+
+[Fairy - Lvl. 56]
+
+[Fairy - Lvl. 21]
+
+…
+
+[Fairy - Lvl. 108]
+
+[Fairy - Lvl. 153]
+
+[Fairy - Lvl. 139]
+
+…
+
+[Fairy - Lvl. 200]
+
+Haec looked back at the dodecahedron made of crystal that formed in the air. It had a sheening green surface, and it looked about the size of the Demon King’s Castle. But it was no castle, nor was it just a floating rock.
+
+He could sense the space magic there. While he wasn’t a specialist in magic, he saw the way the Netherworld seemed to warp around it— just like how it had warped around Salvos’s pocket space. So he knew what this was.
+
+Salvos was trapped in Hartia’s world. It was thanks to his Grand Skill— something so powerful it was capable of creating a pocket space that was practically its own mini-plane. Haec heard that Hartia had once trapped a wild Primordial Demon within the confines of his pocket space and slew it after a long and arduous battle, but he wasn’t sure if those were rumors or reality.
+
+So Haec could only grit his teeth and hope that Salvos would survive long enough for his plan to work. He continued sprinting over the rocky terrain, before he reached the coliseum. He came to a halt before the Third Legion. And they saw him too.
+
+Their heads snapped his way— tens of thousands of them— and those standing at the front backed away nervously as he approached. But he raised his hands placatingly, speaking for all to hear.
+
+“Relax. I am here to help free you all from Hartia.”
+
+He drew closer as even more of their numbers backed away. Only a few refused to budge. The highest-leveled of them all. A [Knight Eligos] stepped forward, pointing at Haec.
+
+“You are the Heir of the Netherworld.”
+
+It was a simple statement. But it was not a factual one. Haec immediately understood their apprehension when they saw him, and he shook his head.
+
+“Not anymore.”
+
+Haec reassured them, and the [Knight Eligos] gave a dubious look.
+
+“Not anymore?”
+
+“That is right. I was here, was I not? Back when that [Cerberus of Hell] attacked. You saw me. Many of you did.”
+
+The former Heir of the Netherworld nodded as he swept his gaze over the crowd. While there was no susurration of voices— as many of them were too afraid to speak— he saw half of their gazes flicker with recognition of him. They exchanged glances and nodded at each other.
+
+“I was here. I fought alongside you. But when Hartia just abandoned us and fled, I too made my decision to run. However, my choice was not to run from the wild Demons attacking us.”
+
+Haec spoke simply as he placed a hand on his chest.
+
+“My choice was to run from this oppressive kingdom ruled by an unjust king. Even I, the Heir of the Netherworld, was unfairly treated. Even I rebelled. And so should all of you. For you do not deserve this death and danger you have been put through.”
+
+The [Knight Eligos] perked up when he heard what Haec was saying. All of those who had confronted Haec seemed to be touched by his words for some reason. He didn’t question why they appeared to be so moved so easily.
+
+He just proffered a hand forward as they stared at it.
+
+“And I can help you. But to do that, I need you all to help me too. Please, trust me, this is your chance to be free.”
+
+When he finished, they fell silent. None of them moved for what felt like a long moment. And Haec could feel the urgency of his situation as the pocket space behind him continued to shimmer.
+
+Eventually, the [Knight Eligos] glanced back at a [Changeling]. The two of them conferred without even exchanging any words. They nodded at each other, before the [Knight Eligos] turned to Haec and stepped forward.
+
+“We will help you. What must we do?”
+
+The [Knight Eligos] asked simply. And Haec blinked, before a smile spread across his lips. He took in a deep breath, then closed his eyes.
+
+“That was all you needed to do.”
+
+That was all he said as he turned around, before a wave of white aura washed over the Third Legion and crashed into the former Heir of the Netherworld, filling him with strength.

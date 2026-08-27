@@ -1,0 +1,231 @@
+---
+id: bafe9718-7633-52bf-9c6a-dd15667a2bc1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 98: The Royal Audit"
+slug: 0099-chapter-98-the-royal-audit
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 99
+ownLength: 3643
+unit: words
+publishedAt: 2026-08-18
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3831362/chapter-98-the-royal-audit"
+royalRoadId: "3831362"
+---
+
+The fanfare surrounding the Royal Taster was nothing compared to the arrival of the actual monarch.
+
+The air itself seemed to vibrate with the sheer, overwhelming presence of the Royal procession. The sky, which had been clear, suddenly felt heavy. Down by the coastal road, the frantic, buzzing energy of the waiting crowds crescendoed into a deafening roar.
+
+Ren stood at the end of the red carpet, framed by the elaborate blue floral archways he had commissioned. His heart hammered a frantic rhythm against his ribs. This was it. The moment that would either secure his family's future or plunge them into a desperate war against the Old Circle.
+
+A sleek, heavily armored carriage pulled to a halt at the gates. It wasn't the gaudy, gold-slathered monstrosity the Taster had arrived in. This was a vehicle designed for defense, forged from dark steel and polished ebony wood, bearing the subtle, elegant crest of the Dolarian Crown.
+
+A Royal Guardsman, moving with crisp, militaristic precision, placed a velvet-covered stepping stool before the carriage doors. Another guard quickly checked the immediate surroundings before pulling the heavy door open.
+
+The crowd outside the gates erupted into a fresh wave of cheers, throwing handfuls of blue flower petals over the barricades.
+
+A tall, imposing figure stepped out from behind the ornate curtains concealing the carriage interior.
+
+King Augustus of Dolaria possessed a commanding presence that demanded absolute attention. He had sharp, piercing blue eyes and hair the color of fresh blood. He wore an elegant, regal gown trimmed with intricate gold lacework. A long, heavy velvet cape draped over his broad shoulders, trailing behind him on the pristine cobblestones. A simple, unadorned golden crown, embedded with large blue gemstones and a few blood-red rubies, rested on his crimson hair.
+
+Behind him emerged the two royal princesses. The elder appeared to be around sixteen, the younger perhaps twelve. Both shared their father's signature crimson hair and deep blue eyes, moving with a practiced, elegant grace.
+
+The final figure to exit was the Queen. She stood in stark contrast to her family, possessing lush, raven-black hair, though she shared the same piercing blue eyes as her daughters. She offered a small, serene smile to the cheering crowds.
+
+The Royal Family bathed in the adulation for a few moments, waving gracefully before turning and entering the gates of the Fenris estate.
+
+As they walked down the red carpet, the entire staff—Mira, Sylas, Kaelthos, Cynthia, and the rows of elven guards and maids—executed a flawless, synchronized forty-five-degree bow.
+
+Ren, as the Lord of the estate, offered a shallower, thirty-five-degree bow, adhering strictly to the complex etiquette rules Sylas had hammered into his head over the past week.
+
+"Thank you, Your Majesty, for gracing us with this visit," Ren said, his voice steady despite the adrenaline surging through his veins.
+
+King Augustus stepped forward. He didn't offer a stiff, formal greeting. Instead, he reached out and grasped Ren by the shoulder, his grip firm and surprisingly warm.
+
+"I have heard much about you and your exploits, Lord Fenris," the King rumbled, his voice carrying the deep resonance of a man accustomed to being obeyed. "My generals cannot stop talking about you. I hear your provisions are the reason for our splendid success in the last three border skirmishes. Frankly, it is I who should be thanking you."
+
+He let go of Ren's shoulder, his piercing blue eyes dropping to the bundle in Mira's arms. Lily, dressed in her fluffy white cloud of a dress, was currently trying to eat a blue flower petal she had caught from the air.
+
+"That is quite the adorable daughter you have there," the King noted, his voice softening. "I hear her mother is no longer with us. My deepest condolences to you. I know a little bit about sudden loss myself. Losing a family member is quite a daunting burden to carry."
+
+Ren dipped his head respectfully. "You are too kind, Your Majesty."
+
+The King gestured expansively toward the massive timber and stone structure of the Seaside Inn. "Now, let us get to the dining hall. The Royal Taster has had my ears buzzing incessantly with praise of your food. I am eager to see if the reality matches his rather... enthusiastic descriptions."
+
+Ren signaled for Mira to take Lily upstairs to the nursery, out of the chaotic crossfire of the upcoming meal. He then led the royal entourage inside, flanked by Sylas. The rest of the staff dispersed instantly, rushing back to their assigned stations to ensure the service ran flawlessly.
+
+Ren guided the King, the Queen, and the two princesses to the main dining hall. A slightly elevated table sat in the center of the room, positioned to offer the best view of the ocean through the large, open windows. This area was strictly reserved for the four members of the royal family.
+
+Two longer tables flanked the royal dais, set up for the retinue of officials, guards, and dignitaries accompanying the Crown. Ren noted the Royal Taster, Lord Farhos, taking his seat closest to the King, his powdered wig still sitting slightly askew.
+
+Ren slipped through the swinging double doors into the kitchen. The heat and the noise hit him instantly, a comforting, chaotic embrace. He took his place at the pass, beginning to push out each course, one at a time. It was the exact same menu he had served Farhos last week.
+
+The service began with the Ocean Pearl.
+
+The dining room fell into a hushed silence as the plates were set down. Everyone watched intently as the Royal Taster took his obligatory bite. Farhos closed his eyes, a look of profound, almost religious ecstasy crossing his pinched features, confirming the dish was safe.
+
+The twelve-year-old princess was the next to try the raw scallop. Her eyes went wide, and she let out a distinctly un-royal gasp of delight, quickly devouring the rest of the bite. The Amuse-Bouche was a massive success, jolting their palates awake.
+
+The King was quite vocal about the exquisite flavor and masterful presentation throughout the meal.
+
+When the plates from the appetizer were cleared, King Augustus looked directly at Ren, who was standing respectfully near the kitchen doors.
+
+"Now," the King said, his voice carrying across the quiet room. "I hear the next dish is considered as rare and as much of a delicacy in your home country as our Royal Duck. I shall put that bold claim to the test."
+
+The dish no one in their right mind would dare serve to the King was brought forth. The Sea Spiders. The vermin. The pests.
+
+The Butter-Poached King Crab arrived, resting on its crispy tuile armor.
+
+The King waited patiently for the Taster to give the all-clear, then picked up a slice of the warm, butter-soaked meat. He chewed slowly, his expression analytical.
+
+The King's eyes widened slightly. He looked down at the plate, then back at Ren. He was clearly blown away. The crab possessed a completely different texture and depth of flavor compared to the Royal Duck. The claims of it being comparable were not an exaggeration; it was equally as good, merely operating on an entirely different flavor profile.
+
+"Incredible," the King murmured, reaching for another piece.
+
+Ren stepped forward, offering a slight bow. "This next dish was skipped during the initial inspection, Your Majesty, but it is an integral part of the experience. We call it a palate cleanser, so that you may enjoy the main dish properly without the lingering richness of the butter."
+
+The lemon and mint granita was served. It was a resounding success. The sharp, icy citrus wiped away the heavy garlic and butter. The King commented on the refreshing nature of the ice, noting it could easily be a stand-alone dish on a hot summer day.
+
+Then, the main course emerged from the kitchen. The Beef Wellington.
+
+The royal entourage was stunned into absolute silence. The sheer complexity of the presentation, the perfect crosshatch scoring on the golden pastry, the rich, intoxicating aroma of the mushroom duxelles and the dark, glossy demi-glace.
+
+Some of the older officials in the entourage could be seen discreetly wiping tears from their eyes after their first bite, completely overwhelmed by the emotional sledgehammer of the MSG-laced sauce.
+
+The Queen, who had remained poised and silent throughout the meal, finally spoke. "This is like comfort to the soul," she whispered, looking at Ren with genuine awe. "I cannot describe this sensation in mere words."
+
+King Augustus set his silver fork down with a definitive clink. "I truly must agree. No one is a master of the culinary arts more than you, Lord Fenris. All other food in the kingdom pales in comparison."
+
+The retainers attending the King exchanged wide-eyed, frantic glances. That statement held massive, kingdom-wide implications. It was a clear, public distinction that this establishment was several notches above any other culinary establishment in the nation, effectively crowning Ren the undisputed king of flavor.
+
+"You have worked such wonders with beef," the King added, leaning back in his chair. "I shudder to imagine the magic you may bring forth when you are finally allowed to prepare the Royal Duck Bird."
+
+Ren offered a deep bow, his heart hammering with triumph. "Shall we conclude this meal with the finale, Your Majesty?"
+
+Ren explained that the dessert needed to be shattered with a spoon to reveal the delicacy hidden within. The Sugar Sphere, filled with rich vanilla cream and macerated berries, wowed the guests into stunned, sugary silence.
+
+As the plates were cleared, King Augustus stood up. He gestured to the Royal Taster.
+
+"Words cannot describe your skill, Lord Fenris," the King proclaimed, his voice booming. "All that I can offer is this, which also feels inadequate to honor your talent."
+
+The King picked up a heavy, ornate gold plaque from a velvet tray held by Farhos. The Royal Seal of Culinary Excellence.
+
+Ren stepped forward and dropped to one knee on the polished floorboards, bowing his head to accept the highest culinary honor in the land.
+
+Before the King could hand the heavy plaque over, a loud, chaotic ruckus erupted outside the main doors of the dining hall.
+
+The heavy doors were thrown open with a violent crash. A Royal Guard entered hastily, his face pale, ignoring the protocols of entering a room where the monarch was dining.
+
+"Your Highness," the guard gasped, dropping to a knee. "The Royal Magistrate is here on official business. He requests an immediate audience with you."
+
+King Augustus frowned, clearly displeased by the sudden, aggressive interruption. "Tell him this had better be a matter of national security to disturb such a momentous occasion."
+
+The dining hall became terrifyingly silent. Ren felt a cold, familiar gut feeling settle in his stomach.
+
+The feeling was confirmed a moment later. The Royal Magistrate, dressed in his stiff, formal robes of office, marched into the room. He was followed closely by a very smug, very confident Lord Greenwood.
+
+The Magistrate bowed low to the King. Greenwood offered a similar, practiced bow.
+
+"Your Majesty," the Magistrate announced, his voice echoing in the quiet room. "I sincerely apologize for the disturbance. But this matter is urgent and requires your immediate attention. The esteemed Lord Greenwood has proclaimed that Lord Fenris is actively deceiving Your Majesty and the Crown."
+
+The Magistrate pointed a condemning finger at Ren, who was still kneeling on the floor. "He is hiding an undocumented half-elf within this estate, and he plans to have this half-elf inherit his noble title, thereby deceiving the Crown and poisoning the peerage."
+
+King Augustus looked down at Ren. Ren kept his face a mask of absolute, unreadable neutrality. The King then looked back at the Magistrate.
+
+"So be it," the King declared, his voice cold and hard. "Let actions speak louder than words. I shall preside over this case myself, right here."
+
+The King turned his piercing gaze on Lord Greenwood. "But know this, Greenwood. If your claims are found to be false, you shall have to pay hefty reparations to Lord Fenris for the slander and the public disruption of this ceremony. If the claims are found to be true, I shall strip him of his newly acquired Royal Seal and pardon his indiscretion, for the kingdom has a long-standing tradition to honor those who show great excellence."
+
+The King paused, letting the weight of his words settle over the room. "So before we proceed, I ask you this, Greenwood. Do you wish to continue? I have grown quite fond of this man's cooking, and a man's cooking reveals his true character. I say it now: I shall be lenient if he is found guilty of this minor infraction, but I will be severe if you are here making a false claim to settle a petty rivalry."
+
+Greenwood was visibly taken aback by the statement. He hadn't expected the King to show such blatant, public favoritism toward a newly minted noble. How good exactly was this food that it was making the King defend a man accused of hiding an illegitimate half-blood?
+
+But Greenwood’s pride was too massive to allow him to back down now. He would take something away from Ren today, even if it was just the public humiliation of the trial and the loss of the Royal Seal. He needed payment for the profound discourtesy shown to him in the kitchen this morning.
+
+"I wish to proceed, Your Majesty," Greenwood stated, puffing out his chest.
+
+The King frowned, clearly displeased with the answer, but he needed to uphold the law of the land. He took his seat at the elevated table and gestured toward Ren.
+
+"Lord Fenris," the King ordered. "I must inconvenience you. Please have your daughter brought forth so the Magistrate can conduct his examination."
+
+Ren stood up smoothly. He gestured to Sylas, who was standing nearby. Sylas immediately turned and headed toward the back stairs to fetch Mira and the child.
+
+Sylas was deeply worried. The butler didn't have his iconic cool and poised demeanor as he hurried down the hall.
+
+Soon, Mira entered the room, carrying Lily.
+
+The Magistrate immediately moved closer to the maid. He reached out, preparing to remove the little frilly cap Lily was wearing to examine her ears.
+
+Lily, on the other hand, would naturally be bothered by a stranger touching her clothes, but she was far more distracted by the Magistrate's shiny, gold-rimmed spectacles. This was her chance. Sylas was always too tall for her to reach his glasses, but this man was leaning right down, practically offering them to her. She reached out two chubby hands, attempting to grab the shiny metal frames off his face.
+
+The Royal Examiner carefully batted her hands away, pulled the cap back, and pushed the silver hair away from her ear. It was perfectly, undeniably round.
+
+He stepped back, turning to face the Crown, offering his preliminary findings. "From the physical examination, Your Majesty, I conclude she is human. The only thing of note here is her hair color, which is commonly found amongst elves. However, it is a known fact that in the nations of the West, silver, white, or black hair is common among humans. Lord Fenris hails from a foreign land; hence, this cannot be used as definitive proof of elven heritage."
+
+The court murmured in agreement. It was true. Their own Queen hailed from the Western Lands and possessed lush black hair, a trait unseen in native Dolarians.
+
+Lord Greenwood did not stay silent. He stepped forward, his face flushed.
+
+"But My Lord Magistrate," Greenwood argued hotly, "there are documented cases of rounded-ear half-elves! A proper magical check through an elven servant should be conducted. Elves have a magical connection, a way to know their own kin. That is the standardized testing protocol for disputed lineage!"
+
+The Magistrate scowled, clearly not pleased with Greenwood butting into his official findings. "Did I say I was done examining? I was just offering the physical findings as I proceed. Lord Greenwood, I suggest you mind your tongue until the examination is complete."
+
+Greenwood fumed at the reprimand. His face turned visibly red. In truth, he had acted purely on the fact that the girl had silver hair and the vague rumors his spy had purchased. He hadn't personally confirmed it with a magical test. It was heavily implied; Ren never allowed any elves not contracted to him near Lily, nor did the staff. Keeping her isolated was proof enough for Greenwood.
+
+The Magistrate brought forth one of his assistants, a young, nervous-looking elven man wearing the robes of the Mages' Guild. The Magistrate ordered him to examine the child and test her for a shared bloodline.
+
+The young elven mage bowed deeply. He reached forward and gently touched Lily's small hands.
+
+A shocked, wide-eyed expression immediately crashed over the young elf's face.
+
+The expression was confirmation enough for Greenwood. The fat noble was just about to speak, to claim his victory, but he was cut off by the young elf.
+
+"This child is human," the young elf announced, his voice ringing loudly in the silent room. "She shares no elven lineage whatsoever."
+
+Everyone in the room was incredibly confused.
+
+Ren felt his throat dry up. Greenwood stared at the elf, his jaw dropping open.
+
+No one was more shocked than the young elf speaking the words. He couldn't seem to believe the sounds coming out of his own mouth. He was looking around wildly, confused and utterly baffled at the words he was currently saying. He looked like a puppet on invisible strings.
+
+But to the court, that was proof enough. What mattered was the official result spoken aloud, not the panicked expression of the one performing the test.
+
+The Magistrate turned to the King and announced, "The claims brought forth by Lord Greenwood have been entirely disproven. The child is completely human."
+
+Ren mentally scrambled for an explanation. Ana, what is going on here? Why did he lie?
+
+[Ana: Remember the hypothetical conversation we had about which would win? Lily's innate biological control or the magical control of a contract? It appears the innate control is vastly superior. It completely overwhelmed his mind and forced him to speak. This explains the old legends of elves not being able to be controlled if a High Elf exists. No wonder the human kingdoms got rid of all the High Elves they could find. A single High Elf can free a contracted servant and command them instantly if they want to.]
+
+Lord Greenwood, on the other hand, was having an internal, indignant meltdown. He pointed a shaking finger at Ren.
+
+"This is a setup!" Greenwood roared, abandoning all decorum. "A deliberate ploy to trap me! Just like him inviting me this morning, just to humiliate me, knowing full well Your Majesty was arriving today! That child must not be his! He must have replaced the half-elf with a human decoy!"
+
+Greenwood was grasping at straws, sounding like a lunatic.
+
+The Magistrate sighed heavily. He pulled a small crystal from his robes and cast a quick, standard magical spell to check for immediate, biological lineage.
+
+The spell activated instantly. An infinite, glowing red line formed, connecting Ren's chest directly to Lily's.
+
+Lily particularly enjoyed the glowing string of light. She reached out, trying to grab the red beam, leaning heavily toward her Papa, wanting to go to him.
+
+Greenwood, seeing the undeniable proof of paternity, was about to spout more nonsense, desperately trying to save face.
+
+Ren interjected smoothly. "I didn't invite you, Greenwood. You invited yourself."
+
+Ren took the piece of ornate parchment from his pocket—the letter Sylas had handed him earlier that week—and handed it to the Magistrate.
+
+"Who in their right mind would invite a minor lord for a business meeting on the exact same day the King is scheduled to arrive?" Ren asked the room at large. "The letter shows clearly he invited himself. Everyone in the kingdom knew His Majesty was coming to my estate today, so I thought this letter must be a clerical mistake. But to my surprise, the man actually showed up at my door just before the arrival of the King."
+
+Ren looked directly at Greenwood, his voice dripping with false sympathy. "To protect the dignity of the Royal Family from such an inappropriate intrusion, I had him removed from the premises. I was holding this information back, as I do not like to cause drama, but sir, you have slandered me and my family enough. I shall not stay silent about your misgivings any longer."
+
+Greenwood was cornered from all sides. He stood in the center of the room, sweating profusely, just waiting for the heavy hammer of royal justice to fall.
+
+The King was quite pleased with this entire situation. Seldom did he ever get a powerful, annoying member of the Old Circle served up to him on a silver platter like this.
+
+The King didn't hesitate to capitalize on the opportunity.
+
+"You will pay reparations to Lord Fenris," King Augustus commanded, his voice echoing with absolute authority. "A sum equal to the value of three elven villages. Furthermore, you shall pay three times your standard tax rate for the following ten years to the Crown for the severe discourtesy and disruption you have shown my family today."
+
+It was well known that what nobles held most dear were their personal elven villages. It was among their most prized possessions, a symbol of extreme prestige and wealth that cost an astronomical amount of money to maintain. One village was worth more than Greenwood’s entire capital estate itself.
+
+To pay reparations equal to the value of three villages was to pay three times the value of his own primary estate in pure gold. It was an astronomical, crippling amount of money. It was financial ruin.

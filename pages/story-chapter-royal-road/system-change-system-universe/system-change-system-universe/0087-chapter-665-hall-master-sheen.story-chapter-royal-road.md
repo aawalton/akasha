@@ -1,0 +1,139 @@
+---
+id: 381b40c5-c14b-5bac-bd5b-dcde350ccc8b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 665: Hall Master Sheen"
+slug: 0087-chapter-665-hall-master-sheen
+partOf: system-change-system-universe
+position: 87
+ownLength: 2132
+unit: words
+publishedAt: 2026-07-09
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3655220/chapter-665-hall-master-sheen"
+royalRoadId: "3655220"
+---
+
+Chapter 665: Hall Master Sheen
+
+"Hall Master Sheen," Alex said as he swallowed audibly and bowed his head once again. "Derek is a friend of mine and a guest. Does that not mean that he is a guest of our clan and should be treated as such?"
+
+Inwardly, Derek nodded at Alex's willingness to risk offending someone who was apparently highly ranked in the clan for him. Whether he really considered Derek a friend or was just doing so because of their oath—or even because Derek saved him—he wasn't entirely sure. But he wasn't going to question it. He wasn't afraid of answering a few questions, and he always had the guest pass to Origin City that he thought could help get him out of a bind if needed.
+
+"Young Alex..." Hall Master Sheen gave the young man a genuine smile. "While that is normally the case, there are circumstances in which we must alter the way we treat guests. The current circumstance with the Grimshaw Clan is one of those circumstances. I am afraid that the timing of his arrival and meeting you is just too coincidental for us not to question it. Besides, before you learned that your escort was questioned, were you not dissatisfied with how you thought we handled the situation?"
+
+"That..." Alex started, but paused. Derek glanced at the captain and saw that he was fidgeting uncomfortably. After a minute of thinking, Alex spoke again, "But this is different." He said that, but he didn't really have that much confidence behind his words.
+
+"It is different, but not different enough," the shining man said as he looked past Alex at Derek once again.
+
+Derek shrugged, then stepped forward. He put his hand on Alex's shoulder and pulled a bit. "It's fine," he said. "What do I have to hide, anyway?" Alex jumped when he was grabbed, but calmed quickly. He turned to Derek and gave him an odd look, then sighed and stepped back behind him. The only question is how much of a young master should I be right now? he thought as he made a plan. More eccentric is usually better in situations like this... but not terribly so.
+
+"So, you are Derek Hunt? You saved Alex on the desolate Battlefield Planet," the man asked and stated while Derek was thinking.
+
+"Yeah. That's me. And yeah... pretty much," Derek bowed slightly before answering casually. He wasn't part of their clan, and while he wasn't planning to be disrespectful—at least not too disrespectful—he figured that if he was going to end up playing the Davenresh card, he'd need a little arrogance to go with it.
+
+"Good... good," the man said. "Well, Mr. Hunt. Welcome to House Loomis."
+
+"Yeah..." Derek replied. "Thanks for having me. So far, it hasn't been bad. I like the way you do things."
+
+"That is reassuring," the man said. "Now, may I ask you some questions?"
+
+"Go ahead," Derek said.
+
+"First... will you accept or give an oath to make things easier on both of us?" Hall Master Sheen asked with his grin.
+
+"Not a chance," Derek answered bluntly.
+
+"How about a contract, then?" the hall master asked.
+
+"Nope," Derek replied.
+
+"I see..." the man replied, then after a moment, he chuckled and looked at Alex. "Boy! You should be more like your friend. Oaths and contracts are horrible, horrible things and should not be accepted without proper due diligence."
+
+"Just like my mom used to say," Derek replied.
+
+"Ah, your mother?" The man latched onto what Derek said. "Would she perhaps be someone that I might know? She seems like a smart woman. Are you and she members of the Hunt Clan? They are quite far away from here, so I don't want to assume."
+
+"Oh, no," Derek said, shaking his head. Inwardly, he thought, Of course there is a Hunt Clan somewhere in this universe. It's not like my name is very uncommon. "Unfortunately, my mother passed..." he looked up and counted, not taking into account the time he spent in the void. "Somewhere around a decade or so ago. She was a contract specialist and taught me never to agree to anything without, as you said, proper due diligence."
+
+"I am sorry for your loss," the man said, and he seemed genuine in it. However, he'd seemed genuine most of the time they'd been in the room, so Derek took it with a grain of salt. "May I ask how she passed?"
+
+"That... is personal," Derek replied. "But if it may buy a little goodwill..." he'd talked about his mother multiple times before, as contracts had come up often while he was in Cydaria. And after speaking to Alanah, then Rayna and the others about his family, it was a lot easier than it had been before. Besides, he didn't plan on going into too much detail. "Honestly... it was just a tragic accident. Just got caught up in a sort of rampage by a man who'd willingly altered his mind. It was so sudden that nothing could be done."
+
+"I see... I am sorry," the man said again. "And this man?"
+
+"Was punished," Derek answered bluntly. That was all he was going to say about the drunk driver.
+
+"That is good," the man replied. "I am sorry for dredging up such memories. It is unfortunate that drugs and even some particularly strong dwarven brews are able to do that in the System Universe. It happens far too often."
+
+"It is..." Derek said with a shrug. "But I am here in your city on your planet, and during a weird time, it seems. So I'll answer what I can."
+
+"Interesting," Hall Master Sheen chuckled. "You are such an interesting fellow. Standing before a Mid-Ranked Ascendant without an ounce of fear. Your answers are straightforward, yet not overly respectful." The bearded man touched his chin.
+
+"Oh?" Derek's eyes widened just a bit, but he still didn't show any fear. "In that case, I wish you luck on becoming a High-Ranked Ascendant and eventually Transcending."
+
+That caused the man to break out in a fit of laughter. "Nobody has said that to me in centuries—maybe even a millennium. I'm afraid I'm at my limit, but thank you for the laugh."
+
+"Well, that's stupid," Derek replied, which caused the already silent room—other than the man's laughter—to fall even more silent, especially since the man's laughter died on his breath.
+
+"What did you say?" he asked, his grin still there, but something else was in his eyes.
+
+"Isn't it, though?" Derek asked with a shrug. "As far as I know, the only real limit is when you become a Transcendent or stop working to get better. Of course, if you are comfortable and content with being a Mid-Ranked Ascendant, then I'm sorry for my words. But I can't see someone who has already struggled to get to that rank being content stopping there. You never know until you try, after all."
+
+"Young man... I have tried for countless years. I believe I know when I'm at my limit," Hall Master Sheen said. However, whatever danger had flickered in his eyes before was gone, and his smile was genuine once again.
+
+"If you say so," Derek replied with a shrug. "If it were me, I'd just try again for countless more years... and then do it again if that didn't work. I mean... not to be rude, but don't you have the time?"
+
+"Countless more years... and then again," the man rubbed his chin, then ran his hand down his beard a couple of times. "You are quite the blunt fellow," he finally said. "But I will take what you said into consideration. For some reason, I suddenly have an urge to meditate on my affinity. It has been quite some time since I've felt that." He shook his head and laughed again.
+
+"Glad I could help," Derek replied nonchalantly. He'd pushed a bit harder than he'd originally planned because he felt he was safe—especially with how Alex had reacted when he saw the guest pass. But also, even in the short time that he'd been studying the Ascendant before him, he'd never felt any ill will. He'd also not felt the man try to use an identifying skill on him—though it could have just been that he was so high above Derek that he couldn't have felt it even if he wanted to.
+
+"He's glad he could help!" Hall Master Sheen threw his head back in laughter and continued for several minutes. By the time he finished laughing, he looked down and showed that he'd been laughing so hard that he had tears in his eyes. "Whew... twice... I haven't had a good chuckle in such a long time, yet I have twice within the same hour today. What a truly interesting fellow you have brought to the clan, young Alex."
+
+Alex shifted uncomfortably and looked at the floor instead of saying anything. In fact, other than Derek and the hall master, the other two looked like they wanted to be anywhere else but there at the moment.
+
+"Alas, I still must question you," the man said. "I am sorry that we have gotten off topic."
+
+"Don't be," Derek said. He then paused for a second and flicked his wrist. A mug full of steaming coffee appeared in his hand. He transferred it to the opposite hand, then did it again. "Thirsty?" He stepped forward and held the coffee out to the man—it was only a foot or so away from his face.
+
+"Thirsty?" The man stared blankly at the cup. He was stunned silent.
+
+"He's insane," the captain muttered, unable to control his whispered comment. He quickly covered his mouth.
+
+Unconsciously, the hall master reached out and took the offered cup. Derek nodded, then brought his own up to his lips. It seemed like the man mimicked Derek on reflex, then broke out of his shock, and his grin grew wider. "I haven't had a cup of mundane coffee in... ages," he said. "It does bring back some memories. Thank you for the beverage."
+
+"No problem," Derek replied, glad that the system still translated the brew as coffee for him. "Interrogations... uhm... questions seem to go down easier with something good to drink."
+
+"Yes... they do," the man said, taking another sip and then sighing. "I honestly don't even want to question you any longer, but I still must."
+
+"Do what you've got to do," Derek replied.
+
+"How do you know House Grimshaw?" he asked.
+
+"I don't, really," Derek said. "Barely even heard of them." Derek turned to Alex and asked, "Does Nikolai count as a member of House Grimshaw?"
+
+"Uh..." Alex blinked a few times before realizing that he had been asked a question. Finally, he answered, "Not officially... but he could be considered sort of related to them, I guess... considering his position."
+
+Derek nodded and then turned back to the hall master. "I killed someone sort of related to House Grimshaw. His name was Nikolai. He was an escort for one of them. We fought. He died. I lived." He took a sip of coffee.
+
+"Nikolai?" The hall master didn't act surprised, and his facial expression never changed. Still, he touched something on his counter, and the holo-screen came back up. After some inputs, he closed it, then looked at Derek with a frown. It was the first time his facial expression had changed like that. "The Nikolai that I'm seeing in our database is an erosion user above level 300."
+
+"Sounds like him," Derek replied.
+
+"But it is suspected that he was even evolved," the man said.
+
+"I can confirm that," Derek replied.
+
+"But you are only in the mid-200s," he said.
+
+"Yeah," Derek said. "It was a tough fight. Some people get too cocky, and some people get lucky. Can you believe the arrogance of some people?"
+
+Again, the man almost burst into laughter, but he was able to hold back this time. After centering himself for a moment, he said, "But still... you are saying that you defeated this escort? What about the other escort who is rumored to have gone with the Grimshaw boy? And the Grimshaw boy himself?"
+
+"The fish guy?" Derek asked and shrugged. "He didn't make it."
+
+"Fish? He... didn't make it?"
+
+"Nope," Derek said. "He wasn't nearly as strong as Nikolai, and we had another friend there who took care of him," he continued. "As for the Grimshaw guy... ask Alex. He's the one who took care of him."
+
+"Alex?" The man looked past Derek to the sweating Alex. "Speak," he said bluntly.
+
+Derek heard Alex audibly gulp, then the young man said, "Uh... yes... um... I was able to land a killing blow on Davis Grimshaw. I was also lucky."

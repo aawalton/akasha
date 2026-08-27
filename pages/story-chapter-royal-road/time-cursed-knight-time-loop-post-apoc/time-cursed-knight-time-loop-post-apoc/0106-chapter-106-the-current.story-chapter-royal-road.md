@@ -1,0 +1,293 @@
+---
+id: baa47d88-484c-5599-a408-7b67288f97e5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 106: The Current"
+slug: 0106-chapter-106-the-current
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 106
+ownLength: 2765
+unit: words
+publishedAt: 2026-08-11
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3801006/chapter-106-the-current"
+royalRoadId: "3801006"
+---
+
+We departed through Qalathar's eastern gate at dawn the following day.
+
+Twelve riders. Eight pack horses loaded with water containers, provisions, and equipment. Two scouts on point, two on the flanks. Tarek and Farhan rode side by side at the front of the column, their heads turning in synchronized arcs as they read the terrain.
+
+I rode near the center.
+
+The first day passed in silence and heat.
+
+We covered thirty kilometers by my estimation. The dunes were low, the sand compacted, the terrain flat enough that the column maintained a steady pace without hardship. The caravan route markers, stone cairns placed at intervals by the staging companies, appeared every few kilometers, thin fingers of stacked rock pointing upward.
+
+The markers ended at midday.
+
+Farhan didn't slow. He guided us past the last cairn without a glance, his eyes fixed on something I couldn't see, navigating by the invisible architecture of the desert's mana field.
+
+I ran Mana Perception at idle throughout the march. The ambient mana was thick, thicker than in Qalathar itself.
+
+The Founder's work. Two hundred years old and still holding.
+
+By late afternoon we made camp in the lee of a dune ridge that offered shelter from the evening wind. The scouts established a perimeter. Voller posted watches. The mercenary woman — Breit — climbed the ridge with her longbow and sat at the crest, scanning the horizon in all directions.
+
+She came down after twenty minutes.
+
+"Nothing," she said.
+
+I looked at her.
+
+"Nothing at all," she repeated. "No movement on the horizon. No silhouettes. No dust signatures." Her expression was flat. "In the Empire's southeastern scrublands, you can't stand on a rise for ten minutes without seeing something move."
+
+The Titans had been hitting Qalathar constantly. They had to come from somewhere. They had to cross the territory between their origin and the city.
+
+We should have seen something.
+
+A distant shape on the horizon. A tremor in the sand. Even at great distance, even as silhouettes against the pale sky, the passage of something that large should have left a trace.
+
+Nothing.
+
+Where are they coming from?
+
+What we did find was smaller.
+
+Earlier that afternoon — an hour before we made camp — a sound rose from a depression ahead of the column. A buzzing that climbed in pitch until it vibrated in the jaw. Voller's hand went up. The column halted. The scouts drew weapons.
+
+"Formation!" I called. "Wedge left and right, protect the pack line!"
+
+The riders split. Knights and scouts fanned to either side of the horses in a practiced spread, shields unshouldered, blades clearing scabbards in a single coordinated rasp of steel on leather.
+
+They came from the depression in a swarm.
+
+Desert locusts. But the word did them no justice. Each one was the size of a dog. Thorax thick as a man's thigh, wings that spanned a full meter, mandibles of chitin the color of old rust.
+
+Forty of them. Fifty. Rising from the sand in a cloud that darkened the air.
+
+The first one hit Voller's shield before anyone moved.
+
+The impact knocked him sideways. The locust's mandibles clamped on the shield rim and sawed, and the sound of chitin on metal was the sound of a knife being sharpened on stone, amplified tenfold. Voller drove his sword into the creature's neck joint and the head came free trailing greenish fluid.
+
+"Goddamn bugs," Voller spat, shaking the ichor from his blade. He slammed the shield into a second locust that had locked onto the rim and sent it tumbling.
+
+The swarm descended.
+
+I drew my blade and cut the nearest one out of the air mid-lunge.
+
+The bastard sword's edge caught it between the thorax and the abdomen, and the two halves separated with a wet crack, spilling something dark and acrid onto the sand.
+
+The swing had been too fast.
+
+The blade had left the scabbard and completed the arc before my mind had finished deciding where to aim. Muscle and steel moving in a loop so tight that the gap between intent and execution had compressed to almost nothing.
+
+That's new.
+
+The Mana Breath surge carried through my arms and the next swing took two more. One bisected at the wing base, the second split from mandible to tail. The edge didn't catch on the chitin. It passed through. The resistance I'd learned to expect from armored joints, the fraction of a second where the blade bit and held before punching through, was gone. The sword moved as though the creatures were made of wet clay.
+
+I pivoted and a third locust died before it cleared my shoulder line, the blade reversing in a backhand arc that took its head and thorax apart in a single stroke.
+
+Body Reforging.
+
+I'd known the change was real. I'd felt it in the stamina that refused to break.
+
+Yet, this was the first time since the cell that I'd swung a sword at something that was trying to kill me.
+
+A locust dove at my face. I didn't dodge. I stepped into it and the pommel crushed its head with a short, sharp strike that felt like flicking a coin off a table, and the carcass spun away trailing legs and fluid.
+
+How much stronger am I?
+
+I didn't know. The locusts were too easy a measure. They were fast and armored, but they were insects. I needed something bigger. Something that hit back.
+
+Around me, the team moved with the efficient brutality of people who had spent their careers killing things.
+
+Breit's longbow sang. Each arrow left the string wreathed in a faint shimmer. Mana channeled through her fingertips into the shaft at the instant of release, the energy flooding the arrowhead and compressing into a point of concentrated force that punched through chitin the way a normal broadhead punched through cloth.
+
+It wasn't a spell.
+
+There was no matrix, no Circle scaffolding, no incantation. It was something simpler and harder: the raw discipline of feeding mana into a moving object in the fraction of a second between the string leaving her fingers and the arrow leaving the bow.
+
+I had read about it.
+
+A technique that predated the Academy, practiced by a handful of archers in the frontier kingdoms who had trained since childhood and who could do with a bowstring what most mages needed a staff and three seconds of preparation to achieve.
+
+The scar-browed mercenary — his name was Ganz — waded into the thickest part of the swarm with his twin short swords working in overlapping arcs, each stroke precise, each cut final. Chitin fragments and wing membranes sprayed around him in a halo of debris.
+
+Tarek fought with a curved Sultanate blade and a small round shield, his footwork compact, his cuts economical. Farhan stood behind the pack horses and kept them from bolting, his hands on the lead ropes, his voice low and steady.
+
+It was over in three minutes.
+
+The sand around the depression was littered with segmented corpses. The greenish fluid soaked into the ground, leaving dark stains that smelled of rot and copper.
+
+Nobody was injured.
+
+Voller cleaned his sword on a rag and looked at the bodies.
+
+"Mana mutants," he said. "Common desert fauna, scaled up." He nudged a severed mandible with his boot.
+
+But I was looking at the depression they'd emerged from. At the sand. At the residual mana that clung to the ground where the swarm had nested.
+
+Something that lay beneath the desert's baseline like a current beneath a river's surface, moving, directional, flowing steadily north.
+
+I said nothing about the current. At dawn we broke camp and moved on.
+
+The second and third days passed without incident.
+
+The terrain changed. The flat, compacted sand of the first day gave way to rolling dunes, higher and steeper, their crests sharp as knife edges where the wind had carved them. The caravan route was a memory. Farhan navigated by the mana density alone, making corrections every few hours based on readings I couldn't perceive without opening my own perception wide enough to drain my concentration.
+
+The heat was constant. It pressed down from above and radiated up from below and wrapped the body from both directions. Water consumption climbed. The ceramic containers strapped to the pack horses emptied at a rate that Voller tracked with the methodical attention of a man who understood that water was the only currency that mattered in the desert.
+
+No Titans.
+
+No movement on the horizon. No tremors. No silhouettes.
+
+On the second night, I climbed the nearest dune ridge and stood alone, scanning the desert in every direction.
+
+The mana field stretched in all directions. I could feel the individual grains of sand beneath my boots, each one holding its tiny charge, each one contributing to the vast collective field that had kept the elves at bay for two centuries.
+
+And beneath it, faint but persistent, the current.
+
+North-flowing. Deep. A river of mana running through the bedrock beneath the desert floor, invisible to anyone who couldn't feel it.
+
+Something is feeding it, I thought.
+
+On the third evening, Farhan came to me while the camp was being set.
+
+"Tomorrow," he said. His Imperial was halting but serviceable. "We reach the edge."
+
+"The edge of what?"
+
+"The desert." He gestured eastward, where the dunes rose to their highest point and the sand took on a reddish tint in the dying light. "Beyond the last dunes, the ground changes." A pause. "The first territory without a flag."
+
+Unaffiliated territory. Wild land. The border between the Sultanate's domain and the unknown east.
+
+I looked at the map Tarek had sketched. The settlement clusters were behind us. Ahead, the map showed nothing.
+
+"What's there?" I asked.
+
+"I don't know," Farhan said. "Nobody goes past the edge unless they have to." His dark eyes were steady. "The mana is different there. Things grow in that ground that don't grow anywhere else."
+
+He left to tend the horses.
+
+I stood at the edge of camp and watched the eastern horizon darken.
+
+We're close.
+
+On the morning of the fourth day, the wind changed.
+
+I felt it before the scouts called it. The ambient field, which had been dense and uniform throughout the march, developed a texture. Shifts in concentration that rippled through the air like currents in water, each one carrying a directional signature that pointed north.
+
+I raised my hand.
+
+"Stop."
+
+The column halted. Twelve riders, eight pack horses, the creak of leather and the soft clink of equipment settling.
+
+"Something wrong?" Voller pulled alongside me.
+
+"Mana."
+
+He frowned. Voller was a competent soldier and a decent mana practitioner. His perception was functional but blunt, the equivalent of seeing shapes through frosted glass where I could read individual letters.
+
+"I feel the usual," he said. "The sand saturation."
+
+"Underneath it."
+
+He closed his eyes. His brow furrowed. Ten seconds. Twenty.
+
+"There's — something," he said slowly. "Heading north."
+
+"It's been there since the first day," I said. "It's getting stronger."
+
+Voller opened his eyes. The look he gave me was the look of a man who had just realized the commanding officer had been tracking something for three days without mentioning it.
+
+"How much stronger?" he asked.
+
+"Too much to be normal."
+
+I dismounted.
+
+"We go north from here," I said. "Farhan takes point. Keep the pack horses tight. No loose formation. Single column, weapons accessible. Whatever's generating this current, we're riding toward it."
+
+The column reorganized. Farhan moved to the head with Tarek beside him. The scouts tightened the flanks.
+
+We crested three dune ridges. The sand thinned with each one, giving way to patches of hardpan and finally to rock. Reddish stone that crunched under our horses' hooves.
+
+Then the dunes fell away entirely, and the desert opened onto something I had not expected.
+
+Green.
+
+Grass. Actual grass, thick and knee-high, rippling in the hot wind across a plain that stretched north and east as far as I could see. Low trees dotted the landscape in clusters, their canopies broad and dark, throwing circles of shade onto ground that was not sand but soil. Rich, dark, wet soil.
+
+The column stopped without being told.
+
+Voller pulled his horse alongside mine. He stared at the grassland with the expression of a man who had opened a door expecting a closet and found the sea.
+
+"That shouldn't be here," he said.
+
+"This was not here," Farhan said. His voice came out thin. "Two years ago. When I came with the geological survey. This was sand. All of this." He swept his arm across the plain. "Rock and sand and nothing."
+
+I opened Mana Perception wide.
+
+The field hit me like a wall.
+
+The ambient mana concentration in the grassland was three times what it had been in the deepest part of the desert. Four times. The soil was saturated. The grass was saturated. Every tree, every blade, every root system running through the earth was gorged on mana.
+
+Something is pumping mana into it.
+
+We descended from the last ridge of rock and sand onto the grass. The horses' hooves sank into soft ground. The temperature dropped by several degrees as the vegetation closed around us, the shade of the low trees and the transpiration of the grass pulling the brutal heat down to something almost bearable.
+
+The column moved in silence. Even the horses were quiet, their ears swiveling, their steps careful on the unfamiliar ground.
+
+Half a kilometer in, the terrain broke.
+
+A ravine cut east to west across our path, its walls dropping eight or ten meters to a flat bottom where a river ran. Dark water, slow-moving, its surface glinting in the sun. Vegetation choked the banks. Dense undergrowth, vines thick as a man's wrist, flowering plants in violent reds and purples.
+
+Beyond the ravine, the grassland continued, but thicker now, the trees taller, the canopy closing overhead in places to form tunnels of green shadow.
+
+I dismounted at the ravine's edge and knelt.
+
+The water moved below. Dark and smooth and deceptively calm.
+
+The sensation hit me.
+
+The river was not water. It was water and something else. Something saturated so deeply into the liquid that the two had become inseparable. Mana. A density I had never felt in any natural source.
+
+The underground current wasn't beneath the river.
+
+The river was the current.
+
+The mana I'd been sensing through hundreds of kilometers of desert bedrock was this water, filtering down through the earth.
+
+I pulled my hand back from the edge.
+
+"There," Tarek said, and pointed.
+
+Half a kilometer downstream, on the far side of the river, a structure rose from the broken ground.
+
+It was old. Pre-portal old. The unmistakable bones of the ancient civilization. Reinforced concrete walls, steel framing visible where the concrete had crumbled. A factory, or a processing plant, or a facility of some kind that had been built when the world ran on electricity instead of mana and that had stood, empty and decaying, for seven centuries.
+
+The roof was partially collapsed. One wall had fallen outward in a slide of rubble that reached the riverbank. The remaining walls were stained dark with mineral deposits and veined with the pale roots of something that had grown into the concrete and cracked it from inside. Vines had swallowed the eastern face entirely, a curtain of green so thick that the concrete beneath was visible only where the growth had split and curled away from the structural steel.
+
+I stared at it.
+
+The mana current ran directly beneath it. Through it. The structure sat on top of the underground river like a dam on a watercourse, and the concentration of energy at that point was intense enough to make my teeth ache.
+
+"Hold," I said.
+
+Everyone stopped.
+
+Breit had her longbow in her hands, an arrow nocked but not drawn. Ganz's hands rested on the pommels of his twin swords. Voller had his shield unslung and his sword half-drawn.
+
+They weren't looking at the building, but at the soldiers.
+
+Figures moved around the structure. Small at this distance — the size of ants — but unmistakable. Human shapes, walking in patterns that were too regular to be casual, too structured to be civilian.
+
+Patrols.
+
+They moved in pairs along the building's perimeter, each pair maintaining a fixed distance from the next.
+
+The uniforms.
+
+Even at half a kilometer, even through the shimmer of heat rising from the stone, I could see them. The cut. The color. The insignia on the shoulders and the breast.
+
+Imperial uniforms.

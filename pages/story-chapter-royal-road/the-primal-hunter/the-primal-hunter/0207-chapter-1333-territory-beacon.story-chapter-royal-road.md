@@ -1,0 +1,177 @@
+---
+id: 6f25d719-63a4-549a-9dd8-351e254d8c26
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1333 - Territory Beacon"
+slug: 0207-chapter-1333-territory-beacon
+partOf: the-primal-hunter
+position: 207
+ownLength: 2760
+unit: words
+publishedAt: 2026-06-12
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3529701/chapter-1333-territory-beacon"
+royalRoadId: "3529701"
+---
+
+Jake had truthfully been a bit disappointed with the bonuses his Chief Administrator title had offered so far. Besides getting a sweet ring upgrade, he hadn’t really gained much more, at least not compared to everything that had gone into gaining the title. From the very first Myriad Paths event to beating the Prima Guardian, Jake felt like the title should mean a lot more.
+
+Well, it turns out that all the functionality of the Chief Administrator title was expressed through this Territory Beacon. The moment Jake opened the menu, he felt a flood of information and possibilities enter his mind, along with yet another system message offering him some valuable information.
+
+Welcome to the Territory Beacon control station, Chief Administrator of the Milky Way Galaxy Seat of the Exalted Prima. The Territory Beacon serves as the center of your Territory, allowing you to influence it and those who are considered part of your Territory.
+
+Influencing the Territory consumes a unique currency of the World of the Exalted Prima known as Prima Credits. Initial starting Prima Credits granted based on your galaxy’s performance in prior Exalted Prima-related system events.
+
+Go forth, Chief Administrator, and prove that the Milky Way Galaxy is worthy of its high initial evaluation.
+
+There was already a lot to unpack, and the system wasn’t even close to done as several menus popped up in front of him, each with drop-downs showing way too much information at once. He quickly closed many of the drop-downs, leaving him with just three overall categories and the amount of Prima Credits available.
+
+Menu Selection:
+
+Territory Manipulation
+
+Construction
+
+Materials
+
+Warfare
+
+Available Prima Credits: 125,093
+
+First of all, that didn’t feel like a lot of Prima Credits, probably because Jake had way too many real Credits. In reality, it probably was a lot of currency, but having no one to compare to, Jake naturally had no real way of knowing. For now, he would just assume it was a decent amount, especially given that the system mentioned his galaxy’s initial high evaluation.
+
+Also, when he asked how one would even earn more Prima Credits, the menu responded with another message.
+
+Prima Credits (PC) are earned through different actions within the World of the Exalted Prima, and Credits will automatically be granted daily, dependent on the total area controlled by the Territory Beacon.
+
+Destroying another Territory Beacon will grant Prima Credits dependent on its total area controlled. Prima Credits can only be used by the Chief Administrator or those he has granted access to the Territory Beacon’s controls. All Prima Credits earned by members of the Milky Way Galaxy Territory are automatically granted to the Territory Beacon.
+
+Daily Territory Income: 10,000 PC
+
+Daily Territory Upkeep: 0 PC
+
+Jake turned to look at Miranda, who, by the looks of it, had also received some system messages. She noticed his look and nodded. “I believe you just triggered quite the information dump for all of us. Not sure if it differs from what you were told, but...”
+
+Miranda let Jake know that they more or less got the same message as Jake, though theirs differed slightly, leaning more into the importance of earning Prima Credits for the Territory.
+
+In part to see if he could, Jake tried granting Miranda access to the Territory Beacon, and fortunately, it was incredibly easy: he simply had to express his intent, and the system responded to his will. Given that, he also assumed he could grant others more limited access, but he would leave decisions like that primarily to Miranda.
+
+“Hm, this is a lot,” Miranda muttered, not caring at all about the many curious Administrators who had enough sense not to speak up and disturb them. “Oh, that’s neat. Seems like we can see the same system menu.”
+
+Without thinking, Jake had tried manipulating the menu, which Miranda had surprisingly seen. Perhaps due to their proximity, the Territory Beacon had linked their menus somehow, allowing them to see the same thing as they interacted with it.
+
+“Let’s see what we can do,” Miranda said as she started with the top menu available. Territory Manipulation had been the only menu without any drop-downs initially, and Jake soon learned why, as the poor, simple-minded hunter felt overwhelmed again.
+
+Territory Manipulation had seemed rather vague. Wasn’t everything this Territory Beacon did manipulation? However, he quickly realized that in this case, the word manipulation was used in a very direct sense.
+
+Opening the menu option resulted in a massive three-dimensional map appearing in Jake’s head, showing the entire Territory with the Beacon in the middle of it. With little more than the intention to do so, he and Miranda could both change the landscape’s topography, terraforming everything as they so desired. Of course, any kind of manipulation had a Prima Credit cost associated with it, but just to test things out, Jake made a single large boulder appear not too far away from them. The minimum cost for any change also appeared to be 0 PC, as that was how much was consumed.
+
+The sudden appearance of a large boulder caused some surprise, and Jake quickly closed the menu as he went to inspect his new creation. Giving it a few knocks, he confirmed it was indeed just a regular boulder, which somehow felt weirder than if it had been some odd projection.
+
+Creating permanent matter wasn’t unheard of, but for it to be done so casually really felt like it hammered home the fact that this was a simulated world.
+
+Jake quickly went back to Miranda, and under the curious gazes of hundreds of Administrators the two explored the menus for the next few minutes, both concluding that there was a lot to unpack there.
+
+The Construction menu allowed them to design their own buildings and, given enough Credits, they could create an entire city in a mere moment. What’s more, they could construct special buildings with unique features; however, that function appeared locked off for now, perhaps because they were in the Preparation Phase.
+
+Next up was the Materials menu, and it was by far the most content-rich. It had a drop-down menu that seemed to go on forever, appearing capable of offering pretty much any item the heart desired. Fortunately, it also had a search function, and with it, Miranda and Jake quickly confirmed that it could provide even high-rarity materials. This included expensive alchemical products, but perhaps more importantly, catalysts for witch rituals and other formations that Miranda could use to fortify the defenses of the Territory Beacon.
+
+Assuming she even had to do that herself, because the Warfare menu certainly also took them by surprise with just how much stuff was in there. The Warfare menu had even more submenus, which were all, unsurprisingly, focused on battle in some way.
+
+“Defensive structures, barriers, formations, towers... recruitment?” Miranda muttered aloud.
+
+Jake was already way ahead of her as he opened the recruitment menu, which was exactly what one would expect. Still, Jake remained a little skeptical even as he spent 1 PC to recruit one Foot Soldier, the cheapest option available.
+
+The second Jake made his choice, energy appeared right off to his side. A blue figure manifested as if quickly assembled by small motes of light, the entire process taking less than five seconds. When it was done, a humanoid figure stood there in full, slightly futuristic-looking armor, wielding a metal spear with a glowing blue tip.
+
+“Reporting for duty!” the newly summoned being said in a slightly robotic voice while saluting Jake and Miranda.
+
+Miranda gave Jake a look before they both inspected the soldier, with Jake naturally using Identify.
+
+[Foot Soldier – lvl 300]
+
+The result was, honestly, as expected, and Jake could already feel now that this Foot Soldier was pretty much even for a creature on the borderline between mid and late-tier C-grade. Even the weakest Administrator present could easily kill the poor soldier, not that the new summon seemed aware of their own inadequacy.
+
+“I guess that isn’t the worst way to confirm how the recruitment system works,” Miranda muttered while looking at the Foot Soldier. “Soldier, what is your purpose and what can you do?”
+
+The Foot Soldier just stood there without reacting for a few seconds before speaking again:
+
+“Reporting for duty!”
+
+“I think we need to use that submenu to control... it? I think it’s an it?” Jake said, a bit perplexed about what he was actually dealing with.
+
+“Doesn’t this remind you of the Unnamed City scenario during the Administrator Test?” Kindroth finally found his shot to involve himself in the conversation. “Or at least that the Unnamed City scenario wanted to teach a lesson quite applicable here.”
+
+Miranda appeared perplexed for a second before understanding. “I see your point. I do believe part of that test was to hammer home that the simulation is not real, and neither are the “living” beings within it.”
+
+“They do seem to pretty much be NPCs, don’t they?” Jake asked, getting a confused look from Kindroth. It appeared that the Myriad Tongues skill didn’t give the poor guy a translation he understood, but Miranda came in for the rescue before he could ask for clarification.
+
+“Assuming we Administrators are considered players, I guess these summons would be non-player characters. They also appear to be about as smart as NPCs without any real personality,” she said, the subject of their conversation still just standing there unmoving like a good Foot Soldier. Or a bad one, dependent on whether one preferred soldiers that could think for themselves or not.
+
+“Exactly,” Kindroth nodded with a smile. “I do believe the Exalted Prima wanted to communicate that these NPCs, as you call them, shouldn’t be treated as real beings, but merely expendable assets to be used by us Administrators.”
+
+“This is really starting to feel like a real-time strategy game,” Jake sighed, shaking his head.
+
+“More like a 4X,” Lillian also joined the conversation with a shrug. “Maybe with a bit of tower defense mixed in, based on what I heard. Depending on the playstyle we want to adopt, maybe it could even be considered a MOBA? Though it does seem stupid and a waste of resources to send small squads of soldiers towards our enemies through pre-determined paths...”
+
+Poor Kindroth looked even more confused than before, with Miranda also looking at Lillian, clearly unsure what she was talking about, with Jake not making things better as he casually shrugged.
+
+“Well, we certainly need to defend our Ancient. Oh, sorry, Territory Beacon,” Jake said with a smile.
+
+Lillian responded with a knowing smile of her own as they both took slight pleasure in confusing everyone else present. Even William didn’t seem to understand everything, which did surprise Jake a little, though it also made him question what kind of life the young guy had led before the system, to not even have basic knowledge of video games. Then again, maybe he just hadn’t been a nerd.
+
+“Alright, sure, it’s a bit like a strategy game,” Miranda sighed as she gave Jake a sharp look. “Given your keen knowledge on the subject, I would have hoped you’d have thought a little before wasting Credits on a C-grade fighter. I’m not saying we couldn’t find a need for a C-grade, and I even spot a few formations and special defensive structures that could be useful even when used by C-grades, but perhaps hiring one now is a bit premature. Especially when considering the upkeep.”
+
+“Upkeep?” Jake asked, reminded that it was even a thing. Quickly, he checked out that part of the menu, and...
+
+Daily Territory Upkeep: 0.01 PC
+
+“Oh, come on, that’s nothing!” Jake said in protest. “In fact, I would argue the knowledge gained is more than worth spending a single Credit! We’ve learned that the daily upkeep of recruits is a hundredth of their initial cost. That’s good to know.”
+
+“And you’re sure that’s true for every recruit? Because if you looked a bit more closely, you could see that’s not always the case,” Miranda said, shaking her head. “Gotta focus on the options, and they give you more information.”
+
+Jake’s impulsiveness had really bitten him in the ass as he did as she said, focusing on one of the other recruitment options available, and, yeah, there was a lot more information than he initially thought.
+
+Combat Drone: Lightscourge Vulture
+
+The Lightscourge Vulture is an autonomous drone capable of firing powerful, concentrated beams of light imbued with the death affinity, making it an especially potent weapon against the living. Its defensive profile is also acceptable due to its ability to move rapidly and perform short-range teleportation. Can also be used for transportation for up to five average humanoid-sized beings at a time.
+
+Level: 360
+
+Cost: 1960 Prima Credits
+
+Daily Upkeep: 196 Prima Credits
+
+He had selected this one because its name struck him as interesting, and because it was one of the more expensive options available. The most expensive recruit they could get was 2680 Credits, and was also a level 360 mech of sorts, with a daily upkeep of 134 Prima Credits, which was for some reason a twentieth of its total cost.
+
+“You see?” Miranda asked. “But you are right, we can use this Foot Soldier to test one thing.”
+
+Turning to the Foot Soldier that still just stood there saluting, Miranda did something using her menu before speaking to the recruit directly.
+
+“Dismiss yourself,” she said in a commanding tone, and instantly, the Foot Soldier reacted as it spoke.
+
+“Dismissed from duty!”
+
+Without further ado, the Foot Soldier turned into blue wisps of energy once more before dispersing into nothingness. As this happened, Miranda kept checking something before sighing.
+
+“No refunds, huh?” she muttered. “But at least the upkeep is gone.”
+
+Jake checked, and yep, it was gone, and they were down to zero daily upkeep.
+
+Daily Territory Upkeep: 0 PC
+
+“Saved us a lot of dough right there,” Jake commented in a joking tone before letting out a loud sigh. “I’ll miss our new friend... may we meet again, Foot Soldier number 1.”
+
+“If you feel that bad, you can summon a new one,” Miranda chuckled, still busy looking through the menus. “Either way, there is a lot to go through here, and we should spend the next seven days as productively as possible. We also lack a lot of information, such as which neighboring Territories belong to whom. I hope it’s not the Andromeda Galaxy, as it would be annoying to get into conflict with the Holy Church immediately, but if we have to, we will.”
+
+“It’s not even sure we are directly connected to other Territories, could be that there is neutral ground between us,” Jake added.
+
+“True,” Miranda nodded. “Either way, we should focus on reinforcing our defenses and spend our Prima Credits productively for now. Defending the Territory Beacon is naturally our top priority, so that’s what I’ll focus on. Also, from the looks of these formations and ritual circles that we can buy directly, they all seem far too expensive. I believe it is wiser to buy the materials and perform the rituals ourselves and only rely on special formations if we absolutely need them. Hopefully, there are some that can reinforce my existing skills.”
+
+Jake couldn’t help but smile as he turned to Lillian. “Definitely does sound like Miranda is going to be playing a tower defense game. Or ritual defense game, I guess.”
+
+Lillian could only nod in agreement. “And I believe I’ll assist her as best I can.”
+
+“I already gave Miranda the ability to assign others some control over the Territory Beacon,” Jake said, throwing the witch a look. “I do believe you’re more qualified to handle whatever this thing can do than me.”
+
+“Don’t sell yourself short; I’m sure you could do perfectly well if you wanted to,” Miranda said, not sounding at all like she was joking. “But I agree, your skills are best spent elsewhere. The goal of this event appears to be the conquering of other Territories, after all, and I don’t believe there is a better person to do that than you.”
+
+“There, we are in complete agreement,” Jake grinned as he turned and looked to the side. “Speaking of... while we are supposed to be locked inside our Territory during this Preparation Phase, I believe nothing is stopping us from scouting along the edges and seeing if perhaps we can spot one of our dear neighbors. Maybe, just maybe... someone might even be in range.”

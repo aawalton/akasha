@@ -1,0 +1,157 @@
+---
+id: 1bc61ea3-43c9-5a16-8696-682c654cad01
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1143 - Mask & Bow"
+slug: 0015-chapter-1143-mask-and-bow
+partOf: the-primal-hunter
+position: 15
+ownLength: 2937
+unit: words
+ownProgress: 2937
+publishedAt: 2025-08-04
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2491521/chapter-1143-mask-bow"
+royalRoadId: "2491521"
+markedReadAt: "2026-06-29T19:29:44.113Z"
+---
+
+Jake wasn’t foolish enough to believe that he had timed his return from the Hunting Ground so well that he only needed to be back for a few days before the Primordial of Life reached out to him.
+
+Instead, they had likely been waiting for his return to begin the next phase of whatever they were doing. It had been made clear initially that the revival of the Fallen King wouldn’t be a quick endeavour, and Jake fully expected that they just needed him to continue the process.
+
+As for the bow, this would only be the beginning. Dina had evidently reached out to Nature’s Attendant, who had gotten the ball rolling, and Jake hoped it would be possible to source some raw materials directly from the Primordial. Of course, matters likely wouldn’t be that simple, as Jake wouldn’t be capable of using something containing Yggdrasil’s Records as a mere C-grade.
+
+Either way, time would tell. Artemis and Jake had headed straight toward the Primordial after the message was received, and it was quite evident the hunter goddess was even more nervous than the mortal C-grade. Jake was more excited than anything.
+
+“Do you still get nervous when visiting Yggdrasil?” Jake asked as they went through a teleporter.
+
+“You not being nervous is the outlier here, not me,” Artemis shook her head.
+
+“I’m just wondering why,” Jake shrugged. “Like, what’s the worst that can happen? I doubt she would call us there just to harm us, so no reason to be nervous about anything in that vein. So the only thing we really could be nervous about is what she’ll think of us once there. Seeing as I reckon she already knows you quite well, as long as you act normally, what can go wrong? Just don’t say anything weird or start spouting your most batshit conspiracy theories that you really shouldn’t ever mention to anyone, and things will be fine.”
+
+Artemis sighed. “You of all people should know that sometimes emotions can be irrational. This is one of those times. Also, now you got me curious about which insane conspiracy theories you’re hiding.”
+
+“Ah, sorry, we don’t have time to go over all of them before we get there,” Jake answered cheekily, as with one more teleport, they were within the influence of Yggdrasil’s aura.
+
+Once they were, the Primordial locked onto them both. Jake felt the subtle movements of space around him, and he didn’t resist as he was teleported one last time. Upon appearing again, the first thing Jake noticed was the change in the environmental mana. Right away, he knew they were back inside the Divine Realm of Yggdrasil.
+
+Feeling solid ground beneath his feet, Jake opened his eyes and found himself standing in a meadow in front of a singular tree that looked like a miniature Yggdrasil. One that gave off the full aura of the Primordial.
+
+Right next to him, Artemis instantly looked uncomfortable, making Jake unconsciously extend his own aura to protect her. She felt better right away and threw a thankful look Jake’s way right before a shift in the environmental mana caught their attention.
+
+This mana gathered into a female dryad, embodying the aura of Yggdrasil. She looked at both of them before speaking.
+
+“You came faster than I’d expected. Good. We are ready to move on to the next phase of the rejuvenation of the Unique Lifeform.”
+
+With a wave of her hand, the tree in front of them had its crown open up, revealing a familiar-looking figure within. Jake’s eyes opened wide as he recognized the Fallen King’s body.
+
+“Is that- “
+
+“Part of the vessel,” Yggdrasil answered. “However, the true body remains the mask on your face. For now, at least.”
+
+“What do you mean?” Jake asked with a frown.
+
+“In the process of the rejuvenation, the Records of the Unique Lifeform were laid bare before me. I saw the connection that had been forced between you two, and the karmic linkage both of you wish to be rid of. This is an opportunity to do just that. Only should you wish for your fates to be severed, that is,” Yggdrasil explained before finishing off with an offer that Jake hadn’t even thought about.
+
+In truth, he’d kind of forgotten the connection between himself and the Fallen King. It was an extremely one-sided bond they shared. One where Jake could forcibly summon the Fallen King to his side, snuff out his Truesoul with a mere thought, and the Unique Lifeform even found his own progress limited by Jake, not allowing him to evolve before Jake did. Worst of all, if Jake died, so would the Fallen King.
+
+Jake had never liked that this connection between them had been forced. He was a reckless person by nature, one who liked taking massive risks for equally massive rewards. Doing that while the life of another directly depended on his survival sucked. Sure, it hadn’t stopped Jake, but it had crossed his mind at times.
+
+For others, having a Unique Lifeform essentially bound to serve you would be something they would never want to get rid of. It was like having a pinnacle genius as your slave. To Jake, it was a horrible arrangement, though, and he knew that the Fallen King would have died sooner than it would have allowed Jake to treat him as a servant. Likely dying while trying to at least take off Jake’s head in the process.
+
+So being offered a chance to sever the chains binding them... it was an absolute no-brainer.
+
+“If you can make the Fallen King truly independent once more, please do so,” Jake said in a serious voice. “And if you need anything from me to make it happen, just ask away.”
+
+Jake was fairly certain severing his connection with the Fallen King would have some negative consequences. No, he didn’t consider the fact that the Fallen King had once been an enemy and was an actual threat should he choose to turn on Jake. After having spent fifty years in Nevermore with the Unique Lifeform, he knew the King was an asshole, but he was also trustworthy. Perhaps more importantly, he wasn’t stupid and knew that if he and Jake had a proper fight to the death, it would end the same as their last death battle.
+
+No, the true loss was right in front of his face. His mask. The mask currently contained the Truesoul of the Fallen King, and if the Unique Lifeform had to be fully autonomous again, it was natural that the mask had to go.
+
+“I will need the mask you are wearing and your permission to manipulate it,” Yggdrasil said, exactly as Jake had expected.
+
+Without any hesitation, Jake took off the mask and offered it up.
+
+“Can you explain what you’ll do?” Jake asked, more out of curiosity than anything else.
+
+The mask floated upwards, and Jake felt Yggdrasil prod for permission. Even as a Primordial, she couldn’t manipulate a Soulbound item without express permission from the user. It was a hard rule by the system, and unless she had a Transcendent skill or Bloodline to fuck with other people’s equipment, Jake had to give the go-ahead. Something he naturally did.
+
+When he did so, he felt the consequences instantly as his mana pool instantly fell by tens of thousands of points, and his mana regeneration also suffered a severe reduction. Losing such a quite frankly overpowered item was a shame. However, it was a price Jake was more than willing to pay if it meant the resurrection of the Fallen King.
+
+“This mask is the true body of the Unique Lifeform, yet it isn’t. He can exist independent of the mask, the vessel holding a perfect mirror of the Truesoul. Entangled across any distance, space, linked through the absolute power of the system.”
+
+Jake nodded along, already knowing that. Well, alright, he knew the general concept behind why the Fallen King could technically both be on his face and floating around shooting golden force beams, as well as how there could be two masks at the same time.
+
+“We shall exploit this unique power. This duality of soul. Before, the mask you wore was the true body, while the mask on the vessel was the mirror. This shall be reversed. The original mask will become one with the Unique Lifeform, allowing him to become truly independent once more, while I shall forge the mirrored mask for you.”
+
+“Wait... you’ll make a new mask for me?” Jake asked, having definitely not seen that one coming.
+
+“New? It can be viewed that way. The mask’s Records will remain primarily the same, though I shall add to it out of necessity rather than choice. Also, allow me to clarify. This is a requirement, not merely something done as an extra favor. When the Unique Lifeform originally mirrored his existence, the split was permanent. Perhaps it had always been that way... perhaps that was how he survived your encounter in the first place. When you destroyed the Unique Lifeform, you made the mirror become the original... and thus he found himself bound to you, as the mask housing his only remaining Truesoul was your rightful reward. When you then later used the Soul Renewal granted by the system, you conjured a new mirror once more, while keeping the original as your mask.”
+
+Jake listened intently as it became evident that Yggdrasil had quite the insight into the history between Jake and the Fallen King, down to the existence of the Soul Renewal item. He did question how she had learned all this, but he didn't want to ask about it directly because he cared far more about the meaning of her words.
+
+“So there will still be two masks, both containing the Truesoul of the Fallen King, but the ‘true’ mask will shift to be the one only controlled by the Fallen King?” Jake asked. “I just want to make sure that walking around with the mirrored version won’t afford me any control.”
+
+“As you will hold the mirror, you will be able to destroy it and cause major annoyance to the Unique Lifeform, but you will no longer hold control over his life or death. The growth of the mirror will also depend on the original, not the other way around. If you feel uncomfortable with this arrangement, you can always surrender your control of the mask back to the Fallen King entirely. For now, I seek only to create a mirror of the original, thus completing the soul of the Unique Lifeform and allowing his full rejuvenation. What happens from there is none of my concern.”
+
+“Alright,” Jake nodded and sighed. Yggdrasil was probably right. This was a matter he would have to discuss with the Fallen King once they finally got the opportunity, which would hopefully happen sooner rather than later.
+
+“Very well. I cannot tell you exactly how long the full rejuvenation shall take, but during it, I will need to hold on to the mask.”
+
+Jake nodded again, naturally having expected that.
+
+“With that matter solved, I believe there is another to address,” Yggdrasil said.
+
+As if prompted by those words, another presence descended upon the meadow. A portal opened up, and out stepped a familiar old man holding a staff with a flower at its end.
+
+Seeing him, Jake smiled. “Hello there. Can I take a guess and say Dina talked to you?”
+
+“How insightful,” Nature’s Attendant smiled in return. “Something about you needing a new bow and wanting to use a part of Yggdrasil to craft it.”
+
+Artemis, who had been standing next to Jake and just seemed happy to be there, turned her head slowly and stared at Jake in disbelief. He didn’t see the big deal about asking that as he nodded.
+
+“Yeah,” Jake said confidently. “You may not know this, but Yggdrasil was also a mythological tree back in the ninety-third universe before the integration. In so many legends and stories, there were talks of artifacts crafted from parts of the World Tree, and just imagining a bow using such material is just... can you blame me for at least trying?”
+
+“I respect the gumption,” Nature’s Attendant chuckled. “And I do owe you a favor, don’t I?”
+
+“Helping me get an awesome bow I can hopefully use for a long time, if not forever, would be just about the best favor I could imagine anyone giving me,” Jake said honestly.
+
+His current bow had served him well, but compared to his old Apex Hunter bow, it was lacking. All it really had going for itself was extreme durability.
+
+“From what I understood, you want it based on the Records of another bow you also possess?” Nature’s Attendant asked. “Could you show me this bow?”
+
+“Of course,” Jake nodded as he took out his old friend. Summoning it, the bow that appeared looked worn and was cracked in several places, but it still remained whole enough to register as an item.
+
+[Bow of the Apex Hunter (Legendary)] – A bow offered directly by the system due to Earth’s performance during the Treasure Hunt event. Once broken, now reforged, the bow is more durable than ever and has an even higher level of mana conductivity. This is a bow for an apex hunter who only seeks to challenge worthy foes and effortlessly strikes down those inferior that dare impede his quest. Increases damage done against foes dependent on level disparity – both lower and higher – up to a certain threshold. This effect is based on Perception. The bow is incredibly durable and will adapt to energy infused into it, beginning to take on its properties and empowering attacks using the adapted energy. Enchantments: Apex Hunter. Requirements: Soulbound
+
+Reading the section about the bow having already been broken once and now being more durable than ever was honestly funny. A great juxtaposition to the now twice-broken bow that looked far from durable.
+
+“May I?” Nature’s Attendant asked as he walked over, making Jake nod as the old man took the bow in his hands. Jake felt him try to inspect it with his energy, and he naturally allowed the god to do so.
+
+A few seconds passed before the god smiled. “I understand why you want to keep it. It’s a potent effect and not something easily replicated.”
+
+“Yeah, it definitely served me well,” Jake confirmed, looking at this old bow with nostalgic eyes. It had been with him in its current version all throughout Nevermore, which was already respectable, considering it was an item that couldn’t upgrade by itself like Eternal Hunger. Especially when one considered the stress Jake’s arcane affinity constantly put the poor bow under.
+
+“Tonken, do you believe it feasible?” Yggdrasil’s voice echoed.
+
+“I was worried at first, but if we use the Records in this bow as the base, I believe it’s possible,” Nature’s Attendant nodded. “It was directly granted by the system, and the conceptual complexity reflects that.”
+
+“Good,” Yggdrasil said, finally turning her head toward the other goddess present. “Artemis, you are to assist Tonken in creating a bow for the Chosen of the Malefic Viper. As an archer, your assistance should prove useful, and you are in a prime position to bring the Chosen with you to provide input when Tonken requests.”
+
+“Yes, Mother Tree,” Artemis answered, bowing deeply.
+
+“Proceed. I shall call for the Chosen once more when needed.”
+
+With those words, Yggdrasil’s summoned dryad clone disappeared, and the pressure bearing down on them was reduced. At least by a little, as Nature’s Attendant was still there.
+
+“So, what do you need me to do?” Jake asked the second-in-command of the Pantheon of Life after a second or so of silence.
+
+“For now... nothing. I’ll bring this bow back with me and ensure the seed I prepare can house its Records,” the old man explained. “Down the line, I will need you to feed the seed and sprout energy intermittently. That is to say that leaving for any Hunting Grounds isn’t recommended, as the seeds can be quite demanding, and the timing of when they are fed energy can have a high level of impact on the final result.”
+
+“Alright,” Jake said, as he wondered something. “Say... how is Yggdrasil involved when you’re making the seed and all that?”
+
+Nature’s Attendant smiled at Jake’s question before shaking his head. “I would think an alchemist like you had heard of grafting. We shall grow a small sapling that can serve as the body of your new bow, after which we will graft a piece of Yggdrasil directly onto it, allowing the Records to merge, creating something greater than the whole. That’s why we were concerned the Records of the sapling wouldn’t be sufficient to withstand those of Yggdrasil, but seeing this bow you gave me, and knowing who you are, I do indeed believe we can create something quite wonderful.”
+
+Jake nodded along to the explanation, and after asking a few more mostly meaningless follow-up questions, Jake’s brief visit with Yggdrasil and Nature’s Attendant came to an end, Jake leaving both a bow and a mask poorer.
+
+With what Nature’s Attendant had said, Jake also shouldn’t go hunting for the next period. Coupled with the fact he’d just gotten a lot of class levels, and the many subjects remaining on his to-do list before evolving, it wasn’t that hard to figure out what would come next.
+
+That’s right, it was alchemy time... with a bit of meditation and quality time with Artemis sprinkled in here and there.

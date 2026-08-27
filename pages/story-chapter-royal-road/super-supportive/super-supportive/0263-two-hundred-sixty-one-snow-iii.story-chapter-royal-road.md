@@ -1,0 +1,455 @@
+---
+id: b7905711-9e1b-5205-90fb-bfaf6637e358
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED SIXTY-ONE: Snow III"
+slug: 0263-two-hundred-sixty-one-snow-iii
+partOf: super-supportive
+position: 263
+ownLength: 5516
+unit: words
+publishedAt: 2025-12-16
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2852247/two-hundred-sixty-one-snow-iii"
+royalRoadId: "2852247"
+---
+
+261
+
+******
+
+“Lute, put down the three hundred argold pig. I won’t be buying forty of those no matter how many times you call it an Anesidoran Christmas swine.”
+
+Lute put the huge stuffed doll down in the middle of the aisle in front of Alden, then sat on it, grasping its ears. “But look. It’s big enough for you all to ride into battle. Forty future heroes on their noble steeds!”
+
+“I’m not sure you were the man for this mission,” said Alden, going around him to look at a shelf full of Mood Beasts. They were a wearable toy that changed color in response to sounds in the room around them. They were all off right now, except for the demonstrator lizard on the middle shelf, which had turned an intense fuchsia. It probably stayed that color most of the time while the toy store was open. Noisy laughter, kids pleading with parents, the whistles and beeps of electronic toys—this place must have sounded the same all day long.
+
+It was less than a week until Christmas. Alden was now a person with a lot of money, and he had lots of new people in his life he wanted to do nice things for. Christmas shopping was much more exciting than it had been last year, when he’d had a very limited budget and a list of three people to spend it on.
+
+But what does someone with this much money buy for people who also have money?
+
+Lute was supposed to be helping him come up with ideas for a cool and appropriately-priced present for everyone in his gym class.
+
+Alden knew it was not the stuffed pig. Getting them all a day pass to Challenge: Apex Towers seemed like the right kind of thing, but he was going to be gifting Lexi and Kon multi-day passes. He knew Kon enjoyed it, and he knew Lexi would enjoy it, and he knew both of them would enjoy it more if they didn’t have a stream of classmates showing up.
+
+“Why are you doing a whole class gift?” Lute asked. He’d opted not to wear his eye patch today for their trip down to F-city. His combat boots had been enhanced with red and green laces. “I associate identical Christmas presents for everyone in the grade with Vandy. She used to do that. She probably still does.”
+
+“I doubt whatever I get them will overlap with hers. I’m doing it because I made a list of everyone who I wanted to thank in some way, and the names added up. Giving presents to more than half of a group starts to make it seem like you’re commenting on who you dislike, doesn’t it? I’d rather do something fun for everyone. Special people can have the class gift and an individual gift.”
+
+He picked up one of the Mood Beasts. It was a shark with magnetic jaws that would clamp onto clothes or a backpack. He thought Jeffy would appreciate it. “The minis of these are good, right? People like them? I’ve noticed some around campus.”
+
+“Humans do like those, yes. But we’ve been liking those for eight or nine months now, so a lot of people already have a few.”
+
+Alden set the shark down. “Why is it so hard? I missed my opportunity to copy Kon and buy a bunch of Artonan doodads for everyone. I was right there with him, but I wasn’t thinking about Christmas. And I didn’t realize how much of a hit the alien versions of random everyday supplies would be. I wondered why he was getting all those packs of tooth gum, but everyone was so excited about it.”
+
+“He has an advantage over you because he knows which alien things are easy to buy around here and which are unique. You can get that gum all over the place, so if he was buying a bunch of it then I’m sure it’s because it came in flavors he’d never heard of before.” Lute rested his chin on the pig’s head. “Do a basket.”
+
+“Do what to a basket?”
+
+“A basket full of stuff that everyone in the class can pick out of. Jessica makes like a hundred huge gift baskets every Christmas for Aulia to send out. I don’t recommend you do the same kind because each of those costs more than my steed. But people are into the baskets. Getting on the basket list, getting taken off the basket list…anyway, if you stuff a basket with a large enough variety of presents then everyone will find something to make them happy.”
+
+“Lute, that’s actually a good idea.”
+
+“Buy me this pig.”
+
+“Buy your own pig. Although I don’t know how you plan to fit it in your room with everything else in there.” Alden picked the shark back up and started selecting more beasts to go with it. “We all have to launder our suits on Friday after gym, so we’ll be hanging around. They can tear into a gift basket together—argue over who gets what, share whatever snacks I throw in it. It’ll give everybody something to do for a few minutes.”
+
+“I am the right man for this mission,” said Lute. “After this, I will lead you to the mask store because the mask store is great, and there’s something there you need to experience. And then maybe <<White Shop>>. The open air Christmas market. We could do that place where they sell Fetunan imports…I wish I hadn’t suggested that you not bring the nonagon. We’ve got ground to cover.”
+
+“It’s fine. The Nine-edged Son is a little flashy.”
+
+“A little?”
+
+“He’s famous. It’s not his fault.”
+
+******
+
+******
+
+Walking into the mask store was like entering a tunnel lined with fantastical faces. Alden stopped right inside the door to admire them.
+
+“The best ones are in the back,” Lute said. “Don’t just stand here with the basic stuff.”
+
+“Don’t rush me. Do you see the one covered in scales? And I think that one over there just winked at me.”
+
+“We can get a couple to wear to the Christmas market before we leave. Maybe it’ll keep people from bugging us. But I brought you here to show you something impressive. Trust in your guide.”
+
+“Winking isn’t impressive?” Alden asked, but he allowed himself to be led past masks with gilded horns, sad smiles, and dramatically pointed chins toward the other end of the shop.
+
+A girl with her hair in small braids sat behind a glass display counter. She was using a spell impression on a metal tray full of sand and lumpy green and gray gems that Alden thought might be some kind of pearl. The tray itself was pulling on his attention more than a normal object would. He suspected some part of her set-up was an ingredient and some part was being enchanted with the help of the ingredient, but he wasn’t about to interrupt her casting to ask which was which.
+
+Lute beckoned him to the opposite end of the counter and pointed down at the masks within. Each one rested in its own unique case, with the lid opened to display it.
+
+[You weren’t kidding,] Alden texted him, staring hard at the first piece his eyes had landed on. [What is this?]
+
+It was smaller than many of the other masks in the room—no fanciful beak or horns here. It was a simple, lipless face shape that looked like it was made of rough concrete. Where the eyeholes would have been on a normal mask, two pools of water wept an endless trickle of tears down each cheek.
+
+Some superheroes wore masks. Alden could think of a few who wore ones with magical effects. None of them looked like this thing.
+
+It was somehow familiar and foreign at the same time.
+
+<<You’ve never been here before.>>
+
+Alden tore his eyes away. The girl had finished her casting at some point, and now she was standing on the other side of the case from him.
+
+<<But he has.>> She motioned toward Lute, who had moved along to look at others. <<They draw people in more the first time they see them.>>
+
+“I’ve been here a few times,” Lute confirmed. “Usually Mr. Dagim is here.”
+
+“He’s my grandfather. And he made these. What do you think?” she asked Alden.
+
+“I think…I’ve never seen anything like it. What does it do?”
+
+“The same thing all of his Wrightwork does,” she said. “Camouflage. <<Very good camouflage.>>”
+
+“Very good,” Lute agreed.
+
+“My mother makes the masks on the wall with the illusion effects. Those are different. But everything in this cabinet is camouflage.”
+
+She walked over to the next mask, and Alden followed. It was black with a flicker like flames in place of the eyes.
+
+“This will hide the wearer at night and from firelight. It’s an older piece. Now, over here…this one confuses people.”
+
+They looked down at a case holding nothing but leaves in shades of red, gold, and brown. The leaves were pristine, and they neatly overlapped into a fan, but it still wasn’t something Alden would have called a mask.
+
+“This hides you in forests.”
+
+“Deciduous forests on Earth,” said Lute.
+
+“It should hide a person in other forests, too, just not nearly as well. The next one is the meadow mask.”
+
+She led them around, explaining each one. They all worked within specific environments.
+
+“What do they cost?” Alden asked.
+
+“Too much. This is mostly my grandfather’s personal collection. Sometimes he sells one if he likes the person who’s asking and thinks they appreciate his art, but people who need something like this and who can afford it usually want a custom piece anyway. He does more work for wizards than locals.”
+
+They returned to the mask that wept. The girl looked at Lute. “You brought your friend here to show him this?”
+
+“I did. I’ve used it before.”
+
+“The rental fee and rules for using it are the same as always. For now. After what happened with the Submerger, some police officers came by and suggested we store it in a vault for the good of the public. They want to look like they’re doing something. It annoys me.”
+
+“Yes…the Submerger. That just…keeps making things worse for everyone all the time,” said Lute. “I’m sorry about that.”
+
+He’s acting like he did it personally.
+
+[Don’t dye your hair brown again, or Haoyu will call you Van Nutmeg forever.]
+
+If she noticed anything strange about Lute’s apology, the girl didn’t comment on it. She was pulling the case with the mask out and placing it on top of the counter. Alden stepped closer.
+
+“I’ll tell you about it like my grandfather would.” She pushed the case toward him. “This is our mask. Your friend’s. Yours. Mine. This mask is called Anesidora.”
+
+“It’s camouflage for here?”
+
+“Take it,” she said. “And find out.”
+
+I can’t resist an invitation like that.
+
+He reached for the mask. As he touched its rough surface, he felt a cold wind on his face. Salt pricked his tongue.
+
+Whoa.
+
+“Impressive, right?” said Lute.
+
+“Yeah,” said Alden, looking down into its eyes. “Yeah, it is.”
+
+“Put it on.”
+
+******
+
+The back of the mask was damp, and wearing it was unsettling, almost uncomfortable. But at the same time, Alden felt like he was more a part of F-city than it should be possible for a person to be.
+
+He was unsettled, and he was as natural as the wind stirring the hair against Lute’s face while the other boy looked around, trying to detect him.
+
+He was uncomfortable, and he was as steady as the concrete beneath his sneakers.
+
+Lute lunged backwards, his arms waving as he tried to catch Alden by surprise, but he was moving in completely the wrong direction.
+
+“Lute? Can you really not see me at all?” He talked, and his voice was every voice in earshot.
+
+Lute spun away from him, hands still outstretched.
+
+Growing bolder, Alden said, “Lute!” louder.
+
+Maybe he was the honking of that moped that had just passed.
+
+He shouted, for real this time. “LUTE!”
+
+Nobody looked at him.
+
+No one had heard anything but the city.
+
+Alden walked up to Lute, dodged a searching arm, and leaned forward so that their faces were closer before he pulled off the mask and said, “Boo!”
+
+Lute yelped and leaped away. “Dammit! I knew you were going to do something like that! Why did it still get me?”
+
+“I’ll get you again,” said Alden, starting to put the mask back on.
+
+“No! We trade after a scare. That’s only fair.”
+
+“Awww…that wasn’t in the rules.”
+
+The rules the girl had given them after they’d paid the fee for the mask rental were simple. They were allowed to wear it, and cause harmless mischief with it, within a zone that extended two or three blocks in each direction. They weren’t supposed to take it farther from the shop than that.
+
+“Some rules are common sense,” said Lute. “Give it to me and head toward the first store we’re going to rob. I’ll make sure to get you back.”
+
+“You’ll never make me scream. I have a calm and collected disposition.”
+
+Lute put on the mask. Alden yelped.
+
+“That doesn’t count,” said Lute, pulling it back off again. “You getting scared the second I put it on is your own problem.”
+
+“I lost…” Alden swallowed. “I wasn’t expecting to lose targeting on you? I was going to untarget to make it fair, but when you put on the mask, it just ended.”
+
+Lute had been his entruster all morning, but as soon the mask went on, Alden’s sense of where he was had disappeared.
+
+“It does that!” Lute said. “I should have mentioned. I doubt it’s foolproof. There’s always some magic out there that counters another, isn’t there? But I can’t target people wearing this either. It’s an important feature for this kind of thing to have, right?”
+
+“That does make sense.”
+
+Alden didn’t like it at all.
+
+What would happen if he and I were connected, and someone else forced the mask onto his face against his will? Would I still lose him?
+
+Lute was already gone again. Alden looked around. I know he has to be just a step or two away.
+
+Spinning slowly, eyes open and ears listening, he detected absolutely nothing. According to Lute and the granddaughter of the man that had made this camouflaging wonder, Lute wouldn’t even show up on cameras.
+
+What about Artonan devices?
+
+“Hang on a second before you scare me,” said Alden, trusting that his invisible companion was listening. “I want to check something.”
+
+He’d left his shopping bag from the toy store behind the counter at the mask shop, but he still had his messenger bag with him. He pulled his tablet out and turned on the camera feature. He saw storefronts, a man with high speed points running on the street, and the glint of sunlight off the silver bell on a passing bike.
+
+No Lute.
+
+“You don’t show up on this either,” he informed the apparently empty air where Lute had been standing. Tucking the tablet away again, he looked at the map of the neighborhood that the girl had sent them. Several local shops and one restaurant within the rental zone welcomed people wearing the mask to come play pranks or steal things, as long as nothing was damaged and items were paid for or returned when the mask rental was over.
+
+Alden was surprised that it didn’t cause more trouble than it was worth to the businesses, but he set off toward the mask-friendly shoe store, occasionally moving randomly in one direction or another in an attempt to find and tag Lute. That behavior earned him a stare from one passing woman. Wow…so unfair. I was shouting in the street a minute ago, but now that I’m being quiet, people are all judgy about a little extra motion.
+
+He’d almost reached the store when Lute appeared again, lying on the sidewalk right in front of Alden so that he almost tripped.
+
+“What if I’d kicked you in the face?”
+
+“But you didn’t. You leaped to spare me.” Lute held out the mask. “Your turn.”
+
+The scratch of concrete against his fingers, the cool dampness against his face—Alden became Anesidora again. He wore the mask into the shoe store while Lute browsed.
+
+At first, he just walked back and forth in front of the few people inside, marveling at the total lack of reaction. Then he sat down beside a man who was trying on dress shoes, wondering if he’d notice the depression of the bench cushion.
+
+He fogged a mirror with his breath and wrote, “Hello!” on it. He knocked over a platform sandal. The employee who was bringing a shoebox to Lute heard the sound of the sandal falling and looked Alden’s way, but there was no sign of suspicion on her face.
+
+Lute, of course, was grinning
+
+These are superhumans who can’t tell I’m moving around right in front of their noses. This mask is like being given S-rank talents you can take on and off. Making this sort of thing must be insanely—
+
+[Video Call from Twenty-seven Hundred and Sixty-second General Evul-art’h, Artona I.
+
+Connection fee waived.]
+
+Stuart?
+
+Alden had assumed the Primary’s son would be sticking around LeafSong for a few days. He texted Lute to let him know he was taking a call, and Lute nodded in almost the right direction.
+
+“Answer,” Alden said.
+
+Stuart was in his family’s manuscript library again, this time with a collection of materials on a table in front of him. His content smile turned into a startled expression. “Alden, what are you wearing on your face?”
+
+“It’s a mask that hides me from others. Of course it doesn’t work on the Contract, so you can see me on this call. But none of the people in this store know I’m here. Look.”
+
+He walked over to Lute and jumped up and down.
+
+“They don’t hear me if I shout. They don’t notice my footsteps. I tried stomping as hard as I could, and nobody looked.”
+
+“What are you hiding for?” Stuart sounded concerned.
+
+“I’m not really. It’s just an object you can borrow from the creator, to experience. Lute and I are shopping together today, and he wanted me to see this. It’s called the Anesidora mask. It only works here.”
+
+“I think I know what that is, then,” said Stuart. “Masks like that increase your belonging within an environment. That one must be strong or designed specifically for sneakiness. You wouldn’t be able to shout in an ordinary one without being noticed. They’re a casting tool.”
+
+Alden’s attention sharpened at that. “They are?”
+
+“Yes. If the magic a wizard wants to do will be affected by the strength of their connection to a place or element, they can use something like that to help.”
+
+“That’s interesting.” He tucked the information away in his small but growing mental file of wizard knowledge that might one day be useful.
+
+“I called,” said Stuart, “because I wanted to hear how your most recent MPE class went. But it seems like this isn’t a good time.”
+
+“MPE again?” Alden strolled down the nearest aisle. “Wednesday’s class wasn’t as exciting as Monday’s, so I don’t have much to talk about. Do you really like watching me practice like that?”
+
+Stuart’s interest in Alden’s gym classes didn’t seem to be fading. During their last conversation, when Alden had recounted his defeat of Winston and shared videos of his different duels, the Artonan boy had asked even more questions than he had in the past about everyone’s talents and what Alden thought of those talents. Maybe he was becoming an Avowed dueling fan.
+
+We’re like the ultimate amateur version of Brutal Ring specials. Got to get all the character details and rivalries straight in your head to fully appreciate our fights.
+
+“I enjoy it,” said Stuart. “Seeing that class may also show me things about Avowed abilities and how you use them that wouldn’t be clear to me otherwise.”
+
+“I’d be happy to talk to you about it. Not right now, since it would be rude to Lute, and we have a limited amount of time to keep the mask. Will later be…?”
+
+The appearance of a small creature on the sleeve of Stuart’s coat made Alden trail off. He watched it climb slowly up Stuart’s arm toward his shoulder.
+
+“Later will be fine,” said Stuart. “If you send me a message when you have time, I’ll call promptly.”
+
+“There’s a klerm on your arm.”
+
+Stuart looked at the wrong arm.
+
+“The other one. Climbing your sleeve.”
+
+Stuart let out a chirp as he spotted it, and the klerm responded with its infamous skeeeek-skeeeek sound. Stuart grabbed it, his cupped hands barely muffling the noise. “It must have gotten into one of my pockets! Why didn’t the teleport leave it at school?”
+
+He cracked his hands open to give the klerm a suspicious look.
+
+“Maybe it’s one of the ones you saved the other day. It wanted to thank you.”
+
+“It’s probably one of the ones I saved today,” Stuart said, still focused on his hands.
+
+Alden stopped beside a table full of women’s athletic shoes. The company’s slogan, in bold typography on the sign at the center of the table, was, “Add magic to your run.” Which was a little bit funnier on Anesidora than it would have been in other places.
+
+“You’re still saving them? You don’t have to do that for me, you know.”
+
+“I’m not doing it for you. I did it for you the first day. But now I can’t stop noticing every time I pass a plant that’s caught one, and if I don’t try to help it, I think about death and pain and you in my next class. Which is <<detrimental to learning>>. So I just rescued all of them today.”
+
+“I’m sorry, Stuart,” Alden said, smiling. I made him worry about the campus bug zapper.
+
+“It’s my own fault. Paying overmuch attention to something like this…I am <<prone>> to it.”
+
+“You’re just making the river safer. For klerms.”
+
+Stuart blinked. “Yes,” he said after a while. “I’ll submit this act of great service to the Grand Senate for recognition.”
+
+“Do it,” said Alden. “I’ll talk to you later.”
+
+Stuart was chortling when the call ended, and the klerm in his hands was still making its racket.
+
+Alden was glad they were going to talk again soon, but he was a little distracted by how tight and icy cold the mask had gotten.
+
+Trying to ignore it, he grabbed the “Add magic to your run” sign, walked out of the store, and let Lute know via text that they had successfully robbed the joint.
+
+When Lute came out, Alden attempted to startle him by grabbing him from behind. He barely gasped.
+
+I blame Aimi Velra, Alden thought. She has a history of grabbing people and hauling them away. She must have done it too many times to Lute when he was younger, and now he’s numb to this sort of scare.
+
+“You stole an advertisement?” Lute asked when Alden had taken off the mask and showed him his prize. “I can do so much better than that.”
+
+“The restaurant’s closest, but according to the rules, we’re only allowed to mess with the bread baskets there, so I don’t see how.”
+
+“Watch me in action,” said Lute. “Evil is in my blood.”
+
+A few minutes later, while Alden watched through a restaurant window, Lute managed to balance several baskets of bread on top of bottles and chair backs before one of the servers, who’d seemed unaware that anything was going on, suddenly spun and nailed him with a high speed brioche bun.
+
+Alden only knew the woman had aimed accurately because the bread ricocheted off of something he couldn’t see before it hit the floor.
+
+<<Got the ghost!>> she shouted. The other servers and a few of the diners cheered for her.
+
+“That Brute throws so hard,” Lute complained, rubbing his stomach as he and Alden raced away. “And I think she set that last bottle there as a trap for me. She was the one who put it on the table.”
+
+The restaurant wasn’t the only place where the employees considered catching their masked visitors to be a sport. Alden thought he had very smoothly nabbed a caboose from a shop that sold model train supplies, but then foam discs started flying at him as he approached the door.
+
+“I’m a Longsight!” shouted the guy shooting the discs out of a toy gun. “I’ve got my eye on everything in this shop. Are you with the thief, blond boy?”
+
+“No, I don’t know him.”
+
+“How do you know it’s a him, then?”
+
+“I meant…what thief?” A disc bounced off the back of Lute’s head as he took off.
+
+“The locals have gotten so much more aggressive since the last time I did this,” he said later, biting into the last of his smashed brioche bun while they regrouped by a post drop and reviewed their ill-gotten goods. “I’m into it, though.”
+
+“Me too,” said Alden. “Our time’s almost up. Do we return everything on our way back?”
+
+“Unless you want to keep that unicorn shower cap forever.”
+
+“I’ll add it to the class gift basket. Gotta put one really special luxury item in there to show off my amazing taste.”
+
+He’d be buying the caboose, too. It looked like the one Boe had found the lost kid trying to camp out behind. Alden thought giving him something to remind him he was definitely not a “scumbag type” was the right thing to do.
+
+Lute let Alden wear Anesidora while they made their purchases and returns, and they were back out in front of the mask shop with a couple of minutes to spare.
+
+“Hey, does my face feel like it’s freezing to you?” Alden asked.
+
+He’d wondered if the feeling would fix itself, since it hadn’t been quite as strong at the beginning of their adventure. But it hadn’t.
+
+“From the mask?” Lute reached up and pressed the back of his hand to Alden’s forehead. “Normal temperature. I think…that chill isn’t real. It’s just something some wearers experience.”
+
+They headed inside.
+
+The girl welcomed them, and Alden watched her check the mask before she put it back in its case. “Honestly, what would it cost to buy it?”
+
+“Honestly? The last custom piece my grandfather made for a human was around six million.” She put the mask back under the glass counter. “And it took him a year and a half to get all the supplies together and do the work. Wizards keep him moderately busy, and he doesn’t need jobs, so he’ll only take on new projects he finds inspiring. I don’t think he’ll ever sell the Anesidora mask for any price. It’s part of his art to let people use it this way, and our neighborhood enjoys it.” She looked at him. “You’re pretty new to the island, aren’t you? How was it for you?”
+
+“It was good,” he said. “Really fun.”
+
+Alden and Lute bought a few normal pieces before they left. They selected a red and green half mask for Lute to wear to the Christmas market and a green and gold one for Alden. Then they chose a couple of the strangest masks they could find for the class gift basket.
+
+“All right,” Lute said as they walked out. “I was going to swing by <<White Shop>>. Everything there is white, and they magically recolor it for you before you leave. That might take time away from other places, though. Do you want to skip it?”
+
+“I’d rather do the market and the Fetuna importers,” said Alden. “And there’s a specialty skateboard place I looked up online while you were balancing bread.”
+
+“For Haoyu?”
+
+“I thought I’d get him a more Brute-proof board.”
+
+Soon enough, they were approaching the park where Alden had met up with the parkour club. It had been turned into a bustling market of tents, tables, and domes. People were heading in with eager expressions and heading out with shopping bags, painted faces, and giant spice cookies shaped like snowflakes or trees.
+
+He and Lute put on their Christmas masks. Alden had to tie his at the back to secure it instead of simply resting it against his face like he had the enchanted one.
+
+“My face used to feel like it was freezing,” Lute said suddenly. “When I wore the Anesidora mask. Today, it was only a little cold.”
+
+They both paused.
+
+“Does it know how at home we feel here?” Alden asked.
+
+“I think it’s like that, yeah. I had my heart set on getting away for a long time. You’ve only been here a few months. It would make sense.”
+
+“It would.”
+
+Lute shrugged. “I guess it’s fine that I’m more at home than I was. Despising the country you live in can’t be good for a person.”
+
+“If you stain the rug in our living room ninety-nine more times, you’ll truly become one with Anesidora. It’s a spell I heard about.”
+
+“Seems real.” Lute looked toward the park. “Can I say something that kind of sounds wrong? And then you can pretend I didn’t. It’s like I’ve been needing to say it out loud, but it’s weird.”
+
+“I promise I’ll forget it by tomorrow.”
+
+“I can be so unbelievably powerful,” said Lute, almost in a burst.  “On the night I saved my dad, I crushed asphalt under my feet. I bent metal bars with my bare hands. I could see in the dark. I saw all these scared faces looking down from the rooftops when I was running through F, and I realized I was stronger than all of them. I saw the faces of the guards keeping people off the Span when I sailed over their heads, and they couldn’t touch me.”
+
+He breathed in. “Okay. Thanks. Now, forget I said it. Anyway, you knew some of that already, and you saw me being a human slug for several consecutive days recently, so I hope you don’t think I’m bragging.”
+
+“You brag so much about the dumbest stuff. Why would I think it was bragging when you say something legitimately awesome?”
+
+“I don’t brag.”
+
+“The whole time you folded polar bears you were bragging about doing origami faster than me!”
+
+“That doesn’t count.”
+
+“Haoyu and I thought you were going to change your name to Elite for a while after you got that acceptance letter.”
+
+“I am Elite Lute. One of the chosen few.”
+
+Alden rolled his eyes and started walking. “You’re fine. Come on, chosen one. I’ll buy you lunch. I don’t know why you think you’re going to surprise me talking about your feats of superhuman strength. I’m the one who said you might be a hyperbole one day.”
+
+“Bite your tongue off. No I won’t.”
+
+“Hyperboles can’t tell people to bite their tongues. It’s too threatening.”
+
+Lute’s steps had a bounce to them. “Let me look up what food is here. There was a pho stall last year that was delicious.”
+
+“Can I ask you one question about what you just said, though?” Alden said when they reached the edge of the market and blended into the crowd. “Not a really serious one, but I’m in question mode these days when it comes to my future and other people’s. Careers. Lifestyles. Ways of being a person. You know…”
+
+“I’m not sure I do know, but yes to the question part.”
+
+“What are you going to do with it?” Alden looked at him. “All that power. What will you do with it other than your job on the Triplanets? Not now, but when you’re old. Like thirty-five.”
+
+“Thirty-five is old? You clearly didn’t grow up among would-be immortals.” Lute stood on his tiptoes to try to see over the sea of heads in front of them. “I plan to make music. Somehow and somewhere. When it comes to the power I was just talking about that you promised to forget…probably nothing. It hasn’t been a big part of my life except for that one night when I really needed it. And I’m not sure I want more of it. Can’t I still be Lute Velra—harpist? Instead of Lute Velra—pavement destroyer.”
+
+“Of course you can. The world would lose something if you gave up on harpist.”
+
+The words came easily. They were true. But Lute’s answer left Alden without much to hold onto.
+
+He realized he’d been hoping, a little, that the most powerful human he’d met in his age bracket would provide him with a flash of insight into his own soul.
+
+That was a lot of expectation to put on another person, he chided himself. Just be normal for the afternoon, why don’t you?
+
+He started looking around for gifts to get Kibby.
+
+******

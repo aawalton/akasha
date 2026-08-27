@@ -1,0 +1,157 @@
+---
+id: 1a9bad3a-d499-5516-bfdb-e82f2fc75ba4
+page-type-slug: story-chapter-royal-road
+title: "362 Uncovered Progress"
+slug: 0321-362-uncovered-progress
+partOf: the-new-world
+position: 321
+ownLength: 2224
+unit: words
+ownProgress: 2224
+publishedAt: 2023-02-27
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1124787/362-uncovered-progress"
+royalRoadId: "1124787"
+markedReadAt: "2026-06-29T21:32:09.993Z"
+---
+
+Flying at the midpoint of the city's barrier, it raised the horn sword while bending its head down. I mirrored the gesture before waving it in. The insect landed below, its heft causing a quake throughout the city. As construction golems raced to fix the damage, I gave it a wave,
+
+"Yo. What do you want?"
+
+The beetle spoke in a series of clicks, but the translation system in my city let me understand it,
+
+"We want the rulers."
+
+Chapter Begin
+
+I glared at it, "Mind explaining why?"
+
+The beetle huffed before speaking, "These cities...They've fully replaced even the air?"
+
+I crossed my arms, "Answer my question."
+
+Several of my cored golems landed beside us, and the beetle ruler rolled its shoulders, "What is there to say? You have faced Valgus. He is superior in a battle to you in every way. He will come here, ravage your cities, kill everyone you've ever known-"
+
+"Then why hasn't he?" An awkward silence passed over us before I furrowed my brow, "Man, you guys didn't think this through."
+
+The beetle turned to the side and let out a series of guttural clicks like a cough, "Urgh, ahem. So...That's not necessarily true."
+
+I dragged a hand down my face before frowning, "Get out."
+
+The beetle ruler raised a hand, "Wait. One moment. I understand that you believe that we are all mindless followers of Valgus. You have a call and reason to do so, but that isn't the case. We can reason or follow through with a deal of some sort-"
+
+I leaned towards it and raised a hand, "Since when did I become a politician? You attacked me, and at that moment, any chance at diplomacy passed. Valgus joining the fight has changed nothing since then. He simply added to my hit list."
+
+The beetle spread its arms, "You're acting as if you won the fight earlier. What's given you such confidence?"
+
+I narrowed my eyes at him, "It's simple - those that ask for help admit weakness. That isn't necessarily bad since admitting weakness can demonstrate humility or modesty. In Valgus's case, he paired it with a threat. If he could simply force my submission, why wouldn't he? He's done that to everyone else, so I should be no different."
+
+The beetle said nothing. I stood tall, "He has done nothing because he can do nothing. I'm done listening to you or your people. Leave or be forced to."
+
+The beetle glanced at the two dozen golems waiting nearby. It sighed, "Then let it be so. You will come to regret this."
+
+I reached up a hand, a gravity well forming in its chest. After pulling it off the ground, it squirmed in the air. I tilted my head at it, "Are you serious? You're trying to threaten me when you can't even function off the ground?"
+
+It spread its wings and flapped them. Gusts of wind burst down, strong enough to strip stone. I grounded myself with gravitation and molded the barrier around the city until it contained us and the storm flowing forth from the beetle's wings. I scoffed, "Come back with Valgus if you want to negotiate."
+
+I strengthened the gravity well holding the beetle until my arm sheened a dark blue. Mana crackled and radiated from me as I compressed the well further. The sound of ripping steel burst from the beetle's wings as they collapsed against his sides. They broke and mangled like crumpled food wrap.
+
+I kept crunching until the beast's eyes sank in, and it choked on its tongue and torn-out teeth. I seethed, "And remember - I'm not fighting him. I'm fighting Baldowah's powers. Valgus is a paper champion covered in steel. Take that steel from him, and he is nothing. What I have cannot be taken."
+
+I flung my hand, and the gravity well catapulted the beetle ruler out of the city. He crashed into the rainbow shards, the impact quaking through the opalescent pile. I walked off, knowing the beetle made it this far alone, so that wouldn't be enough to stop him.
+
+Behind me, the beetle put its bulky arms against the shards, pulling energy from the shining pile. Its shell darkened, turning to a brittle, charcoal substance. It erupted out of its molted and mangled body. Healed from the chrysalis, it shouted over the chaos of the ossuary.
+
+Its voice turned from a cacophony of clicks into understandable language when it reached my city.
+
+"We shall see if you can keep what you have, Harbinger."
+
+It turned and set out. I did the same, heading to my city's monolith. I found Targask sitting beside the city's monolith. He wrote with paper made by one of my constructor golems, peering up with a wry smile as I walked up, "That was quick."
+
+I shrugged, "They're not the best negotiators. Anyways, what do you have for me?"
+
+Targask spread his hands over a series of documents, each carrying fundamental runes made by Schema. Targask pointed at me, "You showed the ability to make these earlier, but I figured I shouldn't make many assumptions about you. Can you read these?"
+
+"Yes. These are the most fundamental building blocks of Schema's watered-down cipher."
+
+Targask raised his brow, "Ah, you subscribe to that crackpot theorem?"
+
+I sat down, keeping my weight on one leg until I landed in a cross-legged position, "Yeah, I do. If anything, I think it's foolish to think it's anything else."
+
+Targask shook his head, "Even the cipher's not necessarily a proven thing, let alone the connection between the two. You need to get your head out of the clouds."
+
+From that alone, I learned that Targask didn't know as much as he thought. It made sense that he supported Schema-based factions and taught children since he thought orthodoxly. Well, what I assumed was mainstream thinking on the cipher. Still, I'd never exposed myself to a magician like this before, so I pushed through,
+
+"We can agree to disagree there. Anyways, what are we doing here?"
+
+Targask rubbed his hands together, "Ah, well then, we're going to be creating your first mental apparatuses. These will convert, hold, and apply the mana for you."
+
+I crossed my arms before Targask raised a palm, "Sounds intimidating, doesn't it? It doesn't have to be. Think of this like farming. You're out there, the dirt is hard, the plants don't thresh like they should, and you're pouring sweat. That sounds pretty difficult, doesn't it?"
+
+"It would have been at one point."
+
+He waved his arms, "We're assuming you're a normal person here. The difference is that we're like that farmer when talking about magic. There's so much about us that simply doesn't work well with the magical world. Our bodies can't tolerate it well, our minds struggle with mana destabilizing, and it can even poison us should we exceed our limits to control it."
+
+He tilted his head, "It's just like the farmer. Here, the mental apparatuses are used just like a farmer's tools. Instead of using our body and mind, we construct a vessel for whatever we need. This prevents us from dealing with the obvious issues of using magic in the first place."
+
+I gestured to the documents, "Alright, let's make some."
+
+Targask pointed at the first document, "Here are the simplest ones."
+
+I peered down, reading through the runic incantations. At the same time, I  compressed time and had a dozen minds work on the project at once. After a few seconds, I garnered a few bits of info. The three examples in front of me handled basic mana conversion. Mana always carried a kind of intent, after all, like how ascendant mana would drive someone into a blood frenzy. These runic works broke down how to neutralize that intent, store the mana, and put the intent back into the mana.
+
+It couldn't create the initial intent, but these would help someone use the mana that someone else made. I leaned close, "Yeah, I could use these to stop the mental problems you guys get from using my mana sources."
+
+Targask blinked, "Huh. Yeah, you certainly could, though they'd need to be specialized for your specific intent."
+
+I picked up the papers and memorized them before pulling my grimoire from my pocket dimension. I opened it before Targask scoffed, "What kind of industrial, heavy-duty grimoire is that? It looks like you asked a blacksmith to forge it."
+
+I shook the book, the liquid silver plashing behind the pages, "It even bleeds silver if you cut it. Anyways-" I etched the runes before gazing at them with intention. These would work much better in the cipher since these would just break with even a little mana. I rubbed my temples for a moment, thinking about adjusting them.
+
+No answers coming up, I etched into the pages of my grimoire with heated contact points. I created the runes, channeled mana through them, and tested them for a while. The last of these steps involved putting the runes onto my skin and pulsing mana through it. As I did, I put my hand far out to the side.
+
+The runes shattered instantly, a kinetic wave erupting from them. I shielded Targask with a layer of water before he did the same with his own barrier. The grizzled magician jeered, "Eh, every beginner makes the same mistake."
+
+I shook my head, "It's not a mistake. It's a test."
+
+"Oh, sure. I bet."
+
+Ignoring the insult, I created a few prototypes of the mana neutralizer using the cipher. Many Daniels assisted the process, my overall psyche putting out dozens of designs. I carved out the select few that passed a scrutiny test before trying them out on my skin. Each of them held much better than the Schema-based version, but that wasn't any surprise.
+
+The best rune held up to about 1,000 mana a second with some inefficiency in the conversion. It was a paltry amount but could scale up with many of the runes put together. I leaned over, thinking for a while. Testing the other iterations more, I got a better understanding of their strengths.
+
+One lacked the 'friction' that the other runes had, but it shattered easily. The other conducted the mana quick as lightning, but it lost lots of mana in the process. Taking parts from each design, I put them onto the page, one after the other. These Frankenstein runes lacked any stability whatsoever, shattering like glass vases told to hold lead bricks.
+
+Another round later, one of them held about 500 mana a second. It did so quickly and efficiently, making it scale far better than the more durable version. I spent several more minutes iterating on that design, trying out a few oddball ideas along the way. After another ten rounds of designing, I got the finished cipheric rune.
+
+It held about 7,000 mana a second with nearly no mana loss. It also zapped the force through faster than a bullet, so quick reactions were possible. I tied several of them together before trying it again. It blew up again before I attempted the same process on the tying process.
+
+I ended up with a mana converter that could be attached to my mana batteries without real issues. As I worked, Targask observed without comment. When I finished an hour later, he shook his head in disbelief,
+
+"That's just absurd. What even is that?"
+
+I picked up the block of runes wrapped in my dimensional fabric, "This is a mana converter that's actually usable."
+
+Targask reached out a hand, "Can I see it?"
+
+"It's way too heavy for you."
+
+Targask rolled his eyes before snatching the battery out of my hand. I let him, and when he pulled, he jerked himself sideways. I raised my brow at him, "You must not be used to working with heavy objects, eh? Pro-tip, when they're heavier than you, you have to pin yourself down to move them."
+
+Targask pushed himself off the ground, "Oh hardy har har. Very funny." He rubbed his cheek, "It doesn't seem like it will be that useful if it's this weighted anyway. Even stone can't support it."
+
+I pointed down, "This supports both of us, and I'm much heavier than this battery. I'll just use the same techniques to hold this."
+
+Targask scrambled for other problems, "What about a power source?"
+
+"It has its own power, but I can add mana crystals or dungeon cores if I want. Either way, we'll be installing a few of these into the city immediately. I'll be back after I finish."
+
+Over the next hour, I created a hundred of these batteries, mass-producing them as I had many other objects. I did so outside of the city, the heat alone being enough to cook everyone inside. Once finished, I got my army of golems to install them into the ruler's homes, along with mana batteries.
+
+After I handled the installation, Targask tried using one of them. He frowned at it, the sight disturbing him as he murmured, "How in the hell did you create this?"
+
+I grinned at him, "The same way I will make lots of other stuff."
+
+Targask gave me a wary eye as I lunged to one knee, still over his eye level,
+
+"Now then...Let's see the next set of runes, eh?"

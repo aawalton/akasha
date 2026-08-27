@@ -1,0 +1,147 @@
+---
+id: 83ea1aa9-65d1-5855-a566-d7c26c0f435f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1172 - A Companion For Life"
+slug: 0044-chapter-1172-a-companion-for-life
+partOf: the-primal-hunter
+position: 44
+ownLength: 3064
+unit: words
+ownProgress: 3064
+publishedAt: 2025-10-03
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2648791/chapter-1172-a-companion-for-life"
+royalRoadId: "2648791"
+markedReadAt: "2026-06-29T19:30:39.288Z"
+---
+
+“Good, you’re here,” Nature’s Attendant said as soon as Jake and Artemis arrived. “I take it you’ve been updated on the state of things?”
+
+“Just that we’re in the final stretch,” Jake answered, his gaze scanning the entire formation. Usually, the drawn lines were subtle, but now, everything was teeming with energy, all the runes and whatnot shining brightly.
+
+He also felt that the entire ritual was currently in a state of semi-dormancy. Nature’s Attendant had delayed it as he waited for Jake and Artemis to arrive, but the moment he allowed the formation to fully activate once again, it would be like letting go of a fully drawn bow’s string.
+
+“Precisely,” Nature’s Attendant nodded. “The two branches that will make up the bow are now as grown as they can be while under my purview. The only thing left is the final infusion, where you’ll create a connection with the bow. However, I will warn you that this is also the one and only point of failure in this.”
+
+“How so?” Jake questioned as he observed the two sprouts that had grown into what could almost be called two small trees. Both of them had grown in a spiral pattern around one another, the two effectively merging into one, and with how they were bending over slightly, they had even grown into the shape of a bow.
+
+“You need to be acknowledged by it,” the second-in-command of the Pantheon of Life answered. “I want to say that this shouldn’t be a concern, but items of this nature can be very fickle. Especially in this case, I have some cause for concern that I hope won’t materialize into any actual challenges.”
+
+“Could you elaborate?” Jake questioned, really wanting to go into this with full knowledge.
+
+“The ritual has gone a lot more smoothly than I anticipated, and the growth of the two plants exceeded my expectations, and not by a little either,” Nature’s Attendant sighed. “This tells me two things. First of all that the two are incredibly compatible with one another, and secondly that the energy they’ve been nourished with has proven to be highly effective.”
+
+“Both of those sound like good things?” Jake asked, perplexed.
+
+“Oh, they are. Assuming you manage to get acknowledged, that is,” Nature’s Attendant chuckled as he went over and stood in front of the two plants that had grown into the shape of a bow. “This bow does not contain sentience, much less sapience. However, it can be viewed as a living item, even if it doesn’t have a Truesoul. As with any other living being, it has instinct. And right now, I cannot predict what that instinct is telling it, only that from experience, the faster a plant like this grows and the stronger it gets, the more arrogant it also becomes.”
+
+“So I’ll need to give my new bow a stern talking to and prove myself superior or worthy of wielding it?” Jake asked.
+
+“That’s an oversimplification,” Nature’s Attendant shook his head. “Remember that this bow is formed from a set of Records, and those Records have colored and formed its instinct. You need to have an approach that’s suitable.”
+
+Nature’s Attendant paced a bit back and forth as he kept looking at the bow. “Consider this. If I decided, here and now, to unleash my full aura and will upon you with the option to either submit and serve or die, would you willingly submit?”
+
+Artemis looked a bit disturbed at the hypothetical, while Jake didn’t hesitate to answer. “I would tell you to respectfully go fuck yourself.”
+
+Chucking, the old god shook his head. “As I would expect you to. However, seeing as your Records as well as the Records of an Apex Hunter are a huge part of this bow, I fear that it may adopt a similar instinctual response to you, where it would rather choose to wither and die than submit.”
+
+Jake frowned as the god continued.
+
+“When the ritual fully completes, there will be a brief window where the bow will have to fully merge with you once more. As I said, it doesn’t have a Truesoul of its own, meaning it will have to rely on yours. However, should it resist, it will not be bound to any soul and thus wither away with not even I capable of doing anything about it.”
+
+“So I have to convince a potentially defiant and moody bow to join me willingly?” Jake now guessed.
+
+“Or your first idea turns out to be the best approach. No one can tell you, as only you can communicate with the bow as it’s been tied to your soul from the very start of this ritual. I want to give you advice on how to proceed, but I truthfully have none that I can confidently stand behind,” Nature’s Attendant shook his head.
+
+“Just follow your instincts, Jake,” Artemis chimed in with a comforting smile. “I think that’ll be your best bet.”
+
+Jake slowly nodded. Artemis was definitely right. He also wasn’t going to ask about what the Pantheon of Life would do if the ritual did end up being a total failure. In that instance, Jake would have lost not only his old bow, but the Pantheon would also have lost a lot of resources and time invested. Failure wasn’t an option that he even wanted to seriously entertain when standing right in front of the finish line.
+
+“I think that’s all I can say on that matter,” Nature’s Attendant also nodded. “Now let’s conclude the ritual. For this, I’ll need you to infuse energy as normal as I do the finish touches. At the same time, Artemis will attach the prepared string, completing the bow fully. Once complete, the window you have remaining to fully bind the bow will be rapidly closing, so try your best to succeed before that happens. We cannot delay if you find yourself troubled.”
+
+“Alright,” Jake said. He would be lying if he said he wasn’t nervous. It also felt a little unfair that Nature’s Attendant had sprung this final failure point on him right here and now, but Jake could only guess the god had his reasons.
+
+“Then let us proceed,” Nature’s Attendant nodded. “I will limit the energy flow, granting you roughly an hour to successfully be acknowledged, at which point Artemis will have to attach the string. Remember, once the string is fully merged with the bow, you will have seconds, not minutes.”
+
+At the direction of Nature’s Attendant, Jake went into position. He would kneel and infuse energy into the formation circle around five paces from the seemingly fully grown bow, allowing him to observe it during the entire process.
+
+“Ready?” Nature’s Attendant looked at Jake.
+
+“Ready,” Jake nodded, and with that, the god started the last part of the ritual.
+
+Power enveloped the entire area as Jake felt the draw on his power instantly. Jake responded gladly as he began to infuse the formation, the drain quite manageable compared to many of the other times he’d been sucked dry by this particular ritual.
+
+It didn’t take long before Jake felt another massive difference between this time and all those prior. Rather than merely infusing the magic circle with energy, he felt himself truly merge with the formation, and he felt all of it at once... especially the bow sitting right in front of him.
+
+As energy surged into the bow, something within it began to awaken. At first, it appeared less than pleased, but upon noticing Jake’s energy infusion, the bow greedily began to absorb as much as it could.
+
+Jake watched on as the bow began to glow as veins of his arcane mana pulsed all over the bow’s body. The two wooden branches hugged each other tighter than before as they merged even more, the seams between where the two types of wood met becoming harder and harder to see.
+
+Not wanting to waste time, Jake sent a bit of his will towards the bow in an attempt to connect with it. However, upon noticing more than pure energy, the bow vehemently rejected the approach, Jake feeling its instant instinctual rejection of what Jake was trying to do.
+
+Uncharacteristically, Jake didn’t push things but slowly backed off from the bow after this first rejection. He waited a little before trying again, this time with a subtle approach, with the result being yet another strong sense of rejection. This happened several more times over the next few minutes as the ritual rapidly progressed.
+
+It may look like Jake was wasting his time, but he slowly began to learn the nature of this rejection, and it was very much as Nature’s Attendant had spoken about. The bow contained a lot of Jake’s Records, which meant that the instinctual consciousness that had been born was very similar to Jake’s. At least he had heavily affected it.
+
+Considering the vessel this consciousness dwelled within was constructed from a bow, all about being an apex hunter that strives to fight anything stronger, no matter the risk, this part of Jake’s Records was only amplified and brought to the surface. Adding a branch directly from a Primordial did introduce some level of calmness, but also helped spur on the innate sense of superiority the bow possessed.
+
+A part of Jake had wondered why Yggdrasil, considering her absolutely massive size, didn’t donate more branches like this to Nature’s Attendant to create items from, but he now understood. Ultimately, the new owner of any item Nature’s Attendant created had to still be accepted, which set a ridiculously high standard for who was qualified.
+
+After poking the bow a few more times, it was clear his usual approach wouldn’t work this time around. Jake knew that if he went the more forceful route of proving himself superior by fully unleashing his Bloodline, he would be able to suppress the instinctual consciousness within the bow, but he also believed that wouldn’t end well for him or the bow.
+
+Like Jake himself, the bow would fight back to the bitter end. It would see Jake’s attempt to bind it as a challenge, and knowing it couldn’t get away due to it being an immobile bow stuck in formation, it would act like a cornered beast. Despite not standing a chance and likely not even being able to injure Jake’s soul, it would certainly give its best shot.
+
+This put Jake in quite a pickle as he found himself unsure how to proceed. The bow wasn’t actually consciousness but was indeed pure instinct, meaning words wouldn’t reach it, only sentiment and emotions. This limited negotiations a lot, as Jake could do anything as complex as bartering with it.
+
+That didn’t deter Jake as he just kept trying, having decided to at least get the bow more used to Jake’s constant presence as he made his will a constant companion to the energy which the bow still greedily absorbed.
+
+Seeing as he didn’t try to directly force his will into the bow, it slowly got accustomed to Jake’s presence. Likely also because it so closely mimicked the energy it loved to absorb. This allowed Jake to get a better read of the bow and even connect to it at least a little bit to better feel it out.
+
+A few times, Jake tried to have his will get a little closer, but the bow reacted like an angry cat hissing at this approach, ready to claw him should he try to get closer. Still, he kept trying, feeling like he could get at least a little closer every time as he continually attempted to convince the bow that the two of them were cut from the same cloth.
+
+Jake’s slow and steady approach did seem to make some progress, but there was one major problem with it... Jake was under a strict time limit. Despite what he fully believed to be Nature’s Attendants’ best efforts, the ritual was rapidly approaching its end, marked by when the bow was indeed fully formed.
+
+When that happened, Jake heard a faint sound of something snapping. Looking at the bow, he saw that the bow had broken free from the ground entirely, making the bow slowly float upwards as now only pure energy connected it to the ritual.
+
+Right then, Artemis also made her move to do her part. She appeared in front of the bow as a string of some unknown material appeared. This string floated toward the bow, and to Jake’s surprise, he saw the bow gladly accept it as some of its wood slightly unwound at the top and bottom.
+
+This allowed each end of the string to merge directly with the body of the bow. With the bow in place, Artemis threw Jake a look as she mouthed “good luck” before teleporting away again.
+
+At the same time, Nature’s Attendant spoke into Jake’s head. “Now’s the time. I wish you success.”
+
+Jake didn’t hesitate as he tried to infuse his will into the bow once more, this time not with the intent to dominate, but trying to foster a feeling of kinship. He tried to convince the bow that they were meant to be one and of his own worthiness to wield it.
+
+He felt his soul slowly begin to merge with the bow as he believed it had accepted him... but when the process passed the point where it became clear Jake was the ‘owner’ and the bow nothing more than a tool, he felt its rejection once more, stronger than before.
+
+Quickly, he tried again, but once more, he found himself aggressively rejected. Beginning to feel a bit desperate, Jake made several more attempts over the next few seconds, but that only ended the same way.
+
+Knowing he indeed had only seconds remaining, he had to try something drastic.
+
+Standing up, Jake kept infusing energy into the formation as he walked closer to the bow. This was Jake’s last-ditch effort, as he had only one idea left, and given the limited time, he likely had only this final gamble.
+
+Reaching out to the bow, Jake wrapped his hand around the handle. When he did this, he felt the bow fight back as destructive arcane energy surged out of it and into Jake’s body, trying to shake him off.
+
+This only made Jake smile as he responded by pushing in his own energy directly. At the same time, he stopped all pretence and attempts at convincing the bow that he was the one meant to wield it all of that other stuff... instead, he tried to win it over with a far simpler message, with a single mental image and one equally simple question.
+
+The image he sent was of himself wielding the bow, a Protean Arrow drawn and ready to fire as a True Dragon stood before him. With it, a question he knew himself well enough to know he would be unable to reject:
+
+“Wanna kill a dragon with me?”
+
+For the first time, Jake felt his will find some leeway as it entered the bow. It seemed enamoured with the concept of hunting down a dragon, instinctually drawn to the idea, as that was indeed what it was born to do. It’s Path. Yet there was still some doubt, which Jake sought to quickly relieve.
+
+A second mental image appeared, this time showing Jake hunting something far more impressive than a dragon. It displayed Jake standing with the bow in front of a bare-chested human wielding a simple axe, their two auras clashing as Jake was ready with an arrow already nocked.
+
+“Wanna see what the apex really looks like?”
+
+Jake’s strategy had changed from trying to convince the bow he was some fated partner to instead offering something far more tangible... the idea that he could be its vehicle to fulfill its purpose and Path. For it not to merely be Jake making use of the bow, but for the bow to equally make use of Jake to accomplish its own desires.
+
+Right as Jake saw signs, his time was indeed about to run out... the rejection disappeared, and instead, a powerful connection formed as he and the bow had found a common goal.
+
+All around them, the formation began to break apart and disperse, but Jake barely noticed it as he instead focused solely on the weapon in his hand. Not wanting to delay, he quickly used Identify, in part to confirm he had indeed succeeded.
+
+[Apex Hunter’s Bow of the World Tree (Mythical)] – Formed by Nature’s Attendant from a gift by the system and a branch of the World Tree, a bow of untold potential has been born, fit only for a hunter that stands at the apex. A true apex hunter seeks only to challenge worthy foes and effortlessly strikes down those inferior that dare impede his quest. Increases damage done against foes dependent on level disparity – both lower and higher – up to a certain threshold. This effect is based on Perception. This bow is overflowing with life energy, making it near-indestructible and ensuring it will recover from any damage as long as the host is still alive. All your arcane energy infused into the bow will find itself amplified. Faint whispers of a consciousness linger within the wood. Untold potential lingers within, allowing this bow to adapt and grow in tandem with the user. Enchantments: Apex Hunter. Requirements: Soulbound
+
+“Good job... for a moment there, I feared failure. Also, don’t be too disappointed that it’s only a mythical rarity item,” Nature’s Attendant said in a comforting voice as he teleported over right next to Jake. “Making it more powerful wasn’t feasible when you’re still in C-grade, but give it time and attention, and it shall grow as you do. It’s nothing if not adaptable.”
+
+Jake nodded, already feeling that. While some parts of the bow would stay the same, he felt a nearly limitless potential for change and adaptation within it. With time, it would only grow stronger, and even the name of the bow would change to something far less generic.
+
+Who knows, maybe he could even get one of those truly legendary weapons with only a single-word name... but for now, Jake was more than satisfied, as he knew he’d just obtained a companion for life to wield alongside Eternal Hunger.

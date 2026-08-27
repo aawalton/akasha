@@ -1,0 +1,51 @@
+---
+id: 2ffa79d7-0ff7-5d76-af8f-87179defcc51
+page-type-slug: story-read-royal-road
+title: "Dungeon of Knowledge [Complete]"
+slug: dungeon-of-knowledge-complete
+world: dungeon-of-knowledge-complete
+unit: words
+author: "timewalk"
+rank: a-rank
+following: true
+royalRoadTags:
+  - "LitRPG"
+  - "Progression"
+  - "Strategy"
+  - "Multiple Lead Characters"
+  - "Action"
+  - "Adventure"
+  - "Fantasy"
+  - "Dungeon Core"
+  - "Dungeon Crawler"
+  - "Female Lead"
+  - "High Fantasy"
+  - "Magic"
+  - "Non-Human Lead"
+royalRoadSeriesStatus: completed
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete"
+royalRoadId: "80744"
+---
+
+Aliandra Amariel loved magic, dedicating her academic years to the study of runes and spells, pushing the boundaries of mana's infinite possibilities. Like most Fae, her destiny seemed clear until that fateful day of her Class Trial, when the Blind Lich unleashed an undead apocalypse on her home, the fabled underground city of Dal’mohra, and triggered The Breaking – a cataclysm that forever reshaped the world. 
+
+Saved by her mother’s legendary time-stasis spell, Ali wakes thousands of years into a dark future. Everything she knew and loved is gone, buried under a mountain, transformed into a twisted dungeon by the malevolent will of the Lich. 
+
+Now, Ali must confront her deepest fears, mastering the arts of battling monsters and braving a town riddled with corruption. As the Lich's grand design shadows her every move, she scrambles to forge new friendships and unearth ancient knowledge in her fight for survival. 
+
+Why must she struggle? All she had ever wanted was to curl up in a comfy chair with a few thousand good books. But the immortal Lich is drawn to her unique magic, ever hungry for more power to fuel his cold-hearted ambitions. 
+
+How will she survive the giant target painted on her back as her advancement slowly reveals the horrifying truth of the Class she chose to save herself? Will she falter, forced into the eternal servitude of undeath, or will she rise against all odds and cast him down, ridding the world of his evil?
+
+Release Schedule: Tuesday, Thursday, Sunday.
+
+Patreon has +50 additional chapters.
+
+What to expect:
+
+- LitRPG elements cover classes, skills, monsters, enchantments, and items. Stat blocks appearing at the end of chapters are generally considered informational and can be skipped if desired.
+- Multiple POVs as we follow Ali and her friends on their adventures.
+- Heavy focus on Group and Raid dungeon combat inspired by games like WoW, PoE, and Diablo.
+- Some profanity, lots of gore, a touch of humor
+- No romance.
+- This is not a traditional dungeon core story with a fixed consciousness plotting levels in a hole.

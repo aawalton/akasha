@@ -1,0 +1,489 @@
+---
+id: bc1f5773-79f5-5eab-b3e2-6b0a78d2feda
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED SEVENTY-FIVE: Beginning"
+slug: 0277-two-hundred-seventy-five-beginning
+partOf: super-supportive
+position: 277
+ownLength: 5085
+unit: words
+publishedAt: 2026-03-11
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3138508/two-hundred-seventy-five-beginning"
+royalRoadId: "3138508"
+---
+
+275
+
+******
+
+“Kivb-ee?”
+
+“Kibby.”
+
+“Her?”
+
+“Her. Kibby. And Instructor Gwen-lor, not that she knew she was providing instructional videos a human would watch.”
+
+“But how?”
+
+Alden had just explained how he’d gradually learned to sense and then control his authority on Thegund. He doubted Stuart really wanted him to repeat it all.
+
+“There is something else that made me more wizard prone,” he said. “According to the Contract. The Mother. But I feel like I’d be sharing another person’s secret if I told you. I’d rather explain what’s going on to them first, and it’s not exactly simple to talk to them. Is it something you need to know to make decisions about what we should do next?”
+
+We. I’m not going to be facing this by myself.
+
+Stuart’s response had been even better than he’d hoped for.
+
+He’s had some time to take it back now. And he hasn’t.
+
+“Do you think it will be all right with other people? What I am?”
+
+“It should be…or…I’ll help make it so.” Stuart’s fingers scrabbled for the grape bowl. “I do need to think. Let me think.”
+
+“Of course!” Alden stood to give him some space. “I’ll unpack. Ask me anything. As much as you want. I’m right here. Ready for whatever.”
+
+He couldn’t quit smiling. Stuart wasn’t angry, sad, or freaking out. The Grand Senate hadn’t teleported here to turn Alden into a bug and squash him. He was still alive and free, and now he had help. He wasn’t being rejected.
+
+Stuart had returned his learning partner pat.
+
+I want to do it again.
+
+He moved Other Alden gently off his suitcase and set her on the floor before carrying the bag over to the bed and unzipping it. His learning cushion was on top—made by the craftswoman Enyl-tirg, the same kind wizards used.
+
+“Yes to everything you are.”
+
+Those words wove through all his thoughts, shining, so good they were almost unbelievable and so deeply wanted that he couldn’t put them down.
+
+He’ll help me figure this out now. And I’ll be able to help with the difficult stuff ahead of him, too. Nothing’s broken.
+
+Was this moment real? He was so much lighter than he had been an hour ago that it felt like a dream.
+
+My dreams are never this awesome.
+
+He positioned his cushion beside the window, making sure to leave room so Stuart could put his beside it.
+
+I can show him my spells. Maybe he has advice about some of them. Recommendations for new ones.
+
+He turned to see what Stuart was doing now. But the Artonan was just staring at the gingerbread klerm like it would whisper ancient wisdom if he waited long enough.
+
+Inviting him to cast spells with me right this second is too soon.
+
+Alden finished putting his clothes away in the drawers under the bed. He took off his pezyva, and then spent a delightful couple of minutes wondering what he wanted to do with his auriad. Stuart knew. It was just the two of them alone here. So he could wear it wherever he wanted without hiding it anymore.
+
+He had on the sleeveless, indigo shirt that matched it.
+
+Right arm, since I’ve been learning the new summoning spell with that hand. Wrist or bicep?
+
+Wrist. Ready to cast.
+
+Utterly pleased with the choice, he put it there and sat on the corner of the bed, watching Stuart think.
+
+“If you want me to tell you anything else, just ask,” Alden said after a lengthy wait.
+
+“I’m still considering all that you’ve already said.” Stuart spoke seriously to the cookie.
+
+“I’m so happy. This is like…I was afraid this might be the end of so much. Instead it feels like a beginning.” He flopped back onto the soft bed cover and started counting the wooden triangles that tiled the ceiling so that he wouldn’t drive Stuart nuts.
+
+******
+
+******
+
+******
+
+No matter which tree limb Stu started from, he could not find the next that would allow him to pull himself up toward clarity.
+
+Alden had thoughtfully acknowledged his knight oaths, but there was no part of the oath ceremony or the preparation for it that told him what a knight of the Mother Planet should do if their Avowed friend announced he’d become self-aware and capable of magic.
+
+Less than a year after his first binding, with only an untrained child and chaos for his teachers.
+
+If many human Avowed were similarly talented this would have happened before now.
+
+It hadn’t. Therefore, Alden wasn’t the harbinger of millions of human wizards. Therefore…what?
+
+Stu didn’t know. There were so many factors to consider, and he lacked understanding when it came to several of them.
+
+There had been knights of other species. A few, in the past. Could their stories even be brought forward and applied to this situation?
+
+He’s always been interested in seeing me cast and hearing me talk about it.
+
+That held different meaning now, as did many other things they had spoken of and done together.
+
+He waited so long to tell me. He was scared. I haven’t known him very well at all. He wouldn’t let me. I thought…
+
+But if Stu was hurt, that hurt was buried every time it attempted to surface by what Alden was trying to give him now. At the end of his choosing season, he had come to Stu to tell him what mattered most to him.
+
+First, that he believes in me.
+
+Second, that he can do magic like me.
+
+Third, that he would rather come with me to fight chaos than live in peace.
+
+Hadn’t it only been a short time ago that Alden was afraid he would be summoned for dangerous tasks?
+
+“Alden, are you sure you want to go to Goldbush with me? And anywhere else dangerous I go. To be a knight with me. That’s what you said, but… ”
+
+But it’s too good. I want to hear you say it again to be sure it was real.
+
+He waited for Alden’s answer. When it didn’t come, he glanced over at the bed. The human was lying there with his legs dangling over the side.
+
+Stu went to look at him. “You fell asleep? At a time like this!”
+
+It was morning on Anesidora and late at night here. Their positions should have been reversed. But Alden had a slight smile even in slumber.
+
+Stu’s eyes caught the auriad around his wrist. How did he get one?
+
+It was fully bonded, too, so he’d had it a while. Stu had never seen it before.
+
+He’s been hiding it from me. From everyone. Because of fears that may be reasonable. But he tells me he wishes to be my brother on the path of highest onus, then he rests with that look on his face.
+
+Stu turned off the lights over the bed.
+
+“Thank you,” he said to the dead, the Mother, and the alien who had become his friend.
+
+******
+
+******
+
+******
+
+When Alden woke from his accidental nap, sunlight was pouring into the cottage, and his mood was still bright enough to compete with it. “Sorry, Stuart,” he said as he sat up. “I didn’t realize I was that tired. You should have said someth—”
+
+A frazzled Artonan leaped up from the table and rushed over to stand in front of him. His hands were clenched at his sides.
+
+“Hi?” said Alden.
+
+“Are you bonk-noggined?” Stuart demanded.
+
+“I hope not.”
+
+“Does self-loathing clog your veins like stuffing sap?”
+
+“I really hope not.” Alden leaned back. Stuart’s eyes were boring into him. “What are you upset about?”
+
+“You don’t care enough about your next binding! It’s not normal to disrespect your own existence as much as you do.”
+
+“That’s not true. I respect my existence, and I care about myself plenty.”
+
+“You must know that you will grow in power more quickly than other Avowed.”
+
+“Yes, I know that. I— ”
+
+“Is Earth’s Contract offering you unnecessarily frequent opportunities to bind new abilities?”
+
+“Well… ”
+
+“You’re not accepting them?!”
+
+“Do I act like I am?”
+
+“I do not know for sure,” said Stuart. “You wandered around the siblinghold delivering third meal immediately after you endured a binding that must have been your first as someone who can actually comprehend it in the same way we do. You had wevvi with me that day. There was dirt under your fingernails! I should have known!”
+
+“You should have known I’m the only human wizard by some fingernail dirt?” Alden asked.
+
+“You must have clawed at the ground in your distress.”
+
+“Yeah…but I think it would’ve been more reasonable for you to assume I just didn’t care much about hygiene.”
+
+Gingerbread crumbs flecked the front of the same brown sweater Stuart had had on last night. He obviously hadn’t been enjoying a blissfully restorative sleep for the past few hours.
+
+“Exploring your house and spending time with you that day was good for me. The distraction, an introduction to Rapport I and quality wevvi, finding out someone I never would have expected to care much that I was gone had named a ryeh-b’t after me—that all made for an interesting and easy welcome back to life.” He looked around the cottage but saw no sign of Other Alden. Stuart must have let her out to play. “And it was really cool to be alive that day. Because of where I’d been and how likely me dying was, I had a lot of gratitude for existence to go along with the existential ouch. I still do.”
+
+Stuart’s hands unclenched, and his mouth twitched. “I’ve meant to ask you before if you know the word you often use for an exclamation of pain is one of the more amusing ones for an adult to choose.”
+
+“Ouch? My ouch is a childish ouch?” Did I just say existential ouchie?
+
+“Somewhat.”
+
+I did.
+
+“I feel like you could have told me that sooner,” said Alden.
+
+A brown eyebrow arched. “Let’s both tell each other things sooner from now on.”
+
+“Ha…yes. Say we’re even?” Alden stood. “I’m not filled with self-loathing sap. I promise. I don’t know how you got that idea.”
+
+“When should your next binding be?”
+
+“Around half a year.”
+
+“This doesn’t worry you?”
+
+“I’ve only recently become able to think about it without vomiting, so I don’t think most people would call me unworried.”
+
+Stuart followed him toward the bathroom. “You do intend to go through with your next binding, then?”
+
+“I will. Don’t worry about that. I’ll tell you if it’s ever getting too hard for me, like… ” He veered away from mentioning Sina at the last second. “Like Ryada. I see how hiding what she’s going through affected her and her squad. I’ll try to learn from that. If I’m having trouble, I’ll tell you, and if something like that ever happens to you, you’ll tell me. That’s how it’s supposed to be, isn’t it? For brothers on the path of highest onus together?”
+
+Stuart liked hearing “brothers on the path of highest onus.” Alden could tell by his face.
+
+“I’m shutting you out now,” said Alden. “Even if we’re on the same path, we don’t have to be in the same bathroom.”
+
+He slid the door closed. Stuart waited a whole thirty seconds before deciding to talk through it. “You’re sure you’re not avoiding the reality of your next binding?”
+
+Alden wondered how many friends and family members the art’hs had lost to that kind of thing over the years. “I’m sure.”
+
+“Your spell impression for Jatontan pests…it’s such a small part of who you will be. We will laugh about it together one day.”
+
+“We can laugh about it now, if you want to, Stuart. I’m not pleased with it, but it is a little funny.”
+
+“You want to fight beside me?”
+
+“Yes, I do. I don’t want to sit in a classroom waiting to hear if you’re all right out there.”
+
+“I am…”
+
+Alden had time to wash and dry his hands before Stuart found a way to finish the sentence.
+
+“I am overwhelmed.”
+
+When Alden slid the door open again, Stuart was looking up at him from three feet away. “Overwhelmed is fair,” said Alden. “I put a lot on you at one time, after hiding the truth from you.”
+
+“Do you understand how wonderful this is to me? How much everything you said yesterday means?”
+
+“Haven’t I made your life more complicated, too, though?”
+
+“You asked to guard my back from demons, Alden. Do you think the complications could ever drown that out?” Stuart watched him, apparently waiting for something.
+
+“I’m not taking it back,” said Alden. “I meant it.”
+
+Stuart smiled. “You know your next binding is soon, you are not trying to pretend otherwise, you want to be strong enough to go with me to Goldbush and beyond, and you don’t disregard the value of your own existence?”
+
+“That all sounds correct.”
+
+“Then why have you been acting so disinterested in my skill research!? It’s even more urgent than I realized, and you knew that because you know how swift your growth is.”
+
+Alden froze. “I … ”
+
+“Don’t worry…no, do worry more than you have been, but don’t be afraid that you’ll have to fight with nothing but Earth-provided Ryeh-b’t skills. What you already have is a lovely start, and together we will uncover everything about it this weekend that we don’t already know. You’re not fond of the entrustment requirement. You could have a skill that’s functionally similar, only without needing someone else’s permission to protect things and with limitless potential for growth.”
+
+And apparently there’s something like a version of Bearer that doesn’t require an entruster. When he said he’d help me get any skill I wanted, he really meant anything.
+
+“You had your last binding here,” Stuart continued, “and you obviously chose to enhance the skill you already have rather than selecting something new. It was Mother who helped you. What did she say to you about your skill?”
+
+Trust Stuart to find the most unanswerable question possible within minutes of me waking up.
+
+Alden realized he should have seen this one coming, and coming fast. But he was stumped by the way it had come at him. The triangle of absolute secrecy would let him lie or dodge, but it couldn’t do anything about him being unable to come up with an answer that would satisfy Stuart as quickly as Stuart expected to be satisfied. The question was so simple and so important to him that he only gave Alden seconds before he repeated it.
+
+“Alden, what has Mother said to you about your skill?”
+
+The idea that she wouldn’t have said anything helpful to the human wizard Alis-art’h had sent her way was unbelievable, given her personality. And even if Alden had wanted to lie, he was drawing a blank on lies that wouldn’t fall apart almost immediately.
+
+I should do something nice for the gremlin sometime, he thought. Find someone who’s really uneven and remind them to pay back their wordchains.
+
+He didn’t know what the secrecy tattoo would be like if the gremlin hadn’t forced Ro-den to align more with his own understanding, but he doubted it would have been an improvement on the current state of affairs.
+
+Maybe I’d be required to do something awful to get out of this.
+
+“Alden!”
+
+“You know, I honestly wasn’t thinking that talking about my skill would be the main thing we did together after what I told you.”
+
+“What could be more important?”
+
+He’s thinking I’m the dumbest guy on the planet right now.
+
+“I want to cast spells,” said Alden, holding up his wrist. “Did you see? I have an auriad.”
+
+Stuart seemed ready to argue, but then he looked from Alden’s face to the auriad to the learning cushion waiting on the floor. “It’s true that we have to talk about more than just your binding.”
+
+“A lot more,” Alden agreed.
+
+“You want to start with your wizardry?”
+
+“Just the phrase ‘your wizardry’ makes me weirdly excited. So yes, please.”
+
+“All right. I did want to see you cast.”
+
+“Great!”
+
+“First tell me what Mother said about your skill though,” said Stuart. “I won’t be able to focus on anything else until I know if you have to have a new skill for next time or if you’ll be able to bind your authority to this once more.”
+
+Alden hesitated.
+
+“Why are you hesitating?”
+
+If I say I’m going to bind my authority into this skill again it’s kind of pointing to what the skill is, isn’t it? I guess he might not realize it, but if he starts looking into how strong B-rank Rabbit skills should be on the internet he’ll be able to figure it out.
+
+“If you don’t know, ask her now.” Stuart waited.
+
+“I think…everything will be fine,” said Alden.
+
+“What does that mean?”
+
+“Do you have promise sticks? The first spell I ever cast was to light a promise stick.”
+
+“I was less frustrated than this when I pushed Asay yesterday! Of course I have promise sticks. I’m in school.”
+
+******
+
+******
+
+Even without the damn tattoo messing up our conversation, thought Alden, I wouldn’t have been able to resist steering us this way for much longer.
+
+He was on his learning cushion. Stuart was bending to place his own.
+
+“I asked you to go get promise sticks, and now I wonder if it’s too small. The spell that lights them. You must have cast it thousands of times, so you’re not going to get excited seeing me make a little flame.”
+
+Stuart pulled a small bundle of the sticks out of one of his pockets and placed it on the floor between them. “On the way up to the house to get these, it occurred to me that your first spell must have been important to you in ways I can’t properly imagine. The children of wizards assume they will cast like their parents do, and in my case, it was even more so. I never had the idea of not being able to do magic, and since my mother taught me my first spell when I was so young, I don’t have memories of it.”
+
+He folded his legs and settled onto the cushion.
+
+“It was a finger chime. I only know for certain that that was the first because she told Father so.” Stuart held up his left hand, then bent the index finger. A clear and pretty tinnng sounded, like he’d tapped on an invisible wine glass. “This one.”
+
+“I know one like that! But I have to cast a whole spell first, and then it’s all my fingers. That spell’s just bending one finger? How?”
+
+“It’s not hard to train yourself to abbreviate very small and common spells like this….You didn’t know that?” Stuart’s tone was neutral, but he didn’t do as well when it came to keeping the surprise off his face. “Of course it’s natural that you might not.”
+
+“Don’t worry about hurting my feelings by mentioning how much I’m ignorant about,” said Alden. “Believe me. I know. I had this moment in the top library, when I found the study journals you and your classmates wrote. I wanted to read more about magic so much, but then when I opened them, ninety percent of what you were all thinking about was…”
+
+“Those journals were written by students approaching graduation from the Rapport School, to help us explore subjects we ourselves found complex enough to be worth more than a casual amount of thought. They should have been extremely difficult for you.”
+
+“A lot of it was closer to incomprehensible than difficult,” Alden admitted. “I realized then that it would be decades before I caught up, if I even could without access to all the things you had there in that building. So…I know. We don’t have to cover the truth in sugar. Kibby didn’t even have an entire year’s worth of lessons for us to watch. Just the early ones for Gwen-lor’s youngest students. And since I left Thegund, I’ve mostly been learning from a single book. And trial and error.”
+
+“Where did you get a book?”
+
+“Not from the top library. I didn’t steal it.”
+
+“I didn’t think you’d stolen it, Alden. I was wondering about the quality of it.”
+
+“I got it and another book here. From her…Mother. Right after my binding that day. She gave me my Forgetful Traveler’s Bag, too.”
+
+“I wondered about that bag. Especially since you said it wasn’t from Worli Ro-den. Forgetful Traveler’s objects aren’t easy to acquire. And yours matches your auriad!” Stuart brightened. “Mother encourages your learning!”
+
+“Yes. I think so. The book full of auriad spells is called Whan-tel’s Art. As far as I can tell, it’s not intended for people who are just beginning to learn. I can cast the spells in it, though, after some study, and if I read everything carefully, I pick up random general principles from the instructions. Olorn-art’h’s earring helps with that. And, no, I’ve never learned about abbreviating simple spells, but I was starting to get the idea that that sort of thing might be possible.”
+
+Alden reached for one of the promise sticks on the floor.
+
+“I like to use the spell that lights these on candles. Mother listed it as an impression on my fake Avowed profile so that I could cast it in front of people if I want. I’ve noticed it’s getting easier for me…in this way that seems to be about more than just practice. There’s never any doubt the candles will light anymore, and I have almost a sense for how to make it happen even if my fingers aren’t perfect.
+
+“And the other spells I know still do things when I haven’t got them exactly right. It makes sense that everything is at least a little flexible? I got pretty upset once while I was in the process of learning a spell that calls light—the memory of light, according to the book, but I’m not sure where the line between literal and metaphorical is in that case. Anyway, I had a nightmare, got mad, decided to cast, and instead of the controlled light the spell is supposed to make, I got a huge flash that exhausted my authority. I thought I’d blinded myself and set my room on fire! How did that happen? What was the magical rule behind that mistake? And is it something I could do again on purpose?
+
+“Oh, also! I have a spell I use to crush things, but I’ve been wondering if I could make the area that gets crushed bigger, or if I’ll have to learn a different spell to do that. And I did a summoning spell for the first time this week! My bag comes to me from across the room. That still needs work. Sometimes, I watch everyone in gym for ideas because if they’ve got an impression for a spell, then that’s probably something I can learn eventually if there’s not an additional factor.”
+
+Alden’s need for breath halted his stream of words, and he realized he’d waving the promise stick around for emphasis while Stuart watched him chatter.
+
+“I’m getting too enthusiastic,” he said sheepishly. “You should’ve stopped me. It’s all basic to you and new to me. I guess that’s my point.”
+
+“I didn’t want to stop you,” Stuart said after a moment. “I think I just learned much that I needed to know by listening.”
+
+“It’s nice of you to say so.”
+
+Stuart picked up a stick of his own and ran his fingers over it. “I’m glad to know Mother has been encouraging you. She watches over our knights, and to some extent the others who live in the Rapports. I wasn’t sure how to imagine your relationship with her since you’re a little different.”
+
+And since I avoided answering a question about what she said to me like it was poison.
+
+“Do you like her?” Stuart asked.
+
+[Do you like me, Alden?]
+
+“She’s listening. She’s an eavesdropper. She should feel shame.”
+
+“You are joking with her?” There was an uncertain note in Stuart’s voice that surprised Alden.
+
+“I am. I like her. There are some mixed feelings when I think about the actual authority binding process. I won’t lie about that. But I like her most of the time. She teleported me here last night.”
+
+“I’d better not thank Evul, then.”
+
+“Better not.”
+
+“Sina always liked talking to Mother before she became a knight. And then she didn’t anymore….Did you say you have a fake Avowed profile?”
+
+Alden was relieved to have that easier question tacked onto the end. “I do.”
+
+“You mean the Contracts won’t tell people your actual abilities?”
+
+Alden nodded. “If I’m going to grow more like a knight grows than like an Avowed does…”
+
+“Your talents would quickly become remarkable.”
+
+“Inexplicable might be a better word for it than remarkable, as far as humans go. One of the schools on Anesidora is trying to create a program for prodigies by demanding prodigy-speed growth from their students. Everyone thinks what they’re asking for is shocking. I’m going three times faster than the prodigy rate, more or less. More if we throw me in some chaos. People might be willing to overlook it for a little while because of my age and all the weird stuff that’s happened to me. But pretty soon, the questions would get so loud you’d be able to hear them from here.”
+
+“The fake profile is what wizards who would summon you will see, too?”
+
+“Yes.”
+
+Stuart blinked several times. “I’m not…as familiar with how Contracts handle Avowed as I would like to be, but I think that is very, very strange and would make some wizards screamingly alarmed.”
+
+“Are you screamingly alarmed?”
+
+“Of course not. I’m grateful she’s helped you and relieved that we have more options because of it. Last night you asked me to keep your secret if I thought anything terrible would happen to you because of it, and I admit I had some concerns about how a secret like this one could be kept for more than a season.”
+
+Alden’s auriad tightened as he was reminded that telling Stuart, and having the promise of his help, didn’t guarantee he’d be welcomed by anyone else.“Do we need to keep me quiet forever?”
+
+“What kind of life would that be, Alden?” Stuart shook his head. “And while I might be able to take a Ryeh-b’t to Goldbush, what of the worse places we’ll go to one day? It would be hard to explain how you were coming with me and not dying.”
+
+“Something to look forward to.”
+
+“Yes.” Stuart’s agreement had no hint of sarcasm in it. “I think we should probably tell my parents, if it’s all right with you after we discuss it. They know so much more than me about how others may react and how to help us without creating problems. And we’re going to have to tell them something anyway to get you access to the kinds of talent choices you should have.”
+
+Alden winced.
+
+“We won’t do it if you’re not ready, but they really could make things easier,” said Stuart.
+
+“Sure…”
+
+“You don’t sound sure.” Stuart held the promise stick in his hand out toward Alden. “You were excited to cast with me. And, truly, I am excited to see you cast. We can set aside other matters for one morning. Will you light this?”
+
+Alden stretched his fingers. “I’ll do my sincere best.”
+
+******
+
+******
+
+******
+
+Stu knelt on a cushion in the streamview cottage, watching his friend cast spells one by one. Each was spoken of as if it was quite precious and important. Each was separated by an authority greeting that felt slightly different every time thanks to Alden trying to match it to the last greeting Stu had given.
+
+“You’re good at casting.” He didn’t say it to draw an even wider smile from Alden, though the words had that effect.
+
+“For someone who knows hardly anything at all, you mean.”
+
+Stu didn’t mean it that way, but he wasn’t sure how to explain what he did mean to someone who’d just begun this journey. “Some wizards,” he said, “have voices the universe finds persuasive.”
+
+“If I’m persuasive, why won’t you forgive me for freezing some of your grapes?”
+
+“Because you made them less delicious.”
+
+Alden reached out to greet him again, and Stu met him this time, showing him a more eager kind of welcome.
+
+He feels younger than he is.
+
+It was only because he was new to this. He was so excited by each new way of saying hello. He was a little uncertain about whether or not he was doing it right. He hid none of that from his greetings, perhaps not realizing that he could, or perhaps not wanting to hide anything after so thoroughly hiding everything.
+
+“How did Aunt Alis and the others with her fail to notice you?”
+
+“When I was staying with them and she was keeping me from falling apart?” Alden let his auriad loosen into a new starting position. He shrugged. “I stayed quiet. I held still.”
+
+“It’s awful that you became aware of yourself in that place.”
+
+“It kept me alive.”
+
+“I mean that it’s not fair.” My friend, wasn’t it like being born in a cage in a world on fire?
+
+“There’s another spell like the square punch. I didn’t show it to you because I’ve never really finished casting it. I’m sure I can.”
+
+“Why haven’t you finished it?”
+
+“It shoots in a triangular shape. Like a flying knife. But I’m not sure how strong it’ll be, and I didn’t want to damage something and leave evidence. I did almost blind myself with a flashlight. Have to be cautious about these things.” He laughed.
+
+“Any spells you want to learn, you can cast with me. I’ll take you somewhere where you can try them.”
+
+“That would be great! Now?”
+
+“Whenever you want.”
+
+Alden looked so thrilled.
+
+As if I’m giving him much, thought Stu, instead of something every other wizard takes for granted.
+
+“Let’s go to the supply library.” The decision was sudden but certain.
+
+“Do we need something from there?” Alden asked.
+
+“You do.”
+
+“What?”
+
+“A wizard needs tools,” Stu said, rising. “Let’s find you some.”
+
+******

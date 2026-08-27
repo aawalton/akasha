@@ -1,0 +1,213 @@
+---
+id: 6e4fec1b-f83a-5555-b90f-eda19e11d778
+page-type-slug: story-chapter-royal-road
+title: "206 Meeting an Old Friend"
+slug: 0165-206-meeting-an-old-friend
+partOf: the-new-world
+position: 165
+ownLength: 3206
+unit: words
+ownProgress: 3206
+publishedAt: 2019-05-20
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/363794/206-meeting-an-old-friend"
+royalRoadId: "363794"
+markedReadAt: "2026-06-29T21:26:31.106Z"
+---
+
+"I have a limit to the time I can spend on this. Speak," the Overseer stated.
+
+I turned a palm to him, "We figured out that Tohtella is organizing the Hybrid project, and that she's leading a group of mind-controlling remnants."
+
+The Overseer stood there, stunned into utter silence. I waited a moment, seeing if he had anything to add. He did.
+
+"Do you have any evidence to assist such an absurd accusation?"
+
+I banged on a terminal,
+
+"They're using a secret language that Schema's algorithm can't understand at first glance, and I was hoping you would decrypt it for us. If you do, I'm certain there's plenty of incriminating information on this."
+
+The Overseer stepped up to the terminal, waving his massive hand over it. As he did, an ionic mist spread over the device, powering it up. The Overseer pressed his fingertips together before spreading them out. As he did, an enlarged version of the keyboard appeared. With enough room to type, he interacted with the device for a moment. The alien language passed over it, unchanging as the Overseer scratched the side of his head.
+
+He sighed, opening his red status screen. A few moments later, he spoke aloud,
+
+"Yes, I'll need a direct line to an decrypting AI, preferably an upper tier one."
+
+Moments later, the Overseer stiffened as if possessed. He put his hand on the keyboard while moving like a robot. He spoke with a monotone voice,
+
+"Using unit C-138 for the inspection of unused languages or codes."
+
+He moved his hands at a rapid pace, the terminal lagging as the Overseer typed. A few minutes of this passed before the AI spoke through the Overseer,
+
+"Algorithms insufficient. Passing to higher clearance."
+
+Several iterations passed before a familiar but unexpected voice popped up. Like a British Morgan Freeman, Schema spoke through the Overseer,
+
+"Daniel, it's you again. I see you've proliferated as I expected you would. Excellent work with the Overseer and handling Emagrotha as well. They needed cleansing, and your deeds will not go unnoticed."
+
+I blinked, scrambling for a response. With cold sweat forming in seconds, I took a deep breath and calmed myself down, "Good to see you again."
+
+"You've matured," Schema noted. "I expect great things from you, despite that pesky contract Yawm formed. We will work something out in the future regarding its removal. For the matter at hand, however-"
+
+Using the Overseer's body, Schema glanced down at the terminal before striking a few keys. As he worked, I pointed at him, "Is this really you?"
+
+"Yes and no. This is one of my many, many consciousnesses. I'm dedicating enough processing power to this task as is necessary. Having a secret code used by groups vying for my destruction is unacceptable. I will update the decryption formulas now."
+
+Dozens of screens appeared and disappeared in seconds. The Overseer turned to me, "Perhaps you have a few questions to ask. I will give you a few minutes to gather information."
+
+A hundred different questions popped up in my head all at once, but I quelled the outpour. If I was going to ask him questions, I wanted to make sure they were good ones. Otherwise, he might leave early. After taking a moment to think, I raised a hand,
+
+"Why are you ok with me knowing the cipher?"
+
+The Overseer's head twitched. Odd.
+
+"I am not, in any capacity, fine with you having access to that knowledge. Neither am I accepting of Amara's tampering with the infrastructure of my system. However, I've run risk simulations regarding your overall potential. You are worth the risk in proliferating forbidden knowledge, so I accept it."
+
+I frowned, "How did you know my potential was so high after meeting me in Bloodhollow?"
+
+"Simple." Schema tapped my armor, "This construct is why. In combination with your tenacious persona, you will prove invaluable. Even my creator would've struggled to recreate something so complex. It is and will be one of my greatest tools against threats looming in my horizon."
+
+I crossed my arms, "So I'm a gamble?"
+
+"In essence, yes."
+
+"Then will you send us resources for saving Giess?"
+
+"No. Giess is a waste of time and effort. Resources are better allocated elsewhere." Schema stated.
+
+"But we were able to expose a massive, galactic-sized operation to create a new breed of eldritch like being. We needed the help of Chrona and Krog, and they weren't even a part of the system at the time."
+
+"Logical deductions..." Schema murmured while cupping his facemask. "Point noted. If you can organize the gialgathens, I will help acclimatize them into the system. Considering the difficulty of augmenting them, I will be sparse with delivering enhancements. That will be part of a gift for showing me these information systems. Other questions?"
+
+I wracked my head for other things I wanted to know.
+
+"Do you know about Eonoth?"
+
+"Yes. It is one of the primary threats to the stability of my system. I've contracted worlds worth of resources to suppress the threat it poses, but Old Ones are entropy incarnate. To stop them fully is impossible, though that's assuming I'm using the tools at my disposal now. Future prospects appear promising."
+
+He stared at me as he finished, "I have time for one more question. Ask."
+
+I bit my lip, trying to use a blip of pain to enhance my focus. It didn't help, so I just asked the first thing that popped in my head,
+
+"What do you plan to do with me?"
+
+"I intend to use your unique properties to destroy lesser Old Ones," Schema said with a straight face. My jaw went slack as he continued, "Other ideas include the containment of virulent entities that cannot die. Your status as a living dimension would make you a mobile defensive prison of sorts. I'd also be willing to contract your energy production as a reactor. The excess of it of course. I will wait until you are done augmenting yourself with the cipher before then."
+
+Schema finished, "All ideas. None implemented. Yet."
+
+I don't like to admit it, but I was straight flabbergasted at that point. I didn't expect such a straight forward answer. Schema rendered me speechless before he wrapped the meeting up.
+
+"The code has been processed. I'll send an update throughout the system's infrastructure. This will be a major blow to the Adair family, one worthy of note. I sent you a completed contract and reward for this and the Hybrid's destruction. Excellent work, Harbinger. Continue your industriousness, and there will be more. Goodbye."
+
+The Overseer's body collapsed as he fell to the ground. At the same time, a message popped up in my vision,
+
+Quest Completed! Congratulation! A Personal Favor completed. The reward is as follows:
+
++ 1,304 dungeon cores
+
++ Unknown status revoked
+
++ Guild tier raised to S-
+
+Current Guildmaster: Dimension C-138
+
+Current Dual Legacy holders: None.
+
+III. 5% of total exp and credits gained by guild is gained by the guild master as well.
+
+Amount of exp earned: 504
+
+Amount of Credits earned: 296
+
+Current Level Cap: 9,000
+
+I looked at the reward, stunned by the sheer volume of cores and the straightforward but compelling text. I glanced down, a wave of emotion passing over me. It was a mixture of relief, gratitude, and a bit of anger. I was relieved and grateful to have my unknown status removed. At the same time, I was angry that the damn robot held the unknown status over my head all this time.
+
+I crushed that anger though, taking a step back and appreciating Schema's treatment of me. Even if he was using me as a tool, this wasn't that bad a deal. I intended on helping quite a few people out. It just so happens that aligns with Schema's goals. Considering he could've just had me erased, maybe I should be a bit more thankful to the bucket of bolts.
+
+Eh, maybe.
+
+Despite that, quite a bit of what Schema said unnerved me. Destroying Old Ones was way beyond anything I was capable of for now and the far future. As for being a living prison, that didn't sit right with me. I didn't want some evil piece of shit eating my guts from the inside. For some reason, it just didn't sound very appealing.
+
+I pushed those thoughts out of my head for now though. There was a lot left to handle here on Giess before I moved on to future plans. With that in mind, I put all the core attributes into endurance, giving me a substantial boost in the stat. After finishing that prospect, I had plenty of skillpoints to put into any skill I wanted.
+
+The question was whether it was worth doing or not. Since I discovered the existence of Sovereign skills, creating one and investing my skillpoints into it would be vital for my progress. It would be the most efficient use of these skillpoints possible. That meant putting all my skill points into my skills now would gimp my progress later on.
+
+With that in mind, I juggled a bit of math. I needed 241 treepoints before I finished my Originator tree. Ending that tree then saving these skillpoints for my Sovereign skill or new legendary skills seemed like a solid compromise. After all, with the tree unlocked, I could unlock skills faster. That would help me finish my trees even if I saved these points up for later.
+
+Armed with that knowledge, I put 120 points into Hunter of Many and then 121 points into Legion of One. After an initial rush of fluidity and understanding passed over me, I finished off the Originator tree.
+
+To create requires many things. You need the talent to generate whatever it is you've chosen as your specialty. You need the vision and will to enact with your ability. Most of all, you need the courage to show your creation to the world. You are the rare mix of these traits. May many revel in the wake of your ingenuity.
+
+Originator(Tier 3) unlocked! The base bonus towards creating new skills is increased and further quadrupled for Legendary tier skills and above. Newly created skills form at level ten instead of level one. Skills still level as if on level one despite starting at a higher value, making maxing out skills even easier than before. Legendary skills and above level faster and augment lesser skills with greater ease as well.
+
+The bonuses worked well with what I needed to do. Considering I needed to replace Torix's organizational skills, the tree would be invaluable. Gaining dozens of skills would help me with creating my next legendary skill as well, which was by far my best avenue for getting past this next tree I was about to choose.
+
+And boy, it was a big one.
+
+Breaker(Finish an S tier bounty, only one class can be chosen)(0/5,000) | Purger(Clear a quarantine)(0/250) | Sovereign(Lead an A tier guild or higher, Clear an A tier bounty or higher, Have the ability to unlock three or more legendary skills)(0/10,000)
+
+I selected Sovereign, tapping my teeth together out of nervous energy. To get the most out of the tree, I needed to unlock a Sovereign skill. Considering I wouldn't receive any bonuses from the tree until unlocking that tier of skill, that took priority. Besides, creating Legendary tier skills would be my best method of gaining skill points to complete my new tree. I owned three mythical skills as well, though tying them together was the hard part. While useful on their own, they didn't exactly mesh.
+
+Hunter of Many enhanced my senses, draining abilities, and helped with antipersonnel magic. Star Forger helped me manipulate temperature, my knowledge and expertise of enchanting, and with crafting. Legion of One helped me create fields of effect using mana, and it assisted with my general charisma.
+
+All in all, fusing those skills would be a bit tricky.
+
+It wasn't impossible, however, and it would be far quicker than making more mythical skills. If I was going to make the most out of my time, I needed to align my current actions by forming the new skill. I sat down, crossing my legs and falling deep into thought. The Overseer was still sprawled out on the ground beside the gialgathens, giving me some time.
+
+So I planned out a course of action. Getting many gialgathens into the system was a priority. Legion of One would obviously help me there with convincing them. Star Forger would give me the ability to reward the gialgathens with something for their efforts as well. Hunter of Many though, well, it didn't work with anything there.
+
+My thoughts went back to Torix at that time. He'd handle all this administrative work for me with efficiency. Torix would probably keep tabs on several critical sites around Giess as well using summons of his own. To do something like that would require deft handling of my resources and...
+
+An idea popped in my head. Hunter of many revolved around draining abilities and my senses. To mold that into Star Forger and Legion of One, I just had to get creative. I could create sensory pathways between the armors and my own senses. It wouldn't be that far a stretch of my current abilities either.
+
+All I needed to do was research some of Torix's manuals for it. He gave me a library of information in my obelisk after all. It was about damn time I used it. Based on watching Torix, it could be as simple as creating a conduit between me and a fake portal that let me see to the other side. I could extend the reach of the portal using Legion of One's mana field manipulation as well. This would allow me to keep tabs on a variety of situations and help lead them at the same time.
+
+There were many problems with this style of magic though. It would require constant mana to function, which wasn't a problem for a few of these fake portals. After a couple hundred though, it would be a severe problem. I brainstormed for a bit, coming up with what I thought was a smart solution.
+
+With a bit of runic work and using the natural properties of my armor, I'd create a mana draining effect for those that wore it. This helped further integrate Hunter of Many into this new skill, but it also fixed that mana usage problem. Overall, I liked the idea the more as I ironed out the kinks in it.
+
+Of course, this all depended on how arduous these one-way portals were to make. A couple of weeks of studying and experimentation would grind me through the problem most likely. With that in mind, I pulled out my obelisk and got ready to study since the Overseer was still passed out.
+
+It had been a long time I entered my obelisk. The sphere of white light surrounded me, blocking out all sound and light from outside. Changing the options with a thought, I unblocked the noise from outside. I didn't want anything eating the others while I was reading.
+
+The basic screensaver was the same creekside surrounded by a forest of deep green. I sat beside the trickling water, opening up a search function for Torix's library data set. I began with scrying magic since it allowed the user to see through water or mirrors. I pulled out a couple books and got to work.
+
+Scrying was actually one of the fundamental fields of portal magic, a larger subfield of study. It went from turning water into mirrors all the way up to wormholes through spacetime. I was shocked by the sheer depth of the field.
+
+In fact, Torix left notes on a planned progression through this style of magic. Turns out Torix involved this style of magic heavily when tutoring his students. I followed the idea behind it, focusing on a simple scrying mirror on water first.
+
+With that in mind, I pulled some water out of my dimensional storage. I created two pools of water beside each other in front of me. A few moments later, I raised a hand over a puddle, bending my mana into the liquid. After a few minutes, I created a conduit between the two pools.
+
+After visualizing my field of vision, I followed the instruction manual. I placed my hands together and pulled them apart. In a moment, a faded reflection of the forest above appeared in the pool. It was a different reflection, however, as the angle of the branches shifted ever so slightly.
+
+I made a scrying pool in minutes. Huh...That was easy.
+
+New Skill learned! Scrying(lvl 10) - While others attempt to see through their eyes, you see through the will of the world. +10% to scrying accuracy and precision.
+
+The Originator tree was definitely helping me here, easing the learning process. The fact I already owned a vast knowledge of mana manipulation didn't hurt my situation either. With that finished, I practiced on forming several pools at once and extending the range of sight for the skill.
+
+It didn't take long before I had several pools, each of them angled in different directions. I created gravitational vortexes that formed smooth walls of water, holding them in different directions. I would have no blind spots in combat using this skill, though it might not be the best idea to cover portions of my vision with what amounted to mirrors.
+
+From beside me, a voice grumbled on the ground. The Overseer awakened, lulled from his sleep at one of my curses from a portal wobbling out of existence. As the Overseer sat upright, I tapped the sphere of glass, my obelisk closing out and saving my position for the future. Damn was it convenient.
+
+As my field of vision shifted from the forested creek to the forest around the footholds of Rivaria, the Overseer grumbled,
+
+"It's as if someone swung a pickaxe inside my head. Holding Schema is exhausting, even if it is a microcosm of his existence."
+
+I crossed my arms, "How come a Sentinel can do it and not bat an eye?"
+
+"They are far more automated than I. Overseers do detail-oriented work that requires the judgment of an individual. Schema uses a neural uplink to use my body for his purposes. Even small fragments of his consciousness overloads the capacity of my organic brain."
+
+"Well shit, that sounds awful."
+
+The Overseer groaned, "It is. What did he tell you?"
+
+"Quite a few details. As for useful info between us, he raised my guild status and allowed me to create contracts."
+
+"Hmm. I see. S tier guild now already. Considering the size and scope of your guild, perhaps the ranking is a bit much. Who am I to question Schema's judgment, however? Now, it seems as though he rewarded you amply for your time. I will go over the details stored in these terminals and be back with you within a few days."
+
+I smirked, "You think these are the only terminals?"
+
+"I thought that was the case. Is it not?"
+
+I laughed before saying, "No. Not by a longshot."

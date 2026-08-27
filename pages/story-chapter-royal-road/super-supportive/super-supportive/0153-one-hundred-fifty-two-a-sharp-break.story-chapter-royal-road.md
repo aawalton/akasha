@@ -1,0 +1,385 @@
+---
+id: bb341e17-03f4-5de8-bf1c-ebfae0d74c10
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED FIFTY-TWO: A Sharp Break"
+slug: 0153-one-hundred-fifty-two-a-sharp-break
+partOf: super-supportive
+position: 153
+ownLength: 3857
+unit: words
+publishedAt: 2024-06-27
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1694814/one-hundred-fifty-two-a-sharp-break"
+royalRoadId: "1694814"
+---
+
+152******
+
+“That’s funny!” said Kabir, his knives still chopping squash in time to the music. “It almost looked like The Bald General ran away from you!”
+
+Alden’s astonishment was so complete that he stood there with a mind gone blank, gaping at the spot Joe had vacated. One of the mounds of sandwiches in the fridge, unbalanced by the wizard’s rummaging, slowly collapsed sideways onto the bare section of shelf where the trifle had been stored.
+
+I was being friendly. Why on Earth would he run from me?
+
+It had been more of a jog than a full run. But the intention was still really obvious.
+
+He’s Joe.
+
+Superior Professor Worli Ro-den. Multilingual schmoozer. Clever, confident, and a little criminal—an Artonan who’d managed to be likable on Alden’s very first day as an Avowed, when he was so nervous he couldn’t even bring himself to argue with someone like Bti-qwol.
+
+Alden and Joe’s dynamic had been different when they’d talked back in September. During that one late-night call, Joe hadn’t been quite so larger than life. Alden had been…changed. Tireder. Better informed.
+
+But the call hadn’t been bad.
+
+Joe had clearly been uneasy when he picked up the phone, but they’d joked around a little in the end.
+
+I told him I didn’t think he’d made a bad gamble. I told him I liked the lab coat. I told him I’d stood up for him with Alis-art’h.
+
+He narrowed his eyes. “That man’s no hn’tyon, Kabir,” he said, accidentally speaking in Artonan because he was thinking so hard about a member of the species. “His name is Master Worli Ro-den.”
+
+Alden, my darling Rabbit! So happy that we’ll be working together. What a nice, nice skill you have! You’re my savior….
+
+You may call me Joe.
+
+Irritation born of half a dozen less nameable feelings stirred inside him. “You know, I don’t think Worli Ro-den is allowed to run away from me.”
+
+The two wizards by the fridge exchanged one-eyed glances.
+
+Alden’s bag swung as he whirled, and his squishboot squeaked against the hard floor. He strode out of the kitchen.
+
+He was going to catch that jerk.
+
+He didn’t ask himself what he intended to do once the jerk was caught. He didn’t even know why he wanted to catch him, exactly. It wasn’t like he’d been desperate to talk to Joe.
+
+But he had been pleased to run into someone who knew something about him. About Kibby. The lab. His skill.
+
+What had happened to him. What he'd seen there.
+
+I could say so much more, but I just wanted to say hi.
+
+Inside his head…
+
+No, the truth was located in some place more primal than that.
+
+Ro-den was a powerful, sneaky, Artonan genius who would probably have a whole flock of amazing Avowed running errands for him again before Alden graduated from high school. But Alden suddenly had a certainty within himself that Joe owed him just a little bit more than that dismissal.
+
+A few minutes of his time. Not “have a nice week.” Not “I really need to save some more poor Avowed.” A few friendly minutes.
+
+Alden was almost across the cafeteria. Several Artonans were spread throughout the room, enjoying whatever meal this was to them. Joe was stuck waiting for the elevator.
+
+When Alden stopped beside him, the professor didn’t react at all. He was making a show of examining a large black claw through his monocle. Since Alden had just seen him pull the claw from one of the pockets of his salmon-colored pants and wipe what looked like mayonnaise off of it, he doubted it was a precious item that would suffer from the absence of Joe’s focus.
+
+“Good morning, Joe,” Alden said in Artonan. “How have you been?”
+
+“Quite busy,” Joe responded in English. The note of alarm from just moments ago was now gone from his voice.
+
+It had been replaced by brusqueness.
+
+Alden’s irritation grew. “Busy? Me too. But earlier I realized you were here on Earth. And I thought, ‘That’s exciting. I wonder if we’ll get to see each other.’ It’s lucky that we’ve met so soon.”
+
+“Not as lucky as you think. I’m heading to my room to draft a proposal for the Grand Senate. A more efficient and cheaper plan for tidying up this little spill than the one they’re currently considering.” Joe was studying that claw like his life depended on it. “No time to chat. Maybe some other day.”
+
+The elevator arrived. A quartet of wizards was inside, having a conversation that stopped as soon as they saw the two of them standing there. Alden wasn’t sure if it was his fault or Joe’s.
+
+As soon as his fellow Artonans exited, Joe slipped in.
+
+“I think I’ll go upstairs, too.” So much annoyance leaked into Alden’s voice this time that he registered it himself, and it made him pause.
+
+Crap. What am I doing demanding attention from this guy? I shouldn’t care about this. Sure, there are some things I could talk to him about and tell him. And he’s being rude for no reason, but that doesn’t mean I need to be an even bigger—
+
+“Have you eaten?” Joe asked.
+
+“No,” said Alden, startled by the question coming out of nowhere. “I was about to when—”
+
+“Then you have no business pestering me when a dining place full of human treats awaits you.” Joe had finally looked up from the claw. The two of them were eye-to-eye as the doors started to close. “Stay here.”
+
+The words held zero of his usual schmooze. They were cold. Imperious.
+
+The thought that Joe might really be angry for some reason hit Alden, and his stomach clenched with a very particular type of nervousness. It was strong, but not strong enough to snuff out the fresh flare of his own anger that came with it.
+
+He thrust an arm between the doors just before they shut and bulled through to glare at the man.
+
+“Why are you being so…what’s wrong with you?” he demanded the second they were alone.
+
+The car began to rise.
+
+“It depends on who you ask,” Joe muttered, shoving his claw back into a pocket and staring at the floor number like he was willing it to move faster.
+
+“Are you mad at me?” Alden couldn’t fathom why he would be. “Are you mad at me?”
+
+Joe didn’t answer.
+
+Oh my god. Is he giving me the silent treatment? Really? This is insane. I can’t believe—
+
+“What do you want from me, Alden?” Now, he sounded neutral. It was the third major mood shift since they’d run into one another.
+
+“I’m confused by you right now. What do you mean what do I want?” Then something occurred to him. “Did Esh-erdi tell you not to talk to me? When we saw you on television earlier—”
+
+“Why were you watching television with him? What did he…?” Joe’s lips thinned. “No. It’s irrelevant.”
+
+He suddenly started pressing the buttons for all the floors above them.
+
+“I suppose a conversation must be had since you insist on it, but there’s no need for it to be an extended one,” he said. “You can talk to me about unsecret matters until we are interrupted. Or until we reach the top floor of the residential section, where I will sleep in a tiny little cupboard of a room and try to avoid dreams that remind me of the uniquely miserable place I’m at in my life.”
+
+The elevator chimed as they stopped on the next floor. The line of buttons glowed.
+
+Alden turned to face forward instead of staring directly at Joe. “So…what? I’m only worth twenty floors of your time?”
+
+His anger had been punctured. It was taking his energy and certainty with it as it left.
+
+The doors shut again.
+
+“Nineteen now,” Joe said mildly. “What do you want from me?”
+
+“Nothing.”
+
+“You’re very persistent for someone who wants nothing.”
+
+The doors opened. Another empty hallway stretched in front of them.
+
+“I wanted to say hello to you,” Alden said. “I wanted you to say hello back. I was happy to see you. I wanted you to be…to act how you usually do. My mistake.”
+
+They rose another floor without Joe answering.
+
+Alden felt off-balance. Stupid. He wished he hadn’t followed after Joe in a huff and that he hadn’t just admitted all he really wanted from the man was a little bit of personality and familiarity.
+
+Just take care of any business you can think of and get the hell away from him for now, he told himself. Maybe he’s only being the universe’s biggest bastard because he’s been putting on the Bald General Joe Show and hasn’t slept in days.
+
+What business did he have with this harsh, unwelcoming version of Joe?
+
+“Have you heard from Kivb-ee?” Alden asked.
+
+“Twice. I sent her appropriate messages congratulating her on her new path and apologizing for my failures with regard to the care of her and her family. I will visit her when she returns from Thegund and say all the same things in person. She’s rather…I will probably need to make a point of meeting her new instructors and handing her over to them for her education.”
+
+“To give her a sharp break from you?”
+
+“The formality of it will appeal to her.”
+
+It would. A ritual of some kind. Something that would give her permission to leave Joe in the dust where he belonged and get starry-eyed about a sweet, patient teacher like Gwen-lor.
+
+“Good,” said Alden. “How are your assistants?”
+
+“Only a couple of them remain in my service. The others have found fulfilling positions elsewhere.” Joe’s clothes rustled against the wall of the elevator as he shifted. “All of them will live long, safe lives.”
+
+Alden absorbed that.
+
+Is there anything else I should ask?
+
+There was so much else. But a hundred elevator rides wouldn’t cover it, and Joe had specified unsecret.
+
+And Alden didn’t actually want to talk to him about things that mattered when he was in this foul mood.
+
+He tried to order me to stay downstairs...like he had some right to do that.
+
+Another chime. Doors sliding.
+
+“Well, thanks,” Alden said, switching to English. “I’ll get off here. I guess I didn’t need twenty floors after all.”
+
+They’d arrived at a hallway where one of the residents had opted to improve the decor. The harsh white overhead lights were off, and knee-high fixtures shone soft red. It smelled like pine-scented cleaner.
+
+Alden made a point of stepping out of the car casually. Of not looking back.
+
+“See you later,” he said, keeping his eyes pointed straight ahead toward a section of empty gray wall washed with reddish light.
+
+He waited for the sound of the elevator leaving.
+
+And kept waiting…
+
+Instead, he heard a heavy exhalation.
+
+“I would say that we are unlikely to meet again,” Joe said. “But we should have been unlikely to meet this time. A few days ago, I couldn’t have imagined a scenario that would lead me to encounter you here. And I don’t have a feeble imagination.”
+
+When Alden turned back around, he saw Joe holding the elevator open with an arm.
+
+“Instead, I will say that if we meet again, especially if we meet in public, I will have only have empty pleasantries for you. Though it isn’t my first choice, that will be the nature of our relationship. If there’s something you want to demand of me, now is your only opportunity. I suggest you pluck it before the vine withers.”
+
+I don’t understand.
+
+Or he did. But what he was realizing now was so far outside any expectations he might have had for a meeting with Joe, and so surprisingly upsetting, that he didn’t want to understand it.
+
+“Perhaps you need an apology,” Joe suggested. “Or you desire another conversation like the ones we had together during your service at the university.”
+
+Shut up, you dick.
+
+“The first you can have, if you’ll tell me what things you would like me to apologize for. The second won’t be happening. For reasons that should be obvious.”
+
+“I don’t want an apology. I don’t want…”
+
+Another lesson. There were questions he could ask, but encouraging Joe to take a really close look at him for an extended period of time probably wasn’t smart.
+
+Definitely wasn’t, if this was how things were going to be.
+
+I already told him what I wanted. He either doesn’t believe me, or he’s just ignoring it.
+
+“I don’t want a transaction,” Alden said.
+
+“That’s probably for the best. I don’t have much left to sell these days. At least one of my students thinks I’m so pitiable that I can’t be trusted to crawl out of this <<midden>> on my own.” Joe’s brows drew down and together and he muttered to himself, “I don’t think he likes me personally. Maybe he believes my shame is so great that it tarnishes our school. Or our entire species. Such a baffling creature.”
+
+Poor you.
+
+“You’re in even deeper shit than before, and you never want to see me again.” Alden spoke to the space over Joe’s bald, blue-lined head. “I’m inconvenient. You’re scared of Esh-erdi and the Quaternary. Everyone’s mad at you. I get it. Your life is hard.”
+
+“My life isn’t your…” Joe trailed off, then sighed again. “Take honesty as my apology, then. You’re an unusually likable young person, Alden. When we last parted ways, I anticipated many future meetings with you. To our mutual benefit. Our situations are different now.”
+
+Obviously, thought Alden.
+
+“The hn’tyon did send out a memo about you, but it was only advising everyone that you were a personal guest of his here for healing, not a servant or an information source. No one had to tell me not to talk to you for me to know that the best thing for both of us is, as you call it, ‘a sharp break.’”
+
+“Just like that? After…all the stuff that happened?”
+
+“Being friendly with you only reminds people of our connection and increases the impression some of them have that I took advantage of a guileless youth.” He paused. “It would also make them wonder what could possibly be so interesting about you that I would risk the deepening of their poor opinions in order to maintain a relationship.”
+
+Oh.
+
+“But...don’t I get a say at all?” Alden asked. “In how things go between us.”
+
+“No,” Joe said firmly.
+
+Alden frowned at him. And his stupid monocle. And his pockets full of snacks.
+
+“I always reach for one more prize,” said Joe. “Even when my hands are full. It’s how things get broken. Take it as a sign of my gratitude and my respect for you that I will not reach for you again.”
+
+Respect?
+
+“I’m not a prize,” said Alden. “I’m a person.”
+
+“My apologies. It wasn’t the best phrasing. And…one last thing…”
+
+Sure. Why not? How much shittier can this reunion get?
+
+“That chat we had while you were drinking iced tea,” said Joe.
+
+Iced tea? Alden’s eyes widened. Lesson One. Is he going to talk about that here and now?
+
+“I…might have given you some flawed advice. Reaching for one more prize is my bad habit. That doesn’t mean it should be yours.”
+
+Alden stared at him.
+
+“My sincere best opinion at the time was based on assumptions about how your future would play out. And my own likely role in shaping it. With how things have changed, you really should consider another course for yourself.”
+
+Then, as if he’d said nothing all that momentous, Joe smiled at him for the first time since they’d run into each other.
+
+A bright, familiar grin.
+
+Alden couldn’t appreciate it.
+
+“Just look at you!” said Joe. The sudden cheer in his voice was as sincere-seeming as ever. “I hardly need to worry about you finding a good way forward without me, do I? You’ve earned an extraordinary commendation from Hn’tyon Alis-art’h. That comes with attention from the sorts of wizards I couldn’t possibly steal your time from.”
+
+Had he emphasized the word ‘attention?’ If he had, it had been so subtle that Alden couldn’t be sure.
+
+“You’re a hard worker, Alden darling. And I see you’ve ended up in a <<squishboot>>. Take better care of yourself.” He dropped his arm to let the elevator go. “We part ways here. Good luck. Take the easy road for a few decades, won’t you? I recommend a vacation.”
+
+That’s it? He really means for this to be it?
+
+Only a sliver of Joe was visible through the gap in the doors.
+
+“I took a vacation,” Alden said flatly. “There was a Hawaiian shirt and everything.”
+
+******
+
+******
+
+“I’m glad you have a new hobby, Esh.” Lind-otta sat in one of the chairs by the window in their shared suite, leaning over her knees while she tapped a short wand to each of her bare toes to apply a massage spell. “But are you sure your efforts to help him aren’t overwhelming him?”
+
+“What have I done that’s overwhelming?”
+
+She looked over. Esh-erdi was sitting on the sofa, intently focused on a ring in the palm of his hand. When Lind linked their interfaces, she saw copies of the eight different information displays floating in the air in front of him. “You’re walking around with an image of the boy’s skeleton in your right peripheral vision.”
+
+“It’s not as though he knows that! The bones in his foot are still healing. I’ve never monitored a human’s healing process. What if something goes wrong before it finishes?” Esh smiled at the ring, then closed his fist around it and sat back.
+
+“And I see you’re still attempting to study every preservation warp ever registered,” Lind added. “Is this a book on human affixation theory? I didn’t know any good ones had been written yet.”
+
+Esh’s face contorted. “This one isn’t good. And identifying the origin of his main talent at this point in his development, with only the information provided, is needlessly difficult. It could be so many different ones.”
+
+“The obscuration of origins prevents several types of abuse,” Lind said. “And the self is more private than a skeleton. I seem to remember you voting on many occasions to limit summoner access to exactly the sort of information you want now.”
+
+“Yes, but I want to pry into him for the right reasons.” He pressed a knuckle to his lips while he stared at the material displayed in front of him. “This is awful. I don’t have time to go through all of the horrific possibilities. I might ask Mother.”
+
+“That’s too much. Let him grow his current abilities normally.”
+
+“But what if they’re poorly designed or depressing?”
+
+“He can still make something of his own out of them. And you said you liked it.”
+
+“I did like it! He used it to deliver an und’h to me. And hot and cold food. But what if he has been bound for the rest of his existence to a half-considered graduation project created by someone from a bad school?”
+
+Lind stretched her legs out and wiggled her toes. “Maybe you can find a good secondary power to recommend. Or focus on the spell impressions available to him. Those are much more identifiable.”
+
+Esh-erdi crossed his arms over his chest and stared at the skeleton. “If he’s overwhelmed by me, then it’s only because he’s been undercared for by everyone else. I have provided him with healing, clothing, and calls. Not great luxuries.”
+
+“Did you bring up the healing of the mind again?”
+
+He dismissed a few of the floating images with a thought and rearranged the others. “Not yet. But I have enacted plans.”
+
+******
+
+******
+
+Was it crazy of me? Alden wondered, sitting on the floor in the hall with the red lighting, staring down at his hands as they pinched a sharp point into a piece of green and gold origami paper. Was it wrong to expect more from Joe?
+
+Clearly, the answer was yes.
+
+I’ll just put it back right in my head then. He set aside the paper plane he’d folded and reached for another sheet. Worli Ro-den needed a quick way to fix a situation he and a bunch of other jerks created. There I came, gift-wrapped and willing. I agreed to do a job. I got paid for it. Period. End of relationship.
+
+It didn’t matter what he told himself, though. He still felt like he’d been slapped in the face and set adrift.
+
+Joe’s reasoning was fine. “It will cause both of us problems if we’re seen together” was a fine reason for them not to be seen together.
+
+But it wasn’t like he’d seen fit to present that reasoning before Alden had forced the issue. He’d decided on his own that the right course of action was to cut Alden out of his life, and Alden hadn’t even been important enough to rate a real goodbye.
+
+And that final advice…
+
+Forget everything I told you, Alden. Forget that I changed your life. I’m in hot water, and I can’t manage you now. So it’s inconvenient for me if you chase after a noteworthy power and people start to notice. Abort the quest for exceptionality. Go take a nice laundry skill instead.
+
+“Too late,” he muttered.
+
+“I am a little late,” said a voice in Artonan.
+
+Alden looked up from his folding to see Esh-erdi walking down the hall toward him.
+
+Where did he come from? Is there a staircase I don’t know about?
+
+“Are you ready for school?” He stopped beside Alden.
+
+“Yes! Thank you.”
+
+“What are these?” He bent to pick up one of the miniature paper planes Alden was gathering.
+
+“Just something to distract me,” said Alden. “Paper flyers.”
+
+Esh-erdi brightened immediately. “How perfect! I’m about to teach you how to fly.”
+
+Alden blinked.
+
+“To school,” said Esh-erdi, holding out a ring on the palm of his hand. “I thought it would be fun.”
+
+“Is that the ring that controls the platform you used to rescue me?” Alden asked.
+
+“Yes. I’ve modified it so that it will work for you.” He looked pleased with himself.
+
+Alden took the ring. That was nice of him. And this is a good distraction.
+
+“We’ll need to rush to get you to your assembly on time,” said Esh-erdi. “I’m sorry for that.”
+
+“That’s okay.” Alden ran his thumb along the edge of the ring. “You said I could ask you for things if I needed them. It’s not something I need…”
+
+“What is it?”
+
+“I was told it was possible to get rid of portions of contract tattoos,” said Alden. “Once their terms had been completed. Just the parts that weren't active anymore.”
+
+“It is.”
+
+“Would you help me do that? I don’t know if it’s a lot of trouble.”
+
+“The one on your chest?” Esh-erdi asked.
+
+He had seen it just this morning while Porti-loth was painting Alden with the mud.
+
+Alden nodded.
+
+“You want it gone?”
+
+“I really do.”
+
+******
+
+******

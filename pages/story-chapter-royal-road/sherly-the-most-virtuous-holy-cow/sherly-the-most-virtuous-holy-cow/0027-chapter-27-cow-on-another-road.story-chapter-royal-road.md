@@ -1,0 +1,165 @@
+---
+id: ab3b4902-dabe-56c1-a724-0b76b6e6b9d3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27 - Cow on Another Road"
+slug: 0027-chapter-27-cow-on-another-road
+partOf: sherly-the-most-virtuous-holy-cow
+position: 27
+ownLength: 2226
+unit: words
+publishedAt: 2025-11-21
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2780655/chapter-27-cow-on-another-road"
+royalRoadId: "2780655"
+---
+
+Chapter 27 - Cow on Another Road
+
+”Are we heading straight for Crustia?” Sherly asked Ishuin.
+
+The entire Cancer’s Claw had moved out at the break of dawn. A few people from Crossmark had bid them farewell, including Phoebe and a bunch of blacksmiths, who cheered Sherly on specifically.
+
+Yesterday, Sherly revealed the truth to her and Edward, the two had promised to keep her secret to themselves. It went without saying that the cow-chilim would be the only person to tell anyone else of her true identity. She might’ve been lucky enough to meet open-minded people, and she did hope it would keep that way, but she dreaded the eventuality that she would make a mistake by trusting someone who would betray her.
+
+To get her mind off of that anxiety, she directed her attention towards something more immediate, which was their next destination.
+
+“We have two more checkpoints to visit,” Ishuin replied. “And depending on how much help they need, or we need, when we get there, we might stay for a few days, to a few weeks.”
+
+“That’s a pretty vague time range.” Sherly cleared her throat. “I’m just purely curious how we operate.”
+
+“Technically we don’t have a time limit, but we make it a point to not overstay. People will always be in need, but we can’t solve everything, so we’ll only fix the biggest issues, then go to the next one to help them again. And by biggest issues, we mean…”
+
+“Any demonic activity,” Sherly concluded.
+
+“Correct.” Ishuin gave a firm nod. “Any problems that the community itself has, we don’t meddle with. We leave that to their own leadership. But of course, there’ll always be exceptions.”
+
+“Like what?”
+
+While they continued their conversation, Sherly summoned her Stalwart and lifted it in front of her with one hand. She wanted to practice her arm strength and endurance while they marched.
+
+As for her armor, she hadn’t put it on for now. She realized that it would be difficult to go to the toilet with it, until she had reached Level 20 so she could attune to it. Evidently, the bodysuit was stretchy enough that she could maneuver both her legs into just one of the suit’s legs and go from there. But she didn’t like how silly the method was, even if she would be doing it in her own privacy. She made a mental note to only resort to that method if she had no other choice.
+
+“Well, if we have evidence that a town or a village’s leadership is misbehaving, then we can exercise our full authority to put them to justice. It was pretty apparent a few decades back, but I’m pretty sure we’ve completely rectified that problem for a while, at least.”
+
+“That’s good to know,” Sherly said, switching hands with her Stalwart. “I don’t particularly like dealing with authorities.”
+
+“Why’s that?” Ishuin asked, turning a curious gaze at the cow-chilim. “You seemed to do fine with me, when we first met.”
+
+“I’m not particularly strong with my words,” Sherly reasoned. “Yours was a different case. It felt like my life was on the line, and I had to defend myself.”
+
+“Well, you’re going to have to improve on that one,” Ishuin said. “I’m not saying this because you’re part of the caravan, or that I have any special plans for you. It’s because you’re a Wielder. You’re going to go stronger than the average folk, and that power is naturally followed by—”
+
+“Responsibilities,” Sherly finished. “Yeah. I know the natural consequence of that.”
+
+Once more, she switched hands with Stalwart. “But what exactly does being a Wielder mean? Aside from the leveling, I mean. Or is that all of it?”
+
+“Well, that’s pretty much all of it, yeah,” Ishuin said. “Except if you include a bunch of theories.”
+
+“Theories?”
+
+“Well, one says that all the current Zodiacs were Wielders before they ascended. But the existence of our gods precedes the integration of the System into our world, which means that the previous Zodiacs couldn’t have been Wielders. It’s true that being a Wielder helps you with going down that path, but one doesn’t exactly immediately mean the eventuality of the other.”
+
+That reminded Sherly of a detail she hasn’t made clear with Ishuin yet.
+
+“When I said I was going to beat Taurus, I actually said I wanted to replace him,” she said in a whisper.
+
+Ishuin almost missed a step. The march wouldn’t let her stop walking due to shock, so she had to quickly improvise. She subtly turned, seemingly looking for something, before leaning in closer to Sherly.
+
+“Okay, we should have a codename for that guy. We don’t want to be accidentally calling his attention.”
+
+“Oh, it really does work like that?” Sherly asked, tilting her head. She looked around for anyone suspicious listening, and found absolutely no one acting that way.
+
+“When you pray, you naturally send your intentions and will to the Zodiac you want to contact. They, in turn, become hyperaware whenever their names or titles are mentioned in the wind. Unless you have a really exceptional veil to cover your whispers, then I suggest we keep to codenames for now.”
+
+“Tau-tau,” Sherly said right away. “That’s what Kobeni calls him anyway. Will that work?”
+
+The elf managed a giggle. “It will. I didn’t think he had such a cute nickname, though. That’s pretty funny. Now, you said you wanted to replace him?”
+
+Sherly silently nodded.
+
+Ishuin did the same, only she had more to say. “Chasing divinity isn’t new here, if you’re curious. A lot of Lady Kansa’s subjects aim to eventually succeed her. Though, they will be waiting for a long time.”
+
+“How does that work?” Sherly asked. “Isn’t she ageless? Or do gods here die of old age?”
+
+“Ageless,” Ishuin replied with a smile. “The only times Lady Kansa can be replaced is if she either steps down out of her own free will or she dies by other causes other than age. So, naturally, people who are aiming to replace her must also be ageless, first and foremost. Or, they try to be their own Zodiac, which is an entirely different conversation that I have no authoritative knowledge to share.”
+
+“Well, at the very least, that means there are ways to achieve agelessness without being a god,” Sherly affirmed, switching hands again. “I imagine those would be pretty hard to come by, no? Do elves in this world die of old age?”
+
+“We do have a pretty long lifespan,” Ishuin replied. “Almost five times more than that of the average human.”
+
+“What about us, demon-cows?”
+
+Ishuin shrugged at that. “I don’t know. Usually, the moment we see a demon-cow, we just kill them. You’d probably be the first, that we know of, to live to tell when you’re getting old. Then, you can tell us.”
+
+“I don’t think it matters much,” Sherly said, switching hands one more time. “I’m going to force Tau-tau out of his throne anyway.”
+
+“It would be amazing to see that,” Ishuin agreed. “But for you to make that happen, you’ll need to get stronger first.”
+
+The elf turned and called for Maymay. Immediately, the dog-zilim appeared beside her.
+
+“Any problems up front?” she asked.
+
+“I scouted until The Gap and found no dangers,” Maymay answered.
+
+“Great. We’ll take a break before we reach The Gap. I want you to escort Sherly to find some monsters to hunt, preferably ones she can eat." The elf Wielder turned to the cow-chilim. “The earlier you put your swordsmanship to the test, the better.”
+
+Sherly agreed wholeheartedly, but there was something bothering her. “What’s The Gap?”
+
+“I think it’s better to leave that as a surprise,” Ishuin replied with a smile. At the same time, Maymay’s eyes widened, telegraphing her own anticipation.
+
+“I think you’ll love it. But since Lady Ishuin said not to spoil it for you, I don’t have any choice but to keep my lips sealed.”
+
+Sherly sighed. After the Cancer’s Claw stopped to take a break, she and Maymay headed out to the closest forest. She attempted to get her companion to speak about The Gap, but she wasn’t getting anywhere on that front.
+
+Instead, she focused on the task at hand.
+
+She was pleasantly surprised at the amount of lush during her travel, given the supposed regular invasions of demons. But she had been told that many Zodiacs and their subjects were hard at work at constantly repelling those invasions.
+
+The forest wasn’t a Managrove, but Maymay assured that there would be a few monsters there that they could hunt for lunch. While the caravan did resupply on Crossmark, having extra was never a bad idea. Plus, it would be a good opportunity for Sherly to learn, so she was completely on board with it.
+
+“You should teach me how to hunt or track, while we’re at it,” she suggested, keeping Stalwart on her back. “If you don’t mind, I mean.”
+
+“Sure, let’s do that.”
+
+Tracking, apparently, was an available Skill that could be learned. And like some Skills, it could be learned organically without having to invest a Level’s Skill Point into it.
+
+Much like how Sherly gained Physical and Fire Resistances, Maymay assured her that gaining the Tracking Skill could be done the same way. For now, however, she was stuck to learning.
+
+Maymay pointed out the obvious tracks first. Footprints, claw marks, and the like indicated the type of monster they were tracking. Obviously, bigger marks meant more dangerous targets. As for how to identify the monsters, Sherly needed to gather more information and knowledge to be able to identify which was which. Aside from some comparisons she could infer from the stories of her world, she didn’t have much to go on.
+
+They were tracking a monster with paws. Large paws. As large as her head, to be exact. Sherly quickly assumed a bear, but Maymay pointed out the spacing of the footprints indicated that it had three pairs of limbs instead of two. The claw marks around the area were also unnaturally smooth, as if they had been left by an unbelievably sharp dagger.
+
+“You already know what we’re hunting, right?” Sherly asked Maymay, who wasn’t shaken by the clues left by their quarry. “Can we handle it?”
+
+“I think you can handle it, Sherly,” Maymay smiled. “We’re dealing with a lone monster. It does have some pretty sharp claws, but I think it’ll be a good match up for you. You have resistance against it, you can regenerate, and you also have some protective gear now. So have some confidence!”
+
+“I’ll try,” the cow-chilim said, gulping her nervousness down. “But what are we dealing with exactly?”
+
+Maymay tapped the leather on Sherly’s armor. “We’re hunting that.”
+
+“I thought shervisviles were pseudo-dragons?” The cow-chilim tilted her head, confused. “Well, I guess they’re not dragons. But I didn’t think they’d have bear paws.”
+
+“They’re pseudo-draconic lizards,” Maymay clarified. “That’s like, three or four identifiers away from actual dragons. And this species’ particular footprints do resemble a bear’s. It’s why we call them Bear-footed Shervisviles.”
+
+“I do prefer straightforward terms,” Sherly commented.
+
+The two tracked down the creature and eventually found it by the river, hunting fish. And once more, the cow-chilim had to convince herself that she was staring at something real, even if it was something she didn’t expect.
+
+It looked like a giant alligator. Or crocodile. Sherly, for all her entire life back in her world, couldn’t distinguish between the two. She had no hope to be able to do that now.
+
+The lizard-looking creature was indeed nowhere near what a bear would look like. She was curious enough to observe its six legs, but she was still too far to spot if its feet were shaped like a bear’s paws. It lurked above the water, staying eerily still, before eventually snapping or clawing at it to throw a fish or two out of the streams.
+
+Its hide had a different shade and color compared to Sherly’s armor, but she knew that leather did change hues when cured or aged. Still, realizing the implication that there could be other species of the same animal made her wonder if her leather armor was made out of Bear-footed Shervisviles.
+
+A tap on her shoulder brought her back out of her thoughts. Maymay gestured for them to get closer.
+
+“Are you going to try to take a jump on it?” asked the dog-zilim.
+
+“I don’t have any stealth Skills,” Sherly admitted. “Will it run if I show up?”
+
+“They’re pretty aggressive creatures. It’s not their first instinct to run away. But if you do hurt it enough, it’ll try to escape. So make sure you cripple it before that happens, or chase it, if you’re confident enough.”
+
+Sherly took a deep breath. Aside from the unirats she fought before meeting Maymay and the others, she had never taken on an enemy alone. She realized that the dog-zilim was there to interfere in case something went wrong, but she didn’t want to fail either way.
+
+The cow-chilim stood out from the bushes and pulled Stalwart out of her back as she faced the shervisvile. It noticed her almost instantly. For a second, the two stared at each other.
+
+Until the giant lizard suddenly roared, leaping at her.

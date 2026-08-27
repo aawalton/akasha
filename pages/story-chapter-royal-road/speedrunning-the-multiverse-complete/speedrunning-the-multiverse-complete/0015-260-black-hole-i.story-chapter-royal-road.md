@@ -1,0 +1,233 @@
+---
+id: cc28622d-6900-5782-a2ba-a908bf61f84d
+page-type-slug: story-chapter-royal-road
+title: "260. Black Hole (I) "
+slug: 0015-260-black-hole-i
+partOf: speedrunning-the-multiverse-complete
+position: 15
+ownLength: 1924
+unit: words
+ownProgress: 1924
+publishedAt: 2023-07-12
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1274428/260-black-hole-i"
+royalRoadId: "1274428"
+markedReadAt: "2026-06-29T22:42:10.890Z"
+---
+
+At first Dorian thought he’d been shunted into yet another cavern. Albeit a strange, misshapen one—one that’d suffered a few cave-ins and whose walls were this sparkling, translucent color. Cold as ice.
+
+But then he saw a fish trapped in the wall. A hefty one riddled with fins, frozen with staring blank eyes, its mouth mid-gulp. And realized it was cold as ice, and looked like ice, because it was ice.
+
+Everywhere he looked he saw fish trapped. Fish of all shapes and sizes, their only commonality the shocked bulging of their eyes. Around them natural pillars of stone rose from the depths, and Dorian saw eyes poking out of their crevices.
+
+He stood in an air pocket in the midst of a great glacier.
+
+But this glacier was not a natural one; plainly it wasn’t made gradually. It was like someone had taken a snapshot of the ocean—clipped out this moment from the three-dimensional album of linear time, frozen it still, then pasted Dorian in the middle of it.
+
+Curiously all those eyes were pointed in one direction—up. Dorian followed their sightlines, and saw what’d caused all this.
+
+It was Coldheart.
+
+The dragon’s body sprawled out for miles, a spiky monstrosity. Muddy sunlight filtered through its translucent body like it was some giant prism, spraying them all below with strange geometric patterns.
+
+“This was the place of my birth,” said Coldheart with uncharacteristic softness. “My sickly mother bore me here, and died of the effort. It is only fitting that this is my final resting place too.”
+
+Was the dragon going sentimental, now that they were at the end? Old folk were prone to it, but Dorian would’ve never pegged Coldheart for the type.
+
+“Now I bequeath my life’s work to you.” Yup—there was a certain wistfulness in the dragon’s eyes. It gestured, and for the first time Dorian noticed three pedestals sharing this air pocket with him. They seemed inconsequential amid this vast splendor. One ring, one toy, and one manual sat atop them.
+
+“This Interspatial Ring contains all I ever had!” said Coldheart. “My hoard in full. Treasure it, youngling! Within is a mountain of gold, and within lie Technique manuals, elixirs, herbs, rare treasures, the bones of my enemies… even I know but a fraction of what lies within. I have slaughtered many a Godking; I simply dumped my winnings on the pile. But there are some Lifeblood Elixirs—that I do know.”
+
+He eyed Dorian’s stumpy form. “You should find them of use. Onto this—my most prized treasure of all! The Chamber of Infinite Time!”
+
+The Chamber lay on the second pedestal. It was a colorful little pagoda shrouded in a faint purple haze. An intricate children’s toy. “One day outside equals ten thousand within. Priceless.”
+
+He was right. Even Dorian as the Godking of Time could only achieve a one to a thousand dilation. Perhaps he could forge an artifact that got near one to five thousand. Whatever Rithius had done with this made it one of one.
+
+“And on the third, my cultivation method—the culmination of my life’s work. The Frostbite Path! I had long wished to starting my own school, and establishing it as one of the premier Techniques in the Multiverse… but alas…”
+
+A notebook. The least interesting of the bunch to Dorian. Maybe he could pawn it off at one of those shops in Ur if he got a chance.
+
+“Is that all?” said Dorian.
+
+“Indeed,” sniffed Coldheart.
+
+Coldheart stared wordlessly at him. Dorian stared right back, one brow quirked. The old dragon seemed to wish to say something. He opened his mouth, coughed, grunted, closed it.
+
+“Yes?” said Dorian.
+
+This moment probably meant a lot to Coldheart. Passing on his legacy at last, at the place of his burial, the same place where his mother had given life to him. It was like he was trying to muster up words from the cold depths of his heart. Something moving, maybe? But even in death, even as a spirit, even with Dorian as his sole audience, the geezer couldn’t find the courage to do it. It was like his emotions had frozen inside him.
+
+“Bah,” snapped Coldheart. “Congratulations!”
+
+The dragon turned away and vanished. Dorian blinked. Probably Coldheart wasn’t just a hardass. Probably there was more to the legendary Godking that he simply couldn’t bring himself to express, in life or in death. Probably there were depths of emotion hidden beneath that rough facade. But what did it matter? If you never let those feelings out, did they ever really exist?
+
+Ah, well! Eagerly Dorian dragged himself over by the knuckles.
+
+First he snatched the Ring with Coldheart’s horde. Then he stashed the Technique manual, just in case. And last of all was the Chamber of Infinite Time.
+
+He grabbed it. Nothing happened. He shook it, drummed it against the pedestal, blew on it, and it did nothing but glow amiably. Coldheart had left without giving instructions. How was he supposed to work this thing? Could he just wish to enter—
+
+He blinked.
+
+He sat on a floor segmented in squares of tatami. The walls were bamboo. You could be fooled into thinking it was an ordinary temple, but look at the windows and you’d see the endless nothingness that yawned outside, muffled by coils of purple mist.
+
+Then there was the giant hourglass on the wall filled with glowing sand. A panel was fixed to its side; it displayed its battery—full, at the moment—alongside an array of knobs and dials. With it, you could set the rate of time flow. You could set a timer for how long you wanted the dilation to last.
+
+Dorian wound it to its maximum. One day inside, ten thousand outside. He had two and a half days was what—nearly seventy years? With a few wounds of a knob he set that on the timer too. Time starts now!
+
+He addressed his most pressing issue first: his impressive collection of wounds. His body’s healing powers could work miracles, but it had nothing to work with; after that fight his qi reserves were near empty. So he tapped the Interspatial Ring, rummaged around until he stumbled upon a high-grade qi elixir and a high-grade healing elixir, chugged them both, and dove back in the ring for more.
+
+A week later he was fully healed.
+
+Now for the fun part. He started with the Dao Potions. It was here that his cultivation met its bottleneck, after all! He had qi to spare. His Supergiant was so full it couldn’t accept any more qi—it was at 100%. But his Laws weren’t robust enough to advance to the next stage.
+
+He spent a day sifting through Coldheart’s ring. As a species, dragons were insanely gifted—but a few things kept them from conquering the Multiverse. Their greed, jealousy, and territorial tendencies certainly played a part. But there was also their preference for lumping all their treasures, from legendary relics to common elixirs, in one big pile—with no labels whatsoever! They had no sense of organization whatsoever.
+
+Which meant that even after Dorian’s painstaking digging, and his unearthing some four dozen high-grade Dao Elixirs of varying sizes and colors—it looked like a bar’s liquor stocks, only more colorful— he couldn’t be sure he’d got it all. One of the best elixirs here had been scrounged by an innocuous-looking Interspatial Ring buried deep in the mound that Dorian had checked on a whim. But for his purposes this ought to be enough.
+
+For now.
+
+He uncorked them one by one, and got to chugging.
+
+The first notification came when he was half an hour in and a half-dozen bottles down.
+
+[Level-up!]
+
+[Great Law of the Eclipse]
+
+[Grade: Medium]
+
+[Saturation]  2% -> 3%
+
+He was sure at least one of those bottles had been a venom, but with his body’s fierce vitality all it managed was a mild bout of heartburn.
+
+[Level-up!]
+
+[Great Law of the Eclipse]
+
+[Grade: Medium]
+
+[Saturation]  3% -> 4%
+
+You weren’t supposed to drink different elixirs at the same time. Something about certain ingredients not playing nice with one another. But the neat thing about having a Torchdragon’s regeneration was Dorian didn’t need to care about any of that. And with Coldheart’s hoard Dao Elixirs were cheap, easily disposable.
+
+…
+
+…
+
+[Level-up!]
+
+[Great Law of the Eclipse]
+
+[Grade: Medium]
+
+[Saturation] 4% -> 5%
+
+It took him three days to run through the first batch.
+
+By then his levels looked something like—
+
+[Level-up!]
+
+[Great Law of the Eclipse]
+
+[Grade: Medium]
+
+[Saturation]  9% -> 10%
+
+No wonder he hadn’t heard of anyone who’d pulled off this Star System cultivation method. It was a monster that kept on eating. Its appetite for elixirs was endless! Each percentage point of Dao was harder to grasp than the last.
+
+Luckily, for the first time in this run, Dorian had both time and resources in abundance.
+
+There was also the Divinity Lotus Fate had given him, way back in Ur. It sped his comprehension up sixteenfold, and its effect was subtle. It made his mind feel like the surface of a clear lake, the kind where you can see all the way to the bottom with no distortions. No ripples. A nearly perfect vessel for Dao comprehension.
+
+….
+
+…
+
+[Level-up!]
+
+[Great Law of the Eclipse]
+
+[Grade: Medium]
+
+[Saturation]  18% -> 19%
+
+[Level-up!]
+
+[Great Law of the Eclipse]
+
+[Grade: Medium]
+
+[Saturation]  19% -> 20%
+
+…
+
+…
+
+[Level-up!]
+
+[Great Law of the Eclipse]
+
+[Grade: Medium]
+
+[Saturation]  45% -> 46%
+
+…
+
+…
+
+[Level-up!]
+
+[Great Law of the Eclipse]
+
+[Grade: Medium]
+
+[Saturation]  77% -> 78%
+
+By now he was on his fourth batch of scavenged Elixirs. At first he’d thought he’d run out. Then he realized the Interspatial Ring was a palace full of rooms, and he’d only explored the first one. He’d wandered into the next, and lo and behold—a pile of treasure almost twice as big as the first!
+
+No species hoarded quite like a dragon. And no dragons hoarded quite like those ancient Godkings, who’d been fattening their stocks for millennia on end.
+
+…
+
+…
+
+Three months in, and countless Dao Elixirs later—truly, the Alchemist’s Guild of a minor state in the Middle Realms wouldn’t have been able to keep up with Dorian’s rate of consumption—he finally got his wish.
+
+[Level-up!]
+
+[Great Law of the Eclipse]
+
+[Grade: Medium]
+
+[Saturation]  99% -> 100%
+
+[Rank-up!]
+
+[Great Law of the Eclipse]
+
+[Grade: Medium -> High]
+
+To achieve Godking he’d need a Heavenly Dao—which meant leveling up this Great Law one last time. For now, all it meant was his Laws were now on par with an Empyrean’s. Which meant all his Techniques just got a serious boost.
+
+More pressing, though…
+
+The gates to Empyrean were open. And what lay beyond frightened and excited him in equal measure. Sure—that rank up in Law would put him among the most powerful Empyreans to tread the Multiverse. But it paled in comparison to what was coming.
+
+With a swig of the most potent qi potion Dorian could find, he stepped right through.
+
+[Level-up!]
+
+[Star Realm: Supergiant]
+
+[100% -> 101%]
+
+But this was a false state. It couldn't last.
+
+It was too much for his Supergiant core to take. It started to sag under its own weight; it couldn’t hold. Eclipse Laws spasmed over the surface of the massive thing. It shuddered, rippling down its length, struggling, and failing, to hold itself together.
+
+Then it started to cave in.
+
+It felt like watching a grand old tree slowly toppling. What would happen when it hit the ground?

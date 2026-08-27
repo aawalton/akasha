@@ -1,0 +1,243 @@
+---
+id: 9e7c6050-064c-5fad-ac91-4ccb5848d197
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17: Because your race is a Jade Serpent!"
+slug: 0017-chapter-17-because-your-race-is-a-jade-serpent
+partOf: phoenix-ascension-cultivation-litrpg
+position: 17
+ownLength: 2219
+unit: words
+publishedAt: 2025-09-01
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2566448/chapter-17-because-your-race-is-a-jade-serpent"
+royalRoadId: "2566448"
+---
+
+[Opening Skill Shop]
+
+[Updating…]
+
+[Update Successful!]
+
+[Qi Bind]
+
+Wrap yourself with small strands of Qi and operate yourself like a puppet, breaking past the limits of your body, or your bones, whichever comes first.
+
+Cost: 5 Skill Points
+
+[Enhance Senses]
+
+Imbue your senses with Qi, granting you abilities beyond what would be otherwise possible.
+
+Cost: 5 Skill Points
+
+[Dragonbone Tempering]
+
+Completely change your body’s constitution to be akin to that of a Dragon’s. The change is gradual and permanent; however there will be no visible change, and thus your race and class will remain the same. This skill can evolve.
+
+Cost: 10 Skill Points
+
+[Leaf Step]
+
+Dash in a direction as if carried by the wind. Your initial and final destination will not change, however your trajectory will be randomly altered.
+
+Cost: 5 Skill Points
+
+The shop had a few new additions since I last checked; however, I could take my time to look at them later. What I wanted the most was the Dragonbone Tempering skill. From its description, I could tell it was a passive skill, but whether or not it was for offense or defense was hard to say.
+
+What interested me most about it was the fact that it could evolve.
+
+Does that mean it can go beyond other skills?
+
+[Yes.]
+
+System was quick to respond, and it provided me with an ample explanation not a moment later.
+
+[Skills that can evolve can break past the five initial stages: Novice, Beginner, Intermediate, Expert and Master.]
+
+System had told me that before, but a quick jog of my memory always worked wonders. It was decided then, I would buy that skill.
+
+[Would you like to purchase the skill ‘Dragonbone Tempering’?]
+
+“Yes!” I chirped out loud.
+
+[Purchase Complete]
+
+[Skill Points Remaining: 10]
+
+[Skill: Dragonbone Tempering(Novice) has been acquired]
+
+[Would you like to view Skill description?]
+
+I checked my surroundings and noticed that another dozen or so of the serpents had showed up again.
+
+Maybe later.
+
+The system view closed, granting me a full field of vision once again. My body felt different, maybe a little stronger than before, but it was hard to say without a proper test.
+
+Luckily, I had the perfect opportunity to do just that.
+
+I noticed a few serpents that looked somewhat similar to the guards laying dead on the ground, but also some with less shiny scales— perhaps younger serpents— and others with duller scales—maybe the elders.
+
+Either way, it made no difference. Young or old, they’d all become sources of XP.
+
+They ‘sss’d’ at me, their forked tongues smelling the air, and some of them looked at their dead comrades, their corpses almost unrecognisable. Not that they looked any different to me, they were all scum.
+
+One of the stronger looking ones pointed its tail at me, and the rest of them all charged at the same time. I thought they would challenge me to duels until they realised they couldn’t take me down, then jump on me when it was too late.
+
+Seeing them all try to kill me was a pleasant surprise, and it made my job easier.
+
+I called upon the Qi in my dantian, and summoned a giant ball of Nirvanic Flames, then waited.
+
+The charging serpents only hesitated for a moment, their scales glowing with whatever defense skill they had been born with, then continued their approach.
+
+With a kick of my feet, I jumped, flapping my wings while sending the Nirvanic Flames crashing into the ground. While I couldn’t quite fly, it would be enough for me to hover a little for my attack to take full effect.
+
+A powerful blast of flames spread outward, scorching the earth and grass beneath. The serpents hurtled backward from the force of the explosion, but quickly regained their balance and rushed toward me again.
+
+It seemed they were much stronger than what I’d expected.
+
+Perfect…
+
+That’s exactly what I needed, as it was about time for me to test the limits of a Phoenix’s body. With a swift kick off my feet, I dashed toward the approaching serpents without my Nirvanic Flames.
+
+The first one to attack lunged at me, jaw wide open and fangs shining green. I avoided the attack at the very last moment and swiped my claw at its body. Sparks flew off as I met its scales, and I barely penetrated its protective layer with my Iron Claws, leaving a superficial wound.
+
+It seemed that relying solely on my talents as a Spirit Beast would be more difficult than I first thought, but I never backed away from a challenge.
+
+Another swipe, this time imbued with the power of my Phoenix Fire, and the wound began to bleed. However, before I could finish him off, a blade of green energy rushed toward me.
+
+Jumping out of the way, I saw three others and cursed that I didn’t have any active defensive technique. I tanked the first one, using the force to dodge the other two. A little blood dripped out, but quickly healed.
+
+My health points didn’t deplete.
+
+However, something else had inflicted me.
+
+[You have been poisoned.]
+
+“DAMN IT ALL, YOU GREEN HAT WEARING DIMWITS AND YOUR FUCKING POISON. MAY YOUR SOUL GET CRUSHED INTO NOTHINGNESS.” I couldn’t help but scream from the top of my lungs, and decided that I would find more worthy opponents to test my skills against.
+
+Without any further hesitation, I commanded my Nirvanic Flames to engulf me, and rushed toward them while eliminating the poison in my body.
+
+One swipe at the first serpent I wounded, and he fell dead.
+
+[You have slain [Jade Serpent Guard] Lvl 13]
+
+[XP Acquired]
+
+The rest stared in shock for a moment, which gave me enough time to jump into their midst, sending wave after wave of Nirvanic Flames smashing against their body.
+
+Their scales shimmered once, twice, thrice, then their light began to dim, and after the fifth time their flesh began to melt off their bones.
+
+[You have slain [Jade Serpent Guard] Lvl. 13] x 3
+
+[XP Acquired]
+
+For those that survived, I used my talons to rip their tails, necks and heads apart. Blood gushed out like a fountain before evaporating from the surrounding heat.
+
+[You have slain [Jade Serpent Guard] Lvl 14] x 2
+
+[You have slain [Jade Serpent Guard] Lvl 15] x 1
+
+[You have slain [Jade Serpent Guard] Lvl 16] x 1
+
+[XP Acquired] x 4
+
+Death and sorrow surrounded me, the screams of the few unlucky serpents to have died slowly echoing right after they died. The rest of them stared at me, eyes wide and filled with indignation.
+
+I took slow, careful steps toward the one that looked like their leader. He stood in the middle of a few older serpents, with two younger ones right behind him. Now that I took a closer look at him, he seemed familiar.
+
+“Why… are you doing thisss?” He asked, slowly backing away. The rest followed his lead, their nerves and courage having disappeared after seeing what I’d done to the rest of them.
+
+“Why? Why, you ask?” I chuckled coldly, having already removed the poison, or rather, venom, from my body.
+
+“Why? BECAUSE YOUR RACE IS A JADE SERPENT!”
+
+I rushed him, jumping into the air and sending a high kick straight at his head. However, something stopped me right before my talons connected.
+
+A barrier?
+
+I stepped back, dodging the sudden attacks of the other serpents.
+
+“What did we ever do to you? For you to masssacare all of us?!”
+
+I paused, glaring at him. “You… cowardly, poison-using pieces of shit, dare ask such a thing?! You think poison is brave? You think you’re smart using poison to kill your enemies? EVEN AFTER I KILLED YOUR KIND, YOU STILL DARED TO FIGHT BACK USING POISON.”
+
+“Even your flesh and core are poisoned, fighting a coward’s fight even in death. Pieces of shits like you do not deserve to live.”
+
+After a moment of them staring in shock, I thought it would be a good idea to enlighten them before their demise. “A few weeks ago, when I was still immature, I killed one of your species. It was a fair battle, and I won it fairly, yet… yet… Even after, when I tried to eat him, I still got poisoned, and almost died. But that wasn't even the end of it! More and more of you kept seeking me out to kill me!
+
+“For that reason… you all should die. Disappear from this world, cowards.”
+
+I didn’t give them any more time to think, and rushed toward the rest that appeared. I couldn’t sense any others on the surface, and those that remained underground were too weak to walk past the Nirvanic Flames that lingered.
+
+My Iron Claws got intercepted by a rather jaded Jade Serpent's tail. Sparks flew off as his scales deflected my attack, and I rolled back, staring at him.
+
+“You’re strong.” I stated, my Nirvanic Flames enforced Iron Claws hurting from the impact.
+
+“Ssso are you, young Phoenix.” The elderly snake said, surprising me with his knowledge. “I apologize on behalf of my race, but it iss within our nature to act ass sssuch.”
+
+“And that is why you should die!”
+
+He sighed. “I undersstand that thiss matter can only be ssolved with bloodshed. However, if I may asssk, did the snake you killed perhappss look like the man behind me?”
+
+The serpent pointed toward the fancy-looking snake behind him, which I found to be a little familiar. I nodded, though I couldn’t say for sure.
+
+“And did he have a core?”
+
+I nodded again.
+
+At that moment, the fancy-looking serpent’s eyes constricted, pupils widening as he stared at me as if I killed his mother. I probably did, but that was besides the point.
+
+Two of the serpents next to him also had a similar reaction.
+
+“Ssshuri…” He hissed under his breath, seemingly stricken by shock.
+
+“I ssee.” The old serpent nodded, and coiled his tail, getting ready to attack. “Then we have nothing elsse to talk about. Let’ss fight.”
+
+The jaded Jade Serpent lunged at me, fangs primed with poison and tail glowing with a sharp light. He wasn’t like the rest of them, he’d fought plenty of battles and knew the meaning of death.
+
+It was rare for such an opponent to appear amongst the weaker Spirit Beasts, as they had a bigger chance to die at the first dangerous encounter.
+
+It swiped its tail at my body, using it like a whip instead of sending poisonous Qi waves toward my body. However I knew that the crackling tail was far more dangerous than any of the other attacks combined.
+
+With one swift movement, it landed a talon's width away from my body, cracking the ground and leaving a corrosive substance behind. If I hadn’t dodged by the length of my talon, I fear that it would have done more damage than I could heal.
+
+I covered myself with Nirvanic Flames and jumped, kicking at his skull. He raised a tail in defense again, and he seemed that whatever attack it had used earlier was on cooldown.
+
+I took advantage of the situation and flapped my wings, flying— if even for a brief moment— and sent the concentrated Nirvanic Flames toward the serpent. His scales shone, changing to a verdant color as opposed to his previous dulled jade.
+
+However, I would be willing to bet I had more Qi than him, even if his level was higher. The only issue was keeping myself afloat, as true flight was still a few weeks away for me. Though given my growth rate, it may be sooner than that.
+
+With one last flap of my wings, I brought myself as far as I could, then without thinking, dived head first toward the serpent. It was an unconventional attack, but that’s exactly what I needed if I wanted to end it fast.
+
+He caught a glimpse of my descent and readied his whip attack. I swore he smirked for a second before lashing his tail at me.
+
+However, I was prepared for that and put all the Qi I could into my Iron Claws. They became heavier, much heavier than I thought they would, but still kept under control. I endured the pain and fear of losing my talons, and evaded the tip, deflected the attack, and jumped off it at a perfect angle.
+
+Then headbutted the fucker.
+
+Without preparing himself, it left him dizzy, and I would have to kill him long before he recovered. However I acted quickly and did a series of ‘hand’ signs, creating a more potent ball of Nirvanic Flames than before, which I shoved down his throat.
+
+He hadn’t expected such an attack, so when the fire burned through his throat in an instant and exited out the other end, the only expression he had on his face was shock.
+
+The jaded Jade Serpent’s corpse fell to the ground.
+
+[You have slain [Jaded Jade Serpent ] Lvl 20]
+
+[XP Acquired]
+
+[You have Leveled Up]
+
+[Phoenix Chick Lvl 6 has become Phoenix Chick lvl 7.]
+
+[Skill Points Acquired]
+
+[Achievement De-Evolve: Unlocked!]
+
+[Skill: Nirvanic Flames has reached the(Beginner) rank!]
+
+[Skill: Strengthened Constitution has reached the(Beginner) rank!]
+
+[Skill: Evasion has reached the(Beginner) rank!]
+
+It was about damned time.

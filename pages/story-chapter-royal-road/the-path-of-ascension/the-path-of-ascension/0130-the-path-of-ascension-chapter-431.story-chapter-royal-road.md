@@ -1,0 +1,321 @@
+---
+id: 39e52fe6-5d5a-5abe-8eec-7998c2d4289c
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 431"
+slug: 0130-the-path-of-ascension-chapter-431
+partOf: the-path-of-ascension
+position: 130
+ownLength: 5291
+unit: words
+ownProgress: 5291
+publishedAt: 2025-07-25
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2466148/the-path-of-ascension-chapter-431"
+royalRoadId: "2466148"
+markedReadAt: "2026-06-29T19:33:53.111Z"
+---
+
+Chapter 431
+
+Matt entered Kees’ open door just for it to close behind him with a soft thud.
+
+“Kind of ominous there, Kees.”
+
+His vice guild leader gave him a flat look that Matt figured he had earned with his dodging the man for the past few days.
+
+Matt had already known what they were going to talk about, which was at least in part why he was willing to avoid this conversation.
+
+Pushing the chair out, Matt flopped into it.
+
+“Hit me with it. How many patents have we been sniped on?”
+
+“Three in the last century, and I expect a fourth to follow shortly with the cumulation of the potion delivery system.”
+
+Matt frowned and resisted the urge to get up and pace.
+
+While they had been delving to reach Tier 28 as fast as possible, their enemies hadn’t been sitting still waiting for them to return. No, they had their own plans in the works, and they had been striking with slow but steady blows.
+
+Three of their latest works had been patented just weeks or even days before the guild submitted theirs for approval.
+
+If the patents had been stolen from Titan’s Torch, that would have just been familiar ground. But instead, the latest few sniped patents had perfect documentation.
+
+The Circle of Ever Flame society, or at least that was who they believed was doing it, had stepped up their game. Instead of half-stolen works quickly turned in to claim first, the latest patents had been fully researched beforehand.
+
+It was more a question of just how before was before.
+
+One of the patents, a stabilizing rune, had a researcher listed who had Ascended nearly thirty thousand years ago.
+
+Sadly, there weren’t restrictions on discoveries having been shelved until a competitor was about to design something similar. There were even fewer restrictions about companies just throwing more money into an issue to beat out a competitor, which had happened to them with a patent for a type of crystal meant for small device screens.
+
+Or that was what they believed had happened. Shortly after their own team had formed, another research company had recruited the best and brightest in the field that they could, and then simply threw even more money and resources to make a similar product.
+
+Then, just days before Titan’s Torch was about to push their idea to get patented, they went ahead and patented their own version.
+
+It was a clear and obvious attack, but an above board one that Matt had little recourse to easily counter.
+
+They couldn’t even dispute the fact that their rivals were actually doing the work, as one instance of patent sniping failed because the results of their research were distinct enough from Titan’s Torch’s findings for both patents to be valid. So he couldn’t solely chalk it up to excellence in laundering corporate espionage.
+
+The threat was clear. The society would try to interfere with anything his guild was developing that they could until Matt gave up or ran out of funding.
+
+And it was working. Matt was very irritated at their actions, which served only to prevent helpful patents from entering low-Tier circulation and discourage his researchers.
+
+Matt and Kees could, however, do something about that final point. Instead of treating it like a failure for the teams in question, they paid out the rewards as if they had gotten the patent, pretending the other companies didn’t exist.
+
+That earned them a lot of internal goodwill, but didn’t exactly solve the underlying issue.
+
+In response, they had increased security, but that was hard given the guild couldn't try to hide what people were working on. Requests to form teams were public, as scientists often put out notices looking for others who might be interested even before they submitted an application for a project.
+
+It was a great system that had paid dividends for the guild, as it let their people work on what they personally found interesting, which usually resulted in more dedicated research.
+
+He and Kees couldn’t really figure out a way to keep that open method of recruitment alive without gutting the very thing that made it work.
+
+“Let's circle back around to preventative measures. Have there been any good ideas since we last discussed this issue?”
+
+Matt doubted there had been any such developments, but he was hopeful.
+
+Kees shook his head. “None that are worth considering.”
+
+Matt rubbed the bridge of his nose while nodding. “Then let's just go ahead with the decoy program. Chances are they will see through them, but we might just get a patent for free out of it. If they do spend money on wild goose chases, I won’t be upset. Do we have any leads on who their spies might be?”
+
+Kees pulled out a small folder of papers, and Matt quickly shuffled through it. “Two unconfirmed and one working for Duke Innes.”
+
+Matt frowned at the final sheet. Duke Keegan Innes was the man Eirene had run away from. Initially, it seemed like he wasn’t going to strike out for Matt and Liz ‘stealing’ one of his people or Matt destroying a clone of his, just content to play the long con. But now, they had evidence of him making a move.
+
+Looking deeper into the person’s file, Matt saw that Michel had been initially flagged by the Imperial agents and let through by Kees. Matt fully agreed with the decision, but he was more interested in the position they had signed up for. It wasn’t an innocuous job like admin, or gardening, or even a high-profile job like security, logistics, or even one of the scientists. Instead, they applied to be a mid-level general manager.
+
+So far, they hadn’t done anything out of line or accessed anything they shouldn’t have access to. It was possible they had a Talent that might let them bypass any number of security systems, but that was always a risk.
+
+Still, knowing the identity of the spy was good, but Matt was interested in what Duke Innes had been doing.
+
+Checking in with the file his spies had made, he found the duke had only been active in his own duchy since their encounter. Such information meant very little, as they had already seen the man had a clone and was willing and able to use it to travel.
+
+Having run into a dead end, Matt sent a note that he wanted any possible sightings of Duke Innes reported to him, but put it as a low priority. The Empire was large, and there were a million and one ways to bypass passive surveillance.
+
+Matt finally looked more fully at the other two potential spies. One had seemingly been turned after they were hired, a mid-level admin that started to access files he shouldn’t have.
+
+“If we can’t identify who the admin is working for, let's just get rid of him.”
+
+Kees pursed his lips. “That's a risky move, Guild Leader. It shows we identified a fairly robust deep-cover agent. We will also need to replace him.”
+
+Matt didn’t just wave off the concerns, but instead went into their promotions folders.
+
+He was mildly amused when the first name that popped up was Cameron. The magma otter had worked her way into a position of seniority, leaving her as the next to be promoted and making it an easy decision for Matt.
+
+“Let’s get rid of him, then open promotions in the guild. Our initiative to promote internally is good and might need to be further developed.”
+
+“That risks us not being able to find suitable hires for senior positions.”
+
+Kees' comment was well noted and Matt sighed. “Yeah, but if half of the senior leadership we are hiring are spies, then what's the point?”
+
+“Half is an exaggeration, Guild Leader, but your point is noted. I will, however, counter with the fact that several of our best upper management members were recruited from elsewhere and have been perfectly loyal. Therefore, I can’t recommend locking down outside hiring any more than we have already.”
+
+Matt huffed, letting his exasperation show. “So we just have to accept allowing rats in our walls? I don’t like it.”
+
+Still, he knew that Kees was right. Or at least, he had the experience in running a guild, which was why Matt had hired the man in the first place. If he didn’t trust the experts, why recruit and pay them? Instead of arguing a losing battle, he just waved it away.
+
+“Whatever. You're right, I just don’t like it.”
+
+Kees didn’t look surprised and instead said, “Such is the reality of being on the defensive.”
+
+Matt smirked at the tone the older man used. “You sound like you’re counting your days until you leave.”
+
+Kees didn’t even hesitate as he said, “I’m counting the hours, Guild Leader. This has been far more stressful than even I thought I was signing up for.”
+
+Wincing, Matt groaned. “Ugh. Now I actually feel bad. You know I wouldn’t hold you to the contract, right? If you want to go, you are free to do so.”
+
+Kees, however, smiled. “I am aware, yes. And while I most certainly won’t be signing up for a second term of vice guild leader, I don’t intend to flee my post either. I’m honestly considering sticking around in another capacity for a while and seeing just what havoc you cause. It would be entertaining, if nothing else.”
+
+Seeing Kees wasn’t hating his life as much as Matt would in his place, Matt immediately switched his tune. “I can give you your heart's greatest desire if you stay on.”
+
+Having lightened the mood and earning a grin from his vice guild leader, Matt turned his attention to the final spy.
+
+According to the Empire counterespionage people, it was likely a spy from another Great Power and they were currently working as a scientist.
+
+As he looked at their records and saw they were actually supremely competent in their field, having helped two teams complete their work, Matt found he didn’t really care about them sharing information with a foreign Great Power. Or at least, he was happy enough with their performance that he didn’t mind too much.
+
+“Any chance we can entice more scientist spies from the other Great Powers? Researchers this capable are hard to come by honestly.”
+
+Kees wasn’t as amused at the comment as Matt thought he’d be. “Dangerous words for anyone to speak when the walls have ears.”
+
+Matt just rolled his eyes. “Shit, I’ll ask Manny myself. Though Harper might be a better choice. But stealing a few of their better scientists for information we are going to make public anyway? I don’t see the issue. We aren’t actually doing anything top secret here.”
+
+Neither of them commented that their funding was the true secret the Great Powers would be looking for. If Matt didn’t have his ring that conveniently teleported his mana stones to secure locations where they were treated like normal shipping goods, he might have been worried, but the guild was fairly well isolated from Matt’s Talents.
+
+Still, it was probably not something they should be tempting the Realm with.
+
+“Okay, bad ideas aside, do we have any wins? I need a win.”
+
+Thankfully they did. Mainly in the Tier 0 skills department where they had shined.
+
+Titan’s Torch was still the foremost leader in Tier 0 skills, having developed two wholly new skills and a handful of variations of the original five.
+
+They had finally figured out several of the elemental variations for [Lesser Fire Weapon]. One notable exception was created by a young dragonling who had sold the patent to them for a hefty but well-earned reward.
+
+The final variation was a lightning variant of [Solar Flare], which had been well received by the general public.
+
+A private company had beaten them to the punch with the creation of a water variant, and was charging the absolute most they could for the skill, but water wasn’t the most useful projectile and so the skill was never destined to be popular.
+
+Matt did bump up the priority for an ice variant, knowing that Aster would be pissed if someone made it and then didn’t let it be freely available for everyone to enjoy.
+
+They were hardly the only ones to be making new variants of skills. All of the other Great Powers had made some progress on that front, but none greater than the Sects, who had the best foundation given their extensive modification experience.
+
+There had been several higher-Tier sects who managed to create Tier 0 versions of their own personal unique skills, or rather, techniques as they called them. According to the reports, such creations had come at massive expense, usually suspected to be involving a high-Tier rift’s time dilation as well as massive amounts of testing.
+
+Those same reports also indicated that the new Tier 0 skills were better able to grow into the sect's unique techniques easier than their standard skill modification method. Or so was the speculation, but it was nothing more than that, given it hadn’t been long enough for the results to manifest as they were still growing up. A core of carefully selected disciples kept under strict lock and key were being treated as each of the sects in question’s new generation of elites.
+
+Several attempts had been made to insert a spy to learn the method or skill structure, but unfortunately, the sects hadn’t gotten any worse at keeping their skill modification secrets exactly that: secret. The report even went as far as stating they, along with most other agencies, were giving up and taking a more passive approach, just waiting and seeing how the first batch turned out.
+
+Given that the Great Power they were being raised in was the Sects, there was little doubt that the children would soon be unleashed on each other to cull the wheat from the chaff, or whatever saying they would use.
+
+Matt, to sate his own curiosity, had even tried to bet with Sien for the inside scoop, but she had refused outright, leaving him and everyone else to suffer. Which had probably been her goal from the start. She, as likely as not, enjoyed seeing the other Ascenders twist themselves up into knots unable to learn something so juicy.
+
+The question was whether or not it would lead to stronger cultivators, and Matt just couldn’t see how it would.
+
+Oh, he was sure that learning the new skills was helpful. He was even sure that learning from such a young age in such a structured environment might make them more mature and tempered, leading to better skill modification abilities; but it was a lot of work for ultimately nothing unique. All advantages that could be pulled from the Tier 0 skills, even ones that could be easily expanded into a sect's trump card, seemed replaceable.
+
+Determination and perseverance could be taught in other ways, and unless the sect techniques could be improved beyond their already prodigious heights, it would have to be a massive upgrade to make the effort worth it. The same could be said for any kind of rigorous training they could undergo, which being sect elites, they would have undergone anyway.
+
+At least the effort, if directed at normal disciples who otherwise might never get their hands on a super rare skill to start modifying into a sect’s technique, would make sense to cover resource scarcity. But the sects in question had unhesitantly taken their best and brightest and shoved them into their nascent skill making program.
+
+It was that conundrum which had everyone on edge, Matt included. Though the other part of him wanted to know if they had succeeded in creating wholly new Tier 0 skills, or if they were just something as simple as a framework for self creating a higher-Tier skill.
+
+Except, that was all they seemed to be doing differently than a normal sect elite training camp with more security, which was why everyone was trying to peel back the veneer of the place and see what was truly hidden underneath.
+
+Matt had some speculation and it wasn’t necessarily good, but given the attitudes of the Sects, it wouldn’t surprise him if he was correct.
+
+The sects in question might not have figured out as much as the inter-Great Power spy community had given them, and might just be using a generation of elites to test a half-baked skill modification regime, perfectly willing for the children to kill themselves trying to build impossible Tier 0 skills.
+
+Most spy reports dismissed the possibility as too wasteful, as the five sects in question could have used non-elite disciples for such a task after all, but Matt wouldn’t put it past the sects in question.
+
+They were some of the highest-Tier sects and ferociously fought to get to their rankings, and were probably all too willing to sacrifice better quality test subjects for faster or better results if they thought it would keep them a step above their rivals.
+
+Only time would tell, and Matt had enough on his plate that he could only shrug and hope he remembered to check in and see how the experiment turned out once it was over.
+
+Not that the Sects were the only ones experimenting with Tier 0 skills, but no one had made as much progress as them.
+
+Even the dwarves he had hoped might figure out a method to make [Physical Empowerment] scale had been slamming their heads against that wall, just as his own researchers had been.
+
+If there was a way for that skill to scale, it was elusive as a dream half remembered.
+
+The Corporations were the only other one to publicly announce any Tier 0 skill of note, and it was a dead-simple skill structure that wasn’t really a skill in the traditional sense at all.
+
+[Item Link] as it was being called in the Empire, was more a transfer rune than a skill, but combined with a paired magical implement, it allowed for stronger, faster, and more mana-efficient magical items. It created a bit of a stir in the community because they had made both the Tier 0 skill modification, as well as the rune that was needed to be added to magical items, available at a pittance.
+
+The problem, however, lay in that the rune and the spell were so simple, it was basically impossible to improve them without making it so the linkage failed. Meaning the pair was only good for the first five Tiers or so before they became a hindrance instead of a boon.
+
+That wasn’t useless, but it pretty much only stabilized the offensive magical item market all across the Realm with the new stronger items and much easier skill, offering people the choice of spending years making a single Tier 0 skill or just a few months and buying an enchanted weapon.
+
+[Item Link] was actually quite ingenious, and he wished to poach whoever had come up with the idea. The new skill allowed a magical item to use the cultivator’s spirit to help cast the spell in question, meaning the strength of the runes used in the item could surpass the typical limits inherent to their material.
+
+It wasn’t necessarily a massive boost, less than a Tier even at the single digit Tiers, but it was the higher-Tier versions that Matt and every other immortal were waiting to appear.
+
+Everyone suspected that they existed and were being used on the Paladins to upgrade their armor, but the Corporations were vehement that no such advanced version had been developed.
+
+The major limitation of the [Item Link] was that it had to go into the core spirit to actually be an upgrade, and few at their Tiers would be able to squeeze a skill out of those precious skill slots.
+
+Matt actually didn’t mind that development, as he had never had a vendetta against magical weaponry and was happy low-Tier crafters had a resurgence of business, given what they had been working on for Tier 0 skills.
+
+In the intervening years, Titan’s Torch had developed two new Tier 0 skills in line with their methodology of helping the low Tiers.
+
+One was what Matt considered a magnum opus of helping the low Tiers. Though it had less of an impact than he hoped for, despite being well received.
+
+[Lullaby] placed the caster into a restful sleep without falling into a deep sleep that might otherwise prevent them from reacting to outside stimuli. The team who designed it had even managed to make the cooldown of the skill fourteen hours, which would prevent most cases of abuse. There was also a provided modification that let the skill act as an alarm clock, though it was more complicated than the rest of the skill twice over.
+
+It was basically a full-on replacement for sleep aids, and should have replaced them entirely, but many felt it was too much work for something they would rarely, if ever, want.
+
+The insomniacs across the Realm, however, were ecstatic at the new skill and Matt was sure more than a few had hardly slept while creating it.
+
+Given its place inside the caster's spirit, there was no resistance to the spell, and as far as they could tell, there wasn’t really any way for the body to create resistance, unlike some outside sources like medication or enchantments.
+
+Not that it was a failure. [Lullaby] was a success by any metric with a higher percent adaptation than any of the single first five skills, but Matt had half expected the entire Realm to be using the skill just a few years after it was released; and when his expectations weren't met, it felt like a letdown.
+
+The second, entirely new skill developed was a combat utility-oriented skill called [Lesser Obscure] that acted like a smoke bomb cast at the cultivator’s feet. It wasn’t smoke, but rather the skill created magical particulates that would obscure both mundane vision and some magical senses, like spiritual sense, making it easier for delvers to dodge attacks or disengage from bad fights.
+
+It was quite the versatile skill and both mages and melee fighters had been making it their second or third skill to create since its release.
+
+Sadly, it was also already being used by criminals all over who would do something illegal and then cast the spell before running away or blending into the confused and befuddled crowds, abusing its obscuration effects to hinder the local law enforcement.
+
+There was even a popular modification for the skill that allowed the caster to change the color of the skill, which had made its creator very wealthy. Not that the creator wasn’t already wealthy, but billions had bought the modification in the first months alone, and pretty much everyone who got the skill paid the two hundred thousand credits. While the public only knew that the creator was a company like many others, Titan's Torch had identified the creator as one Selena Hendricks, a Tier 8 who had also created several other skill modifications. While her other modifications had been of more limited commercial viability, she had already made herself a very wealthy individual, even by immortal metrics.
+
+Matt wanted to recruit the woman, but she had reportedly turned down all other offers and so they were biding their time, having already made their interest clear. She would contact them if, or when, she wanted to, but recent events had given Matt a different outlook that probably should have occurred to him sooner.
+
+Given her age, putting her birth just a few decades after the initial reveal for the Tier 0 skills, it was entirely possible she had gotten a Talent for such skill modifications.
+
+While Talents were random as far as anyone could tell, trends were sometimes noticeable. Sometimes, popularity led to more Talents of that type, as seen several times in the past when new innovations or technologies came about. Matt was personally hoping that the duchy would see a bloom of aperology Talents, but so far, they hadn’t seen much of that type despite putting out feelers for such.
+
+Since Selena had so far refused to come forward or take any offers, Matt could only wait. Even if she did have a Talent for skill modification, she wouldn’t be the only one, and those were the type of people he and Liz were trying to recruit with their new program.
+
+Which was Matt’s next meeting that he should have been at five minutes ago.
+
+Thankfully, he and Kees had settled how they wanted to handle the patent issue and they were able to speed through the rest of the recap.
+
+Checking his [AI], Matt winced as he saw Vincent and Liz were waiting for him to finish up.
+
+Stepping next to them, Matt said, “Sorry. Kees and I got chatting about stuff. Okay, new students.”
+
+Liz flicked a finger at Matt, and he felt his [AI] ping even as she eagerly waited for a response. “We’ve made a shortlist. What do you think?”
+
+She had been hesitant at first to start their own academy, but once they had gotten started, Liz had taken the reins and was more invested than Matt was, which was why he felt bad showing up late.
+
+Matt made a noise to let her know he had received the message and started going through it.
+
+The list was anonymized as was their procedure, only showing their reported Talent, Tier, an age range, reason for signing up in less than one hundred words, and general level of wealth.
+
+It wasn’t that they weren't willing to sponsor an older person to immortality, but even in their duchy, it would be hard to choose only two hundred people who had good enough Talents to allow them to join the school, and so factors like age were important.
+
+Even their already curated list was nearly five hundred people and Matt groaned, knowing removing even a hundred of these people would be a battle, let alone three hundred.
+
+Sorting by age, Matt immediately saw a Talent that was hard to pass up.
+
+The sixty to seventy year old Tier 3 had a Talent that let them graft any plant onto another and a Tier 3 which made the effects of such grafting better.
+
+The very obvious use case for such a Talent was for plant-based Natural Treasures, which was confirmed to work according to them and a Tier 1 Natural Treasure.
+
+According to their reason for joining, their spouse had left them, which caused them to reevaluate their life and their choices, which was why they had advanced to Tier 3 and wanted to continue.
+
+Matt wanted to find a reason to decline them, but struggled to do so, given how useful their Talent could be.
+
+Natural Treasures were finicky and the one they had tested was more like a pseudo Natural Treasure than a true one, with a strong permanent effect, but was only able to be grown in hyper-specific environments. While the requirement that a Natural Treasure couldn’t be cultivated or created wasn’t exactly a hard rule, it was a good guiding line. Herbs that had special effects and could be grown in greenhouses were generally too weak to fall into any but the pseudo category, but there were a few full Natural Treasures that proved the rule by being an exception.
+
+That the Talent worked on even one of those pseudo Natural Treasure’s meant it was a fairly strong Talent and something to invest in.
+
+The problem with someone of that age and Tier was that they would need to be carried through a few Tiers rather quickly to add a buffer of lifespan, or they would have to pay a specialized Tier 45 healer to physically de-age them. Such a thing was out of even Matt and Liz’s budget’s, as such people were always in high demand due to higher Tiers having descendants stuck at the Tier 14 threshold without a Concept of their own.
+
+While there were few people like that being created nowadays, such cultivators were still numerous from previous generations, and their combined demand on the healers capable of such healing was near constant, making that a less-than-ideal solution.
+
+While the school wasn’t against carrying, their goal was to make self-sustainable graduates, which meant people who could safely delve at their own Tier. So if they accepted the person, they would need to pay for a professional carry to get the person to Tier 10 or so as quickly as they could absorb essence to buy themselves some time.
+
+Moving onto the next, Matt found the situation slightly easier, given they were independently wealthy and could afford their own carrying service should they really desire to Tier up, which made them correspondingly easier to cut.
+
+Letting his eyes speed up, Matt found that while most reported fairly strong Talents, the stand outs were few and far between, which tracked with Matt’s general understanding of the Realm itself.
+
+Lots of people with Talents for minor effects that were generally beneficial.
+
+The one exception he saw was a twenty-something Tier 3 who reported that both their Tier 1 and Tier 3 Talents were detrimental.
+
+That struck a chord with Matt, who had once believed his Tier 1 was cursed. But according to the report, the person in question couldn’t hurt another being in any way shape or form as far as they could tell.
+
+True detrimental Talents were rare but well recorded, and Matt believed they might have found such a person, which made him want to give them a hand up. If the Realm didn’t want to help them and they were still willing to push themselves hard enough to reach Tier 3 when unable to fight, Matt was willing to give them a shot.
+
+Still, their decisions weren't easy.
+
+Almost immediately, Liz showcased another older-than-ideal person who reportedly could fish in their own personal pocket dimension. Not only were the fish they pulled out comparable to some of the weaker Natural Treasures, they all had remarkable tastes and magical effects when cooked properly. The introduction even reported that the person in question had fished up an actual Natural Treasure, though it was unverified.
+
+There was a report that they had such a Natural Treasure they shouldn’t have been able to get their hands on, but weirder things had happened with rift rewards, making it possible that it was just an embellishment.
+
+Even if they ignored that, just the specialty fish they caught were of incredible research value, let alone to a skilled cook.
+
+Matt knew Aunt Helen would be interested in such a person, and so threw them on the list, even if he did so with a painful wince as that was one more slot of their two hundred.
+
+Eventually, they did get through the list, but it was a slow and painful process.
+
+It also inevitably ended up with Matt thinking about the other academies in the Realm.
+
+He didn’t have the best impression of them, but knew they were a general positive.
+
+It was, however, risky stepping on their toes in such a big way, which was part of the reason they were limiting their first year to just two hundred.
+
+The academies might take Matt and Liz’s opening of the school as an attack. It wasn't, but it easily could be.
+
+Matt didn’t want another enemy, but he also wouldn’t change his plans just to appease people who didn’t like how he and Liz did things.
+
+Only time would tell. And thankfully, they had quite a lot of that.

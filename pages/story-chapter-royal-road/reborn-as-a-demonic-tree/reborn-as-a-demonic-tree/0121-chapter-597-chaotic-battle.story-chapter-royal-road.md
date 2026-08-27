@@ -1,0 +1,191 @@
+---
+id: e2ac540a-50c8-5b27-a277-ce4a49c33054
+page-type-slug: story-chapter-royal-road
+title: "Chapter 597: Chaotic Battle"
+slug: 0121-chapter-597-chaotic-battle
+partOf: reborn-as-a-demonic-tree
+position: 121
+ownLength: 2637
+unit: words
+publishedAt: 2026-07-29
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3743210/chapter-597-chaotic-battle"
+royalRoadId: "3743210"
+---
+
+Diana hesitated, unsure what to say.
+
+"I was notified about your return from the Eternal Realm, but I was sadly unable to greet you," Ashlock continued, his voice somewhat softening to the tone Diana was more familiar with. "Sorry about that."
+
+She blinked. "Sorry?! There's no need to be apologetic." She gestured frantically at the chaos roiling below. "Greeting me is far less important than all of this. Than saving Stella."
+
+"Still, a new Monarch deserves a suitable welcome. I hope your journey over here wasn't too perilous..." He trailed off for a moment. "The airships," he suddenly said. "I forgot about the airships—"
+
+"Already dealt with," Diana assured him, a smile tugging at the edge of her lips. "I worked alongside Douglas and Geb to squash the assault on Silverspire's lands, and the fleet over Desolark City will soon be wiped out as—"
+
+"The mortal cities don't matter. Where is my little sister?" Zephyrine cut in. Storm Qi crackled between her antlers, and her gaze stayed fixed on the dome below.
+
+"Missing," Ashlock admitted what Diana already knew. "After Stella killed the Crowned One, he switched bodies to another Monarch and stole her from us in a flash of light," Ashlock said, and Diana detected a hint of panic creeping into his tone. "I don't know where Stella was taken. But if I tear down the Celestial Empire and kill every last Monarch, the Crowned One will be left with nowhere to hide."
+
+Zephyrine fell silent. Her stormlit eyes traced the horizon. "That might actually work," she said.
+
+"Is there not a chance he will try to flee?" Diana asked.
+
+"Everything about the Crowned One is a mystery," Zephyrine said, glancing her way. "But even when the heavens struck the Chairman down and stripped him of his duty, he never left the World Tree's side. There's a chance that something binds him to this place, preventing him from fleeing."
+
+"The heavens struck him down?" Ashlock asked.
+
+Zephyrine repeated the buried history she had informed Diana of on the way here. The moment she finished, Ashlock erupted with rage.
+
+"Why didn't you tell me this before?" he snapped, his tone sharper than a blade.
+
+"Because you never asked or involved me in your plans!" Zephyrine snarled. Lightning crackled angrily across her white fur. "Until now, I was resting in the spiritual spring, recovering my strength after the Frozen Star Sect. If I had known the Crowned One was in charge rather than the Still One, I wouldn't have allowed Stella to fall for his trap. But instead, you thought you knew better and let her go through with it without consulting me."
+
+Diana tensed as Ashlock's spiritual pressure chaotically rippled around them for one long moment before easing back.
+
+"I was unaware that you knew so much about the Chairman and his history," Ashlock said evenly. "In hindsight, that was foolish of me. What do you suggest we do moving forward to save Stella?"
+
+Zephyrine huffed, annoyance flickering across her features, but she moved on.
+
+"Tearing down the Celestial Empire until the Crowned One is forced to show himself isn't a bad idea," she admitted after a pause. "Freeing my mother will also help in the search. Her body is the Celestial Empire."
+
+"Her restraints tightened after the Crowned One vanished with Stella. I've been unable to converse with her since." Ashlock's focus shifted to Floridawn. "I've taken drastic efforts to hasten the destruction of the formations binding her, but they still hold strong."
+
+"What about the fight?" Diana asked, focusing on the swirling dome of silver ash below.
+
+"It's a mess. The fight started in a ballroom below the World Tree, and the ballroom collapsed after I summoned a Hellroot Abyss to take command over the area, and dozens of Monarchs released their domains at once in response. It was catastrophic."
+
+Asking about Evaline's family flashed through Diana's mind, as they had likely attended this ball, but she thought better of it. She would just have to assist them herself to honor her word.
+
+"Are we winning?" she asked instead.
+
+"Hard to say, as the fighting has fractured out into many smaller battles between different Monarchs. Some are fighting inside newly formed caverns below the destroyed ballroom, while others escaped the collapse and are battling over Empyrea."
+
+"Is that why the World Tree is tilting?"
+
+Ashlock paused. "The World Tree is tilting?"
+
+Diana felt his attention shift away from them—only to return a moment later, heavier than before.
+
+"She really is leaning to one side," Ashlock muttered, a hint of horror in his voice. "The eastern side of Floridawn and the wilderness are a mess. The World Tree's roots have erupted to the surface."
+
+Diana looked to the east but could only see a hint of the destruction on the eastern horizon as the World Tree's massive trunk blocked most of her view. Yet from the little she could see, she could only begin to imagine the scale of destruction the World Tree would inflict should she topple over.
+
+"Our top priority is freeing my mother before this gets any worse," Zephyrine said. "How do we make that happen?"
+
+"Before today, I believed I only needed to destroy some of the formations for the World Tree to break free. Yet with this recent tightening of control, I believe we will need to destroy everything for her to be free. I've not yet conquered the southern side of the World Tree, so that's where we need to focus our efforts."
+
+"I can deal with it."
+
+Storm Qi crackled around Zephyrine, and then she was gone, a streak of white curving around the World Tree toward the south.
+
+Something erupted from the ashen dome below, a blurred golden projectile that arced upward to intercept her. Zephyrine changed course to meet it head-on, and the collision came as a thunderclap that punched the air from Diana's lungs and sent her spiraling backward despite the distance.
+
+"What is that?!"
+
+"The Chairman's griffin," Ashlock muttered. "A Monarch Realm monster. The fact that it left the battle below to stop Zephyrine confirms the Crowned One is aware of my attempts to free the World Tree—and wants to stop me."
+
+Diana was already moving. "I should go and help—"
+
+"No. You will only get in the way." Ashlock's voice was firm but not unkind. "The griffin is fearsome, but Zephyrine is strong. Trust her. I need you on the ground helping the others. I'm only a few Monarch souls away from being able to ascend to the Monarch Realm myself, and if we win this battle, conquering the south becomes far easier."
+
+Diana stared at the battle between beasts, which sent shockwaves that forced shields to flare to life around the neighboring floating islands of Empyrea.
+
+Then she sharply nodded. "Okay."
+
+A desolation rift tore open before her.
+
+"Magnus is the one in immediate need of help. Take this to reach him," Ashlock said as his focus moved away, likely back to the battlefield below. "Good luck."
+
+Diana stared at the desolation rift and clicked her tongue. "Stella, the things I do for you." Floating through, she felt the desolation of the rift eat away a little at her clone as she passed through reality.
+
+And stepped out the other side into what she imagined the primordial era before the heavens took control must have looked like. Firestorms, howling blizzards, and storms that could drown cities—half a dozen domains warred for control while their Monarchs stood at the heart of each, bending the world to their will and hurling godly techniques with ease.
+
+The most fearsome of those battles was playing out directly overhead.
+
+She looked up and saw a serpentine shadow eclipsing the sky, which Diana guessed was Kaida. His body of flowing divine ink stretched from one horizon of the ashen dome to the other while scales orbited him like a slow black constellation.
+
+Two Monarchs rushed upward to contest him—a woman cloaked in rolling clouds and, behind her, a man riding a chariot drawn by a falling star. Diana watched a single scale drift out from Kaida's coils as casually as a leaf on still water.
+
+"Stop that thing!" the chariot rider commanded.
+
+"Don't order me around," the cloud Monarch snapped, sweeping her arm forward. Her storm surged ahead of her and rolled over the drifting scale, consuming it in a churning grey mass. "It should be contained now," she said confidently. "You finish that creature off."
+
+Kaida's arrogant laughter rolled down from above, and his immense head turned, golden eyes narrowing on the pair. Opening his mouth, he uttered a single word.
+
+"Implode."
+
+The mass of clouds collapsed inward in an instant, compressing into a tiny white sun no larger than a fist. With a casual flick of his tail, Kaida sent the dense mass hurtling at the chariot rider so fast it carved a streak of light across reality, smashing into the chariot and obliterating it in a soundless flash. The Monarch who had been riding it escaped in a flash of starlight.
+
+Snarling in annoyance at his fleeing prey, Kaida peered past the stunned cloud Monarch and noticed Diana.
+
+"Diana?" he said, looming closer. "Is that you?"
+
+"Kaida..." Diana was at a loss for words. "When did you get so big?"
+
+Where was the snake that used to coil around her legs a few months ago?
+
+Before Kaida could answer, Diana felt the cloud Monarch's focus on her.
+
+Drawing a sword, she rushed at her while shrouded in clouds.
+
+A scale from Kaida shot down to intercept her, but it was too slow. Diana was left with no choice and met the strike with her claw—the sword cut through her clone's hand as expected.
+
+"Diana!" Kaida roared with anger.
+
+"I'm fine," Diana tried to reassure him as she dodged the next strike and pivoted backward to make space, her arm already reforming from the mist. "I just need to—" Her eyes widened as the world behind the cloud woman, hellbent on cutting off her head, flashed. A beam of light struck the woman in the back, searing through her robes and making her scream out in pain.
+
+Diana took the opportunity and slashed at the Monarch's throat with her remaining claw. The strike was enough to draw blood and forced the Cloud Monarch to hastily retreat.
+
+Kaida didn't allow it. The scales he had mobilized chased after her, and in the distance, Diana witnessed them all activate at once, consuming the Monarch in a catastrophic explosion. Kaida then dove down after her to finish the job, leaving Diana alone.
+
+Tracing the light attack that had saved her clone, Diana saw a titan of light.
+
+Is that Sol?
+
+The Ent she remembered had been three meters tall, grey-barked with eight arms cradling a soft little ball of light. This was a titan taller than a tree, made from white wood veined with golden light that pulsed with power. The soft ball of light she remembered had expanded into a star, cradled by not eight, but dozens of arms that fanned out from his shoulders and layered in rings like petals of a flower.
+
+Sol stood proudly upon the ruins of Empyrea. Only remnants of the marble plazas, floating courtyards, and gilded spires built by the Celestial Empire remained.
+
+Is Sol a Monarch Realm Ent now? Diana wondered. Just how much further had the powerhouses of the Ashfallen Sect advanced in her absence?
+
+Behind Sol was a charred crater oozing corruption, and at the wound's center was the source of Ashlock's overbearing presence and bloodlust.
+
+That must be the Hellroot Abyss.
+
+Ethereal black roots, thicker than Sol, twisted up the World Tree's pale beige trunk and the remains of buildings. Desolation Qi clouded the Hellroot Abyss in a dissolving haze that ate away at the surrounding domains, and streams of cursed blood miasma rushed outwards like tendrils, seemingly hunting anyone who remained alongside void lightning that forked out of the chasm, each strike tearing into the enemy Monarch's domains.
+
+Diana peered through the haze and noted that from the abyss, fiends crawled out and trampled over corpses being digested by Ashlock's vines or being turned into Ents.
+
+So this is what it looks like for the Ashfallen Sect to go all out, Diana mused as she took it all in—and then snapped back to reality as she remembered why she was here. To save Magnus.
+
+Following the heat, she located him locked in a duel on a shattered terrace partway down the slope of the crater.
+
+The Inferno Sovereign was a wreck. His obsidian skin was webbed with fractures, and through every crack, the magma in his veins leaked light like a cooling forge. One of his twin-sun eyes guttered to a dull orange, half-snuffed. A gash ran from his shoulder down to his ribs, and where it ought to have bled, hellfire poured out instead in a slow, beautiful stream that the surrounding wind stole the moment it left his body.
+
+The wind that was shredding him belonged to a woman.
+
+She wasn't standing on the terrace like Magnus. She was standing above him on a blade of air half a mile long, curled beneath her bare feet like a sword resting on its point. The storm churning around her had obliterated everything except the small patch where Magnus had managed to hold his ground. Her pale green hair drifted upward in her own updraft, and she smirked. She held no weapon but didn't need one. Every flick of her fingers sent a crescent of compressed vacuum slicing across the gap between them, blades of nothing that were as impossible to predict as they were to block.
+
+Magnus seemed on his last leg. His Domain of the Infernal Sovereign was barely a domain anymore. The volcanoes he had summoned stood half-formed and crumbling, the rivers of magma he had imprinted on reality were boiling away into steam the instant her wind kissed them. She was a higher realm of Monarch than Magnus and showed it by carving his domain apart layer by layer.
+
+He should not have still been standing.
+
+Yet despite it all, he stood with a grin on his face.
+
+"Is that all?!" Magnus roared like the warlord he was. He lifted his great sword with arms that visibly shook, hellfire spiraling up the blade and curling around his shoulders. "I have waited decades for the chance to test my steel against the despicable Monarchs of the Celestial Empire! Don't insult me by dying before I'm warmed up!"
+
+The Wind Monarch's lip curled in contempt. "Your bravado is misplaced, mongrel. You won't see the next hour once I strip away this domain of yours layer by layer like an onion and tear apart your body—"
+
+Magnus charged her without warning.
+
+He met a crescent of invisible wind head-on and cut through it with a swing of his sword. The recoil drove him back a step. Diana thought he faltered as a second crescent opened his thigh and a third opened his cheek. He didn't slow. He threw himself at her again.
+
+He's not trying to win, Diana realized. He's holding her here to prevent Kaida from getting overwhelmed despite being outclassed.
+
+Diana unfurled her wings, shadow-feathered and three times the size of her body, and let them catch the rising heat off Magnus's domain. She let her mist sprawl out, and it mixed in with the fire and wind.
+
+The Wind Monarch's gaze flicked upward, and she recoiled—her smirk wiped clean. "An Archdemon?" she stammered, pulling the wind toward her in fear.
+
+Diana smiled as she descended and landed at Magnus's side, much to the warlord's shock.
+
+"Sorry I'm late, Magnus." She glanced at the Wind Monarch. "The Dark God sent me to cheer you on."

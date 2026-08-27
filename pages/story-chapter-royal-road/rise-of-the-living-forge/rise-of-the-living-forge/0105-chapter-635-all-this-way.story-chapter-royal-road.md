@@ -1,0 +1,129 @@
+---
+id: b29cee43-412e-5b81-a625-027a7f7c63c8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 635: All this way..."
+slug: 0105-chapter-635-all-this-way
+partOf: rise-of-the-living-forge
+position: 105
+ownLength: 1680
+unit: words
+publishedAt: 2026-08-19
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3834357/chapter-635-all-this-way"
+royalRoadId: "3834357"
+---
+
+A thick, cloying scent filled Arwin’s lungs the moment he found himself fully in the darkness. It tasted like death and hunger and everything rotten. If something could have manifested the perfect opposite of a good meal with friends after a long day, this was what it would have felt like.
+
+Darkness swallowed almost every scrap of light and sound around him. Arwin could barely even hear his people stepping into the darkness behind him. He had to send a quick glance over his shoulder to confirm that he hadn’t been teleported somewhere.
+
+But there they were, forms silhouetted against the moonlight that couldn’t make it more than an inch past the door. It seemed that not even that would be allowed to accompany them down to face the Deepmind.
+
+Tension twisted into a knot in Arwin’s stomach. Every single instinct he had was screaming to turn and run. This place was not one ment for humans. He wasn’t sure it was one meant for anyone. It was wrong. Unnatural. But that was all the more reason to forge ahead.
+
+Nobody else could.
+
+And so Arwin turned back to the dark. He ignited the power with Caldera, letting its molten glow roll out just enough to illuminate a few steps of a winding stairwell. It plunged down into the darkness, no end anywhere in sight. The walls seemed like they were about to close in around him. There was precious little space on the stairwell, only enough for them to walk in a single file line.
+
+Arwin clenched his jaw. He summoned The Wyrm’s Revenge. The heavy shield materialized on his left arm. Knowing that there was something else between him whatever waited for them in the depths of the well was comforting.
+
+Then he headed down the stairs.
+
+Arwin moved carefully, trying to limit the noise he made with every step as much as possible. It almost felt pointless. The cloying shadow swallowed every sound he made. He probably could have flung himself down the stairwell and crash-clanged his entire way to its bottom without alerting a single being of his presence.
+
+But an abundance of caution felt like it was worth investing in. It wasn’t like they were moving slowly. They couldn’t afford to. Step after step, Arwin and the Menagerie continued down the stairwell. None of them said a word. The only light they had to go by was the dim glow of Caldera’s glow illuminating a few steps around them.
+
+The stairs continued for much longer than Arwin had initially expected. It took them easily five minutes of moving at a rather brisk pace down the winding steps before they finally came to a stop at a hallway that led up to a large, domed cave. He couldn’t make out where the cave ended. The walls just faded into the dark far overhead.
+
+And embedded into the far side of the  the cave was a single door.
+
+It was made of solid black metal and rose easily twice the height of a normal man. The door was completely and utterly unadorned. There wasn’t so much as a handle on it, but something about almost seemed to squirm. Darkness gathered around the door in a thick, almost sludge-like consistency.
+
+Two torches lit with dull green flame flanked the door. Their light barely managed to cut through the smoglike shadow filling the room, but it was just enough to make out the path by. They all stood in silence for a second. But there was nothing to say.
+
+Everyone was thinking the same thing.
+
+Arwin tightened his grip on Caldera. Then he started forward, his senses keyed to the max.
+
+The deeper they delved, the more it felt like they were alone in the darkness — and the less Arwin trusted that to be a possibility. His heart thundered in his chest in anticipation. He almost just wished their target would fling itself free of the shadows and attack them. He kept expecting something to drop from the ceiling or to burst up from beneath the ground.
+
+His wishes weren’t granted.
+
+It wasn’t long before they stood before the huge metal door. Not a single thing had risen to stop them. Even still, even just the door’s mere proximity made Arwin’s skin crawl. He hesitated for a second. Then Lillia’s hand fell on his shoulder.
+
+Arwin blew out a slow breath.
+
+He activated [Scourge] and took the final step up to the door.
+
+And then he pushed.
+
+It swung open.
+
+Weak, sickly gray-red yellow light filtered out, finally cutting through the darkness to illuminate the room beyond.
+
+Before them was a pit.
+
+It was set at the back of yet another cave, this one slightly smaller than the one they currently stood in but still positively huge. But Arwin’s attention wasn’t on the pit. His eyes were fixed on the thick pillar of faded, dying light hanging behind it like a dead snake drooped across huge, cancerous stone growths emerging from the walls.
+
+A Leyline.
+
+The remains of one, at least.
+
+The light coming out from within it was so weak and pitiful that it actually took Arwin a moment to place what it was. There was nearly no trace at all of the brilliant golden light that should have been present. Someone had wrung it all out, then flooded it with a sickly gray mold that swam through its very veins. And that wasn’t all. Bunches of deep, smooth grooves ran through the damaged Leyline.
+
+A deep sense of unease — somehow even stronger than the one already lingering around Arwin — settled around his shoulders.
+
+This was wrong.
+
+This whole place was wrong.
+
+Arwin stepped into the room, Caldera and the Wyrm’s Revenge braced. The others followed after him.
+
+There was no sign of the Deepmind. But it wasn’t hard to tell where it would be.
+
+They’d found the pit.
+
+Moving warily, the Menagerie advanced toward it. They slowed as they drew closer. Walking too close to an endless dark hole that definitely had a monster lurking within it was a great way to get yourself yanked into the darkness. But even then, no shadows burst free to try and drag them down.
+
+“Anything?” Arwin whispered.
+
+“No,” Rodrick replied. “I can’t feel anything at all. It’s pitch black in every sense of the word. There’s something blocking my mind. But… look up. That—”
+
+“Yeah,” Arwin said grimly. “It’s a Leyline.”
+
+“A corrupted one,” Koyu said. “It seems we have found what we sought.”
+
+Arwin looked down into the pit. The fear and unease bubbling in his stomach grew deeper. Arwin couldn’t deny it. He didn’t want to die here. Hell, he didn’t even want to be here.
+
+But he was.
+
+And there was no point hiding their presence any longer. They didn’t have the time. The Menagerie had come here to end the Deepmind, and there would be no doing that without finding it first. Arwin drew in a deep breath. Then he took another step forward.
+
+“Are you going to keep your guests waiting forever?” Arwin called. “We came all this way to meet you. The very least you could do is respond.”
+
+His words vanished into the dark as if they’d been swallowed. A dull ache pronged through his stomach, even despite all the food Lillia had made him and the door he’d eaten just a few minutes ago.
+
+A long second dragged by.
+
+Then another.
+
+A faint tremor rocked through the earth. It sent a spike of adrenaline shooting through Arwin’s heart. His eyes darted around in the darkness, searching for its source.
+
+Another tremor followed after the first. This one felt stronger, closer.
+
+Something in the darkness shifted. It stirred like a murky pool.
+
+Then, from within the shadowed pit rose a hunched skeletal figure draped in tattered black cloth. It was gargantuan, more than fifty times Arwin’s height. A jagged metal crown sat upon its yellowed skull, glistening with dull sickly green light. Dull green shackles hung from the massive creature’s wrists, chain links that must have each individually weighed as much as the Infernal Armory ran down into the darkness beneath the huge monster.
+
+And its face — there was something deeply, deeply wrong with it, as if someone had flipped it upside down. The monster’s mouth was where its eyes should have been. It curved in a hungry, gaping smile. As for its eyes — they had taken the mouth’s place, two hollow bone sockets full of sickly green light.
+
+Faint shimmers of rotten, translucent green energy pulsed along the parts of the monster’s form visible beneath its massive robes, forming into a wraithlike image of flesh around its bones before fading away once more moments later. It was as if the massive being was trapped somewhere between a skeleton and a ghost.
+
+Words failed to reach Arwin’s lips. All he could do was stare at the massive being.
+
+The Deepmind.
+
+And then something horrible struck him. The Deepmind’s crown wasn’t a crown at all. It was guild daggers. Hundreds upon hundreds of them, driven into the creature’s skull and each other to form a thorny ring.
+
+The Deepmind’s mouth curled downward in an upside-down smile as its mouth yawned open. A horrid scent rolled out across the room. It was the carrion strewn fields of a day-old battlefield. The smell of dreams bleeding out into bloodied mud. The stench of death in the thousands, forgotten.
+
+“The little hero and queen finally made their way back to me, and they brought their little guild with them. You’ve come so far since I last saw you. And there is so much power within your forms,” the Deepmind whispered, its voice curling through the air in a laughing hiss. It leaned forward, looming over all of them as its horrid gaze bore down into their shoulders with the weight of a mountain. “A great gift. I must thank One for his efforts. The Guild’s pawns, stuffed full of magic and energy… how tragic. You’ve come all this way just to die.”

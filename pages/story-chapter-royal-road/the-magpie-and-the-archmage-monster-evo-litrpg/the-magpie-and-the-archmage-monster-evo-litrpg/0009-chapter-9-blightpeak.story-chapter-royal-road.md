@@ -1,0 +1,169 @@
+---
+id: e2b597d0-17a1-5980-a756-d70d6871affc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9 – Blightpeak"
+slug: 0009-chapter-9-blightpeak
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 9
+ownLength: 2181
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2525609/chapter-9-blightpeak"
+royalRoadId: "2525609"
+---
+
+As much as Renir wanted for Liora to start beating monsters into submission, she had different intentions. She needed to eat something first.
+
+But obviously, she couldn't fly into town with this nice satchel around her neck. That would just give those cursed mages a clue as to where they were. So instead, Liora flew up to the rafters, hoping to hide the gem in a place where no human could see it or reach it.
+
+That spot looks suitable. If a bit dirty.
+
+There was a spot between the roof and the support beam with a neat crook. Perfect for storing valuable gems. Liora was about to settle Renir there when the same large spider from yesterday appeared from underneath the beam. It looked rather angry, flailing its front legs at her.
+
+"Chak-chak-chak!" Liora said. "I'm not trying to scare you away. I just want to hide this here."
+
+"Are you talking to a spider? Hahaha! How silly!"  Renir chuckled.
+
+"You talking to magpie!" She objected.
+
+"Touche."
+
+The spiders calmed its flailing but still stared at Liora suspiciously. She pulled the satchel over her head and settled it into the nook.
+
+"Chak-chak-chak!" She said. "If you keep it hidden, I'll bring you something tasty to eat."
+
+The spider seemed to ponder the offer for a moment, then began to weave a spiderweb right over the nook.
+
+"Holy… I think the spider understood you," Renir said in shock. "First, we got talking magpies, now intelligent spiders. This world is going crazy!"
+
+"Spider understood!" Liora repeated triumphantly.
+
+She felt a little bad for chasing it away from the corner yesterday, but on the other hand, it looked rather content in its new place. Liora was still nervous about leaving the gem, but this was probably the best hiding spot she could manage for the time being. Not like the spider could carry it away.
+
+I need to figure out a way to carry the gem with me at all times in a way that won't be visible, won't slow me down, and ideally would allow Renir to see. Is that even possible? Ugh… There must be something better than a satchel, at least.
+
+Liora didn't have an easy solution on hand, so instead, she focused on getting some food. The surrounding area was rather barren—fields were filled with some shriveled grass, while the forest some distance away had sick-looking trees with brownish leaves. It was as if the whole area was infected with something.
+
+It didn't look this bad at night, but damn, this place is so much worse than my forest. I doubt any magpies have settled here.
+
+Seeing that she wouldn't be able to find much food in nature, unless she resorted to eating bugs, Liora decided to fly into town. While bugs weren't quite as horrible to eat as humans made them seem to be, she still preferred fruits or nuts or actual human food. Unfortunately, human food didn't grow on trees.
+
+When Liora flew into town, she realized that the things there weren't much better than out in the wild. People looked thin, their eyes sunken and depressed. Even children were far less energetic than Liora was used to seeing. While she didn't like children in the slightest—they either chased after her or threw rocks at her—seeing them like this was still disheartening.
+
+However, it wasn't that the town had completely lost hope. People were still stubbornly tending to their gardens and working to make a living. Many carried axes and headed towards the forest. Others worked on the wood already in town, creating tables, chairs, and even a rather impressive-looking cart.
+
+To their credit, their gardens were the only ones, as far as Liora could see, that had something edible in them. And she could see quite far.
+
+Liora hopped from one rooftop to the next, seeing if there was a morsel that she could maybe snatch from the humans. She didn't need much—a small slice of bread and a few bits of meat would be more than enough for her. Soon, Liora's presence in the town was noticed.
+
+"Look! It's a magpie!" Said a woman carrying a load of firewood.
+
+"Pretty birdie!" The children cheered, trying to coax her over as if she were a cat. How rude!
+
+"Dear gods, when was the last time I've seen a magpie this healthy in our parts?" Said an elderly man.
+
+She didn't linger in one place for long, but it seemed like the townsfolk were viewing her arrival rather positively.
+
+It beats having rocks thrown at me, but I still need something to eat.
+
+"Mommy, could we give something to the magpie?" A girl, roughly ten years old, pulled on her mother's ragged dress. The woman had been busy scrubbing some clothes in the tub, but looked up to where Liora sat.
+
+"Oh, dear! I never thought I'd see such a healthy bird in our town," the woman's eyes lit up as she looked at Liora. "I suppose we could give it a little something."
+
+"Yay!" The girl cheered.
+
+They went inside and soon returned with a bowl. Inside it sat hard bread soaked in water.
+
+"Here you go, pretty friend," the girl cooed, stretching out the bowl towards Liora.
+
+"You have to set it down. She won't eat it otherwise," the mother said.
+
+But Liora wasn't afraid of the pair. They looked kind. She flew down and perched on the girl's hand.
+
+"Wow! Mommy, look! It sat down on my arm!" The girl was giddy with excitement. Liora could feel how she wanted to jump up, but remained still for her sake.
+
+"Never thought it'd come so close…" The mother looked a bit surprised, but pleased.
+
+Liora gratefully accepted their offering of hard bread soaked in water. Sure, it wasn't a gourmet meal, but it certainly beat eating bugs. As she ate, the girl carefully reached out and petted Liora.
+
+"She's so soft!" The girl gushed.
+
+"Gently, gently! Or you'll scare her," her mother warned, but soon enough joined her daughter.
+
+It was nice being appreciated like that. Liora decided that these were her favorite humans now. She'd bring them a gift later. But with her meal concluded, she let out an appreciative chak-chak-chak and flew away. After scourging around the town for more scraps—nobody gave her as much as the girl and her mother had—Liora flew back to the watchtower.
+
+She didn't forget her promise to the spider either and caught a few bugs along the way. Nothing impressive, just a cricket, a moth, and a few flies. But when she deposited the prey in the spider's web, it accepted them all gratefully, wrapping them up in a cocoon.
+
+"So, can we go and train you up now?" Renir asked dramatically as she slid the satchel with the gem over her neck again.
+
+"We can," she confirmed smugly.
+
+"Good, let's go then. You're going to have to fly up into the mountains."
+
+Liora looked up at the peaks stretching east of the town. They didn't look friendly in the slightest. The trees at its foot looked like shriveled husks rather than actual trees, and there was a dark mist lingering around them.
+
+"Chak-chak-chak?" She questioned. "Is it really a good idea to train there?"
+
+There's probably a good reason why it looks this ominous. It reminds me of those corrupted monsters. I really hope there aren't any of those freaks there. There's no way I can defeat one of them.
+
+"You worried? It'll be fine. The monsters should be rather weak at the foot of the mountain and then get increasingly stronger near the peak," Renir said, then added after a brief, thoughtful pause. "Although the area does feel different from how I remember."
+
+"Different how?" Liora asked cautiously, flying towards the mountain.
+
+"I can't see, but I can feel the difference in the magical flow. Previously, it felt pure and refreshing. Now it feels… stale? Poisoned even?"
+
+Liora landed on a branch of a tree near the foot of the mountain and cautiously pulled Renir's gem out of the satchel, so he could see the area.
+
+"What the hell?!" Renir exclaimed. "Is the whole area corrupted? But how is that possible? I thought it could only happen to monsters."
+
+Liora nodded in agreement. Corrupted monsters—yes, she's seen those several times and heard the villagers near her forest talk about them. It was becoming an increasingly bigger problem. But even after that corrupted jackalope and boar rampaged through her forest, it still remained pure. Was it because they hadn't been there for long enough? Or was there a different reason?
+
+"Training?" She asked cautiously. Was it safe enough for a magpie like her?
+
+"Hmm… yeah, this changes things. Let's check the foot of the mountain. It doesn't look like it's been fully corrupted yet. Maybe we can find some weaker monsters to fight," Renir said. "But if you see a corrupted monster, you fly away right away!"
+
+"Fly away!" She agreed.
+
+After tucking the gem back into the satchel and making sure it was secure, Liora flew ahead. Before long, she spotted the first monsters—a bunch of small, hyena-like creatures with disproportionally large jaws. They were half-cackling, half-snarling at each other, fighting over some carcass.
+
+Nope. One of them I could maybe manage with a well-aimed Air Dive. But a whole group is too much.
+
+Silently, she flew on, unnoticed by the monsters. A few giant toads were sitting in puddles of purple ooze. She had no clue what the ooze was, but Liora wasn't going to risk getting any of it on her feathers. It didn't look like an Air Dive would be enough to kill one either way. They were twice as large as the hyenas and three times uglier to boot.
+
+Seriously? Is there not something I could kill with a good Air Dive?
+
+Liora was almost ready to throw in the towel when she noticed something on the bark of one of the trees. It looked like it had moved.
+
+Did I imagine that?
+
+She circled the area, keeping her eyes glued to the unusual tree. Was it a treant? If that was the case, then she'd definitely have to get out of the area. The possibility that the treants here would be positively inclined towards her was low.
+
+The bark moved again, but only the bark. It seemed to have edges, and as Liora flew closer, she discerned a butterfly-like shape. She cheered internally—easy glimmerstones.
+
+Liora flew up some distance and then dropped. She couldn't do a fully empowered Air Dive, lest she risked smashing into the tree. So she did it at a slight angle, aimed at the butterfly. But the butterfly, or rather the giant, fat moth, figured out that it was spotted and took flight.
+
+It began to shake its wings furiously in the air, creating a cloud of some sort of spores. Liora stopped her descent—those certainly wouldn't recover her health. They must be toxic in some capacity.
+
+Little coward, using its dirty tricks to hide from me.
+
+But that didn't mean that the moth had won. After all, it couldn't keep spouting spores forever. Liora flew at it from a different direction, forcing the moth to turn and spread its spores. Then she moved again and again, occasionally pretending to Air Dive only to pull up at the last moment.
+
+The whole surrounding area got covered in a thick cloud of spores. However, just as Liora had expected, they didn't linger in the air for long, but eventually floated down to the ground. The moth kept spreading spores left and right as Liora taunted it. Until it finally ran out.
+
+That was what she was waiting for. She flew high and then launched herself down at the moth as soon as the spores had settled. It tried to fly away, but the fat moth wasn't fast. A snail was faster. Liora struck it without any issues, crashing it into the ground.
+
+Much to her surprise, it didn't die in one hit and tried to extend its long, barbed proboscis towards her. The thing was absolutely disgusting, so Liora began Pecking at the moth furiously before it could reach her.
+
+[You've defeated <Spore Moth – Level 3>. Experience gained.]
+
+[You've reached Level 2.]
+
+That moth was an evolved monster? It's so weak.
+
+"A spore moth? Good choice for prey. They're an evolved monster, but still relatively weak, especially against more agile enemies like yourself," Renir commented. "I bet there are more of them in this area. You can just keep hunting them."
+
+Happy, Liora dug out the glimmerstone from the moth's forehead. But suddenly she felt a deep chill pass through her. Something wasn't right.
+
+Driven by pure instinct, she shot up into the sky. It wasn't a moment too late as she saw a large, black owl with feathers that looked like needles crash into the moth's carcass. Its sharp talons cut into it like knives, splitting it apart instantly—as if the moth had been made from butter.
+
+Oh, give me a break! Not another raptor!

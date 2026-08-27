@@ -1,0 +1,251 @@
+---
+id: 1daf82b0-b556-554b-9d3b-a22950d7756b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4: The Quest for Cornbread"
+slug: 0004-chapter-4-the-quest-for-cornbread
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 4
+ownLength: 2123
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-progfan-slice-of-life/chapter/3731860/chapter-4-the-quest-for-cornbread"
+royalRoadId: "3731860"
+---
+
+The bakery remained the same way Marina had left it before, just with the front door secured with its lock hanging from the hinge. She peeked at the time displayed on the System: 8:30 pm. It was getting late, but the idea of espresso made her itch.
+
+Just one shot of espresso shouldn’t be that bad. Marina’s tingling sensation pulled her to the kitchen.
+
+“What are you up to now, my dear?” Hecate trailed behind, hands behind her back with much curiosity.
+
+Marina glanced back. “Oh, I’m going to get a shot of espresso. You want some?”
+
+“This time of ‌day?” Hecate raised a brow. “I thought most Redeemers would’ve found comfort in their beds around this time.”
+
+“Well, there are still plenty of things that I need to do before bed. So it’s better if I refuel.” Marina poured a pouch of coffee beans into a hand-crank grinder. “So, do you want some?” She repeated.
+
+“I am grateful for the offer, but I personally don’t find the bitterness of coffee to be pleasant,” Hecate replied. “I prefer tea.”
+
+“You do realize tea can also be bitter, right?” Marina rolled her eyes as she turned the handle.
+
+“Bitter, yes, but also different.”
+
+Marina disregarded Hecate’s argument, as making a cup of coffee was much more important than arguing about the superior morning beverage. She plugged the espresso machine's cord into the wall outlet. The lights of the display hummed to life. Scooping the grounds into the portafilter, she tamped them down with two firm twists, then locked the whole thing into the machine with a hard clockwise snap. The machine groaned at the touch of a button, then settled into a low mechanical hiss. A moment later, two dark threads began streaming down into the cup she placed below, slow and syrupy, crowned with a reddish-gold foam. The whole kitchen was overflowing with a powerful, almost caramelized scent that was both bitter and sweet, decorated with a hint of nuttiness in more ways than words could describe.
+
+The tiny cup of liquid gold was all Marina cared about right now. Her own passing was no more than an afterthought compared to the 60 milligrams of caffeine held at the tip of her fingers. She wanted to down the entire thing in one gulp, even with the risk of burning her tongue off. But her last remaining wits advised against such an impulse, and instead she took one small sip.
+
+If the scent was an orchestra, the texture was the soloist accompanied by the orchestra. First was the thick, velvety crema coating the tip of her tongue, soon followed by the silky espresso that lingered with a heavy bitterness, clearing her mind of all the stress endured in the morning. It was heaven packed into a cup, delivered to her in the depth of hell.
+
+“The coffee here is amazing. What are they feeding the plants?” Marina took another small sip, wanting to savor every last drop.
+
+“I have very little clue regarding the process of coffee production, but just wait until you try the tea,” Hecate said.
+
+“Fine, when I get the chance, I will.” Marina gulped down the rest of the espresso before letting out a deep breath. “You want to help me with some quests?”
+
+“As you wish, my dear.”
+
+*****
+
+From the rear exit of the bakery, the two of them made their way back into the arid outside world. The quest demanded that Marina harvest something called [Lightning Corn], which was quite the name for such an ordinary type of crop. Corn could be made into many different forms: corn meal, corn starch, corn oil, and it also reminded Marina of bygones that were her mother’s warm cornbread.
+
+“Uh, Hecate?” She paused.
+
+“Yes, my dear?”
+
+“Shouldn’t you wear something more comfortable?” Marina said, pointing at the woman’s heels. “You know, considering we’re supposed to be farming and all that.”
+
+Hecate scoffed, stomping the open field of sand to present the absurdity of her heels not sinking. “This pair is suitable for every occasion, let alone this crude activity. Or perhaps it's your desire to cruelly sentence a maiden such as I to work in fields such as these barefoot?”
+
+“Never mind!” Marina said hurriedly.
+
+Ugh, so much for an assistant. Not only do I have to give her my blood, but I’m also forced to listen to her pretentious rambling. Should’ve just listened to my gut and kept the door shut.
+
+Marina’s flustered footsteps grew hasty as she approached one of the plots. She dug through her [Inventory] to pull out a pair of hoes and a shovel with a pensive frown.
+
+Most of the land surrounding the bakery was either covered in red sand or eroded to bare brimstone. But, ever the helpful System, she wasn’t left with nothing to work with, although it was strange to see the otherwise uniform sand broken up by plots of dirt.
+
+Marina reached into her pocket to pull out a packet containing a few kernels of blue-corn.
+
+A cold grip wrapped around her wrist just as she was about to dump them on the dirt.
+
+“Dirt is quite the rare commodity in this realm,” Hecate said. “Perhaps we should reserve them for our more pristine crops?”
+
+Marina gently pulled her wrist out of the vampire’s grip. “That’s a good point. One problem: how do you expect anything to grow on sand?”
+
+“See for yourself.” Hecate gestured at the plot of sand.
+
+Talking like a farming expert while wearing those heels. Marina dropped the packet of kernels into the pile of sand and covered them using a hoe. “How long does it take for crops to grow—”
+
+Boom!
+
+A deafening thunder struck Marina’s eardrum like a mallet, following a bright beam of lightning touching down on the plot of sand in front of her. Marina shut her eyes, readying herself for whatever pain might be inflicted.
+
+“My, my—Aren’t you a courageous one?”
+
+Marina opened her eyes to find that she’d jumped into Hecate’s arms. She ignored that for now, looking to where the lightning had struck. Instead of scorch marks or the smell of ozone, she found…a black corn stalk protruding from the sand. “Is that?”
+
+“Indeed. Lightning corn. A staple for many in the Underworld.” Hecate set Marina down on her feet. “As well as our ticket into the world of pastries and sweets.”
+
+“Uhm… How do I go about harvesting it?”
+
+“Well, I’d imagine it’s the same way you would with any crop. With your hands.”
+
+Yeah, no shit. Marina rolled her eyes and walked toward the lightning corn.
+
+It looked very similar to ones she’d find on Earth, though they were a slight bit taller. And jet-black.
+
+She reached for the nearest ear of corn still protected by its black husk, twisting and ripping it out of its stalk. Huh, I guess it is just corn.
+
+Marina peeled back the layers of husk to behold the glowing blue kernels beneath. “Whoa, this is beautiful.”
+
+She made sure to stash the ear of corn in her [Inventory] before harvesting the rest.
+
+┌────────────────────────────────────────────┐
+
+Quest Complete!
+
+Use Blueprint [Cozy Bakery]
+
+Harvest Lightning Corn [5/5]
+
+Rewards:
+
+Baking Technique [Quality: Low] x1
+
+Seed Packet [Quality: Low] x1
+
+Blank Recipe [Cornbread] x1
+
+<Accept>
+
+└────────────────────────────────────────────┘
+
+┌────────────────────────────────────────────┐
+
+You Have Gained a Level!
+
+Rank 0 [Peasant] → Rank 1 [Peasant]
+
+<Close>
+
+└────────────────────────────────────────────┘
+
+┌────────────────────────────────────────────┐
+
+New Quest: The First Cornbread
+
+Freshly Baked Cornbread [0/1]
+
+Written Recipe [Cornbread]
+
+<Accept>
+
+└────────────────────────────────────────────┘
+
+A trifecta of System screens appeared as she ripped the last hob from the stalk. The plant withered to dust soon afterwards.
+
+The cornbread of inevitability… just as I had predicted.
+
+Marina headed back toward the bakery alongside Hecate, accepting the System’s rewards for later review.
+
+“Hey, Hecate. What do the people here typically do with corn?”
+
+“Mmm… I am not quite sure about the process...” Hecate replied. “But I have seen them being made into flour of some sort.”
+
+Looks like cornmeal might follow the same process here.
+
+Marina entered the kitchen through the back of the bakery. She set down the just-harvested ears of lightning corn on the stainless steel prep table and grabbed a pot from one of the cabinets.
+
+“What are you doing?” Hecate raised a brow.
+
+“I need to boil the corn.” Marina filled the pot with water and placed it on the stove.
+
+Purple fire was what greeted her when she lit the burner, but she was starting to get desensitized to all the surprises.
+
+“Come to think of it, how is the building getting water? Let alone gas?
+
+“If I am not mistaken, it’s more than likely to be from an energy crystal somewhere.” Hecate began peeling the husks of the corn. “Do you wish to save these parts for later?”
+
+“Thanks, uh. Just save the silk? You can make it into tea if you’d like.”
+
+Hecate nodded. “I suppose I have never had tea from a crop of this caliber before.”
+
+Marina rinsed the glowing blue corn with warm water after removing the ends, dropping the three ears into the pot once it began to boil. She lowered the heat and covered the pot with a lid. “What are energy crystals, anyway?”
+
+“The Underworld naturally generates Abyssal Energy, which can be fed to different types of crystals to produce various resources.” Hecate gathered the silks neatly into a pile. “I remembered them to be quite rare, but it seems that you Redeemers have found a way to mass-produce them.”
+
+“Are there a lot of… us around?”
+
+“I would only assume so. The cities had changed so much from when I was younger.” Hecate sighed. “All this new technology still feels… foreign to me.”
+
+If it were the Redeemers who brought in the technology, does that mean they are also the ones to design the System, too?
+
+The black screen appeared before Marina. “Might as well check my rewards while I’m at it.”
+
+┌────────────────────────────────────────────┐
+
+New Technique Unlock!
+
+Technique Name: Mental Clock
+
+Quality: Low
+
+Description:
+
+Say a keyword to start an alarm clock in your head, very useful when watching a movie while waiting for baked goods!
+
+<Tap me to set a keyword>
+
+└────────────────────────────────────────────┘
+
+A keyword… Marina glanced at Hecate, who tilted her head in confusion. “The keyword shall be corn.”
+
+The System screen closed, and momentarily after, a digital clock appeared within Marina’s mind.
+
+The clock was almost identical to the one that lay next to Marina’s bed back on Earth, and it did indeed bring back some of the comforting reminders of her bed.
+
+As well as the unpleasant memories of waking up that morning.
+
+“S-sorry,” Marina sputtered when she found herself still staring at Hecate. “I was just testing out what the System gave me.”
+
+“Oh, a new power perhaps?”
+
+“Yeah, it’s nothing special though.” Marina turned to shut off the stove. She removed the lid from the pot, pulled out the corn with a pair of tongs, and placed it onto a plate. “You want one?”
+
+“Thank you, my dear, but unfortunately, I am still full from my previous meal.” Hecate shook her head, a slight smirk cracking her mask of propriety.
+
+“Yeah, I bet.” Marina rolled her eyes and set the plate on the prep table, moving a tall stool to rest on it soon after.
+
+She took a small bite, trying not to burn herself. The kernels popped evenly in her mouth. They were sweet, crunchy, and decorated with a hint of earthy aroma. Just like the sweet corn that Marina remembered oh so well.
+
+“Mmm. This is odd…” Marina scrunched her nose.
+
+“What’s wrong?” Hecate walked to her side. “Is it not fit to be consumed like this?”
+
+“It’s fine. I’m just not sure how to feel about the mouth-numbing aftertaste.”
+
+“Would that be difficult to incorporate into a dessert?”
+
+She really doesn’t have a clue… Marina sighed. “I am not sure about the consensus of corn bread in the Underworld. Where I come from, this would be considered very…experimental.”
+
+“But there still might be a possibility?”
+
+“Yeah, just more difficult,” Marina grumbled before summoning the System screen.
+
+“Flour, eggs, butter, milk. We’re still far from being able to make it, so we’ve got time to figure it out.”
+
+“Why don’t we simply source the ingredients from the nearby city?”
+
+“I’m not sure that would count for my quest,” Marina pondered. “How far is it anyway?”
+
+“At least seven days if we are traveling on foot.”
+
+“Yeah, no.” Marina refuted. “I am not going to walk for seven days.”
+
+“There is another option, which will only take us a couple of hours, but…”
+
+“But…?”
+
+“It’s a dark forest that is filled with plants and insects ready to tear us limb from limb.”
+
+Marina stared at her in disbelief.

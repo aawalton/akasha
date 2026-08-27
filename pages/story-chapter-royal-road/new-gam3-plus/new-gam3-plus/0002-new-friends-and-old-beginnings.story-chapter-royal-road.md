@@ -1,0 +1,315 @@
+---
+id: bfb05bd3-5c68-573e-9749-59b290abea4d
+page-type-slug: story-chapter-royal-road
+title: "New Friends and Old Beginnings"
+slug: 0002-new-friends-and-old-beginnings
+partOf: new-gam3-plus
+position: 2
+ownLength: 4778
+unit: words
+publishedAt: 2021-08-08
+link: "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/730100/new-friends-and-old-beginnings"
+royalRoadId: "730100"
+---
+
+A message appeared in front of Alan:
+
+Processing center? What happened? Alan thought.
+
+Time’s a wasting. We’ll find out when we get there, Nu sent.
+
+Alan nodded, and then accepted the prompt. All it took was a small focus of will, imagining he was pushing the button with his mind.
+
+There was sudden disorientation followed by a bright flash of light. The next moment Alan found himself in a cylindrical, mechanical tube, the glass in front of him sliding open. He took a step forwards.
+
+It looked like Alan had been teleported into a massive airport. The ceiling was over 7 meters high, while the main structure itself had to be at least 50,000 square meters, the size of nearly 10 football fields.
+
+A sea of people filled the building, stepping out of row after row of teleportation devices. Many held bags of luggage. These were the players that Alan had expected when he had first signed up for the Game: men, women, and children, though none looked younger than 13.
+
+As he scanned his surroundings Alan noted a few individuals cosplaying, along with a handful openly carrying weapons. Most people were dressed casually, but there was tension in the air.
+
+The first time Alan had entered a US spaceport a fully armed guard had individually welcomed him. Now, however, the military grunts wearing assault rifles were outnumbered at least 50 to 1, trying to direct the mass of human traffic and keep people moving. They all wore matching heavy-duty jackets in tan camouflage.
+
+Perfect, let’s slip into the crowd, Nu sent.
+
+Alan joined everyone else, and a second later a flash of light appeared behind him, signaling a new arrival. As he tried to avoid notice, following the person in front of him, Alan continued to take in the details of his surroundings.
+
+It looked like everyone was being directed to one end of the building, a massive silver archway that looked like the end of a tunnel. A monotone announcement played over the background:
+
+“Attention all players, initiates of the Haxlard orders to the blue auditorium. All recruits for the United World Armed Forces to the red auditoriums. All other citizens must proceed to the green auditorium. Thank you, and good luck.”
+
+As Alan approached the exit he saw that a queue had formed, a few hundred people lining up before going through a series of scanners. Alan paused, as he knew that these scanners weren’t simply looking for potential weapons or unwanted contraband, but recording and analyzing physical traits.
+
+Psst, look up, Nu sent.
+
+Alan glanced upwards and frowned. Besides numerous cameras, there were also a dozen quadcopter drones hovering almost silently in the air close to the ceiling. While the drones weren’t flying about, their cameras were randomly scanning the crowd.
+
+Far more menacingly, two remote-controlled miniguns mounted on ball-swivels were held up on the side of each wall. They were depowered with their guns pointing to the ground, but in a second they could activate and be turned on the crowd.
+
+There were also two tall structures with tinted glass at each corner of the building, perfect sniper nests with a line of sight on all of the teleporters. Alan scanned the area for a pathway to the structures and found nothing.
+
+Stepping to the side, making sure the bandana was still covering his face and acting like he was looking for a bathroom Alan tried to figure out how he would get out of here without being scanned. By instinct, he tried to reach out with his mind to form a mental connection with the digital devices all about but was unable to. Alan's ability to look out and examine the electromagnetic spectrum was gone.
+
+I can’t seem to connect to any local networks either, Nu sent.
+
+An older-looking woman with a bright pink hat and dressed like a soccer mom was arguing with a bald guard. A man stood behind her. Alan navigated the crowd to try to hear their conversation.
+
+“Now, why can’t you just teleport us to our destination?” The woman complained.
+
+“Like I’ve told you before, that was a one-time deal provided by the Administrators to allow new players to get up to speed with what’s happening within the Game,” the guard replied. “After the presentation, you will proceed to your assigned destination. Please move along.”
+
+“I’m not sure I like your—” the woman began—before the man behind her motioned to the guard’s rifle. She seemed to get the message and shut up before joining the queue.
+
+That’s a carbine, an M4. You can tell cause of the slightly shorter barrel, Nu sent.
+
+Great, looks like all my knowledge of weapons is gone too, Alan replied. Do we risk talking to the guard?
+
+We may need to, Nu sent. It appears the rate that people are arriving at is beginning to slow down. Eventually, the presentation will begin, and we don’t want to miss that. The fact that the Haxlards have actively recruited from the general populace and were listed before even your own planet’s military isn’t a good sign.
+
+Damn, what’s the move here? Alan wondered.
+
+The guard turned towards Alan. “Sir, please move along.”
+
+A moment passed as Alan stood rooted in place.
+
+Remember, I’m nowhere near as fast as Eve was, our conversations will take time. Now stop acting like a fool and say something, Nu sent.
+
+“I—I’m, sorry,” Alan said, holding a hand towards his head. “I hit my head before that bright light. Where are we, what’s going on?”
+
+“Just follow the crowd and move along.” The guard sniffed the air. “Is that smoke on you? Please remove your face covering.”
+
+“There was a fire, I couldn’t breathe,” Alan stammered out. “I heard that capsules can heal you. Is there any chance that I could be directed to a capsule room?”
+
+The guard placed a hand on his weapon. “All capsule rooms are off-limits to the general public. I’m going to ask you one more time, remove your face covering.”
+
+Do it, but turn 15 degrees to your right, Nu sent.
+
+Alan removed the bandana, turning his body slightly as he did so. He hoped his face wasn’t too recognizable. With messy black hair and a light coating of ash, he shouldn’t stand out too much. Actually, how much time had passed, how old was he now?
+
+You are biologically 23, Nu sent.
+
+The guard examined Alan’s face and brought up a communications device on his wrist. It looked like a smartwatch. “Command, I’ve got a new player with possible head trauma.”
+
+Whatever the reply was Alan couldn’t hear it, but the guard nodded and said, “Follow me.”
+
+Alan kept his face down, trying his best to look disoriented as they made their way through the crowd to a priority lane. A girl and a boy in light grey jumpsuits flanked by two bodyguards were going through the checkpoint. The girl looked to be about a high school senior, the boy a freshman. Both had brown hair and bright eyes. Neither carried any weapons but each had a black suitcase. Their bodyguards each held a submachine gun and wore body armor.
+
+Alan squinted, trying to get a better look at the logo on their jumpsuits. Was that an Omnitech Industries steel pylon being struck by lightning? The company had been founded by his old mentor, Icewolf. It looked like it was still around, but who were these two?
+
+A loud beep sounded as the boy stepped through a scanner. The security guard manning the device turned to look at the boy. “Sir, what’s in the bag?”
+
+The boy looked down at his suitcase. “Nothing. Just, um, some fertilizer. I was thinking about starting a garden and—”
+
+The security guard gestured and another soldier stepped up, taking the black suitcase and opening it. Inside was a garbage bag filled with fertilizer pellets, a few cases of ammunition, a series of electric wires, a baggie full of lighters, a single pair of underwear and socks, and a toothbrush.
+
+The older girl brought her palm up to her face. “Isaiah, what did you bring?”
+
+“Gardening supplies,” the boy said, staring at his feet.
+
+You could make a pretty nasty bomb with those supplies, Nu laughed.
+
+The security guard looked like he wanted to say something, but then glanced at the Omnitech logo on their jumpsuits. He took the suitcase away from the boy. “We’re going to need to take this.”
+
+The boy nodded and followed the girl mutely. She got to keep her own black suitcase without any trouble, while their two bodyguards trailed behind.
+
+How were they able to bring these items into the Game, anyways? Alan thought. He watched the guard who had taken the black suitcase dump it with a pile of other confiscated items. The pile was guarded by a squad of five soldiers.
+
+I dunno. Might be some new balancing allowance given they’re so weak or are joining late, Nu sent.
+
+“Please step through,” the guard leading Alan said.
+
+“My head hurts,” Alan replied, stepping to the side to let a few military recruits in green camo uniforms pass by. “I don’t trust alien technology, what if these devices are brainwashing machines?”
+
+The guard sighed. “The Haxlards are our allies. There are no brainwashing machines, although there are mental empaths whose abilities are highly regulated. Please step through the sensors.”
+
+“Sorry, sorry, I’m trying to get my head straight,” Alan said. “Weren’t the Haxlards our enemies, didn’t they arrive on Earth to take it over?”
+
+“The Haxlards arrived to aid us and bring our civilization into the greater universe. You will learn everything in the presentation,” the guard said. “Besides, they have way bigger sticks, are more technologically advanced, and control entire galaxies while we’re still fighting over our own solar system.”
+
+You have got to get better at making friends, Nu sent. Introduce yourself, how do you still not know this dude's name?
+
+“I’m Alan, by the way, what’s your name?” Alan held out his hand.
+
+The guard grabbed Alan’s arm. “Troy and I don’t have time for this shit.”
+
+Holding his breath, Alan let himself be dragged through the scanner. Nothing happened.
+
+Huh. Maybe the sensors were thrown off by the extra person, or I was worried for nothing, Nu sent.
+
+Emerging from the building, Alan found the sun had just set. It looked like they were near Washington D.C. after all. Two massive hangars just like the one Alan had arrived in were to the left and right, with just as many people streaming outside. Tens of thousands of people were entering the Game at this location alone.
+
+Bright pathways were lit up on the ground by LED light strips. Red, blue, and green were the most common. More quadcopter drones hovered in the air, diving down low whenever someone tried to step out of their designated path. The red pathway branched to the left, the blue to the right, while the green kept to the center. The vast majority of the crowd followed the green lights to a massive auditorium that looked large enough to be a sports stadium or concert hall.
+
+Troy led Alan off to the side along another path, unmarked by LEDs. It was empty of traffic and went around the back of the building. Nu highlighted that the boy and girl from earlier were making their way down the green path with the general population.
+
+“Where are we going?” Alan asked.
+
+“The medical tent,” Troy said. “I can hand you off to a nurse and you’ll be their problem.”
+
+“That excited to get back to guard duty, huh,” Alan said.
+
+“No, every few months, a couple hundred thousand new players come here for an introduction to the Game. And every time something insane happens,” Troy said. “Terrorists attack, aliens invade, drones go haywire, or a massive earthquake causes widespread destruction.”
+
+“Wow,” Alan replied. He’d been wondering if it had been a one-off event or not, it seems like it wasn’t.
+
+“Yeah, and I haven’t survived once,” Troy said. “All my friends, everyone I enlisted with, have graduated from basic guard duty. I keep dying though, my levels and items lost, digging me into deeper shit.”
+
+“Say, there wouldn’t happen to be a laundry facility available would there? I don’t want to walk around with smoky clothes,” Alan said.
+
+Where are you going with this? Nu asked.
+
+Trying to get a guard uniform, Alan replied.
+
+“No, all facilities are closed to the general public,” Troy said.
+
+“What about a lost and found then?” Alan asked.
+
+Troy stopped in place. “Did you seriously just fucking ask me if there was a lost and found?”
+
+“Yes,” Alan said.
+
+“Well, there is, but I won’t bring you there, it’s all the way on the other side of the spaceport.” Troy turned and started marching towards the medical tent.
+
+“What about bathrooms?” Alan asked, letting Troy walk in front of him.
+
+Troy pointed to a line of portable toilets nearby.
+
+Alan looked around. The medical tent that had been set up was a few hundred meters away. There were airport hangars around, but no people. Everyone it seemed was focused on the auditoriums. He scanned the sky—no drones or cameras in sight.
+
+The hard way it is, Alan thought. He stepped up right behind the guard. Slowly drawing out the multi-tool and flipping it to the knife part, Alan raised his right arm.
+
+A message appeared:
+
+Alan lunged forwards and grabbed Troy’s head while slitting the soldier’s throat. Next Alan threw his weight into the back of the guard. Troy let out a gasp resulting in a spray of blood and tried to reach his weapon, but Alan overpowered him, holding the soldier down as he bled out. Scanning his surroundings, Alan desperately prayed no one took this path.
+
+Less than a minute later Troy was dead.
+
+Another message appeared:
+
+Sorry, Alan thought as he waited for the body to despawn and the loot to generate. The guard’s corpse stayed exactly where it was though, none of the blood and gore digitalized.
+
+If this is how you treat your first new friend, I’d hate to see what you’ll do to your enemies, Nu sent.
+
+Shut up, we weren’t going to get a better opportunity, Alan sent.
+
+Alan scrambled to get the bandana back out of his pocket, tying it around the body’s neck. He then propped Troy’s arms over his shoulders and started trudging towards the portable toilets.
+
+Alan went as fast as he could, but the body was heavy. Adrenaline was rushing through his system though, and he managed to enter the small enclosed space before anyone came onto the path.
+
+Alan removed the guard’s uniform and put it on, wiping away any spots of blood he found. Everything, including the military boots, was half a size too big.
+
+There were so many, many ways that could’ve gone wrong and a multitude of reasons that was a dumb move, Nu sent.
+
+Well it worked out, and we were undetected, Alan replied.
+
+I wouldn’t be so sure about that. Nu highlighted the guard’s communication device, now on Alan’s wrist. A message flashed on it: Status report.
+
+Alan paused, and then typed out a reply after unlocking the device with Troy’s finger: Taking a shit.
+
+Alan examined the communications device, looking for additional information. He scanned through the message history, as well as all the names and contacts, scrolling through page after page as fast as he could. There was a map, providing a layout of the base, but nothing else was useful. The device wasn’t even able to connect to the internet. After a moment of indecision, Alan decided to leave it with the body. It likely had a tracker on it since the map showed a pin with his exact location.
+
+Quickly organizing his new loot, Alan found he’d gained a combat knife, a ballistic vest, a helmet with a flashlight attachment, seven 30-round magazines in various pouches, a keycard, and a basic first aid kit.
+
+Stepping out of the portable toilet, Alan used the multi-tool to lock the door behind him.
+
+That might buy us a few minutes, but someone will discover something is wrong, Nu sent.
+
+Let me do the worrying, Alan sent as he checked the M4’s magazine. He turned the safety off and set it to semi-automatic. Think we can make it to an auditorium without detection?
+
+Possibly, Nu sent. Patrols are supposed to happen semi-randomly, and no one should be too suspicious of another guard, but if those drones or whatever system is in charge of defense is constantly tracking all on-base personnel and you show up on a camera with no tracker, it might arouse suspicion. Maybe we could try to pass off as a military recruit, though we’d have to ditch the weapon. Maybe a 50% chance of reaching an auditorium undetected? Then we’d need to get by the guards in front.
+
+I want better odds. Did you not hear the part about random, dangerous events? Alan asked. I’m keeping this gun.
+
+Alan thought for a second. Let’s get to a capsule room. According to the map, Troy’s barracks is about a kilometer away. I also have a keycard that should work for the building.
+
+Oh, and the presentations will be streamed to the common room according to the old messages. Good idea, Nu sent. Rerouting now.
+
+A blue line appeared in front of Alan, providing him with a path that avoided high traffic areas and most of the cameras. Whenever Alan did pass by a camera, he made sure to angle his face away from it.
+
+An occasional guard patrol did pass by, but Alan’s disguise was good enough that no one paid him a second glance. Instead, everyone seemed to be looking outwards for threats.
+
+With a sigh of relief, Alan finally made it to the barracks, a plain two-story concrete and brick building. Two keycard swipes later, and Alan was in the common room just as the presentation was starting.
+
+Three male soldiers were watching the television at the front of the room, sitting in plain armchairs. One guy looked back but seemed to think nothing of Alan’s entrance. Due to the nature of the Game, two had rifles slung across their shoulders, while the third nearest the television had a pistol strapped to his leg. None of them had body armor or helmets on, however.
+
+Alan took a seat near the back of the room, in front of a pool table. On screen a man in a blue suit had stepped up to a podium. It looked like he was in the green auditorium based on the shots of the crowd, standing behind a shimmering field of faint blue light. Alan didn’t recognize the politician. He had dark skin, and looked to be of Indian descent, but spoke with an American accent.
+
+“Today marks a year since humanity was first introduced to the Game. And what a year it has been. The discovery that aliens are real, the massive collapse of financial markets and governments, two different worldwide elections, an onslaught of regime changes, countless hopeless rebellions against the Enforcers, a frenzy of new technological advancements, and all that is only the tip of the surface.”
+
+The man spread his hands. “You have seen the Enforcers in real life—unstoppable autonomous fleets, halting the development and control of any weapon systems apart from their own. Did you think they were controlled by the government? No! They are controlled by the Game. Whoever conquers the Game rules in reality!
+
+"While a year passed in the real world four years have happened in the Game. Six virtual wars have been fought. Twice the United World Government has almost disbanded, only to reform stronger than ever. An extinction event occurred, killing every last human being within the Game. The Game itself had its rules rewritten. Weapons of mass destruction were unleashed. And that was only in our little corner of space.
+
+“It all proves one thing,” the man said holding up a single finger, “we cannot stand alone. In three months' time, one year in-game, outside forces will be allowed to attack our solar system, our home. Information will be allowed to freely pass between the Game and reality. Allying with the Haxlards is the only clear option. Yes, the price is steep, but we will maintain control of one-third of the planet’s control points, its resources, its landmass. And a third is better than nothing.”
+
+“Is a third of our world, our home planet, enough?” The politician paused, gauging the crowd's alarmed reactions. “No, it is not! It doesn’t even allow us to fully set our own laws. My freedom. Your freedom. All of it will be taken away in a year in-game. Adapt, grow, and level up. Surpass the gods themselves. Buy out the Haxlard’s share of Earth. Discover new planets for humanity to colonize. Research new technological paths. Fight over existing control points, capture them so that humanity may grow, and prosper, and thrive! Do not allow humanity to be enslaved by alien overlords!”
+
+“Today marks five hundred million capsules coming online. And yet we are still outnumbered by the Haxlards over one hundred thousand to one, and they are but one faction in the Game. If we are to survive the coming years we must have strong, dependable allies.” The man gestured in the direction of another auditorium, one where the Haxlard delegation had gathered.
+
+“They are alien, but I have found Haxlards to be honorable, hard-working folk. Yes, they follow alien gods, and that may be upsetting, but standing with us today is a priest of the Three, Envoy Ubaid. I hope his words may allay your fears and even inspire you to greatness.”
+
+The camera shifted to a new auditorium, this time on stage was a tall, blue skinned-alien in dark robes. Covering his face was a white faceplate that had a single gold strike through it. Two Haxlard guards with monochrome light silver faceplates stood behind him. Each held a blade that glowed blue with energy and wore armor that blended in with the auditorium’s background.
+
+An Ultihaxlard, and a priest at that. Watch out, this guy’s dangerous, Nu sent.
+
+The soldier that had looked back at Alan when he’d arrived glanced back once more. “Hey kid, relax, take off your helmet. The blues can’t stab us through the screen.”
+
+“I died early on during the last presentation, that isn’t happening this time around,” Alan replied, keeping his eyes on the screen but focusing on the soldier with his peripheral vision.
+
+The soldier shrugged and went back to watching the presentation.
+
+Envoy Ubaid spoke.
+
+“Blessed be the Three. I greet you earthlings, embers of humanity, and bring to you this message: We Haxlards are not conquerors or imperialists, but supplicants. This disastrous infighting and willful ignorance must be stopped. The Three can fix all, but only if you are willing to save yourselves. Through mechanical brilliance and digital machinations, with evolutionary biology and advanced technology, the Three have blessed us, and so we must in turn bless them. They are gods, while we are mortal.”
+
+The words seemed to resonate in Alan’s mind—they were clearer than they should have been. It was like when he had downloaded information into his brain, the words went straight into his head.
+
+What is this? Alan asked.
+
+A psionic communication ability. A powerful tool, in the right hands. It makes it much easier for people to understand your truth, Nu sent.
+
+“The Three offer salvation,” the Ultihaxlard continued. “Not a promise of an afterlife, but never-ending heaven here and now. By their very existence, they have proven three paths to heaven—to immortality. I beg you not to help us, but to help yourselves. Let one of humanity rise in power to godhood, to join the Three and support others in turn.
+
+“You stand before me on this planet, and you see all that you have ever known. A single world: wide and wonderful, but small.”
+
+A planet appeared in Alan’s mind. Earth.
+
+“You must dream bigger,” Envoy Ubaid said. “Of the stars, of the vast infinities and edges of the universe.” Earth expanded outwards, and Alan saw space in his mind’s eye. How small he was. Earth was but a part of the Solar System, in the Milky Way Galaxy, in the Local Group, in the Virgo Supercluster, all of which was only a fraction of the universe. But it was all the space the Game contained. It would take millions of years for light to travel from one side to the next.
+
+How was such a thing possible? The Game couldn’t possibly contain—Alan hit a wall. He couldn’t continue the thought.
+
+Envoy Ubaid resumed his speech, “We constrain new planets not out of greed or malice, but to help you grow. It is far too easy to succumb to bestial instincts and hedonism. To care about others’ paths when all that matters is your own. Humans of Earth, I beg of you. Rise above all else, so that you may one day bless the Three.”
+
+That doesn’t sound too bad, Alan thought.
+
+Trust me, you don’t want Haxlards ruling your planet, Nu replied. They’d consider an hour-long lunch break hedonistic and sinful. Hell, to them a half-hour lunch would probably be worth a punishment. They go old school too, whippings, public decapitations, and the like. I have no idea what the UWG is thinking.
+
+“Ascend past your simple forms, find hope once more.” Envoy Ubaid stepped off the platform and kneeled before the crowd. “Blessed be the Three. For in their advancement, we shall all rise.”
+
+A wave formed within Alan’s mind: a rising tide of light that lifted spaceships off the ground, advancing the boundaries of the known universe in a growing sphere, an advancement of the cumulative knowledge of all sentient beings.
+
+The camera shifted again, to one of the military recruit’s auditoriums, and this time Alan recognized the speaker. It was Icewolf, but his hair had turned white, and a scar marked an eye that whirred about with mechanical precision.
+
+Icewolf stood not in an official uniform, but in sleek power armor. Smooth black cloth interweaved with dark metal that seemed to both absorb the light and emit a shadowy miasma. It was of Revenant design, but Alan couldn’t identify the model.
+
+The soldiers in the room sat up straight. One glanced back at Alan for the third time and then focused on the screen.
+
+Huh, looks like they’re worried that something might happen, Alan thought. Nothing seems to have changed.
+
+No, something is different, Nu sent. Keep watching.
+
+“Before we begin I’d like to remind everyone listening that all humans are equal and this is just a game,” Icewolf said. “Yes, the Game is a virtual reality massively multiplayer online role-playing simulation that was designed to replace all war, but it's still a game. You will discover newfound powers, technologies that will augment your biology, mechanical implants that will shape your world view, but at the end of the day we’re still human.”
+
+“We all have friends, families to fight for.” Icewolf frowned. “Or at the very least we should. Do not pursue power for the sake of power alone. Find a cause, something worth fighting for. I happen to believe Earth is a pretty good one.”
+
+Wow, it’s almost like his words are meant for you, Nu sent. What’re we fighting for again?
+
+Quiet, Alan replied. The soldier that had set him on edge had a rather firm grip on his rifle.
+
+“Ignore me. I’m simply a soldier that feels like he’s spent several lifetimes fighting virtual wars, reminiscing about times barely a year old,” Icewolf said. “If the Haxlard Crusade proved anything, it proved that they are the strongest singular fighting force within our cluster of space. To fight against them would be folly, we’d be crushed like an ant. At least that’s what the politicians say.”
+
+Icewolf stepped down off the platform and brought out a communication device.
+
+“If my time in the Game has taught me anything, it is this: adapt or die,” Icewolf said. “Evolve. Die. Repeat. Do not fear failure in the Game, for each day you will grow a little stronger. Death is not the end here. Stagnation, the moment you stop moving forwards, that is what kills civilizations.”
+
+“Let hunger grow in your belly. See all that humanity might have, but does not.” Icewolf smiled, but it was cold. “Let the world burn so that we might rise from the ashes. Begin Operation Phoenix.”

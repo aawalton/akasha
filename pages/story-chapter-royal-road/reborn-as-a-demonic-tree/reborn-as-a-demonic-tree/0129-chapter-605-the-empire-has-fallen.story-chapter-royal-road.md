@@ -1,0 +1,207 @@
+---
+id: aad27bf1-2455-5111-ba9a-6d407d5c827e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 605: The Empire has Fallen"
+slug: 0129-chapter-605-the-empire-has-fallen
+partOf: reborn-as-a-demonic-tree
+position: 129
+ownLength: 2486
+unit: words
+publishedAt: 2026-08-17
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3826968/chapter-605-the-empire-has-fallen"
+royalRoadId: "3826968"
+---
+
+The Celestial Empire has fallen.
+
+Tiberius, Celestial Warden of the Eternal Pursuit Pavilion, stared at the words written in gold across his communication jade.
+
+"So it's true. Can't say I'm surprised," he muttered, pocketing the jade and turning to the window. Remnants of the Empire's once-great fleet drifted over Desolark City, smoldering, while the rest had been blasted into debris that decorated the wilderness beyond the walls. The Monarchs who had led the fleet were nowhere to be seen. They had all fled, leaving their ships to burn.
+
+He stepped away from the window, crossed his silent office, and sank into the leather chair behind his desk. For a long moment, he simply stared at nothing.
+
+The Celestial Empire had fallen. It was a simply absurd claim, yet he had no trouble believing it. If anyone could wipe out such a powerful Empire in a week, it was the Ashfallen Sect.
+
+"I wonder what is going to happen now," he mused. The Eternal Pursuit Pavilion was technically owned and funded by the now-fallen Empire. Would the Ashfallen Sect take them over? Was he going to be out of a role or maybe even executed? While unlikely, his fate was up to their new overlord.
+
+Thankfully, I was always polite and patient with the Princess. I pray for all of those who weren't. His gaze slid to his desk, and he felt curious about something. I wonder if headquarters has updated the rankings yet.
+
+He waved a hand over the desk. A projection bloomed to life, and a few flicks through the menus brought up the standings.
+
+"As always, headquarters works fast," he muttered, eyes scanning down the list.
+
+[Ashfallen Sect (Calamity)] ▲ — Promoted from Divine class. Now considered the uncontested ruler of the 9th layer.
+
+[The World Tree (Divine)] ✦NEW — Strength, alignment, and motives are under investigation.
+
+[Umbraholme (Monarch Realm)] ▲ — Now aligned with Ashfallen.
+
+[The Stratospire League (Monarch Realm)] ✦NEW
+
+[The Luminarch Conclave (Monarch Realm)] ✦NEW
+
+[The Mycothane Hive (Monarch Realm)] ✦NEW
+
+[Empyrea Noble Houses (Monarch Realm)] ✦NEW
+
+[Frozen Star Sect (Nascent Soul Realm)] — Demoted from Monarch class after the enslavement of Ao Lingxuan.
+
+[Shadowfang Sect (Nascent Soul Realm)] ▲ — Survived the beast tide.
+
+[Emerald Serpent Sect (Star Core Realm)] — Unchanged.
+
+[Stormclaw Sect (Star Core Realm)] — Unchanged.
+
+[Ironwood Sect (Star Core Realm)] ▼ — Diminished, status uncertain.
+
+[Tainted Cloud Sect (Star Core Realm)] — Wiped out by the beast tide, moved and absorbed into the Ashfallen Sect.
+
+[Blood Lotus Sect — ABSORBED into Ashfallen] ✖
+
+[The Flower Accord — CONQUERED by Ashfallen] ✖
+
+[The Celestial Empire — DISSOLVED] ✖
+
+His attention settled on the last entry in the list for a moment. That was something he had never expected to see in his long life, yet there it was. The Celestial Empire had been forcibly dissolved into its separate factions, no longer united under a single banner. Those factions were now ranked separately, with Umbraholme ranked highest for allying with the Ashfallen Sect.
+
+He could only begin to imagine the chaos the factions of the Celestial Empire were in now.
+
+Besides that, the Ashfallen Sect was no longer considered a Divine-level sect and had been reclassified as a Calamity-level sect. Tiberius nodded in approval—it felt like a fitting title for the Ashfallen Sect, an unstoppable realm-ending force.
+
+A chill crept into the office.
+
+It was subtle at first. But it became more noticeable as the projection's golden light flickered, and a thin mist curling across the floorboards rose. Someone is coming, Tiberius thought, but didn't dare to push back against the encroaching mist. If someone could bypass all of the Pavilion's security unannounced, then they were either a god, a member of the Ashfallen Sect, or both.
+
+The door opened on its own.
+
+He got his answer as a demoness ducked through the doorway, her towering height making the spacious office suddenly feel far too small. Two black horns curved up through hair the color of spilled ink, tinted faintly blue, and wings of feathered darkness unfurled from her shoulders, each thrice her size, shadowing the room. She regarded him with gray eyes that held all the warmth of a drawn blade.
+
+Tiberius was on his feet and bowing before she could open her mouth. "Grand Elder Diana Ravenborne, you honor my humble office."
+
+"None of that." Diana waved a clawed hand, and the threatening mist drew back as quickly as it had come. "Sit. We're going to be working together, so let's skip the theatrics."
+
+He sat. So did his stomach.
+
+Two more figures filed in behind her—a man and a woman. Both had the aura of Monarchs. He was rather surprised when he instantly recognized them both as Monarchs of the Celestial Empire. He had even exchanged a pleasant conversation with the woman, Evaline, a few decades ago. He would never forget her dazzling white hair that glinted like snow in the sunlight and her twin spears of ice crossed on her back.
+
+Diana noticed. "Ah. You know her?"
+
+"During my rise in the Pavilion's ranks, I was required to wine and dine many people. Evaline Brynhold was a person whose company I enjoyed," Tiberius said evenly. He glanced at Aurelian Vasthorne and felt something off about him. Cosmic Monarchs often wore a distant gaze, but he felt almost like a shell of his former self.
+
+"Good. That speeds things up." Diana settled into the couch across the desk as though it had always been hers, wings folding neatly behind her. She casually rested her arms on the backrest and crossed her legs. A relaxed, yet dominant pose. She didn't fear him, and why should she? Diana Ravenborne was a Monarch, while he was in the middle stages of the Nascent Soul Realm. The gap between them was insurmountable in both personal strength and connections.
+
+She wielded the say of the Ashfallen Sect, and by the look on her face, she intended to use it.
+
+"Effective immediately, the Eternal Pursuit Pavilion operates under my management. All of it," Diana said. Her tone was direct and to the point, as if she didn't want to be here a second longer than she had to. But unlike the Princess, whose desire to leave seemed to stem from disinterest, Diana's came from a place of not wishing to waste words on tasks beneath her.
+
+"I would be honored to serve, Grand Elder," he said with a wave of relief. He still had his head. "But in all honesty, it's outside my power to grant you that. The Pavilion answers to its headquarters. A branch warden such as myself has no authority to hand over the whole institution to—"
+
+"I know," Diana said, cutting him off. "I'm not asking you to. I'm telling you it's already happening." Her gaze turned distant, but she kept talking. "As it happens, I'm at headquarters right now, having this very conversation with your superiors. The order will reach your jade within the hour."
+
+"...I see," he said, not interested in understanding how she was having two conversations at once. "Then I suppose the Pavilion is yours."
+
+"Ours," Diana corrected. "I've no intention of running a network I don't understand. You'll keep your post, Warden, in fact, you're getting a promotion, as I know the Ashfallen Sect can trust you," she offered the closest thing to a smile he had seen so far. "So long as you and Nox continue to get along, of course."
+
+Tiberius smiled awkwardly.
+
+He was no fool. Getting a promotion in a chaotic time like this wasn't a blessing—it was a nightmare wrapped in gold. While the Empire had fallen, there were still many factions and Monarchs out there in opposition to the Ashfallen Sect. A promotion would make him the figurehead of the new transition of power within the Pavilion and paint a target on his back.
+
+Yet, with all that in mind, he couldn't help but relax a little. Those who defied the Ashfallen Sect wouldn't last long.
+
+"I appreciate your trust in me," he said honestly. "I will strive to meet your expectations."
+
+There was an extended pause as Diana seemed preoccupied with something else. Tiberius had no choice but to sit there being stared down by the two ex-Celestial Empire Monarchs who stood at her sides like attendants.
+
+Her focus returned after a moment, and she smiled.
+
+"To business, then," she said, and Tiberius wondered if she had even heard his pledge of devotion. Diana inclined her head toward the woman at her side. "To be honest, I came here to solve a personal matter. Evaline is one of mine now. Before anything else, I want her family protected. So long as Evaline remains at my side, there will be no bounties placed against those with the surname Brynhold. If so much as a rumor stirs against them, I expect to know of it before they do."
+
+Tiberius glanced between them. "It's rare for the Pavilion to protect someone, let alone a whole family. While I respect the Brynhold family on a personal level, to protect them like this is—"
+
+"I'm not asking you to make it happen. I'm telling you to do it," Diana said plainly and leaned back as if the matter were resolved.
+
+"Oh," Tiberius said, stunned. He had never been spoken to like this besides the Chairman. "I'll see that it's done by tomorrow."
+
+"Within the next hour would be better, but I know I can only expect so much of you," Diana said with a shrug that hurt his pride. "That aside, there's another thing I came to inform you about. Going forward, the Pavilion works alongside Mistress Veilshade's people."
+
+Tiberius blinked. "...Umbraholme?"
+
+Diana nodded.
+
+He couldn't quite keep the dismay out of his voice. "Grand Elder, we have spent the better part of a century bleeding trade to that organization. They are our rivals in every market that matters—"
+
+"Were," Diana said. "Now you're colleagues under the banner of Ashfallen." Her grey eyes cooled. "The Empire's Monarchs have scattered into the wilderness. Between you and Umbraholme, I want every last one of them tracked down and found. You may use the Ashfallen Trading Companies' Yinxi Coins to hire Jade Sentinels to handle this matter."
+
+"And the ones who didn't scatter?" Tiberius questioned. "There are reports of a gathering. Up in the canopy—"
+
+"I'm aware." Diana rose, wings stirring. "Those fools are roosting together on the World Tree's branches like frightened birds believing there's safety in numbers." She chuckled darkly and turned for the door, the two Monarchs falling in behind her. "They'll be dealt with soon enough once the Princess decides to step in."
+
+She paused at the door and glanced back.
+
+"When she does," Diana said, "it won't take a week to wipe them out."
+
+The door shut, but the lingering mist remained.
+
+Tiberius sat alone, and a small smile broke across his lips.
+
+He withdrew his communication jade. If he was to keep his new boss happy, who was somehow harder to deal with than the Princess, he had work to do.
+
+A lot of work to do.
+
+***
+
+The Crowned One could control anyone he deemed lesser with his mere words, bringing an entire Empire under his rule.
+
+The Yearning One could seduce anyone alive, her most infamous conquest being Astralis, the great Celestial Star Dragon of the Wilderness.
+
+The Burning One's wrath could set the heavens themselves ablaze. The Gilded One could hoard anything and everything, down to the very souls of gods. The Hollowed One could swallow whole realms and hunger still. And the Still One never needed to act at all—the threads of fate simply bent to his will, arranging the world to his liking without him ever lifting a finger.
+
+Yet of them all, the Mirrored One held the most potential.
+
+He had simply never been given the chance to seize what was rightfully his, forever languishing in the Crowned One's shadow.
+
+And what was his power? To take what was not his and make it his own. To wear another's face and savor every advantage that came with it. He did not merely borrow an identity or steal a technique—he mirrored it nearly perfectly, until the reflection could no longer be told from the original.
+
+After licking the blood from Stella's face, he had copied all of it. Her features. Her cultivation. Her laws. Her bloodline. Everything that had once been hers was now his to wear.
+
+Including the fear her name carried.
+
+Stepping out of the aether, which was a step above the spatial Qi he had used as Janus, he arrived in the middle of the heated argument playing out among the surviving Monarchs of the canopy.
+
+The vast room, which had been roaring with noise, fell silent at his appearance.
+
+Ah, so this is what it feels like to instill fear, The Mirrored One thought while savoring the stunned silence as if it were a fine wine. The fact that this fear hadn't been earned, and he had just taken it, made it all the sweeter. He simply loved taking what wasn't his.
+
+Which is why he wanted more.
+
+Stella wasn't enough. She was a stepping stone. The true prize?
+
+The Dark God.
+
+He wanted to become the All-Seeing Eye.
+
+"S-Stella Crestfallen?" a Monarch from the sun-worshipping zealots of the Luminarch Conclave stammered, filling the silence.
+
+The Mirrored One turned and met their gaze with Stella's face. They flinched.
+
+Did the Crowned One ever command this much fear?
+
+The Mirrored One smiled. "Hello, Monarchs of the canopy." He surveyed the gathering: the Stratospire League, the Luminarch Conclave, the Mycothane Hive, and even a handful of nobles from Empyrea. All of them in one room, united by a common foe.
+
+"I haven't come to fight," he said. "You see, my father and I had a falling out during this war. He allowed me to be imprisoned, and he never came to save me." He looked down, tears that weren't his streaming down his stolen face.
+
+All attention was locked onto him.
+
+His story was nonsense, full of holes. But it didn't matter. Their backs were against the wall, certain death closing in, and the one person they feared most—save the Dark God himself—had come offering them an opportunity.
+
+"Is that really true?"
+
+He nodded like a sad child.
+
+"C-can your father be defeated?" A Monarch from an Empyrea house asked. The Mirrored One didn't know their name, nor did he care. These were all pawns to be used to fulfill his desires.
+
+"While the Ashfallen Sect projects strength, I can assure you that after a conquest like this one, my father is gravely weakened and exhausted." He slowly raised his eyes, his expression hardening into resolve. "If there was ever a time to strike, it is now."
+
+He extended an open hand.
+
+"I, Stella Crestfallen, will even fight alongside you."

@@ -1,0 +1,359 @@
+---
+id: ba795457-dc6b-5e99-aa6c-c6c37d6697ce
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED SIXTY-SEVEN: Snow IX"
+slug: 0269-two-hundred-sixty-seven-snow-ix
+partOf: super-supportive
+position: 269
+ownLength: 3931
+unit: words
+publishedAt: 2026-01-16
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2947680/two-hundred-sixty-seven-snow-ix"
+royalRoadId: "2947680"
+---
+
+267
+
+******
+
+Most of the lights were off, and the rustling of the plastic and paper shopping bags Alden carried as he left his bedroom was the only sound in the apartment, so he expected to have the living area to himself on Friday morning. The sight of a pair of bare feet and legs sticking up toward their antler light fixture startled him mid-yawn.
+
+Haoyu was alone in the dark in shorts and an undershirt, doing a handstand, his straight dark hair hanging down toward the fluffy rug. His eyes were closed, and his mouth was moving slightly. Whatever he was saying to himself wasn’t audible.
+
+“Hey. We’re both up before Lexi,” said Alden, keeping his voice down so that he wouldn’t disturb the others. “That’s rare.”
+
+Haoyu’s eyes snapped open, and he wobbled.
+
+[Haoyu: No talk! No push! <<Certain number to say!>>]
+
+The System translated half the mental text from Turkish.
+
+Oops. “I won’t mess with you, man. I’m just going to drop this here. Do your thing.”
+
+Alden set the bags on the kitchen table and headed to the bathroom. He took his time, but when he came out, Haoyu was still inverted. Alden bet he hadn’t slept. They’d all stayed up late together arguing about Anesidoran social dynamics and playing a post-apocalyptic video game set in a universe in which most of humanity and several other intelligent species had been killed by pelican-headed creatures of unknown origin. Nobody had said they were intentionally keeping Haoyu company, but even Lexi, who stuck to his routines pretty strictly, hadn’t said he was tired of hunting pelican heads until Haoyu himself had suggested that they stop for the night.
+
+The camaraderie had been a good way for Alden to mute his own thoughts after the calls with Stuart and Boe, too. But then after going to bed, he’d had an old-fashioned bad dream about dropping that jade earring in some rubble and being unable to find it.
+
+Haoyu’s feet thumped onto the rug and he came toward Alden. “Sorry. I was doing something. It’s ridiculous, but it was supposed to be for luck.”
+
+“Weirder things have been done for luck.”
+
+“It’s nice of you to say so.”
+
+“No. I’ve literally done things so weird that I’ll never tell you about them.” There was still a piece of bone stuffed in putty in one of his drawers.
+
+“Is this what you and Lute bought yesterday?” Haoyu asked, watching Alden pull a mask with a warty nose and a bright yellow tongue out of a bag.
+
+“Yes. This is all the stuff for the gift basket I’m doing for our class this evening. It’s going to be a grab whatever you want situation, so if you see something here you’d like to have, go for it. I couldn’t find an actual basket big enough yesterday. I’m going to wrap this big cardboard box in that paper there and pile everything up in it.”
+
+Haoyu picked up the roll of paper Alden had propped against a chair. “You found official superhero paper for Instructor Waker?”
+
+“I did. It’s funny, right? Whoever designed it must have felt like showing him fighting other people wasn’t cute enough for gift wrap, so they’ve got him beating up those cacti. Look at the doodle of his Little Snake form picking needles out of his boot.”
+
+“This’ll give Jupiter ideas.” Haoyu set the roll back down.
+
+He commented on a few of the things that would be going into the gift basket, but fairly soon, Alden found himself doing all the talking while Haoyu spaced out, his eyes fixed on the kitchen nightlight like it was mesmerizing him.
+
+“Could you do decent handstands before you got your powers?” Alden asked, hoping to draw him away from his thoughts.
+
+“Mmmhmm,” said Haoyu. He was holding a bag of caramel popcorn from the pile of snacks Alden had bought, but he had forgotten about it after a couple of bites.
+
+“Let’s all go to the Reindeer Selection finals later. Since none of us have any exams then.”
+
+“Mmmhmm.”
+
+Alden dropped a couple of the mood beast toys into the box. “I got the wizard in the hospital dispensary to give me tons of illegal party potions, and I’ve spiked the snacks here with them. Should I give them out to everyone before gym or afterward for maximum effect?”
+
+“Mmmhmm.”
+
+He’s not hearing me at all.
+
+“Both then,” Alden said. “MPE’s gonna be crazy tonight. I’ll tell them it was your idea when they arrest us.”
+
+“Mmm…” Haoyu blinked. “Wait, what did you say?”
+
+Alden smiled at him. “Don’t worry about it. I was just joking with you, and you missed it. You agreed to go to Reindeer Selection, though.”
+
+“I did? What time is that again?”
+
+“It starts at 11:45.”
+
+“Sure. It will be fun… My mom’s supposed to call around noon.”
+
+Alden knew that. Haoyu had mentioned the time last night. Alden almost asked if he’d rather hang out in the room and wait for the call, but instead, he went with, “She might get to watch the winning reindeer team be chosen from another planet, then. Probably a universal first.”
+
+“She’d think something like that was neat.”
+
+“Hey, it’s the last official day of Bromelimas,” said Alden before Haoyu could be recaptured by the nightlight. “Any final traditions we need to complete?”
+
+“I did think of one after you guys went to bed last night,” said Haoyu. “Thanks for reminding me.”
+
+“Is it good?”
+
+“It will be for three of us. When Lexi wakes up, we—”
+
+“I’m here,” said Lexi, coming down the hall, his hair still tousled from bed.
+
+“We weren’t loud,” Alden said.
+
+“It wasn’t anything to do with you two talking. I had a crazy dream, and I couldn’t go back to sleep.”
+
+“Me too,” said Alden.
+
+“Was it because of the pelican heads?” Haoyu asked as Lexi headed toward the coffee maker.
+
+“It was about Lute, Alden, Kon, and that candy pig.”
+
+“Kon was there?” Alden asked. “What were we doing?”
+
+“Planning something. I can’t remember what you were all planning, but I remember that you shouldn’t have been doing it.”
+
+“Well, that is a crazy dream then. In real life, my plans would be righteous and brilliant. Make enough coffee for me, if you don’t mind.”
+
+“Why wasn’t I in the dream?” Haoyu asked. “Everyone was in the dream but me?”
+
+“It was a dream about them being stupid. Why do you want to be there?”
+
+“You were there, too. I would be stupid with you all. Maybe I was the pig?”
+
+Alden pointed at Haoyu. “That pig took a punch from an Avowed without being damaged. Just like—”
+
+“Like a Dura Brute! So I was there. I’m glad.”
+
+“Me too.”
+
+Lexi grumbled over the coffee filter.
+
+“Since you’re here,” said Haoyu, “we’re going to do something to Lute. It’s a tradition for the final morning of Bromelimas. Last bro to wake up must be pranked by the other bros.”
+
+“It’s like punishment for not respecting the holiday enough to get out of bed,” Alden said. “That makes sense.”
+
+Lexi thought about it for a few seconds. “I like this tradition.”
+
+That’s unsurprising since he’s never the last one up.
+
+“I think we should do something to his room,” Haoyu said. “Like booby trapping it with cups of water. Or canned fish. We could open all the cans and hide them around the place, and he’d have to track down where the smell was coming from.”
+
+Lexi looked like he’d caught a whiff already. “Haoyu…”
+
+“It’s not his fault.” Alden rolled up a light blue and white scarf he’d bought from Mrs. Nancy. He tried not to let regrets about yesterday gain traction as he tucked it in with the other gifts. “Haoyu was doing a handstand for too long, and it affected him. Haoyu, the fish can idea would reek. What if it permeated Lute’s stuff? And we all live here.”
+
+“Then what about using something that smells good?”
+
+“Why does it have to smell at all?” Lexi asked.
+
+“I’ve collected some more lavender pouches from North of North.” Alden positioned the masks on top of the mound of presents. “I thought I could win against them, but they just keep coming. The last towel they gave me had two folded inside.”
+
+“I’ve got a collection, too,” said Haoyu. “You made me feel bad for throwing them away.”
+
+“I did? I wasn’t trying to.”
+
+“You kept talking about how strange it was to just trash a perfectly good sachet, and you asked if North of North was sending out high ranks to pillage lavender fields. Now I have to keep them so you don’t think I’m wasteful.”
+
+“Why is Alden talking about people wasting things? He’s using temper spheres as sling bullets.”
+
+“Those aren’t wasted. They’re my spell ingredient, so I should come to know them completely, right? In theory, I’m more likely to have one on me at all times than any other kind of rock. Also, I can make them invisible and then sling them at people. Or I can sling them at people and then make them invisible to create a tripping hazard. Just showing them to my opponent reminds them that an invisible one might be somewhere. I mimed throwing one once, and Vandy wasted a whole second blowing the floor so that she wouldn’t step on it. That was a second in which I could have beaten Vandy…if I had been more competent. And they don’t break that often.”
+
+“Are you sure you don’t just think it’s funny?”
+
+“Every young man dreams of wearing a belt pouch full of magic gear. Don’t make fun of mine.”
+
+“He’s right,” said Haoyu. “I want to carry around Tuyet’s darts.”
+
+“We can’t all be Meisters with fancy weapons,” Alden said. “But just you wait for the day when alien roaches become a problem for us, and you’ll be glad I’ve thoroughly trained myself with my spheres.”
+
+“Why would alien roaches be a problem,” Lexi asked, “and what does that have to do with your spheres?”
+
+“I’m preparing just in case. This apartment could be full of Jatontan pests one day, and then you’ll see what I’m capable of.”
+
+“What is a Jatontan pest?” Lexi inhaled sharply. “Did you bring some kind of infestation back with you from one of your trips?”
+
+“Let’s hope not,” said Alden. “About Lute…”
+
+******
+
+******
+
+“He looks so innocent when he’s sleeping,” Haoyu whispered. He held a single dried lavender flower over the center of Lute’s forehead, preparing to drop it. The last two he’d tried had rolled down Lute’s face. They’d already taken a picture of their masterpiece, but Haoyu was determined to get the forehead flower right.
+
+Alden was struggling not to guffaw. The humor was only partially in how he imagined Lute was going to react when he woke up to find his pillow covered in lavender and his blanket decorated in swirls of it. Funnier than that was the look on Lexi’s face as he tried not to die from the effort of holding back his own laughter.
+
+Even he couldn’t be mature at a time like this.
+
+They’d started out stealthily, sprinkling flowers around and writing messages in the powder shampoo that none of them liked to use. Alden suspected Lexi had begun to break when he’d turned around to see Haoyu positioning the robot vacuum inside a powder heart with the words “I love you!” written beside it.
+
+With the room done, the three of them had climbed onto the heavy loft frame and decorated Lute. He slept peacefully, his fried egg pillow tucked under one arm, while they balanced above him and tried not to shake the loft.
+
+Haoyu landed the lavender so that it rested on Lute’s forehead. “Perfect,” he murmured. “You look great now, Lute. Emilija should see you like this.”
+
+“Don’t send a picture to Emilija,” Alden hissed, climbing down. “That’s way too much.”
+
+“I won’t. I was just talking.”
+
+“Don’t send it,” said Lexi as they made their escape and carefully shut the door behind them. He was waving a hand in front of his face like he was going to disperse his mirth into the air. “But make him think you did when he gets up.”
+
+Haoyu and Alden both looked at him.
+
+“So this is the real you,” said Alden. “You’re trying to give Lute a stroke. And you look more like Kon than ever.”
+
+“I’m always the real me…and I’m taller than Kon. I’m going to stay taller than Kon.”
+
+“Did you ask a doctor about that or something? Or do you mean you’re going to grow more than him on principle?”
+
+******
+
+“What the…is this soap? The hell?! My harp! Which of you did this to me?!” Lute’s yells finally came almost half an hour later. Waiting for them without waking him up had been hard. “This stuff is all in my nose!”
+
+“It was Haoyu!” shouted Alden from his seat at the table.
+
+“It was Alden!” shouted Haoyu and Lexi from theirs.
+
+“They helped!”
+
+“In. My. NOSE!”
+
+“We didn’t do anything to his harps, though?” said Lexi.
+
+“Maybe he just shouts ‘My harp!’ the way parents shout for their kids in an emergency?” Alden guessed. “We didn’t put lavender in his nose, either.”
+
+“He must have rolled over and inhaled hard,” Haoyu said, demonstrating with a large inhale of his own. “It was right there on his pillow, so if he gasped…”
+
+They all started snickering.
+
+“Ow!”
+
+“What hurt him? Did you do anything that would hurt him?” asked Alden.
+
+The other two shook their heads.
+
+Lute burst into the kitchen seconds later, hopping on one foot, sneezing, with lavender clinging to his pajamas and falling out of his hair. “I stumped my toe!” he said, trying to glare. It wasn’t a convincing expression when he sounded like he was on the verge of laughing, too.
+
+“You smell great, though,” said Alden. “Imagine if it had been fish.”
+
+“Happy Bromelimas,” said Haoyu. “On the final day of Bromelimas, the last bro to rise must be pranked by the other bros.”
+
+Lute swallowed and made a face. “I think I ate some of it.”
+
+“The last bro to rise sometimes has his breath freshened by the other bros.”
+
+“The vacuum is in love with me? The vacuum? What’s wrong with you guys?”
+
+“It’s the natural progression of your relationship,” Haoyu told him. “Say yes.”
+
+“To what?” Lute asked. “Is it proposing?”
+
+“Show him the pictures,” said Alden.
+
+“There better not be pictures.”
+
+“But Emilija liked the pictures,” Lexi said with a smirk.
+
+******
+
+“Bromelimas tradition number thirty-something,” said Alden, walking between Lexi and Lute on the way to the uni side of campus for Reindeer Selection. “Photos of bros being pranked are only for fellow bros. And maybe that should be a huntski lodge tradition, not just a Bromelimas thing. A rule. An unbreakable law.”
+
+“Is it because you saw Lute’s spirit leave his body and turn to ash when Lexi said Emilija’s name?” Haoyu asked.
+
+“It’s just a smart rule,” said Alden. It was mostly because he’d seen Lute’s spirit leave his body and turn to ash. “Keeping pictures so that we remember the important moments is good. Never showing them to anyone else is also good.”
+
+“You didn’t really send anything to her, right?” Lute asked.
+
+“How many times have I sworn I didn’t? I would never have said that if I knew it would freak you out that badly.”
+
+“Lute, Emilija wouldn’t be leaving you alone if we’d sent her funny pictures. She loves teasing people,” Alden pointed out. “If Lexi had sent her something like that she’d want to practice English by making jokes and puns about it and trying them out on you. The fact that she’s not already on your social media calling you Sleeping Lutey or Vacgroom is proof that she knows nothing.”
+
+Lute stared up, like he was pondering the sparse gray clouds above them. “So if Lexi sent her pictures of me being pranked, that would give us something to talk about?”
+
+“Don’t go in that direction with it.”
+
+“I want her to think I’m mature and cool. I didn’t look mature and cool in those pictures. But I could act mature and cool about the pictures…”
+
+“You’re plotting? This sounds like a plot,” said Haoyu. “I’m not sure a plot to be mature can work.”
+
+“Lexi,” Lute said decisively, “I give you permission to share those photos.”
+
+A minute passed. Alden made note of a string of broken pavers that some careless student must have caused.
+
+“Have you sent them yet?” Lute asked.
+
+Lexi looked at him. “I can’t. Sharing photos of pranks is against huntski lodge rules.”
+
+“You…fine! Haoyu—”
+
+“Sorry, Lute. It’s an unbreakable law.”
+
+“Alden!”
+
+“I’m the one who made the unbreakable law,” said Alden.
+
+By the time they made it to the university track, Lute was accusing the three of them of being in league with both his grandmother and the company that made their vacuum.
+
+They ran into Kon, Everly, and Tuyet when they arrived but separated from them quickly on the pretext of needing to buy lunch from the concession stand.
+
+“We could sit with them if you guys wanted to,” said Lute.
+
+[Lute: More people 2 distract badger.]
+
+[Alden: We’re distracting enough on our own. You even helped distract him before you woke up this morning.]
+
+It was nice of him to think of Haoyu, but Tuyet, in particular, hadn’t looked like she wanted to hang out with Lute. And Kon had seemed eager to hear details about the ambassador, which Alden would rather put off.
+
+So far, he and his roommates had succeeded in making this day fun. They were keeping everything that could make them anxious at bay without it feeling like they were on the run.
+
+A balance like this needs to be protected. Yesterday started out great and then all of that happened.
+
+They took their food into the stands and got ready to root for some Avowed who were pretending to be deer.
+
+There would be a holiday-themed race at the Anthropodrome on the day after Christmas, and the team Celena North would send to represent the school would be chosen today. The three groups of finalists, whittled down through previous trials, were uni students and faculty members who had built their own sleighs and designed their own reindeer costumes. Each team also had a Santa Claus.
+
+“I wish at least one of them would fly,” said Lute, looking down at the teams getting ready on the track. “I always liked the flying sleighs better.”
+
+“You’ve seen this before,” said Alden. “Last year?”
+
+“No. I’m just familiar with the race at the Anthropodrome. I’ve never come to this one. I wonder if the judges here are going to try to pick a team that could be an overall winner or target one of the other categories. Like funniest team. Best sleigh.”
+
+Alden felt like he might have seen the Anthropodrome race himself before on television, but he must have been a little kid because he could barely remember it.
+
+The three teams were very different from each other. One set of reindeer was wearing in-line skates and antlers that looked more like exhaust pipes. They would be pulling a sleigh that had been made out of a modified military jeep for a Santa with a giant wrench that Alden thought was actually a disguised Wright weapon. The team beside them was more traditional, with fake noses, hooves, and a sleigh decorated with icicles. And the last team seemed to be planning on carrying their sinisterly-costumed Santa and rusty sleigh over their heads.
+
+After Alden had finished taking them all in and making guesses about how they’d be running the race, he turned and found Haoyu looking a lot like he had this morning, when he’d had the staring match with the kitchen light. This time his eyes were pointed at the head of the girl who sat in front of him. Alden doubted he was having deep thoughts about her scrunchie.
+
+“What do you think the deal is with the mean Santa?” Alden asked, elbowing him. “Even his deer look sad. That’s going to scare people.”
+
+“Mean Santa?” Haoyu shook himself and looked toward the teams on the track. “That is creepy with the angry eyebrows and the rusty sled. And that one deer looks like it had a nosebleed.”
+
+The event started right on time, with the teams jogging around the track for a warm-up lap while an announcer introduced each deer and drew the crowd’s attention to special features of the sleighs. Then the race commenced.
+
+For these three teams, running the fastest seemed to be less important than running the most interesting race. The traditional sleigh went right for holiday nostalgia, with flying reindeer and a jolly professor dressed as Santa narrating the story of their flight. Starting on their second lap, they began fighting their way through a storm of wind and water created by helpers on the ground.
+
+The team with the jeep sleigh had a seemingly unlimited supply of special effects for themselves and minor inconveniences to send toward their opponents. Their Santa kept accusing the other two of being fakes and launching green sparks at their faces with his wrench.
+
+And the rusty sleigh situation was dark, with the evil Santa insulting his own deer and terrorizing them into running faster and faster until one of them led the others in a rebellion. They abandoned the sleigh and chased their Santa all over the track before trampling him and dragging him back. Then it became clear that their Santa was a Brute who could carry the whole sleigh, loaded with his reindeer, over his own head in a reversal of their roles.
+
+Alden clapped for anything exciting. He picked out a favorite deer on each team and shouted for them to do their best. He was mostly present and mostly enjoying the light of a happy event on the last day of the school year.
+
+But he was very aware of noon ticking closer and finally arriving.
+
+He stared at the time while he pretended his attention was still on the track. He imagined he could see Lexi and Lute tensing out of the corner of his eyes. Haoyu had gotten very quiet a few minutes ago.
+
+Mrs. Zhang-Demir was only supposed to call around noon. Not at noon on the dot.
+
+12:01 felt ominous.
+
+12:02 made him swallow hard.
+
+At 12:03, the teams were all on their last lap—the lap they seemed to be taking more seriously and running like an actual race—and Alden couldn’t stand it any longer. He had to glance over to see Haoyu.
+
+One layer away.
+
+Alden caught the moment when the call came. Every tiny muscle in Haoyu’s face shifted. He reached for something on his interface.
+
+The crowd screamed. Alden wasn’t sure who’d just won the race.
+
+<<Hello, mom,>> Haoyu said. “I’m watching reindeer races with my roommates….It is really fun. You’re on Artona I now? Nothing else dangerous at all? Good….Good. Thank you for calling me first….Of course you should talk to him. I’ll see you in the morning like we planned, then? Okay…..I love you, too.”
+
+Alden watched the way Haoyu’s hand shook when he closed the call.
+
+Haoyu looked around at the cheering crowd then down toward the track. “Is it over?” he asked, swallowing. “I didn’t really see what happened.”
+
+******

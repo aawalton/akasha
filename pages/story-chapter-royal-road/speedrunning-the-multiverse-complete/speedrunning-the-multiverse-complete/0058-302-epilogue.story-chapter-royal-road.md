@@ -1,0 +1,89 @@
+---
+id: 4957bbaa-01ea-5ba0-9602-9e369618d350
+page-type-slug: story-chapter-royal-road
+title: "302. Epilogue"
+slug: 0058-302-epilogue
+partOf: speedrunning-the-multiverse-complete
+position: 58
+ownLength: 867
+unit: words
+ownProgress: 867
+publishedAt: 2023-09-01
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1329442/302-epilogue"
+royalRoadId: "1329442"
+markedReadAt: "2026-06-29T22:43:41.216Z"
+---
+
+2 years later, Dorian’s Estate, Zenith Realm
+
+The restored Zenith realm floated above all others on an expanse of endless cottonball clouds. Two suns bathed the realm in eternal joyous shine; a handful of phoenixes drifted lazily about, soaking in the light. These days, few peaks broached the clouds—and those that did were were shabby, scarred nubs.
+
+Atop one of these peaks floated a pagoda built of Stygian jade. An inch of the material would’ve bankrupted most kingdoms. Wars had been fought over the furs that made the doormat.
+
+Within, a few folk were having a dinner party. There was Dorian, Fate, Gerard, and Sun, all sipping from bowls of Inkshark fin soup.
+
+Sun had vowed off fighting forever, she said. She planned on traveling the Multiverse, eating well, and making friends. Her philosophy for a happy life was simple: find the things you like to do, and do them.
+
+Fate was busy helping to rebuild the rest of the Multiverse. He argued that the way of the Multiverse—wanton destruction and predatory behavior—was a ticking bomb; sooner or later it’d create another Jez. Where before he’d been shunned at their gates, Godkings fell over themselves to hear him out now. Slowly, surely, they took steps to create kinder cultivator societies.
+
+“It’s early yet,” said Fate. “But I’m hopeful!”
+
+Gerard had busied himself restoring the estate and stabilizing the Zenith realm. After what it’d been through realm was in need of a great deal of care. There was no one better to provide it.
+
+As for Dorian…
+
+“I’m retired from speedrunning!” he announced.
+
+“Truly?” said Fate. “What’ll you do now?”
+
+“I’m not sure,” he mused. “Start a garden, maybe? Try giving that hero thing a second go? Go annoy my brother? We’ll see.”
+
+“So which Heavenly Dao did you choose?” said Sun. “For Godking, I mean.”
+
+“Oh, I haven’t gotten around to it yet.”
+
+“Wait, really?” She blinked. “Why not?”
+
+“Eh,” he said. He gave a sly grin. “What’s the rush?”
+
+***
+
+It was not until years later, visiting Eden, that Dorian did finally ascend to Godking.
+
+He had lived a life of destruction. He left things ruined everywhere he went. But it was not until this life that he learned that making things was far harder than breaking them. And healing things was harder still.
+
+So it was, at this place which had undergone the ultimate destruction, that he found the truth which governed how all came to be. In the heart of a star, or of a volcano, where such great destruction occurs, there is also the capacity for creation. Such is the Eclipse: a melding of dark and light.
+
+It was there that Dorian achieved the Dao of Creation.
+
+And with it, he returned to Eden that magic which he had sundered long ago.
+
+This he found far more fulfilling than any of his many, many runs. And so he visited those realms he’d plundered—the dragonrealm, the realm of True Light, Hell, and countless others—and spent his life making.
+
+He founded one of the most respected institutions in the Multiverse and taught his Dao to all who would listen. Dorian’s Lectures on the Dao were disseminated far and wide, and his Technique Manuals on Creation were taught across the Multiverse. Perhaps they weren’t quite as influential as Houyi’s precepts, but they certainly made their mark. You could even find his Techniques practiced in the Lower Realms, where tribes wielded them to make lush farmland out of desert wastes.
+
+Oh, he still found time to pretend to make new accounts at the Spirit Pavilion to wreck some arrogant rising prodigy, or roam around the Middle Realms in a grandpa’s disguise, giving out incredible Techniques to those he deemed worthy. He was still playful to his core. Some things never change.
+
+Like an eclipse, the rest of his life could be thought of as a turning from dark to light.
+
+***
+
+The Houyi on the high bluff saw all of this and merely nodded. But Kindness smiled. Pride snorted (with pride).
+
+They lived now in a tower, for Loneliness had shrunk so much. It was getting to the point where Houyi had to tell his brother to stop visiting so damned often.
+
+Houyi still believed that his best work was done with a totally clear mind, void of emotions. But on occasion, he supposed there was some value in consulting his human side. And in those times he would recall his Supergiants—Kindness, Pride, Joy, Rage, and so forth—until they all orbited his Black Hole.
+
+Every once in a while, it was nice to be human.
+
+***
+
+Sun kept up with her travels, eating well, making a frankly dangerous number of friends, and at one point ended up being accidentally voted Supreme Empress of Pithia.
+
+Gerard Jr. took over as curator of the Multiversal Museum, an institution he ran with stringent standards. Though he still preferred to sleep on Gerard’s head.
+
+Gerard himself went on gardening and studying and drinking tea, as always; his life didn’t change much.
+
+There would be a time, millennia later, when Fate would once again come knocking, warning of the rise of some great danger…
+
+But that is a story for another run.

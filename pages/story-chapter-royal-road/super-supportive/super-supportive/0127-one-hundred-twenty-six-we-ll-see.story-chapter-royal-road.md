@@ -1,0 +1,708 @@
+---
+id: ae1715d1-eef8-5218-b938-39b927e501d2
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED TWENTY-SIX: We'll See"
+slug: 0127-one-hundred-twenty-six-we-ll-see
+partOf: super-supportive
+position: 127
+ownLength: 6021
+unit: words
+publishedAt: 2024-03-14
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1553808/one-hundred-twenty-six-well-see"
+royalRoadId: "1553808"
+---
+
+126
+***
+ 
+“Now my brother’s flying. He looks happy!”
+
+
+“I think he looks a bit bored,” said Finlay, watching Lexi cling to a hoop of fluorescent yellow paracord that was swinging him upwards in a steady arc toward the top of the wall. “Especially for a person dangling from a string that high in the air.”
+
+
+“No, that’s one of his happy faces.” Kon was standing. “Look at the drone view footage and zoom in instead of watching from here. There’s this tiny smirk.”
+
+
+Despite the fact that their class filled only a small fraction of the bleachers, voices echoed around the gym, competing with the shouts of the people on the floor. As soon as the first players had made it over the finish line, the tension had started to build. Kon wasn’t the only one who’d been driven to his feet by nerves or excitement.
+
+
+“Febri! Febri, man! How could you walk into a trap that obvious?” someone on the other waiting team—sitting in a group together several meters away—was shouting.
+
+
+Another person groaned. “Shrike wasted that attack! He wasted it! He’s an S-rank Meister! He should’ve gotten both of them!”
+
+
+“It’s a good thing they can’t hear us down there,” Kon said.
+
+
+Tuyet winced. “I wish people wouldn’t assume Meisters and S-ranks were flawless at this game. It’s so stressful.”
+
+
+“You know it’s partially your fault, right?” Kon said.
+
+
+“Me! How?”
+
+
+“You just stand up there on the wall, demolishing the other teams one dart at a time. Raising the bar higher for the other Meisters.”
+
+
+Down on the course, Lexi reached the top of said wall, and Reinhard gave him a hand.
+
+
+“He’s limping,” said Kon, as his brother stepped past a length of extra paracord that Alden had sent up with Astrid earlier. Lexi dove into the water tank. “Movement restriction from that knife he took to the shin.”
+
+
+“It would’ve been much worse than a restriction if Alden hadn’t yoinked him up into the air right then,” said Jupiter. “By the way, why can’t we have a Crafting Castle? Maricel gets a Crafting Castle.”
+
+
+“They’re calling it a workshop, aren’t they? I think that’s what they shouted,” said Finlay.
+
+
+“What would you craft, Jupiter?” Tuyet asked.
+
+
+“Picture a wall of spiky protectors made of plant life. When the enemy approached, they would leap to your defense. Some noble flora. Like holly maybe…”
+
+
+They all groaned.
+
+
+Instructor Marion had been down on the floor having a quick discussion with Principal Saleh and Instructor Klein. He headed toward their group.
+
+
+“I think…” said Kon, “we’re having too much fun. I bet he wants us to analyze what just happened with a ‘strategic mindset.’ Quick. Someone think up something smart to say about the trap the girls set.”
+
+
+“Oh I’ve done that already,” Jupiter announced. “Here are my notes.”
+
+
+They all tapped the air in front of them to accept the message she’d just sent.
+
+
+*
+
+
+Crafting Castle!!
+
+
+Crafting Castle (for Killing?)
+
+
+Crafting Castle of Maiming
+
+
+ 
+Artists:
+
+
+Maricel (S-Ground Shaper), Everly (A-Ice Spells), Njeri (A-Water Shaper)
+
+
+ 
+Materials:
+
+
+bags of dirt (reminder: I owe Mari potting soil because I borrowed some without telling her)
+
+
+sand emptied from 120 kg sandbags
+
+
+water
+
+
+ 
+Happenings:
+
+1. Everly uses multiple casts of Glaze Object to turn the fire obstacle into a frozen box. Her eyeshadow is blue today.
+ 
+2. Maricel creates a large, thin rectangle out of dirt. Excellent shaping. They use Glaze Object again to ice the rectangle over. Water and ground elements in balance mean it should be movable by both Maricel and Njeri.
+ 
+3. After all of their teammates have passed through the obstacle, the artists move the ice-dirt rectangle into position over the exit of the frozen box, making the interior invisible from the enemy course. I would like a similar fort on our next run.
+ 
+4. Drone footage shows artists rapidly crafting small solid ice balls (x11), a large dirt ball glazed with ice (x1), and a large, highly compressed cylinder of clay and sand (x1 - still in progress). I think these all have multiple potential uses. They are making whatever their team might need.
+ 
+5. Sanjay crossed the finish line! I bet the artists are disappointed it happened so soon, forcing them to halt their crafting, but they leap into action at the sound of the enemy bell. Njeri and Maricel are fleeing the fortress! Going into the pipe! 
+ 
+Don’t forget Everly! Why are you leaving her? Ice balls, sand, and dirt follow them into the pipe.
+ 
+6. That’s a lot of sand, Mari. Some might say a greedy amount. How much do you need in there?
+ 
+7. Febri is the attacker. He’s going to attack Alden probably. He should have waited until Alden had someone up in the air again. That's what I would have done.
+ 
+8. No! Febri is obviously too curious about the crafting team to resist! He’s assaulting the castle instead.
+ 
+9. Lucille tries to intercept and tackle, but she’s too slow. I think she could’ve moved faster than that.
+ 
+10. It’s a cannon!!!
+ 
+11. I was right! I realized it was a cannon before Febri did! He tried to enter the frozen fort to attack Everly, not knowing she had just cast her extra slippery ice trap. It only slowed him down for a second, but a second was enough. 
+ 
+Everly ducked behind the sphere and cylinder crafts the Shapers left in the fort. Then, Maricel used her maximum power to push all of the sand and the ice balls out of the pipe at high speed. Very high speed. 
+ 
+I am sure I was the inspiration for this attack. 
+ 
+One cannonball hit Febri in the shoulder. While he was suffering a blinding penalty from all the sand, Everly escaped the fort through the shattered back pane and ran for Lucille’s protection. Njeri climbed out of the pipe and smashed some of the ice from the fort’s ceiling and walls on top of Febri. The fire jets restarted. Battered, burned, and overwhelmed, he opted for retreat. But I’m sure he didn’t mind since he got to see the hard work of these dedicated artists in person. 
+ 
+They deserve to celebrate their victory, but instead, they must rescue their remaining creations from the flames.
+
+Final Thoughts:
+
+
+Establishing a protected base on the indoor course was smart. The location they chose was perfect, and it has the benefit of protecting the object creation tablet located at the end of the pipe. Protecting the tablet limits the enemy’s methods of assault.
+
+
+Their success proves that the hero program should accept a higher percentage of Shapers.
+
+
+I volunteer to be on this team for their next run. The addition of a Life Shaper to their group would be educational for all of us. And I believe Alden Thorn would be happy to help me carry my preferred supplies. Unlike some people.
+
+
+*
+ 
+
+
+******
+
+
+Vandy Carisson leaned forward with her hands on her knees, watching the teams below her avidly.
+
+
+“The assault on Lexi and Alden might have gone differently if Shrike hadn’t been distracted by what happened to Febri. He obviously wanted to assist his teammate, but turning his back on Lexi was a mistake. I wonder if he misjudged the range of Mind Writher?” She turned to Marsha. “I also wonder what Febri’s strategy was. Maybe he thought getting a look at Maricel, Njeri, and Everly’s position was worth the risk. Or he assumed that his agility and his skill would allow him to escape no matter what he found. He didn’t account for the time they’d had to prepare.”
+
+
+“He probably just wanted to take out Maricel,” Marsha said. “He could have if she didn’t have double backup. She’s not quick enough to stop his subclass. There’s no reason to be scared of her in a one-on-one fight.”
+
+
+“You think all the S-ranks are as focused on each other as you are on them,” Mehdi said with a snort. “Do you even know the names of the other members of our class?”
+
+
+“Don’t take it personally, Mehdi,” Marsha said dryly. “I don’t have anything against you A-ranks. I just don’t see the point in these mixed combat classes. I train better against stronger opponents, and they train better against me.”
+
+
+She stood. Her polearm, in its glaive form, lay on the bench beside her. She lifted it and tipped its head toward the runners on course. “This is a game. You know it’s a game because Shrike lost versus the Rabbit and the whip boy. One attack at a time? I guess it makes us learn to plan better, but it’s nothing like a real duel. In Superlatives, our practice fights are completely different.”
+
+
+Mehdi crammed his lips together as if he had no intention of continuing the conversation. But then, half a minute later, he asked, “How are they different?”
+
+
+Marsha smiled at him. “When Shrike really fights, he throws one of his Meister knives like you just saw. His blade collection follows it. Then, he recalls while the lead knife is still in the air, and all the knives turn to chase it back to him. The second he catches it, he whips it in a different direction, before any of the following knives have the chance to fall. He can keep them airborne for ages. Like he’s directing a swarm around the battlefield. Here, he’s not allowed to do that because it counts as more than one attack.” She let the butt of her weapon thump against the bleacher. “Duels will be different. I’m sure they’ll make it S on S. And A on A. So don’t worry about it.”
+
+
+Mehdi sat up straighter. “I wasn’t worried about—”
+
+
+“He chose a stupid color for his rope.” Winston was on his feet with his arms crossed over his chest, watching Alden Thorn greet Haoyu Zhang-Demir as the Brute rolled off the beam into his section of the obstacle course. “How much of an idiot do you have to be to bring neon yellow rope? It’s like he’s saying, ‘Look at me! Look at me! Attack right here.’”
+
+
+“Maybe bright colors help him visualize what he’s doing more clearly,” Vandy suggested. “I’m sure for some things he needs to see exactly where the tip of the line is.”
+
+
+“He’s been using dark green a lot until now.” Mehdi squinted down at Alden. “Maybe he ran out of it and had to grab the neon stuff on the way out the door.”
+
+
+Marsha stared at them. “Why are you two memorizing the B-rank’s rope colors? What’s wrong with you? If you need to fight him when we go up against them, dodge the rope—you’re an Agi and a speedster; you can handle that much, can’t you?—and hit him. Or kick him. It’s not that hard.”
+
+
+“Huh,” said Max.
+
+
+Vandy was the only person on the team who looked over at him. He smiled at her and shrugged.
+
+
+A bell rang.
+
+
+“Whip boy’s over the finish line,” Marsha said. “And this game is basically done.”
+
+
+******
+
+
+This is going entirely too well, thought Alden as the bell rang. Surely we’re about to run into some trouble.
+
+
+The weights had been moved for what might be the last time if nothing went wrong. Lucille was climbing the rope with Njeri on her back to speed things along. And Everly was refreezing the fire obstacle for what was definitely the last time; she’d need to save plenty of casts for their next run.
+
+
+And it was their turn to take an attack.
+
+
+“My plan is an obstacle modification,” Maricel was saying. “It should slow them down a lot. I’m almost ready. ”
+
+
+“I’ll cross the finish line next,” Njeri said. “As soon as I’m over, Reinhard will take out Olive. She’s their slowest runner. If you’re sure you picked the right one earlier, Haoyu.”
+
+
+“I’ve kept an eye on the one he pointed out,” Reinhard said. “She’s the one sitting on the platform at the end of the bar swings. I can’t tell any difference between them, and I have enhanced vision. If he’s wrong we’ll be wasting the shot.”
+
+
+“No pressure or anything,” Haoyu murmured beside Alden. They stood in the opening Lexi had defended from Shrike a short while ago, looking across their course toward what they could see of the opposing team’s side. Haoyu was trying to view the three identical girls in hot pink sweatbands from a different angle than Reinhard, in hopes of noticing something else.
+
+
+“She glanced up with a curious expression earlier,” he told the team. “It was only a second, but it didn’t look like one of those pre-planned actions she gives the illusions to make them more realistic. I think she was distracted by Alden flying Lexi through the air like a kite.”
+
+
+Alden didn’t reply. Instead, he was watching the Olives. Two on the bars. One sitting on top of their team’s wall. All very temptingly arranged and easy to shoot.
+
+
+The Adjuster would need help from a second teammate out on the track, so she was an obvious person to send all the way back to start. But she was good with her illusions, and after running the course on Wednesday, she’d gone from good to incredible. From what little Alden understood about her power, the illusionary girls moved over obstacles and struggled realistically because Olive had been able to craft them based on memories of these specific tasks instead of relying on general memories of her body in motion to do it.
+
+
+She even had a spell to prevent people from targeting her.
+
+
+Alden still knew which one was real. He’d realized he knew how to tell last time, and he’d been trying to decide how to be fair about it ever since.
+
+
+Ask me, he thought. Ask me which one I think it is.
+
+
+This was what he’d settled on. He’d find Olive for his team if he was assigned to find Olive. If someone directly asked, he would pick her out and pretend he just had a feeling she was the right one. Otherwise, he’d act clueless.
+
+
+It would be mean to repeatedly screw her over in a way nobody could possibly have a defense against. And I’ll have to make up excuses for how I knew every time.
+
+
+When people correctly identified Olive, she asked them how at the end of class. So that she could improve. Alden could only use “it was luck” and “not sure, maybe I noticed something subconsciously” so many times before she thought she had some subtle tell he wasn’t revealing and started to agonize over it.
+
+
+“I’m almost positive I picked the right one,” Haoyu told the team. “Second-guessing doesn’t do any good unless we see some sign.”
+
+
+He was right.
+
+
+Alden knew because the gremlin said that particular Olive was a no-no. Alden couldn’t eat her without her permission.
+
+
+“What are you sighing for in the middle of an epic battle of magic and wits?” Haoyu was raising an eyebrow.
+
+
+“I wish I was less weird sometimes.”
+
+
+Before Haoyu could reply, Maricel said, “Ready!”
+
+
+She sounded excited.
+
+
+“With Heloísa’s positioning right now, I think I can do even better! I’ll have to start farther from the target, though. And once I’ve made the Shaping gesture that qualifies as the official attack, Principal Saleh will give us a penalty if I make another gesture to adjust my dirt’s position. I might miss. Maybe I shouldn’t try for more if it’s risk—”
+
+
+“Always try for more,” said Astrid from her spot at the finish line.
+
+
+“I agree,” Njeri said. “Give Victory her sustenance.”
+
+
+“If you all don’t mind…okay!”
+
+
+A moment passed, and then Maricel came into view. She jogged up the ramp at the end of the weight challenge. She didn’t have any dirt with her.
+
+
+Yet.
+
+
+“Do you know what she’s doing?” Haoyu asked Alden.
+
+
+“I don’t. We talked about knocking people off the top of their wall with sandbags, but it’s obviously not going to be that.”
+
+
+Shrike was headed for the wall again. He would probably perch there with his “severed” leg for a couple of minutes, hoping they would get careless and knock him off so that he could get a fresh start.
+
+
+The other team was cautious. They knew an attack was incoming. They just didn’t know what it would be or who would deliver it. Reinhard had an arrow nocked, and that was drawing most of their attention toward him.
+
+
+Maricel was pretending like she was just repositioning herself. She wasn’t looking toward the enemy team at all, not even Heloísa, who was shifting her weight from foot to foot and staring at Reinhard like she fully intended to dodge an arrow if it came her way. She was grinning eagerly.
+
+
+“She knows I’m an Avowed, too, doesn’t she?” he groused. “I’m not a kid playing with a toy bow, and she’s not Febri.”
+
+
+“Don’t shoot her just to prove you can,” Haoyu said. “It’s not your turn.”
+
+
+Alden watched Maricel. Good luck, he thought as she suddenly stopped and lifted her arms. You’ve been doing great since school started. Get them.
+
+
+
+
+
+Everything had gotten better since Maricel Alcantara left intake.
+
+
+She’d never expected it, and she still couldn’t quite believe it was happening. But for the past two weeks, a lot of the good things that had been stolen from her the moment the System chose her seemed to be coming back to her all at once. They were slightly different than before— this island’s version of those good things rather than identical replacements for what she’d lost—but she still recognized them.
+
+
+Friends. School. Teachers.
+
+
+Until six months ago, Maricel had had those. She’d always been welcome among the other girls her age back home. She’d looked forward to seeing them every day and being with them…not as the most popular or exciting person, but as a comfortable background character in their world.
+
+
+Right after her family had made her register, she’d gone back to her junior high for what she’d thought would be a final week of classes and a chance to say goodbye to everyone. That was what she’d been told it would be by her handler, the Avowed emigration people, and all those other adults who’d started buzzing around her the moment she’d been announced as a newly selected S.
+
+
+Instead, the week had been more of a big celebration. Supposedly, it was all in her honor, but she’d soon realized that although her name was everywhere, none of what had been planned was intended to make things better for her. Lots of people needed their piece of the earthquake that had shaken the foundations of her life.
+
+
+Let this news crew film you during lunchtime, Maricel. You won’t even know they’re around. Make sure you smile. Be happy for the reporter. And there’s an interview tomorrow. You’re so lucky! Everyone is so curious!
+
+
+No, you don’t have to, but it’s already arranged. Think of the community, the school, everything we’ve done for you. Would it really be so hard?
+
+
+A girl in your position should be grateful.
+
+
+Now come here and stand beside this important stranger for the camera. Then this other one. Just one more.
+
+
+She felt like she was being spun around in circles for days, and then just like that…it was over.
+
+
+They’d had their fun, they’d gotten an Avowed fairytale story, and the school didn’t really want to manage an S-rank in class. She would be a hazard and a distraction, and she was required to have her handler with her at all times around large groups of people. So inconvenient for everyone. Parents would complain.
+
+
+There was a farewell assembly on the last day. It was all right for her to cry then. It was touching if she cried after the celebration was over.
+
+
+People said that if she became famous, they might name the school she was no longer allowed to attend after her.
+
+
+She went home with a brand new computer, donated by a local company that wanted a picture of her wearing a shirt with their logo on it, so that she could sit in her bedroom having online classes. Safely tucked out of everyone else’s way until she was banished to Anesidora.
+
+
+Even she thought it was for the best, since she wanted to spend as much time with her family as possible. But maybe not. Maybe listening to conversations through her door and imagining how in the future her name would be spoken less and less in the house until she didn’t really belong there anymore had been bad for her.
+
+
+Then in intake, lots of the new arrivals were sad just like her. But they snapped out of it. So fast. And they wanted to leave the sad behind.
+
+
+And there she was, still going through boxes of tissues and trying to find ways to get back home.
+
+
+I guess I really will have to be famous enough for them to name a school after me, she’d decided. I guess I’ll just have to be one of those Avowed who can break mountains. I’ll have to look pretty and smile for cameras and shake hands with strangers…and if I do that for them, they will let me stay.
+
+
+It was her ray of hope. It also made her so furious that she wanted to rip up the floor of the sea.
+
+
+She practiced with her powers so that she could one day.
+
+
+In intake, she learned that a girl with an S beside her name was supposed to be grateful, even here. She was supposed to complain less than everyone else, not more.
+
+
+Only the other gloomy, furious people thought she had a right to her unhappiness. So she’d hung around them a little. It wasn’t really friendship. Just shared misery and resentment.
+
+
+It seemed natural to hang around people who felt the same way, she thought as she stood inside the re-frozen Workshop. She carefully targeted points within and around the big cylinder she had built for the team. She used her hands, her skills, and the curious mental focus her active spell impression gave her to direct her magic. But it just made it harder to move on.
+
+
+Things weren’t perfect, and yet they had been getting better ever since she got away from intake.
+
+
+And telling Jacob, once and for all, that she wouldn’t go with him if he tried to leave again had relieved some pressure she hadn’t realized was crushing her. She hoped he’d talk to the System, like Alden had suggested, and tell it he wanted to be summoned. Trying to escape from Anesidora that way sounded much safer and more likely to succeed.
+
+
+But as for Maricel, she was here now. On this path home. She had to start walking it. She packed more clay into her cylinder. More sand. She pressed and pressed.
+
+
+A slightly wrong motion or a misplaced compression point, and her magic would break the shape apart instead of hardening it.
+
+
+Mistakes weren’t usually a problem. It was only dirt. But today she was nervous.
+
+
+I don’t want to disappoint them all. It’s been so much fun.
+
+
+The long hours at the library, having everyone on calls with her in class, even teasing Vandy and Tuyet this morning before they’d left the apartment…
+
+
+Everly had been joking that their team had spent all their time coming up with surefire methods to counter Dart Meisters and Sky Shapers specifically, and Maricel had gone along with her. Tuyet had threatened to pin pictures of them to her dartboard in retaliation.
+
+
+I like being on the team.
+
+
+After their terrible runs on Wednesday, she’d thought they might fall apart. She’d been sure Alden must feel terrible after getting targeted so many times. But he’d been calm and collected starting off their meeting, and it had just gotten better from there.
+
+
+I wish we could run the course together more. We could get so good at it.
+
+
+They only had today. She wanted to make it count.
+
+
+And she wanted to impress Fragment, who was watching from the stands.
+
+
+The older Ground Shaper saved people from disasters with her power. She had two brothers several years younger than her, just like Maricel. She had been forced to leave them behind when she was fifteen, just like Maricel.
+
+
+“And I never suspected,” she’d said, offering Maricel a coconut taffy from the tin she kept on her desk, “that one day the younger one would be selected, too! I was so glad I’d gotten my feet under me by then. I’d just bought my first apartment. Didn’t even have a spare bedroom, but he moved in with me the day he arrived on the island.”
+
+
+Siblings of globie Avowed didn’t usually become Avowed, too. But it happened much more often for them than it did for the general population.
+
+
+You never know.
+
+
+Maricel Alcantara was trying to get her feet back under her for a lot of reasons.
+
+
+She quit shaping and looked down at the large tube she’d made. She’d had to use more sand than she wanted, but with the slightly damp clay and the intense compression it should hold together well enough until it reached its destination.
+
+
+“Great,” said Everly from where she stood watching. “That should really frustrate them.”
+
+
+“Ready!” Maricel called to the rest of the team.
+
+
+A few moments later, heart racing with nerves, she was hurrying down the course.
+
+
+Her Shaping attacks on the other team needed to be either massive or very accurate to be effective. She was allowed to move something into position on their side for just a few seconds, and then she could make a single gesture to direct it toward someone or something in an aggressive fashion.
+
+
+Otherwise Shapers could just fly their element around for ages without committing to a proper attack, creating an extended threat that would interfere with the other team’s ability to maneuver.
+
+
+She stopped just past the weight ramp. She glanced toward Reinhard. He was distracting the other team for her. Heloísa was looking at him.
+
+
+Maricel eyeballed the other girl’s position, almost directly opposite her own.
+
+
+I think I can do it. I think she’s standing in exactly the right spot. But it’s going to have to be really fast to catch her by surprise.
+
+
+She lifted her arms.
+
+
+Maintain shape with the left hand. Three gestures with the right, she thought. To me, away from me, down the enemy course. If I’m not accurate, it’s going to be very embarrassing.
+
+
+But Astrid had just said they should always try for more.
+
+
+This narrative has been purloined without the author's approval. Report any appearances on Amazon.
+
+
+“There’s all of our dirt!” Haoyu said. “It’s moving really—”
+
+
+“Fast,” said Alden. “Holy—!”
+
+
+A large tube of dirt flew through the air toward Maricel. People shouted.
+
+
+Her right hand pressed forward as the cylinder shot over her head, and its direction changed in a heartbeat. It rocketed across enemy lines, smashed toward the floor—which should have broken it to bits or, given its shape, sent it rolling off into the sunset—and stopped dead for a split second.
+
+
+Heloísa, standing a couple of yards away from the end of it, whipped around to face it just in time for it to crash into her legs and send her flying as it barreled in a perfectly straight line along the floor down the enemy course. It left a large trail of dirt across the white floor in its wake.
+
+
+“GO!” Maricel shouted.
+
+
+She wrapped her arms around herself, perhaps to keep herself from accidentally using her magic anymore. The cylinder shot dead center through the fire obstacle, out the other end, and into the pipe, the very thin edge on the bottom of the obstacle shaving off some more dirt but doing little to halt the juggernaut’s progress.
+
+
+“NOW STOP!” its creator ordered. <<Don’t go all the way through!>>
+
+
+There was no way for her to control the dirt with her voice, and Alden fully expected to see it launch itself out of the pipe like a bullet given how fast it had entered. But it did stop. Not in the middle, where Maricel had probably wanted it. Instead, about half of the bulk, crumbling from its violent journey, emerged from the end.
+
+
+“No! I threw it too hard! They’ll be able to dig it out easier from there. I’m so sor—”
+
+
+Her apology was cut off by cheers and laughter from the rest of the team.
+
+
+“That was awesome,” said Haoyu.
+
+
+“Heloísa, we’re sorry!” Everly called.
+
+
+Njeri shouted, “Your aim is AMAZING, Maricel!”
+
+
+“It really is,” said Alden. “That was a super long shot. And you hit Heloísa on the way.”
+
+
+“We might’ve just won,” said Reinhard. “Their track runner’s about to reach the gym and have to dig. Maricel took Heloísa out at the knees, and it was pretty severe. She’s belly crawling toward the rope climb…frighteningly fast…but we can count her out. I think.”
+
+
+“Let’s push for the finish line,” said Haoyu. “All of us.”
+
+
+Alden began prepping his cord. Since we’re all going for it, priority order over the line is easy to figure out.
+
+
+He’d put Njeri and Lucille up and over together. Njeri would head for the finish with Jeffy’s help. Reinhard would target someone on the other team as soon as she was over.
+
+
+Lucille would be able to haul people up with the cord from up there as well. Everly would go through, then Alden and Haoyu. Versus this team, it was fine for Reinhard to stay in his sniper position until the last minute, so he’d finish the course off with the three S-ranks.
+
+
+Surprisingly soon, Alden was up on top of the wall himself, looking down into the water. The tank was a giant L shape, with the longer, vertical side of the L abutting the wall. There were small floats that had to be dragged underwater and put in wire traps along the way before the escape hatch at the other end of the L would unlock. The traps periodically set the floats free again.
+
+
+It wasn’t complicated, but it was exhausting to get the floats all down.
+
+
+Unless you had an Aqua Brute on your team. Jeffy was down at the bottom of the tank now, trapping one of the floats. Thanks to his skill he could drag all of them at once if he wanted, and just walk around at the bottom holding them in complete defiance of buoyancy.
+
+
+He’s probably a little disappointed it’s all going so well.
+
+
+They had promised they would send him back out to the track at least once to help and protect whoever had died so that he could show off his “land moves” to the principal.
+
+
+We’ll have to let him attack someone next time.
+
+
+Alden jumped. Haoyu was right behind him.
+
+
+He held his breath as he hit the water, and before he could resurface, a hand grabbed him around the ankle, and he sank like a rock despite the lungful of air. He kept his eyes closed as they went down. The vertical portion of the tank was about thirty feet deep, and when you reached the bottom, you swam through a passage toward the escape hatch. Jeffy was supposed to shove them right toward it, so it was very low effort.
+
+
+I wonder if he could’ve caught the mishnen.
+
+
+Probably. At the very least, he would’ve had more options than stripping down to his underwear and trying to bait it with his own pants.
+
+
+They reached the bottom and a hand pushed Alden forward. He opened his eyes and swam. A few seconds later he was emerging from the escape hatch, the magic barrier letting him slide right through.
+
+
+The final obstacle was simple—a tightrope walk. The metal cable they were supposed to walk across was only a couple of feet off the ground, but every fall punished you with a five percent total body movement penalty.
+
+
+I’m pretty sure this is going to go really well, Alden thought as he hopped up onto it.
+
+
+It was exactly the kind of challenge his new wordchain should turn into a non-challenge.
+
+
+He took his first couple of steps and smiled.
+
+
+Thanks, Lute.
+
+
+He strolled the rest of the way over the finish line. Everyone who’d gone ahead of him was waiting with big smiles on their faces.
+
+
+******
+
+
+“I see,” Lesedi Saleh said, holding the magical device she was using as a megaphone when it suited her down by her side and staring at a notice she’d just receive through her interface, “that one of our students has earned some jealousy already.”
+
+
+“Only one?” Torsten Klein asked. He was watching Maricel stumble over the finish line and beam as Astrid and Everly patted her on the back. “We have several stand-outs.”
+
+
+“They should all be exceptional in some way,” the principal answered. “But I meant Alden; someone just used the reporting system to share their suspicions that he’s ‘using some kind of performance enhancing drugs.’ They obviously didn’t appreciate his jaunty demeanor as he finished the race. A shame. I rather liked it.”
+
+
+“It’s a wordchain,” Klein said, shifting his gaze toward Alden. “We told him not to bring it to class again until he could cast it himself. I thought we wouldn’t see it again for a few more weeks, if he kept up with it at all.”
+
+
+“Do I detect a hint of approval?”
+
+
+“It depends on whether he actually did cast it himself.”
+
+
+“Does he strike you as a cheater?”
+
+
+“He doesn’t.” He frowned. “Do you think he plans to supplement himself more extensively than usual with wordchains?”
+
+
+“It will be a lot of studying if he does. We have a few students who try, but we don’t really leave them much time for it. I’ve always thought shoring up wordchain knowledge was more of a post-graduate endeavor.”
+
+
+Klein nodded once. “Leveling to secure more foundation points and talents offers an improvement with no drawbacks. But his unusual Dexterity and Speed allocations…maybe he did it specifically because he was hoping to make up for his rank and class with chains? He should have mentioned it during his interview if that was the case.”
+
+
+“You could just ask him,” she said mildly.
+
+
+He sighed through his nose. “Maybe after I’ve seen more evidence that it’s actually a good idea for him and not a waste of his time.”
+
+
+“He can also do several things with his skill that he wasn’t capable of a few short weeks ago,” she pointed out.
+
+
+He didn’t answer.
+
+
+“Morrison wants him to catch bullets with it.”
+
+
+Klein rolled his eyes. “It’s a robust skill,” he said. “We’ll find out how robust soon enough. And then…we’ll see.”
+
+
+******
+
+
+Once they were all over the finish line, giddy with excitement at their first win and drinking from their water bottles while the other team used the remaining minutes on the clock to struggle through the course, Jeffy watched the drone footage of Maricel’s epic attack. He’d been able to hear them all talking about it under the water, but he couldn’t see it. He felt like he’d missed out.
+
+
+“That was so cool!” he said, gnawing on a strip of jerky.
+
+
+Maricel beamed. “Thank—”
+
+
+“It looks like their pipe is pooping if you watch it in reverse.”
+
+
+Maricel’s smile froze. “What?”
+
+
+Alden tried not to laugh.
+
+
+Everly snorted. “I thought so too.”
+
+
+“What?!”
+
+
+“Your creation did look a little like a giant…” Haoyu caught a glimpse of her expression and quickly changed tactics. “But everyone was totally focused on your perfect Shaping! You looked awe-inspring. Definitely the MVP. It’s not your fault you wanted to plug a pipe, and pipes are pipe-shaped.”
+
+
+“Oh no,” Maricel stared back at the other team.
+
+
+“Maybe nobody else noticed what it slightly resembled,” said Njeri. “Except for Jeffy, Everly, Haoyu, and me.”
+
+
+There was a pause.
+ 
+ “I noticed,” said Lexi.
+
+
+Maricel groaned.
+ 
+***

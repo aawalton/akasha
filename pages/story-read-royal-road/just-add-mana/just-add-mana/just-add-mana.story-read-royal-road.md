@@ -1,0 +1,43 @@
+---
+id: 150151c6-7232-5820-b9c7-e8392d3f44aa
+page-type-slug: story-read-royal-road
+title: "Just Add Mana"
+slug: just-add-mana
+world: just-add-mana
+unit: words
+author: "SilverLinings"
+rank: b-rank
+following: true
+royalRoadTags:
+  - "LitRPG"
+  - "Portal Fantasy / Isekai"
+  - "Progression"
+  - "Comedy"
+  - "Male Lead"
+  - "Action"
+  - "Adventure"
+  - "Fantasy"
+  - "High Fantasy"
+  - "Magic"
+  - "Reincarnation"
+  - "School Life"
+  - "Slice of Life"
+  - "Strong Lead"
+royalRoadSeriesStatus: ongoing
+link: "https://www.royalroad.com/fiction/125163/just-add-mana"
+royalRoadId: "125163"
+---
+
+The more lives you've lived, the more mana you have, and Cale has lived too many lives to count.
+
+At this point, his core is closer to the magical equivalent of a nuclear reactor. The downside to this is that conventional spells have become impossibly difficult to cast: Cale simply has too much mana. His spells collapse under the weight of his magic.
+
+Then he finds himself summoned to a new world. One with a spellwork system capable of adjusting to his ridiculous reserves, creating new spells just for him.
+
+Of course, things are never that simple. New magic means new things to learn, and if he wants to make spells worth having, that means going to a magic academy. On top of that, an old dragon has taken an interest in him, the kingdom's hunters seem alarmingly intent on attacking his classmates, and Cale's pretty sure at least one ancient evil has followed him from a past life.
+
+But who knows? With magic back on the table, he might finally be able to perform what he sees as the true pinnacle of spellwork: baking.
+
+--
+
+Updates Tues/Thurs/Sat at ~7AM PT. This book is currently only available on RoyalRoad and Reddit. If it appears anywhere else, it is stolen.

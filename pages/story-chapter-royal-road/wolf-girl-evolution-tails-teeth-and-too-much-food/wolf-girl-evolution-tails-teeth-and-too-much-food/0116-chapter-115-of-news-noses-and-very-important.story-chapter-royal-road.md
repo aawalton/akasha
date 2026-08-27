@@ -1,0 +1,823 @@
+---
+id: bedf2e89-fb39-5b60-975a-a478e6bedb47
+page-type-slug: story-chapter-royal-road
+title: "Chapter 115: Of News, Noses, and Very Important Pranks"
+slug: 0116-chapter-115-of-news-noses-and-very-important
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 116
+ownLength: 2733
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3211723/chapter-115-of-news-noses-and-very-important-pranks"
+royalRoadId: "3211723"
+---
+
+PoV Luna
+
+When Luna and her pack arrived at the Guild that day, she expected something very important.
+
+Namely–
+
+News about the expedition!
+
+With Mister Bull. And Mister Fox. And all the others!
+
+Very important people!
+
+Her friends and playmates she could spar and pose with!
+
+But before Luna could go find out when they would get back, she was immediately intercepted by a much more urgent matter.
+
+“Oi! Little wolf! Heard you got faster!”
+
+Luna turned.
+
+Grinned.
+
+Oh.
+
+Oh this was much better!
+
+“Yes!” she barked happily, already bouncing forward. “Luna very fast now! Watch!”
+
+And then she zoomed.
+
+Forward. Side. Around.
+
+She darted past the friendly adventurer, pivoted on a heel, slipped into her shadow just enough to smooth the turn, then reappeared right in front of him with a delighted laugh.
+
+He barely had time to react before she tackled him.
+
+They hit the ground in a messy tangle, and Luna popped up immediately, tail wagging as she bounced around him.
+
+“Again!”
+
+“Oi–!” he protested, already scrambling up, trying to set up a proper defensive stance.
+
+Too slow!
+
+Then they sparred, and in a few exchanges Luna swept her play-fight friend off his feet.
+
+Then–
+
+Luna went again.
+
+And again!
+
+Each time faster, and a little better!
+
+A little more spin, a little more angle, a little more zoom!
+
+By the end of it, her opponent staggered back, groaning as he leaned against a nearby table.
+
+“…You’re a menace,” he wheezed.
+
+“Luna trained!” she said proudly.
+
+That explained everything.
+
+Clearly!
+
+She grabbed the wheezing man under the arms, lifted him up, and over to a chair, and sat him down with great care.
+
+Then patted his head.
+
+“You did good too!” she informed him seriously.
+
+He blinked up at her.
+
+“…Ha. Thanks?”
+
+Luna nodded.
+
+Yes.
+
+Good spar!
+
+Deserved proper reward of pats and praise!
+
+Luna learned well, mhm!
+
+Satisfied, she turned around–
+
+–and noticed her pack was not watching.
+
+Rude.
+
+They were over by the desk, talking to the receptionist lady.
+
+Talking about things.
+
+Boring things…
+
+Blah blah blah things!
+
+Still–
+
+She wandered a bit closer, half-listening while she bounced lightly on her feet, still full of energy.
+
+Blah blah.
+
+News from big far outside?
+
+Luna nodded along.
+
+Yes!
+
+Outside was outside.
+
+That made sense.
+
+There were also words like “reports” and “kingdoms” and “incidents” and “trade routes” and “disappearances,” which all sounded like very long ways of saying something was wrong somewhere far away.
+
+Which made it…
+
+Probably not Luna’s problem!
+
+She leaned against a wall, swaying back and forth, and only half paying attention.
+
+Until–
+
+Her nose twitched.
+
+She sniffed, and caught–
+
+Her gaze shifted, even as her ears perked up to hear her friends better.
+
+Her Second’s scent had changed!
+
+It smelled of slight alarm now!
+
+Luna straightened up, took one last look at her still-groaning playmate, then gently adjusted him in the chair so he wouldn’t fall over.
+
+Then gave his head one more pat.
+
+“Stay,” she instructed.
+
+He didn’t argue.
+
+Luna padded closer to the desk now, attention fully turned.
+
+Julia was speaking, voice steady but carrying just enough weight to make the nearby adventurers lean in.
+
+“…We have received news and reports, all from the past few weeks,” she was saying. “Mostly from neighboring kingdoms. Isolated at first, but becoming more frequent.”
+
+“Disappearances?” Sepio asked.
+
+The receptionist nodded.
+
+“Yes. At first just individuals, small groups. Nothing large enough to cause panic yet, but enough to raise concern. At least until the last few reports.”
+
+Ray frowned slightly.
+
+“Bandits?”
+
+“Unlikely,” she replied. “The latest reports speak of… other things too.”
+
+A small pause.
+
+“Strange creatures. Abominations, according to reported sightings. Nothing confirmed yet.”
+
+A murmur spread through the nearby adventurers.
+
+Luna’s ears flicked.
+
+Abominations?
+
+That sounded like something she could bite!
+
+Maybe even strong prey?
+
+“From what we know, many caravan routes have also been disrupted,” the receptionist continued. “One in particular – toward a smaller town to the east – was attacked. Those who ran survived, but when they returned in force, the convoy, corpses and all, was already gone.”
+
+“Attacked by what?” Veric asked.
+
+“…Chimeras.”
+
+That got a reaction.
+
+Voices rose around them as adventurers began speculating immediately.
+
+“Chimeras don’t just show up.”
+
+“Someone made them.”
+
+“Or they’re being driven out from an old laboratory of some dead maniac.”
+
+“Could be a rogue lich or some wizard going all crazy-woozy again–”
+
+Syl’s gaze snapped toward the speaker.
+
+Sharp, and cold.
+
+The man shut up immediately.
+
+Luna blinked.
+
+That was a look!
+
+Very effective.
+
+She would remember that one! And try it out too!
+
+The talking continued, though now more cautious.
+
+“Could be some hidden group,” someone else suggested. “Experimenting.”
+
+“Or a new syndicate messing with things they shouldn’t.”
+
+“Wizard gone mad–”
+
+Syl didn’t even look this time, but the man still stopped talking.
+
+Very impawssive!
+
+Luna watched for a moment longer, ears flicking as she listened.
+
+Disappearing people.
+
+Strange monsters.
+
+Chimeras.
+
+Lots of very serious new words Luna didn’t know.
+
+And lots of thinking too!
+
+But–
+
+Luna sniffed again, tasted the scents on her tongue.
+
+Her Second’s scent had shifted!
+
+It was still focused.
+
+But no longer alarmed or stressed.
+
+More… thoughtful?
+
+Which meant no immediate danger!
+
+That meant–
+
+Not Luna problem!
+
+Hehe!
+
+Luna nodded once to herself, satisfied with that conclusion.
+
+Important things were happening somewhere.
+
+Once, or twice, upon a time!
+
+Far, far away.
+
+Where there lived chimeras described with many words!
+
+Which meant–
+
+That Luna could do something much more important!
+
+Like think about all the System number thingies!
+
+***
+
+Name: Luna
+
+Level: 3/25
+
+Race: Velocity Reaper (Tier 1)
+
+Gender: Female
+
+HP: 124/124
+
+SP: 133/140
+
+MP: 78/96
+
+Strength: 25(+1)
+
+Dexterity: 22
+
+Vitality: 21(+1)
+
+Intelligence: 19
+
+Willpower: 9
+
+Charisma: 8(+1)
+
+Luck: 3
+
+Active Skills:
+
+Strike Lv16(+2)
+
+Bite Lv16
+
+Jump Lv17(+3)
+
+Momentum Claw Lv15(+3)
+
+Run Lv19(+1)
+
+Shadowmeld Lv16(+2)
+
+Shadow Step Lv16(+1)
+
+Lunar Form Lv15(+10)
+
+Devourer’s Maw Lv6(+1)
+
+Shadow Run Lv9
+
+Reaper’s Pass Lv5(+1)
+
+Shadow Cloak Lv7(+4)
+
+Passive Skills:
+
+Beast Instincts (Lesser) Lv2
+
+Pain Resistance Lv2
+
+Poison Resistance (Minor) Lv2
+
+Devourer’s Right Lv4
+
+Traits:
+
+Beast Constitution
+
+Gluttonous Soul – 13%
+
+Effects:
+
+Craving (Unknown)
+
+***
+
+Hehe!
+
+The increased skill levels felt good!
+
+And Luna could even read the numbers too!
+
+Though her Second was super focused on her Lunar Transformation during training, doing it over and over and over again! So much it made Luna all dizzy and funny feeling. All Woooozy, yesh. Then said something magical happens at level 20?
+
+That was a big number!
+
+And Luna wondered if that meant tasty!
+
+She would just have to bite and see.
+
+Even if it meant more dizzy poofs!
+
+Training was going furtastic anyway, and she was a very patient Apex Predator!
+
+Curiosity satisfied, her gaze slid sideways, and landed on her packmates.
+
+Sepio, Ray, and Trianna.
+
+All distracted!
+
+Talking about silly human things, and very, very unaware!
+
+Her tail began to sway slowly behind her.
+
+Oh.
+
+Oh this would be good!
+
+Luna sank slightly into her shadow, letting her Shadow Cloak do its work – just enough to soften her presence – and she began to circle.
+
+Careful, quiet…
+
+And very Apex Predator sneaky!
+
+She slipped behind Sepio first, eyes gleaming.
+
+Then paused.
+
+Considered.
+
+No.
+
+Better idea!
+
+Much better idea.
+
+She backed up slightly, then angled herself just right–
+
+–and zoomed low and fast, straight between them!
+
+Perfect!
+
+Her shoulder clipped Ray’s leg just enough.
+
+Her foot hooked Sepio’s stance.
+
+Her hand brushed Trianna’s side as she passed–
+
+–and chaos followed!
+
+Sepio staggered.
+
+Ray yelped.
+
+Trianna twisted, already reaching–
+
+Too late.
+
+Luna was already past them, spinning around with a delighted laugh as all three tried – and failed – to recover at the same time.
+
+“Luna!” Trianna barked, half-laughing.
+
+Sepio caught himself just barely.
+
+Ray did not.
+
+He hit the ground.
+
+“Ambush!” Luna declared proudly.
+
+Sepio exhaled slowly.
+
+“…You are a problem.”
+
+“A well trained problem!” she replied, puffing out her chest with all the pride she could muster.
+
+Trianna snorted, then cracked her neck, grinning.
+
+“Oh, you’re in for it now.”
+
+Luna’s ears perked, and her grin widened.
+
+Yes!
+
+This was exactly what she wanted.
+
+“Hehe, try to catch Luna first!” she challenged.
+
+And then she ran.
+
+Luna had a lot of fun that day!
+
+And she had a feeling her pack did too–
+
+***
+
+One of the things her best friend Syl did over the past days, almost daily, without fail…
+
+Was the weird Al-che-my thingy!
+
+Lots of it.
+
+And that meant lots of sitting, and staring at liquids that did not even look tasty, but smelled funny!
+
+Luna didn’t get it.
+
+Not even a little bit.
+
+But that was fine!
+
+At first.
+
+Because her Second liked it, and Luna liked when her Second liked things! Even if they were weird things with too many smells and not enough bite.
+
+But then–
+
+Syl forgot things!
+
+Even very important things!
+
+Hmph.
+
+Luna narrowed her eyes.
+
+This would not do!
+
+Yes.
+
+Luna would have to show her the way!
+
+Proper Apex Predator way!
+
+***
+
+PoV Syliana
+
+The mixture settled into a steady glow, soft blue with just a hint of silver threading through it.
+
+Stable.
+
+Finally.
+
+Syl allowed herself a small, satisfied breath as she set the vial aside and reached for the next one, already running through the proper sequence in her head.
+
+Measure. Heat. Stir. Condense, then let it breathe. Repeat.
+
+It was simple, precise work.
+
+Requiring little else other than patience and steady hands.
+
+Which was why–
+
+Something clinked behind her.
+
+But Syliana did not turn.
+
+“…Luna.”
+
+A pause.
+
+Followed by a very confident and slightly too loud–
+
+“Helping!”
+
+…Of course.
+
+Syl closed her eyes for half a heartbeat, then continued measuring out the next ingredient without looking away from her work.
+
+“Define helping.”
+
+“Luna watches and helps!”
+
+…Syliana didn’t know what she expected, but Luna’s reply still left her shaking her head.
+
+Their little Wildling was certainly learning, and her speech was improving by the day. But that hardly stopped the girl from saying things in far too simple a matter–
+
+There was a soft shuffle.
+
+–And just leaving it at that.
+
+A faint scrape followed.
+
+Then the unmistakable sound of something being picked up.
+
+Syl sighed, placed her work on hold, and turned to see just what her little companion was up to now.
+
+Luna froze instantly, one hand halfway into a tray of sorted components, the other already holding a small glass vial up to the light with intense interest.
+
+“…Luna.”
+
+“Yesh?” Luna said brightly.
+
+“Could you put that back, please?”
+
+Luna glanced at the vial.
+
+Then at Syl.
+
+“…Buuut it’s shiny. And weird! And new. Luna didn’t see one before!”
+
+“It is still unstable.”
+
+A pause.
+
+“…Means spicy?”
+
+“No.”
+
+“…Shame.”
+
+Luna put it back.
+
+But not before turning it once more to check how it caught the light, her golden eyes catching the glint with interest.
+
+Syl watched until her hand was empty, then turned back to her work, stirring carefully as the liquid started to clear from its previous dull green.
+
+She worked for a while longer before noticing the anomaly…
+
+It was just… far too silent.
+
+Suspiciously so.
+
+“…Luna?”
+
+“Luna helps!”
+
+“You are being quiet.”
+
+“Yesh!”
+
+“That is… a little concerning.”
+
+A pause followed, then Luna’s little feet shifting closer to her.
+
+“…Second forgot to eat,” came Luna’s soft voice from the side.
+
+Unmistakably accusatory.
+
+Syl blinked at that.
+
+That–
+
+She paused, hand stilling over the vial as the words actually registered, before turning to face the girl properly this time.
+
+Luna stood right there, much closer than before, holding something out with both hands like it was very important.
+
+It was…
+
+A large piece of meat.
+
+Warm, fresh.
+
+And still faintly steaming.
+
+“…Luna,” Syl said slowly, “what is that?”
+
+“Food,” Luna replied immediately with a happy grin, as if that explained everything.
+
+Syl looked at it, raised her brow, then looked expectantly at Luna.
+
+“…Where did you even get it?”
+
+“Luna hunted!” Luna beamed. “Very fast! Very efficient! Proper Apex Predator food acquisition!”
+
+That explained the faint smear of red along her sleeve.
+
+Syl inhaled slowly.
+
+“…And you brought it here.”
+
+“Yesh,” Luna nodded firmly, still holding it out. “Second busy. No eat. Bad bad!”
+
+Syl opened her mouth to reply, but reconsidered.
+
+…Luna wasn’t wrong. Doing Alchemy was very calming, but also very time consuming. For Syliana it was just too easy to forget the time.
+
+“…You could have told me,” she said instead.
+
+“I did,” Luna replied.
+
+Syl blinked.
+
+“…When?”
+
+“Now!”
+
+She snorted at that.
+
+Luna was technically correct. The best kind of correct.
+
+Syliana used that trick herself to tease people, or when she didn’t want to answer certain questions. Although she sincerely doubted Luna had such tricks in mind.
+
+They just sort of happened with her.
+
+She reached out to ruffle the caring troublemaker’s hair, enjoying the fluffy feeling for a bit, and the bright little smile her gesture caused.
+
+Yes, taking breaks was important, she so often forgot about that.
+
+“Thank you, Luna. Though… I think I would prefer something slightly more cooked?”
+
+“Oh! Yes, Luna has that too! Asked Mister Stall Owner to make!”
+
+Saying so, Luna opened her Maw and replaced one piece with another – identical in size, but this one cooked through and glistening in the afternoon light with sprinkles of spice and rendered fat.
+
+Syl stared at it for a moment.
+
+Then just shook her head, reached out and carefully took the offering.
+
+“…Thank you, that’s very considerate of you,” she said, a little softer.
+
+Luna’s tail immediately started wagging.
+
+“Second must eat! Or Second gets weak! Then no thinking! Then bad potions!”
+
+“…That is not quite how it works.”
+
+“But could!” Luna insisted.
+
+Syl considered that.
+
+“…I suppose it could,” she admitted.
+
+Satisfied, Luna nodded once, then immediately leaned forward, peering at her workspace again.
+
+“Now Luna help more!”
+
+“No.”
+
+“But–”
+
+“No.”
+
+“…Watch, then help a little?”
+
+Syl hesitated.
+
+“…Sure, I can agree to that.”
+
+“Yes!”
+
+Luna beamed, then – undoubtedly to try and be very helpful – leaned in even closer.
+
+Too close.
+
+“…Luna.”
+
+“Luna watches the potion thingy!”
+
+“You are breathing on it.”
+
+“…Oh.”
+
+She leaned back a little, but not enough.
+
+Syl reached out and gently pushed her further away without looking, continuing her work as she took a small bite of the offered meat.
+
+It was–
+
+“…It’s actually quite good.”
+
+Luna puffed up proudly.
+
+“Yes! Mister Stall Owner does proper spice rituals! Makes very good meat!”
+
+“…I see.”
+
+Behind her, Luna hummed happily, swaying slightly from foot to foot as she watched the bubbling mixture with intense focus.
+
+And for a few moments–
+
+Everything was calm.
+
+Quiet, and stable.
+
+Which, of course, had no chance of continuing.
+
+“…What does this do?”
+
+Syl stopped, and very slowly turned her head.
+
+Luna was holding another vial this time, sniffing it, ready to gulp it down.
+
+“…Luna.”
+
+“Yes?”
+
+“Just what are you doing now?”
+
+A pause.
+
+“…Testing?”
+
+“No.”
+
+“…Tiny test?”
+
+“No.”
+
+“…Very tiny–”
+
+“Luna.”
+
+She pouted with that cute little ‘woo…’ of hers.
+
+…It made it really hard to stay mad at her.
+
+“Okay… Luna puts it down.”
+
+Syl watched until her hands were empty again, then returned to her work with a long, slow breath.
+
+Behind her, Luna sat very still.
+
+Very quiet.
+
+Very helpful.
+
+…
+
+“…Is Luna very good helper?” Luna whispered dejectedly.
+
+Syl closed her eyes briefly, then decided a change in approach was needed.
+
+She stopped her work, knelt down, and pulled Luna into a hug. Her hand found itself on the girl’s back, massaging it lightly.
+
+“…Yes, you are. Thank you.”
+
+She could feel Luna snuggling into her, and the little wags picking up again.
+
+“Would you like me to show you how to help even more? We will even ‘test’ some ingredients. And learn which ones are unsafe and why. Deal?”
+
+Luna wrapped her hands as far as they could reach around her waist and hugged her with a loud and happy ‘Yesh!’
+
+Perhaps it wouldn’t be so bad to take it easy today, and show Luna how some things are done.
+
+Luna was a quick learner.
+
+And Syliana was sure she could be made useful even in something as delicate as Alchemy.
+
+In very specific, carefully supervised ways.
+
+And if not… Then at least the two of them would spend some pleasant time together.
+
+She smiled, ruffling Luna’s hair again.
+
+“Well then, shall we get started then?”
+
+“Yip yep!”
+
+Yes, that sounded good too.

@@ -1,0 +1,126 @@
+---
+id: 20da77ff-61d5-557b-9ba8-9537e1e43055
+page-type-slug: story-chapter-royal-road
+title: "018 - New Food Chain"
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 18
+ownLength: 1690
+unit: words
+publishedAt: 2026-05-11
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3380948/018-new-food-chain"
+royalRoadId: "3380948"
+---
+
+"What was that all about?" Jamie asked. "I thought she—" He stopped mid-sentence. He had connected the dots, too. Before he could say anything, one of those magical blasts caught him in the shoulder, which sent him sprawling over the tiled floor. His health had dropped by a third.
+
+No one needed to be told to focus. I was the one falling for one distraction after another. Frank and Liz both immediately returned fire. The caster was one level up, across the atrium from us. She'd taken cover behind the upper-level parapet.
+
+I rushed to the nearest staircase, paws skidding slightly on the polished faux-marble tiles. Its sides were made of the same wood-metal panelling as the parapet, hopefully hiding me from the kobolds, and if not, at least providing great cover. When I reached the top of the stairs I spotted a crouching kobold who'd had the same idea. I took him out before he could even scream in surprise. Compared to the hounds those non-caster kobolds were laughable opponents.
+
+I waited behind a corner until I heard the distinct oomph of one of those magical blasts, before I charged that caster's position. She was guarded by four of the spear-wielders, two crouching to each side. Those on my side screeched when they spotted me and rushed me. Moments after they raised their heads, a crack echoed through the atrium. The left one dropped, a neat hole in his temple. Frank really was the better choice for fighting in those corridors.
+
+I used the opening, entirely ignoring the other one, as I went for the caster. Instead of going for a precision kill, I just bit down on her shoulder as I ran past and carried her with me, past the other two bodyguards. Out of reach of their spears I tossed her over the parapet, where her red dot winked out shortly after.
+
+["Caster's out. Proceed to target."] I wrote in party chat.
+
+While the others looted the first store, Frank and I proceeded to clear the corridors, clearing a path for them to the second store. I'd take point and disrupt them, while Frank focused on the casters.
+
+["Do you have unlimited ammunition?"] I eventually asked in party chat. A pistol seemed slightly overpowered against spear-wielding opposition.
+
+Frank wasn't yet used to the chat feature. He answered out loud.
+
+"Yes, all my weapons do. But Lailah warned me to find another weapon soon. Most demons, the real ones, not the lesser demons, will have a spell that would make a pistol simply explode in my hand."
+
+Those had probably been the most words Frank had ever spoken in sequence since I met him. And the spell part made some odd kind of sense. Hell was prepared to attack us. Of course they'd have some nonsense against our most common weapons. Luckily, our team was in the act of looting a pretty big sports goods store.
+
+["Folks, pick up some bows and arrows for Frank."]
+
+Frank mumbled something the transcription couldn't pick up.
+
+["Will do."] wrote Constance.
+
+This all felt too easy.
+
+["Is this meant to be this easy?"] I asked in the Guide chat.
+
+"There are two things at play. On the one hand you are ahead of the curve. Maybe not in experience, but in Task rewards. Most people have not taken out more than one or two lesser demons at this point, let alone more than ten. On the other hand, to my understanding, kobolds are meant to be trappers. The blessing probably only just spawned them in, and they didn't have time to survey this place and set up their defences yet. The higher level foes are probably deeper inside, or even within a specific store the Blessing designated as high value. Stick to the plan, stick to the shops that aren't too deep inside, and you should be fine."
+
+Satisfied with that explanation, I urged Frank onward.
+
+["Let's look a bit further for more of them. I want to get to 20 and ideally we get you to 10."]
+
+Frank nodded and followed. There was an interaction I hadn't noticed before. When I intently focused on the present scents and literally put my nose to the ground, I could pick up trails, which marked their likely location as a red outline on my map. Tracking them that way also had the advantage of progressing my Heightened Senses skill.
+
+"So," Frank began, after we'd just picked off another small group. "What was that with the teddy earlier?"
+
+Time to tell the wise old man about my gay relationship struggles. He'd surprised me before. Maybe he'd do so again.
+
+["She had deceived me about her true identity. She's my ex-girlfriend."]
+
+Frank grunted. "I thought you and Jamie were," his voice trailed off, leaving the question unspoken.
+
+["Nope, met him about an hour before I met you."]
+
+He made an amused sound. "He's worrying a whole lot over someone he just met."
+
+I, in turn, decided not to worry about that, or to even reply to it.
+
+["Five minutes passed, we have to move on."] Anthony wrote. He was the only one of us with an analog watch.
+
+["Path is clear, we'll return to provide cover."] I replied.
+
+["Got a good haul?"] I added.
+
+Just about everyone in the loot team replied at once, indicating some level of success. I fought against the urge to ask for specifics. It'd be their hands they'd lose if they forgot to fetch gloves.
+
+In front of the store, Jamie dropped a filled backpack on the ground.
+
+"Can you fit that in your inventory?" he asked.
+
+I hadn't tried to access it yet as a dog. I raised my right front paw and tilted my head with a questioning expression.
+
+Jamie grinned and fought down a laugh before he inspected my paw.
+
+"Yeah, the sigil is there."
+
+I tilted my head the other way. What the hell was this funny?
+
+"Even with all the blood that expression is… It's a funny expression."
+
+I tried to roll my eyes and pressed my paw on the backpack. On my mental command it vanished into my inventory, barely filling it by a quarter. Notably my inventory list also listed every single item that had been in that backpack—some tools, two flashlights, glow sticks, a lighter. I made a mental note of that. I didn't know yet how, but that would be useful.
+
+In the meantime Liz had shown Frank a bow, some proper thing, with all bells and whistles. But Frank hadn't taken it yet, so it just vanished when Liz put it in her inventory. Of course Frank didn't have his inventory yet. He needed to meet up with Lailah in a sanctified space first.
+
+No kobolds harassed us on the way to the bedding store. They must have noticed that we were actively hunting them and had accepted the new food chain for now. Which suited me well. I had my twenty kills now. The cruelty of the thought was not lost on me.
+
+I just hoped that we would be out before they figured out their counter attack.
+
+The others had just entered the next store, when I heard Lucy's voice.
+
+"Hey there, darling. Thought I should check in with you. You know, you're treating the Apocalypse like it runs on a neat little clock. Cute. Also: an assumption. I'm not giving you a schedule—wouldn't be fair to all the Lucy-less lambs out there—but… hurry. Just saying."
+
+They could have said this sooner. At any point. But they had waited. Despite our intertwined fates, they still managed to be a huge twat. Impressive really.
+
+I barked my warning as I wrote in chat.
+
+["Not five minutes. Make it two. Frank, hold position. I need to help grab things."]
+
+I ran ahead of the others out of the mall, doing the mental math. I was down to my last ATP, but I could refill at least three with the cup, maybe more if I raised my Intellect stat. If I cashed in the bonus experience from surviving the earthquake I should be level 7. Hopefully an Intellect score of 13 would push the cup to give me another point. Four points to survive three more attacks.
+
+But none of that solved the immediate issue I was trying to solve. That kid would slow everyone down. Angel's shape, while strong enough, was too weak to carry him. With more time I could probably improvise something but time was the one thing we didn't have. And the impala was tall enough, but I had my doubts that it could deal with a passenger. Breaking my legs because I couldn't deal with the additional weight in an unfamiliar body wouldn't do us any good either.
+
+["Jamie, can you carry the kid? I doubt he'll be able to keep up with everyone and we need every second we can get."]
+
+["Luke?"]
+
+I regretted not learning the names of any of the non-Blessed.
+
+["I don't know. Is there more than one kid with us? I never talked to him. He looks scared of me."]
+
+["Yes, that's Luke. Yeah, I think I can do that."]
+
+["Great, I'll rush ahead and scout a room. Gabriel will give you directions."]
+
+A part of me was relieved at the sudden urgency. Running off meant less people asking why I had killed Claire. At least a part of her. And by now I had to admit that 'killed' was what I had done. Unless she'd lied about that, too. I still struggled to comprehend just how angry I had felt that moment.
+
+Guess my therapist was right. I had a lot of unresolved issues around that relationship. The good part about the Apocalypse was that it added a lot of additional unresolved issues which made a complicated relationship look really tame in comparison. Like how that fucking Blessing was rewriting my brain to associate murder and the taste of blood with neat little experience rewards—while I was in a shape that was literally bred for its Will To Please. There was no therapist on this planet equipped to untangle that mess.

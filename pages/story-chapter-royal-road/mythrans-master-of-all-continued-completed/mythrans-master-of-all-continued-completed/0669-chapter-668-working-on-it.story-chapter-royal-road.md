@@ -1,0 +1,277 @@
+---
+id: 571190f3-9e50-5a16-8363-93ee7bb5ff64
+page-type-slug: story-chapter-royal-road
+title: "Chapter 668 - Working On It"
+slug: 0669-chapter-668-working-on-it
+partOf: mythrans-master-of-all-continued-completed
+position: 669
+ownLength: 3296
+unit: words
+publishedAt: 2018-08-13
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/243577/chapter-668-working-on-it"
+royalRoadId: "243577"
+---
+
+Fire Dancer couldn't understand why Ren was asking her to make a decision right away. Most beings, when given a choice, would delay for as long as possible before wanting to confront such an event. Yet, he was literally demanding for her to choose if he lived or died within 5 minutes.
+
+Ren felt her emotional turmoil and didn't move, or try to look at her, or even try to influence her in any way. He didn't plead for his life, or explain that if he was killed, she would have to wait almost 7 years before she could possibly see him again. He would also return to his last spawn point, which was back in the Earth Realm, and she would have to wait for him to open a portal and return to her.
+
+When 4 minutes and 50 seconds had passed, Fire Dancer still hadn't made a decision. Her emotions switched from pure anger to doubt, practically every second, and Ren had no idea which way she would go when the time was up... and then the time was up.
+
+“Killing you would be too easy.” Fire Dancer said, despite her flash of anger, and Ren looked up at her. “You have submitted yourself to be my prisoner, and I will hold you to that promise.” She said and bared her teeth at him. “A promise I intend to make you keep, Father.”
+
+“Thank you.” Ren said and stood up. “May I ask a favor?”
+
+“No.”
+
+“Deity of Fire, please be reasonable.” Ren said. “I merely want to...”
+
+“I don't care what you want.” Fire Dancer said. “You told me to make a decision, and I have.” She said. “You will abide by your own words, and be glad that I didn't choose to kill you.”
+
+“I am more glad about it than you realize, Deity of Fire.” Ren said. “However, I must leave for a short time before my sentence starts.”
+
+“Your sentence started 2 weeks ago!” Fire Dancer exclaimed as her anger flared again.
+
+“You just made the decision.” Ren said. “Allow me to get my affairs in order, and I will return as soon as possible.”
+
+“Do you really think I will let you leave?” Fire Dancer said and waved a hand, then hundreds of Fire elementals surrounded Ren.
+
+“Deity of Fire, please.” Ren sighed. “I shouldn't need to explain that I have Adventurer's business to attend to.”
+
+Fire Dancer waved her hand and the Fire elementals backed off.
+
+“This is not a Safe Zone for me, so if I try to leave on Adventurer's business, I will die.”
+
+“So, your pledge to stay was all for naught.” Fire Dancer spat at him, and her anger seethed within her.
+
+“No, it isn't.” Ren said. “Give me a moment and I'll prove it.”
+
+Fire Dancer thought about it, then pushed her anger aside as she became intrigued. “Go ahead.”
+
+“Thank you.” Ren said and brought up the recipe for the Instant Tower. Since he knew what ingredients it contained, he knew what could be replaced and still have it count as an instant tower. He walked over to the solid Fire wall of the throne room and examined it.
+
+Solid Fire Wall (Indestructible)
+
+An ingenious combination of spells and the Fire element, the Solid Fire Wall can be made in any size and shape, as long as the Mana and Element requirements are met.
+
+It then gave him a list of required spells when he received the recipe for it, and he realized most of them were the same as the ones he used when he made Teepo solid. The only one he didn't have was the Indestructible spell.
+
+Ren walked back over to Fire Dancer and put his hands together and prayed. “Oh, great and powerful Deity of Fire.” He said and fell to his knees. “I know I am unworthy of the knowledge, but I humbly request that you teach me the Indestructible spell.”
+
+“You are unworthy of that spell.” Fire Dancer said. “Why do you require it?”
+
+“I need it to make an Instant Tower Of Fire that won't be consumed by your power and this realm.” Ren said.
+
+“What is the purpose of this tower?” Fire Dancer asked.
+
+“If I may look upon you as I answer?” Ren asked.
+
+“You... may.”
+
+Ren looked up at her. “I want to prove that I'm serious about returning here.” He said. “In order to do that, I need to make a tower that can contain my spawn point.”
+
+A ripple of disbelief went through all of the Fire elementals and ended at Fire Dancer.
+
+“You can't be serious.” Fire Dancer said. “That would mean...”
+
+“If anything happens to me, I will reappear here.” Ren said. “That was why I was upset at you for almost killing me twice. I would have been forced to leave you, and I didn't want to go.”
+
+Fire Dancer let a single tear out. It fell to the floor beside Ren and instead of splashing like he thought it would, it became a baby fire elemental instead.
+
+“Wow.” Ren said, then the baby fire elemental moved over to Fire Dancer's foot and climbed on, then morphed into part of her shoe. “Okay, that was cool.” He said and looked back up at her. “Please teach me the spell, Deity of Fire.”
+
+Fire Dancer nodded and started to kneel.
+
+“Please don't debase yourself like that, Deity of Fire.” Ren said and unfurled his wings, then flew up into the air to hover by her face. “I will gladly come to you.”
+
+“So, that wasn't a trick or an illusion?” Fire Dancer asked.
+
+“No, I gained the wings when I was in Shargon Caverns.” Ren said. “Of course, I didn't learn how to use them until I spent years training with them.”
+
+“I must admit that I haven't watched you as closely as you may think.” Fire Dancer said.
+
+Ren chuckled. “Like you could stand around and watch a picture that only slightly moves while you took over and then started running an entire realm.”
+
+“You understand, then.”
+
+“I suffered the same thing, so yes.” Ren said.
+
+Over the next half an hour, Fire Dancer showed him how to cast the spell.
+
+“That's a really complicated spell.” Ren said and took out a wand. The metal handle melted instantly and the diamond dropped 800 feet to the floor and bounced. “Goddammit! I forgot it would do that!”
+
+Fire Dancer laughed, then covered her mouth with her hand. Ren chuckled and equipped the large wand attachments to the shoulders of his platinum armor and they didn't melt, because they were technically a part of his armor and protected by his immunity.
+
+“Did you watch the fight?” Ren asked.
+
+“Yes, and it was agonizingly slow.” Fire Dancer said.
+
+“I'll bring you a copy of it so you can watch it.”
+
+“What?” Fire Dancer looked at him and he felt her surprise.
+
+“Well, now that I know the Indestructible spell, I can bring lots of stuff to you.”
+
+“Lots... of stuff.” Fire Dancer said.
+
+“Sure.” Ren said. “What good is the spell to me if I can't use it to make you happy?”
+
+Fire Dancer didn't respond with all of the things he could do with the spell, because she was too surprised that all he wanted to do with it was bring her things.
+
+“Say, before I change the spell in this wand, do your Fire elementals feed on enchanted Fire?” Ren asked, and she nodded. “Excellent.” He said and flew about 100 feet away from her. “Hey, everyone! Are you hungry?”
+
+The Fire elementals on the throne room floor looked up at him, and he felt their interest.
+
+“Catch!” Ren said and fired a single 50 foot wide Fireball down into the Fire elementals. It hit the center of the mass of them and exploded, then dissipated as the Fire elementals sucked it up in less than a second.
+
+“You don't have to do that.” Fire Dancer said.
+
+“I have to empty the wand anyways, so they might as well get some enjoyment out of it.” Ren said and activated his Hail of Arrows ability. “Get ready!”
+
+A strong sense of anticipation came from the Fire elementals, and he fired. The one he fired was joined by 10 magically created copies, and all 11 of the 50 foot Fireballs went straight down and hit the mass of Fire elementals and exploded. They were ready for the shock this time and sucked the Fire up almost instantly.
+
+“I'm going to rapid fire! Here it comes!” Ren said, then shot continuous 50 foot fireballs at the Fire elementals. Each had 10 copies added, and since there were 250 shots in the wand, Ren covered the entire floor of the humongous throne room with 50 foot exploding Fireballs.
+
+The Fire Elementals were in their version of heaven.
+
+There had never been so much free Fire to absorb before, so most were just rolling around like cats with catnip and sucking up everything they could. A few stayed still and absorbed it normally, and a few were jumping around like kangaroos through the Fire that Ren had unleashed and were absorbing more than they really could.
+
+For the next 30 seconds, both Ren and Fire Dancer felt the emotions of the Fire Elementals and enjoyed their happiness, then Ren reloaded the wand and did it again. When all that Fire had been absorbed, most of the Fire elementals were too stuffed to do anything except lay there and bask in how full they were.
+
+“You've spoiled them.” Fire Dancer said, but she didn't sound angry for once.
+
+“I have a tendency to do that when I find something that someone likes.” Ren said and replaced the expended Fireball spell with the Indestructible spell. “I'll be right back.”
+
+Now that Ren had the Indestructible spell in a wand, he could use it and not have to do all the invocations and chants needed to cast it normally. It also let him add it to recipes, so he opened up the Instant Tower recipe and made all the appropriate replacements.
+
+Ren activated his Craft Wondrous Item ability and added the appropriate ingredients, then placed his hand on the platform. He poured Mana into it, activated his Hands of the Gods ability and chose Burning Hands, and poured pure Fire into it until it was full. He transferred a platinum coin from his inventory directly into the funnel, so that it wouldn't melt, and then a bright red cube 1 inch across appeared.
+
+“It's ready!” Ren hollered and looked around. “Where should I put it?”
+
+“The throne room is not the place for such a thing.” Fire Dancer said, and her anger was just below the surface. “Come with me.”
+
+“Right away, Deity of Fire.” Ren said and bowed, then took off flying after her. He followed her down different corridors and through a large door, then she shut it.
+
+“You can put it right there on the night stand.” Fire Dancer said and pointed.
+
+Ren started to fly over to it, then stopped when he saw the edge of the humongous bed. “This... is your bedroom.” He said, surprised.
+
+“I am not letting you out of my sight.” Fire Dancer said. “Put your building right there.” She pointed, and a flame circle lit up where she wanted him to place it. Ren flew over to the spot and put the cube down. He activated it and Fire Dancer saw that it had a door hole and no door. It also had several window holes and no windows and a bed with several workbenches and things to work with.
+
+“Set your spawn point.” Fire Dancer commanded.
+
+Ren did, and he felt her immense relief as it appeared. She sat down on her bed and sighed.
+
+“You really did it.” Fire Dancer said, and he felt her disbelief. “You set this as your place of return.”
+
+“If I had known that was an option before, I might have done it a long time ago.” Ren said. “Once I reached the level where I could create my own spawn points, it never occurred to me to do something like this.”
+
+“I know.” Fire Dancer said, then she laid down on the bed and put her head on the humongous pillow made of Fire, which put her face at eye level with his new home. “Of course, it wasn't possible until you unlocked all of those skills recently.”
+
+Ren nodded. “I wasn't the first to max my character, though.”
+
+“Uncle Teepo.” Fire Dancer whispered.
+
+“Summon Teepo.” Ren said and Teepo appeared at his feet.
+
+“Deity of Fire, On behalf of all beetles that worship you, and on behalf of the ignorant masses, I humbly greet thee.” Teepo said and bend down to press his beetle face to the night stand.
+
+“Uncle Teepo.” Fire Dancer took in a quick breath and a tear appeared in her eye and touched the pillow. The baby fire elemental slid across the pillow and attached itself to the collar of her clothes and morphed into part of it.
+
+“It's okay now.” Teepo said as he sprouted his wings and flew over to her. “Now that we're able to, nothing is going to stop us from coming back to you.” He said and landed on her nose. “Wow, you've gotten so big.”
+
+“I really have.” Fire Dancer said, then her seething anger came back to the surface and she scowled. “Get off my nose.”
+
+“Yes, Deity of Fire.” Teepo immediately took off and hovered 20 feet away from her, then bowed in mid-air. “Please forgive my impropriety. I hadn't seen you in so long that I was selfish in my desire to be by my favorite niece.”
+
+Fire Dancer's face smoothed over as she calmed. “I missed you, too.”
+
+“Deity of Fire, I request permission to leave.” Ren said, and she nodded without lifting her head from the pillow.
+
+“We'll be back as soon as we can.” Teepo said, then dissolved into the ring.
+
+“He can't travel through your own portals?” Fire Dancer asked, confused.
+
+“I think he could, but why take the chance?” Ren asked. “I don't want to lose Teepo to a stupid accident.”
+
+Fire Dancer took a breath and sighed, then she frowned. “I understand.”
+
+“I certainly hope so.” Ren said and smiled as he cast the Portal spell. “If I'm going to be around a lot anyway, I'm going to do my best to be for you what Teepo is for me.”
+
+“What is that? A constant nag?” Fire Dancer asked snidely, and Ren laughed.
+
+“No, Deity of Fire. I'm going to try and be your best friend.” Ren said and stepped through the portal.
+
+*
+
+“Something's happening.” Elise the Half-Elf said and pointed to the Fire-filled Magical Barrier of Protection in the middle of the Arena. The Fire had started swirling and churning again, and then it started to recede and pull away from the sides of the barrier. It took a minute for it to disappear, and when it did, Ren was left standing in the middle of the arena and he had Teepo on his shoulder.
+
+“REN!” Lara yelled, and he waved to her.
+
+“I'm sorry I worried you like that.” Ren said and walked over to her.
+
+*
+
+“Get ready.” Tristan whispered. “We can attack as soon as the barrier drops.”
+
+“I'm not doing it.” One of the men with him said.
+
+“You want to get him back, don't you?” Tristan asked.
+
+“You saw what he did.” Another one said. “He doesn't even have to look at you to hit you with that magic gun of his.”
+
+“I'm out, too.” Someone else said, and tossed several gold coins at Tristan. “Not being able to play anymore isn't worth ambushing the guy.”
+
+“You took the money.” Tristan said and didn't try to pick up the money. “Are you breaking faith with me?”
+
+“Don't quote that old saying of 'honor among thieves'.” He responded. “We all know what you did to that Dark Elf assassin.”
+
+“You still came here...”
+
+“Yeah, and just like a woman, I have the right to change my mind whenever I want.” The guy said and stood up. “This is the best game I've ever played. I've made more money committing crimes than I ever could doing an honest job. I've only been caught once, and that was a mistake on someone else's part and I got off.” He turned and walked away. “I'm not giving all of this up just for someone else's stupid revenge plot.”
+
+Everyone around Tristan stood up as well, and they all started to leave.
+
+“That's far enough.” Tristan said and stood up. “If you don't go through with this, you'll all be added to my shit list.”
+
+They all turned back to him and gave him their best evil-incarnate stares.
+
+“Wow, Tristan.” Ren said, and they all looked at the magical barrier to see Ren standing there in mid-air in front of Tristan. “You just openly threatened 28 hardened criminals in front of the entire country.”
+
+The criminals in question looked up at the displays above the arena and they were all on it.
+
+“You really should learn to be more diplomatic about things like this.” Ren said. “With it all out in the open, they need to protect their reputations.”
+
+“Shut up pipsqueak.” Tristan said.
+
+“I'm just trying to help you.” Ren said. “It's one thing to believe that someone crossed you and then add them to your revenge list; but, you're not supposed to tell them to their faces.”
+
+“I don't need your help!” Tristan spat.
+
+“I am so sorry that you actually believe that.” Ren said and looked at the criminals. “Thanks for not killing yourselves by coming after me.”
+
+“Yeah, we got the point of your little demonstration.” One of them said. “No one wants to piss you off now.”
+
+“I'm glad.” Ren said. “Keep your noses clean while you're here, and I won't have to ban you from my lands.”
+
+“Go ahead and ban us if you want.” Another guy said, smugly. “We've got ways around that.”
+
+“You do?” Ren asked, intrigued. “What's your name?”
+
+“John Smith.” The guy said, completely seriously, and everyone around him laughed.
+
+“Really?” Ren used Identify Person on him and took out the All-Seeing Mirror just for show. “Well, according to this, your player name is Janus McNasty and your level is 78. You are a Rogue with a crossbow specialty, and you have no titles.” He said and looked at the very surprised mercenary. “I assume you're wanted in a few towns?”
+
+Janus turned his head to look at the other criminals, and they studiously avoided his gaze.
+
+Ren took out a piece of parchment and cast Full Illusion on it, and held it up. “This looks like a Wanted poster to me.”
+
+All the criminals immediately looked at him and saw the poster, and the reward if Janus was returned to the port city of Braddock for trial.
+
+“You're lucky I'm too busy to take you in.” Ren said. “I'm about to officially open the water and amusement parks I advertised on the flyers.”
+
+Janus nodded and stepped back.
+
+“Oh, it looks like someone I know isn't too busy right now.” Ren said and pointed.
+
+“Janus McNasty, my hometown requires your presence.” Selene, the Mistress of Dance said as her party of Adventurers spread out to surround the poor guy. He knew he was caught and didn't have a chance to escape, so he held his hands up in surrender. She held her swords at the ready as the huge brute of a fighter stepped forward and tied the guy up and tossed him over his shoulder.

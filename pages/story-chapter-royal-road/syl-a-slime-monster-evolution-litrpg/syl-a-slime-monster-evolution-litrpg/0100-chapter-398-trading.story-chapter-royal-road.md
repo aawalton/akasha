@@ -1,0 +1,209 @@
+---
+id: 0c93b41f-45bd-5e5e-b2e6-03874cbb23dd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 398 : Trading"
+slug: 0100-chapter-398-trading
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 100
+ownLength: 2167
+unit: words
+publishedAt: 2026-07-03
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3625196/chapter-398-trading"
+royalRoadId: "3625196"
+---
+
+I didn't immediately head to the throne room, as I didn't exactly have it as a saved location and would need to make several jumps to reach it. I teleported into the city, and while a few golems turned to face me, they showed no hint of hostility.
+
+Feeling relieved, I took the moment to glance around and noticed that everyone was going about their day as if nothing had happened. I was surprised that Keldenar hadn't alerted the residents at all before our agreement, or maybe he was that confident he could defeat me.
+
+How many cards were you holding back…
+
+Putting that thought aside, I began making my way to the throne room and eventually teleported inside. A small part of me was expecting the space to become locked down after I entered, but thankfully, it was just a passing moment of paranoia from me, and Keldenar was back on his throne.
+
+"Welcome back. Can I get you any food or drinks?" Keldenar offered before a hint of curiosity flashed across his face. "Actually, do slimes even eat? I know there's sewer slimes, but…"
+
+"No!" I cried out in horror. "I am not a sewer slime! I can technically eat anything, but I have my own standards and tastes!"
+
+"Sorry, I let my mouth run wild again," he chuckled. "So then what is your favorite food? Mine's pizza, and it was one of the first things I set out to recreate once I was reborn here."
+
+I'll have to ask Vee about that…
+
+"Slime cores. Nothing comes even close to those delicacies…"
+
+"You eat slime cores…? That's like me saying I eat gold coins. Is that why you have so many cores?"
+
+"No, that's a different ability… The cores I eat don't come back."
+
+"Oh? Care to explain?"
+
+"You first," I insisted.
+
+Keldenar paused for a moment before nodding in agreement. "Sure, if that's how you want to do it, it seems fair. What do you want to know about me?"
+
+"Why did your golems suddenly become immune to acid and explosions?"
+
+"And fire."
+
+I frowned.
+
+"Sorry, I'm a little pedantic from time to time," Keldenar said with a small smirk. "As for why… Well, I have an ability I can grant to my golems called [Adaptibility]. As they take more and more damage of one kind, they gradually become immune to it in response."
+
+"Permanently!?"
+
+"I wish," Keldenar sighed. "No, it goes away after a bit of time. Thankfully, it's not all at once; it's gradual, just like its rise to immunity. There's also a limit to how many immunities I can keep buffered, although I won't reveal what that number is."
+
+"Wow… I wish I had that ability," I admitted.
+
+"If you were a golem, I could grant it to you," Keldenar explained. "It's not a trait the golems have, it's one of my class abilities I got from resetting my level that I apply to them."
+
+"Wait, you reset your level?"
+
+"It's supposed to be my turn to ask a question," he joked. "But I don't mind giving this as a freebie. I can't change my class, ever, so when Golemancer reaches level one hundred, I can reset it back to level one and get to pick a super skill for my troubles."
+
+"I've never heard of this before…"
+
+"Hey, I could say the same about you. But it was part of the deal with the class, since it's not exactly like normal magical affinities. The lack of variety sucks, but at least I get something to look forward to each time I reach the big one-zero-zero."
+
+I nodded, wondering if it was worth it, and realized it probably depended on the class. If I were permanently stuck with something like Scout or Warrior, I'd probably hate it, but something like Elementalist or Riftmancer sounded good.
+
+"Okay, my turn. So, what's the deal with your slime cores?"
+
+"Do you mean what I gain from eating them, or why do I have so many?"
+
+"Both…?" he pleaded.
+
+"Fine, but you owe me," I teased. "I can eat slime cores to gain their unique ability."
+
+"No way, are you serious?"
+
+"Did you really think I was born with [Acid], [Blaze], [Cryo], [Nitro], [Metal], and all the other slime traits I have?"
+
+"I guess not, but still… I guess you also had a very unique start."
+
+"Unique is one way to describe it… I'd say awful, I was born on a blue slime farm, at the mercy of being harvested by humans."
+
+I shuddered, just thinking about those dark days.
+
+"And yet you didn't seek revenge?" Keldenar asked.
+
+"Oh sure, want me to head on over and blow up the kid who threw me into a bucket to harvest my slime?" I quipped sarcastically.
+
+"No, no, nothing like that," he chuckled nervously. "But seriously… A child? I guess if you were a blue slime, that makes sense, to think you actually survived this long to become what you are now."
+
+"My biggest turning point was when I drowned a green slime and ate its core. Getting [Acid Slime] was a game-changer."
+
+"I'll bet. Does that mean you have all of the slimes?"
+
+"No, I'm missing gold, gray, and black from the known ones, and there are probably a few unknown ones too."
+
+"I think you might want to put gold slime into the unknown. I've certainly never heard of it before," Keldenar admitted.
+
+"I think they are even rarer than pink slimes. But they definitely exist, I've seen their information."
+
+"Huh… Well damn, now my curiosity is tingling. As for the other two, they aren't exactly rare; if you went into almost any labyrinth dungeon, you should be able to find them."
+
+"Sure, if I could actually find a labyrinth."
+
+"I know several. I can have a golem escort you, or if you have [Mapping], I could send you the location."
+
+"Really?"
+
+"Why not?" Keldenar shrugged. "We're supposed to be allies now, and if you're missing part of your powers, you won't be on your top form."
+
+I understood his intention, but even so, I didn't know if I was willing to be so trustworthy with someone I had just battled. Even if he was treating our fight as a game, I was certainly willing to go for the kill if the opportunity had presented itself back then.
+
+Was he holding back that much?
+
+I then gave him a brief explanation of [Sub-Cores] while not revealing the biggest secrets of the ability, mostly revolving around [Core Collective]. He certainly did not need to know about my additional slime network or that I could revive from my backups.
+
+"That's amazing, you're almost like a supercomputer, I wish my brain could do that," Keldenar jokingly admitted. "You're almost making me want to be reborn as a slime rather than a golem in my next life."
+
+"Just don't pick a blue slime," I joked back.
+
+"No slime farm for me," Keldenar chuckled. "Although you've definitely raised the bar now for my golem race. I need to make it at least as good as you slimes are. It seems I've got a long road ahead of me before I can officially become a progenitor."
+
+We continued to chat the day away. I was genuinely surprised that he was willing to give so much of his time to me. Didn't he have a city to run? I asked him a few times about that, and eventually he revealed that he was working and talking to me at the same time through his golems.
+
+While he didn't outright say what ability he had, he mentioned that he had something that took [Multitasking] to the next level, and it was how he was able to manage so much at once. He always called it an "ability" rather than a trait or skill, which I found must have been intentional, making him annoyingly secretive.
+
+Thankfully, I did find out quite a lot about him and his golems, and, more importantly, how he detected my teleportations. Rather than an ability, it was actually something he had achieved through an enchantment. He had discovered the design in only two locations, Dhoggurum and "The Capital," and he chose to appropriate it from the latter as the former intimidated him.
+
+The enchantment created a net, and when someone teleported, they were effectively poking holes in it; he simply had to investigate each hole to find me. I was relieved it wasn't some universal skill he could take around with him, but at the same time, I was annoyed because it sounded like something I couldn't avoid. Even if I hid my teleportations through [Stabilized Fluctuations], I couldn't hide the "hole" I was making.
+
+I need to get the enchantment and experience it for myself, then I can try working on a countermeasure.
+
+"Wait, I thought you said you can't change your class. How did you become an enchanter?"
+
+"Oh, I'm allowed a secondary profession class, although they locked that after I chose it too. Rather unfair if you ask me, I struggled between enchanter and alchemist for days, and was even tempted by forging for a while."
+
+"How did you get a secondary class?" I excitedly asked.
+
+"You seriously don't know? Aren't you officially a gold-rank adventurer?"
+
+Before I could answer, Keldenar continued talking.
+
+"Oh… It looks like you went missing in Dhoggurum. Part of an assassination plot? Wow, you weren't kidding. It seems the Outeatus Kingdom really wanted you dead if they attacked the elven embassy to get you."
+
+No… Unfortunately, that was me exploding.
+
+"Are you reading my adventurer information?" I asked curiously.
+
+Keldenar nodded. "I have a small adventurer branch here in the city, and I'm kind of like a substitute [Guild Master]. That and my diamond rank get me access to certain privileges."
+
+"Sounds convenient."
+
+"It can be. Anyway, getting your second class slot isn't too hard; all you need to do is beat three labyrinth dungeons, or one legendary dungeon."
+
+"Wait, really? Then how do the nobles get them…?"
+
+"They pay a diamond-rank adventurer to carry them."
+
+"Getting lifted by a diamond-rank is enough?" I gasped. "Can you pick me up?"
+
+"No… not literally carrying them, it means they get escorted through the dungeon. It's called carrying because the nobles are basically dead weight, and are just leaching the experience."
+
+I frowned. "I see…"
+
+"Anyway, that shouldn't be necessary for you. I reckon you would be an absolute menace inside any dungeon."
+
+"I might have angered a few…" I admitted.
+
+Keldenar burst out into laughter. "You and me both. I actually used to have golems stationed in multiple dungeons, constantly farming for me. Man, those were the days, things were so much simpler back then."
+
+"They aren't now? You seem to be at the height of your power."
+
+"Yes, but that just means the potential to fall is much higher," Keldenar sighed. "It's why I set up my city here out in the middle of nowhere, and why I'm allying myself with the adventurers, merchants, and even yourself."
+
+"What kind of enemies do you have?"
+
+"Would you believe me if I said the king?"
+
+"Sure, why not?"
+
+He chuckled and shook his head. "Well, aren't you blunt. Well, let's just say it's human nature not to let someone else gather too much power. I noticed that the more good I did for the kingdom, the more they seemed to resent me for it. I've had a few assassins sent my way, and if not for living inside a golem most of the time, they might have succeeded."
+
+"Wait… What?" I stammered.
+
+"Hm? Oh, did you not notice?" he asked and pointed upwards.
+
+I glanced up, but all I saw was a stonework ceiling.
+
+"Use [Identify]," he replied.
+
+"Um… I can't," I reluctantly admitted.
+
+"Seriously? You didn't buy [Identify]? That's like the very first skill any adventurer gets. What was your handler thinking? I should lodge a complaint on your behalf."
+
+"Uh… I used to have it, but I don't anymore," I tried saying, but then I noticed a look of absolute shock on his face.
+
+"Oh wow, you were censored by the gods. I didn't hear any of that. Let's drop the subject before one of us gets in trouble," he quickly said with a hint of apparent nervousness.
+
+I nodded in agreement.
+
+"Anyway, this castle is actually a golem," Keldenar explained. "When I revealed your secret, you must have had some severe killing intent, as it sensed your hostility and reacted appropriately."
+
+"Your castle is a golem…" I muttered in disbelief.
+
+"Oh, trust me, when you are stuck with one class, you start trying to turn anything and everything into a golem. Plus, living inside a golem has given me the best rest in my life. I sleep like a baby."
+
+I chuckled nervously as I looked around. Maybe if I still had [Identify], I would have known I was walking straight into the lion's den back when I first arrived.

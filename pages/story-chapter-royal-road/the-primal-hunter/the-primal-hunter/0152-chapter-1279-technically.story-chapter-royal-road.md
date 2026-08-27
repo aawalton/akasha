@@ -1,0 +1,148 @@
+---
+id: 9ccacf13-a13e-57cb-a3a8-011710850d96
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1279 - Technically"
+slug: 0152-chapter-1279-technically
+partOf: the-primal-hunter
+position: 152
+ownLength: 2909
+unit: words
+ownProgress: 1579
+publishedAt: 2026-03-25
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3192723/chapter-1279-technically"
+royalRoadId: "3192723"
+---
+
+Human variants were generally pretty damn rare, as humans were so versatile in the first place. The human race could support most Paths, and regular skills tended to be enough, even allowing some physical changes.
+
+Importantly, having a variant human race wasn’t ”better” than just being a standard human. Jake was now a variant human, but his race gave the exact same stats as any other human, and no matter which human variant one got, those stats would never change. The stat allocation could change, but the total wouldn’t.
+
+Carmen also had a variant race; even though she still simply Identified as [Human], her variant likely granted far more physical stats than mental ones, courtesy of her Runemaiden Path. The biggest change with the variant human races tended to be found with what race skill they got upon evolution, as could be seen with Jake’s utterly overpowered Primal Spirit of Man.
+
+Usually, the skill wasn’t necessarily better either, just more specialized. Again, same as with Jake. Some Spirit of Man skills were clearly better than others, so there was some variance there, with Jake having clearly gotten the best one he could imagine.
+
+Even so, these variant races had very little impact on one’s Path compared to classes and professions, and were more an expression of one’s existing Path than a change in it. In instances like hers and even Jake’s, they remained human through and through despite their variance, at least enough so that their race name didn’t change.
+
+Arnold was slightly different. Upon laying eyes on the scientist, Jake instantly knew his variant evolution was different enough to even warrant a name change, something Identify quickly confirmed.
+
+[Void-Touched Human – lvl ???]
+
+It wasn’t surprising that Arnold had a skill to hide his level, either. A strong one at that, as with Jake’s Perception, he could usually get around those kinds of things.
+
+What did surprise Jake a little was that Arnold didn’t seem to have any physical changes despite now being a Void-Touched Human. At least it didn’t appear like he had at first, with the scientist standing there with his back turned.
+
+”You also evolved,” Arnold stated as he turned around while continuing to tinker with the weird pyramid in his hand. Parts of it could be turned and shifted, making it look like a fun fidget toy, though Jake assumed it was far more than just that.
+
+”Indeed. And so have you,” Jake also stated the obvious. ”Into a variant race no less.”
+
+Arnold nodded in confirmation. ”I estimated the merits of doing so to outweigh any demerits it might cause.”
+
+”Fair enough, though it does make me curious. What’s the difference? You look the same from where I’m standing,” Jake asked. Granted, Arnold was wearing a scientist’s robe and what looked like super-nerdy sunglasses that would have been fashionable fifty years before integration. They were very square.
+
+”Physiological differences look minimal from a cursory inspection, however…” Arnold began as he took out a scalpel from his spatial storage and proceeded to casually cut off a finger. Jake expected to see blood or at least something, but instead, the cut-off finger disappeared into nothingness the second it lost contact with Arnold’s body. As Jake looked at the stump left behind, he saw it was just a pure black color for a few seconds before a new finger seemingly popped into existence out of nothing.
+
+”As you can see, I do not appear to be a fully biological creature anymore,” Arnold explained. ”However, I am still human; it’s simply that most of what was flesh before has been replaced with energy constructs created from the void. I still possess a heart, lungs, brain, reproductive organs, and even if my digestive system is mostly gone, I retain the ability to consume foodstuffs.”
+
+Jake had not expected such a thorough explanation, and he had many follow-ups. ”What’s the advantage? Are your energy construct parts easier to heal or more durable?”
+
+”They are far simpler to reconstruct, yes, but as for durable, no, my resilience has dropped significantly. Fortunately, my important biological parts as well as my Soulshape are in a state of void-entanglement, making them exist both within the void and inside my body simultaneously, making healing those simple, and even in the event of this body being destroyed, I can easily reconstitute everything once more.”
+
+”I take it the demerit of this being the case is that your body doesn’t have the integrity to perform any physically demanding tasks?” Jake asked with a raised eyebrow, having some idea of what kind of variant human Arnold had become.
+
+”Indeed,” Arnold confirmed. ”From initial tests, even weaker C-grades are capable of doing serious damage to my body with physical blows, and if I attempt to strain my body, it risks falling apart, making any direct combat out of the question.”
+
+In other words, if someone like Jake had Arnold’s human variant, he wouldn’t even be able to fight anymore. His arm would dissolve whenever he attempted to shoot an arrow, and trying to hit someone with a katar would be useless, as he didn’t have a physically strong enough body to leverage the blow.
+
+”How about energy attacks?” Jake wondered.
+
+”Roughly equivalent to before,” Arnold answered. ”To clarify, I find physical attacks easiest to deal with, as healing any damage is far simpler than addressing harmful energies draining my resources. I’ve found that magical blows have a larger impact than physical ones, though it naturally depends on the potency of each attack and any concepts imbued.”
+
+”Let’s say your body is fully destroyed. How do you regenerate? And can you somewhat control where a wholly new body will reappear, or is it always in the exact location where it was initially destroyed?” Jake began to ask the kinds of questions he wasn’t sure Arnold was going to answer. He was curious, though, as he remembered this was one of Eron’s big weaknesses and how Jake had gotten the upper hand by trapping him in their ”fight” during the Treasure Hunt.
+
+Surprisingly, Arnold didn’t hesitate to answer, seemingly giving away one of his big trump cards. ”No, I can choose to appear anywhere I sufficiently perceive and have a large enough presence. Due to how much of my being is imbued within many of the constructs in this room, I would be able to reappear here if my body were fully destroyed. Assuming the space I’m destroyed in isn’t fully isolated, or I suffer severe soul damage during the process of my body being destroyed, that is.”
+
+”Damn,” Jake said, both due to Arnold actually answering that thoroughly, and because he could definitely see why this race variant suited Arnold nicely. Its downside would be devastation to someone like Jake, but Arnold wasn’t the kind of guy to pick up a sword and start hitting stuff. He instead made a big golem and gave that a sword to hit stuff.
+
+”Seems like a good choice,” Jake nodded. ”Especially seeing as it doesn’t come with you turning into some eldritch monster. From what I’ve seen of your fellow void-attuned fellows, that tends to be their fate.”
+
+”Unfortunately, I did not entirely escape physical alterations others might find mentally disruptive,” Arnold answered as he took off his pair of weird sunglasses. Instead of eyes, Jake saw two abyssal holes of swarming darkness that appeared to be filled with thousands, if not millions, of miniature eyes. Staring into them felt like staring at a heavily muted version of Oras, and while Jake wasn’t negatively affected, he did have a feeling that, should he stare too long, he would give himself a nasty headache.
+
+Arnold didn’t give Jake the time to find out if he would, as the scientist put the glasses back on, fully covering the two holes peering into the void that were now where his eyes had once been.
+
+”Yeah, wearing glasses is probably for the best,” Jake said with a nod. ”Unless you find yourself in a tricky situation. I could see an eye reveal having quite an effect if you pull your glasses off in the middle of a confrontation to buy you some time.”
+
+”From my experiments, that is not a valid option,” Arnold shot down Jake’s brilliant idea. ”B-grades don’t appear to be affected, especially not when in a heightened state of awareness, such as in the middle of combat. Weak C-grades have shown themselves to faint when directly viewing my eyes, but even an average C-grade will instinctively look away, lessening any potential effects to near nil.”
+
+”That sucks,” Jake muttered sadly. ”Does your new race have any other nice effects?”
+
+”Plenty, but none that I believe are overly relevant to share. If you are questioning whether my capabilities have increased, then the answer is yes.” Arnold didn’t volunteer to share any more of his secrets, making Jake think that the scientist was definitely still holding out on him. ”I take it you have come here with some form of request, or is this merely a social call to announce your own successful B-grade evolution?”
+
+”I do have a request, actually,” Jake said, figuring that if Arnold brought it up, he would gladly take advantage. ”My evolution was also quite nice, and one of the benefits is that I no longer require equipment that provides stats.”
+
+”So you want armor focused wholly on increasing defenses or other non-stat effects to increase your combat strength?” Arnold instantly understood what Jake was asking for. The scientist didn’t seem surprised that Jake had gained a skill that no longer required equipment, either.
+
+Neither Carmen nor the Sword Saint could get stats from equipment due to their skills, with the Sword Saint getting full benefits from wearing gear when wielding a sword, and considering Carmen was almost akin to a living piece of armor with that skin of hers, she naturally also had one. Jake saw no reason to mention that he had gained this effect as a result of his variant human race, as he still didn’t plan on sharing that he was a variant in the first place.
+
+”Exactly,” Jake smiled as he waved his hand and took out his Voidblade Katar. The weapon had served Jake ever since he got it after returning from Nevermore in preparation for the Prima Guardian fight. ”I was also wondering if you could take a look at this again.”
+
+”Certainly,” Arnold nodded as he waved his hand. Jake didn’t try to stop the scientist as the weapon disappeared from the hunter’s hand and appeared in Arnold’s. He looked it over quickly as he motioned for Jake to cut his connection with it, which he quickly did.
+
+”If you can make it work similarly, that would be best,” Jake said, already happy with what it currently did.
+
+The Voidblade Katar, despite being a legendary weapon, did nothing fancy at all. It was just a stupidly sharp weapon that was great at piercing through defenses due to it having a slight void affinity infused into the blade itself after being converted from Jake’s arcane affinity through whatever the hell kind of contraption Arnold had put in the handle.
+
+With a level requirement of 275, even as a legendary weapon, considering Jake’s stats and level of power, it was extremely impressive that the weapon had remained not only useful, but excellent all the way until he evolved to B-grade. Never once had it been a limitation or made Jake fear for it breaking. Not before now, anyway, as with his new evolution, he was very confident the weapon was no longer good enough.
+
+Fortunately, the same couldn’t be said about Eternal Hunger and his Apex Hunter’s Bow of the World Tree. Both weapons were capable of growing on their own, with Apex Hunter’s Bow growing simply from Jake’s own progress, and Eternal Hunger getting stronger every time Jake killed something and absorbed parts of his prey’s soul, empowering the Sin Curse within. They had also both benefitted here in the evolution and absorbed some energy – Eternal Hunger due to its link with Eternal Shadow – allowing both to get a great boost, making both instantly top-tier weapons even after Jake’s evolution.
+
+”Very well,” Arnold said after inspecting the weapon for a little while. ”Regarding the equipment, I do not currently have anything suitable, but I can begin work on a set if an agreement of proper compensation is reached.”
+
+Jake was about to say that he could reach out to Miranda and ask for what he wanted, but before he had the chance to, Arnold corrected himself.
+
+”On further consideration, further compensation is not needed,” the scientist said. ”Sandy informed me that you had also wished to hunt down the former resident of this core chamber, so let us simply agree that this shall serve to equalize for me stealing your prey.”
+
+”Sure, we can say that,” Jake quickly agreed. He’d already gotten over Arnold and Sandy killing the Ghostvine a long time ago, but it seemed like Arnold feared Jake was holding a grudge and wanted to do this to make them square. No reason to reject the man’s feelings.
+
+Feeling in a good mood, Jake smiled as there was one more thing he wondered. ”Say, I take it you managed to get a fair share of mythical skills in C-grade, right?”
+
+Arnold nodded in confirmation, making Jake grin as he followed up. ”Do you still have a fair share of mythical skills after evolving?”
+
+”Only one was downgraded, and a relatively inconsequential one,” Arnold answered, crossing his arms as the man definitely remembered their little encounter after Jake had just evolved to C-grade.
+
+”That’s great,” Jake nodded, his grin growing wilder. ”How about skills above mythical rarity? I assume you have at least one of those as well. Any downgrades there?”
+
+Jake knew that there was no fucking way Arnold had any sacred skills, and even if there was another rarity above mythical, perhaps parallel to sacred just without the divine aspect, Jake seriously doubted Arnold would have managed to-
+
+”No, all of them remained the same as before my evolution,” Arnold answered with a deadpan expression. ”To clarify, I even gained one such skill due to my new variant race.”
+
+It took Jake a moment as he just stared at the mad scientist, not seeing a hint of jest on his face. Arnold wasn’t the type to joke to begin with, so unless his new skill was one that made him into an award-winning actor, he was telling the truth.
+
+”What the fuck?” Jake exclaimed in pure disbelief. ”Is it a sacred rarity skill or something else?”
+
+Jake knew he wouldn’t be able to know if it wasn’t sacred rarity, but if Arnold had one similar to Jake’s, his question wouldn’t be considered Forbidden Knowledge. Wait, maybe there was some special void-related rarity Jake didn’t know about… yeah, that was possible.
+
+Arnold frowned as he shook his head. ”I believe you just attempted to share something considered Forbidden Knowledge. Interesting.”
+
+”Okay, so not that,” Jake muttered. Okay, he was getting more and more certain it was something void-related, because if not, Jake would feel like a damn fraud. It only had to be one, though, right? He had to know. ”Say, how many of these skills above mythical do you have?”
+
+The scientist looked in thought for a moment, perhaps checking his status, before answering. ”I do not wish to give you an exact number, but several.”
+
+”Again, what the fuck?” Jake was seriously beginning to question everything. Was Arnold somehow the secret disciple of the First Sage, or what?
+
+”I do not understand your surprise. These skills aren’t rare,” Arnold continued to talk casually. ”Upon further thought, I do not believe there are even D-grades without such skills, though of course effects and power vary despite them all sharing the same rarity.”
+
+By now, Jake realized something was definitely wrong, but Arnold still looked as serious as before, and not at all like he was fucking with Jake. Just as he was about to ask what the man was even talking about, he suddenly understood.
+
+”Please tell me you’re not talking about fucking unique skills,” Jake said in disbelief.
+
+”Hm?” Arnold raised an eyebrow. ”Naturally. Unique skills are technically considered both a higher and lower rarity than mythical, as their power can vary near-infinitely, and it’s not at all unnatural for one’s most Record-dense skill to be of unique rarity.”
+
+Jake just stared at Arnold for several moments, wanting to curse out the guy, and his deadpan expression plus absolute sincerity in his voice just made everything worse. A couple of seconds passed as Jake just sighed.
+
+”Contact me through Miranda when you have any updates on the weapon and equipment. If you need anything, you can also ask Miranda,” Jake said, knowing he had been defeated this time around.
+
+”I will,” Arnold nodded, either not noticing or not caring about Jake’s sudden mood shift. ”Do you plan on teleporting back to Earth, or are you flying?”
+
+”Neither… though I guess this could count as flying,” Jake said as he summoned his Wings of the Malefic Viper. The plan was to head back to the Order of the Malefic Viper now, but he had one last thing he wanted to see if he could do first:
+
+Make it all the way back to Earth using Wing’s escape function.

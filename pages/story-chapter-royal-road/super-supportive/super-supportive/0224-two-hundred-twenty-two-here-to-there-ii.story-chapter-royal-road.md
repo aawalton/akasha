@@ -1,0 +1,355 @@
+---
+id: e1c79bca-6551-5877-ba17-ef1ac52863e9
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED TWENTY-TWO: Here-to-There II"
+slug: 0224-two-hundred-twenty-two-here-to-there-ii
+partOf: super-supportive
+position: 224
+ownLength: 5086
+unit: words
+publishedAt: 2025-06-06
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2334028/two-hundred-twenty-two-here-to-there-ii"
+royalRoadId: "2334028"
+---
+
+***
+
+222
+
+***
+
+Two o’odee ran along with Alden as he bounded across their field. Stuart said the animals weren’t territorial, and they didn’t seem frightened. So he supposed it just felt good. Long scaled legs stretching, claws scratching soil and gouging up the dark spongey plants that grew in clumps all over the place—this was probably a jog for them. He was concentrating too hard on his task to enjoy it in the same way.
+
+He bounced more on one stride than he meant to and corrected with the next, keeping his eyes on the magic surfboard ahead. Its light sail was still at full size. He was almost close enough to call out and be sure the rider would hear him correctly.
+
+And if that didn’t work, he could catch all the way up to her. She wasn’t trying to escape from him; she just hadn’t gotten the hang of steering as well as her friend on the other windmemorizer. That one had curved close enough to the rear of the caravan for the rider to understand Stuart’s instructions for how to stop. This one had careened away again instead.
+
+Alden watched the rider make a too-sharp turn to avoid a young bird that still had fluff on its rump instead of the long, tendril-like feathers that the adults grew there. He took a huge leap toward her, fueled by a jolt of fear that she’d fall. But there was a piece on the light sail for her to hold, and she clung to it like she was glued even as her feet lost their place on the board’s surface.
+
+She’s fine, she’s fine! Almost there.
+
+She needed an airbag. Alden had an airbag. Maybe. He thought that was what Stuart had had in mind when he pulled out a senva seed, threaded a string through it, cast the cushion spell, and told Alden to preserve the seed because, “This might work.”
+
+It was around his neck now, demanding more of his authority than he thought a plain preserved seed should, but it wasn’t an enchanted object.
+
+Ingredient that was a key part of an active spell when I picked it up. And I haven’t got the Burden of Spell part of Bearer.
+
+He’d find out what happened if he fell.
+
+“Say, ‘Fold’!” he shouted. Another deep breath. “‘Fold!’ Say it!”
+
+The woman didn’t look his way. Her feet were back on the board, and it was lifting up into the air to go over an egg. Then its nose was turning toward him as it came down.
+
+He thought she hadn’t heard him, and now, with her pointing this way, they were only seconds from a collision.
+
+He’d dodge, then jump onto the windmemorizer if he had to. He was already positioning himself for that plan, still shouting, “Fold!” when the sail began to fold.
+
+She did hear.
+
+It was a process of tiny triangles of light blinking inwards toward the center, gradually slowing the vehicle. Or it had been like that with the other one. This one folded up much faster, jerking the board to a sudden halt. The woman lost her handhold this time, and Alden suddenly had a person flying toward him.
+
+Airbag? Airbag!
+
+He stuck out his arms to catch her, released the senva seed from his skill’s protection, and had just a moment to experience a little puff of magic pushing his arms farther apart and slowing her approach. Like an invisible marshmallow had expanded into the air in front of his chest and then vanished abruptly.
+
+He caught her more gently because of it, and then let her go as soon as he realized neither of them were going to hit the ground.
+
+They looked at each other.
+
+She was breathing fast, and the pink wraparound piece she wore over her shirt and pants had fallen open. A long fabric strip that had probably been a belt was dangling in a pile of o’odee poop. But other than that, and the alarm on her face that might have been her realizing that he wasn’t from around here, she was unharmed. She wore barrettes made of what looked like polished eggshells in her long dark hair, and they hadn’t even fallen out.
+
+Alden was pleased.
+
+“Hello. My name is Alden.”
+
+“Thank you,” she said after a second. Then, she bowed. “Thank you.”
+
+“I will speak your thanks to them,” he replied, indicating the pins on his shoulder.
+
+Having been shown the sigil that represented The Bearer of All Burdens, he was pretty sure the marks carved deep into the wooden pins were the symbols for Definer of Grooves, Transformer of Life to Water, and The Vatha Lantern. Stuart was wearing a set, too. Within their group, Alden was just Stuart’s company and a willing pair of hands, but the pins were supposed to imply that he had a more official purpose for being here than that. At the last minute, they had realized he fell into his own inexplicable category that would be confusing to everyone they met if they tried to correct assumptions instead of leaning into them.
+
+This woman would assume he was an Avowed hired to work for the knights and their votary today, summoned in a normal way.
+
+“You had to run so far!” She was back upright, looking across the field toward the distant caravan of vehicles. They were moving along, but a truck was stopped, waiting for the two of them to return. “It’s so far. I’m sorry.”
+
+“That distance?” Alden smiled. “I promise that doesn’t look far to me at all.”
+
+His o’odee running buddies were still going. The young one without the long tail feathers was trying to keep up with them.
+
+“Come on. Let’s take this thing back to Leeter… ” He’d forgotten the professional celebrant guy’s last name. “Leeter Wizard. His stripes are out, and he’s going to arrive at your own village’s Here-to-There before you if we don’t hurry.”
+
+******
+
+******
+
+Net balconies extended from the rooftops of the buildings that surrounded the place they called the village meet. It served as the town square, though it was a hexagon in shape, and Alden sat above it on one of those balconies, watching Stuart make his way over after checking on his three illustrious chicks like a worried o’odee hen.
+
+From up here, figuring out exactly what was going on between the knights and the villagers was difficult, but Alden was under the impression that each one was being slowly claimed as property of a different family. There had been a lot of socializing and bowing and introducing Stuart and pointing up at Alden, but now they’d each fallen into little groups of mixed-age people who looked like they could be related. And those groups were being given more space by the other locals around them.
+
+A similar thing was happening around some of the other wizards who’d been here when they arrived.
+
+Most of them were behaving more seriously than Leeter-zis, who lounged on a net across the meet, sometimes tossing little presents toward the people below. The other wizards were also more normally dressed than him. They nodded at the people who came to speak to them and threw occasional looks at the knights or at one another.
+
+Nobody seemed very concerned about Leeter-zis’s clowning around, though, and there were signs that others had plans in that direction for later. A wizard over near Emban had opened her plain black coat to fish something out of an inner pocket, and she had a bunch of flowers under there.
+
+I think we’re supposed to have business time and then party time, and Stripes Out is starting early.
+
+Stuart had made it over. He was looking up at Alden from below.
+
+[Want me to come down?] Alden texted.
+
+In reply, Stuart started climbing the ladder that draped down the side of the building to allow access to his perch.
+
+This was the only balcony that wasn’t crammed with people; it was just Alden and a trio of adolescents a little younger than Stuart. They’d definitely come up here to stare at him and tell all their friends they’d spoken to the Earthling, but he’d been duller than they’d expected and they’d gotten distracted with one another and their own chatter about whether or not the <<station>> was so crowded that nobody would care the Here-to-There was arriving.
+
+Stuart’s appearance seemed to spook the group, and they escaped by launching themselves at a ledge and then down the rest of the way. Stuart glanced at where they’d been, then crossed to sit by Alden, the flat straps that formed the net giving slightly beneath his weight.
+
+“Master Leeter-zis is throwing out the traveling snack before we leave. He is throwing it to people who may not even be in his care on the journey.” Stuart sounded so peeved about it.
+
+[He should be tied to his balcony and left behind as punishment,] Alden texted.
+
+“The day might proceed more <<tastefully>> if he was,” Stuart said. “…are you teasing me?”
+
+“I’m exaggerating,” said Alden. “Exaggeration is when a person says—”
+
+“It was internally painful to hear Noh explain that to you! I should have stopped her, but she was trying to be helpful.”
+
+“Is Leeter-zis really a master of something?”
+
+“Collective casting, according to one of the others who has met him in the past. Since he’s wearing no embroidery at all, and didn’t introduce himself with title, he may want to be addressed casually. Look! He’s throwing another one!”
+
+Alden watched a gold-wrapped bundle arc up from Leeter-zis’s balcony and land in the crowd. “It’s just a snack?”
+
+“You may have one of the ones I brought at the appropriate time. But don’t eat the yovkew.”
+
+So it’s trail mix. Traditional food of travelers and students enjoying a morning of study at the Rapport School library. How dare that man administer the trail mix ahead of schedule!
+
+“It’s going all right, isn’t it?” Alden asked to distract Stuart from the crime taking place. “The knights all seem to be getting along.”
+
+With people who don’t compliment them for matching up with their skill so well that they collect moths, anyway.
+
+“And we’ve already been helpful by stopping escaping windmemorizers,” he added. “Your senva seed cushion spell worked, but not like it usually does.”
+
+He described the effect. Stuart wanted details about what had happened, but he didn’t seem surprised by the outcome. Only thoughtful.
+
+“If a person moves the seed a short distance from where the spell was cast, the cushion fades quickly, but not that quickly. You were more than a short distance away, though.”
+
+More trail mix was falling, courtesy of one shirtless master wizard who was clearly ready for this event to get a move on to the next part. Stuart had turned to face Alden more fully and was spared from the sight.
+
+“Have you noticed more of what we practiced together in your new dreams yet?” he asked Alden.
+
+“I think so. I’m arranging the whole stories from small pieces still.”
+
+Usually, Stuart would have corrected his use of the word that meant something like arranging. Alden knew he wasn’t saying he was “piecing together the story” of the nightmare perfectly right. Bithe accusing him of mutilating the language must have been on Stuart’s mind, too.
+
+“I enjoyed purposeful practice with you.” Stuart lowered his voice. “If the dreams are enough as they are—may it be so for your healing—we could find a new goal to pursue together. If you would like that, too.”
+
+“What kinds of goals are you thinking of?”
+
+“Anything <<mutually interesting>>. A goal that spans a short time as the bokabv has, or one with fruit that ripens more slowly.”
+
+Not a bad idea. Though Alden wasn’t sure how mutual his mind healing goals were as far as shared activities went. He’d been enjoying the practice, meeting livestock, and even the long talks about what mind healing was like and how it could be beneficial. But it all still felt too much about him.
+
+“Can we do something that will be fun and help you prepare for…the important stuff ahead of you…at the same time?” He wished he hadn’t said fun. “Not fun if fun’s the wrong word. Something mutually interesting. I don’t know if there’s anything like that, but if there is?”
+
+The offer sounded much weaker out loud than it had in his head.
+
+“My trouble is that I’m already as prepared for first binding as I can be, and people don’t want to acknowledge it. I have done everything except for those things which require the <<cooperation>> of others. And since I understand that most of my family won’t believe I’m ready even after I’ve met their latest requests, I will move forward onto my path without imagining I can earn that support from them.” He looked down at Emban. “I’m so happy she seems to approve of our friendship! Maybe she will decide she approves of my other choices, too.”
+
+So plainly and decisively spoken until he got to the end there and that spark of optimism appeared.
+
+Stu-art’h is lonely. He wants his family’s help enough to make compromises and wait for a while. But his choosing season is over.
+
+Alden could see it like it was illuminated by the scorching sun over this village.
+
+I don’t understand why everyone thinks there’s still a chance of talking him out of it. This is not an uncertain person. He’s going to lie down under those trees and above whatever remains of the knights who’ve fed the roots.
+
+This is a thing that is going to happen.
+
+“Stuart, I… ”
+
+The sentence he’d begun had no sane ending. What was he trying to say when there was so much he shouldn’t say?
+
+Stuart waited, his expression open and curious.
+
+“I’m…wondering what preparations you can’t make without cooperation,” Alden said. “Are they important steps that would make your first binding easier? Safer?”
+
+“You already know about it. Mostly. As one who has declared, I would normally be spending much time with peers who’ve also chosen the path of highest onus. Other declared and knights close to my age. Social gatherings take place frequently. Squads begin to form, they study each other’s chosen skills, and many search for people they might be compatible with. As Emban does now.”
+
+Mentioning his cousin put him back in a votary frame of mind, and he spent a minute looking down at each of the knights, then calling Bithe to inform him that his coat had gotten caught on something he was wearing, hitching it up in the back and giving him a funny fabric roll over his butt.
+
+Bithe yanked it straight and kept talking with an old, old person who’d gotten comfortable with him fast. They were holding one of his hands and patting it while he spoke.
+
+“Bithe will offer protection and care to a household of assistants who leave this wizard after generations of service,” Stuart said. “The traditions are more important to them than to some others, and he cares about those as well.”
+
+“They’re keeping you from having all of that?” Alden asked quietly . That’s a lot to be left out of, Stuart.
+
+Stuart took a moment to respond. “It’s understandable that my time as a Declared has gone this way, when you know what they fear will happen. They try to discourage me for what they believe is my own good, but they also do it to protect themselves during a time when they will be struggling. Most of us raised in the Rapports survive first binding and the early years of our knighthood. But when someone does fall…it can become too much, with everything else, for those who most depended on them.”
+
+Alden swallowed.
+
+“When I live and show that I will thrive, things will change. And this is not as difficult as the experience of people who try to become knights after growing up outside of a Rapport. Many have begun that way and gone far, but more of them—”
+
+“Iiinnooooo! Village Master! Iiinnooooo!”
+
+The cry came from a man in Bithe’s group, and it was so loud that Alden jumped.
+
+“It’s starting. We should go down now,” Stuart said. “Move toward Bithe.”
+
+“A new day brings your people to your door!” the speaker called. “Our wizard is wanted. Come hear our needs, or we’ll forget your name.”
+
+******
+
+Alden and Stuart climbed down while the man repeated the iiinnooooo calls. A ch-ch-ch sound was rising from others, starting slow but growing faster as the two of them headed toward Bithe, who stood near the front patio of the village master’s house.
+
+The house took up one whole edge of the hexagonal space the crowd had filled. It was an edifice of connected blobs with domed tops, the white painted surface bouncing so much light that Alden dug into his bag for his sunglasses and held them up questioningly toward Stuart.
+
+[Rude to wear these?]
+
+“Of course not. Some people have on <<eyeshades>>.”
+
+Alden hadn’t noticed, but after he started looking for what Stuart meant, he spotted faces in shadows that didn’t seem to come from their surroundings. The only thing those people had in common were headbands, so he assumed those were the source of the shade.
+
+Reaching Bithe’s group didn’t take long since the crowd melted back at their approach, allowing them through. Emban and Ryada had eased forward toward the patio, too.
+
+To get a better view or because we need to be at the front?
+
+The family Bithe would be playing guardian for was still taking the lead on demanding the village master’s presence. As the calls for her to emerge became cacophonous, Alden stood quietly, watching. None of the wizards were joining in with the noise. Even Leeter-zis, now squatting at the edge of his balcony almost like he was preparing to spring off it, was silent.
+
+Finally, the wide, recessed section of one curved wall split in the middle and drew aside like curtains on a stage.
+
+The village master strode out onto the patio, and the sound stopped at once, except for the wrinkled old person beside Bithe giving a small gasp and clasping hands together over their stomach. “So beautiful, Tass!”
+
+The words weren’t loud, but they were excited. Alden caught a tiny lip quirk from Bithe.
+
+Was that an actual smile?
+
+A couple of the family members around them tittered.
+
+“Grandma-Grandma, don’t compliment her,” a woman with a short black braid whispered. “We’re supposed to be <<demanding>> more of her right now.”
+
+The grandmother made a sound Alden took as a scoff, and kept watching the approaching village master with a proud lift to her tattooed chin.
+
+Alden didn’t think beautiful was a word he would use to describe the person who stood before them with her eyes darting around to pick out people in the crowd, always landing together on the knights and lingering on each. She gave Alden the same treatment while he stared at her, too.
+
+Spectacular might be a better word. Flashy and over the top. She was clearly dressed for a performance, in gray and silver robes with a high collar and a fan of o’odee tail tendrils levitating at her back.
+
+Other wizards, dressed in the everyday-elaborate clothes Alden was more used to seeing, had exited the house behind her. They stood a few steps back while the village master lifted her hands, palms up as if she was offering the pair of white wands in them to the people who lived under her care.
+
+“Why have you all left your work?” she asked. “Why have you left your homes and your instructors? What have I failed you in, that you call upon me and threaten to forget my name?”
+
+The man in front of Bithe who’d led the call stepped forward.
+
+“Tass-ovekondo!” he shouted. “Master of this village! We are fed here, and we are taught here, and we are given purposes. Is it not so?”
+
+“So it is!” screamed the crowd.
+
+On Earth, Alden would have covered his ears at the volume.
+
+“But we have fears about the future. We imagine more fertile lands for our children. We hear of the greatness of other wizards, and believe they might welcome our labor and our company. Is it not so?”
+
+“So it is!”
+
+“The answers to these things are wanted on this morning. We expect to hear the voice of the wizard. Is it not so?”
+
+“So it is!” the people roared.
+
+Seconds after silence had returned, a new voice rang out.
+
+“My ears! My ears!” Ryada’s words were clear and strong. “Passing through this land, I have heard the sound of our peoples’ voices. Firstborn of the Mother, here before wizards, they now call on a wizard to give answer. I am a Knight of the Mother Planet, and I will hear that answer, too!”
+
+Bithe went right after her, repeating only the last part. Alden was distracted by Stuart motioning him closer to whisper in his ear.
+
+“I think you speak after me, but if Leeter-zis speaks after me, then you speak after the last wizard.”
+
+[What do I say?]
+
+“The same thing everyone else is saying.” With the next breath, Emban was finishing, and Stuart was going. “I serve as votary to these Knights of the Mother Planet, and I will hear that answer, too!”
+
+Not. Enough. Warning. Stuart.
+
+Alden whipped his head to look at Mr. Stripes Out, who seemed tickled that he was being considered. He flipped a hand in a little gesture that looked like it could mean, “Go ahead,” or, “Take your pick.”
+
+“I am an Avowed of Earth, and I will hear that answer, too!” Alden shouted as loud as he could.
+
+“I am a wizard passing through,” cried Leeter-zis, “and I—”
+
+Alden relaxed. He’d managed to say what he was without messing it up, and nobody seemed to think he should have gone with something fancier than “Avowed of Earth.” Twenty additional descriptors had clamored for his attention in that second, all of them phrases he’d heard used by humans or on the Triplanets to refer to Avowed. Even ones he didn’t care for, like “gifted with power and given to war.”
+
+What if I’d yelled that one? I’m a Rabbit. The knights aren’t even shouting about war. Bithe might murder me then apologize to everyone here for my windy mouth.
+
+He stayed vigilant after that, but his parts in the ceremony were never individual again. He shouted along with wizards and knights in response to the village master’s dramatic negotiations with her people. After he took a puff from the inhaler Stuart had gotten him, he could appreciate it all more. The inhaler was full of the same watermelony smelling potion used in the recovery sauna at North of North, and it really did help with the heat.
+
+There had to be much less amicable versions of this group play, even in modern times. When the village master confessed that she was no longer able to provide the best home for every person here, the other wizards did some very mild threatening:  “Do what is right, or we will be forced to protect these people from your wrongs!”
+
+But it was ended at once by her agreeing to the Here-to-There and beginning the farewells to the families who would go. The village population was being reduced by more than half, and every family with a child below a certain age was leaving. A few people received personalized thank you speeches and gifts—those who’d been her assistants and worked with her the most closely for many years.
+
+Alden didn’t know this community, but by the end, he was starting to feel like he did, as she told stories about how the first child to graduate from their school had gone on to become a healer’s assistant and the year none of the chicks would have survived a freak cold spell that came while the wizards were away except for everyone banding together to catch them and fill all the buildings with them.
+
+Her assistants were getting teary-eyed, and several of the wizards on the patio behind her seemed just as moved by it all.
+
+Except for one man who seemed annoyed with the whole thing. That was surprising since he was wearing a pair of o’odee tendrils. Alden had found out that those marked Tass-ovekondo’s children after eavesdropping on the grandmother beside Bithe, who whispered things out of turn to him and her family members frequently.
+
+Guess not everybody can be into long goodbyes.
+
+It was taking longer than Alden had expected, but he was judging the sour one anyway. This was the ceremony to mark the end of his mother’s life’s work. From all the shouting back and forth, it sounded like this old-fashioned allegiant village was winding down for good in the next decade or so.
+
+Dude could fake a smile.
+
+People being shits to parents who were in the act of doing something nice had been one of his more specific pet peeves since he was nine. That was when a boy in his class had flushed one of his own birthday cupcakes down a school toilet and called his mom stupid for getting the wrong superhero’s costume colors frosted on top. Alden hadn’t spoken to that kid for the rest of the year, which seemed like overkill now that he was older, but bereaved nine-year-olds had to do what they had to do.
+
+The pet peeve applies across the species barrier, he noted. And it’s still overkill. That guy could be in physical distress for all I know. Maybe he’s got a rock in his shoe, or one of his hidden potion vials has cracked, and it’s dripping acid on him, and that look he’s wearing is the only way he can hold out.
+
+He didn’t have to hold out much longer.
+
+Alden found himself dangerously close to the center of attention as the farewells ended with the family around Bithe. The bors. They were talented assistants who had already been accepted in similar roles by the new wizard.
+
+The grandmother was last of all. Uro-bor had been the supervisor of the village master’s household before Earth found out Artonans existed. She’d also been present for the birth of Tass-ovekondo’s babies, and now that she’d retired, she was still prone to stopping by and checking to make sure everything was running smoothly.
+
+“Even if she does pretend it’s only for wevvi!” The village master looked to Bithe. “Hn’tyon, will you make sure this one and her family make it safely to their new home?”
+
+“I will. I will make sure that they make it there and that their every need is met until their family stone is placed,” he said.
+
+Does he sound choked up? Alden couldn’t see any sign of it on Bithe’s face, so it was probably his imagination.
+
+All the wizards promised to care for a collection of specific people on the way, then they promised to care for the entire traveling party if they saw anyone in need. Then Leeter-zis promised the afterparty would be so awesome that everyone would just want to move right back here so that they could have another one, and with much laughter, cheering, and many goodbyes, the Here-to-There was officially underway.
+
+******
+
+******
+
+While the crowd was still clearing out of the village meet, the knights, Leeter-zis, and the assistants who would be departing had a more personal meeting with Tass-ovekondo. Her family and friends were trying to play it cool, but they were overcome with delight that knights, even such young ones, were interested in being a part of the special day.
+
+Right up until they heard the art’h surname, at which point Alden was sure the emotion switched to just being overcome. The village master herself, though, was even more excited by it.
+
+“Look at you all!” she said, swinging around and almost catching Leeter-zis with a tendril feather. “So young and on the bravest of paths. And you! Human man!”
+
+That’s me. I am human man. He smiled and nodded in acknowledgement.
+
+“I’m so happy you are here to see this! No one from your world has ever seen my village. What do you think?”
+
+“It’s beautiful.”
+
+“He chased Sopee through the field as fast as an o’odee!” old Uro-bor said. “She swooped off on a contraption from this Leeter-zis Celebrant and could not stop.”
+
+Before Alden knew it, he was being hailed as a minor hero, and the knights were being thanked for his service, and Emban was graciously giving the thanks back to Alden, and then he was holding a carved eggshell of his very own that he wasn’t sure what to do with.
+
+This isn’t going to fit in with my dorm room…
+
+It was also an eggshell, one of the worst possible items to carry on a moving day when you would be helping haul stones from peoples’ houses. He was almost positive they were talking about actual slabs of rock, something like the hearthstone the art’hs had that visitors to the house could bleed on, but probably more mundane.
+
+I am the perfect person for a job like this in one way. I’ll preserve the shell along with whatever else I’m carrying, and when I’m—
+
+A soft cry made him look away from his eggy problem toward the place where Tass-ovekondo stood. She had leaned forward to press her forehead to Uro-bor’s. Both of their hands were wrapped together around one of the wands the village master had held out toward the crowd earlier.
+
+“Mother!” the man who’d seemed annoyed all morning exclaimed. “You’re not going to—?!”
+
+A vicious hiss came from one of the man’s siblings, who was glaring daggers at him. The man gritted his teeth and looked aside. A lime green auriad was wrapped around his fingers.
+
+Did he wear it there earlier?
+
+Alden was the only one paying much attention to that side of the patio. Everyone else was very focused on the two women holding the wand.
+
+“We will both close our eyes in the coming years, won’t we?” the village master said to her former assistant. “Take this piece of me with you, dear Uro-bor, so that we will be under the same roof when the time comes.”
+
+******

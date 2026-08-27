@@ -1,0 +1,641 @@
+---
+id: 66436264-d9d2-59ec-8ae6-bfa748018362
+page-type-slug: story-chapter-royal-road
+title: "Chapter 113: Of Skewers, Shinies, and Slightly Too Much Meat"
+slug: 0114-chapter-113-of-skewers-shinies-and-slightly-too
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 114
+ownLength: 2543
+unit: words
+publishedAt: 2026-03-23
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3185202/chapter-113-of-skewers-shinies-and-slightly-too"
+royalRoadId: "3185202"
+---
+
+PoV Luna
+
+The next morning had started good.
+
+Really good!
+
+Warm, soft, and full of snuggles!
+
+And Luna even won the Mlem Battle with Trianna! And got some proper mlems in–
+
+–But only after transforming.
+
+It was an important step, very important, Second insisted!
+
+But Luna didn’t mind!
+
+It led to much fun!
+
+And laughter! Then scritches with tickles.
+
+With very important promises!
+
+Yes, the importantererest!
+
+The promise of food later!
+
+Hehe!
+
+And after all that, when she had a little moment to pant and rest up after the morning fun–
+
+Luna noticed she could still taste all the yummy soup she had last night. It always amazed her just how different each one could be, and yet still be called soup!
+
+Mhm!
+
+That one was sour, with cabbage and meat, plenty of it!
+
+Luna approved, yes.
+
+And with a morning like that…
+
+Luna was in a very good mood. Awoomazingly good!
+
+So good her tail had not stopped wagging since!
+
+Now she padded through the town again, lighter than before, a little bounce in every step as the sounds of the street filled her ears. Clatter of carts, voices, footsteps, the layered hum of many humans doing many things that Luna really did not care about.
+
+But which humans did anyhow!
+
+Much confuse.
+
+But they also did fun things!
+
+Like make spices and tasty food.
+
+That Luna approved!
+
+The ant drop-off had been easy. Luna had watched for a moment, making sure the people handling them were doing it right – though she still wasn’t entirely convinced they knew how to properly deal with good crunchy things if they weren’t biting them.
+
+Still, they somehow did it, with some weird tools, saws, and stuff.
+
+Very suspicious behavior!
+
+But after confirming that yes, Ants were becoming proper Ant pieces, Luna was happy enough to deposit a lot of them again, then bounce out of the Guild.
+
+To do important Luna things!
+
+Like finding proper means of coin distribution!
+
+Luna reached down and poked at the small pouch hanging at her side, making it jingle.
+
+Her coins! Coins for Luna.
+
+Coins given specifically to Luna by her awoomazing Second!
+
+Luna’s coins!
+
+“For whatever you like,” said Second!
+
+Her tail picked up speed again, even as her eyes sparkled happily.
+
+Whatever was a very big category.
+
+Extremely big!
+
+Possibly too big.
+
+Because Luna totally wanted all the tasties, and there were only so many coins!
+
+Yet as she pondered just what to buy with all of them, Luna slowed a little, ears flicking back and forth…
+
+Her thoughts wandered briefly back to yesterday – to all the running, fighting, sparring, and all the fun shadow games! Her shadows had felt better now too. Stronger. Faster. More… wiggly.
+
+In a good way!
+
+Responding properly and more eager than before!
+
+Luna recalled the level ups she got after drinking up the mana potion the day before.
+
+【Shadow Cloak Lv. 2 → Lv. 3】
+
+【Shadow Step Lv. 13 → Lv. 14】
+
+【Shadowmeld Lv.13 → Lv.14】
+
+Very impawssive!
+
+And fun too.
+
+She grinned to herself.
+
+“Luna is getting good! Apex Predator good,” she said quietly, nodding once.
+
+A passing person gave her a look. Luna ignored them. Not important.
+
+Woo…
+
+Luna needs to focus!
+
+This was important Apex Predator coin business!
+
+What to do next?
+
+Her stomach answered before her head could.
+
+In a low, firm growl.
+
+Ah, yes!
+
+Food was always good choice!
+
+The bestest.
+
+But not just any food! That would not do.
+
+Her nose twitched.
+
+And Luna inhaled, once.
+
+Then deeper, drawing in the air properly, sorting through the mess of smells until–
+
+There! She found the familiar one.
+
+It smelled of a promised land of things–
+
+Warm. Smoky. Spicy.
+
+Perfect!
+
+Her ears shot up, even as another gurgle escaped her stomach.
+
+It was time to visit the best cook Luna knew!
+
+Mister Stall Owner!
+
+Luna didn’t hesitate.
+
+She zoomed.
+
+***
+
+The stall came into view with its familiar glow of flickering firelight. With skewers turning slowly over coals, fat sizzling and dripping down with that beautiful, beautiful sound.
+
+And an absolutely awoomazing smell!
+
+Luna skidded to a stop right in front of it, tail wagging so hard it nearly threw her off balance.
+
+“Mister Stall Owner!”
+
+The man looked up from the grill, already smiling before he even fully focused on her.
+
+“Well now, there she is again. And it’s Grevan! Gre-van!”
+
+Luna stepped forward immediately, already reaching for her pouch.
+
+“Food,” she said with complete certainty, ignoring the name part entirely.
+
+“Sigh. Alright, food it is,” Grevan knew where to pick his battles.
+
+And this particular little wolf girl seemed far too hungry to care.
+
+Coins clinked as Luna dropped them onto the counter, a bit more enthusiastically than strictly necessary.
+
+“Many skewers!”
+
+He chuckled, already turning back to the grill.
+
+“Hungry, huh?”
+
+“Yes, Luna always hungry!”
+
+The first skewer was handed over.
+
+Luna took it respectfully, and bit down with no delay.
+
+Her eyes closed instantly.
+
+“Mmmmmm!”
+
+Warmth spread through her, spice hitting her tongue just right, the meat soft and juicy with just enough crisp at the edges.
+
+Perfect.
+
+A few quick chews…
+
+And it was gone.
+
+She stared at the empty stick for a moment, considering it.
+
+Then looked back up.
+
+“More!”
+
+The man laughed and handed over another.
+
+And another!
+
+Luna ate them all with growing enthusiasm, tail wagging, little pleased sounds slipping out between bites as she worked through them with increasing speed.
+
+“Ish very tasty,” she said mid-chew. “Mr. Stall Owner is great cook! Much spice. Great chew. Good balance. Very nice!”
+
+Grevan blinked once at that.
+
+Then laughed louder.
+
+“Well, I’ll take that kind of praise any day.”
+
+Luna nodded firmly. Praise was important, Luna liked it too! And good food deserved proper recognition.
+
+But she was far from done.
+
+Not even close!
+
+She swallowed the last bite, licked her fingers clean, then reached into her shadow.
+
+And pulled.
+
+A carcass dropped onto the ground beside the stall with a heavy thump.
+
+The stall owner’s gaze shifted down.
+
+Then back up.
+
+“…Ah. So that’s your play again. Well, do show what else you have in there?”
+
+Luna beamed.
+
+And did just so!
+
+Thump.
+
+“This.”
+
+Thud.
+
+“And this one too!”
+
+Thump.
+
+The pile began to grow.
+
+Grevan crossed his arms, watching with mild curiosity rather than surprise this time.
+
+“Hunting’s been good, I take it?”
+
+“Very good,” Luna confirmed proudly, already reaching back in.
+
+Another carcass hit the ground.
+
+But Luna wanted the stronger meat to be cooked first, not just variety!
+
+So she took out one of her most recent big hunts.
+
+The man leaned slightly to the side, eyeing that one.
+
+“…Isn’t that a little too much? I can’t really cook much more than that.”
+
+Luna paused mid-motion, tilting her head as she considered it.
+
+“…Just a little bit more? Please, Mister Grevan?.”
+
+“NOW you use my name, eh? Cheeky kid. Sure, a little more won’t hurt.”
+
+“Yesh!”
+
+Luna quickly took out just a part from each of her strong hunts, she wanted to try them all done all proper and nice soon.
+
+“There! That’s all now!”
+
+He huffed a quiet laugh.
+
+“Yep. Haven’t seen some of those things before, but meat is meat. And I can get that pile done and cooked soon enough.”
+
+Luna beamed, entirely satisfied with the prospect of future delicious tasting meats of all sorts!
+
+It was a very productive morning indeed.
+
+***
+
+PoV Grevan
+
+Grevan watched the girl bounce away down the street, tail wagging with a level of enthusiasm he hardly ever expected anybody to have for his cooking.
+
+It was a nice feeling, to be appreciated.
+
+Still…
+
+He glanced down at the pile of what had to be one of the most varied mixes of monsters he had ever seen. From little critters to a boar and big chunks of some clearly much larger monsters.
+
+…Stronger too.
+
+He looked back at where she disappeared.
+
+Then down again.
+
+“…Right.”
+
+This would normally be a full day’s work… For anybody else.
+
+For him, it would be ready in just a few hours.
+
+He crouched slightly, giving the pile a more proper look now that he had the time.
+
+Different beasts. Different cuts. Some clean, some… less so. Fur, scales, chitin, even one thing that looked like it might have had too many legs when it was still moving.
+
+Grevan reached out and nudged one of the larger pieces with the tip of his knife.
+
+Firm. And still fresh too.
+
+What a wonderful skill the girl had.
+
+“Huh.”
+
+He grinned.
+
+Now this would be interesting.
+
+He had hardly seen half of these before. Or at least not up close enough to cook them. Some of it would take a bit of figuring out. Different textures, different fat, different ways it might react to heat.
+
+Could be tricky.
+
+But it would also be fun.
+
+The last batch even got him a skill level after so long. And he would be lying if he wasn’t excited to try his hand at some of those.
+
+Around him, a few people had slowed down again, casting curious glances at the large mound of beasties beside his stall.
+
+One man lingered a bit too long, eyeing one of the bigger pieces.
+
+Grevan didn’t even look at him.
+
+“Move along,” he said casually, already picking up his knife. “Unless you’re planning to help.”
+
+The man snorted and walked off.
+
+The rest followed soon enough.
+
+Good.
+
+Less distraction.
+
+He glanced once more in the direction the girl had gone.
+
+“…Where does she even put all that?”
+
+A pause.
+
+Then a snort.
+
+“The better question is – how much more does she have?”
+
+He didn’t think he wanted to know.
+
+Instead, Grevan rolled his shoulders once, then set his Skills to work.
+
+***
+
+PoV Luna:
+
+Luna bounced happily down the street.
+
+Food was coming!
+
+Lots of food.
+
+Good food.
+
+Very good food!
+
+Her tail wagged in a steady rhythm as she moved, the taste of spice still lingering on her tongue. She licked her lips once, remembering the skewers, the warmth, the chew–
+
+Yes.
+
+Very good decision!
+
+But then–
+
+She slowed down, and her ears flicked.
+
+Her thoughts, which had been happily full of food and future food and even more food… shifted.
+
+To different thoughts about food!
+
+Because.
+
+Luna tilted her head slightly as she walked, eyes unfocusing just a bit as she thought it through.
+
+She had given Mr Grevan… a lot.
+
+A proper good pile.
+
+But then she had been told to stop!
+
+Her tail slowed.
+
+Then stilled for a moment.
+
+“…Too much?” she muttered quietly.
+
+That didn’t feel right.
+
+Could there be such a thing as too much meat? That’s like saying there could be too much spice! Or too much fun!
+
+Or cuddles and mlems!
+
+Unacceptable!
+
+And very wrong.
+
+But Mister Grevan had said no more. And Luna knew better than to push.
+
+Still…
+
+Not even a tenth had been taken out!
+
+Barely anything, really.
+
+Her ears flicked again.
+
+But then–
+
+What would happen to meat that was too much?
+
+Luna still planned to hunt more too!
+
+Her nose wrinkled at the thought.
+
+It would be…
+
+A complete tragedy!
+
+And a waste of good chewy goodies!
+
+Her tail gave a sharp flick.
+
+Unacceptable!
+
+She slowed further, thinking harder now.
+
+Cooking just took time, Luna knew. And Mister Grevan was alone. So it all made sense!
+
+Or at least more sense.
+
+Luna nodded slowly.
+
+Yes.
+
+Humans had limits.
+
+Strange, unfortunate limits.
+
+Like not having proper claws!
+
+Or not being able to bite things correctly.
+
+And cooking was, apparently, much the same.
+
+Luna hummed quietly to herself.
+
+“...But if humans had limits, and one Mister Stall Owner was only able to cook a pile about that big– Then–”
+
+Luna tried counting. Then again, on fingers!
+
+And an idea formed in her mind.
+
+Yes!
+
+Luna was a genius!
+
+No food would go to waste!
+
+Ehehe!
+
+***
+
+Luna returned to her pack with the new plan set aside – and skewers!
+
+She still had five left, one for each of them, by the time she found them, weaving easily through the streets by scent alone. Metal, leather, dust, people… and then pack. Familiar, steady, and safe. Her tail picked up immediately, her steps turning lighter as she closed the last bit of distance.
+
+“Luna is back!” she announced, already stepping in.
+
+Trianna looked up first, smiling at her.
+
+“We can see that, little wolf.”
+
+“And smell it,” Sepio added dryly, though there was no real bite to it.
+
+Luna ignored that entirely, already holding up one of the skewers like an offering.
+
+Trianna leaned in and stole a bite before Luna could react.
+
+Luna froze.
+
+Looked at the skewer.
+
+Then at Trianna.
+
+Betrayal!
+
+Luna puffed up her cheeks.
+
+It was meant for them in the first place. But being stolen from just before felt so wrong!
+
+Hmph!
+
+She shoved the skewer into Trianna’s hand, then hopped around giving each of her pack one.
+
+Even to the grumpy Sepio!
+
+Her Second even praised her for it, and ruffled her hair.
+
+Ehehe.
+
+That felt nice!
+
+Only then did her attention shift.
+
+Her Second had some things laid out.
+
+Many things!
+
+Small glass vials, arranged neatly in rows, each one filled with liquid that caught the light in different ways – some dull, some bright, some faintly glowing. The air around them smelled sharp and strange, layered with something that made Luna’s nose twitch.
+
+Magic.
+
+Her ears perked as she crouched slightly to get closer.
+
+“Potion thingies ready?”
+
+“Some of them, yes,” Syl replied, not looking up at first as she adjusted one of the vials slightly.
+
+“And those are for training, for you and the others.”
+
+“Oh! Training!”
+
+Luna liked that. It was super fun!
+
+Her tail swayed slowly behind her as she leaned a little closer, eyes flicking between the little glass bottles. They smelled strange, sharp and twisty in the nose, but also useful. Very useful.
+
+Especially the tingly blue ones.
+
+Those Luna knew very well!
+
+They were very useful.
+
+And let Luna do more things more often!
+
+Syl finally looked up at her, catching that look immediately.
+
+“Yes, training,” she said, tone calm but already a little knowing. “We will be taking on simpler requests for now, and using the leftover time to get some proper training in.”
+
+Luna tilted her head.
+
+But wouldn’t that mean…
+
+“…Less hunting?”
+
+“A bit,” Trianna admitted from the side, chewing on her skewer. “But that’s the point!”
+
+Veric huffed.
+
+“We’re not doing it for the challenge. We’re doing it for the practice.”
+
+Sepio nodded once.
+
+“And to get some Skills up.”
+
+Hrm…Hrrrymm!
+
+Less hunting felt wrong.
+
+Not Apex Predator enough!
+
+But training was fun, and the fighting would still be there!
+
+Her tail picked up speed again.
+
+Aha!
+
+“So more fight after fight?” she asked, just to be sure.
+
+Syl’s lips curved faintly, and she picked Luna up, sitting her down into her lap.
+
+“Yes. You could say so.”
+
+Luna nodded, very seriously.
+
+“Luna understands!”
+
+“Good girl.”
+
+A hug and pleasant scritches followed!
+
+And suddenly Luna didn’t feel like questioning things anymore.
+
+It was just too–
+
+Wooo–
+
+Nice!
+
+Luna wondered what games they would play during ‘training’ next!
+
+And how to trip up Sepio unnoticed.
+
+Ehehe!
+
+Yes, Luna could hardly wait!

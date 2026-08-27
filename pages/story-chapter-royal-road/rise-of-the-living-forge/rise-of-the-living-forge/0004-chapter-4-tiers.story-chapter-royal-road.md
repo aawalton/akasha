@@ -1,0 +1,154 @@
+---
+id: e521aa89-2d3b-513c-82e2-637a0e5ede51
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4: Tiers"
+partOf: rise-of-the-living-forge
+position: 4
+ownLength: 2267
+unit: words
+ownProgress: 2267
+publishedAt: 2023-12-30
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1460015/chapter-4-tiers"
+royalRoadId: "1460015"
+markedReadAt: "2026-06-29T19:58:35.165Z"
+---
+
+Fire roared in Arwin’s hearth. He’d heated the hearth for the last twenty minutes, burning the wood within it to a crisp and bringing the piece of metal within it to a orange-red. There wasn’t much charcoal left to burn in the first place – he was pretty sure his hearth would be out of fuel within the hour, but Arwin was determined to get everything he could out of it before his time ran out.
+
+The brick of metal that he’d selected from the pile was far from perfect. Even he could see the imperfections running through it, but it wasn’t like there was a manual he could reference.
+
+Practice makes perfect.
+
+Arwin grabbed the brick with his tongs, moving it over to the anvil and grabbing the hammer. He was a little drained from the fight, but there was still more than enough energy left in his body to power [Scourge] for a short while.
+
+The sound of ringing metal filled the old smithy as Arwin beat away at the brick, doing his best to shape it to his desires. Unfortunately, his best wasn’t quite, well, the best. It was definitely taking on some semblance of a dagger, but that was about where it ended.
+
+What should have been a straight blade was jagged and chipped, and the handle was more of a blobby tube. He hadn’t even bothered trying to make a hilt – that was beyond him at the moment.
+
+He’d been at it for about an hour. The hearth was dying down to embers, and his reserves of magical energy had almost completely been drained. For the last half of the hour, he’d just been beating away at the dagger with his normal strength.
+
+With no more fire to reheat the weapon, Arwin was forced to lower the hammer and study his creation. He was pretty sure he was meant to quench it to ensure the steel cooled properly or something along those lines, but he doubted the dagger could actually get worse.
+
+It’s hideous.
+
+And, worse, when Arwin studied it, the Mesh gave him nothing. The weapon wasn’t magical. It was just a dagger. But, in spite of all that, he couldn’t keep a grin from his face. He’d made something.
+
+Instead of taking life, he’d created something, purely because he wanted to. And, as far as daggers went, he was pretty sure this one wouldn’t be killing anyone anytime soon. A satisfied chuckle slipped from his lips as he walked in a circle around the anvil.
+
+Reya watched him with a mildly confused expression on her face, but she didn’t say anything. A few minutes passed before Arwin touched the dagger with the back of his hand, making sure it was cool enough to hold before picking it up.
+
+“It’s… nice,” Reya said hesitantly.
+
+“It is a good start,” Arwin agreed. “And, speaking of starts, I think you should get one as well.”
+
+She scrambled to her feet, straightening out her shirt and giving him a sharp salute. “Yes, sir.”
+
+Arwin stared at her. “What are you doing?”
+
+“Saluting.”
+
+“Don’t.”
+
+Reya let her hand drop. “Okay. I thought we might be mercenaries since we weren’t a gang.”
+
+“That’s not how – ah, never mind. I want you to get information of everyone that lives on this street. Do you think you could do that safely?”
+
+Reya gave Arwin a sharp nod. “Yeah, sure. I already know some of it, so I don’t think it should be too hard. I can figure it out by tomorrow.”
+
+That fast?
+
+Arwin didn’t bother questioning her. He just shrugged. “I’ll be here. Probably.”
+
+With one final nod, Reya turned and jogged out the door. Once she left, Arwin turned back to the bodies that were starting to stink up his shop and scrunched his nose in distaste.
+
+I’m not used to having to dispose of the kills I leave behind. I wonder if there’s a ditch somewhere I can toss them into. I definitely don’t want to go around dragging a corpse behind me in broad daylight, though. Good way to piss off a guard. But first… they’ve got some clothes. Waste not, want not.
+
+***
+
+There was indeed a ditch. It was down the street and behind a crumbling stone building one firm breeze away from collapse. While it wasn’t as deep as Arwin had hoped, it was still more than enough to toss a few naked bodies into. Their clothes now rested in a corner of his smithy, with one set having replaced the rags that Arwin had been wearing.
+
+He shoved some dirt over the top of the corpses, moving just enough to cover them before heading back to the forge. Arwin couldn’t be bothered giving them a proper burial – it would have taken too long, and there were other things he wanted to do.
+
+Criminals, the Guild’s adventurers, monsters; is there really any difference? Nobody gave my friends proper burials when they died. It’s just life – and I don’t want anything more with the guild, the monsters, or any of that. Not yet, at least. Not until I’m ready to make them pay for what they did.
+
+Arwin paused by a wooden building on his way back to the smithy. He glanced around, but the street was completely empty. He poked his head inside, but it was just as desolate as the street.
+
+“Well, it’s not like anyone is living here,” Arwin mused. He didn’t even want to risk going too far inside, so he gathered as much fallen wood as he could carry, then piled it into his arms and lugged everything back to his smithy.
+
+The pathetic excuse for a dagger that he had forged wasn’t enough. It was a start, but Arwin had never been a fan of mediocrity. As soon as he got back, he added some of the wood into the hearth and brushed the splinters out of his shirt and arms.
+
+I still need oil to quench the stuff I forge, but that can come later. Right now, I just need to work on my technique.
+
+Arwin struck the flint with his shoddy dagger and a spark leapt onto the dry wood. It caught quickly, and he turned his attention to the bellows, pumping air into the flame. He couldn’t help but notice the cracks running along the leather that made up the back of his bellows.
+
+It probably wouldn’t be too long before they broke, but that was another problem for later. Right now, the only thing that mattered was practice. Sweat beaded at Arwin’s brow as he worked the forge.
+
+Minutes stretched on. The ringing of his hammer filled the forge, bearing with it a strange but welcome sense of peace. All but smithing faded, leaving Arwin in a trance as he worked.
+
+As his hammer rose and fell, he could start to see another dagger take shape before him. Every blow he made felt more intentional – and more effective. He alternated between using [Scourge] and just striking the metal purely on instinct, immersing himself completely in the process.
+
+In and out of the flames the block of metal went, taking more and more shape with every pass. At some point, Arwin finished. He barely even registered it. The new dagger was better than the first, but it still wasn’t what he wanted.
+
+Not even stopping for a rest, Arwin grabbed another piece of scrap metal and threw it into the hearth.
+
+The cycle continued. Hours ground by, and daggers piled at Arwin’s feet. He replaced the wood in the forge as it burned away, chewing through his pile of liberated fuel without even realizing it. The bellows groaned and creaked with every movement, but still Arwin ground on.
+
+His entire upper body was soaked with sweat, but there was something primal about the whole process. A grin pulled across his face, growing wider with every strike until he was nearly laughing with joy.
+
+Forging felt incredible. He was exerting his will on a mere block of metal, and that block was transforming into the item that he envisioned within his mind. And, with every ringing strike, Arwin could tell he understood the material he was working with just a little better.
+
+It was brittle and of poor quality, but just as Arwin desired to form it into something more than trash, the metal had similar longing. He wouldn’t claim that the metal lived, but he would have sworn on his life that it desired.
+
+Just like everything else, the metal sought a purpose. It was more than trash, but it had been left to rot for who knew how long. To a random smith, the voice of the metal likely would have been indiscernible – but Arwin was not just an amateur smith. He was potential. And, once he started to understand the longing of the metal, the world shifted.
+
+Parts of the metal glowed. At first, Arwin thought it to be residual heat from the forge, but he quickly realized that it was a different light. This one was a faint, warm yellow as opposed to the cherry red of the hearth.
+
+Every time Arwin’s hammer struck, the changes to the dagger became even more noticeable. The metal was telling him what it wanted to be. It was guiding his hand.
+
+And, as Arwin raised his hammer to deliver another blow, he paused. The glow had vanished. He had no idea how long he’d been working on the blade, but the fire in the forge had dwindled to dull embers.
+
+A dagger sat on the anvil before him, and it actually looked like a dagger. It was plain and didn’t even have a hilt, but it was a dagger – just one without an edge. Arwin’s eyes scanned the room in search of something to sharpen the blade with, and they landed on a circular stone in the corner of the room that he’d overlooked before.
+
+Walking over to it, Arwin was mildly relieved to find that it was indeed a whetstone. He was less relieved to find it was barely in workable condition, but anything was better than nothing. He worked the blade of the dagger against the stone, alternating sides and slowly bringing a sharp edge to the blade.
+
+His efforts were slow, and they smarted of inexperience, but the dagger sharpened, nonetheless. And, after some time, he found himself holding a piece of metal that could be considered a completed product.
+
+Before Arwin could so much as smile, he felt something stir within him as the Mesh burst forth.
+
+[Dagger: Poor Quality] has been forged. Forging a magical item has granted you energy.
+
+Your Tier has raised by 1 rank.
+
+[Broken Bearer of Last Light] has been consumed.
+
+Arwin’s laughter echoed through the forge. The Mesh had recognized his efforts. He’d created another magical item, and this time entirely without the Mesh just handing it to him. Arwin picked the dagger up and inspected it.
+
+Dagger: Poor Quality
+
+[Awoken]: This item has taken on life of its own. With every death it causes, it will grow slightly more powerful. Upon reaching [Unknown] threshold, it will be able to bond with its wielder.
+
+“Fascinating,” Arwin breathed, holding the dagger out before him and watching the ember light reflect off its blade. He’d seen many weapons in his years of work. He’d wielded artifacts that could topple cities and tossed them aside when even more powerful ones came along – but not once had he ever seen one that lived, much less had the potential to change. It wasn’t much now, but with enough time, it could become quite an interesting weapon.
+
+Not bad at all. Maybe I can sell this for a bit of gold and get a few improvements to the smithy. I’ll have to find out how fast it grows. If it’s fast, it might be incredibly expensive. I have no need for a dagger, but this has immense potential.
+
+Arwin set the dagger back down, then turned his eyes back to the forge. His eyes flicked over to the remainder of his dwindling wood pile. There was still more scrap, there was still more wood, and the night was still young.
+
+But first, I have more power to work with. When was the last time I was excited about growing stronger? I can’t remember, but I can’t wait to see what skills I can unlock.
+
+The Mesh bloomed before Arwin, golden letters scrawling through the air before his eyes.
+
+Name: Arwin Tyrr
+
+Class: Living Forge (Unique) (Tier: Apprentice 2)
+
+New Skill Choice Available.
+
+Arwin reached out to see what new skills he could earn. As soon as his finger touched the golden lettering, it dissipated into dozens of little motes of light that formed into new words.
+
+You may select one of the following skills.
+
+[Hammering Blows] (Passive) – Your efforts in the smithy have granted you increased strength and efficiency. All hammer strikes will be stronger and faster, scaling based off your Tier.
+
+[Soul Flame] – Passion burns within you with such intensity that it can heat metal. You may draw out your Soul Flame, empowering the fire of your forge, but be wary – any magical damage done to the Soul Flame will transfer onto your soul.
+
+[Avenging Strike] – War is no stranger to you, and your hammer crushes bones and metal alike. Spend a portion of magical energy to empower your next hammer strike. It will strike living beings harder than non-living ones, scaling based off your Tier.

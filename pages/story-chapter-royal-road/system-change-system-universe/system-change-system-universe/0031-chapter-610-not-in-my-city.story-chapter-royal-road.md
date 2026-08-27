@@ -1,0 +1,181 @@
+---
+id: 86d8e882-1652-559c-9d49-ef15655d4dad
+page-type-slug: story-chapter-royal-road
+title: "Chapter 610: Not in My City!"
+slug: 0031-chapter-610-not-in-my-city
+partOf: system-change-system-universe
+position: 31
+ownLength: 2258
+unit: words
+ownProgress: 2258
+publishedAt: 2025-12-10
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2834283/chapter-610-not-in-my-city"
+royalRoadId: "2834283"
+markedReadAt: "2026-06-29T19:57:43.933Z"
+---
+
+Chapter 610: Not in My City!
+
+Jace looked at Silvi in shock. “You impaled me in the sternum because I woke you up with my aura?” The man almost couldn’t believe it. He obviously thought it was because he scared Brandi with his little prank, but no… it was because he didn’t realize the bunny had been asleep on Derek’s shoulder. After staring for a few more seconds, Jace broke into a fit of laughter.
+
+“Hmph…” Silvi turned her head away. “Need more ingredients to make up for rudeness.”
+
+“Sure, sure…” Jace replied with a chuckle. “While I’m around, we can go through any beast I kill and see if there are any ingredients you want from them.”
+
+“Good!” Silvi’s childlike voice rang. She seemed very proud of herself. She turned her head so that her nose and Derek’s were only a couple of inches away from one another. “Can we keep him?” she asked.
+
+Derek rolled his eyes. “For the time being,” he finally said.
+
+“Derek,” Malorie finally spoke up. “Is the invasion over? Is it safe for us all to go home?”
+
+“It is,” he replied. “Bones said you were all waiting for the okay, so… okay.”
+
+Malorie let out a long sigh of relief, then she and Brandi looked at one another. Brandi licked her lips, and Derek saw a spark in her eyes. “There’s so much I need to do!” Brandi took a step forward, then took off running. “I’ll see you all at home! Nice meeting you, Mr. Jace!”
+
+In a flash, what seemed to be at a speed faster than her little body should be able to move, Brandi rounded a corner and disappeared.
+
+“Brandi, wait! Don’t go by yourself!” Malorie shouted. She nodded at Derek and Jace. “I have to go. We’ll speak later.” With that, the woman took off sprinting after her daughter.
+
+“The little one is stronger than the older one,” Jace said after watching the mother and daughter leave. “By quite a large margin. Didn’t you say she was a blacksmith?”
+
+“She is,” Derek said. “But Malorie is more of a management type, and Brandi has definitely fully taken advantage of some opportunities.” Then, a thought flashed in his mind. “You’re able to sense how strong they are just by seeing them run off?”
+
+“No,” Jace said with a shake of his head. “I was able to sense it by just seeing them.”
+
+“How is that?” Derek asked. He didn’t have any skills like that. His best bet was Identify or waiting for someone to fully release their aura so he could get a read on how many total stat points the person had. He certainly couldn’t just look at someone and know how strong they were.
+
+“It’s my Battle Instinct,” Jace replied with a shrug. “It doesn’t give me exact measurements, but I get a feeling of how good a battle with someone would be if we were to fight. My Battle Instincts say that the young one would be a more interesting fight than the older one.”
+
+“Oh, that’s cool,” Derek said. “What about everyone here? What does your instinct say about us?”
+
+“It says that you would kick my ass, but it would be fun and exciting—for me,” Jace said. Then he examined the group. “You!” He pointed at Stella, who was still standing close to the front. “You have the potential to give me a perfect fight. Not as you are now, but I can feel that you will get there.”
+
+“Me?” Stella asked.
+
+“Alanah always did say that you’re a fighter at heart,” Derek replied. “You are the Butcher, after all.”
+
+Next, Jace pointed at Natalie. “You would be a very, very boring fight. What’s up with that? You seem strong. Derek said you’re the City Lord, so you should be strong, but I get the sense that you aren’t strong, but would be the absolute last person here that I would want to fight. How… weird.” He looked at Derek. “It’s almost the same feeling as when I looked at Trischa.” He turned back to Natalie. “I take it you’re some kind of super support class? Big on debuffs?”
+
+“Not even close,” the short lady did her best impression of Silvi and turned her nose up at the man. “I am rich.”
+
+“Rich? That’s it?” Jace asked with wide eyes.
+
+“There is more to it than that, but basically…” Natalie replied.
+
+“Interesting.” Jace looked at Natalie, and the wild look he got when he was ready for a fight appeared. Derek elbowed him in the side. “Ow! What was that for? Why is everyone hitting me?”
+
+“You’re not fighting Natalie,” Derek said. “She’s a non-combatant, too.”
+
+“But…” Jace sulked and mouthed a word to Derek.
+
+Did he just mouth… Batman? Derek facepalmed. Jace wanted to fight Natalie because she was rich. Even if his instincts said it would be boring, he still wanted the spar. Derek couldn’t help but shake his head. “No…” he said, and left it at that.
+
+“Fine…” He then went over to the small group and pointed out what his instincts said about them. Natalie’s right hand was with her, and Jace seemed to think that fighting him would be fun but not hard. He pretty much passed right over Thomas and some of the people that Derek didn’t recognize. Finally, he made it to Braxton. “And my Battle Instinct is screaming at me to spar with you right now. We could have a very fun, very long fight.”
+
+“Then let’s do it. I could go for one last good battle before I retire from the guild,” Braxton said as he reached over his shoulder and grabbed his warhammer. “I was just saying that Derek got to have all the fun and left me with nothing to do during the invasion. Why not have a little fun against a guy who took out… what was it? Four of the Chosen?”
+
+“Something like that,” Jace grinned wide and clutched his kukris tighter.
+
+“Not in my city! And not close to it, either!” Natalie yelled.
+
+Braxton looked down at the cracks he had made when he arrived, then shrugged. “We don’t have to do it here.” He then looked at Derek. “Do you want to take us somewhere to fight?” he asked. Jace also looked at Derek with pleading in his eyes.
+
+“Fine…” Derek finally said before shifting his focus back to Natalie. “Natalie, thank you for taking everyone in and making sure they were safe. I’d say that I owe you one, but I’m not sure I would have enough time to repay it. If there is anything I can do for you in the immediate future, let me know.”
+
+“You have done more than enough already,” Natalie replied. “Don’t worry about any of it.”
+
+“Thank you,” Derek said before turning to Stella. “Stella… you, me, and Avery are going to have to have a chat soon. Hopefully, within the week.” He then looked over everyone. “I’ll be in contact with you again shortly. Right now, I have to go babysit these two idiots.”
+
+Both Braxton and Jace snorted at the same time. Derek shook his head. “Now, prepare yourselves. And which of you wants to ride in a pot?”
+
+“Not it!” Jace shouted. “I already had that experience. I don’t want to do it again for a long time.”
+
+“Silvi?” Derek asked, and then a pot large enough for a certain dwarf appeared in front of them. Braxton shrugged and then hopped inside. Silvi latched the lid shut.
+
+“Ready,” his companion said.
+
+“Okay,” Derek replied with a sigh. Now… where do I take them? He wondered internally. Oh… I know, he thought. Then, he ripped the space open. The pot with Braxton inside started floating, then Derek put his hand on Jace’s back. Finally, he stepped inside with the man, and Silvi kept the pot floating just behind them.
+
+Soon, Derek opened the void and stepped out with everyone. When he looked around, he nodded. He’d taken them close to one of the dungeons in Indria that he and Alanah had visited. Nobody was ever around because it wasn’t a good dungeon. It was one that only rarely had people come to clear it just so it didn’t overflow. It was also very far away from any of the cities in Indria, and it was in a relatively clear area with nothing but a few trees in the distance.
+
+“This will do nicely,” Jace said. “But… what’s that?” he asked, pointing at the dungeon orb.
+
+“That’s a dungeon orb,” Derek replied. “This system is a little different when it comes to dungeons.” He then went on to explain the differences between dungeons to Jace.
+
+“So I just touch it, and I get the prompts that I would usually get when I touch a dungeon barrier?”
+
+“Pretty much,” Derek replied. “Though the options are a little different.”
+
+“Interesting,” Jace said as Silvi finally unlatched the lid on her pot so Braxton could come out.
+
+“Here?” Braxton said. “Indria?”
+
+“Got it in one,” Derek said.
+
+The dwarf then walked over to the dungeon orb and placed his hand on it. “Oh, I know this dungeon. I know exactly where we are.”
+
+“Then you know that there isn’t much around here that you could mess up with a fight,” Derek said.
+
+“Can I… enter the dungeon?” Jace asked.
+
+“I… don’t know,” Derek said. “You are level 250, right?”
+
+“I am,” Jace replied.
+
+“It is a level 250 dungeon… so… maybe?” Derek said. “I couldn’t tell you, though. You do have a different system, after all, and the Davenresh System didn’t try to take over, either.”
+
+“I’m going to try!” Jace said, then moved over to the orb and placed his hand on it. At the same time, Braxton removed his. After a bit, Jace said, “You really have to wait for a countdown and everything? And I can’t just remove my hand? What kind of…” A white light washed over him, and he disappeared.
+
+“That answers that,” Braxton said.
+
+“You know, Jace is much smarter than he acts,” Derek said.
+
+“Why do you say that?”
+
+“Because he knows he can’t beat you,” Derek said.
+
+“And?”
+
+“So, he went into the dungeon,” Derek said.
+
+“And?” Braxton asked again.
+
+“You’ll see,” Derek said with a chuckle. Inside the dungeon, Jace would most definitely be able to build up a bit of Battlelust. The dungeon he went into had multiple waves of enemies, and it was a pretty quick dungeon. The rewards were just crap.
+
+They waited, and ten minutes later, Jace came out.
+
+“Well?” Derek asked.
+
+“It refused to give me any rewards…” Jace said.
+
+“None at all?” Derek asked.
+
+“None!” Jace said. He then looked at Silvi. “All the corpses even vanished right after I killed them. I ended up getting absolutely no loot.”
+
+“That’s interesting,” Derek said. “But you did get exactly what you wanted, right?”
+
+Jace’s fake anger changed, and the same savage grin he wore before and during a fight replaced it. “Let’s just say that if I’d known about these dungeons… I wouldn’t have had to go to the teleportation arrays during the invasion.”
+
+“That’s what I thought.”
+
+“Let’s do this, dwarf!” Jace shouted as he held his kukri out to the side and walked away from the dungeon orb.
+
+“I thought you’d never be ready,” Braxton said as he planted his feet and waited.
+
+“Well… I guess I’ll be the ref… go ahead… fight,” Derek said with a yawn.
+
+Instantly, a fiery golden aura burst out of Braxton, and he lunged forward at Jace. Jace raised his blades up in a cross pattern to block, and Braxton’s warhammer fell directly on them. A loud crash that made the whole area vibrate rang out, and one of Jace’s blades went flying.
+
+The ground behind Jace exploded, and the man spat out a huge mouthful of blood. “Now this is exciting!” Jace shouted as he reached out and caused his blade to fly back to him.
+
+“You may be a bit more durable than I thought,” Braxton said, then lunged again.
+
+As Derek watched the fight from beside the dungeon orb, he saw what looked like a shadow moving between a few trees in the distance. He squinted his eyes to get a better look and saw a weirdly transparent cloaked figure. Derek frowned. He couldn’t get a read on the figure, and he didn’t want to stop the fight to see if the other two could see it too.
+
+As he was about to take a step towards the figure, it held out a hand to stop him. It then pointed at Derek, then reached out with its free hand as if it were placing it on something. Derek frowned, then realized what the figure was miming. He looked to his left at the dungeon orb and then pointed at it. The figure nodded and gave Derek a thumbs up.
+
+Derek instantly had a thought of what might be going on, so he shrugged. Then, he placed his hand on the orb. He didn’t get any notifications or anything. After all, he was level 251, so he wouldn’t be able to enter the dungeon. Still, a few moments after his hand met the orb, a light flashed over his eyes, and he heard a voice.
+
+“And here I was thinking you were never going to get close enough to a dungeon orb…”
+
+Derek opened his eyes, and the surrounding scene caused a smile to form on his lips.

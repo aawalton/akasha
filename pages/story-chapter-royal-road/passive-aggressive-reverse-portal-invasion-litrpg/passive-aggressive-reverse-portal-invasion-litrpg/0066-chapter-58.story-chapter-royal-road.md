@@ -1,0 +1,123 @@
+---
+id: 46aa3ef5-47ee-5ec3-867b-e3de5cc28c75
+page-type-slug: story-chapter-royal-road
+title: "Chapter 58"
+slug: 0066-chapter-58
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 66
+ownLength: 2418
+unit: words
+publishedAt: 2026-08-20
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3838064/chapter-58"
+royalRoadId: "3838064"
+---
+
+I raced alone across the surface of a foreign world and death followed me.
+
+It was a funny thing. Just like people say the Inuit have a hundred words for snow (even if that’s not an actual thing,) I remember somebody telling me about a long-winded tale they were reading about goblins who had a hundred words for death, all depending on the type, likelihood and possible countermeasures. In my case, it would probably boil down to “flagging, falling-behind, very-tired death.”
+
+For the hundredth time that day, I took a look at my stamina, noting with satisfaction how it was holding strong at just above half. Then I glanced back over my shoulder at my pursuit.
+
+Fifty-two of them. Fifteen Glimmerscales and thirty-seven Skreelings, ranging from Level 3 to 11. I’d had plenty of chances to look at them over the past hours of constant running, and was now familiar enough – and bored enough – with them, that I’d started giving them nicknames. That Level 10 Skreeling with the patchy fur was Splinter. The Level 8 Glimmerscale with the vivid, colourful scales was Mongo.
+
+There’d been eight Riverkin with them to begin with, but they’d died right at the start of the hunt. It had been a short, bloody clash, with all eight charging in ahead of their kin, only to meet the end and the hands of Waves of Reflection and a swiftly-activated Wheel of Magic. I picked up the corpses and stowed them in my Personal Universe. Then, the race was on.
+
+Locating the proper target had been the most difficult part of the hunt, to be honest. I needed a properly-sized pack, and they couldn’t have any too high-level beasts with them, or the game would be up. I also needed them to be moving in more or less the right direction, because I couldn’t chance the risk of bumping into additional packs and find myself caught.
+
+Once the first, bloody clash was over, however, staying ahead of them was surprisingly simple. There was no discussion that some of the beasts had enough Agility or Fortitude to outpace the others – but they had enough of a pack mentality that they stayed together in a close group. The best part? They weren’t giving up.
+
+It had taken a bit of math. That, it seemed, was what my life had come to. Life-threatening situations, interrupted by math. None of my guidance counsellors over the years predicted that particular combo. Yet, once I saw the opportunity, I couldn’t unsee what it could bring with it.
+
+I’d revealed myself to the large pack of Kadren, taken down the Riverkin who raced ahead of the others, and then I’d stayed right out of reach of pursuit, while I activated Mirror of All and crossed my fingers, hoping that it would manage to tick off every single Kadren.
+
+The result was above and beyond what I could’ve hoped for. The exposed enemies – everyone in range, really – froze as one, like a cat hearing the sound of a can opener. Then, they went absolutely batshit and raced after me to give me a solid disembowelling.
+
+For a brief while, I got nervous there. Watching fifty-plus slavering beasts charging straight at you, eyes filled with berserker rage, would do that to you. I used the Running ability, giving me double speed and allowing me to pull safely away from every one of the Kadren. Then I gradually slowed down to where I’d be able to stay just ahead of them, and tuned down Mirror of All to its lowest setting.
+
+Miracle of miracles! Once enraged, even the low setting was enough that the furious beasts kept right on my tail without any desires to just let me run off for the sunset. And that meant that I was able to run, spending just sixty stamina an hour to keep them enraged… and I regenerated two hundred and thirteen. In short, I’d be able to keep it up indefinitely, somersaulting all the way back if I wanted to.
+
+Following that, it boiled down to a long, long grind. I kept close, made sure to keep my eyes open so I didn’t run into any other monsters on the plains, and jogged like I was an ultra-marathon-running CEO who would do anything to avoid coming home to his trophy wife and annoying kids.
+
+The beasts weren’t untiring. Yet, instead of flagging and falling off in ones and twos, or lying down to rest, they stayed together. After the first hectic chase, they reduced their speed to a ground-eating pace that I’d guess matched the stamina regeneration of the slowest among them. From time to time, a few would race ahead and try to catch me, but I could comfortably outrun everybody.
+
+While I ran, my mind raced ahead. There was still a lot that needed to fall into place for this to work. But I knew that the others would be well ahead of me, running full tilt to ensure that they’d have everything prepared for my arrival. I’d given them half a day’s head start too, to make sure that I wouldn’t inadvertently catch up to them.
+
+Oh, I used the time to my advantage. Given that I had been fighting, and still had enemies on my heels, I was technically in a fight. This meant that any skills used would increase much faster than usually. Eighteen hours of intensive skill training? Yeah, I wasn’t throwing that away. I leapt around like a nutjob, dodged, dove and swerved to my heart’s content. I parkoured the shit out of any piece of scenery I could possibly conceive a use for. Once, I even climbed a conifer and leapt out of the heavy layer of branches, just to prove to myself that I could nail the landing.
+
+My Athletics skill improved markedly. So did my Balance, Climbing and Leaping. But the record went to Higher Endurance, which improved by a full four, and Higher Running which leapt ahead by a massive five. Running just needed two more for the first evolution, too!
+
+The loveliest surprise, though, was my Identify skill, which finally hit twenty-five.
+
+Your skill Identify has reached the first evolution threshold at Level 25. This earns you a choice between two different evolution options.
+
+Option one:
+
+Level 25 evolution:
+
+You no longer need to actively use the Identify skill to see levels. Levels will automatically populate above the head of any potential target for whom the skill would work.
+
+Option two:
+
+Level 25 evolution:
+
+From now on, every successful activation of Identify has the potential to expose additional information. The additional information has a slightly higher difficulty than Identify itself.
+
+At first, the choice seemed straightforward. Gaining a quick overview would be useful, but additional information would always be better. Then I paused and reconsidered. That first option also reduced the risk of somebody noticing me using the skill with Secrets of the Self, because I didn’t need to actively use it. That could be super useful, allowing me to be sneaky and shit.
+
+I grinned and went with the second option. Since when had I been sneaky? More information equalled more options for breaking the system and my enemies. A moment later, my choice was absolutely justified, as I used Identify on Splinter again.
+
+Skreeling. Level 10
+
+Health: 180/180
+
+Path: Strength
+
+That addition was absolutely lovely! Sure, it might not always be entirely informative, in case of weird hybrid cases like Haddock. But knowing what kind of type I was up against would be a godsend.
+
+After an interminable run, I finally spotted my goal and started veering to the north. I checked my stamina, yet again. If I slowed down a bit on my stamina use, I’d be pretty close to full, when everything eventually came to the crunch.
+
+***
+
+“Don’t aim at me, you stupid idiots! Are you blind? Aim at the goddamn Kadren!” My voice rang up the long, even slope toward the handful of armed people waiting up there. The arrow hadn’t come close to hitting me, striking near the centre of my shield. But that was as close as I wanted arrows, especially with what was coming.
+
+“Kadren? Why are you bringing Kadren? Is this an invasion?” The yell was high-pitched, querulant and not a little panicked. The Adrastian archer who’d just loosed at me looked like he was about to wet himself.
+
+The Kadren were still plenty behind me. I’d put on a bit of a dash to the finish to give me the time to handle any issues with the guards. Nonetheless, they were still loping along at a decent pace, and I sure hoped the guards were going to get with the program. “I don’t know.” I didn’t have to fake it to breathe hard. Stamina or no, I was still finishing an epic-level ultra-run session and my body felt spent. “They jumped me out of nowhere and I ran! Start hurting them already. I’ll hold them off!”
+
+“You’ll what? Are you blind? Have you seen-”
+
+The Adrastian was interrupted by his companion, a Moagie who grasped the sleeve of his dirty shirt and barked a few muted words. His eyes were wide, as he looked at me, clearly recognizing me.
+
+The tall, lithe male gasped audibly, before shouting. “Loose already! Slay those cursed beasts!”
+
+I fought to keep down a grin. Most likely, that exchange had been something along the line of “Shut up, shut up, shut up! That’s one of those guys who killed an Untouchable!” The half-maddened, half-afraid glance he’d shot me spoke volumes.
+
+Now, I could only hope they weren’t planning anything. If the guards did decide I looked like an inviting target, I was in a poor position. Sure, if all had gone according to plan, Steve should be lurking nearby under invisibility, ready to move in, but I’d rather not have to rely on that.
+
+I turned on my heels, set my feet, and faced my bestial pursuit with a wild grin on my face. “Who wants first? There’s enough here for everybody!”
+
+The moment reminded me of my first time clashing with the Kadren. Looking over my shield at the charging Higher Skreeling, remembering the sense of impending doom at the huge beast rushing straight at me. The absolute certainty that I was done for.
+
+The wave of Kadren charging uphill at me now was… less impressive. Not just because they were flagging, stumbling, and panting. The size difference did have an impact, with the largest of these Skreelings being the size of Great Danes, rather than adult bulls, or even bigger. Mostly, however, it was the knowledge. Knowing that I’d faced off against worse before, and was still around to show it.
+
+Baring my teeth, I set my feet, slammed the lower spikes of my shield into the ground, activated my Resilience and Dodge bonus abilities, and braced for impact.
+
+The ensuing encounter was a slaughter. It should have been less one-sided, really. Sure, the Kadren were low-leveled, but there were so damn many of them. However, the guards rose to the occasion and kept a steady stream of arrows heading at the incoming horde.
+
+Also, I made a thrilling discovery: if there ever was a situation to justify my choice of the repelling addition to my Shield skill? It was for standing at the top of a slope, with steep falls on either side.
+
+In the next few minutes, I stood my ground against every single beast coming my way. When I had the mental surplus to spare, I sent Waves of Reflection at anything trying to hit me. When I didn’t, I merely used my shield and buckler along with Deflect to send them tumbling left and right. And they flew. This was the first time in a while I’d really gotten to let lose against melee combatants, and the deflective capabilities had gotten ridiculous.
+
+A Skreeling leapt at my shield from the right. I reset my footing, moved the shield ever so slightly, to get the angle right. The Skreeling’s paw struck and screeched across the shield for a split second. Then Deflect kicked in, and the beast was flung across the ground, sliding toward the edge, as its claws scrabbled for purchase.
+
+I didn’t get the time to see if it caught itself before going over the edge. A fiery bolt from a Glimmerscale zinged off the edge of my helmet as I ducked, covering me in sparks. I looked it dead in the eye from twenty meters away, raised a middle finger, and activated Wheel of Magic.
+
+From then on, it was just a matter of time before I won. I ceded ground little by little in order to avoid being surrounded, and stayed on the move to ensure they didn’t outmanoeuvre me. Once, an arrow struck my arm from behind, but my Resilience ability was still active, and it barely entered my flesh. The high-pitched, panicked cry of apology reassured me it wasn’t on purpose.
+
+Five long, gruelling minutes later, I shook my shield, causing a liberal spatter of blood to cover the soil below me. I took off my helmet, letting the soft breeze caress the sweat-covered fuzz slowly growing back and sighed softly. The side of my mouth curled up at the look of the abattoir in front of me. There was no joy in the slaughter – but I couldn’t help but feel a certain satisfaction. I’d actually managed to do it. The Kadren had made it all the way to the footsteps of Last Chance.
+
+I turned toward the guards above me and shouted. “All right. You are going to run to Last Chance now. Then, you’re going to tell all the Untouchables and anybody else in a position of power what just happened. And then, you’re going to come fetch me.”
+
+The high-pitched voice from before turned downright obsequious. “Yes sir. We will. Where will we find you?”
+
+I looked down on my boots. They were better than I could have hoped for, given that they’d just been thrown in with my other trades. Supple, yet hard-wearing, dark brown leather, slowly adjusting to my feet with use. Just an hour ago, they’d been covered with the dust of my run. Now, they were covered in blood, guts and worse. And the rest of my outfit, including myself, wasn’t any better off. With great satisfaction, I responded. “I will be in the bathtub.”

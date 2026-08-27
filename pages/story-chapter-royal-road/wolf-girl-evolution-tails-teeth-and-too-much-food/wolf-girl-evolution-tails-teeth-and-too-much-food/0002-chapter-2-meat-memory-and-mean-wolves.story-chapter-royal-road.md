@@ -1,0 +1,181 @@
+---
+id: 44bf6d0f-116f-52ba-8563-5f1e20fa2587
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2: Meat, Memory, and Mean Wolves"
+slug: 0002-chapter-2-meat-memory-and-mean-wolves
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 2
+ownLength: 1590
+unit: words
+publishedAt: 2025-08-21
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2535649/chapter-2-meat-memory-and-mean-wolves"
+royalRoadId: "2535649"
+---
+
+She woke curled against fur and stone, belly heavy with meat and dreams. The carcass of the Earthen Bear still steamed faintly beside her, scenting the clearing with iron and ash. Warmth clung to her fur. Her tongue lolled as she yawned wide, jaws snapping shut on empty air.
+
+Her head, though, was strange.
+
+Thoughts itched like burrs caught in her coat. Words she had never known drifted through her skull, bright and slippery. They weren’t scents or growls or tail-flicks. They were… other.
+
+Was wolf smell not good enough? Weird!
+
+She blinked down at her paw. Small, dark, pads still sticky with last night’s feast. A word rose unbidden.
+
+“Paw.”
+
+The sound startled her. She tilted her head, ears swiveling at her own voice. That wasn’t a smell word. It wasn’t a whine or bark. It was… something sharper. Something human.
+
+A flicker lit across her vision.
+
+【Passive Boon Gained: Basic Language Seed – 3% processed】
+
+The words made her tail twitch uncertainly.
+
+Processed? Three percent? What was three? She didn’t know, but her ears perked anyway. New skills were good. New skills meant strength.
+
+Or food. Hopefully food.
+
+Her sister stirred nearby, a bundle of fur still half-buried against the bear’s flank. She padded over, tail wagging with excitement. She nudged her with a little yap, then tried to shape the new sound again.
+
+“Paw,” she announced proudly, lifting the appendage for demonstration.
+
+Her sister blinked at her, unimpressed, then flopped back down with a groan. She barked in frustration, the strange human word refusing to leave her muzzle the way she wanted. Instead of cleverness, only a long whine stretched from her throat.
+
+So unfair.
+
+She sat back on her haunches, licking her paw to cover her embarrassment. Maybe the new thing wasn’t for sharing yet. Maybe it needed more chewing.
+
+Chewing.
+
+Her stomach growled at the thought, which was absurd given how round she still felt from last night. Yet the moment the strange human-thoughts circled her mind, hunger followed close behind.
+
+Language was heavy. It was work. And work needed food!
+
+She padded around the clearing, nose twitching. The air was thick with overlapping scents: wolves, blood, earth torn by battle. And beneath it all, faint traces of the humans who had died here. The smell of their packs still lingered. She sniffed toward them with eager steps, tongue already slipping out.
+
+Words buzzed in her head as she moved. Bear. Claw. Paw. Wolf. Sister. They tangled, tripped over each other, like too many pups fighting for the same bone. She growled lightly, shaking her head, trying to make them sit still.
+
+It didn’t work. They scattered, only to return again in flashes. Meat. Hunger. Food.
+
+Her tail wagged despite the confusion.
+
+Food she understood. Food was steady. Food never lied.
+
+She circled the bear once more, pawing at scraps the elders had left behind. A bit of tendon. A shred of hide. Not much, but her tongue was quick to snatch them up anyway.
+
+The taste settled her thoughts for a heartbeat.
+
+But only for a heartbeat.
+
+The words returned, trickling through her skull in whispers she couldn’t quite shape. “Eat,” they murmured. “Meat.” “Full.” “Starving.”
+
+She groaned softly, flopping down against the carcass again, muzzle pressed to its cooling hide. Her eyes half-lidded, ears twitching. She would figure this out, eventually.
+
+For now?
+
+She licked her lips, let out a squeaky sigh, and admitted the obvious.
+
+Language made her hungrier.
+
+And hunger always won.
+
+The bear’s hide had cooled beneath her chin, and scraps did little to quiet the restless gnawing in her belly.
+
+Words still pressed against her skull in restless loops – meat, eat, hungry – and every one of them made her lick her chops again.
+
+Her nose twitched, dragging her away from the carcass. Past the clearing’s edge, a sharper scent called to her. Neither wolf nor bear. Old blood, leather, and something richer beneath it. She padded forward, tail swishing in hopeful arcs.
+
+The shape in the leaves made her pause.
+
+It was a human. What remained of one, anyway.
+
+Mostly bones, a few strips of flesh clinging like old bark. Not worth chewing. But the smell was different here, stronger. She pawed at the ribs, nudged the skull aside, and caught sight of cloth still wrapped tight against its chest.
+
+Her ears perked high. She pounced, tearing at the bundle with eager snaps. The fabric gave way, and inside lay a small cache of dark, dry strips. Jerky.
+
+She sniffed, eyes wide. Salt and spice burned her nose before she even tasted it. Her tongue darted out anyway, and in a blink, half a strip vanished down her throat.
+
+The flavor struck like fire. Salty. Chewy. Hot enough to sting her eyes.
+
+She coughed, pawing at her muzzle, but wagged her tail so hard her whole body wriggled. Delicious. Absolutely worth the sting.
+
+【You are suffering Poison (Weak)】
+
+Her ears twitched. The words meant little compared to the taste exploding across her tongue. She stuffed another strip in, chewing through the burn. Tears streaked from the corners of her eyes, but her grin only widened around the mouthful.
+
+If this was poison, poison was wonderful.
+
+She gobbled down another, jaw aching from the toughness, every swallow followed by a little whimper and a thump of her tail. Her belly complained, her throat burned, but her heart soared. This was food worth fighting for.
+
+【Gluttonous Soul 1% → 2%】【New Skill Acquired: Pain Resistance Lv.1】
+
+She froze for half a heartbeat, jaw still working around her prize. Then a delighted yip burst out, half muffled by the jerky still in her mouth.
+
+A new skill. From food! Again!
+
+Her whole body bounced in place, tail whipping leaves into the air.
+
+She bit harder, chewing through the tears in her eyes, the fire in her throat, the ache in her belly. Every strip was victory. Every mouthful was strength. Her mind fizzed with new words she couldn’t quite tame, but one thought rang clear.
+
+More.
+
+The jerky dwindled fast under her relentless assault. She licked every shred of spice from her paws, even nosed at the empty cloth until it tore to rags.
+
+Nothing left. Nothing but the heat in her chest and the joy in her wagging tail.
+
+Panting, tongue lolling, she flopped onto her back with a happy groan.
+
+Poison? Maybe.
+
+Pain? Definitely.
+
+Worth it? Always.
+
+Her belly gurgled, full and fiery. She wriggled her paws in the air, still grinning through the sting.
+
+If food brought this much strength, then she would eat the whole world!
+
+She staggered back toward the den with her tongue hanging loose, tail wagging in dizzy half-circles. Every step jostled her belly, which now felt like it was lined with fire.
+
+The spice still burned in her throat, in her nose, even behind her eyes, but she carried it like a badge. Spicy drunk, maybe, but proud. She had eaten human food. She had eaten everything.
+
+Her paws wobbled on the packed earth, and she nearly tripped into the pile of resting wolves at the den mouth. The older male lifted his head at her approach, nostrils flaring. His eyes narrowed at once.
+
+The scent of jerky still clung to her fur.
+
+A growl rumbled low from his chest.
+
+“Not allowed. Not wolf food.”
+
+Her ears flattened, but she wagged her tail anyway, giving a hopeful little yip.
+
+Food was food, wasn’t it?
+
+The male rose, bulk towering over her, and in a blink he knocked her flat with a heavy paw across her shoulders. She yelped, the sound sharp and startled, legs flailing for grip in the dirt. His teeth snapped near her ear before he turned away, satisfied.
+
+The rest of the pack didn’t so much as lift their heads.
+
+She lay where she had fallen, sides heaving, the spicy fire in her belly twisting now with a new burn. Shame prickled hotter than the jerky had. She licked her sore shoulder, ears pinned tight, tail curled between her legs.
+
+No tears came. Only the quiet thump of her heart, quick and stubborn.
+
+She pushed herself upright and limped to the fringe of the den, away from the warm tangle of bodies. Night air cooled the sting on her skin, but her insides still roared. Her tongue lolled out again, part pant, part grimace.
+
+Heartburn, she decided. Shameburn, too. Both hurt.
+
+She curled against a root at the edge, watching the pack settle deeper into their sleep. Their breath rose and fell in steady rhythm, a song she usually drifted with. Tonight she only stared, the ache in her belly refusing to let her rest.
+
+The words from the strange human fragment whispered in her head again, sharper now. Food. Hunger. Strength.
+
+Her ears twitched. One day, she promised herself, she would eat food so strange no wolf would even dare sniff it. She would eat everything that could be eaten! She would turn fire into meat and poison into strength!
+
+And when she did, they would remember. They would lift their heads and howl her name across the forest.
+
+For now, she pressed her nose to her paws and let her tail curl tight around her. The burn would fade. The shame would settle.
+
+But the taste, the spice, the lesson – those would stay.
+
+Her eyes slid shut at last, belly still gurgling. Sleep took her in little huffs and sighs, her last thought as silly as it was fierce:
+
+Next time, she would eat twice as much.

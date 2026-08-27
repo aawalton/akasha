@@ -1,0 +1,521 @@
+---
+id: 58a46723-87df-54cd-8193-ac75d7314ca1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 232: Plain of the Gods."
+slug: 0157-chapter-232-plain-of-the-gods
+partOf: the-calamitous-bob-stubbed
+position: 157
+ownLength: 5389
+unit: words
+ownProgress: 5389
+publishedAt: 2025-11-11
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2751190/chapter-232-plain-of-the-gods"
+royalRoadId: "2751190"
+markedReadAt: "2026-06-29T21:20:02.479Z"
+---
+
+The last humans to join the Paramese Alliance had been the Order of the White Orchard, Baran’s best knight order. They had crossed the last intact portal network line in a daring escape. They had claimed neutrality in the civil war. Some people had taken a long time to learn that Nero didn’t do ‘neutrality’. He was more of a ‘with me or against me’ kind of person. Now their glittering armor would join the Baranese battle lines. Viv really liked the knights in glittering armor, especially when they were on her side. Now she was floating above the capital under a layer of dark clouds, waiting for the last comers.
+
+At least she hoped so. After midnight, she was starting to have some concern but eventually she spotted it: a private jet-sized green shape coming towards her. She flew down, and they made a circle, one flying after the other. It was a polite dragon meeting. Viv pushed her mind towards his.
+
+It is good to see you, Cold-Gale-over-Spring-Meadow.
+
+The large dragon was not as sleepy and withdrawn as usual. The way his wings beat was almost forceful.
+
+Outlander.
+
+Mother of the pesky ones.
+
+My one name has perished, killed by treachery.
+
+I will fight.
+
+I will fight!
+
+Well that went well.
+
+Welcome aboard.
+
+I will kill him.
+
+Meadow dove to the ground where a line of fire already waited, next to the cavernous entrance of the Golden Scale Bank and Exchange. Viv was pretty sure she could smell grilled fresh fish on the wind. Arthur really knew her customers.
+
+The waiting resumed, but not for long. A barely smaller black dragon soon arrived. She was a shadow over a shadow, making it hard to spot her, but not heard to hear. She roared when she spotted Viv.
+
+What have you humans done!?
+
+Viv closed her eyes. This was going to be frustrating.
+
+Greetings, She-Who-Rides-The-Storm’s-Darkest-Cloud.
+
+Viv started a flying greeting and after a few moments of hesitation, Stormrider reluctantly returned it.
+
+At least you remember my name, simian creature.
+
+Viv rolled her eyes.
+
+I’m a human, not a goldfish.
+
+Now stop it.
+
+I hate that cheating bastard as much as you do.
+
+A grunt of disbelief emerged from the dragon’s dark throat.
+
+You are weak, and depend on your gods for everything.
+
+Now look what your kind has done! Millennia of wisdom, lost!
+
+“Believe me, I know,” Viv spat. “And I will fight him. Will you?”
+
+Why would I place myself under the order of a lesser.
+
+Viv exposed the anger and fatigue in her soul.
+
+Then why have you come?
+
+Just to complain?
+
+I have a war to wage.
+
+She bared her teeth, wings spreading out in a draconic gesture of challenge.
+
+If you will not face him like I will, then depart.
+
+ENOUGH!
+
+The dragoness broke the dance. She approached Viv, then followed with a narrow turn. Gray mana kept her upright with a few beatings of her wings which was, to those who could feel it, an impressive display of power and control. Viv decided the timing was right to extend an olive branch so she would feel that she’d won.
+
+Judgment visited me, using a fate construct to speak to me.
+
+He said he chose this path because it could lead to a better future for all of us.
+
+I will face the Champion of Maranor in battle, for this future he saw.
+
+Join me, She-Who-Rides-The-Storm’s-Darkest-Cloud.
+
+You do not have to obey.
+
+Share your fire with me.
+
+The dragoness did her equivalent of a harrumph, that grumpy old tart. Viv was almost fed up having to juggle skyscraper-sized egos. She only committed to the bit because it was her brand and also because fuck were dragons powerful anyway. Can’t look a gifted adult firebreather in the mouth and so on.
+
+You have a spine; you have honor.
+
+Although you have no wings.
+
+“Not you too,” Viv moaned.
+
+Is that fish I smell?
+
+“Arthur knows how to be a good host.”
+
+Very well.
+
+Do not presume to order me around!
+
+And when you fight, worry not, for I will rain fire upon your enemies!
+
+Then she dove again. Viv watched the black dot land in a terrifying roar that scared the cooks because why not. The night was just starting. Viv sighed.
+
+“What a massive fucking tsundere.”
+
+***
+
+It was time. The Maranorian army didn’t try to bypass the Deadshield Woods via teleportation, a daunting task that would have required control over Kazar. Instead, the army crashed through the forest on a 500 paces front along the old road, the surviving elites at the head led by the champion himself. They cut trees, destroyed traps, and killed countless monsters which ended up in the pots of the ravenous horde. Almost a hundred thousand strong, the largest formation in Nyil’s history steamrolled the eternal woods like the march of progress itself. The trees were used for the cooking pits or palisades, their roots torn off to dig kilometers of latrines. In the middle of the trip, the lake was detoxified and drunk in its entirety. Nero still had to have Crest keep portals open just to keep the army decently watered and fed.
+
+They moved on expecting an attack that never came. After ten days of relentless march, the vanguard of the host arrived in Kazar at dawn. They found it entirely empty. No food, no wealth, no people, only rustic houses spilling over a long-outgrown wall underneath the purple tree. The vanguard gathered under its ancient boughs.
+
+“It used to block the contamination,” Crest said. “Remember?”
+
+“I remember. Burn it down.”
+
+“What?”
+
+“It no longer serves a purpose beyond being a symbol of Harrak. Symbols will burn, the tree, the palace, Efestar’s statue. They will all burn. Do it.”
+
+And so, the tree burnt, purple leaves turning to embers, and the Maranorians moved on. The army deployed itself out of the forest like the wings of some city-sized vulture, their advance unopposed. After a brief hesitation, they traveled towards the capital of Sinur’s Gate forty leagues away.
+
+There was no food to be found on the path. The Harrakans had left nothing behind but freshly seeded crops pushing through the early spring soil, taunting hungry soldiers with the promise of a harvest they might never see. They marched over plains and hills at a fast pace, and around noon, they found the alliance army.
+
+***
+
+Crest beheld Sinur’s Gate for the first time in his life just from a small hill near the road heading north.
+
+Long ago, his expedition had bypassed the cursed city by traveling north instead. They’d been too far to see the way it merged with the mountains, or the lone path leading up on a background of distant clouds. Something about their ominous and unnatural formation bothered him until he remembered most of the Deadlands were still under such a merciless sky, and it did not detract from the city’s charm. Now restored, its towers and roofs shone like jewels in the pale winter sun. The contrast between light and darkness illustrated New Harrak’s idiosyncrasies to him.
+
+Tents and fortifications dotted the road up to the gates; though if it came to that, then the battle was already over. Below that was the famous Plain of the Gods with its many temples including the large statue to Efestar, one that would crumble before the day was done.
+
+And before that was the Alliance army.
+
+“Holy Maranor’s Grace,” he whispered.
+
+***
+
+There were no tents large enough to accommodate the headquarters of the alliance. None had ever been designed with dragons in mind, and now eight stood, wings folded, their serpentine eyes inspecting their surroundings on the rest platform overlooking the valley. Of the hundreds of officers attending, only the Harrakans were comfortable in their presence. Some of the distant Baranese dukes kept glancing from them to the merl, yries, and kark representatives. Although the dragons were the kind to take offense at any perceived slight, the peace was maintained by the presence of Arthur. The now large dragoness quietly presided over the assembly with her cold presence. Golden chimes hung from her horns by colorful ribbons. They sang beautifully with every gust of wind. A heavy chain kept her pouch close to her chest. None of the dragons present criticized the choice of human garments. Rather, their attention would sometimes be captured by the shimmering reflection of dancing gold.
+
+Viv was the last to arrive flanked by Sahin and Jaratalassi, the strategists looking like they’d not slept properly for their entire lives. She moved straight to the central table and its map.
+
+Her gaze went over the assembled people. They were all here, silent and disciplined although the dragons probably helped with that first part.
+
+This was it.
+
+Fifteen years ago, she had been a starving, poisoned witch at the edge of civilization. Now she was ruler of a rising nation, part of a vast alliance formed for the express purpose of making life marginally less shitty. The gathering was a testament to her work. To her love. To the sacrifice of many friends starting with Jor who jumped off Fort Sky wall to save her from the undead, so very long ago, and ending with Judgment. Viv hadn’t stood idle. She had done her very best to leave a positive imprint every day she was here. And this was the result. Warriors, assassins, mages, even administrators represented by the ever sinister presence of Bes. Several nations. Several species. All of them might return to competing for resources soon but that was outside of her control. Defending the dream was what she was here to do, and they were here with her to do it of their own accord. It was enough to give her faith.
+
+“Ladies and gentlemen. Thanks for coming,” she began.
+
+Her casual tone relieved some of the tension. She wasn’t done though.
+
+“You may all have your own reason to fight today, in what looks like a duel between two powerful outlanders. For most of you, the reason to fight isn’t me.”
+
+People exchanged awkward glances.
+
+“And I consider this my greatest success,” she continued, to some attendant’s surprise.
+
+By her side, Sahin nodded knowingly.
+
+“Oleander conquered two continents with an iron fist. His vision turned armies to his banner because it has the merit of being simple, and simple is attractive. To the question: ‘how do we live?’, his answer is: the way I tell you. It is powerful because it is simple, and because to many people, it is enough. I do not blame them. This is a harsh world. Some people are willing to forfeit agency for the sake of protection.
+
+“But it doesn’t work for everyone. We’re here today because we searched and found a way to live that was honorable and good, and different. We’re here because Neriad was right to encourage us to find our own path to goodness. We’re here because a simple answer cannot satisfy the entirety of sapient life, and because no one, not Maranor, not her followers, and certainly not Oleander, can tell us how we should be happy and just. We’re here because our vision is strong enough to oppose his and he cannot tolerate it. So our visions will collide on this field in front of us. And we will crush his.”
+
+There were enough nods that Viv knew her message had gone across. The alliance was of one purpose: to stop Oleander from usurping theirs.
+
+“My role in this battle will be simple: I need to keep Oleander at bay. He’s monstrously strong. Your role is to send his army back home in coffins.”
+
+“Aye.”
+
+“I’ll leave the floor to General Jaratalassi,” Viv concluded.
+
+“Hello everyone, and welcome back to yet another defensive battle where we hold the high ground.”
+
+Now there were more chuckles.
+
+“You’ve all been drilling so you may have already identified the forces in presence but since this is the largest battle in the history of our races, I’ll go over things again anyway.”
+
+He pointed at the map which showed the Plain of the Gods and the city behind in great detail. The field was separated into large squares, some empty near the front, some covered in elaborate figurines closer to the cliffs.
+
+“This is our battlefield. Due to the sheer size of our armies, each one of you will be responsible for their own sector, leading your own troops. That doesn’t mean that you’re without support, of course. I assume you’re familiar with your vestals by now?”
+
+The bipedal members of the alliance signaled confirmation, but the dragons were obviously confused. Viv had to step forward.
+
+“For our newcomers, vestals are special paths dedicated to the operation of a communicator. That is an enchanted device that allows you to speak and listen over vast distances.”
+
+Why not roar?
+
+“Because there is going to be a lot of roaring, and we want the right person to hear. We’re modifying helmets for you right now. Just give us another hour or so.”
+
+She stepped back. Jaratalassi resumed his explanations.
+
+“You are going to get communicators as well but only to listen. There are several channels we don’t want to clog. Your respective vestals know which ones to use. Now, if you see a threat or something that needs to be removed, or you need help, tell us. You can’t pick how it’s going to be removed. It will be decided at the highest level for the best use of our resources.”
+
+Queen Rosea took a step forward so Jaratalassi stopped.
+
+“Which are?”
+
+Jaratalassi pointed at groups of figurines.
+
+“Two circles of Academy family mages, one circle of World’s End mages, four artillery batteries split alongside the frontline, assassins, golem hit squads, gray mage flights, and of course, dragons if they can be so inclined.”
+
+I do not want to hear your mouth orifices flapping when I fly, human.
+
+I shall take to the skies and rain fire upon our enemies.
+
+Jaratalassi turned to Viv who was obviously the local Draconic negotiation expert.
+
+“You’re going to run out of fire long before you run out of enemies. Look in front of you. If you want to be cunning, there is another way.”
+
+Your way?
+
+Or so you will claim?
+
+“Our humans will recognize the other humans so we can point you towards the ones whose incineration will cause Oleander the most grief. Dragon fire is a potent weapon. It makes no sense to waste it.”
+
+Arthur hissed.
+
+Many humans are not even deserving of the effort to burn them.
+
+I usually just throw a rock.
+
+The black dragoness tilted her head.
+
+You have a lot of practice killing humans.
+
+I accept your logic.
+
+We will fly to where we can be the most aggravating.
+
+“Perfect.”
+
+“For the remainder of the first day we will remain on the defensive,” Jaratalassi said. “Oleander has been unstoppable so far. We end this now. We need to make his troops doubt first before we can safely counter-attack, especially with their numbers advantage. As for our order of battle, the merl will take the left flank on the high hills and forests.”
+
+Several of the officers nodded, probably having guessed why priests of Saradanal had spent so much time and energy to turn the rocky hills into decent forests over the past month: it was to give the merls their perfect battlefield.
+
+“Then Baran under Queen Rosea and her cavalry. From our scout reports, we expect you to face off against Enoria.”
+
+The sovereign seemed displeased at being on the side, but a glance was exchanged with Viv and she gave a nod of understanding.
+
+“Then the northern cities of Glastia and Zazas on this ridge. Yries, religious orders and mercenaries will cover the road access gap here along the priest village, then Harrak front and  dead center. Finally, the Kark will cover the right flank up to the cliffs.”
+
+“VICTORY WILL BE OURS!”
+
+“And please wait before charging this time. Now, everyone has faster troops, your own casters, and elites in case you’re hard pressed, but remember to call what you see. We won’t know everything from up here.”
+
+“Will you be staying there?” the queen asked.
+
+Jaratalassi gave Sahin a glance.
+
+“The two of us and our support staff, yes.”
+
+“Forgive my concerns, general. Are you not concerned about mage flights or assassins?”
+
+A few of the more knowledgeable people exchanged glances. To Viv’s surprise, the first answer came from Stormrider.
+
+Human.
+
+You expect other humans to contest our mastery of the skies?
+
+They are ours.
+
+Obviously.
+
+“Hellow,” a masked, black-clad form said from the side.
+
+Only the Harrakans didn’t jerk this time but that was only because they were immune to jump scares by now. Viv hid a smile. Not like it was beneficial for her to give her fellow sovereigns a reminder that she had hadals in case they got any idea in the distant future. Or anything.
+
+“They are the ones who should be scared of assassins.”
+
+He disappeared. Viv was honestly impressed he would even show himself in front of so many people. She would have to congratulate him later.
+
+“I believe this answers your question,” Jaratalassi said. “I will talk to you via communicator whenever necessary, but otherwise all of you here are seasoned veterans, or advised by seasoned veterans. You know what to do.”
+
+“One last thing,” Viv said before calling the meeting.
+
+The group politely waited for her final speech.
+
+“We obviously all hope that it doesn’t happen, but if I die, don’t panic. We have one last contingency in case it happens. The war will be lost but if you can hold out a little longer, you may sue for peace with acceptable terms.”
+
+Arthur hissed her displeasure.
+
+It will not happen.
+
+“I think so too, but, just in case. Alright that is it. Now for my last compulsory political moment… Look, I’ve been here for fifteen years. This is my world now. No matter how this goes, I couldn’t have hoped to fight for a brighter future in better company. The fact that you’re all here today fills me with immense pride, because it means I must be doing something right. If you look around, you’ll see that Helock and parts of Baran are on the other side even though they’re officially members of the alliance. You will also see that the yries, kark, merl and hadals are here. We’re all going to bleed together today, and there is no higher mark of support so I propose that the alliance be opened to non-human races.”
+
+“There is no need to delay,” Queen Rosea said. “I call for a vote. All in favor?”
+
+The vote was fast and unanimous.
+
+“Then it is decided. The Red Tribe and merl nation will be invited to formally join the alliance in its next meeting. As part of the Harrakan empire, the hadals and the concerned yries tribe are already members.”
+
+“Alright everyone,” Viv finished. “We now join our people. May the light gods protect you.”
+
+***
+
+As soon as the soldiers had gone, Viv approached Arthur, who conveniently turned her large body to hide the view.
+
+“Irao, please,” Viv said.
+
+The hadal dutifully appeared like some specter from the shadows.
+
+“Did you confirm Crest and Oleander’s position?”
+
+“They are committed.”
+
+“Very well.”
+
+She turned to Sahin.
+
+“Tell Solar he can begin.”
+
+***
+
+“The Empress tells you that you may commence at—”
+
+“Finally.”
+
+Solar stood up from his hiding place at the edge of a remote manor in the north of Baran. A casual observer might have noticed the higher number of guards, but even an idiot wouldn’t have failed to see they were far too heavily armed — and too high on the path — to be mere manor sentries. With him was a Sinur’s Gate bishop who had insisted on coming, a mage who would stay behind for the portal, and to his regret, his wife.
+
+He had to admit it though, with her dark wavy hair falling over her thick gambeson, she was… distractingly attractive.
+
+“Make haste, husband. I miss our children,” she demanded.
+
+“Oh you can count on that.”
+
+Solar walked towards the entrance at a brisk pace. Immediately, four guards turned to him. They were third step spear warriors from Helock. He focused, and cut.
+
+The aura lashed out, destroying all of their weapons. To their credit, they drew short swords.
+
+“Your courage is misplaced.”
+
+He moved into them. A jab knocked the first, a kick sent the second against a nearby wall. The third moved to a bell to ring the alarm. Solar let him. Wamiri smashed the fourth in the temple, using the butt of her spear. He would live.
+
+She gave him an indulging smile.
+
+“I only stop killing because you asked so nicely, husband.”
+
+“A good day to you,” the bishop said, looking down the dazed sentries from his incredibly hooked nose. “Neriad be with you.”
+
+The men hesitated. Solar was pretty sure they didn’t speak Harrakan.
+
+“Or,” the bishop said, pulling a sword, “Enttiku will be with you.”
+
+The man wisely surrendered to the universal language of physical threats. Meanwhile, a furious ding turned the manor into a hive of activity. The third guard kept looking at Solar with the sort of disbelief that came with being still alive. Solar considered his options.
+
+Wamiri socked the man in the jaw. He fell like a sack.
+
+“Or that,” Solar admitted.
+
+He cut the manor’s iron gates open, the two others close behind. The guards stood before him in loose formation with a single Baranese man in front of them. He was completely calm, exuding a sense of pure confidence, gauntlet over the handle of an old sword. Solar recognized the blade, and his heart beat faster.
+
+“Get ready to execute the hostages,” the foe said.
+
+“Wamiri,” Solar replied.
+
+She moved forward, spear whirling in the wind.
+
+“I like it when you take charge, husband. I will cut us a path through. Ready, bishop?”
+
+“Right behind you.”
+
+The enemy blade master tsked but Solar’s approach forced his attention back. Solar could tell he was a capable opponent, and the other Baranese returned the favor. In the background, Wamiri engaged, supported by the bishop. They broke through without difficulty.
+
+“I will not insult you by telling you they’re not here,” the man said.
+
+“Good.”
+
+“But it does not matter. None of you will leave. Tell me your name, Harrakan, before you die.”
+
+“You will figure it out,” Solar replied.
+
+The man stood feet apart. He was wearing an elaborate Baranese armor marked with the late king’s sigil while Solar was still in tunic — for now.
+
+“Hmph. I am Blademaster Selyen of Baran, Champion of the King, master of the arena. The dragonslayer reborn. And this…”
+
+He drew the sword.
+
+Pressure spread over the manicured garden. The air tasted of metal. Solar took a deep breath.
+
+“This artifact is the Sword of the Dragonslayer himself, the first blade master to defeat an adult dragon in single combat. It was recovered from the mouth of the dead beast, still attached to its owner’s right arm.”
+
+“Oh, I know. I remember.”
+
+Selyen blinked.
+
+“It was quite painful.”
+
+Doubt and realization cracked the layer of self-importance. It was too late, of course.
+
+Solar raised his right arm, the very same Viv had regrown fifteen years before when he had come to meet her as a very last resort. The Blade of Barran, treasure of the kingdom, flew to its own master’s hand where it fitted perfectly.
+
+“My old friend,” Solar whispered. “Ah, my turn then?”
+
+Solar saluted. Just the pressure of the sword carved a groove across the stone path.
+
+“My name is Eron of Solar. The Dragonslayer.”
+
+Selyen took a few steps back, mouth agape.
+
+“That is…. impossible.”
+
+“And I do not kill guards or soldiers because they are powerless. You, on the other hand, have power aplenty. And you used it for this.”
+
+Eron was next to him.
+
+Eron struck. He bisected Selyen, the trees behind him, and the manor’s outer walls. The shockwave traveled across the garden like the release of a long held breath. The sword sang in his hands. Finally. After so, so very long.
+
+“You and your upstart master will regret the day you picked your path,” Eron told the dying man. “For today, the gloves come off. For all of us.”
+
+The doors of the manor opened. Wamiri was here, supporting an exhausted but very much alive Archwitch of the Thorn alongside the bishop. Gil the Crown Prince of Enoria closed the march with blood on his sword. He dropped it.
+
+“It’s you…. it’s really you. The legend.”
+
+Unfortunately for Eron, the mood was ruined when Wamiri growled, stepped to him, then slapped his ass.
+
+***
+
+Crest stopped behind Oleander in the middle of the field, around half a league away from the Harrakan lines. With him was a collection of over fifty leaders of the kingdom with various degrees of legitimacy. The Hopecrusher was a given, as was General Terilasani who led the sparrows and most of the Viziman part of their militaries, and King Sangor of Enoria. A very reluctant participant. ‘King’ Marzak of Baran was also valid although his status was not. Some of the tribe leaders of the Shadowlands were a bit more iffy, but he supposed the volume was the point.
+
+The Paramese Alliance wasn’t reciprocating yet. He could only assume pre-battle banter was a lost tradition. It did give him time to inspect the opposition though, starting with the infantry.
+
+[Harrakan Heavy Infantry (Children of the Scale), second step of a path dedicated to line battle, close quarter combat journeywoman, undead killer, high morale.]
+
+“She’s done it.”
+
+Harrakan arts were thought lost to time but the inspect skill couldn’t lie. The girl had really brought them back from the dead. He’d traveled to the old capital long before and thought the old empire outside of mankind’s grasp. He’d been wrong. And they already had military tradition strong enough to be recognized by the system. He checked other formations, disbelief forcing every subsequent inspection. The Mountain Lords, the Iron Brotherhood. Linebreakers.
+
+[Harrakan Heavy Infantry (Hightree company), close quarter combat expert, good duelist, human killer, undead killer, furious (will fight to the last warrior)]
+
+Well obviously since they’d burnt their fucking tree down. A shiver ran up Crest’s spine.
+
+This was fifteen years of effort? Fifteen years had led to this? How?
+
+What had he done for the past century?
+
+Then he found the heaviest armored ones.
+
+[Harrakan Imperial Guard (One Hundred). Elite Infantry. Expert close quarter combatant. Full runic set gear. Morale: unbreakable, all sources (flagbearer effect).]
+
+What the fuck. Those guys could stop the vanguard itself. And there were more behind.
+
+[Witchpact Crossbow (Sister of the Eye). Elite sharpshooter. Decent close quarter combatant. Special bolts.]
+
+More came: the Bitter Hearts, the Black Hands.
+
+[Bullwark-class portable shield array.]
+
+He’d heard about those but to see them in the flesh… so they were real. How could they even channel enough mana to function and move without depleting their cores?
+
+[Liberator Flame Tank, mark II.]
+
+What did that even mean? It was like the outlander had brought her war to this world. It scared Crest, but then he remembered it wouldn’t matter. Oleander was too strong now. He would kill her, then her army would crumble. Even those handsome knights he saw at the back would make no difference. He had to hope so because otherwise, this wasn’t going to be the quick battle everyone was hoping for.
+
+Even the Hopecrusher lacked his usual bluster. Everyone could see the unwavering wall of black metal in front of them. It didn’t take an advanced inspection skill to know those strange constructs were machines of death.
+
+“Horses coming,” someone said.
+
+“Is that a fucking spider?” a tribe leader asked.
+
+It was, in fact, a fucking spider upon which the strangest humanoid Crest had ever seen waited. He knew this was a merl from description but, truly, he’d never met one in person. A kark woman on a large pakar arrived next, her thick black hair braided and red face showing nothing but hateful disdain. Crest still couldn’t believe that they were now wearing full plate. Queen Rosea was next, then a few northern city leaders, a couple of mages, very few people compared to the entire retinue Oleander had brought. They stopped at a good distance, in a half cycle relative to the Maranorian pack. They didn’t trust them. Well, Oleander had broken a truce before so he could hardly blame them.
+
+He felt the other outlander arrive in his soul. Suddenly, Oleander’s all-encompassing aura was pushed back, toned down until Crest could almost feel his thoughts were entirely his own again. She landed in a spray of soil but without effort. She definitely had high physical stats to do all of it in heavy, silverite-engraved armor. Her dragon landed the same way. Her voice carried strangely. It was a skill, for sure.
+
+“We’re long past talks. What are you even doing here?”
+
+The irreverent tone annoyed Oleander. By Crest’s side, the Hopecrusher stiffened. It was like they couldn’t comprehend that an enemy to the death wouldn’t respect him like they believed he ought to be.
+
+“I am here,” Oleander hissed, “to offer you a chance to spare the lives of your people. If you genuinely care about them, then submit yourself to death willingly. Your people will be granted honorable treatment. Even the non-humans you favor will be given a chance to leave in peace with their belongings. This is the best chance you have left. You cannot defeat me.”
+
+But the woman shook her head, eyes filled with anger.
+
+“You bring your sorry ass all the way here like you’re on a winning streak and can’t possibly lose. I know I’m wasting my breath on you but this is for your supporters. There is no destiny here. Fate magic entertains only possibilities, not certainties. You and your pathetic gaggle of idiots are going to learn this soon. This is not a saga; you’re not the main character; and the gods are on the side of logistics.”
+
+“You cannot defeat me,” Oleander insisted, suddenly angry. “I am the Immortal. You can hit me with all of your spells, torch me with dragon fire, you can slice at me. It doesn’t matter. I will not die.”
+
+“Now you’re threatening me with a good time. See you soon, loser.”
+
+“Viviane,” a voice said.
+
+Crest was struck with disbelief. The person who had called was Sangor, the King of Enoria.
+
+He should have been silenced by Oleander’s aura after submitting to him. How could he show initiative? How could he even talk out of turn? His willpower must be insane! Crest almost gasped.
+
+Oleander turned to the king who grit his teeth. He seemed to be at the edge of two opposing auras.
+
+“I am sorry,” he carefully enunciated.
+
+Oleander clicked his tongue. Crest knew what it meant: the old king was going to be replaced, maybe not before the battle, but very soon. Oleander could not tolerate disobedience in any way.
+
+“Though we were apart for too long, our bond is one that cannot be broken,” the empress replied.
+
+Her voice was sad, full of regret. Or at least it looked that way. Crest had never thought those two could be friends. It was a strange thought to be friends with another ruler.
+
+“If you two fools are done? Viviane, I have been more than generous but you need to understand this. You cannot kill me and I cannot fail to kill you. Not when I have this.”
+
+Oleander turned. On his shoulder rested the hilt of a sword, so humble in appearance, ancient, yet unmistakable when one looked at it for more than a second.
+
+“Mommy left you a toy. Nice. Go ahead then. Strike me down. Right now.”
+
+Oleander didn’t reply though his hand reached for the handle. The witch didn’t move. A wan smile emerged from under the dragon crown.
+
+“Hesitating? Don’t worry. I’ll make you draw it.”
+
+Then she turned and after a last, hateful hiss from her beast, she and the others left.

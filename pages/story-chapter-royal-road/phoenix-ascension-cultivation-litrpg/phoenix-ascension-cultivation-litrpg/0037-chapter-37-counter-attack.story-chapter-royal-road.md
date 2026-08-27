@@ -1,0 +1,229 @@
+---
+id: e995ed20-91c0-54f9-8792-239ac4a3f27e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 37: Counter-Attack"
+slug: 0037-chapter-37-counter-attack
+partOf: phoenix-ascension-cultivation-litrpg
+position: 37
+ownLength: 2507
+unit: words
+publishedAt: 2025-10-18
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2686806/chapter-37-counter-attack"
+royalRoadId: "2686806"
+---
+
+Run? Run away from what, humans? Mother was panicked? How could that be? There was no way Mother, a majestic Phoenix, would be scared of anything!
+
+Mother, what are you saying? I wanted to ask, but no words could leave my throat. The closer she got, the clearer her figure became.
+
+Mother was burning, she was literally on fire as she hurried toward the nest. The humans behind her threw attack after attack, all of which she managed to dodge with incredible agility.
+
+However, why wasn’t she fighting back?
+
+That’s when I saw them— formation runes— glued to her body. Something was taking away her ability to fight back, but what could it be?
+
+I didn’t need to think for more than a few seconds and realised that the people at the bottom— those that weren’t flying— held a talisman in their hand while the other was weaving a hand sign.
+
+Two dozen foundation establishment cultivators were channeling their Qi into a single formation to suppress mother.
+
+Impudent, the lot of you… are really COURTING DEATH!
+
+Phoenix fire rushed out of me like steam from a very hot container. How dare these humans attack Mother? How dare they try to supress her? How dare they!? How DARE!
+
+“Little Flame, don’t attack. Please listen to Mother and hide!”
+
+Hide? How could I hide? When Mother is getting attacked? Impossible.
+
+“Little Flame!”
+
+She yelled inside my mind using a skill I wasn’t aware of, but I didn’t listen. I rushed down the tree, determined to put a stop to their formation. Mother yelled inside my mind again, but I ignored her the same way I ignored system.
+
+How could these mere humans fight against a Phoenix? If she weren’t being suppressed by these stupid talismans, they would already be dead.
+
+Without being able to use stealth, my only way to unnoticed was to hide in ambush. My size and color made it hard to hide anywhere, though. Therefore I simply attacked.
+
+So what if they were Foundation Establishment cultivators? Currently they were all focused on maintaining the formation, so they could’t attack. If they did attack them, they would be those whose role is only as backup in case something happened to the main holders.
+
+And that in turn would reveal a poriton of those that actually hold the formation in place, which would allow me to kill them.
+
+With all that in mind, I didn’t hestiated to strike.
+
+Ember Step, Elemental Wave, Precise Flame Control, Phoenix Fire, Paralyzing Screech. Activating all my Bloodline Skills put quite a big strain on my body, but I quickly recovered. My Tiny Blood Lord title was also in full effect, and killing intent seeped from every fiber of my being.
+
+The debuff from the wave would make those that got hit weaker to fire, however they wouldn’t be able to dodge because of the paralysis.
+
+That was when those that were in the way of Ember Step would suffer the full brunt of the damage. Meanwhile, a dozen balls of Phoenix Fire surrounded me, and flew toward the nearest cultivators.
+
+First were the shocks of surprise, then the screams of pain of those that didn’t react in time before the inevitable light of barriers blocked my attacks.
+
+However, I expected as much, and lunged at the nearest cultivator.
+
+His barrier had just been set up, but with my current strength and passive enhancement from the Dragonbone Tempering skill, this much was nothing.
+
+Three hits later, the barrier shattered and my claws met his neck.
+
+[You have slain Du Bonfei, Lvl 9 Cultivator.]
+
+Tsk.
+
+He wasn't particulalry weak, but the fact that he had to put his entire concentration in maintaining the formation made him incredibly vulnerable. His fellow cultivators looked at me with horrified expression, their fear turning to anger upon noticing that I wasn’t even half a Phoenix.
+
+However, what could they do? Currently they were paralyzed, and so were mine for the taking.
+
+Or at least, I thought that was the case. Turns out their resistance to paralysis was higher than I thought. That was quite a bummer.
+
+Some of the decoys left the formation and rushed to attack me. They were useless members, planted to aid the main core of the formation if something were to happen. Standard practice amongst any respectable sect.
+
+However, they were not all from the same sect, which meant their teamwork was lacking in a lot of places.
+
+They attacked with Sword Qi, actual swords, basic Qi attacks and even some elemental ones of their own. The braver ones also took a few pills mid-attack.
+
+Phoenix Reflex immediately jumped into action and I dodged. Some of their attacks collided mid-air, some disappear into the forest and some hit their allies.
+
+They didn’t do much damage as they all had their guard up, but whatever barrier talismans they had on showed signs of cracking.
+
+Just like with the demons, so what if they were strong, but lacked the intelligence? I’ll just use one to destroy the other! Even if I couldn’t use Qi, my strength was that of a Phoenix, how could mere humans compare to me?
+
+Without hesitation, I rushed toward the dumbest and weakest of them, and used my claws and Phoenix Fire to brute force my way through his barrier. Just like the other one, his throat was cut and he fell dead before anyone else could react.
+
+[You have slain Mu Wuwi, Lvl 8 Cultivator]
+
+How weak.
+
+The two that turned into demons were much stronger. Were these guys only in the early stage of Foundation Establishment? Was that why they were the decoys? The bonus damage I did to them was also no joke.
+
+I wasn’t sure if it applied to barriers as well, or if their barriers were geniunely that bad. Out of the two, I didn’t know which to believe.
+
+With each cultivator that I killed, I felt myself get angrier, losing tiny bits of sanity as the thought of these incessant humans bothering Mother and I filled my mind.
+
+I would make them pay! Make them regret, Mother!
+
+“Little Flame, get out of there!” She scremed in my mind and the Phoenix Reflex went on full alert as what I thought was a meteor crashed toward me. I stepped out of the way using Ember Step, and watched as the figure of an old man materialised from the explosion.
+
+He didn’t say anything, but wore the symbol of a pill. No doubt he belonged to the pill sect, and he looked very unpleased. From his aura I could tell that he was no simple Foundation Establishment expert.
+
+His foundation had taken deep roots and was on the verge of brekaing through to the Golden Core realm. All he needed was a push, but he was holding himself back.
+
+A Quasi Golden Core realm expert…
+
+My eyes narrowed. I had no chance of winning against him, the difference in our level was simply too strong. He must be an elder or honorary elder of that pill sect. They sent what they considered to be cannon fodder to deal with me.
+
+How infuriating, I wasn’t even worth the presence of an actual Golden Core expert?
+
+But I had no way of winning.
+
+“Run!”
+
+And so I did. Without hesitating, I rushed out of the area with Ember Step and my mind raced as I tried to think of a plan on how to deal with him.
+
+Even if I could use Qi, a direct confrontation would result in my death. Running away would also be impossible with my current speed. A Quasy Core Formation Cultvator didn’t need to exert much effort to catch up to a Phoenix that can’t fly.
+
+Even if I could fly, the result would be the same.
+
+But I had faith in my skills, and even if I could not use my own internal Qi to fuel them, who said outside sources couldn’t help?
+
+I swiftly rushed to the place where I’d hidden my bag of holding and tapped it with my talons. Bearing the pain of using internal Qi to open it, I took out all the spirit stones and placed them between my wings. I also took out the two golden cores for good measure.
+
+That was an automatic action based on my thoughts. I could take out the items and place them wherever I wanted in the vicinity. Just like when the little fish opened those two bags and she arranged each items based on what it was.
+
+She was pretty smart for that, and probably the reason why I even remembered such an important details.
+
+With all the spirit stones tucked between my wings, I gambled, and activated Stealth and Shadow Cloak while absorbing them.
+
+Just like I’d expected, the skills used the newly acquired Qi, allowing me to keep what I had in my dantian to fight against the Demonic Qi.
+
+I slipped into the forest, stealth shrouding my body in darkness just as the cultivator appeared where I was. His eyes narrowed as he looked at the bag of holding, no doubt recognising that it belonged to one of his allies.
+
+He didn’t care much for it though, and instead spread out his senses to find me.
+
+However, regardless of how strong a cultivator he was, I didn’t believe he could so easily see through two stealth skills stacked on top of each other.
+
+Even if he could, I was long since gone.
+
+The spirit stones provided very little Qi, and for me to sucesffully pull off my plan, I needed to hurry.
+
+The two stealth skills burned through the spirit stones.
+
+I arrived back at the bunch of cultivators supressing Mother with their stupid talismans. Looking up, she was fighting them rather well despite being unable to use her full power.
+
+Seeing that, anger rushed through my veins, and I eyed the rest of them from stealth. They must have sensed my gaze, as some of them flinched and fear coursed throug them.
+
+My title was doing its job.
+
+Let’s see if I’ll upgrade it today!
+
+I jumped out of stealth and activated the Dragon Flames skill using Phoenix Fire as the main flame. If I were to use Nirvanic Flames, I would not be able to sustaint them after summoning them.
+
+However the Phoenx Fire uses my stamina, and not Qi, so as long as I could move they could keep fighting for me.
+
+And that was all that mattered. If the demons couldn’t take them out when fighting as two and I was weakened— well they might have been one reason I was that weakened actually— then these distracted Foundations Establishment cultivators couldn’t hold a candle to them.
+
+After summoning and ordering them to attack, half of my spirit stones had been used up. I quickly slipped back into stealth and rushed in the darkness of the forest.
+
+The Quasi Golden Core cultivator had already caught up, but missed me again. Seeing the two flame dragons, he cursed and looked troubled. Perhaps deciding between helping the cannon fodder or looking for me.
+
+The answer was obvious.
+
+He ran back into the forest and activated his senses. I didn’t move, not even one bit.
+
+[Skill: Stealth[Lesser] has reached the [Master] Rank.]
+
+[Skill: Shadow Cloak has reached the [Intermediate] Rank.]
+
+Just in time!
+
+My two most precious skills at the moment have ranked up, no doubt because of the pressure that damned cultivator put on them. Stealth was at the Master rank now. When it goes past that, will it become normal stealth or greater stealth?
+
+Remained to be seen.
+
+With the added layer of protection from the rank up, the cultivator would have a harder time finding me. Key word was harder. Sooner or later he’d find me, and that would be the moment I’d die.
+
+But I would never allow that to happen. Once I free Mother, she’ll make quick work of these worthless humans, and then we can leave for Father’s territory.
+
+However, that depended on my stamina, which was rapidly being drained. If this went on I’d have to recover it by eating… but there wasn’t anything I could eat to recover.
+
+[You have slain Lin Lifei, Cultivator Lvl 6]
+
+Another one dead. My dragons are really strong, huh. No doubt the rank of the Phoenix Fire also makes that possible. Once it reaches Master rank, I have no doubt it would evovle.
+
+I’m quite excited to know what it will evolve into.
+
+I had no time to daydream though. If I didn’t finish it quick I would have to eat the coprses of the humans.
+
+The thought alone revolted me.
+
+Sneaking up on the closest human, I slip out of stealth and peck at his barrier. I didn’t need to activate a skill to peck, I could peck just fine by myself!
+
+Peck, peck, peck!
+
+The barrier shattered in less than a breath of time, however the cultivator was ready. He weaved a series of hand signs and blasted me with Qi.
+
+Without Strengthened Constituion, I knew it would hurt. However, Dragonbone Tempering was hard at work, and an attack that would have otherwise pierced my body only left a deep wound.
+
+I grabbed onto his robes, and the impact of the attack sent both of us flying toward the forest. As we rolled, I made sure to cut his throat, and he died within moments.
+
+[You have slain Mo Yuan, Lvl 5 Cultviator]
+
+Tsk, another decoy.
+
+It seeme that there were quite a lot of those decoys, however there was no way a formation that could partially seal a Phoenix was simple. Something fishy was going on.
+
+I scan the remaining cultivators but see nothing amiss. Without any other choice, I continue fighting.
+
+My spirit stones supplies were running low, but luckily the few cultivators I’d killed all had bags of holding. I rush at each of their corpses, grabbing them, then rushing into the forest.
+
+After using the spirit stones to open the bags of holding, I had a dozen or so tucked beneath my wings. With these, I could afford to use a few more active skills.
+
+However, as it turned out, my plan wasn’t foolproof.
+
+Each time I activated a skill, a tiny amount of the Qi inside my dantian would seep out before the system used the spirit stones. That meant that each time I used a skill, the Demonic Qi would advance a little further.
+
+The standstill would become a massacare, with me as the victim.
+
+I couldn’t afford that, which was even more reason for me to finish these fuckers off as soon as possible. After freeing Mother, everything would get solved. She’d kill the pests chasing her, possibly heal me of my affliction, and then we could go meet Father.
+
+Yes, that was how everything would plan out.
+
+I took a step forward to head to the battlefield, however a message I’d never seen before flashed in front of my eyes.
+
+[Warning!!! Stamina dangerously low!]

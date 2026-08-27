@@ -1,0 +1,145 @@
+---
+id: 64a1f61b-0de5-50dc-9220-76d4ab2d08ec
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1318 - Great Sea Serpent"
+slug: 0192-chapter-1318-great-sea-serpent
+partOf: the-primal-hunter
+position: 192
+ownLength: 2726
+unit: words
+publishedAt: 2026-05-22
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3432105/chapter-1318-great-sea-serpent"
+royalRoadId: "3432105"
+---
+
+The atmosphere underwent an immediate and sudden change at the appearance of this newcomer. Its aura was still within the realm of A-grade, but the difference between this being and all others present was stark, to say the least.
+
+It was not a question of levels at that point, but sheer quality. Jake, who had been ready to stake his life in an attempt to at least draw blood from the near-peak A-grade Horned Slayer, watched this new creature slowly emerge, and as it seemed to cover most of his vision, he easily used Identify.
+
+[Great Sea Serpent – lvl ???]
+
+It was one of the greatest considered at the apex of this world, and Jake immediately understood why. While he didn’t have proper insight into how powerful these A-grades he’d met so far were, he had considered them at least above-average variants.
+
+Now, he questioned whether that was truly the case. Because if it were, then the Great Sea Serpent was an actual top-tier variant, likely just a single step below a Unique Lifeform.
+
+The mass of scales continued shifting as the massive beast coiled around the entire area Jake and the others were occupying, and with its movements, space itself locked down, and an oppressive aura seemed to suppress everyone’s ability to display their full power.
+
+Jake used his sphere to see the reactions of all the A-grades, and they were evidently all shocked at the appearance of the Great Sea Serpent. Some even threw looks Jake’s way, but he naturally had no idea why the gigantic snake had shown up now, either... but what he did know was that the scaled A-grade’s attention had been on him since the very moment of its appearance.
+
+Trying to estimate the full size of the Great Sea Serpent felt almost impossible, as its body formed enormous walls that covered Jake’s vision, and even with Pulse, its head had yet to enter his range of Perception. It was the largest creature Jake had ever encountered in person, and it seemed more than capable of coiling around entire planets.
+
+“Great Sea Serpent, to what do we owe the honor of your presence?” the Lich asked, having already fully dispelled the insulting Soul Contract, as her attention was now fully focused on the newly arrived A-grade.
+
+“Curiosity.”
+
+The voice boomed throughout seemingly all of existence, and the words felt almost physically heavy as they fell upon the group, with only a few of the A-grades managing not to be affected.
+
+Jake suddenly felt the gaze of the Great Sea Serpent on him, and instinctively, he looked up. The entire sky had transformed into an ocean of orange, giving off a soft glow that penetrated the mist of the Minor World and made it visible. A massive black slit went down the center of this ocean, making Jake realize he was currently making eye contact with the utterly gigantic creature.
+
+“I see. Well, you’re naturally more than welcome to participate. Your arrival was just unexpected,” the Lich said, her cheerful mood entirely gone as she spoke with a cautious tone.
+
+From her words, she also seemed to already know what the group was up to. Jake observed the Nomads present and took note of how none of them were snakes, but that didn’t mean what Jake had done within the Nest hadn’t made its way back to the Great Sea Serpent and made it look into the situation.
+
+“Do I need your permission? To announce my actions?” the Great Sea Serpent said in a haughty tone, making it clear that it believed itself superior to all the A-grades present.
+
+Even the Lich, which the Shaman had said was considered second-from-the-top in this world, was still one big step below the Great Sea Serpent in power. Given that, what would all these other A-grades count for? They would have been slaughtered if they dared to fight.
+
+“Of course not,” the Lich quickly backtracked. “I let my curiosity about your presence get the best of me. I apologize.”
+
+The Great Sea Serpent didn’t comment but did keep staring at Jake while never addressing him directly or even acknowledging his presence so far.
+
+“Yes... It is curious. Venusians and Arachnecs getting along. Working together. What could have made this happen?”
+
+It was a question that seemed rhetorical, but the Great Sea Serpent paused, clearly giving space for a reply. The A-grades seemed to take a moment, but one of the Nestmothers spoke up quickly.
+
+“We’ve found someone from beyond the Boundary and are working on facilitating a plan to explore and migrate to what lies beyond it. A lot of information has already been uncovered, including a massive potential threat beyond A-grade. Fortunately, there seems to be some kind of restriction on the area right beyond the Boundary, and...”
+
+The Nestmother just started yapping, rapidly giving away all the information Jake had revealed so far, and even sprinkling in some of their own musings and beliefs. Surprisingly, the Venusians quickly joined in by also oversharing, followed by one of the Nomads also saying what little they knew, with the Lich desperately left with nothing of note to say.
+
+At first, Jake was surprised by their reactions, but soon he understood. The Great Sea Serpent had given them a chance to share their knowledge without being forced to, and the A-grades had quickly taken it once they realized. Once a single faction took this opportunity, everyone else also had to speak or risk offending the Great Sea Serpent by holding out on him.
+
+What’s more, nobody knew what the Great Serpent was already aware of. He clearly knew some things related to what was currently happening, so if they said something untrue or indicated they were trying to actively deceive the top-tier A-grade... well, the fact that the Great Sea Serpent had sealed off space and oppressed them with his aura indicated there would be severe consequences to such disrespect.
+
+At least that was Jake’s interpretation, and if he was right, then clearly, this Great Sea Serpent was more than just a big snake with lots of power. It was also quite skilled at manipulation, making Jake wonder if that was just a common trait that many snakes seemed to have.
+
+Once the A-grades were done with their explanation, the Great Sea Serpent seemed to finally acknowledge Jake as it addressed him directly.
+
+“It truly is a curious situation. Tell me, human from beyond the Boundary, do their words ring true?” the Great Sea Serpent asked Jake, putting him in quite a nasty spot.
+
+He felt tempted to lie and say that they were all full of shit in the hope that the Great Sea Serpent would decide to do a bit of killing, but he ended up just slowly nodding, while still not giving them full credit. “For the most part, but any mistakes are likely due to their extreme ignorance of the multiverse.”
+
+“Ignorance. Yes. We are ignorant, are we not? Pitiful creatures, trapped in a puddle, unaware of the ocean just beyond the hill, with you, the river leading to knowledge and freedom.”
+
+Jake had no idea where the Great Sea Serpent was going with this, and he didn’t trust the fact that he hadn’t felt any hostility yet, either. The Venusians and Arachnecs had never shown hostility either, but that didn’t mean they weren’t willing to do what they’d done. They had never intended to kill him, as he was too useful. It was entirely possible the Great Sea Serpent was thinking in the same vein, and while Jake wanted to believe that, since it was a snake, it would help that not be the case; Jake didn’t want to get his hopes up.
+
+“But as they told you, there are current limitations,” Jake answered, feeling that the peak A-grade was expecting some kind of response, so he had to say something.
+
+“Indeed, it is so. Yet you represent hope and help set a more definite timeline. At the same time, your presence here marks the beginning of a new era for this entire world. One bound to be full of dangers and opportunities. How we proceed may be the most important decision ever made by anyone ever born in this world.”
+
+The more the Great Sea Serpent spoke, the more perplexed Jake became about what he actually wanted. The A-grade never seemed to speak clearly and relay actual intent. Clearly, the Great Sea Serpent’s appearance at this moment was no coincidence, and chances were he had been aware of what was going on ever since Jake and the B-grades exited the Boundary. Perhaps even before that.
+
+What the Great Sea Serpent said next more or less confirmed that the A-grade was at least aware of what had gone down after Jake returned from within the Boundary.
+
+“An important decision... that will not be rushed. No action shall be taken that cannot be rectified.”
+
+These words made the A-grades in charge of their factions frown, as the Great Sea Serpent clearly called out their heavy-handed approach. It was a scolding without directly calling them out, but there was definite intent behind these words at least.
+
+“Then what do you propose?” the Horned Slayer spoke up for the first time, still showing quite a bit of gusto despite clearly being severely outmatched.
+
+“Nothing. Not yet. Any proposal would be rushed and thus unwise. But one action must be taken. An act of equality.”
+
+The Horned Slayer seemed to notice that something was off as he spoke. “What do you intend to-“
+
+Before the words could even come out of his mouth, the Great Sea Serpent struck. Jake couldn’t even fully see what happened; all he saw was a brief blur before the Horned Slayer disappeared. Vaguely feeling the direction of movement, Jake realized the Horned Slayer had been blasted downwards to somewhere already out of sight.
+
+Several of the A-grades looked utterly shocked and took defensive positions in response to the attack, despite knowing that if they were next, resistance would be utterly futile. The Oracle from the Venusian side looked about to talk as space quivered for a moment, as the Horned Slayer reappeared, having been dragged back, now looking a lot worse for wear.
+
+He was keeled over and letting out heaving breaths as two soda can-sized holes had appeared on his chest and shoulder, both of them oozing with a venom Jake’s Sense of the Malefic Viper instantly let Jake know would mean instant death should Jake even touch it.
+
+“A wound for a wound. Justice? Perhaps not, but the closest we will get in a scenario like this.”
+
+Yet again, the atmosphere had undergone another drastic change, as the Great Sea Serpent had made its willingness to strike very evident. The Horned Slayer was still heaving as black veins spread from what Jake suspected to be two fang holes, the poison spreading throughout his body and even affecting his soul as far as Jake could tell.
+
+The Great Sea Serpent was utterly oppressive as his words lingered in the air, nobody daring to act. The Venusians, especially the truth-telling one from the Ancestor Village, looked like they wanted to go and assist the Horned Slayer, yet none of them dared to move under the watchful gaze of one of the three strongest existences within this Minor World.
+
+“A small act. One I hope will make the human reconsider and allow us to reset. To begin anew in the process of making this all-important decision. What say you?”
+
+Jake stood there, dumbfounded, as the peak A-grade spoke to him once more. He took a moment to get his bearings and considered his answer carefully before he spoke.
+
+“I was open to discussion and making a plan from the very beginning, but I do appreciate the sentiment,” Jake said, really hoping that the massive snake didn’t take offense. Fortunately, he didn’t seem to.
+
+“Good. Now let us ask what comes next.”
+
+Once more, the Great Sea Serpent sounded like it was about to say more, but instead remained silent, prompting everyone else to speak instead. Same as last time, no one spoke immediately. Everyone present was being extra careful about what to say after what had happened to the Horned Slayer.
+
+Speaking of, the A-grade Venusian was still one of the stronger members of the Venusian faction and managed to fight back against the venom somewhat decently. The spread had stopped, and the overwhelming vital energies were fighting back, but damage had definitely been done, and the Venusian would be left with some bad soul damage that wouldn’t heal in just a day or two.
+
+Finally, after what seemed like forever, the one to speak up was surprisingly the B-grade Archweaver. “As the Great Sea Serpent said, making a hasty decision would be reckless and risky. So rather than aiming to decide what comes next today, perhaps we should all take a step back. Give time for us all to reflect on a plan that benefits everyone involved and leads to the best future for our world without acting in a fashion that’s beneath us.”
+
+The Archweaver had spoken without being interrupted or anyone even frowning at a B-grade daring to speak up. Instead, a few nodded their heads, and especially the Arachnecs looked like they were in complete agreement.
+
+Of course, none of that mattered, as only the opinion of one creature had any true bearing. The Great Sea Serpent was quiet for several seconds, even after the Archweaver spoke, before his voice echoed once more.
+
+“Do the rest agree with the protégé of the Grand Weaver’s words?”
+
+That was also when Jake learned that the Archweaver indeed did have a pretty damn important identity. He assumed that this Grand Weaver was the leader of the Arachnec race, and if the Great Sea Serpent knew who the Archweaver was, his position definitely couldn’t be low. It was entirely possible he was even a candidate to become the next leader of his entire race.
+
+As for the Great Sea Serpent’s question, no one responded for several seconds once more, except for the Arachnecs nodding in agreement. However, surprisingly, the next one to speak up was another of the B-grades present.
+
+“If I’m allowed to speak... and know this is simply my own opinion, as I cannot possibly represent my race or faction... I also believe it’s best that we do not start our journey beyond the Boundary by making enemies,” the Shaman said in a very nervous tone, and definitely not just because he was under the gaze of the Great Sea Serpent.
+
+He had effectively just gone against what his superiors had done and openly voiced his disagreement. Something that at least made Jake feel a little better about all that had happened. He’d thought that he and the Shaman had gotten along pretty well, especially after their Arachnec-hunting journey, and he had felt betrayed when the Venusians turned on him. Fortunately, it seemed that the Shaman didn’t have any idea things would develop this way, and was personally not agreeing with how the elders of his race had acted.
+
+The Great Sea Serpent didn’t directly acknowledge the words of the Shaman, but after a few seconds, did speak again.
+
+“With the absence of protest, I assume we’re all in agreement.”
+
+Yeah, definitely manipulative, because who the hell would dare protest against the peak A-grade with the Horned Slayer still trying to stabilize himself right in the middle of the group?
+
+“Then this matter ends here. We shall all think. Consider. And only decide when the best choice can be made. Though for that, we need knowledge. I need knowledge. So I invite the human to accompany me and bestow his insights upon me.”
+
+For the first time, it looked like some of the A-grades would actually dare speak up, but the Great Sea Serpent quickly silenced them with his next words.
+
+“Temporarily, of course. One year. In one year, we shall reconvene, and during that time, I beseech the human not to enter the Boundary, but to stay under my watch. Under my... protection.”
+
+And with that, it seemed like rather than Jake successfully escaping, he had instead simply switched jailors. Of course, seeing as he was dealing with a snake, things were certainly not that simple.

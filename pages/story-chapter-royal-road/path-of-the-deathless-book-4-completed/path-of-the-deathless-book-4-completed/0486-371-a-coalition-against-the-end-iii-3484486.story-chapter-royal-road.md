@@ -1,0 +1,239 @@
+---
+id: 3145b311-03a3-5604-8f48-86e37b7d11ed
+page-type-slug: story-chapter-royal-road
+title: "371 A Coalition Against the End [III]"
+slug: 0486-371-a-coalition-against-the-end-iii-3484486
+partOf: path-of-the-deathless-book-4-completed
+position: 486
+ownLength: 5010
+unit: words
+publishedAt: 2026-06-02
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3484486/371-a-coalition-against-the-end-iii"
+royalRoadId: "3484486"
+---
+
+We, of the Abyss, are children of the Great One, bound together by faith.
+
+This faith is a wealth of wonders and blessings, not only for individuals lost and desperate, but for civilizations, serving as an adhesive to form bonds between communities and the guiding star that glows even in the darkness of the Abyss.
+
+We are preserved by our faith, made whole by our faith, made strong by our faith, and given hope by our faith.
+
+So it is truly a shame that the same faith that serves as our bridges is also the reason why our five civilizations cannot come together. For the matter of faith comes with a final caveat: whose faith is the truest one? Whose desired lore is paramount, and whose scripture finds itself rendered apocrypha?
+
+The First Blood seeks to bind all to their blessed Progenitors. Those who were fortunate—or vile enough—to drink from the Great One's lifeblood and saw themselves evolved beyond the limitations of flesh and soul. They claim to be the most literal inheritors of the Great One's will, for whose ichor flows within their veins, for whose power has made them what they are?
+
+Naturally, the other Four Faiths disagree, first and foremost the Composer. And who can blame her, for who would heed the claims of the defilers of your parent’s grave, thieves of your lineage?
+
+But what weight does the right of true inheritance hold if you cannot enforce it? What power does a Demigoddess of Song and Mercy hold over a realm of warriors who still worship her parent as a liege they can resurrect?
+
+Take the Descenders Union, who see the Great One as something they must venerate but also contain. They seek to descend deeper into the embrace of the Great One, for only they can bear the burden of such a great responsibility.
+
+Or so they say.
+
+While they sink deeper into the flesh of the Great One, the Compact of Babel possesses a portion of the Great One’s heart, a crossroads of countless dimensions connected to it. Commerce and logistics make empires, and only a nation unconstrained by geography and unfettered by morality can claim such a prize.
+
+Of course, all the trade and connections in integration cannot protect you if you are deficient in magic and technology. The Necrotech Legions have always sought to understand the nature of the Great One. Of every civilization, among all the faiths, they are the most empirical, and they dared ask the question: if the Great One was so mighty, what managed to cut them down from the sky?
+
+Faith does not mean hegemony, and until there is a single dominating scripture, one canon above all, then this faith that has bound us will also see us divided, and more, eternally opposed.
+
+—Valor Thann
+
+371A Coalition Against the End [III]
+
+Kune Kade’s heart was a bomb that wouldn’t stop going off. It had been that way ever since the Deathless saved her from the basilisk's den, and absurd as it might sound, her near-death experience was among the least of the factors fueling her anxiety.
+
+For one, she spent the past few days in the Tutorial among a group of Legendary Pathbearers, who'd recently broken out of a Surfacer prison, of all places. Then there was the matter of the colossal monster she resided in and the orcs that piloted it. Oh, right, the orcs. Gray-skinned monsters that fed off of misery and pain, consummate psychopaths who'd had countless lifetimes to hone their brutality. And she'd been placed in the Tutorial; there was likely no place in all integration where one could find more orcs.
+
+But while the surfacer Legends kept her safe, they were eccentric and erratic in their own ways. The most pleasant among them was Gone, a taciturn goblin who somehow moved faster than time itself. She kept a close eye on Kade and made sure none of the orcs bothered her overmuch, but that didn't stop some of the grayskins from trying.
+
+Kune Kade had seen the great Semper Paragon from a far distance, had once witnessed Sir Marikos, the Flying Fortress himself, unleash his devastating Pyromancy from afar, boiling away mountains and incinerating entire armies. She knew Legends were powerful, could feel it in her very bones, in the way they moved, the way the world broke before them like it was made of glass. Yet, there was always a degree of separation, a bit of distance, a sort of barrier to stop her from fully realizing just how awesome they were.
+
+When a few greedy orc Biomancers tried to pull her through the walls of the court leviathan, Gone struck back—and was the only one to strike at the end of the bloodshed. One moment, Kade was walking down the hall. Then, something pulled at her, nearly ripped her into the parting tissues of the wall. What followed was a golden lightning bolt that slammed into her. It didn't tear her apart. Instead, she found herself ejected from the flesh of the Court Leviathan, coated in blood and viscera but otherwise unharmed. The same couldn't be said for the orc Biomancers. They were left in a thousand pieces each, their bodies savaged to unrecognizable pulps and set afire by the sheer friction that simmered red along Gone’s claws.
+
+“Won't do that again,” Gone declared as she walked past Kade, indifferent to the slaughter, flicking the gore from her digits. The goblin always talked to her like she was forcing herself to speak slowly, and maybe she was.
+
+It took Kade an hour before she finally stopped shaking. After that event, she clung to the non-orcs as if she had been welded to their bodies.
+
+But even that brought its own traumas. The one called Candles wouldn't stop talking about the things and people he burned, and described them in such vivid detail that Kade emptied her stomach more than once. Then there was a wolf-man who was apparently an agent of Aviary. He was pleasant beyond compare, but Kade couldn't shake the feeling that he was planning to rope her into some sort of scheme.
+
+Because… Well, he was of the Stolen Throne, wasn’t he?
+
+But the one who had her heart racing the fastest, who left her speechless every time he appeared, was He Who Stills Eternity. The original Undying. The greatest of all Legends to emerge from the Abyss. Valor Thann.
+
+The ancient Necrotech had been nothing short of courteous each time he addressed her, though their interactions were few. He exuded a warmth she hadn't expected, but even that warmth couldn't hide his sheer capacity for violence, his lethality, and the Necromancy that blazed within his being. Kade could feel it billowing off of him, so much corrosive mana that he could have decayed the entire Court Leviathan with a mere gesture. Yet his control was so absolute and fine that even when he walked through the rooms, when he laid hands on others, he kept his Necromancy from withering them.
+
+Even so, Kade couldn't stop her knees from shaking in his presence, for she knew if his magic slipped ever so slightly, there would be nothing left of her. Not even bones for her family to bury.
+
+Then came the day the Deathless and his two companions returned to the Court Leviathan from wherever their expedition took them. The red-headed archer was down, incapacitated. The Umbral of the group was trying to rouse him, and then there came a booming voice so loud and devastating that its mere manifestation nearly killed Kade in an instant. Her ears popped and filled with blood, as did most of her brain vessels. Her body was practically unmade as her bones turned to powder and her organs to paste. Darkness took her before the pain could fully register. When she came to, she found herself being worked on by a soldier of the First Blood of all people, using his Biomancy to rebuild her flesh.
+
+“Do not worry, Squire-Adept. I may not be truly practiced in the art, but I know enough that I can have your flesh commingle. At least with me, your cancers will never be fatal.”
+
+“Cancers?” Kade choked.
+
+“Ah, yes. An unfortunate side effect of my magic; I have healed you the only way I can, and the tumors are an unavoidable aspect of my spellcraft. But worry not. Lay down your burdens, and cast aside your woes. I will ensure that none of these cancers consume you until you can be treated by a more devoted Biomancer for your kind.”
+
+Instead of calming her, his words brought her nervousness to new heights. “Oh, I… Oh.” Because what else could she say to a Legendary vampire who held her life in his hands?
+
+Despite her constant terror, he proved himself to be an honest bloodspawn, as she continued to live. Somehow, she felt even healthier than before. Stronger, like her Adept-Tier Toughness had been amplified.
+
+And that was the last of her many shocks, up until Valor Thann came to find her earlier today with… a request for her aid. “Adept Kade. We have a favor to ask of you: one that coincides with your return to the Descenders. We intend to gather representatives from the Five Faiths for an upcoming meeting within Gate Piety, and we would like you to deliver a message to Sir Marikos Valdemar, informing him that the Deathless is inviting him personally, along with any other ranking members of the Union of his choosing.”
+
+“Me?” Kade squeaked. She barely understood why she reacted that way. She wanted to return home, wanted to see her family again. Another chance to redeem herself in the eyes of her faith, her fellow Squires, her Knight; to die before she cleaned the shame her brother brought to her family was an unthinkable thing, yet she had been faced with that very prospect when she plunged into the basilisk den.
+
+But the System, or perhaps the Great One themselves, had seen proper to intervene on her behalf and sent a monster in human flesh to save her.
+
+Now she, a mere Adept, was to be escorted by a Legend back to her people. This was a second chance of second chances, but there was also a building tension in her gut, for she had been struck down and cast out of formation. She had shamed herself during that exercise. And now, if she was to return, escorted by a surfacer of all people, she could only wonder what the other Squires might whisper, how much lower the Knights would think of her.
+
+But then her mind bent. The Valor Thann himself wanted her to carry a message from the Deathless to Sir Marikos Valdemar. There was an opportunity here beyond any potential scandal or shame. It would cover her in glory to bear a message of such importance to one of the Union’s finest Knights, and the weight of that possibility was grander than any humiliation she had to endure.
+
+Her answer was always going to be yes. The only difference now was that her heart beat at an excited pace rather than a terrified one.
+
+They left through the Abyssal gateway that very day. Kade prepared for an arduous journey, a long trek through First Blood and Compact territory, avoiding sentinels and scouts to finally arrive back where the Union reigned.
+
+Gone, the one that was to escort her, disagreed with her assessment. “Put the supplies down. You're not going to need them. As long as you know the way, it won't take more than a few minutes. Even if it's on the other side of the world.”
+
+Her words left Kade speechless. Before she could ask the Legend if she meant that in jest, Gone turned into a bolt of golden lightning and slammed into her. Despite being a quarter of Kade’s height, she carried them both to and through the Abyssal gateway before making their first pit stop on the other side. Kade didn't even have the time to finish blinking once. The world simply turned into a Chronomantic blur. By the time Kade regained her bearings, they were no longer in the Court Leviathan but out in the Umbral Wilderness, in front of a dimensional gateway.
+
+The entrance to Gate Piety was surrounded by great towers and layered trenches, further reinforced by dimensional summons from active rifts and biological horrors that made Kade’s skin shiver—and she fully jumped when she noticed the two orcs staring at her from the corner of her eye. Gone moved—stepped in front of Kade to protect her from any attack.
+
+But none came. Both orcs looked on, unimpressed and indifferent. The larger one, wearing only a loincloth, continued chewing on the head of some kind of mutated ant or something—its acidic lifeblood dripping down his chin.
+
+“Yes?” The other orc, bespectacled and wearing a pale healer’s coat, sneered at the two new arrivals. “Is something the matter?”
+
+Gone studied both orcs, her posture tense. “Should be back in the Tutorial.”
+
+The smaller orc rolled his eyes. “Oh, yes, the silly matter between the Challenger and the Insul. I've decided to ignore that, as I have a greater task: the continued extermination of the vampire vermin.”
+
+“I'm standing out here because I want to hit things,” the massive orc declared. “The Challenger might have called for us to go back, but we're Maestros for a reason. He made us to be individualists, and right now, I'm exercising my individualism by ignoring him too. Besides, I prefer helping out and making myself useful for the Insul. Something tells me that being helpful will go a long way to having him keep us around.”
+
+Kade blinked. “You would defy your own god just to stay with the Deathless?”
+
+“We're not defying anything.” The other orc pushed his spectacles up along the bridge of his nose. “The Challenger requested an audience, but he did not demand it. And so it is as Bonk says: we are merely exercising our free will, as the Challenger tasked us to long ago, and I have decided to do something more useful with my time.”
+
+As he said that, Kade also noticed the blood dripping from both the orcs’ right arms. There was so much gore spilling out from their limbs that Kade wondered if they were about to come off, yet there was no obvious injury either. What's more, there was a growing incandescence that flickered out around the blood, like something was about to blossom into shape.
+
+Gone held to her paranoid posture for a few seconds longer, and when the orcs did nothing, she shook her head and motioned for Kade to give her directions. “Go. Before they actually get interested.”
+
+Kade’s gaze lingered a while longer on the orcs, but they had already lost interest in her. Instead, the orc Biomancer was beginning to do something with a mess of flesh—the way the meat twitched and changed left Kade nauseated.
+
+“We need to follow the forested path to our left—” And before Kade could finish delivering her directions, Gone turned into a bolt of Chronomantic lightning and sent them spearing through the dense woods.
+
+They made it to Descender's Union territory in less than five minutes. If not for Gone’s lack of clear direction and Kade's struggle to keep the contents of her stomach contained, it would have been much faster. They almost ended up getting intercepted by a lance of Scout-Squires. Kade had to use almost because they were moving so fast, and Gone's time-accelerated Reflexes were so extreme, that she simply pierced through any wards layered in her way like a dagger digging through paper.
+
+Two minutes, sixteen stops, and over 12,000 kilometers covered later, Gone set the twosome down in front of a Descender stronghold, and a chain of gleaming spells lit up along the concentric walls. Magical spheres ignited over the turret towers that bedecked the battlements. A wave of pressure washed over them, immediately flinging Kade off her feet. Gone, meanwhile, remained unshaken, her body sparking with temporally infused lightning.
+
+“Unidentified Pathbearers, declare yourselves. You stand before Checkpoint Charlie-under-Zulu. Failure to reply will see you terminated with utmost prejudice.”
+
+The telepathic broadcast battered Kade's already frazzled mind, but years of training as a Squire had conditioned her on how one should respond to authority: promptly and with absolute clarity.
+
+“I am Squire-Adept Kune Kade! Squire to Ser, uh, Dunbridge! I was separated from the rest of my Lance during a scouting run—and rescued from a dishonorable end by the Deathless of Gate Piety! With me right now is Legend Gone of Gate Piety. She’s carried me back to convey a message of great importance, dispatched by the great Valor Thann and the Deathless. They call for an audience with Sir Marikos Valdemar and all O-Rank Knights! I submit to any and all examinations and declare on my honor and that of my family that these words are true!”
+
+Her words were shouted, but her mind rang louder. But then, after a beat, the pressure grinding against her vanished, though the wall of magical spheres continued blazing bright.
+
+Kade was no fool. She knew how much firepower just one of those spell towers could output; together, they could turn someone with Master-Tier Toughness and Magical Resistance into a pile of ash at the bottom of a glass crater.
+
+The sudden, booming reply from the fort nearly made her jump out of her own skin. “Acknowledged! Remain in place and prepare to submit for further interrogation. Further instruction will be delivered upon confirmation.”
+
+And with that, no further word came forth.
+
+“Is this normal?” Gone asked. The goblin had the slightest of frowns on her flat face. The tension in her body language hinted at how much she wanted to run, but from the way she reacted and the levity in her tone, it was clear that she had no fear for the spells arrayed against her.
+
+“The Knight must always be vigilant against treason and sabotage, both within and without.” Kade’s words were near-verbatim to the Manual of Basics. “And blind trust is a near impossible thing when First Blood shapeshifters and Compact-purchased traitors fester in each of the Five Faiths.”
+
+Gone considered her words. “They can scan you. They can question you. I will stay outside.”
+
+Kade winced. “I don’t think that’s possible.”
+
+“It is,” Gone insisted, her tone low and dangerous. “No one is reaching into my mind. No one is putting shackles around my hands. No one tells me where I can or cannot go. Tell them. Convince them. They can’t hold me here anyway. Knights are too slow to stop me. Tell them. If they say no, I’ll leave anyway. And if they follow, they won’t come back.”
+
+And suddenly Kade's anxiety returned in full force. There were times these days when she wondered if falling prey to the basilisks would have been a better end. “O-okay. I’ll try.”
+
+To mock her looming dread, the front gates to the fort snapped open in a rumbling crash as the shape of an emerald-scaled Knight and his Lance sallied forth.
+
+***
+
+There were other messages dispatched from Gate Piety. All of them came in the form of star-forged arrows. They departed from both the surface and the Abyssal gateway. They soared across rivers and forests, across mountains crowned by falling snow, and over lands that were pockmarked by spellfire and foreign wars.
+
+Rather than bearing the power to claim lives, each arrow was infused with spatial magic, and within each of them dwelt a letter addressed to a specific person. The letters were written by two separate Pathbearers, with the surface-bound addressed by Roland Arrow and the Abyssals by Valor Thann. Though the syntax and prose were vastly different, the contents were all the same: Gate Piety called for a conference, and the receiver of the message was most welcome to attend.
+
+It wasn't just old allies who were being summoned, but old adversaries as well. A few arrows were skybound, the first of which to where the Storm King’s Court thundered in the realms above the Lost Atlantic. Several more were dispatched to the High Undying and their Ossuary Cadres of the Necrotech Legions. More sailed across the Pacific, some plunging down beneath the waves to appeal to the awakened titans of the depths that Roland had faced before, while others went further yet, seeking the Stolen Throne on the other side of the vast sea.
+
+Representatives from the First Blood, Compact, and Weave were not hard to contact. Though Shiv loathed to invite the former two, it was best that they were in attendance as well. Before he addressed his grievances with them in blood, now he would do so in the political arena as well. And possessed of the Harbinger, perhaps a war of words and a literal war held little distinction.
+
+Shiv even offered his own invitation to Evanescia, as he thought this would be a great way for him to embroil and involve her further. She still intended to play her games, but in a place consumed by such chaos, with him being the only one she held in high regard, he could find a use for her. He could make her a weapon unlike any other—if he could just find the right psychological leverage.
+
+Shiv granted the Farwalker, who was still in the Fairwoods, a similar opportunity, but the Myth simply shook his head. “I know what you're doing, kid: there's a reason why I stayed with the Farwalkers instead of taking a position back at Chorus. Telling me to get involved in politics is like telling me to suck the pus out of someone's ass-boil. No. Not happening. Suffered enough of that. And I’m going to suffer more of that anyway when I get you to Chorus.” Then he paused as a slight chuckle escaped from him. “That being said, I appreciate the chaos you're trying to brew. Getting all your friends, enemies, and uncertains in the same place? Yeah, that is a powder keg, but it's also a pretty good layer of defense. If the First Blood and Compact could have come for your Gate before, things are different now. With the Descenders there, it's already an ugly fight. Descenders, High Daughters of the Composer, Necrotechs, and all the surfacers? Yeah: a bit of collateral damage later, and it'll be the vampires and the greedy fucks who are burning.”
+
+Then some of Shiv's companions came to him, asking if they could send their own invites. Most surprising of all was Tulveg, who said that he wanted to invite Ekkihurst the Sculptor. The presence of Tulveg’s old master would apparently unnerve most of the First-Generation Elders of the First Blood, and he might be able to help with the enduring plague afflicting many of Blackedge’s survivors. He could even take a look at Adam, though Tulveg made no promises that Ekkihurst could definitely remove the Crown or otherwise end his suffering.
+
+“You sure about this? He's not just going to turn them into some kind of screaming ball of flesh?” Shiv cringed.
+
+“He does that only to the stock—those he deems to have no potential or value.” Tulveg winced. “But the Vicar's plague is a challenge, and even if my former master knows little of Animancy or the other arts needed to create such a potent infection, there are few Pathbearers on Integrated Earth more capable of alleviating burdens levied upon the flesh. And if nothing else, he might be willing to take you on as well. Though you are less than trained, he would likely find you a most fascinating student to sculpt.”
+
+An uncertain wheeze escaped Shiv. “Helix is going to hate this.” He paused. He grinned. He was no longer uncertain. “Never mind. Invite him. This thing's going to be a mess already. In fact, I hope it's a mess. Maybe I’ll be able to make use of him too.”
+
+Comedy 22 > 25
+
+Scheming Bastard 19 > 24
+
+Politics 1 > 6
+
+As the day went on, more supplies were brought over from High Harbor, and the other three Dragon-Brokers arrived as well. As it turned out, it wasn't just Yellowbelly who had that poverty-stricken scale condition. All of them brought in massive hoards, and soon the space beside Shiv's cooking zone was layered in a mountain of mithril, gold, and other treasures. And atop those summits of unparalleled grandeur, four dragons loomed, with a building-sized tea set placed for each of them. A new flavor took hold inside Gate Piety. Columns of lofting smoke drifted high up into the air, choking the atmosphere with scents of black, white, pu’er, and jasmine.
+
+The thousands of attendants the Brokers brought in also began setting up their own tent cities nearby. Those were some luxurious tents, with their insides enchanted to expand the inner dimensions, apply temperature adjustments, and self-clean their surroundings. Already, the Gate was being filled up with people; a new density was building, and Shiv had a feeling that Piety would find itself packed before everything was done.
+
+As the day came to an end, Shiv found himself inspired to write his own letter. Though his wordcraft was lacking, it was good to practice, and he found himself drafting a letter of thanks to the Composer for all she'd done and asking what he could potentially do for her in the future in exchange for any relief she could bestow upon Adam in his current condition.
+
+He had Rose read his draft to see if she could make any improvements. In retrospect, however, that might have been a mistake.
+
+Writing 16 > 18
+
+“Holy fuck, kid. What the hells is this? Our family dog when I was growing up had better handwriting. I'm not joking. That thing had Master-Tier Penmanship. Chew-Chew was also really good at math, come to think about it… Pissed my dad the fuck off that he managed to train his family dog to be a better student than any of his daughters.” She threw her head back and barked an ugly laugh. “Also, we need to end your love affair with simple sentences before Uva gets jealous. At least your spelling isn’t so bad.”
+
+Shiv breathed in to prevent himself from gnashing his teeth and prompting Rose to compare him to Chew-Chew again. “Great. Nice. Any useful criticisms about the content?”
+
+“Aside from it being boring and kind of basic? Not really. You’re not going to be writing any stories or any major treatise soon, but your letter is pretty much acceptable, considering you're on good terms with this spider lady already.”
+
+Shiv nodded. “Georges made sure I wasn’t illiterate. Adam and Uva were helping with the rest of my missing education in the few spare moments we had.”
+
+The Lady of Blackedge cringed. “Sorry, Shiv. I didn’t mean anything by the dog thing.”
+
+“Yeah, it’s fine. It’s funny.”
+
+She struggled, but a grin cracked across her face. “It really is, isn’t it?”
+
+They both shared a snort.
+
+“Hurts…” Adam wheezed across the room at the same moment. “Kill…”
+
+Rose’s gaze went dark. She was a lively spirit at her heart—the way her empathetic core burned toward joy despite all she suffered made Shiv think of her as a bit more Ikki-like than anyone else he knew. But even so, the Arrow family was fucking cursed. “You really think she might be able to help?” she muttered.
+
+“I don’t know if she has the power, but she’ll be willing. Even if it means spiting the Challenger.” Shiv tried to ignore the cruel amusement radiating from the fist behind him. As time went on, he realized the arm drank in more than violence, but also despair, doubt, rage, frustration, jealousy, and anything that could fuel the fire of conflict. “I—”
+
+A sudden clench of pressure had him out of his seat with the Last Morsel drawn. Shiv was so battle-hardened he didn’t even think. He knew when someone was teleporting in, and Jessica’s spatial jumps didn’t squeeze like that. Hostile.
+
+He prepared to jump Backstage to ambush and rip apart anyone stupid enough to try and—
+
+The Educator stepped through a spatial rift and stormed across the room, muttering snarled hisses under her breath as she made for Adam. “Stupid, ungrateful, uncaring scum.”
+
+Shiv hesitated. “Educator?”
+
+She barely glanced at him. Instead, she planted a stand and stacked a blank canvas upon it. With a casual shrug, she let her tome drop from its chains—causing it to crack the ground as she pulled a brush free and began vigorously painting Adam’s current state. “What is the point of you if you will not help when needed? What is worth any of your promises?”
+
+Shiv advanced on the Educator, alarmed. “Maia, what the hells are you doing? Actually, where have you been?”
+
+“Looking for you!” she all but snarled. “I risked myself traversing the Fairwoods, hiding in the landscape looking for all of you.”
+
+Shiv’s mind went blank.
+
+“And when you escaped, and the Challenger did… did this…” She gestured at Adam. “I went seeking Udraal. Fool me for thinking it would make any difference.”
+
+Shiv was speechless. “You were… trying to find us?”
+
+“Of course, you stupid child. You, Young Lord Arrow, the girl. All of you. Losing you to that place was unacceptable, and even if Thann does not care, I do—if only to see my only release guaranteed.” With rough and stark strokes, she began hammering colors on the page. “And before you bother with him: Don’t. He will not intervene. He wishes to avoid the Challenger’s ire, and he sees this as a good thing for the Young Lord.”
+
+“Good thing?” Shiv’s insides filled with explosive rage, and his Harbinger brightened so much it materialized around him once more.
+
+Suddenly, the Educator stopped painting. “That… that skill.”
+
+“The fuck does he mean, a good thing?” Shiv spat.

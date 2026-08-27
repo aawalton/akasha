@@ -1,0 +1,169 @@
+---
+id: ac04a3cd-4ea5-57f7-802a-fc680d03111c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13: Mother's Voice"
+slug: 0013-chapter-13-mothers-voice
+partOf: phoenix-ascension-cultivation-litrpg
+position: 13
+ownLength: 2653
+unit: words
+publishedAt: 2025-08-25
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2547088/chapter-13-mothers-voice"
+royalRoadId: "2547088"
+---
+
+[Universal Language has been acquired.]
+
+[Bloodline Skill: Phoenix Fire (Lesser) [Novice] has gained a temporary XP boost.]
+
+I stared at the notification with widened eyes. My heart raced with happiness, and decided to get their description at a later date, as I didn’t want to get lost in reading in the middle of the night.
+
+Finally! Now I only need to get back ho-
+
+However my thoughts were cut off as the soft flapping of wings echoed in my ears. I turned around- and looked up at mother, her plumage radiating red and yellows, flames moving in an angry dance.
+
+Then, I heard it. A voice so soothing, so full of love, so feminine and so melodious that it made me forget where or who I was for a second. Yet hidden within, I sensed anger and worry.
+
+"Little Flame, what is the meaning of this?"
+
+Mother's voice; Not coos, not chirps, not screeches, but actual spoken words that I could understand. Her voice sounded like an erhu— clear, distinct, vibrating with life and filled with love.
+
+I couldn't help myself. I turned to her and snuggled inside her plumage, overjoyed from being able to finally understand her. I didn't know what came over me, why had hearing my mother's words made me so happy, so content? I couldn't say, maybe the phoenix baby inside of me felt that way, maybe my memories felt that way; It didn't matter, hearing it made me happy.
+
+"Mother!" I chirped joyously, rubbing my face against her feathers, thriving in the warmth of her body. Flame-like patterns flickered across her body, her emotions betraying her expression.
+
+"Little Flame, what happened? What are you doing outside the nest at night?" She asked, rubbing her head against my back. Her anger seemed to have lessened slightly, and I thanked my charm stat for doing a half decent job at helping me earn her forgiveness.
+
+She called me that again, 'Little Flame'. The feeling inside me scoffed at the name, calling it cliche and uninspired. I loved the name, though. 'Little Flame', the name mother gave me, just like Fa Xiaolan, it was precious.
+
+"Nothing happened, Mother." I said, taking a deep breath. "I just... I felt like going out to hunt. I… was hungry?" I couldn't bring myself to say anything else, though. Mother didn't pry further either.
+
+She let out a sigh and looked at the corpse, its flesh still sizzling. I saw a hint of approval in her eyes, and that’s all I needed. She grabbed it with one leg, and me with the other, then flew off and brought us back to the nest.
+
+Mother broke off a piece of meat, then sealed the corpse so it would stay fresh. “Eat, and then let’s sleep.”
+
+"Mhm." I nodded and turned toward the meat, forcing myself to eat as much of the chunk as possible, then closed my eyes and allowed myself to drift into sleep. Mother coiled around me, and all I could think about was what sort of skill that strange beast would give me, if any.
+
+The night passed by without any commotion. My blurry vision returned to normal as I blinked a few times, squinting at the rising sun. Its warmth kissed my feathers, bathing me in a comfortable light. I shook my body while getting up, adjusting my feathers and stretching my legs.
+
+They looked thinner than yesterday, and much more powerful. I flapped my wings, my heart skipping a beat upon feeling some drag try to lift me up, but failing.
+
+I sighed.
+
+It wasn't quite time yet for me to take to the skies.
+
+Mother's shadow loomed over me as she rose to her feet as well, stretching and yawning while looking at the sun. The flame patterns on her body lit to life, with the feather on top of her head and the ones at the end of her tail looking like actual flames.
+
+"When will I be able to fly like you?" I asked the question that pressed me the most, trying to show as little excitement in my voice as possible.
+
+"Hm? Ah," She murmured to herself then took a good look at me, then at the sun, then back at me. She poked my belly with her talon, careful not to hurt me, and said. "In about thirty sun cycles."
+
+So, a month? That's far too long!
+
+"I see..." I stared at the floor, my head lowering with disappointment.
+
+"Don't be disappointed, Little Flame. It took mother a long time before she started flying as well. It will come in time." Mother tried to appease my disappointment, which helped a little, but not that much.
+
+She giggled upon seeing my head droop down, "I can tell you're eager to explore, but you're just a chick right now. Even if you're stronger and smarter than your peers, you shouldn't rush things."
+
+I lifted my head, our gazes meeting mid air. "Be still like a mountain, and flow like a great river." She said, turning her head toward the sun. "That's what your grandma used to say all the time. You resemble me a lot, in my younger days- I was just as reckless." Mother then turned back to look at me and pulled me into a hug. "I'm glad you don't resemble your father; he left me here to fend for myself saying he had affairs to take care of back in the homeland."
+
+"Father?" I asked, confused. True, I had completely forgotten one needed a father as well to be born. "What about him?"
+
+Mother let out a heavy sigh and stared at the direction opposite sunrise. "It's far too early to explain certain matters. Once you grow older you'll understand without me needing to explain, so let's wait until then, alright?"
+
+I nodded, putting that matter aside for now. There were still a lot of questions I wanted to ask. Yet, just as I opened my beak, my stomach growled.
+
+Mother chuckled and released me from her grasp. "Let's go eat. The meat won't be as good but it will do."
+
+I hurried to the corner of the nest, where mother had placed the corpse of the beast she used Qi to preserve, and dug in. She joined me as well, though eating in a more refined manner, using her claws to pick the skin apart and rip the flesh, while I drove my beak into whatever parts of the flesh I could.
+
+However, I had a clear goal— reaching the Beast Core. I didn't know if it would be a Golden Core, or a lower quality core, but any extra skills or Qi would be useful.
+
+Given my hunger, it didn't take long for me to reach the center of its body, where its cold, still heart lay alongside a core with just a hint of warmth. I didn't hesitate to grab it and take it outside.
+
+Mother turned to look at me, and I wondered if she wanted it. "Mother, do you want to absorb it?" I asked outright, but she shook her head.
+
+"Those are of little use to me right now, Little Flame. My realm is far higher than those beasts, but if I hunted anything stronger you wouldn't be able to eat them."
+
+"I see," I nodded, and touched my forehead against the core. I didn't even wait for the text to appear, and whispered a 'Yes' inside my head.
+
+[Beast Core absorbed with 50% efficiency.]
+
+[Qi +35]
+
+A tiny bit of energy flowed through me as the core's warmth faded and its color dimmed. I didn't expect to gain a skill from absorbing it, as System said that the chance for such a thing to happen was very low. Yet, some part of me still wished for that to happen every time I absorbed a core.
+
+The bonus Qi would aid me in sustained fights, but it wouldn't be all that useful until I learned how to use it to cultivate. Which led me to another question I wanted to ask mother, but I didn't know if it would be appropriate. Either way, I waited until we finished our meal to ask any questions, as doing so in the middle of it would be rude.
+
+As I took the last of the bites, mother finished eating as well, though I could tell it was far from filling for her. She grabbed the carcass and threw it out of the nest, as we didn't have any need for bones or fur. With that done, I walked in front of her, looking up with the cutest eyes I could make, and asked.
+
+"Mother, how can I cultivate?"
+
+She halted upon hearing my question, and turned to look at me as if I were some sort of oddity. "Cultivate? Little Flame, why are you asking that? How did you learn about it?"
+
+Crap.
+
+I didn't consider the fact that I only ever interacted with Spirit Beasts before, and that they didn't cultivate using normal means. They simply lived, ate and thrived, absorbing Qi through natural means.
+
+However I wasn't content with that, I wanted to use both methods to achieve even greater strength. I've been relying on System far too much, and one day or another it may bite me if I wasn't careful.
+
+I couldn't bear the thought of lying, so I decided to bet on something. If System was the rule of the heavens, then everyone should have it. However, if my theory turned out to be false, then the consequences shouldn't be too dire. "Ah well... there is a strange thing in my mind... It told me all sorts of stuff and it mentioned cultivation. I wanted to know how I can achieve that." I said, trying to stutter as naturally as possible.
+
+"Voice? Ah! System!" She jumped upon hearing that, her feathers burning with excitement. "I see, you already have it. As expected of my daughter, truly a phoenix amongst women."
+
+Mother I know it's an expression but we're literally phoenixes...
+
+"Ahem," she cleared her throat and picked me up with her claw, lifting me up to her eye level. "Listen here Little Flame, cultivation is the thing humans do. They are inferior to us, so they must rely on cheap tricks to get close to our levels. It's a useless practice that will inquire the wrath of the Heavens. Why should you fight against nature? Remember what I told you, 'Be still like a mountain, and flow like a great river.' It means be stable, have a broader view and be flexible. Cultivators are narrow-minded, stiff like a plank and ugly both inside and outside. They don't even have feathers! Little Flame, do you want to lose your feathers?"
+
+Mother spoke with such pride and confidence that she almost convinced me that the path of cultivation was a bad one. However I knew that it couldn't be the case, as cultivators follow the will of the Heavens as much as Spirit Beasts do.
+
+I needed to learn how to cultivate, I needed to find a way to fuse the way Spirit Beasts grew powerful and the way humans paved for themselves. I knew deep inside that I had what it took, that my techniques would be superior and that I would need to rely less on System.
+
+My eyes sharpened as I met mother's gaze, and said in a confident, resolute tone. "But mother, I want to become stronger. I need to become stronger. I do not wish to remain a weakling. I... I-"
+
+"Enough of that, Little Flame." Mother said with a stern voice, "Look at me, I have grown strong without the use of such cheap tricks. In the entire Tianxu Continent, no Spirit Beast dares to contend with me."
+
+She sounded quite angry, despite the fact that she boasted her strength, and I decided against saying that the humans already tried to kill her. It would be too low of a blow and may remind her of the fact that she had lost two children.
+
+"Mother-"
+
+"Little Flame, listen to me. Mother knows better than those filthy humans."
+
+I didn't fight her anymore, sensing her growing frustration, and nodded. "I have a request then."
+
+"Speak it, Little Flame." Mother said, her anger begginign to calm down.
+
+"I want to fight Spirit Beasts, actual strong ones, like the ones you bring. I want to earn my food, I want to kill them myself and I want to grow stronger by doing so."
+
+Mother turned her head, put me down and looked toward the horizon in contemplative silence. She murmured a few things to herself, then looked at me and nodded. "Alright, I can do that. I will not stop my child from reaching her true potential. However you will not fight them alone, I will be here to intervene if anything goes wrong."
+
+"Thank you, mother." I said, containing my excitement and giving her a slight bow. She seemed to smile, at least with her eyes if not with her beak, and prepared to take off.
+
+"I'll go and search for food then, and an opponent. You don't get yourself into any trouble, this... just be respectful of the stronger beasts, alright?"
+
+I nodded with embarrassment.
+
+So she knew I would go down again, yet didn't stop me.
+
+Of course, I didn't assume her to be stupid, but thought myself smarter. It just didn't occur to me that she may have allowed me to sneak out instead of me hiding it pretty well.
+
+All that memorising her hunting time, gone to waste... she knew the entire time.
+
+I sighed and stretched my feet and wings, getting ready to descend and plot ways to steal the Qi from the lake. Several nefarious thoughts popped in my head, but they all required me to be stronger than my current self.
+
+Soon after mother left, I did too, climbing down the giant tree. Without the ability to fly, doing so could be a life or death situation, however I had confidence in myself and in my claws. Since I’d done it when I had been weaker, doing so now didn’t pose any sort of difficulty, and I jumped down on the soft grass, catching my fall.
+
+I looked toward the forest and smiled to myself, at least inside my head, and headed within the darkness, activating my stealth skill and blending in with the shadows. If I wanted to have any chance at taking out those beasts and absorbing the Qi from the lake, then I needed to upgrade the skill as much as possible.
+
+I didn’t want to spend any skill points to do that, though, so I had to find a wandering Spirit Beast and use them to train it. That wouldn’t take long, as the forest was stark-full of them- but I had to keep my stealth skill up, which wound up using up a good amount of Qi.
+
+I made myself as small as possible, hiding within the dense foliage and using the most shadowy parts of the forest to my advantage.
+
+I waited.
+
+My efforts paid off, as soft footsteps echoed through the quiet of the forest. Dry leaves crumbled under the creature’s steps, accompanied by the occasional snapping of branches. It wasn’t trying to be quiet at all, which worked out in my favor.
+
+Soon, its figure appeared from the depths of the forest— a large beast walking on four legs, with human-like hands. Ashen fur covered its entire body, down to the snake-like tail that whipped in the air.
+
+Its elongated face reminded me of a horse, except much smaller, yet its nostrils were just as big. I’d never seen such a strange beast before, and I didn’t know what to make of it, but whether it wanted to or not, it would become my ticket to a high stealth level.

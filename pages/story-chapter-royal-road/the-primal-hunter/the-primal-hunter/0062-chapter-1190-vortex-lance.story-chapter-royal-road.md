@@ -1,0 +1,183 @@
+---
+id: 14a07354-2183-5be0-aa9d-d40a9ea6f121
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1190 - Vortex Lance"
+slug: 0062-chapter-1190-vortex-lance
+partOf: the-primal-hunter
+position: 62
+ownLength: 2861
+unit: words
+ownProgress: 2861
+publishedAt: 2025-10-29
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2714541/chapter-1190-vortex-lance"
+royalRoadId: "2714541"
+markedReadAt: "2026-06-29T19:31:13.742Z"
+---
+
+The colossal monstrosity of assorted bone and flesh swung its giant hand down towards its foe, leaving a trail of miasma in its wake with every blow. From every part of its body, it exuded an aura of death that sought to turn everything surrounding it into undead.
+
+It was a creature that usually sought the strongest source of life it could detect with the sole purpose of ending that life, but today its ceaseless march had been stopped by a far smaller opponent.
+
+What looked like only a small insect before the nearly five-hundred-meter-tall undead monstrosity circled the massive abomination, a powerful gust of wind following in this small beast’s wake.
+
+The undead creature was a B-grade creature classified as a living calamity, albeit one of the weakest ones there was. Meanwhile, the beast was one of the strongest in C-grade. A master of the wind, a harbinger of hurricanes, and the progenitor of her own race.
+
+Or, in her own words... the bestest bird.
+
+Sylphie, having heard that seemingly everyone else had gone around and killed B-grades, decided she also wanted to try it. She had spent a long time with those closest to her kin and had a lot of fun with all the wind elementals and others who specialized in their shared affinity.
+
+Sadly for her, she was just too smart for her to benefit much from staying there longer. She had learned most there was to learn in a short amount of time, and while she could have stuck around and slowly continued to improve, her Uncle Jake had always talked about momentum and stuff, so she decided it was time to go fight a bit.
+
+Luckily for her, this undead B-grade had recently appeared on a planet where one side had been struck by a meteor shower, wiping out most life there. When a lot of life was extinguished at once, it was only natural that the affinity of death would take its place, which could lead to the birth of creatures like the abomination that now sought to wipe out the other side of the planet where life still existed.
+
+Of course, that wouldn’t happen now that Sylphie was on the case.
+
+She had decided to start the fight by finding out what the B-grade was capable of. It was huge, sure, and it gave off a smelly smell that Sylphie didn’t like, but it was also slow. The miasma was easily dealt with as Sylphie had just surrounded herself in an upgraded version of her Green Shield, protecting her entirely, but if she wanted to win, she still had to kill the big guy.
+
+Her initial attack had done little outside of making the big guy mad as it started swinging for her, but Sylphie was way too fast as she began to build momentum. Her Authority of Wind was on full display as she mobilized all the wind affinity from far and wide to create a hurricane of titanic proportions with the B-grade at the center.
+
+Even if Sylphie hadn’t done any hunting while learning from the Sylphs, she’d still have continued to gain levels simply from existing in such a beneficial environment. She had gained several skill upgrades there and put them all on display as she went fully offensive.
+
+Cutting winds tore up the B-grade from all directions, shearing off its flesh little by little as it tried to respond as best it could. Limbs grew out from all the fleshy bits of its body and tried to reach for her whenever she got close, and barrages of bone and miasmic blasts constantly tried to stop Sylphie’s persistent assault, but all to no avail.
+
+One thing the B-grade did have going for it was its ridiculous resiliency. All the fleshy bits Sylphie had cut off, even those that had been sliced and diced into fine little cubes, began to wriggle and merge with one another as they hit the ground, forming small fleshy monsters that tried to return to the large abomination to become one again.
+
+Sylphie tried blowing these small, annoying undead up, but even when she did, they just merged with one another again after she stopped attacking. She also noticed that the abomination began to become smaller as her attacks continued, and with this smaller size, its speed began to significantly increase.
+
+Its entire body also warped and changed to take a shape more suitable for fighting her, as several hundred-meter-long whips of what looked like fused-together spines emerged from its body and were swung around to try to catch the bird.
+
+Usually, Sylphie didn’t care about physical attacks much as she could just be all windy and ignore them, but in this case, she wanted to stay in bird form to avoid exposing herself to the domain of miasma.
+
+Overall, it was very annoying, and as the fight continued, Sylphie felt like she was only making things harder for herself. After she was done testing most of her skills, she decided it was time to really kick things up a notch, as she still had two more skills she wanted to test out.
+
+One of them was the skill she’d just gained from her recent skill selection. As could only be expected, it was a mythical rarity skill, and Sylphie had been looking forward to finally trying it out.
+
+With a few flaps of her wings, she gathered more wind than ever before. The clouds far up in the sky began to swirl as Sylphie called upon all the wind on the entire planet, as her body began to turn ethereal.
+
+Soon, she faded away, becoming one with the wind all around her, making it take on a green sheen. What looked like a massive tornado surrounded the B-grade abomination as the wind only kept getting faster, spinning more rapidly as it began cutting into the monster’s body more than ever before.
+
+It was like the undead had been thrown into a meat grinder, and one that was only growing stronger and stronger. The skill Sylphie used had a long name, but overly long names for skills were a bit silly in her opinion, so she just called it one word instead:
+
+Tempest.
+
+The wind continued to intensify in speed, power, and scope as Sylphie pushed herself further. The Tempest consumed the entire area, shearing apart a large segment of the planet as it kept absorbing more and more wind energy from all around to grow. Soon, it was several hundred kilometers in radius with the B-grade undead abomination smack in the middle, and contrary to a hurricane, in this instance, one didn’t want to find themselves at the eye of the storm.
+
+All the small bits of flesh cut off were shredded into meat particles before they could even hit the ground, and the abomination had no choice but to hunker down as it curled over and tried to defend itself. It didn’t even try to fight back but just focused on weathering the storm.
+
+Usually, this would be the best strategy, as Sylphie was burning through her resources and mental energy as she had to keep the storm going. She saved a lot of mana from the Tempest passively absorbing energy from the environment, but she was still the one who had to control it all.
+
+For several minutes, she kept the Tempest going as the abomination shrank with every passing second, having whatever made it cling to its undeath existence slowly sheared away. However, when it reached a height of only fifty meters, Sylphie struck a problem.
+
+While she had cut off all this flesh, the abomination had managed to keep most of the bones by absorbing them deeper into its body. With all these bones, it had formed a set of armor that covered it from disgusting bottom to disgusting top.
+
+Sylphie was also slowly cutting through this with her Tempest skill, but she knew that it would take too long. Luckily for her, she wasn’t just a super smart genius bird... she was an ultra super smart genius bird who had one more new trick up her feathers.
+
+One even more powerful than the Tempest skill, which was admittedly best against large groups of enemies.
+
+This new one had been born of her inspiration from the massive tornado she’d spent over a full year just flying within. The one that originated from the World Wonder known as the Vortex Pinnacle. Its scope alone and how it managed to gather the wind from all around was awesome in Sylphie’s opinion, and she’d tried to mimic it as best she could, which had resulted in her upgrading one of her skills to mythical rarity.
+
+What’s more, it worked really well with her Tempest skill.
+
+The gigantic Tempest soon stopped increasing in intensity as Sylphie slowed down. As she did so, her physical beast form slowly began to manifest within the whirlwind. Despite no longer actively controlling the Tempest, it kept going with the remaining energy poured in by Sylphie while continuing to draw in wind energy from all around to keep up its momentum.
+
+Seeking skywards, Sylphie shot straight up until she was free of the Tempest. Once there, she stopped and turned down toward the B-grade as she spread out her wings and suspended herself in the air.
+
+Mana erupted from her body as an illusory image of herself appeared all around her, making her look hundreds of times larger. Sylphie’s eyes began to glow bright green as she commanded the wind to gather, as a second maelstrom of energy formed above the Tempest that was still raging below.
+
+This gathered wind began collecting above Sylphie as it spun at incredible speeds, dragging in more and more mana. As it intensified further, its draw became so strong that not only wind mana was dragged into it. All other forms of energy were also forcefully absorbed and torn apart by the raging winds as the maelstrom began to take form.
+
+It began to elongate, its tip pointed down toward the B-grade, like that of a tornado striking the ground. She kept condensing the wind repeatedly as it only kept accelerating, reaching impossible speeds as a vacuum of mana formed in the sky all around her.
+
+The Tempest below was also affected, as it began to lose speed until it suddenly entirely unraveled. All the wind energy from the mythical skill was dragged up into the vortex in mere seconds, yet Sylphie kept it at the exact same size, as it constantly continued accelerating. It reached a level where space itself began to shake as the mana holding reality together was slowly drawn in.
+
+Once all the wind gathered by her Tempest had been absorbed, Sylphie had reached her limits. Admittedly, she had also taken a little inspiration from her Uncle’s super powerful arrows, not that she would ever admit that.
+
+As a final step, Sylphie unleashed all her energy and compressed the entire spinning barrel of wind one final time before directing it at the B-grade abomination below that had now stood up and noticed something was happening far up in the sky.
+
+Far too late for it to react.
+
+Sylphie released the skill, resulting in a deafening boom that could be heard throughout the entire planet.
+
+Sylphian Vortex Lance
+
+A single condensed blast of wind, entirely cylindrical and no thicker than a human arm, reached the ground at the very same moment as a second shockwave swept through the planet.
+
+The lance of hyper-condensed wind spinning at impossible speeds pierced through the abomination effortlessly as it continued down into the ground, where it proceeded to dig a hole too deep for Sylphie to see the bottom.
+
+Sylphie’s illusory form faded as the Vortex Lance dispersed without further fanfare. There was no grand explosion as all the energy had focused into that single line, resulting in nothing more than massive quantities of wind mana rapidly dispersing in the air.
+
+Below, the B-grade stood with just this thin hole through its body. To the still fifty-meter-tall abomination, it didn’t look lethal in the slightest... yet the miasma surrounding it had lost all control of its energies as the death affinity energy was dispersed and thinned out by the wind mana.
+
+A second later, the abomination slowly fell backwards onto the ground, Sylphie having gotten her notification the moment her Vortex Lance had hit.
+
+You have slain [Corpse Abomination Colossus – lvl 355] – Bonus experience earned for killing an enemy above your level
+
+Sylphie flapped her wings as she looked at the dead... deader B-grade below as she let out a satisfied screech... which turned out to be a bad idea. She had really pushed herself harder than she’d initially planned on, resulting in her knocking herself out through sheer over-exhaustion as she began falling toward disgusting flesh-covered ground, but was luckily caught as she landed on a hand of wind summoned by a variant Sylph that had appeared seemingly out of nowhere.
+
+This Sylph observed the sleeping hawk for several seconds as a voice echoed toward the skies and beyond. “I approve and concur. She’s indeed qualified to take my place once vacant.”
+
+A moment later, a gust of wind made Sylphie disappear alongside the demigod.
+
+--
+
+“Every time I dare venture in here, the situation grows more and more ridiculous,” the Unique Lifeform said as he floated at the door and saw what was happening inside the living room.
+
+Artemis was sitting nervously off to the side of the couch, as Nature’s Attendant looked on like a disapproving father, as Jake, Minaga, and the Seeker were huddled around the coffee table, as the two gods stared intently at Jake, who was in turn looking at what looked like an upside-down cup.
+
+“It’s a three again,” Jake said with confidence, completely ignoring the King. Something the other two gods evidently also did.
+
+The Seeker still looked skeptical as he raised the cup, revealing a die with a glowing three pointing up.
+
+“I told you he could do it,” Minaga grinned.
+
+“It could still be a coincidence,” the Seeker insisted. “There is a roughly one in sixty-million chance he simply got lucky.”
+
+Minaga looked at the god for a second. “Do it again.”
+
+The Seeker nodded as he placed the cup over the die and waved his hand above it.
+
+“Two,” Jake said casually.
+
+Lifting the cup again, the Seeker stared at it for a second. “Still a one in three-hundred and sixty-million chance he could have-“
+
+“Just admit you lost already,” Minaga laughed gleefully.
+
+The Seeker ignored Minaga as he looked at Jake. “Even if you could see inside with your Bloodline, the number displayed isn’t generated before the cup is lifted, yet you claim you can intuitively know anyway?”
+
+“I never claimed anything; that’s what Minaga claimed,” Jake shrugged. “I’m just playing along because he bribed me to.”
+
+“Right, I forgot,” the god nodded. “Understandable, and I shall not dig further.”
+
+Jake just smiled and shook his head, having decided not to question anything. If he did, he would spend all day asking questions such as “why does the Seeker have a true random die,” which would inevitably lead him to ask “why the hell would anyone ask for a true random die from winning a system event?”
+
+The answer to which still wouldn’t make a lot of sense, hence why Jake didn’t ask... except he had asked that one, which had been a teaching moment for him not to ask further.
+
+“Hey, wanna bet when the Shimmershroud Planeswarper escapes?” Minaga asked after a bit.
+
+“That sounds like a wonderful idea,” the Seeker instantly agreed.
+
+“I’m in too.” Jake raised a hand. “If I’m allowed to.”
+
+“The more the merrier,” Minaga grinned.
+
+“In that case, I’ll also join in on the insanity,” the King said in a surprising turn of events.
+
+The Seeker seemed to notice the King for the first time as he raised an eyebrow and looked at the Unique Lifeform up and down before speaking. “If I win, could I have one of your arms?”
+
+“You wish to have a limb of mine?” the King asked with confusion.
+
+“Yes,” the Seeker said, being dead-serious.
+
+“Sure, I’ll gamble one of his arms,” Jake agreed with a grin.
+
+“Me too,” Minaga raised a hand.
+
+The King floated there for a few seconds before just shaking his head. “Fine.”
+
+“So, all in agreement that the winner gets one of his arms?” Jake asked with a grin. “Great. Now, Jasper has been in there for a bit under five hours, and the Seeker said the time limit is a week... with that in mind, let me be first and bet that he’ll be out in-“
+
+“Less than five hours!” the Seeker quickly jumped, loudly exclaiming his guess.
+
+Jake barely had time to look at the god before the cube on the table started shaking violently, and a second later, it released a flash of light as a familiar-looking B-grade Planeswarper appeared sitting on the coffee table.
+
+Without a single hint of shame, the Seeker looked toward the King. “I want the left one.”

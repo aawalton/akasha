@@ -7,8 +7,9 @@ domain-parent-slug: domain/global
 persona-champion-slug: ryn
 sequence-slugs:
   - domain/domain-dictionary
-  - domain/craft-system
   - domain/context-management
+  - domain/work-system
+  - domain/craft-system
 settled: true
 ---
 

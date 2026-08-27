@@ -1,0 +1,105 @@
+---
+id: 1d04143d-acfe-5695-ae8e-d6c68e79df31
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1277 - Class Chosen, Sight Expanded"
+slug: 0150-chapter-1277-class-chosen-sight-expanded
+partOf: the-primal-hunter
+position: 150
+ownLength: 2920
+unit: words
+ownProgress: 2920
+publishedAt: 2026-03-23
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3184374/chapter-1277-class-chosen-sight-expanded"
+royalRoadId: "3184374"
+markedReadAt: "2026-06-29T19:35:02.738Z"
+---
+
+Picking the final option during any kind of system-related selection was pretty standard, seeing as the system sorted lists by how “good” something was. The highest-rarity skill would be at the bottom and even came last in the status menu, and the same was true with classes, races, and professions, even if they didn’t technically have rarities.
+
+Being fully aware of this, Jake turned his sights on the fifth and final class offered, keeping in mind it was “better” than Arcane Hunter of the Boundless Horizon.
+
+Arcane Huntsmaster of Primeval Origins – On the long Path to the apex, you have found yourself surrounded by kin of your own creation. Powerful allies who willingly follow you and recognize you for who and what you are. Embrace it, and lead them to hunt. This class revolves around strengthening and harnessing the power of the bond you have with your creations born from Primeval Origins, granting both you and them a variety of bonuses while fighting alongside one another. Despite embracing your role as a Huntsmaster, and no matter how powerful your hunting companions become, you remain dedicated to being the most powerful hunter in your group, using a bow and your arcane prowess as your primary tools to lead your pack into combat. Even when the Huntsmaster finds himself alone, he can pull on the powers and Records of his creations, making him a more than dangerous foe even when not with his hunting party. As their Huntsmaster, accept your Primeval creations into the fold, and create the greatest hunting party the multiverse has ever seen. Reach the apex together, all of you fully aware that only the Primal Hunter is worthy of taking the lead. Stat bonuses per level: +175 Perception, +150 Agility, +125 Willpower, +100 Strength, +100 Endurance, +50 Intelligence, +50 Wisdom, +30 Vitality, +100 Free Points (880 total)
+
+Jake had to take a minute and really go through this class description in detail, as he’d initially been very skeptical just from the name alone. He had been offered the Huntsmaster skill alongside Lone Hunter, so he knew what the term tended to entail, and true enough, this class was all about leading a hunting party. Not just any hunting party, though.
+
+It was a class specializing in Jake hunting alongside the creatures he’d helped create or evolve. Sylphie, Sandy, Vesperia, Jasper, and maybe that Demon Prince were all incredibly powerful creatures in their own right, and Jake did see the appeal of hunting alongside them, but he also liked taking on challenges alone.
+
+Something this class even recognized, as he could seemingly pull on their power and Records when fighting alone, which reminded him a bit of the Monster Hunter class offered before. Though with this one, rather than taking on Records of those he killed, this class would allow him to gain Records from those around him.
+
+Even then, the description made it clear that the class was meant to focus on Jake hunting with his hunting party. The stats given also revealed this, seeing as this one gave so much Willpower, a stat commonly related to leadership-style skills.
+
+When it came to the stats in general, they were fine, and the total was 880, the same as Arcane Hunter of Boundless Horizons. For Arcane Huntsmaster of Primeval Origins to be a top-tier class really wasn’t surprising, as anything related to Primeval Origins tended to be pretty damn powerful.
+
+Jake had initially written this one off simply from the Huntsmaster part of the name alone, but seeing as it didn’t cut off his possibilities of hunting alone, it wasn’t a non-starter anymore. Perhaps it even opened the door for Jake to further specialize the skill to make him more powerful when alone at the cost of the regular Huntsmaster qualities, effectively strengthening him for every creation he made. Plus, the class description even name-dropped his Bloodline, which Jake always liked.
+
+However, despite seeing possibilities and many positives, Jake also had some severe reservations.
+
+Usually, classes like Huntsmaster, which came with innate limitations due to how many stats it gave, would mean that Jake turned weaker when not with his hunting party, something this one avoided. That likely meant the limitations would come in some other fashion. Maybe it would limit him to not getting experience when fighting alone, or at least a penalty of some kind, likely alongside other things.
+
+An obvious one would be the limitation he was used to, where Jake only got experience from foes above his own level… something he suddenly began to question would even be the case. That limitation had been born from the “avaricious” concept, which had now been baked into the entire “horizon” theme, something this class lacked. Going further down that train of thought, wasn’t there a good chance that the skill which made Jake stronger when fighting alongside his hunting party would come in the form of a changed Big Game Hunter?
+
+Actually, the more he looked at it, the more he wondered whether this class even focused on fighting higher-level foes at all? Sure, it was a given that Jake would do that, especially if he were hunting alongside someone like Sylphie or Vesperia, who were both pinnacle-level combatants, but that didn’t mean this class was focused on doing so.
+
+The more Jake looked at this so-called “better” class, the more he began to frown. After a little while, he sighed and shook his head, making his decision. He had given it valid consideration, but ultimately, Jake preferred to go down the horizon-themed Path, no matter how powerful he recognized everything related to Primeval Origins to be.
+
+While Jake did enjoy hunting with others, it ultimately came down to him not wanting to limit himself unnecessarily. Also, while Sylphie and all the others were powerful, Jake didn’t like the notion of tying his own progress and Path to theirs. Sure, he believed they all had a valid shot at godhood, but in the end, the only one Jake could ever truly be confident in to reach the top was himself.
+
+Besides, it wasn’t like Arcane Hunter of Boundless Horizons was a bad choice in the slightest. That it gave as many stats as a class with Primeval Origins in its name was actually confirmation in Jake’s mind that the entire horizon-themed Path he’d started going down was far from simple.
+
+One day, he would definitely integrate Primeval Origins concepts, and he wouldn’t be surprised if he were directly offered a class with Primeval or perhaps even Primal Hunter as part of the name. Alas, that day wouldn’t be today, as Jake chose to venture into B-grade as an Arcane Hunter of the Boundless Horizon.
+
+Making his selection, Jake didn’t feel any regret, as in the end, he had picked the class offering the most Perception, so it had to be the right one.
+
+’DING!’ Class: [Arcane Hunter of the Boundless Horizon] has reached level 350 - Stat points allocated, +125 Free Points
+
+Innate knowledge rushed into Jake’s body alongside the stats from the level. Compared to when he picked his profession, this was a far more muted experience, as he didn’t get a sudden windfall of experience, but had just gotten the singular expected level from making his choice.
+
+Jake took a moment as he saw that with his new class, he’d upgraded one skill and gained a new one. Same as when he reached C-grade. In all honesty, Jake was initially a bit disappointed when he saw that only one skill had upgraded, as he’d hoped for something like Avaricious Arcane Hunter’s Arrows to also upgrade. Sadly, only his Big Game Hunter had received that honor, going from ancient to legendary rarity.
+
+[Horizon-Chasing Big Game Arcane Hunter (Ancient)] – A true hunter seeks not the easy prey but a true challenge. Your hunt has taken you further than ever before as your methods improve, and you have embraced the Arcane. As you forever chase the horizon, you have become more accustomed to facing higher-level enemies. Increases the user’s resistance to auras and gives a small increase to Strength, Agility, Intelligence, and Willpower, and a substantial increase to Perception while facing enemies above your class or race level. The bonus is based on the disparity between the level of your prey and you. Limit of 1.30x your level or 75 levels, whichever is highest. May your hunt take you toward the horizon.
+
+-->
+
+[Big Game Arcane Hunter of the Boundless Horizon (Legendary)] – An apex hunter seeks not the easy prey but a challenge others view as seemingly impossible. You have begun to truly embrace the power that comes from seeking the Boundless Horizon, your sight always on the next challenge ahead. Avarice remains; your desire is stronger than ever, as you overcome anything that stands in your way, always rising to the occasion, no matter how powerful the foe. Increases the user’s resistance to auras and gives a noticeable increase to Strength, Agility, Intelligence, Toughness, and Willpower, as well as a substantial increase to Perception while facing enemies above your class or race level. The bonus is based on the disparity between the level of your prey and you. Limit of 1.30x your level or 125 levels, whichever is highest. May your hunt across the Boundless Horizon be an eventful journey.
+
+Seeing Big Game Hunter upgraded was only to be expected, and the skill effectively felt like the counterpart to Malefic Viper’s Poison. This upgrade had a lot more to it than Malefic Viper’s Poison just getting stronger, with even the flavor text getting a lot of changes. The primary function of the skill remained the same, though but was just better than before.
+
+Big Game Hunter was an awesome passive skill and was a core reason he could even fight enemies above his own level so well. It provided a significant boost in stats to close the gap, and now it had gotten even better.
+
+Besides just giving him more in the same stats as before, the list had now expanded to also include Toughness, something that was definitely a pleasant surprise. Jake wasn’t exactly known for being durable, and he could only really put up any proper defenses with a mixture of arcane magic, equipment, Pride, and Scales of the Malefic Viper. If he didn’t actively do anything, even a regular B-grade before his evolution could have done some serious harm, despite how much stronger Jake was.
+
+Jake didn’t believe that Big Game Hunter, now giving him more Toughness, would suddenly give him Runemaiden-level durability, but it should synergize well with Scales and help him more easily shrug off those small, unavoidable explosions he couldn’t always avoid. Dodging any actually dangerous attack was still the name of the game, but no one would complain about getting free Toughness.
+
+Regarding the boost limit, it has also improved, and despite it staying at 1.30x his level, it was fine because the flat level had increased significantly. With levels getting higher, 1.30x was still a lot, and doing some quick math, the bonus from that multiplier would exceed the cap of 125 levels right about when Jake reached level 420. So, right about in the middle of B-grade, seeing as B-grade spanned from level 350 to 500.
+
+One thing Jake did find odd was that the system didn’t specify anywhere that a grade disparity also had a massive effect on Big Game Hunter, even if the difference was technically only one level. Jake had no reliable way to determine how much a grade disparity counted for, but it was definitely equivalent to at least a couple of dozen levels when he compared the difference between peak C-grades and B-grades he’d fought.
+
+Anyhow, Jake was happy with the upgrade and knew he wouldn’t even be thinking about it unless prompted, as it had just become a passive part of his life. Thus, he saw no need to devote brainpower to it and moved on.
+
+Besides, he had something far more exciting waiting for him. Alongside his very nice upgrade to Big Game Hunter, Jake had also received a new skill. Before, Jake had complained a little about only getting one skill upgrade and one new skill, but upon laying his eyes on what he’d gained… yeah, all complaints went out the window.
+
+[Sight of the Boundless Horizon (Mythical)] – To seek your goal, which lies within or perhaps even beyond the Boundless Horizon, you must first be able to locate it. This is your attempt to do so. Relying on the concepts glimpsed from the horizon and an insatiable desire to uncover all of existence, you have learned to strain your soul beyond its limits, sacrificing stability for increased Perception. Allows the Arcane Hunter of the Boundless Horizon to massively increase the effectiveness of Perception temporarily and perceive things beyond current limitations. May have additional effects when used alongside certain Perception-based skills. While using Sight of the Boundless Horizon, the hunter’s physical and mental defensive stats will be severely hampered. This skill can be used in conjunction with any other stat-boosting skills or abilities. Excessive use of Sight of the Boundless Horizon may result in soul damage. Open your eyes, expand your senses, and perceive the boundless Horizon.
+
+So, everyone knew that Perception was the best stat in the multiverse. No cause for discussion there. Following that flawless logic, didn’t that mean that a skill that could make Perception better was one of the best skills one could possibly have?
+
+Jake sure thought so from his initial reaction.
+
+All doubt that Huntsman could have been a better option had entirely evaporated by now, and he felt almost giddy as he scoured all the instinctive knowledge he’d gained about the skill and carefully read the description.
+
+Having a skill that effectively allowed Jake to double-dip in boosting skills with his Perception was insanely good, and not even something he had imagined was a possibility. The skill also remained quite mysterious, talking about Jake being able to “perceive things beyond current limitations,” whatever the hell that meant. He looked forward to finding out, but for now, it was a complete mystery.
+
+Unsurprisingly, the skill didn’t come entirely without downsides. From the instinctive knowledge he did get, Jake had some idea of how the skill worked. What it did was effectively “pull” on some parts of his soul, weakening his soul and even physical body to compensate for boosting his Perception. Doing something like that as freeform magic would be a great way to fuck up his own soul worse than using Primeval Origin Energy on Palate of the Malefic Viper, so he was definitely happy the system was in charge of something like that.
+
+Even so, it strained his body and soul, limiting how long and how often he could keep the skill active. As the description of Sight of the Boundless Horizon said, overusing it could lead to soul damage, so in that vein, it really wasn’t that much different from Primal Gaze.
+
+One very important note was that this skill increased the effectiveness of Perception and didn’t actually increase his Perception. When Jake saw that, he instantly thought that it could synergize well with a lot of skills, seeing as they also had the passive effect of increasing the effectiveness of Perception while using them. Something that would definitely seem to be the case, and from the description, Jake had likely even underestimated this part. At least one section of the skill indicated that:
+
+“May have additional effects when used alongside certain Perception-based skills.”
+
+Jake once more wasn’t exactly sure what this meant, but one thing was sure: he had a lot of testing to get done. Something like Event Horizon should definitely work with it, right? Primal Gaze was also a strong candidate.
+
+Smiling, Jake decided that rather than sit around and contemplate, wouldn’t it be an idea to go out and stretch his legs a little? He had just reached B-grade and would take a little while to realize what he was now capable of, and, fortunately for him, he’d already planned a little space trip, as Arnold was due for a visit. Miranda would definitely prefer for Jake to test himself in the emptiness of space rather than unleash everything right in the middle of Haven. As for after his moon visit, it was Order of the Malefic Viper time. Could Jake also just go to the Order now if he wanted to test things out? Sure, but Jake kind of wanted to visit the moon and see what the hell Arnold had been up to.
+
+Getting up from the bed, Jake cracked his neck as he walked out to his porch. He gave the eels a final wave goodbye before he turned his gaze towards the moon far above. Lifting his foot, Jake activated One Step and instantly felt the difference. Even without using his new super Perception boosting skill, his sensitivity to concepts had reached an entirely new level, and he easily warped through space, traveling more than ten times what he normally could with a single step.
+
+His smile grew even wider as his wings appeared and he ascended, his flight speed easily more than twice as fast as before, and by his initial estimates… if he was to fight Yrelstromoz here and now, the encounter wouldn’t even last more than a minute, and that was only because she had a way not to get instantly killed by his opening attack.

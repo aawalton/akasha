@@ -1,0 +1,387 @@
+---
+id: f32659f4-cfff-5bfa-b488-e2bd32abbaa3
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 359"
+slug: 0057-the-path-of-ascension-chapter-359
+partOf: the-path-of-ascension
+position: 57
+ownLength: 5915
+unit: words
+ownProgress: 5915
+publishedAt: 2024-10-18
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1857113/the-path-of-ascension-chapter-359"
+royalRoadId: "1857113"
+markedReadAt: "2026-06-29T19:19:32.636Z"
+---
+
+Chapter 359
+
+Matt looked at the guild bustling beneath him and a part of him wished he could delay their trip to the Sects just by a few years. With the release of the aura rifts, Titan’s Torch had most of the pressure removed from their shoulders now that they weren’t in a rush to deliver on their signature innovation before the self imposed deadline. Not that they were slowing down now that the decade had passed. In fact, the various teams were now starting their own testing to explore the aspects of aperology that interested them.
+
+Which was exactly why Matt wanted to stay for just a few years longer.
+
+The aperology department was finally starting to look into other aspects of the field and Matt wanted to help. Aura was fun, it had been and would continue to be an intriguing puzzle, but they had cleared the lowest hanging fruit off that particular tree. Now, there was a forest of other trees laden with fruit.
+
+Even as he watched, there were two teams working on trying to isolate variables seen in rifts by carefully tweaking the mana types and amounts they fed to a rift both during and after formation.
+
+Another interesting trend were the three teams trying to create more utility rifts. Rifts rich in metal, harvestable trees, or even water, oddly enough.
+
+Metal, he could understand. Metal was the backbone of all permanent tech, and Tiered metal was all the more valuable for its increased potency as it Tiered up. Even on Lilly, they happily collected the metal weapons rifts produced and either melted them down or sold them to enchanters. A single low Tier rift like the goblin rift might not produce a lot of material, but it was a steady supply that added up quickly when pooled together.
+
+Trees were an odder demand, but he could see the desire to not cut down local forests on more populated worlds. The amount of labor to pull full trees out of a rift didn’t seem proportional to the cost, but he could see the value.
+
+But water?
+
+Matt hadn’t understood why anyone would need or want a rift to produce a source of water.
+
+Water was abundant on most worlds, and even on desert worlds water could usually be found in great amounts on the outermost planets in the form of asteroids or moons.
+
+At his request, Cato had thrown together a packet of information about the topic. And as it turned out, Matt just wasn’t looking deep enough.
+
+First were the desert worlds. They always had a low but steady demand for water, and at scale, rifts were more economical at creating water than simple [Create Water] spells or enchantments to the same effect. But the largest demand for water rifts came from high Tier worlds.
+
+With hundreds of trillions or tens of quadrillions population, most of whom were mortal, basic necessities such as food or water were always in demand.
+
+With so many people, even the small losses of water that were used by people or left unreclaimed by the various waste reclamation facilities on the higher Tier worlds meant they were losing massive amounts of water to garbage dump rifts.
+
+Water that needed to be replenished in some way.
+
+Part of that issue was solved by the sheer size of higher Tier rifts, which meant materials could be pulled out of them in massive quantities, but all of those raw resources took further processing to be useful.
+
+Few people were happy about drinking lake water; even if said water was pulled out of a lake larger than their star system, it was still filled with all kinds of bacteria and decayed materials without extensive refinement. That meant expensive treatments to make the water potable needed to be completed before the water could be added to the system.
+
+If they could create a rift formula that produced clean, ready to drink water, preferably without monsters, they could simplify a lot of things for higher Tier worlds. Or reduce maintenance of the existing water purification infrastructure which had its own benefits.
+
+Though that tied back in with the two teams who were trying to create a rift without monsters. Half a dozen teams had applied to that task, and Matt had been put in the uncomfortable position of choosing which of the teams were given that assignment.
+
+Rifts without monsters, or possibly without aggressive monsters, was something of a fairy tale in the aperology field. Once you got to the Tiers where industrial rift-harvesting would be relevant, even puzzle and maze-type rifts had some form of monstrous presence, and usually a very potent one for the Tier at that.
+
+That didn’t stop nearly every aperologist that Titan’s Torch had hired who had a friend of an acquaintance, who had a third cousin, whose friend's sister-in-law had delved into a rift and encountered a paradise with no monsters. Or at least monsters who didn’t fight back.
+
+Matt had heard the rumors, but had never put any stock into them. There were zero verifiable incidents of such a variant rift instance, and if there was any truth to the stories, there would be proof somewhere. Something that was rarer than rift challenges would sell for an astronomical price to any news channel, so the chance that the news hadn’t even been verified was, at least to Matt, impossible.
+
+That didn’t mean he wasn’t willing to throw mana at the idea.
+
+Amusingly enough, rifts with docile monsters would be more valuable, but even just idyllic summer garden rifts would be more than enough for him.
+
+Currently, farming rifts were a thing and were used on worlds where space was at a premium. But the costs involved were immense, which stopped the practice from spreading beyond where there was a direct need.
+
+Ultimately the greatest issue of farming rifts was what made rifts so useful to delvers. Instances that closed after fifteen minutes.
+
+That meant when creating a farming rift instance, all materials and support personnel needed to be brought into the rift in that fifteen minute window.
+
+Then the rift needed to be cleared of all possible threats, or in the case of higher Tier rifts, the area around the rift entrance, so that the support personnel could set up the farming equipment.
+
+From there, it was just a matter of ensuring the LocalNet was set up and the AI in charge of the farming was operating. Then, everyone could either leave or continue on to delve the rift as was their role.
+
+A typical farm rift instance could usually be farmed for close to a decade before soil degeneration started to significantly worsen crop yields, and at that point, the AI in charge of the farm would pack everything up and exit the rift where it could be sent into a new instance.
+
+That initial danger meant only the best delving teams were chosen to lead in the support personnel, so they were in extremely high demand. And expensive.
+
+If a rift could be created without monsters, that first and most important step could be removed, and you wouldn’t even need more than a person or possibly two to enter the rift to ensure the initial setup went smoothly.
+
+That was the goal the aperologists were chasing.
+
+The rest would be focused on helping with the rest of the teams who were researching the intricacies of rifts and how they formed and functioned, or the teams who were just trying to create cool rifts.
+
+It was all fascinating work to Matt. Work that he knew if he allowed himself to delve into, he wouldn’t come up for air for at least another decade, and everyone else wanted to delve now and not in ten more years.
+
+So Matt waited next to Liz as they waited for Allie to come pick them up.
+
+She had told them she would be there ‘soon’ more than a dozen times over the course of an hour, so Matt let his mind drift to the reception of the aura rifts.
+
+It was still the early days, but he couldn’t help but be a little disappointed in the overall reception.
+
+Part of him had expected or hoped the Empire would start replacing rifts the instant the formula went live, and while there were thousands of worlds who did exactly that, they were the exception rather than the rule.
+
+The largest motivator for the aura potion was the announcement that the subsidies for Bottled Concept’s would be slowly lowered until they were phased out in a few centuries, and the freed up revenue relocated to other places of need.
+
+Most worlds seemed content to just add a new rift or two, if their world could sustain a Tier 4 rift without too much cost, and they weren’t in a rush to do so.
+
+Matt wasn’t sure he should, or even had the right to intervene, but he had been hoping for more.
+
+Eventually it would spread, but reality didn’t quite match his expectations.
+
+There were, however, a number of the Tier 7 and 8 worlds who had embraced the rifts, and were going all in with the production of aura rifts and aura potions. Matt wanted to be happy about that, but instead of aura rifts being available for anyone to delve, they were being treated like the farming rifts he had just been contemplating. Perfectly managed and delved on cooldown to maximize their gains, which just felt wrong.
+
+Still, the potions would slowly start to make their way into the Empire, and Matt always had one option if he really wanted to see things change.
+
+He was a duke, even if he only controlled just a handful of planets so far.
+
+Though, by the time they finished this delve cycle that would change, as they were slated to get a glut of planets by the end of the next decade, including their ducal capital.
+
+A blade appeared out of nowhere heading right for his eye, and Matt reacted instantly.
+
+His left hand enveloped the blade, and he pulsed his Domain meld, washing away the foreign Domain usage. Liz held strong with barely a tremor, but everything else was flattened.
+
+A [Mana Beam] was cycling in his spirit, ready to fire even as his combat buffs started to churn when Allie popped into existence with a frown.
+
+“What the fuck dude! How did you kick me out of my hidey hole?”
+
+Matt let go of the blade and let the mana fade from his spells.
+
+Liz settled back down from her ready stance as she saw who it was as well.
+
+“Nice to see you too, Allie.”
+
+Allie poked his cheek with an excited finger. “Eyy you got the meld working!? Nice dude! That's so dope. I’m considering making my Aspect a mirror of my Concept or Intent to see if I can get anything cool with a meld. That shit is so cool. Do tell Aiden I told you this, he’s so jealous that you’ve got a Domain trick he doesn’t have. Cause, you know, super Domain master and all.”
+
+Liz was busy reabsorbing her spear back into her body when she caught what Allie had said. “Don’t you mean don’t tell Aiden you told us?”
+
+“Na I want you to tell him. More fun this way! Anyway, are you guys ready?”
+
+Matt rubbed the bridge of his nose. “Allie, we’ve been ready for a few hours. Are you ready?”
+
+“Meh, whatever. Insert a clever excuse here.”
+
+Before Matt could even roll his eyes, he felt a familiar tug as space fluctuated around him.
+
+That was interesting.
+
+He had always been able to feel Allie’s teleports, but either she had gotten sloppy in the decade since the war– incredibly unlikely– or his connection to space had grown in interesting ways.
+
+Matt could feel as they left reality behind and locality itself twisted around them to drop them impossibly far away.
+
+He blinked, his eyes rapidly adjusting to being outside. Surprisingly, it looked like Allie had actually set them down on a designated entryway, rather than just dropping them directly at their destination, which was… unusual for the teleporter.
+
+Around them was very clearly a meticulously manicured garden, with carefully-raked stones of many colors forming intricate patterns around artfully placed trees and shrubs. A walkway stretched forward with rocks that straddled the line between naturally occurring and curated, forming a series of stepping-stones through the elegant, multicolored pebbles.
+
+Ivy grew in artful spirals, the natural patterns on the vine’s leaves quite clearly spelling out various words in Sect languages. A babbling brook cascaded over a waterfall, its spray casting prismatic light through nearby crystals that refracted its gleam into a semi-wavering, but detailed full-color picture on a nearby cliff of white stone.
+
+Past their immediate surroundings, the signs of impossible curation faded into something that could only be described as the abstract ideal of nature. Beautiful creeks supported populations of pristine fish, birds with immaculate plumage sang in exquisite symphony, and trees artfully shaded places that would be prime to sit and meditate. Beneath the ground, the tunnels of mice with coats that practically gleamed as though freshly-brushed formed intricate and fascinating patterns with the roots of trees, their burrows giving off the sensation of hominess rather than dirt and grime.
+
+Even beyond the physical, the mana and essence flows were sublime. There were practically no snags or disturbances in the spiritual currents around them, all manner of elements streaming together impossibly well and practically begging Matt to sit and cultivate in their soothing flows.
+
+It was like looking at a masterful painting of nature, filled with flourishes by a masterful artist, rather than the real thing.
+
+Turning to Allie, he was about to ask where they were when she spread her arms and said. “Surprise!”
+
+When she didn’t get a reaction, she wilted. “Ah come on, you were supposed to be super excited that you didn’t have to travel on a ship and congratulate me!”
+
+Matt flicked Allie on the nose. “And we might have been if you didn’t try to stab me the moment you arrived to pick us up. Which I note was over an hour late.”
+
+Allie sank while she blew raspberries in some bad impression of a deflating balloon. “Whatever. Y’all are spoilsports. Let's go join the others.”
+
+Phoenix Liz flapped over to Allie and pecked her hard on the head. “You mean you made us wait while you already brought the others?”
+
+“No! Kinda? Well, not really. It's your guy's fault for being all spread out. Andddd I still might have to pick up Zack, so at least you're not last.”
+
+“Go get Zack, Allie.”
+
+The teleporter vanished for an instant, just to appear a moment later with an annoyed looking Zack. Interestingly, he looked a decade older, a few gray strands creeping into his normal brown hair and complimenting a somewhat longer beard.
+
+“Good to see you two. I hope the last decade has treated you well.” Zack’s polite words were spoken over Allie’s head despite her attempts at regaining their attention.
+
+“You too Zack. How have your projects been going?”
+
+Liz hooked an arm through Matt’s and interrupted him, even as Allie tried to cover Zack's mouth. “Okay boys, no shop talk for at least the first day, or we’ll never even arrive to meet the others.”
+
+Matt grinned, he and Zack had been in contact through the Ascender chat, but it was different when talking in person.
+
+Zack even had a small smile as he walked forward past Allie. “I can agree to that, so long as someone else doesn’t start such talk first.”
+
+“Oh come on Zack, you know Sien is going to start it, so that's a flimsy way to shift the blame.”
+
+Before Zack could respond, Allie grabbed all three of their hands and pulled them forward. “And this is why I didn’t want to grab you all at once. Gab gab gab.”
+
+The forest walk was just as stunning as the entry garden, though clearly made for higher Tiers. Once they left the initial garden, the stepping-stones faded away, instead transitioning into a pathway clearly marked out via a small-scale mana flow with no clear origin. But the intent was obvious enough, and they followed it as it led them up a clear brook with minuscule points of rocks barely above the waterline. Then they proceeded along the branches of a tree, stepping across several semisolid clouds, and up a winding path on a sheer cliff.
+
+It was at the end of that last leg of the journey, they reached their apparent destination, a magnificent villa built out of the side of the mountain and with an absolutely incomparable view of the valley they’d appeared in, hemmed in on all sides by distant mountains.
+
+Jai Sien waved from a balcony with a glass in hand. “It is quite the joyous occasion to greet you once more.”
+
+Floating up to her, the four of them joined her with Matt probing his spiritual connection with Aster to see where she was. He could feel that she was close, but he was surprised to find she hadn’t come out and greeted him yet.
+
+“Beautiful place you have here, Sien.” Liz said what Matt should have, and he quickly added his agreement to the sentiment.
+
+Except, the Sect ascender waved them off even as Allie laughed. “Oh, this isn’t my abode. Your host for this particular stay is The Elder Yun Me. This is her continent, and this particular estate is one of her guest houses, the one she most commonly makes available for visiting Masters.”
+
+Matt raised a shocked eyebrow at that particular revelation, but Sien continued. “The stories the Anvil tells for its founding is that she grew tired of our predecessors constantly seeking to sneak in simply to prove they could, or to challenge her, or to poach usage of one of her rifts. She concluded that the most surefire means of curtailing undesired activity would be to provide official channels for our colleagues. After all, the glory and challenge is much lessened when all that is required is simply to ask for entry. In addition, the first rift you shall be delving is within this system, and this therefore serves as an excellent base for your expedition.”
+
+Allie chuckled. “Also, Sect leadership likes to keep foreign Ascenders close to Yun Me in case anything happens. We’ll blow this joint in short order, worry not my pretties.”
+
+The sly smile that crept across Sien’s face instead of any comment to stop Allie just seemed to egg the teleporter on.
+
+Looking up, Matt felt Aster drawing closer, and he waited for her to arrive on the deck.
+
+When she arrived in view, he rolled his eyes.
+
+Aster came bearing an ice cream platter.
+
+“Freshly made! Hey guys! Took you long enough.” Aster's smirk earned her a ruffled head of hair which earned Matt a glare that was covered by their hug.
+
+“No thanks to Allie. Nice to see you again though.”
+
+“Yeah, yeah whatever. Try this.”
+
+Aster shoved a spoonful of ice cream into his mouth and Matt let the cool dessert start to melt over his tongue. The flavor started subtle, vanilla mixed with coconut, but the flavors quickly mutated into something that tasted like curdled milk, which made Matt want to gag.
+
+“That's foul.”
+
+“I know! Allie gave me the idea.”
+
+Liz, who was patting her gagging phoenix body on the back, rolled her eyes. “Color me not surprised at all, but let me ask why.”
+
+“Prank ice cream. The idea is to package a bunch up in something like small bite sized candies, and everyone can take some and see if they get lucky or unlucky on the flavor. It can be a fun little gag gift for the ice cream lover.”
+
+“Aster, no one wants to eat curdled milk ice cream. It's revolting.”
+
+Aster rolled her eyes. “Little you know. The test audiences loved them. It's not the first time this idea has been done, after all, and the fad is due for a new round of awareness. Besides, people like the change from hard candies to ice cream.”
+
+Matt had no way to respond to that, and so bowed to her greater market research.
+
+Sien rubbed her hands together. “So, art thou excited?”
+
+Liz leaned into Matt, who in turn leaned on the balcony railing. “Oh yeah. The first rift seems super interesting. It—”
+
+Matt covered his wife's mouth and spoke over her. “No spoilers!”
+
+Sien smiled. “Ah, the eternal war between surprise and anticipation. This one is, however, uncertain that she would be able to resist at least a bit of investigation.”
+
+Matt laughed as both Liz’s pretended to glare at him. “Oh, I’d love to know, but Liz thought she was clever by hiding the information when it was still only in the girls’ chat. So I turned it around on her and refused to look when it was fully announced. So now she suffers while I enjoy the ignorance.”
+
+Sien laughed, but her mirth was interrupted by a shattering of the air on the planet as something entered the atmosphere.
+
+Cranking his perception to its max and prepared for a fight, Matt scanned the incoming projectile to find a familiar face.
+
+Gan Le, battered and bruised, was burning up in reentry to the atmosphere, though the fireball enveloping him left him, his clothes, and even his hair entirely untouched.
+
+Matt expected the man to catch himself, but he crashed into the ground and caused a massive crater that would have felt like an earthquake to the inhabitants of the planet had Matt not reached out and commanded the ground to remain still with a quick flex of [Earth Manipulation].
+
+Gan Le coughed as he crawled to his feet just in time to catch a knee to the face that sent him flying, and cut a deep canyon though the once perfect landscape to arrive right next to their mansion.
+
+In his wake, another woman descended from the heavens. Yun Me looked exactly like her pictures, a perfectly-poised, tall, and thin woman with fair skin and steel-colored hair tied in a tight bun. Unlike the pictures he’d seen, though, she wasn’t wearing a full suit of sect robe-armor, but instead a conservative and surprisingly sane outfit clearly designed for moderate exercise.
+
+Matt gave a polite bow, hopefully conveying that he was appreciative of her, as an equal, receiving them into her home. Around him, everyone except Allie mirrored the action.
+
+Once he had straightened, Yun Me gave a similar bow. “Greetings to the new Masters. I trust you will find your accommodations sufficient, and should you require anything, merely inform my servants and they shall accommodate you. I would invite you to walk about my gardens and appreciate the beauty therein, should you find the time when you are not… gallivanting about like brutes.”
+
+“We accept your hospitality, Lady Yun,” Sien graciously replied.
+
+Matt looked out over the flowing valleys. He could understand why Yun Me seemed to be proud of her ‘garden,’ it was immaculately tended to. In the Empire, while some nobles did claim private continents for their own use, he didn’t know of any that had sculpted the entire thing into one giant, cohesive whole. In fact, the mana flows alone…
+
+Matt narrowed his eyes, then widened them in surprise. “Is the entire continent one giant formation?”
+
+“You possess a keen eye, Master Titan,” Yun Me regarded him. “Indeed.”
+
+“It’s masterful work,” he mused, probing some of the nearby key points with his spiritual perception. There was, so far as he could tell, nothing unnatural going on. No hidden runes, veins of metal, or titanic bones being used to more strongly direct the flow of mana. Instead, they were taking entirely natural phenomenon and using it to sculpt amounts of mana that even he found staggering over a colossal scale.
+
+He couldn’t tell what the formation did, per se, but even if it were purely decorative, that would be impressive enough. It surely required an absolutely staggering amount of maintenance, but he couldn’t see a single indicator that it was even man made.
+
+Actually, there were some signs of human activity, though not of the sort he’d expected. Specifically, the side of a mountain a hundred miles or so away was covered in growing crops, with a group of buildings at its center.
+
+“Is that a village?” he asked, somewhat surprised.
+
+“Indeed,” Yun Me nodded. “A proper garden is not merely a display of plants, but a thriving world in miniature. Plants and animals alike living in perfect feng shui. Human residents are but one part of that, and they and the wolves typically keep one another’s populations in check.”
+
+Matt was taken aback by the absolute apathy Yun Me showed for the people living in her territory, but before he could properly formulate a proper response, Gan Le wandered up, his clothes inundated with dirt.
+
+The man, still at Tier 25, froze utterly upon seeing the seven of them, but his facade of immobility was broken by Aster scrunching up her nose, casting a [Bathe] on him, then practically pouncing next to him.
+
+Matt would have loved to call it generosity, but he knew what was coming next, and didn’t envy the Sect man.
+
+“Want some ice cream?”
+
+The question was oh so innocent, but bird Liz gagged at the mere mention of what it had tasted while human Liz had to press her face into Matt’s chest to stifle a laugh.
+
+Matt watched in horror as once more Gan Le was plied with horrifying concoctions and ate them without a sour expression.
+
+Aster managed to persuade Yun Me to try exactly one bite of an ice cream ball, and while she ate it with an admirable amount of self-control, she excused herself shortly thereafter and leapt to a mountain peak some miles away, starting to slowly work through spear-forms and leaving her newest apprentice to his fate.
+
+Though Matt was expecting the warrior woman to clear out the crater Gan Le had left in the nearby stone, she did no such thing, and the hole remained.
+
+“Should we… fix that?” he asked the air as Aster persuaded Gan Le to try another bite of ice cream.
+
+“Lady Yun shall either personally mend it in due time, or have one of her gardeners do so in her stead. I do not presume to understand the intricacies of her garden, but while she tends to it, she is not fastidious about it.”
+
+“Sooooo… How mad do you think she would be if I fixed it for her?” Allie's question earned a smile from Zack.
+
+“She would not,” Sien replied. “Were you to lay waste to vast swathes of it or remake it into a statue of yourself, it would be no different to her. She has raised mountains and flattened others for a hundred generations before us, and she is likely to do so for a hundred generations more. It is what it is, for her, no matter the form.”
+
+“Psh.” Allie scoffed and turned away, which was probably exactly the reaction she was going for with such an attitude, Matt realized.
+
+“Now,” Sien nodded sagely before looking to Matt. “I was assured I would have the opportunity to sample Empire cuisine, and I expect to have that assurance fulfilled prior to escorting you to the rift.”
+
+Aster nodded eagerly. “You are going to love Matt’s cooking. He's the best chef. Gan Le, you need to try Matt’s steak and potatoes. When you were our prisoner, you said how much you missed a proper hearty meal. Now you get to try the best steak and potatoes ever, cause Matt made them!”
+
+Rubbing his neck, Gan Le must have realized he was the odd man out of the Ascenders and started looking around. His eyes wandered over to where Yun Me stood on her mountaintop, and Matt could practically hear the gears turning in the man’s head, deciding between being fed and going back to training with the other lady.
+
+Matt never minded cooking for more people, and after a decade, he had mostly forgiven the other man for being on the other side of the war.
+
+They had both killed many people in the war, and he was trying to put his anger at the events of the war behind him.
+
+The grudge should remain like Maven. Dead.
+
+Matt carefully didn’t think of the Republic sniper who had killed Eric. If he ever got within range of her, it wouldn’t be to have dinner.
+
+Gan Le, though, he could respect. The man was a protector, just like him, and cared about keeping his people alive. Plus, he could take a serious hit. The fact he was alive was testament to that, and he was fine with rewarding excellence.
+
+As the one being volunteered to cook more, Matt offered an olive branch. “You are welcome to join us, Gan Le.”
+
+Gan Le looked from them, to Yun Me, and back a few times before sighing.
+
+Matt wasn’t sure what his internal struggle was, but he had some pretty good guesses having been trained by Luna.
+
+Eventually, he must have decided that eating with them was worth whatever punishment would come, because he straightened his shoulders and bowed slightly. “This one would be honored to receive your favor, Master Titan.”
+
+Matt couldn’t help but smirk at the Sect address for an Ascender, but didn’t comment on the man's formality.
+
+Allie thankfully saved the day with a pointed question. “What are you going to cook, Matt?”
+
+The point was the dagger she tried to stab him with.
+
+Since when did he turn into the person to be stabbed, damn it?
+
+Deflecting the blade, he shook his head and said through spiritual perception, “Nothing for you. Yun Me, you are welcome to join us as well.”
+
+She responded with a considering hum, but otherwise kept to her mountaintop kata.
+
+Thankfully, the kitchen was fully stocked with the best of ingredients, which let Matt go wild. As he stepped inside, a pair of Tier 30s dressed in servant’s garb appeared from nowhere in particular and offered him help. Matt declined the help, and they returned to the scenery.
+
+Everything was similar enough to what he was used to that he had no problem settling in, even if he had to pull a few items out of their house to fill the gaps of what he needed.
+
+A side of roast that had been cooking for close to ten hours was delivered via the Allie Express, paid for in the form of a small batch of fresh scones sitting in his oven back at the guild hall. Matt cooked everything else right there, making a bit of a show of it.
+
+Sien was thankfully a receptive audience, and let herself enjoy the show. She stood in stark contrast to Gan Le, who reminded Matt of a child who knew the moment the guests left, he would be grounded, and was hoping the visit lasted as long as possible.
+
+Matt only took a little pleasure in Aster pointing that out and teasing the Sect cultivator.
+
+While it was initially to be nothing but a short dinner, it quickly morphed into a two day tasting feast, given the reception, with Yun Me appearing for short bursts to accept a plate of food before vanishing once again.
+
+Matt enjoyed every minute as everyone chatted and swapped stories, each more exaggerated than the last.
+
+The pyramid rift the three of them had cleared as part of their reward on the training planet turned from a fairly simple delve, with only a few issues in the final battle against the boss quetzalcoatl, into a incredible battle against a dozen pseudo-dragons that somehow managed to bite Matt’s arm off a dozen times. How he gained and lost limbs faster than he did now as a Tier 4, Matt didn’t know, but the retelling fit in with the other stories.
+
+Aster even told one story that Matt couldn’t place, until he realized she was just exaggerating a shopping trip into a dangerous fight that had never really occurred like that.
+
+However, the flow of conversation and food eventually slowed, and when Gan Le was blasted by an unseen force into the horizon, they took it as a cue that they may as well move on to their actual delving.
+
+Sien swept her gaze in the direction Gan Le had flown, coolly assessing the man. “He may yet become truly great with sufficient pounding upon the Anvil.”
+
+Allie turned an aghast expression to Sien. “They are sleeping together?”
+
+Sien turned her red eyes upon Allie. “No? When did I say that?”
+
+Allie used hand gestures to explain. “Pounding.”
+
+Sien just shook her head as she pretended to not understand, and prompted Allie to explain better as they flew along to a nearby world that was quite unlike Yun Me’s lower Tier world, a proper Tier 30 world filled to the brim with cultivators.
+
+Or, that was where Matt thought they were going. Once they were a good ways away from the planet, Allie teleported all of them except Sien a dozen times to reach the outer system, where they found a small gas giant with a beautiful ring reflecting the local star's brilliance.
+
+Sien, having arrived under her own power, waved her hand and cleared a bit of the gas giant's swirling fumes to expose a floating domed city inside the planet. “And that's where our rift is located. Come now, we only have a moment before it closes back up.”
+
+Having locked onto the floating city, Matt cast [Portal], connecting the two locations. Allie’s [Teleport] might struggle to move higher Tiers, but despite [Portal]’s restrictions, once the connection was established, it didn’t cost him anything to move even a Tier 50. So long as they didn’t try to escape the spell.
+
+Allie appeared next to them under her own power, but everyone ignored her as they inspected the floating city.
+
+It was only a few hundred miles wide, but that felt massive when they were effectively floating in a bubble in a gas giant, solely relying on the bubble’s buoyancy to float.
+
+Matt was sure there were secondary floating arrays in case of a breach, but the idea seemed all too risky for his tastes.
+
+Still, it was beautiful and offered people a safe way to delve rifts inside the gas giants, which was novel.
+
+The city would move, but it did so at such a slow pace that rifts like the one they wanted to delve had a few months inside the safe zone before one would need to wait a decade to exit the rift without besmirching their honor by being so slow the city left them.
+
+Or at least, that was how Sien explained it. Matt didn’t see why honor was so important when a decades of real time was on the line, and anyone who could delve these rifts could easily just fly out of the gas giant. But he just chalked it up to Sect culture and shrugged it off.
+
+It only took a few minutes to reach their destination, and with a few exchanged high-fives, they passed through the dimensional veil into the rift beyond.

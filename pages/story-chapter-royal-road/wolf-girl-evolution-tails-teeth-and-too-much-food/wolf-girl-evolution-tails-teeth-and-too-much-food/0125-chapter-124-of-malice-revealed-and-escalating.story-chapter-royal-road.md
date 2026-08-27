@@ -1,0 +1,521 @@
+---
+id: a1ce94c4-7812-5930-b30f-45b4b360c183
+page-type-slug: story-chapter-royal-road
+title: "Chapter 124: Of Malice Revealed and Escalating Threats"
+slug: 0125-chapter-124-of-malice-revealed-and-escalating
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 125
+ownLength: 3143
+unit: words
+publishedAt: 2026-05-03
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3350345/chapter-124-of-malice-revealed-and-escalating"
+royalRoadId: "3350345"
+---
+
+PoV Syliana
+
+The change in the creatures told Syliana everything she needed to know.
+
+Their attacks lost urgency, their movements tightening into a more controlled, even deliberate, effort. They circled instead of pressing, spacing out just enough to keep the group engaged without committing to a full push.
+
+Without offering them a chance to strike back.
+
+They were being managed.
+
+Her focus extended past them, following the faint lines of mana commanding them, tracing the source–
+
+All while they kept moving, to avoid the worst. For while the creatures were meeker now… they were still a threat.
+
+–and then she found him.
+
+And just as she found him, so too did he look her way.
+
+A slow clap carried across the field.
+
+Measured and loud. Each impact landing cleanly in the space the creatures had opened.
+
+They responded to it at once.
+
+The corrupted beasts pulled back, forming a loose perimeter around the group, their attention shifting in unison as they held position and watched.
+
+Ready to act at any moment.
+
+Syl turned with the rest of her party, her staff already raised, mana gathering with quiet precision.
+
+The man approached at an easy pace, steps steady, controlled, entirely unbothered by the battlefield around him. His presence settled over the area with the weight of somebody utterly sure of their victory.
+
+The clapping continued.
+
+Once.
+
+Twice.
+
+A third time.
+
+Then it stopped.
+
+"Well, well, well. What a... coincidence. To see you all gathered here."
+
+His grin spread wide, filled with open malice, his eyes moving sharply from one of them to the next, tracking every shift in posture.
+
+"I do so love how simple you people are. So eager to go to your deaths, for just a little coin. How so very... pathetic."
+
+Syliana did not respond. The pattern was clear. The trap, the bait, the timing, the control over the creatures – every piece aligned too cleanly to be anything else.
+
+He built all of this.
+
+"Who the hells are you, and what do you want?" Sepio demanded.
+
+The man answered with motion.
+
+His foot came down hard.
+
+Stone cracked under the impact, the sharp sound carrying outward as the ground split beneath the force.
+
+"...And so stupid too. You will die here today, not even knowing why."
+
+Syl spoke before Sepio could answer again, her voice steady.
+
+"...It's the Wildling, you're here for Luna."
+
+His grin widened.
+
+"Indeed. The only one with a brain, and the only one I might spare."
+
+The offer carried no weight. It was bait layered over certainty.
+
+"We won't let you get Luna!" Trianna called out.
+
+"Let ME?"
+
+The word hit harder than the stomp, the emphasis sharp as he stepped forward again, his presence pressing into the space between them.
+
+"Let me see you try, little vermin."
+
+Syl felt the tension tighten through the party. But no one broke position. No one stepped back.
+
+Good.
+
+She was proud to be their friend.
+
+His attention returned to her, the rest dismissed as background.
+
+"Look at you," he said, voice rising, gaining rhythm, gaining energy as he leaned into the performance. "Standing there with them, pretending this is a choice worth making."
+
+His hand swept outward, indicating the others.
+
+"Do you even understand what you are throwing away? Time shapes power. Time elevates your kind above everything else crawling throughout this rotten world."
+
+His gaze locked onto hers.
+
+"You could have become EVERYTHING. Yet you chose to be weak!”
+
+The intensity in his eyes sharpened.
+
+"You chose this," he continued, voice lowering, pressing each word with intent. "Like a disgusting vermin, you chose to stay small."
+
+Sepio shifted slightly.
+
+Veric adjusted his footing.
+
+Trianna’s draw steadied.
+
+Ray lowered, ready to move.
+
+Syl held his gaze, her posture unchanged.
+
+"You tie yourself to them," he went on, words flowing faster now, more force behind them as the monologue built. "You match their pace. Their limits. Their failures. You spend what others would use to ascend on protecting things that will never rise beyond what they are."
+
+His lip curled.
+
+"They will die. All of them. Sooner than you. Always sooner than you."
+
+A brief pause followed.
+
+Then his grin returned, wider, sharper.
+
+"And when they are gone, you will still be exactly what you chose to be here."
+
+He spread his arms slightly, as if presenting the scene.
+
+"Small."
+
+The word lingered.
+
+Then his focus sharpened again, locking fully onto her.
+
+"But if you will not make use of your legacy… I will."
+
+Syl’s decision settled fully into place, her senses screaming danger louder and louder with each passing second.
+
+Whatever the rambling lunatic’s deal was, it was clear there would be no more talking.
+
+“Potions,” she said.
+
+It was a good thing, when given time, Syliana tended to overprepare. Enhancement potions were uncommon, and rarely able to help in truly dire situations. Their drawbacks preventing regular use.
+
+But she made them regardless.
+
+And for once, her cautiousness paid off.
+
+They moved as one. Vials drawn, consumed in practiced motion, their readiness shifting without breaking formation.
+
+The man watched them prepare.
+
+Smiling.
+
+Enjoying it.
+
+Waiting for them to finish.
+
+For the moment he could crush them.
+
+And the very moment they were done drinking, the creatures closed in.
+
+The fight resumed.
+
+But even with the enhancements kicking in, it was no longer the same.
+
+Where before they had begun to gain control, now every movement carried a second layer of pressure, the presence of the man behind it all forcing their attention to split.
+
+Veric met the first strike cleanly, his blade driving through corrupted flesh with the same precision as before, but the follow-through never came. A flicker of motion at the edge of his vision forced him to adjust instead, his weapon shifting to intercept something that should not have reached him that quickly.
+
+The man stood several steps away.
+
+Unhurried and watching.
+
+And yet–
+
+The interference was there.
+
+Subtle and precise.
+
+Every time they tried to press an advantage, something disrupted it. A creature moved just out of line at the wrong moment. An opening closed before it could be taken. A strike that should have landed cleanly met resistance that had not been there a moment before.
+
+Ray reacted first to it, his eyes narrowing as he adjusted his own movements to compensate.
+
+“He’s interfering,” he said sharply.
+
+“Noted,” Syl replied.
+
+Another creature fell to her spell.
+
+But slower.
+
+Harder.
+
+“I’ll handle him,” she continued, her tone leaving no room for argument. “You finish the rest. Fast.”
+
+The shift in formation came cleanly.
+
+Veric and Sepio pressed forward more aggressively now, no longer holding as tightly, their focus turning fully to eliminating the remaining creatures as quickly as possible. Trianna adjusted her position to support them directly, her shots aimed for openings rather than disruption, while Ray moved to cover the gaps that formed in the more offensive push.
+
+Each of them exerted more force than before. Stronger, faster, and more vicious.
+
+Syl stepped out of the formation.
+
+Directly toward the man.
+
+He smiled.
+
+“Finally,” he said, almost pleased.
+
+Syl stepped in the moment the word left him.
+
+There was no hesitation in the decision, no attempt to delay further.
+
+The creatures surrounding them had already shifted into a secondary threat, something the others would handle. What stood before her demanded full attention, and Syliana gave it without reservation, her staff already moving as mana gathered under precise control.
+
+She opened with restraint.
+
+The first spell formed cleanly, layered and subtle, meant to obscure his perception and fracture his awareness just enough to create an opening she could exploit.
+
+It was a tested approach, something that had served her well against opponents who relied on raw strength or straightforward defenses.
+
+It unraveled before it could take hold.
+
+A piece of his gear flared faintly, barely visible, and the structure she had built dissolved as if it had never carried substance to begin with.
+
+Syl adjusted without pause, her casting flowing directly into a second construct, tighter, faster, built for impact rather than misdirection.
+
+It vanished the same way, yet the flare came from a different piece of equipment this time.
+
+Syliana long since learned to avoid showing obvious tells of distress… but she really wanted to ‘tsk’ right now.
+
+The man was decked out in artifacts.
+
+Multiple of them, layered, each one positioned to intercept before her work could ever become a threat.
+
+And who knew what others he was hiding still.
+
+There was no time to hesitate, and giving him time to respond seemed unwise.
+
+Syl acted before that thought even finished.
+
+Her staff cut forward in the same motion, the strike not intended to land cleanly but to force him to respond, to test the way he moved when pressed physically rather than magically.
+
+The man answered before the question was fully asked.
+
+The distance between them collapsed in an instant, his movement sharp and precise, the counter already committed before her attack had finished forming. Syl brought her staff across in time to meet it, but the impact that followed carried far more force than the exchange warranted.
+
+It drove through her guard.
+
+The weight of the strike forced itself through her arms and into her core, knocking the breath from her in a tight exhale as she was pushed back, her footing giving under the momentum.
+
+What followed was a flurry of exchanges, faster and stronger than any Syliana recalled ever facing.
+
+Each blow was violent and unrefined.
+
+She could see the flaws.
+
+But could do nothing to exploit them.
+
+For a brief moment, an old thought surfaced.
+
+Regret.
+
+She had spent years honing efficiency, shaping herself into what was needed rather than what could have been. Putting education and execution before strength.
+
+It passed as quickly as it came.
+
+There was no space for it here.
+
+She re-centered as she moved, regaining her footing just as he advanced again, his intent clear in the way he closed distance, already preparing the follow-up that would end the exchange if allowed to land cleanly.
+
+He did not reach her.
+
+Sepio stepped in at the last possible moment, his weapon intercepting the path of the strike meant for her, his stance anchoring as he took the full weight of it head-on.
+
+The ground gave beneath him.
+
+His boots carved into the dirt as the force drove through his frame. He held regardless, absorbing it through sheer strength and discipline.
+
+“Back,” he grunted out.
+
+Syl moved, shifting position without breaking the flow of the fight, giving him the space he needed while she rebuilt her casting.
+
+Trianna’s response came a heartbeat later.
+
+Her arrow did not aim for the man himself.
+
+It struck a different target.
+
+The artifact she had marked shattered under the impact, its effect collapsing instantly as fragments broke away.
+
+The man snarled.
+
+“You damn vermin.”
+
+He moved again, going straight toward Trianna.
+
+Veric was already in motion, closing the gap in a controlled surge, his blade moving faster than before, each strike placed with intent to cut off the path the man had chosen. The first attack drove straight toward center, followed by another that shifted angle mid-motion, denying any simple defense.
+
+The blade connected–
+
+But also did not?
+
+It bit into the opponent’s arm, yet a strike that should have cut off the hand was shallow.
+
+The resistance was wrong, something beneath the surface of the arm moving. The thing beneath caught the edge just enough to rob it of the depth it needed. Veric adjusted instantly, his next strikes glowing with the power of his Skills. Shifting lines, probing for weaknesses, each movement precise and committed.
+
+They drew blood.
+
+But it was not enough.
+
+What lay beneath was not simple flesh, not simple armor.
+
+The unpleasantly familiar smell arrived.
+
+Ah, that was bad.
+
+Really bad.
+
+Syliana tried to move, to complete her spell faster.
+
+All while Veric pressed harder, faster, each exchange building toward an opening that never fully formed.
+
+The man allowed it.
+
+For a moment.
+
+Then ended it just as simply.
+
+The counter came from close range, a shift in angle that Veric could not fully evade. The kick struck his side with crushing force, lifting him from his footing and sending him back across the ground hard enough that the impact echoed.
+
+He rose again.
+
+But the distance was made.
+
+Syl stepped in once more, placing herself between the man and the opening he had created, her staff cutting across his path as her casting exploded into his face in the same motion, blinding, assaulting the eyes.
+
+He staggered, but responded to her staff regardless.
+
+Trianna’s arrows followed in rapid succession, each one more precise than the last, forcing him to adjust, to account, to shift his approach rather than execute it cleanly.
+
+Ray supported from the edges, jabbing at him with small movements, creating subtle interference, turning the angles of his blows just enough to deny clean lines of attack.
+
+The creatures tried to interfere, but with the man occupied, their advances were wild, uncontrolled, and easily batted aside.
+
+Their coordination built up.
+
+The damage mounting.
+
+Then–
+
+One arrow came close.
+
+Closer than the rest.
+
+The tip grazed his face, cutting along the edge of his eye, drawing more than a shallow line this time.
+
+He stopped.
+
+Only for a moment.
+
+His hand rose, touching the mark, his expression stilling in an unnatural, maddened snarl.
+
+Then the smile returned.
+
+Far colder than before.
+
+“…Enough!”
+
+The shift was immediate.
+
+Whatever patience the man had shown until now vanished the moment he spoke, and the next exchange came with a weight that forced the pace of the fight to change entirely.
+
+He stepped into Syl’s space without hesitation, enduring her blow with barely even a wince. His strikes no longer measured but direct, each one carrying enough force that blocking alone became a problem rather than a solution.
+
+Syl learned fast, and intercepted the next blow cleanly, her staff intercepting the blow at an angle meant to deflect rather than absorb. But the impact still drove through her guard and forced her back.
+
+She adjusted, stepped, tried to regain position, but he did not give her the space to do it properly. Each follow-up came faster than the last, fury mounting, forcing her into a defensive retreat that pulled her away from the others by sheer pressure alone.
+
+But that was the point.
+
+And the very moment the gap opened, he took it.
+
+“Trianna!” Syl tried to warn them, too much on her backfoot to be able to help.
+
+The man moved for the archer in a straight line, ignoring the rest entirely.
+
+Sepio got there first.
+
+He stepped in hard, placing himself between them without hesitation, his shield already raised as he braced for the impact.
+
+This time, there was no testing strike.
+
+No partial commitment.
+
+The blow came with the attacker’s full body and ridiculous strength behind it.
+
+Sepio met it with both arms, reinforcing the shield with all the Skills he had, not letting it take the force alone, his stance set as deep as he could manage–
+
+–and still it drove him down.
+
+The ground gave beneath his feet as the impact forced him into it, the strain visible in the way his arms bent under the pressure, the structure of the defense holding only because he refused to let it break.
+
+It wasn’t enough.
+
+The second motion came immediately, the man shifting angle just enough to disrupt the balance Sepio had managed to hold. The shield was seized, his grip locking onto it as he wrenched it free with a violent pull that tore Sepio off his footing entirely.
+
+The movement carried through.
+
+Sepio’s body followed the motion he could no longer control, his own weight working against him as he was dragged forward–
+
+–and the follow-up strike came in close.
+
+The impact landed precisely against his helmet with a sharp, controlled force that snapped his head to the side.
+
+Sepio dropped to the ground.
+
+Still.
+
+Trianna did not hesitate.
+
+Her bow was already in motion, her position shifting even as the distance closed, her instincts carrying her through the reaction.
+
+She managed a few arrows.
+
+Put a couple into the attacker’s torso, but Syliana could tell another artifact flared. The impacts nearly negated.
+
+And then it was too late.
+
+Trianna’s bow came up not to fire, but to block. The reinforced limbs of it meeting the incoming strike at an angle that kept it from landing cleanly.
+
+It held–
+
+–for a moment.
+
+Then split.
+
+The force behind the blow drove through it, the bow breaking apart under the pressure as the impact carried through into her guard. She moved with it, her body turning just enough to reduce what she could not fully stop.
+
+And struck back.
+
+The dagger came from nowhere, drawn in the same motion as she stepped inside his reach, the blade driving forward with everything she had behind it.
+
+It sank in.
+
+Deep.
+
+Centered.
+
+With all the power the man’s own blow delivered, enhanced by everything Trianna had to give.
+
+For a fraction of a second, it should have been enough.
+
+And yet, it wasn’t.
+
+The resistance beneath the man’s skin held again, the damage real but not decisive, the man’s expression not even shifting as the blade lodged into his throat.
+
+It should have ended the fight.
+
+His response came instantly, a strike that was more a simple lashing out, than aimed to kill.
+
+The impact lifted her off her feet, the force breaking through her guard completely this time, the sound of it carrying through the field as she was thrown back and hit the ground hard enough that she did not move again.
+
+Her arm lay wrong.
+
+Her breathing shallow.
+
+Unconscious.
+
+Veric reached the space a heartbeat too late.
+
+Syliana right with him.
+
+They did not even pause. They would not give any time to gather his bearings to this corruption-riddled monster of a man.
+
+They engaged together, their movements aligning without needing words, each covering the other as they stepped into the space left behind. Veric pressed forward with speed that pushed past what he had shown before, his strikes sharper, more aggressive, forcing the man to respond rather than advance freely.
+
+Syl supported from within the same space, her casting tighter now, more focused, aiming to disrupt his footwork, to drive the hurt into the opponent’s body.
+
+The magic missiles landed, the tripping spell slowed him.
+
+Only slightly.
+
+It was not enough.
+
+Each exchange cost them.
+
+Each block forced more strain.
+
+Each attempt to push forward met resistance that did not break. The unnatural resistance stopping their blows from doing real damage.
+
+They held.
+
+Because they had to.
+
+Because there was no other option.
+
+And then–
+
+They saw movement behind him.
+
+Fast.
+
+Angry.
+
+And charging right at them.
+
+Luna arrived.

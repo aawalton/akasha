@@ -1,0 +1,249 @@
+---
+id: 7c28e42b-de06-5173-ac1b-99bb2a1d5a05
+page-type-slug: story-chapter-royal-road
+title: "Chapter 116: Merge?"
+slug: 0116-chapter-116-merge
+partOf: phoenix-ascension-cultivation-litrpg
+position: 116
+ownLength: 2381
+unit: words
+publishedAt: 2026-04-20
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3298161/chapter-116-merge"
+royalRoadId: "3298161"
+---
+
+Huh? Merge?
+
+I stared at the prompt  for a good minute and a half. What did merge mean? Was that a new function of the system?
+
+[Merging skills is a function unlocked at level twenty five, though it had not been high lighted because you asked not to show certain notifications when you are fighting.]
+
+And did you just forget to tell me afterward?
+
+[...No]
+
+I let out a sigh and deflated on the ground.
+
+Tell me what this function does, then.
+
+[Certainly!]
+
+[Merging skills simply means that you can take two or more compatible skills and turn them into one skill. That new skill takes the average mastery level of the fused skills. The new skill will retain aspects of the merged skills while improving on them and there is a possibility of adding new features.]
+
+[Similarly, there’s also a possibility of removing features it deems unnecessary.]
+
+I see… And what’s the cost.
+
+[Ah, you’re a smart one, alright. The cost for merging depends on how many skills have been merged, their mastery level, and some hidden factors I cannot disclose. The price is paid in Skill Points.]
+
+I knew it! I knew something like was too good to be true. Ugh, why do I have to spend my precious Skill Points on that!
+
+Although my skill page has gotten pretty long… But nobody reads it anyway! Well I read it, but only sometimes!
+
+With the option to merge skills right in front of my face, though, it was pretty hard to straight up decline. These were two skills I never used, especially considering I’d just gotten the other one.
+
+What’s the price?
+
+[In order to merge Cry(Novice) and Ruler’s Authority(Novice) you will need to use two Skill Points.]
+
+Two of them huh… I suppose it’s not that expensive just to see what the function does.
+
+[Would you like to merge Cry(Novice) and Ruler’s Authority(Novice) for two Skill Points?]
+
+Yes.
+
+[Skills Cry(Novice) and Ruler’s Authority(Novice) have been merged into Ruler's Order(Novice)]
+
+[Ruler's Order(Novice)]
+
+[Let out a screech that orders all allies within a certain range to come to your aid by default. Alternatively, issue a large command or set of commands toward your allies. Targets under the effect of this skill recieve buffs that scale based on the average stats between the user and the target.]
+
+[If the target is part of the user's Order, they will recieve an extra twenty percent boost to the buff granted by the skill. IF the target is part of the user's Order, they are not required to follow the commands in order to recieve the buffs.]
+
+[The range of the skill scales with Perception.]
+
+Well that was a mouthful... But for the most part, the skill was pretty much the same as Ruler's Authority but with a larger range that scaled with Perception.
+
+That made sense, since it did merge with a skill that was called *Cry*. Either way, was it worth two Skill Points? Probably not, since I wouldn't have been able to use either of those skills anyway. But it was a small price to pay for testing the exciting new feature I wasn't told about.
+
+After satisfying my curiosity, I went ahead and closed all System windows, and switched my attention back to the core of the Night-Tusker. It was the last core I had, and I really hoped it was worth it.
+
+Not that I had a lot of trouble killing it, though.
+
+[Would you like to absorb Heaven-Stripped Night Tusker core?]
+
+Yes.
+
+[You have absorbed Heaven-Stripped Night Tusker core with 90% efficiency.]
+
+[+20 Strength; +10 Dexterity; +10 Perception;]
+
+[Skill: Mad Charge(Novice) has been acquired.]
+
+[Mad Charge(Novice)]
+
+[Throw all caution to the wind and do a mad charge in a target direction. The result of the collision will remove an equal amount of health points from both you and your target. The effectiveness of the skill depends on user’s Strength and target’s resistances.]
+
+So a standard amount of stats and a new skill that I would probably never use. No Qi and no intelligence or charisma, which was... to be expected, sadly.
+
+However, one thing that changed was the amount of energy that got absorbed by my core. There seemed to be a lot more than the Hairy Cicada's, and it was getting greedily absorbed by my core.
+
+Sure enough, there was a change, and-
+
+[Dormant Core V has become Dormant Core VI!]
+
+Awesome!
+
+There was a little bit of power flowing through me, though not a subsantial amount. Regardless, it was much better than nothing, and I was really happy that I managed to take a step in the right direction.
+
+Now that I absorbed everything, and that the weakness period of  Last Stand ended, it was time to keep on levelling. Since I was level twenty six, maybe it wasn't the best of ideas to take on Spirit Beasts more than ten levels higher than me.
+
+However, there were still plenty of them within my level range.
+
+The ones at level thirty to thirty five should still give me a good amount of experience for levels, and their cores should be adequate to feed mine.
+
+With that said, I also had the option of giving some Qi to my core, which I could then recover with Spirit Stones or their cores.
+
+Maybe I should have done that before absorbing all those cores, but it was too late.
+
+I stood up on the branch and spread my wings, taking to the skies.
+
+Flying away from where I'd left the otter, I felt the calling of the treasure within the volcano, but it wasn't meant to be mine just yet.
+
+Maybe I would return one day, and grab it before dealing with the otter, if it still lived.
+
+***
+
+[You have slain Yellow Backed Viper, Lvl 31.]
+
+[XP Acquired]
+
+[You have Leveled Up!]
+
+[Elemental Phoenix Heir Level 26 has become Elemental Phoenix Heir Level 27.]
+
+Phew.
+
+I stood in the middle of a bloody battlefield. That Yellow Backed Viper was the highest level snake in a group of seven or so, and one of two with a level above me.
+
+The other didn't put much of a fight, since I aimed to kill it first. All it took was a fully-buffed body, three stealth skill, and the perfect moment to strike. Assassination did a lot of bonus damage, and it felt damn good to actually kill something in one shot.
+
+That attack also upgraded my assassination skill from Novice to Beginner which felt really good.
+
+The viper was level twenty eight, and it now lay sprlawed on the ground with its head separated from its body.
+
+The other four vipers were taken care of using Burning Wind and Elemental Dragon, though they were of a lower level than me.
+
+The biggest problem turned out to, shockingly, be the highest level Spirit Beast in their group. Luckily, it only took a short fight for me to make quick work of it.
+
+Its main way of attacking was poison, and my poison resistance was pretty damn good. The few times it managed to land a bite on me, the venom dissiapiated almost as quickly as it entered my bloodstream.
+
+That was pretty awesome, and it gave me an easy fight.
+
+Without thinking too much about it, I collected the cores, three in total, and their corpses.
+
+I didn't have time to eat them in the moment, but I would find a safe place to devour them soon enough, since night was falling.
+
+Looking up at the moon, I could tell that it wasn't that long before the time to fight for the Moon Bloom would come, and I had to be prepared.
+
+At least level thirty. At least one more evolution.
+
+Since there were no caves to speak of in the vicinity, I flew up a rather thick branch and made camp there. The wind and cold didn't really get to me, since I could either fully negate them or warm myself up with warm Qi.
+
+On the branch, I pulled out two fresh snake corpses and had my fill. Overeater didn't fill up even one bit, so I was porbbaly pretty famished.
+
+Considering how useful it was, though, I decided to stuff my face further. The snake meat wasn't particularly delicious, but it managed to fill me up pretty well.
+
+After such a copius meal, I was beginning to feel a little tired. Since I'd barely stepped into the world of cultivation, and considering that I was still a growing Spirit Beast, it was only natural that I needed to sleep.
+
+I made sure that there was no danger around and cast **Heaven's Protection to defend me just in case, and promptly fell asleep.
+
+It wasn't a peaceful sleep though, since I had some sort of strange dream that bordered on being a nightmare.
+
+Not in the sense that it was horrific, but in the sense that the emotions I felt in that dream could not be described by normal means.
+
+In the dream, I was flying through a vast starry sky. There was no moon to speak of, but millions of white, flickering dots over a night tapestry. I kept flying and flying with no goal or end in sight.
+
+However, I enjoyed the journey, in a way. Simply flying through the cosmos was a pleasant feeling, but something kept nudging at me.
+
+It came from a far, far away place, and the more I flew, the more urgent it felt. I couldn't quite tell what it was that was calling me, but I had a goal, and flew toward it.
+
+In my path, I met something, or someone. A giant figure stood before me, their eyes as big as planets, and body covered in swirling vortexes. They stared at me and smiled, a great pressure exuding off of them.
+
+Moving was difficult, let alone flying. Thankfully we were in space, so we merely floated.
+
+Reglardless, the giant figure gave off an aura of power, of authority,  but  I didn't feel any sort of fear.
+
+We looked at each other for a while before a slow giggle echoed through the stars, and it vanished. Along with it so did the pressure, and I kept on fyling.
+
+I wasn't sure how much time had passed, but something soon came to stand in my way. A shiver ran down my spine as it materialised in front of me, and I froze in geniune fear.
+
+The creature before me was a giant green snake with a large amount of wings sprouting from its back. There were so many, it was hard to count them all, but there must have been hundreds.
+
+It didn't stare at me for long, as once it spotted me, it lunged.
+
+I thought I was done for. I couldn't move and the thing was flying at me at incredible speeds. My heart was racing but suddenly-
+
+A paw came down from the sky, smashing the empty space between me and the snake. A low, primal growl echoed in the area, and the snake looked to be stupified.
+
+After hissing, the growl responded back, and the two seemed to be having a conversation, or rather, an argument, with the growl winning.
+
+The snake hissed one last time, probably a curse, and turned away, flying by flapping its hundreds of wing and disappearing within amater of momenmts.
+
+The paw retracted, and I watched with horror and awe as it disappeared as well.
+
+Then, I kept on flying.
+
+***
+
+I woke up cold, not only because of the temperature but also because of that vivid  nightmare.
+
+It was hard to put into words, but the power and pressure I felt from all three of them was... exhilerating.
+
+I hadn't felt like that in a long time. Those were worthy foes, worthy adversaries to fight to the death. Whoever they were, I had to reach their level and battle them!
+
+After digesting and saving those images to memory, I got up and went to a lake.
+
+Sure, I didn't literaly sweat, but I was still feeling yucky, so a bath would do nicely.
+
+Flying closely to the water body, I detected a few other Spirit Beasts all drinking harmonuosly. None of them were any threat to me, so I joined them in the morning ritual.
+
+They gave me a fearful glance, and some left, but the majority remained. A lake was always supposed to be a sacred place where both prey and predator could partake in the experience of water.
+
+I was pretty much just planning on washing some grime off my feathers and drinking a bit of water, but I didn't even get a few minutes in the refreshing bath before someone came to bother me.
+
+[Green Horned Badger, Lvl 32]
+
+A rather big badged with a green horn on its forehead approached me, sending out an intimidating aura that made the other Spirit Beasts flee in fear.
+
+I didn't care much for it, hell, I didn't even know it was coming my way until it started talking.
+
+"You, pipsqueak. What the hell do you think you're doing in my territory?"
+
+I looked around, unsure if he was talking to me, but seeing as I was the only one in the area now, he clearly was.
+
+Excuse me? Who are you calling a pipsqueak?
+
+I decided that instead of starting a fight, that the best way to resolve the conflict was by ignoring him.
+
+There was a bit of grime between some important feathers, so I wanted to-
+
+"I am talking to you." He said, putting some intent into his voice. That was a pretty good technique to intimdate newbies, I'll give him that.
+
+I pretty much just rolled my eyes and looked dead in his beady eyes.
+
+"What the fuck do you want?"
+
+He seemed taken aback for a moment before baring his fangs. "You dare speak to me in a way?"
+
+"Why wouldn't I dare?"
+
+Ah, that felt good to say, it's been a while since I had the chance.
+
+My reponse infuriated him though, as what I could only interpret as an eerie aura emenated out of him, and he let out a menacing growl.
+
+Ah, here we go again.
+
+------------------------------
+
+This chapter has some art on patreon!

@@ -1,0 +1,159 @@
+---
+id: dccdf8f1-c4d3-568e-b5ef-b809ebd66e9c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1157 - Innate Advantages"
+slug: 0029-chapter-1157-innate-advantages
+partOf: the-primal-hunter
+position: 29
+ownLength: 2687
+unit: words
+ownProgress: 2687
+publishedAt: 2025-08-22
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2538858/chapter-1157-innate-advantages"
+royalRoadId: "2538858"
+markedReadAt: "2026-06-29T19:30:10.685Z"
+---
+
+Jake really wanted to find a good reason to shut down the name Jasper, but he couldn’t make up one. To make matters worse, the Warpsnatcher’s big eyes lit up when it heard the suggestion.
+
+“Ja...per!” the little guy said, trying to pronounce the name, looking very happy with it. Jake suspected part of the reason why the Warpsnatcher liked the name was the fact that it started with ‘Ja’, which made it at least slightly similar to Jake.
+
+“Do you like the name Jasper?” Jake asked the C-grade beast.
+
+“Jas...per!” the Warpsnatcher tried to pronounce the name again, doing a way better job this time around.
+
+“Should I take that as a yes?”
+
+“Jasper!”
+
+“I’ll take it as a yes,” Jake smiled, shaking his head as he looked towards where the Forest King was, his gaze seemingly ignoring all physical obstacles in the way. “Happy now, you grump?”
+
+“As long as I put a stop to your inane focus on making up a name, then yes,” the Unique Lifeform answered. “I also found your explanation of how your ability as a Harbinger of Primeval Origins works interesting.”
+
+“Oh please, you already knew for the most part,” Jake waved the King off. “Or did I severely overestimate your power of deduction from all the damn context clues you must have collected over the years?”
+
+“No, I had my suspicions, but having things be confirmed is still a different matter,” the King said. “Though I do still wonder what the source of this energy of yours is. It cannot be simple in nature, so the method of acquisition must be equally complex conceptually. Not to mention the potential for backlashes when misused or other unknown limitations regarding its application. I would question why you would waste something so precious on a beast you’ve only just met, but I shall leave it up to your discretion. Having spent quite a few years around you, I’ve come to learn that your own seemingly impulsive decisions usually lead to favorable outcomes on account of your ridiculous ability to intuit matters.”
+
+“That’s quite the praise,” Jake chuckled.
+
+During his explanation to the newly named Jasper, Jake hadn’t shared everything regarding his ability. Just everything that could be relevant to the little guy. The origin of Jake Juice wasn’t something that had any impact on the outcome, so he’d naturally kept that hidden. The origin of the energy was also Jake’s biggest secret regarding the ability, as most other aspects of it could be guessed from the outcomes.
+
+However, as could be seen by the King’s thoughts, not even the Unique Lifeform assumed the Primeval Origin Energy was something Jake could just passively produce on his own. He assumed it was far more complex, and Jake really couldn’t blame him, as he would also assume there would be some serious limitations on that kind of ability.
+
+Sure, there were some limitations on how much Jake could use as it replenished incredibly slowly. Passively, that is. Jake also regenerated some of this energy whenever he leveled up or even just gained experience. Actually, it was entirely possible that Jake didn’t passively regenerate Jake Juice at all, but only got it through gaining experience and Records, and whenever he got a level, he just got an extra boost.
+
+There were still a lot of unknowns regarding all the Primeval Origins stuff, which was part of the reason why Jake wanted to do this kind of experiment with the Warpsnatcher in the first place.
+
+“I never denied that you have certain outstanding abilities. That has never been what I questioned. What I instead question is the person possessing these abilities,” the King said, straight back to being a bit of an asshole.
+
+“You know, abilities color personality, and I’m as much a product of my Bloodline as you’re a product of being born with a golden spoon permanently stuck up your ass,” Jake shrugged.
+
+“You speak of innate advantages? Of being born with a silver spoon? Remind me once more, what incredible merit did you accomplish to gain a Bloodline that even I, a Unique Lifeform, find too ridiculous?” the Forest King countered.
+
+“Alright, alright, we’re both the system’s version of privileged rich kids, and-“
+
+“I wasn’t done. I believe the system recognizes that we Unique Lifeforms are indeed too innately powerful, which is why it has limited us in several ways. Perhaps the biggest limit placed upon us is our inability to produce more of our kin, forcing eternal solitude upon us. To be clear, I find this an understandable limitation. If Unique Lifeforms could reproduce, the multiverse would risk being dominated by us. Just imagine if Minaga could reproduce and clone an army capable of producing another army that could clone themselves all over again.”
+
+“Yeah, that would definitely be ridiculous, but-“ Jake tried to say, but was interrupted yet again.
+
+“Oh, good to see that you agree. Now, please enlighten me as to why you are able to pass on an equally ludicrous Bloodline onto your offspring,” the King finished saying, finally getting to the point.
+
+“Hell if I know,” Jake sighed and shook his head. “But I would argue there are differences and limitations. First of all, Bloodlines aren’t always passed down, and the more powerful they were, the lower the chance of passing them down. Additionally, when passed down, it’s never a one-to-one. Bloodlines always change at least a little, more often than not growing weaker in offspring, which is why many factions and families try to get two people with Bloodlines to have children, as that can cause their Bloodlines to merge and mutate. Alright, there is also the very rare chance of a child being born with a more powerful Bloodline than the parent, but that usually only happens once the Bloodline has been severely diluted over time, and even then, I’m not sure it can ever match the power of the original Bloodline Patriarch.”
+
+“Those are a lot of words to excuse what’s ultimately still a massive advantage your Bloodline has,” the Forest King commented. “Then again, the fact that it can be propagated through reproduction also has its downsides. At the very least, I have no need to be in fear of females wishing to pass on my Lineage.”
+
+“Well, I wouldn’t say I’m afraid either, but sure, it can be annoying,” Jake shrugged. “And not like that’s an exclusive challenge for people with strong Bloodlines. Those with powerful variant races face the exact same thing.”
+
+Looking down at Jasper, who had just been listening in on their conversation, Jake smiled. “I guess that’s another potential risk we need to add if you agree to the ritual. If things work out well, you may face issues with female attention.”
+
+“It not good?” Jasper asked, tilting his head.
+
+“Well, depending on the perspective, it might be,” Jake shrugged.
+
+“The hunter fears the horrors of social interactions more than nearly anything else, so it’s only natural that dealing with the complexities of humanoid mating rituals will be a major challenge for him. This is especially observed in scenarios where he isn’t even interested in the other party in the first place. Watching him trying to navigate conversations while trying to escape is truly a sight to behold,” the Unique Lifeform continued to make fun of Jake.
+
+“Alright, alright, enough from you for now,” Jake waved the King off. “Go back to your training or whatever. I need to actually focus on preparing what’s next.”
+
+“You know what? For the first time in a while, you have a good point. We both have better endeavors to engage in,” the King agreed. “I wish you luck with your future Path, Warpsnatcher.”
+
+“Bye!” Jasper said, waving toward where the King was sitting, and Jake got the distinct feeling that the little fella wasn’t just mimicking where Jake looked at earlier, but was also aware of the Unique Lifeform’s exact location.
+
+Jake also couldn’t help but smile, seeing how much more comfortable Jasper had gotten with the King in such a small amount of time. Then again, seeing two powerful people bicker back and forth had to be a good way to make them seem less scary.
+
+“I’ll need to go do some research about how to set up the ritual,” Jake said as he looked around the cellar room. “But just one warning. You may have to move your collection to a bigger room, as I’m considering integrating it into the ritual.”
+
+The Warpsnatcher tilted his head to the side, looking a bit concerned. “You take?”
+
+“No, at least not directly,” Jake shook his head. “Either way, that’s something to think about later. For now, let’s just figure out how to get this entire ritual off the ground in the first place. I admittedly do also have a few other projects I’ll be working on in the meantime, so preparations won’t be done for a while. Also, you can come to me at any time with questions or concerns if you have them, and I hope it doesn’t need to be said, but you’re free to change your mind and drop out at any point.”
+
+“Okay!” Jasper nodded, not indicating at all that he was reconsidering his participation.
+
+Jake nodded and went out of the cellar and up toward the living room. As he’d told Jasper, he indeed also had several other projects he was working on at the same time, and luckily for him, namely the bow, his Meditate skill, and he also planned on continuing to work on his poisons here and there.
+
+Overall, Jake had plenty of things to do... though if need be, he could definitely still find openings in his schedule to fit in quality time with Artemis whenever she was available.
+
+--
+
+Duskleaf studied the soil sample closely, attempting to identify any unwanted concepts within it while making sure it had what he was looking for. After confirming everything was as expected, he noted it down and moved on to the next sample. These soil samples had been collected from all over the multiverse, most of them from areas even gods had to fear entering.
+
+“How is it?” Nature’s Attendant spoke as he teleported into the room. He hoped there had been progress, and if anyone could discover what was missing, it would be Duskleaf. He was one of the few alchemists in the multiverse that Nature’s Attendant actually respected the opinion of, after all.
+
+“None of them are any good,” Duskleaf shook his head. “At least not on their own. We’ll need to combine the soil samples and make our own composite. Even then, we’ll need the right fertilizer to ensure the failures don’t repeat.”
+
+“I take it that means you need more samples to test on?” Nature’s Attendant asked.
+
+“We should have gathered enough of most types for both the testing and execution phase,” Duskleaf said, his voice containing a high level of certainty. “However, a few of them are lacking, especially the Crimsonfowl Sand. From all initial tests, we will need a lot of it.”
+
+“Alright,” Nature’s Attendant sighed, knowing just how annoying that type of sand was. It took a long time for it to be produced and only occurred in the nesting area of the Crimsonfowl, a species of birds that were overly territorial. While Nature’s Attendant didn’t fear them as even the strongest species among them rarely surpassed B-grade, that didn’t mean locating their nesting areas was easy, and even if he found one, the quantity was bound to be low due to just how rare the Crimsonfowl was.
+
+Once upon a time, they were much more common, but alas, they had nearly been hunted to extinction.
+
+“I know what you’re thinking, but no, there are no substitutions I’ve found that work,” Duskleaf shook his head. “Only the Crimsonfowl have survived that still possess the Records. It may be possible there are others in some forgotten realm, but finding that would be far harder than finding more Crimsonfowl Sand.”
+
+Nature’s Attendant nodded, aware they were limited in options. “I’ll send some aspiring younglings to explore potential sites where it may be found. I’ll also contact any huntsmasters to hear if they’ve spotted any while looking for new Hunting Grounds.”
+
+“Sounds good,” Duskleaf said. “Just be careful about this spreading. We wouldn’t want the Risen or Holy Church kicking up a fuss.”
+
+“Heh, I think we’ll manage even if they do catch on,” Nature’s Attendant chuckled. “Was there anything else?”
+
+“Nothing pressing,” Duskleaf shook his head. “Ah, but I did hear about you helping out Jake with making a bow or something like that?”
+
+“Indeed,” the second-in-command of the Pantheon of Life confirmed.
+
+“How is that going? I know that working with Jake’s energies in any capacity can be quite... challenging.”
+
+“That’s an understatement,” Nature’s Attendant shook his head with a small smirk. “That arcane affinity of his is stubborn, to say the least. At times, it’s incredibly hard to work with, and at others, it does exactly what I wanted it to. It’s almost as if-“
+
+Nature’s Attendant stopped himself mid-sentence before shaking his head. “Never mind. My point is, it’s an interesting affinity and a powerful one for sure.”
+
+“You’ve yet to answer how it’s going,” Duskleaf reminded the other god.
+
+“Oh. Right. I would say things are going as well as they should, and I believe the final result will be more than satisfactory for everyone involved.”
+
+“That’s good,” Duskleaf said with a smile, before another thought struck him. “How is Artemis these days?”
+
+“She’s fine,” Nature’s Attendant answered. “She’s also helping me with the bow. However, I get the feeling that isn’t what you’re truly asking.”
+
+“So?”
+
+“No indication there’s been any major developments, but I get the feeling things are progressing slow and steady. I did recently have a conversation with her partly related to the subject, and from that, I believe that she’s quite serious about the matter and giving it a lot of thought,” Nature’s Attendant answered honestly. “It’s Jake I have a harder time reading.”
+
+Duskleaf nodded, in thought for a moment. They were really acting like two old men right now, discussing the love lives of a young-ish god and a young mortal. However, it was a fairly important matter that should not be taken lightly.
+
+From an outside perspective, it was likely just viewed as Artemis having a temporary fling with a mortal for a few years. This was quite common and not at all viewed as weird, but these two old men knew there was far more to it. And not just because they were both operating under the working theory that Jake would eventually reach godhood.
+
+Jake was clearly not a normal Chosen, so anyone he was close to also automatically got close to the Malefic Viper and his Order. Meanwhile, Artemis had been a member of the Pantheon of Life ever since she was a child and was now a relatively high-ranked member of the faction.
+
+All of this is to say that any relationship had massive political implications.
+
+He also gave Meira some thought, and truthfully, he believed this was a good thing for her. Even if she couldn’t see it right now.
+
+“I think it best to just leave the two to it,” Duskleaf shook his head. “Let whatever happens happen.”
+
+“That does sound like the best approach,” Nature’s Attendant smiled. “You know, a part of me had hoped Dina could be a way to forge a stronger bond with him, but this development isn’t too bad, either.”
+
+“Enough about that,” Duskleaf waved him off. “I should really get back to it, and I believe you also have plenty of matters to address.”
+
+“True, true,” Nature’s Attendant smiled. “But there’s nothing wrong with looking forward to a potentially flourishing relationship between both factions and people.”
+
+With those words, the god teleported away, leaving Duskleaf behind. Shaking his head, the alchemist got back to work, and only a few seconds later, he was so engrossed that he’d already entirely forgotten about everything irrelevant to the current project.

@@ -1,0 +1,167 @@
+---
+id: 0aab876b-7139-5f0f-8b08-459f95eb0bef
+page-type-slug: story-chapter-royal-road
+title: "165 Skyburner"
+slug: 0124-165-skyburner
+partOf: the-new-world
+position: 124
+ownLength: 2715
+unit: words
+ownProgress: 2715
+publishedAt: 2018-11-24
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/309276/165-skyburner"
+royalRoadId: "309276"
+markedReadAt: "2026-06-29T21:25:15.601Z"
+---
+
+*****************************
+
+I ended up finding four other bodies spread out along the border of silver territory and mountainscape. Each espen held the same eggs, in the same pit of their stomach, and it was always a he. Each corpse was fresher, the last one being brand new with blood still running.
+
+I kept my eyes sharp as I leaped up past the mountains. I molded gravity over myself, keeping a casual pace. Otherwise, I'd outpace the damn octo-car. Swarms of birds kept getting in my way to a point I believed it was purposeful.
+
+I wasn't into mass murder, but these fuckers had it coming. They funneled into a line before ramming themselves into me. After wiping off gallons worth of bird guts, I'd had enough.
+
+That's why I cleared the skyline with Event Horizon as I spotted a speck on the horizon. I landed on the ground, staying low and stealthy. I stood still, praying the thing didn't see me first. It hadn't.
+
+It flopped its enormous wings, sailing through the air with grace. It was a gialgathen, though bulkier than Alzoroth. Armor covered it, streaks of mana connecting charged gemstones. These crystals encrusted the dark green metal, the craftsmanship excellent.
+
+Its wings dwarfed Alzoroth's as well, spanning wider than a house. It glided on those sturdy limbs, leaving contrails behind it. Thin, needle claws extended from the wings, just like on its hands. It shut its mouth, but it lacked cheeks, exposing the gums and teeth. It was ominous, nothing noble about it.
+
+In the talons of its feet, an espen man flopped like the broken neck of a chicken. I grimaced as he closed in. I analyzed the body, but it returned nothing. The espen was already dead, his belly swollen and bulbous. I looked at the red gialgathen next.
+
+Ryhstrika, Skyburner(lvl 9,076) - It's quite the rare occurrence that a natural creature gains an unknown status. That's what happens when you hone the physical might of the gialgathen to a razor's edge. You end up creating a Skyburner.
+
+Their armor is composed of star iron, an alloy of orichalcum and meteoric ore. The slaves of these gialgathens encrust this shielding with charged diamonds, enhancing their already formidable mana pool.
+
+Their combat instruction is vast, giving them experience against multiple fighting styles. Their tails are honed until they develop a callused lump of hardened scales. These scales can be ground up and used in place of diamonds.
+
+Their cheeks are removed at birth. This gives them a swifter bite and allows for better care of their teeth, keeping them healthy. This also allows them to develop an augmented magical breath. Without cheeks and with the ability to open their mouths nearly 180 degrees, their breath is a potent weapon.
+
+They hone their talons and claws, giving them the piercing of needles and the sharpness of broken glass. When flying, the draw water from the surrounding clouds to hydrate. Excess water is dispensed outwards once full, letting them leave contrails.
+
+Though believed to be extinct, this Skyburner is alive and well. An ordinary sentient of your level would do well to avoid this behemoth. You, however, will find a good fight facing off against this creature.
+
+I'd seen enough evidence to take action. I ran forward, diving into the ground. My mana charged in an instant, saturating my runic glyphs. With my strength surging, I jumped out of the earth, leaving behind a kinetic explosion.
+
+I manipulated gravity, causing me to fall upwards instead of downwards. Without resistance, I shot through the wind at a blistering pace. Ryhstrika glanced down at me, its pupils dilating. Like a giant cannonball, I crashed into the Skyburner.
+
+He and I shot sideways, the both of us tumbling through the air. To my surprise, his metal held, though my impact left a deep dent in his side. I condensed Event Horizon around him, the espen corpse already destroyed. The Skyburner howled out, snapping his claws at my back.
+
+They left tiny dents in the metal of my armor, each point hard as diamonds. Ryhstrika straightened out his wings, stopping our descent. I fell off of him, tumbling in the air. I stabilized myself with a gravity well. By the time I did, the gialgathen had barreled toward me with his mouth open.
+
+He snapped at me, and I struck at him. With technical prowess, he altered his momentum midflight to whip his tail at me. I deflected it before pulling him towards me with magic. I shot a hook at his armored belly, but he caught my fist with one of his feet.
+
+He snapped from above and below with his jaws and tail. I whipped myself towards his gut, kicking with all my momentum. The clash of metal on metal flung him back, causing him to miss. We battled like this for several minutes, each of us strained to match the other.
+
+As our strikes reached a fever pitch, he timed a bit at me. Caught between his upper and lower teeth, I pressed up and down to avoid death. Like a steamroller, he crunched me down, the gialgathen's strength overwhelming. I pushed up, my arms and legs cramping from the strain. Before he crushed me, I created an antigravity point at my center. I strengthened it, pushing everything away in all directions.
+
+With a shaky rise, the monster's maw opened. I charged my mana, saturating my frame. Before I gained enough energy for a singularity, the Skyburner's belly expanded. I shot sideways as he opened his jaws. A plume of chemical fire burst forth, white hot in its intensity.
+
+My eyebrows singed off from being near the plume, my hair igniting. The creature turned its mouth towards me, the fire blistering. I covered my face with armor, getting rid of my eye slit. Darkness covered me. Within seconds, my helmet lit up, turning white-hot from the heat.
+
+I ignored the flashy attack, raising a hand out to the monster. With my charged mana, I created a dense gravity well that slammed the beast's jaw shut. Flames erupted from its nostrils, tears pouring from its eyes. The corneas dried up before igniting, the monster's fiery breath blinding itself.
+
+Before the fiery breath ceased, I reached its jaw and walloped the creature. My fist struck with the force of a train, the monster's head whipping through the air. It turned full circle, letting me kick its face with another crisp blow. It tumbled back, so I shot myself forward. I pulled it in with magic, launching a series of heavy-handed hooks into its gut.
+
+Each blow left dents in the metal. As we closed in on the ground, the Skyburner no longer controlled his descent. I oriented myself above it, speeding our drops with magic. We built momentum and speed, each of us falling at an unnatural pace towards the mountainside.
+
+The beast crashed into the rocky earth, the mountain erupting at the collision. A crater formed as house-sized boulders shot outwards. Heat built from the destruction, rock melting into magma. The monster's armor ripped, bones breaking in its chest. A tidal wave of sound rolled through the entire landscape, bending trees.
+
+Then I landed.
+
+The armor in its chest caved in as blood sprayed from splits in its skin. The ground trembled, a wave rolling through the mountaintop like a tsunami on the ocean. Lava splashed outwards, the heat from friction melting stone. A plume of dust spewed from the mountain like a bomb went off.
+
+The shockwave uprooted nearby trees. They tumbled like matchsticks. Landslides fell out from all angles, the cliffside falling apart. I stood up, unharmed and undazed. The gialgathen was all but slaughtered under the jolt. I waved my arms, sending out an antigravitational wave. The dust blew back, clearing my view of the landscape.
+
+The mountain was devastated. I ogled at the catastrophic might of our battle, flabbergasted at what I'd done. I shook my head, the scene surreal. The trees around me disintegrated from Event Horizon, snapping me back to reality.
+
+I shut down the aura, glancing down. In my status, there was no kill notification. This fucker was still alive. I stepped up to his face, his head twitching. I wrapped my hand around his neck, my grasp awkward. I pulled him up, looking at him.
+
+My armor still glowed white hot from his earlier fire. My hand acted as a brand, singing his skin. He convulsed in my hand, death coming for him. A second later, it got him. I tossed him aside, sighing since I wasn't worming any information out of a corpse.
+
+I whipped out my obelisk, taking pictures of the creature. After getting a view of it from multiple angles, I tore out chunks of its armor. I collected samples of its teeth, blood, and scales. I compressed the metal over the evidence, preserving it for later.
+
+After gathering pieces of it, I leaned down and pressed my hand on the beast. My armor sapped up the corpse, draining it. Over several minutes, it disappeared. The only remnant of the Skyburner remaining was its bent, crumpled armor. It was sturdy stuff, so I decided to keep it.
+
+Over the next few minutes, I bent and folded the metal into a ball. As I did, I ripped out the gemstones, collecting the interconnected diamonds. I put the ball of metal and the diamonds into my dimensional storage. Within a few minutes, nothing remained of the enormous Skyburner.
+
+With the battle done, I dived into the earth before bursting out towards the octo-car. I kept myself falling towards it with a gravity well, flying over trees and other obstacles. I caught up to it over the next minute. The vehicle drove downhill on the other side of the mountain now. As I came up to it, Caprika opened the door. She leaned out of the car,
+
+"Stay back!"
+
+I floated in pace with the car, keeping some distance, "Why?"
+
+Kessiah walked up, raising her hands in frustration, "Your armor is still glowing, you idiot. You're going to set us on fire!"
+
+I glanced down, my chest and arms still glowing red. I leaned back from it, unsettled by my numbness to the burn. It was a warm sensation, not a burning one. I didn't even know if it was digging into my health or not. It reminded me what my damage cap and health did in conjunction.
+
+Learning that I hadn't cooled down yet, I shot myself up into the sky. I glanced down, finding a lake. I dived into the water, the pool belching steam as I landed in it. I dashed through the pool, enjoying the crisp cool. Within seconds, I pulled myself back up to our vehicle with magic, clean and dry from the wind and water.
+
+I stepped onto the first step of the car. The metal caved in, my foot bending it down. The car sunk down, the suspension strained to its limits. The wheels on the other side of the car lifted off the ground before my foot snapped the metal stair. With one side keeping traction, the moving mansion whipped in that direction.
+
+As the car turned back and forth, Caprika fell out of the vehicle. Before she got a face full of dirt, I raised a hand, generating yet another gravity well. I sighed and face-palmed. I forgot to disperse my mass outwards with Overwhelming Presence. Without doing so, I weighed at least 20 times what the vehicle did.
+
+With that in mind, I used the skill to disperse my weight out. I turned back towards our moving mansion. The vehicle lost all semblence of control, turned sideways, and was barrel rolling in the air. Before the vehicle tumbled down the slope, I shot myself to it with a burst of mana. I grabbed the side of the car with one hand.
+
+I extended my fingers with cords of my armor. With my grip firm, I lifted the vehicle up, steadying it. I looked around, finding the situation insane. Even with six gravity wells going on at once, I wasn't really strained. It was...kind of crazy.
+
+I shook off the sense of disbelief, getting back to fixing the mess. I set the car down, ramping up the speed back to normal. After that, I floated myself back into the vehicle with Caprika in tow. As I looked inside, I winced. It was as destroyed as the mountain.
+
+Broken drink bottles laid everywhere with ice laying on the floor. The roof was wet with alcohol. Along the ceiling, five indentations jutted out from where I grabbed it. Althea stayed in her seat, her claws gripping into the car. Kessiah crushed portions of the wall, lodging her fingers in so she wasn't slung around either.
+
+Two of the windows were cracked, but most of the interior held up. Kessiah's obelisk floated over her shoulder, recording us. I would ask why later. At that moment, I gasped with relief, "Thank god I didn't total the car."
+
+Kessiah snapped, keeping her grip of the car, "What in the fuck was that?"
+
+I set Caprika down onto a cushion, floating her over,
+
+"I didn't disperse my weight when I stepped on the car. It was a simple mistake, but I shouldn't be that careless."
+
+Kessiah hissed, "How much does your fatass weigh? Ten tons? Twenty?"
+
+I shrugged, "Eh, I might way just a little bit over twenty. Nothing too ridiculous."
+
+"The fuck it isn't."
+
+Althea laughed, "Wow...that was crazy."
+
+Caprika held a hand over her chest, "I...I nearly fainted."
+
+Kessiah glared at Caprika. Kessiah looked back at me, "Oh, I'd bitch a lot more about this, but I have a hunch that someone else is going to be a lot more pissed then I am. Trust me, he can bitch with the best of them."
+
+Torix slammed the door open from his room. He walked out, ink dripping from his face several papers stuck to it. He stared at the wall, ominous as the grim reaper.
+
+Everyone wanted to laugh. No one did. Torix's aura was like death. My helmet was down out of habit, letting him get a good look at my face. I suppressed myself to the best of my ability. The thing is, sometimes being forced not to laugh only makes you wanna laugh all the harder.
+
+The edge of my lips cracked up as Torix turned to me. He seethed,
+
+"Tell me, who is the one that sent my office into a death spiral?"
+
+No one answered. Torix took a few steps towards me,
+
+"Ohhhh, I have a hunch it was the walking tank."
+
+Kessiah snickered, but one look from Torix silenced her. He glared at me like an angry math teacher,
+
+"My students saw this."
+
+He pointed at his face, the ink keeping the parchment on his face. Althea giggled, He looked at her, a page falling off. She snapped upright like a scolded child. Torix glared back at me,
+
+"It will take days to rebuild my rapport with my students. Just as it will take you days to grade the papers I've been piling up."
+
+All the humor drained out of my face,
+
+"Wait...grading papers?"
+
+He nodded at me, "Oh that's right. Don't worry disciple. There's only 18,000 of them."
+
+My eyes widened at the astronomical figure. Torix clicked his status, "I just sent you the files."
+
+He emphasized the s at the end of files. He pulled a page from his face and stuck it to mine, "Here's one of the finished tests. Do enjoy it."
+
+The group exploded in laughter, even Caprika getting one over on me. For the first time in what felt like years, I blushed in shame. I nodded, "Sure thing master. I'll get it done."
+
+I pulled the page off of my face before looking at it. Complex magical computations covered it, an alien set of tables and texts lining it. It folded open, revealing various formulae and diagrams. Near the floor, I even saw the last page covered with open-ended questions. I closed my eyes. Something told me this shit was going to be a lot harder than slaying the Skyburner.
+
+It was going to be a long trip to Yildraza.

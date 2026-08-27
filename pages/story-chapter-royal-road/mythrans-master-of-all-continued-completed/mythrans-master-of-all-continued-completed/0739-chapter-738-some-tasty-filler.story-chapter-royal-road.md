@@ -1,0 +1,265 @@
+---
+id: ccc93f1a-2362-5fbd-9b0d-66be19019466
+page-type-slug: story-chapter-royal-road
+title: "Chapter 738 - Some Tasty Filler"
+slug: 0739-chapter-738-some-tasty-filler
+partOf: mythrans-master-of-all-continued-completed
+position: 739
+ownLength: 2966
+unit: words
+publishedAt: 2018-10-22
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/300110/chapter-738-some-tasty-filler"
+royalRoadId: "300110"
+---
+
+Ren went to the castle and bought the other lot of land and went back to it after stopping at another stonemason and buying enough paving stones for it. Ren used his hammerpick and quickly flattened the land out, cleared it with a shovel, and tossed the spare dirt through a portal to just outside the city wall, and laid out the paving stones.
+
+A large gathering of people had appeared to look at the Cathedral, since it could clearly be seen from anywhere inside the city or outside, and no one noticed him working. Ren finished converting the empty lot into a parking lot and put up the appropriate signs to show what it was for. He had even added more than the normal number of posts for securing horses and added his version of street lights all around it.
+
+“I can't believe this.” A woman said and she reached out to caress the Cathedral's outside wall. “It's wondrous!”
+
+“It just appeared out of nowhere.” One of the men said, and then pointed at Ren as he and Artemis came over to them. “I asked that guy what was going on, and then poof! There it was.”
+
+“Adventurers can do some amazing things.” Another woman said and looked at Ren in appraisal. “Even if some of them are pretty short.”
+
+“It's not the size, it's what you do with it, ma'am.” Ren grinned at her, and her face flushed red.
+
+“Ren.” Artemis said, and he chuckled.
+
+“Sorry, I couldn't help responding.” Ren said and looked at the crowd. “You know, you don't have to stand outside.”
+
+“Oh, we couldn't possibly go inside. Not until the priest gets here, anyway.”
+
+“It's not locked.” Ren said and opened the door, much to their surprise. “The door is always open, whether the caretaker is here or not.”
+
+“Are... you sure?” The woman that made the Adventurer comment asked.
+
+“Ma'am, I can tell you for certain that Vasalor himself asked for this place to be made for you.” Ren said, and her face became even redder. “I mean the general you, as in the people, not you specifically.”
+
+The woman smiled. “I know. It's just...”
+
+“...you would be flattered to have a building built just for you.” Ren finished her statement, and she nodded. “Then allow me to do that for you.”
+
+“Wh-what?”
+
+“I didn't mean to embarrass you, so I'll make you something.”
+
+“But... I live in...”
+
+“An apartment?” Ren asked, and she nodded. “By yourself?”
+
+“Unfortunately.” She said with a sad smile.
+
+Ren touched her arm when he felt her grief. “I'm sorry.”
+
+“Well, it's not his fault he died and I had to move.”
+
+“Did someone buy your old place?” Ren asked.
+
+“Not yet.” She said. “I just... I didn't want to keep it, not after...”
+
+“Ma'am, I've got a bit of free time right now.” Ren said. “Can you take me to your old place?”
+
+“S-sure.” She said and was surprised when Ren held out his elbow for her to take. “Thank you.”
+
+Ren escorted her several streets away, with Artemis beside them, and the woman's pace slowed down as they approached her old home. “Ma'am, believe me. It's going to be all right.”
+
+“But...”
+
+“I'd ask you to trust me, but we only just met.” Ren said and pat her hand that was around his elbow. “Did you take everything from inside that you wanted to keep?”
+
+“I... I did.” She said. “Old mementos and expensive things I couldn't do without, and my clothing.”
+
+“You left all of his things?” Ren asked, and she nodded. “May I enter the house?”
+
+“What are you going to do?”
+
+“Save his things.” Ren said. “I'll pack them up in a crate and give it to you to save, or throw away, or reminisce over when you need to.”
+
+“That... would you really...”
+
+“I'd be honored to, ma'am.” Ren said and she felt reassurance fill her.
+
+“Then you may enter.”
+
+“I'll be right back.” Ren said and she let his elbow go, then he disappeared from her sight. She didn't even have time to gasp at his disappearance when he was back out and put a large crate in front of her. “It's a little heavy, so I'd like to give you something to carry it.” He said and gave her a Strong Bracelet of Storage, so she wouldn't be confused if he gave her a ring. “You can store it inside and not have to worry about it, because it will always be with you.”
+
+“I... I... thank you.” The woman said and took the bracelet and equipped it, and then she looked at the crate.
+
+“Just touch it and choose 'store in bracelet'.” Ren said. She did that and gasped as it disappeared. “You can take it out whenever you want.” He said and explained how to do that, and she did it. Her eyes started to tear up and he put a hand on her arm. “What I'm going to do next may shock you.”
+
+The woman wiped her eyes and smiled at him. “I doubt you can shock me much more.”
+
+Ren smiled warmly at her, then walked over to her house. He put a hand on it and chose to sell it on her behalf. The house disappeared and the key faded from her neck, then a bag of gold appeared at Ren's feet. He felt her shock as he picked up the bag and walked over to her.
+
+“Ma'am, here's the value of the house, less 10% because it always does that for business owners.” Ren said and handed her the bag.
+
+“O-only 10%?” The woman asked, dumbfounded. “When I tried to ask the minister about it...”
+
+“It's different if you try to go through official channels.” Ren chuckled. “They need their cut, and to pay themselves for the work, then taxes on the sale...”
+
+The woman barked a laugh. “So, you do know how it's supposed to work.”
+
+Ren grinned. “I've dealt with a finance minister a couple of times.”
+
+The woman looked at the empty lot behind her. “I... I'm glad it's gone, but now what do I do?”
+
+“Give up your apartment and move back here.” Ren said.
+
+“Wh-what? How?”
+
+“I told you I would build you a building.” Ren said. “What kind of house would you like?”
+
+“I... I don't...”
+
+“Do you have a business you always wanted to start or try? I could make it multiple floors and put the business on the ground floor and make a living space above it.”
+
+The woman just stared at him with her mouth open.
+
+“Anything? No? Just a house then?”
+
+“I...”
+
+“Ren, give her a minute.” Artemis said.
+
+“I'll show you some houses and you can choose, then I'll change it if you want a business in it.” Ren said and took out the All-Seeing Mirror and made it twice as big, then started to show her the different house designs he had. “Now, if there are parts you like on one and want those on a different house, just say so. I can custom design it for you.”
+
+“Are you for real?” The woman asked as several beautiful houses scrolled by slowly on the mirror.
+
+“It's only a one-time deal.” Ren said. “I've got a couple of appointments to get to.”
+
+The woman shook her head slightly, then picked one of the houses. “I like that one.”
+
+“A two storey with a pitched roof. Good choice.” Ren said. “Did you have a business in mind? I can always make the space for you and you can worry about what to do with it later.”
+
+“I... yes, I'd like that.”
+
+Ren modified the design to add a shop on the bottom and made the house a three storey one, added in all the appropriate furniture, comfy of course, then saved the recipe. He activated his Craft Wondrous Item recipe and made the scale model for it and added the materials and money. She saw this and quickly held out the bag of gold.
+
+“No, I'm building it to flatter you, remember? Why would you pay for it?” Ren asked, and she couldn't answer. He finished and the cube appeared, then he walked over to the spot. He put the cube down, walked back to her, then enlarged it once and activated it. The three storey house appeared instantly and she caught her breath at the sight.
+
+“Oh, my god.”
+
+“I'll pop back over to the castle and make sure that if you do open a business, everything will be handled and covered, so you don't have to worry about that.” Ren said and assigned her as the occupant and owner, and the key appeared around her neck.
+
+“But...”
+
+“Just have fun and enjoy your life.” Ren said and took her hand and bent over it. “Have a good day, ma'am.” He said and gave it a light kiss and started to walk away with Artemis.
+
+“Hey, wait!” The woman said and held out the bag of gold. “T-take this!”
+
+“I don't need your money, ma'am.” Ren said. “Oh, damn. I keep forgetting.” He walked over to her and held out several coin pouches. “Pick a color, any color.”
+
+The woman took a nice blue one, and he dumped the bag of gold into it and gave her the pouch.
+
+“Just equip it.” Ren said and walked back over to Artemis. “Bye!”
+
+*
+
+The woman stood there in front of her new house and stared at the coin pouch in her hands. That didn't just happen. She thought. It's just a dream. She equipped the coin pouch and walked over to her house and went inside to see the completely furnished building. “It's not a dream!” She exclaimed and started laughing.
+
+*
+
+Ren and Artemis flew back to the castle and arranged things for the woman, despite not knowing her name. He knew the lot her house was on and that was enough for him to fix things and add the potential for a business if it came about. Once back outside, Ren checked the All-Seeing Mirror and saw that Orimihr was awake and moving around, so he cast a portal to appear near the ship and he and Artemis stepped through.
+
+“Ahoy, there!” Ren said and one of the deckhands waved to him.
+
+“I'll wait here.” Artemis said and floated in a slow circle to keep an eye out in all directions. Ren nodded and entered the ship and walked down the hallway. He greeted the crew with grunts as not to disturb them, then knocked on Orimihr's cabin door.
+
+“Yeah, just a second.” A man's voice said and Ren heard a lot of moving around and ruffled clothing. After a couple of minutes, the cabin door opened and Ren saw Orimihr and felt his surprise.
+
+“I'm sorry to disturb you, but it's urgent that we head to the Giant Lands to find the legendary blacksmith right away.” Ren said, and the two women in the cabin that had hastily gotten dressed added their own surprise to Orimihr's.
+
+“I assume something's happened?” Orimihr said in a serious tone.
+
+“I can't discuss the details right now.” Ren said and leaned slightly to the side and smiled at the two flustered women. “I can delay long enough for you to escort these two fine young women back to their homes while I get my mount and the carriage ready.”
+
+“Oh! Yes, that... that would be nice.” Orimihr said.
+
+“I have the half-carriage ready for you to take. It's by the stable.”
+
+Orimihr took a deep breath and then smiled. “Thank you, Ren. I'll see you in about half an hour.”
+
+“Sounds good.” Ren said and leaned to the side slightly again. “Ladies, it was nice to see you again.”
+
+“L-likewise.” One of them said and the other only nodded.
+
+Ren nodded back and walked down the hallway. When he heard the door shut, he ran and came out of the ship. Artemis flew to stay with him, and he took out the half-carriage and set it up at the stable for Orimihr and the two women to use, tipped the driver, then he took out the All-Seeing Mirror to check if there was anyone near Princess' house. He cast the portal and he and Artemis stepped through it.
+
+“Yes, My King.” Princess said as she came out of the house. “I would be honored to carry you on a quest.”
+
+Ren chuckled. “We can't go all out, since Orimihr isn't used to your awesome speed.”
+
+“I know.” Princess said. “A leisurely stroll is nice to take sometimes.”
+
+Artemis snorted a laugh and Teepo chittered in laughter.
+
+“We've also got about half an hour before we need to be back at the ship to pick him up.” Ren said, and he felt how happy she was.
+
+“You mean...”
+
+“Let's take a quick tour of the Human Kingdom to see how the population is recovering from the Ghoulpocalypse.” Ren said.
+
+“What about after that?” Teepo asked. “That's not going to take too long.”
+
+“I guess we should check the coastlines and see how much of a mess the Sea Dwellers are making.” Ren said.
+
+“Then climb aboard your mount, My King.” Princess said. “Let us be on our way!”
+
+Ren climbed on and Artemis floated beside them.
+
+“Any particular direction we should go first?” Artemis asked.
+
+“Princess' choice.” Ren said.
+
+Princess took a step up into the air and she was as happy as she had ever been, because Ren had given her free reign to go where she wanted and as fast as she wanted. With those feelings flowing out of her, she took off as fast as she could and Teepo chittered in delight at the outrageous speed.
+
+*
+
+Orimihr had been only slightly surprised at Ren's gallantry for providing him a means to get the two women home, and in one of the best carriages he had ever seen. The two women had been impressed at the carriage's construction and the very smooth ride, and they held onto Orimihr's arms as they travelled at a sedate pace from the dock to the North Gate of the city of Aurora.
+
+When the driver came to a stop where the women had asked, Orimihr hopped out and helped both women out. They each gave him a lingering kiss when he did, then waved to him as they clutched the diamond pendants he had given them to their chests. The carriage pulled away and Orimihr made it back to the ship with 5 minutes to spare. He quickly ran up into the air and into the ship to gather his things, then made it back to the deck of the ship just as Ren appeared in the air above it.
+
+“Ready to go?” Ren asked as Princess landed on the deck.
+
+Orimihr nodded and Ren took out the covered cart to attach it to Princess.
+
+“It's padded, but it's still going to be a bit of a rough ride.”
+
+“Ren, I think I could take on the whole world right now with the way I feel!” Orimihr said, and Ren felt how happy he was.
+
+“I won't test that... this time.” Ren joked.
+
+Orimihr laughed as he climbed into the cart.
+
+“Okay, we've got the passenger loaded.” Ren said and climbed back onto Princess' saddle.
+
+“One leisurely stroll coming up, My King.” Princess said and trotted up into the air, then she poured on the speed to nearly half of her current ability.
+
+“I thought you said you wouldn't test it!” Orimihr said from the cart and laughed, then Ren's and Artemis' laughter join his while Teepo chittered in delight.
+
+It took quite a bit longer to cross the sea this time, since Princess really was taking her time, and then they had part of the next continent to cross. That took nearly as long, since the spot Delthid was hiding, just happened to be deep inside the Giant Kingdom's lands. Ren had to check the All-Seeing Mirror several times to make sure that they were going in the right direction, because it seemed that Delthid's location kept changing.
+
+“Princess, let's stop here.” Ren said when they approached a nice cliff that overlooked a Giant village. Princess landed on top of it and Orimihr climbed out of the cart.
+
+“What is it? Are we there yet?” Orimihr asked, almost desperately.
+
+“We should have been.” Ren said and showed him the All-Seeing Mirror, and Delthid's location dot moved another hundred feet in a second.
+
+“What the hell does that mean?” Orimihr asked and Ren felt his anger.
+
+“Either he's moving constantly, or he has something set up to make us think he's constantly moving.” Ren said. “Show me Delthid, please.”
+
+The mirror shifted and the scene that met them was one of the most disgusting things either of them had ever seen. Artemis turned her head so she didn't have to look at it.
+
+“Wow.” Teepo said. “That's a horrible way to die.”
+
+The All-Seeing Mirror showed a half-digested and partially chewed body floating inside a Giant's stomach, with about half a dozen other bodies piled around him. Ren assumed half a dozen, but it could have been more.
+
+“I think we found out what happened to some of the missing dwarves sent out on scouting missions.” Teepo said.
+
+“Unfortunately, I think you're right.” Ren said. “I had hoped I'd gotten rid of all the Brain Arthropod Grubs long ago.” He sighed. “Please show me the giant that owns this stomach.”
+
+They were all surprised when the mirror changed and showed them a well-dressed and groomed Giant that sat at a kitchen table, and he was eating a sandwich. No one wanted to guess what was actually inside that sandwich.
+
+“Well, crap.” Ren said.

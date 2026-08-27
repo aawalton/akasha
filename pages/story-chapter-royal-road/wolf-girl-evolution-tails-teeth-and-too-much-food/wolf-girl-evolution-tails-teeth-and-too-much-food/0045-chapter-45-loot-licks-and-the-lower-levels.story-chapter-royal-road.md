@@ -1,0 +1,235 @@
+---
+id: e612a890-1617-5f46-a8a9-5f61fbefef43
+page-type-slug: story-chapter-royal-road
+title: "Chapter 45: Loot, Licks, and the Lower Levels"
+slug: 0045-chapter-45-loot-licks-and-the-lower-levels
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 45
+ownLength: 1320
+unit: words
+publishedAt: 2025-10-06
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2656378/chapter-45-loot-licks-and-the-lower-levels"
+royalRoadId: "2656378"
+---
+
+PoV Luna
+
+The meat was incredible.
+
+Smoky. Savory. Salty. Rich.
+
+Condensing the prey flavor in just the right ways!
+
+Luna chewed with both hands, her bowl long forgotten, crumbs spraying wide.
+
+Her mouth stayed open, tongue darting between sharp bites. Her tail wagged so hard her shoulders bounced with every chew. Even her ears twitched with each burst of flavor, dancing to the rhythm of spice.
+
+Amazing!
+
+Trianna muttered out loud.
+
+“Wildlings eat even worse than bandits.”
+
+Luna ignored her. Not that she knew whatever the heck were bandits.
+
+But they didn’t sound like food!
+
+And there were flavors to chase. Smoked meat to conquer. No time for silly human complaints.
+
+She only paused once, mid-bite, nose twitching toward Syl.
+
+Yes. Syl promised her the food. And now it was delivered by her new-pack.
+
+That meant Syl had earned a mlem!
+
+Luna leaned forward, tongue out.
+
+One quick lick!
+
+Syl blinked mid-stretch, startled. Then giggled, soft and sudden.
+
+Before Luna could explain the honor being bestowed, Trianna’s voice cut through, dry as bark.
+
+“Luna… people don’t lick other people.”
+
+What?!
+
+Then how did they know they did a good job?
+
+Or care for their – admittedly scant, Luna admitted – head fur?
+
+It couldn’t all be baths?!
+
+That would be horrible!
+
+Luna froze, tongue still halfway out. Her eyes went wide as the realizations sunk in. She blinked, baffled. And voiced her complaint aloud!
+
+“But mlems are good?”
+
+Syl tried to hold a straight face at that. Tried. But to no avail. Her lips pressed together, shoulders stiff – then shook with laughter until she gave up completely.
+
+Luna puffed her cheeks, pouting hard. Soft-skins had such dumb rules! Rules that clearly needed fixing.
+
+Mlems were good, Luna just knew it! And so was spice…
+
+Right, her old pack also had weird rules. Against glorious spice of all things!
+
+Luna would just have to teach her new-pack dum dums some mlem manners!
+
+Though later.
+
+When she felt a little less offended!
+
+Still, pouting never lasted long. Her ears perked again, eyes gleaming bright. That it coincided with her share of the smokey goodness was just that.
+
+A coincidence!
+
+“Second~? Can Luna have seconds?”
+
+Syl, no longer giggling rudely, sighed at the request. All long and dramatic… but her smile stayed all the same! So Luna knew she was only pretend-rude!
+
+She passed down another small bite.
+
+Victory!
+
+Luna could forgive a little rude if it meant more spice for her!
+
+She snapped it up fast, chewing smug and satisfied. Her shoulders twitched in happy wag, showing the greatness of spice to all who cared to see!
+
+And as Luna enjoyed some more treats from Syl, she noted the others were already done with their own shares.
+
+And soon after, the rest of the pack stirred. Gear shifted and clinked. Straps tightened. Arrows were counted and set aside.
+
+Sepio tested the grip of his shield with his good arm, jaw set, expression determined. Veric muttered about blades that needed sharpening, though his grin said he would swing them dull if he had to.
+
+It took quite a while for everybody to get ready.
+
+And during that time Luna got quite a bit more smoked meat from Syl!
+
+…In exchange for listening.
+
+Luna supposed it was fair trade. Maybe even great. But her Second liked to talk a little too much still!
+
+“...And as I was explaining before, once corruption takes hold, it grows until it burns itself out. With nothing to convert fast enough, it tends to just cave in on itself. But once it finds a power source, or enough mana to feed on… Not before it does a great deal of damage.”
+
+Luna chewed in thought. Yes, the many words of Syl made many words of sense.
+
+…She just would much rather hear more about spice instead.
+
+“...And that’s why we’re here. To prevent the worst case scenario. It’s practically confirmed now the dungeon in the ruins got corrupted. And with the leylines the Velssarin builders undoubtedly crafted their cities around, there was a lot of energy for corruption to bite into. If not cleansed, things could become really bad.”
+
+Luna nodded at that.
+
+If not cleansed, things go bad!
+
+Which meant her new pack had an important goal on their own!
+
+…Maybe they weren’t such dum dums, after all.
+
+Luna watched as Trianna packed some more arrows in, remembering what she said.
+
+How could mlems not be good?!
+
+Yep, they were still dum dums after all!
+
+Luna huffed as the others finished preparing. Her transformation ran out as soon as morning proper came too.
+
+Syl gave her a bit more of the potion as well.
+
+For good measure, she said!
+
+And then they were back on the move, retracing their steps back quite quickly.
+
+With the enemies done away with already, the walk back was brief.
+
+Luna could see and smell them in the distance already.
+
+The ruins loomed beyond, stone teeth jutting tall against the forest light. Dark arches swallowed shadow. The air pressed heavier the closer they stood.
+
+They weren’t done yet.
+
+Luna licked her chops one last time, savoring the fading smoke on her tongue. Then she padded a circle around them, steps light, ears tall, chest proud.
+
+Her new-pack had filled their bellies.
+
+Now it was time to empty the ruins!
+
+The cleansing resumed.
+
+Slow. Methodical. Careful steps through stone and shadow.
+
+Luna would rather hunt!
+
+But Syl’s words made her understand better. It just had to be done.
+
+And she was a patient hunter, she could endure the boring!
+
+Maybe.
+
+This time they worked the remaining corrupt part of the ruins – whatever they didn’t get through already.
+
+Not clean-clean. They left that for later. But as they got deeper in, Luna’s nose nearly choked with the smell of rot here. Even the walls were weeping black sap. The ground twitched weirdly under her paws.
+
+But at least they weren’t being assaulted quite as frequently now..
+
+Still, corrupted pests skittered and hissed. Twisted plants lashed from cracks, roots snapping like angry snakes.
+
+But no ogres. No treants. Nothing huge remained.
+
+Just steady work.
+
+And Luna did her part!
+
+Strike! Bite. Jump back.
+
+Make room for sword! And spell.
+
+Then chew!
+
+Stop. Arrow and noise!
+
+Move on.
+
+Bite and repeat!
+
+Luna joined wherever her paws carried her. Sometimes darting to bite. Sometimes bounding ahead to sniff. Sometimes circling wide, barking warning barks that no one else seemed to appreciate enough.
+
+Not always first in. That was fine. This wasn’t a grand hunt. This was chores.
+
+Still – chores could be fun.
+
+She bit, she struck, she pounced shadows. Snapped twigs just to hear them crack. Sometimes there wasn’t even prey there. So she tore at the icky pulsing ground instead.
+
+And got rewarded for it, eventually!
+
+【Strike Lv.9 → Lv.10】
+
+Luna puffed her chest, fur flaring proud. See? Not all level ups needed giant ugly monsters. Small strikes mattered too!
+
+Her ears perked as Trianna’s bowstring sang. Thunk. A vine-beast dropped limp, hissing fading into silence.
+
+Luna wagged. Good shot!
+
+Veric roared through a corrupt root cluster, his greatsword glowing faint red as it chopped and sparked.
+
+Chop. Chop. Angry grunt. Done!
+
+Sepio planted his shield firm, bracing two attacks at once. His strapped arm slowed him, but he held steady, armor clanging loud. He didn’t fall, trouncing the assault aside with ease.
+
+And Ray? Ray disappeared half the time. Then popped back wiping foul ichor off his dagger, pleased with himself.
+
+And Syl–
+
+Syl was constant. Calm voice threading spells. Though no bright shimmering shields this time. Light burst sharp from her hands, scorching corruption into ash. Measured to be just enough.
+
+Second-in-command perfection!
+
+Luna barked happily whenever the group cleared a patch of the ruins.
+
+Then bounded a few steps ahead to sniff the next one.
+
+This was work. Work with rhythm. Work with her new-pack.
+
+And for once…
+
+She wasn’t bored.

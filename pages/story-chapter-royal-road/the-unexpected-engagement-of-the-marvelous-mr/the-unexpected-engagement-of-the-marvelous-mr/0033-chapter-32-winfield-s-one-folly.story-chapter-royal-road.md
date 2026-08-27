@@ -1,0 +1,189 @@
+---
+id: 4d6f92fe-3934-5555-9933-478854eab60e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32 - Winfield's One Folly"
+slug: 0033-chapter-32-winfield-s-one-folly
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 33
+ownLength: 1377
+unit: words
+publishedAt: 2022-06-23
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/933959/chapter-32-winfields-one-folly"
+royalRoadId: "933959"
+---
+
+Milo Colt was busy looking over the day’s earnings when he heard the small bell above his shop door jangle. He didn’t look up.
+
+“The sign says we’re closed.”
+
+“Even for me, old man?”
+
+Colt raised his head, adjusted his thick glasses, and laughed. “Oh, now you’ll come to see me, Penn?”
+
+“You’d rather I come back in the daytime?”
+
+“Dressed like that? God, no! Why, I can see your face and everything.”
+
+“It’s positively indecent, isn’t it?”
+
+“Draw that blind before someone sees you.”
+
+“I’ll lock the door too. You really should be more careful. I hear there are thieves about.”
+
+The old shopkeeper cackled. “Come in, boy. I haven’t seen you in ages. Not since you got too la-di-da and prim for my cold blood.”
+
+“I set my sights higher, not my standards.”
+
+“If I suddenly started selling diamonds and rubies, I think someone might think it was odd. Can I tempt you with a drink?”
+
+“All your drinks could be used to peel the paint off the walls.”
+
+“So only one?”
+
+“Oh, all right, old man.”
+
+Colt disappeared into the back. Penn was left alone to look around the shop.
+
+There was something eternal about the place. Penn hadn’t been inside for years, but even though the shop must have had a decent turnover, it looked eerily familiar.
+
+Colt sold secondhand knick-knacks and useful items. They weren’t antiques, and they weren’t really valuable; it’s where you went for gifts or odds and ends if you didn’t want to buy them new. There were thimbles, umbrellas, small furniture, picture frames, hats, and more. In one of the scratched up old bureaus (Colt always had several) there was a drawer full of random cutlery. Five clocks were displayed along the wall. It was always five clocks. Their shapes and ability to keep time varied, but the number did not.
+
+Colt joked that he’d sell his wife if anyone would buy her, but Penn suspected that if the shopkeeper ever got down to his last set of clocks, he might refuse to part with any of them for fear of the universe becoming unbalanced.
+
+On a shelf near the front of the store, next to some old books, he found the egg. It was bigger than he thought it would be—roughly the size of a large orange. It was rich with a variety of green hues, and the pattern was oddly alluring.
+
+“His one folly,” Penn muttered to himself. He sighed. “One of two, I think.”
+
+“What was that?”
+
+Penn spun around. Colt had returned with the poison in one hand and two shot glasses in the other.
+
+“I was considering the folly of man,” Penn said as he wandered back toward the counter.
+
+Colt put down the glasses. “You’ve fallen in love, have you?”
+
+Penn smiled. “Well, I have met a wonderful girl.”
+
+“If she’s a wonderful girl, she won’t have you.”
+
+“But we’re engaged!”
+
+“Oh, are you?” The shopkeeper didn’t sound convinced. “Where’d you steal the ring from?”
+
+“That’s not fair, old man. I bought that ring.”
+
+Colt’s face scrunched up with confusion. His narrowed eyes were warped by his lenses. “Why?”
+
+“I don’t know. It seemed more proper.”
+
+The shopkeeper went back to pouring. When he was done, he put the bottle aside and lifted his glass.
+
+“To love then!”
+
+“To love!” Penn echoed.
+
+They drained their drinks. The thief thought he’d adequately braced himself, but time had dulled his memory. He coughed and wiped at his watering eyes.
+
+When Colt was done cackling, he said, “You’ll invite me to the wedding, of course.”
+
+“I don’t know if it’ll go that far. I mean, let’s not be silly now.”
+
+“Uh-huh. That’s about what I thought. But if you’re not here to ask me to be your best man, you must have something else in mind.”
+
+“I do.”
+
+“Does it have anything to do with that little boy I had to chase out of here earlier?”
+
+Penn raised an eyebrow. “Colt, you sly old dog. All those times you played dumb.”
+
+The man shrugged. “Dumb works for me. What are you looking for?”
+
+“That malachite egg.” Penn gestured to the item.
+
+“Ah! You always were a man of taste. It’s a beautiful thing, isn’t it? They say it was the paschal egg of a Russian princess back when she was only a little girl—”
+
+“You say, and you can save your story. I know a little bit more about that egg than you do.”
+
+“A man of taste, but never patience. All right. What of it?”
+
+“I’m considering buying it from you.”
+
+“What? All legal-like?”
+
+Penn put a hand to his heart. “Colt, I’m hurt. I’ve never stolen from you, and I never would.”
+
+“Never would—ha! The only reason you don’t steal from everyone is because there has to be someone with enough money to buy the loot.”
+
+“Nevermind that. I have to ask you a question about the egg, and I’ll need an honest answer.”
+
+Colt removed his glasses and cleaned them with the rag he kept handy for dusting. “You rounded up the urchin gang, so we’re talking about something important. And I don’t think I’ve ever heard you be serious more than twice before today. All right, boy, what’s your question?”
+
+“When did you get it?”
+
+“Yesterday. Thursday morning.”
+
+Penn nodded once, then pulled out his wallet. He set a bill on the counter. “For the egg. You’ll note that it’s the full asking price you put on that little tag of yours—”
+
+“I see that. Are you feeling well?”
+
+Penn laid down another bill. “That’s for being kind enough to hold it for me until it’s called for by a man named Lucas Haley.”
+
+“Oh, no-no-no-no-no.” Colt shoved both bills back toward Penn.
+
+The thief laid down another bill while saying in a rueful voice, “And that’s because you recognized his name. I don’t suppose you know where one can apply to get a new nemesis? Mine’s become too famous.”
+
+“Penn, I can’t be having anything to do with the police! You should know that.”
+
+Ryce leaned on the counter. “Come on, Colt. I’m trying to keep a friend. Inspector Haley will be in here later, and he needs to find that rock, but I don’t want you to lose out from it.”
+
+“That’s kind of you. How much kindness will it take for him not to show up?”
+
+“I’m sorry, but most of the kindness I have is being wasted somewhere else.”
+
+Colt eyed the three bills. “Is he going to poke and pry?”
+
+“Did you buy it from a thief?”
+
+“You think he’ll believe me when I say no?”
+
+“Who did you buy it from?”
+
+Colt pushed away from the counter. “Penn, you know that’s not how I do things. What kind of business do you think I’m running here?”
+
+Penn let out another sigh and took out his last bill.
+
+“And what’s that for?” Colt asked.
+
+“That’s for the person who sold you the egg. Please give it to them and tell them that I would like to see them.”
+
+“And why would I do that?”
+
+“Because if I can talk to them, you might not have to talk to Haley.”
+
+Colt grumbled as he scooped up the four bills. “You be back here tomorrow by ten in the morning.”
+
+“Ten!”
+
+“Ten, you lazy oaf. And wear a different face. I don’t much like this one.”
+
+Ryce smiled. “You’re a gentleman, Mr. Colt. You’ll keep the egg safe?”
+
+“I’ll pull it down as soon as you’re gone.”
+
+“Thank you.”
+
+Colt called out to Penn before he reached the door.
+
+“What is the story behind that egg?”
+
+“Can you keep a secret?”
+
+The shopkeeper nodded.
+
+“It wasn’t a Russian princess,” Penn said. “It belonged to an African queen!”
+
+Penn had stopped to pose for his dramatic announcement, so it wasn’t difficult for Colt to throw the rag at him. It didn’t even make it halfway across the floor, but the thief was smart enough to know to leave the stage when the audience started throwing things. The bell sounded and the door shut.
+
+Colt chuckled as he retrieved the rag and walked over to the egg. He picked it up.
+
+“An African queen, eh? That is a better story.”

@@ -1,0 +1,161 @@
+---
+id: 79aee483-3f66-5176-a135-ee7068152c57
+page-type-slug: story-chapter-royal-road
+title: "Paths"
+slug: 0009-paths
+partOf: new-gam3-plus
+position: 9
+ownLength: 2245
+unit: words
+publishedAt: 2023-10-24
+link: "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/1383997/paths"
+royalRoadId: "1383997"
+---
+
+Alan put the phone down out of frustration. Browsing headlines and social media was almost useless. Information was anecdotal and sparse, coming from questionable sources. Multiple countries had shut down their internet and communications were being actively disrupted in-game. There was little to no discourse indicating that this was anything but a practice war.
+
+The bus was stuck on a small bridge over the Potomac River—traffic in and out of the city moving at a snail’s pace.
+
+Alan couldn’t waste all this time. Taking over a control point in a week would require help from the United World Government Army, but Alan had no idea how their forces were arrayed or what their priorities were. The UWG might not even know, considering core units had defected and leaders had been assassinated.
+
+A brief online search revealed nothing about the control point locations other than tourist tips. It made sense. The White House, the Capital Building, and the Pentagon were all important landmarks, and their defenses in-game had undoubtedly been updated. The locations might not even match up with their real life counterparts anymore.
+
+They could scout out the locations physically to complete Angel’s mission, but that seemed like the wrong move. Everyone was on high alert. On the battle map, each landmark was contained in a circle of red. Contact was lost by any person or drone that crossed this invisible line, presumably killed in action, while overhead satellites were unresponsive.
+
+Higher level, better geared squads had attempted recon only to disappear according to Angel’s logs. Without equipment, stats, and abilities they would be eliminated immediately when discovered: their appearance was already known to the Ashes of Humanity. Unless they could somehow leverage the fact that Ivy and Isaiah were related to the general?
+
+No, this was war, and Alan doubted Icewolf would show restraint. He’d been a cold-hearted guild officer who prized efficiency above all else when Alan had raided with him a lifetime ago.
+
+Everything led back to power and information. Alan was a leaf caught in a storm. Any move could cut deep, and he was being blown every which way.
+
+Perhaps that was the wrong angle. Instead of focusing on the problem Alan needed to strengthen the squad first. He should figure out the fastest way to power level given the circumstances. Normally that meant finding the most efficient zone—a place that would have respawning mobs they were capable of killing—but what did that mean in the Game?
+
+“Whoa,” Isaiah exclaimed.
+
+Alan looked over the chair in front of him. Isaiah had pulled up the reinforcement menu on the battle map. 1,000 points for additional squad support. 5,000 for a drone supply drop. 25,000+ for air support for Priority 2 or Priority 1 missions. And finally, way down at the bottom of an extensive list, for 20,000,000 points, pending approval by the lead general in the area and the United World Government Congress, you could order a tactical nuclear strike.
+
+Each reinforcement option had a demo button, which Isaiah was testing extensively. Alan watched as a simulation of a nuke dropping on the nation’s capital played out. The nuclear fireball consumed city blocks, while blast damage, radiation, and thermal forces were projected.
+
+Right, there was another factor. All the players would not act rationally—destroying Earth’s infrastructure would hurt everyone, but some would still do it with glee. The battle was for control, not annihilation. But would the losers and psychopaths care?
+
+Actually, with the wars that had been fought, and the extinction events that had occurred, why weren’t most cities desolate wastelands?
+
+For a substantial sum of credits the Administrators will restore areas to match their ‘real world’ counterparts, Nu sent. Thus it is encouraged to promote the growth of Earth in reality as well.
+
+Alan thought as he watched the traffic outside. How much experience would he get if he opened fire on the highway? Not enough. Killing high level, skilled opponents rewarded more than killing low level players, and he doubted the people fleeing the city in beat-up minivans had much gear. Plus he still had to spend his ability points…
+
+There was an idea. Alan looked at the map of DC in-game, locating the nearest Administrative Centers. One had been built along Embassy Row, another close to the Pentagon. A plan began to form in his mind.
+
+“Alright, time to get off this bus, give me the battle map back,” Alan said. He threw the phone to Isaiah, not mentioning that Nu had hacked the device. Nothing of importance was found on it other than some questionable art and a few guides to making homemade bombs.
+
+“What—where are we going? It’s almost one in the morning,” Ivy said.
+
+“With estimated traffic, we won’t reach the player forces’ encampment for another three hours, time we can’t afford to waste,” Alan said. “Instead we’ll be walking to the nearest Administrative Center. It’s about seven kilometers away and will take an hour and a half to reach it.”
+
+“But—“
+
+“We can discuss why en route. C’mon, let’s get moving. Leave your luggage on the bus unless there’s something you need for combat,” Alan said.
+
+Bob nudged Charlie awake, and the party exited the vehicle to the confusion of the driver. Crossing the bridge, they climbed over a road divider to reach the sidewalk, and then down a set of stairs to a canal towpath.
+
+Bob took point, with Alan right behind him, while Charlie brought up the rear. The battle map let out a small ding. A message from Angel was brought up:
+
+Angel: New movement detected. Destination?
+
+Alan: Embassy Row Administrative Center.
+
+Angel: A curfew is in effect between the hours of 8 PM and 7 AM in the Washington metropolitan area… Permission to break curfew granted. Keep the battle map on at all times. Recommended route to avoid hostiles provided.
+
+The battle map lit up, marking a path and displaying the upcoming environment. It didn’t detect any people nearby other than the cars on the road they’d left behind. Trees and bushes abounded. The road was dirt and rock beside a canal a few meters across. He walked forward with the battle map sitting on his left palm, his rifle slung across his back.
+
+“So, why did we leave the bus?” Ivy asked.
+
+“We need to level fast and gather information. The best place to do that will be where high level players congregate, but we won’t get killed—an Administrative Center,” Alan said. “Plus, unlike a normal tutorial, we can cooperate with higher level players. A carry would be ideal.”
+
+Ivy replied, “The mission the army AI set us was to investigate the control points. If we moved with a larger unit—“
+
+“We’d be blown up or taken out by a sniper far above our level,” Alan said. “Scouting out the control points now is a suicide mission. Keep an ear out, if there’s gunfire nearby we’ll move towards it.”
+
+The group walked forward. The canal quietly burbled as they walked beside it.
+
+“I’ll maneuver us to where we’ll have the greatest opportunity to take advantage of the situation,” Alan said. He glanced at the battle map. “I can’t say more, but trust me.”
+
+This hurts to listen to, Nu sent. Trust me, bro. Lead, don’t command.
+
+“We’re opportunists then,” Ivy said. “Don’t you care about public perception? What if—“
+
+The battle map flashed red, and everyone froze. A moment later the silhouette of a deer appeared on it, approaching the canal on the opposite side for a drink. The device continued to display in red light, however, allowing everyone’s eyes to slowly adjust to the darkness.
+
+“Won’t the light give us away?” Isaiah asked.
+
+“Anyone halfway competent will have thermal imaging, but conflict shouldn’t have developed to the point they’re wiping out random squads right beside the DC suburbs,” Charlie said.
+
+“I wouldn’t bet on that,” Alan said. “Spread out a bit.”
+
+They continued on the path, careful to avoid gnarled tree roots and exposed rocks.
+
+A gunshot rang out, and Alan whirled towards the sound, only to see Isaiah with a raised barrel. Isaiah had shot at the deer and missed. The deer fled the scene.
+
+“Shit!” Isaiah said. Charlie tackled him into a nearby tree line.
+
+The rest of the party took cover, waiting to see if anyone investigated the noise.
+
+Alan felt his body fill with adrenaline, every shadow standing out in the darkness. He watched over the foliage. There was a war out there, encompassing Earth, but in Alan’s zone of perception, everything was silent.
+
+Only allies here, Lambda sent—his tone deadpan.
+
+Isaiah pushed Charlie off, finger still on the trigger of the handgun he’d been given. He was shaking.
+
+Charlie reprimanded Isaiah with a whisper, “Trigger discipline!”
+
+Isaiah gulped and switched his safety on.
+
+Bob approached Isaiah once he was sure the coast was clear, his face an angry frown. “Idiot. Don’t fucking shoot unless we’re under fire or I give the order. This isn’t a class field trip. Your job is to stay alive, not kill anything that moves.”
+
+Bob turned towards Alan. “We will not be heading towards any battlefield. My job is to keep these two safe. If you want to run off and be a hero you’ll do it solo.”
+
+“Wait, why’d we leave the bus then?” Ivy asked.
+
+“If there’s one place that I’m sure won’t be blown to kingdom come it’s the alien’s centers,” Bob said. “No one has the balls to start a war with the Administrators. They’re the only sons of bitches with real guns in the real world.”
+
+True enough. That’d be a short dispute, Nu sent.
+
+Charlie looked at Bob. “Boss, sure we can trust the kid? I’m fixin’ to take his gun.”
+
+“No, let him keep it,” Bob said.
+
+Ivy went over to Isaiah, wrapping her arm around his shoulder and giving him a small hug. “Hey, it’s alright. Everyone makes mistakes. This is a high-stress situation. You need to calm down and think before you act. We aren’t battle buddies aiming for a high score—“
+
+“I know,” Isaiah said, shoving his sister away. “I’m sorry. I’m a dumb, useless burden that gave our position away. The escort NPC everyone hates. I didn’t even mean to fire, I was practicing my aim… I want to help.”
+
+Isaiah fumbled with a pocket on his flight suit and pulled out a grenade. He held it outstretched on his palm like an offering to Alan. “Look! I managed to take this off a dude sleeping on the bus.”
+
+The battle map let out a soft beep, and a notification popped up stating Isaiah had been docked contribution points and would be arrested if he stole from an ally again. Everyone read the scrolling message.
+
+Now is the time to lead. You won’t get a better opportunity, Nu sent.
+
+But what do I say? Alan sent. He was tired. The weight of the backpack, the rifle, and all the ammunition was wearing him down. He didn’t know how to deal with people or even particularly like them. A path of least resistance to levels—that’s what he wanted.
+
+We’re in Washington DC. Channel your inner politician, Nu sent.
+
+Alan took a deep breath and then looked up at his squad.
+
+“Life is a game of calculated risks,” Alan said. “The priority is to survive. But we’re no longer in the real world, Bob, and thus the heuristics—the life lessons—you’ve learned are all wrong. Avoiding fights may help us survive the night, but it will make the next battle harder, and the challenges I want to face impossible.
+
+“Any pro gamer knows winning is about micro and macro decisions. Take every sliver of an edge, while still aiming for overall victory. None of that matters if we die tonight, but every confrontation is an opportunity to get stronger. Human beings are the tip of the iceberg of enemies we may yet face.”
+
+Memories flashed in Alan’s mind: an alien crashing into Earth like a meteor, ancient golems in a prison beneath never-ending layers of urban sprawl, a self-replicating, massive autonomous fleet, a hidden library filled with databanks. And then oblivion.
+
+“The universe doesn’t care about your existence. You have to make it. To carve your name into the wall of reality with any tool at hand—and even then your efforts are futile. I’m playing this game to win and that means immortality and ascension. Moving on to the next level requires experience. Icewolf put me in charge for a reason: I know the Game—listen to me.”
+
+Passable, Nu sent. You need to work on hand gestures.
+
+Isaiah was still holding the grenade. Alan took it from him, and said, “You had the right idea, but this game is closer to reality than not. Don’t go stealing everything like this is an old RPG.”
+
+Charlie shared a look with Bob, who seemed to be mulling over Alan’s words.
+
+“Fine. Let’s go looking for a fight. My momma didn’t raise no coward,” Bob said with a slight twang.
+
+The party continued towards the Administrative Center, crossing a wooden bridge across the canal to make it into a DC neighborhood named the Palisades according to the battle map. Angel wanted them to continue down the nature trail to the main thoroughfare that was secure, but they chose to take an alternate route through a dense suburban area.
+
+And then, instead of hiding, the party advanced towards the next gunshot they heard.

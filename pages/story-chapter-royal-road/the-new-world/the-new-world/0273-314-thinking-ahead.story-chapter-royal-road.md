@@ -1,0 +1,157 @@
+---
+id: dac82075-dd57-5143-8596-75da63d7f466
+page-type-slug: story-chapter-royal-road
+title: "314 Thinking Ahead"
+slug: 0273-314-thinking-ahead
+partOf: the-new-world
+position: 273
+ownLength: 2680
+unit: words
+ownProgress: 2680
+publishedAt: 2021-09-16
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/751975/314-thinking-ahead"
+royalRoadId: "751975"
+markedReadAt: "2026-06-29T21:30:33.999Z"
+---
+
+Plazia thrummed his fingers against his throne, "That can be arranged, and quite easily so. I have a few furnaces on hand, and I can distribute them out as we make progress towards my goal."
+
+Helios sighed at me. The void ice bearer shook his head, "Elemental furnaces aren't worth this, Daniel. This is an insane proposition, and you're running into it without giving it any thought. You will regret this."
+
+The minds in my head swarmed out with a plethora of thoughts. They considered dozens of ideas, filtered them through my head, and those ideas trickled out into my speaking mind. They gave me a lot of clarity over the situation, one I wouldn't handle well otherwise.
+
+The minds explained a lot, and they gave me a better understanding of myself. For starters, I was at a crossroads. In many ways, siding with Plazia here showed a near rebellious intent against Schema. Considering our situation, that didn't seem all that appalling. Schema had demonstrated his intentions so far.
+
+Schema couldn't take out Elysium, something my guild accomplished. He wouldn't offer extra experience, and he provided no additional support. Even though he kept pretty barebones against Yawm, he offered doubled experience and points for killing enemies. Maybe we didn't get footsoldiers, but we could make our own.
+
+We received complete silence from Schema since getting tangled up with Elysium, however. That put me in a testy situation. I couldn't help my home planet for a long time because of that inaction from the big AI. If anything, that lack of help impeded my guild's growth by leaps and bounds. By putting us in the warpath of Elysium and giving us no way out, my legion couldn't expand in any direction.
+
+I was trapped in an endless war where I sacrificed my guild's future to help uphold's Schema's system. And he said and gave nothing. If anything, it was like Schema was against me. My eyes widened. That was it. Schema gave no awards and bonuses, no extra trees for stopping Lehesion or Elysium, not even a bit of additional experience because Schema didn't want me to progress. He kept his interactions at a bare minimum, only refusing to pull the plug on my system access.
+
+And whether Schema even could pull the plug on me was a point of contention. Amara already hacked me back into the system after I was exiled from Yawm's domain. She could do that again. If anything, Schema hinged his bets here. By not banishing me and my guild, he put on the image of helping us out. After that, he gave us no extra incentives despite how much we put on the line. Schema undermined us like that, and I was tired of it.
+
+Even more so than that, many of the problems in Schema's realm festered in an unfixable way. The more I tried working to change anything inside Schema's domain, the more difficult it became. For instance, getting rid of my unknown status. That required establishing relations with Giess. We just so happened to end up entangled in a galactic war. Sure, that could've just been circumstances, but Schema was, bare minimum, somewhat aware.
+
+He had his fingers ingrained into every inch of space everywhere. How couldn't he know something?
+
+In fact, that was likely supposed to happen again here with Plazia. This monster spanned multiple planets. Plazia controlled hundreds of furnaces, and exterminating him might've taken years. It would derail me from helping Earth for that long again. If a different guild took over Earth, I might have to work for them and fight another world-ending horror to get Earth back.
+
+Oh yeah, and surely another one would show up then. Hell, if I just had a few months to actually get myself and my guild grounded, I could make a lot happen. So far, world-ending terrors like Plazia just kept getting in my way. I always assumed that was my poor luck. It might not be.
+
+Schema could be pulling my strings. I could be a hamster on a wheel, running in circles and always fighting. I could never get out of the trap for some reason or the other, whether it be circumstance, expectations, or Schema's rules. If I detached from those standards, all kinds of options popped up.
+
+If anything, I could just make a new system of my own. Elysium did it, and I managed to beat up the guy that let them make their own system. In time, I'd have the mana to make it happen just as he did. If I could get a beachhead into a different dimension, I could establish my own system or society without Schema blowing us up with a planet swallowing abomination. Ah man, what a relief that'd be.
+
+Those thoughts swarmed through my mind in a few seconds. Coming to a decision, I peered down at Helios, "I'll regret this? Really now? Let's break this down. For starters, I want to start establishing a presence on Earth. Killing Plazia, even from just seeing this Sentinel's shell, tells me that he's spread out over many planets. He mentioned hundreds of furnaces for a reason."
+
+Helios rubbed his temples, "Indeed. That's why you were conscripted for this so that the ahcorus could help us over many planets. It was a simple exchange of enemies for you, so to speak."
+
+I waved a hand, "It was, but that's because we thought Plazia was some mindless monster. We were wrong, and the situation changed. At worst, striking a deal buys me some time to establish a firmer presence on Earth. After all, a few months is all it will take to establish governance over a huge region, one large enough for the gialgathens, Eltari, and the skeptiles alike."
+
+Helios waved a hand, "But you're postponing handling Plazia once more. How long-"
+
+I cut him off, "I'll have Plazia leave this planet as part of my request. After doing that, the ahcorus will help the Empire. That can happen as soon as tomorrow, can't it?"
+
+Plazia nodded, "It may. I rest on many worlds. Any of them will do, should my goals shift."
+
+I smiled at Plazia, "I'm going to need you to get rid of the Elysium camp on Earth too."
+
+Florence tilted his head at me, "You're going to have him kill off an encampment that's helping out humanity? Seems cold-hearted."
+
+I ran my hand through my hair, "Here's the thing - you can make literally anything sound dumb if you really want. Yes, I will destroy the encampment. No, I won't murder everybody. Plazia is vastly stronger than this camp is. When decimating it, he only needs to show some restraint. Let them have a harrowing escape or something. It's not that hard, and I'll let him handle the details."
+
+I spread my hands to Plazia, "Right? You can do that, surely?"
+
+Plazia scoffed, "Yes. I can."
+
+Florence leaned back, "Oh...Well, why destroy the camp in the first place?"
+
+I raised a fist, "I'm taking over Earth, and Elysium will know about my presence. Even if we have a treaty, I don't trust them. By dismantling their presence on my homeworld, I can avoid them figuring out where I'm collecting all my resources. After that, I'll get a firm grip on Earth with my golems and allies. Defending won't be too difficult after I've established a solid framework."
+
+I rolled my shoulders, "And after that's been done, I'll do the same to Blegara. I'll be able to use the water on Blegara to terraform other planets, maybe even some in my own solar system like Mars. Who knows? The point is, I'm about to start making a lot of moves. Having someone like Plazia as an ally, someone outside of Schema's system and who lets me work without Schema knowing, that's invaluable."
+
+Helios's voice lowered, "Are you certain this sudden confidence isn't arrogance?"
+
+I let out a sigh before peering up, "It's less confidence and more just recognizing that Schema isn't about to do anything to help us. We're on our own, and I'm about to act like it. The system's nice and all, but most of humanity died after the tutorial and the rush of eldritch. We were going to be eradicated by Yawm if not for us pulling off a miracle. Schema served us up on a platter then. He did it again with Elysium, pulling us into a galactic war. We should've all died."
+
+Defiance spread over my face, "So yeah, I'm done working by Schema's rules. I'm going to make my own. Hell, if Elysium and Lehesion can make a system, why can't I? I've got the goods. My mana production will only go up from here. I can channel it through this body, as it's damn near invincible. If anything, me working with a Ruhl is the tip of an iceberg."
+
+Florence's jaw slackened. Helios spread out his arms, "And you believe you can do this all on your own?"
+
+I shrugged, "I beat a dungeon with enemies fifty times my level and without any previous experience. I beat Yawm while starting out over ten thousand levels below him without the Old Ones' help. After that, I held my own against a galactic armada, and I defeated their champion in combat. I held a line I had no business holding."
+
+I stood over Helios, my shadow looming, "I'm thinking of questioning myself less and considering what I can do more. People keep wanting to think I can't do anything. They're wrong. I can do plenty. I will do plenty."
+
+Florence stood up and walked over, "Wow, Daniel, you've really had an upswing. This is great to see. You've been down in the dumps lately. Any reason for it?"
+
+I grinned, "I'm just tired of spending all my time doubting myself. Instead, I'll just move forward and see what I can do. I'll make the mark that I can make. I'll put it all on the line, and whether it works out or not, well...Time will tell. Until then, I'll do everything in my power to help humanity, my friends, and myself."
+
+I spread my hands out to Plazia, "Speaking of which, I need at least twenty furnaces upfront. I need you to dismantle the Elysium camp with minimal casualties if any, and for you to get off of this planet. If you do all of that, I'll see through helping you out. If anything goes awry, I'm not going to throw myself between dimensions so that you can test theories, alright?"
+
+I reached a hand, and Plazia grasped it. The hivemind hissed out, "That can all be arranged. It's good seeing you work with such decisiveness. It's far more fitting than wallowing in incessant doubt."
+
+Plazia simmered at Helios, "Like some would prefer. Doubt is the gullet of despair, and it leads to a belly of agony."
+
+Helios let his hands flop against his sides, "Going insane, are we? I don't need to play out any consequences. If you think I'm betraying Schema and getting exiled-"
+
+I gave Plazia's a hand a firm shake before spreading my hands to Helios. I chimed, "You know, you could be a ruler of worlds again, right?"
+
+Helios tilted his head, "My position in the Empire is absolute. That won't happen for decades. Now-"
+
+I pointed at my chest, "But your position in my guild is fluid. You work with me, and I'll work with you. Armor, artifacts, even positions over planets can all happen. I'll get you the proper obelisks to automate everything and give you a department of helpers if needed. It can all be arranged."
+
+Helios's eyes widened despite being blinded. Helios took a step back, "You...You would do that for me? I'm not even a member of your guild."
+
+I raised a hand to Plazia, "I'm working with a Ruhl. Amara's wearing my skin. I have saved three different aliens species, all of them hostile when I first met them. Yeah, I would do that for you."
+
+Helios peered off, possibilities running through his mind, "I...That...When-"
+
+I took a breath, "Yeah, it all depends on you. I mean, if you don't show the appropriate loyalty, I don't know if I can-"
+
+Florence raised a hand to me, "Oh, come on, Daniel. Helios was merely voicing concerns. It was a sign of respect that he believed you could handle that dissent. He merely gave you the platform to dismantle obvious doubts. You did so, and now your position is all the stronger for it." Florence raised a fist,
+
+"If anything, he proved his loyalty by saying all that. Isn't that right, Helios?"
+
+Helios stammered, "I...It...Yes."
+
+I held down a laugh, but Amara didn't. Our eldritch hacker cackled out, "Hah. A ruler of worlds? You seem quite smitten by the idea of returning to your position, don't you?"
+
+Helios steamed, "Yes, as I've ruled over many. It's a position of responsibility and status I defer to. You may never understand my reasoning, but you never need to." Helios peered at me, "But you're serious about this?"
+
+I gave him a firm nod. Helios peered back and forth, whiplashed by his new reality. Florence kept up with the flow and cadence, enjoying the ride. Plazia interjected with his own thoughts,
+
+"Where would you like to have me establish my our place of concordance? Blegara may be difficult, as I prefer non-water-laden planets if possible."
+
+Helios whirlwinded, the albony overwhelmed. He gasped, "Your home base? Are you trying to get us exiled?"
+
+I waved a hand, "We'll need him close to reduce the number of warps. He and Torix need to meet up too. I think they'll be a dynamic duo."
+
+Helios stammered, "B-But what about the Overseers? What if they uncover Plazia being there?"
+
+I waved a hand, "Oh no, we won't have to worry about that." I pointed at Plazia, "You created this spot in seconds, right? You also mentioned the Overseers clearing the space out. How about this; make as many of the places as you can across Svia. Put them in hard-to-reach places, spread them out, and make them a pain in the ass to deal with."
+
+Florence snapped his fingers, "You'll waste the Overseers time with tedious, busy work. That's just like ruling a planet...I would know. It's more boring than you'd think."
+
+Plazia cackled, "I never considered being so petty before. I like it."
+
+I put a hand over Plazia's shoulder, "Oh, if you like that, just wait. We got a lot we'll be managing soon. Don't even worry about it. I'll make sure you're busy, along with your vast number of insect magma things."
+
+I spread out my hands, "We'll all be busy. Speaking of which, let's get going, guys." My runes charged, and the air howled out at the overwhelming flow of mana, "We've got work to do."
+
+I created a panel of antigravity above us, channeling a mass of the ground up. As gravity inversed, I turned to Plazia, "How long will it take you to pull out of Svia?"
+
+The hollowed Sentinel mouthed, "Three days."
+
+I gave him a two-finger salute, "Make it happen. Where're the furnaces?"
+
+The Sentinel's shell grabbed a ring from within his body. He pulled out a dozen different ancient gemstones from underneath the carapace. After funneling the artifacts into the bag, he tossed it over. I snatched it out of the air with a grin, "Thank you kindly."
+
+We hovered up out of the ground and back into Wrath's colony. An enormous explosion radiated from outside her colony, and the worker drones swarmed away while the bruisers returned. As they hobbled up, a telepathic link to Wrath snapped over to us. The razor queen shouted,
+
+"What is happening? Is Plazia invading?"
+
+I raised my fists, "Nope. We got rid of him. Your ancestral enemy is no more after like, I don't know, two hours? His remnants will be gone in a few days."
+
+The bruiser drones collapsed, and Wrath's voice turned into a squeal,
+
+"What?"

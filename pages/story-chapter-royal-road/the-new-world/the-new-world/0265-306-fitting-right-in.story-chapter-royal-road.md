@@ -1,0 +1,285 @@
+---
+id: 3907a501-8e22-54f2-93f7-26ea3271e71f
+page-type-slug: story-chapter-royal-road
+title: "306 Fitting Right In"
+slug: 0265-306-fitting-right-in
+partOf: the-new-world
+position: 265
+ownLength: 4538
+unit: words
+ownProgress: 4538
+publishedAt: 2021-09-04
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/745250/306-fitting-right-in"
+royalRoadId: "745250"
+markedReadAt: "2026-06-29T21:30:16.732Z"
+---
+
+I leaned back while opening my arms wide, "What? You don't remember me? I guess it's harder with my helmet on."
+
+Tera's eyes narrowed while he searched his memories, many thousands of people popping up in them. He shook his head, "You're not like many I've met if anyone."
+
+"I'm Daniel Hillside. You helped me with getting access back into the system because I was messing around with the cipher."
+
+Tera's eyes glazed over, and they stayed that way for a few seconds. As I began believing he forgot me entirely, his eyes widened as if someone attacked him,
+
+"You're that Harbinger? No, no way. That's impossible. Absurd. You actually ended up killing Yawm?"
+
+I pointed behind me at Hod, who bragged about his food contest cred. Hod's belly jiggled as I scoffed, "No, he did. I helped out, though."
+
+Tera kept peering back and forth, unable to form words for a minute. He gasped, "You've changed. Excuse me for not recognizing you, but you're so different. Utterly changed...Unbelievable."
+
+I gave him a light nudge on the shoulder with my fist, "So have you."
+
+As we spoke, I found myself using another of my psyches to observe him in tandem. This other mind noted Tera's nature-based motif, all of his goods based on organic means of combat or control. Unfamiliar vials of different poisons strapped onto the front of Tera's chest, along with other potions at his side. He took the teeth and claws from his enemies, making them into his weapons. Those tools covered him.
+
+The observing psyche even passed over its own comparisons. The mind mentioned how Tera was like an experienced handyman, just one that dealt in death instead of construction. All that flowed into my acting consciousness while another inspected Tera's titles and status.
+
+Tera, The World Breaker(lvl 9,000 | Class: Speaker | Race: Skeptiles | Origin: Mowak | Age: 47 |...)
+
+This other mind found a staggering difference in information when compared to my first inspection of Tera. Funneling in like some video feed, the anima gave me a laundry list of every detail I could've ever desired, even more than I wanted. One of the more valuable tidbits was Tera only gained a thousand levels since we last met while I'd gained over ten thousand. This other mind decided that I still looked up to the Speaker anyways.
+
+The curious conscious even reminded me that Tera gave me a vial of eldritch energy that accelerated my evolution. It was pivotal at the time. Now Tera was here, wondering about at a party on Blegara. It seemed odd to me and my other mind. Combine that with all the additional insights, and I swallowed in apprehension.
+
+All of this knowledge assaulted me like the crushing weight of the world on my shoulders. I kept talking despite it all,
+
+"Man...it's great to see you. How have you been?"
+
+I told the other minds to quit sending me so much info as Tera turned, peering around, "I'm doing well. I can see how you've been just by peering around. You've grown until you're hardly recognizable. I dwarfed you when we first met, and now you do the same to me. Hah, I remember when Schema tasked you with killing Yawm of Flesh. Now you have exceeded him, and you have a nice little slice of this galaxy to yourself."
+
+He gave me a genuine smile, "You've done very well for yourself."
+
+His words uplifted me, but at the same time, my other psyches kept funneling in observations. One mind mused that Tera was like my older brother returning from a visit across continents. Now that Tera came back here, I finally showed him all the progress I made. This anima noted the feeling permeated because Tera knew me before I turned into a ruler of worlds.
+
+It made his compliment more sincere because he didn't assume I spawned from a race outside of Schema-owned space. Tera understood the full extent of my humble origins. That made his current tone of respect feel earned instead of given.
+
+Though I appreciated the insights, having those thoughts flopped into my mind put me on edge. Keeping up with everything proved impossible, and I took a sharp breath. This was too much to take in at once, and it paralyzed me. The Manifold Mind skill carried infinite potential, but its darker showed itself now.
+
+A disparate psyche thought through the reason why - I didn't use it like this, ever. I automated tedious, meh functions that required little thought. That meant organizing the minds was like coordinating menial laborers. Now, this was like speaking for a council of Daniels, each of them shouting in my ear.
+
+The insights washed me away in a veritable sea of helpful info.
+
+I hid my internal struggle as I smiled at Tera, "Thanks...So, why are you here of all places?"
+
+Tera narrowed his eyes at me, "You ok? You seem like your in pain."
+
+I was. Being the head of this council of Daniels exceeded my ability, especially when they expected me to understand their counsel and act accordingly in real-time. It left me fumbling for more mental processing power. Stretching out into my mana reserves, something clicked in my mind as I grasped out.
+
+My mana drained, and I found enormous amounts of processing power at my disposal, all of it left unused. As this acuity flooded in, the mana siphoning into my cipheric runes dampened a bit. I undulated these two ends like a scale, finding my mind's speed correlated with the mana's changing stream. A realization clicked in as that happened; I could turn mana into mental processing power.
+
+Duh.
+
+I never understood that or used it, probably because of how my blood magic operated. It made mana a more physical activity for me. However, this was likely how most people 'made' mana. They sacrificed their mental abilities to generate the tangible forces of mana. Afterward, they tempered the energy into something useful.
+
+I excelled at generating the energy from my own blood, and I tempered it well compared to most. However, since I always sacrificed blood and bone for it, I never made this mental connection. I skipped this step long ago while in BloodHollow. In a moment of desperation to generate mana, I destroyed my own body instead of drawing it from my mind.
+
+I shook my head, stunned at my ignorance. It was a gut punch, one that left me breathless. Tera put a hand on my shoulder, "Are you sure you're ok?"
+
+"Yes. I'm fine."
+
+I gulped. If I'd just made this connection earlier, there were many, many issues I could've handled independently. The logistics behind our war, learning quicker than ever, and even just speaking better was all within my grasp. I had never seized this connection or ability, and that left me neutered compared to my potential.
+
+I shook away a wave of guilt, ashamed at how long I'd gone without knowing all of this. Reigning my emotions in, I put this behind me for a second, trying to work with the new ability. Pulling in my mana, my mind responded like a viper's strike. It flourished under the untamed energy's influence.
+
+Using the improvements, my psyche gained a volition I hardly comprehended. Acting out with this bizarre, unwieldy processing, I contemplated all the streams of information at once. Unlike before, the insights soaked in with ease. In that way, I didn't gain any creativity or brilliance from the shifting mana. It was more like memorization and extra time to think.
+
+Still, knowledge was power. Connections snapped into my head as my mind assimilated data. This mental conversion was how Torix operated as he did with so many tasks at once. It was also how the Overseer handled other duties while speaking with me. I could even explain the supernatural observance of the Emperor with it. He noted details and thought about them quickly enough that it seemed simultaneous even if it wasn't.
+
+All those possibilities cropped up in my own mind, but I stared down under strain. My hands shook as the sheer pace of my mind overwhelmed me. Even if I now understood this newfound force, wielding the tool was a different matter altogether. I twitched about, unable to tolerate it all.
+
+Tera gave my arm a light tap, "I'm about to call for help."
+
+Snapping back into the moment, I raised a hand,
+
+"I'm fine, I'm fine. I was trying to use a new skill while speaking with you, but it wasn't working out. That's why I was acting weird."
+
+I'd have to investigate the mana connection some other time.
+
+"You sure? I can have someone check you out. You did just finish a battle, and lingering injuries could be, you know, lingering."
+
+I shook my head with confidence, "I'm fine. Better than fine. I can finally breathe for a minute instead of racing headfirst into death every day. I'm just adjusting to that. It's a little surreal."
+
+"Hm...I'll listen to you for now, but if you start shaking again, I'm going to get someone over here that could actually help you."
+
+"I'm sure you could give me a potion or something."
+
+Tera raised an eyebrow, "And lose the credits when someone else could handle that for me? I'd rather not. I need every credit I can get."
+
+Another observation came in. Tera was poor. I gave just a pinch of mana into my mental faculties so that I wasn't thrown off in the conversation,
+
+"So, are you struggling to find work?"
+
+Tera sighed, "Quite the opposite, actually. I've been handling missions for Schema and the Empire. I've been busy this way for years now. That's why I've fallen behind on most recent events. I knew we were going to the Harbinger's party here, but I didn't think the Harbinger also killed Yawm. I neglected to do any research beforehand."
+
+More observations streamed in. Tera was overwhelmed by his current position and often isolated. I kept talking with those facts in mind,
+
+"With your skills, you might've been able to get a good offer from someone in my position. Why not do the research?"
+
+"Hah, I'd never find the time to capitalize on the opportunity. This war gives me all the work I could ever need, and I'm sure you understand that. I'm also not in the position to be asking anything from someone from your station. I'm just trying to get by, at the moment."
+
+That was a loaded statement, but I chose not to pry, "I can relate. Like I mentioned, I'm glad to have finally crawled my way out of the war." I turned to the display cases, "And with something to show for it. How about you? Any good loot lately?"
+
+His eyes softened, "No, not particularly."
+
+I raised an eyebrow, not that Tera could see it, "Ah, did Schema not give you a quest either?"
+
+Tera gawked at me, "Schema didn't even give you a quest? No wonder your guild signed a ceasefire. You're just throwing yourselves against a wall with teeth and for nothing at this point."
+
+"I know. I couldn't justify it anymore either. Its weird Schema didn't give me a quest, however."
+
+"That's not like Schema. It wouldn't normally fail to seize an opportunity like this. It doesn't make sense that the crafty AI would miss out when it sees everything either."
+
+I sighed, "I'm right there with you, but we're trying to figure it out. I have a meeting with the Overseer planned and everything. Anyways, you're still getting quests. Anything interesting lately?"
+
+His gaze averted mine once more, "I've got plenty of quests, but they don't amount to much, even when I do complete them. Such is life, sometimes."
+
+I caught an undertone in his voice. He wasn't looking away to think or ponder. He peered away out of shame, something I was all too familiar with. I'd seen it happen to people who met up after a long absence. One progressed, and the other stagnated. The comparison put one of them in a dim light as if they stood still while everything moved around them.
+
+At least, that's what a mind of mine sent over, and I happened to agree with myself. Weird as all that was, I hated seeing an old friend go through this, especially when it was someone who helped me out. I waved my hands in circles, entering my problem-solving mode,
+
+"Are the quests not balanced or something? I know you're getting a lot done. I mean, you have the title of a world breaker. No way that doesn't mean something impressive."
+
+He rubbed his shoulder as if I struck him, "It's not what you're imagining. You're an actual breaker at this point. My past isn't that glorious."
+
+Sensing a deep pain there, I dropped the issue while pointing at an exit out of the chamber, "Hey, if you need to talk, I can listen. It sounds like something's eating at you."
+
+My concern resulted in the opposite reaction I wanted. It only exacerbated Tera's unease, his anxiety growing as he murmured, "Daniel, I haven't changed much since we last saw each other. As I said, I'm just getting by, so let's not talk about me. Let's talk about you and your stories. I know you have plenty to share. Let's talk about those instead."
+
+Normally, I'd have let the subject slide and did what he asked, but there was an edge to his voice that I didn't like. Pressing the issue might've been a terrible idea, but I couldn't watch him hide his torment like that. Not when I was in the position to fix it.
+
+And so, my minds shifted into place to accomplish my current goal. One of them inspected his titles further, figuring out he worked under the Empire. I narrowed my eyes at Tera,
+
+"Ok, this is all I'll say about it. You work for the Empire. You're accomplishing plenty but getting very little back. Are they messing with your quest rewards or something like that?"
+
+I heard the beating of his heart clearly in my ears, and it sped up as I spoke. Another explanation from a mind confirmed those thoughts, meaning I was on the money. I raised a hand, "They're gouging you, aren't they?"
+
+Tera turned side to side, "Daniel, drop it. Please."
+
+I didn't use my perception like this as I rarely felt the need. At this moment, the demand arose, however. Drawing from my multiple minds, I considered Tera's words and motivations. I listened to his pulse, sensed his sweat, and witnessed his gravitational ripples. Another mind spoke out as they all communicated in sync,
+
+"So they're taking your quest rewards. You wouldn't do that unless you had to. They've got something you don't want them to take, like a family, guild, a village, I don't know."
+
+As I spoke, his heart rate spiked at the mention of family and village. I nodded, "You're working for them to protect your people." My eyes widened, "Wait...You're a servant?"
+
+Tera blinked as I pried information from him he didn't want to share. He wasn't the only one surprised. A Manifold Mind synergized with my Hunter of Many skill, a perception-based, mythical tier ability of mine. They gave me a clear picture of everything. With the extra mana working in my favor, I grasped the situation and its inner workings with precision and speed as well.
+
+It gave me an eerie, almost inhuman understanding of what happened around me. It kind of scared me, actually. Tera remained unaware of this inner shift, thinking I was just an ass. He was probably right about that. He whispered at me, but his words fumed like glowing embers,
+
+"Why are you doing this? What did I do to deserve this interrogation?"
+
+I whisper yelled back, "You helped me. I want to help you."
+
+We kept whispering as Tera snapped, "Yes, you're right. I'm a servant. That's all I've ever been. Does that please you that the great Speaker who looked down on you is nothing more than a tool? Is that what you wanted to hear?"
+
+I frowned, "No, that sucks. I'm not prying because I want to embarrass you. I want to understand so I can help."
+
+His eyes narrowed, "Help me for what? My mission was automated from Schema. I didn't do it because I wanted to."
+
+I shook my head, "I'm not thankful for that. You gave me that vial of eldritch energy. Without it, I don't know if I would've survived."
+
+His thorny brows furrowed as he scoffed, "I might as well have thrown you some trash I had on hand. No, I did throw you trash. You know that, right?"
+
+I stared at him with an unbending will, "One man's trash is another man's treasure."
+
+He raised his hands, "You're going to get me punished."
+
+I crossed my arms, "No, I'm not. Besides, you helped me. I aim to repay you because you didn't have to, yet you did."
+
+Tera raised his hands to me in frustration, "Then repay me by ceasing this line of questioning and let me be."
+
+"No."
+
+He shook his hands, "What is wrong with you?"
+
+I parroted back, "No, what's wrong with you?"
+
+"A cataclysmic world ender is scrounging in my business. That's what's wrong with me."
+
+I pointed at him, "What's wrong with you is that you won't let me help you out."
+
+"I'm not going to be put into another contract or arrangement for someone else. Never again. Not for you. Not Schema. Not Baldowah if he calls. No one."
+
+"You think I need a contract to help you here? I'm helping you regardless."
+
+Tera rolled his eyes, "I'm sure the great and mighty Harbinger just gives out gifts like this."
+
+I narrowed my eyes, "Oh, you just wait. I'm going to help the shit out of you."
+
+At this point, our voice rose until several nearby albony stared at us. One of the wealthiest ones paced up, his armor mirroring Obolis's graphene plating. Old and vulnerable, this albony wore a black mask with a noble voice. He turned to Tera, "Is this peasant bothering you, Harbinger? We can have him punished and taken off the premise if you'd like."
+
+He spoke the wrong words in the wrong order, let me tell you. That being said, it was because he mistook our discussion as an argument. Maybe it was, but I wasn't actually mad at Tera, just frustrated. I turned to the old albony, my form looming like the shadow of a mountain,
+
+"No, that won't be necessary. He and I are having a talk."
+
+Under his well-stained mask, the old albony smirked. He believed the social pressure of the situation stopped me from punishing this servant. The albony turned a hand to me, "We assure you, there won't be any complaints from us should we need to have him reminded of his position. Someone, take him outside."
+
+He put a hand on my shoulder, acting like we were familiar. I grabbed his hand with a gravity well, wrenching it off, "Oh no, there's no need to remind him of anything. Actually, he's an old friend of mine, so let me remind you that when you speak to him, you're speaking in part to me."
+
+I stood over a head taller than him, "That means threatening Tera is threatening me. In case you needed to know, I don't require reminders of my position or punishments for speaking. Not from you. Not from anyone."
+
+The old albony flushed in embarrassment as his face flared bright red under his fur. Before the conversation continued further, my minds came together as they had with Tera. They observed close enough that I saw right through this old albony. His shame shriveled into fear as his blood rushed from his face to his stomach.
+
+I could tell by the shifting pressure in his vessels, each beat of his heart pounding in my ears like a drum. He raised a hand with a single finger upright as if he had a witty retort. I called out his false courage, tilting my head at him. My questioning glare fizzled any response he had. My helemet remained on, but the slit shifted up with an expression all its own. This albony, whoever it was, understood my disdain. That killed his courage, and he could no longer speak out.
+
+Even in the heated moment, it stunned me how much information I could gain by listening closely. The albony's bodily reactions, the rate of his pulse, even the tension in his veins, I sensed it all. I mean, I formed a picture of him without needing vision, but I'd simply never understood just how much detail I could render in that theoretical picture.
+
+From that mental image and its intricacies, it became simple to gain information. It was like this with Tera earlier. Florence remarked on this exact circumstance an hour ago; I could uncover what people wanted to hide if I observed closely. I never considered it, but higher leveled people experienced this dominance at all times. This tangible difference in ability, I perceived it now, and once recognized, it became undeniable.
+
+This nobleman, who wielded a high station, was rendered helpless as a child because of my stats. His inner thoughts leaked out in ways he couldn't control, so I understood him. My multiple minds allowed me to inspect those hidden messages, and my increased processing meant I thought out my every action.
+
+By comparison, this albony reacted to me. It was a game rigged in my favor now. Combine that with my physical superiority, and he was at my mercy. This absurd ability gave me an electric thrill from its hidden potential. In other ways, it terrified me. My current actions explained why people treated high-level classers with respect bordering reverence. Abusing this difference felt wrong. It made me wonder what kind of person I'd be if I exploited it. Maybe another Yawm? Perhaps a Lehesion? I listened to those fears in the back of my mind because I didn't want to be that kind of person. Following that instinct, I raised a hand,
+
+"Look, we got off on the wrong foot. You misspoke because you didn't understand the situation. I get that because I've done the same thing plenty of times. Let's just reset."
+
+A wave of relief, palpable as water, washed over the older albony as he nodded, "Oh, most certainly. Do excuse my transgression. I never would've anticipated you two had met. Now Tera, why didn't you speak of this?"
+
+Tera's squeezed a scaly fist, "I...I didn't know we knew each other. I didn't recognize him."
+
+A quiet fury brimmed under the older albony's words, "Oh, of course. We all forget things from time to time. You're more than forgiven for such a simple slight."
+
+Based on his tone, the albony acted as the person in charge of Tera, and I searched through the memorized list Florence gave me. I connected this albony with the name Phillip Novas. He matched the picture and description in my status. He was a general who retired after getting Obolis another planet under his repertoire.
+
+Phillip accomplished the feat by bankrupting the planet instead of fighting it, saving Obolis countless troops. That put him in a very high position in the Empire. There were still members higher up than him, and one of those people stepped up - Obolis himself. The Emperor spread out his hands, casual as could be,
+
+"I overheard the conversation while I inspected the vast number of treasures on display. Excuse my interruption, but is there a problem?"
+
+My manifold minds kept humming at a rapid pace. The treasures. That's why Obolis was so slow to respond. He oozed over the merchandise so much that his attention lapsed. Otherwise, he'd have intervened well before now, given his general perception. He made a mistake from greed, essentially, and I noted that weakness.
+
+Mistake or not, Phillips exuded terror as he spread his hands, "There's absolutely no issue to be had here. I spoke out of turn, and the Harbinger gave me a wealth of understanding despite my transgression. I simply must apologize again for my indiscretion."
+
+Obolis spoke like steel, "As you should."
+
+If Phillip feared me, he writhed in terror at the Emperor. Obolis kept his gaze on the retired general, melting the older albony like butter in a roaring bonfire. He was the Carnage of Olstatia, after all. He earned that name in Schema's eyes. Phillip was all too aware, but before Phillip's skin peeled off, I raised a hand,
+
+"Hey, we're good. He misunderstood the situation. Don't worry about it."
+
+In all honesty, it wasn't alright, but I didn't want to press the issue right now. I'd save that for later after I talked things out with Tera. Unexpectedly, Obolis missed my lie as he placed a hand on my shoulder, "Thank you for your forgiveness. I'd have intervened earlier, but I was simply caught up in my viewing of your exotics. Please, excuse me as well."
+
+He gave me a slight bow, and the other albony gawked in stunned amazement. Their eyes turned back to me, and I raised my hands to my defense, "Hey, let's let bygones be bygones. I'm going to go talk to Tera, and you guys continue enjoying the party. Please."
+
+The Emperor raised an eyebrow, "Are you certain?"
+
+I was wrong. Obolis had seen right through my lie and wanted to settle it now. I met his eye, "I'm positive. Besides, we can always talk later."
+
+Obolis pulled his hand back, "Then it's settled. Everyone, continue as you were."
+
+And as if the Emperor cast a spell on the crowd, they did exactly as he said, to the T. I held back my surprise as people chatted away with practiced comfort, some people beginning to laugh at old stories already. The sheer change acted like a surreal reversal.
+
+They obeyed Obolis absolutely. He was the Carnage of Olstatia indeed.
+
+I raised my brows behind my helmet, "Man, they're good actors."
+
+Tera mumbled, "It's much easier to truly listen when your life is on the line."
+
+I put my hands on my hips, "Speaking of lives, let's go talk about yours for a minute."
+
+Tera's fangs slid against each other as if he ground his teeth together,
+
+"Even if you give me temporary assistance, it won't change my position. I am under the albony still, and now their ire will end up berating me over the coming months. I will suffer because you had to speak out, and for what? Your own satisfaction."
+
+He seethed, "That's easy to do when you're not the one who will pay the price for it. My family will pay in your stead for this. All of them."
+
+I smiled, "Come on, let's go talk somewhere else. It's time I made good on my offers. You know, help."
+
+He leaned over, "At this rate, your help will be the death of me."
+
+We paced towards Torix's lair, "Oh, we'll see about that."

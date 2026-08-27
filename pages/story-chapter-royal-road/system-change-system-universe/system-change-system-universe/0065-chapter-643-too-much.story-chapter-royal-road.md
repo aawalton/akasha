@@ -1,0 +1,119 @@
+---
+id: 793031e2-e607-58ca-a031-4530e509a5e8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 643: Too Much?"
+slug: 0065-chapter-643-too-much
+partOf: system-change-system-universe
+position: 65
+ownLength: 2229
+unit: words
+publishedAt: 2026-04-23
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3311101/chapter-643-too-much"
+royalRoadId: "3311101"
+---
+
+Chapter 643: Too Much?
+
+“His control is insane!” Amelia shouted to Marrick as she moved in front of the elf to redirect the icicles launched at him. She barely made it in time, and one of the projectiles still ripped through her arm as it changed paths slightly mid-flight.
+
+“Protect yourself,” Marrick said as he floated beside the woman. “Don’t worry about me. If all else fails, defense is my strong suit.”
+
+Amelia shook her head. “I wanted to bide time and wait for Derek,” she said. “But his control is so good that his wisdom stat has to be through the roof. We’ll run out of mana long before he does.”
+
+“Who needs mana?” a voice sounded from behind them as Jace took a step and stood beside Amelia.
+
+Amelia looked at the man. His body was soaked in blood already, and he no longer even had a piece of armor on his torso. Still, he held his two blades and wore an ever more menacing smile by the second. “Are you good?” she finally asked Jace after studying him.
+
+“Always…” Jace said. “And nobody is going to be running out of mana. I’m going to fillet this fish well before Derek gets back.”
+
+Amelia frowned at Jace but didn’t say anything. Instead, she looked up at the enemy, who had dozens of different kinds of water projectiles floating in front of him almost like a wall.
+
+“Let’s go!” Jace shouted and kicked off the ground. Halfway to the man, the first projectile came. Jace tilted his body, and the projectile barely scraped his hip—drawing only a small amount of blood in the process. It was a much better outcome than the last time the idiot charged forward.
+
+Amelia let out a sigh, then shot into the air. If Marrick said he could defend himself, she would believe him. She needed to make sure that Jace stayed alive long enough to let him really fight. Amelia couldn’t help but gulp as she watched from above as Jace did the bare minimum not to allow one of the projectiles to pierce a vital place on his body.
+
+Occasionally, a very small portion of sand would intercept a water projectile that was going to do some real damage to Jace and fall to the ground. Marrick had both of his hands out and was directing his sand faster than Amelia had seen before. Since he has that…Amelia thought, then put her hands above her head and used her power.
+
+She rocketed down at the same speed that had broken her leg against the flying sand monster before. Herring glanced up, and a look of shock appeared in his eyes for just a moment before it was replaced again by concentration.
+
+The projectiles flew up as Amelia flew down. When they were close, she pushed her mana into her hands and sent out a pulse that stopped them dead in their tracks. She crashed through the stalled projectiles—only the steaming ones leaving a mark on her as she did. With her distraction, Jace drew closer to the man and activated a skill.
+
+A moment later, he all but disappeared and reappeared behind the man’s back. At an odd angle, Jace sliced out with his left kukri at the man’s Achilles tendon. However, just before his kukri made contact, a thin layer of ice appeared and blocked its path. But that was enough for Amelia. She pushed herself one more time to a speed that would definitely damage her own body when she hit, but it would be worth it.
+
+Just as her foot closed in on contact with Herring, it hit a barrier and slowed until it stopped. Panicking, Amelia gathered her mana into her foot and sent multiple pulses out to push her away. Herring flew backward as she broke loose. Her foot had cracked in various locations, but it was a bone wound that would heal easily enough with her normal regeneration rate.
+
+Amelia looked up and finally saw what had happened. Herring was floating off the ground in what looked like a bubble. However, it was solid on the outside and filled with water. Luckily, the activation of whatever protective skill he was using threw Jace back instead of trapping him. As he was slowly coming back to his feet, Amelia winced.
+
+He must have taken the force of the blow head-on, as his nose was pushed into his face—almost flat. “Ow!” Jace shouted as he dropped a kukri and brought his hand up to his face. He stuck his fingers inside his nostrils, then pulled. His nose popped back into place, but it was not pretty. Soon enough, it fixed itself, and he was back to normal.
+
+He reached down, and his kukri flew up to meet his hand. He stared at Herring with anger in his eyes. “Not only are you a fish, but you’re a coward, too.”
+
+“I am just doing what I must,” Herring finally spoke back. “And please stop calling me a fish. I do not understand the reference.”
+
+“What you must?” Jace snorted. “You’re hiding in your bubble like a coward. Come out and fight me.”
+
+“Now why would I do that when I’m the one who is outnumbered and you clearly have some berserker-type class?” Herring asked.
+
+“We just had to send the person with lightning after the other guy…” Marrick muttered as he floated forward and next to Amelia.
+
+“He likely would have already been dead if we hadn’t, and the other guy would have gotten away,” Amelia replied. “The bubble shield is a bit unexpected, but Jace has reached a point where he’s moving well. Herring may have a ton of mana, but a defensive skill like that can’t be cheap. And Jace was right… he doesn’t need mana with his Battlelust.”
+
+“True,” Marrick said. “But he is also an idiot who… is charging back in. Dammit! Jace!”
+
+***
+
+“Tell me, how do the soul threads or whatever you call them work?” Edgar asked Alex as they floated above the dome of darkness.
+
+“They are just part of the ambient essence floating around that I am able to shape into threads and use as weapons, support, to sense things, or even as a way to stand in the air like this,” Alex replied.
+
+“You can use them to sense things?” Edgar asked.
+
+“Sure,” Alex said. “I just focus on building tiny strings, then send them forward. I can feel the vibrations coming off of any living thing near them.”
+
+“And how easy are they for others to sense?”
+
+“Not very,” Alex replied. “Unless you are specifically concentrating and searching for them, or if you have extremely strong senses or skills for it, they are nearly impossible for anyone around the same level.”
+
+“Interesting…” Edgar said. “And if you were to send some into that dome of darkness? Would he be able to sense them?”
+
+“Hmm…” Alex furrowed his brow. “I am unsure. I should be able to make them small enough not to disturb the surrounding darkness, but he controls the dome, so he may still be able to sense them if he’s focused.”
+
+“And if he isn’t focused?” Edgar asked.
+
+“Then he shouldn’t be able to find them,” Alex answered. “But what’s the point? I can’t do any damage with those types of threads, and if I send ones big enough to even slow him for a moment, he’d know the instant they penetrated the dome.”
+
+“I don’t need you to do anything other than sense him,” Edgar replied. “I’ll do the rest. I’m tired of being useless.”
+
+***
+
+Derek shifted around the battlefield over and over—dodging the other man’s erosion skills that appeared as soon as he deactivated the skill. The scary thing was that as he did so, the man was slowly starting to catch on and track Derek with his eyes while he was inside a Void Shift. It was the same as how Alanah had done when they first met, but that was back when Derek wasn’t nearly as strong as he was now.
+
+The problem was that as he was starting to be able to track Derek, his skills were coming even faster. This meant that in the time it took for Derek to come out of a Void Shift and re-enter it, it was enough for the man’s skill to grind something down to the muscle, or, in a few instances… bone.
+
+I’m not going to be able to do this without going all out, Derek thought as he entered Void Shift again. He’d thought about just staying inside, but it was costly on mana because he had to pause other skills when using it. Plus… he wouldn’t be Derek if he wasn’t using a good fight to train his skills up. The more he used Void Shift like this during a fight with someone so strong, the faster the skill would grow.
+
+Suddenly, Derek exited Void Shift and heard a grunt from Nikolai as he saw him fly forward. Silvi had appeared out of nowhere as a whirlwind of blades and flew directly into the man’s back. This is a chance! Derek thought and used Active Void Shift to appear directly in front of him. He channeled his void energy into his fist as quickly as he could, activated Multi-Strike, and punched.
+
+Derek heard a light squeal from Silvi’s direction as his fist landed on the man’s temple. Nikolai was focused on his companion and wasn’t able to turn his head back in time to see Derek’s attack coming. But Derek wasn’t finished. He trusted Silvi could take care of herself, and he knew that whatever skill Nikolai had used had been interrupted by his fist.
+
+Derek’s punch was enough to send the erosion user into the ground, and Derek didn’t let up. He landed on top of the man and alternated void-covered fists as he rained down blow after blow into the man’s face and skull. “Come… On!” he shouted as he landed punch after punch, but the kill notification never came.
+
+Nikolai’s face was bloody, with cuts and breaks everywhere—parts were caved in… the man didn’t even look human anymore, but he wasn’t dead. Derek couldn’t even imagine what his brain was currently like.
+
+This was how he fought the wyverns when he was way less powerful—he never thought he’d need to do it with a human. And he’d finally used the void, so he needed to finish the fight. After showing his true affinity, the other person would either need to take an oath or die—and Nikolai didn’t seem like the type of person to give an oath to someone so many levels below him.
+
+“Just… Die!” Derek said as the man’s eyes rolled into the back of his head and his body started jerking around. He’d done something right to make the man seize like this. Suddenly, a Void Lightning Bolt landed on the man’s head between punches, and Derek yelled, “Good! Keep going!”
+
+However, Silvi was unable to do much other than launch a very occasional Void Lightning Bolt. Somehow, throughout everything, Nikolai had kept the skill that made his surroundings erode active the whole time. Silvi wasn’t like Derek when it came to her health regeneration. She didn’t have Greater Meditation to heal her through it, so she had to back away after every bolt she fired.
+
+“Why…” Derek punched. “Won’t…” He punched again. “You…” He activated Multi-Strike. “Die?!” He landed the blow on the man’s forehead, but suddenly, he felt an excruciating pain in his lower back. “Ah!” he shouted as he disappeared with Void Shift, then reappeared by Silvi.
+
+It was like a scene from a horror movie as Nikolai slowly stood up. He looked over at Derek and Silvi and started moving his head around in an odd fashion. His cheekbones popped back into place, an eyeball that had been lost during all the punches started regrowing, and Derek’s heart fell.
+
+He looked at Derek and smiled—his teeth growing back before their eyes. Nikolai brought his hand up and slapped his head a few times before shaking it. “That… was unexpected,” the man finally said. “That was pretty close. I didn’t expect you to be a void user,” he smiled a smile that matched Jace’s. “The Void Emperor will pay a premium price for you. And if I take you and your pet alive… I won’t have to worry about resources for the rest of my life.” He licked his lips.
+
+“But how are you still alive?”
+
+Nikolai snorted. “Do you really think you’re the only one gifted by the Origin System with an evolution? It is certainly rare at our stage, but not that rare. I just happen to be built perfect for it. Do you think I’d be able to stand in my own erosion without it? And my skill with meditation is much greater than your own,” he laughed. “Face it, kid… you’re outmatched. It’s not a matter of if… but when.”
+
+Derek sucked in a deep breath, then reached out and pulled the space beside him open with Void Travel. He looked at Silvi. “If things turn south, don’t hesitate to run. I may have signed us up for more than we bargained for. And I think I still have a way to escape without harming the others.”

@@ -1,0 +1,146 @@
+---
+page-type-slug: story-chapter-royal-road
+title: "Chapter 33: Rescue Plan"
+slug: 0033-chapter-33-rescue-plan
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 33
+ownLength: 1560
+unit: words
+publishedAt: 2026-08-27
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3871624/chapter-33-rescue-plan"
+royalRoadId: "3871624"
+---
+
+“What!” Marina jumped off the bed. “Hecate, this is no laughing matter. Are you sure?”
+
+“I suppose we are not thinking of the same thing.” Hecate rested her head on her palm. “Would you like me to bring you there, to see it yourself?”
+
+“Sure, it’s not like I’m afraid, but what about… Melissa’s…”
+
+“I’m not sure I caught sight of them, or if they are actually lost in those caverns,” Hecate said. “And if they are, we don’t have much of a choice but to rescue them.”
+
+“Right.” Marina sighed. “I was thinking some ants were in the caverns, but not two thousand of them. Is it possible for you to win?”
+
+“That shall depend on your definition of winning in this situation.” Hecate shrugged. “Do we win by saving the two Bee-ple, or do we win by eradicating all the ants?”
+
+“I think we need to do both,” Marina replied firmly. “What do they look like?”
+
+“Mm… They look like ants.”
+
+“No, Hecate!” Marina rolled her eyes. “I meant like, do they look tough and dangerous?”
+
+“Compared to the roach brothers we faced before, these ants do look more… refined,” Hecate patted the empty side of the bed.
+
+“Okay, can you still win?”
+
+“Are you going to send a fine maiden such as myself to meet the mercy of two thousand ants?” Hecate’s eyes widened comically. “I can’t believe this, my dear.”
+
+“I…” Marina couldn’t find the words to refute Hecate. It was a ridiculous proposal even for someone of that strength. “Sorry… I just don’t want to waste any more time.”
+
+“Then it’s best that I cut the unnecessary humor then,” Sitting up, Hecate leaned against the bed frame. “Even though there is an army of them, these creatures operate based on the commands of their leader, the queen.”
+
+“So they operate like a hivemind?” Marina pondered.
+
+“Indeed, if we can take down their queen, the army would scatter like sand in a dust storm.” Hecate clutched her fist. “Here is also where the difficulty arrives; if either of us were spotted, the entire nest would be informed almost immediately.”
+
+“Then it’s best that I don’t go in with you, right?”
+
+“No, my dear, I would much need your assistance.” Hecate said, “You will have to search and guide the two innocent bees while I attempt to assassinate their queen, due to the possibility of unfavorable circumstances.”
+
+“There is no way I can do that on my own!” Marina took a few steps back. “As you said, if either of us were spotted, we would be doomed. And there is no way for me to stay hidden in front of those beings. I’m just a nobody.”
+
+“First of all, I shall provide you with the necessary tools. Second of all, you are not just a nobody; you are Marina Verne, the future consort to House Magdelena.” Hecate announced proudly. “Thus, you are whom I trust the most.”
+
+“The what to the who?” Marina wrinkled her face in confusion. “Okay, if even I’m really all that, I still won’t be able to do anything if it really starts going downhill. I can’t throw a punch, Hecate!”
+
+“And you won’t have to; that is my goal.”
+
+“What if the two Bee-ple aren’t anywhere to be seen?” Marina continued her bombardment of hypotheticals.
+
+“Then you shall perform a strategic retreat.” Hecate said, “And if you do find the two, then the three of you shall perform a strategic retreat, together.”
+
+“What if I—”
+
+“My dear,” Hecate interrupted. “You were saying we shouldn’t waste any more time, so why don’t we get going now. And while we are on our way there, you could analyze these situations in closer detail.”
+
+“We’re going right now?”
+
+“Do you not want to hurry?” Hecate tilted her head. “I suppose arriving after the ants had devoured Mrs. Alpis’ family would make your tasks much simpler.”
+
+“No, Hecate, I meant… ugh!” Marina yelped in frustration. “Let me put on my shoes first!”
+
+*****
+
+Gliding through the maroon-colored sky, Hecate sliced through the clouds with her wing of bones, which spanned five feet on both sides. Marina kept her eyes closed for most of the trip, though she would sometimes peek down at the landscape below. It was a breathtaking sight from hundreds of feet in the air. Most of the land was filled with lush, blue trees that spread seamlessly from patch to patch like carpet. But she couldn’t admire this glamorous beauty for more than mere seconds, as the fear of gravity inevitably pulling her to her death overwhelmed her senses. This happened several times, and her grasp upon Hecate’s body grew tighter each time.
+
+Shifting her body downward, Hecate prepared her landing sequence, which consisted of only one maneuver for the majority of the time. Her wings folded behind her as the two of them nose-dived straight for the earth below.
+
+Compared to the fear of imagining herself falling, Marina decided she was more afraid of the actual fall itself.
+
+Hecate’s wings expanded back to their fullest, slowing the descent as the two of them floated alongside the tallest of the tall trees. Gradually, with Marina in her arms, Hecate lowered onto the forest floor covered by a layer of foliage.
+
+“You may open your eyes now, my dear,” Hecate said, setting Marina onto her feet.
+
+“Oh, we’re here.” Marina patted off the leaves that made their way onto her cloak. “I still need to get used to skydiving on a daily basis.” She looked around. “So, where is this cave?”
+
+“It is only a dozen strides ahead.” Hecate gestured.
+
+Nodding her head, Marina followed Hecate’s steps. This part of the forest is much more ragged than the one near the village, with the clear absence of a traversable path. Even though the walk to the mysterious cavern wasn’t exactly considered long, it was still rather tiring due to the natural debris and the obscenely weak dirt ground, lacking any sort of infrastructure.
+
+“Ugh,” Marina hopped onto the much more manageable path formed from shattered boulders. “Is this it?” She pointed to the black doorway to oblivion carved into the side of a tall hill, seemingly to always open and never to close.
+
+“Indeed,” Hecate replied.
+
+“Ladies first, then.” Marina waved with a smirk.
+
+“Ah. The cost of being presentable…” Hecate sighed. “How has the world become such a cruel place for fine ladies that we must take the lead at all times? Is this the death of chivalry?”
+
+“We need to hurry, Hecate!” Marina rolled her eyes. “You already went in once unscathed; you can do it again.”
+
+“Yes, yes, my dear, I shall lead the way now.” She took her first step into the darkness. “Do follow me closely. It’s easy to get lost.”
+
+“I will.” As Marina entered alongside Hecate, all the sources of light seemed to have been sucked away ahead of her. She could not see a thing. “Hecate…”
+
+“Yes?”
+
+“I think the river’s powers have worn off…” Marina grabbed onto the fabric of Hecate’s dress. “I can’t see anything.”
+
+“Does your System provide any tools that may be of assistance?” Hecate asked?
+
+“I don’t think so…”
+
+“How inconvenient. There is now only one solution that will save us the most amount of time.”
+
+“And that is…?” Marina raised a brow.
+
+“The inner caverns are lit with minerals and crystals,” Hecate said, snatching Marina’s hand by the wrist before pulling her close. “We would have to move like this until then.”
+
+“G-good idea…” Marina held onto Hecate’s arm. “Very good idea.”
+
+Traversing through the cave, Marina found no difference between when her eyes were open or closed. Though momentarily, they would come across the glittering of white crystals that provided just enough luminosity, like stars shining upon a gloomy night, reminding Marina of a hopeful sunrise.
+
+As they moved deeper and deeper, a sound of chittering and chirping grew progressively stronger. The conclusion of a bad dream was just an introduction to a better nightmare. Marina knew what she was going to face and prepared herself mentally.
+
+“Are you nervous, my dear?” Hecate rested her other hand upon Marina’s.
+
+“O-of course not.” Marina refuted. The sudden chill from Hecate’s skinny fingers was rather calming. “Why would I be?”
+
+“You’re sweating.” Hecate pointed out.
+
+“It’s just a little bit hot, okay?” Marina shook her head. “How do I use this cloak to go invisible?”
+
+“It’s very simple. Just issue a magical line of code, then it shall trigger its effects.” Hecate replied.
+
+“Which is…?”
+
+“The one that I always use goes like this: Oh, the Great Eternal Lady Hecate, bestow your protection upon me.” Hecate opened her arms upwards. “And the cloak shall operate without issue.”
+
+“I…” Marina glared, converting all her fear into anger and frustration. “I am not saying that under any circumstance! I would rather go in without it, even if I get torn to shreds!”
+
+“Well, that would be absolutely terrible, and I would be incredibly sad,” Hecate said. “So I have just designed a new magical line of code: corn.”
+
+“Corn,” Marina repeated. A surge of energy washed over her. Transforming her body into a semi-transparent state. “It actually works. That’s much better. Can you still see me?”
+
+“Of course.” Hecate nodded. “Now that is settled, let us complete what we were here for.”
+
+“...”

@@ -1,0 +1,369 @@
+---
+id: bd993ada-88a9-5e4d-8373-3021ca535876
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 433"
+slug: 0132-the-path-of-ascension-chapter-433
+partOf: the-path-of-ascension
+position: 132
+ownLength: 5494
+unit: words
+ownProgress: 5494
+publishedAt: 2025-08-08
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2502879/the-path-of-ascension-chapter-433"
+royalRoadId: "2502879"
+markedReadAt: "2026-06-29T19:33:57.430Z"
+---
+
+Chapter 433
+
+Matt opened his eyes as he stood up from where he was sitting, wishing he had another week or two before he needed to stop, but his [AI] had let him know it was time to get going.
+
+He had been finishing up the last of the modifications to his [AI] in preparation for his upgrade. It had been close, but he got to where he wanted to be just in time for the end of war Minkalla meeting between the Federation and the Monster Collective. He had planned to be entirely done so he could get Max’s approval for the next steps.
+
+They didn't necessarily have to go, but Gideon and Eclavorn had announced they had something important to share and stipulated they would only do so in person. Given that the war between their Great Power and their former Great Power was ending about a decade earlier than anyone, including him, had expected, the proclamation made for tempting bait the Empire Ascenders just couldn’t resist.
+
+Exiting the meditation room, Matt did a quick check and found their ride looming large over Palustris’ capital city, where their island was floating.
+
+Lila’s ship was modeled off her dragon form, complete with movable wings and tail which were flapping above his planet.
+
+Matt looked agape, wanting to go back inside.
+
+He had known Lila had a hoard and loved a lot of the stereotypical dragon tendencies, but it was incredibly embarrassing to have such a ship, let alone actually use it in such a flaunting manner.
+
+Aster poked her head out of a spatial fissure and snorted. “And you guys complained about my idea for an ice cream ship. I think her new ship turned out great.”
+
+Allie’s head appeared next to Aster’s, shaking back and forth. “I’m a gaudy bitch, but this is a step too far. Do you think I can buy one in human form?” Turning to Matt, she asked, “Can we get a pull? Kinda stuck between realities.”
+
+Feeling Aster's sheepish expectancy, Matt reached out and dragged the duo fully into reality. As he fully extricated them, he found himself dragged into the spatial fold where a pile of snow was dropped onto his head.
+
+Shivering, Matt tore himself free, trying to shake all of the snow off of himself like a dog, wanting to get the duo back for their prank. As quick as he was, he was still slower than Aster and Allie, who flew laughing to the ship, their pillows and blankets clutched close.
+
+Remembering their little prank for later, Matt waited for Liz and flew up to the ship with her.
+
+She, however, had no mercy. “You really fell for that?”
+
+Matt sighed, having hoped she managed to miss that. “Let's just say Aster played her part well. I thought they really had been stuck. Do you have the aura samples?”
+
+Liz shook her hand, and a small bottle of intangibility aura appeared. “Got 'em. Sien and Maya are going to pay out the nose for this.”
+
+Matt laughed and had to resist rubbing his hands together like a villain. Titan’s Torch, in the pursuit of creating a mirror aura for Ernest Baxter’s Knightly Order, had stumbled upon something else.
+
+It wasn’t exactly intangibility aura, in that it wasn't a match for the known intangibility mana types, but it did exhibit similar properties.
+
+Their brief mention of it in the Ascender chat had both of the reality specialists keenly interested and wanting to bet for the samples.
+
+Being the youngest Ascenders, they had correspondingly few things to offer, so having such was good for all five of them. Though, Zack and Allie had agreed to pay some amount of value if they did bet and lose it. The three of them already internally agreed to not accept any such effort to pay them back should the worst happen, but they appreciated the gesture.
+
+Personally, Matt was slightly more miffed about the damn thing’s creation and their total inability to recreate the rift in question, but it was a close comparison.
+
+The team who discovered it had been going for a mirror aura based on the mana samples they had been given. Light and reflection were the main mana types they had been using. But with no true successes, the team started playing around with related mana types in the rift’s formation, hoping to stumble upon a new avenue to explore.
+
+They had been having decent success with an added heaping of shadow mana at Tier 3 and Tier 4 Tier ups, but as a result of that added instability, their rift had de-aspected on the Tier up to Tier 4. As such, they had only been testing the rift to do their due diligence when they discovered a rift full of incorporeal monsters leaking aura.
+
+Being made during a de-aspecting made it basically impossible to recreate. Even the team in question was trying to figure out what had happened, because it was one of only a handful of instances where a rift de-aspected upon a Tier up and was still an aura rift. Matt suspected that was a hopeless endeavor until the field became far more advanced, but didn’t try to stop them either.
+
+It was a useful side project.
+
+Still, they had a unique aura type and were willing to bet its product to people who might be interested.
+
+A small part of Matt almost felt guilty that he was bartering with such materials, but given its status as a fluke and it being nearly impossible to recreate except by copying the rift in question entirely, he didn’t feel too bad.
+
+After one last check on the duchy, Matt opened a [Portal] instead of flying up directly.
+
+As he and Liz stepped out of the portal, Matt smiled at their reception.
+
+Lila waved at them impatiently. “Get inside so we can leave. Tur'stal’s convoy is waiting for us. Chop, chop.”
+
+Matt tried to think of a quip, but Liz beat him to it. “This looks awful, Lila.”
+
+Lila snorted. “Looks an awful lot like me, you mean.”
+
+“That too. Maybe it's the same thing?”
+
+Matt didn’t miss the piles of sand that gathered in the corners and crevices as they stepped inside.
+
+The moment they did, they were transported via a river of sand to the center of the ship, where they found everyone else waiting for them, including Zack, Susanne, Rah, Aiden, as well as a few of Aiden and Lila’s closest friends— or rather their delving-capable same-Tier friends.
+
+Aster and Allie arrived a moment later on a similar river of sand, each still clutching their pillow and blanket.
+
+As Lila dug herself into a sand pit, lowering her head to a comfortable talking height, they all began chatting, with Aiden poking Matt in the side. “I smell something foul on you.”
+
+Matt blinked, mildly offended. Once he confirmed that he didn’t in fact stink, he glowered.
+
+“That’s fucked up to say.”
+
+Aiden leaned forward and sniffed several times before leaning back. “No, I can smell it. You smell like a Power. Didn’t I say that shit was useless?”
+
+Matt rolled his eyes. “Fuck you. And I said it's useful for everyone not named you. In fact, I’m struggling on how I’m supposed to boost a part of myself. It’s so damn hard getting a single part of myself out of harmonization without sending everything else out of whack that I barely get minor boosts, if I get anything at all.”
+
+Instead of being helpful, Aiden started opening and closing his hands like they were a mouth. “Blah, blah, blah. Shit’s useless stuff anyway, I already told you that, but if you want my advice, because obviously you do—”
+
+“I really don’t.”
+
+Matt’s comment was ignored as Aiden continued. “What you need to do is use your harmonization to amplify a single part of yourself. That means singling out a single part of yourself. As for how to do that, I have no clue, but it can’t be that hard. Try different things until something clicks.”
+
+At first, Matt was nearly surprised by what seemed like coherent advice from Aiden, but before actually saying something helpful, he reverted to his normal useless advice.
+
+Pushing himself forward slightly, Matt asked Lila, “Have you dabbled with Powers at all?”
+
+Lila caused a small wave of sand to lap at his feet as she said, “Nope. Or at least not the second stage, which is what you really meant. Most of us have at least that much. I know Eclavorn has gotten to the third stage. Might ask him for some advice after he's done having a hissy fit at your Truth. We think Maya has gotten to the second stage as well, but that's speculation. Same goes for Sien, but no one’s ever been able to prove that either way.”
+
+Matt wasn’t that surprised and let the topic drop, listening to the others chat as they met up and merged with Tur'stal’s convoy. The second stage was something few people ever managed.
+
+With the plant-themed Royal were clones of Manny, Rusty, and Harper, but the four of them were holed up and not accepting outside visitors of any kind.
+
+Matt didn’t mind and used the time to relax while catching up on both war fronts and finishing his [AI] modifications.
+
+The Republic and Clans war had only been going on for less than a hundred years, and so hadn’t really pushed their battle lines beyond a few border worlds that were occupied, neither side having fully committed yet.
+
+As the Republic had just been at war with the Empire, a majority of their soldiers were recently battle-tested in one of the fiercest wars since the Monster Collective rebellion, and as such, had fared slightly better under the initial wave of attacks with fewer total losses.
+
+Not that the Clans’ warriors were inexperienced as a whole; they had their own immortal contingents who had fought in many, many wars. Rather, in their initial attack, the Clans had mostly fielded their newest generation of soldiers, letting them gain combat experience the fast and brutal way.
+
+What caught Matt’s eye in the battle records was that their old acquaintance Seasaidh had disguised herself and her weapon and was fighting on the lower-ranked battlefields. She wasn’t using her greater power to crush the non-elites. In fact she hadn’t even used her mace except when she was ambushed. She seemed intent to hone her skills from the bottom up, which was admirable.
+
+More personally interesting were their fellow Ascenders.
+
+Maya and On The Last Line had clashed once early in the war, with Maya revealing she had only been using a Domain clone while she forced back an attacking elite army halfway across the Republic on another battlefield.
+
+Not that the Clans Ascenders let that go without retaliation. They returned her actions by diving deeper into Republic space and smashing a major supply depot, which Matt found amusing, given that they had done something similar.
+
+Inside of the Ascender chat, Matt got to see a slightly different story than what most did. Both sides sniped at each other in the general chat, endlessly trying to bait each other into a stand up fight on their own terms.
+
+He didn’t quite know what he was expecting, given the war was a generally friendly one, as much as such things could be, but it hadn’t been that.
+
+On the other hand, the Federation and Monster Collective war had been far more interesting, given their past rivalry.
+
+The two sides hated each other with a passion, and Matt, along with everyone else, were surprised that things were ending as quickly as they had, with the war lasting only two hundred and fifty odd years. Doubly so when one considered the Federation’s front lines were about to collapse.
+
+That was the weirdest part.
+
+While the Federation was willing to fight to the bitter end, their war with the Empire had left them battered and bruised. So when the Monster Collective attacked, it was all they could do to not get shoved into their core regions. Except, just as the Federation was about to buckle after holding on for so long, the Monster Collective accepted the call for peace.
+
+If the two sides didn’t hate each other to the bone, Matt would have thought they were like the Clans and Republic, having a mostly friendly war, if any war could be called as such.
+
+The Federation should have lost the war handily, but reported concessions were minimal and further complicated by the Monster Collective refusing planets and demanding correspondingly more resources.
+
+Given the enmity between the two, that was probably the right call, but it became a sticking point. According to Lila, who had more experience, it was one of the things to be hammered out during the peace deal with the other Tier 50s, which Matt found slightly disappointing.
+
+He wouldn’t have minded seeing the Federation take a black eye. No matter how bad the war was, unless it escalated into a true war, it wouldn’t seriously cripple the Great Power so long as they had a Tier 50.
+
+Notably, a lot of the Federation victories, as few as they were, came from their specialized anti-bloodline tech. Developed while they still subjugated bloodline cultivators before the split, their countermeasures proved effective, making up for their fewer numbers.
+
+It wasn't that the Monster Collective’s troops were weak, but more so that they hadn’t fought in any major wars since their independence, and so had a much larger ratio of fresh troops, especially at the lower Tiers.
+
+That fact was why Matt personally believed the Monster Collective was willing to sign a peace deal so close to a decisive win. The Monster Collective’s average troop strength was on the rise, and they were able to fill in their casualties with fresh troops, but they wanted to give those troops time to grow up instead of being sent into a meat grinder of the Federation holding out on a smaller number of total worlds.
+
+Or at least, it was the best reason he could think of, given he was pretty sure Tobias wasn’t suddenly being nice to his most hated enemy.
+
+That, and further incursion on an already weakened enemy risked escalating the war into a true war, which neither side actually wanted.
+
+Or rather, neither side thought they had a guaranteed victory and so were unwilling to risk doing so with five other Great Powers more than happy to jump on a weakened victor.
+
+Looking over the final battle lines, Matt quickly reviewed the advances and retreats.
+
+The Federation actually had less of its territories occupied than the Empire had in their war. All he could see was how they were about to collapse and lose thousands of worlds before the armistice went into effect. He couldn’t help but wonder what the real reason for the peace deal was, and hoped Gideon knew.
+
+His musings were interrupted by them arriving at Minkalla.
+
+Tur'stal appeared inside of Lila’s ship the moment they did so, rising out of the sand with a blooming desert flower that mimicked her movements. “Listen up, the Emperor is not here to bail you out, so do not go around making trouble. We're keeping our heads down this meeting. Remember that.”
+
+Matt nodded, not wanting to get caught up in whatever the others were going to inevitably get mixed up in, but still earned a hard glare from Tur'stal.
+
+He was mildly offended, but she left, her plant withering into dust as quickly as it had arrived, before he could defend himself.
+
+Allie tutted. “Look, now mom’s mad at us. I told you guys to clean your rooms before we arrived.”
+
+Lila stood up to her full height, her head nearly brushing the ceiling as she looked down on Matt. “Okay Matt, portal us to the Corporations’ Minkalla base.”
+
+Matt didn’t mind helping where he could, given that Allie couldn't teleport with Aiden or Lila, but he wasn’t sure why they had to teleport at all. The duo were higher Tier and could run there just as fast as any [Portal] taken at Tier 28 speeds.
+
+As his gaze went to a grinning Aiden, Matt felt a sinking feeling that he was being used to set up a larger play.
+
+He briefly considered refusing to see what would happen, but instead cast the spell with the other end appearing in Max’s room on the space station.
+
+They quickly filed through with Matt coming face to face with Max, who stared at him unblinkingly for a moment just inches away.
+
+“Hello?”
+
+Max continued to stare for another moment before she snorted and sent him a private [AI] message. “I’m annoyed with you right now.”
+
+Matt raised a silent eyebrow even as he closed his [Portal]. He didn’t feel any danger, and with Lila right next to him, he was safe, unless one of the Realm’s Royals decided to act personally.
+
+Instead of getting annoyed, Max nodded continuously. “Keeping myself from realizing your Talent is costing me almost 0.01% of my total minds. It's quite annoying. Mind telling me what it is so I can open them up.”
+
+A shiver went down Matt’s spine, but he didn’t let it show. He had always known, or at least heavily suspected, that Max had already figured out his Talent, but he knew she had been paid by Manny to not reveal any information to anyone, not even herself. Still, hearing it said so bluntly made him uncomfortable.
+
+What he hadn’t known was that she was shutting down her minds. Given what he saw of her mind space, 0.01% could be dozens, if not hundreds, of minds, and the thought made him shudder.
+
+How many times had she put things together?
+
+Or no. Matt corrected himself.
+
+How many times did Max think she had figured out Matt’s Talent?
+
+While she was probably correct at least once, she wasn’t necessarily always correct.
+
+That was a minor relief, and Matt tried his best to play the comment off, even as none of the other Ascenders said anything about their silent communication.
+
+“Not today,” he eventually replied, and felt the playful annoyance from Max. It wasn’t serious though, he could also feel the bit of excitement that came from her being excited by an increased challenge.
+
+Max snorted lightly even as she leaned away. “Gah. Fine. You’re lucky I’ve got my principles. Also that I like you. Because I don’t get it. I was only paid to erase the minds’ last few seconds of thought process but, instead of following that procedure, the minds are fully shutting down and putting themselves on cold storage. That's only short of a self deletion, and I don’t sell either of those levels of security to anyone. So what is your Talent that made almost a dozen minds shut themselves down as soon as I saw you [Portal] inside?”
+
+“Why are they doing that? Seems strange,” Matt deflected.
+
+Max leaned in even closer, her fractal pulsating. “I don’t know. That's why I’m asking. None of my main minds figured anything out. It was all subroutines, information processing minds, and extrapolation minds that did so. I simply can’t figure out why they are choosing to go that far. I like you, but I’m not sure I like you that much, ya know.”
+
+Matt inextricably felt slightly better at hearing that, though he couldn’t put his finger on why. It might have been her cold reading him and playing up her helplessness, but given their time together with the mental training, Matt believed he had a pretty good understanding of Max and it didn’t feel like she was doing that.
+
+She was making some friendly complaints, like he would when Allie demanded a snack or when Zack needed help processing a complicated problem on Matt’s [AI].
+
+Finally, Wun got tired of the silent communication and leaned in and blinked at Matt’s face. “What are we looking at? Oh. I see it. You missed a spot when you trimmed your beard.”
+
+Thoroughly insulted, Matt lost his train of thought. He most certainly hadn’t.
+
+Max, however, laughed as she backed away. “Oh nothing. I was just looking at Matt’s efforts of getting his [AI] ready for a full integration. Slightly behind schedule, but enough is done we can start cutting into his brain shortly.”
+
+A small stutter passed through their connection, and a new chat log regarding some details about Matt’s [AI] integration backfilled in his messages, complete with accurate responses from him as part of his side of the conversation.
+
+“But yeah, it looks good,” the last message came through, then she piped up vocally, “Let me know when you’re ready for the brain surgery to start!”
+
+Oliver snorted. “That's bullshit. However, I hear you guys are working on Powers. That's fun. My rates for lessons aren’t cheap, so do pay up.”
+
+Sien glided over, nodding. “Speaking of payments, I hear you brought a sample. Let me see.”
+
+Liz was about to bring out the sample bottle when Matt met Eclavorn’s gaze and decided to get the unpleasantness out of the way first.
+
+“Oh. I want to share this now, while everyone is here. My Truth shares a passing resemblance to Charl’s Truth in wording, but they are polar opposites.”
+
+“I can vouch that it's different.” Max’s comment went unnoticed as Matt’s words caught everyone's attention.
+
+The only people who didn’t react were those who had already known, being the Empire group, the five Clans Ascenders, and Max.
+
+Even the Maya clone looked taken aback and ready to fight.
+
+Eclavorn, however, reacted exactly as Max expected.
+
+Plasma started leaking from his maw as he growled, “Explain.”
+
+Matt didn’t back down even an inch, letting his gaze meet and hold the dragon’s.
+
+It wasn't easy.
+
+Eclavorn was Tier 40 and a Rank 3 bloodline, making him an Elder Dragon with the corresponding ability known as dragon fear.
+
+It was similar to the Sects’ general domain ability to spread and manifest their emotions, but it was stronger and more insidious.
+
+The air trembled under Eclavorn’s building rage, making a part of Matt want to quiver in instinctual fear.
+
+However, Eclavorn wasn’t the only one watching with their full attention locked onto Matt. Even Sien looked like she was ready to react should his explanation not be good enough.
+
+“I said I discovered my Truth and it apparently shares a surface similarity to Master of All’s in Empire standard. I am the Master of My Own Destiny.” Seeing the anger of the group build even higher, Matt started cycling languages as he repeated his Truth.
+
+It was only once he said his Truth in three different Sects dialects that everyone except Eclavorn relaxed.
+
+Even Eclavorn’s bond, Gideon, stopped looking so hostile, but the dragon seemed unphased by Matt’s explanation.
+
+“I don’t like it.”
+
+Sien waved the dragon's concern away. “It's fine. Worse in Empire, I do agree, but it's radically different in Sect, so furl up your wings there, you big baby.”
+
+Eclavorn didn’t relent. “There is only one way to really know if it's real or a fabrication. I won’t have the only place I can truly relax in tainted by another Charl.”
+
+Feeling the rising tension, Matt was ready when Eclavorn jumped at him.
+
+Bringing out his blade, Matt slammed a [Tribulation Strike] on the dragon’s snout, evaporating half of the room they were in.
+
+Together, they plowed through the Tier 0 Corporations space station as if it didn’t exist, metal tearing like tissue paper.
+
+The fact that Matt could react at all to the Tier 40’s attack showed he wasn’t actually aiming for a kill, but rather some form of test.
+
+If he wanted a fight, Matt was more than willing to give him one, though he felt it was childish to settle things like that.
+
+Seeing that their surroundings were clear of people, Matt slammed a fist into Eclavorn’s nose and cast [Mana Beam], trying to burrow a cut through his skull to his brain. It wouldn't have done much, given their Tier gap, but Eclavorn had lowered his cultivation to match Matt’s.
+
+Sadly, the other Ascender had long since removed such a weakness, and Matt’s spell splashed off a bone and scattered everywhere. That lance of mana would have caused untold devastation if Lila hadn’t stopped the beams a few feet away from their fight.
+
+He wasn’t sure who had moved all of the people out of their way, but when they finally pierced the outer end of the space station, both of them stopped holding back.
+
+Matt cast a quickly powered up [Breach] the moment they had gotten some distance, but the skill harmless splashed on the twenty copies of magical armor Eclavorn summoned.
+
+Despite being a bond, Eclavorn wasn’t born as a rift-dropped bond egg, but instead chose to bond with Gideon of his own free will, which meant he didn’t have the typical dragon Talent set. The Federation had long outlawed any method which could increase a bloodline’s average strength, including the potions that could guarantee a bloodline's default Talent. It had simply backfired in Eclavorn’s case.
+
+Instead of getting a weaker Talent, he got something far more powerful, as evidenced by his shields.
+
+When he cast a spell, he was able to create copies of the cast up to half his Tier, making every one of his skills incredibly strong.
+
+And that was when he wasn’t abusing his Talent.
+
+Instead of twenty [Meteor Swarm]s of compressed plasma, Matt found himself facing sixty, as Eclavorn [Barrage]d the spell, his Talent amplifying the already multiplied spell.
+
+Matt found it interesting being on the other side of such a tactic, given he was usually the one throwing around spells like they cost nothing, but his anger prevented him from really enjoying the moment.
+
+Flooding [Cracked Phantom Armor] with plasma mana to aspect it, Matt easily pushed through the wave of attacks to swing at Eclavorn with his blade.
+
+The dragon was entirely unafraid of such a collision and met sword with claw, blocking Matt’s attack but still earning several cracked and damaged scales as the layered attack spells washed over him.
+
+“Is this really necessary?”
+
+Matt sent the message not really expecting an answer, but to his surprise, Eclavorn responded immediately.
+
+“Yes! I refuse to allow another Charl. You may seem different, but this is the second major similarity. I wasn’t able to test you when we first met, but I’ll taste your measure today or die trying.”
+
+Part of Matt understood, but he was irritated at the repeated accusations.
+
+Even as they exchanged another round of attacks, Matt said, “That's bullshit and you know it. I’m no more similar to him than Allie or Zack.”
+
+As Eclavorn spoke, Matt felt a rising tide of fear. “If that was true, then why do you act so much like him? Secrecy beyond the norm for your Talent might be understandable, but we know what it is well enough that it shouldn’t be a sore spot, yet it is. Your actions to the mortals also resonate with him. You demand mortals respect you, which is exactly like him, always requiring obeisance and taking it as a personal slight when he didn’t get it.”
+
+As he finished, a flurry of what looked like [Fireball]s arched out at Matt in parabolic trajectories that followed him even as he dodged.
+
+It was [Wrath of Eclavorn] and a fairly famous Tier 38 homing spell in the Monster Collective.
+
+An original of Eclavorn’s, he had designed the spell to not only contain simple fire, but for each projectile to hold a core of plasma that grew stronger the farther the spell traveled.
+
+[Cracked Phantom Armor] struggled against the dual energy attacks, as whilst fire and plasma’s elemental composition was similar, aspecting it to either still allowed too much of the other through. Matt was pierced dozens of times, only managing to protect his head from the onslaught, ensuring nothing was even close to lethal.
+
+It might be a spar with no one else intervening, but Matt was angry and felt a trace of fear that only seemed to grow as they fought.
+
+“I demand nothing from the mortals. I’m simply trying to help them. And yeah, it pisses me off when people take my inventions or try to steal them. Who wouldn’t be angry at that? Even if I’m giving the stuff away, it's still mine to do so. Calling me out for that is hypocritical as shit. If someone stole something of yours you’d fight back just like me. As for my Talent. Obviously, it's my secret. I won’t share the details any more than you would. I—”
+
+Matt realized his growing fear was unusual as his entire being started to resonate against the outside influence.
+
+“You hit me with a fear spell?”
+
+Eclavorn grinned as his attacks stopped, but it wasn’t a friendly expression. “Obviously. And all were boosted, so it was more like sixty. What do you fear, Alpha Titan?”
+
+The combination of the spells still bearing down on him, as well as Eclavorn’s dragon fear, was palpable and almost made Matt lash back out. But instead, he concentrated inward.
+
+His entire being was in resonance, perfectly in sync, but as he tried to amplify a part of the whole, Matt felt himself start to fall out of his harmonized state. It was a stumbling block that most people never figured out how to cross, but one he felt he was close to grasping, so long as he could make an iota of progress.
+
+Still, if this wasn't an actual fight, but a test, Matt knew what he needed to do. “I sure as shit don't fear you, Eclavorn. I am the Master of My Own Destiny. Not yours, nor anyone else's.”
+
+Eclavorn took in a deep breath before nodding slightly. “I can taste the Truth on you. I don’t like it, but I can admit that it's sufficiently self-focused to be different from Charl’s. But do know, I’ll be watching.”
+
+Matt’s patience had run its course and he spat right back, “Fuck you. I owe you nothing.”
+
+Instead of getting angry, Eclavorn seemed mollified. “So be it. I hardly mind being the bad guy to protect what I consider important.”
+
+That just made Matt even angrier as the dragon was reasonable in his desire, even if not his method of finding out the truth.
+
+Matt debated saying something else, but instead cast a [Portal] back to Max’s already-repaired room, letting it close before Eclavorn could follow him. They hadn't made it that far, but he was being petty and the slight it felt good.
+
+Max clapped. “Well done, E. Nearly half a million people could have died thanks to your little stunt.”
+
+Eclavorn seemed unbothered. “There is no one here lower than Tier 5, so a simple rapid decompression wouldn’t instantly kill them. And even if they were unawakened mortals, I would have protected them if one of you hadn’t stepped in. I had everything under control. Send me the bill. Then don’t lecture me about things you don’t even care about yourself.”
+
+Aster and Liz, however, weren’t so easily mollified. Each was in full battle gear and looked ready for a fight. So were Allie, Zack, Susanne, and Rah in fact.
+
+Gideon, however, stepped forward to play peacemaker. “Okay, let’s calm down slightly and talk this through. We really don’t need more fighting. And if we are going to fight, we might as well do it properly.”
+
+Phoenix Liz screeched at Gideon, but Eclavorn replied, “I won’t apologize, don't waste your breath.”
+
+Matt held up a hand. “It's over. I have enough empathy that I get why everyone is wary. But let's put this to rest here. I’m nothing like Charl. I don’t want anyone treated like he treated people. That's why I’ve worked so hard to help the lower Tiers. With more resources at their disposal, they are less able to be taken advantage of. Not because I want to gloat or lord my status over them.”
+
+Eclavorn looked unconvinced, but Gideon nodded and moved to clap Matt on the shoulder. “I like it. Let's have a drink and put this all behind us. Besides, we have interesting news to share. News that will make everyone forget about this and has the opportunity to make us all even stronger.”
+
+It wasn't over. Not yet and not fully, but Matt allowed the others to play peacemaker, not wanting to reignite things. He was, however, perfectly willing to escalate them if they kicked back off, but he doubted that would happen so soon.
+
+And if he was being honest with himself, he wanted to know what Gideon had to say that was so important that he felt the need to bring all of them and their friends along.

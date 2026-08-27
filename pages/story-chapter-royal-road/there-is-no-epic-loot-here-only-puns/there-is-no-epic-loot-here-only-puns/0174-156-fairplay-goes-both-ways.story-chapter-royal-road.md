@@ -1,0 +1,339 @@
+---
+id: 9edcdc7a-80cd-5e45-a862-cc71a8ae1f81
+page-type-slug: story-chapter-royal-road
+title: "156: Fairplay goes Both  Ways"
+slug: 0174-156-fairplay-goes-both-ways
+partOf: there-is-no-epic-loot-here-only-puns
+position: 174
+ownLength: 3505
+unit: words
+publishedAt: 2022-05-21
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/911112/156-fairplay-goes-both-ways"
+royalRoadId: "911112"
+---
+
+"Who are they?" Delta asked curiously as people in nearly white uniforms entered the Dungeon with a clinical formation and using odd hand signs to communicate with each other.
+
+"No, you promised you'd work on the third floor more. Do not sit here and watch these people for hours," Nu cut off Delta's wandering idea of doing just that, but before she could argue. Ruli stepped in, looking particularly feral as she spoke to the other people.
+
+"You know the rules. Ma still has the ownership for now so you sack of griffon craps keep things tame," she warned and the leading man stiffly nodded as if he considered Ruli... beneath him.
+
+Delta's 'like-o-meter' began to dip slightly.
+
+"Of course, Miss Darknessbane. I presume you'll give the same speech to the other five groups that you forced to wait outside in the spirit of 'fairness'? Really now, people vs a Dungeon is already an unjust game, but we will cooperate," the man said with a milquetoast smile that looked as real as the back side of the moon.
+
+"You act like you have a choice, big man," Ruli said, her eyes flicking to Delta briefly but didn't overtly react to Delta's presence.
+
+"Not right now, but things change... things always change," the leader agreed and turned to look around the waiting hall as one of his men checked the memorial hall.
+
+"Nothing of worth in there, sir. A kill count," the soldier said briskly as he returned.
+
+Nothing... of worth?
+
+"Geytan, sir," a woman called, standing near the tribute bowls as Ruli's neck turned dark with building blood pressure.
+
+"It's fine," Delta said to her softly and Ruli shook her head almost too slowly to be seen.
+
+"It's not. None of this is fine," she replied. Each of the people placed a single copper coin in the bowl with no real expression as if the action was habit and not a conscious choice.
+
+Inhaling, Delta bowed her head to them.
+
+"Thank you for the contributions," she said, deciding to try and be the better person.
+
+"Go. I'll watch these ones. I have a feeling they won't make you happy," Nu said as he crossed his floating hands over his screen.
+
+"I should be here... as the Core, to..." Delta trailed off as Cois stood outside the hall.
+
+"Greetings mortals. I am-" he began and Delta covered her eyes as there was a meaty thunking noise.
+
+She began to open her eyes when Nu blocked her view.
+
+"Don't." he said softly.
+
+The man known as Geytan lowered his wrist-mounted crossbow with an exhale.
+
+"First blood is ours," he called and the other people began to clap and cheer.
+
+A screen popped up next to Delta.
+
+'Cois will respawn in three hours'
+
+Delta had a choice. A horrible choice.
+
+To bend over backwards for people who didn't give one iota of care for her or her people... or to be the Core that the Dungeon needed when it was clear some people saw kindness as weakness.
+
+Delta made that choice.
+
+"Nu, I'll be on the third floor, touching things up. I leave you in charge," she said quietly before she looked hard at Nu.
+
+"Be better than them," she reminded him and flew through the walls without looking back. Cois was still... breaking down and she wanted to be as far away from that scene as possible.
+
+Delta just hoped she hadn't added five new names to her Memorial Wall.
+
+---
+
+Nu stared at where Delta had been moments prior. He knew he should feel ecstatic, joyful, and insanely happy to be given the go-ahead to make these people miserable beyond belief, but annoyingly... Nu felt a touch of anger.
+
+Only he and a few select others were allowed to make Delta feel anything but joy.
+
+Nu wanted this power, but he didn't want it if it meant Delta ran off in tears.
+
+He rolled his fingers as before him, a screen began to shift like a dial.
+
+'Stage 2: Experience, Hum, Learn' has been increased to 'Stage 3: Warned, Listen, Sweat'.
+
+All Dungeon Floors are now alert.
+
+He tried to crank it a bit harder, but the dial remained stuck for the moment. Nu supposed it would take a few more cardinal sins from these fellows to push it higher.
+
+Turning, he watched as the group headed down the tunnel. He saw their symbol on their back and frowned.
+
+So... Fairplay was finally here.
+
+The sight of their symbol infuriated Nu for a reason he couldn't quite fathom.
+
+"Obstacle ahead and potential resource. Action?" a grunt called to Geytan who eyed the room before running a finger over his sleek uniform. The webs in the Spider-Room fluttered in a breeze and it seemed to hold its breath as if waiting for the response.
+
+"Burn it." he said indifferently.
+
+Nu looked down at them as they kicked his signs aside.
+
+"Incy wincy little spider came out to play..." he said, feeling the beginnings of pleasure rising up within. Maestro began to play a series of thrumming strings as the first licks of fire touch the web.
+
+---
+
+"Thanks for listening. I just got really upset," Delta said, her tone watery as she blew into a handkerchief she made out of mana. The Noi Crab of the fourth Floor skittered back and forward, ignoring her to an extent as it clacked its claw in sympathy occasionally.
+
+"I know I should get used to this as people can... be both bad and good. I just wish Cois hadn't had to suffer for my insistence on being polite to all newcomers," she explained with a wave of her hand.
+
+The crab snipped and snapped as it did its fourteenth lap of the island.
+
+"What do you think I should do?" Delta finally asked. The crab scuttled over to the coral stairs and dramatically dabbed at them as if to tell Delta to...
+
+"...You're right!" she said, standing up with a sudden start.
+
+"Sitting here while Nu and Ruli do work so I can feel sad for myself won't accomplish anything!" she declared. The crab gestured harder.
+
+"I'm going to Dungeon the heck out of my third floor then I'll come down here and kick more rear end. I won't be butthurt about bad adventurers," she nodded to herself. The Noi Crab clicked his claw.
+
+"Booty Bothered?" Delta offered. Another click.
+
+"Tushy tantrum?" she suggested. A hard clack. They stared at each other for a long time before Delta had to admit something.
+
+"...I have no idea how to speak crab," she decided before petting the giant monster on the head and rushing up the stairs.
+
+--
+
+The Noi Crab watched the Core-Mother leave before sighing.
+
+"Peace...quiet," he said quietly and returned to wandering around with no real goal. His life was a simple one.
+
+Wander and Crab.
+
+Both were good things.
+
+---
+
+"Kill it!" Geytan screamed and Nu almost wished he had tea to sip as two of the Fairplay grunts slammed into each other amongst the ash of the webs. Attached to each of their backs was a single silver strand.
+
+Muffet landed with a drop on the ground, three arrows sticking out of her body at odd angles, but none of them seemed to slow her down much. Muffet was a strong monster and Nu appreciated that.
+
+She twirled on two of her legs to avoid a sword and behind her, various webs twirled around each other to form a thick braided web-rope which she swung, cracking the bones of one of the melee attackers.
+
+"Formation-4!" Geytan called and one of them standing back waved his hands and a wall of fire cut the room in half, the flames parting for the Fairplay grunts, leaving Muffet trapped on the far end.
+
+Geytan and two others began to load their crossbolts and charge spells.
+
+"Not bad... a kill box," Nu said slowly.
+
+However… 'not bad' for them was 'trivial' for Muffet. The spider shot a web over the flame and propelled herself over, curling to avoid too much damage as the fire burned the tips of her legs, but she landed hard on the spellcaster, making him cry out.
+
+Muffet kicked a leg out and blocked a sword swing, her flesh tough enough that the blade only sunk slightly into her leg instead of the entire limb being chopped off.
+
+There was a brush of movement and Nu felt a pulse of foreign Mana. It felt pale and dull like the Fairplay people, but the patterns, the carving of the Mana itself was so detailed that the item Geytan pulled out could only be one thing.
+
+A Dungeon item.
+
+"Feel the power of a Lieutenant of Fairplay!" Geytan cried as he threw a strange dagger with jade instead of metal for a blade. The thing glowed and Muffet jumped away, narrowly avoiding the fire, but the dagger turned in midair like a homing missile.
+
+"I want it. Get me that knife!" Nu cried out, now invested. Muffet landed on her eight legs before she brought two up to catch the knife at the last second, the force behind the enchantment pushing her hard back towards the far wall, kicking up dust and ash as she was pushed.
+
+Finally the dagger lost its glow for a moment and tried to fly backwards, but Muffet held onto it with all her strength before she jumped and threw the thing hard down the hallway towards the Pond Room, the lingering magic sending it hurtling with surprising speed.
+
+---
+
+Waddles opened one red eye to see a wobbling green dagger inches from his face buried hard in the stone next to his nest.
+
+"..." he said and went back to sleep.
+
+It had only been an hour since he got back. He wasn't up to dealing with shenanigans right now... but if shenanigans came to bother him?
+
+They would weep. Not just the intruders, but all that ever loved them or would love them.
+
+---
+
+Muffet turned as she was kicked hard, being too slow to turn after tossing the knife aside and Nu knew if she could smile... she would be doing it right now as the Fairplay people pinned her down with their weapons.
+
+Weakly, Muffet's legs moved.
+
+"What is it doing?" one of the Fairplay asked cautiously.
+
+"It's making signs?" another whispered.
+
+Nu would translate for them, but no verbal word could accurately translate the royal spider court dance of 'I found your birther and ravaged them with such energy that they outshone the stars in joy'.
+
+That was a loose wording and even then, Nu knew he wasn't doing it justice.
+
+Muffet faded away and left behind her loot. The Fairplay people eagerly crowded around it before a silence fell over the group.
+
+"Cadet, what is... what is it?" Geytan asked a younger man who gingerly used magic to get a rough idea of its capabilities.
+
+Nu could do that too and far better than that scrub.
+
+Muffet's knitted twisted Knickers.Don't get them twisted: Improves mental clarity.
+
+"Do you want them, sir?" someone asked and Geytan turned red and shoved the lovely silk white lacy things into a bag.
+
+"Find me my knife! It's worth two months paycheck!" he snapped.
+
+"Aww... having trouble?" came a sickly sweet voice and Nu closed his virtual eyes in deep joy as a mocking childish voice descended on the room.
+
+"A second stage?" someone yelled but Mharia slowly faded in f from the ceiling in a curtsey, smiling as a sword tried to bisect her, only for the metal to swing through her ghostly form with no effect.
+
+Nu could see Mharia was beginning to grasp her abilities as a Dungeon Pixie rapidly. Intangibility was just one of the many powers such a being could have. Able to actively lock or switch routes on a floor was an advanced one, but Delta's Mana was feeding Mharia well.
+
+"A... fairy?" Geytan said slowly and Mharia gave her sweetest smile.
+
+"Please, mister... I want to help. I am trapped by this Dungeon but I know its secrets... will you help me escape and I'll show you the super secret ways?" she asked, finger on her lip.
+
+"A forced Contract, perhaps? We could get a Mana-cutter in and try to get her out?" a grunt said and Geytan raised a hand.
+
+"This could be a trick. Dungeons love using our emotions to lead us into danger," he reminded the group.
+
+"Please... I was a survivor of Turtog, my family was wealthy. I can pay well. I'm so scared and I don't want to die and be underground forever with skeletons... and zombies..." Mharia trailed off, eyes going wide with tears and even Nu had to gape at her blatant use of her own trauma to pull a fast one.
+
+"I know of that kingdom, it fell a while ago. How could this Dungeon know about it?" a cadet asked and Geytan wavered.
+
+"How rich?" he finally asked and Mharia blinked innocently.
+
+"Daddy had gold horseshoes for his horses and our garden was filled with plants so rare that I swear if you cut my family, they bleed green!" she promised.
+
+"Then we will aid you, Fairplay is here for the people and made up of the people," Geytan announced and Mharia smiled with benevolence.
+
+"You have a heart of gold and a face for radio, my heroes," she said, bowing once more.
+
+"Holy crap, you are so sick," Nu said faintly.
+
+"Teehee!" Mharia said as she flew down the hall, her 'heroes' following cautiously, but optimistically blinded by greed.
+
+Mharia whispered under her breath so Nu could hear, but not the people.
+
+"Should have killed me when you had the chance! Ah well!" she hummed.
+
+"Just one request. Let these poor fools do the normal route. We have four more outside to get through," Nu said finally. Mharia lit up and looked like her birthday or deathday had come abruptly.
+
+Nu turned to Ruli lurking in the hallway.
+
+"Send in the second group," he said and Ruli slowly tilted her head.
+
+"Don't bite off more than you can chew. This affects Delta too," she warned.
+
+"I want them done as fast as possible. With Mharia's 'help', we'll have one group going normally and the other going to face the music," Nu said darkly.
+
+Ruli inhaled through her nose.
+
+"I pity the fools," she said simply and walked back to the entrance.
+
+---
+
+"Where to begin...?" Delta said as she stood in the central garden of the third floor. She pulled up screens to get an understanding of what was left to meddle with.
+
+The first was the laboratory. It was a prime room since it was basically reduced to nothing since Delta absorbed everything. She thumbed through suggestions that Nu had made sometime when she hadn't been paying attention.
+
+"Pain-training room? You mean a torture room?" she asked sarcastically aloud before moving on to others.
+
+Battle arena, floor-is-slime-lava, Dungeon Lab for experimenting on intruders...and a lot more in that vein. She closed the suggestions and thought about the lab then decided to do what she did best.
+
+Take a terrible thing and make it good.
+
+She floated into the room and brought up purchases before she started placing down different pieces of equipment. A lot of it had to be made on the fly by suggesting blueprints to the System which gave her a massive headache, but taking it slow let it fill the room with metal cabinets, single beds and a series of metal top tables.
+
+The stone floor was replaced by a white and black check mark floor tile as false windows were added showing different paintings of beaches, grassy hills, and lakes.
+
+Once that was done... she turned to the middle of the room and grinned.
+
+From the floor, she slowly raised a replica of the Slime Cauldron that was here before, but twisted it so the dark metal came out silverish and decorated with little goblins in cherub togas and harps.
+
+She turned to the system and watched it analyze her creation and intentions.
+
+Quote:'Scheme detected. Would you like to convert empty room into 'Voluntary Medical Advancement Wing'?"
+
+"It's a bit of a long name, how about 'Do-Good Clinic'?" she suggested.
+
+Quote:'The Royal Do-Good Clinic accepted!'
+
+"Hey, don't add words to my idea," Delta complained but was smiling despite her protests.
+
+The room shifted until inlay silver wires ran through the floor to the cauldron, the other ends ending under beds or going up to walls to give off a soft light. The floor shifted to be check marked, but the white squares had an orange D in them while the black ones had a blue N.
+
+The beds went from simply cots to large soft looking beds and a new menu opened up.
+
+Quote:'The Royal Do-Good Clinic:A place where perished monsters can appear in the bed as barely physical forms instead of waiting in a void. While monsters are recovering, adventurers can tend to them by concocting medicine or fetching food for the monsters they harmed, working off a karmic debt that may reduce Jellagon's rage if done with honest intentions.
+
+If defenseless monsters are attacked while in the beds, the head nurse will appear and 'remove' them from the room and mark them with a special symbol that causes King Jellagon to do extra damage to them.'
+
+"Head nurse?" Delta asked and there was a clunk behind her and she turned to see a familiar skull clatter to the floor, now adorned with a cheery white nurse's cap.
+
+"Jellagon?" Delta blinked.
+
+The creature emerged and blinked at her.
+
+Quote:'Jellagon's sibling, Heallagon has arrived. They are clearly siblings and not the same creature. Jellagon may have more siblings in the works that also have names ending in 'agon'.'
+
+"Jell-er... Heallagon, I dig the cap!" Delta gave the creature a thumbs up and Heallagon blushed, his slime body turning pink.
+
+Still amused, Delta looked at the purchase options for the Do-Good Clinic.
+
+Quote:'Purchases:Heallagon can now heal adventurers for a 'donation'. 10 DP
+
+The Cauldron of Life in the middle of the room now periodically produces ten 'Mercury' slime nurses that can aid in soothing beaten monsters or helping adventurers do tasks. Ten may exist at once and they lack combat strength to a degree. 20 DP.
+
+If an adventurer reaches the clinic with no 'sins' attached. Heallagon will give them a blessing for the coming battle with his sibling, Jellagon. 15 DP
+
+If all the beds are filled in the clinic along with Wyin and Fran being beaten. Heallagon will transform into Painagon; a mini-boss that blocks all healing magic in the room.
+
+Add a side room where if Heallagon or Jellagon is not 'occupied', adventurers can talk to a sympathetic ear and gain advice on troubles in one's life. This is run by a sibling called 'Feellagon'. Cost 30 DP
+
+Delta inhaled and sighed as she also turned to Heallagon's personal upgrades.
+
+Quote:Heallagon: The Head Nurse with only a Head.
+
+Able to produce low quality medicinal ooze that heals infections. 3 DP.
+
+Able to produce any mushroom that has been crafted in his body to use as medicine. 10 DP.
+
+If an adventurer brings a rare illness to the Dungeon, Heallagon can absorb them into himself and begin to work on possible solutions (works in tandem with the Soul Well). 50 DP
+
+"They... get spit back out, right?" Delta asked slowly.
+
+Quote:If an adventurer brings a rare illness to the Dungeon, Heallagon can absorb them into himself and begin to work on possible solutions before releasing them safely (works in tandem with the Soul Well). 51 DP
+
+If someone is brought to the Dungeon, a free vaccine produced by Heallagon for the local infections and illness will be offered from the entrance, allowing instant teleportation from the entrance to the Do-Good Clinic. The vaccine is free, but the teleportation is a bit costly. 45 DP.
+
+"Man, these are so good!" Delta announced before she eyed both menus, waiting for her to carefully pick and measure each option in a practical cost-saving measure.
+
+Delta leaned forward and slid two fingers down each list with a beaming smile.
+
+"I have no self-control," she said brightly to no one.
+
+The room around her began to shift and idly, she wondered how Nu was getting on?---
+
+"Platform! PLATFORM! We trained for this!" Geytan screamed as the platforms of mosaic design spun. Three cadets struggled in the warm sludge as they tried to pull treasure chests out of the sinking mud and on the wall, a cackling tree and serious knight stared down at them from the wall where they were painted.
+
+Nu watched silently, knowing the words on the platforms were slowly creeping from 'Stage 3: Warned, Listen, Sweat' to 'Stage 4: Livestock, Slaughter, Looters'.
+
+Their malice practically radiated off them to the point the Dungeon itself could feel it.
+
+Still, it wasn't the Mudroom that would truly challenge these idiots.
+
+The Mushroom Grove approached.

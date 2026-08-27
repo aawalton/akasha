@@ -1,0 +1,199 @@
+---
+id: 7f7ef06a-e54e-5024-af97-e5bf63bf7ad3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 130 – Punished for Good Deeds"
+slug: 0130-chapter-130-punished-for-good-deeds
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 130
+ownLength: 2154
+unit: words
+publishedAt: 2026-06-01
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3476622/chapter-130-punished-for-good-deeds"
+royalRoadId: "3476622"
+---
+
+Cee and Liora shared a glance. None of them was too eager to hear anything from the clinic. Frankly, Liora had been enjoying her time away from Morgana and the corruption clinic immensely. She wasn't sure if she wanted to return or go anywhere near it.
+
+But there was a little voice within her that worried that more people might have gotten fully corrupt. As the only one able to heal them, Liora felt a sort of responsibility for them.
+
+"We are listening," Liora responded after a moment of hesitation.
+
+"Do not return to the clinic," Sallie said sternly.
+
+Liora blinked. This certainly wasn't something she had expected to hear.
+
+"Why not?" Cee asked.
+
+"Things here are… out of control, to say the least," Sallie said somewhat awkwardly.
+
+"That crazy doctor has turned patients into a cult!" Morgana snapped, her voice full of irritation.
+
+"What?!" Liora exclaimed.
+
+"Yup! I have no clue how that bastard managed to do it. Oh, I just want to shoot him!" Morgana raged.
+
+"Morgana, please. Calm down. Let me explain the situation," Sallie intervened. "At first, Dr. Reius seemed quite harmless, just exploring the clinic, helping the recovering patients, and telling us what he knew about what happened in Sunvale."
+
+"You have no sense of subtlety. A magpie beating mages. Really?" Morgana said.
+
+"You're one to talk about subtlety," Liora snapped.
+
+"Fair enough, but I don't have anything to hide."
+
+"Morgana, not now!" Sallie chastised. "As I was saying, the doctor seemed harmless at first. He did ask for you a few times, but when I said that you had left, he accepted it without too much of a fuss. However, things changed a few days ago."
+
+"It feels like everyone has lost their collective minds. They are building a church in your honor and founding a new religion," Morgana said.
+
+"What?! Who is doing that?" Liora asked.
+
+"The patients, the healers, even the guards. This doctor somehow has managed to convince them that you are a divine, a blessing sent their way to save them, and that you should be honored and revered for your kindness," Sallie explained.
+
+"These people have gone absolutely nuts. Worshipping a monster like it's a divine! Nothing we say even matters anymore. They don't care if you are Renir's familiar or anything else," Morgana growled.
+
+"Yes… While I understand their adoration towards Liora for what she has done, this is getting out of control. If you were to appear in the clinic again, I'm afraid there would be no chance to stop them. So please do not return," Sallie said.
+
+"You don't have to tell me twice. I have no intention of becoming some figurehead for a cult. That is just… so weird…" Liora mumbled.
+
+Desperate people will latch onto whatever hope they can. Especially when someone comes along and strengthens their beliefs. Like telling them that the magical bird that saved them from certain death is actually a Divine.
+
+I swear, you can't do a single good thing in this world without being punished for it. I save you from the evil mages and get to risk my life each day to free you from your rock prison. I heal people, and they decide to make a cult in my honor. Couldn't they have left me a plate of chicken as an offering and left it at that?
+
+Hey, I didn't ask you to pick me up. That was your greedy magpie self.
+
+But you would be totally screwed without me, wouldn't you?
+
+Renir went silent, which Liora took as a confirmation.
+
+"The point is—don't come back. We're trying to get these people under control. Frankly, I think we need to throw the doctor in jail," Morgana said.
+
+"No, that will fuel their belief even further. We need to approach this problem carefully, redirecting their zeal towards Renir. After all, for a Pillar, it would just be one of the duties he has to do," Sallie said.
+
+"You don't have to tell me twice. We're just going to keep doing our thing," Liora said, then added. "Did you ever figure out how that doctor managed to track me?"
+
+"No. He's being elusive and insisting that it was your divine will that you met again, however briefly," Morgana said. "But before you go off to your grand adventure, stop by the Adventurers Guild in Abylport. Are you two anywhere near there?"
+
+"We've been hanging around Abylport during the past few weeks," Cee replied.
+
+"Excellent. I contacted the Guildmaster and had him prepare Cee and Liora a Guild Ring. It'll set you both at silver rank right away. You can accept any silver rank quests without any worries for your master since with this ring, you'll be registered officially as Renir's magical familiars."
+
+Liora hesitated for a moment. "I… I already have a Guild Ring."
+
+"Wh-What? How did you get it? Did you steal it?" Morgana asked.
+
+"NO! It was obtained legitimately through… unconventional means. I hung around a young adventurer's party to get it," Liora explained.
+
+"Oh, great… More people to join your cult…"
+
+"No way! Serena wouldn't do that. She's not stupid. And the pompous blonde hates me," Liora said. She did wonder for a second how Serena was doing. Was she still at that school?
+
+"You know what? I don't even want to know. You give your Guild Ring to the Guildmaster, and he'll upgrade it. If it's actually registered with your mana," Morgana clarified.
+
+"Yes, it's registered with my mana," Liora confirmed.
+
+"What about the communication stone?" Cee asked.
+
+Liora glared at the spider. She didn't want to return the beautiful, valuable stone.
+
+"Keep it," Sallie said. "I would like to keep in contact with you. I can always request a new one for myself, even if it'll take a while to make."
+
+"Chak-chak-chak!" Liora rejoiced. Not that she would have returned it anyway.
+
+"Well, good luck, beasties. Get that lazy archmage out of his prison so we can put him to work already," Morgana said.
+
+"We're on it!" Liora and Cee said in unison. The communication stone then stopped shining and vibrating, indicating that the connection was broken.
+
+"Damn, a cult in your honor. I'm kind of jealous," Cee said.
+
+"Then you take it! I never wanted a cult. What the hell is that crazy doctor doing? I should give him a concussion so strong that he would forget his own name!" Liora cawed angrily, fluttering her wings.
+
+That guy is concerning. I don't like the fact that he always seems to gain the respect of people around him so easily. He appears so… plain.
+
+Maybe that's why. Ugh! I don't even want to think about him.
+
+"Look on the bright side. We don't have to return to the clinic," Cee pointed out.
+
+"Yeah, that is great news. I think I dislike underground spaces even more now…" Liora shuddered.
+
+"So, we go and get our Guild Rings now? Is it really alright for us to show up at the Guild in broad daylight and just demand Guild Rings?" Cee asked.
+
+"I… I don't know. I'd rather not. Is there not a sneaky way to do it?" Liora asked.
+
+"Especially with this Divine pearl in my Inventory. What if we run into a powerful mage?" Cee asked.
+
+"It hasn't started speaking to you, has it?" Liora asked.
+
+"No, it hasn't!"
+
+I suggest you both enter separately. You first, Liora, since a bird is not scary. Then Cee, and you hold onto the Divine Glimmercore while she's in the city.
+
+That Divine Glimmercore is quite a pain in the tail feathers. We can't even go into the city at our leisure anymore, always having to watch for any possible mages. With you, as long as you're my Inventory, we don't have to worry that somebody could detect you.
+
+I suspect it is merely a temporary problem. Cee has learned a lot about magic in these few weeks and even unlocked the Mana Manipulation skill. It was thanks to it that she was able to finally manifest her magma webs. If her skill level with Mana Manipulation increases further, she'll be able to hide the pearl's presence.
+
+But when will that be? Are you sure we can't just ditch that pearl somewhere?
+
+No! If the Order of the Night King gets their hands on it, then the whole ocean might turn into a corruption dungeon.
+
+Liora shuddered. That wouldn't be… ideal. Why were these Night King goons so eager to corrupt everything? Goddammed humans! Always eager to ruin things for everyone.
+
+"Renir says that we should go separately. I'll be going first, and after that, you can go," Liora said.
+
+"Separately… I'd rather go together. People never look kindly on monstrous spiders." Cee shifted her legs uncomfortably.
+
+"But Morgana already warned the Guildmaster. I'll give him a heads up too, if you want. I'm sure it'll go fine. We're just going to grab the rings and get out," Liora said. "Let's go tomorrow morning. Humans don't like waking up early."
+
+Cee nodded, somewhat reluctantly, and they hurriedly searched for a safe place to spend the night. Although they both preferred being active at night, they might as well sleep early if they needed to go to the city before dawn.
+
+Next day, just as they agreed, Liora flew to Abylport, watching the early morning streets. There was hardly anyone around, so she felt comfortable going to the Guild. Of course, there was already a problem the moment she approached the large building.
+
+The door. Why did humans like doors so much? Surely there had to be a better mechanism for entering houses. Something magical. This was a world with magic. But no. They still had to use doors.
+
+With an annoyed huff, Liora flew to the doors and grabbed onto it with her talons, trying to press down on the handle and pull the door open. It was a good thing that she was a big bird with good Aerial Agility. This certainly wouldn't be possible while she was still a magpie.
+
+When Liora flew inside the Guild, the sleepy receptionist, looking much better than he had before, instantly snapped to alertness.
+
+"B-Bird…" He gasped.
+
+"I have business with the Guildmaster. Could you summon him, please?" Liora said in a business-like voice, landing on the counter right in front of the lanky receptionist.
+
+His mouth was opening and closing like that of a fish out of water.
+
+"What? Have you never seen a magical familiar before? Chop, chop! Get to it!" Liora said, staring at the man intently.
+
+"I… I… I'll get the Guildmaster at once!" He muttered and scrambled away, tripping over his feet.
+
+I think that went relatively well.
+
+It's a good thing nobody else is around…
+
+Liora paced around the countertop, checking the things and wondering whether it would be alright to snatch some of them. Sadly, Renir would reprimand her the moment she tried to, so in the end, she didn't get to add anything to her collection.
+
+Some ten minutes later, the Guildmaster, looking barely awake, finally appeared in the Guild Hall. His eyes widened when he saw Liora, but he didn't look nearly as shocked as the receptionist since he had already seen her before.
+
+"Came here for your Guild Ring? Where's the spider?" The Guildmaster asked, making the receptionist gape at him in shock.
+
+"She'll stop by later. I would like to upgrade the one I have currently, if possible," Liora said, showing the ring on her leg. She had withdrawn it from her Inventory and placed it there before coming to the Guild.
+
+"Sure, no problem," Guildmaster said, pulling out a small, round device similar to the one she saw receptionists in the Cyene Guild use. He pressed against her Guild Ring.
+
+[Your Guild Rank has been upgraded to <Silver>.]
+
+"Thank you very much!" Liora said cheerfully.
+
+"Some new functions have been unlocked for you. Map system and detailed monster profiles. You should also be able to see levels of everyone you encounter," the man explained almost mechanically.
+
+Looking at him, Liora saw how his name [Human Warrior], which was red, changed to [Guildmaster Loren Bernhard – Level 62]. That was certainly a neat upgrade. She wondered how they managed to get the System to do that.
+
+Hehehe. Still works just as smoothly. Excellent. I was afraid the Guild System might have encountered some errors while I was gone.
+
+Right. It was this guy. Liora had already forgotten that.
+
+"Bird, before you leave, can you take a message to your master?" Guildmaster asked.
+
+"My master?"
+
+"Pillar of Lost Magic," he said.
+
+"Oh! Yes, of course!" Liora confirmed. She didn't like it that Renir was called her master. If anything, she was the master in this relationship. He was just a rock. But she couldn't just tell this truth to humans. Their puny brains couldn't handle it.
+
+"Follow me. I don't want to be overheard."

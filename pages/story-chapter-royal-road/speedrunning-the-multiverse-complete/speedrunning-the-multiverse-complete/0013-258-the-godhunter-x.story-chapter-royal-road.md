@@ -1,0 +1,171 @@
+---
+id: 0f7a77b1-d646-5fde-ba8f-e77052adab64
+page-type-slug: story-chapter-royal-road
+title: "258. The Godhunter (X)"
+slug: 0013-258-the-godhunter-x
+partOf: speedrunning-the-multiverse-complete
+position: 13
+ownLength: 1890
+unit: words
+ownProgress: 1890
+publishedAt: 2023-07-08
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1270581/258-the-godhunter-x"
+royalRoadId: "1270581"
+markedReadAt: "2026-06-29T22:42:06.878Z"
+---
+
+Salas was not polite enough to wait for Dorian to come up with a plan. The machine kept piling on shots, which was tremendously annoying, not only because it kept breaking up his thoughts, but also because each shot was aimed exactly where it’d be most uncomfortable for him to defend. Dorian was constantly making of his body a pretzel, crossing his legs, bending backwards to thrust the tip of a wing at an arrow aimed at his exposed heel. He had no chance to find his footing. No chance to counterattack.
+
+What was he supposed to do? He had nothing. He still had nothing seconds later when a third arrow carved a bloody gash across his back.
+
+Dorian groaned. In his younger years, he’d often fallen prey to the misconception that if you had no plan you should keep thinking until you find it. But often in these circumstances the perfect answer fails to materialize. By then it’s too late.
+
+Sometimes a bad plan is better than no plan.
+
+So, feeling like an idiot, he did exactly what Coldheart told him to do. What Salas wanted him to do. He rushed in.
+
+He had to try something—if only just to probe. [Fist of the Rising Sun!]
+
+He regretted it instantly.
+
+As he dashed in Salas hunched in. His bow flipped to his back and blades leapt to his hands as if by magic, fast as blinking. But there was a nastier surprise yet.
+
+From Salas’ back sprung two more arms. Arms bearing their own crescent daggers, black and sleek as a crow’s feathers, its edges seething with smoky qi.
+
+Dorian was ready for it, and they still caught him off guard, somehow. They moved just like him, yet he was used to them from the other direction; he was used to holding the knives. Facing them meant he saw their mirror image.
+
+Meant that on instinct he slipped back and left, and the arm cut front and right. Or at least that was what he surmised from the fact that a sharp pain erupted from the top of his head and two of his three horns were cleaved from his head. He hadn’t even seen the move it went so fast.
+
+Then his own fist connected. It felt less like him punching Salas’s ribs, than Salas’s ribs slamming his fist. The Eclipse qi rippled across the surface of the starsteel, scoring the lightest of burn marks, a slight roasting, the only evidence it’d done anything at all.
+
+It was sickening.
+
+Then he pulled back, harried, had the wherewithal to contort his body out of the way of the blades—mirrored now in his head—and with a fervent [Sunshine Step] he was back out of range, panting heavily.
+
+Blood ran down his arms. Two thick gashes on his arms, fissures through his scales, ripping flesh, exposing muscle. He blinked. He was sure he’d dodged the other knives—when had those nicked him? He hadn’t even felt them. Nor seen them.
+
+“What is the matter, challenger?” crowed Coldheart. “Is that fear I sense in you? Trepidation, perhaps? But a coward cannot gain my inheritance! Charge him! Again! Again!”
+
+What had Dorian gained from that dumb rush? Other than a score of wounds? He wracked his mind, dodging arrows, struggling for something—a fragment of a plan. Anything!
+
+There was one thing. When his fists struck starsteel he’d expected to hear an echo. But there wasn’t the slightest give to it. No reverberations.
+
+It was solid.
+
+He’d expected a hollow automaton. How heavy must this thing be?!  There was the vaguest hint of an idea prodding at the back of his mind. But he couldn’t think. There was no time.
+
+For Salas had entered phase two.
+
+The machine was suddenly a supernova in gold, an ongoing explosion of qi. There was a high-pitched whirring of gears, of joints springing to action. Its four arms held knives whose edges burned molten red and it hunched in like a loaded spring.
+
+Dorian ran.
+
+There was some good news! His regeneration was fierce as ever; his calf had healed. His leg was mostly fine too. So there was some much-needed lift to his frantic leap.
+
+A meteor blazed past him and crashed into the gold wall. Dorian chanced a glance back, saw Salas righting itself. The wall before it bore a smoking set of scars so that ran so deep he couldn’t see where they ended. The metal there was struck black. The chunks of wall around it sagged, dribbling trails of melted metal.
+
+“That wall was Imperial Gold of the highest grade, specially imported!” said Coldheart. “How do your scales compare? Not well, I imagine.”
+
+Dorian would’ve put his scales on par. The old Spirit had a point, as much as he hated to admit it. He could not afford to be struck by a rampaging Salas even once.
+
+This time, he took a bullfighter’s stance. All defense, legs spread, arms wide, eyes locked on Salas. Putting all his mental efforts into sussing out just when—and where—the thing would charge him.
+
+But Salas did not charge. Because Salas fought like Dorian fought. And so Salas did not make the same mistake twice.
+
+It adjusted.
+
+This time it moved to cut Dorian off. No sudden movements. It just marched at him, and its footwork was painfully familiar. It moved like him.
+
+Dorian feinted left, ran right. It took a step left, then a step right. Dorian dashed faster. It turned, tracking him with ease, and stepped in closer. It crept in with methodical efficiency, step by patient step. It felt like the jaws of a trap slowly closing over Dorian’s head. The point was to make its victim feel claustrophobic. The point was to make its victim lash out in a blind panic.
+
+Sadly, it was working.
+
+Damn Houyi and his damned footwork!
+
+Which reminded him, in a weird way, that there was only one trick left to play. A Technique with a very long name apparently belonging to his brother.
+
+Salas was so close Dorian could feel its qi singing his skin, waves of it rolling off like heat from a furnace. This was thing no sleek skiff. This was a warship, and it boasted the machinery to back it up. It drew closer, close enough Dorian saw his own scrawny-looking reflection warped in the plates of its body. It crouched.
+
+Dorian seized his chance.
+
+[Supernova Fist!]
+
+He leapt one way, then sprang the other, heard a crash and saw the walls shudder and, for the first time in his life, thanked his brother for drilling the footwork for that escape into him.
+
+To exert pressure, the offensive fighter would creep closer and closer, systematically eating up space. The incompetent fighter might chase in circles, but a master hunter knew how to stalk prey down. In a confined space such as this it was inevitable they’d achieve their aim. If left alone, that was.
+
+It was up to the defensive fighter—Dorian—to harass. To disrupt. To create openings. And then slip through those openings to freedom.
+
+Dorian hadn’t expected that crude flash to work—but why wouldn’t it, actually? It blinded on three levels at once—a big flash, a loud bang, a wide burst of qi! What other detection mechanism could the machine have?
+
+Salas marched on him again, and this time Dorian liked to think he saw a quirk of a frown on that robotic lip. It came at him slower, even. More methodical. Exactly as Dorian would have done. Which was also how Dorian knew exactly which moment to pick to flash it, then sneak out as it crashed past him.
+
+[Level-up!]
+
+[Sunshine Steps]  Lv. 6->7
+
+Dorian let out a snort of breathless laughter. He’d found a way to hang on. A tiny win. Almost pathetic in how small it was, given the circumstances, but a win nonetheless!
+
+This time he was ready for Salas as it charged him.
+
+He flashed it. Let it dash past.
+
+But there was no crash behind him as he skirted away. Only a THUD. The sound of metal feet planting on metal wall.
+
+Dorian watched, horrified, as it rushed him again.
+
+This time sheer instinct saved him. His gut picked a direction for him and he followed it like his life depended on it. Which was easy to do when it did.
+
+A meteor scorched past him.
+
+And then that same THUD.
+
+You’re kidding.
+
+Dorian could only pull up his wings in helpless desperation as Salas sprang at him a third time, full-force.
+
+And all he could think was that this was fucking unfair!
+
+Now the thing decided it needed no time to recharge? It could just pull out one continuous direction-changing bull rush? A solid hunk of Starsteel stuffed with unreasonably powerful machinery, powered by what must be a truly obscenely large power supply, to sustain all this fuckery!
+
+How was one supposed to beat this thing?!
+
+The challenge was so absurd he couldn’t even bring himself to feel despair at it. Just a grim mix of amusement and resignation. The feeling grew all the more poignant as he felt a hot point bite deep into his wing. A point brimming with so much qi it made Yama’s best efforts look childish.
+
+He did his best. Leapt back, shielding himself as best he could. And to his credit he sustained no more than a scratch on the other wing as a parting shot. He was pretty pleased with that. If you discounted the fact that one of his wings just got sliced clean in two, he almost got out of that one unscathed.
+
+Alas, any try at shielding now would be incomplete. That long slab of wing now lying charred on the ground was integral to his defense. It was all coming apart.
+
+Just a few more good runs at him and Dorian would be finished.
+
+…
+
+…
+
+Why isn’t it charging me?
+
+Salas was steaming with qi. Smoke trickled off it. Its body glowed brighter than it ever had. Was it overheated?
+
+Its movements slowed. It no longer stalked at him. Instead it sheathed its knives, slung out its longbow once more. It seemed to be taking it easy, all of a sudden—a reversion from phase two to one.
+
+Ah!
+
+It isn’t charging me because it can’t afford to.
+
+That idea tickling the back of Dorian’s mind was starting to gain definition.
+
+It was easy to forget, when facing down an emotionless precise killing machine brimming with seemingly endless qi, that it had physical limits to consider too. And that mad charge just then must’ve taken a lot out of it.
+
+Then it hit him. An idea, thankfully, not an arrow.
+
+Why was he fighting this thing like it was a fleshy enemy?
+
+He ought to be using its nature against it!
+
+This was an automaton. It did not regenerate qi like him. It did not cycle qi like him. Its anatomy was not like a living creature’s. It almost certainly ran off a battery—a battery of spirit stones.
+
+So it was limited in two ways. First—how much sheer power it could throw out in a go before it started to overheat. And second—the supply of its battery.
+
+And Dorian had his plan. He licked his cracked lips.
+
+I don’t need to beat you to beat you, do I?

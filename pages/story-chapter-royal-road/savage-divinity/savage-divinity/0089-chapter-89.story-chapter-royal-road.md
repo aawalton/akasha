@@ -1,0 +1,123 @@
+---
+id: c2945589-7089-538c-a68b-2109d85a20b8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 89"
+slug: 0089-chapter-89
+partOf: savage-divinity
+position: 89
+ownLength: 3516
+unit: words
+publishedAt: 2016-07-04
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/79816/chapter-89"
+royalRoadId: "79816"
+---
+
+Adujan blinked in confusion, looking around her as she tried to make sense of everything, her memory of her meditation fading, leaving her empty once again. Du Min Gyu stood before her, his head held high as he awaited her answer, looking every bit like a heroic warrior with his noble demeanor, his beautiful satin robes fluttering lightly in the wind, his token of authority hanging from his belt. This man, this hero, a Lieutenant General of the Imperial Army wanted to take her as a student? Why?
+
+She had often dreamed of something like this, having her talent recognized and accepted, had worked harder than anyone she knew, learning through trial and error in the absence of anyone to guide her, and the contest at the Society was to be the stage upon which she demonstrated her skills for all to see. In her dreams, it had always been one of the heroes of the village that took her in as Disciple, whether it was Akanai or Tokta, Baatar or Gerel, her dreams had always been rooted inside the village. It was all she knew, the little orphanage with the kind aunties and uncles who did their best, making sure each child was loved and cared for, the beautiful plateaus overlooking the serene landscape, the joyous festivals where everyone banded together to celebrate the milestones of life, year after year.
+
+Leaving the village had never crossed her mind, the thought of becoming a soldier for a decade enough to drive her to work even harder to become a Sentinel, but now she had a difficult decision ahead of her: accept the offer and become a student to this heroic man, or return home and resume the role of Sentinel, relying only on herself. Her mouth opened and closed several times, wanting to ask questions but afraid of angering the Lieutenant General and losing the chance altogether.
+
+“Ask him your questions, child.” The Chief Provost spoke up, looking upon her kindly, a hint of a smile in her eyes. “I'm sure he will be glad to answer.”
+
+“Hmph. I've had warriors from every province travel to my doorstep, begging for me to teach them for a single hour. I've turned away more prospective students than I can remember. My time is valuable and I only teach the best, you should be honored by my choice. Yet still you want to ask questions?” Flinching before his glare, Adujan cursed herself for being so indecisive. “Very well, ask and I will answer.”
+
+Permission granted, she stood to salute and bow before him. “This one is honored by the Lieutenant General's consideration, and will forever be grateful.” It was difficult to speak so formally and her tongue felt twice as large as she fumbled her words. “The Lieutenant General mentioned a pledge, and this one is unsure what that entails.”
+
+“A small thing. You pledge to honor, respect, and obey, and I then pledge to instruct and protect, and our student-teacher bond formed. Should you prove talented beyond measure, I would consider taking you as my disciple, but that is unlikely to happen. I am at the end of my life and the truth is that you are a half-beast, so it is doubtful if you will be able to learn enough of my teachings before I die.”
+
+“Wait, like an oath? So she'd be a slave like Kyung?” Rain interrupted and she felt her stomach drop, wishing he had kept silent.
+
+“Slave?! Who said anything about slavery?” Du Min Gyu threw his hands up, his face flushed beet red as he glared at Rain. “I said student and I meant student. You think me so miserly as to deceive children into becoming my slaves? It is a pledge, not an oath, a mere formality of spoken words so that if she were to break her pledge, I may kill her without remorse or reprisal.”
+
+Giving Rain a pleading look to keep quiet, she quickly changed the subject so that Du Min Gyu would not dwell on the unintentional insult. “Your feud with my people, would it come to an end? They raised me from birth, clothed and fed me where my biological parents abandoned me, I will not be turned against them.”
+
+“Whether you accept or reject my generous offer, I have no feud with your people.” Frowning at her hesitance, he looked her in the eyes. “Know this child, I offer this with no ulterior motive. You are talented and wasted here without a Mentor or teacher. Under my tutelage, you will become a top-tier expert in the Empire, a crane standing within a flock of chickens.”
+
+Still she remained undecided, looking at Shana, and Mila, and Rain, her heart aching at the thought of losing them, terrified at the thought of not returning to the village. Remembering their woes, she brought them up, half hoping to scare him away. “I am embroiled in some legal difficulties with the Society, over an attack we made upon them after the Contest. A trial by combat, and I would not feel right in leaving them to fight without me.”
+
+At his prodding and with the Chief Provost's approval, she told him everything about their experiences at the Society, sparing no detail of the near death she suffered at their hands, waiting in nervous silence as he stroked his beard for minutes, deep in contemplation. When he finally spoke again, it was with the pride of a warrior, challenging and unafraid. “The student's burdens are shared with the teacher. Accept my offer girl, and I will lend Akanai my full support against the Society.”
+
+With those words, Adujan dropped to her knees and kowtowed thrice, speaking the words of her pledge. “I pledge to honor, respect, and obey Teacher Du in all things.”
+
+“Good, good. You are now my student, and I will teach you all that I can and protect you until you are able to protect yourself. No more formal speaking, a teacher for a day, a father for life. Kyung! We must celebrate, serve food and wine for the guests. Student, come sit with your Teacher, exchange drinks and we shall discuss how we proceed from here.” Her teacher turned around and strode back to his table with a smile upon his face and Adujan followed behind him, her head light and stomach fluttering, ready to embark on a new journey towards the peak of martial strength.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Noodles and roasted meat in a broth, a delicious meal, yet difficult to eat one-handed, but not impossible. Drink the soup, then slurp up the noodles and meat, not ideal, but better than being hand fed. Sumila cheerlessly eats her noodles beside me, mournful about Adujan's decision to follow Du Min Gyu. Nudging her gently, I speak softly to her. “Try to be happy for her. The old man is a good teacher, and he seems sincere in wanting to help. Look at how delighted they both are.”
+
+His face has a healthy glow, although that may be from the wine, smiling as he eats at his table with Adujan, eagerly discussing her training regimen between mouthfuls of food, looking as cheerful as can be, his eyes almost disappearing into his wrinkles. Adujan is smiling as well, a radiant, animated air about her as she describes her customary practice, pouring the old man's wine and heaping food into his bowl, the two of them looking like grandfather and granddaughter.
+
+Making a rude sound, Sumila continues to pout. “That old man stole her away, Yan was doing fine here, she doesn't need a teacher. We were finally such close friends but now she's going to have to leave with him, and who knows when she'll return. I know Yan wanted a teacher, but why pick that stupid old man? He's probably a terrible teacher, 'half-beast' this and that, the snobbish fool.”
+
+Surprisingly, it is Li Song who answers, speaking in her customary monotone. “Teacher Du is an excellent instructor, with many visitors each day, clamoring to seek his instruction, gathering in droves when he announces a lecture. This slave is honored to have been taught by him, said to be one of the foremost instructors of the Central Province.” She must actually like the old fart, she never speaks up about anything without Sumila's prompting, even going as far as almost criticizing her. Baby steps.
+
+Interrupting before Sumila says something she will regret, I hurriedly add, “I agree. His perception and ability to clarify things is amazing. Just a quick look at my movements, and he was able to explain something I've tried to figure out for days now.” Exceedingly helpful, unlike some disembodied voices in my head.
+
+Sending him a message, I ask, “Why can't the ancestors just speak plainly? Clear and concise details with simple explanations, is that too much to ask for?”
+
+“I've told you before brother, they speak to me and I listen. There is no conversing.” His voice sounds bored and restless, ready to be let out, but I kept him under wraps for the day, not wanting Akanai to see him in action just yet. “I simply do not understand why you are wasting your time learning like this. Just allow the ancestors to speak to you, and you will understand. After time, their strength will truly become ours, but only if we both accept them.”
+
+“You keep saying that, but you never offer any proof, or even a good argument. All you can say is that you hear voices that say they're your ancestors, who offer you power, and you just accept that at face value. It's stupid. If I learn, then I can better gauge my own strength, and not lose an arm to massive trauma."
+
+"Bah, we survived, did we not? Death is an ever present companion, worry over it is pointless."
+
+"That attitude is why I'm in charge, because I like living. Now be quiet.” I can almost hear him muttering under his breath as he retreats to his home, sulking like a child.
+
+“What are you saying Rain?” Sumila's glare catches me off guard. “You think he's a better teacher than Mama?” A glint in her eyes warns me to watch my words carefully.
+
+“Uh... no, of course not, Akanai is a great teacher as well. I'm just saying, we should be happy for Adujan. Du Min Gyu has a bit of a temper, but that just shows how fiercely he'll look after his own, so there's nothing to worry about. I admit, he isn't the nicest old man around, but he's competent, which is better. She wants to learn how to fight, not how to be polite and sweet. Besides, it's not like they're leaving today, they're setting up their tents here.” It seems like I'll need to find a new place to practice in solitude, and a new sparring partner as well.
+
+Sumila returns to sulking quietly, and after eating more than my fair share, I make my way back to the camp alone to eat some more, banking up calories for my healing later and studying quietly by the healer's tent. The rest of the day passes by slowly, lost in study and sentimental thoughts, and come evening I find myself standing at the western field, waiting to greet Alsantset as she returns. Spotting them as they break the treeline, I wave happily at her, picking her out from the others easily. Freezing mid wave, I run down the hill towards them, panic bubbling up from my stomach. Alsantset's armor is cut open and stained with blood, her face pale and worn as she sits uncomfortably in the harness, a tired smile on her face at my approach. Her words sound out before I arrive to calm me from my frantic downhill run. “Don't worry little brother. A minor injury, I was careless, hesitating when I should have acted. No harm done.”
+
+Our dinner together is a little more lonely than normal, Sumila, Adujan, and Li Song all still at the old man's new camp, and I explain the day's events while Alsantset feeds me, despite my protests. I think she misses looking after her kids and sensing that it helps, I obediently allow myself to be fed like a child. It's not so bad, although I do wish that she wouldn't blow on the food for me, and I could do without the quiet joking and laughs of the surrounding Sentinels.
+
+“So how do you feel about Yan leaving?” The question is asked innocently enough, but I can tell she is bursting with curiosity, her tail lashing about in agitation.
+
+Pausing for longer than I need just to savor her anxiety, I answer honestly. “I don't know. While I was studying today, I kept looking up to check on her progress, forgetting that she wasn't there. It was... lonely, I guess, and I'll miss her, but this is a great opportunity for her, and she needs to do what's best for herself.”
+
+“That's very mature of you. What do you think of the old man?”
+
+“He's strong. Able to fight on par with Akanai, he's the first person we've met that was so capable. His attitude isn't great, he seems to have some problems with demi-humans, but he means what he says, and he already accepted Adujan as a student, so I'm not worried about that, especially after seeing them eat lunch together. He just seems like a product of his upbringing, believing that demi-humans are inferior to humans, but he has no malice in that regard.” Smiling, I tell her about how he played chess all morning, then pretended to be in a rush, a cute, grumpy old man, unable to just say that he wants to stay. “I think he really hit it off with Akanai, they're similar in temperament, sitting around looking noble and calm, but probably silently chatting away about the good old days, or whatever it is that old people talk about.”
+
+“Do not let her hear you call her old.” Handing me a bowl of soup, she leans back tiredly and watches me drink it, looking forlorn and upset. Concerned, I try to ask her what's wrong, but she simply shakes her head and feigns a smile, unwilling to speak about it. I wish she'd rely on me for help sometimes, but to her, I'll always be that tiny, battered child that she found wandering the forests, ready to collapse. It's nice to be loved, but I'd like to be depended on as well.
+
+Healing with Tokta is uneventful, simply more review while my body builds up the required mass so that I can try regeneration without risk of overtaxing my body. Take too much and the body will shut down, so healing is officially on hiatus for a day or two. I made a mistake in rushing too quickly, but I think that as long as I keep focused, I'll have my arm back in no time at all. Tokta is less optimistic, but that's just how he is. I wonder what happened to the meat ball I popped out of my arm?
+
+Returning to my tent early, I lay awake, tossing and turning, too much on my mind to sleep properly. After some time, the tent flap parts and Adujan crawls in quietly, doing her best not to disturb me. I listen quietly as she changes into her cotton shift and lays in her bedroll, just happy that she's still staying here, at least for now. I'd been a little worried that she would stay at her new teachers campground, forgetting all about me.
+
+“Rain? You awake?” Her quiet voice breaks the silence, and I swallow the lump in my throat.
+
+“Yea. How was your first day with your new teacher?”
+
+“You sound jealous.” Even in the dark, I can almost make out her teasing grin as she lies beside me within arms reach. “It was incredible, Teacher Du pointed out so many things that I could be doing to improve, and after I explained my problem with cultivating, he says that he can help me with that too! He was cryptic about it, but I'm just so excited, I've felt like something was wrong for a while now, and he's going to fix it. A Lieutenant General as my teacher Rain, I've dreamed about this since I was a little girl.”
+
+I am jealous. I want to say it, ask her to stay, but what right do I have? We're friends, not lovers, and any feelings I have might not even be real, I can't ask her to give up her dreams for that. I listen quietly to her gush about her day, trying to be happy for her while we lay together in the darkness. “We did drills all day and I am exhausted, but so excited about this new change. We're leaving tomorrow morning...” Shit. I thought there would be more time. “... heading north to pick up another one of his students at the Flying Tiger Fortress. I'll miss you all of course, but we won't be leaving the province until after the business with the Society has been taken care of, so we'll see each other again soon. Promise me that you will look after Shana? Give those pups plenty of hugs for me, and I'll give Husolt your greetings if you need.”
+
+“Ah. No, can't do that.” Clearing my throat a few times, I try my best to sound cheerful. “Shana is yours, I bought her from Akanai as a gift for you, but I was saving the news as a surprise for when I do something that makes you angry. I bought Zabu too, you should take him as well. I wouldn't want to be around that fussy quin after Shana leaves, and the old man seems to like him, but you need to promise to bring him back to visit. Zabu, not the old man. Well, he can come too, but yea. It doesn't matter if it's ten years or fifty years from now, you have to come back... with Zabu. And his pups. So I can meet them.” Real smooth there. Fucking hell.
+
+“Just take her you fool. She is within your grasp, she will not refuse.”
+
+God dammit. “You, shut the fuck up! I'm trying to have a personal moment here, is a little privacy too much to ask for?”
+
+“Ah, look, she approaches. Take action brother, I'll quiet down now.” He makes no mention about not watching though, and the thought makes me feel uneasy. I am not a fan of having an audience, even if it is technically me watching myself. Does that make me a voyeur?
+
+Doing my best to ignore those thoughts, I lay still as Adujan shifts over in her bedroll, her warm cheek pressing against my left shoulder, the two of us almost-cuddling together in our tent. “Um... this isn't working.” She jerks back at my voice, stammering out an apology, but without thinking I reach out and grab her arm, pulling her gently back into my arms. “No, I meant, with you lying on my arm, your horn was poking me in the throat. It's incredibly nerve-wracking, like sleeping with a spear jabbing me. Do you sharpen them or something?”
+
+Relaxing a bit, she lays her head down next to mine, our faces touching as I take in her scent. “Yes I do actually. I always thought it would be incredible to impale an enemy on them, but then I'd get covered in blood and guts. A good option to have though.” We both chuckle nervously, my heartbeat hammering away in my ears. She lets out an easy sigh and sinks deeper against me, the two of us now fully cuddling together, separated only by our bedrolls, her soft, silky skin pressed against my neck. “Why didn't you speak up sooner? Had I known, I would have refused Teacher Du.”
+
+“What? No, you did the right thing, that old man is stronger than anyone we've ever met, and he seems genuinely interested in teaching you. Why would you give that up?”
+
+She sighs again, louder this time. “You really are an idiot... So what now?”
+
+“We sleep. Then tomorrow, we part ways until who knows when. You live your life, enjoy yourself, meet new people, do new things, chase your dreams... Maybe fall in love, start a family, whatever it is you want to do. When we see each other again, we will pick up our friendship as it is now, and tell each other all about our experiences. I love you and wish you all the best Yan.”
+
+A quiet, "I love you too, Rain." follows, and the two of us lay there together in silence, taking comfort in each others presence as we drift to sleep, arms intertwined, unsure of the future, but secure in the fact that we will always remain friends.
+
+...
+
+Maybe I should have told her about buying Shana earlier.
+
+Damn it.
+
+Chapter Meme

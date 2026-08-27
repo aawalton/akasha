@@ -1,0 +1,243 @@
+---
+id: 13bba087-59e0-5be7-b7c9-88f6b69440aa
+page-type-slug: story-chapter-royal-road
+title: "433 Unforgiven"
+slug: 0551-433-unforgiven
+partOf: path-of-the-deathless-book-4-completed
+position: 551
+ownLength: 5349
+unit: words
+publishedAt: 2026-08-15
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3818416/433-unforgiven"
+royalRoadId: "3818416"
+---
+
+“Helen… Fuck… Fuck… Helen, oh, fucking gods, fuck… Please don’t… Please don’t die, baby, please don’t… Please don’t… Daddy’s here… Daddy’s here… Please don’t… Oh, gods, oh, System, oh, gods, oh, fucking gods…”
+
+“Ah, and there it is. It is a privilege to watch you finally shatter, Master-Ranger Munny. Your pain is… quite filling indeed.”
+
+—Master-Ranger Morgan Munny and the Culturist
+
+433
+
+Unforgiven
+
+Hero-Ranger Morgan Munny’s Awareness locked onto him the moment he entered the room. But even before Munny heard the orc's heartbeat, he felt him. He felt him in his bones. He felt him like how a knee might ache in portent of coming rain.
+
+Iron filled his hand. His finger was curled along the trigger, but it felt like the gun took hold of him instead of the other way around. The Colt and the Will was of a nature all its own, and Morgan could but serve as its humble vessel, same as all the other Rangers.
+
+He knew, of course, that this was a childish attempt at dissociation, for violence was easier to enact when there was a layer between the man and the killer. At least it was so for humans. Orcs? They had no need for any of this. If anything, the butchery was their self-comfort. And to match them, their minds needed to be met in kind.
+
+Morgan drowned the man and let the Pathbearer surface as he lifted his gaze, staring at his old enemy from under the brim of his hat.
+
+The entire restaurant went quiet as the orc strode into the dining hall. Though he came through the front entrance like everyone else, tension and terror stained the atmosphere. Even the Jotun, boastful and brutal in their own way, went quiet, for it was one thing to play a role of violence. It was another to be sculpted from its clay.
+
+And even when compared to other orcs, the Culturist was a masterpiece indeed. He looked as he did in Morgan's darkest nightmares, as he did all those years ago, on that terrible day.
+
+Morgan dreamed of it often—the time he spent in the camp, the moment he broke out, with the Culturist looming close behind, capable of striking him down at any moment yet holding himself back, hesitating, if only to tease his own desires or to taunt Morgan for everything he'd suffered.
+
+And the orc still wore that stupid fucking guise, that stupid fucking cowl, that stupid fucking drape of feathers that coated his gray skin and painted him in a marble glow of purity. It was a glow he didn't deserve. It was a glow that was tarnished in spirit by the red he stained himself with. It was a glow that nearly provoked Morgan to kick his table in two and start fanning his gun right then and there.
+
+He knew it would be an act of suicide. The Culturist was a Legend, and if there was any way to kill him, it would be through a collective effort. It would be through pinning him down, leaving him with no place to escape, and hammering him with every shell, with every bullet, with every spell the Kingdom had in its arsenal until there was nothing left. And even then, he would return.
+
+In the next season, in fifty years, in a hundred, it didn't matter when. He would return.
+
+Gunhead, Sooth, and a dozen other Rangers stood beside Morgan. They recognized the Culturist immediately, and all of them armed themselves a heartbeat after Morgan. A rattle of metal crackled through the air as Gunhead cycled both his cylinders. The gun he held in his hand was a lever-action capable of punching a hole through ten meters of steel, and the larger piece that constituted his skull was a thing comparable to most high-yield artillery platforms despite the vast difference in size.
+
+Sooth was far more subtle. She began casting broadcasts of Psychomancy and Divination, calling to all other Rangers within the Gate, warning them of the Culturist's presence and where they needed to arrive to encircle this foe.
+
+Morgan knew that to start a fight here would mean to break the law of hospitality, but the law could go fuck itself.
+
+This was the Culturist. And if they could kill him and diminish the threat he posed for decades to come, or even better, take him alive, then it would be worth it to be branded as oathbreakers and endure any suffering or penalty to follow.
+
+But from behind the Culturist's pale white facade came a fluttering cape of crawling shadow, and that shadow spread wider. Its presence swept through the room, snaking along the ground and the walls.
+
+The Deathless was some two heads shorter than the Culturist, but with the latter being three meters tall, that wasn't saying much. He was a colossus of a man, but calling him a man might be too much, actually. He barely had any hair on his face, and the texture of his skin, the glow in his eyes… it was young. Far too young. But there was also something inhuman about him compared to those around him. Something like oil greeting water.
+
+The Colt and the Will was of a nature all its own, and that nature refused to turn on the boy, for no bullet would strike him down, and every demise would be a seed from which he sprouted anew.
+
+And above all other vices, The Colt and the Will despised that of wastefulness. You gave your enemies death, and you made sure they stayed dead. That was the intent behind every pulled trigger, but if you fed them with lead and gave them a bounty of strength, then you might as well turn the barrel on yourself and save them the trouble.
+
+Halfway across the room, the twin juggernauts shifted positions, with the Culturist lingering behind, standing still while the boy continued making his way toward Morgan. But the Culturist's gaze remained locked on Morgan, and it was then that Morgan noticed that there was something different about the orc. He had only one eye left, his left one, and its color had changed, going from that rancid piss yellow to an azure blue. Morgan felt a different kind of anger well up within. It was the wrong color for the orc. It was not of his nature. He was a creature of sin incarnate, a monster of trenches, and those eyes belonged to the sky.
+
+The gun in the Ranger's hand practically screamed at him to let fly bullets and bloodshed ensue.
+
+But then, the darkness closed in. A wall of shadows swept around the Rangers, sealing them off from the rest of the restaurant's patrons. There were hundreds of Pathbearers in the room, all of them enjoying their second or third meals, some of them returning for even the seventh time. Now the singular chef of the Sky-Swallowing Carp himself was standing before them. He strode through the dark like it wasn't there at all, though no sound or light followed him. With him came something else instead: a choking, oppressive dread that even Morgan couldn't shake. It was because of that dread that none of the Rangers fired. They all hesitated, and that hesitation drew on their nerves as the Deathless sighed. He walked slowly, step after step, hinting at no sudden movements, no violent intent. When he reached their table, he leaned over and stared into the bowl of cold, uneaten eggs and ham that Morgan Munny had ordered three days ago.
+
+“You have a complaint about my food, Hero-Ranger?” the Deathless asked, and his voice, though somewhat deep, held a softness to it that painted him evermore the boy in Morgan’s eyes.
+
+He stayed silent. He had nothing to say. His eyes were still locked on the place where the Culturist stood before the darkness swallowed him. He anticipated the orc to emerge from the dark at any moment, to twist the head off the neck of one of Morgan’s companions, and to make him choose between which of the others he wanted to save while the others died. He waited, but that moment never came. It was just the Deathless and the Rangers, and said Deathless seemed more bothered by the uneaten food than the fact that he had a monster in his restaurant.
+
+The boy sighed as he pulled out a spare chair and sat down across from the standing Rangers. His posture was utterly relaxed compared to theirs—like he was certain they couldn't hurt him at all.
+
+And considering how Morgan couldn't get a read on any of his skills, even after repeatedly Analyzing him, or the sheer aura of danger that radiated from the boy's every movement, even when he kept his posture light, he might just be right. In terms of his strength, he might be as much of a monster as the Culturist.
+
+“Look, if there's something you don't like about my cooking, you can just tell me,” the Deathless said. “We'll run it over to the kitchen, and I'll have you fixed up in no time.”
+
+Morgan narrowed his eyes. But there was no hint of mockery in his tone. And that just made it all the stranger.
+
+The two then embarked on a brief battle of locked gazes, and as they stared one another down, Morgan updated his judgment of the Deathless. He wasn't a boy. He wasn't a boy at all—something that pretended to be a boy, maybe, but no child was so certain of themselves. No child was so muted of affect or fear.
+
+Morgan spoke first, but his words brooked no surrender. “The order was pure courtesy. You don't come into someone's establishment and not pay.”
+
+The Deathless pinched the bridge of his nose and let out a sigh that was somewhere between relief and annoyance. “Man, if you wander into a restaurant and don't eat the food you ordered, the chef's going to get ideas, you know? You had me second-guessing myself here! For fuck's sake, can you all sit down? There's a reason we came in through the front door and walked right up to you. It's the same reason you're stuck in this void right now. You will not shoot the Culturist and make a mess of things here. We will all talk in private right here, right now.”
+
+None of the Rangers sat down; they wouldn't, not until Morgan holstered his piece first. And after a beat, he did. Still, he kept his hand near his holster. Gunhead lowered his skull and his own lever-action in line with the Deathless’ right eye.
+
+The one they called Shiv just snorted. “Look, you guys can shoot me, alright? Just do it if it'll help you get it out of your system. Empty those guns, and then we can talk. Again, I'm not here to threaten you. I'm going to be straight with you, and that's why the Culturist is with me. I know you have blood with him, but—”
+
+“Roland said he was a comatose vegetable. Roland said he was incapacitated. He don’t look incapacitated to me.” The words left Morgan—but it didn't feel like he was the one speaking.
+
+“Yeah, so, things might have changed a bit in the time it took you to get here,” the Deathless explained. “And frankly, the Culturist’s different as well. He's still a pretentious bastard—”
+
+“Ah, fuck.” Gunhead groaned with exhaustion. “Boss, this one's an idiot. The Culturist got him too. Has him fooled. I think we should just put him out of his misery and move on—”
+
+“But,” the Deathless continued, speaking over Gunhead, “he got the itch burned out of him, and he's done with the Challenger. For good.”
+
+Gunhead's skull-cylinder promptly jammed as he nearly misfired. The Deathless's claim hit all the Rangers like a hammer blow to the gut. But, though the wind rushed right out of Morgan's lungs, it would take more than an unproven boast to shake him.
+
+“You don't have to believe me, but I'm going to tell you this: If I was in league with the Culturist, and if he was still who he was, we wouldn't walk through the front door. I'd simply kill you all in the dark before you even smelled me, which I can do. Easily. And it's not because the rest of the Gate will help me or because I have the Culturist with me. It's because there is nothing any of you can do to stop me. Between him and me… Well, he’s the stronger Pathbearer, but I’m the bigger problem. After all, if you kill him, it'll be some time until you see him next, but if you kill me, I'll be back in the next second, and the second after that, and the second after that, until your guns turn to slag and I'm painted in your life-heat.”
+
+The threat was believable enough by itself, but the animated darkness spewing forth from the Deathless seemed to somehow amplify the dread factor. Everyone suffered visions, then: images of the Deathless scarring a shining entity. In that moment, Morgan finally faltered, for he recognized the being the Deathless cleaved into. He heard her screams, and he knew then that an Ascendant of the Republic had suffered a lasting scar from the one seated across from them.
+
+“Fuck,” Sooth choked, clutching her skull—the same place Daughter was wounded.
+
+But then, the darkness receded as the Deathless leaned back in his chair, turning his face toward the ceiling as if he'd shown them a forecast of the weather. “And before you ask, no, that's not an illusion. It's a real memory.  And I know you can feel it in your bones. Now that we're somewhat on the same page, I want you to do some basic math. I want you to understand that this isn't me threatening you. This is me establishing a few things so that you don't misunderstand what I'm about. I can kill you. I won't kill you. I refuse to kill you, and if anyone tries to touch you in my, well, Adam's Gate, I will flay them. I will nail them to the roof of my restaurant and use their screams to hopefully teach every other felling idiot with an itch in their hands to follow the rules. That goes to everyone here, from the Dragon-Knights to the orcs, from the Pathless up to the Legends and gods.” The Deathless smiled broadly at them, and though it seemed genuine, there was also a seriousness conveyed by the expression. “We're all going to get along in Gate Piety. I insist on it.”
+
+Somehow, for some strange reason, Morgan couldn't stop himself from breaking out into dry laughter. He insists on it, he says. He insists.
+
+The Colt and the Will called for Morgan to lower his gun, reminded him that the Culturist was nearby. The orc hadn't struck yet, and the old Ranger knew his enemy well. This was a moment of absolute advantage. The Culturist was the kind to play with his prey only after the actual fighting was done. Right now, if he hadn't struck, that meant he was kept on a leash or held at bay for some reason. Something about the Deathless proved unnaturally magnetic. It might have been a Social Skill, but if it was, it was a hell of a subtle and influential one. Almost unwillingly bewitched by the Deathless' confidence and the menace that he radiated, Morgan acknowledged his presence and holstered his gun.
+
+"Boss?" Gunhead said, confused but also relieved on some level.
+
+"Lower your weapons," Morgan declared. "Deathless here wants to talk.”
+
+“And I do,” the chef said with a smile on his face. “And this is going to be more than just a chat, because by the time I'm done, there will be an opportunity on the table that you won’t get from anyone else.”
+
+Master-Scout Janeway, one of Morgan's newer Rangers, scoffed derisively. "Like I haven't heard that shit before."
+
+“I'm sure you haven't.” The Deathless turned his gaze on her. “Because I'm going to offer you a chance to attack the Challenger in his own dimension. I got an exclusive entrance straight into the Tutorial itself.”
+
+All of a sudden, the other Rangers grew hushed. Morgan leaned in. “I might believe that, but I might have also heard a few more things about you, son. Things that might not sit right with me and mine. They say you're a Vaketh-Insul.”
+
+“I am,” the Deathless said without shame or hesitation. “I made that bargain to see my home saved. I did it because out of all the shitty choices I had at the time, it was the only one to make. I paid for that. My friend paid for that. People I loved paid for that. The Challenger is no friend of mine. And that's half the reason I'm here. He's going to invade this Gate. If you've been wondering why the Summer Invasion never took shape over at Lone Star, that's because they were with me, and now that that's basically fallen through, they're still gone because they're preparing to invade someone other than you. They're coming for me. They're coming for the Gate Lord. They're coming for Gate Piety.”
+
+“So, your deal went bad, and you're thinking about having us bail you out?” Morgan sneered. “Guess you really are a northern boy.”
+
+Rather than being shamed, the Deathless glowered back at him. "I'm not asking you for anything, asshole. I'm giving you a chance. You want in on this fight? Well, here it is. You want to strike your enemy directly in the heart? Well, here's your chance. Or you want to sit around and wait for the next wave to come, and the next wave, and the next wave after that, until they finally sweep through your defenses and butcher everyone you love? Until you're just a memory and everything your people ever did is ash? Well, be my guest. I can't force Lone Star to do anything. But me? I intend to win. And this time, I intend to do more than just take an arm from the Challenger.”
+
+For the third time, it felt like someone struck Morgan. Before he could ask what the hells the Deathless was even talking about, something emerged through the darkness. It was a hand, burning a vivid red, and painted in the icons of war. It was ash cast up into the sky from falling artillery. It was smog born of burning bodies and melted buildings. It was blood staining the air. And all of it leaked from the Red Rider's Hand and choked the atmosphere in a festering, foul taste.
+
+Everyone felt it then, that it moved to the Deathless’ whims. Everyone, including the Colt and the Will. Morgan's holstered gun screamed—it sensed the presence of the Arch-Enemy. It declared that this severed limb was of the Challenger, that there was no denial.
+
+Someone in the back broke into prayer, while Morgan himself looked on in disbelief. First, his eyes were locked on the boy sitting across from him, the boy that smiled at him. Gunhead’s mechanisms rattled with nervousness, and Sooth—well, she began to pray too, though not to some god or the System. To her iron.
+
+She only did that when she thought she was about to die.
+
+Morgan himself had no words to offer. His entire existence narrowed into this moment. It was only the now. There was only him, the Deathless, and the hand beside him.
+
+How?
+
+How?
+
+Though he could feel, though he couldn't deny his eyes, though he saw the hand for what it was, he just couldn't imagine someone… mutilating the God of Strife himself.
+
+How? his mind asked again.
+
+As if sensing his question, the Deathless leaned in close, and for the first time, Morgan had to fight the urge to stay, for his every instinct screamed in terror and begged him to flee.
+
+“Death is upon us!” The Colt and the Will hissed from the gun on his hip. “Death is upon us! Death is upon us!”
+
+“The Challenger decided to get his pleasure from me and mine,” the Deathless began, his voice dark with memory, and Morgan knew that look, knew that growl in the boy's voice. He understood they were kindred spirits in this moment. But then that moment broke as the Deathless continued speaking. “He reached too deep, though. He went digging too far for pleasure, and when he did, I sliced his arm off. I took this from him. It wasn't given. It wasn't granted. I took it. And I intend to take the rest from him as well: all of his orcs, all of his worlds, every limb and bit of his flesh, until there is nothing left of him. Until the work is done.” The Deathless shrugged. He grabbed the Red Rider’s Hand out of the air and waved it around in a vague gesture. “And aside from this, we already got started on the orc part as well.”
+
+“What the hells do you mean by that?” Gunhead asked.
+
+The Deathless didn't answer using words. Instead, he lifted his open hand, and the darkness parted. On the other end, the Culturist stood waiting. The Rangers nearly burst into action, but the Deathless held up his hand in a placating gesture. To Morgan's disbelief, but also his continued astonishment, he found himself willing to listen. It was by now that he was sure there was a Social Skill at play, and the fact that they'd listened at all was what had caused them to all be entrapped.
+
+Worse yet, it seemed like the boy's charisma had infested the Colt and the Will itself. For the gun was more than fearful of the Deathless; it was in part enchanted by him.
+
+Stepping through the tunnel with so much as a rustle from his cloak, the Culturist sat down beside the Deathless. There was no chair for him, and so he simply sat cross-legged on the floor, but he still loomed over all the Rangers on the other side of the table.
+
+Morgan couldn't hear anything now, couldn't focus on anything else. The thundering of his heart, the blood that rushed through his ears, it drowned everything. Even with his hated foe so close, Morgan felt like he was falling away from himself. The presence of the Deathless was more than a distraction; he was more like a wedge, pushing his people toward an unwilling horizon, bit by bit…
+
+“Hello, Hero-Ranger,” the Culturist said—more gently than he'd ever sounded before, without even the slightest hint of sadistic teasing. “I would say that I am glad to see you again, but in honesty, I hoped we would never encounter one another, especially after what I last inflicted upon you all those years ago.”
+
+Morgan’s flesh was in the Sky-Swallowing Carp, facing the Culturist, but in the Ranger’s mind, they were both elsewhere, decades past. They were in the Tutorial, him, the Culturist, and Helen…
+
+Morgan’s daughter.
+
+His little girl.
+
+Left far less after the Culturist was done.
+
+“I know where you are,” the Culturist said, breaching even Morgan’s inner peace. “And I know what I have done. If you draw your weapon—”
+
+“Don’t you fucking do that,” the Hero-Ranger snarled, his breath rattling under his voice like a snake. “Don’t you even try. I know what you are. I know what you are. I don’t care what color your eye is or what this fucking child says happened to you. I know what you are, and I know how you end. There’s only one way for the both of us. Only one way.”
+
+“So you say,” the Culturist answered without contention.
+
+And that made Morgan hate the orc more than anything else in existence anew. Here he was, playing at tranquility, pretending that he understood what he'd done, that he sympathized. But there was no sympathy to be had—there was no making right everything his kind had done to him and to his comrades and his people and everyone on all the worlds they'd ever butchered in the name of their mongrel father!
+
+Even if the itch was burned out of them, that didn’t change the history between the orcs and Lone Star. Curing the monsters didn’t mend history none, and the Colt and the Will yearned to see things settled as much as ever before.
+
+“Nothing’s ever gonna be forgiven between us,” Morgan said, ice in his voice. “Not between you and me, and not between your kind and mine. If you had any hopes of that, then you let that fire die in you, because there’s only one way this goes. Only one way. The choice was made when the first of you shits let his blood seep into our soil. The only way this ends is when we finish dying on yours.”
+
+“Most reasonable,” the Culturist replied. And the monster had the audacity to smile. “And that is what we are offering indeed: You say I am unforgiven. I will not deny you that. But will you be satisfied with slaying me alone, or will it content the ire inside you and the rest of your people if you can visit your retribution on the fullness of mine?”
+
+“No more desperate defenses,” the Deathless said. “We’re going to be pushing an offensive war and dictating terms now. Because we all share grievances with the Challenger—”
+
+“Who is we?” Gunhead cut in, keeping his face pointed at the Culturist.
+
+“We is we?” the boy repeated. “All of us here. Including the Culturist, because, well… You want to tell them, or should I?”
+
+“Best that you do it,” the Culturist answered. “My presence is best kept to silence and trauma.”
+
+His presence, then, was promptly overshadowed as he let go of the Red Rider’s Hand. It approached, a crimson fist of war, and all the Rangers looked upon it as if an icon of deepest hell descending upon the world. And yet, for as much as there was no denying its nature, there was no denying its severance. It truly moved to the whims of the Deathless, and at that, questions percolated inside Morgan Munny's head. Questions he wanted to ignore in order to address that festering grievance. Beyond his own wants and desires, his own retribution, there was something deeper and higher. There was a higher debt to be paid, not between him and the Culturist, but between his people and every grayskinned monster that ever stained their lands.
+
+The Deathless was right, in a sense.
+
+Of course, this could still be a scheme, some twisted game the Challenger was playing to torment Morgan, but it didn't seem that way. No, the Challenger reveled in cruelty and strength, and only the Culturist was the kind of orc to endure a prolonged fast, to indulge in higher pleasures. If there was any other grayskin involved, they would have breached the peace and tried to take from the available flesh.
+
+That led to a tantalizing but unbelievable explanation: someone had cleaved the Challenger's right arm free, and that someone was right in front of them, offering them an opportunity to join his campaign against the orcs directly. Harder to believe yet was how he'd managed to turn some of the orcs away from their maker.
+
+But again, the Hand was right above them.
+
+“I got more than this to show you,” the Deathless said. “A lot more than this. You guys have grievances with orcs? Well, I'm going to tell you something that you might not like to hear. Might shake you too. Got more than just a straight shot over to the Tutorial. We have two million new orc turncoats in the Gate, and we have the one that—”
+
+Morgan had heard enough. He turned suddenly on his heel, and for the first time he caught the Deathless obviously off-guard. Instead of drawing his pistol, however, he looked to his true gun, John Gunhead, and commanded his fellow Ranger to rise. “John, you're with me. Sooth, you're in charge while I'm gone. If I'm not back in twelve hours, me and John are dead, and Gate Piety is compromised.”
+
+Sooth wanted to argue, but she heard the command in his voice and accepted. Sooth was a good sort, a smart sort, the obedient sort. She'd make a good Ranger someday. She'd make maybe a better person after—friend, a lover, a mother, something. Anything. Anything beyond being a gun. She still had a chance at that.
+
+Those like Morgan and Gunhead, though, were to be spent like the bullets they carried.
+
+It was the way things ended for them.
+
+That way and not some other way.
+
+Morgan scowled at the Deathless, who just leaned back and smiled. “Alright then, kid. You show me them orcs. You show me two million orcs inside this Gate, keeping to their own, not hurting any people, not hurting each other, not hurting nobody. You show me that, 'cause I can't believe it—but I can barely believe that hand either, even if I can feel what it is.”
+
+And there was that look of triumph and anticipation behind the Deathless' eyes. Like a lil’ kid who'd scored himself a lifetime supply of candy. “Well, Ranger, life under the System may have made you a man of little faith, but if you stick with me and mine, I'll have you believing in miracles again in no time.”
+
+John Gunhead rattled his cylinder. “Sure you will. But let me make something clear, Deathless: if you’re trying to piss down our legs and wanna tell us it’s rain after, you’re going to find yourself living under a shower of steel.”
+
+“I hope so!” The boy laughed. “It’s the main reason I came to you guys first. Now. Let me show you the Peacehold.”
+
+“Peacehold?” Gunhead spat. “The fuck kind of bullshit name is—”
+
+***
+
+Harbinger of the Tripartite Ruin 370 > 374
+
+These Words of Truth and Adoration 95 > 98
+
+“Holy fucking shit,” Gunhead whimpered. “How? Fucking how?” The automaton's disbelief was approaching hysterical levels. Shiv couldn't blame him. After all, he'd spent an entire lifetime fighting orcs, watching them indulge in depravity and cruelty without penalty. Then suddenly, as you approached a settlement stuffed full of two million orcs and found them doing little more than just sitting around when there were so many tasty victims around for them to abuse, things got more than a little incredulous.
+
+Uva notified the orcs of their impending guests, and in short order, they prepared massive welcoming banners that cascaded down the pristine sloped walls of the Peacehold.
+
+John Gunhead and Morgan Munny came to a startled halt as they saw representations of themselves stitched into said colossal banners, depicting them in heroic guises and vivid detail. Munny was given his wide-brimmed hat, ridged with steel plating along the top, and he had his pistol drawn. With a series of magical spell-shapes spiraling around the barrel, Gunhead was depicted in gleaming chrome, and the weapon that defined his namesake and skull was pointed high, firing a plume of Pyromantic flame.
+
+Overhead, a flaming sigil spat streams of trailing light, and a series of words were imprinted upon the clouds above, overlapping with the crystalline veins that spilled forth from the mana core: “Welcome to the Peacehold, Rangers! Sorry about all the people we butchered! Here's to the beginning of a beautiful new friendship!”
+
+As John Gunhead veered dangerously close to a nervous breakdown, Munny seemed like he wanted to take his revolver out of its holster and shove it down his throat. “What the… fuck?”
+
+“I know, I know,” Shiv said with a chuckle, patting the Ranger on the back. “So, the thing is, when I promised you miracles, I should have mentioned that not all of them are of the perfectly happy kind. Welcome to Gate Piety, Ranger. Welcome to the Coalition Against the End.”

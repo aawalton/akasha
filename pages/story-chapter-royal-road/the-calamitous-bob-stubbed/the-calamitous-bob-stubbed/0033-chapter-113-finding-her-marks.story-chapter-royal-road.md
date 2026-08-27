@@ -1,0 +1,363 @@
+---
+id: 5740a336-1e42-506b-9d87-932f72058976
+page-type-slug: story-chapter-royal-road
+title: "Chapter 113: Finding her marks"
+slug: 0033-chapter-113-finding-her-marks
+partOf: the-calamitous-bob-stubbed
+position: 33
+ownLength: 5673
+unit: words
+ownProgress: 5673
+publishedAt: 2023-04-07
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1161423/chapter-113-finding-her-marks"
+royalRoadId: "1161423"
+markedReadAt: "2026-06-29T21:15:51.567Z"
+---
+
+Light filtered through the thick windows in that peculiar pale hue dawn possessed. Sterek had slept poorly. He had slept poorly for several nights, and now even endurance could not save him from a pounding headache. In fact, the entire situation was a headache. The assassins had still not slain the traitor prince. His bitch lover had not seen the light or she had failed to convince him to spill his secrets. Sterek had yet failed to understand the targeting aspect of the pilfered construct. It looked like coordinates. He just didn’t understand them.
+
+His path to fame and recognition was blocked for now. He needed a breakthrough or funds would disappear and so would his reputation.
+
+But for now, he had to dance for his benevolent sponsors. His spell was ready, for what it was worth. Every piece was where it was supposed to be.
+
+Sterek bit in a slice of preserved permonn fruit to chase away the bad taste on his palate. He forced some infusion down his throat. His visitors were at the door, early as usual. They would inspect his work then return to their quarters before the day truly began because he was just a distraction. A side project.
+
+He would show them, eventually.
+
+A knock on the door, and he swung both panels in with a gesture. His guests were too jaded to appreciate the trick. They walked in with purpose and filed into the lab without waiting for an invitation. There was a tanned man with a ruddy face and scarred hands representing the builder’s guild. An officer in full plate and crimson tabard displaying the white walls and tower of Helock stood in for the army, while an administrative employee of the Academy in white robes followed them. She was the only one who showed some trace of respect and shame, which proved she had not forgotten her place. The others had not overtly disparaged him but he could tell they were… reconsidering their options.
+
+Sterek found it infuriating, though his pleasant smile never left his lips. They were primitive morons incapable of understanding the complexity of what he was trying to achieve. He would have a better chance teaching alchemy to a cornudon than to make them appreciate how sophisticated space magic could be. Damn money pinchers and sabre rattlers. Heathens.
+
+“Magister Sterek, a pleasure as always. How fare you? Please do not overwork yourself,” the merchant said.
+
+It was a cheap and unsubtle insult meant to denigrate his efforts and imply he would be ‘retired for his own good’ in the near future, unless he could produce something.
+
+“I am fine, and excited to share this fortnight’s progress. Thank you. A good day to you Commander. Tashey, a pleasure as always.”
+
+“Good morning, magister,” the Academy’s pawn answered.
+
+“Now I am sure you are all eager to see the progress we made. Over the past two weeks, we have continued to explore the targeting and designation part of the spell. As you know, we need to be able to pinpoint a location in order to create bridges between useful locations rather than randomly. We have discovered with some effort that there were four parameters that worked in an harmonious whole and need to match or the construct destabilizes. I managed to narrow down interactions to a feasible range of parameters. In layman terms, I will keep casting and testing various coordinates until we reach a true harmony and the portal opens. With enough attempts, we will derive a formula the coordinates need to fulfill to be viable.”
+
+“It sounds like you are brute forcing the issue, throwing numbers at a wall to see what sticks,” the commander said, and damn him for being so accurate.
+
+“That is not entirely correct. We are discovering an entire new branch of mathematics and magical theory. I would say I am conducting tests rather than brute forcing. We simply need a sample of data large enough to derive rules and test hypotheses.”
+
+“And how long do you expect the testing phase to last?” the merchant asked with a sweet voice.
+
+Sterek spread his arms and sighed to give himself the time to calm down. They didn’t know. They couldn’t understand. He had to be patient.
+
+“We are breaking new ground here. This is an experimental field of magic that even the Old Empire had not developed to a science, as they relied on exceptionally rare skill users. We are all gathered here because we know the tremendous implications of a stable portal system. Some measure of delays and inconsistencies must be expected from an endeavor of that scale and ambition.”
+
+Sterek would have continued if his instincts had not screamed at him. Teysha and the merchant glanced at him but the commander looked up and so did he. Only a magically blind person would have missed the shocking concentration of mana gathering above their heads.
+
+Glyphs carved into the very ceiling and that he knew for a fact had not been there a day before shone a blazing white. Lines formed circles and balanced lines between points that could not be linked and were bound anyway. Perspective played with his mind until there were two spells in front of him: a flat one carved on a bland ceiling, and a delicate and ephemeral symphony of shapes rising up to a sky beyond his reach ad infinitum. The air shivered with the lightest of breaths.
+
+A portal opened above them.
+
+Today’s gray weather spread right instead of up, and the lichen-covered rocks of the highlands extended left. A shape walked through, first horizontal and then vertical as earth’s attraction rectified itself. It was the shape of a man he knew and dreaded, and more still.
+
+When Sidjin had visited him, Glastia’s arch traitor had been a tired man with sallow cheeks and a thin frame hidden behind a cheap travel cloak. Now, a prince floated above Sterek. The man descended with grace and a perfect control only mastery over colorless mana could grant. A rich mage robe adorned his shoulders, gray to signify his loss of allegiance. Keen eyes inspected the gathered inspectors and Sterek himself. At no point did Sidjin lose his composure, even when landing. His expression did not betray a single emotion, save for the natural arrogance of one born of royal and arcane blood. The prince was back. And Sterek… Sterek was gone.
+
+“The cause of your delays and inconsistencies is not that your subject matter is complex, it is that you do not understand its core nature. There is so much I have not written in my notebook because I had no need to remind myself of basic truths. Beyond that, the true cause is that when you stole my research, Magister Sterek, you did it rather poorly.”
+
+“You are trespassing.”
+
+“No honor among assassins, magister,” Sidjin replied off-handedly, and the implication was clear. He knew.
+
+Not that Sterek had been very subtle.
+
+“And you sir might be…” the merchant said while gazing at the portal with naked greed.
+
+“Sidjin, previously of Glastia, inventor of the colorless portal spell. A pleasure.”
+
+“A delayed pleasure. We were informed of your demise…”
+
+“Those were wishful thinkings, thankfully.”
+
+“Thankfully indeed. And you claim to be the one who came up with a functional design? Originally?”
+
+“I am. The portal is my spell, built upon the understanding of space I grew after working with colorless mana for the duration of a very bloody, very exhausting conflict. There is quite some distance between the walls of Glastia and the ground where the endless tide of beastlings crawls, you see? I had to make sure my grinders were deployed for maximum efficiency.”
+
+A transparent sphere formed in Sidjin’s hand, then it grew spikes until it resembled the glass sculpture of a flail’s head. The ominous implement twirled on itself with a disturbing, organic motion. It floated away from Sidjin’s hand to glide over the cluttered shelves lining the walls.
+
+“Space is not an idea or a point. Space is a fabric, and that fabric is not as smooth as one might think. Beyond depth, width, and length, there is also a question of density. Weight, so to speak.”
+
+“Weight?” Sterek whispered despite himself.
+
+“And you have the full right to the spell itself?” the merchant asked.
+
+“I do. Sterek can attest that even with the help of my notebook, he has yet to equal me in replicating the spell.”
+
+“He can?” the commander asked with obvious doubt.
+
+“Of course,” Sidjin replied, and he pointed to Sterek’s data storage golem.
+
+The magister slowly angled his body towards the piece of sophisticated technology. He was aware Sidjin had breached his sanctum, but surely he had not tampered with a secured artificial mind? Surely there was a limit to the outrageous man’s luck?
+
+“No no no no no,” his own recorded voice bemoaned, “Why? Why? Why doesn’t this fucking work? Damn you Sidjin, what do you have that I don’t? What’s your damn secret? Aaaaarg. Alright. Alright. I got the gist. I got the idea. It’s merely a problem of calibration. I can do it.”
+
+“Except, it is not,” Sidjin calmly explained. “The spell’s power and direction must match the distance and direction of the target location and the coordinates must match to an exacting detail or the breach will take massive amounts of energy to trigger. What Sterek tried was akin to stabbing a door with a key, hoping to force it open.”
+
+“Fascinating,” the commander said in a bored voice. “I cannot help but wonder where you were all this time we were working with your colleague, however. I find the timing of your intervention… fortuitous.”
+
+“After my city and I had a disagreement over how to treat our allies, I was imprisoned. After I escaped, I had to put some space between us and travel incognito.”
+
+From the portals, Sterek thought he could hear a faint groan.
+
+“But I suggest we discuss it around breakfast,” the prince finished.
+
+“That sounds like a fantastic idea. Commander?”
+
+“I would like to join as well.”
+
+“Lady Tashey?”
+
+The pawn hesitated, but Sterek knew how she would answer. Discovering the truth was more important than preserving the image of a disgraced researcher. She accepted their offer with a subdued nod.
+
+“Well, Magister Sterek, we will be off. You can expect a letter from us shortly. Thank you for your time!” The merchant said on the way out.
+
+The door closed.
+
+The portal winked out.
+
+Sterek was ruined.
+
+***
+
+Sidjin had his moment. Viv watched him from afar and stayed hidden to avoid getting even more involved than she already was. Solfis reported that the lost prince had taken to diplomacy like a fish to water which made sense since he had, after all, the training and the experience. He managed in a single morning to go from shunned outsider to the new owner of the lab which Sterek would be vacating shortly. Viv did not wait for him and went back to the dormitory instead where she found a bleary-eyed Ereska recovering from two straight nights of intense socializing. Apparently it had involved a lot of drinks.
+
+“The talent hunting season has started in earnest. I must say, I expected a couple of people to ask about your puppet, Rakan, but I underestimated the racial tensions dominating the city.”
+
+The younger woman considered Viv through half-lidded eyes.
+
+“You won’t be able to stay away from the scene forever, you know? The end of the semester will have group activities. With your talent, you will be piled on unless you can form alliances. Isolation sends all sorts of wrong signals to those around you.”
+
+“I know, I will also pay for not networking early but right now I am too busy with vital things.”
+
+“Well, yes. You also have the support of the faculty of medicine. There will be a restart of the social scene later in the year. We will see if we cannot get you accepted then. But I digress. I am sure you are busy and I need to attend to my headache.”
+
+And Viv was busy.
+
+At the Academy, it was understood that the weekend would be employed to fulfill social obligation and catch up on homework. Viv had exactly one afternoon and one evening to complete two essays, practice spells, and review material for the next classes.
+
+Fortunately, Rakan offered to help. The young man was not aware Viv was out and he showed obvious signs of relief when she told him she’d gone to the city.
+
+“I can’t leave the Academy’s domain,” he told her as they settled in a deserted corner of the library.
+
+“Or rather, I can but my sister asked me not to and she’s been worried lately.”
+
+“She’s a hunter, right?”
+
+“Yeah, there are a lot of jobs right now with laborers going to harvest faraway orchards. Soon it’s going to be fall and that’s the busiest season around here. That’s what she said. Errr sorry that’s probably not very interesting. Anyway, sis said that the city wasn’t safe for people like us right now. You know what I mean.”
+
+“Hallurians. Yeah, I heard there are tensions.”
+
+“More like straight shakedowns,” Rakan growled.
+
+He shook his fist with an anger that bubbled under his shy personality.
+
+“It’s not fair. We don’t support the warlords. None of us here do, we all ran away! Why can’t they understand that we want the warlords here even less than you guys? I mean, even less than the locals. We’re traitors in their eyes. They find us and we die.”
+
+“Wait, is your sister alone outside then?”
+
+“She’s part of a hunting team. They are out of the city right now, that’s why she asked me to wait until her return. She’ll get money and then get a permanent place to stay somewhere close. Safer that way. Thugs don’t like to annoy the Academy.”
+
+“Yeah it’s probably better not to go out alone,” Viv said after doing just that on repeated occasions.
+
+“Anyway, shall we? You help with Old Imperial and I help with enchanting?”
+
+“Deal.”
+
+Viv was rewarded for her efforts later that night when they were done with most of their work.
+
+Arcane Constructs: Beginner 9
+
+She was close to a breakthrough, she could feel it. Rather than facilitating calculations like it did for Rakan, her skill gave her an intuitive understanding of balance and what should be done to keep an enchantment stable. She felt she could go back to Kazar and build three monoliths a day to expand the livable zone around the city. In fact, she probably would if she survived.
+
+Viv managed to finish her second essay around midnight by cheating a little bit. General Jaratalassi had asked them to comment on a battle report and Viv found a section written by the man himself in a rare book on the topic. She made sure that their vision and analysis subtly ‘aligned’, made one significant change to make sure it wasn’t too obvious, then did some light reading and called it a night. Six hours of sleep per night were considered a luxury here, and exam periods would be significantly worse.
+
+***
+
+The next day started with a surprise. A general announcement spread via sound spell asked the students to remain in their rooms for a little longer. Everyone was then summoned to the massive amphitheater where announcements were made. To Viv’s surprise, the assembled staff was here along with a manacled junior teacher waiting on his knees. Everyone seemed grim and Viv felt the mood keenly. Auras were agitated that day, with plumes of free mana escaping the distracted casters.
+
+“Ladies and gentlemen,” the Dean began, “it is with deep regret that I must tell you that assistant professor Ulys attempted to murder a student of this noble institution.”
+
+Whispers spread across the assembly until the dean lifted a hand. A wave of viciously powerful magic covered the vast room, silencing every conversation. His voice came crisp and clear as if he were standing right next to Viv.
+
+“Silence. I know you are curious and it does not matter. Just know this: he planned to poison his target by having two different students feed him innocuous potion. When combined in his stomach, the mix would become deadly.”
+
+The dean scoffed.
+
+“Every year, someone tries to skirt the rules by lying to themselves or by hiding behind technicalities. It will not work. Better and smarter people than you have tried over the years and those few who succeeded led to rare loopholes getting closed. The Academy is a safe haven. You will respect and enjoy this truth or you will perish. His accomplices have been firmly disciplined for their naivete which led to the endangerment of one of their peers, and they will spend the rest of the year mucking stables without magic. As for professor Ulys, the verdict is simple and definitive.”
+
+The dean placed his hand at the base of Ulys’ skull. A dreadful flash shone brightly, pushing back the shadows of the room to their darkest corners. The bound man collapsed, quite obviously dead.
+
+A priest walked in and placed a hand on the corpse to stop it from rising. In the following moment of quiet, two armored warmages retrieved the body.
+
+“Let me be perfectly clear again. The Academy is a safe haven. You are protected here, just as the other students are. Do not give yourself to complacency by participating in schemes for easy rewards, and do not think for a moment you will succeed where generations of crooks have failed before you. The entire staff is on the side of the students and their protection. We will show no mercy. That is all. Despite the circumstances, I wish to each and everyone of you a good week.”
+
+Viv queued out with other subdued students but when she reached the doors, an armored mage placed a gauntleted hand on her wrist.
+
+“Viviane the Outlander? The dean would like a word with you. If you’ll follow me please.”
+
+The guard turned around without checking if Viv followed, not that Viv would bail. She realized the guard’s voice had been distinctly female though the armored chest plate and helmet made them hard to identify. It led her to wonder if some of the staff moonlighted as terminators or if it was a dedicated position. In any case, she wouldn’t find out easily. The potent enchantments masked her aura and their own. She didn’t even know what element her guide wielded.
+
+Those considerations lasted until they entered the dome-covered main concourse and up several flights of stairs. The guard politely opened a warded door to a section of the Academy Viv had never visited. They were quite high with many windows leading outside to the garden. She read a plate near a heavily protected entrance and recognized one of the teachers’ names.
+
+“Are those the staff personal quarters?” Viv asked.
+
+“If I may ask,” she amended quickly.
+
+For a moment, she thought the guard might ignore her which she would understand. Hard to maintain the armored bounty hunter vibe while entertaining small talk. Nevertheless, the guard nodded under her visor.
+
+“Yes. Offices and living quarters. The junior staff share accommodations with students.”
+
+“I see.”
+
+This part of the Academy would be harder to breach than a bank vault. Viv didn’t think anyone except Irao would consider doing it. Everything from the walls to the floor to even the window pane swirled with embedded mana channels linked together. Most of it seemed unpowered at the moment, possibly active defenses, but there was so much stuff it made her dizzy. She blinked and tried to focus on something else. Furniture was sparse in common areas with just paintings and rewards hanging from the polished walls. They didn’t come across anyone since classes had just started. Eventually, the guard let her up a flight of monumental stairs and past a suspended platform Viv heavily suspected was an elevator. The dean’s domain extended past a modest reception area, more like a lounge than an antechamber. The guard knocked on the most ornamented door Viv had seen in a while. They were let in before she could develop a headache from all those enchantments.
+
+While the rest of the Academy’s top floor had not wasted any space, the dean’s office was large and cleared with a long empty spot leading to a massive desk. Windows lined the walls, showing Helock far below and beyond that, the shimmering blue of the ocean lit by the morning sun. The guard’s feet stomped on an intricately parquet floor. The air was clean and pleasant, the temperature perfect. A tea table waited towards the back of the room and a door that led further in. The singularly ugly face of the dean glanced up from a pile of documents he was reading and signing with a speed that only an advanced skill could provide. He passed a massive mitt through his perfectly groomed beard and considered the pair.
+
+“Thank you Zael. I will not bother you any longer. Student Saint-Lys, kindly take a seat.”
+
+While the guard left, Viv settled on the offered chair and studied the glyphs below, which when activated, would explode and incinerate her at the same time. Her detached interest was ignored for the time it took for Dean Tallit to finish his pile of paperwork. It took only a couple of minutes. Truly, skills made bureaucracy much more effective and that was sometimes even more terrifying than the explosions.
+
+“All done. Now, onto our meeting.”
+
+Dean Tallit crossed his fingers under his fat lips and suddenly, Viv felt the full attention of the man who ruled the continent’s most powerful institution fully focused on herself.
+
+“During the welcome ceremony, I reminded everyone the only reason why we have endured throughout the ages. I was quite clear, I believe. In fact, I specifically forwent any sort of subtlety and witticisms to make absolutely sure everyone understood. Can you remind me what that reason was.”
+
+“Because the Academy separates itself from the world’s trouble,” Viv allowed smoothly.
+
+She was up for some scolding, That was fine. Better than prison or anything else the dean could have gotten away with since he was powerful. It was no secret that Sidjin had to break in to leave his teleportation circle in Sterek’s lab. A thorough interrogation by a mildly talented truth seeker would reveal she had a hand or three in the process.
+
+“Yes, separated from the troubles of the world. This includes getting involved in political turmoil and administrative disputes. I would also expect my students to clear away from our noble town’s seediest elements. I would especially expect none of my requests to be ignored within the first TWO WEEKS of your stay here.”
+
+Viv waited politely while the dean glared.
+
+“At least you are not foolish enough to deny your involvement. Know that we have a very thorough, very protective intelligence branch to root out troubles before they occur just like the late Ulys found out. We are not blind and stupid, Viviane the Outlander. You have done the exact contrary of what we recommended and not very smartly either. I am aware that you are from afar and perhaps your society was more peaceful or simple than our own, so I will, again, state things very clearly, very thoroughly, so you understand. Helock is on the verge of serious unrest due to a combination of factors. We are also due a Hallurian invasion very soon. This is not the time to make waves or you will be caught in them and most likely die which I can tolerate. Worse, your status as a student could be used by others to prove that we got involved and this I cannot allow. From now on you will behave like a model student or I will consider measures to make sure you do, adult or not. So long as you are among our numbers you will follow the rules. Am I making myself clear?”
+
+Viv waited, giving herself a couple of seconds to calm down and formulate her response. It was an old trick her dad taught her, though he would fill the silence with inane chatter like ‘I heard your question’. Viv had no need to fill the silence.
+
+“What,” she asked, “is the difference between a rule and a request?”
+
+An intimidation like a tidal wave crashed into her. The power of Dallit’s soul was so massive, so overwhelming it was almost a physical presence. She was not facing an archmage at the moment. She was facing an institution.
+
+“You are playing a dangerous game, Viviane the Traveler.”
+
+There was one thing she had noticed with intimidation. It worked much less when the other person had their own. When she had gone to save Arthur from abduction, many of the thugs had resisted her aura of terror despite being clearly weaker, intimidation included. Viv let her own soul pulse in response with the pressure it was being submitted to. Anger coaxed the calm, serpentine skill to uncoil itself in response until Viv felt like an island in the middle of a storm. She could in no way affect Dallit but the man was blowing and trumpeting in vain. After the storm, Viv would still be there.
+
+“Since you gave me the courtesy of being blunt, I shall return the favor. Sterek sent assassins after my lover, Sidjin.”
+
+The storm abated for a while, less because Dallit was taken aback and more out of curiosity.
+
+“If you have proof of that…”
+
+“I am not accusing,” Viv calmly interrupted, “I am stating a fact. Assassins went after Sidjn the day after he made a formal complaint and long before his family could have gotten wind he was here in Helock. An assassination contract costs gold talents. Only an influential individual could afford the cost and have the contacts to find proper agents. It leaves me with exactly one logical explanation, so yes, Sterek sent assassins after the man I love. Therefore the distinction between rule and request are clear. When I signed up with you, I swore oaths not to do anything that hurts the Academy. Those are the terms I agreed to. I never said I would let a research thief turned attempted murderer go after a man I love dearly because you asked nicely. Wait, I was being too polite. Let me rephrase.”
+
+Viv was still an island facing a storm but this time, the island was a volcano, and it was smoking.
+
+“I will not let one of your employees, or anyone for that matter, go after a person I love, not now, not ever, and whether you like it or not. If you can’t keep your own employees on the right side of not just the law but also common ethical practices, then I consider it doing a favor to the Academy to discredit such individuals.”
+
+“There were other venues available to you.”
+
+“And to Sterek as well, but he still sent killers.”
+
+Dallit fumed behind his desk.
+
+“And Sidjin was stonewalled by your administration. Don’t tell me you needed a birth certificate in triplicate to prove the identity of the fallen Prince Sidjin of Glastia, one of the brightest colorless mana specialists in existence.”
+
+“We have to be careful.”
+
+“Bullshit.”
+
+The time to storm roared and blew, and Viv was pushed back against her seat, but she didn’t flinch.
+
+“We have to be careful because there are many talented conmen who can even change the shape of their face.”
+
+“And no one came to verify if he was one such person, no one visited him in his home. You never bothered.”
+
+“We have better things to do…”
+
+“I didn’t.”
+
+The two casters stood frozen like statues. Dallit was a miniature sun, his mere presence warming the room, but Viv was a shard of obsidian and she could not be brushed aside.
+
+But she had better things to do with her day.
+
+“Look, I was not going after Sterek because he was one of us. I did it because he went after someone I care about deeply. It was a one off. I hope it was a one off. But just so that we’re clear, I am going to go out and be involved some more, and do you know why?”
+
+“You must be suicidal.”
+
+“No, I’m dying.”
+
+This made the dean caress his ample beard once more.
+
+“Ah yes, the health situation. What did Elunath say?”
+
+“He’ll help me if I promise to serve him for a hundred years.”
+
+Shock blossomed on the dean’s ugly face.
+
+“This… is not very generous.”
+
+“But he will lower it by a few years or so every time I bring him something interesting. There will be some years left at the end no matter what, of course. Speaking of, I heard that you might have the same issue with red mana? At some point?”
+
+“This is a very private question you are asking and I will not answer. What I can say is that the process is eminently complex and… you will not be able to conduct it within the timeline you have for you. Even with your talent. I am not just talking about researching the problem. You do not have the skills and willpower, acuity, or focus to carry out some of the necessary tasks. You need assistance and I cannot provide it.”
+
+The dean gauged her for a moment, then sighed, his mind made.
+
+“The final ritual is a death and rebirth one. There is no way your mind can handle the death of the self and keep the spell going at the same time, not now and not within the next thirty years. It takes centuries for us to reach that point of power. I am sorry.”
+
+“Damn.”
+
+“You could always gather the ingredients yourself. It is a major aspect of the process and I am sure Elunath will shave decades off.”
+
+“What sorts of components? He was supposed to tell me.”
+
+“You will need pure silverite and also a pure core of large size of the color that you have picked.”
+
+“So for you it would be…”
+
+“A fire elemental could hypothetically do, though I cannot think of anyone who would survive the harvest. Volcano clams have them. It is only a matter of reaching the beasts themselves. Fortunately, I already found a way to obtain one. As for you…”
+
+“An undead.”
+
+“Not just any undead. You need a large core, and only one species of monster on Nyil has a black core of sufficient size.”
+
+“Necrarchs.”
+
+The dead nodded.
+
+“You can’t hunt a necrarch. However, I was informed you have ties with the Temple of Neriad. I suggest you petition them for help. They always need more help from pure casters, you see.”
+
+“I see, thanks.”
+
+“Good luck to you, Viviane the Outlander. Those are unfortunate circumstances you find yourself in. I hope you get the help you need but do heed my words. You won’t live to the transition unless you exert some common sense. There is plenty of danger even within the city walls, no need to go look for some more.”
+
+“I assure you I’m trying to stay alive. Thank you for your time, sir. I’ll show myself out.”
+
+***
+
+Sterek watched the shore pass by.
+
+He was in self-imposed exile. It was the only solution. He was not the first and he would not be the last to lose his spot and his reputation in a risky venture. So long as one did not provoke a branding of the pariah through some heinous crime, Helock remained kind to her wayward children. It was a well-established process. He would scour the continent for lost knowledge or serve some backwater duke until he regained something of value. Then he would return in quiet triumph, contribute to the Academy and restore his position quietly between two semesters.
+
+It was a terrible waste of his time and talent and yet, while Sterek felt two emotions, neither of them were shame.
+
+The first was relief. After several months of vain efforts and machinations, it was done. He had fallen. He could fall no further. The only way left was up. Strangely, it soothed him, like getting rid of a rotten tooth calmed the infection.
+
+The second was anger.
+
+He had been humiliated by a backstabber and a muddy, mannerless outlander from some backwater shithole. Truly, the low cunning and base guile of the unwashed masses could be terrifying at times. It was difficult to beat a conwoman and charlatan at her own games but Sterek had always been a good student. There were many tools at his disposal.
+
+For example, rumor had it she had such a serious health problem even the faculty could not help her. She had asked to meet with Elunath.
+
+It would be a shame if her symptoms worsened.
+
+Sterek started to hum to himself but soon found air missing from his lungs. He gasped in surprise as a particularly violent spike of agony stole his breath. His surprise only grew when he was lifted from the deck. Rather than empty embankments, his gaze captured the muddy waters of the Shal river, the railing he had been resting against, and the long bone limb jutting from his torso. It was attached to a nightmarish head whose eye cavities burnt with a malevolent amber glare. The twin yellow fires captured his attention despite the pain spreading through his chest, not because they were cold and lifeless, but because they expressed an emotion with absolute, unnatural clarity.
+
+It was contemptuous pride.
+
+Without a noise, without even a nearby sailor turning his head, the war golem slipped back under the brackish waters with its wriggling trophy. They closed around him with nary a ripple, and Sterek was never found again.

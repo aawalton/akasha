@@ -1,0 +1,85 @@
+---
+id: 99cef4c6-b0ae-5581-bfeb-e68fe7c81ded
+page-type-slug: story-chapter-royal-road
+title: "Chapter 233: Introspection"
+slug: 0240-chapter-233-introspection
+partOf: savage-divinity
+position: 240
+ownLength: 2821
+unit: words
+publishedAt: 2017-07-31
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/152223/chapter-233-introspection"
+royalRoadId: "152223"
+---
+
+Stifling a yawn, Chu Tongzu forced himself out of bed at the break of dawn, his body aching and mind weary despite the full night's rest. Though the war for Sanshu was over and won, he still had much to do, with little good accomplished hiding beneath bed sheets. While getting dressed and eating his breakfast, he balked at the task before him, worrying how he could accomplish such a grand undertaking. Not even a full day after narrowly avoiding destruction at Yo Ling's hands, Tongzu now faced the arduous task of saving Sanshu from the Empire.
+
+Three months, the minimum time it would take for the Grand Marshal's Inquisitor to arrive in Sanshu and an impossibly short deadline to accomplish Tongzu's goals. In light of Mao Jianghong's and the Coalition's betrayal, Tongzu's fall from grace seemed all but inevitable. Such was his legacy, presiding over the hotbed of corruption and degeneracy which gave rise to the largest Defiled outbreak in the history of the North, but Tongzu cared little for what the history books would say of him nor did his fate concern him. At worst, he'd be convicted of gross incompetence and sent to serve at the Bridge, a welcome change after years of drudging over matters of state of policy.
+
+No, his concerns laid with the good people of Sanshu. In the wake of disaster, many would clamour for a full-scale Purge of the region, rendering all the efforts and heroic sacrifices of Sanshu's heroes for nothing. Tens of thousands of warriors dying in vain and millions of citizens put to the Question, he refused to allow such a fate to befall his city after fighting so hard to save it. Though the Shrike was dead and gone, her Master still roamed the Central Plains, his indefatigable zeal and insatiable appetite a thing of nightmares. Tongzu would sooner rebel against the Empire than allow the madman through Sanshu’s gates, a fanatic slaughterer who would cut the nose to spite the face.
+
+This was all a matter for the future, something outside his control. Focusing on what could be done, Tongzu and his advisors devised the outline of a plan to restore Sanshu to its former glory before the Inquisitor arrived. By ensuring the city and its people were too valuable to kill, Sanshu would thus avoid calamity, but Chao Yong’s promotion to Lieutenant Marshal made this task all the more difficult. Tantamount to giving the slimy toad complete control over all of Sanshu’s resources, it seemed a gross miscalculation on Major Yuzhen’s part. To rise from adversity, Sanshu needed dedication, hard work, and more than anything, coin, something he thought readily available with the Coalition’s assets seized. With Chao Yong now in control and given his avarice and cunning, Tongzu would be lucky to get even a quarter of the taxes owed in time, buried beneath a mountain of bureaucracy and paperwork while the former Chief Councilman pocketed all of Sanshu’s wealth before its 'inevitable' destruction.
+
+If Sanshu took on considerable debt, it would be a glaring flaw for the Inquisitor to fixate on. Hoping to avoid this, he requested a sizable personal loan from Chao Yong. The cunning merchant offered an acceptable rate at compound interest, though the calculations made Tongzu’s head spin. With such huge sums involved, the Chu family would be under the Chao family’s thumb for decades, if not centuries, assuming Sanshu survived. Worst of all, the only collateral Chao Yong would accept was Tongzu’s family, with all his living relatives falling into slavery should he default or commit suicide. Cursing Yuzhen for a fool, he inscribed a copy and sent it to the future Marshal of the North, showing her the folly she’d wrought. With that done, he signed and sealed the contract, resigned to his fate. He hoped to save Sanshu and all who fought to defend it no matter the cost, even if it meant dying a dog’s death in service to a reprehensible master.
+
+Upon receiving the signed contract, the slimy toad delivered the loan within the hour, likely dancing a jig in his carriage as he made his way to Shen Yun, seeking shelter in calmer seas. Though massive in size, this loan was but a single hair from nine oxen compared to the fortune he carted off. Disheartened by the thought of working for him, Tongzu threw himself into his work, setting Sovanna to scouring his ranks for betrayers, taking meetings and appointing officials to oversee construction and demolition, and purchasing huge swathes of property and materials at rock-bottom prices. The fleeing nobles couldn’t take their homes with them and they snatched up his offers without bargaining, each one believing him a fool for thinking Sanshu would endure.
+
+Faithless cowards, the aristocracy were a cancer to his city and he was better off without them.
+
+Around dinnertime, he refreshed himself with a hot towel and a change of clothes before heading out into his city. Clouds of thick, oily smoke hung in the air as Tongzu rode through the streets, his heart heavy at the sight of so many grieving citizens. Stopping in at each funeral site, he spoke a few words to the gathered masses, reciting empty platitudes as he shook hands with parents and children, siblings and lovers, each one suffering from a loss. Servants and labourers, farmers and tradesmen, these were the people who would make Sanshu great again.
+
+In a few days, his decree will have reached the surrounding areas, inviting all of Sanshu’s downtrodden into his walls. With coin secured and his dedication boundless, all that was left was the hard work, rebuilding his city from the ground up. To win the hearts of the people, Tongzu reversed his predecessor’s decision to turn Sanshu into a haven for the rich and prosperous. Sanshu’s unique circumstances were the reason Yo Ling’s rebellion almost succeeded. With the majority of the population living outside the walls and vulnerable to bandits and beasts, it fostered an environment tailored for the Defiled to hide and scheme out of sight from the close knit communities required to survive inside the walls.
+
+To further his plans, he offered free food and shelter to all who came, promising property to everyone who aided in Sanshu’s restoration. Tearing down a single manor would make enough room for thousands of citizens and Tongzu owned hundreds of them now. To an entire generation who’d grown up outside the city, the chance to own land inside Sanshu was a dream come true. Building their own homes seemed a minor hurdle, especially since the city was footing the bill for materials and offering guidance. Continuing his campaign of goodwill, he dined with his people, wandering the streets with a simple bowl of congee in hand while his people ate meat and rice, raising morale and offering hope wherever he could while simultaneously gauging the mood of his city.
+
+Grieving aside, his people were on the path to recovery, with many a tongue wagging about future prospects. A good sign all things considered, though he heard more than a fair amount of grumbling, mostly aimed at Mao Jianghong and the Coalition. Others complained about the presence of the Azure Ascendants and the Mother’s Militia, but those were drowned out by the voices singing praises about their valiant defence. Neither bandit group ever targeted civilians, which gave Tongzu reasonable justification to overlook their presence. A blessing in light of their backing, not to mention the considerable debt of gratitude owed.
+
+What disturbed him most were the rumours flying about regarding the Bekhai, mostly bastardized renditions of Gen’s speeches blaming Falling Rain for the Defiled incursion. Fools to believe a cannibalistic fire-starting brat, but easier to blame outsiders than accept their own failings. Whenever Tongzu heard such grumblings, he moved to suppress them, extolling the Bekhai contributions and Falling Rain’s accomplishments. Gerel’s failure to kill Yo Ling aside, surviving a duel against the legend was cause enough to celebrate and the other Bekhai played no small part in their victory.
+
+Such rumours would be easier to quash if the Bekhai took part in the festivities, but the reclusive tribesmen never left their manor, their already small numbers decimated by the war. As the night was still young, Tongzu made his way over to invite them to the festivities. He’d prepared numerous rewards for the fearsome warriors and hoped to sow karma between them, thankful for their aid in these dark times.
+
+Upon reaching the Bekhai manor, no one came to recieve him, though it was his fault for arriving unannounced. Entering the courtyard, he spied over a dozen Behkai lined up and waiting for food, the scent of spices and meat setting his mouth to watering. His presence noted, a wildcat padded up to greet him, cautiously approaching as it tilted its head left and right and took in his scent. “Magistrate,” Rain said, his tone surprised and welcoming. “Err... nice to see you. To what do we owe the pleasure?”
+
+Giving the wildcat a tentative pat, Tongzu smiled at the young warrior, wearing loose robes as he stirred away. “Here to see why the valiant Bekhai aren’t partaking in the festivities.” Nodding at the pot, Tongzu added, “Now that I’m here, I understand. One whiff of what you’ve got there and you’ll be stuck cooking for the rest of the night.”
+
+“There’s still plenty left over. Mister Rustram, please get the Magistrate and his guards some bowls.”
+
+Unwilling to refuse, Tongzu accepted the warm bowl of stew with both hands, eating slowly as he studied the strange young hero. This polite young man seemed nothing like the Falling Rain Tongzu had envisioned, a reckless, arrogant youth with a thirst for blood. Instead, he found a meek young man doling out bowls of stew like a common camp helper, taking immense satisfaction in his work. Despite having been doused in ichor only yesterday, the boy’s injuries were well on their way to healing, his torso one massive scab with bits of pinkish, healing skin showing at the edges.
+
+Undying indeed. Savage... not so much. So many accomplishments for one so young, defeating Black-Heart Nazier, leading Yimu’s soldiers to victory against twice their number of Butchers, and even killing a Demon, though it would have cost anyone else their life to do so. He’d seen some of it firsthand and still had trouble believing it all, but after receiving Chun Yimu’s glowing recommendation, Tongzu had confidence he’d made the correct decision.
+
+Wiping his mouth with his sleeve, Tongzu stood and cleared his throat, gesture for Rain to approach. “I’ve prepared several rewards for the Bekhai, but since we’re here...” Raising an eyebrow, Rain stepped towards him, head bowed and hands cupped while Tongzu continued the impromptu ceremony. “Falling Rain, for your valiant service in defence of Sanshu, I, Magistrate Chu Tongzu, hereby promote you to Warrant Officer Second Grade, effective immediately. The Empire thanks you for your service.”
+
+A few muted cheers and whistles echoed through the night, Rain’s retinue celebrating the promotion, but the person in question stood frozen in place, still bowed over instead of receiving his new token. After a long minute, Tongzu grew tired of waiting and Sent Rain instructions, informing him of the process. Sighing, the boy straightened up, shoulders and expression slack, still overwhelmed with shock as he took his new, silver inscribed token with one hand and tossed the old one to Tongzu.
+
+Chuckling beneath his breath, Tongzu took no offence at the rude actions, knowing Rain meant nothing by it. Clapping the young hero on the shoulder, he added, “Unless the records are wrong, you’re now the youngest second grade Warrant Officer. Ever. Quite an accomplishment.”
+
+Mumbling something which sounded suspiciously like ‘garbage achievement’, Rain sighed once more and faked a smile. “Thank you, Magistrate,” he said in deadpan.
+
+Damn. Rain must be like the other Bekhai, eschewing fame for... what? Surprised by his lack of enthusiasm, Tongzu stammered, “Well... er... That’s not all.” Though it was. “...Young hero, name your reward. Whether it be gold, jewels, exotic animals, or women, so long as it is within my means, you’ll have it.”
+
+His words brought a mixture of greed and lust to Rain’s face and for a moment, Tongzu wondered if Gen was telling the truth. After a short pause, the elation melted away as he shook his head. “I can’t accept any lavish gifts while the city is in dire straights. Besides I’ve got enough money. Actually, I really admire your plan to feed everyone and rebuild Sanshu, so I prepared this to help.” Reaching into his pouch, he pulled out a folded parchment and handed it over, again with one hand. Someone would have to teach the boy some manners. “It’s a map to the Freebooter Hideout. I’ll be leaving a whole cache of wealth there, mostly stuff I can’t carry back, so send trusted soldiers to collect it. Err, don’t ask me how I got it. I dunno how far it’ll stretch, but it’s something.” Looking over the poorly drawn parchment, Tongzu eyes widened as he went over the tally of goods. While certainly not a vast fortune, there was much more than he’d expected. Extravagant silks, treated hardwoods, luxurious jewels and more, was bandit hunting truly so lucrative?
+
+Still reeling in shock, Tongzu stammered his thanks and wandered off, unable to stay lest curiosity overwhelm him. He foresaw many a sleepless night ahead as he pondered Rain’s multitude of secrets, thanking the Mother for his presence in Sanshu. One could say that without Rain, Gerel would have never come and the city would have fallen to Yo Ling’s dastardly schemes long before Yuzhen’s arrival. Then again, Rain could also be said to have ignited the spark the which lit an inferno as without him, there would be no Gen. With no Gen, there would be no Purge and nothing to force Yo Ling’s hand. A minor player in the grand scheme of things, but perhaps history would see this as Falling Rain’s rise to fame, willing or not.
+
+Hero or Villain, only time would tell.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Gazing out over the battlements, Situ Jia Yang cursed his luck, his face twisted in an ugly mixture of vexation and relief. Rain fell overhead as he stared at the distant, battered ruins of the Northern wall and the corpses of Defiled and soldier alike littering the ground in a sea of red, brown, and white. Though numbed to the stench, he imagined it carried quite the distance, with crows and jattuyas arriving from afar, swooping in to partake in the waiting meal. Swarms of flies buzzed about the field as maggots writhed and squirmed in dead flesh, eager to join their brethren in flight around the charnel pit of a ravaged fortress.
+
+The Defiled numbers were overwhelming and their Demons slaughtered elites as easily as turning a hand. Despite Akanai’s timely arrival with her reinforcements, the Bridge was all but lost. With defeat looming on the horizon, Jia Yang did as any competent commander would, ordering his men to withdraw in groups to reconvene in Shen Yun. Though they lost the battle, lives could still be saved and put to use defending the sturdy city walls for months, holding out until reinforcements arrived from the Central Province. After the Defiled broke through the second wall and swarmed into the province, his actions would be lauded as keen foresight, losing the battle only to win the war.
+
+Except they didn’t lose the battle.
+
+Without rhyme or reason, the Defiled withdrew from under the inclement weather. The Demons fled first, disappearing in the blink of an eye as soon as the shower began while the Defiled fought on, but within the hour, the battle was over. Minutes stretched into hours as the defenders waited in place, unable to understand why the Enemy retreated whilst on the cusp of victory. It made no sense and now Jia Yang’s actions looked like those of a coward, preparing to flee to save his own skin while Baatar and Akanai led the Empire to victory.
+
+Grinding his teeth, Jia Yang swallowed his anger and waited, half hoping for the Defiled to return and finish what they started. His opponents would note his ‘cowardice’ and pave the way for Baatar to claim the title ‘Commander of the Wall’ unimpeded and unchallenged. Jia Yang’s dreams of becoming Patriarch of the Situ Clan seemed fleeting and distant, all his years of effort and hard work undone in a single battle.
+
+Losing to a half-breed bastard, even one who fought like a hero from legend... It was almost enough to drive him mad with rage, unbalancing him past recovery.
+
+Almost.
+
+Breathing through his mouth, Jia Yang fought for calm, preparing for his next move, but for the first time in his life, he wasn’t sure what it would be.
+
+Chapter Meme

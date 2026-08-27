@@ -1,0 +1,349 @@
+---
+id: 2e1e16bb-3162-5cdb-b22a-66eeb9e3157a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 42: Front Line"
+slug: 0042-chapter-42-front-line
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 42
+ownLength: 3166
+unit: words
+publishedAt: 2026-05-13
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3391661/chapter-42-front-line"
+royalRoadId: "3391661"
+---
+
+The moment my fingers closed around the grip, something shifted. I lifted the sword from the workbench.
+
+The balance was extraordinary.
+
+I turned it slowly in the forge-light. The surface was mirror-smooth.
+
+I could feel the difference.
+
+It wasn’t an item made for decoration or training. Nor was it mass-produced. This sword was made for me.
+
+The sword called.
+
+Not literally. It was the insistent pull of a thing that existed to be used, held by someone who existed to use it.
+
+My arm wanted to swing it. My feet wanted to plant and pivot. My hips wanted to drive the rotation.
+
+Aldric watched me from behind his spectacles with the particular expression of a craftsman observing someone interact with his work for the first time. There was no eagerness for approval. No anxiety about judgment. Just the steady attention.
+
+"Well?" he said.
+
+I set the blade back on the workbench. Reached into my pouch. Counted out ten silver coins and placed them beside the sword.
+
+Aldric looked at the coins. Then at me. His eyebrows rose above the wire rims of his spectacles.
+
+"What's that for?"
+
+"For not melting it down, and for your great work."
+
+He grunted. The sound carried a complex emotional payload. A mild surprise, and the professional satisfaction of a man who'd been fairly compensated for excellent work.
+
+His hand swept the coins off the bench and into the pocket of his apron.
+
+"Take it and go," Aldric said. He was already turning back to his anvil, one hand reaching for the hammer. "I've got the garrison breathing down my neck for a hundred and forty sets of plate armor by the end of the week, and every smith in this building is running on coal fumes and spite."
+
+I wrapped the sword in its oiled cloth and left.
+
+The forge complex was operating at a pitch that bordered on pandemonium. Every anvil occupied. Every bellows working. The rhythmic crash of hammers layered over itself until the individual strikes blurred.
+
+Blacksmiths hunched over their work, bare arms slick with sweat, faces lit orange by the coals. At the front counter, a line of men in military uniforms stretched out the door and into the street. Each one was shouting.
+
+"I need sixty iron wands by Thursday! Sixty! The quartermaster's already filed the—"
+
+"—requisition form clearly states less than a kilogram, not less than a pound! Can nobody in this damned building read—"
+
+"—my commanding officer said if these shields aren't ready by dawn he'll have the whole forge conscripted into—"
+
+A massive woman behind the counter, her forearms thick as my thighs and her leather apron scorched black, was screaming back at them with a volume and ferocity that would have made a drill sergeant weep with admiration.
+
+"ONE AT A TIME OR NOBODY GETS ANYTHING! I DON'T CARE WHO YOUR COMMANDING OFFICER IS! HE CAN COME DOWN HERE AND HAMMER THE STEEL HIMSELF IF HE WANTS IT FASTER!"
+
+I edged past the chaos and slipped through the front door before my eardrums exploded.
+
+Outside was no better.
+
+The street that fronted the forge had become a staging ground. Carriages and wagons lined both sides of the road, their beds filled with crates waiting to be loaded or empty crates waiting to be returned. Teams of soldiers and laborers moved between them, hauling finished weapons and armor from the forge's loading dock and stacking them.
+
+Grenzheim was a machine. Every part of the town had been reorganized to serve a single function.
+
+Feed the front.
+
+Vael's establishment hadn't changed.
+
+Not in the ways that mattered. The building itself showed the same weathered timber frame and the same hand-painted sign that had creaked in the wind. But the military transformation that had consumed the rest of Grenzheim had touched this place too. Off-duty soldiers occupied half the tables.
+
+I pushed through the front door.
+
+Nearly collided with a girl moving at approximately the speed of an incoming projectile.
+
+She hit my stomach with her head, bounced off, stumbled backward two steps, and looked up.
+
+Lucy.
+
+Her hair was the same wild tangle. "Sorry! Sorry sorry sorry—"
+
+The apology tumbled out of her in a single breathless stream. She didn't recognize me. Her eyes skated across my face, registered stranger, and her small body was already pivoting toward the staircase at the back of the common room.
+
+She was up the stairs and gone before I could open my mouth.
+
+The stairs creaked under her retreating footsteps. I stood in the entrance and smiled at nothing.
+
+"Help you?"
+
+Vael's voice came from behind the bar. He was drying a tankard with a cloth, his eyes on the tankard rather than on me. The common room's noise swallowed most conversations, but the bar area held a pocket of relative quiet.
+
+"I need a room," I said. "If you have one."
+
+He set the tankard down. Reached for the next one. Still didn't look up.
+
+"Rooms are tight. Military's bought up half the beds in town. I've got one left on the upper floor, but it's small, and it'll cost you…"
+
+He looked up.
+
+The drying cloth stopped moving.
+
+His eyes narrowed. The same slow process of recognition that I'd watched Aldric go through. The hair was wrong. The body was wrong. But something beneath those surface changes triggered the deeper pattern-matching.
+
+Vael's hand came down on the bar.
+
+"You," he said.
+
+"Me."
+
+The cloth dropped. He planted both palms flat on the bar's surface and leaned forward. His eyes moved across my face, making me feel like an artifact being authenticated.
+
+"You're alive," he said.
+
+"I'm alive."
+
+Silence stretched between us. The common room's noise filled the gap. Laughter from a soldiers' table. The clink of tankards. The creak of chairs on the wooden floor.
+
+"That night," he finally managed. "Lucy doesn't remember much. She was too scared."
+
+He paused.
+
+"But I remember."
+
+His hands pressed harder against the bar. His eyes held mine.
+
+"I remember hearing, afterward, from the soldiers who came to clear the district, that there was a boy in the streets. White-haired. Fighting the elves with a blade. Buying time for people to reach the shelters."
+
+I looked down at the bar's scarred surface as embarrassment rose through my chest and settled in my face.
+
+"I didn't do much," I said.
+
+"Thank you," Vael said.
+
+Two words. He said them the way someone says them when they've been rehearsing for months.
+
+I accepted the thanks with a nod.
+
+Vael cleared his throat. The emotional vulnerability retracted behind the professional mask.
+
+"The room," he said, his voice resuming its normal register. "Upper floor. End of the hall. It's yours as long as you need it."
+
+I tried to pay. He wouldn't take the coin.
+
+The room was small. A cot against the wall. A washbasin. A window that opened onto the alley between the tavern and the building next door. I set the sword against the wall beside the cot.
+
+I lay on the thin mattress. After the stone floors of the Coliseum cells, after weeks of sleeping on the ground beside the carriage, the mattress felt like something from a dream.
+
+My eyes closed, ready for one of the best nights I'd had since arriving in this world.
+
+It didn't take long. Falken found me the next day.
+
+He was standing beside one of the supply wagons that cluttered the central area. He saw me approach and reached into the satchel at his hip.
+
+"Orders," he said, and held out a sealed envelope.
+
+The wax bore the Iron Cross insignia. I broke the seal and unfolded the letter.
+
+Falken summarized while I read.
+
+"Your training begins tomorrow," he said. "At dawn, a carriage will collect you here in Grenzheim and transport you to your assigned post on the front line."
+
+He crossed his arms.
+
+"Rotation is ten days active, two days rest. Your rest days are to be spent in Grenzheim. You are not authorized to travel beyond the town's perimeter during your off-rotation. If an emergency recall is issued, you need to be close enough to reach the front within hours."
+
+He reached into the satchel again and produced a leather pouch that clinked when he set it on the wagon's tailgate.
+
+"Stipend," he said. "Monthly. Enough for room and basic supplies. Don't spend it all in taverns."
+
+I picked up the pouch. It was heavier than I expected. Falken extended his hand. "Brenn and I are heading back to the capital," he said. "Central command. Our assignment was escort duty, and the escort is officially delivered."
+
+He released my hand but didn't step away immediately.
+
+"Nice working with you," he said. "You're officially part of Iron Cross Southern Command. Whatever the Coliseum was, whatever you went through to get here, you're past it."
+
+He paused.
+
+"A lot of people have a terrible impression of Knights. Of the Iron Cross. I understand why. I'm not going to stand here and tell you the Coliseum isn't insane. That what happens in those cells and on that sand isn't cruel."
+
+His jaw tightened.
+
+"But it's needed. The things we fight, the things that come through the tree line and over the walls, they don't care about fairness. They don't care about comfort. They only understand strength. And strength is forged in fire."
+
+He met my eyes.
+
+"You survived the fire. That means something. Don't waste it."
+
+I nodded.
+
+"Good luck, Kaspar."
+
+He turned and walked across the square to where Brenn waited beside a pair of saddled horses. The two soldiers mounted without ceremony, exchanged a brief word, and rode north.
+
+I watched them until they rounded the corner and disappeared.
+
+The rest of the day belonged to me.
+
+A rare luxury. Just hours, stretching ahead without obligation, and the strange, disorienting freedom of deciding how to fill them.
+
+I returned to my room at Vael's tavern.
+
+The washbasin had been emptied and refilled. Someone, probably Lucy, had left a small bunch of wildflowers in a chipped clay cup on the windowsill.
+
+My pack sat against the wall where I'd left it. Inside, beneath the spare clothing and the dried rations I hadn't needed, lay one of the books.
+
+The second book, the one I hadn’t read yet. I'd carried it since I woke up in the cavern. It had traveled with me through loops and deaths and months of road dust without ever being opened.
+
+I sat on the cot, pulled the book from the pack, and turned it over in my hands.
+
+The cover was leather, dyed deep red. The Hexenzeit crest was embossed in the center, small but unmistakable. The pages were edged in gold that had dulled with age to a warm amber.
+
+I opened it.
+
+Foundations of Pyromantic Channeling: A Primer for Young Practitioners of the Hexenzeit Tradition.
+
+The text inside was dense. Diagrams of Circle formations. Notation systems for spell matrices. Equations governing mana conversion rates for thermal output. Page after page of technical instruction designed for someone who could use Circles and channel mana externally.
+
+Someone who was not me.
+
+I read it anyway.
+
+Not because I expected to learn fire magic. The door to Circles was closed.
+
+But knowledge was knowledge. Understanding how fire mages thought, how they structured their attacks, how they calculated range and intensity and duration, that understanding had value even if I could never replicate what it described. By the time I closed the book, the candle on the windowsill had burned down by half an inch.
+
+I set the book aside. Lay back on the cot. Stared at the ceiling.
+
+One hundred and seventeen days.
+
+Tomorrow, the front line.
+
+Dawn came grey and cold.
+
+I was dressed and standing in the square before the first light crested the hills. The carriage arrived on time.
+
+Not the decrepit box on wheels that had carried us from the capital. This was a military transport. Reinforced frame. Iron-banded wheels. A canvas cover stretched over a frame of bent steel. Two horses rather than mules.
+
+I climbed aboard.
+
+Inside, there were two benches facing each other. A few were already occupied. The carriage lurched. Grenzheim's walls slid past the canvas flap, then the open road heading south.
+
+The first fortification appeared forty minutes later.
+
+It sat in a shallow depression between two low ridges. At a distance, from the road, it barely registered against the landscape.
+
+A bunker.
+
+That was the only word for it. A squat, angular structure of reinforced stone and packed earth that had been driven into the hillside. The walls were thick. The roof was low, barely high enough for a man to stand beneath, covered with layers of sod and scrub grass that made it nearly invisible from any elevation.
+
+From above, it would look like a natural feature. You could walk within fifty paces of it and not realize what you were looking at.
+
+We disembarked.
+
+The clearing in front of the bunker's entrance served as a staging area. A flat expanse of packed earth bordered by supply crates, armor racks, and a series of wooden posts driven into the ground at irregular intervals.
+
+An officer stood at the center.
+
+His face carried the topography of decades spent outdoors. Deep lines bracketed a mouth that looked like it had been set in its current expression—a compressed line of absolute disapproval—at birth and had never found reason to change. His eyes were small, dark, and possessed a singular intensity.
+
+He surveyed us the way a stonemason surveys a raw rock. Assessing which pieces might become walls and which might become rubble.
+
+"I am Knight-Commander Wendt," he said.
+
+His voice matched his face. Low and flat. Stripped of every unnecessary emotion.
+
+"I don't care who sent you here. I don't care which prince signed your orders. I don't care if the King himself carried you on his back. When you step onto my line, you are soldiers. My soldiers. You will be treated as soldiers. You will perform as soldiers. If you cannot perform as soldiers, you will be removed. Or worse, the front line will take care of you."
+
+His eyes swept across us, but his gaze lingered on me for a few seconds, making me wonder if he knew who had given the orders for me to come to his post. "Am I understood?"
+
+A ragged chorus of acknowledgment.
+
+Wendt's expression did not suggest he was impressed.
+
+We weren't alone.
+
+As we stood in the clearing absorbing the commander's welcome, more carriages arrived. They came from different directions, different roads, converging on the bunker.
+
+They came from everywhere. I could see it in their equipment, their clothing, the subtle markers of regional origin that a month of travel had taught me to read. Some wore the heavier wool of the northern provinces. Others carried the lighter linen of the coastal cities.
+
+Still, all of them wore the same expression.
+
+Concern. The controlled anxiety of people who understood exactly where they were and what it meant.
+
+Wendt let the arrivals accumulate until the clearing held perhaps thirty bodies. Then he raised one hand. "This is your first day on the front line of the Iron Cross," Wendt said. "The front line you are standing on is not supported by the Regular Army. It is not reinforced by the Magical Army. It is not backed by any garrison, any cavalry unit, any artillery battery, any institution of the kingdom's military apparatus."
+
+He let that settle.
+
+"We are independent. We operate independently. We fight independently. We survive independently. If you are waiting for someone else to save you when the line breaks, stop waiting. There is no one else."
+
+His hand disappeared into the satchel at his hip.
+
+"You will learn to fight every kind of opponent this world produces. Things that don't have names yet. You will learn to fight them with steel and with mana and with your bare hands if everything else is taken from you."
+
+He produced a stack of slim booklets. They were small, no larger than a man's palm, bound in dark leather with the Iron Cross insignia stamped on the cover.
+
+"Therefore," Wendt continued, "the first gift you receive upon arrival, and the primary reward for surviving long enough to reach this place, is this."
+
+He began distributing the booklets. One to each person. The booklet reached me.
+
+I opened it.
+
+Mana Blood
+
+A Foundational Technique for Internal Mana Circulation
+
+Independent of Circle Formation
+
+"Mana Blood," Wendt said, his voice cutting through the murmurs that had begun as people opened their own copies. "The most basic technique for channeling mana through the circulatory system. It does not require Circles. It does not require prior magical training. It requires only a functioning body, a supply of mana, and the will to endure the process of learning it."
+
+He paused.
+
+"You will begin training this technique immediately. Practice during every spare moment. Eat with the booklet open. Sleep with it under your head for all I care. The sooner you internalize Mana Blood, the sooner you become something other than a liability on my line."
+
+I stared at the pages.
+
+The diagrams were clean and detailed. Illustrations of the human circulatory system annotated with mana flow patterns. Instructions for breathing exercises, visualization techniques designed to guide mana from the cores into the bloodstream.
+
+The technique was different from Mana Breath.
+
+Where Mana Breath channeled mana through the lungs, saturating the respiratory tissue and radiating outward through the chest, Mana Blood worked through the blood itself. The circulatory system became the delivery network. Mana infused the blood, traveled through arteries and veins, reached every extremity, every organ, every muscle fiber.
+
+The throughput seemed better, the distribution more even. And incompatible with what I already had.
+
+I closed the booklet and slipped it into my inner pocket.
+
+Someday, somewhere, someone might need this. Knowledge was currency, and currency didn't expire just because the man carrying it couldn't spend it himself.
+
+Wendt finished distributing the booklets and gave the first instruction before leading us toward the bunker.
+
+"When we are inside this bunker," he said, "you will hold on to whatever is nearest and keep your heads below the sightline. When an engagement begins, the ground above us shakes. The walls shake. Dust falls from the ceiling and the lights flicker and the noise is loud enough to make your ears bleed."
+
+His eyes moved from face to face.
+
+"When I give a command, you execute it immediately. Not after you've finished thinking about it. Not after you've decided whether you agree with it. If you hesitate, if you second-guess, if you freeze, you die. And possibly the person standing next to you dies as well."
+
+He unfolded his arms.
+
+"We are the Iron Cross. We are the line. Everything behind us, every town, every farm, every child sleeping in a bed they believe is safe, exists because we hold."
+
+His voice dropped.
+
+"Welcome to the front."

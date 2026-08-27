@@ -1,0 +1,239 @@
+---
+id: 5db3ab8b-2ce4-57d8-b3de-78cb81b74e60
+page-type-slug: story-chapter-royal-road
+title: "Chapter 755 - Understanding More"
+slug: 0756-chapter-755-understanding-more
+partOf: mythrans-master-of-all-continued-completed
+position: 756
+ownLength: 3029
+unit: words
+publishedAt: 2018-11-08
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/304908/chapter-755-understanding-more"
+royalRoadId: "304908"
+---
+
+“Come here.” Tatya growled and Ren walked around the counter to her and used a piece of cloth to try and clean her face off. “Not for that.” She said and pushed his hands out of the way and put her cake and icing covered paw-like hands on his chest for a moment, then licked his chest clean.
+
+“Oh, god.” Ren said and shivered at the sensations, and Tatya purred heavily as she smeared more onto his chest and abdomen. She licked him over and over, making sure to look at his face after each lick, so she could see his reaction. She could feel his emotions and knew he was as turned on as she was, then her paw-like hands slid lower.
+
+“Stop.” Ren commanded and she froze.
+
+“Ren, let me...”
+
+“Not in this form.” Ren said, and she felt that he was adamant about it.
+
+“So, you are prejudiced against us.” Tatya said, her disappointment apparent. It was like a bucket of cold water had been dumped on her and her desire for him evaporated. “You only want the human parts and will only go so far...”
+
+“Quiet!” Ren commanded angrily, and she closed her mouth. “Don't just jump to conclusions!”
+
+Tatya looked at him and he felt her matching anger, and he wasn't sure if it was because she couldn't move or speak or because he had berated her.
+
+“Don't you dare tell me that I can't accept you for who you are!” Ren said. “I just didn't want your really rough tongue licking me down there!”
+
+Tatya was surprised by this, then remembered what he had said about his ears.
+
+“Being rough with things will desensitize them eventually, and your tongue is covered in little grooves! I'd be numb in about 5 minutes!” Ren exclaimed. “How much do you think I would enjoy being with you if I couldn't feel anything? Huh? How much?” He asked. “You can move and answer.”
+
+Tatya let her breath out. “Not... a lot.”
+
+“Try not at all.” Ren said and looked down at the icing still on his skin. “This started out so well and I'm turned on so much, and you can feel that, and yet...” It made him think back to their display duel and when he had felt her desire to get away from him and had used it against him. “Oh. I get it now. You don't think I'm being genuine in my feelings.” He said. “You've been waiting for me to say or do something to confirm your own bias and suspicions.”
+
+“I've found that humans present a false front all the time. They act and do things one way and feel another way.” Tatya said. “When they discover we can sense emotions to some degree, they try to do it with their emotions as well.”
+
+“Ha!” Ren barked a laugh. “When have I done that?” He asked, and she didn't answer. “Yeah, that's right. I haven't.” He said. “You have, though.”
+
+“Ren...”
+
+“Yes?” Ren asked and waited, and he knew for a fact that she wasn't going to apologize.
+
+“I... I think I better go.”
+
+“Unfortunately, I believe that would be for the best.” Ren said. “You may want to change first, though.”
+
+“Yes, of course.” Tatya said. “Leaving here in this form would give away that we were gone for a lot longer than everyone thinks we were.” She said and changed back into her human form.
+
+“Actually, I don't care what you look like. I only wanted you to equip different clothes so it would clean the cake and icing off of your face and hands.” Ren said and equipped his armored bodysuit for a moment to clean the icing from his chest, then equipped the sash and shorts combo again. “They are going to know it's been a while because of the things I'll make for them.”
+
+Tatya looked down at her hands, made them into fists, and sighed. She equipped a nice dress to replace her thin bodysuit to clean up as well, then equipped her bodysuit and tunic.
+
+“I've messed things up between us, haven't I?” Tatya asked.
+
+“I've had experience with people being friends with me and then finding out that they expected me to do something to prove their preconceptions of me.” Ren said and took out a chef knife and cut away all the parts of the cake Tatya had destroyed and mangled, to leave the head and part of the body of the deer. “It was a shock to me at the time, that's for sure.” He said and held the cake out to her.
+
+“You're still giving it to me?” Tatya asked.
+
+“I made it for you, so yes.” Ren said.
+
+“But...”
+
+“I didn't take back the things I gave my other friends, either.”
+
+“I can still be your friend?” Tatya asked and stored the cake.
+
+Ren gave her the knife as well. “I think that's about all we can be for a while.”
+
+Tatya sighed again. “Ren, you know that most of my people are going to have preconceptions of you.”
+
+“Why else do you think I'm wearing this ridiculous outfit?” Ren asked and motioned to the sash. “Because I like it? I don't think so.”
+
+Tatya didn't know how to respond to that, so she stayed quiet.
+
+“It leaves me completely exposed and unprotected.” Ren said. “It wasn't until I thought about meeting other powerful fighters that they believe a full set of clothes is being exposed and unprotected.”
+
+Tatya nodded, and he dismissed the Respect popup. “If you aren't strong enough to wear so little and still fight without worry, then you are hiding behind the things you wear.”
+
+“Is that why Tiyaphi was so surprised by this fabric?”
+
+“We were all surprised by it.” Tatya said. “You're wearing a district's value around your waist.”
+
+“It was a district's value. Once it's melted, it's just platinum.” Ren said.
+
+“Its inherent value, then.” Tatya said. “You had to earn the platinum first to melt it.”
+
+Ren smiled and motioned to the door and deactivated the Vasalor Statue. Tatya sighed again and walked over to the door.
+
+“Ren...”
+
+“It's all right.” Ren said and opened the door. “I share in the fault because my expectations were just a little too high.”
+
+“...and my share?” Tatya asked and stepped outside.
+
+“Yours were a little too low.” Ren said, and she felt his disappointment. “I'll be out in a second.” He said and shut the door. Since she knew that he could be in there for a day and have only a second pass, she realized she had really screwed things up, because she could have been in there the whole time with him.
+
+“You just stepped in and you're back.” Yuwen said, then she felt Tatya's emotions. “What happened?”
+
+Tatya opened her mouth to tell her, then the shop tower's door opened again and Ren stepped out. “Oh, god.” She whispered as she felt the pressure of Ren's Aura. It felt like she was being squeezed on all sides by it, and she wasn't sure why she was feeling it so much. “What... what's going on?” She asked as she turned to him.
+
+“I'm not protecting you from its full effect anymore.” Ren said. “I normally try to mitigate how oppressive it is; but, after your reaction to me, I realized that was a mistake.”
+
+“Re...” She stopped herself before she said his name. “King Ren...”
+
+“No, I'm going to leave it on.” Ren said. “Just to be clear, it works when I'm asleep, too.”
+
+Tatya took a deep breath and let it out. “You are punishing me.”
+
+“Despite your belief that's true, it's actually just the opposite.” Ren said. “From now on, I won't disrespect you by underestimating what you can do.”
+
+Tatya looked at the others around her and didn't feel any distress from them. “Why...”
+
+“They are mine.” Ren said. “They are connected to me, so they are automatically protected.”
+
+“I still won't submit to you.” Tatya said.
+
+“I have never asked anyone to, except when fighting.” Ren said. “I've had a few people give up when they realized it was to their advantage; but other than that, no one has actually submitted to me.” He said and looked at Yuwen, Dilseffa, and Tiyaphi. “Until now.” He said. “I know the responsibility that entails, and I will live up to your expectations.”
+
+“You've already surpassed them.” Tiyaphi the medical professional said. “Of course, I only met you 30 minutes ago, so they were pretty low.”
+
+Artemis snorted a laugh and Teepo chittered in laughter.
+
+“Let me raise them, then.” Ren said and turned towards Yuwen and took her hand. “I, King Ren the First, hereby name you Countess Yuwen Mofforru, First Mistress of my Royal Concubines.”
+
+Yuwen's mouth dropped open as she was covered in a soft golden glow for a moment.
+
+“I don't have any lands in the kingdom of Pervaria yet; but, I plan to rectify that as soon as possible.” Ren said. “Once I do and build a house, it will be your job to maintain and run it.”
+
+“M-m-my K-king.” Yuwen said. “I... I don't know what to say.”
+
+“Me, either. Since I don't know if this will nullify you for delegation duties or not.”
+
+“Like Tiyaphi said before, being your concubine supersedes all other concerns, My King.” Yuwen said. “I didn't think you would be... making me... I can't...”
+
+“Easy, now.” Ren said and used his free hand to touch her face and poured Reassurance into her. “I know this is all so sudden, and I'm not trying to change your life on purpose; but, now that we are in this situation, I'm going to do everything I can to make it as enjoyable as possible.”
+
+Yuwen's face turned bright red as she remembered how enjoyable it could be.
+
+Ren winked at her and let her cheek and hand go, then turned to Dilseffa and took her hand. “I, King Ren the First, hereby name you Countess Dilseffa Dreikhyth, Second Mistress of my Royal Concubines.” He said and she glowed for a moment. “Once I have lands, it will be your job to run security and hire appropriate people to secure and keep those within the house and those lands safe from threats.”
+
+Dilseffa had been prepared to accept the title, but the job was a complete surprise to her. “S-s-security?”
+
+“I know you can handle it, since you were a delegate for the kingdom.” Ren said. “It's a much smaller job only protecting a household and a parcel of land; but, I'm sure you can adapt to it quickly.”
+
+“I... I...”
+
+“It's all right.” Ren said and cupped her face and poured reassurance into her, just like he did for Yuwen. “Yuwen is the head of the household and she'll help guide you if you need it.”
+
+Dilseffa took several breaths to calm down, then nodded.
+
+Ren dismissed the popup and let her hand and face go, then turned to Tiyaphi and took her hand. “I, King Ren the First, hereby name you Countess Tiyaphi Mowetha, Third Mistress of my Royal Concubines.” He said and she glowed for a moment as well. “Your job will be to maintain the health and well being of everyone in the household and on the lands.”
+
+“So, you're saying I'm not going to be very busy.” Tiyaphi said, and he chuckled.
+
+“I hope not; but, you'll have your own building to work out of, and a staff if you deem it necessary.”
+
+“Wait! Did you say staff?”
+
+“I can't expect you to take care of the building and things by yourself, and maintain any patients you may have at the same time.” Ren said. “You'll also be in charge of hiring who you want and...”
+
+“Wait! I am?”
+
+“Is there someone better qualified to tell you who you need to help you do your job?” Ren asked, and she shook her head. He cupped the side of her face and gave her some Reassurance, just like he had with the other two. “Don't worry. You'll all have an appropriate budget and won't have to worry about money ever again.”
+
+None of them knew what to say to that.
+
+Ren let her go and stepped back, then took out a large wardrobe cabinet. “Yuwen, this is for you.”
+
+“That's a very nice cabinet.” Yuwen said. “I'll never fit it in my room, though.” She said, then realized what she said. “Oh. I don't have a room anymore.”
+
+“No, you'll have a house. A big house.” Ren said. “Open the cabinet.”
+
+Yuwen did so and caught her breath as it unfolded and became twice as big and looked like a dressing room. “Oh, my god.” She said as she saw that it was full of clothes. On racks, hangers, and shelves. There was even a huge mirror on the door. “My King... I... thank you.”
+
+“It's the least that a Royal Concubine deserves.” Ren said and took out another. “Dilseffa, this one is yours.”
+
+“My King, I... I can't accept it.” Dilseffa said. “Rimsoh wouldn't like it if I accepted such an extravagant gift from my Inamorato.”
+
+“You are thinking about it!” Yuwen gasped and hugged her, and Dilseffa blushed.
+
+“How can I not?” Dilseffa said. “I watched him do... I mean... for over an hour!”
+
+“It was heaven.” Yuwen said dreamily. “He's really, really good at it.”
+
+“He would have to be.” Tiyaphi said, and as the medical professional, she would know. “For it not to get boring or repetitive, that is.” She said. “Constant stimulation, especially if it's rough, can cause some or even total numbness if you're not careful.”
+
+“Oh, it wasn't rough. Not at all.” Yuwen almost moaned. “I could feel how much he loved doing it, and how much he enjoyed me enjoying it.” She said and went quiet for a moment, then sighed. “If there had been some way to preserve what happened, since it was the first time... for the both of us, together...”
+
+Ren cast the Full Illusion of a sound proof room around their group to block them from sight of everyone, then took out the first display box he had received from Princess Diana and clicked the button as he cast Full Illusion on the wall they were facing. Yuwen's moan broke the silence and she watched herself be pleasured by Ren.
+
+“My King! Thank you!” Yuwen said and hugged him. “Now we can always have this as a keepsake!”
+
+“I didn't know you would want to keep it.” Ren said and quickly made a small version of the modified device and added that scene, then gave it to her. “Just push this button when you want to watch it again.” He said. “This one fast-forwards.”
+
+“Fast-what?” Yuwen looked at the button like it was magic.
+
+“I'll explain later.” Ren said. “For now...” He clicked off the box he held and stored it, then dismissed the Full Illusion room. “Dilseffa, if being my concubine supersedes all other concerns, Rimsoh shouldn't be angry at you for me giving you what you deserve.” He said. “But, I'm not heartless in things like this, and I know that others interfering in things, no matter how good the intentions, can mess everything up.”
+
+Dilseffa felt his feelings and relaxed. “You do understand.”
+
+“I'll hold onto it for you, and you can discuss things with Rimsoh.” Ren said and stored her cabinet. “If he's not comfortable with this situation, even though he's in my domain as well...”
+
+“Don't exile him!” Dilseffa said, almost in a panic.
+
+“Wh-what?” Ren blinked his eyes at her. “Exile?”
+
+“As a king, you have the right to... to...” Dilseffa tried to hold her feelings in check.
+
+Ren stepped close to her and gave her a hug. “I give you my word that I won't do that on a whim.” He said and rubbed her back with his hands. “If he gives me a good reason, like hurting you... I'll try not to kill him as I kick him so hard that he soars across the Gnome lands.”
+
+Dilseffa laughed at the image that put into her mind. Ren grinned at her and let her go, then turned to Tiyaphi.
+
+“Like Yuwen, I have no problem accepting extravagant gifts from you.” Tiyaphi said with a matching grin.
+
+“Then this is yours.” Ren said and took out a similar cabinet. She opened it up and looked inside, and saw that the clothes were the same, but also different.
+
+“My King, this... you didn't give us the same clothes?”
+
+“The patterns are similar, since I didn't want to deviate too much from the standard.” Ren said. “However, I don't want you to think you're the same or that I think you're the same, so I made everything slightly different.”
+
+“But... this... must have taken...”
+
+“About a day.” Ren said, and he felt their surprise. “It's something Vasalor and I came up with to help me create time when I don't have any to spare.”
+
+“Like now.” Teepo said. “You haven't got too much time left before you have to go.”
+
+“Oh, right.” Ren said and looked at Tatya. He could feel her struggling against the full weight of his Aura, and he felt bad about subjecting her to it. “Now I know how much you can handle safely.” He said to her and eased its effects. She took in a deep breath and he felt her relief.
+
+“You're right. I can't handle more than that.” Tatya said, and from her emotions, he knew she thought that she had lost some of his respect.
+
+Ren took her hand and she caught her breath as he poured admiration into her. “You didn't complain and endured it, so you haven't lost my respect.” He said and felt her surprise at guessing her thoughts. “We should climb aboard and get to the camping site.”
+
+“Of course.” Tatya said and stepped back, bowed slightly, then quickly walked over to her carriage near the end of the caravan and climbed inside. Everyone else took that as the cue to get into their own carriages, and climbed inside as well.

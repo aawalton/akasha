@@ -1,0 +1,207 @@
+---
+id: 19d4ed35-f9f1-5455-9b1d-de6356b5c1d6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 754 - That Looks Tasty"
+slug: 0755-chapter-754-that-looks-tasty
+partOf: mythrans-master-of-all-continued-completed
+position: 755
+ownLength: 2900
+unit: words
+publishedAt: 2018-11-07
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/304595/chapter-754-that-looks-tasty"
+royalRoadId: "304595"
+---
+
+Tatya was amazed that Ren could move so fast, even with her previous experience of seeing him move so fast. She didn't realize that he couldn't go as fast as he wanted to, because he would make a huge mess with the flour and things if he mixed it together at his full capability.
+
+“I think she might like a bit of a food fight if you splashed her 'by accident'.” Teepo chittered in laughter.
+
+That made Ren smile and he kept working to make the best cake he had ever made and listened while Tatya told him about concubines. He knew the cake would taste the same, no matter what the shape was, so he quickly went to the forge and made several different cake pans.
+
+“What are you doing?” Tatya asked, a little excitedly. “You are not putting molten metal in my cake!”
+
+Ren laughed. “No, no. Relax. I'm just making pans to put the cake in.”
+
+“Oh.” Tatya relaxed. “I thought...”
+
+“...that poisoning you would be the perfect way to thank you for your help?” Ren asked, and her face went red, even though she felt his amusement. “It's okay. We did only just meet today.”
+
+“I shouldn't have assumed that you would try to harm me.” Tatya said. “I think that...”
+
+“I could have hurt you a lot during our display duel, and my Doppelganger could have torn you apart during the training sword duels.”
+
+“Wait, what?”
+
+“They all had my maxed stats.” Ren said, and she wasn't sure how to respond to that. “If you're thinking about how it could have turned out differently, don't bother.”
+
+“But... you could have...”
+
+“No, I couldn't. It was a display duel. I had to fight normally.” Ren said. “Using any abilities besides what I did, might have invalidated the requirements of 'training'.” He smiled and came back to the kitchen and poured the cake batter into the pans. “You know I could have just absorbed all the air out of the magical barrier.”
+
+Tatya nodded slightly. “It's one of the reasons I told Kenkoth and Beholo not to make you angry.” She said and smiled herself. “The ride back here wouldn't have been very enjoyable if we were unconscious.”
+
+Ren laughed and slipped the three quarters full cake pans into the hot oven. “Unlike a lot of the things I can do, I can't accelerate cooking these, since they need time to rise.” He said. “We just have to wait for it to cook properly.”
+
+“You said we can spend the whole day in here and only a second passes outside, so I don't mind.” Tatya said. “Why don't you start making the outfits I described?”
+
+“I can do that later.” Ren said. Teepo, can you keep an eye on the cakes for me?
+
+“Sure, Ren.” Teepo hopped off of his shoulder and landed on the counter.
+
+Thanks, buddy. Ren stored the apron and equipped his armor bodysuit for a moment to clean himself up, then did the same for the utensils and mixing bowls he had used and put them back on the shelf. He equipped his shorts and sash combo again and looked at Tatya. “I'd rather sit down and keep talking to you, if that's okay.”
+
+Tatya looked around. “I don't see anywhere we could do that, except right here at the counter.”
+
+“There's more room upstairs.” Ren said.
+
+“Oh? Any more shops?” Tatya asked as she followed him over to the stairs beside the tailor shop.
+
+“No, it's where my bed is.” Ren said and tried not to laugh out loud at her reaction. He couldn't see her face, since he was in front; but, he could feel her emotions and she was pretty conflicted about going to his bed so soon. “It's so nice to relax once in a while, you know?”
+
+Tatya's apprehension warred with her curiosity, and Ren tried his best not to let too much amusement out, in case that made her angry. They arrived on the second floor and Tatya saw how sparse it was, with only a bed tucked into the corner and a square walled section. She stored the Helm of the Eagle she still wore to get a better look around, and Ren felt her dismay at the state of the place.
+
+“I haven't slept here in a long time.” Ren said and stored the bed to clean it, in case it needed it, and put it back. “Oh, and the room in the center is full of meat and vegetables.”
+
+“Can I look?”
+
+“Sure.” Ren said and took out a big comfy couch and placed it near the bed.
+
+Tatya opened the door to the ice box room and shivered at the blast of cold air. “What in the world is this?”
+
+“Cold storage.” Ren said and made a couple of throw pillows to put on the couch.
+
+“What made you...”
+
+“I needed to store food for a lot longer than it was supposed to last and came up with a way to reproduce how Adventurers do it where we come from.”
+
+“That's amazing.” Tatya said and closed the door.
+
+“You've been saying that a lot.” Ren chuckled, and she laughed.
+
+“You said you would keep amazing me.” Tatya reminded him and saw the couch, and she wasn't sure if she was relieved or disappointed.
+
+Ren sat down near the middle and pat the spot next to him, and she walked over to the couch and sat down right where he pat. She didn't try to sit farther away like most people would, as to not crowd the other person sitting there, and he smiled at her.
+
+“I'm amusing you.” Tatya said, and her hand reached out and touched his bare knee for a brief moment, then she let her hand fall to the couch.
+
+“You are.” Ren admitted and sat back to rest his arms on the back of the couch, to show that he wasn't going to stop her if she wanted to touch him again. “You took my teasing about the bed in stride, and I liked that you can't decide if having a couch is a disappointment or not.”
+
+Tatya chuckled and sat back as well, then turned slightly to the side towards him. “Should I be disappointed?” She asked and stored her tunic as she pulled her legs up onto the couch and bent her knees, then her hand reached out and touched the side of his bare chest. Unlike with his knee, she didn't let her hand fall away this time and caressed the thick muscle.
+
+“I can't answer that, since I've never been with someone of your kind before.” Ren said. “If you would indulge me for a moment, I could give you a glimpse.”
+
+Tatya tilted her head to the side and squinted her eyes. “You don't mean trying something on me, do you?”
+
+“Yes and no.” Ren selected a display box and placed it next to the wall of the cold storage, thanks to being able to place things anywhere within his Aura, and activated it. “After the meal the caravan stopped for and I had to go into another carriage instead of continuing with you, Yuwen and Dilseffa practically begged me to tell them about some of my adventures.”
+
+Tatya turned her head and saw the display and the two women cuddled up to him.
+
+“When we reached the border of the Human Kingdom, I spent the next hour or so doing this.” Ren said and changed the video to him pleasing Yuwen. Tatya caught her breath as she saw Yuwen in her anthropomorphic form, a humanoid minx on her hands and knees, being licked and kissed from behind by Ren.
+
+Ren kept his eyes on the display; but, he could feel her disbelief. Out of the corner of his eye, he saw Tatya glancing from the display and back to him, over and over. Yuwen let out a particularly loud moan and Tatya looked back at the display to see Yuwen mash her own face into the seat and start to chew on the tough leather to stop from screaming in pleasure.
+
+“You... you really...” Tatya took a deep breath and let it out. “Even transformed as she was, you still...”
+
+“She really liked it when I pulled her tail up and licked her, and since making a woman happy just does it for me, I kept going until I was told to stop.” Ren said. “She was so turned on because I would do that to her that she ignored that there were two other people in the carriage with us.”
+
+“Artemis and Dilseffa.” Tatya whispered, then she turned her head to look at him. “Wait, did you say you were told to stop?”
+
+“Teepo let me know that we were approaching Pervaria, and I couldn't let Yuwen stay like that.” Ren motioned to the display. “It would bother me if she lost Respect because I couldn't keep myself restrained.”
+
+“But... all you did...”
+
+“This time, yes.” Ren said. “I try my best to keep things like this behind closed doors; however, sometimes I just...”
+
+“Are we that irresistible?” Tatya asked.
+
+“She was dripping, just from me teasing her a little and giving her emotions, and I tasted it without a second thought.” Ren said. “A woman I just met, and yet...” He sighed. “I can't tell if I'm getting worse at control or better at seduction.”
+
+“I'd say it's a mix of both.” Tatya said, almost in a purr, and Ren looked at her as her hand slid down his chest and across his abdomen, then she caressed his sash. “I was surprised when you made this.” She said. “The detail work alone is at the same class as our best artisans.”
+
+“I have the Artisan skill mastered.” Ren said and felt her desire to caress more than just the fabric.
+
+“When you started to take out these teeth, I couldn't believe it.” Tatya ran her hand over the end of the sash and touched the tops of the teeth. “Teeth from extremely difficult creatures to get teeth from.”
+
+“You read the books I gave you.”
+
+“I did.” Tatya said. “I also identified the teeth.” She pointed to each one, starting on one side of the sash and told him the creatures they were from, then ended with the large tooth from the Abyssal Terror that hung from the end of the sash. “You killed an Abyssal Terror.” She said and stroked it as if it was something else, then started to actually purr.
+
+“It almost killed me, too.” Ren said, and her desire for him increased.
+
+“You lived. It didn't.” Tatya said, matter of factly.
+
+“I've been meaning to go back and kill the rest of them.” Ren said, and she gasped. “I haven't had the time or the inclination, however.”
+
+“But, you said you could make time.” Tatya said and let the tooth go and slid her hand up the sash to rub him through the cloth.
+
+“It's not... fair for them now.” Ren said, and she sped up her hand movements. “It's not that killing them wouldn't give me satisfaction...”
+
+“There's no sport in it. I know.” Tatya said and felt his body's reaction. Her eyes grew wide as he became excited and her hand had to travel quite a bit farther than it had only a moment ago. “Is this...”
+
+“...quite ready for you to do more? Yes.” Ren said to finish her question.
+
+Tatya stopped rubbing him and leaned in close. “I won't become your concubine.”
+
+“Are you sure? I hear that they have great wardrobes and accessories.” Ren teased, and she chuckled.
+
+“I won't submit to any man, no matter how powerful he is.” Tatya said and slid her hand inside his sash. She touched him directly and felt the inherent strength, and her purr was loud in the quiet room. “I want to see it, King Ren.”
+
+“You have your hand on my most delicate part.” Ren said and used a hand to briefly cup the side of her face. “You can call me Ren.”
+
+“In private.” Tatya said and used her other hand to pull his sash and shorts combo down to reveal him completely. Her mouth dropped open at the sight, then she realized she now had a good use for that open mouth. She leaned forward and was about to please him when Teepo hollered from downstairs and interrupted her.
+
+“The cakes are ready!” Teepo said excitedly. “They smell delicious!”
+
+“Well, damn.” Ren said and turned off the oven mentally as he pulled his shorts and sash combo up to cover himself. He felt Tatya's disappointment and stood up. “As you can clearly see, I hadn't planned on trying to seduce you.”
+
+“You were doing very well for not trying.” Tatya teased, and he chuckled.
+
+“If it was going to happen, I would have waited until after you ate the cake.” Ren said. “Now I'll be a little uncomfortable while I wait to deal with this.”
+
+“What? The cake?” Tatya asked.
+
+“No, my excitement.” Ren said and held a hand out to her.
+
+Tatya took it and he helped her stand up, then she understood what he meant as he hugged her and he pressed against her. “You're going to be like this for...”
+
+“...a while. At least.” Ren said.
+
+“I turned you on that much?” Tatya asked.
+
+“I could ask you the same question.” Ren said with a smile as he tucked his face between her breasts. Her thin and stretchy bodysuit was no obstacle and she looked down to see the tips of her breasts were quite prominent.
+
+“Tiyaphi was right. You are at the perfect height to suckle while standing up.”
+
+“It's one of the reasons why I'm fine with my height.” Ren said and let her go, and she sighed. “Come on. Your delicious cake awaits.” He said and took her hand.
+
+Tatya let him lead her back down the stairs and to the kitchen counter, and he sat her down with a bit of a flourish to make her laugh, then he took four cake pans out of the oven and her nose finally caught the smells.
+
+“You made four different cakes?” Tatya asked and sniffed the air. “Vanilla, chocolate, lemon, and...” She took several more sniffs. “Is that carrot I smell?”
+
+Ren nodded. “They are welcome cakes for my concubines.”
+
+“Excuse me?” Tatya's annoyance rose. “I thought you were cooking only for me.”
+
+“I am.” Ren said and put three of the cakes aside. “The other cakes are just normal cakes.” He said. “Just a little treat for them to have in the morning.”
+
+“Ren...” Tatya started to scowl.
+
+“This one I made specially for you.” Ren said and turned away from her as he took out a cookie sheet and flipped the cake pan over onto it. He gave it a couple of taps and lifted it, and saw that it had come out perfect. “Give me a minute to add the icing.” He said and covered it with the cake pan.
+
+“I'm not feeling as special as I did before.” Tatya said, annoyed.
+
+“That's because you think because I mixed batter for more than one cake, that I wasn't thinking of you the whole time.” Ren said and quickly made some buttercream icing and dyed it brown. “It's not true. I was thinking about you and realized if I treat you to a cake, how would my concubines feel that I gave you one and not them?”
+
+Tatya was mollified slightly with the explanation. “So, you really...”
+
+“I don't want them to be angry at you.” Ren said and scooped out a bit of icing and dyed it black, then moved the cake pan out of the way and covered the cake in brown icing, making sure to get it to look as close to what he wanted as possible, then used the black icing for the accents. “When you tell them about this cake, and you are going to tell them because you won't be able to help yourself, they won't hold a grudge against you for it.”
+
+“Is it going to be that good?” Tatya asked, and he felt disbelief start to replace her annoyance.
+
+“You tell me.” Ren said and lifted the cake and turned to put it down in front of her. “It's vanilla pound cake with buttercream icing.”
+
+Tatya didn't hear what he said, though. She was too stunned by what was in front of her. “R-Ren...”
+
+It was a cake made in the shape of a fleeing deer. Its head was turned to look back with fear clear on its face and it was in mid-stride, the perfect time to tackle it for the kill. Her body shivered at the sight and she changed into her anthropomorphic form, a humanoid black panther, and dove her head and teeth right into the hind-quarters of the fleeing deer. She bit and growled and tore into the cake as if it was a real deer, then scooped piles of cake into her mouth as she lost herself in the 'going for the kill' instinct.
+
+“I guess that means you like it.” Ren said and couldn't help but laugh at the sight of her cat-like face covered in icing and cake and her half-hearted attempts as she tried to lick it off.

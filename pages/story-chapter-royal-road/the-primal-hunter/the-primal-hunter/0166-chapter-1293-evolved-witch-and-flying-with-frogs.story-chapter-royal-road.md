@@ -1,0 +1,121 @@
+---
+id: 59b17c4e-367a-5b68-9b61-7ad14efc8feb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1293 - Evolved Witch & Flying With Frogs"
+slug: 0166-chapter-1293-evolved-witch-and-flying-with-frogs
+partOf: the-primal-hunter
+position: 166
+ownLength: 2724
+unit: words
+publishedAt: 2026-04-14
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3272941/chapter-1293-evolved-witch-flying-with-frogs"
+royalRoadId: "3272941"
+---
+
+The start of the system event had truly come at a good time for Miranda. She’d been back to the Order of the Malefic Viper and had managed to get her class to peak C-grade, but still needed a bit more in her profession before she could evolve.
+
+And that’s right when the Seat of the Exalted Prima announcement came, allowing her to instantly step into her political shoes and act as effectively the leader of the entire Milky Way Galaxy. She had meetings and reached out to the most powerful and influential people on Earth, had discussions with other leadership figures of the galaxy, and even had some talks with higher-ups in the Order of the Malefic Viper.
+
+All that maneuvering gave her plenty of experience, so only five days after the announcement, she received the long-awaited notification letting her know that she, too, was ready to step into B-grade. Right on time.
+
+Miranda had been a little afraid she wouldn’t evolve in time, meaning she wouldn’t be able to bring all the people she preferred to the Administrator promotion test. Holstred and William were both level 350, the same as pretty much everyone else who had evolved.
+
+Unsurprisingly, progress got significantly slower yet again in B-grade, so it was only to be expected that no one had gained any levels since evolving. Sure, if they really wanted to and had gone hunting, they could have gained perhaps a level or two, but people had instead preferred to get used to their new powers and maybe upgrade some skills. Especially considering the increased sensitivity to concepts that one got upon evolving.
+
+Starting her evolution, things went as expected, with her not being offered a variant human evolution, even if her Patrons had theorized it was possible she could get one due to how much time she’d spent within the Verdant Lagoon during her progress.
+
+After successfully evolving her race, she checked for any physical changes, knowing that sometimes one’s subconscious desire to change oneself could manifest during evolution. After a thorough inspection, she found nothing different. Good, it would be a nasty way to discover she had unresolved body dysmorphia.
+
+Regarding the Spirit of Man skills, she got two pretty good ones that certainly fit her wonderfully. From her research, both of them were considered above-average ones, with one increasing her class-related stats and abilities, and the other focusing on her profession.
+
+Speaking of which, she proceeded to her profession evolution next. As with every other evolution, she was presented with five options and found herself pleasantly surprised at most of them. There were still a few questionable options in there, though.
+
+One of them was about her cutting off Jake entirely and becoming a leader in her own right, not relying on others. That one was definitely out of the question. The second one switched her “backing” fully to the Verdant Witches and the Verdant Lagoon, making that another non-starter. Also, because the stats from these weren’t exactly the best, indicating their relatively low Records.
+
+A third option related to her effectively trying to become the concubine or wife of Jake, something she really wasn’t surprised about, as she had seen that too many times already. Actually, speaking of, her Patrons had let off a lot of pressure in that department recently and never even talked about it anymore. Which was both great and sucked, as now they were discussing if she wanted to be set up with some other influential figure of her generation. A big no to all of that.
+
+Her fourth and fifth options were very similar, with one being the direct upgrade to her C-grade Court Witch of the Primordial’s Chosen. Granted, she wasn’t entirely sure which one, as both were so incredibly similar and even gave near-identical stats. It was definitely between those two choices, and after much consideration, she settled on the one she believed suited her best and would also prove superior going forward. Also, it gave 5 more stats per level, which really pushed her over the edge to pick that one.
+
+Not a big fan of the name, though.
+
+Exalted Mistress of the Malefic’s Chosen – A liaison, confidant, right hand, and in many instances, a friend. You are the trusted proprietress, recognized as the Mistress of all that is his, a role you had gladly taken upon yourself as you act on the behest of Jake Thayne, the Chosen of the Malefic Viper and Harbinger of Primeval Origins. It’s your chosen Path to power, and so far, not one you regret. As his Exalted Mistress, you will find yourself managing his territories, exerting his will upon the world, or simply interpreting and acting out his intent. Your Records further blend together with those of the Malefic’s Chosen, allowing you to claim power from his prestige, reputation, and status, increasingly strengthening your bond and mutual beneficial effects between the two of you. Be warned that should you lose the confidence of the Malefic’s Chosen, you will lose much of what grants you power. Stat Bonuses per level: +350 Willpower, +325 Free Points (675 total)
+
+Objectively speaking, it was a good profession. It gave 675 out of the theoretical maximum of 720, which was also more than excellent in her opinion and certainly way better than the 200 her previous one had given. Admittedly, both of the evolutions she considered were far beyond a tripling of stats per level, meaning that this Path seemed to only grow stronger the further she continued to pursue it.
+
+No doubt due to Jake’s Path also only growing with every step. In C-grade, he had truly solidified his position as the Chosen of the Malefic Viper, and alongside the increased prestige and expansion of the Order, his overall position in the grand scheme of the multiverse had grown significantly.
+
+Miranda had thought long and hard about her decision to bind herself to Jake and, at times, questioned whether this was really the kind of life she wanted to live. It was restrictive in many ways, and she knew that should Jake fall or end up changing drastically, it would more than likely spell her doom.
+
+However, on the other hand, she was fully aware that on her own, she would never have received the position she currently held. Perhaps she would have still turned out okay in the long run – assuming she’d survived the early stages post-Tutorial – but there was no way she would have ever been more than an administrative worker in a city somewhere.
+
+As a result, she accepted the downsides that came with her Path. She was fully on the Jake boat, and all she could hope was that he would keep making the tide rise. So far, he certainly hadn’t disappointed, and Miranda felt like her own hard work was being rewarded.
+
+A big problem many with her Path risked encountering was the person they were tied to becoming a bottleneck to themselves. If Jake somehow turned incompetent or just stopped trying, it would royally mess her up. It could also happen that the helper turned out to be too good at helping in relative comparison to their mortal Patron.
+
+Primarily due to how powerful these mortal Patrons had to be for an arrangement like this to prove beneficial for the one in a subservient position. Miranda was effectively just eating Jake’s leftover Records and getting recognition by proxy. If she went anywhere in the multiverse and introduced herself as, well, herself, she would get nowhere, while if she walked in and said she was there as the right hand of the Malefic Viper’s Chosen, they would roll out the red carpet.
+
+It was a bit depressing to think about, but wasn’t it also simply the reality of life? Before the system, she had worked for a company and held only the position of manager because she was recognized by that company. Working under someone wasn’t the worst existence, especially when the boss was so incredibly laid-back that he pretty much let her do whatever she wanted.
+
+Also, over time, Miranda did believe she would be recognized more for her own talents and performance. Would she always be associated with Jake and his accomplishments? More likely than not, but that was okay, and even had some advantages. As the saying goes, the tallest tree catches the most wind, and being in his cover was at least a little cozy.
+
+Oh, but still no way she would ever be “under his cover” in that way. Which brought her to really dislike the name. Mistress was a word with more than one meaning, and she was fully aware that, in the multiverse, it was never really used in the context many on Earth associated with it, but still. She wasn’t a fan.
+
+Alas, not choosing a profession due to a single word would be a bit silly. Besides, at least she was an Exalted Mistress, and knowing what the word Exalted tended to signify, she was already looking forward to what she would be able to do.
+
+Of course, all of this relied on the assumption of Jake continuing to grow, and perhaps more importantly, not getting himself killed or otherwise put out of commission. Which is to say she really hoped that this little Venus adventure ended up being a pleasant and highly beneficial one.
+
+For now, she couldn’t think too much about Jake and his matters. She had a test to do and an Administrator title to claim.
+
+--
+
+Jake flew after the five frogs through the toxic wasteland as they traveled through the island that definitely proved to be far more massive than Jake had first assumed. They didn’t fly super fast, as the frogs were incredibly careful, and seeing as none of them had good stealth skills, it made sense they didn’t want to take unnecessary risks.
+
+Trying to rush when traveling was a lot like speeding through traffic just to save two minutes. In the grand scheme of things, it didn’t really matter that one got somewhere slightly faster, and it just resulted in needlessly risking one’s life and the lives of everyone else. Actually, considering that, rushing while traveling through a fantastical continent-sized island was better than trying to rush through traffic, as at least on the island, one was only risking killing oneself.
+
+During this flight, Jake spoke a bit with the frogs. Well, the Shaman only, as they all seemed a little shy, and what they did say amongst each other came in the form of telepathic messages of some kind. Jake learned a lot, as they spoke primarily about the environment, in large part because no one wanted to delve into topics that could reveal too much.
+
+Oh, and he also realized something else. Something that definitely explained why the frogs seemed so convinced he was actually a diplomat or representing a greater force of some kind.
+
+“I find your eloquence in our language quite surprising. Pleasantly, I might add. Would I be right in assuming you have some kind of skill that helps you learn and use other languages better? In either case, I find myself impressed,” the Shaman said politely, reminding Jake that Myriad Tongues was an overpowered unique skill.
+
+However, it also raised many questions. This was the ninety-third universe, even if they were within a Minor World. That being the case, wouldn’t these frog people also have the Myriad Tongues skill? All the natives of their universe did, as far as Jake knew. Granted, the skill wasn’t really necessary at higher grades, as learning a new language didn’t take any time, and one could merely infuse one’s voice with intent and Willpower to convey meaning. Yet even in those cases, it was clear that the person wasn’t actually speaking the same language fluently, something Myriad Tongues meant Jake was, from the perspective of the frogs, anyway.
+
+Taking a moment to answer, Jake just nodded as he tried to probe a little information out of the Shaman. “I do indeed have such a skill. A quite powerful one, I might add. Why do you ask? Are you not used to many other forces that might visit speaking your language?”
+
+“Ah, it’s entirely commonplace, but it does happen, especially when a diplomatic relationship is long-standing,” the Shaman answered. “Are you familiar with the Scaled Nomads?”
+
+“I can’t say I am,” Jake answered, now at least knowing the name of one other faction. “Who might they be?”
+
+“A group that I momentarily believed you, going by appearance, may be associated with, but upon closer inspection, it was readily evident you were not one of them,” the Shaman explained. “They are a nomadic people, traveling from island to island, with no true place they call home. Not because they are not powerful enough to permanently claim a territory, mind you, but due to their own preference for freedom.”
+
+“I take it your people are more of the settlement type?” Jake questioned, getting quite a lot out of this.
+
+“Indeed, we are,” the frog confirmed. “We have several villages in this area, each founded and led by an Oracle. The one we hail from is considered medium-sized, with the Ancestral Village serving as the heartland of the Venusian people.”
+
+Jake nodded along, and the more he heard, one thing seemed to really stand out. Something he wanted to confirm as quickly as possible.
+
+“Interesting. Say, if you don’t mind my asking, how long has your village stood?”
+
+“The one we call home?” the Shaman asked rhetorically before thinking for a moment. “I do not know, actually. There have been seven generations of Oracles who’ve led us, so it must have been at least a couple of hundred thousand years since the first founder settled there. I’m certain that if you wish to learn more of our history, the Oracle will gladly tell you more.”
+
+Hearing that answer, Jake needed a moment to digest the information. From all that the frog had said, he found it impossible for a place like this to have popped into existence at the same time as the integration. Still, hearing that Venus had turned into a positively ancient Minor World was a bit too much for Jake to process.
+
+After taking a moment, Jake nodded again. “I’ll certainly look forward to conversing with the Oracle and hope we can both learn a lot about one another.”
+
+“The Oracle will certainly provide far more fulfilling answers than I,” the Shaman nodded, returning to focusing on flying forward, as the four other frogs in the party focused on making sure they weren’t attacked during their travels.
+
+Occasionally, they did change direction to avoid certain places or creatures. In all those instances, Jake had detected whatever they wanted to avoid long ahead of time, but he never said anything. Wouldn’t wanna give too much away if he could avoid it, and besides, these frogs were pretty competent.
+
+During this period of silent travel, Jake wanted to confirm that, despite being in a Minor World, he still had a solid connection to his Patron as he reached out to Villy.
+
+“Hey, Villy, any input or explanation regarding this place?” Jake asked the snake god curiously.
+
+Nearly instantly, the Viper answered.
+
+“Hm? Oh, plenty. Not because I know of this specific Minor World, mind you. In fact, no one knows about it, and you are likely the first non-native of this place to ever set foot there. No way I’m going to rob you of the experience of being such a pioneer, so you’re totally on your own with this one. Have fun!”
+
+Jake didn’t even protest as the connection dropped, kind of agreeing with the Viper that he didn’t want spoilers. This was honestly pretty exciting, exploring an entirely new world. Alright, new from his perspective, but that only made the entire thing more interesting.
+
+The group of five frogs and one human kept flying for nearly half a day more before the Shaman motioned for Jake’s attention. “We’ll be arriving shortly. Stick close to me when we do, lest someone assumes you’re a threat.”
+
+“Alright,” Jake agreed. They were just coming above a massive hill, and when they did, Jake saw the frog village... and why the fuck did they call that a village?

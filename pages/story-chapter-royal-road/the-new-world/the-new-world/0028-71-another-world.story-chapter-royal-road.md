@@ -1,0 +1,225 @@
+---
+id: f4729506-67f7-50bb-b743-4e9c640e97ce
+page-type-slug: story-chapter-royal-road
+title: "71 Another World"
+slug: 0028-71-another-world
+partOf: the-new-world
+position: 28
+ownLength: 3618
+unit: words
+ownProgress: 3618
+publishedAt: 2017-11-06
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/172659/71-another-world"
+royalRoadId: "172659"
+markedReadAt: "2026-06-29T21:21:42.386Z"
+---
+
+Checking out my status screen, I placed all my remaining points into strength. Strength coursed through my flesh, might filling my bones. I grinned, stomping a foot to the ground. Cracks formed beneath me. The quickness of my nerves sharpened, as if my control tightened. My body balanced, staying stable as a mountain.
+
+I rolled my shoulders, enjoying the enhancement of my own limits. Every piece of me felt on point, like one of those days were everything goes right. I opened my status screen. Its magnificence explained why.
+
+Level 997
+
+Strength – 830.6 | Constitution – 1110.7 | Endurance - 1077
+
+Dexterity – 273 | Willpower – 1000.7 | Intelligence – 324.2
+
+Charisma – 71.3 | Luck – 121.3 | Perception – 151
+
+************************************
+
+It had been a long time since I took a long, hard look at my status. I didn’t see a point in checking it every ten levels. What difference would two hundred more health make? Damn near nothing. The difference now was immense. I closed in on 100,000 health, and my health regen almost outpaced my stamina regen now.
+
+Other stats had become ridiculous as well. My physical damage bonus neared ten thousand by itself. Just as impressive, Oppression was insane with the bonus scaling from Cosmic Soul. It made sense why I could burn through someone’s health with a condensed version of it. Last and least, Harbinger of Cataclysm looked like it would take years before it finally maxed out.
+
+Taking another look at my attributes, I was a jack of all trades now, except charisma. With all other attributes, my confidence was absolute. My build balanced out over time, making me into a tanky generalist. My only weakness was talking to people, and it just so happens that was what was waiting for me.
+
+Maybe Torix could cut me some slack after what this mission turned into. Explaining it would be hellish enough as is. Before leaving though, I walked over and absorbed what was left of the boss’s corpse. I headed back towards the encampment, checking for left over bodies or remnants. I found a few, using my armor to soak them up.
+
+After that, I covered the area with oppression, killing anything that remained of the massacre. Letting the insects of Yawm or the hands of Bloodbull escape wasn’t on my priority list. After basically salting the earth, I headed out with nothing gained but levels. A mission made for honing my charismatic qualities devolved into one of my most brutal yet.
+
+Pulling in oppression, I sprinted through the forest, heading back towards the base. I kept my head held high. Even though the mission didn’t work out like planned, I learned a few lessons. The first lesson learned was that while I was strong, fighting head on wouldn’t work forever. Second, I would gather information before any fight from now on if possible.
+
+My build and armor stopped me from dying, but it didn’t make me invincible. Maybe, in the back of my mind, the risks I’ve taken were because of this revival passive I had. Way back when, I got the leveling perk for luck. It included a way to come back after death. Ever since, the desperation and struggle I put into surviving waned.
+
+While I couldn’t force those feelings to return, I could fight smarter, not harder. With all my intelligence and willpower, the problem didn’t stem from being unable to think quick or smart enough. It came down to being lazy. I focused so intently on becoming stronger during my training, that maybe I believed it made up for poor battling. Who knew, maybe it was a sense of entitlement, like I deserve this ease in battle after training my heart out.
+
+That’s the thing about life though. Just because you work hard, that doesn’t mean you’ll get a damn thing. You have to be methodical, focused, etc. I couldn’t just work hard and live forever off it. I needed to use the brain between my shoulders too.
+
+At least that’s what I thought as I reached back towards the steel legion. Once I was back, I jogged up towards Kessiah’s tent. Hers was closer than Torix’s tent anyway. Besides that, I figured she’d be easier to worm the cores from anyway.
+
+As I walked up, I kept the telekinetic pads under my feet. Instead of converting all my weight, I converted most of it. My footsteps still made sound, making my approach a bit less eerie. Even if I did redirect all the force into my armor, it still ebbed sound now though. With so much constitution, I simply weighed too much for utter silence.
+
+Considering my damage now, a telekinetic sneaking ability would pair well with my power. Silencing those racing thoughts, I tapped on Kessiah’s tent,
+
+“Hey, you in there Kess?”
+
+“Hhmmm, what?” A second later, it was like her brain caught up to her lips, “Oh, Daniel. Yeah, sure.”
+
+I unzipped the tent, bending my head as I paced in. Even though Kessiah’s tent was specially made for her height, I stood taller than it now. Kessiah sat at a desk. Under the desk, a square plate of steel had been placed. Every piece of furniture in the tent shared that quality, the steel supporting the ground she slept on.
+
+She pushed herself from under the desk while setting down a thick book. She stood from the reinforced chair, propping a hand and weight on her hip. She liked wearing a black leather jacket that stopped an inch or two above her bellybutton. She knew she had a good figure, and she was proud of it. Flaunting off some skin came off as casual. Combine the skin-tight leather chaps and the edgy haircut, she might as well have been a biker chick at this point.
+
+Of course, she wore different clothes whenever she went out on missions. She preferred form fitting, carbon fiber suits that could handle the unreal stress of combat. All those observations and thoughts flooded my mind with crystal clarity as I looked at her. From what I could tell, the change in level and attributes was the cause.
+
+As I walked up, my armor peeled off my head without me thinking about it. I suppose it had become a habit, but I never really took note of it. Starting with my now exposed face, Kessiah looked up and down at me, checking me out before raising an eyebrow,
+
+“You’re taller again. Here I thought Torix sent you to go get some pawns or something like that. What gives?”
+
+I frowned, “Uh, it turned messy.”
+
+She glanced above my head, “Yeah, it did.” She met my eye, “Wanna talk about it?”
+
+I shrugged, “I’ll just have to tell the story to Torix after telling you. If you want, we can meet and talk to him. You can hear the story there.”
+
+She pursed her lips, “What did you stop by for?”
+
+I scratched the back of my head, “Well, to let you know about the story, and to ask for some more dungeon cores.”
+
+Her face shot up, “Ahhhhhhh.” She grinned at me, “Really now?” She pressed a finger against my chest, “You know it’s been a while since I stared a man in the face who was taller than me. Shouldn’t a man like that carry his own weight around here?”
+
+My heart rate rising, I raised an eyebrow, “Hmmm. I guess so.”
+
+She tiptoed her fingers up my chest plate, “I’ve got a few ideas of how you could.”
+
+I grinned, my heart pounding in my chest, “So do I.”
+
+She leaned closer to me, “Like what, big man?”
+
+Suppressing my desire, I pushed her away by pressing two fingers on her forehead, keeping casual, “How about I make you something?”
+
+Her curiosity peaked, Kessiah’s eyes opened wider as she pressed my hand away from her, “Really? I saw what you made Althea. It looked-” Her excitement died down, like she was trying to suppress her it, “Yenno, uh, pretty.”
+
+I nodded, “Yeah, I can do something like that. It’ll probably be something more like jewelry then. Working on something like that could help with my precision with my carving.”
+
+Kessiah nodded before she frowned. A second later, she snapped, “All you ever talk about is training. Training this, training that. Why don’t you let loose every once in a while?”
+
+I breathed deep before letting out a long sigh,
+
+“Because I can relax after we’ve dealt with Yawm. Hell, based on my perks, I could relax forever if I wanted too. I’m only seventeen…damn. I’m eighteen now. Shit. Anyways, I’m eighteen years old. I got a lot of life left in me. It just so happens that it’s on the other side of a mountain. That mountain is killing Yawm.”
+
+Kessiah’s eyes narrowed, “What if we die when Yawm busts out? What then? That means you lived your last days of your life working like some slave.”
+
+I shook my head, “No. It means I spent my last days fighting.”
+
+I held my tongue, not saying anymore. I wanted to go off about how she didn’t give a shit about dying, about how she just floated through her endless life. I didn’t though. I needed her help. She crossed her arms, a tense moment passing. It stretched out, turning into a rather painful set of seconds.
+
+Kessiah uncrossed her arms, locking them behind herself. She balanced on her heels, breaking the silence, “Hey, I’m sorry. I didn’t mean to go at you like that. I don’t know why, but watching you work so hard…sometimes it’s sexy and sometimes it just pisses me off. That time it pissed me off. No hard feelings?”
+
+Not really knowing what to say to that, I nodded, “Yeah, no big deal. Times are tense. We don’t have much time, and the pressure’s getting to people. It’s alright.”
+
+She tapped her crossed hands against her back, looking awkward. She glanced away, then back at me. She unlocked her hands, grabbing the at the satchel on her side, “Oh yeah, that’s why you came here. Sorry, I got sidetracked.”
+
+I let out a chuckle. It was rare to see Kessiah flustered. She handed me a few dungeon cores while saying, “You sure do use a lot of these.”
+
+I took a few, “Eh, I finished a tree for them. Means I need more of them than normal.”
+
+She finished handing them off. Kessiah grinned at me, “Good luck dealing with Torix. I’d stay and listen to the story, but I forgot he’d bitch the whole time. Honestly, I’d rather not deal with it.”
+
+I laughed, “Hah, yeah. I’m not looking forward to it either. See yah.”
+
+I stepped out of the tent and walked towards Torix’s tent. By now, I already know what you’re thinking. ‘Daniel, why the fuck did you turn her down? She’s a hot alien babe!’ True, but see, here’s the thing. She didn’t want sex for any other reason besides blowing off some steam.
+
+I’m not saying I didn’t want to. Hell yeah I did, I’m a man too after all. The thing is, I've been in relationships like that before. Dating someone is hard work, and if your partner is the type of person to use someone, the whole thing becomes more trouble than it's worth. I spent months dealing with this one girl who played games all the time. I hate playing games in relationships. It's like a power struggle, and whoever loses becomes a doormat. I'm not a doormat, and I don't want a doormat for a lover either.
+
+Kessiah gives off that kind of vibe to her. She isn't in love with me. She just wants to use me for sex. I can't honestly say that's the only thing she'd stop at either. If someone starts out a relationship by using you, you can’t expect that to change. If anything, things will just get worse. I’ll become a rag, and she’ll squeeze me dry…And I don’t mean my balls.
+
+Of course there’s men that do the same thing to women. I’m not trying to make this a battle of genders. What I am saying is that I should set boundaries with Kessiah. Refusing her now says I won’t let myself be used. It’s cutting an impulse short for long-term gain in the future.
+
+Besides, the situation could turn even more sour than just being a tool for Kessiah. Something could go wrong and maybe I end up hurting Kessiah’s feelings further down the road. She might not even help against Yawm. We would all be really fucked then, and not in the literal sense.
+
+Of courseI can say that all now with a straight face, but at the time, denying her was a feat of willpower. I found a way though. It didn’t help that Kessiah was gorgeous, kind of like a fairy that lures you into the woods and gets you eaten. You know you shouldn’t go inside, but stopping yourself was damn difficult.
+
+I did though. The thousand points into willpower didn’t hurt the situation either. Running towards Torix, I used the skill phaser for movement. I dashed up and across buildings. As I moved, I learned as well. With a bit of telekinesis, I could create fields and reinforce materials. It felt like hitting myself since I used my body as the shock absorber, but it wasn’t too bad. My armor was dense and difficult to break after all.
+
+If I pushed my telekinesis, I extended the range of my feet. I would walk on invisible telekinetic pads, letting me get twenty feet high in the air. The further up I went, the more painful the process became. I needed to stomp with all my might to get enough oomph from the telekinetic pads. That meant stomping my side as hard I could. Turns out, heel stomps do damage.
+
+Keeping around double my height made the process comfortable. Jumping would take my higher than telekinesis, but the utility of floating on nothing was awesome. Walking on something like water with wide, broad telekinetic fields might be possible too. Of course I couldn’t keep it up forever, but even a few steps might make the difference.
+
+Within a minute, I reached Torix’s house. I flew into the room before kicking off a telekinetic pad to stop my momentum. As I did, the force redirected into my sides, shoulders, and chest, compressing me. It was like being wrapped up by a boa constrictor. In other words, not so bad.
+
+Regardless, it surprised Torix. He had an egg sitting in the middle of the room. All around it, marking and inscriptions covered it in a circle. Reading them, it seemed like he was working on a bigger, better version of the beetle. The essence of control and power, the mark for efficiency, he placed them into a circular form around him.
+
+He sighed at my entrance, “Using that skill of yours again.”
+
+I grinned, “Eh, someone has to keep you on your toes. Anyways…” I glanced at my screen, remembering the strength perk. I put points into strength, relishing the feeling of pressing the button. As I finished allocating my stats except one point for the perk, my blood ran cold. My stomach sank. Leaving a point for the perk, I only had 971 strength. I grabbed the sides of my head, “Noooo. I thought, fuck.”
+
+Torix stood before floating with a cloud of mana as support. The runes remained untouched before he placed a hand on my shoulder, “What is it? Did the mission go poorly?”
+
+My shoulders slumped, “That too. I have a perk that requires 1000 strength to get, but I have to have that much strength before being level 1000. It would be a solid boost, but I won’t be able to get it.”
+
+Torix raised an eyebrow, “Sounds like a rather intense requirement. It’s a shame.” He lowered his arm. “Is your strength six hundred? Perhaps seven?”
+
+I shook my head, “Naw. It’s 971. I’m so close.”
+
+Torix’s head tilted back, “So close? You’re practically there. There are items you may wear that can enhance your strength. Obviously, armor isn’t one of those things in your case, but rings, amulets, anklets, they can all strengthen you.”
+
+I raised an eyebrow, “How much?”
+
+“Not by the hundred, but a few dozen is within the realm of possibility. In fact, it may prove a fruitful exercise to create them on your own. You understand the process of enchanting. Your armor is a rare metal to say the least. Why not try that?”
+
+I frowned, “I could. Are there buffs for strength?”
+
+Torix grinned, “A sly deduction.”
+
+He pulled out his personal tome from underneath his robe. He opened the page without touching it. The pages turned at rapid speed before stopping on a relatively simple enchantment. He continued, “You may want to make one these. Makes casting a variety of spells a breeze.”
+
+I glanced at my armor, the runic carvings a polished white metal while the normal stuff was black. I nodded, “Yeah. One day for sure.”
+
+Torix opened a palm towards me, a wave of green aura passing over me. Tiny bits light, kind of like floating lamps, passed through me before a bit of power filled my bones. It was like a watered-down version of the ascendant mana. Some of the might, but none of the fury.
+
+It was enough. I opened my status screen, seeing my strength at 1021. The perk screen appeared.
+
+Void Maker (Strength of 1000 or more, Level below 1000) – You grab towards the stars, and they shatter in your hand. You breathe at mountains, they turn to dust. As you live, all becomes null and void. +10% more bonus physical damage and relative strength every 1000 points in strength. For every 1000 points in strength, 1% of physical damage is added as true damage. You may place 1/10th of strength into any attribute, except Constitution, Endurance, Strength, and Willpower.
+
+I had to admit, whenever I selected yes, I was beaming. The bonus was ridiculous, just absurd. Against most enemies, I did only 5% of my actual damage against them. It was because most eldritch had high resistance. Even 1% of my damage added as true damage was a 20% increase to my physical damage against armored foes.
+
+Of course, Althea had 100% of her physical damage converted into true damage. Even thinking about it for a second, I couldn’t help but be flabbergasted. Still, my armor made me over three times tankier, not even including the extra health regen. All the other bonuses added up to, like oppression. I counted my blessings before confirming the perk.
+
+Which attribute will you select for the 1/10th addition? Intel, Luck, Char, Dex, or Per?
+
+It didn’t take too much thinking before selecting intelligence. The extra health was worth it, and none of my other stats gave me the same bang for the buck. I selected intelligence, confirming my choice.
+
+Strength roared up my limbs, like liquid euphoria. The certainty and comprehension of intelligence clicked into place in my head. I gripped my hands smiling, testing my new-found strength.
+
+Torix grinned at me, “It’s good to see the young so hungry.”
+
+I laughed, giddy of the boost. After a few moments of thought, I frowned, “Why don’t people just use buffs for perks at lower levels?”
+
+Torix frowned, “Level limits. Buffs are useless until you reach around level 100. Before then, I test you to find a single buff that increases an attribute by even five points. Schema won’t allow it. Even at your level, I can only increase it by about 45 points.”
+
+I nodded, “Ahh, my strength bonus applies to buffs.”
+
+“Naturally.”
+
+I sighed, “Thank you Torix. That could have been bad.”
+
+With pride, Torix puffed out his chest as he placed his tome back into his robe,
+
+“If I couldn’t even do this much, then what kind of master would I be?”
+
+I patted him on the back, “Still a damn good one, in my opinion.”
+
+He raised a hand, pointing a finger at the roof, “The real question is, what kind of apostle have you been?”
+
+I scratched the back of my head, glancing away from him, “Uh…not the best.”
+
+He sat down on a chair of mana. He steepled his fingers, “Oh, do tell.”
+
+I explained how the situation played out, trying to emphasize how close I came to death. I also had a section where I explained what I learned. Torix remained quiet, keeping his fireball eyes focused the entire time. After I finished, he sighed,
+
+“By Baldowah, I tell you to gain a speech skill. You go and kill everyone.”
+
+I glanced at the ground, “Yeah. I fucked up.”
+
+Torix shook his head, “Not particularly. You gained quite a few levels, learned a few lessons. It isn’t like near death experiences are easily forgotten.” With a sharp grin growing, he continued, “I would know.”
+
+Despite being curious, I nodded in silence.
+
+Torix sighed, “After that utter failure, I see no reason in postponing the mission to the rift. You’ve shown a rather deft incompetence for charisma related skills. You should focus on your strengths, and fighting giant monsters seems to be one of them. Once you’ve gained gravity magic, I’ll teach you how to wield it.”
+
+He met my eyes, “You and Althea leave in the morning. Learn to feel the fabric of another dimension, then you may wield the fabric within your own.”
+
+Torix cackled with a grin equally evil,
+
+“Good luck, harbinger. You may need it.”

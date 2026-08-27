@@ -1,0 +1,137 @@
+---
+id: a63ee842-833c-5873-a09a-39402feb187a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 678: Channel Void (Draconic Flame Aspect)"
+slug: 0100-chapter-678-channel-void-draconic-flame-aspect
+partOf: system-change-system-universe
+position: 100
+ownLength: 2330
+unit: words
+publishedAt: 2026-08-20
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3840844/chapter-678-channel-void-draconic-flame-aspect"
+royalRoadId: "3840844"
+---
+
+Chapter 678: Channel Void (Draconic Flame Aspect)
+
+Instantly, the status box disappeared, and Derek saw a new notification pop up in his vision.
+
+...
+
+Congratulations!
+
+[Channel Void] skill has been upgraded to [Channel Void (Draconic Flame Aspect)].
+
+...
+
+After that, he looked at his new skill in his list and smiled when he saw that the progression of his Channel Void (Draconic Flame Aspect) had been reset to the beginning. That hopefully meant that, even barring the Draconic Flame Aspect, his Channel Void skill would become faster, easier, and stronger as it progressed. But there was still a chance that the skill would only progress the aspect and his channeling ability was already at its maximum.
+
+However, there was no need to wonder about any of that, as he had a plethora of information sitting across from him at the moment. "So, is my channeling skill going to be able to progress again, or is the progression only going to focus on the aspect?" he asked Alex.
+
+"They are all different," Alex answered. "What is the new rank of your skill? And what was it before you evolved it?"
+
+Derek quickly looked at his skill list, then nodded. "It was C-rank before I evolved it. Now it is an A-rank skill."
+
+"Of fucking course it is," Alex rolled his eyes and snorted. "Why can't you be like a normal person and upgrade a skill by a single rank at a time? Hell... why is your basic channeling skill a C-rank and not a D-rank? Most initial channeling skills are usually D-rank, but I guess void isn't really a basic affinity. Manipulation skills usually start at C-rank. I imagine if you had gone with fire or even lightning, it would have evolved to B-rank. But with the draconic flame... why not A-rank?"
+
+"So... about my skill progress?" Derek asked again once Alex was finished being annoyed at Derek and his progression.
+
+"It will all progress. Your energy will move faster, will probably grow thicker and more dangerous, and it should—once you max it to 100% progression—even be able to be used instantaneously. And that is especially so at an A-rank," Alex explained, and then he started muttering. "Why not give the man another A-ranked skill? He already has S-ranked skills that only Transcendents or the most powerful of Ascendants are able to obtain, so a basic A-ranked skill is nothing."
+
+"Alex..." Derek said, and the young man stopped muttering and looked at Derek. "Are you okay?" he finally asked.
+
+"I'm fine," Alex said as he took a deep breath and let it out. "Being around you and knowing your secrets and personally seeing them progress with my own eyes... it's a lot to take. Both exhausting and fascinating."
+
+"I see," Derek said. "You are under oath, so I've been pretty open with everything. I can hold more back if you want... you know, so it's not all too overwhelming."
+
+"Oh, no," Alex replied with a hearty head shake. "Once you're an invincible Transcendent and all these oaths are gone, I'm writing full-on research papers about you and everything I've learned. If I have to suffer some mental blows about my own inadequacies while I'm at it, so be it."
+
+"You're going to publish research papers about me, are you?" Derek asked with a bit of a grin.
+
+"Of course... if that is okay with you," Alex said.
+
+"Honestly... seems... healthy, I think," Derek replied. "And sure, if one day I ever become an 'invincible Transcendent,' you can do what you want, I guess." Derek wasn't sure what he thought about someone writing about him, but since it wasn't something he'd need to worry about until Alex's oaths went away, he wouldn't worry about it. Besides, by the time Alex's oaths went away, he'd either be extremely powerful or extremely dead, and it wouldn't matter.
+
+"Could you show me the flame now that it's real?" Alex finally said, breaking Derek out of his thoughts.
+
+"Of course." In reality, he couldn't wait to try it out either. However, he was also stalling a bit and preparing for disappointment if it didn't work the way he was hoping it would. Derek took a deep breath, then started.
+
+He began by channeling the void throughout his body, just as he always had. He was relieved when it didn't seem any different from normal. Nothing had changed. It wasn't any easier or harder than it had been before. Suddenly, he focused on his fingertips again and tried to produce the lightning that he had from before. It had been very easy to do then, but now, the longer he concentrated, the more impossible he realized it was.
+
+"What's wrong?" Alex asked.
+
+"I was trying to form the lightning again," Derek said.
+
+"You can't do that," Alex said. "You selected your evolution and upgraded your skill. That is permanent. Before, you were freely able to do so because it was pure, non-aspected void energy. Now, it has the qualities of draconic flame, so why would such an aspect allow you to pull from another?"
+
+"So that's how it is?" Derek asked. "And there was no way that I would have been able to do more than one if I'd waited, is there?"
+
+"Only if you had more of a dual affinity," Alex replied. "Dual affinities are weaker overall but more versatile," he went on to explain. "So, like... an ice-fire affinity may have a fire manipulation skill and an ice channeling skill that could both be upgraded. But since the affinity is shared, even if a user got it to 100%, it wouldn't be pure. But that weakness is made up for by its versatility. It's a decision that every user needs to make by the time they are level 200 maximum. Changing affinities after that is reckless and unadvised."
+
+The first thing Derek thought about when he heard that was Silvi's dual affinity. Hers was going to be void cooking once they severed their bond. She would still be Mythical, and her affinity would likely start somewhere above 50%, so she would still have an advantage. And, to be honest, Derek thought she would do better with a more versatile build than pure void, anyway. It was how she already fought, so not a lot would change in that area.
+
+After all, she hadn't gotten skills like he had as he leveled up. She had her few void skills, then everything else had been gotten from a skill scroll or book. He couldn't help but wonder what all would change once she became a full system user on her own. I bet she's going to be able to aspect her cooking with draconic flame. Then, she could do lightning with the void or something... if that's even how it will work for her. As far as he knew, she didn't actually have any channeling or manipulation skills. She just did things instinctively. Hell, other than the skills he shared with her, she only had three void skills.
+
+"And all dual affinities are like that?" Derek asked.
+
+"Not all, but it's usually how it goes," Alex said. "There are always exceptions to the rule. Someone could have an ice-fire affinity without ever having separate ice and fire channeling or manipulation skills. In that case, they will have one channeling skill or one manipulation skill, and by the time their affinity is high, it will be just as potent as a singular affinity because it technically would be one."
+
+"So... would you consider it to be dual affinities and combined affinities?" Derek asked. "So, you're combining two separate affinities versus a singular one?"
+
+"Yes, that is a good way to look at it," Alex said. "My soul thread would be considered a dual affinity, whereas a few of my cousins in the crafting branch would have combined affinities so they could use their thread without soul attached, if that makes sense."
+
+"So, which is better?"
+
+"For most things?" Alex paused and thought for a second. "A singular, dual affinity. It is especially better for combat. However, depending on the affinity, combined affinities are often better for support or crafting."
+
+"I think I understand," Derek said. It was about as clear as mud to Derek, but he could still get the gist of it. After the explanation, he was just happy that he only had a singular affinity to focus on and that he didn't have to focus on the time, space, and chaos that made up his affinity and could just focus on the combination. He wanted to ask more about that, but he wasn't much of a scholar, and he was already getting mentally fatigued just talking about it all with Alex. "Okay," he said. "I'm going to channel again."
+
+Alex nodded, and Derek closed his eyes. Once again, he sent the void energy traveling through his body. He moved it from one hand to the other, then to his feet, then head, then back. He took a dagger from his storage bracelet and sent the void energy into it, and, like always, it created a void projection of the blade extending out from the dagger. He flicked his wrist, and the dagger disappeared. Then he focused on his palm.
+
+He concentrated like he had before to try to create fire, but to his astonishment, the fire formed seamlessly. He hadn't actually needed to concentrate—he only had to will it to be there once his void energy was gathered there. The moment he wanted the flames to appear in his hand, they began forming.
+
+"That was painless," Derek said as he opened his eyes and watched the flickering purple flame dance in his palm.
+
+"It is part of you now," Alex said. "Just like any other skill you have."
+
+"Yeah, I guess," Derek replied. "Just feels weird since it's coming from a skill I'm so used to using."
+
+"I can understand that," Alex said. "Now, what does it do?"
+
+"How am I supposed to know?" Derek asked. "You know as much as I do. It devours and erases—whatever that means. Want to touch it and find out?" He extended his palm, holding the flame out to Alex. Alex took his index finger and slowly moved it toward the flame before yanking it back.
+
+"Do you think I'm insane?" Alex asked as he held his hand. His curiosity almost got the better of him, and he almost touched it without thinking. Luckily, he wasn't so curious as to actually hurt himself because of it. "There is no way I'm touching a fire that sounds like it could erase me from existence. Or, at the very least, ignore all my defenses and burn something vital."
+
+"Yeah... that's probably for the best," Derek said and withdrew his hand. He was actually just joking and was about to pull his hand away before Alex withdrew. "But there's no other way to test it in here, though. And really, there's no real way for me to test it, period—at least not on an opponent."
+
+"You may not be able to test it on a user or a monster right now—or any other living being—but you can still do a test or two," Alex said.
+
+"True," Derek said, then dismissed the flame and flicked his wrist. A basic globe with a light rune on it appeared.
+
+"A light enchantment?" Alex asked, then nodded. "A rune that even the least experienced runesmith could make. That will be a good place to begin." Alex actually stood up and walked closer to Derek. He traced the rune with his finger. "Such terrible quality," he said. "So inefficient."
+
+"We're not here to judge the maker," Derek said with a chuckle. He didn't actually know who made the light—it was just something he'd bought a lot of back in Cydaria.
+
+"Start here," Alex said and placed his finger at one end of the rune etchings. "It's the end of the rune. Start there and work backward."
+
+"Sounds like a plan," Derek said, then pulled the flame back to his hand, then concentrated a very small amount onto the tip of his index finger. Finally, he placed the tip of his finger at the end of the rune.
+
+Instantly, the rune lit up purple, and the flame spread onto it. Derek quickly dismissed the flame from his finger, but the flame that had already spread to the rune continued on. It all happened in a single moment, but the flame then vanished.
+
+Alex quickly bent down and examined the globe, but before he could, it cracked and turned to dust. Derek and Alex stared at the dust on the floor, then looked at each other.
+
+"Uh... was that a success or a failure?" Derek asked.
+
+"It certainly did something to the rune," Alex said. "But I'm not entirely sure what. It could be possible that the light globe was just such poor quality that it couldn't handle your energy at all. Maybe try with something of higher quality in both material and rune?"
+
+"Sounds good," Derek said. "But I don't really have a lot of that kind of stuff."
+
+"Hmm..." Alex rubbed his chin, then shrugged. With a flick of his wrist, a robe appeared in his hands. "These robes have some cleaning, repairs, and a few defensive runes on them. They aren't exactly cheap, but it won't hurt too bad if you destroy a set or two." He handed the robe to Derek.
+
+"You sure?" Derek asked. He didn't want to destroy a high-rarity piece of Alex's equipment if he didn't have to.
+
+"I am," Alex said. "I am just as intrigued about this idea as you are. And if it is a success... I can't even imagine the state of crafting in the System Universe after. Your blacksmith friend and any other crafter you may sponsor in the future will be set for life."
+
+"Yeah... assuming I don't burn everything to ash," Derek said.
+
+"Yes... assuming that."

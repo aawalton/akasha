@@ -1,0 +1,159 @@
+---
+id: abb708d6-94a4-58fe-b582-bdc89793d5a2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 500: Bad, bad idea"
+slug: 0067-chapter-500-bad-bad-idea
+partOf: rise-of-the-living-forge
+position: 67
+ownLength: 1987
+unit: words
+ownProgress: 1987
+publishedAt: 2025-10-14
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2676207/chapter-500-bad-bad-idea"
+royalRoadId: "2676207"
+markedReadAt: "2026-06-29T20:00:34.824Z"
+---
+
+“What do you think?” Arwin asked, lowering the piece of chalk and stepping away from the newest revision of the diagram he’d just drawn on the wall of the Infernal Armory.
+
+Wallace and Koyu both examined it intently for nearly a minute. Neither of them said a word. They were both lost in their own respective worlds of experience. But, finally, Wallace broke the silence.
+
+“That’s a bit of a jump,” the dwarf said, scratching at his chin. “You sure you’re up for it? The basics are the same… but you’re going to end up using nearly twice as much power to make this.”
+
+“I know,” Arwin said. His gaze shifted over to the ivory suit of armor that stood watch at the back of the room. “I want it to be a step up from the Soul Guardian that we’ve already got in the Infernal Armory. This one is powerful, but it isn’t optimized to be controlled by another entity. I don’t just want a guardian. I want—”
+
+“An extension,” Koyu muttered. “You’re creating something akin to the arm you made for Olive, but for a building rather than a human. That is a bold move. I think it is viable. You will need an immense number of materials. Every single one of them will functionally have to be perfect. If there’s even a little dissonance within the final creation, it’ll collapse under its own power.”
+
+“Not just that,” Wallace said. He ran his hands along his beard in thought. “This won’t be able to travel far from the Devil’s Den. The level of connection you’re proposing here will limit it much more than your current suit of armor.”
+
+“That is acceptable.” The Infernal Armory’s voice rolled through the room in a hissing whisper. “The Den does not enjoy traveling far. She will be pleased to be able to travel at all. I do not expect she will have any desire to leave this street, much less Milten.”
+
+“I think I have a lot of the materials we’ll need already from the other jobs I’ve already done,” Arwin said, chewing his lower lip as he looked back to his diagram. The armor depicted in the picture was daunting — and he was the one that had drawn it up.
+
+It bore a strong resemblance to his own Gehenna armor, but there were several distinct differences. Arwin didn’t just want some suit of armor. He wanted a symbol. Something that would do more than just protect the Menagerie when things came to it.
+
+If — or, more likely, when — this Soul Guardian was activated, Arwin wanted to make absolutely sure that nobody in their right mind ever dared to make it activate again. And that started with one simple thing.
+
+Intimidation.
+
+His plan for the new armor placed it at nearly two times the size of his own armor. This wasn’t armor for a human or demon. It was the manifestation for the Devil’s Den itself, and such a building required more than mere armor.
+
+It needed a monstrosity.
+
+The Soul Guardian wouldn’t have any of the restrictions or requirements that Arwin’s did. There would be no living being within it at any point to protect. It would be a weapon, through and through.
+
+And that meant he could go a hell of a lot farther with some of the effects he was hoping to achieve. So long as he actually managed to pull it off, this would be his most deadly creation yet.
+
+The key part of that statement was the first one. Arwin was pretty confident this was within the limits of his skill, but it was definitely going to push the boundaries pretty heavily. There were going to be two major challenges among all the normal difficulties of creating a powerful piece of equipment.
+
+I need to make sure the armor is completely responsive to the Devil’s Den’s desires. It needs to basically be a part of the building itself. That means I need the core to have something with a deep connection to the building.
+
+Honestly, that part should be solvable. I’ll ask Lillia if she has anything in mind that might suit my purposes. The other problem will be more difficult. I will need a way to renew its power source. Something that keeps it sustained without drawing power from Lillia or constantly draining the Devil’s Den.
+
+Arwin shook his head. That part, at least, could come a little later. Making the skeleton of the actual armor would be the first step. Then he’d get the core. Only once those components were done did finding a sustainable energy source matter — and those tasks alone were probably going to take at least several days.
+
+It would be an incredibly tight deadline if he wanted to get this Soul Guardian into any state of usability by the time the Auction House was done or they were meant to set out and go to the vault.
+
+Tough… but doable.
+
+I think.
+
+“If you’re sure about this, then now is the best time to start,” Koyu observed. The Lich’s head tilted to the side. “We have much to test before we can rush ahead with the building process. There is no time to waste.”
+
+“I’m going to need to get some of my tools,” Wallace said after another moment of thought. He let out a gruff bark of laughter and shook his head once. “This one is going to be involved. Why don’t you ever choose easy projects? Or normal ones? How many reality-defying objects are you going to need to make before you’re satisfied?”
+
+“I didn’t realize there was a limit. What’s the fun in making something that you’ve already done?” Arwin asked.
+
+And I’m very eager to see just how much energy I get if we can actually pull this off. It’ll definitely be more than enough to really test out the differences that Sunsetting my class will have done to how I get stronger.
+
+“That’s a fair point,” Wallace admitted. A grin crossed his rough features. “Well, at the very least, this should be interesting. I can think of worse ways to use my time. And if we can pull this off… it’s going to be beautiful.”
+
+***
+
+Thane squinted at the massive, double-headed war axe poking out of a barrel far too small for it. He was absolutely certain the weapon hadn’t been there a moment ago. For that matter, he was absolutely certain there was no way it could have been standing quite so straight entirely on its own.
+
+The weapon was made entirely of a pitch black obsidian and marred only by dim red that glistened along either side of its blades like blood stained into the stone itself. The only part of it that wasn’t metal were the thick leather bindings around the base of the handle.
+
+An ominous aura enveloped the entire weapon like the gaze of some angry god. It darkened the room around it and swallowed up any light that dared draw too close. Even without touching it, Thane could pick up the faint, rancid sent of a battlefield.
+
+“Esmerelda?” Thane called.
+
+“What?” the old woman called back.
+
+“It escaped again! I think it’s staring at me.”
+
+A slew of curses came up from the other side of Esmerelda’s shop. They were followed by shattering glass as something fell to the floor and shattered. He wasn’t sure what those were, but they’d probably been important.
+
+There was a loud crash an instant later. Half a dozen miscellaneous tinks and thuds joined in with the sudden cacophony.
+
+Thane recognized that one. It was the sound of a shelf falling over. Those tended to do those far more often than he suspected appropriate. Esmerelda really needed to look into earthquake-proofing her shop if she wanted to keep things from pitching over.
+
+“Are you okay?” Thane called.
+
+“I am a witch, boy!” Esmerelda’s irate voice snapped. “It’s going to take a whole lot more than a falling shelf to kill me!”
+
+One more thud echoed out through the room.
+
+Esmerelda cursed again.
+
+She emerged from the maze shortly after, rubbing a growing welt on her forehead and holding a large cleaver in her hand. The plain metal knife had the initials V and A carved into its surface in rough script, but Thane didn’t recognize it.
+
+Must be another cursed weapon.
+
+There were a lot of those. Far too many to keep track of, even in spite of his best efforts to help Esmerelda around the shop.
+
+“Right,” Thane said. He glanced back at the axe. “So…”
+
+“This one again,” Esmerelda muttered. She flung the cleaver over her shoulder, sending it spinning into the mess.
+
+Thane never heard it connect with anything. The knife simply vanished. He didn’t question it.
+
+Esmerelda had done stranger things.
+
+“Does it like me?” Thane asked, warily eyeing the axe.
+
+“I should hope not,” Esmerelda replied. “This one isn’t suited for you at all. It would eat a sweet little thing like you alive. It’s too bloodthirsty. Needs a real fucking whackjob to use it. Someone with every part of their brain so loose that it rattled around with every step they took. And it wouldn’t settle for anything less.”
+
+“So…” Thane trailed off, glancing from the axe to Esmerelda before shrugging slightly in question.
+
+“I don’t know,” Esmerelda admitted. She glared at the axe. “This one never speaks properly. It’s never acted like this, though. Something must have it excited. Perhaps it senses a wielder approaching.”
+
+Thane swallowed. That definitely didn’t sound like a good thing. He understood the gist of what Esmerelda did. She’d told him as much when he’d started helping out around the shop. Her role was to distribute the curses so they didn’t break out and run amok around the world in search of a wielder.
+
+But this axe’s aura… it felt like blood cloying in his lungs. Anyone vile or evil enough to suit the desires of a weapon like this wasn’t going to be the kind of person he wanted anything to do with.
+
+“Should we lock it up or something?” Thane asked.
+
+“No, no,” Esmerelda shook her head. “Never do that. Doesn’t work. The curses are here by choice, Thane. You can’t lock them away. All I do is distribute them. But that’s the fifth time in the past few days it’s pulled itself out of storage. The wielder must be getting quite—”
+
+A creak cut through the shop.
+
+The obsidian axe shuddered.
+
+A trill of fear ran down Thane’s spine.
+
+“Here?” he whispered. “They’re here?”
+
+Esmerelda’s lips splint into a grin. “They’re here. Wipe that look off your face, boy. Seeing a cursed weapon choose a wielder is a rare honor. Now straighten your back and pretend you know what you’re doing. We’ve got an impression to make and an axe to pawn off on some poor bastard.”
+
+“Heyo?” a bawdy female voice called, echoing through the dusty shop. “You all got any booze? Or men? Godspit, I’d take a woman if she was pretty or buff enough. I’ve got a whole bunch of gold to blow and no obligations to uphold.”
+
+Thane blinked.
+
+The voice was familiar.
+
+Wait.
+
+Esmerelda’s eyes narrowed as the same realization passed over her features.
+
+“Hold on,” she said. “Is that—”
+
+From behind a shelf stepped a woman clad in the exact same ratty armor that she’d been wearing the last time Thane had met her.
+
+“Where the hell did the door to this place come from, anyway? Who sets up shop in an alleyway?” Vanessa asked. Then she spotted Thane and Esmerelda and ground to a halt. Her eyes went wide. “Oh, hey! What a coincidence! What brings you two here? And — whoa. That is one hell of an axe.”
+
+The axe trembled once more, and the roof of Thane’s mouth went dry.
+
+Oh.
+
+Oh, shit.

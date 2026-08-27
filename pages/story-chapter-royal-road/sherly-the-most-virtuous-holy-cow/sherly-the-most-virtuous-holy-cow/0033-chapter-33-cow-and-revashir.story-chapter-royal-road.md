@@ -1,0 +1,161 @@
+---
+id: 2fa58ffe-3f47-5968-82b3-120ef5234891
+page-type-slug: story-chapter-royal-road
+title: "Chapter 33 - Cow and Revashir"
+slug: 0033-chapter-33-cow-and-revashir
+partOf: sherly-the-most-virtuous-holy-cow
+position: 33
+ownLength: 2084
+unit: words
+publishedAt: 2026-01-24
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2973561/chapter-33-cow-and-revashir"
+royalRoadId: "2973561"
+---
+
+Chapter 33 - Cow and Revashir
+
+”Let go!” No matter how hard she tried, Sherly couldn’t pull her hand away.
+
+”Not the words I’m looking for, demon. I will remind you that lying would be the biggest mistake you could make today,” Revashir began, maintaining his grip. “There are numerous ways to deal with your Continuous Regeneration.”
+
+“Calm down, Rev!” Ishuin said, but the moment she started to speak, the man brought his dagger closer to Sherly’s neck. “She’s a demon, but a unique one!”
+
+“Those flames came from you, right?” Revashir asked instead, ignoring his worried kin. “I could never mistake demonic flames. You’re all the same. You act like an ally, then betray us in the end. Your Claw’s inexperienced, Ishuin. That’s what you get by spending so much time with your goddess, rather than looking at the real world.”
+
+“You don’t get it!” Maymay intervened. “She’s an evolved demon-cow. Have you ever seen one before?”
+
+“You’re the one who doesn’t get it,” Revashir answered back. “Your dog traits have made you too trusting. There’s never been an evolved demon-cow, so why would there be one now? Demonic trickery, I say. She’s just waiting for you to put your guards down before she eats you. Or worse, turn you into a demon.”
+
+Sherly lost her patience.
+
+Since the elf wasn’t showing any signs of backing down, the cow-chilim grabbed the dagger with her free hand. She tried to wrestle it away from him even as the edge bit into her palm. He wasn’t giving any ground, but he was utterly taken aback by the sudden action when he’d thought he was the one calling the shots. Sherly took advantage of that.
+
+“I said, let go!” She brought down her head in a desperate headbutt. Her forehead slammed against the elf’s. At the very least, she made sure her horns didn’t get involved, or that she didn’t hit his face directly. She merely wanted him to let go, not to make him suffer a broken nose.
+
+It proved effective. With a loud thud, Revashir lost his grip and took a few steps back, before falling on his butt. He clutched his head, groaning in agony. It didn’t take the elf a long time to recover his composure, however, a testament to his experience and tenacity.
+
+“How are we supposed to explain, if you have a weapon to my throat?” Sherly asked, ignoring the frown on the elf’s face. She was just as angry. Mad enough that she could ignore her bleeding palm. “I know you saved my life, and we owe you an explanation, but you’re not getting it by threatening my life!”
+
+Revashir was frozen in place. His frown was wavering, the gears in his mind turning. He blinked a few times before the next words hesitantly came out of his mouth.
+
+“R-right…”
+
+“Good.” Sherly gave a stern nod. It was only now that she noticed that her hand wasn’t healing. She set it aside for now. “Now, to answer your question, yes, I originated as a demon-cow. But unlike demons, I’m capable of thought and reason. I know right from wrong, and it’s my mission to find a way to replace Tau-tau.
+
+“Alright? Understood? If you’re friends with Ishuin and Maymay, then I’m your friend too. At the very least, I’m not your enemy. I’m not going to eat you, and I’m not going to eat your friends. I am going to eat those treantcaps. Now, would you please explain why my hand is still bleeding?”
+
+Sherly took some deep breaths. She felt some sort of weird satisfaction. It felt good to let out her thoughts. It felt awesome to be able to fight back for herself and her friends. She wondered why she hadn’t done it before, and she suddenly felt stupid for not realizing she could’ve done it all this time.
+
+“Y-yeah…” Revashir said, still dumbfounded. His eyes turned from Sherly to Ishuin, as if trying to find some answers. It took him a second to realize he had just received a question. “Oh, yeah. This is a magical weapon. Not quite a Moniker Armament, but it’s enchanted with Lifebreak. It’ll stop any regeneration skills for a full minute. You can mitigate it with Physical Resistance, though, and make the duration shorter.”
+
+“Thank you. Now I just have to wait for it to run out.” Sherly turned to Ishuin. “Is there a way to determine if something has Lifebreak or any similar effects?”
+
+“There’s a skill called Scan,” Maymay answered. “At low levels, you can only use it while stationary and concentrating. But with enough levels, you’ll be able to use it on the fly and even while fighting. There are other ways, but that’s the most straightforward method, as far as I know.”
+
+“Good to know. Thanks.”
+
+Sherly went to pick Stalwart and the treantcap mana-cores. All the while, she noticed Revashir’s staring at her. It was annoying.
+
+“What is it?” she asked.
+
+“You’re… You’re really a reasonable demon?”
+
+“Come now, Rev,” Ishuin intervened. “If she was actually a demon, you know she could’ve drilled you in with those horns earlier, right? A real demon wouldn’t care even if there’s three of us surrounding it.”
+
+“How?” he asked in the most curious, insensitive way. “I’m just finding it hard to believe such a thing could exist.”
+
+Sherly turned to Ishuin. The female elf was wondering if it would be a good idea to tell her kin about her real origin. The cow-chilim tried to shake her head as subtle as possible. The man threatened her just a few moments after they had met. Trusting him would be at the bottom of her list.
+
+With a nod, Ishuin used their agreed explanation instead. “We just found her that way. She fought to save an entire village. Braum also acknowledged her. Even Lady Kansa gave her blessing. Lady Kobeni as well.”
+
+“What? Lady Kobeni too?!” Revashir’s jaw dropped in utter shock.
+
+To prove the claim, Sherly lifted Stalwart and showed it to him. “She gave this to me.”
+
+The elf gave it a look that the cow-chilim considered as obsessive.
+
+“You’re right… There’s no mistaking it. I’d recognize her signature anywhere.”
+
+“You’re a fan?” Sherly asked, curious. She also used the question in an attempt to break the tension.
+
+“I’m a supporter!” Revashir replied with the enthusiasm of a child. “The Hidden Cabal is a secret organization that shows up in the direst of times. You have no idea when, you have no idea how, but they’re sure to be there when you need them! They’re heroes! It’s basically every child’s dream to be one of them! But I know they only take cow-zilims.”
+
+He gave a deep sigh, realizing how much his attitude had changed as he talked about the Hidden Cabal. He straightened up his arms and legs, and gave the deepest bow Sherly had ever seen.
+
+“If Lady Kansa and Lady Kobeni have given you their blessing, then I have absolutely no right to accuse you of being evil,” he began. “I’m truly, deeply sorry. Please accept my apology.”
+
+Sherly told herself not to cry. This was the second time in her entire life that someone had ever asked her for forgiveness after hurting her physically or verbally. One that was on the same scale as Duis’ apology. This time, she afforded a small smile.
+
+“Apology accepted, Rev.” Sherly made a gesture for another handshake. She wanted a real one.
+
+Revashir smiled and accepted her handshake in return.
+
+“Now, we’re supposed to leave before more monsters show up, right?”
+
+“That’s right,” Ishuin said. “Let’s get back to Kasta and the others.”
+
+“Alright, let me eat these first.”
+
+Sherly made quick work of the mana-cores. She could feel the power surging through her body as the Evolution Strains made their way into her system. She quickly checked with Letters how much she gained.
+
+[It’s quite a bounty. You gained 323 Evolution Strains from those two. Congratulations! That’s a total of 371 Strains. You also have 2 Skill Points available.]
+
+“Is that a System Assistant!?” Revashir asked, shocked to discover that Sherly had one. “And you’re a Wielder, too!?”
+
+“Can you ease up a little?” Sherly asked in return. “Is that really more shocking than discovering that I’m actually a good demon-cow-chilim?”
+
+“That’s exactly why it’s surprising!”
+
+The caravan moved cautiously but hastily. According to Revashir, the monsters that would gather at the bottom of the lift would stop if they detected movement going out. They had enough understanding that the people brave enough to move out, and in such large groups, would be also powerful enough to fend them off. Though, it wasn’t an absolute guarantee that no desperate monster would take a chance.
+
+Ishuin, however, forbade Sherly to do the watch, or to even fight for that matter, if some monsters did turn out to be waiting in ambush.
+
+“You’re still recovering,” she started. “Your lifeforce was stabilized, but it’s most likely not fully healed yet. Not to mention your armor’s broken down. Go give them to Edward, and ask him if he’s ready to reinforce them.”
+
+Sherly smiled as she followed her orders. It was a testament to her hard work being acknowledged. Though she did worry for her comrades, working as a group also meant trusting them to do their duty. She did still feel lacking, and that she still had much to do to really belong in the group, but that simply also included the other functions of being in the caravan. Such as armor repair.
+
+“Hey Edward, you busy?” Sherly asked as she entered one of the caravans. The door was opened, so she just allowed herself in. “I need some repairs, and reinforcements too if you have them.”
+
+“Oh, great!” Edward said, appearing from one of the other doors. Metal clanged from inside the room he was from. The sound of falling steel and other tools, but he simply shrugged and closed the door anyway. “I’ll bother with that later. Anyway, I just finished cleaning all the shervisvile scales. Let me see how beat up the baby is.”
+
+Sherly raised an eyebrow but didn’t bother asking any clarifications for the weird analogy. She simply pulled her armor from her Domain Heart and placed it on the table.
+
+She expected the blacksmith to be mad. It had holes in the sides, and dents. A whole lot of dents, courtesy of her fall. There were missing parts, dirt, and an enormous amount of scratches and cuts. It was barely recognizable. Sherly even remembered some of those metals parts digging into her skin, the way they were bent, but she didn’t know if that was a good thing to point out.
+
+“These parts were biting into you, were they?” Edward asked. He was clearly worried. “If you have any complaints or criticisms, or suggestions, tell me before I make the repairs and reinforcements.”
+
+“Yeah, they were,” Sherly admitted. “I didn’t notice them until I took them off, though.”
+
+“Must’ve been a pretty intense fight, then.”
+
+“Yeah.”
+
+“They told me you skydived straight into one of those treantcaps.”
+
+“Yeah…”
+
+Edward slammed the table with vigor and joy. “You’re nuts, did you know that? That’s crazy!”
+
+“It was a spur of the moment thing.” The cow-chilim, embarrassed, could only scratch the back of her head. She could feel her face turning red.
+
+“I’m not sure if a suit of armor can help you when it comes to colliding at such speeds, but I can surely say that I’m really glad that it’s still in one piece, at least. Barely, but it helped, right?”
+
+Sherly was quick to nod. “It did. Yeah. I would’ve taken so much more damage if not for your armor. I barely managed to kill the second treantcap before my lifeforce gave out.”
+
+“Lifeforce?” Edward’s eyes beamed. “You mean Ignite Blade takes lifeforce instead of mana? I didn’t know about that, sorry. I’ll update my notes. Can you show me how it works?”
+
+“Maybe when my lifeforce fully heals. Tomorrow. Promise.”
+
+“Deal!” With a stern nod, the blacksmith tapped the armor’s shoulder-plate. “Anything else you want from your armor?”
+
+“Can you make sure it can’t catch fire?”
+
+“Magical fire?”
+
+“Err… Yeah. But also, magical demon-fire.”
+
+Edward gave another nod. “I’ll see what I can do!”
+
+With that, Sherly left the blacksmith to his work. She heard more clanging metal as she left the vehicle.
+
+Then she noticed that they were out of the forest.

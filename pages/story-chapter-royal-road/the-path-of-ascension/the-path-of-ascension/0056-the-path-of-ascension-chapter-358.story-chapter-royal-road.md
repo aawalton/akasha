@@ -1,0 +1,273 @@
+---
+id: 441bef2b-3d66-5e5c-a6b5-c64f6afd07f3
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 358"
+slug: 0056-the-path-of-ascension-chapter-358
+partOf: the-path-of-ascension
+position: 56
+ownLength: 5515
+unit: words
+ownProgress: 5515
+publishedAt: 2024-10-14
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1850461/the-path-of-ascension-chapter-358"
+royalRoadId: "1850461"
+markedReadAt: "2026-06-29T19:19:30.182Z"
+---
+
+Chapter 358
+
+Baron Haluk Avci watched as Ascender Titan walked the reporter through the third aura rift in a row.
+
+The first had been a simple fire aura rift with fairly standard, Tier 4, oversized insect monsters that had fire aura clinging to their carapaces. The second had been a mist aura rift, Tier 4 as well. But the third was the crown jewel.
+
+A Tier 4 sharpness rift.
+
+The possibility of such a rift had been circulating amongst those who cared about such things, and Haluk had been waiting for confirmation of its existence before deciding anything.
+
+Looking down at his daughter, he asked, “What do you think of the rifts?”
+
+Fatma gestured and caused the projection to rewind to the oversized kobolds with metal shards sticking out of their flesh, the image hanging in the air before the assembled family. “The monsters look difficult. Ascender Titan said the monsters weren’t guaranteed, but likely, so it's possible we can get easier rifts than this. But even I would be hesitant to throw myself into battle against these beasts.”
+
+Haluk nodded and Fatma gestured to resume the interview and they watched as the Ascender went through a few rifts of various types.
+
+The thing that caught Haluk’s attention was the method. Ascender Titan shared it freely. “To create a Tier 4 rift, you need an aura sample of the type you want. Fire aura to make a fire aura rift, and so on. If you are close to any of the regional capitals, the capital itself, or Lily, we have aura samples that you can have freely. The Emperor and the royals are also offering the same thing, along with the mana sample you need to use to make the aura rifts form. However, if you don’t wish to wait for that, the information on how to make a Tier 6 aura rift will be provided, so you can then use that as your source of aura.”
+
+“Emir, are you confident in making the formation plates?”
+
+Emir, Haluk’s oldest, spoke as Haluk’s attention turned to him as the interview started to repeat. “Not really father. I may be Tier 15, but those Tier 20 plates look complicated. I’m good, but not that good. Beyond that, the actual creation of the rifts will probably be difficult. Very difficult. I somehow doubt it's quite so easy as he made it look for the reporters.”
+
+Haluk could hear the unspoken question in his eldest’s voice. ‘Do we really need to leverage ourselves so heavily, father?’
+
+His oldest son was born under a cautious star, and was always hesitant to take risks, which was exactly why Haluk was considering Fatma as his successor.
+
+Haluk continued to stare at his son until Emir finally said, “So long as nothing is false, I believe I can manage the creation of the rifts, father.”
+
+Looking at his wife, Isra, Haluk simply raised an eyebrow. She had been watching her contacts within the alchemy channels, waiting for news.
+
+“The recipes were made available and they seem… possible. I hesitate to say they are correct, but my experience says they aren’t blatantly wrong. I doubt Sylvan Potions would risk publicly putting their names on formulas that wouldn’t work, but the formulas seem… unrefined. Sylvans said they had limited time to simplify the thousands of scattered formulas that existed around the naturally occurring rifts, but beside the basic four elements the formulas are… specific, and will require higher Tier alchemists to concoct. In fact, I’m not sure any but the best Tier 4 alchemists can produce even the basic four potions. I'd wager that we need at least a Tier 5 or 6 alchemist to consistently create the potions.”
+
+The news wasn’t ideal, but nothing Isra said changed his mind. Everything was possible, so he was going to reach.
+
+Standing Haluk made his decision. “Then let us begin. Queen Tur’stal already confirmed that she has access to the materials and will send them to anyone who is willing to invest heavily into the aura rifts first.”
+
+Emir joined Haluk in standing. “Father, the terms may be generous, but there is still a risk in destroying so many of our world’s rifts. The backlash if this doesn't turn out correctly will ruin us.”
+
+Haluk nodded, acknowledging the point. “Yes, but this is our chance to level our position and our world's Tier. We are only three jumps from East Flower. If we can supply the quadrillions who live there with aura potions in place of Concept potions, we can make fortunes we never could have considered before this opportunity. A risk, yes, but a risk worth taking.”
+
+Having made his decision, Haluk started meeting with his planetary officials.
+
+His family's holdings were rare in that their star system naturally had two planets in the habitable zone that were similar Tiers. Tier 8 and Tier 7 respectively. In the grand scheme of the Empire, Tier 7 and Tier 8 worlds were nothing impressive, but those planetary Tiers were the perfect ones to create a plethora of Tier 4 rifts, which was why he had been following Ascender Titan’s announcements so fervently.
+
+Few civilians ever bought a bottled Concept, but that statement was relative. There were no good estimates for how many people made it to Tier 5, let alone Tier 15, but it certainly wasn’t the 6% that Empire officials so often liked to quote. The study they used to get that value was quite dubious, and its conclusions could be best described as ‘excessively optimistic’. Not that he’d begrudge the Royals their fair share of propaganda, when it was undeniable that their reforms were effective. Padding the numbers was a time-honored tradition for anyone in power, and he’d do the same thing if he were in their place.
+
+But such optimistic statements didn’t help him, and that was why he ensured he always kept tabs on his own demographics. Not that such a task was easy, of course. But even the most generous estimates he had for how many people Awakened on his pair of planets that subsequently made it to the mere peak of Tier 4 was around three percent. Give or take.
+
+With an annual birth rate of about two percent and a population of 1.2 billion people, his population would need an absolute maximum of 720,000 aura potions per year to satisfy all reasonable demand. 24,000,000 new citizen’s born each year, and three percent of them eventually reaching Tier 4 came out to a best case scenario of 720,000 potential buyers.
+
+Running a rift on cooldown had a maximum of 35,000 cycles annually, so even if they could only extract enough aura for a single potion per delve, instead of the two Ascender Titan had found in his testing, that meant he’d need less than twenty rifts to supply his entire population with aura.
+
+Most lower Tier worlds didn’t even break a hundred million population, which meant their nobles could get away with far less rifts than he could. Probably two or three rifts depending on their exact situations and desires. That was assuming their civilians reached Tier 4 at a rate comparable to his own worlds’, which was… unlikely.
+
+On the other side of the spectrum there were the higher Tier worlds. The Tier 20 and higher worlds. They were rare and were always centers of their respective regions.
+
+East Flower, the Queendom’s capital, boasted a population in the quadrillions.
+
+With ten trillion new births every year, East Flower needed, theoretically, six hundred billion aura potions every year to meet their demand. If not more, because the capital worlds probably had a higher rate of people reaching Tier 4 than even his own worlds.
+
+That was, of course, entirely impossible for those worlds to actually sustain themselves. At their Tiers, it was incredibly expensive to create and maintain low-Tier rifts. And even then, accidental Tier-ups and subsequent recreations were common. No, if the capital worlds wanted a steady source of aura for their citizens, they would have to outsource the production. Either lower-Tier moons, or planets in the same planetary system, or bringing them in from the sort of world he hoped to forge his into.
+
+To satisfy East Flower alone he calculated seventeen million rifts needed to be delved in, perfect order, per year. With proper planning, it wasn’t unheard of for a planet to have up to ten thousand ‘tamed’ rifts, the sorts of which guilds had in their training grounds or PlayPens ran. Rifts that had the proper infrastructure to maintain them even under heavy, heavy load, rather than the outlying rifts that were delved more sporadically. No one cared if those rifts fell apart and reformed.
+
+He didn’t know of any worlds that had attempted to maximize every rift they had, not that anyone had enough mana to even power that many rifts, but if he were to ignore mana as a constraint… maybe twenty-five thousand rifts? With industrial rift harvesting on a scale never seen before, a single planet might be capable of producing a maximum of 875 million aura rift-runs per year. Then, say refinements regarding aura potion production paid massive dividends and resulted in an average of five potions per delve, that set an absolute maximum upper bound of 4.4 billion potions made per planet per year.
+
+That meant even in this absolutely, absurdly unrealistic hypothetical scenario, East Flower would need at minimum a hundred and fifty planets wholly dedicated to the production of aura just to keep up with its demand.
+
+In other words, his location near East Flower guaranteed that he would have access to a never-ending black hole consuming aura potions, and even if he converted every rift he controlled into an aura producing one, it wouldn’t matter. So long as aura potion creation was profitable- which there was practically no way it couldn’t be, if it was even half as easy as Titan was describing- he could create an industry with stability the likes of which was scarcely seen. His people would prosper, his barony would prosper, and he would prosper.
+
+It would be quite the undertaking, to be sure. He would need to kick-start what amounted to multiple entire industries, from rift-makers and rift maintenance to the alchemists actually tasked with creating the potions, exporters and delvers… and that was just the first-order requirements.
+
+Some of it could be done by high-Tiers, yes. But relying on Tier alone was elitist and impractical. Far better to set up institutions, or rather the fertile ground for their growth, so that when one died another would be already prepared to take its place ensuring a seamless production of aura.
+
+Thankfully the Emperor had decided to extend some very generous tax breaks to everyone involved in producing the formation plates which brought the price down on his end, and Queen Tur’stal was extending quite generous lines of credit to cover the rest of the expenses, so the cost of this was only moderately painful instead of outright impossible. He’d almost feel threatened by how easy she was trying to make it if not for the inconceivably vast scale of East Flower’s buying pool.
+
+All he needed to do was be one of the first in line, and his planets’ and family’s fortunes alike would be set. That his wife was a skilled alchemist, his son had dabbled in runecraft some, and his daughter had recently broken through to Tier 4 only served to make his position practically ironclad. None of his peers were even half as well-equipped to take full advantage of this as he was.
+
+The following weeks were some of the most nerve-wracking of Haluk’s life, but once the formation plates and seed items were delivered a month later, he began to calm. He was endlessly grateful for the very thorough instructions that Ascender Titan had included, which informed him that the grueling de-aspecting rates were expected, as well as all the ways to adjust things given common failure modes because without them he might have given up at the steep rate of loss they encountered in those first tests.
+
+It took two painful months, but they had their first aura rift. Specifically a ‘sunrise’ light rift, and two months after that, it was joined by sharpness and ‘waterfall’ water rifts. From there, though, he was starting to get into more troublesome territory, because if he was going to make his planets able to meaningfully export aura, he’d need to start replacing public rifts.
+
+There was outcry, of course, but there was always outcry. Nonetheless, he forced it through, upgrading the first public rift to being an aura rift within another month. It was no longer free, as he now treated it like any other valuable public rift, but the increased revenue from what he offered for the aura more than offset the increased price.
+
+That raised his own tax income by a fraction, but the taxes from delving were minor in comparison to what he was expecting to come next. With the proof of concept established, he rapidly expanded. His long-term goal was to replace a full half of the rifts he controlled with aura rifts, but that was liable to take decades before it came to full fruition and his son was correct when he stated they needed to be at least a little cautious.
+
+Their largest hurdle wasn’t unexpected but they ran into faster than Haluk could have anticipated, delvers. There were only so many Tier 4 delvers available and competent enough to delve the rifts to go around who were also willing to linger at Tier 4 for at least a decade. It was expensive but Haluk started recruiting from anywhere he could get his hands on competent delvers, guilds, corporations, neighboring planets, anywhere that had strong Tier 4s in excess he snatched them up.
+
+Haluk wanted each and every aura rift delved the instant the rift cycled its instances to maximize their early profits.
+
+Alongside the opening of the first public rift, the first aura potion hit the market of East Flower. Its final price was sky-high, of course, but that was to be expected. Unlike the well-established subsidies for the traditional Concept potions, there were no Empire-provided sponsorships for selling aura potions which might limit their price. In time, they might come, but ‘in time’ was not now, and there was nothing to be gained from underselling one’s products when there were people who could afford the price of not having to wait around for an ascension or a shard of reality.
+
+Only time would tell where the price would settle.
+
+Right now, a Bottled Concept took years, sometimes decades, for a Tier 4 to afford, but even if aura potions settled out to costing twice that, which he rather doubted with how much cheaper the production was, their benefits were such that they’d still be immensely popular. That would be triply the case if the Empire stopped subsidizing Bottled Concept, which some rumors were saying was imminent. After all, why would they subsidize something when a superior replacement existed and was cheap enough to produce you don’t really need subsidies at all beyond start-up capital?
+
+The first batch of aura potion, handmade by his own wife from sunrise aura Haluk had personally harvested, had produced two vials. After donating the first to charity, Haluk mounted the second on the mantelpiece in the family's private gathering hall.
+
+It would hopefully signal the first of many.
+
+It would take years, decades probably, to fully convert all of the rifts he wanted into aura rifts, but with an even dozen rifts converted and stable, the production lines began to churn.
+
+Haluk wanted to redirect all of them to East Flower, or the Capital, which was said to have even higher prices than what the regional capital’s civilians could afford to pay. But he knew that was an awful idea, even if the initial prices would have been incredibly favorable.
+
+Instead, he made sure that the first batch was sold locally at the lowest feasible prices, which helped quell any remaining murmurings about his usurpations of the tamed rifts.
+
+Instead, he contented himself with delivering the second batch of aura potions to East Flower himself. The shipment was only ten thousand aura potions, all of the basic four elements, but with this single shipment, he was able to pay off nearly the next ten years of payments to his loans.
+
+Queen Tur’stal herself even gave him a public audience, which made him the envy of his political rivals, who now had to think twice about offending him with him in their liege’s good graces.
+
+With the payment secure and extrapolating the success out along with the eventual drop in prices, Haluk still expected to have paid off the loans he had taken in less than a tenth of their allotted repayment periods. Even if he only dedicated half of the profit to the loans. Best of all, that didn’t even account for his taxes, which had been on the rise with all the new industry the aura potions were creating on his twin worlds.
+
+He was sure Ascender Titan would never see it, but he sent the man a heartfelt thank you message.
+
+It wasn't much, but it was the only way he could show the gratitude he felt deep in his heart.
+
+***
+
+Marquess Enrique Castillero scoffed at the recording of Ascender Titan ‘giving aura potions to the Empire.’
+
+What an incredible waste of time.
+
+Anyone properly skilled would create their Concept on their own. That was how it was always done, and that was the proper way to do things. It was blatantly obvious. The vast majority of immortals had gotten there by making their own Concept, after all, and if you couldn’t even do that properly, what hope did you have as an immortal?
+
+Those who made their Concept with external aid were but pitiful shades of a proper Cultivator. Ascensions, shards of reality, aura, or worst of all Minkalla, produced whelps unworthy of the everlasting life they’d been given.
+
+How someone could be so strong and yet so foolish was a mystery Enrique couldn’t comprehend, but the damage was done. The man was living proof that a single strong individual was more valuable than a thousand lessers, but he insisted on trying to raise the commoners out of the mud they were destined to die in.
+
+A few of his neighbors were foolish enough to profess that they would install a few of the aura rifts to rope in more commoners, and while there was some value in that, Enrique felt they were wasting their time and money.
+
+They were at least better than the rare few who were determined to turn these potions into an export.
+
+The very idea sickened him, but he had no way to stop them.
+
+Domains were the realm's way of weeding out the weak and undeserving.
+
+There was no reason to allow such things to exist.
+
+The question was if he could actually make such a change. Could he ban anyone who didn’t have a natural Domain from his lands?
+
+Probably not, but the idea had merit. Sometimes, culture and public opinions were a stronger motivator than laws. It might be worth spreading the idea that anyone who used such a crutch was lesser.
+
+A few careful comments in the ears of the very commoners who this was to supposedly help could see that they actively started working against their own interest.
+
+The ones who managed to create their own Concept at Tier 4 would then in turn serve as beacons of the idea that they were better, as they would want to feel superior to those who took the easy way out with a potion or a shard of reality.
+
+The more Enrique thought about it, the more he felt like this was the best course of action.
+
+It would even keep his hands from getting dirty directly, as once the movement had some momentum, he could just say he was following the desires of his people.
+
+The populists were always mollified by such reasoning, but they rarely remembered that the commoners were so easy to manipulate.
+
+Not wanting to give anything away, he sent a ‘heartfelt’ thank you message to Ascender Titan like most nobles were professing to do. There was no reason to paint a target on his back, after all.
+
+No, it was better to appear to be another hapless flunky of this movement.
+
+That was fine, though. Gold always shined through the grime when put through trials and tribulations.
+
+They would be proven correct sooner or later, and that was enough for Enrique.
+
+***
+
+Afasa Paea kept his head down and worked.
+
+He was a worker.
+
+That was his life.
+
+He didn’t necessarily enjoy it, but as a Tier 4, his wages were high. That enabled his hobbies, and that was enough for him.
+
+When he had heard about the new aura potions, he wasn’t too interested. A more expensive alternative to a Concept potion seemed like a waste of money to him.
+
+What was the point of advancing, when Tier 4 already provided far more than he ever could need? An impossibly healthy body, an easy hundred and sixty years of life, and the ability to earn plenty of money with next to no effort.
+
+He’d been keen on the idea as a youngster, of course, but now that he was fifty, he saw there was so much more to life to enjoy. He had two wives, five kids between them, and eleven grandchildren. He was content to live out the rest of his years in a healthy body before passing away. Chasing immortality was for the reckless and the dreamers, and he didn’t consider himself as either.
+
+That option shifted slightly over the course of the next ten years, when the news quietly spread that the new potions were far, far better than the old ones, even with their higher price though said price was starting to fall.
+
+It was still irrelevant to Afasa, but it was good that such a thing existed. It could help any of his grandchildren or great grandchildren who did decide to join the rat race for immortality, and so he started setting aside a little of his income to prepare for any of them who did. It meant one less vacation a year, but that was ok. He had seen most of the prettiest sights on his world already, and the interplanetary vacations were too much work.
+
+It was easier to just stay local and spend time with friends at this point.
+
+Still, he sent a thank you letter to Ascender Titan.
+
+It was a once in a lifetime opportunity, and who knew, maybe the Ascender would even see his message.
+
+Now, that would be something to brag to his grandchildren about.
+
+***
+
+Hearing tapped the table, catching the attention of everyone else invited to this… Bartholomew wasn’t sure what to call it. A conspiracy?
+
+He was, however, in a position where he couldn’t easily refuse the invitation, and so he had gained the moniker of Smell.
+
+That was clearly a nod to his bloodline, but he wasn’t sure which of the other four Senses were the host, which would let him know if he should be offended or amused.
+
+Bartholomew had expected that question to be answered by the first person to speak, but instead, the table AI started the meeting instead of any one of them. “I have gathered everyone here today because we have an issue. A collective issue that none of us are capable of dealing with on our own. The newest Ascenders.”
+
+Sight looked over the rest of them and sighed, their voice raspy and artificially distorted enough that Bartholomew’s Tier 45 senses couldn’t pick up any identifying clues on gender, bloodline status, or general age from the way they produced certain words. “I don’t like it. Going against Ascenders is asking for trouble we don’t need.”
+
+Taste leaned forward and flicked a finger, which caused the hologram in the center of the table to come to life. “These three are far more motivated than the typical Ascender. First, Wraith. Instead of just playing duchess, she is actively moving into dismantling the Winter Wolves' control over winter bloodlines. She started an initiative to make ice and winter bloodline items more available, but that was clearly a stab at dismantling the Winter Wolves’ control if they had tried to fight her on the issue. The Winter Wolves were smart enough to go along with the initiative, but my reports indicate that Wraith is already starting a plan to reveal some of the worst excesses the wolves are responsible for, and she’ll likely reveal it the moment the winter wolves move to counter attack. We suspect it is only the Winter Wolves being a firm supporter of Queen Mara that has prevented her from doing so already but that is only speculation.”
+
+Bartholomew had perfect control over his body, and so didn’t react, but Taste knew more than they should have regarding his clan's issues with the newest Ascender.
+
+“Next, we have Legion. She has been more quiet, but her greater plans are far more sinister. She has been not only giving out free bloodline research information, but she has been overheard talking about wanting to reduce the amount of hereditary nobles when their duchy fills in completely. That sets an… Unfortunate precedent that the Emperor will undoubtedly reference in the coming years.”
+
+Bartholomew didn’t care too much about the fate of noble houses, the Winter Wolves were more a clan that had a noble title or three than a noble house in and of themselves. Still, it was disconcerting to hear another pillar of his family being targeted.
+
+“Last but not least. Titan is already revolutionizing rifts. I—”
+
+Sight leaned forward, cutting Taste off. “I actually like this development. Bottled Concepts are expensive to create and us higher Tiers pay a disproportionate amount of those taxes so I won’t weep at their passing. The real issue there will be getting the Empire to reduce our taxes instead of just redirecting the funds elsewhere.”
+
+Taste tapped the table, changing the display to cycle through various forms of transportation. “The rift stuff is fine. I also welcome some of the changes that reliable sources of aura will bring. Me and mine will be more than happy to take advantage of the aura. The aperology isn’t the issue. It's everything else that the guild is doing that is the problem. Titan, or rather his Guild, is also working on a number of things which touch all of our interests. His first development beyond the aura rifts seems to be travel mana engines specialized in low Tier runes.”
+
+Hearing shrugged in a way that made them seem less like a leader. “So I’ve heard, and while it's annoying he’s working on it, we will have a working prototype in another decade at most. We are pouring millions into that project with the idea of cutting him off before he can go live, but frankly, our main pursuit has been the higher Tier ships. Larger wallets up there. Even so it's doubtful he will beat us to the finish line. In addition to more funds, we have larger and more experienced teams to throw at the issue.”
+
+“Titan’s team is reportedly just a year or two out from filing. You might have larger and more experienced teams, but he’s throwing billions of mana a day at the problem.” Taste’s words seemed to hit Hearing like a sledge hammer, but Bartholomew couldn’t tell if the reaction was true or false.
+
+He did, however, know a little about that situation from his own sources. “Initial reports are that the prototype they created won’t be useful in short range travel, but it's quite the improvement for long distance, where the vehicle can reach its top speeds. It’s useful, but it's not the full replacement that many hoped travel mana would be.”
+
+Hearing nodded slowly. “That is, at least preliminarily, correct. We are hoping to solve that issue, but it's not looking easy, and might be downright impossible. It is, in fact, what our best people are working on.”
+
+Bartholomew made a note to who was creating the newest engines, but there were dozens of higher Tier movers and shakers in that category, so it would be hard to pin down who Hearing could be just from that alone.
+
+He inclined his head when Touch looked at him. “Smell, what do your sources say about Titan’s other project?”
+
+That prompted him to consider just how much he should share, but eventually decided he needed these people if they were as connected and influential as he thought they were. “The information about actual projects is spotty at best, but what all of them say is the same or similar. They are throwing mana around like it's free. They are operating on a massive budget, which is only expected to increase now that the Emperor has sold the aura rifts to the other Great Powers.”
+
+Bartholomew leaned back and Touch took his place in the light, speaking for the first time. “I speak for all higher Tier aperologists when I say Titan is encroaching into our territory, and we intend to put a stop to it. Brute force is obviously entirely impossible, which leaves political maneuvering as our only recourse, though the only question then is what and how.”
+
+Touch was an aperologist then. That narrowed it down a lot, and he made a note to look everyone in that profession up later. He also wasn’t entirely sure he agreed with a blanket violence ban. Targeting the Ascenders themselves, sure. But there might be some leeway in dealing with the subordinates. There was nothing wrong with starting off with non-violent means though, so he kept his silence.
+
+Bartholomew nodded to show his agreement. “We need to do something. I suspect that friend Sight is correct though. The Emperor won’t step in so long as we keep things mostly above board, and I don’t want to incur the wrath of either him or the royals.”
+
+Hearing leaned forward, so Bartholomew let himself relax into his chair and away from the light. “We need to hit them soon. All of them. Put obstacles in their way before they gather too much headway. Once they are stalled, we can see about dismantling their support.”
+
+Sight leaned forward and added. “Agreed. Titan and his guild are probably funded by Mara, Leon and the Emperor. If we can slow him down, we can petition the Emperor to reduce funding based on lack of progress. It has worked before.”
+
+Bartholomew didn’t want to give away his identity, so asked about Legion instead of Wraith. “What are we going to do about Legion? Her incursions into long standing traditions are… Irritating at best.”
+
+Taste leaned forward. “A few of their newly recruited nobles can have accidents and incidents proving their unworthiness, which will serve as stark counter points to any good she tries to show.”
+
+Touch shook their head. “I agree in principle, but whatever is done, we need to prevent rift breaks or civilian deaths. Titan reacts badly when confronted with his past, and the other two will support him. I’ve used my connections to get the real recording of Titan killing Maven. He monologued to her corpse because of that rift break incident on whatever that planet was. V something. Two hundred years, and he still didn’t let that go. I’m not going to get involved with anything that guarantees death by Ascender.”
+
+Hearing added, “History has shown if you don’t piss them off too much, but make things difficult, they will often find the issue too bothersome and just drop whatever project it was. That is the line we need to walk.”
+
+Bartholomew leaned forward and agreed along with all of them.
+
+Taste finally brought up the last issue, and the one most important to Bartholomew. “Finally Wraith. We need to do something. Her dismantling the Winter Wolves wouldn’t be the end of the world, but if we make her first obstacle easy, she might get a taste for it. I say we stall her out then and there. Let's see if she has the taste for chipping away at established interests if she cracks a tooth on them.”
+
+Bartholomew wanted to growl at the mention of his people being tossed away as if they were simply pieces on a chessboard, but he didn’t let a single thought slip out of his control.
+
+“Agreed.”
+
+With things settled, they established methods to contact each other without having to send clones to meetings like this.
+
+Bartholomew could only hope that together they were enough to stop these Ascenders, even as he let his clone fall apart he connected to a private server he had set up so his real body could learn about the meeting without ever getting close.

@@ -1,0 +1,25 @@
+---
+id: 5948fec2-70f0-5b08-9da0-5375ed246fa2
+page-type-slug: story-chapter-royal-road
+title: "Interrupting the story for a thank you note!"
+slug: 0016-interrupting-the-story-for-a-thank-you-note
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 16
+ownLength: 179
+unit: words
+publishedAt: 2026-06-04
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3491474/interrupting-the-story-for-a-thank-you-note"
+royalRoadId: "3491474"
+---
+
+Hey all! N. Conceivable here (Or Lars Machmüller, for anybody who might have stumbled on any my books before.)
+
+I just wanted to take a moment to thank all of you who've decided to give my words a chance so far. Honestly, I am floored with the reception it's gotten so far.
+
+Initially, I was planning to go back to a schedule of 3 chapters a week right around the edge of this week. But since it's been accepted so well, I'll be postponing that until further notice. That means, you'll be getting more chapters, faster.
+
+Obviously, that'll mean that I'll run out of chapters earlier than expected and will need to write more - but that's a problem for future Lars! Sucker! Muahahaha!
+
+Now, if any of you really dig the story, there's more, already written, available over on my Patreon - link in the post chapter note below. You can read ahead by anything from three and up to a full twelve chapters ahead.
+
+That's all, you lovely people. We're returning to our regular planned chapter tomorrow!

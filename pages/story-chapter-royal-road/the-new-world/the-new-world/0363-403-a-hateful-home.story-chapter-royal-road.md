@@ -1,0 +1,497 @@
+---
+id: 0e43d17a-12ed-53ea-a25b-0bb4e4ac2f86
+page-type-slug: story-chapter-royal-road
+title: "403 A Hateful Home"
+slug: 0363-403-a-hateful-home
+partOf: the-new-world
+position: 363
+ownLength: 3683
+unit: words
+ownProgress: 3683
+publishedAt: 2025-03-25
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2150587/403-a-hateful-home"
+royalRoadId: "2150587"
+markedReadAt: "2026-06-29T21:33:44.807Z"
+---
+
+Helios shrugged.
+
+"Despite myself, I must admit I'm proud of my kills."
+
+He frowned.
+
+"Onto pressing matters. As always, you required me for transport?"
+
+My expression hardened.
+
+"Yeah. Something's happening a few thousand miles from here. I sent you the map."
+
+Helios stood with more confidence as he read the letter from Tera. Helios took a breath.
+
+"Then let's uncover what's stopping our compatriots from advancing, shall we?"
+
+Chapter Begin
+
+Our resident warper's brow furrowed.
+
+"Hm. I can't isolate the area. It's inaccessible."
+
+I stepped up.
+
+"What does that mean?"
+
+"It means I can't warp us directly where they've settled down."
+
+"Can you get us close?"
+
+"To an extent. I'm not taking any risks to save a modicum of time."
+
+A rupture spawned, mana rippling and percussions echoing around us. We stepped through a warp, landing near the coordinates Tera sent. Surrounded by the orange and yellow hues of the Mojave desert, we searched for anything alive nearby. The only unusual area was a set of black spires that towered above the clouds in the distance.
+
+I stomped my feet into the ground, leaping into the air.
+
+"That has to be it."
+
+Helios followed.
+
+"Such sharp insight. Truly a visionary."
+
+I smirked.
+
+"You couldn't even land us there."
+
+Helios rolled his eyes.
+
+"There's something creating an oddity in the dimensional space. Landing us there could've created a partial collapse of the dimensional space, ensnaring us within."
+
+I furrowed my brow.
+
+"What does even mean?"
+
+Helios's eyes narrowed.
+
+"As the spatial ethers clash, the surrounding space ripples, which can crush the tunnel a portalist creates."
+
+That reminded me of the time I got smushed by Eonoth saving Lehesion. We neared the looming towers. I gazed up at them.
+
+"So you walk through the portal before it snaps shut?"
+
+"Essentially, yes. It will cleave you in two, given the right circumstances. Even if you somehow survive, the portal can shift, resulting in a loss of orientation. That can be as deadly as any physical force."
+
+"Because you get lost?"
+
+Helios sighed.
+
+"Imagine you step out onto a world that mirrors where you expected to land in the first place. You wouldn't recognize the different positioning until the portal closes its jaws behind you."
+
+I remembered the dark world I went to in Blegara's gushing water pit. In that ancient rift, the stars dimmed, and no life lingered. I murmured, "You end up lost in a different world, left alone until you die."
+
+Helios's eyes darkened.
+
+"Loneliness is a pain few can bear, and it's not something anyone is taught to tolerate. Death comes from oneself in those situations."
+
+I grimaced.
+
+"Ah. I'm glad you're keeping us safe, then."
+
+Helios waved his hand.
+
+"It's the most frequent cause of death among warping specialists, so any of them worth their level would do something to prevent it."
+
+I winced.
+
+"What are the stats like?"
+
+"Two-thirds of warping specialists die by opening a portal incorrectly at some point in their careers."
+
+I scoffed.
+
+"How could it be that common?"
+
+"Anyone who can bend the cosmos is educated and high level, and they have likely lived for centuries. They become confident before becoming comfortable. Comfort becomes arrogance. Arrogance becomes death. It's a common pattern that specialists fall into, one where they believe this cosmos is their haven."
+
+Helios's eyes narrowed.
+
+"Nothing could be further from the truth. We are never in control. Anyone who traverses the universe rests on the smallest of rafts amidst the largest of oceans, and we may fall into the water at any point if we lose our rigor. A moment is all that separates us from falling prey to a passing spatial flux or miscalculation."
+
+"How do people even die to warps to incorrect areas? Wouldn't you see the void of space or a lava pit before you stepped over?"
+
+Helios smiled.
+
+"The void of space would depressurize your surroundings, and you'd be sucked out into the opening. What if you opened the portal into the center of a planet? The gravitation and pressure are immense at those focal points. They pull you towards the opening while gushing out magma."
+
+I winced.
+
+"That does sound like a gruesome death sentence."
+
+Helios flew around a dark pillar.
+
+"I've lost good friends I respected to far smaller mistakes, so I'd rather not become the victim of my own arrogance."
+
+I gazed down at the growing canyon.
+
+"Speaking of victims, our national landmark is looking worse for wear."
+
+The Grand Canyon had altered into something unrecognizable. Colossal black spires jutted out of a pool of dense mist. That fog engulfed the entirety of the chasm, crimson flashes streaking through the perpetual cloud cover. Thunder echoed to the distant horizons, and various shadows writhed in the abyss.
+
+My senses couldn't pierce the veil. It stopped all sight, smell, and even gravitational senses along its extent. Helios's face wrinkled in disgust.
+
+"Ugh. This isn't a typical dungeon. It's an assimilated rift."
+
+I frowned.
+
+"Looks like it's gotten out of control."
+
+Helios shook his head.
+
+"If anything, it's a stabilized piece of spacetime that's fused with Earth. The mist is what's preventing a complete synthesis, but it can only do so for a short while."
+
+"I'm guessing that mist is why you couldn't warp us in?"
+
+Helios's eyes darkened.
+
+"Yes. The skeptiles lie in the mist. Fools."
+
+We flew closer to the gray clouds. I reached out a hand, and as my arm sank into the gray, I lost sensation in the limb. My mana couldn't flow past the domain. I pulled my hand back up to my face, and my feeling returned.
+
+"It's entirely separated. Damn."
+
+Helios pointed at a line of tracks and trails leading out of the canyon's edges.
+
+"Yet life can walk to and fro without obstruction."
+
+I raised my brow.
+
+"People are trading inside this place? They've lost their minds."
+
+Helios dove into the mist.
+
+"We'll find answers within."
+
+I followed, and the fog encompassed us. Passing through it, the mist soaked into my skin. It carried a psionic edge, voices whispering in the edges of my mind. I breathed it in, the sensation coursing through me.
+
+"Ah, it's kind of refreshing."
+
+Helios telepathized.
+
+"I...Cannot breathe."
+
+As he predicted, this other dimension wrapped around us. Dense and palpably pressured, it burrowed into the skin and mind of anything here. Before it soaked into our minds, I extended my dimensional wake outward, and the fog bent away from us.
+
+Helios's jaw slackened, and he took a breath.
+
+"Hah...Dimensional manipulation. You've been practicing."
+
+I smiled.
+
+"From time to time."
+
+We neared the coordinates of Tera's settlement. On the edge of a straggling chasm, a building of dark stone stood tall. Stratified with white granite, the structure blended into its surroundings without any lines of separation, as if it grew out of the ground. A thousand buildings congregated around the most prominent structure, all of them dispersed along the vertical edifice.
+
+The architecture mirrored the skeptiles' old capital but with a modernist stint. Without the abandoned factories and toxic piles of waste, the original intent of the buildings came to light. In many ways, they flowed into the natural landscape like the stone molded itself to their liking. Given their sorcery, it likely had.
+
+Even from a cursory glance at Diesel's reports, the skeptiles used their ritual magic to craft many of the buildings with the architect golem's support. This enabled the skeptiles to keep their culture and way of living, something I didn't want us to erase. If they wanted to live differently here, they'd choose to. Well, assuming they didn't do anything crazy like sacrificial rituals or eating children.
+
+Anyways, several thousand skeptiles had already arrived alongside Schema's standard exchange centers at the new city's center. Krog rested near them with Chrona extending her temporal control across the settlement. It disrupted the fog to an extent as Tera shouted and organized his skeptilian warriors.
+
+They wore grim expressions and wielded their weapons with white-knuckled hands. Around them, colossal vultures flew. A white tuft of feathers surrounded the birds' exposed necks, the red skin glowing with ascendant mana. Several of the vultures spread their wings outward, and their feathers bled into their surroundings like living ink.
+
+As a dark rain, the vulture's feathers rained down from above as other beasts dove down. They blurred the air around them, their speeds incredible. Tera spread his arms before clapping them together with a bottle between his hands. An electric shockwave crossed over everyone, knocking the feathers down, empowering his allies, and stunning the vultures.
+
+Tera shouted commands, everyone organizing around the natural leader. In Chrona's aura, the monsters slowed down before Tera's warriors jumped over them. They tore the vultures apart, goring the beasts as their bodies fell across several blocks. Blood from the monsters splattered all across the city. On contact, the sanguine fluid leeched into the ground, leaving red streaks in the black stone.
+
+Another beast ran forward out of the mist. A crawling Komodo dragon bolted forward, crashing through several buildings. Hundreds of bloodshot eyes opened across its body. The beast stopped just short of the group before tilting its head with curiosity. Its jaw opened, and a horror of writhing teeth and grasping limbs popped into view.
+
+It yawned before closing its jaws. One of the skeptiles walked up with a slab of meat. The reptile consumed the meat before nestling up to the skeptile. I analyzed the eerie creature.
+
+Krossolidra | Lvl 8,012 | - The krossolidra is a species of mutated reptiles native to the American West. They carry thousands of extra eyes over their bodies, giving them a profound sense of sight, and they can move the eyes underneath their skin to avoid damage during combat.
+
+If they wish, the eyes can gaze at an enemy or ally, augmenting or disrupting their abilities. This allows the Krossolidra to roam in packs. Groups of them observing any creature drains its stamina. In seconds, groups can exhaust nearly anything, rendering it immobile.
+
+Its jaws are designed to drain the tissue and blood of captured prey without killing it. Groups of the Krossolidra will take turns devouring the game alive, keeping it fresh while others restrain it. They have been found feeding their paralyzed prey to heal it, allowing them to feed further.
+
+While a gruesome process, a spine in their mouths tranquilizes and eliminates nearby pain receptors. Oftentimes, adventurers have woken up midway through a krossolidra's feeding without noticing. Victims oftentimes awaken from the sound of their own flesh tearing, not from the pain of being eaten alive.
+
+They will fear you, but be aware of their destructive impact when put into groups.
+
+Its level dwarfed anything else I'd seen spawn on Earth. I watched a skeptile get on the krossolidra's back before shepherding it over to a cavern dug out and reinforced under the new city. As I landed near them all, another vulture dove down from above. I stretched out a hand, and a gravity well siphoned the creature to my palm.
+
+My armor shredded its insides while I assimilated it like some nightmare abomination. The other eldritch fled as Tera jogged up.
+
+"How did you get here so fast?"
+
+Helios peered down.
+
+"The way he always does. What is it that you need?"
+
+Tera gestured around us.
+
+"Isn't that obvious?"
+
+I walked up to the Schemic Exchange Center.
+
+"How did you get these guys to spawn here? You should've needed to control the area or get rid of the dungeon at the least."
+
+Tera shrugged.
+
+"For some reason, the requirements for a city were much more relaxed than normal."
+
+I smiled.
+
+"Hell yeah. That perk wasn't just for me then."
+
+Helios turned over the corpse of a vulture using a gravity well spawned by his gauntlet.
+
+"These creatures far exceed anything that should be spawning on a new planet like Earth."
+
+Tera put his hands on his hips.
+
+"They're quite useful. They make excellent prey and useful animals for breeding. We'll level quickly by butchering them, and the krossolidras are excellent riding animals. They are strong with natural buffing abilities."
+
+Tera smiled.
+
+"I couldn't have asked for a better place to settle."
+
+Helios and I gawked at each other. In the distance, creatures roared in the fog. Helios sneered.
+
+"Right."
+
+I headed over to Krog and Chrona. Pain crossed Krog's eyes before he peered away. I turned a palm to him.
+
+"I heard you were injured."
+
+Chrona placed a tail on his back.
+
+"He's ashamed."
+
+Krog growled.
+
+"Enough. I am fine."
+
+I pointed at him.
+
+"Where's the wound?"
+
+Krog sighed before lifting a wing. Scars traced its entire surface. Something crumpled it like an old newspaper before wrenching it off. New tissue from Kessiah kept the limb attached and pieced together.
+
+I winced.
+
+"What did this?"
+
+Krog showed his teeth.
+
+"We...Don't know."
+
+My eyes widened.
+
+"This is worse than I thought. I'm setting up a perimeter."
+
+Tera let out a sigh.
+
+"We can hold this position. We need you to stop what's spawning from the cavern's depths. I've scouted the location, and it's chaos there. Utter, deranged chaos."
+
+He shivered. I shook my head.
+
+"Keeping you guys safe takes priority. I can make a city in a few hours at the most."
+
+Tera locked eyes with the gialgathens before turning back to me.
+
+"It's your call, Harbinger."
+
+I paced over to the city's center. My body liquified before molding into the shape of a monolith. I pulled my soul out of my body before adding more bodies to the monolith. A few minutes later, it rose one hundred and fifty feet tall. Recomposing from the ether, I pulled out my grimoire and used a few updated runes from L-7's cities.
+
+After several minutes, I pulled out three blue cores, planting them at different sections of the monolith. As the psionic web and protective barrier came online, the fog dispersed from the city's confines. Tera watched the thick, hexagonal plates materialize.
+
+"Ah. Another miracle."
+
+Chrona let out a sigh as her temporal field dispersed. She laid down her head.
+
+"I-I need rest."
+
+Within seconds, her head flopped against the ground, and she fell asleep. Worry erupted over Krog's face before he bit his lip. Blood dripped from his mouth.
+
+"Here, I thought of this planet as harmless. Its danger is a viper hidden in leaves, unseen until the fangs are in your leg."
+
+He snarled, his blood splattering on the ground.
+
+"I was caught unaware, and I let the fangs pierce deeply. My arrogance robbed me of my vigilance."
+
+He snarled.
+
+"It has happened again. It's a cycle of my own stupidity."
+
+Helios walked up to him.
+
+"No one's denying your stupidity."
+
+Krog took a deep breath.
+
+"You're quite the boost to our morale, especially the constructive criticism."
+
+Helios sighed.
+
+"You should use that augment Daniel gave you."
+
+Krog peered at the slab of dimensional fabric.
+
+"I have tried. It's a difficult thing to wield."
+
+Helios showed his gauntlet.
+
+"I'm sure it's a strange thing to use for a species such as yours. You're primary means of power emerged from evolution and mana assimilation. Your kind evolved on a planet with enormous reserves of magic, and your bodies embody that energy's potential."
+
+Helios formed a void ice shard.
+
+"But you demonstrate evolution's shortcomings as well. Evolution is a slow, tepid process when quick adaptions are required. If you wish to step beyond your bounds, you must incorporate all that you can. The albony rose out of the primordial food chain with tools. Your kind must learn to wield them as well."
+
+Helios shattered the void ice shard, a lavender mist floating down.
+
+"That is your most obvious means to rapid empowerment. Otherwise, you'll continue to stagnate."
+
+Krog nodded his head, his eyes honing in.
+
+"Our kind hasn't embraced tools or the system with good reason. The most prominent member of our species that leaned to outside forces for help was turned into a malevolent force for Elysium. He caused our species' downfall."
+
+Helios gazed at his nails.
+
+"It just so happens he's also the strongest among you, correct?"
+
+Krog smiled, a droplet of blood falling from his lower lip.
+
+"And what did that strength do for him? When you become dependent on the tools of others, you, in turn, become a tool for them."
+
+Helios gazed at Krog's wing.
+
+"Will you survive the wounds gained from your idealogy?"
+
+Krog laughed, his enormous chest making it into a deep rumble.
+
+"Wounds make scars, and scars tell stories. We learn from them, and we become stronger for it."
+
+Helios walked off, waving a hand.
+
+"If that's what you've taken from what I said, then so be it."
+
+Despite his argument, Krog peered at his tail. He laid his head against his paws while letting out a deep breath.
+
+"It may be time we learn from the stories of others, not simply our own."
+
+During their chat, I pulled cipheric words from my grimoire. I installed them onto the dark monolith to finalize the buffs from my city construction. Along the edge of the shield's effect, I constructed a wall of my fabric, and I installed gaps for tunnels in and out of the city.
+
+I stepped outside the city's extend, and a shadow loomed in the fog. I reached out a hand, and mana coursed from me. Crystals hovered around my skin before my architect golem floated out of the mist. It synced with the psionic field, and Diesel sat on the golem's shoulders. The architect golem bowed to me.
+
+"Hello, creator. I formally apologize for my lack of competence in allowing injury to befall those you care for. If we are trees, then I shall attempt to deepen the shade of my branches. Perhaps one day, the shade I have will match your own."
+
+I furrowed my brow.
+
+"Huh. Very metaphoric there."
+
+"I can cease my lack of directness if that is required."
+
+"Not at all. It's fun."
+
+Diesel hopped down.
+
+"Daniel, the life here is insane. I've never seen this kind of virulence in the eldritch. It's absolutely mind-boggling how strong these things are. I haven't left the architect's side since we arrived."
+
+The architect let out a light laugh.
+
+"I would not allow it. Everything can kill you with a breath."
+
+I pointed at him.
+
+"Diesel, would you mind not leaving the city's bounds anymore until I've finished cleaning this mess up?"
+
+He snapped his fingers.
+
+"Ah, man, I can't head into the death pit anymore? Oh no. Whatever shall I do?"
+
+The architect leaned back.
+
+"Ahem, I would imagine it would be to stay in the city and out of the death pit, perhaps?"
+
+Diesel raised his hands.
+
+"The opportunity cost of each choice is just so high. Death, or lounging in relative comfort? It's a tough choice."
+
+The architect fumbled its words.
+
+"I...I don't know what to say."
+
+Diesel laughed.
+
+"I'm staying in the city. I'm not some suicidal explorer that likes standing at the edge of death like these insane people."
+
+Diesel raised a hand to me.
+
+"No offense."
+
+My minds swirled in the ether around them.
+
+"None taken. Any tips on where to start?"
+
+Diesel pointed down the ravine's edge.
+
+"This is a straggling edge of the main chasm, but if you follow the canyon that away, you'll keep going deeper until you find the Red River."
+
+I raised a brow.
+
+"Red River?"
+
+"Oh, you can't miss it. Everything here revolves around that geographical feature."
+
+I nodded, my psyches racing.
+
+"How so?"
+
+Diesel put his hands on his hips.
+
+"Anything that drinks the stuff gets a boost in power, but they kind of, er..." I frowned.
+
+"Lose their mind?"
+
+Deisel nodded.
+
+"Yeah, exactly. It just washes away who they were in some kind of torrent. I haven't drunk the stuff, but the skeptiles, wow, they're creative. They started planting their crops and watering them using water from the spot. They call the variant crops a berserker breed."
+
+I grimaced.
+
+"And they're eating it?"
+
+Diesel weighed his hands back and forth.
+
+"No, not really. A few have tried the stuff, but it's too volatile. The skeptiles don't like to mess around with unpurified eldritch effects. They do sell the food since it doesn't lose its potency as fast as the water itself. The water leeches out like it's hungry."
+
+I put a hand on Diesel's shoulder.
+
+"Do not drink or eat that stuff. Don't let anyone else drink it either."
+
+He gave me a thumbs-up.
+
+"You don't have to tell me twice. We've seen what it does to the locals."
+
+I lowered my hands.
+
+"The locals? Like humans?"
+
+Diesel smiled.
+
+"Yeah. Who else do you think the skeptiles are selling the crops to?"
+
+I shook my head, a panic rising in my chest.
+
+"We need to get this place contained."
+
+Diesel frowned.
+
+"You don't have to tell me that either. That's why we called you after everything went haywire.
+
+As if just remembering our position, Diesel gave me a salute.
+
+"Ahem, good luck, sir. We're going to continue settling people down."
+
+They traversed the cityscape, Diesel leaping from the tops of buildings as the architect floated over everything. After watching them leave, I shot myself upwards before bolting over the city. Using the psionic weave, I announced in the minds of everyone.
+
+"Don't drink or eat the red water. It's toxic and can lead to you losing your mind. Even a small amount could lead to irreversible corruption. You've been warned. As for me, I'll be heading into the deepest part of this chasm and annihilating its source. Good luck with establishing yourselves here, and I'm sorry this place hasn't been the kindest home."
+
+After receiving a psionic cheer, I left the city's shielding. I peered at the misty depths, crackling arcs of crimson lightning omening a violent, cruel territory. I floated towards the coordinates of the Red River, the gray mist washing over me. It was time to uncover who was destroying Earth, though I had a few ideas already.And they filled me with a primal fear.

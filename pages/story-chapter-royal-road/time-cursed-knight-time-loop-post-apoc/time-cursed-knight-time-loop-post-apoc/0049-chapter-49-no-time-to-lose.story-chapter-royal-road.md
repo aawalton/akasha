@@ -1,0 +1,495 @@
+---
+id: 28360122-fe89-598f-ba1f-3f5bafbb162f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 49: No Time To Lose"
+slug: 0049-chapter-49-no-time-to-lose
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 49
+ownLength: 3973
+unit: words
+publishedAt: 2026-05-22
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3432981/chapter-49-no-time-to-lose"
+royalRoadId: "3432981"
+---
+
+I came back gasping.
+
+The air hit my lungs like shattered glass. My fingers were locked around the sword's grip so tightly that the leather had bitten into my palm.
+
+The last image wouldn't leave my mind.
+
+The faces.
+
+A woman in the market quarter, turning toward the light with her mouth half-open. A child running between stalls, legs pumping, not understanding what the bells meant. A soldier at the gate reaching for a horn he would never sound.
+
+All of them, every single one, converted from living things into nothing in the space between one heartbeat and the next.
+
+Erased.
+
+As if they had never existed.
+
+My hands wouldn't stop shaking.
+
+I pressed them against the parapet stone. Pressed until the rough surface ground into my palms and the pain gave me something to anchor to.
+
+What can I do against that? Though he might have been a mage, it felt closer to a god than anything else. The only comparison that came to mind was a walking nuclear warhead.
+
+A mage hovering above a city with a ball of light between his fingers and the power to unmake a whole city of reality with a gesture. Thousands of elves suspended in the air around him like an honor guard.
+
+There were limits to what I could do.
+
+You would rather die a hundred times than admit you cannot save everyone.
+
+I shoved the thought down.
+
+Think. Don't feel. Think.
+
+I opened my eyes.
+
+The first light of dawn was touching the eastern hills.
+
+Grenzheim was whole. Every building, street, and chimney. The town stirred toward morning.
+
+I sheathed the sword.
+
+The refugees.
+
+Five people who had vanished on the exact morning the countdown reached zero. Five people who had arrived from elven territory through a minefield.
+
+Five people I had personally escorted from the front. Personally housed. Personally watched over for weeks.
+
+I descended the wall stairs two at a time. My boots hit the cobblestones at the base and I was already running, legs driving me toward the upper district.
+
+The sentries at the gate called something after me. I didn't hear it.
+
+The streets were mostly empty. The laborers and merchants who would fill them in an hour were still awakening. A dog trotted across an intersection ahead of me, paused to assess my trajectory, and wisely chose a different direction.
+
+I rounded the corner into the upper district. The Iron Cross lodging house appeared at the end of the street.
+
+The front door was unlocked. I pushed through it.
+
+The common room was dim. The hearth held the remains of last night's fire, coals still glowing beneath a layer of gray ash. Two soldiers from an adjacent unit sat at a table near the window, hunched over cups of something hot. They looked up as I entered.
+
+"Where's Yulia?" I said.
+
+My voice came out harder than I intended.
+
+The nearest soldier blinked. "Who?"
+
+"The refugees. The five from the front. Pink hair. Old man. The rest of them."
+
+"Haven't seen them this morning." He glanced at his companion. "You?"
+
+A shrug. "Probably still in their quarters. It's barely dawn."
+
+I was already at the stairs. I took them three at a time, my boots hammering against the wooden treads loud enough to echo through the upper floors.
+
+The corridor on the second level was quiet. The refugees' rooms were at the far end, past the officers' quarters, past the supply closet, in the section of the building that had been designated for non-military personnel.
+
+Three doors. The five of them split between them. Yulia and Nadya in the first. Pyotr in the second. Ivan and Anya in the third.
+
+I reached the first door.
+
+Knocked. The wood rattled in its frame.
+
+"Yulia."
+
+Silence.
+
+Knocked again. Harder. Both fists.
+
+"Yulia! Open the door!"
+
+Nothing. No voice behind the wood.
+
+I tried the handle. Locked.
+
+The second door. Locked. No response.
+
+The third. Same.
+
+A door opened behind me. Not one of the refugees' rooms. An officer's quarters, three doors back. A bleary-eyed lieutenant emerged in his undershirt, one hand rubbing his face, the other bracing against the doorframe.
+
+"What the hell is going on out here?" he demanded. "It's not even—"
+
+"The refugees," I said. "Have you seen them? Heard them? Anything since last night?"
+
+He squinted at me. His irritation downshifted into grudging cooperation.
+
+"No. I turned in around the tenth hour. Haven't heard a thing since."
+
+"I need this door open."
+
+He looked at the door. Then at me. "Do you really think I'd open someone else's room because a soldier asked?" he replied, his voice still thick with sleep. I turned to the first door without hesitation, stepped back, and drove a hard kick into the handle. "What are you doing?" the lieutenant shouted as he saw me forcing it open. But my second kick was already in motion, snapping the handle clean off and blasting the door wide open.
+
+The room was empty.
+
+The beds were made. The sheets pulled tight. The washbasin was dry. The small chest where Yulia kept the few possessions was open.
+
+Empty.
+
+Nothing remained. Not a trace of the girl. The officer followed me in, checking the empty room. I turned to him. "Keys or do you want me to break the rest of them?" He sprinted off to a maintenance room and came back with a ring of keys, fumbling as he hurried to unlock the remaining doors.
+
+I checked the second room. Pyotr's. Same. Bed made. Basin dry.
+
+Third room. Ivan and Anya's. The small wooden figures Ivan had been whittling, taken from the shelf. Anya's blanket, the one she'd refused to give up, had vanished.
+
+This wasn't flight. They were ready.
+
+The lieutenant had followed me down the corridor.
+
+"They cleared out," he said.
+
+"Before dawn," I said. "Probably hours ago."
+
+"Should I raise an alert?"
+
+"Not yet."
+
+I pushed past him and descended the stairs. Through the common room, where the two soldiers at the table were watching me with cautious interest.
+
+The stables were three buildings east of the lodge, built against the inner face of the town wall.
+
+The stable master was awake. An older man with a weathered face, already working through the morning routine of feed and water. He looked up as I approached.
+
+"Morning," he said. "You're up early."
+
+"Five people," I said, fighting to keep my voice level. "Did five people come through here? A girl with pink hair. An old man. A younger woman. Two children."
+
+The stable master's hand paused on the feedbag he was holding.
+
+"The refugees," he said. "Yeah. They were here. Couple hours before dawn."
+
+My stomach dropped.
+
+"They took horses?"
+
+"Five of them." He set the feedbag down and wiped his hands on his trousers. "Said they had a transport run for the Iron Cross. Equipment delivery to the forward logistics depot. Showed me paperwork."
+
+"Paperwork," I repeated.
+
+"Looked official. Had the right stamps. I didn't examine it too close." He rubbed the back of his neck. "They spoke rough, but the pink-haired one did most of the talking. Her speech has gotten a lot better these past weeks. She had the documentation in order. Seemed legitimate."
+
+Forged documentation. Or stolen. Either way, planned.
+
+"Which gate?" I asked.
+
+The stable master pointed east.
+
+I ran.
+
+The east gate was the smallest of Grenzheim's four entrances. It faced away from the front, toward the rolling hills and the road that eventually connected to the secondary trade routes running parallel to the main north-south highway. It was lightly guarded. Two sentries during the day, one at night.
+
+The morning shift was just settling in. Two guards in garrison uniforms, leaning against the gatehouse walls, still shaking off sleep.
+
+"Five riders," I said. "Hours ago. Which direction?"
+
+The guard on the left straightened. "Five on horseback, yeah. Passed through around the third bell. Headed south."
+
+"South?"
+
+"South-southeast. Along the ridge road. Toward the front."
+
+Toward the front.
+
+Not away from Grenzheim.
+
+South.
+
+Toward the elves.
+
+I turned back toward the stables at a dead sprint. The stable master saw me coming and his expression shifted from mild concern to active alarm.
+
+"I need a horse," I said.
+
+"The remaining mounts are garrison property," he said, his hands rising in a gesture that was half-apology, half-barrier. "City guard allocation. I can't release them without authorization from the watch captain."
+
+"This is life or death."
+
+"I understand that, but—"
+
+"People are going to die. A lot of people. I need a horse now."
+
+The stable master's jaw set. He was a man who had survived decades in military service by following procedure, and no amount of urgency in a young soldier's voice was going to override the rules that kept his world ordered.
+
+"I can't do it, son. The regulations are clear. Garrison mounts require—"
+
+I reached into my belt pouch. My fingers found the coin by weight alone. A single gold piece, heavier than the silvers, its edge milled with the tiny ridges that distinguished genuine Crown currency from counterfeits.
+
+I placed it on the stable gate's crossbeam.
+
+The stable master looked at it.
+
+His tongue worked inside his cheek.
+
+Then he picked up the coin, pocketed it, turned his back, and began walking toward the opposite end of the stable.
+
+"I'm going to take a walk," he said over his shoulder. "Stretch my legs. Beautiful morning for it."
+
+He disappeared around the corner.
+
+I was through the stable gate before his footsteps faded. The nearest horse was a bay gelding, already saddled from the morning rotation.
+
+I swung into the saddle with more determination than technique. My riding experience consisted of a handful of instruction sessions during my weeks in Grenzheim, enough to know which end of the horse went forward and how to communicate basic directions without getting thrown.
+
+It would have to be enough.
+
+I kicked the flanks. The horse responded with a surge that nearly unseated me. I grabbed the pommel with my free hand, found the rhythm of the saddle's rise and fall, and pointed the animal south through the east gate.
+
+The guards watched me pass without comment. Whatever they thought of an Iron Cross soldier galloping out of town on a garrison horse at dawn, they kept it behind their teeth.
+
+The ridge road climbed south along the spine of the hills that separated Grenzheim's valley from the lowlands leading to the front. The terrain was open. Grass and scattered trees and the occasional outcrop of exposed stone. Good visibility in every direction.
+
+I pushed the gelding harder than I should have. The horse's breathing grew labored within minutes. But the animal was military-trained, conditioned for exactly this kind of desperate, punishing ride, and it gave me everything it had.
+
+The road to the bunker entrance took forty minutes by carriage. The military carriages were sturdy but slow, limited by the weight of their reinforced frames and the cautious pace dictated by the road surface.
+
+On horseback, at full gallop, with no concern for the animal's joints or my own spine, the time collapsed.
+
+I hadn't been riding for twenty minutes when I saw it.
+
+The first thing was smoke.
+
+A haze that hung across the southern horizon like a curtain, thickening the air.
+
+Then the sound reached me.
+
+Distant. Muffled by the terrain and the wind. But unmistakable.
+
+Explosions.
+
+Detonations that merged into a single, rolling thunder that didn't pause for breath.
+
+The ridge road crested a final hill and the land fell away before me, offering a panoramic view of the lowlands stretching south toward the front.
+
+I pulled the reins. The horse skidded to a halt beneath me.
+
+My breath stopped.
+
+The no-man's-land was gone.
+
+Where there had been a blasted expanse of cratered earth seeded with runic mines, there was now a tide. A living, moving tide of figures that stretched from the dark tree line of the elven forest to the forward trenches and beyond.
+
+Elves.
+
+Thousands of them.
+
+They moved across the former kill zone in formations that were less military columns and more like the advance of a flood. Wave after wave, rank behind rank, emerging from the tree line in numbers that made individual counting meaningless. The defenses that should have turned the no-man's-land into a graveyard were silent. No ice arrays. No lightning grids. No runic detonations. The mines had been neutralized. Every last one.
+
+The forward trenches were engulfed.
+
+I could see the fighting. Tiny figures locked in combat along the trench line, the flash of steel and the brighter flash of magic mixing in a chaos that was impossible to parse from this distance. Bodies lay in the cratered soil between positions, Iron Cross uniforms and elven armor tangled together.
+
+Further along the ridge road, closer to where the path descended toward the bunker entrance, I saw them.
+
+Riders. Five of them. Their horses lay dead on the road. The animals sprawled across the packed earth, legs bent at wrong angles, necks twisted. Two of the horses still wore their saddles. One had a saddlebag that had burst open, spilling its contents across the gravel.
+
+Beside the horses, bodies.
+
+Soldiers. A scout patrol, perhaps, or a messenger team that had been trying to reach Grenzheim. Three of them lay face-down in the road. The fourth had made it further, crawling several meters before whatever spell had found him left a blackened crater where his back had been.
+
+None of them had reached the town.
+
+I kicked the gelding forward.
+
+The horse plunged down the slope. The road turned from packed gravel to torn earth as we descended into the lowlands.
+
+A spell streaked across my path. A bolt of something green and luminous that struck the hillside thirty meters to my left and detonated in a shower of soil and burning grass. The horse screamed and shied sideways. I fought the reins, dragged the animal's head back toward the road, and kept riding.
+
+The outer perimeter of the battlefield reached up to swallow me.
+
+I drew the sword.
+
+The blade sang free of the scabbard.
+
+The first elf appeared in my path.
+
+He was on foot. Moving north through the broken terrain, part of a loose formation that had overrun the forward positions and was now pushing toward the secondary lines. He wore light armor of a design I'd never studied in detail.
+
+He didn't see me coming.
+
+The hooves announced my approach two seconds before I arrived, but two seconds wasn't enough. The elf began to turn, one hand rising, mana already gathering at his fingertips for a spell that would never be cast.
+
+My sword caught him across the back of the neck.
+
+The blade passed through the gap between his helmet's rim and the gorget's upper edge. The impact was catastrophic. The steel bit through muscle and vertebrae with a wet, grinding crunch that traveled up the blade and into my arms. His body folded and hit the ground. The horse carried me past before the elf had finished falling.
+
+A second elf turned. This one had time. His hands came together in a gesture that compressed the air between his palms into a shimmering disc of force.
+
+I leaned flat against the horse's neck.
+
+The disc screamed over my head. Close enough to shear hairs from my scalp. The wind of its passage raked across my back like the breath of something enormous.
+
+I pulled the reins hard left. The horse responded, cutting across the elf's flank. My sword came around in a descending arc that caught his raised arm at the elbow. The limb separated. Blood sprayed in a hot arc that painted the horse's flank and my right leg.
+
+The elf staggered backward, his remaining hand clutching the stump. His mouth opened. No sound came out. His eyes found mine for a fraction of a second before I was past him and gone. On every side, there was fighting. Soldiers clashed with steel and spell alike, with no clear organization or distinction between military branches. It took a while before I finally spotted an Iron Cross insignia that marked someone as an officer. His face was streaked with soot and blood. His sword was in his hand and his shield was broken. Three soldiers clustered behind him, forming a defensive knot around a section of trench that was still partially intact.
+
+"What the hell are you doing here?" the officer screamed over the noise. I swung down from the saddle. The horse, freed from its rider, immediately bolted north.
+
+"The refugees," I said. "Five people, horses, came south from Grenzheim hours ago. Have you seen them?"
+
+The officer stared at me as if I'd spoken in tongues.
+
+"Refugees? Are you out of your mind? We're being overrun!"
+
+"I know. Have you seen them?"
+
+"I haven't seen anything but elves for the last hours!" He grabbed my arm and dragged me toward the trench. "Get down! If you're here, you fight!" "Why didn't we receive any communication? I checked with Town Hall, but we got nothing from the bunkers," I asked the officer. He pointed upward.
+
+Above the battlefield, visible through gaps in the smoke, three figures hovered. Elves, suspended against the sky in a triangular formation. Between them, connecting them like the vertices of a geometric shape, threads of pale light pulsed in a rhythm that was almost beautiful.
+
+"They're interfering," the officer said. "No long-distance magic is working."
+
+I stepped to the trench wall. Raised myself to the parapet.
+
+The view from ground level was worse than from the ridge.
+
+The elven advance stretched in every direction. Thousands of them, moving through the destroyed defensive grid. Where the Iron Cross soldiers formed pockets of resistance, the elves flowed around them, isolating each pocket, cutting it off from the others.
+
+They weren't trying to kill everyone quickly. They were being methodical. Dismantling the defensive line piece by piece.
+
+A spell exploded ten meters to my right. I ducked. Grit peppered my face, stinging my eyes.
+
+When I straightened, two elves had crested the parapet.
+
+The first came over the sandbag wall with a blade in each hand.
+
+I met him.
+
+My bastard sword came around in a horizontal arc that he caught on his crossed blades. The impact drove him back a step. Recovering his footing on the trench floor, he pushed, throwing my blade wide, and his right-hand sword came at my throat.
+
+I twisted. The blade passed my neck by a finger's width.
+
+I countered. A thrust aimed at the gap below his chest plate. He deflected it with his left blade and kicked me in the sternum.
+
+I hit the trench wall. My lungs emptied.
+
+His killing blow came fast.
+
+Both blades driving forward in a scissoring motion aimed at my neck.
+
+I dropped.
+
+My legs simply gave way and I fell, hitting the trench floor on my back. The twin blades crossed above me.
+
+I drove my sword upward.
+
+The point entered beneath his chin. Passed through the soft tissue. Emerged from the crown of his skull.
+
+The elf's body went rigid. His hands opened. The twin swords clattered to the trench floor on either side of me. He hung there for a moment, impaled.
+
+I kicked him off my blade. His body toppled sideways.
+
+The second elf had engaged the officer. They were locked in a desperate exchange at the far end of the trench section.
+
+While running toward them, a bolt of something struck the trench wall above my head. The stone exploded inward. Fragments ripped through the air. One caught my left arm above the bracer, tearing through cloth and skin and burying itself in the muscle beneath.
+
+The pain was immediate and blinding.
+
+I looked down. Blood was already soaking through my sleeve, running over the bracer and dripping from my fingertips into the mud.
+
+I kept moving.
+
+The officer was losing. The elf he fought was faster. Each strike drove the officer further back. Each parry cost him more.
+
+I came at the elf from behind.
+
+The strike was graceless. A two-handed overhead chop with everything I had behind it, aimed at the base of the skull.
+
+The elf sensed me. Began to turn. Too late by half a heartbeat.
+
+The blade caught him at the neck. The steel bit deep. He dropped.
+
+The officer sagged against the trench wall. His breathing was ragged. Blood ran from a cut above his eye that had turned half his face into a red mask.
+
+"Thanks," he managed.
+
+The word was drowned by the sound that followed.
+
+A concussion wave hit the trench. The air itself compressed, slammed into us like a physical wall, and kept going. The trench walls shook. Loose dirt cascaded from the parapet.
+
+I looked up.
+
+The sky had changed.
+
+Where there had been smoke and cloud, there was now light. A sphere of light hanging in the air above the battlefield, held aloft by a figure whose robes flowed around him like dark water.
+
+The archmage.
+
+He arrived.
+
+He arrived!
+
+The thought had to circle my mind three times before I could truly understand what I was seeing.
+
+The Supreme Mage, if I can even call him that, wasn't there at the start of the battle. No… he arrived minutes after I did.
+
+My question had been answered.
+
+How do I fight him?
+
+I don't.
+
+I have to end this, end all of it, before he ever reaches the front.
+
+But solving one problem only gave birth to another.
+
+How the hell am I supposed to finish this before he gets here?
+
+The marble of light sat between his fingers.
+
+The officers around me saw it too. Every human eye on the battlefield turned upward in the same moment.
+
+The sphere dropped.
+
+It struck the secondary trench line three hundred meters to the west. Everything within the radius simply ceased. The earth, sandbags, soldiers. Even elves who hadn't cleared the blast zone. All of it, converted from matter into absence.
+
+The edge of the erasure passed close enough to our position that I felt it. A pulling. As if the air itself was being drawn toward the point of impact, rushing to fill the void where reality had been.
+
+The officer beside me was screaming something.
+
+I couldn't hear him.
+
+My eyes found the archmage.
+
+He was already forming the next sphere.
+
+Two more elves came over the parapet. Three from the communication trench behind us. The pocket we'd been defending collapsed inward. Bodies pressed against bodies. Blades met blades.
+
+A blade found my side. Slid between the plates of my armor and into the flesh beneath my ribs.
+
+I killed the elf who'd stabbed me. Drove my pommel into his face until the bone gave way. He fell. I fell with him, my legs refusing to support the body that was leaking from a hole in its side.
+
+The trench floor was mud and blood and the still-warm bodies of people who'd been alive minutes ago.
+
+I pushed myself up.
+
+Looked south.
+
+There was nothing left to save.
+
+The front was gone. The Iron Cross was gone. In minutes, Grenzheim would follow.
+
+An ice bolt struck me in the chest.
+
+The impact was a white flash. A detonation of cold so absolute that it didn't register as temperature. A fist of frozen air caved in my breastplate and the ribs beneath it and everything behind those ribs.
+
+I hit the trench wall.
+
+Slid down.
+
+The ringing in my ears faded.
+
+Silence.
+
+⌜ Initiating Curse ⌝
+
+⌜ Restarting Day ⌝
+
+I came back on the wall.
+
+Same parapet. Same dawn. Same light touching the eastern hills.
+
+The sword was in my hand. The grip was white-knuckled.
+
+I got no time to lose.

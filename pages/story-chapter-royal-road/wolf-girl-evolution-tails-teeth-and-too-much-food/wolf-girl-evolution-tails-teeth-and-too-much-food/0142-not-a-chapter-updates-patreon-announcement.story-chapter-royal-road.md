@@ -1,0 +1,59 @@
+---
+id: 6364bb85-4db1-56b9-9d6a-f8ec87e20153
+page-type-slug: story-chapter-royal-road
+title: "NOT A CHAPTER - Updates & Patreon Announcement"
+slug: 0142-not-a-chapter-updates-patreon-announcement
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 142
+ownLength: 428
+unit: words
+publishedAt: 2026-07-08
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3650065/not-a-chapter-updates-patreon-announcement"
+royalRoadId: "3650065"
+---
+
+Hey everyone!
+
+I have a quick update!
+
+The recent heatwave was absolutely awful and, unfortunately, it pretty much stopped my writing plans in their tracks. I really don’t handle that kind of weather well, and getting proper work done during it was rough.
+
+Thankfully, the weather has improved now, and I’m setting out to finish Book 3 of Wolf Girl Evolution as soon as possible before shifting my focus to preparing the release my new Archmage story.
+
+This also means there should be more advanced chapters coming to Patreon, with Wolf Girl Evolution going up to 20 chapters ahead of Royal Road. :D
+
+Similarly, Archmage chapters will be available on Patreon and posted as I write and edit them while I build up a proper launch buffer. My goal is to have at least 20 chapters written and edited before the RR release begins.
+
+And if I manage to get close to finishing writing Book 3, Wolf Girl Evolution releases on RR will return to 3 chapters per week! :)
+
+I’m hoping to accomplish that by the end of the month, time allowing.
+
+As for other smaller updates, the publishing talks have been moving slowly, and for now I’m mostly stuck waiting.
+
+Hopefully the wait will be fruitful, and Luna will grace Amazon with her lovable presence soon, but we will see :)
+
+Also, a good friend of mine has recently started their own author journey here on Royal Road, with this here fun Timeloop story:
+
+The Time-Looping Baby Refuses to Die
+
+Being reborn as a baby should come with a tutorial.
+
+Ren Marric got a crib, a fever, and a System message that made everything worse.
+
+Now something is wrong with his quiet little village. The adults don’t see it. His family can’t understand him. And Ren has the horrifying suspicion that the only person taking the danger seriously is the one who still gets carried to bed.
+
+He has his past life memories, tiny hands, and absolutely no time to waste.
+
+What is Ren supposed to do with a baby body, a System, and the terrible things waiting just beyond the treeline?
+
+All he can do is...
+
+Grind.
+
+What to expect:
+
+- Baby MC, adult memories- Time loops and bad ends- Grind, grind, and more grind- Very weak start- Goblins and village defense- Dark comedy, real danger- Tiny hands, ugly odds- Schemes, signals, and loopholes- Family worth dying for- Progress paid for in blood
+
+Please give them some love! :)
+
+Thank you for reading, and see you guys next week for more of Luna’s (mis)adventures! :)

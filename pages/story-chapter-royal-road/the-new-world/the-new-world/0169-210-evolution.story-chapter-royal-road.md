@@ -1,0 +1,373 @@
+---
+id: 5db2e775-9e5c-5fbc-86fa-6cc9399fef45
+page-type-slug: story-chapter-royal-road
+title: "210 Evolution"
+slug: 0169-210-evolution
+partOf: the-new-world
+position: 169
+ownLength: 6058
+unit: words
+ownProgress: 6058
+publishedAt: 2019-06-07
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/369802/210-evolution"
+royalRoadId: "369802"
+markedReadAt: "2026-06-29T21:26:39.702Z"
+---
+
+Krog channeled his own mana, a red aura rippling over the surface of his skin. He already gained the ability to generate the same kind of mana I used, his skillset tailor-made for it. As the ascendant energy rippled out with red lightning, he pulsed his control outward. A red aura encompassed the area around him, bending the light within it.
+
+I already charged enough mana for a singularity, but I withheld its use. Krog was faster than last time we fought, so he would just dodge before the black hole could land. I inched towards him in the meantime, putting him within the range of Event Horizon. While he couldn't shrug the damage off, it didn't cripple him as much as before.
+
+Schema's regenerative enhancements let him focus through the pain better. Without the urgent, all-encompassing ache distracting him, Krog whipped his tail behind him. A bludgeon of mana formed, like a blot of blood at the end of his tail. It sharpened into a sharp, ethereal mass with kinetic energy stored within. I grinned at the sight of it, his evolving style of combat exhilarating to watch.
+
+This was going to get interesting.
+
+Kiki Mosk eyed him, announcing out,
+
+"It seems as though Krog has learned quite a bit since their last fight. In fact, his entire style of fighting is different."
+
+Krog rolled his broad shoulders, his black armor charged with energy,
+
+"I can use my own mana now, which puts far fewer limitations on my use of mana. Now I may use my techniques to their full potential at any time. This dark one is the perfect marker of my growth."
+
+I frowned, "Dark one?"
+
+"I'm attempting to find a nickname for you. I will say names until something sticks."
+
+I shrugged, "Eh, alright."
+
+Without having to hold back in the slightest, I took a deep breath before charging him down. Krog met my assault, swinging his tail like an executioner's ax. One impact would cleave my armor apart, storing enough energy to make a city look small.
+
+Before it landed, I dove into the ground, condensing my mass to make it simple as stepping into water. I detonated my runes, giving me a burst of speed downwards. Above, the ground crumbled into a volcanic ruin at Krog's tail slap. Its cataclysmic force created ripples in the forcefield surrounding the battlefield.
+
+A shockwave shook through the ground, dampened by the density of the rock around me. I withstood the blow before drilling towards Krog's underbelly. As I ruptured out of the land, the black and red gialgathen flowed around my strike. In a spiral, he followed my ascent, a whirlwind of fire blazing around him as he breathed out the red inferno.
+
+A flaming tornado spawned around me, my armor glowing yellow from the heat. Krog kept himself from burning by weaving the flames around his body, controlling the airflow of the chaotic cyclone. Reacting off instinct, I created an enormous gravity well, over us both, dragging us back to the ground.
+
+Krog was caught in the spiraling hellfire, his own armor glowing red after we slammed into the ground. As I scrambled back to my feet, I tore towards him. He turned himself over with a wing, turning his tail and enveloping it with mana once more. Without any real means of dodging, I prepared to deflect the strike.
+
+I planted both my feet, slicing a hand to parry his tail whip. It snapped into my forearm like a sledgehammer on my toe. A jolt of pain erupted from the limb, bones shattering in the joint. My skin and eyelids slid back as my stomach rose in my chest. The sheer momentum of his attack had me experiencing several G's of force.
+
+Krog didn't make it out without injury either. The tip of his tail ruptured, split apart by the collision. Blood leaked from the wound as he gasped in agony. I glanced down at my arm, seeing it bent the wrong way. I turned up to him,
+
+"Damn. I'm impressed." I grabbed the limb, snapping it back in place, "You'll need more though."
+
+Krog took a few steps back, "I expected as much. Bring it."
+
+I bent down and dashed towards him once more. As I approached, he strengthened the aura around him. Passing into it, my vision blurred, so I closed my eyes. My hearing turned into a chorus of ringing, so I molded armor over my ears. Even my skin itched and exploded with pins and needles. I gritted my teeth, the urge to vomit overcoming me.
+
+It was enough to stop me from stomping over to him. While nursing his tail, Krog sliced, slashed, and struck out at me to keep his distance. Between his flame breath and the sharpened points of the armor I made him, it wasn't easy breaking distance. Combine that with the nauseating wave over my senses, and I struggled to compete.
+
+I took blow after blow, the damage piling on over time. My gray armor would've ruptured, turning to scrap. Before that happened, I melted it, keeping the glowing metal on my skin with gravity. It was a simple setup, though I took on my usual silhouette. If someone compared me with the video, they might know I was the Harbinger. At the same time, I was several feet taller now, so that might throw people off.
+
+Eh, there wasn't more I could do about it at the moment.
+
+It was a different fight, though I kept ahead by my sheer tankiness. Every ten blows on me didn't match one blow on Krog, though he wasn't as easy to snap. He was no longer soft as paper. He was living stone, his skin hard as marble. Krog pentupled in weight since we last fought as well, the strength of his blows like calamities all their own.
+
+He utilized his mana with a dazzling efficiency during the entire fight. He kept his kinetic enhancements limited, dosing them out at just the right moments of contact. This emptied out his mana pool over time, weakening his illusions overtime. It was a vast improvement over my dominance in the last meeting.
+
+In a way, he enforced his will on the battle, inflicting grievous harm to me, the damage mounting. I kept his blows contained, however. Despite several crisp, clean strikes landing, I maintained my composure. This wasn't the first fight where I was torn to pieces, and it wouldn't be my last either. Broken bones were nothing to me now.
+
+With that in mind, I kept Krog in the range of Event Horizon, playing to my strength of longevity. He slowed with time, my tenacity and pressure exhausting him.
+
+With every little bit that he slowed, he gave way to my own retaliation. Each blow I inflicted was measured, aimed to maim and kill. Even if I hit him straight on, he took the punishment with a bloody grin. The extra resistance and health that Schema granted him made him like a gargoyle. He was rock if it was flexible as healthy skin.
+
+This made his body far more robust, and unlike Delilath, Krog took brutal blow after brutal blow. By the end of our bought, he took enough punishment to kill a dozens of gialgathens. He'd proven that he had a lion's heart and the spirit of a champion.
+
+It was not enough.
+
+As he fell, the entire crowd of gialgathens gripped with emotion. Even if he fell, he gave the Gray Giant his best fight of the tournament yet. He restored the pride of their people, being the strongest among them by miles.
+
+Amidst the cheering, I rolled my shoulder while letting out a sharp breath. My mind was like iron, and it would take more than this to phase me. I even kept the molten metal on my frame for the most part, able to do that much.
+
+It hadn't been an easy fight though. Krog was over 3,000 levels over me, has decades of experience, and even had a unique class. He was near the peak of the gialgathen race, and I managed to beat him in a sound fashion without a class, thousands of levels lower, and nowhere near as much time on my hands.
+
+I'd count that as a victory in my book.
+
+The arena wasn't so lucky, carrying deep scars from our conflict. Several pits of glowing rock remained from our blows. Kiki sweated bullets, the Sentinels eventually having to help maintain the invisible forcefield to protect the crowd. It had been the finale everyone had been hoping for.
+
+The only ones disappointed were the zeppelin full of Thisbey's supporters. Rendered silent, they watched in awe at Krog's transformation from the previous bout. We fought many times longer, and he dished out far more damage against me. If we fought the Hybrid now with his added bulk and power, we wouldn't have even struggled.
+
+Especially if you added in the might of my next opponent - Chrona Carsiary. She flew onto the battlefield, landing beside Krog. With a single hand, she lifted him into the air, flying over towards the now resting Sheom. The Living Landshark was left speechless, her jaws agape at the sight of Krog's struggle.
+
+She sent out a telepathic wave towards us,
+
+"I've known Krog, and I've fought against him time and time again. He has never displayed such overwhelming strength. How in Lehesion's name did he achieve it in such a short time?"
+
+I forced myself up, shaking off the exhaustion from the fight. Still glowing, I raised a hand and shouted, "This is the difference that a few weeks in Schema's system can make. I will grant anyone that joins me the same treatment, guiding them into this new world. You can fight as he did, as an unstoppable juggernaut."
+
+At this point, the crowd of gialgathens was considering my offer with envy in their eyes. No one so much as stripped my armor before. Now they saw that my bones could be broken, and only Krog Borom had been able to do it.
+
+So far.
+
+As Chrona flew back over, I walked over towards the steel arena. With the air around me cracking from my super-heated armor, I raised my fists to her. She lifted her tail, creating the same mana augment that Krog managed. Above her, a ball of blue mana colored like cobalt siphoned into existence.
+
+It was a new kind of mana I'd never seen before meeting Chrona - primordial mana. It was another fusion, this time of origin and dominion styles of mana. Wielding the deep blue energy, she created a temporal dilation field around her, the effect far stronger than before. As it waved around me, I stayed the same.
+
+I was still immune, which gave me a chance of winning. Chrona was well aware, her steady and focused glance prepared for a hellish battle. I gritted my teeth at the prospect, my body remembering how strong she was before. Before we took off, Kiki Mosk wiped some sweat off his face,
+
+"So um, that was an amazing fight and all, but don't you need a break?"
+
+I rolled my shoulders, my fatigue all but gone, "No. I'll be fine."
+
+Kiki's eyes widened as I said that, his shock apparent. He let out a sharp sigh before turning to Chrona, "Are you ready then?"
+
+She growled, "Always."
+
+Kiki pulled a blue mana potion from his dimensional storage, chugging the fluid. Before continuing, he pulled out a sizable slurpy cup with the picture of some furry alien on it. He emptied several more mana potions into it. He turned to the audience, laughing a bit at himself,
+
+"You know, it's rare that the referee is struggling more than the fighter, but hey, this entire tournament has been a series of firsts."
+
+The crowds laughed with him, the tension palpable from earlier. Without missing a beat, he took a swig from his slurpy cup,
+
+"This is some bitter stuff, but sacrifices must be made for the betterment of your entertainment. Now, onto the battling once more." He raised his hand, "Are both combatants ready?"
+
+I banged my fists together, the sharp, metallic ring echoing across the arena, "Of course."
+
+Chrona leaned down, ready for a war. As Kiki swung his arm down, he shouted,
+
+"Let's fight!"
+
+We dashed towards one another, and Chrona outpaced me by a landslide. With her time dilation, she sped herself up by an order of magnitudes. This ability acted as an effective multiplier, her raw speed becoming otherworldly. Like a bullet, she slammed her tail from overhead.
+
+I blocked with both arms, ready for her sudden burst in speed. I wasn't prepared for her sudden burst in strength. My bones shattered, minutes of her power slamming against seconds of mine. The difference was overwhelming, my arms crushed. I held her blow back, however.
+
+Her tail bone broke, the diamond like skin cracking and the bone underneath crumbling. The armor I created for her snapped on impact, unable to handle this level of force. My forearm's skin ruptured, my blood shining like my armor was. Chrona recoiled from me, the molten metal singing her skin. I thanked my body's sheer resilience, my thermomancy saving my ass. I leaned over my forearms, reconnecting them by moldings strands of my armor into them.
+
+They healed in seconds.
+
+I tried to block the cameras, but there was only so much I could do. This wasn't going to be easy by any means. Chrona was more like Yawm or Version 2.0 now, her abilities magnified. To win, raw force wouldn't work. I needed to be more creative and use my tenacity and skill. Fighting up close would be risky, even if I could win like that.
+
+I wouldn't make the same mistake as the enemies I beat before. Arrogance and pride came before someone's fall, and I wasn't about to fall here. With that in mind, I grabbed the skin on my forearms and ripped. I pooled plates of my skin into glowing balls of wobbling liquid, suspended by gravity wells.
+
+Chrona wiped my molten blood off of her hands, wincing at the deep burns. As she recuperated by holding her tail together, I collected a larger and larger pool of liquid dimensional fabric.
+
+She drank health potions from her dimensional storage, some that I gave her. As her skin healed, I finished gathering my resources. A ball the size of a car radiated heat behind me, half my height. Chrona was putting her tail back together as she murmured,
+
+"It seems as though you've become softer since we last fought, though you still feel like stone."
+
+I grinned, "Yeah, maybe. I'll win this without slugging it out with you. I'm no one trick pony. I can fight in several ways."
+
+Chrona scoffed, "I will believe it when I see it. You're a brute. This will be a contest of might."
+
+She leaned over, her tail restored, mana welling over it once more. At the same time, I charged a singularity's worth of mana into my blood once more. Though I never used it against Krog since I didn't need it, it might prove useful. It was always worth having a trump card ready.
+
+Without further warning, Chrona dashed at me. With a bit of prediction, I swirled the molten mass in front of me, spreading it thin like a shield. Unable to withstand the scorching barrier, Chrona skidded to a halt in front of me. Using more mana still, I melted the ground under her. At the same time, I created a well of gravity under her and a well of antigravity above her.
+
+She withstood the pulling force, outflying the downwards pull of gravity. I swirled the mass of metal into two balls, my focus sharpened. I kept one close, using it as a defensive measure. The other sphere I launched towards her, attempting to splash it over her frame.
+
+The ball sped forward like a waterfall of shining silver. Chrona dodged it with unbelievable speed, but the pressure was constant. Unlike a pool of magma, this was my own dimensional fabric. It wasn't affected by Chrona's temporal dilation. That's the entire reason I went through the trouble of tearing my skin off.
+
+Anytime she approached me, I whipped the defensive mass around me. As she backed off, I kept Event Horizon over her while attempting to smother her with the offensive glob. It proved ruthless and effective, preventing Chrona from approaching me by heat alone. At the same time, I kept a gravity well over her, draining her stamina. Anytime she tried landing, I melted the ground to magma under her.
+
+It seemed like an airtight strategy, one I would win if the fight kept playing out like this. Chrona learned as we fought, however. Though the blob wasn't slowed down, she was still hastened in her field. She sped herself up further, her movements blinding. Testing her limits, she upped the pressure. As she did, I struggled more and more to maintain this new style of combat.
+
+Sure, I was a swift learner, but she pushed me to the boiling point.
+
+She charged from the front, her silhouette growing in my vision. I whipped the molten field to the front of me before she lifted a paw into the air. I thinned the shield over my head. She slammed her hand into the ground, tricking me before I could melt the rock.
+
+My footing crumbled around the arena, the shockwave of her strike like a bomb going off. I stumbled back as she whipped her tail behind me. I pulled myself forward, evading the brunt of her blow. It was light graze with her tail, but it sheared through my back, tearing my spine and sending me flying.
+
+She combined a kinetic enhancer as Krog had, whipping the momentum of her strike to the very tip of her tail. This gave it the piercing power. It came at a cost, her end of her tail hanging on by a strange of skin, the armor ruptured. She contained the pain, flipping over me.
+
+With the agility of a dancer, she pushed off my back, crashing me through my own sheet of melted metal. I flopped off the ground, tearing chunks of granite from the arena, she landed, light on her feet, and dashed forward. I drilled into the stone, using it to buy myself time. She followed, striking with her tail like the hammer of a mad titan.
+
+I sidestepped, a crater forming beneath us both. I let myself fall downwards. Well versed in aerial combat, she weaved around my wild strikes, slamming me from several sides. Her armor prevented her from burning her skin, several of my bones breaking in the process. Deeper we dug, the impacts creating a canyon in the arena.
+
+With desperation building, I reversed direction, launching upward with a weighted punch. I caught her off guard, pulling her into my punch with a gravity well. As my fist slammed into her chest, I dented her amor inwards while snapping several of her ribs. Without that protection, my fist would've impaled her.
+
+Eh, that's the reason I made it in the first place.
+
+She recoiled as I lifted a hand, expecting another attack. Instead, I began forming a singularity above us. It would be delayed, taking over ten seconds to develop. To hold her down, I exploded off the rock beneath me with another leap. I lunged at her, hugging my arms together. A master of distance, she dodged by a hair's length before retaliating with a blitz of her own.
+
+I sidestepped her first swipe, swinging my own fist forward. She outsped me despite her massive build, using her reach advantage. Her tail whipped into my side, leaving my ribs broken and cracking my spine. She paid a price once more, her tail further broken and the hanging chunk flung away.
+
+My glowing blood coated what was now the end of her tail as well, so I reached out a hand and solidified the mass. Chrona pulled her tailback in agony, trying to sling the muck off. She flayed herself, the skin peeling off from the wound. She howled before I melted the area around us. Magma from all sides poured in, drenching us in heat. Chrona dispersed the entire mass by spreading out her wings, the wind creating an eruption in the arena.
+
+At the same time, she clamped her jaws in my direction. A kinetic shockwave rippled through me, my balance disrupted. Using the distraction, she sliced her hand towards my head. I tilted sideways, dodging her claws by an inch. Her strike sliced deep into my torso, splitting me down the middle two feet deep.
+
+With her arm stuck in my chest, she sliced her other paw towards my head. I pushed myself myself back by shoving against her lodged arm. Her claws grazed my face, sinking an inch into my helmet and tearing my facemask off. I met her eye. She squinted her brow as she stared at the grin on my face. I murmured,
+
+"It's over."
+
+Before she understood, the singularity I planted earlier imploded ten meters above her. Slowed down or not, the resulting explosion was close enough that we both were swept up in the resulting destruction. It broke both her wings and snapped the armor on her back. I was caught up as well, my body further mangled.
+
+It was more than enough. Both of us were embedded in the walls of the crater we made. Hidden from prying eyes, Chrona struggled to recover. I didn't have that problem, my sheer regeneration coming into its own. My limbs and legs reconstituting in seconds. Within twenty seconds, my health was back to being topped off.
+
+It paid off being a living dimension after all.
+
+I pulled another set of gray armor out of my dimensional storage, cooling the surface of my skin. After wrestling it on under the rubble, I walked out of the ground, good as new. With a quick leap, I landed in the tunnel Chrona left in the stone. She was in a sorry state, ribs broken, limbs contorted, and a few rips in her skin. She'd be fine though. Schema's reorientation of her metabolism made her far harder to kill, just like it had mine.
+
+Kessiah and a few health potions helped me come to that conclusion though. It would take a bit before she was fine as well. Once upon her, I reared my fist back, ready to continue the beating if I had too. A Sentinel appeared above me, dashing into the tunnel and stopping the fight. I let out a deep sigh of relief, glad they ended the fight there.
+
+I stayed there for a moment, collecting myself. After a few deep breaths, I paced back out in front of the crowd once more. I raised a hand to a roar of applause.
+
+Once more, I'd won.
+
+Unlike last time, this was by a much thinner margin. Half a second later on the singularity, and Chrona might have had a chance of winning. It exposed a hole in my build, my strength not being up to par with some specialist builds.
+
+To fix that, I'd be investing into constitution for a while. Constitution fed 40% of its value into strength, and my Immense tree added 25% of my mass as extra physical damage. That would come after this fancy rune I was working on.
+
+Extra physical damage was a deceptive stat. It mainly meant general strength. Improving it quickly with extra mass was pivotal if I was going to face off against behemoths like the hybrids, Helios, or even Chrona. Learning that temporal dilation would make a massive difference as well.
+
+I tucked that tidbit into the back of my mind as Kiki Mosk scrambled to explain what the hell happened in the fight,
+
+"Ahem, so, er...The Gray Giant used alteration magic on his, uh, skin to make it metal? Then he used it as a zoning tool against Chrona by heating it into a glowing liquid...And then...er, he...um..."
+
+He turned to the crowd, "You know what, I'll just leave it to the analysts to decipher. Regardless, the Gray Giant came out on top despite some very close calls. I'll say this much, he had more cards up his sleeve than I ever expected of the one-sided slugger."
+
+Using a gravity well, I pulled Chrona from the crater, giving her several health potions. After gulping them down, she glared at me and sent out a telepathic wave,
+
+"That grin of yours confused me for a moment. That is the only reason you won."
+
+I shrugged, "All is fair in love and war. Besides, you're lucky I didn't just melt the armor you were wearing. Boiling your blood was another option. Maybe-"
+
+"That's enough. I'm glad you decided to keep within a few parameters." she continued on a lighter note, "I am astonished by my progress as well. The fact I almost won is a testament to my progress."
+
+I let her have that almost there. In my opinion, she still had a way to go.
+
+"It is," I crossed my arms, "It isn't that surprising though. You've fought for what, centuries?"
+
+"A century, but yes, I have fought for a long time."
+
+"Point is, you have an enormous amount of experience and a wealth of difficult to learn skills. In that regard, I'm not your match. You just need to get used to the system and you'll be golden."
+
+Chrona scoffed, "I would argue that in regards to your skills. I've never seen you fight in that manner. It was so odd seeing you implement it."
+
+I spread out my hands, "Well, I was trying to use my head this fight. I'll be honest, you're a fucking monster at slugging it out. If we pummeled each other, there was a solid chance I might lose. I took the safe route, eliminating your chances of winning."
+
+She shook her head, "By the time your delayed explosion landed, my body was in tatters. Your armor's claws and swords were the only reason I could cleave through you. You are denser than steel and hard as gemstones. I don't understand how your heart pumps blood through your frame."
+
+I didn't either.
+
+She hissed to herself, Just as well, before getting my class, I wouldn't have stood a chance. I'd have broken myself before I could've hoped to break you."
+
+I gestured to the arena of gialgathens, "Let them know that if you can. Either way though, I'll be fixing my lacking strength here soon. Don't you worry about that."
+
+Chrona wore a smirk, showing her teeth, "Yes, lagging strength as you call it. I look forward to it." She winced, "If you'll excuse me, I'll need some time to recover, however. Perhaps a new set of armor could be made as well?"
+
+I nodded, "Of course. I'll let Krog get you out of here."
+
+By now, Krog had recovered his ability to move and fly. His injuries weren't as severe as Chrona's. His own armor was still covered in dents and tears.  I waved my hand to him, and he flew on over. As he landed, he stomped a foot,
+
+"You were so close to defeating the Dark One. I could not believe it. I was on the edge of my seat as I watched and healed myself."
+
+Chrona sighed and said, "Speaking of healing, I could use a bath in the springs here. That and a few numbing herbs and barrels of mead. I shall feel these aches tomorrow."
+
+"Honestly though, you probably won't. Once your health's topped off, you'll be fit enough to fight again. Perks of the system...You'll still be mentally tired though, so take it easy," I said.
+
+She nodded, "We will."
+
+"To the springs we go then," Krog said with a bit of excitement in his voice.
+
+He picked her up by grabbing the edges of her torn armor and flying upward. As they left, Kiki scratched the side of his head,
+
+"Look at them go. Krog's already up to carrying her somewhere to heal. In all my days, I've never seen a gialgathen live after the punishment he took, let alone carry a comrade hours after."
+
+I flew back up, projecting my voice once more, "And you know why. If those battles didn't illustrate why you should consider my offer, I don't know what will. You'll find me at Chrona's current residence, near the top of Rivaria. I look forward to seeing the most driven and ambitious of you there."
+
+After finishing my spill, I gave Kiki's shoulder a pat, "Thanks for keeping us safe man."
+
+He looked down at my hand, then back up to me, "Of course. Glad to be of service." Kiki glanced across the arena, "And to all those here, have a wonderful rest of your year until the next Honoring of Lehesion. The champion will be given his rewards during the award ceremony back in Yildraza. Goodbye and goodnight!"
+
+The crowd gave one last hoopla before I glanced towards Helios and Caprika. Caprika was cheering, making a huge ruckus even from her wheelchair. She poked and prodded Helios as I flew over.
+
+"Hah, I told you that my judgment was sound. Did you see him at his peak? Even our the Emperor would be proud."
+
+Helios crossed his arms, his mask hiding what was probably a deep frown,
+
+"Perhaps...Perhaps not."
+
+Caprika rolled her eyes so hard that her head rolled too, "I found talent. You can accept it or live in denial. It's your choice."
+
+I landed beside them, lifting and flexing an arm, "Hope you guys are impressed. That was about all I've got."
+
+Helios let out a groan before dragging his hand down his black facemask, "I might've even complimented you if your ego wasn't already about to burst."
+
+I scoffed, "If anything, I was humbled. Chrona almost won."
+
+"I doubt that." Helios said while shaking his head, "You managed to defeat her, though you are both comparable. I underestimated the potential of their species. Even my uncle would vie for their favor. Her temporal dilation in particular is extraordinary now."
+
+I shrugged, "They were strong before getting Schema's assistance. Obviously they'd be unbelievable with it."
+
+Helios raised a hand, "Yes, maybe, but I never anticipated such a rapid change in her output. Chrona dented you with such simplistic ease. From what I've heard and seen of you, you're rather difficult to kill. To break your bones with strikes alone..."
+
+Helios let his shook his head, "Even more so, however, was your regeneration. How did you heal bones so quickly? It was as if you've the blood of an immortal in you."
+
+"Eh, trade secret," I said with a smirk.
+
+Caprika put a hand on my arm, "I've spoken with uncle about temporal dilation before. It increases both the output and damage dealt by the user. It's very taxing on your mana reserves, however, so he rarely uses it."
+
+I narrowed my eyes, listening close. 'High' mana costs were irrelevant to me.
+
+"In her instance, she's hastening herself. Stretching out the blows she receives dramatically reduces their impact. The same could be said of her own strikes, their fierceness remarkable."
+
+Helios gestured a hand to her, "I believed that magic not worth its investment. I may speak with uncle and uncover a few of his journals on the topic. He no doubt has detailed knowledge of it if it's this effective."
+
+I pointed at Helios, "Well this all makes me feel better about the situation and all, but I was meaning to ask what he plans on doing after we meet?"
+
+Helios tilted his head, "His intentions are beyond me. I will simply say he finds you interesting. Whether or not that will prove to benefit or harm you, only time will tell."
+
+Helios let out a laugh, "I'm sure he viewed your performance in this fight as well."
+
+"Really? Damn, I thought he'd have more important shit to do."
+
+Helios scoffed, "He didn't only view the fight. I'm certain he accomplished a dozen tasks as he did so. My point is this-" Helios adjusted his stance, looking a bit out of place for once, "I was wrong about you. You've exceeded my rather low expectations of you."
+
+Caprika gave Helios a slow clap, "Well well, you have the ability to admit you're wrong. I never thought I'd see this day. Truly this is incredible."
+
+"Hah, hah, live up your short lived victory while you can. We must leave soon," Helios said.
+
+Caprika turned to me, "As promised, you shall be receiving the highest status I can give you, and I guarantee a large guildhouse will be available to you in my city. I will advertise your legion for all ears that will hear it and eyes that will see it."
+
+I grinned, "Thanks."
+
+Caprika leaned back into her seat, relaxing a bit, "I can't believe I'll finally be allowed back onto the homeworld."
+
+Helios mumbled, "Neither can I."
+
+She shoved him, succeeding in rolling herself back. She let out a puff before glancing back at me, "You know, I've never heard of a non-classer defeating a classer with an over 4,500 level lead. That's not even counting her unique class and skillset."
+
+Helios rolled his hand with impatience, "Enough with the egocentric praise. Perhaps you can attempt sucking his metaphorical dick when I'm not around?"
+
+Caprika crossed her arms, "Ho, ho, is someone jealous?"
+
+"It's time we leave," Helios grumbled, "Follow me unless you believe he'll protect you this time, unlike the last."
+
+Helios stepped through a wormhole of his creation. As I stared at it, Caprika molded her fur, hardening it into makeshift limbs. They pulled her wheelchair along by gripping the floor. She reached right beside the portal before turning to me,
+
+"Thank you for helping me. You will not regret it."
+
+I raised my eyebrows, "Eh, that depends on what kind of mood your uncle's in when we meet."
+
+"Oooh, that will be fun to see. Do be prepared for a bit of eccentricity. He's...unusual."
+
+"I figured. Goodluck."
+
+"Likewise."
+
+With our goodbyes said, Caprika rolled through the wormhole, the rift in spacetime closing right after.  I glanced around, finding most of the crowd remaining after the fights. They chatted with animation in their voices. That was good. I would need quite a few volunteers to join my guild soon.
+
+With that in mind, I flew off towards Emagrotha's old home and Chrona's current residence. The icy cavern sat near the mountain's peak, icy sculptures illuminated in the fading sunset. As orange light danced in the many frozen carvings, I took off my gray armor and began collecting strips of blackened metal.
+
+Within an hour, an orange gialgathen covered in yellow stripes flew in across the sky. It was Sheom, her skin smooth and moistened by a constant fog she kept over herself. As she paced into the icy den, I finished ripping another chunk out of my arm. I was sitting on a stack of metal plates, waiting to be forged. She walked up to me, her eyes curious and searching.
+
+"Do you do that for discipline, perhaps?" Sheom said, her voice grave.
+
+I shook my head, continuing my work, "It doesn't hurt much. I'm relatively numb to pain at this point. It's like pricking my finger, and that's not something that can phase me at this point."
+
+I jerked, my skin snapping with a loud pang. As I set it down behind me, it clattered on the ice, smashed ice all around my workspace. I'd fix it before I left.
+
+"Is that numbness also from the system you speak of?"
+
+I stood up, "Yeah, it is."
+
+Sheom took a deep breath, "I...I am sorry for calling you a dirtwalker earlier."
+
+I scoffed, "You don't need to apologize to join me. What I need is for you to work, and work hard."
+
+Sheom nodded, "I will do anything to gain the powers they owned."
+
+With an evil grin on my face, I took a piece from Torix as I cackled,
+
+"I hope you're ready."

@@ -1,0 +1,393 @@
+---
+id: 7cc9f0a3-1a2d-526d-8c05-5ee55d50736c
+page-type-slug: story-chapter-royal-road
+title: "389 The Tasks of a Ruler"
+slug: 0349-389-the-tasks-of-a-ruler
+partOf: the-new-world
+position: 349
+ownLength: 3556
+unit: words
+ownProgress: 3556
+publishedAt: 2025-03-07
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2111750/389-the-tasks-of-a-ruler"
+royalRoadId: "2111750"
+markedReadAt: "2026-06-29T21:33:14.813Z"
+---
+
+It gave me a salute before launching away once more. I ogled where it once stood, stunned by how it handled things I'd forgotten. Shaking out my surprise, I looked around, finding the guild coming to life. Architects built in the distance, the blue core's barrier sheened over the horizon, and my vanguards carried back useful eldritch.
+
+It left me basking in a quiet but boiling excitement. After setting the alarm for tomorrow morning with my status, I cracked my neck.
+
+It was time to mass produce a golem army.
+
+Chapter Begin
+
+I lifted myself with a gravity well and propelled myself toward my golem creation facility. The large stone and glass structure stood from Mt. Verner but closer than I remembered. A bit of inspection revealed the illusion - guildmates erected buildings nearby, making the mountain look closer.
+
+People wanted to live in the open since we weren't hiding anymore.
+
+I relished that fact before one of my minds mentioned my status. The inspectors I sent out found something, so I opened my planet menu and Sovereign status. I found the flaw my mind mentioned, and they were twofold.
+
+Firstly, I didn't have a perk for L-7. I sent a message to the Overseer to get that fixed, hoping for a timely response. The second 'problem' was that I wasn't supposed to have my planet perks yet. The Sovereign class mentioned getting them from my Sovereign skill, not the class itself. I hadn't obtained that skill, so I got the perks early.
+
+I neglected to mention that in my bug report.
+
+While on the topic, I spruced up my status. I allocated my leftover skill points to the Owner of Worlds tree, not expecting anything.
+
+You cradle the tales of time, your species' prosperity akin to your own. To have such power is merely a piece of this puzzle. You will learn to use it, growing into your abilities as they grow into you. You lay the roots of empire and authority from the will of your enactment. It will blossom into a vast tree that shades those under you.
+
++100% to City Barrier Strength
+
++100% to City Barrier Efficiency
+
++40% to City Barrier Size
+
++40% to Credit Income Multiplier from owned territories
+
++40% to Experience Multiplier from owned territories
+
++100% to Bounty Payout in owned territories
+
++100% to Bounty Experience Reward in owned territories
+
+-40% to Warping Costs in owned territories
+
+Sovereign Exclusive: +24% to World Perk Efficacy
+
+A rush of energy coursed in, and I slowed it down again. I pulled out my grimoire, taking notes and trying to feel the energy flow. This mirrored watching a master at work, and I soaked in the drops of knowledge Schema left behind. After the power faded, I readied for the grueling production process.
+
+Before I got into it, a rip in spacetime erupted beside me. The Overseer stepped out, about two heads shorter than me. Even a casual glance showed how improved his situation was since I last saw him.
+
+His armor was fixed, no more missing patches or exposed skin lingering. Portions of his armor rippled, bending and molding with his movements. Even a psionic glance told me the Overseer's mind isolated itself from its surroundings far better than before. This gave the titan far more room for other ventures, one of them being his routine work.
+
+The Overseer stared at his red status screen. He handled a dozen tasks simultaneously before peering closer at one of the screens.
+
+"Interrupting my workflow for a bug report? Has Schema lost his mind?"
+
+The Overseer peered up.
+
+"What an immense waste of-"
+
+The Overseer gawked.
+
+"Time...You've changed yet again."
+
+I reached out a fist.
+
+"It's good to see the same for you."
+
+He gave me a fist bump.
+
+"I speak of wasting time, and you learned how to wield it."
+
+I smiled.
+
+"I've had a lot of extra moments while on L-7."
+
+The Overseer gestured at me.
+
+"Ah, the closest planet to Leviathan. It would've been over six months of Earth time there. I've yet to check, but did you win?"
+
+I narrowed my eyes.
+
+"Yeah. I did."
+
+The Overseer nodded.
+
+"At a cost, it seems."
+
+I shrugged.
+
+"Well, I guess you could say it was a journey."
+
+The Overseer fiddled with his status.
+
+"One drenched in the blood of Schema's enemies, apparently. He has sent me to fix your issue immediately. That prioritization is good since we will need your help in time."
+
+I pointed at one of his electronic gauntlets as the metal rippled.
+
+"Is that an upgrade?"
+
+The Overseer shrugged, his armor molding to allow the gesture.
+
+"Nanomachine technology. Schema needed to change to avoid losing the war, especially after recent events. It was this or die."
+
+The Overseer opened his red status again, handling tasks rapidly.
+
+"I would enjoy a chat, but I am pressed for time."
+
+I watched him, no longer stunned by his pace. In fact, he seemed...Well, slow. It was hard to believe I could even think that, let alone feel it.
+
+I nodded at him.
+
+"Makes sense. You've got a lot on your plate."
+
+I pulled out some of my dimensional fabric and a blue core. I etched into my grimoire before the Overseer tilted his head at me.
+
+"No discussion? You've changed in more than the physical."
+
+"What? No, I still want to chat for sure. Even while I'm doing this, know I'm listening."
+
+The Overseer scoffed.
+
+"Has the weight of your empire finally caught up with you?"
+
+I scoffed.
+
+"More like I've finally caught up with it. Anyways, what did you think of the lotteries?"
+
+The Overseer clicked on my status, and a strange sensation passed over me.
+
+"A failure. It is a shame, as the idea had merit. Its execution was abysmal. It made a new planet's culling look like a frantic series of successes by comparison."
+
+I worked while talking.
+
+"Yeah, tell me about it."
+
+The Overseer took minutes preparing, testing, and trying out different solutions.
+
+"I have been busy since. I am catching up on my responsibilities and enjoying newfound powers via nanomachine technology. It is a privilege Schema unlocked for us after we faced nanomachine tech from Elysium. Needless to say, Schema's is far more advanced and refined."
+
+"I'd expect no less."
+
+"It rivals his cipheric knowledge, second to none in the galaxy."
+
+A comfortable silence passed over us. After a while, the Overseer dragged a hand down his faceplate.
+
+"The perk is not recognized because L-7 is not in Schema-owned space. This makes documentation of the change difficult, and I cannot allocate resources without the proper procedures."
+
+I shrugged.
+
+"Don't worry about it. Take your time."
+
+The Overseer kept hustling on his status. A few minutes later, he shook his head.
+
+"I will need to put in a clearance request for the change. This will take a few more minutes, and I apologize for this inconvenience."
+
+I waved my hand.
+
+"Don't stress about it. It's not pressing or anything."
+
+The Overseer peered around, viewing the mountain through the glass walls.
+
+"Mt. Verner is finally shaping up into a proper capital. You might look like a B guild here soon."
+
+I let out a chuckle.
+
+"Eh, I've never been that concerned with appearances."
+
+The Overseer put his hands on his hips.
+
+"I wanted to thank you for our talk last time. It helped me in a dark moment, and I...I don't feel as defeated. We will win, and my life as an Overseer has meaning again."
+
+I smiled, warmed that he found a reprieve. After a second, I furrowed my brow, continuing to carve.
+
+"I thought you'd be overwhelmed with Elysium's attacks right about now?"
+
+The Overseer peered away.
+
+"They are consolidating their gains from the recent lottery, so their attacks have slowed. Lehesion has also been quiet over the last week. When he does arrive, he's less effective than before. We have no idea what has occurred, but whatever happened has crippled him."
+
+My smile widened.
+
+"Good. No, great."
+
+The Overseer squeezed a hand into a fist.
+
+"It is and is not. This momentary ceasefire has given us a moment of respite. However, this has been the largest loss of Schema-owned territory since Baldowah's rebellion. Perhaps larger."
+
+He threw his arm out in frustration.
+
+"We have never seen anything like it, and a few avatars have also been unruly lately. It is...Disconcerting. They're planning something, and we know nothing."
+
+Searching through my memory, I vaguely recalled Torix mentioning the Baldowah Rebellion at some point. I scratched my cheek while considering an odd piece of etching.
+
+"That sounds like a tricky situation."
+
+The Overseer sighed.
+
+"I fear what is to come, but at this moment, I am appreciative."
+
+I finished etching and charged my grimoire.
+
+"Huh, appreciative. It sounds like you had a perspective shift."
+
+The Overseer nodded.
+
+"It is something I had forgotten of. There is no here and now when someone's time marches forth without fear of death. All is lived in the future and the past. This makes the present meaningless. It becomes a tool to mold the eventual, not a blessing to be cherished."
+
+I molded a plate of my dimensional fabric, ensuring the proportions were just right.
+
+"So after the fear of death passed, you gained an appreciation for life, huh?"
+
+I kept molding. The Overseer paused.
+
+"Is this not worth your time, or are you ignoring me?"
+
+I shook my head.
+
+"What? No. Not at all. I know you'll have your hands full here soon, so I'm trying to pass something along before you leave. Otherwise, I'd be offering you a drink."
+
+I finished the grimoire's charging, the book bristling the air with an electric current. I pulled the runic markings off it, etching it into the dark metal. Along with a few screws, I handed the shoulder pauldron to the Overseer, the core embedded at its center.
+
+"Since I can't offer the drink, this will have to do."
+
+The Overseer shook his head.
+
+"This is a powerful artifact. I cannot take it."
+
+I waved a hand, pushing it to him.
+
+"Please. I don't want to have to cozy up to another Overseer if you happen to die."
+
+I set it on his shoulder.
+
+"So, really, this is more for me than you."
+
+I handed him the screws, and the Overseer grabbed the dark steel. He squeezed them in hand.
+
+"You understand that Schema has fail-safes? If I am augmented by gear of any kind, I will die."
+
+I nodded.
+
+"I know. I made this expressly so your armor won't take you out. In particular, this adds an external psionic defense and other tricks for issues like Hybridization. You'll need it in the future, so get a permit or whatever to install it."
+
+The pauldron on his shoulder oozed out with quintessant mana. I turned a palm to it.
+
+"Trust me. It's worth the time."
+
+The Overseer placed the screws into a pocket dimension at his side.
+
+"I shall trust you then."
+
+He pressed a button on his status, and my dimensional wake rippled. Mana flooded through me again, and I stepped back as I compressed myself. I shrank my wake and self in tandem, wanting to vomit. After a few blinks, I searched for the source of the disturbance.
+
+The Overseer crossed his arms.
+
+"That was your freshly minted planetary perk from your Sovereign class. Its previous iteration would've allowed you to sell dungeon cores for more credits. Schema wished to buy them, but I fought for this new version instead."
+
+I opened my status screen, inspecting my planetary perks. I found the new one.
+
+Leviathan-7's Expedited | +12.4% to Temporal Manipulation.
+
+"Hah. That explains my nausea." I put a hand on his shoulder. "This is ten times better than more credits. Thanks."
+
+The Overseer floated the pauldron over himself.
+
+"And this is better than the psionic defenses that Schema arms us with. I shall treat it with care."
+
+I grabbed it and crumbled the metal up. It erupted with sound as I did. Dropping it back down, the Overseer caught it. In seconds, the shoulder plate reformed. I pointed at it.
+
+"Anything I make is durable, so always let it break first, not you."
+
+A message popped up in the Overseer's status. Several followed.
+
+"I would talk, but I must leave. There are many operations to catch up with after the war with Elysium. We must be prepared for the next wave of offensives as well."
+
+The Overseer opened his dimensional rip before stepping through the portal. I waved a hand.
+
+"Oh yeah, about your new perspective on time. It reminded me of a quote I heard a while back."
+
+The Overseer turned as his warp began closing.
+
+"Hm?"
+
+I raised a hand.
+
+"Always remember that today is a gift. That's why it's called the present."
+
+The Overseer let out a metallic laugh.
+
+"Then heed your words, Harbinger. I already learned that lesson."
+
+The rip in space shut, and I stood taller. Seeing an old friend doing better left me rejuvenated. Just as well, I squeezed a hand. Even though subtle numerically, the difference in my time's flow was palpable.
+
+It left my psyches more distraught in my wake, but that trained Temporal Compression further. Eventually, I may master it enough not to need my mind in the ether. As an anima perished in that space, I winced.
+
+I could only hope this wouldn't get worse.
+
+Reorienting myself, I contemplated my golems and why I made them. Starting that off, I brainstormed the kind of job they'd handle. They'd be sent out over vast distances to help and assist large settlements. In general, that required assisting with a few key concerns.
+
+The most straightforward fixes were basic necessities. For some reason, I could generate matter with ease. My golems were no different, so creating water and shelters would be a cinch. As for food, that was harder to pass along, but a few rings with crab generation would help.
+
+Yeah, sure, they'd get tired of eating crustaceans, but it was better than starving.
+
+Another aspect my golems needed to handle were the eldritch. My golems had power and strength to spare, so destroying the monsters in mass had a simple solution. Keeping the golems killing only monsters was the real problem, and my guildmates were the answer. Therefore, I'd make these golems less aggressive than other variants.
+
+Focusing on protection rather than assaults, I borrowed sigils from my guardian golems. From my experiences on L-7, the guardians worked well long-term. However, instead of protecting an area, they would guard a specific individual long-term. This would happen through a bonding process.
+
+Quintessant golems matched well for that since the mana focused on the external, lining up with my goals. I put psionic defenses and two hovering plates over the golem's shoulders to prevent any of my guild members from being infested by Elysium or an eldritch. These shoulder pauldrons clicked on and off based on gravitation.
+
+The golem could lob the shoulder plates out in a pinch to stop something from attacking a guild member. They could also be used for protection from the elements by locking them together. People could camp or sleep under them when they were like that.
+
+Thinking more about it, most of the time spent on this mission would be traveling. The guild members would also be alone for extended periods. Remembering the loneliness of L-7, I brainstormed a few solutions. After a while, I came up with a few ideas worthy of implementation.
+
+The most important tool was simple mental support. I made the golems offer encouragement about three times a day, and they would also ask simple questions. While nothing too personal, the golem provided a modicum of company.
+
+From my experience, even small conversations made an enormous difference when away from home.
+
+Having finished my carving, I checked the time. A few hours before the morning, I ramped up the industrial process. I pulled the elemental furnaces from my body into a small section of dimensional fabric. It connected to my main body, letting me use them still.
+
+Before pulling my mind out of my body, I generated a short-range gravitational plate above. It hovered me a few feet off the ground. At the same time, I compressed my body to the utmost with Temporal Compression. This shrunk my golems, preventing thirty-foot monsters from running around.
+
+The last step involved peering at my golem runes and etching them into myself. Instead of working on a blank slate, I put as many runes onto my skin as possible before I even began. This stopped me from having to carve in commonplace runes that all the golems and I shared.
+
+I couldn't etch in personality-based runes or formative sigils since they may change my personality. Unfortunately, personality and mind creation runes included most of the runic work, but I saved plenty of time over the long term with even a few generic markings.
+
+Once made, I pulled my mind out. To speed the process up, I created an extended panel of gravitation that could hold up many frames. Keeping my furnaces with me, I remade body after body, hovering them forward with gravity wells. This manufacturing line kept everything organized and put the wheels of production in motion.
+
+Within hours, I amassed hundreds of empty frames. They filled the entire golem construction facility in organized rows, golem after golem floating in nothing. Before carving, I made dimensional fabric girders above each golem line. I put quintessence crystals and runes on each side of the metal beams to keep the golems afloat.
+
+This gave me leeway to leave without worrying about absolute devastation should a golem fall. The quintessence powered the gravitation, keeping it consistent, so I breathed that freedom in.
+
+My alarm for visiting the Eltari popped up in my status. Having the allowance for it, I left the hundreds of golem bodies in place before flying over Mt. Verner. Reaching a lower peak of stones, I landed amidst one of the many Eltari encampments. It was a hut village with several mansions built beneath. If I had to guess, the Executive was responsible for the manors below.
+
+The Eltari took no heed of them. Being rugged and adapted to the desert, the Eltari preferred the sunbaked stones near the bottom of the mountain. Still high enough for a view, the hilltop had sheer cliff faces, and the breeze carried the smell of rock, earth, and pine, making it feel homey.
+
+Here, the Eltari constructed wide tents from various types of leather. They mixed several monster skins into the patchwork ensemble, but they tied it together symmetrically. This pattern gave the pandemonium purpose. It reminded me of staring at a collage.
+
+Adding to the effect, dozens of teeth, bones, and other organic stuff hung in well-preserved bundles. The Eltari relished in these different art pieces, every hut having its personalized flare. From menacing to gentle, they never mirrored one another. That fierce distinction gave way at the ground, where the Eltari constructed a vast mosaic across the entire village.
+
+A dozen huts all shared the same pattern, the reflective and glossy stones sheening in the sun. I walked down the paths, appreciating the Eltari above and their aerodynamic displays. Each person I passed landed before lunging to one knee, their reverence almost overbearing. Some bowed further, even murmuring prayers under their breath.
+
+I raised my hands.
+
+"Alright, at ease, everybody. I'm just here to see a few of Hod's friends, not fulfill a prophecy."
+
+As I reached the largest tent in the area, I stared at a ten-foot-tall entrance. It was tiny. Wanting to move in, I left another mass of dimensional fabric outside. Walking nine feet tall, I found many deformed Eltari resting within. They hid from the beams of light peaking through their shaded space and covered themselves in the leathers of dark eldritch.
+
+I snapped my fingers.
+
+"Ah yeah, I remember you guys. You were, hm, er, the village elders from when I walked into Hod's village, right?"
+
+One of the least deformed elders hacked out a cough. It raised a mangled wing.
+
+"We are. Your reflection told us to be ready for your coming. We brought a feast and gifts, but you missed the ceremony."
+
+I winced.
+
+"Ah, sorry about that. You see, I got caught up making these amulets-"
+
+A second elder waved his wings.
+
+"No, please, don't apologize. We understand that our savior is called to action often, and sometimes, you cannot control it."
+
+Unnerved by the term savior, I scratched the back of my head.
+
+"Huh. Well, thanks for your understanding. I'm guessing the executive gave you guys those buildings below?"
+
+The first elder nodded.
+
+"It is a generous being. Please, sit."
+
+It gestured to a circle made with mosaic stones on the ground. Everywhere else was beaten and bare earth. I sat cross-legged in the ring.
+
+"Thanks. So, about Hod, what was he like before being eldritchified?"
+
+The elders peered at one another, murmuring with guttural tones and noises. Making out what the others meant, the second elder raised dark wings.
+
+"There was never a time before Hod was taken by the monster within him."
+
+The white eyes under his hood narrowed.
+
+"He has always been lost in his shadow."

@@ -1,0 +1,481 @@
+---
+id: 5195d9c5-4bf8-5e5e-951d-93d91b92d45f
+page-type-slug: story-chapter-royal-road
+title: "467 Amassing Territory"
+slug: 0427-467-amassing-territory
+partOf: the-new-world
+position: 427
+ownLength: 5083
+unit: words
+ownProgress: 5083
+publishedAt: 2025-08-25
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2545128/467-amassing-territory"
+royalRoadId: "2545128"
+markedReadAt: "2026-06-29T21:36:01.255Z"
+---
+
+She was not killed, but a primal fear surged in her chest as the laws surrounding her dispersed. I swiped my hand, singularities encompassing us both. As I strode out of nothing, I was alone once more. I smiled. Unlike most other foes, I wouldn't forget Firamnia. Whether we agreed or disagreed on how we lived, we were aligned in how we would die.
+
+In all regards, she was a warrior worthy of respect, and she would be remembered. I raised a hand and squeezed it into a fist.
+
+For the phoenix who wouldn't quit, even in death.
+
+Chapter Begin
+
+Having paid my respects, I headed towards my city as a richer man, my quest now complete.
+
+Quest: The Death of the Firelands Ruler | Rank: S- | Description: Whenever you killed Firamnia, the Holder of Sacrifices, you not only eliminated a solar tier threat, but you freed a portion of the populace of [Rebirth.] This was a feat of courage and bravery, giving you ample awards, Sovereign.
+
+Awards: +10 blue cores, +100 red cores, +100 million credits, +The Firelands territory for your guild, The Harbinger's Legion.
+
+Chain Quest Updated!
+
+The Death of a Planetary Pillar | Rank: S | Description: On this planet, there exists other planetary-scaled eldritch, all vying for control. The ones you know are Balsht, Firamnia, and Emeralga. There exist five of these lords, each carrying causality-disrupting powers. They have achieved a delicate power balance since the inception of this planet, and with Ghelid slain, they are no longer bound to that previous status quo.
+
+The first part of this quest will be to gain ownership of the Icelands/Firelands. Establish cities, clear out the eldritch, and seize your territory! After earning your rule of this area, you must dismantle the other planetary pillars of [Rebirth]. Once killed, you will gain ownership of Rebirth along with any bonuses that may entail.
+
+Quest Progress:
+
+Ghelid Slain | 1 out of 1
+
+Firamnia Slain | 1 out of 1
+
+Balsht Slain | 0 out of 1
+
+Emeralga Slain | 0 out of 1
+
+??? Slain | 0 out of 1
+
+Bonus Objectives: Uncover the hidden secrets of [Rebirth.]
+
+??? | 0 out of 1
+
+??? | 0 out of 1
+
+??? | 0 out of 1
+
+It was good to know that Schema didn't put any detriment to completing the quest in a different order.
+
+I also pocketed quite the hefty profit from cores and credits. While not my primary goal, it left me with a solid understanding of how much money and experience quests gave. Aside from that, I allocated my status points and checked out my status.
+
+The Living Multiverse | Level 43,813 (Cap: 45,000) | Current Influence: The Rise of Eden | Class: Sovereign
+
+Strength – 852,360 | Constitution – 855,723 | Endurance - 1,321,308
+
+Dexterity – 573,893 | Willpower – 1,618,256 | Intelligence – 1,190,190
+
+Charisma – 632,960 | Luck – 803,495 | Perception – 461,980 |Awe - 69,001
+
+Health: 44.14 Billion/44.14 Billion | Health Regen: 11.6 Trillion/min or 199.45 Billion/sec
+
+Stamina: Infinite +++++++++++++++++++++++++++++++++++++++++++ | Ambient Mana: 141,029Trillion
+
+Mass: 34.79 Billion Pounds( 15.81 Billion Kilos~)
+
+Height: 64'07 |19.68 meters | Damage Res - 99.861% | Actual: 99.861% | Dimensional Res - 100%
+
+Phys Dam Bonus – 1.506 Trillion% | Damage Bonus – 40%
+
+The Rise of Eden - enhances base stats by 30%, increased to 40% to allies within aura's radius.
+
+Mana Conversion(Elemental Furnace Count: 14) - 651.02 Billion mana/min siphoned into runes and armor.
+
+Unlike my last checkup, my levels and stats rose more this time. If i had to guess, it was the harvest from going berserk across the Firelands. The ambient mana amassed somewhat as well, meaning my primordial rune ate well as I destroyed swaths of the eldritch. Clasping a hand, I also pondered my physical strength.
+
+I felt unbeatable, but I hadn't actually assessed how much damage a punch could do. Taking a moment to sate my curiosity, I punched the ground. It detonated in all directions, a cataclysmic shockwave pluming. After the physical burst, a cloud of heated dust and glowing coals rested beneath me.
+
+I spread my arms, dispersing the cloud. I floated over a crater etched into the landscape, one that could swallow a skyscraper. Standing with my chest puffed out, I flexed my arms.
+
+"Superman has nothing on me. Hell yeah."
+
+I took a breath, glad no one heard that. Flying back for a while, I reached my city. It held up fine, which bolstered my growing sense of security. During my battle, Firamnia and I crossed over my immaculate center of civilization, but the barriers remained firm. My Maker of Empires tree did its thing along with the radiant cores I collected on L-7.
+
+Speaking of, I'd be running low by the time I finished taking this world over. Thinking it over, it didn't matter too much. I had a steady supply of blue cores from the Infinity Plaza, and this planet had quite a few blue cores on it as well. After a quick check of my status, I had a few months before heading out to L-7 for my yearly check-up there as well.
+
+It was one of my most valuable assets. If I had to guess, radiant cores were around four to five times stronger than normal blue cores, but more importantly, they held greater potential. They allowed the golems to learn, grow, and evolve. In most ways, I'd argue the highest-tier golems were as human as anyone, and they carried potent personalities.
+
+The executive and vanguards were examples of that. Even beyond their radiant core's benefits, I wanted what was best for them. Remembering Alpha and his hunger for knowledge reinforced that desire. I entered the capital of Rebirth as those thoughts, memories, and experiences drifted through my head.
+
+Waiting for me, Chrona, Hod, and Opal waited around with the vanguard golem making an appearance. I floated to them.
+
+"What are you all doing here?"
+
+The vanguard golem gestured to Hod, who showed him a simple game done with shadows. The vanguard clenched his hand into a fist,
+
+"One of your followers has commissioned, nay, demanded my attention for this task of utter importance. If I had failed in this, the entire fate of the guild could've been at risk."
+
+Hod gestured to three upside-down cups on the ground.
+
+"Hod play game."
+
+The vanguard stared at Hod, its attention consumed.
+
+"I still fail to fully comprehend the majesty of the codes you're sending, but know that one day, I will decipher them. Why? Because I'm a loyal follower of our lord and savior, Daniel Hillside."
+
+Hod nodded knowingly.
+
+"Hod understand, and Hod agree. It bad last name."
+
+The vanguard raised his palms.
+
+"As one of his loyal followers, even I must admit-"
+
+I shook my hands back and forth.
+
+"Enough of that. Come on, guys, let's focus."
+
+Hod stood upright.
+
+"Hod only focus."
+
+Amara hissed, mocking his voice.
+
+"Hod like old-world phone cameras. Always blurry."
+
+Amara turned a palm to me.
+
+"I say that, but I never used a phone. I have heard legends of their ability to remain unfocused despite advanced technologies."
+
+Chrona nodded.
+
+"It was an apt and well-made jest. In fact, I admire you for it. You see, the seers and illusionists of the old earth would often need to manually assist their devices. This occurred despite their technologies' advanced algorithms trying to correct themselves. Amazingly enough, a skilled handler was necessary even whenever AIs were involved to facilitate the focusing of their devices."
+
+Amara scoffed.
+
+"AIs? Schema could easily focus a camera."
+
+Chrona narrowed her eyes.
+
+"Ah, you say that, yet have you ever seen Schema focus one?"
+
+I raised my hands.
+
+"Perhaps we could focus this conversation?"
+
+Chrona stood tall.
+
+"See? It's more difficult than one would imagine. Even a guildleader can struggle with it."
+
+I pinched the bridge of my nose in frustration, yet smiling all the while.
+
+"Ok, I've taken out two of the pillars so far. We need to establish some territories and cities. Opal told me it would require quite a while to clear this colossal planet, should we choose to do so."
+
+Opal hopped over.
+
+"Ooh, but this isn't a colossal class. This is a massive class planet. It's a tier below the absolute apex of a planet, but yeah, it's pretty huge, all things considered."
+
+Chrona's eyes widened.
+
+"What are the tiers of planets?"
+
+Opal counted on her hands.
+
+"There are five. Dwarf, normal, large, massive, and colossal. They tend to rise by orders of magnitude. Earth is a normal planet that's turning into a large one. This planet is a massive tier world. A colossal world is almost a theoretical concept more than a reality, though I've visited one planet that was the size of your solar system's Jupiter."
+
+Hod moved a few of the cups he played with.
+
+"Did shiny lady clear big planet?"
+
+Opal waved her arm.
+
+"Oh, absolutely not. I was on a team of over a hundred Fringe Walkers. We'd need that kind of force to clear this planet out within any kind of respectable timeframe."
+
+I let out a sigh.
+
+"Well, I'm going to need a lot of golems then. Thousands and thousands of them."
+
+Amara stepped up to me.
+
+"You will create your pack of wolves. Simple enough. However, have you read my missives?"
+
+"Give me a few seconds."
+
+I began reading them, having thirty minds dedicated to the task. They each read a paragraph as I let a moment of silence stretch on. When I finished, I swung my hand as if i just remembered.
+
+"Yeah, the ones about leylines and their potential use cases, right?"
+
+Amara took a breath.
+
+"I have analyzed several of the leylines you left here. They shift mana and tame it, somewhat. They still harbor the ability to overwhelm one's mind, but the effect on the growth of creatures is far more...Sensible. When used with animals, this mana may make them able to evolve into elementally imbued versions of themselves instead of eldritch. Volatile, yes, but virulent? Not in the slightest."
+
+I nodded, remembering how I frolicked with the ice foxes in the snow of the Frostlands. I spent several days getting them to warm up to me, and it had been totally worth the investment in time. I should've taken a few with me, actually. I gazed down at Amara,
+
+"I figured as much. How are the runes coming along?"
+
+Amara turned one palm to a status screen in front of her.
+
+"I despise being a bearer of good news, but the systemization has proceeded better than I anticipated. These system updates...I detest admitting it, but they have altered my perspective in many ways. These leylines will be a key innovation for both the eldritch and sentient species. For your kind, it will help to stabilize and reduce the chances of rampant, cancerous eldritch from forming."
+
+Amara moved her other hand to face me.
+
+"It will help my kin as well. If we tie these leylines to pocket spaces, we can prevent interdimensional energies from infesting the eldritch whenever they traverse the cosmic distances between our clashing dimensions."
+
+I furrowed my brow.
+
+"You're saying that leylines work on interdimensional energy?"
+
+Amara cackled.
+
+"As of yet, they are far from perfect, but initial tests have been promising. They could be the key to saving us and them."
+
+I smirked.
+
+"Wouldn't your wolves become lambs then?"
+
+Amara smiled, the expression a display of pure joy.
+
+"We would, wouldn't we?"
+
+A wholesome moment passed over us before Hod ran over and hugged her.
+
+"Hod love pretty lady."
+
+The smile died as quickly as it spawned, and Amara shoved Hod away from herself.
+
+"Get away from me, you fool."
+
+Opal puffed her chest out and whipped her hair back.
+
+"Ahem. I also have made remarkable gains since we last met."
+
+I furrowed my brow.
+
+"That was like ten hours ago?"
+
+Opal swung a hand back, completing the pose.
+
+"I know. My pace of progression surprises even me. Heh, ok, actually, I figured out where to get my inspiration from. You know how I thought the heat mana was way too much?"
+
+I gave her a curt nod.
+
+"Yeah."
+
+Opal raised her hands with excitement.
+
+"I looked into the cold mana instead, and I found it just as meh."
+
+I frowned.
+
+"Uh-huh...How is this helpful?"
+
+She gestured to our surroundings.
+
+"Because we live in the life-attuned mana section of this world. I thought that the inspiration for my next step would come from exploring the far reaches of Rebirth, but no, that wasn't it at all. Instead, I should've opened my eyes to everything around me."
+
+She put her hands on her hips.
+
+"It's like I said. Light gives life. Well, I'll channel that mana and turn myself into what I believe stars are instead of what the eldritch seem to think they are."
+
+I frowned.
+
+"I mean, I've felt a star up close before, and they're not really these giant light bulbs in the sky. That's just how we experience them. The reality is, they're gravitational furnaces. I mean that as literally as I possibly can. They use friction between matter and gravity to create the greatest bursts of energy this universe has ever known."
+
+Opal let out a laugh.
+
+"Hah. Good one. Everybody knows that even quasars are nothing compared to the Old Ones."
+
+I paled, remembering my contract with Shalahora.
+
+"I'll ask you about it later."
+
+Chrona put a tail on my shoulder, patting it.
+
+"Be calm, little one. You've come far, and you have farther to go still. There is much to learn, but we will achieve it. Make no mistake on that."
+
+I grinned.
+
+"Eh, I'll be doing my best. It's also good to see everybody taking this trip seriously. Things are coming together."
+
+Amara frowned, returning to her normal expression.
+
+"I was afraid to ask you. What have you learned of my origin?"
+
+I took a breath.
+
+"Honestly? Very little. From what I've gathered, this planet has been here for a long time. We're talking, at the bare minimum, ten to twenty thousand years. Hell, Firamnia talked about pre-system times, so who knows how long the planet has had to weather all signs of your culture."
+
+The light in Amara waned.
+
+"Ah...I see."
+
+I raised a hand.
+
+"However, I've only tackled two of the rulers of this planet. I haven't actually explored much. That's why I'm going to be taking a while to grind out my golems and clear some dungeons. Speaking of-"
+
+I spread my hands.
+
+"I'll be going into my workshop and making a few thousand golems. Does anyone need anything in the meantime?"
+
+Chrona tilted her head.
+
+"Do you even have that many cores?"
+
+I shook my head.
+
+"Actually, you're right. Scratch that schedule. I'll be harvesting part of what I need from the lands here. After all, there are plenty of dungeons at the right grade for blue cores. I'll just swing by and pick those up real quick."
+
+Hod stood up.
+
+"Hod help Harbinger?"
+
+I furrowed my brow.
+
+"Huh...You know what? That'd be great. I could use the cover to sneak in and sneak out of the dungeons since I don't want to spend years clearing the damn things. You can do that, right?"
+
+Hod saluted me.
+
+"Hod yes. Hod like awkward memory. Hod in background, and strike when least expect it."
+
+I smiled before frowning. I peered at Opal.
+
+"We can just take the cores without clearing all the dungeon, right?"
+
+Opal rocked back and forth on her feet.
+
+"Hm. Yeah. You should be able to, especially in a world like this where the dungeons aren't in enclosed spaces. In fact, stealing dungeon cores is a perfectly viable path of progress that Schema recognizes with a multitude of classes. They're called thieves, and they often work with empires and other, shadier organizations."
+
+Amara hissed.
+
+"They sound like leeches."
+
+Opal weighed her hands back and forth.
+
+"Compared to a Fringe Walker, sure, but the crux of what thieves do is steal from the eldritch. That's because those cores are part of how an eldritch gets strong in the first place. If you take the source of their power, then the boss monsters lose the primary source of their strength. At that point, it will languish in its lower-energy environment."
+
+Chrona leaned closer.
+
+"Wouldn't that leave the eldritch to break the walls of their prison and destroy the realm in due time?"
+
+Opal shook her head.
+
+"At that point, the boss eldritch are much easier to eliminate. Instead of being empowered by the second, they weaken. By the time they break out, they usually lose a few hundred levels and aren't as difficult to take out."
+
+Chrona leaned down, resting her head on her paws.
+
+"Wouldn't the rampaging eldritch still be a problem?"
+
+Opal nodded, her hair frolicking about.
+
+"Oh yeah, but that's why it's important to scout out the dungeons beforehand. If you have knowledge of what they'll be like, then you'll know if they're a good candidate to steal from. Some eldritch bosses are quite perceptive, and they'll kill a thief no problem. Other bosses are as aware as Hod over here, and that makes them easy pickings."
+
+Hod lifted an empty cup.
+
+"Shiny lady not know what Hod really like. Hod have dark side."
+
+Opal guffawed.
+
+"I've seen Other Hod before."
+
+Hod turned, his voice turning into a sinister squawking,
+
+"Hod have other dark side. It even darker. Like shadow of shadow."
+
+Opal put her hands on her hips.
+
+"And what might that be?"
+
+A wave of yellow mana coursed over him, flowing like glistening silk.
+
+"Hod see the world as it is. Hod know someone find this world soon. We not ready. It too strong."
+
+We all turned to him. Hod's eyes turned blank.
+
+"Hod think maybe true, but could be Hod have bad food lately."
+
+Part of Hod enveloped in shadow. Other Hod murmured.
+
+"You need to watch what you eat."
+
+Hod grabbed his neck and began strangling himself.
+
+"Hod never."
+
+They fell to their side, rolling away. Opal shook her head.
+
+"So uh, anyway, that's why there are lots of scouting classes in Schema's system. They help people choose the right dungeons to clear."
+
+I grabbed my chin.
+
+"Hm, I intend to do as those thieves would. If the eldritch are easy to kill and aggressive, I'll kill them. Otherwise, I'll leave them be. Hod, when can you leave?"
+
+Hod lifted himself from the ground while making a dancer yoga pose. He cawed.
+
+"Hod always ready. Always."
+
+I smiled.
+
+"Then let's head out."
+
+We bid our fellows goodbye before racing across the icy North. My dimensional wake helped shield Hod from the tundral energies, and we found blue cores all over the place. Well, that was a bit of an exaggeration. In general, we could find one every ten thousand square kilometers. While that sounded like one every blue moon, it was worth remembering how expansive these territories were.
+
+It would've taken forever to find the damn things as well, but I abused the system's mechanics a bit. Flying high, I molded my head to stare in two different directions. I did, in fact, look like a total freak while doing so. Anyway, I did that to get a larger view as I traveled. Schema marked dungeon spots as I did, and Other Hod charted paths to those dungeons. Hod was moral support.
+
+Like a lawn mower, we flew back and forth, stealing core after core. Hod's shadow magic made the entire process far less violent, and I only needed to kill one-fourth of the dungeon leaders. The reality was I killed every one of them if they looked remotely aggressive. Hod's stealth made that much easier since the boss eldritch didn't dematerialize before I hit them with a swarm of singularities.
+
+The sheer speed of our clearing made me rethink the whole stealth sucks thing I had going on. After all, clearing in secrecy was about three times faster than fighting the eldritch outright. It took on a repetitious air over time, but I occupied myself aplenty by channeling runes and whatnot. Either way, all the eldritch murder resulted in sizeable experience gains for both of us.
+
+Schema recognized our efforts for stemming the endless tide of eldritchification after three weeks of taking the blue, spherical bounty.
+
+Quest: Conquering a Desolate Land | Rank: S- | Description: As a Sovereign, your path is to rule. To do so, you must conquer, and conquer you have. You've taken over five hundred cores from the domain of the Frostlands. This has reduced the eldritch presence while showcasing a dedication to your cause.
+
+By stopping this tide, your people can continue to breathe.
+
+That stemmed tide has given a reprieve to any citizens living in the Frostlands. All that is left is to kill the weakened eldritch after watching them wane. This is noble work, and you will be aptly rewarded for your efforts.
+
+Awards: +100 blue cores
+
+Schema was definitely doing this on purpose. The quest reward was exactly what I needed and when I needed it. Instead of pondering Schema's deeper machinations this time, I took a moment and thanked him for once. He was actually helping me stop the eldritch menace after all, and that was a true blessing.
+
+Hell, if this was what the system was like for most people, it made a lot of sense why most held the AI in high regard. At the very least, my personal opinion of him was rising by the day. Having handled the supply of cores, we rode back. It was a peaceful three weeks, and Hod talked about all he'd done.
+
+I listened all the while, making sure to appreciate him for who he was. Yeah, Hod could be a bit much, but the guy was genuine. He didn't lie, and he was a good friend. You know, the kind you wish you had but know you didn't deserve. Either way, we got back to the capital, which I really needed to name.
+
+I kept the cores in tow, and I got to work forging as soon as I arrived. I read a few missives from Amara as I did, keeping up to date this time. A pile of reports had also flooded in from my guild, but they weren't in absolute chaos like last time.
+
+I would need to clear out a few dimensional tears, a few avatars, and apparently, Kriiyah had sent out a few agents to the planet's outskirts. They sowed chaos in less-known areas according to my executive golem, but a wave of relief washed over me when I read no reports of end-state eldritch. I'd have to return if that were the case.
+
+The guild also took charge of handling many of those threats. Shalahora and Plazia, in particular, took out several warlords and malicious actors, though the avatars skulked in the wilderness of Earth. Other than that, there was a limit to what I could do. I bolstered Earth's defenses and gave them thousands of golem-empowered agents, hundreds of cities, and an economic headstart.
+
+The fact of the matter was that forces from across the galaxy and beyond were bearing down on Earth. I couldn't keep everything running smoothly by myself, and most newly initiated worlds would've already been crushed like a melon under a hydraulic press if in the same situation. A few quick conversations with Opal verified that, and she was amazed we'd even offered this much resistance.
+
+It turns out that not many planets handled rampant outbreaks from avatars and intergalactic horrors bursting out of the gaps between dimensions. It was also worth mentioning that I would be crushed alongside my planet if I didn't amass some personal strength and find some long-term solutions. These leylines seemed promising, and getting Amara into tip-top shape would help my rune refinement.
+
+Getting my levels sorted, harvesting cores, and maybe even assimilating them would be nice, too. According to my status, I had only taken in red cores for around 4,500 levels. I had so many status points sitting there, unused and wasting away because I ran around putting out fires. I still lacked a Sovereign skill, hadn't unlocked a new tree in a while, and hadn't completed Shalahora's training.
+
+It fell to the wayside as everything turned chaotic.
+
+However, not every planet was a total shitshow. Blegara had evolved into a veritable paradise since we incorporated the spirits. They cleared out many of the eldritch hotspots, waging a planetary war to revitalize the environment. The reduced density of eldritch took away the fringe status from Blegara, and the Vagni were taken into the system fully, helping them gain levels.
+
+Many gialgathens relocated there, and quite a few humans followed suit. A few even talked about how it would be a backup world for humanity, and I couldn't blame them. The universe had designated Earth's fate as one of a wasteland where cosmic horrors came out to play. Against those odds, not many people maintained morale.
+
+Oh, ho ho, but I did. They thought that this would stop me? That I'd throw some pity party for humanity in another world? Absolutely not. The universe would be damned before it took my blue mudball away from me. They'd have to pry it from my cold, dead hands. Or dimensional wake. Maybe my pocket dimension?
+
+I didn't know or care. The point was, I'd go down fighting. However, I wasn't about to make humanity face this crisis with me, so I set up alternatives for our home. That backup planet evoked an intense appreciation for my war against Elysium. While Obolis dragged me into the conflict, it gave me a way out of an otherwise insurmountable position.
+
+To make it more surmountable, I took a few days to experiement using new techniques. I wielded my dimensional wakes and alternated their presence as I had to save Torix. In this case, it was the Rise of Eden and Perfection's Providence. It took several hours before I implanted my will into the area. It took several days after that to recover from the sheer effort.
+
+Despite the struggle, I could assemble the strange dominion over reality at will. As I did, I studied the effects. As was the case with Torix's new body, I could use multiple-dimensional wakes in tandem. I already used that to save Torix, but it was good to verify that it was a repeatable boon. In this case, I gained the stat boosts of the Rise of Eden alongside the rigor of Perfection's Providence.
+
+To my surprise, Event Horizon couldn't be summoned in this duality. It turned out that the wakes I could use were dependent on what I cleared the dimensional space with. Other quirks of the cleared area involved a greater fluidity in my runes and my mana channeling. Everything bent under my will just a tad, and that resulted in far better gains when trying to change the laws of nature.
+
+That included my nature, which was what I tried doing when channeling runes. Even better, I could change the difficulty of certain magical techniques. That was where the biggest boon came from - comfortable time magic. Up until now, time magic had been the most debilitating magic I'd ever used.
+
+I normally had to saturate my wake, and that painful process allowed me to compress my dimension. When in dominated space, I didn't need to do all that. I could bend the time that took place here and face no unease or discomfort. It bolstered my morale by leaps and bounds. After all, I had already relegated myself to an eternity of suffering, but that was no longer necessary.
+
+As if I relinquished an enormous burden, I could handle mana channeling while experiencing a normal, human experience. Even better, by having more comfort, I could put far more minds into other tasks, and the golem crafting was a great example of that. Within the first week after implanting my will onto space, I made all six hundred of the cored golems alongside three thousand uncored ones.
+
+They were better models too, carrying superior mental faculties and combat effectiveness. Quite a bit of that improved productivity came from accessing two dimensional wakes at once, but it also helped to be comfortable. I also incorporated a few leylines for the sacrifice mana. While channeling it, I thought faster, clearer, and without as much hesitation.
+
+All of these factors resulted in a rapid creation process for the golems, and since no people were out there, I could just send my golems out to clear different areas. Once finished, I decided to be selfish for once. Before moving out of my conquered area, I spent a week channeling my mana to experience mental rejuvenation.
+
+Man, I needed it, too. Spending months on end in such a twisted mental state left me tired down to my bones. It wasn't from a lack of stats or attributes, either. It was an existential dread that had soaked into me from all sides. I mean, who would want to live the way I had forever? Not me, but it seemed so necessary.
+
+I needed to keep up, but trying to scramble ahead left me shuddering at my future. That was no way to live. Hell, knowing I wouldn't need to do that forevor gave me renewed vigor for my future. If I mastered this technique, I may one day carry it around. In that situation, I wouldn't need to live in some twisted approximation of life.
+
+I would breathe and be whole.
+
+Having that second wind at my back, I cleared my headspace while my golems wreaked havoc and cleared out the Frostlands. It would take them several months to get rid of all the territory's most virulent monsters, but the process would speed along as they went. They'd give me cores, and I'd make more golems. We would have a cleared world coming soon.
+
+Standing up from the meditation, I felt ready for what was to come. I stepped out of my owned space, and everything crushed around me. The pressure was a tangible thing, but I welcomed it. Spreading my hands, I clasped my fists. It was good to be alive. I had a few notifications, but I'd read them after heading out.
+
+It was time to destroy the time area with Chrona.

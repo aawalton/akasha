@@ -1,0 +1,233 @@
+---
+id: bfe14d7b-ecad-5ecb-bd1d-6318f55e5f2b
+page-type-slug: story-chapter-royal-road
+title: "390  The Broken But Unbreakable [II]"
+slug: 0505-390-the-broken-but-unbreakable-ii-3586079
+partOf: path-of-the-deathless-book-4-completed
+position: 505
+ownLength: 5418
+unit: words
+publishedAt: 2026-06-24
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3586079/390-the-broken-but-unbreakable-ii"
+royalRoadId: "3586079"
+---
+
+Despite the best efforts of our mystics, intelligencers, engineers, biologists, and scientists, we have not been able to achieve a perfectly indestructible weapon. Project Unkillable was an expensive moonshot, costing a great deal in time and resources, but it was also a worthwhile endeavor. It taught us more about the metaphysics of the Toughness Skill than any other undertaking across all known Integration and the countless dimensions it embodies.
+
+Beyond the naturally occurring metals and materials, adamantine, mithril, orichalcum, and arcanite constitute the most popular alchemical transformations of existing matter. As most of these metals are created from great acts performed within their vicinity, causing local environments to absorb a higher threshold of mana and undergo its own territorial evolution, thus transforming all local rare earth minerals into something greater than the sum of the parts over eons, we attempted to see if we could replicate the very same process to create the sparsest material of all: that oft-dubbed Narritivium—another one of the System’s deliberate lies.
+
+To our surprise, the reconstruction of Narritivium was the easy part. However, replicating its “indestructible qualities” proved nigh impossible.
+
+Understand that Narritivium’s name should be Sacrificium or Sacrifial if the System bothered applying the full truth to its design. It's ultimately not even a true material, but rather a metaphysical trait placed upon an existing material. This is why Sacrificium routinely takes root inside something like orichalcum—because it does not break and oftentimes even survives the death of the world and civilizations that spawned it, and in the best of cases, even the wielders that use it.
+
+Narritivium does not make your Toughness absolute—for there is no Tier of mana that is absolute. Understand that the System is constantly building to new thresholds of power and generating new dimensions from the conflict it harvests, but even the hardest, most adaptive of Toughnesses can be worn down with enough time or the right application of force. Even with magic, materials are still bound to certain aspects of Pre-Integration law.
+
+However, Narrativium is more than capable of “bypassing” the mandate of its own destruction because it is tethered to the System itself in ways we do not understand, and rather than suffering an impact directly upon its material integrity, the damage it is supposed to sustain is thereby “displaced” across Integration—or so our Intelligencers theorize. A blow capable of extinguishing a galaxy is a tremendous amount of force—but distribute that across all Integration. This allows for a sort of “existential nullification of impact and harm” on the part of the Narritivium, so it endures as it always has in its legend, while all things it was once tied to are consumed by destruction or decay.
+
+We have tried to transplant this mana design as a Skill into volunteer Pathbearers and in our Endhounds, but the results have always been less than ideal. The complexity of Narrativium’s metaphysical nature is only reliably woven at the system’s hands, for simply embedding such a modifying skill without defining what is meant to take damage on behalf of the Pathbearer or item will usually cause rampant, uncontrolled harm to others and objects in your surroundings—but also shatter the other skills stored within a soul as well, for they remain the most connected things within an Pathbearing entity.
+
+More than even complexity. It's a simple fact that the nature of Narrativium is tied to the System's vitality and the vitality of sacrificially-displaced objects—the exact mechanics elude us to this day.
+
+At present, though select Farwalkers have evolved their own Narrative-related Toughness Skills for their Legendary-Tier foundations…
+
+—Beasts of the End, Tenth Edition — Farwalker Endhound Deployment Manual
+
+390
+
+The Broken But Unbreakable [II]
+
+The first change that came with this Legendary Skill Evolution was the loss of the pillar itself. No longer was Shiv rooted in place by his Toughness, nor was his flesh wreathed in the red-gold glory of orichalcum. At first, it seemed like a de-evolution. Shiv felt more brittle than he'd ever been. His flesh returned to the softness of human baseline, and his bones and muscles, though impressively strong, lacked that additional structural reinforcement that came with Adamantine Adaptation or even his Diamond Shell.
+
+It felt strange, feeling the wind brush over him so acutely, sensing the slightest changes of temperature in the air. But the moment he felt discomfort, his body radiated with a silver-platinum glow, and all that ailed him was reduced to a muted presence with this initial triggering of his new Legendary Toughness. When the radiance died, Shiv found his biology changed. Instead of being wrapped in layered skin, now he was woven in a dense nest of fibrous threads. The countless strings were thinner than his hairs, but felt stronger than metal; more than tensile strength, however, they reduced his sensitivity to the wind and heat, applying a most impressive coating of insulation to his form.
+
+Startled by his physical transformation, Shiv found himself unprepared to face the first of the Uvas. With no time to react and no experience with this new skill, Shiv could only plant himself in place as her fractal blade came forth to pierce his flesh. Shiv parried with his upper forearm—better to be split there than any other part of his body. He struck Uva’s hand, driving her stab off course.
+
+All in vain.
+
+The fractal blade scattered and sliced forth in an instant. Even as Shiv controlled her dominant hand, the thin-edged geometrics she wielded tore out in a wall of shrapnel, tearing across Shiv’s torso and jaw. He tensed, anticipating the flaring pain of torn skin, severed sinew, split bone. But the dense fibers lining his body endured. Individual strings were severed, but it was like losing hair rather than amputating tissue. The fractals sank deep but found themselves caught on the stubborn lengths of metallic tendrils.
+
+If the Aberrant Fractals traveled a half-second longer—or were the Fractured Spiderlings Uva now commanded—they might have gone through Shiv’s exoskeleton and painted a bloody gorge through his insides, but his Brittle Unbreakable triggered once more. The nested strings coating him flared with silver, and Shiv transformed once more. He felt his adaptation more acutely this time: the fibers pooled together into dense plates of metal and bone that vibrated at a screaming frequency.
+
+In an instant, the Fractals were caught by a hostile frequency and rebounded or shattered. Shiv halted the heart of the first Uva with his Biomancy and watched her fall, toppling alongside the surviving fragments of Aberrant Fractal. Regarding his limbs once more, Shiv saw that his body was shivering on the outside, while his muscles and structure remained stone still. He'd grown a shell of vibrating metal that sang with a screaming pitch, and the way his flesh resembled moving landslides of plated metal made him think of Jessica's Inertium armor.
+
+“Okay.” Shiv nodded. “Not a de-evolution at all, then.”
+
+A series of doors swung open along the hallway. More Uvas came forth, each of them bearing their fractal blades in grim determination to see him cut down so they could finish Adam and restart the simulation. Shiv hardened himself, felt part of his abdomen tear open as he wrestled against his emotions.
+
+The rest of wave one came. Shiv gored himself open in defense of Adam. In a twisted way, the System used Uva as an instrument of coercive self-harm against Shiv. Yet, though his flesh cracked and his blood flowed, Shiv remained unmarred by the fractal blades striking and recoiling from his flesh. He proved downright immune to her attacks rather than merely resistant, and even when he tried to cultivate more Toughness, his altered body remained the same. It neither transformed nor gained any additional density, as if the skill could be no Tougher—or didn’t see the need in such a pursuit.
+
+He didn’t bother using his Biomancy on the Uvas this time. He turned his gaze away and unleashed a torrent of scintillating fire. He forced himself to ignore how enticing Uva’s cooked remains smelled—and how it afflicted him with agonizing hunger.
+
+“It is not an act of cannibalism if it happens in your soul,” the Nihilist taunted him. The skill’s voice was dark, playful, and unappreciated. “Oh, don’t look at me like that. You could just eat a piece of cooked orichalcum around you. The flavoring is from the ambient philosophy more than anything else.”
+
+Shiv ignored the skill and the grilled bodies as the first trial came to an end. Behind, Adam continued coughing and twitching where he lay, enduring his own misery while the Deathless endured as his guardian.
+
+“Alright,” Shiv said to himself. “Can’t really get tougher for some reason, but it’s like I’m adapting perfectly to whatever form of physical force I’m facing. I can work with that. I can definitely work with that.”
+
+But then a memory came to Shiv from his Leviathan Delve. He knew what adversary was waiting for him at the end of this, for every Pathbearer had an absolute nemesis in the shape of themselves.
+
+Encounter Complete (1/5)
+
+Adjusting Legendary Skill…
+
+Initiating Encounter (2/5)
+
+Wave 1 activated.
+
+Wave 2 activated.
+
+The doors swung open once more, filling the halls with murderous Umbrals, and then the grand gate came to life, unleashing a horde of Legendary Vultegs who roared and raved for Adam’s blood. The Culturist would be coming soon as well, and Shiv had questions as to just how far his adaptive Toughness could go. But even if this Legendary Evolution was all he could dream of and more, there was one final problem he couldn't quite shake. If he could become immune to all forms of damage, didn't that mean his alternate self would gain the same power?
+
+His worry was calcified as the first of the Urris slammed into him, throwing an explosive haymaker that sent a shockwave pulsing down the hall. The Uvas were flung through the air and trampled beneath the other Urris that came charging forth. Like with Uva, he had fought defensively at first, blocking strikes rather than taking them dead on. He was wise to do so. The first blow Shiv endured caused his forearm to fracture.
+
+The floating plates that constituted his armored exoskeleton burst apart, and the frequency went off pitch. Shiv bit back a growl of frustration as he ignored the pain, and then more blows came: elbows, kicks, punches, knees, and lashing tentacles connected to the massive heads. The Urris battered and slammed Shiv from place to place, but his strength proved superior to theirs. Even as they jolted him, he kept himself pinned, spiking his Shapeless Tides straight down as he refused to be dislodged from the doorway.
+
+He retaliated with his Legion of Self. Instead of wielding several bodies at the same time, he unleashed his magic in concert. His Biomancy and Pyromancy were unleashed at the same time. Shiv's mana hydra became extra limbs, heads slamming against the Vultegs and driving them back by centimeters as he rained a chain of laceration spells down upon their heads. At the same time, he let the Nihilist kindle, feeding off the Urris' simple philosophies. Soon, the very chamber was swallowed by scintillating flame again, and the grey conflagration boiled away at the Vultegs. It was a testament to Urri's Legendary Magical Resistance that he wasn't brought low immediately, but Shiv could feel him straining and groaning. This entire hallway went from a battleground to a cauldron, and the struggle became one of direct attrition–something that favored Shiv.
+
+The subsequent blows he took nearly dislocated his elbow, bruised his sternum, rattled his jaw, and left him with a bloodied nose. But these were meager blemishes, unworthy of being called injuries at all. Shiv fed them into his Aegis of Assimilation anyway and returned himself to a pristine state. If this was to be an enduring struggle, then he would see the Urris made into fried salami before he was ever driven to the brink.
+
+The equation further shifted in Shiv's favor as his body flared silver again. The change came without any warning, without any sensation. It didn't even cost him any strain. His Toughness transformed again, but not so dramatically. His exoskeleton remained, as did the vibrating plates that guarded him from Uva’s fractals. What did change was the sub-shell underneath his outer exoskeleton. As the plates were broken or ruptured, the Urris ended up slamming their fists against a dense crystalline crust that displaced kinetic energy, causing it to dissipate through Shiv. Furthermore, his inner shell was further supported by veins of red and gold, the color of orichalcum blazing bright in a spider web of reinforcement.
+
+“Why? Why won't you fall!” an Urri roared, slamming his head against Shiv's, who grunted and head-butted him right back. Neither managed to hurt the other, but Shiv was far stronger than his counterpart and thus sent that Urri tumbling back and crashing into a wall of his clones.
+
+“You got pillows for hands,” Shiv taunted, sprouting an unchanging smirk as the others continued battering him with all their might. “You'll never gain the favor of Lord Scorn if you keep fighting this way, you know that?”
+
+With so casual an insult, Shiv saw an eruption of enkindled flame mingle with the grey and glittering Pyromancy that continued eating away at the assembled Urris. There were different kinds of idiots. Some were easy to bully. Others were too simple to even know when you were bullying them. Urri was most definitely the former.
+
+“I kill you! I shit in you, and then I make the shit inside you spill into Adam!”
+
+Man, the Scorn guy's really into shitting inside Adam. He just won't let it go. Shiv grimaced. As the fight went on, he noticed part of the surrounding walls sloughing, the Nihilist turning even Orichalcum into edible materials. He ripped out a strip and placed it in his mouth, chewing and grinning as a glowing layer of orichalcum skin grew over him, further augmenting his already considerable Toughness. Shit, that's a useful Unique Skill. A lot more than just Pyromancy. And it would be even better if I had my Last Morsel. Wish I had the chance to eat my hollow flame. That might have been real useful right about now.
+
+But as his mind got to this point, he realized his thoughts were too narrow. His surroundings could still be weaponized. He wasn't using nearly enough skills at the same time. Even without his toughness, he had his Garden of Wounds and Broken Things. Furthermore, he had another, more dangerous means of retaliation on top of his magic.
+
+Reaching out, Shiv sacrificed a few of his Shapeless Tides as he tore jagged chunks free from the surrounding walls. He then wielded these blades as his namesakes, their edges glowing with Vitae as he unleashed his cutting aura into the onrush of Vultegs. His slashes swept through their bodies, slicing into their mana, piercing their magical resistance, and causing them to flinch back in displays of pain and surprise. Already winnowed by his Unique Pyromancy, the first among the Urris lost one of his head tentacles, severed clean under his jaw by a crescent wave of vitality.
+
+And suddenly it was Shiv on the offensive. He slashed and gored, stabbed and carved. His blades were imbued with the might of his Severed Shadow, and though it still treated Magical Resistance as if it were armor, mere matter was regarded as less than butter, serving no protection at all.
+
+Shiv focused on one of the Urris in particular—reached out and caught a rival brood in a collar-tie clinch as he rammed his orichalcum blade into the Vulteg's throat over and over again. Through it all, Urri threw wild hooks that slammed against Shiv's ribs. It dented the orichalcum skin that served as Shiv's outermost layer of protection, but everything within remained unburdened, unbothered. In fact, every punch Urri landed caused ripples of displaced kinetic energy to shudder and crack the surrounding door frame, driving the other Urris back.
+
+As Shiv chiseled away, trying to open that Urri's throat, a memory came back to him: the Undying Tarrasque had layers of adapted armor as well. Its shell was on the outside, but within were further structures of reinforcement. It shrugged off Legendary blows as if they were nothing. A jolt of understanding coursed through Shiv. This was a Tarrasque skill. This was the very same Tarrasque skill that the Undying Tarrasque possessed.
+
+Never gonna let me forget I'm partially a monster, are you, System?
+
+Then, to Shiv's delight, he felt his blade breach through Magical Resistance and split through flesh, bone, and neck entirely. With a casual flick of his blade, Shiv beheaded the Urri with all the difficulty of someone cutting through air. It took an entire group of Legends and Heroes to pin Urri in the academy’s teleportation anchor, and even then, Shiv had to drain the vitality out of him to accelerate his demise.
+
+“Not nearly so difficult for me now,” Shiv muttered.
+
+But then something materialized in front of him. It arrived in a blur and gave off a pulse of dimensional magic. The Culturist emerged, teleporting where Urri's corpse once was—swapping places with the body to ambush Shiv.
+
+Once more, Shiv was taken by surprise, and once more the Culturist struck. This time, however, he didn't start with a palm, but instead, drove two fingers under Shiv's elbow, a casual touch that rendered the limb numb and useless. The blade Shiv clutched went flying out of his spasming fingers, and his arm began twisting against his will, trying to unlatch from his shoulder, its muscles twisting and stretching, attempting to rip free from his skeleton. Shiv bit back a growl of pain and annoyance and tried to bash the orc with his compromised limb—but it refused to listen to him.
+
+Godsdammit!
+
+Shiv shot in low, tried to secure an underhook to keep the orc close and drain him barren of vitality, or tear him asunder in a direct competition of strength against strength. But the Culturist anticipated Shiv's attack and slammed his index finger between Shiv's eyes. A flaring burst of pain spread from the top of Shiv's skull to the base of his feet. His stomach churned and swelled, threatening to rip itself apart from the inside, but he didn't care. Shiv was prepared this time. He wielded his Aegis against himself, ready to rip his biology asunder and reconstruct what was missing to keep fighting.
+
+But before such a necessity came to pass, Shiv's Toughness transformed again. Its alterations were drastic this time. His exoskeleton changed. His vibrating plates were gone, and in their place was a thick nest of writhing nerves. Shiv realized he was coated in a messy jungle of tissue, and for a moment, he wondered why. His answer came when the Culturist struck him again, and nothing happened. Instead, Shiv felt his outermost layer break free from his body, bursting off of him like expendable chunks of flesh. A hurricane of impacts slammed into the Deathless. He was struck all across his body, and the Culturist blurred and blinked, appearing from point to point as he tried to hammer every single meridian he had an angle on.
+
+But though Shiv found himself stymied and frustrated, unable to clutch the orc, grasping at afterimages and fading echoes, the Culturist's attacks were also feeble. Shiv's flesh-coat suffered deformity and exsanguination on his behalf. Parts of it ripped free from him, tumbled off in sloughing chunks. The ground was covered in blood, but though it felt like someone was peeling layers of skin off of him, Shiv's limbs obeyed him again. Shiv's organs refused to rebel and sunder. It was like he had an expendable layer of outer meridians, or however the Culturist's Striking Proficiency worked.
+
+Shiv sent a mana hydra head coiling around, trying to encircle the Culturist, but he simply teleported, vanishing from sight as he left a telepathic message behind. “What a vexing Toughness Skill you have. The Brittle Unbreakable—Durability befitting an apocalyptic monster indeed. Yet it is titled brittle for a reason. You are nowhere near invincible, Deathless. Not nearly.”
+
+Shiv wanted to chase the Culturist down using the Harbinger, but remembered the skill was still fractured and needed to recover. His attempts to harass the Culturist socially were further distracted as another wave of Urris crashed down on him. Their fists fell. The last bits of orichalcum lining his outside were shredded. The Vultegs tore through his outer coating of nerves, exposing the crystalline shell below. And the moment they did, the Culturist returned, teleporting in with a thrusting knife hand.
+
+A hand that Shiv caught with a scoff. “Predictable. The real Culturist would be embarrassed.”
+
+As the orc tried to pull away, Shiv did the unexpected. He stepped forward and let the orc land his strike instead. He felt a traveling force gliding through that kinetic, displacing Aegis until it arrived where his softer insides were, passing through his deepest skin into his organs, into his bones and meat. Then Shiv began ripping from the inside, but instead of trying to fight it or waiting for his toughness to adapt, he used another of his skills. As his body burst apart, he didn't die; instead, he transformed as the hallway was filled by a flood of debris and injury.
+
+The Garden of Wounds and Broken Things had come into the fray and changed the equation once more.
+
+All the Urris and the Culturist were caught off guard. The Uvas did not need to be regarded, as they had already fallen to Shiv's conflagration. Even now, his Pyromancy continued to burn, and some of the Vultegs were actually starting to cook, their armored skin charring, their eyeballs turning red and bursting from within. The Culturist attempted to teleport, but Shiv slammed his Overflow Tides down upon the orc, pinning him in place both physically and magically. At the same time, he compressed his wounds and ruins, clutching the Culturist in a fist constructed from pure devastation.
+
+He squeezed the orc, physically draining his vitality, and channeled a blast of concentrated flame directly into his abdomen while also slicing and lashing at him using bladed whips and his mana hydra. Furthermore, as the Culturist tried to wriggle free and punch through Shiv's ruins, his fists bounced off, for Shiv's new Toughness Skill seemed to infest even his Garden of Wounds and Broken Things. Every one of his injuries was preserved in a crystalline cage—like the damages that made up the garden were collector's items set to be displayed in a museum.
+
+“Well… played…” the lesser Culturist gasped as Shiv wrenched his remaining life force away. His flesh cooked; his body was crumpled into a ball, and finally, Shiv turned his attention on the struggling Urris as he began butchering them one after another.
+
+Should have done that to start with, Shiv thought to himself. But honestly, I didn't realize my Toughness Skill applied here. Pillar took too long to build up for the Garden, and with how it grows stronger through damage, didn’t seem worth it. Now though… Actually, now there's a problem. If my Toughness Skill lets me adapt to almost any damage, that means that the Garden is not going to get nearly as many injuries from me. And also, where the hells is the fist?
+
+The absence of the Red Rider's Hand filled Shiv with a dark sense of foreboding rather than any kind of relief. It should have been here. It wasn't equipment. It was supposedly grafted onto him, but the System seemed to deem that otherwise. Or perhaps it simply didn't want him to use the hand for this challenge.
+
+After all, if Shiv had the hand, his strategy would have simply been to place the hand in the doorway, thus blocking anyone from approaching Adam at all.
+
+Shiv flowed like a landslide, and, as every piece of rubble or joint of laceration was technically part of his eldritch physiology, he used that as tactile points to drain away the vitalities of his remaining foes. The Urris went silent, one after another, and in the end, Shiv felt more supercharged than ever. Again, I should have done this to start with. Keep forgetting old lessons. Jessica told me to think in twos. A need to keep thinking about how to use different skills together, especially after they evolve. Synergy and all that.
+
+He briefly considered returning to his natural state and taking a few bites from the cooked Vultegs, but his hesitation cost him. The simulation reset as the encounter came to an end.
+
+Once more, he was returned to where he stood in front of Adam's doorway. The hallways were clean. Shiv was no longer a landslide of wounds and rubble choking the insides of the structure.
+
+“Time to change that.”
+
+Shiv tore himself open and allowed the Garden to spill forth once more. He flooded all available space with his ruins and came to a dead halt right in front of the gate. He waited for the next encounter to start and preemptively set all of himself on fire.
+
+The results were as dramatic as they were effective.
+
+Any and all momentum his adversaries could have had was stolen from them. The moment the doors opened, the Uvas were set ablaze and killed outright. None of them managed to take a single step into the hall they were supposed to occupy. The few of them that lasted more than a second were subsequently swallowed by Shiv's lacerations and rendered less than mangled flesh.
+
+The Urris fared better. They crashed against forking fingers of jagged rubble Shiv used as a tripwire barricade against them, and then they continued smashing through his garden. They made it twenty meters before they realized they were actually pushing into a blazing encirclement. It was also around then that Shiv's Toughness triggered once more, and that crystalline shell, which caused kinetic force to flow off of him like water would run along the slopes of a tin roof, materialized over every aspect of his garden.
+
+The Vultegs' rampage turned impotent. Their fists rebounded and skipped off of Shiv. He struck at them without fear or impunity, quite literally drowning them using his unique physiology and tearing at their life force directly, no longer interested in engaging in a struggle.
+
+Shiv's heart burned with a roaring flame of triumph and delight. This Delve was teaching him new lessons and reinforcing old ones as well. He needed to use all his skills in concert with each other—especially his Unique Skills. His Legendary Toughness alone took time to adapt and could only grant him immunity to a scant few threat vectors at once. Leveraging his Garden of Wounds and Broken Things, however, he could have the best of all worlds at once.
+
+Shit, between these two skills, I might just be entirely invincible—
+
+“Ahem.” Bleeding gashes and detritus that made up Shiv's physical form went unnaturally still. He turned and found the Culturist standing by Adam’s bedside—with the Paragon’s head already clenched between his thick fingers. “Very good improvement in terms of tactics. But your sense of strategy remains utterly abysmal.”
+
+Oh, fu—
+
+The Culturist sighed. “Something to remember for your next attempt.”
+
+And then he closed his hand, and promptly turned Adam’s head into a spill of red paste.
+
+Shiv felt something inside him rip open as he exploded toward the orc in a tsunami of destruction—
+
+But the simulation flickered, and Shiv found himself returned to the doorframe, having failed once more.
+
+Encounter Failed
+
+Resetting Delve
+
+Adjusting Legendary Skill…
+
+Initializing Unconfirmed Legendary Skill Evolution: The Brittle Unbreakable
+
+Blood ran down Shiv’s chest and neck as an explosion of self-directed outrage tore through him quite literally. He tried to fuse his fissuring flesh shut with his Biomancy, but it kept spreading across him as his emotional shame spiked.
+
+I’m a fucking, godsdamned idiot. Shiv shook. He looked upon Adam, restored but still suffering, and fought to constrain his frustration. I should have—No, the Harbinger told me to be efficient. I can feel these things. I should feel these things, but I should make actual use of the feeling instead of just abusing myself mentally.
+
+That understanding aligned his mind and heart just the slightest bit, and likewise did the many wounds stretching across his body begin to scab. “Yeah. Bad tactics. Got… got carried away by the skill potentials. Feelings are… I need to keep track of my own feelings. My mind needs to stay ahead of things, and I need to make sure Adam’s protected. That’s the only real goal—not experimenting with my skills or anything like that. Everything comes second to his survival. Everything.”
+
+Shiv took a moment to consider his Legendary Skill Evolution and paused. The first encounter had yet to start—the Delve was giving him a chance to consider altering his Toughness Skill. Shiv gave it some genuine thought.
+
+It was a good Skill. Adaptive physical immunity was a powerful thing to have against any enemy, and Shiv could see The Brittle Unbreakable making him all but unstoppable against most Sub-Legendary Vanguards. Or so it seemed. Yet, it felt like there was something missing from the skill—the flexible economy that Leviathan of the Shapeless Tides provided, or even the all-encompassing and absolutely devastating potential of his Harbinger of the Tripartite Ruin.
+
+“Why can’t I choose how you transform?” Shiv asked the skill. He tried to trigger an alteration, but his Toughness remained dormant. “I think I get why you feel wrong. All my other skills give me a bit of choice. Creativity. You’re just purely reactive. Absolute defense, but I gotta take a hit first.” He thought about the skill a bit more. “Which makes sense—you’re a Tarrasque Skill. Not much creativity needed for them aside from being unstoppable and hard to kill.”
+
+Then, his thoughts went further, and he decided to test something.
+
+Shiv speared his fingers into a nearby wall and ripped out a chunk of orichalcum. Its edge lit up, casting waves of cutting aura, and he casually began slicing open his forearm, waiting to see how his Toughness would adapt. He didn’t slice too deeply, as this act of harm was only meant to trigger a transformation. After a half-second, his body flashed bright—and his flesh turned into a dense layer of Orichalcum.
+
+But he carved through that all the same.
+
+He sliced himself a second time, and a subsequent transformation followed. This time, his body was comprised of an exoskeleton of dense orichalcum on the outside, while he had a kinetic-displace shell of crystal make below. But his cutting aura tore through all that like they weren’t there, and the only thing that managed to stop it was a deployment of Shapeless Tides to direct magic resistance against Shiv’s evolved Vitaemancy.
+
+“Okay, this is going to be a problem,” Shiv muttered to himself, feeling increasingly less impressed with The Brittle Unbreakable. “Adaptation and immunity’s all well and good, but we got problems: You can only handle a few types of physical harm at the same time; maybe two. Certain transformations replace others. I can’t trigger you at will. And you got nothing against Unique Skills—or maybe my Severed Shadow’s just that dangerous… No, no, wait. My Severed Shadow can’t cut through the Red Rider’s Hand—at least it can’t right now. And it can’t cut through my Last Morsel either.”
+
+Shiv’s mind screamed to a sudden halt. “You know what? Never mind this whole perfect immunity damage adaptation thing. Why don’t I just skip that and go straight to evolving… Narrativium Aegis or something? Huh, System? Or is that for Myths only?”
+
+He was about to split himself open a third time when he felt his Toughness Skill burst and blossom once more in accordance with his wishes. Shiv felt his lips press together as he waited in anticipation of what new Legendary Skill adjustment he was going to get.
+
+Nihilism Be My Hearth, My Banquet 111 > 113
+
+Garden of Wounds and Broken Things 122 > 124
+
+This Severed Shadow of Blood and Bladed Soul 306 > 307
+
+Vitality Drain 204 > 211
+
+Tactics 13 > 15
+
+Initializing Unconfirmed Legendary Skill Evolution: This Flesh of the Invincible Sacrifice
+
+Once more, Shiv’s flesh came aglow with silver-resplendence.
+
+The only difference this time was that it never truly faded.

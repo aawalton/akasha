@@ -1,0 +1,319 @@
+---
+id: 861ee575-3deb-5a19-8bf0-5f40adc94285
+page-type-slug: story-chapter-royal-road
+title: "Chapter 96: Isekai, day zero"
+slug: 0015-chapter-96-isekai-day-zero
+partOf: the-calamitous-bob-stubbed
+position: 15
+ownLength: 5177
+unit: words
+ownProgress: 5177
+publishedAt: 2022-11-18
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1043964/chapter-96-isekai-day-zero"
+royalRoadId: "1043964"
+markedReadAt: "2026-06-29T21:15:11.844Z"
+---
+
+Maradoc, God of Secrets and Travelers, laughed his ass off. He picked the memory and weaved a tiny construct around it, sending the precious moment on its way to an old friend.
+
+Farther in the city of the gods, a temple of august appearance stood on a secluded square at the edge of the cloudy abyss. Columns supported its roof, but no walls masked its interior for righteousness had no need to hide during peacetime. Hundreds of swords decorated its sandy interior, all of them engraved with the name of their owners, all of them plunged deep in the earth to keep vigil until the world ended. A lone figure in golden scale armor trod its ground. He repeated a series of sword strikes with unerring precision. His foot landed exactly where it had landed yesterday, and most days for the past thousand years. The God of Righteous War breathed deeply with every movement in his effort to ignore the incessant pinging of Maradoc’s message spell.
+
+Only after he was done did he open it. A note on the surface dissipated into his friend’s dry voice.
+
+“I was wondering if this counts as righteous?” the message asked.
+
+Neriad watched the memory. His divine sense spoke of an interrupted truce talk.
+
+“Ay, what the fuck?”
+
+***
+
+Time slowed down once more in that characteristic way adrenaline has of fooling people into believing they had a chance. Viv’s path improved her casting ability when she was in danger and such was the case now. Coating immediately covered her body in a black, protective layer, even as she twisted on herself to see the ground below. Even as she knew that it wouldn’t do shit.
+
+Oh gravity, if only Newton hadn’t invented you, Viv thought bitterly as the ground grew closer and she flailed her arms ineffectively. A little twist let her make sure she would land feet first. With a little luck, her femur would smash right through her brain and spare her a long agony.
+
+And then she wasn’t falling so fast anymore. Her course changed, leading her away from the rock at the base of the keep and towards considerably flatter ground.
+
+“I’m… I’m flying?”
+
+“Squee!”
+
+“Oh. Thank you!”
+
+Mother needs to get wings soon.
+
+Eat more spider.
+
+Grow strong and scaly!
+
+“I don’t think it’s possible, Arthur.”
+
+Mother must believe in herself.
+
+Viv’s answer was interrupted by a series of explosions above. A quick glance showed the Wing of Dawn instinctive caster fly around a group of levitating loyalist mages, pelting them with spells while dodging others. Circles appeared in mid-air along sword blows that seemed to extend impossibly long distances. The fighters were mere flickers, passing each other with thunderous clashes. The deployed mana bloated space around the roof in a colorful conflagration that Viv had no way of following. It was like watching Dragon Ball or something. But soon, reality reasserted itself including the realization that a full half of those men would kill Viv given the chance. As a cue, a large patrol of archers ran up from the edge of the nearby forest on an intercept course. At least, they hadn’t tried to kill her yet. It was time to bluff.
+
+“Let’s scare them!”
+
+Fear She Who Feasts On Spiders And Gets Much Gold!
+
+Viv channeled raw black mana through her shoulder blades conduits, allowing them to escape harmlessly in an imitation of tattered, hellish wings. Twin void blades emerged from her hands. At the same time, she pushed as much effort as she could in her intimidation.
+
+Arthur roared.
+
+Viv’s threats died on her lips. Probably for the best since it would have been along the lines of ‘behold your death’ or another equally cheesy villain one-liner. The Enorian officers screamed ‘Break!” and the archers scattered, which let Viv land more elegantly than she expected and take off at a dead run, and not a second too soon. Her perception spoke of a powerful spell at her back. She dodged to the side and her coating took care of the debris.
+
+“Get her!” Tamar screamed, “She murdered Tarano… and the prince!”
+
+“Lies!” Viv sputtered as she sprinted, “slander! Calumnies! Defamation!”
+
+It felt unwise to stay and argue Tamar’s claim was factually incorrect. Viv reached the edge of the forest and dove under a powerful sniper shot. Another arrow clanged against the shield on her back, pushing her down and letting her dodge more arrows. Screams of ‘Get her!’ echoed behind. The woods here were half-tame with clear paths leading deeper in. She followed them.
+
+A cold part of her mind assessed her chances. The loyalists were fighting a battle of extermination. Without leadership, they would fall before the night did, but Viv was at that moment behind their lines and they were really disappointed in her life choices. The best option was to rejoin the separatist lines and hope Sangor didn’t hold grudges.
+
+Viv moved as fast she could, infusing her armor with destruction when her instincts told her to. One of the archers behind her was incredibly good, able to shoot her calf through two trunks by sound alone, even if she took care to change direction randomly to avoid straight lines. The archers were following and they were faster than her, the jerks. Arthur hung overhead.
+
+Pesky!
+
+The dragonette blew a flame and Viv heard swears but no screams of pain. She raised a few eldritch walls on her side to provide cover and threw a few mid-range nets herself. That gave her a little breathing room, which she used to complain aloud.
+
+“I swear it’s one fucking thing after the other. Did I want to be involved in Enorian politics? Fuck no. I even saved a damn village. But what will people remember? The ravaged countryside? My fault. The battles? My fault. The execution of the defenseless crown prince? That’s right. Who gets blamed for all the shit? Exactement, c’est bibi.Oi!”
+
+Viv turned on herself and drew a shield at the same time. The massive arrow disintegrated with a hiss while the movement destabilized her, sending her crashing on the loam. She was up in moments. A series of nets brought no reply but no more arrows came for now.
+
+“I just wanted to get to fucking Helock!” she screamed into the woods. “Is that too much to ask for? Huh? MERDE!”
+
+French was a bad sign. She always reverted to her mother tongue when she was under pressure. Another arrow coming from the other side did not help, but this time she got a lucky hit and someone died a screaming death.
+
+“Fuck off!”
+
+Mother angry.
+
+I regret.
+
+Should have burned more humans!
+
+“Errrr it’s fine.”
+
+But too many colors.
+
+I am confused.
+
+All humans look the same!
+
+So I did not attack.
+
+“It was the best choice, and I am very proud.”
+
+“Squeeee!”
+
+Athur left and the woods started to burn behind Viv. The witch kept moving, trying to angle herself to the left where the path would loop back to the separatist lines. Arrows still came on occasion but only from the left side and far away, far enough away that she could anticipate and block them easily. At some point, an artillery spell landed close enough to shake the ground under her feet, but it was difficult to say if this was aimed at her general direction or just an unlucky deflection. Nevertheless, she kept going until she was sure, very sure, that she was behind the separatist lines. The din of battle faded. Arrows had already stopped falling. It was time to rejoin the lines and hopefully find Marruk and Solfis again. She turned resolutely left and walked.
+
+And walked.
+
+And walked.
+
+Late afternoon turned to dusk. Viv used the bright spot of the setting sun piercing through the dense canopy to make sure she was actually going east. The reddish light cast the empty woods in a bloody light, one that contrasted strangely with the vibrant green of the thriving trees and the mana they emitted. Still, there was no sign of the road she had to come across going east.
+
+Night fell.
+
+Viv quickly found shelter in a recess between two roots. She made sure the place was insect and snake free before settling down. She had a blanket but no wood to build a fire. More critically, her water flask was empty. It should be fine, probably. There had to be wells around Green Edge.
+
+Arthur did not return, but a part of her soul knew the dragonling was fine and so she didn’t worry. After setting a few alarm spells, Viv fell asleep free for the first time in over a week. The ground was not exactly comfortable, but she found she didn’t care.
+
+Viv woke up with the dawn. A strange, multicolored bird sang a dirge, then disappeared into thin air before she could inspect it.
+
+Arthur had not returned yet.
+
+The air was crisp, loaded with the heady scents of dew and fresh sap. Mana here was powerful and vibrant, mostly brown and life but to levels she had not seen since… since…
+
+Oh shit.
+
+The witch packed up and decided to walk east because it would always be a good idea. A strange instinct guided her step, one she recognized later as the survival skill. She didn’t find water, but she did find black berries on a bush after ten minutes of an active stroll. They were sweet and delicious.
+
+A bear-like creature with a dotted brown pelt took a look at her  mid foraging and sat on its haunches, waiting for her to finish. She ate her fill and left, making sure to keep her distance. A few moments later, growls of contentment echoed from behind. She didn’t stop. Her athletic and survival skills were in the intermediate range and helped her know how to walk and where to place her feet for maximum efficiency. Her ears guided her to the chime of water around noon until she found a small pond, its water slightly murky. A tiny spring fed it from a sheer cliff above it. She filled her flask and killed an eel-like creature that thought attacking her back was a good idea.
+
+[Farvale snake. Quite dead. An ambush creature that both poisons and strangles its prey. Sneaky.]
+
+“Not sneaky enough for me!” Viv declared as she cut its head.
+
+Snake was, well, it would probably be okay if she found a way to start fire. An insane dude from Guyane had offered to teach her how to do it with just wood two years and an eternity ago, but she had declined on account of the skill feeling useless. Joke was on her now if the Enorians had confiscated her fire stone which would be at the bottom of her backpack if she were lucky. Gods she hoped it wouldn’t get to trying to ignite branches.
+
+“Maybe if I turn the stick super fast with the finesse thing?”
+
+Meh.
+
+There was always flint if she could find some.
+
+The witch kept going east until the ground slowly started to climb, refusing to face reality. Brown mana increased, but it was lined with black mana above what would be normal for even marshes. Wary, she observed her surroundings. The sky was mostly obscured by leaves, but what she could see was blue and cottony white. The trees felt healthy enough, though they grew malformed the farther she went. Eventually, she reached a clearing.
+
+The scent of rot assaulted her nostrils. It was pungent and acrid, though thankfully not as disgusting as rotten flesh. A large tree occupied the center of the meadow, towering above its surroundings like a wounded titan. A long, black, oozing crevice marred its ancient bark. The tree felt incredibly old to Viv, its trunk squat and bottom-heavy as it sat at the top of the incline like a portly grandma. The heavy boughs surged in every direction, heavy with thick green and golden leaves. Above, the sun popped out from behind a fluffy cloud and bathed the clearing, then Viv was looking at a buried colossus with an incredibly wizened face and terminal bed hair.
+
+The light shifted, and the impression was gone, but she was sure the thing was alive, somehow. She inspected it.
+
+[Nascent brown elemental. Not dangerous. Ancient. Dying. Mana font.]
+
+Viv’s eyes widened. This was an elemental? A freaking elemental? She wouldn’t have to turn into something like that, right? What were black mana elementals anyway? Giant skulls? She had no idea. She was led to believe elementals were rare, so this was surprising. On closer inspection, the healthy part of its bark rippled with pure mana. The lattice was so dense and harmonious that it appeared to be solid.
+
+It put the damage in perspective. Most of the rot was concentrated along the crevice where a pulsated black mass was lodged, a presence Viv found revolting without even getting closer. It appeared to patiently dig into the elemental with slow inevitability.
+
+It also felt like an idiot trap.
+
+Inevitably, Viv would want to help. Annihilation felt amazingly well-suited to the task of clearing that nasty thing from the tree’s beautiful surface, but there had to be a catch. Magical pus would drip from the wound and cover her in a slimy coat, or maybe the corrupted mana would spontaneously explode? Whatever. The best choice was obviously, obviously to walk away. She had no need to save the elemental. She didn’t know if she could help at all. She was a medic, not a gardener. In fact, she was no longer a medic at all. Besides, doctors would be the ones to take care of that stuff, her job was to stabilize and make comfortable.
+
+Dammit, it didn’t work. Just looking at this majestic plant and then at the gangrenous gash marring its surface bothered her to her core. If she walked away now, the sight would hound her until the day she died. She had to do it. Had to. It would most likely be fine. Maybe it was fate.
+
+Now resolved, Viv decided that she would still be as cautious as possible. She dropped her bag and snake on the ground, manifested the sneaky cloaky (would have to try and rename it at some point), placed her shield in front of her, put her helmet on, and walked forward with her dagger out.
+
+The effect was immediate: she felt intensely silly.
+
+“Hello?” she asked, just in case. “Anyone?”
+
+No reaction, not that she expected much. The inspection skill had returned ‘not dangerous’ so it felt unlikely the elemental would spontaneously sprout legs and walk on her. Nevertheless, she progressed slowly and made sure to look everywhere including up and down. The sky was clear of flying menaces. Earth under her feet was gorged with mana but otherwise inert — that she could tell. No anomalies.
+
+And then the tree cracked. A new gash opened in its midst, making Viv jump. It opened so slowly that she had all the time in the world to take a few step backs and hunker down.
+
+Viv realized it was a mouth when the thing spoke.
+
+“Oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh,” it said in the deepest voice Viv had ever heard.
+
+Took a full minute too. Might have continued into the infrasounds. She wouldn’t know.
+
+Now that Viv looked closely, there was indeed an asymmetrical face seemling carved in the antediluvian bark. In any case contact had been made and Viv attempted diplomacy.
+
+“I’m going to have a look at your wound, alright? I’m here to help. Try to help,” she amended at the end. She didn’t get an answer and that was to be expected. The elemental felt very alien, and she had an inkling that it didn’t operate quite on the same time frame as she did.
+
+“Right, the wound.”
+
+Viv kept at a distance just in case. She used inspection on it to see if it could be identified separately from the tree. It hadn’t worked on the hurt humans she had helped with but who knew? This was much larger.
+
+[Blight grub: extremely dangerous]
+
+“OH, THIS IS BULL—”
+
+The pulsating mass exploded from the wound, revealing its true nature as a loathsome parasite. Viv’s beleaguered mind captured an impression of black chitinous scale and a bloated, segmented, white underbelly filled with half-digested mana, spiky limbs emerging from its sides in haphazard fashion like some sort of demented centiped. It dove into the ground and disappeared from view. Viv went into overdrive, her experience taking over. She flooded the soil under her feet with black mana to prevent her attacker from just grabbing her from below.
+
+The mana expanded, as if pulled in. It scared her so much her heart skipped a bit, like missing a step while climbing down stairs. The local brown mana had simply given away. It wasn’t supposed to react like that. At least, it surprised the grub as well by forcing it out. The creature’s extremity breached the soil with a furious screech. Viv immediately launched a net at it, but it twisted in unpredictable patterns.
+
+She had the net down pat now and it packed a serious punch, yet it failed to penetrate more than the surface of the creature’s back. It left behind white lines of exposed, bulbous flesh dripping a nauseating ichor. Some orifice opened and vomited a torrent of black mana.
+
+Viv let the thick black cloud wash over her and claimed it for herself. Her vision cleared long enough to see the creature’s spindly limbs going for her face. Time slowed down.
+
+Viv cast Excalibur.
+
+The void blade cut through the entire body, more an impalement than a slice because the grub was too fast for her meager, barely inhuman reflexes. A spasming mess of jagged spikes grabbed her shield. She pushed it away, but not before something traced a fiery line on her left arm. The beast shrieked and retreated, then it whipped its body and Viv suddenly got a faceful of bleeding flesh. She could not breathe. She was flying. There was blue sky and obsidian spines, still writhing in their death throes. She pushed it away and made to stand. Hard to breathe, jaw hurt, probably smashed by her own weapon. She was bleeding a bit. Something tried to worm its way into her conduits but she subsumed most of it as well.
+
+A third of the grub laid twitching on the ground, severed at the damaged link.
+
+The rest of it was still there, now missing a few sections. It spat black projectiles at Viv in quick succession but her instincts told her those were spells and her sneaky cloaky took care of those even without infusing it with meaning. More spells followed with Viv sending nets in return. The creature impossibly dodged many of them, but those that hit still carved lines through its carapace. It seemed it was leery of another attack, a mistake. Mid-range fast stuff was where Viv excelled.
+
+Another spray of ichor and the grub screeched. A normal animal would have fled, but this one was a greedy jerk. It dove underground once more and Viv flooded the ground under her feet with black mana, but this time it didn’t touch anything. The grub hadn’t gone for her. She looked around, wary.
+
+The black mana returned to her, pushed back by the surging brown except in one direction. Suddenly, more brown mana concentrated on a spot somewhere to her left but still in the clearing, moving sideways. That was… of course, the roots. The roots were still the elemental, and it was helping her by marking the insect. Probably.
+
+The spot kept moving slowly, circling her. Viv decided to bet that it was indeed the elemental showing her the enemy and prepared a little something. So far, she had been unable to hit the creature’s bloated underbelly because of its great mobility, but catching it off guard would grant her one chance. She concentrated and created a large bolt spell, then added a rune for direction change. She was ready.
+
+Viv flooded the ground again, this time towards the spot. Earth seemingly drew her in, accelerating the overload like a ditch swallowed a wave. She hit something sinuous and vile. It surfaced. Viv threw the bolt.
+
+The powerful annihilation projectile arced down and through the manaless ground, losing some power but catching the creature under its chitinous armor. The beast twitched at the last moment and Viv almost missed, but a supreme effort of will angled the spell into its soft target. It damaged an entire side of the creature. A deafening screech forced Viv back. Putrid innards spilled on the green meadow. It stank like hell.
+
+Viv prepared another spell but failed to cast when her instincts screamed something was wrong. The creature was yelling far too much, wracked by revolting contraction. More of its insides joined the glistening pile of offal with every move while the stench grew unbearable. Viv kneeled and hid behind her shield and squinted, not sure what was going on or if it was wise to intervene at all.
+
+Then the grub exploded.
+
+Viv screamed like a child, then screamed again when slimy rain pelted her shield. The rest was thankfully absorbed by the sneaky cloak.
+
+When she opened her eyes, she was met with a scene of devastation. There was yellow, disgusting stuff and what looked like an eye on her shield, the vile layer hiding many of the sigils. The clearing looked like the aftermath of a slug migration. Tree looked fine though.
+
+Viv swallowed her disgust and hopefully nothing else, then took a few steps forward. There shouldn’t be enough grub left to feed a sparrow. She would still err on the side of caution.
+
+Nothing moved.
+
+After a minute, the elemental groaned again, but with a distinct tone that evoked relief. A powerful wave of mana washed over Viv who let it. The scum on her shield disappeared, and when the wave faded, the clearing was pristine.
+
+Acuity reflex: Intermediate 2
+
+Danger sense: Intermediate 2
+
+Focus: 39
+
+The alerts didn’t surprise her. She had spent hours of captivity meditating and reflecting on her spellcraft and this was merely an application of her progress. Her toolbox remained sadly uninspired, but she could take pride in the fact that she was really good at what she did. It was just unfortunate that what she did was murder. Oh well. It could have been her smeared on the ground instead.
+
+With the crisis over for now, she took a moment to inspect herself. The simple dress she had worn on her escape was comfortable and easy to move in, but it was starting to be a little dirty and there were gashes on her left shoulder and, now that she was checking herself, her back as well. Probably one of the claws. It was weird how her coat ignored her clothes but disintegrated everything else, though she suspected intent was key. It was good too or she would have been in the nude now. Her walking boots were fine, at least. As for her cuts, they were all closed. Her jaw felt fine as well. Viv suspected the tree had something to do with that. She checked her status anyway, something she hadn’t had a need to do in a long while.
+
+Current status:
+
+She used the inspection skill on poison removal and got a vague fever and nausea feeling, nothing too daunting. She had a few gulps from her canteen and lamented not drinking more from the spring, but the snake had spooked her.
+
+A quick glance at her shield showed that it was completely intact. She was okay. Time to check on the tree.
+
+The wound was still here, but now it looked like old damage instead of a pus-filled necrotic sore. The bottom of the crevice shone a vibrant green as well. She inspected it just in case.
+
+[Nascent brown elemental. Not dangerous. Ancient. Recovering. Grateful. Mana font.]
+
+All good, or at least as good as she was able and willing to make it. And now for the reason why she had come here to begin with.
+
+“Right. Sorry. I want to climb you.”
+
+It was most likely fine since the tree was grateful. She jumped and used its crevices as handholds. Viv had never been much of a climber but this was easy, and would have been even without stats.
+
+“Oooooooooooooooooooooooh?” the elemental, well, groaned. A few boughs moved, facilitating her way up until she climbed the last, highest branch. She sat between two extensions and looked around. It was exactly what she had expected: the depths of the Deadshield Woods to the horizon.
+
+Well, too late to lie to herself now. The Deadshield Woods had faerie-whisked her into its heart.
+
+She knew it, of course. The powerful mana concentration and general feel of the place had warned her. It was technically possible to get lost over vast distances if one stepped away from the road, or if one went too deep too quickly. Looked like it had happened to her.
+
+She had tried to get to Helock. Only tried to go to college. Seriously. And her grandpa had complained about walking a kilometer in sub-zero temperatures to get to school, the delicate old baggage. A hundred years from now, she would gather her descendents and tell the little twerps they had it easy. “In my days, you couldn’t become a freshman without ending a civil war by killing off one side’s royal family to the last man!” she would tell them. They would probably roll their eyes and say “Moooooooom grandma Viv is rambling again,” or some such. But she would not be joking, it would have been that hard. Because she was going to succeed.
+
+Right, enough moping. Viv sat more comfortably against the branch and considered her situation. She had two current main objectives. One was to learn how to extend her life expectancy. The second was to figure out a way to go home or at least send a message back that she was alright. Both objectives would be served by getting to the capital of magic on Param, Helock. Secondary objectives were to make sure everyone else was fine and regroup, which she could achieve on the way but not here. All objectives would be served by leaving the forest first, obviously, so that was the priority.
+
+Forest shenanigans led to the death of many travelers, but she suspected that there was a limit to how far it could transport her. The temperature and weather were very close to what they had been the day before. The terrain in front of her was irregular like the one around Greed Edge, with small rocky elevations at regular intervals. She even recognized some of the tree essences. Unless she was completely missing her guess, going straight east would get her out eventually so long as she didn’t wander at night or get even more lost. Water might become a problem but there wasn't much she could do about it. Food wouldn’t be, not with how many meaty things wanted to kill her.
+
+That was a plan.
+
+Viv climbed back to fetch her gear, but when she landed on the loam, she was surprised to see that a branch now extended from the elemental to the middle of the clearing, and that from that branch dangled a very red spherical fruit.
+
+“Oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooh,” the elemental suggested. Probably.
+
+Well, she could eat. Viv walked to the offering and turned to the tree’s craggly face. She slowly reached for the fruit, waiting to see if the thing would protest. Instead, the enticing prize detached from its branch and landed in her hand. It glowed with mana.
+
+[Elemental fruit: an extremely potent alchemical regent, can be consumed as is. The fresher the better.]
+
+“Thank you,” Viv told the elemental, then she bit down.
+
+Juice flooded her palate and she experienced the most intense, the most pleasurable non-sexual sensation of her life. It was a taste that transcended mere physicality to evoke precious memories, refreshing her mind and heart. It was crisp water, but only after a long trek in hot weather. It was pan-seared goose liver but on a family birthday celebration. It was perfectly mulled wine if it were taken on the Strasbourg Christmas Market, at night, with snowflakes waltzing in the light wind. The fruit was pure happiness packaged. Tears dripped down her cheeks.
+
+It felt like being home.
+
+Viv took her time. She sat against the tree trunk and talked about her home in Nice between two bites. She talked about the Promenade des Anglais and the smell of lavender fields when they drove north for the weekend. She mentioned that time her brother Damien rode a horse for the first time, babbling with excitement during and for three days after the outing. She mentioned playing games online with Gevaudan and Framboise, and how the taciturn boy would always work out the optimal way to play but still mess around with the two girls. She talked about her school and kissing her first boyfriend.
+
+At some point, the fruit ran out. It was now early afternoon on that slow planet. The air was still pure. Birds tweeted in the distance. It was wonderful.
+
+But Viv had to go. She slowly stood up and realized she felt better than ever before.
+
+Power: 18 to 21
+
+Finesse: 21 to 23
+
+Endurance 26 to 27
+
+Oh wow.
+
+You have reached a milestone! You can now wear armor for extended periods of time without tiring. You can carry more weight.
+
+Nice. Not super useful to her right now, but nice. Her power was now slightly below that of an experienced laborer, which was good for a path that didn’t rely on it at all. Her nature of outlander really helped, and she had only been here for a bit over one year. That fruit was amazing, though she suspected she wouldn’t get such an opportunity again. It wasn’t every day one got the blessing of an elemental. Something else drew her attention and she obtained her general status.
+
+Current status:
+
+Mana distribution:
+
+Current attunement: 28.9%
+
+The flexible constitution was new. A quick inspection informed her that it would help her function better as her attunement improved, helping her organs keep working. She would still die, though. But that was nice as well. Now, she had more time to act, and she would feel better while she did so.
+
+Viv wasn’t sure what to say. It was a princely gift. A life for a life, to some extent. She faced the old tree and bowed.
+
+“Thank you for the gift. I have to leave, but I will always remember this moment. You have my gratitude. And goodbye.”
+
+“Ooooooooooooooooooooooooooooooooooooh,” the creature replied with benevolent finality.
+
+Viv found her backpack, her dead snake which she would have to dress very soon, and set out.

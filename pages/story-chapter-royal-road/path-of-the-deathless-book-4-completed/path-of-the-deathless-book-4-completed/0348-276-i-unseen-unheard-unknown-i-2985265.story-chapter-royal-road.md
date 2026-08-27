@@ -1,0 +1,143 @@
+---
+id: 5142c629-f8e7-50eb-a57c-495e6f066342
+page-type-slug: story-chapter-royal-road
+title: "276 (I) Unseen, Unheard, Unknown [I]"
+slug: 0348-276-i-unseen-unheard-unknown-i-2985265
+partOf: path-of-the-deathless-book-4-completed
+position: 348
+ownLength: 3039
+unit: words
+publishedAt: 2026-01-27
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2985265/276-i-unseen-unheard-unknown-i"
+royalRoadId: "2985265"
+---
+
+Unseen, Unheard, Unknown.
+
+Such is the name of my father's first Legendary Skill, a Stealth Skill he elevated to a precipice no one else could follow, or more accurately, perhaps, almost no one else could follow. It was once a Unique Skill, but in his infinite generosity, he took on a disciple, and she managed to reach the same point as well, transforming it into a Legendary Skill in the System's eye.
+
+Tragically, she fell doing something pointlessly noble. I loved her once. I miss her… But it doesn't matter. Either I will succeed, and she will be returned, allowed to see the folly of her kindness, or I will fail and she, like so many others, will remain dust upon the pages of history.
+
+But you are not here to learn of this. You wish to know how my father's Skill functions. That's why you are pilfering my notes; that's why you are digging through my history: to discover the weakness of the great Valor Thann from the words of his very own son. Now, find disappointment in my following words: I cannot tell you, for even I do not fully understand how his Stealth Skill functions.
+
+Not that I would tell you if I did know, but that does not matter for us.
+
+I have many contentions with my father, but he is a true Pathbearer. A killer above killers, a decent man—a great one, even, because he tries to be. Despite a lifetime of horror and ruin. The things I've done... The terrible things I've done... They're all for my own benefit, for my own desires. But had Father turned into a monster, I could not have blamed him after his own childhood, after everything he suffered. It is a miracle that there is any decency in him at all.
+
+I do not know, since he never told me, and since I can't figure it out… You will not know either. Suffer this dissatisfaction.
+
+My father has been open with me about a great many other things, a great many truths that no one else knows. This, for me, means that he treasures this Skill. And it is a greater challenge, a more meaningful challenge for me to uncover how it functions for myself.
+
+And I cannot.
+
+If my father yearns to be apart from my senses, he can, and he will stay apart. He will stay beyond. I have no countermeasure against this other than hiding myself, and I don't think there is any Pathbearer in existence who can hunt down Valor Thann if he does not wish to be discovered.
+
+For no one else could have hid within a goddess's own realm, within a place forged from their own mind, like he did. My best conjecture is that he is more than a shadow. He is the idea of shadow. He is what you don't know, what you can't see, what you can't hear. He is all these things because he rests on the blind side of your ignorance. And everyone has such a blind side. If that is the nature of his Skill—though this is purely theory—then I fear you might have no easy way to counter this. You are incapable of overcoming what you do not know, for our ignorance will always surpass our highest virtues…
+
+-Udraal Thann
+
+276 (I)
+
+Unseen, Unheard, Unknown [I]
+
+Unseen, Unheard, Unknown 569 > 570
+
+The rush of power flooding into Valor's being was the sweetest he had tasted in many decades.
+
+Perhaps the sweetest he'd ever tasted.
+
+It had been so long since he'd gained another level. So long. And this one felt so right—like the System was placing him back onto his Path. Like he was finally back on track, ready to reclaim his own life.
+
+But he knew this likely wasn't his own doing. This was something grander. Something greater. Something, no, someone, connected to him, through his son—Shiv. Shiv, who burned like no Pathbearer ever burned before, all thanks to Udraal’s machinations, his attempt to create a being that the System could not slay, could not finish off.
+
+And now some of that fire was returned to Valor as well. When you lived long enough, when you survived enough, things had a tendency to come full circle.
+
+Valor Thann didn't believe in karma, but sometimes he did suspect that the System had a twisted sense of irony.
+
+A veil of mist seeped out from his glowing bones, spreading like steam and covering everything he willed it to. The Culturist and the Educator were claimed along with him, shrouded from everyone's notice.
+
+Unseen, Unheard, Unknown.
+
+That's what they were. Even if someone was looking at them, even if they made a sound, they would go undiscovered. For that was what Valor had earned after years of strife and struggle, after hiding within the mental dimension of a tyrant god.
+
+Valor took a few moments to reacquaint himself with his newly returned Legendary Skill, along with all the lesser Skills contained within this torso. His Necromancy had been strengthened; it was now on the level of a Low Hero. His Toughness had been amplified as well, lifted to Master-Tier, and fused to his Dodge Skill, also missing till now. He'd also regained over three hundred different Weapon Proficiency Skills; most of them at Master or Adept-Tier, the rest stuck at Initiate.
+
+For his full martial mastery to be returned, he would need to reclaim his two missing legs. He was dimly aware that he was missing another piece, though strangely, he couldn't quite remember what it was. Only that it was of grave significance.
+
+But the greatest gift imbued within his torso, overshadowing all the others by magnitudes, was his Legendary Stealth Skill. Unseen, Unheard, Unknown. The Skill that practically defined him. The Skill that was the core of who he was, his oldest Skill, his greatest Skill, his finest Skill—the only reason why he still remained, even after so many other Pathbearers from his era were cut down, still remained after calamity following calamity, ruin upon ruin.
+
+"It truly is an unparalleled Skill," the Culturist breathed. “Just recently, it allowed me to walk into the capital without ever being noticed. A rare pleasure—and insult—to wield against the Auroral Ascendants. I will miss wearing your flesh, Valor. But perhaps I will taste the pleasure again when this is all over.”
+
+Valor knew the Culturist had indulged in the Skill's use and gleaned some secrets from it. Doubtless, he was planning his own countermeasures, seeking to defeat Valor's Stealth somehow.
+
+The odds were not in the orc's favor.
+
+Gods claiming dominion over Telepathy, Divination, and impossible levels of Perception had tried hunting Valor down before. They'd all failed.
+
+The Culturist was no Divinity, and likely would never be due to his emotional and spiritual bottlenecks. But even so, having the orc discover anything about the Skill was a risk, for the Challenger would relish in the chance to be the one that finally put Valor Thann down, and gods were not to be taken lightly.
+
+But that would be a worry for another day. For now, Valor relished in the satisfaction of being himself once more. Beyond him, the Culturist, and the Educator, the room still stayed the same, only painted over with a thin sheen of grayish haze. Everyone else moved, muted, and separated by an obscuring boundary. Valor could still hear Adam talking about him, hear Roland admit his inability to track the departing trio. That infused the lich with great satisfaction.
+
+Yet the longer he stayed in the room, the thinner the mists grew. They were being expended at a prodigious pace, for there were many eyes pointed in the direction where he stood and many ears listening, trying to figure out where he'd fled. There was a limit to all Skills, Legendary or not: Unseen, Unheard, Unknown preserved his anonymity against practically everything and everyone in existence, from Pathless to Divinity. But there was a price to pay.
+
+He needed to stay hidden from people to rebuild his mists. He needed to hide in their blind spots, to cultivate and absorb their ignorance, turning it into proper unattuned mana to stay hidden, parted from another's notice.
+
+And so he moved, leaving through the gaping wound left atop the Perch’s tower. He reached the edge and placed a hand on a jutting piece of rebar. There, he looked beyond this place, this prison, this sanctuary he had enjoyed for the past month. A pull yanked at him from behind, a pull of memories. He'd spent a great deal of time here, surviving alongside Roland, Rose, Uva, and the survivors of Blackedge. He'd felt a sort of kinship and a reliance upon them. He'd done what he could to protect them, but more than anything, he had relied on Uva and the Starhawk, just like everyone else.
+
+This was a debt he needed to see repaid.
+
+Beyond the tower, he saw rows of risen fortifications surrounding Starhawk's Perch. The castle itself was nested at the center, blanketed by so many walls and wards that it couldn't be seen from the outside anymore. The rest of the town had been rendered into flat plains of waste. Little more than scattered debris and broken glass were left behind. Everything salvageable had been reused to reinforce the castle. And now, it just might be the reason Blackedge would survive its transition out of the Stranger's dimension.
+
+Surrounding the town itself was a messy hive of eldritch flesh. Blinking eyes darted about blearily, uncoordinated, incoherent. They were still stunned, still in a stupor. But slowly, the Fingerlings, mashed into a messy nest, protecting Blackedge from the Stranger's awareness, were returning to awareness. And there was a massive chasm in that nest. A missing Index. Doubtless, that was the one that the Hatchling had hijacked, weaving itself into its mind and stealing it away with Uva in tow.
+
+That was the one Valor needed to track down before it was too late.
+
+Beyond that colossal partition loomed the rest of the Eldritch Wilderness. Explosions dotted the distant battlefield. Blasts of mana and beams of magic crashed and cleaved. Fingerlings, small and colossal alike, fell in scattering pieces. Orcs died by the thousands, roaring with laughter and pleasured exultations. And in the thick of the mess, Valor saw splashes of white and red, saw colossal impacts and brutal devastation. A swarm of Fingerlings was closing in on a single Pathbearer. He moved fast, he moved brutally; he was a comet who fought with little regard for his own safety. And everywhere he went, death followed. Death bled from his pores, radiated from his being like an aura. Death became him, and vice versa.
+
+"I will try to divine the path of our quarry," the Educator said. She unlatched her tome, flipping through its pages as she searched for an illustration she could use. “It bears the girl’s stench still, and I have illustrated her form before. My brush remembers her, and the pages can recount as well.”
+
+But as she did that, Valor's mind turned; he came to a conclusion that made her actions unnecessary.
+
+"Don't," Valor said, interrupting her. "I know where she is going. The Hatchling is going to seek Shiv."
+
+"What? Why?" the Educator said. "Would it not make more sense for the creature to flee, to sink deeper into the Eldritch Wilderness and calcify its powers?"
+
+"It would," Valor said. "But it doesn't need to do so immediately. The Stranger cannot perceive the Hatchling. It is still a creature of the Eldest, and so it can mingle in with the other Fingerlings. It tried to consume Adam because he has a Unique Skill, because the Eldest wants one thing—to spread themselves. To replace all other aspects of existence with themselves. And eventually to hollow and birth themselves anew using the System. The Hatchling will go after Shiv because it must. Because it's compelled to propagate."
+
+"And so to the Deathless we go as well," the Culturist said. A low rumble of laughter left the orc. "I missed our hunts, Valor. I missed hunting you and being hunted in return. But rarely have we hunted the same thing. This should prove to be a novel experience."
+
+"Perhaps so," Valor mused.
+
+He studied the orc and read his intentions immediately. The Culturist was seeking to steal some of Shiv's flame. More than that, he was restoring Valor to finally break through that bottleneck. For if he could finally cut down his great adversary, then maybe, just maybe, he might be able to overcome whatever spiritual deficiency he saw in himself as well.
+
+Valor observed the battlefield as his Necromantic cloak fluttered around him. "What you are searching for, you will not find. Even if you rebuild me. Even if you cut me down at the height of my power. That which shackles you is an emptiness of belief. And an anti-faith is as strong as a true faith.”
+
+And with that, Valor launched himself forward, leaving with a psychological attack upon his old adversary. For that's what they were: adversaries. You could be affable with an orc, but you could never be an orc's friend. And he counted the seconds, listening as the Educator's robes flapped, hearing her move after him—but not the Culturist. He lingered for a few heartbeats too long before he finally followed. Valor's veiled jab at his ego struck deep, and the Culturist would spend a few moments wrestling with his philosophical doubts rather than scheming or plotting.
+
+It was then that Valor realized his Psychology Skill had returned as well. It was good to be back. It was good to soar through the air, striding on flowing mists, propelling himself forward using Pyromancy and Necromantic Corrosion. He slipped free from the boundaries of the town, gliding under the Court Leviathan that extended its many tendrils, that opened its underbelly to provide an additional layer of protection for Starhawk's Perch.
+
+No one noticed Valor or his entourage. Not the orcs aboard the Court Leviathan. Not the Leviathan itself. Not even all the Fingerlings blinking and staring, slowly trying to unlatch themselves from the exterior of the town.
+
+As Valor soared through the air, his Legendary Skill grew stronger, as he found himself Unseen, Unheard, and Unknown. In this blind spot of blind spots, hidden from even the Stranger himself, the mists protecting Valor grew ever stronger and denser as his Stealth Skill nursed itself on ignorance.
+
+A memory returned to him unbidden then. It was one of his earliest memories from childhood, a moment long forgotten. Until now. He remembered being afraid of the dark, terrified of the rustling of the wheat field outside his window, and the glowing eyes that peered up at his room in the attic from between the shadows. He remembered running into his adopted mother's arms, screaming about monsters. She'd promptly spun him a blanket, tied it around his neck, and called it a "Veiling Cape." And with that, she'd christened him "Lord of the Darkness."
+
+For when you walk the shadows, you will be the strongest one there. You will be protected from all things that lurk and refuse to face the light. For subjects cannot strike their King.
+
+And that had been enough, for a child so young. It was a thing of delusion, of course, a desperate attempt on part of his adoptive mother to stop the bedwetting, to end the nightly terrors. But it worked.
+
+The first step before every Skill came to form was belief. And for Valor, that naive, ironclad belief would come to cement itself into certainty; as he hid for so long and for so many times, the only thing that kept him alive was being hidden itself.
+
+Valor knew deep within his soul that none of this would have ever been attainable for him had his adoptive mother never fastened that blanket around his shoulders. With the return of his greatest Skill, he felt the tightening of the blanket once more, and he remembered the face of the woman who raised him, remembered all the love he'd known and all the love he'd lost.
+
+The world was bitter, the world was sweet, and with that realization, all the despair he felt, all the loss, the confusion, the emptiness that had remained of him after his shattering bled away—and was replaced with purpose. It was time for Valor Thann to protect his disciples instead of the other way around.
+
+***
+
+A tower-sized spear of gold encroached from behind. Shiv ignored it. It didn't matter if it was going to kill him. It wouldn't reach him soon enough to save the Recollector he was trying to rip in half. With a final burst of innate tides surging out from his core, he pulled in two opposing directions and tore the Recollector apart down its middle and ring fingers. A lake’s worth of pulsating, black blood washed over him, crashing against his body, and whipping him with nightmarish tendrils. But they bounced off his Magical Resistance, unable to find anything to sink into, unable to seize his biology or his soul.
+
+The Recollector's past instances came apart in sprays of gold. The palm-shaped monstrosity gave a final, fleeting cry that drove nails of piercing pain deep into the base of Shiv’s skull. He shrugged it off with a slight groan and spun around with the vain hope of warding off the oncoming attack from behind.
+
+It was ninety degrees into his turn when he realized it was too late. The Chronomantic blast was going to hit. But it wouldn't kill him immediately. He prepared to go Non-Sequitur to avoid the bulk of the damage, but then a flaming comet intercepted the blow on his behalf.
+
+Jessica left a trail of burning ruin behind her, a massive column of spreading fire radiating out in her wake. Drifting pieces of seared Fingerlings rained down from all directions like a mesmerizing meteor shower. There were orcs burning upon those colossal bodies as well, stabbing, striking, unleashing spells shaped in haste before their untimely demise. The grayskins died willingly. The Fingerlings went howling with fury and near-despair.

@@ -1,0 +1,167 @@
+---
+id: 3d1c13f9-5692-5d91-9e70-6c025e43881a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1195 - A Retrospective Moment"
+slug: 0067-chapter-1195-a-retrospective-moment
+partOf: the-primal-hunter
+position: 67
+ownLength: 2890
+unit: words
+ownProgress: 2890
+publishedAt: 2025-11-05
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2734898/chapter-1195-a-retrospective-moment"
+royalRoadId: "2734898"
+markedReadAt: "2026-06-29T19:31:23.374Z"
+---
+
+Traveling across the multiverse was a lot easier with a Godqueen handling the transportation, but even with her, it wasn’t as simple as just teleporting a single time.
+
+With each faction covering its entire domain in massive formations that prevented teleportations going in and out, they would first have to leave the territory of the Pantheon of Life before they could teleport to another universe. This was done by first teleporting to one of the border planets, where they would cross the border into “open space,” as many referred to it, though it had more names than Jake bothered to memorize.
+
+Open space was essentially just a term to describe territory of the multiverse not claimed by any faction or powerful individual. Galaxies tended to cluster together, forming, well, clusters, which in turn made up the territories of the different major factions.
+
+Between those clusters tended to be massive amounts of empty space, with mostly nothing there except for the rare meteorite or other interesting discoveries. It was a surprising fact, but despite how powerful gods were, there remained areas of even the first universe that hadn’t been fully explored yet. This was not just because it was dangerous to go some places, but simply because no one had the time or bothered to put in the effort to scour the empty nothingness of space with the hope of finding a few rocks.
+
+Occasionally, gods did stumble across truly interesting discoveries, but for the most part, even a god could spend a million years flying through nothingness. Especially with how easy teleportation was for gods at higher levels, as they could go from one side of the universe to another in a mere moment, a trip that would take them countless years if done by flight.
+
+Anyhow, the point was, each universe was impossibly big to the level where it defied understanding, something Jake had already known before the system from his cursory interest in astronomy. After the integration, the ninety-third universe had only grown bigger, reaching a scale that just seemed dumb in Jake’s mind. Alas, the multiverse did have to be truly gigantic to allow for gods like the Primordials to exist.
+
+If someone could wipe out a galaxy with little effort, the best countermeasure was to just have a lot of galaxies to go through.
+
+Back to the trip across the multiverse, they were soon outside the territory of the Pantheon of Life, the weird pineapple-shaped vessel flying through space to reach an area it could teleport again.
+
+“The formation isn’t merely a thin barrier, but covers a vast distance... think about it almost like the atmosphere of a planet, just one that covers the entire Supercluster,” Artemis explained as they flew through space.
+
+“Does it defend against anything else besides teleportation?” the Sword Saint asked curiously.
+
+“Yes, like the atmosphere of a planet, it also defends against external attacks and even invasions through flight,” Artemis continued. “Moreover, the Mother Tree is connected to the entire barrier and knows of anyone and everything that goes through it. There are very few existences in the multiverse that can sneak in unnoticed... the Seeker counted amongst them.”
+
+“The Seeker?” the Sword Saint asked curiously as he seemed to recall something. “Oh, isn’t that the one who crafted that puzzle cube Jake can’t stop being effusive about?”
+
+“She is pointing out his prowess, seeing as he recently paid a visit to the Pantheon of Life and ended up leaving with the Shimmershroud Planeswarper Jake had used his powers as a Harbinger of Primeval Origins to create,” the Forest King quickly explained before even giving Jake a chance to.
+
+“Ree?” Sylphie asked.
+
+“I don’t actually know where the Seeker took Jasper,” Jake shrugged, still having a bird sitting on his head. He looked at Artemis, but she also shook her head.
+
+“Seems like we missed quite the event,” the old man chuckled. “Since we have some time, let’s hear what everyone has been up to since we met last. Allow me to start...”
+
+The Sword Saint did exactly that as he narrated the hunting he’d done since they last had a reunion, slightly after the King was revived. Same as Jake, the swordsman had primarily focused on getting class levels and improving his combat prowess, though he had also taken the time to go sightseeing a bit and had returned from the Pantheon of Life with a collection of paintings, some of which he also showed off.
+
+After him, Dina spoke of her own hunting – most of it with the Sword Saint – but also of some of the training she had undergone with her grandfather and other members of the Pantheon of Life. As a dryad druid, she didn’t have a profession to work on but only her class and race levels, which was both a boon and a curse. On the one hand, she could gain levels in both from doing the same things, but on the other, it took a lot more effort for her to progress, and her race level tended to always fall behind her class, as dryads were naturally slow-growing creatures, courtesy of their Lineage as tree spirits.
+
+Sylphie’s narration was short and sweet and just involved a lot of flying in circles in a tornado.
+
+The Forest King decided not to join in, besides briefly mentioning he was still working on “solidifying his foundation to ensure future excellence.”
+
+Jake gladly shared what he had been up to, including his sparring session with the other archers from the Pantheon of Life and, of course, his recent thirty-nine-day hunting trip. He got a few glances when they learned just how many B-grades Jake had killed by now, yet none of them seemed overly surprised.
+
+All in all, they had all benefited massively from their trip to the Pantheon of Life. The Sword Saint had gained a solid amount of both class and profession levels and had even improved his skills. Despite not fighting, Sylphie had also gained a lot of levels simply by existing as a monster within a massively beneficial environment. However, more than levels, she had gained several skill upgrades, making Jake feel a bit lackluster in comparison.
+
+Even so, there was one person who had benefited more from this trip than anyone else, seeing as when it began, he had kind of been dead. While the King didn’t share much, Jake knew simply from his aura that he was more powerful now than before, with his recent meditation also showing results.
+
+What he did know was that the King had primarily worked on the aspects of his Path revolving around being just that: a king. Jake would be lying if he weren’t looking forward to what a Golden Forest King that had fully realized his Path was capable of.
+
+Finally, there was Jake.
+
+Looking back, Jake’s time at the Pantheon of Life had definitely also been a productive one, to say the least, even if things certainly hadn’t gone entirely to plan. He had originally gone primarily to meet up with Artemis and Dina again, as well as just to experience a change in environment.
+
+His reunion with Artemis and everything that followed kind of ended up swallowing all his attention and time, not that Jake had any regrets whatsoever. Especially not now that she was going back to the Order with him so they could continue to spend more time together and perhaps even do a bit of archery together, even if he got the feeling she would be busy with her new job.
+
+Then again, that wasn’t necessarily a bad thing. Absence makes the heart grow fonder and all that.
+
+As they were just sitting there anyway, Jake opened up his full status to see his gains while at the Pantheon of Life… and perhaps slightly before that, as he compared it to the time just after he had his meeting with the First Sage.
+
+Status
+
+Name: Jake Thayne
+
+Race: [Human (C) – 305 --> 329]
+
+Class: [Arcane Hunter of Horizon’s Edge – 302 --> 332]
+
+Profession: [Heretic-Chosen Alchemist of the Malefic Viper – 309 --> 327]
+
+Health Points (HP): 295,950/295,950 --> 344,062/344,062
+
+Mana Points (MP): 518,125/518,125 --> 584,734/584,732
+
+Stamina: 294,987/294,987 --> 329,537/329,537
+
+Stats
+
+Strength: 32997 --> 40033
+
+Agility: 43130 --> 49928
+
+Endurance: 23599 --> 26363
+
+Vitality: 23676 --> 27525
+
+Toughness: 20084 --> 22015
+
+Wisdom: 33160 --> 37423
+
+Intelligence: 26756 --> 30241
+
+Perception: 60776 --> 64921
+
+Willpower: 29986 --> 33860
+
+Free points: 0
+
+Titles: [Forerunner of the New World], [Bloodline Patriarch], [Holder of a Primordial’s True Blessing], [Dungeoneer XV], [Dungeon Pioneer VI], [Prodigious Slayer of the Mighty], [Kingslayer], [Nobility: Duke], [Progenitor of the 93rd Universe], [Prodigious Arcanist], [Perfect Evolution (D-grade)], [Premier Treasure Hunter], [Myth Originator], [Progenitor of Myriad Paths], [Mythical Prodigy], [Perfect Evolution (C-grade)], [Nevermore Challenger All-star], [Peerless Conqueror of Nevermore]
+
+Class Skills: [Superior Stealth Attack (Rare)], [Splitting Arcane Arrow Rain (Epic)], [Bestial Hunter’s Tracking (Epic)], [Piercing Cursed Arcane Fang (Epic)], [Avaricious Arcane Hunter’s Arrows (Epic)], [Archery of Expanding Horizons (Ancient)], [Arcane Powershot (Ancient)], [Arcane Awakening (Ancient)], [One Step, Thousand Miles (Ancient)], [Horizon-chasing Big Game Arcane Hunter (Ancient)], [Mark of the Horizon-Chasing Arcane Hunter (Ancient)], [Penetrating Arcane Arrow of Horizon’s Edge (Ancient)], [Relentness Hunt of the Avaricious Arcane Hunter (Legendary)], [Arcane Supremacy (Legendary)], [Unseen Arcane Hunter (Legendary)], [Lone Hunter of Horizon’s Edge (Legendary)], [Protean Arrow of Eternal Horizons (Legendary)], [Timeless Focus of the Apex Hunter (Legendary)], [Fangs of Man (Legendary)], [Unblemished Arcane Arrows of the Horizon (Legendary)], [Eternal Shadow of the Primal Hunter (Mythical)], [Primal Gaze of the Apex Hunter (Mythical)], [Moment of the Primal Hunter (Mythical)], [Event Horizon (Mythical)]
+
+Profession Skills: [Path of the Heretic-Chosen (Unique)], [Grimoire of the Heretic-Chosen (Unique)], [Alchemist’s Purification (Inferior)], [Alchemical Flame (Common)], [Brew Potion (Uncommon)], [Craft Elixir (Rare)], [Concoct Poison (Rare)], [Soul Ritualism of the Heretic-Chosen Alchemist (Ancient)], [Malefic Viper’s Poison (Ancient)], [Arcane Curse Manifestation (Ancient)], [Blood of the Malefic Viper (Legendary)], [Sense of the Malefic Viper (Legendary)], [Wings of the Malefic Viper (Legendary)], [Touch of the Malefic Viper (Legendary)], [Legacy Teachings of the Heretic-Chosen Alchemist (Legendary)], [Palate of the Malefic Viper (Legendary)], [Pride of the Malefic Viper (Legendary)], [Scales of the Malefic Viper (Legendary)], [Fangs of the Malefic Viper (Legendary)], [Core Manipulation of the Primal Hunter (Legendary)], [Divine Bargain of the Malefic Viper (Mythical)], [Sagacity of the Malefic Viper (Mythical)], [Heretic-Chosen’s Invocation of the Malefic Viper (Mythical)]
+
+Blessing: [True Blessing of the Malefic Viper (Blessing - True)]
+
+--
+
+As always, Jake had to note that the damn thing just kept getting longer. Looking at the skills he highlighted to see where he had gained upgrades, Jake had honestly thought he had gained more. Three class skill upgrades, two Malefic Viper Legacy skill upgrades, and, of course, a new skill in both, too.
+
+Overall, yeah, a little disappointing, but the upgrades he had gained were at least substantial, and he felt that what he hadn’t gained in skill upgrades, he’d instead gained in levels.
+
+Jake’s pace was, despite everything, pretty damn fast. He was certainly a lot stronger leaving the Pantheon of Life than he had been when he got there. Especially his Strength stat had experienced massive growth as not only did Jake still split his Free Points between Agility and Strength, but with Fangs getting upgraded, he’d gained even more stats.
+
+Granted, looking at his status, Jake felt that his Perception was starting to look a little low compared to the other stats. Sure, he still had his void lollipop that helped get some extra Perception, but it didn’t feel like it was enough.
+
+Right then and there, Jake made the executive decision to invest the rest of his Free Points in C-grade into Perception to ensure the stat kept being his highest by far.
+
+Levels and skill upgrades weren’t the only things Jake had gained from this trip, though, because one thing he’d definitely gotten out of this trip was some sweet, sweet loot.
+
+Jake had gotten a pretty damn sweet bow from the trip, too. Apex Hunter’s Bow of the World Tree was an absolutely insane weapon that perfectly suited Jake’s Path and had near-infinite future growth potential. Nature’s Attendant, Yggdrasil, and even Artemis had truly done a banger job when making it, and Jake couldn’t be happier.
+
+He’d technically also gotten a new mask after the Forest King had the one Jake wore returned to him. Seeing as the new and old masks were so damn similar, Jake didn’t really want to count it as more loot, but he still chose to include it anyway, as it had definitely been an impactful item due to the meaning behind it.
+
+Having the King back to life and now fully free of Jake was truly a burden lifted off Jake’s shoulder, as he neither had to deal with the thought of the King being forcefully bound to him, nor the guilt that his own stupidity and weakness had resulted in the Unique Lifeform's perishing.
+
+Then there was, of course, his new Umbral Cloak, gifted by Umbra. Granted, Jake knew that the god definitely had some ulterior motives behind gifting him the cloak, and she had downright admitted that at least one of the reasons was to make it easier to track him. Seeing as the cloak was connected to the Shadow Realm, he knew Umbra could detect the location of the cloak at all times, but he surmised it perhaps gave her even more insight than just what she had admitted to. Assuming she could get through Shroud of the Primordial, but Jake wouldn’t be surprised if this cloak was kind of a workaround to counter that skill in more ways than just location tracking.
+
+Not that Jake particularly minded, as he remained confident she wouldn’t be able to glean his true secrets.
+
+Anyhow, while Jake hadn’t gained a lot of items, those he had gotten were of the highest quality and likely ones he would keep using for a very long time, if not all the way to godhood.
+
+Of course, Jake had gained one more thing from his visit to the Pantheon of Life that he certainly hadn’t expected... his first girlfriend since his unfortunate university days. Just thinking about it felt weird, especially as he looked at the Godqueen sitting in the center of the flying vessel.
+
+Everything had gone a little fast, sure, but it had all felt right so far to Jake. Artemis also didn’t complain as the two of them just did what felt natural to them, and he had no regrets about how he had approached things. Despite not having any complaints, Jake still felt a little weird about things, as it was all so new to him and a big change.
+
+He also had to realize that the concept of relationships in the multiverse differed a lot from before. The two of them had made a commitment, but that didn’t mean they would be glued to one another, and he was sure that Artemis would have plenty of actual work to do both at the Order and back in the Pantheon of Life. It wouldn’t be weird if the two were apart for extremely long periods, as long as the mutual promise they had made to one another persisted.
+
+Of course, Jake also realized that this development meant he had a few things to consider upon returning to the Order and a few people he needed serious conversations with. Irin especially, and he was sure that she would be one of the first people he would meet upon returning to the Order of the Malefic Viper.
+
+He also couldn’t forget a certain high elf who still lived in his home back at the Order. Meira had certainly returned from Nevermore by now, and if Jake was being honest, he hoped the years she had been away had allowed her to truly grow into her own person and properly understand what she wanted. Hopefully, what she wanted didn’t include something Jake couldn’t and wouldn’t give her. Either way, a conversation would have to happen.
+
+Jake was awakened from his thoughts as Artemis spoke again.
+
+“And we’re approaching the teleportation hub,” the Godqueen explained to the group. “While it would be entirely possible to teleport without it, using a hub like this is far easier, and there’s already been established a connection with the Order of the Malefic Viper. Finally, seeing as this is the official return of the Chosen of the Malefic Viper and the arrival of the Ambassador from the Pantheon of Life, we should at least keep our transportation to official channels.”
+
+Using a Pulse of Perception, Jake saw they landed on a massive teleportation circle on the hub planet, and the second they touched down, the circle activated. Magic built up in the air and seeped into the vessel as Artemis gave them a final warning.
+
+“We’ll be going through the void now. The vessel will protect you, but be warned that it likely remains an uncomfortable experience.”
+
+There were nods of acknowledgement all along as everyone braced themselves, and a moment later, they performed the final teleport toward Primordial-4 and the Order of the Malefic Viper.
+
+All they had to do was briefly pass through the gap between worlds as a nice little shortcut... but as almost felt customary by now, Jake’s trips through the void rarely went as expected.

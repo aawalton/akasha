@@ -1,0 +1,167 @@
+---
+id: cbfb9af6-404a-5bb7-a7dc-a675c62dc3ef
+page-type-slug: story-chapter-royal-road
+title: "062 - Home Sweet Home"
+slug: 0062-062-home-sweet-home
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 62
+ownLength: 2093
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3731154/062-home-sweet-home"
+royalRoadId: "3731154"
+---
+
+Single Sword was one of the riskiest scenarios on our list. The female demon, the warrior, had stepped into the elevator. Where Lucy had trapped her between floors by cutting off the power. After exposing her to an unholy—figuratively, not literally—concoction of gases and misted acids.
+
+After Helene had listed the first ten candidates she could brew up, I lost track of the specifics. But she informed me that what we were doing was a war crime. Which I should feel worse about, but I struggled to feel empathy for the extradimensional invaders who'd slaughtered a significant chunk of mankind.
+
+If it had been the summoner, the trap almost certainly would have killed him. With a warrior, it was only a matter of time before she freed herself.
+
+Until then we needed to decimate the demon hounds and ideally incapacitate the kobolds.
+
+I shifted into the demon scout shape, pulled out Inevitable End, and activated Jaunt.
+
+A brave kobold who'd been charging me when I was still a kobold myself skittered to a halt when I turned to face him. I kicked him and sent him sprawling.
+
+"Surrender or die!" I bellowed. Kobolds hesitated, demon hounds didn't. And I didn't need them to. What I needed was to level my dagger skill, at least a point or two, before that demon made her way in here.
+
+Four of them were rushing me straight on. I charged them and jumped. Thanks to the Jaunt spell, they had no chance to react to my speed. While I whizzed over them, I managed to slice the dagger across the back of one of them. Its HP bar barely moved as a result—my natural attacks were a lot more efficient. But the debuff appeared, and its health started to drain.
+
+From the front entrance came shrieks, followed by deep, rumbling growls. Ysengrim, now at least twice as tall as before and more muscular than even my Dire Hyena shape, rushed in, mercilessly attacking kobolds and hounds alike.
+
+Tibert, also now boosted by the serum, stayed with Helene and the unbuffed Reynard.
+
+I kept bouncing around the lobby, using my speed to prevent any of our foes from ever swarming me. Kobolds I tossed aside with my claws or feet, against the demon hounds I used the dagger.
+
+Soon my level in the Daggers skill went up to 1.
+
+Even over the frantic melee, I heard metal screeching in the elevator shaft. Any minute now.
+
+["Still contained,"] Lucy reported. ["Not much longer."]
+
+Kobolds kept dying to Ysengrim's assault. That was not part of the plan. They were supposed to survive, if we could help it.
+
+["Helene. Remember. Kobolds should live."]
+
+There was no reaction. I glanced in her direction. She was smiling as she was directing Ysengrim through his slaughter.
+
+Fuck.
+
+"Helene—the tower! You are letting it get to you!"
+
+I hadn't felt the tower's influence at all. Of course I hadn't. Saint's Rebuke literally protected me from the influence of Greed. Helene had no such protection and a whole buffet of easy-to-gather experience.
+
+Helene shook her head, blinked, and the smile was gone.
+
+["Yes, sorry. Back on track,"] she wrote.
+
+Another scream of tearing metal came from the elevator shaft, followed by a howling metallic noise descending the shaft. Punctuated by a crash below.
+
+"She's coming," Lucy said, now back in my head.
+
+["Next step. Keep them off my back and take care,"] I wrote in party chat, before I crossed through the lobby and over to the elevator shaft, in which the demon had been stuck.
+
+I leaned in to listen for any sign of her position or status and barely managed to pull my head aside before she rammed a massive blade between the elevator doors. The sword was black and jagged, far too wide for a practical sword.
+
+I ducked to the side. If I could get one good surprise attack in, and the debuff landed, this might all be over already.
+
+She twisted the sword, forcing the elevator doors apart, before she fully opened them with a hand on one side and the sword on the other. The skin on her clawed hand was sizzling and smoking under the effects of Helene's concoction.
+
+The moment she stepped into the hallway, I jumped, holding the dagger in front of me, aiming just under the arm holding the sword.
+
+But she saw me coming. Before I could even touch her with the blade, she twisted, grabbed me by the arm, and redirected my momentum into the floor. Something crunched on my body, and all air was driven out of my lungs.
+
+I got one good look at her before I scrambled to dodge her foot, aiming to stomp my head into the floor. I succeeded—mostly. Her claws grazed my left arm. Leaving me with three gashing wounds.
+
+I got back to my feet while the demon… laughed. Half the skin on her face had melted away, exposing white bone underneath. Only two of her six eyes had kept their red glow. Her health was halfway down, and she had half a dozen debuffs on her. Miraculously, I had held on to the dagger.
+
+And she laughed at me.
+
+"You," she said as she faced me. "You are the trickster. The one who killed Mammon."
+
+She came for me with a wide swing, which I easily dodged, only for her to continue to turn and sweep my feet with her tail. She didn't follow up with another attack as I got back on my feet.
+
+"You are no fighter. Your trap failed. I will enjoy this."
+
+This was not going to plan. Even hurt as she was, I wasn't going to get another hit in. She was right. I was no fighter. A week ago I had never been in a fight.
+
+Then there came a distinct sound from behind her. That specific plop of air being displaced.
+
+"Kneel before Ț̵̨̫̤̞͎̊̄̏͂̈̾̽ͅḧ̸̞̺͕̞̟̣́̀͜e̵̛͉͊̊̉̌̓ ̸͚̬̜̼̈̿̈ͅA̶̡̛͎͖͇̙̻͐͗͊̐͜d̴̝̍v̷͓̖͉̼̦̥͘͘e̸̻̯͛̊͐͛r̸͉̤̖̊͐s̸̫̺̰̾̑̍̈́̊̚ǎ̶̧̼̬̼́͐̾̑r̷̨͍̙͉̀̾͘͘͝y̸̹̖͍̝̪͊̏́̓͂̒." Lucy's words, I wasn't even sure if they had been words, rang through the room. The first part I had understood. What came after was less like words and more a sensation. One that went past my ears and straight to gut-punching my soul. A concentrated punch of anger, frustration, despair, and something too old to fit inside language.
+
+And, if anything, the demon reacted even stronger. Her sword fell to the ground, and she whirled around. A sound of confusion escaped her throat.
+
+This was the opening I needed, and this time my dagger struck true. Right underneath the plate that covered her right shoulder. The debuff appeared underneath her health bar—Ruinbrand.
+
+Step 2: success.
+
+The demon screamed. In one swift motion she slammed her back—and in turn me—into the wall behind her. My already cracked ribs screamed with agony. This time the dagger dropped from my grip.
+
+While dazed, I caught sight of Lucy, standing there as their regular old self, blowing me a kiss, before they vanished again.
+
+The demon turned—too fast for me to react to—and grabbed me by the throat, pushing me against and up the wall.
+
+"Another trick. No more tricks. No matter if your poison takes me or not. You aren't going to be around for it."
+
+My vision already started to blur.
+
+"No—" I croaked.
+
+The demon leaned in, ever so slightly easing the pressure on my throat. "Yes?"
+
+"Not just trickster. Also shapeshifter."
+
+There wasn't enough left of her face to look puzzled. I shifted into the Nightmare Unicorn shape and immediately activated Desecration of the Damned.
+
+The moment my horn made contact, all seven debuffs on her increased in magnitude and duration. Impaired Sight became Blinded. Pain became Agony. Ruinbrand became Ruin.
+
+She didn't scream. She went to her knees, and there was only a gurgling sound as she tried to speak. She tilted over to her side.
+
+Lucy had fulfilled more than their share of our bargain. I had to make sure I got this kill and not one of Helene's debuffs. I stomped down on the demon's head, killing her.
+
+Hoof still in the remains of her head, I had just enough time to loot the corpse before The Crown of the Laughing Queen activated and a big notification appeared in the middle of my vision. And true to our pact, I didn't look at it.
+
+Sight unseen, I hit accept.
+
+This time the change granted by the crown wasn't painless. It was as disorienting and agonizing as the first time I had eaten a demon's heart.
+
+When I came back to my senses, I was on my knees. Knees attached to plantigrade legs. Human-like legs. In my shapeshifting menu, "Half-Dragon" was now an innate shape.
+
+I opened my eyes—my two eyes, thank god. But this would still take time to get used to. Heat, light, life-force. All overlapped in my vision. I looked up. Helene stood there, flanked by Ysengrim and Tibert, both radiating with life.
+
+Behind her, kobolds were slowly approaching, trying to get a look into the corridor, without one of the growling dogs biting their heads off. I couldn't see any remaining demon hounds. And the kobolds knew better than to fight us.
+
+I looked down at my mismatched hands. Mismatched arms even. The left looked just like my human self's. Entirely human, besides the claws on my fingers. The right was entirely demon. Black and armored with those chitin-like plates.
+
+Just as I tried to stand, something moved at the edge of my vision. I turned, only to realize it was my own goddamned tail. As black as my arm, but more slender than the demon's had been. At a glance, more like a cat than a monster.
+
+"Oh for fuck's sake," I mumbled, before I turned back to Helene.
+
+Lucy had joined her and nodded with smug satisfaction. Their life-force looked different. "Definitely an upgrade. Don't you think, Helene?" They elbowed Helene, who'd only been staring until this point.
+
+"More human than before," Helene said. "In most ways."
+
+Lucy fully turned to Helene. "Nice to meet you, Helene. Not yet sure if I'm a fan or not." Before Helene could respond, they turned back to me. "One more to go. I'll see if I can take care of that. If you start to feel something weird in, say, thirty seconds, do not fight it. It'll pass, and it'll feel worse than it actually is. Ta-ta."
+
+Before I could ask what the hell they meant, they vanished again. I asked Gabriel if she knew what they meant.
+
+"I am not entirely sure. Even here, they can't directly harm you." Gabriel's voice wasn't as clear as it usually was. Here in the tower, it was distorted.
+
+Helene got a step closer. "Eve? Are you okay? That looked… bad."
+
+I shrugged. Of all the things the Apocalypse had given me, pain was the most abundant. "I'm fine. You? Anyone got hurt?"
+
+Helene looked over her shoulder, glaring at one of the female kobolds. "Some of them got hits in on my boys. But nothing they can't come back from."
+
+I nodded. "Good. One more to—" I was interrupted by a strange pulling sensation. I lurched forward, even though the sensation had no direction to it. That same part inside of me that had reacted to Lucy's strange incantation before now felt like it was being pulled out of me. I groaned and fell back to my knees. I felt like my mind, or my soul, or something, was being stretched, pulled. Even if I hadn't wanted to follow Lucy's guidance that I shouldn't resist, I didn't even know how I could resist this.
+
+It only lasted seconds, but I felt so helpless. It felt so wrong. I put my hands against my temples, only to feel the horns that were poking through my hair.
+
+And then it was over, and I felt drained. My health bar hadn't moved. There was no debuff. Yet it felt all wrong. At some point, Reynard had run up to my side and was carefully poking and prodding my face with his nose. I carefully pushed him to the side before I threw up.
+
+"What has just been taken from you doesn't make you lesser. It'll heal." Gabriel's voice still had trouble reaching me.
+
+Behind me, a scream grew louder. A deep, guttural scream passed down the elevator shaft, right by the doors the other demon had forced open, and ended in a wet crunch as the remaining demon hit the crashed elevator car at the bottom.
+
+A red dot remained on my mini-map—motionless.

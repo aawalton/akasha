@@ -1,0 +1,349 @@
+---
+id: baab839d-a99b-5ce5-9e8e-ebdb0435c0d0
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED NINETY-THREE: Flashes V"
+slug: 0195-one-hundred-ninety-three-flashes-v
+partOf: super-supportive
+position: 195
+ownLength: 5093
+unit: words
+publishedAt: 2024-12-28
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1979008/one-hundred-ninety-three-flashes-v"
+royalRoadId: "1979008"
+---
+
+193
+
+******
+
+“This is Lexi,” said Torsten Klein, the wanted poster behind him expanding to show the Meister. The video clip started to play, and the four volunteers saw a chain extend and bend in an ‘S’ shape to slice two different incoming tennis balls in half. “Wonderful student. He’s dedicated, takes instruction well, asks thoughtful questions after reviewing his footage—”
+
+“So much praise! You didn’t have anything to say about Haoyu.”
+
+“He probably didn’t say anything about Haoyu because you talked about him for three minutes straight,” Hale Zhang-Demir said to her husband. “There was nothing left to cover.”
+
+Haoyu’s father laughed and waved Torsten on. “Tell us about Lexi! How’s he doing now that he finally made it here?”
+
+“Well from the looks of it.” Aparna Sethi wore an interested expression on her face. “I know Meisters have an advantage in combat, especially these young ones. I told my Ignacio he’d be cheating with those knives of his. But that’s impressive, and…I think I’ve seen that weapon before.”
+
+“Then you’re in rare company,” said Torsten. “Lexi is only the second known Meister with a Mind Writher. The first was an unregistered who died decades ago after causing some trouble with his. You might remember it from new weapon reports released back in the day?”
+
+Aparna nodded. “It’s harder to keep track now, with so many more exotic options being given to our Meisters. Back then, anything that didn’t closely resemble human weaponry stood out more and caused a stir.”
+
+“This one caused a stir among the faculty. It’s got very obvious potential. He can cut a car in half with it and thread a needle, theoretically at the same time. And it gets hot, sometimes randomly.” One of the tennis balls on the video was smoking. “Fittingly for a whiplike weapon, it’s capable of supersonic speeds. That’s part of the trouble with it. For us and for Lexi. It’s overly responsive to him, in a way. Even his idle thoughts, or his moods, seem to change its motion. When he’s consciously controlling it, it’s actually much easier to fight him. Slower. More predictable.
+
+“As he switches from conscious control to a more spontaneous, reflexive state in the heat of a fight…things get more interesting.”
+
+The clip shifted to a new one, showing Lexi in a duel against Tuyet.
+
+“This is a fast enough reaction to deal with anyone in the current class,” said Torsten, as he zoomed in to show the whip slicing a dart out of the air, its tip already coiling toward another one and just missing. “If that first dart hadn’t been a decoy, Lexi might not have lost this fight. However, he can’t respond this quickly deliberately.”
+
+“Poor Lexi,” said Hale. “I’m sure that frustrates him to death. He’s not someone who enjoys being out of control.”
+
+“He’ll get there,” Klein said confidently. “We’ll get him there. For now, though, don’t let him kill you with this thing, Aparna. It has two very different paces.”
+
+The Adjuster smiled. “Controlled,” she said. “And <<mischievous>>.”
+
+“Yes,” Klein agreed. “Now, moving on to Reinhard, we have a student who…”
+
+******
+
+******
+
+“You chopped my girlfriend in half.”
+
+“I am so sorry, Everly. I don’t know why…I can’t believe I—”
+
+“It’s fine,” said Haoyu, holding Everly’s stiff form out toward Lexi as if to offer proof. “Look. Fine. You’re fine, right, Everly?”
+
+“I’m not mad or anything, but I’ve been better.”
+
+It had only been a few seconds, and the team was recovering from the attacks. Alden’s shoes crunched on a shard of the lamp Big Snake had thrown that hadn’t yet blown away. He was still holding his shield of woven webbing between Galecourse and the others.
+
+We can’t stay here.
+
+His heart was pounding; an attack from Klein had a tendency to do that. Thinking about the fact that if this were real, Everly would be dead, so quickly from a simple accident—that would get your adrenaline going, too.
+
+And who knew how long they had before something else came their way?
+
+Instructor Klein had left their team and pelted toward one of Heloísa’s teammates, a Vocal Brute who was running toward the middle of the gym. He seemed to be making a solo break for the finish line…unless he was just freaking out because Mrs. Zhang-Demir had barreled into his team and grabbed their captain.
+
+Klein took the running Brute down in a similar fashion to Kon. Obviously it was leg-breaker day for him.
+
+Is Klein’s arm stiff? It’s kind of hard to tell. At the rate he’s moving, he’ll be back here in a minute to hit us all again.
+
+“We take Everly back to the start and see if her suit goes back to normal,” Alden said. The wind stopped. Galecourse repositioning. He glanced over the top of the shield at her. “Kon needs to be healed, too, if possible. It’s really early in the class for him to be working with one leg, especially if this is the pace we’re going to be dealing with.”
+
+“I don’t know how it happened,” Lexi was saying. “Instructor Klein was just so hard to attack, and he was right here in the middle of us all, and…”
+
+Kon, Haoyu, and Alden exchanged looks. In Haoyu’s arms, Everly’s face was pointed straight up, the neck of her suit not allowing enough freedom of movement for her to do much else. And Lexi was too busy staring at her to notice them. His expression was devastated, and the murder weapon hung short and limp from his right hand.
+
+“I could take her back by myself while the rest of you press forward,” said Kon.
+
+“All together,” Alden said. “What if someone attacks you? And don’t you have to hop on one leg?”
+
+“I hop like an S-rank. And I’m not the most useless S-rank despite what certain stories on the internet—”
+
+“What are my parents doing to people?”
+
+At Haoyu’s question, Alden looked around again. In the past few seconds, Heloísa had somehow ended up back at the starting line. Her remaining teammates were scattered like chickens. One of them seemed to be trying to join up with Mehdi’s team.
+
+And Mrs. Zhang-Demir, who’d been grabbing Heloísa the last time Alden had checked, now had Astrid tucked under her arm like a stuffed animal with a surprised look stitched on its face. She was running toward the starting line with her Astrid doll while Max was dragged along behind them, clinging to Astrid’s ankle like he hoped that might make Haoyu’s mother let go.
+
+Meanwhile, Jeffy was rolling across the floor from some attack Alden hadn’t seen, and Finlay was grabbing the heavy lifematter bag Jeffy must have dropped when he fell, snatching it up and glaring toward Winston Heelfeather, who was out on the floor now, still without a team.
+
+“What the—?”
+
+Before Alden could get the words out, his eyes skimmed past Winston and over to Reinhard’s group at the corner opposite from them, still very close to the start. He saw the archer raising his bow in defense as Haoyu’s dad ran toward him.
+
+Mr. Zhang-Demir was currently in between their two teams.
+
+“Possible arrow from four o’clock.”
+
+Haoyu shifted Everly to one arm and lifted a fist.
+
+Lexi turned to see the potential threat, but what he was going to do about it with his whip in embarrassed-mode was anyone’s guess.
+
+Reinhard released his arrow. Haoyu’s father dodged as easily as Alden had expected.
+
+Alden tensed, but although it had looked like the arrow might fly right at their team given the direction of the shot, a timely gust from Galecourse worked in their favor this time. It slowed and turned the projectile.
+
+“Good call,” said Haoyu. “We need to watch the ranged people, too. And when Marsha finally gets out here and starts swinging…”
+
+“Enough chatting. Alden’s right. Time to run. All together.” Kon bonked his brother’s shoulder with his forehead. “Stop being dumb. Get your whip out. Let’s go.”
+
+******
+
+******
+
+“Excuse me, everyone. Everyone! I need some weights for my team! Some of you took more than your share. Søren…Søren if you’re not going to join us, then you know you should give Olive that sandbag—”
+
+“What do you mean, Febri? You’d rather have the glow boy? I’m an S. An all S team would be a guaranteed win, and this is important. I already checked the volunteer list for the prize, and there are nine different people I want to train myself against. I’d like to win today and Friday. I know you—”
+
+“Heloísa, Febri’s team is full, so I’ll be joining yours. I’ll replace your most cowardly member. That one that’s dead out past the midline.”
+
+“Sorry. I’m going to beat Mehdi with an all A team, Jupiter. Hey, Haoyu! Your mom is amazing! I want to be her.”
+
+“If you’re beating me with all A’s, I’m beating you with all A’s!”
+
+<<Febri, we need to go. Tuyet and Vandy are ready. Leave Søren alone, Winston.>>
+
+“I don’t need defending…”
+
+Alden’s team had just arrived back at the starting line, and the situation here was so darn noisy. He tuned them all out and focused on his own teammates. Fortunately, Everly and Kon had been restored to full mobility, so that meant a trip back to the start was the reset they’d all been hoping it would be.
+
+“If my parents are grabbing people and hauling them back here, do we need to rethink tying ourselves to each other?” Haoyu was asking.
+
+“I want a minute for making another ice weapon. If I had hit Klein with something that was more like a morning star, maybe….”
+
+I’m surprised it was so easy to get back here. Alden turned to look out over the gym floor while the others regrouped. He still had his shield preserved. The fifty-kilo sandbag was attached to the front, and his zip bag full of dirt with a couple of temper spheres added in for good measure was stuck to the back so that he could reach it if he wanted it. He had loops of spare paracord around his waist like a belt. That was enough prep for another attempt, and he expected there would be a lot of attempts now that they’d seen what it was like out there.
+
+He’d actually thought it would be a fight just to return to start, but other than him shielding the team from Galecourse while they ran, they hadn’t had to deal with anything.
+
+Why didn’t they hit us again on the way back?
+
+Instructor Klein and the Zhang-Demirs were still attacking. Alden saw Haoyu’s parents going after members of Heloísa’s group and Reinhard’s. And Klein was greeting Mehdi’s team—which had just entered the floor a short distance to the right of where Alden now stood—with an aerial approach only slightly different from the one he’d used on them a minute ago.
+
+A few voices quieted as the owners realized something interesting was going on beside them. Alden watched as Klein swung off an invisible block positioned about twenty feet in the air…one-handed…then hit the starting line barrier right over their heads. Mimicking Mr. Zhang-Demir’s earlier move, he launched himself powerfully toward Mehdi’s fleeing team.
+
+Mehdi made the bold decision to tackle one of his own teammates out of the way roughly. The instructor let him dodge several strikes himself before taking him down with a brutal kick to the knee.
+
+“He hates legs today,” Kon muttered. “What’s he got against our legs? Can’t he break arms to start with like a friendly teacher?”
+
+Mehdi with a broken leg still moved noticeably better than most people as he tried to get a hit of his own in before Klein sprang away from him.
+
+“And he’s doing one-handed handsprings to spite us,” Astrid grumbled. “His time will come…”
+
+“Everly hit him in the butt!” Kon announced.
+
+Astrid whirled. “What? Someone landed a hit?”
+
+“It was just an ice ball,” Everly said, layering ice on another small weight to make a new weapon. “I should have given it spikes.”
+
+“Astrid, we’re about to go! We need to get back to the others,” Max protested as his Morph Brute bounded into the middle of Alden’s team to give Everly a celebratory hug.
+
+While Astrid shook Everly back and forth enthusiastically, Alden kept trying to get a visual handle on what was going on.
+
+Mehdi was ordering his team to move forward. The huge sandbag on his back and his own high agility were helping him deal with the wind, but Alden thought it was a strange choice for him not to just launch himself back over the starting line to fix the “broken” leg. Big Snake was lifting something that looked like a boulder made of dried paint out of his eclectic ammo collection. Mrs. Zhang-Demir was going for one of the scattered members of Heloísa’s team who was belly crawling toward the finish.
+
+Ahead of the belly crawler, there was another wispy flare of the strange light that had to be caused by Ignacio’s grandmother, since she didn’t seem to be doing anything else from her perch against the barrier at the midline.
+
+This is a lot to process.
+
+Students on the floor out there, people who hadn’t even made a first attempt yet raising their voices at each other back here. Galecourse lowering her hands and taking a lap for another reposition, Klein taking out a runner’s leg…and Haoyu’s parents were both running this way now, each of them with a superpowered teenager in their arms, their victims’ struggles being ignored as easily as a sleepy toddler’s would have been.
+
+I don’t think I can follow it all. He took a step that put him as close to the starting line as possible without passing through the barrier. If they’re moving this fast and there are this many of them and I don’t even know what those light wisps do or how many she cast while we were under attack by Klein…
+
+It felt like there was more action happening on the floor in ten seconds than he could unravel in a minute, and it would only get worse once the others got out there, got their bearings, and started getting serious.
+
+What do we do to cross? Assign one member of the team to monitor every adult?
+
+But the whole team had to respond when under attack if they wanted to have any chance of repelling the trouble without injury.
+
+He’d thought maybe the volunteers and the instructors would deliver punishing injuries that would slow progress without halting it. But broken legs and stolen teammates was a little more potent than a slowing.
+
+Every attack could result in a situation where you needed a teammate to return here to have their suit undamaged. With those attacks coming so quickly…
+
+No wonder it might take two days of class for someone to reach the end.
+
+This situation actually looked impossible to defeat right now, at least with a whole team. Maybe three or four people could get taken down like sacrificial lambs along the way, while the remainder of their group ran for victory. But if it was a team challenge was that even valid?
+
+Heloísa’s faithless teammates were basically demolished, so running and crawling ahead without her hadn’t gotten them anywhere.
+
+We really are lucky they didn’t just kill us all on our way back, or our whole team would be lying on the floor in a pile of petrified bodies.
+
+Lucille and Finlay were looking insanely lucky, too, just crouching out there together with heavy weights keeping their feet on the ground. Jeffy, trying to get back to join them, had just become a target for Klein.
+
+“Jeffy!” bellowed Max from where he stood on Alden’s right. “Jeffy, you—READ YOUR TEXT MESSAGES!”
+
+Alden could practically hear the unspoken “you dumbass!” in Max’s voice. When he glanced over, he saw his fellow B-rank was doing more or less the same thing as him. Standing at the starting line, staring really hard at the massacre taking place on the floor.
+
+It made Alden feel a little competitive.
+
+I can notice stuff, too.
+
+He resolved himself to being over-challenged by information quantity and just getting on with it. After all, he’d already volunteered to be the member of their team who focused on the game’s rules.
+
+Jeffy was now down to one leg. Mehdi’s team was in the process of being wrecked like Heloísa’s.
+
+Lucille and Finlay…were still standing there.
+
+That seems unfair. Max’s teammates had been out there longer than anyone else. Why are two S’s going un-attacked?
+
+“Oh.”
+
+He texted his team.
+
+[Alden: I think Big Snake, Klein, and Haoyu’s parents only attack people who are moving toward the finish line. We can head back to start or stand still out there, and those three should leave us alone.]
+
+Just the realization that moving forward was a prerequisite for being attacked made the battle out there significantly less complicated. The Instructors and volunteers weren’t randomly picking victims. There must be a rotation of some kind they were each adhering to, and the thing making it look completely random right now was the fact that every time it was Lucille and Finlay’s “turn” they were being skipped over, meaning there were more attackers focused on fewer moving targets.
+
+[Alden: So we never want to be the only team moving forward. And we should wait for some of these others to get their shit together and get out there. We’ll use a run-stop-run strategy to avoid some attacks.]
+
+One rule at a time. Figure out what kind of chaos you’re facing, Alden.
+
+That’s how you survive.
+
+******
+
+******
+
+It was so embarrassing to lie on the floor with a pair of huge sausage-shaped sandbags beside you, just waiting for your four S-rank teammates to fight their way back to you. Figuring out that people were safer if they didn’t move forward or try to attack someone had taken Søren’s team about fifteen minutes. Vandy, Tuyet, Febri, and Ignacio were all so good at attacking and so dedicated to moving toward the finish that they hadn’t noticed the pattern happening until they’d gotten wiped out a few times.
+
+Ever since, when it was time to go back to the starting line to collect lost teammates, Søren’s only job was to lie where they’d left him, between the bags so that he was protected from wind and largely protected from the shrapnel that was becoming more of a problem. He couldn’t even practice glowing anymore, since technically that was the beginning of an attack for him. A way to generate light in pitch dark so that he could still shape. It might make him a valid target.
+
+I’m the class joke. My most valuable ability is holding onto bags and not getting blow away.
+
+I don’t want to cause problems for the team, but this is torture.
+
+At least not going back to the start anymore meant he didn’t have to hear Winston making comments about how someone being babysat by a bunch of S’s didn’t need two sandbags. He wanted heavy bags for a couple of his own teammates, and he was just trying to guilt Søren into giving them to him.
+
+Last time Søren had argued with him, Winston had made things especially weird by trying a new tactic and insisting that Olive was a girl. Like Søren was incapable of noticing her very nice girlish qualities on his own. And like it meant something that obligated them all to something archaic.
+
+If Olive wanted to ask for a bag, she could ask for a bag. And Søren would tell her no because sharing resources with competitors was not a normal part of this class. The elemental weights had been limited in number for a reason. Getting off the floor when the wind hit and getting to them first had been part of the game, and if Søren was going to give them back, he’d give them back to Tuyet and Ignacio who’d gotten them for their team in the first place.
+
+And they wouldn’t give them to Olive either because they could use them themselves in various ways. Ignacio was already talking about knifing one open before class ended in about half an hour and throwing the sand in Klein’s eyes for a surprise.
+
+At least Olive has illusions she can actually work with. She’s even got them looking all right in the wind, and she surprised Omega Scorpii Demir with one. These bags are the only thing keeping me from being even more helpless.
+
+Søren had put a lot of his points into Strength, so he could carry them. He could block Instructor Waker’s throws with them if Febri ever failed to yank him out of the way in time. If he got separated from the team when they needed to move forward, he could get back to them with the bags’ help.
+
+The thing I can’t do is shape.
+
+He tried for the billionth time to wrap his head around his element. The gym was full of light from the transparent ceiling high overhead. Light was everywhere. But he was supposed to be able to shape it like it wasn’t radiation…like it was this solid thing like water or ground, and that was…
+
+He did have the ability. He had caught himself on fire with it. Twice actually. Both times he’d been desperate and angry. He’d managed to hide it the first time. The second…
+
+“Are you all right, Søren?”
+
+Febri’s voice. A thump as a foot landed on the bag to Søren’s left. They were back.
+
+He sat up and looked at his teammate. Febri’s short black hair was all blowing toward him in the heavy wind. He had one hand wrapped around the bag handle, and the other was giving Tuyet a point of solidity to cling to.
+
+“I’m fine. I’m just the class joke.”
+
+“What?”
+
+Søren didn’t get a chance to brush it off. Before he could, there was a series of unfamiliar, sharp cracking sounds from ahead of them and off to the left. The same direction the wind was currently blowing from. The direction the two lead teams were in. Lucille’s team. Kon and Haoyu’s.
+
+A second later, Ignacio shouted a warning. Vandy lifted her hands. And then they were all in the middle of a hailstorm.
+
+“What?!” Febri asked again, this time looking around to see the team that was the source of the flying ice. Søren tried to move into a squat just so he’d be ready for whatever fresh disaster this was after a class full of that kind of thing, but when he tried to push off the floor with a hand, his palm landed on a small ice chip that burned with cold. And the hand shot out from under him like he’d set it in a puddle of oil.
+
+Ignacio had taken a step at the wrong moment, too. He fell into Vandy before righting himself.
+
+“It’s not normal ice!” Tuyet said. “This is Everly’s patch sp—<<Hey!>>”
+
+She and Febri both ducked as a piece the size of a cafeteria tray flipped through the air toward them.
+
+“What are they doing?” Vandy asked.
+
+“I just want to know why they’re always in front of us no matter how fast we move! Are Haoyu’s parents going easy on him or something?” Febri said.
+
+“I don’t think so since they’ve taken him back to the start more than any other member of that team,” Vandy said seriously.
+
+“I know that, Vandy, I just don’t understand why they’re always out in front with Lucille’s team.”
+
+******
+
+******
+
+“I don’t know what kind of falling-out you’re having with your weapon, but it had better do some more of that super fast whipping around that killed me earlier. Right now!” Everly said, standing barefoot in the center of the big ice patch they’d just managed to make together by keeping her spell impression powder protected from the wind with Alden’s shield.
+
+“I’m doing my best!” Lexi said. He was sitting on the ice between Everly’s ankles and the shield, along with Kon and Alden. Writher was slapping the ice, carving out chunks and shards and sending them flying.
+
+Haoyu wasn’t with them. He was trying to make a solo return trip after his father, laughing, had hauled him back to the starting line for the eleventh time since class had started.
+
+“Faster!” yelled Everly.
+
+“Yeah, faster!” shouted Kon. “What is this weak whippery?!”
+
+I know you two are trying to fix him, but you’re just going to give him anxiety, Alden thought.
+
+Writher was moving better than it had been. For most of the class, Lexi had had such a tight rein on it whenever it was long that it had been acting more like a lance or a sword than a whip. At least he was letting it be flexible again.
+
+All of this was part of a desperate plan to hit Instructor Klein with some ice. Or just make him slip on some ice. The Agility monster was currently downwind near the starting line, going after Winston’s team. It would be their team’s turn next, according to the rotation that Alden had figured out for Klein, and the only way to prevent a leg-breaking was to hit the instructor with something he would consider a successful attack.
+
+Hitting him up close was nearly impossible with Writher being less writhy than usual. Maybe, distracted with another team, a single ice chip would find its way beneath the son of an eel’s feet. And he’d slip a millimeter and decide to count it.
+
+Rewarding attacks he considered successful enough was Klein’s only “weakness” as an opponent.
+
+He and Instructor Waker were still teaching the same lessons they had on the first week of class. Klein wanted to see good offense. Big Snake wanted to see defense. Show you’d learned the lesson by hitting Klein with something, or protect yourself or a teammate from one of Big Snake’s pitches, and you’d be skipped for a rotation even if you were moving forward.
+
+Big Snake was easy. Klein was a menace.
+
+A flicker of light between them and their enemy made Alden pull up the aerial shot of the gym floor he’d borrowed from drone footage. With a thought, he added another X to it in approximately the spot where he’d seen the flicker. This was his homemade map of electrocution traps. Those things would kill you. X’s got added whenever he saw a flicker and subtracted whenever he saw someone die in a trap. His little map here wasn’t perfect, but it was preventing a lot of accidents for their team.
+
+They were approaching the three-quarter mark. It was the most forward progress they’d made since class started, and they really wanted to be off Klein’s hit list for just one round so that they could make a break for the finish when Haoyu reached them.
+
+By now, every team had realized that standing in place was a trick to avoid attacks, but their team and Max’s seemed to be the only ones actively aware of and trying to manipulate the situation with Klein and Big Snake. Marsha regularly got Klein to leave her team alone, but that was because Marsha attacked every single time she thought she had the slightest chance. Judging by a comment she’d made the last time they’d ended up back at the starting line with her, she was upset that she wasn’t getting as many turns to face Klein head-on as everyone else seemed to be, instead of proud that she was being acknowledged as a good threat.
+
+Max had had to clap a had over Jeffy’s mouth before the Aqua Brute could tell her how it worked.
+
+[Alden: I finally figured out the Zhang-Demir tactics. When they start to approach us, whoever makes a move to attack or get in between them and a teammate first is the one who gets stolen and taken back to the start. That’s why it’s always Haoyu for our team. He’s the one who watches them the most, so he sees them coming and responds first.]
+
+The team had gotten used to him texting in the heat of whatever was going on. There was just no point in waiting. Everyone could read when they got a chance and stopped being ice machines.
+
+<<HIT IT HARD!>> Kon bellowed in Russian.
+
+Suddenly the ice was making a sizzling noise as Lexi whipped it.
+
+Kon brightened. <<More! The battle against the ice and cold is in our blood.>>
+
+[Alden: I think the Mr. and Mrs. Zhang-Demir approach is about improving our teamwork. Teams ought to be putting people who can run back from the start on their own in front of the danger anyway. It’s like they’re giving us a way to pick who gets separated from the rest.]
+
+“You’ve got this, Lexi!” he encouraged as soon as he finished typing. He didn’t want his analysis to put a damper on whatever ice-fighting Russian imagery seemed to be working for the brothers. That was also why he wasn’t mentioning the fact that Writher throwing platter-sized chunks of magical ice at all the teams behind them wasn’t going to be a popular thing.
+
+Marsha was scything unsuspecting classmates like wheat anytime her follow-up stroke missed one of the adults, so they were hardly as bad as that.
+
+Alden heard the pop of Writher suddenly moving more like Writher, followed by a series of incredibly fast cracks from the ice, and he watched as the glowing golden chain went nuts for a second. The light from it burned itself into his eyes, and then, just as quickly as it had started, it was back to looking all stiff, like an overlong rapier.
+
+But the blizzard of unnaturally slippery ice chips they’d hoped for was sliding, skittering, and soaring across the gym. A few pieces were thrown by Writher itself; others were driven by the wind.
+
+“Yes!” shouted Everly, throwing a fist into the air as some of the smaller chips sprinkled down over their ultimate target…and literally everyone currently in between them and Klein.
+
+Including Haoyu’s mother and father, who both turned away from the teams they’d been heading toward with wolfish grins.
+
+“Shit,” said Alden.
+
+[Alden: By the way, I think Haoyu’s parents might also take long distance attacks against them as an invitation.]******

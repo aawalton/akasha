@@ -1,0 +1,251 @@
+---
+id: 7ae2d7d0-6a7d-5ca3-bdd6-dc07fd484990
+page-type-slug: story-chapter-royal-road
+title: "255 Multifaceted"
+slug: 0214-255-multifaceted
+partOf: the-new-world
+position: 214
+ownLength: 2065
+unit: words
+ownProgress: 2065
+publishedAt: 2020-05-13
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/495821/255-multifaceted"
+royalRoadId: "495821"
+markedReadAt: "2026-06-29T21:28:20.665Z"
+---
+
+Hod's hands twitched as I stared him down. The birdman's scrawny frame trembled after a few seconds, and Hod let out a groan,
+
+"Before Hod explain, Hod ask Harbinger to stop staring at Hod."
+
+I scoffed, "What? You know I'm not going to hurt you or anything like that...right?"
+
+"Hod know...Other Hod don't."
+
+I crossed my arms, "Well, consider this conversation a hostage situation. You're hostage until you talk about the whole other Hod thing. I need to know what's going on for my soldier's safety. I don't think you could kill me or anything, but everybody else? I have no idea."
+
+"Other Hod...says you not need worry about other Hod."
+
+"Let me talk to this 'other Hod.' I'll decide that on my own.'"
+
+Hod's eyes widened with fear, a bit of sweat pouring from above his beak. Hod wrestled with himself for a moment before his frame once more saturated with mana. With the umbral energies permeating his surroundings, his eyes turned red and bloody. He spoke clearly,
+
+"I...I am other Hod."
+
+I walked up to him, waving my hand across the dark energy leaking off his frame,
+
+"Ah, that's eldritch energy."
+
+Other Hod's eyes narrowed like a cat getting sprayed with water,
+
+"How can you identify the energy type?"
+
+I glanced at my hand, "I can taste it. The energy is eldritch for sure."
+
+Other Hod's breathing sped up, close to hyperventilating. I peered back and forth,
+
+"Are...Are you ok?"
+
+"Yes...Other Hod just fine."
+
+A liquid like oil dripped from his frame. We stayed there for a few moments before other Hod whimpered, "Can I leave?"
+
+"I'm not angry at you, you know that, right? I just need to know who you are and what you're doing."
+
+Other Hod took a step back, his legs trembling. His mental defenses falling apart under some unseen pressure, he fell onto his knees. He grunted,
+
+"Please...don't kill me."
+
+"Never intended to."
+
+Its breathing slowed, the eldritch energy signature dampening a bit. It rekindled, a blaze unbridled as its eyes widened,
+
+"You're not?"
+
+I spread out my arms, "What do I look like to you? A monster?"
+
+"...Yes."
+
+"What, really?"
+
+"You are far more a monster than I."
+
+I crossed my arms, "You're an eldritch, huh?"
+
+Its eyes narrowed, "I...yes."
+
+I raised an eyebrow, "You've been hiding this entire time, inside of Hod...Why? Most eldritch are far too hungry for that. They're more mindless and virulent. This seems a bit too calculating for an eldritch."
+
+I remembered Baldag-Ruhl.
+
+"Well, most of them."
+
+The eldritch stared down, fear oozing off it,
+
+"I was hiding."
+
+I pointed at my chest, "From me?"
+
+"Yes. You are a true monster."
+
+I dwelled on that for a bit. Huh, me, a monster? Yeah, maybe. I was tough to kill and could out drain a Hybrid, let alone an eldritch. At the same time, I always thought monsters were made in the mind more so than the body. It's like serial killer compared to a wolf. The wolf might kill you for food, but that wasn't evil. It was just trying to survive. A serial killer? They were evil down to their core, whether in a human body or not.
+
+I was more like the wolf in that regard. I mean, I didn't kill eldritch unless they were mindless murderers. True, that was more often than not, but I made exceptions like with Amara. To think of it, that shapeshifting eldritch showed me as her biggest fear. The eldritch in the tunnel too, they all looked at me like a monster. I tilted my head,
+
+"So why do eldritch seem scared of me?"
+
+Other Hod waved a hand across his face as if the answer was obvious, "You cannot be killed, and your hunger is unending."
+
+"Yeah, that's kind of true. I'm not really hungry. Ever, actually."
+
+"You starve so utterly that you feast on your own unending flesh."
+
+My eyes widened, "Ok, that's a new one."
+
+Other Hod pointed at the markings on my arm, "What is that then?"
+
+I peered at my cipher inscriptions on my arms, "What, these? I'm just putting mana in these for extra stats. Nothing special."
+
+Hod pulled his shoulders up as if disgusted, "You use your blood, flesh, and bone to sate yourself. Even we, our hunger unending, refuse to dine on our own bodies."
+
+"Huh...I do have blood magic, and this is technically using my flesh and blood for mana...I mean, I guess that's true. It seems like a stretch to me, though."
+
+"I can see it as nothing else. You are Ouroboros devouring his own tail, and that is terrifying."
+
+"So, I know that's strange, but I wouldn't think of that as enough to be outright terrified of me, which you seem to be. There has to be more to this."
+
+"It is simple. You cannot be killed."
+
+"I'm pretty sure I can be."
+
+Other Hod winced,
+
+"It is not possible. When was the last time you lost awareness or your judgment?"
+
+I pointed at the ground, "The last time I splattered myself against this planet. Everything went white for a while."
+
+"But think of it. Did you ever truly lose consciousness?"
+
+I followed his advice, guiding myself through my memories. The more I thought about it, no, I never did actually go unconscious. Even when totally vaporized, I could still think. That didn't make much sense. I should need a brain to think. Otherwise, I was thinking without even using it.
+
+Wait a minute, was I as brainless as I thought?
+
+I shook off that ridiculous series of thoughts. I glanced at my hands, "Huh. Yeah, it's been a while."
+
+Other Hod's eyes narrowed once more,
+
+"You are the undying, a force that cannot be killed nor quenched. That is worthy of fear, something above we eldritch. We are like wolves and your kind like lambs. You, you are different. You are a bear, something even we wolves fear. You rule the forest, and all that lies within it. You are preeminent, and to any with eyes, it is obvious."
+
+"Ok, so I'm like a higher being to you eldritch, kind of like an Old One or something. I get that. What I don't understand is why you hid all this time?"
+
+Other Hod stared off to the side, "I...I wished not to be devoured."
+
+I let my hands flop against my sides, "If that's it, then don't worry about it. You haven't killed or overtaken Hod. If anything, you've got to be the reason he's even halfway competent in combat."
+
+The eldritch looked up at me, a glint in its eyes. Stunned to silence, it stayed there for a while. It murmured,
+
+"You're...impressed?"
+
+"Uh, yeah. You're good at what you do."
+
+Other Hod stared down, "To think it would show me mercy. That's unexpected."
+
+I pinched the bridge of my nose while staring down,
+
+"Jesus Christ, are all eldritch like this?"
+
+I looked back at it, "I'm not killing anybody. I could, but that doesn't mean I will. I just wanted to know what was going on."
+
+The eldritch half of Hod marveled at me as if staring at an idol. It bowed,
+
+"I...I haven't overtaken this simpleton. I shall continue to lay in the shadows, serving as you need."
+
+I furrowed my brow, "What? No. You should get the recognition you deserve. Let me know your name, and I'll make sure our troops know it. I give credit where credit is due. Simple as that."
+
+Other Hod scratched the back of his head with a winged arm,
+
+"That is unfair to Hod."
+
+"So he actually helps with fighting? Wow."
+
+"No, he does not, though his insights can, at times, be telling. He has lost much of who he was due to my manifestation."
+
+I remembered where we found Hod, underground in a desert world. Other Hod turned a wing to me,
+
+"I am what spawned from the energy pooling within him. I drained a mammoth portion of his mind. Your friend is the remnant I left behind. There would be nothing left by now, but you cut my control short with this...ring. It siphons my growth towards you, and you eat it."
+
+He showed an ebony ring, runic markings carved on it, and I remembered creating the conduit to prevent mana poisoning. I did the same to Althea, sending her excess mana towards me, though for different reasons. Hers was to prevent haphazard transformations while Hod's conduit was to stop mana poisoning. Turns out this personality was what I was actually hampering.
+
+In Althea's case, she eldritchified at random when her emotions spiked. She could control it now for the most part. Hod never got to that point, so he always supplied me with a steady source of energy at all times. At first I figured it was from a lack of control. It was instead stopping this other Hod from taking him over.
+
+It explained a lot.
+
+I scratched my head, "Your words are more put together, and you seem to understand your situation better than Hod does. By that logic, surely you could overwhelm him even in your current, repressed state?"
+
+"I could...I choose not too. You seem to like him and his meanderings."
+
+I did like Hod, goofy as he was.
+
+Other Hod's eyes narrowed, "And...at times, a wolf must wear a sheep's skin to graze."
+
+"Damn. This is a lot to take in."
+
+"It means little for you. I shall not overwhelm him. You shall continue your obliteration of the Adairs, my assistance guaranteed."
+
+I pursed my lips, "Because you're afraid, huh?"
+
+"It is as you say."
+
+I shook my head, "Here I hoped it would be out of admiration or respect. Maybe I was hoping for too much."
+
+"Fear is a far more reliable motivator than either of those weak emotions. Fear is primal. Fear is a destroyer of logic and the spawn of panic. It rips the mind into pieces, and those pieces are without cohesion. Without that wholeness, those pieces crumble before little."
+
+Other Hod gripped his winged, clawed fist, "And I shall put that fear behind me, using it to keep me alive."
+
+Huh, other Hod didn't seem so bad. Maybe he was a little dramatic at times, but he could have been far worse. If we talked more, I might understand the eldritch better overtime as well. He and Amara were both valuable resources in that regard.
+
+I raised my eyebrows. Speaking of Amara, I pointed at other Hod,
+
+"Wait a minute, are you why Hod has a crush on Amara?"
+
+The umbral flames shrunk from around Hod as his presence waned. His scarlet eyes blinked several times before he murmured,
+
+"Uh...no."
+
+Even beneath his dark transformation, the inklings of an intense blush leaked through. I grinned, "Ok, Ok. Sure."
+
+"Do not tell her. Please. I beg you."
+
+I raised my palms up, "I wouldn't do that." I nudged him with my elbow, "Not to say I couldn't give you any pointers, though."
+
+I raised my eyebrows a few times. The eldritch half shrunk further,
+
+"She fears you as I do. I doubt your meddling would be of much assistance."
+
+I stood tall, "Thanks for letting me know all this. I'll keep it in mind going forward. You wouldn't mind talking about the eldritch some other time, would you?"
+
+"I wouldn't defy you. If you desire to speak of it, we shall speak of it."
+
+"Good to know. You're dismissed."
+
+Other Hod's chest drooped as his energy waned. Returning to the inner sanctums of Hod's mind, he hissed, "Thank you for letting me live."
+
+I raised a hand, "Oh yeah, I was wondering if other eldritch are also scared of me like this?"
+
+Other Hod's eyes narrowed, "All of them, whether they shall admit it or not."
+
+I smirked, "Good to know."
+
+Hod returned, and his nonchalance came to as well. He glanced around, "Ah, Hod happy to be back."
+
+His lack of articulation became a little less funny knowing the cause. I walked up to him, giving the guy a pat on the shoulder,
+
+"It's good to see you again. How about we throw a feast for you? It'll be fun, and I'm sure the gialgathens could use one."
+
+Hod's chest puffed,
+
+"Hod like food."
+
+I smiled through a bit of sadness,
+
+"Come on, let's get you something good to eat."

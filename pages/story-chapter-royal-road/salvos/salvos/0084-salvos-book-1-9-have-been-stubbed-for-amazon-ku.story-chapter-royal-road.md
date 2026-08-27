@@ -1,0 +1,41 @@
+---
+id: 6ea94072-e630-5b95-88ef-677b72f20593
+page-type-slug: story-chapter-royal-road
+title: "Salvos Book 1-9 have been stubbed for Amazon KU!"
+slug: 0084-salvos-book-1-9-have-been-stubbed-for-amazon-ku
+partOf: salvos
+position: 84
+ownLength: 414
+unit: words
+publishedAt: 2023-04-14
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1170010/salvos-book-1-9-have-been-stubbed-for-amazon-ku"
+royalRoadId: "1170010"
+---
+
+Just so you know, Salvos Books 1-9 have all been stubbed for Amazon KU as was announced weeks back. Now, you can only read Salvos Books 1-9 on Amazon. But if you're an up to date reader, you don't need to worry about this as long as you remain up to date.
+
+Otherwise, if you want to support me and you have Kindle Unlimited, consider giving my Salvos books a download on KU as that will support me a lot. It will help me climb up the ranks, and if I do break Rank 1000 on Book 1, I will even post extra weekend chapters next week! All it needs is about 100 to 200 downloads to get there, so if you do have KU, give Salvos Book 1 a download <3
+
+Amazon.com: Curious Beginnings: A LitRPG Adventure (Salvos, Book 1) eBook : Lewis, V.A.: Kindle Store
+
+And if you're a reader who was catching up during the stubbening who wants to continue reading on KU, here are the links with the lists of chapters they contain:
+
+Salvos Book 1 (Chapter 0-40): Amazon.com: Curious Beginnings: A LitRPG Adventure (Salvos, Book 1) eBook : Lewis, V.A.: Kindle Store
+
+Salvos Book 2 (Chapter 41-100): Amazon.com: A Demon's Pride: An Isekai LitRPG Adventure (Salvos, Book 2) eBook : Lewis, V.A.: Kindle Store
+
+Salvos Book 3 (Chapter 101-168): Amazon.com: The Plaguelands: A LitRPG Adventure (Salvos, Book 3) eBook : Lewis, V.A.: Kindle Store
+
+Salvos Book 4 (Chapter 169-245): Amazon.com: Primeval Knowledge: A LitRPG Adventure (Salvos, Book 4) eBook : Lewis, V.A.: Kindle Store
+
+Salvos Book 5 (Chapter 246-289): Amazon.com: Corruption and Centinels: A Monster Evolution LitRPG (Salvos, Book 5) eBook : Lewis, V.A.: Kindle Store
+
+Salvos Book 6 (Chapter 290-345): Grand Skill: A LitRPG Adventure (Salvos, Book 6) - Kindle edition by Lewis, V.A.. Humor & Entertainment Kindle eBooks @ Amazon.com.
+
+Salvos Book 7 (Chapter 346-389): Amazon.com: Wretched Insect: A LitRPG Adventure (Salvos, Book 7) eBook : Lewis, V.A.: Kindle Store
+
+Salvos Book 8 (Chapter 390-435): The Treasures of Alexander: A LitRPG Adventure (Salvos, Book 8) - Kindle edition by Lewis, V.A.. Literature & Fiction Kindle eBooks @ Amazon.com.
+
+Salvos Book 9 (Chapter 436-520): Hellprinces: A LitRPG Adventure (Salvos, Book 9) - Kindle edition by Lewis, V.A.. Humor & Entertainment Kindle eBooks @ Amazon.com.
+
+Thanks for reading as always. And remember, if you have KU and download Salvos Book 1 or give it a buy so it reaches rank 1,000, I'll post extra weekend chapters next week :)

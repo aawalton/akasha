@@ -1,0 +1,259 @@
+---
+id: 6edc381c-e723-5c5b-be79-781095bbb049
+page-type-slug: story-chapter-royal-road
+title: "219: Pigheaded"
+slug: 0242-219-pigheaded
+partOf: there-is-no-epic-loot-here-only-puns
+position: 242
+ownLength: 3409
+unit: words
+publishedAt: 2025-07-06
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2412447/219-pigheaded"
+royalRoadId: "2412447"
+---
+
+The Elders sat in the lone diner not far from Madam Ghu’s Inn, listening to the town erupt into chaos. There were shouts and screams that filtered through the open window, overlaying poorly with the jumpy music player in the corner.
+
+“The weather today, hm?” Pic said, his wallet open on the table showing an image created by a camera of his family, the sour-looking child of Grim his grandson staring out back at Pic, making the old man sigh.
+
+“Nice breeze but it’s been a little dry,” Haldi said, drumming his fingers, nails edged with old cheese that maybe he even forgot if it was being left to mature or simply leftover from a previous experiment.
+
+Mila stared at them, her eyes so golden and yellow they glowed in the gloom, her crosswords untouched and her drink undrunk.
+
+Both were a sign of deep trouble in their group.
+
+“We can’t just sit here,” she finally said, and the other two looked at her then back at the table.
+
+“Mila, of course we can. There’s nothing else to do,” Pic said with a grit of his teeth, the sound of something heavier than metal emerging from his mouth.
+
+“Nothing at all,” Haldi agreed, more sadly.
+
+“My daughter is out there, fighting,” Mila began, her hands closely closing, leaving behind drag marks on the table.
+
+“Kids fight, we should let them get on with it,” Pic said, beginning to glare back and Mila’s nostrils flared and she stood up.
+
+“I’m going out,” she decided but Pic and Haldi shot her a look that made her pause only for her to kick the chair so hard it slammed into a wall and broke into pieces. She breathed heavily as she turned her rage into a deep drink of her liquor.
+
+“My daughter is fighting a-” she began and all three of them winced, pain so ancient it flared through their bones and for a moment they saw a restful black shadow deep in the earth stir, a slight twitch of a finger and Mila shut down.
+
+“My Ruli is a tough girl, she’s tough,” she said in a forced tone of normalcy.
+
+“She’s even got little Quiss with her. They do everything together,” Haldi tried to cheer her up and she didn’t look any happier about that.
+
+“The only useful purpose I’ve found for men is to use them as human shields,” Mila said and her tone turned so black that the others lowered their heads.
+
+“To the missing one and the three that should have been four,” Pic murmured and they all sipped a drink at that.
+
+“I love your coat, Mila. Who made it for you again?” Haldi asked, changing the conversation. Then as if on command, the room began to drain of mana, making all of them slowly relax, eyes turning paler as the diner lost mana, sucked away by the town, by Mimi.
+
+They vaguely recalled Mimi but the Elders didn’t remember the details anymore.
+
+“That little snippy one, Smalls, came here with that injured brute. Sharp tongue but savant with the needle,” Mila said slowly.
+
+“Didn’t we used to do something?” Pic grumbled to himself.
+
+“No way, we’ve always been old and complained. It’s our thing,” Haldi smiled, looking sleepy.
+
+They talked, they commented, they remembered, and they forgot.
+
+---
+
+“You really annoyed him,” Ruli said as the creature before seemed to be trying its best to be a mental pain and a physical eyesore. What used to be Tom... something writhed like a monstrous doll with the whipping tendrils of someone who couldn’t decide what weapon to use and thus used them all ineffectively.
+
+Ruli frowned as the name of his human form was scattered, failing to form in her mind a complete name, as if the human shell the creature wore contained not only it, but the identity.
+
+“Give me a dragon anyday,” Ruli grunted as Smalls snipped another piece of the creature off, only for it to regrow stupidly fast.
+
+“Let’s play a game. Who wants to be my new character? The new avatar of Tomt Tecken?” the thing asked and the name slotted into place and it felt so real that the name ‘Thomas Darkblade’ seemed so ridiculous that Ruli winced.
+
+“That’s their name; the Echo’s name,” Smalls said, wincing as well.
+
+“Yes, it is... I am not Fetomare, I am no Rossodrache, and I am no ‘Disfraces’,” Tomt Tecken agreed as if there was a hint of... envy to his tone.
+
+“And I am no Eral the Devourer,” he added, seeming amused by something no one else could hear and the name made Ruli shiver but Quiss stiffened like he had been stabbed.
+
+“That thing? I thought it would have starved by now. Isn’t Fun Island devoid of anything but demons?” he demanded and Tomt Tecken shrugged.
+
+“Wouldn’t know... really don’t care,” he said, his tone ending in a dark mirthful tone as he eyed Quiss like a piece of meat... that he could wear.
+
+“I feel violated,” Quiss said, stepping behind Ruli with the pride of a mouse.
+
+“What about me, big boy? Got enough chomp to risk a bite out of me?” Ruli asked as she pulled her burning sword free from its scabbard, the burning blade ‘Magma’.
+
+“Only that whatever part of you is Abyss will be returned home shortly. If you remain alive at that point... you’d be wise to stay there. Your king has delayed us long enough, far enough, and deep enough,” Tomt Tecken warned with actual disgust aimed at Ruli.
+
+“My mother says the same thing about dad, often,” Ruli retorted.
+
+“...Ew,” the Echo said with a shake of his head.
+
+“Says the thing that sounds like a ten year old opened a random dictionary of another language and picked the coolest thing he came across first for him and his friends,” Ruli added, pushing Quiss to go left as she went right.
+
+Between one of them, the Echo would burn today.
+
+---
+
+Fran, the first Goblin, once called ‘Francois’ before he gifted Cois with part of his name, was not one to express overt emotions with people he didn’t know or those that were failing to inspire conference in him.
+
+He lowered his lance as his mighty steed, Bacon, pawed the fine sand with his hooves as across the boss room, the group in strange stretchy costumes seemed to fall apart slightly.
+
+“I said left!” the girl that radiated a mighty seed snarled at the boy that had come before, Grim, who glared back.
+
+Fran tried not to hold a grudge from when Grim had revealed that the door to the second floor wasn’t locked upon someone entering his room. Thankfully, mother had rectified that shortly after the boy left...
+
+“No, you shouted ‘that way’ without calling a name out. It could have been directed at anyone!” Grim fired back. Fran watched as Deo and the other boy that he heard was called ‘Mas’ pulled their friends apart, both trying to cool their counterpart down with soothing words and bright words of encouragement. Behind them, the priestess of truth did her best to shield them with her goddess’ magic, looking a little dehydrated.
+
+The last member hung back, just watching and she radiated the purest replacement core of her seed. Fran couldn’t even see the original seed, just a core of mother’s pure energy.
+
+“Deo, Mas, rush and pincer-” the girl, Serma, commanded as her seed pulsed with something that was not only actively being converted at the slowest rate of all the group, but also seemed like she had one of those troublesome ‘inherited’ sorts that spoke of power in her bloodline.
+
+“Mas, Deo! Cover us as we rush in-” Grim ordered, his tongue glowing orange as if to match the dark seed’s power, his voice traveling through the Dungeon air more clearly but not necessarily with more authority.
+
+Mas skidded to a stop, trying to listen to the orders but Deo simply seemed to have heard ‘rush’ and he was upon Fran with his fist cocked back and a determined look on his face.
+
+The boy was earnest, but he was too slow. Fran was faster... just a little bit faster. He always would be. His spear slammed into Deo’s stomach, deeply blunted to be almost useless, but Fran exerted enough force to send Deo flying back into Mas where they rolled between Serma and Grim with startled cries.
+
+“If this was a real challenge, a serious undertaking of my home… Your friend would have been badly wounded due to your shared incompetence,” Fran thundered throughout the boss room and Bacon snorted out thick steam in agreement.
+
+Grim and Serma glared at him then at each other. Fran silently sighed at their reactions. Some people just didn’t work well together...
+
+Kemy got Deo up, the boy rubbing at his stomach with a wince but thanked the priestess with a sheepish smile that made her look worried at the battle ahead.
+
+“If you’d just listen-” Serma turned to Grim and the boy opened his mouth to counter when Yattina strode between them with her hands in her pockets.
+
+“I suppose I should act like the leader as I promised,” she declared and looked at the two, waiting to see if there were any arguments.
+
+Serma opened her mouth then shut it after thinking better of it.
+
+Grim looked fine with the arrangement as long as Serma wasn’t bossing him around. Fran didn’t know what to make of the much older human, but he didn’t simply dismiss her. Simply because she had shown no power to threaten him and Fran was technically ‘above’ her in all physical and some magical areas didn’t mean she simply hadn’t mastered something beyond what physical skills could overpower.
+
+Fran would never dismiss a foe like that, the sheer disrespect would make him feel ashamed to be mother’s first boss.
+
+“Maybe I can use my magic! He doesn’t have a goddess!” Kemy called and tried using some spell or chant that was aimed at his arms to keep them close. Fran watched the formation of the technique and replicated it in his mind and from inside and all around, mother’s love flowed just like the girl’s faith and he reflected the spell onto her, making her arms snap shut and her staff that looked like something Wyin would make as a reward fall to Serma’s hands, who dropped it with an embarrassed yelp.
+
+“I think he has a goddess,” Yattina pointed out and Serma stared as Mas frowned in confusion.
+
+“I thought Dungeon monsters couldn’t use faith stuff since gods want people?” he questioned but didn’t seem so much upset as intensely curious.
+
+Fran thought about his mother running around ‘blessing’ the second floor and decided not to comment.
+
+“If you are to be the leader, then I suggest you lead with haste. This battle will come to a close soon,” he warned Yattina as he began spinning his spear.
+
+“Can I borrow this?” Yattina asked and took the staff from the ground as Kemy continued to wriggle on the ground.
+
+“My resources are yours!” she said in a still kind tone despite looking hogtied.
+
+“Thank you, I would prefer consent with a staff like this,” Yattina muttered and Fran could see Wyin cracking up with laughter at the creation of this tool...
+
+The anti-theft ability on it was something so wicked and clever that it had to have been her ‘gift’. The additional thrust damage was another small detail Fran didn’t want to know about.
+
+“Now, don’t mind me as I’ve only had basic training and such, but would you entertain me with a small spar?” Yattina asked as she raised the staff like Fran raised his lance. Curious but having no reason to turn her down, he charged with only some of his speed, letting her see Fran coming.
+
+He wasn’t here to break them; like mother and some of the others in the Dungeon, he did want them to grow and succeed with honor. As he got close, Yattina moved to his left around Bacon and Fran swung out at her with the tip of his weapon. To his surprise, his aim fell short an inch or two from actually hitting her and when he tried to maneuver the end of his lance, she batted it down with the staff, causing him to pull away before he lost grip.
+
+Fran pulled Bacon around to face Yattina with increased wariness as she tested the staff a little more, adjusting to its weight.
+
+“What was that?” he asked and Yattina merely smiled.
+
+“I’m a scientist. I look at things and make informed theories based on my unbiased information. You lean to the right and I think you’ve trained to use your lance with that hand more than your left. I bet you can use it with both hands but a preference forms habits and habits becomes points of data,” she concluded as she leveled the staff at Fran.
+
+“I’ve spotted three more such points of data. Don’t think I left my little squabbling assistants fighting you for no reasons,” she added with a pointed look.
+
+“I thought you said ‘dramatic battles‘ were exhausting and you believed in the power of us ‘youths’?” Grim spoke up and Yattina thought about it.
+
+“Well, yes, if you won without me needing to do anything, I’d have appreciated that too. Fieldwork is only fun if I can make notes and take samples,” she said with a shrug.
+
+Yattina suddenly shifted, her posture becoming something like a stern experienced veteran who had seen more battlefields and terrible sights than all of them combined. Fran almost tensed up until he saw she was stepping back.
+
+“Grim, in front of me. Deo and Mas on either side of me, Serma and Kemy behind me,” she ordered and the others followed her orders, surprised as Fran was at her mood shift.
+
+“I am Yattina Halenuo Congord Flimina, leader of research squad 5 and the newly promoted Commander of the Fairplay operations here in Durence and Dungeon run by Delta. A pleasure to meet you,” Yattina said as she handed the staff back to Kemy who was still on the ground, magically bound. Yattina managed to wedge the staff in between her arm and body, using it like a lever to snap the binding.
+
+“And this is…” she gestured to the staring kids and priestess “These are my minions.”
+
+“I thought mysterious Dungeon invaders that could possibly be a villain had ‘goons’?” Deo asked and Yattina’s stony face looked at him.
+
+“You are minions. That is my first proper order,” she insisted quickly.
+
+“But if you were a villain, you'd have a secret villain cave but ‘Minion Cave’ doesn’t have the same ring as ‘Goon’-” Mas complained, agreeing with Deo.
+
+Fran charged into them, the first hints of excitement growing inside him.
+
+How does a ‘commander’ stack up to a ‘captain’?
+
+He swiped at them.Deo, to Yattina’s left, tilted his head and Yattina acutely watched which way the boy was leaning before she ordered the group to move to the right and around. Fran was already swinging his weapon so he couldn’t change directions as the group easily moved around his opening attack.
+
+“Mas, Deo, forward!” Yattina commanded.
+
+Mas cheered and slashed at Fran while Deo headbutted Bacon, sending them both crashing back as Fran tried to adjust for Deo’s strength and Mas’ speed, ending up being neither as strong or as fast as either of them.
+
+“Serma, go! Kemy, bind the pig’s back legs!” Yattina ordered as the group kept moving in a rough formation.
+
+Like last time, Fran could block Serma by matching and exceeding her speed, but it left him too slow to properly match the faith energy snapping Bacon’s hind legs together and sending both of them tumbling to the sand in a crash of white dust.
+
+Fran rolled, swiping up as Deo and Serma came at him with a cheerful and grim expression respectively,and Fran caught both of their strikes with a block of his lance.
+
+“Grim, now!” Yattina said, sounding as firm and assured as ever. Unseen from Fran’s side, Grim emerged from the floating cloud of sand, a knife held up.
+
+“This is my pig sticker!” he cried, looking like he lost the battle to hold back the comment. Fran leaned back and snapped his mouth over the blade as it went for his shoulder. Fran focused and seconds later, the knife shattered into a dozen pieces as the goblin bit down with force.
+
+“That cost me 5 silver!” Grim cried and he did something Fran was sure even Yattina could not have predicted. He bit Fran back.
+
+Fran felt like something shot past his surface armor, past his muscles, deep into his very mana and inhaled.
+
+Grim pulled back, his tongue burning orange as he stared into space with surprise.
+
+Fran raised his lance, ignoring the wound on his shoulder as he stepped back, blinking as Grim seemed to flex, his veins becoming visible as he exhaled a mix of green, blue, and orange mana into the air. Fran tried to aim his lance and frowned as his very self had a small chunk taken out of it. It felt not like a wound, but not like magic either.
+
+Some part of Fran was simply gone in a bite, but it wasn’t gone forever. Even now, small parts of the damage were growing back.
+
+Grim had bit into not just his flesh, but who Fran was.
+
+He had bitten into the goblin-shape Fran used to exist.
+
+“I feel... so honorable... it burns,” Grim cried as he turned a pale shade of green and his ears turned pointed, followed by a slight hunch of his back.
+
+“Is he turning into a goblin?” Mas asked with concern, getting ready to call the fight off to aid Grim and fetch help.
+
+“Grim... goblin? Griblin? Groblin?” Deo asked, looking amazed.
+
+“My stars above,” Yattina said as Grim looked up slowly, showing bright yellow eyes.
+
+“He’s a Gremlin,” she declared.
+
+“How are you not worried about this?!” Serma asked Deo who shrugged.
+
+“My friend Poppy does this too. She eats food and becomes monsters. She said it was a lot like part of them lived inside her as well,” he explained.
+
+“I...” Grim said as he looked at Serma and the princess looked back with suspicion.
+
+“I am so...I am sorr...” he began to splutter.
+
+Serma stared, looking like some magic unicorn was emerging before her.
+
+Grim opened his mouth and every inch of him rejected the words trying to escape him as he exhaled a lot of roaring orange mana and what looked like a transparent shoulder piece.
+
+“I’m so sorry you suck at following orders!” he yelled, features snapping back to normal.
+
+Yattina looked at Fran.
+
+“I’m going to forfeit us until we can make sure he’s okay. You okay for another round soon?” she asked as everyone around her burst out into protests but Fran respected the woman for willing to pull back out of concern.
+
+“Out of fairness, if you return, you may come straight here for the rematch. Only for the next time, after that it's through the grove and fortress again,” he said and Yattina looked a little let down at that.
+
+Fran focused and held out a hand, forming a sort of treasure to celebrate their efforts. If Grim hadn’t acted strange, they would have won. It was his honest opinion.
+
+He formed a mighty leather hat bearing the likeness and majesticness of Bacon!
+
+“What does it do?” Grim asked instantly, his eyes searching for some hidden ability as he moved passed his impossible biting skills with the attention span of a teen.
+
+He handed it to Yattina who eyed it then pressed the snout, getting a little ‘oink’ from it.
+
+“It reminds you to have honor and justice in your heart,” Fran said proudly.
+
+“...Deo or Mas can have it,” Grim decided and Kemy smiled at his ‘generosity’.
+
+Serma looked paralyzed and Yattina held it out to her and she made it oink.
+
+“Ah...” the girl said, voice choking as if she was deeply affected by it. Yattina shook her head and put it on Mas’ head who beamed with delight, booping it and making Serma breath hitch each time he did so.
+
+Fran liked them. He was confused by them, but they had spirit.

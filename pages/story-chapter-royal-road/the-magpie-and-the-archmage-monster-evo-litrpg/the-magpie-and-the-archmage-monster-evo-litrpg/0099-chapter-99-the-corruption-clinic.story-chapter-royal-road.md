@@ -1,0 +1,177 @@
+---
+id: 130bafa9-5bca-564f-b14e-4242b5802e24
+page-type-slug: story-chapter-royal-road
+title: "Chapter 99 – The Corruption Clinic"
+slug: 0099-chapter-99-the-corruption-clinic
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 99
+ownLength: 2100
+unit: words
+publishedAt: 2026-03-20
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3171897/chapter-99-the-corruption-clinic"
+royalRoadId: "3171897"
+---
+
+"Wh-What is this?" Liora exclaimed in horror. Cee was noticeably shaking as she stared at the half-corrupted human.
+
+"It's a clinic for people who have been affected by the corruption," Morgana said with pursed lips. "Initially it was just a few cases, so we kept them in prison, but that soon didn't become a viable option. The further the corruption spreads, the stronger the patients get. Soon enough, prison bars weren't enough to contain them. That's why this place was built."
+
+"Can people get corrupted too?" Cee exclaimed in shock. "Can.. I get corrupted?"
+
+Liora looked at the spider in horror. She never even considered the fact that she or Cee could ever get corrupted. After all, before now it had always been monsters.
+
+While they were monsters, Liora never put herself or Cee at the same level as the monsters that got corrupted. But seeing that even humans could get corrupted really opened Liora's eyes.
+
+Calm down! There must be certain conditions that trigger the corruption process. I doubt you would turn corrupt out of nowhere while doing your daily business.
+
+"Calm, beasties, calm! Certain conditions need to be met to become corrupt. We're not yet 100% certain of them, because obviously, nobody wants to experiment with something so horrifying, but we have some strong theories. Let's keep going in, I'll explain everything along the way," Morgana said.
+
+They kept going, and Liora couldn't help but peek into each cell. Each person was corrupted to some degree, although they all seemed mostly in control of themselves although in horrible pain and continuously scratching at their corrupted body parts.
+
+Liora didn't feel so bad about killing those mages anymore. It didn't bring her any pleasure, but if their plan had succeeded then even more people would turn out like this—half-corrupted, barely holding onto their sanity as something completely out of their control was taking over their body. Like an illness.
+
+"To get corrupted, you firstly have to come in contact with the corruption in form. Either through prolonged exposure to miasma or by coming into direct contact with a creature that has been corrupted," Morgana said.
+
+"Miasma?! We were fighting in that miasma!" Cee screeched, flailing her front legs.
+
+"Prolonged exposure! It must be more than just a day or two. Likely weeks, if not months of constantly breathing it in. Although we're unaware of the exact number since miasma tends to vary in strength. Thicker miasma likely would require less time."
+
+"So we were in danger!" Cee said.
+
+"Yes and no. If we had gone as I initially thought—alone, then it would have been risky. But our holy bird here made sure we didn't get corrupted," Morgana praised, slightly raising the arm Liora was sitting on.
+
+"Also for the corruption to set in, the person or creature needs to be in a weakened physical and mental state. If you're not injured or sick, then you're unlikely to submit for corruption. In general, it seems to set it slower in humans specifically, although the rate at which it takes over a person varies. We're not yet sure what determines how quickly the corruption spreads."
+
+The cells they were walking past changed. They didn't have any windows anymore, but Liora could loud banging and inhuman growls coming from behind the heavy metallic doors.
+
+"What's in these cells?" Cee asked fearfully.
+
+"It's people who have… succumbed to corruption completely. Either our treatment didn't work on them or we were just too slow. Healing them is very difficult, even for holy mages who have a distinct advantage over it. The people who have completely succumbed to it, unfortunately, cannot be saved…"
+
+"Cannot?" Liora asked in horror.
+
+"We tried healing one of them by restraining them, but unfortunately that didn't work out. Even our best healer didn't  have enough mana to cure corruption that had taken over so thoroughly."
+
+Liora thought over Morgana's words carefully. About everything she knew about the corruption and how it spread. How it had taken over the weak monsters in seemingly seconds, while the badger seemed to be hanging on for days. Not to mention that she was able to cure him and also the pompous blonde who got infected.
+
+What was the differentiating factor? Why were humans and the badger slower to get infected, but regular monsters succumbing to it in a matter of seconds. And why were some people more resistant than others?
+
+"Willpower!" Liora suddenly said.
+
+"What?" Morgana stopped and looked at Liora.
+
+"Willpower! One must have the willpower to resist corruption. The badger was very stubborn, that's why it took so long for it to corrupt!" Liora explained her thoughts.
+
+That… That actually makes sense. All humans naturally have more willpower than just some mindless mob monsters. But some people definitely are more determined than others. So those who resist corruption can slow its spread.
+
+"Badger?" Morgana asked.
+
+Should I tell her what happened in Cyene Dungeon?
+
+I don't see the harm in it. You didn't do anything wrong, and I think it's crucial that one of the pillars know that Cyene Dungeon also was partially corrupted.
+
+Liora then proceeded to explain what happened in the Cyene Dungeon, about the corrupted monsters and the badger who had actually been resisting the corruption rather formidable, and how she managed to cleanse the corruption from the badger thus stopping its spread in the dungeon. Assuming that the badger was the source of it.
+
+"Willpower… It does make some sense. Although frankly, I'm more worried about what's going on in Cyene Dungeon. I never heard that there were any sort of corrupted monsters there. What is Duncan doing? Dude probably has his ass up in some stupid law again to pay attention to actual problems," Morgana said, and clicked her tongue in annoyance.
+
+"Damn, as much as I hate Renir, I wish that bastard was still around. Despite his loud mouth, he at least got stuff done. Then he just had to go and disappear."
+
+Not like I wanted to be turned into a rock!
+
+"Who is Renir?" Liora asked nervously.
+
+"Who is Duncan?" Cee added.
+
+"Just two of the other Pillars. But one is such a stickler for rules that he himself made up, that he doesn't get anything done, and the other has been missing for half a year now. At this rate we'll have to find a new Pillar for Lost Magic, but nobody has been up to scratch…"
+
+Liora and Cee shared a look. To think that the one she was talking about was hidden snuggly in Liora's Inventory.
+
+Hey, don't give my position away so willy-nilly! I worked hard to get it.
+
+Well, maybe you shouldn't have gotten drunk and been turned into a rock.
+
+I didn't want to get turned into a rock!
+
+"Let's get back to the matter at hand! You said that you actually managed to remove the corruption from the badger," Morgana said.
+
+"I did!" Liora confirmed.
+
+"I want you to do the same thing here. And you, spider, actually…" Morgana suddenly frowned. "Do you two have names?"
+
+"Chak-chak-chak! Liora," Liora said.
+
+"I'm Cee," Cee replied, scuttling a bit closer to Morgana as another loud thumb resonated from a nearby door.
+
+"Liora and Cee. Nice to meet you. I'm Morgana. As I was saying, I want you Cee to produce webs with which to restrain us more… advanced patients. They sadly have lost all their sanity and are not afraid to hurt themselves in vain attempts to get out. Some of them have already died by just smashing their head against the door."
+
+Liora shuddered. That was horrifying. To think that these people have lost their mind to such a degree that they didn't even care if they died in pursuit to harm others. They were almost like…
+
+Zombies…
+
+What?
+
+You don't have zombies here?
+
+No, we do. They're corpses reanimated by necromancers. Nasty bunch, hard to kill. But these people aren't reanimated. They are corrupted.
+
+In the media of our world it's portrayed a bit differently. Rather than being dead, zombies are humans infected with something that makes them lose their sanity and seek out healthy humans to bite and infect them. There are many stories about the zombie apocalypse, where such horrible diseases have taken over the world with only a handful survivors left.
+
+Renir didn't reply right away, but Liora couldn't feel his discomfort as acutely as if it were her own.
+
+You must help heal these people.
+
+I will.
+
+"I'll help," Liora said resolutely.
+
+"Me too," Cee nodded. "This is just… horrible. If my webs can help, then I'll weave them without stopping."
+
+"Thank you. I knew you two were kind beasties," Morgana smiled. "Now, I'll introduce you to our teams of healers. They might be prickly around two at first, since you're monsters. But I'll make sure no harm comes towards you two."
+
+They reached the end of the hallway. It split into two more corridors which were filled with more of those sealed off rooms, but there was also another room with large white doors.
+
+Morgana pushed them open and inside was, well, what Liora would describe as a pure nightmare fuel. There were around a dozen half-corrupted people strapped to medical tables while a team of healers bustled around them. Some of the healers were chanting, some held wands, some used their hands, but they were all using some form of Holy Magic.
+
+Blood was dripping down from some of the wounds on the victim, while some had their mouths gagged while they struggled to scream. The healers themselves looked exhausted, large bags under their eyes. Many of them looked like they had lost all hope, their eyes dull and tired.
+
+A few healers that were free, noticed Morgana's arrival and came up to her right away. Although they didn't dare to fully approach her once they saw the large black bird and the spider by her side.
+
+"Lady Morgana. It's a pleasure to see you… May I ask why you bring two monsters in our work room?" The healer, a woman with gray hair tied into a long braid and dressed in long white robes, looked noticeably irritated.
+
+The young man next to her who would likely be towering above them if he straightened his posture, but instead he was meekly eyeing Liora and Cee in turn, looking like he was about to run from fright at any moment.
+
+"These monsters are going to help you deal with these patients," Morgana announced proudly with a toothy grin.
+
+The two healers looked at her as if she was crazy. Even some one the healers busy with their work seemed to lose their concentration for a moment in shock.
+
+Liora couldn't blame them. She was a bird, and Cee was a spider. Nobody would expect them to help with anything.
+
+"With all due respect, this is not the time for your jokes, Lady Morgana. The number of patients has only been increasing lately and two of our holy mages had recently left," the elderly healer said.
+
+"What? Two left? Why? I surely would have thought that the compensation I provided was quite substantial," Morgana frowned.
+
+"Yes, but apparently somebody offered them even more than that and a job that involved far less… risks. They took it at the first opportunity and bailed," the woman shook her head.
+
+"T-They d-did promise not to tell a-anyone of this place…" the slouched man added in a trembling voice.
+
+"You know better than to trust somebody's word. If word gets out about this, then all these people…" Morgana ran her hand through her unruly locks in frustration.
+
+"Yes… I suggest we find another safe location. Just in case," the woman said.
+
+Morgana sighed. "As if these kinds of locations would be easy to make…"
+
+"But that's a problem for another day. For now, I suggest you take these helpers with you. I assure you they will more than make-up for the healers that left."
+
+"Lady Morgana…" the woman glared.
+
+"No, I know why you doubt me. But let me prove. Liora, if you'd be so kind as to heal one of these people."
+
+Is it alright for me to show my ability in front of all these people?
+
+There might be another bird worshipping cult afterwards and many might try to come and capture you to gain you as a companion monster, but other than that… All good!
+
+You say that as if it's no big deal…
+
+In the grand scheme of things.
+
+Fine, fine. I'll do it. Let's show these guys how to do proper purification!

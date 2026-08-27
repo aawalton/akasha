@@ -1,0 +1,431 @@
+---
+id: 3344e95c-4b10-5234-81ab-c118461420db
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED SIXTY-TWO: Grand Presentation"
+slug: 0164-one-hundred-sixty-two-grand-presentation
+partOf: super-supportive
+position: 164
+ownLength: 6060
+unit: words
+publishedAt: 2024-08-15
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1759170/one-hundred-sixty-two-grand-presentation"
+royalRoadId: "1759170"
+---
+
+162
+
+******
+
+They entered the main house through a door that opened into a narrow solarium. The room was situated between the exterior of the building and the kitchen, and vertical planters rising up the long transparent walls partially obscured the view in both directions.
+
+Sitting at a table, a trio of household staff, all of whom Alden recognized from his stint as the room service guy the last time he was here, were talking quietly with each other and enjoying cups of steaming wevvi. Two were rolling some kind of dough into balls, and the third was coating them in what looked like tiny raisins.
+
+At Stuart and Alden’s arrival, they all glanced up and gave a nod before going back to their task.
+
+Stuart headed toward them, and Alden, assuming he was supposed to tag along until told otherwise, followed him.
+
+“Is any spell wanted?” Stuart asked when he reached the table.
+
+The woman coating the dough with the fruit smiled at him. “We’re all well cared for, and the work proceeds.”
+
+The words were delivered with a rhythm and ease that made Alden think it was an exchange that was often repeated.
+
+“Then let me introduce you to Alden,” Stuart said quickly.
+
+Alden stood straighter. He was suddenly reminded of the fact that bluejeans and a mostly-clean t-shirt weren’t what he’d planned to wear the next time he came here.
+
+“He’s one of Earth’s Avowed, commended by Loh Alis-art’h, and he is my guest. Alden, this is Muis-ida, whose family has assisted art’h wizards and knights for six generations, and this is my far-cousin Nimiot…”
+
+I’m going to need to cheat, Alden thought as Stuart went on. There’s no way I’ll remember every name, pronunciation, and relationship without help.
+
+By the time the introductions were finished, he’d mentally typed himself a message labeled “Art’h House Cheat Sheet.”
+
+A couple of minutes later, he was trailing after Stuart through the kitchen, then into an arched, low-ceilinged alcove that served as a refrigerator. It didn’t have a door, but none of the cold touched him until he stepped over a thin silver strip of metal on the floor. From last time, he knew that the waist-high chests at the back of the alcove were freezers. With the exception of whatever was in there, everything was out in the open on shelves.
+
+“I’m just going to have <<grain tea>> for first meal.” Stuart walked over to a shelf. “And we should pick up our second meals now, since we’ll be out in the forest for a few hours. Do you want any of these things?”
+
+He’d just pulled a large rectangular basket off the shelf. It had a label on the front, and as Alden glanced at it, his flashcard logogram translation provided him with the words: “Food for Human.”
+
+Wow. I have my own designated dining basket.
+
+He’d already eaten fruit for breakfast from his Bowl of Welcome. While Stuart seasoned and boiled whatever grain tea was on the stove, Alden prepared himself a to-go container for later. He opted not to ask what any of the stuff he was selecting from the human basket actually was so that he could be adventurous.
+
+“We can drink our tea in the husenot room.” Stuart was pouring the beverage he’d made into two lidded mugs. “Nobody should be there at this hour. And then we’ll go to the <<supply>> library to get what I need for my spell.”
+
+******
+
+“In the housing for new Ryeh-b’ts on Anesidora, my neighbors had a table full of these,” Alden said quietly, looking down through a glass floor at a rainbow of hibernating rock creatures. The husenots had a whole world of their own, just a couple of feet below him. Some of the animals had buried themselves in the pale sand until only a lump remained. Others were jumbled together. Based on how they’d arranged themselves, it seemed like most of them wanted to sleep around the edges of the mysteriously rippling pool in the center of their domain.“We wagered money on where they’d all relocate to when they moved.”
+
+“We do that, too,” said Stuart, sipping from his mug as he looked down at a particularly large animal with a turquoise starburst pattern on its shell. “Not money, though. Usually we wager chores or errands.”
+
+He was speaking in a near-whisper as well.
+
+On their way here, they’d crept past Murmur, who was sleeping next door on the floor of the room that held the fire pit, one small Artonan child conked out on his back like he was a mattress and one red ryeh-b’t snuggled up against him.
+
+Alden now had more questions than ever about the Mleirt. “When we saw Murmur and you said, ‘Grandpa-Grandpa is sleeping,’ is that a saying of some kind because Murmur is very old? Or …”
+
+“We all call him that sometimes. He often cared for my father and his siblings when they were growing up.” Stuart stared off into space for a second, and a moment later the illumination below the floor changed to a black light setting. The husenots were suddenly a riot of speckled fluorescent patterns.
+
+Alden bent to look closer. “Do your father and Alis-art’h support your plans?”
+
+“Aunt Alis and Father almost never disagree about anything serious where anyone else can hear them. I’m sure they aren’t always <<in unity>>, but they pretend to be.” Stuart took a lengthy pause, sipping a few more times. “Those of us who grow up in the Rapports call our adolescence ‘the choosing season.’ It hasn’t always been that way. Historically, the idea of <<forcibly>> expanding the population of knights takes hold for years at a time, and there’s much less choosing involved. Until everyone decides again that the rewards aren’t worth the cost.
+
+“Many of the older knights took their oaths during one of the worse cycles, and because they saw so many of the people they grew up with die during first binding or within a few years of it, they’ve done what they can to change bad traditions and revive good ones.”
+
+“Like the choosing season?”
+
+“Yes. After we attend our first…there is a ceremony where some knights request rest. If you are raised in a Rapport, your first attendance at that ceremony usually marks the beginning of your choosing season, and the season doesn’t end until you announce that you have chosen.”
+
+Alden swallowed.
+
+“Almost everyone from the Rapport children's school will go on to become a hn’tyon or a wizard sworn to aid them in some way. Both choices are serious. And so it’s important that they are made, or rejected, without the <<buffeting>> of stronger winds. We’re encouraged to go slowly. During the years of our choosing, our Instructors are <<charged with>> teaching us as if we might have any future. Everyone, including our peers and our family members, waits patiently to give advice if we ask for it or to celebrate our choice with us once it’s made.
+
+“Before my choosing season, I and everyone else thought I would become a votary…which is not someone specifically trained to kill people.”
+
+“No?”
+
+“No.” Stuart shook his head and laughed softly. “Where did you pick up an idea like that? Votaries are wizards who serve as assistants and dedicated casters, often for a single knight but not always. Hn’tyons spend so much time training their skill, recovering from affixation, and working far from home. Almost all pursue education in wizardry, but it can be difficult to gain a <<comprehensive>> one. At least in the usual time frame. A votary fills in gaps, cares for the knight in whatever way is called for, makes sure certain social responsibilities are met, and may join them <<in the field>> when situations allow it.”
+
+“Esh-erdi had Lind-otta’s votary following me around school yesterday,” Alden told him.
+
+“Why?”
+
+“To make sure no wizards or law enforcement bothered me about the dead people. Or maybe because it was funny. He also had my birth tree moved to his house.”
+
+Stuart’s brows drew together. “Where was your birth tree previously located?”
+
+“Outside of a building where babies are born. In a place where vehicles stop rolling.”
+
+<<Park>>.
+
+“Right. I know that word. I just forgot it.”
+
+“You can’t have your birth tree in a place like that, Alden. What if the autodrive on a vehicle malfunctions, and it crashes into it?”
+
+They blinked at each other.
+
+“You look like you don’t understand me right now,” said Stuart.
+
+“I didn’t even know what birth trees were until Esh-erdi told me he’d bought mine. And now you look like you don’t understand me.”
+
+Stuart came over to stand beside him. “Since we’re talking about birth trees anyway…I wasn’t born here. My mother was a courageous person who fought many battles, but her last one left her unwell. She went to a corrupted world to help my father. She stayed too long and gave too much. She was pregnant with me, and Father didn’t know. She said she would go back to the Triplanets ahead of him to recover, but when he returned, nobody had seen her. He searched for her and eventually found both of us on another planet.”
+
+“Oh,” said Alden quietly. “She was a knight, too, then?”
+
+Stuart looked surprised. “Yes. The place where I was <<conceived>> isn’t somewhere many people who aren’t knights could safely travel to. But it’s too long a story to tell in whispers with that group sleeping next door. And Weset is too young to hear it.”
+
+Alden added a note to his cheat sheet that said: “Weset = sleeps on top of Murmur.”
+
+“When Father returned home with me, I required a lot of gentle care and attention. Everyone gave it to me. And when I was less fragile, they did everything they could to make my life as it should have been, if nothing had gone wrong. When my family told me stories or talked about the kinds of things I might do with my future, they told me how well-suited I was to being a wizard of the Rapport. And that’s a special and worthy thing to be. It’s a life that many members of the family have chosen. So I was always proud.
+
+“As the years of my childhood passed, I grew very close to one of my older sisters. Sina. I told people I would be her votary one day, and she agreed with me. It became something that felt true. To me. And to everyone else.”
+
+He drained his drink and wiped his lips with the pad of his thumb. “You’ve seen my mourning name, so you know…she died.”
+
+“I’m so sorry,” Alden said, hating how insufficient the words were.
+
+Stuart looked down into the empty mug then back up.
+
+He looks so much like he did on the day she died, Alden thought. But so different, too.
+
+Watching his face that day, Alden had wondered how he would ever be all right. But here he was, talking about it like it was a scar instead of a fresh wound.
+
+“It was more horrible than anything I had ever imagined. I had to delay my season of choosing for another year, so I could mourn her and recover. Around that time, people asked me every now and then if I had thought about leaving the Rapport. I guess to live in <<leisure>> with no responsibility at all.”
+
+Alden was sure from his tone that those people had been put on some kind of idiot list in Stu-art’h’s head.
+
+“But my family and I still talked as if I would be a votary one day, maybe for one of my other siblings or cousins. Maybe for someone else.”
+
+“I have a cultural question,” said Alden. “Is becoming a votary, or swearing to serve the Rapport in some other way, considered an equal sacrifice? Compared to being a knight?”
+
+Stuart frowned. “How could it be? No, maybe I should have explained better. To be a wizard is to move through reality with <<true awareness>> of your own freedom. The theoretical<<pinnacle>> of wizardry is dominion over the self and the universe. Omnipotence.
+
+“It’s not as though anyone <<sane>> thinks they’ll actually reach that pinnacle, but sometimes, when you cast a spell and things go very right, or a little wrong in a specific way, you can almost imagine what it would be like.”
+
+He lifted the hand that wasn’t gripping the mug and examined his fingers.
+
+“And there’s a shadow of that pleasure every time we cast. But an affixation is like…a contract between you and your own future about what you will be, <<terms deeply carved>> into your very being and all around the spot you occupy <<within the way things are>>. And because you are not meant to be limited like that, and you can feel the <<wrongness>> of it, you fight it. And the you that has not been bound runs a <<desperate race>> forward, trying to <<claim>> more space for itself.
+
+“So most do grow very strong. The life of a hn’tyon is one where <<self-peace>> is hard-found, if it’s found at all. And often fleeting. It’s a higher and narrower branch to…” He trailed off. “Alden, are you all right?”
+
+“Yes,” Alden said automatically. “Why wouldn’t I be?”
+
+Eyes with slender golden rings watched him closely. Alden tried to smile.
+
+“You’re a very <<compassionate>> person,” Stuart said. “Don’t be afraid for me.”
+
+Alden wasn’t exactly sure it was fear he was feeling. Maybe that was part of it. A lot was going on his head. “Aren’t you afraid for you?” he asked.
+
+Stuart continued to watch him.
+
+“A little,” he said finally. “But the season of choosing was good for me. The setting aside of time to think, the encouragement our instructors gave us to calmly consider all paths…I was taking it seriously and slowly changing my mind about things that had seemed sure throughout my childhood. And I was gaining <<determination>> and a sense of my purpose.
+
+“Apparently, everyone thought I was taking years to announce because I liked the rituals and sense of camaraderie that comes with being one of those who are choosing, which I very much do, of course. But I was taking so long for the same reasons almost everyone else does. Because the adults all said it was a special time of life that shouldn’t be rushed away from and because I didn’t want to embarrass myself by formally announcing and then later have to say I’d made a mistake.
+
+“That kind of <<vacillation>> makes people more likely to worry about you. My family spent so much of my youth worrying about me. I didn’t want to give them another cause for concern.”
+
+“That didn’t go as you planned,” Alden noted.
+
+“There was a significant difference in how I understood my situation and how they did. When I was younger, nobody I loved ever said I didn’t have the ability to become a knight. It didn’t need to be said. It was obvious even to me, as soon as I was old enough to know a little about it. But I thought that, over the past few years, we all realized I had become strong enough to do whatever I wanted.”
+
+He scowled. “We talked a lot about how well I was doing. Everyone told me how proud they were of the adult I was becoming. They treated me like nothing about me was delicate anymore. And it never occurred to me that they were being liars.”
+
+Alden was surprised by the vehemence.
+
+“When I realized I was completely confident in my choice, I was so excited to tell them. I knew they’d be surprised, but I expected them to be happily surprised. Especially Father. It is the path of highest onus, after all, and there is a love and a <<communion>> that can only be shared with those who walk it with you.” Stuart closed his eyes and shook his head. “I told them the night before that I would be announcing the end of my season of choosing in the morning. And so everyone was there for first meal in the big dining room.
+
+“The change in their expressions when I told them…”
+
+He fell silent.
+
+“Bad?” Alden prompted after a while.
+
+Stuart’s eyes opened again. His voice was suddenly gloomy. “If one of my grandparents had teleported back from the grave, hauling chaos with them like <<one who yields to perversion>>, and <<shat>> in the wevvi boiler, I’m sure my family would have been less horrified.”
+
+“Nooo,” said Alden, moaning with vicarious embarrassment. “I’m so sorry.”
+
+“It was terrible,” said Stuart.
+
+“It sounds like it was. What did your father say?”
+
+“He couldn’t speak.”
+
+“Oh no.”
+
+“He just left the house.” Stuart’s expression was distant. “He was gone for almost a week.”
+
+Alden cringed.
+
+“That was about half a year before I met you,” Stuart said. “I’ve had an <<astounding>> variety of arguments with everyone since then. But actually, right after the mishnen, when Father came to see me, we talked for hours. About the mistakes I’d just made, but also about my future. And he told me to choose as I thought best and said he would trust me whatever the choice was.”
+
+He smiled. “I will repay his trust by <<thriving>> in every way. And someday soon, he will be glad he gave it.”
+
+******
+
+******
+
+“I’m willing to consider the idea that you’re not less mature than me,” Alden announced, peering through the translucent barrier that kept people from falling out of the elevator. It was carrying them rapidly down below ground level to the place Stuart called the supply library. “I’ll tell Lute I was wrong when I get back to Earth.”
+
+“I enjoy your company very much,” said Stuart. “So please don’t feel that I’m insulting you. But you’re so strange.”
+
+“I’m strange!?”
+
+“Yes.” The elevator stopped, and the barrier disappeared. As soon as Stuart stepped out, a golden glow warmed the massive room he’d just entered. The lighting came from the shelves, racks, and cabinets in the space.
+
+Aisles full of them.
+
+This is not a basement, thought Alden, craning his neck as he hurried after his host, who was striding forward purposefully as if there was nothing at all special to see in this part of the house. This is like the organized version of a treasure room in an animated movie.
+
+But instead of in mounds, the jewels were in boxes with labels like “Worshipped in a Fetuna Temple for at least Three Hundred Years” and “Fossilized Resin Drops with Stinging Oons Inside.”
+
+They walked past a rack covered in loops of Artonan hair. Well, no fantasy treasure room I ever saw had that.
+
+But he was pretty sure if he were a Wright he would have fainted the second he set foot in here. They had enough of that powder Everly Kim used to cast her ice patch spell to fill a bathtub. There were metal ingots in piles. One cabinet had a sign on the front that said, “Don’t let me out without asking Evul.”
+
+Alden was so overwhelmed that he forgot to joke around about how Stuart was the strange one.
+
+Of course he hadn’t forgotten exactly where he was. He was an invited guest in the home of the people who were ranked first and fourth most important in the known universe. But the art’h residence was so cozy for an alien siblinghold. Cooking dinner on a rock and watching Stuart try to get a zipper away from his pet had made his impression of Rapport I lean toward the homey.
+
+Now he was having a moment of clarity. And magical eye strain.
+
+“The floor below us is also part of the supply library,” Stuart said, apparently unaware that Alden was trying to calculate what that bin full of sand over there must cost if it was the same stuff that was inside his temper spheres. “And the one below that is for items that should be kept safe but that rarely need to be accessed. There are some interesting weapons down there. Above us is the manuscript library. And a lot of portraits.”
+
+They passed a shelf full of bottled snowmelt, labeled by year. And then they walked by a tree root thicker than Alden’s whole body. It pierced down through one hole cut in the ceiling and another in the floor.
+
+Alden found his voice as Stuart led him to a series of slots carved into the wall. “There’s so much stuff here.”
+
+“Do you like it?” Stuart paused with his arms half-lifted as if he were about to cast. “I always have. Rel spent a whole winter down here with me one year, teaching me the names of all the things, how to care for them, and what they were for.”
+
+“I do like it. You managed to memorize them all in a single winter?”
+
+“All the more common and useful things,” Stuart clarified. “But I still know more about the library than a lot of my older siblings do. And Emban’s very familiar with it now, but the first time some of my brother and sisters brought her down here, she accidentally got left behind. The lights cut off because she hadn’t been introduced to the spell yet, and half a day later, I found her crying behind a basket full of <<blood cakes>>.”
+
+Alden pulled up his cheat sheet. “That sounds sad. Who’s Emban?”
+
+******
+
+An hour or so after sunrise, Alden found himself sitting with his back to a tree, waving off apologies from Stuart, who was acting like the lack of a magical cushion might do Alden’s rear end a permanent injury.
+
+“I’m very comfortable,” Alden insisted. “And if casting a spell right now might make you mess up the one you just spent so much time preparing for, I’d be disappointed. I want to see what your skill is going to do.”
+
+The Primary’s son had been explaining about the spell the whole time he set up the casting zone for himself. It was, he said, the most difficult thing he could achieve with magic. He’d only managed to make it work in the past couple of months, which had been the final goal on his personal to-do-before-I-affix list. Because it was a spell that showed him “the humblest version” of the skill he’d decided would be his perfect match.
+
+Alden had no idea what to expect, and he was getting excited at the thought of seeing not only a cool new kind of magic but a cool new kind of magic that Stu-art’h thought was worth…well, worth sacrificing a portion of himself.
+
+But the wizard who’d just spent part of the morning talking about how great his special spell was and exuberantly choosing expensive supplies to match the occasion was now having what looked an awful lot like a crisis of confidence.
+
+“You understand that this is just a part of what I’ll be able to do with my skill?” he said for the second time, leaning over to brush a few grains of soil from the top of the circular slab of white stone they’d hauled out here with mover discs. He was going to stand on it and cast, and something was going to happen to the line of random objects he’d placed in front of it. “It will be more impressive in the future.”
+
+“I know.”
+
+“And if I make a mistake and it fails, that won’t mean that my skill will fail in the future.”
+
+“I know.”
+
+Stuart opened his mouth again.
+
+“Listen, I’m an easy audience,” said Alden. “And if it doesn’t work, you can try again this afternoon, can’t you? Or in December…if you’re still planning to invite me then. I know it might not be worth another argument with your family.”
+
+“There won’t be any more arguments about that,” said Stuart. Now he was checking the tie on the end of his braid as if that might be the one thing that undid all his preparations. “I can have you over whenever I want to. They promised.”
+
+“You didn’t have to give up something you wanted in return, did you?” Alden asked. “I don’t want to be—”
+
+“I think it all concluded in my favor. They asked me to delay my first binding for a while longer and do a few other things.”
+
+“That’s not fair to you,” Alden said, anger rising swiftly. “It’s so stressful, and if you’re ready for it now…”
+
+“It can only be a small delay. And a few of them made points about why a delay might be good. And I did talk them into giving me several other things. Don’t worry. Are you sure you’re fine without a seat? I could run back to the house.”
+
+Alden pointed at the white circle. “Stop delaying. I want to see a spell!”
+
+Stuart took a deep breath. “Yes. I will stop and start over a few times. It doesn’t mean anything is wrong. The process will help me build the spell more gradually and tighten my focus.”
+
+When he said significant-sounding things like that, it gave Alden crazy urges. Begging for a magic lesson would be a really strange thing for him to do, but if Stuart already thought he was strange…
+
+It would still be a terrible idea.
+
+“And you don’t have to watch the whole time. You can watch videos on your tablet or do your own work. It will take a while. You’ll know it’s about to happen when I hit <<urgent pitch>>.”
+
+Alden gave him two thumbs ups.
+
+Stuart paused for half a minute to research the gesture. Then, he returned it and raced over to start his spell.
+
+******
+
+He hadn’t been kidding when he said it would take a while.
+
+An hour and a half into it, Alden winced as Stuart stopped the chant again, took a sip of something from a flask in his pocket, and did the same series of finger stretches that he always did when he restarted.
+
+He never looked upset. In fact, since he’d started casting, his focus was intense and intent in a way that made Alden want to pull out his own auriad and lose himself in trying a spell, too.
+
+The silky string slid an inch down his arm, and he sent it back toward his shoulder where it belonged.
+
+He definitely wasn’t about to start doing CNH homework when he had a live wizardry demonstration taking place right in front of him.
+
+I’ll probably never be able to do what he’s doing, but here I am watching like he’s giving a class.
+
+Stuart would have begun casting spells when he was years younger than Kibby. And Alden didn’t know how powerful he was, but…he was the Primary’s son. Alden seriously doubted it was a B-rank equivalent situation over there.
+
+It had occurred to him that he could reach out with his own authority to peek. Not a friendly student-to-student pat even, just a drawing closer to see if he could sense what Stuart was doing at all. But that was even crazier than whipping out the auriad. For all he knew, any deliberate action on his part other than skill use would be noticed.
+
+Casting a spell on Anesidora, where millions of Avowed and quite a few wizards were also doing it in their own ways, was one thing. Deliberately poking and peering with his authority sense here at the art’h house was another. What if everyone here had the equivalent of a magical voice that the others could recognize? Knight and wizard family life was a mystery.
+
+So he held very still and stayed very quiet and contented himself with observing the world through his boring old human senses.
+
+The braziers positioned around Stuart were sending up smoke that spiraled tightly around his stone circle and up before disappearing. Alden had only gotten one whiff of it before it started spiraling well, and he could have sworn it smelled solid. Like it was prodding his nose and lungs.
+
+Whenever the chanting was in progress, he admired the variety of sounds Artonan throats could make. He wondered if Stuart’s speaking voice was what came comfortably to him or if he’d selected it for himself. They could do that fairly easily if they wanted…just decide they were going to develop a different everyday voice like a human deciding they were going to learn a new accent.
+
+I doubt he’s had the time to think about something like that, considering everything else he’s been thinking about.
+
+Mostly, Alden was passing the time trying to guess what was going to happen to that line of stuff Stuart had made. There were several blocks of wood, one of stone, and something called a sackfruit that looked like a giant jellyfish full of red goo that he’d picked “because I want to see how it works on this.”
+
+The line was twenty-seven paces long. Stuart had walked it several times until he was satisfied. And it started and ended with a bean.
+
+Just two normal alien beans. They were small, brown, and bean-shaped. Stuart had put one on the white stone where he stood and the other was sitting on another wooden block on the other side of the fruit.
+
+What if everything in between the beans turns into more beans? That would be a neat spell.
+
+It was about the twentieth option he’d considered so far. And he was still thinking of ways for it to be useful when he spotted someone heading through the woods toward them.
+
+Stuart had started the chant again. His auriad was flowing smoothly through his fingers. He was far enough along that Alden hoped this might be the time he completed it.
+
+Don’t interrupt now, whoever you are, he thought.
+
+They wore a knight’s coat in a soft cream color with only a few of the metal stud patterns on the sleeves. Matching ribbons were laced through a crown of braided hair the color of grape jelly. Alden was trying to examine hip width as unobtrusively as possible while also paying attention to the spell, when they reached him.
+
+Female, he decided.
+
+“Hello,” he said.
+
+She sat right beside him. He wondered if he was supposed to scoot over to give her more room.
+
+“So you’re the alien who held my cousin down while some <<prey-animalish>> girl <<processed>> one of his legs like a <<meat and bone sausage>>. Just because all of those kids thought their lives would end if they didn’t get into the fancy jungle school their parents partied at.”
+
+Oh God, thought Alden, his polite smile freezing. She knows the whole story, and she made it sound so bad.
+
+When he didn’t answer, one of her eyes turned toward him. It was a gray-flecked pink.
+
+Alden cleared his throat. “Yes. That was such a bad day for everyone. I’m Alden.”
+
+“Emban-art’h,” she said, eye turning back to Stuart. <<Definer of Grooves.>>
+
+At least she’s on the cheat sheet already.
+
+Emban was Stuart’s first cousin once removed. Her parents were regular wizards by choice, but they’d come to Rapport I for a visit when Emban was younger, and she had decided this life suited her better. She was the nearest to Stuart in age, just a few years older, and she was the latest art’h to become a knight.
+
+Definer of Grooves? Is that a title of some kind or is she introducing herself by her skill name?
+
+“It’s an honor to meet you, Hn’tyon Emban-art’h.”
+
+“Do you think he will succeed?” she asked, still watching her cousin.
+
+“Is it safe for us to talk? I don’t want to distract him. He’s been working on this all morning.”
+
+Emban-art’h snorted. “If two people talking nearby breaks his focus for this spell, that would be more his failing than ours.”
+
+Alden would still be trying to limit it to strictly necessary exchanges if she stuck around. “I’m sure he’ll succeed,” he said simply.
+
+“So confident. Can you even understand what he’s doing?”
+
+Alden didn’t reply, and she didn’t ask again.
+
+After a few minutes of quiet observation, she took a small paper bag out of her coat pocket. Alden caught a whiff of the burnt sugar smell that had filled the air around the house when he’d arrived yesterday. She pulled an amber-colored oval wafer out and bit into it before holding the bag toward him.
+
+He weighed the possibility that flatseed candy might be poisonous to humans against the risk of offending the first knight in Stuart’s family who had extended a greeting since he’d arrived.
+
+Then, he thanked her and took a piece.
+
+It was crunchy and sweet. The large, paper-thin flatseed in the middle tasted like toasted bread.
+
+“I think he may be able to do it, too,” Emban-art’h said.  “But it’s hard to celebrate that possibility when the price for failure is so high.”
+
+Are we talking about the spell he’s casting now or his future?
+
+She licked sugar off her index finger. “And Stu is gifted enough to become a wizard of rare worth to the family. He ignores that too much. I could try until I wept and still not cast a spell like this one. Even if he is <<imperfect>> with it still.”
+
+A moist finger pointed at the line of objects in front of them.
+
+Stuart’s voice was rising in pitch and volume.
+
+“That’s all I’ll say about it. But they shouldn’t have asked him to agree to another delay,” Emban-art’h said. “Not after Granduncle Jeneth has given permission.”
+
+Alden didn’t know how to respond to any of this. The last bite of candy he’d taken was melting on his tongue.
+
+Emban-art’h rose to her feet. “I’ve probably made him angry enough by talking to you when he wasn’t in a position to comment. And they’ve decided he’s supposed to act as my votary next week. I’d rather not have a bad-tempered votary who needs soothing. It’s quite backwards. Try to put him in a good mood for me, Alden Ryeh-b’t.”
+
+Stuart’s eyes narrowed. His voice lifted another octave.
+
+As Emban-art’h walked away, past the line of objects, Stuart’s chant became a breathy shriek that made the hair on Alden’s arms stand up.
+
+That sound wasn’t just his voice. There was something else about it.
+
+It’s happening.
+
+Alden watched. It happened too fast to really get it, but at least he saw and heard it.
+
+The wood block closest to where Stuart stood broke open with a crack that was followed by a series of cracks and pops from the other wood blocks in the line. Then the stone one shattered and the sackfruit exploded gloriously, spattering Emban-art’h with red goo.
+
+Silence reigned for only a second.
+
+“Ugh! Stu, you rushed that on purpose to hit me!”
+
+“Where’s the bean!?” Stuart shouted, racing along the line of minor destruction. “Did it make it? Alden, did you see? Come here!”
+
+“I’ve just decided my fake votary needs to do my laundry next week.”
+
+“It did make it!”
+
+Alden was on his feet, jogging over to see what Stuart was gesturing excitedly toward. He was already trying to explain before Alden even reached him.
+
+“With the skill, I wouldn’t have to send a bean to a bean, although I could. And the route I made for it would match the size I intended perfectly. My casting of this spell is actually too messy, but for demonstration purposes that’s good because it shows the potential.”
+
+Alden looked down toward where Stuart leaned over the final wood block. Instead of one bean, there were now two, resting innocently side by side. Neither of them had a scratch on them.
+
+Stuart was watching him eagerly.
+
+“Did one of these go through all of that?” Alden asked, looking at the splinters and rubble and exploded jellyfish fruit between them and the place where Stuart had been standing to cast.
+
+“Actually it traveled through a kind of <<tunnel>> I created with my spell,” said Stuart. He stood and clasped his hands in front of him. “That’s going to be one of the things I can do with my skill—The Maker of Narrow Ways.”
+
+******

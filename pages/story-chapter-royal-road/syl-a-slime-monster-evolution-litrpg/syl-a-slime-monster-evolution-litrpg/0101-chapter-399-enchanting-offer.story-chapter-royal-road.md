@@ -1,0 +1,207 @@
+---
+id: 7c995deb-8c1d-53a7-9a2b-b0f289ee01b8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 399 : Enchanting Offer"
+slug: 0101-chapter-399-enchanting-offer
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 101
+ownLength: 2391
+unit: words
+publishedAt: 2026-07-06
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3638098/chapter-399-enchanting-offer"
+royalRoadId: "3638098"
+---
+
+"So is it better to do the legendary dungeon?" I asked, trying to change the subject.
+
+"Not really, you'd save a lot of time just doing three labyrinths instead," Keldenar responded. "Even accounting for normal travel and clearing time, they are just way simpler and easier to handle. A legendary dungeon has at least fifty floors, and I don't think any of them are at the bare minimum anymore."
+
+"Fifty!?"
+
+"Oh, you think that's bad? Each floor is the equivalent size of a regular dungeon. There's even a rumor that the legendary dungeons are managed by lesser gods."
+
+I shuddered just thinking about it. If that was true, then I definitely didn't want to set foot in any legendary dungeon, unless it happened to fall under the wing of Gramps or Mother.
+
+"The labyrinths are big, but not even close to the size of a legendary dungeon. Plus, I think you could probably cheat the maze with your [Dimension Magic]," Keldenar suggested. "You certainly broke through my enchantments, and even my golems made from dungeon brick, so I don't think they could stop you."
+
+I nodded, especially since I noticed that [Personal Rift] had reached level five thanks to our battle. Assuming they weren't too much thicker than the abyssal dungeon, where four was already enough, I should be able to tear open apertures towards the goal.
+
+From there, Keldenar started asking questions about my personas. He was extremely interested in those, as, from the surface, they seemed to meet all his requirements for a new golem race: they had names, classes, personalities, and everything.
+
+He threw around a few guesses, two of the most outlandish being that they were either my children or that I'd converted real people into slime. The latter left me speechless, and he apologized, saying that he'd read it happen in one too many "comics", as he put it.
+
+I wasn't willing to reveal [Split Personality], as that felt far too dangerous even with his sworn oath. Thus, I used [Roleplay] as my scapegoat, since that was what had started the ball rolling. Keldenar was enamored by what I had said, and I could see the excitement sparkling in his eyes.
+
+"I've been installing [Acting] on my golems, but this sounds way better. Name your price, and I'll make it happen," he offered.
+
+"You install skills on them?"
+
+Keldenar nodded. "Depending on the skill, it makes the golem-forming process take longer, but I can give them a few skills that they start with, assuming their body is capable of handling it. If I tried to give a wooden golem [Fire Magic], that would be a disaster…"
+
+"[Eye of Truth]?" I asked; it was the first thing that came to mind.
+
+"Sorry, it's a birth ability, and it specifically says I can't share it."
+
+"That's a bummer… Although I've got a few of those myself, so I believe you. The only other skill I can think of is [Mana Dominion]..." I murmured.
+
+Keldenar frowned. "Sorry, I don't have that one. Heck, I've never even heard of it before. It doesn't have to be a skill, as most of mine are related to golem creation."
+
+"I don't suppose I could learn that," I joked.
+
+"Technically, you could, but it would remove all your other classes," Keldenar answered.
+
+"You're joking?"
+
+"Nope, dead serious. As the world's highest-level Golemancer, I can take apprentices. I've actually taken in a few orphans who are sworn to me, but it's at a very small stage at this point. Not many are willing to give up everything and be stuck with one class forever; there's quite literally no going back."
+
+But I have [Split Personality]... What if I used a persona?
+
+"You're actually considering it?" Keldenar asked, sounding amused. "Why would you ever want to give up your Riftmancer class?"
+
+"Not necessarily me. I was thinking one of my slimes could take it."
+
+"Huh… Would that actually work?"
+
+"I'm not sure, but it's tempting, and I even have one I think would be perfect for it."
+
+Keldenar leaned forward in his chair. "I'm listening…"
+
+"Sylvester is currently a Cryomancer and Enchanter, although he has often felt like his combat class isn't suited for him anymore and has focused more on the enchanting side for now."
+
+"You've got an enchanter too?" Keldenar blinked in surprise. "I don't suppose you solved the puzzle on the ring I gave you."
+
+"I did, but I gave it to a friend since I didn't need the Mana regeneration," I replied.
+
+"Okay, that's dumb. Everyone needs more Mana regeneration."
+
+With a smug smile, I puffed out my chest. "Not me. I am a [Mana Slime]."
+
+"Like… Literally? Do you drink your own slime?"
+
+I shook my head. "I can't drink my own slime, but I effectively have infinite Mana."
+
+"Huh. Mind if we check that?"
+
+I nodded, not seeing the harm. I thought he would have used his [Eye of Truth], but he pulled out a crystal and threw it to me. I caught it and recognized it as one of the ones the guild used for testing.
+
+"Where do they even get these…?"
+
+"The crap ones can be made, but the best ones can be found in one of the legendary dungeons. It's where a lot of the unexplained wonders of the world get found, although personally I believe it might be the junkyard of the gods and they are trying to get rid of them."
+
+"One man's trash is another man's treasure, I suppose…"
+
+Keldenar nodded. "Anyway, just channel your Mana in that, as much as you want or can."
+
+I grasped it tightly while unleashing my Mana; the crystal began glowing blindingly bright, causing Keldenar to let out a surprised yell. However, the flashbang was short-lived when a horrific crack echoed through the room, and the crystal shattered into sparkling dust on the floor.
+
+"Um… I'm sorry?" I said awkwardly.
+
+Keldenar winced. "No, don't be, it's my fault for underestimating a [Mana Slime]..."
+
+A golem came with a dustpan and broom and began to sweep up the remains of the crystal, each swish of the brush causing Keldenar's eye to twitch a little.
+
+"Infinite Mana, huh…" he murmured.
+
+"Without it, teleporting would be a nightmare," I replied, trying to move the conversation.
+
+"It's stupidly expensive…" Keldenar agreed. "I wanted to reproduce teleportation pads like in the guild, but when I found out the cost, I tried to find other ways…" he scratched his head and seemed to have a spark of inspiration. "If you have an enchanter slime, that would potentially be great for both of us; we could collaborate on projects, and his [Ice Magic] wouldn't go to waste either."
+
+"Oh? I thought he would lose all his classes."
+
+"But not his skills," Keldenar responded. "Unless they are restricted to the class being active, it also means he could make ice golems. When I did my recruitment, I made sure they had an earth affinity as it's one of the best helpers for golemancy, but ice could be just as good."
+
+"He has earth too," I replied. "In fact, we have every element."
+
+"Oh gods, you must be an enchanter's wet dream," Keldenar replied with a look of disbelief. "Well, what are you waiting for? Bring him over!"
+
+I chuckled and left a note in my [Core Storage] requesting Sylvester's return. Soon, I found his core returned to my storage, so I pulled him out and granted him a slime body while connecting him to a tendril.
+
+"Hmm…? Does he need to remain connected to you at all times?" Keldenar asked.
+
+"Y—"
+
+"No," Sylvester interrupted and promptly removed himself from the connection.
+
+I nearly choked in surprise until Sylvester flashed me a knowing look. I immediately looked at my profile and saw the most beautiful line I had ever seen: [Core Collective LV 12].
+
+"Huh… I thought you said you still needed a black slime?" Keldenar questioned.
+
+"I do…" I murmured.
+
+"I guess it must be another surprise then," Keldenar chuckled. "But boy, you should really go get your hands on one of their cores ASAP. Assuming you can find it, that is, those buggers like hiding in the walls and floors."
+
+I shivered as my stomach was doing backflips. If I weren't controlling myself, I would have probably started drooling on the floor as my thoughts were basically drowned out by the desire to snack on the core.
+
+"Where—"
+
+"I'll give you the labyrinth location," Keldenar interruptingly answered, as if fully expecting my reaction. "But first, introductions, hello… Sylvester, was it?"
+
+"Pleasure to meet you under more pleasant circumstances, Lord Keldenar," Sylvester replied.
+
+I forgot I made him polite. I wanted some Greg in him, especially if he needed to work for nobles again and not strangle them.
+
+Keldenar seemed surprised at the response and smiled. "Well, how would you like to apprentice under me?"
+
+"Yes!" Sylvester instantly replied.
+
+"Not just enchanting, we were discussing golemancy too," he tried to explain.
+
+"Yes!"
+
+"Um… I don't think Syl here mentioned the drawback. It will remove all your existing classes."
+
+"Still yes!"
+
+"And you won't be able to change your class again."
+
+"Again, yes!"
+
+Keldenar looked conflicted and turned to me as if expecting help.
+
+I shrugged. "I did say he was upset with his class, and he's a bit obsessive with enchanting and whatnot."
+
+"I get it from you," Sylvester pointed out.
+
+I could only smile awkwardly in response. It was definitely true, and if not for the fact that I'd be locked into the class, I would have jumped at the opportunity, but as a persona, Sylvester didn't have to worry about any of that; he could freely indulge.
+
+"Will he lose profession-class levels?" I asked.
+
+"No, but they will be locked until he gets his secondary class slot," Keldenar answered. "Which means you'll need to take him along for your labyrinth conquests if he's to continue enchanting. Well, small correction, he can still use the skills, but without the levels gained and their bonuses, he would be crippled."
+
+"Even so, I still want to do it!" Sylvester said excitedly.
+
+Keldenar tried his best to advise caution; it seemed he wanted Sylvester to be absolutely and unquestionably sure about his decision. I couldn't help but wonder if he had taken an apprentice who later regretted it, and blamed himself for giving it away so freely.
+
+However, Sylvester was unmoved, no matter the drawback. He took my desire to try new things to the extreme, and I found myself feeling a little jealous that I couldn't experience it. Of course, I could possess Sylvester, but with the warnings surrounding [Split Personality], I was far too paranoid about that.
+
+What if I possess him, and it locks my class to Golemancer?
+
+I was absolutely not willing to try it. Especially because some of the drawbacks Keldenar mentioned sounded absolutely crippling to me. Just like Elementalist boosted all my elemental magic and Riftmancer did the same with discounted teleports and eased coordinate manipulation, Golemancer had its own quirks.
+
+For one, any offensive skill, magic, or otherwise, would have its potency cut in half and sometimes upwards to three-quarters! A Golemancer was supposed to fight with golems, not themself. While it wasn't restricted from using other types of magic, they were severely penalized unless it happened to be a supportive effect. If you wanted to buff your golems with flaming shields, that was fine, but throwing around a [Fireball] was a no-go.
+
+Another significant drawback was that Keldenar, as the Master Golemancer, could control any of his apprentices' golems if he wished. It was the ultimate safety net that prevented him from being betrayed, and even if they used a third party, they would not lose their apprentice status. The only way to overcome this would be to reach a Golemancer level higher than his while he was alive, and considering it sounded like he had at least two hundred levels in the class, that seemed highly improbable.
+
+None of this was a dealbreaker for Sylvester, as we certainly had no plans on betraying him. On the contrary, this seemed like a way to establish a much better relationship between us, far beyond just the oath.
+
+And any enchanting that Sylvester learns, I can copy. As for the golems themselves, assuming he can't usurp control of them at any distance, it would be much safer to use Sylvester's golems as helpers on the island until we fully trust him.
+
+Everything sounded great in my opinion; the only potential downside was that Sylvester would use up one of my network slots. I had previously marked that for Sylthaeryn to use, but now this unexpected alliance had taken priority.
+
+I hadn't fully gone through my notifications, but looking at how early the level jump had occurred for [Core Collective], it seemed to be near the start of the battle. Hopefully, it had gained more experience throughout the abuse of [Apex Hunter], and with three fully functioning networks, the fourth wouldn't be too far away.
+
+There's also the black slime, which Keldenar has all but confirmed has some ability to control disconnected slime…
+
+I knew it wouldn't be as powerful as my [Core Collective], and I assumed it had a range limit. Still, if I could have disconnected slime operating around each network, that would improve our flexibility tremendously. I could even have Sylthaeryn come to Keld officially and act as the diplomat for the elves.
+
+And if they aren't happy with that, I can always trade the active network around. Maybe one day on the island, one day with the elves, and so forth.
+
+From my perspective, everything was coming together smoothly, and the only remaining unknown variable was whether Sylvester could actually accept the class. Keldenar saw no reason why he couldn't, as even his [Eyes of Truth] showed him as a separate entity.
+
+"Alright then," Keldenar said, standing up and clearing his throat. "I officially offer you the position of Golemancer Apprentice. Do you accept it?"
+
+"Yes!" Sylvester confidently answered.
+
+I had my [Split Personality] window open, and I watched in real time as Sylvester's classes were removed one by one. I shuffled uncomfortably, seeing hard work undone in one swift wave to only be left with a single line on his combat profile.
+
+<Sylvester; Golemancer Apprentice LV 1.>

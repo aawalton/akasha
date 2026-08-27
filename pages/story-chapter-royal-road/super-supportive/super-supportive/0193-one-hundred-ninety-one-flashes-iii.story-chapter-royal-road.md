@@ -1,0 +1,193 @@
+---
+id: 75e1b416-0159-54e3-950f-8328b856c7f2
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED NINETY-ONE: Flashes III"
+slug: 0193-one-hundred-ninety-one-flashes-iii
+partOf: super-supportive
+position: 193
+ownLength: 2544
+unit: words
+publishedAt: 2024-12-20
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1965232/one-hundred-ninety-one-flashes-iii"
+royalRoadId: "1965232"
+---
+
+191
+
+******
+
+From where Alden stood now, he could see, and appreciate, all of his classmates’ efforts to resist the wind. He and Everly were in a minority who’d made it to safety, but most of the others weren’t far behind.
+
+Finlay and Winston were both over. Marsha was here, shifting her Mutable Haft into spear mode and eyeing all the new superheroes she was allowed to attack like Christmas had come early. And Heloísa was standing just a few feet away from Alden and Everly with both of her arms fully functional.
+
+Alden hoped that was an indicator that injured people could get a mobility reset by returning to the start and not a one-time thing for the beginning of class. Getting hurt and having to deal with it for two hours was instructive, but not the kind of instructive he wanted this evening.
+
+“I’m going to go ask her what the pain realism setting felt like,” Everly said. “I only got some bumps, and the readout didn’t appear. She’ll know better. Thank you for getting me here.”
+
+“Thank you for getting me here,” Alden replied.
+
+Still on the floor, but approaching steadily, Haoyu was looking cool as heck. He was serving as a point of stability for Kon, Lexi, and a few other fortunate souls he’d collected on the way. One solid rock whose feet wouldn’t come off the ground was a valuable resource in a nearly barren gym under assault by a Shaper of Sky.
+
+If we’re going to be attacked frequently or constantly by Galecourse during this class, I’m going to need a good shield.
+
+A whole person wasn’t the ideal choice. The easy bird nest shield method wasn’t going to be awesome in high winds either; if he lost preservation for even a second, it would all go flying like streamers. And making something would take at least a little while, so…he needed to get moving. The starting line was on one of the shorter sides of the massive rectangular gymnasium, and his duffel bag was on the long side near the midline, where everyone usually dropped their stuff if they weren’t sure they were allowed to have it on the floor.
+
+He ran for it.
+
+What are the rules exactly? he wondered as he pounded around the perimeter toward his bag.
+
+There wasn’t a countdown for them to obey, so it seemed like they were being given as much time as they wanted to form teams and strategize. That was exciting, but at the same time, he thought everyone would probably want to get going as soon as possible. The promise of a very desirable prize for reaching the finish, the fact that the Instructors weren’t known to go easier on people toward the end of class…
+
+Obviously I have to do something with rope. The “practice with your chosen tool for the quarter” rule was a given. And if Big Snake was going to be throwing additional materials onto the battlefield, Alden could use those, too. But are we allowed to do something ridiculous like use my supplies to tie a whole team to Haoyu? Is that cheating?
+
+Just then, Vandy’s mother passed by him, running on the dangerous side of the barrier. She looked a lot like her daughter. Alden was almost positive he’d seen her on a perfume commercial that had played all the time when he was little—that one where her wind kept carrying the fragrance around a city, and at the end of the day she turned around and there were like a thousand people chasing her and she made the shocked face.
+
+Yeah, that was her. And perfume commercials are weird.
+
+He was sure Galecourse could run faster than she was right now. He was also sure she didn’t need to reposition at all to blow people around the gym in whatever direction she chose.She was limiting herself on purpose.
+
+So there are lots of rules for us to discover. He grabbed his bag and ran back toward the others. And take advantage of.
+
+Good. He would try to understand what all of the attackers’ self-imposed limits were and think of this class as practice for his nightmare correction. Traveling across a dangerous landscape, under assault by chaotic entities that were stronger than him and behaving in ways that were difficult to predict…but not completely impossible if you knew a little something about what they had been before they became your enemy.
+
+He remembered Haoyu a few weeks ago, telling him what his mom had said about the CNH instructors training students’ eyes by having tells—real or false—that could be discovered. Possibly, they were doing the same kind of thing here. Klein had said, “Figure it out.”
+
+The first part of this is a brain game to learn what the rules are.
+
+The second part would be beating those rules. And the third would be winning the prize.
+
+A private lesson would be phenomenal. If I picked the right person, I could explain some of what I’m working on with Yenu-pezth and get help with that specifically.
+
+It would be an upgraded version of his practice at North of North, and the right teacher or volunteer wouldn’t care that it was a personal goal he was after rather than general improvement.
+
+They’re giving us two days. That means they want us to have a real chance of success. We work on any flaws we find today, and then on Friday, we come back ready to defeat the challenge.
+
+“They’re giving us two days,” Njeri was saying grimly to Everly when he reached them. “That means it will be hell, and they have no intention of letting us have victory today.”
+
+Njeri had arrived with Haoyu and the others. She’d been riding piggyback on Haoyu the last Alden had seen. Now, she was glancing toward the middle of the gym, where stragglers who weren’t lucky enough to have abilities that could handle the high wind—or to have been standing near friends who did—were struggling.
+
+Olive was getting rolled. Literally. She’d been trying to inch toward them all on her stomach, but she’d looked up, realized she was one of the last students on the floor still, and tried to shift to a crawling position.
+
+Alden winced as the wind caught her and flipped her.
+
+“I was just thinking the same thing as Njeri…with a more positive take,” he said, dropping his bag and squatting to unzip it.
+
+Teammates means I’ll have plenty of entrusters. I can shield them and me from the wind, so I need something biggish for a shield. And if I’m working with rope…
+
+He wasn’t the only one trying to gear up. Tuyet was zipping over to check the supply room.
+
+“They didn’t tell us we could use weights and equipment from there,” Vandy protested.
+
+“They didn’t tell us we couldn’t either!” Everly said, her eyes lighting up. She took off, and Njeri was right behind her with a couple of others.
+
+A second later, shouted reports of a locked closet and a single pile of elemental weights outside it caused more than half the class to stampede in that direction to claim the limited resources.
+
+Haoyu and Kon dashed off. Lexi was watching Alden weave his widest rope option—straps of flat yellow webbing—into a mat with only a few narrow visibility gaps.
+
+“Do you want me to cut that for you?” Lexi asked.
+
+“Yep.”
+
+Writher flicked toward the piece Alden had been about to cut through and sliced it neatly.
+
+“Do you want me to help you tie—”
+
+“Yep. Are we a team?”
+
+“Haoyu told a couple of people that we were already.”
+
+“Me, you, him…Kon and Everly?”
+
+Lexi nodded and started tying. “Febri and Shrike wanted either you or Haoyu for their team.”
+
+That was surprising enough to make Alden’s magically swift fingers pause for an instant. “Why’d they want me?”
+
+“Windshield for Søren,” Lexi said quietly. “They’re planning to carry him through to the end, and they need someone to make sure he doesn’t get blown away while they handle everything else.”
+
+“So they picked me or Haoyu. Makes sense.”
+
+“You can join their team if you want.”
+
+“No. I’m good.”
+
+“There’s a real chance of them winning,” Lexi said. “Even with Søren.”
+
+Probably true. With free team selection, the S’s were likely to clique up.
+
+“I haven’t had time to think about it,” Alden answered, “but I’d rather bet on our ability to get along and not go after each other’s throats than on raw power.”
+
+Even their obstacle course teammates weren’t without their frictions. Reinhard was a fine and talented person, and he’d add valuable ranged offense to any team he was on. But he defaulted to trying for a leadership role, which only worked if everyone else was okay with him being leader. Haoyu sometimes wasn’t. Lexi often wasn’t. And Alden preferred a situation where he gave a little and got a little in return. It was irritating to let someone have their way to reduce team drama and know that you’d have to keep doing it or force everyone to take a time out so you could insist on that old playground standby—taking turns. With his roommates, Kon, and Everly, he was sure they’d have a more democratic situation, and anything reasonable he wanted to try would get a fair hearing and at least one solid group effort.
+
+And who knows how long it would take to pick a perfect team and negotiate with them?
+
+There was already some evidence of stress between Astrid, who’d just arrived with Max and Jeffy, and Rebecca, who’d been waiting for her, assuming they’d team up together.
+
+Being fast to solidify a team has definite advantages.
+
+“Yeah, we’ll be great together,” he said, hands still moving. “The only thing we know for sure is that Instructor Waker is pitching, and Vandy’s mom is turning the whole gym into a wind tunnel. So starting with three people who can handle the wind in some way is a solid choice.”
+
+“Three?”
+
+“Everly just needs her spell ingredient. The blue powder. And she needs a break in the wind to cast. That impression is fast, so she can get it off when Galecourse lets up to reposition. It’s not perfect in a group situation, since we’d all have to hold onto her or we’d go skidding across her ice patch like hockey pucks. But if she gets separated and needs to get back to us on her own she can do it that way.”
+
+The ice patch spell would also wreak havoc on anyone near her, which wasn’t necessarily a bad thing. Alden had heard people questioning Klein about whether or not they could attack other teams. He was sure someone would try it to see what happened…or because they thought it was necessary.
+
+He created a new group chat for the team and sent them all a message. [Do we think everyone who gets to the finish line gets the private lesson reward? Or not?]
+
+Klein had said “anyone” who made it, which Alden took to mean it was possible for the whole class to succeed. But if there were unknown rules to figure out…what if one team crossing the finish line triggered a windspeed increase or another attack of some kind from the adults?
+
+It would be a little unfair, but it also seemed to be within the realm of possibility. On the obstacle course, a member of the opposing team finishing had made an attack allowable, and with their gym classes so often being competitive it seemed likely that there would be some kind of additional benefit to finishing first.
+
+[Haoyu:  Let us Number 1! No worrying then.]
+
+“Let us Number 1,” Alden said to Lexi as he cut another strap with Writher. “I’m almost done with this…if you think it’s a good size for us to work with?”
+
+The shield would be a rectangle large enough to provide total body coverage for him when turned vertically, or if turned horizontally, it should protect everyone from the bulk of the wind if they piled up behind it.
+
+“You don’t want it to be so unwieldy that you can’t get it out of the way if something that would exhaust your skill is incoming,” Lexi said.
+
+“That’s right. I need to stay useful, not turn into dead weight for the rest of you to haul around.” He looked at the shield. “Let’s add some loops. I can tie stuff to it I need to carry, or they can be used as handles. Then I’ll cast my wordchain, and we’ll go.”
+
+He’d been waiting to see what class was like today before he decided whether or not to use My Body Becomes My Assistant. He needed to train without it at least half the time, since it wasn’t always going to be available.
+
+“What other wordchains are you going to get Lute to teach you?” Lexi asked.
+
+Before Alden could answer, the sound of a few people calling out encouragements made him glance up.
+
+“Olive, run!”
+
+“You can do it!”
+
+“Go, girl! GET UP!”
+
+The Adjuster had been blown nearly to the other end of the gym until she’d ended up pressed to one of the side barriers. Illusions just didn’t do anything to help with this kind of challenge. Now, Galecourse was starting a repositioning lap, the wind was off, and Olive was climbing to her feet to make a run for it.
+
+She’s too slow, thought Alden, taking in Galecourse’s speed and comparing them. Vandy’s mother seemed to have a set pace in mind for her repositions, and he assumed she’d be sticking to the plan even if it meant Olive couldn’t recover fast enough to gain ground.
+
+Everyone who’d been stuck out there had made it back during the last pause or they were crossing the line right now, except for Olive and Sanjay—who was stiff-suited head-to-toe.
+
+Did he die?
+
+Olive ran past his fallen form and pelted toward them all.
+
+“Way too slow,” said Lexi.
+
+Haoyu had just returned with Everly and Kon. They were each carrying either a sandbag or a lifematter bag.
+
+“Should I go get her?” Haoyu asked. “I know it might delay us, but—”
+
+“Those are my teammates!” A voice with an American accent rang across the gym. “Hold on, Olive! Don’t let your spirit fail you! I’m coming!”
+
+Winston Heelfeather, sunglasses on and face determined, left the safety of the sidelines and ran to the rescue.
+
+Alden stared at the sprinting Speed Brute’s back, the words “Don’t let your spirit fail you!” leaving a kind of hollow echo in his brain. Haoyu caught his eyes.
+
+“I have no comment,” said Alden. He tied the last knot, then flexed his fingers in preparation for their next task. “You guys grab some rope from my bag. Whatever looks useful to you.”
+
+“There’s a plastic zip bag full of dirt in here,” Kon said, already helping himself to the contents of the duffel.
+
+“That’s useful,” Alden told him. “Well, it’s more useful when there isn’t wind, but let’s take it.”
+
+Winston had just reached Olive and picked her up. Bridal style.
+
+“I’m wordchaining,” said Alden, “and then we’re going for it together.”

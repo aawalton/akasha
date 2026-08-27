@@ -1,0 +1,581 @@
+---
+id: ba32c4cc-6c19-5ac9-8eee-e09263ab65c9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 116: Of Friends, Feasts, and Fricassees"
+slug: 0117-chapter-116-of-friends-feasts-and-fricassees
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 117
+ownLength: 2161
+unit: words
+publishedAt: 2026-04-01
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3219554/chapter-116-of-friends-feasts-and-fricassees"
+royalRoadId: "3219554"
+---
+
+PoV Luna
+
+Yes!
+
+Finally!
+
+Luna smelled them before she saw anything.
+
+The heavier, but familiar scent, layered with road dust, Ant blood, earth, sweat and mana.
+
+Her ears snapped forward as her nose flared wide, sorting through it instinctively. And then she went on a very quick Run!
+
+Fast and straight and full of momentum as she darted through the street, around a cart, past someone who yelped as she slipped between their legs, and locked onto the scent ahead.
+
+There!
+
+Big.
+
+Loud.
+
+And so very–
+
+“Mister Bull!”
+
+Luna didn’t even slow when she saw him.
+
+Just leapt straight into him!
+
+Impact landed solid, satisfying, exactly as it should be – only instead of knocking him over, she was caught mid-collision and lifted slightly off the ground.
+
+“Hahaha!” Mister Bull’s laugh boomed as he steadied her easily. “Power Fluff Girl! It is nice to see you too!”
+
+Luna grinned up at him, tail wagging wildly as she hung there for a brief moment before dropping back down onto her feet.
+
+“You back!” she declared.
+
+“Yes, we are back,” he said, still laughing, though there was a tiredness to it now that hadn’t been there before. “All of us.”
+
+“Oh! Then Luna will go say hi!”
+
+She immediately turned around, nose already working overtime. The scents told her many things! Everybody was tired, and needed a bath, but there was relief underneath at having made it back.
+
+Luna didn’t wait.
+
+She darted ahead, weaving through the group.
+
+“Hi! You back!” she called, tail swaying as she moved from one to the next.
+
+A few of them flinched in surprise, hands twitching toward weapons before recognition set in.
+
+“Oh– uh– hello.”
+
+“Careful, that’s the–”
+
+“Well, hello there, General Luna!”
+
+Ehehe!
+
+Luna didn’t know what General was, but it sounded strong and important!
+
+But one of them reacted differently.
+
+He straightened as she approached, then – very deliberately – bowed, bringing his hand up in a precise, practiced motion Luna didn’t recognize.
+
+She tilted her head at the gesture.
+
+“…What you doing?”
+
+“It’s a salute,” came a voice from behind her.
+
+Luna turned slightly.
+
+“Mister Fox!”
+
+Clean, neat, grinning. And entirely too composed for someone who smelled of dust and lots of walking.
+
+“Salute,” she repeated.
+
+“It’s a sign of respect, you saved the lad's life.”
+
+“Oh!”
+
+Luna turned back to the man, studying him for a moment before giving a small, decisive nod.
+
+“Good job not dying!”
+
+He stared at her.
+
+Then, somehow, managed to look both embarrassed and proud at the same time.
+
+“…Thank you.”
+
+Hehe!
+
+That worked!
+
+So Luna twirled around–
+
+Did a pointy pose with Mister Fox–
+
+–And then continued on her way to greet everybody!
+
+Humans were slow.
+
+So it was easy to catch up to them all!
+
+***
+
+By the time they reached the Guild hall, the place was already shifting.
+
+People had gathered, drawn in by the noise and movement, and the air carried that restless, rising energy that always came when something important had just happened.
+
+Luna slipped inside ahead of them, weaving easily through the growing crowd until she found her pack again.
+
+And just as she finished retelling her day to Second–
+
+Guildmaster Ferric stepped forward to do a Speech.
+
+Luna’s ears perked.
+
+That was–
+
+More Important Standing Around!
+
+A weird human tradition. But one Luna knew to recognize now!
+
+She looked on as the man stood there, waiting just long enough for the room to settle before beginning, his voice carrying clearly as the Guild quieted around him.
+
+There were many words.
+
+Important sounding words!
+
+Luna listened, at least at first, catching the parts that mattered.
+
+Success of the expedition.
+
+The ants were gone – Luna sure hoped so, she bit sooo many of them!
+
+The mine was found and secured.
+
+And the Town Council had been informed.
+
+All very good things!
+
+…Probably!
+
+Her tail wagged faintly as she nodded along, trying to mimic her friends.
+
+Then there were even more words.
+
+About rewards, compensations, and being “handsomely rewarded”?
+
+Luna paused.
+
+“Handsome?”
+
+That sounded weird!
+
+She glanced sideways at her pack, pointed at them one by one–
+
+Her Second.
+
+“Extremely handsome!”
+
+Trianna.
+
+“Very handsome!”
+
+Veric, Sepio, and Ray?
+
+Also all got called “Handsome.”
+
+Yes.
+
+That made sense!
+
+She nodded to herself, entirely convinced.
+
+Then Trianna snorted beside her, then pulled Luna into a tight hug.
+
+“You’re such a cutie! But it’s not quite what that means.”
+
+Luna blinked.
+
+“…No?”
+
+“It just means ‘lots of money’.”
+
+“Oh.”
+
+Luna considered that carefully, head tilting slightly.
+
+“…Why not just say ‘lots of money’?”
+
+Trianna opened her mouth, ready to answer.
+
+…Then reconsidered.
+
+“…You know, I don’t actually know.”
+
+Luna stared at her with pure disbelief.
+
+“W–huh?”
+
+The idea that humans were so incredibly weird… that even other humans didn’t understand them…?
+
+Just crashed Luna’s brain!
+
+That was just so… silly!
+
+Still–
+
+If money was handsome…
+
+Then things bought with money were also handsome!
+
+Which meant–
+
+Spicy jerky was the most handsome thing of all!
+
+Luna perked up at that.
+
+That–
+
+–was the bestest conclusion ever!
+
+***
+
+As soon as the speech was done the tension in the room broke into noise again. People relaxed, laughter rose, conversations overlapped – with groups formed naturally around shared stories.
+
+The adventurers began talking immediately, hands moving as much as their words, voices carrying pieces of the expedition through the room.
+
+The expedition group told valiant stories of survival and grand victory, while those that stayed listened with rapt attention, then shared the news about Abominations with just as much zeal.
+
+Luna looked on curiously as neither group wanted to let up.
+
+And how the stories grew the longer it went on!
+
+There were already talks about there being multiple nests, and mutant Ants, and–
+
+–Luna sorta wished they were true!
+
+They sounded like strong prey to bite!
+
+She looked around, and noticed more people than expected – and even more entering!
+
+Friends of her adventurer friends!
+
+Here to listen to the stories.
+
+That–
+
+–Was awoomazing! Having good pack friends was important!
+
+It had Luna’s Apex Predator Mlem of Approval!
+
+Which made Trianna yelp in surprise, and Luna was free wolf again!
+
+Hehe!
+
+She drifted between the groups then, moving between groups without interrupting, listening, watching, gathering pieces.
+
+Her tail swayed lazily behind her.
+
+Yes.
+
+This was good!
+
+Very good.
+
+Her eyes gleamed faintly as she leaned just a little closer to one particularly animated group.
+
+It was the perfect moment!
+
+To enact… the Plan!
+
+Yes!
+
+After all, a celebration this big needed something very important.
+
+Very, very important! Impawsibly important!
+
+Luna’s eyes gleamed with conviction.
+
+Her tail went still for a single heartbeat.
+
+Then–
+
+She zoomed back toward her pack.
+
+“Second!”
+
+Syl looked down at her, mid-conversation with Ferric.
+
+“Yes, Luna?”
+
+Luna leaned in slightly, lowering her voice as this was a very serious and very secret thing.
+
+“Luna has a plan! We make big food!”
+
+Syl blinked.
+
+“…Big food.”
+
+“Yes,” Luna nodded firmly. “Very big. For everyone! Proper celebration food.”
+
+Ferric’s attention shifted fully to her now, one brow raising slightly.
+
+“And how,” he asked, voice calm but clearly curious, “do you propose we do that on such short notice?”
+
+Luna grinned.
+
+“Luna planned for long time! Luna has food. Lots of food! And Mister Stall Owner agreed to cook! Will bring friends to help!”
+
+A pause.
+
+Syl tilted her head slightly.
+
+“And you planned all of that, for us?”
+
+Luna grinned.
+
+“Yip yep!”
+
+Syliana leaned down and hugged her tightly, for a brief moment.
+
+“I’m proud of you.”
+
+“Um–”
+
+Luna felt her cheeks warm up, and her tail wagged so hard!
+
+Betrayal!
+
+But–
+
+Ehehe…
+
+Being praised felt so… nice! It made Luna feel a little shy–
+
+Ferric figured this was as good a moment to interrupt as any.
+
+“…How much food are we talking about exactly?”
+
+Luna considered that.
+
+Then spread her arms.
+
+“Much! Many tens of prey!”
+
+That–
+
+Wasn’t much of a reassuring answer.
+
+Ferric studied her for a moment, then glanced at Syl, who gave a small, thoughtful hum.
+
+“…It would boost morale,” Syl said slowly. “And the Guild does have their own cooks too, and the empty courtyard to host it.”
+
+Ferric’s gaze returned to Luna.
+
+“…You are certain you can provide enough?”
+
+Luna puffed up proudly.
+
+“Yesh! Luna very certain!”
+
+Ferric studied her for a moment longer, before nodding once.
+
+“Very well. Let us see what you have in mind.”
+
+That was all Luna needed.
+
+“Yip yep!”
+
+One moment she was there–
+
+The next–
+
+Gone.
+
+A streak of shadow slipping out of the hall and into the night beyond.
+
+But just as people started to gossip and talk about where the speedy little troublemaker went again–
+
+Luna returned!
+
+Bursting in through the doors with the same momentum, skidding to a stop in the middle of the hall, tail wagging furiously.
+
+“Ready!”
+
+“…That was fast,” Ray muttered.
+
+Luna nodded.
+
+“Mhm! Time important.”
+
+Waiting for food was sin!
+
+Ferric had already started moving, issuing orders with practiced ease.
+
+“Clear the courtyard. Inform the cooks. And bring whatever equipment they require.”
+
+He looked upon Luna excitedly bouncing in place.
+
+“...And any spares we have too.”
+
+Guild staff scattered immediately, shifting tables, dragging benches, and executing the orders.
+
+No questions asked!
+
+Luna noticed it before, but everybody trusted Ferric a lot!
+
+Even if he was a little goofy sometimes, he was proper pack leader!
+
+Mhm!
+
+Luna approved.
+
+The energy in the Guild shifted again, anticipation building quickly as word spread of a coming feast.
+
+And fifteen minutes later–
+
+Mister Grevan arrived! With six more people in tow!
+
+With tools and cooking gear!
+
+And right on entry–
+
+Grevan locked eyes with the Guild cook mister, then the two clasped hands!
+
+“Dyran! You son–”
+
+But Luna didn’t hear the rest!
+
+She was too focused on the people Grevan brought with him.
+
+They had the unmistakable presence of people who knew exactly what they were doing!
+
+That was good, great, awoomazing!
+
+Luna bounced in place as space was made in the courtyard, her eyes gleaming as she stepped forward.
+
+“Here come Luna’s hunts!” she declared proudly.
+
+She opened her Maw right away.
+
+And brought up everything!!!
+
+Her recent hunts!
+
+And the old ones too.
+
+Some already processed into nice slabs of meat.
+
+All landing on the ground and tables with heavy thumps.
+
+In little neat piles! For different types!
+
+Her Sandwich friend told her variety was the spice of life, and Luna wholeheartedly agreed!
+
+So it was perhaps little surprise that many other things got mixed into the piles!
+
+Stack after stack after stack until the courtyard began to fill, the sheer quantity of it forcing the cooks to step back slightly just to take it all in.
+
+Strong prey, the drake, strange hunts, herbs, and more!
+
+Things that probably wouldn’t normally be considered food.
+
+But Luna wanted to try them anyways!
+
+The cooks froze.
+
+“…Where,” one of them started slowly, “did you even–”
+
+But Grevan, familiar with her antics by now, spoke over the man.
+
+“Gahaha! You never fail to surprise, little one!”
+
+Then he turned to the others, commanding attention.
+
+“Alright boys, you see this? We have work to do, and we were already paid to do it too! Let’s get to it!”
+
+“…We’re going to need more tables,” one muttered.
+
+“Then go get them! Don’t stand there, we have a feast to prepare!”
+
+Luna looked on, tail swaying in anticipation–
+
+The cooks exchanged glances.
+
+And she could see the change as it happened!
+
+A spark.
+
+One of them grinned.
+
+“…Alright,” he said, rolling up his sleeves. “Let’s see what we can do.”
+
+“Yes!” Luna agreed immediately.
+
+But she wasn’t done yet!
+
+“Oh! Also– Luna has a challenge!”
+
+The cooks paused.
+
+“…Challenge?”
+
+Luna nodded eagerly.
+
+“Yip yep. To make new food! Very tasty food!”
+
+She reached into her Maw again.
+
+And pulled out–
+
+Crunchy, shiny Ant legs, and their wobbly eggs!
+
+“Inside is… gloopy,” Luna explained seriously. “But very meat! No taste yet. Needs spice and help!”
+
+The cooks leaned in slightly, interested now.
+
+“And also this!”
+
+Luna produced a bunch of acid sacs, and a small container she got from the Guild – with pure extracted acid!
+
+And she did so…
+
+Very carefully.
+
+“This,” she said, holding it up proudly, “is Ant acid!”
+
+A pause.
+
+“…I’m sorry, what?”
+
+“It makes things taste more tingly nice! But hurts mouth. Make it not hurt mouth?” Luna brightly suggested.
+
+That did not clarify anything.
+
+At all.
+
+But it got the cooks interested, and they were already looking at it differently now.
+
+“…We could dilute it, perhaps” one murmured.
+
+“Or use it as a mornay base–”
+
+“Spiced oil–”
+
+“Some controlled heat and we could get a fricassee–”
+
+Luna nodded along eagerly, even if she understood none of the fancier words!
+
+“Yip yep! Make lots! Luna will try them all!”
+
+The cooks exchanged another glance.
+
+Then got to cooking!
+
+Luna vibrated in place, already anticipating the results.
+
+The best kind of results!
+
+Ones she wanted to see, nom on, and conquer!
+
+Ehehe!

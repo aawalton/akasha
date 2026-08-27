@@ -1,0 +1,149 @@
+---
+id: 3c66f349-33da-52fb-aaa5-b45254465e1b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1248 - A Stealthy Opportunity"
+slug: 0120-chapter-1248-a-stealthy-opportunity
+partOf: the-primal-hunter
+position: 120
+ownLength: 2836
+unit: words
+ownProgress: 2836
+publishedAt: 2026-02-04
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3012186/chapter-1248-a-stealthy-opportunity"
+royalRoadId: "3012186"
+markedReadAt: "2026-06-29T19:34:19.068Z"
+---
+
+Jake stood with his arms crossed and watched as Casper started setting up for his magic. He spent a little while placing stakes in a large circular pattern, and once he was satisfied, he began pulling Construction Golems.
+
+He shot out stake after stake and purposefully flared his aura in an attempt to bait them towards him. It took him a little while as Minaga had spread out the B-grades a lot, but eventually, he had all thirty-two remaining golems hot on his ass.
+
+This period also allowed Casper to show off that, defensively, he wasn’t all too shabby. Sure, he was not anywhere near Jake’s level, but he did a pretty good job dodging and blocking all the incoming attacks, avoiding taking any damage despite the many enemies chasing after him. Alright, technically, he didn’t do it alone but had help from Lyra coming out and blocking a few incoming attacks, but Jake let that slide.
+
+Jake couldn’t help but smile as he watched Casper weave between the golems as he tried to get them all into the pre-prepared area he had set up earlier. The coordination between him and Lyra was absolutely seamless; whenever Casper seemed even slightly overwhelmed, Lyra would step in at the perfect moment, her presence like a ghostly guardian angel by his side. Sure, while Casper certainly still had room for improvement, his growth was undeniable, and his resourcefulness in combat was impressive. Especially his curse magic was far more versatile than anything Jake could do.
+
+Soon enough, Casper got the golems to the right area, and Jake knew his time was also about to come. All the stakes of curse energy had disappeared after Casper placed them, but now that the golems were all within the area, they were revealed once more as the Risen unleashed his magic.
+
+Curse energy revolved around him as it mixed with something else. It wasn’t quite space magic, but it was close. The entire area warped as the stakes erupted with power, and Casper unleashed the ritual.
+
+Walls of pure darkness formed between the many stakes in the ground, drawing a circle as all the golems were stuck in the middle. The circle was several hundred meters across and had more than two hundred stakes making up its edges. The ground was entirely black, and while the walls weren’t very tall and even translucent, Jake had a strong feeling that trying to get above them wasn’t an option.
+
+It all looked very impressive, but Jake wasn’t quite sure what Casper was doing would work as three golems were nearly upon him.
+
+That’s when he made a hand motion and clasped his palms together. Jake’s eyes opened wide as he saw walls of darkness erupt all over the interior of the circle. Lines were drawn between all the stakes making up the perimeter, forming walls between them, creating a nightmarish crisscross of shadow walls throughout the large circle.
+
+The golems were stuck, unable to move forward or back as the labyrinth of shadows pressed in from all sides, creating small sections, each holding only one golem except for one place where there were two. Every attempt the golems made to force their way through was met with resistance, as the dark curse barriers absorbed their attacks and seemingly absorbed the energy. Upon closer inspection, Jake was pretty certain the energy was redirected toward the stakes lining the perimeter, meaning while the walls appeared impenetrable, they would eventually falter.
+
+For a moment, the only sounds were the muffled thuds of metal limbs hitting the seemingly indestructible curse barriers and the faint hum of magic vibrating in the air. That’s when it was time for Jake to start doing his job.
+
+From Jake’s vantage point, he released the first attack as an Arcane Powershot swept across the landscape, leaving a wake of destruction as it passed. When it encountered the formation of walls created by Casper, rather than meeting resistance, the barriers dimmed, allowing the arrow to pass straight through and into one of the Construction Golems.
+
+It was blasted to pieces instantly, sending metal flying that, surprisingly, passed harmlessly through all the other curse walls surrounding it. Jake’s sudden attack didn’t even get a reaction out of the other golems, who just continued trying to escape. In fact, a few only seemed to realize something had even happened when they were struck by a random piece of broken golem.
+
+That’s when Jake realized something else scary about the formation Casper had set up. While to Jake the walls were see-through and didn’t look that durable or thick, the golems were likely seeing and experiencing something far different.
+
+Chances were, from the golem’s perspective, they were all trapped in small rooms of complete darkness, unaware of anything going on around them, as all they could do was try to break down the walls surrounding them.
+
+All they could do was struggle in the dark until it was their turn for Jake to make them a target. This also explained why Jake got full benefit from Stealth Attack with every attack while standing there and shooting Arcane Powershot after Arcane Powershot.
+
+To ensure he took them all down quickly, Jake had activated Arcane Awakening on the offensive 50%, as while he didn’t see a need to go all-out, he still wanted a bit more damage than the stable 30% could offer, as he wasn’t using Protean Arrows.
+
+This did mean that Jake didn’t consistently one-shot anymore, but he did finish them off fast, often within three arrows max, with the subsequent follow-up attacks not necessarily being Arcane Powershots. It definitely also helped that the golems were trapped in a domain full of curse energy that seemingly lowered their defenses a little.
+
+Being allowed to simply shoot like this, unleashing Stealth Attack after Stealth Attack, Jake really began to get a better feel for the skill and get in tune with it. Enough for him to actively think about it as he focused on the sensation.
+
+It wasn’t something Jake had been planning, but when inspiration struck and the opportunity arose, Jake jumped at it. Jake focused on the sensation of Stealth Attack activating, trying to hold on to it as best he could with every shot.
+
+How long had it been since he’d upgraded it last? It was before Nevermore... no, before Jake even reached C-grade. It was a long-ass time to not get the skill upgraded, though Jake hadn’t exactly worked on getting an upgrade either.
+
+What he had done instead was unconsciously improve his understanding and application of the skill. This understanding now surfaced as Jake used the skill over and over again, improving ever so slightly with every hit.
+
+When only ten golems were left, Jake felt as if he’d grasped onto something. After landing another Stealth Attack, he tried to hold on to the concept that increased his damage, but it was fleeting and disappeared.
+
+With seven remaining, he grasped onto it for the faintest of moments, but it slipped away once more. At five, Jake once more felt oh-so-close.
+
+Jake didn’t even think about his dwindling number of attempts as he fully focused his mind. He purposefully didn’t finish the golems off in one shot anymore but wanted a few follow-up attacks to try to fully consolidate what he was hoping to achieve.
+
+Finally, with only two Construction Golems left, Jake got it. He landed a Stealth Attack, dealing massive damage, and right as whatever concept increased the damage of his attack was about to slip away, Jake grasped onto it tightly and infused it into the next arrow he shot. He had only managed to hold on to it for a mere moment and shoot one additional arrow... but it was enough.
+
+This second arrow also struck for additional damage. A lot less than the first one, true, but the mere fact that it had worked was more than good enough as he grinned. Happy as a clam, especially after confirming the system notification, Jake didn’t bother playing with the final golem as he finished it off in a single blow.
+
+Lowering his bow, Jake was about to check his system notifications when he was distracted by what Casper was doing. In his state of focus, Jake had kind of forgotten about the Risen and the formation, and only now did he see that the poor guy had gone through quite a struggle.
+
+More than half of the wooden stakes making up the perimeter of the formation were broken, and Casper looked a little haggard as he stopped his magic, making the makeshift prison of cursed energy and what Jake suspected to be dungeon magic disappear.
+
+He looked a little annoyed as he waved his hand and collected the remaining wooden stakes. From the looks of it, these weren’t easily conjured stakes but items Casper had to prepare beforehand, so having so many broken likely sucked, and they would take a while to replace.
+
+With the stakes collected, Casper made his way back to Jake, throwing the hunter a curious look.
+
+“I’m confused here,” Casper said once he got back to Jake. “At first, you were killing them pretty quickly, which was nice. But then, much to my dismay, about halfway through, you suddenly got slow as fuck, taking so long between every shot for seemingly no reason. Moreover, you took more shots to kill them. So, I guessed you were running out of juice or something, but then, right at the end, you shoot an arrow that’s some-fucking-how stronger than nearly all those prior. Now, I don’t want to sound like a conspiracy theorist, but I’m beginning to suspect we weren’t quite on the same page about you killing them as quickly as possible, despite that being the original agreement. Would I be right to suspect you were perhaps a tiny bit distracted?”
+
+The way Casper asked the question made it pretty damn evident he knew Jake’s head hadn’t been entirely in the game, and honestly, all Jake could do was scratch the back of his head and apologize.
+
+“Sorry?” Jake said, a tiny bit embarrassed. “I kind of did get a little distracted with a moment of inspiration... and in my defense, wasn’t part of this trip for me to take inspiration from you? Which I totally just did!”
+
+“I’m pretty confident you didn’t get inspiration from my fusion of dungeon and curse magic,” Casper muttered, shaking his head. “But did you get a skill upgrade?”
+
+Jake nodded. “Yep.”
+
+“A good one?”
+
+“Let me check, gimme two seconds,” Jake said, finally opening the notifications he’d stopped himself from seeing earlier.
+
+[Superior Stealth Attack (Rare)] – The strongest blow is the one not seen coming before it is too late. Increase the power of the first attack made on an otherwise unaware foe. Has a brief grace period between the foe being aware and the effect still triggering, as long as the foe is still not conscious of the hunter’s position or the nature of the attack. Adds a bonus to the effects of Superior Stealth Attack, dependent on the nature of the attack. This effect is further improved by the level of Unseen Arcane Hunter.
+
+-->
+
+[Supreme Stealth Attack (Epic)] – The strongest blow is the one not seen coming before it is too late. Significantly increases the power of the first attack made on an otherwise unaware foe. Has a generous grace period between the foe being aware and the effect still triggering, as long as the foe is still not conscious of the hunter’s position or the nature of the attack. Upon successfully landing a Stealth Attack, all immediately following attacks will also experience increased damage. Adds a bonus to the effects of Supreme Stealth Attack, dependent on the nature of the attack. This effect is further improved by the level of Unseen Arcane Hunter.
+
+Seeing the upgrade, Jake wasn’t at all surprised that this was the kind he’d gotten.
+
+It wasn’t quite Stealth Attack of the Unseen Arcane Hunter that he’d been offered when his class reached level 290, but it was still a nice and straight upgrade. It even had the same effect of giving a damage bonus even after the initial attack, though the Unseen Arcane Hunter version worked a little differently, scaling off Perception.
+
+Besides that, everything was just a clear upgrade, making every aspect of the skill better. It was the accumulation of decades, finally consolidated when he had this opportunity to use the skill over and over again in such quick succession.
+
+“Hello?” Casper asked, waving his hand back and forth. “Definitely been more than two seconds.”
+
+“Oh, yeah, sorry,” Jake apologized again, really not used to having other people with him while hunting and getting upgrades. “Went from rare to epic, so not a massive upgrade, but still a good one.”
+
+“Right,” Casper nodded as he put on a cheeky smile. “Guess it would be too big an expectation for you to have gained another mythical skill just like that.”
+
+“I wouldn’t have complained if I had,” Jake joked back. “Sadly, those do not come that easily. At least not usually.”
+
+“It’s okay, I know I should temper my expectations,” Casper chuckled, shaking his head. “And here I was hoping for someone to finally confirm if there was another rarity after mythical for us mortals to discover.”
+
+Casper clearly said it jokingly, but Jake responded by just throwing him a look. The Risen narrowed his eyes. “Wait... oh, fuck you.”
+
+“You can ask for details,” Jake shrugged.
+
+“Yeah, fuck you twice, we both know that shit’s definitely considered Forbidden Knowledge,” Casper sighed.
+
+“If it’s any consolation, whatever you did with that formation was pretty damn cool,” Jake said, being genuine. “The durability of those walls, the fact they clearly couldn’t perceive the outside world, and the fact it even slightly weakened their defenses... it was quite something.”
+
+“I’m not going to disagree with it being awesome, but I should warn you it’s likely a lot worse than you think,” Casper said, clarifying. “The walls have incredibly high base damage reduction, meaning that they can take nearly unlimited weaker blows, but risk breaking from one singular powerful attack. In other words, it wouldn’t work on actually strong enemies, and is only good on large groups of weaker foes. This isn’t mentioning the high cost and time requirement to make those stakes, which I have to place down beforehand, by the way.”
+
+Jake nodded along to the explanation, though he was fairly confident Casper was trying to downplay his own skills. He always downplayed his own skills, even at work pre-system, which was probably why he never got promoted despite being the best developer in the company... or he didn’t get promoted precisely because he was the best developer in the company. Either way, Casper only knew how to brag as a joke.
+
+“Sure, that formation, but I’m sure you have plenty of other tricks in the bag,” Jake said with a smile. “Also, why do you even complain? Didn’t you just get a level from that?”
+
+While Jake hadn’t leveled up from slaying the thirty-two Construction Golems, Casper had gained a level, meaning the system also recognized his contribution.
+
+“I’m not complaining about gaining a level, I’m complaining about having to create another pile of Sealing Stakes later,” the Risen sighed. “They are such a pain to carve and infuse.”
+
+“Man, I’m feeling so sorry for you,” Jake said with a deadpan expression. “Is there anything I can do to make things better for poor little Casper?”
+
+The Risen gave Jake a glare before just smiling. “We can finally pick up some speed and get killing. I doubt I’ll get much out of Construction Golems either, so let’s find something actually interesting to fight. Hopefully, we can even encounter a pile of experience – I mean, an enemy powerful enough for some of my single-target focused curses to be relevant.”
+
+“If not, we should file a complaint with Minaga for making the place too easy,” Jake nodded as he motioned for the two of them to enter the labyrinth proper.
+
+“Oh, for sure, and we should leave a bad review written on a massive billboard outside the dungeon entrance,” Casper agreed, following after Jake as the two flew forward.
+
+“By the way, the future version of this place, eh, dungeon two to four, had traps and stuff, right?” Jake asked as the two approached one of the large construction holes in the utterly massive wall of the Grand Labyrinth.
+
+“Yeah,” Casper nodded, entering with Jake. “Though considering this version is still being built, I seriously doubt they implemented any traps yet.”
+
+“Right,” Jake nodded. “Yeah, I guess that tracks.”
+
+Casper was totally right; it wouldn’t make any sense for an in-construction Grand Labyrinth to already have fully functional traps, right? No, no, it really didn’t... but had something not making sense ever stopped Minaga from doing something?
+
+No, no, it hadn’t.

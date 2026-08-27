@@ -1,0 +1,627 @@
+---
+id: 5dc7e67b-f919-5285-a6ea-bbaedf0a5873
+page-type-slug: story-chapter-royal-road
+title: "Chapter 156: The Weavers of Fate"
+slug: 0076-chapter-156-the-weavers-of-fate
+partOf: the-calamitous-bob-stubbed
+position: 76
+ownLength: 7063
+unit: words
+ownProgress: 7063
+publishedAt: 2024-03-16
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1556443/chapter-156-the-weavers-of-fate"
+royalRoadId: "1556443"
+markedReadAt: "2026-06-29T21:17:27.224Z"
+---
+
+“You are bringing a thousand Hallurians into our camp? Are you completely insane? This is a ploy by those treacherous savages!”
+
+Duke Eikart was livid.
+
+Viv sighed as she leaned back into her seat. Farren was already missed. He would have had some pointed comments that only worked from the position of moral superiority, one she didn’t have on account of her reputation. Totally undeserved, that.
+
+“I’m sure Empress Viv has things under control?” Duke Falstag said with hesitation.
+
+“It’s simple,” Viv replied. “They surrendered, so I took them prisoners—”
+
+“They lie! They’re Hallurians!”
+
+“I took them prisoners,” Viv continued through gritted teeth, “just like Neriad demands and just as I committed to when I accepted him as the patron god of New Harrak.”
+
+“Your oaths will cost us our victory.”
+
+“Those are mushroom farmers and tunnel diggers, not shock troops! Most of them barely have combat skills. They will not be a problem.”
+
+“Can you guarantee it?”
+
+“Yes, I can.”
+
+Eikart huffed, which pissed Viv off. She knew that his land was being attacked and that he was under a tremendous amount of pressure, so being a little bit of a twat was to be expected.
+
+“You are overconfident,” Eikart grumbled.
+
+Despite all her sympathy, Viv still had to put some boundaries. Slowly, she placed both hands on the table. She deployed her anchors, which reminded Eikart of what she was. He peered into the void of her sclera, and he remembered.
+
+“I am me. And they will not be a problem,” she stated.
+
+Solfis and Zero Five shifted at her sides. They were the most… physically intimidating members of her retinue, and a subtle reminder that they were under her control.
+
+“We may be able to transfer them tonight,” Jaratalassi said, breaking the stalemate.
+
+The general smiled affably like the sly dog he was. His presence dispersed the tension with a simple and acceptable proposal. Viv’s gates would allow them to be transferred to a distant city where they could not sabotage the troops.
+
+“Very well… but my subordinate will go with them to inspect them… just to make sure there are no issues. If the witch gate is destroyed…”
+
+“Then I will rebuild it,” Viv replied.
+
+“It may be so. A thousand mouths to feed will strain our supplies as well… We do not want Hallurians in Baran. They do not belong.”
+
+“They have agreed to follow me to Harrak as my… underlings,” Rakan said.
+
+The mage moved forward. With his staff, he looked very mage-y. A proper caster and all. Perhaps that was the only reason why the dukes tolerated the interruption of someone they must see as an inferior.
+
+“I merely ask that they are let through.”
+
+“Do as you wish if it can get them off my back.”
+
+Viv imagined Lady Azar’s expression when a thousand submissive farmers with no belongings would flood the land right before harvest and smiled. Not her problem, or at least not yet. Hey, the old woman always said she came to Harrak as a challenge. There, a proper one, provided not even by Viv herself. Enjoy.
+
+“If we are done with the matter of the prisoners, I would like to address our plan for tomorrow,” Jaratalassi said.
+
+Everyone gathered around the table where a detailed map of the surrounding area waited, dotted by little figurines representing different groups.
+
+“Our scouts report that the enemy has made camp ten leagues away from our positions. They certainly know we are here, therefore we should expect an attack tomorrow. Cloud Skull’s men report a mix of footmen and soldiers mounted, and I fear this is the truth, large bipedal lizards. Some report larger specimens…”
+
+“Those are the ruler and priest castes,” Rakan said.
+
+Jaratalassi looked on curiously. Viv had never seen Rakan so smug and aggravated. He was clearly angered by the words of Duke Eikart about people who were technically his compatriots. She frowned and remembered then, that he was from a family of laborers and hunters.
+
+He had more in common with the prisoners than he did with the Baranese and it showed.
+
+“I have spoken with the community leaders — those are the equivalent of ‘village heads’ in charge of enforcing production quotas. They had much to say about our common foes.”
+
+Even Eikart listened with begrudging attention. She felt a hint of pride at seeing how much Rakan had grown since they had met, from a shy outcast to a confident expert. She exchanged a glance with Sidjin and they smiled.
+
+That smile didn’t last long.
+
+“The enemy is a species that calls themselves the Empire of Dawn or the Nemeti, which means Chosen of Fate. They claim to weave the threads of destiny through their priests, and given some of the rumors, it might be true. They are separated into four castes. At the bottom are the laborers who are subservient and about the size of a human child. They do not fight. The few present will not pose a threat to us. The second caste is, I’m sorry to say, the females. They are said to be more feral than the rest and spawn dozens of creatures at once. The third caste is made of warriors. Those are the ones we will fight.”
+
+“What else did the prisoners say?” Jaratalassi asked, enraptured.
+
+“They said that the warriors move very slowly, then very quickly, then slowly again. Warriors are taller than most humans and they have scales, feathers too. They… look a little like snakes, or lizards, but bipedal and with a short snout. They use few armors but a wide variety of weapons of stone and metal. The last caste is the leaders. Their priests act as war mages, according to the rumors.”
+
+“Those laborers know a lot.”
+
+“They heard the whispers from the warborn. One of them served the faceless before their demise.”
+
+“Is there more to say? About their numbers?”
+
+Rakan shook his head.
+
+“Nothing reliable. The problem is that laborers and warborn only gather in large numbers on very rare occasions while administration is handled by highborn women, which means that… most of the people we have here don’t know how to count above one hundred, if that.”
+
+“Well, that certainly limits their scouting abilities.”
+
+“What they say is that the Empire of Dawn attacked with a massive army, yet despite that, they still suffered heavy losses at first. After that though, they seemed to have rolled over Halluria with minimum difficulties.”
+
+The statement was received with consternation.
+
+“How is that possible? Should it not be the contrary?” Duke Falstag asked.
+
+“That is… counterintuitive,” Jaratalassi conceded.
+
+Viv agreed. Logic would be that after a few decisive engagements, a large nation would collapse quickly if their elite military were to fall, but that was without accounting for Halluria’s peculiar political system.
+
+“The warlords should have united after the initial attacks against them succeeded. What happened?” Jaratalassi asked.
+
+“I don’t know and they don’t seem to know either. The servant who worked in the warlord’s tent said they were desperate. That they could not win. There were many talks of hopeless last stands instead of an organized defense.”
+
+“They were already defeated? That sounds preposterous. It could just be the novelty of being invaded?”
+
+“It might also be due to their methods,” Rakan continued. “You see, once they find a hostile new city, they always operate in the same way. They encircle it, then they attack with overwhelming force. They do not stop to regroup or plan. They just keep attacking until they break through, and when they do, they slaughter all who resist and many who do not.
+
+“Those who surrender and survive become thralls, allowed to keep their weapons but bound to perish shielding the Nemeti from arrows or ambushes.”
+
+“Wait, and those do not revolt?”
+
+“Apparently not. They say those who are defeated are crushed for good.”
+
+“This sounds… so outlandish.”
+
+“Then the victors eat the dead, both theirs and that of their enemies. They… they say they butcher humans and dry the meat to eat on the trail…”
+
+“May the light gods shine upon us, is this true?” Falstag said.
+
+“The little intelligence we have seems to agree. That certainly solves the food problem,” Jaratalassi commented.
+
+“One last thing. The Empire of Dawn does not interrogate their prisoners. They follow fate to their next target. They spread over a large area until they find a place that resists them and then.. they gather again.”
+
+“So we…”
+
+“Yes. We are next on the list.”
+
+“And those troops outside that already outnumber us…”
+
+“Are just one of their vanguards. There should be more. They have not had the chance to replenish their numbers after taking Halluria so, at least, we will stand a better chance.”
+
+“This idea of fate is certainly concerning. And you say they have priests?”
+
+“Yes, war priests who also serve the role of casters, though they do not appear to have mages per se. The laborers do not know what they worship, only that it is not one of our gods.”
+
+Viv hesitated. Jaratalassi caught her expression while the others discussed in low voices.
+
+“Viviane? Something to add?”
+
+“Well. Fate mana exists.”
+
+Silence spread among the assembly. Cloud Skull made a strange, warding sign with his fingers. He seemed worried.
+
+“Pardon?” Eikart’s head mage said.
+
+“Fate magic exists. Dragons can touch it though we humans cannot even perceive it. It is the domain of… distant causality. I find it hard to explain.”
+
+“What would you know about dragon magic?” the mage half-scoffed.
+
+Someone muttered in his ear and he fell silent.
+
+“Arthur told me that fate magic was fickle and extremely difficult to properly employ because it worked on… large-scale events. To use it perfectly requires an understanding of all the ins and outs, something not even the gods can manage. If the Nemeti do have access to fate magic, they might influence events to favor them in ways we cannot even anticipate. We are going to need those reinforcements sooner rather than later.”
+
+“I have already sent a courier asking them to come as soon as they are ready, and not to wait to group up. I am confident we can hold this pass,” Jaratalassi said.
+
+Viv thought that they’d better or there would be nothing left between them and the evacuation gate. She didn’t have the time to improve the network.
+
+The discussions continued for a little while. Jaratalassi determined the best way to defend the pass while the fortifications were still being built. It was decided to leave the pass a little to occupy the top of a hill that overlooked the surrounding area. That way, the Paramese Alliance could make full use of their ranged troops which the Nemeti seemed to have few of. They could still retreat towards the pass to allow their line to contract if there were any issues. The cavalry would be held in reserve in preparation for a counter attack, in case they needed to buy some time. As they left, Viv informed Jaratalassi of the bad news.
+
+“I didn’t have the time to set up the second gate.”
+
+“That’s fine. As a matter of fact, Cloud Skull reports that a group of human thralls is moving towards the forest. Tomorrow morning, I would like you to engage and destroy them then build a gate. If you are cut off before you can return, use the gate to regroup.”
+
+“Won’t that warn the enemies?”
+
+“I’d rather you escape and burn our contingency rather than lose the entire Harrakan army. And I fear that tomorrow is our only window, if the Hallurian laborers are to be believed. After that, attacks on our positions will be relentless. You do not have to agree, of course. It is a dangerous gamble.”
+
+Viv faced Jaratalassi as the man sat there, waiting for her judgment. She considered leaving it to luck before realizing that it was just one of the general’s many ploys. Just as he let people bicker to get it out of their system, he also left generals some leeway with how they operated.
+
+Jaratalassi gave her an encouraging smile. He was as much a politician as he was a war leader. That was probably a necessity for him.
+
+“Sure, I’ll do it.”
+
+“Hmm. I expected more hesitation. You’re rather confident.”
+
+“I am confident that you won’t send me to my death. Just, please, treat the lives of my people with utmost care. Because I trust you and I am counting on you.”
+
+“I understand. You are here, Viv, at my request. I will get as many of your folks back alive as I can.”
+
+“Alright. Well, I should head back. We have funerals to attend to.”
+
+“Yes,” Jaratalassi replied.
+
+He took a swig of his flask. Viv kept quiet.
+
+“Never gets easier.”
+
+***
+
+The night was cold here, comfortably so after the sweltering heat of the desert. Viv took in the scent of pine burning, the embers floating up to the distant sky. Some of the Temple Guards were singing a sad dirge somewhere to the side.
+
+Viv peered at her helmet. The light of funeral pyres reflected on the smooth surface of the embedded crown, one that she still had to grow into. Farren was… not her responsibility? Or was he? She still hadn’t decided. There was a siren call to drop everything in the pursuit of power, to push everyone away until she could no longer be hurt and her magical power grew so much she could destroy any threats but, of course, that was a trap. The black mana running through her veins whispered promises of destruction on those who opposed her, a sweet lie. There were always more threats, always more people to protect. The truth was that she would lose people until her time came to be lost in turn. To refuse that fact was to refuse her humanity. She needed her humanity, or she would turn into something much worse than Elunath.
+
+A gust caught her hair. It was long now, longer than ever before. They reached her shoulders.
+
+She preferred short but noblewomen kept their hair long as a display of privilege. Laborers didn’t have the time to take care of long hair. They could also get in the way of physical work. So Viv wore them that way because it was expected of royalty, which she technically was.
+
+How much was this world shaping her? What was left of the earth Viv?
+
+“Your thoughts, darling?” Sidjin asked by her side.
+
+He bumped against her shoulder and she leaned against him. He was a strong presence, reliable. He knew pain more than anyone else as well.
+
+“Just wondering how much of me is still me.”
+
+“Oh you mean you have changed? Congratulations on being alive.”
+
+“Tsk. You know what I mean. I’m even doing politics.”
+
+“As you should since you are a politician. If your concern relates to morality, don’t worry, we shall keep an eye on you. Not just me, but your friends as well. Even Solfis will stop you if you slip up.”
+
+//Pure evil is counter-productive.
+
+“See? You are supported by a great many people.”
+
+“That is not, ah, it does not matter. I suppose I changed to help people so, in the end, I can live with that.”
+
+//If it helps, your Majesty, I made some changes to myself as well.
+
+Viv blinked. She remembered him absorbing the memories of other units back in the old capital. Solfis was a gestalt as much as he was himself.
+
+//But my core programming has not changed.
+
+“I see what you’re getting at. Don’t worry, The funerals just… make me doubt a little. Farren was one of the few original pillars of Kazar still alive. We’ve had… so many losses since then. Mayor Ganimatalo. Varska. The guard captain. Now Farren… An entire generation of leaders, gone.”
+
+//The march of fate requires… sacrifices.
+
+“You… think I made it happen?”
+
+//No.
+
+//Individual decisions still depend on those who take them.
+
+//You will merely… be in the trajectory.
+
+//Lancer would have attacked no matter what.
+
+//He started selling the Kazaran lands before you were even on Nyil.
+
+//I checked.
+
+//Because I was curious.
+
+“Then what do you mean by sacrifice?”
+
+//Just that.
+
+//When history is made in Nyil, it is written with the blood of the people who touch it.
+
+//You may grieve, but tomorrow, you will fight to the best of your abilities and forget those doubts.
+
+//You will keep our people alive.
+
+“Yes. You can count on me.”
+
+//And I will fight to keep you alive too.
+
+***
+
+The Harrakan column climbed down the slope in silence. The air was fresh and earthy for now, the rays of dawn coming from the desert barely warming the early morning air. Behind them, the crumbs of the Paramese alliance arrayed themselves on top of a small hill in preparation for the day. Viv’s army would leave them behind then climb back up north towards the nearby pine forest huddled between two sheer mountains. Zero Five appeared by her shield array.
+
+“Enemy troops. Humans. They look weak.”
+
+“We’ll dispose of them then return.”
+
+Ban looked back but an order spoken through their communicators kept him going. They wouldn’t have cavalry this time since Rollo had stayed with the rest, which meant that if the enemy disengaged fast, they wouldn’t really have a way to run them down. What should she do? Besides hiring a dedicated tactician so she could focus on magic.
+
+“Ugh.”
+
+//We will be there soon.
+
+Viv did her best not to look right towards the rolling hills where the Nemeti hid. She could see some of the markswomen casting concerned glances towards the impending threat. Viv was worried as well. All her instincts screamed that she was leaving a fortified position before an imminent attack, that she was going to be cut off. Her mind rejected the possibility of portals as an escape. Her self-control allowed her to keep a perfect composure for the others but there were still too many unknowns, too many doubts. She didn’t like it.
+
+Slowly, the column moved into the forest. Viv decided it was time. She used her communicator,
+
+“Zero-Five? Where are they?”
+
+“Two thousand paces to the north. I will guide you.”
+
+“Very well.”
+
+Switching to full frequency, she addressed all the leaders.
+
+“The enemy is over a league away. We will now deploy in a loose line to catch them. The Children and Bitter Hearts will form the rear guard. The Temple Guard will hold the right wing. Reports say the enemy is weak and disheartened but you will not lower your guard. A cornered enemy is at its most dangerous.”
+
+There were a few acknowledgements. The army deployed as Ban directed them, and Viv used the opportunity to climb a small hillock to create a gate. She resisted the urge to activate it just to see if it worked. It did. She could feel the connection. It was fine.
+
+“Contact. Three hundred paces,” a voice said.
+
+“Halt.”
+
+The army came to a stop just as Viv returned to her array. This was it. Fighting in the forest wouldn’t be optimal but as she climbed in her seat, she realized it would be necessary.
+
+“Forward.”
+
+The Harrakan army moved slowly forward across the line. Sergeants made sure to keep the formation mostly stable despite the many trees and boulders blocking their advance. This was an old pine forest, with thin trunks and beds of dry needles that smelled heavily of sap. No low growth blocked her sight and the same was true for the enemy as well. Panicked shouts soon echoed ahead. Without prompt, the army accelerated. Lak-Tak, Viv’s pilot, carefully maneuvered to avoid running into trees. Soon, they were out with heavies properly arrayed in front of them.
+
+In the heart of the forest was a narrow but long clearing cleft in two by a brook. It was mostly dry but some clear water still sluggishly down a slope and along that brook, a mob had formed a, well, a camp, she guessed. Mostly, people had collapsed where they were into a disorganized line.
+
+“Is that the dangerous foes we’re supposed to fear?” a cocky sister whispered to her neighbor close enough for Viv to hear it. Her neighbor slapped her shoulder then made Emeric’s warding sign against bad fortune, a sentiment Viv shared.
+
+They were certainly a pitiful sight. Some of the more robust were Hallurian guards and slingers but there were also emaciated men with pale, slightly bluish skin and light eyes, the first instance of a shade different than brown Viv had come across here. She inspected a few.
+
+[Sorelian skirmisher]
+
+[City Guard of Pranth]
+
+Those names meant nothing to her which could imply only one thing. Those were survivors from human cities from beyond the isthmus.
+
+The Nemeti had certainly come a long way.
+
+The most interesting part was that Viv couldn’t see any of the true Nemeti, the insectile lizards. The thralls really were without surveillance. There had to be a reason why they were so confident their humans wouldn’t escape.
+
+As the heavies finally stopped, the distance between them and the nearest enemy was so close there wouldn’t even be time for them to charge. Viv searched for a danger, like a hidden caster, but there seemed to be none she could see. The entire group was barely a thousand strong and they were so exhausted, a full quarter didn’t even rise to face their deaths. Some shook and seated, perhaps weak enough to be sick which rarely happened to adults on Param. Their equipment was a mismatched assortment of half-broken gear she wouldn’t even give to bandits. She could have handled them with a handful of… no. She could have handled them alone.
+
+Viv thought about Farren. She knew what he would have asked her to do. Those people were already lost.
+
+It felt like repeating his mistake but…
+
+No, it would be honoring his memory and the strength of his conviction. He may be gone, but she didn’t need outside action to remember what it meant to act humanely.
+
+But she would do it her way.
+
+Viv raised through the air and anchored herself slightly above ground in plain sight of the horrified thralls. Elevation let her notice that a more solid kernel of resistance was anchored around a pair, a Hallurian ‘Speaker for the Trade’ and an eastern soldier. Even then, whatever resolve they still had was quickly crumbling.
+
+Viv deployed the full extent of her aura and smothered them. There were individual tokens of resistance but those collapsed almost immediately. Her soul turned cold and practical as a side effect of the skill, the icy disdain seeping into her heart to alter her outlook ever so slightly. She would give them a chance, and then they would take it, or they would die.
+
+“You,” she said in Hallurian, pointing at the pair. “Surrender or perish."
+
+A sound enchantment carried her words across the clearing, echoing in the brook and amid the trees. The men cowered, but then, something incredible happened. The emotion spreading through the clearing was not despair, or terror, or grim fury as she expected. What she got was relief. Relief and a bright, pure, intense hope.
+
+It was inexplicable.
+
+In an instant, the situation was reversed. A feedback smashed against intimidation and turned it against her in a double bond she could not quite explain. The temptation to stop was strong but her instincts were silent. Somehow, the situation felt right. Or better than the alternative. She wasn’t sure.
+
+The pair of men pushed their way across the prostrating mass of pitiful soldiers, faces twisted with the creepy smile of the devoted fanatics.
+
+“Hold your fire,” she ordered.
+
+The sisters tsked and lowered their crossbows. It was pointless to waste ammo on those dregs anyway, Viv thought.
+
+The men approached just as the wind shifted and brought the horrendous scent of unwashed bodies. They fell to her knees not far from the unmoving wall of heavies.
+
+“Mistress,” the Hallurian said. “Mistress, your words… we can hear them.”
+
+What the hell?
+
+“Explain,” she demanded.
+
+The man licked his cracked lips. His long, filthy hair bobbed as he spoke with a broken voice.
+
+“The masters took our will. I don’t know how to explain… I just don’t know. We cannot, we could not say no as soon as we said yes. The Nemeti. They defeated us and then we were… defeated.”
+
+Viv deactivated her anchors as she moved closer.
+
+“How so? Is that fate magic?”
+
+“Magic, yes, from their priest. The priests told us they were chosen of fate and we were not and then, it was true. But not you, mistress. You spoke and I could choose that it was true! You are outside their spells! How could it be?”
+
+That was a surprise. And even a little suspicious. After what the Hallurian prisoners had said, she expected the thralls to fight to the last.
+
+“Perhaps they haven’t cast their magic on me yet?”
+
+“No, mistress. We had to fight our own people alongside foreigners,” the Hallurian said. “We had no choice. It was just how things were.”
+
+Viv didn’t comment on the use of a Hallurian slur for strangers though her glare made the man whimper. His companion turned and spoke excitedly in a tongue she’d never heard before, a flowing one with few gutturals. Viv waited patiently for him to finish.
+
+Far behind them, drums rolled over the plains. A shift spread across the Harrakans. It had begun.
+
+They were on a timer.
+
+“Mistress. My friend asks if you could have someone else order us. He says that if someone else can do it, then the chains may have been broken.”
+
+“Sure thing. Ban, give them an order.”
+
+The old bearded bastard strode ahead with absolute confidence. He pointed at the nearest thrall. Viv was confident the laborer he’d picked didn’t speak a word of Harrakan, Enorian, or other continental tongue. It didn’t matter.
+
+“You,” Ban said, pointing at him, then the ground.
+
+“Get. On. Your. Fucking. Knees. NOW!”
+
+Viv had never seen someone happier to collapse. The poor sod even hit the head with his forehead in a gesture of complete abandon. The really creepy thing was the expression of utter felicity on the others. The fanatical intensity irked Viv, who had been to church before. That sort of faith could be dangerous.
+
+Nevertheless, the gesture was confirmation of what the Speaker for Trade thought. He whooped once before regaining his composure.
+
+“Mistress. It is as I believed. You broke the chains of fate! We are at your mercy.”
+
+He bowed as well, followed by all those who were not already prone. Supplication spread like a wildfire across the pitiful mob until all Viv could see was a collection of bent back and dirty necks.
+
+That could only lead to one thing.
+
+“Fuck, Eikart is gonna be so mad.”
+
+“Are we taking them prisoners, milady?” Ban asked.
+
+“Looks like it. Ugh, and there is no time. Get me Lorn on the double.”
+
+“If I may, Your Majesty, we might also want to detach Mother, the Bitter Hearts captain. She has a way with lost lambs.”
+
+“Sure.”
+
+It took less than a minute for Lorn and the guards to come, along with a portly, wizened woman with a radiant smile that seemed to cover her whole face. Meanwhile, the thrall commander waited at a distance.
+
+“Here is what we’re going to do,” Viv said. “I’ll activate the portal. You get the prisoners through there and in a separate camp away from ours. Just let them pile on somewhere while we’re away. They will surrender all their weapons, up to their damn knives, before they cross over. They will comply with every order. Those who resist will be slaughtered. And get Eikart’s spymaster to ask them a few questions.”
+
+Lorn nodded.
+
+“If I may, we will need medical support. Our own won’t be enough. We could request some of Eikart’s healers.”
+
+Viv shook her head.
+
+“They will refuse and besides, we’ll need them fresh for our soldiers. Do what you can but if they die, they die. Our own people get priority.”
+
+She gave him a pointed look to see if he would challenge her on that.
+
+“Maybe that’s what Farren needed. Practicality,” Lorn said with resigned bitterness.
+
+Viv immediately felt sorry for the guard. She’d succeeded where he had failed but it had been luck. That’s just how things were on Nyil, apparently.
+
+“If I may,” the Hallurian Speaker said in perfect Enorian.
+
+He’d been waiting at a polite distance until this treacherous revelation that he could understand everything they said.
+
+“Could have told us,” Viv said in a low tone.
+
+“I apologize. I should have explained. My path is that of a linguist, hence how I became the leader of our sorry troop. Do not be alarmed. I will work with your guard captain. We will never be a nuisance to you, Mistress. You have freed us!”
+
+The way some of the prisoners looked like her like the sun rose out of her ass certainly put weight to his words. Viv didn’t like it one bit though.
+
+“Very well. Zero Five?”
+
+The shadows coalesced into a bald, axe-wielding murderer.
+
+“If any of them try anything, kill them.”
+
+“It will be done.”
+
+“Alright, we have wasted enough time. You lot form up, I will bring our army back to allied lines.”
+
+“Not through the portal?” Ban asked.
+
+Viv shook her head.
+
+“The aperture is rather small. It would take us too much time to filter through there and then walk back to the pass. We’ll only do it if we are really cut off.”
+
+“Understood.”
+
+“Mistress, one last thing?” the Speaker said with eagerness.
+
+“What is it?”
+
+“No matter what, you cannot lose, Mistress. If you lose once then it is close to over. Even one such as you who ignores fate may not resist if the Nemeti defeat you once. Do not be beaten. Please.”
+
+“Not planning on it.”
+
+Viv looked on as the Harrakan reformed on a background of confused mutterings. They almost sounded disappointed. Meanwhile, Captain Mother took control of hundreds of fighters in only a few moments.
+
+“Alright people, now be a dear and form a column three abreast! Three! One, two, three! Yes, well done. There’s good lads.”
+
+Viv activated the gate out of sight of her men, then stayed long enough to make sure there were no issues. The less people knew about the gate the better, even though the Nemeti didn’t seem inclined on interrogating prisoners. After climbing back on her array, she used her communicator to bring Sidjin up to speed.
+
+“What do you think?” she eventually asked.
+
+“I have two explanations for you. The first is that you’re an outlander. your fate was never to be born on Nyil. You were brought here by divine act, hence why fate magic is disturbed by your presence. The second possibility I see is… are you secure?”
+
+Viv set up a sound barrier.
+
+“I am now.”
+
+“The second possibility is that the spark of luck is an instinctive use of fate magic.”
+
+“That would make a lot of sense. Humans may not cast fate spells but that doesn’t mean we can’t interact with it instinctively.”
+
+“Like monsters have innate abilities, yes. No matter what, the fact it works might give us an edge.”
+
+“We shall see.”
+
+***
+
+Viv heard the din of battle long before they exited the forest. She had the array tank roll forward ahead of the formation so she was one of the first to crest the edge of the incline overlooking the battlefield.
+
+To her right, the mountains extended high while in front, the hill leading to the pass was still held by her allies. That was as far as it went for good news.
+
+To the left, the Nemeti covered the hills in their thousands, crashing against the kernel of resistance in unceasing waves. The descriptions the prisoners gave them didn’t do them justice. They were thin and muscular, scales and colorful feathers adorning their unclothed bodies. Their faces were saurian in appearance though the skull possessed a chitinous, insectile quality. They wielded shields as well as blunt weapons and spears which they used with grace. The constant drums Viv had been hearing were a song of sorts, and the Nemeti moved according to its beats. As she watched, a unit advanced slowly towards the bracing troops of Duke Falstag, then at the last moment, they sprinted forward with amazing speed, crashing into the grim infantrymen with extreme violence. Another group disengaged from Cloud Skull’s southerners leaving the southern barbarians battered and bloodied. That relentless dance of patience and aggression covered the whole battlefield. Entire Nemeti units waiting patiently at the edge of the melee for their turn to engage. And that was just the warrior caste. The rulers stood behind.
+
+As Viv watched, a group of three tall Nemeti sang around a strange contraption, the unholy child of a catapult and an antenna. The weapon roared and a fiery, screaming projectile arched across the sky. Some of Eikart’s mages managed to intercept it but the debris still fell among their archers, killing some of them. Behind that was another group of rulers with crimson feather and sparkly armor among an indistinct shape in a cloak while just below Viv, the enemy cavalry was pressing Eikart’s spearmen. And by cavalry, Viv meant bipedal lizards mounted on what she could only describe as velociraptors on steroids. The tactics they used were the same. Charge, disengage, charge again, and the Baranese were getting trounced. Bodies flew with each impact, some of them in pieces.
+
+The drums kept rolling. They saturated Viv’s ears with their oppressive drone.
+
+She could summarize the current situation of the Paramese alliance in two words, one of which was quite rude.
+
+“Well, shit,” she said as Ban joined her side.
+
+“Your Majesty, it appears our side is about to be overwhelmed.”
+
+Viv could tell they were about to break. A part of her wanted to lead her people back to the portal but she couldn’t. Not because it wasn’t feasible, but because of the implication.
+
+First, she could not be defeated by the Nemeti. Running away felt dangerously close to that.
+
+Second, there was only one reason why Jaratalassi hadn’t ordered his men to retreat back to the pass just yet.
+
+He was waiting for her.
+
+“Yes, that gives us exactly one tactical option, Ban.”
+
+“So it would seem.”
+
+“Then make ready.”
+
+“Aye, your Majesty. Immediately. WEDGE FORMATION. PREPARE TO CHARGE!”
+
+The cry echoed across the line. Viv ignored the chatter in her communicator. Instead, she linked to the casters.
+
+“Sidjin, we’re going to need some wide area spells here.”
+
+“What a coincidence, I happen to be versed in them.”
+
+“Lana?”
+
+“I will cover the Children of the Scales on the left flank. If we could have some elevation, Rakan?”
+
+“I will raise them for our marksmen then run disruption.”
+
+“Perfect,” Viv finished, “then good luck.”
+
+There was no time for speeches. Some of the Nemeti had already spotted the tight ranks of heavies cresting the edge under the call of war horns. Viv had her array move to the front due to the slope and checked if everyone was ready. They were practically bristling.
+
+“Finally, a real battle,” the chatty sister said.
+
+Viv amplified her voice with a spell. She raised an Excalibur over her head. Then, she spread her anchors and screamed.
+
+“Send those bastards back to where they came. Harrak Eternal! CHAAAARGE!”
+
+The army roared, Lak-Tak pulled the lever and the array tank rushed down the slope at the speed of a decent car. The heavies fell behind and as she turned, she could see a wall of steel wielding a forest of spears, the tips of quarrels visible behind loaded with the promise of violence. White pennants held high spoke of pride and effort. Wind caressed her face in a moment of exhilaration, the weightless feeling of building momentum. Below, the Nemeti turned to her and pointed. It was difficult to read their expressions but if she had to make a bet, she would say they looked shocked. Nevertheless, the tank was going quite fast and she had to admit the Nemeti riders looked even bigger as she approached. They were half again as high as she was with the array under her butt.
+
+Big fuckers.
+
+“Right, let’s slow this down.”
+
+Viv pulled the brake level. There was a nasty, unpleasant clang.
+
+She looked at the piece of broken lever still held in her hand.
+
+“Please tell me this is a fucking joke. NOUS!”
+
+“We. Will slow down. Organically,” her yries driver clicked.
+
+“Lak-Tak? What do you mean, organically. LAK-TAK?”
+
+The owl-like being pulled another lever and spikes rose from the armored front of the tank, facing forward and upward.
+
+“Use. Cushions.”
+
+Viv grabbed the leather belt she’d insisted on having and strapped herself in. They were very close now, close enough to see the powerful legs of the raptor mounts in painful detail. The riders turned to her and charged with screeches, spears aimed forward. She was confident in her shield but she didn’t like the threat of inertia. It was always the same issue with cars. Going fast never killed anyone. It was abruptly becoming stationary.
+
+Lak-Tak pushed the speed lever as fast as it would go. He ululated a defiant war cry instants before impact. Viv brought up her shield, protected her neck, and prayed to the god of illegal battlefield racing.
+
+The array collided with the charging raptors.
+
+Now, Viv knew Nyil was a world of magic where miracles were commonplace. It was also a world ruled by more or less the same laws as earth and it was safe to say that the shield array tank weighed around six tons. Six tons of enchanted, reinforced steel except, apparently, the fucking brake lever. Those six tons speeding down the slope met one ton of saurian flesh around the heights of their knees with the good old adage of kinetic energy is half of mass times squared velocity. One of the raptors tried to stomp the tank. It didn’t work very well. Viv knew this because a bloody, severed toe remained lodged in the cage around the habitacle.
+
+The Nemeti had a tank accident.
+
+The sound of cracking bones and bruising flesh covered even the rumbling call of the drums, yet they still failed to mask Lak-Tak’s insane cackles. Viv unfastened the belt with a pained wince when they finally slowed down. Had to hurry. She climbed out, facing herself face to snout with one of the creatures clinging to the metal structure with furious desperation. Around her, all that was left was carnage. The thin line of cavalry who had tried to stop her was crushed and the rest had retreated to a respectful distance. She could see the white of the eyes of the Baranese spearmen locked in a desperate struggle. The clinging Nemeti was picked by Solfis by means of a hand through the torso. Deploying in all his nightmarish glory, the golem emerged from behind the tank like the world’s most undesirable stowaway.
+
+//AH.
+
+//NEW SKULLS.
+
+//YOU ALWAYS BRING ME TO THE MOST INTERESTING PLACES, YOUR MAJESTY.
+
+“My pleasure,” Viv replied as she touched the spell array.
+
+The scenery around Viv was surreal. The Hundreds of Nemeti just turned to watch her in utter shock while she activated the shield, hesitant to cast offensive hexes lest she wake them up from their surprise, and then with a collective, deafening shriek, they threw themselves in her direction. Viv faced a mass of scales, claws, and blades but she was not worried. The voice of Ban and the trampling sound of human boots served as a sufficient warning.
+
+“For the black tide!”
+
+The Harrakans crashed into the enemy force, and in Viv’s view, the bared fangs were replaced by the armored back of her people.
+
+It was time to do what she did best.
+
+***
+
+Duke Eikart watched the wave of black-clad infantry smash the Nemeti flank aside. Those that did not perish on spears were trampled and finished off by screaming harridans wearing skull makeup who fell on them with long knives and a grudge. The rightmost group linked up with his beleaguered men while the center bit into the enemy formation like a blade, rending the foes before they could regroup.
+
+A forbidden emotion filled his chest, one he had not dared experience since the beginning of the defense. Hope.
+
+“Can they really do it?” he asked his spymaster. “Are they really heavies? Those at the tip.”
+
+The man used his advanced inspection skill. His eyes widened.
+
+[Path: third to fourth step, elite infantry.]
+
+[Gear: full runic set.]
+
+[Morale: unbreakable]
+
+“No sir, those are not heavies.”
+
+“Ah.”
+
+“Those are Black Guards, Your Grace, the Emperor’s finest. The rest are Harrakan heavies.”
+
+“Palace guards? I… I thought the art was lost.”
+
+“It’s the golem,” Jaratalassi said as he approached. The tired general frowned. For some reason, it looked like the enemy was attacking the Harrakan center with furious zeal.
+
+“But you are missing the point. When I told you I would not have agreed to fight without the outlander, I was not referring to her infantry. You see, every decade, a genius war mage changes the battlefield by their mere presence to the extent that strategies are built around or against them.”
+
+Below, a black cloud swallowed the initial Nemeti charge with a low hiss like an angry kettle. It left nothing behind it but scoured sand and silence. Blood spilled the earth when a large vortex opened on the right flank, the transparent construct soon stained with enough blood to reveal the jagged teeth of a massive grinder. Meanwhile, towers rose from the ground under the feet of crossbow wielders who barely paused, lining shot after shot over the heads of their line holders. The beleaguered alliance rallied while the drums grew frantic.
+
+“Harrak currently has three of them. Now, Duke, I will lead the cavalry for a sortie as it will soon be needed. Would you care to join?”

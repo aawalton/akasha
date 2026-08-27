@@ -1,0 +1,439 @@
+---
+id: c497d07c-1ea6-594b-8918-b6d5731fde92
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED NINETY-TWO: When Wishing Was Having III"
+slug: 0294-two-hundred-ninety-two-when-wishing-was-having-iii
+partOf: super-supportive
+position: 294
+ownLength: 5307
+unit: words
+publishedAt: 2026-06-13
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3532530/two-hundred-ninety-two-when-wishing-was-having"
+royalRoadId: "3532530"
+---
+
+292
+
+******
+
+“Haoyu! You’re suspiciously quiet in there.”
+
+Alden rapped his knuckles against the door to Haoyu’s room a couple of times. A muffled response that sounded like “mup” was all he got in reply.
+
+Alden had his doubts about that answer, but he headed to the kitchen anyway. He and Lexi had been awake for a few minutes. Alden’s gym bag was on the floor by the table, ready to go. Lexi was searching through the fridge with feline assistance.
+
+“He says he’s up, but it sounded like he was saying it from underneath his pillow,” Alden reported, taking a cat treat tube from the drawer where he stored them. He added some to the food that was already in Victor’s bowl.
+
+“We’ll probably have to drag Kon out of bed, too,” said Lexi. “He sent his last message at one. There’s not much in here.”
+
+“Those gross-looking brown nuggets are mini dark chocolate almond energy bars. They’re not sure if they want to be health food or candy, but they’re a decent gym snack.”
+
+Lexi pulled out the plastic deli container full of bars. “These?”
+
+“Yeah. You can have some. Actually, we should just take the whole thing with us.”
+
+Lexi tossed the bars onto the counter, then bent to nudge Victor away from the fridge and toward his food dish.
+
+“It’s not bugging you having him around?” Alden said.
+
+“How many times are you going to ask that? I’ve told you he’s fine.”
+
+“Now that I’ve got him here, I realize he’s more of a fifth roommate than I imagined. He’s obsessed with following people into the bathroom—which is new—and he sometimes sounds like he’s fighting ghosts all by himself in here in the middle of the night. That’s not new, but I worry it’s more annoying to other people than it is to me.”
+
+“Victor’s quieter than ninety percent of our neighbors. And you shouldn’t have to lose your pet on top of everything else when you get selected. He’s fun to have around, but even if he wasn’t…”
+
+“You’ve gotten more sympathetic to my globie woes!”
+
+“I was always sympathetic except for a couple of mistakes.”
+
+“You were,” Alden agreed. “You’re pretty understanding about me bringing knights in through the window to eat leftovers with us, too.”
+
+“I wouldn’t say I understood that one.” Lexi glanced toward the living room window like he thought a stray Artonan might be waiting to come in. “By the way…your friend over there… ”
+
+“I’m not sure if you’re talking about Esh-erdi or Stuart, now,” said Alden when Lexi trailed off. “Or a human you associate with windows.”
+
+“Your friend. Stuart. Do you two practice magic together?”
+
+Alden had been reaching for the shaker bottle he liked to carry on gym days. He froze with his arm stretched up toward the shelf. “Huh?”
+
+“I mean does he help you practice your skill?” Lexi asked. “Or does he tell you what talents might be good for you in the future? Ever since you said you wanted to volunteer for ‘baby level chaos zone’ work, I’ve kind of been hoping your friend knows what he’s doing…or worrying that he doesn’t. He’s not a real summoner yet. He gave you those rings. Those aren’t the only protection you get before an enthusiastic Artonan kid puts you on a list to go be a human shield for his second cousin, are they?”
+
+Lexi was scowling and shrugging simultaneously.
+
+“Anesidoran Social Dynamic,” he added, “I’ve never heard anyone try to pass off a chaos assignment as ‘baby level’. I realize you know more about that type of thing than me, but…just tell me you have plans and proper channels, and your friend is a solid person who won’t do something like forget he signed you up for whatever it is a Rabbit does out there if you two drift apart in the future.”
+
+Of course he’s talking about practicing my skill. Thank goodness I didn’t jump into denials about wizard practice. It’s way too early in the morning to scare a guy like that, Lexi.
+
+Alden grabbed the shaker, the rest of what his roommate was saying registering as he set it down and scooped in some protein powder. He was wearing his armor rings right now. He’d take them off for class soon.
+
+I know Lexi can be a worrier, but imagining that these will be all the protective gear I have after a flaky wizard unfriends me…is actually not something I can criticize, considering how much time I’ve spent coming up with doom scenarios in which heartless summoners just straight-up drop me into chaos with nothing but the clothes on my back.
+
+Stuart had to talk me out of that. More than once. The only reason I’m not still in that headspace is because of him.
+
+“Lexi, do you want to talk to Stuart? He’d like that. The next time he calls you could say hi!”
+
+“Who said anything about that?” Lexi protested. “I was just checking on you!”
+
+“Stuart’s rock solid. Like stubborn stone. We’re not going to have a falling out, but even if we did, he’s not the kind of person who’d ever forget a promise or a responsibility. He’d fight a more powerful wizard for me, and I know that for a fact.” The memory of Stuart threatening to skewer Ro-den with the walking stick was still vivid and would remain so forever, he hoped.
+
+“I’ll believe you.”
+
+“Do. And he is the proper channels in this case. Or he will be. He’s not adding me to some list he’ll forget about…he’ll be on the list, too. Thanks for caring enough to check, though. And, yes, we do practice together when I’m over there.”
+
+“You do?” Curiosity replaced some of Lexi’s awkwardness.
+
+Alden popped the lid onto the shaker and carried it over to his duffel bag. “It’s not like he knows a ton of secret wizard hacks for my skill or anything. He has a different perspective and way more magical knowledge. But, mostly, practicing my Avowed abilities with him has been the same kind of stuff I could do with you guys. Only he’s more likely to cast spells than throw a punch, and one time, he got me some disposable armor and this thing that’s called a hazard mimic to try my shields and trip lines out on.”
+
+The wizard hacks Stuart did know were pretty difficult to explain without saying too much. The bolstering of Alden’s authority when he’d made the puddle shield and the recent insight into entrustment weren’t going to be helpful to Lexi in any way.
+
+“I can ask him for his thoughts on Mind Writhers if you want. Or you could ask him. Or if you wanted to ask an adult wizard instead, we could invite Hn’tyon Esh-erdi over for dinner agin, and Lind-otta this time, too.”
+
+“I’m not inviting Artonan military over for dinner to ask them for weapon advice!” Lexi said. “You’re joking right now, aren’t you?”
+
+“I’m not trying to force you, but I think it’s an option you should consider before they leave Earth. Esh-erdi really enjoyed it. Kon could come.”
+
+“No dinner guests!”
+
+“But if we did invite them, I’m sure they could help you with— ”
+
+A knock on their apartment door interrupted him before he could make a serious case for hosting knights at their kitchen table.
+
+“I’ll get it,” said Lexi. “Don’t do or say anything weird.”
+
+“Do you imagine the normality police are out there ready to arrest me for putting protein powder in a cup at four thirty in the morning? It’s probably just— ”
+
+Lexi opened the door.
+
+“Good morning, my brother! Are you ready to whip our enemies?”
+
+“Why is this apartment so much better than ours?”
+
+“It’s probably just our team,” Alden concluded.
+
+Kon was already slipping under Lexi’s outstretched arm, and Mehdi ducked after him. It was like the body language suggesting that they should stay out in the hallway was completely meaningless to them.
+
+“You have carpets and good furniture.” Mehdi gasped. “And a cat!”
+
+“None of that came with the room,” said Alden. “You could have it, too, if you bring it in yourself.”
+
+He watched the Agility Brute closely to make sure he didn’t do something that would scare the crap out of Victor, but Mehdi just moved to look down the hall toward the bedrooms.
+
+“Didn’t you see our place when you brought food for Matadero Thanksgiving?” Lexi asked. “It hasn’t changed except for the cat.”
+
+“You wouldn’t even let me use your bathroom that day. Why does the polar bear wear sunglasses?”
+
+“Your own toilet is upstairs.”
+
+“Where’s Haoyu?” Kon asked Alden. “Jeffy and Ignacio are waiting down in the community kitchen. We’re all walking over together, aren’t we?”
+
+“I thought we would. I talked to a uni student about Ash last night. Got some advice. I don’t know how much it’ll help but I thought I’d share it with all of you.”
+
+“Exciting. Haoyu?”
+
+“He says he’s up. But…”
+
+“Understood,” said Kon. “He needs my help.” He strolled toward Haoyu’s room.
+
+Alden and Lexi looked at each other.
+
+“Shouldn’t we stop him?” Alden asked. “Kon’s got a worthy cause, but he’s a trespasser. And Haoyu’s a liar, but he’s our guy. Huntski Lodge loyalty?”
+
+“You have a point.”
+
+Scuffling sounds came from Haoyu’s room. They were followed by Kon’s voice saying something about sunshine and Haoyu’s saying something about death and blankets.
+
+“We took too long to decide,” said Alden.
+
+******
+
+They picked up Jeffy and Ignacio from the community kitchen, and the whole team was on their way to the MPE building within five minutes.
+
+It was chilly, and Alden was glad he’d thrown on a sweatshirt instead of something lighter. Haoyu was chewing tooth cleaning gum while they walked. Ignacio had a piece of toast with tomato on it that Alden wanted.
+
+Jeffy reported that Vandy’s team had left Garden Hall twenty minutes earlier.
+
+“We’ll leave even earlier than them next time,” Mehdi said. “We can’t let them get ahead of us.”
+
+“They probably just wanted a warm-up since they know they’re running today,” said Alden.
+
+“Doesn’t matter.” Kon turned around to walk backwards. “You have insider knowledge to share with us and give us an edge.”
+
+“I wouldn’t go that far, but it’s more than nothing, at least. Last night, I talked to this guy named Rahul about Ash’s personality, and he said… ”
+
+He told them all of it and finished up as they were passing the Wong building. A few people who he thought were also members of the Coursing class were way ahead of them on the walkway. They hadn’t seen many other signs of life.
+
+Mehdi was the first to speak when Alden was through. “We can’t let any of the other teams know these things. We have to use them to our advantage.”
+
+“Use what to our advantage?” Lexi asked. “Instructor Ash is a six-year-old? That’s not something you can form a strategy around.”
+
+“It might be,” said Haoyu. “I’m willing to go with it.”
+
+“It doesn’t sound real. I’m not saying Alden’s lying or anything— ”
+
+“What kind of lie would this be?” Alden asked, amused by the suggestion. “My nefarious plan to sabotage my own team by giving you wrong impressions about an instructor who we already seem to have wrong impressions about?”
+
+“That is villainous of you, Alden,” said Kon.
+
+“I try. Curse you, Lexi, for foiling my scheme.”
+
+“I’m just saying maybe your Wright friend gave bad advice. Ash likes to not be bored and see new magic? He likes fighting other faculty members and sugar?”
+
+“He does like sugar, though,” said Jeffy.
+
+“Maybe that’s proof Alden’s Wright is onto something,” said Haoyu.
+
+“What are we supposed to do with this information? Bribe a grown man with pudding cups?”
+
+For a few seconds, none of them said anything. Then Kon cleared his throat. “All right. Lexi thinks pudding cups are the way. I think something more exciting and dangerous would be better. Mocha brownies with just a hint of some illegal potion added. Let’s vote on it.” He raised his hand. “All in favor of brownies?”
+
+They almost all laughed.
+
+Lexi was too busy huffing. Ignacio was finishing the last bite of his toast with a frown.
+
+“What about if it’s right?” he asked. “I think he likes watching my knives. In Superlatives. But that could be… <<Leading Knife isn’t what most Meisters of Knives choose. I think I’m better than most Meisters my age, but he has talked to me more than a couple of times about how my skill works. Details. What if he’s not interested in how well I’m doing but just what my talents are capable of?>> Not what I’m trying. Only the magic.”
+
+Alden nodded at him. “I know what you mean. You want people to care about your efforts to do well with your affixation more than they care about the novelty.”
+
+“Yes. I practice. I think. Instructors should see.” He sounded bothered by it.
+
+And now Kon was frowning, too. “What if I ruined our chances by describing what we planned to do too well in the submitted strategies?”
+
+“Now you think you’re being punished for doing homework correctly?” said Lexi. “This is why none of this really makes sense.”
+
+“Of course if the instructor is a six-year-old he doesn’t know it,” his brother answered. “I’m sure he didn’t think, ‘Konstantin did this homework too thoroughly. Look at all this footage and supplemental information he included. He spoiled their run for me!’ He probably felt that deep down, but he thought something that sounded reasonable in his own head. Like that we’d already practiced enough in the park and didn’t really need the floor for those strategies. Or he just felt bored after reading everything I sent, and he’s unable to tell the difference between things that bore him personally and things that truly suck.
+
+“Therefore, he runs from us after class because he’s afraid we’ll ask why, and the truth is, he doesn’t have a good answer. Our strategies were just spinach to him. He didn’t want to clean his plate.”
+
+Mehdi was nodding.
+
+“You’re buying in to something crazy,” Lexi warned. “None of that can be right.”
+
+He looked accusingly at Alden.
+
+“Maybe I shouldn’t have called Ash a six-year-old and pushed our thoughts in exactly that direction,” Alden said. “But what if a couple of the strategies we present today take advantage of some of what Rahul told me? Just in case.”
+
+“You’re wrong. But fine. It won’t hurt to try.”
+
+******
+
+******
+
+Bad qualities aside, Instructor Ash did know how to design a cool-looking obstacle course.
+
+After they suited up, they entered the gym and finally had the chance to see the whole thing.
+
+“There’s traffic!” Haoyu said. “No water, though, Jeffy.”
+
+The course filled the entire white floor, made extensive use of the gym’s magic, and had what were basically first and second stories to take full advantage of the vertical space. They had a mere five minutes to wander through it with everyone else, getting a sense of what it would be like before the first teams had their turn.
+
+It turned out the pincushion alley was the first obstacle, and it ran nearly the whole length of the floor.
+
+“So if we were on this side to start, all the spikes would shoot out from the barrier to our right,” said Kon, reading the information on his interface as they jogged through the narrow corridor together. The barrier he meant was the invisible wall at the perimeter of the gym that protected spectators. Alden assumed it would remain invisible, so that the spikes looked like they were coming from nowhere.
+
+“The pins represent material attacks and spells that are blockable through mundane interference. But they’ll be really fast, so Lexi and Writher will cut them down as they appear when we’re going through as a group. Alden will serve as a second line of defense, and then everyone will just try not to get stabbed if they both fail. The spikes will go all the way to this giant traffic tunnel on our left, so we can’t just squeeze close to it to avoid them.”
+
+It wasn’t obvious from pincushion alley that the tunnel contained traffic. From here, it was just the left side wall. An opaque green wall with an arched top that almost touched the semi-transparent white ceiling of this first level.
+
+On the other side of the tunnel, the opposing team would have their own starting line and pincushion alley.
+
+“Can people attack over the top of the tunnel?” Alden asked. “Is it climbable, and is that gap between the arch and the ceiling wide enough for an enemy to get through?”
+
+“I’ll check,” Ignacio and Jeffy said at the same time.
+
+Jeffy threw himself at it, scrambling against the slick surface and the curvature before he opted to dig his hands in. They sank in to the knuckles when he put some force into it. Ignacio was already up, having jumped and planted a Meister knife into the green barrier magic. He squirmed over the top of the tunnel and looked toward the other side before sliding back down to join them.
+
+“Possible,” he said succinctly.
+
+Alden doubted they’d see many people attacking by going through that gap, but it was good to know. The alley ended, and a sharp turn to the left allowed them to enter the tunnel, which both teams would share with each other and with the traffic—two lanes of vaguely car and truck shaped blocks  in different colors. They were still at the moment, but they would be moving when the runs started. The vehicles would appear and disappear from the ends of the tunnel.
+
+“This is a free combat area,” Alden said, surprised as he saw the rules on his interface. Instead of waiting for one teammate to make it over the finish line and earn an attack, anyone could attack anyone in here.
+
+“Keep reading!” a girl on another team shouted from the other end of the tunnel, where she and her teammates were poking at a car. “It’s such a trap.”
+
+“If you initiate an attack that results in a traffic accident, your whole team starts over with a one-minute penalty,” said Lexi.
+
+“So if you attack another player in here, you have to be good enough to take them out without any cars being damaged. ” Alden tried to imagine what it would feel like in here with the traffic in motion. “And it looks like the penalty for accidentally wrecking a car, if you don’t attack the other team, is a regular start over for the person who caused the wreck. Let’s just not hurt the cars at all if we get to run.”
+
+“We can land on them though, can’t we?” said Mehdi. “Like the footage we saw in class.”
+
+“I guess if the gym determines it’s not a wreck-inducing landing?” said Alden. “It’s pretty tight in here. I think we’re mainly worried about not getting run over.”
+
+At the end of the tunnel, the lift that would take people up to the next floor was only big enough for two, so even teams running in a close pack would have to separate briefly. When Alden stepped onto the square panel, it fired up toward the next level, and he jumped off quickly to take a look at the next thing. It was a tangled climbing frame, a jungle gym made of metal and wooden poles jammed through chunks and blobs of the gym barrier magic. Those blobs would be randomized to be tough or fragile. Forcing a way through would be an option for some, but destroying a “fragile” chunk by shattering the poles attached to it would result in an injury penalty.
+
+It was a lot of clambering around in uncomfortable positions to get through that, and then there was a wide, clear area that was going to turn into a place where vulnerable people got picked off as they tried to get up to the floating island.
+
+“Hello, my nemesis,” said Alden, looking up at it.
+
+“It’s higher than we practiced in the park,” said Kon. “Or does it just seem that way?”
+
+“It’s higher,” said Alden. “But there’s more to grab onto than with the nonagon.”
+
+The obstacle was gym barrier magic of course, the same shade of green as the exterior of the traffic tunnel, which might indicate it would behave the same for climbing and hanging on purposes. It was shaped sort of like a mini island with two mountains and a bay.
+
+“And since this is the gym, I’m willing to throw you guys way harder and trust your luck.” Alden’s interface was already providing him with information about the island. “Ha! Really? To be fair, I might do the same thing if I were him.”
+
+“What?” Kon asked.
+
+Alden accessed their team chat.
+
+[Alden: The island is supposed to mimic the behavior of a high-rank Adjuster spell that changes the spatial trend of certain other spells. Like making spells that are normally set to a location want to move to a different location. Only it’s giving it a trend, not a new hard set, so the situation becomes a bit more mobile. He wrote it right here in the notes. Or the System did. Let me look and see if there’s more about it online.]
+
+“I don’t think you have to bother with that,” said Lexi. Haoyu and Ignacio were beside him. Jeffy and Mehdi were still playing around on the jungle gym. “It doesn’t really change anything for how we handle it, does it?”
+
+“But it’s very different than a standard gym obstacle that’s not mimicking anything. Or one that’s mimicking a fixed levitation spell or shaping. It’s more interesting than those.”
+
+“How?” Lexi asked. He sounded genuinely curious about the answer.
+
+Because it’s a spell I hadn’t heard about until just now, and I want to learn to cast it.
+
+I can’t say that. It’d be so fun to use on Max’s traps, though. I wonder how fast it moves things? Would his traps pretty much snap to where I sent them? Or would they drift in that direction more slowly?
+
+Probably degrades them somewhat?
+
+[Alden: It’s a spell Ash must be thinking about choosing for himself. There’s no point in setting the object to behave this way otherwise, is there? So he most likely cares about the island more than the rest of the course.]
+
+Ash was an S-rank Adjuster who made terrain that only he could see. He could use it as a trap, like Max did his zones, but his terrain covered a much larger area and it was really more like terrain. Like an undetectable gravel covered slope or a swamp, just appearing out of nowhere in front of someone he was chasing. Alden assumed the spell the floating island was mimicking would allow Ash to move part or all of one of his landscapes without recasting.
+
+At least. He probably has multiple uses for something like that.
+
+Their course admiration time was up all too soon, and Alden trailed after the others to stand on the sidelines while the first two teams took their starting positions.
+
+“I do think as weight is added to it, the floating island will sink a little,” he said, still reading descriptions of the spell online. “If we’re all standing on it at once, or if members of other teams are, I might have to throw someone from there so that they can reach the monkey bars.”
+
+From the floating island, they gained access to a long stretch of ordinary monkey bars at the top of the gym. All they had to do was cross them to finish.
+
+Since it’s mimicking that spell, I wonder what would happen if we tried to deal with the spell instead of trying to use the island correctly.
+
+It might just break? Then we’d have no way to reach the monkey bars.
+
+“Alden, you’re not watching the first run. A truck just got hit by someone!”
+
+Alden looked away from his interface at Jeffy’s urging. He and his teammates were standing at the end of the gym that allowed them to see into the traffic tunnel. Ash wasn’t far away.
+
+The team that had injured the truck was being sent back to the start already, and Mehdi was moaning about how he was going to lose his mind watching other people run such a fun course so badly.
+
+“For once, I agree with him,” said Lexi. “What’s our best strategy from last night’s chat? I’ll go suggest it to Instructor Ash.”
+
+“There’s rope in the object pile,” said Haoyu. “Say we’ll use that if you want to be as logical as possible. Or say we’ll build a ladder out of broken jungle gym. You know there will be ten thousand bent and broken pieces of that by the end. We won’t even have to demolish it ourselves.”
+
+Lexi held up a hand. “I’ll deliver a logical plan logically. Rope. I’ll…express our confidence.”
+
+He took a breath and headed toward their teacher.
+
+“He looks like a strong representative for us,” Haoyu whispered. “Tall. Sure. Barely angry.”
+
+Lexi was turning back to them within a minute.
+
+“More than barely angry now,” said Haoyu. “But his representation was good. You did good, Lexi!”
+
+“He said it didn’t sound like it was worth the floor,” Lexi ground out.
+
+“Spinach,” hissed Kon.
+
+“I’ll try,” said Ignacio. “Maybe something with the cars? I’ll go in several minutes to show we thought about it for a while.”
+
+“When can I go?” Alden asked.
+
+“Whenever you want,” said Kon, “if you’ve come up with something.”
+
+“No,” said Alden. “I mean when can I go with… ”
+
+He switched to text.
+
+[Alden: When can I try to trick him like he’s six?]
+
+[Haoyu: Yes! What trick?]
+
+[Alden: I want to tell him I have the best idea ever for floating island, but then I want to refuse to give him all the details so that he has to let us on the floor if he wants to see what it looks like.]
+
+He outlined the kind of idea he was thinking of quickly for them. They spent longer exchanging looks than reading what he’d mental texted.
+
+Kon grinned. “I like it, but will it work?”
+
+Alden shrugged. “How would any of us actually know without trying it? But we haven’t mentioned a single strategy like it, it’s not boring, and nobody else will do it.”
+
+[Alden: I was hoping that if the run fails, but we’ve shown him something he didn’t think of himself, maybe we get to go again. Because he’s curious to see what we do next.]
+
+“Okay,” said Kon, very quietly. “As team captain, I think we should present two more strategies that will definitely work even if they’re boring or they rely on extra equipment. One in five minutes. Another five minutes after that. And then if those fail…we send you in. With that. Half an hour from now?”
+
+Alden nodded.
+
+He spent the time watching runners, refining his plans for making it through the early obstacles, and thinking about how to learn what he needed to from the course.
+
+When the whole team started glancing at him, he knew the half hour was up. Ash had walked to the other side of the floor to observe. He’d rejected ideas from Ignacio and Haoyu now, too.
+
+“I’m going,” Alden said. “Wish me luck.”
+
+“I’m going to be so incredibly…something, if this works,” Lexi muttered.
+
+“Grateful?” Alden suggested.
+
+[Alden: Keep an eye on him.  Watch his face for clues. We have to know what goes on in his mind.]
+
+He was aware he was being a little dramatic, but waking up at the crack of dawn to twiddle his thumbs while other people used magic was only going to get harder as the term progressed.
+
+When he reached Ash, he waited for Ram—probably Ram—to finish requesting a run for his own team. The Brute’s tone was several steps down from respectful, but Ash just looked like he’d shut his hearing off a while ago.
+
+I guess that’s better than him looking annoyed, but wouldn’t it be best for my cause if he were in a perky mood? Should I offer to let him play with Ro-den’s enchanted ring? I never wear it anymore. Maybe he’d cheer up.
+
+Before he could convince himself that that was necessary, Ram was stalking past him, and Ash was either deeply interested in what the teams on the course were doing…or pretending to be in hopes that Alden would go away.
+
+This is awkward. But Stuart handled Ro-den! I have no excuse not to successfully handle this guy.
+
+“Instructor Ash?” he said. Smiling had rarely felt more contrived. “My team’s come up with an idea that’s not like any of our other ones. I think it might be really cool.”
+
+Ash glanced at him through half-closed lids. “Your team presents so many ideas.”
+
+Oof. Dickhead.
+
+“Well, yeah!” Alden said as merrily as he could. “We can’t give up until we surprise you. We might have done it this time.”
+
+“What is it?”
+
+He wore most of his rings even during class, Alden noticed.
+
+“We can beat the floating island by throwing one person up there. And we won’t have to use rope or climb anything to do it.”
+
+There. That’s it. That’s all he gets. Alden held his breath.
+
+Was the instructor looking at the island a little harder? Or was that just because a boy was currently clinging to the edge of it by his fingertips?
+
+“How?” Ash asked after the boy had fallen.
+
+“It’s not hard to do, but explaining why I think it will work might take longer than an actual run. I only have to throw one person. No ropes.”
+
+“You already said that.”
+
+“I did. Sorry. I’m just so pumped about it. No other team is even trying something similar. And it’s kind of dangerous and relies on the magic of the island reacting in a certain way. But it should be awesome when it works.”
+
+How vague can I get away with being? What else can I do?
+
+“I guess there is a chance the floating island could explode or something,” Alden added.
+
+“What do you imagine your team could do to make that obstacle explode?”
+
+“Nothing!” said Alden. “I hope.”
+
+They stared at each other.
+
+“Should I write down all the magical interactions that might happen on a sheet of paper and bring it back to read it to you?”
+
+The instructor’s lids lowered even further. “How do you know what might happen?”
+
+“I don’t. But I could still write my thoughts down and share them. It would be like a risk assessment hypothesis I made up for you to give you the edges of the possibilities for our interesting method to make that island obstacle work for us.”
+
+“Did you have a lot of caffeine before class?”
+
+“What do you mean?”
+
+“Fine,” said Ash. “If you’re all so very…passionate about trying out whatever it is… just run. Make sure you show it off during the run. Don’t write anything extra for me to read.”
+
+“Yes, sir. We won’t waste your attention.”
+
+Alden walked away fast before any more questions could be asked or any fickle minds could change. His grin as he approached his teammates was very real.
+
+“I’m horrified,” said Lexi.
+
+“Get unhorrified. We go to battle against an island in the sky. And I promised it would be interesting. That’s a lot of pressure on us now that it’s happening.”
+
+******

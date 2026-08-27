@@ -1,0 +1,177 @@
+---
+id: a78d401e-f1a5-5efe-921a-e62549020b0e
+page-type-slug: story-chapter-royal-road
+title: "(Book 2 Starts Here) Chapter 55: A Terrible Pet"
+slug: 0055-book-2-starts-here-chapter-55-a-terrible-pet
+partOf: the-gift-of-loot
+position: 55
+ownLength: 2336
+unit: words
+publishedAt: 2026-07-13
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3672148/book-2-starts-here-chapter-55-a-terrible-pet"
+royalRoadId: "3672148"
+---
+
+Welcome to the first chapter of book 2!!!
+
+Thomas staggered out of the Man-Eating Unicorn dungeon, feeling slightly shell-shocked. "I am never looking at unicorns the same way again."
+
+"Yeah," drawled the Army National Guard guy, the older one, not the younger one who was so fresh-faced that he looked like he had just graduated high school. "We get that a lot here." He looked Thomas up and down. "It doesn't seem like you need any medical attention."
+
+He would have, if he wasn't a healer. "Are you sure this is a level one dungeon?"
+
+"That's what the mana readings say." The older army guy paused. "Who's your new pet?"
+
+Thomas glanced down at the unicorn toy he'd gotten as a loot drop from the boss. It was currently trying to whip its long neck around and bite him with needle teeth. Because he had it gripped right behind the shoulders, it couldn't quite reach him. So instead, it kicked sharp hooves in the air while its scaly, whip-like tail lashed back and forth against his wrist.
+
+"Definitely not a pet, even if it was alive," Thomas said.
+
+"It's not alive?" The younger army guy had come up and was staring in rapt horror at the thing. "Are you sure?” His voice went up an octave. “You're not allowed to bring live creatures out of the dungeon. It's a biohazard."
+
+In answer, Thomas tapped the unicorn's hind end with his free hand. It made a plasticky click-click sound that was quickly drowned out by a renewed screech of outrage. "Nope, it's just a vicious toy. Look, it even has a brand." He turned it to show off the little skull and crossbones stamped on the rump.
+
+The older army guy frowned. "That looks dangerous. I'm going to have to insist that you at least get it appraised and registered."
+
+"Registered?" Thomas asked sharply. He didn't like the sound of that, as he tried to keep off official government records as much as possible.
+
+"Yeah, at the official Government Marketplace. Here, I have a box I think you can use to transport it safely."
+
+The older army guy made a "wait one moment" gesture and disappeared into a nearby tent. Having sneaked into a similar one with Jo a couple weeks back, Thomas knew it was full of supplies. A minute later, the army guy returned with a metal box that used to store bullets.
+
+He held it out, and gingerly, Thomas placed the toy inside, yanking his hand back just as the younger army guy slammed the lid shut. Immediately, the unicorn toy started bashing its hooves and horn against the sides of the box.
+
+Thomas grimaced. "Okay, maybe you have a point."
+
+"I'll get you the address," the older army guy sighed. “Normally protocol is to escort you, but… we’re short handed.” He gave Thomas a hard look. “Don’t make the officers come find you.”
+
+Thomas felt vaguely offended, but didn’t allow it to cross his face. He wasn’t here to stand out. “Sure, it’s not like I want to keep the thing.”
+
+_____
+
+Walking back to his car a few minutes later, Thomas smiled to himself. They'd been so occupied with the unicorn toy they had completely forgotten to have him declare the rest of his loot.
+
+He pulled out of the parking lot and headed in the direction of the Government Marketplace, which apparently had been set up in an old retail store that had closed over a decade ago. Before the System Integration announcement, it only functioned as a Spirit Halloween store two months out of the year. Now, it had new life.
+
+However, he wasn’t going to head straight there like a good little civilian. Instead, he drove down the road for about half a mile before pulling over into an empty McDonald's parking lot.
+
+If this were a regular summer in Lake Tahoe, the drive-through line would stretch out to the road, thanks to tourists needing their McFix. It seemed that society had decided to turtle up since word of the System Integration came out. As a tourist town, his hometown was practically a ghost town.
+
+That meant there was no one around to watch as he pulled his extra spatial backpack around and shuffled through it, double-checking his score of loot. It wasn't like there had been much downtime to do so inside the dungeon.
+
+He had come out nicely with a scattering of white Air mana crystals, some brown Earth, and even a single green Nature. All were level 1, but even if he didn't want them personally, he could either sell them or give them to his family so they didn't have to dungeon dive.
+
+Then he pulled out the real prize of the dungeon. No, the vicious unicorn toy didn't count.
+
+It was a small, capped vial of thick red liquid. His System description labeled it as:
+
+Unicorn Blood
+
+Curious, Thomas shook it to see if there was any effect. Huh. It looked like there was glitter trapped in there along with the blood.
+
+His healing mana told him nothing about it, but he had read enough Harry Potter to know that he certainly didn't want to drink the stuff. So he'd sell it, just not at the government marketplace. He didn't want to end up on a list.
+
+Well, more lists. He had it on good authority that high-ranking officers in the local National Guard had their eyes on him. Applebaum seemed like a nice guy, but he didn’t know for sure.
+
+Fortunately, they didn't have an inkling of his true Gift. They thought he was just a healer who could clear higher-level dungeons.
+
+With that in mind, Thomas went through the drive-thru, ordered a Quarter Pounder with Cheese, and was told to wait in an empty parking lot for ten minutes before a disinterested kid gave him a bag with a Double Cheeseburger Value Meal inside.
+
+Society might be on the verge of crumbling, but good old Mickey D's never changed.
+
+In any case, Thomas was mostly interested in the bag. After choking down his two cheeseburgers, he filled the bag with the mana crystals and the vial of unicorn blood before he tossed the bag into the back to hide with the other mundane fast-food bags.
+
+Good luck to the criminal who looked around in his car. Not that his old-ass blue sedan was a high-value target anymore, with the bullet holes and all.
+
+His life had gotten strange over the last couple of months.
+
+Thomas patted the top of the bullet box, earning an outraged squeal and the renewed sound of hooves beating against the side of the box. He turned his car back onto the road.
+
+In direct contrast to the McDonald's, the parking lot for the government marketplace was actually pretty full. It seemed that everybody from the greater Tahoe area on both the California and Nevada sides who wanted to get their items officially appraised were being funneled to this spot.
+
+Thomas was required to present his driver's license to be scanned at the door, then was shown inside.
+
+The inside of the building was sterile, with everything of the former retail store ripped away. The only decorations were cardboard life-size standees of tough-looking men and women in full military outfits, along with banners advertising for people to sign up for one of the military branches.
+
+Thomas gave those spots a wide berth, even though as he was in his 30s, he wasn't a prime target. They were looking for kids right out of high school, or maybe in college, who were staring down the long road of a future that had been completely alien to the ones their parents had known, and incompatible with the ones that schools had trained them for their entire childhood.
+
+Ugh, that was so grim. Thomas quickly shoved that thought aside in favor of looking for somewhere to offload his murderous unicorn toy.
+
+Long rectangular tables were set up along the back, with people sitting at them, and a signpost read: "Dungeon Item Appraisals Here."
+
+Well, that was straight to the point.
+
+Thomas got in, joining the back of a short line.
+
+He noticed that there were guards in full military camo all around, standing with their backs to the walls. Each held semi-automatic, giving the whole place an unstable third-world country vibe. He wondered how much was for show or if people with with dungeon-unlocked Gifts had made trouble for the appraisers.
+
+He felt eyes on him. Thomas casually pulled out his phone and pretended to scroll while he glanced around.
+
+All of the guards had olive green masks up to their noses, showing just their eyes before the rest of their features were hidden by a helmet. Most were staring out into space, or casually surveying the crowd.
+
+One, though, was staring at him as if he could bore a hole through Thomas’s forehead. He had visible tattoos at the top of his cheekbones and one at the corner of his right eye. Thomas knew those tattoos.
+
+That was Twitch.
+
+Twitch met his gaze, then flicked his eyes to the side, toward one of the building's side exits.
+
+Was that a warning or a threat?
+
+He honestly didn't know. His history with Twitch was complicated, and the last he heard, Twitch was in jail pending charges for accessory to first-degree murder.
+
+He didn't have time to puzzle it out before the spot for the next appraiser opened up. Stiffly, Thomas stepped to it and set the box down on the table before sitting.
+
+"Hello, what do you have here?" asked the friendly woman, cocking her head to the side. "Bullets?"
+
+"A drop from the Man-Eating Unicorn Dungeon." As if on cue, the thing inside whinnied and screamed again and pounded at the inside of its cage. "It's really angry."
+
+The woman visibly recoiled, then raised a stick with a red flag on it. Immediately, two supervisors came over. They had Thomas repeat what was in the box, along with the fact that it had dropped from a boss.
+
+One of the supervisors left and returned with some sort of thickly reinforced gloves, like the type someone would use to catch feral cats. That was a good thing, because when he opened the box and reached in, the unicorn tried to take a bite out of him, as well as gore his fingers with its horn.
+
+"Thank you for bringing this to our attention," said one of the supervisors seriously. "Samantha, pay him out for a B-grade dangerous creature."
+
+"I don't think it's alive," Thomas said. “Technically.”
+
+The supervisor flicked a glance at him that said, Shut up. We're the professionals here.
+
+"It's magic, sir. Alive doesn't mean what it did a couple of months ago."
+
+With that, he took the still outrageously screaming unicorn toy to the back. It seemed Thomas wasn't being given the option to keep the thing. Not that he wanted to.
+
+Samantha visibly tried to collect herself. "Yes, well," she said with a laugh, "at least you'll be paid for your trouble. The bounty for a dangerous creature of that level will fetch you fifty B-grade mana crystals."
+
+Thomas' eyebrows rose almost to his hairline. He assumed those were level 1 crystals, since most people were still dealing with the first level, but that was still a hefty payout.
+
+"How many would that be in healing crystals?" he asked.
+
+_____
+
+Five level 1 healing crystals richer, he made his way to the exit Twitch had indicated.
+
+His opinion of the guy was mixed, to say the least. He was technically an accessory to first-degree murder, but he had joined forces with Thomas and Jo in the Grizzly dungeon. Yes, it had been mostly to save his own skin, but he hadn't turned on the two of them when he easily could have.
+
+Also, why hell wasn't he in jail? Was this the prelude to some sort of scam? Another robbery?
+
+The exit led to a fenced-off smoking area, thankfully empty. Thomas was unsurprised when Twitch appeared a few minutes later, so he asked the question that had been on his mind.
+
+"What the hell are you doing here?"
+
+Twitch lowered the mask to show his whole tattooed face and grinned at him. "Supervised release, dawg. They still got a leash on me, though." He reached down to lift the cuff of his pants, showing an ankle monitor. The visible insides pulsed with blue-white mana.
+
+Thomas didn't like the looks of that for various reasons. "Are you... okay?"
+
+Twitch gave a very twitchy shrug. "It ain't exactly indentured servitude, but not far from it. Still beats jail, though. Listen," he stepped forward, "I know you and I got some history, but damn, I thought you'd be smarter than coming here."
+
+Thomas felt cold. "What do you mean?"
+
+"They're watching you, bro." His voice lowered into a hiss. "They watch everybody who brings in the good shit. Looking for patterns, you know?"
+
+That cold feeling crystallized into ice in his stomach. What was Twitch implying? Had he guessed at his Gift?
+
+Luckily, he was practiced at playing stupid. "I don't know what you mean."
+
+Twitch's eyes grew hard. "Listen," he said. "They're looking for strong people, and nowadays you don't need to rob and kill someone to end up like me. If they want you, all they gotta do is get you on a traffic violation. A judge will sign off on it. Then you get one of these ankle monitors, or a necklace, which is worse. I'm telling you, watch your ass." He bobbed his head as if nodding to himself. "And I know you got a soft heart and connections with the National Guard, so if you ever get the chance to do something, think about me."
+
+Twitch gave him a jerky smile, then raised his face mask back over the top of his nose, turned around, and left.
+
+He had to get out of there. Now.

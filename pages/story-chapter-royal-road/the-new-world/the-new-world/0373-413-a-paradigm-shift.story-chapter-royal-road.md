@@ -1,0 +1,733 @@
+---
+id: 2b685a5e-137c-5e9d-a28b-82fca5af7b30
+page-type-slug: story-chapter-royal-road
+title: "413 A Paradigm Shift"
+slug: 0373-413-a-paradigm-shift
+partOf: the-new-world
+position: 373
+ownLength: 5127
+unit: words
+ownProgress: 5127
+publishedAt: 2025-04-18
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2210976/413-a-paradigm-shift"
+royalRoadId: "2210976"
+markedReadAt: "2026-06-29T21:34:07.181Z"
+---
+
+We laughed as mana glowed over me. I grabbed one of my wrists, inspecting my arm.
+
+"For real, I was actually working on a skill."
+
+She brightened.
+
+"Oooh, did you get it?"
+
+I rolled my shoulders.
+
+"I think so."
+
+She flipped onto my shoulder.
+
+"Soooo, what's it called?"
+
+I peered at her, the many minds swarming within.
+
+"Infinity."
+
+Chapter Begin
+
+Althea gulped before frowning.
+
+"Yeesh. I can feel it."
+
+I put my minds to channeling mana.
+
+"Really? I thought it would be an internal kind of skill."
+
+She peered up, putting a fingertip on her chin.
+
+"Huh. They do say the eyes are windows to the soul. I don't know if that's completely true, but whenever I talk to you...Sometimes, it feels like I'm in front of a crowd. Like, er, like public speaking when you don't expect it."
+
+I furrowed my brow.
+
+"Ah, ok. I can stop doing that then."
+
+She raised her hands.
+
+"No, it's not like that. It's just a bit of pressure or something. You know, gravitas."
+
+My face softened.
+
+"I don't want to put a lot of pressure on you or anyone for that matter. Well, not friends, at least."
+
+She smiled.
+
+"It's a part of who you are. Trying to pretend you're not a larger-than-life figure isn't something I want you to do either. I like that about you because I just, you know, like you."
+
+I nodded.
+
+"I'm guessing it's like whenever you make yourself as small as you can sometimes. It's frustrating because I want everyone to see how amazing you are like I do."
+
+She flipped off me and shoved my arm.
+
+"Daw. Thanks."
+
+I smiled before pulling her upright. We hovered over towards Mt. Verner's library. I faced her while flying through the tunnels.
+
+"So, how have you been?"
+
+She frowned.
+
+"Not that great, actually."
+
+I raised a brow. Althea pressed a finger against my chest.
+
+"You've been sitting in your golem chamber for three months without any warning."
+
+My eyes widened.
+
+"What? Three months?"
+
+She pursed her lips.
+
+"Yeah. You were in this white orb until three days ago. I watched for a bit, but it didn't look like you were getting out of it, so I poked you. Besides that, you only sent a string of messages to us about why. It's like...I get that you're doing something important, but-"
+
+I put my hand against her cheek.
+
+"Hey, I'll listen to you after a quick talk with Torix. I had no clue I was sitting there for that long and now, I need to check on things. Like, asap."
+
+She narrowed her eyes.
+
+"Ok, but you owe me."
+
+"Always will."
+
+We darted through the tunnels, our pace multitudes faster than before. A quick series of messages exchanged locations. I was in luck, and a meeting was being held nearby. In seconds, I flooded into the library, my form an umbral liquid and Althea gliding in on elegant wings. Her transformations became more beautiful by the day, while mine only grew darker and more alien. It reflected our progression as well.
+
+Surrounded by bookshelves, Torix held a meeting with Plazia and the executive golem. The hivemind spoke via a status screen, that video call courtesy of my perks and trees. The executive paced around in person. The room barely fit the steel titan, but he was smaller now. As my head scraped against the ceiling, the real problem revealed itself.
+
+He wasn't smaller. I was bigger.
+
+I pulled a piece of myself into the dimensions I carried while landing beside everyone. As I got near them, Torix and the executive stumbled sideways, each of them gawking in different directions. I frowned.
+
+"You guys alright?"
+
+The executive straightened himself back out and spread his hands.
+
+"If it isn't the creator. It's so good to see you, and of course, we're doing well. Speaking for myself here, but whenever you flew nearby, I...It was like a force came over this place."
+
+Torix brushed his robe off before interlocking his hands behind himself. He gave me a respectful nod.
+
+"It's good to see you disciple. It's as the executive said. You're presence passed over us, and I found myself experiencing a shift in temporality."
+
+I blinked.
+
+"You felt the bend in time?"
+
+The executive pointed a finger gun at me.
+
+"You bet. You're wielding time, so it makes sense that we'd feel it. Up till now, I assumed you barely bent the flow, but now it's discernable. How's that for an upgrade!"
+
+The executive turned to Torix.
+
+"Hah, I told you he was doing something important."
+
+Torix's eyes flared.
+
+"I never doubted that aspect. I contemplated the limited messaging and group planning."
+
+I pulled my wake inwards.
+
+"You're correct about my lack of planning, but I also didn't imagine a compendium would take three months in real time. I must've been in there for years."
+
+Torix shook his head.
+
+"A compendium took three full months? That's...That's absurd-"
+
+His eyes flared before he stood up straight. He brushed his robes off.
+
+"Ahem, absurdly expected, that is. I, knowing who you are, anticipated as much. In fact, it-it should've taken three years. If anything, my surprise wasn't from the absurdity but from disappointment at the lack thereof."
+
+I deadpanned.
+
+"Oh really?"
+
+Torix rolled a hand.
+
+"Tis to be expected from my disciple."
+
+Althea held up a pinky. She spoke in a mock British accent.
+
+"Myes. Tis to be expected."
+
+I nodded.
+
+"Right, right, right. But of course, good chap."
+
+Plazia and Torix gawked at us while Althea and I laughed. The executive spread his hands.
+
+"I don't know what that was exactly, but I will say it's probably very funny given the right context. So, I hate to be the bearer of bad news, but you spent a lot longer doing your thing than we first imagined. It was months of our planning gone in a split-second decision. Now, I tend to be pretty game for a challenge, but wow, this isn't something we can really prepare for."
+
+I met their eyes.
+
+"I'm sorry. I would've scheduled ahead if I had any idea it would've taken that long to construct my legendary skill. If I had to guess why, it was because it required both my unknown and legendary compendium, and given the results, it needed to be done."
+
+Torix's eyes plumed for a moment. They nearly torched a few books nearby.
+
+"I am...Yes. Of course, that's...Hm. Wow...That is what I would say if I were surprised, which, to the contrary, I'm not."
+
+Althea laughed.
+
+"Are you short-circuiting?"
+
+Torix sighed.
+
+"By most approximations, yes. Certain commitments are far harder than we initially anticipated. Not demonstrating surprise at Daniel's actions is certainly one of my overreaching moments."
+
+Althea landed on my shoulder, balancing on one foot. I pointed at her and Torix.
+
+"Alright, what happened since I went dark?"
+
+The executive tilted his head.
+
+"A few coarse events and a bit of bizarreness, but it wasn't anything we couldn't manage. We've totally got it under control."
+
+Torix scoffed.
+
+"Controlled? More like contained, and only for now. We require an enormity of assistance."
+
+I took a breath, but it wasn't a sigh of resignation. I mentally centered myself.
+
+"What's lined up for me?"
+
+Torix coughed into his hand, the expression strange coming from a steel skeleton.
+
+"Ahem. As you know, there were reports of dimensional openings across Earth. It just so happens that we've found several more."
+
+I took a step closer.
+
+"How many?"
+
+The executive held up a hand.
+
+"Five on Earth."
+
+Plazia spoke through his interface.
+
+"Three on Blegara."
+
+Althea flinched.
+
+"There's one on the moon, too. That's the biggest one."
+
+I winced.
+
+"Could no one close them?"
+
+Torix shook his head, his fire eyes flaring.
+
+"Helios reported to us that we were expressly ordered not to close them before reporting to you. Since you told us no interruptions unless an emergency occurred, we chose to allow these supposed dimensional wounds to fester as it were."
+
+A wave of embarrassment passed over me.
+
+"Ah. This is why the communication is a pressure point. It won't happen again."
+
+Torix raised a hand.
+
+"You hadn't expected the given stipulation, so simply take this as a lesson to not act without a well-developed set of contingencies. That is always a hard lesson to learn for any bearing the burden of responsibilities. That being said, perhaps this new skill you've made will assist in addressing these newly spawned issues."
+
+I focused all of my minds on the conversation.
+
+"I'll leave it up to you to decide."
+
+Torix's eyes flickered.
+
+"My, my, that's an impressive psychological effect. Hm, it's not even a psionic attack, is it?"
+
+I shook my head.
+
+"I'll show you the skill after we talk. What else happened?"
+
+"Hm. None of the rifts have spiraled out of our control, so this is far from a lethal wound, as it were."
+
+The executive shook his head.
+
+"In my opinion, that depends on how you define lethal. New York has an Old One's avatar running the town like some ancestral warlord."
+
+My jaw dropped. Plazia murmured.
+
+"The beginnings of an end state eldritch has begun on Blegara, and I cannot stop it. A spatial fortress has been called to glass the planet."
+
+My jaw slackened further. Althea chimed in.
+
+"And there's a portal on the moon oozing out with interdimensional energy. It was so bad that none of Torix's minions could even approach it. I had to verify its existence by shifting to a different plane, but even then, this messed with me. I had to amputate one of my arms when it got caught in a corrupting pulse."
+
+My gaze sharpened.
+
+"Are you ok?"
+
+Althea motioned one arm over the other as if cutting it off.
+
+"I handled it, but wow, it's tough up there."
+
+Torix steepled his hands.
+
+"It's a part of a greater societal issue. We believe Schema's losing his grip on the system on Earth. In a manner of speaking, a dark age is upon us."
+
+I took a sharp breath. Damn. I crossed my arms.
+
+"Schema's struggling that much after the lottery?"
+
+The executive waved a hand.
+
+"The AI needs some help at the very least, and since we're dealing with a less-Schematized version of reality, we must pick up the current slack."
+
+I raised a hand.
+
+"What Schema utilities are fading?"
+
+Plazia murmured.
+
+"The status screens, warping stations, and currency exchanges are all adequate. Our bleeding wound comes from the lack of dungeon stability. They are sores upon our worlds, and they spread eldritch and corruption-like infections on a dying patient."
+
+I raised a brow at the others.
+
+"Do we know what's causing this? Aside from Elysium, that is."
+
+Torix sighed.
+
+"We lack any certain knowledge, though we have our suspicions. Your mention of the Old One's increased interference is one lead. Their pockets of altered Earth are cropping up in mass. However, we do still believe the primary concern is Elysium."
+
+Torix waved a hand.
+
+"Your words about the lottery rang true, and their efforts magnified in their efficacy. As of now, they've conquered nearly two hundred worlds, with many midway through their transitionary processes. It is a mass destabilization of our sector."
+
+Their progression far exceeded anything I imagined. I rubbed my brow.
+
+"Ah, man, so this event has become the unraveling of Schema's society here?"
+
+Althea furrowed her brow.
+
+"We're not sure. We don't actually know how much longer the AI is going to keep resisting Elysium or if what's happening on Earth is even from Elysium in the first place. We're just, you know, assuming because they're who we can blame."
+
+Althea curled into a ball, hugging her knees.
+
+"I don't know if it's them, and that's got me scared. If Schema's other benefits start to fail, people outside of systemization will be helpless against the eldritch. They need those stat boosts, or they'll get slaughtered."
+
+I furrowed my brow.
+
+"My gear and golems work outside the system. They can compensate."
+
+Althea shook her head.
+
+"But it's putting power into only you and equipment. How long will it take to distribute all of that gear? Years at the bare minimum, and that's not even including other worlds. Elysium is the only one offering another convenient and timely alternative to Schema. Once they monopolize system access, they can say or do whatever they want."
+
+Her eyes darkened.
+
+"And we've seen exactly what they'll do when they have power."
+
+A quiet descended on us. I broke the silence as I counted on my fingers.
+
+"It's weird, isn't it? Schema could've sent multiple spatial fortresses at once to Giess. Lehesion or not, their primary command center would be eaten by the masses of flesh. Why hasn't Schema done something like that?"
+
+Althea frowned.
+
+"Schema has to announce glassing. He'd give Elysium time to prepare again."
+
+I gripped my hands into fists.
+
+"But Giess isn't in the system anymore. Schema doesn't have to announce it when he attacks a random world, does he? Hell, Schema probably cracks planets open all the time for mining."
+
+Torix peered up.
+
+"I'd never imagined the specifics of Schema's industry. It's a fascinating inquiry, in all honesty."
+
+Plazia oozed from the status screen.
+
+"If your tales of Schema's potency are to be believed, then why would he allow Elysium to infect such a large segment of his system? Incompetence? Idiocy, perhaps?"
+
+I shook my head.
+
+"I think it's because something bigger is out there, and it's at Schema's doorstep."
+
+The executive spread his hands.
+
+"Any ideas what it might be?"
+
+I frowned.
+
+"There's a wave of avatars being created, and the Old Ones can generate as many of them as they want. Hell, I know five different Old Ones. Etorhma, Eonoth, Baldowah, one that's over Shalahora, and an unknown one that shackled Valgus. Assuming the worst, there could be thousands of Old Ones that we don't know about at the edges of the system, trying to seep in while Schema fights them off."
+
+I shook my head.
+
+"Or the actual physical body of Schema has been attacked. It could also be that Earth just isn't that stable."
+
+The executive's runes glowed.
+
+"Elysium has been aiming to destroy Schema since the start of this war, and I'm doubtful they're even close to doing so. Otherwise, we'd be having a lot more system-related issues than the dungeons going haywire."
+
+Torix tapped his fingers together in waves.
+
+"I've a penchant to agree with you. Elysium wouldn't have struck without knowing they'd destroy Schema. They'd alert the AI to their knowledge, allowing the machine to relocate across the galaxy after the failure to destroy him."
+
+Althea frowned.
+
+"Sorry, I don't mean to shoot your idea down, but that assumes Schema stays in one place. If it were me, I'd be on a ship out in the middle of nowhere."
+
+Torix spread his hands.
+
+"No need for apologies, and that's an excellent idea. It's far more difficult to discern a mobile location. Assuming you're right, then Elysium's assault becomes even less likely. The Old One's are the most obvious solution, but why would they attack Schema?"
+
+I frowned.
+
+"Maybe they're not even interrupting the AI. I mean, think about it. For some reason, Old Ones use avatars to interact with our universe. I think it has to do with fragility - if they come here, everything is wiped by their size and magnitude. They take small fractions of themselves and put them into things here so they can run rampant within pre-determined limitations."
+
+I crossed my arms.
+
+"But there's no way they get those limiters right every time. At any moment, the situation around them could spiral out of control. I think we're getting caught up in one of those spirals."
+
+Plazia simmered.
+
+"We may conspire to random outcomes endlessly. This is meaningless."
+
+I raised a hand to him.
+
+"Eh, it's good to have our thoughts out there. We may get ahead of whatever's coming that way, but yeah, let's not sit on this for too long. What needs handling first?"
+
+Althea pointed up.
+
+"I say the moon."
+
+Torix nodded.
+
+"It's the most volatile situation by an order of magnitudes."
+
+I peered at Plazia.
+
+"More than the eldritch?"
+
+Plazia scoffed.
+
+"I cannot stop this eldritch for reasons outside of strength. Some entity accelerated its growth, and some viel of protection ceases my pursuit. Otherwise, killing it would be a simple proposition."
+
+I hated the Old Ones. Torix rolled a hand.
+
+"Just as well, the moon situation truly needs to be seen to be fully understood."
+
+I nodded.
+
+"Then let's go."
+
+Althea stepped up.
+
+"Do you mind if I come with you?"
+
+I shrugged.
+
+"If you think it's safe enough, by all means."
+
+The executive clapped his hands together.
+
+"Perfect. We have our ace problem solver at the helm, so we can rest easy. Sorry about suddenly leaving, but I've got a lot of projects on hold right now, so I'll see myself out."
+
+We said our goodbyes before Plazia murmured.
+
+"Perhaps some unknown being won't ruin Earth as they've tried ruining Blegara."
+
+The hivemind cackled.
+
+"Good luck."
+
+He closed the call, leaving Torix, Althea, and me standing in a circle. Torix put his hands on his hips.
+
+"Now, may I see the skill you worked so hard to create? My curiosity is killing me, as it were."
+
+I opened my status.
+
+"Pshhh, are you kidding me? Of course."
+
+I turned my skill description to him.
+
+Infinity | lvl 468 - Within the finite, there exist concepts that bind mortals. Time. Death. Eternity. These are mere ideas that sentients touch upon, but they may never grasp them fully. You've unraveled these truths as lies, and in unveiling the ineffable, you've become an entity without limit.
+
+Infinity augments temporal manipulation, the number and volume of the user's psyches, and the conversion of matter into energy. This skill also enhances the user's assimilation of cipheric alterations, their efficiency, and the stability of the user's soul. Finally, Infinity allows for a grander scope of one's mental composition and augments the user's ability to suppress domains.
+
+Current Effects:
+
+46+ Endurance, +46 Willpower, +23 Perception, +23 Intelligence, and +11 Luck
+
++46.8% to Time manipulation, mental power, and conversion of energy types | +23.4% to cipheric augments, their stability, and the user's soul | +11.7% to mental remapping speed and domain suppression.
+
+-18.72% to the mana cost of Infinity
+
+Torix shook his head.
+
+"Marvelous skill description. It's rather mysterious. I understand most of what it dictates control over, but what of domain suppression?"
+
+I shrugged.
+
+"I'll be honest. I don't know what that part's all about. I have a few ideas but nothing concrete."
+
+Althea scratched her head.
+
+"There's more influenced stuff in this skill than most legendary skills."
+
+Torix nodded.
+
+"That's likely due to the unknown skill compendium. Schema might've grafted on extra bonuses as a compensatory gesture."
+
+I squeezed a hand to a fist.
+
+"I don't think so. I think the skill is simply that powerful."
+
+Torix cackled.
+
+"Oh, I like the newfound confidence. That being said, what makes you so certain of its outsized impact?"
+
+"The raw numerical difference on my mind."
+
+Torix's eyes flared.
+
+"Is there a specific number of psyches currently? Unless you'd rather not say, of course."
+
+I waved the concern off.
+
+"I don't mind. There's sixty-two of them."
+
+Althea and Torix gawked at me. Althea murmured.
+
+"What? Are they...Like, doing stuff while we talk?"
+
+I leaned back.
+
+"Of course. I have twenty in my dimensional wake, twelve pulling mana from elemental furnaces, and ten more putting the energy into my cipheric runes. The others are researching the cipher. In fact, I rarely have them idle since I have a lot of work that needs doing, and it needs to be done all the time."
+
+Torix tilted his head.
+
+"So it's as if we're talking to a shard of you but not the entire whole?"
+
+I frowned.
+
+"Hm, not quite. They're all me, and I'm all them. We operate in tandem, like different Daniel's, experiencing fifty timelines at once. I distribute the knowledge out as I acquire it, increasing my general cognition."
+
+I scoffed.
+
+"Thought, that depends on who you ask. I think most people would consider me as dumb as rocks, and they're probably right. If you combine all of that experienced time with my actual temporal magic, then conversations like this feel so short-lived. I even have to speak slowly so that I don't sound differently to you two."
+
+Torix nodded.
+
+"I've noticed that at times. Occasionally, your voice becomes higher pitched and rapid."
+
+Althea frowned.
+
+"Are you saying talking to us is a chore? Because if you are, then, well, that hurts my feelings."
+
+I scoffed before peering into the distance.
+
+"It's not that. I love talking to you both. It's just getting more difficult to measure time out. My sense of how long something takes isn't reliable these days. It's so warped that I can hardly tell the difference between a minute and a day anymore. Sometimes, I worry that years will pass in the blink of an eye while I hone myself like a machine."
+
+My eyes grew distant.
+
+"It's kind of scary, actually."
+
+Althea and Torix stared at each other. Torix coughed into a hand.
+
+"Are you...Feeling poorly at the moment? A bit under the weather, perhaps?"
+
+I raised my hands.
+
+"If I seem off, it's cause I'm still pulling myself out of my meditation from earlier. It was a hard thing to dive into a cognitive task so deeply. It's like pulling myself out of a pit to get myself back to normal. Whatever normal is these days."
+
+Torix's eyes flashed purple for a moment.
+
+"Hm. Do take care of yourself, disciple. We'll need you in the future...And as you are, not as a machine."
+
+I put a hand on his shoulder.
+
+"You'll always have me, and thanks for the concern. Really though, I'm fine."
+
+Torix peered at my eyes. He sighed before turning to a side room where students gathered.
+
+"It's good to hear that. Now, I'm off to finish a few lectures and maintain our guild's expansion operations. This Canada they speak of is apparently a frozen wasteland for the most part. It's difficult to arm our members with the appropriate supplies to pierce its icy depths. A competent individual must be the spearhead of such a drive, so do excuse me."
+
+Torix walked to his lecture hall before I turned to Althea.
+
+"Thanks for coming with me. I'd be lonely otherwise."
+
+She grinned, a mischievousness glint in her gaze.
+
+"Even with sixty other Daniels keeping you company?"
+
+I rolled my eyes.
+
+"Talking to yourself is like drinking from a mirage in the desert. For a moment, you feel better. Once the wind scrapes your face and the sand burns your dry mouth, you're only left more empty on the inside."
+
+Althea put a hand on my cheek.
+
+"Well, let's be glad you have me then."
+
+I put my hand on hers. I smiled.
+
+"It's hard not to cheer up hearing that."
+
+We set out of the upper floors of Mt. Verner, passing through the tunnels in seconds. Finding ourselves outside, we glided towards the warp drive at Springfield's center. Althea's wings sliced through the air with friction placed perfectly where she wanted it.
+
+"You know...You have me worried."
+
+I frowned.
+
+"I know."
+
+"It's like...I know you'll be fine. You always are, but this time, it really feels like you're stepping away from me. From all of us."
+
+"I'm going to be right here. You know that."
+
+"I do, but you're so different now. Every few months, it feels like I'm talking to an entirely different person."
+
+"Do I sound that way?"
+
+"No, but you feel different. It reminds me of a soldier after his first real kill. After they do it once, the next time is much easier, but it changes them. It makes them have this unseen pain, and that's kind of what's happening with you even while we're talking right now."
+
+A desire to share my experience crossed over me.
+
+"Do you want to see what's causing it?"
+
+She grabbed my hand.
+
+"I do."
+
+We changed our direction, gliding over toward a silent, dark hill. This hill oozed with a feeling of death, like the site of some ancient battle where fallen specters screamed for retribution and vengeance. No sound ebbed around the mound, birds silenced, and insects quiet. It was an odd solemnity, but I understood its source.
+
+Before Shalahora arrived, I turned to Althea.
+
+"There's two reasons, really. The first is this."
+
+I shared the space of my soul with her. She perused the mental web, finding a torturous, splintered framework. The sheer burden I experienced at all times overwhelmed her in seconds, and she jerked herself away from me. As she stumbled back, I peered down at her, my face solemn.
+
+"Sorry...I didn't mean to make you uncomfortable."
+
+She winced and shouted.
+
+"What in the hell are you doing to yourself?"
+
+My eyes glowed from mana saturating my blood.
+
+"I'm working."
+
+She took a few breaths before standing up. She brushed herself off.
+
+"Uhm...I'm sorry about that reaction. It's, uhm, just a lot, you know?"
+
+Sadness leaked into my voice.
+
+"Oh, I'm well aware. It's hard to describe to other people. They assume that each of my minds experiences exhaustion, pressure, and pain on an individual basis. They want to think that my many psyches actually make my toil more like giving a city a job rather than a person. That's not the case at all."
+
+She hugged an arm to her side.
+
+"It just lets you try even harder, doesn't it?"
+
+A gentle amusement came over me.
+
+"That's exactly right. If I lacked my raw stats, it wouldn't be feasible for me to tolerate this. I couldn't think this hard. I couldn't balance all of my parallel thoughts into something cohesive. I wouldn't be able to absorb this exhaustion, discomfort, and pain. It would overwhelm me in moments."
+
+Althea raised her hands.
+
+"Then why do it at all? You're already the strongest person in the guild."
+
+"But that's just it. Shalahora is far stronger. Plazia may be as well, and they're nowhere near as powerful as the enemies I've chosen for myself. And just as well, I have this ability. It's my responsibility to use it."
+
+Althea's face gnarled.
+
+"But it's so much to put on yourself. Why put yourself through this when there must be an easier path?"
+
+I smiled.
+
+"I don't want my path to be easier."
+
+She frowned.
+
+"Isn't that what you're doing for your guild? That's like, 90% of what we do. We make life easier and better for the people we look after and care for. You know, you deserve that same grace, right?"
+
+I peered at the skyline of Springfield. More skyscrapers grew after my absence. They touched the clouds in places like silver fingers waving through clouds of steam. I nodded.
+
+"I want that for them, but I don't want that for me."
+
+Althea scoffed.
+
+"How does that make any sense?"
+
+My gaze grew distant.
+
+"You remember my talk with my father. He and my mom always tried to make me into this evil figure that splintered their family and caused the rifts that ruined their lives."
+
+"And they were wrong."
+
+"Very. However, even if they never intended to, that made me into who I am today. I wasn't made by my armor, my status, or my trees. I was made in a broken home and a dark cave. The struggles I found were what forged me, not the easy moments. That's why I have to endure this. I need to become something that even the Old Ones will fear."
+
+Althea wrung her hands.
+
+"I know you can. I just don't know if you should."
+
+I turned a palm to her.
+
+"I don't know anyone else who can, so I must."
+
+Althea frowned.
+
+"Is that the only reason? Because I don't think it is."
+
+My words flared as spoke.
+
+"You're right. I do have a sense of duty, sure, but there's more to this. The Old Ones think of me as one who is beaten. As a fool who has no sense of scale or understanding of the universe. They imagine me small because that's all they know of me, but they're wrong."
+
+My smile grew fierce.
+
+"Baldowah. Eonoth. Even my mother and father. Everyone who ever thought I was nothing, I'll show them exactly who I really am, and it will be undeniable."
+
+The beginnings of fear came over her face.
+
+"That uh...That sounds personal."
+
+I walked over, and my smile turned gentle once more.
+
+"That's because it is. I've been given this armor, this mana, and this ability. To me, I still think almost anyone else could've done a better job with it. They could've been more creative, more talented, and more effective. That's because I've never been intelligent or strong."
+
+Althea went to disagree, but I raised a hand and continued.
+
+"I'm not saying I'll fail. Quite the opposite. I still have a singular strength - I'm tough. I mean that holistically. Physically. Mentally. Spiritually. In fact, it's one of the only things that I'm proud of about who I am."
+
+I raised my fist.
+
+"And I will leverage that singular strength for all its worth. That means I must endure what others aren't willing to."
+
+She winced, but her expression softened.
+
+"I know I can't stop you, but I can help. It looks like I'm going to have to clean up your messes for a long time, aren't I?"
+
+We kissed. I put my forehead against hers.
+
+"Forever if I have anything to say about it."
+
+She let out a small laugh before a disparate shadow condensed at the hill's peak. Shalahora murmured.
+
+"It seems I am no longer interrupting. You return, and your mind has grown by orders of magnitudes."
+
+Althea put some distance between us. I quieted my psyches' toil, aiming them at the shadow.
+
+"It has. Althea, this is the second reason I've changed."
+
+I turned a palm to Shalahora.
+
+"Would you mind a bit of training?"
+
+Shalahora's form condensed, his figure looming.
+
+"If that is what must be done...I still don't see why you see the need to do this."
+
+"It's for our future."
+
+"Harbinger...You cannot achieve the psionic ability I've gained. It's something given, not earned."
+
+My eyes opened wide. A psionic storm raged in the domain of my consciousness. Mana sheened in my eyes before my body began to glow. I cooled myself as the grass around me caught fire. In the orange blaze, I raised a brow at the shadowed Sovereign.
+
+"How about we find out?"

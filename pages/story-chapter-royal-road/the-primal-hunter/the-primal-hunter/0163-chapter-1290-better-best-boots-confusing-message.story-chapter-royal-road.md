@@ -1,0 +1,151 @@
+---
+id: a2ebece8-4d80-52a7-9bcc-7a10df5dbd68
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1290 - Better Best Boots = Confusing Message"
+slug: 0163-chapter-1290-better-best-boots-confusing-message
+partOf: the-primal-hunter
+position: 163
+ownLength: 2981
+unit: words
+publishedAt: 2026-04-09
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3252119/chapter-1290-better-best-boots-confusing-message"
+royalRoadId: "3252119"
+---
+
+Before heading to Venus, Jake just had a little pit-stop at Arnold’s place. Not to actually get anything, but to receive a little head-start for his journey to the other planet.
+
+Making use of his experience gained during the Prima Guardian event and the teleporter he’d made back then, Arnold had constructed what was effectively a slingshot that could teleport someone in a chosen direction for a pretty far distance. Granted, its accuracy was pretty shit, and its range was also more limited than Arnold would have liked, but the scientist didn’t seem bothered as the project was still in its alpha-development stage.
+
+Which also meant that, yes, Jake was an alpha tester. Arnold had tried to teleport weaker living creatures using it before, but the space magic, unfortunately, required consent to be used on someone, and the scientist had found no trusted sapiens who volunteered. He had wanted Sandy to help, but unfortunately, the space worm had been missing in action for a good while.
+
+Jake did reconsider his participation when he saw the device the scientist had constructed.
+
+“That looks like one of those test chambers that either result in the person within turning into a superhero or they just fucking die,” Jake muttered as he stared at the large metal sphere with a completely glossy surface.
+
+“It shouldn’t have enough power to slay you,” Arnold dismissed his doubts as he started charging it up. “Fully charging will take approximately ten minutes. I’ll also make some last-minute corrections and optimizations.”
+
+“See, that doesn’t inspire me with confidence,” Jake sighed, pretty sure part of the reason Arnold wanted him to visit Venus was to also test out this thing.
+
+“Also, considering I’m in the midst of modifying the Voidblade Katar, am I right to assume you are currently in need of a temporary melee weapon?” Arnold entirely skirted around Jake’s concerns. “If so, use this. A test model that should be perfectly usable and prove more than durable enough.”
+
+The scientist tossed Jake a box that he quickly opened, finding a katar that looked practically identical to his old Voidblade Katar. However, upon using Identify, he saw it was “only” epic rarity and seemed pretty lacking compared to what he was used to. It did look durable, though, so Jake nodded and took it, knowing he would only use it for this brief trip. Who knows... maybe he could even do a bit of testing himself without the fear of losing a good weapon.
+
+“Thanks, I’ll make use of it, though I won’t promise you’ll get it back,” Jake said with a cheeky smile. “Mayhap I do a little testing myself, which may prove destructive.”
+
+Arnold looked at Jake. “In that case, here.”
+
+Unceremoniously, the scientist summoned a small stack of boxes identical to the one containing the katar. Jake stared for a moment, doubting he was seeing things right. He was.
+
+The madman had apparently made fourteen more epic rarity katars, all of them for B-grades. They varied slightly in design, the metals used, and other minor details, but they were all pretty damn usable and would serve Jake well.
+
+“I won’t say no to that,” Jake smiled as he put them all away. He also decided not to bother the scientist anymore, so he could focus on making sure the teleporter didn’t accidentally take Jake in the wrong direction.
+
+Seeing as he had some time on his hands and was about to do a bit of traveling, what time was better than now to take a look at his current footwear?
+
+Having made his decision to do so, Jake entered a side room for some privacy and set up a stable arcane barrier so he wouldn’t be recorded. When it came to dealing with these boots, he didn’t want to take any risks and was fully aware that something weird might happen.
+
+Once settled, Jake took out the Upgrade Token before taking off his boots. He felt pretty naked without them on, probably because the only times he didn’t have them on tended to be when he was actually naked. They were just so snug he never wanted to take them off if he could avoid it.
+
+With the token in hand, Jake focused on the item. He knew how these items tended to work, and consciously, he made his desire clear. Jake wanted to do away with any stats given by the boots, as he no longer needed them courtesy of Primal Spirit of Man, and instead have them provide only other effects. As for what other effects he wanted?
+
+That was a bit trickier, so Jake didn’t even try to direct that part. Truthfully, he wasn’t even confident he could. These Upgrade Tokens awakened existing Records within items, meaning they tended to be used on passed-down artifacts and whatnot, allowing them to return to their prime or at least close to it. Many crafted items also had the potential to be better due to the materials used and the smith’s lack of talent, allowing them to work there, too. Then there were system-granted items from dungeons. These could almost always be upgraded.
+
+Items like his Boots of the Wandering Sage were not common at all, so there wasn’t much precedent on what best practice was. Even if there were... this was an item related to the First Sage. He was the living antithesis to the very concept of normality, so any experience of those who came before him was likely useless.
+
+Hence, Jake only used the token with a desire for what it should not do. As for the rest, he was sure that the Records of the First Sage would gladly guide them in a direction he would find more than satisfactory.
+
+As expected, the token reacted near-instantly and did its thing. It started shining and slowly dissolved into streams of energy that entered the boots, at which point it just seemed to disappear into nothingness.
+
+His boots had absolutely no reaction at all as they sat there on the floor, looking old and worn down as usual. Jake couldn’t even tell their aura had changed at all. However, he knew it was working through his Soulbound connection with them.
+
+The entire infusion process was swift and painless, taking only ten or so seconds before the token was entirely gone, and the boots had absorbed every shred of energy and Records. To an outside observer, it probably looked like Jake had just wasted his token, as usually the infused item would have some level of visual change to represent the improvement, something his boots markedly did not.
+
+Jake wasn’t worried, though... at least not at first. However, upon using Identify and noticing nothing had changed in the first part of the description, Jake did get a little concerned, but fortunately, he hadn’t been double-scammed.
+
+[Boots of the Wandering Sage (Mythical)] – Boots once offered to an alchemist before setting out on a journey to experience the world outside at the behest of his master. With time, this wanderer became recognized as a Sage, the same as his master, who once wandered in them, too. This has left a deep mark on this item, allowing it to transcend many ranks despite being made of nothing but simple leather. Its Records continue to awaken, resonating with their wearer and adapting to his Path as they remember where he has wandered. Including the journey to the Gate of Enlightenment. Enchantments:  Reduces energy expenditure from all movement-related skills while also increasing their effectiveness by a substantial amount. Increases sensitivity towards earthbound plants and natural treasures. While wearing the Boots of the Wandering Sage, never let difficult terrain impede you, as you shall always find a solid foothold. Increases sensitivity towards the concept of space.This tale has been unlawfully lifted from Royal Road; report any instances of this story if found elsewhere.Requirements: Soulbound
+
+Most of the flavor text and abilities of the boots had remained exactly the same, making the changes seem minor on the surface; however, they were most decidedly not. The new addition to the description already made Jake raise an eyebrow.
+
+“Its Records continue to awaken, resonating with their wearer and adapting to his Path as they remember where he has wandered. Including the journey to the Gate of Enlightenment.”
+
+This pretty much said that his boots had been empowered by the Gate of Enlightenment somehow, and when Jake continued down to the enchantments section, he saw that while all the stats were gone, a new sentence had been added at the very end:
+
+“Increases sensitivity towards the concept of space.”
+
+Jake didn’t even know this could be a thing on an item. It didn’t seem like it should be a thing. In either case, it was evident that this effect had taken a lot of the Records “budget” of the item during this upgrade, having even absorbed all the stats the item would give in the process.
+
+To be clear, the other effects that improved his ability to sense earthbound treasures and improve his movement skills had also been upgraded. Granted, those upgrades were more to bring the item up to snuff with his new B-grade status.
+
+He sat in thought for a moment before doing what was perhaps the most important thing. Inspecting the boots closely, he looked where the First Sage had left a message the last time he had upgraded the item. Then, it had hinted that Jake could meet him when he had five charges of Path of the Heretic-Chosen, and he couldn’t help but wonder what had happened to that text.
+
+Checking, he saw that it had indeed changed, and with a narrowed gaze, he read the new words etched there.
+
+May we next meet when twin worlds breathe.
+
+- A Sage
+
+Jake stared at those words for a solid thirty seconds before muttering aloud:
+
+“The fuck does that even mean?”
+
+He had no idea why the First Sage loved doing riddles like this. When he met the man in person, sure, he wasn’t exactly an open book, but he was pretty forthcoming with information. Why then did he have to be so damn mysterious with these? Did he have to, due to some system-fuckery shenanigans, or did he just think it was fun?
+
+Shaking his head, Jake tried to stop himself from wasting brainpower thinking about something like that. From the words, it seemed almost like a foregone conclusion that they would meet again at some point.
+
+Looking upward, Jake spoke to the only person who could hear him. “May we next meet when twin worlds breathe. That’s what it says. I’m totally open to any and all suggestions.”
+
+Jake felt the divine connection briefly form as the Viper spoke. “No clue, man. At least nothing I’m confident enough to share.”
+
+“Glad to hear I’m not just being a moron,” Jake shrugged. “Now that I have you, any comments on the upcoming system event?”
+
+“Prepare for it. I’m also fairly certain that becoming a Chief Administrator isn’t going to be the hard part of this; it’s what comes after. These Seats of the Exalted Prima seem to be nothing more than outposts or entrance nodes to the true World Wonder. That’s where the real competition will begin, and I can tell you that the closer we draw, the clearer it becomes that this World Wonder is one no one can ignore. There’s something oddly different about it. It’s Records are unusually powerful,” the Viper answered in a very serious tone. “It’s enough that many factions are starting to realize that claiming it alone isn’t realistic. Alliances will form, and don’t worry, I’m working on it, though, funnily enough, so far, you’ve had more success forging a solid alliance with another top faction than me.”
+
+“Vesperia?” Jake asked, pretty sure of the answer.
+
+“Bingo. Anyhow, you get back to your preparations; I’m a busy guy on my end. Which is annoying, as I also have this super interesting flake of metal to study...”
+
+Jake didn’t even get the chance to curse the god before the connection was cut. Clicking his tongue, he finally put on his boots and got ready to move, as he saw through his sphere that Arnold was about to be done. He confirmed that his boots were indeed as comfortable as before, if not more so, though they could just feel that way because he had them off for a little while.
+
+Staring down at the boots, a thought suddenly struck him. Wait, didn’t Villy totally give me that token just so that I would upgrade my boots and he could sate his own curiosity about what would happen?
+
+It was highly probable, and Jake chose to believe that theory fully to further support his narrative that he’d gotten scammed.
+
+Waving his hand, Jake dispelled the stable arcane barrier around him, and right as he did, he felt the environmental mana flood in, and through his feet, he felt treasures deep beneath the ground he hadn’t been able to detect before.
+
+However, he was far more preoccupied with something else. Raising an arm, he waved it through the air and felt as if something almost moved when he did so. As if something subtly wrapped around and affected everything. He had a good idea what it was, and he had it confirmed when he entered the same room as Arnold’s now fully charged teleportation catapult.
+
+The entire thing seemed to be almost shivering as this weird, invisible energy moved around it. Only when he focused could he actually see it, though he vaguely detected it was always there, even when it couldn’t be directly observed.
+
+Seeing as the only thing that had changed since before and now was Jake’s new boots, it wasn’t difficult to figure out what it was.
+
+Concept of space... or at least what my mind interprets the visual manifestation of it to look like.
+
+“Are you ready?” Arnold asked, looking towards Jake.
+
+“Just wanna ask, how are you with the concept of space?” Jake asked curiously, wondering whether Arnold could detect it as well.
+
+“I have methods to measure, analyze, and manipulate space to some extent,” the scientist answered without really answering Jake’s question.
+
+“That got me thinking... You like to understand things logically, right? To be able to make formulas, algorithms, models, and whatnot. How does that work when dealing with the nomological?” Jake questioned.
+
+Arnold looked at Jake for a few moments before he spoke. “Nothing is nomological; it’s just that one’s framework is too narrow to fully comprehend something. Everything can be understood and solved given enough time. I cannot guarantee my methods are always fully correct, and the end result may be a methodological approach only my mind has evolved and developed to understand, but as long as it’s logical to me, that’s enough.”
+
+Jake felt that Arnold often surprised him by giving pretty damn good answers, and this time was no different. He wasn’t sure if Arnold’s approach was a good one or made any sense, but he did believe that for Arnold, it was probably the best way forward. As for Jake, he was totally fine, not really understanding stuff, as long as he instinctively “got” things.
+
+“Now, please stop delaying; it’s fully charged, and the longer it stays in this state, the higher the chance of a mishap,” Arnold said, motioning for Jake to step into the opened metal sphere.
+
+“Alright, alright,” Jake stopped talking and entered the sketchy-looking contraption. Once inside, he felt the dense space mana all around him, and the next moment, it intensified significantly. Then, he felt a pull that he knew he could easily resist, but he gave in and allowed the space energy to wrap him up, and then he was gone.
+
+Jake’s vision became a flood wave of colors as he felt himself being torn in all directions at once. It was as if the space energy was trying to atomize him, though he was pretty sure atoms weren’t really a thing anymore. In either case, a B-grade was simply too naturally durable to find itself torn apart by what Jake was going through, and he even found time to ponder what was happening.
+
+He truly felt how he moved through space, embraced the emotion, and sought comprehension. Unfortunately, before he could get into a proper mindset and mood, everything stabilized once more, and Jake found himself floating in the middle of space.
+
+“Damn,” Jake muttered with disappointment. Looking around, he oriented himself and quickly spotted his target far in the distance. He also still saw Earth the other way... and Mars. Jupiter and Saturn, too. Honestly, with a bit of effort and his insane Perception, as long as nothing else was in the way, Jake was confident he could see every major celestial object in the solar system.
+
+For now, he only had one planet he cared about as he quickly turned towards his target and, with improved boots on his feet, stepped down. He teleported forward using One Step, truly taking in how he compressed and warped through space. With the second footfall, he immersed himself even more, and as he continued to walk towards his destination, Jake truly took in every sensation.
+
+He was almost in a half-meditative state, and as he moved, he started moving faster. Some steps were a bit shorter, some longer, but overall, the distance traveled per footfall increased steadily. Jake knew that at this point, an upgrade was only a matter of time. Even without one, he’d gotten better at using the skill.
+
+Alas, that upgrade would not come that day, because as Jake stepped down one more time, he stopped moving as he gazed at the planet now just beneath him... and immediately he understood why Arnold’s drones had faced difficulties.
+
+That’s one toxic atmosphere if I’ve ever seen one.

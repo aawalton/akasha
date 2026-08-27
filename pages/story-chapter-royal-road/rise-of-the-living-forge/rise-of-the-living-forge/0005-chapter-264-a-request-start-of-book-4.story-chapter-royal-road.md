@@ -1,0 +1,92 @@
+---
+id: 2ce31106-4f95-5e4f-bfda-83a6f2c7d76f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 264: A Request & START OF BOOK 4"
+partOf: rise-of-the-living-forge
+position: 5
+ownLength: 1748
+unit: words
+ownProgress: 1748
+publishedAt: 2024-08-22
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1769793/chapter-264-a-request-start-of-book-4"
+royalRoadId: "1769793"
+markedReadAt: "2026-06-29T19:58:37.091Z"
+---
+
+Arwin studied Raen for a second before reaching out to the proffered hand and accepting it. He had no idea who the Dawnseekers were, but there was no point being a hardass before he figured out what the man wanted.
+
+“I fear I’m still at the disadvantage,” Arwin said as they let each other go. He took a step back and nodded for Raen to follow him. If things went wrong, it was better that they were inside the Devil’s Den, where Lillia’s powers were at their peak. “I may just be a little sheltered, but I don’t recognize your guild’s name. Have we had dealings of any sort before?”
+
+“Our paths have not crossed. Not directly,” Raen said. He followed Arwin inside. His gaze lingered on Lillia for a moment as he took her in. His head tilted to the side. “I did not think the rumors were actually true. You are very dedicated. Dressing up like a demon even when your inn is closed for renovation.”
+
+“You don’t see me saying anything about you dressing up like a twelve-year-old squire boy who couldn’t make the cut for his favorite knight and got landed with one that decided baby-blue was supposed to be intimidating,” Lillia said without missing a beat.
+
+Raen arched an eyebrow. His head tilted to the side, but he didn’t look particularly offended. “A sharp tongue. Another confirmed rumor. How exactly is it that you’ve gotten those horns attached? I’ve never seen a design quite so realistic.”
+
+“You don’t want to know,” Lillia replied with a flat smile that didn’t reach her eyes. “It takes a lot of dedication.”
+
+“Did you come here just to make comments about my partner, or did you have something actually important to get across?” Arwin asked, trying and failing to keep the tension from his words. He really didn’t need someone starting to dig into Lillia’s backstory now of all times.
+
+“My apologies,” Raen said, coughing into his fist and stepping away from Lillia. “I am fascinated with monsters. I admit, I had been wanting to pay the Devil’s Den a visit ever since I heard word of it. It is unfortunate that I chose the one day it was closed. Perhaps I will return at a later date — but to business. You have come into some… trouble, as of late. Trouble with the Ardent guild.”
+
+“Trouble would imply we’re having difficulties. We’ve had a few run ins, but that’s it,” Arwin allowed with a small shrug. He pulled out a chair beside a wooden table and sat down in it. Raen mirrored him, but Lillia remained standing and made no moves to rectify the situation.
+
+“Is that so? And the Kererus Coalition?” Raen arched an eyebrow. “Did you decide to interfere with their business on a sheer whim? The heir of the Montibeau killed every single one of their men in Milten just a short while ago, bearing your seal on her armor. They are in uproar.”
+
+“Is that so?” Arwin gave Raen a half-shrug. “I have no control over what people do with my equipment once it is made. I judged her worthy of bearing my weaponry when she sought my help. I don’t see what that has to do with us.”
+
+“So you don’t deny that you made her magical equipment?” Raen asked. Interest flared in his eyes and he leaned forward, his gaze burning into Arwin’s.
+
+“I do not,” Arwin replied, not budging from where he sat. “But I do not make equipment for anyone. What does this have to do with the purpose of this meeting? You were asking about the Ardent guild, not my abilities.”
+
+Raen leaned back, a flush of embarrassment swirling across his pallid cheeks briefly as he cleared his throat.
+
+“I am easily distracted. My presence here is spurred both by guild and personal business, but guild tasks must take priority. The Dawnseekers Guild is a Merchant Guild, and we are in direct conflict with the Ardent Guild. We are both attempting to get a foothold in Milten — but the Ardent Guild moved faster than we did.”
+
+“And what does that have to do with us?” Lillia asked. “We’ve had some slight altercations with the Ardents, but nothing so extensive that we have a desire to get into direct conflict with them.”
+
+A smile pulled across Raen’s lips. “Perhaps. But what of the company they keep? The Setting Sun is not a guild that is easily trifled with.”
+
+“How do you—” Arwin started.
+
+“Twelve approached every single player in the city with an information network,” Raen said with a wave of his hand. “And he has not been subtle with his desires. The Ardent Guild is most closely affiliated with him, but he has not been pleased with their progress. That will not matter if they succeed in finding what he seeks.”
+
+That… honestly makes me feel a little better. Twelve isn’t just approaching us to single us out. He’s literally swinging by every damn person he can. We’re just one of many. Now I feel a little hurt on Rodrick’s behalf. It’s like Twelve is cheating on us.
+
+“I see,” Arwin said slowly. “And you think you can offer us something that can somehow ensure that the Ardent Guild doesn’t find the item that Twelve wants?”
+
+“No. I can’t control the Ardents.” Raen shook his head and splayed his fingers out on the table before him. “But I can do something better. We’re a Merchant Guild. Twelve wants a Dungeon Heart — but he didn’t specify which one.”
+
+“You have one?” Lillia asked, blinking in surprise.
+
+Raen waggled his head from side to side. “We have access to one. Dungeon Hearts are found in Ranked Dungeons. They’re rare, but not completely impossible to find. I’m quite certain the only reason Twelve is even coming to us is because he’s on a time crunch and can’t spend the time getting it himself. And, fortunately, we’ve got a key to one. A Low-Adept Ranked Dungeon, to be specific. It’s been cleared before, but this particular boss hasn’t been. Fortunately, that doesn’t matter. It won’t trigger any names getting put onto the plate outside the dungeon so long as nobody clears out the boss on the tenth floor.”
+
+“I see. And how do we come into play here?” Arwin asked. “If you’ve got access to a dungeon with a Dungeon Heart, I don’t see why you don’t just retrieve it and hand it over to Twelve. He’d probably deal with the Ardent Guild for you — so where’s the catch?”
+
+“The catch is that we shouldn’t have this key,” Raen replied with a grimace. “I came into possession of it through… methods that I would prefer not get out to the public. Merchant Guilds are nothing but the quality of their word and goods, and damaging either of those things would be disastrous.”
+
+“I see. So you’re hiring mercenaries to get it for you,” Lillia said.
+
+“Precisely,” Raen said with a curt nod. “And the Menagerie is a newly ranked guild trying to make a bigger name for themselves. If the Dawnseekers break into a dungeon, we’re bullies and bastards crushing the smaller adventurers. But if you do it… well, you’re all dashing and brave.”
+
+“Except we’d be doing it for you,” Arwin pointed out.
+
+“Which is why you will not be telling people you are giving us the dungeon heart. In fact, don’t tell people you get it at all,” Raen said with a small shrug. “We’ll give you an Adept Tier guide. He’ll take you in and help you retrieve the heart. You give him the heart once the dungeon is fully cleared and we give it to Twelve.”
+
+Arwin shifted in his chair and crossed his arms in front of his chest. “I think I’m seeing a bit of a problem. We’re doing pretty much all the work and taking all the risk. Clearing a dungeon, even with a guide, and not even getting half of the reward at the end… why should we bother?”
+
+“Because you can keep anything you pick up along the way, and it results with the removal of the Ardent Guild from Milten. Twelve will pay a lot for the heart. We can keep things completely above-board and just crush the Ardent guild through sheer economic power if that happens. The Dawnseekers and the Menagerie both win. You get the fame of clearing another dungeon. We get the money. The Ardent guild gets removed.”
+
+“Who does this dungeon belong to?” Lillia studied Raen with sharp eyes. The darkness gathered behind her, threatening to form into wings but just falling short of taking solid shape. “You’ve skipped over the part where we make enemies of someone.”
+
+“Hardly. The key belongs to the Ardent Guild,” Raen said with a chuckle. “You’re already enemies in all but name. I’d be thrilled to have our own guild do it, but we’ve got bigger backing than the Ardent Guild does. Big enough that the nobles funding us would be furious if it was revealed we stole from them, but not so big that we can directly crush the Ardents without taking a lot of damage ourselves.”
+
+“Let’s say we believe that,” Arwin said. “Why us? There are other people more specialized in this sort of thing. We’re a crafting guild. Why did you specifically seek us out? Or are you using Twelve’s strategy to task everyone and their mothers?”
+
+And… even if we actually get a second Dungeon Heart, would I even want to give it to Twelve? He knew about Jessen’s Dungeon Heart, which means they are somehow connected — and I doubt they were enemies. I don’t know if I can live with myself if I arm Jessen’s ally… but I can’t dismiss the possibility when my guild’s lives are at stake.
+
+Raen’s smile slipped away and his features grew serious. “No. You’re the first we’ve asked, and that would be entirely my fault. I’m in charge of dealing with this problem for the Dawnseekers, and I sought you out first entirely for personal reasons.”
+
+“Which are?” Arwin asked, tilting his head to the side, even though he suspected he already knew the answer.
+
+“If I get you access to this dungeon, I want to skip the line and place a commission with you,” Raen said, a hungry glint in his eyes. “I want you to make me a magical item. A powerful one.”

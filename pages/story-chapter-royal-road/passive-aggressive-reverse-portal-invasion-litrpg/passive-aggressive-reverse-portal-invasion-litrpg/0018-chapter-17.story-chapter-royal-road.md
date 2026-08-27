@@ -1,0 +1,47 @@
+---
+id: 947c3758-af48-50c9-b545-d531a129e48d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17"
+slug: 0018-chapter-17
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 18
+ownLength: 854
+unit: words
+publishedAt: 2026-06-06
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3500292/chapter-17"
+royalRoadId: "3500292"
+---
+
+I had to hand it to her. Scared or not, Elizabeth came to her senses quickly. Just a few seconds after realizing what was happening, she snarled and shook herself, like a dog freshly emerged from the ocean. “All right. That’s happening. You. Alan.”
+
+“Liam.” I responded on autopilot.
+
+Behind us, people were reacting. Most by crying, yelling or starting toward the entrance gates at a panicked run.
+
+Elizabeth did not panic. Barely reacted. “Don’t care. You’ve got big arms. That horn is the captain, telling us there’s an attack inbound, and everybody’s to pull back within the walls of the Ever Steady and prepare to defend themselves.” She pointed at the cauldron and her tent. “I don’t know what’s inbound out there, but unless we move quickly, we’ll be leaving a good portion of the healing supplies and poisons of the camp for the attackers to find. So, I will need for you to act like a pack mule.”
+
+I blinked, thanking my praises that I hadn’t picked that Tier 5 bad luck quirk. I grinned at her. “Well. This is your lucky day, Liz. Just half an hour back, I picked the Personal Universe talent. I’ve got a cubic meter of space for your goods!”
+
+She made a sound between a hiss and a sigh. “Thank God. Now, get your ass over here.”
+
+Even with my talent, there was no way I was able to pack everything in time. We leapt into her dark tent, and she started handing me items at a rapid pace. I didn’t question anything, barely looked at what I was handed. Large, overly ripe glow-in-the-dark berries. Small pots filled with mud. Raw meat, still dripping with blood. I accepted everything and just stuffed it inside my Personal Universe.
+
+The sensation of placing things in my Personal Universe was something else. It wasn’t entirely unlike working in tandem with somebody you knew really well. Like, you’d reach out without looking and you’d just know that he’d be there to receive it. Same thing here, only there was an inherent sense of order, of knowing where everything lay. Odds are, I’d have enjoyed playing around with it for a long good while, if we weren’t under attack.
+
+A few minutes later, another horn call, four blasts this time, had Elizabeth cursing, and we raced out of the tent. My Personal Universe was packed, and on top of that, we were both loaded down, carrying large leather tarps filled with stuff over either shoulder.
+
+In just a few minutes, the world had changed.
+
+The U-Nerds camp looked like it had already been run over by an enemy and thoroughly looted. Tents were thrashed and tipped over. Items lay spread everywhere. A large tarp was on fire just a dozen meters away, flames threatening to spread to its neighbours, making shadows dance in the growing darkness. People were still moving here and there. Some stubbornly finishing whatever tasks they’d been working on. Others, judging from the surreptitious glances they shot everywhere, were busy stealing whatever they could find that wasn’t nailed down.
+
+Not my circus, not my monkeys. If anybody decided the chance for improved personal wealth was more important to them than good old survival, that was their problem. As for me, I took one glance at the surrounding, and then I sped up, moving past Elizabeth in a rush for the entrance gates, hoping the magical shield there could keep out whatever was coming.
+
+Ademia in the evening was a sight and a half, no discussion. I’d never even stopped to consider what the lack of city lights did to a scene. In actuality, even the one time I went camping with the school in Sweden, I’d never even been far enough away from civilization to escape the ever-present background glow of street lights. Ademia was dark. From horizon to horizon, darkness was encroaching everywhere, with two exceptions to keep it at bay.
+
+One was a… belt in the sky. A spray of dark purple colour, covering the night sky from end to end. I might have called them northern lights, except they were clearly caused by a stretch of planets, or moons, or whatever.
+
+The other exception came from the damn capillaries. Yesterday, I’d been exhausted when we reached evening and conked out before the camp had gone fully dark. Today, even a single glance at the landscape proved to me just how I would never go closer to that damn canyon. Because the damn things glowed. Pulsed, really. Softly, like a dark light rave tuned down to background illumination, it softly pulsed, like a dormant heart. Creepy as shit.
+
+Even so, I barely gave it more than a second’s thought during our race for the camp. Why? Because of the encroaching armies of course. Well. Armies might not have been the right word. There were shapes in the dark. Movement, barely perceptible, against the dark backdrop of the Killing Fields. Oh, and a cacophony of dark, blood-curdling howls, because the scene clearly wasn’t unsettling enough.
+
+Whatever was going to happen, tonight was going to end in blood.

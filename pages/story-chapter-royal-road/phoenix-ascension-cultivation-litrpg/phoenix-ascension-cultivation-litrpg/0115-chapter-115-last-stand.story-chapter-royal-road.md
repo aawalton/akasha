@@ -1,0 +1,271 @@
+---
+id: 6485be25-9ec8-5076-830a-fea36326e60e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 115: Last Stand"
+slug: 0115-chapter-115-last-stand
+partOf: phoenix-ascension-cultivation-litrpg
+position: 115
+ownLength: 2443
+unit: words
+publishedAt: 2026-04-18
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3291037/chapter-115-last-stand"
+royalRoadId: "3291037"
+---
+
+I caught it within my Divine Sense, which stretched for quite a bit. I wasn’t sure how, but it’d somehow detected that I snatched its treasure, and now it gained some sort of renewd vigor. The only problem was that I was still underwater, and for a sea sort of creature, it was really damned fast on land.
+
+Seeing myself without much of a choice, I summoned Nirvanic Flames around me and boiled the water, creating a thin layer of steam that separated my body from the water. Using that bit of additional freedom, I swam up.
+
+Even as I advanced, the otter gained on me, and I had to say, it was very surprising. When I was halfway through the lake, it was already at the edge of the forest. By the time I advanced a little, it was already on top of the lake, and seconds later, jumped in.
+
+The thing’s speed in the water was extreme, to say the least. If I couldn’t escape it while I was in flying, in my natural habitat, then fighting it within its natural habitat would not work well for me.
+
+Crap.
+
+Before I knew it, the otter’s mouth wrapped around my leg. Thanfkully I had enough time to reinforce it with Qi, which seemed to prove enough momentary protection.
+
+It growled angrily as it let go, and finally decided to go for my neck.
+
+I almost panicked, but managed to keep a calm head and quickly thought about a solution.
+
+Wait a minute, aren’t we in water?
+
+Of course, after remembering that we were indeed in water, I quickly channeled Lightning Qi all over myself, pouring as much energy as I could into the pseudo-attack.
+
+The lake filled up with Lightning Qi faster than I could have predicted, and since I didn’t have that much resistance to it yet, it also sort of hurt me. However, considering I did have some affinity with the element, it wasn’t so bad.
+
+The otter, though, had a much less enjoyable time than I. Lage amounts of lightning coursed through its body, making it so it couldn’t move. As a water-based creature, its weakness to lightning was obvious.
+
+I wasn’t sure if Lighting Dragons would last in the water, but I made an attempt at summoning them anyway. Qi left my body as two large dragons crackling with electricity formed inside the water.
+
+They weren’t stable at first, but after a few seconds passed, and the water somehow created space within itself for the dragons to form, they became more corporeal.
+
+Letting out a muffled roar, the dragons wrapped around the otter, restraining it. The bonus effect from the paralysis, couples with the very wet environment, made it so even the attack that barely affected it before keep it in place.
+
+[Skill Lightning Proficiency(Novice) has ranked up to Lightning Proficiency(Beginner)]
+
+Well, that was nice.
+
+Taking advantage of that window, and not being foolish enough to think I could kill it even within these circumstances, I swam up.
+
+The otter tried to swim up after me, but my dragons held it firmly in place. Thankfully, the water had returned to normal water shortly after I took out the crystal, so it was far more efficient at conducting the lightning.
+
+However, I could tell that it wouldn’t take long for it to break free, so I had to hurry and get away. Using even more Qi, I fueled my flames and forced the barrier of air around me to grow. Steam somehow dissiapited within the water, creating a natural camouflage, but it wouldn’t last long.
+
+My dragons were really struggling, as I felt them weaken with every passing moment. I sent more Qi, but I couldn’t keep up with the rate at which it was being consumed while also using the flames.
+
+Sadly, I didn’t have enough experience.
+
+However, I was so close to the surface I could see the sky, just a little more and-
+
+The otter destroyed my dragons and fought off the paralysis. Not completely, but enough for it to swim faster than me, but much slower than it could have before.
+
+At that point I wasn’t sure if it could catch up to me. I summoned another two dragons and sent them toward it, but it used a weird water attack that dissiapited them almost as soon as they appeared.
+
+Not only that, while we were in water, it was true that lightning was better, but the otter was also much more efficient.
+
+It used a skill that created a tornado, which began sucking me down. In that moment I deeply regreted, and cursed the system, for not giving me more water skills. What was I supposed to do against a fucking tornado?
+
+Quickly thinking about all my skills, there were a few I tried.
+
+From Water Barrier, which broke almost as soon as it appeared, to Water Shot, which did absolutely nothing against the otter.
+
+Clicking my tongue, I tried flapping my wings to swim faster, and I was rewarded with something, at least.
+
+[Skill: Swim(Novice) has been acquired.]
+
+Great.
+
+I felt myself swimming a little better, but not anywhere near good enough to fight off against the intense suction force. As it was, I barely managed to make myself not instantly get absorbed and killed within seconds.
+
+Gritting my metaphorical teeth, I felt obligated to take a drastic measure. The one skill that could probably get me out of this situation quick.
+
+[Last Stand(Novice)]
+
+[Gather energy for a final stand against your enemy. Upon activation, the skill drains your Qi, Vitality and Stamina to give one immense burst of power.]
+
+I was really hoping my Overeater reserves would be enough for me to survive the backlash with a bit of energy. Otherwise, I could only hope my landing spot was somewhere not surrounded by monsters.
+
+Well, here goes nothing.
+
+I mentally willed the activation of the skill, and as soon as I did that, an intense amount of pain coursed through my body.
+
+It was more intense than the time I evolved while awake, and that was considering all the pain negation skills I had. My dantian emptied of QI in a few seconds, as did my Stamina and even Health Points.
+
+They fell down to a dangerously low level, to the point that I was afraid I might die. Thankfully, that wasn’t the case.
+
+The excruciating feeling only laste for a second though as an insane amount of energy flowed through my body. It was neither Qi nor Stamina, but something else altogether. One thing I was grateful or was that it didn’t seem to have used up my Overeater reserves, which I rapidly converted into Stamina.
+
+That immediately made me feel safer, as I could still fly away without risking death.
+
+Not that I was not planning on doing that anyway.
+
+With the newfound insane amount of energy, I flapped my wings and flared the flames, creating a large amount of steam that got sucked down into the tornado.
+
+However, the pressure from the steam and the lighter around me made it so I shot out of the water mere seconds after, the intense amount of energy helping me swim up a lot faster than I could have before.
+
+Finally free, I covered myself in even more flames, drying off my feathers. With a single flap, I all but teleported high into the air, and with another flap, I’d gotten out of there before the otter could even react.
+
+I flew straight toward the Hu Village, as I didn’t want to risk encountering more dangerous types of beasts. As I did, the energy began rapidly feeling my body, and not even halfway through, I’d ran out of the boost it gave me.
+
+Thankfully, the Overeater Stamina kept me flying, but I didn’t flap my wings anymore. Merely gliding through the sky, and finally out of danger, I finally had some time to contemplate what I’d done.
+
+The conclusion?
+
+I was incredibly stupid and arrogant, thinking I could fight a Spirit Beast more than ten levels above me. It was foolish, and well, I learned my lesson. I hoped.
+
+The fact that I got away was a mere stroke of luck, as-
+
+[New Nemesis has been identified]
+
+Huh?
+
+I quickly opened my Nemesis Tab and sure enough…
+
+[Name: Molten Otter]
+
+[Affiliation: The Volcano Mountain]
+
+[Age: ???]
+
+[Titles: ???]
+
+[Lvl: 43]
+
+[Cultivation: ???/NA]
+
+[Enmity Level: Deep]
+
+[Relationship: Enemies]
+
+[Status: Alive]
+
+Well, I couldn’t say that wasn’t expected, but I should say that naming its Affilitation ‘The Volcano Mountain’ was a little funny.
+
+As for everything else, well none of that information was useful to me, but I would keep it in mind. I supposed now that it was there, killing the otter would give me some sort of reward.
+
+Then again, I wouldn’t be here to kill it when I did have enough strength, did I? Ah well, the future was uncertain.
+
+While gliding through the air, I spotted a quiet-looking place to rest at. I descended and wanted to use my Divine Sense, then I remembered I had no more Qi.
+
+Carefully looking around instead, I landed on a branch and sat down, a wave of relief washing over me.
+
+That was way too close.
+
+Once again I proved to myself that I wasn’t strong enough to actually deal with those kinds of enemies. I didn’t know what I was missing. Was it stats, cultivation level, or was it just my core being too weak?
+
+By now other Spirit Beasts would have surely had far stronger cores than mine. Sighing, I started circulating the Divine Lightning Construction technique to recover some Qi. I also pulled out a stray Spirit Stone from my bag of holding and absorbed it.
+
+One thing I regretted was not keeping some of the meat, but since eating it paid off anyway, did it really matter?
+
+After a few minutes of recuperating, I sensed out a quick pulse of Divine Sense, which told me that yes, there wasn’t anything in the vicinity.
+
+That was good, as I could finally relax enough to, at least, consolidate my gains.
+
+The first to come out was the Spirit Spring Crystal, which, upon closer inspection, was far larger than the rest I had. Taking one out, I confirmed that it was about two to three times the size of a normal crystal.
+
+Another thing about it was that, instead of the nice blue hue of the other Spirit Spring sources, this one had a very deep red in the middle of it. I had no doubt it was because of the environment it was nutruted in.
+
+It was also very warm to the touch, which felt very nice, and I liked it a damn lot more than the other crystals.
+
+Part of me screamed to absorb it, but I controlled myself and put it away. It would be a great contender for my dantian, and I didn’t want to waste such a treasure.
+
+After storing it inside my bag of holding, I took out the cores I collected from the fight I had earlier.
+
+Fifteen various cicada cores, one Hairy Cicada Core, and one Night-Tusker core. I didn’t know which ones to start with… No, I did. Obviously one had to save the best for last, so I went ahead and absorbed the fifteen normal cores.
+
+[You have absorbed Hairy Cicada Guard Core]
+
+[You have absorbed Hairy Cicada Guard Captain Core]
+
+[You have absorbed Hairy Cicada Solider Core]
+
+[Average absorption efficiency at 67%]
+
+[+10 Strength; +30 Dexterity; +10 Perception; +1 Charisma; +3 Intelligence; +200 Qi]
+
+The Qi from the cores went directly to my dried up dantian, but didn’t seem to increase the limit of the Qi I could hold. Apparently, Peak Qi Condensation was truly the peak, and the only bottleneck left was actually getting all the things I needed to break through to Formation Establishment.
+
+That was quite a pain, but it was also the path I chose.
+
+Besides the very nice stats, there was something else I’d gained. Some of the energy from the cores went directly into my core, though it wasn’t enough for any sort of substantial upgrade.
+
+Were the cicadas high enough a level to actually nurture my core, or what was going on? The way Spirit Beast Cores worked seemed arbitrary at best, but maybe I was doing something wrong.
+
+[You are.]
+
+Nobody asked you!
+
+Anyway-
+
+[Are you not curious?]
+
+Not in the slightest.
+
+[I’ll tell you anyway. Seeing you act so stupid hurts me.]
+
+What-
+
+[Your Beast Core is advancing so slowly because of your cultivation. Universal laws made it so Spirit Beasts could not cultivate before a certain threshold, and you’ve broken that notion. As a result, a balance had to be created. Most Spirit Beasts would increase their core rank by eating and absorbing Qi from the atmosphere, as well as absorbing any sort of core.]
+
+[But because of your cultivation, now you can only absorb a small amount of energy from the cores, and you would need to sacrifice some of your Qi to rank it up.]
+
+What-
+
+Wait-
+
+Why didn’t you tell me that before?
+
+[You never asked.]
+
+Ugh!
+
+So what, does that mean I can use my maximum Qi to increase the rank of my core, then absorb more Qi?
+
+[No, you would have to sacrifice your maximum Qi with no way of increasing it again until you breakthrough.]
+
+Ah, what a scam!
+
+[It’s the law of equivalent exchange.]
+
+Whatever… So I should just keep hunting, right?
+
+[If you don’t want to sacrifice some of your Qi, yes. Lower level opponents will have diminishing returns, so you have to hunt higher level opponents.]
+
+[But uh, please don’t fight Spirit Beasts exponentially stronger than you, it’s stupid, and I’d like to keep my job.]
+
+Job? Exponential? What.
+
+[Don’t worry. I cannot say more, so have fun.]
+
+Oh, I will.
+
+But before I could have fun killing more Spirit Beasts, I had a few cores I needed to absorb.
+
+Grabbing the Hairy Cicada Core, I absorbed it without hesitation.
+
+[You have absorbed Hairy Cicada Core with 85% efficiency.]
+
+[+15 Strength; +25 Dexterity; +10 Perception; +1 Charisma; +5 Intelligence; +400 Qi]
+
+[Skill: Cry(Novice) has been acquired.]
+
+Pretty standard so far. Well, the skill was rather weird.
+
+[Cry(Novice)]
+
+[Let out a powerful cry that calls allies to your side.]
+
+… What?
+
+That was it?
+
+What a shitty skill…
+
+Did I seriously… Could I get rid of it? Yeah, I definitely should…
+
+I was about to do just that, until-
+
+[Compatible Skills detected]
+
+[Would you like to merge the skill Ruler’s Authority(Novice) and Cry(Novice)?]

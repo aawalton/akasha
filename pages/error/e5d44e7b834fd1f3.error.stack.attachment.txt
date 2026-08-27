@@ -1,0 +1,22 @@
+FileWriteError: createPageIfAbsent(nav): the write reported that it landed, and reading page `1431b9d3-e8a7-49a5-b6cb-25c2befff8e7` back found nothing. The file and what reads it disagree, so do not treat this write as done.
+    at readBack (/var/home/walton/repos/code/packages/shared/pages/access/src/file-write.ts:253:11)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at upsertFilePage (/var/home/walton/repos/code/packages/shared/pages/access/src/file-write.ts:434:16)
+    at ensureHomeDni (/var/home/walton/repos/code/packages/alanwalton/web/app/lib/home-dni.server.ts:33:25)
+    at loader (/var/home/walton/repos/code/packages/alanwalton/web/app/routes/home.tsx:19:30)
+    at callRouteHandler (file:///var/home/walton/repos/code/node_modules/react-router/dist/development/chunk-RJYABSBD.mjs:533:16)
+    at commonRoute.loader (file:///var/home/walton/repos/code/node_modules/react-router/dist/development/chunk-RJYABSBD.mjs:668:19)
+    at file:///var/home/walton/repos/code/node_modules/react-router/dist/development/chunk-4N6VE7H7.mjs:5045:19
+    at callLoaderOrAction (file:///var/home/walton/repos/code/node_modules/react-router/dist/development/chunk-4N6VE7H7.mjs:5097:16)
+    at async Promise.all (index 2)
+    at defaultDataStrategy (file:///var/home/walton/repos/code/node_modules/react-router/dist/development/chunk-4N6VE7H7.mjs:4722:17)
+    at callDataStrategyImpl (file:///var/home/walton/repos/code/node_modules/react-router/dist/development/chunk-4N6VE7H7.mjs:4989:17)
+    at callDataStrategy (file:///var/home/walton/repos/code/node_modules/react-router/dist/development/chunk-4N6VE7H7.mjs:4005:19)
+    at loadRouteData (file:///var/home/walton/repos/code/node_modules/react-router/dist/development/chunk-4N6VE7H7.mjs:3981:19)
+    at queryImpl (file:///var/home/walton/repos/code/node_modules/react-router/dist/development/chunk-4N6VE7H7.mjs:3748:20)
+    at Object.query (file:///var/home/walton/repos/code/node_modules/react-router/dist/development/chunk-4N6VE7H7.mjs:3596:18)
+    at singleFetchLoaders (file:///var/home/walton/repos/code/node_modules/react-router/dist/development/chunk-RJYABSBD.mjs:976:18)
+    at handleSingleFetchRequest (file:///var/home/walton/repos/code/node_modules/react-router/dist/development/chunk-RJYABSBD.mjs:1455:7)
+    at requestHandler (file:///var/home/walton/repos/code/node_modules/react-router/dist/development/chunk-RJYABSBD.mjs:1281:18)
+    at nodeHandler (/var/home/walton/repos/code/node_modules/@react-router/dev/dist/vite.js:3827:30)
+    at /var/home/walton/repos/code/node_modules/@react-router/dev/dist/vite.js:3834:17

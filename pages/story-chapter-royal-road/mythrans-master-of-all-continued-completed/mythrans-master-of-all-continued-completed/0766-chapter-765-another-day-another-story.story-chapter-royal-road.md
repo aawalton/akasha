@@ -1,0 +1,323 @@
+---
+id: 17b5c091-189b-53d2-a8a3-1f395c5d1d15
+page-type-slug: story-chapter-royal-road
+title: "Chapter 765 - Another Day, Another Story"
+slug: 0766-chapter-765-another-day-another-story
+partOf: mythrans-master-of-all-continued-completed
+position: 766
+ownLength: 3356
+unit: words
+publishedAt: 2018-11-18
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/307759/chapter-765-another-day-another-story"
+royalRoadId: "307759"
+---
+
+Unlike what he normally did, getting up after an hour, Ren stayed in bed all night. It gave him the unique opportunity to observe, and feel, his concubines as they moved around half-asleep and tried to hold on to as much of him as they could. They weren't as magical as the maids were at getting tangled up into a pile; but, Ren assumed that was because there was only three of them. He smiled and blocked his amusement from flooding out.
+
+What are your plans here, Ren? Artemis asked through their mental connection.
+
+If I can secure a good-sized piece of land, I'm going to set it up to be self-sufficient. Ren thought back. It seems lands and family are pretty important here.
+
+Are you going to make an amusement park, too?
+
+Ren held in his chuckle. I don't think they are quite ready for those kinds of experiences.
+
+Are you calling them scaredy-cats? Teepo asked and chittered in laughter.
+
+Ren had a hard time stopping himself from laughing. I think... it's more like... them being skittish.
+
+Do you think you can get away with making a whole city? Teepo asked.
+
+I doubt it. Ren thought and checked the starter city recipes he had and saw they were still greyed out. No, it looks like even Vasalor wasn't fussy on me making them.
+
+He didn't mention it the whole time you were together? Artemis asked.
+
+Maybe he is the type that thinks it was in the past, so ignore it and move on. Teepo suggested.
+
+I think you're right. Ren thought. I think it might have scared him that I almost crashed everything.
+
+Teepo chittered in laughter. It was amazing, that's for sure.
+
+It sure was. Artemis smiled. Now get some sleep.
+
+Ren gave her a mental kiss, since he couldn't reach her with his lips, then closed his eyes and drifted off to sleep.
+
+They all woke up around the same time, and it was Yuwen's turn to groom Ren. She made it nearly all the way in her human form, because she had licked him from the appendages in and skipped over his private part to save it for the end. When she reached there, he stored his underwear and she started to lick him. She tried to do it as quickly as she could; but, she had only gotten halfway down it and her body started to shift.
+
+“Stop licking.” Ren commanded.
+
+Yuwen stopped just in time as her tongue formed the rough ridges and her whole body was covered in fur. Her medium length white tail grew out and was right in front of his face.
+
+“R-Ren, I... I tried to hold it back...” Yuwen said and he felt her disappointment.
+
+“Don't worry. I'm sure with practice, you'll be able to keep your own emotions in check while doing this.”
+
+“I hope so.” Yuwen said and sat up, and her tail flapped him in the face. “Oh! I didn't mean to...”
+
+Ren reached up with one hand and wiggled his fingers at the base of her spine. Her tail flapped against his face multiple times and she squirmed and held in her moan as she lifted her backside a little to let him scratch her more and to stop hitting him with her tail. He smiled and used his other hand to touch her special place, and her purr was loud.
+
+“RRRRennnnn!” Yuwen moaned and purred, and then she finished. She collapsed on him and panted, and tried to get her purring under control. When she recovered, they all went downstairs to the kitchen and had breakfast and enjoyed some polite conversation and a good meal. After that, they read their books while Ren spent time with Artemis, then the three Pervarians chose to do training.
+
+“I thought you didn't want to do that.” Dilseffa said as Ren took out three Doppel Rens.
+
+“I know I don't have a chance... at all... but, I want to see his fighting prowess for myself.” Tiyaphi said and chuckled. “If only for a brief moment before I'm pummelled into unconsciousness.”
+
+Yuwen and Dilseffa laughed.
+
+“It doesn't work like that.” Yuwen said.
+
+“The point of training is to improve, not be beaten constantly.” Ren and the Doppel Rens said as one.
+
+“Wow.” Dilseffa said. “I can't tell which one is the real you.”
+
+“I can.” Yuwen said.
+
+“Really? How?” Dilseffa asked, very curious.
+
+“Like this.” Yuwen said and pulled her bodysuit down to expose one of her breasts, and the third Ren felt a spike of desire. “He's the real one.” She said and pointed, then pulled her bodysuit back into place.
+
+“That wasn't fair.” Ren said with a smile and nodded to her. “I appreciate your effort, though.”
+
+“Of course you do.” Yuwen said with a grin at gaining Respect. “See you in a couple of hours.”
+
+As the three Pervarians went down the stairs, Dilseffa whispered to Tiyaphi to equip her adornments before fighting. Tiyaphi nodded to give her Respect for doing her job of protecting those in the household, and the three of them enjoyed training until lunchtime.
+
+Ren already had lunch prepared and waiting for them on the table in the upstairs bedroom. He stored the Doppel Rens and they all sat down to eat. After lunch, Ren, Artemis, and Teepo introduced them to the game of Tag.
+
+“Oh... my... god!” Yuwen exclaimed when she was explained the rules. “You can't be serious!”
+
+“Oh, we are.” Artemis said with a predatory smile. “We've been playing for... well, decades.”
+
+“Teepo is still the best at it.” Ren said.
+
+“Only because you make Princess only move at a quarter speed.” Teepo chittered in laughter.
+
+“If I didn't handicap her, she wouldn't have any fun.” Ren chuckled. “No one can catch her when she runs full out.”
+
+“It's the ultimate predator and prey game!” Dilseffa said in reverence. “We HAVE to play it!”
+
+“I hoped you'd like it.” Ren said and stood up. “We'll start right after the preparations.”
+
+“It's sad that we have to leave this little time bubble we're in.” Tiyaphi said and stood as well. “I liked having this private time together, well away from everyone.”
+
+“We have to leave?” Dilseffa asked, and everyone felt her reluctance.
+
+Ren walked around the table and touched her cheek. “We don't have to leave for another day.”
+
+“But... but there's no room in here.”
+
+“Not yet there isn't.” Ren said and made Teepo pixie-size, and Artemis shrunk down as well.
+
+“Wh-wh-what... what...”
+
+“Nothing gives us more room like becoming a fourth of our size.” Ren said. “How about it? Do you want to play?”
+
+“I really do.” Dilseffa said, and Ren shrunk her down to a foot and 4 inches tall. Yuwen and Tiyaphi were next, and Ren was last. When they were all small, he told them to equip their adornments.
+
+“Don't worry about skin exposure.” Ren said and gave them armored bodysuits of platinum steel spider silk cloth. “We're going for speed and accuracy, not fighting prowess.”
+
+“We would lose instantly if fighting prowess was the point.” Tiyaphi said and equipped the bodysuit. “Your Doppel is amazing.”
+
+“You should ask Yuwen how my duel with Meccis went.” Ren grinned and looked around. “Is everyone ready?”
+
+“Who goes first?” Yuwen asked.
+
+“Since it's new game with new people, I'll go first.” Ren said and pat her on the shoulder. “Tag! You're it!”
+
+“What? WHAT?!?” Yuwen yelled as Ren laughed and ran off under the table. “Son of a...”
+
+“How did his duel with Meccis go? He's a close combat and submission specialist, isn't he?” Tiyaphi asked Yuwen.
+
+“After Rimsoh formed the magical barrier, Ren absorbed all the air out of the enclosure and suffocated him into unconsciousness.” Yuwen said, and she felt Tiyaphi's surprise. “We were all surprised.” She said, then she chuckled. “After that, he told us that none of us gave him Respect for his duels with Tatya and Meccis, and said he would challenge us all if he hadn't had to leave.”
+
+“Oh, my god.” Tiyaphi covered her mouth with a hand. “He could have defeated you all!”
+
+“He did defeat us all.” Dilseffa said, and Tiyaphi stared at her. “He came back.”
+
+“Oh, no.” Tiyaphi said. “How much Respect did you lose?”
+
+“None. He challenged us to a training swords duel.” Yuwen said.
+
+“He... he...” Tiyaphi shook her head. “He's a remarkable man.”
+
+“He really is.” Yuwen said and pat her on the top of the head. “Tag!”
+
+“HEY!” Tiyaphi yelled as Yuwen ran off, and she looked at Dilseffa.
+
+“I'll take it.” Dilseffa said and held her hand out.
+
+“But...”
+
+“I'm hunting Ren.” Dilseffa said with a predatory smile. Tiyaphi smiled back and held her hand up in a high five gesture, and Dilseffa slapped it.
+
+“Go get him.”
+
+“Oh, I will.” Dilseffa said and ran off, quick as a bunny.
+
+“Damn, look at her sprint.” Ren said from beside Tiyaphi, who jumped as Ren appeared beside her.
+
+“Ah! What... hey, where did...”
+
+“I never left.” Ren said with a smile and pointed to the table leg about 2 feet away from them. Tiyaphi laughed, and he put an arm around her waist.
+
+“This is nice.” Tiyaphi said a minute later.
+
+“It is, but it won't last long.” Ren said.
+
+Tiyaphi sighed. “Yes, tomorrow you need to leave and we will be on our way in the caravan.”
+
+“I meant a lot sooner than that.” Ren said and grinned. “Dilseffa just figured out where I am.”
+
+“Wh-what?”
+
+“Bye!” Ren said and let her waist go and jumped to the side at the last second as Dilseffa ran by like a bullet and her hand had just missed him. Tiyaphi watched with wide eyes as Dilseffa didn't miss a beat as she hopped up into the air with her strong legs and landed on the table leg, then pushed off at her full strength and practically flew after Ren.
+
+“Did she... she just...”
+
+“It's called a Ricochet Bounce.” Teepo said and floated in front of her. “I've never seen one done so well before.” He chittered in laughter. “She must have lots of related skills to her legs.”
+
+“She's a bunny.” Tiyaphi chuckled. “Her whole family has similar and different skills.”
+
+“Cool.” Teepo said, then chittered in delight. “Oh! She did it again and tackled him.”
+
+“She didn't!” Tiyaphi exclaimed. “He has Toughness 10! She's killed herself!”
+
+Teepo chittered in laughter. “It's okay, doctor. Ren turned it off.”
+
+“He WHAT?!?” Tiyaphi yelled.
+
+“Oh, great! Thanks a lot, doctor! Here he comes!” Teepo fluttered in place for only a moment more. “You better run!” He said and zoomed away.
+
+“What...” Tiyaphi turned to look as she felt him enter her Aura, then he was suddenly stopped in front of her and gave her a big kiss on the lips.
+
+“Tag!” Ren said and ran off in the other direction.
+
+“Dammit!” Tiyaphi exclaimed and glanced around, caught a glimpse of Yuwen's white hair, then ran after her target. As she ran, she felt her instincts kick in and she let her own predatory smile appear as she quickly approached her prey.
+
+*
+
+“I wonder what he's doing in there?” One of the attendants asked the cooks who were making breakfast for the caravan before everyone got up to eat.
+
+“You mean King Ren?” One of the cooks responded.
+
+“Yeah.”
+
+“I heard he had to leave for the night on Adventurer's business, so he might not even be back yet.”
+
+“Will they come out to eat without him?”
+
+“Why do you care?” The cook asked.
+
+“I don't really.” The attendant said and his hand rubbed the emblem on his chest through his clothing. “I just feel better when he's around.”
+
+“That's just a feeling of belonging.” The cook said and didn't rub the emblem on his chest. “It gets stronger the closer you are to your patron.”
+
+“I don't know how I can have a second patron, though.” The attendant said.
+
+“You don't have a second one.” The cook chuckled. “The other one was in name only.”
+
+The attendant sighed. “What am I going to tell my family?”
+
+The cook laughed. “The truth obviously.”
+
+“But...”
+
+“Look, you can always ask him to exile you.” The cook said.
+
+“What? No!” The attendant said. “I'd lose... lose...”
+
+“Yeah, that's the problem.” The cook said and kept cooking. “I'm not going to ask, since he doesn't seem to care what we do with our own lives.”
+
+“Hey, that's not true.” One of the cooks said from the next fire. “He cares, he just doesn't want to interfere.”
+
+“He sure interfered with Dilseffa's life.” The attendant said, and the other cook laughed.
+
+“He saved her life, then.”
+
+“Rimsoh said he never reached that point...”
+
+“HA!” The cook barked a laugh. “Yet. He said he hadn't reached it 'yet'.”
+
+Everyone went quiet for several minutes, and all you could hear was the crackling of wood and cooking food.
+
+“I wonder when he'll come out of there.” The attendant whispered and gazed at the 5 story tower.
+
+*
+
+They finished their game of tag, with Teepo the clear winner by only being tagged once for the whole time they had played. After changing into casual clothes to clean themselves up, they decided to just sit around and spend time together. Ren took out a nice couch and he sat down, and Yuwen quickly sat on one side and Tiyaphi sat on the other.
+
+“I'll sit over here.” Dilseffa said and went to sit on the other side of Yuwen, and Ren dropped a cushion on the floor in front of him.
+
+“Or you can sit here.” Ren said and put his arms around the two women on his sides.
+
+Dilseffa thought about it for a moment, shrugged, then went and sat down on the cushion and faced them.
+
+“Turn around and lean against the couch, please.” Ren said, and she raised her eyebrows at him, then did as he asked. He moved his knees out to the side, and Dilseffa fit between them and was held by his calves. “Shall I tell you another story?”
+
+“Please.” Tiyaphi said and snuggled in.
+
+“What one should I tell you?” Ren asked as he thought about it.
+
+“Ooo! Tell them about Lord Tathalyn!” Teepo said out loud.
+
+“That's one I haven't put into a book yet.” Ren said. “That was definitely a weird situation.”
+
+“Ren.” Dilseffa said and leaned her head back to look up at him. “After you tell us, can... can we see your other books?”
+
+“Of course. I'll even give you copies.” Ren said and he felt their happiness. “Where should I start? Oh, yes. I needed High Elven building plans so I could make a city for the High Elves and elflings I helped rescue from the ghoul infections...”
+
+Ren told them how his meeting the High Elf came about and how he successfully completed the impossible task by cheating. He felt their objections to his cheating comment, and continued on and told them how he found Lord Tathalyn's secret plans after the city appeared. Ren felt their hatred for the High Elf betraying his trust like that, and he gave them a feeling of thanks and appreciation. When he ended the story with him sacrificing himself to save his friends and everyone he had healed from the ghoul infection, no one said anything for several minutes.
+
+“You gave your life for your people, even though most of them rejected submitting to you.” Yuwen said, her voice full of reverence. “You truly are a great man.”
+
+“I didn't know I was saving the city when I ran off like that.” Ren said. “I died instantly and didn't discover the extent of the damage until the next time I went to the city and saw the crater.” He laughed. “What a sight that explosion must have been!”
+
+“We couldn't look at it because it was so bright, so missing it wasn't a big deal, unless you wanted to go blind.” Teepo chittered in laughter, and everyone laughed.
+
+After that, they all helped to make supper and ate it at the table, then changed into appropriate sleeping attire and climbed into bed. The Sustenance Rings kicked in that night and they only had to sleep for an hour to get a full night's rest. When they woke up, it was Dilseffa's turn to groom Ren.
+
+Like Yuwen had done it the day before, she started at the end of his arms and legs and worked inwards, to end at his private area. Ren stored his underwear and they exchanged looks, and she didn't even try to lick him before she changed. She was quickly covered in fur and her ears slid up and grew out, and they stuck straight up. Her powder puff tail popped out and she felt Ren's slight disappointment.
+
+“Dilseffa, I...” Ren started to apologize and she quickly stuck out her tongue and licked his member. “GAH!” He exclaimed, then shock replaced his surprise. “Wait a second! That felt like a real tongue!”
+
+Dilseffa ground her teeth in happiness as she twitched her whispers at him. “Not all of us have ridges or spikes on our tongues.”
+
+“Show me, please.” Ren said, and she stuck out her tongue. “You mean you can...”
+
+“Not fully.” Dilseffa said and her straight ears rotated and fell down behind her head. “My teeth are too long to take you into my mouth.”
+
+“You can finish the grooming without doing that, right?” Ren asked, and she nodded slightly. “Then go ahead.”
+
+“Thank you, Ren.” Dilseffa said, ground her teeth a little more, then started to lick him completely. Her tongue was too short in this form to give long licks, so she darted her tongue in and out quickly, and covered him in little licks instead. It was a sensation that he hadn't felt before, so he enjoyed it immensely and quickly finished. Before he could thank her for pleasing him, she quickly licked up the mess he had made and her whole body shivered. She ground her teeth in happiness and moved up to lay down beside him.
+
+“Thank you.” Ren said and rubbed the spot between her big brown eyes and her ears. Dilseffa ground her teeth again and closed her eyes as he kept petting her.
+
+“Breakfast.” Yuwen said and came into the bedroom, and they all enjoyed another meal. “This is really going to throw off our days.”
+
+Ren chuckled. “Having two days to do one day of work makes everything a lot easier.”
+
+“Is it?” Artemis asked. “I seem to remember someone doing two days of work in one day.”
+
+“Or a week's worth.” Teepo said and chittered in laughter.
+
+“Or a thousand years worth!” Ren escalated the number ridiculously and laughed, as did everyone else, then the three Pervarians felt that he wasn't joking or lying.
+
+“Wh-what... you...” Yuwen started to say, and Ren took her hand.
+
+“If we measure my life here by adding accelerated time, I'm very, very old.”
+
+“More like ancient.” Teepo said. “What does a few million years mean if they don't count, right?”
+
+Ren laughed. “You got it, Teepo.”
+
+“Millions...” Yuwen whispered.
+
+“...of years...” Dilseffa whispered.
+
+“...old.” Tiyaphi whispered, then her hand touched Ren's face. “I was kind of joking the other day when I blurted out that I loved you.” She said, and he felt her tender and caring feelings. “For someone as long-lived as you to pay attention to me, let alone do the things we've done with each other, is the best compliment I could have ever received.”
+
+“Tiyaphi, I... I'm the one that's complimented.” Ren said and put a hand on hers. “That you don't hate me...” He looked at Yuwen and Dilseffa. “That none of you hate me for changing your lives like I have, is the best compliment I could have.”
+
+They felt his deep sincerity and it touched their hearts, then they gasped as his feelings turned into a deep well of desire.
+
+“Besides letting me lick you, that is.” Ren said with a big grin, and the three of them blushed deeply.

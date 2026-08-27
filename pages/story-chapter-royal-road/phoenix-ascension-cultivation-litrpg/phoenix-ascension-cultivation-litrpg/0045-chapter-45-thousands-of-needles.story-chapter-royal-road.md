@@ -1,0 +1,257 @@
+---
+id: bf8360b8-031e-5b1a-b101-a3028af86619
+page-type-slug: story-chapter-royal-road
+title: "Chapter 45: Thousands of Needles"
+slug: 0045-chapter-45-thousands-of-needles
+partOf: phoenix-ascension-cultivation-litrpg
+position: 45
+ownLength: 2726
+unit: words
+publishedAt: 2025-11-05
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2735636/chapter-45-thousands-of-needles"
+royalRoadId: "2735636"
+---
+
+With a quick wave of my wing and making use of the Precise Flame Control, I created more than two dozen needles. They were as thin as a normal needle, and the heat emanating from them made the air bend.
+
+They were beautiful, glowing with a beautiful ember-like pattern. I sent them out almost immediately after creating them, wanting to test out their strength. The cultivator nearest to me looked to be in the Core Formation realm, dressed in the clothes of the flying sword sect.
+
+He was hit by the explosion of the Twin-Headed Golden Core Flame Dragon, and he was thrown closer to the nest. He must not have noticed me, as his filthy sword shot toward Mother. Seeing that he was so near to me, he made the perfect target. I exerted some mental strength and sent half of the needles flying toward him.
+
+The air whistles as they shot straight toward his head. The first one melted upon impact, deflected by a barrier. So did the second, third, and fourth ones. By the time the sixth one hit, the cultivator realised that he was being attacked, as his barrier began to crack.
+
+My seventh needle pierced through the barrier, and I did my best to control the rest to fit through the literal needle-wide gap in the barrier. The eighth needle missed the mark, the ninth did as well, but the tenth and eleventh entered through the hole created by the seventh, hitting the cultivator’s neck.
+
+The damage they did wasn’t nearly as much as I would have liked. They merely burned the man’s neck, which was extremely disappointing. However, it was my first try. If those were the Myriad Qi Needles, the story would have been different.
+
+Since they somehow hit the internal parts of the body, phasing through the flesh and hitting the spiritual part of the target. However, those needles created using Precise Flame Control were too weak.
+
+They were only something I created on a whim, but since they weren’t tied to a skill, I had no doubt I could rapidly improve them.
+
+The twelfth needle also hit the man, and he let out an anguished scream as it pierced his flesh. The wound wasn’t deep, but enough for me to see some hope.
+
+Looking at the other half of the needles, I exerted more will and made them longer, thinner, and hotter. Tiny bits of fire oozed out of them, but that was hard to see unless you looked really closely.
+
+Next, I added more fire, condensing it and forcing it to become more solid. That would make the needles even deadlier.
+
+[Skill: Precise Flame Control has reached the [Intermediate] rank!]
+
+Awesome! I could already feel my proficiency and control over the flames increase. With the new improvement, I repeated what I’d done before a few times until they were at least three times as deadly as before.
+
+With that done, I turned my attention back to the battlefield. Mother was still clashing against that black fake Phoenix, but she began to tire. Her attacks weren’t as fierce, her reflexes slowed down, and she took more hits.
+
+The cultivators began using their own techniques as well. Besides shooting out Weapon Qi, they shot out elemental powers, chains made out of Qi, ethereal beasts that pounced on Mother as they flew through the air, and the flying sword people finally started using flying swords.
+
+They cut and slashed at Mother, but her feathers either deflected them or she healed so fast that they barely left a scratch on her body. That was pretty awesome, but I knew that if things kept going like this, it wouldn’t end well.
+
+Won’t end up well? Would Mother fail? Will she die? I’d never considered that as an option. After all, she was Mother. A grand and powerful Phoenix. How could she die? That was inconceivable.
+
+I couldn’t allow that to happen!
+
+The biggest problem was still the Nascent Soul bastard, who kept using his stupid techniques to harm Mother. He seemed to be from the Phoenix sect. I would be willing to bet most of his moves involved fire, which was about as useful against Mother as putting out a forest fire with a bucket.
+
+However, he seemed quite proficient in talisman formations, which was worrying. He hadn’t used them in quite a while, but that was because he had the black fake Phoenix infused with Death aura.
+
+That was a problem, as Yin and Yang clashed when they met. However, his Qi attacks were also a reason for worry. As a Nascent Soul expert, his keen senses allowed him to find the best moment to wound Mother.
+
+Her Phoenix Reflex and life experience allowed her to dodge out of the way; however, there was only so much time she could keep up with that.
+
+Luckily, the Nascent Soul bastard was also beginning to tire. No doubt controlling that fake Phoenix and keeping his concentration high would take its toll on his body and mind. His Qi reserves, while immense, could not be big enough to control that thing for such a long period of time.
+
+Therefore, I had to do something. Currently, the cultivators who support the others by handing out high-quality pills have to be taken out. Of course, that wouldn’t put a stop to their supplementing, but it would definitely help.
+
+I was worried about the Nascent Soul bastard using pills to keep up with his Qi usage, but it didn’t look like he had any. If he did, he wasn’t willing to use them. That was understandable, after all, Nascent Soul-level pills could not simply be given out as candies.
+
+If I could get those fire needles to a better level, I could probably inflict some sort of wound on him. One needle may not do it, a hundred may not do it, a thousand may not do it, not even ten thousand could. However, I could make as many as I wanted, and as long as I had energy, I would keep it up until he dropped dead.
+
+I took a look at my Overeater reserves and noticed that I still had more than half. The consumption of energy by the nest had slowed down, no doubt something Mother had commanded, so I would not be put in danger.
+
+Looking at her, my chest tightened. I couldn’t allow her to die. I had to do whatever I could to keep her alive. I had to.
+
+I sent out the other half dozen needles to attack the cultivator from the Flying Sword Sect. He’d already begun running away, but from the moment my skill got a rank up to the moment I sent out the other half of the needles, only three breaths of time passed.
+
+While he wasn’t slow, he wasn’t fast enough to escape the radius of my attack. The first needle whistled through the air, and he stopped to dodge it out of innate fear. The second needle pierced through the barrier like a knife through butter.
+
+The rest of the needles followed suit, only being impeded for a moment before piercing through his legs, arms, chest, and neck.
+
+Regrettably, he didn’t die, but the damage I’d done was enough to make him cry out in rage. He took a pill out of his bag of holding and threw it into his mouth. All the damage I’d done to him healed completely in less than an instant.
+
+After doing that, he summoned a sword and jumped on it, his speed having increased by at least three times.
+
+With that, he was out of the range of my attack, joining his fellow disciples. They exchanged some words, and the rest looked at me with confusion and apprehension.
+
+Oh, piss off!
+
+Not only did he not die, but he was bad-mouthing me as well? Now that was just rude!
+
+However, my experiment was successful. I created another needle and sent it toward the group of cultivators, wanting to see just how far my range of attack was.
+
+It stopped halfway to them, not even reaching the Nascent Soul bastard. I clicked my tongue and began thinking of a solution.
+
+Mother was quite far away as well, but since they were attacking her, maybe she could lure them closer?
+
+But I needed a way to transmit my thoughts to Mother. Err… She probably used some sort of telepathy skill, right? Then the answer was simple… I just had to acquire Telepathy!
+
+[Telepathy]
+
+[Allows the user to communicate with a target mentally. The transmission can be blocked at will by the receiver, and has an effective range of a few miles.]
+
+[Cost: 10 Skill Points]
+
+What a scam! System, are you serious?! Ten entire Skill Points?!
+
+[...]
+
+[I didn’t make the prices, you know?]
+
+Damn it! Fine, buy, buy! Wait- does it use Qi?
+
+[It doesn’t use Qi, but using it the first few times will take a toll on your mental strength.]
+
+That’s fine, I don’t care. I’ll buy it!
+
+[Purchase Complete]
+
+[Skill Points Remaining: 25]
+
+[Skill: Telepathy [Novice] Acquired]
+
+‘Mother!’
+
+I didn’t stand on ceremony and instantly started using it. As System said, a skull-splitting headache washed over me, but I endured through metaphorical gritted teeth.
+
+‘Little Flame? How- Never mind, what is it?’
+
+‘Mother, I have a plan, please lure them closer.’
+
+‘Plan? Little Flame, don’t do anything suicidal.’
+
+‘Mother, please trust me.’
+
+She paused for a moment, and I took the opportunity to take a deep breath. The pain System talked about wasn’t a joke, but I endured worse.
+
+.
+
+‘Alright, I will trust you.’
+
+After Mother communicated that to me, she let out a screech and broke off from the fake Phoenix. She took to the skies in a wave of flames, fire burning through the sky as she moved closer to the nest.
+
+The fake Phoenix immediately followed suit, as did the Nascent Soul bastard and the rest of the cultivators.
+
+Like moths to a flame.
+
+I thought, hoping to be able to relieve some pressure off Mother with my next attack. It was risky and would no doubt leave me stranded for energy.
+
+‘Mother, please try to send any corpses to the nest. Just like you stole— er, took the others from me to recuperate your strength. We should split what I’m about to do. I’ll take one third of the corpses, you take the rest.’
+
+‘Little Flame, just what—’
+
+‘Trust me, please.’
+
+‘Alright…’
+
+She spread out her wings and created another ocean of fire. However, this one didn’t do any damage to the cultivators, but if I had to guess, it was the only way for her to exert her will upon the battlefield.
+
+‘Will you please tell me what your plan… is…’
+
+However, before she could finish her thought, a hundred needles made out of Phoenix Fire appeared above my head. After that original one hundred, another thousand, then after that thousand, another thousand.
+
+They were all made similarly to the latest dozen I’d made beforehand, those that managed to hurt the Core Formation cultivator.
+
+After making those two thousand needles, my Overeater reserves had disappeared, and even my own energy had been used up.
+
+I took a risk and created five hundred more, then sent them raining toward the cultivators. A fury of fire, needless, turned the sky dark, and the heat and light they emanated as a whole resembled a very tiny star.
+
+Shock and horror appeared on the cultivator’s faces, though there was little they could do about their current situation. Barriers and talismans were thrown out in an attempt to stop my attack.
+
+As for how much of an effect they would have, I would soon find out.
+
+‘Little Flam,e what are you doing?!’
+
+I didn’t reply. I couldn’t exactly, as all my mental power was being used to control these two thousand five hundred or so needles.
+
+Some barriers resisted better than others, some cultivators had better fire resistance than others, and some cultivators were weaker.
+
+Needle after needle disappeared and disintegrated as they hit barrier after barrier. Some managed to pierce through, hitting the cultivators, while some didn’t do anything at all.
+
+I focused my attacks on those with weaker defenses, sending the majority of the needles toward them. Amongst them was the flying sword cultivator I’d hit before.
+
+He raised his sword to defend, which did a good job against the first one hundred and fifty needles, but after two hundred needles hit his blade, it melted in his hands, and the following dozens of needles pierced his eye sockets.
+
+[You have slain Fei Bing Hua, Cultivator Lvl 18]
+
+[XP Acquired]
+
+[You have Leveled Up]
+
+[Elemental Phoenix Lvl 15 has become Elemental Phoenix Lvl 16.]
+
+Just like that, his corpse fell toward the ground in a blazing glory. It disappeared right after, and his two legs appeared beside me, accompanied by a tiny flame. Some of my energy reserves have also recuperated thanks to the level-up.
+
+I couldn’t eat the legs just yet, as I had to fully focus on the needles. However, soon after the first one fell, many more followed.
+
+[You have slain Lon, Cultivator Lvl 16]
+
+[You have slain Rua Hon Mei, Cultivator Lvl 12]
+
+[You have slain Xing Fu Hing, Cultivator Lvl 17]
+
+[You have slain Mei Ruo Ran, Cultivator Lvl 11]
+
+[You have slain…]
+
+[XP Acquired] x 7
+
+[You have Leveled Up]
+
+[Elemental Phoenix Lvl 16 has become Elemental Phoenix Lvl 17.]
+
+[You have Leveled Up]
+
+[Elemental Phoenix Lvl 17 has become Elemental Phoenix Lvl 18.]
+
+With that, all of my needles have been used up. All of the two thousand six hundred needles disappeared after killing and weakening the cultivators. The corpses of those I killed went toward Mother and me.
+
+Without hesitation, I began eating, or rather, devouring the pieces Mother sent me. One after the other, flesh, bone, and blood disappeared inside my stomach.
+
+[Skill: Overeater has reached the [Beginner] rank!]
+
+And with that wonderful news, my Overeaters' reserves had almost doubled! That also meant that the fat on my body increased. If I had a mirror, I bet I would look like a round ball more than any sort of bird.
+
+But it was well worth it if I could use so much energy. What did I care about beauty anyway? I was a Phoenix!
+
+‘Little Flame, what in the world was that?’
+
+Mother’s transmission sounded much more energetic. No doubt, eating two-thirds of eight Core Formation cultivators would allow her to go for much longer.
+
+‘I used Precise Flame Control to create needles, nothing much.’
+
+‘What?!’
+
+Well, that wasn’t the reaction I expected, wasn't it that surprising?
+
+‘That’s amazing! Oh, I wish I had the time to do that as well. How come I never thought of that…’
+
+I glanced toward Mother’s fight, and it seemed like she was quite busy fighting with that black fake Phoenix. After recovering her energy, the fight began looking more even. Though she didn’t have the same immense advantage she had before, it wasn’t as bad as it could have been.
+
+A shiver ran down my spine all of a sudden, feeling an icy glare lock onto me. I turned and saw the Nascent Soul bastard look at me as if I had killed his disciple. Well, I probably did, but he was angrier at the fact that I helped Mother, most likely.
+
+What do you want? Go die, piss off, and leave!
+
+I tried transmitting my voice via Telepathy, but it didn’t seem to work in the slightest. He didn’t get my message, nor did he have any reaction. What an asshole.
+
+With my energy recovered, I spread my wings and used all my mental power.
+
+A hundred needles.
+
+Five hundred needles.
+
+A thousand needles.
+
+Three thousand needles.
+
+My limit was near, but I still had some mental energy and stamina left in my body.
+
+The three thousand needles filled the sky, and a massive headache fell upon me. All of my stamina had been used up, and I could not even move anymore. If it weren’t for the  Overeater reserves, then even a thousand needles would be too much. My consciousness began to fade, but I managed to send one final order with the last bit of my will.
+
+Go kill that fucking bastard!

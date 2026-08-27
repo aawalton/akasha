@@ -1,0 +1,207 @@
+---
+id: f7a80577-eff2-5abf-bcba-053d5932134c
+page-type-slug: story-chapter-royal-road
+title: "055 - The World Disagreed"
+slug: 0055-055-the-world-disagreed
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 55
+ownLength: 1904
+unit: words
+publishedAt: 2026-07-10
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3656106/055-the-world-disagreed"
+royalRoadId: "3656106"
+---
+
+I landed on deck and spent one more ATP to be human. Up here the Oath was active again. Lying in a deck chair, I waited for Jamie while taking a moment to process the Task Completion.
+
+[Arcane Awakening - Passive
+
+Your mental Attributes now contribute to maximum Mana and Mana regeneration.
+
+Intellect increases Mana capacity.
+
+Intuition improves Mana recovery.
+
+Charisma provides a smaller bonus to both.]
+
+My maximum mana went up to 24.
+
+I leaned back and took a moment to appreciate the sight. The entire boat was dark. While I could hear the quiet whirr of electricity from inside, every window and every light on the outside had been covered.
+
+I had never seen so many stars in the night sky before. Eventually I'd need to ask Gabriel about aliens. Was Hell also attacking other planets? Or did none of those lights in the sky matter to this conflict?
+
+"Day 7: I'm pretty sure that if I had shifted you into the demon shape just when Jason had that panicked look on his face, his flight instinct would have turned into a fight instinct."
+
+"Damn, Lucy. That's a rough one."
+
+"You wouldn't have killed him. But it would have pushed him to our side for certain."
+
+A brief flash of light intruded into the darkness when Jamie opened the hatch to join me on deck. He sat down on a deck chair next to me.
+
+"Beer?" he asked.
+
+"Hell, no."
+
+There was a hiss when he cracked open his own can. Beer smelled even worse to my new senses.
+
+"Is it beer or booze you dislike?"
+
+"Both. Beer tastes horrible. And drunken Eve is my least favorite Eve. Which I say knowing that Claire has a Devil-Eve in her head."
+
+"That bad, huh?"
+
+"Yeah."
+
+"Do you want to talk now?"
+
+"No. But I should."
+
+"Why?"
+
+"It's not just a me-thing. It's also opsec."
+
+Jamie sipped his beer. "Whenever you are ready."
+
+I turned away from the night sky and sat up so I could meet Jamie's eyes.
+
+"It's Jason. I have good reason to think that he had planned to kill me."
+
+He drank another gulp. "Fuck."
+
+"I haven't told anyone but you and Claire. But tomorrow I'll go and tell Roslyn. I have no idea what to do about this, but he's her kid. Maybe she can talk sense into him."
+
+"I could try?"
+
+"No. We are too close. If he assumed I sent you, he'd both dismiss your words and think even less of me."
+
+"Shit. Yeah. How certain are you about this?"
+
+"Pretty certain."
+
+We sat in shared silence for a while. Eventually Jamie stood up and held out a hand.
+
+"Nothing you can do about it tonight. Let's join the others. The dogs will cheer you up."
+
+I took his hand. "They might. But I will not join your Dungeons and Dragons game."
+
+"You knew we were playing?"
+
+I tapped my ear. "Can't help but overhear."
+
+"There is a fully set up druid character sheet, though. Just need to fill in the details."
+
+"A druid? That's like a reverse power fantasy at this point. I might be tempted if there was a spot for a fighter, though."
+
+Jamie grinned as he lifted the hatch leading under deck. "We might be able to arrange something."
+
+A minute later I was buried under dogs again, trying to work through my fighter's backstory with Helene.
+
+In the morning, I was woken up by the sound of the engine thrumming to life. There were voices, too, but I pulled my pillow over my head. The world could do another ten minutes without me.
+
+The world disagreed.
+
+Shortly after the engine died down again, heavy footsteps thumped across the boat. The one word I could make out, despite my best efforts, was my name. I jumped out of my bed while the footsteps approached my room. Someone was coming for me.
+
+This room was a horrible staging ground for a fight. But if push came to shove, I could always swap to something small, like the cat, and probably run past the intruder.
+
+But the steps stopped in front of my room, followed by banging against my door. They knocked—they didn't come to kill me. Of course they didn't. This was a sanctified space. My friends wouldn't have told a killer where my room was. Wouldn't have navigated the boat to shore so they could get on board.
+
+"Eve!" Roslyn shouted, followed by more knocking.
+
+I opened the door. "Roslyn?"
+
+Roslyn was panting heavily. I watched her force the fury off her face.
+
+"Eve. Have you seen Jason? After your rooftop talk yesterday?"
+
+Tendrils of icy cold dread spread inside.
+
+"No. What happened?"
+
+Roslyn leaned against the door frame. "He's gone. He often is. But this time he left the party. And he hasn't stayed out overnight before. What happened on that rooftop yesterday?"
+
+"We—I… I tried to talk to him. I had promised to do so when we raided the Gnoll Fortress. He—I think he wanted to kill me, Roslyn. Not there. But he had plans. And my class ruined them. He got very angry and ran."
+
+Behind those eyes, something broke. Roslyn had survived being impaled on a broken gas pipe, nearly freezing to death in a flimsy tent, the loss of her husband, and an entire week of the apocalypse. There was a flicker of her own Wrath, but it died with the tears. She had tried to save her son, and now she thought she had failed.
+
+I pushed past the sobbing woman as she sunk to the floor.
+
+"I'll go and find him. Maybe we can pull him back. I will not give up on him." I left Roslyn behind.
+
+Up on the deck, Stephen and Liz were fastening the boat to the shore.
+
+"Eve? What—" Stephen began, but I cut him off.
+
+"I'm off looking for Jason. Get everyone to the club. This might be a trap. Keep an eye on my health bar. If I suspect a fight and need assistance, I'll stab myself in the hand once. I'll try to buy time and to release a balloon. Keep your eyes open."
+
+I shifted into my demon scout shape and activated Cloak and Jaunt.
+
+"What was that?" asked Stephen.
+
+Liz waved him off. "We got it, Eve. Good luck."
+
+I left them behind. As soon as my cooldown ran out, I ditched the demon shape and turned into the hawk. Only in flight did I check my daily rotation. Dread wormed deeper into my mind.
+
+Grey Squirrel, Mixed Breed (Horse), Wolf.
+
+I had no idea which horse I had any emotional attachment to, but the entry felt foreboding. The wolf even more so. I no longer had to pick between hyena and Golden Retriever for which tracker to pick.
+
+A member of the pack was lost, and Fate had given me a tool to find him. It only didn't feel like a handout at all.
+
+A trap had to be the most likely scenario. That he took something from his devil to enable him to take me on. The only ace up my sleeve was the cloak spell. That's why I didn't bring anyone else along. If this was an ambush, my only hope was that I could spot it before it sprung.
+
+I didn't want to think about scenarios in which this wasn't a trap.
+
+At the club, I swapped to the wolf shape, and an entirely new olfactory world opened up. Every movement around the building stood out in stark detail. It was like a window back in time. Even from the ground I could detect the traces the two of us had left at the edge of the roof.
+
+After a full run around the perimeter of the club, I had identified the most recent trail left by Jason. Without more experience, I couldn't tell how old it was exactly. Neither could I interpret Jason's emotions. There were nuances to his trail that I was certain were related to some, but I was unable to decipher them.
+
+["What are the most likely gifts Hell could have given him to counter me?"]
+
+"You underestimate Hell's ingenuity. The one you don't see coming," Lucy said.
+
+"Something like the Cleanse spell to force you to fight in your half-dragon shape," Gabriel said. "But those things follow a certain logic. He wouldn't have a lot of mana, it wouldn't last very long. Unless it is blood magic and he sacrifices his own health to cast it. In any case, I recommend you run if you get hit by any unexpected spell."
+
+"If I were him, I'd take Ash hostage."
+
+["Got it. Any sign of a successful ambush and I run. And if I get the drop on him?"]
+
+"Your objective is taking him captive, yes?"
+
+["Yes, Gabriel, it fucking is."]
+
+"Gouge out his eyes and break his arms."
+
+Exactly what I had expected and prayed wasn't the answer.
+
+But as I approached the East River, my prayer changed. Now I really wanted to be misinterpreting the new signals I was catching up on.
+
+There were traces of a fire. Burned rubber, fabric, and flesh. They led out onto Hell Gate Bridge. Parts of it had collapsed on the first night. Next to one such spot, the ground was charred. A car had burned down here. And in it, a human. Around and above it, the damage was bad enough that I knew it wasn't just a fire. A bomb had killed the human. There were fresh marks on the asphalt, leading into the hole in the bridge, where the burned-out car had been shoved into the river.
+
+Before I dove, I circled the spot. Looking for signs of any other organic being. Of anyone setting up this trap. Traces were there, but all much, much older than Jason's trail. And nearby, folded and tugged under a rock, the cloak.
+
+The Elven Cloak. The item I had given Jamie to give to Jason. Because it would serve him better than it would have served me.
+
+Folded neatly and preserved—smelling of fire and burned flesh. My words from last night echoed through my mind.
+
+We take any advantage we can.
+
+I cancelled out of the wolf shape and pulled the cloak, the evidence, into my inventory. Then I pulled a glow stick out of my inventory, cracked it, and jumped into the hole the car had been shoved into. Mid-fall I turned into the octopus shape.
+
+It felt much more at home in water and being regular-sized than on land. I didn't linger to appreciate the comfort. I dove to find the car wreck sitting at the bottom of the river.
+
+The corpse in the driver's seat had died quickly. The explosive had been installed in the steering wheel and had obliterated much of the upper body. Even severely burned, I was certain it was him.
+
+I returned to the surface and the wolf shape once more and did another search of the area. No trails of any living culprit. That left two suspects.
+
+The Wyrm or Claire.
+
+I cast Seek the Unseen, targeting animated, inorganic bodies. One was hiding in a building right along the coast.
+
+We were eight days into the end of the world.
+
+We had three weeks to kill two warlords.
+
+A teenager had planned to murder me.
+
+And my ex had gotten him first.

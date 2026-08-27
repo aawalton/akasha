@@ -1,0 +1,181 @@
+---
+id: 690ba7cd-6120-56f6-9633-574166fc97f6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 41 – Working as a Team"
+slug: 0041-chapter-41-working-as-a-team
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 41
+ownLength: 1817
+unit: words
+publishedAt: 2025-10-29
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2713474/chapter-41-working-as-a-team"
+royalRoadId: "2713474"
+---
+
+As the snake wriggled helplessly on the ground with its belly exposed, Liora cursed the weakness of her Magpie Disguise. Unfortunately, there wasn't much she could do about it. Not without revealing her more monstrous form. Maybe she'd be able to do it in time—once she was sure that the group trusted her. But it was too early for that.
+
+The snake, which had been wriggling on the tunnel floor, finally turned itself upright, Liora's paralysis probably weakening at this point. However, Serena gave it no time to rest. She hit the ground with her foot, creating tremors that resulted in sharp spikes protruding from the ground.
+
+She already knows two types of magic? Impressive!
+
+Can you be impressed after we've defeated it?
+
+The snake dodged the spikes, rolling to its side for the tough back scales to take the brunt of the attack. However, a few of the spikes did manage to cut into the soft underbelly, if only slightly.
+
+"Get its underbelly! It must be a weak spot," Serena called out, seeing bits of blood drip from the injuries.
+
+Kiva jumped into action, trying to catch the snake again. But it didn't want to be caught and sent another barrage of rocks their way. Liora and Kiva depended on their agility to get out of the way, but the weasel girl proved to be too large to dodge everything at such a close range. One rock nabbed her on the shoulder, while another made a nasty gash in her ear.
+
+Serena, meanwhile, had retreated with her brother and erected a shield to protect them both. She winced when the rocks collided with the shield, but it held firm. The snake got up, clearly preparing to launch another Poison Shot, this time in Kiva's direction.
+
+But Liora had a different idea. She flew up to the snake and Lunged at it, aiming for its eyes. The snake was forced to retreat to protect itself. Weakened as Liora might be, her beak was still plenty strong to poke out eyes. The snake hissed and tried to bite her, but she was far too quick—dodging and weaving out of the way, only to Lunge again and again, aiming for the eyes.
+
+While Liora was harassing the snake, Kiva snuck up on it from behind and grabbed it, exposing its underbelly. It hissed and thrashed with all its might, trying to get free. Kiva held her firmly by the jaw to avoid getting bitten, but the snake was very powerful—she wouldn't be able to hold it for long.
+
+Thankfully, Kalen was already rushing up to her, his sword ready to strike. Seeing that, the snake used its rock barrage attack again. But in its panic, it concentrated fully on Kalen. Serena used her shield and nearly screamed when the rocks collided with it. She was nearing her limit, but somehow managed to block the biggest rocks, with only a few smaller ones making it through.
+
+Kalen made it to the snake with minimal injuries and plunged his sword into its exposed underbelly—in the exact spot where one of Serena's spikes had injured it before.
+
+[You've assisted in defeating <Stone Serpent – Level 16>. Experience gained.]
+
+[You've reached Level 4.]
+
+"Everyone alright?" Serena calls out, looking around the scene.
+
+"I got a few scrapes and bruises, but nothing serious," Kalen replied.
+
+"My ear hurts a lot, but other than that, I'm good," Kiva said with a pained hiss.
+
+While they were busy inspecting each other for wounds, Liora made a beeline for the snake. Before anyone could react, Liora identified the four glimmerstones hidden in its underbelly and dug them out with her beak.
+
+Sorry, guys, I claim these glimmerstones for my horde.
+
+"Wait… did that bird just snatch all the glimmerstones from the snake?" Kiva exclaimed in outrage.
+
+"Chak-chak-chak!" Liora gloated. "You snooze, you lose!"
+
+"No! I really need some for a new skill!" Kalen growled and lunged at Liora.
+
+She swiftly took flight, dodging him without any issues while he kept chasing her.
+
+Spending glimmerstones? Preposterous. Glimmerstones are made to be hoarded.
+
+"I told you that she's a thief. What are we going to do if she keeps taking all the glimmerstones from our kills?" Kiva wagged an angry finger at Serena.
+
+Serena looked torn as she watched Liora being chased by Kalen.
+
+Liora!
+
+It felt like Renir was angry. Not just exasperated but actually angry.
+
+What?
+
+When fighting in a team, the spoils are split equally among everyone.
+
+But…
+
+You think you'd be able to defeat that snake?
+
+If I could switch to my real form, I'm sure I would have gotten it eventually.
+
+Or more likely than not, you would have gotten poisoned and died. Give them the glimmerstones they deserve.
+
+Liora hesitated for a moment, then landed on Serena's shoulder. She withdrew three glimmerstones and put them in the woman's hands.
+
+"You brought these for us? Thank you, Skye," Serena said with a smile. "See, she merely did the dirty work for us."
+
+Kalen and Kiva came to retrieve a glimmerstone, but they shot Liora dirty looks.
+
+"I don't trust that bird," Kiva grumbled.
+
+"You're not exactly the most trustworthy person either," Kalen pointed out. "You tried to take all the glimmerstones for yourself, too, when we killed those three satyrs."
+
+"Hehe… I thought you wouldn't notice…" Kiva admitted sheepishly.
+
+"Don't just 'hehe'! You know how valuable these are. I'm actually more willing to forgive Skye. She's a bird. Are you a bird?" he accused.
+
+"I'm sorry if I'm not familiar with human customs," the weasel girl stuck out her tongue.
+
+"You're telling me that beastkin don't share the earned glimmerstones among their party? No way I'm believing that!"
+
+Serena let out a sigh of exasperation as the two continued bickering. Although it became increasingly evident that Kiva was mostly messing with Kalen at this point. The boy took her words far too seriously.
+
+"Will you two knock it off? You'll attract unwanted attention. Let's find those kobolds and get out," Serena said firmly, putting an end to their argument.
+
+"I wonder if there are more of those snakes around," Kiva asked, clutching her ear. The bleeding had mostly stopped, but it looked like she was reluctant to move that ear around too much.
+
+"There must be…" Kalen said cautiously, looking around.
+
+"Let's proceed… slowly," Serena said, peering distrustfully at the walls.
+
+It's unlikely that another rock serpent would appear somewhere nearby. These guys don't like hanging out with each other. But just to be safe—keep watch. Your sharp eyes are the only chance these guys have.
+
+Liora took the lead while others followed behind her. Serena followed the map, while Kiva occasionally would dart ahead of Liora to check the surroundings for possible danger. Her strong sense of smell and Liora's superior eyesight basically guaranteed that they wouldn't miss any more enemies.
+
+For a while, the smooth, rocky tunnel continued without much change. But then it began to shift as the path beneath was replaced with mud. Moss, bioluminescent mushrooms, and plants appeared. There were also various small critters–unfamiliar bugs, little mice, and bats. Along with all this also came various detour tunnels.
+
+There were places where new paths appeared in the walls, at which point Serena studied the map for a long time, trying to find them. But much to her dismay, these small intersections weren't marked.
+
+Was there not enough space on the map?
+
+No, these are likely new. Dug by the monsters or perhaps even changed by the dungeon master itself. The dungeon is ever-changing. Best to stick to the marked paths.
+
+"Why don't we check one of these out? Just to see what's in there?" Kiva suggested.
+
+I'm surrounded by idiots…
+
+She can't hear you, you know.
+
+But for Renir's sake, Liora flew up to Kiva and pulled on her clothes, urging her to back away from the main tunnel.
+
+"Don't pull my clothes, bird!" She protested.
+
+"I think she's warning you not to go there," Kalen noted. "I don't know about you, but I trust animals when it comes to stuff like this. They're good at sensing danger."
+
+"Agreed. Skye has been leading us the correct way this whole time. I say we keep following her," Serean noted.
+
+"Booo! You two are no fun. Fine! Let's just find those kobolds," the weasel girl conceded.
+
+As they kept maneuvering through the tunnel, it became increasingly harder to tell which was the main tunnel and which were the side tunnels. The surrounding area was becoming damper and more cramped with bioluminescent mushrooms and torches serving as their only source of light.
+
+Liora suspected that the others couldn't see much at all, so she kept a vigilant watch. Suddenly, she noticed movement somewhere far in the distance, although she couldn't tell what exactly it was. It appeared like a flickering light of sorts.
+
+I need to scout ahead without these guys. They're too conspicuous.
+
+Liora turned around and cawed at the trio, trying to keep her voice as low as possible in the echoey tunnel.
+
+"What is it, Skye?" Serena asked.
+
+"Chak-chak-chak!" Liora said. "Stay here."
+
+But despite that, when Liora moved forward, they followed her. She had to stop again and caw at them.
+
+"I don't get it! What do you want, bird?!" Kiva grumbled.
+
+Liora had the strongest urge to just tell them to stay put, but she obviously couldn't do that without putting a target on her back. So instead, they repeated this stupid cycle of them following and her stopping them until Serena finally seemed to understand.
+
+"I think Skye wants us to stay here," she said.
+
+"Chak-chak-chak!" Liora confirmed.
+
+Finally! Somebody understood.
+
+You can't blame them. Your birdspeak is infuriating. I'm so glad that I can hear your thoughts now.
+
+"What? Why?" Kalen gaped in shock.
+
+"I say we send the bird ahead. If there's something dangerous, then we'll know to be cautious," Kiva confirmed.
+
+"What if something dangerous catches her?" Serena asked nervously.
+
+"She's a bird. What are the chances of something here being able to catch up to her flight?"
+
+"I suppose…"
+
+With the trio staying put, Liora flew ahead into the darkness. As their torchlight stayed behind them, Liora could feel herself disappearing with Shadow Glide. It was likely that the others couldn't see her anymore.
+
+She flew quickly, worried they might decide to follow her. Before long, she found the source of the movement. The tunnel led out into a larger cavern. A cavern that was filled to the brim with little reptilian-looking creatures.
+
+Liora did her best to avoid detection, Fading at once and flying to hide in a high crag. There were a lot more than just five kobolds around. There was no way for her, even with the help of Serena and others, to defeat them all.
+
+Maybe I could try luring a few of them away from the rest?

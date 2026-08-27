@@ -1,0 +1,511 @@
+---
+id: d7540a38-2682-5690-93c8-342050096459
+page-type-slug: story-chapter-royal-road
+title: "Chapter 142: Administration"
+slug: 0062-chapter-142-administration
+partOf: the-calamitous-bob-stubbed
+position: 62
+ownLength: 6175
+unit: words
+ownProgress: 6175
+publishedAt: 2023-11-17
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1412693/chapter-142-administration"
+royalRoadId: "1412693"
+markedReadAt: "2026-06-29T21:16:55.187Z"
+---
+
+It felt weird to be back at the Academy after everything that happened, Viv thought. Her steps carried her past the entrance and the uncaring gaze of the guards, then through the familiar entrance garden and to the administrative building. No one gave her a second glance. No one paid much attention. The reason was simple. Viv had a disguise.
+
+Abenezigel had prepared thoroughly, though it had now become clear that he lacked the sort of vision that could lead to a great plan. She now wore an amulet that masked her more prominent features, her eyes and peculiar skin tone. For everyone watching she would appear as a brown-eyed, dark-haired mousy young woman of Enorian origin, pretty much a second class citizen. Although it took more than what Abe was capable off to bullshit an inspection skill, the amulet also bore a disturbing and most likely turbo illegal charm that made the inspector dismiss her. In short, they still saw all her information. They just didn’t care. The guards didn’t let her through because she was a student here but because she was uninteresting and harmless. As Viv opened the door to the administrative building, she was fully confident in her heart that this little trick would come back to bite her in the ass sooner rather than later.
+
+Pissed her off a bit, that did.
+
+Between the amulet and the gravity harness she wore just in case, she was confident Elunath would not start looking for her until after she completed all her errands.
+
+Few people remained in the lobby so late in the morning. Darla, the head admin, gave her a dismissive glance at first, then her gaze zeroed on Viv with laser focus, confirming Viv’s opinion that there was more to the prim woman than what was obvious at first glance. Darla straightened in her white uniform and placed a hand behind her back in a gesture even Viv found threatening. The elemental witch raised her hands, then slowly removed the amulet.
+
+Viv’s appearance returned to normal, sans the wings as she wanted to keep that a secret until forced to reveal them. Darla gasped in shock.
+
+That made the next three seconds very awkward as Viv was forced to wait. Behind her, a student filling a form looked on with some curiosity.
+
+“Oh… Oh, it’s you!” Darla sputtered.
+
+She gave Viv a look over.
+
+“Well, most of you anyway.”
+
+“Har har. I assure you it’s only temporary. I would like to re enroll for this semester. Unless there is a problem, of course.”
+
+“Well, the student register lists you as ‘most likely dead’ but seeing as you stand here without trying to eat my face off, I will assume that the rumors were exaggerated. Enrollment for the next semester is done with a simple signature. I will also update your student chit and there is the tuition fee. Fifteen gold talents and seven silver please.”
+
+Viv grumbled about rising prices. The Academy asked for a low fee from first years but then expected people to make money for themselves, even if it meant spending weekends recharging wards for rich families. Viv could afford it. It was the principle of the thing.
+
+Her business concluded, Viv made her way to her dormitory where she expected to find Ereska. Her nice dress meant that students took her for a relative or a runner, though many frowned as she passed. The Academy was an exclusive place for mages and she didn’t register as one. Many resented the intrusion in their sanctum.
+
+It was the first time she realized what it meant to be a non caster in no position of authority. She was a nobody. The low rung of a highly hierarchical society. Her presence was barely tolerated on the assumption she would not be there if the authorities had not decreed it acceptable, and even then only temporarily.
+
+Her mind wandered. Was she not the same, dating only casters and acting high and mighty? How bad was it, really? What if she had appeared in this world not through Emeric’s intervention but by some mishap like, presumably, plenty of others? How many outlanders had died in the Hallurian wilderness or slaughtered by parochial villages who could not trust a stranger before Nous’ blessing could give them an edge? She shook her head as the path led up to the remote stone building where she had slept so many nights. It was not a good time for what ifs.
+
+It turned out that Ereska wasn’t here. Viv easily tracked the aristocratic mage to the nearby library. Ereska was working on her ‘thesis’, a way to generate mana from artificial dams to increase grain output. She no longer attended classes. Viv had to flash her chit at the librarian who would have pushed her off on her ass in an instant. Even Ereska looked at her with haughty annoyance when she dared interrupt.
+
+“It’s me, Viv.”
+
+“What is the meaning of… impossible. Really? Prove it.”
+
+“You snore when you’re drunk.”
+
+“HUSH! Not here. Come.”
+
+The now much taller woman dragged her to a rest area where a nasty glare reminded a group of first years they ought to be studying and not gawking.
+
+Viv removed her necklace. Ereska gasped as well. She also placed a hand against Viv’s shoulder, going through the tightly controlled cloud of mana that formed Viv’s aura.
+
+“So much mana. Maranor’s tits.”
+
+“Language?”
+
+“Not now. And your eyes… Incredible. A black mana elemental caster. I… don’t think there are any records of one.”
+
+“Nope. I’m the first.”
+
+“Fascinating. And… but wait…”
+
+Ereska finally frowned.
+
+“Did… the transformation fail on your legs?”
+
+“It’s temporary! Temporary! Is everyone going to comment on it?”
+
+“You’re two heads shorter.”
+
+“I know. I noticed.”
+
+“And almost completely flat. Like a boy.”
+
+“Cut it out.”
+
+“Still, I am delighted to see you again. You could have sent news, or did Elunath not permit it?”
+
+“That is why I am here. I did not take Elunath’s offer. He is not what he said he is… and I will make him fall for that.”
+
+Immediately, excitement left the mage’s frame. Her slanted eyes grew keen and narrow. Viv had her attention.
+
+“Elaborate.”
+
+“Elunath keeps sex slaves.”
+
+It took a good fifteen minutes for Viv to recount her entire experience, not because she gave much detail but because Ereska’s sharp mind latched on the terms of the contract and would simply not let go. Their stats meant that Viv’s recall was perfect, which meant swearing on Neriad’s name that she wasn’t lying a mere formality. Her mana was drained and a soft golden glow surrounded her raised right hand in a soft halo.
+
+“By all the gods light and dark. That is… The Academy exists exactly to protect young mages from such predatory practices! How could Dean Tallit not know?”
+
+“How did you not know?” Viv countered. “How did I not know? Exclusively female mages recruited at the end of puberty? We were being naive.”
+
+Ereska slouched against the wall. Ereska never slouched, and she seldom swore.
+
+“And you say he hunts after those who have no choice?”
+
+“Or little choice. People from very poor backgrounds usually.”
+
+“The local nobles always pick those up when their powers fully manifest. Elunath is a liar! Of course, anyone with talent would be nurtured as much as possible. Casters are too valuable to be left raising a brood of fishermen. Poppycock. He is lying to entrap promising prospects. Arg! Wait until I tell everyone. You will tell everyone, yes?”
+
+“I suspect Tallit will find me before long. I want to see Tod as well.”
+
+“I will walk you to the medical faculty.”
+
+Ereska was not fully absorbed in her outrage. She agreed to spread the word to her friends and the noble families as much as possible. The old guard wouldn’t give two shits about what an archmage did with poor strangers but younger nobles had a natural aversion for forced marriages and old men going after much younger partners.
+
+“I know what you think. Most of us will not care what Elunath does with peasants and coal burners. After all, the higher classes have been abusing their powers for generations and will continue doing so as long as mankind is mankind. But Elunath is not preying on fishermen, he is preying on mages, my dear. It will be enough to raise quite a few eyebrows. Oh, I still cannot believe it.”
+
+It was now Viv’s turn to question Ereska, not least because she had not expected the cold woman to adopt this cause with such fiery passion.
+
+“Be careful not to poke him too much. I can hide. You, on the other hand…”
+
+“Oh do not worry. If I criticize Elunath then suddenly disappear, the clans will be in an uproar. If he wants to stay here at all, he will not escalate. I regret to say that the same will apply in reverse. Never will the council of elders oppose his practices, no matter how despicable they may be.”
+
+“If everyone knows him for what he is, that is enough.”
+
+“It is not!”
+
+“It is enough for your part in this,” Viv amended. “Perhaps we can prevent future entrapments as well.”
+
+“You have a plan,” Ereska stated.
+
+Viv spared a glance at the mage, tempted. But no. Ereska was a daughter of Helock. Viv couldn’t trust her with more, couldn’t risk her with more.
+
+“I have and you should not get involved. Breaking his grip on Helockian society is a daunting enough task, don’t you think?”
+
+“Yes. I suppose you are right. I should be on my way. I will be heading home immediately. Ugh, I still cannot believe my ears! Disgusting. Goodbye and good luck.”
+
+Viv walked through the far gate leading outside of the Academy’s walls and to the plateau above Helock where the medical faculty welcomed the sick who could make their way there. On her way, Viv was confronted to her new reality.
+
+“Get in fucking line, wench.”
+
+“I’m a student,” Viv replied to the thug outside with patience and understanding. Couldn’t betray her return with a casual dismemberment.
+
+She dangled the chit in front of her.
+
+“The fuck is that?”
+
+A local guard stopped the thug before Viv could explode. Apparently, they accepted outside help to keep the unwashed properly lined up in stressful situations. Viv did her best to shut off the stench of filth, disease, and outright rot spreading from the mass. She was pretty sure the old man in a wheelbarrow dragged by a crying girl had been dead for at least an hour. After more than a month of bed rest and earth series watching, the return to reality was giving her whiplash.
+
+“Hello, could you please let magister Tod that I am here? My name is Viv.”
+
+“Magister Tod is busy at the moment. Please wait in line and we’ll be with you shortly,” the staff lady at the front told her without a glance.
+
+Viv was not familiar with her but the staff rotated between all departments so that wasn’t unusual.
+
+“I expect him to be busy. I just would like him to know I’m here,” Viv calmly insisted.
+
+That was fine. This was the emergency service of an overcrowded hospital. It was only natural that people could be curt. She wouldn’t raise her voice, she would remain calm. Many people were suffering much more than she was. Just take a step back and breathe.
+
+The wood of the lobby groaned under her grip. It cracked. The staff lady looked up in silent alarm, then saw the splintered crack snaking towards her.
+
+The guards shifted.
+
+“I appreciate that you are very busy and I do not expect the magister to rush out to see me or anything. My request is simple. Make the magister aware of my presence then he can decide what to do. Look, you’re here to filter people out. I got it. I’m the person who regrows limbs.”
+
+“You’re not magister Ashra.”
+
+Viv blinked. Apparently they’d managed to make the spell work without her! That was great news.
+
+“I’m her assistant. The other one? I haven’t been there in over a month.”
+
+“Suuuuure, I’ll let him know but if you’re trying to fool me…”
+
+The wood creaked even more. The staff lady suddenly remembered that little detail. Viv’s pleasant smile was growing more strained by the second.
+
+“Don’t make threats, pretty please with a nice slice of permonn on top.”
+
+The message was sent in record time. In the meanwhile, Viv sat down to wait.
+
+“This is a place of healing, little lady. Please don’t make trouble,” an old guard told her with a fatherly tone.
+
+Viv sighed. There was so much impatience in her, suddenly. Rage thundered in her brain at the slightest frustration and it was all she could do to keep it at bay. Even her enhanced mind struggled to keep a lid on the constant need to put people in her place.
+
+“Not going to be an undercover agent for very long, that’s for sure,” she grumbled to herself.
+
+“VIVANE!” a familiar voice yelled.
+
+Tod was an ancient black man with a majestic beard, rail thin and with a permanent sore throat. It felt strange to see him hurry down a nearby corridor with a panicked assistant in tow. She stood up and saw the confusion on his face, and damn the subtlety, she removed her amulet. Her eyes put a stop to Tod but he recovered quickly. Much more quickly than the guards, in any case.
+
+“You made it. You are alive!”
+
+“Yes, magister. I heard you managed to regrow a limb without me? Well done.”
+
+“Examination room. Now.”
+
+“Errr, I was just here to — “
+
+But Tod had turned away without waiting for confirmation, leaving Viv with no reasonable choice but to follow.
+
+“Ashra and a bishop of Enttiku and it takes them six hours. For an arm!”
+
+“Hey it’s a proof of concept. I’m sure you can refine the process.”
+
+“Young lady, this is the heart of learning on Param. If we can’t do it, no one can, and we can’t. Not without Ashra developing her understanding of change.”
+
+“Just be patient.”
+
+Tod stopped to glare at her. The effect was lessened when he met her eyes and flinched.
+
+“Not going to get used to that. In there now, young lady.”
+
+“I’m really just here to ask questions.”
+
+“I’m very old and in charge and your medical practitioner, That means you do what I say.”
+
+“Fine, fine.”
+
+They entered a freshly deserted room. The linen on the bed was still damp and the scent of soap and alcohol barely masked that of dream weed, a local intoxicant.
+
+“Hmph. Sit down so I can have a look at you.”
+
+Tod cast several spells in quick successions, passing his gnarly hands over the still dressed form of Viv with increasing puzzlement.
+
+“Well, congratulations. According to my measurements, you’re perfectly dead.”
+
+“I”ve heard that before.”
+
+“And inexplicably shorter!”
+
+“Heard that one too.  I’m fine, really.”
+
+“I could write a treatise on elemental anatomy if you give me a bit of your time.”
+
+“Wouldn’t that be of… very limited use?”
+
+Viv withstood a two minute rant on science and the necessity of understanding first before considering practical applications.
+
+“And you’d better not forget it! And why did you disappear on me? When are you coming back? We have a waiting list of amputees. Veterans from the latest Hallurian adventure. Well?”
+
+“About that. I’m going to be busy for at least a few weeks.”
+
+“Doing what exactly?”
+
+“Blood feud with Elunath after he tried to sign me into becoming his sex slave.”
+
+Tod glared but then that was his normal state of being when he was thinking about something.
+
+“Explain.”
+
+Viv did so, sharing the details of the contracts. She swore on Neriad, sent the golden god some more mana in prayer and got him to back her word again. For the longest time, Tod didn’t react.
+
+“Young Tallit knows?” he finally asked.
+
+“I can’t be sure. I’ll probably see him afterward.”
+
+“If he knew and did nothing I’ll be very, very cross. The Academy stands for freedom of mages to pursue their craft for themselves and offer their services to those who deserve it. I know we’re competing with the ambition and greed of local rulers. We can’t do anything about those! But a poacher and sexual predator in our own gods-accursed city? Wait. You are going to declare a vendetta?”
+
+“Yes.”
+
+Another glare, this one more cautious. Viv was growing used to Tod’s different flavors of evil eye again.
+
+“I assume you have a plan.”
+
+“Yes.”
+
+“It’d better be a good one because Elunath is many things but he’s not a pushover. Do you know he once crushed an entire fortress?”
+
+“He did it at least twice that we know of.”
+
+“Well, at least you’ve done your homework. And we? Wait, don’t tell me. In the meanwhile, I’m going to request a physical for all the poor ladies under his care.”
+
+“He probably won’t agree.”
+
+“Then at least it’ll piss him off. Off you go now, I’m busy. Don’t die. Hop to it!”
+
+“Wait. I had a question. Rakan has a—”
+
+“I know he has a broken core and I already told him it was not something fixable with medicine.”
+
+“Oh, he already came to you.”
+
+“People have their own brains and drives, you remember, yes? Of course he came to me. I’ll tell you what I told him. He needs to focus on mana control and channel development. Cores are not static things for us mortals, yes? The most important thing is not to give up. He can still cast well enough! I gave him instructions and exercises, the rest you’ll have to see with him. Enough dilly dally. Be on your way!”
+
+“Yes you old curmudgeon, I’m going. Neriad’s buttocks.”
+
+“No backtalk!”
+
+Viv rolled her eyes, replaced her pendant and made her way out. As expected, there was a runner requesting her presence at the dean’s office. It did not take long for her to explain her position to the singularly ugly man, which made his bushy eyebrows furrow even more. Dean Tallit gave her his blessing to be excused from class for the duration of the blood feud. He was also the first person not to remark upon the fact she was a little diminished.
+
+“This is quite worrisome. Elunath is a frequent sponsor of promising students so we always assumed he had an interest in Helock’s development. Between what you swore and some other hints I elected to disregard due to a lack of complaints from the participants, it appears we will have to give all his contracts a very thorough look. I assume you have a plan?”
+
+“Of course, I have a plan. Why is everyone asking? I very often have a plan.”
+
+“Shortly after your first meeting, you rushed out and destroyed a warehouse looking for your kidnapped dragon. You killed two people in plain sight.”
+
+“They had it coming.”
+
+“I do not deny that. You just seem… impetuous at times.”
+
+“Look, which of us defeated a prince and poured molten gold down his throat? I did. I have plans.”
+
+“You are not exactly filling me with confidence. Elunath has been at this game for a very long time. If he finds you…”
+
+Tallit eloquently smashed his hand on his desk.
+
+“Splat.”
+
+“Yes yes everyone takes me for an idiot. I know he will kill me if he corners me. It will be fine. I haven’t declared the feud yet.”
+
+“Very well. You should go now then disappear. I don’t believe other students have recognized you so far but there will be rumors and Elunath will hear them.”
+
+“I’m going as soon as we are done here.”
+
+“Very well. We will investigate your assumptions and if they are true, it will be clear that Elunath has benefitted from our institution and our talent while violating everything we stand for. The Academy will not join in with your feud but we will not support Elunath either. Quite the contrary.”
+
+“That is all I can ask.”
+
+***
+
+Afternoon had barely started when Viv made her way down the noble quarter. Hunger needled her but she hesitated to find food because time was not on her side, even with the disguise masking her identity as half elemental. Elunath would learn of her survival sooner or later and, contrary to everyone else so far, he would seriously wonder how she managed to transition. The fact she had not declared a blood feud would not stop him if he really wanted to get his claws on her.
+
+No one paid attention to her while he walked at a brisk pace, having failed to locate a cart. The road was muddy today, the sky depressed. It was the first time she had returned to Helock since the change and she wasn’t having fun. The city had changed, or maybe she had. Elunath could feel every footstep around and could have perhaps recognized her if she had kept the same weight. It made her paranoid, eager to activate her gravity harness to escape the danger under her soles. She squashed the urge. It was going to be fine.
+
+The avenue broadened and the sashes and shoulder pads of the nobility gave way to the red uniforms of civil servants out to grab a bite. She ended on the large central square, sparing a glance to the ominous form of the Bank of Helock. It was just as monolithic and hermetic as the Manipeleso banks she had seen everywhere. The austere facade tolerated no windows at all on its front and only barred, thin ones on the side. Tough nut to crack.
+
+The town hall was a buzz of activity, civilians and civil servants rushing in and out of the outer wall that surrounded a massive rectangular building. It was the largest man-made structure she’d seen since leaving Harrak, with several entrances. Battle mages and soldiers alike kept a vigil all over the place. One of them, an officer, frowned when he saw her. He moved to intercept with two blade mages in tow.
+
+Viv let them catch up to her. She wasn’t doing anything wrong yet. There was also a food cart on the side that had just gotten her attention. She was constantly ravenous these days and the scent of grilled meat and tuber was more than she could resist.
+
+“You are not what you appear to be,” the officer told her without preamble. “Unless you can reveal your real identity and justify the obfuscation, I will ask you to follow me.”
+
+“I can reveal my true appearance and the reason of my presence but I’d like my privacy respected. I’m in good standing.”
+
+She waved her Academy chit. which was at the end of a chain conveniently attached to her bank token. The officer picked it between two gloved fingers with an amusing level of apprehension. Not too weird considering physical power and lethality related much less to size here than it did on earth. Viv watched the shock bloom on his expression once he read her name.
+
+“You? We thought you were dead…”
+
+“It didn’t stick. I am very much alive.”
+
+“What? Oh. Then…”
+
+“I am here on official business. My obfuscation serves to protect my anonymity while I do so. I am sure you understand.”
+
+“Yes, of course. May I ask what it is? I can direct you to the right place.”
+
+Ah, it felt good to get the VIP treatment again. The constant annoyance boiling in Viv’s veins simmered down a little.
+
+“I’m here to declare a vendetta against Archmage Elunath.”
+
+Viv could have shoved a whole egg in the officer’s mouth without touching the teeth. His sidekicks were not faring much better. They were attracting some attention around, with three heavily armed men showing signs of shock next to a petite woman of no discernible interest. It took a few long and frankly boring seconds for them to recover. Next they were going to ask her if she had a plan or something.
+
+“That… well, are you quite sure? I believe only Helockian clans may declare one.”
+
+“Nope, any citizen in good standing and I am considered one under the law.”
+
+“But…”
+
+“Trust me, I checked.”
+
+“Against Elunath? Lady, you are out of your mind…”
+
+“That is for me to decide, is it not?” Viv replied, her annoyance returning with a vengeance.
+
+“Yeah, sure. Your funeral. Look, Elunath has been at this game for hundreds of years…”
+
+“Show me the way or get out of the way. I’m not debating my life choices with you.”
+
+The officer breathed in with thunder on his brow. He breathed out immediately though, his anger bleeding out. Viv got the impression it was a common occurrence.
+
+“Fine. It’s your decision. Follow me.”
+
+The advantage of having an escort of three burly men, two of whom radiated mana, was that queues immediately became a problem of the past. Viv was led through a door and up three flights of stairs through what appeared to be a government wing. The place was heavily guarded and comparatively empty. The officer finally stopped in a crowded room filled with desks overloaded with papers and equipment, including a few mana-fed contraptions she did not recognize. A pallid man who looked offended that someone dared enter his domain turned to glare.
+
+“Yes? This is the clan relationship management office. Are you lost?”
+
+“The little la— that is, Academy student Viviane would like to, ah, make a request. For a vendetta.”
+
+The civil servant glared some more, this time in silence. He was still leaning over one of his subordinates, two hands planted on the woman’s desk. She was looking increasingly uncomfortable. The rest of the office had frozen likewise. Viv was wondering if she should just use a sound spell and scream her intention over the entire city to get it out of their system.
+
+“You are not an offended clan. You’re not even Helockian.”
+
+“And yet, the law allows me to declare one as a student of the Academy.”
+
+“I don’t know where you come from but here in Helock, we do not play rule mangling like Baranese baronesses arguing over taxes. The vendetta is one of our most ancient and respected traditions. It’s meant for the desperate to die with honor. Do you understand that? You want to make a mockery of our honor and you think we will just smile and get you on your way.”
+
+“I just want to declare vendetta in a timely manner as the law permits. I am not mangling any rules and I assure you, I am very serious.”
+
+The man huffed. Viv had to take several deep breaths not to explode. She felt her core heat, the sensation new and unsettling. There was so much power in here, waiting to be unleashed. Sadly, no amount of might had ever helped defeat bureaucracy.
+
+“Yes, though I believe I need to enlighten you as to what you can actually do. The laws of Helock do not allow you to ‘declare’ a vendetta as you seem to believe. What they allow you to do is to petition the council, following which they will decide if your request has merit. Fortunately for you, the council happens to be in session this afternoon.”
+
+He gave a condescending smile.
+
+“I will transmit your request as is your right, and as is my right as servant of Helock, if you are refused and considered to be wasting the time of the council, I will fine you for the maximum legal amount of two gold and seven silver talents. Iskes, get me a copy of form twelve.”
+
+“We… don’t have any form twelve sir?”
+
+“Then copy it…” the civil servant slowly enunciated as if to a particularly slow child.
+
+It took the lady five minutes to find the original form which was lodged between two archives, then ten seconds to copy it, her hand a blur. Skills applied to every path here.
+
+Viv filled said form which was a little annoying because first, it asked several questions that related to a Helockian clan she never had. That reinforced the impression she was only abusing a loophole. Her second source of annoyance stemmed from the fact she was filling a bloody paper with her name and address just so she could legally engage in a fight to the death with a man who could swim through stone. It just felt so damn weird and illogical.
+
+“There, I’m done.”
+
+“Excellent. Follow me, the council should have just convened. I am sure they will be delighted with the diversion.”
+
+Even the corridors leading to the council room were cramped. Viv remembered that the town hall had started as a keep, which was why it was huge and monolithic rather than spread across various buildings. It was clear the Helock government had outgrown the facility a long time ago with how cluttered every inch was with offices, desks, and screaming people. Viv walked through meandering rows of richly decorated corridors that felt more stuffy than solemn. One couldn’t just lay a rug on naked fortress stone and expect it to turn into a palace. Eventually, they reached a heavily guarded sector and Viv was let into a large room with windows opened on one side.
+
+It was perhaps the only room that didn’t feel entirely crowded. Rows of seats lined the back where richly dressed men and women attended the proceedings, muttering and moving in small groups. A large circular table occupied most of the remaining space. Clan leaders sat and conferred around it. Viv recognized several from her etiquette class, including Pendath, current ruler of the majority. Ereska had some choice words to say about the man who facilitated the ethnic riots as a ‘way for the trash to take itself out’ as he had worded it. He sat, obviously bored while a man droned on about what appeared to be a trade dispute. Many of the seats were empty. On a far corner, the scribe on duty yawned. Viv noted four battle mages, one in each corner. There were wards as well. She hoped it wouldn’t become relevant.
+
+It might, because Pendath was an asshole.
+
+The office manager made his way to the front, where a sort of master of ceremony picked up the form. The pair muttered seriously. By then, several nobles had noticed Viv and the disturbance she was causing. Most were hostile, which Viv blamed on her demure appearance and simple dress. People rudely inspected her.
+
+“Alright,” Pendath interrupted. “Enough with the secret conference. What is going on?”
+
+“A new council request made by that lady over there.”
+
+“What is that request and how is it more important than the future of our food production!” the droning noble bellowed, clad in outrage and gaudy yellow cloth.
+
+“The migration path of starlings isn’t our ‘food production’, Eustath. I’ll hear what this is about or risk falling asleep.”
+
+“The little lady is a member of the Academy. Viviane.”
+
+“The Outlander? I thought she was dead. And… taller.”
+
+Viv fumed in her boots.
+
+“That’s the thing. She claims she made it and errr… that she has a grudge against Elunath who apparently tried to enslave her. Sexually. She wants to declare a vendetta.”
+
+This time there was little shock to be shown. There were, however, a lot of sneers. Pendath scoffed.
+
+“Elunath can have everyone he wants. You’re delusional if you think he’d make any effort for an ugly little thing like you. And you’re not even a clan.”
+
+“Nevertheless, I can request a vendetta.”
+
+“And we are free to tell you to sod off.”
+
+“The law—”
+
+“We are the law, wench. If you want to kill yourself against Elunath because the change made you hysterical, feel free to so but don’t waste our time with preposterous requests! Someone escort her out. This isn’t a circus, by Sardanal. It’s a ruling council!”
+
+Well, Viv thought.
+
+I tried.
+
+Viv casually snapped the fingers of the office manager as he grabbed her shoulder. She felt the guards behind her move forward to stop her just as the battlemages rushed forward. She suspected they were screaming orders under their mask but she couldn’t be sure. She had just suppressed the sound in the entire room. Another colorless spell amplified her own.
+
+With one hand still gripping the gnat’s shattered digit, she slowly removed the pendant, letting her eyes return to their natural colors. The battlemages slowed down. Several cast wards.
+
+[Helockain Battlemage, dangerous. Fourth step casters who form the backbone of Helock’s military. Killer. Disciplined. Coordinated.]
+
+They tasted of many colors but they were not her match. Not even close. Her aura expanded until the room darkened and black mana fumaroles hissed on the ground at her feet.
+
+“Listen, it seems we misunderstand each other. I am not making a nice request. I am courteously offering you an opportunity.”
+
+Three of the mages had stopped by the council and activated wards. They could speak again but wisely elected not to. The last approached Viv at an angle with manacles out so she lifted a finger and smashed a bench into his tibias. Though his shield held, his balance did not. He wisely decided to stay at a distance after that.
+
+“I’m going after Elunath for what he’s tried to do to me. I don’t care if you believe me or not. Your opinion is inconsequential. What I need you to understand is that the result for Helock will be different if we are legally bound by rules.”
+
+“Cease this instant! Are you mad? I demand you to stop!”
+
+“And I demand you to do your fucking job. Now I’ll ask one last time. Do you grant the vendetta or do you want to get acquainted with the phrase ‘collateral damage’?”
+
+“We could also put you in jail for outrage until you have learned some respect!”
+
+That was it.
+
+Viv’s fury, which she had kept bottled for some time, erupted like a volcano to pour from her soul in the form of a wave of intimidation more powerful than anything she’d ever managed. She let her wings extend from her shoulder blades while scales as dark as the abyss bloomed over the dress. Excalibur spells snaked from her closed fist to lick the air with a subtle hiss. Pendath took a step back under the onslaught despite his obvious social skills. Even the soldiers at Viv’s back fell back. As for the nobles, they collapsed where they were. Viv saw herself reflected on a nearby shield. The only thing that remained of her mild persona were two viridian circles and the hungering void.
+
+“You can certainly try.”
+
+Come on come on come on come on do it just fucking try me. Do it. Do it do it do it so I can let go.
+
+Black mana rolled out of her form. The wings chafed from wanting to anchor her so very badly. She could just do it now. She could just kill them all to the last one. That would help just as surely, no? Behead the snake and the city turns into a pit of chaos and she did like chaos very very much. They just had to give her the excuse. Just try to get her. Just lay their hand on her. The last remnant of self-control clung to that last, unyielding, uncompromising condition that they had to fuck up first.
+
+Slowly and without breaking eye contact, Pendath picked up the form. He stamped it.
+
+“Request granted. And impressive display. Elunath is still going to squash you like an insect.”
+
+Viv pulled everything back in.
+
+With slow, mechanical movements, she replaced the pendant. The manager lying at her feet had soiled himself at some point and the room was definitely not improved by the stench.
+
+Her task was done.
+
+Things had gotten… rather closer than she intended.
+
+Viv turned around and left. To her surprise, the officer who had guided her all along walked ahead to guide her out.
+
+“I hope this doesn’t mean you’ll get disciplined,” Viv allowed.
+
+“I think they’ll want to forget this ever happened. Was it true what you said? About Elunath?”
+
+“All of his ‘assistants’ were recruited as young girls and he beds them all.”
+
+“Huh. Powerful people and their quirks. Sorry, that was inconsiderate.”
+
+“Rather so, yes.”
+
+“And you’ll go after him now?”
+
+“No, first I want Helock to know what kind of degenerate he is.”
+
+The officer pondered her words for two sets of stairs and a lobby.
+
+“The council knows now, at least, even if they might not believe you. Looks like your demonstration fulfilled your purpose.”
+
+“Oh no no no. I come from a civilization that has elevated smear campaigns to a science. Believe me, I am just getting started.”

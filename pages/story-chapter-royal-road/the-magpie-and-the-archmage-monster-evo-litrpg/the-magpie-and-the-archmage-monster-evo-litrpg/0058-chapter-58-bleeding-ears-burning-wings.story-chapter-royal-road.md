@@ -1,0 +1,169 @@
+---
+id: db10094e-2d12-52d9-8b0a-63a4eac9712a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 58 – Bleeding Ears, Burning Wings"
+slug: 0058-chapter-58-bleeding-ears-burning-wings
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 58
+ownLength: 2014
+unit: words
+publishedAt: 2025-12-08
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2828870/chapter-58-bleeding-ears-burning-wings"
+royalRoadId: "2828870"
+---
+
+For a moment, everyone just stared at Liora with wide-eyes. She had just pulled glimmerstone into her Inventory right in front of everyone.
+
+You. Stupid. Bird!
+
+"Caw!" Liora exclaimed, trying to appear like a clueless bird.
+
+"D-Did that magpie just put that glimmerstone in her I-Inventory?" Damien pointed a shaky finger at Liora.
+
+"Not Inventory, but glimmerstone storage. Every monster has one," Serena replied, looking as if it had been the most natural situation in the world. "Liora is the one responsible for collecting and keeping our glimmerstones safe until we can split them fairly among ourselves at the end of the day."
+
+Oh, right. Glimmerstones had a seperate space.
+
+Yeah, thankfully for you. You can really be quite careless.
+
+"That's right!" Kiva added, although her voice came out a bit more strained. "It's a bother trying to split glimmerstones equally after each fight. So Liora does it for us!"
+
+"Yes! I-Isn't that convenient? HAHA!" Kalen added, but his acting wasn't convincing in the slightest.
+
+Thankfully, Damien wasn't looking at Kalen. Instead he was staring in disbelief at Serena.
+
+"You're letting a bird take your glimmerstones?" Damien exclaimed.
+
+"Because Liora is a magical familiar," Serena said without elaborating further.
+
+"What does that have to do with it?" Damien asked.
+
+"Do you seriously know nothing about familiar?" Kiva scoffed.
+
+"Of course I do!" Damien snapped. "I-I just never seen it before. I'm not a mage."
+
+"Now you've seen it. It's totally normal," Kiva shrugged.
+
+"I'd like to have my share of the glimmerstones now," the blond man stepped closer to Liora.
+
+"How do you expect to split them right now?" Kalen asked. "You can't divide twelve with five."
+
+"What do you meant "five"? There's four of us." Damien objected, but then realization dawned on his face. "You don't mean to tell me that I need to split my glimmerstones with a bird!"
+
+"She needs to learn new skills too," Serena said.
+
+"Shiny. Mine!" Liora squawked, flying up on the highest branch of a nearby tree where she was out of Damien's reach.
+
+"There's no way that bird will actually give me anything! You're just trying to dupe me, aren't you?" He raged. "I knew I shouldn't have trusted you."
+
+Liora was getting angry. This pampered brat was going to take out his rage on Serena and others again. Liora wouldn't stand for it. She considered turning into her real form then and there, when Renir spoke up.
+
+Don't be hasty. What are you going to do once you expose yourself? Do you intend to kill him?
+
+Liora flinched. She didn't want to kill him. If she would be alright with murdering people, she wouldn't have spared those mages in Sunvale. Damien was a pompous, annoying arse, but he certainly wasn't on the same level of bad as those mages.
+
+No. I'm not a murderer.
+
+Then calm down and just give him one glimmerstone so he'd calm down.
+
+Liora didn't want to give him any glimmerstones. She didn't think he deserved them. But she didn't want to turn this into a fight. Reluctantly, she withdrew one glimmerstone from her Inventory and dropped it straight onto Damien's head.
+
+"Ow! What the—"
+
+"See! Nobody is going to withhold your fair share," Serena said, exhaling in relief.
+
+Liora gave a glimmerstone to Serena, as well as Kalen and Kiva who took it gratefully.
+
+"I am due two glimmerstones at least!' Damien objected.
+
+"Yeah, we are too, but we're in the middle of a dungeon right now. Surrounded by monsters. Is now really the best time to be splitting the reward? Are you going to unlock a new skill now?" Serena challenged.
+
+Damien and Serena stared at each other for a moment, then he finally relented. "Very well. But if I don't receive every glimmerstone due to me by the end of the day, I will eat that bird!"
+
+"CAW!" Liora protested. "I want to see you try, pretty boy!"
+
+"She's more likely to eat you," Kiva noted.
+
+"What?!" The blond man sputtered. "Are you implying that I am so weak that I couldn't even defeat a bird?"
+
+"She's faster. She's smarter. She can fly. Your eyes would be pecked out before you even realized what had happened," Kiva taunted.
+
+Damien's hand inadvertently went up to his eyes, and then he clenched it into a fist. "That bird—"
+
+"Enough squabbling. We still have a whole forest to clear before we get to the badger. Do we really want to spend that time arguing?" Serena interrupted.
+
+Nobody said anything more. Liora could see that Damien still had a lot of things to say—his eyes throwing invisible daggers in her direction. Kiva was likewise glaring daggers at him, while Kalen looked all around tense, his hand gripping the hilt of his sword nervously.
+
+"Let's get going then," the mage urged.
+
+Liora got the hint, and took flight, indicating the direction where they are supposed to go. She didn't miss the annoyed click that came from Damien, but others followed her without a complaint. Not a vocal one at least. Kalen definitely looked a bit angry about her being so careless.
+
+Nonetheless, Serena was right when she said that they should focus on the dungeon. The beetles were just one of many obstacles they'd have to overcome. Next followed the hardest part for humans—the terrain nightmare for anyone who couldn't fly. So Liora couldn't really care less.
+
+The next part of the forest was essentially a maze, although it certainly didn't appear as one at first. It looked no different than the forest entrance. However, the forest had deep chasms running through it which were far too easy to overlook and fall into or get lost among the many chasms.
+
+Obviously, Liora wouldn't let the silly humans fall to their deaths. Even if it was tempting to check just how Damien would squeal like piggy mid-fall. But she actually pulled the fool back from stepping straight into the abyss. He was only capable of holding his nose up, instead of watching his steps below.
+
+He had protested when Liora began pulling on his hood, even going to reach for his sword. But Kalen pulled him back by his hand and showed him the dark abyss below. That shut him up real quick, and he hadn't complained about Liora's directions since.
+
+She was sure to point out each chasm, which sometimes forced them to walk while hugging trees. It was quite a bizarre experience walking through a forest which had deep chasms running throughout. By Liora's estimates there were at least thirteen dead ends that their group could have ended up in, if she hadn't led them along the right path.
+
+It was quite unfair in her opinion. It wasn't humans' fault that they were born with such defects. They couldn't exactly choose to be born as superior magpies. Then again perhaps that was exactly what the scheming dungeon master wanted. After all, an adventurer lost in the chasm was more sustenance for the dungeon.
+
+Overall, Liora hated the place. They barely moved forward since the humans walked so slowly. As it turned out, the chasm wasn't even the worst part of this particular part of the dungeon. It was the monsters. Even Liora couldn't predict their appearance as the nasty critters came straight from the chasms.
+
+Liora wasn't even sure what they were. Some deformed bats would probably be the best descriptions she could give. They had large, ugly mugs riddled with misshapen, oversized teeth. No fur covered their large bodies with long front limbs which had a thin membrane stretching between the long, spindly fingers.
+
+The worst part was probably the huge, sharp claws on both front limbs and the back limbs. It cut into the stone and wood with ease, allowing the monsters to nimbly move both in the chasms and on the trees, gliding from one to the next as if they were some oversized sugar gliders. Much uglier unfortunately.
+
+"What the hell are these things?" Kiva screeched, as one of the monsters tried to bite into her arm. Thankfully, the weasel girl was nimble enough to evade.
+
+The group instantly huddled together, Damien and Kalen remaining in the front, and trying to keep the girls out of harm's way. However, more and more of the creepy bats poured out of the chasm.
+
+Liora didn't intend to let them overwhelm her humans. She might be limited to her Magpie Disguise, however these guys didn't have the tough carapace that the beetles did. She took flight above the treetops, and then Skypierced the first bat that tried to sneak its way around the men to strike Serena from behind.
+
+As it turned out, the bats were quite… squishy. The leathered limb separated from its shoulder, earning a pained supersonic screech from the bat. The noise was so overwhelming that everyone covered their ears. Liora wanted to do so too, but obviously had no hands.
+
+Instead she was forced to take the hit to her eardrums head-on, making the surroundings ring and buzz. Serena said something, but Liora couldn't hear much.
+
+That bat has disabled my hearing!
+
+Yeah, these things are nasty. But they were very fragile. I suggest you take out their limbs and let others finish them off.
+
+But it appeared that others also suffered quite the damage to their ears. They were yelling at each other, or at least it looked like it with their mouths moving wide. However, there was blood coming out of their ears. They couldn't hear each other either.
+
+Kiva looked to be in the most pain as she was slumped on the ground, clutching her bleeding ears and unable to get up. One of the bats was trying to sneak up on her, so Liora threw an Air Slash its way, aiming for the fragile membrane. The attack connected, tearing the thin layer of skin apart. But oddly enough, the creature didn't bleed.
+
+It didn't even stop its advance as if Liora's hit didn't even hurt. In fact, the torn membrane was already stitching itself together. Left without a choice, Liora flew straight at the bats and Lunged at its eye, poking it out and earning another ear-piercing screech.
+
+Liora flew back, trying to put distance between herself and the bat, but in the confusion flew straight into a tree. Others clutched their ears, more and more blood pouring out of them. Kiva was convulsing on the forest floor, unable to withstand the sonic attack at all.
+
+Dammit! Like hell I'm going to lose to some oversized bats!
+
+Liora, you should get out of here!
+
+What? I can't just abandon them!
+
+You're losing health from all these sonic attacks. Bit more and your Magpie Disguise will fail.
+
+Liora hurriedly brought up the status screen.
+
+[Status]
+
+Health: Scrapped
+
+Mana: Surging
+
+Renir was right. One more hit and her Magpie Disguise would fail. Then Damien would see her true form and the rest… It would be a whole heap of mess.
+
+But Liora saw that more of the bats were closing in on Serena and others. Kiva was completely out, unable to get up from the pain. Damien, by the looks of it, was trying to use his taunt skill, but the bats weren't affected at all. Maybe they were immune to sound-based skills?
+
+Serena was shooting fireballs at the nearest bats, but she didn't dare to make them too powerful. The forest was really limiting her abilities as her ground skills couldn't do much against the bats either. Kalen had successfully cut down the bat Liora had injured before, when he tried to slice another one it moved away nimbly. They were far too fast for him to follow.
+
+I'm not going to leave them.
+
+Liora, if you reveal yourself then you'll have to leave Cyene.
+
+So be it. But I'm not going to let them die!
+
+Liora dropped her Magpie Disguise, assuming her true, more powerful form. She hastily withdrew the Holy Wand and the Necklace of Sunpeak and equipped them. It was time to show these nasty bats exactly what she could do.

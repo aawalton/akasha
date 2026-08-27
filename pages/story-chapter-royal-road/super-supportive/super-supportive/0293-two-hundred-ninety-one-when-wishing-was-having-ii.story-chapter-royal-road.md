@@ -1,0 +1,567 @@
+---
+id: 9fe76e77-e307-5faf-b1ac-0c902ea4ae14
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED NINETY-ONE: When Wishing Was Having II"
+slug: 0293-two-hundred-ninety-one-when-wishing-was-having-ii
+partOf: super-supportive
+position: 293
+ownLength: 7018
+unit: words
+publishedAt: 2026-06-06
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3499497/two-hundred-ninety-one-when-wishing-was-having"
+royalRoadId: "3499497"
+---
+
+291
+
+******
+
+Waiting for Instructor Ash’s verdict about who should be allowed to run tomorrow was anxious business. Halfway through the hour, their team chat screen was mostly just Haoyu using one random word at a time to react to the videos playing at the front of the room.
+
+At least one of us is getting something from it.
+
+At the moment, without anyone explaining what was good or bad about the way the Avowed in the clips were moving through the cities where they worked, Alden didn’t feel like he was learning from them. He’d stopped trying to take notes on what he saw a few minutes ago and switched to reviewing his own footage from this morning.
+
+This morning’s class was two hours of proof for why hiring a personal trainer was a good choice, he thought, watching himself move.
+
+Correct form when using his trait, knowing exactly where jumps were going to land him, carving away wasted motion—he was far from perfect, but it was starting to come together in a way he could see.
+
+I should use my sand scattering to trick a few people this term. Get everyone used to me throwing it down when I want to make bigger or faster moves, and then just not activate my trait. It’ll be fun to pull it off against Reinhard.
+
+Kind of useless against demons, though.
+
+That made him less excited about it.
+
+He was really happy to see himself moving so well. A few weeks ago, he knew he couldn’t have put up such a good fight in the duels against Rex and Jeffy. He was trying not to stay miffed about Rex suggesting that he had now taken Alden’s measure and found it lacking to such an extent that there was no need to measure again.
+
+That was a good duel.
+
+He watched it again.
+
+It was better than I thought it was in the moment even.
+
+Of course Rex wouldn’t value the same things he did. Alden had a list of goals he was working on, and nobody else needed to be impressed by them or even notice that he was doing them. But he thought treating his shield more like something that should be protected, with its usefulness as a tool taking more of a backseat, was part of the reason he’d been moving better through everything. Including in the duel against the Strength Brute.
+
+It’s really too easy to not care about whatever I’m preserving in a class setting. I  know it’s a skill for keeping things safe, but I’ve been getting slack about that without realizing. He watched himself try to get out of the way of a strike he definitely would have thrown his preserved object in front of last term…and succeed. That was good for me. If this was something more serious, trying to buy time for Stuart to pull my ass out of the fire…
+
+He ran through an assortment of things he might be protecting in such a situation—a bomb, a supply of critically important something or others, an enchantment, someone’s severed foot.
+
+Being the Bearer of All Burdens isn’t simple. If I’m protecting stuff, I’m never working with the same weapon or the same set of considerations. When I’m stronger than the place we’re going to, I’ll have more options.
+
+That was the problem, though, wasn’t it? No matter what sort of training he did, he wasn’t going to be as strong as Stuart before Stuart was ready to go off and make his Intensity 99.9 debut.
+
+He watched his duel with Rex one last time.
+
+This is good, but it’s a long way from good enough. I want to bear burdens, not be one to my partner.
+
+Maricel hadn’t even wanted to duel him.
+
+He glanced over at her. She sat on the other side of Vandy, leaning forward in her seat, knuckles pressed against her mouth while she watched the video at the front of the room…or possibly her interface, like Alden was doing. She was focused, whatever it was.
+
+He pulled up footage of her duels from the last class. She’d had five. All against other S-ranks. All starting with a technique that was hard for most people to deal with.
+
+Yeah, lifting the entire floor of the dirt dueling block up and dropping it to create a dirt storm in a bottle is pretty advantageous for her. The visibility was so bad that the System provided overlays of the bodies moving through the cloud of falling earth instead of relying on the drones. Maricel obviously couldn’t see what was happening either. Once all the dirt was clogging the air, she was basically sweeping the whole block in front of her with force and taking out her blinded opponents that way.
+
+She hadn’t won them all easily.
+
+Vandy had nearly gotten a draw, and Alden thought she’d be able to the next time Maricel tried the dirt storm technique. Vandy tended to lose the first time she saw something unexpected from another powerful member of the class, but she’d have a solution for it when they dueled again if a solution was possible.
+
+And Tuyet destroyed her. I guess they must have agreed to go all-out. The outcome was so predictable that way, though. Why bother?
+
+They stood facing each other. Maricel started to lift her hands. Tuyet lifted her hand to throw a dart faster because she had a ton of Speed and Maricel didn’t. Maricel took a dart dead center between the eyes.
+
+That was Tuyet’s finishing move for most people these days. Not her starting move. She got better practice if duels lasted longer than a second, too.
+
+Alden glanced at Maricel again. What the heck? Why’d you two fight that way? If going up against me wasn’t a good use of your dueling time, that wasn’t either.
+
+He shook his head. It’s their business. Maybe Maricel’s trying to inspire herself to get faster by facing faster people.
+
+The dirt storm method. Couldn’t I have held out for a while against that? Even without something boring like a dome shield.
+
+He went back to studying himself and his own flaws, but he could feel the minutes of the class ticking closer to the end. People were starting to shift and whisper. Heads kept turning toward Instructor Ash, who looked disengaged sitting at the teacher’s desk with his arms crossed. His eyes were moving, so he was watching things or reading on his interface.
+
+Hopefully it’s not our strategy with that expression.
+
+Alden found himself bouncing his leg and spinning his stylus.
+
+It’ll be great to run with a team. More practice with partners. People will need preserving on runs. Objects will. Attackers I’ve never fought before will come at us, and with the pressure of not wanting to let an entruster down being more than usual, maybe I’ll figure some stuff out.
+
+The list of chosen teams went up at the very last minute of class, like last time.
+
+Unfortunately…it was exactly like last time.
+
+Alden’s disappointment was huge, but he could barely hear himself think over the square-headed guy who was probably Rex’s brother Ram saying, “That’s not right!”
+
+The same teams that hadn’t gotten to run last week weren’t getting to go this week either.
+
+And Ash was already out in the hall.
+
+More importantly, Kon was running out into the hall, chasing their instructor. By silent mutual impulse, every member of their team jumped out of their desks and went after him.
+
+They found Kon hitting his knees by the lockers, shaking his fist at the ceiling.
+
+“Whhyyyy???”
+
+“Ah…Kon?” said Ignacio.
+
+“This was still fluttering in the air!” Kon hissed, showing them his fist. “It was fluttering, and I caught it before it hit the floor.”
+
+“Are you going to punch Ignacio?” Jeffy asked. “You shouldn’t.”
+
+Kon’s fist opened, and a paper packet that had once held sugar fell out. “Do you all see this?!”
+
+“Wow,” said Haoyu. “He ran so fast his trash was still in the air when you got out here? Do teachers do that?”
+
+“Kon, don’t be too dramatic about this.” Lexi was making a soothing gesture with one hand even though he sounded angry himself. “It’s not fair, but we don’t have to make a scene.”
+
+“Are teachers allowed to run from students that hard outside of gym? It doesn’t seem right.” Haoyu picked up the packet and sniffed it like that was going to tell them something about why they were being repeatedly snubbed.
+
+“I went over the strategies—down to where I put the commas in our explanations—fifty times last night. You guys, I swear I wrote them up really well. They were good. We have valid plans. We had Lexi and Writher to bust up the pincushion alley! They were going to destroy that obstacle better than any other team.”
+
+Lexi looked concerned. “Thanks for the vote of confidence, but I’m not sure I could do that better than any other team.”
+
+“YOU COULD!”
+
+“Kon…we’ll talk to him tomorrow during runs and try to come up with something he approves of. Remember, he says he’ll put people in if he likes something they think of at the last minute.”
+
+“What if he’s just randomly picking the teams while he sits there relaxing at his desk?” Kon said. “What if it’s all meaningless?”
+
+Vandy was coming down the hall now. Her teammates, smiling and excited about what they’d be doing tomorrow, were following. Vandy, though, was shaking her head at Kon with mild disapproval. “I’m sure Instructor Ash doesn’t randomly decide these things. And you can’t chase him like that. What will he think of you?”
+
+Kon gave her a look so icy Everly should have applauded.
+
+“What were your strategies?” Vandy asked. “They must not have been ideal. Maybe I could give you advice about revisions?”
+
+“I was going to help with the floating island,” Alden offered, hoping to add his voice to the calming ones. “We’ve practiced for it. We had a really valuable practice together even without the gym, didn’t we, guys?”
+
+“It would have been more valuable if we were getting to run tomorrow,” said Mehdi.
+
+Everyone on the girls’ team was looking at Alden like they were trying to see where he was hiding his ability to fly. Except for Heloísa, who suddenly beamed.
+
+“Were you going to throw them all?” she asked in a whisper loud enough to be heard down the hall. “That’s how I wanted to do it, but Vandy said we couldn’t list that as our strategy because it was stupid.”
+
+“I…I didn’t say it was stupid…” Vandy was now turning that judgmental gaze on Alden. “But it isn’t safe. Maybe if you just threw Haoyu.”
+
+“What good is it to just throw Haoyu, though?” Alden asked. “Your team has multiple Shapers, so you have really practical solutions for that obstacle. Of course our strategy for it can’t be as…sleek…as yours.”
+
+“We included video for Ash proving Alden could manage it and everything,” said Kon. He hadn’t bothered to get up from the floor. “Maybe it’s me. Ash doesn’t seem to hate me when I’m practicing my own thing in Superlatives, but he’s prejudiced against me in Coursing.”
+
+“Against you?” The question came from Probably Ram. The all-Brute team had just come out of the classroom, dragging their feet and looking surly. “Yeah, I’ve heard your magic is something weird, but you’re not even the one he made a point of calling out on the first day.”
+
+Did some people have a meeting and decide to look down on me extra hard today or what?
+
+One of the girls on the Brute team elbowed the guy hard enough to send him a step sideways. He looked at her then back at Alden.
+
+“I’m just saying I’d have lost my shit like a Wright on the run if your team got to go this week and ours didn’t.” He spoke in an apologetic tone even though there was no apology within miles of that statement. “We’ve put together a serious contender here. We’re going for interschool championships. Your team is like a mixed bag of friends instead of a competition team. Which is fine for you guys. Whatever. But for us…the rumors about Ash hating Brutes might be true.”
+
+Then he stalked off down the hall, bristling to himself.
+
+“Please tell me he smells like unwashed armpit or goat sweat or something, Jupiter,” said Alden.
+
+She looked pleasantly surprised. “He smells like he ate onions for breakfast.”
+
+“Good.”
+
+“You eat a lot of garlic.”
+
+Alden felt his face heat.
+
+“Don’t worry about it,” said Jupiter. “I like alliums.”
+
+******
+
+******
+
+…I think I’d rather tell a story about a frog that doesn’t start out as a prince.
+
+Others must have lived in that same pool in the forest. Maybe one of them was enjoying a good life, knowing almost nothing but frog stuff, and then his whole world changed because the princess dropped that golden ball into the water.
+
+One day you’re kicking around in the pond, and then this alien mystery falls right past your nose. It’s a color you’ve never seen before, a warm glow in the cool dark. You can tell it’s not a frog thing, but there’s something wonderful about it anyway.
+
+Makes you feel.
+
+Makes you dream.
+
+I don’t know…does that sound like the start of a funny story?
+
+It doesn’t seem right to make fun of a frog like that one. I like that frog.
+
+Forget it, I guess. I’ll go back to the one where the royalty gets punished for trying to kill people.
+
+Maybe the witch was actually trying to fix the prince with temporary froggification? Like a therapist?
+
+Yenu-pezth, but immoral.
+
+To Do:
+
+* Commit to the funny version. Memorize!
+
+*Buy a dry erase board or something cooler than that for visual? Lute’s making a puppet already.
+
+*Learn a few more words that could mean “odious” in Artonan.
+
+That’s enough for right now.
+
+There’s something real, though. About that ball falling into the pond. It’s just a toy to the cursed prince, but to the frog?
+
+Magic.
+
+******
+
+******
+
+******
+
+Alden’s cedar-scented practice candle was going to need replacing soon, but it was waiting for him now on the center of his desk, blackened wick still willing to burn.
+
+His team had agreed they would each spend as much of their afternoon as they could working on alternative Coursing strategies so that they could flood their instructor with options tomorrow morning. Alden had been doing just that for hours, until he finally needed to shut his laptop and hide the growing list of bad ideas from himself.
+
+He’d pulled the candle forward from its place on the back of the desk a couple of minutes ago. The lighting of wicks, or promise sticks, had become a simple thing. But he was giving the matter more in-depth consideration than usual.
+
+He wanted to learn to light the candle with an abbreviation of the normal series of finger flicks.
+
+Setting things on fire by pointing at them would be cool, but that might be too abbreviated…. What if it worked, though? A wizard has to try these things, doesn’t he?
+
+He imagined himself casting the spell properly, trying to focus his authority like he would if this were a normal attempt, but without any of the usual gestures. When it seemed like something might be possible, maybe, he pointed a finger at the wick.
+
+“Burn,” he said in Artonan.
+
+It did feel like he’d tried to cast, but the effect was nothing.
+
+All right. So that doesn’t work like that. Is there a remnant of the command left to find? Like when Stuart and I built the keda bean spell.
+
+He closed his eyes and tried to listen for it.
+
+Daharsee. My own voice but distorted. A reflection of me. It makes sense that it must be here, but it also makes sense that it would be almost impossible to detect for something like this.
+
+The spell hadn’t succeeded. And it was a tiny, tiny spell in the first place.
+
+Finding a needle in a haystack wouldn’t be this hard. This is more like listening for the echo of a sneeze at a rock concert.
+
+He opened his eyes. It had been worth a try to satisfy his curiosity. And he was in no hurry to go back to the list of strategies. They’d been getting more and more absurd.
+
+Suggesting that his team could take out Jupiter, steal all her plant material, and then build a functional ladder out of it in the middle of the run levels of absurd.
+
+He hoped the other guys were having more luck, because he really should switch to rehearsing his story for Warin-doyis’s class soon. He had to present it tomorrow.
+
+He’d be going with a version that was supposed to make the audience laugh. It stuck close to the original through the middle, but at the beginning, the witch told the prince why he was being cursed—for stabbing a klerm that had gotten lost and ended up in his room. And then, for doing the same thing to the klerm prince, the princess was going to get cursed, too.
+
+The pair of klerm royals started whining to each other about it so loudly that they woke another princess, who grabbed a knife and headed downstairs to take care of the odious racket.
+
+Alden was thinking of having the witch sigh and crack her knuckles in the final line as she imagined the number of curses she’d have to cast before these people learned their lesson. But he was still trying to figure out what the equivalent of a “Let’s get down to business” knuckle-cracking would be for Artonan audiences.
+
+Telling a story that made sense to two species was part of the challenge.
+
+I feel bad about not working more on the one where the golden ball gives an ordinary creature dreams about magic and other worlds. I liked that frog.
+
+He wanted to say things about that. But it was harder to get right, and he had to be practical.
+
+Can’t pull an all-nighter tonight when the story I’ve already got is good.
+
+And I imagine the class would rather hear the funny one, anyway. The other doesn’t even have an ending. I’m not sure it has a point that’ll make sense to anyone but me.
+
+That version of the frog is like…my daharsee story. I’ll just let it exist in my head.
+
+He drummed his fingers on the desk and stared up at the underside of his bed.
+
+I should put some more lights under here. Or tape up a poster. It’s not as cozy as it could be, especially when the blackout curtains are shut like this. Since I’m not dying or being banished from Earth in the next few months, it won’t be wasted effort.
+
+Connie had sent a message last week asking if she could put string lights in his old bedroom. Then, once she’d gotten to the store, she’d started sending him pictures of every single item she was thinking of purchasing, like she thought he had important opinions about the color of wastebaskets. He wasn’t sure if she’d been having an unusually indecisive moment, or if he’d said or done something to make her think it was necessary to involve him specifically in this one aspect of home decorating.
+
+He’d called her and teased her about it a little, insisting that the old wastebasket he’d melted one side of was a very important part of his life and should be kept on display so that her fiancé’s nieces could really appreciate it when they visited.
+
+So much new, he thought. Just…new thing, new thing, new thing. One after another.
+
+I wonder how much I missed in intake because I was a freaked-out insomniac. And how much of the new high school experience got washed away by the attack on Matadero. And how many little new things get devoured and forgotten every day because of the big ones.
+
+He’d bought a bunch of furniture and special bedding. He owned rugs and a white noise machine. A gym membership. That was all fancy grown-up stuff. Some part of him remembered to be excited about it for a few seconds every other week, and then it was scenery again.
+
+He was sure if he’d paid to furnish his own place during a calmer period of his life, he’d still be getting daily thrills just from sitting on the sofa in their living room.
+
+I bought a whole sofa. And it’s a nice sofa. I looked at the price, and then I ignored the price, and I bought it. And my three Avowed friends sit on it with me. We have a system for washing dishes together and a guitar.
+
+It’s so much. It would be enough to be excited about for at least a year. If nothing else had happened.
+
+He let his fingers fall flat on the desk and drummed them that way so that he could hear the tapping of his rings against the surface.
+
+Having too many new things in your pond has consequences. Even if a lot of the things themselves are good.
+
+He straightened up in his chair and refocused on the candle. This spell was a short one anyway. Six quick motions was how Gwen-lor had taught it.
+
+I’ll start by halving it, he decided. Turn six motions into three, but be more insistent with my authority than usual.
+
+Hey, Candle. Remember all the times I’ve lit you? We’re going to do it again.
+
+He drew two fingers slowly down in squiggles, used all ten to make the motion that Instructor Gwen-lor had told the children was called ‘the felling of a small tree’, and then, taken by a sudden whim and caught up in the realization that it was working this time, he changed the final motion.
+
+He was talking. The universe was listening. Abundance—the potential for all—was here.
+
+So he snapped his fingers.
+
+A bunch of sparks flew off the wick the instant before the candle lit, which wasn’t how it usually happened.
+
+“Oh!” Excited, Alden pulled the candle right to the edge of his desk and turned it around slowly, looking at every inch of it to see if anything else different had happened. It was burning like normal now.
+
+His first abbreviation had taken the same amount of time as the regular spell, perhaps even more since he’d been going slow on purpose. But that didn’t dim his delight at all. He was so pleased he took a picture without bothering to question what he was going to do with a random candle picture.
+
+Sparky Snappy Lighter. My own special version of the spell. I wonder if it’ll still spark when I get better at it. Could I make that happen on purpose? More sparks? Can Stuart make candles do this?
+
+He blew it out and did it a dozen more times before he made himself go back to his homework. He managed to reduce the number of gestures to two, and he increased his speed. Getting to the instant snap-to-light effect he was now imagining was just going to take a little longer.
+
+******
+
+BREAK
+
+******
+
+In the bottom of that pond, the frog kicked away the mud that the ball had fallen into. He burrowed under it and lifted it. It was very heavy, but he kept going because he wanted to see it shine again as brightly as it had when it was near the surface.
+
+“Does anyone see this?” he kept shouting as he went. “Does anyone see this wonderful round thing I’ve found? I’m kicking and kicking! Won’t someone celebrate the golden ball and help me with it?”
+
+He shouted down into the pond.
+
+He shouted up toward the surface.
+
+He waited for a reply.
+
+******
+
+******
+
+“Alden!” said Rahul. “It’s good to hear from you. Your text said you wanted advice about Instructor Ash’s Coursing class?”
+
+“I do,” said Alden. “But you didn’t have to call me right away if you’re in the middle of something.”
+
+Rahul was with a group of at least eight people who Alden was guessing were also university students, loading what might literally be a ton of equipment into carts at the Apex Wright shop.
+
+“It’s fine,” said Rahul. “I’ve already picked out what I need for our project. We’re building a vending machine for this place’s annual competition. Hopefully, it’ll be launching your purchases into your hands one day when you shop here. No guarantees about those purchases staying in one piece.”
+
+“Fill it with temper spheres,” said Alden. “They’re pretty hard to break.”
+
+Rahul looked interested. “Good idea.”
+
+Despite his attempt to be polite, Alden was glad Rahul had answered now instead of waiting until the end of his shopping trip.
+
+He’d decided to finish his Thursday with a relaxing trip to the recovery sauna, to make sure that he’d be as physically well as possible tomorrow if they did get to run. But while he’d sat there steaming, he’d started steaming mentally, too, over the strategy lists the others had shared with their team chat group. It was obvious that everyone had spent so much time on it throughout the day, and it was also obvious that doing the work had only made them all more frustrated than they had been this morning.
+
+And more lost than ever when it came to what Ash considered worthy of floor time.
+
+Alden should be climbing into bed now, but instead he was drinking his supper in giant smoothie form while he left North of North, messages scrolling fast in the right corner of his vision. Kon, Lexi, and Mehdi were talking about the feasibility of building a ladder during a run. They were talking about using pieces of the course itself instead of vegetation they’d stolen from a defeated Jupiter, but Alden was certain the fact that it had come to this, even for Lexi, was proof they were all going crazy.
+
+“It’s like this,” he said to Rahul. “We have to get Ash’s permission to run during the once-weekly time slot we have for the gym. He picks which teams get to go based on strategies we submit for the two obstacles we know about in advance and then based on vibes as far as I can tell once we’re actually in the gym that day. He didn’t pick my team last week or this week, and there is enough time for every team to run if he wanted to do it that way. So two weeks back to back of not getting to even touch the floor feels like… ”
+
+“Like he’s picking on you?”
+
+“Well, there’s another team it’s happened to as well,” said Alden. “If another teacher did it, I’d think it was a harsh criticism of our planning. But seven of us just spent hours each coming up with different plans for those obstacles, and I think most of them are worse than what we already presented. Unless we take equipment onto the course specifically for the floating island…I could reasonably take a rope, but we can’t reasonably present that to him as our strategy.”
+
+“You’re doing the standard competition rule where opposing teams can object to equipment that’s not on the basics list?” Rahul asked, tossing a coil of tubing onto the top of the nearest cart.
+
+“Right,” said Alden. “So for our basics, elemental weights and piles will be there. And normal clothes are allowed over our suits. I know that rule’s primarily to allow for team costumes, but we were actually going to use the clothes.”
+
+“O-mix usually has rope.”
+
+“O-mix?”
+
+“The pile of random objects?”
+
+“I didn’t know people called it that,” said Alden.
+
+He decided to take a slightly longer route back to his dorm since finishing the monster smoothie and this call were both going to take more time. He continued on past the walkway that would lead him deeper into campus and straight toward Garden Hall, and headed instead for the street that would join up with Celena Circle. The last of the emergency housing was gone. Being able to cross the circle again and hanging out there when the weather wasn’t terrible were things he’d been looking forward to.
+
+“I know the O-mix usually has some amount of some kind of rope,” he said. “And other teams probably aren’t going to object if we ask to carry our own. But doing that for a submitted strategy?”
+
+“I can’t imagine most instructors being okay with it,” Rahul agreed. “A strategy relying on tools you might have on race day instead of ones you can guarantee sounds like lazy homework.”
+
+“The thing is, the strategies we already submitted are pretty close to the best we can do with the team we have,” said Alden. “As far as we can tell, anyway. Everything else we come up with that sounds equally good is also equally dicey. Part of me hopes we’ve missed something obvious, because if not, the alternative is that Instructor Ash was just going to refuse us this week no matter how close our group came to our best answer for the obstacles. And that’s bullshit. That would mean we’ve been trying for no reason. What does he like? Do you know?”
+
+“Just a second.” Rahul told his friends he was going to go get a temper sphere, then set off down the broad aisle. A flash from something on display stained his white shirt red as he passed it. “You know I never did get him to give me anything but the bare minimum amount of attention. I told you that. And you’ve noticed he prefers S-ranks by now, I’m sure.”
+
+Rahul didn’t bother to lower his voice.
+
+“Sort of… ” said Alden. “He made what sounded like a dig about me being the weakest member of the class, but then I’ve started thinking he’s actually calling on me in class more than some of the S’s. So…I don’t know what that’s about.”
+
+“Coursing has desk classes. That’s different than being in the gym. S’s aren’t doing magic behind desks. You asked what he likes. As far as I can tell, he likes magic he hasn’t seen before, magic that can kill him, magic rings, faculty gym hours—he never misses them, and sweets. He doesn’t like boredom, things he’s already seen before in class, me, or vegetables.” Rahul had reached the vending machine where Alden always bought his temper spheres. “He likes really perfect execution, too, but his standards are beyond high school level for that.”
+
+Alden mulled over that peculiar list of likes and dislikes while he turned onto Celena Circle.
+
+The atmosphere was right. Big, glow-in-the-dark beachballs had been scattered around. Most of them were being played with. He spotted Søren hanging out with a couple of guys he didn’t know, sharing a pizza on the grass.
+
+“It sounds like you’re describing some kind of six-year-old. Veggies and boredom bad. Playtime and magic good. I mean, perfect execution probably isn’t something a little kid would find interesting, but everything else… ”
+
+“I may be leaving a few important factors out. But that’s because I never cracked the code myself. I’m surprised you signed up for something with him.” Rahul collected his temper sphere from the machine. “I’m glad I didn’t scare you off….Should I have tried harder to scare you off?”
+
+“No,” said Alden. “A bunch of my friends are doing Coursing. People I want to help out and spend time with. And I needed some more floor hours and teamwork opportunities. It just worked out.”
+
+“Is your team planning to go official?”
+
+“We’re really not on track to beat a bunch of other teams in the next half year and go on to bring CNH glory versus Li Jean and Naya Din. We’re just learning together. Having an established group to meet for regular practices is already fun.”
+
+“That’s good. If you ever figure Ash out, let me know. Honestly, assume the six-year-old analogy is right, and try it out. I never put it that way in my head, but maybe it’ll work for you.”
+
+“I will. Thanks, Rahul.”
+
+He ended the call and looked ahead at the street lamps lining the central walk.
+
+Magic he hasn’t seen before. Or that’s so good it’s dangerous to him. How often does a teacher encounter that here? It’s nonsense. My skill is technically one he hasn’t seen before, so is it just not fun enough for him? Or is it because it’s not scary en—
+
+All of the sudden, something small, cold, and slimy touched the back of his neck. He jumped forward with a yelp, slapping back there. He expected, illogically, to find that a klerm had landed on him. Instead, he spun at the sound of familiar laughter and saw Natalie—way too proud of herself—waving something that looked like ice cream in a push-up tube.
+
+“Natalie Choir, did you just smoosh some kind of frozen dessert against my neck? You animal! Where did you come from?” He wiped off whatever it was and sniffed his hand. “Where did this come from? You didn’t make this.”
+
+It smelled alarming. Like cherries and gasoline.
+
+“This isn’t even edible,” he decided.
+
+“I got you! I snuck up on you even though you’re a trained person. I should be in the hero program for my stealth.” She was holding her frozen thing up in what he was clearly supposed to recognize as a victory pose. She was dressed casually tonight. Cargo pants and a gray sweater. She had a loaded backpack. “It is edible. It’s made of a powdered root bagruoodas like. We mixed it with water like they do, but then nobody could really swallow much of it at once because of the texture. So we froze it while we listened to their drums and learned the different meanings.”
+
+“It’s alien food from your culture club meeting. That’s why you’re on campus late.”
+
+“You should come sometime. Why haven’t you joined yet?” She was licking the gasoline pop.
+
+“Are you sure that’s not bad for you?”
+
+“I can eat twice this much without digestive problems. I’m trying to learn what there is to appreciate about the flavor.” She pointed toward a small group—three guys and a girl—waiting several meters back on the sidewalk. “They all gave up even though it’s a really rare import!”
+
+The looks they were pointing in Alden’s direction were bereft. Like I’ve stolen their core member.
+
+“It’s good to see you,” he said. “Or not see you until after you’d attacked.”
+
+She’d been busy through the holidays. Their paths had barely crossed since break ended. He’d talked to Emilija more since she was still keeping an eye on his social media for him.
+
+People who are upset with you don’t press their frozen root water to your neck. Is that why she did it?
+
+“Are you hanging out with those guys or heading back to Boomtown?” he asked.
+
+“Home,” she said. “They’re just walking me to the bus.”
+
+“The Nine-edge Son is back at Garden Hall. Do you want to fly instead?”
+
+“That would be so much faster! Are you too busy?”
+
+He had to wake up in six hours for his devastatingly early Coursing class with an instructor who might be some kind of sugar-slurping child trapped in a powerful Adjuster’s body.
+
+“Nope,” he said. “I’ve got a little time.”
+
+******
+
+It was a short flight that he made longer by taking them up and up, above the drones and all the usual sky traffic toward a night sky half covered by clouds.
+
+She told him one of the pink sledgehammers he’d sent to their apartment was in the corner of her room. She said that it was the best Christmas present she’d gotten this year. And that she’d propped it up at an angle so that Wobble Gobble could stand on it without falling over onto his origami tail.
+
+Then she told him she’d kissed somebody on New Years, placing the words carefully on top of him and waiting. For some answer she must imagine he was wise and mature enough to have.
+
+He stood beside her on the nonagon’s edge, and he didn’t feel wise enough for anything. He was mature enough not to remind her that she’d told him, only a month or so ago, that now was the wrong time in her own life for her to be kissing people.
+
+I wrote you a letter saying I might never see you again, he thought. And it was very hard to write, but not the hardest to write. I’m swimming with my gold ball here, still wishing for so much. I hope for a profound bond with a knight named Stu-art’h. Something magical I’ve only heard about and don’t fully understand.
+
+I’m not someone who will kiss people without explaining that. I’m not going to explain that to you anytime soon.
+
+So when you tell me things like this and then wait like this, I’m just your friend who says…
+
+“Cool! You scored a kiss? Was it a good kiss?”
+
+“Pretty good,” she said. “It was a spur of the moment thing. Not serious.”
+
+Every bit as casually as him. Like there hadn’t been a weird pause for him to think in.
+
+“Was he a handsome dude? Is there a picture of him on your Trime?”
+
+“You don’t have opinions about how people look, do you? You don’t have to pretend just so we can gossip.”
+
+He blinked. “Tragically, I was born without opinions. And I try to hide it, but due to an eyeball malfunction, all people look like the System to me.”
+
+Her eyes went wide. “I said something rude without meaning to!”
+
+“When I’ve given you compliments in the past, I was lying.” He shook his head sadly. “You’re the same plain white mannequin thingy as everyone else.”
+
+“I’m sorry!”
+
+“It’s fine,” said Alden, watching the lights of a helicopter get farther and farther away. “You put it strange, so I jumped on it. Of course I have opinions about how people look. I can judge the cuteness of all kinds of things. Puppies, plants, post drops—”
+
+She groaned.
+
+“If you have trouble figuring out who’s cute or not, it’s no biggie. Just ask me for help, and I’ll let you know what your acquaintances look like. Emilija is cute-cute and funny. Hadiza is hot-cute and cool.”
+
+“Stop!” said Natalie slapping his shoulder and laughing. “I’m really sorry. Don’t start talking about specific body parts, or I’ll never get whatever you say out of my head.”
+
+“Lexi’s arms, though,” said Alden. “Have you seen them?”
+
+“No!”
+
+“He works hard, and they prove it.”
+
+He thought he’d made the feeling between them right again, so he didn’t keep going in that direction.
+
+Instead, he told her as much as he’d told his roommates the other day. That he was training with the goal of following his wizard friend to dangerous places. That he meant to have a life like that. That he was very serious about it.
+
+“But… ” she said.
+
+The syllable hung there until it died.
+
+“Will you be able to?” she finally asked. “I don’t know how strong an Avowed really has to be for…going to places like you were stuck in. They won’t take B’s for Matadero or battlegroups, will they? So maybe you can’t.”
+
+“I’ll figure it out.”
+
+She was frowning worriedly through the nonagon toward the glitter of the city below.
+
+“My birthday is in March,” he said.
+
+“That’s right.” She looked back up at him. “Isn’t Lute’s next week?”
+
+“Yes, but Lute is taken care of. My birthday is much more important than his, and it’s in March, and I have specific cake requirements.”
+
+“Not cake requirements. What will you do?”
+
+“If only I knew a baker.”
+
+“If only.” She paused. “It’s good you’re asking now, though. I’ve got so much work for the next few months. I might have gotten carried away and said yes to a few too many rich people during the hop parties.”
+
+“I still kick ass at washing dishes. Call me if you need me for that.”
+
+“I’ll do it.”
+
+“And if you ever want some ingredients from the Artonas, I could be your import man.”
+
+“Really!?” She whirled so fast, he grabbed her arm reflexively to make sure she stayed onboard the nonagon. “I’ll send you my main list right this second.”
+
+“The list already exists?”
+
+“Of course! Natalie’s Dream Ingredients Main List.”
+
+“Main list? There are sublists? Why would there be sublists for something like that?”
+
+“I’ll have money soon, so it’s not like you have to buy any of it. I’ll pay!”
+
+I hope Stuart doesn’t mind going shopping for way too many groceries.
+
+******
+
+******
+
+Before bed, he snapped at the cedar candle several times. He was getting faster and faster. Watching it light up with all the sparks was just as delightful as it had been earlier.
+
+And just as solitary.
+
+I wish Stuart would call, he thought.
+
+I wish Boe was ready for a real conversation.
+
+I’d like to crush that course in gym tomorrow with the guys, and I want that somehow to make it easier for Konstantin to talk to his family.
+
+I wish I could tell my favorite version of the frog’s story to Warin-doyis’s class tomorrow.
+
+Even more than that…I wish I knew how it ends.
+
+******
+
+******
+
+“In old times,” the original story begins, “when wishing was having… ”
+
+As if all of those characters live closer to their wishes than we do. Like knowing your heart’s desire is enough, and getting it is the natural conclusion.
+
+It doesn’t seem to work like that for my real frog, whose whole world was changed by the golden ball.
+
+He just keeps swimming with it. Struggling upwards with the burden. Calling out. Wanting.
+
+Waiting.

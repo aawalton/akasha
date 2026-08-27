@@ -1,0 +1,219 @@
+---
+id: 0e576fcc-74e1-58cb-a023-a452d384f76b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 140: Beastkin"
+slug: 0140-chapter-140-beastkin
+partOf: phoenix-ascension-cultivation-litrpg
+position: 140
+ownLength: 2694
+unit: words
+publishedAt: 2026-06-16
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3549529/chapter-140-beastkin"
+royalRoadId: "3549529"
+---
+
+The process after getting Perfect Disguise to Master was pretty straight forward. First, I leanred what the time limit was for the disguise. As it turned out, pretty long, I supposed. It wasn’t as long as when I’d used it on me.
+
+After about two hours, the disguise would vanish and the seeds would return to normal.
+
+With that concluded, I tried changing the shape of the things. I’d managed to turn them into rocks, well, pebbles really. That disguise lasted only one hour. It became apparent that the trickier the illusion, the shorter it would last.
+
+That meant that for what I wanted to do, it would only last a few minutes at the maximum. It wasn’t nearly enough. I had to keep improving.
+
+Out of curiosity, I looked at the description for Perfect Disguise.
+
+[Perfect Disguise]
+
+[Completely changes the user’s aura, appearance and many other aspects based on user’s preferences. This skill is severely limited by user’s mental prowess, imagination, will and charisma stat. The skill has a limited duration based on user’s charisma. This skill can only be seen through by beings more powerful than the user. This skill can transform other entities or living beings for a limited duration based on the user’s desires.]
+
+As expected, the skin descriptiong changed as well. It now reflected its new abilities. It didn't say anything else though, which was a damn shame.
+
+Either way, with it at the Master rank, I had a much easier time using it. My own appearance also felt more natural, and somewhat more real.
+
+As for whatever illusions I was creating outside of my body, well, it was obvious that it wasn't real. Not even slightly. The rock illusion had too many errors, it was almost emabrassing to admit, honestly.
+
+But I was only at the beginning, and had many more experiments to complete.
+
+Unfortunately, I had to stop after a few hours, as the girl had returned. She didn't rush to her bed that time around, but instead walked toward my cage.
+
+Her fist opened to reveal a small, egg-shaped object. It was round, and shiny, and more spherical than oval. She'd put it in my cage, then left to her bed.
+
+I looked at the thing with curiosity, and thankfully, the idnetifying skill had my back.
+
+[Small Bird Egg]
+
+... Thanks.
+
+But why had she given me an egg? What was I supposed to do with it? Did she expect me to hatch it? What the fuck?
+
+I waited for her to fall asleep and put the egg to the side. I had to focus, and this wouldn't do. I had to focus, focus, and make this work.
+
+I would make it work.
+
+***
+
+With enough time passing, though I was pretty sure it wasn't actually that much time, I'd seen some success. The girl didn't stop giving me gifts in the meanwhile, all ranging from precious stones to more eggs I had no intention of hatching.
+
+It was beginning to be quite  hassle, as my cage had gotten full of crap.
+
+Although some of her gifts were welcome, such as spirit stones and cores. They were very low-ranked though, so whatever they gave me was neglibigle. Still, it was the thought that mattered.
+
+The more time I spent with the girl, the more I was questioning if I'd had the wrong impression of her. She was nice, way too nice, in fact.
+
+She was either natually nice, or a very good actor. I was willing to be it was the latter. She wa wanting me to let my guard down, I was sure of it.
+
+I couldn't allow her to take advantage of me.
+
+Instead of loosening up, I became more careful. Stopping my experiments every hour or so to check that nobody was watching.
+
+Only after making sure three times that the coast was clear did I start trying once again. For extra safety, I also created a thin Qi barrier around me.
+
+It wouldn't do much besides alert me if someone was using Divine Sense. Their faint Qi would pop the barrier and  I would be alerted. That gave me more piece of mind.
+
+For all intents and purposes, it wasn't traceable, which meant that not even Divine Sense could detect it.
+
+I'd finally gotten the results I wanted after what felt like forever.
+
+The small grain had turned into a rock, and it looked unsintguishable from the real thing both visually and under Divine Sense. For that matter, not even the identification skill could detect what it truly was.
+
+After three hours, the rock turned back into a grain.
+
+The time limit for simple creations was three hours. Next, I experimented with multiple, more complex creationgs. They ranged from plants to beasts, and all of them had a different lifepsan.
+
+Non living objects lasted the longest, while the living ones looked like corpses. There was not a single ounce of life in them.
+
+Even so, still as they were, they only lasted about one hour.
+
+This experience was extremely valuable though.
+
+Over the course of the next few hours, I wokred on perfecting the technique furhter. It wasn't as easy as forcing my imagination upon them, but it was close.
+
+There had to be a certain degree of intent and understanding of the thing you wanted to re-create. A rock was easy, and so was a plant. But the behaviour of an enitre living oranism?
+
+Unless I spent time closely obsering the real thing, copying them would be hard. As a result, the only subject I could try to recreate was me.
+
+That was the entire point to begin with, but I wasn't expecting to have to try so early. Well, it didn't matter. All I had to do was keep trying.
+
+***
+
+After a few nights, I had what I could call an almost perfect replica of me. It was not behaving like me, however. It was rahter dump, much like a certain red bird, and didn't do much expect look into the voide and preen her feathers.
+
+However the mere fact that I was looking at a direct, complete replica of myself was pretty insane. I scanned it with my Divine Sense, and the information was right. Her Qi signautre was also the same... almost. It had to be unique, bu t it came as close to mine as possible.
+
+It was made of grain and other materials the little girl had brought. I figured I might as well use them since they were there. In total, there were three Spirit Stones holding the illusion togeter. One in the head, one in the chest, and one in the stomach.
+
+That way it would not disappear or break apart easily. It also lasted far longer than usual.
+
+I undid the illusion just as the door opened, and the little entered, as usual. She wasn't alone, though. Butler Mo was with her.
+
+He inspected me closely, raising an eyeborw. I felt my Qi buble pop, though he didn't seem to have had noticed. That was exactly what I was wanting from it.
+
+Although it didn’t seem like he was there to see me. Instead, he followed the little girl o her bed and grabbed her hand. He sent some Qi into her arm, then gingerly nodded to himself. A rare smile broke on Butler Mo’s face, and he tucked her in.
+
+He left after giving me a second glance.
+
+After he closed the door, plunging us in darkness, I made my move. Creating the fake me, I made sure that it was looking like it was asleep. Making sure everything was right, it was time to put my plan into action.
+
+I jumped down from the cage and activated all three of my stealth skills at the same time. I’d become one with the shadows and stuck to the walls. When I got to the door, I waited, listening for breathing and probing with my Divine Sense.
+
+There was nobody, so I opened it a little and went outside without a sound. The hallway was well lit, but that didn’t stop my stealth skills from working flawlessly. I had three of them, so they’d better have worked.
+
+Next was trying to position myself. I didn’t see much nor did I the layout, but based on my probes, Guo Lu Poo’s office was somewhere on the right side of the building. There weren’t many servants there and, well, there were two bodyguards sitting right in front of the door.
+
+I wasn’t sure if he was sleeping at this hour, and I didn’t have much time to figure out his pattern. I was going to take the first opportunity that I could, if not to get what I want but to get information.
+
+Butler Mo was the biggest issue here. He was expecting me to do something, and I was willing to bet he’d always be vigilant. Even as I snuck out, I kept probing.
+
+The bubble I’d left in the room was still intact, and there was also one around me just to be safe. If either of them triggered, I would know.
+
+Making my way forward, I’d noticed that the building was quiet. Few servants were moving around at this hour of the night, but those that did were rather strong.
+
+At least at the Foundation Establishment stage.
+
+They weren’t good enough to detect me though. Besides Butler Mo, Guo Lu Poo was probably the only person who could. Thugh I wasn’t planning on staying in his presence for that long, if at all.
+
+Tonight’s mission was to confirm the location of his office.
+
+After carefully making my way through the giant mansion, seriously, it was far too big! I’d finally found the room guarded by the two cultivators. They were at the late stage of Foundation Establishment, but honestly, they were there just for show.
+
+I crept closer and made sure to remain as little as possible, all three of my stealth skills working on overdrive.
+
+[Skill:Self-Shroud(Beginner) has ranked up to Self-Shroud(Intermediate)]
+
+Nice!
+
+One of them must have had a slightly bigger detection ability, but it stood no chance against my skills! Ah, I could almost break into laughter.
+
+I owed to Meng Mao, though. Without him my skills would not have ranked up so much. He was a good man… ha! As if.
+
+I’d already walked past the guards and tried to peer through the key hole. Unfortunately, doing that was rather difficult, considering my height. Still, being that close to the door told me everything I needed to know. The pressure exuding out of it was immense.
+
+That was definitely the aura of a strong cultivator.
+
+***
+
+Yo Na’s eyes slowly blinked open as she sensed some sort of movement. Currently, she was perched atop a tree branch in her original form. Below, she saw some critter move about, but paid them no mind.
+
+She was on guard duty, although she really didn’t need to be. She was strong enough that nothing that treasured their life would come close. Still, even she had to admit that the Spirit Beasts past the village were stronger.
+
+As for why she was on guard duty? Yo Na was still travelling with Xing Ya Chen and the rest. She still hadn’t learned how to speak the human language, though she could understand it just fine. Part of her was beginning to believe someone was pulling a prank.
+
+She was in her original form because she’d discovered that her Perfect Disguise, was not indefinite. It would expire after about ten hours, and would need to let it come off cooldown to use it again.
+
+As a result, she took guard duty most often than not, and hid into the shadows until it was morning. Nobody questioned her, and they appreciated her. The kids were still too weak to go for days without sleep. As for Xing Ya Chen and Shang Hue?... Yo Na didn’t trust them.
+
+The bird cared for these humans, so she had to at least protect them, and do it well. In the meanwhile, she was hoping that she’d be able to gather everything they needed to make sure her son could live a normal life.
+
+Although nothing would ever be normal about him. At that point she didn’t care. She just longed to lick his fat face and feed him.
+
+It’d been so long that she’d nearly forgotten what he’d looked like. A wave of nostalgia washed over her, but there was no time to slump.
+
+She blinked slowly, her eyes sharp and nose sniffing the air.
+
+Suddenly, her eyes snapped open. She sensed something, or rather, someone. Humans, walking through the forest and heading in their direction.
+
+She listened closely. There were at least twenty, probably more. Yo Na didn’t hesitate to jump down from the tree and change into the human form, the clothes gifted by the bird wrapping to fit her body.
+
+Without them she would have probably gone naked.
+
+Not that it mattered to her, but humans seemed to care about these things.
+
+Reaching the camp, she sounded the alarm— A scream that sounded more like a roar than a scream, but everyone immediately knew what it meant. They all jumped to their feet, weapons in hand, ready for a fight.
+
+The figures Yo Na had sensed appeared quickly around them, surrounding them from all sides. They didn’t look like bandits, far from it. Refined, wearing proper clothes and fancy weaponry, they seemed to be cultivators from a sect.
+
+Their hanfu had no sect emblem, though, which meant that they were either rogue cultivators, or trying to hide their identity. For all Yo Na knew, these weren’t even their real faces.
+
+However, none of them spoke, and instead insisted on attacking.
+
+The one at the front— a handsome young man with dark long hair and a thin build— flew forward, unleashing a palm strike at Yo Na. She picked up a sword from nearby and defended.
+
+Unfortunately, it wasn’t as good as her claws, and she didn’t know how to wield one yet. She bit her lip, and cursed inwardly. Despite how much she’d tried, she couldn’t make her human form have any sort of her original form’s abilities.
+
+She was beginning to su pect it was because her skill wasn’t good enough, so she had to practice.
+
+Although that wasn’t what she had to worry about in that moment. She really hated that her human form was so weak, but there was very little she could do about it.
+
+She’d deflected another strike, but they were outnumbered at least five to one. The children could barely be considered cultivators, the woman had good technique but lacked killing power, and the man was less than a little useless.
+
+He was a merchant, what good was he at fighting? As a result, it was up to Yo Na to bear the brunt of the battles.
+
+That also meant that if she’d failed, there was no telling what would happen to them.
+
+And then there was no telling what that bird would do…
+
+Without a word, she spun the sword on her wrist, at least she’d tried, but she’d failed. At the very least she hadn’t lost the sword, but her attack had turned from a thrust to a swipe. The man attacking her laughed and easily deflected her attack, forcing her to drop her sword.
+
+Next, he raised his sword and smashed it down, infusing it with Qi.
+
+Yo Na saw it come down, and in that moment, all she could think about was her son, and anger coursed through her.
+
+Damn it just give me one claw at least! She yelled inwardly, activating the skill to its extent.
+
+A notification appeared in her eyes, and she reached out instinctively.
+
+Suddenly the blade stopped and all the Qi dissipated from the attack. The man’s face fell as she stared at the woman before him.
+
+His sword had been blocked by a large paw that continued down until Yo Na’s shoulder, creating a disproportionate image.
+
+“B-beastkin?!” He yelled, those being this first words since they’d started the fight.

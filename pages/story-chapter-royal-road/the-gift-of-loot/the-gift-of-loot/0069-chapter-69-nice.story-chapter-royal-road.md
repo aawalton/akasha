@@ -1,0 +1,277 @@
+---
+id: 8d25fc72-961b-5d24-abd0-07093b8de855
+page-type-slug: story-chapter-royal-road
+title: "Chapter 69: Nice"
+slug: 0069-chapter-69-nice
+partOf: the-gift-of-loot
+position: 69
+ownLength: 3814
+unit: words
+publishedAt: 2026-08-17
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3826562/chapter-69-nice"
+royalRoadId: "3826562"
+---
+
+It was time for the loot.
+
+Thomas looked over the fallen sub-boss eagerly, then frowned, seeing nothing standing out. Then he practically face-palmed and checked him over again, this time with his Eyes of Riches skill activated.
+
+Two points of light were hidden just under the golem's back, as if he had fallen on it, but his arm was also glowing.
+
+Frowning, Thomas knelt to check it out just as Zach and Jo came running up.
+
+"Dude, that was awesome!" Zach said with a friendly backslap. "I was worried there for a second, but that's egg on my face. You took out the thing just like that."
+
+Jo added her voice, a lot less nuanced, which figured since she had a hand firmly clamped over her sword, showing that her Still Waters skill was still active. "That went a lot better than I figured it would."
+
+"Yeah, it was pretty awesome," Thomas acknowledged, though his grin faded a moment later. "I am completely out of Light Mana, though. It burned everything I had left." Luckily, he had another couple of crystals from the Griffin dungeon, but absorbing that first mana crystal had taken a few minutes and some serious concentration. Doing so now, when he could see flocks of oncoming swords gathering in the distance, seemed unwise.
+
+"You okay, bro?" Zach asked.
+
+"I have Wellspring, Adaptation and Healing to fall back on, but it means the enchantment on my halberd is out for the rest of this dive."
+
+He was underplaying it a little and suspected that Zach was catching it, but Thomas could handle it. He just felt a little empty inside and sort of hungry, and his limbs felt heavier too. He wondered if the light mana had been actually making him lighter in weight too.
+
+"Help me out with this," he said to cover the moment. "I think the loot is under this golem for some reason."
+
+A soldier made of swords was heavy, and it took all three of them to roll the thing on its side, but it was worth it to see a pale silver mana crystal, at least B-grade, and beside it, a skill shard.
+
+Thomas whooped and picked both up. "Roll him back. There's something going on with his arm too."
+
+"What kind of mana is that?" Jo asked.
+
+That was a good question that briefly derailed his train of thought. It had the look of metal mana, except it was a few shades paler, and it certainly didn't have the feel of metal mana.
+
+Thomas turned it over in his fingers and queried the System. His eyebrows rose. "It's... Sword mana."
+
+"Sword mana, really? Awesome," Zach said. "That is hella rare."
+
+Jo held out her hand. "Lemme take a feel for it."
+
+Thomas could tell he certainly wasn't compatible, so he dropped the crystal in her hand.
+
+Jo went silent for a moment, her gaze turning inward, then her expression fell. "No, not compatible. Too bad, I would've liked that." Her tone was light, but it was obvious she was disappointed.
+
+Jo held it out to Zach. He looked at it for a moment, head slightly cocked, then with a slight shrug, took it in his hand. After a moment, he shook his head and held it back to Thomas. "Compatible, but this one's not for me."
+
+"Are you sure?" Thomas asked. He'd seen how Zach could pick up basically any sword and use it, no problem. Then again, that might be the answer right there. Zach had vaguely mentioned some of the intense training and blood-sport tournaments he went through as a kid. It wasn't a stretch to guess he wanted nothing more to do with that life.
+
+Zach shrugged, easy as ever, but Thomas didn't buy it for a second. "I've got Fire, Teleport, Sky, and Adaptation to juggle. I don't need this fifth thing. Besides..." Zach flashed a grin that didn't quite meet his eyes. "Swords have never been my style."
+
+Thomas let it go and dropped the mana in his pack along with the others. They were getting quite the collection, and he was not complaining. "We'll sell it elsewhere for a pretty penny."
+
+He glanced up to check the status of the sword flock. They seemed to be circling closer than ever, but none were within immediate distance.
+
+Jo and Zach were keeping an eye out for more of those solo backstabbing daggers, so with that in mind, he took a look at the skill shard instead.
+
+The System tag labeled it as Duelist Grounds. For the System, that was a downright modest title.
+
+"Duelist Grounds?" Jo repeated when Thomas spoke aloud. "So it's a sword skill?" She looked interested.
+
+Zach wiggled his head back and forth in a so-so gesture. "My best guess is it forces a duel between two opponents. Like, it locks two people into it whether they want it or not."
+
+"So it's a compulsion?" Thomas asked. He had enough trouble with his healing mana emphasizing compassion; he really didn't like the idea of anything else messing with his mind.
+
+"Maybe," Zach allowed. "I've heard of a version, though I'm not sure if it's this one, where the barrier drops around both the combatants and only the victor gets out."
+
+That effectively killed Jo's enthusiasm. "That's dark." She shook her head. "Never mind, I don't want it."
+
+"I don't know if that's what it does for sure," Zach said. "It's only a guess."
+
+"Fair," Thomas said. "We can get it appraised at the LA marketplace." He slid the shard into an inside pocket in his backpack so it didn't bump around with the mana crystals.
+
+Then he glanced at the sword golem, and his Eyes of Riches once again pointed him toward the arm. Kneeling, he ran his hand along the gauntlet shape of the forearm. The detail work from this dungeon was amazing, and it looked like a blade had twisted itself around to mimic forearm muscles. His seeking fingers caught a latch, and he unlocked it with a snap. The arm guard came away clean.
+
+"Whoa." He held it up close to look. It had faint lines running up and down it which the rest of the golem didn't have. "I think this might be a hidden loot drop..." He trailed off, his stomach sinking as the implications hit full-on.
+
+Zach immediately picked up on his expression. "What is it?"
+
+"I haven't been examining dead monsters closely with my Eyes of Riches skill. How much I've left behind on accident?" Thomas looked up at him, his eyes haunted. "How much loot have I just... walked passed?"
+
+"Are you serious?" Jo asked. "That's it? You almost gave me a heart attack."
+
+"Guys, you don't understand. What if hidden drops on monsters are a normal thing and I haven't been looking the right way? I've been diving for weeks!"
+
+Jo looked like she was trying not to smile. "And you've been picking up more loot than anyone else, even though you might have overlooked some."
+
+"Come on, bro." Zach helped him stand. "Don't think about it that way, you'll just drive yourself nuts."
+
+"I must have missed so much..." He knew he was being a little bit dramatic, but not too much; it did almost physically hurt thinking about all the loot he might've missed out on. What if they had all been rare items?!
+
+One thing was for sure: he was definitely going to be using his Eyes of Riches skill as much as possible, because leaving loot behind like that when he didn't need to was an unforced error. He wouldn't be repeating it.
+
+"Tell me about this drop," Zach said, which helped distract him. "It's an arm guard, right?"
+
+Thomas knew Zach could have looked at it himself, and he probably did, but talking helped him move past his complete bonehead mistake. He took a breath and made himself concentrate. "The System calls it the Swordsman's Assist, but it's deftly enchanted. Since I'm no swordsman..." He held it out to Jo.
+
+"I'm no swordsman either," she said with a smile, but took it and looked it over. "Are you sure?"
+
+"Give it a try and see what it does. If it's not for you, we can sell it."
+
+She stuck her forearm into the curve of the metal, and it automatically cinched around her and refit her smaller frame. Holding it up, Jo examined it. "Well, if nothing else, it'll be a good guard." She unsheathed her sword and swished it. Even to Thomas's untrained eye, the movements looked more fluid than usual. "Actually... it feels like it's nudging me to move in different directions. Weird."
+
+"Here comes trouble," Zach warned. "The flock's... uh, flocking up."
+
+Sure enough, the swords were gathering above for another run at them, and there were more than ever before.
+
+Thomas rolled his shoulders. "Everyone good to go?" He certainly was, but he had to check.
+
+"You betcha," Jo said.
+
+Zach nodded, then hesitated, his gaze landing on Thomas. "You good, though? Really? You just said that you were empty on Light mana."
+
+"Sure, but I'm not made of glass." Thomas hefted his shield onto his arm, and it turned rose gold. "I have three other wells of mana to lean on. Besides..." He grinned back at Zach. "This place has been a gold mine. I'm not ready to leave yet."
+
+Satisfied, Zach picked up his own temporary sword. "Let's go."
+
+Flying sword monsters peeled off of the incoming flock to dive at them. Thomas placed himself in front of the other two with the shield up, bashing blade after blade as it came in. Afterwards, each sword seemed confused and hesitant as it registered exactly what kind of mana it had run into. They were stuck in limbo.
+
+Those that weren't stymied by his shield were quickly taken out by Zach. He dodged anything incoming with a natural agility enhanced by Sky mana with no teleport required. Either he struck the crystals with his own sword, or occasionally grabbed up a dead sword with an off hand and got one swing out of it before it crumbled to dust.
+
+When too many swords were attacking at once or they needed a break, he lit a firework in the sky and caused absolute pandemonium to the flock.
+
+As for Jo, she was a different fighter than she'd been just an hour ago. She still moved like Jo, with the same precise movements that Still Waters gave her, but now she'd added a smoothness to every transition that hadn't been there before. The arm guard was on her dominant hand, and twice Thomas caught her pivoting into a parry a half second before the flying sword actually arrived. It was as if she had known exactly where it would be before it got there.
+
+"Is that you or the arm guard?" he asked, when they had a moment to talk.
+
+"A little of both!" Jo called back. Though she was still using her Still Waters, he caught a bit of excitement and joy in her voice. "It's not moving my arm, it's more like..." She paused to cut a flying sword out of the air, smashing two crystals at once so that it lost its flying ability and flopped on the ground. "It's like a really, really pushy dance partner!"
+
+"Sounds like a training aid, only don't rely too much on it," Zach warned. "That's how people get predictable."
+
+"All right, all right," Jo called back, but Thomas wasn't certain that she was taking him seriously. After all, she was on a roll and taking out more swords than the both of them.
+
+In the spare moments they had free between waves, Thomas quickly brought down his halberd on any of the half-dead, still-flopping swords, then shoved the dropped crystals into his pack. There were two more real sword drops as well. He didn't have time to look closely at any of it other than to note there was a lot.
+
+Then, with his Eyes of Riches still activated, he caught a flash of familiar purple-silver at the edge of the next flock. "That one could be good!" he called, pointing to it. "It's a straight sword... thing. The one on the edge of the flock."
+
+"Short sword," Zach corrected absently, as he used a rare ribbon of fire to snap away a backstabbing blade that had been trying to sneak up on him.
+
+"Doesn't look so short," Thomas countered.
+
+"Sure, compared to the greatsword but--"
+
+Jo cut across their bickering. "I call dibs!"
+
+As if the special sword heard them, it dived next, and Thomas saw that it was different from what they had seen before. The edge of the blade was dark and dripping viscous fluid. "Watch out, it's poisoned!"
+
+He moved in to help with the shield, but Jo had already parried the poisoned short sword away and delivered a cut that destroyed two crystals on the hilt.
+
+Its flying capability gone, the sword flopped on the ground like a dying fish.
+
+Smiling, Jo bent and made an easy, flicking cut to kill it, but at the last second, the sword twisted at an angle and connected with the back of her hand. Jo yanked her arm back with a hiss.
+
+Then she did a double-take, looked at the back of her hand, and shrieked. The surprise had cut through even her Still Waters.
+
+Thomas was at her side in an instant. The cut wasn't bad at all, but inky blackness was spreading under her skin already and crawling past her knuckles.
+
+"You're poisoned. Zach, get her to the safe room, now!"
+
+As he said that, he turned with his shield raised to put himself between Jo and two more swords that were diving down from the flock.
+
+Thomas planted his feet and let them come. He feinted at each one as they closed with a sharp lunge of his shield, and after they bounced off the surface, they hovered nearby, confused and furious, but unable to attack through the healing mana. Thomas used that hesitation to keep them away from his teammates as he backed toward the safe room, one measured step at a time.
+
+He walked past the poison sword, which was still twitching. Thomas glanced down long enough to bash it with the hammer end of his halberd as he passed, then quickly dipped to scoop up the crystal it dropped and shoved it into his pocket.
+
+Combat Foresight warned him with a ghostly flicker in the corner of his eye. He turned to intercept a backstabbing dagger that had come flying at him, catching it with his shield and knocking it away.
+
+His turn exposed an opening, and two swords rushed at him. Somehow, he was able to use the halberd in his off-hand to knock one away, then ducked around the other, spinning to the side and putting up his shield between them all.
+
+He backed up again. More swords were coming from the flock. If he wasn't careful, he'd be overwhelmed. He backed up faster, then ten feet from the door he turned and ran at a dead sprint, slamming through the door and shutting it.
+
+Swords struck the other side. Thomas held up his shield, remembering how the grizzly bear had destroyed the door, but these swords didn't seem to have the strength of a full-grown bear. Maybe the golem swordsman could, but individually they couldn't break through.
+
+Chest heaving, Thomas turned, and the sight of Jo drained away any ounce of triumph he might've felt. The inky poison had gone past her wrist, and her whole hand below it looked black and withered and dead.
+
+She was sitting on the floor. Zach sat in front of her, cross-legged, his voice low and calm.
+
+"You have poison mana, Jo. You can beat this. Reach to the core and direct it to counter this toxin. Make it your own."
+
+Thomas stepped forward, every instinct in him screaming to shove past and just fix her.
+
+"Give her a second," Zach said, not looking away from Jo. He continued in his yoga-instructor tone, "Abilities are created when we are at the edge of life and death. She has it within her to counter this. She just has to find it."
+
+For her part, Jo's jaw was clenched, her good hand wrapped around the elbow of her dying arm.
+
+"Come on, Jo," Zach said softer. "Your mana is the essence of poison."
+
+She was trying. Her face screwed up with concentration, and she breathed out sharply from her nose. However, the poison was still advancing, darkening her arm bit by bit. Whatever she was doing, it wasn't working.
+
+If it gets past her elbow, I'm calling it, Thomas promised himself, and forced himself to look away. It almost physically hurt, and everything within him screamed to get in there and stop this before the poison went too far.
+
+Knowing Zach was right didn't make it any easier to endure. Thomas found he couldn't just stand in one place and instead paced back and forth the two steps it took him to cross the small room. That probably wasn't optimal for Jo's concentration, but this was literally the best he could do.
+
+Jo called it before the last thread of Thomas's restraint broke. "I can't." Her voice cracked, her Still Waters skill completely dropping. "I can't. I'm not cut out for this mana stuff like you guys." She looked up at Thomas, pleading.
+
+That was all it took. Thomas knelt beside her, taking her ruined arm carefully. Seeing it was like a physical ache under his ribs. Her hand felt cold and unresponsive. "All right, I got you. It's gonna be fine, Jo. I'll induce the purge, but we have to leave this dungeon first."
+
+Jo's expression crumpled. "What?" She looked between him and Zach with guilt plain across her features. "Leave the dungeon? I'm sorry, I should've..."
+
+"Don't," Thomas said, sharper than he meant to. Then he gentled his voice. "It's not your fault."
+
+Zach nodded with no trace of judgment and stood. "I'll go first and make sure nothing's waiting for us outside." Then he was out the door, curved sword in hand.
+
+"I'm sorry," Jo said again.
+
+"It's okay, Jo," Thomas said. He got an arm under her good one and helped her stand up. "We don't have to finish every dungeon, and you really don't want to purge in here."
+
+He led her through the door, conscious every second that the poison was still advancing, though his Health Sight showed that it was contained just to her arm for now.
+
+Outside, night had fallen. Zach stood like a sentinel a few yards off. He glanced at Thomas and shook his head. "We're clear. There's no one around."
+
+Thomas used his Health Sight to sweep the area anyway. Other than a few small animals, there was no telltale glow of life.
+
+Zach went through his pack and grabbed a flashlight, sweeping it around them.
+
+When the beam hit a strand of saplings a short walk off, Thomas said, "That will give her privacy, if nothing else."
+
+He guided Jo there. Her breathing was shallow and fast and she shook slightly. He didn't think it was the poison—the nerves looked completely dead, so there was no pain—it was just fear, and he couldn't blame her.
+
+"You can fix my arm, right?" she asked with a shaky voice.
+
+"Yes, it'll be fine." He urged her to sit on the pine-needled ground and knelt in front of her. Then he placed one hand on her forehead, the other finding her core. "This next part is going to be rough, but just get it all out and we'll deal with the damage after."
+
+He didn't wait for her to brace. He activated his Purge ability.
+
+_____
+
+Thomas and Zach sat around a campfire. The sounds of retching and... other horrible things had stopped a little bit ago, and the crickets were starting up again now that all was clear.
+
+Once it became certain the purge was taking care of the poison, Thomas had given Jo some space to allow her a little dignity. Plus... the smell was unbelievable. Thankfully, the campfire was upwind.
+
+"I'm thinking maybe I'll just deal with hangovers the old-fashioned way," Zach said. "No purge for me."
+
+Thomas snorted. "Told you it was bad."
+
+From the darkness Jo called, "Do you guys have any more full canteens over there?"
+
+Thomas and Zach each had one, which Thomas helpfully lobbed into the trees then backed away to safety.
+
+Presently Jo came out of seclusion, wearing a new T-shirt and shorts she had scavenged from her own pack, smiling sheepishly and still holding her rather withered yet alive and now working hand. She stepped into the firelight. "You said you can fix this, right?"
+
+Thomas couldn't answer for a moment. His tongue was stuck to the roof of his mouth.
+
+Zach, too, was staring. Then he let out a low whistle.
+
+That unfroze Thomas, who elbowed him.
+
+Smile slipping, Jo looked between the two of them, unsure. "What? Did I miss some? It was kind of coming out everywhere. Even my skin."
+
+"No... you didn't miss anything," Thomas said, though his voice came out a little strangled.
+
+It was as if every imperfection, real or imagined, had been buffed out of her skin. No sun damage, no wrinkles, no blemishes whatsoever. Her eyes were so clear they looked larger, without a hint of redness, even though she had been going through an ordeal for the last half hour or so. Her cheeks had a youthful fullness, and the rest of her body looked... firmer yet more supple, noticeable even fully clothed. Even her hair somehow was a brighter shade of ashy blonde.
+
+Jo was a pretty woman, he knew that, even though as his teammate he did his best to remain professional, but... now it was like she had the makings of a model.
+
+Yes, leveling up had seemed to lend a little radiance to her but the effects had been subtle. This was not subtle.
+
+Zach turned to Thomas. "Dude, I changed my mind. Purge me."
+
+"What? No!"
+
+"You look amazing, Jo," Zach said, as she started to become visibly annoyed. "You seriously look like you came out of a two-week, hundred-thousand-dollar spa center."
+
+And also had a facelift to erase ten years, Thomas did not add, also never seen a tray of fast food or non-organic vegetable in your life.
+
+Jo looked at Zach as if he were nuts then quickly turned to dig through the front pocket of her pack. She pulled out one of those compact makeup things with a mirror and stared at her own reflection.
+
+Snapping it shut she whirled on Thomas. "What did you do to me?"

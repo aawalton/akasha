@@ -1,0 +1,245 @@
+---
+id: 21fcb84f-41c1-51ce-aebf-bc201b2247ec
+page-type-slug: story-chapter-royal-road
+title: "042 - I Missed Gravity"
+slug: 0042-042-i-missed-gravity
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 42
+ownLength: 1873
+unit: words
+publishedAt: 2026-06-15
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3540843/042-i-missed-gravity"
+royalRoadId: "3540843"
+---
+
+I woke at the crack of dawn and immediately checked my new list.
+
+'Red Fox' (daily)
+
+'Orca' (daily)
+
+'Honey Badger' (daily)
+
+"Are you fucking kidding me," I muttered before I caught myself. I liked all of them. I just couldn't simply rotate through those three in my tiny bedroom.
+
+While my own party was mostly still asleep, the other was already gathered at the fire station's entrance. It looked like they were already about to leave.
+
+And I hadn't asked Constance for that spell.
+
+I jumped out of bed, grabbed some clothes, and quickly dressed before running to intercept them.
+
+"Wait, wait, wait," I called out. Their dots had already left the building.
+
+They all stood in the street and looked rather perplexed as I ran out of the fire station, barefoot and wearing yesterday's bloody clothes. Only Jason looked plainly annoyed.
+
+"Good morning, Eve," Anthony said.
+
+"Hey," I replied. "Constance. Before you all leave, I need your help."
+
+I turned to Claire's spot and called out for her. "Claire! Get down here!"
+
+"What can I do for you?" asked Constance.
+
+"I need your Holy Armor spell to survive what I'm about to do. Why are you leaving already?"
+
+"Long day ahead," Anthony said. "We are going to map out the liminal spaces with my new perk. And we will escort those who need escorting."
+
+Right. A bunch of people wanted assistance going from A to B, which Jamie and I had wanted to help with and never had gotten around to. The apocalypse was far too damn busy.
+
+"Okay, yeah, that's an excellent idea."
+
+One of Claire's mannequins joined us.
+
+["Yes?"] she asked in local chat.
+
+"Which direction do I need to go to find you? Where can I spot your relays?"
+
+["Northeast. I've positioned myself on multiple rooftops on the path there."]
+
+Perfect. I looked along the street that led north. It was mostly straight.
+
+"You saw that Unicorn shape, right? How heavy would you estimate it?"
+
+The mannequin tilted its head. This was the first time I'd seen any expression on Claire.
+
+["Half a metric ton."]
+
+The others were mostly wearing various expressions of confusion.
+
+"Eve?" Constance asked. "What is my armor protecting you from?"
+
+"Friction, mostly."
+
+"Now?"
+
+"Yes. No. Give me a second. Thirty seconds, right?"
+
+"It now lasts a minute."
+
+"Perfect." I started jogging away. "Activate it when I run past. And then cover your ears."
+
+["Am I cleared for take-off?"] I asked in my Guide chat.
+
+"Go ahead. But don't run as fast as you can. And remember to jump."
+
+I couldn't remember the last time I'd been this excited. There were six hours left on my fear debuff. And, rationally speaking, what I was about to do was insanity.
+
+But did any other Blessed human on Earth achieve this before? Was I about to do a 0 to supersonic (any%) world first?
+
+I swapped into the Nightmare Unicorn shape.
+
+["One minute and I'm ready,"] I wrote in local.
+
+["What are we covering our ears against?"] asked Roslyn.
+
+["A sonic boom."]
+
+With my cooldown at five seconds, I readied myself.
+
+["Ready?"] I asked.
+
+Constance gave me a thumbs up.
+
+["Please step aside."]
+
+The party complied.
+
+I ran. Not a full sprint going as fast as I could—just a bit below that. I trusted Gabriel on this.
+
+When I ran past the others, a golden sheen fell over me.
+
+I flexed my legs and jumped. The very moment my hooves left the ground, and my trajectory shifted into an upward angle, I shifted into the Red-Tailed Hawk shape.
+
+The worst part was the deceleration. Like the pit-of-your-stomach drop of a rollercoaster, except it didn't pass. It just kept going, stretched out into something my brain couldn't make sense of.
+
+Besides that, my mind mostly stopped parsing what was going on for a couple of seconds. Eyes pressed shut, all limbs pulled in as close as possible, I was nothing but a projectile, entirely at the mercy of physics and magic. The noise wasn't as bad as anticipated, though that might be because the pressure ruptured my eardrums the moment I swapped.
+
+By the time the pressure stopped feeling unbearable, I dared to open my eyes.
+
+The city was beneath me.
+
+The new New York streamed past in impossible miniature, its streets and wrecks reduced to something almost abstract by the height and speed. Only the tallest buildings came anywhere near me. If the wind hadn't been tearing at my body hard enough to make every inch of me aware of it, I might have forgotten how absurdly fast I was still moving.
+
+Slowly, carefully, I spread my wings.
+
+I'd bled off enough speed. It was time to make this a flight.
+
+There was a grim task ahead of me. But first I'd flex this shape a bit. Even without the glitches in the Blessing, a hawk could dive at well over 100 mph. And I was going to experience that.
+
+I focused on nothing at all and let instincts take the lead, just feeding it my desire.
+
+Eight hundred mph with no control at all didn't compare to diving at 150 and feeling it with every fiber of your body.
+
+I startled the shit out of some poor cat. It was amazing.
+
+Yesterday I had stayed too low, on known routes. Now I got a proper bird's eye view. Going back up high and toward the north-east, as Claire had directed, I finally got to see signs of other Blessed. A woman in a lab coat accompanied by three Australian Shepherds roamed the streets. Elsewhere I saw wet clothes on a clothesline, outside the blue outline of a sanctified space. Even other buildings that were tagged as looted. New York wasn't brimming with life, but it wasn't dead either.
+
+I took note of the few blue outlines I spotted.
+
+After a bit of backtracking, I quickly found the first of Claire's selves on a rooftop, not too far away from the fire station. A doll, its outstretched arm pointing in the direction of the next.
+
+Thanks to the hawk's vision, I could often immediately spot the next one in the chain. The whole relay setup made me reassess the scope of Claire's abilities. She couldn't breach a building with demon hounds on her own, or at least it would cost her more than asking me to do this. But at the same time she could have a good twenty of her bodies lined up, waiting, just to point me in a direction.
+
+After twenty-three Claires, one was waving up at me as I approached. I lowered my altitude and circled.
+
+["Yes?"] I asked in local chat.
+
+The figure, a little dog plushy, pointed at a nearby building. A tall office building. I could spot the profane space that stretched through the first five floors.
+
+["That's the building."] she wrote.
+
+It occurred to me that I should have asked this earlier, but better now than never.
+
+["Any preference for what I should do?"]
+
+["Ideally destroy the head in one attack."]
+
+I flexed my talons. They'd do.
+
+["Roger."]
+
+I was already regaining height when another message appeared.
+
+["Thanks, Eve."]
+
+Once more the apocalypse continued to be extremely messed up—one girl thanking another for killing her. Neither in a human body.
+
+When I reached the height of the office building I saw the body in question. A doll in a torn white dress, missing all limbs, lying on top of an AC unit.
+
+My diving practice just earlier paid off. I struck the doll with such speed that I tore the head clean off its body, while shredding it to pieces with my talons.
+
+There were two significant results. One thing that happened and one that didn't. I got the ATP refund from my ring. I did not get the first kill Task completion.
+
+And that filled me with relief. Now that my ATP supply was steadier, there was little temptation to murder countless Claires just to top myself up. If I could farm experience from killing my ex? That would be both more tempting and considerably more fucked up.
+
+#
+
+When I returned to the fire station, Jamie was sitting on Claire's balcony with a steaming cup of tea in his hand. Which made me realize that I had no idea if one could control the range at which their voice was transcribed in chat. I still did not want to intrude on a conversation that was definitely not meant for me.
+
+I screamed out a greeting. Only to learn that all my life, Hollywood had lied to me. What they sold as the sound of an eagle's scream was actually a red-tailed hawk. My scream sounded exactly like a Hollywood eagle.
+
+Jamie looked around and waved when he spotted me. I clumsily landed on the balcony railing.
+
+["Good morning."]
+
+"You sure are a weird looking eagle. Good morning, Eve."
+
+["Right? I'm very upset with Hollywood right now."]
+
+"I heard you did a magic trick this morning? One moment you were there and the next you were gone with a loud crack."
+
+I fluffed my feathers with pride.
+
+["Hah. Yes, I broke the sound barrier. Still have to check the reward."]
+
+"Any more plans for today?"
+
+["Yes. Check reward, acquire food buff and then, well, shopping. Remember how you joked about how I'd fail on a stealth job and you'd need to get me out of there? I plan on walking into the mall. Alone."]
+
+"Tell me more," he said.
+
+I told him about my plan. He called me crazy. I flew off and into the fire station. Stephen was in the kitchen, frying bacon. Which he nearly dropped as a result of me failing the transition from wings to two legs and faceplanting on the floor—with a considerable amount of profanity.
+
+"You okay, Eve?"
+
+"Peachy," I mumbled.
+
+"BLT?"
+
+"Yes, please."
+
+"Coming right up."
+
+"Stephen? Do you have anything in your care package that grants any kind of immunity today? Or some hyper-specific damage resistance?"
+
+"Nope, nothing like that. Why?"
+
+"Just asking."
+
+I stayed on the ground and opened my Tasks menu. I didn't even read the reward. I immediately hit accept.
+
+Aviator's Goggles of the Mad Daredevil appeared in my inventory. I rolled over on my back and pulled them out of my inventory to examine them.
+
+[Aviator's Goggles of the Mad Daredevil (Rare Item - Not bonded)
+
+Effect: Negates damage caused by extreme movement speed and rapid self-deceleration, excluding collision damage.
+
+Grants improved control and maneuverability while traveling at very high speeds.]
+
+"Fuck, yeah."
+
+"What's that?" Ash asked. He'd just come out of the shower.
+
+"Something that'll be completely useless most of the time, but incredibly fun. I can go as fast as I want now."
+
+Ash walked over and took a look at the goggles. They looked like completely ordinary old-school aviator's goggles.
+
+"How come that Jamie gets a matching set of gear and yours is all over the place?" he asked.
+
+"Beats me. I'm too erratic for the Blessing to contain."
+
+"Talking about erratic. Why are you lying in the middle of the floor?"
+
+"I missed gravity."
+
+The sandwich was delicious. Even more so, when I saw that Stephen's buffs lasted a full six hours now.

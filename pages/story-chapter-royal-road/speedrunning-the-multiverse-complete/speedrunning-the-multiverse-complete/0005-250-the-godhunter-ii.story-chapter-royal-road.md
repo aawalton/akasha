@@ -1,0 +1,151 @@
+---
+id: 8f4cc36b-fff5-547b-9d89-819e11d48f8f
+page-type-slug: story-chapter-royal-road
+title: "250. The Godhunter (II)"
+slug: 0005-250-the-godhunter-ii
+partOf: speedrunning-the-multiverse-complete
+position: 5
+ownLength: 1577
+unit: words
+ownProgress: 1577
+publishedAt: 2023-06-28
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1260072/250-the-godhunter-ii"
+royalRoadId: "1260072"
+markedReadAt: "2026-06-29T22:41:47.559Z"
+---
+
+It had been a while since he’d last visited the Dragonrealm. But despite the sour terms on which he’d left he found himself eager to visit again.
+
+No-one did grand like the dragons. Their plane was the most mountainous in all the Multiverse, and they made the most of it—if you saw a peak you could bet a dragon had made it its home. Carved deep tunnels into it, tunnels spilling with gold and silver and crystals and elixirs, Technique manuals galore! If a dragon valued it, or knew it was valuable to anyone else, it stole it.
+
+A greedy yet straightforward folk, dragons were. And proud as all Hells, too. No-one preened over their Multiversal Rankings more. Their whole society was stratified by power. Literally. The stronger the dragon, the higher on the mountain they made their nest. And the strongest on the mountain was made the mountain lord. Only they got to carve into the mountain itself, and they made the dragons who lived on their peaks pay tribute.
+
+Even the peaks were stratified. Lesser lords ruled lower peaks. And on and on.
+
+Some peaks got so big they rivaled continents on lesser realms! Peaks with tens of millennia of (mostly bloody) history. Their sculptures, Dorian recalled, were astonishing, sometimes so large you could mistake them for mountains themselves. Made sense, since dragons were so handy with those big curved claws. As good at carving up flesh as they were stone.
+
+There was no sensation when Dorian yanked on his Fate thread.
+
+He was one place, and then he was another, as if he hadn’t moved. As if he’d been there all along.
+
+The dragonrealm!
+
+He grinned.
+
+And the more he looked, the more his grin frayed at the edges.
+
+It was not quite as he remembered it.
+
+The most obvious difference was the sky. Not that proud orange-red, but all gold. Slightly pulsing. It marked a realm Jez had fully conquered.
+
+And then there were the peaks.
+
+Fate had spat them out mid-air, giving them a broad view of the mountains all about them. But they weren’t mountains. They were nine-tenths of a mountain. Then they abruptly cut off, giving way to flat plateaus. Like someone had cut off the peak.
+
+Ah.
+
+That someone, Dorian was remembering with a wince, had been him.
+
+“Huh. What’s up with those mountains?” said Sun. Perched on Gerard’s shoulder.
+
+“Back when I was Salas, I… executed a slash,” said Dorian. “It was meant to chop the Dragonking’s head off. And it did. Only it chopped a lot of other stuff off too. I may have slightly underestimated my strength.”
+
+They drifted over a peak. No smoke coming off it, another oddity. Was its lord not home?
+
+“Fate said his threads would deposit us on the right plane.” Dorian consulted his map. It worked like a Blood Probe—it drew a radius where it felt his body’s aura strongest. And his dot was certainly within that radius. “We should be within ten thousand li of the right place.”
+
+“Shall we ask the locals if they’ve noticed anything irregular of late? Perhaps they will know the precise location.” said Gerard. “I imagine a Godking body dropping from the sky is rather difficult to miss.”
+
+As they neared the peak, Dorian could sense no aura drifting off it. Not within the mountain nor atop it.
+
+“It appears this peak is empty,” said Gerard. “If there was a dragon lord they would’ve come charging out to challenge us by now, I expect. They never did like trespassers.”
+
+“What about that one?” Sun pointed to its neighbor.
+
+That one was empty too.
+
+“Weird,” said Dorian. “Last I recall these peaks were teeming with dragons!”
+
+“Sir,” said Gerard. “You left the realm in rather a shambles, as you recall. After the year of your rampage their population dropped by nearly thirty percent. Mostly males.”
+
+“Well yes, but it’s been millennia. Surely they’ve recovered by now.”
+
+“On the contrary, the dragon population has only declined since then.”
+
+“How?”
+
+“You waged war against the Dragonking, sir, who made his home atop Mt. Tai. That was tantamount to waging war on the realm itself. For two decades you burned their Spirit crop, set a vicious plague amongst livestock, and sent a scourge of pests to make certain their best land could no longer support Spirit herbs. You then scalded and salted the land, and trashed the Great Library of Tai, which held all draconic knowledge of artificing and alchemy until then on their great stone pictographic tablets—incidentally a lost marvel of engineering. This has, I believe, had the equivalent effect of sending dragonkind back to the Bronze Age. And then you set about massacring all who stood in your path,” said Gerard. “Among them the Dragonrealm’s best and brightest.”
+
+“I did?” It sounded rather excessive now he heard it laid out before him. “I must confess it’s been a while. It’s rather hazy in my memory…” Probably because he hadn’t thought much about it at all for thousands of years.
+
+“It is all recorded in great detail in Thaddeus’s scintillating volume, The Complete History of the Dragonrealm: Volume IX: The Salas Calamity. Which stretches to modern day, incidentally.”
+
+“Ah! Yes! Those tablets!” It was coming back to him in vague chunks. “Those were valuable? I broke them because I liked how it sounded. In my defense they had this satisfying crunch to them, and I was quite drunk. It was in the post-war festivities, you see.”
+
+Gerard did not look particularly impressed. “A great number of dragons declared their realm too ruined, or simply fled the realm to avoid your wrath. This begun the Great Draconic Diaspora—”
+
+“Alright, alright, we get it,” sighed Dorian. “Long story short, there’s a lot fewer dragons here.”
+
+“You were very naughty,” commented Sun. She waggled a carrot she was munching at him.
+
+They soon happened upon a mountain with smoke curling out the top. A God’s aura curled out with it. Not even a particularly strong one at that.
+
+“Why’s it so weak?” muttered Dorian. “In my day a Peak Lord was at least at the top of God—usually Empyrean!”
+
+“According to Thaddeus, you plundered most of the dragons’ hordes quite thoroughly in your time here, sir,” said Gerard. “The rest—the most valuable cultivation techniques, and treasures, and so forth, left with the Great Draconic Diaspora—”
+
+“I should just stop asking questions, shouldn’t I?” grumbled Dorian. “I’ve a bone to pick with this Thaddeus fellow. He makes it sound like everything wrong with the Dragonrealm is my fault.”
+
+“Is it?” said Sun, looking genuinely curious.
+
+“Well yes, but it’s rather rude of him to point it out.”
+
+“TRESPASSERS?! Who goes there?!” The voice was rasping but it still had that dragon’s throaty boom. A great craggy head poked out from between two stones, smoke spurting from its nostrils, its yellow eyes narrowed. They promptly widened as they took in Gerard’s Empyrean Aura, and Dorian and Sun's peak-God auras besides.
+
+“Ah—that is to say—what can this one do for you?”
+
+“We’re looking for a giant object that landed here recently,” said Dorian.
+
+“Also! Also! Where you keep your tastiest treats—” Sun piped in.
+
+“Shush, child. We’ll get to you later. First, giant object. Probably fell out of the sky, has a Godking’s aura. Have you heard of it?”
+
+“Ah, yes! This one has.” It dipped its head. “There was quite some scuffling over who claimed possession of it, as this one recalls, but it was above this one’s stratum. This one hears on the wind that it was taken by those loyal to Jez.”
+
+Shit.
+
+“And where have they taken it?” said Gerard.
+
+The dragon jerked its head east. As far as Dorian could tell there was nothing there save for a thousand other peaks jutting over a fluffy floor of cloud cover.
+
+“…Which peak?”
+
+“Not those.”
+
+It jerked its head in the same direction.
+
+Now that Dorian squinted, he could make out the blurry outline of a peak rising over them all, so far away he wasn’t sure if it was real.
+
+He had a sinking feeling he knew exactly which peak this dragon was referring to.
+
+“You have eyes, but you cannot see Mount Tai?” The dragon snorted.
+
+Mount goddamned Tai. That great hunk Dorian remembered vividly.
+
+“If memory serves,” said Gerard slowly. “Mt. Tai is the home of the serving Dragonking.”
+
+“That would be him. Him and his legions.”
+
+“Would you kindly give us an estimation of their strengths? How many Empyreans they’ve got—Godkings, perhaps?”
+
+“How many more questions must I answer before you leave?” said the dragon crossly.
+
+Gerard blinked. Sun reached over to give Dorian a poke. “Do dragons taste good? Can we eat it?”
+
+“They have at their disposal the dragonking, who is a Godking, and a few dozen warriors of Empyrean strength, at my best estimation!” the dragon said quickly. It tried to show what it must’ve thought was a winning smile. But it only managed to look hungry. A fair effort, but its biology let it down; there were just too many bared, sharp teeth.
+
+A Godking and a dozen Empyreans.
+
+The Dragonking was ranked in the top 30 among Godkings, too. And they were holed up in a stronghold of a peak that was one of the few things here Dorian could clearly recall, mostly because it had been such a pain in the ass to breach.
+
+How were they about to manage this?

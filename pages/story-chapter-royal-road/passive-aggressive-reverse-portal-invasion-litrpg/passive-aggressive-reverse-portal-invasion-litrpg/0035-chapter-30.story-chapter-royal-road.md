@@ -1,0 +1,129 @@
+---
+id: 9ae74b59-d7aa-5d2f-9402-3662b65da195
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30"
+slug: 0035-chapter-30
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 35
+ownLength: 2017
+unit: words
+publishedAt: 2026-06-18
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3555844/chapter-30"
+royalRoadId: "3555844"
+---
+
+Nearly half an hour later, I dragged myself sideways across the edge of the cliff and rolled over twice. For a moment, I simply lay there, staring at the overcast sky and whooping softly to myself in exhilaration.
+
+Everything had gone according to plan. That, more than anything, surprised me. There were no fire-bird-monsters attacking mid-climb. No Princess Bride-style stand-offs with ridiculously handsome fencers appearing atop the cliffside and challenging me to duels. No. It had simply been a long, gruelling, stressful climb.
+
+I’d been forced to backtrack twice because the handholds I’d glimpsed from the ground didn’t hold up to close inspection, and once, I’d been stuck for two full minutes before I found a proper way up. Oh, and one of those bone-shattering non-screams almost ruined everything a couple of minutes into the climb. Still. I persevered. Climb improved twice along the way, rewarding me for the challenge.
+
+And now, as I slowly got to my feet, beaming with the success, I found myself in an entirely different situation. Or, rather, the exact same situation, but with one marked difference.
+
+Here, atop the ridge, Ademia was my burrito. It spread out before me and was looking yellow, brown and delicious. I could now see that the swamplands extended for kilometres on end with no discernible change. I wasn’t too certain, but it felt like a glimmering sensation back south east might be whatever was still standing of the walls of the Ever Steady.
+
+Behind me was more of the same. The details differed, of course. To the west, the terrain rose high, high up, reaching snow-covered peaks. Northwest lay what I could best describe as a forest, but made of rocks. The hundreds of monoliths which were either magical or man-made in nature differed in size, but even the smaller ones had to match Stonehenge. Yet, all told, this was ‘just’ more of the same. More magical world, which was likely to hold untold dangers and challenges.
+
+The city… changed things.
+
+It was off in the distance, to the north. At a guess, I was looking at a fifteen-kilometre hike, at the very least. Yet, the chaotic smattering of buildings couldn’t be anything but a city. Though, admittedly, it looked pretty small.
+
+Cities meant civilization. Civilization meant the opportunity for shelter, for a new shield, for food that didn’t taste like wet arse. Yet, it also carried the possible threat of, say, kill-humans-on-sight policies.
+
+I had no clue how I was supposed to approach this. Should I be optimistic, take the chance that it would all be well and possibly get myself captured? Try to sneak closer and learn whether this was another gathering of those beasts who’d attacked us at the portal? Try to scope out the lay of the land, ready to flee if somebody tried to catch me?
+
+I was not made for decisions like this. I’d take a straight-forward fight over conundrums every day of the week. Honestly, there was no saying how long time I would have spent there on the edge of the cliff, agonizing over my next move.
+
+Good or bad, a few minutes later, a voice from off on my left made the decision for me.
+
+“Well, look what we have here. I’ve never seen one of those before. On my life, I haven’t.” A darkly amused deep voice rang clearly from nearby.
+
+I whirled around to spot where the voice came from. With a sinking feeling, I realized my error. With the fresh view around me, I hadn’t noticed that the cliff’s edge on the west took a dip and a turn behind a copse of trees. Now, as a small group emerged from within those trees leaving a small hand-pushed cart behind, I also noted the tell-tale signs of a footpath.
+
+My mind thankfully skipped the part where it was flabbergasted by them speaking English and jumped straight to crisis-aversion mode.
+
+“Ah. A human, or so it says. It looks like a Crisiun, only dirtier. Are they related, you think? A wager?” This new voice was high-pitched, but sounded kind and friendly. It belonged to a tiny figure – one that looked to be less than a meter tall, wearing a rich, vibrant (if travel-stained) red and gold robe. He was humanoid, which was a vast relief, but looked… elongated. Strangely thin and elfin, with slanted eyes, golden skin and no hair.
+
+“More wagers, and we’ll end up not earning anything from this trip, I reckon.” The first speaker was not humanoid. Rather, he looked like the elephant man, if you had him weigh several hundred kilos, turned his arms into ape-like front limbs with armor strapped to them, and criss-crossed every inch of his near-naked body with scars. He had long drooping eyebrows and a flat, emotion-less face.
+
+Two more people followed after them. They didn’t talk at first, but stayed behind, nervously fingering weapons on their belts. These two were more ‘regular’ humanoids the way my limited knowledge saw things. As in, they had the same number of limbs as me, and were both shaped more or less like normal, boring humans. They also wore armor and weapons. The fact that they were dark purple and had scales here and there seemed to be less important.
+
+I finally found my words and raised a hand in greeting. I also, slowly, swung around my ratty shield, which had been forcibly stuffed in my stash during the climb. “Morning, gents. Fine weather we’re having today, is it not?”
+
+The short guy spoke up. “Agreement. Fine weather indeed. And a pleasure to be surprised by somebody sporting a Personal Universe. It shows they have something worth hiding, does it not? Harten. Care for a wager?”
+
+“I absolutely would not, boss.” The huge ape-like thing, who apparently was named Harten, shook its head with a low laughter. “Besides, you’re about to suggest that we bet about whether that human there has something worth looting.”
+
+“Whoa there.” I held up both hands. “There’s no reason for this to get ugly. I don’t mind your kind. I’m all for us going on our merry ways. But if you insist on attacking me, I’m not giving up without a fight.”
+
+Harten, chuckled darkly. “We don’t mind your kind either, whatever a human is. We just really, really like soft, easy targets. And the boss here lets us have first picks of everything we find along the way.”
+
+Behind him, the two purple humanoids spread out. One of them hefted a long, two-handed spear with two prongs. My mind insisted that this made him look like a farmer and named him Joe. The other one, with more effeminate, elegant looks, fanned out to the other side, nocking an arrow to a short bow.
+
+In response, I snarled and extracted my swordbreaker, facing them slowly, peering above my shield. Automatically, I took a step backward, then realized I wasn’t too far from the cliff’s edge.
+
+I took in the situation. The big guy was heavy. If I could outrun him, I should be able to keep away from him. Yet, the two purple arseholes looked fast. I doubted I’d be able to run from them, and the archer would likely give me serious trouble. No. This would mean a fight. Perhaps Improved Run Speed… no.
+
+With a frown, I held up a finger. “One quick question. Would there be any way to avoid a fight here, do you think?” I couldn’t see it. I just needed the time.
+
+“Yeah, sure, we can do that.” The one with the two-pronged trident – a bident? – said. “As long as we leave with all your items, all is optimal.”
+
+“Lassem. We can’t tell if a Personal Universe is empty, unless he’s dead.” Harten said, not unkindly.
+
+The boss sighed softly. “Disappointment. I would wager he did not know that beforehand. Now he does, however, and is less likely to believe anything else that comes from us, and rightfully so.”
+
+“He also finished applying his free points.” I said. “So, I appreciate you wankers taking your time.” I felt the subtle sensation of two additional points to Fortitude, and shook my arms, loosening up. The final two talent points, I’d applied to Deflect, with the first vague inklings of a plan appearing in my mind.
+
+They spread out. I took a deep breath, then readied myself for what was to come.
+
+Most people think of boxing as a braindead activity. Two people go into the ring and flail away at each other until one remains standing. Right enough, when people start out fighting for real, that is quite often what it’s like. Humans, on the whole, are not used to operate through pain and added adrenaline – and until we grow accustomed to it, the brain tends to turn off.
+
+Yet, when you look at experienced boxers, or any sort of professional martial activity really, the image changes, if you know what to look for. Other elements are introduced, depending on the match-up and the level of preparation involved. Weaknesses and strength are assessed, strategies tested and applied, mental games added into the mix. Anybody trying to go pro – as I was considering, before the arrival of the portals – is likely to spend a good deal of time trying to suss out weaknesses in their opponents and adjust accordingly. Does your opponents have longer arms? Quick movements? Does he telegraph his moves? Any patterns worth remembering?
+
+As my opponents slowly spread out and fenced me in, trying to make sure that I wasn’t going to run away from them, I did the same. Identify helped me in the process.
+
+Adrastian (name unknown)
+
+Level 14
+
+Further information locked
+
+Huh. That was strange. The purple archer’s level was below that of my Identify, yet her health didn’t show?
+
+Lassem
+
+Adrastian
+
+Level 12
+
+Health: 160/160
+
+Oh. The one with the spear did show. I wasn’t going to spend time worrying about it right now.
+
+Harten
+
+Tavungor
+
+Level 18
+
+Further information locked
+
+Of course. The big, bad monster was higher level than me on top of everything else. No doubt his health was impressive - as well as his strength. The unsubtle thuds his armored paws made as he advanced were a hint.
+
+Tibidi (Name unknown)
+
+Level 18
+
+Further information locked
+
+I wasn’t exactly in a good position. But things could be worse. Joe – or rather, Lassem, the spear-wielding Adrastian, looked rather straightforward. His movements, build and health implied a melee Fighter who’d gone for the Agility build. Everything about him showed that he’d be able to out-manoeuvre me and run circles around me every step of the way, try to take me down with dirty jabs. Not the worst match-up for me, since he looked rather scrawny.
+
+The archer… could be bad. But she could also be exactly what I needed, delivering ammunition for my Wave of Reflection to activate. It all depended on her accuracy and which kinds of talents, if any, she sported.
+
+The Tavungor, which apparently was the name for the simian-like monstrous thing that looked like it could bend me in two, was big and strong. It was definitely overpowering enough to break me, even if I managed to get my shield in place. Yet, it was also lumbering and slow. Slower than me. I could, and would, use that.
+
+The real question mark here was the boss. The Tibidi, whatever race that was. He hid behind the rest, making no efforts to disclose what his powers were. I’d need to keep an eye on him and stay ready to adjust to whatever he’d throw my way.
+
+Still, I grinned, adrenaline coursing through my veins. I might die in a minute, broken and bent. But it was all up to me. And, contrary to life back on Earth? I sure as hell wasn’t bored. I cracked my neck, baring my teeth at my attackers. This was going to hurt!
+
+“Come at me then, you sorry sacks of shit!” I yelled. Then I raced into action, ready to kill or be killed.

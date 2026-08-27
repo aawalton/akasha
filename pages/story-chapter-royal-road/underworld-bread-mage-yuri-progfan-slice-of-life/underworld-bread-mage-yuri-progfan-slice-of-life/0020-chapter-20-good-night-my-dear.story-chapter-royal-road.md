@@ -1,0 +1,119 @@
+---
+id: 8b386e4f-d454-5951-8b54-f37762a3833c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20: Good Night, My Dear."
+slug: 0020-chapter-20-good-night-my-dear
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 20
+ownLength: 1518
+unit: words
+publishedAt: 2026-08-06
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3777588/chapter-20-good-night-my-dear"
+royalRoadId: "3777588"
+---
+
+“Mm! That was delicious!” Marina said, tossing the now-empty wooden skewer into the sputtering bonfire. She expected an intense gaminess from a beast like this one, but to her surprise, it was incredibly rich in taste with barely any hints of wild game. The white quartz bottle appeared in her hand as she took a drink, wishing for a glass of red wine to wash down the fattiness of the pork. “Could use some extra seasoning for sure, but still amazing.” She turned to Hecate, who had also finished her portion of food. “What do you think?”
+
+“It is delicious indeed, though not satiating for a food’s purpose,” Hecate replied, wiping her lips with a white handkerchief.
+
+“Mellie, are you–” Looking behind her, Marina found Mellie standing at the edge of the clearing, her palms collapsed together, and whispering verses in Kith. “She’s praying again,” Marina sighed.
+
+“Miss Marina,” Mellie called after finishing her prayers.
+
+“Oh, I was just asking if you’re ready to get back since it’s almost 8:30,” Marina said, checking the time. This has been an eventful day of travel that ended with her first meal eaten in this strange realm.
+
+“It’s already this late?!” Mellie exclaimed at how quickly her fun had consumed her time due to the absence of attention. “We should definitely start heading back.”
+
+“Yeah, but before we do that…” Marina pointed to the giant boar. “We need to take care of that.”
+
+“Any plans, my dear?”
+
+The boar was not yet fully portioned into storable pieces, which meant it would be a headache to keep fresh. And with such a successful hunt, having all that meat left and spoil was not something she could let happen.
+
+“Well, I was thinking, why don't we bring it back to the village and share it, so we can tell everyone how awesome Mellie is, and how she took down the monster effortlessly,” Marina proposed with a heavy ounce of confidence.
+
+“Just like credit where credit is due, a magnificent plan, my dear.” Hecate smiled sarcastically.
+
+“Miss Marina, Miss Hecate, I would prefer not…”
+
+“Why not?” Marina tilted her head. “Everyone will start to recognize you and treat you better, wouldn’t they?”
+
+“Well I, I don’t like attention, especially for something I didn’t do.” Mellie lowered her head. “I know I’m in no place to ask for more favors, but please just grant me this one.”
+
+“I see,” Marina said, nodding her head. “Hecate, do you have any ideas?”
+
+“Hmm, I could freeze the body as I did with the organs for seven days, camouflage it with a smaller barrier, and mark its location.” Hecate said, “Then on the day of our departure, we could return for it.”
+
+Based on how the organs were preserved, there was no doubt that this could be a viable plan, especially if they couldn’t move the beast into the village.
+
+“Not a bad idea,” Marina said. “But are you sure the two of us can carry it all the way out of the forest?”
+
+“Worry not, my dear. It is no heavier than my sword.”
+
+“Oh. I guess… we can go ahead with that plan then.” Marina was surprised by Hecate’s statement as if there weren’t new surprises for her to discover every day.
+
+Reaching out her hand, Hecate’s powers stirred once more. A coffin of ice formed around the headless carcass, encasing it like a box of frozen goods, then, with a swoop of her hand, it disappeared into thin air. “Anything else you want to be done, my dear?”
+
+“I think this is good enough. It’s getting late. Let’s head back now.” Marina said, though the twilight sky above her had not shown a sliver of change, the wheel of time continued to turn concealed within the shadows.
+
+Extinguishing the last glitter of flame left around the burning twigs, only a pile of ash was all that the three young women left. They headed through the woods once again, but now guided by Mellie and her desperate want to return home as if she had committed an act of delinquency, now awaiting judgment by the unwritten norms of the village.
+
+It wasn’t long before they left the woods with their slightly hurried pace. The bustling of Bee-ple around the houses had died down to a delicate quietness that could only be heard during this hour of the day. Two guards still stood at the entrance, standing unwavering against the dullness of their after-hours duties.
+
+Marina snuck through the wooden fence alongside Mellie, with Hecate close behind, keeping quiet so as not to disturb the slumbering village in front of them. The front door creaked as Mellie pushed it carefully through the frame.
+
+“Whew.” Marina stepped inside, letting go of the breath she was holding. “And we are back.”
+
+“Miss Marina, Miss Hecate, thank you for bringing me along.” Mellie bowed. “I had a lot of fun.”
+
+“We can do this every night for the next week if you want.” Marina stretched her back. “Right, Hecate?”
+
+“Indeed, my dear,” Hecate said, pulling the door shut behind her. “Though, Mellie, I would like to ask a question.”
+
+“Of course, Miss Hecate,” Mellie said. “What question?”
+
+“Where exactly shall the two of us sleep tonight?” Hecate asked, her eyes drifting back to Marina.
+
+“Oh, that’s right, my other bed was built in the attic just in case.” Mellie pointed to the ladder around the corner.
+
+“You have an attic?” Marina looked to the ceiling in disbelief.
+
+“Pretty sure all the houses around the village have one.” Mellie shrugged. “I assume they are handy for situations like these.”
+
+Climbing up the ladder, Marina was greeted by a small room, dimly lit by a few lamps. The size of it was similar to the bedroom of her studio apartment in the city. A small bed was placed next to the wooden wall, with various unused furniture scattered around the area, serving their sole purpose as the collectors of dust.
+
+“Sorry, it’s nothing fancy, but it is all I can offer right now.” Mellie apologized; her eyes trailed Marina as she examined the room.
+
+“No, I think this is really nice, Mellie,” Marina said. “We weren’t looking for anything fancy in the first place.” It didn’t compare to the rooms that came with the bakery, but it wasn’t terrible either, especially for a house taken care of by someone living alone.
+
+“Oh, well, I wish you two a good night then,” Mellie bowed once again. “If you need anything, just let me know. I will be downstairs.”
+
+“Yeah, thanks,” Marina replied as Mellie climbed her way down. The room fell silent for a moment. “So uh, bedtime, I guess?” She looked to Hecate, who was taking off her high heels before storing them in her satchel.
+
+“Yes, my dear, let us head to bed.” Hecate began to unbutton her white dress.
+
+“Wait!” Marina quickly shifted her gaze away from Hecate in panic. “What are you doing?”
+
+“Changing my clothes,” Hecate revealed the perfect traces of her bare skin. Pale yet spotless, as if sculpted by the most distasteful artists in the most tasteful way. “I love the white dress, yes, but I still prefer wearing something lighter for the… nightly duties.” She gently folded her cloth before setting it on a chair.
+
+“Well, can you not do it out of the blue?! At least say something!” Marina was getting flustered.
+
+“Ah. My apologies then. I was not expecting my dear, you, to be so embarrassed at the sight of another woman.” Hecate teased. “You know, people would beg to get a glimpse of me in such a vulnerable state, but all they receive is a thought of me in their most indecent imaginations. And yet here you stand, facing me with your back. What a way to sadden a tender maiden such as myself.”
+
+“You know what, fine! I will take–” Marina jumped to face Hecate, only to find her wearing a silver nightgown, embroidered with golden threads sewn into various symbols and patterns. “You–”
+
+“My dear, you weren’t actually expecting me to reveal all of my secrets there, did you?” Hecate giggled. “You’re so guill–”
+
+“Enough with this nonsense, I am going to bed!” Marina took off her cloak before launching herself into the bed.
+
+Hecate let out a sigh, snuffing out the lamps as she walked to the other side of the bed and lowered herself next to Marina. She could feel the bed sinking with both of their weights. Her face was still red, and her heart still beat uncontrollably fast. The room was mostly dark now with only slivers of light peering through the blinds. From here, only the outline of Hecate’s body was vividly visible. Sharing a bed with someone else felt odd; she never needed to do it nor wanted to. But at the same time, this night felt safer than most.
+
+“Your nightgown…” Marina whispered. “It’s very pretty.”
+
+“I’m glad you like it,” Hecate whispered back, her red eyes glowing faintly in the darkness.
+
+“Mm.” Marina nodded. “Good night.”
+
+“Yes. Good night, my dear.”
+
+“...”

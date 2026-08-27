@@ -1,0 +1,219 @@
+---
+id: bbcad761-38a5-56be-8e21-4d61ce553859
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2: The Gift of Loot"
+slug: 0002-chapter-2-the-gift-of-loot
+partOf: the-gift-of-loot
+position: 2
+ownLength: 3038
+unit: words
+publishedAt: 2026-04-02
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3223167/chapter-2-the-gift-of-loot"
+royalRoadId: "3223167"
+---
+
+"Jesus Christ," Thomas panted, hands on his knees. And because that felt nowhere near enough, he repeated, "Jesus Christ on a pogo stick."
+
+But he had done it. He had just killed his first monster... and he kind of felt bad. After all, he had walked into its territory, and it had defended itself.
+
+Thomas looked down at the mess of blood, feathers, and claws. Its little mouth was open, showing teeth in a last grimace. It had died in pain, and he didn't feel good about that at all.
+
+Also, he didn't feel good about the fact that he was actively bleeding.
+
+Could you get rabies from these dungeons? He'd heard there were plague dungeons.
+
+No, calm down, he told himself. Yes, there are plague dungeons, but those are heavily marked and off-limits, and guarded by... well, the National Guard.
+
+He didn't know why there were plague dungeons, why anybody would go into them, or why there had to be an entire platoon of guards to keep people from going into them, but... whatever.
+
+The point was, this wasn't one of those.
+
+Thomas's next thought was wondering what the hell his gift was. Nothing physically outward had changed. He was huffing and puffing, so apparently his gift wasn't strength or speed. But he definitely felt something go 'click' in his mind.
+
+Well, he'd find out once he finished clearing out this thing, assuming he didn't die. That was the trick, apparently. People were told the details of their gift at the end if they hadn't already figured it out for themselves by then.
+
+No, it wasn't necessary to complete the dungeon to unlock the gift. He'd already done that with his minor act of extermination. Thomas could technically step back right now and leave the way he came, gift intact. He just wouldn't get the details unless he went through the proper exit.
+
+Killing a little monster hadn't been fun. It certainly hadn't been cathartic.
+
+That was probably a good thing. It meant he wasn't a psycho.
+
+Thomas took one last, reluctant look down at the mess that was the little creature and saw... something odd in it. There was a little blue crystal kind of sticking out of the blood and feathers. With a grimace, he bent down, though he kept a wary eye on the bushes. This would be the perfect moment for something to ambush him.
+
+Tentatively, he brushed the feathers away. Part of him thought the little thing would leap up, headless and all, for one last shot. But nothing happened. It was dead because he'd killed it.
+
+Anyway, he picked up a little squat, diamond-shaped crystal.
+
+Straightening, Thomas held it up. Was this a mana crystal?
+
+According to their new galactic overlords, this was going to be the new currency. It was a perfect, squat gem about the size of the top joint of his thumb. Pure blue, somewhere between a deep and a mid blue, and kind of cloudy on the inside. Apparently, this was what made magic work. It was going to power people's magical spells, and he guessed you could use it to cultivate your own power. Somehow. He hadn't gotten to that part in the thick guides. He had been more focused on finding the right dungeon in order to not die.
+
+Could he do magic now?
+
+Thomas held out the mana crystal. "Fireball," he said.
+
+Nothing happened, so he put it in his backpack. The crystal was blue, so it was probably water-based anyway.
+
+That moment had given him time to collect himself, and he felt a lot better. One creature down, and according to the guide, there were 23 more to go. That was if he was willing to complete the dungeon.
+
+There was a lot of misinformation floating out there, but the general consensus was that a serious dungeon diver should clear out the entire dungeon before exiting to get the final reward.
+
+He'd already gotten his gift, but no one knew if his gift would be strengthened if he cleared out the entire dungeon, or if it would just result in a better reward at the end. But there was a chance that it might matter in the long run. He only got one shot at this.
+
+Okay. So he was going on a little dinosaur-chicken hunt.
+
+There was a very obvious pathway through the jungle forest, with close-in vegetation, green ferns, plants with heart-shaped leaves, and beautiful yellow and orange flowers with exaggerated stems in the middle. All perfect for ambushes.
+
+With a grip on his trusty maul, Thomas stepped onto the path in search of more prey.
+
+Luckily, he didn't need to search the monsters out. They were aggressive. It seemed every little chicken-dinosaur thing had a territory in every large clump of foliage, and they liked to attack anything that passed by.
+
+So when the next one rushed out at him, screaming with its tiny claws up, Thomas felt a little more prepared.
+
+He actually managed to hit it with his maul in a golf swing. That sent the little monster rocketing several feet back, where it fluttered on the ground. He went in to finish it, but the blade hit at a weird angle, and he had to put the monster out of its misery with the third strike. Thomas didn't get cut or hurt this time, but it was still not a great feeling.
+
+Then, when he looked down at the body, there were two more mana crystals. One was white and another blue.
+
+Oh, right. The mana crystals in level one dungeons were supposed to mirror the classic elements: air, water, earth, fire.
+
+Yes, he thought of them in the Avatar order. It was ingrained since childhood.
+
+He picked up the two mana crystals, grateful that they weren't bloody, and put them in his pack. Then he continued on.
+
+The next bush had two more demon chickens leap at him at the same time. That was when he figured out his best strategy, at least for this dungeon. It turned out the non-bladed side of the maul was easier to hit the little monsters with, and they had delicate little bones that snapped like dry wood. One strong hit, and they were done, which was honestly best for both of them.
+
+Thomas's first swing took out the first one and caused the second demon chicken to dodge away, and he took the second one out with a backhand swing as it was preparing to jump at him. This time, the first body had no mana crystals, but the second had two again.
+
+Then, on his next kill, he found not a mana crystal but a little knife, kind of like a penknife, with a white stone handle and little leaf designs carved in.
+
+He pressed the button, and a needle-like blade snapped out of the hilt with a sharp snick. He pressed the button again, and the blade snapped inward. He thought about putting it in his pocket, but that button was touchy. Just a brush either retracted or sent out the blade again. He did not want that happening in his pants. So he very carefully put it in his pack.
+
+The little demon chicken hadn't been carrying that—it hadn't been in its stomach or anything. It was just nestled in its feathers right on top of its body. Kind of weird.
+
+And so it went. By halfway through the dungeon, the bottoms of Thomas's pants were riddled with holes, though the fabric had mostly protected him other than the first attack. He got a little better as he went along. He didn't think it was a gift-type thing. It was just that he was more prepared and less overwhelmed.
+
+Still, these were his favorite jeans, so he was kind of annoyed. He thought that maybe, after this was all said and done, he should stop at one of those dungeon gear stores that were starting to pop up and get, like, chaps or something.
+
+Don't think of next time, he told himself. Concentrate on now and don't get distracted.
+
+These chicken-dinosaur things were more nuisances than dangerous, but if one happened to crawl up to his neck and slash his throat, he was dead.
+
+Speaking of which, that was when one launched itself off a high branch and tried to land on his shoulders.
+
+But Thomas had several things working for him. One was that he had read the guide for this dungeon and knew that there would be two points of high ambush.
+
+The second was that it had screamed as it launched its attack, giving him plenty of warning.
+
+Right behind Thomas was a more open space, giving him plenty of room to maneuver into a dodge. He did that, and the monster landed on the ground and shrieked in outrage as if he were the asshole here. Then it came at him with its claws raised.
+
+Thomas swung his trusty maul... and missed. Whoops. But then he kicked out, and that connected solidly. The demon chicken tried to bite the top of his foot, but luckily he'd worn really good hiking boots, and the little teeth didn't go through.
+
+Then it was knocked away, and he killed it with his maul, with prejudice.
+
+Ooh, it gave three mana crystals this time.
+
+Now he knew what to look for and easily spotted the next ambush point well ahead of time. The little shit was staring at him from one of the higher branches up ahead. Though a bit like a video game, it actually didn't move until he approached it.
+
+Not a video game, he told himself. This is real life.
+
+One thing he noticed from a couple of influencers who said they'd had early access to the dungeons was that they treated the whole thing like video games. They talked about life-and-death battles and killing hordes of monsters as if they were racking up points. It felt like they were completely disconnected from reality.
+
+This was real life, and he was killing something. He still didn't like it, even when they hurt him. He was the one stepping into their space. It wasn't like they'd come to his home.
+
+But they could someday come to his home.
+
+Eventually, after the six-month countdown ended, monsters would be able to start spawning outside of dungeons that weren't properly cleared out. That was another reason to get this over with and find his gift.
+
+He collected another mana crystal—seriously, he was surprised. From the way people talked about it, he thought these things were supposed to be rare, but almost every single creature had one or two, with only a few duds.
+
+Finally, after his twenty-fourth creature, it was over.
+
+After collecting a final red mana crystal from the last demon chicken, Thomas looked around. He couldn't quite put his finger on it, but the jungle now had a sense of emptiness.
+
+It was over... or maybe not. There was a boss lurking around.
+
+Thomas looked down at himself to take stock.
+
+The first strike had definitely been the worst. The claw marks on his calf were still bleeding sluggishly, and he had collected a few nicks and scratches, but nothing bad. He was doing okay—better than okay. Maybe it was the adrenaline, but he was feeling pretty awesome.
+
+So, the optional boss.
+
+The guide called it a "chicken mother." And because this was a level one dungeon, it was completely optional to go after her to consider the dungeon cleared.
+
+His backpack was clinking with mana crystals. He could see the door to the exit safe room. That was where his gift would be.
+
+Thomas had no idea what that was. He still didn't. Even though he'd gotten a little better at fighting, he didn't think his gift was "maul proficiency."
+
+It's probably something like enhanced painting, he thought with a sigh, even though he'd never painted a thing in his life.
+
+Now maybe he could.
+
+Whatever his magical gift was, he decided he would make a new start at it.
+
+Apparently, people's gifts evolved every five levels. So if he got, say, better-than-average painting at first level, by his thirtieth he might be the new Bob Ross. He could paint some happy trees.
+
+That didn't seem bad. Certainly better than his current part-time job as an assistant to a paralegal. He didn't mind being an assistant to an assistant, and there were certainly worse things to do in life. He helped people. But it wasn't exactly the type of sentence you'd want in your obituary.
+
+Maybe it was the adrenaline, or maybe he had taken stupid pills that day, but he thought... He was here, wasn't he? Might as well go behead a chicken mother.
+
+He found her just as the guide had said she would be, to the left of the exit doorway, through a glade. He had to part some foliage to find her.
+
+She was sitting pretty on a nest of eggs. Easily three times the size of the other chickens, her cockatoo crest went up the second she saw him. Then she stood from her eggs and let out a bone-rattling roar.
+
+"Oh shit," he said, backing away. Maybe this hadn't been a good idea.
+
+But she had seen him now, and she was pissed.
+
+She came bursting out of the glade, claws up. Thomas had done this twenty-four times already, so he kind of knew how it went. He swung his maul as hard as he could, blunt end first.
+
+It struck her right in the chest, but not before she managed to scrape a long claw down his arm. She had the reach of a human being, and he hadn't been prepared.
+
+But claws were no match for the might of a couple of pounds of steel. She was knocked away and did that awful fluttering thing on the ground, along with a rattling wheeze.
+
+He had the presence of mind to raise his axe again, blade first this time, but she had already died.
+
+Thomas backed away and looked at his arm. This was a deep cut, luckily along the top of his forearm and not the underside where the ligaments would have been slashed, but he was still bleeding badly.
+
+Swinging his backpack around, he shoved the mana crystals aside and took out a bandage, then some Neosporin. Smearing medicine on the two lips of his wound was—ugh—gross, and there was so much blood. Quickly, he abandoned that and bandaged himself up. This was going to need stitches, and it was going to scar, but it was done.
+
+Then he looked for his prize.
+
+There, sitting on the body of the chicken mother where he swore it hadn't been before, was a giant-ass mana crystal the size of his fist. It was rose gold, kind of a fleshy color.
+
+Beside it lay a dagger. The blade was curved like the crest of a cockatoo and glinted wickedly in the—sun? dungeon light? Anyway, the way it glinted was not natural. He thought it might be magic.
+
+Unlike the little penknife, the curved dagger had a sheath decorated with stampings in a vine pattern. He slid the dagger in and tossed both it and the giant-ass mana crystal into his backpack.
+
+Then he went to the nest and destroyed the eggs, smashing each one. At that point, he was too numb to feel bad.
+
+Each egg had a tiny little mana crystal, about half the size of the ones from the regular demon chickens. They came in blue, white, and with a sprinkling of red. He thought that might be air, water, and some fire.
+
+Overall, it was a pretty good haul. He looked under the nest, too, just in case there were any more goodies, but found nothing. Not even bird shit. Maybe this place might be more fake than he thought.
+
+Man, his arm stung. He really hoped he didn't get demon bird rabies.
+
+Walking out of the glade, he looked around one more time to make sure he didn't hear anything else crawling in the underbrush. There was nothing. The dungeon had an empty, sterile feeling about it. He had cleaned it out. Actually, he had exterminated everything.
+
+No, he was going to focus on the positive. He wasn't exactly a mighty hunter, but he had certainly cleared this place out.
+
+He went back to the door for the exit room. It was like a regular door, with a knob and everything. The knob turned easily as he opened it and stepped in.
+
+"Bob Ross, Bob Ross, Bob Ross," he chanted to himself. Not because he particularly liked painting, but because it would be much easier to spend the rest of his life with that rather than, say, sneezing wind blades.
+
+There were two chests waiting for him. Both were firmly stuck to the floor. Apparently, he couldn't take those with him.
+
+The first was filled with five mana stones. This was his reward for the dungeon, and... it was a little disappointing, as each of the mana stones was the same size as the ones from the regular demon chickens. Three were air, one was water, and one was fire. There was also a little bar the size of his pinky finger of what he assumed was steel. Well, whatever. He added it all to his pack.
+
+The next box was the real prize. As Thomas lifted the lid, he swore he heard an "awe," like from a chorus of angels.
+
+Nestled on a bed of dried grass inside was an old-style vellum scroll like you'd get from medieval times.
+
+"Nice," he said.
+
+Taking a deep breath, he unrolled the scroll. The contents were written in florid calligraphy that might have been hard to read if it didn't have the same aspect as the sky writing. He could read it as perfectly as print.
+
+Thomas Coldstrike: You have unlocked the Gift of Loot.
+
+Any dungeon monster you kill is five times more likely to drop an item from the dungeon monster's loot table. In addition, rare drop chances have increased from 0.5% to 5%.
+
+"Oh," he said. "Suddenly a few more things make sense."

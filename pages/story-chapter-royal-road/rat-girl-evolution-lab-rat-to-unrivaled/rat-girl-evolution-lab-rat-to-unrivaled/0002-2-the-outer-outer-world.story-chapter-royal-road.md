@@ -1,0 +1,189 @@
+---
+id: 91c88e80-75d9-5a18-a334-09c92d5342d8
+page-type-slug: story-chapter-royal-road
+title: "2: The Outer-Outer-World"
+slug: 0002-2-the-outer-outer-world
+partOf: rat-girl-evolution-lab-rat-to-unrivaled
+position: 2
+ownLength: 2275
+unit: words
+publishedAt: 2025-09-04
+link: "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2572794/2-the-outer-outer-world"
+royalRoadId: "2572794"
+---
+
+Everything looked different, without the layer of glass. It was cold, harsh. Sharp, maybe, was the word for it. Everything was so clear, so detailed, so focused. The whole outer-world had become real in a way that defied description.
+
+And the realest, sharpest thing of them was the multitude of presences that all suddenly made her their sole focus.
+
+Line after line of inner worlds, of cages, each with another rat.
+
+She pulled herself over the edge of the cage, and fell onto the table, gripping the lid to prevent herself from slipping onto the floor.
+
+She felt it then, stirring in her bones once more. That glowing liquid and burning-tingling-changing feeling. It was the same feeling, growing slightly as it sparked a new burning hunger in her belly.
+
+With shock, the rat realized it may not have ended, only stalled due to her confinement and a lack of food. Would she keep growing, until the outer-world was also too small for her, or until all the food in reality wasn’t enough to sate her?
+
+No, no.
+
+She found herself shaking her head at the idea. That was silly. They, the humans, had done this. She was becoming like them. So she would most likely stop when she was their size.
+
+Hopefully.
+
+She scurried across the long table, over to the next cage, and had started to heave it open at the edge, only to have a question strike her mind.
+
+Is this what you want?
+
+There was no way for her to voice it, but it felt unfair. That she had been gifted these changes, this evolution and power, and a chance to change things, while all the other rats were still bound to their old form, at the whim of any person who would wish to pick them up and inflict more tortures?
+
+If she had gained this power, and if they could gain this power, why should she stop that—
+
+Oh.
+
+Every ounce of moral conflict dripped from her body in an instant. Her eyes grew hard and cold, only now taking in the rats before her in truth.
+
+Patchy fur, falling out. Twisted, mutated limbs.
+
+And scars. So many scars. Long ones, from being slit open. Small ones, from needles. Jagged ones. Clean ones. Burn scars, tearing scars, cutting scars, stabbing scars. Each rat was a patchwork mess, their bodies a tapestry of their suffering, a weaving of all that they had been forced to endure.
+
+But the worst was their eyes.
+
+They were filled with fear.
+
+The gazes that fell upon her weren’t those of rat-to-rat, but the raw, naked cowering that she had done every time they pulled open the lid of her cage, the acceptance of torment from one who had realized that the entirely of their struggling was in futility, and that pain was not only their past, nor even their present as well, but the only thing to be expected in their future, the totality of their full existence.
+
+They saw her as a human, and reflected in their eyes, she saw what she was: a monster.
+
+Revulsion filled her, and vomit filled her throat.
+
+That made her even more sick.
+
+Rats don’t vomit. I don’t vomit.
+
+But she did, spewing liquid nothing that burned in her throat over the floor. Wiping her mouth, and grimacing at the way it stuck to her fur on the back of her hand, and grimacing even more at the just how human-like the action was, she settled her mind.
+
+After all, there were sharp metal edges everywhere. It took her less than a minute to find one that she was comfortable holding, and swinging. Then she got to work.
+
+Each rat scurried away as she smashed their own-inner worlds, hiding from the shards of glass within their own hollows. She always waited for them to take cover before breaking through, starting with a lighter swing that only cracked the outside.
+
+A new rage filled her with each rat that limped, that crawled, that ambled along on a body that had betrayed it—
+
+No. On a body that had been betrayed, by these humans that had no right to exist in reality.
+
+How dare they? How dare they? How DARE they do this?
+
+Her lips curled back in a snarl, and she noted with satisfaction the protruding sharpness of her teeth. That was still inhuman of her. That was still correct.
+
+There was a sense of satisfaction, one that grew with each smash, with each inner-world shattered and each comrade in species freed.
+
+It was a sense that wasn’t a sense. It was more like an itch that had been left unscratched. No, that was too kind a way to describe it. It was the burning tiredness of trying to stand on a broken leg long after your bodily structure had fallen apart, being held up by the unwillingness to fall.
+
+Then, at that time, it had been because she knew what they would do to her if she fell.
+
+This time, there was nothing. No punishments, no tortures, nothing but an idea that it was wrong for this to be the way of things, and that it was her responsibility to be the one who stopped it, who fixed it. Because until it was fixed, until it was healed, that sense in her wouldn’t heal either.
+
+And so she kept smashing. She kept shattering prison after prison, setting free rat after rat, and sending shower after shower of glass shards to the floor.
+
+With each one, though, she took a moment to check their now-tiny food bowls, and if anything was left, to stuff that handful of food into her mouth. The faint burning in her joints fluctuated as she did so, but the hunger in her belly remained the same, no matter how many she ate.
+
+Then it was done, and there were no more cages left to break, no more rats to liberate.
+
+What now?
+
+The question reverberated in her mind as she stood there, letting the object drop from her hand.
+
+Run away?
+
+No, that wasn’t right. The other rats could scatter — they were scattering, all around her, but she had to do something. She needed vengeance, she needed to stop this from happening again.
+
+Besides, that wasn’t even really possible now, was it? The outer-world wasn’t large enough to hide someone like her, as hideous and bloated in opulent size as she had become.
+
+Attack the white outer-clothes humans, then?
+
+Definitely not. She was nowhere near their level of power, not yet. Even if these changes continued, and she gained the size and strength of those titans, she would still be outnumbered a dozen to one.
+
+She cast her eyes around the outer-world, looking for something that would resolve the dilemma in her mind, at the same time as she cast her mind around her fuzzy memories from before her transformation. Everything she had heard discussed was like it was hidden in a haze, covered in a mess of misty pain and dull-minded simplicity.
+
+But somewhere, creeping out from within all the smoke and fog, there was an inkling of an idea. There was something, though she wasn’t quite sure what.
+
+At a certain point, she started to feel it. There was that same strangeness, the one that came from the gems, from the liquid in her bones, and that had come from the stroking finger, what felt like a lifetime ago now.
+
+It was in her fellow rats, the most mutated and mutilated of them especially. No, wait.
+
+It was in her, too. Not only in the form of the injected substance, but her bones, her muscles, her internal organs, even. Every part of her had been remade, and every part of her now overflowed with that same feeling, that strangeness, that energy.
+
+What had they called it? Those white-clothed humans, blabbering on and on about this and that in words she couldn’t understand. Not just the words – she hadn’t even been able to conceptualize the idea of something like this at that point, forget the terminology.
+
+It was… It was…
+
+Mana. That was it.
+
+Mana was the energy that flowed within every inch of her flesh now. Mana was what made their gems glow, what the human torturers used to work their deeds, and what traces of lay in the bodies of all her ravaged kin.
+
+Mana was, whatever it was, very important to them. Meaning that the objects highest in glowing mana had to be the ones most valuable to them. If she truly wanted to hurt them, then rather than resisting her urge, she should give in to it.
+
+The more mana an object had, the shiner it was, and the worse they would feel its loss.
+
+Her hands filled themselves with a pair of the glowing gemstones, and then an idea struck her. She took a moment, sliding down to the floor, and then scurrying over to by the chairs, pulling a white outer-clothes, a lab coat, they called it, as she now remembered, from one of them, and putting it on.
+
+It brushed the ground as she walked, meaning she was now nearly as tall as one of their waists. That bothered her, her new height.
+
+What bothered her more was just how natural it felt, how normal it was to be like this, on a subconscious level.
+
+She stuffed another gemstone into her newfound pockets, gathering each one, along with the other things that glowed with the same levels of mana. A small cube, dancing with faint colors in the reflected light. A scalpel, which sent tinges of pain coursing through her as she touched it, resonating with all the places on her body it had marked before.
+
+And the brightest by far of them all, sitting up in a place all of its own, on a special table surrounded by other, lesser items.
+
+A pair of straps, and a circle they were attached to. It looked like a… Watch? Wristwatch? That was the word.
+
+Like a wristwatch, but without the face, the arms, or the numbers. Just blank, black glass on the outer side, and a pair of tiny needles on the inside, primed to surely injure anyone who carelessly put it on.
+
+It seemed to hum as she picked it up, the resonance of the magic in it twisting as though it wanted to change, but couldn’t.
+
+Then it settled back down, into a frequency not unlike the one she could detect inside her own body. No, more like the ones of the other rats, rather than her changing, mutating hideousness.
+
+She pocketed it with the rest, this time making sure to place it in with the straps wrapping around the back, adding a layer of padding so that it wouldn’t prick her by mistake when she moved. Then she picked up the next one, another of the gemstones that radiated with the dull warmth and soothing red light, only to freeze.
+
+Sounds, coming from… Coming from somewhere.
+
+Faint, echoing voices. Those of humans, using their twisted words that she now agonizingly thought in. Her ears flicked up, and she felt a slight grin cross her face at the fact that they still seemed to be entirely those of a rat, and possessed of the same gifted hearing.
+
+Even with it though, she couldn’t make out the words used or the topic of their conversation. What part of the outer world they were in also-escaped her. The walls weren’t all that far away, she realized with a jolt of fear. It was already surprising that they hadn’t ended up catching her, with the cacophony of noise she had been making in her smashing and stealing spree.
+
+In fact….
+
+No.
+
+That wasn’t right.
+
+She refused to believe that was right.
+
+But there it was, an undeniable truth.
+
+At the border of the outer-world, carved into its walls of steel and stone.
+
+She could see them now.
+
+She could hear the word that referred to them, could understand the context of their existence.
+
+Windows. Made of the same glass as the inner-worlds, as the cages. The outer world… was also a cage.
+
+And outside it, there was yet another, outer, outer-world. A real world. The real world.
+
+The realization forced something to manifest inside her.
+
+Deep, just like the twisting and turning in her body from that cursed liquid, she could feel it. A flow, deeper than her blood in veins, deeper than her muscles that flexed with tension and fear, deeper even than her bones.
+
+Deeper still, as though it was an undercurrent to even the mana that pulsed through some layer of her so withdrawn she didn’t have a name for it. But that undercurrent was what moved, responding to her emotions, to her pain.
+
+It hissed, it bubbled, and it poured out, looking for a source. Eventually, it found one, in the final gemstone she had left abandoned by her mind, and yet clenched in her hand-paw so hard she could feel the edges digging painfully into her flesh.
+
+The mana poured out her, into it, and then out of it again. No, not out of it, but shared, between it and all the other gemstones left, the ones in her pockets, and the dozens yet scattered throughout the lab.
+
+Draining all that she had, pulling it out as though she had been made for the purpose of supplying it alone, it sucked the last bits into itself.
+
+Then it spit it back out, from all of them at once.
+
+This time, not as mana, but as dancing red flames.
+
+And they burned.

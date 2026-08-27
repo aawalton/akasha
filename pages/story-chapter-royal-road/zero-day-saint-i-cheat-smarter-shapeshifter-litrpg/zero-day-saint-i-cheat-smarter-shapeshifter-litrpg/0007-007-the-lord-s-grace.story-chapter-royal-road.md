@@ -1,0 +1,202 @@
+---
+id: 371b3913-5e53-5415-9113-79195cf1c5e8
+page-type-slug: story-chapter-royal-road
+title: "007 - The Lord's Grace"
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 7
+ownLength: 2082
+unit: words
+publishedAt: 2026-05-01
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3340485/007-the-lords-grace"
+royalRoadId: "3340485"
+---
+
+The bug attack had not been constrained to our location. The skeletons we found in the streets were a dead giveaway. A very dead giveaway. A small subroutine at the back of my mind had started wondering what the city would smell like in a week. This slightly alleviated that issue—less flesh to rot.
+
+Being pretty much dead-weight right now, I let Jamie take the lead. He had the ability to spot sanctified and profane spaces on his map, though only at very short distances. I used the opportunity to finally dig through some of those menus I simply hadn't found time for. First and foremost, my 'Character' section. Gabriel explained that the starting attributes were determined by our old lives. If only I had ever stuck with going to the gym. As it stood I ended up with the following distribution:
+
+Strength 2Agility  3Endurance 2Intellect 8Intuition 5Charisma* 3
+
+With the human average being between 3-4 and the peak of non-Blessed human potential sitting at 10, I wasn't dealt the worst hand. That Intellect score was a surprise but I had no idea how the system determined those numbers. Supposedly my Strength and Endurance were only one point above those of a cat? How was that supposed to work?
+
+Besides that there was my Class, Shapeshifter, and two Perks; one positive, one negative.
+
+'Loki's Gift' was the positive one. It was the entire reason I even had those three extra shapes. Without it I would have been stuck with just that Crow shape. It also came with a benefit of 'Accelerated Perk Acquisition'. Upon my inquiry Gabriel explained that this meant I'd get a Perk at every fourth level instead of fifth.
+
+The negative one was simply 'Inaptitude: Charisma'. Only every second attribute point I put into Charisma would actually raise that stat.
+
+["What's with the Inaptitude? Isn't the Blessing supposed to help us?"] I had already gotten used to using the chat and preferred it over the noise of talking out loud.
+
+"Unlike Jamie who just got hit with his Class, you made that choice," Gabriel said. "You just don't remember it."
+
+"What does it do?" Jamie asked.
+
+"Makes it harder for me to raise my Charisma stat. Guess I'll be stuck at three."
+
+Alongside Gabriel's reply, Lucy's appeared. They'd opted for just text, too.
+
+["Jamie had better have taken my offer. You, my dearest, aren't cut for leadership."]
+
+"That's not too bad."
+
+"Let me guess. You got a five?"
+
+"Seven actually, my highest stat."
+
+I made a note to ask Gabriel what all of those attributes actually did. Jamie was just turning to ask me something when I spotted movement down the street. I tapped his shoulder and pointed, crouching down to hide. A group of people, around a dozen, was crossing the street, two blocks down, perpendicular to the direction we were going.
+
+Jamie crouched next to me. "Shouldn't we try to get them to notice us?"
+
+"I don't know. Should we? If you hadn't been about to do something really dumb I would have stayed hidden from the shotgun-slinging maniac."
+
+"I think we should."
+
+"Do it," Gabriel chimed in, "but keep an eye open for instabilities. Groups usually mean strength, unless they are already breaking at the seams."
+
+"The more the merrier," Lucy said.
+
+We peeled out of cover and Jamie did that two-finger whistle I never figured out. Right next to him it was painfully loud, but it caused some heads in that group to turn to face us. After a short discussion the main body of the group took cover in the coffee shop next to them, with a couple of them waving us over.
+
+We jogged up to them. Outside a middle-aged woman, still wearing slippers, and an older man, his buzz-cut screamed vet, waited for us. He was carrying a gun, but she didn't seem to be armed.
+
+"Hey, you two," the woman greeted us. She seemed happy to see us, though her gaze got stuck on me for a bit. I was still covered in demon hound ichor. But the way she looked at it told me two things.
+
+She knew what that was. And she wondered how I survived getting covered in it.
+
+The man just grunted his greetings.
+
+Jamie spoke up first. "Hey. I'm Jamie, and this is—"
+
+"Eve," I said, stepping slightly ahead. "Are you all Blessed? And do you know where you are going?"
+
+"Not all of us. But I am, and so are some others. And the man leading us," the woman answered. "I'm Constance."
+
+"We both are, too. Though I'm slightly useless right now."
+
+"Oh, ask me, girl. I'm super low on mana."
+
+I blinked. If spellcaster was a choice, why the hell had I, supposedly, picked Shapeshifter? Another note for later.
+
+"Where are you heading?" Jamie asked.
+
+"A sanctified space. The young Reverend can see one nearby."
+
+I glanced into the coffee shop, but couldn't make out anyone with a collar or anything that'd identify them as a priest. The group did clean out the display cases and snacks, though. I appreciated the efficiency.
+
+"Can we join you?" I asked.
+
+Constance exchanged a look with the older man, who hadn't spoken a word, and nodded.
+
+"Of course." She turned to those inside and waved them out. "May I ask what your classes are? I only know about those kinda things from Skyrim, so I really have no idea what even is out there."
+
+I snorted. That knowledge probably gave her more of a point of reference than an hour with a Guide did for a non-gamer. "Shapeshifter. But out of charges."
+
+"Paladin," Jamie said. "Still figuring it all out."
+
+The eclectic group shuffled out of the coffee shop and Constance introduced us to the group. There was nothing that indicated they were anything but a random selection of people. I assumed they shared the same apartment complex. The youngest was a pre-teen boy.
+
+"I'm Pastor Crux," one of them introduced himself to us. He was about my age, late twenties, early thirties, with a crop of black curls on his head. He was not at all dressed like a priest, wearing sweat pants and a sweater. "But you can call me Anthony. I am not entirely sure yet how meaningful my former profession will be from now on."
+
+The group slowly fell into motion. Those who I assumed were the Blessed among them secured the perimeter around the group.
+
+"What is your new profession, Anthony?" I asked.
+
+"Pathfinder. Lailah, my Guardian Angel, explained to me that it might allow me to help many people in the coming days."
+
+"It would help a lot already. I have a ton of Tasks I can't look at yet, and two levels I haven't dealt with."
+
+"Most of us haven't gotten any experience yet. Well, besides Constance. Has she mentioned her Holy Bolt spell?"
+
+"No, she didn't. But I'll take a guess. Magical projectile with extra damage against demons?"
+
+"Exactly that, Eve. Did you play roleplaying games before?"
+
+I laughed. "Yeah, a bunch. You?"
+
+"Not a whole lot, but a bit. Tried them to engage the younger folks in my community."
+
+"I also got a Holy Smite," Jamie said.
+
+"Of course you do. You're a paladin."
+
+"I would have preferred the ranged options, to be honest. This one needs me to strike them up-close."
+
+"You'll get used to it. At least you get to have metal between you and the monsters."
+
+"Are you two close?" Anthony asked.
+
+"We met half an hour ago," I said.
+
+"She saved my life," Jamie said.
+
+"Don't go around saying it like that. People will get the wrong impression." I turned to Anthony. "I just warned him about a dangerous place. And then shoved him in anyway because the bugs attacked."
+
+At the mention of the bugs, the mood in the group notably shifted. Even the priest couldn't keep eye contact.
+
+"That bad, huh?" Jamie asked.
+
+"We lost five to them."
+
+Holy shit.
+
+Anthony glanced at his UI and then down the street. He pointed. "There it is. The sanctified space."
+
+It was a deli. Despite the power outage, the lights were on.
+
+Even when approaching the threshold I felt a sense of calm coming over me. I'd been biting down on so much stress, the sudden absence felt disorienting.
+
+When I crossed into the building I was immediately greeted with two notifications.
+
+[Level-Up Available.]
+
+[Task Log Unlocked.]
+
+I stepped out of the entrance to make room for others as I examined the new options. When I looked up, she just stood there, next to the counter, smiling. The entity who'd just been a voice in my head for the past two hours. Now here, real, in the flesh.
+
+I stopped in my tracks. Half a head taller, and wearing a thin satin-like tunic, of white and gold, she didn't look like an angel at all. She looked like a goddess. The tunic didn't leave a whole lot to the imagination. Even here her head was crowned by a golden halo, giving off a warm glow.
+
+"Wow," I said.
+
+"Hello, Eve. Hello, Jamie." He also stopped next to me. "We need to hurry a bit, soon there'll be a bunch of Guides in here. Might get crowded."
+
+She stepped closer, her sandaled feet never touching the broken glass underneath, and took my right hand into both of hers. I felt a tingle and saw a glow through her fingers. When she let go there was a glyph on my palm, its lines smoother than the infernal script I'd seen before. Two more notifications popped up.
+
+[Inventory Unlocked.]
+
+[Party Menu Unlocked.]
+
+Before I could process those, or examine my hand properly, Gabriel stepped even closer and wrapped her arms around me, embracing me. A warmth spread through me, banishing a cold I hadn't even felt taking hold inside. I had to bite down on that surge of emotions or I'd have started crying on the spot.
+
+"You are doing good, Eve. I'm proud of you," she whispered in my ear.
+
+She pulled away, but some of that warmth lingered. She repeated the same process, including the hug, with Jamie.
+
+Damn. With such missionaries, I might yet find faith.
+
+Further down the room, Anthony had his own encounter with Lailah, who looked nothing like Gabriel. They were bald and entirely androgynous, wearing a simple linen garb. Their demeanor lacked the warmth Gabriel had shown me just now. Instead they were regal and commanding. Anthony even went on his knees to receive his glyph.
+
+Similar scenarios played out for a handful of others, with none of the Guides looking like another.
+
+When I looked back to the other two, Lucy had materialized next to Jamie. I hadn't thought they could even do that in here. They had their arms outstretched and were grinning up at Gabriel.
+
+"Me, too? Fair's fair."
+
+Gabriel looked down at the devil, and despite her effort to look serious, there was amusement in her eyes. And then she actually went for the hug, though a shorter one than Jamie or I got.
+
+"I'll leave now," she said, smiling. "This body feels dirty now. I'll still be around to help you with your choices, Eve. And to explain some more things to both of you."
+
+Lucy stepped closer to Jamie, holding onto his arm. "You'll protect me if those fanatics decide to hunt a devil, won't you?"
+
+"Why are you even here?" I asked. "You don't have any gifts to bestow on us we'd want."
+
+"Yeah. I'm not going to fight other Blessed for you, Lucy."
+
+"Really? You'd give up your vows to protect the innocent just like that?"
+
+I laughed. "You are hardly innocent."
+
+"Babe, I'm about an hour old. I'm more free of sin than anyone here. Besides, this is my first time ever being in a sanctified space. I'm pretty sure even the damned are entitled to feel the Lord's Grace."
+
+Groaning, I looked around. There was a door behind the counter. "How about we see if this backroom is as blessed as this room? I need some quiet to figure this all out."
+
+Lucy rolled their eyes at me, but both followed. The sanctified space did indeed extend back here and even felt more intense. There was an undercurrent of determination here that I hadn't noticed at the front. The room was half storage room, half kitchen. Tucked next to a metal shelf to my right were two rolled-up prayer mats.

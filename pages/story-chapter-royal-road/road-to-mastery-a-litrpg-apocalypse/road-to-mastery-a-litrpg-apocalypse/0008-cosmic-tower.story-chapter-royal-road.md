@@ -1,0 +1,37 @@
+---
+id: 6ec6efad-436b-5c1a-99f7-2fe47032387a
+page-type-slug: story-chapter-royal-road
+title: "Cosmic Tower!?"
+slug: 0008-cosmic-tower
+partOf: road-to-mastery-a-litrpg-apocalypse
+position: 8
+ownLength: 252
+unit: words
+publishedAt: 2025-10-15
+link: "https://www.royalroad.com/fiction/61041/road-to-mastery-a-litrpg-apocalypse/chapter/2678629/cosmic-tower"
+royalRoadId: "2678629"
+---
+
+Bros!!!
+
+It's been a while! How have you been? Everything good?
+
+For me, change has been swift and sweeping. I traveled everywhere, learned a lot of things, split up with my partner... It was a stormy few months, but I made it out stronger than ever, and my life just keeps getting better. I also started writing a new story in July, and I'm now ready to launch it. In fact -- I just did.
+
+Meet Cosmic Tower! An action adventure in the style of Road to Mastery, where LitRPG Apocalypse meets Tower Climbing and Cultivation meets the System. I attach the blurb and cover below, but bottom line, if you enjoyed Road to Mastery, you'll enjoy this too. Let's hang out together again. I'll see you there!
+
+Blurb:
+
+One man, one spear. A hundred floors. Can he defy the Cosmic Tower and seize immortality?
+
+Gary was a good programmer living an empty life—until the Network arrived. In an instant, most of humanity was turned to paste. The survivors? Drafted into a brutal, alien trial: the Cosmic Tower.
+
+Now, Gary must fight his way up, floor by deadly floor, facing monstrous beasts, ancient clans, and arrogant geniuses from across the stars. In this world of power and peril, strength rules—and weakness means death.
+
+Armed with grit, brains, and his trusty spear, Gary Steel refuses to bow. He won't stop until he reaches the top or dies trying.
+
+How high can he climb?
+
+Check it out here!!
+
+Love you, bros. Keep being awesome!

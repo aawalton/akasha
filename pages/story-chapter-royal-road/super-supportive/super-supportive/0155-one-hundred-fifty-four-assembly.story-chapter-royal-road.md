@@ -1,0 +1,575 @@
+---
+id: b0008ac1-1cc4-55bc-808d-a7e7e9b8ce41
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED FIFTY-FOUR: Assembly"
+slug: 0155-one-hundred-fifty-four-assembly
+partOf: super-supportive
+position: 155
+ownLength: 6074
+unit: words
+publishedAt: 2024-07-08
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1709100/one-hundred-fifty-four-assembly"
+royalRoadId: "1709100"
+---
+
+154
+
+******
+
+Becoming a part of Apex’s sky traffic was every bit as entertaining as Alden had imagined it would be. The Mother-forsaken Cookie was soaring along at what he felt was the perfect altitude for a classy magical vehicle—above most of the spell-users and the Shapers riding around on recliners with homemade seatbelts installed, but below the super fast or noisy stuff.
+
+It’s the perfect ride, he thought. Quiet, hovers, big enough for company.
+
+And it looked cool.
+
+He was currently trying to convince himself that the nonagon’s coolness was the attraction whenever he noticed people down below pointing or holding up tablets and cell phones.
+
+At least drones aren’t getting in our way.
+
+There were separate rules for how the drones flew around up here where people were also flying around. Maybe those rules were keeping them in line. Or maybe his companion was just the sort of person that even the most entitled gawkers knew to keep a respectful distance from.
+
+Esh-erdi, ultrapowerful chaos-fighting knight, had scooched himself over to the edge so that he could swing his feet, point eyes and hands in two different directions at all times, and comment on the things he found interesting.
+
+“That person has awful technique; I hope it’s their own fault and not a result of bad talent design. There are so many types of dogs. Look, that’s a pull-me-over spell! What kind of game is played on that outdoor <<gaming board>>?”
+
+Alden peered down through the transparent surface of the nonagon.
+
+“Tennis,” he said, spotting the court on a rooftop. “You hit balls with…stiff nets on sticks.”
+
+“Rackets” wasn’t in his Artonan repertoire.
+
+Esh-erdi nodded, then he moved right along to the next curiosity. “They’ve built their own flyer out of mover discs!”
+
+At the name of the familiar devices, Alden looked around again, searching for anyone that might be using them.
+
+The area they were passing over was mostly unharmed, but some isolated patches had experienced flooding. On the street immediately below them, waterlogged and damaged possessions were being piled in front of buildings.
+
+And there, flying at roof-level along that street, was a yellow two-seater car, covered in mover discs that looked identical to the ones Alden had learned to control at the lab.
+
+An Anesidoran flag was flapping on the car’s roof, and there was some kind of a banner hanging from the trunk. Alden couldn’t read it, but when he focused, the driver’s public name tag came up on his interface.
+
+Right now, his or her name was listed as: [C-Sway with stress-relieving alters offering flights between F & Apex. Plus heavy lifting. 900 arg/hour.]
+
+“That’s so expensive!”
+
+“It’s probably one of the cheaper ways of making your own flyer if you can’t cast spells,” said Esh-erdi. “But I wonder if they know how quickly those discs burn out. They’re going to have to keep applying new ones.”
+
+Alden had meant the hourly rate the Sway was charging for their variety of services, but that was interesting. “I used mover discs to flip a car that had overturned on Thegund. There were lots of them at the laboratory, but almost none of them worked. I thought they were chaos-damaged.”
+
+“I’m sure they were,” said Esh-erdi. “But they’re not <<stalwart>> tools at the best of times. Traditional enchanters get so offended by the quantity and quality of products that come from Fetuna <<Repeaters>>.”
+
+Alden took one more look at the car. Cheap flotation enchantments would be fun to practice his skill on even if they were flimsy.
+
+Mental note: find, price, and experiment on some of those discs.
+
+He wondered if mental notes could find room to stick in his head. Now that they were actually in the city, a frantic damage control program was running in the background, slightly dimming his enjoyment of the flight and scrambling his thoughts.
+
+If someone tried to read his mind they’d get no secrets about Matadero. Instead, they could have his stream of consciousness—The nonagon is so much better than that guy’s ride. I wonder if I can find somewhere empty on campus so nobody sees me land? I bet I’m on the internet again. Yuck. Maybe they’re all too focused on Esh-erdi to wonder why I’m here! He’d probably like horses. Knights and horses are a natural combo. How am I going to explain this to everyone at school so that they’re less weird about it? I’m getting so much better at maneuvering. I know I can do a loop-the-loop with this thing.
+
+He tried to rein it all in. They were getting close to campus.
+
+“Thank you for teaching me to fly. I needed it this morning. It’s really fun.”
+
+“The Nine-edged Son Whose Own Mother Forsakes him is fun?”
+
+It had been several minutes since they’d worked the name into the conversation.
+
+“The Nine-edged Son Whose Own Mother Forsakes him is very fun,” Alden agreed.
+
+Esh-erdi made a pleased trill of a noise that most humans would have struggled to mimic. “I’ve enjoyed the chance to see you learn. Even if it is only a small thing I’ve taught.”
+
+He sounds like he means that.
+
+Joe always seemed to enjoy teaching me, too.
+
+It was just a thought that struck him, not an intentional comparison of the two situations. But intentional or not, once it had appeared, there was a part of Alden that had to chew on it.
+
+I was an “unusually likable young person” who Joe looked forward to summoning in the future for “mutual benefit.”
+
+It wasn’t that different from how Alden would have described his relationship with the professor on the day he’d left LeafSong for the last time. But after everything that had happened to him in Joe’s former home, because Joe had sent him there, because Alden had tried his best to help Joe’s people…
+
+“The little girl I lived with on Thegund is thinking of taking a mourning name,” said Alden. “She’s been trying to build her bravery for it for a long time. I’m sure she’ll decide to do it soon.
+
+Esh-erdi lowered his arms and pulled his legs up before turning around to face Alden. He waited.
+
+“I know a lot of the things I’m supposed to do to show her I respect her decision and the new name. Everything I could find on Earth’s internet and from the Goodchild Klee-pak shows. But I had some questions, and I wanted to make sure I met the occasion perfectly. Can I ask you for advice about it sometime?”
+
+“Of course,” said Esh-erdi. “There are many different traditions you might observe for the child. Most of them are quite beautiful. It would be my privilege to share them.”
+
+“I appreciate it.”
+
+“Do you still speak to her often?” Esh-erdi asked.
+
+“Yes. She’s living with Hn’tyon Alis-art’h for now. She’s joined the wizard class and begun her education with tutors. We send each other messages every week.”
+
+“A class shift and a mourning name all in the <<aftermath>> of a corruption incident. She’s having a <<turbulent>> flight for a little ryeh-b’t.”
+
+Hey! thought Alden. He called her a little ryeh-b’t. The lesson from second grade about Artonans thinking they were cute enough animals to be a term of endearment was right.
+
+“I look forward to teaching you again,” said Esh-erdi.
+
+“And I look forward to giving you a campus tour whenever you have time for one,” said Alden.
+
+******
+
+As they approached the school, Alden settled on Celena Circle as his stopping spot. He intended to land in the large greenspace, pass the ring over to Esh-erdi so the knight could go about his day, and then make a run for the MagiPhys Ed building.
+
+The assembly was being held in the gym, and he’d decided to courageously admit to himself that there was no point in hunting for an isolated location to disembark from his noteworthy ride.
+
+Sneaking around might make Alden’s interaction with people more manageable this morning, but since he had promised the knight a tour at an unspecified future date, there was ultimately no escaping from whatever kind of attention wandering campus with an important Artonan was going to get him. He’d only be delaying the reactions.
+
+And, anyway, Esh-erdi deserved better.
+
+Hn’tyon Esh-erdi, thank you for everything. I swear I’m not hiding you behind these garbage bins. I just wanted to show you where Avowed do their recycling.
+
+But there was also no reason to drop the nonagon down directly into the crowd that would be heading into the gym. If I do that, I might as well just throw my arms into the air and shout, “Behold! I have found myself in yet another unusual situation!”
+
+Celena Circle was close enough to his destination, and it shouldn’t be crowded if all the students were gathering elsewhere.
+
+At least, that was what he’d assumed until he saw it.
+
+“There are domes,” said Alden, staring down at the circle in surprise. “The domes are new.”
+
+Emergency houses that looked like mini versions of Alis-art’h’s travel dome had appeared, forming an instant neighborhood. They were arrayed in curves, covering the grass. Quite a few people were moving around in the area.
+
+“I’ll set us down somewhere—”
+
+“This is convenient!” Esh-erdi said. “Drusi has <<stationed>> herself here. I should greet her in person.”
+
+Alden had been about to say he should set the nonagon down somewhere else. But okay.
+
+He aimed for the sidewalk on the edge of the emergency housing and lowered them toward it.
+
+“Who is Drusi?” There were a couple of Artonans visible, unpacking what looked like another dome on the far curve of the circle.
+
+“She’s a <<votary>> to Lind-otta. And she’s also her cousin. Drusi-otta.”
+
+Alden just hated it when the System translated a word he didn’t know with another word he didn’t know. He’d have to find the definition when he wasn’t listening, landing, and looking through the platform to make sure none of the people who were staring up at them were actually going to run over and try to say hi.
+
+I bet they revoke my special circumstances license if I set the cookie down on top of somebody’s head.
+
+“Drusi arrived in the night,” said Esh-erdi. “She will <<monitor>> any Artonans who approach you. To ensure Bash-nor doesn’t send anyone to pester you or question you. He shouldn't, since I’ve told him not to and I’ve already spread your account of events to important ears. At the moment he doesn’t seem inclined to behave inappropriately.”
+
+“She’s a bodyguard for me?” Alden asked in English.
+
+I should have asked more questions about what he meant when he said someone would keep an “eye and a mind” on me until he was sure Bash-nor was going to leave me out of his drama.
+
+Was Lind-otta’s cousin another knight? Was she going to stand six inches away from Alden, looming over his shoulder all day?
+
+“She won’t interfere with your schooling,” said Esh-erdi. “She’s one of those votaries who takes pride in <<remaining in the shadow>>.”
+
+Does “votary” mean assassin?
+
+He looked around for an Artonan who looked like an assassin. He didn’t see one.
+
+But I wouldn’t if she was a good assassin, would I?
+
+The nonagon stopped and hovered a couple of feet above the sidewalk. Everyone Alden saw was staring their way, but nobody approached.
+
+He held back a sigh, hopped off the platform, and removed the ring. He held it out toward Esh-erdi.
+
+“Keep it for now,” Esh-erdi said. “Use it to travel wherever you like.”
+
+Alden looked from him to the ring, surprised. “I’ll be fine without it. Don’t you need it?”
+
+“You’re already granting me your patience by agreeing to remain at the cube for a few more days while I take my time handling all the matters that might trouble you and Zeridee-und’h in the future.”
+
+So he’s thinking it’s going to be a few days then?
+
+Alden hadn’t minded much when Esh-erdi had asked him if he would stay at Matadero a while longer. Healing, a private and quiet room, no human authorities bothering him for details about dead Avowed, and no ambassadors trying to trick him into incriminating assistants they didn’t like—it wasn’t a bad situation for him.
+
+But now that his feet were on campus, just a quick walk from Garden Hall, he craved his dorm room.
+
+Esh-erdi went on, “While you can be here, and while I’m confident you are watched by the Contract and a competent votary—”
+
+It totally means assassin.
+
+“—I hope you will relax and freely take care of whatever matters need your attention. Go back to the cube when you want to, or wait for Drusi-otta or me to tell you it’s time. Until then, enjoy your school. If your meeting finishes early, have fun flying on The Nine-edged Son Whose Own Mother Forsakes Him.” He smiled. “Don’t crash it into anything. It will make me feel like an unworthy instructor.”
+
+And then, before Alden could think of a reason why he shouldn’t be given free use of the nonagon, Esh-erdi was walking away.
+
+Alden stared down at the flying platform, feeling torn. He absolutely wanted to play with it more. But still…
+
+“I thought I was going to hand you over to him after we parked,” he said. “If he’s giving you to me for the whole day, what do I do with you?”
+
+Even if he knew how to fly it, he didn’t have any idea how to store it. It didn’t feel right to leave it here at ground level where anyone could mess with it.
+
+I guess it comes with me instead?
+
+“Why did I waste so much energy worrying about subtlety?” He sat back down on the edge of the platform, and directed it to lift him just high enough off the pavement so that his feet wouldn’t drag. “Let’s go to school.”
+
+He started to zip off toward the MPE building, then stopped as he realized he might be leaving his bodyguard behind.
+
+“Drusi-otta? Are you there?” he asked in Artonan. “Do you want to ride with me?”
+
+He waited. About ten seconds later, a whisper carried toward him by a spell, said, “I will watch over you in my own way. Live as though I do not.”
+
+Alden searched for her everywhere. No deadly-looking Artonans were in sight.
+
+“I…will try to do that,” he said finally.
+
+******
+
+******
+
+On the walkway outside the MPE building, a group of first-year hero program students were dawdling and taking advantage of the last minute before the assembly began to share gossip and disaster stories.
+
+“You guys!” Rebecca called, spotting them from a distance and joining them in two big bounds that landed her right beside Astrid, who was using a compact mirror to watch her eyebrows as she tried to morph them into matching arches. “Guess what I saw on my way over!? I’ll give you a hint. It was big and green and up in the air—”
+
+“The top of a cedar tree,” said Jupiter, making a kudzu leaf float between one hand and the other. “A dirigible. A gokoratch.”
+
+“A grasshopper that got upgraded like Big Snake’s wolves,” said Astrid.
+
+“A cloud of smoke from Boom Town,” said Everly.
+
+There was a pause as Rebecca looked expectantly at the others who were present. Mehdi, Kon, and Febri were all moving their fingers through the air while they discussed the videos they were sharing through their interfaces.
+
+“Are they ever going to tell us who did it? They’ve had all weekend,” Febri was saying.
+
+“They’ve only had a weekend,” Astrid countered. “I’m surprised I managed to get back to Apex. Everything’s so crazy.”
+
+“It was members of Superhumans at Large,” said Everly. “That’s what everyone seems to think.”
+
+“They were probably trying to make the island uninhabitable so we’d have to be at large, too,” said Jupiter. “I’m mad at them. My uncle’s house is gone. And the Nilama building. Konstantin, I’m so upset about the Nilama building.”
+
+Mehdi frowned at her. “Him, too, since he lived there.”
+
+“It’s not gone. We could still live there,” Kon said. Then he made a face as the word “there” came out sounding wrong. “There. Dere.”
+
+“That’s getting worse every time you try it,” Mehdi told him.
+
+“It’s cute!” Everly said. “He has his first superhero injury.”
+
+Kon grinned to show off the gap in his teeth. “Like I was saying, we could still live there. The building is standing. It just got really wet. Dey don’t need to condemn it. They won’t. They shouldn’t.”
+
+“I can’t believe Paragon is gone,” said Everly. “I saw my old desk from fifth grade on the news. It was upside down in a cafe.”
+
+“How did you recognize your fifth grade desk?” Mehdi asked.
+
+“She and Kon went to rich people school,” said Astrid. “They probably had special desks.”
+
+Everly rolled her eyes. “Yes. I recognized it because it was covered in rubies. Not because I drew a snowflake on the bottom with a paint pen.”
+
+“YOU GUYS!” Rebecca’s voice was exasperated.
+
+“Sorry!” Astrid exclaimed. “Becca saw something. What was it?”
+
+“One of the wizard generals! I was running past Celena Circle, and I saw them landing.”
+
+“Really?! Which one?” Mehdi took an eager step toward her.
+
+“The green flying thing belongs to the male one.” Jupiter tucked a strand of brown hair behind her ear and tried to position the kudzu leaf to go with it. “The real general. Not the bald one. Esh-erdi.”
+
+“Why do you know that off the top of your head?” Febri asked.
+
+“If I see an important Artonan and they’re friendly, I want to ask them what kinds of extraterrestrial plants are good for battling demons,” said Jupiter. “And if I can have some.”
+
+“Just put yourself out there like that then!” Febri replied in a shocked voice.
+
+“You can’t do that, Jupiter,” said Everly. “If they’re generals and they help with Matadero, then they’re the ones who probably summon Avowed for the most dangerous missions. What if they think you’re volunteering or something?”
+
+Jupiter shrugged.
+
+“Rebecca, are you sure?” Astrid asked. “What was one of those people doing on campus? Was he going to cast some spells on the domes?”
+
+“Maybe he’s hunting for the terrorists who did this,” Mehdi suggested. “One of them could be hiding in the dome village!”
+
+“Why do you sound so excited about that?” asked Astrid.
+
+“I’m not.”
+
+“You sound like you are.”
+
+“I’m not.”
+
+“I thought the people responsible were supposed to have died when they tried to attack the cube?” said Rebecca.
+
+“There could be accomplices,” Mehdi said.
+
+Their conversation broke off as a blond speedster in sunglasses shot by them, running for the double doors that led into the building. A fraction of a second later, another figure blazed past the first and stopped with pinpoint precision in front of the doors just in time to open them before the other boy arrived.
+
+Finlay gave Winston a sarcastic bow.
+
+“That seems to have escalated,” Everly muttered.
+
+They all watched Winston bristle then take off, heading around the building for the back entrance instead.
+
+“Now that whatever that was is over…” said Rebecca, once the speedsters were gone. “I don’t think the general would be looking for terrorists. He had a student with him! In our uniform.”
+
+“Maybe they assigned somebody to show him around?” Astrid suggested.
+
+“Maybe he summoned a Celena North student to be his personal Avowed helper,” said Mehdi. “Whoever it is will probably get so much argold. Even more than Jeffy.”
+
+Everly shook her head. “What kind of help do you think a wizard that powerful needs from a student?”
+
+“A translator in case he doesn’t like the ones the System gives? Or maybe it’s someone really gifted and he’s taking an interest and giving them some extra stuff,” Mehdi said, his enthusiasm growing.
+
+“Like special instruction?” asked Febri.
+
+“Or special plants,” said Jupiter.
+
+“Or a spell impression nobody else has access to,” said Mehdi. “Or—”
+
+“Or maybe the student is Alden Thorn.” Kon swiped his System windows away and fixed his eyes over Rebecca’s shoulder. “And we can just ask him.”
+
+Mehdi snorted. “Good one! Even generals probably need Rabbits for…oh…you meant…”
+
+Febri stood on his tiptoes, his eyebrows lifting.
+
+Kon glanced at Mehdi. “I don’t know what you were about to say, but I think it’s lucky you stopped.”
+
+“It wasn’t anything bad,” Mehdi grumbled.
+
+The girls all turned to see where the boys were looking. A green flying platform was heading toward them. Alden Thorn rode on the front of it, one hand extended as if to direct it, the other rummaging through his messenger bag.
+
+“Rebecca, you didn’t recognize Alden?” Everly gasped. “Was he really far away when you saw him?”
+
+“No!” Rebecca face turned embarrassed. “But…that’s…he doesn’t ever wear the school uniform! He looks different!”
+
+Astrid was laughing.
+
+“I associate him with brown hoodies, green plaid, and radishes,” murmured Jupiter. “Keep this safe for me. I’m going to ask him about the general.”
+
+She thrust her leaf in Everly’s face.
+
+******
+
+******
+
+Thanks to this bunch I’m now late, Alden thought, watching his classmates poke, stroke, and take pictures with the nonagon.
+
+Fortunately, a lot of other people seemed to be late, too. Students were still dashing toward the gym, and with everything being so out of the ordinary, he thought there was a good chance the school had planned for a delayed start.
+
+But he would have hurried inside if this group hadn’t surrounded him and lost their minds.
+
+Alden had gotten hit with the obvious question right off the bat, from Jupiter: “Why do you have General Esh-erdi’s flying platform?”
+
+Before the whole sentence had escaped from her mouth, the others had raced over to join them.
+
+“Because I’ve been with a healer friend of his.” Alden had pointed at his boot for proof of injury. “He didn’t want me to miss school. I guess he didn’t want me walking around on the hurt foot, and he was being kind. So…”
+
+He’d braced for follow-up questions that would have dramatic answers: How did you get hurt? Where exactly were you staying all weekend? Why was a general involved at all?
+
+But he should have realized that his broken bones and living arrangements weren’t the most interesting thing he had going on.
+
+“How fast does it go?” Febri asked.
+
+“Is it hard to fly?” asked Everly.
+
+“I want to touch it,” said Astrid. “Can I touch it?”
+
+Mehdi was already tapping on the edge of it with the tip of a single pinkie, jerking his hand back as soon as he made contact as if he was afraid it might burn him.
+
+“That would be fine,” Alden said. “Don’t try to hit it or anything. Maybe after the assembly, you can—”
+
+As soon as he said “fine,” they were all over it, and all the questions turned into: “How fast? How high? How long do we get to keep it?”
+
+“What do you mean we? And I’m probably just going to have it for today,” said Alden.
+
+He was relieved he’d misjudged their priorities. If the flying nonagon itself was going to be more exciting than the details of how he came to be in a situation where he needed and could obtain a magical vehicle, then that would make navigating conversations easier.
+
+“And we’ve got a meeting to go to,” he added.
+
+Kon slid off the platform and stepped over to stand beside Alden while he sent the nonagon toward a place he thought seemed relatively safe—up high and as flat against the wall of the building as he could get it. It’s so much harder to direct from the ground.
+
+“What if it turns off?” Kon asked, gazing up at it. “Will it fall and break?”
+
+His voice sounded different thanks to the missing teeth. He also had a giant gap. It looked so much bigger now, in daylight, when they weren’t all scared of dying.
+
+Sorry, man.
+
+“I think its default state does is floating a few feet in the air.”
+
+“You don’t know?” Mehdi said.
+
+“Do I look like I fly one of these every day? I just used it for the first time half an hour ago.”
+
+“I bet I could fly—” Mehdi started.
+
+“Hn’tyon Esh-erdi doesn’t want me to loan the ring to anyone else,” Alden said quickly.
+
+He didn’t know if that was true or not, but he was going to operate as if it was a hard rule. The last thing he needed was some adrenaline-hungry idiot trying to levitate themselves into the stratosphere on it.
+
+They headed for the doors in a loose pack. Astrid was so busy staring at the nonagon that she almost tripped.
+
+“What happened to your leg?” Kon asked Alden. “Will it be okay?”
+
+“Yeah. It will. Some of the Sinker Sender stuff grabbed onto my shoe and yanked my foot out from under me. Tore up my ankle.”
+
+Plus the broken toes I got from kicking a guy.
+
+“Ow,” said Kon.
+
+“You didn’t look hurt on the bridge.” Mehdi had spun to walk backwards as he talked. “It makes sense you got teleported out earlier than the rest of us if you were.”
+
+Oh…what a great excuse that would have been. Why didn’t I think of that myself?
+
+He was sure that during his texting spree yesterday he’d already given too much information to too many people, implying or saying outright that he’d been injured after evac, to rely on that misconception.
+
+“It was after the bridge,” Alden said as they entered the building. Before any of them could ask anything else, he dug a tiny blue paper envelope out of his bag and handed it to Konstantin.
+
+Kon opened it and laughed as he dumped his two front teeth into his palm. “Aw…you shouldn’t have!”
+
+“I am sorry.”
+
+“It’s fine. Lexi forced you to take my incisors like they ought to be your top priority in a disaster. When we couldn’t find you the next day, I assumed you had your own problems to deal with and they were goners.” He stuck his tongue through the gap. “Even if you’d kept them somehow, healers are so busy they’re not handling minor stuff yet.”
+
+He held up the envelope. “Did you make this yourself?”
+
+“I’m learning origami.”
+
+Kon dropped his teeth back into it. “Maybe the right healer can still do something with them. Thanks for bringing them back.”
+
+“You don’t happen to know what tree was the first to cast its shade over your face when you were a baby, do you?” Alden asked.
+
+Kon blinked several times then tilted his head. “Noooo. But there’s a good chance it got destroyed by the floods…why would you ask that?”
+
+******
+
+The gym was filled with students from all three high school programs, and people were still wandering the bleachers in search of friends. Despite projection screens hovering over the floor with the words, “Please find your seats quickly,” on them, Alden passed by empty spaces and headed up toward the top of the stands.
+
+Haoyu was there, beaming and having an animated video call judging by the gestures he was making. And Lexi was beside him, looking like he hadn’t slept or bathed in three days and punching the air with his fingers in what Alden could only assume was a rage-typing session.
+
+I hope he’s writing an email to his most hated enemy and not a teacher or someone he actually likes, Alden thought as he shuffled by a couple of arts students wearing bracelets that said ANESIDORAN FOREVER on them. What’s that about?
+
+Haoyu slid closer to Lexi to make room for Alden. Haoyu’s hair was damp, and he was wearing a dark blue long-sleeved shirt with the Scorpius constellation on the front. As Alden sat, Haoyu said, <<I have to go, Dad. I have to. They’re about to start speaking. Bye. You’re really coming later, aren’t you? Okay! Bye.>>
+
+He switched to English. “Alden, you’re alive!”
+
+“It’s true. It was not a ghost texting you for the past day.”
+
+“Lexi, look. Alden’s alive.”
+
+Lexi didn’t look. He only grunted a sound that might have been a greeting.
+
+Haoyu shook his head. “He’s trying to force his way down to F so that he can go see his parents and Irina. He can’t find a ride that doesn’t cost a fortune.”
+
+“We should all be together right now,” Lexi said. “Irina is having nightmares. Our apartment is gone. All of our belongings are probably destroyed. If Kon would just help me—!”
+
+“What do you expect him to do, though?” Haoyu asked.
+
+“I expect him to help.” He suddenly turned to Alden. “You’re here! Where were you? Where were both of you? You’ve both been so vague in your messages. Never mind. Where are Kon’s teeth?”
+
+“I gave them back to Kon.”
+
+“Why!?”
+
+“Because…they’re his? It would have been really weird to give them to you.”
+
+Lexi huffed. “Are they all right?”
+
+Alden fired off a mental text to Haoyu. [Is he all right? He seems stressed.]
+
+Haoyu’s smile was placid. [Big protective for family. Crazy now. He is danger badger.]
+
+“I put them in an envelope for Kon,” Alden said slowly. “So that he wouldn’t lose them. I’m also sure that if they aren’t all right—”
+
+Which they totally aren’t.
+
+“—they can grow him some new ones. He will still be handsome and able to eat corn on the cob and pronounce fricatives when it’s all over.”
+
+Lexi looked so disappointed in him.
+
+“Don’t glare at people in casts,” Haoyu said. “How did you get hurt, Alden? I thought you were…somewhere very safe. And then you didn’t send messages for an entire day. And now—”
+
+He bent over to get a better view of the squishboot.
+
+Haoyu already knew Alden had been with the ambassador’s assistant during the disaster, thanks to Alden texting him with the info Zeridee had shared about the situation on Matadero. Of course he would wonder how that had ended up like this.
+
+I think this might be as good a time as any to tell them the basics. I’d rather let them know the important stuff before anyone else in the class starts putting things together.
+
+They weren’t sitting near any of their classmates, maybe because Lexi was a danger badger. The students around them were from the other programs, and they were all involved in their own conversations.
+
+Alden didn’t need real privacy to tell a secret that wasn’t a real secret. But it was nice that they had the illusion of it that came with being in a large, loud crowd of people who weren’t paying you any attention.
+
+“I got teleported to Punta de la Luna,” said Alden. “A flyer was there waiting for me, but there was some trouble when I tried to board it.”
+
+Possibly that made it sound like a mechanical problem, but it was the best he could do.
+
+“I had to evacuate on foot with an Artonan. She got hurt, and I was carrying her. So I was slow. And the ocean caught up to us.”
+
+Haoyu’s eyes widened. Lexi’s narrowed.
+
+“Punta de la Luna is gone,” said Haoyu.
+
+“Yep.”
+
+“It’s very gone. There’s basically nothing left.”
+
+“I made it out of there before it was wiped. We were almost to safety when this enormous water mountain stopped us. Hn’tyon Esh-erdi and Hn’tyon Lind-otta arrived to deal with it. He pulled me out of the water.”
+
+“You were in the water?” said Haoyu.
+
+Alden rubbed his cheek. The freshly healed skin was a little sensitive. “I was about to drown.”
+
+Lexi’s eyes were slits now.
+
+“So Esh-erdi’s timing was great.” Alden gave them both a thumbs up. “And he sent us to a healer. I slept for all of Saturday. And now I am so ready for school to start back.”
+
+“That’s good…” Haoyu gave him a hesitant thumbs up in return. “I think most people are hoping we get the week off, though.”
+
+“Why did you get teleported before everyone else?” asked Lexi. “To a plane.”
+
+“I’m sure that’s none of our business,” said Haoyu.
+
+“It’s fine if it is none of my business,” said Lexi. “I’m not going to whine about someone else’s teleport priority being different than mine. Plenty of people are being so obnoxious about that, even though almost nobody died from being left until last.”
+
+“Don’t let Lute hear you say that,” Haoyu warned. “His parents are fine, but it sounds like Cyril belted himself to the railing of a pedestrian bridge so that he didn’t get swept away. Lute’s like, ‘He’s a drunken moron. It’s okay. I just went and got him.’ But I’m sure he’s got feelings about it.”
+
+“I won’t say anything about it to Lute. But to Alden, I’m just saying that telling people you got teleported directly to some kind of Artonan salvation plane before everyone else, including Haoyu—”
+
+Haoyu’s face transformed into the picture of innocence.
+
+“Don’t think none of us noticed how fast you disappeared,” Lexi said to him. “But at least it makes sense in your case. For Alden, I’m telling him that this sounds noteworthy and confusing. He says he wants to know when things he does are noteworthy and confusing. Now he knows, so he won’t call more attention to this one. I’m helping him.”
+
+“Thank you, Lexi,” said Alden. “But I already rode to school on Esh-erdi’s magic flying platform.”
+
+“I think I saw that thing on the news!” Haoyu exclaimed. “Is it the green one?”
+
+“It’s called Nine-edged Son Whose Own Mother Forsakes Him,” said Alden.
+
+“No,” said Lexi.
+
+They both looked at him.
+
+“Why would you ride to school on an Artonan General’s flying thing?” Lexi whispered.
+
+“There’s no point in whispering,” said Alden. “People all over Apex saw us on the way here. We slowed down to look at some of their dogs.”
+
+“Are you serious right now?”
+
+“He let me keep it for the day. It’s parked outside.” Alden held up his hand. “I drive it with this cool ring.”
+
+Haoyu leaned closer to see the green band.
+
+Lexi’s face was doing things so expressive they almost had sound effects: Ugh. No. Stupid globie. What is he? Why is he? Why did I let him be my roommate? He told me he had a cat like that might be a dealbreaker, but he never mentioned all the wizards.
+
+“I really like being roommates with you, Lexi.”
+
+Lexi drew back from him. “Why are you randomly saying that? Do you think it’s going to distract me from everything else you said?”
+
+“It just felt necessary.” Alden cleared his throat. He lowered his own voice. “Um…to answer your question, the Artonans gave me a higher teleportation priority because I have a commendation.”
+
+Lexi froze.
+
+Haoyu had been trying to study the logograms on the ring. He went still, too, but his brown eyes flicked up. They met Alden’s through the gap in his splayed fingers.
+
+“Do you really?” he said quietly.
+
+Alden nodded.
+
+“Oh. I thought whatever you went through was probably worse than you said.” He glanced down again. “It must have been.”
+
+Lexi slowly thawed and started shifting in his seat. “What was it for? If you don’t mind me—”
+
+He was interrupted by a sizzling sound. They all looked just in time to see a firework exploding over the floor, orange and blue sparks flying outward toward them. A huge BOOM rocked the gym.
+
+A few people shouted. Everyone else went instantly silent.
+
+Instructor Foxbolt was sitting on the bottom bleachers across the gym from Alden, Haoyu, and Lexi. She crossed her legs and leaned back, blowing dramatically on her finger as if she’d shot the firework out of it instead of casting a spell.
+
+“Thank you, Foxbolt.” Principal Saleh stood in the middle of the floor, her face displayed on the projections for all to see.
+
+“Good morning, everyone,” she said. “I’m so glad to see you all safe and, mostly, unharmed. It’s been a long, hard weekend for all of us. And many of us have more long, hard days ahead. Let’s talk about what’s happened, and what happens next, and what we expect from you all as students here at Celena North High.”
+
+******

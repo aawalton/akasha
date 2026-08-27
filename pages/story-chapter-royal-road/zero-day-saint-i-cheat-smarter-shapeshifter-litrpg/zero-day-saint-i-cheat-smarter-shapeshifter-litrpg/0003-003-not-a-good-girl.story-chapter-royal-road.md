@@ -1,0 +1,118 @@
+---
+id: 4ba53b16-04c9-507b-8591-cad3f6f4efb3
+page-type-slug: story-chapter-royal-road
+title: "003 - Not a Good Girl"
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 3
+ownLength: 1960
+unit: words
+publishedAt: 2026-05-01
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3339888/003-not-a-good-girl"
+royalRoadId: "3339888"
+---
+
+There were very few sirens among the background noise. How many calls to 911 were being answered by that Wyrm entity right now, telling people to wait for fiery doom on a rooftop?
+
+While sprinting for my life I checked the 'Shapeshifting' menu. Besides 'House cat', which had the (daily) marker behind it, it listed three other options.
+
+['Crow' (inherent)
+
+'Golden retriever' (daily)
+
+'Galápagos tortoise' (daily)]
+
+One of those was not like the other, but none of them would help me survive those demon hounds right now.
+
+["Why did I not just fly away as a crow just now?"] I asked.
+
+"You wouldn't know how to fly. It takes practice and what you don't have right now is time."
+
+Despite my initial impression, they were not constantly beelining for me. Sometimes the dots paused, only to coalesce onto a single nearby point. A sickness spread through my core, one that had nothing to do with the ongoing adrenaline rush.
+
+There had been a commercial district somewhere to the east. Maybe if I could find a department store I could whip something up. Could I improvise chlorine gas? Would it kill them? Weaken them so I could? No, too many moving pieces and I wasn't certain about the chemistry.
+
+Then I saw the sign, like a beacon of destructive hope against the gloom of the end.
+
+Joe's Car Repair. Flexible Rates. International Models.
+
+An EV had crashed into the building's side and had dislodged a small part of the garage door from its rails. Just a small gap, barely large enough for a cat to fit through. The wreck was already burning, which should mean it didn't risk exploding on me any second. But we could help that process along. At least if that shop was anything like Aunt Olivia's.
+
+I picked up a garbage can and emptied it onto the flames. There had to be something in there I would be able to use as my lighter. Should've kept that zippo when I quit smoking. There was a piece of fabric, which I kicked closer to the flames before I entered Joe's Car Repair through the now-empty frame of the front door, its glass shattered.
+
+["Gabriel, you still with me?"] I asked, while I made my way to the shop.
+
+"Yes, I'm sorry, I didn't wish to distract you. You look like you have a plan and I won't argue it unless absolutely necessary. Decisive action is mandatory; inaction and debate will get you killed."
+
+"I'd take some reassurance, though," I said out loud.
+
+"You can do it, Eve. I am fascinated and intrigued by your plan."
+
+The shop was exactly as cluttered and messy as I had hoped for. Sorry, Joe, I had low expectations and you fulfilled them with perfect grades. The room smelled of oil, solvent, and just a touch of the chemical sweetness of glycol. Memories of teenage summers, earning cash to afford that new computer, flooded back to me.
+
+The red dots were just over one block away. No time to rig anything fancy, but I wouldn't need to. I dragged the parts washer out of its spot against the wall, its metal legs screeching over the coarse floor, braced myself against a workbench and kicked the thing over. Solvent spilled over the floor, near the entrance, the smell instantly overwhelming anything else in the room.
+
+I eyed the acetylene tank at the welding station, then the approaching red dots, and thought of the raging fire outside. That one would go last. Next was a jerry can, unlabeled, not placed in the strangely dusty safety cabinet. It was half full and I just hoped it was gasoline. I poured a line from the solvent, all the way to the tiny gap in the garage door.
+
+Barks and growls approached. They scratched at the door. If they broke through the garage door here my plan would be fucked. I saw two dots circling away from the others, around the building.
+
+With seconds left I grabbed a wrench off the wall, ignored the ghostly memory of Aunt Olivia, giving me countless lectures on safety procedures, and opened the valve on the acetylene tank—its hiss an ominous promise of imminent doom. There were no more hounds on this side, they were all prowling through the lobby now. I pressed myself against the wall by the gap and tossed the wrench through the gap. Could never know if I wouldn't need that.
+
+The first hound entered, its head low to the ground, growling. I had expected fur. Something like a wolf or a doberman. But they were entirely naked, black skin taut over obscenely powerful muscle. Its head looked a lot like a wolf, besides the three pairs of red eyes, all fixating on me across the room. Blood covered its jaw.
+
+"What a good boy. You surely don't want to do this."
+
+It ignored my pleading and prowled closer. I got the feeling that the mark meant a slower death than what they brought others. The others piled in behind the leader, fanning out.
+
+That was my cue and I mentally clicked the 'House cat' option again. This time the transformation was only slightly less confusing. The chemical smell was overwhelming but the angry bark of the rushing demon hound urged me into motion. I dashed through the gap, just as the maw snapped shut behind me. Except I was, again, too slow. It chomped down on my tail and pain ripped through my spine as momentum drove me forward. This shape had a very fluffy tail and that might have saved my life. I slipped free, leaving the hound with a mouth full of fur and my health bar slightly dented.
+
+The piece of fabric, a children's t-shirt I could see now, was fully on fire. Next to me the hounds slammed against the thin metal of the garage door, one's snout was snapping through the gap. I hooked my claws into the burning fabric, gritted myself against the pain of the flames, and dragged it toward the gasoline trail. The trail caught instantly, with a satisfying 'Whomp', blue flame racing into the building.
+
+I made the mistake of trying to extinguish my burning paw, instead of immediately running. My preparations were more volatile than I had anticipated, and for the second time within an hour, I found myself caught by a shockwave and flung away.
+
+When I came to a stop in the middle of the road, my health bar was blinking red again. Experience notifications flowed by. The garage doors had bulged out but not broken; they'd contained the blast with the creatures inside. Still two dots remained, and I was locked into this shape for another 42 seconds.
+
+While I watched, another dot vanished. Another experience notification. My level was now at 3, but I had no idea what that meant.
+
+The last dot slowly moved through the lobby, toward the street. I wanted to slink off into cover, but one of my legs wasn't cooperating. Still, I limped on. I needed seconds. Just a couple of seconds.
+
+"Listen, Eve," Gabriel said. "Go for the Golden retriever to finish it off."
+
+The hound was seriously fucked. It also couldn't move faster than a limp. One side of its head was severely burned, revealing bone and teeth. It had a visible health bar floating out in the open, with about 20% remaining.
+
+["That's my last ATP and I would need to get really up close and personal."]
+
+"It outclasses your human self in all three physical stats. It has natural weapons. And most importantly, you'll likely get a reward for the fifth kill. We haven't talked about tasks yet, but I'm fairly certain it's the right call. You want to get that kill in that shape before midnight."
+
+["Yes, ma'am."]
+
+Even with me moving barely faster than a crawl, there was no risk of that creature outpacing me in time. I kept my distance as my cooldown slowly ticked down to zero.
+
+"Don't immediately go for the throat. Only its fangs pose a danger to you. One leg is already wrecked. Circle it and go for the other leg on that side. Then tire it out before you go for the kill."
+
+Dictated like a baking recipe, the angel in my head explained to me how I should kill a living being, by crippling it further, before ripping its throat out. Pretty fucking Old Testament that one.
+
+The second the timer hit zero, I mentally clicked the 'Golden retriever' option. I had wrongly assumed the senses would be similar. The scents slammed into me like an olfactory flashbang. Fire, chemicals, burnt plastic, blood, human, cat, monster, road. Everything stood out so distinctly, but I was utterly unable to make out any direction to any of it. For a moment I forgot I even could see, could use any sense but that overwhelming one.
+
+My mind went back to those summer days. Angel had never liked joining me in Aunt Olivia's shop, even though he usually never left my side. While I was in the workshop he'd mope and stay in the foyer, enthusiastically greeting each and every customer. I now understood why. The scents must have been overwhelming. When we buried him a year later, we buried part of me, too.
+
+And no one could tell me it was a fucking coincidence that this was on my list. Three species and one goddamned breed. That so-called Blessing was fucking with me—turning the best thing in my life into a weapon.
+
+I could feel the breed's desire to please bleed into my thoughts. And I resisted. I wouldn't be a good girl and I wouldn't torture that creature further.
+
+It had lowered its head and was growling at my new shape, less than a dozen feet away. I prowled left and right, getting a sense for how this body moved. No matter how injured, that creature's jaws would kill me if I made a wrong move.
+
+A smaller explosion shook the garage. The hound's head snapped to the side, to the sound of the explosion, and I dashed in. Before I could snap down, its head turned back, denying me a clean grip on its throat, but its body went down as I slammed into it. There was a short whimper of pain, as I came to a halt on top of it. Now I had a clean shot. My teeth found purchase on the muscular throat and my jaw clamped shut. I tore with all my strength, turning the whimper into a gurgling sound, as the fifth experience notification crossed my vision. The debuff vanished from my UI.
+
+["Why the fuck did it pick my childhood pet?"]
+
+The acidic smell of the demons mixed with the metallic taste of the black ichor that ran through their veins. I desperately longed for something to wash away that taste.
+
+"I can't fully explain it to you. You need to find a sanctified space and then we need to go over your perks. What I can tell you right now is that just because it says 'random', that doesn't mean there isn't more to it."
+
+["Is that shape in my list because of my childhood pet?"]
+
+"I can't tell for certain but it is a possibility."
+
+That Blessing felt more and more like a big pile of bullshit to me. Far too much this supposed angel couldn't tell me.
+
+"Besides finding a sanctified space you need to prepare for cold. It will be a couple of hours, but once people have been driven out of their homes, one of Hell's attacks will be an ice storm. A bad one. Bad enough to kill anyone who is caught unprepared."

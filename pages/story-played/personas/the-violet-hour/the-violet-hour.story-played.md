@@ -1,0 +1,10 @@
+---
+id: 3ccbb9ca-aa93-5f17-8537-359e03b54acf
+page-type-slug: story-played
+title: "The Violet Hour"
+slug: the-violet-hour
+world: personas
+unit: words
+---
+
+Ione's sleep-audio experiment collection (#15572). One Story Chapter per experiment: audio built to carry Alan over the threshold — at lights-down and at the 3 a.m. return. Each chapter is rendered in Ione's voice via `ops story prerender-audio` and played from the app in bed. The tuning dial from Alan's intake: SAFE floor (no threat, no suspense), a little warmth/attraction in the current, and a gentle sense of progress as the pull (the LitRPG read). Trial design + morning-after results live on project #15572 and in Ione's memory.

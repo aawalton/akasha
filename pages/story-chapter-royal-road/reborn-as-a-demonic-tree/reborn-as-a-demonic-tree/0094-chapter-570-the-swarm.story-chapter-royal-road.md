@@ -1,0 +1,207 @@
+---
+id: a1b2c0ac-73ad-5d4e-81e2-92960e612a14
+page-type-slug: story-chapter-royal-road
+title: "Chapter 570: The Swarm"
+slug: 0094-chapter-570-the-swarm
+partOf: reborn-as-a-demonic-tree
+position: 94
+ownLength: 2961
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3424044/chapter-570-the-swarm"
+royalRoadId: "3424044"
+---
+
+"Oh, this is bad," Cyphion informed them upon recognizing the two Monarchs floating overhead and drowning out the surroundings in their unrestrained soul pressure. Neither was a first-stage Monarch like Magnus. "The one on the left is Thal'korr, the Immortal Swarm."
+
+Thal'korr was one of the first full-armored cultivators Ashlock had seen in this world. From head to toe, he was decked out in dark green chitin-like armor, with a golden helmet that resembled a curved beetle head hiding his face. In his right hand was a golden scepter, cradling an insect encased in amber.
+
+His appearance certainly gave hints as to why he was called the Immortal Swarm, but there was also something terribly wrong about him, no matter how hard the armor tried to hide it.
+
+Deeply curious, Ashlock felt compelled to thoroughly inspect Thal'korr with his Gaze of the Tree God skill, peering past any physical or spiritual obstructions or illusions. What he found lurking below that armor made his mind squirm in discomfort, which was shocking for him, considering he munched on corpses in various states of decay without issue.
+
+Thal'korr was not human.
+
+While evidence that he had once been human remained, such as his skeletal structure, the rest of his body, such as organs and flesh, had been replaced with a hive of insects tightly packed together to almost appear like the body it was trying to mimic.
+
+But look closely enough, and the horrifying truth was revealed. A title like The Living Swarm seemed more accurate than The Immortal Swarm.
+
+"He's a Monarch from the Mycothane Hive," Cyphion continued to explain, unaware of Ashlock's uncomfortable discovery. "They are a secretive Canopy faction that has specialized in the control of insects."
+
+"I can see that," Ashlock said.
+
+"It's said that all the insects under the World Tree canopy are under their control, though many believe that it is just a myth."
+
+That was terrifying to think about, not that he would admit that to Cyphion. He had to maintain his dark god persona and hide his dislike of insects, which had remained from when he had once been human.
+
+"Anything else I should know about him? Perhaps why he is called the Immortal Swarm?"
+
+"Unfortunately, I've never seen him fight and know little about him besides his name and title. Though I have heard he is one of the most deadly Monarchs from the Mycothane Hive. What really concerns me is the one beside him." Cyphion's expression darkened. "Droskan Virelios, the Patriarch of House Virelios."
+
+A silence stretched between them, with Cyphion frowning deeply.
+
+"I'm unfamiliar with House Virelios," Ashlock admitted after Cyphion failed to follow up that statement, as if mentioning his name was enough to strike fear in him.
+
+"If not yet, you will soon enough. Virelios are the most powerful noble house in Empyrea and have been loyal dogs to the Chairman for centuries. What concerns me the most is why an Empyrea Monarch and a Canopy Monarch are here, together."
+
+"Is it rare for Empyrea and the Canopy to work together?" Ashlock asked. He knew there would be tensions between the ruling parties, as there were in any civilization of this size, but it would be good to learn about the more well-defined feuds.
+
+"Rare?" Cyphion scoffed. "It's never been done before. The Canopy factions and Empyrea's nobles hate one another to an irredeemable degree. To see them stand beside one another is like seeing the sun rise during the night."
+
+That was interesting.
+
+"Perhaps my invasion has forced an alliance between them," Ashlock suggested. War was always a great way to set old quarrels aside and rise up against the greater evil... which was him in this case, from their perspective.
+
+Cyphion crossed his arms and pondered. "I've never concerned myself with politics and the silent agreements between factions, and now I regret it. Those two working together should spell out a grander plot likely being orchestrated by the Chairman, but I'm blind to it. Someone like Mistress Veilshade would likely know more, considering her many Shadows infesting the Empire and whispering secrets into her ear."
+
+"That shadow woman?" Elysia asked with a hint of annoyance. "I've sensed her snooping around regularly; in fact, she's here right now."
+
+"She is?" Ashlock said in surprise. How could Elysia detect her, and he couldn't?
+
+Elysia scowled. "I can sense anyone tainting your sacred land, and her foul darkness is the worst. She comes and goes as she pleases without ever paying respect, and I can tell that she is remaining skeptical of your greatness."
+
+"Do you think she will join these two in whatever their plan is?" Ashlock asked. If so, he would need to call in more firepower to fend off three Monarchs. He had already torn open a portal in the depths of the Hellroot Abyss for Larry to come through just to ensure nobody died. He could also offer his own strength by using the Hellroot Abyss as an extension of himself, like when he used Progeny Dominion on his offspring.
+
+Elysia laughed. "That coward? She will only watch, as always."
+
+"Then it will be three Monarchs against two now that Larry is here," Ashlock mused. "Cyphion, what do you think our chances of winning are?"
+
+"Define winning... no, even then, there's really no way to tell," he scratched his head. "Your glorious desolation is most destructive, and you have already brutally killed Faelorian. I also have no doubts about Elysia's strength. But these two are most troublesome and are more cautious and knowledgeable about you than Faelorian had been."
+
+"That's true," Ashlock said. "I wonder what their plan is."
+
+They were just floating there, not making a move. "No, perhaps I have just missed it, like the presence of the Shadow Monarch." Making use of the Gaze of the Tree God's omnidirectional aerial view, he inspected the area around them and found nothing amiss. It was unsettling having the humanoid equivalent of nuclear missiles suspended over your head with no clear intentions. Had they perhaps come to talk? To bargain? Or were they really foolish enough to think they could destroy his Hellroot Abyss and defeat Elysia and Cyphion with just the two of them?
+
+"No, that can't be it," Ashlock mused. "They seem far too calm to be raging warlords charging to their deaths like so many before them."
+
+It was a tense situation. Ashlock didn't want to poke the hornet's nest if there wasn't a need for it, as he didn't know their intentions, but at the same time, two Monarchs had basically offered themselves on a silver platter, and he still needed to feast on many Monarch souls to complete his quest.
+
+"The preparations are complete," Thal'korr suddenly said, his voice sounding entirely alien and distorted through the helmet. Though Ashlock was unsure whether the helmet was the reason or because his vocal cords were hundreds of insects beating their wings to make sound.
+
+"Then we proceed as planned," Droskan Virelios replied cryptically.
+
+"What is their plan..." Ashlock muttered, but he didn't need to wait long to find out.
+
+Thal'korr simply waved his hand, and the quiet night beside Veylorak, wreaking havoc in the distance, became filled with the low hum of insect wings. Not originating from Thal'korr, nor from the skies. Rather, the noise came from around the Hellroot Abyss.
+
+"It begins," Cyphion said, paling in horror.
+
+A million-strong chorus of terrified screams followed.
+
+"What is happening?" Ashlock asked his Monarchs as he followed the screams and soon found the answer.
+
+That's when he realized the truth of the Empire Monarchs' plan. He'd assumed their target would be the Hellroot Abyss, as it was the foothold of his strength in Floridawn. His next guess would be Cyphion, because he was a traitor to the Empire, then Elysia as his emissary and the central figure of his cult.
+
+Yet, the target hadn't been any of those. It was the citizens of the flourishing city he had reclaimed days ago.
+
+Insects that had quietly coexisted with the populace until now had suddenly taken flight into organized swarms, or for those that couldn't fly, they had leapt off walls onto the faces of humans and begun ferociously trying to burrow their way into their eyes, noses, mouths, and ears. Even without any empowerment from Thal'korr, these were insects of a cultivation world, and they had been turned from a passive pest to a feral predator in an instant.
+
+Ashlock quickly realized why he hadn't felt any action from the Monarch pair—the Mycothane Hive supposedly specialized in the control of insects and already had all the insects under the World Tree's canopy under their control. Thal'korr hadn't needed to use a technique to convert the insects to his control; they had been under it from the start.
+
+All he had to do... was activate them.
+
+But where had these controlled insects come from? He had bathed this land in desolation and then rebirthed it with Harmony Dao. Any past marks on the land left by the Empire should have been erased. Had the Mycothane Hive reestablished its control in Floridawn without anyone noticing?
+
+Whatever the case, that wasn't the focus right now. The insect apocalypse was.
+
+"The believers!" Elysia shrieked like a mother witnessing the death of her children. "We have to save them!"
+
+Ashlock agreed. Not only from a moral standpoint, but if millions of worshipers were wiped out, it would destroy his reputation moving forward. Who would side with a dark god trying to best the Chairman if two Monarchs from the Empire could show up and kill them at any time?
+
+He was supposed to have the power to eliminate a Monarch like Faelorian with ease, so how hard could fighting back against some insects be?
+
+The answer turned out to be quite hard.
+
+While not strong, the insects were ferocious enough to butcher the defenseless mortals who hadn't had enough time with the Ashfallen Trading Company's miraculous pills to become worthy cultivators.
+
+Dimensional Overlap, Voidstorm Aegis, Abyssal Maw, Larry's army of spiders... all of these would be options for combating the swarm if the insects were descending upon the city and he had time to preemptively strike.
+
+Unfortunately, that wasn't the case. The insects were already here, burrowing into the citizens of his claimed land like cancerous tumors that were too delicate to remove without killing the host in turn. He had solutions for powerful enemies and even hordes of monsters like the beast tide. But delicately targeting millions of insects inside the bodies of weak mortals?
+
+That wasn't something he had a tool to fix.
+
+"There has to be a solution," Ashlock said adamantly as his mind raced while screams continued to howl all around his Hellroot Abyss.
+
+Elysia didn't wait for him to come up with one. She soared into the sky in a rage toward the two Monarchs. Her three eyes were glowing violet with unrestrained power and rage. Mystic Qi viciously billowed around her as she ascended.
+
+"The cultist is incoming," Thal'korr reported.
+
+"As predicted," Droskan said dryly. "She is all yours."
+
+A dark chuckle echoed out of the helmet as Thal'korr moved to intercept. Ashlock expected him to whack Elysia with his sceptre, or perhaps draw a sword from somewhere. Instead, there was a disgusting squelch as the plates of his armor split along hidden seams, peeling back like the petals of some carnivorous plant. Beneath the dark shell wasn't human skin or flesh, as expected—only festering movement. A living mass seethed within the armor's confines, compressed and waiting. Countless wings trembled in suffocating unison. Mandibles clicked, and countless legs twitched like living skin. The longer one looked, the more grotesque it became.
+
+"Disgusting," Droskan muttered under his breath, mirroring Ashlock's own thoughts, as liquid blue soul flames materialized along Droskan's arms. He was a water cultivator, a fact that Ashlock hadn't known until now.
+
+Thal'korr paid no heed to his fellow Monarch's comment. Instead, he pointed his sceptre at Elysia. The amber gem crowning his sceptre pulsed, sending a ripple through the swarm. The insects answered the signal instantly. From within his hollow body, they surged, a black-gold torrent erupting from the opened cavity of his chest, followed by a rising crescendo of vibrating wings, a storm building from a whisper into a shrieking hum that clawed at the air.
+
+They formed ranks mid-flight and split off, with the largest group condensing into a living spear of hungering chitin, driving straight toward Elysia.
+
+Behind them, Thal'korr's armor slowly began to close—as though he had merely exhaled. A hollow laugh echoed from his helmet, which only made Droskan float away from him.
+
+Ashlock tried to reach out with telekinesis to halt the swarm, to no avail. Unlike the ordinary insects that sent the populace into a frenzy, these were oddly resistant to spatial disruption.
+
+"Strange, but I have other options up my sleeve." Ashlock's immense soul pulsed with power far to the north, sending desolation Qi surging through his ethereal root network and arriving at the Hellroot Abyss. Using it as a funnel, it practically erupted like a miasma volcano, sending a plume of black, desolate fog at the splitting swarms, aiming to cause chaos and split focus.
+
+This time, his Qi had an overwhelming effect. The insects hissed and popped like tiny balloons on impact with his desolation as their bodies deteriorated within seconds.
+
+"Cyphion, go assist Elysia and target Droskan, I think he's up to something," Ashlock said. The spatial Monarch bowed and vanished—only to reappear behind Droskan before Elysia had reached them.
+
+"Long time no see, Droskan," Cyphion said with amusement.
+
+"Cyphion," Droskan replied with a venomous tone. "What right does a traitor have to speak with me so casually?"
+
+"You will be a traitor soon, too," Cyphion said, his smile widening, "or dead."
+
+Droskan chuckled. "We will see about that. Perhaps time on the other side has twisted your memory regarding House Virelios's might?"
+
+"It has not; it's just that if I have to choose between facing your wrath or the dark god's disappointment," Cyphion drew his sword, "you are nothing in comparison."
+
+Droskan's expression turned ugly. "Thal'korr, handle the cult girl yourself. I need to show this insect the truth of this world."
+
+"I can handle anyone by myself," Thal'korr said, despite the current fate of his dying insect swarm. "Do as you please."
+
+That dismissive answer only seemed to annoy Droskan even more.
+
+"Good," he said darkly as he snapped his fingers.
+
+Cyphion had just raised his sword, spatial Qi threading along its edge in thin, purple fractures, when the air around him detonated.
+
+It was not an explosion of flame, but of pressure, and Ashlock saw it all happen through his Gaze of the Tree God. The buildup had been so subtle while the two were talking that he hadn't noticed until now.
+
+Every trace of vapor in a two-meter radius around Cyphion had been seized by Droskan's control and flash-boiled at once. Including the moisture clinging to Cyphion's skin, the humidity in his robes, and even the breath he had just drawn—everything turned to scalding steam in a violent micro-burst.
+
+Cyphion yelped, more from shock than pain despite how brutal the attack was, as blistering pressure slammed against his body and disrupted his posture.
+
+That half-second was enough for Droskan to strike. He surged forward with the strength of a crashing tide, his fist sheathed in compressed water Qi so dense it distorted the light around it.
+
+There was no elegant technique behind the attack, just overwhelming force.
+
+His punch landed cleanly just as Cyphion got to see it coming.
+
+The impact sounded like a boulder shattering.
+
+Cyphion's jaw broke under the blow with a sickening crack, teeth splintering as the force snapped his head sideways. The spatial threads coiled around him snapped in disarray, and his body was pulverized to the ground below in a plume of stone and dust.
+
+Steam hissed in the air where he had stood a moment earlier.
+
+Droskan grunted as he rolled his shoulder. "That should have knocked some sense into him."
+
+No domain had been unleashed, as far as Ashlock knew, yet Droskan had sent another Monarch flying with nothing but a clever use of his water affinity and raw power.
+
+Ashlock looked down. Cyphion was alive and already crawling out of the crater, but there was no doubt about it. These two, and especially Droskan, were the real deal.
+
+"Thal'korr, I think that cult girl will surprise you, but let's divert from the original plan and take them out separately," Droskan smirked. "Cyphion has earned my personal attention."
+
+Thal'korr didn't offer a reply, leaving Droskan to crash down toward Cyphion. He passed Elysia on the way down, but she didn't stop. Her sights were set on murdering the Monarch who would dare inflict suffering upon his believers.
+
+"It looks like I should get serious, too," Thal'korr mused. He waved his scepter and said, "Rebirth of a Thousand Adaptations."
+
+A spiritual light bathed the dying swarm, and something unbelievable happened. The insects' chitin began to absorb his desolation Qi, and instead of dying, they thrived in it.
+
+"Now that my swarm carries the affinity of a dark god," Thal'korr laughed, his helmet making it sound alien. "I can devour you!" He pointed his scepter at Elysia, making it glow with orange light, and the swarm swiftly changed directions and rushed up behind her.
+
+That's when Ashlock realized a possible way to win.
+
+"Elysia, Larry," he said, "the scepter is the source of his control. Seize that, and perhaps the citizens and my reputation can be saved."
+
+Ashlock had never seen such murderous looks on either of his followers before as they rushed toward Thal'korr.

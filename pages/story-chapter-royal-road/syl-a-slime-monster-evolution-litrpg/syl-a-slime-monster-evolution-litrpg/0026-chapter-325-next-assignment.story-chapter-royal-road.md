@@ -1,0 +1,153 @@
+---
+id: 1d8f84ee-d3ff-55b6-827f-c63e005a32d0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 325 : Next Assignment"
+slug: 0026-chapter-325-next-assignment
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 26
+ownLength: 2030
+unit: words
+ownProgress: 2030
+publishedAt: 2025-12-15
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2848933/chapter-325-next-assignment"
+royalRoadId: "2848933"
+markedReadAt: "2026-06-29T19:42:40.280Z"
+---
+
+Vee and I played around with the extraordinary new metal for a while. I was curious if this would have any combat applications, but the best I could come up with was making floating bombs to shove at my enemies.
+
+Admittedly, it wasn't one of my most brilliant ideas, and I definitely still had [Nitro Slime] on the brain, but I still thought it was a decent idea. As uniquely special as my various slimes were, they still had weight to them. They thus were eventual victims of gravity, so there was an upper limit to my bombs if I wanted them to travel a distance—ignoring teleportation, of course.
+
+But the deep-float alloy would keep its set elevation until it ran out of Mana, which, if I threw some [Mana Slime] into the mix, meant that my only limit was the prime timer on [Nitro Slime]. Of course, there was still the issue of actually moving it there, and I had no plans on laying siege to something, but it was something I could explore.
+
+Vee, on the other hand, thought of a few fun ideas, one of which involved me quickly crafting a long, thin rectangle of the deep-float alloy for her. Then she jumped aboard it and began to "surf the skies", her words, not mine.
+
+I let her have her fun before eventually pointing out that it was kind of terrible compared to flight, or any of our other methods of travel. Vee countered that this was pretty effortless on her part, which did have some merit.
+
+Teleporting or flying up into the sky and then anchoring oneself in place was another application we came up with, assuming you didn't need to dodge anything. This actually became my favorite idea because it meant I could take any size or shape and still remain floating!
+
+I remember needing to add countless wings to try to stop myself from crashing on the floating island. Now, if I infused some deep-float into my form, I could even be a giant floating worm! No, wait, the worm is old news, I could be a giant floating squid!
+
+After fooling around, we chatted for a bit. I checked if Vee didn't want to regroup, but she was still determined to find a suitable island for our base, no matter what.
+
+She had found a few landmasses, but they were too small for what she had in mind. On the flipside, she was doing the world a service by culling the brineling population, as some of the locations were infested with them. She even gained a level, although she lamented how slow it was.
+
+Of course, that brought up the topic I'd utterly forgotten in our excitement, and I proudly announced that I'd qualified for the Riftmancer class!
+
+"Come on, Syl, just swap to it quickly!" Vee cried out.
+
+"No, what if it ruins my disguise?" I rejected the idea.
+
+"If you quickly swap to and back, I'm sure nobody will notice," she countered.
+
+I shook my head. Her idea was reasonable, if you assumed it wasn't me. "I don't trust myself."
+
+"You… what?"
+
+"I don't trust myself. I'll swap, and then I won't want to swap back. I'm so close to getting the big surprise at level thirty for Elementalist. But if Riftmancer is too good, I might never return to pick it up."
+
+"That… actually, you know what, knowing you that makes perfect sense," Vee admitted.
+
+"Exactly! So rather than fight my own inner demons, I'm avoiding the potential problem by not even letting it be a factor."
+
+Vee eventually gave up and agreed. Yes, I was admittedly being dumb about it, but I really didn't trust myself. It was extreme, but so was my ability to flip-flop between the following shiny toy I'd acquired. Instead, I hoped my desire to get the new class would somehow get me to the Elementalist milestone sooner.
+
+After much chatting, we finally called it a night. I was curious about what my next job would be after Sylvain's stellar performance, and Vee was eager to continue her exploration after finally finding some land after days of nothing.
+
+***
+
+"Sylvain reporting for duty," I said with a playful salute to the Admiral.
+
+The admiral gave a toothy grin in response. "After hearing the official report myself, I can understand where that cocky attitude comes from. Not that I blame you after seeing the giant squid you effortlessly took out."
+
+"All I can say is never fight a hydromancer underwater."
+
+"Agreed," Nathaniel replied. "So, are you ready for your next job?"
+
+"Yes, and I hope it's more exciting."
+
+"Well, it has the potential to be," Nathaniel answered. "We need you to guard a supply boat to one of our islands."
+
+"Oh, which one? Grafgeo?" I asked.
+
+"No, although I'm surprised you know of that one," the admiral replied curiously.
+
+"I heard someone mentioning a shipment of fruits," I deflected.
+
+"Ah, that makes sense," Nathaniel said, nodding as if he understood everything. "That's one of our best producers, having the right climate and soil. Anyway, your actual location is not Grafgeo. The name is classified, and in theory, you shouldn't be heading out there so soon, but your recent performance fell on the right ears."
+
+"Oh? Now I'm very curious."
+
+"It's an island in the red zone, so there's a risk of mermen. Especially considering you'll be escorting the recently mined shipment of deepstone there."
+
+I couldn't help but grin. Finally, I was getting a lead on these elusive foes. "Mermen want deepstone?"
+
+"More like they don't want us to have it. But the refining process isn't normal, and this location is one of the few that can achieve it. You'll probably understand when you get there, so I won't spoil the surprise."
+
+Can't say I had any issue refining it. I guess I cheated once again with my slime powers.
+
+"Sounds great, I wonder if I'll finally get to test myself."
+
+"For your sake, I hope not," Nathaniel said. "Honestly, even I have to admit that I'm hesitant to send you out there so soon, but you were asked for, by name, to be on this mission."
+
+"Really? I wouldn't think just one giant squid would make this much of a difference…"
+
+Nathaniel shook his head. "A high-level hydromancer joining is a big deal, I told you this before. Your name has been going around for some time, but now you have proved your competency."
+
+"Anything I should know about this mission?"
+
+"It'll be two days' travel, assuming you're helping speed up the boat," he answered. "In all likelihood, there will probably be a slew of missions waiting for you upon arrival. You could even call it one of our elite islands."
+
+"Sounds like my type of place," I replied confidently.
+
+"Which is probably why I won't be seeing you for some time," Nathaniel admitted, looking a bit somber. "Honestly, I was hoping I'd have more time with you aboard Peggy, but it looks like you were already too big for us. I'd rather you spread your wings than keep you trapped here, bored out of your mind, and ultimately leave us. Your patrol duty stunt certainly proved a point…"
+
+"I really was just having fun, though," I admitted.
+
+"I'm not saying you weren't, but it still showed that you weren't going to blindly follow orders. If you weren't entertained or satisfied with the jobs, you'd likely drift off looking for more fun on your own."
+
+I really was just trying to recreate [Blink]... Oh well, it works for me. I'm not going to complain about the schedule being accelerated.
+
+We were going to leave rather shortly, so there wasn't much time for a farewell or anything like that. But I still headed back to my cabin as I had no way to contact Vee while she was out and about. I needed to leave a note or something for her, but I didn't want it falling into the wrong hands either.
+
+The idea I eventually came up with was to open up a small localized [Rift Door] on the ceiling of the room. This way, it wouldn't be accidentally stumbled upon, and Vee would detect it when she returned in the evening. I opened it up, ensured it was stabilized and wouldn't accidentally close on its own, and left behind a letter briefly explaining the situation.
+
+Vee can either come find me while I'm traveling or meet up with me on the island once I've arrived. Even if the island is hidden, she can use our bond to play hot or cold to find me. Worst case, I'll teleport here and bring her to the island myself.
+
+With that potential issue out of the way, I departed, with the Admiral waiting for me. We casually chatted on our way to the boat, and I couldn't help but show my surprise upon seeing it. It was a giant vessel and likely state-of-the-art. Even at a distance, I could practically feel it thrumming with enchantments.
+
+This looks like a boat you'd go to war with, not transport goods on.
+
+The crew was also impressive, with levels ranging from the thirties to even the low forties. The captain himself even had an advanced class, so I knew this crew meant business. Weirdly, though, I was the only spellcaster of the bunch, although I thought some of them might have had hybrid classes.
+
+The captain, named Spencer, was younger than the admiral, but I estimated him to be a "no fuss" type of guy. He didn't look too pleased about me joining them, and I caught him grumbling about "orders are orders".
+
+I imagined that once we were away from Nathaniel and Peggy, he would more openly vocalize his displeasure. Not that I cared, as long as I got to the red zone, and even if he wanted to hold a grudge against Sylvain, he was ultimately just a disposable persona for me.
+
+"Thanks for everything, Admiral. I'll try to stop by afterwards," I chirped.
+
+"I'll hold you to it! If it becomes too much for you, you'll always have a room on Ol' Peggy waiting for you," he said with a grin.
+
+Anchors were lifted, mooring lines released, and we were off. I watched as Peggy began slowly shrinking in the distance as we went further and further.
+
+"I'll show you your room," one of the crew members offered, apparently not holding the same feelings as his captain about me.
+
+It was small—not that it really mattered to me—but at least it was private. Apparently, I was getting a little extra treatment compared to the others due to being a mage. This became more apparent when I was asked to spend my time manipulating the wind.
+
+I guess the private room is so I can recover in peace at any time of the day.
+
+As I got to work, Captain Spencer was shooting me death glares. However, once his navigator relayed our increased speed, his expression soon softened. Yes, I was once again controlling both the winds and sea around us and was being damn smug about it.
+
+"Damn, we really need more mages on duty," one crewman said.
+
+"The casualty rate is too high," another answered. "Who would want to work surrounded by your natural predators?"
+
+"That guy, apparently," the first chuckled.
+
+"We'll see if he keeps the same jovial attitude after his first real encounter," Captain Spencer said, butting into the conversation.
+
+There's just no way mermen are that powerful. I can't imagine Mother allowing an entire race to ruin her life's work; there's got to be a catch or trick to it. Not that it matters to me ultimately, if they block my magic, I have plenty of slime to fall back on.
+
+I stared up at the bright sky, the wind and waves at my fingertips, and was excited for the real journey to begin. My plan had taken a little longer than I expected to get off the ground, but now it would finally prove its worth.
+
+If I find them before Vee, she's going to be so mad! I chuckled to myself.

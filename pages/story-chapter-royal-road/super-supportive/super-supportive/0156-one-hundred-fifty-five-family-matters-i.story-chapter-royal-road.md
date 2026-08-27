@@ -1,0 +1,457 @@
+---
+id: feb24610-970c-56f3-800a-6d61ef65f6fb
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED FIFTY-FIVE: Family Matters I"
+slug: 0156-one-hundred-fifty-five-family-matters-i
+partOf: super-supportive
+position: 156
+ownLength: 5145
+unit: words
+publishedAt: 2024-07-10
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1712595/one-hundred-fifty-five-family-matters-i"
+royalRoadId: "1712595"
+---
+
+155
+
+******
+
+Alden bowed his head and stared down at his knuckles while the school observed a moment of silence for the dead.
+
+Principal Saleh’s speech had started off with the expected sort of thing. Thanks for everyone who’d shown up in person and through interfaces. Eloquent sympathies for students who’d lost places or people they loved.
+
+And now this.
+
+The posture, the uniform, the sounds of a large group of humans breathing and quietly shifting in their seats—it called up a sliver of memory. The rare and precious kind.
+
+A room full of bowed heads, their owners mostly unaware that they were being subjected to a child’s critical gaze. His mother’s hand tugging him back down into the pew beside her. Alden looking at her in protest, and the silent tilt of her head in return conveying a world of rules and manners.
+
+He remembered feeling terribly misunderstood.
+
+“I was helping!” he’d explained with righteous indignation when they’d gotten back home that afternoon. “I was making sure nobody was cheating.”
+
+“At praying?” she asked while she examined a stain on the clip-on tie he’d been wearing. “Is this a grass stain? Sweetie, how did you get a grass stain on a necktie?”
+
+“Some people had their eyes open,” Alden said darkly. “They were playing games on their phones.”
+
+“But they weren’t bothering anybody, and you wouldn’t have known if you’d had your own eyes closed. Your shirt is clean. I don’t understand…just the tie?”
+
+“I was helping.”
+
+Warmth, an arm pulling him close…had she smiled? Kissed him?
+
+Had his father been in the room?
+
+What had they done after that?
+
+He knew from experience that the answers wouldn’t come. Trying to force them would only build fantasies that might or might not have happened on that day.
+
+And then the moment of silence was over, and Principal Saleh was talking again, her voice filling the gym. As her tone turned businesslike, the mood shifted away from the somber. It started to feel more like high school.
+
+Classes were cancelled tomorrow. All of the ones that could resume on Wednesday would, but they should expect some changes. Alterations in scheduling or course structure were being left up to the individual instructors.
+
+Alden was happy they’d be back in class soon. Judging by the number of people groaning dramatically and whispering complaints to their friends, he was in the minority.
+
+“This meeting will end at eleven thirty,” Principal Saleh said. “Bag lunches will be available outside. Grab one if you’re hungry, then follow the schedules that have just been sent to you.”
+
+Alden opened his with a thought. It was his regular class schedule, compressed into fifteen-minute periods, with a half hour long “personal advisement” meeting sandwiched in.
+
+So we stop by each classroom and hear from the teachers in person about what we’ll be doing for the rest of term.
+
+Before he finished reading, Principal Saleh was speaking again. She covered a lot of basic information. Campus dining was being restricted to specific locations and time windows until further notice. The domes on Celena Circle weren’t tourist destinations, and the people living there didn’t want thousands of curious students wandering through.
+
+“Not even if you’re volunteering to help. The people living there don’t actually need any help you could provide. They just need a quiet place to stay until they can go back to their homes or until they have new ones. The only students who should be visiting the domes here, or anywhere else they’ve been put up, are those of you who have family staying there. The rest of you go around the perimeter of our new neighborhood.”
+
+That command led into more discussion of housing. Some people had been letting family and friends stay in their dorm rooms.
+
+“The government is organizing safe, comfortable housing for everyone who needs it. The domes are being provided by the Triplanets. Other facilities all over Anesidora are being outfitted as residences.” Her back was turned to Alden’s half of the gym now, so he was watching her on the projection. “You might have noticed, but your dorm rooms and apartments aren’t that big. Everyone needs a safe space and a community, especially in times like this, and our community is for our students. Your family may visit you here, but they can’t live with you.”
+
+She covered a few more details, then finished off by saying, “Both Apex and F-city are currently being visited by many more wizards than usual, and the number will likely increase over the coming weeks. Talks about how involved the Triplanetary Government should be in our rebuilding process are ongoing. The CNU culture advisor will be laying out some simple guidelines for you to follow if you happen to run into wizards on campus. But before that, I wish to personally apologize to the entire school on behalf of the Talent Development Program.”
+
+Alden sat up straighter. What did we do wrong?
+
+He had an absurd worry that he had been unwittingly involved with whatever behavior was bad enough to prompt an apology.
+
+“As I’m sure many of you have heard, a group of our students decided that a nationwide catastrophe was an ideal occasion for experimenting with their powers in a real-world setting. They chose to leave the safety of our campus shelter for an area that had already been evacuated. They thought flooded homes and businesses were their own personal training environment.”
+
+More people like Liam? Seriously?
+
+He had hoped that the Long siblings were unique in their madness.
+
+“That behavior alone would be enough reason for me to apologize to you. But to make matters worse, a couple of these people chose to wear modified versions of their school uniforms while they gallivanted.”
+
+She didn’t raise her voice, but there was a sharpness to it that was impossible to miss.
+
+“We expect excellence from all of you, but those in our Talent Development Program should be even more responsible in their use of their abilities. Reporting to SkySea Guard that this group of CNH-trained students needed to be searched for because they had chosen to head toward Sānjiǎo Beach so that they could experiment and play was a low point in my career as an educator.”
+
+Someone’s in trouble. And it sounds like they should be. What kind of selfish, immature—
+
+“Do you think they’re going to expel all the B-ranks in the hero program?” one of the Arts students with the Anesidoran Forever wristbands whispered to the girl beside her.
+
+Do you think what???
+
+“I don’t think it was all of them, was it?”
+
+“I heard it was.”
+
+“What are they talking about?” Alden hissed at Haoyu. He pulled up his huntski lodge chat. [Was it B-ranks who did the bad thing?]
+
+Haoyu looked intrigued. [I don’t knowing. I don’t have gossip. I want to knowing.]
+
+[Alden: Lexi, do you know who’s in trouble?]
+
+[Alden: Lexi?]
+
+He looked over to see Lexi angry-typing again.
+
+[Haoyu: I think he isn’t checking roommate chat.]
+
+[Lute: Haoyu, don’t switch to finger texting. It makes you less funny.]
+
+[Lute: Hey, Alden. You back at school?]
+
+[Alden: Yes.]
+
+[Lute: Sweet. I’m watching the speech thing from here. I swear my relatives are growing in number and obnoxiousness. It was torture yesterday, but it’s gotten a lot better.]
+
+He sent a picture of himself sitting in a blanket fort. Emilija was beside him, wearing a t-shirt with a music note print. They were grinning and holding up crackers with meat and cheese.
+
+[Haoyu: He didn’t even try to make it back to Apex.]
+
+[Lute: I did! Just not since the company arrived.]
+
+Alden suddenly realized that Emilija was in an awkward position. She’d been living in Apex but commuting to school at Franklin High. How is she going to handle that?
+
+[Lute: A bunch of B’s and a few A’s are who she’s talking about. I think they were mostly second years. I don’t know all of them. One was that guy who wears the rings that sound like bells. And there was a girl who turned the school uniform into a cheerleader outfit and painted letter B’s on her stomach. And Ella-Clara Thomas.]
+
+So it was them. The “viciously competitive” Beat List-obsessed second year B’s.
+
+At first, Alden was relieved. He’d really enjoyed meeting his fellow B’s, but he didn’t know any of the second years well yet.
+
+Wait…those lunatics are almost half the active members of my rank club. If they get themselves expelled do we lose access to the gym and Instructor Plim?
+
+[Lute: I’ve known that Figurinist girl was trouble ever since she spent two weeks making that giant doll of hers run around campus on all fours. It got faster and faster. I tried to compose a song about how seeing it coming at me down the sidewalks made me feel, but I couldn’t hit the right level of creepiness.]
+
+Alden gave the next speaker his attention. The university’s culture advisor was an animated woman with an elegant contract tattoo prominently displayed on the back of one hand.
+
+“Another important thing to remember about our Artonan visitors is that they are here to work right now,” she was saying. “I’m sure most of you have seen or spoken to Anesidora’s wizard residents in the past when they were going about their regular lives. This is different. The people sent by the Triplanets to help with the Submerger crisis are here to convey the sense of responsibility the wizard class has toward us as Avowed and toward Earth as a resource world.”
+
+“They are responsible,” a boy sitting on the level below Alden said quietly. “They made the thing and sent it to Earth right? It’s not like a human invented something that dangerous.”
+
+The culture advisor was still talking. “The Artonans will see it as inappropriate to relax or conduct personal business when they’ve been charged with this purpose. So now isn’t the right time to try socializing with them.”
+
+Lexi stopped typing and looked over at Alden.
+
+Alden raised an eyebrow at him in return.
+
+[Alden: She’s referring to people who go out of their way to bother unknown wizards they spot in the street, not me.]
+
+“Some of you might also be tempted to make an appeal on behalf of yourselves or someone you know. To slip in a little showing off with your powers or a mention that you’ve always longed for a chance to serve as a listener for an elite study circle during a mission to the whispering villages on the World of the Yellow Smoke.”
+
+That’s an extremely specific example.
+
+[Haoyu: That was really specific.]
+
+[Lute: One hundred argold says she finds a wizard to take her to the World of the Yellow Smoke before the country’s put back together.]
+
+[Haoyu: I barely remember learning about the whispering villages in class. But the World of the Yellow Smoke’s out there. She’d be gone for months or years. And they’d probably prefer another species. I’ll take your bet.]
+
+[Lute: I wasn’t serious.]
+
+[Haoyu: You can’t take it back now.]
+
+Alden couldn’t recall ever hearing about the whispering villages.
+
+He texted Boe. It was so nice to be able to do that now. [I don’t think memorizing all the US state capitals and studying the history of Illinois prepared me well for my future.]
+
+The culture advisor had finished, and someone from the campus health office had stepped forward to announce that counseling services were available to anyone who needed them, when Boe finally replied: [Same. I just watched a wizard summon what looked like every flying bug in the rainforest into a briefcase. Now I’m going to go look tragic in front of him and see if he sends me home.]
+
+As the end of the assembly approached, the final speaker stood. She was wearing the school uniform with a silver Frisbee-looking weapon belted over her hip. Her nametag said she was the student council president.
+
+She sailed through a speech about solidarity, responsibility, and the CNH spirit and then called for a vote about the uniforms. The student council thought that because of the present hardship, uniforms should be mandatory until the end of the quarter. As a show of unity. And for several other reasons she listed out so fast that Alden barely had time to hear them, much less decide if they were good ones, before the opportunity to vote was flashing in his eyes.
+
+“Please make the decision selflessly and with the knowledge that you carry on your shoulders the legacy of all who have gone before you and the dreams of all the young people who imagine themselves here at Celena North one day,” she said in a forceful voice.
+
+It was clear that she thought only irresponsible, school spiritless people would reject the idea.
+
+Alden clicked “no.”
+
+The uniform looked nice, but he personally believed that times of hardship called for soft, loosely-fitted clothing with ample pockets.
+
+When the voting concluded, eighty percent of the school disagreed with him. He sighed.
+
+“You didn’t vote yes?” Haoyu asked in a surprised voice.
+
+“When the going gets tough, I want to wear sweatpants,” said Alden.
+
+Haoyu looking him up and down pointedly.
+
+“My outfit was chosen for me this morning. You voted yes?”
+
+“It’s your fault. When I saw you climbing the bleachers earlier I thought you were dressed like that today to be solemn because of the people who’d died. I thought you were being mature and thoughtful, and I felt bad I hadn’t worn mine.”
+
+The vote was the final item on the agenda. Around them, everyone was standing up.
+
+“Lexi,” said Alden.
+
+“What?” He’d never stopped jabbing air throughout the assembly.
+
+“I can probably take you down to F. If you’re sure you want to go. I doubt I can do anything to get you back before classes start on Wednesday, though, so you’d have to take care of that yourself.”
+
+Lexi looked over. “On the green platform?”
+
+“The Nine-edged Son Whose Own Mother Forsakes Him. You can come, too, if you want, Haoyu. It’s fun to fly.”
+
+“That sounds great, but my parents are going to be together this afternoon. I’m meeting up with them. It’s the first time I’m going to see Dad face to face since he left for Matadero.” He looked so excited. “I get to tell him all about you and Lute and the obstacle course and a hundred other things!”
+
+“That’s more important than joyriding down to F,” Alden agreed.
+
+Lexi looked concerned. “Are you allowed to just fly it all over the place?”
+
+“I think so. He told me to take it wherever I wanted.” He was more worried about SkySea than Esh-erdi. But they might not even ask why he was flying the nonagon around anymore. The assumption would probably be that he was following Esh-erdi’s instructions.
+
+Lexi hesitated. “I would appreciate it…”
+
+“Do it,” said Haoyu, standing up from his seat. “Do it for all of us who are going to be so jealous that we didn’t get to ride a magic knight’s flying disc.”
+
+“You called him a knight!” Alden exclaimed.
+
+“That’s the English translation the Systems on the Triplanets usually give for them. I think it sounds more epic…unless he specifically told you to call him general. Then forget I said anything.”
+
+“He’s informal. He told me to drop the title.”
+
+“That’s epic, too.”
+
+******
+
+Outside, it was still sunny, and the bag lunches were being distributed by uni students. While the three of them waited in a short line to grab theirs, Alden kept turning his head to check on the nonagon.
+
+“If you’re nervous, just move it,” Haoyu said. “It’ll be funny to watch their reactions anyway.”
+
+“Nobody’s actually doing anything bad to it, though,” Alden answered.
+
+Students kept hopping, climbing, and levitating themselves up the side of the building to look at it. A couple of faculty members were around, and Alden had expected them to put a stop to it. But none of the curious people were being overly risky with their power use, and very few of them were even trying to touch the nonagon.
+
+“People aren’t stupid enough to really mess with an important wizard’s flying vehicle,” Lexi said.
+
+You’d be surprised, thought Alden. “I have to move it anyway. I’m not going to leave it here all by itself while I go across campus to do the class meetings.”
+
+An idea occurred to him. “Do you guys want to sit on it while we have lunch?”
+
+Haoyu had been disappointed he couldn’t ride down to F this afternoon. This would make up for it.
+
+“There’s no need to call attention to your—”
+
+“Yes!” Haoyu exclaimed. “And then you’ll take us to class in style!”
+
+Lexi shut his mouth.
+
+A few minutes later, they were away from the crowd, jogging out to the track with bag lunches in hand. Distance from the audience was necessary if they didn’t want people inviting themselves to eat with them.
+
+“Call it,” said Haoyu, when he noticed Alden stopping and staring at the driving ring. “Show us that alien sky limo.”
+
+“Just a second, I don’t want to make a mistake and crash it.”
+
+He pressed a logogram on the ring with his thumb and pointed his finger straight down. The green nonagon rose over the MPE building’s roofline. He let it get higher and then pointed it toward them.
+
+“Faster,” Haoyu advised. “You know someone’s going to chase it.”
+
+The second it reached them, they scrambled aboard, and Alden sent them skyward. He stopped them a few stories above the grassy field in the center of the track—high enough that nobody should feel invited to come up for a visit, low enough that he didn’t think he’d get another call from traffic control.
+
+“Hey, it’s textured!” Haoyu was bending over near the edge, running his hand across the nonagon’s surface. He was clearly not even a little concerned about Alden’s driving.
+
+In contrast, Lexi was sitting in the precise center with one hand on Writher’s handle.
+
+“What would you actually do with the whip if you fell?” Alden asked.
+
+Lexi blinked and looked down at his own hand before moving it away.
+
+“You two, grab onto me if we crash. I’ll break your fall,” said Haoyu, still touching the nonagon. “It feels like a stroopwafel. Do you guys know what those are? They’re like a skinny waffle biscuit with caramel inside.”
+
+“That checks out,” said Alden. “The poor son has already been called a cookie this morning.”
+
+He sat down beside Lexi and opened his lunch bag. He’d expected the food to be crummy in the way mass-prepped, depersonalized stuff tended to be. But he was pleased to find that the wrap with the vegan “fried chicken” tasted pretty good.
+
+They didn’t talk for a couple of minutes while Alden and Lexi chewed and Haoyu added the contents of condiment packets to his own turkey wrap.
+
+Lexi even chews like he’s tense, Alden thought as he studied his roommate’s features. “I’m sorry about your family’s apartment.”
+
+“Thanks.” Lexi spoke mechanically. But then he looked down at his food, slumped a little, and said, “I know a lot of people lost houses. It’s only stuff. Everyone keeps saying that. It’s true. I didn’t give a damn about home when everything was going wrong. Even after I heard Nilama was flooding. Being on the Span when it all started…the bridge dropping out from under us like that, water missiles flying around with trucks inside them…I thought things were even worse than they were. I thought, ‘It’s fine if the whole island’s obliterated. As long as my family is somehow safe.’”
+
+He carefully set his food on the center of the piece of plastic wrap that it had come in, rolled it back up, and then wiped his hands on a napkin. “And they are safe. I’m so relieved. But…”
+
+“But your house isn’t just stuff,” Haoyu finished for him. “It’s all the memories that go with it.”
+
+“Kon’s in some kind of denial. He keeps saying, ‘Some of it’s probably fine.’ No. It’s not. It was completely underwater. We might salvage the dishes I guess? The plastic things? A little bit more if we can manage to find people with the right talents who aren’t already booked for the next decade.”
+
+“What did you parents say?” asked Haoyu.
+
+Lexi rubbed a hand over his eyes and sighed. “To leave the worrying to them. Obviously. What else would they have said? They’ve been telling me not to worry about anything for the past two years, even when a lot of it needs to be worried about.”
+
+“Our parents are on slightly different tracks,” said Haoyu. “When my father took me out for dinner, right before he left for the cube, we talked about not adding to mom’s worries. Showing her that I could look out for myself here at school and not freaking out if I failed combat assessment. Which I thought I had for a few hours there.”
+
+He squeezed the last drops out of a mayo packet. “Nothing that serious, just taking minor Haoyu business off her plate. I think he underestimates her capacity for micromanagement, though. I sent her a picture of me doing the laundry, and she called afterward to have a fifteen-minute talk about the amount of detergent I was using. More should be better, right?”
+
+Alden vividly remembered having the same thought when he was around nine and trying to wash his own clothes. Only they’d been out of detergent, and he’d opted for dish soap. More had not been better.
+
+They ate. Lexi texted Kon to tell him about the ride Alden had offered. Haoyu stood up and walked in a circle around the two of them, getting the three hundred sixty degree view of campus and the streets beyond.
+
+“It’s a strange day, isn’t it? Everything’s so bad and so normal at the same time,” he said finally. “What do you think happens next?”
+
+“Cleaning up. Building buildings,” said Lexi. “Years and years of people shouting at each other about what went wrong and whose fault it was. The countries that have been pushing to have their own permanent Avowed forces will use this as an excuse to say they should build miniature superhuman armies in case Anesidora ever gets wiped out, and the Council will probably try to make sure that doesn’t happen. And people will keep saying we should never have been allowed to become a self-governing country…like it was something they actually allowed instead of something the first generation pried away from them.”
+
+He took a breath.
+
+“And the Triplanets will do something or nothing. Honestly, who knows what in the nth dimension they think of all of this? I’m not sure if it’s even a big deal to them or if it’s a human hiccup.”
+
+When he fell silent, Haoyu nodded. “That summed up about ten percent of it.”
+
+“Yeah,” Lexi said. “I left out a lot of the petty drama. Since you two have been mysteriously absent for a significant amount of time—half the people in school just want to talk about who leveled, whose parents got haloed, and who the System loves best.”
+
+“It’s Alden.” Haoyu batted his eyes at Alden. “The System loves Alden best.”
+
+Alden snorted. “Shut up.”
+
+“Just ask Mehdi. When you disappeared from Maricel’s flying countertop, he said, ‘Why him?’ About a dozen times in five minutes.”
+
+“I offered to take some of you with me.”
+
+“And it sounds like we missed a great time! Oh no…” Haoyu’s smile fell. “What about that guy you did take with you? Was he all right?”
+
+“Marks. He was such a jerk,” said Alden. “I’m sure he’s fine. He left in a huff after screaming at me for being a Rabbit globie who didn’t care about how it was my duty as a high rank to die before him. That was what he was getting at anyway.”
+
+“You didn’t want to die for that guy Lexi almost sliced up with Writher? I thought you were a better man.”
+
+“He’s good enough for the Artonans, Haoyu,” said Lexi.
+
+He said it in a light tone that fit in with the conversation. Very chummy by his standards.
+
+Alden crumpled up his trash and laid his messenger bag on top of it so that it wouldn’t blow off the side of the platform. After a moment, he said, “Before Principal Saleh started speaking, you were asking me what the commendation was for.”
+
+“I shouldn’t have,” Lexi replied. “I was surprised. But what you do on the Triplanets is your own business if you want it that way.”
+
+“I do prefer that most of the time.”
+
+Thegund already took too much. I’m ready for it to stop being something that hits me again and again. I’m ready for it to be like Body Drainer. I want distance from it. I want to be done.
+
+“I don’t want to have to live up to the commendation right now. Like, if I just tell everyone I got stuck on an evil moon and then got rescued, of course they’re going to ask stuff.  But they mostly feel sorry for me and ask me if I’m all right. That’s easier to deal with than having them ask for specific details…which, if you’ve been commended of course they’re going to, aren’t they? ‘Oh you did things on the moon? Awesome Avowed things? What were they?’ And I’m not really up for having my actions microscoped by people who weren’t there.”
+
+He recalled his interview and felt himself frown.
+
+“I was dreading questions about what had happened on Thegund during the final admissions interview. Everyone talked about how personal and challenging it could get, and I was braced. I thought they might ask to hear the whole story and then do some kind of analysis? And tell me what I’d screwed up.
+
+“And they’d say exactly the wrong thing, and I’d flip out and do something awful. Like hit Klein with a chair. Not that the hit would land…”
+
+“You really don’t have to talk about this,” Lexi said hastily. “It’s fine if you never talk about it.”
+
+Haoyu had sat down with them again. He nodded in agreement.
+
+“It was always inevitable that the commendation would be public,” said Alden. “People did already know about it. The faculty, TC security, my counselors in intake—whoever I’ve shared my profile with and anyone they talked to. I was just hoping I’d have longer before it became common knowledge. I wanted to get to know you all first. I wanted to do well in gym and prove I fit in with the class.
+
+“But at this point, it’s either tell the truth or make up a lie that will only last a little while longer before the truth comes out. The B-rank Rabbit disappearing before all the combat-talented higher ranks was noticeable. So I’ll tell our classmates I’ve got the commendation when they work themselves up to asking me directly. And…if they want details about how I got it, I’ll either say I don’t want to talk about it or summarize it briefly. I haven’t decided. It’s a decision in progress. A lot has happened.”
+
+He drummed his fingers on the nonagon and looked out over the city. He could see North of North Gym from here. They’d already opened back up, with limited hours and services, according to an email he’d gotten this morning.
+
+“I’ll tell you guys about it, though,” he said at last. “Really, even if I don’t summarize, it won’t take that long. It’s not like I fought a monster or used my skill in some special way. I just kept this kid named Kivb-ee alive. And she kept me alive. And then I went on a very, very long run.”
+
+******
+
+******
+
+All the demon did was touch her leg. Just a touch. It cut her and rotted her and turned her flesh into something it wasn’t.
+
+I carried her in my arms. I couldn’t even use my skill to help her because I was afraid to change targets. I’d never done it without the System, and I wasn’t sure I could.
+
+She was the first person I saw the chaos hurt like that.  She died. They all died.
+
+Except for the Avowed.
+
+And the little girl.
+
+Was it better at the lab?
+
+It made surviving possible.
+
+There were good things that reminded me more good things existed. In other places.
+
+Like what?
+
+Spiky strawberries. French braiding. Television.
+
+I think we’d both have gone nuts without the television.
+
+Help came?
+
+On day 152.
+
+And it was wonderful. And it was awful
+
+Because someone had finally come, but they were much too far away.
+
+We waited as long as we could. Even though we both knew it was going to be too long.
+
+The car still worked?
+
+It did. Can you believe that?
+
+It was a wreck. It was full of holes.
+
+There was no protection left at all.
+
+But it still rolled.
+
+I want to know who made it. I don’t care what species they are. I want to go to their planet one day and thank them.
+
+Your trait works like that?
+
+That’s actually awesome.
+
+Yeah. We’d never have made it if I couldn’t run across even the shittiest ground.
+
+It was too far.
+
+It was almost too far even with the trait. And the drugs. The wordchains. The irrigation sticks.
+
+I think about it all the time. About how the lifelines were all thin as threads. A dying scientist told me to take some sprinklers in case I needed water. And then, months later, they were one of the things that made living possible.
+
+Other Avowed would have done it all so much better. So much easier.
+
+There are people who could have saved everyone and themselves on the first day.
+
+I couldn’t.
+
+I could only barely do one thing and then barely do the next. Over and over. And the barely never stopped. There was never a moment when I was the best person for the job. I was always lost and wrong and managing by the skin of my teeth.
+
+But then…I made it.
+
+My body was destroyed. I was destroyed.
+
+But I made it.
+
+And the best Healer I’ve ever heard of was there to put me back together.
+
+And a very spooky old teleportation ritual sent me back to civilization.
+
+And you got a commendation.
+
+And I got a commendation.
+
+For Exceptional Bravery in the Absence of Obligation.
+
+From Loh Alis-art’h, the fourth Hn’tyon.
+
+…
+
+…
+
+So that’s it. That’s most of the story.
+
+Are you okay?
+
+I think so.
+
+I do wish the coat had survived.
+
+******
+
+******

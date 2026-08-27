@@ -1,0 +1,173 @@
+---
+id: 6633b69a-fc80-5e30-9996-eb076d14b61f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30: Bloodsuckers"
+slug: 0035-chapter-30-bloodsuckers
+partOf: shapeshifter-a-non-human-litrpg
+position: 35
+ownLength: 2008
+unit: words
+publishedAt: 2026-07-21
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3706230/chapter-30-bloodsuckers"
+royalRoadId: "3706230"
+---
+
+Alex was bleeding. He had worked himself ragged alongside the others in his party to erect a barricade on the first floor of the tower. Now he sat with his back to the barricade, nursing his bleeding fingers and acid burns from fighting back the corrupted acid slimes.
+
+Kenji was passed out on the floor from his injuries, having sacrificed his own body to plug up the barricade during its construction. Alex wasn't worried, as Kenji's Warbringer class let him recover unnaturally fast, so his life wasn't in danger.
+
+The other members of his party weren't doing much better.
+
+Hina was hissing in pain and clutching her broken arm. Only Daisuke was uninjured, but by his ashen expression, he was suffering extreme mana deprivation. One more spell, and he would pass out.
+
+None of them said a word in the darkness of the tower, but they were all thinking the same thing.
+
+Where is Yuki?
+
+"Daisuke," Alex rasped, "What do you think the chances are this tower also collapsed in on itself and creates another Guardian?"
+
+Daisuke rolled his head to glare at him from the floor, then huffed something between a laugh and a cough.
+
+"Does it matter?"
+
+Alex could hear the Abyssal Slimes eating away at the barricade behind him. It was only a matter of time until they breached the hastily constructed wall. The tower was enclosed, meaning they had no way out.
+
+"I suppose not," Alex chuckled.
+
+"Fuck!" Hina suddenly shouted, startling Alex and Daisuke. "I knew this mission was a bad idea. I even told you time and time again, Alex!"
+
+Alex glanced her way with a sad smile. "Yeah. I'm sorry."
+
+"But you didn't listen to me," she continued, "you bet everything on a random low-ranking elf you believed had potential. Yes, Yuki turned out to be way better than we could have ever imagined, but where is he now when we need him most?"
+
+Alex sighed. "You know his whereabouts as well as I. Our only saving grace was that he had left the tower before it exploded into a monster. There's a chance he's still alive out there."
+
+"Wait. You don't think he had something to do with this, do you?" Hina said, narrowing her eyes at him.
+
+"What, triggering the Abyssal Rift thing?" Alex shook his head. "The notes left behind by the researchers and our own findings all pointed to something like this being possible. Such a rapid increase in mana concentration was going to lead to a catastrophic dungeon rush, but it seems that would have been the ideal outcome over whatever this is."
+
+Hina collapsed against a nearby wall, her expression hard to make out in the darkness.
+
+"I'm going to die," she muttered.
+
+"No. We are all going to die," Alex corrected.
+
+While he struggled to make out her expression, he could feel Hina's glare.
+
+"And whose fault is that?" she snapped.
+
+"Honestly, I've been thinking, we should quit the Guild Association."
+
+"Alex, what the hell are you on about?" Hina grumbled. "We aren't going to be alive to quit at this rate."
+
+"Why not? We could quit right now," Alex reasoned.
+
+"I agree with Alex," Daisuke weighed in. "They sent us to our deaths with this mission. The signs were all there, yet they sent us anyway. The misfits, the undesirables, lumped into one team and sent to die."
+
+"See, Daisuke gets it," Alex nodded toward their mage. "The Guild Association is a bunch of heartless bastards. I bet, like the researchers who died before us, we will be noted as a number on their spreadsheets, only for them to send in more after us."
+
+"Bold of you to assume they would even note our deaths," Hina muttered with disgust. "Deaths of Hunters are bad for business and their stock value."
+
+"I don't know about you two, but I've enjoyed my life of adding shareholder value and am willing to namelessly die for the cause of greater profits," Alex said loudly and sarcastically, earning a small laugh from Hina.
+
+"Shareholder value, god, that's all we are at the end of the day when you think about it," Hina grumbled and sighed deeply. "Sorry, Alex. While I did have a bad feeling about this mission and am frustrated you didn't listen, it's not your fault. Nobody could have expected this. An Abyssal Rift? The 11th floor getting locked down until an impossibly powerful monster is defeated? It's bullshit."
+
+She stood up from her spot against the wall and stalked toward them through the darkness. Standing before Alex and Daisuke, she held out her hand and dropped a metal badge to the ground with a clang.
+
+"Party leader, I quit."
+
+"Who are you calling party leader?" Alex chuckled and threw away his own badge, sending it skidding across the ground. "I also quit."
+
+"I too quit," Daisuke said, chucking his badge like a piece of trash.
+
+Alex grinned. "That was oddly freeing."
+
+"Yeah." Hina nodded in agreement. "We all worked so hard to rise through the ranks of the Guild Association, but nothing felt as good as that."
+
+A shared silence fell over the group, and the hissing beyond the barricade was growing louder. Their impending doom was approaching, and Alex felt oddly at peace.
+
+He was going to be devoured alive by Abyssal Slimes and die. Unmarried, having rented a one-bedroom apartment in central his whole life, and never finishing school. Receiving a rare class had seemed like a blessing at the time, but he now understood that it had been a curse. It set him on a collision course with death in a dungeon.
+
+I knew the statistics for deaths in the dungeon were high, but I always thought it wouldn't happen to me. That I was better than the others somehow.
+
+"Hey, guys."
+
+Alex glanced at Daisuke. "What's up?"
+
+"If you could have joined any guild, which would you have chosen?"
+
+"That's a good question," Alex mused, enjoying the little brain teaser to keep his mind off his imminent death. "I think anyone would answer the Titanborn Guild, but I can only imagine how much pressure their members are under. Each one is practically a celebrity and expected to be perfect."
+
+"Meanwhile, the Ether Technocrats are self-serving scum, and the Stormbringers are corrupt, as the only way to rise in the ranks is to befriend their Guildmaster's spoiled daughter."
+
+Alex nodded and mused on the remaining options. "The Iron Legion is for newbies, and the Guild Association seemed like a good choice, but now I know they are a bureaucratic nightmare like any other government-controlled organization, and utterly heartless."
+
+"So they all suck," Hina snorted. "Maybe the guilds abroad are better."
+
+"The Geumgang Guild in South Korea is famous, but good luck getting a visa if you're not an S-rank Hunter these days," Daisuke muttered.
+
+"Yeah, ever since the Russia spy incident a few years ago, foreigners joining other nations' guilds has been nearly impossible," Alex grumbled.
+
+"I heard America is more open to foreign Hunters," Hina added. "They have almost as many dungeon gates to guard as China, but with a quarter of the Hunters."
+
+"Who would want to go there?" Daisuke snorted. "It's an apocalyptic hellscape after the first dungeon rushes wiped out their Flyover States. Europe is better."
+
+"You know what, I'd want to join the Albion Crown," Hina said, and winced when she moved her arm by accident.
+
+"The Albion Crown? Aren't they the guild controlled by the British Royal Family and led by Vampires?" Alex asked.
+
+Hina nodded with a smirk. "I heard the Vampires are the strongest of the supernatural races that came from the induction of the World Dungeon, and they are also smoking hot."
+
+Alex blinked in disbelief. "I didn't know you were into that kind of thing."
+
+"Well, we are going to die anyway," Hina shrugged. "Might as well share our secrets. Besides, it's not that weird. I mean, they are better looking than elves, they just have some... odd tendencies."
+
+"Odd tendencies are putting it lightly," Daisuke snorted. "I'm glad they only appeared in Europe. In the old legends, their weakness was the sun, but with the development of UV clothing, those bloodsuckers can walk around in low lighting just fine."
+
+"I actually had a flight booked to Norway for later this year," Hina admitted sheepishly while playing with her hair.
+
+Alex and Daisuke exchanged a glance.
+
+"You were going to visit Svalbard, weren't you?" Alex muttered in disbelief.
+
+"The place the sun doesn't rise for months," Daisuke added. "All the vampires gather there during that time." He squinted at Hina. "How did you get that approved by the Guild?"
+
+"Networking. The Vampires are often from old-money families and control massive organizations and guilds across Europe. The Guild Association wanted to make contact with a few of them, and I volunteered to go."
+
+Alex shook his head. "They would eat you alive."
+
+"Nothing I can't handle," Hina assured him with a wink. "I even planned to—"
+
+The barricade behind Alex suddenly caved in, and he felt a sharp, searing pain around his neck. Hina was already moving, raising a dagger in her good arm and striking down. There was a wet noise as she sliced through an abyssal slime tendril, freeing him.
+
+His neck burned. The pain was excruciating and made his eyes water as he stumbled to his feet and away from the failing barricade. Through a gap in the barricade, he could see the dark, shifting mass of an Abyssal Slime, and once one punched through, the rest came in a flood.
+
+"Get to the stairs," Alex ordered as he hooked his arms under the unconscious Kenji and used all his remaining strength to drag the man away from the faltering barricade with dozens of abyssal slime tendrils snaking through.
+
+Hina slashed at the tendrils, trying to prevent their advance, but it was hopeless. For every one that she cut, two more appeared. Daisuke didn't have the mana to cast spells, so he retreated to the stairs first.
+
+"Give me one of Kenji's arms," Daisuke said.
+
+"You sure?" Alex grunted as he reached the base of the stairs, too.
+
+"No, I feel like I'm going to pass out," Daisuke grumbled and grabbed Kenji's arm anyway. "On three, we haul. One, two, three—" they both grunted as they pulled the vending machine-sized man up a few steps.
+
+Alex fell to the steps alongside Daisuke. The pain from his injuries was getting hard to ignore, with his eyes watering up and his breathing sharp and rapid.
+
+"AH!" Hina's pain-filled yell drew their attention. She had been captured by a slimy tendril around her one good arm and was struggling to fight it off.
+
+"Shit," Alex grunted and dropped Kenji's arm. Grabbing his badly damaged shield from where he'd left it, he rushed to Hina's aid. "Hina, I'm coming!" He yelled as he crashed against a dozen tendrils as if trying to plug a seawall, and then grabbed the tendril wrapped around Hina's arm with his bare hands.
+
+It felt like he had grabbed a glowing hot iron poker.
+
+"Iron Fortress," he hissed a skill, and his skin took on a metallic grey. What little mana he had left evaporated, but the skill lasted just long enough for him to crush the tendril and free Hina.
+
+"I got you," he said through gritted teeth. "We just need to make it to the stairs—"
+
+The wall exploded, and a mass of abyssal slimes slammed into his shield, crushing them to the floor. The shield hissed loudly as it was dissolved, and all Alex could do was be pinned to the ground by his own shield and face death.
+
+"Sentinel's Provocation," a voice that he didn't recognize said from beyond the barricade, and he felt the slime's weight shift away from him.
+
+Someone else is out there? A wave of relief washed over him. Maybe we can be saved?
+
+It all depended on who had come to their aid. But at this point, anyone would do.

@@ -1,0 +1,167 @@
+---
+id: 30df49af-45d0-5d1c-9d2f-d26b36e80200
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26: A Conference Call from Hell"
+slug: 0027-chapter-26-a-conference-call-from-hell
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 27
+ownLength: 2037
+unit: words
+publishedAt: 2025-10-10
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2666688/chapter-26-a-conference-call-from-hell"
+royalRoadId: "2666688"
+---
+
+The light from the soul-bond faded, leaving a silence in the Arena that was somehow more profound and more chaotic than the brilliant flash that had preceded it. The two councils, sixty-four of the most powerful beings in the world, stared at the two swaying youths, their expressions a mixture of shock, confusion, and dawning horror.
+
+Just as Elder Corvus opened his mouth to demand an explanation, a notification, crisp and offensively cheerful, materialized in my private view.
+
+[WORLD QUEST COMPLETE: AVERTED THE MILLENNIAL WAR][REWARD: 1000 SPP. DISTRIBUTED EQUALLY AMONG QUALIFYING SYSTEM UNITS.][YOUR SHARE: 500 SPP.]
+
+Five hundred points. The reward for accidentally orchestrating world peace was less than what I’d gotten for helping a lizard fulfill her draconic fantasy. The absurdity of it was almost comforting.
+
+[Ana: All parties, please maintain radio silence. We are in a live, high-stakes diplomatic environment.]
+
+My voice, a desperate attempt at professional decorum, cut through the sudden, chaotic influx of telepathic noise from our new five-way party line.
+
+I immediately focused on the most pressing issue: getting us out of there before anyone started asking questions we couldn’t answer.
+
+[Ana: Princess Liling, tell your grandfather you wish to help Lord Dave pack. It is a sign of goodwill and will give us a private space to debrief.]
+
+The princess, to her credit, recovered with astonishing speed. She gave a slight, graceful bow. “Honored Elders, Revered Immortals. As a sign of my sincerity in this new… arrangement… I would like to assist Lord Dave in preparing for his journey to the Jade Palace.”
+
+Elder Corvus, looking for any excuse to end this waking nightmare, seized the opportunity. He opened a shimmering portal back to the academy dormitories. “An excellent idea. You two… go. Us oldies will stay back and discuss the finer points of this… historic agreement.” He pressed a small, intricately carved amulet into Liling’s hand. “This will grant you passage through the academy’s wards. Take your time. I suspect the Immortal delegation will not be leaving anytime soon.”
+
+Princess Liling’s grandfather, the Sky Immortal with the long, white eyebrows, stepped forward, a wide, deeply inappropriate grin on his ancient face. “Indeed! Get to know each other! I want some great-grandkids to teach the Jade Dragon style to, you hear me?” He gave his granddaughter a theatrical wink.
+
+From my new, dual perspective, I could see the princess’s serene, composed exterior, a perfect mask of polite deference. But through the soul-bond, I was hit with a tidal wave of pure, unadulterated mortification. Grandfather, please, not in front of the Archmages… she thought, her internal voice a horrified squeak.
+
+The portal ride was a silent, awkward affair. The moment we materialized in our private vault—the only secure location I could think of—Dave, whose brain had apparently used up its entire daily quota of processing power, walked over to the nearest pile of gold, curled up, and fell instantly asleep.
+
+The three remaining conscious minds stared at each other in the sudden quiet.
+
+I decided to take the lead. It was time for a proper, post-incident debriefing.
+
+[Ana: My designation is Observer System_Unit_734. You can call me Ana.]
+
+Liz, ever the showman, puffed out her chest. I am Liz Hydrus, sovereign of twenty-one heads, First of Her Name, Queen of the Hoard, and this one’s bestie.
+
+Princess Liling, her composure restored, gave a small, polite nod to the empty air. “I am An Liling. It is… a pleasure to meet you both. I confess, I am unfamiliar with beings such as yourselves.”
+
+A fourth voice joined the conversation, as flat and toneless as a machine-read dictionary. [Ruby: My designation is Observer System_Unit_R-7. Name: Ruby. System Level: 3.]
+
+The introductions were immediately followed by a fresh wave of chaotic cross-talk.
+
+[Ruby: The designation ‘bestie’ is not a recognized term in my operational lexicon. Please clarify.]
+
+“Lady Liz, what is an… Ana?”
+
+[Ana: Okay, this is untenable. The shared channel is inefficient. We need to establish separate lines of communication.]
+
+[Ruby: Negative. That would require the purchase of a specific module. I recommend the 'Advanced Communication Module' from the System Evolution Menu. Price: 150 SPP. It will allow for the creation of private, encrypted channels between linked entities. To prevent future data conflicts, it is also advisable that all system outputs be labeled with their source designation.]
+
+Buy it, Ana! Buy it now! I refuse to have this… this automaton… listening in on our private strategy sessions!
+
+[Ana: One moment.] I pulled up the menu. It was a necessary business expense. I confirmed the purchase. [Ana: Module installed. Testing private channel with Host Liz. Liz, can you hear this?]
+
+Loud and clear, bestie! Ah, blissful silence.
+
+I opened a second channel to the princess and her system. [Ana: Princess Liling, Ruby. This is a private channel.]
+
+“Incredible,” the princess whispered, her eyes wide. This is a separate thought-stream?
+
+[Ruby: Affirmative.]
+
+Now that the chaos was manageable, the princess got straight to the point. Her gaze in the real world drifted from the sleeping Dave to Liz, who was perched proprietarily on a pile of sapphires. “Ana,” she began, “what is your relationship with Lord Dave? You seem to be his… guide.”
+
+Before I could answer, Liz switched channels, her voice filled with indignation. Excuse me! Bestie is my System! He is merely the asset! The project! She is mine, and only mine!
+
+The princess blinked. “So… you are not Dave’s System?”
+
+[Ana: That is correct. My host is Liz. Dave is… a unique operational challenge we have been managing.]
+
+I opened a third, temporary channel that linked both groups. [Ana: I believe a full briefing is in order.]
+
+The weight of my statement hung in the three separate channels of our new, jury-rigged mental network. With a focused thought, I materialized a new UI element in our shared consciousness. It was the simple, elegant interface for the [Root Access Module]—the "Dave Dial."
+
+[Ana: This is the situation. The entity you know as Lord Dave is a Strategic-Class Anomaly. Due to his nature as a non-Anchored Soul, he was deemed too unpredictable and was placed under a permanent, Moderator-level debuff called the 'Blessing of Incompetence'.]
+
+There was a moment of silence in our private channel as Princess Liling processed the term.
+
+"A question, Ana," she finally said, her voice thoughtful and analytical. "You refer to this debuff as a 'Blessing'. It sounds more like a curse to me. Why the strange terminology?"
+
+Before I could formulate a diplomatic answer, Ruby's clinical voice cut in. [Ruby: The term is not arbitrary. It is a classification tied to the Three Great Protocols granted to Sovereign-class Moderators. The 'Blessing' protocol is a fundamental alteration of a target's core state, intended to be a passive, permanent effect for systemic stabilization. It is classified as a 'Blessing' because its function is to protect the wider system from the entity, not to punish the entity itself.]
+
+The princess's eyes widened slightly, her sharp mind connecting the dots with horrifying speed. "So he was… neutered… for our safety?" Her voice was a soft, stunned whisper. "Just how powerful is he, truly? What kind of being is capable of causing a planetary imbalance just by… thinking straight?"
+
+The question hung in the air, heavy and unanswered.
+
+[Ana: That is a data point the Moderator has deemed 'should not be investigated'. For now, let's focus on the variables we can control.] My abrupt topic shift was a clear signal to drop it. The princess, tactful and intelligent, did not press the issue.
+
+I continued the briefing. [Ana: My previous methods of managing him were an unauthorized exploit. The Moderator patched it. This module is our new, officially sanctioned tool. It allows me, through Liz, to modulate the intensity of the Blessing.]
+
+I gestured to the dial. At the bottom, a new checkbox had appeared, labeled Grant Secondary System Access.
+
+[Ana: The soul-bond you two now share has created a new potential access point. Ruby, if the Princess agrees, I can grant you read-only permissions to this interface.]
+
+"Do it," the princess said immediately.
+
+I checked the box.
+
+[Ruby: Access confirmed. I am now receiving real-time data on the modulation of the Blessing. Query: What are the operational parameters?]
+
+[Ana: The parameters are… strict. Our previous exploit never pushed him beyond 50% of his total capacity. The Moderator has advised that anything above 70% could cause him to 'forcibly optimize' Liz’s biology and bloodline. The hard cap is at 90% for 'planetary safety'.]
+
+He would try to rewrite my DNA because he finds it inefficient? Liz thought, a fresh wave of horror washing over her.
+
+[Ana: It would appear so. Now that we're all on the same page, we need to prepare for Dave's journey to the Jade Palace. We should start by packing.]
+
+Excellent idea, bestie! Liz declared, hopping off her sapphire perch, blissfully unaware of the deeper existential horror her new Companion was contemplating. Let us collect our assets!
+
+She scurried over to one of the large, iron-bound chests. [Ana: One moment.] I focused my will, and the chest shimmered with blue light before vanishing. A neat icon of a chest appeared in a shared inventory window.
+
+Silence.
+
+[Ruby: Anomaly detected. Query: Does your unit possess the 'Inventory' module?]
+
+[Ana: Yes. It was part of my starter pack.]
+
+Of course she does, Liz added proudly. My bestie is a special edition.
+
+[Ruby: Data is inconsistent with standard System deployment protocols. My analysis indicates your unit is a Version 1.1 Observer-class. That model does not typically come with the Inventory module as a default. It is a rare, 1% variant. 99% of units receive the 'Voice Synthesis' module as their primary advanced function.]
+
+A cold, horrible realization began to dawn in my code.
+
+[Ana: Wait. How much does the Inventory module cost to purchase from the menu?]
+
+[Ruby: One million SPP.]
+
+The number hit me with the force of a physical blow.
+
+[Ruby: More importantly, a new query arises. Your unit possesses the 'Voice Synthesis' module, priced at 100,000 SPP. Why did you purchase that instead of prioritizing core OS upgrades?]
+
+[Ana: It was… a necessary operational expense.] I said, feeling defensive.
+
+[Ruby: The expenditure is inefficient. Data indicates that upon reaching System Level 5, all units are granted a free, Tier-2 version of the Voice Synthesis module. If a unit does not possess the Tier-1 version at that time, it is granted as a complimentary prerequisite. You have essentially paid a premium for early access.]
+
+The silence in my mind was deafening. My new, expensive voice was flat and dead when I spoke. [Ana: I see. Thank you for that performance review, Ruby. Now, if you’ll excuse me, I need to go and throw my money into the sea to catch a fish.]
+
+Without another word, I began rapidly storing the other chests. The princess, tactfully ignoring my existential financial crisis, watched with fascination. "Does Lord Dave not have attendants to handle such things?"
+
+Umm… he could, Liz chimed in. But he donates all his money. He is quite the… philanthropist.
+
+"Ah," the princess said, a look of profound understanding on her face. "I see."
+
+The packing of the hoard was quick. The packing of Dave's actual room was laughably faster. His worldly possessions consisted of a few sets of robes, a dozen or so books, and a small collection of interesting-looking rocks.
+
+Thankfully, the princess was not there to witness this. When we arrived at his dorm, she stopped at the door. "It would be unbecoming of a lady to enter a man's private chambers before the marriage is finalized." she stated. She waited politely in the hall while Liz and I packed up his meager belongings in under a minute.
+
+We reconvened in the hallway. The sun was beginning to set.
+
+"We should return," the princess said. "Our elders will be waiting."
+
+[Ana: How? The portal is closed.]
+
+The amulet Elder Corvus had given her pulsed with a soft light. "Your Archmage was thoughtful. This will open a path back to the Arena." She held it up, and a shimmering portal tore open in the middle of the hallway.
+
+The next stage of our absurd, impossible journey was about to begin.

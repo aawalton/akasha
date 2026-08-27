@@ -1,0 +1,105 @@
+---
+id: bf178c66-a2ac-55a8-bf69-9073b5fd8a0e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20: Burn"
+slug: 0020-chapter-20-burn
+partOf: the-gift-of-loot
+position: 20
+ownLength: 1510
+unit: words
+publishedAt: 2026-05-11
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3383071/chapter-20-burn"
+royalRoadId: "3383071"
+---
+
+NOTE: Don't worry! This isn't going to become a dual-POV story. I just couldn't figure out how to tell this bit from Thomas' POV. Since this is a short chapter, we'll be back to him later today. That's right, it's a double-chapter day!
+
+Zach
+
+Zach screamed as the floor gave out under him. It was only when the cut wood paneling flashed by him that he realized he'd stepped through a trap door. Just when he'd finally struck down the mimic dining table, too. Totally unfair.
+
+He hit the floor beneath him in a crouch and sprang up again, but the door above had snapped shut, practically disappearing back up in the ceiling.
+
+Just another thank-you gift from the Brighten family.
+
+"No! Shit! No!" He looked around. The room was so small the light from his fire reached to all corners. It was some ancient butler's storage, only with a couple of chairs that were almost certainly mimics. No ladders or way to get back up.
+
+He'd just left Thomas alone in the dark with the last of the mimics he hadn't managed to kill.
+
+Zach leaped, but though he was fit (if he did say so himself), he would have had to be an NBA All-Star to reach the high ceiling, much less pry the flush trap door loose with his fingernails.
+
+"Crap, crap, crap. Thomas! Dude, if you can hear me, there's a trap door. Come down here! Thomas!"
+
+He strained his ears, but there was no sound from above. This wasn't a real house where there would be creaking floorboards and muffled sounds between walls. This was a dungeon with magic partitioning the sections.
+
+Zach's imagination filled in what must be happening up there. Unfortunately, he'd always been an imaginative guy.
+
+It was a truism that dungeon deaths were rarely peaceful, but getting slashed or chewed to death in the dark like that...
+
+Fuck.
+
+He should have said something the moment he recognized the Brighten Estate, should have told Thomas to back the hell out. But Zach had a funny intuition that he'd need a healer by the time this was all done with, and his intuitions almost always panned out. Plus, Thomas had already proven more resilient than most healer archetypes.
+
+Now he'd just gotten a healer—a natural healer at that, who'd found and stacked healing mana crystals like it was no big deal—killed. He'd had the pleasure of meeting higher-level healers before. Getting a baby healer killed was about the equivalent of drop-kicking a puppy.
+
+Guilt and rage threatened to swamp him. Letting out a shuddering breath, Zach reached for training he'd long ago rejected as a lifeline. Zach used it to set the unhelpful feelings (like grief, pity, and empathy) aside and figure out how he was going to get out of here alive. God, his family were dicks. Who did that to a kid?
+
+No, he couldn't get lost down a rabbit trail to the past. He had to focus.
+
+Trusting that the mimic chairs wouldn't move on him until he went to that side of the room, Zach dropped into a cross-legged meditation sit. He only kept a small ribbon of fire juggled back and forth in his hands out of pure necessity to see. Otherwise, he cleared his mind to think.
+
+His situation wasn't great. This was a level 1 dungeon in name only. It hadn't been completed in so long that the mimics had multiplied beyond reason. The National Guard was right. This place was just about to blow its top, then overflow nightmare mimics all over Carson City. The National Guard would try their best, but the mana would short out their weapons and these mimics could look like anything. It's not like a dungeon stopped overflowing once it started, too. Someone still had to go in and clear it out.
+
+In addition, the Brighten family, who had always been a bunch of weird, sadistic fucks, had clearly altered it. No way this darkness was part of the original dungeon. Not on a level 1. Depending how they did it, there was every chance this dungeon would bring the darkness with it.
+
+Okay, so that was the bad. What was the good?
+
+The mimics died easily, and there were a lot of them. Blunt damage affected them so-so, but they burned.
+
+He needed to be less Zach and more Preston now. He had to lean on his training.
+
+A moment later, he shook his head. Nah, fuck Preston. That trust fund brat was too much of a daddy's boy to recognize he was being turned into a weapon until it was almost too late.
+
+Zach juggled for a living, slept under the stars when there weren't too many mosquitoes, and traveled wherever he felt like while meeting new and interesting people. He liked Zach.
+
+Besides, his Gift totally fit Zach and not humorless Preston.
+
+His Gift had been four words, and they'd surely be expanded when he hit level 5's Gift evolution, but they'd meant everything.
+
+Zach had spent the last few years finding himself, and now he knew his mana inside and out, just like he knew himself. The good, the bad, and the ugly.
+
+Which was why he knew what he had to do next was going to be such a terrible idea. Hopefully it was one of those "such a bad idea, it's actually a good idea" ideas.
+
+He'd only been telling a partial truth to Thomas when he'd said he had absorbed the Grade A fire crystal. The truth was he had only taken a sip of the power, and it had knocked him flat on his ass. He just didn't want to seem like a wuss. Everything in him had screamed he needed equally strong Air or something equivalent to balance it out.
+
+In fact, that little sip had been why he'd been able to play with so much fire today. It felt good to let it out. Too good, probably. The thing was, he was running low.
+
+Most people... well, all people generally spent mana out again using skill shards. Skills provided an outlet to use mana safely. It was one way to keep it from completely taking over your personality, which was why he had been glad to see Thomas would have gotten a healing-type skill shard. Not that... not that it would do him any good now.
+
+Anyway, Zach didn't need skills. He was his mana.
+
+Grade A level 2 mana crystal was potent stuff. Stacked on top of a foundation that was almost too much uncomfortably fire... well, it was going to make for a lot of fire. Possibly too much for him to handle, but what choice did he have? He needed the fire to see and to fight. If he burned his way out of here, he could collect his reward from the National Guard dudes and quench the fire inside. Rebalance himself.
+
+Maybe. If the fire didn't burn away his sanity, too.
+
+He wondered if anyone had ever managed to destroy a dungeon from the inside before.
+
+Zach eyed the chair that was very likely a mimic. "Welp, you guys killed my friend and really pissed me off. You get what you get."
+
+Adjusting to a lotus position, he took out his Grade A fire crystal from his storage bag and held it in his cupped hands.
+
+He inhaled sharply through his nose as he absorbed the first of it. It was like lava, only if lava was made of pure light and euphoria. In some ways, it was better than any drug.
+
+He could get addicted to the promise of fire. It burned everything away. Fear, doubt, regret. All of it went up in ashes. It burned, fed on itself to burn more and it felt so, so good.
+
+When he opened his eyes again, Zach saw everything through a red haze. He didn't need an external flame to see. Now he was the flame.
+
+The chair had scooted closer while he'd been distracted. With barely a thought, a jet of fire lashed from his hands and set it alight. The heat from the dying mimic was good enough to bathe in, and when Zach inhaled, the smoke didn't even bother him. Why would it? His mana was fire, and he was his mana.
+
+A part of him that wasn't mentally with the flames reflected sadly that Thomas could have had some of this potential, but only with Healing. The guy hadn't realized how much the healing power already protected him. Even Zach had almost choked on the smoke when his mana had been on fire. Thomas had thrown off the effects of smoke inhalation in a few moments.
+
+Such potential from someone who'd been a genuinely good guy. The dungeon had snuffed him out, and Zach was more than happy to make this place pay.
+
+He laughed as he burned everything in the room, then moved to the door. Flames crackled around his feet, outlining every step.
+
+Everything in this dungeon was going to burn.

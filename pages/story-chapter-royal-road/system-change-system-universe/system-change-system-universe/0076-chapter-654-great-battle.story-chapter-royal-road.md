@@ -1,0 +1,141 @@
+---
+id: 6e6f7286-80fa-5b1d-a204-0b73491046dc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 654: Great Battle!"
+slug: 0076-chapter-654-great-battle
+partOf: system-change-system-universe
+position: 76
+ownLength: 2089
+unit: words
+publishedAt: 2026-06-02
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3485061/chapter-654-great-battle"
+royalRoadId: "3485061"
+---
+
+Chapter 654: Great Battle!
+
+"Awe! What the hell!?" Jace half-shouted as he walked over with his kukri in hand—slicing one of the World Boss's minions in half as he made his way. "I wanted to fight the giant worm!" He kicked a rock and sighed. "Stupid Battlelust not building up fast enough."
+
+"No sense in complaining," Derek replied. "We weren't doing any of this for fun, after all... no matter how much fun we may have had. This was for survival and escape from the abandoned planet." He looked down for a second. Derek had to admit, while he didn't like his fight with Nikolai just for the fact that he was unprepared for it to be as rough as it was, he did have fun.
+
+And when it comes to this Amber Tyrant...Derek looked over his shoulder at the dead snake. I have to admit, I was having a lot of fun once I figured out a new use for Void Creation. He also believed that he would eventually have been able to wear the snake down alone and beat it. And yes, he was a little disappointed that he didn't get to do it all fully solo. However, it was exactly like he told Jace—this fight wasn't about him, it was about everyone as a group.
+
+He would rather end the more dangerous fights quickly when he was carrying his friends with him in his Time Prison. He'd risk his own life all day long, but he didn't want to do that with them unless it was absolutely necessary.
+
+"Fine..." Jace muttered. "But remember... you're the ones who want to get off this rock—not me."
+
+"Great battle! If I do say so myself," Klaus suddenly materialized beside the group as Marrick floated behind everyone, mopping up the remaining larvae. "The way you adapted and learned a new way to use your void skills was marvelous. The World Boss truly had no counter for that once you figured it out. You are an adventurer through and through."
+
+"So you watched the entire thing?" Derek asked.
+
+"Watched?" Klaus shook his head with a smile. "Oh, no... I participated!"
+
+"You what?!" Both Derek and Amelia turned and gave Klaus an accusatory look.
+
+"I was but a tiny, unnoticeable ant floating around the battlefield. The few hits I landed on the World Boss did just as I had suspected them to do... absolutely nothing. I did manage to take out a few of those larvae, though. I really must find a way to restore my previous fighting prowess. I feel as if my strength is only what it was when I was under level 200, and wits can only carry you so far in battle," the former Adventurer's Guild Leader explained.
+
+"You just wanted to participate in the fight so you could get a World Boss Title," Derek looked at Klaus and said.
+
+"I am hurt that you think so little of me..." Klaus replied. "But yes. That is why I did it."
+
+"Speaking of World Boss..." Derek muttered, then brought up one of the notifications he'd received.
+
+...
+
+Congratulations!
+
+You have taken part in the slaying of a level 325 World Boss: The Amber Tyrant.
+
+Calculating total contribution...Calculating total contribution...Calculation complete...
+
+Total Contribution: 68%
+
+Essence to Next Level Gained: 435%
+
+Total Essence to Next Level: 64%
+
+Level UpLevel UpLevel UpLevel Up
+
+...
+
+Dang...Derek thought internally. I thought I would have had much more contribution than that. I guess Amelia and her affinity really did way more damage to The Amber Tyrant than I thought she did. Still, it wasn't like Derek was disappointed in his gains. He did receive over four levels' worth of essence—which was nothing to scoff at. The only real problem was that it was going to leave him with a lot more stat points he would have to agonize over assigning.
+
+"Oh... hey!" Jace suddenly blurted out.
+
+"What?" Derek asked.
+
+"Somehow, I received contribution for the big worm, too," Jace replied.
+
+"Ah... I see what happened," Derek said. "The larvae were technically part of the World Boss's fighting style since it avoided getting close to people. So you fighting them counted toward contribution." That also made sense why his contribution was a little lower than he'd expected it to be.
+
+"That would explain the Title that I got, too," Jace said. "Since I didn't get a real hit on the monster, I was surprised when it popped up for me."
+
+"Was that your first World Boss?" Derek asked Jace.
+
+"Surprisingly, yes," Jace said. "I didn't even know about them, and I've been on countless Battlefield Planets. I'm surprised I didn't run into any while clearing areas—especially with my Battle Instinct. Then again, I never ran into any situations where I had the same feeling of imminent danger like I did with that snake and a couple of the other areas. Speaking of which..." Jace looked to his right. "I really wonder what is over that way that has my Battle Instincts still screaming at me not to go."
+
+"Well, that's not something I plan to find out right now," Derek replied. "Maybe if you haven't already gone and gotten yourself killed by the time I come to get you, we can fight it together."
+
+"If I haven't already killed it and every other monster on this planet by that time," Jace said with a slightly deranged grin.
+
+"Yes... if that hasn't already happened," Derek replied with a chuckle.
+
+"I'm sure there will be even more fun, dangerous things for us to do once we're stronger than everybody else in this Origin System," Jace's grin widened. "Just imagine the fun fights we could have with each other and everyone else."
+
+"Yeah..." Derek said lightly. Jace certainly knew what he wanted to do in the Origin System, and that was getting stronger so he could fight more interesting people and monsters. Derek obviously planned to get stronger, too, and he could definitely admit that he wasn't against the fun fights, but he had gained friends—and even those he would consider family—during his stay in Cydaria, so he now had more reasons to get strong other than just for the sake of being strong and having fun fights. He had people to protect and raise up.
+
+Derek looked around and saw Marrick squeezing the life out of the final larva and nodded. Looks like he's getting as much out of this as he can. I should have let Edgar stay—I would have if I'd known I had the counter to the World Boss or how the fight was going to go. Oh, well... He shrugged, then his eyes glanced at the flashing notification. Let's see what this is.
+
+...
+
+Congratulations!
+
+Title Upgraded: World Boss II
+
+...
+
+Oh! Derek stared at the notification with wide eyes. He couldn't help but wonder how rare the World Boss Title was. He unlocked it with the first World Boss, and it upgraded with the second. He wasn't sure if that was because it increased with each World Boss or if it was based on the boss or system, or what. All he knew was that he was a fan of the rewards for the Achievement when he unlocked it in the Davenresh System—even though it was supported by the Origin System when it was watching—so he was excited to see what the upgraded Title would give him.
+
+...
+
+World Boss II: Not only have you defeated more than one World Boss, but you have done so while being a part of different systems in the universe. Through this, the Origin System has opted to upgrade current World Boss I Title to World Boss II. For upgrading the Title to World Boss II, you will be rewarded 175 Free Stat Points and 1 Origin Upgrade Point.
+
+Invasion MVP Activated...Free Stat Points Reward Increased to 225...Origin Upgrade Points Increased to 2...
+
+...
+
+Okay...Derek thought. It's not as great as the initial unlock because it is only an upgrade, but the Invasion MVP Title is still coming in clutch. The stat reward was nothing to scoff at, and Derek had a feeling that the Origin Upgrade Points would start to come in handy very soon. They may not have been as useful currently as one of the Skill Upgrade Tokens would be, but once he began figuring out the conditions to upgrade his skills and made the decision on the best skills to use them on, they would for sure be handy.
+
+It was a possibility that the Origin Upgrade Points could come in even handier than the Skill Upgrade Tokens. This was because the tokens forced the upgrade, which had the potential to make the skill miss out on certain paths that it could have taken otherwise, while the points could save him time—maybe even months or years' worth—when it came to progressing certain skills.
+
+I still wonder if it would be worth using them on Greater Meditation just to see if there is an upgrade available for that skill once it gets to 100%, he thought, then shrugged. With the current situation, he finally felt like he could relax a little and not instantly spend his stat points, too. Still... let's see how the stat sheet is looking, he thought as he pulled up his new status.
+
+...
+
+Name: Derek HuntAge: UnknownLevel: 258Essence: 64% [+]Affinity: Void [-]                            Void Affinity: 64%Class: Mythical Void MonarchRace: Void Human
+
+Health: 56,625Mana: 53,275Stamina: 56,500
+
+Strength: 1,800Dexterity: 1,800Endurance: 2,260Vitality: 2,265Intelligence: 2,110Wisdom: 2,131
+
+Free Stat Points: 365Origin Upgrade Points: 10Skill Upgrade Token: 1Origin System Store Credits: 1,250,000
+
+Skills: [-][Absolute Nullify(B) Progression: 100%, Upgrade Possible][Bare Fist Specialty(D) Progression: 26%][Basic Repair(E) Progression: 42%][Chain Lightning(D) Progression: 100%, Upgrade Unavailable][Channel Void(C) Progression: 100%, Upgrade Possible][Cleaning(E) Progression: 86%][Cure Toxin(D) Progression: 90%][Dismantle(E) Progression: 100%, Upgrade Unavailable][Enhanced Movement Speed(E) Progression: 34%][Greater Meditation(B) Progression: 85% ][Multi-Strike(D) Progression: 100%, Upgrade Unavailable][Polearm Specialty(E) Progression: 22%][Powerstride(D) Progression: 58%][Rejuvenation(D) Progression: 100%, Upgrade Unavailable][Resist All(A) [+]][Spatial Collapse(C) Progression: 59%][Spatial Redirection(C) Progression: 30%][Spatial Rend(B) Progression: 56%][Sweeping Slash(D) Progression: 100%, Upgrade Possible][Telepathy(D) Progression: 68%][Time Prison(C) Progression: 100%, Upgrade Possible][Veiled Sight(B) Progression: 7%][Void Call(B) Progression: 61%][Void Creation(A) Progression: 3%][Void Eclipse(A) Progression: 6%][Void Sense(C) Progression: 100%, Upgrade Possible][Void Shift(B) Progression: 90%][Void Steps(C) Progression: 100%, Upgrade Possible][Void Storage(B) Progression: 1%][Void Travel(S) Progression: 2%][Whirlwind Slash(D) Progression: 68%]
+
+Titles: [-]
+
+Absolute SaturationApex Appetite IDefenderDungeon Explorer IDungeon Traveler IEnforcer of Oaths IEnigma IEvolutionExplorer IGiant Slayer IVInvasion MVPMythicalPunching Up! IRepetitive Dungeoneer VThe Bigger They Are IThe ImpossibleTierbreakerUnityUnknown Slayer IWorld Boss II
+
+...
+
+Derek looked over the Status Sheet, then had to do a double take. He didn't often open the Affinity or Essence tabs, but he decided to check out the Affinity tab while he was looking and almost jumped for joy when he saw that his Affinity had increased by a percentage. He wasn't sure if it was close to increasing already or if he'd actually gained a lot with his connection to the void, but he certainly wasn't going to complain.
+
+Other than that, he had a whole slew of stat points waiting for him to distribute, and his Origin Upgrade Points were up to 10. He was really liking the World Boss II upgrade and liked the Invasion MVP Title even more.
+
+And, of course, there were the skill progressions. The fight didn't last long enough to yield incredible gains in those aspects, but there were some. Both his Polearm and Bare Fist Specialty skills had small increases, as did his Void Shift, Veiled Sight, and Spatial Collapse skills.
+
+He was more interested in the one percent increase he'd gained in Greater Meditation and the two percent gain he'd received in Void Creation. He actually couldn't wait to see what Void Creation would be like as it leveled.
+
+I wonder if there is a chance that a very upgraded Void Creation skill would allow me to create armor or weapons on par with Mythic or better rarity, he thought. He doubted it, but one could never know with the void affinity. There really was a chance that he had been sleeping on his Void Creation skill. Though it's not like I was able to progress it before. Still... It is an A-ranked skill, so I bet it turns into something overpowered. It's not as great as Void Travel's S-rank, but it's up there.
+
+Derek, fully satisfied, closed his Status Sheet and let out a long breath. He looked around and saw everyone else likely going through their own gains, then he looked back at where the outpost was. I guess it's time to see if Brandi can do her thing.

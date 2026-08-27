@@ -1,0 +1,139 @@
+---
+id: 28ac7cbd-ffe0-58d7-b54d-038b7c5a1c39
+page-type-slug: story-chapter-royal-road
+title: "Chapter 47"
+slug: 0047-chapter-47
+partOf: phoenix-ascension-cultivation-litrpg
+position: 47
+ownLength: 1996
+unit: words
+publishedAt: 2025-11-10
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2749896/chapter-47"
+royalRoadId: "2749896"
+---
+
+The nest that stood on the top of the largest tree in the Kong Lin forest was gone. It burned into nothingness, as did the Phoenix that once inhabited it. Her offspring, too, disappeared. Flying off into the distance, propelled only by the sacrifice of her Mother.
+
+By the time I realised what had happened, it was too late. Before me stood the wasted fruit of our labor. Weeks upon weeks of planning and preparation had gone to waste in less than an instant.
+
+“Forced rebirth...” I muttered, almost unable to believe what I’d just witnessed. Such a thing should not have been possible; however, the proof stood before my eyes. I didn’t know if that information was worth all the pain and effort we’ve gone through.
+
+In my hand was a small, insignificant ball. Its orange color brought me no warmth, as what I sacrificed to grab it was far more than it. However, I had no time to regret.
+
+Looking at the nest, I fell into contemplation. A Phoenix only underwent rebirth every two hundred years. That was a fact known by everyone, and we knew that his particular Phoenix was at least one hundred and fifty years away from that. So how did she manage to force it?
+
+I shook my head. Perhaps the maternal love she held for her chick forced her hand. My biggest worry was not what had gotten away, but the consequences of my failure.
+
+The other elders flew toward me. All fools below the Nascent Soul realm, almost defeated by a bird that was still wet behind the ears. That was no simple chick, but I would be ashamed if I were in their place.
+
+“Elder Mi, what happened?” The woman from the Shining Jade Sect asked, and I could only hold in the resentment I felt toward her incompetence.
+
+“The Phoenix forced her rebirth and used the energy to send her chick away to safety. Have you no eyes to see?”
+
+My response was blunt and aggravated. I didn’t have any desire to reply to any more of their dumb questions. They didn’t know that I would have to bear the consequences of this failure.
+
+I flew slightly higher and quickly assessed the damage. Every Foundation Establishment cultivator we brought perished, eaten by the vile beasts. My heart ached at the thought, and at the fact that I couldn’t even give them a proper burial.
+
+Even if they weren’t my own sect members, not all of them, at least, they had value and potential. Now it had extinguished.
+
+We’ve also lost a lot of Core Formation cultivators to the Phoenix chick, amongst them was that useless Quasi Golden Core bastard. He wasn’t able to track a simple animal. But what else should I have expected from the Reverend Pill Sect? All they knew was refining.
+
+The rest of the elders from the Five Great Sects looked at me with a mix of reverence and fear. I snorted and turned away, using the meager amounts of Qi left to disappear from their sight.
+
+I really didn’t need to deal with them at the moment, as I felt a headache coming on. “Search for it.” Were my last orders before fading away.
+
+Weeks! Weeks of preparation gone to waste. If it wasn’t for that Phoenix chick's careless abandonment, we would have never discovered a Phoenix had set up its nest here. It was almost inconceivable. Setting up a nest in the Kong Lin forest? What for.
+
+It was no doubt the same Phoenix we hunted months ago. Back then, I could only sneakily steal the embryos from the eggs inside the nest. With the group of disciples I had, I wasn’t sure we could take her on.
+
+Even if she’d recently laid those eggs, a Phoenix was still a Phoenix, and I didn’t want anybody to know about the matter besides the members of my Phoenix Ascension Sect.
+
+However, she showed up just as I grabbed them, and I could only run away before she saw me. I tried to help my other disciples, but they got torn to shreds faster than I could react.
+
+That said a lot. As a Middle Stage Nascent Soul cultivator, I couldn’t even react to the Phoenix.
+
+However, how could I have ever imagined that I’d missed one?
+
+After that event, one of the other sects had somehow heard about a rumor, but didn’t believe it at all. They foolishly sent some Foundation Establishment cultivators to confirm, but they ended up dying only days after.
+
+One of them survived through a stroke of luck and teleported outside of the forest it previously resided in, and confirmed the rumor. They’ve been trying to get to it ever since, and even made the Phoenix move nests. But to think it was the Kong Lin forest is moved to… inconceivable.
+
+The Kong Lin forest was no environment for a Phoenix to live in or develop.
+
+It was no wonder that our disciples who were sent to investigate the disappearances of a couple of Qi Condensation disciples had died. If that Phoenix chick was the culprit for all those deaths…
+
+As I flew absent-mindedly, I stumbled upon a cliff. I decided to rest there and assess my losses.
+
+First, the Phoenix Imitation technique I developed had lost its core. The little ‘worm’, as I liked to call it, which I used to give it the power of Death, had been swallowed by the Phoenix. The irony of fate was that it was made using its own egg’s embryo, hence why she could not resist its allure.
+
+It would have worked well on other Phoenixes, but not as well as on her or her kin. However, that was gone. I only had two embryos to begin with, and the first one had been destroyed during experimentation.
+
+The Phoenix Essence I’d used to create the main body had also been more or less used up. The tiny orange ball in my hand was the essence I managed to snatch from the Phoenix when it tried to escape.
+
+It had not been refined yet, and I wouldn’t take it for myself either. If nothing else, I had to show some meager results.
+
+Secondly, the talismans I’d prepared for this occasion had been used up. Even after being destroyed, their effects would linger. The suppression talismans I used would have an effect that lasted up to half a day in the area due to the modifications they made to the environmental Qi.
+
+Not to mention that those talismans were specifically made to suppress Phoenixes. The Phoenix Blood I used to paint them with would require a lot of work to recover. Another great loss.
+
+And the biggest loss of all… was yet to come.
+
+After sitting in meditation for half a day, I managed to recover enough Qi to keep on flying. I also used that time to calm my Dao Heart and reinforce my will. For what came next would be more difficult to bear than the fight before.
+
+I flew, and flew. Exiting the Kong Lin forest, passing mortal villages and insignificant clans before entering a small, inconspicuous mountain range. Inside one of its valleys was a cave which I entered effortlessly, then took a deep breath and pressed down on a stone.
+
+A door opened, rippling with Space Dao Marks, and I stepped in.
+
+When I exited, a man was waiting for me. He must have known I would be arriving soon, and judging by his presence, he wasn’t happy.
+
+Has the news of my failure reached him already?
+
+I didn’t know, but I would have to face him anyway. I fell to my knees as soon as I could, though it may have been a moment too late, as he grunted in displeasure.
+
+“What news do you bring me?” His voice sounded out through the empty room, its cold walls bouncing it back right into my ears.
+
+“This one has failed,” I replied without skipping a beat. That very same moment, the aura of a Soul Transformation cultivator fell upon me. He was two major realms above me, so any sort of resistance was futile.
+
+“Ling Mi Hua, you dare kneel before me despite uttering such words?” At that moment, a shudder ran down my spine. All my instincts told me that if I didn’t kowtow with my forehead to the ground in the next moment, I would die.
+
+Immediately, I hit my head against the cold stone floor, blood seeping out from my forehead. “Lord, forgive this one for his failure!” I couldn’t say anything else. All my arrogance and aloofness could only disappear when facing such a powerful expert.
+
+“Hmph. Forgiveness… tell me what happened!”
+
+“Lord, so it was like this…”
+
+After telling him every little detail, from the moment I stole the embryos to the moment the Phoenix forced its rebirth and saved its child. Not a single detail was missed. If the man wanted to, he could have Soul Searched me and gotten the answers, but that would have also crippled me. The fact that he didn’t do it meant that I still had some value in his eyes.”
+
+“I see… Interesting. Hand it over.” Before I could even react, the essence I stole from the Phoenix flew out of my robe and landed in his hand.
+
+“Hmm…” He analyzed it carefully, though I couldn’t see anything. My head was still glued to the floor. “A seven-hundred-year-old Phoenix… very pure essence. Mated with a nine-hundred-year-old Phoenix from a pure bloodline. Hm… the chick should be of an extreme purity.” The coldness in his voice amplified several fold the further he analyzed, and even I was shocked at how detailed that information was.
+
+He could deduce that much simply from a bit of essence? More importantly, nine-hundred-year-old Phoenix? It was older than my great-great-great-grandfather, and he perished two hundred years ago. I myself am only two hundred and fifty years old, and I haven’t much lifespan left…
+
+“Imbecile!” I got pulled from my thoughts by the man’s anger, his booming voice making me spit out blood. Yet, I didn’t dare raise my head. “You killed two incredible specimens for your simple trap? You should have informed me beforehand!”
+
+“Lord, this one knows his mistake.” I bashed my head against the floor once again, more blood seeping out of my forehead.
+
+“Enough. Leave, I will have new orders for you soon.”
+
+“Thank you, my Lord!”
+
+***
+
+Ling Mi Hua left with his head bowed and spine at a ninety-degree angle. At that moment, he looked like nothing more than a helpless mortal and not a mighty Nascent Soul expert.
+
+The man in the chair let out a heavy sigh, his sword-shaped eyebrows knotting into a frown. That matter gave him a light headache. Not only had he not gained anything from his investment, but he also found out that the investment had also cheated him.
+
+If that Ling Mi Hua wasn’t so useful in this backwater continent, I would have refined his soul.
+
+The thought didn’t give him any warmth. Despite being a Soul Transformation cultivator, he was still five hundred and fifty years old. Unlike a Phoenix, he couldn’t undergo rebirth and start over from his peak.
+
+So the loss of so much Phoenix Essence made his heart bleed. However, he could only accept the loss.
+
+He tossed the small orange ball of Phoenix Essence into a vial and placed it within his bag of holding, then tapped his fingers on the armrest in a pattern.
+
+A shadow transformed into the shape of a man, kneeling on one leg to the side. His features were indiscernible, and his aura was hidden. At first glance, it was impossible to tell what his cultivation level was.
+
+He didn’t say anything, and the man in the chair only gave him a simple nod, filled with meaning.
+
+He then disappeared into the shadows as they returned to normal.

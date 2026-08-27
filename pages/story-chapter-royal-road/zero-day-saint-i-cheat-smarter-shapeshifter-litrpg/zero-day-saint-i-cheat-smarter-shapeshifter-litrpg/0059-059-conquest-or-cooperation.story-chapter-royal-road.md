@@ -1,0 +1,221 @@
+---
+id: 71a53458-27e6-5af9-96ab-e3e4aebd8e5c
+page-type-slug: story-chapter-royal-road
+title: "059 - Conquest or Cooperation"
+slug: 0059-059-conquest-or-cooperation
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 59
+ownLength: 2303
+unit: words
+publishedAt: 2026-07-20
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3700345/059-conquest-or-cooperation"
+royalRoadId: "3700345"
+---
+
+Over the trip I learned that I really didn't like the horse shape. It felt intensely uncomfortable, in a way the unicorn didn't. The only reason my unshod hooves weren't obliterated by the trip was my Minor Regeneration trait. It only barely kept them from falling apart faster than they could recover.
+
+Before we approached the mall, I returned to my half-dragon shape. That was the entire reason I had any hope this plan could succeed—that and the whistle. I was glad to be out of the horse shape.
+
+I also equipped the Crown of the Laughing Queen and the glaive. Just in case. For the same reason, I gave Helene the Elven Cloak, still smelling of smoke and fire.
+
+"I have to say, this somewhat clashes with the lab coat," she said while she clasped the cloak.
+
+I stood there, in my stylish black outfit, wearing a crown that didn't fit at all, a fancier dog's collar, and wielding a crude gnoll glaive, and gave her a pointed look.
+
+She looked at me and nodded. "Point taken."
+
+Then she pulled a metal bowl out of her inventory and filled it from a bottle of water. Her boys had done a fantastic job of keeping up with me, but they were pretty winded.
+
+"They'll need a minute," she said.
+
+"You sure about this? On my own I'm really good at running away. Did nothing but run away for days. And in there, they need to be very well-behaved. That place is littered with traps."
+
+Helene didn't face me. She was crouching next to the dogs and ruffling their fur while they took their turns drinking.
+
+"It is too big an opportunity to miss out on. You are one of the few of us who is doing those things. Testing the inner workings of the Blessing. I need to see and understand myself. You might miss things. They will behave. We just have to take it slow. And if you'd assist me in lifting them over trip wires, it'll be even safer."
+
+"Alright, Helene. Will do."
+
+It was odd. Last time I went in there with a similar plan, I had been terrified. And now, even though this body's stats were objectively weaker, I felt none of that fear. Just a worry for Helene and her dogs.
+
+When the dogs had caught their breath, we approached the loading bays around the backside of the mall. At the gate where I had left last time, I pulled out the whistle. Helene made sure that the dogs were alert and warned before I blew it. It was louder than expected and very high-pitched. Helene likely didn't even hear it, though the dogs flinched.
+
+For a moment, nothing happened.
+
+Then there was the hum of an engine, and the gate began to lift. The two kobolds on the other side looked downright bored. That was until they saw us waiting for them. I had already put up my arms in a gesture of surrender.
+
+The first shrieked and slammed on the gate control, reversing its direction. He was about to run off, likely to sound an alarm, before the other one grabbed him.
+
+"Wait!" he shouted. His eyes were fixed on mine until the gate fell between us again. Even through the closed gate, I could hear their conversation. That second one had recognized me. He'd been the one who'd given me the whistle.
+
+Had he asked to take up guard duty back here just for this opportunity? And had he identified me within seconds by my eye?
+
+["Do individual Created spawn with high variations in attributes?"] I asked in Guide chat. Before Gabriel could answer, the gate rolled back up again.
+
+"You!" shouted the familiar kobold. "You… you have returned. Have you been Mammon's spawn all along? Was your visit a ruse?"
+
+I made a show of putting the glaive on the ground.
+
+"It was a ruse, but not in the way you think," I said, slowly walking closer. "I have never been Mammon's, and my claim of serving him has been a lie. I've opposed him from the start. And now I have slain him, but I got marked in return. It has cost me, and I will forever be scarred for doing so."
+
+The other one pulled on his arm and whispered. "We should sound the alarm. We have—"
+
+"I can hear everything you say," I said.
+
+"Witch! Dragon-blood! False monarch!" the kobold shouted at me.
+
+I pointed at the crown on my head. "In the clan this belongs to, it doesn't grant power because of ancestry or blood. It only marks me as the strongest of the clan. I do not wish to fight, but if you try to sound the alarm, I will have to stop you. So I won't have to kill any more of your clan."
+
+That shut that one up. The other stepped forward.
+
+"What is it you want then? Last time you lied, why should I trust you again?"
+
+"I want to offer cooperation. An alliance. I can only apologize for that last deception. I am Eve. Who are you?"
+
+"Dratz'zt."
+
+"Dratz'zt. Will you lead me and my friend to your leader?"
+
+He looked past me at Helene and her dogs. "A human? And food? What do they have to do with this?"
+
+"They are part of the alliance. I speak for a group of humans."
+
+Dratz'zt eyed me suspiciously. "What's in it for you? You aren't even one of them."
+
+"Cooperation means survival. And that is what we all want, don't we?"
+
+He leaned to the other one. "Go ahead and warn them of her arrival. But no alarm. You hear me? No alarm."
+
+"They could have our hides for this!"
+
+Dratz'zt, who'd been so oddly submissive the last time, slapped the other one over the back of his head. "No alarm. Go."
+
+The other one ran off.
+
+Dratz'zt stepped all the way to the edge of the loading bay, his eyes fixated on her dogs. "They won't bite me, will they?"
+
+"I could have easily killed you last time, and I could easily do so now. I do not need trickery and dogs to achieve this."
+
+"Maybe you are just too—too dragon to sully yourself with my blood. Maybe you think lesser draconic are beneath you."
+
+"If you truly believed this, you wouldn't stand here on your own now. May we enter? And will you guide me once more, Dratz'zt?" Social Engineering 101: Address people by their names.
+
+"I will, mistress. Enter."
+
+["Yes, they do. Most of those you encounter will fall within a certain range, but there are always possible outliers."] Gabriel had replied directly into chat.
+
+Helene had moved to party chat. ["Immediate traps?"]
+
+["Not here, but beyond."] My minimap was lighting up with them. Apex Seeker made for a good substitution for a trap-finding skill.
+
+I helped lift the dogs up into the bay before I hopped up and held an arm out to help Helene. She looked over her shoulder at the discarded glaive.
+
+"Your weapon?" she asked. There was a hint of a smile in her eyes.
+
+"We aren't here to fight, are we?"
+
+She took my hand, and I lifted her up.
+
+"Please warn us of any traps, will you, Dratz'zt?"
+
+"No, I will not. Any kobold sees that, they won't respect you. To ally with us, you need to be able to move among us."
+
+Damn. He made a good point.
+
+"Very well. Go ahead."
+
+I paid a lot more attention to all those markers on my minimap. My subclass continued to not disappoint.
+
+The moment I stepped out of the loading bay into the mall proper, a new Task appeared.
+
+[Conquer the Mall (Personal Localized Task)
+
+Objective: Eliminate the current leaders of the clan and take their place.
+
+Hint: Killing alone is proof enough.
+
+Reward: ???]
+
+Oh, fuck this.
+
+The trip across the mall, which would have been a 5-minute walk in the before times, took us the better part of half an hour. The side corridors that weren't trapped were very much only meant for kobolds, with little room to spare for human-sized or taller intruders.
+
+And they were still trapped. At least on the lower floors. Once we rose higher, the dense traps and claustrophobic corridors gave way to a place that looked like an actual home for a people. Old shops, refurbished into living spaces or workshops. Kobolds of all ages, living their lives.
+
+Once more I was struck by how surreal this was. The Blessing simulated all this just to give us something to kill? Along with a quest to violently conquer it all? And we were supposed to be the good guys?
+
+["Did the Blessing make this into, well, this, just because I started treating them like people? Or was it always simulating all this in the background?"] I asked in Guides chat.
+
+"I couldn't tell specifically, but I'd assume this would happen with or without you," Gabriel replied.
+
+The trip had also given me time to discuss the Task with Helene. We were both intrigued. Doing this the violent way meant I'd get both this Task Reward and a reward from the Crown. But it also clashed with my plans and intentions. I needed cooperation, not submission enforced by fear.
+
+Eventually we were led into the mall's back offices on a higher floor. What had been an open floor office had been transformed into some kind of gathering hall.
+
+There were dozens of kobolds gathered here, and they had all been waiting for our arrival. A central rug-covered space had been cleared, right in front of whom I assumed would be the kobolds' leaders. Sitting on a dais of office desks was a pair of kobolds, one female and one male. The woman wore robes similar to the casters I had already seen before, but more intricate. She also wielded a staff, its cheap faux-elegance reminded me of the weapon we'd looted for Ash from the servants of Mammon. How did that arrive here?
+
+Something told me that the other one was her partner. He was nearly as tall as a human and incredibly buff for a kobold, wielding a wicked-looking spear and a quiver of javelins. Brains and brawn, ruling in union.
+
+The crowd parted as we entered. The female ruler pointed at Dratz'zt and then in front of them.
+
+"Dratz'zt. Here. Explain yourself."
+
+Dratz'zt squeaked and rushed forward. There was a small tremble in the crowd when he crossed the rugs. The air smelled faintly of dust. And chalk? I looked over at Helene. She nodded. She'd noticed their reaction, too.
+
+"Remember," I called after him. "I'd hear your whispers. If you need to talk without me overhearing your words, I will step away."
+
+Dratz'zt looked between me, his matriarch and his monarch. Both leaders exchanged a glance before she spoke. She was angry. That wasn't a good sign.
+
+"Stay, dragon-kin. Dratz'zt. Speak up."
+
+Dratz'zt nodded. "Yes, First Chosen. This one claims she is the one who ended Mammon. She has infiltrated our ranks before, wearing the skin of a kobold. She claims she seeks cooperation."
+
+"Infiltrated?" The First Chosen asked, looking over at her partner. "Why do we only learn of this now?"
+
+Dratz'zt did everything in his might to become even smaller than he already was. "It was Wise Kri'zah who made the call. We are not to question the Wise."
+
+In the crowd, I spotted some kobolds wearing hooded robes. Their tooltip proclaimed them as Kobold Ritualists. I really needed to pay more attention to this.
+
+"If a Wise lets an enemy into our ranks, you better speak up, fool!" This was the first thing the male leader had said.
+
+"Yes, Second Chosen. I will henceforth."
+
+The First Chosen addressed the crowd. "Is Kri'zah present?"
+
+Dratz'zt replied. "Her duty is still guarding the front."
+
+The First groaned. "Ugh, fine. Why are you here with the dragon-kin? Why not a Wise?"
+
+"She, uh, entered from a side entrance. Not meant for intruders. No Wise guard those."
+
+The First rubbed her face. "We might need to change that. Step aside, Dratz'zt. You, dragon-kin, step forward. You, human, stay and keep your creatures at bay."
+
+I held an arm out toward Helene. "This is Helene. And I am Eve. Hyena Matriarch and Sin-Slayer." I stepped forward, just to the edge of the circle of rugs. The entire crowd made an admirable effort at not trying to seem like they were collectively holding their breath.
+
+I kneeled down and pulled a rug aside. It revealed part of an intricate circular pattern of glyphs that had been drawn onto the carpeted office floor.
+
+The crowd did not like that. Dozens of hands reached for weapons, though their gazes all flicked to their leaders, who held steady.
+
+"Oh, kinky," Lucy's voice spoke in my head. "They are scared shitless of you, but still prepared for a little dragon bondage session."
+
+Helpful, with the worst possible phrasing. That's Lucy for you. I swapped to party chat.
+
+["If they spring this trap, I can ignore its effect for about 8 seconds. I think we need to kill some or all ritualists, the hooded ones, in that timeframe."]
+
+["Got it. I'll be ready. Tight timeframe. Take care."]
+
+I held eye contact with the Chosen as I stepped into the circle. This only tensed the crowd more.
+
+"You are such a sub, Eve," Lucy said.
+
+["Screw you,"] I wrote in Guides chat.
+
+I walked up until I was in front of the dais.
+
+"Brave," the Second said.
+
+"Or foolish," the First said.
+
+"I can't ask you to trust me if I don't do the same."
+
+"You lie," said the Second. "You think you can evade our trap. That is not trust, but cunning. I will respect it."

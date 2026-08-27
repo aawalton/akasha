@@ -1,0 +1,199 @@
+---
+id: 29fa26a9-06dd-5fc5-b0f0-ecf84a76dc25
+page-type-slug: story-chapter-royal-road
+title: "Chapter 162 – Caspian's Plea"
+slug: 0162-chapter-162-caspians-plea
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 162
+ownLength: 2278
+unit: words
+publishedAt: 2026-08-15
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3816501/chapter-162-caspians-plea"
+royalRoadId: "3816501"
+---
+
+Liora, Cee, Renir, and even Smokey regarded the newcomer merman with unhidden suspicion. Liora, in particular, felt annoyed. Her foot hurt. She had helped all these merfolk. She had healed a bunch of people before, purified them of corruption without asking anything in return.
+
+Yet now, when she needed a tiny, little curse broken, suddenly she was demanded payment. Liora stepped closer to the edge of the water, deliberately puffing up her feathers and stretching out as high as she could. In her dracoryx form, she was quite tall. In fact, the flimsy, algae merman looked like a green worm when compared to her.
+
+"Go. To. Hell." Liora said to him and let out a loud hawk's scream, which she might have amplified a little with her Resonance Mimicry. Not enough to deal real damage, but enough to send a message.
+
+Some of the merfolk dove underwater in fright. Some swam backwards. But the flimsy algae worm remained where he was.
+
+"Suit yourself. I guess you'll have to deal with that curse yourself," he shrugged.
+
+Liora's patience had run out. She was about to reach and grab the little asshole. Perhaps a good shaking would change his mind. Before she could, Renir shot a small lightning bolt at the merman, making him squeal from the sudden shock. The noise was rather satisfying.
+
+"Do you seriously think we'll take you with us after you threaten Liora? She's done so much for your people, and you dare to make demands of us. Frankly, I am insulted that you even brought this imbecile before us. Take him away!" Renir said, looking at Dolphar.
+
+The scene was comical. The little gem moving about and giving orders. The merfolk actually looked intimidated, with the exception of Dolphar, who was glaring at the algae merman.
+
+"I knew I shouldn't have brought you here. My apologies, Liora! I was hoping this merman would come to his senses, but it seems that I was mistaken. I shouldn't have brought him. I hope you don't see the actions of this individual as a reflection of our whole race," Dolphar said with a bow, then turned to the algae merman. "We're leaving!"
+
+"No, no, no! Wait, wait! I'll heal her! I'll heal her!" He suddenly exclaimed, his bravado deflating.
+
+"Free of charge?" Cee asked suspiciously.
+
+He looked torn, but eventually sighed and nodded. "Yes… Free of charge. M-My apologies… I shouldn't have been so demanding."
+
+Liora regarded him suspiciously, but the merman merely looked depressed. He swam up to the shore. "Would you please show me your leg?"
+
+She hopped over to him, and the merman looked at her leg from every angle, occasionally poking at it, which made Liora wince. After a minute or so of careful inspection, he placed his hands above the leg. His palm began to glow, and warm light enveloped Liora's injury.
+
+It felt like cool water was being poured on it. The purpleness receded, then the redness, until finally her leg was back to normal.
+
+"Here you go…" the merman said dejectedly.
+
+"Wow, as good as new," Liora cheered.
+
+"Yeah… it was a nasty curse which kept inflicting damage as well as trying to corrupt you. I believe any normal creature would have long since succumbed to the corruption, but you have natural resistance to it," the merman said, but his voice was growing more depressed by the second.
+
+Was he trying to earn Liora's sympathy so she would consider his request? That must be it. He was even making a sad puppy-dog face. Or was it a sad seal face? Whatever the merfolk equivalent was.
+
+"Okay, you've done your job. Let's head back! I hope you rest well after the difficult battle, Liora. You may remain here as long as you wish. Whatever you need, be it food or supplies, just ask, and we shall bring it to you," Dolphar said.
+
+The algae merman stared at Liora and Cee, begging them with his eyes, but Liora ignored him. She didn't want to deal with him. While his healing was very powerful and certainly would be useful…
+
+No, Liora! It is impossible to bring a merman with you, even if you wanted to.
+
+Dolphar was about to drag the merman away when he suddenly swam back to Liora and basically groveled before her in the sand.
+
+"Please, please, please! Take me on the journey with you! I wish to see the surface world more than anything else! I will provide healing for your party. Any injuries, I can heal at a moment's notice. I can provide protective barriers and make basic wards. Please, please, please!"
+
+"Stop it at once, Caspian!" Dolphar growled, grabbing the man by the arm and trying to drag him away.
+
+"No, please! I know you are reluctant because you think I wouldn't be able to survive on the surface. But I have a way! I only need companions because I am a healer and cannot battle against monsters. Please!"
+
+Liora was tempted. She looked at Renir, who also appeared deep in thought.
+
+"A healer would certainly be useful. There were so many cases when you two have been too close to death," the gem muttered.
+
+Cee scuttled closer to the water's edge. "And why should we bring you even if you are a good healer? You were trying to blackmail Liora into helping you!"
+
+"I-I'm truly sorry about that. But you are my only chance. It's not like I could ever ask humans for help," Caspian said.
+
+Dolphar and the other merfolk looked annoyed. "I don't understand your obsession with the surface. You are the best healer in the city, yet you wish to throw it all away."
+
+"Best healer…" Caspian snorted. "What does even matter? Nobody respects me because I can't swim the same way other merfolk can. I'm treated as nothing more than a cripple. Ridiculed as an eccentric because of my fascination with medicinal herbs. You only ever come to seek me out to use me, just as you have today."
+
+Liora and Cee scuttled together, watching the scene unfold.
+
+"This is like something out of a drama," Cee whispered.
+
+"I wish I had some popcorn," Liora agreed.
+
+Dolphar only looked to be more annoyed. "You are the one who chose to live in seclusion."
+
+"Because whenever I would come out, everyone would get annoyed at me for getting in the way and not doing a proper job. I can't do hard labour because of my physique, nor am I interested in combat magic. When I pursued something about which I felt passionate, you all dismissed me, only feeling fit to use me when you needed my abilities. I am done!"
+
+Dolphar looked like he would just drag Caspian away out of anger. Liora kind of felt sorry for the guy. She knew that he was likely trying to look piteous to get what he wanted, but judging from the reaction of other merfolk, it didn't seem like he was lying.
+
+It was true that all of the merfolk Liora had seen looked very physically fit. Even those who had supported Liora as mages looked like they were hitting the merfolk gym at least three times a week. Caspian looked scrawny by comparison, without any defined muscle.
+
+"Now, I kinda feel bad for him…" Cee whispered.
+
+"He says he has a way to traverse the surface. If that is true… a healer would be a great addition, as weird as he may be," Renir said.
+
+Liora agreed. Having somebody in the back, being able to heal your injuries at a moment's notice. Oh, it was like offering ice cream on a hot summer day! It was clear that they would have to continue fighting a lot in the future.
+
+This wasn't their last scuffle with the Night Order. Heck, Lucien would probably be coming after them with even more vengeance than before. Having a healer with them, even if it was a merman, might be the difference between survival and death.
+
+Liora, Cee, and Renir shared another look, then nodded in agreement. Liora stepped forward.
+
+"We might consider letting—Caspian, was it?—join our party," she began.
+
+"You can't seriously be thinking of indulging him," Dolphar said.
+
+"Under one condition! You must be able to move around on your own. We can't carry you along in a giant fishtank."
+
+"What's a fishtank?" Caspian asked. The other merfolk also seemed unfamiliar with the term.
+
+"It's a large glass bowl where people keep fish," Cee explained.
+
+The merfolk gasped. Apparently, the idea was repulsive to them. Well, it was, in essence, a prison for any fish inside.
+
+"I'll require some help…" Caspian said nervously.
+
+"I will not carry you around," Liora said firmly.
+
+"No, not that! As I said, there's a ritual—"
+
+"It is forbidden!" Dolphar said sternly.
+
+"What do you care about? I'm not using it on anyone else but myself!" Caspian argued.
+
+"There, there. Let him finish," Liora interjected, earning an annoyed huff from Dolphar.
+
+"It's a ritual that allows merfolk to walk on land. It's temporary and has to be redone every few days, but it should allow me to follow you on the surface," Caspian said.
+
+Bleh, that means he would be walking. Not exactly useful in our cases.
+
+Liora was about to reject it when she realized that their convenient flying days might be over. She looked up and down at Cee.
+
+"Why are you looking at me like that?" The spider asked suspiciously.
+
+"You're bigger."
+
+"Yes."
+
+"I don't think I'll be able to carry you and Smokey both. Well, I might be able to carry you, but I won't be able to take off with both of you in tow."
+
+"That is a problem… I guess we'll have to walk from now on," Renir noted.
+
+Liora returned her attention to Caspian. "Would you even be able to walk at any decent pace? I really hate going slowly."
+
+"I… I'll do my best! Just please give me the chance!"
+
+"Please, Liora, reconsider. This merman would only get in your way," Dolphar begged.
+
+"We will make the decision after we complete that ritual," Renir announced.
+
+Dolphar didn't look pleased at all. "If you hadn't saved our city, I never would have allowed this. Caspian, should you attempt this ritual, then know that the gates of our city will remain forever shut for you."
+
+Caspian gasped, his eyes drooping for a moment. Maybe he wasn't quite willing to go that far. After all, there was no guarantee this ritual would succeed. But after a moment, he perked up. "Either way, I want to try. I want to see the surface!"
+
+"Well, you heard him. Let's try the ritual. I suppose you need something for it, no?" Liora asked.
+
+Caspain perked. "Y-yes! I already have the main ingredient."
+
+Liora had no clue where he pulled it from, but Caspian produced a small, blue pearl. Maybe he had an Inventory.
+
+The merfolk around him gasped and retreated. Dolphar, in particular, looked as if Caspian had killed his mother. "Where did you get a tidepearl?"
+
+"I've searched the sea depths for this treasure, tracking it for months. For the longest time, I merely held onto it. But now I get to use it."
+
+Renir stepped closer to the water's edge, looking interested in the pearl. "That's quite the ingredient. It can be used in the highest quality potions. I've only ever held one in my hand."
+
+Liora's Treasure Sense was screaming at Liora that the tidepearl was valuable. She was barely able to hold herself in check. What a beautiful, shiny treasure!
+
+"Liora," Renir said in warning.
+
+Only then did Liora realize that she was moving closer to Caspain, who had grasped the pearl protectively.
+
+"Sorry, sorry! I won't take it… probably…" she said, but her eyes remained locked onto the pearl.
+
+"What else do you require for the ritual? I think we'd better hurry. I'm not sure how long Liora can contain her obsession with shinies," Renir urged.
+
+"The only other thing we need is the ritual circle… the only problem is that it needs to be drawn in water. The lines tend to smudge easily when drawn in sand. I never actually managed to draw it successfully," Caspian admitted, rubbing the back of his neck sheepishly.
+
+"Well, it's a good thing you have a ritualized water spider right here! Show me the circle, and I'll have it ready in a jiffy!" Cee announced proudly.
+
+"Wait… really?"
+
+"Yup!"
+
+Caspian's eyes sparkled with excitement as he produced something that looked kind of like paper, yet not at the same time. It was floaty like seaweed, and apparently couldn't be taken out of the water. The merfolk used it as paper, pretty much.
+
+The pattern was complex, but Cee actually seemed excited as she wove it into one of the pools. She had become so precise, and her thread stuck together firmly, even underwater.
+
+"Ready! One human merman coming up!" Cee announced.
+
+"We shall not take part in this. Caspian, from this day forth, you are not allowed back into our city," Dolphar said sternly, then turned to Liora. "While I am not happy you would indulge him, I, no, all of our city, is grateful for your help. Should you require anything, our offer still stands."
+
+With those words, Dolphar and other merfolk disappeared into the water, swimming out of the dungeon.
+
+Caspian, on the other hand, looked beyond himself with excitement. "Finally, finally! The day is here!"
+
+He swam up to the circle and gently touched the web, activating the ritual. "Let's hope I survive."
+
+Liora and Cee both gaped at the merman. What did he just say?!

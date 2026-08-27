@@ -1,0 +1,77 @@
+---
+id: 59c21f96-e701-53d3-96aa-e89cf151a0fd
+page-type-slug: story-chapter-royal-road
+title: "Best Foot Forward"
+slug: 0004-best-foot-forward
+partOf: squid-girl-evolution-monster-girl-evolution-litrpg
+position: 4
+ownLength: 1455
+unit: words
+publishedAt: 2025-08-29
+link: "https://www.royalroad.com/fiction/130456/squid-girl-evolution-monster-girl-evolution-litrpg/chapter/2558971/best-foot-forward"
+royalRoadId: "2558971"
+---
+
+Feet! Feet with ten little piggies! And attached to them, legs even! Looking down, I could tell that I even had a body! And woah! I can look down again? I had a feeling that I wasn’t a squid any more, but I needed to investigate further.For sure, the appendages before my very eyes were arms, and by pinching my cheeks with my new fingers, I realised that it wasn’t my mantle that I grabbed! It felt just like a human face, it was my face!
+
+I wonder what I looked like now? Was I the me I knew, or a whole new me? I simply must find a mirror and see for my self. My familiar and ever so helpful tentacles were draped over my shoulders, cascaded past my chest and idled down at my waist, so I wasn’t all girl, I was some kind of squid girl if anything. And speaking of my waist, a plume of smaller tentacles bloomed like a bouquet from my tail bone! I gave my hips a shake, swinging them excitedly from side to side before realizing what I was doing and reigning myself back in. How embarrassing.
+
+And speaking of embarrassing, its so breezy! I clung to myself, shivering in the cold. This was not a good night for a transformation - I think my insulated squid shape was much better equipped for the cold. But we can fix that.I flick out a tentacle and access my notifications. There. The hoodie! Equip!
+
+Unlike real life, an item in your inventory could just be equipped - super convenient if you ask me. The briny seafront breeze was still bitingly cold - no doubt about that, but snug in my comfy new clobber I felt a million times better. My tendrils poked out quite conspicuously, but that just adds to the charm doesn’t it?
+
+Hmhmhm~♪ With a spring in my step, I went wandering along the sea front. It sounded like I was skipping with a rope, but that was just my tentacles slapping against the pavement as I went. I wonder if I stand out? Or if having your tentacles out is normal here? And what if the fishermen mistake me for a real squid?
+
+The din of the gulls carried on the salty winds, like a coastal cockerel cry that called the sun to rise. The sky was flush with its morning blues. It was so late when I arrived, but my first day was finally here and I was absolutely twitterpated with wonder. The bustle of the day began to roll out over the silence of the night, as the chatter of morning voices, the banging and clanging of industrial work, and the harbour bells mingled to create a full seaside soundscape.
+
+When I heard somebody approaching me, I instinctively ducked into a side street. Its not like I was scared of what people might think of me or anything. Probably. Yet my head was a jumble of thoughts that tethered my feet.
+
+I expected the footsteps would just keep on going, so I sucked in a panicked breath when I noticed I was followed. The footfalls sounded obscenely dense, perfectly paced, and punctuated with the subtle gasp of released air between the brief squeal of electronic actuation. I wanted to hurry away before what ever it was had a lock on me, but a familiar voice stopped me still.
+
+“Interloper, your disturbance has not gone unnoticed. You are advised to cease what you are doing immediately and be halted. Doing otherwise will facilitate the use of an interventive response.”
+
+I quickly span on the spot and come face-to-monitor with a mechanical man. It was a stoic, humanoid looking thing, only marginally taller than me, but with a chest as broad as a barrel. wide set legs that suggested a significant load - yet despite its stout design, it exuded contemporary elegance with its corporate paint job and fiberglass exterior. Emblazoned on its chest like a sheriff’s star was a sun shaped logo and the words “Shield of the United Nations”. Juxtaposed against the rustic backdrop, the machine couldn’t look more out of place.
+
+“W-wait, wait what, did I do something wrong? What rule could I have possibly broken!” I flailed, which clearly triggered some kind of protocol because the space-aged gun mounted in its right arm socket traced a bead on me.
+
+“I have been unable to verify your personal identification. Compliance is demanded. Any further unauthorized action will be taken as defiance against the law. Until your identification is ascertained, defiance will be subject to the full extent of the law.”
+
+I could fight it. Should I risk it? It has a gun, but I was level 9 already - did that translate? I still had my hud and my tentacles - It full well could, but I didn’t know for sure. I bit down on my lip, I had a dangerous thought, but an intrinsic confidence.
+
+So, I raised my hands, and The machine understood my compliance. It approached with its gun still fixed to my center, and my tentacle glided gently into position. My heart was in my throat, but It didn’t shoot. I could almost hear its processor trying to identify the non-human motion, but before it came to a conclusion, I struck like a Jellyfish riding on a current. My tentacle passed through the exterior without leaving a mark, and grasped the binary ghost deep within the machine. To me it looked like the automaton blanched at the invasive touch, like it repulsed at having its very essence manipulated. And when I slipped my tentacle back out it regained clarity.
+
+“Compliance acknowledged. Identification 「 Cthirche Andrews 」. All prior errors have been logged and corrected according to protocol. Apologies for the inconvenience.
+
+“Just… What was that?”
+
+I shot bolt upright like a naughty cat at the unexpectedly human voice - The first to actually try to talk to me in this world, even. I nervously tried to conceal my tentacle, tugging at my hood, but he’d been right behind the machine that was now plodding off back to the beat. He must have noticed. Gulp!
+
+His brow was slick with sweat, like he’d rushed to get here. He must have noticed the commotion. What did he want? Was he like the robots handler? Or was he planning to help me? Oh no, he knows everything now. Before I had time to conjure up a reply with the voice used to rattling around my head, he interrupted my thoughts,
+
+“Wait, we probably shouldn’t talk about it out here. You look knackered too. Reckon you could do with a cuppa tea, aye?”
+
+“Y-yeah. I think I’ll take you up on that one mate”. I hope I didn’t sound too awkward. I exhaled a sigh, remembering to breath. I could do with a moment to work through some things, and he didn’t seem hostile.
+
+“I’d love to hear about what you did to that Sentinel!” he suddenly gushed. The twinkle in his eyes was barely hidden by his thick, bottle-cap glasses - It made him look like an excited golden retriever. I get it now. I smirked.
+
+“You nerd.”
+
+"Hwah?! I just thought it was fascinating is all!"
+
+"Yeah. That's what makes you a nerd. So, lets go. Will more of them things turn up?"
+
+I nudged him to get going, and followed along after that. The back streets were cramped, and there wasn't even space to walk abreast, so he answered over shoulder,
+
+"Can't really say for sure - I couldn't tell what you did. If you damaged it, tricked it or... I guess if there's evidence of tampering? Then they'll work it out and it could get tricky.
+
+"I see. I basically fed it a false positive."
+
+"Subtle. That makes it harder to identify a problem unless it goes against any directives it was following."
+
+He led me through tangled streets and past sleepy storefronts cluttered with crates and racks that hadn’t been lined yet. Here, away from the seafront, the world felt much smaller, much more intimate. A couple of turns later, we came to a stop.
+
+“Sesha’s Emporium” read the dainty sign.
+
+Books were crammed into the windows, plant pots hung from the eaves, and the outside was cluttered with barrels and shelves. He ushered me in with a bell that jingled when he opened the door.
+
+The air was a tapestry of spices and coffee that seemed to cling to the musky old books - A fragrant contrast to the salty outside air. Without a word, he crossed the room and clicked on a small electric kettle behind the counter, filling the silence with a gentle electric hum.

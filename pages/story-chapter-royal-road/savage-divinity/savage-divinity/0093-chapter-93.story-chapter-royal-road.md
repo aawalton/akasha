@@ -1,0 +1,133 @@
+---
+id: e3c6efca-1d4d-5129-8ae7-0b487d9daa5a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 93"
+slug: 0093-chapter-93
+partOf: savage-divinity
+position: 93
+ownLength: 3833
+unit: words
+publishedAt: 2016-07-13
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/81508/chapter-93"
+royalRoadId: "81508"
+---
+
+Light on my feet after a good night's rest, I stand tall as I make my way to the cooking fires for breakfast, so delighted by my newfound success that I can almost ignore the sharp, searing pain in my arm. Even with the new healing process, the newly grown nerves take time to acclimate but that is a small price to pay for a brand new arm.
+
+Arriving at the same time as Alsantset, I give her my best smile, arms open for our morning hug, something she insists upon. Most mornings, I find it mildly embarrassing, like being treated like a child, but I still enjoy them. Normally, it is a single arm slung around my neck for a brief second before we continue with our day, but today it is a full on bear-hug lasting for several seconds, with my feet dangling off the ground from Alsantset's over enthusiasm, making me feel smaller than I am.
+
+Ignoring my inquisitive look, she moves away to begin cooking breakfast, and I approach to help as best I can, silently puttering around with utensils and platters while Alsantset works quickly, humming as she prepares a lavish breakfast, everything I need to continue healing my arm. Despite being in charge of the entire camp while Akanai is gone, Alsantset seems none the worse for wear, even with cooking two full-course meals a day for four people with limited cooking tools. Amazing what you can create with little more than a fire pit, a pot, and a ladle, every day cooking something a little different.
+
+As much as I would like to take over some of her responsibilities, I'm mostly limited by my single arm, only capable of washing wooden plates or turning the meat on a spit. Soon, that will change as now that I've come up with my new technique of healing, I am on track to finish fixing my arm in a month, give or take, a big step up from the previous estimate of 10 months. Taduk's beastly speed at regeneration shows that I still have a long way to go, and Tokta kept me up for almost another hour after Akanai dismissed us, alternating between heaping praises on me and sternly warning me to never experiment so recklessly again, but never actually delving into why. I should probably ask, but I was too tired yesterday and if it really was dangerous, it would make me seem kind of stupid for not knowing.
+
+When breakfast is almost complete, Alsantset going above and beyond this morning by making fresh bread buns from scratch in an impromptu steamer, stuffed with assorted minced meats and veggies, Sumila and Song arrive, a little later than usual. Contrary to her normally ruffled and laid back look, today Sumila's hair is carefully brushed and done, with a tiny clip holding her bangs to one side, looking adorably neat and prim. There's something to be said about her usual, casual appearance, that she manages to look so attractive despite looking somewhat messy, but she cleans up very well, giving me a small, shy smile, another glaring difference from her normal, straightforward nod.
+
+Li Song also looks lovely, her long, brown hair flowing down her back in a lovely single, neat braid. Her demeanor seems unchanged but for the fact that her eyes are locked onto me, a far cry from her usual, timid attitude. She isn't outright glaring at me, but the way she stares at me makes me feel like a mouse before a cat. There is no hatred between the two animals, but the latter is hell-bent on killing the former, almost an instinctual conflict.
+
+After a short bit of preparation, we load the food onto the quins and head out, leaving me wondering where we're going and wishing I could pet one of the quins. It takes a lot of time and effort to get on a quins good side, and I have yet to make friends with Alsantset's new quin. Sumila has repeatedly asked me to leave her quin Atir alone, as well as Li Song's, citing training reasons. I hate to admit it, but I actually miss Zabu, even if he did leave without any hesitation, carrying a stranger no less.
+
+Feeling more than a little maudlin at the reminder of Adujan's departure, I continue after the ladies until we reach Akanai's tent, a larger than normal affair. I would almost call it a cloth hut, easily fitting ten people inside, the site of all of her meetings. Inside, a small table and chairs are set up, and we begin setting the table, the smell of this remarkable breakfast making my belly rumble in anticipation.
+
+After we are all seated, Alsantset raises her teacup and speaks, her smile almost glowing in the dimmed interior of the tent. “Rain, congratulations on your impressive discovery.”
+
+“Is that what all this is for? You didn't have to do all this sister, thank you so much.” I'm touched, especially knowing that food is running low, so she would have needed to trade dearly to obtain these ingredients. We all drink from our cups, and begin to eat, too intent on devouring the delicious meal to make conversation. After a single taste of the food, even Li Song is too distracted to continue her quasi-glaring, her ears quivering in delight as she eats slowly and methodically, savoring each bite. When her plate is cleared, she sits still, staring at the rest of the food with undisguised gluttony, until Sumila urges her to take more. She's an odd mix of endearing and aloof, likely her real attitude overshadowed by her teachings, but I think Sumila is doing a great job at breaking down her walls and Li Song's real personality is slowly emerging.
+
+The four of us eat every scrap of food there is, my belly full to the point of distention, feeling ready to return back to my tent for an early nap. Tokta told me to rest for the day and implemented a strict ban on training and exercise, so I have little to do until Akanai returns for our training appointment. As much as I complain about her, Akanai has always done right by me and her training is top-notch, so I am looking forward to our first training session in months now. Waving goodbye to Alsantset, I watch as she leaves with Li Song in tow, while I help clean up with Sumila, stacking the platters in one hand and carrying them towards the river to be washed.
+
+Our chores complete, Sumila surprises me by gesturing me to follow her, leading me to the empty clearing I usually train in, sitting in the shade with me to watch the beautiful scenery. “Don't you have to go be a scribe for Alsantset?”
+
+“I asked for the morning off so we could talk.” She says the words with a feigned indifference, but it makes my heart skip a beat as my imagination goes wild, envisioning everything from a risqué morning tryst to a stern lecture about … well anything, Sumila loves to lecture me, and I actually don't mind too much, so long as it isn't regarding the morality of prostitution. After her declaration, she goes silent, staring out at the river while I watch her, waiting for her to gather her thoughts. It's not just her hair, her clothes are nicer than normal, a white-furred, black-leather vest that leaves her sun-kissed shoulders bare, looking lovely and inviting.
+
+Without any preamble, she simply drops the news on me. “Last night, Mama made a formal offer of betrothal for me.”
+
+A twinge of jealousy flares up inside me, but I quickly swat it aside. She doesn't belong to me, there is nothing more than friendship between us. “Oh? Who's the lucky man?”
+
+“You are.” Her eyes flick over towards me, shyly watching for my reaction.
+
+I feel like I do an alright job hiding my panic, which quickly subsides and transform into indignation. “Um... so... we're getting married?” Do I not get a say in this?
+
+Rolling her eyes in exasperation, she shakes her head. “No, we are betrothed.” Noting my confusion, she sighs, and explains slowly. “We are promised to one another by our guardians and will marry when we are both twenty years of age, but it is contingent upon the agreement of both parties, meaning if you or I disagree with the arrangement, then we can annul the proposal with a single word.”
+
+“I see... So since we are still betrothed, that implies that you agree with this arrangement.”
+
+“Maybe.” Her impish smile makes me think about kissing her, the idea of marriage to this lovely, red-haired panda-girl not so bad at the moment. “I know about your feelings for Lin and Yan.” Opening my mouth to object, she holds a finger up to silence me. “Allow me to speak, just listen for now. I know you have your doubts but you love them both, despite your protests otherwise. I also know that you don't feel that way about me, because even after I dressed up nicely today, you spent the entire time ogling Song.” Her frown deepens as she stares at me, as if wondering why she even bothers. “Even with all that said, I am not willing to annul our betrothal at this time, for my own reasons. Now, you may speak.”
+
+“This is our chance, brother. Push her down and take her, she will not refuse you, she is to be your wife. No more sad, lonely nights.”
+
+Silently banishing him back to his room, I take a moment of mental effort and lock him away, hopefully keeping him away from this conversation. Usually, he's pretty good at keeping quiet, especially after I accidentally answered him out loud a few times, but sometimes he gets too excited. Taking some time to put my thoughts into order, I finally start with an excuse. “Um... I was just admiring how far Li Song has come in a short time. That's all thanks to you.” That was terrible. Clearing my throat, I add, “I think you look very lovely today. Well, you always look lovely, but I did notice the extra effort, and it is very pleasing.” God dammit, I should just tie myself to a rock and jump into the river.
+
+Her face is full of pity at my meager attempts to compliment her, and she shakes her head. “Do you know why I don't want to annul the arrangement? For the past year, Mama has none too subtly been mentioning suitable partners for me. If I annul this betrothal, she'll just move on to her next choice and I'll have to deal with that instead. I'm still young, but Mama thinks three and a half years is a short time to plan a wedding. Time passes differently for her and Papa.”
+
+Almost a little offended, I ask, “So, I'm what? Your husband placeholder, here to keep 'Mama' off your back until you find someone you like?”
+
+“Don't be jealous.” She grins at my disappointment, pinching me gently on the cheek. “I am considering the idea of marrying you. Your looks are passable, you are properly obedient, and I do like how sweet you are, but I have a few concerns about you that will need to be addressed.” Pulling out a folder letter, she hands it to me with a flourish. “I wrote them down for you to read over.”
+
+Wait... how did this happen? I was trying to think of a way to let her down gently, but somehow, I am now reading a list of her demands. Topping the list is no more visits to prostitutes, followed by no more love interests besides Lin and Yan, large purchases must be discussed with her, I must be more loving and sweet, no more poop jokes while eating, etc. Looking her straight in the eyes, I keep calm and tear the remarkably long list in half, delighting in her reaction. It would have been more impressive if I didn't have to use my teeth. If I were to change, it would be by choice, and not due to emotional blackmail.
+
+Her face darkens as she glowers at me, her full lips in a pout. “So you will annul the arrangement?”
+
+“Maybe.” The look on her face is priceless, throwing her own statement back at her. Giving her a smile, I decide to give her a taste of her own medicine. “I do like you Mila, but I don't know about marriage. If you would like me to keep this betrothal while I think it over, I want you to answer me a question.” Leaning forward, my voice drops down to a whisper. “Exactly how far are you willing to go to secure my cooperation?”
+
+Her face turns a dark shade of red as she glares venomously at me, and after a few seconds, I burst into laughter, unable to control myself. I couldn't help it, she approached this entire thing like a cold transaction, it's difficult to take this seriously. After I finally manage to calm myself, I wipe away an imaginary tear, immensely enjoying how annoyed she looks, but if she truly were angry, she would have just left or punched me, even odds on both. She mumbles something beneath her breath, and at my prompting she yells, “I will allow you one kiss.” Still blushing furiously, she stares at the ground, peeking up now and then to gauge my reaction.
+
+Too adorable. Unable to resist teasing her some more, I move myself closer to her, our hips side by side, leaning in until her hands fly up to press against my face, forcing me back while I laugh, too giddy to think clearly. “You're horrible, a lecher and a pervert, taking advantage like this.” Despite her words, she still remains seated, a clear sign that she isn't fully unwilling, only putting up the barest of protests. The realization washes over me and I feel a little bad about toying with her emotions.
+
+Backing off a little, I note the tiny slump of her shoulders when she realizes I will not press the matter, smiling inwardly to myself. Why push her away? I don't want to mess this up, have it end like with Adujan. I see no harm in this arrangement, like a trial period before marriage. I could see myself marrying her, it's her parents that give me pause. “In all seriousness, I am not sure about marriage and will need some time to consider it. You are a wonderful person, and I respect and admire both your strength and your willingness to help me so much. You're the first person besides Lin that I became friends with and I cherish that friendship greatly. Even after we come to a decision about this, I hope that we will remain as such.” Her ears flutter at my words as she tries to keep a smile from her face, nodding enthusiastically.
+
+Smiling, I move to stand but she pulls me back with her grasping hands. “Um... The kiss. We made a deal, and I will stand by my word.” She shyly closes her eyes and lifts her mouth, waiting for me to act.
+
+Seeing this charming, attractive, defenseless young woman, it is only by the barest of margins that I am able to resist taking the advice of other me, to push her down and have my way with her. The fact that she can beat me bloody with little effort helps, but not much. Giving her a light kiss on the forehead, I watch as her eyes open in surprise, flooded with equal amounts of disappointment and relief. “There, the bargain is struck, the deal is done. We are betrothed for the time being. If I kiss you, it will be because you want me to, not for your stubborn pride.” As I straighten up and walk away, I can't help but add a playful, “You're welcome.”
+
+“What?” She leaps up and chases after me, latching onto my arm. “If anything, you should be thanking me! And let me tell you, whether we marry or not, if you sleep with another woman without first annulling this betrothal, I'll have you naked and pulling a cart while I stand in the back, whipping you along. I will not be made a laughingstock, you will adhere to proper behavior, even if this is a farce.”
+
+Smiling to myself, I walk along the riverside, arm in arm with my betrothed, happily teasing her and enjoying her reactions. The thought of having Akanai and Husolt as my in-laws sends a shudder down my spine, but seeing Mila's carefree smile makes me consider risking it.
+
+I mean, how bad could it be?
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Evening finds me kneeling in front of Akanai in the same clearing where I had blackmailed her daughter into a kiss, my skin almost breaking out in nervous hives as Akanai paces back and forth slowly, her stare burrowing into my skull as if she can see my every thought. Why did I agree to the betrothal? The news that I have not rejected it seems to have her in a fury, ordering me to kneel before her as she deliberates my fate. If she's so angry, why did she suggest the betrothal in the first place?
+
+After sweating me for several minutes, she finally stops in her tracks and turns towards me, causing me to flinch as if I were about to be hit. Who knows, I might be. Crouching down, she puts both hands on my shoulders, looking me straight in the eyes. “So, you are now betrothed to little Mila. You may call me Mama.” Her tone is neutral, her eyes hard, as if daring me to do just that.
+
+My mouth dry, it takes a few attempts to get my voice working. “Oh, I couldn't do that Chief Provost Lieutenant General Ma'am. That would just be too informal.”
+
+“Good, good.” A hard clap on the shoulders sends a lancing pain through my stump, leaving me with little choice but to grit my teeth and bear it. I was wrong... I think she's actually happy. What have I gotten myself into? “Tell me of your problems.”
+
+Hesitation grips me, but at her impatient glower, the words explode out of my chest. “Well, see, after the demon thing and the multiple illusionary lives, I'm having a bit of trou-” Her upturned palm and frowning grimace stops me mid sentence.
+
+“Your cultivation problems, boy. Speak to your sister about your personal problems, she is better equipped to handle those than I.”
+
+Ah. Right.
+
+After detailing my issues and answering several of her questions, she gestures for me to begin meditation while wearing the ring. After my lengthy preparation process, I fall into the State of Balance and immediately the torrential downpour of Heavenly Energy surges through me, taking me by surprise. It's been too long since I've done this but even then, it feels as if it has gotten worse as I struggle for control, putting up barriers and attempting to divert all the energy away from me, drowning in the deluge without any aid.
+
+A sharp jarring wedge of chi interrupts me, and as if I were thrown onto dry land, the cascade stops and I am left gasping as I collapse onto the grass, my chest heaving from my all too brief attempt. Akanai hovers above me, looking down both literally and figuratively, as if disappointed by my failure. Silent and grim, she watches as I catch my breath, and I sit up gingerly, ready to try again.
+
+“That was only struggling, there was no surrender.”
+
+“I noticed. It seems worse than ever, as if it were waiting for me, ready to bring me down.” These fucking rings are a deathtrap, I should gut that stupid OuYang patriarch for giving away faulty goods. We should have just tossed those fucking jars into the sewers and taken a hammer to these damn rings for all the good they've done us.
+
+“I have a question for you. Why do you feel the need to control the Energy of the Heavens?”
+
+Snorting loudly, I reply, “Because otherwise it will kill me.”
+
+“And that is what I am here to prevent. So again, why do you try to control it?”
+
+“...So I don't die?”
+
+“Is that not why I am here? Do you not trust me?” Her words are spoken plainly, without accusation or anger, a questioning tone as she watches me. Seeing that I have no answer, she asks another question. “Do you fear the Energy of the Heavens?”
+
+The simple question causes me to jolt upright in understanding, the lesson taught to me so long ago by Charok fresh in my mind once again. From the very first time I used the ring, I was afraid of what would happen. My lack of control over my fear caused me to react instinctively each time, pushing away the heavenly energy, breaking it apart so that I can control it, rejecting it even as it flows through me. My eyes turn towards Akanai, and she nods once, understanding my unspoken question. She will offer protection, should I need it. I have nothing to fear.
+
+This time, Balance comes quickly and so too does the infusion of Heavenly Energy. Centering myself, I accept everything that comes, feeling my body heat up as the energy crashes violently against me, forcing itself into my core as if it were a sinkhole waiting to be filled. Fear rises up in me, but I let go of it, transforming myself into an anchor within the storm, a rock beneath the waves, battered but unmoved. The energy ebbs and flows, like the coming and goings of the tide, and I sink deeper inwards, with no thought of struggle or surrender, only acceptance.
+
+Without me noticing a change, the Energy of the Heavens now circles around me and through me, tempering me in its embrace. A foreign energy tugs at my awareness and I detect it entrapping what I have already claimed while also funneling more towards me. Reassured by Akanai's presence, I sit in quiet meditation, my mind blank and without thought. No needs or wants, fears or joys, only emptiness within, and fulfillment without.
+
+My eyes open slowly and I note the position of the moon, soon to set and a new day almost upon us. Akanai's presence can be felt behind me, her palms pressed against my back, leaning heavily upon me after a long night of arduous effort, my shirt and brow dripping in sweat, the chill of the nights air causing me to shiver. Her voice tired and strained, Akanai speaks in a slow, slurred drawl. “Well done boy, you've finally Awakened. Now show me what you have learned.”
+
+...
+
+“Um... sorry, but what?”
+
+Chapter Meme

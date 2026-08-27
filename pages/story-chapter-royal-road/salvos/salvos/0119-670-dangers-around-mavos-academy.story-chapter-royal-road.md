@@ -1,0 +1,195 @@
+---
+id: ae2ac11e-0226-5bb7-ab3a-504bc4f6c13a
+page-type-slug: story-chapter-royal-road
+title: "670. Dangers Around Mavos Academy"
+slug: 0119-670-dangers-around-mavos-academy
+partOf: salvos
+position: 119
+ownLength: 2076
+unit: words
+publishedAt: 2024-07-06
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1707498/670-dangers-around-mavos-academy"
+royalRoadId: "1707498"
+---
+
+670. Dangers Around Mavos Academy
+
+It was another ordinary day at Mavos Academy.
+
+Or at the very least, it had been an ordinary day for Rachel. She had woken up early in the morning to attend her classes as per usual, before running off to train with Oriur, Novis, and Bellum. This had become their routine for a while now.
+
+Rachel had even been skipping her attendance for her club activities to spend time with the baby Wyverns. Well, they could be called juveniles at this point. But she found them to be too cute to not call babies.
+
+Valda had asked the young girl if everything was alright. And since Rachel had to hide the fact that she was spending time with Salvos’s children, she had consistently had to make up some excuse or another to avoid her club activities.
+
+It was not like she disliked being a part of the Demon Research Club. But there hasn’t been much she was able to learn while there. At least, not about how to get to the Netherworld to find Salvos.
+
+And that was Rachel’s goal— to find Salvos. Unfortunately, there was no material she could find in any library or in any tome about how someone could cross the planes. There were some forbidden grimoire that had explained in great detail how to summon a Demon. However, nothing about how a Human could leave the Mortal Realm.
+
+It was strange, really. It was like no one had ever considered doing such a thing. Not even to get to the Spirit Plane. Humans seemed to be perfectly content staying in their own plane, which puzzled Rachel.
+
+While she could understand the logic of not wanting to travel to the Netherworld, the fact that Humankind hadn’t even considered visiting the Spirit Plane made her suspicious that there might have been a hidden reason why they never considered leaving the Mortal Realm.
+
+But she didn’t bother investigating further into it for now. After all, she could spend time with the baby Wyverns instead. And not only that, they’d be together training and leveling.
+
+That was Rachel’s current utmost priority: getting stronger.
+
+And she did.
+
+“I can’t believe you’ve already hit your Level 70 Class advancement!”
+
+Oriur said as he trudged after her. He was not alone, accompanied by Novis and Bellum, his brother and sister. The group of children made their way back to Mavos Academy, having finished their hunting session. For some odd reason, the nearby forests were starting to populate with all kinds of monsters, and they were the ones who were covertly helping with exterminating them.
+
+While Rachel wondered what caused this sudden surge in monster activity, she was also grateful for it, because she had been able to level up incredibly quickly, even by her standards. Thanks to it, she had become a Level 71 [Mystical Assassin], and she could fell most monsters up to Level 75 due to the rarity of her Class.
+
+Others called her rapid rise in strength to be prodigious. However, she knew that Salvos was far more of a genius than she ever would be.
+
+“I wonder if you’ll reach Level 100 soon…”
+
+Oriur stared at her, amazed. Meanwhile, his two siblings wore jealous looks, having leveled significantly slower than the young girl.
+
+She smiled and waved a hand off dismissively.
+
+“Reaching Level 100 will be much tougher, especially once I get my second Class. And besides being Level 70 doesn’t mean anything, anyway.”
+
+“What do you mean by ‘doesn’t mean anything’?!”
+
+Oriur sputtered. He pointed at her and exclaimed.
+
+“At your level, you’re equivalent to a Platinum Ranked adventurer! And you’re not even thirteen!”
+
+“I actually just turned thirteen. But on a lesser scale, it does mean a lot, sure. And the reason why I am doing all this is to be strong enough to deal with the Centinels coming after Centina, remember?”
+
+Rachel shook her head. She came to a halt right before a cleaning, spotting the two figures who were waiting there for the children.
+
+Looking down at her hands, she purses her lips.
+
+“I won’t be able to deal with an [Evolved Centinel] if they attack us— let alone an [Ancient Centinel], you know?”
+
+Oriur snorted as he strode past her.
+
+“Do you really think an [Ancient Centinel] is going to come after us? There hasn’t been a single [Ancient Centinel] spotted outside of the Bloodied Gulf in centuries!”
+
+“And the Demon King’s last attempted invasion was ten thousand years ago. Just because something is improbable, doesn’t mean it’s impossible. Even then, I’ve seen the impossible happen, so it’s best to prepare for the worst.”
+
+Rachel spoke as she faced Oriur seriously. Behind her, Novis and Bellum nodded eagerly. But in truth, the latter two baby Wyverns just wanted to go out more often because they enjoyed the thrill of the hunt.
+
+“I’m sure we’ll be fine.”
+
+Oriur shrugged as he approached the two figures waiting for them. The first was a Grand Spirit— a [Will O’ Wisp] and their guardian. His name was Willy, and he had come here for the sole purpose of picking them up. But he couldn’t do it alone.
+
+That was why he came with the second figure, which was not a Spirit. Rather, she was a monster. Her name was Kron, and she was a [Krokodis]. Although, that was not what she looked like right now. Instead, she appeared to be a Human with long red hair, and an androgynous body. Her face was twisted to a scowl as she crossed her arms.
+
+“Finally!”
+
+She exclaimed, making her desire to be anywhere but here evident. And she could have hidden it— masked it along with the disguise she wore over her body. After all, what Rachel currently saw was an illusion.
+
+“If me get caught out here, me will die. Me want go back already.”
+
+Kron said as she drew back. But Willy wasn’t in nearly such a rush. The [Will O’ Wisp flitted forward as the children crowded around him.
+
+“Fun?”
+
+Willy asked. The four children nodded in response. They broke out into a babble of voices, recounting everything they had done.
+
+“We split off into two groups—”
+
+Oriur started, and Novis and Bellum spoke up too. But what they said was barely comprehensible to Rachel.
+
+“We kill! We kill!”
+
+“Grrrr, we also hunt!”
+
+The young girl just nodded as she beamed proudly.
+
+“And I saved them from a [Horned Drake] too!”
+
+She added, drawing the sidelong glares from the three baby Wyverns. Novis and Bellum protested as they raised their clawed hands. Meanwhile, Oriur scratched the back of his head.
+
+“Rachel did do that. But it was risky.”
+
+“It was fine.”
+
+Smiling, the young girl turned to Willy.
+
+“I knew what I was doing. If Novis and Bellum got to the [Horned Drake] first, they’d have gotten themselves killed.”
+
+Willy looked towards the two baby Wyverns. They definitely didn’t believe that. But even as they huffed, they didn’t argue about it any longer. Willy couldn’t smile, however Rachel was pretty sure that if he could, he’d be smiling right now.
+
+“Good.”
+
+With that, he drew back. He began making his way towards Mavos Academy as Kron sighed. She raised a hand, and an illusion overcame the three baby Wyverns.
+
+As Rachel was an ordinary Human, she didn’t need such a disguise. So she just walked alongside Novis, Bellum, and Oriur. They looked to be children too, but older than her— more like teenage youths. Each one of them had a distinct hair color. Novis had spiky red hair, Bellum had long and straight blue hair, while Oriur had short white hair. It was Rachel who suggested their hair colors to Kron because she thought it would be fitting.
+
+The group entered Mavos Academy through a staff-only entrance, to avoid raising any suspicion. Typically, this entrance was reserved for teachers, professors, or other faculty for the school. But they were granted special permission by Headmaster Clayton Skyshredder himself to use this way to exit and enter.
+
+The guards stationed there didn’t question it. Especially since it had been a while now since they started doing this, the guards were used to it. They passed through the gate as Rachel felt a strange magical sensation wash over her.
+
+Looking up, she saw a flicker of light in the air. When she squinted and focused, she saw a lattice of mana strands forming a dome over Mavos Academy. That was the barrier of Mavos Academy, and it was powerful.
+
+From what Rachel was told, Mavos Academy had up to seven layers of barriers protecting it. But in the past, there was only a single layer active to keep flying monsters out. However, after an incident with Salvos, they reinforced the barrier with two layers. And when the war with the Demons broke out, it was upgraded to four layers for a period of time.
+
+Now, it was down to only three layers, even though there was still the ongoing war with the Elves. Rachel had wondered why didn’t Mavos Academy just keep all seven layers active for maximum security. She had asked Clayton himself the reason for only maintaining a handful of layers.
+
+His explanation was not that Mavos Academy didn’t want to upkeep the barrier. It was that they couldn’t. Even now, their magical reserves were being strained with only three layers of barrier. With all seven layers active, they’d be able to maintain the barrier for up to a year at most.
+
+And that was not considering the consequences of a siege, which would deplete the expectancy of the barrier by substantial margins.
+
+It was said that Mavos Academy had been able to withstand a siege by the Demon King himself for seven days, before the Immortal King Alexander arrived to repel the Demons.
+
+So she assumed that the barrier could survive eight days, at the bare minimum.
+
+While Rachel didn’t exactly know how much quicker the barrier could be drained in the event of a siege, she knew it was entirely dependent on the force exerted against the barrier.
+
+Otherwise, the barrier was completely impenetrable.
+
+“I still think you need to be more careful.”
+
+Oriur pouted as he walked up next to Rachel. She glanced back at him curiously, and he lowered his head.
+
+“I don’t want you to get hurt, you know?”
+
+In response, Rachel just shrugged.
+
+“Well, you can’t level up if you don’t get yourself into dangerous situations. Besides, I know my limits.”
+
+“Do you really?”
+
+Oriur asked as his gaze bore into her. Rachel hesitated. There was a moment where she didn’t know how to respond. After all, she knew that he was kind of right. He wasn’t fully correct, but there was a hint of truth in his words and in his questions.
+
+Eventually, Rachel shook her head.
+
+“I mean, probably? Anyway, it’s not like there will ever really be any real threat around Mavos Academy that I can’t handle. Even the newer influx of monsters that come here tend to be pretty weak.”
+
+“Weak? Many of them are near your level!”
+
+Oriur exclaimed as the group made their way further into the campus-city. Rachel scoffed.
+
+“I am weak. But also, am I wrong?”
+
+She asked as she came to a halt. Spreading her arms wide, she posed the question to the baby Wyvern.
+
+“Come on, do you think that there is any monster hiding around Mavos Academy that could kill me before I could disengage and run away?”
+
+And as the words left her mouth, the ground right outside of Mavos Academy exploded open. Rachel, Oriur, Willy, Kron, Novis, and Bellum spun around to see a pillar of dirt being kicked into the air, before a giant undulating crimson figure towered right before Mavos Academy. It was accompanied by a swarm of tiny figures, just like it, many of which were the size of a person.
+
+It let out a screech as its presence drew the attention of all the [Mages] in the campus-city.
+
+[Ancient Centinel - Lvl. ???]
+
+[Junior Centinel - Lvl. 45]
+
+[Junior Centinel - Lvl. 51]
+
+[Younger Centinel - Lvl. 25]
+
+[Younger Centinel - Lvl. 15]
+
+…
+
+“Huh.”
+
+Rachel blinked as she stared at the [Ancient Centinel], accompanied by the swarm of smaller Centinels. She scratched her cheek as Mavos Academy broke into a panic, before she turned to face Oriur.
+
+“Um, I take it back. I was wrong.”

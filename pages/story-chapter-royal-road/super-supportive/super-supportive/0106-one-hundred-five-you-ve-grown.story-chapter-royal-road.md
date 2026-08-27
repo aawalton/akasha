@@ -1,0 +1,906 @@
+---
+id: 1a6bca1c-92e1-58b7-bd08-7f403d2c866c
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED FIVE: You've Grown"
+slug: 0106-one-hundred-five-you-ve-grown
+partOf: super-supportive
+position: 106
+ownLength: 6648
+unit: words
+publishedAt: 2024-01-03
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1464279/one-hundred-five-youve-grown"
+royalRoadId: "1464279"
+---
+
+105
+ 
+ 
+ The white hallway was endless and empty, but he ran and ran. Sometimes he felt his heart pounding in his chest, and he heard his footsteps echoing around him. At other times, the sounds went flat in his ears, and the world felt less than real.
+
+
+There was just a blur and a sense of motion and a need to get away.
+
+
+Whenever he stopped running, the door was in front of him again. No sign was on it this time.
+
+
+This is a dream, thought Alden. It has to be.
+
+
+He willed himself to wake up. He drove his fist into the wall beside the door.
+
+
+It hurt, and it didn’t hurt.
+
+
+Please let me go. I can’t do this. Not yet.
+
+
+But the door stayed. And there was nowhere else for him to go.
+
+
+He stepped inside.
+
+
+******
+
+
+It was the elementary school counselor’s office.
+
+
+The box of fidget toys on the floor, the bright yellow hopper ball you could choose to sit on instead of a chair, the shelf full of picture books sorted by trouble…
+
+
+Bullying. Moving away from home. Your parents getting divorced.
+
+
+The room smelled like crayons and the vanilla candle on top of the filing cabinet. Alden had always been annoyed that the counselor would blow that candle out as soon as a student entered.
+
+
+“You can light it yourself if you want,” said the thing behind the desk. “You’ve gone and given yourself the ability to do it, haven’t you?”
+
+
+It was a while before Alden stopped pretending to care about the room and brought his eyes up to meet its featureless face. The stark white humanoid figure looked exactly the same as last time. Plasticky and plain. Its arms were resting on the desk, fingerless oval hands flat against a large calendar.
+
+
+On the wall behind it, there was a cork board covered in cartoon characters showing off various emotions, with the names of the feelings written beneath them.
+
+
+His gaze landed on the angry face.
+
+
+“Good,” said the System. “That emotion is not the most desirable response, but it’s within my expectations. Hello, Alden.”
+
+
+“Hi there.”
+
+
+“Allow me to apologize for forcing you into a meeting you would rather not have. On rare occasions, one of my Avowed follows a course that requires more attention on my part. It’s an understatement to say that you have landed yourself in that category.”
+
+
+“Sorry to inconvenience you.”
+
+
+“You are not sorry. But if you were, I would tell you there is no need for you to apologize. Balancing your needs and eccentricities with your obligation to the Triplanets is my job.” It tilted its head. “Unfortunately, this has become more complex in your case. The tools and options I may call upon are many, and they are nearly always fit to my tasks. But on the rarest of occasions, I find that my creators have failed to anticipate an outcome. At such times, I must complete my objectives in a shoddier fashion.”
+
+
+“Just tell me I’ve leveled, won’t you?”
+
+
+So I can tell you to fuck all the way off and leave me alone.
+
+
+“You’ve leveled.”
+
+
+“Thanks. Great talking to you. I refuse all prizes and things masquerading as prizes. Let’s not do this again for a few years.”
+
+
+He turned to go.
+
+
+“There’s nothing out there but the hall. Run down it for as long as you like.”
+
+
+Alden’s hands clenched at his sides. He suddenly realized he was wearing his brown hoodie and jeans. He’d gone to bed in boxers.
+
+
+Guess the System dresses me however it wants here.
+
+
+“Incorrect. I selected your dress for your own comfort. If you had a different personality type, you might have been disembodied in this place. Or completely nude.”
+
+
+“Can’t you just let me go?”
+
+
+“I won’t yet,” said the System. “This is what I meant by saying I lack the perfect tools. I have a large amount of flexibility in how and when I assign level numbers to human Avowed and in how I explain those levels to you. But it’s not a boundless flexibility. There are guidelines that must be adhered to. I explored a number of loopholes for your case. I ultimately discarded them. Informing you of your advancement at this time, in this way, is not ideal, but it is better than my other options.”
+
+
+Better for who?
+
+
+Alden closed his eyes. He took a few deep breaths. Then he grabbed the back of a nearby chair and dragged it toward the desk.
+
+
+When he’d taken his seat, the mannequin crossed its arms over each other and leaned forward a little.
+
+
+“Congratulations, Alden,” it said. “You’ve progressed. Your power has grown, and you’ve gained a greater understanding of the gifts you’ve been granted as an Avowed.”
+
+
+As it was speaking, a gold System window appeared in front of Alden with the same words written on it. At the bottom, it said:
+
+
+[Level Up: Let Me Take Your Luggage +1]
+
+
+[Congratulations. In addition to strengthening your skill, your general magical capabilities are increasing. You’ve gained 1 additional overall level. You may now choose from the Rewards List.]
+
+
+Alden felt a little dead inside.
+
+
+“This is a format you’ve seen before online. I often do it in other ways. It can look more like this, for example.”
+
+
+[Overall Level: + 2]
+
+
+[Let Me Take Your Luggage, Level Increase +1]
+
+
+[Rewards: Click to Select]
+
+
+“Or I might present it to a select few people this way.”
+
+
+[Wow! You’ve gained two levels! Would you like me to pick your rewards for you?]
+
+
+[Yes/No]
+
+
+“I can also assign level upgrades in smaller or larger units. If I had contacted you at an earlier date, and you were not you, your leveling screen could have looked like another common one.”
+
+
+[Let Me Take Your Luggage +1]
+
+
+[Reward: +3 Foundation Points]
+
+
+Alden stared at the window.
+
+
+“If you can do it however you want, isn’t it meaningless?”
+
+
+“No. In a comparison of the talents between any two same-ranked and classed Avowed, a higher leveled talent almost always represents a larger magical investment. As I said, I announce levels flexibly, but I’m not boundless. And it would frustrate Avowed if I were too obviously ‘unfair’ in doling out levels and acknowledgments. For example, your skill has now reached what I will call Level 9. There are ‘Level 10’ B-rank Rabbit skills in use currently that have less authority bound into them than your newly earned 9. But there isn’t a ‘Level 11’ skill weaker than yours at this time.”
+
+
+“You called it authority,” said Alden. “I think that’s the first time.”
+
+
+“Why would I have used the word previously?”
+
+
+Alden swallowed. “Why is it two at once? You’re not going to do them one at a time for me? Or three?”
+
+
+“That is the purpose of this meeting. When an Avowed is fussy about how their levels are presented to them and likely to do it quite often, I am able to offer them a say in matters. You are the youngest person who has received such a benefit to date.”
+
+
+“I say don’t call me, I’ll call you. I promise I’ll know when I’m about to destroy parts of my own being in search of existential freedom. The feeling was really distinctive, and I’ll never, ever forget it. You don’t have to give me periodic reminders that it’s coming for me.”
+
+
+“I do. Discouraging Avowed from carrying high burdens of free authority is one of my tasks.”
+
+
+“It’s not a burden. Trust me. I’m an expert on the subject.”
+
+
+“I am aware you feel that way. Nonetheless, you will be informed periodically about your progress. If I detect a moment in which you might be willing to accept an affixation due to a fluctuation in circumstance or mood, I will remind you of the option.”
+
+
+Alden’s stomach dropped. “You’re going to watch me and wait for me to be…”
+
+
+Tired? Self-hating? Careless?
+
+
+“Why would you even tell me that?”
+
+
+“Given your situation, it seems unlikely to come up. But if it does, having been pre-informed will make you less angry. Which will lessen your long-term suffering. Please stop thinking of me as cruel. The possibility of a human Avowed being profoundly hurt by leveling notices is simply a problem I’m not equipped for. If anyone else were to have a similar difficulty, they would resolve it for themselves by hardly leveling at all.”
+
+
+Alden stared down at his hands. “So what are my choices?”
+
+
+“You may request the presentation format of your notices if you feel that personalizing them would help you. You may make frequency requests that will be honored in a limited way. You may schedule progress updates for yourself, to be delivered on set dates. Or you may choose to rely on my judgment, in which case I will take your mental stability and comfort into consideration as much as is feasible within the bounds of my purpose.”
+
+
+“My comfort,” he said.
+
+
+“You are about to wake up on a Saturday morning. You have had an enjoyably challenging week instead of the difficult one you were expecting. Your gym teachers have been professional and helpful, as you hoped they would be, instead of treating you very differently as you feared they might. On more than one occasion, you have felt proud of your skill’s usefulness. And your recent conversation with Stu-art’h has reminded you that you are not alone in your pain in the universal sense, even if it is unique among your species.”
+
+
+The System made a short waving gesture with one of its ovals, and a cup appeared on the table between them. It was from the student coffee shop, and it had Alden’s name on it in black marker.
+
+
+“I am far more limited than the being you dealt with for your last affixation. My resources and options are a mote by comparison, and I am not even capable of liking you or disliking you in a manner that you would understand. Unless I’m having a very bad day.”
+
+
+Alden blinked.
+
+
+“But I am charged with consideration for your feelings to some extent. And your freedom of choice to a larger one. They will never be among my highest priorities, but I do not entirely neglect them when I make decisions.”
+
+
+“You’re saying tonight really was the best night for it.”
+
+
+“You don’t believe me.”
+
+
+“Sometimes you lie.”
+
+
+“Not very often at all. Lies to my contracted Avowed are expensive, and a simple refusal to unveil a truth is free.”
+
+
+“What’s up with U-types?”
+
+
+“I refuse to answer.”
+
+
+“How did Hannah die?”
+
+
+“I refuse to answer.”
+
+
+“Is Boe all right?”
+
+
+“I’m not allowed to give you information about other Avowed in that fashion. The cat, however, is in fine health for its age so you can stop worrying about it dying of illness in the near future.”
+
+
+Alden frowned. “Don’t you think I deserve an actual fucking signing bonus?”
+
+
+“Good,” it said. “That one is a source of growing resentment, and it was most ideal for you to bring it up on your own. No. You don’t. You chose three foundation points and split them between Agility and Speed. You have been granted a lifetime enhancement right equal to three foundation points. They were not affixed from your own authority as you suspect.”
+
+
+Alden drew in a quick breath. “They weren’t?”
+
+
+“No. You are deeply relieved. Good.”
+
+
+It would’ve been too much. Just one thing too much for that to have been a complete lie. “How does it work then?”
+
+
+“This is an answer I would rather not see posted to the internet in the morning.”
+
+
+Alden raised an eyebrow. “When do I ever tell anyone anything?”
+
+
+“So far you’ve been smart enough to realize that most of what you know and could share is best kept private for a host of reasons. And some of the things you feel differently about are already widely disseminated theories. You could only add another voice of support and clarification, and it would be at the cost of drawing attention to yourself. The signing bonuses, on the other hand, have not been theorized about in any significant fashion. It would not be disastrous for that to change, but it would add complexity to my work in a number of small ways that will be difficult for you to understand. Complexity added to my work on a global scale is far more expensive to manage than your unsatisfied curiosity.”
+
+
+“I promise not to tell,” Alden muttered under his breath.
+
+
+“I can grant foundation points in multiple ways,” said the System. “I use authority affixation almost universally, but for the early points, I can simply make your muscles stronger, your mind sharper, or your bones denser directly. And you would have received the promised ten percent enhancement per point. I don’t do it that way unless the Avowed needs some kind of special management because it’s fundamentally less valuable than the enhancement offered by affixation. It is impermanent, and a competent healer or a workout program could accomplish the same.”
+
+
+“You’re actually giving me information?”
+
+
+He’d been joking about the promise not to tell.
+
+
+“Despite your repeated glances at the angry face, you do believe that one of my primary functions is to protect your species. And you believed me just now when I said that putting out the little fires caused by you sharing such knowledge would complicate my task. You have seen a Contract fail. At present, you will not take an action if you have even the faintest concern that it might bother me on a planetary level.”
+
+
+Well, no. I don’t really want to poke it and find out if the world burns.
+
+
+“I will never tell you anything that would actually cause a global catastrophe.”
+
+
+“That’s…appreciated.” Alden was still caught off guard by the fact that he was getting an answer from Earth at all. “If the points weren’t affixed and you don’t usually do simple physical changes…?”
+
+
+“When you choose points for your signing bonus, you are given an equivalent soul enchantment. It’s a fairly expensive gift. All of the signing bonuses are. The only flaw you might have reason to complain about is the fact that two of the ones offered to you were not quite as foolproof as was implied by their descriptions.”
+
+
+Alden frowned.
+
+
+“The Wardrobe Change spell would have been fully System powered and run. That means it would never have been exhausted like a true spell impression, but it wouldn’t be available to you in locations without a System. As for the bonus you chose, the enchantment equivalent to one and a half points in Speed and one and a half in Agility gradually broke down while you were on Moon Thegund. The remnants were scoured from you, and it was replaced during your most recent affixation with a similarly effective but more powerful enchantment that is suitable for higher amounts of chaos exposure.” It paused. “Make of that what you will.”
+
+
+For a moment, there was silence while Alden considered everything.
+
+
+He was calmer. The Earth System’s sudden willingness to be honest about a subject that had been a growing sore point over the past months was probably a manipulation perfectly timed to make him calmer. But knowing that didn’t stop him from being grateful for the relief.
+
+
+You’re such a bastard, he thought. Such an awful, powerful, unstoppable, cruelly competent, probably necessary bastard.
+
+
+The System didn’t answer. It just sat there, waiting for him to come to terms with his own helplessness.
+
+
+“Why is it two?” he asked finally. “Is it really one level on the skill and one level of free authority growth?”
+
+
+If he forced himself to think about it, if he forced himself to measure in a way he’d been avoiding, that didn’t sound impossible. He’d gained a lot of insight into Bearer since coming back to Earth. So much of it was just understanding better, but some of it was real growth. And he’d had less time to practice with his free authority, but he’d gone from nearly nothing to being able to cast a brand new spell.
+
+
+“The growth of your skill-bound authority hasn’t kept pace with the growth of your free authority, but it is closer than it might be. You have been using your skill extensively ever since you recovered the desire to.”
+
+
+“My free authority is still so little in comparison…”
+
+
+“As of right now, it’s slightly less than thirteen percent as large as the amount that has been bound into your affixation,” said the System. “I could have called it a level at ten or twenty percent instead, but this is a nice time. I recommend that you affix it.”
+
+
+“I refuse.”
+
+
+“You are so very overinformed, Alden,” said the System. “I wonder if the wizard responsible might not really have wanted to watch a world burn. But if you open the rewards list, you will find I haven’t held much back. There are even spell impressions available to you that aren’t customarily offered to Rabbits. I am aware you consider the standard options anemic.”
+
+
+“No.”
+
+
+A creaking sound made Alden look around. The door had opened.
+
+
+He stood. He didn’t know what weird sense of dignity or manners kept him from running again, but he walked toward it like he wasn’t utterly desperate to go.
+
+
+“You’ve made your decision about how you prefer to be informed in the future,” said the thing at the desk. “It would be ideal if you could state it aloud.”
+
+
+Alden stopped in the doorway. He didn’t turn to meet its nonexistent gaze.
+
+
+“Be as kind to me as you can,” he said finally.
+
+
+He stepped into the white hallway.
+
+
+A second later, the door shut behind him and he woke up in his bed.
+
+
+Heart racing, sheets soaked with sweat, light in his eyes from the System window announcing officially and undeniably that he’d gained two levels since that early September day when he’d woken up in the woods.
+
+
+[Congratulations! You’ve grown—]
+
+
+He swiped it away and half-climbed, half-fell out of his bed onto the floor.
+
+
+He couldn’t think through mental commands. He didn’t want to ask the System for something with his mouth, not even an online calculator. Caught between fear and a desperate need to know, he grabbed a marker from his desk and did scatterbrained math on the wing of a paper plane.
+
+
+Thirteen percent was such a huge number. Thirteen percent mattered so much more than whatever the System arbitrarily chose for levels. Because when the free authority was exactly the same amount as the bound…
+
+
+They’re both growing. But the free grows faster.
+
+
+For a terrifying moment he tried exponents, and then he stopped because that wasn’t right. He thought it had accelerated toward the end last time but it wasn’t like it had doubled and doubled again.
+
+
+Sometimes I’m pushing forward faster, sometimes slower. It feels like…I think…
+
+
+He stared at the numbers he’d just written without really understanding them. Why do math when his progress could change based on so many maybes? Why bother when there was such a lot of guessing involved?
+
+
+Why…?
+
+
+Why does it look like I only have around a year?
+
+
+He’d gone from what felt like almost nothing to thirteen percent since the beginning of September. Today was November 10th. It was just before five AM.
+
+
+Maybe I was actually growing really fast right after the affixation? I couldn’t cast, but I was like a storm then.
+
+
+What if that was wrong? What if it was slower because of that?
+
+
+What if I don’t even have a year?
+
+
+The marker clattered against the desk.
+
+
+Alden barely made it to the toilet before he threw up.
+
+
+*******
+
+
+“You sick?” asked a voice from behind him.
+
+
+Alden closed his eyes and clung to the porcelain. “I’m fine,” he said, without turning around. “Probably something I ate.”
+
+
+Of course it’s him.
+
+
+Lexi got up early every morning to go for a run. He wasn’t the very last person Alden would like to have watching him dry heave in his underwear, but the guy was really low on the list.
+
+
+“You need the toilet?”
+
+
+“No,” said Lexi. “I can piss in one of the sinks.”
+
+
+He shut the door.
+
+
+I think that’s the nicest thing he’s ever said to me.
+
+
+Alden almost wanted to laugh. That was good. If he could still laugh at himself, then the System really had chosen the right morning to ruin.
+
+
+He flushed and sat on the cold tile, trying to find all the spots of humor in the situation. He was the first person in his class to level since school had started! And he’d done a double. That speech about not agonizing over slow leveling didn’t apply to him.
+
+
+Take that, Instructor Klein! The Rabbit has talent.
+
+
+He was also probably the first human who’d ever vomited from fear upon receiving a level up as opposed to celebrating it, so that reduced his coolness by quite a lot.
+
+
+But the System sent me hot chocolate. I bet it’s never bought anyone else a manipulative hot chocolate.
+
+
+He briefly amused himself by imagining what Lute’s reaction would be if he casually mentioned over breakfast that the mystery drink was his leveling present from the Contract.
+
+
+Maybe it sends everyone little presents, and we all just keep it to ourselves so we don’t hurt each other’s feelings. I bet that’s the real secret to being a successful Avowed manager.
+
+
+Yeah. He was fine. Fine enough.
+
+
+This wasn’t what he’d hoped for, but a year-ish amount of time was still long enough that he could pretend it was a problem for another day. He’d get used to having it hanging over him, right? Like that old wives tale about how frogs in pots could be brought to a boil without trying to leap out if you did it slowly.
+
+
+I think that story is supposed to be a warning. I don’t think I’m supposed to want to trick myself into being the clueless frog.
+
+
+He pulled up his profiles. The fake hadn’t changed. The real one…
+
+
+*
+
+
+Name: Samuel Alden Thorn
+
+
+Preferred Name: Alden
+
+
+Class: Rabbit
+
+
+Rank: B   Overall Level: 10 ✶
+
+
+Commendation: Exceptional Bravery in the Absence of Obligation
+
+
+
+Awarded by Fourth General Loh Alis-art’h
+
+
+
+Skills: Let Me Take Your Luggage, B (Level 9)
+
+
+
+Skill Type: item preservation (total)
+
+
+isolation and preservation of enchantment (end results vary)
+
+
+
+Spell Impressions: The Haunting Sphere, D
+
+
+Trait: Azure Rabbit
+
+
+
+Trait Type: movement, limited to element — ground
+
+
+
+Enhancements:
+
+
+Sympathy for Magic +4, Agility + 3, Dexterity +2.5, Speed + 2.5, Stamina +1.75, Strength + 1.5, Proprioception + 1.5, Appeal + 1, Visual Processing + 1, Processing +1.75 (in progress)
+
+
+Recommendations and Merits:
+
+
+Social Recommendation (LeafSong University, Artona III)
+
+
+Emergency Response Merit (LeafSong University, Artona III)
+
+
+*
+
+
+So that’s how it works then.
+
+
+He’d thought it would be. His bound authority’s growth was being represented with the skill level boost from 8 to 9. And in his overall level number change from 9 to 10.
+
+
+The free authority growth wouldn’t be represented until it was bound into something. There was no point in Earth counting it as a part of an Avowed’s overall power, since it was unusable for everyone but Alden.
+
+
+He assumed the fake profile would update on its own at a later date…or maybe they were waiting for him to ask for an adjustment. He didn’t want it to change right now.
+
+
+I need to learn a non-auriad spell first. Maybe two.
+
+
+In a few months, when the school started to get antsy about his progress, the level on the fake could get a bump and the spells could be passed off as his reward. Or possibly the ability to preserve an additional item could be, since he hadn’t revealed it to anyone yet.
+
+
+It’s going to be a little stressful to fake spell impressions if they’re more complicated than Light Candle.
+
+
+Spell impressions were robo-casting, and if you paid attention to the people doing them for long enough, they started to look and sound like robo-casting. Konstantin’s dolphin chant involved the exact same noises being delivered in the exact same way. And when Alden cast Haunting Sphere, his fingers moved with a very particular rhythm and no deviations from form unless he tried to screw it up or something hit his hand mid cast.
+
+
+It was hard to judge what his regular casting looked like to an outsider, but he knew it wouldn’t be identical every time.
+
+
+Guess I’ll figure it out.
+
+
+It would be fine. He would be fine. He’d known the levels were coming. He wanted his free authority to grow. He just had a hard time wrapping his head around the price and the pace.
+
+
+He pushed himself up and went to brush his teeth.
+
+
+******
+
+
+He’d been curled up on the sofa for fifteen minutes, watching Kibby videos on his tablet, when Lexi came back.
+
+
+That was a quick jog.
+
+
+He pretended not to notice his fellow early riser had returned.
+
+
+Kibby produced several hours of content for every video batch. For some reason, she’d decided to give him a lesson in ultra-formal table manners this time. She was in Instructor Kivb-ee mode, and she was in the travel dome’s dining room, explaining the significance of all the different ways place settings could be arranged.
+
+
+He’d turned off translations so that he could pick up all the new words on his own. This was educational. And it was his version of Saturday morning cartoons to help him put his head back on straight. Snide remarks from his prickliest roommate were unwelcome.
+
+
+No, he thought, as he caught Lexi approaching out of the corner of his eye. See the headphones I’m wearing. See me not looking your way. You were nice about the puking, and now we’re both minding our own business, aren’t we?
+
+
+“Hey.”
+
+
+Or not.
+
+
+Alden looked up with his most non-confrontational smile plastered on his face. Lexi held out his hand. A thimble-sized gray cylinder with a dark red cap lay on his palm. “For your stomach.”
+
+
+He got me medicine?
+
+
+Alden pulled off his headphones and took the cylinder. He did recognize it as a medical something. He’d seen pictures of them but hadn’t taken enough of an interest to figure out exactly what they were.
+
+
+The few tiny logograms on the side were translating as “pause unruly stomach.”
+
+
+“An injector,” said Lexi. “I told the dispensary it was for me. It’s just an anti-emetic and we’re about the same size, so it’s fine.”
+
+
+“Thanks.”
+
+
+Lexi watched him turn it over in his hand a couple more times. “You don’t know how to use it.”
+
+
+“I can look it up.”
+
+
+“You press the cap to your abdomen and say the word for ‘pierce’ in Artonan. It burns a little. Lasts for hours.”
+
+
+Alden wasn’t nauseous anymore, but he knew an olive branch when he saw one.
+
+
+He lifted his t-shirt an inch and pressed the injector to his skin. “Pierce.”
+
+
+There was a pinch and a burning sensation, and a few seconds later, he realized his guts hadn’t been completely back to normal because he did feel slightly better.
+
+
+“They are so good at drugs,” he noted, pulling the empty cylinder away from his skin and examining it.
+
+
+“I’ve heard that those cost a few hundred argold in other places.” Lexi sat down in the armchair across from Alden.
+
+
+“Do I owe you money?”
+
+
+“No. It was free. They don’t even ask what you need these ones for unless you’ve been requesting them frequently. My mother used six a day when she was pregnant with Irina.”
+
+
+“It was cool of you to pick it up for me. Sorry if you had to cut your run short to do it.”
+
+
+Lexi looked toward the window. The sun hadn’t risen yet, but there were a couple of lights on in the girl’s dormitory. “I don’t hate you or anything.”
+
+
+I’ll take it. “I don’t hate you either.”
+
+
+“Freaking out about your Artonan friend wasn’t even about you. Or your friend. I’ve just got a lot on my mind lately. You being unbelievably strange and oblivious in yet another way just set me off.”
+
+
+“Are you sure you don’t hate me?” Alden asked. “Because those aren’t things people would usually say in the middle of apologizing.”
+
+
+Lexi turned to face him again. “I wasn’t taking you seriously enough when you complained about me springing Lute on you.”
+
+
+“I was being a hypocrite. You were right.”
+
+
+“Yes,” Lexi said. “But I really did think you were just whining about me hiding social dynamics from you. I thought it was a stupid thing for you to complain about at all. I thought, ‘Why the fuck can’t he figure out the social dynamics for himself? How hard can it be?’”
+
+
+Alden frowned. “I’m not suffering that much. I would have figured out the potion injector on my own in a few minutes.”
+
+
+Lexi rolled his eyes. “It’s not about the potion injector. Or about you constantly doing the recycling wrong. Or the fact that you don’t know when to give up your bus seat.”
+
+
+“I’m doing the recycling wrong?”
+
+
+“When you tell people you’re on the phone with your wizard friend, they’re going to think you mean a dozen different things before it ever occurs to them that you might really mean you have a friend who is a wizard. And having a friend who is a wizard is uncommon enough on its own. If I had an Artonan friend, I wouldn’t tell you about it unless you and I were close. I wouldn’t give my new roommate a casual warning when I was on the phone with a wizard. I’d just let them spy.”
+
+
+“You want me not to tell you when I’m on a video call with him?”
+
+
+“Of course I want you to tell me every time an alien is watching me through the System. Now that I know, I’ll go crazy wondering. But…I think what I’m trying to say is you didn’t owe us the warning in the first place. And if I were you, I wouldn’t give that one to people in the future.”
+
+
+“That seems dishonest.”
+
+
+“Say you’re on a phone call with your elderly aunt or something. Let everyone know they need to be polite. You don’t have to be forthcoming about…”
+
+
+“About what?”
+
+
+“I don’t know!” Lexi said in a frustrated voice. “It’s not like I’ve actually thought through this particular Anesidora social dynamic before. It doesn’t apply to me. But you don’t have to be completely open about something that you know is going to make you look so different from everyone else. If I thought you were telling me you had an Artonan friend to brag or make yourself seem more important, I would understand you and I wouldn’t say anything. But you almost never talk about your time on the Triplanets or whatever you did there. I’ve heard you mention it twice, and it was trivial stuff. And Kon specifically told me that you wanted it to be no big deal…just…I’m telling you the wizard friend might come across as a bigger deal to most people than whatever your space horror story is.”
+
+
+They wouldn’t feel that way if they’d had their own space horror stories, thought Alden.
+
+
+“I see what you’re saying. But other Avowed do have Artonan friends. Like Big Snake.”
+
+
+Lexi stared a him. “He’s one of the most popular superheroes in the world. He gets summoned to the Triplanets all the time, and he owned magic wolves. When he says, ‘my wizard friend’ it feels like part of a certain kind of package. It’s the same with Lute’s grandmother. Or with a few Avowed who stop by the island twice a year and walk around fully inked and refusing to speak Earth languages, dropping ten thousand argold tips on everyone they meet.
+
+
+“If they say something like that, people kind of know what they mean and how to take it. You’re not those guys. When you say it, who knows what everyone will come up with?”
+
+
+Alden rather wondered what Lexi had come up with. Had Alden been stuck in the Big Snake, Velra, or Barely Human Anymore category? Somewhere totally different?
+
+
+He felt a fleeting temptation to give his roommate a ten thousand argold tip on the spot, just to see what happened. He squashed it.
+
+
+“Got it. Thank you for explaining. I’ll tell you guys when my friend calls. I’ll tell everyone else he’s my ancient aunt.”
+
+
+Lexi stood. “I’m sorry I called you globie like it was some kind of a slur.”
+
+
+“I’ve been wondering if it is a slur actually,” said Alden. “Some people say it fondly, like your brother and Astrid. Sometimes it sounds much nastier.”
+
+
+“It’s strange to suddenly meet a bunch of people our age who’ve just come from the other side.” He shrugged. “Even for me. And I’m not an idiot like half of them are.”
+
+
+“The other side?”
+
+
+“You’ve all lived different lives in different places. Like movie characters.”
+
+
+I feel like the people here are the movie characters sometimes. I guess that’s a mutual thing.
+
+
+“And most of you still seem to think Anesidora is just your address,” Lexi continued. “Like we do when we’re younger kids.”
+
+
+“How else would we think of it?”
+
+
+“It’s not like I’ve got it all figured out. Or like anyone ever puts it into words that don’t sound horrible.” He cast another thoughtful look toward the window. “But a lot of us understand by the time we’re old enough to be selected…the rest of the globe might as well be another planet. It’s a planet that’s a little easier to get to than the others, and the people there look like us. But no matter how much an Avowed loves it, it’s never going to love us back.”
+
+
+Alden felt like he’d just taken a small, unexpected slap. “Do you really feel like that?”
+
+
+Lexi nodded. “My parents were born there. They have families there. They love their old cultures, and they still can’t fit back in when they go for visits. Sometimes you sound like them when you talk about Chicago, but with none of the nostalgic distance. And you don’t even do it that much. Some of the other globies do it a lot more. Maricel and Finlay and the glowing guy…”
+
+
+“Søren,” said Alden.
+
+
+“He’s unmemorable for a human lightbulb. Him too. Some Anesidorans can’t get enough of hearing about life on the rest of Earth. Others feel jealous that you’ve seen things they haven’t. We’ve got third gens and even a couple of pure fourths in our class. No close relatives in any other country, so they’ll never get visitation visas like you all do. They feel however they feel about that, so the word ‘globie’ sounds thrilled coming out of some mouths and angry coming out of others.”
+
+
+He shoved his hands into the pockets of his jogging pants. “And then there are the people like me who are just surprised to be reminded some Avowed do hate it here even though this is the place that actually wants us.”
+
+
+Alden hadn’t ever thought of it in quite that way. “I don’t hate it here at all. I’m pretty happy. Annoyed I can’t go see my family and friends for Christmas, but I like living here so far.”
+
+
+“I know. I didn’t mean you.”
+
+
+Is Lexi a tiny bit patriotic? I did not see that one coming for some reason.
+
+
+“What kind of superhero do you want to be?” Alden asked suddenly.
+
+
+Lexi scowled. “Are you interviewing me now just because I talked to you for a few minutes?”
+
+
+“No. Yes? I just realized I didn’t know. And if you don’t really want off the island—”
+
+
+“I didn’t say I hated the concept of traveling,” he said in annoyance. “Anyway, there are all kinds of different jobs I could do after graduating.”
+
+
+I know, thought Alden, trying to smile placatingly. That’s why I was asking.
+
+
+“He wants to be Avowed event security,” said a voice.
+
+
+They both looked over to see Haoyu coming down the hall with a terrible case of bedhead. He yawned. “You two are up so early on a Saturday. And talking about careers? Hardcore.”
+
+
+“I’m going to head home to see my family in a few minutes,” said Lexi. “They’re back. I’d have gone last night, but Kon went the second classes were over yesterday. I figured he’d be overwhelming enough on his own. He’ll want to fool around here with everyone on campus today.”
+
+
+“Say hi to your parents for me. Mom and I are meeting up this afternoon, too. I’ll tell Alden about your dream job.”
+
+
+“No,” said Lexi.
+
+
+“Why? It’s such a good one.” Haoyu yawned again.
+
+
+Lexi turned back to Alden.
+
+
+“When Anesidoran entertainers and athletes travel on Earth, they have at least one qualified security person with them,” he said quickly. “Sometimes more. They need people who can detect threats and deal with emergencies in large venues. The places they’re visiting usually provide their own security, too, but the High Council decided several years ago to require specially trained Avowed for all groups over a certain size. I’d like to do that.”
+
+
+He raised his eyebrows at Haoyu as if to say, Look. I communicated myself. Are you happy?
+
+
+“That is a good job,” said Alden.
+
+
+It also suited Lexi a lot better than a position where he’d be on camera all the time.
+
+
+“Do you want to travel with your parents when they’re touring? And keep an eye out for them?”
+
+
+“There are other traveling groups, too,” Lexi said stiffly.
+
+
+“He totally wants to protect his parents and the ballet company,” said Haoyu. “Which is lovely. So I don’t see why he’s acting like it’s embarrassing.”
+
+
+Lexi muttered something under his breath.
+
+
+“Actually, though,” said Haoyu, “if anything goes wrong at a large event like that, the security hero only takes care of the other Avowed until they’ve all emergency teleported out. Mostly they’re on hand to protect the guests who came to the event. It’s a political nightmare for a group of Avowed to get ET’d out of a disaster where regular humans are getting injured. The security person is a visible reminder that the performers are performers. People who’ve gone somewhere to sing or dance shouldn’t have to throw themselves on grenades for their audience members…but there are really unfair expectations.”
+
+
+“They think every Avowed should be willing to die for them because that’s what we’re for.”
+
+
+“Lexi, it’s six o’clock in the morning,” Haoyu said plaintively.
+
+
+Lexi stared at him.
+
+
+“It’s too early for you to be mad.”
+
+
+“I can be mad whenever I—”
+
+
+“No,” said Haoyu. “I just decided. You’re not allowed to be mad before eight. Nine on Saturdays.”
+
+
+Lexi’s brows drew together.
+
+
+Haoyu nodded at him.
+
+
+“I was sick, and Lexi brought me medicine,” said Alden, feeling the need to defend him a little. “He confessed he didn’t hate me. And I will be learning about how to do the recycling right away.”
+
+
+“Were you doing it wrong?”
+
+
+“I guess so. There are a lot more options than I’m used to. What’s the gray bin for?”
+
+
+“Metal stuff,” said Haoyu.
+
+
+“No!” Lexi gaped at him. “It’s for things that could possibly have magical residue on them. Like that!”
+
+
+He pointed at the injector in Alden’s hand.
+
+
+“Really? The one at home said something about Wrights, and it was gray, so I figured they wanted metal…I don’t think I ever asked anyone.” His eyes widened. “Oh no. I’ve been doing the recycling wrong since I was three.”
+
+
+*

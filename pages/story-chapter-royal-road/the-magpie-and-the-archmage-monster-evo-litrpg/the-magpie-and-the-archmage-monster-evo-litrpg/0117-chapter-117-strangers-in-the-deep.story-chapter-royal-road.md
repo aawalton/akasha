@@ -1,0 +1,173 @@
+---
+id: 686d0acf-9cba-547f-8ef5-62625da1d405
+page-type-slug: story-chapter-royal-road
+title: "Chapter 117 – Strangers in the Deep"
+slug: 0117-chapter-117-strangers-in-the-deep
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 117
+ownLength: 1973
+unit: words
+publishedAt: 2026-05-01
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3339673/chapter-117-strangers-in-the-deep"
+royalRoadId: "3339673"
+---
+
+Seeing the merpeople swimming at them with full speed made Liora panic. For a moment, she wondered whether all her life choices had been completely wrong. Mostly the one about her choosing the aethral evolution. She wasn't a penguin for heaven's sake! The sky was her place, not the sea.
+
+The merpeople, three of them, approached much more quickly than Liora could swim. Without any better idea of what to do, she activated Aegis Cyclone, hoping that Fluid Flight would be able to convert the skill into an underwater form.
+
+The area around Liora began to bubble gently, then it slowly began to swirl, and Liora could feel that she and Cee were being drawn into it.
+
+NO! Don't use the Aegis Cyclone underwater. You'll only create a swirling water vortex, which you'll be unable to control.
+
+Liora hastily canceled the skill, instead Fading along with Cee and redoubling her efforts to swim up.
+
+This is false advertising! I thought Fluid Flight would convert all aerial skills into underwater counterparts.
+
+It certainly would, but Aegis Shield would also try to expel water from within its sphere. This, in turn would create a water vortex which would quickly drain all of your mana as it tried to expel a sea worth of water away from you.
+
+Liora wanted to whine about it, but had no time as Cee poked her frantically. Throwing a glance back, Liora saw that the merfolk were still hot on their tail. She wanted to protest—she was Faded at the moment.
+
+But then she noticed that her frantic wing movements were creating small but noticeable ripples in the water. Predator of the Deep wasn't yet high enough level to conceal movements so obvious. Liora tried to be more methodical and calm about how she swam, but it didn't matter. Fade ended, and the merfolk were right on their tail.
+
+"Please, do not be alarmed, strange bird and spider!" One of the merfolk suddenly said. "We do not wish you harm."
+
+Liora paused for a moment, not believing her ears. Their voices didn't sound exactly human. They were high-pitched and sounded a bit warbled in the water. But the fact that they were speaking was shocking enough in its own right.
+
+"Good birdie, good spider. We're just curious what you are doing so deep underwater," another mermaid asked.
+
+Only now did Liora dare to stop to take a closer look at them. The one who had spoken first was a man with a well-defined body and a bottom half reminiscent of a shark. He had grayish-white scales up to his midriff and stretching up the sides of his hands, as well as on his neck.
+
+The second one was a woman with long black hair, which seemed to shine with an iridescent sheen very similar to Liora's own. Her tail and scales were dark with streaks of white, and she was larger than the man, making Liora believe that she was part orca.
+
+The last one was a smaller mermaid with short silvery hair, similar to the shark man but with a black tail like the mermaid. Were they perhaps a family?
+
+Timer, Liora! Check your oxygen timer!
+
+Liora hurriedly demanded that the system show how much time she had left underwater. She didn't even know it could do that. Yet another thing Renir didn't tell her ahead of time.
+
+[Time remaining underwater: 5 minutes 36 seconds]
+
+Liora flailed her wings frantically, looking up at the surface. She couldn't see it. There was no way she could make it back in time. Was there any way for her to swim faster? And what would happen when the timer hit zero? Would she just die, or would she start slowly running out of oxygen in her lungs? How long could birds normally hold their breath?
+
+"I think it needs air…" the child mermaid said in a quiet, softer voice.
+
+"Oh my, oh my. You might be right," the orca mermaid said and suddenly began blowing bubbles in Liora's direction.
+
+They tingled all over Liora's and Cee's bodies, creating a strange sensation. As if they were inside a jacuzzi, except not hot. Once the bubbles stopped, Liora felt like she had taken a fresh breath of air. She checked the timer again.
+
+[Time remaining underwater: 29 minutes and 56 seconds]
+
+They gave you oxygen?
+
+Renir, are they dangerous?! What do I do?
+
+I don't know! I've never met merfolk before. I only suspected we might be running into them because of those stone structures underneath.
+
+Argh! Why are you always so useless?
+
+HEY!
+
+"Are you better now, strange, beautiful bird?" The orca mermaid asked, swimming closer to Liora and looking at her from all angles.
+
+Cee raised her legs, trying to warn the mermaid not to get closer. But she apparently found it amusing and reached out to touch Cee's leg with one of her fingers. "Hello to you, too, peculiar water spider. You are rather beautiful yourself!"
+
+Liora had no clue how to even react to this. This strange merfolk family was just swimming around them, admiring them as if they were some museum exposition. The orca mermaid, in particular, wasn't shy in showing her fascination, swimming up and down to admire Liora from all angles. But then she went too far. She touched Liora's tail feathers.
+
+Touching another bird's tail was an incredibly rude gesture. The tail was not only a way for birds to control their movements but also their natural crown, so to speak. Liora took special care of her tail feathers to make sure they were always in prime condition.
+
+"CAW! Don't touch the tail!" Liora complained and was surprised to realize that she could talk underwater.
+
+That's interesting… I suppose Mimicry is a skill, and Fluid Flight makes it usable underwater. Most fascinating. I wouldn't have expected that.
+
+"It can talk!" The little mermaid exclaimed.
+
+"I have never seen a bird talk. Much less talk underwater. How are you doing that?" the orca mermaid asked.
+
+"It's a skill! Now stop poking us at once. You are making Cee very nervous," Liora said.
+
+"Cee? Is that the name of the spider?" Orca mermaid said with amusement, and Cee once again raised her front legs defensively to emphasize the point. "That is so cute!"
+
+"Dear, I think you're scaring them," the shark man said.
+
+"Aww, poor darlings. I didn't mean to. I just have never seen such critters as yourself in the water. I was afraid you were drowning at first, but you were swimming most admirably," the orca mermaid said. "Let me introduce myself. I am Calypra. This is my partner Varrox, and our daughter Azmira."
+
+"Nice to meet you," Varrox said.
+
+Liora would have fluffed up her feathers in mild annoyance had she not been underwater. This was a very odd trio.
+
+"I am Liora, and the spider is called Cee," Liora said cautiously.
+
+"Liora? What a beautiful name! And Cee is very adorable indeed. I absolutely love your beautiful feathers. It's very similar to my hair," Calypra said, moving her long hair this way and that. She was clearly very proud of it.
+
+"Your hair is quite beautiful, I agree," Liora nodded. She couldn't deny that they had a very magpie-like quality. Glossy, smooth, shiny.
+
+"I knew you'd understand. Tell me, what are you doing underwater?" Calypra asked, a bit more suspiciously.
+
+Liora felt nervous. She was basically at the mercy of this orca mermaid and shark merman. They looked incredibly strong, and their species name [Merfolk] was displayed in bright red. A battle with them would be foolish. Liora had to talk their way to safety.
+
+Would they be mad if I told them the truth?
+
+Do I look like a mermaid expert to you? I have no idea.
+
+Liora wanted to roll her eyes, but in the end decided that honesty was the best policy. It wasn't like she was coming to steal anything. Not yet, at least.
+
+"We're going to a mana node," Liora said, carefully watching for their reaction.
+
+"Mana node? What would surface critters require an underwater mana node for?" Vorrex laughed, revealing a row of razor-sharp teeth.
+
+"OH, oh, I know! These critters are clearly very smart. Are you on your way to becoming a beastkin?" Calypra asked excitedly.
+
+"Beastkin?" Little Azmira asked shyly.
+
+"They are like us. Humanoid people with animalistic features, except they live on the surface," Calypra explained.
+
+"There are people like us on the surface?" The mergirl looked amazed.
+
+"Sure are! I've even met a few of them. Brave adventurers exploring an underwater dungeon. Wonderful fellows!" Vortex said with a hearty smile, then turned to Liora. "So you two are about to evolve into beastkin?"
+
+"We… Yes! Yes, of course. Why else would we be able to talk?" Liora confirmed with a nod. "It's why we need the mana node. It is a requirement to absorb some of its essence for our evolution."
+
+She felt a bit bad about lying, but Liora's goal was to get to the mana node. It wasn't like she was hurting these merfolk with her little white lie.
+
+"Fascinating! And the spider can talk too?" Calypra asked, swimming a bit closer to Cee.
+
+Cee just flailed her front legs frantically, unable to communicate her obvious frustrations. Liora suspected her friend was rather panicked at the moment.
+
+"Yes. But not underwater," Liora said. "I have taken a special evolution which allows me to remain underwater for about half an hour."
+
+"How were you going to reach the mana node? It's still a good 15-minute dive away, and we're already way below the surface," Varrox pointed out.
+
+"What?! We didn't know it was so deep," she replied honestly.
+
+"Then it's a good thing we found you, isn't it? I have a special skill that allows me to replenish oxygen reserves. My daughter and I need air to breathe, too, you know. Although Varrox is good since he has gills," Calypra said, looking at her partner with a hint of jealousy.
+
+"Hey, it's not like I invented that some merfolk would be mammalian and others piscine," the merman raised his hand defensively. "But you mammalians have other perks."
+
+"Indeed, we do," Calypra smiled slyly, making Varrox blush and rub his neck awkwardly.
+
+What were these other perks? Perhaps it was best that Liora didn't know.
+
+"So, what do you say, surface critters? Would you like our help?" Calypra asked.
+
+"If you would be so kind, I wouldn't say no," Liora said cautiously. "But surely you wouldn't do it for free."
+
+Calypra smiled. "No, I do have a tiny favor to ask of you after the task is complete."
+
+"If it has anything to do with cages, then the answer is no! And I cannot remain underwater either!" Liora said firmly.
+
+"Oceans, no! What have you been through for you to even suggest something so foul? Only humans would hope to keep other creatures caged and under their control," Calypra said.
+
+"Utterly disgusting," Varrex added.
+
+"What are cages?" Azmira asked curiously.
+
+"It's a bad thing humans sometimes make to keep others contained. Utterly dreadful. But don't worry, we are safe in the sea depths. Humans can't swim at all," Varrex assured.
+
+"Well… I suppose if it's nothing bad, I wouldn't mind doing a favor in return," Liora said.
+
+"I promise that it is not. Now, shall we head to the mana node?" Calypra asked.
+
+Liora was skeptical, but what choice did she have? The mana node did indeed feel quite a distance away. She couldn't get down there unless she managed to level up Fluid Flight, and who knew when that would happen since it was already at an adept level.
+
+"Very well," Liora nodded, despite the insistent and slightly distressed pokes Cee was giving her and the strong sense of unease coming from Renir.

@@ -1,0 +1,145 @@
+---
+id: 24054aa9-e8e2-55b6-be5f-2b0580f7c72f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1236 - Dragon Hunter (5)"
+slug: 0108-chapter-1236-dragon-hunter-5
+partOf: the-primal-hunter
+position: 108
+ownLength: 3071
+unit: words
+ownProgress: 3071
+publishedAt: 2026-01-19
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2958272/chapter-1236-dragon-hunter-5"
+royalRoadId: "2958272"
+markedReadAt: "2026-06-29T19:32:41.506Z"
+---
+
+As Jake stood under the oppressive aura of the True Dragon’s mana, he could only admit that their moniker as the strongest magical race was truly well-earned. The absolute display of might as all the orbs honed in on him made Jake’s danger sense explode, making him instantly realize that now was the time to be defensive.
+
+All at once, the orbs of light released beams that carried the same concept as those prior, meaning that individually they were almost harmless – at least they couldn’t break through his scales – but should he get hit by several on the same spot, their effects would stack, leaning to ever-increasing damage.
+
+Dodging them all wasn’t a possibility, so Jake had to think fast and adapt to avoid taking lethal damage. Should he get hit by several dozen at once, he feared it would be game over, so he focused with all his might.
+
+The already activated Pride of the Malefic Viper helped Jake summon mana bolts and barriers as he dodged to the side, wanting his movements to be as unpredictable as possible. All the beams curved and followed him, and, to his horror, he realized they were speeding up the longer they were in flight.
+
+Jake’s only saving grace was that Yrelstromoz had to focus on controlling the beams and couldn’t attack in other ways while using this magic.
+
+Soon, the first beams arrived and were met by a barrage of exploding arcane bolts and barriers that they had to get through before reaching Jake. He managed to destroy a few, but there were just too many, and soon they were upon him.
+
+Using his katars, he deflected some while purposefully getting hit by others when he could ensure it wouldn’t be more than three striking within a short interval. Yrelstromoz’s skill had a grace period where it still counted as if several struck at once, even if there was a slight delay, upping the danger, as Jake also had to find out exactly how long this grace period was.
+
+Thousands of beams came at him a second, Jake managing to avoid or destroy the vast majority, but eventually some got through. He was struck by six at once on his foot when he was too slow to move it out of the way, his boots saving his body from being destroyed, but the energy behind the blow still leaked through, causing significant damage.
+
+Less than half a second later, seven grazed his shoulder at too close an interval, leaving him with a nasty burn and destroyed armor. This kept happening until the beams finally fizzled out after Jake had been perilously running and defending for half a minute. It seemed like a short time, but given the speed of the fight and the danger involved, it sure hadn’t felt brief.
+
+Throughout this experience that Jake could only liken to a bullet hell, Jake had also burned through a great deal of mana, having summoned several thousand arcane freeform spells to try to lessen the damage. He had succeeded in doing so somewhat, though it hadn’t exactly turned out as he'd hoped.
+
+Even so, once the beams subsided, Jake quickly took the opportunity to pull out his bow and try to hasten Yrelstromoz’s death. He shot several arrows while also focusing some mental energy on healing his injured body in all the places that mattered.
+
+He’d been burned in roughly thirty different places, the worst one on his left thigh, where thirteen beams had struck, searing off a good amount of flesh, enough to make his femur slightly visible. It hurt like hell, but it didn’t impact Jake’s movements at all, and overall, he doubted there were any other C-grades alive that could have dealt as well with the barrage of beams as he did… except for people who were damn cheats like Eron, but Jake didn’t count those. The point was, due to limiting the damage he’d taken, Jake even got off several good arrows while Yrelstromoz was still not ready to divert her energy to defend.
+
+She was struck by three arrows before she could disengage from the orb attack. As one, the sea of orbs in the sky dimmed as Yrelstromoz dodged to the side while summoning a barrier to avoid the other incoming arrows.
+
+Before she even landed, her magic moved once more. All the dimming orbs in the sky flashed for a moment before merging into a single, intense orb. Jake watched it carefully while shooting more arrows, ready for it to attack.
+
+However, just as he’d expected the orb to do something, Yrelstromoz took him by surprise. Right as she landed after jumping away, her wings flashed as she flapped them once, appearing right in front of him in the very next moment, already mid-swing with her right claw.
+
+Jake’s eyes opened wide as he hadn’t seen her do that. With an arrow already nocked, he was in an awkward position as the glowing claw came for him, forcing him to dispel the arrow and use his bow to block the blow. The sharp claws struck the bow’s body, sending tremors through Jake’s arms and body as he grit his teeth and forced down a mouthful of blood.
+
+Yrelstromoz instantly pushed her advantage, giving chase once more as her claws descended yet again. This time, Jake could switch to his katars in time and managed to block the blow far better, even finding space to entirely dodge the third swipe and land a quick jab in return.
+
+He expected a third claw attack, but instead her entire head came down on him, her jaws trying to bite him in two. Jake was surprised by the speed and dodged quickly to the side, aiming to swiftly take advantage of Yrelstromoz putting her head in an exposed position.
+
+Right as he stabbed forward, his katar only a few centimeters from her eye, she used Draconic Language once more.
+
+“Repel.”
+
+Jake felt an invisible force push him away from her, but at the same time, he also felt the extreme drain on her mana, making it clear that using Words of Power directly on him took a lot more than manipulating the environment. It was probably still better than getting stabbed in the eye, but Jake still believed the exchange was to his advantage.
+
+For a moment, anyway.
+
+He hadn’t even stopped flying back as he realized he had been pushed directly towards the giant orb of light that immediately revealed its purpose. Rather than doing anything fancy, it was just a collection of mana from the orbs that Yrelstromoz repurposed to do the simplest of things:
+
+Self-destruct
+
+Jake was blinded due to looking at it as the orb exploded, sending out a massive shockwave that burned everything in its wake. It came from directly behind him, but just as he was about to prepare a response, the dragon was upon him yet again, forcing him to whip his head around and block her incoming blow.
+
+Using his wings, Jake covered his back as he was attacked from both directions at once. The explosion struck him from behind at the same time as he was forced to block the first claw swipe.
+
+His wings were burned to cinders from the explosion of light, singeing his back after they were gone, as he couldn’t dedicate more to defending from the explosion, his focus wholly dedicated to handling the recklessly attacking dragon. Without the passive shield of Arcane Awakening and his scales, the situation would have been far worse, but as is, it wasn’t great.
+
+However, despite the overwhelming pressure, Jake’s instincts took over, guiding his movements with precision as he matched the dragon’s relentless offense. The air was thick with mana from the explosion, distorting the space around them and making every exchange tougher. He gritted his teeth, refusing to yield as he searched for any opening in Yrelstromoz’s constant assault, determined to turn the tide in his favor.
+
+Jake’s superior experience in combat came into play again as Jake slowly gained an advantage, pushing back Yrelstromoz slightly and landing several solid stabs before she was forced to retreat. His entire backside was seared to a crisp, but Jake didn’t pay it any mind as new scales regrew to protect the exposed flesh.
+
+It was only now, during a brief lull, that Jake realized Yrelstromoz wasn’t exactly looking in peak condition either. She hadn’t held back using her magic, and it showed as the Dragonsbane Poison had gone on an absolute rampage, tearing through her body and soul. The shine on her scales had slightly dimmed, and he could see that some of the wounds he’d left recently weren’t getting healed as fast, if at all.
+
+She had redirected most of the energy she spent on defense and healing to tearing Jake apart — an approach Jake could respect and acknowledge as likely her best course of action if she planned on winning.
+
+Swapping to his bow once more, Jake used One Step just as Yrelstromoz launched a few quick beams of light as she no doubt prepared a larger spell on the backend. Jake returned fire, and for the next little while, the two entered a pure ranged battle where arrows and spells were shot back and forth.
+
+Yrelstromoz mostly used beams, but she proved herself capable of many other forms of magic, even some outside of the light affinity. Jake was taken by surprise a few times when she manipulated the wind to form blades or made hyper-condensed spikes of earth shoot up from below. He did take note that she wasn’t ever summoning anything new, but merely making use of the existing environment to power her spells. An efficient and effective approach.
+
+Needless to say, Jake was severely outmatched when it came to magic. He tried to fight back, releasing arcane bolts and orbs of his own to nullify some of her spells, but he often had to use several bolts to destroy even hastily strung together attacks from the dragon.
+
+During this constant exchange, both of them took plenty of wounds as neither was capable of blocking or avoiding everything. Jake definitely landed more arrows than he was struck himself, but he was still left with a nasty hole in his stomach and had a deep gash in his forearm that even cracked the bone beneath after he had been forced to block a wind blade that proved far stronger than he’d first anticipated.
+
+In turn, Yrelstromoz had several dozen small holes left by arrows and katars covering her body, many of them showing signs of decay as the Dragonsbane Poison infected every fiber of her being. Her constant use of spells only reduced her health pool further, but the vitality of a dragon was truly praiseworthy, once more proving why they were regarded as one of the most powerful races in the multiverse.
+
+Second to humans, of course. Well, maybe only this particular bow-wielding human.
+
+Seeing as time was on his side, with Yrelstromoz burning through resources faster than he was, this exchange favored Jake, but they both knew she was cooking up something big on the backend. Soon after the two landed yet another set of attacks on one another, she was ready to unveil what she’d prepared.
+
+After creating some distance with an explosion of physical light, Yrelstromoz unfolded her wings once more and took to the skies. She released a roar as her entire body started glowing with an intense light... before splitting in two. These two golden dragons split once more, creating four, before it happened one more time until eight dragons of pure light floated in the sky, each flap of their wings releasing blinding flashes.
+
+For a moment, Jake thought she was trying to hide herself, but the true body of Yrelstromoz was immediately revealed as the glow on her body faded away. She was still surrounded by seven other dragons of pure white light that all flapped their wings in perfect sync.
+
+Jake remained confused about what the purpose of this skill was until all seven dragons suddenly moved at once, barreling down toward him. He reacted by retreating away as the first dragon reached him, watching as its claw swept into the ground... only to phase right through.
+
+A second dragon was already upon Jake, flying straight down at where he was. Using One Step, Jake got out of the way, also dodging the third and fourth dragons in a similar manner, but he was too slow with the fifth one.
+
+He’d nearly gotten out of the way when it flew past him, its wing phasing right through Jake’s body as it did so. However, while the ground had remained unmarked by the dragon’s passing, the same couldn’t be said about Jake.
+
+As the dragon passed through Jake, he felt a scorching sensation going through his body, and despite it leaving no exterior marks, Jake felt himself take damage.
+
+Some kind of soul magic?
+
+He wasn’t sure what he was dealing with, but he knew that these weird summoned dragons weren’t something he wanted to tackle for too long. Once more, he was at least a little lucky that Yrelstromoz couldn’t attack with her own body while controlling the light dragons, at least giving Jake a chance to fight back.
+
+After being struck by the fifth dragon, Jake barely avoided the sixth and seventh, but by the time he’d done so, the first two were back, approaching for a combo attack. To dodge out of the way, Jake released a blast of destructive arcane energy, also hitting one of the dragons in the process, to see if it had any effect.
+
+When his destructive arcane mana struck the light dragon, he saw the two energies mix as a part of the dragon was destroyed, though it instantly mended itself barely half a second later.
+
+Its energy dropped slightly, Jake thought, considering whether he could destroy the dragons if he unleashed enough arcane magic to do so.
+
+Jake didn’t have much time to think, though, as a dragon flew up from directly below, having phased through the ground to keep itself hidden. He once more barely got away, but three more dragons circled him, diving in for the attack whenever another one had passed.
+
+As the two dragons flew by one another, he noticed something else. For a moment, it looked as if small rays of light formed between their two bodies, making Jake conclude that the reason Yrelstromoz didn’t just attack with all seven at once was that the dragons couldn’t get too close to one another for too long.
+
+Something Jake immediately took advantage of as he used this discovery to more easily avoid getting hit. At the same time, he focused on destroying one of the dragons by shooting arcane bolts and loosing arrows at it whenever possible, making some progress.
+
+Jake also tried to shoot the real Yrelstromoz a few times, but three of the dragons retreated and focused only on protecting her, allowing the True Dragon to focus on making the other four burn Jake inside and out.
+
+Her control wasn’t what Jake would call immaculate, allowing Jake to destroy the first dragon in only half a minute or so. This lessened the pressure a little, but not by much, as Jake had mostly been relying on the dragons being unable to get near one another.
+
+He had a few close calls here and there, but overall, this light dragon summoning skill proved more mysterious than dangerous. When two more dragons were destroyed within another minute, the pressure was nearly entirely gone, and with all but one focused on attacking and not defending Yrelstromoz, Jake managed to get in several potshots on the real thing.
+
+Some got through, and with her focus split, Yrelstromoz couldn’t summon any barriers to defend herself but just had to take them. When only three light dragons remained, the True Dragon seemed to realize this wasn’t working as she threw one last Hail Mary.
+
+All three surviving light dragons flew towards him at once, no longer caring about destroying one another as they did so. In fact, Jake realized his assumption had been slightly off, as while two of the dragons were indeed destroyed, the last one absorbed them as it grew massively in size.
+
+This change took Jake entirely by surprise, and even after using One Step, he found himself struck as the dragon had also gotten way faster, burning away the rest of its energy to speed up. It flew straight up and through him, passing with its entire body as Jake grit his teeth.
+
+Searing pain burned through his being, but Jake quickly responded by flooding his own body with stable arcane mana to counteract the effect. It was still painful to say the least, but Jake endured as the light dragon fully passed through him before it started fading away.
+
+Having been hit by this final attack, Jake wondered why Yrelstromoz hadn’t made more of them merge earlier… and that’s when he realized.
+
+It was a distraction.
+
+He had assumed Yrelstromoz had struggled to control the dragons and wanted to use them to take down Jake. It was clearly a misunderstanding on his part. Yrelstromoz hadn’t spent all her mental energy on the dragons, but only summoned them to buy time for her real attack, which was also why she hadn’t combined them before she was ready to unleash her real magic.
+
+Right as this realization hit, he felt it. Yrelstromoz’s body was flooded with power as a shockwave of light passed him, leaving trails of crackling light sparks in its wake. The entire atmosphere shifted, and from below, he felt an intense aura of magic making him look down, only to see an utterly gigantic magic circle that seemed to span for well over a thousand kilometers in every direction.
+
+Simultaneously, an identical magic circle filled the sky, giving off an equally intense aura.
+
+Jake looked at Yrelstromoz, already in a defensive stance as he laid eyes on her. This display of magic had clearly taken a lot out of her, and despite her scales, Jake could see black veins spreading throughout her body. However, he was far more focused on her head as Yrelstromoz took a deep breath… giving Jake a very good idea of what was about to happen next.

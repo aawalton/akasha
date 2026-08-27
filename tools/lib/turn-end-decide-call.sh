@@ -6,7 +6,7 @@ fi
 _said="/var/tmp/turn-end-decide-${AGENT_ID//[^A-Za-z0-9_-]/_}.$$"
 
 _line=$(printf '%s' "$STDIN" |
-  timeout 20 ops instructions turn-end-decide --agent "$AGENT_ID" 2>"$_said" | tail -1)
+  timeout 20 ops akasha turn-end-decide --agent "$AGENT_ID" 2>"$_said" | tail -1)
 
 IFS=$'\t' read -r _decision _reason FIELD_ASSIGNMENTS FIELD_WAITING FIELD_PENDING _stopped <<<"$_line"
 

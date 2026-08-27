@@ -1,0 +1,217 @@
+---
+id: 3568accc-7981-5531-b4b4-b601dddffb22
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2: Charlie the Cat"
+slug: 0005-chapter-2-charlie-the-cat
+partOf: shapeshifter-a-non-human-litrpg
+position: 5
+ownLength: 2041
+unit: words
+publishedAt: 2026-03-24
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3187501/chapter-2-charlie-the-cat"
+royalRoadId: "3187501"
+---
+
+Charlie the cat was a rounder creature than Xen had expected. With black fur that helped it blend into the darkness of the apartment, it valiantly stood its ground against the four intruders—back arched, fangs exposed, and hissing at them somewhat threateningly.
+
+[Domestic Shorthair Cat (Level 1)]
+
+Xen's Appraisal skill confirmed it wasn't a strong monster, but he was still wary. In Gerald's memories, it had said that cats somehow possessed nine lives.
+
+"It doesn't seem to like us," Valoria said as she poked her head in.
+
+"If I ate another cat, I could likely speak with it," Xen said, earning stares from the humans. "What?"
+
+"You can't eat cats!" Valoria said, seemingly horrified at the suggestion. "They are so cute and fluffy."
+
+Xen glanced at Charlie, who seemed more aggressive than the goblins. "Right... and how did the cats and humans reach that arrangement?"
+
+Valoria laughed. "If you're thinking a peace treaty was signed between the humans and cats, that could never happen. We just found them cute and intelligent enough to keep as pets."
+
+"Not as food?" Xen asked.
+
+"Just don't eat the cats or dogs, Gerald," Randy said. He closed the door behind them and flicked on the light. A terribly artificial white glow illuminated the room from a plastic bulb in the ceiling.
+
+"Come here, kitty," Valoria said, moving slowly into the room and trying to reach for the cat. It only hissed louder as she approached, making her hesitate.
+
+Vesper chuckled. "I don't think Charlie likes you," he said, stepping forward. "Watch a true cat whisperer at work—AH!" He stumbled back as the cat suddenly lunged at him. It sprang onto his back, used him as a launching point, and leapt again, only to land perfectly on Xen's shoulder.
+
+Xen stiffened as the cat slumped against his head. Ready to fight back, he flinched as the cat licked his ear. Xen hesitantly reached up and patted Charlie on the head. The cat let out a soft hum in response.
+
+"I did not expect the cat to pick the man-eating monster, but here we are," Vesper said, shaking his head.
+
+"You scared it so thoroughly that it picked the dark side," Valoria grumbled.
+
+"Hey!" Vesper narrowed his eyes at Valoria. "I don't remember Charlie appreciating your presence either—"
+
+"Enough," Randy said tiredly and dumped his backpack on the floor. "All that matters is the cat is safe and sound. Valoria, do you want to take a shower first?"
+
+Valoria nodded. Her hair was still bloodstained from when she had been thrown into the wall.
+
+"Hold on, let's find some clean clothes." Randy glanced around the small apartment. Walking over to a sliding door with some clothes piled against it, he moved it aside and exposed a wardrobe. "The guy was single, unlucky. Only oversized middle-aged men's clothes to choose from."
+
+Valoria sighed and began shifting through the clothes until she found something and held it against her. "These sweatpants should fit if I fold the ankles in a few times and tighten the waist."
+
+"I found a shrunk t-shirt," Randy said with amusement as he held up a white t-shirt with a giant cat on it.
+
+Valoria scoffed but took the offered t-shirt and headed toward the shower. Once the door was closed and the sound of rushing water accompanied the hum of the heater powering up, Randy collapsed onto the small couch in the room and put his head in his hands.
+
+"Hey man, you good?" Vesper asked as he took a seat beside his friend.
+
+"Yeah," he sighed and took his head out of his hands. "We are here now and alive. But everything would have been a little easier without this murder hanging over our heads."
+
+"Okay, let's take a step back for a second. The murders are not hanging over our heads; it's Ghostwire's head. All three of us were terribly injured and too low-level to murder those two. Even Ghostwire lacked the capabilities to kill a warrior and healer like that. But hypothetically, we could all pin the blame on Ghostwire."
+
+"But then what happens to Gerald?"
+
+The two glanced at him.
+
+"Nothing," Vesper said. "He can just change his identity, and the case dies with Ghostwire, who mysteriously disappears. I mean, legally speaking, we didn't participate or even assist in the murders, so it's not like we are lying."
+
+Randy fell into contemplation. "That's true." He glanced at Xen. "Would Vesper's plan be possible, Gerald?"
+
+Xen just nodded without elaborating.
+
+Randy leaned back and frowned.
+
+"Why the long face?" Vesper asked. "He said he can do it."
+
+"I'm just thinking about what our story should be."
+
+"Mhm, that's a good point," Vesper tapped his chin. "We need to pin it all on Ghostwire somehow while explaining why we didn't report it."
+
+"What if we didn't see anything?" Randy mused aloud. "Like, Ghostwire saved us from the 3rd floor, escorted us to the old Titanborn guild transportation hub, as he didn't want it to cut into his fees or something, and then he said he had something to attend to and left. That something just happened to be the murders, which we didn't see. We can explain that all the monsters were mysteriously dead on the way to the transportation hub, as it's not like any of us would have been capable of such a slaughter."
+
+Vesper grinned. "See, now you're getting it. Besides, murders committed in the dungeons rarely get solved, as the World Dungeon absorbs evidence. For all we know, the blood Valoria left on the wall was gone already, or an Orc in that encampment tampered with the evidence. Just relax, alright?"
+
+Randy let out a long breath. "Phew, okay. I'm chill."
+
+"Great," Vesper patted him on the back. "But either way, Gerald needs a new identity. While not the most famous Hunter out there, Ghostwire was a prominent Savior and likely had more family interest than the mage that leased this apartment."
+
+"Yeah, no kidding," Randy muttered as he glanced around the decrepit place. "Got any ideas, Gerald?"
+
+"The surface is... safe, right?" Gerald asked.
+
+"Yeah, for the most part. There are no monsters up here, and it's illegal for Hunters to attack one another," Randy explained. "Why?"
+
+"Well, if I wanted to really detach myself from Ghostwire's identity, I could go so far as changing race by taking on the form of an elf."
+
+Randy's eyes widened. "You can do that?"
+
+Vesper abruptly stood up with a grin. "Of course he can! Don't you remember he turned into a bat and a hellhound? Why wouldn't that extend to the more humanoid races like an elf?"
+
+"Er, good point," Randy said, calming down somewhat. "Still, that's crazy. Even if you wore the same clothes and that mask, if you are an elf, there's no way they can implicate you as elves are more than long-eared humans; their DNA is fundamentally different, and there's no way to fake that."
+
+Xen nodded. He was well aware of the elves' differences due to the amount of biomass it took to swap forms, despite how similar they looked. "The problem is, my elf form is far weaker than my human form. So I wouldn't want to fight in the dungeon while wearing it."
+
+"I see," Randy muttered and chewed over the ideas.
+
+Vesper crossed his arms and leaned on the wall. "Gerald, didn't you want to be a healer? That's why you killed that Priestess in the first place."
+
+"She was actually a Radiant Healer, a rare variant of Priest. I already had the priest class unlocked but wanted something more specialized."
+
+"I still can't believe you can just harvest classes like that," Randy muttered, shaking his head.
+
+"It's more of a worse copy that can't grow," Xen reasoned. "But yes, it is convenient. I got two new skills from devouring her, [Radiant Mend (C)] and [Cleansing Light (D)]. I can now heal you guys and cleanse you of debuffs should we ever delve into the dungeon as a party again."
+
+Randy and Vesper exchanged a glance.
+
+"Those are two great skills," Vesper whistled. "You will make a fine healer."
+
+"Okay, I will change into an elf, but first, I need to do something," Xen brought up his status screen.
+
+​​[Name: Xen]
+
+[Level: 68 (B)]
+
+[Race: Hexreaver Slime (Rare Variant)]
+
+[Current Form: Human (Phantom Scout: Level 50)]
+
+[Class: Shapeshifter (Unique)]
+
+Hexreaver Slime: Level 68 (B)
+
+< [Devour (S)] - [Appraisal (C)] - [Geomantic Perception (B)] - [Shapeshift (E)] - [Soul Leech (D)] - [Withering Hex (C)] - [Perish (B)]>
+
+< [Undeath Resonance] - [Blight Aura] - [Hex Catalyst]>
+
+Human: Level 50 (C)
+
+[Class: Spellblade]
+
+< [Multilingual (B)] - [Buff of the Berserker (C)] - [Corruption Missile (B)] - [Quiet Steps (D)] - [Crescent Rage (B)] - [Indomitable Defense (C)] - [Phantom Strike (D)] - [Vampiric Blade (C)] - [Ghoststep (B)] - [Windveil Agility (C)] - [Threadwalk (C)] - [Radiant Mend (C)] - [Cleansing Light (D)] >
+
+< [Sword Proficiency] - [Solo Hunter] >
+
+Elf: Level: 1 (F)
+
+< [Multilingual (B)] - [Radiant Smite (E)] - [Orbs of Light (E)] >
+
+Hellfang: Level: 9 (E)
+
+< [Hellfire Howl (B)] - [Alpha Presence (C)] - [Infernal Claws (C)] - [Bloodthirst (D)] >
+
+Undead Mage: Level: 10 (D)
+
+< [Immunity to Poison (A)] - [Geomantic Perception (B)] - [Corruption Missile (B)]  [Necrotic Pulse (D)] >
+
+< [Corpse Conduit] >
+
+Sand-Drowned Revenant: Level: 1 (F)
+
+< [Chains of the Damned (A)] - [Geomantic Perception (B)] >
+
+Underworld Orc: Level: 4 (F)
+
+< [Grand Ritual: Reclaim the Fallen (S)] - [Cataclysm (A)] - [Chains of the Damned (A)] - [Earthen Regeneration (B)] - [Earthen Trapmaster (D)] - [Bloodmark Hunter (B)] >
+
+Vampiric Bat: Level: 12 (D)
+
+< [Echo Pulse (D)] - [Blood Drain (C)] - [Piercing Fang (D)] >
+
+< [Winged Flight] - [Nocturnal Vitality] >
+
+Charstone Basilisk: Level: 1 (F)
+
+< [Molten Gaze (B)] >
+
+He had slaughtered many monsters, resulting in him leveling up his slime form from level 53 to level 68. His human form also reached level 50, but the pending experience he had put off during the evolution was funneled to his Hexreaver Slime form.
+
+Ultimately, what this all meant was that it was time for a class evolution.
+
+[Human] has reached Level 50 (B Grade). Evolution is available.
+
+Please choose a class from the following options: [Mage], [Priest], [Archer], [Juggernaut], [Spellblade], or [Radiant Healer].
+
+System, before doing that, I wish to swap to my elf form.
+
+[Do you wish to take on the Elf form?]
+
+[Warning: If you change forms prior to beginning class evolution, the resulting skill and passive will be assigned to your active form, assuming it qualifies as a class-compatible entity.]
+
+Xen smiled at the warning message.
+
+That's exactly what I'm hoping for. Otherwise, the new Radiant Healer skill and passive will be bound to my human form. I'd be deprived of the passive and have to waste a Free Skill Slot in that case.
+
+His system then questioned him on what elven form he wished to take. Since he wanted to be as far from Gerald as possible, he decided to change every aspect he could. Satisfied, he began the transformation process. His body began to dissolve into a putrid mist, which Randy and Vesper promptly began to gag from and rushed to open windows.
+
+Once the process was nearly complete, Xen proceeded with the class evolution.
+
+I pick Radiant Healer, as I need more healing spells moving forward for my new persona.
+
+[You have selected the devoured class [Radiant Healer] to imitate]
+
+Information flooded Xen's mind as fifty levels of class information were crammed into his head.
+
+A Radiant Healer appears on the battlefield like a ray of hope to their allies, and a blinding light to their foes. By wielding fast-acting heals and being capable of removing debuffs while blinding enemies, the Radiant Healer is a formidable supportive force on the battlefield.
+
+New Skill: [Beacon of Grace (B)]
+
+Summon a floating sigil that rapidly heals allies in a five-meter radius until destroyed.
+
+New Passive: [Radiant Aura]
+
+Blessed by the light, allies nearby gain resistance to corruption and fear debuffs.
+
+"Hey guys..." Valoria's voice rang through the room. "Why does Gerald look like a girl now?"

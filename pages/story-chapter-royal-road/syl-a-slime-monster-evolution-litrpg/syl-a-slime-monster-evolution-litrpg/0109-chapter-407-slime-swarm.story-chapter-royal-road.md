@@ -1,0 +1,103 @@
+---
+id: 77fd1e91-08ac-5004-8e72-58a92c624208
+page-type-slug: story-chapter-royal-road
+title: "Chapter 407 : Slime Swarm"
+slug: 0109-chapter-407-slime-swarm
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 109
+ownLength: 2399
+unit: words
+publishedAt: 2026-07-24
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3717855/chapter-407-slime-swarm"
+royalRoadId: "3717855"
+---
+
+Now that I had successfully eaten the black slime, I had no reason to hold back any further. Using my newfound [Slime Puppetry], I began splitting up my forces, creating generals that housed a [Sub-Core] and their minions to control. Like this, I could create a chain of command and greatly expand my reach beyond the original limit of the trait.
+
+The limit was a little annoying, but considering I had the uncapped ability from [Core Collective] to exceed all distances, it was probably for the best. If [Slime Puppetry] was better than an uncapped evolution-specific trait, then all my effort to raise it would have been in vain.
+
+They both have their uses. [Slime Puppetry] is for battle, while [Core Collective] is for establishing a base of operations.
+
+With an army of slime monsters, I began spreading out of the dungeon, while also trying out my new ability to feed off of negative energy. The amount was definitely not something to write home about, and that was with [Primordial Slime], no doubt improving it through its newfound uncapped level. Still, it was certainly better than nothing, and at the very least, it removed the hidden taint in the air.
+
+I wonder if the labyrinth master will be happy I'm cleaning up? Maybe I can even use it as an excuse to say sorry for eating his pet black slime?
+
+Spreading out like this was an intoxicating level of fun; I'd never felt so free to do what I wanted. Sure, [Primordial Slime] was undoubtedly my strongest overall powerup, but it still didn't come close to this level of freedom. My minions were exploring every passageway and fighting every demonized creature they came across.
+
+The slime minions without a core couldn't use magic, but my slime alone was far more powerful than almost my entire magical repertoire. Plus, this gave me new attack methods I could only dream of before. For example, [Nitro Slime] received a significant upgrade thanks to [Slime Puppetry], allowing it to latch onto foes and detonate, leaving them with no way to escape.
+
+Looks like my slime needles are already obsolete… But what about spell orbs?
+
+I could have the slime orbs roll across the ground and chase after enemies; just imagining it caused me to laugh, although I knew it would be a deadly threat. I didn't use it in here, however, as I figured it might be crossing a line to leave corrupted essence in here.
+
+As my minions worked, I observed their progress on [Map] and received real-time updates from their physical locations. I even spent a bit of time modifying the spell slightly so I could monitor my separated slime as little dots scattered across the projected image. In no time at all, I'd have the entire labyrinth fully mapped out, and I could finish up and head home. The best part was that most of this was automated through the [Sub-Cores] following my orders, so there was no need to even involve [Split Personality].
+
+Oh? It looks like I misjudged the benefit of including a [Sub-Core].
+
+Thanks to [Map], I could watch everything unfolding and discovered that the distance limits were greater than I initially imagined. Coreless slime could be manipulated within two hundred meters, but it seemed that the addition of a [Sub-Core] almost doubled that amount. I pointed to one of the glowing dots on my [Map], indicative of one of my [Sub-Core] generals.
+
+This one is… Three hundred and fifty meters away from me, if my math is right? And there's nothing closer to me to reinforce the chain between me and it, meaning they boost their own chain. Fascinating! And it can control all the slime within two hundred meters without any issue. If I created a long chain with only [Sub-Cores], I could extend my maximum range to stupid levels. Of course, a break in the chain would be catastrophic, but that might be where [Core Collective] eventually comes in to save the day.
+
+What I was imagining was a scenario where I wasn't maxed out on my available slime networks, which was sadly a bit far away since I was technically in debt. But once I reached [Core Collective LV 14], I would have a spare network slot I could keep for emergencies when [Slime Puppetry] was broken.
+
+Tanglebay, Keld, Caelthal, and finally the spare. I think that's the best course of action. Once it reaches fifteen, I can consider setting up another base of operations if I need it.
+
+My slime army allowed me to try out various other methods of attack, most notably seeing which coreless slimes worked the best. I'd already used [Nitro Slime] to great effect, but almost all of them had their own uses.
+
+With [Metal Slime], I basically had overpowered golems, and they could be the bulwark of my own slime army. Of course, that was the minimum-effort solution, and the flexibility of transitioning between fluid and solid states couldn't be overstated. For example, I could wash over enemies with liquid [Metal Slime] before solidifying it into a solid prison. Not to mention suddenly forming spikes or spitting out other metallic projectiles or hazards.
+
+[Cryo Slime] and [Blaze Slime] were both like natural disasters, and anywhere they spread became hellscapes of flame and frost. These two worked best in a more fluid state, maximizing their surface area when attacking foes. Although it was certainly fun sending them at enemies in the shapes of various monsters or creatures.
+
+[Voltaic Slime] was best for artillery, as they could sit back and generate a charge before unleashing it at enemies. I tried a few times to include them in melee to shock foes they grappled with, but none of the results were as potent as letting them charge up to max and flinging bolts across the battlefield.
+
+[Poison Slime] and [Necrotic Slime] were my assassins, as both could kill through insidious methods. In fact, [Poison Slime] arguably received an even bigger upgrade than [Nitro Slime] through [Puppet Slime], as now I could ensure that the toxins were ingested or running rampant in a creature's bloodstream.
+
+My experiments with [Poison Slime] led me to try out [Vaporize Slime], but unfortunately, it seemed to be the one thing I couldn't control. I could still position the slime where I wanted before detonating it into a toxic mist, but from there, unless I used some [Air Magic], I couldn't manipulate it further.
+
+Going back to [Necrotic Slime], yes, it was good at its role as a subtle assassin, as once it latched onto its target, it could drain them dry, but it was also my best method for farming slime mass. Draining a creature of its lifeforce still left a body, which could then be eaten through [Acid Slime].
+
+Effectively, I was double-dipping on slime mass with any creature that was considered living by draining it before dissolving it. The power of proliferation I now had was startling, as a single blob of slime could double, if not triple, in size depending on the quality of the food, combined with the vampiric effect.
+
+Now I see why black slimes don't have any acid power in their slime, even though we simple blue slimes do. It was to prevent them from spawning slime mass too quickly, as eating lifeforce was already good enough!
+
+Speaking of [Acid Slime], it was still just as deadly as ever, although it was also a bit of a logistical nightmare. If I didn't give it a flying form, it would slowly sink deeper and deeper into the ground. Yes, the melting effect was that powerful. I actually laughed watching my acid soldiers getting shorter and shorter. If not for the constant sizzling-hiss it made when in contact with surfaces or enemies, I would've also put it into the assassin category.
+
+[Mulch Slime] and [Luminous Slime] were also there… Although they had no real use in battle. The best I could think of was that, if I were working with someone, I could mark an enemy with [Luminous Sime] and have it glow brightly. [Mulch Slime] could be used to feed some plants deep underground, or maybe I could try assaulting an enemy's nose with it?
+
+Finally, there was [Mana Slime] and [Heal Slime], which had no chance to shine down here. If we were fighting undead, [Heal Slime] instantly would be my best fighters, but against my wishes, the demonized enemies were healed by it. [Mana Slime] had no beneficial effect on my puppets unless I was incorporating it with [Nitro Slime] to make a spell orb bomb. My [Sub-Core] generals used [Mana Slime] for their spellcasting, but they could freely shift between all slimes, so it was a bit of a moot point.
+
+Naturally, if I include allies, both of these slimes are great for support. If Vee was injured, I could send [Heal Slime] straight at her, wrapping her in a gooey bubble of healing. Or feed her [Mana Slime] directly, although she'd probably complain about that…
+
+Of course, all of this ignored the fact that I could combine my slimes for even greater effects, but I was curious to see what their minimum power was for two reasons. The first was to reduce the burden, as it quickly became apparent that the more slime types I included in the mix, the harder it was for a [Sub-Core] to control them en masse. Basically, I needed to choose between quantity and quality, and various mixes between the two.
+
+The second reason was due to the inflexibility of the separated slime of various types. For example, with [Poison Slime], if I set it to Bloodrot, it would stay in that configuration until it came into contact with a [Sub-Core]. Likewise, if I included all properties of [Primordial Slime], I couldn't turn them off without the aid of a [Sub-Core].
+
+A [Sub-Core] was also needed to mix two different slimes together, and if they had opposing effects, they could actually somewhat harm each other. Attempting to mix two batches of disconnected [Blaze Slime] and [Cryo Slime] resulted in absolute failure. Meanwhile, loose [Metal Slime] and [Poison Slime] were like oil and water; they didn't harm each other, but they couldn't unify without a core's presence.
+
+All of this really highlighted how powerful and useful my [Sub-Cores] were, and if not for my trait point savings being a little lackluster, I might have bought several new additions on the spot. I even considered trading in some of my Legend Points for trait points, although that reminded me that I hadn't asked Keldenar what he knew about them.
+
+Let's hold off for now, just in case. If they have another use, I might need them.
+
+My conquest of the labyrinth wasn't all sunshine and rainbows, and soon I discovered another limitation in [Slime Puppetry]: it couldn't cross dimensional boundaries. I had hoped that if I had slime inside my [Personal Rift], I would be able to interact with it remotely, but it couldn't, even with a [Sub-Core] included. Of course, that was easy to get around, such as having a stationary blob of slime with an aperture inside to provide the external connection, but it was still something to be aware of. I was already wondering if my eventual spare network should be dedicated to living inside the rift.
+
+Another minor drawback I discovered revolved around traits and skills. I had quickly discovered I needed a [Sub-Core] to use magic, but it turned out this applied to almost anything with an active component. When it came to [Slime Puppetry], the name of the game was passive bonuses! Things like [Attack Mastery] were all good, while [Elemental Step] was rejected.
+
+This applied similarly to traits, with a few exceptions. It was pretty obvious I wouldn't be able to use [Soul Sight] through only slime, but then [Chimeric Mimicry] really threw things for a twist. I figured passives were the way to go and was outfitting them with traits like [Enhanced Claws] or [Draconic Scales] without issue, yet to my shocking surprise, even [Inferno Sac] worked.
+
+A small part of me thought this might have been an oversight, since no other trait behaved this way. Yes, you could argue [Voltaic Slime] had an active component when it charged and flung out bolts of lightning, but it was all part of the "passive slime package" within [Primordial Slime]. At least that was the excuse I gave it. [Chimeric Mimicry] was different, however, and that was when I found out its real drawback and perhaps why it could make [Inferno Sacs] that actually worked.
+
+I need a [Sub-Core] to change their traits around.
+
+It was almost exactly like [Primordial Slime] in that regard, and once the slime split off on its own, it couldn't be modified further. It felt a bit unfair, especially with the flaunted label of "compatible with other slime traits," until I made an even more shocking discovery!
+
+No way… That can't be right, can it?
+
+It had been a complete accident, but I had made a few salamander troops to play around with, granting them various traits from my collection and letting them run wild. When I'd grown bored of playing with them, I reclaimed the budgeted trait points, only to find that my salamanders were still running around and breathing fire without issue.
+
+I can't modify the mimicked traits after the slime is split off… But that goes both ways!
+
+I tested it a few times and found out that as long as they never came into contact with a [Sub-Core], they could keep whatever traits they had been assigned. It was similar to how [Nitro Slime] could prime things, and it would remain frozen in its current state until I chose to explode it, its duration expired, or I deprimed it.
+
+I feared this was an oversight. Yet, no matter how many times I changed it around, I could continue making my slime minions with different trait configurations despite going over budget according to my math. As soon as [Slime Puppetry] took over, the state was saved in terms of passives, traits, slime mixture, and so forth. There was no way Gramps would let me keep doing this if it was a mistake, which only meant he actually wanted me to have this ability!
+
+Thank you, Gramps! You're the best!

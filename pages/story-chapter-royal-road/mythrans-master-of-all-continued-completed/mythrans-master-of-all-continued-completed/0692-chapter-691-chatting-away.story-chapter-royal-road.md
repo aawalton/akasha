@@ -1,0 +1,347 @@
+---
+id: 8924d812-bad8-590c-9d5d-9aa378cf1c3f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 691 - Chatting Away"
+slug: 0692-chapter-691-chatting-away
+partOf: mythrans-master-of-all-continued-completed
+position: 692
+ownLength: 3429
+unit: words
+publishedAt: 2018-09-05
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/287681/chapter-691-chatting-away"
+royalRoadId: "287681"
+---
+
+Dana took Gretchen through the patio doors and stopped when she saw the double-sized kitchen with two of everything in it. “Geez! Look at this place!”
+
+“Dana!” Gretchen said, which reminded Dana she was in a hurry, so she quickly walked through the kitchen, past the small living room and saw the large living room. She looked across from it and saw the door, opened it and saw it was the bathroom, then took Gretchen inside and shut the door.
+
+“Good lord!” Dana exclaimed. “This place is huge!”
+
+Gretchen unhooked her skirt and pulled the zipper down, then let it fall to the floor. She stepped out of it and looked down at herself. The dampness had seeped into her blue panties and she pulled them off.
+
+“That was a close one.” Gretchen said and opened the middle drawer of the cabinet beside the sink. “First try!” She said happily and pulled out the sanitary napkins and a replacement pad. She cleaned herself up quickly and picked up her panties.
+
+“Get a look at this tub!” Dana said from across the room. “I bet it could easily hold 4 people!”
+
+Gretchen looked over at her friend and saw something better. “Look at the shower stall.” She said and the sound of the self-stick pad she removed from her panties was loud in the slightly echoing room. “It's the size of your bathroom by itself.”
+
+“No way!” Dana walked over to it and opened the glass door. “Damn, you're right.” She said and stepped inside. “My sink and cabinet there, my tub and shower there, and my toilet there.” She shook her head. “How much did it cost to make this house?”
+
+“I have no idea.” Gretchen said, then she sighed as she saw the dampness of her underwear was still spreading out, even though it was removed from the source. She looked around for some way to dry it and couldn't see anything on the counter.
+
+Maybe there's a hair dryer or something. Gretchen thought and started opening the drawers. Nothing was there, so she opened the large cabinet door under the sink. Ah, there we go. She pulled out the small hair dryer and plugged it into the wall socket. She turned it on and let it warm up for a minute, then held her underwear over the nozzle.
+
+“Hey, how's it look?” Dana asked and walked over to the counter.
+
+“It's going to take a couple of minutes.” Gretchen said.
+
+Dana chuckled. “You're definitely lucky that you had a high flow pad on today.”
+
+“Tell me about it.” Gretchen said. “It was only a precaution, since I figured we'd be moving around a lot.” She turned her underwear around and dried it on the other side. “I never imagined that this was going to happen.”
+
+“I know!” Dana laughed and decided not to tease her about her accident. “Who would have thought that I was living right next door to my favorite television star!”
+
+Gretchen smiled slightly at the change of subject, then sighed. “Like he said, it was a surprise.”
+
+“You don't sound too happy about that.” Dana said and looked at her friend's face.
+
+“I... it's nice, but...”
+
+“He's losing his mystique for you, isn't he?” Dana asked, and Gretchen sighed again.
+
+“Am I a bitch for thinking that?” Gretchen asked. “I mean, you see actors on television and they're like... larger than life... and then...”
+
+Dana put a hand on her arm. “People can't always live up to expectations.”
+
+Gretchen nodded. “Just like what happened with you and him.”
+
+“Or didn't happen, you mean.” Dana smiled. “He's a good kisser, but I didn't feel a spark. Not even a little tingle.” She saw her friend's expression and squeezed her arm. “You did, though.”
+
+“I... yeah, I did.” Gretchen said. “I don't know why, though.”
+
+Dana chuckled. “If I remember correctly, you tried to attack him for casting Charm Person on me the first time we met him.”
+
+“Hey, he was making you all lovey-dovey and you were swooning all over him!” Gretchen said. “I wasn't going to let him take advantage of you while you were like that!”
+
+Dana chuckled and let her arm go to give her a one arm hug. “That's my friend in a nutshell.”
+
+Gretchen turned her underwear around and checked them. “I've always got your back.” Her underwear was still slightly damp, so she kept using the hair dryer on them.
+
+“I'm just wondering why it didn't work on you.” Dana said.
+
+Gretchen looked at her with wide eyes. “What?”
+
+“He cast Charm Person on a whole country full of people, and yet you weren't really affected.” Dana said. “That's a little odd, don't you think?”
+
+“Not really.” Gretchen said. “Sometimes people can have partial immunity to certain spells.” She said. “I'm sure there were a lot of people not affected by it.”
+
+“Maybe.” Dana said, not really convinced. “How are they coming along?”
+
+“Almost done.” Gretchen said and tried to check, then hissed at the hotness of the cloth. “Dammit!”
+
+Dana chuckled. “Put them on the counter and let them cool off before doing that.”
+
+“Good idea.” Gretchen put the panties down and turned off the hair dryer. She didn't want to put it back under the sink until it cooled off. While she waited for that, she had the opportunity to let her eyes roam around the huge bathroom. “I think this thing is as big as my house.”
+
+“Ha ha!” Dana laughed and looked up. “There's no way you'd fit a two storey house in here.” She said and let her eyes gauge the size. “Maybe the first floor, if you leave off the porch.”
+
+Gretchen nodded and picked up her panties and waved them in the air, then touched the cloth. She smiled and opened the pad she had taken from the drawer and attached it to the right spot, then put her underwear back on. She sighed as the warmth felt nice against her skin, then she stepped into her skirt that she had left on the floor and pulled it up into position and zipped it and fastened it.
+
+“What a relief.” Gretchen said.
+
+“Yeah, especially since I don't think there was any way you would have made it all the way over to my place before it got worse.” Dana said. “It was really nice of him to let us come in here.”
+
+Gretchen nodded. “It was quick thinking on his part.” She said and checked the hair dryer, then put it back where she found it.
+
+“Come on.” Dana said and took her hand. “Let's go look around.”
+
+“Wh-what?” Gretchen was pulled from the bathroom, not really against her will, and Dana led her down the hallway to the workout room. “That's not a workout room!”
+
+“It's a full gym!” Dana laughed. “I can't believe that... there's a boxing ring!” She said and leaned her head against the glass wall. “There's even a jogging track around the room!”
+
+“Who puts stuff like this inside their house?” Gretchen asked. “Look at the full rack of weights!”
+
+“Let's go see what else... is that an elevator?” Dana asked and dragged Gretchen towards the lobby. “He has an elevator! In a three story house!”
+
+“Forget the elevator, Dana. Look at the lobby!” Gretchen exclaimed and Dana turned to look.
+
+“Oh, wow!” Dana pulled Gretchen into the middle of the lobby and they both looked up.
+
+“It's like a Hollywood movie set.” Gretchen said. “Look at those sweeping staircases!”
+
+“They go all the way up to the third floor.” Dana said, surprised. “I guess that explains the elevator.”
+
+Gretchen chuckled. “Imagine having to walk up and down these things every day.”
+
+“No, thanks.” Dana laughed. “I think your whole house can fit in here.”
+
+“I think most of your house could fit in here.” Gretchen said and laughed, too.
+
+“Probably.” Dana said and started to walk towards the stairs.
+
+“Nope.” Gretchen said and held onto Dana's hand to stop her. “We're not going up.”
+
+“Aww!” Dana said. “I just want a quick look.”
+
+“We're pushing our luck as it is by looking around down here.” Gretchen said and started to walk back towards the kitchen. “We're not going to abuse his hospitality by going upstairs uninvited.”
+
+Dana sighed. “All right. We probably should be getting back to the party anyways.”
+
+Gretchen nodded. “He's probably been sitting there all alone and waiting for someone to come over and talk to him.”
+
+“Not with the magic show going on.” Dana said. “Everyone else is busy.”
+
+“Oh, right!” Gretchen said and quickened her pace. Dana smiled as they went through the house and out the patio door, then around the side of the house to the table where they had left Ren.
+
+“There they are.” Ren said as he waved to the two young women and he looked up at the security guard. “Thanks for keeping me company.”
+
+“That's not really in my job description, sir.”
+
+Ren chuckled. “Thanks for guarding me a lot closer than you had to for a few minutes, then.”
+
+The guard smiled and nodded, then walked back over to his assigned post.
+
+“Hey, Ren.” Dana said and she sat on one side of him, and Gretchen sat on the other.
+
+“Is everything okay?” Ren asked and looked at Gretchen, who nodded. “You were walking pretty fast.”
+
+“Gretchen just wanted to get back to you before you started to worry.” Dana said, and heard Gretchen take in a sharp breath. “Okay, I'm not sure that's why.” She smiled. “Maybe she didn't want you to be alone for too long, or maybe she wanted you to test out her now dry underwear.”
+
+“DANA!” Gretchen yelled.
+
+Dana laughed and leaned over close to Ren. “Don't get angry about this, okay? She teased me enough about liking you before we met you.”
+
+Ren raised a single eyebrow at her. “Does that mean you don't like me anymore?”
+
+“Not like like, anyway.” Dana said and leaned back. “I think you and I are firmly in the friend zone.”
+
+“I don't know about that.” Ren teased. “I really like pink.”
+
+“Wh-what?” Dana looked a little uneasy and Gretchen chuckled.
+
+“When you did that little twirl for your mother to show off your outfit, I had quite the view from this angle.”
+
+Dana's mouth made that little 'o' of surprise, and Gretchen laughed.
+
+“He was sitting down right in front of you!” Gretchen said and pointed at her. “You pantie-flasher!”
+
+Dana's face flushed red and she started to duck her head. Ren reached out and took her hand and she turned her head away from him.
+
+“Hey, don't be embarrassed.” Ren said. “It was a nice view.”
+
+“R-really?” Dana turned her head back to glance at him.
+
+“I didn't say anything at the time because I figured you might be embarrassed.” Ren said and gave her hand a squeeze. “I liked that you were confident enough in yourself to do that kind of move, especially in front of someone so short like myself.”
+
+Dana's face didn't lose any redness as she smiled. “Which part did you like better?”
+
+“That's a trick question.” Ren said, and Gretchen chuckled. He gave her a wink and looked back at Dana. “I saw paradise from the front and from the back, so they were both the very best they could be.” He said. “I liked both views equally.”
+
+“That's very sweet of you to say.” Dana said, and he let her hand go. “Can you describe them?”
+
+“That depends on if you mean the silk-like pink cloth with fake lace bows on the back and front, the firm and slightly tanned mounds of your backside that jiggled slightly, or the sumptuous and inviting smoothness of your womanhood.”
+
+Dana and Gretchen stared at him with open mouths, and he laughed.
+
+“Too poetic?”
+
+“Too descriptive.” Dana said, her face bright red, and she put both hands down on her lap as if to cover what he had already seen. “How did you see so much?”
+
+“I can remember everything I see.” Ren said.
+
+“But... how did...” Dana squirmed a little.
+
+“The cloth was right against your skin.” Ren said. “A basic deduction is if there was any hair there, the cloth would bulge slightly.”
+
+“That...” Dana closed her mouth.
+
+“Do you shave it off?” Ren asked, and she looked at him. “How often?”
+
+“What?”
+
+“I'm just curious.” Ren said. “I mean, I've seen a few already, and I was wondering how you maintain something so delicate.”
+
+“Haven't... did you ask your girlfriends about it?” Gretchen asked.
+
+“It hasn't come up in conversation before.” Ren said and shrugged. “I mean, it's not like we have a lot of time to sit around and talk about genital maintenance.”
+
+Dana and Gretchen looked at each other and then at Ren.
+
+“Like now?”
+
+Ren chuckled. “To be honest, this is the first time I've sat down with a couple of friends and just talked.”
+
+“Wow, really?” Dana asked.
+
+“Like I said, we're usually busy. I'm in the game all the time and the others work. It takes a lot of schedule juggling just to get us in the same room for half an hour to eat or to watch television together.”
+
+“Geez, this party must be a breath of fresh air for you.” Gretchen said.
+
+“I'm missing time in the game, though.” Ren said and saw similar expressions on both of them. “You know what I'm talking about.”
+
+“Yeah.” Dana said. “The more you play, the more you discover and the more you want to play.”
+
+“I can't imagine what it's like for you to play so much.” Gretchen said. “I mean, what kind of things unlock for someone that's online all the time?”
+
+“I've thought about that, and I think it opens up a lot of different things that a casual gamer wouldn't normally get.” Ren said. “I've been in jail and even served hard time working in a mine for a few months.”
+
+“When you were in the dwarf lands.” Dana said, and he nodded.
+
+“It's an invite only area, and getting an invitation is a lot harder than you think.” Ren said. “At least, until all my paperwork goes through.”
+
+“What paperwork?”
+
+“I've been sending petitions, law changes, social rituals, and everything else I could think of to relax the laws governing interpersonal relationships between dwarves and other races.” Ren said.
+
+“You're working your way back to Nathalia.” Gretchen said, and he nodded.
+
+“My ex-fiance.” Ren said. “My Trouble recipe worked hard to mess everything up for me while I was there.”
+
+“Your trouble recipe?” Dana asked and looked at Gretchen.
+
+“Wait, you have it, too?” Ren asked, and they both nodded. “So, it really is an essential player dynamic.” He said. “I thought the tech guys were just blowing me off because they didn't want to bother trying to fix it.”
+
+“God, I wish they would fix it.” Dana said. “We missed... what was it the last time?”
+
+“We had to catch a thief, and we did that. We turned him in and he spent the night in jail.” Gretchen said. “When he got out, we got a popup saying we should have searched him first and that he was going to be a Trouble recipe ingredient for us.”
+
+“Geez, that sucks.” Ren said. “Has he made any appearances since then?”
+
+“Yes, and he stole an item we needed to complete a quest.” Dana said. “When we go back in tonight we're going to look for him.”
+
+“If you need a hand, let me know.” Ren said.
+
+“Can we do that? Ask for help?” Gretchen asked.
+
+“I don't see why not.” Ren said. “I'm pretty sure I won't be allowed to directly interfere, since my own Trouble recipe would probably activate; but, I'm sure I'll be allowed to show you where he is at least.”
+
+“That would be awesome!” Dana said. “If we can get that item back and finish the quest before the scheduled update tonight, we can relax for the rest of the night before classes tomorrow.”
+
+“Classes?”
+
+“We've got Chem-lab first thing in the morning at the college, 2 periods off for lunch, then classroom work for the afternoon.” Dana said. “The labs are always fun, but the classwork sucks balls.”
+
+Gretchen snorted a laugh. “It's not that bad.”
+
+“Says Miss Smarty-Pants who already has a 3.8 GPA.” Dana said. “If you weren't my best friend, I'd hate you so much for that!”
+
+Gretchen laughed. “You're a 3.6 yourself, you skank.”
+
+“Do you know how many extra classes I'll need to take to get up to you?” Dana asked. “Six!”
+
+“...and who's fault is that because they wanted an extra class off every day, just so they could relax in front of the boy's dormitory?”
+
+“That salient point is irrelevant to this discussion.” Dana said haughtily, and Gretchen laughed.
+
+“Sure, it is.” Gretchen said and leaned close to Ren. “She wears short skirts so she can give the guys that walk by a bit of a thrill.”
+
+“No way.” Ren said and looked at Dana. “Is that true?”
+
+“N-no.” Dana turned her head to look the other way.
+
+“Now I don't feel so bad about getting to see such pretty pink panties.” Ren said and pointed to Gretchen. “Say that five times, fast!”
+
+Gretchen took in a huge breath. “Pretty pink panties. Pretty pink panties. Pretty pink panties. Pretty pink panties. Pretty pink panties!”
+
+Ren laughed, then Gretchen did, and Dana had to laugh, too.
+
+“All right, all right.” Dana said. “You can stop teasing me about it.”
+
+Ren reached out and touched her arm briefly. “Thanks for not getting angry that I saw them.”
+
+“Well, it was kind of my fault that you did.” Dana said. “I could get mad at myself, but what's the point?” She smiled. “You said you liked them.”
+
+“I really did.” Ren said with a reassuring smile. “Assuming you dressed up for today's party, I'm wondering what you normally wear.”
+
+“Ren!” Gretchen exclaimed, and he chuckled.
+
+“It's the next logical question.” Ren said.
+
+“What are you wearing right now?” Dana asked.
+
+“Lime green silk-like boxers.” Ren said without hesitation. “I don't know if they're actually silk, but they sure do feel like it.”
+
+“R-really? That's what you're wearing?” Dana asked, surprised.
+
+“Yeah, they're comfortable, and they're also my last pair.” Ren said. “I've been too busy to go to the east side mall to buy some more.”
+
+“The east side mall?” Dana looked at Gretchen and saw her surprised face. “They wouldn't happen to be from Jacques, would they?”
+
+“Yeah, they are.” Ren said, a little surprised. “They do great custom alterations there, so I've gone there a few times already.”
+
+“You must know Lily, then.” Gretchen said, and Ren nodded. “Dana, do you think...”
+
+“Elise is the redhead she told us about, and Ren is the guy in the wheelchair!” Dana said. “Oh, wow! What a small world!”
+
+“Lily used to go to college with us.” Gretchen said before Ren could ask about her. “She used to work at Jacques part time, then went to full time when she graduated last year.”
+
+“No wonder she's so good at her job.” Ren said. “She's an old pro.”
+
+“She always had a knack for it.” Dana said. “We get stuff from her, too.”
+
+They went quiet for a moment, then Ren smiled.
+
+“So, what kind of underwear do you normally wear?” Ren asked Dana.
+
+“All different kinds.” Dana said. “It depends on the day and how I'm feeling.”
+
+“Hmm. Well, if I had to guess, when you're feeling pretty, you wear something like what you have on today.” Ren said, and Dana's face went red again. “When you're feeling sexy, I'd say you go for a whale tail or even a thong.”
+
+“That's... actually a really good guess.” Dana said.
+
+“When you're feeling a little off or don't care, I'd say you go for....” Ren grinned. “...granny panties!”
+
+“I do NOT!” Dana gasped and Gretchen laughed.
+
+“Granny panties!” Gretchen covered her mouth to stop from laughing and Ren laughed.
+
+“I do not dress like my mother on my off days!” Dana huffed, and Gretchen couldn't help herself and laughed.
+
+“I'm sorry, I couldn't resist.” Ren said and touched Dana's arm again. “We won't judge you if you do, okay?”
+
+“I. Do. Not!” Dana exclaimed and Gretchen laughed and laughed.
+
+Ren turned to Gretchen. “What about you? What do you wear?”
+
+“You might not judge me; but, I plead the fifth, your honor.” Gretchen said, and he laughed, too.

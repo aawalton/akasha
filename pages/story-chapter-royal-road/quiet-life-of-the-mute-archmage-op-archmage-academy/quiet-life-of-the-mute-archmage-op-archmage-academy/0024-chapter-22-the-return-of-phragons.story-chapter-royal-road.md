@@ -1,0 +1,221 @@
+---
+id: f75aac95-78a6-5c4f-8028-dacd5e5500c2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22: The Return of Phragons"
+slug: 0024-chapter-22-the-return-of-phragons
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 24
+ownLength: 3819
+unit: words
+publishedAt: 2026-06-13
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3532349/chapter-22-the-return-of-phragons"
+royalRoadId: "3532349"
+---
+
+Phragons.
+
+Creatures that travel through the different forests of the world when winter draws near.
+
+They are not born of egg or flesh, but of something more deeply entwined with the world itself. Phragons are spiritual beasts, woven from the very essence that represents the world, which is mana. Their sole, sacred purpose is to safeguard the forest through the long cold, protecting the delicate spark of life that waits beneath the snow until spring returns.
+
+Molly stared upwards, her right hand lifted to shield her eyes from the pale sun as she watched the flocks of Phragons gliding across the sky as though they were one with it. Their sleek forms carved through the expanse in effortless, sweeping arcs, a silent congregation of shadows drifting upon the wind.
+
+“Oh! Ted, look.” Lilly exclaimed cheerfully, tugging persistently at Ted's sleeve. “Nom Nom came back.”
+
+“I can see that,” Ted sighed in reply, though the sound carried a quiet fondness beneath its weariness.
+
+“Nom Nom!” Lilly shouted, giving small, happy jumps. She waved her right hand wildly toward the sky, as if she could catch the attention of every Phragon in the soaring company.
+
+Molly glanced at the woman for a moment, a faint frown settling upon her features as she puzzled over who Ted and Lilly called Nom Nom. As far as she could discern, all the Phragons bore a very strong resemblance in color, each one sharing the same sleek, panther-like silhouette, a piece of the night itself given form and breath.
+
+She shifted her gaze back to the heavens to observe the creatures once more, her breath catching slightly in her throat when she noticed one of the Phragons possessed a distinct red marking upon its chest. The crimson brand was like a lone ember against the charcoal darkness of its body. She had not spotted the marking when she was looking at them earlier, perhaps because her focus had been scattered across the entire swarm rather than studying each phantom individually.
+
+The marked Phragon broke from the drift of its kin and descended in a graceful, spiraling arc toward where the three of them stood. Chill air eddied in its wake, carrying the faint, crisp scent of something ancient.
+
+With a soft, near-silent flap of its gossamer wings, the Phragon landed calmly upon the ground near them, its talons making barely a whisper against the floor.
+
+“Nom Nom!” Lilly squeaked, her arms flung wide open as she rushed happily toward the spiritual beast, who flapped its wings with gentle, restrained beats while awaiting her embrace. A low, melodic trill hummed from its chest.
+
+The moment she reached it, Lilly wrapped herself tightly around the medium-sized creature, pressing her cheek against the velvety coolness of its chest region. Molly’s expression softened into something tender and warm as she watched Lilly hold the Phragon close. Nom Nom curved its long neck and used its head to rub softly against Lilly’s head, nuzzling into her bright pink hair while giving a deep, rumbling growl of pure satisfaction as they shared the silent warmth of reunion.
+
+“You know, there’s a saying,” Ted began, his voice calm and measured, the timbre of it drawing Molly’s attention. She turned her head toward him, her eyes attentive as she awaited what he was about to reveal.
+
+Upon noticing her focus, Ted continued, his eyes remained fixed on the pair ahead. “Phragons can also act as guardians to the afterlife for us humans.”
+
+Molly’s black orb drifted silently beside her, its surface rippling as it projected her thoughts.
+
+~ Really?
+
+Ted gave a short, firm nod when he read the glowing script. “Yes,” he said, before casting her a look tinged with gentle uncertainty. “Though it hasn’t been written down yet, through the stories I’ve heard, I’m quite certain that since Phragons are spiritual beasts, they possess the ability to act as guides.” He combed his fingers slowly through his dark hair, the strands falling back into place as his gaze shifted toward Lilly, who wore a radiant, cheerful expression while she patted Nom Nom’s shimmering neck. A subtle, warm expression surfaced on Ted’s face as he watched them.
+
+“I’ve also been a witness to one myself,” he said, his voice dropping to a lower, more intimate register.
+
+Molly turned her head to look at Lilly and the Phragon again. Her eyes widened slowly, the crimson depths flickering as she pieced together what Ted’s words implied. She spun sharply back toward him, her intention to project a flurry of thoughts clear in her posture. But she paused, holding her mental projecting back, when she saw him prepare to continue.
+
+“You may not know, but seven years ago, Death claimed Lilly’s only family in her sleep,” he said, his voice a steady murmur that seemed to blend with the whispering breeze.
+
+Molly’s expression went blank for a long, still moment as she tried to process the words. Her lips parted slightly, then pressed thin. Slowly, her features dulled, the light in her eyes dimming as a single, heavy word echoed in the hollow of her mind. Death.
+
+Unaware of the shifting shadows passing over Molly’s face, Ted continued, his gaze still fastened on Lilly and Nom Nom with a distant, contemplative ache. “The young girl was just thirteen years of age back then. She was as cheerful as Lilly, her mother, had dreams and goals she wanted to achieve just like any other child would. She had even enrolled for the academy in the main region.” He exhaled a long, measured breath. “But as life would have it, death came for her at an unexpected hour, leaving Lilly drowning in tears and sealed within her own isolation for almost a year.”
+
+A fleeting warmth softened his features then, a brief crack in his composure. “And that was when Nom Nom came in. If not for this Phragon, no one would have ever seen this side of Lilly again.” He glanced sideways at the saddened Molly, her hair stirring gently in the wind. “And most especially, Lilly wouldn’t have been able to see her daughter one last time, even though it was just for a brief, borrowed moment.”
+
+Molly’s eyes flew wide at those final words. The sorrow clinging to her expression immediately fractured and morphed into astonishment, her breath stalling in her chest.
+
+~ Did the Phragon help her?
+
+"Yes. I saw it with my own eyes," he confirmed, his voice a low, steady murmur. He turned his gaze toward Lilly and the Phragon, who still lingered in their quiet embrace. "I saw Vera bid her mother a final farewell before returning to the afterlife."
+
+Molly watched Ted with silent wonder settling over her features, her brows lifting ever so slightly. She hadn't known that Phragons could actually guide and summon souls from the afterlife, nor had she ever imagined them possessing that kind of quiet authority over the boundary of death.
+
+A wistful expression drifted across her face. Her gaze unfocused, turning inward, and for the span of a single heartbeat, a subconscious thought flickered through her mind, a fleeting image of Jen's face, of seeing her again, even if only for a borrowed moment.
+
+She immediately shook the thought away, a quick, sharp motion of her head that sent strands of her hair dancing against her cheeks. That wouldn't be possible. Firstly, Jen's death hadn't been an ordinary passing, and trying to summon her again would bring more harm than good. And most especially—
+
+It would only open that wound further, because she would have to watch her go yet another time, and the scar was still too tender to bear such a second parting.
+
+"Is something bothering you, young lady?"
+
+Ted's voice reached her from close beside her, laced with a gentle concern. She turned her head to find his worried face angled toward her, his brow furrowed. He had been watching her expression sadden while she was lost in thought, the shift in her demeanor not escaping his notice.
+
+Molly shook her head, the movement smaller this time, as she forced a bright smile onto her lips. The curve of her mouth was careful, though it didn't quite reach the depths of her eyes.
+
+~ I just had a thought about something.
+
+Ted stared at her for a long moment, his jaw tightening almost imperceptibly. He didn't buy her words that easily, she could feel his scrutiny like a warm weight, but his concern was swiftly distracted when Lilly's cheerful voice rang out.
+
+"Ted! Nom Nom wants to give you a hug too."
+
+Lilly approached with Nom Nom padding silently beside her. The creature's large, glossy eyes were fixed on Ted with an expression of pure, guileless affection as it moved forward, its gossamer wings flapping with happy, eager enthusiasm.
+
+"I'm good, thank you." Ted waved a dismissive hand, his lips twitching somewhere between a grimace and a reluctant smile. He stepped back, one foot retreating across the cold ground, but his escape was futile. Nom Nom was already upon him, closing the distance with cat-like grace.
+
+Ted sighed in resignation and stood still, his shoulders slumping, while the creature extended a large, cool tongue and dragged it affectionately over the top of his head. The gesture mussed his dark hair into a spiky disarray, and the chill of the touch left a fleeting, tingling dampness. A peal of laugh erupted from Lilly, and even Molly found a genuine giggle bubbling up from her chest.
+
+After the Phragon had thoroughly anointed him, it dropped back to all fours with a soft thump. The elegant, prehensile tail swept through the air. Nom Nom wagged the tail once, twice, and then turned its large, glossy black gaze toward Lilly before it landed, with sudden and quiet intensity, on Molly, who stood a few paces to the side.
+
+The Phragon's head tilted, ear nubs flicking with a shimmer of violet light, as it regarded her with open curiosity.
+
+Molly, in turn, found herself staring back, her own fascination kindling as she studied the creature's form closely. At first glance, a Phragon was unmistakably draconic, a sleek, aerodynamic silhouette built for cutting through the skies. But upon a longer, more careful inspection, a fleeting resemblance to something more spectral revealed itself. The body was not wholly solid; there was a translucence to the charcoal-black hide, as if the creature were carved from solidified moonlight and shadow layered together.
+
+Nom Nom began to walk toward her, moving slowly on all four legs with the silent, measured grace of a stalking feline. Every step was deliberate, the muscular frame rippling beneath the velvety hide, the broad wings folded neatly against its sides. It stopped a few feet away, and a frown creased the Phragon's rounded face, a furrow of uncertainty that pulled at the corners of its expressive eyes.
+
+Molly's brow knitted in confusion. She watched, motionless, as the spiritual beast resumed its approach with an uncertain look, head low, as if navigating some invisible threshold. When it reached her, the Phragon bent its long neck and brought its face level with hers. Its glossy black eyes searched her own, staring with a probing intensity, as though it could see beyond her physical body and into something far deeper.
+
+A nervous expression flickered across Molly's features. She held herself very still, her hands curling at her sides within the thick sleeves of her robe.
+
+Then, something shifted. The Phragon's large, expressive eyes began to change, the glossy black paling to the glacial blue-white of a deep crevasse. They glowed softly, an inner light pulsing, and tiny, high-tier formulas etched themselves across the surface of those orbs—intricate, luminous sigils that drew themselves like constellations wheeling into place.
+
+But what happened next was strange and swift. The Phragon's eyes flew wider, the glow flaring, and its entire form gave a faint, visible tremble that shivered from its ear nubs down to the tip of its tail. It stumbled backward, a clumsy, almost imperceptible retreat, as though some immense presence had brushed against its senses.
+
+And then, to Molly's astonishment, the Phragon began to bow. Its head dipped low, the motion shaky and reverent, the long neck curving with a grace that seemed born of deep, instinctual awe.
+
+Before the bow could complete, before Ted or Lilly could even begin to parse what was unfolding before their eyes, Molly moved. She returned the bow immediately, bending at the waist with a gratitude that was sincere and swift. Then she stepped forward, closing the distance, and wrapped her arms around the paralyzed Phragon's large head. She drew it gently against her shoulder, her fingers smoothing over the cool, velvety surface, and she gave it a tender pat on the crown, a silent reassurance: it's alright, I'm not an enemy, nothing bad will happen.
+
+She felt the trembling gradually ease beneath her palms, the creature's rigid muscles loosening with a shuddering exhale of mist.
+
+"Wow," Lilly breathed out, her voice tinged with delight. "I didn't know Nom Nom had a polite side too."
+
+"How cute!" she squeaked, clasping her hands together, her pink ponytail bouncing with her joyful little bounce.
+
+Ted made no comment. He simply watched, surprise etched into the stillness of his posture. Yet a slight crease settled upon his brow, and his gaze lingered on the Phragon with a sharp, searching quality. That faint trembling, the way Nom Nom had stumbled back as though struck by a silent thunderclap, had not escaped his notice.
+
+Oblivious to Lilly's cheerful remark and the silent calculations turning behind Ted's eyes, Molly poured every fragment of her focus into soothing the Phragon. For one reckless heartbeat, she had even considered secretly weaving a calming formula over the creature, something gentle to quell its trembling, but she abandoned the thought the moment she felt Nom Nom's rigid muscles loosen willingly beneath her palms.
+
+A quiet sigh of relief slipped from Molly's lips, the cold knot of tension unspooling from her shoulders as the fear of her secret being exposed melted away.
+
+'I'm alright now. Thank you.'
+
+A feminine voice echoed inside Molly's mind while she still cradled the Phragon's large head against her.
+
+Molly's gentle pat froze midair, her palm hovering a breath above the hide. Her eyes widened slowly, disbelief parting her lips as her mind replayed what had just happened.
+
+'P-phragons can talk?!' Her own thoughts accidentally ricocheted through the inner space, unguarded and sharp with shock.
+
+A low chuckle answered from within, confirming her astonishment. The voice continued, patient and unhurried.
+
+'Yes, we can, but only if we want to.' The feminine voice said. 'No need to speak outward. Our minds have been connected now, so you can talk to me with your thoughts.'
+
+Molly wrestled to contain the twin currents of disbelief and joy that surged through her chest when she grasped the truth—that the Phragon could speak telepathically, mind to mind.
+
+'Well, there's no need to worry about me talking out. I'm mute.'
+
+The Phragon shifted within the loose circle of Molly's embrace, drawing her face back just enough to fix her large, glossy black eyes on the girl. A sad expression rippled across the creature's rounded features.
+
+'I'm sorry for not knowing that.'
+
+Molly answered with a small, warm smile as she straightened from her crouch, the hem of her robe brushing the ground. 'No need to be sorry. It's normal for people to assume that when they meet me at first.' Her gaze drifted toward Lilly, who caught her eye and flashed an enthusiastic thumbs-up.
+
+'Let's just pretend nothing happened so our secrets won't be discovered,' Molly added in the silent, shared space between them.
+
+Nom Nom rose as well, settling onto all four legs with feline poise, her broad wings giving a brief, contained flutter of excitement. 'Alright.'
+
+Lilly observed the Phragon's sudden, spirited wing-flap and let out a light, tinkling laugh, her round cheeks bunching with mirth as she glanced at Molly. "It seems Nom Nom has found a new friend," she said.
+
+Molly's expression warmed in reply, a gentle upward curve gracing her lips, but a startled look soon flickered across her features when she felt a large, cool nudge press against her spine.
+
+She turned to find Nom Nom standing proudly behind her, the Phragon's wings flapping as she lifted her head high.
+
+'Would you like to fly with me?' Nom Nom projected.
+
+A puzzled blink was Molly's first response, though beneath it, a giddy, effervescent joy began to bubble up like a spring breaking through ice. 'Fly?'
+
+Before Nom Nom could elaborate, Lilly, who had clearly deciphered the Phragon's gesture, spoke up. "I think Nom Nom wants you to accompany her for a moment," she said, her voice light with encouragement.
+
+Molly turned her head, and Lilly gave a conspiratorial wink. "If it's alright with you," Lilly added, her cheerful expression softening with genuine warmth.
+
+For a long, suspended moment, Molly did nothing but stare at Lilly, the breeze teasing strands of pale white hair across her cheek. Then a slow, upward curl graced her lips, and the black orb hovering beside her pulsed as it projected her answer.
+
+~ It's alright.
+
+Lilly nodded happily. "Alright," she said before swiveling toward Nom Nom and leveling the Phragon with a comically stern expression. "Don't take her too far, and make sure to bring her back early." Nom Nom dipped her head in a solemn nod, then lowered her body to the ground, inviting Molly to climb.
+
+A nervous exhale slipped from between Molly's lips. She had cast a flight formula before, felt the rush of wind and altitude, but she had never once ridden upon the back of a living, breathing creature of the sky.
+
+Once Molly was settled, her fingers curling cautiously into the cool, velvety hide, Nom Nom twisted her long neck to glance back at her rider. 'Are you nervous?'
+
+Molly pursed her lips before giving a tiny, almost imperceptible shake of her head that dissolved into a hesitant nod. 'Yes... I've never ridden on a flying creature before,' she admitted inward, the confession honest.
+
+Nom Nom released a short, steadying breath, then faced forward and puffed her chest out with theatrical pride. 'Don't worry. Nom Nom will fly calmly today.'
+
+Molly nearly let a giggle slip aloud but caught herself, clearing her throat instead when she remembered that Ted and Lilly still stood nearby, watching.
+
+'Alright. Hold on tight.' Nom Nom's voice resonated firmly in Molly's mind. Molly's fingers tightened their grip.
+
+Nom Nom began to walk, her talons pressing silent divots into the ground, and then she broke into a short, bounding sprint. Her broad wings unfurled, catching the air with a deep, resonant thrum, and she lifted into a low hover. With a single, powerful downstroke, Nom Nom soared upward into the sky.
+
+Molly's hair streamed behind her like a banner of packed moonlight as she felt the ascent press gently against her body. A breathless giggle finally escaped her when she dared to look down, watching the figures of Lilly and Ted shrink to tiny, waving silhouettes. Molly returned the wave with one hand, her other arm wrapped securely around the Phragon's neck, as though afraid the sky might let her slip.
+
+She shifted her gaze forward and upward, watching as Nom Nom climbed toward a drifting archipelago of clouds. Her eyes rounded with wonder when she noticed how misty and plush the clouds appeared upon closer approach, no longer distant smudges but towering sculptures of vapor. As they drew near, Molly instinctively stretched out a hand. Nom Nom continued to rise, and Molly's fingers breezed through the edge of a cloud, scooping a handful of that puffy, ethereal whiteness into her cupped palms. She stared, mesmerized, as the captured cloud dissolved into thin wisps of vapor, unraveling across her cheeks and nose, cool and tingling, leaving behind the clean scent of sky. A delighted giggle bubbled up from her throat as the pale mist swirled around her face.
+
+'Are you enjoying yourself?' Nom Nom asked.
+
+Molly nodded enthusiastically. 'Yes. Thank you,' she replied inwardly.
+
+'No problem,' Nom Nom said, a contented hum threading beneath the words.
+
+A deep, comfortable silence settled between them. The wind stroked gently over Molly's body, threading through the thick fabric of her robe, while the sun cast long, golden shafts through the breaks in the cloud cover. The two of them, human and Phragon, glided together above a sea of rolling white, suspended in a quiet, magical wonder that asked nothing but to be felt.
+
+Molly was the first to break the hush. 'Nom Nom,' she began, her mental voice tentative.
+
+Sensing she had the Phragon's attention, Molly pressed on. 'I would like to ask a question, if you don't mind.'
+
+Nom Nom tilted her head a fraction as she thought deeply. 'Go on. I don't mind.'
+
+With that permission granted, Molly let the question that had been burning softly at the back of her mind rise to the surface. 'What really happened to you when you got closer to me?'
+
+The Phragon ceased her ascent and leveled into a smooth, gliding arc, the wind singing a softer note across her wings. 'Well...' Her inward voice trailed, the single word hanging in Molly's mind like a fading chord.
+
+'We Phragons have the ability to see beyond the physical form of anything, gazing through the very existence of a thing and seeing the true identity of whatever we wish.' Nom Nom spoke slowly, and her inner voice began to tremble faintly as she recalled the moment on the ground. 'I had a strange feeling when I saw you at first, and that was what made me curious to see what you truly were. And... and...'
+
+The Phragon hesitated, the words breaking apart. A worried expression surfaced on Molly's face. She reached forward and laid her palm flat against the creature's back, stroking in slow, reassuring circles to calm the shiver she felt passing through the hide. Though confusion and curiosity twisted together inside her, she saw no need to probe further and opened her inner voice to tell the Phragon not to worry. But before she could shape the thought, Nom Nom continued anyway.
+
+'I saw it.' The words echoed in Molly's mind, freezing the reassurance. A frown etched itself onto her brow. 'Saw what?' she couldn't stop herself from asking inward, the question sharpened by a sudden, inexplicable chill that had nothing to do with the high-altitude air.
+
+A vast, profound silence stretched between them, vast as the endless sky around them, while Nom Nom gathered her thoughts from some deep, reluctant place.
+
+And when she finally spoke, the words dropped into Molly's consciousness like stones into still, black water, heavy and irreversible, tolling with the finality of a death knell.
+
+'I saw The End.'
+
+'The End Of All Things.'

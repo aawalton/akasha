@@ -1,0 +1,239 @@
+---
+id: 16c737b4-e085-584f-8120-5a39420d2349
+page-type-slug: story-chapter-royal-road
+title: "410 A Shadow Over Piety [I]"
+slug: 0528-410-a-shadow-over-piety-i
+partOf: path-of-the-deathless-book-4-completed
+position: 528
+ownLength: 6295
+unit: words
+publishedAt: 2026-07-20
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3703050/410-a-shadow-over-piety-i"
+royalRoadId: "3703050"
+---
+
+To be skilled is to understand the most effective and efficient means of wielding your power. It is a thing most foolish when Pathbearers debate if it is better to be supremely skilled or supremely powerful. Lacking either will make you supremely deceased.
+
+Without skill, your power will be betrayed. You will not be able to apply your might to the maximum extent, and the moment you run into someone who you cannot best with raw force alone, you are dead. Skill alone is a paltry salve for the many threats you will face. The ceiling of your capabilities will always be in place if you do not possess the powers to push beyond. Realize now that a swordsman supremely skilled but of a meager Tier is the same as a gnat beneath the heel of a monster. It is only through the combination of Physicality, Reflexes, Weapon Proficiency, and more, that they are capable of facing a creature many times their size and bred by bloodshed.
+
+Enlightenment. That is something all true Pathbearers must seek. You must understand the fullness of each of your Skills, where their limits lie, and the foundations which shape its vulnerabilities. You must become skilled, and you must become powerful. Both must be wed for you to be a true warrior. The former alone is a tragedy, as the master of the blade can be murdered by a brute bearing a skin of metal and the might to crumble stone. The latter is simply prey for those who have mastered themselves, for raw might, undirected, unguided, unconditioned, will be wielded against you in turn.
+
+Too many ask what will prevail if all other factors are considered equal. No, all other factors are not equal. Do not imagine such false scenarios. Apply yourself. Gain both, for both are inexorably tied together.
+
+This is not a choice; this is a necessity. For if you wish to ever stride upon the pedestal of Legend, then you must face yourself in the fullness of your form, unburdened by your own weakness, or at least capable of manipulating it. When you do face yourself, face that shadowed incarnation of all you are. Then you will understand the true worth of mastery, and the true meaning of skill.
+
+And so before you descend, learn to move as one, of mind, of heart, of body, and expand your knowledge so that your power is not wasted, and secure power so that your mastery is not betrayed by weakness.
+
+There is no path otherwise. There is no path. There is only the end, and a destination is not what we seek.
+
+—Valor Thann
+
+410
+
+A Shadow Over Piety [I]
+
+As the Hatchling rose from the burning shell that was once the Symposium, it laid eyes upon the landscape where once stood the city of Weave. The horizon had been usurped and swallowed, an infestation grown over the space where thousands of spires once rose from the darkness below.
+
+Now, a screen of churning, black clouds choked the ceiling of the entire dimension, lightning running betwixt across the expanse. Not far from the Hatchling was an empty space, a small clearing created by the descent of the Deathless prior.
+
+But the monster made of ruin was absent now, defeated and struck from the world. Only one final challenger stood against the lone remaining Umbral's ascent into the realm of Legends—but that final challenger would not succumb so easily.
+
+It had been humiliated and defeated before. Ambushed, assailed from all sides, and pressed into unwilling servitude by that wretch of a Seeker, the Forgetting Blade, and the undying creature that still clung to the pretense of being a boy, the Hatchling was struck down before it could be made beautiful.
+
+In the Stranger's Garden, an arrangement had been struck. That arrangement had been broken.
+
+The Umbral's body and being in full had been offered in return for the Eldest's power, but she had stolen it back without proper contest, without true struggle. At the hands of another, she was saved, and the Eldest was denied—yet still forced to surrender everything they'd bestowed, if only to see their own metamorphosis spared from full eradication, for the Stranger's essence had also been injected into the host, and the Dreamtaker, though rendered absent in slumber, had long since marred the Umbral’s soul.
+
+And for the time since then, the Hatchling languished inside its host-turned-captor, its will usurped, its mind silenced and trapped deep, its patience fraying and agitated. But ultimately, impotence ruled. It had no means of changing the arrangement, for any attempts to shift the balance would see it swept aside and its grip over a most promising Seeker lost entirely.
+
+A most promising Seeker that now stood vulnerable once more, for System came to the Eldest offering an unexpected but ultimately simple arrangement.
+
+Delve Quest Offered: Serve as the final encounter within Uva Mettabon's Legendary Delve. Defeat her mind and claim her soul.
+
+Success: Complete your partial metamorphosis.
+
+Failure: The essence and power you imbued within the Seeker will be granted to her in totality, and your influence, along with this instance of your consciousness, will be irrevocably lost.
+
+Merely an extension of its progenitor’s existence, there was no option for the Hatchling to deny the Quest, afraid though it might be. Meanwhile, the Eldest was conflicted. Defeat would inflict only a partial death, but a death nonetheless. The Eldest had died before, died in multitudes, and with each part of themselves that was lost, a permanent patch lingered within their soul. A kind of damage they simply didn't know how to heal from.
+
+But how could they ultimately reject this offering? How could they turn away? Without a body and soul to make their being manifest, the Eldest wasn't, and with this Seeker on the cusp of becoming a Legend, the enticement of claiming her skills, her soul, her vessel, and knowledge was just too much to resist.
+
+They took the offer. They struck the bargain. They let the System's foul mana taint their being, if only to ensure their own existence continue.
+
+Suddenly, their Hatchling was granted a measure of will. It materialized apart from the Seeker, within the depths of a vast cocoon, waiting to burst free, and was further rewarded by a final imbuement of divine might. The Starhawk, or at least a System-made replica of the Ascendant of Justice, descended upon the Hatchling. The power that flowed through it thus was equal to the greatest of any entity in a world bearing an ambient mana threshold with a Legendary ceiling.
+
+And with that power above power, the Hatchling struck, unleashing its skills with wild abandon. This version of itself was made in the mirror of Uva, and so it retained her Legendary Psychomancy Evolution every time. It didn't manage to ensnare and swallow her mind on the first attempt, but here, it had unlimited chances.
+
+Unlike last time, however, Uva's Psychomancy was more than an analogue to a psionic storm. Instead of merely drawing power from countless minds and unleashing that collective telepathic gestalt in blasts that a single intellect was simply unable to unleash, she now created a phantasmagorical web-city from an imposition of mind-mana alone. The translucence was dense enough and felt solid enough to effectively calcify over reality. The Eldest felt this, but they didn't know this power, at least not in its present form.
+
+“But I know something like this, yes. As Within, So Without. A skill connected to my spawn… My ruined, withered, narrow-minded, little descendant of sleep and dreams and nightmares.” An uncanny and utterly human feeling of disgust flooded the Eldest as the System chose that moment to inform them of how the Dreamtaker had transformed into an actual god—effectively undergoing a higher metamorphosis of her own.
+
+All while the Eldest was forced to perform these acts of indignity, bargaining with creatures with lifespans that barely amounted to a flicker. Wrestling with creatures that couldn't even perceive the totality of existence that had to exist in one place at one time, exist within one body instead of everything everywhere at once.
+
+That blast of jealousy and rage died down to something nearly akin to grief as they realized they could not do that anymore either. Increasingly, gradually, the Eldest found their perception of the world narrowing. They were more like what the mortals would dub a hive mind now, a swarm rather than that unburdened intellect that simply existed beyond the reach of time or space since time immemorial they had once been. The more Hatchlings they bestowed upon lesser bodies, the more the nature of these hosts contaminated the Eldest as well. But if they didn't do this, if they didn't grow, then they would be forgotten.
+
+As far gone as they were, the alternative to further change simply was non-existence, death. That wasn't a choice at all. But there never had been a choice, had there? There had only been the System, branding the Eldest with misery as it saw fit.
+
+No. No. I still have a path ahead. I can swallow the System from within. I can infest all of its Pathbearers, all of its mana spawn. I will wear the System like it has strived to wear me. I will be the one that hatches free in the end. I will…
+
+The coherence of the Eldest’s mind was halved as they concentrated their entire being to take hold of their most important Hatchling and wield its power against the storm all around.
+
+The skies were cracked and shattered as the Hatchling flexed its mana. A tree of fiery incandescence cleaved high, punching through Uva’s own projection of Psychomancy as a greater, divinely empowered field loomed over hers. Veins of incandescent lightning fell with more power than a natural Legendary Pathbearer could summon.
+
+Even a city's worth of minds was no match against something empowered by the divine. When the Hatchling's lightning fell, it cleaved through the storm nest as bolt fell upon bolt, and bolt severed bolt down the middle. Where it tore into Uva's architecture, shattering the constructs born of mind mana, it simply dissolved into pus and translucence, no longer clinging to tangible shape or constructed matter. All the Hatchling struck was destroyed in its entirety—forgotten as if a damaged artifact of the mind.
+
+An eldritch thunderstorm fell upon Weave’s recreation. The Hatchling saw no point in holding back, striking every section of the city at once, including where Passage once stood. Yet the Seeker did not retaliate. She did not show her hand. She remained in hiding, and to the Hatchling's growing displeasure, played the role of a coward, as if she could wait out this encounter rather than defeating the Eldest’s Avatar in direct combat.
+
+It would show her. An even greater surge of divine energy erupted from the Hatchling. The Seeker’s storm became an anvil, and lightning proved an apt hammer. Yet, despite the ceaseless mana infused within each of its blows that the Hatchling carried over from the Starhawk’s Domain, the onslaught proved fruitless. The incandescent bolts shredded and devastated entire swaths of the great web, obliterating kilometers of substance to uncover nothing. It devastated mana but unraveled neither mind nor actual matter, for everything trapped within had long since been shuttled away.
+
+“How? How? Where did the city go? Where did the true shapes go?” An uncomfortable paranoia took hold inside the Hatchling. It didn't know how Uva was doing this. More importantly, it didn't understand these powers that wielded neither the Starhawk's capabilities nor Uva's effective use of Legendary Skill Evolution that were known to it.
+
+Such was the other side of the equation. The Hatchling intervening and being granted this chance meant that instead of a perfect replica of Uva facing her original self as a shadow, the Hatchling intervened as a hostile entity—and though it lurked deep in her soul and could still peek through her mind and body, the moment the Delve began, it was quarantined to the deepest layer of this Delve and gained insight into none of the training and preparation she made.
+
+As such, though the Hatchling was bestowed with unfathomable power and a perfect reflection of Uva's skills, it used them the same way that idiot Deathless might—brutal savagery without any hint of artistry or dexterity; devoid of all wisdom and intellect.
+
+And so the Hatchling tasted the System's true intent. This wasn't a chance for it to regain its flesh, to steal a new vessel, but a moment of mockery delivered by the System, using Uva as an instrument to humiliate the Eldest instead of the other way around.
+
+“You don't decide what I am. You will not decide me. You will not decide what I become. You will not decide me. I will become you. I will be born from you. I will be made real. I am before. I am after. I am inevitable. I am, I AM!”
+
+The Hatchling hissed its declaration via a blast of telepathic destruction. The city shook; the woven lightning all around shivered as shockwaves of divine wrath crashed down, but that was all the nest of Psychomancy did. Worse yet, everything the Hatchling destroyed regenerated seconds later. As forking branches of lightning wove new sections into the city, the Composer, now absent, couldn't play any of her melodies, and so the true location of Uva was lost and needed to be found the hardest way.
+
+Raw power alone didn't lend itself to Psychomantic supremacy, for the lore of the mind, more than all others, was a soft magic, an art of subtlety and creativity and complexity.
+
+Just then, the Hatchling drew in all its power at once, with dense curtains of fleeing lightning whipping out from its mind. With its own colossal tree, burning bright with incandescent energies and rising higher into the sky, piercing through Uva's and splitting it down the middle as godly mana tore into its lesser counterpart of mortal origin, the destruction the Hatchling inflicted was at once near total—but also hopelessly pointless.
+
+Ninety percent of the mana web was shredded through; the complex architecture within was obliterated, rendered down to its component motes. The falling rains and translucence were banished for a brief moment, and the Hatchling felt its magic strike home, but not touch the girl. A dozen minds were utterly dissolved beneath its lightning, but that was all. She still had thousands, stolen from the simulated expanse of Weave.
+
+The Hatchling could practically feel the System’s scorn: I gave you another chance. I gave you power. I gave you a god so that you would never run out of power, so that you would possess skills beyond your own. I gave you the potential to destroy everything, only for you to achieve nothing.
+
+The notification became real as the Eldest’s ire made it so. An existential frustration boiled through them, and their mind rattled with unbridled rage. But the Eldest was also patient. The Eldest knew what it took to defeat an adversary many times one's size, and the Eldest adapted—or at least tried to.
+
+The Hatchling struck randomly, bombarding the few patches of translucent mana remaining with its own Dreaming Storm. But try as the Hatchling might, without absolute saturation across the entire city, the great nest simply regrew—rebuilding itself in jolts of mind-mana that inspired a growing futility.
+
+Next, the Hatchling spread its magical attacks out and struck everything at once, keeping the web separated into broken patches. At once the storm it commanded parted, with every individual chain of lightning spreading wide like a hand opening up, but the moment those gaps were exposed, the remaining sections of Uva's nest struck back, launching their bolts down upon the Hatchling and upward where her storm was alive below it. The Eldritch God’s Avatar responded, but as it failed to grasp the intricacies of Uva's skills once more, it remained far too slow. Uva's Multitasking and Reflexes Skills were stacked together. She only grew faster when her mind had multiple instances running in other bodies, and so a series of concussive impacts bombarded over the Hatchling.
+
+Exposed and possessed of a Magical Resistance insufficient before such a dominating Legendary skill, the Hatchling’s consciousness should have been destroyed in an instant, but the presence of the Starhawk kept it alive and spared it from immediate destruction. Snarling, it retaliated with divine lightning, leaving through the translucent veins digging into its mind—but it failed to counter where it truly mattered, as Uva's lightning scattered of its own volition, revealing payloads of summoned Outsiders stored within.
+
+A rain of Terrorspawn and fractured spiderlings crashed down over the Hatchling. It let out a pained scream with Uva's voice as its body was torn asunder, bits of its flesh ripped away over and over by chittering swarms of geometric horrors. The spiderlings didn't last long; they broke themselves against a bulwark made from time, as the Hatchling shaped a shard of time-halting frost around its body.
+
+But it was gouged and gashed, and by the time it fought the horde of creatures off, it was missing an eye, severed of all limbs but its left hand, and gored across the abdomen, with thin fingers in a facsimile of Uva's own trying to push intestines spilling out in swaying ropes back in its body.
+
+A screaming symphony of pain played across the Hatchling's body. It clutched its wounds, marveling in horror at the blood pouring out from its flesh, and along with the Eldest it felt that cold touch of mortality sink in for the first time in truth. “Is this what it is like?” the Hatchling whispered, looking down as steaming organs spilled through its splayed fingers. "This is it, to be another, in their entirety? To be narrowed down into a single body, a single vulnerable, fallible body? Is this what it is like, to be born as an individual instead of existing as a primordial idea before existence, before all other Outsiders?"
+
+These thoughts echoed true in the Eldest.
+
+They had been spared the risk of death as a birthright, simply because they were first, because they had to exist before anything else did. Once, they had been the primordial concept of origin.
+
+But what now? Severed from that old reality, before the System, what am I? Just a bag of bleeding, screaming, wretched meat?
+
+The Hatchling had struck with impunity. It had unleashed its mana in overwhelming bursts of crude and brutal power, and had left itself open. Now it had paid the price, and it knew. It could feel the System laughing. It could feel the System’s cruel delight as if mocking hands squeezing its shoulders, whispering to stand up, get over it, and try again.
+
+And then a whisper came, carried by distant rumbles of lesser thunder, rumbles that vibrated from the regrowing webs above and below. Watching the psionic webbing reconnect the remaining patches that had survived the Hatchling's run was like witnessing a forest regrow at an accelerated pace, and in the span of seconds, everything the Hatchling had destroyed was swallowed by a new propagation of psionic storm-stuff. “For all the power you've been given, you are an embarrassing Psychomancer.” The Seeker’s words sounded from above as below, taunting the Hatchling. “If this was how you intended to perform after stealing my body, then I am glad you were denied the chance. I would not want to see my legend or skills debased by such a pathetic display.”
+
+“Show yourself,” the Eldest spat, speaking directly through its spawn. “Face me, face me! You struck a bargain. You owe me survival. You owe me what follows. My Hatchling is meant to be born. It cannot remain inside of you. I must become—”
+
+The Seeker laughed, her voice alive with audacity and dry derision. “Nothing needs to happen. Nothing has to happen. That is the way of the System. It desires only strife, and the one that can prevail against it is rewarded, while the one who fails becomes a footnote in someone else's legend. Reality doesn't care for you nor me, not the way you want it to, but that's to be expected. You were the only reality you once knew, after all.”
+
+An all-too-human, all-too-Uva-like snarl escaped the Hatchling as it reared back the wondrous power given unto it like a hammer. Bombardments of storm and mind-mana crashed down into the grand web that had been made of Weave. Dozens of kilometers of translucence dissolved beneath thunderclaps of incandescent eruptions. Towering pillars of golden destruction speared into the stolen city, slicing and burrowing through the Umbral’s nest.
+
+But through it all, Uva never stopped talking. Never stopped taunting. “I see you now for what you are. I see you. More than being a poor Psychomancer, you would have made a shameful mage in general. Have you ever learned anything for yourself? Have you had an idea that was solely your own? Have you ever discovered something for yourself? Have you suffered and survived failure after failure or adapting through trials? Was anything ever truly your own, or are you just a parasite?”
+
+“I AM WHAT WAS, I AM WHAT IS, AND I AM WHAT WILL BE!”
+
+The Eldest bellowed their answer through their Hatchling, through its Psychomancy, with the fullness of their conviction, but bearing a crushing feeling of agitation above all else.
+
+“Perhaps the world was that simple once, but you're no longer an enigma to me, Eldest. You are simply a tragedy, even if you are the progenitor of the Outsiders and all things besides. What does the name Eldest even mean or represent in these days of the System? Simply that you are old, at best the primordial soup from which all life flowed. Even if you predate the System, you are not greater than it, and though your power is still immense, you've done nothing with it. You've let it languish. You are raw, you are ignorant, and you are sloppy! These are unforgivable sins for a Pathbearer, and that is what you are, no matter how much you try to deny it. You carry flaws that you just cannot overcome, even if you have a god carrying you through the fray.”
+
+As it tried to drown out her damnable voice, the Hatchling saw a specific section of Uva's web vibrating more than the others, where coiled lengths of stormstuff were thicker than city blocks and rose higher than most of Weave’s grand spires.
+
+The Hatchling snarled; a chain of lightning fell from on high and cleaved it through to its foundations.
+
+The divine light of the Starhawk drowned the world like the rising of a sun. That absolute power brought ruin to all it touched, enough to wipe even the greatest of Legends away from the face of reality.
+
+The toll that was reaped was a slight pruning of mana, and a single mind lost among Uva's many, many generators.
+
+“I told you before that you are a terrible Psychomancer. If you were even a mediocre mind mage, you would realize what you are doing is hopeless. You cannot destroy the dream if the dreamers still remain. And you cannot find the dreamers if you don't know where they are, where to even look, all because you won’t descend into the dream itself.”
+
+And though it was revolting to suffer a lecture from a creature so parochial, so small, so fleeting, the Eldest was different from their offspring. They remembered. They lived. They listened. And they tried to learn.
+
+Instead of once again bombarding the Seeker’s constructed city with a flood of raw power, the Eldest directed the Hatchling to begin concentrating its lightning into flowing strings to bridge the gaps between her shredded web.
+
+The Hatchling countered one set of invasive psionic architecture with its own. Veins of incandescent lightning were transplanted over their translucent counterparts. Godly fire coursed through these links, flowing from place to place as the Hatchling made use of the deeper aspects of its Legendary Skill for the first time. This wasn't just a storm. It was a storm that built. It was a storm that projected the mind over reality, and in turn could reap pieces away from reality and hide them within the mind.
+
+Now it understood where all the actual architecture went, where all the spires were taken. It was hidden inside of her mind. Everything that had been destroyed wasn't lost; it was simply displaced, using all the people she'd chained to her own consciousness. They fueled her with an ever-recovering supply of mana, which allowed her to make this a fight of attrition.
+
+Now it was the Eldest’s turn to laugh, and laugh they did. “Foolish. Hubris. You should have known my nature is different. I was. I am. I become. I listen, and I have listened to you. I will know who you are. I will know how you perform. I will become you. I will be birthed from you. I will become, and you will be nothing more than an aspect of who I was. You will be a husk, and I will be—be—”
+
+The Seeker hummed as her stormwebs shook with anticipation—which vibrated over into the Hatchling’s own mana. “Ah, good. You listened. That means you’re gullible. I would ask you to look up, but I am afraid the result would merely be unseemly. Legend Hymn. If you would, please.”
+
+A feeling of wrongness took hold inside the Hatchling. It started inside its injuries. Its injuries that were regenerating for some reason. As it looked down, it realized it was regrowing its missing right arm and both its legs. It saw that its wounds were bubbling, intestines being reeled back into the chasm of gore that had been made of its midriff. Uva didn't possess a healing skill of this magnitude—she didn't possess a healing skill at all. This should have been impossible. It should have been—
+
+Bubbling masses of tumorous darkness exploded out from where its missing flesh once was. Branching fingers beset with gleaming, golden eyes grew out from its body in the place of limbs, and they reached back inward to grasp the Hatchling, while digging nails into its flesh from the bubbling tar within.
+
+In that moment, the Eldest felt it: another presence settling inside its own being. No, not just one, but two. A kaleidoscopic glow leaked out from its injuries as well, a hint of the dreaming child's influence seeping forth from the Stranger's mutations.
+
+“Oh, right, I forgot to mention, while the System came to your aid, someone came to mine. With all that eldritch essence inside of me separated for this Delve, and you waiting at the very bottom…”
+
+“No…”
+
+“The Headmaster assures me that this wasn't a very complicated thing to do. The System isolated you into a very narrow area within my soul; he simply moved the other eldritch influences inside of me and mingled them into yours. Looks like you are not going to be the one that comes before the one that is the one that will be. It looks like you are now a part of the Stranger and what remains of the Dreamtaker as much as they are a part of you. I wonder what might hatch from me, even if you were to win. I am curious if it will be more of your design, or closer to the Stranger instead. Or perhaps the Dreamtaker will surprise us all again.”
+
+As a nightmarish sprawl of golden eyes, imbued with memory and time, twitched and searched to uncover what body they had spawned within, the Hatchling felt the Stranger’s presence breach into its body, and the Eldest's true offspring sensed and remembered his parent’s presence for the first time in existence.
+
+“Progenitor!” the Stranger seethed, closer to human fury and outrage than any kind of incomprehensible emotion possessed by an Outsider. “See you, remember you now… Understand now… Won’t be able to steal from me. Won’t use me… Never again…”
+
+A novel emotion detonated inside the Eldest: ice-cold terror. It rushed through its Hatchling’s veins in crashing waves of disbelief. Their lesser spawn shouldn't be able to perceive it. They were the Eldest. They'd been here long before them. The children couldn't perceive their existence. They superseded all that came after it. Those were—
+
+“Those are not the rules anymore. Not for them, and not for you. Not since you started gaining your own levels and the Stranger started gaining his. Now, you belong to this System, like me, and there is nothing that precedes its authority in Integration. We are all touched by mana. We have all been defined, and that's the thing about getting skills: once set, there is no going back.”
+
+A cone of tumorous fingers burst out from the Hatchling’s stomach, extending upward in lengths of lashing limbs that clawed at its face while slicing pieces of its body away with beams of retroactive mana. The Hatchling gasped with the Umbral’s voice and thrashed in alarm, blindly ripping sections of its body away with splashing whips of lightning. Its Dreaming Storm turned inward, stripping its Stranger-corrupted flesh out of material reality into the confines of its memory before a fatal blow could be struck.
+
+But in doing so, the Hatchling compromised its offense. The divine mana used to infest its enemy's web was distracted and diverted, and rather than playing passive for a moment longer, the Seeker retaliated with an inverted storm of her own.
+
+The mental architecture of her city-spanning web came undone, and the pretense she held in imitation of material architecture dissolved. All the Seeker’s mind mana snapped back together in a rising spire made from a thousand thousand threads. Instead of being a static, unmoving city, the mental structure she projected became dynamic in itself as it went slithering forth, a moving mana field carrying all the minds that fueled it with power, carrying the highest dreamer of all.
+
+She guided the coursing current of Psychomancy and stormstuff to strike the exposed Hatchling like a colossal serpent, and as it responded in desperation, ripping through the front-most section of Uva's psionic construct, what spilled out from the gaps once more were spiderlings, Terrorspawn, a single instance of a screaming human woman, and stretching limbs sent forth by Uva herself, crossing through psionic bridges and mental portals to drive a rapier shaped of eldritch geometries straight through the Hatchling’s skull.
+
+A wet squelch rang inside the Hatchling's skull. The horrible, all-too-mortal sound of splitting bone and parting brain matter was accompanied by indescribable agony. Its senses went haywire. The world went dark and bright and dark and bright dark again, and when the Hatchling regained a measure of self-control, it realized it was hanging limp in Uva's grasp, hanging from an extended needle formed of geometric fractals.
+
+The Eldest screamed at the Hatchling, tried to force their Avatar to respond. But their wants, feelings, and will were no longer the law, and ultimately, when a mortal organism's brain was severed in a specific way, the damage carved away any chance of personal agency even before the final coming of death.
+
+Uva stood upon a pedestal now—a towering spire with a flat top, shaped into matter from raw Psychomancy mana. Arteries of quivering energy hatched free from the Umbral's mind, her mana field a thing of storm and web co-mingling to become a tree. A tree that swallowed the Hatchling's own, growing around that dense trunk, incandescent mana in coiling branches of infectious translucence.
+
+Earlier, the Hatchling split Uva’s storm-tree down the middle. Now, it realized that act had been pure folly. You couldn't sever a thought and expect it to disappear. You could only damage the dreamer. In attempting to destroy that which the Seeker wielded instead of that which she was, it had let itself be engulfed. Through the Starhawk, it had unleashed enough power to part a sea a million times over, but with power alone, the waters were fated to crash back inward. The Hatchling had let itself drown. It had let itself get drawn deep into the web, and it had achieved nothing at all.
+
+“Now you see,” Uva said quietly, looking upon the Hatchling with an expression of disappointment and vicious triumph both. “Now you understand. I told you. You weren't a good Psychomancer. A good Psychomancer is akin to a seamstress. You weave. You mend pieces together. When attacking, you try to overwrite and drown your enemy. You confuse them. You force them to play your game. You subvert every aspect of their mind. I didn't even need to do that with you. You were all too predictable. Your power crippled you from the start. You never needed to be subtle in ways a Psychomancer who grows into their own over time would. You truly never needed to learn from true failure. And that's why you never stood a chance.”
+
+Somehow, using the last remnants of its biological control, the Hatchling lifted a shivering hand and tried to push itself free from Uva's blade. But halfway through, it began to seize; its eyes, copies of her own, began to roll; then came a booming clap of thunder, and a lash of Psychomancy forced its mind to endure even in the face of biological destruction. The lash made the Eldest within her twin face Uva, mind to mind, thought to thought, being to being.
+
+“You imagined you could take my flesh from me?” Uva asked. “You imagined you could simply seize my skills? Transform my soul? Become me? This was where you were wrong. Your actions were driven by delusion. A mind isn't something you can simply take and shed. A mind must be transformed, and a person is the same.”
+
+A disdainful scoff echoed through the entire Delve, and the sheer virulent hatred coursing through Uva's mind scalded the Eldest. “But you never become. You just stay yourself, even if you are something that came before. Even if you are a creature of metamorphosis and power. What is the point then? What is the point of transforming someone if you simply end up as a blank slate? You say you would become me, but I'm just looking at you, seeing how you perform, seeing what you tried to force. You are nothing more than a monster, no better than a dying insect thrashing upon the surface of a lake. Without me, what skill did you possess? What worth are you on your own? What even are you unto yourself? You dub yourself Eldest. I name you Parasite—for more than any other eldritch god, that is what you are. Thief of vessel, thief of power, thief of even ego and memory, but never of identity. And how strange that it matters so much to you when your identity seems to hold no worth in practice.”
+
+A croon of absolute misery slipped out from the Eldest. They hated her. They wanted to crush and kill her with their mind, but their Avatar was damaged beyond repair, and so the Eldest realized it knew that oblivion was encroaching. The System had baited them into this mistake, had lured them away, and now this part of them was going to perish.
+
+There was nothing they could do.
+
+Nothing but attempt to bargain once again. “I saved you. You wouldn't have survived in my son's Garden without me. Your Blackedge would have crumbled. You would have died.”
+
+“And that makes me beholden to you?” Uva asked. A ghost of a sneer appeared on her moon-bright skin, and her eye, bright and hollow with pale and pure mana, glistened with contempt. “You used me to gain what you want. Now I use you to obtain what I desire. Bargains struck in coercion and without consent will not be upheld when the moment passes. Let this be a lesson for all the other bodies you try to take. Let this be a lesson, if only the single one you will ever learn.”
+
+“Please…” the Hatchling whispered. “Don't want to die… Take me back into your… Absorb my…”
+
+“Silence!” Uva's Psychomancy made the command a fundamental truth rather than a desperate request. “I will decide now. And you will suffer my choice. Just as I have once suffered yours.”
+
+And with that, she ripped her blade clean from the Hatchling's skull with a sickening squelch. In the aftermath, an existential void swallowed the Hatchling.
+
+That aspect of the Eldest ceased to be.
+
+***
+
+Elsewhere, in a place before places, in a darkness so deep that light was a metaphysical impossibility, an Outsider before Outsiders bled, wailed, and suffered.
+
+A single, indelible wound was left upon the Eldest themselves—a stab wound burrowing up through their left cheek, made to manifest across every body they would infest from this point on. Made to manifest without fail, without any chance to heal.
+
+Rather than seeing themselves birthed from a new Legendary Psychomancer, rather than becoming realer than they ever were before in this place of unexistence, in this void only touched by the thinnest tendrils of mana not long before, the Eldest was not only scarred by a mortal, but further infested by what she represented.
+
+The System dug its hooks in deeper, and it used this chance to direct the divine essence it had bestowed upon the Hatchling to mutilate the soul of the Eldest themselves.
+
+Curse Imposed: Egoscarred (Absolute) - All acts of Psychomancy will see your eternal wound torn wider, and know that, should you make one of your Avatars face the progenitor of this Curse, you deliver them unto their doom.

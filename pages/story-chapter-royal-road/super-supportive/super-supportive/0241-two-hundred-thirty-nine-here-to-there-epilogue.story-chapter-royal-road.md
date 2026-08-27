@@ -1,0 +1,193 @@
+---
+id: f0222730-84e6-5062-91d2-8d687953fbb9
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED THIRTY-NINE: Here-to-There Epilogue"
+slug: 0241-two-hundred-thirty-nine-here-to-there-epilogue
+partOf: super-supportive
+position: 241
+ownLength: 2824
+unit: words
+publishedAt: 2025-08-20
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2534453/two-hundred-thirty-nine-here-to-there-epilogue"
+royalRoadId: "2534453"
+---
+
+239
+
+******
+
+Alden and Stuart left the courtyard as soon as the basics of Olget-ovekondo’s sentence were announced.
+
+Thrice the number of years Uro-bor had served his mother, to be spent in productive labor for the betterment of the Artonan people and the worlds that acknowledged the leadership of the Triplanets. And one-third the years of the average ordinary class member’s lifespan because of the damage his spell and the exploding wand might have caused if things had gone differently. Nine more years for agreeing to protect the Here-to-There and then betraying his path by doing the opposite.
+
+It was more than the rest of Olget-ovekondo’s natural life, but still “a gentle sentence” according to Executioner Vill-ma. After all, she could have ordered him to repay thrice the years he’d hoped to take from each member of the bor family in the future. Or thrice the number they had already served over multiple generations.
+
+This mercy was in appreciation for the fact that Olget hadn’t drawn the process out by demanding mind readers or truth spells. When he had recovered from his collapse onto the courtyard tiles, Vill-ma would review his proficiencies with him so that she could find a placement for him that would make him useful and present him with opportunities to reduce his sentence.
+
+“I wanted a happier end to the Here-to-There,” Alden said when they were back out in front of the executioner’s mansion, walking down the drive on their way to a place nearby that had a teleportation alcove. “But if I look at it another way, you and I did everything we could to make sure it stayed happy for the people we promised to guard, so it was good for almost everyone.”
+
+“Yes. I’ve done my best to be proper, and you have been exceptionally giving of your time, thought, and abilities. We shouldn’t allow ourselves regret.”
+
+“Why do I get to be exceptionally giving while you only get to be proper?”
+
+“A votary on duty like I am right now can’t be called exceptionally giving in many circumstances,” Stuart said. “To meet every need with best effort is the job.”
+
+“I hear that.” Alden tried to use his inhaler and found it was finally empty.“How surprised do you think Executioner Vill-ma is going to be when she realizes exactly who she was sharing her passion for Ro-den with? The person who suggested he help Anesidora before anyone could think to prevent him from volunteering and the Avowed he used for one of his crimes were right in front of her.”
+
+Stuart made an irritated noise. “I don’t think she has any way to know my role, but I can’t comprehend why it didn’t occur to her that you are that Avowed! She has to be aware that Aunt Alis commended the human she found on Thegund, since she seems to have learned so much about the situation. Maybe I should have told you to wear your embroidery, but I didn’t expect to meet someone with such an interest in Ro-den. Since she has that interest shouldn’t she assume any human traveling with me is most likely you?”
+
+He started walking faster. “She can’t imagine members of my family summon Avowed from Earth frequently. Or she shouldn’t if she knows anything about us. Maybe she assumes I’m someone who wants to do that to make a statement of opinion or status…and she believes my parents would indulge me?”
+
+Alden could tell he was bristling at the very thought. They turned off the executioner’s drive onto a gray walkway that would take them to the local music school that had the public alcove.
+
+“She obviously thinks you’ve been influenced by LeafSong. I’m your strong-looking, Artonan-speaking decorative guardperson. And every night, a ewtwee comes to freshen your pillows and tuck you into bed.”
+
+“Bayab-oth received admonishment for lack of study in our toolless casting class, so his family no longer sends the ewtwee Ryeh-b’t to <<pamper>> him like that,” Stuart said. “Now we must endure his <<sullenness>> during what should be the most restful part of our day.”
+
+“That’s so sad.”
+
+“You sound like you don’t mean it”
+
+“I am sorry he annoys you.”
+
+The wind stirred. It felt more like being toasted by a low-power hair dryer than experiencing a nice breeze.
+
+“Do you want to ask…” Stuart’s cheeks and ears began to purple.
+
+“Ask what?”
+
+“I think you may wonder about my vision and cognition. You don’t have to avoid questions like that.”
+
+So it’s that.
+
+“I did notice you turning an eye earlier,” Alden admitted. “But I wasn’t thinking about it right now. I was actually about to ask you why your family doesn’t have any contact with Earth except for me, as far as I can tell. I’ve been assuming that if you ever felt like telling me why you don’t split your vision, you would. I’m curious, but it probably catches my attention less than it does an Artonan’s. I know so many more people who keep their eyes pointed in one direction than I do people who can look left and right at the same time.”
+
+It took a few seconds for Stuart to respond. “During our first several interactions after you returned from Thegund, I indulged myself by imagining you didn’t notice at all.”
+
+“I didn’t at first.”
+
+Alden had noticed oddities, including Stuart’s tendency to stare a lot and blink infrequently during some of their conversations. But he hadn’t wondered specifically about the vision splitting while Stuart was serving him his first cup of the good wevvi and being so very Stuartish about his nerve damaged foot and his guest.
+
+“Singular focus was the natural response when I learned to regard what was left of my mother’s mind trap as a threat to me. Healer Yenu encouraged it, and she supported my comfort with it as part of my healing. Now…” Stuart was speaking slowly. “I can divide my thoughts. I do so to cast spells. Or when I want to better understand what others are conveying when they pairthink. But it requires more effort than it would for a normal person of my species. And I don’t turn an eye often. I don’t like it, and sometimes I fear liking it too much.”
+
+“Why?”
+
+“I often see her when I do it,” Stuart whispered. “She’s not like my old hallucinations because I don’t struggle to know she’s not really with me. But…there may be a possibility I could access what’s left of her gift to me and let it entrap me again. In a shameful moment.”
+
+Iella-inwer’s gift to her son. A world with no pain or worry, where all things were beautiful.
+
+“I thought… ” Alden revised the rest of the sentence several times before he let it escape. “I thought something like that couldn’t happen to you again.”
+
+“I won’t let it,” said Stuart. “Maybe it can’t anyway. My mother was so talented and so knowledgeable. My mind trap seems to have been anchored not only within my mind but also alongside my spot in reality in a way that all my healers were unfamiliar with. But it’s almost entirely gone.”
+
+“I’m sure it will be one day, Stuart.”
+
+Stuart gave him a pained look. “Thank you. I’m less sure. Healers don’t alter the parts of the mind that truly resist. And the mind trap is how my mother loved me.”
+
+Alden swallowed. Oh wow. What do I say to that?
+
+“About your question. I’ve been avoiding this subject because I wanted you to feel as welcome as a warm day at the siblinghold, but since you’ve brought it up…the Rapports voted against making Earth a resource world. So much political power was expended that we only recently became confident we can manage all of the important votes that will happen as a result of the opening of the way to the place where the ilket lived.”
+
+I guess I say nothing about the mind trap because he’s just bouncing right along to this.
+
+“The knights were against Earth? All of them?”
+
+“I’m sure some disagreed, but the matter was so serious and so strongfelt for most that all cast the weight of their vote through whoever was serving as our representative to the Grand Senate at the time.”
+
+“Quinyeth said humanity was controversial. Why don’t you like us? We’ve got great stuff on our planet,” Alden said lightly. “I know when your people arrived we probably seemed a little warlike and dysfunctional, but some of the other resource worlds are definitely more concerning in my opinion.”
+
+“Are you offended?”
+
+“No. But I like Rapport I more than anywhere else I’ve been on the Triplanets, so I hope all the knights there don’t think my species is the worst one.”
+
+“You know they don’t think that.” Stuart sighed. “This is probably the kind of thing I shouldn’t say because of proper discretion. I’m not sure. You’re certain to hear about it eventually from someone, though, while we’re spending time together. And it doesn’t seem like it should be a secret to me.”
+
+“Don’t you ever regret not letting me swear Privacy of the House?” Alden asked.
+
+“I do not,” Stuart said firmly. “Earth was especially upsetting because your similarity to us presented so many opportunities for cultural upheaval, abuses, and…other issues. There were a lot of issues. But the Rapports would have voted against any planet. We don’t want to be responsible for more worlds. The benefit can be great, but we believe it’s less than the risk for now. And before Earth was discovered, wizards had mostly agreed that <<haphazardly>> seeking out advanced alien societies is a bad idea.”
+
+“I can see how it would be.”
+
+“Stopping powerful individuals from trying has been impossible, though,” said Stuart. “One such person succeeded in finding Earth. Most knights and votaries believed the correct course of action was <<stealthy>> management of the situation from afar. Some would even have been in favor of abandonment and sealing. That might sound cruel…it is cruel…but such a strong statement that the Triplanets would refuse to interact with any species discovered by careless <<glory-seekers>> could have prevented many of those types from deciding that a new resource world will be their <<legacy>>. Or that they’ll find a selfless species more advanced than our own to bring chaos under control and teach us unimaginable magics.”
+
+The street was quiet. No cars had passed, and the walkway soon separated from the road and wound in the direction of the nonagonal white building that was the music school.
+
+“What does sealing mean?” Alden asked
+
+“It’s supposed to be a way of denying one part of reality interaction with other parts. I really don’t understand much about it, especially on the scale I’m speaking of now. The method for doing it is kept secret, or there would be people even worse than the glory-seekers deciding to chop off pieces of the universe they don’t like as if they were pruning a bush.” He paused. “I’m grateful my people met your ancestors, and that Earth wasn’t cut off.”
+
+“Me too.” What else was there to say to that?
+
+“The Rapports lost the vote, and the Grand Senate violated the rules it had set for itself. Humans and Earth were too <<captivating>>. And so your Contract was formed, and it must not be allowed to fail. The worst fears of knights were never realized anyway. Earth has been untroubled by <<genocidal>> wizards and chaos. Mostly.”
+
+“Genocidal wizards are a big fear for a small number of humans,” Alden said. “So don’t casually say that if you’re ever giving a motivational speech to my planet.”
+
+The Artonans had made so many cures for human disease; creating a single plague had to be easier. If history had gone in a much more evil direction, they could have released a germ, waited a few months, and then moved in as the proud owners of a new Artona IV. It would have a tolerable climate, edible food, and be fully furnished with cities they could live in until they built new ones.
+
+“We were discovered by just one wizard?” Alden asked. “Acting on their own?”
+
+“That’s right. Our children’s children will be told another story, I’m sure.”
+
+“What was the wizard’s name?”
+
+“They have none,” Stuart said.
+
+No name. As little glory for the glory-seeker as possible I suppose.
+
+“I see. And your family hasn’t had anything to do with humans or Earth in eighty years—eighty of my years—because they voted against our inclusion, and they’re following their principles.”
+
+“Their principles have been preyed upon by time” Stuart said dryly. “You’ve seen how eager they are to help themselves to my fruit baskets.”
+
+“I’m corrupting the family of the Primary and the Quaternary.”
+
+“The state of things was already changing,” Stuart said in a more serious voice. “They say the first Rapport tends to change at Father and Aunt Alis’s pace. I believe the two of them just haven’t had time to think much about humans over the last several years. But Aunt Alis has recently been offended by the justifications of a group that wants Earth to have a higher percentage of Ryeh-b’t Avowed. And Father got to meet you after you helped me!”
+
+He said that last part brightly. Like the Primary had been given a special treat.
+
+He loves his father so much. It’s on his face every time he talks about him.
+
+“Stuart, is the Primary able to come home for…will he be here for you? During your first binding.”
+
+“No.” Stuart gestured to indicate they should follow the walkway around the building toward the back. “I don’t think he needs to be. He’s already said what he wants to say. He has a way to call. And meeting me a little later, when I am happy for what I’ve gained instead of grieving what I’ve lost, will be good. I will be proud on that day.”
+
+I can’t believe he’s not coming. I really can’t.
+
+“When do you think you’ll do it? I’d like to know so that I can…do whatever you’d find helpful.”
+
+Stuart stopped walking. He stared at Alden.
+
+“My soon-friend, I will make a place for you in the ceremony of that day.”
+
+“Then I’ll be there.” Alden swore it as firmly as Stuart just had. “No matter what.”
+
+“This coming weekend will be Welcome End,” Stuart continued. “It’s a time of celebration and socializing focused on the declared who will soon become knights. We’re approaching the end of summer. Most people choose to have their first bindings during the period just after Welcome End and through early fall. Until recently, I was planning to do that, too. Mine would have been ten days from now, on the anniversary of Father’s first binding.”
+
+A bubble of fear formed in Alden’s gut.
+
+“But I agreed to the delay my family wanted,” Stuart said. “So it will be half a year. The second and fifth Rapports are in the southern hemisphere, so they’ll be having their end of summer then. I’ll do it with their declared.”
+
+“You have to go to another Rapport instead of being at home? Just because of that agreement?” Alden found the idea much more enraging than he would have expected. “Stuart, that’s not fair to you at all!”
+
+“No,” Stuart said, eyes widening. “I’ll be at home. But I wanted it to be the right season somewhere on the Mother.”
+
+The wind had picked up enough to blow a crispy piece of plant across the walkway beside them. It was brown, dry, and dead. Alden watched it.
+
+“That’s a long time and no time at all,” he said finally.
+
+Stuart tilted his head. “I’m not sure what you’re thinking. Will you tell me?”
+
+“I’ll finish the most important part of my choosing season before you do it,” Alden said. “That’s what I’m thinking.”
+
+“My first binding shouldn’t influence you. Your choosing season is your own.”
+
+“I’ve chosen to let it influence me. Don’t worry. I’m trying to do what’s right.”
+
+They found the alcove and arrived back in the art’h summonarium not long after that. The moisture in the air and the decent temperature were so welcome that Alden could have melted onto the floor and slept with minimal encouragement. But he had one more responsibility to consider.
+
+“Where’s Kon?” he asked. “Is he with some member of your family, or did he go back to Earth? I expected him to send me at least one message to let me know what was happening here.”
+
+“I should have shared the update I received with you,” Stuart said. “I’m sorry. That seems obvious now, but I was tired. He wasn’t here long. Olorn Mom gave him a gift, and they sent him back to Anesidora.”
+
+“All right…I’ll go collect my suitcase and head to Anesidora, too. And you need to get some rest.”
+
+******

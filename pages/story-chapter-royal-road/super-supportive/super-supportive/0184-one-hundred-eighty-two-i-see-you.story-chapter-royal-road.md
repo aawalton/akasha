@@ -1,0 +1,425 @@
+---
+id: cdb4b36c-d0bf-5605-9993-884f7ce33c6d
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED EIGHTY-TWO: I See You"
+slug: 0184-one-hundred-eighty-two-i-see-you
+partOf: super-supportive
+position: 184
+ownLength: 6370
+unit: words
+publishedAt: 2024-11-14
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1902771/one-hundred-eighty-two-i-see-you"
+royalRoadId: "1902771"
+---
+
+182******
+
+Alden’s invitation to the first Rapport came just after ten thirty in the morning, as expected. He took one final look around Matadero’s teleportation area and touched the driftwood brooch he wore on the front of his vest as if it might have gotten crooked in the twenty seconds that had elapsed since the last time he’d checked it. Then, he grabbed the handle of his suitcase, picked up the basket he’d prepared yesterday, and accepted.
+
+No backing out now, he thought.
+
+A moment later, he was in the art’h summonarium, standing face to face with his host.
+
+“Hello!” said Stuart.
+
+Alden had wondered if he would get Formal Stuart or Casual Stuart to start with today, and the question was answered immediately by the Primary’s son exclaiming, “Earth fruit! Is this all Earth fruit?” and then springing over to look at the basket before Alden could even answer him.
+
+“Is this for…your second meal?” Stuart asked, bent low to examine it.
+
+He was totally going to ask if it was for him.
+
+“It’s for you,” said Alden. “And anyone you want to share with. I’m sorry there’s not as much symbolism behind it as there was with the Bowl of Welcome, but a food exchange is always fun, isn’t it? And I have been feeding every wizard I’ve met over the past few days. I couldn’t leave you out.”
+
+“This is wonderful! I missed my own second meal. Thank you for sharing the abundance of your world. What’s that one?”
+
+“I’m glad you haven’t already tried all of it before. That’s a pear. I picked it yesterday, so it will be good for a while. Don’t worry. I didn’t hide any jars of oil in there.”
+
+Stuart laughed and reached for the basket. He was four large bites into the pear, and showering it with poetic praise between each one, when he suddenly stopped chewing and looked up from the fruit. He swallowed and gave Alden a wide-eyed stare.
+
+“This is how you dress when you have time for <<self-adornment>>?”
+
+“It’s all new for me,” said Alden, letting go of the suitcase handle and turning once in place to show what the outfit looked like from behind. “But yes, if nothing is wrong with it. Do I look right for the meeting with Healer Yenu-pezth? And for everything else?”
+
+Stuart scanned him from head to toe, his gaze lingering on the commendation, the brooch, the points of the pezyva, and the boots. “I like your clothes very much. They whisper of your <<grace>> and care, and they possess a subtle but sure beauty that suits you.”
+
+Alden blinked. Wow. Now I know how the pear feels.
+
+Stuart was wearing his LeafSong student garb, so trying to return the compliment wasn’t really an option.
+
+“And you’re clothed in your commendation.”
+
+“That’s good, isn’t it? We talked about how I should—”
+
+“I was planning to place a hand on the embroidery in acknowledgment, but now I have juice on me.” Stuart looked like he was exasperated with himself.
+
+“We can pretend you did it.”
+
+“No! It’s something I wanted to do. I’ll clean my hands with a spell. Let me find somewhere to put my…” He started looking around the summonarium.
+
+At the floor, the basket, Alden.
+
+“Do you want me to hold it?” Alden asked.
+
+“There’s saliva—”
+
+Alden targeted him.
+
+“Ah! That will work.”
+
+Stuart handed him the half-eaten fruit, then flicked his fingers a few times. The spell looked similar to the hand sanitizing one Alden knew, but Stuart didn’t chant anything. When he’d finished, he reached out and lightly placed the three middle fingers of his right hand on Alden’s shoulder.
+
+He held them there. Alden watched his face, strangely reminded of the moment when Alis-art’h had looked into his eyes before sending him away from her ship.
+
+“I see you,” Stuart said quietly.
+
+Then he pulled his hand back and held it palm up, waiting for his pear.
+
+******
+
+The terms of whatever agreement…or argument…had kept the residents of the siblinghold from paying a lot of attention to Baby Stu’s guest the last time he’d visited had either been modified or they’d begun to break down. Alden had arrived early so that he could finally be introduced to Stuart’s other parents before the two of them traveled to Yenu-pezth’s House of Healing, but before they’d taken more than a few steps out of the summonarium, other family members were showing an interest.
+
+A woman called out to them from up above in one of the tree baskets. A man passing by them on the path stopped to ask them both how their studies were going. And Weset was doing a poor job of acting like she just happened to be napping on the ground precisely in front of the main entrance to the house. The small child startled herself awake dramatically, pretended she was very surprised to see them both, then looked at Alden and said, “Punzee-thorn is the name of highest accuracy for you. It is maybe even perfection. You want it instead of Alden, don’t you?”
+
+Then she looked at him with huge gray eyes under concerned brows.
+
+“Oh, um…” That is a potent look of expectation from someone who’s about the human equivalent of a five-year-old. This isn’t the kind of thing I loving lie about, right?
+
+“Weset,” Stuart said, “asking someone to change their name isn’t an appropriate request. Why would you—?”
+
+“Honorable Avowed Human Ryeh-b’t, Stu-art’h who lives in our house, isn’t always thoughtful. This is to our great disappointedness.” Weset sounded like she’d rehearsed this whole speech. She came to stand so close to Alden that if he took a step forward, he’d knock her over. “He named Alden when she was in her egg, and we her caregivers have said her name so many times. She is a child who will be sad and confused to hear someone else called Alden. Imagining her cries of confusion makes me sad.”
+
+Alden was going to respond to the guilt-tripping attempt with a simple, “I’ll think about what you’ve said,” hoping that time would make the idea evaporate from Weset’s head before he spoke to her again. But before he could, Stuart squatted down to be eye-level with the girl.
+
+“Are you really sad? It’s my fault if you are, so I will spend my next unbusy hours with you. I will explain my past errors. I can teach you the nature of a ryeh-b’t’s emotional abilities and tell you of human naming customs. We can develop solutions for protecting the animal Alden’s happiness and respecting human Alden fully.”
+
+He sounded sincere, but Weset’s face was glazing over. “I think I’m not that sad, Uncle.”
+
+“Are you sure?” Stuart asked. “I don’t mind.”
+
+“I left something in School Cottage,” said Weset. “I should go there and find it. What is that food? I’ve never had that food.”
+
+Stuart gave her a grape and a raspberry, and she ran off to show them to people before she ate them.
+
+“So you’re her uncle?” Alden asked, pulling up the cheat sheet to add to it.
+
+“Yes, one of my sisters…”
+
+They headed inside and arrived at their destination almost immediately.
+
+Being received as a guest in the house could have been a very ceremonial event. Stuart had glossed over it previously, but now Alden was getting the full picture as they stepped into a small space just off the entryway that he had previously thought of as only a mudroom. It did serve as a place for footwear and outerwear removal, and he left his boots on a shelf and his suitcase in a nook. But before they passed through into the next room, Stuart pointed out a table where gifts to the house could be placed and where, if Alden was a normal wizard friend being introduced to his parents for the first time, he would have found a tray of dirty wevvi cups waiting for him. Cleaning them would have shown his willingness to share his magic  with the house.
+
+There were no dirty cups there for him.
+
+“But I’m good at cleaning dishes! With my skill!” He felt like he’d been cheated out of what might have been his best chance to succeed at making the Primary’s spouses like him.
+
+Stuart gave him a look. “There were so many reasons not to put the cups there for you.”
+
+“All you have to do is pass them to me, and I just focus on preserving only the cup.”
+
+“You don’t need to clean the wevvi cups. You’re wearing a commendation from Aunt Alis. And you already served food to some people on your first trip here, which was similarly helpful. And you using your skill to clean dishes is a little different from a wizard using a spell.”
+
+Stuart tried to downplay the fact that the next room was where the special guest and the receiving members of the household acknowledged their shared relationship as children of the Mother planet. You could actually make a day of it by tracing your ancestry together or you could take the easy route and place a drop of your Artonan blood on the enchanted hearthstone that would ignite the fireplace.
+
+After that you’d supposedly be feeling right at home, and you’d pass into the formal wevvi room, where everyone sat or knelt in a circle and talked while the person who’d invited you served a lot of wevvi from the cart Alden was already familiar with.
+
+That was the part he was getting to do.
+
+All six of Jeneth-art’h’s spouses, one of Alis’s, and one of Tesen’s widows were there. It was a full siblinghold welcome committee, with a Stu-specific lean. They were trying hard to be nice. Alden was trying hard to be nice. The first ten minutes were easy enough since they just shared obvious politenesses. After that, it got strange.
+
+They talked warmly about school. He enthused about the earring.
+
+They talked concernedly about school. He assured them he was not being deprived of knowledge gaining opportunities.
+
+They talked cerebrally about school. He tried to develop an educational philosophy on the spot.
+
+They talked about how school differed at different ages of human development. And he finally realized that this had nothing to do with the normal Artonan schooling obsession, and everything to do with the fact that none of Stuart’s relatives could think of anything else that was safe to say to him here in the getting-to-know-you room.
+
+It was a stark reminder that just a few days ago, a fight had started because Stuart wanted Alden to be treated like a knight’s guest and his potential lifelong friend. And it had ended with both sides agreeing to a new state of affairs. They were getting Stuart to delay his first binding and try out votaryhood with Emban-art’h. Stuart was getting unlimited access to a human that had a name they were all more used to using for the cute red animal that flapped around their house.
+
+And those were only the terms Alden knew about. Who knew what else had been said?
+
+This takes walking on eggshells to the next level, though. There has to be something we can say to each other that isn’t about chalkboards.
+
+He tried to think of what that something could be while he sipped the delicious wevvi that Stuart—lucky guy—was so busy making and pouring that he was getting left out of this conversational whirlpool. The main topic was Alden; they were supposed to be trying to get to know him.
+
+I’m not that hard to get to know. There must be something.
+
+The more he thought about it, the more he realized how stuck they were. He knew from talking to Olorn-art’h previously that he’d been thoroughly researched. Alden was pretty damn easy for a human to research. The spouses were all wizards. They already knew so much, and if they wanted this to go well so that Stu was happy…they had to have analyzed what they could actually say to Alden and decided that his life was a minefield for them.
+
+Even asking about his family was potentially nuclear.
+
+What if they said, “How’s your aunt?” And he replied, “Fine, but I wish I had grown up with my parents. Who were killed by an Avowed with particularly terrible powers. Why do you guys allow the System to give dangerous abilities to mass murderers?”
+
+What if they said, “Do you like your job as a Ryeh-b’t?” And he said no.
+
+At least a couple of these people had been at the LeafSong party, tagging along with the Primary and the Quaternary. He wasn’t sure which because there had been so many faces that night.
+
+And bringing up the fact that he was stopping by on his way for treatment to recover from trauma wasn’t exactly light material either.
+
+They’d already spoken words of admiration for his actions on Thegund. They’d already said, truthfully or not, that they were so glad Stu had found a friendship with him after their debacle of a first encounter.
+
+Now there was nothing but the school whirlpool sucking them all down together.
+
+It’s been easier with Esh-erdi, but I guess that’s because Esh-erdi is different. And he also doesn’t have to be concerned about the feelings of a third party. If he offended me or I offended him, there would be no miserable Stuart involved.
+
+Wait…him. School.
+
+“I took Hn’tyon Esh-erdi on a tour of my school! It was at night after classes were over. My housemate Haoyu and I…”
+
+Thank goodness for Esh-erdi, thought Alden while he talked. Describing the tour, and how it had come about, injected some desperately needed humor into the conversation.
+
+“So he’s enjoying someone else’s pet and scaring the Avowed out of their comfortable bathing rooms,” one of the Primary’s wives said. “We’ve wasted worry thinking that his trip to Earth was being filled with dull work.”
+
+Her name was Calassa. So far, Alden’s cheat sheet on her said only that she was the one with the darker complexion and the blue eyerings who was wearing some of the same symbols on her coat that had been on Alden’s when he was costumed as an expert in transmogrification at the party.
+
+“Esh is an <<incorrigible>> seeker of amusement,” said Veln. He was the one who made a point of glancing at the fruit basket with one eye every time Stuart was freed from wevvi duty for long enough to take his seat beside Alden. “And he amused himself right into the happiest and most surprising <<pairing>> anyone could have imagined. Stu, did you really bring snacks into the room just to tease us with them? We’re two cups beyond the point when you should have offered to share with your elders.”
+
+“He’s trying to fill us up with wevvi so we’ll take less,” one of the others replied.
+
+“I am not!” Stuart was over at the cart, about to start another chanting session over the boiler. “The <<occasion>> is formal enough to serve the wevvi without—”
+
+“This house has raised a cruel child, Alden,” said Olorn. “As you can see.”
+
+Little bowls full of pristinely sliced fruit got them through the rest of the meeting without incident. Alden managed to shoehorn in one mention of Connie and another about his time with Alis-art’h and her companions on Thegund, hoping to show everyone that he was capable of talking around his own bombs without setting them off.  The conversation stayed shallow, but the tone warmed up enough that it was no longer painful.
+
+He tried to get a sense for everyone’s personality and how they really felt about him, but except for Olorn and Veln maybe being a touch friendlier and one of the Primary’s wives hardly saying anything at all, there wasn’t much to glean. They were probably used to presenting themselves however they wanted in front of audiences more discerning than him.
+
+In the end, he was full of wevvi and welcomed, and he followed Stuart up to the second floor so that he could check in with Emban-art’h before they left.
+
+“She’s doing well?” Alden asked.
+
+“She’s fine. Although she has started thinking of things she wants me to do, and it always seems to be a few glet before I need to leave for a class.” He glanced down at himself. “I dressed for school, but I never actually made it to campus today because I didn’t want to arrive during instruction and cause an interruption.”
+
+“Am I keeping you from classes?”
+
+“No, they’re over for today. There’s a presentation of <<a traditional type of summoning>> I might attend tonight while you’re with Healer Yenu.” He cut his eyes toward Alden. “If that’s all right? I’d be able to teleport back to you very quickly if you needed me.”
+
+“It’s fine,” Alden said, as the hallway bent to avoid the trunk of one of the trees the house was built around.
+
+Emban-art’h’s room was near the end of the hall. An unusual spell was active in front of her door. At first Alden thought it was a floating wreath, and he wasn’t entirely wrong about that. But as they approached, he saw that the wreath was a single strand of vine, shaped into a circle, and the bulk of the decoration was created by small items corkscrewing slowly around it.
+
+Most of them could have been symbolic in some way—flowers, leaves, a few things that looked like soap carvings. But the presence of a couple of decorated pouches and a shiny metal capsule the size of his thumb made him think some of the items were probably gifts rather than part of the spell.
+
+“I made that,” said Stuart, pointing at the vine. “It took much longer than I thought it would.”
+
+He didn’t knock. Instead the two of them just stood there beside the wreath, Stuart’s eyes so fixed on the door that he didn’t notice Alden shooting him questioning looks at all.
+
+A string of whistling sounded. Alden barely had to time to notice that the noise earned itself a strange translation— <<Caughty-caught you, yummythingy!>>— because a blink later the whistler was standing right beside them. Short black hair with a braid on one side, an excited grin, pale pink eyes.
+
+Alden had seen her quite a few times through his interface, including standing near her little brother. He was still thrown by the fact that she was the exact same height as Stuart.
+
+“Hn’tyon Evul-art’h,” he said, “it’s good to finally meet—”
+
+“Human Alden, you look so good today. I like it. You might want to take the pretty pezyva off when you play with Red Alden, but you could wear it to all kinds of fun places I go to.”
+
+“Evul,” said Stuart, giving her a cautious look, “he’s not going to fun places with you. He’s going to Healer Yenu’s as soon as I finish <<standing ready>> for whatever Emban might need.”
+
+“I know. Of course. Don’t worry about what I said. And you’re actually doing the votary thing too properly, don’t you think?” She turned an eye to Alden. “Only <<stern>> old people stand around counting their breaths after they’ve been told to go away.”
+
+“I am keeping my part of the agreement,” Stuart said. “If I were really a votary to Emban, or any of you, I would stand ready for you to change your minds during times of <<uncertain mood>>.”
+
+Did Emban tell us to go away? He must have sent her a message instead of knocking.
+
+Evul pulled one of her rings off and poked it toward the wreath. It joined the collection, floating upwards beside a soap carving of an animal that looked like a long-tailed bear. Then she turned to Alden, “You should call me Evul since you’re going to be spending so much time here. Or you can call me Number Two Thousand Seven Hundred Sixty-one, to <<inspire>> me.”
+
+“Don’t call her that,” said Stuart.
+
+“Or you can call me Beast in the Flock.”
+
+“You can call her that, but it would be odd to do it most of the time.”
+
+Alden was wondering if it was okay to ask for clarification on that one when the door slid open.
+
+“Which one,” Emban-art’h muttered, “is banana?”
+
+She was wearing a velvety blanket, nothing but one arm and her head sticking out. She looked tired and irritable, but her purple hair was up in the most elaborate braiding job Alden had ever seen in person. Jeweled pins and rainbow ribbons galore. He wondered if doing her hair was her version of insomnia pinball.
+
+“It’s this yellow one with the speckles,” said Stuart, handing it to her.
+
+“We don’t usually eat the peel, Hn’tyon Emban-art’h,” Alden added.
+
+She looked at him. He was reminded that she thought he wasn’t interesting enough to be the cause of turbulence in the house. “Stu said you offered to have conversations with me late in the night and use your Avowed abilities on my behalf…”
+
+“What?” said Evul. “You did? He did?”
+
+“I did,” Alden said, wondering if this was going to bite him in the ass somehow.
+
+“Thank you.” Her eyes flicked to the commendation. “There’s no need for you to use the title…and you have my well wishes for your healing.”
+
+She let Stuart scoop all the gifts out of the wreath and carry them into her room. From what Alden could see of it from the hall, it was full of luxurious furnishings that seemed to have been chosen for their individual merits rather than because they matched or made sense together. And there was a large floor desk covered in stacks of hexagonal white cards. One on the center of the desk was being decorated with dizzyingly intricate colored lines of ink.
+
+Art project? Or are they some magical tool she’s prepping for when she feels up to casting again?
+
+He couldn’t figure it out before Stuart came back and the door was closed.
+
+Evul poked Alden in the arm. “Why didn’t you ever offer to call me and talk to me in the night? Stu and Aunt Alis can be first and second, but shouldn’t I be your third favorite?”
+
+******
+
+They escaped from the house in a series of bursts interrupted by people they encountered. None of the reactions to Alden’s presence were negative, but he was definitely getting the sense that the spouses weren’t the only ones who didn’t quite know what to do with him.
+
+One of Stuart’s cousins asked, “How is it being human?” Then a look crossed his face like he hated himself a little, and he made an excuse about needing to run an errand, hurrying away while Evul laughed.
+
+She finally got peeled off by Rel-art’h. He acted like he’d just run across them accidentally, but Alden was betting he’d hunted them down, because he arrived ready to ask probing questions about whether or not Alden understood how to behave when Stuart left him at the House of Healing. Once he seemed mostly sure that the human wasn’t going to do whatever it was he feared—eat the furniture, pretend to be a member of the staff, coat himself in a layer of dirt—he wished Alden well, thanked him for his exceptional bravery in the absence of obligation, and told him to call immediately if he had any difficulty communicating with Yenu-pezth or selecting his treatment options.
+
+“Rel used to take me to some of my appointments,” said Stuart as soon as they’d made it outside. The trees were rustling overhead in a breeze that didn’t reach them here on the forest floor. “He must have decided that you might need him there, too. That’s helpful of him, but you can just call me.”
+
+“What does Rel do?”
+
+He had given Alden permission to call him Rel, but only while at the siblinghold.
+
+“Mostly he teaches at the Rapport school and directs newling squads on missions.”
+
+Alden had actually been hoping to find out what, specifically, his skill was. He thought it involved telepathy, since Rel had used it to talk to his brother on the day their sister had died. And the fact that Stuart’s mother had been mentoring Rel before she went to help the Primary seemed to indicate that his powers had to do with the mind.
+
+“His role is one to be proud of,” Stuart continued, “but I think he is one who does not let go of the role. I am not currently his student, and still he insists on checking that I have remembered to do the most obvious of things.”
+
+“Was Evul his student, too?” Alden asked, thinking of the critical look Rel had given her when he saw her poking his arm again.
+
+“No. Though I understand how she might appear to be a much younger person than him, they’re both from the same birth set. The one before the last one.” He seemed to mistake Alden’s surprise for alarm. “Don’t worry. Evul is only lax about small matters. So she says. She actually wasn’t here much when I was growing up. Always busy. But it’s been nice to become closer to her over the past…you don’t have your suitcase?”
+
+They were almost at the summonarium’s entrance.
+
+“You said that I’d probably be walking with her and talking with her today, and that if she wanted to see me again in the morning, I could stay here at the cottage. Should I be carrying it?”
+
+“I would if I were you,” said Stuart. “She sometimes decides patients need to <<steep>> in contemplation. Depending on how long she leaves you there, you might be happy to have your own comforts…telling you that is an obvious thing I should have remembered to do.”
+
+“You would come rescue me before I was trapped with her for weeks…right?”
+
+Stuart snorted. “I said you might need to steep, not that she’d keep you as her prisoner.”
+
+They went back for the bag. The big blue suitcase was where Alden had left it in the mudroom nook. He had his hand on the top handle, and he was lifting it toward him carefully rather than dragging because excellent guests didn’t scratch the possibly-sacred wood cabinetry with their suitcase wheels, when a voice said, “It is a treasurable moment to hear Stu going out the door to see Yenu again, knowing it is not for his own hurt.”
+
+There were a couple of quiet agreements.
+
+At least three people together, in the room where Alden didn’t get to bleed on the hearthstone. He really didn’t know their voices well enough to be sure about who they might be, especially when they were talking softly. He thought the first speaker might have been Veln.
+
+Bag in hand, breath held for no reason other than how awkward it would be  to be caught in a position that might look even remotely like he was eavesdropping on the people who’d just welcomed him to their home, he turned to Stuart.
+
+And found him smiling slightly.
+
+At least it wasn’t a bad thing to overhear.
+
+He smiled back and gestured for the exit. They crept toward it.
+
+“…a polite young person, at least,” one of them said.
+
+“Don’t let Alis hear you praise him <<with half-certainty>>.  She’ll finish off her Thegund trip at speed to come argue in person.”
+
+A response so quiet that Alden wasn’t sure it was fair of the translation to let him read it came—about how of course Alis felt that way; the human boy had tried to make her feel better for not saving him and only asked for her help making a will.
+
+They’d both frozen again. Stuart slowly looked around.
+
+Alden thought Boe, Jeremy, and the people he’d been getting to know on Anesidora would all be giving off horror, sadness, or exasperation upon hearing that. But he was almost being blinded by the pride and admiration on Stuart’s face.
+
+The Primary’s son also seemed kind of smug.
+
+What the heck is that look?
+
+Was there some little cheerleader in Stu-art’h’s head, wearing 99.9 on their little cheerleader uniform and shouting about how his new friend was the coolest for facing down death while asking for nothing but some legal assistance?
+
+I might need to talk to him about how he imagines—
+
+“We’ve seen how Stu is around him. We’ve met him. I think we can—”
+
+“Do we have to argue about this again? Stu is ours. To <<raise to adulthood>>. Of course we need to help him change his path, but talking about using a new companion he’s found to manipulate him can’t be the only way.”
+
+That was the one who Alden thought might be Veln.
+
+Alden’s stomach dropped. And then it dropped once more at the sight of Stuart’s spine stiffening and his face shifting. There was a moment when his expression was only startled and confused, and something about that moment of genuine surprise made what followed worse.
+
+“We can’t waste this chance,” the one who was, apparently, arguing in favor of manipulating said.  “You think we can still persuade him. I think he hasn’t been willing to truly consider anything we say since Jeneth gave his approval. If we had a few more years…but we don’t.”
+
+There was a pause. Alden drew a breath. He tried to nudge Stuart forward with a smile and an elbow because he absolutely wanted out of the house now. He wanted them at the summonarium and then away from here.
+
+Stuart didn’t seem to see him. He had once tried to convince Alden he was okay with bleeding out for a while longer; it couldn’t be clearer that he wasn’t okay with this. He was standing there with his mouth slightly opened, face drained of color.
+
+“The friendship,” said the voice that didn’t belong to the possible Veln or the one arguing, “…is unexpected. I don’t believe it can last for more than a season of their youth with everything that will weigh on it. But this is its season, and Stu so wants it to be strong. I see no harm in letting them grow closer. Something good might sprout even without our <<interference>>.
+
+“A word of doubt or <<sincere plea>> from someone who knows him only as he is now and not who he was as a child, might be exactly what Stu—”
+
+Alden didn’t know what motion of Stuart’s or what panicked impulse of his own made him suddenly throw his hand in front of the Primary’s son’s face. Something like, No, please don’t make it even worse by yelling or going in there!
+
+But Stuart was taking a step toward the other room, and Alden’s hand was moving backward, and the combo resulted in a soft headgrab-slap thing. It couldn’t have been too painful, but it was weird enough to make Stuart’s focus shift.
+
+He mouthed something at Alden that was impossible to lip read. Probably, “What in the name of the Mother is your problem?” Or, “Did your finger just approach my nostril?”
+
+He seemed able to read the message on Alden’s face, though.
+
+He whirled and left, and Alden hurried after him as quietly as he could until he was out the door. Outside, Stuart was jogging toward the summonarium, and so Alden was almost running to catch up. Any faster and it would have been a chase scene that ended with some votary whipping out a wand and shooting the crazy Avowed for threatening Jeneth-art’h’s favorite child with a giant piece of luggage.
+
+The identical twins he’d once delivered third meal to were coming out of the summonarium. Stuart swept between them. Alis-art’h’s daughters, thought Alden, trying to smile in a way that assured anyone looking that nothing was wrong.
+
+“They must be late,” he heard one of them say to the other as he passed.
+
+“Are you all right?” Alden asked as soon as he reached the spot where Stuart was standing—ramrod straight, jaw clenched, and rust-colored eyes straight ahead.
+
+“We’ll be routed through the capital and then to the road that leads to the House of Healing. Approaching that way is traditional.”
+
+The teleportation notice appeared before he’d finished the sentence.
+
+“That’s good with me. But, Stuart…no matter what some person or people in your family think, I would never let any of them talk me into doing that. Into discouraging you from doing what you think is right.”
+
+“I knew most of them were still hoping to persuade me,” Stuart said in a voice that was high and sharp. “I agreed to do things that might ease their worries and prove my certainty. I agreed to serve as a votary for a trial period even though I know more about being a votary than most people my age who are planning to—”
+
+They were suddenly standing in the most gorgeous teleportation alcove Alden had ever seen. It was a nonagon-shaped room with a floor that shone a lustrous, soft white. Like a pearl. The walls and ceiling overhead were filled with clouds so realistic he was only sure it was a room, and not some kind of sky platform, because of the notification asking him to stay in the chamber and welcoming him to the capital of the known universe.
+
+“—said that she didn’t like how things had gone and that if my <<ultimate decision>> was different from what they wanted, they would still like for me to go to my first binding feeling supported by them, and couldn’t I allow them time to show that support even as I <<gave concession>> to their concern?”
+
+I think I missed a little of what he said there.
+
+“I don’t think a…a…<<plot>> to use the person I am weaving friendship with to weaken my confidence is something they should…it’s bad!”
+
+He spat the word “bad” so harshly that it felt like it might have the power to reach his parents up north in Rapport I.
+
+“I think as soon as I have introduced you to Healer Yenu I will go back home and tell all of them that our agreement must need to be contracted since they can’t be trustworthy without—!”
+
+And then they were standing in a humbler, grayer alcove.
+
+Stuart stalked out the door, saying things that made the Artonan who bowed to them as they exited give him more glances than Alden.
+
+Alden didn’t know where to stare or what to pay attention to. The building they’d arrived in was basically a small house, and when they stepped outside it, they were standing on a dirt path, surrounded by scenery that would have looked like it was imported from at least three different, widely separated time periods if they were on Earth.
+
+Behind him was a gate made of wood—the kind of thing that would keep cows in a pasture, not people from climbing over. Beyond it was a narrow road with no signs or markings. To his left, a structure that was either a partially finished building or a spaceship larger than any he’d ever imagined rose from the trees, blocking the sky. Ahead of him, in the far distance but a completely straight shot down the path, was a building that was probably the House of Healing. He doubted it was as small as it looked. That had to be the jumbowhatever messing with his perspective. Finally, to the right, an idyllic field full of some kind of bushy crop, rolling away toward a city skyline.
+
+Stuart issued a few more outraged sentences but his anger was flickering, eaten away and complicated by other emotions. As he bent to collect a couple of foggy green pieces of something that looked like sea glass from a bucket by the gate, he said quietly, “I did think Veln was close to approving of my choice. Over the past few days, especially, it seemed…but he said ‘Of course we need to help him change his path…’”
+
+He was staring into the bucket.
+
+“I’m very sorry, Alden. How…what an embarrassing…I don’t know what to say about you hearing that from my parents, on the day they welcomed you to our house.”
+
+“It’s all right. It wasn’t that bad. For me. All they really said was that they hoped they could convince—” Convince was a nicer word than manipulate. “—me to convince you to do something that they think will help you. They’re wrong. But they also said I was polite, and that your aunt likes me a lot. So I’m not hurt.”
+
+I’m not the one who has most of the people I love knocking me back every time I try to take a step forward.
+
+Stuart seemed really committed to staying bent over that bucket.
+
+Alden stretched his arms and took some breaths, trying to figure out what to do.
+
+“You’re strong,” he said at last. “You can make any choice you want. The path of highest onus is supposed to be hard, but your family is making you fight so many little battles on your way to where you want to go. Maybe you’ll be the first knight ever to get there and think it’s actually easier than your choosing season.”
+
+Stuart finally straightened back up.
+
+Alden stepped over to join him by the bucket. “What are these?”
+
+“Those seeking healing carry them down the road. Alden…”
+
+He waited, but Stuart only shook his head.
+
+Alden reached out with three fingers and touched his shoulder. “I see you.”
+
+The Artonan chirped and ducked out from under his hand. “That’s for knights wearing certain honors for the first time! You can’t do it to me.”
+
+Of course it is. “You did it to me.”
+
+“Well…but…an Avowed is…and I wanted…”
+
+“I see you,” Alden said again, waving the fingers at him. “Let’s go. And I’m sorry for sort of grabbing at your face back there. I thought, ‘No, Stuart!’ And my hand shot out.”
+
+“That’s the second time you’ve done it. Is it a human reflex?”
+
+“Not usually,” Alden admitted. “It only happens to you.”
+
+******
+
+******

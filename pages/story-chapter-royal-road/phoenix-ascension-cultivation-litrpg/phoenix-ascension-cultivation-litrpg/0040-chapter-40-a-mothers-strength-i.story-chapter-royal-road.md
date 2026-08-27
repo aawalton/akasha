@@ -1,0 +1,229 @@
+---
+id: f562432b-11f4-5c6f-9e28-992459c20f60
+page-type-slug: story-chapter-royal-road
+title: "Chapter 40: A Mother's Strength I"
+slug: 0040-chapter-40-a-mothers-strength-i
+partOf: phoenix-ascension-cultivation-litrpg
+position: 40
+ownLength: 2911
+unit: words
+publishedAt: 2025-10-25
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2704676/chapter-40-a-mothers-strength-i"
+royalRoadId: "2704676"
+---
+
+I didn’t know how Little Flame managed to escape that quasi cultivator, nor did I question it. She had her own ways. For a young Phoenix, my daughter was good at scheming others.
+
+She probably thought I didn’t know what she was doing when I left to hunt, but I had eyes and ears everywhere. There wasn’t a single thing that happened in this forest without my knowledge.
+
+Not to mention the mark I’d left after finding her in the forest where I’d originally laid my nest. Luckily the thing that attacked her was only a puny creature looking for scraps. The fact that she killed it was a litlte surprising, but considering the fact that she’d awakened her fire right from the start, it wasn’t as much of a surprise.
+
+Phoenixes were strong. Beings beyond what any of these insignifcant beings could dream of. Our only rivals— Dragons— were the only thing that could pose a threat to us. Even if a bug was hard to kill, it still posed no threat to its predators.
+
+I was in a similar situtation at that moment.
+
+Humans— despicable beings with no respect for the Heavens— attacked me not long ago. I was coming back from hunting, wanting to give my daughter the best food she could get to celebrate her evolution.
+
+It wasn’t easy finding a Vermillion Bird. I had to fly for a day or so before I could find one, then the fight to kill it was difficult and drained me of thirty percent of my power. I was returning happily, but how could I have guessed that they were lying in ambush for me? They should not have known I was there, even if my daughter made a comottion.
+
+Something else happened, and somehow they found out. Despite all my arrangements, all my effort and techniques, I was found out.
+
+Was I too careless? But it was too late to regret. They’d caught me off guard.
+
+The Nascent Soul old bastard forced me down from the sky with a powerful technique, then had his insects use a formation to seal away sixty percent of my power. That meant that I was left with ten percent of what I could output.
+
+It was devastating, but did they think they would be strong enough to take me down with just that?
+
+I forced my way out of the technique and formation and ran at full speed toward my nest. I thought that with any luck, Little Flame would be out there causing chaos amongst these insignifcant Spirit Beasts. I couldn’t check on the mark I’d left on her because of the sealing formation. It was qutie a pain, but last I checked she ran off somewhere.
+
+However I was wrong, she was there, waiting for me. She didn’t look good, and I could sense a foreign Qi had invaded her body. My heart sunk and anger flared upon seeing that.
+
+How dared they harm her? Who dares? Humans, no doubt. I would have their heads.
+
+But first, she had to leave the nest. It was the place where a Phoenix was strongest, as we were tied to it. As long as I was within its vicinity, I would get a boos in strength. If anything were to happen, and the nest would be destroyed, it would take a lot of energy and time to rebuild it. During that time, we would be really really weak.
+
+That only applied to adult Phoenixes though. Chicks could survive without, even if the nest they were born in got destroyed.
+
+It wasn’t hard to follow, but it was simply how we functioned. Dragons had hoards, Phoenixes had nests.
+
+I sent Little Flame a pleading warning after seeing that she was watching me, and she did leave the nest, only to go down and rain terror on those humans.
+
+That wasn’t surprising, and she used her innate abilities with a beautiful proficiency. She was growing really fast. As her mother, I could not help but get worried, however I was also proud.
+
+What other mother could brag about their child being so energetic and powerful only months after being born? Only me, of course.
+
+If only that deadbeat of a father would come visit her. But no, his family needed him to help defend against some demonic whatnot, and left me alone.
+
+If it weren’t for that, Little Flame’s siblings… they wouldn’t have…
+
+Argh, I’m getting worked up in the middle of a fight.
+
+Not that it mattered. My feathers and skin were much too tough for their attacks to do anything.
+
+Not to mention the skill…
+
+[Phoenix Instinct]
+
+The evolved version of Phoenix Reflex, a skill that gave us superpowered reflexes and dodging ability, amongst other things. Everyone except that Nascent Soul old bastard would have a hard time breaking through my defense.
+
+And even he didn’t act because of that. No, he was waiting for an opportunity. Humans were shrewd like that. They act like friends and allies but wouldn’t hesitate for a second to betray them and snatch their gains.
+
+They were cruel, shameleess and greedy beings.
+
+While my daugher was slaughtering their weaker disciplines, they sent one of the sacrifical pawns to stop her. A quasi Golden Core cultivator that may give her some trouble. However, they could have never guessed that my Little Flame had stealth skills.
+
+After she ran away from the nest, she returned within the covers of the shadows and killed even more of them.
+
+She recuperated her strength, hid some more, killed, ate and killed again.
+
+Her last attack was impressive. While I was away and not paying much attention to her, she may have found a few things the cultivators dropped, and figured out how to use them.
+
+The average Spirit Beast had no idea how to use bags of holding, as their mental capacity was too low to process so much information. As it turned out, my Little Flame was really smart.
+
+She was like that.
+
+However, her last counter attack and the one that freed me from the grasp of the humans was… interesting.
+
+She blew herself and the quasi cultivator up, shot toward the center of the formation, and killed the core disciple holding it all together. I had no idea why she went for the one at the edge first, but what mattered is that she fought her way through their ranks and hit where it mattered.
+
+Once set free, the sixty percent power they stole from me returned, and I began fighting. They had tricks up their sleeves, like humans always did. Barriers, pills, techniques, talismans, talisman formations. They used everything they could to defend against my attacks.
+
+However, was it so easy to defend against my fire?
+
+They could only dream.
+
+After their final barrier shattered, I activated one of my strongest abitilies, and rained fire down on them. My body transformed from physical into ethereal, and I grew in size by a good amount.
+
+During the transfomartion, I’d killed a cultivator. He was so weak, the XP he gave me didn’t even level me up. Humans ussualy gave good XP, but since my level and power was way above them, the XP gain reduced drastically.
+
+As I looked at them, I let out a screech filled to the brim with all of my frustrations, the struck as my transformation finished.
+
+“Pure Phoenix Transformation!” The old Nascent Soul bastard exclaimed, yelling the name the humans gave my skill like some sort of fool. What good would that do if you didn’t explain it to these ignorant morons?
+
+Humans were never quite good at speaking. Or rather, they were, but only to spill words coated in venom.
+
+They can never be forgiven.
+
+My flame body wouldn’t last long, so I had to act quick. I charged at the group of cultivators and surrounded them, creating a small sea of undying fire around their bodies.
+
+That fire would burn for as long as I’m alive, while also allowing me to use other means of attack.
+
+Unlike my daughter, who was quite fond of her body and her physical attacks, I mostly only had fire related skills. Which should be the case. As a Phoenix, fire was naturally my main mode of attack.
+
+I didn’t have my daughter’s dragons, but I had my own ways of manipulating fire.
+
+Better ways.
+
+Out of the sea of fire, a giant serpent grew. Its mouth and fangs took shape, encompassing all of the cultivators. It didn’t matter if they were far apart or close togheter, whatever the fire touched got consumed into the serpent’s mouth.
+
+Its jaw snapped shut, bringing all of them together at a central point. When that happened, I activated a skill that turned the fire concentration much higher than before.
+
+Their clothes caught fire, skin began to melt and bones began to pop. The might of the Phoenix Fire could not be underestimated.
+
+It wasn’t a simple mortal fire that could only do so much damage. It burned through defenses, changed shape, size and other properties, and most of all, was easier to control.
+
+It felt like a fourth limb instead of a weapon. A third wing that boosted my flying speed, or a second core that made me that much stronger.
+
+The Phoenix Fire was the essence of a Phoenix.
+
+The humans weaved hand signs, took out pills, talismans and chanted manthras. With all of that effort, they managed to resist the effects of my fire.
+
+However that was only the beginning.
+
+The ocean of fire in the sky and the sea of fire on the ground— the tiny one made by Little Flame— came closer, their heat and area of effects amplifying the damage done by other fire sources. To top it all of, they constantly pulasted with a wave that stacked with the previous vulnerability.
+
+In addition to that, I added something to the fire that would make them regret the day they were born.
+
+Healing properties.
+
+Usual fire would only burn and destroy, however when I evovled, I picked a certain class that allowed me to use healing magic. I did it for that bastard of a man, thinking we could work as a team.
+
+When I see him again I’ll ruffle his feathers and strangle him.
+
+However the class came with the nice advantage of having healing skills, and one of them allowed me to imbue my fire with healing. That meant that instead of destroying, it would heal.
+
+I discovered that I could have both types of fire active at the same time, so that meant that I could have their flesh melt off from their bones and healing them at the same time.
+
+That way, their suffering could be extended indifenitely. It was a neat trick I found out when another group of beasts attacked us while we were ready to have our first nest. The process of interrogation went smoothly after and for every other instance henceforth.
+
+And now I could use that very same technique to make these humans suffer for attacking me.
+
+The weaker ones fell prey to my techniques for a few breaths of time before their stronger allies pulled them out. The damage had been done, though, and they would remain forever disfigured until the day they died, which would hopefully be today.
+
+If possible, I’d like to capture them alive and give them to Little Flame, that way she could soar through the early levels. Once she hits the level forty mark, that’s where things get interesting.
+
+Right now she was just a baby, both literally and figuratively. Oh, my baby was watching me quite happily too. She used the flame dragons as guards and snacked one the humans while watching me.
+
+So cute~
+
+She was so adorable, I wish I could stop and hug her before giving her more nutrients. Better nutrients, like that Vermillion bird I had to throw away because those bastards caught me!
+
+Argh, just remembering that makes me mad.
+
+My flames reflected my anger, and the serpent head that lingered about after attacking rose from the bottom sea, becoming an almost life-like imitiation of the real deal.
+
+Of the real Bashe.
+
+I met one when I was travelling alone. They were rarer than us, but also weaker, and preferred to live alone. He was a nice guy after I subdued him for trying to eat me, and I had an epiphany when training my fire.
+
+Something my Little Flame had as well, no doubt. Though I had to wonder where she’d gotten the image of the dragons from. No doubt these humans or spirit beasts spoke too much.
+
+Either way, I developed a technique in the shape of the Bashe, mimicking its shape, presence and aura. Lately, I even got it to be more life-like. It was by far my strongest technique, and also the most costly.
+
+I ignored the other cultivators and went straight for the Nascend Soul old bastard. He was crafty like a fox and weaved a series of hand signs just as the Bashe attacked. That made it miss by a hair’s breadth, and I couldn’t help but click my tongue.
+
+What an annoying cockroach!
+
+He took that opportunity to take out a dozen talismans, which flew out of the encirclement. I willfed my fire to burn them, but they were seemingly immune to flames.
+
+They came really prepared… I sent more energy, and the talismans began to burn. However, I could only destroy three before the rest got away. The old bastard’s face looked ashen, but not quite defeated.
+
+Clearly, the formation he wanted to use could work without all the talismans, but may have a lesser effect.
+
+That didn’t mean I wanted to find out what it was, though.
+
+I willed the Bashe to split into nine and sent each of them toward the talismans. The old bastard’s face twisted as he screamed “Stop them!”, and began weaving hand signs to activate the formation.
+
+It seemed like it would take a little while before it activated, which only made me want to hurry up and destroy it.
+
+However it just so happened that there were more than enough cultivators to stop my Bashe clones from advancing. My only solution was to aid them, and I decided to pick on the weakest cultivator.
+
+A woman who wore the symbol of a pill on her chest. An alchemist who didn’t know any better but to leave her cave and bother me. She took out a large cauldron and began weaving her hands, forming techniques based off of it.
+
+What a joke.
+
+You dare pull out such a flimsy thing in my presence? I thought and forced my flames to concentrate on her.
+
+Honestly, I would speak to them if I could, but even if they could understand me, they were always unreasonable. Unlike us, humans don’t unlock Universal Language for free, and would need to make a conscious effort to learn it.
+
+However, even those rare humans that the skill would simply spew nonsense and try to kill me anyway. Hence, I stopped trying to reason with them.
+
+Even Jade Serpents did a better job at communicating than these fools!
+
+Alright, calm down, calm down.
+
+Focus on the task at hand. These despicable humans wanted to trap me again, and I had to make sure the formation would fall.
+
+I expanded my sea of fire, buffing the Bashe clones and also any subsequent fire attacks. Then, focusing back on the alchemist, I made the concentrated fire surround her.
+
+Despite being an alchemist whoes fire profficiency should be at an extremely high level, she looked deathly scared of my flames. And with good reason. The woman did her best to ward off the heat, however there was only so much she could do against my relentless attacks.
+
+The first to go were her clothes, then her hair and her skin. She turned into a ghastly sight, and resorted to hiding herself within ther furnace. To give her credit, that would have worked against your average Phoenix, as an alchemist’s furnace was good at keeping heat both in and out.
+
+However, by shoving herself into a cauldron, she turned herself into an ingredient. I dabbled in alchemy in the past, but I never managed to refine even a low grade pill. The best I could manage were unusable and even poisonous dregs.
+
+That was extremely shameful, as even the dumbest alchemists could produce a somewhat usable product.
+
+It had something to do with spirituality and some heaven and earth bullshit I didn’t care to understand. Why should I bother? If I can’t do it, I can’t do it, and that was that.
+
+Either way, I didn’t need to know much about alchemy to turn that woman into a useless pill. Part of me wondered if that was too much, but my doubts quickyl got dispelled upon seeing my daughter watch me from below with awe.
+
+That’s right. These people didn’t only want to kill me, but they also endangeredl my daughter. I couldn’t forgive them, I’d never forgive them.
+
+How could they attempt such an awful thing to my only daughter?
+
+I’ll kill them, I’ll kill them all!
+
+I waved my wing and sent a special kind of fire toward the cauldron, then without hesitating, employed the technique I’d studied to refine pills.
+
+I’ll feed your remains to the rest of them.

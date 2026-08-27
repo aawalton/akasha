@@ -1,0 +1,243 @@
+---
+id: ae917343-49fa-5979-b9b4-d2c114981fee
+page-type-slug: story-chapter-royal-road
+title: "340 (I)  The Way of Tripartite Ruin [I]"
+slug: 0448-340-i-the-way-of-tripartite-ruin-i-3302143
+partOf: path-of-the-deathless-book-4-completed
+position: 448
+ownLength: 5049
+unit: words
+publishedAt: 2026-04-21
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3302143/340-i-the-way-of-tripartite-ruin-i"
+royalRoadId: "3302143"
+---
+
+In time, all practitioners of the Final Way will learn that violence is one thing, and not another. The words that wound a heart, the spells that shatter a mind, the blows that rend a body are all a cohesive whole, for the tripartite nature of an individual cannot be denied.
+
+Cutting at one's understanding of themselves will cause their movements to falter. Wool slips the strings that guide the body. When the mind succumbs, the vessel also collapses, and the same thing otherwise. When the vessel is damaged, the structure supporting the mind will be undone. Furthermore, in the throes of defeat, the hard blood that fuels a righteous Pathbearer will be extinguished, causing them to flag, and twisting their actions against them.
+
+For what right Pathbearer will offer their back to an enemy aside from turning to avoid pain, aside from fleeing in utter defeat?
+
+So if we posit the structure of an individual's truth, then the three strikes we can deliver with body, mind, and being can also be made indistinguishable. Why not? Can a body strike a mind? Why not can words sunder flesh? Why not can a mind shake a heart and furthermore?
+
+We live in a world where all things are battles. All struggles bear weight. To see one's philosophy crumble and have their ego mutilated is no less mortal a wound compared to that which is delivered by blade to neck. And so it is with stepping forward to the next precipice of the fist, the word, and the mind that the word and the ruin make themselves known. From this style, you transcend the meager limitations of distance, of stripes, of the very nature of physical, mental, and spiritual conflict, for they are merged as a final alchemized alloy; for the first time, violence itself will be made whole inside you.
+
+I impose upon you, philosophers high of rhetoric, but weak of strength, take on the burdens of Physicality. Hone your body as you have your mind.
+
+I impose upon you, warriors great and mighty, beings capable of wrestling titans down to the ground before delivering a finishing blow to their flesh, give your mind and heart the gift you have bestowed upon your mortal form.
+
+I impose upon you, great wizards of the mind, wielders of mental reality, shapers of consciousness: do not deprive yourself of true learning. Do not deprive yourself of the final way. The ability to sculpt and deform is not the epistemology of a thing. It is only with true understanding and a complete tripartite whole that you may attain a wholeness before the System, and you may strike with violence absolute.
+
+—Legend-Philosopher Melaia Kelhaus
+
+340 (I)
+
+The Way of Tripartite Ruin [I]
+
+A rake of pain slid across Longinus's face from out of nowhere. There was no forewarning to the attack, no hint offered by his Divination and Awareness Skill Fusion; no vector for a projectile; no hint of the enemy's presence.
+
+But the searing scratches of pain on his face ebbed true. Someone had clawed him, and their claws went deep, shredding more than matter, carving at his very soul. Even though his resilience paled compared to the Endbreaker, Longinus stood unbreakable before the strongest Legends and could casually reform any damage inflicted upon his form, even by the hands of a Mythic adversary. And where Halsur dwarfed Longinus in terms of physical integrity, the Wanderer was unmatched when it came not only to escape, evasion, but also spiritual resilience. Even the Republic's greatest Animancers struggled to chip his soul.
+
+Thus, for this unseen vermin to leave three lingering scars on his material visage was an offense Longinus couldn't abide. “You mongrel fuck deformed abortion of a bastard!” His voice commingled with his current Avatar, and the latter’s mannerisms bled through.
+
+Longinus feasted upon Georges’ emotional anguish, and a rush of power surged through him, amplifying his Divinity via the Wanderer’s second Domain: Hunger. A hunger for all things: foods, sensations, experiences, relations, and above all, emotions. But even with the amplification, his Awareness proved lacking. Or perhaps his enemy was just that much greater than he. It wouldn't be the first time a particularly sneaky rat snuck into his kitchen. It wouldn't be the first time someone managed to strike at his vessel.
+
+“Valor!” Longinus bellowed. “Is that you, you decrepit cockless fuck! Have you finally managed to entrap yourself in this cage of mine as well?" A bitter laugh escaped him. “Oh, we knew you would come for us. I knew you wouldn't let things just be bygones. The others were arrogant enough to think they were beyond you, but I've prepared. I know your skills, Valor. I know I can’t find you right now, but I know your limitations. You think just because a blind and retarded Crone Goddess couldn't find you within her own hollowed skull, you can avoid me within my personal abode? Your son must have shattered more of you than I thought!”
+
+With the slightest exertion of his will, reality twisted. Longinus' Divinity bled over from his Domain and painted glistening lances across the sky. The dense smog was illuminated by a screen of needle-thin weapons of incandescence, each one pointed down, their tips glowing ominous and red, infused with the capability to pierce vitality and sunder a soul. But each one was also infused with Longinus' Awareness, further charged with his Divination. As he held his offensive volley reserve, a separate one of purely violet needles flashed into being and promptly speared down upon the ground.
+
+Waves of scrying magic snaked across the pocket dimension that was The Boiling Toad. Not a single square millimeter of the entire space was left unchecked. Every slave was scoured and analyzed, every dimensional studied for compromise. Longinus' paranoia was so great that he even turned his many eyes upon himself.
+
+Because who else, aside from Valor Thann, could be so audacious to hide within the soul of a god? It wouldn't be the first time the old Undying managed to pull such a trick, but he wouldn't be able to cheat Longinus this way.
+
+No, that was impossible. The Wanderer wasn't the strongest of the Ascendants. He wasn't the wisest. He wasn't the most learned or the greatest at magic. But he was cunning. He understood people. He played and wielded people for his pleasure. And that, ultimately, made Valor Thann a thing to him, something to overcome and control, just like everyone else.
+
+Or so Longinus assumed.
+
+Pain ignited along the Traveler's back. From his shoulder blade to his hip was he hewn through by an unseen strike that carved another gouge out from his soul. “Thann! You fucking—” Twin cores of outrage exploded inside Longinus. So great was his rage that it bled over into his Avatar, drowning all sense of self that remained in the man. There was no more Georges. There were simply two vessels for Longinus, and two vessels fueled by an unmatched urge to seek and destroy. The lances he summoned pierced down, and countless more spawned forth.
+
+All this took was a pittance of his divine mana. Even as a fragment of himself, a mere shadow severed from the grand totality of his power by the Usurper-Narrator, he was a god, and he had his own worshippers here, in this sub-realm for his Domain he was building for himself. He could unleash a rainstorm of Jousting Wanderers for the next hundred years without draining himself of worship—and he had more than one skill to wield.
+
+Once more, Longinus swiped his hand. The divine matter composing his gauntlet sent an unseen ripple through the world, and his desire was made material. Parter of Seas was not a flashy skill, but it was an exceedingly rare one, a skill that combined a distance traveled with the user's Physicality. The longer he spent in motion, the more clear terrain he crossed, the more he gathered all that empty space into himself, converting it into usable ammunition of a very specific type.
+
+With this meager gesticulation, sections of the world were rendered into a vacuum. No matter could stop its own displacement before Parter of Seas. Even Legendary-Tier Magical Resistance barely offered a dying breath of protection before his will.
+
+Sections of the Boiling Toad simply ceased to be. The grill station that spanned an entire biome had impossibly clean furrows carved into the metal, and the gleaming steel sputtered as volcanic eruptions’ worth of magical flames poured free from the damaged convection plates below. The rolling infernos tumbled along the landscape, approaching one of the many slave shanties that populated the grill station. Longinus grimaced. He counted no less than a hundred and twenty filthy commis living there, tasked with helping him create his masterworks of flavor. “This is your fault, Valor. You killed these people, not me. And you will pay for taking what is mine. You will pay for making me lose my subjects. My worshippers!”
+
+Longinus’ voice echoed forth from every lance he possessed. For the lances were a manifestation of his being, of his highest will to seek the horizon, to pierce through whatever stood in his path, to shatter, to sunder and slay until the way was clear. But what they weren't was omniscient. Despite the destruction he called forth, the oldest monster of Integrated Earth remained Unseen, Unheard, and Unknown to Longinus.
+
+And the sheer humiliation that inflicted upon Longinus shifted his personality and power into a new combat paradigm.
+
+Connoisseur of the Seven Sins: Pride > Envy
+
+Skill Unfused: Rider Toward Hidden Delights > The Prying Eye (Legendary) - The Intruder of Hearts (Legendary)
+
+Skill Fused: The Prying Eye (Legendary) - Mirage Beyond the Bend (Legendary) > Ghost-At-Eternal-Distance (Legendary)
+
+Longinus' soul transformed. His countless lances fused into one, becoming a massive, resplendent thing that bled crimson and incandescent brightness into the world. A new sun was born at the heart of the Boiling Toad, and its namesake belonged to Longinus. For he and the spear were one and the same, and while the spear changed, so did he.
+
+His person split into two. His Avatar remained in place: a fishing hook, a piece of bait dangling afar. Meanwhile, the true core of Longinus stretched far beyond, extending past the borders of the Boiling Toad and through even the fabric of space itself, back into the narrow niche he carved into his own divine Domain.
+
+The moment he arrived, he felt the rest of himself reach out, trying to pull this severed fragment of his totality back into wholeness.
+
+The true form of Longinus failed. Even though this shard of himself could reach his Domain, there was something blocking him from fully crossing over. The Fairwoods were a cage for mortals and gods alike. Once you let the story bleed into you, once the Broken Watchtower cast its flame upon you, you were anchored in place.
+
+Until the Reader was satisfied.
+
+But Longinus knew better. The Reader would never be satisfied, for eternal was her avarice for stories.
+
+Trapped. Always trapped. No way out…
+
+A part of Longinus sobbed in despondent misery. The crawling mass of madness grew, but he bottled it tight and assuaged it with gentle words. “I know, sweety, I know,” Longinus whispered to his broken psyche. "I’ll grant you something to sate the hurt on soon. I promise. I love you.”
+
+And he would, when the time was right, when Valor Thann was found. Longinus would allow his despair to manifest in full, and the Undying Pathbearer would suffer the taste of true hopelessness before Longinus pulled him back into the embrace of highest love. For ultimately, Longinus didn't want to break his enemies. He wanted the world to know the glory of the Wanderer, to know what it meant to be loved by a proper god, and to love a proper god in return.
+
+“Come out, Valor! Come out and face me! There is no end to me. No end. But there will be a fucking point where you fail! Come out and give yourself to me. The pain will last for but a moment. The sweetness of my touch will remain forevermore. You know what I am. You know you want it…”
+
+With each second that passed without Valor revealing himself, he watched the Pyromantic flames tumble the commis ghetto, looked on as their little bodies leaped out from their stilted buildings of scraps and bone, watched them fry themselves on the gleaming sheet of the grill in their desperation to escape.
+
+Such a pity. So much flesh we will never touch again, the despair within lamented.
+
+“There there, dear heart,” Longinus spoke to his one true love. “It’s not so bad. They won’t be gone for good. We will take it back. We will have it all back. In the next loop. And what is lost for good was undeserving of us in the first place.”
+
+His mind knew that to be a bitter lie, but in his heart, it remained the unvarnished truth. Longinus was a god, and what a god willed, the world permitted. The System allowed. For he, more than anyone else, more than any of these fucking Fae or Evanescia herself, was anointed to be above all.
+
+But we weren’t, an even quieter, truer despair whispered, so deep down that Longinus couldn’t truly hear it. This isn’t who we were supposed to be. We just wanted to be loved. Why are we doing this? Please… stop it. I don’t want to be… this. I don’t want this. Please stop. I don’t want to be this monster anymore. System, Evanescia, Valor… Someone kill me.
+
+I don’t want to be this kind of animal anymore.
+
+I'm sorry.
+
+I wish I never became this.
+
+I wish I never became a god.
+
+A part of the Wanderer almost noticed the anguish buried deep, deep down. But the degeneration had a way of making someone a ruin of themselves, and of leaving certain parts trapped below the rubble.
+
+Almost wasn’t enough.
+
+***
+
+“Uh-oh.” The words escaped Shiv as he saw the wall of flame washing toward the shanty. The chill of non-existence assailed him from all sides, but according to the girl who didn't exist, he still had ten more minutes left to burn thanks to all the attacks he'd assimilated via his dodge.
+
+But while he gained the luxury of time with his new Skill Evolution, the same couldn't be said about the many slaves that were currently aflame. Some of them were being melted into the heated sheet after they jumped down from their stilted buildings and onto the surface of the grill. Others who could fly carried one or two of their fellow slaves with them, but most struggled in vain just to preserve themselves.
+
+At the same time, Longinus was changing. The frequency of his divine mana and the very architecture and shape his field took on began to deform and shift. But Shiv turned away from the god and rushed to save the commis. The choice was a simple one to make: he'd already anchored a temporal echo into Longinus with his last slash. He would come back and ambush him later when he was done, but the people here were about to become collateral damage, and Shiv had seen enough pointless death for one lifetime.
+
+He condensed his Chronomancy field. Spared of the world's ambience, he saw how his own magic coated him. He was condensed in a thick membrane of screaming mana, the field around him spiraling like a centrifuge, accelerating his personal timeline to obscene levels. The moment he did, however, he felt his Chronomancy peel layers of Vitae free from his body like a flicking blade. Startled, he immediately released his Chronomancy and sped toward the shanty the normal way, racing against the flames directly. “What the hells was that? Did my own time magic just rip me apart?”
+
+“Seems so,” the girl who didn't exist commented. She kept pace with him without moving her legs, her arms folded, and her nose wriggling in derision. “You just lost another couple of minutes from that stunt, so you got maybe five left in this place before you have to surface again. If I had to guess, though, that just now happened because time isn't real back here.”
+
+Shiv gritted his teeth. He could see the tsunami of Pyromancy closing in on the slaves. He wasn't going to get to them in time, not without halting time itself, but he couldn't do that Backstage. “I have no godsdamn idea what you're talking about. Time is clearly real out here. Everything's still moving around me.”
+
+The girl rolled her eyes. “No, everything's still moving in the context of Integration and under the System's general timeline. Back here, the only thing that technically exists is you, and you're currently accelerating your own time, so yeah, you're burning through your own vitality because you're flinging yourself into the future at an obscene pace.”
+
+“How do you know all this?” Sage asked from Shiv's right, regarding the fake girl with suspicion. “If you are merely a construct of our subconsciousness, there is no way we could come to this conclusion, even with guesswork. We don't have nearly enough understanding of magical theory.”
+
+The girl shrugged. “Well, neither do I, technically. I don't know how I know anything. I wasn't real up until a few seconds ago. If you're expecting to get a clear answer from me, too bad, because I don't even have any to give myself.” There was a slight hint of bitterness in her words. “To be honest, I don't even know if this version of me will remain once you leave the Backstage. Maybe next time you come over, there will be another of me, or maybe none of me at all. If I'm there again, it might be a different one each time, or it might be me again. Who's to say? Lots of existential questions, huh?”
+
+“Dread,” A Glimpse of Perspective moaned. “Dread surrounds me at all sides. Dread and existential torment!”
+
+A Glimpse of Perspective 82 > 83
+
+The Backstage was turning into a madhouse, and it was getting real hard for Shiv to focus. “Alright. Everyone, shut up. No more weird questions. I’m going to surface, stop the wave of fire, and—”
+
+“Incorrect,” Sage interrupted with a scoff. “You are going to surface, stop time, survive long enough to twist the ruptured metal sheet into a knot to seal where the flames are spilling out from, and then likely dodge whatever attack Longinus sends your way before returning to the backrooms. There's little you can do for the people who are already burned into the sheet—you have to accept them as already lost.”
+
+Shiv closed his eyes and struggled to restrain the sheer frustration he felt toward his own Psychology skill. “Yeah. Thanks for the suggestion—it's what I planned to do anyway. Man, if I get any more of you in my head, I can declare myself Town Lord of my own imaginative community.”
+
+“Maybe you can consider fusing some of them into the same skill. Considering how often you die, A Glimpse of Perspective and Gardener of Doubt aren't that far off, and with all of the work Sage keeps putting in for you…” The non-existent girl clicked her tongue and ran a hand through her golden hair. “Let's just say I won't be surprised if Sage ends up being your dominant personality down the line.”
+
+The tumbling blaze was less than a hundred meters away from the slaves’ grill ghetto. Shiv was still a bit over two hundred. “Yeah, let’s keep talking about all this stuff so I can level my Schizophrenia Skill the next time I get Backstage. Gonna have to surface now.”
+
+“Go fuck his shit up, Shiv,” the girl called out, sounding more than a little like Rose now. “And see you soon. Or goodbye. Depends on the existential coin toss, really. I’m calling heads, by the way! I’d like to stick around—”
+
+Shiv surfaced back across the borders of Integration without another word—mostly because he was out of time, but also because he was tired of dealing with metaphysical terror bullshit on an hourly basis and didn't want any more of it right now.
+
+The vitality cost to cross back over was paltry compared to the toll he paid for plunging into the Backstage. The instant he arrived, the world came alight in a cataclysmic burst of vitality. The life force coating Integration sparked crimson, heralding his arrival. His reunion with reality didn't just come with a light show; everyone who forgot his existence suddenly remembered—all of them at the same time.
+
+***
+
+“Ah,” Uva gasped.
+
+“What is it?” Mara asked, nervous about her pilot’s strange behavior. “Something wrong?”
+
+“Oh, no, it's nothing. Just keep walking and avoid eye contact.”
+
+Indeed, nothing was wrong. It was just that the memories had come back to Uva. He’s out of context again. I should leave a note inside my subconscious reminding myself not to be paranoid or confused when it happens again.
+
+Her many consciousnesses shared a faint smile. And it would happen again. With great repetition. Shiv wasn’t the kind to dive out of context once and not again. She didn’t know what her dear brute was doing, but Evanescia was probably about to get all the entertainment she desired.
+
+And probably a lot more than she could handle.
+
+***
+
+Adam’s eyes widened. The Culturist’s expression tightened.
+
+“Oh,” the Paragon breathed. “Shiv. Of course it’s Shiv.” He groaned and began to rise. His Spellstring was called to hand as he rolled his shoulder. “Alright, then. Let’s see about this.”
+
+The Culturist cocked his head. “And what is it that we’re about to see to?”
+
+“Helping Shiv ruin Evanescia’s day, of course,” Adam replied smoothly. He bit back a breath of nausea as he forced himself to focus. His over-evolved Awareness was a calamity held at bay by the Culturist's power. It was like being safe behind a series of towering walls, but he could feel the walls creaking, groaning under the strain of an ocean pushing in from all around. And the pressure only continued to build with every passing second.
+
+“I have lesser doubts about our combat effectiveness under the strain of your new Awareness,” the Culturist began. “My greater concern is one of general impotence. I do not see how we can turn the tide against the Usurper-Narrator at all.”
+
+Adam glared up at the orc. “Well, I'm not going to do nothing and leave Shiv on his own.”
+
+“That's not what I'm saying. We won't be very combat effective, but we can help in other ways as well. And with the chaos the Deathless is most certain to cause, he can also help us. While the Usurper-Narrator's attention is locked to him, I think it is time we discover just what your new Awareness skill can do. My counsel, if you would listen to it, is that we must be effective. We face a foe far beyond us, and so, distance, subterfuge, and intelligence are to be our allies. We need to understand her ways better than she understands us if we want to have a chance of escaping this dimension. Your concern for your friend is warranted, but foolishness is not a flaw we have the luxury of affording. For his sake and yours, we must be calculated.”
+
+Adam lowered his bow after a moment's hesitation. “Right. Calculated.” Taking a moment to quell his hammering heartbeat and work through a throbbing headache, Adam sat back down and faced the Culturist. “So. I’ll cast my senses, and you'll bear the weight.”
+
+The Legendary orc nodded. “Slowly. Carefully. With focus and control instead of desperate abandon.”
+
+“With focus and control,” Adam echoed. He breathed out. His eyes began to simmer and burn. The incandescent dawn above his fiery crown developed a seed of pure azure at its core.
+
+Once more, Adam wielded his Legendary Awareness.
+
+Once more, the world exploded in detail, scope, and revelations.
+
+“There’s so much,” Adam whispered, barely able to handle the sheer amount of information, even with the Culturist filtering things for him.
+
+The Legendary orc shook, and sweat began to pour down his face once again. “Seek Shiv. Find him with your Divination. And then guide our Awareness over. Chart the path. Focus on the path. Ignore everything else.”
+
+And with that, the Paragon’s Legendary eyes grew bright with a tinge of violet mana as well.
+
+***
+
+“How did you do that, Deathless? How?” Evanescia's disquiet was only matched by her overwhelming elation. She loved being surprised by her characters, even if this surprise exceeded safety thresholds. Somehow, he'd managed to hide himself from her. Not just from her perception, but from her memories as well. As she scanned through the Fairwoods, she realized that, for a few moments, he didn't exist at all. That meant his feat was even greater than she'd initially assumed. He'd actually managed to slip out from the pages of her world.
+
+No one had ever managed to do that. Not until now.
+
+Your genius lives on inside your child, as demonstrated by his creation. Evanescia offered those words to her own creator as a silent compliment and a slight hint of mockery. Dear Udraal had come along with his works. The Deathless was an astonishing Pathbearer, not only in terms of growth, but also in his capacity to defy the System itself.
+
+The fact that he existed spoke volumes about Udraal’s genius—and the intellect he'd inherited from his mother. But it also betrayed the way he saw the world; what he'd built was a beast in human skin—a creature of struggle and defiance against reality. He was a monster meant to break free from any cage, to fall and rise again until he could adapt to and bring down any foe.
+
+Evanescia, her maker the mother of Shiv's, stood as his mirror. She was meant to cage, meant to reign, meant to shape and align desired outcomes.
+
+“Which makes us… exponential foils to each other, does it?” The Usurper-Narrator giggled to herself and kicked her feet. “Isn’t that something…”
+
+Wisdom and reason told her to reset the loop and disable the Deathless. She couldn't control him, not until she understood how that skill of his worked. If she couldn't remember him and he could break free from the confines of the Fairwoods, that made him a threat far beyond Silence’s acceptable parameters. And it would be a most sour-tasting irony for Evanescia to see herself usurped in turn.
+
+But she didn't act, at least not immediately. There was something else hidden in the sourness of her emotions. Something she'd almost forgotten the taste of.
+
+Turning away from her wisdom, she listened to the thrill, that burning excitement that was as dangerous as it had been missed. She knew this to be tension, true tension; stakes! Watching and living vicariously through her characters offered a facsimile of the real thing, but being embroiled in a meta-story on top of all the existing narratives was just tantalizing.
+
+“I really, really shouldn't.” Evanescia's self-chiding words shuddered in the undercurrent of the Fairwoods, and they were truth. She really shouldn't. Powerful though the Deathless was in his world, he still paled before numerous Pathbearers she'd captured from all across Integration. But few of them were like him in terms of uniqueness and nature. Even Mythic Pathbearers and gods had only one life to lose, while the Deathless could come back over and over, a true recurring villain for her, the Heroine of a Thousand Faces.
+
+Her mind drifted away from the stories that were in play, and a fantasy took hold. She imagined herself facing him across a hundred different arcs, across countless settings, across infinite tales. She could slay him, break him, shatter his mind, and cast him in all manner of roles. He would always return. More importantly, even if she came close to caging him, he might just be able to escape into the sequel. But she would always be there to stop him. She would always be there to contain him, to match him, to overcome him.
+
+Or he might surprise you and escape. Or he might be able to breach through the barrier between the Fairwoods and the rest of Integration. If there is a gap, if someone can cross over even through your quarantine, then everything the Creator did to ensure your dominance and eternal reign over this place would be at risk—The Great Saga might never be completed.
+
+The very thought was sobering, but that was just the problem: The stakes only made the thrill greater than Evanescia could deny. She was created to fulfill the fruition of her mistress's dream of all reality contained beyond the reach of death, an eternal story spared from oblivion. That was the purpose of her existence, but she had been working at that purpose since time immemorial. The work toward her creator’s dream had turned out to be a long, long project, and she herself felt eroded and tired.
+
+And I don't think I ever truly had a story of my own. An adversary that can surprise me this way.
+
+Clamped between her personal desire to take the stage and the burden of her existential duty, Evanescia found herself hesitating. After a moment, there came an uncharacteristic excuse from her: "I think I'm going to observe you… just a while longer. Yes, I need more intelligence before I act. I want to understand what you can do more. That's right. I want to be wise when I make my… decision.”
+
+The part that made her feel so disgusted with herself was the fact that she'd heard these words before, perhaps not phrased the same way, but the subtext was there: every justification from an adulterer, every relapse of an addict. All of it came preceded by a rationalized excuse.
+
+She'd thought she'd long purged herself of such things. She was wrong. Absence made the heart go yonder.
+
+And this was a kind of tension she had been deprived of for far, far too long.
+
+***

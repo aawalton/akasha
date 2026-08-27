@@ -1,0 +1,177 @@
+---
+id: 518a69df-32c7-51be-9c2c-fb82e35268f8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13 – My Shiny"
+slug: 0013-chapter-13-my-shiny
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 13
+ownLength: 2115
+unit: words
+publishedAt: 2025-08-25
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2545510/chapter-13-my-shiny"
+royalRoadId: "2545510"
+---
+
+Liora flew after the hyenas, ready to beat them all to pulp to get Renir's gem back. But the little creeps stuck close together as they ran with their tails between their legs. She couldn't find a good chance to get to the hyena that swallowed the gem.
+
+She didn't give up. She was ready to chase after them until the end of the world. That was her gem! Her one, most precious treasure. She wouldn't give it up to anyone or anything. She gave up her precious nest and home for it—like hell she'll let some stupid hyena just swallow it.
+
+"Caw, caw!" She screeched at the hyenas angrily.
+
+But these nasty creatures had the gall to run into a cave. In her rage, Liora almost followed straight after them. But she realized it would be equivalent to suicide.
+
+This cave was no doubt the den of the hyenas. She could hear more of them snarling from deeper within. The cave ceiling wasn't very high either, nor were there safe places for her to perch.
+
+Show status!
+
+[Status]
+
+Health: Scraped
+
+Mana: Trickling
+
+Liora didn't want to give up. She desperately wanted to get her gem back. She was ready to fight an army of hyenas to achieve that. But she needed to recover. Liora also suspected that she wasn't yet strong enough.
+
+"I'll be back!" She screamed into the cave. It was both a warning to the hyenas and a promise to Renir.
+
+I'll get stronger and be back.
+
+Liora returned to the watchtower to rest until dawn. But as soon as the pigeons began to coo, she woke up and flew straight back to the foot of the mountain. Her goal was simple—gain enough levels to overpower those hyenas and take back her gem.
+
+She didn't bother chasing the moths anymore, even the toads weren't worth the trouble. Instead, she went after the hyenas. Even if she'd see a large group, she'd Air Dive at least one of them and then move on before others could overwhelm her.
+
+Liora didn't even care about glimmerstones that she could potentially gain—the gem took utmost priority. So she kept fighting hyenas again and again, Air Diving from above, Air Slashing when the opportunity arose, and Pecking anyone who dared to get too close.
+
+She discovered that it was actually easier to fight the hyenas during the day. They appeared more sluggish in the sun, and often she'd find a cluster of sleeping hyenas under a tree. They got treated to a merciless dose of Air Dive.
+
+By lunchtime, Liora had reached Level 9 and managed to gather 20 glimmerstones from hyenas that got separated from their brethren. She felt like she should be Level 10 by now, but the hyenas were mostly around Level 5 and 6, except for the pack leaders. They weren't giving enough experience anymore.
+
+She wanted to head into that den and get Renir back, but she was completely out of mana, not to mention that she had sustained a few injuries. Rest was required.
+
+I should eat something.
+
+Liora didn't feel like eating, but knew it was necessary. Lazilly, she flew into town and began looking for scraps.
+
+"Mommy, mommy, look! It's that magpie again," the girl from before pointed eagerly at Liora. She, along with her mother, was carrying large stacks of firewood and twigs.
+
+"Indeed, it is," the mother said with a smile.
+
+"But… she looks injured," the girl said with a frown. "Are you hurt, Miss Magpie? Come here and show us!"
+
+She put down the stack of twigs she was carrying and extended her arm for Liora to land on.
+
+"Christie, she won't come so easily," her mother said nervously.
+
+Liora didn't really have an issue with it. She landed on the girl's hand. Not like she was going to bite her like one of those disgusting hyenas.
+
+"Look, mommy! She's not afraid of us! She must know we are good people," Christie cheered.
+
+"I guess she does," the mother said, pleasantly surprised.
+
+"Could we help with her wounds? It looks painful."
+
+"I don't know much about bird care. Why don't we try bringing her to Doctor Reius? He knows his way with animals," the mother suggested.
+
+"Yes! We should. Don't worry, Miss Magpie, Doctor Reius is a really nice man. He knows loads of stuff about animals!"
+
+Liora pondered whether she should let herself be taken away to this mystery man, likely a vet, but in the end, she decided to go along with it. If nothing else, then this vet would likely give her something to eat.
+
+These wounds are starting to hurt. I guess I didn't notice because I was constantly worried about my gem.
+
+She was still worried about it. She wanted it back. Desperately so. But self-care came first.
+
+Christie and her mother first took the stacks of firewood back to their house and then set off to the other side of town. People stared at Liora in awe and asked the little girl questions about her. But Christie would always say that Miss Magpie needed treatment first, which Liora was grateful for. She didn't like so much attention.
+
+Before long, they arrived at a rather shabby-looking brick house. Well, all houses were shabby, but this one looked more like a barn than an actual house. The inside looked no better with animal pens and no actual human necessities in sight.
+
+This was a clinic for animals, not a home, right?
+
+"Mister Reius! Are you home?" Christie called.
+
+So somebody actually lives here… Wow…
+
+"Yes, I'm here," responded a male voice. If Liora didn't have Night Vision, she probably wouldn't have even seen the man sitting hunched over in a dark corner. He looked quite disheveled, round glasses barely holding onto his nose as he tried to straighten out his dirty doctor's coat. He was probably napping on that tiny stool. That couldn't be comfortable.
+
+"We found this injured magpie and hoped you might be able to help," the mother said.
+
+The man's eyes lit up, and he ran up to Liora so fast she almost pecked him out of reflex.
+
+"A magpie! Most fascinating! I never thought I'd see one in Sunvale again. This must be a good sign!" Dr. Reius perked up, but then drooped down just as quickly. "But it must have wandered in here by accident. I'm sure it'll leave soon enough."
+
+Damn straight I'm leaving this cursed place as soon as I get my gem back. I've had it with these hyenas already!
+
+"But it's been here for a few days already. We fed it some bread before," Christie objected.
+
+"Oh! That really is a good sign! Maybe not all hope is lost for Sunvale after all. I'll treat its injuries, of course. We cannot let this good omen die," Dr. Reius said fervently. "And it's so brave, too. Did it just let you carry it all the way here?"
+
+"Yup! Miss Magpie knows we don't mean any harm."
+
+"Fascinating! Corvids truly are the most intelligent of birds. Would you come to me as well?" The man extended his arm towards Liora, hoping she would go to him. She didn't.
+
+You smell funny. And I have a horrible sense of smell. My one weakness, although in this case it is a blessing.
+
+"I think you're scaring her…" Christie said.
+
+"Oh… I guess I was a bit enthusiastic. It's okay. I can treat her this way, too," he said dejectedly.
+
+The crazy doctor proceeded to clean Liora's wounds with antiseptic. It stung, but at the same time, she felt relieved that she wouldn't get infected with whatever those hyenas had. Renir said that the System would heal her, but could it prevent infection? Probably not.
+
+"Interesting. She seems a bit larger than a normal magpie. Her wingspan is longer, too," the doctor noted as he treated her wounds.
+
+"That means she's extra healthy, right?" Christie cheered.
+
+"That must be it," he nodded, but Liora saw that there was a bit of doubt in his eyes. He wouldn't suspect her of being an evolved creature, right? Then again, even if he did, was it such a big deal? In a world of monsters, a slightly unusual magpie is no big deal.
+
+The doctor also fed her a mix of grains, seeds, and eggs. It actually tasted really good and rejuvenated her energy in what felt like an instant.
+
+"There. She'll be alright now," the doctor said.
+
+"I'm so glad, Miss Magpie! You'll be fine. You should just live in our town," Christie said. "Or better yet, live in our house."
+
+"No, Christie. She's a wild animal. We cannot keep her at home," the mother said sternly.
+
+"That's right. For Miss Magpie to thrive, she needs to be free," the doctor added.
+
+"But what if she gets hurt again? There are so many monsters around here," Christie said tearfully.
+
+"Don't worry, Christie. She's a bird. She can just fly to safety," the Doctor said, although it was clear that he didn't quite believe it. There were plenty of flying monsters around.
+
+"Chak-chak-chak!" Liora agreed with the man, just so the girl would calm down.
+
+"See! Miss Magpie will be fine!" Mother said.
+
+The three of them spent a bit more time with Liora until she finally decided that it was time to sleep. She would spend the afternoon sleeping and then attack the hyena den at night when her Shadow Glide would be at its strongest.
+
+When Liora woke up, she felt determined and strong. Whatever that doctor had fed her gave Liora plenty of energy. She was ready to take on the hyenas.
+
+Leaving the watchtower behind, Liora flew towards the den, absolutely silent and unseen. The hyenas were rattled seeing the carnage that Liora had inflicted during the morning. They were running around nervously, snarling and howling.
+
+But they didn't see Liora as she silently flew straight into their den. Hyenas were going in and out of it, but she stuck as close to the ceiling as possible. None of them noticed her. Who would expect to see a bird inside the cave anyway? Birds and caves just didn't go together. Or at least magpies and caves didn't.
+
+Liora was nervous—she'd never been inside a cave before. It felt suffocating with how little space there was to fly. Without Night Vision, she wouldn't have been able to navigate it at all.
+
+But soon she reached the depths of the dens. The sight before her made her pause in horror and take in the scene. A bunch of hyenas were whimpering in front of a much larger… hyena? Could it be called a hyena? It was basically half-humanoid with a much more decently proportioned jaw.
+
+A few dead hyenas lay at its feet. Liora recognized the one who had swallowed Renir's gem—she had left a rather sizable peck on its forehead. Its belly was slashed open, and its guts sprayed all over the floor. The odd thing was that the other hyenas weren't scrambling to eat it. They clearly wanted to, but none dared to look away from the humanoid hyena.
+
+Neither could Liora because in its nasty hand it held Renir's gem, brushing it with its large, disgusting nails.
+
+"Will you stop doing that?! Your nails are incredibly sharp, you stinky mongrel! I can't even smell, and I still know you're stinky!" Renir cursed at the humanoid hyena.
+
+Liora knew that if she wanted to have a chance of defeating the leader, she had to deal with the small fry first. Before anyone had noticed her, she unleashed several Air Slashes, aimed at the little hyenas. At this point, she was strong enough to leave sizable cuts in hyenas, making them bleed profusely. She followed up by flying right up to the hyenas and releasing a "Buh-rup!"
+
+[You've failed at mimicking the skill <Paralysis Croak>.]
+
+Worth a shot.
+
+She had expected as much, and instead Pecked at whichever hyena happened to be in her path. Those who were hit with an Air Slash before died instantly.
+
+[You've defeated <Giantmaw Hyena – Level 5>. Experience gained.]
+
+[You've defeated <Giantmaw Hyena – Level 6>. Experience gained.]
+
+But the humanoid hyena didn't wait for Liora to get rid of her minions. It snarled viciously and leapt towards her in one agile jump.
+
+"Liora, look out!" Renir warned. Thanks to that, she managed to barely fly out of the way.
+
+But seeing the humanoid hyena up close, Liora had to wonder how she could defeat it in this enclosed space. She couldn't Air Dive. She couldn't hide. And that abomination had her gem. Her shiny. She had to get it back—but how?

@@ -1,0 +1,153 @@
+---
+id: 57b8b421-efa5-54c7-bff6-318912ffef6d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 379 : Chasing Shadows"
+slug: 0081-chapter-379-chasing-shadows
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 81
+ownLength: 2478
+unit: words
+publishedAt: 2026-05-01
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3339680/chapter-379-chasing-shadows"
+royalRoadId: "3339680"
+---
+
+Throwing my spell orbs through the rifts made me oddly reminiscent of the time Vee and I had tried this together. Of course, that was the first time we were trying out the spell orbs, and I had mixed in plenty of conflicting elements since I didn't really know what I was doing.
+
+Now, though, my mastery of slime and magic was vastly superior and couldn't even be compared to my past self. I wasn't too worried about creating chaotic essence, since I was only using light Mana, and it would also be confined to the dungeon depths.
+
+Even if I do make some, I can ask Vee to clean it up. Heck, there's a chance I could do it myself, too, with [Spatial Severing].
+
+I would close and reopen rifts around the battlefield, scattering more and more spell orbs under the cover of repeatedly exploding flashbangs. The best part was that the more I did this, the more comfortable the [Dungeon Master] appeared.
+
+"The darkness is eternal in the abyss, you're just wasting your time and Mana with these paltry spells," he mocked.
+
+I had to agree with him, with [Light Magic] alone, I couldn't defeat the shadows. With each shadowy entity I killed, it was like three more were ready to take its place.
+
+If Vee were here, I bet she'd say I'm getting a taste of my own medicine.
+
+I knew I didn't have a monopoly on tentacles or wielding shapeless mass as a weapon, but it really did feel eerily similar. Yet, almost strangely, the [Dungeon Master] himself didn't make a move to attack himself, which was where the main difference was between him and me.
+
+Is he physically weak? I mean, he is a shadow… Shadows aren't exactly known for their brawn.
+
+While I liked to attack with a swarm of slime or a barrage of magic, I also loved to jump into the fray myself. Yet he was more than happy to sit back and control the shadows to do his bidding.
+
+Even though I was suspicious about his fighting capabilities, I remained cautious as he was also a [Dungeon Master] and I didn't know how he could use that in battle. Could he summon actual monsters at the drop of a hat? I had no idea, and thus I wanted to bring things to a close with a giant bang.
+
+I think I'm ready, let's go!
+
+I could feel all my primed bombs ready to go, and as I focused my attention on my true opponent, I detonated them. My vision was overwhelmed, and the dark abyss was drowned out in a blinding light. If not for [Spatial Sense] and [Personal Rift] working in tandem, I would have lost track of my surroundings; whether it was sight, sense, or vision, it seemed everything was overwhelmed.
+
+Light Mana flooded into the abyss, explosions echoed endlessly, deafening anyone unfortunate enough to be here, essence went wild as creatures were slain, and that was just the start of it. I had hoped that by sticking to one Mana type I would avoid a repeat of my previous catastrophe, but it now looked like I had failed to take into account what forcing so much light into the abyss would do.
+
+Through [Spatial Sense], I could detect that the [Dungeon Master] was writhing in pain, no doubt due to his domain collapsing and his opposed element assaulting him. I figured this was the best opportunity I had, and so I ignored everything else and teleported towards him with [Blink].
+
+Jumping straight into the fire was harder than I thought. I had expected to be immune to the explosions, but the sheer chaos was overwhelming even my defenses. I reinforced myself with mithril slime, since it seemed the best counter to the surging light Mana, and attempted to grab onto the octopus.
+
+Of course, grabbing onto him wasn't the only thing I was trying to do, as I had withdrawn my workers from [Core Storage], including the donated ones from my personas. My order was simple: fold and cut.
+
+While they were obeying that command, I was also letting my [Dimension Magic] go wild. I had cast [Displaced], and in an effort to prevent him from retreating, I started trying to lock down his coordinates. If he fled, I would bring him straight back to the firing line.
+
+From what I could tell, things seemed to be working, though without visual or auditory confirmation, it was hard to ascertain. Usually, my opponents would scream or shout, but if he was, it was drowned out by the explosions. Likewise, I could see him through [Spatial Sense], and I could see my attacks distorting him, but it was still hard to tell.
+
+My hope for more feedback was to grapple with him with my slime, and I hoped that with [Luminous Slime] I could physically fight him. My tendrils reached him, but to my dismay, it was like trying to grab onto smoke. Still, I had noticed a slight change, and while I couldn't grab him, my glowing slime was still a weapon, and I could vaguely tell it was burning through his shadows.
+
+Capitalizing on this, I started forming an arsenal of unicorn horns to use as spears to stab at him. Each one struck at his form, and I watched in real time as his shadowy mass was being slowly consumed in the light.
+
+On the dimensional front, my cuts were effective, slicing through his shadowy form like no other. This affirmed that he was considered an 'entity' as far as the skill was concerned, and thus, I had another perfect attack against him. I only wished I had discovered more of the effects behind [Spatial Severing] through [Skill Deconstruct], as then I could possibly apply it to myself as a sort of magical buff.
+
+At this point, the explosions had ceased, and my other senses were beginning to recover. I could finally see what was happening, and boy, did it look like hell. The shadowy octopus was now fully revealed, though his form seemed almost suppressed by the abundant light still present in the abyss. He had shriveled up and was coiling over himself as if trying to protect himself, not even bothering to try to fight back.
+
+I felt bad for a moment. I had effectively destroyed his home and turned it against him, and was now ruthlessly attacking him. His domineering presence was entirely gone; he looked like a creature desperately trying to survive.
+
+Right as I was considering whether to offer to spare him if he surrendered, something occurred in the dungeon. The dark, damp abyss was suddenly flooded with, not unlike when I destroyed the dome of Azulean, and this massive room instantly felt the pressure of the depths. But that wasn't where it ended, and I could sense essence flowing and solidifying, drawn in from some unknown location.
+
+I'd never seen essence behave like this before, and I realized why as soon as an entire army of monsters was spawned in the blink of an eye. At a glance, I could tell that their quality was a little questionable, perhaps a downside of instantly spawning them rather than nurturing them down certain evolutionary or mutation paths. However, what they lacked in quality, they made up for in numbers and sheer mindless devotion.
+
+They mindlessly charged at me with claws, fangs, pincers, or even just threw their bodies at me. A massive whale monster had even spawned, and its intent was obvious: to force itself between its master and me.
+
+I portioned off some of my [Sub-Cores] to deal with the incoming army. While they weren't a threat, they could get in the way, which was the bigger issue. I predicted that the [Dungeon Master] was planning on escaping from his actions and his lack of fighting back, and at the moment, it looked like he was slowly succeeding.
+
+As much as I damaged him, he was regrowing with startling ferocity. While the abyss had been drowned in light, the darkness had not been removed entirely. Every shadow that remained was being drawn towards the octopus and devoured the second they came into contact. Even my own shadow was swallowed by this monstrosity, and while it didn't appear to damage me, it undid a large majority of the damage I had inflicted on him.
+
+Ugh! I hate fighting regenerators!
+
+Naturally, I had tried to use [Bloodrot] and a few other poisons for good measure, but none of them had even the slightest effect against this shadowy cephalopod. It became rapidly apparent that to fight entities such as this, you needed the right tools to do the job.
+
+And I've only got [Spatial Severing]!
+
+I tried a few other things, like swallowing him into my [Personal Rift], yet any portion of his body that was caught in the aperture was swiftly discarded. I couldn't help but compare him to myself; he was like a shadow slime, and his form was just as endlessly malleable.
+
+At this rate, he's going to get away!
+
+I was furious. I began lashing out with more spell orbs that I was instantly detonating in the hopes of destroying his form. He must have sensed this and tried fleeing, but I sneered and forced his coordinates into a [Lock].
+
+His body shuddered, and then he did the unthinkable and jettisoned a large portion of his body. From my perspective, his personal coordinates suddenly multiplied; he had scattered most of his body into multiple shadowy forms in an attempt to deceive me. So while I had locked down one of his bodies, the other seven were free to flee.
+
+"Come back here, you coward!" I roared. I ordered all [Sub-Cores] to work on casting [Lock]; he was not allowed to escape!
+
+"I'll remember this insult!" his numerous bodies cried out. "All of my savings, all of my preparations, gone in an instant!"
+
+I had the feeling that if even one of his shadow splits escaped, he would get away. The only issue was that more and more monsters were being spawned and literally throwing themselves at me.
+
+The worst part was that his bodies were fleeing in different directions, and while I caught a few of them, they were clearly sacrifices he was willing to make. Not only that, but the deeper into the abyss they fled, the more darkness they had to supplement their forms. Some of the captured forms I had caught exploded into mist, and if that wasn't annoying enough, one of the escaping splits after assimilating more shadows would make another split.
+
+He can only have eight splits at once, but he can kill one to make more. He's really willing to sacrifice anything and everything to get away!
+
+It really was like trying to catch your own shadow, and the more I failed, the more I realized there was nothing I could do. I had part of the tools needed, but I hadn't prepared enough. While I was still desperately trying to succeed, a sudden notification sent a ripple of rage through my heart.
+
+<The [Dungeon Master] of the [Abyssal Temple] has fled.>
+
+"Damn it!" I cursed.
+
+<Warning. The [Abyssal Temple] will collapse in 4 days, 11 hours, 37 minutes, 13 seconds.>
+
+"Oh great, things just keep getting better and better!" I snapped angrily.
+
+<You have defeated the [Dungeon Master]. Would you like to usurp the Emblem?>
+
+My bubble of rage popped. Evidently, I didn't need to kill him, and his fleeing his own dungeon was enough justification to demote him.
+
+It's optional? I was genuinely surprised. Yet I couldn't think of any reason not to take it, after all, this was why I had come here in the first place.
+
+Yes!
+
+<Emblem [Dungeon Master] usurped.>
+
+<Your application is now pending. Please be patient…>
+
+<Unclaimed CUBE detected nearby. Collecting this will improve your resume.>
+
+"CUBE?"
+
+I looked around. I wasn't sure what this CUBE was, as all I could see was remnants of the monsters left behind. I began my cleanup, eating what I could and exploring the depths of this abyss. The oppressive darkness was receding, and all my senses were rapidly recovering.
+
+To my shocking discovery, this room was actually smaller than I previously realized. Not unlike when I used [Expand], something similar had been happening here, allowing the shadows and darkness to accumulate beyond normal levels. More and more confirmed that the octopus was some form of entity, as how else could it affect space like this, and it didn't have a dimensional affinity as far as I could tell.
+
+As more of the darkness receded and the space began to stabilize, I found the center of the room. Sitting upon a decadent throne was a shimmering cube that glimmered between pearlescent white and iridescent black.
+
+I tried using [Identify] on it, but it failed. I cautiously picked it up with an extended tendril, and the object abruptly identified itself for me.
+
+<[Dungeon CUBE]
+
+The Collector of Universal Building Essence™, henceforth known as CUBE, is the pinnacle of [REDACTED]. Able to harvest the loose essence of the world, it can be repurposed for greater means.
+
+This model focuses on dungeons and can only be used by a bearer of the [Dungeon Master] Emblem. The CUBE, once linked to its owner, can be used to gather and store essence and facilitate dungeon-related fabrication.
+
+The CUBE requires its own area to be claimed to function fully, and no two can occupy the same region.
+
+Please note this is not to be confused with the Dungeon CORE™. The Collector Of Reality Essence is an inferior and outdated model, with production having ceased.>
+
+I stared at the CUBE, bewildered. Seemingly, this was one of the greatest secrets behind [Dungeon Masters] and something I had no idea existed. The CUBE was as light as a feather, and I tried poking and prodding it to no effect.
+
+"I guess I'll just keep it for now?"
+
+To my surprise, I could safely store away the CUBE in my [Core Storage]. I had assumed it would be too important for that, but apparently not. If it was so easy to move around, I wondered why the shadow octopus left it behind.
+
+"Or maybe it can't leave the dungeon once it's established?"
+
+I had many questions, and sadly, very few answers. I wondered how long it would take for my application to be processed, and I couldn't even examine the [Dungeon Master] Emblem at the moment.
+
+I was still peeved at the octopus escaping, as that was experience points that were robbed from me and potentially an exquisite profile to devour.
+
+"I guess I'll just take out my anger on the rest of the dungeon. I've got two more guardians to eat and four days to rob this place blind."

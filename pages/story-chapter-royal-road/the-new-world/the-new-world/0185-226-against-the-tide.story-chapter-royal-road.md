@@ -1,0 +1,185 @@
+---
+id: afa8b064-4909-5902-8683-d5d7fda8786a
+page-type-slug: story-chapter-royal-road
+title: "226 Against the Tide"
+slug: 0185-226-against-the-tide
+partOf: the-new-world
+position: 185
+ownLength: 2541
+unit: words
+ownProgress: 2541
+publishedAt: 2019-09-24
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/406788/226-against-the-tide"
+royalRoadId: "406788"
+markedReadAt: "2026-06-29T21:27:15.013Z"
+---
+
+The group went silent as each of us contemplated the consequences loaded in Krog's words. Harvest, in particular, rang quite a few alarm bells. It sent shivers up my own spine even. It meant they looked at the gialgathens as a resource, and I understood good and well the impending dread that came with that.
+
+When Torix and I first met, he mentioned how I could be used as a mana battery. Even now, my skin crawls at the prospect. Knowing what the gialgathens were up against, a fate even worse was waiting for them.
+
+Still, I wasn't about to let myself get caught up in the moment. Before letting the situation get out of hand, I walked up to Krog,
+
+"Now wait a minute...You're telling me they're harvesting you. How do you know that?"
+
+Krog shook his head in disgust, "The way they ensnared us...No one was killed. They were put at the brink of death yet left to live. That isn't the act of someone without the intent to use us whilst alive."
+
+I cupped my chin, falling deep into thought, "Yeah, that makes sense. That means our priority should be getting you guys the hell off of Giess. That shouldn't be that difficult. I can get about ten of you out at a time. We can get of Giess before Elderfire is crushed by Lehesion."
+
+Krog showed his teeth, "That, that's incredible. I'll trust you in this then."
+
+I glanced around, my hands on my hips, "This should only take a few hours at most. Who wants to go first?"
+
+Krog narrowed his eyes, "Wait one moment. How do you intend to move all the gialgathens on Giess in only a matter of hours?"
+
+I leaned back,"Wait a minute, all the gialgathens? There's a misunderstanding here." I pointed around, "I'll help those here. The strangers off in the attacked cities are on their own though. I'd like to help, but I have to look after my guild."
+
+Krog shook his head in disbelief, "What do you mean strangers? They are our people, our kin. Are you so heartless as to abandon them?"
+
+Yeah that stung a bit to hear. I crossed my arms, "Heartless is a bit of a stretch. I'm still here to help out. I'm no saint though, so you got me there."
+
+"You...we believed you to be the champion of our people. You were to lead us when we needed help. Why do you admonish the responsibility now that it beckons to you?"
+
+Yeah, it was a responsibility Krog was thrusting onto me. I tapped my chest with my hand, a metallic ring echoing,
+
+"I'll help fight Lehesion since he killed members of my guild. I'll also get the gialgathens in Elderfire off of Giess. I'm doing quite a bit right there. Roaming the entirety of Giess and fighting enhanced Hybrids to save total strangers?"
+
+I shook my own head in disbelief, "You're asking a lot more of me than I can afford to give. Think about my situation. What if Lehesion attacks my own guild? Everything I've worked for and helped create will be destroyed if I'm not there. You can't expect me to drop all that to save you all. I wish I could, but I can't. It's just too risky..."
+
+I winced a bit, realizing how cold I sounded,
+
+"I'm sorry."
+
+Krog took a breath before glancing back to me, "But surely our kind deserves a better fate than this one?"
+
+I looked up at him, my gaze hardening "Calling this fate is an excuse for the gialgathen's inaction." I glanced around, "None of you are helpless. You all waited until this situation spiraled out of control. That's not on me. That's on you. All of you."
+
+In my eyes, that was the hard truth. Yes, they needed help. That didn't mean they deserved it without even trying themselves. When Yawm came crashing down onto Earth, I wanted someone to save me too. No one did, so I saved myself. The gialgathens could do the same.
+
+Despite how standoffish that sounded, I did want to help them. Doing all this for nothing though? They were taking advantage of my goodwill. Yeah, I wanted to help. I also wanted to help people back on Earth. I couldn't save everyone though.
+
+As those thoughts raced through my mind, Chrona leaned her head back,
+
+"Perhaps some sort of deal can be arranged then?  We are not so ungrateful and needy that we would ask for such assistance without equivalent compensation."
+
+I let out a sigh of relief as I crossed my arms, "Thank you. That makes this situation a lot easier for me. What kind of terms are you thinking of?"
+
+Chrona and Krog glanced at each other, speaking out a telepathic conversation only they could hear. As they finished, they turned to me, and Krog spoke out,
+
+"Chrona and I will serve without question over the next century, as will any gialgathens we save. Is that appropriate?"
+
+My eyes widened as I scoffed, "What the hell kind of deal is that? A Hundred years?"
+
+Krog's composure showed a few cracks as he scrambled out a few words,
+
+"Then...then make it three centuries of enslavement...And Chrona and I will serve till our deaths. Surely that is enough?"
+
+I facepalmed, "Good god, did you think I'd ask you to flay yourselves alive then parade around your skin? I was thinking more like, I don't know, a decade or two of service. Maybe more from you two."
+
+Chrona's eyes widened, "That's all?"
+
+I shrugged, "Yeah, that's about it. We can grind out the details later, but it would probably involve taking out dungeons, defending Earth, and educating yourselves. That's about it. You'd be free to do whatever outside of that."
+
+Krog peered at Chrona before turning back to me and giving a vociferous nod, "We accept your terms. We absolutely accept."
+
+I turned to Torix, "Alright, we're helping the gialgathens. Any thoughts on how?"
+
+"After my initial presumptions, the most efficient avenue of assistance involves going towards these warzones. Once there, we may assist the gialgathens held within them. It seems the most effective course of action."
+
+At this point, other gialgathens grouped around us. I glanced around, "Yeah. That sounds solid...Hmm."
+
+The gialgathens drooped their heads, much of their pride shattered. It was an understandable reaction. They're god turned on them, twisted into a war machine. They lost their stronghold to that warped creature, and now they were getting harvested by an unknown force.
+
+Yeah, they needed a pep talk to shift morale. That would come after we got our own counter-attack organized. I rolled my shoulders, "It's time to get this operation started."
+
+Torix cackled, "Excellent. What would you recommend?"
+
+I began cracking my fingers one at a time, "Alright, we'll round up the gialgathens here. I'll be using a blue dungeon core to make this place safe while we're away. That should give us the time we need to get back if this place is attacked."
+
+Torix nodded, jotting down some notes, "That's quite the resource to spend on securing a base of operations. Are you certain it's worth the investment?"
+
+I waved a hand, "I have three blue cores at this point. I'll need to use them eventually, and having a safe zone like this is just too useful. It makes the logistics involved with this kind of plan infinitely simpler."
+
+Torix's shoulders drooped as he murmured, "Ah, yes. I suppose evading that burden is wise."
+
+I pointed at the necromancer, "You'll have plenty to do. Don't worry about that. I'll still be working on your new body in the meantime, regardless." I turned to our Sentinel friend, "You don't mind working hard to save these people, do you?"
+
+The Sentinel tapped the hilt of his spear, "If it served Schema, I would work tirelessly forever."
+
+"Alright, good. We'll be using your teleportation abilities to warp everyone around. We'll get going from city to city, clearing them out and getting the gialgathens here."
+
+Chrona tilted her head at me, "I would ask of you, how would we support so many people here? I'm certain you noticed, but it's a desert."
+
+I raised a hand and clamped it into a fist, "I'll handle that part." I turned to Torix, "I'll be needing a new grimoire. Do you think you could make me one?"
+
+Torix shook his head, "It's beyond my abilities now. The volumes of mana I would need to siphon would reduce my current body to ash."
+
+I tsked, "Shit. I'll do it then, but I'll need your help." I turned to Krog and Chrona, "What are you two doing here exactly?"
+
+Krog raised his head, "I am attempting to organize the retreat of our forces."  Chrona followed, "I am guarding Elderfire against this...portal of some sort I suppose? I know little of it."
+
+I pointed at the rift, "I'll clear that real quick and get you guys a different source of water and food." I closed my eyes for a moment wracking my brain. I opened them,
+
+"Yeah, and we're going to need your scouts Torix. If we can somehow get some information on the enemy's movements, that would make this much easier."
+
+Torix nodded, working through several status screens at once. As I watched him for a second, a wave of deja-vu passed over me. Torix reminded me of the first Speaker I met, Tera, the World Breaker. I grinned. We'd be getting Torix a similar title soon.
+
+I turned to Krog, "Once we get an idea of their movements, I'll be launching myself as the vanguard for our forces. After I punch a hole through whatever we're facing, you guys come in and clean up the mess I make."
+
+Chrona nodded, "We will turn their corpses to ash and send their memories to oblivion."
+
+Watching their spirits lift, I rode the momentum of the gialgathens surrounding me. I turned to Torix, "Make my voice louder. I'm going to remind these guys what they're fighting for and who they are."
+
+Torix cackled, "Of course, guildmaster."
+
+I lowered my hands, channeling quintessence under me. A pillar of stone rose from the ground, putting me above the heads of the gialgathens. I stared around, waving my arms, "Come, everyone."
+
+My voice echoed across the desert, my tone commanding and confident. I wasn't feeling that inside though. Talking in front of a huge crowd like this made my stomach sink. At the same time, they didn't need to see Daniel Hillside right now. They needed the Harbinger of Cataclysm, a figure larger than life.
+
+Even if I didn't think of myself as that figure, these guys did. At the very least I'd have to fake it until I made it. Using that belief, I took a deep breath before glancing around. It was time to live up to that title Schema granted me years ago.
+
+Shaking out the jitters, I shouted at them,
+
+"Tell me, why do you all look so defeated? It's making a mockery of the pride I've come to expect from you all."
+
+The gialgathens glared up to me in anger. I raised my arms, "Good. You can still be angry. You're not quite as beaten as you look then. There's still fire in you."
+
+One of the oldest gialgathens shouted out, "We appear defeated? You tell us we still have fire? Foolish. You haven't seen what these forces can do. They know our every movement. They prod our every weakness. They hunted us down like lambs to the slaughter. You alone cannot change our fate."
+
+I stared him down without flinching,
+
+"I haven't seen what these forces can do, but I have felt what you gialgathens can accomplish. You're capable of bending time, drenching horizons in flame, and crushing stone like roaches under your feet. You're telling me that you're lambs to the slaughter? Maybe you don't know the gialgathens that I know."
+
+The gialgathen bowed his head, unable to withstand my words or stare. I turned, glancing around the crowd,
+
+"The gialgathens I know are monsters worth fearing. They are creatures of legend that stretch their wings so wide they cast shade across entire battlefields. They are behemoths that stand taller than the mightiest trees. They are the kings of the sky, unmatched and unyielding."
+
+I raised a hand, "I faced the mightiest of your kind, Lehesion, and I lost. Tell me this - if he could reach such heights, who is to say that you couldn't do the same?"
+
+They glanced up at me, many of them inspired by my words. I continued, wielding the momentum like the edge of a sword,
+
+"In each of you lives the wrath of a god and the might to crush mountains. There isn't just fire in your chests. There is fire in your wills, the kind that can melt steel and bones alike."
+
+For added effect, I slowly encompassed The Rise of Eden over them. As I did, I thundered,
+
+"In each of you is the potential to turn any tide. I will stand with you, and we will stand against this storm. After we've annihilated these monsters, we will leave behind a legacy. Your children will look back at your generation as those that stood against the abyss. You will be embodied as those that stared into the depths, yet each of you laughed in the face of calamity."
+
+I gestured to everyone, "If you do so, you will be remembered, for what you do in life will echo for eternity. Now tell me what echoes will you leave behind?"
+
+Krog thundered, "Roars that quake the land and fire that will burn the sky."
+
+"Did you all hear him? Who here will roar with your general? Who here will add to his call?"
+
+Dozens of gialgathens roared, the symphony of warcries blending into a deafening and constant boom. I lowered my hands, oozing quintessence mana into the sand around me. This was the moment to pull it all together. I took a deep breath out. It was now or never.
+
+From the pillar, life sprung forth. Mosses, vines, and water spread over the expanse. As the mana reached the sand, sprouts expanded from the ground and trees sprung forth. A jungle grew, flowers, grasses, mushrooms expanding.  Roots, bushes, fruit trees, and vegetables sprung forth. Animals of all kinds, the chirps of birds, they came out in an ever-expanding torrent of life.
+
+Shade from the canopy of trees eased the suffering of the gialgathens. I lifted one of my hands, and from above, clouds formed. Lightning crisscrossed the growing blot of mist. The piercing sun ran against the clouds, shade encompassing Elderfire.
+
+From above, rain poured forth in a downpour. As the liquid of life soaked into the sand, I shouted over the storm,
+
+"From Elderfire, we will create a fortress against those that would face us. From Elderfire, we will rain down an endless flame that will burn them to ash. Our enemies will weep in our wake. We will be their nightmares given life. We will be their terror given form."
+
+The gialgathens of Elderfire roared out, defiance saturating their voices. I boomed,
+
+"And we will turn this tide."

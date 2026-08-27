@@ -1,0 +1,445 @@
+---
+id: 29f007be-e3ad-5a02-b2ae-e37c44e927d0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 89: Of Perfect Views and Genius Luna!"
+slug: 0090-chapter-89-of-perfect-views-and-genius-luna
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 90
+ownLength: 2178
+unit: words
+publishedAt: 2026-01-23
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2972612/chapter-89-of-perfect-views-and-genius-luna"
+royalRoadId: "2972612"
+---
+
+PoV Luna
+
+Luna’s blissful day did not end with the stalls.
+
+It just… slowed down.
+
+A little!
+
+By the time Ray finally managed to catch up, Luna was already seated cross-legged on the ground near Mister Stall Owner’s grill.
+
+With tail swishing lazily behind her, Luna looked completely at peace with her surroundings – as if she had been waiting there the entire time.
+
+She held a skewer in both hands, chewing with deep focus, eyes half-lidded in contentment.
+
+Mhm!
+
+“Mister Stall Owner! This is delicious!”
+
+“Atta girl! And call me Grevan, little one!”
+
+Luna just nodded happily, and kept on chewing!
+
+The view before her taking the rest of her attention – as the stall itself had become something of a small spectacle.
+
+Skewers hissed and crackled over the fire. Thick cuts of meat browned slowly, fat dripping and flaring as rich, savory smells curled upward and drifted down the street. Sauces bubbled in little pots.
+
+And many different spices Luna did not smell before clung to the air so heavily Luna could taste them just by breathing!
+
+It turned out that cooking everything Luna had traded in took time.
+
+A lot of time.
+
+Yet Mister Grevan didn’t seem bothered in the slightest. He worked methodically, humming under his breath, turning skewers with practiced ease, brushing glossy, fragrant coatings over meat until it shone. Every now and then, he glanced at Luna with a look that hovered somewhere between disbelief and professional pride.
+
+Ray, on the other hand, looked like a man staring straight into an existential crisis.
+
+“Okay,” he said at last, rubbing his temples as Luna happily gnawed on a freshly handed skewer, “this is exactly what I was talking about.”
+
+Luna tilted her head.
+
+Chewed.
+
+Swallowed.
+
+Her tail wagged once.
+
+Ray gestured vaguely at the stall, the fire, the ever-growing pile of food still waiting to be cooked.
+
+“You shouldn’t be spending so recklessly. Food isn’t–”
+
+He stopped.
+
+Because Luna’s eyes had lit up.
+
+She had heard this speech before.
+
+Many times!
+
+Well, maybe just a few times!
+
+But now – now she had learned things!
+
+Before Ray could respond, Luna leaned forward and very deliberately stuffed a piece of freshly cooked spiced deer – still steaming – into his mouth, padding it with a bit of soft bread for good measure.
+
+Ray froze.
+
+Chewed.
+
+Blinked in disbelief.
+
+Then swallowed.
+
+His ears went red.
+
+“Hey! You can’t just–”
+
+But Luna didn’t let him finish!
+
+A second offering followed immediately. This time of rabbit, tender and soaked in sauce! It pressed insistently against his lips until resignation won out over protest.
+
+Ray chewed again, slower now, glaring half-heartedly at Luna the entire time.
+
+He swallowed.
+
+Utterly defeated.
+
+Behind the grill, Mister Grevan burst out laughing, slapping a hand against his knee as he turned another skewer.
+
+“Ha! Careful there, lad,” he said cheerfully. “That’s how she gets you.”
+
+Luna beamed.
+
+She returned to her own food, chewing with renewed enthusiasm, tail thumping softly against the ground.
+
+It amazed her that there could be so many different spices!
+
+So many ways to prepare meat!
+
+And she was intent on trying out every type.
+
+For a while, there were no more lectures. Just sizzling meat, drifting spice, and the deeply satisfying sounds of Luna humming to herself with zero regrets.
+
+Eventually, once Ray had accepted his fate and the worst of his embarrassment had faded into a long, weary sigh, Luna looked up at him again.
+
+Her expression was bright.
+
+Open.
+
+Utterly sincere!
+
+“Was it tasty?” she asked, mouth still half-full.
+
+Ray hesitated.
+
+Then, quietly, he sighed.
+
+“…Yes. It was good.”
+
+Luna nodded, deeply satisfied.
+
+“Then Luna thinks ish shiny well spent!”
+
+Grevan laughed again, louder this time.
+
+While Ray could only cover his face with one hand.
+
+And Luna happily returned to chewing – utterly convinced she had just won an important, unassailable argument!
+
+***
+
+But the day wasn’t meant just for Luna to relax.
+
+Syl had her in mind the most, yes – but a free day was a free day. And that meant everyone got to breathe a little easier and do whatever they wanted to.
+
+Trianna arrived while Ray was still rubbing his temples and muttering something about economic responsibility under his breath.
+
+She took in the scene in one smooth glance: Luna seated on the ground like a queen of crumbs, surrounded by an impressive spread of cooked meats, wrapped bundles, skewers in various stages of disappearance – and one stall owner who looked like he had just experienced the best business day of his entire life.
+
+Trianna grinned.
+
+“Oh,” she said cheerfully. “I see I’m late to the feast.”
+
+Luna perked up instantly.
+
+“Trianna!” she chirped. “Food very victorious today!”
+
+The cooking finished not long after.
+
+All of it.
+
+Which was… a lot.
+
+Far more than Luna could reasonably eat even a fraction of in one sitting – even with dedication and very good intentions!
+
+But that didn’t stop her from taste-testing everything!
+
+There were different cuts, different textures, and most importantly, different smells. Some sharp. Or sweet. Others deep and smoky and smelled so awoomazingly delicious that Luna’s tail wagged without permission.
+
+Mister Grevan explained things while wrapping the remaining portions carefully.
+
+“These are spices, sauces,” he said, gesturing with a ladle. “And marinades.”
+
+Luna listened very seriously.
+
+She did not quite understand everything!
+
+But–
+
+She understood the results.
+
+And Luna just loved them!
+
+She sniffed every piece reverently before stashing most of it away, tail wagging faster with each new scent. There were many different spices, it turned out, and they could be mixed up in many ways before meeting meat!
+
+This was an excellent discovery.
+
+Gloriously delicious!
+
+Ray, looking thoroughly defeated and clutching a small bundle “for the road,” excused himself soon after.
+
+He muttered something about errands. Or distance. Or sanity.
+
+Trianna didn’t ask.
+
+Instead, she clapped her hands once.
+
+“Right! Exploration time.”
+
+Luna’s ears flicked straight up.
+
+Chewed through the last of her latest skewer, waved the happy Mister Grevan a goodbye, and followed!
+
+It turned out that Trianna liked the city.
+
+But not the way Luna liked it.
+
+She didn’t linger at stalls or pause for smells. Instead, Trianna drifted through alleys, peered into corners, leaned over railings, ran through side roads, and tested doors that were almost – but not quite – meant to be ignored.
+
+She liked knowing what was where.
+
+And most of all–
+
+She liked going up!
+
+So up they went.
+
+They asked first, because Trianna was polite like that. The guards exchanged looks, glanced at Luna, then at Trianna, then shrugged.
+
+A moment later, they were climbing stone steps and emerging atop the city walls.
+
+Luna looked around… and froze.
+
+She stared.
+
+From up here, the human hive stopped being a confusing tangle of noise and scent and movement. It became something… vast.
+
+Side streets branched like veins. Roofs overlapped in strange patterns. People moved like currents, splitting and merging, bright specks against stone and wood. Smoke rose in thin columns, each with its own smell, each telling a story Luna couldn’t quite read – but very much wanted to chew on!
+
+And beyond the walls…
+
+The world opened up!
+
+Fields rolled outward in waves of green and gold. Tall grasses rippled under the wind, while closer plots of wheat and other growing things formed careful, orderly patterns. Sunlight spilled across it all, catching on leaves and seedheads until the land itself appeared to glitter.
+
+The wind tugged at Luna’s hair and ears, carrying scents that were clean and wide and far.
+
+It was pretty.
+
+It was lovely!
+
+And it made Luna hungry in a way she hadn’t felt before!
+
+For more than just food.
+
+More places like this! More sights. More moments where the world opened up into delicious views!
+
+Yes, Luna would see it all!
+
+The city below was chaotic. Loud. Packed with humans and strange rules and smells stacked so thick her nose sometimes gave up.
+
+But from here…
+
+From here, it was curious.
+
+Interesting.
+
+Alive.
+
+Eventually, they climbed back down. Streets swallowed them again. Noise rose. Smells thickened.
+
+Luna trotted beside Trianna, attention drifting happily between her surroundings and the comforting weight of stored food.
+
+Then she felt it.
+
+A gaze.
+
+Luna slowed, ears twitching. She turned her head sharply, eyes scanning.
+
+But there was nothing there.
+
+She took another step.
+
+There it was again.
+
+Her nose flared. She sniffed deeply.
+
+But there was no scent. She saw no movement. No shadow out of place.
+
+Luna frowned.
+
+That was wrong.
+
+She broke into a run without thinking, darting down a side street, paws slapping lightly against stone as she checked corners and doorways.
+
+Still nothing.
+
+The feeling vanished as suddenly as it had come.
+
+Weird.
+
+“Luna!” Trianna called.
+
+Luna skidded to a halt and looked back. Trianna stood a short distance away with Veric now beside her, already mid-conversation, one brow raised as she noticed Luna’s sudden detour.
+
+Hm.
+
+Luna gave the empty street one last suspicious look, then bounced back toward them, tail flicking, shaking the feeling loose.
+
+“…Luna coming!” she called cheerfully.
+
+And just like that, the strange moment slipped behind her – filed away somewhere to chew on later.
+
+Soon after that, Trianna left Luna with Veric.
+
+A few quiet words exchanged, a nod, and then Trianna was already moving again, slipping down a side street with the same restless energy she always carried.
+
+Luna watched her go for a moment, tail swaying idly, before turning as Veric started walking.
+
+Sepio joined them not long after, falling into step with the quiet ease of someone who had spent most of his life doing exactly that.
+
+Luna followed after them, curious!
+
+This sightseeing trip was… different.
+
+The two men moved slowly, but not aimlessly.
+
+Luna flitted all around, checking all the weird smells.
+
+And yet they kept pace with her – or perhaps it was her who kept pace with them.
+
+The men didn’t wander, they simply went. From one place to the next, pausing only where it mattered. Shops came and went. Windows full of things Luna didn’t understand slid past her vision. In some places, Veric and Sepio only looked. Talked quietly. Asked questions. Then left.
+
+In a few, they bought things!
+
+Small things.
+
+Odd things.
+
+Little trinkets Luna sniffed once, then dismissed entirely.
+
+They weren’t food. Not interesting.
+
+Not even shiny!
+
+She trailed after them with her hands clasped behind her back, tail flicking lazily as boredom crept in.
+
+Until–
+
+They stopped at one particular place.
+
+The smell hit Luna first.
+
+Metal. Heavy and sharp. Leather, thick and treated. Oil and smoke and something faintly burned into the air itself.
+
+Luna’s ears shot straight up as she stepped inside behind them.
+
+Oh.
+
+The shop was full.
+
+Armor lined the walls. Weapons gleamed from racks and stands. Plates and mail, blades and shields – hard, shiny things reflecting light in strange, serious ways. Luna’s nose twitched furiously as she took it all in.
+
+Her eyes locked onto one familiar shape.
+
+That armor looked like Sepio’s!
+
+She bounced over instantly, hands reaching out before anyone could stop her, grabbing the piece cleanly off its stand.
+
+“Oy! Careful lass, it’s heavy!” the shopkeep barked, half-alarmed.
+
+Luna let out a small grunt–
+
+–and lifted it above her head with little trouble.
+
+“Hrm. Do not worry. The girl is strong,” Veric commented mildly.
+
+Sepio pinched the bridge of his nose.
+
+“Luna, don’t make a mess here.”
+
+She was sniffing it now, turning it slightly, tilting her head.
+
+“And be careful not to damage it,” Sepio added. “Or anything else here.”
+
+The words registered just a moment too late.
+
+Luna started spinning the armor above her head, tail wagging with delight.
+
+“Oh! Kay! Luna careful!”
+
+She stopped abruptly.
+
+Very carefully, she placed the armor back onto its stand, adjusting it until it sat just right. Then she stepped back and stood still.
+
+Very still.
+
+Hands at her sides. Eyes wide.
+
+Waiting.
+
+Watching!
+
+Veric and Sepio resumed their business, testing fits, lifting weights, exchanging words with the shopkeep in a low, steady back-and-forth. Luna followed the conversation for about five heartbeats!
+
+Then her mind wandered.
+
+Her gaze drifted across the shop again. All these shinies. All these hard, heavy things. All bought with coins.
+
+Slowly – very slowly – it clicked.
+
+The meaning of shinies having worth!
+
+If all of this could be bought with useless little metal discs…
+
+Then humans were weak!
+
+Kinda!
+
+They needed all these rituals. All these thingies. Clothes to protect their skin. Weapons to make their bites sharper. Armor to stop other bites.
+
+Luna flexed her fingers.
+
+She had fur!
+
+And claws.
+
+And bitey bites!
+
+Humans were like newborn pups! Needed all these weird things just to get a fraction of Luna’s power!
+
+Hehehe!
+
+Yes. Yes, it all made sense now!
+
+Luna threw her head back and laughed.
+
+Veric glanced at her.
+
+Sepio frowned.
+
+The shopkeep looked deeply confused.
+
+Luna just grinned at them all, utterly pleased with herself.
+
+Luna was a genius!
+
+They returned to talking.
+
+…A very, very bored genius.
+
+Wooo…

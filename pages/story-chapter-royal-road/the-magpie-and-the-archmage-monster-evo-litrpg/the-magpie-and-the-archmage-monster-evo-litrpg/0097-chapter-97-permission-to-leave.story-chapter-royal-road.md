@@ -1,0 +1,197 @@
+---
+id: f5ad2dff-d3c2-5cb3-95a8-93d930538e3a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 97 – Permission to Leave"
+slug: 0097-chapter-97-permission-to-leave
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 97
+ownLength: 1893
+unit: words
+publishedAt: 2026-03-16
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3156863/chapter-97-permission-to-leave"
+royalRoadId: "3156863"
+---
+
+Repeat the incantation carefully and make sure to imagine the metal bars rusting.
+
+Can't we just make them disappear or something? Or maybe I could just put the cage in my Inventory.
+
+You need to be able to lift the thing you want to put in your Inventory. Otherwise, people would start putting all sorts of weird things inside.
+
+Bummer. What about that magic to make the cage disappear?
+
+We could do that. By creating a giant explosion, but then you'll disappear along with the cage.
+
+Okay, point taken…
+
+By breath and damp, by time denied…
+
+"By breath and damp, by time denied," Liora repeated quietly, but clearly.
+
+Rust, obey, and bloom inside.
+
+"Rust, obey, and bloom inside," she finished while clearly imagining rusted metal.
+
+At first, nothing seemed to happen, and Liora thought she had failed. But then she could see the metal bars change. Their color went dull at first, then little specs of rust appeared in the corners and continued spreading through the cage. Before long, most of the cage looked like it had been staying in a dumpster for a century—rusted to absolute hell.
+
+Good job! Thank God for you upgraded Mimicry. You don't even need to hear me say the incantation to say it properly.
+
+Maybe I should learn some of those. It's easy magic.
+
+Incantations tend to require more mana, which you sadly are still lacking. But there are still a few I could teach you. But let's get out of here first.
+
+Liora pulled on the bars with her talons, and they crumbled away as if made from dried clay rather than metal.
+
+"Wow! Do that to me too!" Cee urged.
+
+Liora nodded, repeating the incantation on Cee's cage too. She did use up most of her mana to get them both out, but it was worth it. Cee's cage also rusted, and Liora could pull the bars away to free her spidery friend.
+
+"Let's get out of here!" Cee said, and the two of them looked around the room.
+
+It looked like some sort of guest room with a single bed, a small table, and a wardrobe. Liora's and Cee's cages had been placed in the middle of the room on the floor. There was a single window near the bed, which was their most likely ticket out.
+
+"Should we just bust the window or be more subtle?" Liora asked.
+
+"Let's try to be subtle first. If it doesn't work out, then we bust out," Cee suggested.
+
+"Sounds good to me."
+
+Liora flew up to the window, trying to check the opening mechanism. There was a little hook that held the window in place, so she pulled it out with her beak. After that, she pushed on the window to open it up. But it wouldn't budge.
+
+"That's odd… I should be strong enough to open it," Liora wondered.
+
+"Let me help," Cee said, jumping up on the windowsill. Together they pushed on the window, but regardless, it wouldn't budge.
+
+Oh no… That damn Morgana!
+
+What? What's going on?
+
+This room must be warded. You can't break out unless you undo the ward. I knew it felt too easy when she just left you two here without worries.
+
+"The room is warded," Liora hissed out.
+
+"Warded? Like magically sealed?" Cee asked.
+
+"Yeah, apparently we can't get out unless we undo the ward."
+
+"Let's undo the ward then!"
+
+Impossible. That would require you to actually understand the set ward and disassemble one component at a time. As somebody who relies on instinct, I don't think you'll ever be able to dismantle wards. Maybe Cee could learn it eventually, but currently it's impossible.
+
+"Apparently, we can't…" Liora grumbled.
+
+"Can Renir do it?" Cee asked.
+
+Hmm… It's a bit risky, and I'm not sure if I have enough mana to do it. Depends on the complexity of the ward.
+
+Help us out here! I don't want to be at Morgana's mercy.
+
+Okay, okay. But I make no promises. I haven't even recovered all my mana yet, and my abilities are severely limited.
+
+Liora withdrew Renir, materializing him in her beak.
+
+"Put me up to the window," he said in a whisper.
+
+Liora obeyed, pressing the gem gently against the window. Renir was muttering something to himself, but Liora just basked in his beauty. It's been a while since she'd seen Renir's glorious gem form. Those golden lines running through his body looked quite beautiful. Almost like veins, except made of gold.
+
+Suddenly, she felt a sharp poke in her side.
+
+"What?" She muttered.
+
+"You're drooling!" Cee pointed out.
+
+"Right on me! Gross!" Renir complained quietly, likely not daring to raise his voice.
+
+"Sorry, sorry!" She hurriedly took him in her talons and withdrew a small cloth she had snatched from Cyene. It was a special Renir polishing cloth, which she used to clean him up.
+
+"Better. In either case, I can't break this ward. It's too complex, and I don't have enough mana for it," he informed them.
+
+"Bummer…" Cee drooped.
+
+Liora put Renir back in her Inventory and flew to the door, peeking underneath it. There was a small gap between the door and the floor, so she tried to push one of her talons through. However, as if there was some invisible barrier, she couldn't push past a certain point.
+
+Doors, windows, it doesn't matter. You could bust down a whole wall, but that wouldn't change the ward. You would still be trapped inside.
+
+What about when Morgana enters? Will we be able to fly out the door?
+
+Yeah, wards work both ways. To get in, you need to open it. So you will have an opening once Morgana returns.
+
+"It seems we have hope," Liora said and explained everything to Cee.
+
+They both agreed to keep a steady watch on the door at all times. The moment somebody approached, they get ready. The moment somebody opened the door, they both trigger their sneak skills and bust out.
+
+"You go to sleep first. I'll keep watch. I feel you're more drained than I am," Cee offered.
+
+"Thank you. Wake me up in like 3-4 hours so you can rest too."
+
+So Liora settled down in bed. It wasn't the softest or comfiest bed in the world, but she was a bird. She didn't want to sink into the mattress. This was a good resting spot, which allowed her body to relax.
+
+Her mind, however, was haunted by the images of dead mages. She could imagine the taste of their blood in her beak. Why did it have to go that far?
+
+Don't think about it, little thief. By killing them, you've saved a whole region from a horrible disaster.
+
+But why did I have to be the one to kill them?
+
+It's hard… I know, it changes you. I was much like you after my first… kill. But we both know you did the right thing. Here, let me help you sleep. I'll explain to you the theory of ward making.
+
+Renir went on with his lengthy explanation of the intricacies of wards. His monotone, calm voice and the boring topic allowed Liora's mind to relax and drift off to sleep.
+
+Later on, Cee woke her up gently. Liora didn't know how much time had passed, but she felt like the spider had given her more than four hours to sleep. She felt quite well-rested.
+
+The moment Cee had made herself a cozy web in the corner, the spider instantly fell asleep. It was hard to tell the difference between a sleeping and awake spider, but Liora had already learned the signs. Her legs were tucked close to her body, and while Cee couldn't close her eyes, she was unresponsive while asleep.
+
+Liora took her guard position by the door and listened carefully. A few times, somebody walked by their room. At one point, there was a distinct murmur of voices somewhere in the Guild. But nobody approached their room until morning.
+
+Only when the sun was starting to rise, and Liora was bored out of her mind, entertained only by Renir's magical mambo-jumbo, did something happen. Resolved footsteps neared their room.
+
+Liora hurriedly flew up to Cee's corner and poked her awake. "Cee, wake up!"
+
+The spider didn't react right away, but after the third poke, she began to stir. The footsteps came even closer and stopped in front of the door.
+
+"Get ready to Shadow Walk," Liora warned quietly.
+
+"I… Yes!" Cee got her bearings quickly, jumping near the door. Liora also flew close and got ready.
+
+"Good morning, beasties!" Morgana swung the door open.
+
+At that moment, Liora Faded and Cee disappeared into the shadows. She flew straight past Morgana, halfway expecting something to stop her, but no. She got out into the corridor without any issues. She just needed to get out of this building.
+
+"Aww, they ran away. Oh, no! What will I do with this Resonance Crystal and Compendium of Monster Evolution?"
+
+Liora stopped, her Fade running out and her reappearing. A second later, Cee also reappeared near her, her Shadow Walk having run out too. Both of them shared a look, then glanced at Morgana.
+
+In one hand, she held a translucent gem cut in a perfect round shape, which shone brilliantly under the light. Liora wanted it.
+
+"Liora, don't fall for it!" Cee protested, but Liora could see that the spider was eyeing the book.
+
+Grab the Resonance Crystal!
+
+Liora flew at the woman, ready to snatch both the crystal and the book out of her hands. But to her surprise, Morgana dodged with an effortless sidestep. Liora gave chase, flying from above, the sides, and below, but no matter how hard she tried, Morgana always managed to dodge.
+
+She even tried Fading and catching the woman by surprise that way, but then both items disappeared from her hands. Liora realized that she had been toying with them this whole time and could have put them in her Inventory at any moment.
+
+"No cheating, birdie! If you want these, you're going to have to work for it," Morgana laughed.
+
+"I already worked hard. We helped you to get rid of those crazy monsters, and I was the one to kill those crazy mages," Liora protested.
+
+"That's right! We deserve a reward," Cee added.
+
+"I'll pay you for that," Morgana said.
+
+"Pay?" Liora landed on a nearby chair, curious.
+
+"That's right. I'll pay you fairly, just as I pay my crew, and prepare a Guild Ring for the spider. After that, you help me with another task, and I'll give you the items you so crave. And I'll help you charge the Resonance Crystal along the way," Morgana said. "Oh, and no magical familiar talk for now. I see that you're strongly against it. We can revisit that option after we finish our next task."
+
+Liora and Cee shared a look. It was a tempting offer. Morgana wasn't forcing them to be familiar anymore. She was offering them exactly what they wanted and money, too. Imagine all the food she could buy. Or better yet… Shinies!
+
+"No more cages!" Cee demanded.
+
+"No cages!" Liora agreed.
+
+"No cages," Morgana nodded.
+
+This isn't a bad deal. Although it does depend on what she wants you to do.
+
+"What is this task that you want us to do?" Liora asked.
+
+Morgana smiled.

@@ -1,0 +1,167 @@
+---
+id: c55a173d-fd96-5474-9716-402bfd1ed66c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12: Beauty in the Eye of the Beeholder"
+slug: 0012-chapter-12-beauty-in-the-eye-of-the-beeholder
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 12
+ownLength: 1870
+unit: words
+publishedAt: 2026-07-29
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3741512/chapter-12-beauty-in-the-eye-of-the-beeholder"
+royalRoadId: "3741512"
+---
+
+Hecate snapped her fingers. The flame extinguished without a sigh at the command.
+
+“Mellie…” Within Marina’s arms, she held onto Mellie’s motionless body, now radiating a natural warmth; her dim heartbeats pulsed with a newfound hope.
+
+“She is a strong girl,” Hecate said. “Stronger than the cruelty of this realm.”
+
+Indeed. To be able to survive under the effect of Hecate’s Authority, even at a weakened state, was an achievement in itself. Marina had seen what these powers could do; they killed with ease and saved with a cost. Even Hecate, who was cold to everyone they encountered so far, shed a tone of emotion for the young girl.
+
+“Mellie will be fine now, right…?” Marina asked.
+
+“Indeed, it’s only a matter of time before her senses return to her.” Hecate lit up a pile of twigs before sitting next to Marina.
+
+She let out a sigh of relief. “Hecate…”
+
+“Yes, my dear.”
+
+“I have been wondering, due to all the dangers that we faced in the last few hours,” Marina paused to meet Hecate’s gaze. “What happens to the people who die here? Do they also get a second chance? And what would happen to me if I were to die again?”
+
+“Forgive me, but I have barely a clue about the afterlife of those who have died here.”
+
+The response was disappointing, but it also made sense. Asking a living being about the aftermath of death was utter foolishness.
+
+“I see.” Marina tossed a twig into the fire. “I hope they get to go to Heaven.”
+
+“Heaven? I have heard that many times. Is that what most Redeemers believe in?”
+
+“I suppose. People are afraid of unsatisfactory closures,” Marina peered into the distance. “No one likes tragic stories, Hecate. Everyone wants to see a happy ending.”
+
+To her, Heaven was one such happy ending that people craved, maybe one that she too craved at some point. A utopia high above the clouds, above the universe itself, where souls rested and were freed from their mortal duties. A place of finality and judgement told through millennia of legends, a place people spent their entire life yearning for, and yet, no one lived to tell its tale. Marina never aimed for Heaven, but she also wasn’t prepared to be cast into Hell.
+
+Hecate stared at the small fire. “Even if this ‘Heaven’ is worse than where they started?”
+
+“Even if it’s worse, it’s still better than floating in an absolute pitch-black void.” Marina shrugged. “I wanted to go to Heaven, not because I wanted to do anything in particular, but it’s more of not being forced to do something in particular.”
+
+“Then I must apologize for the Underworld for summoning you here.” Hecate giggled.
+
+“At least I’m being forced to do something I wanted to do, and I also get to be my own boss this time.” Marina tossed another twig into the sputtering bonfire. “And this adventure has been quite… interesting.”
+
+“I thought you’d be more of a thrill seeker, running into the woods alone, as you did.” Hecate teased.
+
+“Well, that was an accident!” Marina quickly lowered her voice, realizing she may have disturbed Mellie. “When I was a child, I did use to run into the woods all by myself, and I got yelled at by my parents many times, but I guess that was part of the fun. But nowadays, I would prefer to live a life without any surprises.”
+
+Hecate raised a brow. “Did someone also give you those etiquette lessons as well?”
+
+“Not anyone in that sense.” Marina shook her head. “But as I grew up and looked at the world around me, I sort of wanted to do things differently from what was expected of me. So I guess if there were someone who did teach me etiquette, it’d have to be society itself.”
+
+When she first left home for college, there was an excitement one would expect a child to have at the entrance of an amusement park. She grew up in a small town, and things were rather uninteresting. The same people, the same places, and the same roads. Day in and day out. She attempted at adventuring the woods many times, but all of her attempts were cut short by her neighbors, who would bring her back to her parents to be scolded. Life was slow, and the acceptance of new ideas was even slower.
+
+Her university was located in a city, and her first day was a memory that lingered in the back of her mind. The weather was gloomy that day, and the chilly autumn wind pierced into her skin. Thick city air seeped into her lungs as she breathed, filled with the scent of fresh paint from a refurbished storefront nearby. Cars lined the intersection, and people gathered around the sidewalks at the ticks of the traffic timer. Everything was fast, chaotic, and disorganized. Yet everything moved with purpose. Marina walked along the cityscape, carrying only a backpack. She didn’t own much. Just like everyone else, she waited at a crosswalk, waited for the timer to hit zero. Around her were people from all walks of life. In one intersection, she was walking next to a construction worker; in the next, it was businessmen in fancy suits and gold watches. But despite the difference in class, they all did the same. They kept quiet and kept walking. That was Marina’s first etiquette lesson, from no one but society itself.
+
+“I suppose the same is with me.” Hecate agreed.
+
+Marina felt a small movement on her lap, from Mellie. She leaned in for a closer look. “Hecate. I think Mellie is trying to say something.”
+
+“She said she needs water.” Hecate caught the faint whisper as she reached into her satchel and extracted a white chug made of quartz, decorated with a large sapphire at its center. Luxurious, like all things Hecate-related.
+
+“That looks expensive.” Marina watched as Hecate carefully poured the contents through Mellie’s chapped lips.
+
+“I have had this since I was a child.” Hecate recapped the chug after she was done. “It is an intriguing toy.”
+
+“A toy?” Marina raised a brow.
+
+“Yes, it has an interesting property of transforming ordinary spring water into the taste of whatever beverage you desire,” Hecate explained. “Would you like to try?”
+
+“Sure, why not? I’m bored anyway.” Upon picking up the chug, Marina was surprised by its weight. It was not heavy at all. “Does it work with non-spring water?”
+
+“In theory, it should, though I’ve never tested; I only drink spring water after all.”
+
+I guess peasants like myself only grow up on tap water. Marina uncorked the fancy chug before taking a sip. “Oh wow, it actually does taste like lemon soda, even has the carbonation.”
+
+“You can keep it, my dear.” Hecate smiled.
+
+“Huh? Wait- there is no way I can accept something like this, I’m–”
+
+“You are enjoying it, aren’t you?”
+
+“Yes, but–”
+
+“Then that is all that matters.” Hecate insisted. “Just treat it like my contract gift.”
+
+The last time Marina received gifts was around a year ago from a client. Most of the gifts she received from work aren’t so much gifts but more like owed favors of sorts. Hecate treated the chug like a toy, but a toy to her might just be the treasure of another.
+
+“F-fine, if you ever need it back, just tell me.” She opened the System [Inventory], and the chug disappeared from her hands.
+
+“Ugh.” Mellie whimpered, slowly lifting her head off Marina’s lap.
+
+“Mellie! You’re awake.” Marina exclaimed, helping Mellie to a sitting position.
+
+“W-who are you people?” Mellie scratched her head.
+
+“I’m Marina,” She pointed. “And she is Hecate, my assistant.”
+
+“Pleased to make your acquaintance.” Hecate stood before bowing.
+
+“Marina…?” Mellie repeated. “Such an odd name, but I felt like I’d heard it before.”
+
+“Technically, you have.” Marina smiled awkwardly.
+
+“Are you two from the cities?” Mellie asked. “We barely get any outsiders around these parts.”
+
+“Indeed, we are,” Hecate replied.
+
+Marina was unsure if Hecate also lived in a city before stumbling her way here. If that were the case, then it wouldn’t be too far from the truth.
+
+“Must be nice…” Mellie murmured. “Thanks for saving me.”
+
+“Yeah, no problem,” Marina grinned. “We were just passing by.”
+
+“Passing by?” Mellie glanced around the opening. “Did you see the Guardian when you arrived?”
+
+“Uhhh, the big running tree, right?” Marina described it the best she could.
+
+“Yes, that’s it. I remembered that it was disturbed by something, so I rushed to check. Moments later, everything went black.” Mellie reminisced about the events. “Was the Guardian okay?”
+
+How could anything that dared charge head-on towards Hecate end up okay? Marina smashed her lips together, trying to sort out an explanation. Arguing for self-defense was the most probable solution, but Hecate’s final strike was much more than being defensive.
+
+“Uhhh, about that…” Marina slowly turned to Hecate, who gave her a nod of confirmation. “It’s over at the clearing.”
+
+Leaning against a tree for support, Mellie stood up to get a better look. Through the clearing was a pile of neatly chopped wood, its color perfectly resembling the tree that the Guardian once was.
+
+Her eyes widened. “H-How… W-who did this…?”
+
+“Well…” Marina decided to speak the truth. “When we were making our way here–”
+
+“I did.” Hecate blurted. “I was the one who committed this murder.”
+
+“Why?” Mellie turned around, shooting a glare at Hecate.
+
+“I was unsure of its intention; it had charged at me, so I assumed it to be a threat,” Hecate said.
+
+“No one in my village can match the strength of a Guardian.” Mellie sighed as she paused her interrogation. “Much less to slay one. You are powerful, and I cannot match your strength. But I beg for one small request.”
+
+“Please.” Hecate nodded.
+
+“Everything that we take from this forest shall one day return to the forest.” Mellie stumbled into the clearing before Marina rushed to help. “We need to give it a proper burial.”
+
+“What shall I provide?” Hecate asked.
+
+“The Guardian is an indestructible order-keeper of the forest; it cannot be hurt with ordinary flames.” Mellie glanced at Hecate. “But Miss Hecate, I believe you wield the power to do so.”
+
+“Then I shall give my best attempt, Abyssal Technique…” Hecate commanded, her blood-red eyes began to glow faintly. “Eruption!”
+
+A light brighter than the rising sun blinded Marina’s vision in an instant. She covered her face, bracing against the powerful heatwave that followed. What the fuck?! Marina cursed in her mind. Did she detonate a bomb or something? I thought we just needed some fire.
+
+As the heat subsided, Marina slowly opened her eyes, wanting to reason with Hecate. But in front of her was Mellie, who stood with both of her hands wrapped together. She whispered a phrase, or rather a verse, that Marina believed to be a prayer.
+
+The flames continued to burn, and Mellie continued her prayers.
+
+Line after line, verse after verse. And at its presumed finale, Mellie bowed before whispering one final word.
+
+“What does that mean?” Marina whispered to Hecate, who now stood beside her
+
+“It means… goodbye.”

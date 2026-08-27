@@ -1,0 +1,151 @@
+---
+id: 5b8d1381-5325-53be-997f-2bcbbf0c6735
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1 : Meeting Gramps"
+slug: 0001-chapter-1-meeting-gramps
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 1
+ownLength: 1487
+unit: words
+ownProgress: 1487
+publishedAt: 2023-12-05
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/1432932/chapter-1-meeting-gramps"
+royalRoadId: "1432932"
+markedReadAt: "2026-06-29T19:41:49.204Z"
+---
+
+I died. At least, that was all that I could remember. I was unsure how it happened or even who I was, but I was positive that was the outcome.
+
+While trying to make sense of the situation, despite my lack of memories, a thought came to me intuitively: I should open up my status menu. I focused my mind as if I'd done this many times, and a window appeared within my subconscious.
+
+Name: ?̶͈̮̹͇͐̽̀͊?̶̺̱̲̪̻̼̫̞͛̉͜͠?̸̛̭̖̲͇͈̬̖̮̐̒͘͜?̶̦̼͓̄̓?̷̛̜̒̏̈́͌?̵͓̦͈͉͈̔͝͠ ̷͙̙͙̫̏̇͂̽͠?̴̭̽̃̽?̶̪̻͙̟̪̜̰̭̟͋̏̊̈͆?̸̨̭̰͓̼͓̑̃̊́͘?̴̻̲̤̣̰͚̺͐̌̔̌̿̃͜?̵͕͇̹͚̰͍̹̻̖͑͊?̴̪̰̈̏̀͒̂͜͝͠?̴͕̖̯̠̼͙̓̌͘͜
+
+Race: ?̷̢̭̥͎͎͚̉̈̅͗̕?̵̧̧̛̩̭̹̗̍̾͐͒̓?̸̢̨͔̥̘͔̠̻̌́͛̌̓́̌͝͝?̴̛͕͑̉͂͐̆̕?̸̡̛̳̖͍̦̩͓͓̤̏̋̽͝
+
+Class: ?̴͎͎̱̘̗̣̭̖̥͊͜ͅ?̸̢͉̈́̀͒̈͊̏̀͑̎̌͐̇?̶̨̨̩̝͖̞̖͔̘͎̟͉̓̃̓̌͗̆̿̈́̕?̵̧̛̖̻͙̱͉̔̔̇́̃͒̉̐͋̈̌̔
+
+Status: Dead
+
+Unfortunately, it provided no help other than confirming I was dead.
+
+Thank you, Captain Obvious...
+
+I continued floating in the endless void for what felt like an eternity until a simple wooden stool appeared. I stared at it briefly and then suddenly found myself sitting in it.
+
+Well, I was getting tired of floating...
+
+"Ah! You've finally arrived. Greetings, a loud but cheerful voice suddenly entered my mind.
+
+"I can't believe you died in such a ridiculous way. I don't think I've ever seen such a waste of 5 Reincarnation Points." As he continued talking, I got the mental image of a grandfather.
+
+I looked around but could not find its source. I would have opened my mouth to speak, but it seemed like I didn't have one. I was unsure how I was even sitting since I couldn't see my body.
+
+Reincarnation Points? That sounds familiar, I thought to myself.
+
+"Indeed it should! In your previous life, you had many accomplishments and died a spectacular death, earning a boon for the world and a feast for us." The voice answered as if reading my mind.
+
+What!? I tried to interrupt with my thoughts screaming, but the voice continued.
+
+"Because of this, we rewarded you 5 Reincarnation Points for your next life to get a head start. You spent your first point to be born a noble, your second point to be a prodigy, and your final 3 points to unlock Dimension Magic. Honestly, you were practically built for greatness, and we thought your previous feast would pale in comparison. It should have been a banquet!"
+
+I'm sorry? I don't even know how I died.
+
+I felt a crushing disappointment, like the grandfather who once was proud of me was giving me a scolding.
+
+"You were poisoned on your birthday by your older brother."
+
+On my birthday, seriously!?
+
+"I suppose he felt his inheritance as the firstborn was severely under threat by a walking prodigy showing off a legacy magic. Honestly, this is one of the reasons we should get rid of noble being a reincarnation option."
+
+How was I poisoned? Surely they tried to save me if I was a noble?
+
+"You dug into your favorite cake like it was about to sprout legs and run away. You were going at it so fast that people thought you were merely choking, which unfortunately gave the poison enough time to do its job."
+
+I felt so ashamed even though I didn't remember any of this. I stared into the void, wishing to disappear. I couldn't believe that my past self was such an idiot.
+
+"Anyway, it's time for your next life. Unfortunately, you earned no Reincarnation Points because you didn't accomplish anything noteworthy this time."
+
+Guilt. Shame. I closed my eyes, hoping for the mental lecture to be over.
+
+"However, your soul has a pretty good track record, and I feel you did not get your fair chance. Not to mention being poisoned on your birthday..."
+
+A second chance? A do-over? I felt a small bubble of hope blossoming.
+
+"Not quite. We can't just give points away."
+
+Bummer, I guess there's no such thing as a free meal.
+
+"However, we do run experiments on new reincarnation options to see if they have any future potential. Instead of having a default life, could I put you in one of these experiments?"
+
+Although he was giving me a choice in the matter, I felt an otherworldly pressure telling me that I needed to accept, or he would be disappointed in me. I wasn’t sure why I wanted to impress this disembodied Grandpa, but I was sure I could do it this time. I just needed to stay away from any poisoned cake.
+
+It sounds like an upgrade over starting with nothing, so sign me up!
+
+"Excellent! I'll get the paperwork in order."
+
+Wait, I have some questions...
+
+The sound of a book being slammed shut echoed in my head, and the stool I was sitting on disappeared beneath me. Suddenly, I felt myself begin to fall into the void below.
+
+Is he rushing this so I can't change my mind? What sort of experiment is this?
+
+"Enjoy your next life. I expect big things from you!"
+
+That was the last thing I heard before the void below ripped open into a blinding light, and my consciousness faded.
+
+The blinding light slowly began to fade as I started to hear life around me. Around me, I heard birds chirping, the rustling wind, water trickling, and something... sloshing?
+
+I tried to blink but couldn’t seem to. Eventually, I started making out shapes, which slowly came into focus. I saw the sky above me, the ground below me, a nearby stream, a forest in the distance, and what appeared to be a city with very high walls. Many round blue shapes around me seemed to be bouncing around.
+
+Wait, why can I see so much all at once? I didn't even turn my head?
+
+I tried to move my body but seemed to fall over and roll forward. However, my vision didn't change with my body's orientation and continued to come into focus.
+
+Do I have a full 360-degree vision? That seems very good, is this Grandpa's blessing?
+
+My vision focused more, and I saw that the blue ball shapes had a rather liquid-like texture and had a colored jewel in their center. My mind was tickled with the answer.
+
+Why am I surrounded by slimes? I asked myself before I screamed out in horror. Status!
+
+Name: -
+
+Race: Slime (Blue) LV 1
+
+Class: -
+
+Status: Healthy
+
+Grandpa... why did you turn me into a slime? This feels more like a punishment than an experiment. Is this because I wasted your Reincarnation Points?
+
+Unfortunately, my thoughts went unanswered as I watched the slimes around me going about their business. A few seemed to be “eating” some plants by slowly dissolving them, which they did by engulfing them inside their slime body. Other slimes were sitting lazily by the stream, others seemed to be trying to jump or bounce, and two larger ones were even chasing after a rabbit.
+
+Deciding to see what my new slime body looked like, I attempted to head toward the stream. Thankfully, moving my new body came to me without too much difficulty, almost instinctually. Upon reaching the stream, I got close enough so that my reflection was within range, where I saw a blue slime with a crimson-red core. I moved erratically to confirm the owner of the reflection.
+
+Damn... I really am a slime.
+
+I looked at the closest slime nearby, whose core was also a reddish color, although, compared to my own, it seemed much more dull.
+
+At least my core is a rather vivid color.
+
+My self-reflection was interrupted by the arrival of humans carrying baskets full of jars while some of the scruffier-looking ones were carrying buckets.
+
+Humans from that nearby city, I'm guessing. I hope they don't mean any harm. My fellow slimes don't seem to be panicking.
+
+The humans spread among the slimes, and I watched one of the first pick up a slime with one hand. After placing their basket carefully, they held the slime over one of their many jars, and he unsheathed a belt knife. Horror filled my mind as I watched the human cut into the slime, and the jelly was amputated from the slime and deposited into the jar below.
+
+Or are they just too stupid to know any better!? I screamed as I watched the humans, one after another, follow the same steps.
+
+I immediately started trying to run away, thinking I could get to the forest away from this slaughter. My 360-degree vision gave me the perfect horror show as I watched a child run to catch up to me.
+
+Nooooooooo!
+
+The boy grabbed me and threw me into his bucket as I tried to squirm and get away throughout the process, but it was futile. His childlike strength was Herculean in comparison to my jelly muscles.
+
+"Xxxxxx xxxxx xxx'x xxxxxxxx xx xxxx..." The boy said something, but I couldn't understand the words that came out. He pulled out his own knife, which looked well-used and looked after.
+
+Please let me go! I don't want to die again!
+
+The boy couldn't hear my screams as he brought the knife down.
+
+I'm sorry, Gramps... Looks like I'll be seeing you again shortly.

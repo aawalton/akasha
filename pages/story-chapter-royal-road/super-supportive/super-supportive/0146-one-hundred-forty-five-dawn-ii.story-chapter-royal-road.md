@@ -1,0 +1,379 @@
+---
+id: e6c49dc9-99b1-5be3-ae7a-9d58c1b2a30f
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED FORTY-FIVE: Dawn II"
+slug: 0146-one-hundred-forty-five-dawn-ii
+partOf: super-supportive
+position: 146
+ownLength: 4931
+unit: words
+publishedAt: 2024-06-03
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1661784/one-hundred-forty-five-dawn-ii"
+royalRoadId: "1661784"
+---
+
+145
+
+******
+
+Alden lay in a bed so perfectly molded to his body that moving seemed like it would be ungrateful. The healer had told him to pick any room he wanted in the hospital, and the one he’d chosen for himself was completely quiet and very dark except for a nightlight with a friendly pinkish-orange glow.
+
+This was the second time he’d woken. The first had been when the small oval drone assigned to him had started gently chirping to let him know it was time for him to take some potions. Even though he was sure it had only been minutes since his eyes closed, he’d obediently rolled over and accepted its offerings. After downing the drinkable ones, spraying the sprayable ones, and saying “pierce” to every injector, he’d tucked himself right back in and fallen asleep again so quickly that he probably wouldn’t have argued if someone had tried to convince him he’d dreamed the whole interruption.
+
+Now he was fully rested, but he had an urge to close his eyes again and pretend that he wasn’t.
+
+The clean, peaceful room separated him from whatever reality was like out there right now.
+
+They hadn’t sent anyone to poke at him, and nobody had come to deliver bad news. There was no blood here, very little pain, no burdens too heavy to bear.
+
+And instead of trying to kill him, the water ran harmlessly from the bathroom tap like water was supposed to.
+
+His only companion was a small snake who’d been upgraded to a square plastic tub with holes poked in the lid. While the Brute doctor was bandaging Alden up after his shower last night, he had asked her if they had anything that snakes could live in, and he had gotten this. Plus a shallow lid he’d filled with water.
+
+The snake was mostly hiding in its bento cave in the corner rather than exploring the larger container. Alden understood.
+
+Here in his own hiding spot there wasn’t even a window to expose him to the outside world. A fake one could be created along the wall to his left; he knew because it had been active when he first entered the room. But he’d turned it off with a simple verbal request and now the wall stood there, solid and comforting in its plainness.
+
+I should want to get up and find out what’s happened.
+
+To Zeridee, to Anesidora, to Earth, to everyone.
+
+He didn’t.
+
+This reminds me of something.
+
+He pursued the feeling because doing so gave him another excuse not to leave the bed.
+
+Yeah. There it is.
+
+When he’d been a child in the House of Healing, after his parents’ deaths, there had been a stretch of time like this. An hour when he’d started to suspect the terrible truth—why aren’t they here with me when I’m hurt, and why won’t anyone answer my questions with answers that make sense?—but he didn’t actually know yet. Until you knew for sure, there was a chance that everything was what you wanted it to be.
+
+This moment was like that. Like the room was protecting him from whatever came next.
+
+How bad do I really think it all is then?
+
+Logically, the world was still out there. Moving along. If Earth evac had gone forward while he slept, he was reasonably sure somebody would have woken him.
+
+So it was less terrible than that at least.
+
+Maybe it’s not even very bad.
+
+He didn’t believe that. He just had this sick fear in his gut that something he cared about would be broken. Something would have been taken.
+
+He had never known of tragedy to leave him out when it came to things like this.
+
+Zeridee. I’ve lost my sense of her. Does that mean…?
+
+Or something will have gone wrong back in Chicago. Or someone will have noticed my auriad—a doctor here, Esh-erdi, a drone I didn’t see while I was breaking into that house.
+
+After catastrophizing in that vein for a while, the bed didn’t feel nearly as comfortable.
+
+With a sigh, he rolled out and let his feet—one bare, one squishbooted—hit the cold tile floor. He went about every chore he could find for himself slowly.
+
+Taking stock of his injuries occupied several minutes. The left hand had been doused in ointment and re-covered with the exact same kind of grabby-sucky bandage as before. He’d been told it would need more attention when he woke up.
+
+The foot in the squishboot would probably be staying in the squishboot for a couple of days. It was a dynamic gel cast very similar, in appearance at least, to the one he’d seen Stuart wearing at LeafSong. Neato healing footwear. It held everything in place, and Alden could put weight on it without feeling like he was putting much weight on it. Though that did make walking odd, like he had an appendage that wouldn’t give him the right feedback even as he did all of the usual things with it.
+
+The shoulder was doing a lot better already, and everything else was just a mess of scrapes and bruises. He’d gotten one look at the side of his face that had been dragged across pavement and rooftop, and he was really glad that they’d covered it with bandaging. He looked like he’d made enemies with a cheese grater.
+
+What was the point of letting Rrorro rid you of a lifetime’s worth of damage if you were just going to beat yourself up like this?
+
+Finally, Alden tried to make his first attempt to interact with the world by bringing up his interface. The first thing he noticed was the time. “No wonder I feel rested.”
+
+Discounting the interruption from his little pharmaceutical friend, Alden had slept for fifteen hours. His internal clock was hopelessly off now. It felt like morning, but it was just after 11:30 PM on Saturday night.
+
+There were a ton of notifications. One of them said communications were back up and running for all Avowed.
+
+“System, place a voice call to Aunt Connie.” He was sure she’d want to hear from him even if the hour was late, and he wanted to know what had happened with her, since she was one of the two people with whom he’d chosen to share his early priority for apocalypse salvation.
+
+[Calls to and from Matadero are limited to authorized individuals.]
+
+Alden read the words.
+
+Oh…well, that kind of makes sense.
+
+There was nothing of interest, in his opinion, for him to tell people about the facility. But the policy for Avowed working on Matadero had always been secrecy and silence.
+
+“Can you at least notify her that I’m alive and not allowed to call her yet?”
+
+After getting a confirmation that that was possible, he considered his situation.
+
+I’m literally in the cube right now. I’m not supposed to be here.
+
+B-ranks couldn’t even join the battlegroups that fought here. And almost exactly twenty-four hours ago, Alden had been nervous about seeing the place from a distance, from a boat, with friends. Upon his arrival, he’d been so relieved to be alive and in the company of competent adults that he hadn’t let the location weigh on him.
+
+Now that he’d slept an entire day of his life away in this place and had serious thoughts about establishing this room as his personal hermit hideaway, it seemed kind of silly to be scared of it. He was here. Chaos wasn’t. So…it was just a bigass building.
+
+With comfy beds. And surprisingly inattentive medical personnel, considering how long he’d been left to his own devices. Unless they’d come to check on him while he slept, and he hadn’t even noticed?
+
+It suited him fine.
+
+Even the clothes were all right. The stuff he’d come in with had been confiscated and probably declared a biohazard since it had been steeped in blood and city soup. In exchange, they’d given him drawstring patient pants with short wide legs that went easily over the boot and a gown that tied at the side. The dirty sandals he’d stuffed in his bag earlier were still with him, but he’d rather just walk around on the hospital sock they’d given him for his uninjured foot.
+
+No complaints from me if socks with grippy bottoms are the most exciting thing they’ve got going on here at Matadero.
+
+As he swiped the “no calling out” notice away, a new thought occurred to him: They’re not going to make me get a tattoo before I leave, are they?
+
+Haoyu had said both of his parents had secrecy contracts about the facility and what happened during the fights, but they actually did work while they were here. Alden should be exempt. He was only visiting.
+
+Visiting a massive hospital you didn’t know existed.
+
+“Man…Tiny Snake, they’re absolutely going to tattoo me before I leave. They might do you, too. The ink is going to clash with your scales.”
+
+If the existence of the hospital wasn’t a tatt-worthy secret, then things like the layout of the building probably were. Alden couldn’t pinpoint their precise location in the cube, since he hadn’t been paying that much attention to the hallways as they transported him from the helipad here. But he could definitely narrow it down to a quadrant. He didn’t know where Artonan secrecy ended and human secrecy began when it came to this place, but no involved party was going to be less paranoid about keeping it all hush-hush in the wake of an attack.
+
+At least there should be some other people around to get inked with me, right?
+
+They had mentioned other patients possibly coming in. The helicopter pilot Aulia had donated to the knights had said she was going back for more.
+
+Guess I’ll find out how many neighbors I have when I finally open the door.
+
+He stared at it. His stomach gurgled.
+
+“It is weird that nobody’s fed me.”
+
+Healing treatments generally meant you needed more meals, not less.
+
+“Is there a cafeteria here or something?” he asked his ovoid potion dealer.  “Do you have food in you, too?”
+
+The window-wall answered him instead of the drone. It brightened, and a map of the nearby area appeared, with arrows directing him toward a “Butcher’s Canteen”…which was proof humans had had a hand in naming things around here in Alden’s opinion.
+
+There was even a room service option.
+
+That’s surprising. He would have assumed the Matadero fighters had something more like a community kitchen. Room service implied a dedicated cook, didn’t it?
+
+He toyed with the idea of selecting the feature, but on the off-chance that room service wasn’t just another drone bringing you stuff, he didn’t want to inconvenience an actual person who was probably engaged in more important business than carrying a meal to a teenager with two useable feet.
+
+Or one usable foot and a usable magic cast. Same thing.
+
+They’ve got to be busy with something or they’d be in here dealing with me.
+
+The last thing he had to consider before braving an exit was his auriad. It was currently clinging to a private and uninjured part of his body that nobody should want to examine, stick a bandage on, or inject a potion into. Not his favorite place to wear it, and that tendency it had to move when he was feeling nervous or wanting to cast spells would be more awkward than comforting in this location.
+
+But it was comfortable, hidden, and still easily accessible if he really wanted to access it. The other option he’d come up with was swallowing it. He hoped he never needed to go that far.
+
+Finally, he stepped out into the hall and looked around.
+
+It was long, white, brightly lit…and empty. The faint surprise Alden felt at the sight of the pristine floor and lines of closed doors identical to his own made him realize he really had been expecting something else.
+
+Shouting nurses, screaming patients—something awful.
+
+Obviously, this is better.
+
+No chaos clawing at him, no ocean trying to drown him. Matadero at midnight was a peaceful place.
+
+Feels wrong, like it can't possibly be real, but here we are.
+
+He decided he would go find the healer, or whoever else might be awake and know things, and ask about Zeridee. She would be fine. She had to be. He might have just lost targeting on her because he was drugged. Or because she was having serious magic used on her. He didn’t want to try re-targeting now, because what if it messed up whatever the healer was doing somehow?
+
+It didn’t seem likely, but it also didn’t seem necessary to try it.
+
+And after Alden learned for sure that she was fine, he’d offer to help the hospital staff. Maybe they needed a person pickler. Or an organ pickler.
+
+It would be a way to help that wasn’t too difficult. He could just sit somewhere comfortable with something in his lap, watching television or reading a book.
+
+While the elevator carried him down a floor to what he was thinking of as the central hub of the hospital complex, he wondered if it would be all right to eat something while you held a wounded person in a hospital setting.
+
+It might be unprofessional. Even if it wouldn’t hurt the patient, other people might be weird about it. Like, ‘Why are you eating a mushroom burger over the body of my dying husband?’
+
+They should give me a privacy curtain or something.
+
+If not, I’ll just have to explain. Ma’am or Sir, your choices are me saving your loved one with a mushroom burger or me taking a dinner break and not saving them at all.
+
+Then the elevator doors opened, and Alden came face to face not with anyone in need of help but with even more emptiness.
+
+He walked around for several minutes, sure people had to be somewhere. The occasional squeak of his own squishboot against the floor was the only sound.
+
+There were a few—very few—signs that other patients might have been here. In the room with the showers that delivered potion sprays, one of the doors was cracked open on a stall he hadn’t used himself. And there was a yellow medical cart in the room where they’d given him his boot and bandaged his scratches and scrapes. It hadn’t been there when he’d left.
+
+I guess there were only three staff members here. They could have brought in more doctors, but it’s obvious they didn’t.
+
+Alden adjusted his expectations some more. Zeridee was in critical condition, an alien, and “the relative of a friend” of a knight. Sending her to a packed Anesidoran ER that was equipped primarily for humans wouldn’t have been great for anyone. That didn’t mean Demon Cube Hospital was open for business or would be opening for business…it meant it was open for select cases.
+
+Maybe a red halo or two? Artonans. Me.
+
+“Did other people even get rooms? Did they all go back to the island? Have I just been left alone on Matadero?”
+
+He had slept for a long time, but surely that wasn’t a thing that could actually happen to a person?
+
+He headed down a floor and found a section of the facility that looked a little more like a traditional House of Healing.
+
+This place really is stocked, he thought as he poked his head into a storage room. So many supplies were waiting here, completely untouched. Boxes covered in logograms and sealed with wax. Stacks of blankets. Vials of “essential elements” from the Triplanets and Earth. There were even restraints intended for people who weren’t humanoid in shape.
+
+This is all reserved for something really bad. Like hundreds of Avowed and wizards living here and getting hurt here for an extended period of time…with nobody allowed on or off?
+
+Or with the rest of Earth in such bad shape it couldn’t supply the place.
+
+He hoped they let him pick where his new tattoo went. If it was small enough, the bottom of a toe would be a great forgettable location.
+
+Eventually, the smell of herbs burning and a resonant sound in the air—as if a gong had been struck a while ago and the remnants of its ring were lingering—led him to the healer and Zeridee.
+
+The Artonan man was fully engaged in doing…a thing…and that thing involved painting himself and his patient both in what looked like blood while he sang a song over her body in a room full of potted plants.
+
+Yep, I was ridiculous to think Kibby wouldn’t be stoked about me tasting her blood. I should have let her paint some more logograms on the cabinets. Done a little dance. My lack of showmanship had to be a real disappointment to her.
+
+Alden only watched them for a second. He didn’t know how hard healing spells were, but he knew that if someone interrupted him mid-cast he might fail to properly direct his authority. He assumed the same thing applied to some extent to fully trained wizards.
+
+So he left them there.
+
+He went down another floor, still hoping to find at least one of the two Avowed he’d met last night. Instead, he found the morgue.
+
+It wasn’t like Alden would have walked through a door labeled “MORGUE” and helped himself to a peek. But as soon as the elevator dinged, there the bodies were, in a place that had clearly been meant to treat the living just like the floors above. They were laid out on gurneys, tabletops, and the floor. Most of them were covered with cloths that glimmered with magic. The dead woman on the table beside the nurse’s station was stripped and surrounded by a trio of wizards.
+
+“You see what I mean, don’t you?” one of them was saying, her voice irritated. “You’re giving them all the same nose!”
+
+“She looks right to me.”
+
+“If you can’t do it, put away your casting tools and call me over. Before this happens. Or I will tell your <<affirming>> school that Dam-trinta gave all the Avowed dead his own nose. And I will smoke <<forever root>> while they <<ablate >> your diploma.”
+
+Alden started hastily pressing random elevator buttons.
+
+Right as the doors were closing, the woman who had been delivering the admonishment turned around. Her brows lifted as she spotted him. “A human?” she said. “I thought the <<organizer>> said not to worry about any—”
+
+Her words were cut off. Alden leaned against the wall and let out a breath.
+
+How many bodies was that?
+
+More than ten. Less than twenty.
+
+Are the hallways and rooms down there full? Is that why they’re working on them out in the open like that? How many people must be dead?
+
+The morticians, if that was what they were, had obviously been as surprised to see him as he was to see them. So that confirmed what he’d already ascertained for himself. Not a lot of humans in the hospital.
+
+Not living ones anyway.
+
+That could have been me.
+
+Laid out there naked on a table, having his body made presentable for family. It would have given Connie and his friends some closure this time at least.
+
+I need to get out of here.
+
+******
+
+The problem with trying to get some distance from the corpses was that Alden only knew of two places on Matadero. And one of them was the hospital with the corpses in it.
+
+The other was the canteen.
+
+Following his memory of the map, he left the hospital by means of a corridor that came to a narrow point just wide enough for a single person to pass before it broadened into a less claustrophobic hall that connected to the bottom level of Matadero’s residential section.
+
+The place looked like a hotel lobby, if the hotel had given its design budget to someone who thought gray was a bold color.
+
+He paused on his way through to watch a video montage that had been left playing on the screen in one of the seating areas. From the looks of it, everyone in the battle group that was currently supposed to be in residence here was engaged in an ongoing prank war involving a hundred kilo sack of rice. Alden watched as a Vocal Brute named Ramona Sahu distracted someone he vaguely recognized as an up-and-coming hero from Miami with a voice throw before she smashed him from behind with the rice bag.
+
+There were about a dozen famous and semi-famous people laughing their asses off in the background while the victim groaned and started to clean up all the spilled grains. As the montage switched over to a scene with Ramona walking through a boobytrapped doorway and catching rice in the face, Alden shook his head.
+
+The most powerful adults in the world are big dorks.
+
+He wondered if they’d all left to help the island. It made sense that if it was okay for the knights to go help out now then it would be fine for the others to go, too.
+
+He reached another elevator and took it down. When he stepped off, he found himself in a cafeteria that looked like it had been designed by the same person responsible for the lobby above. There was a kitchen—partially visible through a cut-out wall—at the other end of the room. Before Alden had made it three steps, a man wearing an apron over a t-shirt and boxers ran out to greet him.
+
+Hey, I’m not the only one whose crisis wardrobe needs some work.
+
+The guy had on bedroom slippers.
+
+“English?” he asked. And before Alden could confirm, he was being peppered with questions. “Are more people coming? How many? Do they want supper? Breakfast? Something else? Is it mostly Artonans or are there humans with you? Is the island still there? Is everyone all right? Where—?”
+
+“I’m sixteen, and I’ve been asleep for the past fifteen hours.” That seemed like the most succinct way to convey his cluelessness. “I’m Alden. I’m a patient in the hospital section.”
+
+“There’s a hospital here?”
+
+Alden nodded.
+
+“Am I…supposed to be feeding patients?”
+
+“There are only two patients that I know of for sure,” said Alden. “One of them is me, and the other is being healed. So just me.”
+
+He was glad he hadn’t tried to order room service. This person would have been pretty confused to get a meal request from a hospital he hadn’t even  known was right next door.
+
+The man sighed. “I’m Kabir.”
+
+“Lute’s chef!”
+
+Kabir looked surprised.
+
+“Sorry. I know you don’t work for Lute. But Lute’s mentioned you. I’m his roommate.”
+
+“Is he—?”
+
+“Don’t know,” Alden said. “I’m sure he’s fine. He was on campus when everything went wrong.”
+
+It had to be one of the best places to be.
+
+“I’ve been here since everything went wrong. Cooking. Galecourse—Melanie Carisson, I mean—brought me in. I haven’t even left the cafeteria. Nobody’s come. Nobody. I was starting to think I was the only person here. On Matadero!” He laughed a little nervously. “That would be crazy. But here you are. Human. Hospital patient. Lute’s friend! I’ll feed you.”
+
+In the kitchen, food covered every inch of the place. Paella, pastries, pre-packaged pudding cups. Alden opened a huge fridge just to see how far the madness went and found a hundred individually wrapped sandwiches stacked wall to wall on one of the shelves.
+
+Kabir, a victim of circumstance, was the only person responsible for all of it. He hadn’t slept much at all in the past two days.
+
+“..and so she asks me to make something with the special Artona III potatoes. They are not easy to use, but I said, ‘Of course, Ms. Velra. I can cook with these. Just in case the Generals agree to take a break and dine on Libra. It has never happened before even though she’s asked many times over the years, but I don’t point this out. I just cook pink potato dumplings with clam sauce.
+
+“Strange recipe. I don’t like it. No one comes for dinner. So I put it away and prep ingredients for Chicken à la King before I go to my cabin.”  He frowned down at the skillet on the stove in front of him. “I think this needs fat, something creamy. Vegan. Almond butter will be nice for you.”
+
+Alden watched curiously as the chef spooned a giant gob of almond butter into the skillet where his meal was happening. Fresh greens, mushrooms, and a lot of roasted garlic were in there already, gradually becoming a sauce thanks to starchy pasta water.
+
+“Ten minutes after I fall asleep, the disaster starts. The next thing I know, I’m flying in Galecourse’s arms.” He started scooping linguine into the pan with a set of tongs.  “Everyone else leaves to go help Anesidora and find family members, but Ms. Velra suddenly says, ‘Oh, Kabir. You’ll stay here and cook for the wizards, won’t you? Won’t you?”
+
+Mushrooms and noodles flew through the air and he caught them again in the pan.
+
+“On the sixth tray of cheese muffins, I decide maybe there are no wizards. No Avowed. Just. Me. I put up a view spell at the elevator to watch for demons.”
+
+But he kept cooking, thought Alden. “There’s no chaos here right now, so I don’t think you have to worry about those.”
+
+“I’m a C-rank, you know. I’m not supposed to be here.” He glowered at Alden’s food as he tipped it onto a plate. “I bet they make me get a tattoo.”
+
+“Oh, I’m thinking of getting mine on a toe.” He took the offering. “Thanks. I would have been fine with just the soup and the salad, but this looks good.”
+
+Alden ate his meal at one of the cafeteria tables with Kabir looking on and bouncing a leg nervously the whole while.
+
+“I’ve only seen four wizards since I left my room,” Alden told him between scarfing down bites. “So you might want to take a break from cooking. The place seems pretty abandoned. And it’s after midnight. I know that the time kind of doesn’t matter under the circumstances. But you should sleep.”
+
+He started slurping on his bowl of miso soup.
+
+“I think the idea was that Artonans would be coming here?” Kabir said. “That was what it sounded like Ms. Velra thought, but she was giving me instructions while she was bestowing wordchains on everyone. She was working so hard, she was sweating. It was very confusing.”
+
+“We could ask the morticians, I guess,” said Alden.
+
+The chef nodded. Then he looked up, eyes going rounder. “The what?”
+
+******
+
+Kabir was reluctant to leave the area he’d been assigned to.
+
+“It’s Matadero. We can’t just explore,” he protested when Alden suggested they might as well go to the hospital together and find him a bedroom. And some pants.
+
+“But I’ve already been that way,” Alden explained. “There’s really nothing you’re going to get in trouble for seeing as far as I can tell.”
+
+The man shook his head. “I’m just going to stay here. I’ll make coffee cake. It goes with wevvi, doesn’t it?”
+
+So Alden ended up alone once more, carrying a box of food he hoped Zeridee might get to eat. When he found the healer still in full mystical mode, he debated his options and chose to fetch his messenger bag from his room before coming back down. He positioned a chair at the end of the hall in a spot where he wouldn’t interrupt the healing process but also where he couldn’t possibly miss the Artonan’s emergence.
+
+He’d decided not to go offer the morticians supper. He really didn’t want to find out all the details about their work or accidentally present himself as a volunteer to help them with it. He’d had enough of bodies for one weekend.
+
+How many are down there? Are more still coming?
+
+He shoved the questions away as well as he could.
+
+Right now, Alden had no instructions to follow and no knowledge of what he should be doing other than keeping himself and a snake alive. He was in a hospital, technically waiting for further treatment. He suspected he’d fallen into some kind of cross-species organizational blindspot.
+
+The Artonan had insisted Alden was his patient, so if the human doctor and Healer were still around, they hadn’t put him on their to-do list.
+
+So he’s my guy.
+
+His left hand was worrying him more than the other injuries. Not because it was worse, per se, but because he wanted it healed better than everything else.
+
+All I can do is ask him about it. And until then…
+
+He guessed it was all right to do what he wanted. And what he wanted, he realized after just a minute’s consideration, was to do his homework.
+
+An essay on whether or not humans should accommodate unpleasant social customs when encountering other peoples, for Intro to Other Worlds. Recording himself trying some difficult pronunciations for his Conversation class. Analyzing the footage from his team’s obstacle course wins.
+
+He wanted to do it. Calmly. With attention to detail. The way you did homework when nothing was wrong in your life except for having a long, lonely stretch of time on your hands.
+
+So he did. Just like it was a dull Saturday night. Like classes would start back on Monday.
+
+Like homework mattered.
+
+******
+
+******

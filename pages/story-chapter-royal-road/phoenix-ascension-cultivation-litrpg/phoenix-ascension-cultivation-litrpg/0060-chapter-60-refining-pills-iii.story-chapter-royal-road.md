@@ -1,0 +1,155 @@
+---
+id: 2d177740-bd72-51b9-acc4-77a61a822872
+page-type-slug: story-chapter-royal-road
+title: "Chapter 60: Refining Pills III"
+slug: 0060-chapter-60-refining-pills-iii
+partOf: phoenix-ascension-cultivation-litrpg
+position: 60
+ownLength: 2115
+unit: words
+publishedAt: 2025-12-10
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2837015/chapter-60-refining-pills-iii"
+royalRoadId: "2837015"
+---
+
+I wasn’t sure if the feathers were bad or the fact that it took me more than I’d like to admit to learn how to walk again. Apparently, you couldn’t transfer walking knowledge from a bird to a human as easily, as the centers of gravity were vastly different.
+
+The first step I took was difficult, but not awful, but the second one ended with me tasting the floor of the little girl’s house. Now, if only she were there, it wouldn’t have been weird, but once I fell in front of the boy, it was all over.
+
+My act was over, my reputation was over, my pride was over.
+
+However, I acted as if nothing happened at all. He couldn’t make fun of me if I didn’t acknowledge what was happening.
+
+After about five minutes, I managed to get up on my feet and walk a few paces, but it was then that an awful notification appeared in my vision.
+
+[Time limit has been reached, undoing illusion.]
+
+And poof, just like that, I was back to being a phoenix. My image was, at least. I was never a human to begin with; it was all an illusion made by the skill. However, it felt so real that for a second, I thought I was human, and that was why there was still an adjustment period that was necessary.
+
+It was a high-grade illusion skill, and if it were a cultivation technique, I would rank it at the top of Earth-grade techniques.
+
+However, the time limit was weird. The skill never said anything about a time limit, and I’d only been transformed for less than ten minutes. Something fishy was going on.
+
+[Your mental state had not been perfect, so the skill deactivated.]
+
+Seriously? It didn’t deactivate when I fell, or when I first saw my body, but when I got up and managed to somehow get used to it? What sort of…
+
+I could only sigh in defeat and wait for however long the cooldown was to tick by. In that time, I could ignore the boy’s burning stare and think of other things I could do. First, I needed to refine a Meridian Awakening Pill for the girl.
+
+It would not be difficult, as it was only a Core Formation Pill, and with the right modifications and ingredients, I could refine it without any issues. The problem would come from acquiring said materials, a cauldron, firewood, a room to refine in peace, and the funds for all of those.
+
+I did not want to use one of my precious feathers, but I didn’t know what else I could do. No one would trust a random woman with enough funds to raise a cultivator to Foundation Establishment without any assurance.
+
+I had none of, I was broke and had nothing to trade for, besides the feather.
+
+The other problem was the quest. I had to get that Chiao guy to give the boy the pill back, but how would that be the bigger issue?
+
+He couldn’t use Qi, so even after expelling it from his body, it would be useless. I didn’t want to get involved with more humans than necessary, either, and I wanted to remain lowkey. Fighting a child was not the way, and these two would have to figure it out on their own.
+
+However, the phrasing of the quest bothered me.
+
+Save her big brother and help heal him? Was healing him, not saving him? If not, what should I be saving him from?
+
+I looked at him with scrutiny, trying to think of what it might be that System was trying to tell me, but it was far too difficult. I didn’t have enough information.
+
+The boy flinched under my gaze, but I ignored that and walked out toward the living room. I had to get a grip on Perfect Disguise and go out into the city. I wasn’t exactly excited about that, but there was little I could do.
+
+My goal was Myriad Market, and I had to go and see what they had to sell.
+
+“Practice that technique’s mantra. Boy, help your sister understand how Qi feels. I will return by evening.” I said and walked out, grabbing the ‘disguise’ I used to come in with, and left them to their own devices.
+
+Back in the forest, I sat near the river, using Perfect Disguise to take on the appearance of a fish. I could not hold my breath for long, but thanks to Water Breathing, that time increased each time I went to the surface for air.
+
+The skill had deactivated a few times, notably when I went out of the water. Apparently, it broke the act or whatever.
+
+Anyway, the reason I was disguised as a fish was both to test out the limit and because I was hungry, and what better prey for a Water Serpent than a clueless fish?
+
+It looked longer than I would have liked for the first specimen to take the bait, but the moment it did so, I struck at its weak point and killed it in one shot. The Assassination skill helped amplify the damage, and Blade Wing did a good job at slitting its throat.
+
+I didn’t even bother roasting it, just ate it raw, and filled my belly. Becoming rounder than usual once again, but it was all worth it.
+
+Water Serpent Core absorbed with 65% efficiency.]
+
+[+3 Strength; +6 Dexterity; +6 Charisma]
+
+[Water Affinity +25%]
+
+That was not bad! My Water Affinity was getting higher and higher. If I were to kill enough of these things, would I finally be able to use the water element? I would need to test that. If there were diminishing returns, then there was no point.
+
+However, I wasn’t a fan of wasting food, and if I ate too much,h then I would end up too fat to fly, so I had to hold back for the moment.
+
+After finishing the meal and leaving the bones to nature, I headed toward another part of the forest and used Perfect Disguise again, this time to turn into a leaf. The illusion broke almost instantly as I moved without the wind.
+
+The next time around, I didn’t move in sync with the wind, and the third time around, I was too eager to move, whatever that meant.
+
+I gave up afterward and imitated some animals I saw roaming around. The illusion kept up for a good while, up until another animal spotted me, and it broke. It seemed that if I didn’t follow the behaviour of the thing I transformed into well, then the illusion would break too.
+
+Thankfully, I knew how to be a human quite well, so that wasn’t an issue. I was just testing what the limits were.
+
+I had to be prepared, after all. If I slipped up and made a mistake while talking to someone, then my entire plan and possibly my life would go to waste.
+
+So if I didn’t learn the behaviour of the animal I was targeting, then it wouldn’t work all that well, especially if there was an audience. I didn’t think there would be an issue with that when in human form, since it was personal to me, after all.
+
+I hadn’t tried disguising myself as someone else, though. That would definitely be a fun exercise to try.
+
+After training for the entire day, my energy reserves have depleted by quite a good amount, given the fact that my body returned to its normal size. I wasn’t sure if changing sizes so often was healthy, but I didn’t care either.
+
+As I promised the siblings, I returned in the evening, disguised as a dog and changing back to normal after entering.
+
+The boy seemed to have gotten used to my actual appearance, and I couldn’t bother to change into something else more appealing to him. If he knew, he knew. I doubted there would be anyone who would believe that a large orange bird could talk.
+
+Not to mention, if he knew how to repay kindness and enmity, he would keep his mouth shut.
+
+Though I was about the size of his sister now, so it must have been quite a strange sight. Either way, I only wanted to check on her progress.
+
+“How is practicing the cultivation technique going?”
+
+The little girl walked forward and gave me a slight bow. “Miss Immortal, it’s going well. I have learned the verses by heart, and big brother has explained to me how Qi circulation works.”
+
+I nodded, giving him a quick glance. He flinched, but nodded. The boy looked even worse than in the morning. His skin turned paler, and the light in his eyes was dimming.
+
+At that rate, he would die soon. A sense of urgency suddenlysprangg up inside me. I had to hurry, both in refining the pill and figuring out a way to get their cousin to return the pill.
+
+What I was going to refine was a simple Meridian Awakening Pill, meant for children or adults who’ve never cultivated before. A Meridian Opening Pill was different, though. It not only awakened your meridians, but also opened them— regardless of the state they were in. It would be better to call it a Meridian Rejuvenating Pill.
+
+I didn’t need it, since I had a technique to create meridians on my own, but for a crippled child like him, it was priceless. There was also no way for me to refine it at my current level.
+
+The Meridian Awakening Pill was at most a Core Formation level pill, whilst the Meridian Opening Pill was at the Soul Transformation level. The difference between them was like heaven and earth.
+
+And this boy just gave it away…
+
+I sighed and sat down. The girl’s big brother didn’t look good at all, while the little girl herself was scrawny and shivery. I waved my wing and put some fire on the small fireplace, as the biting wind was beginning to enter through the cracked window.
+
+“Do either of you have any money?”
+
+They shook their head. I couldn’t help but wonder how they’d survived so long. Either someone was feeding them, or the little girl was doing too much just to save her big brother. He was right not to trust a random pill a little girl brought, but to give it away, did he have no spine?
+
+Or was his spine what got him in this situation? Who was to know? I didn’t ask; we weren’t close enough for such personal information.
+
+Anyway, I had a plan, but for the moment, I had to focus on the ‘save him’ part of the quest. Feeding him was definitely part of that, because if he didn’t eat, his condition would worsen. What else could I do?
+
+I went out and returned with a boar, borrowing their unused kitchen to cut it up and cook it. The little girl looked at me with glee in her eyes. She looked expectantly at me, but having her stare at me with such hunger felt weird… but her big eyes made me feel a little warmth.
+
+When did I become their mom…?
+
+“Miss Fire Bird… is this for us?” She asked, her voice almost cracking.
+
+“Who else? Do I look like I need to cook it? Go to your brother, I’ll bring the food to you.”
+
+She nodded, a beaming smile spreading across her face. I could only roll my eyes.
+
+With the boar cooked to almost perfection— almost burned,t actually— I grabbed two dirty plates and wiped them down with my feathers. It wasn’t perfect, but because of a certain thing, ng I couldn’t use any water-based techniques, so what could I do?
+
+Maneuvering such fragile things with my talons wasn’t easy, but after breaking around five of them, I managed.
+
+I hadn’t considered how I would bring the food over, though, considering my need to walk, but… with a plate in my beak and another being held with two wings, I managed.
+
+[Skill: Balancing(Novice) Acquired.)
+
+Huh, would you look at that?
+
+After finally bringing the food to them, I set it down on the table and dragged the table toward the sickly boy. I hadn’t realised before, but he smelled quite bad, definitely in need of a shower.
+
+His expression was stuck between joy, bewilderment, and a mix of unease. However, the glint in his eyes mirrored his sister’s, and the two began eating their portion without question.
+
+I sat down and watched them, feeling some small amount of happiness and joy sprouting in my chest. Maybe if I had lips, I would be smiling.

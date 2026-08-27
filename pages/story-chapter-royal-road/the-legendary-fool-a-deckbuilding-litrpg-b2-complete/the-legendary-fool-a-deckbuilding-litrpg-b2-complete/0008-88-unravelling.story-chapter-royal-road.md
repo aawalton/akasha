@@ -1,0 +1,119 @@
+---
+id: afe5145f-3155-5a7a-a220-a601e74bc798
+page-type-slug: story-chapter-royal-road
+title: "88: Unravelling"
+slug: 0008-88-unravelling
+partOf: the-legendary-fool-a-deckbuilding-litrpg-b2-complete
+position: 8
+ownLength: 1528
+unit: words
+publishedAt: 2024-05-14
+link: "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/1636401/88-unravelling"
+royalRoadId: "1636401"
+---
+
+“Sorry about this, prof,” Tom whispered under his breath once he found himself secluded in the room, with the professor peacefully lying down on the lone bed available.
+
+The alchemical reagent he had administered would make sure that the professor stayed out cold for the next twenty four hours. He had gone out of his way to confirm that they left behind no side-effects, so Tom didn’t feel any more guilty for using it on the professor.
+
+Tapping his chin as he peeked outside the curtained window, Tom considered his next move.
+
+“Forty-four,” He muttered under his breath, alluding to the number Active Shroud—Maya had asked of him to use the ability on the professor. That number was higher than Jayce and unsurprisingly lesser than Zirel, letting Tom know that the professor was not to be underestimated.
+
+However, that didn’t change the fact that there was a theory he had been meaning to test for a while now.
+
+If the resistance Tom encountered during Maya came from the consciousness, then what if he made sure its target was unconscious? He hadn’t been able to try such a tactic so far, because his whole aim was to not attract attention until he was strong enough to defend himself.
+
+Now, though, the professor had given him the perfect opportunity.
+
+He turned his gaze to the unconscious professor and turned the mental lever that toggled his Active Shroud—Maya skill.
+
+Tom’s expression turned sombre as he considered the number floating above the unconscious professor’s head.
+
+‘Nineteen.’
+
+Turning his gaze to the door and confirming it was locked, Tom took a seat before deciding that he no longer had any reason to hesitate.
+
+He toggled the skill.
+
+“Well, this sure is interesting,” Tom muttered under his breath as his grip on the old-world lanyard that carried with it a photo of him from back on Earth, a thought-concept that his Home-Bound skill manifested in every Maya he stepped into, slackened.
+
+He took in the blurry, trembling world he found himself in, the long hallway that he could now place as one that was flanked by classrooms on either end.
+
+“The world itself is unstable and vague, as if it were a fleeting dream,” Tom remarked as he passed by a group of students. Or atleast, what he assumed to be a gaggle of students behind the white haze that obscured their faces. “I guess there are consequences to using Maya on unconscious people. I can’t explore the academy first hand, but at the same time, it is only a reconstruction from memory. Naliel’s memories have told me enough already.”
+
+Tom continued strolling down the hallway, grateful for how much easier breaking free of the web of illusions that Maya weaved for him each time he relied on the ability. Just because he had gotten used to forgetting everything about one’s sense of self and using the dissonance between body and mind to trace his path back to himself, it wouldn’t ever be an enjoyable experience for him. Not that he succeeded every time he tried, either.
+
+If it weren’t for his sub-skill, home-bound, rescuing him, he would presently be wandering Artezia believing he was Zirel Covan Nottrakon, Fourth Prince of the Syrelore Kingdom.
+
+Merely the thought of that scenario was enough to make him shudder, everytime.
+
+There was a long time yet until his willpower and sense of self was honed enough to combat a prince, that was for sure.
+
+But, surprisingly to even himself, Tom didn’t doubt that he’d get there.
+
+“I guess I can’t hold back the state of Yul for much longer. Fine, fine, take me there,” Tom consented, even though it would whisk him there regardless of his will.
+
+Once again, he found himself in a world full of glimmering stars.
+
+A multitude of bronze. Over a dozen silver. And just a single, gleaming Astral Gold star placed in the furthest reaches of the void.
+
+“About what I’d expect from a professor of Arcane History,” Tom remarked dryly, still more than a little annoyed that the one professor he had managed to subdue turned out to be responsible for a non-combat subject.
+
+It wasn’t all that unlikely, considering about a third of Syrelore Academy’s professors were responsible for non-combat disciples and had Naliel truly been a combat instructor, his instincts would have long since warned him away from foolishly attempting to subdue them.
+
+Even then, Tom had been hoping that the professor would be kind enough to offer him the guidance he needed…. one way or the other. But from what he had seen in his memories, it was no surprise that Tom had bested him.
+
+While his basics were solid, the professor seldom found reason or need to practise his Uncommon Card’s abilities in combat scenarios.
+
+He hadn’t mastered the Greater Control Glyph either and the three other, simpler Glyphs he knew weren’t something that he could steal merely by thinking of them in the blurry world. Maybe if he was given weeks and months on end, he would master them one by one, but the Fool had offered him a few minutes before imposing Yul on him.
+
+“Well, if there’s one thing I’m sure of, it’s about the Astral Gold rarity’s usefulness. It doesn’t have to be combat related to be useful, a memory that an academy professor guards with such zeal has got to have some value,” Tom muttered under his breath.
+
+The rejection he felt from the world of stars was much weaker than the baseline he was used to.
+
+‘I am not really here. My physical body is an illusion, it is my will that serves as the fuel in this world. And I command it— move forward,’ Tom decreed within his mind and he felt his physical body being whipped forward at an unrealistic speed.
+
+The resistance increased, naturally. But this time, Tom was determined to finally reach the end goal.
+
+He cleared the cluster of Bright Bronze stars in a matter of moments. The Lunar Silver stars however, were where the real test began. The drain on his mental endurance ratcheted up almost instantly as he entered the territory of the far more valuable stars, his speed forcibly cut down to a quarter of its original pace.
+
+But thanks to the owner of the Yul being unconscious, Tom found himself adapting to the pressure weighing down upon him, the rejection of the world of stars directed towards the intruder.
+
+Once he cleared the Lunar Silver Cluster, the real challenge finally began.
+
+His Sub-Skill Moh Maya couldn’t help him when it came to Astral Gold Stars.
+
+Nothing but his own will-power could.
+
+‘I will persist,’ Tom thought in reaffirmation, meaning every word. For someone who had been used to negative self-talk far longer than positive affirmation, encouraging himself was a habit he had only picked up in Artezia.
+
+This world had given him strength, confidence and proven to him that he could win. It had come at the cost of many dangers and a growing list of people that would be pursuing him in the near future, but it had still been worth it. Most of all, it had reminded him very recently that he still had a long way to go.
+
+After losing to Zirel so thoroughly that it was more accurate to term it ‘decimated’, Tom refused to be crushed by the will of an unconscious professor.
+
+“I…want it,” Tom croaked out, as he felt his strength leave him three-fourths of the way into the Astral Gold territory. “I… will… keep going…,” Tom closed his eyes and commanded, screamed, yelled, cried, pleaded, begged and beseeched his body to move.
+
+The headache that tore away at his skull was mild compared to the intense discomfort he felt as his body felt as if it were being pulled away in two different directions. The world wished to rip him apart, but Tom was equally determined to see his attempt, the closest he had got to an Astral Gold star, succeed.
+
+Five minutes later, back in the real world, Tom opened his eyes.
+
+Then he staggered backwards in shock, his expression pale as he crashed into a wooden table, knocking both it and the cutlery on it onto the ground.
+
+He stared at the professor with a shell shocked expression, his hands lightly trembling from the weight of realisation.
+
+Tom had expected a great many things from the Astral Gold star, ranging from powerful Glyphs to personal secrets or even historical records that had uncovered findings the professor could not publish publicly.
+
+Never in his wildest dreams did he expect that the professor, along with over half the Academy teaching staff, had been bought out by the Nottrakon Family.
+
+Of course, that wasn’t enough to surprise Tom.
+
+…. Had he not uncovered a plot by the Nottrakon Family to assassinate Valeria Nezarie, only daughter of the King’s very own right hand, with intent to pin the blame on the Zenari family….
+
+Tom would indeed, not have been too surprised.
+
+“A week,” He whispered, burdened by knowledge he had not asked for.
+
+An old-world saying echoed in his mind.
+
+“Be careful what you wish for.”

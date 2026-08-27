@@ -1,0 +1,359 @@
+---
+id: 1adb34a8-fc4c-58d5-8fa9-19a874e3804b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 131: Mind like a bear trap"
+slug: 0051-chapter-131-mind-like-a-bear-trap
+partOf: the-calamitous-bob-stubbed
+position: 51
+ownLength: 5754
+unit: words
+ownProgress: 5754
+publishedAt: 2023-08-18
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1314367/chapter-131-mind-like-a-bear-trap"
+royalRoadId: "1314367"
+markedReadAt: "2026-06-29T21:16:30.445Z"
+---
+
+“The fort’s occupied alright. By those thrice-cursed Halurians!”
+
+“Language.”
+
+Cernit’s eldest son faltered under his father’s gaze, his bluster gone in an instant. The mood in the tent grew awkward. Viv shifted and leaned over the map to offer a distraction but the old captain would not have it.
+
+“We are here to receive your report, my son. Not to see you grandstand with all your youthful bravado. Provide your report in a concise and gentlemanly manner, so your officers may draw the right conclusions.”
+
+“Yes, father. Of course.”
+
+Viv thought the golden rule was to scold in private and praise in public, yet Cernit had decided not to do that despite a known leadership skill. Viv wondered if it was a question of etiquette. Perhaps he could not show favoritism. Perhaps he had done so for the sake of his other children. An interesting aspect of his culture.
+
+“Halurians have taken over the deserted fortress. I have personally seen them while standing on Semia’s teat.”
+
+“That’s a small hill facing the fort,” Cernit whispered to Viv.
+
+She nodded. There was a mountain in the United States called the ‘Grand Teton’, the great nipple in French, so mankind shared the same naming skills everywhere, it seems. That or explorers were horny.
+
+“I used a spying glass. They had sentries and the flag of the Varak clan. I did not come closer because the presence of birds of prey indicated tamers…”
+
+The young man looked up to his father for approval with clear worry. Cernit only gave a curt nod. Viv thought the scout had been wise to stay away because if the Halurians had more of those dog things, he would have ended up as a crunchy snack without word of the enemy presence reaching the Baranese.
+
+It was also clear the boys were not meant to be stealthy foresters. Their classes read as [Hedge Knights] and they were a sort of hybrid between hunters and actual knights.
+
+“Will you be attacking them, father?”
+
+“You have not finished your report. How many men do you think they might have?”
+
+“Oh, yes. At least sixty from the number of flags, perhaps less. They have tamers. The presence of a faceless is… unlikely.”
+
+“Very much so. They only intervene when we move into Halurian territory,” Cernit said for Viv’s benefit.
+
+She had learned that in her history class but thanked the knight anyway.
+
+“Do we attack?”
+
+“Our orders are clear. We are to take over that place and we will. They cannot be allowed to report to their main forces.”
+
+“Yes, father. It will be done.”
+
+“Get your armor ready, you three, and fetch me my horse. They might have warborns with them to protect the tamers. We will be needed.”
+
+“Do we raise the levies?”
+
+“We know they have more beasts and they likely have warborns… what does it mean?” Cernit tested.
+
+“That levies are only victims.”
+
+“Correct. Make sure you pick up spare spears.”
+
+“Of course.”
+
+“You may leave.”
+
+“Father, what should we tell mother?” the youngest asked.
+
+Cernit smoldered until it looked like smoke might escape from his ears. Junior Cernit wilted under the terrible gaze.
+
+“Tell her I will do all I can to bring her idiot sons back home in one piece. Now go.”
+
+“Yessir.”
+
+The trio left the tend, leaving Viv and Cernit alone. Tarn and old Jerod peeked through the curtain flaps. Cernit invited his lieutenant in with a gesture, then inspected the map in front of him.
+
+“We need to follow the road. Beasts are always more dangerous on uneven ground. Even worse in a forest. They’ll see us coming up from very far if they do have birds anyway,” he said after a little while. His attention landed on Viv.
+
+“What do you think?”
+
+“How do we get over the walls? You do not have siege equipment.”
+
+“We can make ladders in mere hours, but…”
+
+“If they have warborns on the parapet, it will be a slaughter.”
+
+“Yes. Only cavalry or elite infantry in formation can hope to stand before those maniacs. Soldiers climbing one by one just be so much meat. The gates, however…”
+
+“Could they have repaired them?”
+
+“Close to impossible. The Varak clans live in the nearby plains which also happen to be the only place in those gods-forsaken lands that can grow cereals. They have very few forests and no carpenters worth their salt.”
+
+Viv knew from her class that the clans almost never cooperated, each warlord only trading favors in dire times.
+
+“It’s not easy to repair a fortress gate. If they have done anything it will be a makeshift arrangement. Most likely not enchanted either.”
+
+“What if they put up a barricade?” Tarn asked.
+
+“Then they’d have a real hard time getting in and out seeing as there are no other entrances,” Cernit said with some bite.
+
+“Beg your pardon,” Old Jerod said.
+
+He blushed mightily when everyone actually paid attention to him.
+
+“That is, sorry, ah, they probably have slingers. Gotta be hard to get the boys to work if the slingers just take potshots at them. Those stones can brain a man, even if they wear a helmet!”
+
+“I could always shoot them from afar,” Viv offered.
+
+“We’re supposed to take the fort, not demolish it. And the general said we were on a schedule,” Cernit said.
+
+“How about that then? You pick some strong lads to carry a ram. I protect our approach with a shield and cover them while they work. Worst case scenario, I can destroy a blockade if there is any so long as it’s not made of stone. Black mana works worse against inert materials, though it still works.”
+
+“And the scouts provide covering fire. That would work well, but… It puts you at risk. A great risk.”
+
+“Have shield bearers protect me and it should be fine. I’ll make protective walls for your archers.”
+
+Cernit and Viv exchanged a long glance. Viv could almost see the gears turning in the experienced man’s head. He could probably take the fort without her. The archers would provide cover while the infantry attacked through the door and while climbing the walls, using their superior numbers. It would most likely work but the casualties would be massive. Success would not be certain either. Involving Viv gave him the best chance to succeed, yet it also placed her in danger. No Viv, no portal.
+
+“Jaratalssi didn’t just send me because of what I could do. He also sent me because of what I… could do.” Viv commented.
+
+Cernit knew what she meant. He’d seen her fight.
+
+“We will do as you suggested with one more thing. Jerod will pick his best archers to scale the walls on the northern side after we’ve begun our attack.”
+
+“They’ll see them coming.”
+
+“Not if they’re too busy with us. I know the perfect spot to scale the walls. A place where they’re damaged. They might get lucky.”
+
+“As you said, sir. I’ll… lead them personally.”
+
+Cernit eyed Jerod with suspicion. It was universally known he couldn’t shoot for shit and his offer felt suspicious.
+
+“I can tell them if there’s a warborn waiting for them on top.”
+
+“Very well. The fort is some way away. We’ll have an early lunch then leave as soon as my sons have returned.”
+
+***
+
+Cernit’s sons did return with a graying dark horse in tow. They wore mismatched armor pieces that did not always fit. Viv thought they looked like university boys who bought their disguise from the discount bins, though every bit was polished to a shine. The youngest just had a gambeson, no chestplate. Their spears looked good enough, however. Those were boar spears with a guard near the tip that prevented the victim from approaching.
+
+The riders also came with civilians carrying a cauldron of warm food between them, and a letter from Cernit’s wife. The old knight read it, turning bashful and scared in turn. Everyone pretended not to notice.
+
+“Let’s go!” Cernit said.
+
+The column departed shortly after and Viv didn’t miss the worried glance he cast at his sons. She hoped her luck wouldn’t screw him over.
+
+***
+
+The approach to the fort went without a hitch. Distant birds of prey observed them from far above, their shapes sometimes visible as they emerged from the low clouds. Those looked like a cross between vultures and hawks, and it didn’t take an ornithologist to notice they were neither locals nor acting normally. The path led through dense woods, the pines still green and healthy. Their scent overpowered that of old sweat, to Viv’s relief. Nothing moved. Nothing attacked. The scouts’ vigilance proved superfluous.
+
+The company reached the fort in the early afternoon after a brisk march though. Viv had ridden at the back of Cernit’s horse and felt refreshed as she took on their target.
+
+Across a large expanse of empty ground, the fort stood like an old, cracked nut. Crenelations were missing on a battlement and reminded Viv of a smile with missing teeth. Large impacts had scored holes in the gray stones here and there, revealing lighter shades beneath. The gates had been hastily repaired with nailed on planks and they were closed at the moment. The keep was a single round tower no higher than her own house back in Kazar, and the walls were barely thirty meters long at the front, yet the fortress felt no less formidable for it. Savage flags depicting a lean wolf lined the walls, floating under a light breeze. Shapes moved behind and growls could be heard on the other side. The fortress had seen much and it still stood, and now it belonged to her enemies. A horn rang in the distance.
+
+“Alright, spread out,” Cernit said. “Stay well behind your shields because you’re not safe, you hear? A second of an exposed neck and you’ll get a stone through the jaw. No second chances.”
+
+Viv made sure to keep her shield in front of her. A squad detached from the main formation to cut a thick trunk at record speed. They had a makeshift ram ready in record time. Once again, the average soldier’s strength meant they could work and carry stuff their Earth counterparts could not hope to move. Soon enough, they were ready.
+
+Tarn formed a protective square around Viv. Jerod faded in the trees with his handpicked group. The rest of the infantry formed in a column behind her with the scouts protected by shields, the ram went in front of her, and the mounted knights under Cernit loitered at the edge of the forest, trotting in this and that direction to prevent the slingers from getting an easy shot. They were ready.
+
+“Forwaaaaaard!” Cernit roared.
+
+He blew a horn for good measure. Viv called in an aegis with colorless mana and the formation moved forward.
+
+Almost immediately, a few stones pinged on the transparent beehive shield. A test. This version of the Aegis was designed with runes that stopped physical impact so the drain on her reserves was negligible. Guttural voices rang across the battlements, calling the warriors to battle. Viv didn’t have Arthur with her this time so she asked Tarn to keep an eye up for birds. Nothing could break concentration like surprise talons to the eyes.
+
+Slowly, they moved forward. Stones would skirt the very edge of her shield to try and take infantrymen off guard, but those were experienced lads and most stones only found raised shields. A man got a broken foot after twenty meters and the column made themselves even tighter. Cries of frustration echoed over the wall.
+
+“Steady!” Tarn said.
+
+The formation kept together remarkably well until they reached the walls. Viv kept the shield up and got to work.
+
+“Eldritch walls!” she cried while the ram smashed heavily against the door.
+
+Twisted geometry erupted from the earth, forming a thick barrier. The scouts spread out along and exchanged fire with the slingers above the walls. A scout got brained immediately but Viv heard cries of pain above and saw a man take an arrow through the eye. The slingers wore leather caps over their long, braided hair. It didn’t seem to help much. Not at this range.
+
+It didn’t take much focus for Viv to maintain the shield so she sent a couple of astra spells at targets of opportunity. She needed to get a reaction and now was the best time. It worked.
+
+“Warborn! WARBORN!” Tarn screamed.
+
+She didn’t like the fear in his voice.
+
+They came quickly. Viv barely caught a glance of a man falling from the battlement dressed in leather and what appeared to be chitin, his thick hair following like a mane. A scout fell with a dagger in the throat while Viv was still registering it, then another pinged against her shield. He practically teleported through thin air to dodge her first net and then he was in the middle of the spread out scouts, killing. He dodged behind a wall. She caught a glimpse of red lines shining on his face.
+
+Viv dispersed the wall which he did not expect. A well-placed purge spell whipping at him chased him off, wounded. He had still managed to avoid being cut in two. And then she saw him look down in surprise at the arrow going through his chest. Another joined in the moment he hesitated, then a third. Viv didn’t even cast. She didn’t watch him collapse with a look of furious disbelief. There was another. That one fell right on the ram wielder. He had killed three before she could even look.
+
+A large axe smashed against her shield to no effect, so the man ran alongside its length all while dodging spear thrusts coming from the inside. A couple of soldiers blocked his path with their shield but he kicked them and they were sent flying. Viv hit him with a telekinesis spell. He was sent flying into a lying spear. It skewered him from back to front. She smirked. He rushed at her anyway. A well-placed purge spell finished him off.
+
+It was her danger sense that saved Viv once again. She coated herself in mana and charged it with the annihilation meaning and not a moment too soon. A third warborn fell from up high where he had jumped and between Viv’s guards. A thrown knife pinged against her physical shield, then the man was in front of her.
+
+The entire sword, then half of his hand disappeared before his triumph turned to horror. He turned into a shadow and teleported back exactly where Viv expected, catching an astra through the chest which killed him instantly.
+
+“Nice try.”
+
+“Close ranks,” Tarn screamed from the side where he was fighting off another pair of warborn. “Close ranks or I’ll fucking skin you alive!
+
+The guards who had spread out a little immediately surrounded Viv but it was for nothing. The battle was already winding down.
+
+Cernit and his sons had engaged more warborn at the edge of the formation while she was taking care of the nearest ones. Cernit and his eldest son formed the wings of the group of four while the youngest stayed at the center, the opposite of what Baranese doctrine dictated. They rode one warborn down at a time, turning sharply when they used their insane mobility to evade. Four spears and the horse’s speed were enough to make sure at least one of the weapons landed. The usefulness of boar spears now became apparent when the skewered warborn tried to free themselves. Their tendency to charge suicidally was hampered by the merciless implement pinning them in place.
+
+The swifter warborns tried to use the wall to their advantage, jumping on it to force the knights to give up the charge or crash into it. The first to try received two javelins to the back and fell to his death.
+
+The four knights had done better than the rest of the infantry combined, Viv realized. More importantly, the warborn had absolutely no team spirit. They were independent fighters with no squad tactics, trading the ability to work in formation for incredible single combat prowess. It proved of little utility against patient and disciplined groups of soldiers and yet the outnumbered warriors had still killed four people in the blink of an eye. It was… a little concerning.
+
+Viv also realized the last slingers had stopped firing.
+
+Inside the fort, something was happening. The ram smashed through the damaged door to reveal a scene of carnage. Two giant hounds like the one they had killed before were fighting slingers, killing them easily. A third lay dead with a smashed skull. The inner courtyard was a scene of pure chaos. Blood was spilled everywhere amid corpse parts and dying men. Viv immediately spotted the cause. There was a group of robed figures left intact near the tower. Well, mostly intact. Feathered shafts emerged from their backs.
+
+It appeared that Jerod’s little foray had been successful.
+
+With the fall of the tamers and most warborns, the rest of the battle was a simple mop up. The remaining slingers never surrendered though several managed to run away. Viv was left watching a peculiar scene.
+
+In the corner of the courtyard were huddled women wearing thick robes that hid most of their features. All of them clutched a small, ornamented knife in their blood-covered right hands and all of them were dead. The sprays of arterial blood and clean left hands indicated the girls had cut their own throats before forming a small pile, perhaps to face death together.
+
+Cernit walked to Viv after he was done giving orders. They looked at the spectacle.
+
+“Camp followers. They always kill themselves. Even if you capture one alive, they’ll do their best to end their own lives.”
+
+“Out of fear of something?”
+
+“Not fear, I’d wager. Pah, who knows with those savages?”
+
+Viv shrugged. They looked like civilians to her and she didn’t like that. That was all.
+
+“Is it pity you feel?” Cernit asked, his face closed.
+
+Viv knew this was a test and also that she didn’t care for it.
+
+“A little, yes. Those were not warriors.”
+
+“Then come with me.”
+
+They walked to the keep. The first floor was a makeshift prison, the door guarded by a soldier. He looked a little green. Viv knew what to expect from the smell.
+
+The Halurians had captured villagers at some point of their brief occupation. Probably to sell as slaves for a bonus. Their bodies were spread haphazardly across the room, drying blood coloring stained piles of hay in a disgusting mess. There were many with defensive wounds, a mother curled around the remains of the child she had failed to protect. They were all too thin and too lightly clothed. A skeletal body waited curled in a corner, long dead before the rest had been executed. The stench of voided bowel and filth was nauseating.
+
+“That’s what they do. That’s Halurians,” Cernit growled, and there was a deep hatred in the knight’s voice Viv had never heard before.
+
+“They are beasts who kill and get killed without a shred of regret. They don’t understand humanity. One day we’ll cross the border, all civilized nations together to cleanse them off the face of this world for good.”
+
+Viv could see why Rakan and his sister would leave. Haluria sounded like a shit place.
+
+“Do you understand what we fight for?” the knight asked with a burning passion.
+
+“I understand that I have my orders and now that the fort is clear, I’ll carry them out.”
+
+Cernit blinked.
+
+“Oh. Of course. My apologies, this is a difficult tale for me.”
+
+“You live on the border. I understand,” Viv replied.
+
+She turned and moved to form a large, durable witch teleporter.
+
+The work this time took a long time, not least because she didn’t have Sidjin with her to flatten and prepare the ground. This teleporter was temporary but the distance was also much longer and it was close to nightfall when she added the finishing touch, pouring most of her mana into the working before her. All the while, soldiers and knights protected her though she could see them look with some curiosity.
+
+With an effort of will, the circle ignited.
+
+It always felt strange to twist reality at such a fundamental level that even modern technology could not dream of matching it in a hundred years. The sheer amount of power required to do so would be on the scale of the Dyson sphere, Viv thought, but here it happened because the planet allowed it. Or perhaps, it strengthened the body and souls of those who dwelled on it so they could make it happen.
+
+The aperture of the portal opened slowly. It would close just as smoothly later. Viv could soon see the distant walls of the town of Lartizen on the northern border of Baran. There were also knights. They crossed immediately.
+
+Now, Cernit was a country knight. He owned land but probably had few servants if any. His armor was army-issued while his son used functional yet mismatched castoffs from lost sets. Those stood at the opposite end of the spectrum. If Viv had to imagine a valiant prince in shining armor, that was it. That was the real fucking deal. They rode massive chargers clad in engraved armor of exquisite make shining with delicate patterns, lines, and illustrations. Art and enchantment here formed a harmonious whole far from the functional sobriety of Harrakan armors. Banners and motley capes completed the dazzling display. Those armor bore the history of the families that undoubtedly paid a fortune to have them made and they did so in more ways than one. Discolorations and minuscule dents proved that those were not display pieces to be exhibited in dusty halls but tools of war, powerful defenses that had saved their owners as they’d charged into danger. The knights’ weapons were stowed for now but Viv saw from the sheaths and handles that they would be no less impressive. She felt tiny in front of them. On horseback, they were so tall and massive. A fugacious memory of the charge in Sinur’s Gate came to her mind unbidden. If a dozen knights could plow through ranks of undead, then those men…
+
+[Inner Circle Knight of the White Orchard. Count of Irelus. Very Dangerous. Expert melee combatant…]
+
+Yes, they could probably hold their own. And there were a lot of them. The first riders trotted out of the courtyard until one blew a horn, then a group even more hallowed and decorated slowly moved out, shining under the pale sun like apparitions.
+
+The most obvious signs that they were bigwigs happened when every man in the courtyard took the knee, Cernit first. Viv did not bow to foreigners so she merely curtseyed.
+
+The group consisted of a giant in scarlet armor, a lithe man in a multicolor garb that looked strangely like a buffoon outfit, though she didn’t feel like laughing, and a few others in sublime garments. They rode under a banner showing a field of trees bearing white flowers that reminded her of roses. The man at their head was seventy if he was a day. Or rather, he looked seventy but that didn’t mean anything here. She didn’t dare inspect him while his dark eyes peered at her over a wide, bushy white beard. He was the only one whose helmet was open. He nodded at Viv, then to his credit, he dismounted. Meanwhile, knights kept crossing the portal.
+
+“And you must be Viviane the Outlander. Excellent work on taking the fort, as expected of a war caster of your reputation. Now, we can be sure the tamers cannot report our presence. You have delivered on your promise, just like General Jaratalassi said you would. Congratulations.”
+
+“Just doing my job, sir.” Viv replied automatically before realizing he wasn’t a colonel and this was no longer the army.
+
+He had a rather strong presence, but it wasn’t just that. Just like Inquisitor Denerim, he felt transparent in a way that Viv could never achieve. She could tell with certainty that he was valorous and devoid of malice. She could also tell he would lose his path if he acted otherwise. That didn’t mean he couldn’t plan and manipulate, she reminded herself, but at least he wouldn’t try to abuse her.
+
+He nodded.
+
+“My name is Order Master Ered. I lead the Order of the White Orchard.”
+
+Viv nodded, though she minded two things. First, the Order of the White Orchard was the most elite knight order on the entire continent and quite possibly the world. Second, the knights had kept pouring through the aperture and there was no sign they would stop any time soon. Jaratalassi had already understood the importance of Viv’s portals. They were meant to solve the military world’s most constraining factor: logistics. Viv was moving an entire army.
+
+“This is the second time you have proved your valor to the kingdom, Lady Viv. You have also saved the life of young Cernit whom we have been following with interest. Captain Cernit, you will report to the citadel for evaluation after we return to the capital. The eyes of the White Orchard are upon you. Do not disappoint us.”
+
+“Y… Yes sir!” Cernit exulted.
+
+“As a sign of Baran’s appreciation and with regard to your vital contribution to our plan, we would like to offer you the position of herald in the coming battle,” the man said seriously.
+
+Then he waited with a careful expression. It was a test of sorts, first of etiquette. She knew she couldn’t fuck it up.
+
+In the space between moments, Viv’s mind went into overdrive. Ethics class content had mentioned that, albeit briefly. The herald’s place was third in importance in a Baranese cavalry formation. Their role was to yell a war cry. They rode at the grandmaster’s left and before the standard bearer while to his right, he had the squire and the musician. All their roles were pretty self-explanatory, but there was one subtlety. Herald roles were sometimes left to outsiders because it only required high attunement and a leadership skill while standard bearer and musicians required a specific path. As for the squire, that was usually the formation's deadliest fighter. It was a rare and meaningful gesture. She could not refuse.
+
+“I am greatly honored and I accept.”
+
+“Very well. We have prepared a horse for you. Cernit will explain your role, won’t you, my boy?”
+
+“Of course, my lord.”
+
+While they talked, Viv’s mind went on tangents, calculating. Was this a political gesture? Did the grandmaster count on her to occupy the Enorians now that the kingdom could finally turn its gaze outward and towards the nearby Baran, currently under pressure because of the invasion? Was this a first opening towards future cooperation? Perhaps Lady Azar, Viv’s senechal in Harrak, had something to do with it. After all, the wily old viper was Baranese. There were so many considerations.
+
+“This way, milady,” a flustered Cernit told her. “This way.”
+
+“Don’t milady me Cernit.”
+
+“Apologies. But you have to understand, I have never been so proud. The order of the White Orchard, perhaps recruiting me? It would… it would change everything!”
+
+“Let’s make sure we give a good impression.”
+
+“Most astute, yes! We have to do that. Absolutely. So, herald.”
+
+“I know what I need to do. Scream a war cry at the beginning of the charge, right?”
+
+“Yes. You do not have to do much. The order master’s magic will guide you. It is acceptable when hosting a guest to yell war cries belonging to other nations, though it is considered a poor show to name the foreign power itself. Oh, and the most important detail: leaders such as yourself tend to resist the order master’s skill by instinct. You will perhaps feel it like an intrusion? I am not sure. My own skills cannot compare to yours, of course. I only recommend that you let go and accept to be pushed forward.”
+
+“I won’t ruin the charge.”
+
+“Merely being aware of the pull should be enough. Only surprise could push you to resist I suppose, hence why I informed you. But I babble, I babble. Oh, the Order of the White Orchard! Viv, I cannot express how much this means to me.”
+
+“You’re an honorable man, Cernit. And you have good instincts. I’m happy that your efforts are recognized.”
+
+“And yours as well. A herald. Ah, to be at the front of such a charge. You will see. This is an experience like no others.”
+
+“Looking forward to it.”
+
+***
+
+It didn’t matter if one was predictable when the foe cannot use the knowledge, Viv mused. Jaratalassi was a defensive expert, so he was defending. And as before, it was working.
+
+Below them, a gap in the mountainous area gave Viv her first full view of Haluria. It didn’t look any different to the Baranese frontier, only flatter and dotted with copses of trees. The open path led to a well-defended Baranese stronghold and quite possibly the juiciest prize in the entire region if the acres of tilled ground were any indication.
+
+Viv could have told the way the battle had enfolded from the corpses. Unarmored Halurians had fallen to arrows on their way to the first line of fortifications. The white-clad forms of Baranese infantrymen atop the small elevations spoke of a brief yet heated defense, then they had retreated to the second line. Rinse and repeat and now they fought below the third.
+
+It appeared warborns were not that plentiful, which was definitely a good thing. Many of the Halurian soldiers were spearmen using a chitinous round shield. They had not performed too badly. Archers with shortbow and lightly armored riders completed the Varak clan’s forces. Viv wasn’t sure but she thought she could see riders on the strange wolf monsters they had fought before, but they were only a handful. There were barely any mages on the Baranese side and none on the Halurian side.
+
+On the other side, Jaratalassi had used border soldiers efficiently. A small core of knights had engaged with fury to cover their retreat every time they changed position. They had paid a heavy price but never hesitated. Now, the Halurians were below the wall and the Baranese had their backs against it. The anvil had played its role. Viv was bringing the hammer. Ranks upon ranks of Baranese elite cavalry emerged from the forest, their approach covered by elite scouts. They had no obstacles in front of them. It was open ground all the way down.
+
+The formation finally emerged from the forest and the sun caught the tip of their spears just right. Once again, Viv felt that peculiar feeling of vastness that came with Nyil battles, those tens of thousands of soldiers in tight formations marching on each other. At this distance, they turned into organic masses that worked in relative harmony with and against each other. The Halurian infantrymen regiments were resolute beetles while the warborns writhed and twisted like centipedes, full of spikes and angles. On the other side, wasp archers and other beetles worked together with a mantis, fast and precise. It was easy to forget that they were made of individual humans tied together by leaders and beliefs. There were just so many of them.
+
+The Order Master made a gesture and she stopped caring. Viv felt his skill and aura take over.
+
+Even if Cernit had not warned, she would still have gone with it. The White Orchard leader gathered so many nobles into a blade with a singular purpose and it felt great. For now, none of the politics, the fact that Viv was dying, none of it mattered. They would go down here and ride the Halurians down. There was no need to think of the after until they reached the after. It was happening.
+
+Then the skill rose like an orchestra, carrying with it a strange passion. Glory and valor would be hers today by the simple action of pushing her horse on to face evil. She and thousands of others merged into a magnificent and terrible whole as undeniable as the tide, and just as unstoppable. A horn blew somewhere to her right and the banners unfurled, starting with the White Orchard one. Floral touches caressed her nose. She felt a light breeze on her face, the pungent yet not unpleasant smell of horses. They moved, first slowly, then faster, faster. The earth rumbled. Viv’s borrowed charger carried her with the rest and she went with the flow. The Halurians spotted them. It didn’t matter. They were flanked and exposed, ripe for the scythe bearing down on them. An unseen wind pushed into Viv’s back. The army was galloping now, their lances lowering. A rolling wave of steel rushed to her right, to her left. She was part of that wave. She was part of something greater but she could do more. It was her role now to give it a purpose. The skill sent her looking for one.
+
+Instead of resisting, Viv realized she could go the other way, and so she did.
+
+Viv had stood before two dragons, killed a third, and raised a fourth. She had already left her mark on Nyil and this charge was the most powerful tool she had ever wielded. They were foreigners but this didn’t matter right now. Right now, they were hers. Cold rage filled her veins and a fire burnt in her chest, one without end. Black mana sang as it answered her call. The Halurians were close now. She had seen what they could do. She was not impressed. They had to go, because they stood in her way. In that fateful moment, all of Viv’s power poured into the tip of the formation and every drop of black mana in her allies’ cores answered the call. The tips of their spears turned black.
+
+“Crush them. Ride them down. For the black tide.”
+
+Viv didn’t have to raise her voice. The world understood her.
+
+Annihilation-charged spears met the Hallurian ranks without stopping. No shield stood against the onslaught, no formation resisted the unstoppable charge. The Order of the White Orchard carried the outlander from one side of the field to the other, and none stood against them.

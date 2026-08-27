@@ -1,0 +1,231 @@
+---
+id: 2f99d918-65f8-5f9f-a2e2-e59ff4d2e69d
+page-type-slug: story-chapter-royal-road
+title: "HIdden Edits"
+slug: 0012-hidden-edits
+partOf: new-gam3-plus
+position: 12
+ownLength: 2782
+unit: words
+publishedAt: 2023-11-14
+link: "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/1408542/hidden-edits"
+royalRoadId: "1408542"
+---
+
+The night progressed. Explosions and gunfire punctuated the silence as Alan and Ivy took the long way around back toward the trail they’d come from. They found no sign of Isaiah or Bob, though Ivy did develop an investigation skill.
+
+“What’s the plan then? Walk around in the dark jumping at every shadow until we get shot?” Alan asked.
+
+“I didn’t ask you to come along, you volunteered,” Ivy said.
+
+“Your brother is dead or in no position to communicate. He has your number, right? I have his phone. Eventually, he’ll call one of us,” Alan said.
+
+“Okay, here’s the plan,” Ivy said. “We walk back to the canal and wait. If no one shows up in an hour we’ll head back to the gun shop. If the UWG took out Maze’s squad great—if the Ashes’ won this time we ambush them and loot whatever remains.
+
+“Earlier I asked about psionic abilities, but you said we had no time. We have time now.”
+
+Alan wracked his brain trying to recall information. “Psionics. They’re like superheroes with limited resource pools—they can only use their powers for a brief time. Supposedly rare, 1 in 1000, but it’s a big universe. Three main types: spiritual, blood, and technological—the abilities don’t mesh well with developing your AI.”
+
+“But the Game is supposed to be realistic. How is someone shooting fire out of their hands or bending metal with their minds practical?” Ivy asked.
+
+“The Game allows the very improbable to be possible,” Alan said. “Resource points regenerate, hundreds of years of evolution can happen in an instant, and growth is practically uncapped. Oftentimes technology tries to mimic nature—psionics are bioengineered to instead copy machines.”
+
+Not exactly true, but a good enough explanation, Nu sent.
+
+“Let’s say I get tested and have psionic capability. Does that mean I can choose my superpower?” Ivy asked.
+
+Nu answered. Alan relayed the response, “It depends. Certain bloodlines or people have a predisposed talent to a specific power that they should focus on. I forgot because it was so long ago, but I have a small general psionic energy pool since I haven’t specialized to become a Machine Lord. That means I could choose whatever power I want—strength, hearing, flight, or whatever—but it’d likely be a rank F ability that would boost each by maybe 20% for a few seconds at the start. Maybe I’d hover in the air for a moment if I chose flight. A rank S ability would approach the level of someone like Superman or the Flash though.”
+
+Alan let Ivy digest the information and message Nu for clarification as he let his thoughts wander. He had completely forgotten about the minuscule bit of psionic energy he had—Eve had written it off completely. Did he want to develop as a Machine Lord again or should he try something new? If he did, what direction would he go?
+
+They eventually reached the canal and the path they took. There was no sign of anyone else, so they ended up sitting on a bench by a historic monument that simply looked like an old house.
+
+“By the way—how did you know about the coalition of forces within the Ashes of Humanity and what satellite imagery revealed?” Alan asked.
+
+“I’ve been online. My AI has been helping me to constantly scan social media, forums, and other networks for updates on the war. What is yours doing?”
+
+Keeping you safe, Nu sent.
+
+“Scanning our surroundings for threats,” Alan replied. “You haven’t been doing anything that could reveal our location, have you?”
+
+“Nope,” Ivy said. She paused and then took out her phone. “At least, I don’t think so. Let me make sure.”
+
+You have far more to fear than the forces in our immediate vicinity, Nu sent.
+
+What do you mean? Alan asked.
+
+Although technically the Game did reset all faction reputations, I doubt that it would be able to erase the memories of the Weaver or Omega. The Weaver’s network and the Archivists are two of the strongest forces within Cyberspace and I doubt either is friendly, Nu sent.
+
+Great,Alan sent. Defeat in Cyberspace could result in permanent deletion or brain damage… and I have no real defenses.
+
+Hey Nu, what’s your special ability? Eve provided hypercognition which improved my reaction speed—is it something like Lambda’s hypertranslation or Doppel’s copying?
+
+One moment, Nu sent. An ability screen popped up:
+
+Alan examined the skill screen, which was remarkably unhelpful:
+
+Skill Name:
+
+Hyperstealth
+
+Hides connections.
+
+Hyperstealth allows us to avoid unwanted attention, potentially even from the Authorities, Nu sent. Right now it is crucial we remain undetected.
+
+Wait, should I not try to change the outcome of this war? Alan asked. Should I be hiding?
+
+This conflict is a blip on the radar for these entities. Besides, noob protection is still in effect for humanity. Stay on Earth. If we aren’t in a strong position in a year we may need to disappear, Nu sent.
+
+Another reason to sprint forward, Alan thought. Was this all by design? Between his predecessor’s message and Nu’s ability, his options were limited if he couldn’t become a hacker. He still deviated towards rogue-type classes—a thief, an assassin, or an operator. Alan had never seen himself as a leader, but starting a guild with his infamy was an option. It just didn’t feel right.
+
+Was it leftover teenage angst that stoked Alan’s desire to stay hidden in the shadows, or was it simple self-preservation? Standing out made you a target. Yet as the Doomsday Hacker Alan was already a shining anarchist beacon to any that bothered to look. Did he need to get plastic surgery and a new ID or should he capitalize on the fame?
+
+Also what was this headache? It scoured his thoughts—a freezing, burning hole in his skull. Alan to split off the pain as another process, a feat he was once capable of, but was unsuccessful.
+
+Nu, what is happening to my head? I can’t think straight, Alan sent.
+
+I cannot provide answers, but am acting in your best interest, Nu responded. Trust that we are going for the win.
+
+That’s not enough. I need to know—
+
+Death will reveal more, Nu sent.
+
+Nu stopped responding to any queries. Time passed agonizingly slow. The hour they had decided to wait stretched on like an eternity. Alan tried to find distractions, but he simply couldn’t concentrate on anything.
+
+“The shooting stopped,” Ivy said, looking up from her phone.
+
+It had? Alan hadn’t noticed. His mind felt worn, like an old shoe that had walked too many miles. He thought he saw a message pop up, but nothing filled his vision.
+
+“Alan?” Ivy snapped her fingers in front of his face. “Are you okay? Do you need to be taken somewhere?”
+
+“I need to die,” Alan said.
+
+“What?”
+
+“Who knows,” Alan said. “Let’s check out the shop.”
+
+The pair walked through the city. It was a mild summer night, which meant the air was cool, but humid. They tried to go slowly, keeping vigilant, but here were so many blind spots—windows, doorways, corners, and darkness. Nothing appeared. No enemies arose from the shadows.
+
+The remnants and wreckage of another battle was found by the store, but the projector room had been picked clean. Maze’s squad and the UWG reinforcements had vanished into the night.
+
+There was something Alan thought he knew, a fact or plan or answer, but in reality all he experienced was pain. He barely put together the sequence of events that happened next. One moment fell into another like a vintage slideshow.
+
+Ivy found the keys to one of the pickup trucks the looters at the gas station had taken, and shoved Alan into the passenger seat. He took some painkillers and drank a bottle of water while Ivy gathered guns and ammo, piling the items onto the truck bed on top of the stolen food and drink. She found a tarp and covered it all.
+
+Ivy started driving. It was all a blur to Alan. He tried to focus on what he knew, the present. The truck was white. They were in Washington DC. Where were they headed? There were so many significant sites minutes away—the Pentagon, the White House, and the Capitol Building. That’s what he needed to focus on. The capture points were the heart and center of what had been the United States power apparatus, but what did that mean in an age when aliens had invaded and a United World Government had been formed?
+
+Alan had no idea. He had nothing but this hole in his head swallowing thoughts, tearing into his mind and leaving sharp edges behind. The vehicle stopped. The pain vanished, gone as quickly as it had come.
+
+“We’re here,” Ivy said. “I parked where it looks safe, but I think someone will need to guard our ill gotten goods.”
+
+“Where are we?” Alan asked. He rubbed his eyes.
+
+“Embassy Row. We need to visit the Administrative Center as planned. Hopefully we can find my brother and get you healed, but based on how the night has gone so far I expect to be ambushed by Haxlards instead.”
+
+“My headache is gone…” Alan trailed off. “No, it’s like it never existed. There isn’t even a memory of my pain, of something wrong with me, but I can’t remember how we got here.”
+
+“We drove,” Ivy said. “You were pretty out of it, so I just left you alone and checked the local radio. Nothing on but an emergency broadcast telling everyone to shelter in place. There were a few patrols. They ignored us.”
+
+Alan looked out. The car was parked in a church lot behind a red brick wall. They weren’t in the line of sight of any public street. None of the surrounding cars or buildings looked damaged, the area untouched by the fighting.
+
+“If you’re feeling well, I want to check if my brother made it to the Administrative Center,” Ivy said.
+
+“Let’s go,” Alan said.
+
+“Aren’t you afraid you might get recognized?” Ivy asked. “Let me check out the location first.”
+
+Alan frowned. He had been wearing a helmet or a face covering. Hadn’t he? There was nothing on his head now. Alan took a second to evaluate himself in the mirror. He was still wearing the guard’s uniform. He had an M4 rifle, a bulletproof vest, and a grenade in his pocket. Why was his arm in a sling? Oh yeah, his right wrist was broken. Why wasn’t it hurting more?
+
+It had been quiet for too long. What had Ivy asked?
+
+“Okay, fine,” Alan said.
+
+Ivy got out. She started moving out of the parking lot and down the street.
+
+Hmm, she really wanted to be alone, Nu sent.
+
+Nu, what happened? There are gaps in my memory, Alan sent.
+
+Odd, I haven’t detected anything inexplicable on my end, Nu replied. I thought it was all some ploy to avoid having to talk.
+
+What?
+
+Nothing, Nu sent. Let me review my logs… No unexplained missing memories, but your mind was oddly empty for extended periods of time the past few hours.
+
+Empty?
+
+There’s no inner monologue, only an awareness of your surroundings. Normally I’d assume you were meditating, but if you have no memories of these moments it must be something else, Nu sent.
+
+Alan hated this. If he couldn’t trust his own mind what could he trust? There was this gnawing doubt that was starting to grow. Was any of this real? The pain was in his mind, and thus real, but his wrist was still broken and the pain was gone. What did that mean?
+
+Rest. You’re spiraling, Nu sent. I’ll be able to wake you up and alert you if any enemies arrive.
+
+Sleep did sound like a good idea. Alan leaned back in the truck and closed his eyes. The exhaustion of the day overwhelmed him.
+
+***
+
+Awake.Alan regained consciousness with a smooth clarity. It wasn’t like a bolt of lightning, but rather the rising of the sun—a natural transition into awareness.
+
+The sky was beginning to brighten, though it was still dark. It was 5:03 a.m. EDT according to the in-game interface.
+
+Someone approaches, Nu sent.
+
+It was Ivy. She came alone. Alan wasn’t sure if that was a good or bad thing. Someone… someone important had told him he needed to change the system. Babysitting a budding pyromaniac and two untrustworthy bodyguards wasn’t helping with that goal. He was still trying to figure out Ivy, and if she was an asset or a liability.
+
+That probably wasn’t the healthiest way to look at a human relationship, but it was where his head went. His squad still had five open spaces, and if he was to have any hope in taking over a control point he’d probably need help.
+
+“No luck then?” Alan asked when Ivy opened the car door.
+
+“They were nowhere to be found, and I looked everywhere I had access,” Ivy said, sitting in the driver’s seat. “The Administrative Center was packed—full of politicians, guards, aides, and other non-combatant staff. I couldn’t even access a capsule—the line was 11 hours long!”
+
+She hesitated, eyeing Alan with an uncertain look. “I may have a lead on an information source.”
+
+“Oh?”
+
+“I know I can’t find my brother alone. So I looked online for help. We’re part of the United World Government, right?”
+
+“For now,” Alan said.
+
+“Well, I contacted various intelligence agencies, and arranged a meeting with the World Bureau of Investigation, which as far as I can tell is the FBI repackaged on a global scale.”
+
+“They were willing to meet after a few text messages?”
+
+“They may be under the impression I’m you,” Ivy said. She took out her phone, fiddling with it. “I took a few pictures and a video while you were out of it to verify.”
+
+“You catfished a three letter agency and stole my identity!?” Alan exclaimed.
+
+Not sure how I missed that, Nu sent. My bad.
+
+“My identity is sensitive too! I’m less likely to be recognized, and I figured they’d be more willing to meet you. Here, I got these too.” Ivy pulled a pair of dark green, wool balaclavas out. She handed one to Alan.
+
+Alan put it on, taking a moment to think. Meeting with an intelligence agency wasn’t the worst idea in the world. If anyone had up to date intel on the state of the Game it would be them.
+
+“What did you promise?” Alan asked.
+
+“Nothing! Just an exchange of information—they have a lot of questions about your activities.”
+
+“You know what, give me your phone.” Alan held his hand out.
+
+After a second of hesitation Ivy handed it over. Alan connected to the phone with Nu, lamenting once more that interacting with devices now required physical touch.
+
+Nu let out a mental whistle. Ivy had been far more active online than Alan realized. She had multiple accounts on various social media platforms posting, commenting, and interacting on a scale that didn’t seem possible until he realized she was having her AI help out. Dozens of different news sites were constantly being scanned, along with neighborhood and traffic apps.
+
+There was also a history of searches that seemed to concentrate on celebrity feuds—people were now actively taking out hits on rivals, a legal grey area in-game with fandoms in a few select cases actively warring. Alan had to stop himself getting invested in a live firefight between K-pop fans and a singer’s actual girlfriend. That wasn’t what he was here for.
+
+Hey, this could help. Nu highlighted an article on military fashion advice.
+
+Alan ignored him, focusing on the text thread that was with someone from the Washington Field Office. Ivy’s attempts to reach out had been ignored until she’d claimed to be the Doomsday Hacker and attached photo evidence. From there, she evaded a barrage of queries and instead demanded the known whereabouts of active UWG forces in the DC area, which was an interesting angle to try to discover Isaiah’s location.
+
+The WBI rebuffed with a request to meet in-person. They promised it would be peaceful, stating that anyone that engaged in hostilities would forfeit all of their levels.
+
+“Hey, just a heads up, but watch out what you promise in-game. Verbal contracts can be binding,” Alan said.
+
+“Thanks for the advice,” Ivy said. “Are we meeting them then?” She started the truck’s engine.
+
+“We are,” Alan said. “Let’s go talk to some feds. Or I guess they’re world agents now… Globes? Globs? Wors?”
+
+Ivy looked at Alan strangely.
+
+Alan shrugged.
+
+Keep practicing buddy, Nu sent. I’m sure you’ll level your small talk skills in no time.

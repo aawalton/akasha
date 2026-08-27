@@ -1,0 +1,265 @@
+---
+id: c59cf9bb-5088-5a17-97b8-4ef21938c29a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 746 - Caravan Clean-up"
+slug: 0747-chapter-746-caravan-clean-up
+partOf: mythrans-master-of-all-continued-completed
+position: 747
+ownLength: 2841
+unit: words
+publishedAt: 2018-10-30
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/302132/chapter-746-caravan-clean-up"
+royalRoadId: "302132"
+---
+
+The giant boar called Porkins was quickly cut up into appropriately-sized pieces and then a large area in the nearby field was prepared for everyone to eat. Large fires were constructed to cook as much of the meat as quickly as possible, and Ren sat where Artemis directed him. He was too stunned by what had just happened to do anything except sit quietly and think about the ramifications of his 'Create Anything' ability.
+
+Ren activated his Serene State of Mind ability and time seemed to slow down as all other thoughts and concerns disappeared and his mind cleared of it all, except for the Create Anything ability. His mind reeled over and over about the ability and the things he could do with it. After a few moments, which seemed like a lot longer, he assumed he had gained it from his Creator's Assistant title.
+
+Show info for Creator's Assistant title. Ren thought, and the popup appeared.
+
+Creator's Assistant (Title)
+
+Creator's Assistant (System Administrator) - Grants: Create Anything Skill, System Administrator Menu, Personal Aura +150 feet.
+
+Create Anything Skill: You can physically create anything already a part of the current world. Items can be asked for by name, by call ID, or chosen from a drop down menu. Items will materialize in the closest available space within 10 to 15 seconds.
+
+Also, the System Administrator menu has been unlocked and can be accessed at any time, and you have been granted the same authority to use those options.
+
+Ren managed to not let his mouth drop open at the popup; but, it was a close thing. Good god, I... I can't believe... good god.
+
+“Wow.” Teepo said as he read the popup. “That's amazing.”
+
+Teepo, you can hear me in Serene State of Mind? Ren asked, surprised.
+
+“We're communicating telepathically, and since it's mind to mind...”
+
+Right. Okay. Ren thought. All right. I can't freak out over this.
+
+“You freaked out about changing into a Dire Werewolf, which was the scariest thing I've ever experienced.” Teepo said. “Why can't you freak out over this, too?”
+
+Ren took several breaths and let them out. I won't let what I can do dictate what I'm going to do.
+
+“Well, while you're here, why not talk to Fire Dancer?” Teepo asked. “Maybe she can calm you down.”
+
+That's a good idea, buddy. Ren thought and opened his player menu. Unlike everyone else, his had the different realm times he had access to. He saw it was nighttime in the Fire Realm and concentrated on Fire Dancer. His body was covered in a red glow and he dropped into Fire Realm time. “Deity of Fire, can I talk to you?”
+
+“Hm? What? Who?” Fire Dancer's voice said.
+
+“It's me, Ren.”
+
+“Father!” Fire Dancer exclaimed. “What happened?”
+
+“You're quick.” Ren said, and then he explained what had happened with becoming a Dire Werewolf, killing the boar with fright, Artemis saving him and stopping him from killing everyone and possibly eating them, and then about gaining two concubines from the aftermath. Fire Dancer had stayed quiet the entire time while he explained everything, then he mentioned his Create Anything ability.
+
+“Hold on.” Fire Dancer said. “Read me the description.”
+
+Ren did so, and she was quiet for a while. “Deity of Fire?”
+
+“Father, you... you are...”
+
+“What?”
+
+“You can make anything that exists in the world.” Fire Dancer said with reverence in her voice.
+
+“I thought so, too.” Ren said. “Then I started adding the exceptions.”
+
+“Like what?” Fire Dancer asked.
+
+“Singular items for one. Like my Polymorph helm.”
+
+“Did you ask for one?”
+
+“I... no.”
+
+“Dad. Your ability said you can create anything in the world.” Fire Dancer said, almost in exasperation. “Try it.”
+
+“But...”
+
+“All it will do is pop it right back out, or tell you to destroy it because it shouldn't exist.” Fire Dancer said.
+
+“All right.” Ren said and held his hands out. “Please create a Supreme Helm of Polymorph.”
+
+System and Administration Request
+
+Create Anything Ability: Generating one (1) Supreme Helm of Polymorph (#SHP0001)
+
+A golden glow appeared and a Supreme Helm of Polymorph appeared.
+
+System Notice!
+
+Duplicate Singular Item detected. The same singular item cannot exist, unless you have found a way around that restriction. Violations of restrictions are automatically classed as Cheating.
+
+The helm was covered in a black glow and disappeared from his hands.
+
+System Notice!
+
+Cheaters never prosper. Duplicate item has been confiscated. You have received an official warning (1) for Cheating. Two (2) warnings will result in a one (1) day (real life) ban. Three (3) warnings will result in a one (1) week ban. Four (4) warnings will result in a permanent ban.
+
+Number of Warnings: 1
+
+“Well, crap.” Ren said, then explained to Fire Dancer what had happened.
+
+“So, you can still create anything, but those things are still subject to certain rules.” Fire Dancer said. “That's a relief.”
+
+“Wh-what?” Ren was surprised. “What do you mean you're relieved?”
+
+“You can't ask for another Fire Realm, since it's singular and it already exists.” Fire Dancer said.
+
+Ren's mouth dropped open at the thought. “I... I would never... I mean, I didn't even think that...”
+
+“It said you can create anything, Dad.”
+
+Ren took a deep breath and let it out. “Thank you, Honey.”
+
+“So you understand now.” Fire Dancer said.
+
+“I do, and I appreciate it.” Ren said. “I'll be very careful about what I say from now on, especially when it involves making anything.”
+
+Fire Dancer chuckled. “You don't have to be quite that careful.” She said. “Just when it comes to big or outrageous things.”
+
+Ren nodded. “Normal things are fine, since they are generated normally.”
+
+Teepo skittered down to Ren's hand and touched the Sending Ring. “Just don't go overboard and ask for millions of tons of gold or something.”
+
+Fire Dancer laughed. “Yes, that would definitely get you another warning.”
+
+“Not if I asked for it in one ton increments every couple of seconds.” Ren said.
+
+Teepo chittered in laughter. “You're already working out loopholes!”
+
+Ren and Fire Dancer laughed for several moments.
+
+“Thank you. Both of you.” Ren said.
+
+“I'm glad I could help.” Fire Dancer said, then snorted a laugh. “I also helped you get a warning!”
+
+“Yeah, thanks a lot.” Ren said sarcastically, and she laughed. “I should have just asked for something simple, like the large ruby from my chest plate.”
+
+System and Administration Request
+
+Create Anything Ability: Generating one (1) Large Ruby (Rare) (#JEWL0086)
+
+The ruby appeared in the air in front of him and landed in his lap.
+
+“Oh, damn.” Ren said.
+
+“You made one appear, didn't you?” Fire Dancer said and kept laughing.
+
+“Hey, it's not my fault.” Ren said. “Well, okay. It is.” He smiled. “If you keep laughing, I won't give you pictures of the babies.”
+
+Fire Dancer's laugh cut off like a switch. “Did you say babies?”
+
+“Yeah, Nathalia had a little boy.” Ren said and made a picture of him and made it Indestructible. “His name is Renardos and he's as cute as cute can be.” He made a picture of Narhilda's baby girl and made it Indestructible, too. “Narhilda went into labour early and she had twins... one a boy, the new king of the dwarves, and a girl... who just happens to be my daughter.”
+
+Fire Dancer didn't say anything in response.
+
+Ren used the All-Seeing Mirror to see where Fire Dancer was, and she was sitting up in bed with Zetaya asleep beside her. He then created a Magical Barrier around himself and opened a pixie-sized portal into the Fire Realm. His small magical barrier filled almost instantly with Everlasting Fire and he held both pictures in his left hand and pushed them through the portal. He cast his Permanent Enlarge 8 Times spell on them and they became normal-sized for Fire Dancer as he dropped them on her lap.
+
+“Apparently, my children have my eyes.” Ren said.
+
+Fire Dancer looked at both pictures and she saw that it was true. Unfortunately, she knew from the mirror in the room Ren had given her that her eyes were like her mother's instead.
+
+“Not all of them.” Fire Dancer said, and he could hear the sadness in her voice.
+
+“Hey, it's true.” Ren said and made another picture, then shoved it through and enlarged it. “Look at yours.”
+
+“Wh-what?” Fire Dancer caught the picture and saw her younger self and she had silvery-blue eyes, too. “You made this.” She said. “It's fake.”
+
+“It's totally real. When you accepted your mother's gift and became the Deity of Fire, the power it conveyed to you changed your eye color.” Ren said. “How else could I claim that all my children have my eyes?” He asked. “Oh, and my hair.”
+
+“My hair is Fire, Dad.” Fire Dancer said, a little snappishly.
+
+“Your mother was completely bald, Honey.” Ren said. “Just like the Earth beings.”
+
+“I... I have your hair?” Fire Dancer whispered.
+
+“I expected a little copy of her, and you came out to be a mix of us both.” Ren said. “She wanted someone who could adapt and become the true ruler of the Fire Realm, rather than make another flawed body like she did for herself.” He chuckled. “Now look at you.”
+
+Fire Dancer looked at herself and then at the ring. “I don't know what to say.”
+
+“I do.” Ren said. “Your mother had to gather Fire around herself to become your imposing size, and you gained power to do it instead.” He smiled. “I can't tell you how proud I am that you've turned out so well, even without me there to experience it with you.”
+
+“D-dad...”
+
+“I love you, Honey.” Ren said. “Now I have to go before everyone freaks out that I'm covered in Everlasting Fire.”
+
+“Too late.” Teepo said and chittered in laughter, and Ren looked up to see several of the Pervarians running around in very slow motion, and one was in the midst of splashing water on him, despite Artemis trying to tell them he was fine.
+
+“Yep, I better go.” Ren said. “Bye Honey. I'll see you tomorrow... ah, in 12 years or so I mean.”
+
+Fire Dancer laughed as she cast a Viewing Cloud and saw the scene. “I see what's going on. Have fun.”
+
+Ren chuckled and closed the portal and absorbed the Everlasting Fire inside his magical barrier, then stopped concentrating on the ring and dismissed the magical barrier. He absorbed the water being thrown onto him and stopped using his Serene State of Mind ability.
+
+“King Ren, are you all right?” Tatya asked as she knelt beside him, and her concern for his well being was quite strong.
+
+“I'm fine.” Ren said and felt her relief. “I'm immune to Fire, remember?”
+
+“What happened?” Kenkoth asked.
+
+“I was just talking to the Deity of Fire.” Ren said. “I didn't mean to frighten you.”
+
+Tatya's squinted her eyes slightly. “I wasn't afraid.”
+
+Ren reached out and touched her face. “I didn't mean you personally, as in cowardice, I meant you were afraid for me and if I might be hurt.” He explained and poured his appreciation into her.
+
+Tatya closed her eyes and basked in the feeling. “Yes, I understand the distinction now.”
+
+“Now that I've worked things out a little in my own head, thanks to my friend Teepo and my daughter, I can help with the food preparation.”
+
+“You just suffered quite a shock... two shocks, really...” Tatya said and opened her eyes, and he saw kindness there. “You should sit here and let the workers do their thing.”
+
+“I would, but after thinking about it, I have to agree with Kenkoth. The giant boar gave its life up for me. The least I can do is make it taste delicious when we eat it.” Ren said and stood up.
+
+“Oh? Do you feel like eating it now?” Beholo the healer asked.
+
+“I feel bad for what happened and causing it to die.” Ren said and he let them feel how bad he felt. They all shivered slightly at how sad he was over it, even though it was only a pack animal. “I have to make the most of it.”
+
+“It's already been divided up.” Tatya said and pointed at the bunch of fires set up for cooking. “I don't think...”
+
+“Let me worry about that.” Ren said and took a deep breath.
+
+“Take your own words to heart, Ren.” Teepo said. “Make the most of it.”
+
+Ren nodded and walked over to the closest fire and saw the meat they had and the setup for cooking it, and he took out several pans and told them the best way to cook it, since he had a lot more experience with cooking a giant boar than they did.
+
+“You're going to remove all the flavor if you cook it like that.” One of the odd-looking people with longer than normal necks said.
+
+Ren chuckled. “I'd tell you to trust me, but you don't have to. Just cook a few pieces like I ask and you can decide for yourself.”
+
+“Well, I guess that's fair.” He said.
+
+Ren was tempted to ask him what kind of creature he was; but once again, his Etiquette skill stopped him from doing that. It must be a social gaffe to openly ask. He thought and moved on to the next fire.
+
+“If they offer what they are, that seems to be okay.” Teepo said in the voice only Ren could hear.
+
+It's frustrating not knowing. Ren thought.
+
+“You could use Identify Person on them.” Teepo suggested.
+
+I could. Ren thought as he helped the next group cook some choice cuts for him. Like I told Princess Diana, I don't like invading someone's privacy if I don't have to.
+
+“I guess you're just going to suffer until someone else tells you what they are.” Teepo said and chittered in laughter.
+
+Ren held in his laugh as he went to the next fire and found the pieces of meat he needed. “Ah, here we are.” He said, and the two odd-looking people turned their heads and looked at him. “I was looking for these cuts of meat.” He pointed to one large piece. “Can I have that?”
+
+“We were thinking of making a big roast out of it.” One of them said.
+
+“No, no.” Ren shook his head. “That's a waste.” He took out a table and picked up the 1 foot by 2 foot piece of back meat, decided 6 inches would be the best length to get as many pieces of bacon from it as he could, and cut it down the middle to make 2 pieces of 6 inches by 2 feet. The two odd-looking people watched as he trimmed a bit of the odd edges off and slid them aside to square off the first slab of meat, then his hands moved like lightning as he quickly sliced slivers off. He did the other slab of meat and the table was covered in bacon strips.
+
+“What are you doing?” One of them asked. “How are we supposed to eat that?”
+
+Ren chuckled. “Watch and learn, my friend.” He said and took out a large flat grill and activated it. It heated up instantly and Ren quickly laid out the strips of meat on it. They started to sizzle and bubble right away, and he had left just enough extra fat on them to provide its own grease to cook. The smell quickly spread over the whole area, and by the time Ren flipped the bacon to cook it on the other side, nearly everyone in the caravan had gathered close by to get a stronger smell from it.
+
+“It's almost done.” Ren said and used a spatula to shift the bacon around and then he pressed the spatula down one last time to squeeze the grease out. “Okay, Tatya. First taste is yours.”
+
+Ren smiled as he felt her slight surprise, then he scooped a piece up with the spatula and tossed it to her. She didn't even think about trying to catch it with her hand as she opened her mouth. The piece slid right in and she caught it, then started to chew. Her face lit up at the taste and she nodded her head.
+
+Ren dismissed the popup and quickly took up the bacon and slid it onto a plate, then put more strips of meat on to cook. “Well, don't just stand there.” He said to no one in particular as he tended to the next batch. “The head of the delegation already approved it. Go ahead and have some.”
+
+The Pervarians exchanged looks for a moment, then they all looked at Tatya, who nodded slightly. The plate of bacon was empty an instant later. Ren chuckled and filled it again, and again.
+
+“How could we not know of such delicious food?” Yuwen asked as she ate her second piece of bacon.
+
+“I hadn't met you before.” Ren said, and she laughed.

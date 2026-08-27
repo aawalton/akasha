@@ -1,0 +1,231 @@
+---
+id: 5a20033e-ab43-54c8-8111-0ea4bb12d16a
+page-type-slug: story-chapter-royal-road
+title: "Introductions"
+slug: 0005-introductions
+partOf: new-gam3-plus
+position: 5
+ownLength: 3378
+unit: words
+publishedAt: 2022-07-28
+link: "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/958343/introductions"
+royalRoadId: "958343"
+---
+
+Among the sea of humanity, Ivy and Isaiah stood out. Most would have pointed out the obvious—they were kids flanked by two large bodyguards—of course they would be noticeable. But there was a gleam in their eyes, wariness in their stance. While everyone else was rushing about and exiting the auditorium trying to reach their destinations, they were on edge, standing next to the wall outside.
+
+Alan approached from where he had been observing, trailing behind another group. The bodyguards noticed him, but then dismissed him as a threat. He looked like a guard after all.
+
+“Hey, I’m Alan. Let’s get moving to the main hangars, you stick out standing still,” Alan said.
+
+Ivy jumped, looking up from a tablet. Like her brother, she had brown hair and might have been athletic, though without much muscle mass. It was hard to tell as the jumpsuits they wore—flight suits rather than expensive pajamas—hid most of their bodies.
+
+Ivy said, “We are expected on a Haxlard flight to Khersath.”
+
+“Your uncle asked me to help you through the Tutorial, that might no longer be the best option,” Alan said.
+
+“Our uncle...” Ivy repeated. She turned to look at her brother, who was staring at Alan.
+
+“Holy shit, you’re the doomsday hacker!” Isaiah exclaimed. Nervousness was replaced with excitement as his face lit up. Not the usual expression when meeting a wanted terrorist.
+
+Alan almost facepalmed. He scanned the crowd, but nobody noticed the outburst. “What part of start moving did you not understand? Keep a low profile and blend in with the crowd. If you don’t want to follow my direction you can continue with your original plans. Just tell your uncle it didn’t work out.”
+
+That finally got the pair to move, and they joined a long line of players headed to the main hangars.
+
+“I was simply surprised,” Ivy said. “It took me a moment to recognize you. Where did you acquire a guard’s uniform?”
+
+“Did you already kill someone? Can we start fighting already? I wanted to go outside and see what was going on but Ivy and Bob stopped me,” Isaiah added.
+
+“Introduce yourself first,” Alan said. He assumed Bob was one of the bodyguards.
+
+“I’m Isaiah and I plan on becoming an explosives specialist. I’m 16 and studied materials science and chemistry really hard even though I couldn’t experiment much but I—”
+
+“Isaiah. Explosives. Got it,” Alan said. “What about you Ivy?”
+
+“Me? I’m still processing, give me a moment to gather my thoughts,” Ivy said.
+
+She has an AI assistant, and is better than you at hiding when she’s conversing with them, Nu sent.
+
+“She wants to become president,” Isaiah said.
+
+Ivy glared at her brother. “When I was 8.”
+
+“And now?” Alan asked.
+
+“She’s a nerd,” Isaiah said.
+
+Ivy lightly smacked her brother on the back of the head.
+
+“Now I haven’t even committed to the idea of playing a combat role. I was supposed to head off to college—not fight in a civil war,” Ivy said. “We were to lay low and level as much as possible, but then you show up. I thought our uncle wanted us kept out of Operation Phoenix. It’s virtual but people are still prone to get nasty, in some cases because it isn’t real.”
+
+“Your life is no longer set on a linear path. Welcome to the Game, where anything can happen and quite often it’s what you least expect. All you can do is grab every opportunity you can. Don’t limit yourself. There’s a chance you’d get thrown into the conflict with any tutorial,” Alan said.
+
+“That does raise a question,” Ivy replied. “How are you with us if you’ve already gone through the Tutorial? I’d expected someone with your experience to be much stronger than you appear.”
+
+“Let’s say I started a new character. I may not currently possess the abilities or stats I once did, but I have plenty of knowledge that should give us an edge,” Alan said. “Enough about me. We need to focus on our next steps. Do you have any ways of communicating with the Haxlard ship?”
+
+“I can message the Triton,” Ivy said. She held up her tablet and then frowned. “Wait, there’s been an update. ‘Due to recent events, we can no longer offer you passage to Khersath.’ What? Seats aboard the ship cost thousands of credits and there’s nothing in here about a refund.”
+
+“My quests updated too,” Isaiah said. “We need to choose a faction to join.”
+
+“What about you two—what’re your names and backgrounds and opinion on all this?” Alan motioned to the bodyguards.
+
+One looked to be in his 30’s, the other early 20’s. The older one spoke up, “Call me Bob. We were paid to protect these two for a year in-game. Standard bodyguard contract. I’m ex-military and wouldn’t be opposed to reenlisting, though who knows how the government has fucked everything up.”
+
+The other bodyguard mumbled something, looking away.
+
+“Can you repeat that?” Alan asked.
+
+“I’m Charlie and I—I was a mall cop,” the bodyguard said.
+
+“I can vouch for Charlie,” Bob said. “He may not have ever seen combat, but he’s my friend’s kid and a crack shot at the range.”
+
+Keep a close eye on this Bob, Nu sent. Those are not their real names.
+
+“Well, looks like we’re here,” Isaiah said.
+
+They were coming up now on the three massive hangars everyone had teleported into, only the buildings had been repurposed. Digital billboards, announcements, and guards were all trying to get the same message across: Combatants to the west, non-combatants to the east, and those with previous military experience or psionic abilities to the north.
+
+Despite the recent attack, the surroundings were well lit with little to no debris in the area, and Alan noted only a single drone flying overhead. Alan suspected most of the heavy fighting had taken place in the Haxlard areas, while the United World Government forces had been left alone to set up this processing center. Curious.
+
+“So, do we split up here or…” Ivy let the question hang.
+
+“We move as a group,” Alan said. “Let’s see what they’re offering combatants.” He walked towards the west, joining a queue of people that seemed to be moving forward slowly. Military grunts with handheld tablets were going down the line like they were taking orders outside an In-N-Out.
+
+“That’s it? We’re just joining the UWG with no discussion or debate?” Ivy asked.
+
+“We’ll consider our options; see what they’re offering. I’ll take suggestions into consideration but I have to reiterate: I’m the one in charge of this group now,” Alan said. “If you have issues with that…”
+
+Ivy stared at Alan, and then said, “You still haven’t told us how you ended up in that guard’s uniform.”
+
+How do I get them to listen? Alan thought.
+
+People are complicated. Leadership is hard, Nu sent. Fight against those instincts that tell you to stay silent. Explain your actions as you’re best able to.
+
+Since I know you don’t really get people, let me give you the brief read I have on these two, Nu sent. Isaiah idolizes you. No idea why, but he does. Ivy is trying to find the optimal choice without enough information. She’s essentially where you were when you first entered the Game, though more sociable. Neither will be of much help in deciding which faction to join or what tutorial to take. They’re just going with the flow.
+
+“I saw an opportunity, and I took it,” Alan said. “You want to know who I am. I’m a gamer. I’ve taken and will continue to take the path that I believe will lead to higher levels, more loot, and better opportunities.
+
+“I believe, due to my past interactions and the fact that they are trying to take over this solar system, that joining the Haxlards is a bad idea. Now, even if you have a way to contact the Ashes of Humanity, it’s not in our best interest to join them. At least not yet. They seem to be filled with squads of elites—we’re noobs without many levels to our name. Jumping straight to end-level bosses and zones in any game is suicide. We’d stick out even more, and to be frank it doesn’t seem like Icewolf wants us to join the faction or he would have provided an easy pathway to do so. Is my logic lacking? Do you have any other concerns?”
+
+Ivy shook her head, while a guard walked up to their group.
+
+“Identification, please. If you don’t have any then a first and last name will do,” the guard said. He looked up at Alan, examining his uniform with raised eyebrows.
+
+“I’m a new player, I picked up this outfit off a body and managed to kill an Ashes soldier,” Alan said.
+
+The guard nodded and decided that dealing with Alan would be someone else’s problem. He took in everyone’s information.
+
+“Who do we talk to if we have questions?” Alan asked.
+
+“If you figure that out tell me, I have no clue what’s happening,” the guard said. “The Guardian Angel program is in charge and we’re all following orders for now.”
+
+“What’s that?”
+
+“The military’s state of the art artificial intelligence defense system. It kicked in when everyone in command defected or was blown to pieces, don’t know much other than that. Now let me do my job,” the guard said, moving down the line.
+
+Looks like people are moving on autopilot, Nu sent.
+
+Well let’s hope this line starts moving faster, Alan replied.
+
+***
+
+A long line of workers sat inside little plexiglass booths at the entrance of the hangar. The setup seemed to be an odd combination of TSA security and DMV efficiency. In other words, it was slow. Alan noted the timer had about 30 minutes remaining when they reached the front of the line. It might not even be possible to join another faction with the time they had left.
+
+The scanners and teleportation chambers had all been shifted to the far sides of the building, like chairs after a large event. A handful seemed to still be active, but most had been disconnected. The defensive turrets and armed soldiers were on full alert.
+
+Behind a few booths, a small wall of monitors had been set up, alongside a technician fiddling with power generators. Alan noted the new, bubble-like membrane in the area ahead. They were about to enter a simulated zone for testing.
+
+“Next!”
+
+The group walked up to a bored-looking man. His name tag said Julian, and he started talking when they were close to his station. “Welcome to the United World Government combat forces intake procedures. There is a lot to know and not much time, so try to keep questions to the minimum. Not that anyone ever does.
+
+“There are three main streams to choose from if you desire a combat role. One: join a branch of the United World Government armed forces. After a month of basic training and then further schooling dependent on your chosen specialty, congratulations! You’re in the army. Two: sign up for the United World Government player forces. Not recommended, though your group seems better equipped and organized than most. Maybe you’ll succeed where many, many others have failed. Three: get recruited to a guild or special operations forces by demonstrating skills or expertise in crucial fields. This route might also work if you have a fat pocketbook or the right connections. Good luck with all that with this craziness going on unless you’re already hired by Omnitech Industries, in which case—do you know if they’re looking for more personnel?”
+
+“There should be open job listings online. Can you list briefly the pros and cons of the various options?” Ivy asked. She used her tablet to look up additional info.
+
+“Joining the armed forces is the most stable, standard option,” Julian said. “However, it is like signing up for an army in real life. You’ll be under contract for a set time and are assigned a salaried job after testing. Note that if you are not fit for a combat specialty another may be assigned. Everything will be provided, but you will be expected to follow orders, including how to distribute status points and what abilities to learn. There are standard class templates to follow to maximize unit cohesion. The major drawback as far as most players are concerned is that while bonuses are awarded for loot acquired, at the end of the day everything must be turned in to the government.
+
+“The player forces are another option, but honestly they’re an incohesive mess. Want to know what a company of player forces is called? A mob, because they’re about as well organized. Most personnel consider them cannon fodder and not good for much else. A ton of FPS and MMO gamers choose this route for the freedom it allows but return weeks later after respawning a dozen times without progress.
+
+“You will have an area of operation you will be limited to. You can keep loot but it will be taxed. Weapons will not be provided, though loans are an option on a case-by-case basis. Rations and basic lodging will be subsidized, but the armed forces in the area will be prioritized if supplies run low. In emergency situations like the one we’re facing now you’ll still be given orders and expected to follow them.”
+
+“The Arctic Sniper and Plasma Technician started out in the player forces though,” Isaiah said. “I watched a few streams and their squads seemed to kick ass.”
+
+“They’re an exception to the norm. The vast majority of player forces cap out at Rank D,” Julian replied. “Chase the dream of getting to the top of the combat leaderboard if you want, or try becoming some wartime content producer hotshot—those streams are highly edited, by the way—but know that ninety-nine times out of a hundred it doesn’t work out.
+
+“One of the biggest differences between the armed forces and the player forces is training. Once you join the armed forces you will constantly be learning and assigned more classes that build upon what you have. Player forces are left to figure everything out for themselves, and trust me when I say people are not cut out for that shit.”
+
+“And what’s your opinion on special recruitment?” Ivy asked.
+
+“You probably know more about it than me,” Julian said, looking at Ivy’s Omnitech flight suit. “All the guilds are different, while the spec ops groups are secretive. It all varies a ton and we could spend the entire evening going through details. I’ve done it before; please don’t make me do it again.”
+
+“With all these rules why would anyone want to join one of these forces, why not strike out on your own?” Alan asked.
+
+“Because unaffiliated groups will be targeted and fired upon by all United World Government forces,” Julian said. “There’s barely any worthwhile mobs spawning on Earth, thus it was decided fighting other player forces would help level everyone up. That’s probably why this war started. Everyone’s either joined a faction, gone into hiding, or fled the planet by now. Left with no one to kill we turned on each other.”
+
+I think his guess is closer to reality than not, Nu sent.
+
+Oh? Do you have an idea of what this war is about? Alan asked.
+
+Only educated guesses, but I think this whole Operation Phoenix began as a military wargame that became a training exercise on a grand scale. One of the benefits of being inside a virtual space is that combat drills don’t have to hold the punches—live ammo against live targets is a real possibility since everyone respawns. Such practice is costly, but it can be effective, Nu sent.
+
+Icewolf didn’t sound like he thought this was a training exercise though, Alan sent.
+
+Not in private, but he did in public. Remember that the opening line in his speech was specifically that “this is just a game.” That was probably directed to the military brass and those in the know that Operation Phoenix was about to start, Nu sent. If everyone is expecting Control Points to fall as part of a massive test, they won’t be as alarmed as they should be.
+
+So this is just a drill then, Alan sent.
+
+No, not at all, and that’s the genius of this plan. The Game does not care about any of this—all that matters is who has those Control Points. If he holds them for 24 hours under the Ashes of Humanity faction that’s it. That’s the ballgame. The territory is now Icewolf’s to set rules and laws as he sees fit until another faction takes the Control Points back and holds them for a day. Actually, it might not be Icewolf setting the rules; I have no idea what leadership apparatus the faction has set up.
+
+“Is there something you’d like to share with the rest of us?” Ivy asked.
+
+Alan looked up and noticed that everyone was staring at him.
+
+“Nothing that I can share aloud, but if my guess is true it’s important we reach the front lines very, very soon to take advantage of the situation.” Alan turned to Julian. “What’s the fastest path to combat?”
+
+“Well any tutorial would involve combat, but if you want to actually fight in this war…” Julian sighed. “It would probably be by joining the player forces. You sign up, get tested, and then are shipped off. You think you can survive in an active warzone without any training and minimal support? Go for it. I’ve stopped trying to convince morons not to throw their lives away.”
+
+“This group of morons might surprise you,” Isaiah said, smiling. “Besides, I thought I saw some messages that there was a bonus for fighting in different areas.”
+
+“Yes, there is a recruitment drive underway for player forces in the District of Columbia metropolitan area specifically. Washington, DC, as the location for a number of key Control Points, is heavily contested,” Julian said. “But you all haven’t even gone through the Tutorial. You’d be worse than cannon fodder—you’d be free experience and gear for the enemy.”
+
+“Never mind that, what’s this bonus?” Alan asked.
+
+“1,000 credit enlistment bonus, more if you can demonstrate needed aptitudes. That’s way down the line though; you can’t properly sign up until after you complete the Tutorial. I don’t deal with contracts and all that bullshit, thank God,” Julian said. “This is supposed to be an introduction to the armed forces of the United World Government and to get everyone signed up as a citizen. You pick an initial path, I send you further down the line for processing. Sounds like you’re all joining the player forces, despite my warnings, is that correct? You might still be able to switch later on but it’s a whole ordeal.”
+
+Alan was about to answer in the affirmative, but stopped and looked around at the others first. Bob and Charlie were passive, standing guard. They’d go along with whatever their employers commanded. Isaiah was nodding along, while Ivy…
+
+“Fine, if you think this is the best choice.”
+
+“I do,” Alan said.
+
+Julian pressed a few buttons on a screen and a new message appeared:
+
+Alan hit accept. Another message appeared:
+
+Faction Change! Title Established.
+
+You are now a (preliminary) member of the United World Government granted the title Player Forces Recruit. United World Government reputation set to Friendly.
+
+Please follow established laws to avoid punishment.
+
+As a faction member, your Faction Standings will change, and your actions will influence your faction’s reputation as well as your own.
+
+Faction bonuses will not apply until the completion of the Tutorial.
+
+The timer that had been counting down disappeared, followed by additional messages:
+
+Player: Alan (Anomaly)
+
+Destination: To be determined.
+
+Please follow instructions on how to proceed. Squads for the Tutorial are still being established.
+
+“What now? This message only says to follow instructions, whose instructions?” Isaiah asked.
+
+“Whoever is next,” Julian said, “because now you get to face the Hallway.” He gestured to the simulated zone Alan had noticed earlier.
+
+“We’re facing a hallway? What does that even mean?”
+
+“You’ll see, now move along,” Julian said. “Next!”

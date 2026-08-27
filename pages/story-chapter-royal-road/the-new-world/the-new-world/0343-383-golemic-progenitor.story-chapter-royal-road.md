@@ -1,0 +1,357 @@
+---
+id: 28dda594-7db1-53c8-ad5a-43253ddd7afd
+page-type-slug: story-chapter-royal-road
+title: "383 Golemic Progenitor"
+slug: 0343-383-golemic-progenitor
+partOf: the-new-world
+position: 343
+ownLength: 4566
+unit: words
+ownProgress: 4566
+publishedAt: 2025-03-02
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2097913/383-golemic-progenitor"
+royalRoadId: "2097913"
+markedReadAt: "2026-06-29T21:33:00.523Z"
+---
+
+It left a spike of fear in me.
+
+If this was Lehesion's eclipse attack, could I save this place in time? I stretched out my arms, imagining a singularity storm over the stars. I'd destroy the entire mountain in my defense. At the very least, I'd turn this place from a small mountain to a broken hill. Before that could happen, I flowed through Mt. Verner and inspected it from the top down.
+
+It was time to turn this place into a fortress.
+
+Chapter Begin
+
+I flowed through the environment, remaking my head to view everything with more detail. The five floors worked well, and I didn't want to dismantle the work everyone put inside. This was my guild's home, and everyone developed a way of life here. However, a few more simple adjustments could be made with ease.
+
+I headed out of the mountain before coursing to its peak. Nearby, Chrona's void ice castle spread out. At the very tip of Mt. Verner, I erected an enormous pillar of dimensional fabric. It took minutes, my bodily regeneration speeding the process along. Once composed, I pulled out my grimoire and got to work.
+
+I wanted to remake the city buffing runes I created here while using Leviathan-7's cities as the framework. Shifting to my primordial being, I settled into my work. Except I didn't. I leaned against the giant monolith I had just made before condensing my wake over my hand. I'd forgotten to even check out what the primordial one did.
+
+Dimensional Wake - Your reach as a dimension has manifested. It extends outwards like an aura, currently known as Perfection's Provenance. Depending on your current mana type, this aura can be altered to one of six: Origin, Dominion, Augmentation, Ascendant, Quintessence, and Primordial.
+
+Perfection's Provenance - You gain the ability to manipulate the construction of reality to your liking. This affects all within your current radius.
+
+Current Radius: 3,342 ft/1.082 km | Size of the aura can be increased by your mass.
+
+The Origin of Perfection - Doubles the learning speed, creation speed, and efficacy of any skills used within your wake. This effect also affects allies.
+
+Arbiter of Ability - You dictate the ability of all within your domain. Halves the efficacy of skills and techniques used by enemies within Perfection's Provenance.
+
+Primordial Maker - Your creations are precise, foolproof, and perfect. +200% to creations' abilities, skills, mental complexity, psionic capacity, and obedience. When in Perfection's Provenance, anything you've created will obey your words without fault, regardless of their previous directives.
+
+When I finished reading, I scratched my head at the bonuses. They explained many of the aura's effects but also carried many uses I had never taken advantage of. In particular, halving an enemy's skill effects had immense combat potential. It didn't help against raw displays of power, but it dampened any technical combat someone tried against me like mind magic.
+
+I also guffawed at the size of my dimensional wake. It covered a vast area, giving me lots of leeway with using it. Once I considered its benefits, I put it as my default mode. Doubling my skill gains netted more results in the future than the stat bonuses from the Rise of Eden did. However, I would alternate between wakes as needed.
+
+After clearing that way, I got to the runic carving. My Primordial wake saturated the area, and I considered my prospects. I had three primary fears for Mt. Verner: world destroyers, Spatial Fortresses, and the Old Ones. World destroyers were people like Lehesion or Valgus. They could wipe a planet with enough time.
+
+I could show up well before they did, but they could dish out plenty of damage in the meantime. A strong barrier and a few golems gave me that time, so I scratched that off the list. On the other hand, a Spatial Fortress was something I couldn't stop. I could probably kill one, but it could kamikaze into Earth well before I did.
+
+Every inch of the planet would be glassed, but with environmental protection, blue cores could protect the populace of my cities. Getting the city out of the wasteland was simple from there. We opened a warp, and I heaved the circular chunk of secured metropolis through it. While not a permanent solution, Spatial Fortresses weren't a permanent problem.
+
+As for the Old Ones, that would require...I didn't know yet.
+
+Sticking to problems I could solve, I brainstormed what the cities needed. Air, water, etcetera were a must, like the ones on L-7. That stopped the environmental destruction of a Spatial Fortress from killing the citizens within a city's barrier. I copied those from Leviathan-7's rune augments, though I refined a few for efficiency.
+
+After that, I drafted a few runic designs for improving the city buffs.
+
+I sent them over to the council of Daniels, and we debated their merits. They recreated them, broke them down, and made them new once more. After many iterations, I got the plans back. They looked more akin to my primordial rune across my back and chest than anything else.
+
+I etched it into my grimoire, taking up another ten pages. The sun rose when I started charging the runes with mana. I watched the beautiful star rise up before the sigils clicked into place. I floated the complex aggregation of etchings over to the column, setting down one mark at a time.
+
+Once set up, I implanted twenty-five cores into the central pillar. I connected everything and watched it click online.
+
+Blue core menu activated. What would you like to do, sir?
+
+Exchange blue core for fifty red cores? (Y/N)
+
+Establish city and defensive aura? (Y/N)
+
+Sell blue core for resources? (Check out galactic rates!)
+
+I clicked the establish city and defensive aura button. Before it snapped online, I shopped through the options menu. I stopped the setting that vaporized low-level eldritch. I didn't want this to destroy the petting zoo I checked out with Althea. With that in place, it cranked into high gear. I watched a palpable psionic web scatter across the city and pass far into the distance.
+
+Well beyond Mt. Verner, the barrier reached the edge of the core's protection, about three miles away. It left a large swath of territory utterly protected, the icy hexagonal tiles forming overhead like Saphigia. It arrived with the freshened air, muted radiation, and controlled gravity of my L-7 runes. I appreciated the difference and slight buffs before rubbing my hands together.
+
+It was time for the golems.
+
+Instead of going with an army, I stuck with a smaller, more elite unit for Mt. Verner specifically. I pulled my mind out of my body four times, keeping the corpses afloat in a gravity well. I pulled one aside, adding additional plating and changing its facial shape. I looked more jagged and dangerous than I wanted this golem model to appear, so I got rid of all the spikes and made them sleek.
+
+The flat, angular design oozed professionalism and density. After getting the look right once, the others took less than half as long to adjust. I got the four of them covered in armor and equipped with shields and maces, keeping the same aesthetic. Once I finished the bodies, I took out my runes and planned another rewrite.
+
+Unlike the older models, I wanted these guardians to take a more active patrolling role. These golems would check around the city, manage entryways, and check out psionic scans of people. They'd stop individuals with strange mental signatures before having them reviewed by actually trained psionics.
+
+I didn't want to do it, but it was required at this point because of Elysium's tactics. Managing who entered and left Mt. Verner would stop most illegal activity and prevent their schemes from taking hold. It also let us handle the population with an actual census and understand more of what happened here.
+
+Because, even with my hands-off governance style, I knew there was crime here. Everywhere had criminal activity to some extent, but outside Torix's occasional lock-ups, Mt. Verner was close to a free-for-all. My golems helped with that, and my guildmates' widespread presence didn't hurt, but people would always find ways of hiding what they did.
+
+These golems would police the area, making all of that much less convenient for would-be criminals. They'd handle that daily task while being ready to defend the city at a moment's notice. That required some finesse, so I took a moment and attempted something new - a dual-cored golem.
+
+I'd implant two personalities based on different mana types, like the ones on L-7. Once made, I'd weave them together. In this case, it would be primordial and quintessence mana. The quintessence rounded out the primordial's edges, letting it take on a more constructive role rather than a controlling one.
+
+However, I'd leave the administrative and psionic aspects to the primordial core. It gave it a level of finesse the quintessant part lacked, which helped with general decision-making. To make all this function smoothly, the minds needed to work in sync and not argue. Preemptively eliminating that concern, I assigned specific tasks to different cores based on aptitude.
+
+I created a lengthy list of responsibilities these golems would handle and assigned them to different cores based on aptitude. After following a logical assortment, I added stabilizing thought processes like empathy and hesitation. If anything fell outside their limits, they needed a dual-core consensus.
+
+These could kill in a moment, so some discretion was important.
+
+After drafting the core's sigils, I spent hours and hours carving out the runes. It took a long time since each dungeon heart carried several independent minds. I had to organize them into different operations before integrating how they worked together.
+
+Once made and charged, I plopped the blue dungeon hearts into their socketed spaces. Marveling at them, I found two days had passed already while I set these guys up. It was all worth it as the new golem type hummed online; I called them keepers.
+
+One of the four keepers peered at me, a dark blue eye on its right side and the other a brilliant white. It approached me, my height and size but with added plates. Runes glowed over its surface, the spear arm's sigils like snow and the shield arm like the ocean's depths. It planted its spear into the ground before lunging to a knee.
+
+"Creator, we are ready for our responsibilities. Thank you for these lives. We will not waste them."
+
+The others followed behind, planting spears and lunging. I gave them a thumbs up.
+
+"You're going to listen to Torix Worm and give him weekly reports about what's going on and what you're doing. Understood?"
+
+They psionically spoke in tandem.
+
+"Yes, creator. As all, as one."
+
+They boomed out, and I smiled at their strength. Taking a moment, I analyzed a golem.
+
+[The Third Keeper | Protected Zone: Mt. Verner | Guild: The Harbinger's Legion | Level: 30,000 - This is the third Keeper of Mt. Verner, the current capitol and capital of The Harbinger's Legion. This individual is an immensely powerful guardian who can use many kinds of magic with high proficiency levels.
+
+It lacks nothing in its physical abilities, either. Its body is robust enough to traverse space or tread stars. It can recuperate from devastating injuries if given time and its mind is vigorously defended. It even carries the ability to use tactical maneuvers of magic with its other Keepers, making for a devastating foe for any that faces it.
+
+It obeys the Harbinger of Cataclysm without question and will enact law and order within the domain of his cities. Should you break the dictates of its maker, it shall unmake you. Fighting this creation is something few are capable of, and it will battle with its fellow golems.
+
+To fight one is to fight many. Be careful and tread lightly, as all should.
+
+All aside from you, Harbinger.]
+
+I rubbed my eyes before inspecting the level one more time.
+
+"What the hell?"
+
+The golem looked over itself.
+
+"Is there an imperfection? What may I rectify?"
+
+I waved my hands.
+
+"No, I mean, you're a higher level than me?"
+
+The golem looked up before peering back at me.
+
+"It would seem so, creator."
+
+I let my hands flop on my sides.
+
+"Are you kidding me? I'm...I'm actually kind of jealous."
+
+The golem grabbed its spear with both hands before pointing it at its head.
+
+"I may destroy the object of envy at a moment's notice, sir."
+
+I shook my hands.
+
+"I'm not that petty. You guys go report to Torix."
+
+They bowed before turning and jumping in sync. I sent a message to Torix before they arrived, letting him know about the new help. Before moving or going anywhere, I got to work on the next golem type. This one would be an evolution of the constructor. They built up any place I put them while assisting in maintenance and construction.
+
+However, they acted like powerful janitors and workers rather than anything genuinely breathtaking. With that in mind, I put them together with a primordial golem core. Instead of mindless drones, these would help out with planning and innovating the landscape of Mt. Verner and anywhere within the barrier's radius.
+
+I set up the plans for four of them. After getting the golem bodies from my own, I designed them as opposites to the Keepers. These golems would focus on giving opportunities rather than trying to restrict behavior. To prevent that from spiraling out of control, I kept strict contingencies on what they could do to guildmates or guests here.
+
+Enemies? Well, they'd do what my golems did to all enemies.
+
+The responsibilities of these golems included incorporating spaces for parks, businesses, economic development, and connecting people. I referenced a few art books while making these guys; even a cursory glance let me put in a few techniques I found. E.g., rules of composition, color theory, and a few overarching sentiments of aestheticism like gravitating to natural materials.
+
+For their other abilities, they'd have registries of individuals with specific skill sets. If appropriate, the golems got certain people together to create synergies and enable specialization. By connecting skilled people at the correct times, these golems made the most of the people here. They then made those skills shine by creating the vision of whoever took them to task.
+
+Blegh, I sounded like a salesman.
+
+Anyway, they'd be economical and artistic powerhouses. Furthering that goal, I smoothed their lines out, making them less harsh looking. Once settled them into a shape, I thinned them further, making them sleeker and taller. I also made their legs end in points rather than feet; they'd move with gravity wells anyways.
+
+Lastly, I made their heads like polished helmets, each faceless with a split halo floating over their heads. This gave them an avant-garde bearing, like beings too elegant to exist here. I hoped that would inspire the people who spoke with them and dissuade anyone that may try to use them. This project took another two days, but they hummed to life as the Keepers had.
+
+I called them - the architects. They were online, and a go before one of them walked over, its steps precise.
+
+"It is great to see you, creator. Your day goes well?"
+
+I nodded.
+
+"Eh, it's been pretty solid. How about you?"
+
+"It is both the greatest and worst day of my existence."
+
+I leaned back. It gave me a gentle bow.
+
+"It is my only day."
+
+I snapped my fingers.
+
+"It's a joke. Ok, sorry, my golems don't do that often. You caught me off-guard."
+
+The golem steepled its hands.
+
+"Would you prefer we didn't enable humor?"
+
+I brushed my hand.
+
+"What? No. I'm just behind the curve. Anyways, you all will be reporting to Torix like the Keepers."
+
+They peered at each other. A short conversation passed, and they turned to me.
+
+"As you design, creator."
+
+They hovered off before bolting across the sky toward's the underbelly of Mt. Verner. Before they got too far, I inspected one.
+
+The Fourth Architect | Enabled Zone: Mt. Verner | Guild: The Harbinger's Legion | Level: 30,000 - This is a mighty golem created by the Harbinger of Cataclysm. It is designed to enable the prosperity of its citizens, and it does this in many ways.
+
+It can create different kinds of matter in somewhat intricate patterns and forge artifacts of variable qualities. It can assist with designing structures, cities, plans, or anything else you desire. It can dismantle structures and debris, and it's even capable of creating high volumes of its own body as material, similar to its creator.
+
+It does all this while showcasing a tremendous fascination and investment in its enabled zone, Mt. Verner. In time, it will know every building, person, and conflict in the region. It will fully support the city after some time has passed.
+
+When put against an enemy, it is fully capable of defending itself, but it would rather use the opportunity to support guild members. It's a powerful and well-connected foe.
+
+The golem owned the same absurd level that the other ones had. Peering around, I found a Keeper golem in the distance inspecting something underground. It turned to me, finding my gaze before bowing. I couldn't believe it noticed me so fast, but I saluted it before the golem returned to work.
+
+It was good seeing them already doing their thing.
+
+With the two builder types of golems made, I changed gears for the next golem type I wanted. These would be the golems of war. Beginning with a previous model, I would make a variation of the assault golems from L-7. Instead of being designed around ascendant mana, these would be a mix of that and quintessence.
+
+The assault golems had acted in violent, difficult-to-predict ways, often fighting each other and breaking things. That wasn't a problem on L-7, but it would be devastating here. To temper those inclinations, I put a quintessence core within them. This quintessant mind focused on security, mainly from external forces.
+
+This directed that violence outward and channeled it into something productive. In that way, these golems would act as another side of the Keeper golems. While the Keepers kept the citizens in check, these golems would keep outsiders from assaulting us. I ensured their psionic abilities and general combat were top-notch to make that happen.
+
+They needed to look the part for intimidation purposes. Making that happen, I accentuated the spikes over them, giving them a menacing, dangerous feel. I gave them thin armor, including a helmet that could grin as my armor did. For the last piece, I included two swords. Each blade siphoned power from them, giving them an ascendant edge capable of slicing things apart via telekinesis.
+
+These guys would patrol outside the city's perimeter, ensuring nothing deadly got close. At the same time, they'd relay scouting information that detailed movements from anything nearby. Staying in the city's frontline, these guys acted as the first defense against anything trying to kill us. I called them vanguards.
+
+Clicking online, they vibrated the air nearby with a mixture of manas. One eye glowed white and the other red. A thin aura of their mana oozed from them like maroon lightning and white waves. The four stayed still after coming to life, choosing not to move.
+
+I walked up to one, and the vanguard raised a fist.
+
+"What needs to be destroyed, creator?"
+
+I frowned, hoping they'd be less violent.
+
+"Nothing, right now."
+
+It lowered its hand.
+
+"Good. Shall we head to the lich and ask for our routes?"
+
+They showed more initiative than most golems but less at the same time. I pointed at the tunnel entrance of Mt. Verner.
+
+"You'll find him in there. You'll be coordinating with the Keepers to keep Mt. Verner safe."
+
+They crossed their swords over their chests, flaring the edges with ascendant mana and telekinetic constructs. After slicing the blades out, they flew straight into the ground, molding their bodies into thinner shapes. Before they'd left, I inspected one status.
+
+[The First Vanguard | Guarded Zone: Mt. Verner | Guild: The Harbinger's Legion | Level: 30,000 - This is a golem created by The Harbinger of Cataclysm. It is a powerful psionic warrior capable of ripping armies apart in its wake. Its propensity for rapid combat and destructive magic is unmatched among its brethren.
+
+It is steadfast in assessing future threats and can discern intention with a degree of accuracy. Resistance can often spell disaster, as this lethal being can instantly eviscerate almost any criminal or enemy of its home. It also coordinates with the Keepers stationed at its mountain, giving it a tremendous ability to enable its defenders.
+
+Prepare for war when facing one of these golems, as the other three are not far behind. They can coordinate well together, oftentimes employing multi-fronted attacks across several domains of magic and combat simultaneously.
+
+Fear them.
+
+Aside from you, Harbinger.]
+
+It was a basic rundown of warnings for these guys, which made sense. In fact, they sounded far more sinister than the other golems had. Either way, I sent Torix another message before planning a date with Althea. I'd been designing and creating golems for six days already. Short of time, I spent the rest of the evening and night drafting up the last golem.
+
+This was an evolution of the director golem. While the previous one worked well, they lacked an ambitious edge. At the same time, the golems fought each other for dominance when more than one director golem handled a city. Wanting the director to have more oomph without focusing on other golems as much, I went with an ascendant and primordial core.
+
+It left me uneasy imagining the personality that may manifest, but I gave the model the benefit of the doubt. So far, mixing cores has resulted in smoothing out the edges of their inherent mana types. I hoped that would happen here as well. To that end, I modeled the body. It had fewer spikes than the vanguard while incorporating some smoothed lines. This made it look like a well-armored mastermind.
+
+After getting the many sub-minds created and binding them together for each core, I set up its responsibilities. This would act as the director golem had, but it would attempt to take the initiative for specific simple tasks. It would also handle many administrative burdens for Torix, though his personalized AIs probably mopped up much of that work.
+
+The last part this golem handled was managing the other golem systems I implemented. By refining the structures and strategies of the others, this golem would enable them to output more work. Like the others, I put a few hard caps on its actions, ensuring it couldn't do anything too crazy. Being the final golem type, I made only one of these golems and called it the executive.
+
+When it clicked online, it peered around before grabbing its chin.
+
+"Forestry? Beautifully laid out. Perhaps we could add a few different kinds of trees for variety. Hm, the creator."
+
+He saluted.
+
+"Anything you require of me at the moment?"
+
+I pointed to Torix.
+
+"You know the deal."
+
+He swung his arm with animation and gusto.
+
+"Absolutely. I'll get this place running spic and span before you know it, creator. Figuratively speaking, of course...As you are a quick thinker. Acting faster than you can think? Impossible!"
+
+He ran to Torix on the ground, inspecting the undergrowth and his surroundings as he did. I was glad it seemed more like a goofball than anything nefarious. Before he disappeared, I scanned the last of my new golem types.
+
+The Executive | Managed Zone: Mt. Verner | Guild: The Harbinger's Legion | Level: 30,000 - This golem was created with flesh and blood from the Harbinger of Cataclysm. It is an overwhelming psionic warrior capable of launching mind-rending assaults on groups. However, combat isn't its central concern.
+
+It focuses primarily on the administration and efficiency of its currently managed zone. This Executive is stationed at Mt. Verner, the capital of The Harbinger's Legion. It's able to make decisions regarding resources, and it can effectively identify inefficiencies before rectifying them.
+
+It can also assist with coordinating parties, events, or anything that requires organization. This gives it flexibility that other golem constructs lack. However, constraints are put in place to prevent overzealous action, as this golem would turn the entire mountain upside down for extra gain.
+
+It will turn nearly all minds it faces into indiscriminate mush. Be prepared should you choose to face it. All should fear this being.
+
+All aside from you.
+
+Once the executive was gone, I checked the time. It was midday, and the sun beamed down from overhead. I bolted across the skyline before finding Althea clearing an area just outside Mt. Verner. One of my architect golems already helped her out. As I landed beside her, the architect bowed, its presence almost alien.
+
+"Creator, it's tremendous to see you again."
+
+I raised a hand.
+
+"At ease."
+
+I turned to Althea.
+
+"How's it going?"
+
+She smiled.
+
+"Pretty good. I found one of these guys and got them to work. They're much more helpful than I expected."
+
+The golem nodded.
+
+"I was searching for meaning, and she offered it."
+
+Althea jumped up to my shoulder before spreading her hands.
+
+"Can you see it?"
+
+With a section of the forest already cleared, I did. I put my hands on my hips.
+
+"It looks like it will be a pretty large space."
+
+Althea nodded.
+
+"Yeah. I'm going to have to get several businesses set up nearby."
+
+I smiled.
+
+"You ready for another date night?"
+
+She fell back off my shoulders, flipping to her feet.
+
+"Oh yeah, I forgot all about that. Uh, hm, I have nothing planned. I'm so sorry."
+
+I smiled.
+
+"I do. Let's go."
+
+We flew past where Springfield once was, most of Yawm's funguses and whatnot already long dead. A bit of it remained but mixed with the typical wildlife for a yellow tint on everything outside the remade cityscape. Passing all that, we explored and scavenged for pre-Schema gear in ruins beyond the city.It was weird seeing ordinary buildings, their size and their scale so small. I couldn't fit in anywhere, which became a nuisance. Settling to handle that problem later, I spent the afternoon exploring with Althea. A couple hours later, we returned to our suite with many magazines, media, and other random junk. I explained much of it before Althea and I had time alone at our place.
+
+After she fell asleep, I pulled myself out, feeling refreshed. I got back to work on mass-producing basic cored golems. I handled this in the golem creation facility I made a while back, though my new method of making the golems put out less residual heat than before. Halfway through making a batch of twenty, a pile of insects crawled up the wall.
+
+They formed a smiling face, and they echoed out.
+
+"We've made strides with the Omega Strain."
+
+I put my grimoire back in my pocket dimension.
+
+"Does it need my attention now?"
+
+The insects cackled.
+
+"There are decisions to be made and consequences to be wrought."
+
+Plazia oozed.
+
+"Who else is there to dictate them, Harbinger?"

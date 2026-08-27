@@ -1,0 +1,189 @@
+---
+id: 05dc8128-d350-50f2-9750-6b954ac26789
+page-type-slug: story-chapter-royal-road
+title: "Chapter 521: Riftwalker"
+slug: 0043-chapter-521-riftwalker
+partOf: reborn-as-a-demonic-tree
+position: 43
+ownLength: 2580
+unit: words
+ownProgress: 2580
+publishedAt: 2026-01-05
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2914719/chapter-521-riftwalker"
+royalRoadId: "2914719"
+markedReadAt: "2026-06-29T19:02:59.360Z"
+---
+
+"Sis, have you... grown since I last saw you?" Janus said, looking her up and down with a mix of confusion and surprise. "You look older than I was expecting."
+
+Stella opened her mouth to respond but found her lip quivering as she studied his kind-looking face. He was handsome, as expected of her brother, with light blonde hair somewhat hiding his pink eyes. The aura around him was that of a Nascent Soul Realm cultivator, and he carried himself well. He was also a lot taller than Stella had expected from his projection, which was a similarity they seemed to share among others.
+
+"Stella?" Janus questioned, floating a little closer.
+
+Stella rushed forward without a word and forcefully embraced Janus in the tightest hug she could muster. He grunted as he caught her, and she burrowed her face into his chest. He was warm, smelled nice, and the hug was everything she had hoped it would be. It brought her back to her childhood in an instant, back when she had believed this man was her father. He had taught her many things, and they had laughed and played together.
+
+Losing him had torn her world apart and caused her to latch onto the only other being in that courtyard, Ashlock, who just so happened to have been planted by Janus. He had told her the story before. During his escape from the Celestial Empire, he had come across a human soul trapped in a tree. Knowing he would have to abandon Stella, he had planted the tree in the courtyard and raised it. Since they both shared the blood of the World Tree and therefore had an affinity for trees, Janus had hoped the tree would develop a way to communicate and fill the void of his absence.
+
+Which is precisely what happened. Though Stella had already aired out past grievances, she still felt rotten for accusing Janus of so many terrible things and cursing his existence. Yet in reality, he had done so much for her that she could never hope to repay such a debt. Saving her from the Celestial Empire, crossing the vast wilderness while being pursued, suppressing his cultivation to the point his soul almost fractured to remain undercover, establishing a home for her on Red Vine Peak, planting Ashlock, and finally, faking his death to lead the Celestial Empire away. He had even come to the Frozen Star Sect to beg its Patriarch to save her.
+
+He had done all of that for her without expecting anything in return.
+
+"Hey, hey, Stella? Are you alright?" Janus said, awkwardly patting her back as Jasmine was still clinging to it. "I'm sorry if that comment about you looking older made you sad..."
+
+Stella shook her head against his chest. "What are you apologizing for, you idiot? I'm the one who should be saying I'm sorry."
+
+"You're sorry? For what?" Janus chuckled. "It was my bad leaving you on Red Vine Peak and expecting Valandor to look after you."
+
+Stella looked up with reddened eyes and pinched Janus's cheeks. "You're an idiot if you think anything is your fault," she said, pulling hard on his cheeks and stretching his face. "Iiiidiot."
+
+"Ow, ow, ow," he joked, gently prying her hand away. "I never expected my little sis to be so feisty."
+
+Stella floated backward, and they stared at each other for a moment. They then both started laughing and crying. A lot of unspoken emotions were flushed out over the next dozen seconds as they both got a hold of themselves.
+
+"It's really good to see you alive and healthy, Stella. Honestly," Janus said, wiping a tear with a smile. "I just didn't expect you to get here so soon."
+
+"We took a long-range portal, and then Zephyrine carried us here," Stella explained, her voice somewhat shaking. She couldn't believe it. Before her was her brother in the flesh. This meeting was something she had practically dreamed of since childhood.
+
+She was so happy.
+
+"Enough about me," she croaked out. "How are you?"
+
+"I'm good, all things considered," Janus said, exhaustion betraying his words. "I just hoped this wouldn't happen," he gestured vaguely at the fight below. "Tensions are already high back at the Frozen Star Sect, and we have our mother to save. Monarch Realm's wasting Qi on a pointless fight isn't productive right now."
+
+"Who is Ao Lingxuan to the Frozen Star Sect?" Stella said, finally regaining her usual tone, though she could feel that her eyes were still slightly reddened from unshed tears.
+
+"He's the Patriarch," Janus said with a long sigh.
+
+"Oh," Stella blinked, looking down at the fight below. "This is bad then, isn't it?"
+
+Janus nodded and glanced toward the massive frozen volcano in the distance. "It won't be long until the entire sect is upon us, and more specifically, Zephyrine."
+
+"Are there any more Monarch Realm cultivators in the sect?"
+
+Janus shook his head.
+
+Stella let out a sigh of relief. "Then Zephyrine should be fine."
+
+"It's not Zephyrine I'm worried about—it's the sect members getting torn apart by two Monarch Realm domains clashing. Especially since Ao Lingxuan is losing, there's no telling what sacrifices some of his devoted followers will make to try and help him win."
+
+"What should we do then?"
+
+Janus shot her a knowing look. "Judging by the fact you are floating without a sword, I assume you have made it to the Nascent Soul Realm?"
+
+"Mhm, the 7th stage."
+
+A shocked gasp escaped Janus's lips, and Stella would never admit to anyone how amazing that look of bafflement on her brother's face made her feel.
+
+"Seventh stage?" he repeated as if savoring the words and processing what they meant. "That's almost as strong as me! Since when? Does it have something to do with why you look older?"
+
+"I took a trip to another layer of creation for a while and cultivated there," Stella admitted, dispelling the mystique around her meteoric rise.
+
+"Still..."
+
+"There was a high amount of time dilation in effect. Trust me, if you were given the same conditions, you would be a Monarch by now."
+
+Janus whistled, a look of awe on his face. "Ashlock's doing, I assume?"
+
+Stella nodded.
+
+"Even for us who were crafted to be the perfect cultivators, that's faster progress than I thought possible. I've got to meet Ashlock sometime soon. He sounds incredible."
+
+Stella grinned proudly. "Ash is incredible indeed. Though back to the topic at hand, what was your plan?"
+
+"Oh, right, the plan," he pointed toward the ice volcano. "Uh—I say we set up a perimeter and warn them to stay away."
+
+Stella raised a brow. That was a far simpler plan than she had been expecting. "And if they don't listen and try to force their way past us?"
+
+"Smash their heads in, that much should have been obvious," Janus said, flashing her a grin. "Your strength rivals the strongest Elders within the sect, so nobody should be a problem."
+
+Stella's lips curled up. "Now that's a plan I can get behind."
+
+"I thought you might like it, Sis," Janus said, bringing out a beautiful sword from his spatial ring. "Who knows, I might get lucky and have a justified reason to strike down one of the Elders that has been busting my balls these past few months."
+
+Janus shot off in the direction of the volcano, and Stella followed. "Anyone specifically you want me to target for you?" she shouted over the crackling storm swirling beneath them. Every few seconds, an earthquake would tremble the world as one of the fighting Monarchs landed a hit.
+
+"No, but if you have to set an example, it's best to target the ones in the black and red robes. They are part of the volcano cult."
+
+"Volcano cult? Does that mean they worship Ao Lingxuan?"
+
+"No, quite the opposite, in fact. They are a bunch of crazy bastards who want to free Ilyzathar's corpse from the ice and might see this as an opportunity to finally rid this world of Ao Lingxuan, who refuses the idea of moving his mother."
+
+Stella furrowed her brows. "What would freeing the corpse even achieve?"
+
+"Beats me," Janus said. "They are a new faction that came about in the last few decades and are the reason I haven't been able to leave and come and retrieve you. Ao Lingxuan asked for my help in dealing with them, and in return promised to assist in the fight against the Celestial Empire."
+
+"Why doesn't Ao Lingxuan just wipe them out if they are operating in the open like that?"
+
+Janus laughed. "The fool has been saving his Qi for this," he gestured at the fight below. "I told him time and time again that his chance to win was impossible and that he should just give up and focus on preventing his sect from falling apart. Alas, I believe the word 'stubborn' was invented specifically to describe dragons. He left the headache of the cultists to me, and their influence has only grown within the sect. At this point, more than half the Elders side with them."
+
+"There has to be a reason so many are rallying with them," Stella said, confused. "People don't switch sides like that without benefits, especially cultivators."
+
+"Okay, maybe they do have a few good arguments. If Ilyzathar had died basically anywhere besides right in the middle of a volcanic region, her corpse would have permanently altered the environment. However, because she died here of all places, the Qi coming from the corpse and nature have been at war."
+
+Stella started to see the problem. "And nature is winning, I assume?"
+
+"That it is," Janus groaned. "It will still take a few hundred years, but the territory of the Frozen Star Sect has notably declined, and so has the ambient Qi, leading to more and more Elders hitting bottlenecks. From what I've gathered, the cultists want to either free the corpse and move it to a more suitable location or cultivate directly using her bones."
+
+Stella frowned. "That seems oddly... reasonable? I mean, if the Frozen Star Sect will be reduced to nothing within a few centuries if nothing is done, moving the corpse seems like a good idea at least."
+
+"Oddly reasonable cultists. Welcome to my dilemma," Janus said with an exasperated sigh. "The problem is the person I need help from is anything but reasonable."
+
+"The dragon?"
+
+"The dragon," Janus nodded.
+
+Stella now understood why her brother had looked so exhausted.
+
+"It's been hard, hasn't it?" Stella said, patting him on the back.
+
+Janus snorted. "Nothing compared to what you've been through, but I can say without a doubt I'd rather have to run away from the Celestial Empire again with you kicking and screaming in my arms than spend another godforsaken day in this frozen wasteland trying to convince this stubborn dragon that fighting Zephyrine is impossible, and that maybe the cultists he wants me to slaughter have a point."
+
+"Don't worry, brother, our big sister is beating his inadequacy into his frozen head as we speak."
+
+"Sis, I'm this close to shedding a tear of happiness, you have no idea. I've wanted to see him beaten up for so long."
+
+Stella laughed. "Perhaps we will get lucky and he will start to consider your view after this?"
+
+"Alright, calm down," Janus said seriously. "That's never going to happen. A dragon can be beaten half to death and blame the weather for their loss... which would be a rather fair claim for this specific fight, but I digress. A dragon's pride knows no bounds. He will make excuses and likely try to drag you and Zeph into his nonsense. Speaking of," he came to a stop and looked at her, "what brought you all the way out here in the first place? You never told me."
+
+"The Fleshfruit tree, remember?" Stella said, coming to a stop beside him.
+
+"Oh, yeah. You asked me to bring you one, right?"
+
+Stella nodded. "But since you couldn't make it, I came to get one myself, and to meet you, of course."
+
+Janus smiled. "Well, if you need any help finding one, let me know. I'm quite knowledgeable about them."
+
+"Really? I managed to get a book from the Eternal Pursuit Pavilion about them," her spatial ring flashed, and the hefty book appeared in her hand. "I was actually going to ask you if you knew anything about its author, someone who goes by the name of Riftwalker."
+
+Janus's smile faltered. "Riftwalker?"
+
+"You know them?" Stella said, surprised by her brother's sudden shift in mood.
+
+"Let me see that book," Janus said, holding out his hand. Stella passed him the book, and he ran his hand along its surface, his frown deepening. "How did you get this again? The Pavilion?"
+
+"Yeah. The Celestial Warden said the client wasn't named, but they hired a Jade Sentinel that went by the name of Riftwalker to compile this book for them—"
+
+"Yeah, I know," Janus paused and looked up at her. "I'm Riftwalker. I wrote this book."
+
+"You're Riftwalker?!"
+
+Janus rolled his eyes. "Is it that surprising? I mean, the name should have been a giveaway. Riftwalker, who else could that be? There are so few of us spatial cultivators out there, you know."
+
+"I... guess?" Stella said, wondering why she had reacted like that. It wasn't like the identity of Riftwalker was a vast mystery that needed solving—she just wished to meet the author. "Why did you write this book?"
+
+"When I tell you I hate this place, this book should be a testament to that," he said, patting the hefty book with a thud. "I was so bored during my years here that I was willing to spend a decade studying some spirit trees. Now don't get me wrong, I love trees more than the average person, but even I have my limits."
+
+"Who was the client?" Stella asked curiously. The client had been obscured in the records, and she wondered who could possibly need such a comprehensive study on Fleshfruit trees.
+
+"The volcano cultists," Janus bluntly replied. "What? Don't give me that look. The pay was good, and I never claimed to be loyal to Ao Lingxuan and his dwindling faction of supporters."
+
+"I'm speechless," Stella admitted, but she also felt like she shouldn't have been surprised. After all, it was what she would have done too. "What did you even need the money for?"
+
+Janus glanced at her like that was a stupid question. "Do you see our surroundings? Shit all grows here, and that includes herbs used in pills. I've had to import everything I need through the Pavilion, and trust me, things are marked up to an insane degree out here."
+
+"So that's why you wrote a giant book on Fleshfruit trees for the cultists? Why do you want to kill them then if they pay well?"
+
+Janus snorted. "Because they have bounties on their heads. Oh, look," he gestured with his chin, "here they come now." A dozen cultivators, adorned in thick white or black robes, shot toward them on swords. "Like chickens to slaughter, I can practically see the Yinxi Coin bounties over their heads. Are you down to help me, sister?"
+
+"Sure," Stella replied with a shrug. It's not like she needed the Yinxi Coins, but after a few days of traveling, she was in the mood for some exercise.

@@ -1,0 +1,161 @@
+---
+id: 33dda366-bfb0-5735-9b11-8b23f4eb637d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 138 – Playing with Fire"
+slug: 0138-chapter-138-playing-with-fire
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 138
+ownLength: 2009
+unit: words
+publishedAt: 2026-06-19
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3559796/chapter-138-playing-with-fire"
+royalRoadId: "3559796"
+---
+
+"Tell me, Cee," Liora said as she stared at Smokey, who was greedily biting on an obsidian crab shell. The glutton had already eaten the majority of the crabs they had hunted, yet even then, it seemed to crave more. "What do we do about this thing while we try to get the Resonance Crystal charged?"
+
+Liora had wanted to try out her new body a bit after evolving, to see exactly how it worked. Good thing that she did, because it wasn't as straightforward anymore. She wasn't exactly a bird anymore, but neither was she a dragon. She was something in between.
+
+Flying, for example, was different. She could still pull off her aerial maneuvers. In fact, she could make much sharper turns and quicker movements than she could as an aethral. But she had to move her wings differently than before to achieve that.
+
+It was odd because, despite not flying that way before, it seemed like the knowledge of how to properly move her wings was already within her. She knew how to move her wings to take those sharp turns. How to shift her tail properly.
+
+The new tail, by the way, turned out to be a real controller in this situation. Due to how flexible it now was, it was much easier to shift this way or that. She could fly circles around the crabs, their boiling water jets nowhere near her. Not to mention that with her razor-sharp talons, even their tough shell felt no harder than the shell of a pistachio.
+
+Still hard, but much easier to break through. Sadly, even after she defeated a whole group of obsidian crabs on her own, Liora didn't gain enough experience to level up. The reason why Cee couldn't join was simple. The damned wyvern followed her everywhere.
+
+Cee had tried telling Smokey to stay away while they fought. He would only be turned into a boiled wyvern while fighting the crabs. But the little runt refused. It followed Cee incessantly and whimpered whenever she dared to jump a further distance away from him.
+
+"He's just afraid to be abandoned…" Cee noted, patting the head of the needy wyvern.
+
+"And I'm afraid of being eaten by his mother," Liora spat. "I'm not exactly fireproof."
+
+You should be more resistant to magical fire.
+
+Is wyvern fire magical?
+
+Hmm… That's a good question. It could be either. No, wait. For wyvern, it's actual fire produced with a special organ. For dragons, it could be either, since they have both the organ and the magical capacity for it.
+
+So my Prismfeather Mantle likely won't save me in this case. Even if this wyvern, for some reason, breathed magical fire, I think the level of my skill is still too low to protect me in a significant way.
+
+Yeah, especially against draconic fire. It's the most dangerous type out there, magical or not. Some can produce flames hot enough to melt metal.
+
+Lovely… and I somehow have to distract one long enough for Cee to do the attunement ritual.
+
+"Hey, it was you who wanted to charge the crystal here. I was always against the idea of facing the wyvern. Let's find a hot spring mana node," Cee said.
+
+"No way! Dealing with humans is always a bigger mess than dealing with monsters. Humans will either start worshiping me as a cult, try to kill us, or start corrupting everything in sight. Also, if you do something they slightly dislike, humans go completely crazy. They hold grudges!" Liora shook her head.
+
+Cee slumped. "I don't want to crawl into that wyvern's nest. I bet there are other hatchlings in there. What if they attack me?"
+
+"Maybe you can turn them into your pet too!" Liora snapped. "Have an army of wyverns?"
+
+"That's not a bad idea," Cee mused.
+
+"Cee!"
+
+"I'm joking! I'm joking! Not going to lie, Smokey is more of a handful than I thought, and he can't fly or fight or breathe fire. But I have this strong gut feeling that training him will only do us good," Cee said, patting the wyvern's head. "It'll be a good investment."
+
+The fact that the wyvern is already this obedient towards Cee is nothing short of a miracle. I suppose being abandoned by its mother must have made it latch onto the first friendly thing that it found. Perhaps… Perhaps, we could make this work.
+
+If it doesn't eat us first…
+
+Thankfully, you're now larger than it. With Cee's Pet skill and your size, the little wyvern should remain obedient. At least for the time being.
+
+Fine, fine. But what do we do about him while we go and charge the crystal?
+
+As much as I hate to say this, I suggest we wait for a few more days. Do more training. Let the wyvern heal its wounds a little and settle into a new routine. Most importantly, Cee needs to set some strong boundaries with it. Set up proper punishment should it disobey, and in a way it would understand.
+
+Liora's head was starting to hurt. How can you set up boundaries with a wyvern? It's not like it could understand them.
+
+"Renir says that we should wait a few more days. I'm going to train and get used to this new body. You, on the other hand, need to get that little rascal in check. Set boundaries, punishment, or whatever. Do you know something about how to train animals?"
+
+"Yes, of course. I used to run a dog training school. I know everything when it comes to training animals," Cee proclaimed proudly, raising one of her legs high.
+
+Liora blinked in surprise. "You remembered who you were on Earth?"
+
+Cee paused. "I… I did. Wow, I remembered! That was so sudden. One moment, I didn't know anything, but the next I remembered all about my job. As if I had never forgotten in the first place. That's… kind of weird…"
+
+Suddenly, she grasped her head with her front legs.
+
+"Cee, are you alright?" Liora asked, stepping closer to her friend. Even Smokey looked concerned. Or was that hunger in his eyes?
+
+"My head hurts like hell. As if it has been hit with a sledgehammer… But I remember! I remember so much. This is great! With this knowledge, training Smokey will be easy."
+
+"A wyvern isn't exactly a dog…" Liora pointed out.
+
+"I believe these training methods apply to most animals. Don't worry. I got this. Give me a few days, and I'll whip Smokey into decent enough shape to proceed with our plan," Cee said, then slouched down on the ground.
+
+"I think you need to sleep a bit first. I'll watch over you so Smokey won't eat you."
+
+"He wouldn't!"
+
+Smokey came closer to Cee, his snout extending towards her as he let his tongue out of his mouth, similar to how a snake would do it. As if he was tasting, Cee.
+
+"Hey, don't you even think about!" Liora opened her wings in a threatening manner, and the wyvern scuttled some distance away with a whimper.
+
+Several days passed. Liora spent most of the time above the sea practicing her skills and flying maneuvers. She even tried diving underwater to see whether Fluid Flight still worked. It did, and in fact, it was easier to swim with her new body.
+
+But she didn't remain in the water for long. While the sea was vast and the chances of her meeting the same merfolk were astronomically low, Liora didn't want to tempt fate. Even if she could remain underwater safely for a short while, she felt far from comfortable down there. A creature adapted for underwater combat would surely make short work of her.
+
+The most surprising part was that Cee's weird training was actually working. Liora didn't understand half of what the spider was doing. She would coax the wyvern with crab meat to do what she wanted, but at the same time, she'd be rather harsh with Smokey when he disobeyed.
+
+Not to the point that she would hurt him. She just jumped up on some rocky outcropping and stayed there for a while whenever Smokey did something bad. For some weird reason, it was working. To a degree. There was still a long way to go. But at the very least, when Cee commanded him to stay, Smokey would stay in place, and when she told him to go, he would go.
+
+"Okay, I think I'm ready to get the Resonance Crystal attuned," Cee announced after four days.
+
+"Are you sure?" Liora asked, feeling nervous at the prospect of facing the mama wyvern. Could she really keep the creature occupied for long enough?
+
+"I'm sure. Besides, I'm tired of this island. Crab meat is great, but I'm getting tired of it, and I'd rather save the stuff in our Inventory for when we really need it. Also, I do not want to be here once that volcano decides to go haywire," Cee said, pointing at the volcano, which still had a steady stream of lava trickling down from it into the sea.
+
+It was also likely that the smoke cloud it was spewing had grown bigger over the last few days.
+
+"I mean, I can fly, so we can get away whenever, but you're right. Let's get this done!" Liora said, steeling her resolve. "But we're going at night."
+
+"Naturally. I also solved the issue with Smokey," Cee said.
+
+"Oh, how?"
+
+"Easy. We'll just sneak away while he sleeps."
+
+Liora glanced at the wyvern who had busied himself with grooming his regrowing scales. Were they itchy perhaps? He seemed none the wiser about what they were talking about.
+
+"I suppose that works. Let's do it!"
+
+A few hours later, when Liora and Cee were sure that Smokey was asleep, they set their plan into action. Cee climbed on Liora's back, and together they flew towards the wyvern nest at the center of the island.
+
+"Your back is so huge now. Riding on it is something else. I wonder how tall you are at this point?" Cee asked.
+
+"I don't know. I don't have a good point of reference."
+
+By my estimates, while comparing you to Cee, you should be the height of a short human woman.
+
+What?! I'm human sized now? That's really huge for a bird, isn't it?
+
+It is. Not so huge from a dragonoid, though.
+
+"Apparently, I'm human-sized," Liora announced to Cee.
+
+"Hmm… Yeah, that does feel about right. Although you feel much bigger while flying because of your wings," Cee noted.
+
+Yeah, those are huge. Around 3.5 meters wingspan, by my estimates.
+
+Beware the might of my wings!
+
+The wyvern is larger still.
+
+Why you got to rain on my parade?
+
+The closer they drew to the nest, the more nervous Liora felt. They were flying a good distance above the island, so the wyvern shouldn't be able to sense their approach. Emphasis on shouldn't. Somehow, the creatures always found a way to find her one way or another.
+
+Don't forget that wyverns have a heat sense. Once you're close enough, the wyvern will likely sense you and wake up. You have to draw all the attention to yourself while Cee completes the rituals.
+
+Heat sense… Right…
+
+"Here's the Resonance Crystal, Cee. Make sure my sacrifice is not in vain," Liora said.
+
+"Don't say you're going to die. You just have to keep the wyvern away from the nest for a little while."
+
+A shiver ran through Liora's spine. She didn't like the way they decided to distract the mama wyvern. They couldn't have the wyvern suddenly decide that chasing Liora wasn't worth the effort and return to the nest while Cee was busy weaving the ritual.
+
+So they had to resort to drastic measures. Something that would make the wyvern chase Liora until the end of the planet. She would grab the juvenile wyvern. Hopefully, she cared for this one more than for the one she had abandoned. Otherwise, Cee might end up as a roast spider.

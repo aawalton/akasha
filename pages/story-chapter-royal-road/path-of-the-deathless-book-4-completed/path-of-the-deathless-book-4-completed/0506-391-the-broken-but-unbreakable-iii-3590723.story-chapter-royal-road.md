@@ -1,0 +1,235 @@
+---
+id: adf1c762-321e-55e1-8773-27029a16f74e
+page-type-slug: story-chapter-royal-road
+title: "391 The Broken But Unbreakable [III]"
+slug: 0506-391-the-broken-but-unbreakable-iii-3590723
+partOf: path-of-the-deathless-book-4-completed
+position: 506
+ownLength: 4660
+unit: words
+publishedAt: 2026-06-25
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3590723/391-the-broken-but-unbreakable-iii"
+royalRoadId: "3590723"
+---
+
+It is important to pay very close attention to the details of a Quest when it is delivered upon you. The System phrases things a certain way, and it is not above vagueness-induced duplicity. I have seen powerful Pathbearers slain for nothing because they assumed they needed to “slay” a being many times their ability to handle rather than “eliminate” it as the System demanded.
+
+There is always an intent behind the System's phrasing. It always tries to engineer greater outcomes down the line. The tension comes when it places things just on the edge of your capabilities. There are times when circumstance and misfortune conspire against you, but the System itself does not desire your failure. The System wants to see you struggle, fight, and build your legend—but it also wants the same thing for your adversary.
+
+This applies even more so if you achieve Legendary-Tier and begin a Delve. The Delve Quest might feel impossible at times, but you must think, what is being asked of you? Did it say defeat the foe, or kill them? And what has gone unmentioned? Remember, aside from the conditions of your failure, you are permitted to do anything to see the Quest complete.
+
+—Valor Thann
+
+391
+
+The Broken But Unbreakable [III]
+
+This Flesh of the Invincible Sacrifice materialized around Shiv in a dense veil of silvery resplendence. It clung to him, hardening like a suit of indestructible armor he could summon at any time. As the glow faded, he felt his Toughness billow out in waves, painting his surroundings—as if he'd gained a mana field for durability.
+
+A smirk spread across Shiv's face. “Alright, let's see what you can do.” Once more, he guided the orichalcum blade to shred his own flesh, and the cutting aura seeped into him, splashing against that silver shell that now protected him from harm. It sank into his new shell, and the Flesh of the Invincible Sacrifice glowed bright as Shiv didn't suffer any immediate harm.
+
+Already, this was more promising than his previous Skill Evolution. However, he could feel something pulse out from him. Everything touched by his glow suffered damage on his behalf, and Shiv's eyes widened as he heard the orichalcum surfaces around him scream, deep gashes marring their exterior. He heard the door frames shred and splinter like someone had taken a chisel to their entire surface. Suddenly, Shiv heard a ragged gasp, and the unmistakable sound of parting flesh and splitting bone.
+
+He barely managed to look over his shoulder before the simulation restarted. As everything that was bathed in the shine of his Toughness Skill suffered harm on his behalf, so too did Adam. His head rolled away from his body, leaving peeled chunks of face-flesh left over on the bloodied pillow.
+
+Encounter Failed
+
+Resetting Delve
+
+He blinked as everything around him reloaded. The damage his surroundings had suffered on his behalf was restored. Behind him, Adam gasped and gagged, choking on his own blood, but at least his head was connected to his body again.
+
+Seconds passed. Shiv's hands rose, and he clutched his head as he tried to process what had just happened. “Alright, that wasn't my fault at all. The System's just being an asshole again. How the hells was I supposed to know that was going to happen? Broken Moon, I didn't even make it to the first encounter…”
+
+A beat followed, and Shiv awkwardly raised a hand. He brought it against his chest in a slight collision, and a resounding thud echoed from all the orichalcum surfaces around him. Two divots appeared in the wooden door frame, and an invisible force struck Adam's head and face, sending him sprawling out of his bed like a rag doll. Shiv repeated the tap a few more times, each blow lighter than the last. His surroundings continued to bear the debt of his damage, and Shiv understood then why this skill held its name.
+
+“Because it's not me who's sacrificing, it's everything around me that's sacrificed for me…”
+
+Initiating Encounter (1/5)
+
+Wave 1 activated.
+
+As the notification appeared before him, he realized he couldn't fight with Adam still exposed to his skill. He didn't know if it was the glow that caused the damage to be transferred or just proximity. Guess I'm about to find out.
+
+He backed into the room in a burst of hurried speed and moved Adam into the corner, tossing the blankets over him and positioning the bed frame as a final barricade. “Alright, I shouldn't be shining on you anymore. Let's see if this still kills you.”
+
+But Shiv had no intention of wasting his time. He summoned a scintillating flame atop his palm and channeled it in a spreading stream that filled the hallway, cooking the Uvas as soon as they stepped out from the open doors.
+
+Though his emotional turmoil was gradually numbing, there was still enough discomfort inside him that he felt contusions form across his body. Okay, so you're superseded by the Harbinger. Or maybe socially-fused attacks are beyond your ability to resist. Whatever the case, I see a few problems with you already.
+
+As the last of the Uvas were reduced to delightfully scented corpses, Shiv felt the simulation shudder, and he was returned to the doorframe once more. He immediately repeated his earlier action, hiding Adam from harm and placing him in the corner, and placing the bed and blankets over him.
+
+Instead of filling the hall with fire once more, however, Shiv decided to take a moment to further manipulate his new skill. The first thing he discovered was that while it could be turned on or off, its intensity didn't seem to be adjustable. It was simply manifested or not. The moment it vanished, however, he realized his flesh retained that red-gold hue of orichalcum. Though the pillar was no longer here, it seemed that he still retained a baseline level of his Heroic-Tier durability as consolation.
+
+“Okay, maybe I can work with this,” Shiv muttered to himself. Yet, he couldn't stop his dissatisfaction with this new Skill Evolution as well. He needed to examine its full capabilities, but if it worked the way he suspected, that would make him an absolute hazard for everyone around him, or see his own toughness reduced to spare his allies and surroundings from being sacrificed on his behalf.
+
+The Uvas and Urris came, and Shiv greeted them as he did in encounters before, standing stalwart before their charge. This time, however, things were different. The blows that rained down upon him were redirected against all that was caught in his silvered wreath. The Uvas thrust their fractal blades forward, but pierced themselves and bled the Urris instead. Their geometric weapons sank into Shiv, but vanished amidst that glowing aegis which protected him. A distribution of injuries suddenly appeared on his surroundings, cuts shredding through the carpet and leaving grooves upon the ceiling. The Urris found their skin pierced, thin channels of blood stroked along the periphery of their immense eyeballs.
+
+And suddenly, Shiv didn't feel so disappointed in this new Skill Evolution anymore. Maybe he really could make this work. His burgeoning hope ignited into a raging elation as the Urris fell upon him in a brutal frenzy of violence. Fists and bodies capable of inflicting earthquakes across a city rained down upon Shiv like a shower of unceasing artillery.
+
+Yet it wasn't he who bore the burden of these blows.
+
+Every impact he sustained was distributed back to his surroundings. Cones of cascading force blasted out from him, sending the Urris back and denting the orichalcum walls. The Uvas became a non-factor in a second. Those who weren't cut down by their own redirected stabs were turned to bloodied mist by the displaced destruction Shiv now unleashed. The Urris were stunned as well; their own blows turned against them while Shiv’s Biomancy, Pyromancy, and cutting aura finished the job.
+
+This makes me a nightmare in close quarters, Shiv realized. I'm a damage bomb that just keeps going off. How the hells is a Vanguard ever going to hurt me now?
+
+The Culturist teleported behind Shiv, attempting to bypass him altogether and slay Adam. He made it a half step before he was reduced to a stain on the ground as one of the Urris slammed both fists down upon Shiv, causing the hallway to deform—and everything devoid of Legendary Toughness to splatter.
+
+Through it all, Shiv suffered no harm. The only injuries he sported were those gained from his unbalanced emotions earlier. “You know what? With a bit of cleverness—”
+
+Encounter Failed
+
+Resetting Delve
+
+The sudden reset caught him off guard. He found himself returned to the door frame. “What? What just… but I…” He caught himself before he started raging at the System. “Wait, did that kill Adam too?” He thought back to the Culturist turning into gore-vapor. “Ah. Maybe he managed to expose Adam at the last second.”
+
+The rising thrill that came with Shiv's newfound invincibility plunged down and kept falling. His disappointment returned in full force. This wasn't invincibility. Not really. This was just him offloading his suffering on everyone else.
+
+Despite this, Shiv was far from disheartened. The skill, though bearing significant penalties, was a step in the right direction. “Not sure why you gave me this when I asked for Narrativium, but I guess that's unavailable. Alright, maybe just a small adjustment: instead of being a glowing light cloak that damages everything in my vicinity, maybe just turn into an actual shell. If I can transfer the damage I'm supposed to take through direct contact or something I can control, rather than just going off like a mana bomb every time I get hit, I think that just might make the perfect skill.”
+
+Once more, his Toughness Skill cracked open, but this time, instead of blossoming anew, he simply felt a few pieces of it shed free and another layer grow over that which had been lost. The same changes took shape on his body. The silvery glow he emitted was drawn in, condensing as if a mana field was becoming bound to his person. The silver calcified and then burrowed deep. Shiv felt his body grow heavier, thicker. As the transformation ended and the silver dimmed, Shiv found his flesh changed.
+
+He lifted his hands and took in his new Skill Evolution. Instead of sporting a wreath of silver that projected the damage he sustained on his surroundings, the alteration made to Shiv's form was faint—almost imperceptible. Slight veins of platinum ran down along his hands. Each tendril glowed so bright that they shone through the fabric he wore, and Shiv realized he was wrapped in a protective lattice instead of a radiant shroud.
+
+Initializing Unconfirmed Legendary Skill Evolution: Onus of the Scarred Unbroken
+
+“Sneakier,” Shiv muttered. He tried altering the skill in some way, but it wouldn't turn on or off like before. Instead, he stayed the way he was without changing. “Okay, on to the more direct test then.”
+
+Shiv ripped another shard of orichalcum out of the nearby wall and drove it straight into his ribs.
+
+A slashing projection tore into his body, but no pain followed. Instead of seeing the attack swallowed by a silvery glow, the platinum veins that sprouted across his form came alive like molten rivers. An explosion of glorious embers flared free from the point of impact, and a clash resounded from Shiv as if he were not a thing of flesh but an anvil to be hammered upon. In the aftermath, Shiv saw a crescent cut lining the exterior of his flesh, yet, instead of bearing the crimson of vitality, it was now an engraving of silver; branded upon his person like an animated tattoo.
+
+The sight of the injury radiated with a crushing weight instead of any pain. It left him feeling charged and heavier rather than maimed. He could move as normal, and when he pressed his finger against the crescent gash, he found his surrounding flesh condense into a glowing weave of platinum. “Okay. So I caught the slash, and now it's stuck inside me… And what’s an onus?”
+
+Initiating Encounter (1/5)
+
+Wave 1 activated.
+
+His questions remained unanswered as the nearest door to him flung open. An Uva emerged and was promptly incinerated as Shiv channeled a dense stream of scintillating flame, which forked in coruscating rivers as it washed over the space and set the back of the hall ablaze. Shiv didn't kill all the Uvas immediately. Not to spare himself the pain, but to let a few come forward, seeking to test the effects of their blades upon his body.
+
+The subsequent scars they left on him proved uncanny.
+
+The aberrant fractals tore into him, yet never pierced any deeper than his silver-veiled skin. Every injury that should have manifested became a gleaming mark instead. With every attack Shiv suffered, with every bit of damage he was supposed to take, he felt an added burden of weight descend upon him. It was a strange kind of heaviness—one that induced an unwanted feeling of claustrophobia upon him. Despite this, this evolution appealed to Shiv in more ways than one.
+
+The burden he suffered was there, but with his Legendary Physicality, it didn't slow him at all. Shiv guessed that he could fight without end, even with such a load placed upon him. Even as more scars graced his body, the total encumbrance he faced did not grow exponentially. By this point, his body was practically a nest of platinum and silver, but not once did he suffer any harm.
+
+After letting the Uvas tear into him for over a minute, Shiv decided he was ready for the next encounter and casually stopped their hearts with a swipe of his mana hydra. As they fell and the simulation reset, Shiv realized there was one final thing he could have tested but forgot—offloading all that damage. His previous skill was all about transferring the harm meant for him upon his environment. Shiv yearned for more control over his damage redistribution skill, and so he set about testing that aspect of his toughness before the next encounter followed.
+
+Initiating Encounter (2/5)
+
+Wave 1 activated.
+
+Wave 2 activated.
+
+He resolved the Uvas in an instant, taking them out of the equation with a swelling flood of flame. As the Urris came charging across, stomping through Shiv’s scintillating fires while their Magical Resistances waned, Shiv dropped his fists and waited for the beating to come. It was here that he discovered the first disadvantage possessed by Onus of the Scarred Unbroken.
+
+When the Urris smashed into him, hammering him with their immense strength, he found himself drawn back, driven back ever so slightly. Force still affected him, even if he didn't sustain any harm. The same wasn't the case when Shiv was using the Invincible Sacrifice. Both kinetic energy and potential damage were dissipated upon his surroundings.
+
+Still don't get how that has anything to do with Narrativium…
+
+However, that disadvantage didn't last, for another drawback resolved it before it could become a lasting issue. As the Vultegs struck Shiv, he gained new scars in the form of massive glowing bruises that blazed upon his body. Like with the Uvas' fractals, Shiv suffered no injury, but there was weight, and the Urris inflicted a lot more weight than any of the reduced Uvas could.
+
+Movement now came with the slightest strain. Shiv had to spend tides if he wanted to accelerate, and with every subsequent blow, the burden he bore grew greater. It wasn't just that. Time itself caused each of his unbreaking scars to grow denser, to weigh on him evermore.
+
+Well, this has me feeling pretty nostalgic. When my pillar got tough enough, it left me pinned in place. Had to spend Tides to start moving again. Yes, this is like that, but even better. Instead of me building up to a certain amount of toughness, I take the damage, and it converts that to weight… But if that's the case, then why can I feel these scars? Why does it seem like I can push on—
+
+The moment Shiv tried pushing on one of his unbreaking scars, his entire body flared like a star going supernova. The world was bathed in palest light. The Culturist chose the wrong time to teleport behind Shiv as he was caught in the blast radius once more. Every single scar lining Shiv's person detonated off of him, seeking a surface or an individual to square his debt. He saw the Urris refunded for their many punches, and the Culturist took three such blows at the same time to the lower section of his spine.
+
+The lesser version of the Legendary orc folded in half like a broken chair, and was then shredded by all the fractal cuts Shiv had endured earlier.
+
+However, to Shiv's growing delight, the release of all the damage he sustained did not spread into Adam's room. Instead of projecting his damage-debt in a flood of light, Shiv shed the platinum lattice lining his flesh like an exoskeleton he could detonate at his enemies. Everything caught by his shrapnel suffered on his behalf. The orichalcum infrastructure was torn open and punctured. The Urris were driven back by their own blows. The Culturist was reduced to less than paste on the ground.
+
+“Godsdamn,” Shiv growled in triumph. “That’s the kind of shi—urk!”
+
+The rest of his words left him as a slurred groan as one of the Urris flung another of his clones at him. A literal ton of Vulteg smashed into Shiv’s midsection, and he felt his sternum crack, his ribs break, and his lungs hammered hollow of breath.
+
+“Urri is strongest!” the Legendary Vulteg roared, wrapping both hands around Shiv’s head in an attempt to rip his spine out of his body. Shiv heard a disconcerting series of cracks go off inside his torso before he caught and broke Urri's thumbs before launching him back at the others with a thrust kick. A shock wave went off inside Urris chest. The counter force tore ligaments and shredded cartilage inside Shiv's knee.
+
+As he staggered back, Shiv found himself coughing up blood and having a hard time breathing. Yeah, I know what this feels like. Probably have a punctured lung. One of the ribs is buried deep inside my left… Won't be putting any weight on that right leg either.
+
+Just as he was about to wonder what happened to his Toughness, Shiv felt a faint itch crawl across his body, and when he held up his hand, he saw that he no longer sported the platinum lattice that kept him protected. It was slowly growing back, spreading out from his heart and across the rest of his body, but it would take time for it to regenerate. And during that time, I'm vulnerable. Shiv tried not to groan. No free meals. Always a drawback. But I can work with this. I really can.
+
+And he did just that by wrenching himself open and letting the Garden of Wounds and Broken Things spill over to flood the hallway.
+
+An avalanche of rubble and bloodied injuries crashed over the Urris. In seconds, he drained them dry of life force and saw the encounter ended. During that time, he studied the many wounds and runes that comprised him and saw that platinum lattice creeping over every square centimeter of his unique form as well.
+
+It looked like every part of him was going to be coated in that second skin of whatever it was. There was a common theme of sacrifice here, so Shiv had guessed it was probably something like sacrificium or whatever.
+
+Alright, so ultimately and actually, there's really just one drawback, and that's a period of extreme vulnerability after I detonate my skill. I guess getting really, really heavy is also another drawback. I suspect if I take enough damage, I won't be able to move. If a Mythic-Tier or a god hits me, do I keep getting more and more weight added to me until I'm just stuck in place, or is there a breaking point for the skill?
+
+If he had to guess, the answer was likely no. There wasn't a direct limit, but every bit of damage he took would come at the cost of exhaustion and also a moment of extreme fragility that followed the aftermath of a discharge.
+
+Also, why are so many of my skills discharge-based? Hm, wait. Between this and my Inertial Overdrive, I think we can go places.
+
+Shooting a wary glance at Adam to make sure he was still fine—and that a Culturist hadn't snuck into the room somehow—Shiv immediately immolated the hallway again as he prepared to finally get past the third encounter.
+
+Initiating Encounter (3/5)
+
+Wave 1 activated.
+
+Wave 2 activated.
+
+Wave 3 activated.
+
+Shiv stayed close to Adam this time. Instead of leveraging his Garden of Wounds and Broken Things immediately, he decided to wait until he was in a vulnerable phase. In the meantime, Shiv fought with absolute abandon, committing everything to offense and leaving defense to handle itself.
+
+This strategy ended up working pretty great. He lashed at his enemies using his mana hydra, hammering their Magical Resistances over and over again. At the same time, he called forth eruptions of scintillating fire, searing everyone within the hallway as much as his nihilistic flames could. Possessed of their own absurd Toughness, the Urris barreled forward, only to find themselves siphoned bare of life as they led impotent charges into Shiv over and over again.
+
+But then came the Culturists—and that was when things got trickier. A dozen of him seemed to assail Shiv at the same time. The Culturist’s fists glowed and blurred, strikes hammering against Shiv's meridians, calling for his body to tear itself apart from within, but his Onus of the Scarred Unbroken endured on his behalf even as his burden grew greater with every hit.
+
+Shiv took the beating without issue, but trying to intercept the orc was a far greater challenge. He ended up drawing all his nihilistic fire back and igniting everything around Adam's bedside. This strategy worked out well as the Culturist caught aflame, his Magical Resistance dramatically inferior compared to the real one’s.
+
+Once more, the tasty scent of deep-fried orc meat filled Shiv’s nostrils, and he found his mouth watering with thoughts of food and victory. His enemies couldn’t even scratch him, and even if the Culturist was annoying, he couldn’t get close to Adam. When the orc was reduced to an edible lump of smoldering meat, Shiv turned his attention to the Urris and returned to relieving them of their vitality.
+
+As the attritional struggle finally came to an end, the hallway was filled with steaming bodies, and Shiv found himself pressed tight against Adam's bed, for that was the only space left to him—everything else was occupied by bodies. He had no idea how much time had passed. It didn’t feel that long in retrospect, but active combat made time flow strangely sometimes.
+
+“An hour,” Shiv reminded himself. “I have to protect Adam for an hour. That’s the Quest. Don’t think I can just end this by killing everyone across all encounters.” And more than that, he knew what was waiting at the end. After facing waves of other Pathbearers, there would be another version of him with the same skill, and Shiv was not looking forward to that. “Shit. No idea how I’m going to deal with asshole-me.”
+
+But then something struck him—this current encounter was still going for some reason.
+
+Wave 4 activated.
+
+A single door swung open outside Adam’s chamber.
+
+Shiv's scintillating flames licked at the newcomer's body and recoiled as his attuned mana found itself flung back by a repulsive presence. His new enemy sported tessellating armor and a long golden blade that filled the hall with blinding light. She was short, practically half Shiv's size, but he felt his rectum pucker up at the sight of her as all illusions of a guaranteed victory turned to ash on his tongue.
+
+“Ah, shit, fuck, not you!”
+
+“Me!” Jessica laughed, and she strode forward with a lazy flourish of her blade.
+
+Okay, Shiv told himself, brushing cooked bodies aside so he could get to Jessica before she entered Adam’s room. Remember. She can’t hurt you. All we have to do—
+
+His mind went blank as her blade began to flow. She wielded her weapon like it was a river. He stood in her way like a dam, refusing to budge, impervious against all that was to come.
+
+Jessica's first strike landed before Shiv could even react. It was a flicking blow, meant more as a gauge of distance rather than an act of injury. Though Shiv remained unharmed, there was just enough force in her upraised strike that he found his head tilted toward the ceiling.
+
+Which caused him to lose track of her.
+
+Every subsequent strike Jessica delivered felt like it landed at the same time as the others. She drew disemboweling wounds across his abdomen, hammered a deep gash into his chest, whipped a gleaming lane of platinum along his throat, and utterly savaged his groin, eyes, ears, temple, knees, elbows, and more.
+
+It was as if she walked into a hurricane comprised of platinum pens. His unbreaking body was defaced, and the weight he sustained grew to insane levels. Every step caused his legs to shake. Every movement required Shiv to use up all his overflow tides.
+
+He tried striking back, but she wasn't in front of him anymore, and between the scintillating flames that caused everything around him to glitter and the smoke rising from the bodies, Jessica proved impossible to track—until the sickening sound of tearing flesh sounded from Adam once more. Shiv gritted his teeth and turned like a rusted gear. When he finally managed to look behind, he saw Jessica growing out from the slowly remaining parts of Adam's carcass. She had shrunk down to less than a flea, sank inside Adam after battering Shiv and leaving him stalled in place. After that, it was just a matter of growing large enough to tear Adam's body apart.
+
+“Getting closer, kid,” Jessica cheered with a chuckle, pointing her longsword at him. “Getting real tough too. Actually, I'm going to be real jealous about this Toughness Skill, or maybe not, but I'm just going to tell you this. You're on the right track, except you need to take it a step further. You got to protect this guy. I'll be honest, it's not looking good for you in a straight fight. You’re not going to be able to stop me from getting to him. So, looks like you’ll have to find a—”
+
+Encounter Failed
+
+Resetting Delve
+
+Adjusting Legendary Skill…
+
+Initializing Unconfirmed Legendary Skill Evolution: Onus of the Scarred Unbroken
+
+Shiv found himself back in front of Adam’s room with everything reverted. A long, frustrated sigh whistled out of him. “Fuck. She wasn’t even trying when she fought me before… Wasn’t even trying now.”
+
+He threw off his impending demoralization as he rolled his shoulders. “But she couldn’t hurt me. Not even a little. Just gotta use that. Just have to think. Think… How do I stop a Legendary Pathbearer skilled enough to embarrass me every time we fight who can also turn into a flea or smaller? How…”
+
+“That is a good question indeed.”
+
+Shiv spun as he flinched, swinging a fist—that struck nothing but air as Valor shifted out of the way.
+
+“Whoa! Valor? Wait, but—”
+
+Valor held up his hands. “No. I am not part of your Delve Quest. I am the original, descended into your soul to render whatever aid I can. Now—let’s not waste time: Show me what you have evolved so far.”
+
+And suddenly, Shiv wasn’t feeling so demoralized anymore.

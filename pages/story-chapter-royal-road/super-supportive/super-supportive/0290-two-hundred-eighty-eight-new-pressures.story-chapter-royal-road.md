@@ -1,0 +1,403 @@
+---
+id: 8a871920-4452-5a3f-b532-611ad7e18858
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED EIGHTY-EIGHT: New Pressures"
+slug: 0290-two-hundred-eighty-eight-new-pressures
+partOf: super-supportive
+position: 290
+ownLength: 5254
+unit: words
+publishedAt: 2026-05-21
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3426020/two-hundred-eighty-eight-new-pressures"
+royalRoadId: "3426020"
+---
+
+288
+
+******
+
+“Now we have floating island strategies that could be initiated by every member of the team. Except Everly.” Vandy Carisson ran a highlighter over a line she’d written in her notebook, then capped it and lifted blue eyes to regard the tall, brunette girl in the green tank top who sat across the table from her. Their team was having a planning meeting in one of Celena North Library’s group study rooms. “But I don’t think we can count your strategy, Heloísa. It’s too uncontrolled. It might kill some of us.”
+
+“No risk, no victory!” Heloísa said, high-fiving Rebecca in the seat to her right.
+
+“That’s how we do it,” said Rebecca.
+
+“I came up with something I could do for the island,” said Everly, crossing her arms over her chest. “But it would use up my spell impression casts, and it would take too long. It’s not like we need to have a strategy for everyone on the team. And it’s all right if I don’t get to run this week. I got to go last Friday.”
+
+Vandy nodded at her, then looked pointedly at Heloísa again. “People can have victory without risk. That’s the best way to have victory.”
+
+“Is it winning if you win against a baby?” Heloísa asked.
+
+“I’m not sure how that relates to this.”
+
+“You understand what I’m saying, don’t you, Maricel?” Heloísa held her hand up toward Maricel in the seat beside her. Maricel didn’t look over. She was watching footage of one their two runs from last week as it played on the wall, frowning critically at the small image of herself trying to shape an earthen ramp.
+
+“Too slow,” she said quietly. “I’ll need Hasten Call.”
+
+“Good for you,” said Heloísa, reaching farther to wave her hand in front of the other girl’s nose. “But won’t it probably be a few affixations before the System offers you that since you didn’t take it the first time around? I don’t keep track of what’s usual for other classes, but I thought you’d gone more for the versatile Shaper route. You’re fast enough at moving dirt around anyway….slow at returning your friends’ high fives, though.”
+
+Maricel batted at her hand, then stuffed her own hands back into the pockets of her hoodie and continued watching the video.
+
+Tuyet looked at Maricel and then turned to Everly with a pleading expression. Everly shook her head. Their exchange went unacknowledged by anyone else at the table.
+
+“Starting with that skill would be silly, so of course Mari didn’t do it,” said Jupiter. She’d spent the past hour making a grass skirt for Heloísa’s teddy bear purse, but she’d been frequently updating the shared group notes through her interface, so they all knew she was paying attention. “There’s no point in making the element move faster than your normal limits if you don’t have anything interesting to do with it. What would an enhanced-speed basic push be for her? Just a little sand blower. People who start with obedient element spells are wrong, too. Shapers need to learn to make shapes. Isn’t that right, Mari?”
+
+“If there’s a chance to make another ramp on Friday's course, I’ll take it,” Maricel said.
+
+“Well…” Vandy said, “…you did what you wanted a couple of times last week, and it worked out. But I don’t want us to think so individually. Just because there’s an opportunity for a ramp, it doesn’t mean that’s what’s best for the run. We’re practicing being a team, using communication before and during gym time, not making up our own rules—”
+
+“I don’t think I could ramp all the way to the floating island, so I’ll follow your plan for that.”
+
+Tuyet looked to Everly again. This time, Everly sighed. “Maricel…I think Vandy means that you were pushing ahead of the rest of us too much last week. You were doing great. But we weren’t expecting you to be so far out in front building things on your own, and we didn’t know you were going to take the second attack opportunity. Tuyet had positioned herself to snipe, and she was just waiting for Vandy to pick the timing.”
+
+Maricel blinked. “Oh.” She looked at Tuyet. “I thought since you weren’t going…”
+
+Everly uncrossed her arms. “She was going. It was only four or five seconds before you jumped in, Mar—”
+
+“It’s fine! I wasn’t upset. I’m not upset.” Tuyet smiled at Maricel. “Let’s just talk more during our next run, so that we’re all together.”
+
+Maricel looked around the table. “Sorry. I didn’t realize I was bothering any of you.”
+
+“It’s okay.”
+
+“Don’t worry about it, Maricel.”
+
+“Plans fall apart all the time in the gym anyway!”
+
+“People can make plans that won’t fall apart. Ideally—”
+
+“Vandy, honestly…”
+
+“I understand because sometimes you just have a brainwave about a way to kill someone, and not trying it out right away is hard.”
+
+“I’ve never had a brainwave like…that…Jupiter.”
+
+The girls chattered, reassuring Maricel and one another about their upcoming performance until Vandy slapped the table a few times to call them back to order. “Tonight and tomorrow, everyone should be sure to make it to bed on time. I found a visualization exercise for team sports, and I think I’ve made it work for the obstacle course. I’m sending that to you all. Remember that being prepared on strategy day and course day is homework. Instructor Ash may ask any of us questions at any time tomorrow, so know how you’ll answer if you’re the one who has to explain our strategy to him in more detail.”
+
+“I don’t think he’s going to do that,” said Everly. “I think he’s going to skim whatever we give him, drink sugar, pick some teams, and then leave before any of us can complain.”
+
+“I get that vibe, too,” said Rebecca. “I don’t have a major problem with the instructor since he’s not boring to listen to when he’s explaining all the video, and he told me he’d seen a Brute invert Bounce Repeater, which I’ve never heard of before. I’ll be figuring that out or trying to make the System show me whatever add-on talent makes it possible. But the man’s not into teaching much.”
+
+“And he’s not very nice,” said Tuyet.
+
+“He’s not nice at all,” said Rebecca. “I’d have stabbed him with a pen if I were Alden on the first day.”
+
+“You would be expelled,” said Vandy.
+
+“It would have been self-defense. I was so embarrassed for him.”
+
+“Maybe Instructor Ash was jealous of his rings,” said Jupiter. “I’m jealous of both of their rings.”
+
+“You can’t kill them for their jewelry,” Heloísa whispered.
+
+Most of the girls burst into snorts and giggles.
+
+“All right,” said Vandy once it had subsided. “I was going to suggest fifteen more minutes of planning strategies against specific members of the other teams, but we don’t know most of them well enough yet. And we’re getting too unserious, so I think a nutritious supper and heading back to our rooms for rest is the right call.”
+
+“I don’t mind being unserious. It feels like everyone’s more…like this.” Everly held up a tightly clenched fist and scowled at it. “This term. Compared to last, it’s like we’re not arguing as much, but it’s because there’s more tension instead of less. Is that only me?”
+
+“We lost a couple of class members to Elites, a couple to dropouts, we’ve got the new people in Combat I adding pressure,” said Rebecca. “Those all combine into something.”
+
+“Are they adding pressure?” Vandy asked. “I fought Opal in a duel on Tuesday. She seems friendly. There wasn’t pressure.”
+
+Rebecca rolled her eyes. “I didn’t mean the B-rank could pressure an S like you in a one-on-one, Vandy. I meant that having living examples of people who have to retake Combat I among us is reminding everyone that we’re really in this program now, and even if it’s not Li Jean’s Elites, there are standards.”
+
+Heloísa’s face fell. “The new strongman and I fought. And I know he’s had a couple more months of practice than me, but I thought I’d be better than him since he…you know, he must have been one of the worst members of the group ahead of us or he wouldn’t be taking this with us. That makes sense, right?”
+
+“Some people who don’t move forward on schedule probably just recognize they need to go a little slower,” said Everly.
+
+“But if you need to go slower at something than everyone else in a group, and you don’t have a special situation like Søren’s, doesn’t that mean you were one of the worst at the thing?” Heloísa asked. “I’m not trying to say he should be terrible. But a Strength Brute isn’t a Light Shaper. There are tons of us, and our powers aren’t complicated, and the teachers know how to teach us. So I thought the one who was retaking this class must have been a slacker last term or naturally clumsy. Maybe even that he had some kind of personal restriction that made things harder for him, like how Lucille loses when she shouldn’t because she won’t risk delivering lethal damage.”
+
+“She needs to get over that,” said Rebecca.
+
+“I think it’s important to have principles,” Everly countered.
+
+“What I’m saying is the new guy doesn’t have anything like that going on. He’s normal. A normal Strength Brute like me. Maybe even a little better than me since he won? By a pinch, a hair, an F-rank crumb! But he did win. And that’s…”
+
+“Pressure,” Everly and Rebecca said at the same time.
+
+The S-ranks in the room looked unconcerned except for Maricel, who’d gone back to brooding over her footage.
+
+Rebecca sighed again. “It’s not like you all getting an extra gym period while A-ranks are playing tennis or whatever in our fitness class doesn’t contribute. I don’t blame you, but we hear people saying how much more challenging it is without the A-ranks around and talking about how much you might improve because of it.”
+
+“I haven’t said anything like that,” said Tuyet.
+
+“But plenty of people are saying things like that.”
+
+“A’s and B’s are in the fitness class,” said Heloísa. “Don’t leave out the B’s, Rebecca, or you’re as bad as them.”
+
+“Actually, I do think Opal might be a little behind,” said Rebecca. “Doesn’t she seem worse than Alden and Max?”
+
+“Does she?” asked Vandy. “She wasn’t as good as either of them, but it was our first duel so she didn’t know anything about me.”
+
+“Again, Vandy, you’re not a good judge of this.”
+
+“I don’t know, Rebecca,” said Everly. “As a fellow Adjuster, I think Opal’s fine. Our starter B’s are above average. Max is really tricky. And Alden beating Winston last quarter…I know Winston was trying too hard to show off, but that flicking a heavy bag thing Alden came up with…”
+
+“He should have been doing that all term!” Heloísa said, leaning across the table toward Vandy. “He should be doing that in class now so I can hit it back at him.”
+
+Vandy leaned away from her. “Why are you telling me about it?”
+
+“Kon and I tried to figure out how heavy of an object he could do that move with by comparing what we’ve both seen of his skill holding weights and then guessing how much swinging something that way pushes him to magical fatigue. But then we realized we had no idea. He hardly ever lets himself get fatigued in class. By the way, did you finally watch him beat Winston with the bag and paracord, Maricel? It was great, wasn’t it?Maricel? Annnd…she’s zoned out again.” Everly’s tone was frustrated.
+
+“Mari’s zoned in. On improving herself,” said Jupiter. She shook the bear purse so that its skirt swayed, and Heloísa reclaimed it from her with a squeal.
+
+“Anyway, Winston’s another example of the new pressure…or seriousness, whatever we’re going to call it, taking hold,” said Everly. “He’s winning in gym. He’s not posting as much online. I love posting for my fans, so I’m not someone who should criticize too much, but I think that’s a good idea for him. Since he’s so obsessed with it.”
+
+“We’ll see,” Rebecca said doubtfully. “I looked into his eyes when I tried to explain to him that he shouldn’t be a useless traitor that day we worked together as a class to beat Klein, and I didn’t see my words landing in his brain if you know what I mean.”
+
+“I think he might really be doing better. Now would be the perfect time for the old him to be more active online, since Finlay has left and can’t even post anything about Elites because of that social media break they’re making all their students take.”
+
+“Do you think they’re going to get the Elites to level up some before they let them talk about their training?” Tuyet asked.
+
+“That’s what everyone thinks,” Everly replied. “It’s to build hype.”
+
+“And because of things like that, the public isn’t using their gym suits on Sunday mornings.”
+
+“Don’t complain about that again, Rebecca. You grossed me out in the locker room.”
+
+“Whoever got to borrow my suit smelled like cheese! I know they didn’t clean it afterward. I had to go through a whole class in someone else’s cheesy sweat stink. I’m not turning it in this time to be shared. Principal Saleh can come right through my bedroom wall to take it back if she wants to try, and I’ll tell her to her face about what happened to me.”
+
+“That’s enough. We’ve gotten much too unfocused,” said Vandy, standing. “Nutritious dinner and bed. Do you all want to eat together? I was going to the grab-and-go spot, but if you wanted to eat at Cafeteria North…?”
+
+“Kon’s in F-city training with his team. He offered to bring me something, so I’ll probably eat with him.”
+
+They all looked at Everly.
+
+“They’re training?” Heloísa asked eagerly. “Not just sitting around talking in a study room like us? What are they doing?”
+
+“I’ll ask.” She moved her fingers through the air, typing the message. A few seconds later, she scoffed. “That…! Look what he sent me!”
+
+She added Konstantin’s message to the group notes under Jupiter’s last update.
+
+[That’s secret team business, ice spider. We got an outdoor gym training session in thanks to Alden. Tomorrow we’ll be at the top of the run list. The next day, we’ll destroy you + Vandy + the rest of them in battle. Be prepared. Want gimbap? Or pesto ravioli from that place? I’m starving. <3<3 xoxo but I respect you enough to kill you in class <3…]
+
+“Three more hearts, a spider, a snowcone,” said Jupiter. “A knife. An arrow through a heart. A corgi. A tongue?”
+
+“You don’t have to repeat his emojis aloud, Jupiter. I didn’t mean to include all of those.”
+
+“How dare he say he’ll destroy us!?” Heloísa exclaimed so loudly that Maricel jumped in her seat and returned her attention to the group. “They didn’t even get to run last week. He’s in no position to look down on us. He’s not even in the game yet. And does he only know your name and Vandy’s? We’re just the ‘rest of them’!”
+
+“Did you expect him to list all of our names in a text?”
+
+“He did list Vandy’s,” Jupiter pointed out.
+
+“Wait…wait…” Heloísa held her bear to her forehead and then slowly lowered it. “I have an idea.”
+
+“Did the bear give it to you?” Rebecca asked.
+
+“Kon and Alden and their team…they still owe me favors from our class welcome party.” Her face was alight. “I’m hungry. Where are they in F? It’s my supper they’ll bring.”
+
+“Your supper?”
+
+“In addition to yours. If they’re so impressive, I’m sure they can get you ravioli, too.”
+
+******
+
+******
+
+“Your skill is really something.”
+
+The compliment came from Konstantin while Alden stood by a metal table at a goose-shaped snack kiosk in the park.
+
+“You don’t have to praise me just because your text made Heloísa start calling in her favors from the bonding potion drinking contest. This is minor as far as magical favors go.”
+
+Delivering a ridiculous supper to the girls doesn’t come close to the last favor I asked for. Teleport me straight from my dorm room to the Primary’s house without telling his family, please.
+
+One of Alden’s plastic rain ponchos had become a tray for a growing number of the “golden egg” fried ice creams the kiosk sold. Kon had just handed off a few more, and Haoyu and Lexi were waiting for the final orders at the windows below the goose. Ignacio had gone to meet a delivery person who was bringing a bunch of food from an Italian restaurant. Mehdi, after reminding everyone that he had been the co-winner of that drinking contest along with Heloísa, had decided to enjoy one of the egg snacks by himself in the grass while he watched a couple of girls and a guy from Franklin High play with some kind of shiny Wrightmade hoop.
+
+“I wasn’t guilt-complimenting you. I mean it,” said Kon.
+
+“Not letting snacks melt is the best part of my superhumanity. And look—I can even turn them upside down.” Alden flipped his poncho tray over and shook it. The ice creams and the paper nests they were served in stayed safely in place. “Turning a box full of stuff upside down to see what happened was actually one of the first things I ever did as an Avowed.”
+
+And ice cream had been the first thing he preserved when he recovered from his last affixation. It was a good combo.
+
+“You can fling us by our clothes one minute and be the ice cream Rabbit the next,” said Kon. “That’s what I’m talking about. And if one of us had face planted—”
+
+“Haoyu did face plant. More than once.”
+
+“One of us who couldn’t handle that kind of thing,” Kon clarified. He took a seat on the bench attached to the table, stretching his legs out in front of him and leaning back against the tabletop. Unlike the others, he’d made it through their practice without looking like he’d been hurled down a mountainside. Alden hadn’t started throwing him until the experiment became slightly less experimental. “You could have preserved us and taken us to the hospital if someone got hurt. That kind of skill variety is cool, Alden. And it doesn’t seem like you’re running out of ideas for it yet.”
+
+“Thanks, man.”
+
+Alden already knew it, and he knew more truly amazing things about his skill than Kon had an inkling of. He was grateful for so much these days. But spending hours practicing with this bunch did make him feel like he was behind in other ways. His arms were tired. His legs were worse than tired from a quick game of tag they’d played so that they could all get a better sense of how each teammate was able to move when an opponent invaded their course. He was very fit, and he could use his trait; but he’d still ended up needing a break while some of them were going strong.
+
+Tagging an Agility Brute hadn’t been the most realistic goal to set for himself.
+
+“I was there when you realized that if you hauled people around by preserving their clothes they would get carried by your skill effect instead.”
+
+“That’s right. After we had to move Astrid across the gym during combat assessment.”
+
+“You seemed like a fun globie. A little mysterious. You pointed out I could repair that umbrella weapon you’d brought with a single spell cast instead of multiple. I thought, ‘The fun globie knows some things. Wonder if he’ll get in.’”
+
+“Here we are,” said Alden.
+
+“If you’d told me that day that we’d be here in this park practicing for our obstacle course team together on this day, with this group of guys, I’d have been surprised. Only, it’s the least surprising thing that’s happened since then.”
+
+Kon’s head fell back so that he could stare up at the cloudless, sunset-colored sky.
+
+The least surprising thing, thought Alden.
+
+That would have been an understatement coming from a lot of people on Anesidora these days. From Kon, it was even more so.
+
+Alden righted his tray of eggs. “Are you fine…with everything?”
+
+A public park wasn’t the place to be more specific than that. There was a toddler sitting at the next table, trying to feed herself ice cream while her mom caught drips with napkins.
+
+Kon glanced toward where Lexi was.
+
+“I am. Just…digesting still. That meeting you arranged was an eye-opener. I really needed it. I’m talking about you, though. Your skill’s so cool. I think I’m a little jealous of it.”
+
+I could tell him the name of it right now. I could tell him all about it.
+
+Alden didn’t intend to do that, but this happy thought had been coming to him periodically ever since Ro-den had released him from the secrecy agreement. His brain must have needed to stretch and appreciate the room he now had to do what he wanted, no matter how inadvisable it would be.
+
+He was still trying to decide if he should keep the tattoo itself as a reminder not to go along with any ideas presented by sketchy wizards.
+
+“I might be jealous of your rank, too,” Kon said in a would-be light voice. “Want to swap?”
+
+Alden side-eyed him.
+
+Kon straightened. “I said that wrong. I made it weird.”
+
+“Nah. It was just a joke.”
+
+What exactly did Esh-erdi tell Kon about his future? Should I really share something about mine? Another thought followed on the heels of that one. Should Stuart and I tell Esh-erdi anything about me?
+
+There was a part of Alden that wanted to. More than a little, to his own surprise.
+
+Stuart’s parents are off the table for now, but what about a real knight? that part said. What if a real knight said yes to what I am, too?
+
+It was a risk, but such a tempting one.
+
+Esh-erdi’s been so understanding about everything else. It could happen.
+
+Stuart and I should talk about telling him and Lind-otta about Bearer, at least. We wouldn’t have to mention me being a wizard yet necessarily.
+
+And as for Stuart…
+
+He could call any second. If he did, Alden would be ditching Kon with these ice creams and calling in another teleportation favor.
+
+I’ve been staying pretty focused on Stuart, but it’s all so much bigger out there. It’s not crazy that Kon wishes for a different rank right now.
+
+One day, if I summon someone, even someone who agrees to go, will they have awkward moments with their friends like this?
+
+“I must have made it really weird for you!” Kon exclaimed, suddenly standing.
+
+Alden realized he hadn’t been hiding his facial expressions very well. “You didn’t. I just started thinking about something else.”
+
+“I’m sorry. I don’t want to be a B-rank. B-ranks suck.”
+
+“Multiple people who have no idea what we’re talking about overheard you saying that,” Alden said in a lower voice than Kon had just used. “They’re going to think you’re really an esshole.”
+
+Kon looked around and reddened when he saw the toddler’s mom staring at them disapprovingly.
+
+“Don’t sweat it,” said Alden. [Ask me for a flight on the nonagon if you ever want to vent in private. We’ll go scream at the ocean. I’ve done it. It’s not bad.]
+
+He swapped the tray to one hand and slapped Kon on the back.
+
+“Ow.”
+
+“I’m a B-rank, and you’re my S-rank team captain. You’re not allowed to say ow when I give you a tap like that. Tell Mehdi to get over here unless he wants to be left. It’s about time to go. And, you know, I think Heloísa was serious about making Lexi and Ignacio carve a couple of them into roses for her, so it’s good we’ve bought extra.”
+
+Talking about nothing serious for the next minute or two, he laid the poncho tray on the table. When Haoyu and Lexi approached, they quickly distributed all of the ice cream. The golden eggs had a hot fried exterior and a molten butterscotch yolk inside the ice cream layer, so they turned into puddles rapidly. Unless you had a Rabbit with The Bearer of All Burdens at your beck and call.
+
+Ignacio ran up with the Italian food right before he re-preserved, and Alden let him add it to the poncho.
+
+Before the seven of them left, he took another look around the park. Kids ate ice cream. Couples were taking sunset strolls. An old man was arguing with someone through his interface.
+
+Almost everyone I can see is an Avowed, or will be one.
+
+Kon was in action, smoothing the conversation between the other guys as easily as always.
+
+What does someone like Esh-erdi really see when I show him around Anesidora? It’s just people living their lives, but that’s a lot to look after. A lot to live up to.
+
+He couldn’t quite unpack everything he knew was hiding in that thought, but he could feel that it would stick with him for a long time.
+
+I think I want to step up to it. Meet it head on.
+
+“I really want to do well. In Coursing and at everything else I’ve got going on.” He didn’t get that comment out until they’d made it all the way back to Celena North and disembarked from the nonagon in front of the library. His words, simple and obvious as they were, disappeared into a cacophony of louder words from the others as they took in the impromptu celebration Heloísa had arranged in honor of herself. She’d called on the manpower of more than twenty teenage Avowed who either owed her favors or who’d gotten caught up in the spectacle.
+
+“There the food boys are!” she declared from her high perch atop a loft bed being carried by other students. Alden assumed they’d gotten it from her dorm room, but he didn’t see how they’d moved it outside unless they’d taken it apart and reassembled it. “Vandy told me to get sleep and nutrition! I’m now prepared for both.”
+
+“This is not what I meant. This wasn’t my idea,” Vandy said to Alden as he approached with the food, as if she was afraid he might think she approved of all this.
+
+“It’s not a problem, Vandy. She earned this moment fair and square by drinking blenders full of that poison they made at Kon’s party. Where do I put all the nutrition?”
+
+“Up here with me!” Heloísa said from above him. “Our final piece will be here soon.”
+
+“Up there on the bed? All of it?”
+
+“Bring it up!”
+
+Alden was going to hop up there himself, but some people, overcome by the magnificence of the project, grabbed him by the legs. “Jeffy, Astrid, don’t—!”
+
+They tossed him up toward the loft. He landed on the foot of the bed on his knees, so close to the other side that he was perilously close to falling off before Heloísa grabbed the back of his shirt. “My feast,” she said, inhaling deeply. “It smells good.”
+
+“You can’t smell anything. It’s preserved.”
+
+“Don’t bother me with the details, Mr. Rabbit. Look! Here comes the final piece!”
+
+She pointed over his shoulder, down the long walkway. At first when he looked in that direction, he noticed Maricel sitting on a bench to the side of the group that was parading around with the bed. She seemed to be staring off into space or watching something on her interface, and he wondered what could be more interesting than the nonsense right in front of her. Then he saw that Heloísa was pointing farther into the distance, and he caught sight of a figure running toward them. The person flashed below lamps and past buildings so quickly that he arrived almost as soon as Alden realized who he was.
+
+“Hey! Finlay!” he said, excited to see Finlay for the first time this term. Other voices joined him, mostly welcoming their former classmate or booing him good-naturedly.
+
+“Heloísa, you’re mad! Who asks someone to run across the island at night with a single chili?! What sort of a favor is that?”
+
+“Did you bring it?”
+
+Alden tried to keep his poncho tray out of the way as Finlay jumped up. Glaring at Heloísa, the speedster held onto the frame of the bed with one hand and presented a bright red pepper with another.
+
+“Spice for my meal,” she said, taking it. “Stolen from Li Jean’s kitchens. So you do remember our bond.”
+
+Finlay’s glare faded. “Yeah.”
+
+“How’s your new school?” asked Alden.
+
+Other people were calling out questions about Elites, too, or asking questions about Febri. Jeffy’s voice was particularly loud.
+
+“Nothing wrong with it,” said Finlay after a moment. “A bit hard. Different people. Got to get back, though. We have a curfew.”
+
+“Come on, tell us more than that!” Mehdi protested as Finlay dropped back down.
+
+“Go on, Finlay! Tell us!”
+
+“Give us the details.”
+
+“What did you do today? Be specific.”
+
+“I want to hear about your teachers, the training tips you’ve gotten, your maid…”
+
+“It’s a professional cleaning service that comes when we’re out, of course. I don’t have a maid that works just for me or whatever you’re imagining. It’s fine. Stricter. More gym time is the main thing.”
+
+“How much more?” Maricel had managed to make her way through the crowd to stand beside Finlay.
+
+“Hi there, Maricel. It’s…a lot more. Every day. I feel like I never leave. I’m nervous one of the instructors is going to come here and drag me back even though we’re supposed to be finished for today. They’ve actually done that once already. Ha.”
+
+Alden thought Finlay sounded overwhelmed, but he could see Mehdi and some others getting starry-eyed.
+
+“Well, it’s good to see you all. I’m sorry I have to go. But I have to go.”
+
+“Wait, Finlay,” said Heloísa. “You can have some ice…cream.”
+
+He’d already taken off.
+
+“I can’t order anyone to chase him,” she said, blinking after him. “I thought he might want to hang out a while. Oh well. Alden!”
+
+Alden was finally able to set down his tray.
+
+He didn’t get to eat anything since the goose kiosk hadn’t offered vegan ice cream. But he did get the satisfaction of partially fulfilling the strange vision he’d had for himself while running on Thegund. Riding around the library on a loft bed was a little like being carried on a palanquin.
+
+I’m not doing a great job at the being lazy part of that vision, though, he thought as he jumped down and left the group behind to head to the cafeteria. It’s all right that I’m not. I really do want to do well.
+
+He could have said the same thing last term, but for such different reasons that it didn’t feel the same.
+
+I think I’m a little proud of what I’ve chosen. Even beyond the personal desire and beyond supporting Stuart…doing the knight thing right is something that matters.
+
+A long battle he could give his full strength to.
+
+A new dream for himself.
+
+Something he wanted to believe in.
+
+******

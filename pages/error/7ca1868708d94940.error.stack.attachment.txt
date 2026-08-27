@@ -1,0 +1,3 @@
+TypeError: crypto.randomUUID is not a function
+    at fW (http://tempereso.com/assets/is-record-BPLGNUKt.js:168:2223)
+    at http://tempereso.com/assets/is-record-BPLGNUKt.js:168:3918

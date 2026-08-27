@@ -1,0 +1,129 @@
+---
+id: af3f5a33-587e-5606-9390-64b590c8080d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 593: In the shadows"
+slug: 0161-chapter-593-in-the-shadows
+partOf: rise-of-the-living-forge
+position: 161
+ownLength: 1634
+unit: words
+publishedAt: 2026-05-19
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3418552/chapter-593-in-the-shadows"
+royalRoadId: "3418552"
+---
+
+“What?” Ida asked, blinking.
+
+“A better workspace,” Madiv repeated. He gestured vaguely to the incredibly uninspiring surroundings. “All the rubble and drafty walls… not what I would consider a worthy workshop. It’s demeaning. A member of the Menagerie should not be working in such conditions. Unless you prefer them?”
+
+Ida stared at him mutely. His words were reaching her ears, but they weren’t quite processing in her brain.
+
+“What?” She asked again.
+
+Madiv sighed. He pinched the bridge of his nose. “Who needs another person in a conversation? Just Madiv is perfectly fine. I can hold both sides. I’ll answer my own question. It seems the environment is not helping you. After all, should it have been, then I suspect you would have had more success than that lump of trash you’re holding onto.”
+
+Ida followed his gaze down to the broken halves of the pendant in her hands.
+
+“…a better workspace?”
+
+“That is what I said, yes.” Madiv adjusted his collar, then shook his head. “Though I suppose it really doesn’t matter all that much either way. Lillia did not word the offer as a question. Your comprehension is entirely optional and unnecessary.”
+
+Ida finally pulled her mind back into the present. “I’m sorry. I don’t have the faintest clue what you’re talking about. Are you saying Arwin is going to let me use his smithy every once in a while? That would be incredible. I—”
+
+“Of course not. The Menagerie already has three mongrels filling up that smithy. There is no room for a fourth. It would do nothing but slow things down.”
+
+Ida blinked. “Oh. I thought—”
+
+“We are going to make you a new building,” Madiv continued. “Contingent on your continued membership of the Menagerie, of course.”
+
+Ida nearly choked on her own saliva. “Are you screwing with me?”
+
+“As amusing as that would have been, no. I am not. There are far better things I could be doing with my time,” Madiv said, but a small smile pulled cross his lips despite his sharp tone.
+
+“Why?” Ida asked, baffled. “Why would you offer me something like that? I…”
+
+“It is not my place to question her desires,” Madiv replied with a shrug. “Lillia has simply informed me of my task. I am carrying it out.”
+
+“Do you want something from me for this?” Ida asked, though the moment the question came out of her mouth, she knew her own answer to it.
+
+There wasn’t much she wouldn’t give for exactly this. A workshop. A real one, all to herself, that she could use to build whatever she wanted. That was like a dream come true. But it just didn’t make any sense.
+
+The Menagerie didn’t have a reason to invest into her like this. She had no extensive history of great skill or any real worthwhile crafting achievements that should have caught anyone’s attention. Her mother simply hadn’t given her the time to hone her craft to such a degree.
+
+Ida may have been a Dwarven Master Smith, but the Menagerie had two smiths at that skill level already. And it didn’t even seem like they were trying to get her to help them out. They were just going to set her up in her own smithy.  But more than that — she’d been their enemy just a short while ago. Even though they’d outmaneuvered her mother, there must have been people that were far closer to them that they’d have wanted to help first.
+
+“There was nothing specific mentioned beyond needing to remain a part of the Menagerie,” Madiv replied. “Obviously, feeding information to our enemies or otherwise standing in our way would result in a problem as well. But if you find yourself in that position… you’ll have bigger things to worry about.”
+
+Ida swallowed. “There’s nothing to worry about there. I’m not stupid enough to try anything like that. And I’m more than happy with how things are now. I would never—”
+
+“Great,” Madiv said. “Then I believe my job here is done. I would suggest moving out. Things are going to get rather loud, and I doubt you’re going to have much more luck making something when the whole building is coming down around you.”
+
+“What, now?” Ida looked around. “Like, right now?”
+
+“Yes,” Madiv said. “Right now. We have already contracted the mason to begin modifying the street. He will be starting with your building. I trust this location works for you? You already chose it once, after all.”
+
+Madiv’s words felt like they were rushing past Ida’s head like a coursing river, but she managed to pull herself together enough to nod.
+
+“I — yes. Of course. Anywhere would be incredible. This is actually for me? An entire smithy?”
+
+“Yes,” Madiv said.
+
+The Menagerie really must have made a killing at that auction. There’s no way they’d be going around just making smithies like nothing if they hadn’t. Still, I owe them, now. Big time. Maybe that was their goal? No. It wouldn’t even make sense. I already owed them. This is just adding to my debt for no reason at all.
+
+…but I’m definitely not going to say no.
+
+A man poked his head in through the door. “Can I start now?”
+
+“Yes,” Madiv replied. “Feel free. Ida was just leaving.”
+
+Godspit. Madiv really did mean they were starting now. Was he just waiting outside this whole time?
+
+Ida started toward the door, her head still ringing as she struggled to process what had just happened. It couldn’t have been more than a minute since Madiv had shown up and informed her that the Menagerie was about to invest as much in her as the Dwarven Council did in their best crafters — and he’d done it with all the care of a man tossing a coin to a beggar.
+
+“Fantastic,” the man said with a grin. He rubbed his hands together. “This should be good. I’ve never renovated a whole street before… but I won’t get ahead of myself.”
+
+Ida paused at the empty doorway of the ruined building. She couldn’t have just heard that right.
+
+“Wait,” she said. “Did you just say you’re renovating the whole street?”
+
+***
+
+The dungeon smelled like wet dog.
+
+That was really the only way that Arwin could think to describe it. There was a damp, distinctly unpleasant smell clinging to its slimy, moss covered walls that greeted their group the moment they stepped through the portal at the base of the hill housing it.
+
+They’d emerged into a large room with only — and conveniently — a single path forward. Faint light shone from purplish crystals that jutted from the walls, though Arwin couldn’t sense much magical energy emitting from within them.
+
+Vanessa’s nose scrunched in distaste. “It smells like—”
+
+“We probably don’t need to hear the end of that sentence,” Lillia said with a wry smile. “Somehow, I think you’re going to make it sound a whole lot worse than it is. Then we’re all going to be thinking about that for the rest of the dungeon.”
+
+“Fair,” Vanessa said. She cleared her throat, then continued under her breath. “Still smells like unfiltered ass, though.”
+
+“What kind of—” Kien very wisely caught himself before he could finish that sentence. There were some things that nobody needed the answer to. That went especially for any suspicious information when the source was Vanessa. Not one of them had any doubt that a number of her lived experiences would be best secret.
+
+Arwin summoned the Gehenna armor around himself. Caldera materialized in his hands and he felt a pulse of anticipation roll through him from the weapon. The Infernal Armory’s presence prickled at the back of his mind as well. It was watching idly, curious to see if there would be something worth drawing its full attention.
+
+“Let’s move,” Arwin said. “The stench isn’t inviting me to stand around and wait. I’m of a mind to just push ahead to the boss and clear this place out.”
+
+“I think we’re up against kobolds,” Kien said, gesturing at the passage before them with his broom. “That’s what the smell tells me, at least.”
+
+“Never fought them before,” Vanessa said. “Should that mean anything other than that we should have come armed with clothing pins for our noses?”
+
+“They’re clever. Not intelligent, but there are stories about them using weapons that adventurers leave behind. Some of them make rudimentary ones themselves,” Kien explained in a low tone. “And most of their weapons end up being poisoned. Not intentionally. Kobolds just secrete toxins from their flesh. Don’t get cut. At all. If you do, you’ll have a bad time.”
+
+Vanessa looked down at herself and her incredibly inefficient armor that covered something around 30% of her body — and less if one was to only count the metal bits that would actually deflect an arrow or sword. She cleared her throat.
+
+“Right. Easy enough.”
+
+“You really need to upgrade that,” Lillia told her. “Arwin, take the lead?”
+
+“With pleasure,” Arwin replied. He wasn’t personally too worried about random weapons or poison. Nothing here was going to be able to break through his armor. The stench was probably the most dangerous thing to him in the entire dungeon.
+
+He strode forward, starting down the path before them. Everyone else fell in at his back.
+
+And, as they descended into the dim, crystal-lit dungeon, the shadow stretching out from Lillia’s feet seemed to stretch out behind her. A faint glint passed through the darkness.
+
+Two hungry eyes opened within the shadow, brimming with anticipation. A faint purple crack cut across its face and  pulled up into a jagged smile.
+
+Then they passed through a patch of darkness. And, when they emerged into the faint light once more, Lillia’s shadow was gone.

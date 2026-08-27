@@ -1,0 +1,393 @@
+---
+id: b3a26746-2f9b-546c-b6e4-71fee00573bf
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED FORTY-FOUR: Dawn I"
+slug: 0145-one-hundred-forty-four-dawn-i
+partOf: super-supportive
+position: 145
+ownLength: 4401
+unit: words
+publishedAt: 2024-05-23
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1647396/one-hundred-forty-four-dawn-i"
+royalRoadId: "1647396"
+---
+
+144
+
+******
+
+It was so bright.
+
+The first breath was lightning in Alden’s chest, and his eyes were blinded by a burning white star the size of a house that hung in the air far above him.
+
+Before the second breath, before he even knew the nature of his salvation, there was something crucial. That gravity.
+
+“Zeridee,” he said.
+
+His rescuer dropped him onto his back on top of a hard surface, and instantly, Alden tried to reach for her, to protect her. He rolled, arms stretched out, striving—
+
+A hand on his chest forced him down again.
+
+“Were you enjoying the swim so much that you want me to put you back?” a voice asked in Artonan. “Stay.”
+
+Alden couldn’t quite register the instruction or the one who’d spoken it.
+
+She’s there. Right there. I’m so close.
+
+“I’ll <<collect>> her. As soon as I’ve <<tended>> the ryeh-b’t I’ve already caught.”
+
+An unfamiliar face leaned over him. Dark brown eyes, uncommonly close-set for the species, stared down. “Hello, Alden. I did hope to take a look at you, but I imagined a more social first meeting.”
+
+“Zeri—”
+
+“I’m Esh-erdi. Don’t worry about the daughter of the und’h family. For now, she’s safe. You are hurt and probably very confused. Contract, provide an injury assessment for this Avowed.”
+
+After a brief pause, the Artonan patted Alden on the chest and smiled. “You’re not dying. And you’re obviously not in <<intolerable>> pain. The only thing left to worry our minds with is your emotional management…do you feel so overwhelmed that you might lose control of your behavior or pass from consciousness?”
+
+Alden felt a surge of fear, as much as his exhausted body could give him. But not at the suggestion that he might pass out. This person wasn’t understanding.
+
+“No,” he tried to explain. “My arms. Zeridee.” He didn’t have enough air yet to fully say the very important things that needed saying.
+
+Save her. Help her. She’s with me. I thought she was with me. But she’s not in my arms.
+
+“I lost—”
+
+“You haven’t.” The Artonan leaned even closer to him. Dark hair held together in three long braids slid over his shoulder as he studied Alden. “She’s right beneath us. You were only <<an archaic measurement based on the distance of a small mountain-dwelling creature’s leap>> apart when I pulled you from the water, and you’re not much farther now. She’s still held by your authority.”
+
+Alden shook his head frantically. “My skill doesn’t work like that. I can’t. When I’m not—”
+
+“Ahhh. So that’s why you’re arguing.” The man’s smile turned strange. “If it’s like that, all right. I’ll get her for you now. If you stay here.”
+
+His face, looming over Alden’s, had been blocking out most of the sky. When it disappeared, the blazing star overhead stung his eyes again.
+
+Wait, thought Alden, squinting. What is this? What’s actually going on around me right now?
+
+That was when he finally dropped his burden.
+
+And when he finally realized he’d been holding her all along.
+
+The change was drastic, and it was unlike anything he’d ever experienced before upon letting go of something he was carrying with his skill. He felt like he’d lost himself in one way and come back to himself in another.
+
+In that moment, with a soul-deep focus on Zeridee suddenly reduced to intellectual and emotional worry, he didn’t understand much about what had just happened to him…what was still happening. His body was a storm of sensations—most of them bad. And the world was full of such astounding, impossible sights that his brain was doing unhelpful interpretive things as he tried to comprehend it.
+
+Like alternating between telling him that nothing was moving at all and telling him the water covering the world was moving pretty fast. Because there were visual indications of speed—the way the surface rippled around obstacles, froth forming at the edges of a few still-visible rooftops.
+
+But it was like a video of fast-moving water that had been paused. Everything was strangely quiet.
+
+Not paused. Slowed. He remembered thinking that was how it was working when he’d first been caught in the effect.
+
+And, on top of that, there were so many other confusing things trying to make themselves known to him all at once. He couldn’t even understand what it was he was lying on. Just inches above the water, the firm translucent green surface had enough texture to it for him to use a wet hand to push himself upright into a sitting position without slipping. It was a nonagon shape, big enough for four or five people to comfortably lie on. It seemed completely solid.
+
+Beyond that, though, Alden wasn’t even sure if the platform was a magical device or a spell effect. His rescuer—a knight, Esh-erdi—had placed him near the edge of it.
+
+Below him, the ripples the Artonan had created when he jumped overboard were the only things in the world, other than Alden himself, that moved with a normal-looking speed. And that was only at first. As he watched, within a second or two, they slowed down just like everything else.
+
+He was baffled. He was shivering from cold again. His head hurt. His ankle and one shoulder were throbbing enough through the pain killer he’d taken earlier that the injuries were probably more serious than bruises.
+
+And as he tried to collect all of these facts into a coherent picture of what was going on, his eyes were turning to the most astounding sight of all. The blot to the east, that mountain of water, had been subjected to the same magic as everything else. Its collapse was halted and illuminated by more spotlight-bright spells hovering in the air above and around it.
+
+Alden swallowed.
+
+Who could do something like this?
+
+Alis-art’h’s display of power on Thegund had been larger in scale, true. But Alden had been nearly out of his mind and observing it from a distance as he ran. He’d never actually been in the middle of it while it was ongoing. Here and now, he was profoundly conscious of his own smallness.
+
+Then Esh-erdi was back, breaching the surface of the water with a splash that sounded unexpectedly flat. He launched himself up to land gracefully on his feet on the nonagon, just on the other side of Alden.
+
+He’d only been gone a moment.
+
+And was holding Zeridee like she weighed nothing at all.
+
+“—to carry me,” she was saying in a faint voice. “It would be best for you to leave me here. You must think of the peace your life gives to Hn’tyon Alis-art’h. And Hn’tyon Evul-art’h. Of Stu-ar—”
+
+“Are you going to <<bully>> a human child with the names of every living art’h, Zeridee-und’h? At a time like this while you lie bleeding in my arms? Don’t you think that’s too much?”
+
+For a second, there was a pause as Zeridee tried to fix her good eye on the knight who held her, and as Alden stared at the ambassadorial assistant in turn.
+
+She’s just now finishing the sentence she started before I pulled the enchantment from the puzzle door, he thought. That means…I really did keep her preserved. Without touching her. Somehow.
+
+And now I’m not preserving her anymore.
+
+No!
+
+He threw his arms out and opened his mouth to demand that the knight give him his dying Artonan back, but Esh-erdi was already bending down to pass him Zeridee.
+
+Alden tried to activate his skill the moment she was in his arms, but he couldn’t.
+
+I let her go. I’ve lost entrustment.
+
+“Zeridee, say I can carry you,” he said urgently.
+
+Her braid fell across the arm of the bathrobe he was wearing. The pale brown fabric was being stained with blood.
+
+As soon as her good eye met his, her pained expression gentled. “Don’t worry about those men,” she said softly.
+
+“I’m really not worried about them. At all. Let me—”
+
+“Hn’tyon Esh-erdi, this is Alden Ryeh-b’t,” Zeridee murmured. “His flyer was stolen. Please take him to safety.”
+
+“I’ll take care of him,” said the knight, keeping one eye on them and pointing the other toward the mountain of water. “If you let him carry you.”
+
+“There is also the matter of the greenhouse,” she said.
+
+“Zeridee-und’h, I will be inconvenienced if you don’t let the Avowed use his skill on you.” Esh-erdi’s words had a tone of rebuke in them that wasn’t present on his face.
+
+She frowned.
+
+“Say I can carry you,” Alden repeated. “We’re almost out of here.”
+
+“Yes?” Zeridee said hesitantly.
+
+Alden activated his skill. It wrapped around Zeridee, and he sagged with relief. Holding her, even while sitting down with the bulk of her weight in his lap, was hurting his injured right shoulder. He gripped her with both arms anyway.
+
+You’re all right. I’m all right. I didn’t lose you for long. We’re not dead yet.
+
+“Can you hold her like that for a while?” Esh-erdi asked. “I’ll be sending you both to a medical facility, but since she’s injured so badly, I have a specific healer in mind.”
+
+“I can hold her,” Alden said. His skill lacked that extra something he’d felt earlier—the sense of stability he’d barely given any attention in the midst of everything else that was going on. But he wasn’t in immediate danger of losing her.  “I’m not sure I could walk with her, though. I could try if I had to.”
+
+“I rarely ask the Avowed I’m responsible for to walk on broken bones.” Esh-erdi was rearranging a stack of rings on one of his middle fingers. “Unless they’re members of a species that enjoys that kind of thing.”
+
+He extended an arm and the ringed finger. In response, the green platform glided forward smoothly and silently.
+
+“I’m sorry I can’t give you as much of my time as I would like. Later, I’m sure I’ll have a moment. For now, I’ll be carrying you to the edge of the <<pacification,>> and one of your own people will take you both to safety from there.”
+
+Pacification, thought Alden, staring around them. Is that what this is?
+
+He was still breathing hard. He was cold again. And he was just becoming aware that the stretchy pants he had on beneath the robe were way too interested in stretching now that they were saturated, and they were not nearly interested enough in doing their job as a pair of pants. It was a wonder he’d kept them at all.
+
+At least his messenger bag had stayed with him.
+
+I almost drowned. Just now. I was drowning.
+
+He’d asked to use his privilege. He’d been rejected. And now a Knight of the Mother Planet was ferrying him to safety through this flooded nightmare, like his own personal gondolier.
+
+The light spell didn’t follow them, but it was illuminating such a large area that everything was still strikingly clear in its harsh blue-white glow. They traveled along what had been the middle of a street, away from the epicenter of the flood. More and more rooftops gradually appeared as the water became shallower.
+
+“Are you doing this?” Alden asked, his voice quiet. He looked back toward the slow-motion cascade, set against the backdrop of a sky that was still growing paler.
+
+“No. This is Lind-otta. Do you like it?”
+
+It was crystal clear that he expected Alden to like it.
+
+“I do. She saved me. And you did. Thank you.”
+
+“You’re welcome. The timing was fortunate. There were a few different places that would have benefited from our help. We actually chose this one because we were looking for that one.” He nodded down at Zeridee. “Several hours ago, she called out. And sent a <<cryptic>> message out along with it. What happened to her?”
+
+They felt her? Does he mean that same authority cry I felt? …all the way at Matadero?
+
+His arms locked a little tighter around Zeridee, and it sent a lance of pain through his shoulder that made him grimace.
+
+“I’m sorry I can’t cast a pain relief spell for you,” said Esh-erdi. “Lind is good at that kind of magic, but I have <<been at odds>> with most healing spells for years.”
+
+“I’m fine,” Alden said.
+
+Esh gave him an amused look. “You have an interesting <<phraseology.>>”
+
+“Did I say ‘I’m fine’ wrong?”
+
+“No. You said it well! Here. I can cast a spell that will warm and dry your clothes. A moment…” He briefly turned what looked like his full attention to Alden and chanted a series of long lines. Alden felt his robe and his pants heating up.
+
+When he’d finished the spell, Esh-erdi continued speaking without waiting for Alden’s thanks. “Zeridee-und’h’s injuries—?”
+
+“She was protecting me,” Alden said firmly. “And herself. Three men attacked her. They were trying to steal the flyer. They tried to kill her and me. She…stopped them.”
+
+“Stopped them?”
+
+“One of them could be alive. Maybe.” Probably not. “I left him in the ambassador’s greenhouse. I didn’t make sure he was really dead. He might have been pretending?”
+
+“The ambassador’s house isn’t there anymore,” Esh-erdi told him. “The men were Avowed?”
+
+“Yes. Will she be in trouble? She shouldn’t be. They—”
+
+“Did she use magic to stop them?” Esh-erdi asked.
+
+Alden frowned down at her. “Is she a wizard?”
+
+It took the knight a few seconds to answer. “It’s bad manners to say yes, so I will say no.”
+
+What does that mean?
+
+“I didn’t see her use any spells,” Alden said. “She punched one in the throat, stabbed one in the head with his own weapon, and she made the flyer take off with the third inside. His arm was in the way when the roof closed.”
+
+Esh-erdi tilted his head. He glanced at Zeridee again.
+
+“The arm got chopped off,” Alden clarified. Just in case that wasn’t obvious.
+
+“I see…I’m sorry for the difficulty of the night.”
+
+Below them, the water had gotten shallow enough that Alden could see a lot of the destruction wrought by the last wave. The bodies of the motorcyclist and the man from Iowa were probably underwater now. Somewhere.
+
+What if everywhere looks like this? he wondered again. It seemed impossible that the rest of the island could be untouched if this place was so utterly devastated.
+
+How many people are gone?
+
+“Should someone like you and Lind-otta be here just for the two of us?” he asked. “What about everything else?”
+
+“You did enjoy your swim, didn’t you?”
+
+Alden shook his head.
+
+“Someone had to deal with the ocean in this area anyway. It <<encroaches>> too far too quickly. Lind and I can work <<unencumbered>> without so many <<hopeful helpers>> running around.”
+
+Alden had recovered enough to have more questions, but one eclipsed the rest. And who would know better than this person?
+
+“Is…is the Earth Contract going to fail?”
+
+It didn’t matter if the System said the risk of chaos exposure was “negligible”. Too much had gone too wrong. He still wasn’t allowed to text anyone. And now that he wasn’t under imminent threat from the water, that fear could come to the forefront again.
+
+It wasn’t quite as strong as it had been, but it still had the power to make his stomach twist.
+
+“Not at the moment.” Esh-erdi’s face darkened. “This planet has revealed some <<fragilities>> that worry me greatly, though.”
+
+Something about the way he said it stole the hard-won air from Alden’s lungs.
+
+Before long, they were approaching the edge of Lind-otta’s magic. All around them, the world began to accelerate. Where the water hadn’t flowed away, it was just pools and puddles exhibiting normal puddling behavior.
+
+“Does she slow time, or is it something else?” Alden asked quietly.
+
+“This is the slowing of motion, not time,” Esh-erdi replied. “I’m sorry you’ve seen it under these circumstances, but I’m happy that you can witness her power at this scale. She approaches the limit of her abilities with this particular work. It’s mesmerizing, don’t you think?”
+
+He looked around. “Where did that human flyer go…?”
+
+The knight crooked the finger he was using to direct their platform, and they turned the corner of a building. A short distance away and below them, a black helicopter was parked in a surprisingly clear section of the street.
+
+“There it is. Alden, the human pilot will carry you and the und’h girl from here.”
+
+Alden was wondering why the helicopter hadn’t just flown closer to pick them up and save the Artonans some time. Then it occurred to him that it might not be able to get through Lind-otta’s pacification.
+
+So far, only Esh-erdi and the things he’d interacted with seemed to be able to move normally.
+
+Before he could even begin to figure that out, something else distracted him.
+
+“Did you call Zeridee ‘girl?’” he said, a little surprise leaking through. “How old is she?”
+
+“I don’t know her exact age. Before meeting her here, I was only vaguely aware of her. She is the relative of a friend. She was given her place here very young, but she’s really not a girl. I misspoke. She should be…twice your age? A few years more?”
+
+Esh-erdi was obviously doing something back in the pacification area, since he had his head turned slightly and one eye pointed that way. But the eye still pointed at Alden shone with interest. “Why? How old did you think she was?”
+
+“I didn’t seriously think about it.”
+
+“I sense something humorous hiding behind your lips. You must tell me.”
+
+“I just…thought she was older.”
+
+“But how old?” Esh-erdi insisted.
+
+Alden hadn’t had a specific age in mind. Zeridee looked quite young, but he’d learned not to put too much stock in that. And she’d just seemed like an older person. “Sixty in your years?”
+
+“That’s boring,” the knight said in a disappointed tone. “When I tell her about your mistake, I will say you thought she’d seen the end of her first century.”
+
+He lowered them to ground level, and Alden got his first good look at the side of the helicopter. A wide-splayed V formed from a network of geometric patterns was painted there in gold.
+
+“Velra?”
+
+It was impossible not to recognize Lute’s oft-maligned tattoo.
+
+“Do you know Aulia? She <<donated>> this flyer and its pilot for evacuating people from this place. According to the Contract, there should be a few more after you.”
+
+“I…have met her,” Alden said.
+
+“Is she <<tender of feelings>>?” Esh-erdi asked. “I did not think so when we first met, but after I explained the nature of the crisis, she seemed even more deeply affected than the other humans.”
+
+******
+
+Well, thought Alden around fifteen minutes later, I did say I’d go to Matadero today.
+
+He sat on a rolling gurney, Zeridee in his lap. It turned out that the least busy medical facility, and also the one that was best equipped for helping a seriously injured Artonan, was right here. Inside the cube. And now they had a grand total of one human and one preserved ambassadorial assistant as patients.
+
+Two Avowed—a Healer and a Brute surgeon—were trying to get a word in edgewise while a very short and overbearing Artonan hopped right up onto the gurney beside Alden and started injecting him with one hand and spelling him with the other.
+
+The extent of the wizard’s willingness to converse with everyone else was something like: Chant, chant, chant. My patients! Esh-erdi gave me these. I will tell you if I need assistance! Chant, chant, chant. Stab. Stab.
+
+Behind them, the automatic doors were shutting off access to the helipad, and the pilot was already taking off again to pick up more people. She’d been very upset about what she’d seen of Apex in the pre-dawn light.
+
+“I can’t believe they abandoned part of the island,” she’d said more than once on the way here. “This doesn’t look like home.”
+
+They’d flown straight here, so Alden hadn’t seen anything but the ruin he’d already been in.
+
+I can’t believe I survived it. I can’t believe the Longs did.
+
+He’d given Esh-erdi the scratchart card before he left, and the man had taken it. Graciously, Alden now realized. A knight who had the System’s cooperation didn’t need a toy to find a bunch of lost Avowed.
+
+As the gurney rolled down a bright hallway, Alden looked at the two human adults. “How many people are…?”
+
+Hurt. Missing. Dead.
+
+Before he could settle on which to ask, the feel of a hand going to the tie on his robe set an alarm off in his head.
+
+“No!” he said in Artonan, clutching the fabric closed with his fist. All three members of the medical staff looked startled at the vehemence in his voice.
+
+Alden was exhausted, and he was sure some of the things he’d just been jabbed with were making him even muzzier. But his auriad was tightening around his left bicep as he suddenly realized, for the first time since he’d been pulled from the water, that there was a risk of the casting tool being discovered. He was in a situation where people were going to want to take his clothing.
+
+Doctors just loved to do things like that when you were injured. So busy trying to provide you with medical care that they never stopped to think for a second how depriving a guy of his shirt might ruin his life.
+
+The Artonan healer blinked at him through a pair of glasses with tiny lenses and held up something that looked like a large silver fish scale. “I need to put these on your chest and arms for my next spell.”
+
+“I’m too shy,” said Alden.
+
+The humans looked even more confused than the alien. Maybe the System wasn’t translating Alden’s nonsense for them. Or maybe they were just wondering what kind of person was so shy that a near drowning wasn’t enough to make him expose his torso.
+
+“I’ll be quick,” said the Artonan after a moment.
+
+“I’ll put them on myself,” Alden countered. “In private. I need to use the bathroom anyway.”
+
+“You don’t know how to sing the sticking song.”
+
+There is a song to make them stick?!
+
+“I’d rather you take care of Zeridee first. My skill could fail any second!”
+
+“When it fails, I will help her. For now, I am helping you.”
+
+The wizard and Alden stared at each other.
+
+“If I can’t put those things on myself, then…I’ll be the one who moves my clothing around,” Alden said slowly. “However you need it moved. I’ll do it.”
+
+“It’s easier if you—”
+
+“The goodchild Klee-pak’s parents say we don’t have to be afraid of healers because they’re very understanding about our worries.”
+
+The healer adjusted his glasses as if he needed to peer at Alden a little harder. “All right,” he said irritably. “But you are too old for Klee-pak. I recommend you view the stories of his cousin Kwoo-pak. They will help you to <<navigate>> the <<urges>> and struggles of adolescence.”
+
+Alden’s relief was soon overwhelmed by the need to summon up the last dregs of his focus.
+
+He auriad had been getting better and better about helping out when he wanted it to move around on his body. Thanks to that, the two of them managed an awkward dance with the robe while the healer applied the scales. The indigo loop changed arms twice, and by the time they all arrived in Matadero’s medical center, Alden had managed to get it to slide down his back and into his pants so that he could lie still and not act like quite such a menace to the people trying to help him.
+
+Why is this place so huge? he wondered as the Artonan continued to cast spells on him.
+
+Matadero itself was very large. It was hard to get a sense of its scale from pictures, since a shiny cube on the water didn’t really offer you much to go on. But as the helicopter had approached, Alden had been surprised to see how the walls loomed and how far below the pad the waves had been when they’d landed.
+
+He assumed that the bulk of the structure was a big empty space of some kind. Very powerful Avowed killed very dangerous things here. He doubted they worked in a mop closet.
+
+But however large that space he imagined was in actuality, it was leaving plenty of room. Because this med center definitely wasn’t the simple spot Alden had imagined. It spanned multiple floors, and it was basically a fully-equipped healing hospital. Just one devoid of patients and mostly devoid of staff.
+
+I really don’t like the fact that this place is so huge. That can’t be a good thing.
+
+You didn’t build entire hospitals in places where you didn’t expect to one day need them.
+
+“You want to sleep?” the healer said.
+
+“What?” Alden was pulled from his dark calculations about the number of beds they must have here by the question.
+
+The healer was finally prying the scales off of his chest. His injured shoulder felt better, but nothing much had been done for his foot yet or for his hand or—
+
+“Sleep will be good for you” said the Artonan. “It helps with the healing and with the healing.”
+
+Alden could tell that was some common turn of phrase by the way he said it.
+
+“And we may have more patients coming. And she will need a lot of help.” He was frowning at Zeridee. “Head injuries…”
+
+He looked unhappy about it.
+
+“Will she be all right?”
+
+“I’ll handle her myself. She will be fine. You leave her with me and go to the shower.” He tapped on the leg of his glasses. “I’ve already ordered Shower 1 to deliver your potion sprays. Don’t stand on the leg that hurts. Just balance on one foot. I’ll tell one of the humans to put a <<squishboot>> on you when you are clean.”
+
+Alden couldn’t imagine a human doctor telling him to just hop off on one leg to the shower. But then again, it wasn’t like he would have trouble doing it. And he was so, so tired.
+
+“I want to sleep,” he agreed.
+
+I want to sleep and not be afraid, for just a little while.
+
+******

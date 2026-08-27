@@ -1,0 +1,111 @@
+---
+id: 6c80b948-6c5d-5f3b-b059-884cf13c56a0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 663: Stalled"
+slug: 0085-chapter-663-stalled
+partOf: system-change-system-universe
+position: 85
+ownLength: 2040
+unit: words
+publishedAt: 2026-07-02
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3624183/chapter-663-stalled"
+royalRoadId: "3624183"
+---
+
+Chapter 663: Stalled
+
+It's nice to know that everywhere, even this system, uses the same kind of rankings for guards or military and stuff, Derek thought to himself as his eyes lingered on the lieutenant before looking away. Or it's just the Origin System seamlessly translating rankings and everything into terms that I'm able to understand better... just like the Davenresh System and Universal System did... yeah... that's it.
+
+Derek shook the random thoughts out of his head as he followed behind Alex and the captain. The man and Alex were walking side by side, talking nearly silently to one another. They were discussing the escort's betrayal and the clan's failure to notice more in depth as they walked along. Derek tuned most of it out, as it wasn't anything pertaining to him and his people yet, and took in his surroundings since it was the first actual place he'd been to since arriving in the Origin System.
+
+First of all, it didn't take long for him to realize that he was in a building designed entirely for teleportation. It wasn't like the 'teleportation buildings' in Savannah. Instead, it was a building that held dozens, if not more, dedicated rooms for teleportation. Occasionally, he would see a person walk out being escorted by a guard—just as was being done with Alex and himself.
+
+The colors were pretty neutral in the building—mostly grays, whites, and blacks. Overall, the entire interior of the building was rather dull. But that was something that was easy for Derek to understand, as the building was made for practicality and function over comfort and style.
+
+Soon, they reached the end of the central hallway, and the captain nodded at a worker at a desk. The captain raised his wrist and inputted something, and the worker waved them on. So we're back to the higher-tech bracelets and stuff from the Universal System over the old-school way that we did everything in the Davenresh System, Derek internally noted.
+
+Derek followed the other two, and when Captain Hawthorne opened the door, a burst of light appeared from outside. It's daytime... wherever we are, Derek thought as he took a step out behind the others. Looking around, Derek glanced back at the building they'd just stepped out of. Even the outside was as bland as the inside. It was just some type of black metal or stone... or some combination of both. That was it—there were no decorations or even a sign to show what kind of building it was.
+
+"It's made out of extremely durable material that only a mid- to high-ranked Ascendant would be able to destroy," Alex said as he noticed Derek's gaze. "It is especially good during times like these when the clan is in Protocol 2 or higher. Each room has a safety feature that closes and locks whoever is inside in. If a truly high-ranked Ascendant were to attack, it likely wouldn't do much but slow them down long enough for our own to show up. Unfortunately, there is nothing we could really do if a Transcendent showed up."
+
+"It's not like mid-ranked Ascendants are abundant in the System Universe," the captain said. "There aren't many Ascendants in general—and most who make it to the rank don't grow above low-rank."
+
+Derek frowned at the captain's words. When they say rank, they aren't talking about level, he thought. Are they talking about affinity? Is someone with 90% affinity considered high-ranked or something? That was the only thing that really made sense to Derek, based on how the two talked. I'll ask Alex later... just to make sure.
+
+"There are many more pressing matters for most Ascendants than to infiltrate and attack a clan like ours. And higher-ranked system users wouldn't need to go a roundabout way to sneak in and attack—many would just attack if they wanted," Captain Hawthorne finished.
+
+"True," Alex said. "But you never know. It's better to have the safety measures in place and never use them than for something to happen and us not have any."
+
+"Yeah..." Derek said. "And you might want to be a bit more stringent when it comes to escorts leaving clan members for dead on deserted planets."
+
+"I can assure you, Mr. Hunt," Captain Hawthorne started. "We will not make a mistake like that again—not after today."
+
+"Well... at least not for a while. I doubt your clan would have made that mistake early on, but people grow lax when it comes to those things. So I'm sure at some point, the verification process will start to slide again... but probably not for a long time," Derek replied with a shrug. It was human nature, after all.
+
+"As long as I am a member of the Loomis Guard, I can guarantee it," the captain said.
+
+"And how long will you be a member?" Derek asked.
+
+"Well... the Loomis Clan has treated me well and raised me up to where I am. I have a very good life here, and I'm only growing stronger. I have no plans on ever leaving the Loomis Clan," Captain Hawthorne explained.
+
+"That's good..." Derek said. "Exactly how strong are you? If you don't mind my asking. I couldn't quite get a read on you."
+
+"I would hope not," the captain said with a laugh. "If you could have, it would either mean I was slacking, or you were some monster at your low level." He paused, then looked Derek up and down again. "It isn't a secret, and any person in the clan could tell you... I am stalled before my class upgrade," he finally said. "I got close to the level before I stopped, but my affinity isn't quite where I want it to be. So I am stalled—working on my affinity as I am unable to gather and use essence without having to go through with an upgrade I may not want."
+
+"Is that a recent thing?" Derek asked. If the man was going to be so forthcoming, then he was going to ask a couple of questions.
+
+"In a sense... yes," the captain answered. "I have been stalled for 17 years as of last month."
+
+"No progress at all in 17 years?" Derek asked with wide eyes.
+
+"Oh, there has been progress in my affinity... sure. I've gone up two whole percent in it. A few more, and it should be okay for me to gather the remainder of essence needed and go for the class upgrade," Captain Hawthorne explained. "I am currently at 64% affinity. Technically, there have been a few Ascendant class upgrades under 65%, but they are very, very few. So, my goal is 65% or higher affinity."
+
+Derek's eyelid twitched at what the man said. He seemed so strong to Derek—and he obviously was, at just under level 500. However, the two of them had the same 64% affinity. This guy would probably blow a gasket if I told him that my affinity was the same as his, he thought, then nodded. "So, what is your affinity that is keeping you stalled?"
+
+"Derek!" Alex clicked his tongue.
+
+"Huh?" Derek frowned.
+
+"It is okay, Alexander," Captain Hawthorne said, then turned his focus back on Derek. "Most of what I have told you is public knowledge, and I spoke of my current affinity percentage because it is something that I am very proud of and happy to share. But I will not tell you my exact affinity, as it is a secret that should not be leaked. However, anyone can tell you that it has something to do with metal, but I will leave it at that. Why? What is your affinity, Mr. Hunt?"
+
+"My affinity?" Derek paused for a second, then nodded knowingly. "I see. I can definitely see why someone wouldn't want their exact affinity out there as public knowledge."
+
+"Not everyone, though," Alex said. "Transcendents typically release it to the public. In fact, when a person becomes a Transcendent, the Origin System announces it to the System Universe if the new Transcendent agrees to it. Most do because it is a sure way to gain instant respect and recognition. It's especially common for those who don't have a major clan backing to do so."
+
+"I see," Derek said as he finally shifted his eyes away from the two in front and looked around more. After watching adults and children all running around and catching sight of some very decorated buildings of blue and white, yellow and white, green and white, and other various color combinations, Derek asked another question, "Is everyone here part of the Loomis Clan?"
+
+He honestly wasn't sure. It seemed like he was walking through a city, which should have people from various clans and organizations, but also, most everyone was wearing robes like Alex or similar.
+
+"Of course not," Captain Hawthorne answered, causing Derek to sigh. Then he continued, "There are also servants and guards."
+
+"I didn't tell you a lot about House Loomis," Alex said from in front. "This is Loominis City." He motioned around him with his arms. "It's the main headquarters of the Loomis Clan. All cities on our small planet are run by a branch of the Loomis Clan, and every branch has a residence in Loominis City. The position of each branch can be seen based on its location. The higher the position the branch has, the closer to the center of the city it is located."
+
+"Unless they choose to move their residence after increasing their position," Captain Hawthorne chimed in, then shrugged. "Some people hate moving."
+
+"Understandable," Derek replied with a chuckle. Moving is hard. You have to get a bunch of earth users and have them lift your house into your space. A big hassle. "So," Derek said, speaking to Alex. "What position is your family branch?"
+
+"Sixth," Alex answered with a swollen chest. "I am lucky enough to come from one of the leading branches in the Loomis Clan," he said proudly.
+
+Just not leading enough to have a ton of resources spent on him, he thought about what the young man had told him when they first met. Then again, I'd bet my ass that 'not a ton' of resources is still a crazy amount to a normal person. "That's good," he finally said. "Is the majority of your family bookworms like you are?"
+
+"Like me?" Alex snorted and shook his head. "We are one of the more studious branches, but, as my father always says, I took to the learning side of things a bit too well."
+
+"I see," Derek replied with a nod. "Well, it never hurts to have more information—as long as it isn't dangerous information that would get you killed for having... that is."
+
+"Exactly! That's what I keep telling my father," Alex replied. "Then he sends me to an Abandoned Planetary Battlefield with a traitorous escort for 'training,' and I barely make it back alive."
+
+"Alexander, your father is devastated and still does not know that you have survived," the captain chided. Then he looked to his right and said, "We are here."
+
+"Great! Let's go bring me back from the dead so I can let my father have it!" Alex said.
+
+"Alex," Derek said lightly, causing the young man to turn around.
+
+"Yeah?" Alex asked.
+
+"You're quite a bit less shy right now than I'm used to," Derek replied.
+
+"Oh... well..." Alex rubbed the back of his neck in embarrassment. "I'm a bit more at home, well... at my home. And I've had this tension in my chest ever since Adrian disappeared, and it is finally gone."
+
+"I see," Derek replied with a nod. "That makes sense." He knew all too well what having that pit of anxiety in his chest felt like. It was a feeling he didn't ever want to experience that intensely again. It was the reason he needed to grow stronger, and the reason he brought along so many of the friends he'd made along the way. No, it was the reason he would grow stronger and keep them safe. Finally, he smiled at Alex. "I'm glad you're feeling a bit more like yourself now."
+
+"If the two of you are finished," Captain Hawthorne cut in, "please follow me."

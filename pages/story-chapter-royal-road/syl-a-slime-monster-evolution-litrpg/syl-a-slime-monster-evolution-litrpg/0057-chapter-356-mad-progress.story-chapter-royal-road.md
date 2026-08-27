@@ -1,0 +1,134 @@
+---
+id: 01713e9b-8f1a-51b1-afe4-164b25dda6ae
+page-type-slug: story-chapter-royal-road
+title: "Chapter 356 : Mad Progress"
+slug: 0057-chapter-356-mad-progress
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 57
+ownLength: 2246
+unit: words
+ownProgress: 931
+publishedAt: 2026-03-04
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3114520/chapter-356-mad-progress"
+royalRoadId: "3114520"
+---
+
+The days continued to pass by as we all seemed to be settling into a routine.
+
+Vee was continuing to expand her farm and was even teleporting to who knows where to collect various seeds, fruits, or vegetables. The highlight of her activities was when she began abducting livestock and declared she would become a rancher.
+
+During his free time, Leon was either tinkering with parts or attempting to make new discoveries with his Novice Artificer profession. Unfortunately, he had yet to tap into the lightning core, other than shocking himself, so he was taking things slow and steady to avoid a catastrophe.
+
+Vee also had Leon start building a few basic structures close to the center of the island; it really looked like she had plans to establish a village. He also continued building outposts along the island's perimeter, and we even set up a few floating ones; though they lacked strength, they served as our early warning system.
+
+To better facilitate this, I borrowed knowledge of various enchantments I had taken from the humans for their boats, as well as a few treasures that survived the fall of Azulean. I also unearthed Sylvester for this task and let Kappa pilot the body around. I figured it was a good reward for being my guinea pig back in those early days of learning the ins and outs of enchanting.
+
+With an extra persona walking around, I hoped that it would get me to the maximum level of [Core Collective] sooner. Sylvester had been a little barebones since I lacked [Roleplay] back then, but taking a bit of reference from Leon and with some suggestions from Vee, he was soon up to par with Sylbera.
+
+Speaking of Sylbera, her blacksmithing was… progressing. Unlike my foray into enchanting, we didn't have a master's tutoring, so she was going in blind.
+
+Effectively, she was just following the skills she got from her profession until she gained some new insight from leveling it up, and occasionally, I'd swap to the blacksmith class to grant her profession levels and new insights. It was slow, but it seemed to be working, and I could now sympathize with Leon on why he was struggling with his advancements in Artificer.
+
+With regard to the mermen, there were a few scattered "attacks," although they were all swiftly resolved. After that, there was no sign of them at all, making me wonder why I hadn't been rewarded yet. I had a strange gut feeling that I was extremely close to finishing them off. Perhaps even fewer than a handful of survivors.
+
+They aren't trapped, are they? Like, if some mermen were prisoners, would that stop me from getting my Legend Point?
+
+It was a horrifying thought, but when I focused on it, I found a weird sense of unexplained relief. I felt that if they were captured, they would count as "defeated" and wouldn't hamper my progress. I wasn't sure how or why I had this epiphany, so I just ignored it and was glad to have one less thing to potentially stress about.
+
+As for Logan, he was having the best time just standing there and growing, while occasionally being forced to listen to Vee's demands on her future room inside the tree. He was developing relatively fast for a hometree, according to him, and at the same time was establishing himself as a grand spirit. Yes, apparently it wasn't just a "boom, you're a grand spirit" sort of deal; he needed to mature into the role.
+
+As for me, I was trying to make some magical discoveries. Yes, I had been temporarily lured away from Riftmancer thanks to [Intermediate Elemental Magic] opening up several doors for me. I wanted to have auras and other spell components completely under wraps so that when I became a Riftmancer, I could work on making some of them for [Dimension Magic].
+
+At the same time, I was exploring [Chaos Elements] and seeing how I could combine them, now that I had seemingly unparalleled access to them. Sure enough, I managed to make frostfire and every strange combination between them. I had roots that could entangle and freeze you, lightning that could burn you, and water walls that were as hard as rock.
+
+Yet throughout it all, I felt like I was on the verge of a discovery. I thought that perhaps I could create a fusion between all of my elemental skills, but that didn't seem possible through the skill system, despite how plausible it sounded.
+
+[Basic Elemental Magic], [Intermediate Elemental Magic], and [Chaos Elements] seemed like a perfect fusion combination, and I even tried throwing [Elemental Shift], [Elemental Harmony], and [Elemental Adaptation] into the mix. Frustratingly, it was all unsuccessful.
+
+I spent a considerable amount of time ruminating on it, and it seemed to go back to when I used [Skill Deconstruct] on [Magma Magic]. The more I thought about it, the more I became fixated on the idea, and I desperately wanted to deconstruct one of them.
+
+With that desire consuming me, I began making plans. I started creating various combinations of elemental spells in multiple forms and using my [Sub-Cores] to save the exact designs. My goal was that if I used [Skill Deconstruct] and the result was poor, I could quickly regain my strength by forcibly copying them, and because of that, my target was [Basic Elemental Magic].
+
+During this process, I surprisingly reached level eight much sooner than I anticipated. Upon reflection, I realized that I had been using a ton of water and air spells during my tour as Sylvain, and Sylbera had been doing significant work in the earth department.
+
+My new fire, water, air, and earth spells were [Infernal Crown], [Dehydrate], [Sky Domain], and [Terra Titan], respectively. Each of them was quite eye-catching, and to my surprise, came with more unique concepts that I hadn't really touched on yet.
+
+This is way better than [Intermediate Elemental Magic LV 6], which just gave me five kinesis spells!
+
+[Infernal Crown] was an offensive buff, and not in the sense you would've expected. Rather than enhancing someone's attack power, it created a crown above your head that could launch independent magical attacks against enemies with a mere fraction of a thought.
+
+From my brief experimentation, it looked like the base version struggled to go beyond [Fireball] in terms of spell strength, but even so, this was quite a blessing in my opinion. This was the first time I'd seen a spell cast another spell, and the way it went about it made me feel like there was a lot of potential from these components.
+
+If I could make a version of this for other forms of magic, it would be quite spectacular. Vee, for example, lacked something as amazing as my [Sub-Cores]. However, if I could make a corrosion crown or, heck, a dimension crown, then she could benefit greatly.
+
+If I do end up with separated [Sub-Cores], then this would help them too. I could give Sylbera a magma crown and Sylvester an ice crown!
+
+[Dehydrate] was also a new concept I hadn't expected, yet when I thought about it, I felt stupid for not realizing it sooner. The spell stole water from the target, violently, and from there, you could use it for your own purposes.
+
+Naturally, just the removal of water from a living creature was quite harmful, although it wasn't as surefire an attack as I would have hoped. I cast it on a few monsters I came across, and depending on their level, they resisted the forced removal of their fluids quite successfully.
+
+Debuffing them beforehand drastically improved the results, as expected, and I also theorized that this would make for quite the insidious affliction. I also couldn't help but think of using this deprive effect on other elements; could I rob someone of air? What about removing the heat from their body?
+
+Who knew water could be so nefarious…
+
+[Sky Domain] was yet another brand new concept that I had no idea existed—Domains! I vaguely felt like I'd heard about these before, but I was struggling to recall from where exactly.
+
+Domains were like Auras, except they couldn't be moved. You could also only have one active per affinity, which was something I'd also discovered through my testing of auras. Yes, I could only have one fire aura, but I could have a fire and lightning aura active at the same time.
+
+Domains, unlike Auras, cost a lot of Mana, which was a significant downside, yet the flexibility of casting them precisely where you wanted couldn't be overlooked.
+
+Wait… isn't [Expansion] and [Reduction] basically Domains?
+
+I compared the spells, and there were definitely similarities in their properties, especially in how their costs scale with size. However, a cursory comparison showed that Domains were likely significantly cheaper to maintain.
+
+When I swap to Riftmancer, I should try to make an [Expansion Domain]...
+
+As for [Sky Domain] itself, the effect was to control the flow of air within the selected domain. What did this mean? Well… A bunch of things. It was like a buff and debuff combined, where it hindered enemies and assisted allies.
+
+Foes would find their movements restricted, while friends would gain unparalleled speed. This was particularly the case regarding flyers, as it was quite possible to ground enemies with a well-placed [Sky Domain].
+
+Last, but certainly not least, was [Terra Titan]. This spell animated a pile of rocks and ores to combine and form a titan, which was kind of like a powered-up golem. The [Terra Titans] strength directly scaled with its materials, meaning you could make significant gains by not being a cheapskate.
+
+I obviously compared this to [Bloom], which created plant creatures, but there was one significant difference: the titan had no life whatsoever. [Terra Titan] made a dumb construct that the caster had to control directly, which, while cool, felt like a big downgrade.
+
+Being lifeless did have benefits, though, as the [Terra Titan] would continue to function down to the last pebble or drop of Mana, which could not be said about the plant creatures. Being lifeless also meant it was immune to poisons, mind control, and other things like that.
+
+Could I combine [Bloom] and [Terra Titan] to make living golems?
+
+This was the biggest question on my mind after seeing the noticeable similarities between the two. Of course, as a counterpoint to that idea, did I really need them to be alive?
+
+A normal caster might need them to act on their own to free up the mental capacity, but I had my [Sub-Cores]. I could quite easily dedicate a few of them to control a squad of [Terra Titans].
+
+Or… I could have an army of them. I wonder if this is what leads to the Golemancer class?
+
+With that thought, I couldn't help but take out my two invitations and wonder when I'd explore that opportunity. Ideally, I'd remove the restriction from my [Sub-Cores] and head out after Tanglebay was relatively set up.
+
+Anyway, with my various preparations made, all that was left to do was use [Skill Deconstruct]. I'd be lying if I wasn't still anxious about it, but I needed to know.
+
+<Do you wish to deconstruct the skill [Basic Elemental Magic LV 8]?
+
+Warning: this cannot be undone.>
+
+Yes…
+
+<Skill [Basic Elemental Magic LV 8] has been lost.>
+
+Immediately, there was a great sense of loss, perhaps even more so than when I blew up in the teleportation accident. My only solace was that I had all my spells safely secured within the minds of my [Sub-Cores].
+
+Once the sense of loss faded away, the new information was granted. At first, there didn't seem to be much, and I felt like I had made a big mistake, but then I started to scrutinize it more closely.
+
+I had received four components and quickly discovered that they were [Earth], [Fire], [Water], and [Air]. This wasn't just the magic skill; this was the method of using, converting, and controlling them. Needless to say, it was a startling discovery.
+
+Suddenly, I realized that the lackluster information I was gathering from [Magma Magic] must have been the incomplete components of the element. When I brought up that older information, I found that much of it had already been filled in based on the insights from [Earth] and [Fire].
+
+It didn't end there; when I looked further, I noticed I'd received additional insight thanks to the fusion skill. From what I could see, there was a grand connected diagram, and on it the four basic elements were in harmony. Not only that, but I felt like I could imagine where [Magma] would naturally fit in this picture.
+
+Should I deconstruct [Intermediate Elemental Magic]?
+
+It was almost the natural conclusion after seeing this image. What insights would I gain from combining the two disassembled skills together?
+
+It wasn't just because of my gut feeling imagining where [Magma] would sit, it was also to further complete my understanding of the basic elements. If I looked at [Earth] and [Fire], I saw a significantly clearer image than with [Air] and [Water], which must be because of my efforts in taking apart [Magma Magic].
+
+What secrets are you hiding, Mother?
+
+I felt like I was at the edge of a cliff, being asked to take a leap of faith. I just wasn't sure if I was heading towards a conclusion or madness.

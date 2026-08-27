@@ -1,0 +1,713 @@
+---
+id: a37d34cf-4d0f-57aa-82f8-4ee0887dfd8a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 110: Of Flying Forward, and Proper Fun!"
+slug: 0111-chapter-110-of-flying-forward-and-proper-fun
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 111
+ownLength: 2321
+unit: words
+publishedAt: 2026-03-11
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3141410/chapter-110-of-flying-forward-and-proper-fun"
+royalRoadId: "3141410"
+---
+
+PoV Luna
+
+Morning arrived quietly.
+
+Which was very nice!
+
+Luna couldn’t hear any shouting, metal clanking, nor even angry clicky noises.
+
+Just soft light filtering through the canvas of the tent and the distant murmur of a camp that had already started its day without her.
+
+Luna did not wake up immediately.
+
+First she stretched her paws.
+
+Then her legs, one by one!
+
+And as her nose twitched slightly, taking in the morning scents… She inhaled the warm, comfortable smell surrounding her.
+
+Blankets.
+
+Campfire smoke.
+
+And Trianna.
+
+Very nice smells!
+
+Luna hummed softly to herself and burrowed a little deeper into the warmth.
+
+Her head was tucked comfortably under Trianna’s arm, one of the woman’s hands lazily resting against Luna’s back. The other hand was moving slowly through her fur in gentle, absent-minded scritches.
+
+That helped Luna stay sleepy a little longer.
+
+Maybe even a lot longer!
+
+Luna made a small, very happy noise.
+
+“Mrrr.”
+
+Her eyes opened halfway.
+
+Then closed again.
+
+Morning could wait a little more.
+
+The scritches continued.
+
+Luna wiggled slightly, snuggling closer until she was fully tucked against Trianna’s side, like a very satisfied little furnace.
+
+More scritches!
+
+And cozy warmth.
+
+The happy noise returned.
+
+“Mrrrp.”
+
+She lifted her head slowly, blinking sleep from her eyes.
+
+Trianna looked down at her with a small amused smile.
+
+“Well, well, look who’s finally awake. Good morning,” she murmured.
+
+Luna blinked up at her.
+
+Then she stretched her front paws up toward the ceiling of the tent in a long, slow stretch that ended with a content little yawn.
+
+Her tongue slipped out automatically.
+
+Which gave her an idea.
+
+A very good idea!
+
+She leaned forward slightly.
+
+“Mlem–”
+
+Trianna caught her gently by the forehead.
+
+“Nope.”
+
+Luna froze.
+
+Her tongue was still out, unsure whether to go back in for another mlem.
+
+She blinked.
+
+“Transform first,” Trianna said calmly.
+
+“Then you can do the mlem.”
+
+Luna stared at her.
+
+Tongue still out.
+
+Eyes slowly widening as the idea fully formed inside her head.
+
+Oh.
+
+Oh!
+
+Yes, Luna accepts those terms!
+
+That was the bestest deal, maybe ever!
+
+Second only to Second and jerky and spice, and pack, and–
+
+Okay, maybe not the bestest deal ever.
+
+But still very nice!
+
+There was a brief shimmer of shifting magic–
+
+–and wolf Luna vanished.
+
+A silver haired wolf girl immediately appeared in her place.
+
+Trianna barely had time to say–
+
+“Oh no.”
+
+Before Luna attacked!
+
+“MLEM!”
+
+She launched forward in a joyful explosion of fluffy chaos.
+
+Happy yips filled the tent as Luna enthusiastically attempted to lick Trianna’s entire face at once while also climbing into her lap and delivering what she clearly considered to be maximum morning affection.
+
+Trianna burst out laughing instantly.
+
+“Luna–!”
+
+“Mlem!”
+
+“Luna–!”
+
+“Mlem mlem!”
+
+“Alright–!”
+
+The girl wiggled around happily while her tail wagged with extreme enthusiasm at this tremendous opportunity.
+
+But two could play this game.
+
+And tickling retaliation followed immediately!
+
+Trianna grabbed Luna around the ribs and began mercilessly scratching every ticklish spot she could reach.
+
+Luna yipped and squirmed wildly.
+
+But she did not retreat!
+
+That wouldn’t be very Apex Predator of her!
+
+No.
+
+This was a battle of wills!
+
+And Luna was very determined to win!
+
+More mlems.
+
+And wiggling!
+
+Only laughter followed.
+
+Finally Trianna surrendered, falling back against the bedding with both hands raised.
+
+“Alright, alright, you win!”
+
+Luna continued licking.
+
+“Stop!”
+
+“No! Take this! Mlem!”
+
+“Staph!”
+
+Hehe.
+
+Luna victorious!
+
+***
+
+By the time they exited the tent, the camp was already well into the morning.
+
+Sunlight washed warmly across the clearing. Cooking fires burned steadily. Adventurers moved about with the slow pace of people who had worked very hard the day before.
+
+Luna trotted happily beside Trianna, thoroughly satisfied.
+
+And her stomach immediately noticed something wonderful.
+
+Food!
+
+Syliana stood nearby waiting for them with a large bowl of stew balanced in one hand. And in the other was…
+
+Bread.
+
+And a pouch with what looked like a pile of small rectangular bars.
+
+Luna’s eyes lit up.
+
+Then she ran up to her Second, hugged her a ‘good morning’ and then–
+
+Immediately sat down in front of Syl with the focused posture of someone about to engage in very serious eating.
+
+“You slept for quite a while, Luna,” Syliana said as she handed the bowl over.
+
+“How are you feeling?”
+
+But Luna was already halfway through the first mouthful before the question even formed.
+
+“Nom– slurp–”
+
+She swallowed.
+
+“Luna feels great!”
+
+Another bite.
+
+“Trianna makes great pillow!”
+
+Syl’s smile deepened slightly.
+
+And, behind Luna, Trianna snorted.
+
+“Pfft.”
+
+“…Is that so?” Syliana asked mildly.
+
+“Yip yep!”
+
+Trianna leaned casually against a nearby rock and grinned.
+
+“Hehe. Wanna check it out sometime, Syl?”
+
+Bonk!
+
+The staff tapped her shoulder with precise timing.
+
+“…Perhaps some other time,” Syliana said calmly.
+
+Luna sniffed the air.
+
+There was a bit of annoyance there.
+
+But also something softer underneath.
+
+Mild happiness.
+
+And it had been there before they even arrived!
+
+Her tail wagged.
+
+It was nice knowing her Second was happy!
+
+Syliana folded her hands behind her back.
+
+“Right, Luna. We spoke with Ferric yesterday evening. Our part of the quest is finished here.”
+
+Luna paused mid-bite.
+
+“Ray and a few others went out last night to confirm several of the things you discovered. The ore vein. The things in the tunnels. Everything.”
+
+Trianna chuckled, completely undeterred by the earlier bonk.
+
+“After much grumbling, I imagine! Hahaha!”
+
+Syliana allowed the corner of her mouth to twitch.
+
+“Yes. After much grumbling.”
+
+She looked down at Luna again.
+
+“And it’s thanks to your help. You did amazing.”
+
+Luna’s tail wagged so hard it threatened to lift her off the ground.
+
+“Yes!”
+
+She puffed up proudly.
+
+“Luna is awoomazing!”
+
+Syl reached forward and ruffled her hair, chuckling lightly.
+
+“Oh! Does that mean we’re going back soon?” Luna asked quickly, “No more Clickies?!”
+
+“Yes, no more Clickies.”
+
+Luna beamed.
+
+That was the greatest news ever!
+
+“There is one small request, however. As part of the agreement Ferric asked if you would be willing to store the remaining ant corpses in your Maw. It would make transporting them much easier, and the adventurers would prefer to dismantle them with proper tools back at the Guild.”
+
+Luna had just finished the stew, and licked the bowl clean.
+
+“Mhm. Luna will do it!”
+
+Syl nodded once.
+
+“And here.”
+
+She handed Luna the small bars she had been holding earlier.
+
+“I traded for these for you.”
+
+Luna inspected them immediately.
+
+“They’re ration bars,” Syl explained. “But not the usual bland sort.”
+
+She pointed to each one.
+
+“This one contains nuts and honey.”
+
+“This one has berries and fried dough.”
+
+“And that last one is salty and spicy. I was told it’s made from several kinds of dried, fried, and shredded meats.”
+
+“A few of each. All for you.”
+
+Luna’s eyes sparkled.
+
+She held the bars carefully like priceless treasures.
+
+This was the happiest morning ever!
+
+***
+
+Storing the ant corpses turned out to be very easy.
+
+Luna simply opened her Maw.
+
+And yet another pile disappeared into shadow.
+
+Then she just had to run over to the next one!
+
+Ferric stood nearby with several adventurers watching the process with expressions that moved slowly from professional curiosity to mild disbelief as the number of corpses kept decreasing.
+
+Only one question was on their minds – just how much could Luna possibly store inside?
+
+But they didn’t ask… more than once.
+
+Because while Luna happily told them the answer… It was hard to make sense of whatever ‘Lots’ could possibly mean.
+
+So they just watched instead, shaking their heads.
+
+And Luna was very efficient indeed!
+
+Soon all of the piles of chitin and stuff that had once been several waves of furious ants was simply… gone.
+
+Ferric stared at the empty ground.
+
+Then at Luna.
+
+Then at the empty ground again.
+
+“…Remind me never to fight you,” one of the adventurers muttered.
+
+Luna beamed proudly.
+
+“Okay!”
+
+With that important task complete, it was time for something even more important.
+
+Goodbyes!
+
+The big pack would be staying here for quite a while still.
+
+There were many things left to do.
+
+The forest needed to be checked.
+
+Remaining ants hunted down.
+
+The nest secured.
+
+And apparently the shiny rock place underground was very important too!
+
+They were very excited about that part.
+
+Luna still didn’t quite understand what was so exciting about shiny rocks underground, it certainly didn’t taste all that good.
+
+But one thing was for sure!
+
+Humans were weird.
+
+So that was okay!
+
+Luna had importanter things to do anyway.
+
+Like saying goodbye to the Proper Human Team.
+
+And trying out a new pose!
+
+Yes.
+
+That was very important indeed!
+
+She found them near the outer part of camp where they were packing equipment and loudly arguing about something involving rations.
+
+Mr. Bull spotted her first.
+
+“Ah! Power Fluff Girl!”
+
+He immediately threw both arms wide.
+
+Luna ran over.
+
+“Mr. Bull!”
+
+She immediately jumped into a big greeting pose!
+
+Which made the man return it in kind, a joyful sparkle in his eyes.
+
+Greetings done, Mr. Bull crouched slightly and placed a heavy hand on Luna’s shoulder.
+
+“You were amazing out there,” he declared proudly.
+
+Luna puffed up immediately.
+
+“Yes!”
+
+He nodded sagely.
+
+“Very good form. Excellent battlefield presence.”
+
+He paused.
+
+Then his grin widened.
+
+“But there is one more thing!”
+
+Luna tilted her head.
+
+“Oh?”
+
+Mr. Bull suddenly grabbed her.
+
+Which was not unusual.
+
+But then–
+
+He started spinning.
+
+Fast.
+
+Very fast.
+
+The world tilted instantly as the camp blurred into streaks of color around her.
+
+Luna’s ears flattened in delighted surprise.
+
+“Whoaaa–!”
+
+Faster.
+
+Faster.
+
+The sky spun.
+
+The tents spun.
+
+The forest spun too!
+
+Whoazzooomazing!
+
+And almost as suddenly as it all started, the spins slowed.
+
+Mr. Bull stopped.
+
+For exactly one second!
+
+Then threw Luna into the air.
+
+Up.
+
+Up.
+
+And super high!
+
+Higher than she expected.
+
+The world opened beneath her.
+
+And for a brief moment Luna saw everything!
+
+The big camp spread across the plains.
+
+Fires burning.
+
+People moving like tiny shapes between the tents.
+
+And beyond that–
+
+The forest.
+
+Endless green stretching toward the horizon.
+
+Her golden eyes sparkled.
+
+“Ohhh–!”
+
+Gravity remembered her.
+
+She fell.
+
+Mr. Bull caught her easily and, with a laugh, set her back on the ground.
+
+Luna landed with a bounce.
+
+Her tail wagged so hard it nearly knocked her over.
+
+“That was awoomazing!”
+
+***
+
+It eventually took Sepio to pry Luna away from Mr. Bull.
+
+After the fourth–
+
+“Again!”
+
+Sepio stepped in with the weary determination of a man who had already seen how this situation could escalate.
+
+“Alright,” he said firmly, placing a hand on Luna’s shoulder before Mr. Bull could grab her for another spin and throw session. “That’s enough.”
+
+Luna blinked up at him.
+
+“But–”
+
+“No.”
+
+“But flying–”
+
+“No.”
+
+“But–”
+
+Sepio sighed the big weary sigh of someone who had already fought such battles many times in his life.
+
+He looked at Mr. Bull and gave a small apologetic nod.
+
+“Sorry about that.”
+
+Mr. Bull waved the apology away immediately.
+
+“Haha! Tis’ no bother at all! Little Luna is a joy to be around.”
+
+Of course Luna was no bother!
+
+Luna just–
+
+…was having a lot of fun flying.
+
+Maybe a little too much fun.
+
+She looked down at her boots, suddenly a tiny bit embarrassed.
+
+Sepio might have been right to apologize after all.
+
+So Luna shuffled slightly and looked back up.
+
+“Sorry,” she said too.
+
+Mr. Bull laughed and ruffled her hair again with a big warm hand.
+
+“No trouble at all, Power Fluff Girl.”
+
+He grinned.
+
+“You fly very well.”
+
+Hehe.
+
+Mr. Bull was great!
+
+***
+
+Not long after that, Luna and her pack left the big pack behind.
+
+The camp slowly shrank behind them as they moved away from the clearing and back toward the open plains.
+
+After spending so long in the forest and ant tunnels…
+
+The open air felt wonderful!
+
+And soon after they set out, Luna went a little ahead.
+
+Just a bit.
+
+And simply started walking.
+
+Then her steps grew lighter.
+
+A faster walk.
+
+Then an easy run.
+
+With no Skills.
+
+No bursts of impossible speed.
+
+Just Luna!
+
+And her playful shadows.
+
+The wind greeted her immediately, rushing across the open grasslands and tugging at her hair. It brushed gently across her face, fluttered the loose edges of her clothes, and carried fresh scents from far away.
+
+Clean wind.
+
+Open sky.
+
+Endless grass.
+
+Luna stretched her arms out to the sides as she ran.
+
+The wind pressed against them with invisible strands.
+
+“Ohhh!”
+
+She zigzagged across the plain, boots barely touching the ground between each step.
+
+Long grasses brushed against her legs as she ran through them. Luna lowered one hand and let her fingers glide across the tops of the swaying stalks.
+
+Soft.
+
+Tickly.
+
+Very nice.
+
+“Oh!”
+
+She glanced over her shoulder.
+
+Her pack was catching up!
+
+Somewhere along the way they had learned to run with her!
+
+Not as fast as Luna.
+
+But faster than before.
+
+Much faster!
+
+Luna puffed out her chest proudly as she slowed for a moment and watched them.
+
+Yes.
+
+Very good progress.
+
+Her pack was getting stronger.
+
+Soon they would almost be able to keep up with Luna.
+
+Almost!
+
+As Luna would be even faster then!
+
+She spun around again and took in the view around her.
+
+The green wall of the forest rolled along one side of the plains.
+
+The open grasslands stretched endlessly in every other direction, rippling in the wind like a living sea.
+
+Somewhere beyond the distant horizon lay the human nest.
+
+Fields.
+
+Roads.
+
+Cities.
+
+The world felt very big.
+
+And very exciting.
+
+The wind picked up again.
+
+And the fields moved with it.
+
+The grasses bent and swayed.
+
+And cutting across the wide plains–
+
+Faster.
+
+And faster!
+
+Was a streak of shadows and grace.
+
+A straight line toward the horizon.
+
+Leaving only happy laughter behind.
+
+What adventure would await Luna next?
+
+She could hardly wait!

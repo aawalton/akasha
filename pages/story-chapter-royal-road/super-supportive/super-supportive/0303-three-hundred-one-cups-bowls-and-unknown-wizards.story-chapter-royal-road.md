@@ -1,0 +1,237 @@
+---
+id: b430634e-2a0e-543f-a527-1b608ff75566
+page-type-slug: story-chapter-royal-road
+title: "THREE HUNDRED ONE:  Cups, Bowls, and Unknown Wizards"
+slug: 0303-three-hundred-one-cups-bowls-and-unknown-wizards
+partOf: super-supportive
+position: 303
+ownLength: 3143
+unit: words
+publishedAt: 2026-08-08
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3785111/three-hundred-one-cups-bowls-and-unknown-wizards"
+royalRoadId: "3785111"
+---
+
+301
+
+******
+
+The songs were all old favorites, and the singers were everybody who felt like joining in for a time. Alden had hidden his interface to reduce distractions while he played Three-fingered Thief, so he had no translations. Sometimes he understood what they were singing about, but often it was only noise, lively or dreamy in turns.
+
+His left hand swept through the cloud of rising and falling game pieces, catching tans to match the number he’d bet he could collect this round. At the same time, his right hand dropped a mix of colors onto the discs in front of him. They’d fly up and join the pieces in play, hopping up and down between discs as if they were bouncy balls, though they were nothing of the sort. Hard and translucent, they were more like marbles with one flattened side to keep them from rolling around when they were on the table. They represented coins or jewels, depending on who was explaining the story behind the game. Hopefully, the colors he’d chosen would give Dazm-lin trouble as they moved toward her. If you missed your bet or touched a wrong-colored piece, then you won nothing for the round.
+
+Alden wasn’t ready for much strategizing, but he did like plucking the pieces out of the air. His pile was growing, so he wasn’t losing despite all the conflicting advice he was getting from random people who wandered over, drinks in hand, to help the human out.
+
+When he had a reprieve from those helpful sorts, as he did right now, he could enjoy himself more and take in his surroundings. The singing. The sweet smell he now recognized as the local wine and the charred licorice scent that wafted through the whole pavilion whenever they were preparing more of the sausage Kayda-lin liked. The sound of voice after voice welcoming Esh-erdi home, congratulating or celebrating him.
+
+Those conversations, when they happened near enough for Alden to hear, cost him game pieces and rewarded him with pieces of knowledge about the bond the two knights shared.
+
+He had learned enough vocabulary from Stuart that there was no need to bring the translations back up. Inesvul was the bond. Esvulgivnas the period that honored its creation. A couple of people greeted the knight as EshLind, and that wasn’t strange enough to make anyone bat an eye.
+
+Esh-erdi’s sister—who came by to pick up Brim, Droon, and the very last of Alden’s oranges—mentioned that she hadn’t believed her brother was really pursuing the bond with Lind-otta until Lind-otta showed up at her house for a visit one day.
+
+“Then I had to scramble, didn’t I? You’ve never seen a more unprepared host than I was that afternoon. Animal guts on every surface because I was studying how they reacted to a peeling fluid I’d been sent to test.”
+
+“If you’d believed your ever-honest older brother, then you wouldn’t have come to the door that day with blood up to your shoulders and that unique fragrance clinging to you.”
+
+She scowled at him and assured everyone that he’d knowingly led her to the misunderstanding. But she also rubbed her nose against his before she left, whispering, “You look right now, Esh.” And she made him promise to spend time with her tonight, no matter how late it might be when he’d finished visiting everyone here and concluded his business with Alden.
+
+Alden had thought they might actually leave sooner because of her request. But new people kept appearing, and Esh-erdi kept greeting them warmly while he showed that he could drink anything and everything put before him with no ill effects. He was cheating somehow, according to everyone. Alden wondered if he could break down intoxicating compounds with his skill or if it was something simpler, like a sober-up injector.
+
+Alden’s own exploration of pitcherhouse offerings had been a fun project. He’d meticulously checked with Mother before tasting each thing, and her amused, encouraging suggestions had allowed him to make plenty of discoveries without the adventure becoming something he didn’t want. Piditsoo tasted like liquefied lawn clippings and stripped his mouth of saliva. For a couple of minutes after sipping it, he felt like his head weighed too much and his ears were swelling. That wasn’t how the stuff affected Artonans. He looked forward to never tasting it again.
+
+But hahmp juice was refreshing. Bundlefruit wine was energizing and gave him back the moisture the piditsoo had stripped. He learned he hated the fibrous sludge called geeyb’b, and he discovered a passion for sizzle spice. That was what he’d decided to call the smoldering grit Esh-erdi had brought to the table, since he couldn’t say its real name very well. It changed flavors if he held it in his mouth, from woody to buttery caramel to something fruity like pears. He wanted to eat it by the spoonful, but everyone else was sprinkling tiny bits of it over drinks or bread. So he settled for sending Stuart a message about how much he liked it and how he needed to learn the spell that got cast on it before it was brought to the table.
+
+I should send him another picture of me playing this game now that I’ve gotten better at it.
+
+He was about to do that when a vaguely familiar name was spoken by a man with awful taste in drinks who stood near the pavilion’s edge. Behind him, the river shone with reflected lights from docks. A red lamp on the front of a barge was fading in and out.
+
+It took several seconds for Alden to recall why “Yaril” should catch his attention.
+
+That’s right. Stuart met someone with that name at the oath ceremony he attended before Welcome End. An outsider declared. She promised to send him a message after first binding, and he seemed hopeful about it. He had a little wish in his voice. Is it the same person?
+
+His turn to bet came again, and he opted for six purples.
+
+“He challenges you, Kayda!” Dazm-lin said merrily to her daughter, who’d been collecting purple in almost every round.
+
+Alden had picked purple because he saw a lot of purple in play right now, and he hoped it would be easy to steal while he simultaneously listened in to the man who might be talking about someone Stuart knew.
+
+Not just someone Stuart knows. Someone who wanted to get along with him as fellow knights. I haven’t heard him say her name since then, though. I think he would have if she’d been talking to him.
+
+Stuart wasn’t someone who naturally hid excitement. He wanted to share it, as long as he could find someone to share it with who wouldn’t crush it.
+
+It was so sad when he realized he didn’t trust his parents with my secret. Like he’d had all the air taken out of his balloon. And when he told me he was avoiding his old friends because he couldn’t stop being surprised that they weren’t treating him correctly, no matter how many times it happens….
+
+Unfortunately, the man saying Yaril—Yaril-honh actually—wasn’t very loud. Alden ended up catching halves of sentences and only five purples.
+
+He does seem to be talking about newling knights. So it’s probably the same Yaril. I guess I shouldn’t think of it as unfortunate that he’s quiet. It’d be worse if he was shouting a knight’s personal business to the whole pitcherhouse.
+
+It did seem possible that what was being talked about was personal, based on the warning the man had just given his two main listeners: “So if you meet them in the coming days, careful words.”
+
+Is “them” still Yaril? Yaril plus others?
+
+As Alden’s pile of playing pieces shrank, he kept his face on the game and his ears on the man.
+
+“…missing isn’t missing after….sorry to say….all of us….still, this young….”
+
+Alden had caught the word Goldbush a minute ago, which had helped convince him the talk was about the younger generation of knights.
+
+And “missing” fits with that, given what happened recently. Stuart’s Yaril couldn’t have gone missing, too, though. She’s only days into being a knight, assuming she went through with it as planned. She won’t even be using her new skill much yet.
+
+She’d be taking it easy, kneeling in a DawnStep class or socializing with other new knights. Possibly doing camping training like Esh-erdi had talked about.
+
+He kept listening, but he couldn’t pick up the man’s voice anymore. After a while, he glanced that way, curious about why it had gotten quiet over there so abruptly.
+
+He saw that the speaker and his listeners were gone. Esh-erdi stood where they had been, sipping from a piditsoo bowl with branching black lines painted on it while he looked upstream. He had several arm-lengths of space around him and no conversation partners for the first time since he and Alden had arrived.
+
+That’s the same decoration the piditsoo bowl in that guy’s hand had on it.
+
+Alden scanned the crowd. The man he’d been eavesdropping on and the two others didn’t seem to be here anymore.
+
+Is it the same piditsoo bowl? Did Esh-erdi shove them into the river? No, they’d have made splashing sounds, and he seems calm. Maybe they just left in a hurry for their own reasons.
+
+A big hurry.
+
+“You’re losing coins suddenly, Alden Ryeh-b’t.” Dazm-lin’s tone was light, but when Alden’s attention was back on the table, he found one of her eyes lingering on him. She had color-changing eyerings; they’d gone silver now, matching the stars that flecked her black clothes. “As Stu-art’h’s friend, I’m sure you value the Privacy of the House?”
+
+Alden hadn’t heard that mentioned in a while. It took him right back to another Artonan night. And the feeling of falling as he jumped out of Stuart’s bedroom window to follow him to the summonarium. All so that Privacy of the House could be avoided.
+
+And so that a real friendship could begin, though neither of them had imagined where they’d be now.
+
+If I say I value it, is it like I’m lying to her about having sworn to it? She’s hinting about it all of a sudden for a reason. My eavesdropping was too obvious. But I didn’t even hear anything worth keeping private!
+
+“What’s more proper than discretion?” Alden said.
+
+“Indeed. And the house is larger than the home of our Primary’s family…as you know?”
+
+“I do. It’s a very large house.”
+
+The votary smiled at him. “Bet twelve on pink then. I believe in those swift fingers of yours.”
+
+“Twelve is too many. I’m only a beginner.”
+
+But he ended up caving to the table’s encouragement and betting twelve. His pulse was up a little.
+
+I got away with it…whatever it was. No reason to be nervous.
+
+His turn came, and his hand swiped through the cloud of pieces. It felt more like cutting the space between them with a knife than usual. Less dancing, more demanding.
+
+Twelve clattered on the table in front of him. All of them were pink. He’d somehow gotten them all in three motions, slashing.
+
+Actually, I don’t think I’m nervous.
+
+“I bet fifteen,” he said. “Tan.”
+
+Nobody else had bet that high all game.
+
+******
+
+******
+
+“Did I push three votaries in the river and steal one of their drinks?”
+
+Esh-erdi’s face was suddenly illuminated by the glow of a ring, and then the hand that wore it was next to Alden’s chin. Their flyer was dark inside so that they could better appreciate the view as they left the pitcherhouse behind, but Alden’s question must have made Esh-erdi think he was a better sight than the blanket of stars above them or the water and grass below.
+
+“What did you drink while I didn’t have an eye on you? It must have been potent to make you leap to a conclusion like that.”
+
+He seemed delighted rather than offended.
+
+“It wasn’t a conclusion,” Alden said. “I just heard him say a name I thought I knew, so I was paying attention to him. And then that whole trio was gone. So suddenly. You were there holding the bowl, and Dazm-lin was asking in a meaningful voice if I respected Privacy of the House. I didn’t really think you’d shoved them over the edge, but it was strange.”
+
+“Obviously I didn’t push them into the river.”
+
+Alden nodded.
+
+“I asked them nicely if they needed to be pushed into the river.” Esh-erdi’s ring turned off, and he lowered the hand onto an armrest he’d somehow made grow out of the back of the flyer’s bench seat. “To sober them up the old-fashioned way. A startling fall and some cold. I was offering them help.”
+
+Alden stopped nodding. “Did…they need to be…” Threatened by a knight. “Wet?”
+
+“I think it would have been good for all if they’d said yes. We could’ve laughed about it with them while they dripped around with the rest of us and sang a song or several. But they simply apologized and left.”
+
+“I couldn’t hear most of what they were saying. I must have missed the very rude part.”
+
+“That’s best. A single remark from a sloppy person shouldn’t count for much during such a night.”
+
+Was it about me? Whatever they said?
+
+“They weren’t talking about you, if that’s what you suspect.”
+
+Alden wanted to slap himself a little. “Of course I shouldn’t suspect that! I didn’t even hear my name, so thinking it might have been about me would be immensely self-centered. Which isn’t a quality I seek.”
+
+“It would be more logical than self-centered. You were the main novelty under that roof, and many people were talking about you in and out of your hearing. You weren’t being shy either!” Esh-erdi lifted three fingers in the bidding motion. “Fifteen pink! Fifteen green! Fifteen and fifteen again! You were going to win or lose boldly to end that game, weren’t you? Pity it was the loss, but I admire your determination to set the table’s pace.”
+
+“I might have gotten too into it. I did hear…. That man mentioned someone named Yaril-honh. Stu met someone named Yaril at the oath ceremony. He was looking forward to hearing from her again. Finding out how she was.”
+
+He hoped that was enough to get him a general answer. He didn’t want to sound like he was prying into whatever specific issue had made Esh-erdi think the votaries should be dunked.
+
+“That connection was my fault,” Esh-erdi said after a long pause. “I encouraged the two of them to get along.”
+
+He examined Alden. “When you see Stu in person, tell him Hn’tyon Yaril-honn’s brother went missing on Goldbush. If he hasn’t already heard, he should. So that he doesn’t wonder. If she’s behaving differently than he expected her to, that will be the explanation.”
+
+Damn. For her brother to go missing immediately after she became a knight…
+
+“That’s awful. He’s one of the two who went missing recently? Not a new missing person?”
+
+“One of the two. You know about it?”
+
+“I was at the siblinghold when they got the news.”
+
+“I found out tonight about the relation of one of them to Yaril-honn, from overhearing that man who I offered to help into the river.”
+
+“You were just being courteous.”
+
+Esh-erdi laughed, short and quiet. “Lind would have scared them more. She’s tricked this whole Rapport into thinking she’s supremely dignified simply by being very old when most of them were born.”
+
+“I liked hearing more about your bond,” Alden said.
+
+“Did we make it into your notes?”
+
+“Yes. Are all knights who share inesvul as happy as you two?”
+
+“I think our bond is superior to all others. But my thoughts on that are biased. All who manage it feel that they’ve been enriched beyond their imagining. I thought I wanted too much, but I found even more. Add that to your notes. My words are worthy of record.”
+
+“I will. I had a lot of fun at the pitcherhouse. I sent Stu so many pictures. Thank you for showing me part of your home.”
+
+His messenger bag was stuffed with snacks to share with his roommates and Natalie. Each person he’d played Three-fingered Thief with had given him a few game pieces to start his own set.
+
+“We talked of home earlier, didn’t we?” Esh-erdi said. “It’s a precious thing.”
+
+The interior of the flyer was comfortable. Alden could easily have settled into it and enjoyed the ride.
+
+“You said we had no trees here, but there’s a spectacular one near my house. Do you want to see it?”
+
+“Did it come from beside a parking lot in Tennessee?” asked Alden. “Because if it’s that one, I’d like to see it for sure.”
+
+******
+
+******
+
+******
+
+Nearly twenty pictures from Rapport III. Far too many cups, bowls, and unknown wizards in various states of inebriation. Far too few words of explanation for any of it, except for a wildly effusive message about what kzkzzt spice was like and how much of it he’d like to eat!
+
+His auriad isn’t visible in a single photo. His auriad isn’t visible.
+
+All is not well. A truly well person wouldn’t make up some of those metaphors about kzkzzt. But there’s no disaster yet.
+
+Hn’tyon Esh-erdi wasn’t being helpful in his responses to Stu’s questions either.
+
+Why is he not being helpful? Have I not expressed myself correctly? I need to know what Alden is saying and thinking of saying.
+
+Stu fanned himself more furiously than their spell practice called for. He needed fresh air. Surely insight chambers weren’t meant to be this stuffy.
+
+Another message came. He had to hold his voice in his throat.
+
+[I can’t send you a picture of my birth tree. I’ve just seen it myself, and you really need to see it in person. Soon. I’ll show you. Esh-erdi and I are going to have a talk now, so you won’t get any more pictures for a while. I hope you’re having fun at school.]
+
+There’s really no good air left in this chamber at all, thought Stu. What’s he going to talk to Esh-erdi about? If it’s that…I must be ready to protect him from whatever comes of it. I must be.
+
+It’s not too much. I’ll be ready.
+
+His fan was waving so hard that Jel-nor finally reached over, when the instructor’s eyes were both turned elsewhere, and pinched his arm like she was trying to take flesh. An older student behind them made the faintest sound of approval.
+
+I can’t even blame her for this, thought Stu as she returned to her proper posture in an instant. But much blame lies with Alden. And Esh-erdi.
+
+His arm throbbed.
+
+******

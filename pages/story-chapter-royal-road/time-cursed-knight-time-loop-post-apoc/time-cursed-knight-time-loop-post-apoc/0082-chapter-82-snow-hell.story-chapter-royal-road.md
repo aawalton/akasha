@@ -1,0 +1,221 @@
+---
+id: edb94b19-2115-5c9f-a4ec-3fb6697e4896
+page-type-slug: story-chapter-royal-road
+title: "Chapter 82: Snow Hell"
+slug: 0082-chapter-82-snow-hell
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 82
+ownLength: 2041
+unit: words
+publishedAt: 2026-07-08
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3649869/chapter-82-snow-hell"
+royalRoadId: "3649869"
+---
+
+The flames climbed.
+
+They rose from my feet first. Pale blue tongues climbing my boots, my legs, sheathing me in a fire that poured upward. They ran the length of my arms. They wrapped the sword. They flooded into the wound I had torn in the Titan's belly.
+
+So close to that blaze, and it didn't burn.
+
+Not me.
+
+The fire was my skin, it knew me the way a flame knows the wick it was born from.
+
+But it didn't stop.
+
+The mana kept flowing. The fire found no ceiling. It grew past the wound. Past the belly. Until the world itself became fuel.
+
+It soon reached for me. The heat that had spared me turned inward. The space around my body folded into the throat of a furnace.
+
+How do I put it out?
+
+The fear came riding in on that thought. I reached for the mana, tried to pinch it down to a trickle —
+
+In the end, I didn't have to do much. The beetle decided for me.
+
+I heard it above me. Something mechanical. A vast unlatching, like the lid of an iron chest thrown back.
+
+The beetle's shell opened.
+
+Two slabs of black-green carapace lifted along its spine, and beneath them, folded against the body, enormous wings snapped open and began to beat. The downdraft flattened my fire against the road. The braced limbs released the arch, the doors, the stone, all of it at once.
+
+It launched.
+
+Straight up. The whole temple-sized bulk of it tore into the sky on a hurricane of wingbeats, and the gate plaza dropped away beneath it.
+
+There was only one issue. I was still holding the sword.
+
+And the sword was still buried in its belly.
+
+I went up with it.
+
+The desert unrolled below me, vast and pale and going paler as we climbed, the city shrinking to a walled smear at the edge of the dunes. Wind tore at me. The Titan's blood sheeted off the wound and whipped past my face.
+
+The fire kept burning. Kept climbing my arms. Kept pouring out of me into a creature that was now hundreds of feet in the air and rising.
+
+It wanted me off.
+
+The great body began to thrash — banking, rolling, hauling itself sideways through the air in convulsions meant to fling the flea from its gut. It braked mid-flight, folding its wings, and my own weight nearly wrenched my arms from their sockets before the wings hammered open again.
+
+It fired its mana. Everywhere. Green light spat from its mandibles in wild lances that carved the air, raking in every direction at once. Yet it couldn't reach me.
+
+So it tried something else.
+
+The glands along its spine flexed. Green smoke poured from its back in a plume. The same acid mist I had watched melt men to bone in the gate plaza. It vented all of it at once, a churning cloud the size of a storm. The beetle banked, hard, and flew straight into the cloud it had made.
+
+To bathe in it. To wash me off in its own poison.
+
+There was only one problem with that.
+
+For the beetle, and for me.
+
+The first tongue of blue fire touched the acid.
+
+The reaction ran faster than thought. The instant flame met mist, the cloud did not flare — it detonated, the whole green mass going up at once. The fire raced backward up its own source, into the venting glands, down the ducts, into the soft interior where nothing was armored against anything. The body around me swelled. I felt it convulse.
+
+At least, I think that is what happened. I will never be certain.
+
+One instant I was in the air, fused to a dying god by a sword and a fire. The next there was no instant at all. Only a wall of force that picked me up and threw me across the sky.
+
+I could do one thing. One. I drove Mana Breath through every part of me, flooding muscle and bone, knitting myself into something that might survive what was coming.
+
+The desert came up to meet me.
+
+I hit the crest of a dune and the impact slammed the air out of me in a single grunt. Then I was rolling. The horizon cartwheeling, my sword spinning away into the dark, one glint and gone. I rolled until the slope let me go and the world finally stopped turning.
+
+My eyes fought to stay open.
+
+Exhaustion won.
+
+The dark took me.
+
+I felt sand against my back.
+
+And something else. A slow, dragging motion, my whole body sliding across the ground.
+
+"I think he's waking up."
+
+A voice. Far off, underwater. I could not place it. My skull was splitting down the middle, a crack of white pain running ear to ear. Still, it wasn't the worst of it.
+
+The worst of it was the fire.
+
+It was inside, beneath the skin, in the blood. If I had to put words to it, and I am not sure words reach this far, it was like needles. Threaded into my veins and dragged the long way through, point-first, scraping down the inside of every vessel.
+
+"He's got a fever. We should stop at the next settlement."
+
+"We're still too close to the Ashkeri. Two more hours. At least two."
+
+I forced my eyes open. The world resolved into a strip of bleached sky and two figures hauling me. I was lashed to a stretched length of canvas, dragged across the sand.
+
+Lena. Henrik.
+
+I blinked.
+
+I blinked again.
+
+The dark came back, and this time I did not fight it.
+
+I do not know how much time I lost.
+
+When I surfaced again I was under canvas, on my back, a wet cloth gone warm across my forehead.
+
+Something landed in me before I had even opened my eyes fully.
+
+Time. How much time has passed?
+
+I had been dragged across the sand. I had passed out, and woken, and passed out again. Many days had gone by. I had broken the loop.
+
+There was no headache splitting behind my eyes. No serpent rising over an eastern wall. Only a tent, and a damp rag, and the ordinary hours that did not reset.
+
+I had said it would be the last loop.
+
+It had been.
+
+I got an arm under me and pushed, dragging myself up the few inches it took to sit. The effort left me shaking.
+
+"Where..." My throat was dry. The word cracked coming out. "Where am I?"
+
+I turned my head. Henrik sat against the tent wall, watching me.
+
+"A settlement," he said. "We're a long way from Qalathar. Far enough there's no Ashkeri."
+
+I nodded. It cost me.
+
+"That was Snow Dream." The way he said it, it was not a question.
+
+"Yes," I said.
+
+He was quiet for a moment.
+
+"You were lucky." He leaned forward, forearms on his knees. "Small dose. Cleared your body fast. But the withdrawal came anyway, and it came hard. You've been burning up for days. Hallucinating. Talking to people who weren't there." A pause. "You stopped breathing twice that I counted. Lena traded for herbs at the last waystation. That's the only reason you're sitting up."
+
+"Thank you," I said.
+
+"Don't thank me yet." His jaw set. "You're going to be like this for weeks. Until the last of it works its way out of you." He looked at me, and there was no comfort anywhere in his face. "They're going to be bad weeks."
+
+I thought I understood him.
+
+I did not. Not even close.
+
+It took us five days in the desert to reach Qalathar.
+
+But the trip back took more than a month.
+
+It began with the slow crawl out of the deep desert, settlement to settlement. Until we left the Sultanate and reached a small outpost on the Empire's border. There we found a caravan running north out of the southern reaches and bought our way aboard. After that it was wagons and waystations and the endless grind of distance.
+
+Through every league of it, I was sick in a way I had never been sick before in either life I had lived.
+
+Fever was the floor. The baseline. The thing always there beneath whatever else the hour brought.
+
+Above it came the hallucinations. The dunes would breathe. Henrik's face would slough off his skull like wax and reset itself when I blinked. I would wake convinced I was back in the gate plaza, the beetle's weight coming down out of the sky, and I would claw at the wagon boards until Lena caught my wrists and pinned them and said my name.
+
+And under all of it, quieter and far worse, was the desire.
+
+Because I knew. I knew there was more of it in my bag. A packet of white powder, an arm's length from my hand, every hour of every day of that month. One pinch and the needles would stop. One pinch and the world would crack open and let the light pour in again.
+
+The part of me that had touched that, that had felt for one stolen moment what a Hexenzeit was made to feel and then denied his whole life, that part of me screamed for it. Hour after hour. League after league. It did not tire. It did not sleep.
+
+I never reached for the bag.
+
+But I will not dress it up as strength. It was closer to a siege, and the want took ground from me every single night.
+
+The notification came on the worst of those nights. I had spent six hours convinced the want had a voice, that it was sitting in the wagon beside me arguing. Somewhere near dawn I had told it no one final time. The System decided that counted for something.
+
+Each level shaved a sliver off the edge. Not enough to feel like mercy. Enough to keep me moving.
+
+Even Lena was surprised. I caught it in her face more than once, that small frown she wore when a variable refused to behave the way the numbers said it should. By her reckoning I ought to have been worse.
+
+What she did not see, because I never let her, were the nights.
+
+The nights hunched over a bucket bringing up bile and then bringing up nothing at all, shaking hard enough to rattle the boards, the hallucinations crawling at the edges of my sight like things waiting for me to stop watching them. Those nights carved themselves into me. They left a mark I already knew I would carry long after the last grain of the drug had bled out of my blood.
+
+This was the small dose. A pinch. Less than a thumbnail. Gone from my body in days.
+
+I lay awake on one of those nights doing the arithmetic. The addicts who took it by the spoonful, who took it again and again and again, who had no toxicity resistance and no Lena trading herbs at the last settlement.
+
+I had known Snow Dream was poison.
+
+Now I knew it the way you only ever learn a thing once.
+
+I thought, more than once in the dark, about the prayer I had said in a lane in Qalathar.
+
+What would You do.
+
+For most of that month I had a single thing to hold to.
+
+Only an image, one I reached for every time the want got its hands around my throat and squeezed.
+
+The walls of the capital.
+
+I held that image through the fevers and the dreams and the long gray stretches of road where the want and I sat side by side in the dark and neither of us slept. I held it when the System went quiet and gave me nothing.
+
+And on a cold morning more than a month after a Titan had thrown me across a desert, the road crested a long rise, and the image stopped being a thing I carried in my skull.
+
+There they were. Far off, gray against a gray sky.
+
+The walls of Silberwald.
+
+I let out a breath I had been holding since the southern gate.
+
+We are back.

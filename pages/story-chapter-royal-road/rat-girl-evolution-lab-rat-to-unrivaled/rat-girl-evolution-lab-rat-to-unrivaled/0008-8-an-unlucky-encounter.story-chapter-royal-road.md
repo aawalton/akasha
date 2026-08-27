@@ -1,0 +1,199 @@
+---
+id: 441f3d1a-1aee-526a-8a5b-740dcb5a1124
+page-type-slug: story-chapter-royal-road
+title: "8: An (Un?)Lucky Encounter"
+slug: 0008-8-an-unlucky-encounter
+partOf: rat-girl-evolution-lab-rat-to-unrivaled
+position: 8
+ownLength: 2848
+unit: words
+publishedAt: 2025-09-04
+link: "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2572865/8-an-unlucky-encounter"
+royalRoadId: "2572865"
+---
+
+The tracks stretched on for a long, long time into the distance.
+
+By the time the third of the earth-shaking monstrosities blew past her, the rat had already begun to grow hungry and tired again, her feet aching as much as her belly. The glowing light had risen to the peak of the sky, and was a quarter of the way back down already.
+
+It might have been her imagination, but this one seemed a little slower than the rest. Are these things even capable of getting tired? How do they move so fast anyways?
+
+When the next one came, a couple hours later, she ducked into the trees and buried herself within the undergrowth, as she had with all the rest. Only this time, rather than merely watching, the rat strove to observe every detail of it.
+
+It drew its speed from wheels, ones that caught on the track with impossible smoothness for how well they must have gripped to hurl it forwards that quickly. They glowed with the heat of the friction. No, they glowed faintly orange, but what her eyes had taken for heat at first, her mana sense recognized as something more, something different.
+
+There was a spell on them, and another on the track, which only activated when it was touching them. Both drew their power from a third source, one inside the initial head of the beast, construct, or whatever it may have been. Maybe that power was running out, and that was why they seemed slower.
+
+This one was even more sluggish than the last, half its speed gone, and its fires dull and sound muffled, the steam hanging heavy around it, rather than being whipped away by the wind of its passage.
+
+Before the next one came, she stumbled into her own personal hell.
+
+The metal lines met up with others, in a giant sprawl where several of the monsters were together, along with long stone buildings that were clustered around them where they had stopped.
+
+And swarming over everything was humans, hundreds, maybe thousands of them.
+
+They gathered in groups, chattering away with their words, yelling and arguing as they worked on various things. They were split into different factions, judging by their clothing, though about half of them seemed to belong to none of them at all, wandering around with no uniform or consistent style.
+
+A frightening number of them wore swords, or carried spears and axes. A much smaller number had something even more frightening. System watches, like her own, belted on to their wrists.
+
+From many of them, both with and without watches, she could sense it. A faint hum of magic, muted and distant.
+
+Her every instinct screamed at her to run away. The rat stepped forwards instead.
+
+If I want to complete my goal, I need to learn about them. Learn from them, as sickening as it was. And that meant heading closer, into their place, the hub of humanity.
+
+Her clothes should be baggy enough to hide the slightly inhuman contours of her body. Her ears went under the hood, which also shaded her face, hiding the fine details. Her claws could be taken as part of the fingertips of the gloves, and her tail would fit down around one leg.
+
+She looked almost completely, perfectly, nauseatingly human.
+
+The rat wanted to spit blood at the thought. She channeled the vitriol down into her legs instead, and began to walk forwards, trying to emerge between two of the buildings, as though she had been at the site all the time.
+
+The hilt of the magic sword, of Violet, she repeated to herself, was a warm comfort in her hands. It almost seemed to pulse with a life of its own. No, it was reflecting her own, mirroring her life through the mana that ran through her hand, down its length, and then back up into her, now slightly sharper, more refined.
+
+It was the same as when she had sharpened her hand, plunging it into the wall.
+
+A property of mana? How it can be transformed into different aspects? Before, she had thought it merely enhanced what existed. Or did its purpose in enhancement linger, even once it was no longer performing such a task?
+
+The thought was broken as she stepped through the building, passing humans. Not a single one batted an eye, at most sparing a glance for her hand on the sword, and then disregarding her when she moved past them without engaging. Conversations filled her ears, and humans rushed around her eyes, all equally disorienting.
+
+“With the coefficient of mana reduction that low, there’s simply no way to—”
+
+“…think you’re doing?!”
+
+“paid full price, no way I’m going…”
+
+“You filthy rat!”
+
+As though it was a magnet, the final sentence she heard pulled her around, sword drawing out an inch and mana boiling inside her belly as she settled into a half-crouching stance, equally prepared to run as to pounce.
+
+The speaker didn’t notice, holding a smaller man by the neck with one hand, and his shirt with the other, half-throttling him as he yelled.
+
+“You think you can just come in here, lie to my face, sell me out, and walk away from it? Wrong! Dead wrong!”
+
+His eyes bulged with rage, his face growing redder with every insult that spilled from his mouth along with the spray of spittle.
+
+“I’ll kill you for that! You worthless, mold-licking, coin-biting filthy rat!”
+
+The rat, the real one, let her eyes flick to the smaller man’s head. No ears like her own, only those of a human. His pants were too tight to hide a tail as well. Most importantly, she didn’t feel a single bit of kinship in the mana radiating from him, as all the other rats had given off to her.
+
+Was he actually a rat?
+
+“L—look, boss. It’s not like that, right? I swear, I’m no snitch. They were squeezing down on me, sure, but I wasn’t playing along. They’re just trying to get you guys to turn on me, so I run to them with the real info, which I haven’t told yet, I swear!”
+
+The larger man spoke a little more quietly now, almost at the edge of her hearing, and this voice frightened her more than the yelling had. She could sense the mana rolling off of it, spilling out of his body and into his words.
+
+“You won’t talk if you’re dead. They should have known that much.”
+
+He paused. “Or I suppose they would, wouldn’t they? You would be so stupid as to come back if you really had, not while I was here. But you wouldn’t be trying to hide inside your shirt right now if you hadn’t done anything wrong, would you, Rif. Care to come clean?”
+
+The smaller man, Rif, tried to swallow, the gulp stopped by the hand on his neck. “Uh, well, you see—”
+
+The grip tightened, and his next words were a babbled gasp that came all at once, but slowly from breathlessness. “The accounts I handled, from Inport! I might have made a couple of little mistakes on the profits there! That’s all, I promise! An honest mistake!”
+
+Rif hit the dirt a moment later, sending up a cloud of dust and out a squeal of pain. “You’re going to get out of my sight forever. Understood? I’ll never see you again, in any of my lots.”
+
+He nodded frantically, but wasn’t given a chance to respond.
+
+“But before that, a reminder for life. I’m going to need to take something from you, you make it even, you see?” The boss reached into his coat, pulling out—
+
+A hand closed on his arm, locking it in place. “I can’t let you do that.”
+
+Another young man, perhaps roughly the same age as Rif, from what the rat could tell of humans, but bigger, taller, with broader shoulders and well-built muscles. He wore dull, beaten metal armor over cloth that looked to have been stained and cleaned a few too many times to truly be considered white. Mana oozed from him, just like it did from the boss, and she couldn’t tell which of the two humans had more. A gem on his chest, hanging from a chain, seemed to suck the rest of his mana into it as it poured out, making the air almost visibly distorted.
+
+“You really want to interfere in the private affairs of the union?”
+
+The younger man jerked a finger to the cowering counterpart on the dirt. “He’s not a member of the union anymore, right? Come on, he’s not even a real threat to you. He’s just another piece of discarded street scum.”
+
+They both lowered their arms at the same time, releasing whatever they held. The grounded man scurried away, and the two of them stared for a moment, before the boss spat to the side.
+
+“You’re right, this time. Not worth it. But you’d best not make a habit of meddling in union business, see? Unless you want to end up the one responsible the next time something happens that irks me. It won’t be the best for your long term health. Or your short term health, in my professional opinion.”
+
+The armored man smiled, all shiny white teeth. It made his whole face look relaxed, as though there wasn’t a single negative thought in his whole head. “I’ll keep that in mind.”
+
+He strode off without a look back, leaving the gathering crowd to disperse on their own as he stepped into one of the open buildings. His nonchalance made it all the easier for the rat to follow him as he ducked around several walls of barrels, and she found him leaning against one, face pale and coated in sweat.
+
+“Oh, oh shit. I’ve done it. I’ve really done it this time."
+
+A gagging noise escaped from his mouth, and his magical aura suddenly dwindled down to half, and then half again, as he tapped the gem hanging from his neck.
+
+“Dammit,” he said aloud. “I’m going to get killed for this, aren’t I?”
+
+He gagged again, then leaned over and hurled on the ground, letting out a groan. “Why on earth did I—”
+
+The sentence cut off as he straightened back up, catching a glimpse of her through the gaps in the towering stacks of barrels. “Who’s there!?”
+
+She froze, trusting in the low light and her dark clothing to hide her. Running would only confirm his suspicions. If he had really seen her for certain, it wouldn’t help to escape when he could tell the others. Even if humans weren’t as monolithic as she had assumed, they would surely put those differences aside if she was exposed as not one of them. After all, not a single one had ever protected a rat from the others before, out of the dozens in that first outer world.
+
+“Hello?” His voice was tinged with hesitation now, unsure. She slid ever so slightly to the side, away from the gap, when he flicked his eyes around. It served her well a second later, when he stepped closer to it, peering through into the empty space she had just occupied.
+
+He paused for a second, shook his head, and then straightened up, wiping his mouth and fixing a shallow smile on his face, one that didn’t reach his eyes.
+
+As he turned to make his way around the barrels, she darted out first, finding a space to stand close enough to the door that she wouldn’t still be running when he came out, but far enough from it that he wouldn’t suspect her of having been listening.
+
+She looked at him as he stepped out, feigning slight surprise. I didn’t see him go in. I just happened to be standing here, but I’m not worried about him seeing me as he comes out. I don’t care about him.
+
+The rat glanced away, as though she truly didn’t think him worth thinking about. He stepped in front of her, proving he clearly didn’t share the same opinion.
+
+“You…” he said. “I saw you, before.”
+
+Human words jumbled over one another on her tongue as she stumbled over a lie. “I-I don’t have no idea your meaning!”
+
+His smile changed, from affected mirth to genuine amusement. “Before, when the union boss was about to cut that boy. You had your sword half-drawn, ready to step in.”
+
+Another denial died on her lips. He did step in. Does that mean he’s angry at me for trying to take his position? Or should I agree, because that’s what anyone on his side would do?
+
+A word that could fill any of the options sprang up, and she seized on it instantly. “Sorry…”
+
+“Don’t be!” He clapped her on the shoulder, an exaggerated motion that would have knocked her off her feet had she not taken a step. “Oops.”
+
+He continued as though nothing had happened. “Where are you headed? What city?”
+
+“Uh…” City? What was a city again? And what was a name of one? No, no, don’t overthink it. You just need to name a place, any place. One came to mind. “Inport.”
+
+The grin split his face wide open. “Did you buy your second ticket already?”
+
+“Ticket?”
+
+That question slipped out, voiced by mistake. His face instantly changed, and he looked her up and down. A shiver ran down her spine. Could he tell?
+
+“Those feet…” Her clawed toes curled within her boots.
+
+“You didn’t, walk here, by chance, did you?”
+
+“…Yes?”
+
+Peals of laughter echoed from him, drawing more eyes to them than she would have liked. They continued for just long enough that he ran out of breath, bringing another hand down to slap her shoulder, this one which she dodged.
+
+“Heh, you certainly are entertaining. However, today you’re in luck. My ticket is good for two, and we happen to share a destination. Care to keep me company on the ride?”
+
+This human is dangerous. He was strange, even by the standard she used for judging humans. And he was powerful, at least more than her, even if his current mana was the real measurement. The clever thing to do would be to run. That is, if she only cared about surviving the next day. She had to think more long term than that, now. She had already stepped foot into the realm of humanity. She needed to claw out as much knowledge as she could while her disguise lasted.
+
+And right now, that meant sticking with the one who she had apparently, somehow, accidentally, made a good impression on.
+
+“Thank you. I would be happy to take that offer.”
+
+He spun on his heels with that same over-emphasized bravado, and reached out to grab her hand as he did so. She allowed it, only because it was so slow and casual it seemed more suspicious to dodge. She did lean forwards, making it so rather than her clawed hand, his fingers closed on her wrist, where nothing would be capable of giving her away.
+
+The words kept flowing from him as he pulled, one question after another. “I hope it’s not intruding, but how exactly did you end up walking here? And why are you all alone? This isn’t the place I would expect to find a girl your age on her own. And that sword of yours seems rather interesting. Is it magic? Or before that, is it yours, or are you carrying it for someone else?”
+
+“Um, uh, I…” Which one did she answer? Could she answer all of them? What lies would endear her the best? What would—
+
+Her train of thought was cut off as he corrected himself. “Sorry, sorry. Let me start with a simple question, something easier to answer. How about a name? Here, I’ll trade you my own.”
+
+His hand released her abruptly as he turned, raising it to his chest and giving a bow that brought his head down to the height of her own. “Durm, professional adventurer in employment of the church. Pleasure to make your acquaintance.”
+
+A name, a name, a name… Wait, her name? He hadn’t been asking about her, though, before he made the question. He had been asking about…
+
+Her eyes fell to her own hip. “…Violet.”
+
+“What an interesting name. I’m not sure I’ve met a Violet before.”
+
+She shrugged. “I didn’t pick it.”
+
+Did people normally name their swords themselves? Apparently not, since he let out more laughter at that excuse.
+
+“Fair enough.”
+
+Then, he turned around once more, and held something up to the wall of one of the stopped beasts, silent. With a quiet grinding of iron on iron, the wall slid open, and a staircase issued out to right before their feet. He offered her a hand, and she took it, careful to not let her claws poke him through the fingers of the glove.
+
+And the rat allowed him to lead her into the belly of the beast, as the door slammed shut behind her.

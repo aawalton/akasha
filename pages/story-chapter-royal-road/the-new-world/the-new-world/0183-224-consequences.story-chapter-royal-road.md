@@ -1,0 +1,347 @@
+---
+id: 3159a935-6eb7-55db-a688-cc957a44a4f0
+page-type-slug: story-chapter-royal-road
+title: "224 Consequences"
+slug: 0183-224-consequences
+partOf: the-new-world
+position: 183
+ownLength: 3859
+unit: words
+ownProgress: 3859
+publishedAt: 2019-09-07
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/400267/224-consequences"
+royalRoadId: "400267"
+markedReadAt: "2026-06-29T21:27:10.495Z"
+---
+
+I set Torix down after he healed, the aura spurring his meager natural regeneration. Torix tilted his head at me,
+
+"The Rise of Eden? It sounds like an advanced origin skill."
+
+I raised a hand with two fingers nearly pinching,
+
+"Close. It's an aura I got from my last armor evolution. Apparently, I'm a multiverse now. The way it works is that each mana type changes my current state of being. This is the one for my new mana type, quintessence."
+
+Torix cupped his chin, "Quintessence?"
+
+"Yeah." I pointed at my other hand, showing the ball of white mana, "This is what it looks like. It's origin and augmentation mana. It's pretty solid overall. It's about the same power level as ascendant mana, just in a different way."
+
+"Ah, so that's why your runic markings are glowing white then. They're charged by an energy different in nature."
+
+I clasped the ball of mana, dismissing it, "Yup." I opened my status, giving it a glance. I gained a few levels, so I invested them into constitution and selected finalize. Right after the little power boost, I swiveled it to Torix,
+
+"You see those numbers beside the attributes? That's the bonuses it gives. It works multiplicatively, making it kind of absurd."
+
+The Living Multiverse(Lvl 9,124 | Current Influence: The Rise of Eden)
+
+Strength – 19,955(25,941) | Constitution – 27,627(35,915) | Endurance – 69,872(90,834)
+
+Dexterity – 10,593(13,771) | Willpower – 52,345(68,048) | Intelligence – 26,880(34,944)
+
+Charisma – 9,973(12,965) | Luck – 14,655(19,051) | Perception – 10,656(13,853)
+
+Health: 67.7 Million/67.7 Million | Health Regen: 459.9 Million/min or 7.67 Million/sec
+
+Stamina: Infinite | Ambient Mana 3.136 Trillion
+
+Mass: 3.19 Million Pounds(1.45 Million Kilos~)
+
+Height: 11'8 (3.6 meters)
+
+Damage Res - 99.04% | Dimensional Res - 100%
+
+Phys Dam Bonus – 6.85 Million % | Damage Bonus – 40%
+
+The Rise of Eden - enhances base stats by 30%, increased to 40% to allies within radius of aura.
+
+Torix froze up for a while. I waved my hand in front of his face, "Hey, you still there?"
+
+He spread out his hands, "What kind of ludicrous status is that?"
+
+I shrugged, "It's a bunch of multipliers working together."
+
+Torix lifted his hands up, "Your lowest stat...is higher than your current level...That is utterly incomprehensible. It's... it's...I don't have the words to describe it."
+
+I pointed at the numbers, "Alright, let me explain. So, you remember how attributes feed into each other, right?"
+
+Torix leaned over to my status, "Yes. The first cardinal chain was...Endurance, willpower, intelligence, luck then charisma. The second cardinal chain was...ah yes, constitution, strength, dexterity, perception, then charisma."
+
+I pointed at Torix, "Right." I looked back on my status, "A general stat buff like The Rise of Eden makes every stat higher. Well, the stats closest to the top of that chain get the least. Why? They don't have any other beefed up stats feeding into them. The lower the stat on those chains though, they end up getting a multiplicative bump."
+
+I closed my status, "Therefore, I'm more of a generalist with this aura. You are as well. Go ahead, check out your own status. You'll have received the same kind of benefit."
+
+Torix let his hands flop onto his sides, "What happened to your flesh-eating aura then? Did it up and disappear?"
+
+I shook my head, my armor's runic work turning a bloody red. It grinned, the teeth jagged, "Want to feel a bit of it?"
+
+Torix took a step back, "Ahem, should I?"
+
+I shrugged, "Eh, probably not."
+
+Torix rubbed his hands together before standing up straight, "Nothing ventured, nothing gained. Do keep the health draining component out, however. My constitution is lacking as of late. If you can't do that, then we'll cancel this little experiment."
+
+"I can and of course."
+
+I molded Event Horizon over him, keeping only the mana drain and suppressive effects on. As it waved over him, he withstood it for a few seconds before falling down, his body shivering. He gasped, "Ah...I...I"
+
+I retracted Event Horizon moment he fell down. As I did, Torix gasped without needing to breathe. I didn't need to either, so I got why he kept doing it. Old habits die hard, after all.
+
+I placed a hand on his back, "Are you ok?"
+
+Torix shook his head, "Yes, I am. It simply caught me by surprise." Torix leaned back against the wall behind him, "That's a potent tool. I'd recommend you use it sparingly."
+
+I shifted Rise of Eden over him, "This will be my base mode now anyways. Gotta charge my runes and all that."
+
+Torix let out another sigh of relief. I sat down with him, leaning my head back on the wall too. We sat staggered, my frame taking up all the space in front of me. Torix shook his head,
+
+"You never cease to surprise me."
+
+I raised a hand, "We'll see. Killing Lehesion will still be difficult."
+
+Torix scoffed, "Perhaps. You'll be far more of an adversary in your current state. You've yet to even tap into your true potential."
+
+Torix stared away from me, a bit of shame leaking into his voice. I gave his shoulder a tap, "Neither have you."
+
+Torix waved his hands, "I, I rather lack in my battling capabilities at the moment. Perhaps I can muster up a measure of assistance through my other skills, but actual fighting will leave me decimated by a stiff breeze, let alone the attack of a titan."
+
+It hurt hearing Torix say that. In fact, his overall confidence and demeanor paled when compared to the last time I saw him. Despite some of the bullshit in the compendium, I remembered my promise to help Torix out. That's why I shook my head,
+
+"You'll be fine. I'll make you a new body. It will be better than anything money can buy. That much, I can guarantee."
+
+Torix shook his head, "Souls may only be stored in organic tissue. Otherwise, the soul dissipates over time, resulting in the loss of sentience. This is why golems are such pains to maintain. Any soul you place in them slowly but surely falls to madness."
+
+I banged the side of my head, "This is organic...I think."
+
+Torix waved a hand, "It doesn't matter in the end. Even if we attempted a transition, and for the sake of this thought exercise, let's assume your right. It carries my soul without a hitch. What of the rather volatile influence of your mana? It will slowly erode my mind, making me into a bloodthirsty thrall."
+
+I channeled dominion mana, infesting my mind with the desire to dominate and control. My runic markings glowed a hollow black, sapping the light around me. I pointed at myself, "This will work, won't it? In fact, it'll probably just make your mana even stronger."
+
+Torix leaned towards me, "Fascinating. What is that?"
+
+I pointed at my title above my head, "I'm channeling dominion mana right now, so I'm all dominion-ey."
+
+Torix placed his hands onto his temples, "Dominion-ey you say? Hmmm, I suppose it could work." A hunger came over his features,
+
+"Ah, to hell with it. I'll attempt this, er, transition." Torix waved his hand in disgust, "Better than living my undead life as a used napkin waiting to be burned."
+
+I frowned, his words burning a bit. Torix was someone I deeply respected, and to see him driven so low walloped me. Torix picked up a chunk of his broken ribs, staring at it as his blue, fiery eyes glowing red,
+
+"I'd rather take my chance at living on as someone worth respecting than this pitiable state."
+
+I put a hand on Torix's shoulder,
+
+"You got us through Yawm. You taught me magic and runes. You're the reason I'm here. Trust me, if there's anyone worthy of respect, it's you." I raised a fist,
+
+"So quit talking like that. I have to defend my master's reputation when it's being besmirched after all." I gave his shoulder a gentle nudge as I let it go, "Even if my master's the one besmirching it."
+
+Torix glanced down, covering his mouth with his hand. He waved it a second later, "You're right. I represent more than just Torix Worm. I am the master of the Harbinger of Cataclysm, and one of his four followers. I have a responsibility to uphold myself."
+
+I raised my hands, "Let's call it something else, like generals or something."
+
+"Why?"
+
+"I don't know. It's just eerily reminiscent of Yawm."
+
+Torix stood up, "Catchy alliteration aside, you're quite right." He brushed off his robe as he stood up, "Let's be off then."
+
+I stood with one leg, doing a pistol squat, "Of course."
+
+We stepped out of the confined hallway, everything looking smaller than before. I grew about two feet in the compendium. Ah that was right, I turned to Torix,
+
+"Hey, how long was I in the compendium?"
+
+"About three weeks."
+
+My eyes widened, "Ahhhhh fuck. We have to hurry. Where is everybody?"
+
+Torix waved a hand, "Back on Giess. They've all been busy with the comings and goings involved with planetary safety. We've made some measure of progress to be sure, though your absence has been quite...difficult."
+
+A wave of guilt passed over me as I tapped my forehead with my door knocking knuckles. I molded my helmet back onto my face, "Alright, can you give me a report on what's happened?"
+
+Torix's chest puffed as he gave me a curt nod, "But of course. I'm the Harbinger's Erudition after all."
+
+Erudition, what a word. I looked it up real quick using my status,
+
+Erudition - Knowledge acquired by study, research, and experience.
+
+Eh, it was precisely what Torix was: a mass of wisdom. While having my status open, I checked out Torix's,
+
+"Looks like you got experience from that Version 2.0 dying."
+
+Torix waved off my comment, "Ah yes, and you outlevel my cap before you've even gained a class. What of it?"
+
+I glanced forward, the hallway smaller in my vision then I remembered it. I pretended to be Torix,
+
+"To compare oneself to others is to forever live in a shadow. Find the light that you emit, and that shall be your guide through dark days."
+
+Torix opened his status, "Very humorous. Now, here's what's occurred. After Lehesion demolished Rivaria, the Adair Family has been rather quiet as of late. There have been a few events on distant planets. I hypothesize they're using Lehesion to assault other worlds, start rebellions, something of that sort. As for our members, Chrona and Krog spent their days gaining gialgathens into your guild. I took the liberty of assisting them with the process while waiting by your side. I assure you, my screening process was thorough."
+
+"I believe you."
+
+"As for Althea, she returned to Earth with the help of Helios. Once there, some of my trained mages constructed the teleportation ritual to get her back onto Giess. While my students toiled, Althea gathered Hod and many of the Eltari. She's taken them to Giess and put them through a boot camp of sorts."
+
+I raised an eyebrow, "What's she doing?"
+
+"She's creating a group of assassins. After her being trapped by Thisbey, she's taking a numbers approach to the elimination of inscrutables. Instead of relying on only plan A as it were, she'll have many backup plots within her arsenal. It suits Hod as well considering his specialty with shadows."
+
+"Alright, that's very good. I can give her the follower status then. That should help."
+
+I sent her the promotion as Torix said,
+
+"I'd recommend it. She's been showing a measure of ambition as of late. It's an excellent characteristic for someone born into such talent. Perhaps 'made' into talent is a better term. I digress."
+
+I weighed my hand back and forth while wincing a bit at his wording,
+
+"Uh, yeah, let's go with earned her talent."
+
+"Ah, yes. Of course. As for Kessiah, she's been assisting Krog and Chrona with their recruitment. She heals the non-system gialgathens that lose limbs during the initiation procedure."
+
+Torix rolled a hand, "It takes the edge off the transition you see. Otherwise, it's a rather risky undertaking."
+
+Torix finished speaking, and we stepped outside. I shifted modes, lifting the both of us with Force of Nature. As I did, I maintained my size using Mass Manipulation. It would be annoying to shrink and grow each time I switched mana types after all.
+
+With that fluid control, I generated a plethora of gravity and antigravity wells linked up into an airtight chain. It prevented 'gravity pollution' as I called it. Otherwise, the wells would disrupt traffic or worse. We headed towards Helios's office, the location set in my mind.
+
+As we traveled, Torix turned to me,
+
+"I sensed some guilt from you earlier. I understand the sentiment, but know this - your spike in potential and power will not go unnoticed. This, ahem, Rise of Eden was it? That's quite the powerful ability to gain. In my eyes, the mythical compendium was more than worth the investment in time."
+
+I raised a hand, "That wouldn't have been enough. I gained a mythical skill too."
+
+"Ah, that's the impetus behind entering it. What was it called?"
+
+I checked my notifications to check on the name again. My jaw dropped as I read through the message.
+
+Legendary Skill Unlocked! Combines the three mythical skills, Legion of One, An Endless Flood, and Star Forger into the single legendary skill called, Apotheosis. Half of the remaining skill points in these three mythical skills are rewarded. Total Bonus tree points from fusion | 1164 | Below is a list of the legendary skills other bonuses.
+
+Enhances the skill and technique of all skills that compose Apotheosis. There is no cap for a Legendary skill, meaning your potential with the ability is limitless.
+
+Legendary skills cannot assimilate skills. Instead, a legendary skill can be used in the creation and enhancement of other unique and mythical grade skills.
+
+A legendary skill can be used for earning a class. Example Classes: Overseer, Speaker, or Breaker. Some classes are hidden and need quests from Schema to unlock.
+
+The difficulty of upgrading Apotheosis does NOT increase or decrease with the level of the skill. Level 1 is just as difficult to improve as level 1,000.
+
+For every 100 points in Apotheosis, you gain 10 Constitution, 10 intelligence, 4 Willpower, 4 Perception, and 2 Endurance.
+
+These free attributes are determined by the legendary skill's needs. If your legendary skill needs willpower and perception to operate, leveling it will grant willpower and perception.
+
+For every 100 points in Apotheosis, +10% increase in range and power of Crafting, Generation, and Aura abilities from these skills. Mana cost for any skill within Apotheosis is reduced by 2% as well - this particular benefit is halved for every 1,000 points in the skill.
+
+Current Effects:
+
+I raised a fist, "When it rains, it pours."
+
+"What happened?"
+
+"I gained another legendary skill, Apotheosis."
+
+Torix shrugged, "I'm done being surprised. It's too emotionally draining."
+
+I laughed a bit as we pressed on. After landing near Helios's office, I paced up with my mana shifting to quintessence. We walked through the metal hallways and administrative offices. Once outside Helios's office, Torix and I stepped up. As I knocked, Helios waved us in.
+
+Helios still glanced at his orange screens, Eva assisting him with various tasks. After moving through the process, he closed them and walked up to us. He glanced down at Torix, a look of disdain on his face. Torix averted his gaze. That pissed me off a lot more than I expected.
+
+I swallowed that frustration, but I swore to make Helios regret his dismissal of Torix. After that, Helios glanced at me, "Hm...you seem taller now. Sharper as well. You've been a rollercoaster of body types as of late. It's unusual.
+
+"Comes with the territory."
+
+"Was the compendium fruitful?"
+
+There was an edge of annoyance in Helio's voice. It was like my time in the compendium bothered him. I didn't know why, and I didn't have time to ask.
+
+I said, "Can you send us to-"
+
+Helios raised a hand, "You are an acquaintance, and I am no chauffeur. Stop asking me to warp you where you need to go. Find your own solution on your own terms."
+
+I narrowed my eyes at Helios for a moment, thinking of forcing him with Event Horizon. It was a bad idea. It would ruin our relationship, and after thinking about it for a bit, Helios was right. Torix's unknown status wasn't something he should have to fix. I sighed,
+
+"Yeah, alright. I get that. Thanks for letting us in."
+
+I turned to leave, but before I did, Helios raised a palm to me,
+
+"Despite my misgivings with transporting you and your allies further, I want you to understand something. I have every intention of assisting you in your next bout with Lehesion."
+
+As he finished speaking, a dark hatred leaked into his voice. Man, he hated that golden frog dragon.
+
+Helios struggled a bit with his next words, "I, I could hardly say that my performance in facing Lehesion constitutes a proper favor. Especially one as important as saving Caprika. When you need my assistance against that corrupted mongrel, you need only ask."
+
+I waved a hand, "Pff, don't worry about it. There's only so much one person can do anyways. I hope you didn't think too hard about it."
+
+Helios froze up for a moment before grabbing the collar of his cape and adjusting it,
+
+"Of course not. I'm far too busy for brooding."
+
+"Good. See you later."
+
+"You as well."
+
+I gave Helios a nod before we left. Torix and I passed the city skyline, gravity hovering us over the horizon. We found a lovely park with a pleasant pond before sitting down. We chose the biggest bench we could find. A necromancer and living multiverse sitting on a park bench. It was strange and kind of surreal, to say the least. After about a minute of thinking, Torix spoke up first,
+
+"How will either of us leave this place in time?"
+
+I pointed above my head, "I can leave anytime. I got rid of it after killing Emagrotha. If you'd have seen her, I think you would've have killed her too. She was a mess, and that's putting it nicely."
+
+Torix raised his hands, "While the morality of your decision is no doubt interesting, I'm more interested in the teleporters between worlds. You can use them now, can't you?"
+
+I knew what Torix was suggesting, so I raised a palm to him,
+
+"No. We're fixing your body situation asap. That's a given." I rubbed the edges of my temples, "Let's brainstorm some different solutions outside of me leaving you behind. How long would it take you to make one of those illegal warps?"
+
+"Three weeks give or take. I can't carve into stone quickly, so I'd need to instruct you on the ritual."
+
+"Shit. By then, Giess is glassed."
+
+We waited for a moment before drifting into an awkward silence. While we waited, I brushed up on my status. I smacked my forehead as I realized I had enough tree points for the first rank up of the Sovereign skill tree. I poured over two thousand points into it, most of it from creating Apotheosis and leveling the skill.
+
+To be sovereign is to hold supreme power and authority. You do so not over others, but over your mastery of self. Your potential to withstand torment, tedium, and torture to further your mastery is unrivaled. You stand as the foremost authority over the domain of skills you've chosen, rising above all those that come before you, and likely, those that will come after.
+
+Multiplicatively doubles attribute gained from your Sovereign skill.
+
+Multiplicatively doubles attribute gains from your Legendary skills.
+
+Doubles Sovereign learning speed, ease of creation, and assimilation strength.
+
+Doubles Legendary skill learning speed, ease of creation, and assimilation strength.
+
+Doubles Unknown skill learning speed, ease of creation, and assimilation strength.
+
+Class unlock status: 25% completed.
+
+A slight increase to my stats flew through my system, mainly from Force of Nature. The depth of my understanding of both my legendary skills also deepened, a strange intuition about them growing in the back of my mind. I glanced at my hands, expecting a bit more out of the tree, but that was it. It wasn't horrible per se, but I expected quite a bit more from the tree.
+
+However, that would all change if the class it unlocked was truly magnificent. Only time would tell.
+
+I closed out my status, going back to thinking. I practiced the formation of various elements in my palm out of habit. Torix stared at the shifting elemental structure,
+
+"So that's the legendary skill?"
+
+I nodded, "Yeah. There's quite a bit more to it, but this here is the gist of it."
+
+"It appears to be some sort of matter manipulation. Interesting. It suits you."
+
+"Yeah," I said with resignment lingering.
+
+"Torix leaned back on the bench, "It must be an utter chore to handle all the matter you've created. One can only imagine."
+
+I nodded, "Yeah. My personalized AI, an asshat I called Transient, ended up making me put a few tons of sand in my storage." An idea popped into my head, so I stood up,
+
+"Might as well clean that up right now. You think this park could use a beach?"
+
+"I don't see why not," Torix said while dusting himself off. "Perhaps it shall help us think up a solution, the vacation air and all that."
+
+I rolled my eyes while we walked over towards a beautiful lake, the creatures within singing and frolicking. I opened my dimensional storage, the space-ey portal rippling above my hand. I remembered all the items in it as I did so, and I willed the sand and water to spill out. Walking along the edge of the pond, I converted it into a summerset paradise.
+
+We got a few unusual stares, but zero fucks were given by either of us at this point. As I reached the last bit of sand, a couple coconut crabs crawled out of the portal. They darted around in the water, and I leaned back from it, remembering the plague of crabs. I shivered a bit before Torix tapped my shoulder. I turned to him,
+
+"What's up?"
+
+"Was that...a living creature?"
+
+I nodded, "Yeah. Crabs...They came from my first few experiments with origin mana. I must have missed them when I cleared the area with Event Horizon."
+
+Torix pointed at my storage portal, "Normal storages can't hold life forms. They are killed within the pocket dimension Schema uses for his storage rings. On the other hand, your personal storage related to your dimensional nature, it can store organisms. It could theoretically hold people as well, couldn't it?"
+
+My eyes widened as what Torix was saying dawned on me. I rubbed my hands together,
+
+"You're a genius Torix. I think you just found our way back to Giess."

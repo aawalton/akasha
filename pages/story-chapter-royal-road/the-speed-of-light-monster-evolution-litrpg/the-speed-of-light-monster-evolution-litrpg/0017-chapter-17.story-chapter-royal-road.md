@@ -1,0 +1,157 @@
+---
+id: 0ca15732-f2a1-5e28-bff3-1d3b759592a5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17"
+slug: 0017-chapter-17
+partOf: the-speed-of-light-monster-evolution-litrpg
+position: 17
+ownLength: 1805
+unit: words
+publishedAt: 2025-09-01
+link: "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2564812/chapter-17"
+royalRoadId: "2564812"
+---
+
+Tachyon threw her hind legs back, her hooves slamming into a large troglodyte as it pushed it back several feet.
+
+She knew well that she had caved in its chest despite its higher level and sturdy build, thanks to the notification.
+
+You have killed, Troglodyte Bruiser Level 15. Experience earned.
+
+The rest of the group of monsters continued to charge forward, following her down the passage she led them down.
+
+Just as she wanted, she brought them deeper into the passage, building up momentum again after unleashing the last of her stored amount on the Bruiser. A few more strides, and she felt she had built up a sufficient amount.
+
+Jumping, she placed all four legs in front of her, a familiar black skillet meeting them as she stepped off, the audible crack of the pan filling the passage.
+
+But Tachyon pulled it after her as she reversed down the passage, continuing to build up momentum, charging headfirst into the group of remaining troglodytes.
+
+She cut through them like butter, her new legendary skill clearly allowing her to outmatch the monsters of her same level.
+
+You have killed, 3x Troglodytes Level 15. Experience earned.
+
+You have killed, Troglodyte Level 16. Experience earned.
+
+Tachyon skidded to a stop at the end of the carnage, breathing out a white cloud against the cold air.
+
+Instead of resting, she continued back to the cave at the end of the passage, repairing the skillet she had just nearly broken again as she did.
+
+Reaching the mouth of the cave, she sighed, seeing the number of groups still remaining.
+
+Nearly half the cave was still filled with monsters. And she had been at it for hours, the day nearly over.
+
+She knew well that her pace was slow, however, she was not willing to risk being surrounded in the open by the sheer number of monsters in the cave that were left.
+
+Tachyon knew for sure now that if she steadily moved through the groups, she could eventually clear the entire cave.
+
+The groups of troglodytes, for some reason, had a range of aggression, or better put, a range at which they would notice her.
+
+She had tested it several times now. If she stood at the edge of a single group while being well-positioned, only that group would notice her. If she were positioned poorly or too close to another group, they would also be alerted.
+
+At first, she was fine with several groups being alerted at once. However, she nearly died once she found that the groups more toward the center had different variants of monsters.
+
+The surprise of a much larger and bulkier troglodyte that was resistant to magic even more than the others, while also being several times stronger, had caught her off guard.
+
+Their bodies were large enough to block the entrance of the passage she was using at the time to lure them. And having to reacclimate to her new legendary skill and its differences in strength was another thing altogether.
+
+Tachyon still didn’t believe she had reached the limits of the skill just yet. Even after hours of pushing the limit of what she had been able to do before still felt like only touching the surface. It wasn’t just the fact that she couldn’t reach her top speed, but the amount the stored momentum was able to boost her strength was magnitudes higher than before as well.
+
+She was confident that if she had gone all out, the ground below her would shatter from the force. And that also meant that the skillet she was using to maneuver down the passageways would also be broken beyond repair.
+
+It was a serious wall of problems she wasn’t entirely sure she knew how to climb.
+
+But thankful, what she was able to do was more than enough for the monsters present. The Bruiser variants she had dealt with were sturdy enough to take a beating, just not a somewhat full-force beating from her.
+
+The combination of skills rolling into her legendary skill took every one in combination and turned them up from one to eleven.
+
+As she thought about ways to deal with the jump in strength, Tachyon roamed deeper into the cave, positioning herself next to another group.
+
+Just as before with the others, the group of troglodytes went from absentmindedly looking at the fire between them to turning their heads in unison and charging her. The predictable pattern still confused her and reminded her of the crows from a few days ago.
+
+Regardless, she had gotten into a routine as well, a more self-induced one, but still one she followed.
+
+She would alert the furthest group, luring them down one of the passages. This would force them into a neat line that she would then run down into the dirt once they were deep enough.
+
+Rinse and repeat.
+
+For several more hours, she continued. Alerting one group of monsters, luring them down a death passage to kill, then starting all over again.
+
+Tachyon should also mention that, for some reason, the bodies of the monsters were vanishing. She thought that they would quickly pile up and block the passages, but it turned out that a majority of them disappeared. There were some that remained, but the ones that vanished were replaced by glowing blueish-white stones.
+
+She, of course, picked them up and placed them into her bag of holding, not entirely knowing what they were. However, after the 50th one or so, she became curious.
+
+Monster Core [F-Grade]
+
+The condensed mana core of an F-Grade monster. This item can be used for many different purposes. Such as alchemy, crafting, and construction.
+
+The discovery did not disturb her like she thought it would. Tachyon knew as a monster, the system left loot after their death. It was just something that happened. The system was a bitch like that to monsters.
+
+She was also aware that monsters F-Rank and above began condensing their mana into these cores. The same could be said for other beings but they didn’t manifest in these ways, at least she didn’t think so.
+
+Eventually, the hours of repeating her process of clearing the cave, she also ran into the problem that originally had her concerned. The bodies that did stay had piled up. So Tachyon did the most logical thing.
+
+She put them into her bag as well.
+
+The troglodytes surprisingly went in without a problem, and even more surprisingly, she was able to fit them without a single hiccup.
+
+Just how much space is in my cute little bag? She thought, placing a Bruiser several times her own size into the bag.
+
+Finished with another group, she again went on to the next, and then the next and the next.
+
+A full day in this cave, and she had finally finished.
+
+Tachyon was surprised to have not leveled up after clearing the cave, but she chalked it up to her being level 18 while the troglodytes, on average, were 15. It was mysterious how the experience worked.
+
+The system is just being a bitch again… she scoffed internally.
+
+But the cave was finally cleared. Now the next decision lay before her. Which passage was she supposed to go down now?
+
+Tachyon stood at the center of the cave, illuminated by the glowing moss on the walls as she munched down on the last dredges of her snack supply. And if you were concerned that she would try some of the glowing moss, because it had been used in the delicious treat that Ned had given her. You needn't worry.
+
+Because she had of course, already tried some. And it was exactly what you expected, bitter, dirty, and tasting of bland earth.
+
+Needless to say, Tachyon's disappointment was immeasurable and her day was ruined.
+
+But back to the matter at hand of which connecting passage she was to continue down, she was at a crossroads. Literally.
+
+She had improved her mana control and in concert her mana sense. She used this to try and sense exactly where the more powerful mana was coming from. There was only one problem.
+
+There were multiple passageways giving off the same density of mana. Was it as powerful as whatever was at the peak of the mountain? No, not even close.
+
+Was it stronger than her? Yes, even with her current strength, she was firmly in the camp of whatever was down these passageways was more than capable of killing her.
+
+But that also begged the question. If they were this strong, they had to be gathering around something. Something important. Something that might be tall, white, stony, and controlling.
+
+Something like the Medium Controlling Stone that Ted and Ned mentioned.
+
+So there was only one choice for Tachyon to make. Which of these passages that had powerful monsters lying in wait would she go down?
+
+There was only one way she knew how. And that was to use what the humans sometimes used to decide fights in the arena.
+
+Tachyon placed her skillet on the flattest ground she could find and spun it with the handle upward.
+
+She would let fate decide. She would spin the bottle, or in this case, spin the mana skillet.
+
+The mana thread attached to the skillet twisted and spun the skillet. Several rotations began to make a ringing sound as it rotated to the ground, finally landing in a direction.
+
+Tachyon frowned.
+
+The skillet hadn’t pointed in the direction of any of the passages that had the densest mana. But she took the closest one it had instead.
+
+“Good enough,” she laughed, beginning to make her way down the passage, her skillet scraping against the ground as it followed behind her.
+
+Lighting the way as usual were her magic carrots, and after a few minutes of traveling down the passage, it was suddenly bathed in a brighter blueish light.
+
+Coming to the end of the tunnel, it opened up to another cave. But what greeted her this time was not only more troglodytes, but something she wasn’t expecting.
+
+Tachyon’s eyes went wide as she sprinted to the side, the light in the cave turning from blueish-white to red-hot fire.
+
+Which made sense as several large fireballs slammed into the passage opening she had just run from.
+
+The explosion from the impact rocked the cave, rubble and boulders falling and closing off the entrance she had just come from.
+
+Tachyon skidded to a stop, her head turning from the rubble that was the entrance to where the fireballs had come from.
+
+Standing on one arm, a twisted and gnarled wooden stick in the other with a red jewel at the end were several troglodytes in tattered brown robes. On either side of them large hulking Bruisers with packs of monsters behind them.
+
+Troglodyte Fire Spitter Level 18

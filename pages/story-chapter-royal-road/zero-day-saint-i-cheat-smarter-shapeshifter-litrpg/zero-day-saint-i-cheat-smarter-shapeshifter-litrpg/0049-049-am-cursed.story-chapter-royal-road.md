@@ -1,0 +1,161 @@
+---
+id: b85416cf-d663-5b35-9c7a-2f6f0ddb05b8
+page-type-slug: story-chapter-royal-road
+title: "049 - AM CURSED"
+slug: 0049-049-am-cursed
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 49
+ownLength: 2234
+unit: words
+publishedAt: 2026-06-29
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3605832/049-am-cursed"
+royalRoadId: "3605832"
+---
+
+"Day 4: Today I could have told you, right on that rooftop, not to jump. That I was scared of dying. And you wouldn't have done it. You'd have stared at that potion timer running out, and you would have been so mad. At me and even more at your own humanity. How weakness and pity with your enemy made you flinch, right when you held the keys to the kingdom. But I didn't. And now you're a pheasant, running for your life."
+
+Lucy's little recaps were the only thing reminding me of the passage of time in this purgatory I found myself in. For a while, the most logical conclusion had been that I had failed in my attack, that I had died in the process, and this was what eternity had in stock for me. Running through tunnels that didn't make sense, the places I saw behind me not matching the places I just left.
+
+Demons didn't want to follow me too deep into those tunnels. But whenever I crossed such a threshold, new ones poured in from the place I had arrived in.
+
+Over the course of my escape I found myself in train stations, airports, subway stations, and abandoned malls. Moscow, Berlin, Delhi, Cape Town. All over the world. And everywhere I went it was only a matter of time, sometimes seconds, occasionally glorious minutes of calm, before demons came.
+
+"Day 5: Honestly a pretty boring day. I could, of course, always just click that button for you. Accept or decline, you'd hate it either way."
+
+I of course tried to just escape to the outside. Tried to sneak out as a demon bat. But that didn't trick the curse. And demons knew all kinds of magical tricks, some of which required nothing more than line of sight.
+
+Of course, they couldn't aim at a supersonic bird launching itself out of a subway station, aiming for the open sea. There were no demons out in the wide depths of the ocean. I tried sleeping as an orca, an apex predator of the seas.
+
+The Blessing really didn't like deserters. In the city the Created had been very manageable, sometimes even underpowered.
+
+Out in the wilds? I was nearly swallowed whole, as the orca, by a leviathan. The Blessing did not fuck around in the wilds.
+
+"Day 6: All that running must be getting pretty tiring. Maybe I could have picked Cape Buffalo right when those demons were about to corner you. That'd likely have killed both of us, but you'd absolutely have taken some down with you."
+
+When I found myself back in New York, and I often did, somehow feeling myself magically pulled there, I tried leaving messages.
+
+AM CURSED. DEMONS SWARMING. NEED HELP.
+
+The others were my only hope. I considered trying to rush to a sanctified place. Maybe my level 20 subclass, or one of the countless rewards for killing Mammon, would allow me to forgo sleep. At some point I had reached level 20. Nearly entirely from killing lesser demons that started guarding the tunnels.
+
+Three days in, my sanity wasn't in the best shape. I saw dots on my minimap where there were none. Or worse, stopped noticing the real ones approaching. Only that voice in my head shouting a warning and pulling me out of my stupor saved me that time.
+
+And all this time, front and center in my UI, was the question that asked me to stop being human. The notification had become my rallying cry, my beacon. I hadn't survived Mammon yet. Not really. Not until the curse was gone. Only then would I decide what to do with his legacy.
+
+I had just left New York behind once more and found myself in the Moscow Metro. By now I was familiar with some of the stations. This station was incredibly deep, which meant that demons around the surface would need a moment to descend for their hunt.
+
+I made my way to the other side of the tunnel I had entered through, so I had an escape route, and pulled a handful of the simple rations out of my inventory. Being a dire hyena right now, a good and fast runner with strong senses, I lacked the motor control to open the plastic covers. I chewed through them, spitting out the plastic when I could, swallowing it along with the rations when necessary. Indigestion was the least of my problems.
+
+Barking startled me out of my meal. In the tunnel I had come from, the tunnel leading here from New York, three dogs, Australian Shepherds, appeared. I spit out my food and crouched, growling.
+
+"They aren't hostile, Eve. Look at their dots."
+
+I did. They were white.
+
+They stopped halfway on the tracks. Behind them a woman appeared in the tunnel. She was tall, with long brownish-red hair. And she was wearing a lab coat. I had seen that woman before. It was a vague memory. Sometime while flying, she'd just been down in the streets. She was also covered in a golden sheen. Which I had also seen before.
+
+"She's here!" she shouted over her shoulder to people who were still on the other side of the earth at this point, who hadn't appeared in this tunnel yet.
+
+"Eve!" she shouted. She knew my name. "Come! We are here to rescue you!"
+
+She shouted with a heavy French accent. I knew better than to trust that. But then more people came running through the tunnel. First Anthony, then Jamie, then Constance. That wasn't an optimal party. Far too much support. Who was dealing damage? If they sent those poor dogs fighting I'd have to have some serious words with them.
+
+Constance was weaving her hands in front of her and mumbling something I couldn't understand. I still growled at her. Nothing running for me had been any good in those last three days.
+
+Anthony peeled away from the others and ran to the stairs. Red dots had appeared on my minimap. He threw a bottle at the stairs and mist filled the area. This mist occasionally flashed with purple light.
+
+"Thirty seconds!" he shouted. Everyone was shouting.
+
+And then Jamie was in front of me. He also glowed golden. I didn't growl at Jamie. Unceremoniously the Oath appeared again among my buffs.
+
+"Eve," he said, crouching in front of me. "We are here to help you. But this will return you to your human shape. Don't get scared, okay?"
+
+At this point nothing could scare me anymore. Fear was pretty much my baseline. There wasn't much room for more.
+
+Constance appeared next to him, around her hands glyphs hovered in the air. "Hey girl," she said. "Don't bite now, and we'll have you sorted out in no time."
+
+I looked between her and Jamie and decided not to bite. I didn't know what glyphs tasted like and I didn't want to learn. She put her hands on my head and I felt magic flooding into me and then out of me. Every buff on my UI vanished, and every Bonding timer on my equipment started fresh. I stumbled. I was human again. This shape was so weak, so exhausted. Jamie caught me.
+
+But above all, the curse was also gone. The only thing that remained was that choice. Crown bonded or not, it still demanded a choice.
+
+"Got you," he said.
+
+For the first time in days, I felt safe. I felt Jamie lifting me up and darkness immediately took me.
+
+I remembered waking once, crying, purely from relief. I had slept, slept well, and had awoken alive. Then sleep had quickly returned. I was still paying off the debt I had accumulated.
+
+Now I woke up again. The first thing I noticed was that my UI was telling me my height again. Two feet above sea level, wobbling slightly. I was on a boat. The room was something like a small hotel room. Barely wide enough for a bed, fitting a single person and a chair, in which a sleeping Jamie slouched. On the bedside table, the crown and goggles rested. I reached up. The collar was still around my neck.
+
+Above me there were various cupboards in dark wood. What the room lacked in width and depth, it made up by filling a lot of space with storage space.
+
+I was also clean. Which I didn't like.
+
+"Hey, Eve," Gabriel said, her voice a balm on my ragged soul. "You made it."
+
+"I had started to develop doubts," I said. Jamie stirred.
+
+"I just wanted to give you a heads-up. Don't open any of your rewards until you made a decision on the crown reward. If you decline it won't really matter, if you accept it might give you more or better options. We can talk it through later, I suspect you have a lot of catching up to do now."
+
+While Gabriel was speaking, Jamie scrambled over. Due to lack of space, he knelt next to my bed, holding my hand in his.
+
+"Thanks for saving me," I muttered.
+
+"Least we could do. You and Claire single-handedly killed the first warlord. But damn, did you scare us in the process."
+
+I freed a hand and put it up.
+
+"Before we continue, three questions first," I said.
+
+Jamie looked a bit startled but nodded. "Sure, go ahead."
+
+"Did everyone survive? Are the hyenas okay? Who is the lab-coated French woman?"
+
+"Yes. Yes, but they are rowdy. Helene."
+
+I took a deep breath. This was good.
+
+"Elaborate on rowdy and Helene."
+
+"They aren't exactly hostile but are getting a bit territorial. Nobody got hurt, but we are also keeping our distance. As for Helene, well, what do you want to know?"
+
+"What's her class? Why is she here? Are her dogs happy and well-behaved?"
+
+Jamie laughed. "Her class is called Mad Alchemist. She would have been with us, or, well, any group of Blessed, but her class isn't exactly without risk for others. She only recently achieved a state where her presence, and that of her dogs, wasn't a risk to others. And then you forced her hand in joining up with others. As for—" I cut him off.
+
+"How did I force her hand?"
+
+"The remaining warlords became a lot more aggressive when Mammon fell. They struck at any exposed Blessed, group or solo, they could find. Thanks to Claire's warnings the casualties weren't too bad, but just about everyone who was going solo up to that point understood the importance of strength in numbers very quickly."
+
+I stared at the ceiling, through that open question that was still hovering in front of me. People had died because of what I had done. But this was where things got complicated, right? How many more would have died if Mammon was allowed to expand his power further? I tabled that discussion for later.
+
+"You okay?" Jamie asked.
+
+"Just coming to terms with the consequences of my actions. What else changed? And what about her dogs?"
+
+"Uh, a lot. Dogs first. Very well-behaved, very good dogs. She holds a PhD in biochemistry, but her husband used to be a trainer. Some big shot, training important dogs. But, well, now it's just her and the dogs. She treats them well, even though some of her abilities are centered around making them fight."
+
+"Hah! I knew she couldn't be trusted. Sending dogs out to fight for you is just wrong."
+
+"Oh, you should see them when she does. What you've seen was very much the Doctor Jekyll version of them. When she uses her infusions and they become Hydes, you wouldn't fault her for sending them in. They can regenerate."
+
+I narrowed my eyes. I was probably too judgmental. At least I now knew who'd been the one to deal damage, who had replaced me in my absence.
+
+"Okay. What else changed?"
+
+"More patrols. You see more of the female demons, now winged, out and hunting for easy pickings. And any stronghold that didn't have a roof until now now has one. But at the same time, people are getting more fierce. Lone demons or small groups going out are actively hunted. Seeing that kill counter go from zero to one gave many of us the shove we needed."
+
+"You also leveled a lot." He was level 16 now. When we parted he was what? 12? 13?
+
+He ran a hand through his hair. "Yeah, after we found your message I was basically non-stop busy leveling. Constance, Stephen and Annika. Our guides told us that a support class would eventually get tools to deal with curses. Constance got her Cleanse spell on level 15. That's when we switched the plan and set up the strike team. Only had to wait for you to show up again and then rush in when the demons left and catch up with you before you went too far and we lost your trail."
+
+"How many attempts did that take?"
+
+"Three."
+
+"Damn. Thanks."
+
+"Not for this. I promised I'd keep you safe. And after everything you did, it felt good to be part of getting you out of the trouble you'd gotten yourself in."
+
+"Who washed me?"
+
+Jamie laughed again. "Ash. But with a new spell of his. He's getting better at creating them, though so far they aren't too impressive in combat. But great utility."

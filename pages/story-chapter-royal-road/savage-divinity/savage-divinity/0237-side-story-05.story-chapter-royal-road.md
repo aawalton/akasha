@@ -1,0 +1,45 @@
+---
+id: 39438284-dae1-5314-b853-2136341283b8
+page-type-slug: story-chapter-royal-road
+title: "Side Story 05"
+slug: 0237-side-story-05
+partOf: savage-divinity
+position: 237
+ownLength: 1197
+unit: words
+publishedAt: 2017-07-24
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/150702/side-story-05"
+royalRoadId: "150702"
+---
+
+It’s almost surreal lying in the shade with nothing to do, my belly full and toes wiggling in the grass. The hot summer sun beats down on Sanshu while a cool breeze carries the sweet aroma of flowers and incense, masking the stench of blood and death. Yesterday, I was embroiled in a desperate struggle for survival against the Enemy, the culmination of weeks of travel and toil, and today, I’m lazing around, watching my pets climb trees with Lin. I’ve checked on the quins and my soldiers, I’ve no more supplies to make medicine, we’ve plenty of bandages and dressings, and we just finished eating lunch.
+
+So what am I supposed to do now?
+
+No matter what other people might think, I’m not a workaholic. I’d love to be lazy, sit around and read a good book or take a quiet afternoon nap, but ever since I came to this world, I’ve been cranked up to eleven. At first, hard work was my coping mechanism, a way to deal with everything I’d been through. So long as I became strong, I’d never have to worry about being a slave again, so I desperately threw myself into training, keeping busy so I didn’t have time to dwell on the past. It’s not the healthiest mindset and it’s gotten me into several dicey situations, but I’d like to think I’ve taken long strides since. The decision’s been made, I’m trading sword and shield for mortar and pestle, focusing on herbalism and Healing for awhile, but the transition is proving more difficult than expected.
+
+Problem is, I’ve forgotten how to relax. Despite my tired bones and aching injuries, my muscles itch at the thought of training, some tiny part of my brain demanding I work hard and grow stronger, the ever-present fear lingering in my soul. Meditating alone was no good as I found myself stuck in a guilt-infested brooding session while staring at Baledagh’s sleeping form. Since there’s nothing I can do but wait for him to wake, I tried to keep myself busy, prepping, cleaning, cooking and what not. Unfortunately, in the space of a few hours, I’ve run out of things to do.
+
+Mila and Li Song are healing in their room while my lively Lin laughs and plays with Jimjam and Sarankho. Hopping through the branches of the massive Banyan growing in our borrowed courtyard, her chiming laugh fills me with joy and serenity as I watch the wildcats chase after her, little kitten smiles pasted on their faces. Aurie, my sweet cowardly baby, lays mewling on a lower branch, too scared to move as he cries for help, ‘stuck’ in place once he realized how scary heights can be.
+
+As much as I love him, Aurie needs a little tough love. I’ve seen his siblings jump higher than the branch he’s on, so he’ll be fine if he falls. I can’t coddle him all the time, so even though his piteous wailing breaks my heart, I grit my teeth and ignore it. Lin does her best to entice him into the game, dangling feathers on a string before his face, but my little fur baby only mewls louder while his siblings hop from branch to branch. The bear cubs clamber around on the lower branches, happily searching for bugs to eat and slowly making their way higher and higher as their confidence grows.
+
+Jolting at the sound of someone cursing, I leap to my feet with weapons in hand. Spotting Silva and Viyan dicing nearby, they hold their hands up in apology as I calm myself, sitting back down with a sheepish smile. The post-battle jitters are real, and it takes a few minutes before my heart stops racing, my mind wandering into dangerous, sexual territory. It’s basic instinct really, to survive and mate, passing on my genes to the next generation. Coupled with my raging teenage hormones and a glimpse of Yuzhen’s satisfied smile as she left the manor has left me ready to explode, both figuratively and literally.
+
+Case in point, after bullying my lovely little Mila, I barely kept it in my pants throughout lunch, wanting nothing more than to push her down onto the bed and have my way with her. Since then, I’ve drifted in and out of countless sexual fantasies starring every woman I know and a few I made up, with my current favourite being a complicated scenario regarding Mila and Li Song before being caught by the stern, angry Akanai who barges in to... correct my form.
+
+No. Bad Rain. Stop it. Don’t fantasize about your future mother-in-law.
+
+Hopping down from a ridiculous height, Lin lands lightly in the grass with arms outstretched, flashing me a toothy grin. Applauding the display, I cheer and say, “Exquisite form, nailed the landing, though it could use a few more twists and tumbles on the way down. A solid five out of seven.”
+
+“You’re so silly Rainy.” Curling up beside me, she rests her cheek on my shoulder, careful not to touch my healing injuries. My sweet little Lin, so wholesome and innocent, I can’t even bring myself to imagine despoiling her, my adorable, wide-eyed bunny girl. It's helped by the four bloodthirsty stares which locked in on me the moment she sat down, her hidden guards ready to protect her chastity. On my best behaviour, I snuggle up against her, a big smile spreading across my face as she hums a sweet little song.
+
+Bored of playing by themselves, Jimjam and Sarankho run down the tree trunk to join us, leaving only the bears and Aurie in the trees. My sweet kitten mewls louder as he watches his siblings gather around me, his eyes wide with fear and envy. Jimjam presses his forehead against my chest and Sarankho flops down for a belly scratch, so I steel my heart and ignore Aurie’s pleading, hoping he comes down on his own. With a contented sigh, Lin adds, “See hubby? When you’re relaxed, Jimjam is relaxed. He’s broody and nervous just like you. No need to worry.”
+
+Leave it to my pure, unblemished Lin to teach kittens how to play. “All because of you wifey. You’ve been a real help. Thank you.” Finally sick of being alone, Aurie hops down from his perch and stumbles over to join us, his rumbling purr going full throttle as he piles in, a massive heaping of fur and love all around me. Enjoying the cuddle time, I sigh and close my eyes, losing myself in the moment. Lin’s soft, fluffy ears brush against my cheeks, her thick, voluminous fur a delight to behold.
+
+Lin's right, everything’s gonna be fine. Baledagh will get better, my kittens and cubs will overcome their instincts with training, and Akanai will handle all the fallout from Sanshu, leaving me to spend my days with my pets and loved ones, going out on rides and hikes, flying kites, building snowmen, and having meals with my family and friends. Good food, good drink, and good company, I couldn’t ask for more. No more grasping at strength and power. It's time to kick back and relax.
+
+I've earned it.
+
+Chapter Meme

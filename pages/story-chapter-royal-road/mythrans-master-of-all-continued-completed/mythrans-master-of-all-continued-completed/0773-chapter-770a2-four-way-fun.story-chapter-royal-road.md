@@ -1,0 +1,281 @@
+---
+id: abc8db1a-0848-5484-b0d4-b6bdffe56dbd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 770A2 - Four Way Fun"
+slug: 0773-chapter-770a2-four-way-fun
+partOf: mythrans-master-of-all-continued-completed
+position: 773
+ownLength: 3541
+unit: words
+publishedAt: 2018-11-23
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/309039/chapter-770a2-four-way-fun"
+royalRoadId: "309039"
+---
+
+Ren didn't stop moving and Fayeth didn't stop kissing Rachel, even though she had finished. They both kept going and Rachel moaned as she thoroughly enjoyed all of the extra attention they were piling onto her. Jay on the other hand, wasn't sure what to do. Ren felt this and pointed to the spot between Fayeth's legs, and Jay realized that he had forgotten that he was supposed to mimic Ren.
+
+Fayeth gasped and her body started to glow as Jay entered her and started having sex with her, and her kissing Rachel became more intense as she felt the other woman's emotions. Both women were getting the attention they craved, and both were experiencing the best sex they had ever had.
+
+Ren could feel all of their emotions, and he knew the three of them loved each other and wanted the other two to be happy. At the moment, they were all quite happy and were enjoying themselves immensely.
+
+Fayeth broke the kiss and locked gazes with Rachel. “I'm... I'm going to... to...”
+
+“Me... me, too.” Rachel panted, then they let their passion and love out as they kissed each other again and finished at the same time. All of their muscles tensed up and their special places tightened up harder than ever before as it contracted, and Rachel and Fayeth shared their pleasure with each other. That did it for both Ren and Jay, only for different reasons.
+
+Jay pulled out and rested himself on top of Fayeth's special place and spilled quite a bit out onto her abdomen. He was breathing heavily from the major exertion he had just performed to keep up with Ren, and he sat down on the edge of the bed to try and catch his breath and calm down.
+
+Ren on the other hand, had felt Rachel and Fayeth's love for each other, and how they had accepted each other wholly. When Rachel tightened up, it gave Ren just enough physical stimulation to go along with the emotional one, so he pulled out and slid the tip of his member over Rachel's nub as he quickly stroked himself to finish.
+
+“Thank... you!” Ren exclaimed.
+
+Rachel and Fayeth stopped kissing to look at him with wide eyes. With one last rub on Rachel's nub and a long stroke, Ren blasted out like a geyser and sprayed Rachel's abdomen, her chest, and even got some on both of their faces.
+
+“Oh, my god!” Rachel exclaimed in shock as she touched her wet cheek. “What... how...”
+
+“My King.” Fayeth said with respect and licked her lips to taste it, and her body shivered and glowed brighter. “Mmm!” She moaned and licked Rachel's cheek.
+
+“Fayeth, what...” Rachel was too surprised to react at first while Fayeth licked her face clean, then Fayeth moved down to her chest to clean her off. “F-Fayeth... oh, Fayeth!”
+
+Fayeth suckled her breasts, something she hadn't done before, then she licked her way down Rachel's body and followed the trail of mess all the way down to her abdomen and licked her nub.
+
+“AH!” Rachel exclaimed and finished again. Fayeth sucked it all up, then she looked at Ren.
+
+“Go ahead.” Ren said. “You've cleaned up the rest of it.”
+
+“Thank you, My King.” Fayeth said and licked him, then slipped her mouth over the tip and sucked.
+
+“That feels good.” Ren said and touched her hair. “Move your tongue over it.”
+
+Fayeth did so and kept sucking, and Ren moved his hips and slid further into her mouth.
+
+“Yeah, that's better.” Ren said and moved in and out more.
+
+“Wh-what are you...” Rachel leaned her head to the side and saw what Fayeth was doing. “Oh.”
+
+“Add... your hand.” Ren said, and Fayeth put her hand around him and stroked him as she sucked. “Oh, yeah. Mmm. Fayeth, that's so good.”
+
+Fayeth felt his enjoyment and that made her body glow brighter.
+
+“You can't take it directly.” Ren warned when he felt that he was getting close.
+
+Fayeth stopped sucking and slipped him out of her mouth, then looked up at him as she kept stroking him. “Seldanna told me.” She said and moved him down to stick the tip of his member inside of Rachel.
+
+“Ah! You're still so hard!” Rachel exclaimed.
+
+“And you're still so tight.” Ren said as Fayeth let his member go and grabbed his hip to pull him into Rachel. She looked at where they were joined and leaned down to lick Rachel's nub.
+
+“Oh, my GOD!” Rachel yelled as Ren moved in and out slowly so that Fayeth could lick Rachel safely. Rachel started to pant almost right away, and Jay sat on the side and watched in both fascination and amazement. He knew for a fact that he would have to try that himself, since as a side effect of Fayeth's powers, he could feel how much Fayeth and his wife were enjoying the sensations. He glanced down at his spent member and knew he would have to wait a few more minutes before he could go again.
+
+“Oh... OH... OHHH!” Rachel yelled a few minutes later as she finished and a little spray came out of her and hit Fayeth's tongue.
+
+“Mmm!” Fayeth moaned as she licked it up. “My King! Give it to her!” She said. “She has to feel it!”
+
+“N-not in-inside.” Rachel panted. “Only... only my husband.”
+
+“I know.” Ren said and felt like he was ready to blow. “Fayeth.”
+
+Fayeth moved her head out of the way and Ren pulled his member out of Rachel. He tugged on her hips and she gasped as she slid down the bed, her mouth open in surprise. Ren caught her and knelt her on the floor, and before she knew what was going on, her mouth was filled with his boiling hot and throbbing member... and she liked it. She liked it a lot.
+
+“Suck it.” Fayeth whispered encouragement to her and kissed her cheek, and Rachel did as she asked and started to suck. “That's it, sweetie. Enjoy all of that thick muscle.”
+
+Rachel remembered what Fayeth did to Ren before and tried to copy her movements by using a hand to stroke him as she moved her head in and out and sucked. Ren throbbed for her again and she was a little surprised at how happy that made her.
+
+This... why does this feel so good? Rachel asked herself.
+
+“I'm... close.” Ren warned her, and Rachel tried to respond with the word 'okay'. With her mouth firmly wrapped around his member, it came out as a vibrating moan and Ren caught his breath. “N-now!”
+
+Rachel stopped sucking and pulled her mouth off of his member, then tried to move back and out of the way.
+
+Fayeth was there and held her steady instead. “Open wide, sweetie.” Fayeth whispered in her ear and her other hand grabbed Ren and stroked him. Rachel opened her mouth to say that she didn't want to taste it, then Ren finished and spilled out and into her open mouth. It startled her for a moment, then she tasted its wonderful-flavored goodness and she did something she hadn't done before. She relaxed her throat and leaned back in, then started sucking on the tip to get as much of it into her mouth as she could.
+
+“Oh, god.” Ren said as Rachel sucked down everything that he could give her. He had felt her startle and then felt her desire and need to take it all. Fayeth kept stroking him as Rachel kept sucking, then Ren relaxed when he was done. Fayeth stopped moving her hand and Rachel slid her mouth off of him.
+
+“You didn't save me any.” Fayeth fake pouted.
+
+Rachel felt her teasing emotions and chuckled as she turned her head to the side and pointed to a dribble on the side of her chin.
+
+“Thank you, sweetie.” Fayeth said and kissed her on the lips, then licked and sucked up the dribble. When she was done, she leaned back and cupped the sides of Rachel's face. “I love you.”
+
+“I love you, too.” Rachel said and kissed her.
+
+“Now I'm jealous.” Jay said, and Ren, Rachel, and Fayeth looked at him.
+
+“You don't have to be jealous.” Fayeth said and looked down at his ready state. “Now that Ren has shown us what to do, it's your turn.”
+
+“Wh-what?” Jay asked, surprised.
+
+Fayeth put a hand on Rachel's shoulder and she stood up and laid down on the bed next to Jay and spread her legs for him. “She's all ready for you, and unlike Ren, you don't have to pull out.”
+
+Rachel moaned and finished a little at the thought, and Jay's desire for his wife flooded out. “Oh, Jay! Give it to me!”
+
+Jay slipped himself inside of her and she wrapped her legs around him to help him thrust. “H-how... can she... be so tight?” He asked and moved in and out. “You just...”
+
+“It's magic.” Ren said and sat down on the bed to face away from them, to kind of give the three of them privacy. “For it to take all different kinds and sizes, for almost any length of time, and still get the right stimulation for a woman to feel good?” He chuckled. “It's definitely magic.”
+
+“It truly is.” Fayeth said and licked Rachel's nub while Jay moved in and out.
+
+“If you take proper care and keep changing things a little each time, it never gets boring.” Ren said.
+
+“You... aren't bored... just sitting there?” Jay asked.
+
+“I'd ask Fayeth for some attention; but, she's a little busy right now.” Ren chuckled, and Fayeth barked a laugh.
+
+“Not much longer.” Fayeth said as she felt Jay getting close and Rachel's moans became faster and faster.
+
+“Is that... a complaint?” Jay asked as his technique started to falter and Rachel's moans were a steady stream of sound.
+
+“Good god, no.” Fayeth said and got ready. “I love you.”
+
+“I... love you... too!” Jay exclaimed and stopped moving as he jammed himself inside Rachel and finished.
+
+“AHHH!” Rachel yelled as her husband finished inside of her and she felt him filling her up.
+
+“Oh... oh, god.” Jay said as he panted, near exhaustion, and started to pull out. Fayeth quickly leaned in and licked him as he did so, gave him several quick sucks to clean him off, then dove between Rachel's legs to lick up any excess that tried to escape.
+
+“I'm not waiting anymore.” Ren said and stood up and cast Energize on Jay to make him feel better instantly, then he grabbed Rachel by her armpits and pulled her across the bed.
+
+“Ren, I was cleaning her.” Fayeth said, slightly dismayed.
+
+“Then keep licking her.” Ren said, and Fayeth moved over on the bed on her hands and knees, then leaned down between Rachel's legs and licked her.
+
+“Okay, this is much better.” Fayeth said as an apology.
+
+“Jay.” Ren said and nodded to Fayeth's backside.
+
+“What... oh!” Jay noticed Fayeth was at the right height to do the first new move that Ren had shown them. He quickly climbed onto the bed and positioned himself behind her and put his member near her opening.
+
+“Get ready.” Ren said, and Jay nodded.
+
+“What... mmm... are you... doing?” Rachel looked up at Ren dreamily as Fayeth pleased her.
+
+“Taking an opportunity.” Ren said and caressed her face, and she closed her eyes. He smiled and positioned himself by her mouth and touched her lips with his fingers. “Open your mouth.”
+
+“Wh-aaalllmmm!” Rachel tried to ask why when Ren slipped the tip of his member into her mouth.
+
+“Now.” Ren said and Jay shoved himself inside Fayeth. She was in the middle of a lick and gasped as she was shoved forward and her tongue entered Rachel's opening. Rachel gasped in surprise as she had something pushed into both her mouth and her special place at the same time, then gave in to her body's need and tilted her head back to let Ren move easily.
+
+Ren moved in and out slowly, so Rachel could adjust to having him in her mouth. He massaged her breasts and played with her nipples while Jay shoved himself hard into Fayeth over and over. She had stopped licking because she had felt Rachel's reaction to having a tongue stuck inside her, so with each thrust Jay put into her from behind, she transferred that motion to her tongue and shoved it into Rachel. Both Rachel and Fayeth moaned as they were pleased very differently than they had ever been before.
+
+They stayed that way, exchanging pleasure, until they felt Rachel getting close. Jay slowed his movements without being asked, then Fayeth changed tactics and kissed and sucked on Rachel for all she was worth. Rachel gasped as she finished and her throat convulsed on Ren's member. He had managed to get himself all the way in, much to his own surprise. When her throat convulsed, he took the cue and finished himself.
+
+Rachel started to panic as Ren spasmed and poured himself down her throat, so he stopped caressing her breasts and cupped the sides of her face instead and filled her with calmness and Reassurance.
+
+“Relax, Rachel.” Ren said calmly. “You can still breathe through your nose, remember?”
+
+Rachel was surprised that she could, even with him so deep down her throat like he was, so she calmed down and stopped panicking. Ren carefully pulled himself out of her mouth and kept his hands on her face as he knelt.
+
+“I'm so proud of you.” Ren said and saw the euphoric expression on her face. “You did very well.” He said and wanted to kiss her as a thank you. “Do upside down kisses count?”
+
+Rachel laughed a full-throated laugh, then she looked at her husband, who was still having sex with Fayeth from behind.
+
+“I'm... I'm almost...” Jay tried to say between pants.
+
+Fayeth stopped licking Rachel to speak. “Give it to me!” She said. “Please, Jay!” She begged. “Fill me up with your love!”
+
+Jay nodded several times as his technique sped up and faltered, then his whole body convulsed as he finished deep inside of the succubus.
+
+“AHHHH!” Fayeth screamed and her body glowed brightly as Jay poured himself and his love into her. They could all feel her take everything that he offered, both physically and emotionally. If they had been asked to describe how it felt, it was like she took the love feeling and hugged it and kissed it, then she held it tenderly inside of herself.
+
+“Oh... my... god.” Jay panted as he pulled out, then he collapsed onto the bed beside Fayeth. “That... that was...”
+
+“I love you so much!” Fayeth exclaimed and kissed him passionately. Both Jay and Rachel were surprised by this, since they had always shared more reserved kisses. Fayeth broke the kiss and moved up on the bed to look Rachel in the eyes. “I love you so much.”
+
+“Fayeth.” Rachel whispered, her heart as full of love as Fayeth's was, then they kissed just as passionately as Fayeth and Jay just did.
+
+“Now I'm feeling a little left out.” Ren joked.
+
+Fayeth stopped kissing Rachel and looked at him. “Rachel won't break her vow to her husband.” She said. “Only he is allowed to kiss her.” She smiled and reached a hand out to cup the side of Ren's face. “I have no such vow.”
+
+Ren leaned in close to her and gave her a passionate kiss. “That's for Rachel.”
+
+Fayeth transferred that kiss to a very surprised Rachel, and Ren almost laughed at her reaction.
+
+“This one is for you.” Ren said and built up all the love he had felt between the three of them and compounded it a dozen times in the moment it took for him to lean back in. When he kissed her, he did it with just as much passion as the others had kissed her, except he also started to pour all of that love into her as well.
+
+“MhhHMMMM!” Fayeth moaned and screamed as her ability leveled up. Rachel and Jay felt the emotional hole it had left in her and were worried. It only lasted for a moment, however. Ren kept pouring more and more of their love into her, and Fayeth relaxed as her ability was brought back up to a manageable level.
+
+Ren broke the kiss and leaned back. “How do you feel?”
+
+“Loved.” Fayeth said and started to cry. “I feel loved.”
+
+“Don't cry.” Rachel sat up and hugged her. “Of course we love you.”
+
+“We really do.” Jay said and hugged the both of them. “You are in our hearts just as much as I'm in Rachel's and she's in mine.”
+
+Fayeth cried and held the loves of her life in her arms. She hadn't ever imagined finding someone to share herself completely with, then she had been extremely lucky and found two of them. They stayed that way for several minutes, and by the time Fayeth had calmed down from such an emotional roller coaster, Rachel had cried herself and Jay had to wipe dirt out of his eyes. Or so he claimed.
+
+“Now what?” Jay asked.
+
+“Well, that last move worked out really well.” Ren said. “What if we switched Fayeth and Rachel and went the other way, with a small modification?”
+
+“What do you mean?” Fayeth asked.
+
+“Jay can stand here and you can take him in your mouth, and Rachel can lay on top of you and suckle your breasts while I do her from behind.” Ren said.
+
+“N-no licking Fayeth?” Rachel asked, nervously.
+
+“Baby steps.” Ren said with a grin. “We might get you to that point eventually; but, no one will force you to do anything.” He said. “We're here to have fun and enjoy each other, not cause awkward moments.”
+
+Rachel opened her mouth to say something, then closed it.
+
+“Go ahead and say it.” Ren said and used a hand to comb his fingers through her hair.
+
+“It was... pretty awkward... with you... finishing down my throat.” Rachel said with a deep blush.
+
+“I didn't want to hurt you by trying to pull out too quickly.” Ren said and moved his hand to touch the front of her neck and caressed it. “Plus, it felt really good.”
+
+Rachel took in a sharp breath as he gave her an echo of how he felt. “Th-thank y-you.” She said and ducked her head slightly.
+
+“It's pretty rare to find someone like you that can handle it.” Ren said and filled her with appreciation. “So, do you want to try the modified version?”
+
+“I'll need a few minutes.” Jay said and laid down. “Damn, I've never...” He chuckled. “Make that half an hour.”
+
+Rachel chuckled and laid down beside him and cuddled in. “She drained you pretty good, didn't she?”
+
+“Damn, woman! You both did!” Jay exclaimed to make her laugh, then he gave her a kiss.
+
+“It really will take half an hour.” Fayeth said to Ren. “We kind of over-taxed Jay a little.”
+
+“Taking a break is fine with me.” Ren said and equipped his underwear before he laid down on the far side of the bed and out of their way. “Why don't we sleep for an hour and I can show you a few more things when we wake up?”
+
+“That sounds good to me.” Jay said and exchanged glances with his wife Rachel, then they both looked at Fayeth, who nodded.
+
+“Ren, why are you so far away?” Fayeth asked.
+
+“I'm staying out of your way while you cuddle together.” Ren said.
+
+“But... don't you...”
+
+“I'm not going to interfere with your alone time.” Ren said with a smile. “I know how precious it is.”
+
+“Ren, come closer.” Fayeth said and laid down beside Jay without touching him.
+
+“But...”
+
+“It wasn't a request.” Fayeth said sternly, and Ren sighed and moved over on the bed to lay beside her. “Thank you for doing this for us.” She said as she turned onto her side and put her head on his shoulder and an arm over his chest. “You can feel how happy you've made us.”
+
+“I can, and that's why I was trying to give you room to hold each other.” Ren chuckled.
+
+“It's only for an hour.” Fayeth said. “Can you stand cuddling with me for that long?”
+
+“Fayeth.” Ren said.
+
+“Yes, Ren?”
+
+“I can't feel your breasts pressed against me.” Ren said with a smile. “Move closer.”
+
+“Yes, Ren.” Fayeth said and shimmied closer and her warm flesh pressed against him as he put an arm over her shouders.
+
+“Fayeth.”
+
+“Yes, Ren?”
+
+“You're not calling me King Ren or My King anymore.” Ren said.
+
+“That's because you don't want me to.” Fayeth said and placed a gentle kiss on his chest.
+
+“No, I don't.” Ren said with a smile. “Goodnight.”
+
+“Goodnight.” Fayeth, Jay and Rachel said in response, then they drifted off to sleep.
+
+For the next week, with 1 hour breaks mixed in so Jay could recover, Ren showed them all different kinds of positions and techniques to please each other as both couples and as triples.

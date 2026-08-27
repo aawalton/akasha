@@ -1,0 +1,719 @@
+---
+id: 652f222a-2485-5f9a-a08f-aabb0163d920
+page-type-slug: story-chapter-royal-road
+title: "Chapter 183: Crumbling"
+slug: 0105-chapter-183-crumbling
+partOf: the-calamitous-bob-stubbed
+position: 105
+ownLength: 8041
+unit: words
+ownProgress: 8041
+publishedAt: 2024-11-09
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1893923/chapter-183-crumbling"
+royalRoadId: "1893923"
+markedReadAt: "2026-06-29T21:18:22.982Z"
+---
+
+Water was everywhere. In the darkness of the night, the sky merged with the sea in a dark, blurry mess that gave Rakan vertigo. The ground moved under his feet. Well, the ship’s deck. All that separated him from a yawning abyss of murky waters were two layers of thin planks and the loyalty of a man he’d threatened to torture. It wasn’t much.
+
+The small ship crested a wave, spraying Rakan’s face with cold water. The Halluria of his childhood didn’t have a sea. Just tiny underground lakes and the jungles, in the distance, with the horrible ponds. The water back there was precious and cool. It was lifeblood and it was money. Water was precious.
+
+Not like this! The water here was absolutely everywhere and it was cold and salty and buckled under his feet like a treacherous cornudon.
+
+He fucking hated here.
+
+“Sir, you can sit if you want. You don’t have to grip the mast,” Iria suggested with a pleasant smile.
+
+“I am, hmmm.”
+
+She was ten years his elder at least, and an accomplished soldier. She would be absolutely impervious to bullshit.
+
+“The ocean is making me uncomfortable.”
+
+“But you do have blue mana, yes?”
+
+“I have red mana but you don’t see me shoving my entire behind in an oven. Also… It is, in fact, difficult to cast with salty water flooding one’s lungs.”
+
+“I’ll remember that if we face a caster. What I meant was that maybe you can charge that gem of yours? On the staff. As a distraction.”
+
+“That… is a good idea.”
+
+“When I’m nervous, I clean my sword.”
+
+She shrugged.
+
+“Keeps the mind focused and it might also keep me alive.”
+
+“You are entirely correct. My time would be better spent on magic. Let me find somewhere to sit.”
+
+The other soldiers lined the railing. One of them was sleeping with his arm almost trailing the water.
+
+“Errrr.”
+
+“There is a crate by the steering thingie.”
+
+“Oh, right.”
+
+Rakan admonished himself for his lack of decorum. He wasn’t a mushroom farmer trainee anymore. He was an archmage of the empire! There were expectations that he would always know what to do in public. That was what the elites did, like Viv. Viv always looked calm and in control in front of a crowd. Even if he knew from watching her in private that she was winging half of everything and relying on people to do stuff well.
+
+That was right. He just needed to appear in control of his fear.
+
+Rakan did what he often did, pulling mana from around and from his leaking core. Blue, gray, black, the essence of night on the waves. It was fine. It would be fine. He was still a mage and the ship would land safely on the island in an hour or two. He would open a portal and never set food on a ship again in his entire gods-accursed life. Yes.
+
+The island sure took a long time coming. When it did, Rakan didn’t notice at first.
+
+“We’re about to arrive, Your Grace. The pier… at night… well, the weather is clement at least,” the captain uttered in imperial.
+
+“What?”
+
+The swarthy man pointed at the gloom in front of them. It took some time for Rakan to identify a small dot of light floating in the darkness like a dying firefly. The ship bobbed and it disappeared again, only emerging a little later. Rakan focused, and the ‘Jewel’ appeared in relief, its size expanding and contracting as his mind tried to process the shadowy shapes. Then, one of the moons peeked from behind a low cloud, and he finally saw the rock.
+
+A wind-swept plain sloped down towards a rocky beach near the south, close to where the ship was approaching, then it climbed hard to the north towards an ominous fortress carved into the very rock. Even with little light, the trees and grass painted the image of a haven, a place of retreat for a few people to retire from the world. As they approached, Rakan could see more details using the longview spell. The light they’d seen came from a bobbing lantern that walked among the statues of an expanding garden, at the fortress’ feet. The pier was deserted.
+
+“Moor us. Quietly,” Rakan warned.
+
+“Yessir.”
+
+The ship stabbed through the waves like a blade, stopping at the exposed rock jetty without issue. Rakan jumped down then stumbled, suddenly unused to solid ground.
+
+“You lost your land legs, boy?” the captain muttered.
+
+Rakan turned with a murderous glare but the sailor was staring ahead, pretending not to have said anything. Rakan had to remind himself that they still needed the ship. As tragic as this all was, the Jewel was on one island and the commoner’s prison on another. He would still need to sail more, dammit.
+
+The squad, led by Hush, moved up fast. Rakan followed them up the gentle slope, noting anyone with a proper path could have turned it into arable lands and yet it had not been done. They caught the lone sentinel with no difficulty at all considering he was an old man with an ancient chainmail and a small mace. Rakan could only assume this place didn’t have any monsters.
+
+The fortress turned out to be both more austere and better decorated than expected, as if it were more a troglodyte manor than a keep. There were a lot of statues, vases, and tiny ponds filled with rainwater carrying burgeoning seedlings. A vegetable garden grew on the side, hidden from sight by a hedge of trees twisted by persistant winds, yet at the same time it lacked any sort of furniture or pennant such a place would usually have. Exquisitely carved stone was still cold.
+
+They found the entrance deserted and the doors unlocked.
+
+Inside, the squad captured only one other guard who was asleep when they arrived. The exploration continued along freezing corridors of finely carved frescoes to empty chambers devoid of anything. They found the kitchen and a sleepy, reedy woman who didn’t wake up when they entered. Coal and half-empty crates of supply waited in a storage room that was entirely too large for the modest pile. They found the prisoners huddling in two rooms under several layers of ratty covers. They looked terribly underfed, especially the children. A gaunt woman grabbed Rakan’s arm with tears streaming down her face while the dozen or so other hostages watched on with guarded eyes.
+
+“You… are real. You are really here, right? I am not insane?”
+
+“No milady. Ah, you are a caster.”
+
+“My family… We are, I mean, we were. Earth mages. I may be the last.”
+
+“Before we discuss more,” Hush said. “I need to know if there are more than two guards here. Any additional defense?”
+
+Right. The safety of the operation. Rakan was getting mixed up while Hush remained focused on the task. First secure, then… do the rest.
+
+“Yes, I mean no, I mean there are no guards, however, there is a mage living here. Our… jailor. He is of Arana’s clan. His office is warded, though I do not know much more. It is forbidden for me to practice magic.”
+
+Blistering rage flooded Rakan’s mind. Cutting a mage off casting was like stopping someone from talking at all. Or blinding them. It was utterly unconscionable. He shook his head. People sent here were held as hostages and starved, so why was he more angry about this than the rest? Hush was tensing by his side so he returned his attention to the current issue.
+
+“But he is not here tonight,” the woman said. “He travels to the main island every now and then to inspect the results of the mining effort. This is delicate work. Or so he said.”
+
+Rakan frowned.
+
+“Mining effort?”
+
+“Yes.”
+
+“Oh, right, we saw stone on the pier.”
+
+“Oh, they do not mine stone. I thought you knew? That is just the byproduct. The jailor never told me but I saw him inspect a piece of ore while I was serving him tea. They are mining silverite.”
+
+Silverite?
+
+The star metal that grew from high mana concentration, and with veins that didn’t regrow like iron did. Extremely precious. It was required to make functioning golems.
+
+Worth several times its weight in gold.
+
+“How is Arana not insanely well-armed?”
+
+“What?”
+
+“Nevermind,” he said, shaking his head. “We are here to free everyone, bring them to the mainland.”
+
+“You… have a fleet?”
+
+“I do not need one. I will demonstrate shortly but first, let’s get out of here. Gather your things. We need to free the rest of the people.”
+
+The woman stopped, hope fleeing from her eyes.
+
+“Please tell me there are more of you?”
+
+Rakan felt judged. Well, she couldn’t know how amazing he was. Surely, he was amazing. He’d heard many people say it.
+
+“I do not wish to disparage you my lord, but there are over fifty guards on the other island, and they will be supported by the ‘citizen guard’.”
+
+Someone behind her scoffed so she shrugged, acknowledging a point.
+
+“They’re just thugs given preferential treatment, yes, yet still dangerous. I can tell that you are an accomplished mage, milord, but surely…”
+
+Rakan smiled with a confidence he didn’t actually feel.
+
+“Please have trust in us. We are not mere raiders. We are the New Harrakans, and surprising people is our speciality.”
+
+The woman didn’t seem convinced. She also probably knew she didn’t have a choice.
+
+***
+
+The moment the ship approached the mining island, Rakan knew he couldn’t sneak his way in from the front gate. The island was not very large. In fact, it was about the same size as the Jewel which he could still see in the distance. The difference was that the main island was packed full with people clinging to its flank with the ingenuity of despair. Crude cement constructions melded with the stones while every spare foot of surface was either covered in vegetables, cereals, or both. Stone pillars erected on the beach showed nets, clean and waiting for the next day. Kelp dried on some stone roofs. In fact, everything was stone. There were no trees whatsoever.
+
+Three spots of interest could be seen from the shore. One was a mine entrance near the top. The second was the port, though calling that small enclave a port was generous. Walls formed an elevated and well-protected area between the pier and the rest of the island, then came the third landmark: a large gathering of structures from whence most of the light came. Those were magical, so they would cost a lot of mana from non casters, a luxury under these circumstances. The rest of the island could only be described as slums.
+
+“The guards live here,” the captain said, pointing to the enclave. “This big set of buildings beyond the walls belongs to Boss Stone. That’s where his guards and the women are. And up there are the mines. Near the top.”
+
+Cold sweat formed on Rakan’s back. They sent women here? He dared not imagine what they’d been through.
+
+“How do you want to do this, sir?”
+
+Rakan looked at Hush leaning by his side. A test, again, except that this time, there was a new variable.
+
+The mage.
+
+Rakan’s squad might be able to hold the guards back, or perhaps they could not. It didn’t matter, because they would not be able to protect him while he worked on the portal. Not from a mage. And the mage would feel the moment Rakan tried to activate the construct as if the sun itself rose from the abyss. It simply couldn’t be hidden on an island this small. No, the mage would come, and he wouldn’t come alone.
+
+Rakan could moor the ship and assault the garrison, but then he would run another risk: that of exposing himself for a devastating first strike. The others claimed he was a genius caster, and they may be right, but he was not a genius warmage. And his core was leaking.
+
+An old pang of emotional pain hit him. He was crippled. There was no other way of saying it. Maybe one day he’d recover but… they had no solutions in sight yet.
+
+He only had himself right now. And an unknown adversary.
+
+The local mage would probably be of senior rank since he was expected to keep several untrained casters in check, and someone in his position had to account for surprise attempts on his life. It would be best if the mage came to him instead.
+
+Rakan’s eyes went up to the cave entrance.
+
+This might be the best spot.
+
+“Captain Hush, here is what I propose.”
+
+The man listened in silence — as was his tendency — before suggesting a few improvements.
+
+***
+
+The ship approached the island from the far end. Rather than beaching upon it, Rakan lifted the ground in a straight line from below the waves to form an artificial jetty, not much but enough to keep the ship stable and his men mostly dry. Waves were larger here, and Rakan regrettably allowed the ship to leave with the hostages still onboard after its captain swore an oath to Neriad. They couldn’t afford to have it capsize.
+
+The squad quietly climbed the slope, silently eliminating a single patrol apparently ready to raid a lodging. As to why, Rakan didn’t know and didn’t care. There were a few heads that popped from underneath the dry leather panels that served as doors here, but they retreated right away. Time would be short.
+
+Rakan did his best to avoid looking at the squalor, at the corpses emerging from the rare soil where plants grew, rotting flesh exposed by a burst of wind carrying a little too much rain. He ignored the hanged man who was so skeletal it was a wonder he had not starved first. He also ignored the burnt remains of what appeared to be a small aberrant.
+
+Things were really bad if aberrants appeared spontaneously.
+
+The squad moved around to the entrance of the mine where they killed a few guards, Rakan making no effort to save them. Another display of precise magic fortified the entrance without leaking too much mana, which was what Hush had suggested. On his signal, Rakan announced their presence to the world. He grabbed the black from the night, the blue from the sea, and the brown from the ground and wove an insidious spell; not a very powerful one, but an extremely effective technique either way. He’d learned it from Frosthawk, much to the old man’s annoyance.
+
+Something about ripping off his entire school of spells in a couple of days.
+
+The construct settled down the slope, in front of the distant gate of the guard compound.
+
+It took some time for people to react. Far more time than he’d expected, which was strange considering every mana sensitive person on the island must have felt that one. Rakan even made sure to bleed some mana by making the construct sloppy. The mage should be up in rage right now.
+
+As several lights progressively appeared over the port, he finally realized what was going on.
+
+This was the middle of the night. It was cold and windy out here.
+
+Of course the mage would be sleeping right now.
+
+What followed was a tense minute during which the first to react were, in fact, the ‘citizen guards’. The common law prisoners. They gathered in a loose throng carrying not torches, since those needed wood, but strange spheres engraved with coarse runes he realized were lights made from silverite ore. They were led by a tall, incredibly hairy man — Boss Stone, he presumed — who walked up the slope with a cudgel and a confidence that Rakan believed to be misplaced. He was just being fucking stupid at this point.
+
+When a magical phenomenon happens, you do not walk into it. That was common sense. It was a miracle how these westerners managed to survive to adulthood, sometimes. Not that he missed Halluria.
+
+And so the citizen guards marched confidently into Rakan’s construct, which he triggered. They slowed as if time had left them behind. A sound like a hiss reached the Harrakan line, as well as a puff of very, very cool air. One of the Hightrees sneezed.
+
+As for the citizen guards, they were frozen solid. Rakan had never killed so many people at once. Those few that were at the edge stumbled away, and the cries of alarm that came from the fort were laced with surprise.
+
+“Neriad’s bollocks, that was nasty,” Iria whispered.
+
+It made Rakan a little proud though he tried his best not to show it. As the surviving citizen guards hid in the shadows, sounds of violence started to emerge. It didn’t take long for the mage to finally appear from the fort after that.
+
+While the citizen guards had advanced confidently and stupidly, the remnants soldiers did so with circumspection, protecting the mage in a loose formation. Even then, it was clear their gear was not up to par with the mission. They wore warm gambesons, targes, and cudgels. The perfect weapons to put down a rowdy prisoner, but nothing to stop an actual liberating force. The oversight would cost them dearly.
+
+As for the mage, he shared some eerie similarities with Frosthawk.
+
+In fact, the two might have been related.
+
+“Damn. And he let Frosthawk’s wife die.”
+
+“You are trespassing upon the property of the Harrakan empire under his Majesty Emperor Marus, scoundrel! Show yourself!” the mage said with a commanding voice.
+
+“I will send a Hightree greeting,” Hush offered.
+
+Rakan agreed. The mage had to have a shield up against spells.
+
+An arrow whistled through the air. A blue shield appeared on impact, blocking the projectile. The mage screamed something in the local creole Rakan didn’t get but he would bet a silver talent against a mushroom peel it was insulting. His men raised their targes and advanced at a solid pace. Hush landed the next arrow in someone’s throat. The formation contracted.
+
+He did it again a second later.
+
+And again.
+
+The mage was forced to react. A cold wind howled towards the mine’s entrance, water condensing in the air like powdery crystal. Rakan raised his own shield and infused it with red mana, then he gave it meaning.
+
+The heat of the desert near his mushroom farm wasn’t something that burnt brightly, like a fire at night. It was the sun. For hours upon hours upon hours, it beat the rock with a heat that never seemed to end, and under which all life stopped or suffered a withering death. It was a lingering heat, a stunning, debilitating one that grabbed at him even as he hid in the shadows, blinding all those who dared it.
+
+Cold and heat met in a contactless struggle that made the wind howl. Rakan felt another meaning push against his defenses as a clash of opposites. The frigid gale of a winter sea demanded he drop the shield and let the false warmth embrace him so he could let go in peace, but Rakan was still a child of the desert, and of the coldest nights that it brought. He would never be fooled by this false promise. Icicles carrying powerful payloads aimed for him in an attempt to puncture the thin shield through brute force, so Rakan drew from the brown gem to lift a stone upon which the attack spent itself. Volley after volley came at him while the remnants troops made their way up the slope under the protecting cover of the mage’s expanded shield. Rakan kept concentrating.
+
+A bit more. Just a bit more.
+
+The remnants left the ‘citizen guards’ compound behind. The place where the women were held. They now stood on open ground.
+
+No more collateral damage, as Viv put it.
+
+Rakan could finally let go.
+
+He lifted his staff and pulled freely from its reserves.
+
+And for a moment, he felt like himself again. All colors of mana flooded his conduits freely, removing a stress he’d taught himself to ignore. It was an enormous amount of mana, even more than what he had before his core cracked. He was, for a brief moment, healthy. Rakan.
+
+The blessed genius.
+
+The ground turned against the remnants. The air in their lungs betrayed them. Their blood boiled in their veins. The night itself conspired to blind them, the darkness gnawing at their throats. They died in an instant. There was no contest. The mage was a caster, but Rakan was magic itself. Every color available to humans… Was that how it felt to be a dragon?
+
+“Sir?”
+
+They were dead. Rakan was about to ask the Hightrees to assist the prisoners, but the people had not waited for him. Even now, the night was alive with light enchantments and the citizen guards were dragged from their hiding holes and killed with absolute savagery.
+
+“Let’s get to the compound to free the captives there. After that, I’ll open the portal while you gather everyone. It’s time to go home.”
+
+“And the silverite?” Hush asked innocently.
+
+“Oh, we’re going to grab that too.”
+
+Solfis was going to be delighted.
+
+***
+
+Viv had stopped for the night. She always did, so the citizens behind her could rest and recover. And also because she still needed to command the operation. During the day, the trail of people following her expanded like a fat tail across the countryside, growing by the hour. By night, her people moved from group to group to offer medical assistance, food, and take stock of what each village would need in the coming weeks. Those were already hers.
+
+News had come from everywhere. The Knights of the Blue Rose under Rollo rolled Remnants troops across the land westward towards the coast. The first caravan carrying tools had been recovered with a third of its people dead, another oversight on Viv’s part. Now, the Order Master had taken things in hand and they would converge on Frostway at the same time as Viv would.
+
+Lim’s diversion functioned perfectly. The zealots took over Arana’s valley, though they’d been… a little too zealous, as it were. Right now, they were moving against reinforcements with support from Lak-Tak (of the Order of the War Crime as she was referring to him) and Witchpact squads. She wished she could be there but she was doing her thing by walking north. It was important. She could feel it.
+
+The biggest unknown was Rakan. The news was less than a few hours old but he’d been on a ship sailing towards the gulag. Well, she called it a gulag. Others would pick another world.
+
+It was ironic that they’d chosen an actual archipelago to set it.
+
+As she considered sending help, a bodyguard knocked on the tent’s support. It wasn’t required though. She could feel a visitor’s mana well enough.
+
+“Your Majesty…”
+
+“Let him in.”
+
+“Right away.”
+
+Frosthawk walked in. The old mage looked even older now, his white beard in a mess and the pockets under his eyes dark and foreboding. He looked gaunt.
+
+“Take a seat?” she offered.
+
+“Yes. Yes… Thank you.”
+
+“A drink?”
+
+“Yes. Something strong?”
+
+“I have just the thing.”
+
+Viv usually didn’t drink due to… an unfortunate family background. The shit she’d heard in the past few days made her want to mark the occasion though, even though alcohol could no longer get her drunk. She offered the visiting mage a goblet filled with clear liquid — imported Enorian flower booze made from a local cereal. His eyes watered.
+
+“Hmm.”
+
+“To the departed,” she offered.
+
+“Yes, to them.”
+
+They drank. She let Frosthawk resume the conversation on his own time.
+
+“Five months. She’s been dead for five months.”
+
+Viv knew he was talking about his wife. She had seen the kids come through the portal. She knew who was missing.
+
+“I sent her letters telling her that I loved her. To hold on. I was negotiating with Arana. Creating a perfect oath. Heh.”
+
+He took a deep, shuddering breath, then his gaze hardened and it returned to Viv, like he was seeing her for the first time.
+
+“They’ve taken me for a complete imbecile and they were fucking right.”
+
+“It’s not easy fighting against your entire world,” she allowed.
+
+“Maybe, but if I had, my wife would be alive right now.”
+
+Nothing much to add to that.
+
+“I want you to let me have her,” he finally said.
+
+“I cannot promise that because the list of people who want to kill her is expanding constantly. I can only promise that you’ll get a go at it as I will not be intervening.”
+
+“I will freeze her arms off and crush them to dust while she watches.”
+
+Viv didn’t comment. It wasn’t even the worst threat she’d ever heard.
+
+“I actually have a related task for you, if you do not mind,” she said while Frosthawk fumed.
+
+“Say it.”
+
+“I need you to make sure she doesn’t exterminate the magical school when we approach. I’d also like you to intercept departing ships in case she tries to escape.”
+
+“She will not. If she loses control fully, her path will shatter.”
+
+“And if she stays, she dies. My associates have already neutralized her spies.”
+
+“Your… associates?”
+
+Viv took another gulp of alcohol. It was actually really tasty with a pleasant aftertaste. And the first sip would also kill any and all bacteria in her mouth.
+
+“It’s better than saying my pack of mostly loyal genetically-engineered master assassins.”
+
+“You have gathered the strangest people to your banner.”
+
+Viv couldn’t wait for the Merls to create an outpost.
+
+Then she would have collected members of every non-genocidal species and culture on Param into Harrak. Like a pokemon master.
+
+“Will you do it?” she finally asked.
+
+“I can have my apprentices evacuate.”
+
+“Then do so.”
+
+“It will be better if your paramour joins me.”
+
+“Ask him.”
+
+Frosthawk gave her a measuring look.
+
+“You do not order your own people?”
+
+“My place is here with the remnants I am freeing because that is where fate is placing me. All of the elites of the empire are here, doing what they do best. I have given the orders and now, it is up to them to accomplish it however they see fit. I trust them and I trust you to work with them to save your apprentices. I am not controlling everything you do. You are not children, you are leaders in your own right. Surely, I am not mistaken?”
+
+“No.”
+
+“Then go save your apprentices and make sure Arana doesn’t escape. That is my… ‘request’. Get all the support you need and only come to me if there is a problem.”
+
+“You are very different from Arana, you know?”
+
+“And that is why she has already lost.”
+
+***
+
+Marruk watched Koro eat an entire leg of meat on the road, with her fingers, just like that. Those humans ate entirely way too much meat. Maybe that was why they were so aggressive, always trying to kill something so they could eat it.
+
+“Want some?” the tall amazon offered.
+
+Marruk schooled her expression. The temple guard was a good person. She couldn’t let her animosity get the best of her.
+
+“No, thank you.”
+
+“I’m eating a lot because I’m with the child again! Ooooh I hope it’s a boy this time!”
+
+“Oh, hmmm.”
+
+“Don’t worry, I’m good for a couple of months. There’s just morning sickness. Always a pain to waste food. Anyways! Have you ever hunted a southern tribe?”
+
+“No,” Marruk said.
+
+Koro nodded, her thick braids dancing with every step. Marruk wasn’t sure why the muscular woman never had that one canine regrown but it gave her smile an unhinged slant that made Marruk nervous. It didn’t help that Koro was the second best spear wielder in Harrak just after Wamiri. The knights didn’t count. Horses were horrible creatures, therefore placing a pointy thing in front of you while it charged could not seriously be considered as an ‘art’.
+
+“It’s easy! First you need to find out what kind of tribe it is. That’s the first step. Hey if they are merchants, you can even get away with talking assuming you can understand them!”
+
+“No talking!” Cerus said.
+
+The archer perpetually bit his lip with stress. Marruk understood well. She would do the same if it were her family being held by enemies. The thought was unbearable. Fortunately, Kark blood feuds involved no prisoners. It was a cleaner, much more civilized option, she thought.
+
+“No no I’m serious, talking is always better. You get what you want, then you come back later with your brothers and get the payment as well. But I don’t think those are merchants. That leaves two options. The first is slavers. Very likely!”
+
+Koro suddenly seemed embarrassed. Marruk frowned.
+
+“Yes, very very likely,” the tall woman insisted.
+
+“What if they are not slavers?”
+
+“Well then hmmm. I cannot believe you do not know this despite living next to them!”
+
+“We are not allowed to raid their villages. Were not allowed. Too risky, weh!”
+
+“Cannibals.”
+
+That certainly put a damper on the mood. Marruk shook her head. This was where the humans’ love for meat inevitably led them. They should just eat more tubers and bread, which were delicious and didn’t try to bite back.
+
+***
+
+Marruk looked at the body of the dead southerner. He had an arrow through the skull. She had to give it to Cerus: he and his guardians were well trained, and now that they had iron arrow tips, their marksmanship truly shone.
+
+This was a scout. So even if the Remnants never attacked the tribe, they still had patrols out. Cautious folks, and for good reason.
+
+Damn but was that southerner pale. Almost like a winter Viv. Marruk shook her head, again.
+
+She really hoped those would not be cannibals.
+
+***
+
+“Slavers!” Koro whispered excitedly.
+
+Marruk inspected the valley from her vantage point near its entrance. The tribal encampment spread before her like a sour wound, each node a small, fortified spot linked to the other by dirt paths. Tiny fields and a handful of orchards alternated with forest patches without apparent logic. Marruk had to give it to the tribals, however, what she could see was very well crafted. Without metal. It reminded her of home.
+
+The main point of interest was near the middle. A massive hut stood before what may have been a muster field or a gathering spot, but those were cages that occupied this space now. Even from far away, she could see tiny hands gripping the wooden bars. This was her objective.
+
+“It’s... it’s them,” Cerus whispered by her side. “Look. More cages. There.”
+
+He was right. Much like everything else, the cages were spread over the settlement.
+
+“Right. Show me where they all are,” she asked the scout.
+
+“We have to get them out.”
+
+Marruk sighed, then she grabbed his shoulder.
+
+“What?”
+
+“Focus. Show me where you are. There are a hundred of us and many more of them. We’ll need to act swiftly.”
+
+“Swiftly?”
+
+Marruk cursed her bad luck. After spending hours learning Harrakan, the only time she would really need it and her counterpart just couldn’t speak it properly.
+
+“We need to move quick. We need to move well. Look and show me where your family is.”
+
+“My family. yes. Cages over there, there. And there.”
+
+Cerus pointed. Marruk did her best not to swear. The cages were spread out evenly on her side of the valley, except for one.
+
+“Split? I take right side,” Cerus said.
+
+“No.”
+
+“No?”
+
+Marruk sighed. This was not her first time leading people into a battle, but it was her first time being in command of a fully human group besides her own. She had to remember what Solfis had taught her. And what Viv favored. Viv combined groups that complemented each other.
+
+“No. You will split your group in halves. The first comes with me and you take half of my people as well. I come from the main entrance while you come from the mountain path. Attack on my signal.”
+
+“They will have traps,” Koro warned. “In the forest.”
+
+“I know traps,” Cerus said, though Koro didn’t seem convinced. Marruk remembered that Koro used to be a huntress before she became a temple guard.
+
+“Fine. Koro, go with Cerus. We attack on my signal.”
+
+“What signal?” Cerus asked, impatient.
+
+For the first time in days, Marruk smiled.
+
+“Don’t worry. We Kark are very loud.”
+
+“Fine. I lead the second group. Eliminate sentries then attack on your signal. Got it.”
+
+“Right. After this, I will follow the main path to the central hut and free the prisoners along the way. You take the secondary path and free them there,” she pointed, “and there. We regroup at the hut.”
+
+This would be a two-pronged assault that would hopefully converge on the enemy’s main stronghold — where most of the slaves were held.
+
+Very daring. Very risky.
+
+“Remember, what was it Viv said? Shock and awe. Do not stop for anything. Free the slaves, keep them at the center of the formation then move on.”
+
+“What if they cannot move?” Cerus asked.
+
+“Have them carry each other,” Marruk replied with a cold voice. “Get out first. The rest can wait. Do. Not. Stop. Follow their paths to avoid their traps. Good luck, and I’ll see you at the main camp.”
+
+“May Neriad bless our endeavor,” Koro said with enthusiasm.
+
+The others left. Cerus seemed nervous and so were his men. Those were their families in those cages.
+
+Marruk led her men down to the main road, slightly out. She did find a few traps but most were a couple of days old, covered in dead leaves, and not very well concealed. Someone had made an effort. Just not a very good one.
+
+She spotted people at the end of the path but those were mostly young boys idly playing by themselves. Marruk had around forty Kark warriors and half again that number of guardians with bows. She sure wished she’d asked for a caster to accompany them. Marruk ordered her soldiers in a column, then they waited.
+
+And waited. Cerus’ group would take more time. She just had to be patient.
+
+After ten minutes, there was a commotion. Not really much yet, but enough of a hubbub with several cries of alarm that she knew what she had to expect. The second group had been spotted.
+
+“Alright, my tribesmen,” she said in Kark. “Let us show them what the People of the Steppes can do. LET OUR ANCESTORS HEAR US!”
+
+Marruk winced at the wall of sound produced by forty overeager young warriors, each one hoping to be paid in iron. To their credit, the young twerps still followed her in good order as she ran onto the beaten path. The young sentries watched her charge with expressions of utter disbelief.
+
+“Hetta! Hetta!”
+
+It probably meant intruder.
+
+“They think you are forest spirits that eats many children,” Cerus’ second helpfully translated.
+
+Every fucking time.
+
+Marruk roared and the kids scattered. A few warriors came carrying javelins with silex tips but they also fled when they saw her. She rotated her tower shield to deflect a lone throw.
+
+Her people were a symphony of grunts and screams, as well as quite a few unlikely boasts and at least three bad questions about their foe’s parentage. It must have been scary for those southerners.
+
+“Ignore them! Push through!”
+
+The world was thrown into sharp relief. The fields, so tiny from her prior vantage point, were now well-ordered spots covered in footprints, dotted with the occasional scarecrow. Naked children with bone ornaments in their hair watched her run by with dazzled expressions. It smelled of growing things, loam, and the excrements used to nourish them. A mother screamed and grabbed her spawn. Lone warriors came to meet them, only to race away when they saw their numbers.
+
+The first real resistance came with the first enclave. A group of young fighters had gathered near the entrance and she could see the terror in their eyes when she charged them, her armor clanging with every step. She saw their knuckles whitened over wood and bone weapons. They knew the futility of it all, but still they stood to defend their homes. Marruk respected them as warriors, but they were also slavers, and in her way, and so they would die.
+
+She lurched and struck sideways, letting a hasty spear thrust bounce off her shield. Her heavy mace had a reach that always surprised people. She felt the impact when it brained the first warrior. Blood and gray matter splattered the others. They recoiled. She punched through them.
+
+Behind her, the head of the column finished them off. She didn’t look back. She trusted them to know what to do. In the small courtyard between several low houses were the first cages. Marruk placed her mace on the ground to reach for her dagger. She cut the rope in a single strike.
+
+Inside, there were four people huddling behind an old man who stood defiant in the face of his doom. That would be a waste of time, except her decision to split the guardians proved salutary.
+
+“Oppia! Oppia!” one of her humans said.
+
+“Lerish?” the grandfather replied. “Och sun free. Go! Go, weh!”
+
+Another guardian took care of the second cage while the rest helped the freed prisoners move. Her people had assumed a circle formation to protect them as expected. She heard a Kark warcry to her right, slightly behind. The second team was making progress as well.
+
+“Right, we go again. DO NOT SLOW DOWN!”
+
+“For the tribe! For our ancestors!” her warriors replied.
+
+“Their mothers guzzle pure league spu—”
+
+Marruk was off again, and the column reformed behind her. There were now dozens of warriors keeping pace with the assault without daring to come close. Others raced ahead of them. They must have guessed her intentions by now. It didn’t matter.
+
+The first guardian arrows whistled through the air, catching the more daring southern tribesmen unaware. The survivors dispersed.
+
+Marruk kept running. The second node had a bigger guard contingent ready for them. Silex arrows clicked against her shield.
+
+“Turtle formation!”
+
+The Kark raised their shields to block the attack, weak as it was. A muscular old warrior with a stone hammer pointed his weapon at her. Clearly the ‘officer’ here. She charged him ahead of the column.
+
+He feinted. Marruk knew he would. She let the attack slide over her shield and lowered her head. The stone hammer clanged against her solid steel helmet at an angle. Her neck hurt, but the blow was deflected.
+
+And her mother always told her she was thick-skulled.
+
+The warrior had clearly expected her to fall down, that was why he was really surprised when her charge ended with her mace in his chest.
+
+[Mace of the Steel Hoarder] activated.
+
+The flanges penetrated his skin from the violence of the blow. He fell with blood on his lips. Again, she did not look behind when the rest of her men crashed into the shocked tribesmen with war cries. There were three cages here. This time, there were no issues rescuing the people inside.
+
+She turned to see the recently freed ‘Oppia’ carrying one of the young girls on his back. He nodded at her.
+
+Had to keep going.
+
+Marruk kept running, feeling the weight of her plate armor as a comfortable reminder she was protected by the steel she owned herself. The third node wasn’t defended at all, and the slaves had not been executed either. Once she approached the cage, she realized there was an issue.
+
+Those were southerners, from another tribe if the ritual scarring and paintings were any indication. She barely hesitated a second before setting them free. No one deserved to be a slave because of their tribe. To their credit, the other humans helped them as well.
+
+Marruk ran again. This time, the tribal warriors had had the time to run ahead to the main encampment. The tiny roads had played against them because of the speed of Marruk’s advance so far, but it was over now. A mass of warriors with javelins and bows assembled at the entrance next to a man in actual steel armor, probably taken from the remnants, and a shaman. That one wore bone armor. Though she’d never practiced herself, Marruk’s mother had been a wise woman, and she could almost see the mana shimmering around the ghastly figure.
+
+Marruk bit her lip.
+
+Shamans were normally not good at warcasting, but anyone who could use spells had something they could kill with.
+
+Get too many wounded and her troops would be bogged down trying to escape. The tribal warriors were obviously furious at the intrusion. Too many dead and… yeah.
+
+She had to believe in herself here.
+
+“Alright. We slow down. My brothers and sisters, loose formation, two thick. Prepare to charge. Guardians, try to keep the shaman’s head down.”
+
+“Lady, they have a caster.”
+
+“I know, dammit. We’ll deploy on that field to the right.”
+
+This time a little slower, the Kark and their allies advanced to form a line. The timing would be… difficult for Marruk. It was in moments like these she wished she had a dragon as well.
+
+She could see the tribals very clearly from the front of the line. Damn, there were a lot of those humans but for once, it was them using wood and stone and the Kark covered in metal, an almost perfect mirror of back home. It was almost a bad jest. Marruk signaled, then she started running.
+
+She hated screaming but… sometimes, it really was called for.
+
+“OUR ANCESTORS WATCH US. CRUSH THE HUMANS!”
+
+‘RAAAAARH!”
+
+Thankfully their human allies didn’t speak Kark.
+
+Marruk picked up speed. The enemy steel-clad warrior moved to meet her by angrily pushing his fighters out of the way. It was the shaman that she was looking at, however.
+
+“I am a pillar of my people,” Marruk whispered.
+
+She had to believe it.
+
+The air shimmered and the shaman stomped a foot. The ground buckled under Marruk’s feet, not much, just an echo. This was the first step after all.
+
+“I am a pillar of my people.”
+
+The steel warrior was now charging her. Javelins and arrows filled the air but most found only steel. Some of the guardians yelped in pain. They were too close for their gear to make a difference.
+
+The Kark behind her kept charging. She had to keep going. She had to be the first. The shaman yelped and Marruk realized this was a wise woman. She almost faltered here, remembering her mother, before wincing under her helmet. No. Those were slavers. They deserved what she would do to them.
+
+The shaman stomped her feet a third time. In front of Marruk, the earth buckled. A wave expanded outward, leaving the tribesmen alone but carrying with it the promise of shattered knees. Right. This was it.
+
+“I am a pillar of my people. I am the [Pillar of the Kark].”
+
+Marruk howled as she activated the skill. She WAS the pillar, if she wasn’t, she would be. The tower shield groaned when she planted it on the ground. Her skill anchored her to mother earth.
+
+She was far from home. However, her people were here, behind her.
+
+And she would guide them.
+
+The wave crashed against her with a loud thud, like a stone crashing against a wall. Her shield bent at the bottom. Her toes slipped into the mud, boots groaning under an unseen pressure. The screaming pain in her muscles redoubled until she gasped but she didn’t let go. Her skill fought against a spell and, eventually, the spell fizzled.
+
+Marruk was left a panting, sweaty mess. She stared across the last of the field beyond the charging armored commander bearing down on her, to the shaman who had one foot lifted for the next cast.
+
+Would be nice if… ah, there it was.
+
+An arrow crashed into the bone helmet. The ceremonial coif attempted to stop the steel broadhead arrow and failed miserably. Part of her scalp flew off in a spray of bone and brain matter.
+
+Marruk stretched her shoulders while the warchief hesitated, aware of the reinforcements now attacking from another angle.
+
+“Here I come!” Koro bellowed with that persistent smile.
+
+“No,” Marruk bellowed.
+
+He was hers.
+
+“Then good hunting, sister,” the temple guard guffawed before charging into the fray. The Kark mangled the tribal line, steel against fur, warriors against hunters, with predictable results.
+
+“Right. Come at me then.”
+
+The steel-clad commander accepted the challenge. They approached each other. He extended his arms, daring her to make the first strike.
+
+Marruk smashed her flanged mace into her enemy’s flank with satisfaction. He grunted in pain. His eyes shone red, and he struck her back even harder.
+
+Marruk received the blow on her shield.
+
+She struck again, denting the armor on the chest, then damaging the articulation near the shoulder. He roared and let fury increase his strength. His hammer slammed against her shield.
+
+Again, she received it at a proper angle.
+
+A few more strikes followed. It was clear the man was gaining strength as he got more wounded, a valid strategy, but as Marruk saw him from behind her visor, it had a very clear limit.
+
+Mainly, Marruk had sparred with Solar himself. Hell, even Lorn hit harder and he relied on precision and on infusing mana into his blows. The warrior might be strong but it was a strength that had not forged itself against the crucible of talented elites. It was brittle and untested, and Marruk was anything except that. So she broke him apart, piece by piece, starting with the armor, then his right arm, and once he failed to block; his head.
+
+That was it.
+
+As Marruk looked up, she realized she had failed to order her men. Instead, she had focused on being a champion and it… had worked. The tribesmen were on the run, the bodies of their combatants littering the ground.
+
+“Nicely done,” Koro said.
+
+“THE ANCESTORS MUST BE PLEASED,” some screamed.
+
+But Marruk didn’t feel pleased.
+
+“Why are you lot still here? Why are you not freeing the prisoners?”
+
+“Relax, Cerus is on it. We’re covering this angle. Come on.”
+
+Marruk left the bodies unplundered with middling regret. She didn’t have the time but old habits were hard to shake, especially after being poor most of her life. The last of the slaves were being freed as she approached. In the distance, wardrums rang.
+
+“They’re regrouping,” Koro said. “They'll be on us very soon.”
+
+She winced.
+
+There was one cage left to open, slightly deeper and to the side compared to their entry point into the village. Unfortunately, they were out of time.
+
+“Neriad doesn’t encourage suicidal charges. It’s just a shame…”
+
+Cerus was the palest among them.
+
+“We’re still missing… but if we get caught with my kinsmen now… We can’t defend them all.”
+
+It was her decision, she realized. She led this warband.
+
+The right choice was to leave. She was no Bitter Heart. Seconds slipped between her fingers as dread mounted.
+
+‘Leave no one behind’. That was something Viv often said. The Harrakan military had the Bitter Hearts. This expedition had her. There HAD to be a way.
+
+Her eyes traveled up, to the hut though to be fair, it was more of a massive longhouse.
+
+The hut made of dry wood on a warm spring afternoon.
+
+Oh, that could work.
+
+“Get me torches. We’re gonna save them, but first, let’s give the tribe a warm reminder not to fuck with us. And something to keep them busy.”
+
+“I have a skill that can help,” Cerus offered with a concerning level of enthusiasm.
+
+“Let’s burn shit down!” Koro exclaimed.
+
+At least she could rely on humans to be humans.

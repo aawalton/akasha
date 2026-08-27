@@ -1,0 +1,201 @@
+---
+id: 4f02fe98-ea3c-512c-88d5-d3b35ad2b70f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3: Bloodlust"
+slug: 0003-chapter-3-bloodlust
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 3
+ownLength: 2434
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-progfan-slice-of-life/chapter/3731671/chapter-3-bloodlust"
+royalRoadId: "3731671"
+---
+
+“I can finally get some rest after this,” Marina smiled and stood to see the now bloodless floor. It took quite the effort to clean it without staining her own clothes.
+
+“It’s the late afternoon…” She grumbled and glanced at the System, “But I really want some coffee…!”
+
+With that said, Marina turned, making her way to the espresso machine, which silently called out to her.
+
+Knock. Knock.
+
+Marina froze. She looked over her shoulder and gave the door a weary stare. A flickering shadow loomed ‌beneath the door's frame; as it moved, her heart skipped a beat.
+
+Ignorance is bliss, Marina, ignorance—
+
+“Is anyone inside?” A soft voice called out, “Please… I… I need help…”
+
+Devils are experts at disguising themselves, right? This is obviously a trap. Marina stared a little longer before braving herself and looking away. But…what if it isn’t? What if they really need help… like me?
+
+As though reading her mind, the voice came once more.
+
+“Please…” It was barely audible, and if they said anything else, then Marina didn’t hear it. Though she did hear the thump of a heavy object hitting the ground.
+
+Ahhh. Fuck it. I am just going to hope that it’s not some horror beyond comprehension lying outside.
+
+Marina rushed to the front door, removed the latch, and pulled it open in one swift motion. She lowered her gaze to find… a woman. Probably in her late twenties? Did people in this realm age too? Not the time.
+
+“Are you alright?” Marina tapped the young woman’s shoulder, only to receive silence.
+
+She was still breathing, judging by the movement of her chest, albeit very faint movement.
+
+Marina carefully raised the woman upright before finding an effective hold to lift her. She was wearing a black hooded robe, which was strange, but it made carrying her easier. Not that Marina needed much help; the stranger was light, a little too light.
+
+There was a shiny object resting on the woman’s cheek, glistening with a bright glare as Marina brought the stranger into her new home.
+
+Out of curiosity, she took the time to examine the stranger's face. Her chapped lips and slightly wrinkled skin certainly weren’t a good sign. Especially when paired with a face so pale, Marina could’ve mistaken her for a corpse were it not for the breathing. There was something golden between her gray locks; some kind of earring that screamed nobility hanging from the woman’s earlobe. It was beautiful, in more ways than Marina could describe herself.
+
+Quickly, she snapped her attention away from the earring and focused on getting whoever this was to one of the beds upstairs.
+
+“I need…” the woman whispered with what seemed to be the last of her strength.
+
+Marina carefully placed her on the bed with utmost care that she hoped was gentle. Leaning closer with her face just a few inches away from the stranger, “What is it you need?”
+
+“Some blood…” The young woman raised her arm with much struggle, her voice growing so low it barely came as a soft whisper, “Please…”
+
+Immediately, Marina faltered backward. It was an instinctual action, one which she could not control. Anyone would've done the same, right? If it were water, she would’ve grabbed a cup without hesitation, but the thought of offering her own blood made her stomach twist.
+
+What is she? A vampire? She was curious, no doubt about it, but still, she kept her distance.
+
+After giving it a thought, Marina hesitantly asked, “H-how should I give it to you?”
+
+“Climb onto the bed…” The young woman gestured. “And lay beside me…”
+
+Marina widened her eyes, her mouth opened, as the first sentence slipped from her lips. “Heck no! You’re going to kill me and then feast on my body!”
+
+“If I wanted to kill you… you would’ve died at the door…” The young woman said with a few coughs in between, “Please… I won’t hurt you…”
+
+Ugh. Fuck it. The System admin suggested that I needed companionship. If I survive this encounter, I can maybe have someone native to this realm to talk to.
+
+She didn't quite trust the denizens of this place, but rather, the system itself. Surely, it wouldn't let her ‌die this early, right…?
+
+She sighed. “Fine.” Then, hopped to the other side of the bed. “What now?”
+
+“Lay down… lay close to me…” The young woman turned to face Marina.
+
+Without a thought, Marina rested her head on the same pillow as instructed, her heart beating louder as the distance between the two of them closed. From here, the white-haired woman's breath grew warm, each breath shallow, yet brushed against Marina's cheek like a gentle breeze, carrying with it a sweet fragrance.
+
+“Like this?” She asked, resisting the urge to turn away as a wave of warmth flushed her cheeks
+
+“Yes… Thank you…”, The young woman nodded quietly. She lowered the hood of her cloak, revealing the cascade of long, silky white hair. For the first time, she opened her eyes, revealing a pair of dark-crimson pupils, glowing like gemstones resting against the sunlight. “What is your name, my dear?”
+
+“I-it’s Marina.”
+
+“Such a gentle name…” The young woman stared right into Marina’s eyes. “I will draw blood from your neck, there will only be a split moment of pain before the venom of my fangs takes effect.”
+
+“I’m going to be poisoned?” Marina jerked her head upwards from the pillow.
+
+“Worry not. It is only a numbing agent, it will do no harm.” The young woman said with ragged breath.
+
+Marina lay back down. Having made it this far, she wasn't going to quit now. “Don’t make me regret this.”
+
+“Thank you…” The young woman pulled herself closer to Marina; her sharp fangs could wait no longer for this gluttonous feast. “If it’s too much, feel free to hold onto me.” She opened her lips and inched forward, close enough to be on top of Marina's body. Marina kept her eyes shut, too afraid to look at the young woman’s crimson eyes, or what she was about to do. Her arms wrapped around herself in a silent act of retaliation against the violence she granted upon herself. The young woman's soft lip pressed gently against the skin on her neck, warm and moist in more ways than she could describe. Unwillingly, a hollow gasp slipped from Marina's mouth, and as she pursed her lip in protest, a prickly pain followed. Heavy breaths, and the drums of her heartbeat were all she could make out under the darkness of her own eyelids. But soon, the pain swept away, replaced with a chilling relaxation that ran down her body.
+
+It was rather calming, very much like the effect of sleeping pills.
+
+Marina unclenched her fists as her breathing slowed to a steady rhythm. An odd drowsiness washed over her feeble body even though it was only the afternoon. She slowly opened one eye to see the young woman savouring every last drop of blood running down her neck, the liquid radiant with a crimson glow like that of rubies. The sight was disturbing, and yet, she did not falter. Marina was content with what she was seeing, as she had decided to help the stranger. There was just one thing keeping her from drifting away into a slumber.
+
+“What… is your name…?” Marina asked gently, her voice lowered just barely above a whisper.
+
+The young woman pulled away, licking her lips as she did so. An amusing smirk cracked through her pale face. She leaned next to Marina’s ear. “It’s Hecate, my dear.” She whispered. “My name is Hecate.”
+
+*****
+
+“Mmm…”
+
+Marina turned to her side, grumbling about something or another related to the tyranny of cheesecakes. Then her memory caught up with her thoughts. Her eyes shot open. The first thing she registered was the woman sitting next to her bedside. Or rather, that was the only thing she registered.
+
+“Ahhhh!” Marina leaped off the bed and fell on the floor on her bottom, scrambling to get away from the stranger. “I already gave you my blood, what else do you want from me now?”
+
+“Nothing, I decided to watch guard while you slept with the front door open.” Hecate chuckled in amusement, “Though your reaction concerns me more than your lack of awareness. Do I really appear to be terrifying?”
+
+“I’m just… not used to people in black cloaks knocking on my door and then asking for my blood.” Marina stood by the bedside. “How long was I out?”
+
+Hecate looked down at a pocket watch she pulled from a small satchel, the size of a handbag, “Only a few hours.”
+
+She rose from her seat to take off her cloak, placing it on the handrest. Beneath it was a rather dazzling white dress that made Marina question the waistline required even to wear it, and the condition of the young woman’s skin was leagues ahead of where it was when she acted half-dead. Her beauty was splendid, like a clear lake surface reflecting the spring sunglow.
+
+“What about now?” The young woman pushed her hair behind her shoulder. Her appearance was truly otherworldly. Perhaps the cloak had concealed much of that previously, but now that Marina looked at Hecate once more in its entirety, a hollow gasp slipped from her lips.
+
+“Better than before.” Marina broke away from her mindless stare. “You said your name was… Hecate?”
+
+“Indeed.” She pinched the side of her dress with both hands and bowed slightly. “A pleasure to make your acquaintance.”
+
+Marina narrowed her eyes as she hesitantly inquired, “And you’re a vampire?”
+
+“Indeed,” Hecate smiled, “And I assume you’ve just arrived in the Underworld?”
+
+“How did you—”
+
+“Based on your kind, but naive gesture from earlier as well as—”, Hecate pointed to the crystal tablet sitting on the nightstand,“—Redeemers like yourself are issued these devices as a support mechanism.”
+
+Marina took a seat on the soft bedding. “So there are others like me here?
+
+“Naturally.” Hecate nodded, “Plenty in fact. People like yourself land in this lovely realm to ‘redeem’ themselves. Live a life they wished they had lived as mortals. Some succeed, some don’t. Do you mind sharing what desire it was that brought you here?”
+
+“I want to…” Marina whispered, but Hecate seemed to hang on every word. “I want to open a bakery.”
+
+Hecate paused, then giggled.
+
+“Apologies,” she said. “That is no easy feat in the Underworld. Sweets are a luxury that most cannot afford in this realm.”
+
+“So it’s hopeless then.” Marina slouched.
+
+“Oh, don’t mistake me. It certainly isn’t unfeasible, just rather difficult. Though the help of a marvelously charming vampire certainly would speed along the process.”
+
+“And why would you help me?” Marina gave her a wary look.
+
+“A sign of gratitude.” Hecate smiled. “Though…I do have a rather small request.”
+
+“What request?”
+
+“Nothing dramatic, I simply need…a stable food source.”
+
+Marina stared at her, then shifted her gaze to the very blood-stained pillow, then looked back at the vampire.
+
+“Don’t worry, I won’t take more than what I need, my dear,” Hecate reassured. “So, what do you say? It’s not every day that you see a fine vampire lady such as myself offering my body to the service of someone such as… yourself.”
+
+Only if I had started with something other than a peasant. Marina rolled her eyes. I wanted to open a bakery for the exact reason that I can do what I enjoy without being looked down upon. But look where we are now… She let out a sigh before meeting Hecate’s gaze. “Fine.”
+
+“Thank you for your kindness.” Hecate reached for a handshake. “I, Hecate, hereby declare myself to assist you, Marina, in the pursuit of total domination over The Underworld’s entire baking industry.”
+
+“Wait, hold up!” Marina yelped. “The entire baking industry? Since when did I say that?”
+
+“Where is the fun in being mediocre? You’ve been offered a new life. Why not reach for the top of the world?”
+
+“That’s cool and all, but you do realize this building doesn’t have an ounce of flour to its name?”
+
+“So? If there is no flour, then we shall simply create flour! Empires aren’t built overnight.”
+
+I doubt anything can change this woman’s mind. Marina walked around the bed to shake Hecate’s hand.
+
+A churning sensation suddenly jolted through her arm to her chest. “What did you do?”
+
+“To guarantee the fulfillment of our wishes,” —an ominous presence shadowed over Hecate’s smile— “I have crafted a contract for the terms we have agreed upon.”
+
+“A… contract?” Marina stared.
+
+“Indeed. Should either of us violate the terms, their soul shall burn beneath these brimstone lands for eternity. And of course, just like all contracts, they are bound by the passage of time. Once you have reached the top, we will both be freed from its shackles.”
+
+“The top…?” Marina dropped to her knees. “I have to get to the top to break this…”
+
+Streams of tears flowed down her face. She thought she had already paid the price of companionship at her pillow side, only for there to be an accumulation of interest. Through her career, she reviewed many contracts before, but none had brought her to her knees like this one.
+
+Hecate knelt calmly in front of Marina. “The journey ahead may seem treacherous.” She wrapped her arm around Marina. “But you don’t have to sail on the stormy seas alone.”
+
+“I…” Marina tried to push Hecate away, only to find herself in a warm embrace.
+
+“The quicker you grow your dominion, the faster our contract expires.” Hecate gently caressed Marina’s hair. “Unless you really enjoy being my—”
+
+“No, I don’t!” Marina growled.
+
+“Seriously? You know how many young men would beg to become my nutrient?” Hecate teased with a soft giggle. “But that is of no matter to me.” She stood before extending Marina her hand. “Let us enter the gates to the realm of sweet delicacies, and show the world our capabilities.”
+
+Marina’s eyes shifted to Hecate’s somewhat skinny fingers. Her skin was as clear and white as the reflection of sunlight on a frigid land of snow. And yet, when Hecate held her a moment ago, all Marina felt was the warmth of spring and not the chill of winter.
+
+It was all too late for her to grieve now. From here, moving forward was her only option, as she was a stone tossed down a hill.
+
+“Not like I have any other choice—” She grabbed Hecate’s hand and lifted herself from the ground.
+
+“...”

@@ -1,0 +1,219 @@
+---
+id: 48af51c6-2c20-5055-a386-175d095fcf42
+page-type-slug: story-chapter-royal-road
+title: "Chapter 36: Stew and Suspicion"
+slug: 0036-chapter-36-stew-and-suspicion
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 36
+ownLength: 1170
+unit: words
+publishedAt: 2025-09-23
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2623410/chapter-36-stew-and-suspicion"
+royalRoadId: "2623410"
+---
+
+PoV Luna
+
+Luna blinked awake with a snort, muzzle still buried in Syl’s pack. Her belly grumbled, loud and long.
+
+Tail flick. Ears perk.
+
+She yawned and shook the sleep away.
+
+Looked blearily at her new pack camp.
+
+Oh right.
+
+She had done a job. A big one!
+
+Killed the tree-thing, dragged dum-dums through the woods, guided them well, and kept the ugly on her snout. All of that meant only one thing.
+
+Soup debt. Time to collect!
+
+She hopped up, shook her fur free of stray moss, and barked toward camp with authority.
+
+“Gib spice!”
+
+Several heads turned at once. Veric dropped his spoon into his half-filled bowl, eyes wide. Sepio flinched as though he had been smacked.
+
+Perfect! Attention secured.
+
+Nose twitching, Luna trotted straight toward the smell of broth. Fat. Salt. Heat. Spice! The air dripped with promise. Her jaws parted, drool already ready to gush out.
+
+The night wrapped close around them now. Shadows stretched tall. The moon poked silver fingers through the trees. Its touch brushed her pelt – soft, cool, sharp, and oh so very nice.
+
+Her fur bristled. Her chest thrummed.
+
+The silver hum rose inside her, coiling from paw to fang. The moon called, and her body answered.
+
+【Lunar Form – Activated】
+
+Poof.
+
+The fur receded. Paws stretched. Bones shifted slick and quick, until she stood tall on two legs. Smooth skin, messy silver hair, sharp little teeth showing in a grin far too big for her face.
+
+Luna was Human(?) again!
+
+Her eyes glowed golden. Her hands flexed. And then–
+
+Victory!
+
+She reached into the pile of supplies, grabbed the jerky Syl had left out, and tore into it with both hands. Chew, rip, bite. Salt stung her tongue, fat clung to her lips, and the taste of spice filled her belly.
+
+And did not hurt her belly!
+
+Amazing!
+
+Tail wagged in satisfaction, the strength of the movement wiggling her hips in satisfaction. Luna grinned around a mouthful of meat.
+
+The whole camp stared.
+
+She chewed slow, on purpose, golden eyes glittering as if to say: yes, she owned this forest, this food, this pack of dum-dums!
+
+And she barked again – this time in words, with all the confidence of a wolf who knew she had earned every bite.
+
+“More soup!”
+
+Syl turned to her at once. The elf’s eyes lingered on the jerky Luna was happily chewing through, and then on the pup-turned-girl’s far-too-proud grin.
+
+“Good evening,” Syl said, her tone smooth as ever. Calm on the surface, but Luna’s ears twitched at the hint of not-calm underneath.
+
+Luna grinned wider, cheeks bulging with meat. She raised her half-chewed prize like a banner.
+
+“Evening spice, Second!”
+
+Syl blinked.
+
+“...Second?”
+
+“Second-in-command,” Luna declared, pointing the jerky stick at her like a royal decree. “Of pack!”
+
+Syl’s mouth opened. Then shut. Her expression smoothed, the faintest shadow of a smile breaking through. She accepted the title without protest.
+
+Luna wagged smugly. Good Second. Clever Second!
+
+Then boots scraped against dirt.
+
+Sepio stepped forward. His scent ran sharp – nervous sweat, clunky armor, and guilt. Luna’s eyes narrowed instantly.
+
+He had something behind his back.
+
+“Um…” His voice cracked faintly. “I may have been too quick to judge before.”
+
+Luna tilted her head, chewing slower, eyes locked on him.
+
+Sepio cleared his throat and pulled a pouch forward.
+
+Jerky!
+
+Luna’s eyes widened. She flicked her gaze from the pouch, to Syl, back to the pouch again. Mean before, but giving jerky now? The dum-dum could learn!
+
+Her tail twitched without her input.
+
+Then – snatch! The pouch vanished into her hands.
+
+“Accepted!” she barked, grinning as she stuffed another strip into her mouth. “Gib spice, is nice!”
+
+Forgiveness through food. That was the way of the world!
+
+Or so Luna strongly believed! And there was nobody out there who could convince her otherwise!
+
+Hmph!
+
+She chewed happily some more, her bright eyes looking on.
+
+Sepio sagged, relief pouring off him. Luna ignored him, swinging her legs from the log she claimed, eating on. Her golden eyes sparkled, smug and content.
+
+Jerky made everything nice. And gifts of food made forgiveness easy!
+
+Her pride was restored. Pack balance secured.
+
+Luna was content and ready for more!
+
+Syl approached again, this time holding a bowl. Steam curled into the night air, spicy and rich. And full of… stuff?
+
+Luna’s nose twitched hard. Her whole body leaned forward.
+
+Soup.
+
+No… not soup?
+
+It smelled almost like soup, but stranger?
+
+Heavier. A different kind of spice clung to the steam, earthy and sharp, making her nose wrinkle and her stomach growl at once.
+
+And she recognized the meaty chunks in! It was the deer she brought in!
+
+She blinked, peered into the bowl, then back up at Syl with wide glowing eyes.
+
+“…Soup?” she asked hopefully.
+
+Luna stared into the bowl.
+
+Thick. Meaty. Chunky.
+
+Steam curled up into her nose, rich and strong. Piggy. Deer. Rabbit. Even a hint of squirrel. Her hunt was in there! She sniffed again, drooled a little, and clutched the bowl tighter.
+
+“What dis?” she asked, golden eyes wide, drool pooling in.
+
+“Stew,” Syl said, calm as always.
+
+Soup. But bigger. Better. More!
+
+A slow gasp escaped Luna’s lips.
+
+“Stew…”
+
+She slurped fast, then chewed, then bit clean through a potato chunk as if it were a fat meatball. Flavor burst across her tongue.
+
+Delight!
+
+Her legs swung against the log, sauce smeared across her cheeks, eyes glowing brighter than the moon.
+
+This was it. Peak reward.
+
+Apex food!
+
+Her second bowl arrived before she had finished licking the first. She devoured it nearly as fast, enjoying each bite a little more now! Her tailed hips wiggling so hard the whole log nearly bounced up!
+
+Slurp. Bite. Gulp. Triumph!
+
+But just as her tongue curled to claim the last drop, Syl’s voice slipped through the haze. Calm. Far too calm.
+
+“How does your transformation work?”
+
+Luna froze mid-lick.
+
+Then licked anyways.
+
+Her ears twitched. Her jaw stilled. Her eyes darted up.
+
+Big question. Big Luna thoughts.
+
+She stared into the empty bowl, mind rattling between answers. Then her grin snapped back, confident and proud in her answer.
+
+“Need moon. And mana!”
+
+Yes. Perfect answer. That was the truth. Clear. Simple. Smart.
+
+Luna bent her head and went right back to polishing the bowl, licking every corner until it shone.
+
+But then…she felt a prickle.
+
+Her tail itched with unease. Her ears flicked nervously.
+
+Her fur stood on end.
+
+Syl was watching her very carefully. Not smiling, or laughing. Not even frowning. Simply… looking. Her eyes sharp, her quiet too quiet!
+
+Luna’s ears twitched again.
+
+Why was Second staring like that?
+
+Her paw – no, hand – stilled halfway to her mouth, as she was intent to lick the few remaining precious stew drops up. A bad feeling crept under her skin, chasing the warmth of stew away.
+
+She licked the bowl one last time, slower this time, and peeked up at Syl again.
+
+Uh-oh.
+
+Luna had a bad feeling about this!

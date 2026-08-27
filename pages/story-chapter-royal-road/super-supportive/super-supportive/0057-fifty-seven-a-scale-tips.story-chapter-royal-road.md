@@ -1,0 +1,273 @@
+---
+id: aa6eedfb-69e9-5b68-a2b6-e0e747266c34
+page-type-slug: story-chapter-royal-road
+title: "FIFTY-SEVEN: A Scale Tips"
+slug: 0057-fifty-seven-a-scale-tips
+partOf: super-supportive
+position: 57
+ownLength: 3776
+unit: words
+publishedAt: 2023-07-26
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1289969/fifty-seven-a-scale-tips"
+royalRoadId: "1289969"
+---
+
+When Alden woke from his initial healing session, he hurt like hell.
+
+Rrorro had knocked him out with a spell while she worked on him. It was her main magical pain relief method, but she couldn’t safely keep him under indefinitely. And whatever overkill mind-altering drug LeafSong had given him had finally worn off at that point.
+
+Very apologetic, the icorlax gave him something that worked about as well as an aspirin and explained that some of the wizards were trying to track down and/or brew serious, human-approved meds.
+
+Being healed was a process. She’d knock him out again soon. Until then, Alden got to feel all of the damage.
+
+Stress fractures, broken ankle, broken toes, swollen knees, torn muscles, missing skin, missing nails, giant oozing sores on his ribs and back…
+
+He’d been in bad shape before he took the magic pill. Being desperate and unable to register pain had kept him going long after nature would have made him lie down, but it had also let him demolish himself.
+
+Rrorro explained that she’d used their first healing bout to deal with the strain on his heart, his dehydration, and his dust-abraded eyes and lungs. All great choices, in Alden’s opinion.
+
+But even though he understood, it was still disturbing to see himself looking like an infected, broken, and partially-skinned monster. The healer left to rest for a couple of hours, came back, and Alden went under again.
+
+He woke up completely pain free and feeling like he had solid-ish bones. The med room was full of way more equipment than it had been when he’d first arrived, and he had a couple of IVs.
+
+Kibby came in shortly after that for what was apparently her own second healing session. She wanted to sit in a chair right beside Alden’s bed, and since Rrorro didn’t mind, Alden had a front row seat he was not prepared for while the icorlax literally chopped away patches of corruption damage from Kibby’s hands and arms and then slowly regrew clean flesh in its place.
+
+He tried not to freak out about how awful the process looked. Especially since he was the only one bothered. Kibby had accepted pain killers but refused sedation, and she and Rrorro were having a relaxed and informative discussion about Artonan biology while the healer worked.
+
+Watching the healing did make Alden wonder about how powerful the other Avowed was. When Stuart’s foot had been blown up, there had been tons of wizard-doctors in the operating room at the hospital to patch him up. Admittedly that had been extreme damage to a whole limb, but Rrorro seemed to be working really fast and without too much strain to fix him and Kibby all by herself.
+
+The third time he went under and came back, he woke with fresh skin on his feet and the other places he’d needed it and a different set of IVs. The new skin was tender, but he was really glad to see it there.
+
+All in all, Alden was in and out of consciousness for what he thought was around six days. He could have asked for the precise number. It just didn’t seem that important.
+
+Physically, he went from feeling like he’d been run over by a vicious lawnmower to feeling incredibly well. Every time he thought the healer was done with him, she would reappear and ask for permission to knock him out and improve on something else she’d found. Sometimes when he groggily came to, he saw her watching medical lectures on a tablet in her own language.
+
+When he asked her about it, she eagerly told him how very exciting it was to “deeply explore the cells” of a new species.
+
+Alden was surprised to learn that the Systems often picked up slack when it came to an Avowed doing cross-species healing. Rrorro’s skills and spells were something she didn’t even have to think about when it came to Artonans or her own kind, since they’d been designed specifically to handle them. And it sounded like she’d enhanced herself with other species-specific healing options as she developed her talents.
+
+But she had not anticipated meeting a human.
+
+With a new kind of patient in front of her and no direct help from a System, she said she was enjoying the added challenge and artistry of fixing him.
+
+On around the sixth day, she started talking about what percentages of his body fat should be stored in various locations, and Alden concluded that he was not being healed back to what had been normal for him pre-Moon Thegund. Instead, he was being brought to ideal physical health for his age.
+
+He assumed Kibby was getting the same treatment. She had been rocketing around the medical room with above-average energy levels lately, and yesterday she’d reported to him that she was growing thirty percent more hair on top of her head.
+
+Alden let Rrorro do whatever she wanted.
+
+She was happy. Kibby was happy. It seemed like the two of them were fast becoming friends.
+
+That was good. The icorlax was smart, and she had a gentleness about her that seemed to permeate the whole room. It was soothing to be in her presence.
+
+Kibby needed a friend like that.
+
+*************
+
+The next time Alden’s eyes opened, he was tucked into the most comfortable bed he’d ever slept in. The sheets were silky and exactly the right temperature. The pillow was lightly and pleasantly scented. And something magical was definitely going on with the mattress. No pressure points. He almost felt like he was floating in dense water.
+
+It wasn’t the medical area.
+
+He let his eyes roam around the dimly lit room, taking in the luxurious furnishings, until they landed on the other occupant. Knight Alis-art’h sat behind a pale wooden desk with curved legs. A three-paneled piece of abstract art on the wall behind her was giving off a soft golden glow, and she was writing with a pen in what looked like an oversized journal.
+
+Something of a rarity. You hardly ever saw Artonans using paper when they had such ubiquitous access to tech and magic.
+
+Kibby wasn’t around.
+
+Kibby was almost always around. She’d stuck to Alden like glue ever since they arrived. The other day he’d woken up and heard a familiar sound from under his bed in the medical area, and when he’d rolled over to check, he’d seen her curled up there, doing her squeaky snore.
+
+No Kibby. Sleeping in the Quaternary’s own room.
+
+So, he thought, it’s today.
+
+He’d been wondering when Alis-art’h was finally going to talk to him. The knight had only come by to see him a single time so far, and their conversation had been brief and stiff compared to the more playful version of her he remembered from the party.
+
+He didn’t know what she thought or felt about him. He was sure he knew what she was going to tell him, though, and the stiffness was only to be expected.
+
+He considered making a sound to let her know he was awake. Just to get it over with quicker.
+
+But…he didn’t really want it to be over with quicker.
+
+It had been fun for the past couple of days. He’d been magically turned into someone ridiculously healthy. He’d met a huge griveck Ryeh-b’t who’d waxed poetic about his skills in hard-surface scouring and multi-species massage therapy. And he’d spent lots of time talking to a Kibby who was happy, relaxed, and unstrained by the chaos.
+
+So instead of calling attention to himself, he lay there quietly, enjoying the comfy bed and listening to the pen scratch against the paper.
+
+It was the only sound other than his own breathing. His tinnitus was gone. He’d asked Rrorro to take care of it, and she’d been thrilled to have a specific target for her attentions. Especially since he wouldn’t let her get rid of the shrapnel scar on his abdomen.
+
+Finally Alis-art’h looked up and realized he was watching her.
+
+“Oh, Alden!” She gave him the smile—the same forced one Hannah had given him when she first realized he was awake inside the bubble. “You’re awake. How are you today?”
+
+“I’ve never been healthier in my life. Your healer is wonderful.”
+
+“She does have the most stellar qualifications. Though when I asked her if she would come along for this assignment I assumed she wouldn’t actually have to do anything…”
+
+The smile fell. She hitched it back up. She had a very readable face.
+
+Or maybe it was just that Alden was comparing her to Joe.
+
+“I’m happy to tell you that we have a teleportation —————— onboard the ship we arrived on. It’s not as good as a Contract-to-Contract teleport, but it’s better than nothing. Now that you’re well, I’m sure you’re excited to get back home.”
+
+Alden was surprised. He’d thought the lie several days ago had only been for Kibby.
+
+It is kind of nice to get one, I guess. If you understand why she’s doing it.
+
+“You don’t have to feel bad about it,” he said, sitting up in the bed. “It’s not your fault I’m dying.”
+
+He wished he could be a little more specific and let her know he actually understood what she’d been doing for him ever since he arrived. But it was Joe who’d told him that this situation could happen, during the conversation covered by the extra-absolute secrecy agreement.
+
+“A scale tips,” the professor had said.
+
+Kibby had begun to existentially stabilize and recover her authority almost as soon as they set foot in the cleansed zone.
+
+Alden had, too. In a way. But he was still falling apart.
+
+He wondered if it had even been the chaos rupturing his skill and his trait during that last day of the long journey, or if that had just been an added disaster on top of the one already taking place within him.
+
+Now that he was out of the corruption, his power felt so strange. The unbound authority was strong again. It was thrilling, amazing. But it was also like some giant bird that wanted to launch itself to new heights, without any regard for the fact that his affixation was collapsing under the force of it.
+
+Alis-art’h had been doing something all this time to keep it in check. She’d been holding her authority over him like a weighted blanket. That and his own efforts to directly repair the damage with his beginner-level control were the only things keeping him from what Joe had once assured him would be “an agonizing death or something much worse.”
+
+The Artonan woman looked stricken.
+
+“You knew?” she said, setting aside her pen. “I would have talked to you much sooner if I’d realized…occasionally, Avowed can sense it when they’re at risk of imbalance and loss of skill assignment. I wasn’t sure about you. I haven’t worked with a human closely before, and everyone is different. At first, I thought you might be able to, since you seemed to feel my brother’s power at that ——————- party, but then you were so calm I decided I must be mistaken.”
+
+“I can feel that something’s wrong.” An understatement.
+
+“I’m told it feels like a —————— dread with no source to those without an Artonan’s sense for it. I’m sorry. That must be awful.”
+
+Alden blinked. That would be awful. What was happening to him was also awful, but at least it wasn’t sourceless, incomprehensible dread.
+
+“It’s not your fault,” he said again. “But I want to talk about it without kind lies. I have questions. What’s going to happen to Kivb-ee?”
+
+She took a deep breath. “Eventually, she’ll be in the care of a cousin on Artona I. Her closest relative. However, that will take some time. The entire Moon Thegund Contract collapsed. We’ll be ——————- an entirely new one. At that point, it will be safe for everyone to teleport in and out again. An ———— for the people who reside here. Something that will vastly improve the quality of their lives. But it will be several more months.”
+
+“She wants to learn magic. And I think meeting a knight was one of her goals, but I guess we’ve done that.”
+
+Alis-art’h gave him the first real smile he’d seen on her face since he arrived. “The two of you are best friends with my brother, I believe.”
+
+Alden snorted.
+
+“It’s even funnier if you know how difficult he is to make friends with. To answer your worry…the girl will be safe and well. Either here with us or with a ———— family until she can join her relative.” She paused. “She is very proper around me now that she is sure I am taking good care of you. I doubt she will ask me for anything at all herself. If you tell me what she wants, I will get it for her.”
+
+Alden had a long mental list of all the things Kibby needed, wanted, and deserved. And he didn’t hesitate for a second in asking the knight for every single one of them. Rather than becoming annoyed by the number of requests, Alis-art’h seemed relieved that he had them.
+
+If Kibby didn’t have some objection, she would be living here in the travel dome for the next several months, having magic lessons with some very talented wizards and spending lots of time with Rrorro. They would help her get in touch with Instructor Gwen-lor, and they would arrange for her future attendance at the elementary boarding school if her cousin didn’t refuse. Alis-art’h said she couldn’t imagine why the cousin would. Sending a child off to wizard school was an achievement for most people.
+
+She would also be able to talk to Joe and the people who had been rescued from the lab.
+
+That was the only request the knight balked at.
+
+“I have noticed her affection for Worli Ro-den,” she said in a frosty tone while she sipped on a cup of tea.
+
+Rrorro had brought first meal and an extra chair for Alden a while ago. He sat at the desk across from Alis-art’h working his way through two giant plates of food.
+
+Healing made you feel like you were starving. His stomach had been a bottomless pit all week. And the icorlax was completely charmed by his diet anyway. She seemed to think it was a pacifistic choice on his part.
+
+Alden forced himself to swallow instead of talking with his mouth full. “Ro-den is really generous to his assistants.”
+
+Kibby had assured Alden Joe was the guy to work for if you were a scientist interested in chaos and demonic energies. It was a field of study often limited to the wizard class, but Joe apparently didn’t enjoy working with other wizards.
+
+“Someone who treats their own species well while behaving as if a member of another one is a disposable tool is not a good —————.”
+
+Role model, maybe?
+
+The knight used more unfamiliar words than Kibby did. He guessed he’d just gotten used to his roommate’s vocabulary.
+
+When what Alis-art’h had said finally registered, Alden’s eyes widened.
+
+Oh, she’s really mad I’m here, he realized.
+
+He’d definitely gotten angry vibes from the Quaternary right from the moment he walked into her dome and collapsed in front of her. But he hadn’t been sure if she was inconvenienced by the presence of two dirty injured people, upset she’d almost crushed Kibby in what appeared to be an intense magical terraforming project, or just upset in general that something unexpected had happened and she’d been ill-informed.
+
+“Ro-den did tell me it was dangerous to pick berries on Moon Thegund,” he said.
+
+It was kind of funny to Alden that he had to keep talking about berries with someone who knew for a fact that he’d been sent here to rescue Joe’s assistants. During his first round of medical treatment, Kibby had described him as Saint Alden the Savior of the Lab to everyone in the dome. After all, she didn’t have any contract tattoos preventing her from telling people the full story. She’d even embellished it a little in his favor before she’d realized that Rrorro was going to take good care of him regardless of whether or not he deserved it.
+
+“Nobody forced me to come here,” Alden added.
+
+The knight’s expression was unyielding.
+
+“I am sure he told you everything you needed to know before you agreed and that he had your best interests at the front of his mind,” she said caustically, slamming her cup down.
+
+Alden jumped. He was certain the cup would have shattered if it hadn’t been made of wood.
+
+“I am sure he did not throw an ignorant young teenager at a problem of his own making like a —————-!”
+
+She’s gonna kill Joe.
+
+“I’m all right,” he said hastily.
+
+“You are literally moments away from dying horribly.”
+
+Alden dropped his fork. He didn’t mean to. His fingers just let go without his permission. He winced.
+
+Alis-art’h’s face paled.
+
+“Uh,” said Alden. “I meant I’m all right…emotionally?”
+
+It wasn’t untrue. He didn’t know why he was okay with the situation, but he was. Maybe it had something to do with the fact that he’d been sure on some level, for a very long time, that he was going to die here on Moon Thegund. He wanted to go home so badly, but it had been ages since he really believed himself when he imagined doing it.
+
+Probably that’s the opposite of being all right emotionally, he thought.
+
+But it didn’t change the fact that he somehow felt like he’d won just by making it here.
+
+The silence that fell in the room was awkward. Might as well lean into it.
+
+“So moments away from death? How many moments? Should I eat faster?”
+
+He tried for a smile. Alis-art’h just sat there staring at him.
+
+“Kibby says my jokes are bad.”
+
+She pushed her plate away from her and sighed. “Not bad. I enjoy ———— humor usually. But it’s depressing coming from an Avowed in your situation. I will remove my protection from you this afternoon. I am not skilled enough to fix what is wrong with you. I would be prolonging things pointlessly if I tried, and I would risk ————- you. There are very few people who might be able to help, and the Triplanets cannot ——— any of them. They are all assigned elsewhere. I…I did look into it…”
+
+Ah. Okay, thought Alden, staring at a small round fruit that looked like a candied apricot. It’s this afternoon.
+
+“The fact that you survived for this long in even a low-level corruption environment at your age and rank shows natural talent,” the knight said. “The same talent my brother detected in you, I believe. But it is not enough to earn you extraordinary help. I am truly sorry.”
+
+“It was already good of you to stop cleaning up the moon so that you could take care of me.”
+
+Alden assumed that was why he hadn’t gotten to experience the daily dirt smashing phenomenon up close since he arrived. Alis-art’h had stopped working as soon as he got here.
+
+“Do not thank me,” she said, looking away from him to stare at a mirrored dressing table. “My kindness is ————. The best thing I could do for you would be to ignore my task here, maintain my ———— on your presence, and travel with you back to Artona I, where the Contract can probably save you. We might make it.”
+
+She still wasn’t looking at him. “But that would take months. Delaying the cleansing of the corruption and the creation of a Contract here, one stable enough to allow all citizens to teleport and receive aid from the rest of the universe, would cost lives. Probably too many to be ————— by your own future potential.”
+
+Alden wondered if he should have specified that he would prefer to have something between the loving lie and total honesty. It did hurt to know there were salvation methods that wouldn’t be used.
+
+“The only recourse left to you is the emergency teleportation option on our ship,” Alis-art’h continued. “It would not be safe for someone as weak as you even under normal circumstances. In your situation, even with the Mother Planet as an ideal and relatively close destination, I do not think you will survive the trip.”
+
+Alden looked up from his plate. “There really is a teleporter?”
+
+She finally turned back to him. “Yes? Did you think I made it up?”
+
+“I thought you were just trying to make me feel better.”
+
+“I was. It’s a bad option. But it does exist.”
+
+Alden felt something stir inside him. He hoped it wasn’t hope. That seemed like a very dangerous emotion at a time like this.
+
+“And the Contract on Artona I can help me?”
+
+Crap. It was definitely hope. He tried to crush it back down, but he felt his heart rate pick up.
+
+“It’s ideal for Avowed to return to their home Contract for skill assignment. Especially in situations like this. But the Mother Planet is the second best choice.”
+
+“That sounds like a good plan then,” Alden said, wondering if he looked excited. He hoped he didn’t look excited. It was entirely the wrong thing at this moment.
+
+You are probably going to die, stupid. You were fine with it ten seconds ago. Focus on the stuff you need to get done.
+
+What was that stuff again?
+
+Kibby would be fine.
+
+“Oh. Yes. Can I make some kind of a…legal request saying who gets my possessions if I die?” He didn’t know if Artonans did wills. The System actually had options for listing your beneficiaries, but Alden hadn’t had the time or the inclination to set that kind of thing up. “I got summoned a couple of hours after I agreed to the Contract, and then I was busy. So I never thought about it seriously.”
+
+Alis-art’h closed her eyes for a moment, and when she opened them again, her facial expression had smoothed into something more neutral.
+
+“I can be the ————- for any sort of contract, magical or legal, you wish to make,” she said. “Naturally I will see to it that your requests are honored.”
+
+Great, thought Alden. Kibby and Boe can have their share of my Argold all at once. But Aunt Connie should probably receive inheritance money in installments.
+
+Jeremy could have Alden’s non-monetary stuff. His parents were rich, and he was the kind of person who got nostalgic over mementos.

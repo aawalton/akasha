@@ -1,0 +1,159 @@
+---
+id: 5bdf56d8-6eb4-595c-9019-36865b9a959d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 657: How Bad?"
+slug: 0079-chapter-657-how-bad
+partOf: system-change-system-universe
+position: 79
+ownLength: 2157
+unit: words
+publishedAt: 2026-06-11
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3526446/chapter-657-how-bad"
+royalRoadId: "3526446"
+---
+
+Chapter 657: How Bad?
+
+Derek chuckled as Brandi snatched up and stored the plate and communication relay into her storage rings since the Time Prison was open and they were currently working. Next, the young smith took off up the stairs. He followed behind as she opened the door to the lobby of the Void Emporium and then opened the door to the outside. She took a deep breath and jumped down a couple dozen feet to the floor of the Time Prison.
+
+From there, Brandi made a beeline to where her mom and Stella were sitting. "I'm going out!" she half-shouted as she approached.
+
+"Going out?" Malorie asked when Brandi and Derek arrived.
+
+"Yeah! We're repairing a teleporter outside. When I finish, we get to leave this place finally, and I can do some real crafting! I'm so excited!" Brandi explained.
+
+"Oh..." Malorie muttered, then looked up at Derek. "Does she really need to go out there? It's not the safest place, is it?"
+
+"I talked with Marrick. It should be plenty safe for her. Plus, I'll keep watch and also keep the Time Prison open so she can escape to it if something comes up," Derek answered.
+
+"Okay, give me a second and I'll come along," Malorie said as she began to get up.
+
+"No," Derek said with a shake of his head. "Just Brandi this time."
+
+"I'm not letting my daughter go out there by herself," Malorie countered, but as Derek prepared to argue, a surprising voice sounded instead.
+
+"It's better if she goes with them alone," Stella said as she took a drink of something. "Protecting one person while she works is one thing, but adding another increases risks that could make it more dangerous for both of you. It's in Brandi's best interest to go alone. It's much easier to protect one person than two."
+
+"Exactly what Stella said," Derek agreed with a nod. "There are a bunch of monsters that aren't hard for anyone out there currently to deal with, but they are still much stronger than anyone we left here in the Time Prison. Though... if you are too uncomfortable with it... we could look for another way—that would mean we would have to spend longer on this planet, and you all would be trapped in this space for an unknown amount of time longer."
+
+Malorie closed her eyes and took a deep breath. Once she let it out, she sighed and said, "You promise that you will protect her above everything else?"
+
+"If something happens to her, then that can only mean one thing..." Derek said.
+
+"What's that?" Malorie asked with a frown.
+
+"It will mean that Silvi, Marrick, me, and likely Jace... have already died," Derek explained. "And if that happens, then you know that there was absolutely nothing else we could have done. But... everyone in here will likely be dead as well... so... there won't be anything to worry about then, will there?"
+
+"That's a bleak way to put it," Stella said. "But I imagine it's the truth." She looked back at Malorie. "You know as well as anyone that Derek will do everything in his power to keep your daughter safe. Also... I don't know how much longer I can stay in this place. I'm beginning to go insane."
+
+"That... is true," Malorie relented, then looked at Brandi. "Be careful. Don't take any stupid risks, and listen to everything that Derek says."
+
+"Of course!" Brandi bounced on her feet with a smile. "I'll have the teleporter repaired in no time! Just wait and see!"
+
+"We're counting on you, girl," Stella said.
+
+"Don't you worry, Miss Stella! I'll have us out of here soon," Brandi smiled brightly.
+
+"I'm counting on it," Stella replied with a chuckle.
+
+"Let's go," Derek said, and they walked off toward the door to the outside and the teleporter. As they approached the exit, they heard Malorie shout one last time to be careful, then they walked outside.
+
+As soon as they stepped out, they were right in front of the broken teleporter. Brandi's eyes went wide, and she looked around with her mouth open in awe. Then she looked up at Derek and frowned. "Is this it?"
+
+"Yes?" Derek answered with a questioning look.
+
+"I was expecting something different," Brandi said. "This is just as bad or worse than some of the rundown villages. Are you sure we're really in a whole different system?"
+
+"You got the new system, so you know it's true," Derek snorted.
+
+"I guess..." Brandi said.
+
+"You're the crafter?" a voice sounded from the side. Derek and Brandi looked over to see Alex standing there.
+
+"Did you not meet her when you were inside the space?" Derek asked.
+
+"No..." Alex replied. "She never came out of the weird building that was in there."
+
+"Oh..."
+
+"That's me!" Brandi smiled. "I'm the crafter. This is the teleporter?"
+
+"It is," Alex answered. "Let me show you what I know about it, then you can take it from there."
+
+"Let's do it!"
+
+Derek shrugged and let Alex take Brandi around the broken teleporter and explain things. He walked over and stood by Amelia and Marrick, but never took his eyes off the girl. After all, he told Malorie that he'd die before he let anything happen to the kid, and that was the truth.
+
+"Everything still looking good?" he asked the two when he reached them. He wasn't gone too long while waiting for Brandi, but they were certainly at a place where things could change in an instant.
+
+"Yeah," Marrick replied. "Still just a ton of random movement underground."
+
+"Nothing much in the sky," Amelia answered. "Killed a new bird-like creature that was buzzing around while you were gone. That's about it."
+
+"New monster?" Derek frowned. "That we haven't seen before?"
+
+"Yeah," Amelia replied. "It's weird, but we haven't seen a lot of those striders either, so it's not really that weird. Especially since this place was probably known as the lair of the World Boss. I bet not many creatures come around in general. And the bird was weak enough that I was able to take it out without much of a problem."
+
+"Oh..." Derek replied. "Okay," he said. "I guess Edgar and Jace are still out playing whack-a-mole... uh... taking out the worms as they spring up?"
+
+"Yes," Amelia said. "I'll keep patrolling the skies while we're here, though, just in case."
+
+"And I'll continue to listen to the ground," Marrick said.
+
+Time passed as Derek watched over Brandi and Alex while everyone else was on the lookout for any dangerous enemies. Throughout the first day, Marrick and Amelia ended up taking care of a few bigger creatures that showed up—likely because the World Boss wasn't nesting there any longer. At the same time, Edgar and Jace continued taking out the larvae that would spring up.
+
+The smaller worms were so active—even though they were completely random—that the speed at which they surfaced was enough to allow Jace to keep his Battlelust at a relatively stable spot. With his Battlelust stabilized at somewhere midrange, he was even able to use his movement skill and do some fighting when something came in from above.
+
+Derek did notice that the number of monsters coming over was continuing to increase as time went by. Before, other than the larvae, other creatures were coming in with large chunks of time in between, but after a day, it wasn't even half an hour before the next creature came. Sometimes, they would get more than one at a time, too.
+
+"How are the repairs coming along?" Derek asked Alex since he didn't want to disturb Brandi while she was in the zone.
+
+"Your little crafter friend is talented, that's for sure," Alex replied. "Even at such a low level, and without the higher-leveled runesmithing and other crafting skills, she is still able to identify patterns and runes and essentially 'plug' holes in them. It's something I've seen done—and much better—before, but that is by higher-level crafters or even some spatial mages. Never have I seen it done by such a young crafter with so few skills and levels."
+
+Derek didn't correct Alex when he assumed that Brandi had few skills. She actually had a lot for her level because of the type of class she had. But the young man wasn't wrong about anything else. Once again, her dedication to her craft continued to impress. Even though it was taking her a long time to patch things up, at least it was seriously looking like she was going to be able to get it working.
+
+"Yeah, she's pretty obsessed with everything crafting-related," Derek replied. "If she keeps it up, she's going to do great."
+
+"That's for sure," Alex replied with a nod, then looked up at Amelia, kicking a monster in the face—sending it directly at Marrick and his new sticky sand. The sand halted the creature's movement instantly and tightened around it. Marrick peeled the sand away from its head, then Amelia came in with another flying affinity-boosted kick and blew its head off. "They work really well together," Alex said.
+
+Derek glanced at his friends for a split second before focusing back on Brandi and her immediate surroundings. "Yeah, they're both pretty good," he agreed. He glanced up again and saw another sandray-looking monster. Just as he frowned, he felt a little wind, then Jace was standing beside him—his skin starting to shift pink from Battlelust. "What is it?" Derek asked.
+
+"My Battle Instincts are acting up," Jace said as he looked around.
+
+"Where?" Derek asked as he looked down at his boots—a spare pair that didn't offer any real defense or special ability. His other pair was encased in the sticky amber sludge, and he hadn't taken the time to take them out of it yet. Then, he looked up at Jace and asked, "And how bad?"
+
+"Nothing deadly. They are less than the World Boss and the group we fought," Jace explained.
+
+"But?" Derek asked, knowing his friend was holding something back.
+
+"But it's coming from multiple directions," Jace said.
+
+"Multiple directions? How many?" Derek asked.
+
+"All around." Jace motioned to their surroundings. "At least five, but maybe six or more directions. And they are converging on us." A menacing grin slowly formed across Jace's lips. "This is going to be so fun. Nothing instant-killing, but a lot of fun battles? What more could we ask for?"
+
+"It's not going to be fun," Derek said. "We have a kid out here fixing the teleporter, and we have to protect her no matter what."
+
+"That just means I have to kill faster than they come in!" Jace chuckled. "How is that not fun? That's the most fun. A challenge! Now, I've got to go. I just thought I would warn you." Jace disappeared again, and moments later, he was out fighting the larvae again.
+
+"That doesn't sound good," Alex said.
+
+"No, it doesn't," Derek replied. He wasn't worried at all about anyone around them but Brandi. Yes, she could always go back into the Time Prison and hide to wait out the monsters—or wait for Derek and the group to take care of them all. But if they did that with the amount that Jace seemed to think there was, how hard would it be to keep the teleporter from being damaged more or even possibly destroyed completely?
+
+"Go see how much longer she thinks it will take her to get it activated," Derek told Alex, then called Amelia and Marrick down and informed them about what Jace had just told him.
+
+"I can surround her and her tools with a sand dome, and you can cast your wall that absorbs attacks above her. It will pretty much cocoon her in and allow her to work without worry," Marrick suggested.
+
+"That will be our first line," Derek said. "We'll leave Alex in there with her."
+
+About that time, Alex came rushing back. "She said it wouldn't take long now. Maybe a couple more hours or so. But that's only if she doesn't have to fix the mana absorption portion."
+
+"What does that mean?" Derek asked.
+
+"It means that we won't be able to load it up with mana and then use it, or place a mana stone that it can pull from. Somebody will have to push their mana into it the whole time until the two inside are able to teleport out," Alex explained.
+
+"So you're saying somebody has to stay behind and use their mana to send us away—all the while being in the middle of a monster attack?" Derek asked.
+
+"Yes..." Alex sighed and nodded. "Unless you want to wait another day or two."
+
+"Nah..." Derek shook his head. "I'm not too worried about that. I know the perfect person for the job, and he's already staying behind, anyway. I'm sure he'll just think of it as... fun."

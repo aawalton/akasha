@@ -1,0 +1,103 @@
+---
+id: 6d55b947-f6fb-5dcd-bc19-ccefd457f676
+page-type-slug: story-chapter-royal-road
+title: "Chapter 610: Friendship Bracelets"
+slug: 0178-chapter-610-friendship-bracelets
+partOf: rise-of-the-living-forge
+position: 178
+ownLength: 1522
+unit: words
+publishedAt: 2026-06-17
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3552095/chapter-610-friendship-bracelets"
+royalRoadId: "3552095"
+---
+
+Ida wasn’t entirely unused to feeling out of place. Her mother had dragged her into more than enough situations for some manner of leverage or another that she was more than used to being surrounded by people considerably more powerful than her.
+
+But this was something else.
+
+Arwin alone would have been ore than enough to put her on edge. No matter what kind of kind face the man put on, he was still absolutely monstrous in strength. She knew all too well what he was capable of. But he wasn’t the only one in the room.
+
+Anna was there as well. And if a healer was involved, she got the feeling that things weren’t going to be going to well. Nobody ever wanted a healer invited to a meeting with them. That was just bad omens. Those two alone pushed the threat level from unsettling to deeply concerning.
+
+But then there was Uriel.
+
+The biggest golem that Ida had ever seen, and with enough magical power to make the literal air hum in a wide aura around her. This was not a meeting she wanted anything to do with. Anything that could bring these three together was not something that Ida could see herself having any place being in the same room of.
+
+Is this about my smithy? Have I not been giving enough results? But they haven’t asked for me to deliver anything yet. Madiv has stopped by once or twice to check how things were going, but I didn’t think they were testing me. Shit. Did I do something wrong?
+
+“Relax, Ida,” Anna said with a laugh. “It looks like you’re about to keel over. And keeping you from doing that isn’t the reason Arwin asked me here.”
+
+“I’m relaxed,” Ida said stiffly. “Perfectly relaxed. I don’t have anything at all to be stressed about.”
+
+“Great,” Uriel said. “Then we can begin.”
+
+Begin? Begin what?
+
+“Stop playing with her,” Arwin said with a sigh. “Don’t be rude, Uriel. Not to members of the guild. And Ida — you’re not in any manner of trouble. I’m sorry if it came off otherwise. We brought you here because we actually need your help on a project we’re working on. A very important one.”
+
+Ida was pretty sure her mind sputtered out like a snuffed for a moment. It took her a second to gather her wits.
+
+“What?” She managed, and not particularly intelligently. “Me?”
+
+Probably should have taken more than a second.
+
+“You’re the only one we know who has an expertise in working with small details,” Arwin said. “And we’re about to make an item that is going to need some incredibly detailed inscriptions. I couldn’t think of anyone better than you to do the job. Both Wallace and I are more focused on making big things than small ones. We don’t have the fine skills for the level of precision this will require.”
+
+“You think I’m capable of making anything that you can’t?” Ida managed.
+
+Arwin blinked at that. “I’d certainly hope so. I don’t know what the hell I’m doing. If it wasn’t for the magic in my class, I’d be nothing more than an ape banging two piece so metal together. You have traditional Dwarven Smith training, and you’ve got a specific interest in silversmithing. Right?”
+
+Ida’s mouth worked for a moment before she managed to muster up a very weak, “…yes?”
+
+“Then you can help us,” Arwin said. “We’ll do some practice before we do the real thing. But we don’t have too long. Is there anything you need to get started? Specific tools?”
+
+“What, like, right now?” Ida asked, blinking. “Now now?”
+
+“Yes,” Arwin said. “Now. We don’t have any other silversmiths sitting around, and our problem isn’t going to wait around for us forever. We have to find a way to deal with the Beast in the next few days.”
+
+“I—” Ida caught herself. Then her eyes narrowed. This was what she wanted. The chance to actually make something worthwhile. To be more than just a pawn. To make a real difference, not with her political influence as Indrana’s daughter, but as a smith. She set her jaw. “Yes. I can do it. Just show me the patterns I have to learn and I’ll get started on practicing immediately.”
+
+Arwin grinned. “Perfect.”
+
+***
+
+They didn’t waste any time. With Ida onboard, the group had everyone they needed to make the Soul Guardian pair needed to deal with the Beast. Adding anyone else would have added too many potential dilutions into the song… and Arwin was pretty sure this wouldn’t actually need all that much magical energy. Not, at least, compared to the huge amount of power required for many of the Soul weapons he’d created recently.
+
+This task was one of precision far more than strength. And now, all that remained was the hard part.
+
+Actually making it.
+
+Anna immediately set about starting to create the patterns that they would need to link the two pieces. She and Ida made their way over the corner of the workshop. The Infernal Armory formed them a small table complete with chairs to hunch over while they worked out exactly what kind of patterns would be needed to enable her sympathetic magic.
+
+While they worked on that, Arwin begun his own preparations. Daggers were no longer the optimal choice for this item’s purpose. And now that he really thought about it, they really never had been. The guild stole. That was why they needed a weapon. But this item wasn’t stealing. It was more… redistribution.
+
+A dagger wasn’t the right shape for an item that was meant to help rather than harm. And, in the end, he settled on something considerably more fashionable. A pair of linked bracelets. Each of the bracelets would have two interlinked pieces. One would be the core, and the other would be the housing.
+
+Uriel would wear one and the Beast would wear the other. It would be like friendship bracelets.
+
+Friendship bracelets that were going to have enough magical energy flowing through them to eventually kill a Revenant.
+
+Maybe not really so much friendship bracelets at all. But the idea remains.
+
+He’d never made a core in the shape of a bracelet, but Arwin didn’t see why he wouldn’t be able to. Nothing he’d learned about them had implied that the items could only be spherical. A bracelet would also give a lot of surface area for Anna and Ida’s sympathetic magic carvings — and it would be far less conspicuous than having the Beast walk around with a dagger sticking out of the back of his head or something.
+
+But that led to the next question. There were two competing philosophies within this project, and he had to satisfy both of them. The first was making the materials feel as close to each other as possible. That meant things such as making them from the same metal, working them together before separating them, and anything that would allow him to tie their songs together deeply to ensure they would both shatter together when the time came.
+
+The second was ensuring that they could shatter. Making the bracelets out of a very powerful material would make them difficult to break, even with sympathetic magic. The cores would definitely have to be strong.
+
+It was the opposite for the exterior portions of the bracelets that held Ida’s patterns. They would need to be fragile enough to break, but not so fragile that they could break at random. And, if he wanted their destruction to really ensure that the cores also shattered, he would need to have them strong enough to pack quite the punch when they broke.
+
+I wonder if I could somehow intensify the connection between the materials by linking them at the start, then separating them before making the Soul Guardian core. Hmm. I think it might be possible. Maybe I could melt them into a contained ball at first, then separate the components? It would be impossible without using the song… but I think it could be doable with sufficient magical energy.
+
+I’ll just need to use some materials strong enough to have pretty influential desires. I won’t be able to do this without the actual components helping me.
+
+And so he got to work. There were quite a few very expensive materials within the Infernal Armory thanks to their auction, so he had no shortage of different metals and components to set about interviewing. Somewhere among them would be the pieces he needed.
+
+He was confident this would work.
+
+It had to.
+
+Because in order to make a Soul Guardian that would connect Uriel and the Beast, he was going to need the Beast himself to be present for its creation. The song wouldn’t be complete if half of the puzzle was missing. They could do all the preparations they wanted to now, but they were only going to have one chance to get this right. And if the Beast returned and they failed to deliver what they promised…
+
+The Menagerie would have a war on their hands.

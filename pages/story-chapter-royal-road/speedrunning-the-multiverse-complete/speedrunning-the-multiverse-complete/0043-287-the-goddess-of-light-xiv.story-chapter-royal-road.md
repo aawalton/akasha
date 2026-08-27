@@ -1,0 +1,169 @@
+---
+id: 1d0b3fac-0a08-5c86-a739-cef216f71ce5
+page-type-slug: story-chapter-royal-road
+title: "287. The Goddess of Light (XIV)"
+slug: 0043-287-the-goddess-of-light-xiv
+partOf: speedrunning-the-multiverse-complete
+position: 43
+ownLength: 2010
+unit: words
+ownProgress: 2010
+publishedAt: 2023-08-18
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1314074/287-the-goddess-of-light-xiv"
+royalRoadId: "1314074"
+markedReadAt: "2026-06-29T22:43:09.061Z"
+---
+
+Xalaxia, Pure Jade Realm
+
+Middle Realms
+
+Weeks ago…
+
+When Xinther, messenger of the Jade Emperor, felt the light on his face he thought he’d died and been reclaimed by the Heavens. The trek had been so long—braving three different climes, each perilous in its own nasty way; blasting him with smog, with heat, and, this latest one, a bone-chilling freeze topped off with healthy servings of sleet and chunks of hail the size of fists.
+
+He hardly dared believe it when the weather let up. He’d passed through that evil cloud. He was here, staring up at a sign nailed to an ornate archway.
+
+XALAXIA DOJO, it proclaimed.
+
+Xinther nearly wept. He fell to his knees. His vision blurred, his head swam, his tongue flopped uselessly in a desert of a mouth. Dark spots pocked his vision.
+
+The next thing he knew someone was feeding him soup. There was a warm wet compress on his head.
+
+He spat it out, leapt to his feet, knocking over a few stools and banging his head on the roof of the straw hut. “I have a message! A message from the Jade Emperor!” he cried. “It is of utmost importance—I must see the great warrior Calxx immediately!”
+
+“The Master is in closed door cultivation,” said the monk, placidly wiping soup off his face. “You shall have to wait.”
+
+“This concerns the fate of the Realm—”
+
+“The Master is not to be disturbed,” said the monk, still calm, but there was a hardness in it now. “Certain… recent events… have given him inspiration. He has broken past his final bottleneck, and is in the process of making a breakthrough. He should complete it any day now.”
+
+“A breakthrough to… Empyrean?”
+
+“What else?”
+
+“Heavens—this is excellent news! Fate is with us!” Xinther felt tears prickling at his vision. “There may be hope for the Realm after all!”
+
+Sure enough, when the old Master emerged he radiated the aura of an Empyrean, and no common one at that. In an instant he’d vaulted himself to among the most powerful in the Multiverse. It must have been quite some breakthrough.
+
+Xinther had heard legends of the man, like most locals had, but they failed to capture the majesty of his personage. He found himself momentarily at a loss for words. What a figure! Grizzled and hunched, a little grandfatherly in appearance, and yet his eyes—so deep, belying his lifetimes of wisdom. This was a warrior of legend indeed.
+
+“The Jade Emperor summons you, O Great One!” cried Xinther. “You have been called upon to defend the realm against the invasion of the Infinity! Will you answer the call?”
+
+Calxx was silent for a moment, brooding heroically. His nostrils flared magnificently. His proud upper lip trembled tremendously. And at last he said, “My realm needs me. It is time to exit my long exile. In my time here I have learned much, lost much. Yet one’s power does no good if it does not act for the good of all. When the realm needs a hero, let it never be said that I, Calxx, abdicated my heavenly duty! I accept your call, messenger of the Jade Emperor!”
+
+***
+
+Now…
+
+The beleaguered forces of Jade City, capital of the Pure Jade Realm, steeled themselves for one final defense. The sun was going down, and its cruel red glare made Jez’s hordes look like a sea of angry blood. The walls were cracked to breaking. The wards were running out.
+
+In this moment of crisis Calxx got up on the ramparts overlooking the ragged mess of troops. Their morale was crushed. Their bodies battered. Yet they all stood up straighter when they saw him standing tall and fearless as ever.
+
+“It’s him! It’s Calxx, the Sky-Piercing Spear!”
+
+“Where? Ah, it is! The one who turned the tides at the Battle of the Four Armies!”
+
+“The one who single-handedly held the Pass of Yonx, against ten thousand enemy Gods!”
+
+Calxx did not preen at their many adulations, for preening was the province of egoistical men, and Calxx was no egotist. Still, he let it go on for a few more breaths than perhaps he should’ve. Then he launched into his speech.
+
+“Brave warriors of Jade!” he called. “You see me now, an Empyrean worthy of a top one-hundred ranking. Yet not long ago I was but a God. For centuries I was stuck at the bottleneck to Empyrean, unable to advance. Then I suffered a humiliating, wretched defeat at the Spirit Pavilion—and I sank into a terrible depression. I was forced to question everything I knew. And through it I uncovered the flaws in my art. Through it, I achieved a rebirth! Indeed—friends, our hour may seem dark. But it is in times of greatest darkness that must have faith in the coming of the dawn!”
+
+The troops found themselves nodding along. Some hope was lighting their eyes, their faces, their hearts.
+
+“These warriors of Jez have the numbers. They have the weaponry—the elixirs, the armors, the artillery. They think of us as mere insects to be squashed!”
+
+A rippling of angry murmurs at that.
+
+“But they do not realize we have one thing they can never have. They may fight for money. They may fight for power. But we fight to protect our homeland! Every God of ours fights with heart—heart, the most powerful weapon of all!”
+
+“That’s right!”
+
+“Hear, hear!”
+
+“ I, Calxx, pledge that I will never surrender to these invaders, who would steal our realm, sully our honor, and tarnish our liberties! You may bloody my head. You may cleave it off! But you shall never force it to bow! For I am a proud warrior of Jade. And I shall fight to the bitter end!”
+
+He paused to let the hooting and the cheering die down.
+
+“Brave warriors of Jade! I call upon you now to join me for this, our final effort!”
+
+Calxx sensed he was on the verge of making history. They would make paintings of this moment, he knew. He lifted his chin, schooled his expression into suitably heroic defiance, and took off his helm so the sun shone on his bare face.
+
+“I shall not pretend I am assured of victory. I shall not pretend that all of us, including me, shall survive. The enemy is many, and strong. Win or lose, I know this: far after we are dead, they shall speak of us, here, in this moment, as the lizardmen who refused to shy away in the face of Jez, when so many others bowed in cowardly shame! So that our children, and our grandchildren, and their grandchildren thereafter shall look to us with starry eyes and say—they, who fought to protect all of our futures when no one else would—they were truly the greatest of us! They make us proud to be lizardmen!”
+
+The crowd’s jubilation was so loud Calxx’s hired painter, who he had stationed discreetly off to the side, dropped his brush. Not on the painting, thankfully. That would be displayed in a museum someday. For history’s sake, of course—not out of something as ridiculous as mere vanity. Vanity, after all, was the province of foppish men, and Calxx was no fop.
+
+The wards were warbling, about to fail. Calxx let a deep breath flow through him, and his eyes shone with battle fervor. It was time. Time to vault his name into the legends. This was his moment—
+
+There! A dark blob in the sky, approaching fast—was it a missile? Were they under attack? It crashed straight through the wards, landing not ten strides from where Calxx stood.
+
+They all watched, speechless, as a… dragonoid?… coughed, brushing himself off, and stood.
+
+“Hello!” said the dragonoid, smiling brightly. “Does anyone here know the way to the Infinity Heart? Wait—hold on—do I know you?”
+
+Calxx had been thinking the same thing. Something about this figure struck Calxx as horrifyingly familiar. But already the figure was turning away, turning to the army massed before them.
+
+“Oh, interesting! They’re carrying the Heart with them so it’ll boost the power of their armies more. I suppose you can channel more qi from it if it’s closer. Not very smart, I have to say. Sure, it might yield some marginal benefits against weaklings, but what if someone of actual consequence comes along? Then you’re caught with your pants down.”
+
+“You!” Calxx jabbed a quivering finger at him. “Who are you?”
+
+“Dorian, at your service. Have we met? Ah! Wait—didn’t we have a duel in the Spirit Pavilion?”
+
+“No!” yelped Calxx. “I have never met you in my life!”
+
+“Oh, nonsense. How could I forget? You were crying so hard you got my fist dirty with your snot!”
+
+A detail Calxx absolutely did not need his tens of thousands of gobsmacked warriors to hear.
+
+“What a funny coincidence, that we should meet again!”
+
+Actually Calxx was finding this deeply unfunny.
+
+“But I’m sure we can catch up later. I’ve got something to take care of first…”
+
+Just then, the wards dropped. Jez’s army poured through blistering fast, roaring and screaming and hurling Techniques.
+
+The dragonoid waved a hand, and their charge slowed to a snail’s pace. Another wave of the hand and their Techniques fizzled out mid-air or splashed harmlessly against the wall.
+
+Before Calxx had fully processed this mad sorcery a flurry of bolts sailed overhead so fast he only saw the trails they left in the air. There was a great shattering sound, like dozens of windows smashed at once; the army froze and started to convulse, leaking gold from their mouths.
+
+“Congratulations, everyone!” said the dragonoid. “You are all free, courtesy of Old Man Fate! I was told to give you this speech…”
+
+Calxx barely heard it over the ringing in his ears.
+
+Jez’s army lay unconscious before them. Every jaw in his own army had dropped wide open. All eyes were on the dragonoid. Even his own damned painter’s, frantically spilling paint over the canvas. Painting over his heroic expression with this dragonoid’s smiling face.
+
+The ringing in Calxx’s ears grew louder.
+
+Was this some mad dream? Where was his glorious defense? His legendary moment? What the Hells was going on?!
+
+“It makes no sense…” whispered Calxx.
+
+And what was that power? What but waves of his hand this creature had neutered an entire army! And this creature was merely an Empyrean, like him?
+
+“It’s not right…” whispered Calxx. After his brutal depression, after his rebirth, his revelation, his unlocking of his true potential, he’d thought he could stand toe-to-toe with the best in the Multiverse.
+
+Now he felt like a toad at the bottom of a well.
+
+This creature’s powers were so far beyond him to compare them to his own would seem a joke.
+
+“Is my kung fu worth… nothing?”
+
+Something in Calxx’s brain cracked. He could only stand and gape as the dragonoid finished up a speech, and gave a bow, and winked at him, and vanished into the void to deafening cheers. The cheers of his own warriors.
+
+He sank to his knees, trembling all over.
+
+As it turned out, he was right. This day did end up etched forever into the history of the Realm of Pure Jade. For generations to come the legends and the textbooks and the songs sung about the campfires would tell of the deeds of a mighty hero, a savior of the realm.
+
+Just not the one he’d been hoping for.
+
+***
+
+Dorian crossed the Pure Jade Realm off his checklist. He checked his hourglass. “Phew! That one went faster than I thought. Ten minutes, eh? I’m sure I can knock out another before the hour’s through. Next up is… oh?”
+
+Fate had strung up a route for Dorian—the most efficient Fate-path through all the godly realms. The next stop was familiar terrain.
+
+Eden. The land of ten thousand Spirit Herbs; if the Millennium Caverns were the armory of the Multiverse, this was the Garden of the Multiverse.
+
+It was also where Malachai, Father of Alchemy, ascended to Godking.

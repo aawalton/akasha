@@ -1,0 +1,275 @@
+---
+id: 03585ee9-3a1d-5d32-bb9a-c7318245d171
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED SIXTY-TWO: Snow IV"
+slug: 0264-two-hundred-sixty-two-snow-iv
+partOf: super-supportive
+position: 264
+ownLength: 3903
+unit: words
+publishedAt: 2025-12-21
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2867262/two-hundred-sixty-two-snow-iv"
+royalRoadId: "2867262"
+---
+
+262
+
+******
+
+Alden liked the Christmas market. In most ways, it was exactly what he’d expected it to be—lots of food, lots of people, lots of places to spend his money. There were plenty of magical surprises because this was Anesidora, but nothing truly astonishing. And yet, bit by bit, the atmosphere worked a human kind of spell on him.
+
+Almost everyone they encountered was happy.
+
+Energetic dancers spun each other around in the tent run by a group called Salsa & Swing. There were people wandering the festival in elf costumes, stamping bingo cards for anyone who wished them a Merry Christmas. Lute only needed to find the elf with the silver shoes to finish a line and earn a prize.
+
+Twice now, someone had heard Alden’s accent, asked him if it was his first year as an Avowed, and insisted he pick an item they were selling to have for free. One woman had even invited him to come for Christmas dinner with her family if he didn’t have anywhere else to be. “You won’t be alone with some strange old bird if that worries you,” she’d assured him. “I have a granddaughter your age, and we usually have a few kids from intake, too. You’d fit right in with the bunch.”
+
+He’d been touched by her offer, and he suspected it had primed his emotions for every other nice thing that had happened afterward.
+
+A ceremony took place every fifteen minutes at the base of the park’s satisfyingly enormous tree, in which globies added a traditional ornament or symbol from their homes, and he found it so moving that Lute asked him if he needed to watch it again. Then there was the kid riding on his father’s shoulders, gleefully shouting that he’d spotted the blue-shoed elf. It made Alden think of his own dad and sent him on a quest through the market in search of a tabletop nativity scene. He’d suddenly remembered that setting one up on a shelf had been something the two of them did together at Christmas.
+
+By the time he and Lute made it to a walk-through gingerbread village populated by pastry chefs made of flesh and blood and waist-high people made of cookie, the mere act of a girl running off in search of more vegan options made him feel loving toward, and loved by, his fellow man.
+
+There are some doors I could walk through, he thought as he and Lute left the last gingerbread house behind, that would let me come back to this market again and again. Most likely.
+
+He could sign up to hang an ornament next year. Maybe one day he would leave his job at the hospital and head over here to meet an older Lute. Or a family.
+
+Some people who would be waiting here for me. Who would be mine.
+
+What would that be like?
+
+He remembered Stuart suggesting he think of home as something he could build in the future.
+
+“Still haven’t found anything for him,” he muttered.
+
+“Your foreign friend?” Lute asked.
+
+He was walking along unencumbered by any shopping since Alden was carrying it all, with only the bags preserved, in his left hand. In his right, he held a gingerbread girl. He bit off one of her arms, and the smell of warm spices filled his nose.
+
+One of the must-have items here was a cotton candy balloon. It was sculpted into the shape you requested by one Avowed, then levitated and given instructions to hover a few inches above its owner’s head by another. Alden had bought one in the shape of a pig for Lute, and now whenever he faced his roommate, he was eye-level with its pink candy trotters. It should float for at least another half hour if Lute managed to keep it out of the wind.
+
+“I thought you included him in your custom gingerbread biscuit order,” said Lute. “Isn’t he getting the turtle frog?”
+
+Alden had ordered Stuart a klerm cookie. He was also getting custom made ones for Esh-erdi, Lind-otta, and Porti-loth.
+
+Porti-loth’s gingerbread man would be painted in chocolate “mud potion”. Lind-otta and Esh-erdi would be getting each other in cookie form, complete with knight uniforms. Alden wondered if the shop would have agreed to make gingerbread generals if they’d realized who Alden was and that he’d be giving them to said generals.
+
+“Getting him food is fine,” he said to Lute. “He’ll like it and be glad I included him in the holiday, of course. But I’ve been trying for a while to think of something more high-effort and non-perishable to give him. Something he can keep for a long time.”
+
+Like the learning cushion.
+
+“Buy him a skateboard like you’re getting Haoyu.”
+
+Alden snorted.
+
+“What? It’s non-perishable. Bet he doesn’t have one.”
+
+“Maybe I’ll keep his Christmas present simple and find the right thing later. Does that sign up ahead say ‘Puzzles?’ Under the Wright flag? Kibby would like a puzzle.”
+
+“You’ve got twenty things for her.”
+
+“Five is not twenty,” said Alden.
+
+Kibby was incredibly easy to shop for. Young enough to like actual children’s toys, unusual enough to be excited by lab equipment, curious about everything and unable to go shopping by herself—it would have been harder to find something here she didn’t want.
+
+He hoped she’d use the huge bag of jelly beans to make friends with other kids, but if she preferred to melt them all with her new pen torch or conduct experiments on them, that was fine.
+
+As they approached the booth with the puzzle sign, Alden caught sight of some of the wares, and his interest increased. There were three long tables covered mostly in puzzle boxes, several of which bore a strong resemblance to the door Alden had broken the enchantment on to get into Apogee Artist Spaces. The Wright was a thin, middle-aged man with a few facial piercings. He greeted Alden and Lute as they approached.
+
+Alden said, “Did you happen to make the door at—”
+
+“Just a second, kid,” said the man. He turned away from them and hurried over to the table along the opposite side of his booth to greet a woman who’d just walked up. “Hello! Interested in one of these? These are my Wrightwork.”
+
+She had A-rank Adjuster displayed on her name tag. The man started talking more quietly after his initial greeting, and Alden couldn’t make out everything he was saying, but he didn’t seem to know her.
+
+“Did this guy really just drop us mid-sentence?” Alden said.
+
+Lute picked up a ring-sized box with a heart made of tiny jigsaw puzzle pieces on top. “He did. Isn’t it great? Our masks and our refusal to tag ourselves make us boring teenagers who probably don’t have any real intention of buying his most expensive pieces. The stuff over here on this table isn’t enchanted. But the box he’s showing that Adjuster costs twelve thousand. And he’s telling her that it only opens for the owner. Anyone else who tries to solve it will develop a compulsion to keep solving it…so it’s effectively a trap.”
+
+“Using your super hearing?” asked Alden.
+
+“Eavesdropping can be fun sometimes. At a place like this it’s educational to listen to people buying and selling. The jug of milk costs the same amount for everyone at the grocery store, but here things are less firm. Some of us look like we can’t even afford that man’s time. Others look like they might spend thousands on a stocking stuffer.” Lute sounded chipper.
+
+“You’re so happy to be snubbed.”
+
+“I’ve been on more than one shopping trip at the far other end of things. You know the toy store we went to? When I was little, I thought all families called ahead and booked a time to visit. They would close the whole store to the public for a group of Velra kids and friends of Velra kids to have the place to ourselves. Not everyone caters to wealth and power, but a lot more businesses do than you’d think.”
+
+Alden imagined the Velra kids annoying toy store employees and buying twelve of everything. For some reason, he pictured Aimi right there with them, belly flopping into the stuffed animal pit.
+
+“I picked out a pair of sneakers last year that had a 50% off tag,” he said. “And when I got to the cash register, they wouldn’t give me the discount because they claimed the tag didn’t belong on that shoebox. I had to spend another hour looking for shoes, and it ruined my day.”
+
+He picked up a large puzzle box. It might not have been enchanted, but it probably cost multiple times more than that pair of shoes. It was covered in randomly overlapping metal circles so that it almost looked like it had been rolled in a pile of adhesive coins. Many of the coins could slide around or be pressed like buttons.
+
+“This seems difficult,” he said after fiddling with it for a while. “She’ll like it. Do you think he’s almost done with the Adjuster?”
+
+Alden wouldn’t mind having a quick turn with some of the priciest pieces. He didn’t plan to buy them, but he’d like to take a peek at the enchantments.
+
+Lute put down the ring box. “She’s paying him for it now. She’s asking him to set it aside for her so that she doesn’t have to carry it around the market.”
+
+More than thirty thousand dollars changing hands just like that.
+
+“Hey, what are you getting Emilija?” Lute asked. “Are you getting her something? You haven’t bought anything for her, Hadiza, or Natalie today.”
+
+“I’m getting them sledgehammers.”
+
+Lute burst out laughing.
+
+“I really am,” said Alden. “I already ordered them. They’re getting hot pink sledgehammers and the Ultimate Destruction package at a place called Wrecking Ballroom. They can break all sorts of things, and there’s an archery instructor on site who’ll teach them to shoot flaming arrows if they want. They’ll like it.”
+
+Lute’s laughter stopped. “Wait. That sounds awesome.”
+
+“It is going to be awesome. And even if they get presents from a hundred other people, it won’t be this. This is a gift that tells them that I understand their true natures and respect their urge to violently attack me with weapons. You should have seen the looks on their faces this one time when I preserved an ice cream cone in front of them. They came at me with a meat mallet and knives. ”
+
+“Do you think…maybe they want wordchains to increase their ability to destroy?” Lute asked.
+
+“I will leave that up to you and them. But don’t turn yourself into a slug again.”
+
+It looked like the Wright had finished with his more important customer.
+
+“Finally. Our turn,” said Alden.
+
+The Wright turned toward them. The puzzle box the woman had just purchased was still in his hands. But there was a sudden shift in the atmosphere then. Alden’s senses caught several tiny changes that put him on alert an instant before he had any clue what was going on.
+
+The Wright’s expression twitched. Lute straightened. The crowd at their backs became quieter. The hairs on the nape of Alden’s neck prickled, and he turned around.
+
+A gaggle of wizards were out and about, enjoying a shopping spree.
+
+They would have looked harmless to Alden except for the sight of Ambassador Bash-nor in the lead. His earthworm-colored hair was braided and coiled on top of his head. Alden’s eyes went immediately to the hand Bash-nor had used to show off that threatening-looking spiked spell the last time they’d met, in the hallway outside Ro-den’s room at Matadero. But the ring the ambassador had used for that was missing. In fact, he was wearing very little jewelry compared to that night, and instead of using his hands for creepy demonstrations, he was gesticulating at different market stalls and smiling—a bit too hard in Alden’s opinion—at another wizard beside him. She was a couple of inches taller than average for her species, with long white hair. She looked appropriately themed for Christmas, wearing red pants and a red coat copiously embroidered in white.
+
+At the back of the group, walking behind a wagon loaded with what must have been everything the wizards had bought so far, was another familiar face.
+
+Zeridee. Shouldn’t she still be recovering?
+
+The ambassadorial assistant wore a soft, warm-looking cap with seeds stitched to it in spirals. It was pretty enough to be mistaken for normal Artonan clothing, but having seen the healing garment covered in pebbles and nuts that Porti-loth had made her wear, Alden was fairly sure it was his work.
+
+They were all headed this way. Bash-nor was making that abundantly clear by pointing at the puzzle sign and announcing that he’d “encouraged this Wright’s education”…whatever that meant.
+
+The crowd parted for the wizards smoothly. Alden saw people melting away and others stepping closer without getting in the way, either because they were curious or hoping to be noticed.
+
+The ones paying no attention at all were definitely a minority.
+
+Alden had seconds to make a decision. Shopping at the same place as Bash-nor wasn’t desirable. Being very obvious about not wanting to be around Bash-nor was even worse, though.
+
+Be normal then. Act like he’s not here.
+
+He turned back around and nudged Lute with an elbow. “What do you think of this one?” he asked, showing him the box he’d picked for Kibby.
+
+Lute was willing to be normal, too.
+
+“That one? Let me try it,” he said, taking the box from Alden. “What do you think of…that green one right there? Check it out.”
+
+They feigned interest in various puzzle boxes they’d already seen while the wizards gathered on the other side of the stall around the Wrightwork ones. Exactly how the ambassador had encouraged the Wright’s education remained a mystery, but they definitely knew each other from the ambassador’s parties.
+
+“Absolutely,” the Wright was saying loudly in response to Bash-nor suggesting he tell everyone about what the parties had meant to him. It wasn’t exactly a ludicrous way for an Artonan to talk about his own social gatherings, but it made it sound more like he was hosting them for cultural exchange instead of raucous fun times and showing off his superior magic. “The ambassadorial residence was the heart of the neighborhood in Punta de la Luna. The heart of Apex really. I live in midtown.”
+
+The Wright set the puzzle box the Adjuster had just bought back on the table in front of the wizards. He didn’t mention that it was already spoken for.
+
+[The guy’s pretty scummy,] Alden texted Lute. [There was no reason for that. He’s got plenty of others to sell.]
+
+Lute lifted a hand to text back, but before he could, Bash-nor introduced the woman in red and white as a Grand Senator. Lute dropped his hand and stared.
+
+Alden was doing the same.
+
+Why is there a Grand Senator here? Alden hastily pulled up a local news site. Of course there was a front page article about the woman. A member of the Grand Senate making a visit to Earth would always be news.
+
+Grand Senator Servin-ith. She’d arrived last night. This was only her second trip to Earth. She was here to look at all the construction that was being done and reassure Anesidorans of the Triplanetary Government’s obligation toward them. After touring Anesidora for a couple of days, she would meet with world leaders at the UN.
+
+There was speculation that she would also be meeting with representatives from Superhumans at Large. The senator had no comment on that. It was, of course, her honor and responsibility to maintain proper discretion.
+
+The other wizards with her weren’t mentioned. Alden thought they were just people she’d picked up locally since he recognized a couple of them from Matadero. Maybe she was quietly showing approval for some service they’d done by inviting them on this excursion.
+
+At least she didn’t bring Ro-den.
+
+“What commendable craftsmanship,” she was saying to the Wright as she ran her fingers lightly over the tops of the boxes. She wore many delicate rings, almost all of them silver. “You should be proud of what you’ve made. Is it true that some of your efforts were destroyed by our recent error?”
+
+The pause as the Wright read the translation, or pondered his answer, was only a slight one. “A few doors I made in Apex are gone. Only three. And it wasn’t your error. How could it be? Irresponsible Avowed are at fault.”
+
+The look he sent Bash-nor’s way was eager.
+
+Approval-seeking? Alden wondered.
+
+Bash-nor only had eyes for the Grand Senator. And that was good, since if he’d been sparing a look around he might have recognized Alden. Or seen Lute’s mouth stretch into a pained grimace at the mention of irresponsible Avowed.
+
+Alden was worried Lute might combust, collapse, or climb up on the table to speak out against his family even though Aulia and Orpheus hadn’t been named. Instead, he clutched the puzzle box so hard that one of the coin shapes popped off in his hand.
+
+He looked down at it.
+
+[That was meant to be removable, I bet,] Alden sent. [Don’t sweat it.]
+
+“It’s our error,” the Grand Senator said, “because as your wizards it was our duty to ensure such a dangerous device was properly managed. Not all magic is meant for sharing, even with our Avowed. Let’s talk about something more pleasant. I can tell you’ve used mountain glass in this piece. An inferior type, but that, too, is our error since we supply you with many of your ingredients. The land where I was born is known for producing this. I will see to it that Earth receives some in trade so that you can practice with it and… ”
+
+Alden’s auriad was on his left ankle today. It was hidden by his sock, his jeans, and the table. He could send it up his calf with a quick thought or, with a bit more attention, have it slide off the end of his foot and then slither up his leg freely to wherever he wanted it. He knew it was safely hidden, but it suddenly felt exposed.
+
+“Not all magic is meant for sharing.” Don’t get panicky just because she said that. She’s literally talking about the Submerger. Sharing wizardry itself with another species has probably never crossed her mind. It’s not like she’s thinking of how to properly manage me right now.
+
+After a couple of minutes, the senator bought the Wright’s largest piece. Two of her companions made purchases as well. And the box the Adjuster had already paid for was being passed to Zeridee by Bash-nor. The Wright had told him, loudly enough for Alden to hear this time, that it cost six thousand argold.
+
+I’m so not buying anything from this guy.
+
+Alden watched Zeridee and caught her watching him—one eye pointed his way.
+
+She recognized me? He caught her eye again. She definitely recognizes me.
+
+He didn’t know what to do except acknowledge her with a message.
+
+[Hello, Zeridee. I’m here with one of my roommates for Christmas shopping. I’m glad you’re well enough to escape from Porti-loth.]
+
+She kept that eye on him as she went to the wagon to put the puzzle boxes with the rest of the wizards’ things. To Alden’s relief, they were moving right along to the next stall to look at quilts. Bash-nor was recommending they go see some Brute he knew at the end of the row, but the quilts had caught the senator’s attention. And one of the wizards from Matadero was talking about going a few down to pick up hot dogs for everyone to try.
+
+They’re here to make nice and be seen making nice. It’s such a normal thing for them to do, but it’s like everything at the market turned a little sideways just because they walked through.
+
+Bash-nor plus a Grand Senator was a step beyond ordinary even for Anesidorans. And people who kept abreast of the news better than Alden did must have recognized her on sight.
+
+I wonder how the crowd would be if it were Esh-erdi and Lind-otta instead.
+
+He remembered the recovery sauna clearing out and then refilling with a completely different bunch when Esh-erdi had come to visit.
+
+Equally weird.
+
+Zeridee put away the last parcel, then headed toward him.
+
+No, don’t do that, thought Alden. Why are you coming to see me? You’ll attract attention. I’m an incognito teenager minding his own business.
+
+Zeridee stood right beside him at the table. She murmured, face pointed downward like she was speaking to the boxes, “I think…meeting the Grand Senator would be a good thing for you to do today.”
+
+Another metal circle plinked as it fell from Lute’s hand and hit the top of the ring box he’d been looking at earlier.
+
+Alden’s body tensed. [What?] he sent to Zeridee.
+
+The Wright was being congratulated by another market seller now that the wizards had stepped away, but the man had realized Zeridee was still here and he was turning his attention toward them.
+
+“Being yourself and…politely honest…in reply to any question she might ask, would be enough,” Zeridee whispered.
+
+Are you trying to kill me, Zeridee-und’h?! I save you, and now you want me to be myself and honest? You wouldn’t be saying that if you knew myself is a wizard who fired off some spells with my auriad while I was hauling your body around Apex.
+
+“I do not need help, sir,” Zeridee was saying with a bow to the Wright. “Thank you.”
+
+“Yeah, we’re just looking, too,” Lute said. “Go help that other guy.”
+
+[Zeridee, I don’t want to meet a senator.]
+
+She stayed in her bow until the Wright was moving away. Then she straightened and looked at Alden with both eyes. “I’m sorry. I believe it would be a good thing to do. I will point you out and encourage the Grand Senator to greet you if you decide to approach our group.”
+
+She moistened her lips, nodded at him, then left him staring after her with a racing heart.
+
+Why would she tell me to approach the senator? She wants me to avoid Bash-nor, and he’s practically touching the senator right now.
+
+There was something sharp about Zeridee-und’h’s steps today.
+
+Anger? A plan? Strength?
+
+Am I supposed to be a part of her strong, angry plan? She’s got a hat on her head that looks like something a person with recent major brain trauma is being forced to wear by her healer.
+
+She fought those guys and got those injuries trying to protect me and my flyer.
+
+Alden took a breath. “Lute, I’ll be right—”
+
+“I’ll go with you,” said Lute.
+
+Alden raised his eyebrows. “You don’t have to.”
+
+“Let’s go.” Lute’s pig had sunk lower. It was almost sitting on top of his hair. He sounded so sure of himself that either he’d hit himself with a confidence chain or he was putting on a show.
+
+“Is it because you heard my heart rate pick up?”
+
+Lute didn’t answer that question. “Think of how my grandmother will feel when she sees me hanging out with a Grand Senator.”

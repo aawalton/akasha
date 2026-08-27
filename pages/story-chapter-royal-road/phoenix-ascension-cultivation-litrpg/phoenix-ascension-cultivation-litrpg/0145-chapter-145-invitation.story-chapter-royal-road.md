@@ -1,0 +1,195 @@
+---
+id: 6680fc7a-0cae-53f8-baa1-9c8c0083ce84
+page-type-slug: story-chapter-royal-road
+title: "Chapter 145: Invitation"
+slug: 0145-chapter-145-invitation
+partOf: phoenix-ascension-cultivation-litrpg
+position: 145
+ownLength: 2195
+unit: words
+publishedAt: 2026-06-29
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3609404/chapter-145-invitation"
+royalRoadId: "3609404"
+---
+
+What the-
+
+Just what sort of nonsense was that guy spouting? Phoenix what? How did that guy know I was a Phoenix when he hadn’t even seen me?
+
+And why were they prostating?
+
+Meng Mao quickly pulled him up, but it was almost to no avail. Only after he’d whispered something in their ear did that figure stand up and hurried on toward me.
+
+I’d quickly changed back into my original form, foregoing the vermillion bird features and waited for them to arrive.
+
+Meng Mao and his friend were moving so fast, it only took a moment before they were before me.
+
+Close up, I could still feel their power, presence and pressure. They weren’t weak, that much was for sure. If they hadn’t done what they’d done I would have just had to have given up my horn.
+
+But considering the fact that they were not only prostating but also hailed my ‘Phoenix Lineage’ I’d figured that maybe I had a shot at taking the horn for myself.
+
+When they finally stopped walking, the cloaked figure’s features were still hard to determine.
+
+Black cloak, and probably a disguise technique of sorts. With my current stats, there was no way for me to see through them, and neither did I want to.
+
+Offending someone of their strength was not something I wanted to do.
+
+I raised a metaphorical eyebrow toward Meng Mao, who could only let out a weary sigh, and shook his head. It seemed like he had no idea what came over his friend either.
+
+On the other hand, the other figure, while not literally shaking, was rather uncomfortable. They were looking up at me with a curious gaze, though their nerves seemed to have calmed down now that they saw me in person.
+
+“Well…” The atmosphere was rather awkward, I didn’t really know what to say. It would have been a different story had the man not… kowtowed.
+
+But now I had to figure out another way to tackle what was happening. “So, I have the ledger… And the horn.”
+
+A smile appeared on Meng Mao’s face, and the cloaked figure twitched as well. So he really did want the horn.
+
+I didn’t mention all the other things I’d stolen from the treasure room… It was in better taste for me to keep them.
+
+“Can I see it?” Meng Mao asked first, the cloaked figure still unwilling to speak. They were definetely studying me though.
+
+It was uncomfortable, but I’d allowed them.
+
+I peered into my storage and took out the ledger, throwing it at Meng Mao. He gave it a quick read, his eyes shinning upon seeing the contents. He made a show of putting it away in his robes, even though we both knew it’d disappeared into the bag of holding by his waist.
+
+With that one handed over, there was one thing we had left to do, and quite frankly, I did not want to give them the horn.
+
+I wanted it, needed it, rather, both to cultivate the technique acquired from Meng Mao, but to also increase my Lightning Affinity.
+
+The cloaked figure had not done anything besides studying me for the past few minutes though, and only when I’d turned to look at them did they finally stop inspecting me.
+
+“I will be honest,” I said, trying to stare into their eyes, but my bird face and the fact that they had no eyes to look at made it a little difficult. “I need the Qilin Horn.”
+
+They’d flinched upon hearing that, and after a few moments, raised their hands to put down their hood.
+
+I’d felt the ripple of Qi as they did so, and a familliar feeling within. Stealth skills turned off and their face finally became visible as the hood fell down.
+
+My eyes almost widened upon seeing their true face, but I’d controlled myself.
+
+Their face wasn’t human, at least not entirely. They had a sort of half snout about them, with two long whiskers sticking out of a deformed nose.
+
+Despite those things, it was clearly a man. He had a patched beard with golden fur instead of hair, and their actual hair was also mostly fur, with some strands here and there. It covered most of their forehead and ran down their back much like a Lion’s mane.
+
+The most interesting thing about him were the two horns sticking out of his head. Red like blood and sharp like a sword, they were the very thing I’d been seeking.
+
+Qiling horns.
+
+Meng Mao’s face fell, as he was absolutely flabbergasted by the sudden turn of events. Well, I was as well, but I was more professional about.
+
+After all, who would ever expect a damned Qilin of all things to want a Qilin Horn?
+
+Now that I’d thought about it, it was definetely strange.
+
+A brief moment after the reveal, the Qilin put a hand over his chest and bowed slightly. “I apologise for my earlier behaviour. It’s been a while since I’d met one of your kind, and I was… overwhelmed.”
+
+Now that wasn’t the reply I was expecting. Overwhelmed, about what? Wasn’t he also a creature of myth? There was literally the saying ‘As rare as a Phoenix Feather and Qilin Horn’. This wasn’t something that should have happened.
+
+I was beginning to wonder if Meng Mao had some sort of dogshit luck to befriend mythical Spirit Beasts.
+
+I gave him a metaphorical eyebrow raise, but he was still coming to terms with what he was experiencing.
+
+Even a Core Formation cultivator of hs strength would be taken aback by this.
+
+When he’d met me, he’d had time to prepare, but this was very sudden, and well, even I was surprised.
+
+“There’s nothing to apologise for.” I said as graciously as I could. “As I’ve stated, I wish to keep the Qilin Horn for my own reasons.”
+
+He didn’t say anything, so I continued. “Although I can’t help but be curious about one thing. Why do you want it?”
+
+It seemed like that was the question he was waiting for. His expression changed right before he began speaking, his voice a little strange.
+
+“Well, I can see the irony in my request.” He chuckled. “But the truth is, half the things I said when threatening that bastard were true. I do resent him, but I will not kill him. He did approach The North’s territories, but he was never aware of who or where we were.
+
+“My grandon though was… unlucky. When he was out exploring unauthorised, he’d met Guo Lu Poo and gotten into a fight. I told him that in the eventuality of meeting humans, that he should run away, and he did so. However, Guo Lu Poo was too strong, and, despite my grandson’s best effoerts, he’d barely escaped.
+
+“He did lose his horn, though.”
+
+When he’d said that last sentence, I’d finally understood the gravity of the situation. Without the horn, his grandson’s growth would be severly stumped for a good amount of time. It was an incredibly bad situation to be in as a young Qilin.
+
+However, the horn was already severed, what good did he have with it?
+
+“I can see the question on your face. We do have a method of re-attaching the horns, though they are not as practical. In truth, I would much rather have him ingest the energy within… However…”
+
+He’d touched his whiskers, and seemed to be pondering. “Ah, but where are my manners? I am Qi Hua, leader of the Qi Clan of the Qilin… Clan. I… When I say it out loud it does sound a little strange.”
+
+At the very least he was aware of his own strangeness, though that was a little beside the point at the moment.
+
+Qi Hua cleared his throat and continued. “However, since the re-grown horn would not be nearly as effective, and waiting for it to grow naturally would be a better, albeit far slower option, I think the two of us can come to a compromise.”
+
+His eyes shone as he spoke, gears clearly turning in his head.
+
+Whatever he would propose, he was definetely going to be in a favorable position.
+
+“What is it?”
+
+“It’s simple. It is safe to assume that you are a Phoenix, yes?”
+
+“…Yes?” I turned my head, a little confused at his question. “Why?”
+
+“Apologies, it was just a little unexpected. I’d seen a few Phoenixes in my life but none of them were so…”
+
+I glared with a squint at him in that moment. Just what exactly was he trying to say?
+
+"Ah, no, please don’t misunderstand. I’d meant to say unique, and young.”
+
+“Unique?” That was rather intriguing, as, besdies Mother, I’d never even met another Phoenix.
+
+“Well, you seem to have some dimmer feathers at the tail, and there is also a strange feather formation on your head. Not to mention your uh, chest plummage is different from the normal color scheme of a Phoenix. Not that there are only red, orange or yellow feathered Phoenixes, but you do seem a little unique with the mis-matched white color.
+
+“And the aura you give off is… unnatural.”
+
+He dragged on that last sentence, perhaps trying to come up with an answer. I knew why he’d think that, and Meng Mao realised as well. I didn’t even need to shoot him a glare for him to know that he should keep his mouth shut.
+
+“I see.” I gave a non comital answer, then went back to the main topic at hand. “So what is this deal you want to propose?”
+
+“Well, I can see the potential you have. So I want to both extent an invitation for you to join The North, but also to request a favor in exchange for the horn.”
+
+“A favor?” I focused on themost important point. Though strangely enough I’d now gotten two invitations to some sort of Spirit Beast societies. “What sort, exactly?”
+
+“Just a little help if the time calls for it. Preferably from your clan. I am not saying that there will be trouble, but I sense that something is off, and things will change. If I can get the help of a Phoenix on behalf of my clan, that would be more than worth the price.”
+
+“That… is a little suspicious.” I could not agree without knowing what I would get myself into, I could not blidnly agree to such a request.
+
+“I can see how you’d think that.” Qi Hua nodded. “In short, The North is an organisation centered around Spirit Beasts, with the sole purpose of surviving in this man-dominated world. We do not intend any harm, but survival, and we’ve been growing steadily for the past few millenia. Some of us even have special techniuqes within our mind that allow us to better gouvern this organisation. I am one of those people, but I am not alone.”
+
+He was clearly insinuating that he had a system that acted somewhat like my Nemesis System, though for gouverning and authority.
+
+“There are four big factions in The North, and as stupid as it sounds, we all want to be dominant. So in the case of civil unrest, having a neutral third party would be better. That’s when you and your clan come in. Of course, considering where you’re standing, I don’t think you’ve met your clan yet.”
+
+“No, I haven’t.”
+
+“Highly unusual, but in this crazy world a little bit of unusualness is welcome.” He said, trying to sound like a sage, but in reality he just sounded stupid.
+
+I didn’t tell him that though, I didn’t have the heart."
+
+“Well… That does seems like a fair deal.” Though it only was if I had time to grow, and didn’t have to go resolve a conflict somewhere far away while I was barely a chick. “Assuming you won’t need my immediate help.”
+
+“Heavens, no.” He chuckled. “In a few hundred years, maybe.”
+
+A few hundred years was definetely better than immediately, and I would have time to grow.
+
+“Alright, I can agree to those terms.”
+
+“Very well. It was a pleasure, I must say.”
+
+Right as he’d said that, I felt a new force that I was only somewhat aware of before, connect me to the Qi Hua.
+
+Karma.
+
+What did I just agree to…
+
+It was, however, too late to regret it. I would have to hold up my end of the deal, just as I’d done with Meng Mao.
+
+When Qi Hua turned around and noticed that Meng Mao was still there, he looked at him awkwardly, blinked, then disappeared.
+
+“Well, that was strange.” I’d said, as Meng Mao was just sort of staring into the void.
+
+I nudged him with some Qi, and only then did he come back to reality.
+
+“Am I lucky, or unlucky?” Meng Mao chuckkled to himself as he’d finally processed what had happened.
+
+“Both?” I shrugged.
+
+“I would say you’re the luckier one.” He said after a moment of pondering. “And I have a deal for you as well?”
+
+Not again… I rolled my eyes, but I could not refuse a good deal.

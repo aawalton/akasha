@@ -1,0 +1,295 @@
+---
+id: a19c4df0-60f1-55fe-b7ca-269e7236a90d
+page-type-slug: story-chapter-royal-road
+title: "TWO: Mistakes"
+slug: 0002-two-mistakes
+partOf: super-supportive
+position: 2
+ownLength: 3764
+unit: words
+publishedAt: 2023-01-26
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1097958/two-mistakes"
+royalRoadId: "1097958"
+---
+
+Two Weeks Later
+
+***
+
+Alden lay in his hospital bed, watching rain spatter against the windows and stream down the glass in rivulets. Wummy lay beside him, and a handheld video game console was in his lap, chirping occasionally to remind him that he’d left his game on pause.
+
+He winced and shut it off. The chirp was too similar to the high-pitched ringing he’d had in his ears ever since the disaster. The doctors and the healer had both told him the same thing—that there was a good chance the whining sound would stop on its own but it might not.
+
+The console had been given to him at the House of Healing, right after his broken arm and wrist were mended. He was supposed to play with it often…something about maintaining dexterity in a healing limb. But he’d mostly been using it to distract himself from everything else.
+
+It worked. Sometimes.
+
+But not as well here in the children’s hospital he’d been transferred to a few days ago. The House of Healing was soothing in a way a mundane hospital never could be. Here, now, everything Alden saw reminded him that things were wrong and they would never be right again.
+
+And he was a source of gossip for some of the staff. He knew it because he’d heard a couple of them talking just outside his room when they thought he was asleep.
+
+Poor thing lost his parents in such a horrible way. And they still haven’t managed to reach any other family.
+
+Do you know if he saw it happen? God, I can’t imagine the trauma.
+
+It wasn’t like it was mean gossip. They all felt sorry for him. They all meant well.
+
+But Alden hated it.
+
+And nobody would tell him the truth about what had happened. Not the whole truth. Not even the grief counselor who spent so much time talking about being honest and open with your feelings.
+
+His home had been destroyed, and his parents had died in a supervillain attack. The heroes hired by the city of Chicago had not been able to bring the villain under control without collateral damage.
+
+Alden didn’t know what that meant.
+
+How had they died? Why couldn’t he see their bodies? Which supervillain was it? Why…why had they wanted to hurt Alden’s parents?
+
+If one more adult told him that it was all a terrible accident, one that was impossible for someone his age to understand, he was going to throw his console at their lying smile.
+
+Just as he thought that, Nurse Amanda knocked once and then came straight in. At least she wasn’t smiling. In fact, she was wearing a worried frown.
+
+“Alden, sweetie,” she said. “Someone has come to visit you. Now, you don’t have to see her if you don’t want to—”
+
+“Who is it?” he asked quickly.
+
+Alden had seen a few different visitors. His teacher had visited him three times, and she’d brought handmade “Get Well Soon” cards from the entire third grade. A couple of the nurses from the House of Healing had come as well. And the children’s choir director from his father’s old church had driven overnight all the way from Nashville with a tray of cupcakes and cheese straws.
+
+Visitors were good. Visitors filled the room with noise so that Alden didn’t have to hear his own thoughts.
+
+“It’s Hannah Elber, sweetie. The superhero.”
+
+Alden froze, his mind flickering automatically to his dark, ruined bedroom. To flashing lights and a body—the body of the villain?—lying there torn open. The memory had a foreign feel to it, like it belonged to someone else. But at the same time it was too detailed and clear.
+
+He hadn’t seen Hannah or Arjun since the day it happened.
+
+He’d been in the bubble, covered by the blanket, for what felt like a long time. When the comforter was removed, he and Hannah had been alone together in the back of a van.
+
+She’d written him lots of notes, explaining what was going on and what was happening.
+
+YOU ARE INJURED, BUT YOU WILL BE ALL RIGHT.
+
+MY SPELL IS KEEPING YOU SAFE AND CALM.
+
+WE ARE GOING TO THE HOUSE OF HEALING.
+
+THEY WILL HELP YOU.
+
+IT WILL NOT HURT.
+
+I WILL STAY WITH YOU UNTIL YOU FALL ASLEEP.
+
+Where are my parents? Alden had thought, over and over again, willing the question to get through. Where are they? Did you rescue them, too?
+
+Now, of course, he knew that she hadn’t.
+
+“You don’t have to see her,” Nurse Amanda said again, seeming to mistake his silence for fear. “Just because she’s a superhero doesn’t mean she gets to do whatever she likes. I’ll tell her you—”
+
+“I want to see her!” Alden cried, nearly falling out of the bed in his eagerness. His stomach muscles complained a little, but they were nearly healed now and he barely noticed. Hannah would know things. Maybe she would explain why everything had gone wrong. “Where is she?”
+
+The nurse stared at him. “She’s downstairs at the check-in desk. Give me a minute, sweetie. She’ll come to you.”
+
+###
+
+“Oh, man,” Hannah Elber muttered, staring at her reflection in the polished metal of the elevator door. “I don’t think they’re going to let me in, Cly. I’m gonna have to go rogue and climb up the side of the building or something.”
+
+“That’ll be a great look on the six o’clock news,” her friend said dryly through her earbud. “And I’d like to see you try it. You failed hard on the rock wall every time in gym class.”
+
+“I should’ve come sooner,” Hannah said, ignoring the jab. “But I was waiting for them to find the kid’s aunt so I could talk to her and get permission, only it's starting to seem like they’re never going to track the lady down, which just makes everything so much worse.”
+
+“Hannah, it’s not your fault his parents died.”
+
+“It is.”
+
+“It’s really not.”
+
+“Shut up about it.”
+
+“No. You had to stabilize a building. In a crazy situation, fighting against a vill with weirdass powers. You aren’t perfect. You did your best. Arjun did his best. It wasn’t quite enough. Mistakes happen to all of us at some point in our careers. That’s all there is to it.”
+
+For a moment, they both fell quiet.
+
+“Is he…” Cly hesitated. “Is he going to be all right?”
+
+Hannah closed her eyes. "You should have seen his face, Cly. Killing a civilian has always been his biggest fear, and the way he had to take the villain down this time... He’ll never trust me to do my job again, and why should he?”
+
+“Hannah, nobody blames you. Not even Arjun.”
+
+Hannah shook her head. “I promised him,” she said quietly. “I told him I had his back. I told him he could go all out. That’s our whole reason for teaming up. It's the whole reason we're here in Chicago where they had space for a pair instead of somewhere else. And I--”
+
+Behind her, the woman at the check-in desk cleared her throat. “You can head on up, Ms. Elber. He’s in Room 3703.”
+
+Hannah spun around and gave the other woman a bright smile. “Thank you so much! Have a nice day.”
+
+“Wow, you really go all in on the public persona thing,” Cly muttered through the earbud.
+
+“It's an important part of the job. And it's the least I can do to get that much right."
+
+###
+
+Alden was by himself when the superhero arrived. It had taken actual begging to get the nurse to leave him alone with his visitor, but she finally relented. He could still hear her murmuring rules and warnings to Hannah through the door, though.
+
+His heart was racing.
+
+Excitement. Nerves. A little bit of fear.
+
+He’d only met a hero once before the accident. It was in first grade. The school had held a special assembly, and a hero named Electric Yo-yo had come to talk to them all about staying safe during emergencies.
+
+“Heroes are helpers, just like firemen and police officers,” Yo-yo had said, flinging a little orb of green lightning around the stage and calling it back to him like it was a pet. “Our powers might look scary, but that doesn’t mean we’ll hurt you. If one of us gives you instructions be sure to follow them so that we can keep you safe.”
+
+Yo-yo had been funny. He’d given out pencils and stickers.
+
+Alden couldn’t imagine him tearing someone in half.
+
+Finally, Hannah stepped through the door, interrupting his thoughts. She had a nervous smile on her face. Her hands were in the pockets of her motorcycle jacket, which just looked like normal clothes right now without the sparkle of magic coating it. Her brown hair was pulled back into two French braids.
+
+“Hi, Alden!” she said. “I just came by to check on you. Is that okay?”
+
+She didn’t come an inch closer until he nodded. When he did, she walked over to the chair beside his bed and sat down. The vinyl creaked under her weight.
+
+They stared at each other for a minute, neither of them blinking, then Hannah licked her lips and said, “Soooo, I don’t know if you remember me, but I’m Hannah. Hannah Elber. My friend and I—”
+
+“I remember,” Alden said quickly. How could I forget?
+
+“Oh. Good. I thought maybe you wouldn’t because of the spell. You were awake inside of it, which was pretty unusual. Um…how are you feeling? Did they get you all patched up?”
+
+“I’m okay. My ears make a lot of noise. They have to keep me here until they’re sure my stomach is better.”
+
+“Right. You got stabbed by a big hunk of metal. It flew in right through your window. That had to hurt. I’m so sorry about that.”
+
+It had hurt. He remembered being in agony before he was in the bubble. But that memory was like the rest of the night. It was clear, but it felt like it belonged to someone else.
+
+“I never got to see it,” he said.
+
+“What?”
+
+“The piece of metal I got stabbed with. I never got to see it. I didn’t think to ask until they brought me here, and nobody knows where it went.”
+
+Hannah had a weird look on her face for a second, but then she nodded. “Yeah. I get that. I’d want to see the thing, too. They probably disposed of it, though. I don’t think they can keep bloody chunks of shrapnel lying around at the House of Healing. But I can ask just to be sure if you want me to?”
+
+Alden nodded. He was relieved that talking to Hannah was so easy. She wasn’t treating him like a baby. “Ask if I can have it.”
+
+“Will do,” Hannah said, giving him a salute. “And if you’re curious about what it was…I got a good look at it. I’m almost positive it was a piece of a table saw blade.”
+
+"A saw?"
+
+She made a vaguely triangular shape with her fingers. “You had a piece of it this big in your side.”
+
+Alden pondered that. Then he asked, “Do you want to see my scar?”
+
+“What?”
+
+“From the table saw. Do you want to see my scar? It’s purple.”
+
+Hannah blinked. Then she smiled. “Do I ever!”
+
+Alden nodded. The doctors and nurses had all told him the scar was cool. It was good to have confirmation from a superhero. He pulled up his hospital-issued pajama shirt to reveal the long, raised scar on his left side. It was dark purple, and it went down at a slight angle from his lower ribs.
+
+Hannah made a big deal over it, too.
+
+“Interesting scars are like collector’s items for supers,” she told him. “That one’s great.”
+
+“It doesn’t hurt much anymore.”
+
+“I’m glad,” said Hannah. “They had a real healer patch you up since it was a superpower-related incident. You’d normally be out of the hospital already, but a healed body can suddenly revert. It’s incredibly rare, but since you had a strange reaction to my Bubble of Patient Waiting they’re being extra cautious with you.”
+
+“The silver bubble spell?”
+
+Hannah nodded. “I’m sorry,” she said. “Normally, if I put a living being inside it, they lose awareness. If I’d realized you were awake in there, I wouldn’t have let you see…that.”
+
+Alden felt his face fall. Oh right. I had important questions to ask her. And she might not stay long.
+
+“Was that the villain who killed my parents?” he asked. “The guy who was…on my floor?”
+
+“Yeah,” said Hannah, sitting up straight and clasping her hands together on top of her knees. “Yeah, that was the bad guy. Didn’t anyone talk to you about him?”
+
+Alden flopped back onto his pillows. He gripped the blanket tightly. “No. Nobody answers my questions with actual answers. They just say nice-sounding words that don’t mean anything.”
+
+He heard Hannah take a deep breath.
+
+After a beat, she said, “Well, that’s not fair to you, but maybe they just don’t know enough to tell you everything. I’m not sure how much information regular people actually have right now. Probably a lot of gossip and only a little bit of truth. Do you…I can answer questions if you want? It doesn’t have to be today. We can wait until you’re out of the hospital, or—”
+
+“Why did the villain kill my parents?” Alden asked immediately, twisting the blankets in his hands. “Was he trying to rob us? Or was he mad at them? Why…?”
+
+He’d wondered and wondered. Maybe if there was a reason for the terrible thing that had happened, it would all start to make sense.
+
+Hannah gulped. “Well, he was a U-class. Do you know what that means?”
+
+“Unique.”
+
+A couple of Alden’s favorite heroes had unique classes. They weren't necessarily stronger than other heroes, but they had unusual powers that didn’t fit into the normal set of classes people were granted when they were chosen by the Artonan System.
+
+“Right. He’d just been called by the System a few months ago, from what we understand. And he got his unique class and his first skills. Instead of registering and coming to live on Anesidora Island or in another hero zone like he was supposed to, he started using his power on civilians.”
+
+It was an unexpectedly familiar story to Alden. In movies and television shows, the supervillain was almost always someone who refused to register their power and abide by the law.
+
+He hadn’t realized it was something that could happen in real life.
+
+Hannah sighed. “He had a power that’s never been recorded before. And it was really strong and deadly.”
+
+“What power?”
+
+“Um…it’s pretty scary. Are you sure you want to know the details?”
+
+Alden nodded.
+
+“Okay,” the superhero said. “It was some kind of transfer ability. It took strength and vitality—maybe other things, too—from his targets and transferred them to him. So the more people he hurt, the more powerful he became.
+
+“They were having an early Halloween party at a club a few blocks away from your apartment building. He went there and started draining people. It took…a really long time for people at the party to notice. It was loud and crowded. He blended in, and he killed several people before someone finally realized something was wrong and called emergency services.”
+
+She shifted in the chair, and it creaked loudly again.
+
+“The other heroes working here in Chicago were busy, and dispatch didn’t realize how dangerous the situation was. So they only sent me and Arjun.
+
+“When we got to the club, it was…bad. The villain’s power fed itself. The more people he killed, the more powerful he got. And as he grew stronger, he could kill people even more quickly. He was moving almost like a speed-agility type by the time we got there, which was bad for us, because Arjun and I don’t have the mental specs to deal with true superspeed.”
+
+She grew quiet, and when Alden glanced over, he saw that she was staring off into space, her lips pressed together.
+
+He didn’t want her to stop talking. Not until he knew everything.
+
+“What kind of Avowed are you?” he asked, feeling a little proud he'd remembered the proper name for people chosen by the System. "What powers do you have."
+
+She shook herself and looked over at him. “I’m an Adjuster. A-rank. I know that doesn’t tell you much because there’s a lot of variety with Adjusters. I’ve focused my skills on stabilizing and freezing isolated patches of reality.”
+
+Seeing his blank expression, she gave him an apologetic shrug.
+
+“Yeah, it’s kind of a complicated one. Just think of the bubble you were in. I received that spell recently. It makes a space that keeps everything inside it from changing. I don’t think it actually stops time…can’t get a straight answer out of anyone I’ve asked. But it’s almost like that. So even though you were badly injured, when I wrapped the bubble around you, you stopped bleeding. Your mind was supposed to stop working, too, but magic can be weird sometimes.”
+
+“Nothing hurt anymore,” said Alden. “I couldn’t move. And I couldn’t get excited or scared like normal.”
+
+“I’m glad. I’m going to study the spell more so I can figure out exactly what happened. I thought you might be terrified to be trapped in there.”
+
+It had never occurred to Alden before that a superhero might not understand their own powers. How could you do magic without knowing how it worked?
+
+“Anyway,” said Hannah, “we had to stop Body Drainer—that’s what they’re calling him right now. We tried to slow him down with my spells so that Arjun could grab him. Arjun is an S-rank Brute, almost purely focused on physical strength. S-ranks have loads of power, so even if the guy started draining him he should have been able to stop him. But I couldn’t target or cast fast enough. And none of my spells are invisible, so when I tried to build traps he just dodged them.”
+
+She sounded frustrated.
+
+“He ran out of the club, and we chased him down the street. He was too fast for us, but he kept stopping to attack people, so we managed to keep up. We had to…I told Arjun we had to get him into another enclosed space. One without any people. We would lose him if he ran flat out in an open area, and we couldn't afford that. And usually newbies who aren’t used to extreme speed do badly in small spaces. But almost everything was residential. The first empty building we saw was the one right across the street from yours.”
+
+Alden knew about that. That building was being remodeled. When it was done, it was going to be apartments, too. He’d hoped lots of families with other kids would move in so that they could send secret flashlight messages to each other through the windows at night.
+
+“We managed to chase the villain in there,” Hannah said. “Arjun went after him to fight, and I stayed outside to block the exits and stabilize the building so that it wouldn't completely collapse and damage the neighboring structures. It’s hard for Arjun to use his full power without destroying everything. I became his sidekick so that he wouldn’t have to focus on things like that in the middle of serious fights. So…so as battlefield support, it was my job to keep bystanders safe and…let Arjun know what his options were.”
+
+She stopped talking again. And her silence lasted for such a long time, that Alden began to feel uncomfortable.
+
+She’s upset.
+
+Was it because it went wrong? Something must have gone wrong, because the villain was not dead in the empty building across the street when the fight was over. He was dead in Alden’s bedroom.
+
+And Alden’s parents were dead, too.
+
+“I was making stable zones where they were needed to absorb the force of Arjun’s strikes, but I was spread too thin. And the Body Drainer started showing off some weird energy skill we still haven't figured out. He was sending out these pulses that were almost like explosions centered on his body. They were going right through my spells. Shrapnel started flying, like that piece of metal that went through your window."
+
+She stared at his stomach as if she could see the scar through his shirt, then continued. "So I tightened my focus even more, making my spells extra strong in smaller areas so nothing could get through them. And I…I made a horrible mistake. Arjun suddenly asked through coms if the middle of the exterior wall on the seventh floor could take a big hit, and I said yes. But I was in such a rush I counted the windows wrong. I stabilized the middle of the eighth floor instead, and when he tackled the Body Drainer, they both smashed through the side of the building, and the momentum carried them all the way across the street into your family’s apartment.”
+
+There were tears in her eyes.
+
+The ringing in Alden’s ears seemed to have gotten louder all of a sudden. His lips were trembling.
+
+“I’m so, so sorry, Alden,” Hannah said. “It was my fault. Don’t…you might hear things from others, all kinds of guesses and rumors. But you should know the truth. Arjun was doing exactly what he was supposed to be doing. He did everything right in a bad situation. Your parents died because a teenager thought it would be cool to be a supervillain and because I made a stupid, awful mistake in the middle of a serious situation.”
+
+Alden’s vision blurred. A huge, racking sob welled up inside of him. He tried to hold it back, but it was like trying to hold back the tide. He started crying, every bit as hard as he had when they first told him his parents were gone. It just wouldn’t stop. His body ached with it. His pillow was getting wet.
+
+Nurse Amanda burst into the room, and Alden screamed, “Get out! Leave me alone!” so loud it made his throat hurt.
+
+Hannah Elber, the superhero, ran from him like he’d attacked her. Nurse Amanda ran toward him, whispering words of comfort. For some reason Alden couldn’t understand in the burning pain of the moment, this was exactly the opposite of what he’d wanted.

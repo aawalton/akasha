@@ -1,0 +1,129 @@
+---
+id: 0053e712-dd92-560f-9cde-1d8d30dd08b3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 626: Rubble"
+slug: 0095-chapter-626-rubble
+partOf: rise-of-the-living-forge
+position: 95
+ownLength: 1868
+unit: words
+publishedAt: 2026-08-04
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3768621/chapter-626-rubble"
+royalRoadId: "3768621"
+---
+
+The blueprint for Art and Vix’s armor sets didn’t end up taking nearly as long as the last few that Arwin had made. Everything had been made considerably easier by the fact that they’d already created a pair of connected magical items for the purposes of dealing with the Beast’s immortality problem.
+
+It only ended up taking him, Koyu, and Wallace around 2 or 3 hours to fully plot out how they’d approach the armor. All they really had to do was empower the way Vix and Art’s magic already connected them. That was much simpler than trying to find a way to chip apart an immortal.
+
+So, once Ida arrived and they had explained their goals to her, the four of them got to work right away on the preparations for the sets. The Infernal Armory sent for Art and Vix, requesting they put a few hours aside later in the day. Even now, making a customized set of Soul Armor would require the recipient to be physically present for the best possible results.
+
+Hours slipped by quickly. All the materials that Arwin needed were already present within the Infernal Armory. He easily located the materials that would be willing to work with them on the project and got them purified with his Soul Magma, purging all the impurities from within them.
+
+The three of them were able to get the preparations completely finished nearly thirty minutes before Art and Vix showed up at the doors of the smithy. The two of them looked somewhat confused as the Armory’s obsidian golem led them into the back room.
+
+“What’s going on?” Art asked, glancing around in a mixture of interest and confusion. “Why did you need us?”
+
+Arwin sent a look at the Armory. “You didn’t tell them?”
+
+“I imagined it would be more amusing to do it when they arrived,” the Armory replied with a raspy, grating laugh.
+
+Arwin rolled his eyes. “We’re going to make you and Vix armor.”
+
+“Wait, what?” Vix asked, her eyes widening. “Truly? We have time for that?”
+
+“More than enough,” Arwin replied. “We’ll be done today. Not to say this will be easy… but it won’t be too hard. You two are already closely connected by magic. We’ll just be improving that and adding a few extra benefits on the side. It should be quite straightforward, especially compared to some of the other stuff we’ve made.”
+
+“A day?” Art asked, blinking. “You can create two Soul Items in a single day? So you mean the few hours the Infernal Armory said we would need with you are to completely finish the armor? Not just some preparations or assistance?”
+
+“Well, that depends,” Koyu said. “How much longer do you want to ask questions rather than actually creating the armor? Because that will affect the time it takes to complete it.”
+
+“Don’t be a sourpuss,” Wallace said. “It doesn’t suit you well.”
+
+“I’d say it suits me just fine,” Koyu said. “I’m old. I get to be angry.”
+
+“That’s not how it works,” Wallace said. “But he’s right that we’ve got no reason to waste time. This process is quite simple for you and Vix. You’ll just have to focus on letting us guide things and providing energy to ensure the armor can link with you.”
+
+“That’s it?” Vix asked doubtfully. “And we can get Soul Items like that?”
+
+“That’s it,” Koyu muttered. “Nothing about this is simple. It’s only simple for you. So long as you are focused and allow the music to guide you, I suspect you will find all the answers you seek come naturally to you.”
+
+Art stared at them for a second. Then he swallowed. “Thank you. I don’t know why you chose to make me armor. I’m really not much of a fighter. But thank you. I’ll put it to good use. And I already know Vix will. We won’t let you down.”
+
+“I know,” Arwin said with a smile. “So let’s get started. You both have enough magical energy to work with, right? If you don’t, you need to go get some food from Lillia before we get started.”
+
+Vix and Art exchanged a glance. Then they nodded as one.
+
+“We’re full,” Art said. “Nothing to worry about on magical reserves. Unless you need us to provide energy for literally everything, I think we should be ready. Surprised, but ready.”
+
+“Right,” Arwin said. He nodded to the others. “Ida, you’re good as well?”
+
+The dwarf gave him an eager nod. “I’ve got some new techniques I want to try out. This will be the perfect opportunity. The last item you had me help with was parasitic. There are a lot of ways to go about something like that… but making something that helps both wearers is much more in my skillset. You know, when I was younger, I always wanted to make wedding bands. This is kind of the same idea.”
+
+“Uh…” Vix coughed. “You do know Art is my—”
+
+“Yes!” Ida reddened. “I’m sorry. I didn’t meant to, uh, imply otherwise. I just meant that dwarven wedding bands tend to share the strength of their wearers. You don’t have to be romantically involved for them. Some close friends or partners also wear them. It’s just for people who have close relationships and work in similar fields. That’s all.”
+
+“Right,” Vix said. She coughed into her fist again. “Noted.”
+
+“Right,” Ida said, suddenly finding the wall of the Armory very interesting. “Can we get started now?”
+
+Arwin chuckled. “Let’s do it.”
+
+***
+
+Rodrick paced back and forth across the room.
+
+He tried to avoid pacing. It tended to stress Anna out, and he generally preferred not visually revealing what he was thinking. But the room was empty right now. Anna was out working her healing stand — and this particular situation was one that called for pacing.
+
+For that matter, it called for quite a bit more than pacing. But pacing was all he could do at the moment.
+
+The situation had gotten worse.
+
+Worse than he’d actually thought possible. Not because he didn’t think the guild was capable of doing more. He was all too well of just how much they were capable of. Rodrick had read through the Secret Eye’s library, after all. Half of the strategies the Guild employed were one and the same.
+
+But the number of Dungeon Breaks had hiked again.
+
+Drastically.
+
+Ten more, just today alone. Chaos didn’t even begin to describe what was going on anymore. Neither did incompetence. Even the densest of adventurers could see that this wasn’t some freak accident. Something had very clearly happened.
+
+There was no way the Guild would be able to deny that they had a role in this. So many Dungeon Breaks at once was a step beyond a disaster. Towns would be completely overrun. Literal armies of monsters were cropping up all across the kingdom. Even the outskirts weren’t safe.
+
+Milten had been spared thus far… but at the rate this was happening, it wouldn’t be long. Rodrick wasn’t particularly worried about Milten itself. Recent weeks had brought so many powerful adventurers to the area that they were probably safer than most.
+
+If he was honest, despite the immense destruction that was certain to unfold over the next few days, Rodrick wasn’t actually that concerned about the lives of everyone in the kingdom as a whole. There would be death and destruction. A lot of it. But not so much that the kingdom would fall.
+
+No, Rodrick wasn’t any more concerned about the fallout of the Dungeon Breaks than anyone sane would have been. He was concerned about what what the Guild was trying to do. The escaped monsters would eventually be stopped. The destruction would be stemmed.
+
+And then there would be a great deal of very, very angry eyes turning directly toward the source of the damage. The group that was responsible for preventing the Dungeon Breaks from happening in the first place.
+
+This is a number of steps beyond just destabilizing the kingdom. They’re not going to be able to sweep this under the rug at all. My previous guess was completely wrong. Even if the Guild came out now and cleaned up all the damage miraculously, doubt will have been spread about their abilities. Some people might even correctly realize that the Guild caused the damage in the first place.
+
+That left Rodrick with a very grim realization. Because, when one knew that the Guild was in fact the source of the damage, there was only one possible reason for them to have caused it to such an extent in the first place.
+
+They were going to pin this on someone.
+
+That would be the only way to keep the kingdom from rising in rebellion against them. Someone else had to be built up to take the fall. And they wanted them to fall hard. Hard enough to completely take the heat off the Guild’s back. There really weren’t all that many enemies who the Guild could build up to such a degree.
+
+For that matter, there was only one.
+
+The Monster Horde.
+
+Rodrick stopped pacing. Unease had built into a tight knot in his stomach.
+
+If the Guild was building to the point when they brought everything crashing down and blamed the monster horde, then the resulting war would be enormous. Leagues of powerful adventurers, all united under the banner of the Guild, forging out to end who they perceived to be their enemy.
+
+The death count that followed would make the damage from the Dungeon Breaks look like a footnote in history. Thousands of good men and women. Thousands of monsters like Lillia and Monica and Madiv who only thought they were defending their homeland. Every single one of them unaware that they were reporting to the very same group, used like pawns and discarded just to cling onto every scrap of power that the Guild could get its wretched, greedy hands on.
+
+And if the Guild pulled it off…. they’d wipe away any trace of their own involvement in the destruction. Nobody would even realize what they had done. Only the Mesh knew how long it would take for the truth to come out, if it ever did.
+
+The Cycle would keep on as it was.
+
+And if we wait too long to stop the guild, there won’t be any stopping the war. Even if we take the Guild down, tensions will have risen too high. The damage will never be able to be undone.
+
+Rodrick wasn’t sure how long they had. Arwin’s two-week goal was still viable. It took time for an operation at this scale. But they were going to be cutting it close.
+
+Not only are we going to have to take the guild down, but we’re going to need to find a way to show the entire kingdom — no. Not just the kingdom. The Monster Horde as well. We’ll have to show everyone what the guild has done. Because if we can’t, forget saving the Mesh. What they’ve set in motion will make people tear the world apart entirely on their own.
+
+There won’t be anything left to save.

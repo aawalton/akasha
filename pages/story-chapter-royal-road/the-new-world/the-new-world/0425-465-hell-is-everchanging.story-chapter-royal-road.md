@@ -1,0 +1,601 @@
+---
+id: 987b3d0d-23db-5df3-ac46-af12a56085db
+page-type-slug: story-chapter-royal-road
+title: "465 Hell is Everchanging"
+slug: 0425-465-hell-is-everchanging
+partOf: the-new-world
+position: 425
+ownLength: 5823
+unit: words
+ownProgress: 5823
+publishedAt: 2025-08-20
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2532216/465-hell-is-everchanging"
+royalRoadId: "2532216"
+markedReadAt: "2026-06-29T21:35:56.861Z"
+---
+
+I gave her a thumbs up.
+
+"Sure thing. For you, Opal, I think if we get the right circumstances, we can even get you that class unlock."
+
+Opal peered down.
+
+"I wouldn't bet on it. Fringe Walkers are notoriously difficult to upgrade, and I haven't been able to push for that even after thousands of years."
+
+I gripped my hands into fists.
+
+"Then let's change that."
+
+Chapter Begin
+
+After a few hours of prep work, Opal and I bid the others adieu. We had a conversation about the caliber of enemies we'd face, and Opal began to get cold feet. Before she could give up, I took a few precautions. I enlisted a vanguard golem to protect her, and I explained the Rise of Eden. I even saturated the city in the aura to leave a lingering buff.
+
+While we flew out of the city, Opal marveled at the enormous increase in stats.
+
+"How is this even possible?"
+
+I made a serious expression, and I shifted my gaze around unnecessarily.
+
+"I have a very particular set of skills."
+
+Opal squeezed her hands together at her sides like an excited valley girl.
+
+"I suppose so. Heh, it feels like I could do anything...But what's this for?"
+
+She pointed at the vanguard golem. The vanguard turned to her, and it answered for itself.
+
+"I am here to surge ahead and clear a path. You'll find spoils of war in my wake and blood under your feet. It will lubricate your heels so that you may slide across the terrain, should it slow you."
+
+Opal's cross frowned.
+
+"Uhm. Ok."
+
+The vanguard raised a hand and roared out.
+
+"For the Harbinger."
+
+I sighed.
+
+"They're still a work in progress."
+
+The vanguard ignored any dissuading opinion, charging forward with quintessence and ascendant mana flooding its entire frame. After about an hour of travel, we stopped for a quick charting session. I graphed and mapped out nearby landmarks, including lakes, mountains, and other notable features.
+
+Opal watched on.
+
+"What are you doing?"
+
+I held a status screen over my minimap, drawing in more details by zooming in.
+
+"I'm trying to preemptively scout out a few details so that my guild isn't treading into unknown waters. I want them to know the currents of this sea, so to speak."
+
+Opal watched me continue my mapping before she pointed at what I marked on.
+
+"There was a dungeon there. A red one, and it had a few time-based monsters."
+
+I frowned.
+
+"Ah, they were, weren't they? Hm. They almost felt too weak to mention."
+
+She scoffed.
+
+"That's why they're worthy of note. They're well below the baseline level of other occupants here. That lets people have a training ground for the time-based area in the future. My inspections mentioned a few solid items from the estimated loot pools as well, and that's exactly what you want from a dungeon. Isn't it?"
+
+I peered at the dungeon in distaste.
+
+"For weak loot bags?"
+
+She guffawed.
+
+"Well, yeah. That is literally the goal."
+
+The vanguard stamped its spear onto the ground.
+
+"FOOLISH. These are grounds for the evolution of the universe's most elite, powerful, and capable warriors - the Harbinger's legion. An undefeatable, surging tide. There are no forces we have that meet the definition of weakness. They are either strong or becoming strong. That is the only acceptable path."
+
+Opal scratched the side of her head.
+
+"Doesn't becoming strong just mean they're currently weak?"
+
+The vanguard tilted its hand to her and shook it around.
+
+"Transient states are difficult to judge, and oftentimes, they are the subjects of vast philosophical debates. These kinds of discussions can enlighten all who hear them, and they offer enormous insight into the vast arrays of various thought patterns available to us sentients. To me, this transient state of strength's absence is merely a reflection of inner strength."
+
+It was spouting word salad. The vanguard held its hand to its chest. A tear of mana leaked from its eye.
+
+"It's a showing of inner strength and the perseverance to overcome one's limits. It's beautiful."
+
+Opal leaned toward me.
+
+"These things are, uh, supportive, huh?"
+
+I stared forward.
+
+"Honestly, I haven't actually talked to these golems that much."
+
+The vanguard stuck its fist out, shaking it with eagerness.
+
+"By Daniel, what are we waiting for? Let us tread forth into the unknown!"
+
+Opal burst into laughter.
+
+"By Daniel? You mean by Schema, right?"
+
+The vanguard swiped its hand to its side.
+
+"Absolutely not. There is only one god to me, and he's floating right there."
+
+I leaned back, horror spreading over my face. Opal turned to me, and she cackled.
+
+"Oh, I'm going to enjoy this trip a lot."
+
+I dragged my hands down my face.
+
+"Oh, it's going to be a blast."
+
+Several hours passed, and we continued our travel to the Southern Firelands. My incredible naming sense was once again verified as overwhelmingly astute - the Firelands were, in fact, fiery. We passed the threshold of its encroaching barrier, entering a domain dominated by heat and animism alike.
+
+With it came a notification.
+
+Quest: The Death of the Firelands Ruler | Rank: S- | Description: There exists a solar-tier threat that has ruled over this area of [Rebirth] for millennia. Showcase the courage and bravery of a Sovereign by slaying the ruler of the Firelands. In doing so, you will be awarded!
+
+It was a pleasant verification that kept me on task. That was difficult to do as I peered around at the strange territory. The sky above the land dimmed to an absolute darkness which defied all conventions. Neither the sun nor the moons shone here. Instead, sunlight came from below. The soil itself glowed like walking on a star with a planet's gravity. The air blurred near the ground, and it left the entire expanse mirroring a mirage.
+
+We passed over it all, and as we did, I let the heated mana soak into my body. It carried something deeper than just heat, and the concepts laden in the energy clashed with the cold, frigid laws of the Northern Frostlands. This power held many ideas, from desire to fervor to love. It was intensity incarnated as mana, and it reminded me of ascendant energy. Unlike ascendance, this mana wasn't about hunger or conquering.
+
+It revolved around burning passion and sacrifice. It bled through my health and stamina, though I still hadn't experienced even an ounce of exhaustion from the siphoned stamina yet. It reminded me that the resource existed, and that was novel in its own right. In fact, stamina was the most important stat here.
+
+Every creature burned through it as they shifted and molded with the heat. Wyverns floated through the dark skies, their black belly scales making them invisible in the perpetual night. They found floating blobs of plasma leaking into the air from the ground. Their snapping jaws opened wide, and finned jaws siphoned the clouds before zapping bolts of red lightning struck the wyverns from the ground.
+
+Below, resonating fire elementals wielded electricity in their palms, each of them like some angry Zeus. Cracks spread over their bodies by the second, and a few regenerated their crumbling bodies all the time. They gathered on the shores of magma lakes. Within the bubbling, molten rock, fire mana crystallized in floating batches, and the weaker fire elementals swirled out over the ponds to get them.
+
+The elementals' bodies were like fire spouts, but they radiated fear. An unasked question was answered as a hulking magma koi rose from the enormous ponds, swallowing an elemental whole. These colossal koi had shining scales and were sheened with violence. They left trails of obsidian in their wake as they swallowed the heat of the lava lake.
+
+Even larger, kilometer-spanning fire sharks followed those trails of obsidian, and they snapped at these fish. When they collided, enormous eruptions plumed into the sky. Those explosions killed vast swaths of creatures, eliminating all that lived near them. From the corpses, babies of each race erupted before eating their parents' corpses.
+
+This all culminated in a volatile, ever-changing ecosystem where every animal fed on the other. I took a breath.
+
+"Damn. Baldowah would probably love this."
+
+Opal crossed her arms.
+
+"Was he one of the Old Ones you met?"
+
+I nodded.
+
+"Yeah. It loved war, finality, and consequence. This place lacks the factional interplay of war or the finality of death. However-"
+
+Eight different eldritch died in my vision.
+
+"It definitely has plenty of consequences."
+
+The vanguard swooped down while howling and diving into the magma. Seconds later, one of the shark leviathans arose from the depths. It carried the vanguard in its mouth. The golem kept the monster's jaws open, and it bellowed.
+
+"Don't worry, Opal. I will kill this place until it is dead."
+
+I let out a sigh before bolting up and attacking a pack of wyverns above us. Opal followed. Diving into the center of the pack, I tackled through one of them, turning the monster into a ball of fiery mist. The kill notification sounded before the mist siphoned into the other wyverns. They grew extra size and glowed brighter.
+
+That process continued, each death filling the remaining wyverns with energy and animism. By the time I killed the last wyvern, the level 20,000 eldritch had evolved into a single level 30,000 monster. I tore it in half and evaporated the rived halves with Event Horizon. Its mist flowed into me, and my eyes opened wide.
+
+The mana carried emotion, and it surged into my head like a poorly considered impulse. At that moment, I was battle. I was hate. I was love and fury. I turned to the monsters below me, diving into a pack of elementals. They wielded lightning strong enough to split the sky and tear the land.
+
+Each enemy could lift a mountain and dry a lake with a single breath. They launched electricity from their hands that held enough mana to vaporize an entire city. I crashed into them as carnage manifested, and I wrenched them into corpses in seconds. These beings didn't run or strategize as the ice creatures had.
+
+They dive-bombed me the moment I landed in their midst, and I ripped and tore them asunder by the thousand in minutes. Their odd mist kept pooling into my body, and it gave me a hastened, empowered form. With each kill, I strengthened. With each death, I burned. My body glowed, achieving a transcendent splendor, and I carved a path of desolation like a living star.
+
+All of my strength was used against these feasting monsters, and I carried immense potential. As I soaked in more and more of the heat, I gained more awareness of what it was. This energy was the embodied power of sacrifice. Every creature here didn't fight with their lives on the line. They lived while actively churning through their life force, mana, stamina, and health.
+
+The berserker state wasn't a kind of battle fervor. It was fervor for life and to live it to the fullest at all costs. Instead of masking my perception in a small, narrow field of bloodlust, my vision expanded. My silver blood thumped through my chest with a heavy pounding. It raged in my veins as my body demanded more life force.
+
+I honed in on what I was doing, and I computed and controlled my every action. That is, until I passed a tipping point for the mana. Eventually, it pooled into my frame to such a degree that I could hardly think anymore. I was my will. I was my animus, and I desired an outlet for all of my surging resolve. Thoughts jetted across my mind well before I digested them, one errant desire or emotion crashing into the next.
+
+I entered a mania, my many psyches surging into action. They doubled and then tripled my efforts on my runes, mana channeling, and studying the library Torix left me. The leading Daniel tore and gnashed at the enemy. I carved them into pieces, relishing in their superheated blood. It was like a warm shower, the sensation peaceful and cleansing.
+
+At the same time, I pulled fire leylines into the dimensions I carried. Why leave anything? Why allow this bounty to fester here in this realm of fire?
+
+I would bring this home. I would turn Mt. Verner into the largest volcano to ever exis-
+
+I shredded my commanding mind, the battle lust and general insanity dissipating. Unlike the stasis of the ice energy, this heat energy made me burn through my resources. All doubt and hesitation had left my psyches, and in many ways, that came with incomparable strengths. I had accomplished a lot in a short period.
+
+However, this approach also held many weaknesses. Behind me, Opal trembled in fear while my vanguard golem lost all semblance of sanity. It let out haunting metallic laughs that echoed far into the horizon, and its body bathed in the blood of enemies as well. It was looking like the first golem I would have to decommission, and a pang of sadness welled in my chest.
+
+The vanguard golem then played out a guitar solo with his air guitar. I had to help it survive. Charging over, I grasped it from behind by wrapping my arms around the combatant. Event Horizon eroded the charged mana in the golem over the next hour, and it regained its sanity. The golem turned back and forth,
+
+"Where am I? Who am I?"
+
+I let him go, and the vanguard turned to me. It bowed.
+
+"Creator, I'm...I'm so sorry."
+
+I raised a palm.
+
+"Hey, that's what I'm here for, right? Just don't absorb so much of the mana."
+
+It gazed at its hands before clasping them into fists.
+
+"I shall heed your words, Harbinger."
+
+From then on, it never allowed more than a small amount of the red mist to enter its body, and it carried an extra blue core in its hand to store the extra mana for later inspection. It did all of this, and I marveled at how efficiently it tore the monsters apart, its might rivaling my own as it generated devastating waves of gravitation and telekinesis.
+
+Opal gawked at it before I flew over. I gestured to the golem as it ripped a wyvern in half.
+
+"So, what do you think of the journey so far?"
+
+She quivered.
+
+"This isn't my cup of tea."
+
+I blinked in confusion.
+
+"Of course, it isn't. Tea would just evaporate here."
+
+She peered at me, and I grinned back. She let out a sigh.
+
+"So, fair enough...My point is that this isn't what I expected. I thought there would be some impressive heat magic that carried immense depth. Instead, this is more like a cesspool of insanity. Everything here is using some kind of boosting skill all the time, from birth till death. I've never seen so much overkill."
+
+I waved my hand over it all.
+
+"Personally, I think there's a lot to learn from their approach."
+
+Opal leaned back and sneered with her cross. It was a strange expression.
+
+"Are you kidding me? They're all just rushing headlong into death. They're not focused on anything but the current moment, and that leaves them with no future. They're rushing forward with no plan."
+
+I squeezed one of my hands into a fist.
+
+"And yet they thrive. If you think about it, we're all on a slow march to death in some form or another. These creatures have abandoned that drudgery in favor of a vibrant fanaticism. They want to go at it with everything on the line."
+
+Opal hugged herself.
+
+"It's morbid. They don't care if they live or die."
+
+I raised a brow.
+
+"It's inspiring. They're refusing to wait and be idle. We could all use an impetus in our lives."
+
+Opal watched several eldritch die. Many of the monsters created children in an instant, and they sacrificed themselves to empower their young and skip their childhood. They went into the vast Firelands, forging ahead despite the odds. Opal let out a long sigh.
+
+"It's not my path. I want nothing to do with this."
+
+I raised a hand.
+
+"I'm sorry this isn't working for you. I thought you'd get a ton of inspiration from this as a light and heat-oriented fighter."
+
+Opal let her hands flop against her sides.
+
+"Light gives life. It builds a planet up over time, and that creates all the ecosystems you've ever seen. This isn't like that. Actually, it's the total opposite, even conceptually. Everything here acts like it's trying to die as soon as possible. It has nothing to do with momentum or purpose. It's an unthinking present."
+
+Opal leaned back.
+
+"I never wanted that. I'd rather live a long, wholesome life. Is that too much to ask?"
+
+I opened my minimap.
+
+"Definitely not, and feel free to head back anytime you want. The vanguard can escort you back. I know it seems unfocused, but they follow orders whenever I mention them."
+
+Opal shrugged.
+
+"Hm...I-I can help you chart as we go. It isn't like you're getting much of that done with how you've been progressing, and honestly, you suck at picking up meaningful resources, exploitable dungeons, or stable areas."
+
+I crossed my arms.
+
+"And what exactly makes you think that?"
+
+Opal pointed behind us. A ten-kilometer-wide patch of slaughter carved across the terrain all the way to the horizon in the distance. Magma spilled from corpses, their glowing blood pooling into a glistening stream. It flowed forward as if omening a terrorizing beast. I coughed into a hand.
+
+"Point taken."
+
+Opal stared at me.
+
+"So, how did you clear your mind from all that pooled energy? It looked like mana poisoning."
+
+I shrugged.
+
+"I reset myself."
+
+Opal let out a light laugh.
+
+"Reset?"
+
+"Yeah. I killed the mind and had another replace it."
+
+Opal's laugh deepened.
+
+"Yeah, sure. You don't have to tell me about your mental cleansing ability if you don't want to. I won't pry."
+
+I shrugged.
+
+"Sure."
+
+Opal sent me several messages, each of them containing the updated maps and charts for our cleared areas. As was the case with The Frostlands, the leyline density increased as we marched South. We had already pierced through the majority of this region, and I frowned at how far we had traveled.
+
+I"How long was I tearing them apart?"
+
+Opal took a breath.
+
+"Three days."
+
+I took a sharp breath.
+
+"Well then. Ahem. We need to find the leader of this place. I may need to go back and get the cores before-"
+
+Opal tossed me one of the fire cores leftover from one of the enormous, kilometer-spanning fore sharks.
+
+"I harvested them. I also took obvious clumps of fire mana or valuable pieces off the eldritch corpses. In particular, the fire scales looked valuable since they could be fashioned into cold-resistant armor. They were easy to get to since you were killing such a wide area, and I'll charge you the standard scavenging rate that's expected from people."
+
+I raised a brow.
+
+"And here I thought you looked petrified."
+
+Opal waved a hand.
+
+"Hah, I totally was. It wasn't from the monsters, though. It was you that I was terrified of. For instance, like, why were you laughing maniacally?"
+
+I furrowed my brow. Maybe the mana didn't help with my focus as much as I had thought.
+
+"That was my armor, not me."
+
+"Aren't you and that armor bonded?"
+
+"Well, yes."
+
+Opal moved a hand over the torn-apart terrain.
+
+"So when it does something, you do it too. Anyways, it was crazy. You'd move forward, and ascendant mana radiated out from around you. It would soak into the eldritch, driving them into a bloodthirsty frenzy. They searched for the food source, found you, and died in droves. It was an extremely effective wiping strategy for an area. It also didn't destroy the territory itself, which is rare for Fringe Walkers in general."
+
+I side-eyed her.
+
+"So, it's not like I don't already know, but can you give me a refresher on how far we travelled?"
+
+She shook her head.
+
+"We crossed about 30,000 kilometers, so you covered 300,000 kilometers. Ergo, 100k a day. For your home planet, that means about eleven years to actually wipe the planet clean. It would be an immaculate cleansing as well since the eldritch ran out of dungeons, and you got rid of a few viral eldritch in the vicinity."
+
+My eyes widened.
+
+"Viral?"
+
+Opal scoffed.
+
+"Of course. They're all over the place. It's actually one of the most important aspects of Fringe Walking. We have to be able to isolate different strands, identify the dangerous ones, and eliminate them. Usually, that's done in the years following a clear via vaccines or other system-enforced methods. You know, like unlocking a tree that stops a certain strand of virus or bacteria."
+
+I gawked.
+
+"I've never noticed them. Huh. Weird."
+
+She gestured to me like her hand was a sweeping broom.
+
+"You'll never feel them since your armor absorbs them on contact. Your aura also cleanses them from an area, according to my readings, at least. Actually, that aura is such a profoundly effective sterilizing agent that I can hardly believe it. Other Fringe Walkers I know would kill for that ability since it saves so much time."
+
+Opal peered up.
+
+"And this would be a true solo clear. I've never done that before, and I've never heard of anyone doing it either."
+
+Her cross made a smirk as she puffed out her chest.
+
+"But that's nowhere near the year timeline you had mentioned."
+
+I smiled back.
+
+"What if you include the vanguard golem?"
+
+She waved her hand.
+
+"It barely cleared just over a tenth of what you did."
+
+My smile brightened.
+
+"Ah, then ten would clear this planet in eleven years as I would, a hundred would clear it in less than two, and a thousand golems would clear a planet in two months. That's not too bad."
+
+Opal stepped back while hovering in the air.
+
+"You can make that many? I thought you were limited to only a few every now and again. Maybe a special system skill or tree unlock or something."
+
+I shook my head.
+
+"I can make as many as I like, given enough time, that is. Anyways, let's head out to the boss of the area. I want to see what they have to offer. And of course, you'll need to stay back with the vanguard golem."
+
+Opal nodded before we headed out. While passing the terrain, I took out portions of the eldritch while harvesting nearby leylines. I kept them in a different world slice than the icy leylines since their elements clashed. Another interesting tidbit involved the pocket dimensions I left the icy leylines in.
+
+It had been a barren world of endless plains, and they lacked any stars in the distance. It was dying, and the leylines brought life once more. The channeling stones transformed the entire dungeon into an icy tundra. They took the energies from the collapsing subspace and honed them into something the eldritch could actually ingest, causing them to rapidly evolve to the ice-attuned energy.
+
+While it didn't restore the subspace into an actual universe, it did revitalize the eldritch there. Even after only a week, the eldritch gained an average of six hundred levels from the mana exposure alone, and they lost some of their innate volatility. While not immediately useful, the experiment granted a far better understanding of how the leylines would operate on Earth.
+
+From this experiment, I learned the leylines would rapidly empower the eldritch but make them less virulent. It was a trade-off and not necessarily a good one. Earth's average levels were somewhere in the 600-700 range for a normal person. Larger factions created stronger averages, like my guild, where individuals sat around the 2,000 mark. This meant they would get squashed by a leyline-saturated landscape.
+
+Also, Schema retiring the leylines made more sense. They were potent long-term tools, but they offered intense demerits in the short term. I'd also imagine any mage or warrior attuned to the elements within the affected domain would be far stronger. Either way, plopping them down on Earth would result in disastrous consequences, so it couldn't be done.
+
+At least not on its surface and not yet.
+
+What about the rifts within the Infinity Plaza? That was a different story since the upper dungeons held pretty airtight defenses, preventing the eldritch from slipping out. Perhaps I could even store my portable dungeons within Mt. Verner and attune them to these different manas.
+
+They could offer a variety of resources at a convenient, local location, and we could even cultivate rare plants and animals there. My mind danced with those possibilities as we all carved a path through the heated terrain. I enjoyed it quite a bit, the blazing mirage being stunning and gorgeous.
+
+Unlike the icy domain, I harmonized with the approach of this entire space. It reflected my first advanced mana type, ascendance, and it also took full advantage of the stats and strategies I had neglected. In this case, my lack of boosting skills that burned through my resources.
+
+It was such an obvious idea, yet I never even thought of it after all this time. My regeneration stats could handle immense amounts of strain, and I had abused that regarding my mana. On the other hand, my stamina stat had been left idle for a long time, even becoming a running joke in my head. The infinite plus plus stuff was like a victory lap after checking the other real numbers in my status.
+
+Instead of having my stamina act as a hollow victory, I could use it to help achieve real triumphs instead. To make that happen, I would have to generate the mana of this place and actually learn it inside and out. It would be an obvious skill to use and a powerful dimensional wake, assuming these types of mana could even be one.
+
+All that was left was channeling the mana through me to burn through my resources. Those thoughts swirled in my mind as we approached a collossal mountain in the distance. The peak bled into the fathomless darkness over our heads, the obsidian stone blending into the black sky. Strips of magma outlined the volcano's shape, exposing a structure as large as the Earth's moon.
+
+It defied all expectations, and I gasped.
+
+"How is this planet so damn huge?"
+
+Opal gestured around us.
+
+"You're talking about the gravity, right?"
+
+I nodded.
+
+"This place should've turned into a brown dwarf or small star since it has so much mass, yet it exists with a gravity that isn't overwhelmingly larger than the Earth's. It defies physics."
+
+Opal scoffed.
+
+"Yeah, physics without magic, maybe. Then again, what is physics without magic? It's like studying medicine without anatomy or math without logic. You end up missing a lot of what's capable of happening. You'd have to be a fool to assume that everything would work the same once you inject mana into an equation that complicated."
+
+She pointed into the distance.
+
+"For planets like this, the dungeons have all busted out of their pocket spaces. They're like rifts that opened all the way. Unlike in the current era, Schema used to integrate these spaces into the actual fabric of the world, and that's resulted in some wonkiness with the densities of different matters."
+
+She pointed below.
+
+"It's a dimensional patchwork down there, and because of that, the unity required for a huge gravity well never actually happens. They all fight like a bunch of planets orbiting each other. By the time that fight reaches the surface of the world, you get relative harmony."
+
+I frowned.
+
+"That sounds convenient."
+
+Opal pointed at the mountain.
+
+"So is a thousand-kilometer tall mountain, but there it is. We can question the hows all day, but we know it works this way. We can see and feel it. Instead of wondering about the details, how about we explore the huge volcano?"
+
+I smiled at that thought.
+
+"Alright. Sure."
+
+We flew up the side of the immense peak. Unlike Ghelid's territory, the eldritch leader here didn't have breeding camps or torturous facilities. I hoped that was for some ethical cause, but I doubted it. The mountain itself fed the ruling eldritch with its magma flows. See, unlike a normal mountain, lava flows didn't stream down the sides of this place.
+
+They ran up instead.
+
+That resulted in literal mountains of fire crystals and cores coming up the sides of this volcano. Eldritch fought on the sides of the peak, trying to steal the loot of the leader. However, packs of phoenixes fought them off. They made no caws or squawks; the only sound emanating from them was the screams of burning eldritch.
+
+I tore through a few packs of the phoenixes, and it didn't take long to uncover the mystery. Unlike their brethren, these flaming birds had no mouths or openings for their beaks. They lived by subsuming the mist of dying eldritch. Combined with their insane battle lust, and the phoenixes kept the mountain clear of would-be thieves.
+
+I gestured to the setup.
+
+"This is way cleaner than Ghelid. I'm actually willing to negotiate with whatever's ruling this place."
+
+Opal shook a hand at the eldritch.
+
+"Those things aren't natural. They were bred for this purpose."
+
+I shrugged.
+
+"Yeah, but they're not in constant pain or agony. These things are just doing what they were designed for."
+
+Opal shivered.
+
+"Yeah, designed being the keyword. Someone made these things for this. Who's to say they didn't make other eldritch for other purposes?"
+
+I generated a singularity in the distance, a pack of phoenixes obliterating.
+
+"Is that really so bad? Sentient species have been breeding and domesticating animals since well before Schema."
+
+Opal peered at he destruction.
+
+"I...I've been to planets where someone took advantage of the eldritch's rapid evolutionary cycles. They made them into all kinds of freakish shapes and sizes. Bottle eldritch, purifying water eldritch, even knitting eldritch. They made them for everything, and I do mean everything. Yeesh. It was all so creepy."
+
+I winced.
+
+"Point taken."
+
+After crossing many miles and harvesting thousands of leylines, we reached the peak of this realm, perhaps the world. At the apex, a vast cylindrical corridor extended downward. For thousands of kilometers, the depths continued in an endless drop-off. Along the cliffsides, thousands of magma streams flowed down.
+
+The phoenixes guarded this area, all of them nesting on the edges of the cliffside. They protected their eggs, each of their children glowing within their protective shells. Those coverings vibrated, each ringing out with a sound that resonated. The note built into a hauntingly beautiful melody of life and death, one that filled me with energy.
+
+I gazed down, awestruck by the size, scale, and otherworldly majesty.
+
+"This is incredible."
+
+Opal took a deep breath. Her voice was full of joy.
+
+"This. This is why I want to keep being a Fringe Walker. We get to see things that others only dream of. Things that other people can hardly imagine. Tell me this wasn't worth it just to see this?"
+
+A begrudging grin ran up my lips.
+
+"It's pretty ok, I guess."
+
+She gestured with her hands.
+
+"I live for these 'pretty ok' sights. Ah. Love it."
+
+We watched on for a while before the vanguard got impatient. It dove down while screaming at the top of its lungs.
+
+"For our lord and savior Daniel and the legion!"
+
+I slapped my face a few times, trying to cleanse my brain as the phoenixes watched the vanguard. The flaming birds carried no ill intent, only observing the vanguard's suicidal dive. The anticlimax left me curious, so I followed downward. Opal kept close as we tread into yet another world.
+
+The heat mounted to a blistering degree. Pressure caved onto us as we traveled kilometers down. After a while, I shouted.
+
+"Yo, vanguard. Come back."
+
+Opal peered at me.
+
+"I was wondering, but why don't you give them names?"
+
+I frowned, remembering the loss of my first golem, Alpha.
+
+"It's harder to let them go if I do."
+
+She floated away, grabbing her arm behind herself.
+
+"Oh. Sorry."
+
+"It's not a problem. You asked a question and I answered. No harm done."
+
+The vanguard surged up, magma falling off of it and its body glowing from the heat.
+
+"What is it, oh mighty and illustrious-"
+
+I raised my palm.
+
+"I need you to take Opal out of here."
+
+She sighed.
+
+"Yeah. This is out of my league. I can't even tolerate the heat or pressure, let alone help in a fight."
+
+I frowned.
+
+"Sorry I didn't help you with your class upgrade."
+
+She waved my concern off.
+
+"You showed me a lot, honestly. Even if a bit daunting, I am a bit more inspired after seeing all this. I'll try to convert that into a different kind of victory further down the line."
+
+"Good," I said. I put a hand on the vanguard's shoulder.
+
+"Protect her with your life."
+
+It put its hand on my shoulder.
+
+"Creator. I have dreamed of this day."
+
+It hugged me close and squeezed tight.
+
+"I want you to know that I am now complete. A death mission? The other vanguards are going to be so jealous whenever I get back. Oooh, even better if I don't. Then, they'll have to recite my legend and remember me forever as they tell stories to one another of our grandest members."
+
+I gave his back a pat.
+
+"That's great."
+
+It kept holding me for a while. I gave it an awkward look.
+
+"Uhm, are you going to let me go or?"
+
+"I had no plans to do such until you told me to or forced me off of you."
+
+Opal let out a burst of loud laughter.
+
+"This is ridiculous."
+
+The vanguard met her gaze. It spoke with absolute solemnity.
+
+"Ridiculously awesome, if that's what you mean."
+
+I pointed up.
+
+"Go."
+
+It let out an exaggerated and long sigh. It dragged the sigh out for at least five seconds too long before finally letting me go. It went and picked Opal up in its arms before flying up. It yelled.
+
+"I completely understand that you're fully capable of carrying yourself, but I am simply fulfilling a childish fantasy of mine in an entirely selfish wayyyyy!"
+
+It reached the peak of the mountain before an explosion of telekinetic force rocketed it away. A tiny dot fell from him, and I snatched it out of the air. In my palm radiated the blue core the vanguard carried and charged up. I let the moment pass.
+
+"Well, that just happened."
+
+I gazed down.
+
+"Alright then. Let's see what's in the pits of hell besides beauty."

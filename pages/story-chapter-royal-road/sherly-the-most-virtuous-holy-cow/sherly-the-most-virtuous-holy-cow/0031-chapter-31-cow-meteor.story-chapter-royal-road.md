@@ -1,0 +1,169 @@
+---
+id: f3b71bc8-94b1-5188-928b-e97b4aa2f0cf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31 - Cow Meteor"
+slug: 0031-chapter-31-cow-meteor
+partOf: sherly-the-most-virtuous-holy-cow
+position: 31
+ownLength: 1879
+unit: words
+publishedAt: 2026-01-07
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2920450/chapter-31-cow-meteor"
+royalRoadId: "2920450"
+---
+
+Chapter 31 - Cow Meteor
+
+Sherly had a moment of clarity before colliding with the monster. She regretted her actions, of course. Blaming it on adrenaline, the only thing her reckless self could do was make sure she didn’t miss. It would be one heck of an embarrassment, if she did.
+
+It was instantaneous. The impact, and the blackout. Her consciousness barely registered seeing Stalwart bury itself within the giant monster. The last thing she remembered was hitting her face on its scales, her wingsuit collapsing, her body ricocheting back into the air, and then tumbling on the ground like a skipping stone before coming to a sudden stop as it slammed into a large boulder.
+
+Continuous Regeneration fixed her consciousness first, as if it was a parent looking at her with disappointment and telling her ‘I told you so’. It made sure she was aware of every broken bone, every open wound, and every missing piece of her innards, before mending them painfully.
+
+Rather than wallow in her suffering, Sherly checked on the monster. She felt a sense of pride and relief when it stood there, completely ignoring the fence now.
+
+Gigantic as it was, the force of impact had caught it by surprise. The tall creature stood on two legs, now shaking from the sudden attack. Its head had a long snout, topped with what looked like a mushroom cap. Its eyes had long since rolled up. Above the cap were two feelers, now wriggling in pain. It was covered in brown scales that could pass for a tree’s bark, and it had numerous thin arms that looked similar to tree branches.
+
+Sherly observed the tree-mushroom-hybrid monster, leaning slowly as it began to fall down like a tree that had been cut. With a step, it caught its balance, and with another, it lost it again. It was attempting to fall on the cow-chilim, willing that its death throes would have at least one victim.
+
+She couldn’t move. Her Continuous Regeneration was prioritizing her vital organs and had left her arms and legs broken. From afar, she could see Ishuin and the others diving towards her, but the monster was already going down.
+
+Sherly didn’t dare close her eyes. Things seemed to slow down as she desperately tried to convince herself that she would survive. She had regenerated from being semi-goop after her interrupted evolution, so she had some precedent to hoist her confidence.
+
+Only, with staring death in the face, feeling its slow clutches creeping around her, the cow-chilim couldn’t help but doubt herself.
+
+What if it smashed my brain? I was conscious during my evolution, and that meant my brain was intact. What if my regeneration won’t work without my brain?
+
+At the last second, fear completely gripped Sherly and she instinctively closed her eyes.
+
+The ground shook, and she felt the force, the dirt, and pebbles pelt her face and armor. Then a breath told her that she was still alive, urging her to open her eyes.
+
+At her feet was the mushroom cap of the giant monster. It had missed her by inches, causing its feelers to land on her either side. Stalwart was there in its nape, half of the blade buried in its flesh.
+
+Ishuin and the others landed by the time Sherly’s legs finished mending. Together with Maymay, the elf headed for her while Kasta went straight to the lift.
+
+“Are you okay?” asked the elf.
+
+“Yeah,” the cow-chilim replied.
+
+“How about in the head?” the dog-zilim followed up.
+
+“Huh?”
+
+“You dove without warning,” Ishuin explained. “We thought you’d lost your wits.”
+
+“Who would do something like that?” Maymay added. “You have to admit, it was pretty stupid. Cool… But stupid.”
+
+“Yeah, it was pretty cool. And pretty stupid.”
+
+“Is it dead?” Sherly asked, ignoring their japes and questions.
+
+“It is, but we have one more incoming.” Ishuin reached out a hand. “And this time, no cool-stupid moves like that. Only effective-cool moves.”
+
+The cow-chilim smiled and moved her healed arm, accepting the elf’s help.
+
+“I’ll do my best, Ishuin. But I’ll be honest with you, I can’t make that promise.”
+
+As the elf sighed, Sherly walked over the monster’s corpse. “By the way, what are they called?”
+
+“Demon-Treantcaps,” Maymay replied. “They’re one of the outcomes of life mingling with Taurus’ corrupted influence.”
+
+“Oh, I didn’t know it was a demon.” The cow–chilim blinked twice, staring at the monster at her feet. “I wonder what bark tastes like?”
+
+“Eat it later,” Ishuin interjected. “Like I said, we have one more incoming.”
+
+“Yeah, I heard you.”
+
+Sherly walked up to the Demon-Treantcap to retrieve Stalwart. As soon as her hand grasped the hilt, a sudden surge of power filled her veins. It was empowering. The strength was a blazing fire, urging the volcano within her to erupt. It took all of the cow-chilim’s will to control it, and the feedback it caused almost made her lose her grip.
+
+She doubled-down, using both hands. It refused to budge, no matter how much she pulled. Stalwart wanted her to unleash the fire, promising her that no danger would come to her and her friends.
+
+Sherly trusted Kobeni, the cow-zilim who had given her the greatsword. It also meant she trusted Stalwart. As it emerged from the corpse, wreaths of flame spiraled around its blade. She felt only warmth from them, and the rest of her equipment remained unharmed, even as small specks of fire touched her gloves.
+
+[Congratulations Sherly. You’re now Level 15. The Weapon Skill, Ignite Blade is now part of your repertoire.]
+
+It looks gorgeous!
+
+The cow-chilim brandished her greatsword, letting the flames flow like rivers of magma. She couldn’t help but smile as she admired the mesmerizing beauty of it. Filling the arc of her swing, the flowing flames followed her entire motion before gradually dispersing into smoke. With it came and went a blazing roar that almost caught her off-guard.
+
+There was a sudden rush to her swing, Sherly noticed. It came a bit faster than she expected, almost as if the fire was propelling her strike.
+
+[Weapon Skill - Ignite Blade. Surround your weapon with wreaths of flame, dealing extra fire damage with each strike at the cost of life and mana. The cost will not kill you, but it will render you immobile if your lifeforce is too low. As long as you maintain the Weapon Skill active, you will also gain additional attack speed.]
+
+“My lifeforce?” Sherly asked, almost letting go of her sword. She hadn’t felt it drain her life when the flames ignited, but she was hesitant to maintain it now. “I thought it would be mana?”
+
+“A common misconception,” Ishuin replied.
+
+“So what’s lifeforce?”
+
+“It’s not quantifiable, unfortunately,” The elf, along with Maymay, looked at Stalwart with admiration. “You’ll have to go by feel, but I think you won’t have any problems using it.”
+
+“Oh, because of my Continuous Regeneration?”
+
+[Correct. Even if you keep the flames forever, as long as your Continuous Regeneration remains active, you won’t have any problems. You just need to make sure that it’s a higher level than Ignite Blade. The only problem is if you get hit.]
+
+“If there are more things to regenerate, then my Skill might not keep up.”
+
+“Yep. Unfortunately, lifeforce is at the bottom of the list for Continuous Regeneration,” Ishuin explained. “It prioritizes your consciousness, then your fatigue, then your body, before anything else.”
+
+“So getting hit reduces your lifeforce…” Sherly tilted her head. “Then there should be a Skill that prioritizes lifeforce instead, right?”
+
+[There is, but as a demon, your affinity to lifeforce-based Skills is on the low end. You’ll have to work on your affinity for it, before you can unlock that Skill.]
+
+“How do I do that?”
+
+[Leveling up, of course.]
+
+“Oh…”
+
+Their conversation was cut short by the shaking ground. Ishuin pointed ahead, and both Sherly and Maymay followed.
+
+The first thing that came to the cow-chilim’s mind was the naturally deceptive nature of the treantcaps. If it hadn’t been walking, with the way its arms covered the mushroom cap on its head, she would’ve easily mistaken it for a tree. Without much knowledge, this forest in the valley of The Gap would’ve easily taken her life.
+
+That fear—worry, she told herself—sparked something inside Sherly. The simplest way to remove all doubt was to plunge head first into tackling it. That had been her way ever since, and she wasn’t about to change it now.
+
+She stood in front of the group, facing the approaching monster with determined eyes.
+
+“Ishuin, Maymay,” she started. “I want to fight it alone.”
+
+“Maymay, what level were you when you started fighting monsters on your own?” Ishuin asked.
+
+“Eighteen,” the dog-zilim replied. “But I fought monsters way below my level.”
+
+“What about the same level as yours?”
+
+“I… I haven’t.”
+
+“What level are you now, by the way?”
+
+“Thirty-three.”
+
+“I’m thirty-five, but just like you, I haven’t fought any monsters at my level yet.” Ishuin looked at the cow-chilim, standing bravely as the treantcap ran towards them. The earth quaked with its every bounding step, but if Sherly refused to give way, neither would the two of them.
+
+“That treantcap is Level 20,” Maymay said after quickly observing the monster. “Should we really just let Sherly fight it alone?”
+
+“Sherly,” Ishuin called out. “Do you really want to fight it on your own?”
+
+“Yeah!” the cow-chilim replied. To the elf’s surprise, she was smiling. Nervous but smiling. “I think I can handle it!”
+
+Ishuin turned to Maymay and shrugged. “Do you want to interfere with that?”
+
+“I can at least support you,” the dog-zilim said, trying to reason with the absurdity in front of them.
+
+“No!” Sherly said, holding Stalwart with both hands. Ignite Blade was active. “Only if I fall unconscious.”
+
+Ishuin checked on the lift. Just like they had planned, half of their fighting force had descended first, followed by the noncombatants like Edward. The vehicles were included in between trips. Duis was still managing the caravan at the top of the cliff, hidden by the clouds, while Kasta handled the people below. Rather than listen to her briefing, however, they were watching them. Watching Sherly, in particular.
+
+By her estimates, the lift would need two more trips to get all the people and vehicles they had. Afterwards, they would need to leave right away. The longer they stayed, the more danger there would be for them and the lift. Not just treantcaps, but all sorts of monsters would start to appear with so many people gathered in one place.
+
+“Sherly!” she called out. “Ten minutes. If you’re not done then, we’ll help you out.”
+
+“Why?” asked the cow-chilim, turning away from the jogging monster. “What happens in ten minutes?”
+
+“More monsters. We can’t handle too many while the caravan’s out of position.”
+
+Sherly gave a nod and returned her attention to the monster. She took a deep breath. “Five minutes, then. If I can’t kill it in five minutes, then help me out.”
+
+Without waiting for Ishuin’s confirmation, the cow-chilim dashed towards the treantcap. The elf could only afford a blink before shaking her head while smiling.
+
+“I’m going to have to get used to that, don’t I?”

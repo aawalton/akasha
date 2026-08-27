@@ -1,0 +1,145 @@
+---
+id: 52a772d4-414a-5b7e-915e-48e747ca9fbd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1336 - Simulated Experimentation"
+slug: 0210-chapter-1336-simulated-experimentation
+partOf: the-primal-hunter
+position: 210
+ownLength: 3002
+unit: words
+publishedAt: 2026-06-17
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3552557/chapter-1336-simulated-experimentation"
+royalRoadId: "3552557"
+---
+
+There was still one massive unanswered question for this system event that everyone was naturally wondering about: what kind of rewards were in store for those who performed well?
+
+So far, the Seat of the Exalted Prima had actually been pretty light in the rewards department compared to other system events. Only the Myriad Paths had given a title, and while the Administrator Seals were awesome rings, they were incomparable to a permanent title.
+
+Of course, many did believe that the ultimate reward would be the World Wonder associated with the Seat of the Exalted Prima, but there should at least be some other boons along the way? It was extremely rare for the system to host events in which only one winner would gain anything. The C-grade Leaderboards for Nevermore had rewarded everyone who did just decently, and the Treasure Hunt had also handed out plenty of titles to those participating.
+
+Jake was one of the people who believed more rewards were inevitable, even if one didn’t end up claiming the World Wonder fully, but he was also rather accepting if there didn’t turn out to be some windfall of titles. Not because he didn’t like getting titles, but because he believed experiencing this simulation in and of itself was a massive reward.
+
+He also realized this was largely due to who he was and what he was capable of. Not even necessarily due to Sim-Jake and Jake’s desire to better understand that skill, but also due to the abilities granted by his Bloodline. When he’d seen the description of the simulation and how it kept the body totally safe, Jake had instantly wanted to try something.
+
+Flying outside the small city that Miranda and the others were working hard on, Jake found a nice and isolated spot where he could do a bit of light experimenting, wanting to make good use of the slightly less than six days he had left of this Preparation Phase.
+
+Unsurprisingly, what Jake wanted to experiment with was Bloodline-related.
+
+Was this risky? Yes, extremely so, but he had a faint sense of confidence that even if he majorly fucked up, it wouldn’t be a total disaster because of how the simulation worked.
+
+One thing had to be addressed, though: the exact wording used by the system:
+
+“While within the World of the Exalted Prima, one’s true body is kept absolutely safe within the Seat of the Exalted Prima.”
+
+Firstly, it only said it kept the true body safe, which at first made Jake doubt if maybe the soul was still at risk. However, the system went as far as to use the word “absolutely.” Seeing as the system was perhaps the only thing in existence capable of creating absolutes, Jake believed it wouldn’t use such a term willy-nilly. Also, truthfully, it would make fuck-all sense if the soul could still suffer damage that would persist into the outside world while within the simulation.
+
+If it did, wouldn’t that mean someone like the Forest King was technically capable of killing others within the simulation? He could directly damage and destroy souls, and if only the body was kept safe, wouldn’t that lead to a lot of death? The Unique Lifeform was also far from the only one capable of damaging and destroying souls. Even Jake could deal serious soul damage to others using Primal Gaze, and could even kill those weaker than himself.
+
+Even without that, Jake could craft soul-damaging poisons that would technically persist and also deal damage outside the simulation, right? Though those were also things that he wasn’t at all sure about how they worked.
+
+Would something like a Soul Contract have any effect in this simulated world? Would it perhaps only work within the simulated world and not apply in the real one?
+
+There were so many unknowns, and Jake hoped to at least make some discoveries that would let them know exactly how their simulated selves would affect their real bodies, because clearly they could. If not, how the hell would they gain experience, upgrade skills, and just, you know, be able to remember being in the simulation in the first place?
+
+Of course, it was a possibility that the current Jake having these thoughts wasn’t even the real Jake, but a full-on simulation. Though given the existence of Sim-Jake and the fact that he’d realized he was living in a fake world, Jake believed he would also be able to realize whether he should be in the same situation.
+
+Anyway, ignoring any existential crisis, Jake decided to get to work and start with some very basic tasks. First of all, he entered his Soulspace just to confirm that he could even do that. He could, and within, he didn’t see any changes or anything being different. Eternal Hunger also looked the same, just being a black shadow version of Jake himself.
+
+Next up, Jake sought the Gate of Enlightenment. He had thought it a possibility that accessing that could be impossible within the simulation, but nope, even his sacred rarity meditation skill worked exactly as it usually did. Something that did make him wonder.
+
+Was this the same Gate of Enlightenment, or a perfect simulation of it? What part of Jake had actually entered the simulation? His real body was kept safe, and he saw others just stand there as if frozen in time within the Seat of the Exalted Prima when they entered the simulation, so he wasn’t actually sitting inside the simulated world. Had his soul traveled instead? Had it been perfectly cloned to a degree that even Jake’s Bloodline couldn’t detect anything amiss?
+
+Not wanting to fall into the pitfall of overthinking his current situation even more, Jake moved on to perhaps the most important thing to experiment with. Exiting his Soulspace, Jake held out his hand as he summoned some Lesser Primeval Energy. It was summoned as usual, and he also confirmed that he expended some of the Primeval Origin Energy when doing so. Which truly led to the biggest question of them all:
+
+What happened if Jake used his Primeval Origin Energy within the simulation? Just starting with the question of what would happen to Jake.
+
+Would he actually lose the Primeval Origin Energy in the real world as well? What if he used it on himself and did something fucked up? What if he did something similar to when he broke Palate of the Malefic Viper? Would the system allow him such a screw-up and just leave him doomed in the real world as well, or would its promise of keeping him “absolutely safe” hold?
+
+If it did, wouldn’t that mean Jake could just go wild and try to upgrade skills with Primeval Origin Energy? Sure, he could die in the process, locking him out for a month, but if the simulation kept going for a long time, he would have a lot of tries to experiment. Perhaps he could even reach an agreement with other forces to just keep the simulation going, assuming the system allowed it.
+
+Even if he couldn’t use it to upgrade skills, could he still use it on himself? Have a repeat of what happened within the Colosseum of Mortals against Valdemar, but this time as a B-grade? The biggest downside of having done that was Jake expending all the Primeval Origin Energy he had, but if the system fully fixed up even that part of his soul upon leaving the simulation, that wouldn’t be a problem.
+
+Even stepping away from Jake using Primeval Origin Energy on himself, what would happen if he used it on others? Could he? Technically, everything’s Origin within the simulated world was the Exalted Prima, right? Perhaps even the people inside it, like Jake, had their simulated selves created by the Exalted Prima.
+
+Having confirmed he could use Lesser Primeval Energy, Jake tried to move on and use the real thing. He’d already confirmed he had access to all the things inside his spatial storage – which honestly opened a whole other can of worms – but he wouldn’t think about that for now as he took out a random metal ingot.
+
+He didn’t care about the result, but just wanted to see if he could, as Jake took the ingot in his hand and, rather recklessly, simply tried to infuse Primeval Origin Energy into it.
+
+Jake felt the energy travel through his being and into the ingot. The moment it did, Jake was ready to see it transform in some way, but honestly, he had no idea what to expect and was open to anything. Yet, despite that, he somehow still found himself surprised at the result.
+
+It disappeared.
+
+The entire metal ingot turned into the same blue energy that the Foot Soldier had become when dismissed before simply dispersing into nothingness. Jake sat there staring for a moment, feeling that he’d definitely used some Primeval Origin Energy, yet the result was so... underwhelming.
+
+Underwhelming enough for Jake to try something again. This time, rather than try to affect a physical item, Jake attempted to make a sphere of stable arcane mana infused with Primeval Origin Energy. An item somewhat similar to what he’d given Nevermore during the House of the Architect Challenge Dungeon.
+
+However, the moment he even tried to infuse Primeval Origin Energy into his sphere of mana, it, too, turned into blue wisps of energy that dispersed. Jake found himself sitting there, staring once again, utterly flummoxed.
+
+“So... bringing something simulated back to its Origin makes it into pure energy?” Jake muttered, not even sure if that blue light was a form of energy in the first place. Perhaps it was more accurate to call it the building block of this entire simulated reality, as the summoned creatures seemed to be made of it. He wouldn’t be surprised if the buildings were too.
+
+Now, what did this mean? Well, it meant that Jake’s idea of experimenting with Primeval Origin Energy had just gone straight out the window, as he clearly wouldn’t get the same results in this simulated world as in the true universe. It did strike him as interesting that the simulation almost seemed to fall apart when Jake poured his special energy into objects. Everything else was fully realistic and made to be indistinguishable from the real world, yet the system was totally fine with that interaction.
+
+This discovery also raised another crucial question: what would happen if Jake used Primeval Origin Energy on himself? Would he turn himself into nothingness, effectively unsimulating himself? He considered this for a moment, but he also felt that this shouldn’t be the case; if it were, Jake would already have become a blue mass of energy and dispersed by now.
+
+Jake was constantly affected by Primeval Origin Energy due to his Bloodline, hence the variant human race and all that. Given that just the slightest exposure to the energy resulted in dispersion, he believed it safe to assume that wouldn’t be his fate, meaning that going all-out using it should be possible.
+
+Possible, but potentially still with consequences that could carry into the real world. He also didn’t know if the Primeval Origin Energy he used during the simulation would also have been used by his true self in the real world. However, he hoped to find out as Jake did something he or someone else should have done a long time ago.
+
+Feeling like he’d done the most important experimenting, Jake headed back to the in-progress city, meeting a surprised Miranda who hadn’t even moved from where they had split up only about an hour ago.
+
+“You’re back already?” she asked with surprise. “And in one piece, too. That makes me think your experimenting either went really well or was a total failure.”
+
+“Leaning more in the direction of total failure,” Jake said, shaking his head. “Though I returned to test something else. Thinking back on the system messages, I don’t recall it saying anywhere that we need to die to leave this simulation, so I thought that-“
+
+“You can,” Miranda answered casually. “Lillian already confirmed you can ‘log in and out’ of this simulation at will, though there do appear to be some restrictions, and even if you leave the simulation, you cannot currently leave the Seat of the Exalted Prima. Not if you want to meaningfully participate in this event.”
+
+Jake stared at Miranda, feeling a bit like an idiot for a moment, as this was clearly something everyone else already knew. He was tempted to ask her how one was supposed to leave the simulation, but held his tongue. Miranda didn’t give him any chance to figure things out himself, though, as she followed up.
+
+“It’s rather simple to leave, too. All you have to do is open your regular status menu, and there is an option right there,” Miranda said, still displaying way too casual a demeanor as she looked to be also going through some system menus of her own.
+
+“Alright, gotcha,” Jake muttered. “I’ll be logging out and doing some testing...”
+
+He felt a little deflated as he did as Miranda said and opened his status menu. Yep, it was right there at the bottom of his usual status menu, and all Jake had to do was focus on it as a system message appeared.
+
+Are you sure you want to leave the World of the Exalted Prima?
+
+Note: You will be able to re-enter without any restrictions.
+
+Y/N?
+
+Jake watched the option there for a moment as he decided to take out a random sword he, for some reason, had in his spatial storage and stabbed it into the ground. Letting go of the sword, Jake accepted the prompt, immediately feeling his vision shift as he did so.
+
+In the very next moment, he felt himself standing within the private room, back in the Seat of the Exalted Prima. As could only be expected, a system message popped up right after leaving, kindly giving him some more information.
+
+You have left the World of the Exalted Prima.
+
+Entering and leaving the World of the Exalted Prima can be done freely. While you are in the real world, your simulacrum’s status will be in a suspended and hidden state. When you return to the Seat of the Exalted Prima, you will do so in the same place you exited from, if possible. In the event that the entry location is blocked or otherwise deemed ineligible as a return location, you will instead appear at the nearest suitable spot.
+
+Warning: Leaving the Seat of the Exalted Prima will result in being unable to return for one year.
+
+It was yet another message that contained a lot of important information. The fact that it spoke of his simulacrum seemed to almost confirm that Jake effectively occupied an avatar of sorts while in the World of the Exalted Prima, and the talk of putting it in a suspended and hidden state seemed to imply that the body inside the simulation was fully persistent.
+
+At least Jake could confirm that it was separate from his true self in some ways, because now that he was back in the real world, he felt as if some of his Primeval Origin Energy had returned to him. In other words, whatever Primeval Origin Energy he’d expended within the simulation had no effect on his real body.
+
+Checking his inventory, he also confirmed that the random sword was back in there. He’d chosen the sword because, quite frankly, he had no idea how many random metal ingots he actually had, while remembering that a sword was far simpler.
+
+Also, before Jake had logged out of the simulation, he’d checked his resources and could now see that whatever mana and stamina he’d spent in the simulated world were back, too. Yeah, that was probably the least surprising thing, considering everything else.
+
+Oh, and he also understood why Miranda said leaving the Seat of the Exalted Prima wasn’t really an option. Being locked out of the system event for a year felt like fully abandoning it, though he naturally had no idea how long it would last. Still, a year was a long time. Neat that the option was there, though, in case someone got simulation sickness or something.
+
+Feeling pretty good about having confirmed some things, Jake didn’t see a need to sit around as he promptly returned to the World of the Exalted Prima, once more greeted with a system message welcoming him back.
+
+He naturally appeared right next to Miranda, and the sword stuck in the ground. Before he could even say anything, she answered the question he was about to ask.
+
+“No, there is no time dilation going on with this simulation. A second here is a second in the real world and vice versa,” she said before looking at him. “Say, do you have any other experiments or things you want to do during this Preparation Phase?”
+
+Jake was a bit caught off-guard by the question as he shook his head. “No, why?”
+
+“In that case, how about pulling out that Soulflame of yours and mass-producing some mana potions? The more the better, to fuel all the NPCs we’ll have powering different formations and defensive structures,” Miranda said with a smile. “I do believe that would be the greatest contribution you can make during this phase. Unless you have your own plans, of course.”
+
+“I really don’t,” Jake said with a sigh. “So I guess it’s time to do some alchemy. Oh, and don’t worry, I brought plenty of materials.”
+
+“Yeah, about that... they won’t work,” Miranda said, shaking her head. “Crafts will fail if you use materials brought from the real world. Equipment and whatnot still work, but raw materials can’t be used. If they could, we wouldn’t have made these lousy metal sheds.”
+
+“Oh,” Jake said, really beginning to feel that in the field of experimenting and discovering things about this simulated world, he’d been severely outdone.

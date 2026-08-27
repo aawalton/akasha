@@ -1,0 +1,331 @@
+---
+id: d5ae8f65-9bdf-5439-920e-4d1d0781917f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 51: Quests"
+slug: 0051-chapter-51-quests
+partOf: phoenix-ascension-cultivation-litrpg
+position: 51
+ownLength: 3745
+unit: words
+publishedAt: 2025-11-19
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2776010/chapter-51-quests"
+royalRoadId: "2776010"
+---
+
+I had no idea what to do with an unconscious human child. She was so thin and meek, that it looked like a gust of wind could blow her over. After turning off the skills, I dragged her out from the still-scorching area and placed her near the riverbank. She also had a straw basket, so I placed it next to her.
+
+There weren’t any more water serpents in the area, so I judged that it would be safe. Her breathing was normal at the very least, and the humidity from the area should help her return to normal. I could only assume she fainted because of the heat.
+
+I couldn’t blame her, that water serpent died because of it, but she was on the outskirts of the danger zone, so fainting was the best case scenario. Of course, it would have been better if she wasn’t there at all. But what could you do?
+
+Growl…
+
+I know, I know! My body was practically screaming at me to eat something. I looked at the girl for a moment, and at the basket she was carrying. I looked through, but only saw some medicinal plants and some pretty flowers, nothing that I could eat.
+
+I didn’t know what to do about the serpent, though I doubted bringing it here would be feasible. It was far too heavy, and I was far too hungry. Besides, the area was way too in the open for me to be comfortable, so I left her there and rushed back to eat my prize. I could return later to check up on her.
+
+Imagine my surprise when I saw a bunch of wild animals nibbling away at the fresh corpse. Monkeys, panthers, birds, and even snakes! I didn’t know these guys practiced cannibalism. They were all tiny though, and I felt no need to kill them right away.
+
+However, they went too far! It was my hunt! I worked really hard for it! I totally did!
+
+I cleared my throat and walked out, well aware of my appearance as a not so threatening fluffy orange bird. Sure, I was tall, but that was all I had going for me. Naturally, I had to make myself look a little bit more threatening.
+
+“Oy, you bunch of ants, whatdoyouthinkyerdoing?”
+
+The animals looked at me with a keen intelligence in their eyes. The monkeys began to laugh, turning around and slapping their butts in an annoying fashion, while the snakes slithered forward and bore their fangs.
+
+The birds didn’t do much of anything, though they didn’t mock me or laugh alongside their partners in crime. I appreciated that little, at least we had some bird solidarity. The panthers on the other hand turned defensive and hissed.
+
+“I killed it, so it’s mine. Go away before I get angry!” The first step to diplomacy is communication. Since I decided not to kill them, I would have to get along with them, or at the very least, make them understand the situation.
+
+“Kekeke, what are you on about? We found it, so it’s ours!” One of the monkeys said, its face as red as its ass.
+
+“Is that how it works? So if I find your trees, then they’re mine?”
+
+The monkey’s smile froze on its face, suddenly aware of the lack of logic in its argument. It was quite a funny sight, but I had to hold myself back from laughing. “See? So if I found your secret banana hiding spot, would I have the right to all of your bananas?”
+
+“That—”
+
+“Don’t listen to her! She’s trying to sow discord between us brothers and sisters.” Another monkey interjected, and the first monkey I talked to shook its head. At first, I thought it was disagreeing, but then it picked up a rock and hurled it at me.”
+
+“You almost made me doubt my brothers and sisters! Brother Small Fist is right! How dare you try to sow discord between us? Go away! We found it, so it’s ours!”
+
+“Yes! If she found our trees, then naturally they’re hers as well. But she would have to fight for them!”
+
+Small Fist spoke, and all the others began dancing and rubbing their bellies. I was at a loss for words. How had my perfect argument turned into this? But if they wanted a fight, a fight they would get.
+
+“Fine then! It’s yours, so I challenge you for it!”
+
+Right as I said that, the smiles on their faces widened until their canines and gums were visible.
+
+“Kekeke, she challenged us!”
+
+“She challenged us!”
+
+“Small Fist go show her!”
+
+“Yeah, go show her!”
+
+Their dance turned into them beating their chests and screaming toward the sky. The snakes and birds ran away, while the panthers hid into the shadows.
+
+The monkey that changed the other one’s mind— Small Fist— stepped forward. The cheers of the other monkeys made its back stand straight, and it even looked at me with arrogance. It cracked its knuckles and put his fist forward.
+
+“I, Small Fist, challenge you to a fight.”
+
+That was quite a flamboyant challenge. I could only roll my eyes and walk forward. Now, I didn’t know what its level was, or how strong it was, but seeing that it had no sign of evolution, it was definitely low.
+
+“I, Fa— err— Little Flame, accept.” I chirped, though I had no fist or limb to put forward.
+
+The monkeys behind Small Fist howled, beat their fists against their chests and spurred him on even more. In contrast, I had nobody… well, except for the little birds that wanted to share the meal with them.
+
+They didn’t say anything, or make any sound, but they sat behind me. Looking closer, both the snakes and the panthers watched Small Fist and I about to fight. Perhaps they had some sort of agreement?
+
+But then why did the birds join my side? Or did they want to attack me when I wasn’t patient? I couldn’t underestimate them despite their tiny size, so it was better to err on the side of caution.
+
+As the fight was about to start, System sent me a notification that made my heart skip a beat.
+
+[Quest]
+
+[Defeat Small Fist and his lackeys.]
+
+[Rewards: 1 small spirit stone]
+
+The rewards were a little lackluster, but nothing that could be done about it. It could still be useful to some extent.
+
+However, what surprised me the most was the quest itself. The fact that it existed. I didn’t have such a thing before, so it must have had something to do with the System’s evolution to ‘Nemesis’.
+
+I put the notification to the side and looked at Small Fist. He looked as arrogant as ever, though I decided not to make too much of a scene. Defeating him without using any  Bloodline Skill should be more than doable.
+
+Though it still wouldn’t be a fair fight, as I couldn’t turn off the  Passive Skills.
+
+Small Fist started the fight by charging at me, yelling while sending a punch aimed at my face. He was slow, really slow. I could dodge that fist any time I wanted to, but decided to leave it at the last second.
+
+Swoosh
+
+The wind whistled as its fist passed by my head. It couldn’t have been that fast, could it? There was definitely something wrong there. He didn’t stop though, and sent another fist, and another. I dodged each at the very last minute by either moving my head by an inch or two, or jumping a few inches to the side.
+
+It wasn’t hard, and it had gotten boring real quick. After it sent another first toward my face, I dodged and took a step forward, sending a basic wing attack toward his nape.
+
+He fell down and didn’t get back up. I didn’t kill him, though, just knocked him out.
+
+Groowl…
+
+My stomach was begging me to just eat something, and the pain of hunger began bothering me as well. Sigh, had I killed them when I first saw them, then I would already be with the girl to see if she was alright.
+
+And just like that, the legend of Small Fist ended right before his lackeys. He should be glad I knocked him out, otherwise I didn’t know if he could endure the embarrassment.
+
+“Small Fist!”
+
+“Small Fist lost!”
+
+“He lost!”
+
+The group of monkeys started going bananas, yelling and pinching themselves. Then they all turned toward me, and let out a loud, aggressive screech.
+
+“Charge her!”
+
+“Kill her!”
+
+“Eat her!”
+
+Woah there, that took a turn. I shook my head and sighed. Who would have thought these monkeys would have shits for brains? They all saw how easily I defeated their boss, right? They must know then how strong I was.
+
+Did they think charging at me with numbers would do them any good? Hah, as if.
+
+“Fine then, refuse to drink the toast!” Taking care of them was as easy as taking care of Small Fist. Weaving through their punches, I knocked each of them out, until only the monkey that began seeing reason remained.
+
+“I defeated you, so the corpse is mine. Now leave before I get angry.” I gave him a way out, seeing as he seemed more intelligent than the rest. I did completely forget about the quest, but I already said it could leave, and I wouldn’t go back on my word.
+
+For a moment, he looked as if he was about to leave, but the next, he beat his chest and let out a loud, but different howl.
+
+It didn’t sound like the ones until then, and even had some sort of intonation as the monkey’s chest beating changed the pitch and length.
+
+And just as it finished…
+
+The sound of rustling trees began to echo from a distance, and I looked toward the direction of the disturbance only to see the vaguest tip crowns of the giant trees bending— Then springing back up.
+
+If I had to guess, they didn’t do that because they felt like it, but because something big,  and fast was approaching.
+
+I had a guess as to what it could be.
+
+Just as I thought about that, the sound grew louder, and I could have sworn a giant monkey landed from the sky right in front of me.
+
+Monkeys don’t fly, you know? I was tempted to say that, but kept it to myself. It must have launched itself from one of the bending trees.
+
+It stood at about half the size of the trees, which was about two times taller than the big feline the other day. So in comparison to me, it was pretty huge.
+
+The giant monkey looked down at me, frowned, then looked at the monkeys sprawled on the ground. It let out a loud, deep and angry animalistic roar.
+
+“Boss, they’re not dead.” The first monkey said, stopping the giant’s howl.
+
+“Huh? Then why yell they died?”
+
+“I… didn’t. I said they’re down, not dead.”
+
+“Me no understand, same thing, no?”
+
+“No… they’re alive, just sleeping.”
+
+“Oh… me understand. Then, where emergency? Where enemy?”
+
+“Boss… it’s the yellow bird.” The first monkey said with a defeated tone.
+
+“Huh? Small bird defeat Small Fist?”
+
+“Yes…”
+
+“Small bird strong then?”
+
+“I think so…”
+
+I listened to their conversation feeling a little baffled, and at a loss for words. How could such a big monkey be so stupid? It definitely had to be an exception to the rule, as the other ones seemed to have some form of intelligence at least.
+
+“Little bird, I, Giant Monkey, challenge you to a fight.”
+
+Another notification appeared in front of me right at that instant.
+
+[Quest]
+
+[Defeat Giant Monkey, the monkey boss.]
+
+[Reward: 1 medium spirit stone; 1 unknown pill]
+
+Well, that was a little better. But am I going to get a quest for each thing I am going to attack, or it only if they I me specifically? What if they can’t talk? System kept giving me more questions and no answers.
+
+But whatever, a quest was a quest, and I had yet to complete the other one. Seeing as he didn’t want to leave, I would take the two for one deal.
+
+“I, Little Flame, accept.”
+
+Giant Monkey howled and kicked its chest, shrinking down to a more manageable size. That surprised me. Not that such a skill existed, but that it had it. Could it be a small monkey, but decided it wanted to be a big monkey?
+
+Though I had to agree, fighting while being so huge in such a small place would be a little difficult. Plus, it was sort of slow anyway, and the most it could do was try to step on me. If it did, I would light fire under its foot using Ember Step.
+
+I wasn’t expecting much from it right now either, though.
+
+Without waiting for it to attack, I rushed forward and sent a kick straight at its stomach. I wanted to get this over with, eat, and check up on the girl.
+
+Giant Monkey must not have expected me to act first, as it swung a hastened punch. I changed the grip of my talons and grabbed onto his fist, using it as support to launch myself upward.
+
+I summoned a tiny amount of Phoenix Fire in the form of a ball, and sent it to the ground. I aimed at his legs, and that little should be enough to scare him off.
+
+… Or not.
+
+He didn’t seem to like the fire, but didn’t run away either. Instead, it seemed to have made him more agitated and aggressive. Giant Monkey’s jumped, catching me by surprise. I flapped with my good wing, barely dodging out of the way and landing on the ground.
+
+However, that wasn’t the end of it, as Giant Monkey fell, he aimed a kick toward me. I stepped out of the way, and though he hit the ground quite heavily, he didn’t get injured.
+
+His leg left a deep imprint in the soil, though I didn’t have much time to look at it. Giant Monkey dashed toward me with surprising speed, doing a roundhouse kick when he got near.
+
+Stepping back, its paw barely grazed by my beak, and I took the split second of opening he left me to hit his back.
+
+He tried to dodge, but it was too late, as I used Ember Step and gained immense momentum in an instant. I did control my strength, and tried to use about half of what I normally would.
+
+The Giant Monkey shot back right into the first monkey, and the two of them fell and rolled on the ground until they hit a tree.
+
+Before they could get back up, I was right in front of them, and knocked both of them out with two— three hits to the back of their neck.
+
+[Quest Completed]
+
+[Defeat Small Fist and his lackeys]
+
+[One small spirit stone has been rewarded/]
+
+[Quest Completed]
+
+[Defeat Giant Monkey, the monkey boss.]
+
+[One medium spirit stone and one Meridian Opening pill has been rewarded.]
+
+Huh? A Meridian Opening pill? What the fuck? I needed that yesterday!
+
+I wasn’t sure how the rewards would be given out,, but I didn’t need to be left in the dark for long. One small spirit stone, one medium spirit stone, and one pill fell right in front of me. I tried to catch them, but my wings weren’t exactly made to hold things, so they fell on the ground.
+
+What is this… spatial storage? What sort of existence is System…
+
+Of course, I wasn’t expecting any sort of response, so I didn’t wait for one. Before enjoying my rewards, I had the other Spirit Beasts to worry about. However, when I turned around, I only saw the birds. The other ones must have fled after seeing my strength.
+
+That worked fine for me, but what could I do about the birds?
+
+I walked toward them, and they held their heads low. There were two of them, both small and frail looking. I was about four to five times their size currently, and probably much stronger, too. However, I had to admit they were pretty.
+
+Their bodies were entirely black— their ebony feathers shining under the light of the sun— but their heads were bright red.
+
+“Lord, we beg of you. Let us eat a little of your game. We haven’t been able to eat anything good in days.” One of them said with a male sounding voice.
+
+“Lord, ever since that monkey got into the forest, we had no choice but to follow him and his lackeys. We were here hoping to catch some scraps, but they didn't even leave us their bones. However, seeing as this corpse was so big, we had hoped we could catch something.” The other one sounded female, so I assumed the two of them must have been a couple.
+
+I thought over the matter, and decided that it would be good to get some intel on the forest and the monkeys.
+
+After assuring them that the monkeys wouldn’t wake up for a while, they begrudgingly nodded, and began explaining some things to me.
+
+We began eating once they told me everything I wanted to know. I gave them a large chunk, and thought it would be enough for them, considering their size.
+
+As it turned out, Giant Monkey wasn’t the boss of the monkeys, but the boss of Small Fist’s group of monkeys. The actual boss of the monkeys was someone much more mysterious, someone that didn’t show themselves often, but were apparently really strong and smart.
+
+They entered the forest a few weeks ago and kicked out many Spirit Beasts from their territories, causing a bit of a dissonance in that small part of the forest. That didn’t concern me though, and if we were to ever meet, we could probably come to some sort of understanding.
+
+Finally being able to eat after so much time felt good. There was nothing better in life than eating, that much was for sure. The water serpent tasted funny. Its flesh was tender, but a little watery. It had clearly been cooked, though, even if just a little.
+
+I sort of felt bad for the guy, but I had to eat and gain more water affinity.
+
+Speaking of— I’d finally gotten to the best part, the core. It looked like a blue sphere, and it was about as big as one of the tiny birds. I didn’t hesitate to absorb it, and the notification made me happy.
+
+[Water Serpent Core absorbed with 50% efficiency.]
+
+[+2 Strength; +5 Dexterity; +5 Charisma]
+
+[Water Affinity +20%]
+
+Finally, after such a long time, I increased my water affinity! Now it was only negative one hundred and thirty percent, only that much to go before I could start actually using it!
+
+Yay…?
+
+By the time I finished eating the entire serpent, my Overeater reserves had filled up to about fifty percent, which wasn’t bad. However, I wasn’t sure how long that would last. I definitely felt a little fatter…
+
+Well, a lot more fatter, but those are just details. Details!
+
+The two tiny birds had also finished their part, though not in its entirety. They ate about twenty five percent of what I gave them.
+
+“Thank you Lord. Thank you! With this much food she can lay our eggs without any worries.” The male one bowed his head again and again, but I waved my wings and shoo’d them away.
+
+The two understood and each grabbed one end of the meat, disappearing into the forest.
+
+I walked toward the spirit stones and pills, and decided to try absorbing the small one.
+
+[You have absorbed one small spirit stone]
+
+[Qi + 25]
+
+I then waited to see if the Demonic Qi would fight back. Much to my delight, the Demonic Qi didn’t spread further. Well, not further than it was already doing. My lake had gotten a drop of Qi larger, too, so I was definitely absorbing it!
+
+That meant that I could still cultivate as long as I had spirit stones!
+
+[You have absorbed one medium spirit stone]
+
+[Qi + 250]
+
+Wow! ten times as much Qi, that was amazing! Did that mean those spirit stones were better than the spirit stones I absorbed before, or did something change between now and then? Either way, I was quite happy that I could cultivate.
+
+The only issue was that I needed spirit stones… and I had no way of making spirit stones… And I had no more spirit stones in the bag of holding either…
+
+What a pain, even as a Spirit Beast I needed spirit stones… It almost reminded me of my past life.
+
+Past life…
+
+I shook my head and put that depressing thought aside, then grabbed the pill. I didn’t need a Meridian Opening pill, but it was quite valuable. However, the only issue was that I had nothing to do with it.
+
+As a Spirit Beast, I had no meridians to open, the meridians I created were artificial. Spirit Beasts aren’t born with dormant or any sort of meridians for that matter. I could not sell it either, as only humans and humanoids had a need for it.
+
+Even a good sword was useless in the hands of a child, after all.
+
+I tucked it under my wing and headed toward the girl with a full stomach. I didn’t know if she’d woken up or not, but I was sure she was fine based on her vitals. After all, she only fainted from a heatstroke.
+
+When I got to the spot where I’d left, she was nowhere to be found. I waddled over, careful not to drop the pill and looked around, but only her trampled basket remained. I frowned, then turned my head as I heard chuckling.
+
+Sneaking through the bushes, I saw the figures of two men dressed in black carrying the girl away. They were quite far away, at least a mile or so, but I could hear and see them perfectly.
+
+“She’s quite pretty, isn’t she, Brother He?”
+
+“Definetely, she’ll definitely fetch a good price. Let’s go to the Bai village, she seems to be a Hu clanswoman. We just need to roughen her face a bit, so she looks like a proper slave.”
+
+My blood boiled in that instant. Slave?

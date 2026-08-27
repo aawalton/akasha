@@ -1,0 +1,221 @@
+---
+id: 1339b039-dd8d-506a-a504-373c5e5345a9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 167: Special Reaper Technique"
+slug: 0167-chapter-167-special-reaper-technique
+partOf: phoenix-ascension-cultivation-litrpg
+position: 167
+ownLength: 2179
+unit: words
+publishedAt: 2026-08-25
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3864496/chapter-167-special-reaper-technique"
+royalRoadId: "3864496"
+---
+
+I went to see what he was up to as soon as I could. He walked away from the elders as I walked away from the group of people I should be calling fellow disciples.
+
+“What’s going on?”
+
+“You’ve really done it. Each and every sect wants to recruit you, especially the Fiery Expanse sect.”
+
+“What? Why would they want me that much?” They couldn’t know my fire affinity was high, could they?
+
+“I don’t know; they didn’t really give a reason. But they’re treating you like a… well, excuse the pun, but they’re treating you like a Phoenix.”
+
+“Alright, I get that, but where’s the issue?”
+
+“I don’t think you realise how little pull I have. I didn’t expect you would take over the tournament like this. Even if you’d won and gotten first place and walked away with the inheritance, it would have been fine. But that was then; now they know what you’re capable of, and they know you haven’t even shown half of your potential.”
+
+“Oh? But aren’t I a little too old?” I joked, recalling what that woman had said. I bet she was fuming right about then.
+
+Meng Mao rolled his eyes. “We need to give them a good reason as to why you would turn down all of them. They’re not stupid; they know we’re not related.”
+
+“Reason? Isn’t ‘I don’t want to’ enough?”
+
+He shook his head. “Not really. They would want a proper answer, since you are here humiliating their disciples, probably going to ransack the entire secret realm as well. Instead of growing their own strength, they allow a stranger to rise. You can see how that can affect their willingness to accept you.”
+
+“Hm. Yeah, but I’m not the only one here from a clan.”
+
+“The difference is that the others didn’t create a mini tribulation above the fucking arena.” Meng Mao said through gritted teeth, cursing.
+
+“Well, my bad. I didn’t mean to do that.”
+
+“Whether or not you meant to doesn’t matter anymore. What matters is that we will need to give these people an explanation regarding why you won’t join them.”
+
+I rolled my eyes. “Does it really have to be that complicated?”
+
+“I’m afraid so.”
+
+“Alright, well… I… Hmm… I have no idea, to be honest. Can’t you think of something?”
+
+Meng Mao almost slapped his face. “What could I even think of? The only reasonable option is to merge my clan with one of theirs, but since you were to keep all the resources and, not to mention, leave, then it will only be a temporary scam.”
+
+“So is explaining to them that I can’t hang around because my very real parents need me back home too much?”
+
+“Well, if it were that easy, then I wouldn’t need to bother with it. Unfortunately, no, it’s not that easy. However, we still have time to consider something. In the worst case scenario, they are just going to hate me and push me out. It won’t really affect you, but I’d need to start from zero.”
+
+“Is that so?” Well, now I was feeling a little bad about it. I didn’t want his lifelong dream of making his clan and city something greater to get ruined by my greed.
+
+“We will figure it out based on how well I do inside the secret realm. Worst-case scenario, I will have to give up some of the treasures, and I can also throw in some of the things I’d stolen from Guo Lu Poo.”
+
+“I don’t think there’s anything that’d be of interest to them.”
+
+“You’d be surprised. But let’s not worry about those things for now. Once I make it out of the secret realm, we will make a deal that won’t be too disadvantageous to them.”
+
+“Alright.”
+
+“Not to mention that I may come out as a Foundation Establishment cultivator,” I said while slipping away, not allowing Meng Mao to get a word in.
+
+I did hear a fading ‘What?’ which was rather amusing.
+
+Walking back toward the tournament area, I saw that Peng Li’s fight had yet to end. It was against one other person who was keeping his strength hidden fairly well.
+
+Jiang Ji, the other twin, was taking things a little bit more seriously. Seeing that his brother had lost to me, Jiang Ji was making full use of that link between them to fight Peng Li to the best of his abilities.
+
+Unfortunately, Peng Li’s techniques were just too powerful, if a little unrefined.
+
+For the first time since the tournament started, though, I saw what the Heaven Cloud sect used for techniques.
+
+As far as flashiness went, they were more restrained. From what I could tell, they were mainly fist and foot techniques, their entire goal being to get close to the opponent and disable them.
+
+However, that was easier said than done.
+
+Peng Li used his sect’s movement techniques to fall back and advance as he wished, his body turning into a creepy mist that Jiang Ji could not follow properly. Not to mention his extended reach and how he could manipulate the length of the weapon.
+
+The Qi’s nature to decay everything was also unsavory, and if one wasn’t careful, then it would easily become something that they couldn’t just shrug away.
+
+Jiang Ji had done a great job at dodging the attacks, but the standstill was bound to end eventually.
+
+It looked like his tactic was to enter a battle of attrition, which he would definitely win because of the connection he had with his twin.
+
+Peng Li also saw that and decided that he needed to be decisive.
+
+Now it was his turn to showcase a technique that he hadn’t used before, and I couldn’t say I wasn’t impressed.
+
+A large amount of Qi gathered at the level of his dantian, circulating as if inside his body, creating the outline of his meridians as it grew outward.
+
+When all the meridians connected back into a central point, the thing’s aura changed completely, and a dim light appeared where the eyes were.
+
+Its mouth opened into a scream as Qi filled in the empty portions and a scythe manifested in the figure’s empty hands.
+
+Peng Li moved, as did the new figure, and the two worked in unison like a team.
+
+Jiang Ji retreated, doing his best to avoid the attacks, but Peng Li’s disposition changed completely.
+
+His speed increased, as did his aggressiveness.
+
+The figure that he fought together with went ahead and weaved its scythe toward Jiang Ji.
+
+The latter dodged, only for Peng Li to appear behind him.
+
+Jiang Ji gritted his teeth, and an explosion of Qi surrounded him as a thin barrier protected him from the fatal strike, but it soon disappeared.
+
+However, that one moment was all he needed. His eyes shone with a strange light, and his feet planted on the ground.
+
+Then, I noticed that the link between him and his twin became more intense as Qi flowed from one to the other at rapid speeds.
+
+Jiang Ji’s hands moved at incredible speeds as he countered both Peng Li’s and his strange Qi companion’s attacks.
+
+However, what was once supposed to be a battle of attrition had turned into a final stand.
+
+I couldn’t help but wonder just what that technique did. It didn’t just summon a strange Qi person but also increased Peng Li’s attributes.
+
+What a broken technique…
+
+It wouldn’t be long before Jiang Ji-
+
+Ah, and there it goes. The figure’s scythe carved a vertical line across his back, and the Qi started eating away at his flesh and, well, everything else.
+
+Jiang Ji surrendered rather quickly after that, and got the medical attention he needed.
+
+Many people let out frustrated sighs, but not as many as those that celebrated.
+
+I supposed the odds were in Peng Li’s favor.
+
+With that fight ending, Peng Li walked off the stage as well. Although he didn't seem… right.
+
+The figure disappeared behind him, and he took a deep breath that he tried to hide.
+
+That thing definitely took a lot out of him, but he made the right choice. If he didn’t use anything explosive like that, then he would have lost.
+
+I respected that from someone. Peng Li’s image went up a rank in my mind.
+
+There was a small break between this match and the next one, time in which many people could cry about their losses.
+
+I just sat there, meditating. Today was probably the last day of the tournament, since there were only four or five matches left, if even that.
+
+Well, unless the Reaper Sect wanted to stretch it further, which should not be happening.
+
+This thing was taking far too long anyway; we could have just done rock paper scissors.
+
+The next match started soon enough, thankfully.
+
+Number three Pei Hua and number eleven, Hwei Badai.
+
+Hwei Badai. A fairly ugly name, and his techniques were just as fitting.
+
+There was no show to them, nothing that ever appeared outward. No, Hwei Badai’s techniques were simple. Just like how he did it at the stone stele, he exercised incredible control over his Qi and only used as much as was required.
+
+Pei Hua’s techniques were flashier, and she also wasn’t as good at manipulating the Qi she had. It was obvious that she would lose quite soon if she didn’t do anything extreme.
+
+Similar to Peng Li’s fight, it was a battle of attrition.
+
+Except that this time around there wasn’t an issue of Qi excess but control. Hwei Badai’s every strike used as little Qi as possible while delivering incredible blows.
+
+On the other hand, Pei Hua used a lot of Qi to make fancy fire moves, but none of them hit. Hwei Badai moved like a shadow, his entire being seeming incorporeal.
+
+The fire passed through him like he didn’t exist, but there was a clear cost to that.
+
+It was just that Pei Hua could not force him to use any more powerful techniques.
+
+Hwei Badai closed the distance quickly and disappeared into the shadows, his entire being becoming one with the darkness.
+
+When he reappeared, he was already behind her, dagger in hand.
+
+She tried to react, but the difference in their speed was far too much.
+
+In the end, the match had to be ended by the elder; otherwise Hwei Badai would probably have killed her.
+
+Did he want to kill her?
+
+It was hard to say. The man was a literal veil of mystery.
+
+But either way, he won.
+
+With his victory, that meant that we were now in the finals.
+
+Or semi-finals?
+
+Either way, there were only four of us left, and I knew for sure I was going to win, but I just didn’t know against whom.
+
+Well, it was a matter for later anyway.
+
+The elder who took care of the fights walked onto the stage, or rather, floated onto the stage.
+
+He was just a showoff; anyone could float like that. I could do it if I wanted to!
+
+“Ladies and gentlemen, thank you so much for staying with us throughout this tournament. Soon, it will come to a close. I know many of you are here for the spectacle, and some for making a bit of profit, but I want us to celebrate this occasion. It’s not often my sect gets to host such a gathering of talents, after all.”
+
+The crowd cheered, and I had to hold back a yawn. The old man was doing a lot of work on behalf of the Patriarch. Though if he was going to propose us more food, I wouldn’t mind it in the slightest.
+
+“So please, accept this little gift on behalf of the Reaper Sect.”
+
+As he said that, many people of the Reaper Sect walked out and visited each and every member in the stands.
+
+The disciples weren’t included, so I did feel a little offended. Why were strangers receiving gifts but not me?
+
+At the very least, they seemed happy after looking into the bags of holding. I rolled my eyes. Of course they would be happy about free things. I also wanted free things!
+
+“This is just a small gesture of our benevolence. Please accept them and let us continue the tournament after a small feast!”
+
+And just like that, the area right in front of the arena turned into a large table,e and many types of dishes were brought in by the servants. I was a little surprised, but I couldn’t refuse a free meal.
+
+Especially since it was most likely some sort of Spirit Food. Ah, but I was wondering if I could steal it again, but there were far too many people. I didn’t think it would be possible, unfortunately…
+
+So I could only enjoy the food, since it couldn’t do anything for my cultivation anymore.
+
+Ah well.
+
+Still, I didn’t understand why the Reaper Sect was delaying the semi-finals like this.
+
+Looking around, I did notice something strange. Peng Li was nowhere to be found.

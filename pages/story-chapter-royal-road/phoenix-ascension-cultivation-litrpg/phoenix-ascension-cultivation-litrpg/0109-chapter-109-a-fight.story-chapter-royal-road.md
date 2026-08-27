@@ -1,0 +1,161 @@
+---
+id: d508e1f1-bd36-5a44-91e3-95c2f5d5b88b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 109: A fight"
+slug: 0109-chapter-109-a-fight
+partOf: phoenix-ascension-cultivation-litrpg
+position: 109
+ownLength: 1996
+unit: words
+publishedAt: 2026-04-04
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3232651/chapter-109-a-fight"
+royalRoadId: "3232651"
+---
+
+Shu Wao Tu and Shu Xu Ning stopped in front of the place they’d called home for a long time. The bad feeling he got only increased as time passed, and he took a step forward to shield his little sister from any attacks that may come.
+
+He waited and watched, and drew his sword, infusing it with Qi. Lightning danced on the blade, and he could feel his heart beating against his chest.
+
+Then the sound of footsteps, which he could only hear thanks to his cultivation base, and there was something else he sensed due to it as well.
+
+Danger.
+
+The door to their house opened, and a familiar figure stepped through. Shu Wao Tu’s face paled upon seeing him, anger coursing through his veins.
+
+It was Chiao Gu; he could recognize him, even if his appearance had changed. He was not bald, had horns growing out of his skull, and wore a ripped-up shirt. His eyes shone with a red, demonic light, and around his chubby arms were two large chains that he dragged behind him.
+
+His expression told Shu Wao Tu everything he needed to know. Chiao Gu wasn’t there to speak, or chat about old times, nor was he there to taunt them, as he usually was.
+
+No, he came to kill them.
+
+He prepared himself, both hands gripping the sword and enhancing his body with Qi. His hands shook around the hilt, and he gulped.
+
+Because the man before him was at the Eight Layer of Qi Condensation, the density of his Qi told Shu Wao Tu that he was reaching the ninth.
+
+Meanwhile, the sum of his and his sister’s cultivation did not match it, not that it would have mastered even if it did.
+
+His first instinct was to flee, but he quickly shot down that idea. He could not; Chiao Gu would not give him the chance.
+
+But he wanted to allow his sister to escape, and he had to create an opening.
+
+“What do you want?!” He asked rhetorically, trying to buy some time. “How are you here?”
+
+In response, Chiao Gu snickered and spoke with a raspy voice.
+
+“What a stupid question. You were always quite the idiot, Shu Wao Tu.”
+
+He would have liked to deny that, but his recent actions did prove Chiao Gu’s words. Well, he hadn’t always been an idiot, at least he thought so, but it was hard to say considering everything that had happened to him.
+
+Regardless, he knew that Chiao Gu wasn’t there to talk. Judging by the aura he was letting off, far from it.
+
+In the end, he could only rely on his previous knowledge in cultivation, which was shallow, and whatever the Divine Lighting Technique had imparted on him through his continuous meditation.
+
+It wasn’t a lot, but seeing as lightning was at least the bane of the demonic, he was at least hoping to be able to buy some time for Shu Xu Ning to escape. However, Chiao Gu knew that as well, so why would he face them?
+
+Clearly, he had something up his sleeve.
+
+It didn’t matter anyway, not anymore. He prepared himself for what was to come. “Xu’er, take the first chance you can and run. Find the immortal.” He whispered, staring down at Chiao Gu, whose ominous aura made him shiver.
+
+“But.”
+
+“Please.”
+
+After hearing the determination and worry in her brother’s voice, Shu Xu Ning nodded. She would try ot make herself useful, but if the fight would be too difficult, she would need to at the very least look for help, even if it wasn’t the immortal.
+
+His first option would be that Xing man, of course. It would be hard to find the immortal, especially considering her true nature.
+
+There was no more time for words, as Chiao Gu moved. His figure turned into a blur as he sped toward the siblings, the chains clanking behind him. Shu Wao Tu wasn’t sure if he was going to attack with them or just couldn’t be bothered to take off, but he knew one thing— He didn’t know how to fight against chains.
+
+Fists, swords, spears,s and many other weapons were pretty straightforward, but chains? Something told him he would need to push himself to his limit.
+
+His eyes flashed with lightning as he saw the first attack come, and he dodged using the foot technique. Shu Wao Tu’s feet flashed with light as he moved to the side and swung down with a basic slash.
+
+The sword’s blade became lightning quick, boring down on Chiao Gu right as Shu Wao Tu willed it to.
+
+Sparks flew as the blade failed to cut through the man’s neck, and when Shu Wao Tu saw why, he couldn’t help but snicker.
+
+The madman had wrapped the chains around his neck.
+
+Shu Wao Tu pulled away with the footwork and attacked again, aiming with a thrusting technique at Chiao Gu’s chest. For a second, he was hopeful, but then he saw that his attack was blocked by chains yet again.
+
+How is he doing this?
+
+For all intents and purposes, the way Chiao Gu controlled the chains was inhuman. He was a measly Qi Condensation cultivator, and chain techniques were not a thing as far as Shu Wao Tu was aware.
+
+Even if they were, who could have taught them to him? It wasn’t like Chiao Gu had spent most of his days since the duel in a dungeon, tied up by the very chains he now used to attack with.
+
+Did he discover this all by himself? What a monster…
+
+Shu Wao Tu hated to admit it, but compared to Chiao Gu, he truly was trash. The man had comprehended a brand new fighting style while he was confined to a small room, me’d had his hand held every step of the way.
+
+Gritting his teeth, he used the deflected thrust to slash down, pouring more Qi than usual into the attack. The blade almost had a mind of its own as it came down on the enemy. Shu Wao Tu enhanced his vision with Qi and caught a glimpse of Chiao Gu’s technique.
+
+And it was horrifying.
+
+Within the fast movement and hazy view caused by the Demonic Qi, he saw the chains act like snakes, or vines, or worms, wriggling around Chiao Gu’s body and wrapping around whatever body part he wanted to defend.
+
+When the blade hit, the lightning got absorbed by the metal chain, and went down from the striking area toward the ground, making is to Chiao Gu took minimal damage.
+
+Shu Wao Tu clicked his tongue and halted his immense Qi expenditure. After seeing what he needed, he figured out that knowing did him little good. The only way to break through Chiao Gu’s new technique was pure strength.
+
+As her big brother fought against the monster that Chiao Gu became, Shu Xu Ning was looking for an opening. However, she found herself unable to even follow the two. The arrogance she had from defeating Chiao Gu before faded completely.
+
+He wasn’t expecting such a pure and perfect counter back then, and he had yet to get used to the new Qi coursing through his meridians. However,r that all changed after he’d spent some days with his new cultivation base.
+
+She didn’t know how, but he’d gotten insanely strong. Whatever it was must not have come at a low price, though. However, the fact that her big brother could stand toe to toe with such a monster made Shu Xu Ning very happy.
+
+And with that happiness came the regret.
+
+If only he’d never been crippled.
+
+She could not imagine what would have happened, but maybe they would have lived a better life, one where her brother’s talent would not have been wasted.
+
+Watching Chiao Gu, she clenched her fists and took slow steps back. He was distracted, so she took her chance to escape.
+
+However, right as she took another step back, after having gone quite a bit away from the fight, something yanked at her leg. Looking down, she saw that it was a chain, one that came from Chiao Gu, of course.
+
+She felt a gaze upon her, and she gulped.
+
+Shu Wao Tu noticed the unnaturally long chain, of course, but he wasn’t sure where it’d come from. He knew that Chiao Gu still had two of them, but that third one popped out of nowhere.
+
+Where it’d come from didn’t matter, though, not as much as figuring out a way to get rid of it. He stepped back and struck down, but even his blade couldn’t fully cut through the metal enhanced with Demonic Qi.
+
+Biting down on his lower lip, he performed a series of attacks, none of which did anything to the man before him. However, Chiao Gu hadn’t attacked yet either.
+
+That worried Shu Wao Tu, as he couldn’t tell just how devastating an attack from him would be.
+
+He didn’t have to wait long to find out, as Chiao Gu took a step back and threw a feint with a chain while winding back another. He spun it faster and faster, looking at Shu Wao Tu with a devious expression.
+
+At the last moment, when it looked like he was the target, Chiao Gu’s arm rotated ever so slightly, and the chain was suddenly heading toward Shu Xu Ning.
+
+Angry, he intercepted the attack, blocking it with the sword. The impact sent countless sparks flying in the air, and the sound of metal striking metal was deafening.
+
+Shu Wao Tu’s hand vibrated violently from the attack, almost losing the grip he had on the sword. Gritting his teeth, he infused it with lightning and swung at Chiao Gu from a distance.
+
+Through his will, the Qi took the form of a bolt, which shot toward the man at a speed faster than the naked eye could see. To his delight, the attack successfully hit Chiao Gu right in the middle of his chest, and a large black spot appeared there, his shirt burning to ash.
+
+He took a look at the shallow wound and smiled.
+
+“What pathetic energy. Even your sister’s is purer.
+
+Chiao Gu’s mockery struck him where it hurt most. It was true that his control over lightning wasn’t nearly as good as his sister’s, and his refinement was worse, but seeing the results of his observations still hurt.
+
+However, there was nothing he could do. It was obvious that his sister was too young to properly understand combat. She hasn’t been properly trained. He, at the very least, had been.
+
+Their father was a strong cultivator, though he had little backbone. That meant he taught Shu Wao Tu how to fight, but not against humans.
+
+Not again, humans…
+
+That was true; he knew how to fight Spirit Beasts, and the being before him was of lower quality than a Spirit Beast.
+
+He took a deep breath and exhaled, lightning qi dancing on his breath. Shu Wao Tu realised then that he wasn’t fighting, he was hunting.
+
+His stance changed to a lower one, where he protected his vitals and looked cautiously at the feral beast before him. He had to protect his little sister.
+
+Shu Wao Tu’s entire aura changed, which made Chiao Gu pause. A smirk nevertheless appeared on the demonic cultivator’s lips. “Bring it on.”
+
+Right as he finished saying that, Shu Wao Tu’s figure turned into a blur as lightning crackled at his feet. The blade was likewise infused with a high amount of Qi, more than ever before. The quality of the craft could barely hold onto the potential energy.
+
+He struck, not with technique in mind, but with intent. His goal was to hunt, to kill, and to protect. Doing so as swiftly as possible was his mission.
+
+“Guh?!” Chiao Gu’s smile froze on his face as he, for the first time in that short fight, felt danger.

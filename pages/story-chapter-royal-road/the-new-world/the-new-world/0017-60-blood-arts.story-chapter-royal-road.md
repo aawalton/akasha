@@ -1,0 +1,115 @@
+---
+id: d842a790-82d1-5854-b1aa-dcc9cc92f222
+page-type-slug: story-chapter-royal-road
+title: "60 Blood Arts"
+slug: 0017-60-blood-arts
+partOf: the-new-world
+position: 17
+ownLength: 2372
+unit: words
+ownProgress: 2372
+publishedAt: 2017-10-17
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/168736/60-blood-arts"
+royalRoadId: "168736"
+markedReadAt: "2026-06-29T21:21:18.269Z"
+---
+
+I stomped my feet and charged forward. The ground ripped underfoot, but I kept steady with my telekinetic augments. Facing me with her side, Kessiah shot out a simple jab with her left hand once I reached her.
+
+I ducked sideways, out towards her left. If ducked towards her right, she could counter with her right hand and use my dodge against me. This also left her body exposed. Taking full advantage, I stomped my front foot into the ground. My telekinetic augments dug into the pavement like cleats, letting me gain the traction I needed for maximum force.
+
+My core spiraled like wind surrounding the eye of a hurricane. The unstable force almost threw me off balance with how much power I put into my fist. When my fist landed against Kessiah’s side, my telekinetic constructs shattered. After they snapped, my fist caved inwards.
+
+So did Kessiah's chest. The booming echo radiated through the sound chamber made by Torix. The might of the explosive force sent a rush of air from the center of impact. Kessiah fell sideways, the pavement beneath her feet crumbling. She shot out a right cross towards me at the speed I had hardly kept up with. Hell, I could hardly see her strikes before.
+
+Now I saw them with my eyes opened wide. I leaned backwards, her fist reaching the very limits of its range, tapping my helm. Her skin made contact, but no force transferred into my face. It was the lightest tap imaginable.
+
+Her fist pulled back as I stood to her left side. I snapped a vicious, short kick straight into her inner thigh. A high-pitched clang sounded out, and the force of the strike caused Kessiah’s front leg to dig into the ground. My own foot didn’t snap into the ground because of my telekinetic buffers.
+
+She leaned onto her backfoot, trying to step back once more. Her front foot caught in the pavement, slowing her down by a split second. It was just long enough for me to step forward and launch another kick towards her. This time, I aimed at the right side of her stomach.
+
+Kessiah crouched downward, blocking my kick with her elbow. My armor bent, but it did not split, holding enough to transmit the force into her. Kessiah stumbled sideways, her feet punching through the pavement. She couldn’t get a good grip on the ground. It was too soft.
+
+With my telekinetic augments, I didn’t have to worry about that. I stepped towards her before she lifted her left foot towards me. Pieces of pavement flew towards my face, but I ignored them. The only reason to even close my eyes was out of reflex, as the little rocks could do me no harm.
+
+Before she lowered her foot back down, I ducked down, almost falling to my left. Using the momentum of the fall, I planted my left foot into the ground. I kicked with my right foot, using the strike as a counterbalance with the fall. The blow kept me from falling before it slammed into the side of Kessiah’s knee.
+
+The impact detonated with a satisfying boom. The armor on my foot caved in, crushing one of the toes in my foot. Kessiah’s leg bent, however, causing her to fall onto one knee as she lost her balance. Her leg still caused my foot to bounce back, the shock of the blow radiating up through my hip. It was like slamming a sledgehammer into a giant rock. If you didn’t break the rock, the impact would bounce back into your hands and arms.
+
+That happened with my leg. When my foot landed onto the ground, I widened my telekinetic augment, further dispersing my kinetic energy throughout the limb. The pavement cracked outwards, caving into a crater under my foot, but I kept steady enough to push off the leg.
+
+Flowing like liquid metal, my body carried the force of my landing leg. I turned my core towards my left side, letting me chain the momentum into another kick. My left foot shot upwards like a cannon, snapping straight into Kessiah’s face.
+
+Without the ground being hard enough to withstand the force of impact, Kessiah tumbled backwards. Heavy as she was, she dug a trench through the road before rolling back onto her feet. She wiped a bit of blood from her lip,
+
+“Damn. You weren’t kidding when you said ready.”
+
+I nodded before charging back towards her. My stomps crushed into the ground before she sidestepped towards my left side. I slammed my right foot into the ground, forming a large crater underfoot while letting me turn around. She kicked towards my side, but I checked her kick by lifting my left knee.
+
+The sound of caving metal and tearing skin ebbed as her foot slammed into my knee. The ground beneath my right foot crushed further along with the pavement under Kessiah’s own feet. It was like we were blending the road into a chunky salsa of pavement and dirt.
+
+I flew up and backwards, off the ground from the full brunt of her blow landing on me. I flopped through the air before Kessiah dashed forward, throwing a punch like throwing a baseball. The weighted strike landed straight across my chin while I was upside down.
+
+Sent spiraling once more, I tumbled across the ground with a broken jaw. I could feel two teeth tumbling in my mouth along with the warm feel and iron taste of my own blood. I rolled onto my feet, the pavement crunching before Kessiah charged once more.
+
+I wasn’t heavy enough to take her head on. I needed to deflect her shots if I was going to have a chance, just like before. From between my armor’s teeth, I spit out my real teeth before they regenerated. I set my jaw back in place, letting the wound heal before grounding myself.
+
+Once she reached me, Kessiah kicked towards me like she was kicking down a doorway. I caught her right leg under my left side while slamming my right elbow downwards. I dented my elbow against her knee. Kessiah grunted in pain before the force of her charge dragged me backwards. I lowered my left knee and lifted her caught leg up, pulling with all my strength.
+
+She lifted off the ground before I spun her over me and slammed her into the ground. A shockwave ebbed from the collision. A wave rippled through the pavement and ground, tearing the road apart and forming a crater.
+
+I let Kessiah go before lifting my foot and stomping down towards her ribs. My heel bent against her ribs three times before Kessiah lifted her fist into the air. Her fist blurred as she slammed it into the ground. Another shockwave blistered out from the hit, dust, dirt, and mud flying into my eye slit. The dirt went into my eyes.
+
+With a surge of exertion, I commanded my eyelids not to close. Using a wave of telekinesis, I pulled the dirt from my eyes with a push of my hand. I lifted my other arm across my face while removing my helm. The dirt fell out of my helmet before Kessiah kicked at my leg. As I fell backwards, I pulled my helmet back on.
+
+The armor slid back into place as the back of my head crushed into the pavement. Kessiah jumped on top of me, wrestling with my arms before mounting my chest with her legs pinning my arms. There was nothing sexy about it either. She lifted a fist and slammed it towards my face. I bent my neck sideways like a contortionist. When her strike landed on my left side, that eardrum busted before she sent another wallop towards my face.
+
+I bent my neck towards the right before her strike busted my other eardrum. All I could hear was a deafening ring in my ears now. She lifted her right hand up and slammed her right palm to my face. My neck bent again, but she kept her hand there. I couldn’t move my face as she lifted her left hand and smiled.
+
+It was a vicious expression. There was no mercy in it either. She intended to pound my face to a pulp. Good. I wanted the fight to be that way. No matter who you are, you will try harder as the stakes are raised.
+
+Pulling from the rush of battle, I came up with a plan and acted off instinct. I lifted my left knee, linking the movement with a wave of telekinetic force to deflect her strike up from my jaw to my forehead. At the same time, I reformed my armor on my face into a sharpened horn. I angled the horn, making the point land dead center between two of her knuckles.
+
+The blade pierced her skin as she slammed her fist down, digging three inches deep into her hand before she howled. Her head whipped back, so I lifted my right leg. The heel of the foot barely caught around her throat, but it was just good enough of a grip for me to pull backwards with the leg.
+
+This caused her to arc backwards while I grabbed her legs with my hands, holding her in place. I placed my left heel into the ground, my left knee bent upwards. From that joint, I grew another sharpened horn. The back of Kessiah’s neck stabbed into the horn, piercing an inch into her spine. At that moment, I activated oppression.
+
+She howled again, blood gurgling in her throat before I sent spines of my armor into her flesh. The needles sucked at her life force, devouring the enormous energy within her. She struggled for a moment, but she couldn’t muster up any strength or leverage from her position. That and my face was turning purple with how hard I struggled holding her there as she writhed.
+
+My health regenerated rapidly, both from my own health regeneration and from sapping hers. The moment it capped back out, my hearing returned and my ascendant mana roared into action. The vapor poured from my runes like a sizzling fire just underneath the surface. My strength returned as her strength waned. My death grip tightened, like a boa constrictor choking its prey to death.
+
+Something in the air changed at that moment. A cold, sinister air formed over Kessiah before she lifted her bleeding hand above her arched chest. The blood from her hands pooled upwards, from her neck and her hand. The air around us vibrated, like it could hardly contain the welling of some unknown power. Pieces of stone floated upward, the vision around us blurring.
+
+Across the violet skin on her neck, veins of black formed. The blood pooling above her poured into the markings, making them suck the light out from around them. The brightness around us dimmed, bending the light to the blood. My senses dimmed, not from my own weakness or lack of sensing. It was like whatever Kessiah called forth was draining everything that could be sensed. What could be heard, seen, even felt, the force drained it all.
+
+She lifted her head from my knees. My armor snapped with ease. Her head arched upward before she stared at me, her eyes piercing. A chill ran up my spine as she grinned,
+
+“You wanna play with the big boys? Then let’s play.”
+
+The needles of my armor flowed out from under her skin before she grabbed my neck. She crushed down, snapping the bone and severing my nervous system in an instant. She lifted herself upward with a single arm into a one armed handstand, handling her immense mass without struggle.
+
+The weight pushing down on my neck cracked the ground further. With her eyes still facing me, she fell into a back bend. With a near comical level of force, she pulled on my neck. I can’t tell you what happened right afterwards because, to put it simply, it was too damn fast.
+
+The ground appeared, and I lost all sense of sight, sound, even touch for a moment. The electrifying might of the collision didn’t even let me comprehend it. When my sight returned, I was facing the ground. Control of my arms returned, along with my sense of hearing.
+
+Torix was arguing with Kessiah,
+
+“Do you want to kill him? This was a spar, not a deathmatch.”
+
+“Did it look like he wasn’t trying to kill me? Seriously, if he can pull out all his stops, then why can’t I?”
+
+I shook my head, shaking bits of rock from my head. They both stared at me, stunned into silence. I tried lifting my leg, but it refused my commands. I glanced backwards, and I could see why. My legs were completely bent out of shape. I sighed, lifting one of my now fixed arms.
+
+I pushed with my hand, leveraging the force with my telekinesis. The redirected energy snapped a bone back into place in my leg. A few more pushes later, and my legs began healing again. About halfway through fixing my neck, I surge of nausea hit me. I vomited up a pool of blood before breathing in. Turns out when Kessiah grabbed my neck, it crushed my armor down till it was choking me.
+
+I pushed myself up, stepping onto a leg. It felt new and familiar at the same time, like riding a bike after a seven-year hiatus from cycling. Once you know how, you can always ride a bike. Doesn’t mean you want too.
+
+I shook off the sensation before setting back into my stance. When I tried surging my runes, they didn't answer me. Kessiah’s attack shredded my armor so badly and so completely, I would need to redo the runes.
+
+Shutting oppression off, I let out a tsk while letting my hands flop to my sides,
+
+“Well fuck. I don’t stand a chance without my runes. Sorry Kessiah. I’m going to need an hour or two before we continue.”
+
+Torix and Kessiah still just stared at me though. I frowned, peeling my helmet back to unveil the expression,
+
+“Uh...What’s wrong with you two?”

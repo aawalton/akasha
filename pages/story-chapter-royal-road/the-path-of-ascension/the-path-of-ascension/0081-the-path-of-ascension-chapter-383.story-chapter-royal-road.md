@@ -1,0 +1,199 @@
+---
+id: 8e9b4d50-366d-58e8-8977-26361716ff6f
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 383"
+slug: 0081-the-path-of-ascension-chapter-383
+partOf: the-path-of-ascension
+position: 81
+ownLength: 4769
+unit: words
+ownProgress: 4769
+publishedAt: 2025-01-27
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2033262/the-path-of-ascension-chapter-383"
+royalRoadId: "2033262"
+markedReadAt: "2026-06-29T19:20:28.280Z"
+---
+
+Chapter 383
+
+While Ra’thala was being questioned and interrogated by the people Matt had assigned to work on the tentatively named ‘Skills for All’ task force, Matt had other things to work on at the guild.
+
+He would much rather help with the skills project than essentially slam his head against the wall, but he so rarely had time to work on his sword that he couldn’t justify putting it off any longer.
+
+The idea had started as part of an idle conversation with Liz when Matt complained that his Talent was making it damn hard to make equipment that could handle his mana, and he almost wished his Tier 25 had helped with that instead of boosting some of his skills and improving his storage.
+
+Liz had jokingly pointed out that his Talent already did give him the perfect material, his mana itself, which had sparked an idea in Matt.
+
+In theory, his work with talismans in the war might have prepared him well for this. He’d flash-created a few basic enchantments by creating some basic links between premade enchantments in such a way that he could customize the results to his needs. He’d tried making talismans entirely out of mana, but that… didn’t really work. Maybe someday he could manage it, but he wasn’t a high enough Tier for it.
+
+But, there was a way he could integrate his experience with talismans into his current quest for a better weapon. Namely, his growth sword. It was already bonded to his spirit, and there was therefore hardly a better way to rapidly iterate on an item that was already attuned to him. He’d hired a high-Tier specialist to modify the enchantment-wiping effect to be a bit more… selective. Now, instead of erasing all the enchantments present in a single mode at once, he could selectively erase parts of an enchantment. His precision was still a little weaker than he would have liked, and it was way more annoying to do a full wipe of an enchantment, but how much it sped up iterative work made it plenty worthwhile.
+
+Of course, the process was fairly involved. He couldn’t just coat the blade in mana crystal and expect it to work. Instead, he’d created a sort of half-sword, with plenty of gaps in both the enchantment and the metal for his mana crystal to fill in both magically and physically. The end result looked almost organic, with fractal branches of crystal and metal twisting around one another, even if the actual function was still somewhat lacking.
+
+He had lofty goals for the sword, that much was true, but right now, he was just trying to pull it up to the same level as his sword’s other modes. The twin enchantments of the blade and mana stone kept fighting each other instead of meshing, and because neither was properly complete without the other, resulted in a barely-functional sword instead of an epically versatile weapon of mass destruction with a perfect backbone of high-power mana conduit that he was looking for.
+
+For what felt like the first time in his life, it wasn’t his control that was lacking. He had spent enough time as they moved through Tier 26 regaining a level of control better than all but a few in the Empire, but he needed far greater precision to perfectly pull off a full integration between weapon and mana crystal. Even Matt’s BPL, the tool at the heart of his current effort, wasn’t enough to pull it off to the standards he needed. It didn’t matter if a talisman’s enchantment was unstable and would burn up within an instant of being activated, that’s what they were designed to do. However, it was substantially worse if Matt’s sword spontaneously melted as soon as he started to use it.
+
+The biggest hurdle was that he needed to do all the work himself. His growth sword could only be enchanted by him, after all, and he’d found out the hard way that included any external supplementary enchantments.
+
+Part of him wanted to just put the project on hold until another one of his secondary projects with Maxine paid off, but that was at least another millennium from realization.
+
+Just step one was getting the [AI] skill merged with half a dozen [AI] support skills like [Encrypt], [Simulate Motion], [Library], an upgraded [Calculator], and so on, which was insanely hard alone, as each needed to account for his past modifications as well. The only reason it was even possible was twofold: his flexible innate skill slot, and the sheer amount of documentation present regarding [AI] skill merges.
+
+It was pretty much assumed that everyone would merge their [AI] pseudo skill into the real deal, other than nobles who just started with the real thing, but the enormous number of people who relied on their AI in their daily lives had found a few viable strategies for even normal people to merge one or two additional support skills into the structure.
+
+But what had started this whole project was the Ascender chat learning that he, Liz, and Aster had finished Minkalla at Tier 11, and subsequently exploding with suggestions for how to take advantage of their innate skill slot. The project that had most intrigued Matt had, of course, been Max’s comments about some of the things she’d done with her [AI], and he’d taken her up on her offer of some individual tutoring as a result.
+
+At least those changes would start paying off even before it was completely done. And the time spent on it would let him get to know Max better before they reached step two, which would require a level of trust he wasn’t quite sure he actually had in her yet. He still had a standing offer for mind magic defense lessons from her, but hadn’t taken her up on it yet, and it seemed like something he’d need to do before he’d be able to finish off this particular mod, given how he’d need her direct assistance for some of the latter steps.
+
+But until then, it meant any free time he had spent tinkering in his guild, working on trying different configurations the teams put together while practicing his enchanting skills.
+
+The current set was three different types of runes linked together. They were more complicated than his last set, but should double his sword's power from ten percent of its theoretical max to nearly twenty.
+
+Two full weeks vanished as Matt and the team tinkered and tweaked the rune types, their placement, the structure of the sword itself, and trying to find an optimal balance between strength, ease of enchanting, and stability in a fight.
+
+They were even making good progress when Matt got called away by Kees, who informed him they had a problem.
+
+Standing in Kees’ office, Matt frowned. “I’m not sure I heard you correctly. Can you say that again? There is no way anyone would be dumb enough to do what you just said, let alone a dozen companies at once.”
+
+Kees nodded, a frown carved onto his austere face. “Fifteen companies we use for various supplies just broke their contracts with us, all citing difficulties with existing clients taking priority. Four of our five rare metals suppliers, three out of three of our high-Tier enchanting materials suppliers, two out of four of our shipping partners, and so on.”
+
+Matt rubbed his chin as he thought before asking a stupid question. “Is there any chance this isn’t a targeted attack on the guild?”
+
+He expected Kees to quickly deny the idea, but his vice guild leader took a long moment to answer. “I don't believe things are as simple as they look on the surface for obvious reasons. We have made many enemies over the past century, but frankly, we have avoided stepping on too many toes directly. And I already checked, we haven’t directly insulted any of these companies' backers or their controlling interests. So, while I believe this is an attack on the guild, I’d be hesitant to pin the blame on our former partners too quickly.”
+
+Matt grinned viciously. “And here my first thought was to go and knock on their doors demanding they reinstate us as business partners. Whatever will I do now that I won’t act like an angry Ascender?”
+
+Kees didn’t share in his attempt at levity. “That may have been part of whoever orchestrated this incident's plan, but I very much doubt their goal was anything so simple. I’m sure they wouldn’t be mad if you stormed off in a rage, but you have shown yourself remarkably restrained for an Ascender since the end of the war. No, I believe this is phase one of a larger move to isolate the guild. I expect that in the coming months or years, we will find more of our suppliers and contacts pulling back for various legitimate and fraudulent reasons alike.”
+
+Starting to pace, Matt thought out loud. “How would you handle this if you removed me from the equation? Give me the large strokes and from your old guild’s perspective if that helps.”
+
+Kees’ answer was immediate. “Find out who is pulling the strings and why. If I can easily defeat them, do so, but more likely anyone willing and able to pull this off is someone of my own strength or greater. In that case, once I identified them I would work out a deal about how I’m stepping on their interest so much they felt the need to attack me like this and how I can pull back.”
+
+Matt frowned at the idea but didn’t outright dismiss it.
+
+“And with me and my resources, does that change your assessment?”
+
+Kees frowned. “Not particularly. I would rather not have an enemy so well-connected they can pull the strings of so many businesses so casually, especially all at once. This is either a warning shot across our bow or stage one of a greater plan, and my intuition says it's the latter.”
+
+Matt let his frown turn to Kees. “Kees, they are attacking a charity guild. I’m not going to pay them.”
+
+Kees opened his mouth to speak, but Matt didn’t stop. “Kees, we haven’t even created too many actually impactful things. Two dozen inventions that have gone public in the last century but most were fairly minor and all were below Tier 10. Shit, most were below Tier 5. I’m not going to roll over to anyone because I stole their pocket change.”
+
+Kees actually grinned, which caught Matt off guard. “I both fully understand that and am aware of your feelings and stance, Guild Leader. You did, however, ask how I would deal with it given my old guild.”
+
+Matt let himself fall into the chair with a sigh. “Sorry, I shouldn’t have snapped at you. You’re correct, I’m just angry. Have you heard about Ra’thala and what he brings to the table yet? I know you've been head down the past weeks getting the mana engine paperwork ready.”
+
+Kees’ frown returned. “Yes, and that will be a problem.”
+
+Matt sat up straighter. “How so? I did some searching and I can't find a single instance of anyone using anything like blank skill shards for safe ways to make skills. I feel this will be mostly a research or high-Tier individual thing more than most of our inventions.”
+
+Kees looked confused for a moment before saying, “Ah, no. While that is an academic curiosity and potentially useful, it's not that disruptive of current interests. No, I was talking about skill creation for low Tiers. If that works even half as well as the current rumors are saying, it will disrupt a lot of interests. Enough so that we might get outright attacked by a number of powers looking for vengeance, if nothing else.”
+
+Matt’s already bad mood turned worse. He had considered that the making of skills would be disruptive, but he didn't think it would be that disruptive.
+
+Just what had happened in the last two weeks?
+
+“Elaborate, please. Is the method more applicable than we expected?”
+
+Kees shook his head. “More that I believe your initial report isn’t fully accurate. I do believe that you are correct in that not too many people will take this route. Many will see it as easier to just buy a skill or an enchanted weapon, but I’ve had our Impact Teams run the numbers a few times, and even with our pessimistic models, it's looking at something like eight percent of delvers from mortal families will probably be interested in making skills for themselves. And more if…”
+
+Kees paused before leaning forward making sure he had Matt’s full attention. “This is less dependent on you as a guild leader and more as a duke, but knowing you and Lady Moore’s inclination to help the poor, we ran the numbers with you opening or subsidizing places to teach the methods in a safe manner. A sort of after-school method for the newly awakened. The skills will need more refinement but given what information Ra’thala provided, we expect that most Tier 1s can manage to create a skill in their spirits within a year if they dedicate about three or four hours to it a day. If they take half the time, it will take a year and a half, to two years. Initial reports say it's not necessarily difficult, just tedious, thanks to a few tidbits Ra’thala’s people discovered which help with the process, and how dead simple the skills are. And that's before our people’s refinement, which they have positive outlooks on given the short time they have had to work on applying known skill modification techniques to the process. If we are correct and the process takes off like we expect, there will be a sizable dip in procurement for things like low-Tier items.”
+
+Matt’s initial reaction was to say that eight percent wasn’t that large of a swing, but an eight percent revenue loss would see many businesses shuttering their doors as it translated to a ten to fifteen percent profit loss. He had thought the numbers would be lower, but as he reviewed the report Kees sent him, he couldn’t argue with their findings. Even without dedicated assistance, even a rudimentary guide on the EmpireNet would probably be enough for most newly awakened to figure things out. Even if it took longer than the estimated year or two, it wouldn’t take more than five, which wasn’t that long even for a Tier 1.
+
+“What are the power levels of the skills looking like? Are they comparable to Tier 8 skills?”
+
+Kees indicated his uncertainty with a gesture. “So far, no, they start out about half as strong. But all of the early reports indicate that even if that can’t be solved through some iteration, the skills should be fairly easy to build off of to at least reach a Tier 8 standard by Tier 5 or 6, given some mild diligence. Do note that is when Ra’thala says most of his people would have encountered their second major cultivation stage, and would have access to more advanced-level spells designed to build off the common spells he’s sharing. We actually believe that the skill distribution of his Realm is different from our Tier 8 breakpoint, and every six thereafter for skills to start appearing. We have no real way to prove it, but the relevant thing is his people usually built off their initial skills by Tier 5.
+
+“Guild Leader, this is where our largest problem lies. It takes more effort, and most delving Tier 5s can buy a common skill like [Fireball] given some savings, but this is something they can theoretically build off forever. It may take some time, but most of our projections show people will start specializing their skills as they advance instead of forgoing them. It gives experience with general skill modification that they will find useful for all other skills, and as people pave the path for dedicated designs, they can self-direct said skill to the methods they want to take their cultivation. This will possibly have lasting repercussions to the lower Tier economies as a whole if not handled carefully.”
+
+Matt leaned back and thought as he filled in the unsaid ‘this is where we earn enemies’.
+
+He wasn’t considering keeping the information to himself, but he was considering how they needed to play it, and his initial answer was the one he liked the most.
+
+Help the little people.
+
+Higher Tiers could take care of themselves, and while he didn’t want them to be taken advantage of, they had more recourse to solve issues they ran into.
+
+If they released the low-level steps, say Tier 1 and another at Tier 5, to bring the skills up to a typical Tier 8 level, they would certainly step on some toes. But if they left the higher-level specializations alone, allowing various guilds and interests to create, and most importantly, sell specializations similar to how skill modifications were already done, they could probably avoid the worst of the issues.
+
+A lot of people would still be mad and lower-Tier businesses would take a hit with some undoubtedly shuttering, but they would be proving they weren’t trying to take everyone's lunch and that might mollify the biggest threats.
+
+After explaining his idea, his vice guild leader shook his head. “That is the situation we have already considered. Because of your position and funding, I think you underestimate the lower Tiers. The value extracted out of those economies are small, but every world has low Tiers, they make up the majority of the Empire’s population, and they also are born often and die just as fast. If you sell a technique like this to an immortal, they only buy one or two, but a mortal needs to buy it every generation. Let's take enchanted equipment as an example. It's good, but it wears out and needs to be repaired and then replaced every few years. Being on the Path, you advanced quickly enough that I’d speculate you replaced your equipment once or twice as you Tiered up through Tier 1 through Tier 5. But most teams spend decades in those Tiers, and they replace their gear every three to five years. The cost of doing so isn't much, but that money is spent often and predictably, whereas this is a permanent solution. Even if it only catches on for a percentage of lower-income cultivators, there is always the chance it goes way beyond our eight percent estimation.”
+
+Kees shuffled through some files on his [AI] before flicking a finger at Matt. “Speaking of, we have a request for creating non-combat variations of spells with this same method once the combat methods are solved enough to be published. Two of the team members are very interested in creating quality-of-life skills average people would find helpful. Mostly cleaning spells and the like, but I doubt you will say no, and that is a market we expect to see at least a fifteen percent interest in at a minimum. Enchantments are expensive, and a lot of people would rather spend an hour a day for a year or three to reduce cleaning for the rest of their life. At least those who are buying enchanted items instead of mundane ones for such activities.”
+
+Reviewing the request, Matt winced at the expected costs for the research, they weren’t just simplifying and iterating on already known skills that had long since been ‘perfected’ like Ra’thala’s had been. No, they wanted to create entirely new skills from scratch. According to the report, Ra’thala had known of some spells, but they were all in the Tier 10 range, and few people ever really bothered to use them, as everyone over Tier 5 had a Concept. It could easily be used to deal with things like cleaning or other minor daily chores.
+
+Which came back to a general problem of the guild. Matt may have unlimited mana, but even then, there were practical limits. He wasn’t going to go sit in a Tier 45 rift with a hundred times time acceleration just to produce a hundred times more mana. He wasn’t afraid to share his mana, but he wouldn’t lock himself in a box to do so either, which meant his only way to increase his output was through Tiering up.
+
+That did work; however, there was a limit of how much mana they could reasonably launder through the Empire. Too much mana given to the guild would raise even more flags than their already massive budget did.
+
+All of which meant Matt couldn’t just accept every single proposal for research that came before him. Far too often, at least for his tastes, he needed to make the hard decision and push some projects down in priority.
+
+Currently, the guild worked on short-, mid-, and long-term cycles for funding. Short-term projects were ones that just needed a lump sum of mana or other resources to do, like direct charity work by hiring construction companies to build orphanages. Few research requests were of such nature, but their guild was still a charity guild, and they had people dedicated to directly helping those in need. Not even just in their duchy, but all across the Empire.
+
+The mid-term funding projects were usually research teams requesting to look into whatever it was that caught their interest. Whether that be created quality-of-life skills simple enough for people to create on their own, a better way to vary mana output of enchantments without the typical additives, or creating a new cutting rune, most of them were funded for a decade before they would be put up for review to see if it was worth funding longer.
+
+Part of the guild’s reward system for successful projects was funding personal projects, and they also fell under the same decade-long block.
+
+Finally, there were the long-term projects, the ones that were expected to take centuries or even millennia. The entire aperology department was in that category, and therefore fully funded, because of how long such things were expected to take before they showed any appreciable results. Rune creation was in a similar boat as well as their general alchemy department.
+
+All of that boiled down to the fact they only had funding for three more mid-term projects for the next five years, until other projects were expected to end. But even then, that funding might not be freed up if they showed appreciable progress, which had happened to otherwise stagnant projects before.
+
+Their review process had taken some refinement, but currently few had complaints because of how impartial it was.
+
+First and foremost, all of the relevant work was fed into an AI buried deep inside the guild moon’s molten core, which was free from subtle tampering. Said AI ran dozens of analyses on the project to see just how much progress they had covered, and to see if they had run into a seemingly insurmountable wall.
+
+Then before that information was released, that same information was sent to a review team who did the same analyses.
+
+When the team had their own result, both were compared, and if both groups agreed the project warranted more funding, the decision was finalized.
+
+If only one party agreed the project needed funding, it was kicked up to guild management for further review, just as if both groups decided the project didn’t warrant further funding, so that the teams in question could plead their case to guild leadership in a sort of automatic appeal process.
+
+It sounded like a lot of work because it was, but so far, most of his team who had hit a wall were the first ones to throw in the towel, as their willingness to step back and free up funding earned them goodwill with both their fellow researchers and guild management, who didn’t need to go through the process of denying an extension.
+
+Not that everyone or every project was treated equally.
+
+Matt had his own preferences and biases that he didn’t bother to hide or disguise. It was his guild, and he was funding everything after all, which is why aperology had the largest budget at almost a quarter of the guild's funds. And people he knew, like Erwin, were given pretty much automatic approval for any projects they wanted to create. Within reason, as Erwin wasn’t always reasonable, but even then, Matt was more likely to say yes than no.
+
+The latter was funded through his own accounts directly, but that just meant skipping the obvious laundering of funds more than anything else.
+
+Amusingly enough, according to Kees, those more typical things had done more to soothe ruffled feathers than Matt trying to be nice and equal to everyone else, as they were so used to leadership prioritizing their own designs that anything else felt alien and strange.
+
+While they did have some time before a decision needed to be made, it would take at least a few years, probably a decade or so, before the team members’ current project of simplifying and iterating on Ra’thala’s basic combat skills were done. If Matt said yes to this, he was potentially saying ‘no’ or ‘not yet’ to another potentially worthy project that hadn’t been submitted yet.
+
+To him, non-combat spells felt less important as a whole, but he was aware of his biases enough to know that he had them. He also remembered not loving having to scrub away dirty caked-on food from plates or hard stains that didn’t come out in a normal wash, and wishing he could magic them away.
+
+And if his own life wasn’t enough, he was able to open up his Minkalla Folded Reflection lives memories and see hundreds of times where he parents, himself, or Aster complained about the woes of daily chores.
+
+It might seem insignificant, but there was a reason Tier 8 non-combat skills could sell for as much as combat spells, and why household enchantments always went for a premium.
+
+He even remembered when he was at his Pather’s Tournament and people asking him for runes that would make living on more hostile low Tier worlds for free, and this would be a step in that direction.
+
+But was it worth it?
+
+He didn’t know, but he provisionally approved the request.
+
+If nothing else, it would be good to test the viability of such self-created skills and more data points could help the combat variants make either more specific or generalized skills. Both had their use cases, but given the time needed to create even a single skill, Matt doubted few people would ever make more than one skill this way before reaching immortality. So, having a wide range of useful starting skills was a must. And after that, they would have the funds to just buy better skills, so unless there were exceptional variations that appeared, it was unlikely.
+
+It also depended on if the skills started showing up in rifts, how rare they were, and if they were easy to modify.
+
+He had speculated that they might have just ‘invented’ an entirely new Tier of skills, but that was unlikely, all things considered. Skills’ complexity and power weren’t hard requirements for skill Tier, even if they didn’t fully understand the categorization. If it were possible for skills to drop lower, they would have seen it before.
+
+That just brought his thoughts back to what Kees had said earlier. This would undoubtedly cause a number of people to get very upset with him, enough so they added their efforts to the people already playing games in the shadows.
+
+It just came down to how Matt wanted to handle it.
+
+Was he willing to fight for the things he believed in?
+
+Or rather, was he willing to fight in a new way for the things he believed in?
+
+This might become a physical altercation, but it was more likely to remain a clandestine shadow affair fought on corporate battlefields, and those were not his specialty.
+
+His answer didn’t change, however.
+
+“Let’s go ahead. We can try to placate people by stating our intention to only release Tier 1 and Tier 5 variants of the skills for free, but I refuse to shy away from doing the right thing because of threats. As for the interference with our various business partners, let’s—”
+
+Matt paused as he got a message from Liz: “I need you down here. Someone hit a dozen of our aura potion shipments.”

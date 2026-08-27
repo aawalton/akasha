@@ -1,0 +1,405 @@
+---
+id: e9095fdf-c184-5d93-8bf9-29f9b13022ea
+page-type-slug: story-chapter-royal-road
+title: "Chapter 179: Hermit Kingdom"
+slug: 0101-chapter-179-hermit-kingdom
+partOf: the-calamitous-bob-stubbed
+position: 101
+ownLength: 5730
+unit: words
+ownProgress: 5730
+publishedAt: 2024-10-11
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1845739/chapter-179-hermit-kingdom"
+royalRoadId: "1845739"
+markedReadAt: "2026-06-29T21:18:14.569Z"
+---
+
+Frostway was built along a bay, and Viv had to admit that the Old Harrakans knew how to pick their spots. Far to the right, piers stood protected by encroaching cliff walls that formed a natural harbor, where fat ships with folded white sails bobbed placidly in the calm waters. Closer, the land sloped up towards her while a sharp incline to the right led to a fortress with thick walls overlooking the bay, battlements smoothed by time and harsh weather. The marks of a glorious past could still be seen there and in a few buildings scattered across the city. A series of warehouses and forges directly in the city’s center showed the typical brutalist style of Old Harrak. Same with barracks and what looked like an office, or perhaps a large house, she wasn’t sure, but everywhere else, time had gnawed at the ancient splendor and no one had seen fit to resist it. Poorly made thatched roofs grew on ancient walls like ratty hats on top of cocktail dresses. Some of the smaller structures around the surrounding fields used salvaged stones for barns and sheds, the cuts square and uselessly precise. The town had expanded aggressively since the old days of the Imperial outpost until a shanty town organically formed around the town center, squalid and crowded. There was, however, a third type of building. Or rather, a single building. It was brand new.
+
+Now Viv had seen some artistic horrors in her gods-forsaken radioactive dumpster fire of a life, but Baroque shit like this took the cake and then ate it as well. A palace squatted at the end of the road, just before it bifurcated right towards the piers. It was a gaudy abomination born from the feverish mind of a color-blind asshole who’d heard descriptions of Harrak from a compulsive liar, then decided to outdo it. That was the only reasonable explanation for this shocking pile of red, blue, and yellow engraved stones. It even had a cupola. It was the Taj Mahal’s painted harlot of a distant relative.
+
+Viv realized she had stopped and was blocking the way, but as the saying went, she just couldn’t even. Yeah, Solfis could not be allowed to see that. Not until Viv gave up on a diplomatic solution.
+
+“Viv?” Marruk asked.
+
+“Let’s just get on with it.”
+
+Morning light touched Frostway and did it absolutely no favors. Viv, on her horse, then a squad of the One Hundred, the Kark, and then the baggage train walked down the main road at a brisk pace. Protocol dictated that someone should have come to meet them, but no one had, and Viv was not going to stay planted at the edge of the city like an awkward cactus. She rode at a slow pace to give herself time to watch the land around her, but also to let the gathering of local soldiers she could see in the distance stew in their own impatience.
+
+The slum dwellers made no secrets of their presence, especially the children. They ogled at her with naked befuddlement, like they absolutely could not believe their eyes. Viv took it as an indication that no one had reported her presence. Or at least no one had done so to the general population. The lack of horses could be a reason, but it also betrayed a lack of communication that she couldn’t relate to. The only time she had ordered a sexy outfit to surprise Sidjin with, from a famous Baranese tailor no less, one of her attendants had offered to send a bottle of sweet wine to her bedchamber while she was carrying the damn package upstairs. Here, the fact the rest of the continent was still alive didn’t warrant a single runner.
+
+As they made their way further, the mood changed. The half-stone building residents retreated in their mansions with locked doors and fearful eyes peering through closed shutters. Viv was obviously Bad News. Curiously, Frostway didn’t really have a commercial district so much as a bunch of large dedicated workshops, one for each trade, lacking a front or any form of embellishment or, indeed, advertisement. The foundry was a disappointment as well. Although people clearly worked there, it was obviously underused. Only one of the smelters was currently active, the rings of metal on metal lacking the loud intensity of Sinur’s Gate’s smaller structures. Sad batches of tools waited by the entrance, signs of rust already appearing on a couple of exposed tips. The palace was soon in view, and Viv swallowed back a lump of nervousness. Despite everything that had happened, she was still not really an experienced politician. Killing princelings didn’t really count. She hoped she wouldn’t fuck this up.
+
+The locals went all in on the grandiose reception. Almost a thousand soldiers waited in tight formation on a large plaza, covering almost every available space, clad in pretty good armor and wielding steel weapons of solid make. There were even some on the palace’s steps, and Viv felt blobs of black mana on the roofs as well. Ambushers of a sort. Robed mages stood in a circle at the back of the formation to provide support in case things went south. More tellingly, the soldiers blocked the path to the entrance of the palace and the three people standing there, at the foot of a massive statue.
+
+It depicted an emperor, or that was what Viv gathered from the elaborate Harrakan armor and the imitation dragon crown. It was huge and, though painfully detailed, lacked that simile of life that made great carvings so fascinating. A poem was written on the pedestal, in Harrakan. Viv quickly read it. The short form celebrated the man’s achievement with awkward, flowery prose. It was fucking bad.
+
+Dominating the group was a man wearing the same armor made of gold-layered steel. Marus, Viv assumed. He was a handsome, clean-shaven bastard smiling benevolently, hand to the side and posturing like a superhero. A dour, overweight man in a custom chestplate backed him up. That one had enough medals on his chest to provide for a dozen magpies. The last figure was slightly behind the others, wearing a comparatively dull gray dress in the fashion of Imperial senators. She was an old woman with august traits and a quiet dignity that sent off alarm bells in Viv’s head, not least because there was something in her soul that spread over all of the plaza, more so than from the emperor himself. Her gaze watched Viv approached like a snake watching a mouse dangling in front of its cage. Bad vibes all around.
+
+Since it was a show of force, Viv made sure to close the distance until her horse stopped right in front of the front row of spears, just to show she knew what they were doing and didn’t give a shit. Power games were a given on Param. It didn’t mean that shows of intimidation would lead to violence, not necessarily, but it still took a lot of willpower to squelch the draconic instinct to just murder everyone and teleport the army in. She was not here to destroy. She was here to take, maybe.
+
+The outnumbered One Hundred stopped right by her side around Brick’s battle standard. They radiated smug condescension to a palpable degree. Many of them were two full steps above their counterparts and, in the case of battle, that would only go one way. Not that they were even needed.
+
+Viv smiled pleasantly. It was acceptable for her to speak first, so she did.
+
+“Greetings, cousin. I am Viviane, Empress of New—”
+
+The gray-haired woman spoke. Her voice blanketed the area and it felt… very strong. It reverberated among the soldiers as if amplified by their attention. It was a smothering thing, cold and terrifying. The weight of a nation.
+
+“You will dismount before the emperor.”
+
+Her voice was matter-of-fact. An evidence that made her own men uneasy. Far behind, gasps echoed from the supply train.
+
+But what were numbers, what was a state to a dragon? Viv’s soul carried the weight of a slain prince, a vanquished elemental archmage, a defeated expeditionary force.
+
+A redeemed god.
+
+She let it all out.
+
+Draconic intimidation: Expert 9.
+
+“If you interrupt me again, I will disintegrate you.”
+
+Her answer was as factual, sounded as true to the assembly as the woman’s command. Viv would, if interrupted again, dust the woman. And that was it.
+
+And she would absolutely do it.
+
+They would play the game subtly or she would just go to town and they would see. The absolute certitude of her words was echoed by Brick’s strange power, the woman ready to go at it at a moment’s notice. Viv’s aura bounced on her and the entire One Hundred glared ahead like a spiky cathedral’s worth of angry gargoyles.
+
+“Good. Now, where was I? Ah yes, greetings cousin, I am Empress Viv of New Harrak. I recently learned of your survival and am delighted to meet you, from one inheritor to another. I have come to extend a hand in friendship.”
+
+Or to bitch slap him. Most likely the second.
+
+“I come bearing news of the wider world, and gifts from all across the continent.”
+
+She signaled and the baggage train’s lead attendants approached with chests. Sadly, the soldiers didn’t move.
+
+“If you accept them, of course.”
+
+That was it. Viv had laid down the law. So far, Viv had been tested by a subordinate and she had returned it, but those were just games. Marus could take offense and demand submission, in which case this was going to turn into a slaughter, or he could delay the confrontation. From the expression of the soldiers, they clearly expected to have to fight and they didn’t look too happy about it. A quick inspection revealed that, although those were Harrakan regulars, more than half of them were still second step only. It didn’t necessarily look too good.
+
+Viv felt the passing touch of a lot of inspection skills being used on her. Marus seemed to hesitate, but then he smiled widely. Arms extended, he stepped forward to welcome Viv.
+
+“Welcome, lady Viv, welcome to Harrak, beacon of civilization. We are ecstatic to see visitors after so long. I am Marus, Emperor of Harrak. This is General Kobanis.”
+
+He pointed towards the frowning, overweight man by his side. The general mood was that Viv had fucked up and was going to get scolded, yet nothing was happening. The confusion only grew but no one dared speak.
+
+“And this is Arana, our Prime Minister.”
+
+Viv, in turn, presented Captain Ban of the One Hundred, and Marruk, leader of the Kark detachment whom people watched with a mix of fear and curiosity. Zero-Two remained anonymous since he was an assassin and also because the only way to make him stand here, in front of a thousand people, would have been to drag him screaming there. A counterproductive use of Viv’s time.
+
+Viv noted that, although she had called Marus cousin as a gesture of equality, Marus had not returned it. Yet another slight. She held back her anger anyway. The game was just beginning.
+
+“We welcome your presents with gratitude,” he said.
+
+If he had used the word tribute, she would have had to correct him.
+
+The soldiers were ordered to make way for the attendants, which caused a bit of shuffle because, one, the local soldiers were packed like sardines and two, they had been drilled by an ape. Ban turned an interesting shade watching the shitshow without hurling insults. After a little while, the gifts were brought forth. There were embroideries and a few blades from New Harrak which the trio eyed warily, bales of fabric from Baran, medicinal herbs from Enoria, spices from the north, and a few silver jewelries from the south. Whispers shook the ranks before NCOs slapped a few helmets. Any more displays of unprofessionalism and Ban would explode, Viv judged. He was on the verge of apoplexy.
+
+“Those are sumptuous gifts. As a token of our appreciation, we would like to invite you to stay for a few days with us, if that pleases you.”
+
+“That would be agreeable, yes.”
+
+“Excellent!” the smooth man declared. “While your servants make their way to your quarters, allow me to show you the splendors and achievements of the Empire as it has endured after the catastrophe.”
+
+Viv only kept a handful of One Hundred with her while Marus led her around the city in a strange procession, local citizens watching them move around with utter shock.
+
+Viv noticed that she was not invited into the palace. In fact, she would not even be hosted there. Instead, the manor she had first seen would be her base. It was apparently used by visiting local leaders during celebrations.
+
+“Here, the seamstress guild perpetuates the glorious traditions and techniques of the empire!”
+
+Viv oohed and aahed when requested while the visit continued. It was clear Marus wanted to give himself some time before dealing with her, and this was a way to do so. She obliged, as she needed information anyway.
+
+Frostway was definitely a mixed bag. Production occurred in dedicated guilds that Marus admitted were tightly controlled state monopolies. Of course, he didn’t state it like that. Those were ‘centers of excellence for the most talented citizens of the empire’.
+
+Or something.
+
+The reality was more of a contrast. The facilities were ancient and crumbling despite ready access to earth magic. Space was obviously at a premium in some of the workshops while others had long, windy, empty corridors bordered by storage rooms collecting dust. If Marus held any shame about showing her disaffected factories in a clearly improvised moment, he showed none. Obsequious men and women in opulent clothes covered them in praises and platitudes while they inspected the best the Old Empire still had to offer. And yet,  despite all that mediocrity and nepotism, undeniable flashes of brilliance shone like diamonds in a pigsty. Genius artisans struggled with limited supplies to create masterpieces, fugacious moments of excellence. They offered glimpses of what could be. Marus had been right in one regard at least. Many of those people had managed to keep long traditions alive through the catastrophe and the following fall. It was an uphill struggle, as the visit of the forge proved.
+
+“Precious ore is brought here from the island every spring by our valorous captains,” Marus claimed.
+
+There was clearly not enough ore to go around, and most of the metal adorned second-step idiots parading around the city instead of an expeditionary corps that would increase the mining output by, at the very least, clearing the mines of monsters. The trip between Frostway and the island would take less than a month, round trip, even with a full cargo hold. Surely it wasn’t that hard to get more stuff in.
+
+Viv abstained from sharing this observation with her host, who led her to the city fortress after a silent, five minute walk.
+
+Despite its tired exterior, Viv was surprised to find that the castle was not just in decent repair, but it also sported some decent magical protections. They went through a monumental entrance without issue, and Viv noted that the hinges were oiled and the battlements above, guarded by soldiers wearing far more basic gear than what she had seen out on the plaza. A shy apprentice led them through windy corridors to the office of the master of the place. Viv felt his mana signature through the doors before they even got in. Mostly air and water. It was cold, but also crisp, like a breeze. The mage watched her come in from a desk covered in papers. Marus had not knocked. Out of all the mages she had ever come across, he was the one who looked the most like an old school wizard. He was only missing the pointy hat.
+
+“And here is Archmage Frosthawk, the current head of the Imperial School of Magic.”
+
+“Ah yes,” Viv replied with a smile. “You were leading the tactical array near the palace.”
+
+Viv recognized the design from both her class at the Academy and Solfis’ theoretical training. Imperial mage cadres tended to prefer specialized constructs, and this was no exception. The array would protect the mages inside while allowing the leader to cast a powerful version of a single type of spell. And that was it. Nowadays, war mages preferred a more flexible approach.
+
+“A witch who knows about tactical arrays?” the man replied with doubt. And a bit of condescension.
+
+Or at least, that was what his tone said. His aura spoke of a different story. It pulsed, lightly, in a pattern. One, two, one. One, two, one.
+
+Viv stopped to think hard, even sending her mind into overdrive to slow down time as much as possible.
+
+Frosthawk’s gaze was sharp. The pattern meant something, something familiar. She had perfect recall but she didn’t remember the exact pattern itself, no. What then? She had heard it mentioned. Theoretical knowledge. Who had told her that?
+
+By her side, she could see Marus slowly turn his head towards her. Frosthawk’s insulting tone would give her a couple of seconds. She only had to pretend to consider retaliation.
+
+Frosthawk, name of an imperial family of southern mages. He was a direct descendant, no doubt. Not magery. Security protocols?
+
+Imperial codes.
+
+Yes, she had it now. Imperial code for long-range communication across large battlefields. This was a greeting, the equivalent of ‘do you copy?’. Crafty crafty. She allowed herself to smile.
+
+“You would be surprised what one can pick up over the years,” she replied.
+
+Two one one. Two one one. I copy.
+
+The mage nodded.
+
+“If you say so, then I will take your word for it. I assume you would like to see our facilities?”
+
+“If it’s not a bother, Frosthawk old friend,” Marus lied through his teeth.
+
+The mage proceeded to show Viv a series of classrooms, a library, and a magical workshop in a bored drone. From an outside perspective, it would have sounded like the most unmotivated demonstration in history. Secretly, Frosthawk tested her knowledge of spellwork through various little traps he left in his wake, which Viv enjoyed undoing tremendously. Frosthawk remained guarded, however, and it was clear that he kept a healthy dose of disdain for witches in general. So Viv made him stumble by shifting a rug under his feet with a delicate application of colorless mana. While he was casting his next trick. After that, the tests stopped.
+
+It was nice to see that people had a spine. She shouldn’t have been surprised. One could stuff the military with their stooges even if it cost them their efficiency, but magic was magic, and mage candidates were too few to safely discard. Oh, Viv was sure that Froshawk had some form of political officer watching over his shoulder, but he was still competent. As was the scout head, Cerus. Perhaps there was an angle there.
+
+The visit ended soon after, and Marus sent her ‘home’ by presenting the usual excuse of ‘you must be exhausted’. Not even a feast to celebrate her arrival! She must have really caught them off guard.
+
+Viv retreated to her quarters, finding them adequate. No one was missing yet, and the One Hundred had finished establishing a perimeter. Viv spent two hours setting enchantments just in case, then it was time for a short war council. Viv found herself missing Lady Azar. This would have been a perfect playground for the crafty stateswoman.
+
+“I am a little out of my depth,” she confessed.
+
+“How? You are being an empress,” Marruk replied.
+
+Zero-Two shrugged. Ban was not talking tonight. He had said what he thought of the opposition and then simmered in his corner, clearly eager to show them what a bunch of wankers they were (his words). Old Derin represented the supply wagon. She was still drawing on her pipe. Also not one for words.
+
+“Let’s be honest, we could take this city in two hours.”
+
+“Less,” Ban grumbled.
+
+“Less if we don’t care about collateral damage,” Viv conceded. “I would just like to try it another way first. For once. The peaceful way.”
+
+“You could negotiate with the people,” Marruk said.
+
+“Yes, although they are afraid. And something else. A sort of aura over this place. I will seek advice before I commit.”
+
+“That does not sound like you,” Marruk said with a frown.
+
+It didn’t, Viv had to admit. She knew what was different.
+
+“It’s because I’m trying subterfuge. No, setting traps in a dense forest doesn’t count, Marruk, because I was always applying what I was taught. Same as slandering Elunath. My first approach is always to find the right tool for the job, or create it. Here I will have to be inventive. Cunning. It’s fine. I need to get out of my comfort zone, sometimes.”
+
+“It’s alright, Viv. If all else fails we can always apply maces to faces,” Marruk said with confidence.
+
+“Thanks, you always know how to put things into perspective. Alright, let’s wrap up for tonight.”
+
+***
+
+“That bitch is going to ruin everything!”
+
+Marus threw an amphora against a wall. Debris and stale wine showered a nearby couch, staining the pillows.
+
+“Patience, my grandson,” Arana replied in a calm voice.
+
+“Patience? She struts on my land with such arrogance. I am the Emperor of Harrak.”
+
+“Do not.” Arana hissed, “Raise your voice at me.”
+
+Marius bit his lips but his anger was misplaced. He knew it, and threw his hands up with annoyance.
+
+“An invader in all but name. Where is your precious control now? We had no inkling she was coming. She has no family to threaten. No clan to exterminate. No money to seize!”
+
+“There are more ways to control someone than just brute force, my grandson. I have already given orders for riders to return to the villages she visited and see if she left people behind. I have no doubts she will send runners back to whatever hole she crawled out of.”
+
+“And those lands are not safe,” Marus replied with a smirk.
+
+One Arana mirrored.
+
+“Precisely. First, we will isolate her. Cut off her support. Then we remove her. She was a fool to bring Kark here. Ugly creatures. We shall spread word that they, hmm, crave carnal desire with human women. Yes, that will be a nice start. Unfortunately, she is no village head. It will take more than influence to finish her off.”
+
+Marus scoffed.
+
+“Surely you do not believe those lies. A single person fending off a dragon? Preposterous.”
+
+“I agree, however, it matters not that she lied. That dolt Cerus is adamant that the dragon was fought and she is still standing, therefore she has the support of a mighty force. You did not feel her intimidation like I did. She has blood on her hands.”
+
+“Then what?”
+
+“There is a… simple request I would like you to make of her. One that would allow her to prove herself and might not just rid us of the problem, it will also make up for the slight she so casually flung into my face.”
+
+“What is it?”
+
+Marus heard the proposition, aghast.
+
+“She will never agree to it.”
+
+“She will.”
+
+“How can you be so sure?”
+
+“Because she is supremely arrogant.”
+
+***
+
+That night, Viv slept. She didn’t really need it but she still made an effort to go to bed every night as a way to anchor her in her humanity. The rituals helped, as did Sidjin though he wasn’t there tonight.
+
+Something pulled her into the in-between.
+
+Someone new.
+
+Viv had no choice but to allow it. The pull was the most imperious she had ever felt, to the extent she could not even formulate the will to resist. Her presence was demanded, and so she would attend. There were no alternatives. Rather than the strange void that was normal, she was transported far, far away, and up. At the top of the world, where things like weather patterns and atmosphere no longer mattered. A part of her knew mana was thick here, but it was a vision, and only a ghost of a sensation nourished her core.
+
+She was standing in front of a throne.
+
+A woman sat there, confident in her power. The throne was mostly unadorned though there were sculpted corpses on it that spoke of an impressive tally. The woman only wore a dress, and a sword rested on her lap. The dress was simple, the sword short and functional. Her hair was raven-black and her eyes brown, warm. She was beautiful in a very alive, imperfect yet charming way Viv had loved on Varska, yet the woman was very clearly a goddess.
+
+It wasn’t her power, which she restrained, but her dress. The hems were darkened, tattered, soaked with blood, and shadows danced behind them like behind the curtains of a well-lit theater. Knights. Mages. Assassins. Courtiers. The agents of the Great Game, all working towards one thing and one thing only.
+
+Power.
+
+Maranor, Queen of the Gods, leaned forward.
+
+“Hello, Viviane. I believe our meeting was long overdue.”
+
+Out of all the gods except perhaps Efestar, she was by far the most human-sounding, as if she had retained much of her mortal identity. Nevertheless, Viv knew better than to provoke her. The gods followed obscure rules in the way they handled mortals. Viv knew this because without them, Octas would have dragged her in a dreamscape and then eaten her. It didn’t mean that Maranor could not punish her. Painfully. So Viv held her tongue and gave a curtsey.
+
+“Greeting, Maranor.”
+
+“You must be surprised to be here.”
+
+“Well,” Viv replied candidly, “I was under the impression that you didn’t like me very much.”
+
+And that was even without knowing about the divine spark of luck, which Viv seriously hoped was hidden.
+
+“Because you bear the mark of my absent husband?”
+
+Well, shit.
+
+“I know how you came here, Viviane the Outlander. My husband disappeared in the Palace of Many Doors, then never came out. And recently I discovered that a blazing Outlander came to Nyil at exactly the same time. It was easy to guess that my dear brother Maradoc sent his old friend to another world, far beyond my reach now, which I find… unpleasant for a variety of reasons. And no, I do not hold this specific offense against you, not anymore. I have had time to… reassess the situation. Admit that you bear no responsibility in this incident.”
+
+A goddess being reasonable? Either she was leading up to something, or it was going to rain frogs for a tenday.
+
+“I come to you to discuss the fate of the remnants.”
+
+She leaned forward, resting her chin on her fists.
+
+“That is what I call this land you are visiting.”
+
+“I assume you do not want me to start a revolution?”
+
+“No, I will support you if you attempt a coup.”
+
+Viv tried to blink, though it wasn’t really a thing since she didn’t have a real body here.
+
+“Pardon me?”
+
+“You assume that I enjoy the current regime, correct?”
+
+“I thought order was your thing, yes.”
+
+“Order, yes. Power as well. There is a nuance between power, and control.”
+
+Now Viv was listening. This wasn’t going the way she expected.
+
+“Before you begin, I wish to dispel what appears to be a… strongly ingrained misconception. I am a light god. My purpose is and has always been the triumph of mankind. I know you favor most sapient races and I will grant you that we disagree on this, however this is not relevant to the current discussion. We share the belief that peace and prosperity are superior to constant war and chaos. That it is better to build and prosper than to destroy. We are in agreement on this, at least, are we not?”
+
+“Our disagreement has always stemmed from the method. And the cost.”
+
+Maranor nodded. On the hem of her dress, someone was killed by a spear to the chest.
+
+“It is so. My purpose is not to debate you tonight, because I believe that we will never fully align. I can accept this. I only wanted you to understand that we disagree on methods but we share a purpose, and that common purpose is the betterment of mankind. The remnants are currently under the control of Arana, and Arana has erred in her mission. For the sake of absolute control, she has eroded the power of the remnants to a nub of its former self, a shadow of what it could have been. She and her family have destroyed all who would oppose her before they could react until she alone stood on the pedestal of rulership. Now all that is left are sycophants and experts too cowed by the threat of terror to be a danger to her.”
+
+Maranor stopped here, offering Viv an opportunity to answer. She didn’t. The Goddess of Power was sounding surprisingly reasonable.
+
+“I was not going to interfere. I had no reason to. Bringing chaos is against my nature. Even if it were not, Arana clamps on anything she sees as a threat. It took a major disruption, a seismic upheaval for her grip to loosen. Now, she will seek to reassert it by any means necessary, though she will try to weaken you first, as she fears your might. You two are on a collision course and there is nothing anyone, not even the gods, can do to stop it.”
+
+“And you favor me, despite my revolutionary tendencies.”
+
+“You were a revolutionary, a bringer of chaos, and so I supported your opponents. Now, you are a guardian of order. Your order. And so, I support you.”
+
+“I, uh, ok.”
+
+“Does it really surprise you that the Goddess of Power and Order would support an empress bringing civilization back to the Deadlands?”
+
+Viv didn’t immediately reply.
+
+“Your opinion of us must be rather dreadful.”
+
+“Welllllll.”
+
+“Ah, what refreshing insolence…” Maranor said, and her power shifted.
+
+Viv froze, or rather her soul did.
+
+Do not tickle the god-slaying womanchild. Her visual acuity is based on provocation.
+
+The moment passed.
+
+“Since conflict is inevitable, I will attempt to minimize the damage. That is why I would favor a coup. I would simply advise you to send the Hadals you love so much for a decapitating strike but I already anticipate your answer.”
+
+“I gave my word I wouldn’t use them as assassins.”
+
+“They have already assassinated people in your name.”
+
+“By their own volition. I will never force them.”
+
+“Even if refusing to do so will endanger your land and cause more casualties?”
+
+Viv resisted the urge to roll her eyes. It was an old argument she had, sometimes with Solfis, sometimes with Lady Azar. They had a very realistic approach to politics.
+
+“You do not know that for sure,” Viv retorted. “You may think a small breach of a promise from a ruler would be justified in exceptional circumstances. What you are doing is destroying trust and setting a precedent. I will not do that. You think it’s a sign of weakness but you would be surprised how far people are willing to go for causes and leaders they truly believe in.”
+
+“Enlighten me, then, Outlander.”
+
+“They go all the fucking way down.”
+
+Maranor remained silent.
+
+“As would I,” Viv added with conviction.
+
+“It is as I already said,” Maranor replied with a shrug. “You have grabbed power and now, it is yours, and your vision has been proven to be superior. If you wish to defeat Arana on her own playing field, you will need to crack the base of her power.”
+
+“Fear?”
+
+Maranor smiled.
+
+“You are very close to the truth. Yes, specifically, her path. You must break the way her path works. The more terrified people are, the more certain they are that she cannot be defeated, the more real it becomes. You could, as I said, kill her, but it would be a bloodbath. The alternate solution is to remove her supports one by one. The more you remove and the easier she will fall.”
+
+“She might try to outright kill me.”
+
+“Despite being cunning, Arana is single-minded. She will attempt to sabotage and isolate you before going for an assassination because this has always worked and so it is all she knows. She is a prisoner of her own path, much more than you are of yours. Yes, you are. Your draconic aura partially guides how you react. As you grow more powerful you will also lose some flexibility. Already, it is impossible for you to let any slight go unpunished.”
+
+“I…”
+
+Was she, really?
+
+Did it matter? She was the result of her choices. Hmmm.
+
+“Do not be distracted. As I said, you will defeat Arana on her own terms, and the remnants will submit to you without bloodshed. Fail, and the country will be drowned in the blood of the innocent. And you will lose many capable subordinates.”
+
+“I would rather avoid that.”
+
+“Then do so. Gnaw at her pillar with that contagious vision of yours, and you will send the entire rigid structure tumbling.”
+
+“Very well,” Viv said, and then waited.
+
+And waited.
+
+“You may depart if you wish,” Maranor said.
+
+“What, you will not ask something in return for the hint?”
+
+The goddess shrugged again, the move strange on her young frame. It felt too jaded.
+
+“I only wish for my temples to remain untouched, and allowed to continue in their mission.”
+
+Her eyes grew darker, more dangerous.
+
+“Surely, you were not considering forbidding my worship amongst your followers.”
+
+“Nope! Of course not. No religious war with a light god. Just be aware that Neriad is our holy patron and I’m not changing that.”
+
+“Of course. We are finished now. I would say ‘good luck’ but we both know how that will go.”
+
+Viv was pushed back. Vertigo hit her soul and she woke up in her guest bed, sweating and a little disoriented.
+
+Once she recovered, she lay her head on the pillow.
+
+It was time for the League of Lesser Evil (minus Solfis) to make a dastardly comeback.

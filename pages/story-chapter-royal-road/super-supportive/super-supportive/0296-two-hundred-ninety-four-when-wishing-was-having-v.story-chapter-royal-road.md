@@ -1,0 +1,651 @@
+---
+id: 45571531-d12f-5646-8b0d-86c0d551d738
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED NINETY-FOUR: When Wishing Was Having V"
+slug: 0296-two-hundred-ninety-four-when-wishing-was-having-v
+partOf: super-supportive
+position: 296
+ownLength: 6112
+unit: words
+publishedAt: 2026-06-25
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3591147/two-hundred-ninety-four-when-wishing-was-having"
+royalRoadId: "3591147"
+---
+
+294
+
+******
+
+Kon wondered if the guys knew how much attention they were suddenly getting from the other members of the class. Once the island started to fall, he couldn’t resist taking a glance around the room. People who had, in his opinion, been way too uninterested in his team’s debut on the floor were suddenly stopping their preparations and their conversations to look.
+
+And Ash, who’d been watching without much of an expression on his face the whole time, had finally lifted his brows.
+
+Interest. Those are the raised eyebrows of an interested person.
+
+Kon had positioned himself near a corner of the exterior barrier where he had a good view of the island, the girls’ pincushion alley, and their teacher.
+
+You see that, everybody? The so-called weakest team is the only one that did anything new with the floating island!
+
+It was the descending island now, coming down faster and faster. Ignacio’s throwing knife was close to punching all the way through, judging by the glowing orange spot on the bottom of the obstacle. The System didn’t hand out weak Meister weapons for sure. They’d considered the possibility that the knife would carve through the whole thing like butter. Ignacio had said he’d try to recall it more slowly in case that helped, but he also claimed not to be particularly good at slowing down his recalls.
+
+And that was one of several problems they’d imagined.
+
+Alden did most of the imagining. He really seemed to be on a roll coming up with theories for how the gym will act while it’s faking an uncommon Adjuster spell.
+
+But none of the bad things are happening after all! Except for the other team catching up, this is amazing.
+
+The island was low enough. Mehdi was jumping. Then Lexi. Alden. Ignacio was a moment behind, cancelling his Leading Knife skill at the same time as his feet hit the island. He was climbing up the peak to call his weapon again. He wanted to bring it up through the channel it had already cut in the obstacle.
+
+That’s Ignacio with both Meister knives in hand. All teammates are where they belong. Now, the island goes back up to its set location…we think.
+
+And yes!
+
+It had already started to rise. Kon bit back another shout. His hopes were on the way up with it.
+
+Don’t jump, Tuyet. Stay down.
+
+But she sprang up at the last moment, scrambling to get purchase on the island’s surface without touching any of his teammates so that her move to ride along with them couldn’t possibly be counted as an attack. Whether Vandy had issued an order or Tuyet had decided to leap on her own, there was no trace of the surprise that had been on her face a moment earlier. Her eyes were fixed on Ignacio, leaving little doubt about who she deemed the biggest danger.
+
+I don’t understand how she turns from such a nervous person into a stone cold threat as soon as combat starts. She wasn’t at all like this during regular phys ed when we were going to Paragon.
+
+Kon didn’t have time to dwell on her. The island was on its way—fast, but not so fast that they were all going to get thrown off. They’d been braced for that chance. Alden had mused that once Ignacio’s knives stopped pulling on it, it might inch back to its home location or snap back like a rubber band that had been stretched.
+
+That was why Lexi had plunged Writher into the island and grabbed Alden to anchor them both.
+
+No, none of them have any idea how cool they look, Kon decided. They don’t have time to notice that there are people down here pointing.
+
+And they couldn’t hear the comments that Kon could.
+
+They’re busy. They’re running through this right. I told Lexi we’d practice stuff in this class that we couldn’t in others! This counts! Apex. We could really win our first run. I’ve got to help them pull it off.
+
+The monkey bars started out white directly above the island, and then turned red about two-thirds of the way to the finish line. There was a rule about teams touching a minimum number of bars before one of their members could cross the finish, to keep those with certain powers from just skipping over the whole thing. But worrying about minimums wouldn’t be something that concerned their team. Haoyu had crossed almost the whole set of bars. He’d wait a rung or two from the finish line, delaying just a second to take in what was going on and decide whether staying on the course to help out or finishing his run was the right call.
+
+Kon was wondering that, too.
+
+Do we let Tuyet try to push for the finish? With Ignacio in play, we could kill a different player instead, but I think…
+
+“Crossing!” said Haoyu, swinging himself onto the platform that marked the finish.
+
+Okay! That’s what we’re doing then. “Kill Tuyet if you can do it without dying, L—”
+
+Writher flashed.
+
+“YES!!! YES, THAT’S HOW WE DO IT!”
+
+Kon liked to think his brother had moved in response to his orders. Even if he’d only gotten one syllable of the name out.
+
+******
+
+******
+
+“Holy…” Alden jumped for the monkey bars from the highest peak of the island. “Holy Writher—that’s what! I couldn’t even see that, Lexi!”
+
+Lexi was right in front of him, Ignacio right behind. Mehdi was out in front of all of them, pulling ahead and swinging toward the finish.
+
+“That was fast!” Haoyu was calling from where he waited for them at the end. “You got her neck, Lexi?!”
+
+“Face,” said Ignacio.
+
+Alden didn’t look down. He’d just seen Tuyet, stiff-suited, sliding headfirst off the edge of the island. The girls’ team had burst into shouts and instructions as they tried to recover. He didn’t need to check again.
+
+Get to the end. Just get to the end. My island idea worked. We’re almost there.
+
+Haoyu was his entruster, and he’d just entrusted the jacket Alden wore. The idea was now that Haoyu was done running, he’d keep an eye on threats to Alden specifically while Kon and Jeffy paid more attention to what the other team was doing. Alden and Ignacio were supposed to be last over the finish. As close together as possible.
+
+Tuyet will have to go back to the beginning since she died. I don’t know if she can get through the alley without injuries on her own, but I know she can’t attack us from down there. She’ll have to make it back up here.
+
+A ceiling separated the first and second floors. She couldn’t throw a dart between levels.
+
+They moved forward. But, when Mehdi was on the red rungs, several from the end, Kon’s urgent voice sounded in their ears: “Heloìsa! Flying sandbag! Coming at you now!”
+
+“Don’t stop to look!” Lexi shouted at Mehdi. “Cross! Earn us another attack so we can deal with her!”
+
+Alden didn’t stop, but he did look down in time to see Heloísa tagging the island with a foot to satisfy the requirement that they not completely skip any obstacle. Then the ten-kilo sandbag she was gripping the handle of suddenly changed directions and shot up toward Mehdi.
+
+Instead of listening to Lexi, Mehdi swung back and forth like a pendulum, his legs almost touching the bars in front of him then going all the way back toward the bar it looked like Maricel might be aiming Heloísa’s sandbag at.
+
+Heloísa yelped as the sandbag jerked her sideways unexpectedly. Maricel had shied away from the risk of hitting Mehdi at the last second, but then she hurled her teammate directly into the bars in front of Lexi instead. Heloísa had the strength to catch a bar and hold on, but she grunted and opted not to use what must have been an injured right arm as she swung toward the next.
+
+Mehdi crossed the finish.
+
+“Get Helo—!” Kon’s instruction this time was just part of a riot of noise they all made as another attack became available and their clean finish came under threat.
+
+Lexi’s “ME!” rang the clearest, and Writher moved the fastest. But after an astonishing run so far, this time he wasn’t quite as accurate with the whip. Or Heloísa wasn’t moving exactly like he’d thought she was going to.
+
+She’d swung one more time than expected, Alden thought, though in that frantic second it was hard to follow. Maybe she’d been preparing herself for a couple of big final swings to aim for the end instead of going for the next bar. But Writher, which should have sliced at something critical for life or motion, caught her around the left knee.
+
+It would have been a decent place to hit someone if they were running. Not so much on monkey bars. Heloísa cried out, but she reacted quickly.
+
+She reversed course to take advantage of the few seconds she was allowed for retaliation.
+
+Alden, clinging to a bar a few meters behind Lexi, winced. He had a front row view of a Strength Brute slamming feet first into Lexi’s face and chest and then launching off of him like he was a wall she hoped to destroy instead of a person.
+
+He’s dead.
+
+The System was translating Ignacio’s swearing.
+
+Lexi fell. And then abruptly stopped falling.
+
+“Ignacio…” said Alden.
+
+<<So close. Then disaster—!>>
+
+“Ignacio! It’s not over. We need to help him!”
+
+Writher had caught its Meister. Lexi looked completely stiff-suited, but his hand was wrapped in his own whip, near the handle, and the end of it was hooked around the bar he’d just fallen from.
+
+“Let me first!” Ignacio said as he realized what was happening.
+
+Alden made room for him to pass and then followed quickly to look down at Lexi. I said we should help him, but this isn’t the easiest thing to help with.
+
+“Pull yourself up. Pull up with your mind,” Ignacio was saying. He was probably attempting to sound calm, but he wasn’t quite there.
+
+Haoyu was calling advice in a similar tone from the finish.
+
+“I’m trying!” Lexi squawked. “I’m obviously trying!”
+
+He’s squawking. That’s bad. Writher plus a frazzled Lexi means…
+
+As if it was agreeing with him, the weapon started to glow dully. That wasn’t usually how it looked when it was being a friendly whip.
+
+He’s going to burn or cut through the bar.
+
+“Actually, I know what to do!” said Alden, injecting as much false confidence into his voice as possible. “It’s going to be easy. Just relax, Lexi! Think of something you like. Kon, kittens, rainbows…pizza and meditation…fluffy rugs…. Ignacio, try to guard us from whatever attack comes next.”
+
+Heloísa was already heaving herself over the finish.
+
+Damn.
+
+Alden got his left forearm lined up under Writher’s bar and preserved his jacket. It stiffened around him. “Up! Now, make Writher drag you up! There’s absolutely no way you can fall.”
+
+That was a lie. If Lexi just cut or melted straight through the bar without wiggling Writher around, they were fine now. Alden’s shielded arm would catch it. But Writher had too many options beyond sullen burning. It could even phase through things. If Lexi was really out of sorts and it really went haywire, nobody here was stopping it.
+
+“We’ve got this,” he insisted. “Just do it.”
+
+Lexi was looking up at him, body stiff from whatever his injuries were, expression furious.
+
+Is he giving up?
+
+Lexi yelled and shot up toward the monkey bars. It was almost as uncontrolled as Alden had feared, even if it was in the right direction. And the only thing the Meister had less control of than his whip was his body, since the suit wouldn’t let him move. Alden had to drop preservation on the jacket immediately and switch to trying to grab onto a high-speed roommate. He thought he did more good than bad when it came to helping Ignacio stop and hold Lexi.
+
+The System informed him that he should have a broken pinky and a sprained wrist, and the cuff around that wrist stiffened his hand up a little as he let go of his teammates and took care of re-securing his own grip on the bars while Ignacio held the weight of a glowering, red-faced Lexi in one arm.
+
+We got him! He’s alive! We can…
+
+“Can we actually cross like this?” Alden asked, as the reality of the situation wiped away his relief and excitement.
+
+“He’s still conscious. He can be entruster?” Ignacio suggested, jostling Lexi as if to show him off.
+
+Alden nodded and switched over from Haoyu. “Lexi—”
+
+“I entrust you with my sweater,” Lexi said. Like he wished he wasn’t conscious.
+
+“What’s with that attitude, man? You’ve been MVPing your way through this whole thing. Let me and Ignacio look good for a few seconds.”
+
+“Fine. Stick your foot between my body and my sweater so that you can hold me with your legs and keep both of your hands on the bars. I’ll call out incoming. We’ve got to go.”
+
+******
+
+******
+
+They recovered from that fall. They’re so close to the finish, thought Kon, pressing a hand to his mouth to keep himself from giving useless advice while he watched his three teammates crossing the final stretch. They were way up near the transparent part of the gym’s ceiling. The morning clouds drifting above them were such a peaceful backdrop for a scene that had Kon’s stomach tying itself in knots.
+
+Alden had shoved his right foot between Lexi’s back and the preserved sweater. He’d bent that leg and had his other foot helping to hold Lexi in place below him for good measure. Lexi, whose arms and legs had been frozen in an odd position by the suit even before the sweater-foot carry began, looked memorable.
+
+Kon was sure he was going to laugh at the expression on his brother’s face when he rewatched this later, but right now, he could see problems headed toward them. Tuyet, limping but not so injured she couldn’t snipe, was almost through the traffic tunnel. She was going to make it back up to the second level of the course soon. Everly had just started to cross the monkey bars. Jupiter and Maricel were standing on the floating island, shaping a large tangle of ivy and what looked like a metric ton of sand.
+
+And they have an attack available. Heloísa made it over. Will it be the Shapers who do it? Or are they waiting for Tuyet to arrive to make it a sure thing?
+
+Only one of them was allowed to take a shot. Kon wanted to run up into the bleachers and listen to whatever Vandy was saying to them.
+
+Alden, Ignacio, and Lexi knew what the situation was, but what could they do other than hope that whichever girl came after them missed?
+
+They must be so tense.
+
+“Throw me over,” Lexi grunted. “We’re close enough for you to make it.”
+
+“Yeah?” Alden said.
+
+They both sound all right, thought Kon. Good. Apex. Out of this universe. That’s so impressive of them.
+
+“Ignacio,” said Kon, surprised to find he could sound all right, too, “take out whoever you want to take out the second Lexi is over.”
+
+“Yes,” said Ignacio.
+
+“Here you go,” said Alden.
+
+Kon’s brother flew toward the finish.
+
+As if that had been the signal everyone was waiting for, the course burst into frenzied motion.
+
+******
+
+******
+
+So many people acting at once. Alden could only focus on some of it.
+
+“I entrust you with your jacket!” Lexi shouted as he crossed the finish.
+
+“Go,” said Ignacio. “If you fall, switch to me. I’ll entrust you with something different. Hold on very tight to it.”
+
+He whipped one of his Meister blades down toward the floating island.
+
+At the same time, a wedge of sand rammed into the bars between them and Everly.
+
+Alden moved forward a rung. Sand wasn’t an attack. Just a shield for Everly because they thought he’d throw the knife at her.
+
+He moved forward another. But he threw it at someone else.
+
+People were yelling things. Not Alden’s name. Not words he needed to hear.
+
+A column of greenery shot up behind him. It was just a whooshing feeling at his back, and then he was swinging to the next bar under a leafy canopy. They might get two attacks now.
+
+There would be one as an award for Heloísa’s crossing. One for retaliation if Ignacio hadn’t instantly killed whoever he’d just attacked.
+
+“JACKET!” the call came from every member of his team except Ignacio.
+
+As if I needed telling with all these leaves above me.
+
+Alden held on tight, tucked his chin, preserved his jacket, and waited for Jupiter to bring her ivy down on him.
+
+It might hit my fingers, drag at my legs. But the jacket and its hood should take a lot of the force. Enough. Maybe it will be enough.
+
+The greenery came down, but most of it came down behind him. He heard it crashing around Ignacio. Ripping. Shaking the bars.
+
+She went for Ignacio instead?
+
+That’s one attack.
+
+“Everly!” Kon called. “Alden, Ignacio, look out for Everly!”
+
+Alden heard the warning. He couldn’t turn without dropping his protection, but he pictured Everly Kim throwing herself physically at him or at an unbalanced Ignacio. He pictured himself fighting to kick her off because she could really only do damage to his lower half when he was so well shielded by the jacket. She’d be going for his legs.
+
+So when the bar swelled under his palms, thickened by a layer of ice that crept under his fingers, stinging and forcing his grip apart, his thoughts stalled for a beat. Ice? That’s the attack? Modification of shared obstacles doesn’t count as an attack in this class, though. Crap, it’s going to get slick.
+
+They were so close to the finish line. A couple of swings, and he’d be there.
+
+“Go!” Kon and Jeffy and Lexi and Mehdi and Haoyu shouted.
+
+“Ignacio, you’re fine! Shake it off!” said Kon. “Both of you, go, go, go!”
+
+Alden unpreserved his jacket so that he could swing himself toward the next rung. His hands landed firmly on the still-thickening layer of ice.
+
+Then, something small whizzed past him and struck the bar beside his left hand. The ice shattered all along the bar, and suddenly he wasn’t gripping anything at all.
+
+******
+
+“If you fall, switch to me.”
+
+Alden had heard that request. He’d scribbled it onto the mental, “Yes, I’ll do that,” list he had in his head during the run.
+
+And complying with it wasn’t something he had to think about at all. As he fell, the rest of the options on the list blew apart like the shards of ice that glittered around him.
+
+He switched to his new entruster. “Ignacio!”
+
+Alden’s face was turned up. He could see the Meister above him, clinging to the bars with his legs and one arm. He could see his own hands, reaching for nothing as he rushed toward the ground.
+
+Wind in his ears. Body tensed.
+
+“Catch this!” He saw one of Ignacio’s arms whip forward, and suddenly he knew what was coming, even though his eyes couldn’t track its flight properly.
+
+“Hold on very tight to it.”
+
+Dangerous.
+
+There should have been a longer discussion about this. Something beyond Alden explaining at the last minute that he wanted them to take on more active roles as entrusters and Ignacio deciding that meant Alden ought to be trusted a lot.
+
+To prepare for someday.
+
+Alden decided he shouldn’t preserve a friendly Meister’s bound weapon without explaining about the bowl he’d once held in Ro-den’s laboratory and how it was connected to a tree and how him grabbing onto it without the tree’s permission had potentially threatened that connection, and he didn’t want to risk damaging…
+
+Of course, he failed to worry about all of that until after he’d already caught his entruster’s knife.
+
+From its owner’s hand to him, like a laser beam. Ignacio had thrown it as hard as Big Snake had thrown any of those tennis balls. It would have gone through Alden’s hands and then his body if he’d failed to stop it.
+
+There’s no way I can stop something that fast!
+
+But he had that panicked thought too late, too, after his fingers and skill had already closed around the knife. The part of him that was turned attentively toward Ignacio had just known the moment and the point in space where blade and hand would meet.
+
+Now what?
+
+Ignacio must have imagined something unlikely. As a team, they’d talked so much about what crazy stunts they could do, flying around the gym attached to Kon and whatever object he was moving around with his spell impression. Alden could turn the knife and point it at Tuyet for revenge, but Ignacio had said hold on very tight. He must have meant for Alden to use preservation to enable the catch, then stop his skill immediately but still hold onto the knife physically, so Ignacio could recall his weapon.
+
+And hopefully bring the Rabbit attached to it back up to the monkey bars.
+
+This wild solution to the problem of his fall came to Alden all at once, shockingly fast, but not quite as fast as magic came at him from Ignacio.
+
+Something tried to interact with Alden’s spot in reality without quite making it. Not weak, but ineffective.
+
+It made him think of a hand shooting out toward him so hard that he could feel the movement of its passage in the air even though it had missed him.
+
+Ignacio was attempting something just then.
+
+Alden squeezed the knife in both hands. Further injuries to his fingers seemed inevitable. “Now!” he shouted as he unpreserved it.
+
+Ignacio did the recall.
+
+The blade did yank Alden upwards by his arms. Pain less than what he would have felt if this were real flared all through his upper body, from fingertips to shoulders and down farther into his torso. And then the blade just kept going, jerking itself out of his grip and zinging back to its master without Alden.
+
+He slammed into the floor.
+
+******
+
+******
+
+“Ooohhh! Too bad.”
+
+“That was Apex, though. Good run.”
+
+“The ice! I didn’t expect them to attack by breaking the ice. We could try something like that with…”
+
+“Were they seriously trying to save the Rabbit with a weapon recall? Idiots.”
+
+“It almost worked.”
+
+“Did that really look like it worked to you?”
+
+“I mean, if it’s all they had left to try…”
+
+“Wham! Alien gods, I bet that guy’s glad Ash keeps the pain setting low. I bet his femurs are up in his chest cavity on the injury readout.”
+
+“Since he’s a dead Rabbit does that make him roadkill?”
+
+“He didn’t get killed on the road.”
+
+“A Brute could’ve held onto the knife during the recall.”
+
+“The girls have got the win now. No way the two left on the first year dude team pull back from this.”
+
+“What they did with the floating island…!”
+
+“Hey, how did he catch that in the first place? He must have way faster reflexes than I realized.”
+
+The comments from the people in the gym around Kon washed through him, stinging more than they should have against the rawness of his own disappointment as he watched Alden lay sprawled on the floor.
+
+It had been a good run. Stellar.
+
+He’d greedily wanted a little more.
+
+The other guys on his team must have felt the same. They were quiet again, all of them staring down at their fallen member.
+
+Ignacio had managed to injure both Maricel and Jupiter with one attack toward the island. They weren’t going to die, but they weren’t moving easily. Their suits were stiffening more and more as they tried to use their elements to bring Tuyet up to join them. Blood loss and multiple wounds for each of them. Ignacio had done well thinking of how his skill could pull all those ordinary knives their team had left embedded in the obstacle back up to punish the two Shapers standing there.
+
+It was good work from him. He should have been proud.
+
+But now he was looking down at Alden like he’d accidentally killed him for real, instead of their plan just…not quite being enough.
+
+“All right,” said Kon, talking to them all through the shared voice call. “It’s not looking like a win anymore, but let’s finish out the run as well as we can, and show everyone that we don’t give—”
+
+“You’re going to send the knife back to me and try again right, Ignacio?” said Alden.
+
+“What? You’re alive! And conscious!” Kon exclaimed. Alden wasn’t moving at all. “You’ve got to be barely alive and conscious. Can you hold onto a knife for real?”
+
+“I’m less mobile than the average department store mannequin,” said Alden. “Ignacio…you can do it the other way.”
+
+Other way?
+
+Kon was drawing a blank on what that would be. Maybe Ignacio could go back down for some of their supplies, and with a rope and way more luck than they were going to have something could happen?
+
+<<But…>> said Ignacio.
+
+“I thought you might have tried something out just now,” said Alden. “Was I wrong?”
+
+“No,” Ignacio said after a pause. Everly was about to pass him on the bars. Nobody was allowed to attack anybody anymore until she crossed. <<But…you noticed? Really. I thought it didn’t work.>>
+
+What are they talking about?
+
+Alden had fallen. He’d caught the Meister weapon mid-fall. Absolutely shockingly super of him…but then Ignacio’s recall had been too strong and yanked it back out of his hands.
+
+Did I miss something?
+
+“Sure,” Alden was saying. “Drop the knife on me. Don’t throw so hard. I can’t believe I stopped that last one, and I’m definitely not catching this one with a hand at all. Just drop it accurately.”
+
+“Yes,” said Ignacio, energy returning to his voice. “I entrust you with this.”
+
+The throwing knife glinted in the gym lights as it fell.
+
+******
+
+******
+
+The knife dropped onto Alden’s stomach, and he stopped it with his skill before it could stab him or bounce off.
+
+“Got it,” he said. “Try now.”
+
+He felt someone else’s magic reach for him and miss.
+
+Then reach for him and miss again.
+
+He stared up because he’d landed with his face pointed in that direction. A piece of ice was melting on the floor next to one of his hands. He could feel the cold water.
+
+Ignacio’s jaw was clenched.
+
+He’s trying to call his weapon to him while my skill’s still holding it. So he must not feel totally separated from his knife when I’m bearing it? Is he trying to call both of us at the same time? Hmm…I’m not sure he knows. Is it just an idea he had?
+
+Alden paid attention with his authority sense more than his eyes.
+
+That feeling of something reaching for him came once more. And missed once more.
+
+That was a worse miss than the first few times.
+
+Alden knew because it felt fainter, like it had less to do with him.
+
+Ignacio was getting stressed. Or doubtful.
+
+Whatever he feels probably isn’t as clear as what I feel. He might not even understand that something is really happening.
+
+Another miss. Even farther off.
+
+He’s flailing.
+
+Everly had just reached Ignacio. She was passing him.
+
+Ignacio had a hand stuck out toward Alden, almost desperately. His next attempt to activate the recall was even harder to sense.
+
+“Hey,” said Alden, closing his eyes so he could focus. “It’s fine if we lose.”
+
+<<I’ll come down!>>
+
+“No,” said Alden. “If you’re close to learning something, keep trying. It’s practice, right? For someday.”
+
+******
+
+******
+
+Ignacio felt stupid.
+
+Like he was making mistakes and wasting their last little amount of time.
+
+Like he still had some ivy in his hair and his teeth, and like he didn’t know what he was doing as he stretched out an arm toward his teammate and used his recall.
+
+For a split second after Alden first fell and caught his knife, he’d thought, I can just call them both!
+
+It had seemed true, so he’d tried it. But nothing had happened.
+
+Even if he did have a strange, muffled version of his usual sense for his knife’s location, the assumption that he could do something like this fell apart now that they were outside of that moment that had already passed.
+
+Logic and doubt ate away at it swiftly.
+
+He did not call people. He called two specific throwing knives. And Alden’s skill made it impossible to affect things he held, so Ignacio couldn’t be sensing his knife. Maybe it was all in his head.
+
+Alden must have seen his face and gestures and guessed that he’d tried that recall earlier, but this wasn’t really poss—
+
+<<Hey. It’s fine if we lose,>> Alden said.
+
+No, it’s not. After how hard we’ve all worked. “I’ll come down!”
+
+“No,” said Alden. <<If you’re close to learning something, keep trying. It’s practice, right? For someday.>>
+
+Ignacio stared down at him.
+
+Maybe…just a little more. Even if it’s not a logical idea. You can’t give up on breakthrough moments. Avowed don’t always get a second chance to have exactly the same one.
+
+His grandmother had said something like that. Ignacio didn’t know if it was true. Or if this was one.
+
+He called his weapon again.
+
+******
+
+******
+
+I almost understand why it could work. And why it doesn’t.
+
+With his eyes closed and his thoughts turned entirely toward the magic, Alden could more clearly sense Ignacio’s power as it bypassed him.
+
+He nearly had something earlier, but it wasn’t quite right, and now he’s lost most of what was right about it.
+
+The only reason anything had seemed possible at all was because of how they were connected and how Alden had accepted the burden of the knife. Calling a Bearer of All Burdens couldn’t be something deliberately built into Ignacio’s ability.
+
+But answering a call like that might be close enough to some part of mine.
+
+At least there’s an effect…because of what I am and what his knife is to him. My entruster wants me to come. I’m okay with that. So there’s a little something going on here.
+
+But for it to become more, our skills have to work together. He has to call me. I have to bear it. Maybe if we both do it in the right way at the right time, new magic happens.
+
+Ignacio wasn’t quite telling the universe he wanted Alden to come to him, though. He was talking to it more about wanting a knife Alden was holding, while he also wanted Alden to keep holding that knife.
+
+Mixed signals.
+
+And even if I told him to call the real me…
+
+Ignacio couldn’t properly sense Alden’s self. He wouldn’t know what Alden meant.
+
+So…I’d have to do a little more than a normal Avowed could to make this work.
+
+Approaching Ignacio with something like an authority embrace, or trying to grab randomly at the magic he was doing without a plan, seemed risky and wrong.
+
+But shouldn’t there be some me-ness here?
+
+Because I’m his Bearer. And he’s my entruster. Because he’s trying to do something with me even if he doesn’t quite get what.
+
+We’re already casting something together in a way because he trusted me with his knife.
+
+As for the recall…a tiny bit of my voice might be in that magic, too. Even if it’s a shitty, faint reflection of me.
+
+Daharsee.
+
+If that’s all true, and I assert myself hard, and I hear the me-ness echo back…
+
+Then I could insist that the reflection become truer. Try to make it match up with me like I did when I shot the keda bean with Stuart.
+
+I think that might work.
+
+That was probably going too far.
+
+It’s a gym class. This would be pretty wizardy in addition to skill use.
+
+It’s good I figured some stuff out, but I should just let this one go.
+
+He opened his eyes again.
+
+Ah. Ignacio looks like he really wants to figure something out, too.
+
+******
+
+******
+
+******
+
+I think I can’t get that frog out of my head because I’ve left him stuck at the beginning. Just trying and trying….
+
+People who are trying hard like that shouldn’t be left alone in the dark.
+
+Sometimes, that’s reality, but can’t we change reality now and then?
+
+Can’t we give the triers what they deserve?
+
+A lift up to a higher place. Some light.
+
+And a happy ending.
+
+If I just had more time before Warin-doyis’s class, I’d write one of those for that frog.
+
+If I knew how to make his story right, I would.
+
+******
+
+******
+
+******
+
+Ignacio felt it very suddenly—an illogical sureness, like before but even stronger.
+
+I can call them both.
+
+I can call Alden.
+
+Somehow, I can sense him. He’s right there.
+
+******
+
+******
+
+“Whoa!” said a girl standing somewhere behind Kon. “Sweet! What kind of Meister talent is that? I didn’t know that first year could do something like that.”
+
+“What? He’s just waving his hand around.”
+
+“Look down.”
+
+“What the…?”
+
+Murmurs and questions filled the gym. Kon didn’t care about them.
+
+“Hey…” Mehdi said uncertainly through their group call. “Uh…how is Alden floating? Is it like an attack from Maricel somehow? Or…?”
+
+“Do you see dirt?” asked Haoyu.
+
+“I see Alden floating.”
+
+“Typical,” Lexi grunted.
+
+“What’s typical about this?!” Haoyu exclaimed. “The knife is just resting on top of his stomach. It’s not moving. It’s still preserved. I’m confused. Is everyone else confused?”
+
+“Hey, Ignacio, I don’t think you should be going slow and steady,” said Alden, as his body rose gently upwards toward the monkey bars.
+
+Why does he sound so collected? Did he expect to float? Kon couldn’t figure out what instructions to give. We’re doing Rabbit…body recall? That was not on any of the plans. We prepped for floating island not floating Alden. I don’t know how Rabbit body recall works.
+
+“We have no time,” Alden said a bit more firmly.
+
+“Okay!” Ignacio shouted.
+
+******
+
+******
+
+They probably think I mean no time left to finish, thought Alden as he accelerated toward Ignacio’s waiting hand.
+
+He meant his skill was about to give out. The Bearer of All Burdens had been good and strong two seconds ago, and now it was under such immense strain that he thought his chances of making it up to the bars in this interesting new way he and his entruster had found together were fifty-fifty.
+
+I hope one of the things I’m bearing right now is the brunt of the skill fatigue for this experiment. There’s no way Ignacio’s recall is stronger than Bearer, and if either of us gives out…
+
+“Faster!” he warned.
+
+He crashed into Ignacio’s hands a moment later.
+
+He thought he might fall again, but he couldn’t do anything to prevent it. He had even fewer ways to help than Lexi had had earlier. No Writher to grab a bar for him, after all.
+
+Ignacio was dangling by his legs, clutching Alden’s jacket. He screamed something in Alden’s face that Alden didn’t quite catch.
+
+Not something angry.
+
+Excitement. Instructions?
+
+Ignacio swung and threw him.
+
+Alden was flying again already. This time, though, he was going all the way over the finish line.
+
+Haoyu and Lexi stopped him from falling off the platform or hitting the back barrier as he arrived.
+
+His skill was toast. The knife he’d been preserving dropped onto the platform at his feet at around the same time that his suit granted him flexibility again, and the weapon was immediately shooting back toward Ignacio, who then let it and its partner fly toward their opponents.
+
+One of Tuyet’s arms was whipping forward, too.
+
+Alden took a steadying breath. His teammates, Everly, and Heloísa were cheering and shouting advice toward the people left on the course.
+
+He could see Instructor Ash, down on the floor and across the entire length of the gym, standing so close to the barrier that Alden was surprised his nose wasn’t pressed to it.
+
+“I think we’re technically going to lose,” he said, as Tuyet’s dart struck Ignacio.
+
+Whether they lost or not, this morning felt like a huge win.
+
+******

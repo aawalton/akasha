@@ -1,0 +1,443 @@
+---
+id: d7cd8d32-08b8-5f7c-ba40-8d50cef00131
+page-type-slug: story-chapter-royal-road
+title: "Chapter 55: Strange Deer, Stranger Bird"
+slug: 0055-chapter-55-strange-deer-stranger-bird
+partOf: phoenix-ascension-cultivation-litrpg
+position: 55
+ownLength: 4361
+unit: words
+publishedAt: 2025-11-29
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2804074/chapter-55-strange-deer-stranger-bird"
+royalRoadId: "2804074"
+---
+
+Oh?
+
+Well, wasn’t that something? Perhaps these two really did have a powerful backer back in Golden Arch City. Now I do wonder why they left if their uncle was strong enough to place a mark on them.
+
+That also meant that said uncle had now marked me, no doubt using that stupid, smelly technique. I didn’t know how long it would take him to find me, but one thing was certain— a Core Formation expert was now on my ass.
+
+Just to check—
+
+[Name:???]
+
+[Affiliation: Golden Arch City]
+
+[Age: ???]
+
+[Titles: ???]
+
+[Lvl: ???]
+
+[Cultivation: Core Formation(Peak)]
+
+[Enmity Level: Mild]
+
+[Relationship: Unknown]
+
+[Status: Alive]
+
+Well, they definitely weren’t lying. Unless System only showed me what I knew, or thought I knew already. It was something I needed to test, but that wasn’t the most important thing at the moment.
+
+Not even the guy’s enmity with me was that important. Ignoring the fact that he was a hanging sword above my head, and that there was no way for me to win against a Core Formation cultivator of any level, not even knowing where he was would be a problem.
+
+On the other hand, he definitely knew where I was, or at least had my general location. I was a sitting duck, basically.
+
+Therefore, levelling up and evolving would need to be of utmost priority.
+
+For now, my plans of preserving food had disappeared. Fuck that bastard. Why did he have to make me mad? Now I need to eat both of them, otherwise their meat would go to waste.
+
+I didn’t have Mother’s food preservation technique, and I had no idea how she even did that. Most likely a skill, maybe an innate one, or maybe she learned it? Either way, it wasn’t all that important to me.
+
+When I had food, I would eat, and when I didn’t, I wouldn’t. Simple as that.
+
+I dragged the headless corpse of the other guy next to his brother. Truthfully, I didn’t want to eat them. They probably tasted disgusting, seeing what sort of person they were, but food was food.
+
+Beggars couldn’t be choosers, after all.
+
+Just as I wanted to dig in, something else happened.
+
+The same foul smell emanated from their corpse once again, and as much as I wanted to ignore it, I couldn’t. The smelly smoke wrapped and grew thicker, eventually forming a face. It was that of a man’s, and he looked less than pleased at being bothered.
+
+His presence and the aura he let off made my feathers stand on end. He was strong, very strong. Not as strong as the nascent soul bastard, not by a mile, but strong enough to be able to crush me like an ant. The face looked around and frowned upon seeing the guy’s headless corpse. He then took a look at me, and a vicious smile appeared on his face.
+
+He let out a little bit of his cultivation base, the pressure almost making me fall to my knees. The smoky pupils on the face constricted, and he chuckled as the smoke began to fade.
+
+‘How interesting…’ He said, his voice lingering as the head disappeared along with the smell.
+
+Oook… What the fuck?
+
+The pressure faded, and the cave returned to normal, even the smell of the smoke having disappeared. However, that gave me little comfort.
+
+I was a little baffled by the technique. I knew very well what it was, though, and as it turned out, now the guy knew what I looked like, too. Awesome, perfect, as if having my general location wasn’t enough.
+
+I didn’t know whether to laugh or cry, to be honest. A Core Formation cultivator was now hunting me, or was going to hunt me, or was preparing to hunt me. Either way, the sword hanging over my head just got sharper.
+
+That wasn’t good, it really wasn’t. But what could I do? I had to get stronger and to get rid of this annoying Demonic Qi. Once that happens, I would have more cards to play. I could only hope he wouldn’t be too hot on my trail.
+
+Another nasty scent began emanating from the corpses, though, so I had to get to work quickly.
+
+After eating everything I could from them, including the brain and other vital organs, my overeater reserves had probably filled to about ninety percent. How did I know? Well, all I needed was to look down and see the sudden, large amount of fat that appeared on my bones.
+
+I truly looked like a large, yellow, and fluffy sphere. Well, that was fine. Since it was already night, I could just sleep and figure out what I wanted to do tomorrow.
+
+The night was uneventful, but the sleep was blissfull. With so much food in my stomach, my body had enough nutrients to grow and recuperate. When I woke up, I felt like I’d just slept on a pillow made of Phoenix feathers.
+
+Well, I also looked like a pillow, and I slept on my butt, so maybe I did sleep on a pillow made out of Phoenix feathers.
+
+A large yawn escaped my beak, and it took me a minute to be fully awake. When I was fully aware, I didn’t know what to do. Well, actually, I did.
+
+I could go hunting and train my skills, or simply train my skills. I had quite a few of them after all…
+
+Active Skills
+
+[Peck: Beginner]
+
+[Nirvanic Flames: Expert]
+
+[Iron Claws: Intermediate]
+
+[Strengthened Constituion: Intermediate]
+
+[Stealth[Lesser]: Master]
+
+[Tail Whip: Intermediate]
+
+[Lord’s Call: Novice]
+
+[Side Step: Expert]
+
+[Myriad Qi Needle: Beginner]
+
+[Shadow Cloak: Intermediate]
+
+[Heaven’s Protection: Beginner]
+
+[Dragon Flames: Intermediate]
+
+[Stamina Conversion: Novice]
+
+Passive Skills
+
+[Evasion: Expert]
+
+[Poison Resistance[Greater]: Novice]
+
+[Dragonbone Tempering: Intermediate]
+
+[Pain Tolerance: Expert]
+
+[Water Breathing: Novice]
+
+[Overeater: Beginner]
+
+[Stamina Regeneration: Novice]
+
+[Mental Fortitude: Intermediate]
+
+[Lighting Resistance: Novice]
+
+[Pack Leader: Novice]
+
+[Split Focus: Novice]
+
+[Assassination: Novice]
+
+Bloodline Skills
+
+[Phoenix Fire: Expert]
+
+[Phoenix Reflex: Beginner]
+
+[Ember Step: Beginner]
+
+[Elemental Wave: Beginner]
+
+[Precise Flame Control: Intermediate]
+
+[Paralyzing Screech: Novice]
+
+[Burning Wind: Novice]
+
+[Flaming Talons: Novice]
+
+[Pyro Breath: Novice]
+
+[Blade Wing: Novice]
+
+Active Skills aside, just the sheer amount of Passive and Bloodline skills was insane. Not that I was complaining, but at some point it was difficult to remember all of them. It was a pain, especially since they were all strong.
+
+Since I couldn’t proactively use passive skills, besides those that have a trigger, such as Overeater, Assassination, Water Breathing, etc… Actually they weren’t all that passive since I had to do something to trigger them…
+
+Were they passive because they were always turned on and didn’t require any input from me? Most likely.
+
+Since I had this much energy left, might as well go out somewhere and try to level them up. I hadn’t had a lot of breathing room lately, and this might help me blow off some steam as well.
+
+I flew out, grabbing the corpses at the same time. I had no use for them, and I didn’t need them to stink up my temporary home.
+
+I threw them somewhere in a thicker patch of the forest, then forgot about them. Their bags of holding were in my cave, as were their clothes. Dirty, but they were there.
+
+Finally, I looked around and picked a place that wasn’t all that far away from where I fought the Water Serpent. There was a large boulder I could use to test my skills and strength on. I landed with the sound of the running water behind me.
+
+The breeze was refreshing and the air was cool. All in all, it was a pretty good spot for training. I did have to make sure there weren’t any Spirit Beasts in the vicinity, or humans. I had enough of humans until it was time to meet with that little girl.
+
+Now with the boulder in front of me, I first wanted to test my strength. Back in my old life, the beginners measured their strength in in how many rocks they could lift, or how big the rock itself was.
+
+And I just happenedto have the best rock around. I did check, it was the biggest, and also the only rock that looked like it could help measure some of my strength. Well, to do that I also needed to be able to grasp the rock, which was easier said than done.
+
+After all, just how easy was it to put your arms around something about seven times your width? Not to mention that I had wings, not hands. So that would be even more difficult.
+
+Where there’s a will, there’s a way!
+
+And with that thought in mind, I approached the boulder. It was tall, about thrice my size, with a smooth surface from the countless water drops hitting against it. I couldn’t help but notice that it had some markings from a Spirit Beast. I couldn’t tell what sort, but they were there.
+
+Well, there was nobody around, and it wasn’t like I was going to destroy it anyway.
+
+In terms of width, it was actually about seven times my size, and from up close, it looked quite imposing.
+
+I metaphorically cracked my knuckles, and tried to lift it.
+
+I say tried, but that was because two people appeared out of nowhere. They weren’t people per se, as they weren’t human, but they did surprise me.
+
+Walking up to me were a giant deer with brown anthlers and an ugly expression, and riding on its back was a black bird. A tiny black bird, with five eyes.
+
+Creepy… I shuddered, but tried not to let my emotions show on my face. More importantly, how have they avoided my detection?
+
+I squinted while waiting for them to walk up.
+
+“Oho, what’s this? Is this a bird, a tiny yellow bird?” The deer said, its face lacking any sort of expression. It looked rather creepy, as it didn’t move its mouth much and its lips didn’t move a lot.
+
+“Yellow bird!” The black bird cawed, repeating his sentence.
+
+Oh great…
+
+“What do you want to do, tiny yellow bird, with that big boulder, hmm?”
+
+“Hmm?!”
+
+Why did you ask it more aggressively?!
+
+Doing my best not to lose my shit and to remain polite, I sighed and said, “I want to test my strength on it.”
+
+“Test? Strength? What sort of strength could a tiny yellow bird like you have? Where is your mother, go back to your nest, tiny yellow bird.”
+
+Alright I was starting to get annoyed. At least the tiny black bird didn’t say anything…
+
+“TinY!”
+
+Nevermind.
+
+“Oh where are my manners? I am Lord Sharp Antler, and as you can probably tell from my title, I am the Lord of this forest.”
+
+Lord of this forest, you? I’m pretty sure Yo Na has guys like you for breakfast…
+
+“Is that so?”
+
+“LoRD!”
+
+God damn stupid bird, shut the fuck up!
+
+“Yes, I am the Lord. Therefore, you as an inhabitant of this forest, are my subject. State your name.”
+
+I rolled my eyes, but decided to entertain—
+
+“NaMe!”
+
+I shot a glare at the black bird, and all of its eyes widened before it comically made itself as small as possible.
+
+“My name is Fa- err, Little Flame. I am Little Flame.”
+
+“Little Flame… I can see the ‘Little’, though you’re actually quite err… robust, but why the ‘Flame’?”
+
+I conjured a tiny flame on my wing just to show him, though the comment he made may have just put him on a list. My list of deer I wanted to taste. This would also allow me to see how much the beasts knew about the Phoenix. Judging by his reaction, he was either a very good actor or had no idea about them.
+
+“Ah- I see, quite impressive. I understand now. That is a flame, alright.”
+
+“Al-“ The bird wanted to start, but quickly made itself shut up. The deer didn’t seem to notice or care about that, though, as it walked forward.
+
+“I will tell you, though, Little Flame, you can give up on testing your strength on this boulder. It is my boulder, and it would be wasted effort anyway. You could not even scratch it with your talons if you tried.”
+
+What is that supposed to mean?
+
+“Lord Sharp Antler, how could this boulder be yours? Does the river belong to you as well? Or do the trees and the bushes?”
+
+The deer seemed to be thinking for a moment, then nodded. “Indeed, it all belongs to me. Therefore, you cannot simply use it as you wish.”
+
+I rolled my eyes, really holding back. At least this one could and wanted to talk, but maybe it would have been better if it hadn’t.
+
+“Then, Lord Sharp Antler, what could I use to test my strength on?”
+
+He looked down and put his hoof on top of a pebble. “This, perhaps? It would seem to suit you.”
+
+I could feel a vein pop on my forehead. This guy was giving me a migraine. All I wanted was to test out my strength and skills, but why could I not just be left alone? It was like the universe wanted me to die!
+
+“Surely you jest, your Lordship,” I said, picking up the pebble and crushing it between my talons. “Please stop making fun of me.”
+
+“Hm? It seems that you do indeed possess some strength. However, I cannot give you the boulder; you are not worthy of the boulder.”
+
+“Then what shall I do to become worthy of the boulder?”
+
+“Prove your strength to me. Hmm… see that tree over there?” He asked, pointing at a regularly sized tree. “If you can take it down, then I will give you the boulder.”
+
+What a drag… Should I just leave?
+
+“What, you don’t like my conditions? Then forget about it! I was bored anyway.”
+
+“No, no! It’s not that, your Lordship. It’s just… how could cutting down a tree be entertaining for you?”
+
+“Hm? Then do you have a better idea?”
+
+I nodded, wanting to get this over with. “Indeed, I do. How about we have a contest?”
+
+“A contest, you say? With me?” His eyes sparkled, and his little tail wagged back and forth a tiny bit.
+
+“Indeed.”
+
+“Explain.”
+
+“It’s simple. We will use that boulder to test our competency. Whoever wins gets to keep the boulder for themselves.”
+
+“Oh? And what is this competency you speak of?”
+
+Heh… I got him.
+
+“It’s nothing really… Just hitting it with as much force as possible. If the boulder cracks, then your competency is really strong. If nothing happens, then it is really weak. Whoever gets the largest crack wins. It’s simple, right?”
+
+The deer looked at me, then at the boulder, and nodded. “Alright, that sounds good.”
+
+“goOd!”
+
+Damned bird!
+
+“I shall go first then.” He said, walking in front of the boulder and sizing it up. Then, he raised his hoof and tapped it gently.
+
+My eyes narrowed, as, to my surprise, a tiny crack appeared on the boulder. It was minuscule and barely visible, but it was there.
+
+The deer looked quite proud of himself and said while turning to me. “Your turn.”
+
+I walked forward and looked at the boulder. Finally, I could test how strong I was. However, instead of hitting it as hard as I could, I decided to follow the deer’s example and lightly tapped it.
+
+I used my feet, of course, and gave it a tiny tap, but with concentrated force. I didn’t use any force, not any more than one would use to tap their fingers against a table.
+
+A small crack appeared, one that was much, much smaller than the deer’s. He let out a prideful scoff, and I was about to question what my Strength stat meant. Just as the deer was about to talk, though, the crack became bigger.
+
+And bigger.
+
+And bigger.
+
+More and more cracks appeared on the surface of the boulder, completely enveloping it in less than a breath of time. When it was completely covered, the boulder exploded into a million pieces, surprising both the deer and me.
+
+A second passed. Silence.
+
+Two seconds passed. Silence.
+
+Three seconds pass—
+
+“DamnnN!”
+
+The bird cawed, breaking the quietness, and the deer cleared his throat.
+
+“I guess you win, then.”
+
+For a moment, I could have sworn he showed some actual emotion, but his face turned to normal rather quickly.
+
+“Well, the boulder is yours now, as we previously agreed. I will now take my leave, as I have many other things to take care of.”
+
+And with that, he left, completely disappearing from my senses once again. That technique of his was quite annoying, or useful, depending on how you saw it. Or perhaps it was the birds, who knew besides them?”
+
+Anyway, I looked at the boulder and was… quite impressed, actually. I didn’t think that I had enough strength to actually shatter it. One could only wonder what would have happened if I used more strength than that. Or maybe it wasn’t my strength alone, but also my technique?
+
+Either way, there was definitely more to it than just strength. That also meant that I was wasting precious energy using skills on lower-level beasts, right?
+
+Sigh…
+
+It felt like I’d gained a lot of knowledge, and also nothing at the same time. Why did that deer even come? Fuck, and I forgot to bathe! Did that mean those guys had to endure this awful smell on me, too?
+
+Damn it!
+
+***
+
+“Good job.” A female voice spoke, making a deer-like creature and a tiny black bird tremble. They were both kneeling in front of a large tree, and a subtle purring could be heard from up above.
+
+Neither of the two spoke, simply lowering their heads further as fear permeated out of their orifices.
+
+“But…” The voice spoke again, and in the very next second, both of the deer’s antlers fell down. A clean cut severed their base from the deer’s head. He didn’t say anything, not even a wince, but his head almost dug a hole into the dirt as he kowtowed.
+
+“Don’t ever call yourself ‘Lord’ over anything again. Understood?”
+
+“Y-yes… Y-your L-l-lordship.” The thing’s voice was trembling so hard that the stutters he let out barely resembled a word. A damp spot appeared below his crotch, and the bird was trying to swallow its tongue.
+
+“Leave.” The voice said, and the two left while bowing toward the tree, disappearing into the forest.
+
+A large black cat with bright green eyes landed on the ground without making a sound, and without disturbing the blades of grass it landed on. It was as if her paws didn’t even exist.
+
+Interesting little bird… She thought, looking toward the sky, her sharp gaze staring at the noon sun. A Phoenix, huh? I’m looking forward to the chaos you will create. Perhaps I could make use of you…
+
+The giant cat then disappeared, her figure reappearing some distance away, on top of a more robust tree. She looked down at the Phoenix, who was currently bathing in the river water. Smiling to herself, the cat’s figure then disappeared again, her astonishing speed making it so that ordinary people had a hard time following.
+
+She made her way up a mountain peak devoid of the normal vegetation and entered a cave that was otherwise invisible. The large feline’s scary expression turned soft upon seeing something, or rather, someone, encased in a yellow solution.
+
+A cub that resembled her a great deal was sleeping inside a sort of yellow resin, unmoving, forever still. As for whether it was breathing, it was hard to say. However, a strong life force pulsated out of its tiny body, creating a great deal of heat around the resin.
+
+“My son…” The feline said, almost weeping, and sat down, wrapping her body around the sticky substance. “Soon… I will free you. I promise, my little Emperor.”
+
+***
+
+In a small alley inside the tiny Hu village was a hut, abandoned and forgotten by both man and time. Vines clung to its rotten wall, and the fence that once protected a lively garden had been used as firewood.
+
+At the top of the door was a wooden plaque; the red that coated the brown wood had dried out and was peeling off. There were some letters written in beautiful calligraphy that had become all but readable.
+
+The smudgy text revealed a single character – Shu.
+
+Inside, the house had a few abandoned bedrooms, a scarcely used living room, a forgotten kitchen, and a large attic. The only room that was being used was a bedroom at the far end of a long hallway, where a stove was burning a few twigs and dried leaves.
+
+On the bed sat a young man, whose sickly body hid his age. At a glance, he looked like he was about twenty, but the illness he was suffering from made him look much older.
+
+“Xu’er, where did you find this?” The young man with a pale expression and malnourished body asked a little girl standing in front of him. His bony fingers held a tiny, shiny, and colorful pill. It looked like a tiny, yet precious bead.
+
+The little girl was smiling from ear to ear, showing her yellow teeth. She stood with her hands behind her back, her eyes sparkling with joy. “Big brother Wao, even if I told you, you wouldn’t believe me.”
+
+Wao’s eyes switched from the girl to the pill, and though sickly, his gaze remained firm. “Xu’er, you must tell big brother. Such a pill… I cannot accept it.”
+
+The little girl’s expression immediately darkened, her gaze meeting the ground as she said with a disappointed tone. “But… Xu’er went through so much for it… Ah- But the bir- err, immortal that gave it to me said that she has no use of it, so she gave it to me as an apology.”
+
+“Apology?” Wao’s expression grew worried. “Apology for what? Xu’er, please speak clearly. I need to know what happened, or else I won’t accept it even if the immortal offers it to me personally.”
+
+Upon hearing that, Xu’er didn’t know how to begin. Her mouth parted and closed, as if she wanted to say something, but after all that she experienced that day, it was hard for her to remember.
+
+“I- “
+
+However, a wild crashing sound startled her before she could start recounting her story, and by the time she reacted, the door to their room burst open.
+
+A burly man walked in first, his clothing reminiscent of a merchant. His attitude and abundant jewelry said otherwise, and so did the two thugs that followed close behind him. He scanned the room, a grin appearing on his face upon seeing the pill the young man was too slow to hide.
+
+“Shu Wao Tu, what are you trying to hide?” The man took a big step forward, closing the distance between him and the sickly young man in an instant. The aura of a Fourth Stage Qi Condensation cultivator emanated from him.
+
+He snatched the pill from the man’s helpless hands and rubbed it between his fingers, chuckling silently as he did so. “Good pill, good pill. I don’t know what it’s for, but I will make sure to properly assess it."
+
+“Chiao Gu, you’ve taken even the shingles off our house, what more do you want?!” The little girl yelled as she looked up at the burly man, her eyes reddened with tears. “Give me back my pill, it’s for my big brother!”
+
+“Huh? Brat, you’re still wet behind the ears. Why don’t you scram and let the adults talk?” Chiao Gu scoffed, his smile turning into a frown as he looked at the little girl. He then turned to the young man, “Shu Wao Tu, as the last remaining members of the Shu clan, don’t you think you should take better care of your little sister and teach her some manners?”
+
+Shu Wao Tu clenched his trembling fists, lowering his head. “Cousin Gu, I apologize for Xu’er’s behavior. I ought to have taught… her better.” He coughed, blood and spit mixing as he spat on the blanket.
+
+“Indeed, you should have. Brats like her need to be obedient.” He then sighed and ran a hand across his short hair. “Cousin Wao, it’s not that I want to make things difficult for you, but the debt your Shu family has… You know it can’t just be erased.”
+
+“I understand, cousin. Please accept that pill as my apology… As for the rest, I will pay everything… Soon.”
+
+“Big brother!”
+
+Chiao Gu nodded and tucked the pill away in his breast pocket. Neither he nor his thugs had any bags of holding, so that was the best he could do.
+
+“I appreciate it, cousin Shu. Don’t worry, I will accept this pill. As for the payment… if you can’t pay back everything your family borrowed plus the interest, then I’m afraid…” He didn’t continue his sentence, though the fixated gaze he had on the little Shu Xu’er told Shu Wao Tu everything he needed to know.
+
+The sickly young man lowered his head further, unable to say anything. His nails dug into his flesh as he gripped the blanket, dying it even redder than before. When the thugs closed the door, and he heard the entrance door close, only then did he allow tears to flow down his pale face.
+
+“Chiao. Gu!” He growled through gritted teeth, fury coursing through his veins.
+
+If you hadn’t crippled my meridians a year ago, would I be in such a sorry state right now? If your family hadn’t driven my mother to suicide, would we be this poor? If your father hadn’t sent my dad into the forest, would he have become food for the wild beasts? Chiao Gu, one of these days… just you wait. You and your entire family will pay!
+
+***
+
+“What?!” I asked, staring at the little girl who kowtowed before me, her forehead bleeding and cheeks red, eyes full of tears.

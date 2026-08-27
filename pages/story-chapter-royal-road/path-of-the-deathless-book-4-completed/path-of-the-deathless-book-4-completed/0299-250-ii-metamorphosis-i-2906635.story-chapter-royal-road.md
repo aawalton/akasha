@@ -1,0 +1,139 @@
+---
+id: cbd02793-9990-59c4-bb45-7cb5aaf4dcb2
+page-type-slug: story-chapter-royal-road
+title: "250 (II) Metamorphosis [I]"
+slug: 0299-250-ii-metamorphosis-i-2906635
+partOf: path-of-the-deathless-book-4-completed
+position: 299
+ownLength: 2467
+unit: words
+publishedAt: 2026-01-02
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2906635/250-ii-metamorphosis-i"
+royalRoadId: "2906635"
+---
+
+250 (II)
+
+Metamorphosis [I]
+
+"Sorry, I'm a little lost here, but what the fuck am I looking at?" Candles asked. Faint embers danced around the Pyromancer's body, and he had the look of someone who was just sobering up.
+
+"Everything you saw before was a trick, a deception of the mind, my mutilated friend," Hymn explained. "When I delved into the Outside, tapping into the Awarenesses of the Stranger’s offspring, she managed to pull the trick on me as well. Her strategy so far has been as conniving as it is devious. She's using her ongoing metamorphosis with the Eldest offspring and the Dreamtaker as a guide to gain insight into the eldritch. She also seems to have a Feat that lets her drain madness from herself and other people to use as a resource for her skills. On top of that, the Starhawk is healing her with his Divine might, allowing her to perform feats far beyond most Legends. Through this combination of sources of empowerment, she can bypass the mental and magical defenses imbued within various entities. Additionally, it also allowed her to ignore their Chronomancy to an extent.”
+
+Hymn snapped his fingers. “With all these capabilities put together, she reaches into the minds of an eldritch creature, compromises its feelings and memories, and makes Blackedge manifest before it. And with the Stranger ordering his misbegotten children to claim the town, and especially the Seeker, because he wants a better vessel for himself to cross over into our reality, they attack ceaselessly, without thinking overmuch, because a great many of the others are just that: simple, ravenous beasts. Barely even sapient. Barely even sub-sapient, I would claim."
+
+"But what they're actually attacking is each other or nothing at all?" Shiv concluded.
+
+"Exactly," the Headmaster said, pointing at him. "She has them fight their own little wars. The Stranger invariably manages to wrest their minds back under control. But by that point, Blackedge has once again disappeared and is nowhere near where he thought it was. The Stranger can feel her presence and the divine power of the Starhawk within his domain, but it cannot track exactly where, for Sister Uva Mettabon’s mana field is stretched quite far. Her tendrils extend from one place to another. And as she has utterly usurped, uh, no... usurped a network of minds. She appears before various eldritch offspring at random moments, causing the entire gestalt to be quite confused and descend into chaotic feeding frenzies that basically become moments of mind-blind cannibalism."
+
+"Direct injections of misinformation," Adam muttered. "Captain Irons would approve."
+
+"Unfortunately, and despite her valiant attempts, the net is closing: the Stranger will find her soon. He is shifting his inner dimensions, sealing off places that she's been in and rupturing the parts of himself that are System-touched, unleashing mana storms and other metaphysical calamities in other areas she could be. There is only so much room left for her to hide. And sooner or later, the space she has will become so small that even her Psychomancy won't be able to hide her from the sheer quantity of the Stranger's offspring for long."
+
+Shiv felt like he was bouncing up and down on a seesaw of tension. "Alright, alright, so, how long does she have?"
+
+Hymn scratched his chin and appeared to do a bit of mental math. "Perhaps another week and a half or so," the Headmaster said after a moment. "Which might be just in time for my two wayward professors to see their slipgate completed. Or perhaps not."
+
+Adam held out a hand as he tried to process something. "Wait, Headmaster, just a moment. If you know so much about what's happening on your campus, then why are you allowing it to happen? Why don't you just—"
+
+"Exert more control?" Hymn hummed. "Capture and contain every single individual scheming or planning a conspiracy within the walls of my campus? Well, if I did that, I would be a full-time member of the Inquisition rather than Headmaster of a vaunted academy of the world's greatest republic."
+
+There was a slight hint of irony in his voice, but not much. It was more affectionate than it was acerbic. "The truth is, children, education is political. Everyone has an interest in influencing the future. You, children, are the future. You are the Pathbearers we are trying to manufacture to give ourselves an edge against our rival nations. And they, too, will try to subvert you or try to cripple you in certain ways. But it goes beyond just geopolitics. Domestically, nobles feud with each other under my nose, and if I do everything I can to intervene and maintain order, well…"
+
+Hymn held out his hands and gave an innocent shrug. "That would be quite bad for business, really. And there would be no end to my labor either. Truly a nightmare."
+
+A sound befitting a drowning animal escaped Adam as he sputtered in disbelief. "You... you don't do anything because it would be too much work, and because you're profiting off the state of affairs?"
+
+Hymn considered that statement for a beat and then nodded. "Yeah, that about sums it up. Also, I'm usually too busy doing eldritch research on my own or going out for drinks with very important people. Being a Headmaster and a Seeker both is hefty, hefty work."
+
+Suddenly, Adam looked like he was on the verge of absolute depression.
+
+"Hey, you alright?" Shiv asked, nudging his friend with an elbow.
+
+"My Awareness was incredible. I always thought I was aware of everything, yet…" The Gate Lord stared at the floor. "I'd never perceived the rot staining my society and culture. I must’ve been blind…"
+
+"Let him have his moment of delusion," the Headmaster sighed. "We all suffer that at some point. Frankly, he’s handling it quite well. You should have seen my breakdown when I found my father’s baby-leather skin suit he made from all his aborted bastards.”
+
+“His What?” Shiv almost whimpered.
+
+“My mother quite liked that suit,” Hymn continued, frowning to himself. “So much so that she called it her ‘breeding-mood encourager.’ Quite the disgusting thing, to walk in on your parents while they are coupling, and see your father layered in the grotesque but supple leathers of your half-siblings.”
+
+Kura muttered what sounded like a prayer under her throat. The orcs chuckled. Yellowbelly gagged from his corner of the room. “I hate it when he tells that story.”
+
+Shiv was beginning to get the notion that Legend-Headmaster Hades Hymn was abnormally well-adjusted instead of mentally deranged, like he'd initially assumed.
+
+Hymn clapped his hands together. “Anyhow. The sooner he gets over this, the better. Now, back to the matter at hand. How would you like to speak with your companion?"
+
+"We can do that?" Shiv's eyes widened. "You can connect me to Uva?"
+
+"What do you think I'm doing right now?" Hymn asked, grinning.
+
+Shiv realized the eldritch entity they were nested inside was slithering closer and closer toward the tip of Starhawk's Perch. It plunged past an inner ring of Aberrant Fractals that circled the perch as revolving bands. And then, through a nest of parting Psychomancy strands, he saw the interior of the spire’s highest room and beheld Uva for the first time in far too long.
+
+His heart skipped a beat. His mind reeled.
+
+“Mettabon,” Tulveg whispered, perhaps seeing a visage of Uva’s mother reflected before him.
+
+Shiv, however, found himself more consumed by how her appearance had shifted away from what he was familiar with.
+
+He didn't see her clearly at first. She stood, shadowed by the dim interior ambiance of the tower's topmost chamber. But he could see things drifting free from her body, orbiting around her as bladed shards. He assumed they were just more Aberrant Fractals spreading out from her being, but as they continued gliding out from her and spilling free from her left arm specifically, he began having second thoughts.
+
+When the eldritch beast slipped through the gap, passing between parted strands of Psychomancy and over jagged pieces of jutting glass left by a broken window, Shiv saw Uva clearly, and his breath caught.
+
+While her mana blazed bright with divinity-infused essence, she herself was like a node of darkness within a ball of flame. Things grew dimmer around her. The world flowed more slowly in her vicinity. The texture of her skin resembled that of frozen crystals, and the left side of her body was constantly fragmenting, shattering, and breaking free from the constraints of its physical shape. Yet neither blood nor gore spilled from the parts of her that were fracturing. It seemed like the left side of her body had been entirely transformed into gold-tinged ice.
+
+And that's how Shiv knew the Eldest’s metamorphosis was truly coming along, because her Cryomancy skill was the first thing the Eldest had tried to convert inside her.
+
+But that wasn't all. Her eyes had already been altered by Dreamtaker's Gaze; it allowed her to channel the powers of the Outside to unleash a kaleidoscope of color as a weapon or a pathway for the Dreamtaker's creations. Now the color was bleeding out from her eyes. It formed something of a crown over her head, a thing made from Outsider vapors, more diverse in hue and intensity than before.
+
+Then there were the uncanny wings that grew from her back. A few seemed like extensions of her body, except they were lined with chitinous biomatter—biomatter that reminded Shiv of a spider's legs. Each of the legs arced until they formed a loop, and it was filled by pieces of glowing glass infused with incandescence and unknowable gradients.
+
+The armor she wore was broken in several places. Crystalline plates cracked. The undermesh torn. Her skin bent and furrowed in ways that were unnatural. At least it seemed that her Non-Euclidean Morphology was still active and uncompromised.
+
+Finally, however, there was her shadow. A shadow that loomed behind her in the shape of something close to a Weaveress, but not quite. It seemed spider-like, yet it too was broken, a mess of fractals and shifting darkness. Its head was not that of a spider, however. Instead, it resembled Uva's. If only sprouting a few palps.
+
+Shiv didn't understand what this skill was, if it was a skill at all. It seemed to be connected to her mind, as a tendril of Psychomancy ran between her and it. So far it did nothing but stare on forward, gazing into the beast Shiv was viewing her through.
+
+A string of mind magic snaked out from her and approached Shiv. The Deathless almost reached out reflexively—only caught himself when he realized he wasn't actually there.
+
+"Legend-Seeker," Uva rasped. Her mind was cold and calm like the darkest days of winter, and her words echoed through the room. Her Psychomancy felt stronger—more controlled. "Is that you? Or is it you, Stranger? Come to play a game of deception with me again?”
+
+"I fear the Stranger is in one of his more brutal moods right now," Hades replied telepathically. His mental magic was sent through a single eye, and it managed to reach Uva through the Dreamtaker’s creation. “As such, you’ll have to settle for conversation instead of mind-games.”
+
+"Good," Uva said tersely. He detected a faint sliver of hope in her rough voice as well. Hope that burned like the dimmest flame in the coldest winter. "You must have received my message, then. My request for aid. Do you have a way out of this place for me? Or at least a compass to let me find a way out of the Stranger’s realm?”
+
+Hymn grinned. "Oh, I did more than that, Sister. I brought someone who wants to talk with you. Someone you might want to talk to as well."
+
+Uva stiffened, and the parts of her body constantly breaking apart froze still as well.
+
+The pieces are moving to her whims. They’re not just a part of her body, they’re like a new mana field… or a limb…
+
+Uva bit her lip, staring intently at the creature they were viewing her through. "Shiv? Adam? Are you there? Can you hear me?"
+
+"I can," Shiv said aloud without any hesitation. When she didn't respond, he tried using his Psychomancy, but stopped as Hymn held up a single finger, imploring Shiv to wait.
+
+The Headmaster turned his head and narrowed his Psychomantic eye at the Deathless. "Alright, now she'll be able to hear you."
+
+Shiv blinked. "It seems like you didn't do anything."
+
+"I have done enough." Hymn scoffed. "I included you and your friend within my telepathic communication network."
+
+"By squinting at me?" Shiv replied.
+
+But Shiv's banter with the Headmaster was cut off as Uva let out a shuddering breath. "Shiv, is that really you? You are still alive?”
+
+At that, Shiv's attention was back on the one who mattered, Hymn entirely forgotten. He let out a low breath. "Hey, Sister Uva. It's me. Had to claw my way through a chain of hells and nightmares, but yeah, I'm still here. Still fighting. Been trying to get to you for a while. The Ascendants didn’t manage to keep me in their pit for long.”
+
+She released a soft laugh. "It was foolish of them to think they ever could. One must question the wisdom and divinity of a pantheon of so-called gods who stole away a human-shaped bomb and thought a cage would be enough to keep him."
+
+Shiv grinned in response. “You'd probably be right to question them. Let's just say that there's a little something affecting their collective wisdom in general.” His amusement faded slightly as he realized he needed to tell her all about Udraal, about his grandmother, about everything they'd discovered while they were still in the Rubix Well. So many things had happened since they'd last seen each other…
+
+Before he could mention any of these things, however, Uva's head snapped leftward. Her eyes flared bright as the crown around her head grew twice in size. Instead of seeming like a vapor, it burned like a flame, dancing upon the top of her brows.
+
+"Uva, what's happening?" Shiv said.
+
+"Keep talking,” she replied, her nostrils flaring slightly. Behind her, the shadowy Weaveress’s palps and legs reared back, prepared to bite down on something. Then, it plunged down into Uva’s strings and glided along her Psychomancy field toward someplace unseen. “I just have an infestation of vermin to cull. Your presence is a benefit to my sanity, not a distraction. So, please, continue. And don't mind the screams.”
+
+“The… screams?” Adam asked.
+
+And, on cue, Uva’s Psychomancy field began to tremble as a flood of anguished howls surged through each of her strings like electricity might flow through copper.

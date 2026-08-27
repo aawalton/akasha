@@ -1,0 +1,219 @@
+---
+id: 46cdfbad-fc64-5aac-a203-3ab0564a4d42
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25"
+slug: 0025-chapter-25
+partOf: the-speed-of-light-monster-evolution-litrpg
+position: 25
+ownLength: 2272
+unit: words
+publishedAt: 2025-09-19
+link: "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2612102/chapter-25"
+royalRoadId: "2612102"
+---
+
+Tachyon returned to where she was in the cave, having to resummon her light fire carrots to illuminate the surroundings as a deep frown painted her face.
+
+“He could have at least given me a farewell meal…”
+
+She was unaware of how long she had been gone. That was when she remembered the timer for the tutorial.
+
+Tutorial Seasoning Period
+
+Time Remaining: 9 Days, 4 Hours, 49 Minutes.
+
+She had spent at least two to three days inside the caves. It was hard to really gauge without checking the timer regularly, which she had not. To be completely honest, she hadn’t been checking both the timer or some of her other mundane notifications.
+
+She had completely neglected her Control Points ever since the first few Controlling Stones. Tachyon was more concerned with both growing stronger and collecting her sweets.
+
+She had a brief look.
+
+Control Points: 129
+
+Unsure if they were accurate or not, she moved on to more important matters. Now that she had collected a handsome sum from Secretariat, in the smorgasbord that was the enormous table of sweets and foods.
+
+But once again, she was interrupted. Her mana sense alerted her to three people or monsters coming down a passageway not too far off. After some deliberating ,she realized who they most likely were.
+
+She still prepared her spells and skills just in case, but she was honestly eager to see them again.
+
+Coming through the passage voices began to reach her that brought a smile to her face.
+
+“That’s what I said though? Are you tellin’ me that horse wizard we let pass really did all this?” Ted said in wonder.
+
+“Boy, I’m glad we gave her some food. Imagine if I didn’t?” Ned laughed.
+
+“What do you mean, you? We both gave her the food! Why's you always trying to take all the credit!?”
+
+“Cause I was the one that cooked it!”
+
+“Yeah but I’s the one that was friends with her first! You didn’t even like her, remember?”
+
+“I’ve never heard such a blatant lie in all my years.”
+
+“Will you two shut up already!?” Sandor roared as they exited the passage.
+
+Tachyon couldn’t help but giggle. She was happy they hadn’t changed.
+
+Sandor wore a large frown as he walked forward, the large grooves of his face only more comical in the light of her spells.
+
+“Maybe I should have just fought and died. That entire walk was more torture than I’ve gone through in my entire life.”
+
+“That’s not a very nice thing to say to your friends,” Ted frowned.
+
+“You are not my friends! I despise both of you!” Sandor growled.
+
+Ted recoiled, a tear beginning to form on his eyes. Ned patted his brother on the head.
+
+“Now, now, Ted. He didn’t mean it, he’s just hungry. We all get a lil’ nasty when we’re hungry don’t we? I think it would be the proper thing to be the better man and forgive him,” Ned consoled.
+
+Ted sniffled then nodded, “Ned’s right,” he agreed, looking at Sandor, “I forgive you. I’ll be the bettuh man here, I will.”
+
+Sandor used one of his oversized hands to rub his face with a sigh. Meanwhile, Tachyon watched, very amused at the display.
+
+Ted and Ned finally broke their conversation, noticing her.
+
+“By gad! It’s the horse wizard Ned! She got big! And she’s all shiny and…” Ted waved a hand in a back-and-forth motion, “Wavey? Flamey?”
+
+“Believe the word you’re looking for is power and majestic, Ted,” Ned replied.
+
+Ted clapped his hands, “That’s it, that's the word. You’re so smart Ned.”
+
+“Kill me now,” Sandor grumbled, walking away and lightly hitting his head against the cave wall.
+
+“It’s good to see you two again. I’m glad you're both well,” Tachyon smiled, making sure to stay a few feet away because of her flames.
+
+“Dawww, well we’re happy to see yous too! We thought we were dead once Boss came and got us. But turns out you beat the bigger Boss! Congratulations, by the way,” Ted smiled.
+
+“We should celebrate,” Ned added, then pursed his lips, “Oh, but we’re all out of food.”
+
+“Right,” Ted groaned, rubbing his belly as if he suddenly remembered he was hungry, “I ams hungry.”
+
+“You both were eating when I got you no more than an hour ago!” Sandor roared.
+
+“That was breakfast yes, but what about second breakfast?” Ned retorted.
+
+That was when Tachyon did the unthinkable, even for her.
+
+“Would you three like to share a meal with me?”
+
+Taking out meals from her bag for all of them, she placed food on the ground, plates included, because she thought ahead.
+
+Ted and Ned’s eyes went wide in surprise. New aromas filled the cave, bringing even Sandor around to his full attention.
+
+“I won’t be around for long. Someone gave me a challenge. So why don’t we enjoy a meal together before I go on my way?” she asked.
+
+“A challenge? Now who woulda gone and done that? Is someone bullying yous?” Ted asked, his face concerned, but hands still reaching for a plate of food.
+
+“Nothing like that. Some horse, no, large dog, no. Stag? That could turn into a human, said they would give me a blessing if I did well in the tutorial? I see no reason to do so since it was my original plan,” Tachyon explained.
+
+“Oh, a shapeshifting animal? Well, that’s nice. I’m just glad you aren’t being bullied. I know what that’s like, n’ it ain’t fun. I’ll tells yous that!” Ted chuckled.
+
+“That’s right, Ted always was bullied growin’ up. Terrible thing it was,” Ned agreed.
+
+“Yous was the one doing it the most!”
+
+“Terrible thing indeed,” Ned nodded, taking a bite out of some meat and greens placed between slices of bread.
+
+“You’re ruining the food…” Sandor grumbled, eating as well.
+
+Tachyon nibbled some, eating much less than she normally would. For some reason, she just felt happy and comfortable, listening to the three grumble and talk to each other as they ate. It felt good to share a meal. She would have never guessed there were things outside of good food that could increase the taste of a meal.
+
+After they had finished what she had taken out. Tachyon went over her plan that she agreed with Sandor on to Ned and Ted. They both came on board with it as they simply had nothing else to do for the rest of the tutorial.
+
+The three agreed as well, they didn’t feel like dying for the stone, so if it came to that, they would all leave. Tachyon didn’t feel too upset about that, as she felt their lives were more valuable than the stone to her.
+
+Once that was explained, she had Sandor lead her to the next Controlling Stone that his brother supposedly held.
+
+As they traveled through the other passageways, Tachyon made sure to light the way for them with her magic. Careful not to get too close to Sandor as she attempted to practice with her natural flames.
+
+From what she could gather in the short time, the flames were much like controlling mana. A small hole in her mind for the mana to go out of would lower the flames, a larger hole allowed the flames to grow. And once she made this revelation, controlling the size and temperature was just a matter of time.
+
+Navigating the cave system was rather confusing. At least to Tachyon. If she were forced to do this herself, it would take her days, she was sure of that. Thankfully, Sandor knew the way through them as it was his job to patrol them.
+
+He wasn’t much of a talker, but honestly, Tachyon didn’t mind. She had become fine with talking, but peace and quiet so she could focus on other things was more than fine by her. And totally not because she grew more and more embarrassed the longer a conversation went on.
+
+Thanks to Sandor quietly guiding them, Tachyon was able to take a look at her new additions from the chest she wasn’t able to earlier.
+
+A coin, some shiny stone wrapped in what looked like colorful metal, and new shiny boots.
+
+If she were to rate them in order of what she was excited to look at, it would be the boots. So before she went to try them on, she had to make sure she wouldn’t destroy them.
+
+From her bag, Tachyon took out one of the mana rings she had collected. She had plenty stored away in her pink bag, and she was eventually going to use the ring. So it made sense to her to see if wearing it was feasible with her new body's flames.
+
+First, she took one of the rings with her mana threads, then placed it like food over the fire, holding it a short distance from the flames. The metal heated, but didn’t melt.
+
+It looks like common and uncommon equipment might still be out of the question to wear for the most part. She thought.
+
+However, she could at least wear them without melting the material as long as she controlled her flames. The problem was that when she needed to use her full strength, the rings would be as good as globs of metal.
+
+So tentatively she placed two of them on her rear legs for the stat benefits.
+
+Then she went on to the next items as she and Sandor walked.
+
+Tachyon had unwittingly melted her shoes down to nothing after her evolution. It would be an understatement to say that she needed new shoes. Especially with her plans to take over the Controlling Stones now that Secretariat was involved.
+
+He didn’t explicitly say what would happen if she didn’t take the final Controlling Stone at the top of the mountain. But Tachyon was honestly curious how strong this E-Rank was. Not to mention, if the mark that he had said was on her now alerted the sponsor, she would at the very least have more eyes on her than she wanted.
+
+Having a C-Rank waiting for her to come out of the tutorial was irritating enough. Being on the bad side of a God was a whole other thing.
+
+With that in mind, she looked at her new shoes, or well, boots.
+
+High Heels of the Unknown Scientist [F-Grade, Uncommon]
+
+Fashionable shoes belonging to an unknown scientist of an unknown Era. They contain the possibilities of the scientist's experiments, transferring the potential of said experiments to the shoes and wearer.
+
+These shoes are highly mana sensitive and can interact with compatible skills to produce interesting results.
+
+Tachyon tilted her head.
+
+That’s a whole lot of confusing mambo jumbo… And they’re only uncommon? Won’t they just burn up like the rest of the equipment? She thought with a tang of defeat.
+
+Tachyon stored the shoes for now, there was no use in destroying the pieces of equipment if there was no hope of wearing them, and moved onto the next item.
+
+Earring of the Unknown Scientist [F-Grade, Uncommon]
+
+An eye-catching and stunning piece of jewelry fashioned by skilled craftsmen for a scientist of an unknown Era. The earring holds degraded gems that once stored potential energy. While the gems have degraded, their raw benefits and fraction of potential energy storage remains.
+
++20 to RES
+
+Another..? These descriptions are becoming more and more vague. At least this one gives some stats.
+
+Tachyon brought the earring into the light of her magic, the three gems sparkling in different colors. All of them faded, one of white, green, and red.
+
+Without mulling over it for too long, she used a thread of mana to try and place it on her ear. She had never worn any earrings, but surprisingly, it snapped into place.
+
+The last was the shiny coin. Bringing it into the light, she could see some intricate markings on it, but nothing she had seen before.
+
+She inspected it.
+
+Rare Upgrade Token
+
+Increases one piece of equipment from Uncommon rarity to Rare rarity.
+
+Can only be used within the tutorial.
+
+Can only be used on F-Grade Equipment or Items.
+
+This item will disappear after use.
+
+“Oh, well that’s convenient…” she said out loud, taking her shoes out again.
+
+“What’s convenient?” Sandor asked as they rounded the corner.
+
+“Oh, nothing, just talking to myself.”
+
+“Right, well, we’re here. Looks like- Oh, wow… Guess someone moved in after you killed Gregor,” Sandor whistled, alerting the cave.
+
+Tachyon moved her spells to give her a better look. Inside the new cave, many pillars of stone hung from the ceiling. All of them were nearly identical to her and confused her as to which one was the Controlling Stone.
+
+If that wasn’t enough, there were many beady-eyed birds flapping around in patterns she had never seen before. All of them screeching in loud pitches.
+
+“Vampire Bats,” Sandor explained, “They were in the cave before we got here. By the looks of it they came back and claimed the stone. Well, I led ya here. I’ll be taking my leave now. Good luck.”
+
+Tachyon snorted and activated the upgrade token.
+
+“Just so you know. You can be as mean on the outside as you want. It was a nice meal because all three of you were there. Let’s do it again at the end of the tutorial, okay?”
+
+Would you like to use Rare Upgrade Token on: High Heels of the Unknown Scientist [F-Grade, Uncommon]
+
+High Heels of the Unknown Scientist [F-Grade, Uncommon], has been upgraded to - Mana High Heels of the Unknown Scientist [F-Grade, Rare]

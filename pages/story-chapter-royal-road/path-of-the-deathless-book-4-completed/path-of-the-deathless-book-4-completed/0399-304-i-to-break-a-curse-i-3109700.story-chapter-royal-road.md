@@ -1,0 +1,181 @@
+---
+id: 43d761eb-fa0e-5a92-bd37-a32c59dab377
+page-type-slug: story-chapter-royal-road
+title: "304 (I) To Break a Curse [I]"
+slug: 0399-304-i-to-break-a-curse-i-3109700
+partOf: path-of-the-deathless-book-4-completed
+position: 399
+ownLength: 5020
+unit: words
+publishedAt: 2026-03-02
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3109700/304-i-to-break-a-curse-i"
+royalRoadId: "3109700"
+---
+
+To be Cursed and Blessed is to see your soul tainted with a diluting substance. And it is a taint either way. There is no Blessing that cannot be rewoven into a Curse, should the patron that bestowed the twisting upon your soul wish it. Despite their proximity to the Lore of Souls, however, Blessings and Curses are not spells born of Animancy, but of Narrative Attunement itself.
+
+This is why most Hexes are thought to have originated as Narrative-Tier Skills. They are separated entirely from our common understanding and scales of power because they take effect under specific circumstances.
+
+The Archons of the Demiurge named 'System' proclaim themselves gods in sacrilege of the true tenets. But their grand deception goes further than even their theft of Heaven, for it was the Fae—the original children of the Demiurge, cast out into their eternal garden of decadence, that Bastard Eden deprived from the One True Faith—who wove the first and truest Hexes, who reshaped and deformed the path of one's fate.
+
+For though the Fae are also the spawn of the Demiurge, like the Archons and the unbelievers who serve them, their circle is that of Lust, rather than Wrath, Pride, or any other. They bear influence over the nature of conflicts, for their power is tribulation, trials of degeneracy that are bestowed upon those who could have been faithful. A flock led astray before their shepherds could find them. And so as not to stand pale before the Firstborn's fetid light, the Archons stole this influence using their Divine significance, and they inflicted those with the stench of their aura, reshaping souls with the impression of their Divinity.
+
+And so the world boils from within. Mistake this not: You live in a sunken age, O child seeking redemption. But even with the Savior's light blotted away by a false sky, you are not defenseless. You can use the will of the enemy against themselves. For a Curse and a Blessing are things born of stories. They are not things that can exist on their own. Rather, they trigger when you face specific tribulations, when you perform specific acts, or when you exist in specific circumstances.
+
+But there are also other Curses as well, other Blessings, and so many of these contradict. For if the will of the Demiurge is near absolute, and if a Curse is an insertion of a phrase, a declaration for your soul, then what happens when a paradox follows?
+
+A schism. A War of Canon. For just as there is only One True Faith for the One-In-All, there can only be one true commandment branded upon a soul. One thing cannot be itself and another. For such a fate to greet a faith will end in schism, and such an act to scar a soul will result in the dissolution of the warring taints, and then freedom thereafter…
+
+—The Blessed and the Damned by Legend-Hexweaver Passi Falls-Like-Leaves
+
+304 (I)
+
+To Break a Curse [I]
+
+The realization that orcs were both an ample and renewable resource filled Shiv with indescribable joy.
+
+In the minutes that followed the triumphant creation of his Manifold Orc Meatball, Shiv announced to the Tutorial the pre-opening of the Sky-Swallowing Carp. And from there, carnage unfolded. All the orcs gathered beneath Courtney and near the Tutorial Gateway turned on one another, fighting for the privilege to be the first to dine in their Insul’s new restaurant. From there, death, preparations, and material accumulation followed.
+
+While the grayskins focused on ripping each other apart, Shiv sent his Severed Shadow down to take in the havoc unfolding, but he wasn't there for amusement, not entirely. Instead, he focused on collecting bits of meat and bone from the slain orcs, absorbing vitality and echoes from their bodies before they fled back into the Challenger's embrace. He needed their minds, their life force, their very flesh to set up his operations. The best part was how he didn't even need to lift a single finger. The orcs were reliable in their own way, always an inch away from the violence, mana bombs ready to explode at the slightest provocation.
+
+Shiv used the conflict raging below to further set up his new restaurant. Though the kitchen was mostly established, and its adjacent facilities somewhat installed, his front-of-house was still missing. Courtney's interior was flexible, the biomass capable of being arranged in myriad ways. But he didn't want everything to be just meat and bone, and not only things derived from the Court Leviathan itself. Now, since he was feeding orcs flesh of their own kind, why not use their bones to design the furniture and front desk? Such was the project he assigned to the Biomancers manning Courtney. They separated the front-of-house into three parts: the dining room, the waiting area, and the bar.
+
+The dining room was the simplest thing to shape. It was made in the form of a large, oval dome. Its expanse ran for four hundred meters, with enamel pillars running between, decorated with etchings of hordes of orcs killing one another—a mocking piece of artistry that the psychopaths were sure to enjoy.
+
+A waiting room was made near the entrance to the restaurant. The aesthetic and facilities here were slightly more complicated than the dining area. Instead of just space, there were shields grown out from the ground, protective layers of bone in case any orcs thought it funny to use Area of Effect skills capable of delivering on malicious intent.
+
+The waiting room itself was also more like a waiting hall or a tunnel that extended downward at a sloped angle, and one had to walk for a while before they traversed most of the Court Leviathan's lower abdomen and arrived within the core where the restaurant proper awaited. Though the design put Shiv off at first, the orcs insisted, saying that most of their kind needed a period of grace and relaxation before they were of a stable mind. After a moment of extreme bloodletting, it was best to have the orcs resolve what little remained of their battle frenzy before they finally arrived. Otherwise, they would be dealing with more violence even within the dining area.
+
+The bar served as a capstone, walling off the back-of-house from the clients. As a Court Leviathan was capable of shape-shifting, and since these were only test designs, he decided not to go overboard. He simply made a long, sprawling bar that stretched across the rear walls of the dining area. In front of that, an extended slab of bone and enamel was grown. There, orcs could order drinks or even pour each other alcoholic beverages. He didn't have nearly enough supplies to quench the thirst of so many orcs, but he was more than certain Tequila and other orcs had their own solution for such inadequacies.
+
+But for the fact that he didn't want to expend all the good liquor he'd secured from Monster Mystery Meat, Shiv accepted that area as a containment zone. If they were to only start any fights or cause a mess, it was likely to be centered there. As such, he built a protective cage around it as well and would employ some other orcs to create additional reinforcing boards to contain any explosions that were most certain to follow.
+
+He also needed bouncers. Maybe he would leave his physical form there. He soon thought better of it. He was needed in the kitchen, and his Severed Shadow was more useful as a wandering specter observing things and striking in an instant, rather than a looming blade that orcs likely wouldn't be able to resist, hunting him, trying to figure out the capabilities of his new skill. Shiv knew the Culturist was likely watching as well, and he wouldn't be surprised if the Legendary orc showed up just to further discomfort him or simply to indulge in a meal since his itch had been scratched.
+
+The stress slowly began to build. He had been focusing far too much on the cooking and the artistry aspects of running the kitchen. The moment he got into running the operations himself, he realized he was woefully unprepared in a variety of other sectors. Bookkeeping, accounting, processing clients, managing expectations, social events, gatherings, and other potential requests from diners...
+
+Georges had trained Shiv as a chef, but restaurants were more than just places where people went to eat sometimes.
+
+Thankfully, Shiv was far from alone in this endeavor. Valor, from his uncountable centuries of experience, had mastered a variety of vocations. He'd served as accountant, bodyguard, man-servant, advisor, strategist, bard, and also business owner in a variety of different cities and nations. Based on that, Shiv placed him at the front of the waiting room where he was to process the orcs, thanks to his advanced Multi-Tasking skill.
+
+Five, untrustworthy agent of the Stolen Throne though he was, was also great at numbers and socialization. That’s why Shiv gave him the honor of server—an honor he was all too unwilling to accept, but found himself convinced of because of the implication. As Shiv sagely elaborated, he was here to try to get back into the good graces of Aviary, and if he was going to be near Shiv, he was going to be spending time around the orcs, and it was best that he spent time around the orcs, performing purposeful duties instead of being regarded as a freeloader—and therefore unaffiliated property.
+
+From there, Five laughed, Shiv laughed, and the orcs listening aboard Courtney sighed, disappointed that a meat-puppet for communal torture had been deprived.
+
+Gone found herself granted the illustrious and vaunted position of Primary Commis—and practically Shiv’s only Commis. Her charge was meal preparation, food delivery, and calculated murder in the case of unruly orcs. She was supported in that final duty by Candles, whom Shiv named Chief Grillmaster, and also bestowed the responsibility of burning any orc that disrupted the Sky-Swallowing Carp’s harmony.
+
+With everything set up, the first groups of orcs began to arrive. These were the Heroes of the orcish population, and they strode through the long, narrow pathway that had been grown into the Court Leviathan's underbelly. A minute prior, Courtney had landed upon a small lake of corpses and blood. The orcs had created a very tasteful moat from all their casualties and even shaped a bridge of death and decay for themselves to walk across. Fireworks streaked up into the sky, detonating amidst the foul-looking clouds, and shrouding the Tutorial in bright jubilation. Playing along with their Insul, some of the orcs even dressed up, donning silken ensembles of formalized attire based on Republic customs.
+
+As with all things that had to do with the orcs, however, there was a bit of cruel mockery involved. The silk tailcoats were made from flayed flesh, and the insides were stitched together from glistening strands of membrane and other things. Furthermore, the ruffles that stuck out from their collars were exaggerated, making the Heroic-Tier orcs seem like flowers bursting between balls of cotton. Though they seemed to understand the Republic's high society better than Shiv himself did, they didn't respect it. They were mocking it, and Shiv was fine with that so long as they behaved themselves when the eating started.
+
+Which was why they naturally didn't.
+
+Cliques of orcs bearing grudges against one another tried to sabotage each other. Bombs were planted, assassination attempts were made, and a few hundred more orcs found themselves ripped asunder, split in half by sudden attacks they couldn't trace.
+
+The Severed Shadow was a wonderful skill to have when Shiv wanted to lurk among the other orcs without them noticing, and instill a sense of active paranoia into their minds. Especially when they considered doing something pointlessly psychotic.
+
+This Severed Shadow of Blood and Bladed Soul 165 > 166
+
+After going through a few competing orc cliques like a buzzsaw, the overall infighting quieted down, and the grayskins entertained themselves with a more measured type of cruelty instead.
+
+It started as a joke among the most snobbish of the orcs, the ones who wore monocles and cufflinks unironically. They came bearing quills and parchments instead of weapons, and the moment they started tasting Shiv’s Manifold Orc Meatballs, they began scribbling things down. Loud comments soon followed. Comments such as: "The marrow was still overcooked and rather tepid in certain areas. The core is too cold, the exterior too hot." This was then followed by a common consensus among the Cultured orcs with loud declarations of, "The Chef was clearly unfocused and distracted when making this batch." And the bullying further evolved into, "The crust here is not quite as crusty as the crust swallowed by the orc next to me. This is clearly a slight against my person, my individualistic nature, and my appearance. I demand to speak with the head of Human Relations."
+
+Unfortunately for the abusive orcs, there was no Human Relations department, and the next best thing—the manager—was Shiv. He would have just dispatched Five if the orcs hadn't offended him, but with their overstepping came consequences, ones he wanted to teach in detail before retribution came. However, he decided to take in all their feedback despite it all. Even a heckler offered some useful information sometimes, and if the Culturist was right about anything, it was that an enemy taught you more about where you were weakest and where they were strongest, clearer than an ally could. These orcs were most definitely opposition.
+
+Shiv had experience with these people. They were the ones who were never satisfied, the ones who were addicted to rage and strife of a social variety, the ones who wanted to tear another down to bleed them publicly and ruin them financially.
+
+Unknown to these wolves, Shiv had plenty of vicarious experience watching Georges deal with such cretins, and he'd participated in some of those experiences as well. After cordially accepting and deeply apologizing to the orcs in public, he returned to the kitchen, infused a new batch of upgraded ingredients with a set of echoes, and made a specially prepared version of the Manifold Orc Meatballs for the orcish food critics.
+
+At first, the new echoes resented Shiv for infusing them in his shit, but when he explained to them what he wanted to do, they suddenly went from outraged to overly enthusiastic. They cooked themselves as best they could, hardening into little pellets and hiding within the meatballs. They were spread out enough that it would take more than a few chews for the offending guest to realize what was condensing around their gums. The critics failed to realize they were nursing their lips on fecal matter, and their demands grew more and more outrageous. They requested additional meaningful meatballs delivered then, promptly, and for free, even though the orcs were already eating for free anyway. Then they started complaining about the marrow tasting like marrow, the gristle being too stringy, and the lean meats being too lean and buttery.
+
+One among the orcs also pretended to nearly faint when he found traces of mushrooms, claiming he was allergic to vegetables, for that was the food that prey species enjoyed.
+
+Despite mushrooms not being plants to begin with, the gathered orcs promptly began gagging en masse. However, that was also when the orc snob who'd started it finally realized there was an added aspect to his meal. He inhaled a mouthful of shit, and he began choking and gagging.
+
+Shiv immediately accused the orcs of ruining their own palate due to their shit-chewing skills, and he took the offensive as his Sage of the Enkindled Heart guided him. The beautiful thing about slander was that it had little to do with truthfulness or rhetorical genius; it had everything to do with aggression and static statements. The more one explained, the poorer one was at slander. The more one explained, the worse one was at defending themselves.
+
+As the various critics began gagging and retching from all the shit they'd had consumed, Shiv decided to strike the initiative. He continued accusing them of being saboteurs at his business. He told them that the other orcs had clean mouths, that they were without shit between their teeth, and that these orcs must have had some kind of sick fetish to indulge in scat-play so publicly.
+
+It was a beautiful thing, understanding the nuances of an orc's psychopathy. The moment the others realized what he was doing, they didn't refute him; they didn't question, even though they more than likely suspected the truth. They piled on their own kind, sensing an easy opportunity to scratch their own itches. And they tore into them, ruining the critic orcs' reputations by deeming them scatological perverts. And then murdering them slowly and in vivid detail at the center of the dining room to “uphold the Chef's honor against salacious slander.”
+
+Some of the critics found Shiv's counterattack funny and simply played along as they were crucified, dismembered, or staked to the ceiling, bleeding to death with faintly amused grins. The sore losers that tried fighting back quickly found themselves ripped apart. Some of them came apart as a golden bolt of lightning tore through them. Others fell into neatly split halves and found their mana fields all collectively bifurcated as well.
+
+At the same time, a brawl nearly unfolded at the bar, but the offending parties were turned into a bonfire thanks to Candles’ timely intervention. When the next group of wolves arrived, they learned to behave themselves better, incentivized by the unstable Pyromancer twitching nearby.
+
+And so the day went on, and Shiv learned what it meant to truly run a restaurant. He realized it would be really hard to run a kitchen without someone like Adam, who could spot any number of issues in an instant using his overwhelming Awareness. Or Jessica, who intervened a few times, though she tried to be quiet about it. And Gone was nothing if not honest about her victims. Someone had to behead a few of the grayskins.
+
+But even with all that help, there came problems beyond Shiv near the end of his first run. The initial dilemma that exceeded his ability to handle was capacity. When you could only invite approximately a thousand orcs into your restaurant before you stopped being able to keep up, what resulted was mass dissatisfaction among the have-nots. And with over a million have-nots gathered outside, Shiv found himself overwhelmed by a cascading series of problems.
+
+First came the Restaurant Raiders. These orcs had one desire, and one desire only: to indulge in their Insul’s fine cooking, no matter what they had to do. Being the martyrdom-focused orcs they were, their solution naturally devolved into violent raiding. They broke into the Court Leviathan first by detonating a series of mana bombs in the waiting room. That upset Shiv greatly. It pissed Valor off even more. However, with the outside of the Leviathan shredded wide open and everyone having clear line of sight into the dining area, a mass run on the restaurant began. Hundreds of thousands of orcs flooded toward the wounded, but rapidly regenerating Court Leviathan.
+
+The battle that took place was subsequently as chaotic and absurd as the situation that caused it. Bombs went off everywhere, devastating skills and spells were unleashed by both sides. The orcs within the dining area dubbed themselves the Bourgeoisie or Shiv's True Children, despite their Insul’s attempt to get them to stop fanning the flames. To make matters worse, Shiv's cooking was interrupted as a specialized orc strike team somehow slipped past all of their defenses and managed to almost kidnap his physical body, knocking him out using a specialized neuro-toxin that bypassed his Plaguefueled skill.
+
+But before they could take his organic form away, Valor stepped out seemingly from nowhere and performed a series of delicate incisions on the orcs' necks and soles with Necromantically charged blades.
+
+The ancient lich wasn't very fast, for he still lacked his complete Reflexes Skill, and he wasn't very strong, as his Physicality remained crippled. He didn't even have all his magical skills. Despite all of this, the orcs never saw him coming, and surprise was a potent thing, even when faced with thirteen Heroic-Tier orcs.
+
+By the time they came apart, the Court Leviathan had mostly regenerated, and the massive insurrection stabilized into an uneasy détente due to most being unwilling to truly risk destroying the Court Leviathan. Diplomats among both the Raiders and the Bourgeoisie began arguing with each other, trying to negotiate time limits for how long each orc can eat within the kitchen.
+
+But just as Shiv had thought things were about to stabilize, the shadow of his cruel enemy revealed itself.
+
+Through the densely packed clouds above descended a shape, distorting and displacing the smoggy vapors that painted the Tutorial's firmament. Shiv wondered if it was a falling mountain, and launched himself high up into the air, desperate to prepare for whatever mad attack the orcs had planned upon his restaurant. However, after a few seconds, when the massive structure had passed through the clouds entirely, he realized he wasn't staring at a plunging mountain being used as a disposable meteorite. No. The thing he stared upon was a colossal cauldron with a series of interlaced spell patterns on the bottom, allowing it to fly. The cauldron itself was shaped from orichalcum and rimmed with simmering condensation. Standing at the edge of the cauldron was a horrifically obese orc that wore a white chef's hat longer than he was tall on his bulbous head.
+
+He sneered down at Shiv more sneerfully than anyone had ever sneered at him, gluttony, defiance, and cruel lust making up his gaze equal measure, and his grotesque stomach was large—and distended enough—to contain Shiv and two other orcs at the same time. That flopping length of prolapsed fat swayed below the orc's dirty apron, and Shiv felt his stomach turn just looking at it.
+
+"You are the Deathless who thinks himself a cook." The orc spoke with a slow, slurred tongue and sprayed spittle with every word, but his voice was deafening all the same. "I look upon you, and I see nothing more than an upjumped Commis. I see nothing more than an acolyte pretending to be a master. The others say you were trained under Georges Archambault."
+
+Shiv stared the rival chef down with rank disgust rather than any kind of fear. His Sage of the Enkindled Heart activated before the enemy orc could fully finish his social attack. "Look, if you come here to challenge me to some kind of cook-off, I'll do it. If you try to insult Georges or say that I won't live up to his memory, do anything like that, I'm just gonna leave. You're already hard to look at, so I don't feel like playing psychological games with you."
+
+And before the enemy chef could derive any pleasure from Shiv’s emotional wounds at all, a look of surprise overtook him. "How did you—"
+
+"Because it's the kind of shit I would say to myself if I wanted to piss myself off. And you orcs are pretty predictable when you smell blood. You always go after the open wound. Can't resist it. Kind of feel bad for you. Too bad for you, I'm kind of a bastard too, so if you want to be an actual prick, don’t. Unless you really got a good Psychology or Rhetoric Skill helping you, maybe just stick to the cooking."
+
+The hideous orc regained his cruel composure faster than Shiv expected, spinning twin spatulas of Moonsteel in his hands in a dramatic flourish. "Very well,” he drawled. “Then we do this directly, without words. I understand you are making meatballs out of my kin. I accept this challenge and promise to surpass your dish. I offer no terms, and I will grant no clemency. All the orcs within your restaurant will turn away and come to my cauldron. For that is the will of the Gourmet. Your fate is to stare up into the sky and know that you have been bested. Know that no matter what novelty you provide with your amusing humanity and feeble skill in the kitchen, all your customers will be bound to me. They will come to me in time. They will forget you. They will scorn you. And I will have avenged my humiliation in the halls of the Court of Night at the hands of your… worthier predecessor."
+
+Shiv’s nostrils flared for just an instant. He caught his own surprise before it could fully slip out of him, but with the way the Gourmet grinned, Shiv didn’t hide his emotions well enough. The Deathless had suspected he might run into a moment like this; Band had hinted that he knew Georges’ past as a means of provoking Shiv, he wasn't surprised that part of that was also wrapped in truth. Maybe the Gourmet was exaggerating how much he knew about Georges, or maybe not, but Shiv didn't care. Frankly, this added more spice, more challenge to his pre-opening night, and if Shiv can break a rival chef, then that would do much more to add to his legend. Might even grant him some additional levels.
+
+"You know what, Gourmet? You're on! But I don't care what you got to say about Georges. If you lose—and I'm going to make you lose—I will need you to do something for me, alright?"
+
+Shiv drifted in a little closer in an attempt to intimidate his rival, but the Gourmet never backed away. Unlike many other orcs, no thread of fear left him, refusing to feed Shiv with power. The Gourmet, though an unsophisticated and utterly repulsive-looking specimen of an orc, had a soul made of sterner stuff than others. For the first time, Shiv started wondering just how great the Gourmet's Cooking skill was.
+
+"Tell me what suffering you wish to inflict upon me, what depravity, and I will endure them with pleasure." The orc's breath was hot with cooking oil, liquor, and all manner of other questionable spices, but there was also a hint of naked delight.
+
+Sage of the Enkindled Heart: I fear that this orc enjoys being hurt and humiliated as much as he enjoys inflicting pain. There's a name for people like him. We heard Georges say it once.
+
+Sage of the Enkindled Heart 147 > 149
+
+"What are you, some kind of mass-masskist? Felling hells was that word…”
+
+"Masochist," the Gourmet corrected with slurred glee.
+
+"Yeah, that. You're one of those sick fucks who get off on being hurt by other people?"
+
+The Gourmet bellowed with ugly laughter, slapping his grotesque belly loudly. "Only when they have earned the right to wound me so sweetly."
+
+And suddenly Shiv was having second thoughts about dealing with this orc. Among all the others, there was a relatively straight exchange of hostilities when it came down to it. But something about the Gourmet made Shiv's skin crawl so much that he wanted to rip his own skin off and chuck it into an incinerator just to avoid this orc ever getting his grubby hands on it.
+
+Despite this, Shiv didn't back down. "You know what? Yeah, sure. Fine. Let's do this rival cook-off thing. But I'm not talking to you again until after I beat you."
+
+"Aren't you going to give me the terms of my punishment?" the orc asked innocently. The abomination blinked like an oversized child, and he began swinging his distended stomach in a hypnotic spiral motion until its underside slapped against the edges of his cauldron. The sound that followed was sickening.
+
+"Hells fucking no," Shiv said with a shudder. "I'm not here to give you any pleasure. I'm here to take pleasure from you."
+
+"I fear that's impossible, Deathless." The orc's bloated lips moved with lurid and exaggerated detail. "The other orcs have tried. They've inflicted all manner of pain upon me, and I delighted in all of it. I feasted upon it. All pain is food for me. All pain. And I get so many different varieties, so much nutrition from myself, from the world." And now the Gourmet leaned in, his breath stinging, steaming the air in front of Shiv. "I… think I can love you."
+
+Sage of the Enkindled Heart: I fear we do not have a strong enough Mental Illness Skill to continue conversing with this orc. If you do not leave right now, you will, however, develop a Vomiting Skill from how disgusting this creature is.
+
+Against Shiv's will, A Glimpse of Perspective triggered then, and shadows played behind the orc, revealing insights into his history and philosophy. It showed Shiv things. Things he promptly ripped out of his own mind and tore apart using Psychomancy. It didn't matter that it hurt his consciousness. It didn't matter that it left him bleeding from his eyes and nose. He had absolutely zero interest in knowing how the Gourmet saw the world. And if he stayed a single second longer, he was going to rip the orc's head off and then commit suicide right afterward for even touching the wretch.
+
+He left using his Strider of the Unbending Path skill. He vanished in a flash of gold, and the last thing he saw were the rotting worms that waved out from between the space of the Gourmet's wedge-shaped teeth.
+
+Fuck you, Challenger, Shiv thought, cursing with all the rancor he could muster. Fuck you for the orcs in general. Fuck you for the Culturist. But fuck you for this fucking orc in particular.
+
+The Challenger is amused by your continued suffering.
+
+Yeah, whatever. I'm gonna kick the shit out of this orc just like I did all the others. Then I won't need to think about his ass ever again.
+
+“How very optimistic of you, Bruiser.”
+
+And despite all the burning resolve within Shiv, he couldn't help but feel a sense of deep foreboding building inside his heart.
+
+***

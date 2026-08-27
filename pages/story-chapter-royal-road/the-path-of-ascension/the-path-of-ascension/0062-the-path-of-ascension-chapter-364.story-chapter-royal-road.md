@@ -1,0 +1,305 @@
+---
+id: 7c068a27-d39e-54a2-950c-693e3ba3ab96
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 364"
+slug: 0062-the-path-of-ascension-chapter-364
+partOf: the-path-of-ascension
+position: 62
+ownLength: 6272
+unit: words
+ownProgress: 6272
+publishedAt: 2024-11-04
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1885188/the-path-of-ascension-chapter-364"
+royalRoadId: "1885188"
+markedReadAt: "2026-06-29T19:19:44.894Z"
+---
+
+Chapter 364
+
+Knowing they were teleporting back to the Empire, Matt had expected them to appear back on the Capital, possibly in Allie's penthouse apartment, or somewhere awful and annoying as a prank. Instead, he found himself in a perfectly sealed room with dozens of high-Tier formations layered one on top of the other to a degree that even a Tier 48 would struggle to break out if he didn’t miss his guess.
+
+His initial reaction was to panic, but he forced that reaction down when he saw that Allie was calm.
+
+She thankfully explained with a sigh while impersonating Manny’s lecturing voice, “Any and all travel outside the Empire means time in the containment room Allison. Any thoughts to avoid the containment room means a trip to the room to see if any impulses have been buried. It's for your own good and it’s standard procedure. Wah wah wah.”
+
+That made a lot of sense, so Matt didn’t complain like Allie started to. He instead tried to connect to the EmpireNet as they waited to see what had been going on while he was away. Except his access was blocked. He should have expected that from Allie’s description, but he was still annoyed that there was nothing he could do but wait.
+
+He was just about to ask how long they were going to be detained when a familiar face walked in. Melinda’s mentor, Baxter.
+
+“Alright. Drop any veils you have, stop any spells, and please don’t complain. If you complain, I’ll start complaining. And I promise, I have more to complain about.”
+
+Matt felt the hairs on the back of his neck stand on end as the implications set in. If a Tier 40 something was complaining about this process, Matt wasn’t sure he wanted to go through with it.
+
+It ended up not being that bad, as he’d gone through similar things before, but Matt still found himself a bit spiritually sore after two weeks of intensive medical tests. Between the rounds of rote questions, giving control answers and basic physical scans for any kind of implanted bugs, he was given a spiritual shakedown - literally, in one instance. The specific ways in which his spirit responded to given forms of trauma were measured for any deviation from his prior baselines, as well as any tell-tale signs of lingering mental compulsions or deep-implanted thoughts. He’d also need to have a few follow-ups some time in the next century or two, but no sooner than five years out, just to make extra sure they hadn’t missed anything.
+
+That last part made him perhaps a bit more sour than he needed to, and when Allie exuberantly asked if anyone wanted to hit a club with her, he probably responded a bit more curtly than he intended.
+
+She acted mock-offended, then in turn pitiable as everyone gave their actual pressing concerns. Zack wanted to check in on a few secretive projects he had going on, while Aster needed to start preparing for her own duchy’s arrival, as well as deal with her ice cream business after having been absent for a decade.
+
+Matt and Liz played a quick few games of rock paper blade, but he lost, and so had to deal with the nobles that were no doubt waiting for them on Lilly. Meanwhile, Liz went to check on her bloodline research teams.
+
+From the gloating look on both Lizzes’ faces, he was pretty sure he had been played somehow, but he was sure she hadn’t cheated in any obvious way.
+
+Making a note to investigate the situation later, Matt resigned himself to dealing with the nobles.
+
+Thankfully, Liz’s team was primarily based out of the Capital, and for all her complaining about them abandoning her, Allie intended to stick around the Capital for a few months. Or at least, use it as a base. What Allie considered ‘remaining close’ was more reminiscent of ‘checking in’ for most others.
+
+Still, it meant Liz would catch up with him in a week or two at most, and while he would have dealt with the largest issues in that time, she would be arriving just in time to help with the drudgery.
+
+After saying their goodbyes, Allie, after a bit of jokey cajoling, teleported them where they requested.
+
+Knowing he just needed to get things done, Matt flew over Margaret’s palace.
+
+Before he could even arrive, he was inundated with requests to speak with him.
+
+Most were from nobles arriving to the slowly forming duchy, but they were nonvital, so Matt just pushed them off by a few days. Thankfully, most were understanding that he had just arrived back to the Empire after having been gone for a decade, but there were a few who were insistent that he needed to talk to them immediately.
+
+Matt looked for Cato but found that his seneschal was off-world overseeing the delivery of one of the worlds from the Clans, but should be back in a day or three. Hoping that Isabella might be around to help, he saw that she was halfway across the Empire at an auction in Liz’s place, trying to buy valuable bloodline resources from a private collection that were being sold off.
+
+Cursing his luck, Matt resigned himself to dealing with everything without any help.
+
+In reality, the two seneschals had dealt with most of the problems that had popped up, but while they could act in their stead, they weren’t Matt or Liz, and there were things that the dukes needed to make decisions on.
+
+He was tempted to check in on Titan’s Torch, just to see how they were progressing, but Matt knew that if he did so, he’d spend the next week going over test results. To resist, he just told himself that he had a month scheduled to visit the guild once this was over, and if he didn’t want to dig into that time, he needed to get through the paperwork.
+
+Diving in, Matt trusted Cato’s ordering of the issues and just started from the top.
+
+The very first issue wasn’t what Matt wanted to see, and if it was any indication of what was in the pile, it was not a good sign.
+
+It seemed that when Matt expanded the island for his guild and tried to save the underwater ecological systems near it, he wasn’t quite successful. While things had seemed fine for the first decade, in the last ten years, the aquatic life had started a death spiral.
+
+Cato had hired a specialist to come and fix the issue, but it was estimated that it would take another decade before things were both stable and returned to their pre-expansion levels.
+
+He mentally kicked himself that he hadn’t just hired a specialist in the first place, and made a note to get some lessons on ecological sculpting sooner than later. He was sure he was going to create an island himself at some point, and didn’t want to create another environmental collapse when he did.
+
+While that was personally annoying, that issue was at least being fixed. The majority of the remaining issues were ones that only served to anger Matt.
+
+He tried to tell himself that these issues weren’t representative of his nobles and fief in general, but simply the worst of the issues that had built up over a decade. But it hardly helped.
+
+One of his prospective nobles, not-yet-Baron Stevin Lin, had gotten black-out drunk on a neighboring ducal capital at a… Dynamic Extreme Tag tournament? He had to find exactly what that was, and was rather baffled at the result. He supposed it made for decent evasion practice, but what kind of entertainment was there in just watching some people chase each other when they couldn't even use direct attacks to hit each other? Either way, while getting drunk would have been embarrassing, it wasn’t an issue that Matt would have needed to know about. Except, Stevin was very much rooting for the losing team, and when they had lost, his second feature had come out: he was an angry drunk. He had then proceeded to start a fight with a neighboring set of fans who were celebrating their team's victory.
+
+The fight had started a stadium-wide brawl that overwhelmed the local guards and forced the duchesses’ personal guards into action. While no one had died, thousands had serious injuries, and everyone's fingers were pointing blame at Matt’s not yet baron.
+
+Rightly so, but the issue was that officially, Empire nobles could only be charged by their own lieges or with their lieges permission. And unless Duchess Cynthia Barbant wanted to escalate the matter to the Emperor himself, she needed Matt’s nod to punish the idiot.
+
+Initially, Duchess Barbant had only been pushing for monetary fines to cover the costs and a small punishment, but not-yet-Baron Lin had thrown Matt and Liz’s names in the Duchess’ face, trying to get her to back down based on their Ascender reputation.
+
+Justifiably annoyed, Duchess Barbant was now pushing for the maximum possible punishments. She hadn’t outright challenged Matt and Liz, but the situation was only a hair away from her doing exactly that, which was undoubtedly Baron Lin's intention.
+
+Would Matt and Liz’s pride as Ascenders force them to interfere now that they had been challenged?
+
+From the perspective of public opinion, Matt understood what Baron Lin was thinking. The reputations of Aiden and Lila were quite ferocious, after all. But knowing them personally, Matt knew neither of them would have interfered for such a matter unless it was to crush Baron Lin himself for trying to drag them into his issues.
+
+Matt wouldn’t go that far, though he was seriously tempted after reading the transcripts of the encounter with the Duchess.
+
+Instead, he just rescinded Stevin Lin’s noble appointment and sent Duchess Barbant a blanket apology offering to cover any costs that weren’t able to be seized from Stevin’s accounts.
+
+He was tempted to do more, but he was already irritated and decided he didn’t need the stress of pursuing the issue further. His day had already been long, and it was only getting worse.
+
+Viscountess Martha Yates had decided to take her planet's relocation into her own hands, causing massive damage when she forcefully disengaged her teleportation tethers without going through the proper procedures.
+
+This act outright destroyed the teleportation tethers on the three connecting planets. Repairing the delicate formations had a cost easily in the Tier 35 mana stone range.
+
+Reading her excuse, Matt wanted to strangle Viscountess Yates. Her planet's location had been temporary; they were simply using the Tier 9 world to extend their anchor deeper into chaotic space, but they had noted where her final location would be, which she had known about.
+
+When a change in chaotic space eddies had blown in the proper direction, Viscountess Yates, trying to save a trip for a Tier 40, had disengaged her tethers to try and let the currents move her world for free.
+
+Matt almost wished she had failed in her maneuver, because then he could have strung her up, but she had succeeded and moved her planet into the proper location. She even managed to reestablish the tethers, properly locking her world in place in a stark contrast to her leaving.
+
+If she hadn’t ruined teleporters on three other worlds, Matt might have congratulated her, but now he needed to decide just how much her success weighed against her failures. Plus, the cost to move the planet had been part of the war reparations paid by their enemies, and the repair bill was, unfortunately, very much not.
+
+Matt wanted to punish her, but he needed to balance that against her actually taking the initiative. Neither he nor Liz wanted nobles who were only able to follow orders. Viscountess Yates had also not shied away from taking blame for her actions in causing the destruction of the other worlds’ tethers. She had mildly implied that the late tether breaks were the fault of the other worlds because they hadn’t trusted a quick message to break the tethers, which further pissed Matt off, but she hadn’t outright stated it.
+
+He was tempted to just remove her and replace her with one of her family members, but even Matt felt that was going too far, and decided to wait until Liz could weigh in. Instead, he gave her a provisional punishment of being forced to repay the damages. No matter what he and Liz decided, she would be paying them back for the costs, but further punishment could wait until Liz arrived and he wasn’t so angry.
+
+A few other issues weren’t so bad, but just when Matt was thinking he had gotten through the worst of the cases, he came across a hot topic just weeks old.
+
+Baron Thomas Lane had, in a blatant attempt to suck up to Matt, paid for all the orphans to spend time at the local PlayPen and use those local faculties. If their orphanages had been giving advanced combat classes pre-awakening like Matt’s had, that might have been a positive, but none of them had, and the PlayPen Director had rightly prevented any of those children from entering the rifts, which had sparked conflict between the director and Baron Lane.
+
+Things had gotten so bad that several buildings had been destroyed, a number of children had rioted, those who had been there originally were angry about the influx and overwhelming of the local faculties, while the orphans were angry their hopes and dreams weren’t being lived up to.
+
+In theory, giving orphans a chance to delve and advance at the local noble’s expense was a great idea, but the execution was so flawed, Matt was tempted to go punch some logic into Baron Lane.
+
+Before that happened, he needed to take care of the children. As much as Matt didn’t want to do it, he overrode the PlayPen Director and authorized them to stay. At the same time, Matt set up a system where the children would be broken up and spread amongst ten other worlds to reduce the impact to the PlayPens, while he put out an open offer for anyone over Tier 10 who had teaching certifications and could spend a few years getting the children at least competent in the basics.
+
+Matt also paid for a number of Tier 8 skills to be distributed just to ensure they were in a good spot, and not hurt by what should have helped them.
+
+He wanted to do more, but the planetary AI was already warning him about overstepping the typical limits, and he needed to use his ducal overrides to shut it up. While Baron Lane was an idiot, he had tried to help the children who were most likely to slip through the cracks and remain in the lowest rungs of society, so Matt wasn’t going to be too harsh on him.
+
+Doing something that helped people for the wrong reasons still helped those in need and mattered.
+
+The children in question wouldn’t have starved or ended up homeless, the Empire wouldn’t allow that, but many of them might have been unable to join a guild or get a delving slot, which would have allowed them to improve their situations through their own efforts. There was always the white collar route of improving one's self, but without a Tier or two behind them, they wouldn’t be as desirable candidates as others who had money to spend on advancing themselves.
+
+Just as he was finishing up dealing with a Baron who was failing to deal with an invasive species of fungi, Cato, who had just arrived, caught his attention.
+
+“My lord, the latest report from Soerilia has just arrived.”
+
+Matt looked up, finding Cato bowing in front of him, and he was bewildered that it had really been three days of paperwork already. He had to wonder just how the Emperor did this all the time.
+
+Matt closed what he was doing and opened up the files that represented Soerilia, thinking a change of pace might do him good. The first few years’ reports from the overseeing administration team were disappointing, but not unexpected. Soerilia was, on all accounts, failing to meet expectations on their unveiling process.
+
+He wanted to blame everything on pure incompetence or malice of the leaders he had met, but most of them had been replaced. Not because of anything he or the Empire had done, but because they had simply aged out. Even if they hadn’t been elected officials with limits to their term lengths and the need to win elections, it had been twenty years since they had originally integrated the world.
+
+That time meant very little to Matt anymore, but it was a significant portion of a low-Tier mortal's life. It was a quarter of an average unawaked mortal's life span of eighty years.
+
+It wasn’t all bad however. The first five years of reports showed there was progress happening. Most of the positive progress was in the Roland method: they had created a basecamp and it had taken off with numerous people flocking to the city, but that was to be expected.
+
+A large part of the Roland method was using the economic wealth that cultivation brought, the plethora of monsters that granted essence, and untouched wilderness that contained valuable resources to drive people into the area where the secret would be impossible to keep. Mana and Tiered items were better than a goldmine on those planets, and the untapped Natural Treasures the Republic had seeded on Soerilia were extremely valuable both on and off planet.
+
+The saying that a secret wasn’t a secret if two people knew about it might not be technically true, but it was accurate enough in these instances. That was helped along by a few well-placed encouragements for people to start openly using magic in small but noticeable ways. Slow, but ever increasing exposure was key.
+
+If only the rest of the planet was progressing as well.
+
+A number of countries were going through recessions, or in one instance, an outright economic depression thanks to a variety of circumstances Matt didn’t have the time or mental space to properly delve into. The administration team had done what they could within the bounds of the remnants of the veil, and while that had prevented absolute collapse, it hadn’t fixed the problem quite yet. Their estimates put the issue at needing another decade at least to right itself without more direct intervention.
+
+Matt could accept all of that. Things happened, and with so many moving parts, it was difficult to ensure everything worked properly.
+
+What he found harder to accept was the plethora of new leaders who just outright refused to accept the facts as they were, and were effectively burying their heads in the sand.
+
+One of the elected leaders of a midsized country had even attacked the admin who was overseeing his awakening. He hadn’t been able to hurt the Tier 15, but the act spoke of a deep issue in Soerilia and Matt wasn’t sure exactly what needed to be done to fix that.
+
+Then, not a year later, a group had nuked one of the portable awakening devices they had shipped over in the early years. They had at least been smart enough to move it into a desert and disguise it as a bomb test, but it was so incredibly pointless. They hadn’t done any damage to the Tier 25 materials the device was made out of, but the sheer stupidity boggled the mind.
+
+Or so he thought, until he noticed the attached copy of a report they made after the test showing they were just stress testing Empire materials, after all, lesser tools failed to achieve any appreciable results. The notes in the margins suggested they were both disappointed at yet another lack of results, and quite excited at the possibilities materials like these would bring. There was some mention of the potential for orbital elevators, a concept he had to look up and found quite neat, if rather useless in the wider Empire's context. Anybody who has business in outer space was high Tier enough to reach it themselves, or had a ship to do the same. Even so, that they were thinking of the future even if with their limited understanding was definitely a good thing.
+
+He—
+
+Matt’s eyes snapped down a few reports to a line he couldn’t quite believe he was reading.
+
+A planned assassination and coup of Soerilia by a native.
+
+Assassinations weren’t a new thing, public leaders were always at risk of such actions but what Matt wasn’t expecting to see was that the target was himself and Liz.
+
+That was almost adorable, in a ‘watching a dog chase a flying taxi’ sense. Even if it caught up, there would be nothing it could ever do.
+
+What was less adorable was the next entry was about the same individual, who in their attempt to kill himself and Liz, had set up plans to cause dozens of rift breaks all across the world to distract the guards he felt they would have.
+
+Rifts in cities were the main targets, wanting to cause maximum chaos and damage. And as a nice side benefit, soften up the militaries of the other nations, for when they would conquer them.
+
+Matt’s already simmering anger flared into bright hot rage.
+
+Matt didn’t bother to ask why Cato or Isabella hadn’t just taken care of this asshole. He needn't waste his breath. Cato had long made it clear that as a seneschal, his job was to guide Matt’s interests as Matt desired, but that he wasn’t there to run things for Matt. That meant until Matt or Liz countermanded their previous statement about a light hand in the integration, he wouldn’t change a thing until that happened, or possibly the local acted to cause the rift breaks.
+
+Cato's words from when they had first arrived at the world echoed in Matt’s ears. “What is right or wrong matters little. All that matters is how you wish to handle it.”
+
+Matt was seeing the results of such actions, and he was tired of it. He wasn't a heartless higher Tier who thought of himself as better than lower Tiers. He was and had been willing to let the people of Soerilia dictate their own fates, wanting to ease the planet into the wider Empire while keeping as much of their culture alive as possible, and causing as few societal issues as possible, but it seemed like that was a futile effort.
+
+Matt could accept that he and Liz had clearly mishandled Soerilia and they should have done things differently, but he couldn't change the past. He could, however, change the present. Matt didn’t have to let things continue in this clearly flawed attempt at a gentle integration. It was time for a firmer hand.
+
+Standing up, Matt [Portal]ed to the teleport platform linking Lilly and Soerilia.
+
+Overriding the warnings, Matt activated the teleporter swap sequence, which he knew would activate some serious warning lights on the Soerilia end just as it was doing around him. Anyone on the other side had fifteen seconds to either get fully inside the dome or get outside. Anything between the planes was going to find itself in two places at once and no longer a single entity.
+
+As he appeared in Soerilia, he cranked his perception to the max and found that while some machinery had been cut in half, no people had been hurt despite a few panicked workers who had been unloading a shipment of goods.
+
+Taking a step forward, Matt appeared five thousand miles away in an instant.
+
+Looking down, he let himself glower.
+
+Just as the report said, the leader of one of the smaller countries, or rather former leader who had kept power via means of taking up a non-elected role, had set up a rather sophisticated, if still unfinished, ensnarement formation for a newly integrated planet, deep in the woods around a rift hidden inside a mansion. Underneath said mansion were a dozen high-yield warheads waiting to be triggered.
+
+He didn’t even slow down.
+
+Stepping down into the mansion, Matt deliberately let his presence be known and watched as Fabian Lacor was rushed from his bath to a command bunker as he received reports of his presence. Watching his face transition through a dozen emotions as he realized his plan was seen through was quite gratifying.
+
+The game was up, and Fabian knew it.
+
+Matt wanted to, was even going to, give him one chance, but it was in vain.
+
+He watched as Fabian decided to detonate the bombs and as he gave the command to a nearby aid.
+
+Once the order was sent and the bombs were primed and ready to detonate, Matt reached out, twisted space, and grabbed Fabian’s collar, lifting the man off his feet with an expression he knew would be unreadable to the low-Tier man.
+
+Fabian didn’t even stumble, but his eyes went wide and his body went into overdrive as his new location started to dawn on him.
+
+The bombs should have already detonated, were the situation to play out as it normally would have. But [Light Manipulation] could be modified to affect beyond just visible light, and so Matt held the pulse of radio waves still as they traveled from Fabian’s capital to this remote mansion, giving him plenty of time to speak with the terrified politician.
+
+“Was I too nice? Was that it? Were we too hands-off? Should Liz and I have come in and ruled with an iron fist, made it exceptionally clear that there would be no challenges to our power? Did I need to blow up a mountain? A moon? Just to get it through your abnormally thick skulls? Was there anything that we could have done that would have kept you and your cohort of idiots from messing everything up? We tried to be gentle, to give you the opportunity to close out your reigns with an age of prosperity, a peaceful ride into the sunset. Yet every step of the way, you’ve been digging your heels into the sand. So what was it? W—”
+
+Fabian interrupted him by shouting, “Bombs!”
+
+Matt didn’t even blink. “I’ve read the reports, but I’m still stunned to see such suicidal idiocy coming from a man who prides himself on intelligence. I’m certainly going to have a very detailed after action report to determine exactly where we went wrong, because you have a fatal misunderstanding of the situation. There is nothing you can do to stop this. I understand you don’t want to lose your freedoms.”
+
+Fabian reacted, and Matt rolled his eyes faster than the man would be able to perceive, “You don’t want to lose your power. That’s understandable. But what we clearly failed to get you to understand is that you never had any to begin with. Your life is, and always has been, a lie. The thin veneer of respectability based on nothing more than the decision some very foolish people made thousands of years ago, to give you a playground where you can fight and die and make pretend so that you all feel so very impressive. Where you can live, shut off from such terrible knowledge as your absolute helplessness before anyone with true power. The bombs you’ve buried here are useless.”
+
+Matt almost smiled as he saw Fabian misunderstand him, but his mood was far too sour for that.
+
+“Let them serve as an example of what you don’t understand.”
+
+With that Matt released the signal and the world was awash with flame.
+
+Left unchecked, the explosion would have flattened the surroundings and ruined the forest for miles, but Matt put a stop to that. His Domain Meld flashed into being, the eclipse decreeing his absolute control over the manor, the forest, the continent, and he allowed the explosion to go only a single way: straight up.
+
+The barest mote of concentration was all that was needed to spare himself and Fabian from the bombs as everything around them turned into a raging inferno.
+
+Meeting Fabian’s eyes, Matt said slowly and carefully so the overstimulated man could comprehend. “No, I didn’t disarm them. Your power simply means nothing to me. I stopped them from detonating, and now I’m stopping them from harming anything. If you unleashed every bomb in your arsenal, detonated every last one mere inches from me, you wouldn’t singe so much as a single hair on my head. This is what we clearly failed to convey. I want to say we shouldn’t have needed to but clearly it was as necessary as it was lacking.”
+
+Fabian had nearly gone catatonic, and Matt had already fully decided on what he wanted to do with Soerilia. “I have the authority to execute you, right here and right now. Perhaps I should, as I have clearly been too soft with you. But, truly, you do not matter. Instead, I shall simply exile you. Fabian Lacor, you are henceforth barred from all public transportation, managed rifts, and Empire support programs. You are not barred from delving wild rifts, but given how you’ve ruined your foundation by being carried through Tier 3 rifts as a Tier 4, good luck.”
+
+Seeing the once proud leader trembling, Matt almost felt a little cruel, but he crushed that sensation utterly. “If you want my suggestion, take up a fake name, use the wealth you squirreled away and live out the rest of your days knowing that nothing you did mattered in the slightest.”
+
+Matt teleported Fabian next to the crater before stepping up into orbit.
+
+They were only fifty miles from the nearest settlement, there was a road to follow, and it was late spring in this region of the planet, so there was no chance that Fabian would die on the way back. As a Tier 4, even one who had used lower-Tier essence, he could easily make it to civilization in under a day.
+
+Matt, though, was done doing things slowly.
+
+His Domain Meld was still active, blanketing a good chunk of the planet. A flex of will and that expanded to the entire planet. There was no contest to the action, as those few people who had so much as a Concept on this world sensed his Domain, full of fury, and wisely retreated into themselves.
+
+Everyone felt his act, but Matt wasn’t done.
+
+He stepped forward, leaving behind him a trail of [Afterimage]s, each a perfect replica of him as he was. Normally, they would fade almost instantly, but enhanced with [Cast Illusion], puppeteered by [Illusion Manipulation], and further empowered by his Domain in an almost-but-not-complete Domain clone, they lingered.
+
+With a thought, he sent his illusions forth. One appeared in the sky above every major population center, casting a penetrating light upon those beneath him, the citizens of Soerellia awakened from their slumber and shaken out of their stupor. His [AI] churned with mana, coordinating with the planetary AI as he, brandishing his bifate pair-linker like a baton, built out an array for a truly massive scale. Hundreds of millions of mana, several talisman plates, and far more effort than he let show went into organizing a global formation array that would ensure every human on the planet, even those who were naturally deaf, heard his words in their native tongue.
+
+He looked down, and spoke.
+
+“People of Soerilia, hear me and listen.” Taking a deep breath, Matt continued, “Your world has changed, and it will continue to do so. Twenty years ago, your leaders were informed of a greater reality, and were tasked with sharing this revelation with you all. They have failed, attempting to hoard wealth, status, and power for themselves and their underlings. Now, I speak to you, to inform you that great power is within your grasp. From this day forward, you are all citizens of the Sophron Empire, and powers which you dismissed as impossible are yours to claim, should you be willing to brave the challenges they require.”
+
+Matt took the opportunity to scan the planet and cataloged the reactions of the citizens. He was only Tier 26, and couldn’t get perfect scans of all of the people, but from what he could tell, the primary reactions were fear, confusion, disbelief, and a certain amount of anger.
+
+That was about what he expected. “I am Ascender Titan, a duke of the Sophron Empire, and while those who previously controlled your planet desired to keep you all locked away, hiding the true nature and extent of reality, I and the Empire I represent believe that all individuals ought to receive magic. That it is their right to take their destiny into their own hands to do with what they will.”
+
+After pausing for a few moments, both to give people time to digest what he said and to give him an opportunity to wrestle a portion of the translation array back into place, he continued. “No more shall you be subjected to the whims of those who attempt to control you through ignorance, who seek to divide you pointlessly for their own petty agendas. As of this moment, I am disbanding every military on the planet, and announcing the end of national divisions.”
+
+As he spoke, he tracked down all weapons of war, anything larger than what a single person could easily carry and use on their own, and vaporized them each in turn.
+
+“Your leaders had the opportunity, twenty years ago, to make this transition easy, to make this entirely painless. Yet they have failed, and in so doing, I am acting. Today is the day that Soerilia properly joins the Sophron Empire, not just in name but in reality. Over the coming days, you will learn far more as to what that entails, but for now, those of you who seek to harm others, to kill, to rape, to rob, to destroy, know that I am watching. If you do not seek to harm others, you have nothing to fear, and much to gain.”
+
+Checking in, Matt found most people just fearfully watching the nearest projection, but there wasn’t much he could do about that.
+
+Instead, he tried to give them a little hope. “Though you may be afraid, rest assured that, overall, little will change. Those who are sick will be healed, those who are ambitious may accrue great power by their own hands, the students shall continue to learn, farmers will continue to farm, cooks will cook. Your world will keep spinning just like it always has. I just ask that you remain calm and not do things you will regret. I will be persona—”
+
+Matt felt Cato stretch out signaling he wanted to talk.
+
+Raising his perception to Tier 26 speeds, Matt tried not to snap at Cato. “What?”
+
+“My lord, unless you wish to cancel all of your next few years of plans, which let me remind you involve you settling a dozen new worlds, meetings with the preeminent dukes of the Realm, an official meeting with your nobles, and many things I don’t have the time to list, you do not have the time to personally oversee this, my lord. Give the command and I can rearrange things to fit that, but that would be an unwise decision by most metrics given your stated priorities.”
+
+Matt growled. He’d made this mess, he should be the one to fix it. But if he threw everything else aside as he fixed this, what other messes would he be making? “How long do I have?”
+
+“A week before other projects would need to be pushed aside. A month if you are willing to skip your scheduled time with your guild.”
+
+“A month then. When is the earliest Baron Hastra can arrive?”
+
+Yarklan Hastra was the noble who was slated to be the ruler of Soerilia, but Matt knew from their check ups that he was still at his mother’s barony, ruling in her stead until she returned from her latest delving cycle.
+
+With the delays of Soerilia, Matt had previously given him leave to attend to his family's holdings for political and practical reasons, but all of that went out of the window now that he had unveiled Soerilia.
+
+Cato paused for a moment before blinking. “We can get him here in a three weeks if you are willing to pay f—”
+
+Matt cut Cato off. “Do it.”
+
+He had already made the mistake and he could chalk up the extra expense as his own personal stupid tax.
+
+Turning his attention back to Soerilia, Matt picked up where he left off. “—lly overseeing the integration for the next month, after which point, your new baron will officially take office and will guide you the rest of the way.”
+
+Matt almost ended his speech with a ‘If you have any questions, please contact me.’ but there was no way he would be able to answer the amount of questions that would bring him.
+
+“Please remain calm and look over the information. If you have a vital job, please continue to carry it out. More information will come shortly as things settle down.”
+
+Turning to where Cato had been, Matt nodded at the administration team.
+
+“Ok, we have our work cut out for us. Initiate unveiling protocol 8 variation Echo. That best suits this situation. Any suggestions?”
+
+When he got head shakes in return Matt nodded. “Let's get to work then.”

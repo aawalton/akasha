@@ -1,0 +1,141 @@
+---
+id: 8b0fce39-00a4-5795-8d49-f3affcd4d85a
+page-type-slug: story-chapter-royal-road
+title: "321 Expanding an Empire"
+slug: 0280-321-expanding-an-empire
+partOf: the-new-world
+position: 280
+ownLength: 2901
+unit: words
+ownProgress: 2901
+publishedAt: 2021-10-05
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/762170/321-expanding-an-empire"
+royalRoadId: "762170"
+markedReadAt: "2026-06-29T21:30:49.098Z"
+---
+
+"You're dismissed. I'm heading out."
+
+He rose his brow under his dark mask, "Where exactly are you off to?"
+
+Quintessence suffused my surroundings in an unbridled wave,
+
+"I'm going to go do some hands-on expansion real quick."
+
+I smiled, "We need some more cities."
+
+Chapter Begin
+
+Helios furrowed his brow, "You intend on doing so where, exactly? And what's the method you'll use? Perhaps you haven't considered the law systems each place will need or how to manage the various subcultures of each area. These are important-"
+
+I raised a palm, "Helios, I'm not a diplomat." Mana seethed over me like a writhing flame, quintessence flooding out in abundance. I stated, "I'm a fighter and a crafter. I'm sticking to that, and I'll leave the details to other people. Everything will fall in place as I go."
+
+He could doubt or dismiss my efforts if he liked. In the end, I'd leave that doubt shattered by results. Helios rolled his eyes while I pulled myself up with a gravity well. At a certain height, I generated an intense antigravity well beneath me. It propelled me forward while I opened up my status. An overhead, 2-dimensional map popped up, and I found the extent of Mt. Verner's domain.
+
+It stretched out for about a dozen miles in every direction. Without a core or official verification from Schema, Springfield lacked the same legitimate plot point. Despite that, the constructor golems already worked towards filling the city out. By the time they finished, my old hometown would be a thriving metropolis.
+
+Schema may deny the town's return for now, but that wouldn't last for long. It wouldn't last elsewhere too. Peering at those different places, the skyline shifted in my view as vast forests passed underneath me. I shot through clouds, the wind off my wake creating cylinders of mist jutting out in every direction. In a sense, I impaled the clouds I passed.
+
+I traversed another dozen miles outside of Springfield's domain before landing amidst an unclaimed hill. This would be the next city. I pulled out enormous globs of molten dimensional fabric. With quintessence, I flashed them into the components of a golem over the next few minutes. The cipher and charging took up the majority of my time after that. Getting four assault golems ready, I toiled for a while before sending them out to clear the countryside and nearby dungeons. The juggernauts dispersed across the terrain, one honing in on a nearby, mutated wolf.
+
+The super golem grabbed the beast, ripped it in two, and burned its remains and blood splatter. Cleaving the terrain apart, the assaulters shifted from one motion to the next in a rapid succession of hunting. In moments, they stripped the land bare of its infestation. At the same time, I disintegrated all life on the hill with Event Horizon. Covered in bare dirt, I leveled it, flattening the mini-mountain with a gravity panel.
+
+The ground quaked and roared out across the landscape, the splintered crags of earth crushing down. After getting a suitable space, I generated a steel barrier around it, piercing the flattened portion with several steel struts in the mound of splintered soil. With the foundation established, I molded quintessence into a flat, sheening plate of granite.
+
+It gleamed in the sun; the entire hillside changed in minutes. I pooled more of my fabric for another golem, this time a constructor. Finishing it and its details, I generated thousands of rings for it to distribute out as needed.
+
+An average person wearing my rings turned into a bulky behemoth, at least when compared to the usual. My legacy bonuses compounded that difference, revolutionizing the benefits someone gained from joining my guild. Many people operated in Schema's universe as if made of paper mache. My guildmates enjoyed surprising bulk by comparison and extending that only benefited people.
+
+To that end, I spoke to the constructor golem, giving him the command to hold this territory and create livable spaces for people. I handed him the rings, the constructor levitating them in a gravity well over its head. The final piece of my city involved generating cipheric inscriptions in a monolith at the city's center.
+
+As with Springfield, this column established a protective barrier, and I made it with my own dimensional fabric. Imparting a continuous supply of mana and energy to the local populace, the center point offered a grid for power to the people here. I instructed the constructor golem to manage and protect it from being weaponized by would-be warlords as well.
+
+Working on the final details, I sliced sigils across the metal framework surrounding the city. I connected the runes to my monolith, and it sparked to life, generating a buffing field for anyone inside the city's two-kilometer radius. This whole process took two hours, my many minds allowing me to handle several tasks at once.
+
+By the time I finished handling all the minutiae, the assault golems had returned from their forays. Each of them carried over a dozen dungeon cores, most of them simple yellow ones but some gleamed crimson. Instead of using them for attribute points, I put them into my pocket dimension.
+
+Schema lied about primordial mana and my dimensional space. He could be lying about these cores as well. I'd take them out of the system and see if I couldn't get more from them than Schema allowed by normal means. After pocketing the cores, I peered at the space, finding everything in order.
+
+With the assault golems and the constructor golem on standby, I moved on. Gathering a force of people to the stronghold wasted my time. Convincing people took a lot of tenacity, and people would fear me more than they'd actually listen. I'd leave the recruiting efforts to other members of my guild while I left empty cities for them to build an infrastructure off of. Besides, anyone could work as a marketer. Only I could craft the golems and these city-states.
+
+And that's what I did. I built cities.
+
+I spaced them out, about twenty-five miles apart. The distance gave plenty of room for building up and out, and they all stood atop hills. This left them as beacons in the landscape, the mana auras beaming outwards above them like gleaming domes. Light refracted off of these mana pyres, raw quintessence saturating near the monolith's apex.
+
+In a way, the visual splendor offered more than a statement about their efficacy. They reminded me of the first time I saw a Sentinel. The cyan-shaded, armored warriors stood ten feet tall with dimensional slicing spears. At the time, I was a tiny ant surrounded by mountains and hills. These golems acted the same to anyone finding them.
+
+They left an otherworldly visage. The crimson eyes of the assault golems glowered at everyone, menacing and defiant. Their ruthless natures acted as absolutes, unable to be corrupted. They contrasted the pale eyes of the constructor golems, which calmed and gave a light sense of ease. The builders offered a hub of understanding and compliance by comparison.
+
+They exceeded an average person's limits by enormous bounds, to the point of being outright alien. Five level 14,000 golems could ravage the entire state, let alone their city's limits. The monoliths and archaic runes dispersed across each of the reinforced hills offered further mysticism.
+
+After establishing a dozen of these emptied, runic structures, I flew far over the clouds above them all. The monoliths dispersed dollops of light through the clouds, each a lighthouse in the encroaching forest. Wanting a better view, I revved over twenty elemental furnaces under my skin. Those artifacts generated vast energy outputs into my body, and my skin sheened a bright white from the heat alone.
+
+I hovered over my new domain, a living star both in appearance and output. Spreading my arms, an enormous wave of gravitation molded the clouds from above my cities. For miles, the force collapsed the misty blots in my view. They fell in a spiral, condensing into water that plummetted down below in a light wave. It was a circle of falling water, a biblical feat.
+
+And I did it to get a better view of my cities. With my structures on full display, they reminded me of what I imagined Schema's system would be like after finding my first Sentinel. I smiled at the outposts, knowing this was only the beginning. I continued establishing these domains of control, none of them recognized by Schema.
+
+Whether the AI liked it or not, these cities stood on far firmer ground than anything he made. Blue cores defended well, but that was it. They offered no countermeasures for stopping an attacker, and inevitably, they fell over time. My cities carried dreadnoughts as protectors, the devastating assaults golems able and willing to gore enemies to pieces. The constructor golems restored any damaged areas and assisted with energy production in the meantime.
+
+The monoliths still protected the populace, of course, but they offered a buffing aura as well. In the end, combine that with the rings and legacy bonuses, and these places acted like supply depots for city establishing. They far exceeded the utility of Schema's hubs. After getting primordial mana unlocked, I'd connect these places with warping golems. If I had my way, I'd make developed societies like the Empire appear primitive compared to my territories.
+
+If people came in. The granite panels sheened with a glossy finish, only a few golems standing in the circular stones. I held faith that once people understood the benefits here, they'd swarm in by the thousands. In my case, I intended on offering quite a few of these outposts to the skeptiles.
+
+They'd arrive in a vast population, and establishing centers for them eased their transition. I'd split them into the cities by their tribes, letting them know what was going on. I might have Amara hack into Schema's system and let me announce a speech. But then again, a message might be better as they'd have it stored for reference.
+
+After that, I'd dish out managers to the areas based on a meritocracy. I was no politician or city organizer, so problems would arise, no doubt. As they came, we'd fix them. For now, I worked within my limits and knowledge base. It was all I could do.
+
+I kept planting these cities further out from Mt. Verner. The forests stretched out as far as the eye could see in all directions before I found patches of plains. Here, human settlements dotted the horizon. From far above, I used my superior eyesight to inspect these territories and how they managed themselves.
+
+Every sight made me wince, everyone's situation both chaotic and haphazard. People, in general, did a great job with the resources they had. However, that was the issue; they had no resources to work with. That came about because of the culling.
+
+Schema stripped power grids, destroyed Earth's infrastructure, and killed most people in the tutorial. Schema then forced everyone to fight eldritch or die. While I appreciated the levels and all, Schema made no efforts to help people off their feet. The closest approximation of that came from the Force of Iron. The generic, leaderless guild acted as quest hubs.
+
+They didn't establish much beyond understaffed zones with outdated, leftover tech and weapons. It was better than nothing, but not by much, at least in the long-term. Springfield was one of these established zones, which helped against Yawm. Searching for more of those places, I found nowhere else in over a hundred miles with a Force of Iron camp. This left people scrambling for protection in tight-knit, small villages.
+
+And they suffered for it.
+
+Starvation loomed. Monsters roamed. People dealt with the aftermath of a brutal society built on snowballing level-ups. I did nothing to handle it before now, and I regretted it. When I viewed people sitting there, it weighed on my chest. They wallowed in what amounted to a dystopia.
+
+If I couldn't have done anything to fix it, it wouldn't bother me. That was the crux of the issue - I could solve it quickly. With time under my belt for the first time in years, I did just that. I found one small town under siege below.
+
+Townsfolk crafted an enclosure, using abandoned cars piled up as walls. They put barbed wire and spikes over the vehicles and around them, most of the spiky cords harvested from nearby farms. People within carried a few weapons, any gunned weaponry long having run out of ammunition. They used roughshod swords and spears, a few well-made pieces built into the mix.
+
+One of the townsfolk was a blacksmith, and it showed by their shields, crafted from spare metal parts. People stood behind the cars, stabbing their spears through the shattered windows. Blood congealed onto those empties frames, no citizen having time to clean anything. They hoped rain handled that for them.
+
+Even a cursory glance explained why as the citizens stopped an assault of entrail-covered bears. Four beasts mounted an attack on the village's eastern side, two dozen individuals fighting them off. A few children screamed, none of them fully systemized and unable to fight back yet. Several people scrambled to get them to safety in a concrete shelter built by what looked to be a dooms-day prepper.
+
+The prepper's paranoia paid off for these people now.
+
+The bears stripped row after row of barb wire on the frontlines. Entrails squirmed and coursed through their eyes, ears, and mouths. Misshapen lumps swelled in them, the bear's bodies converting to the parasite within the bellies of each beast. Several fuzzy eyes opened long the stretched entrails, each of them gazing out with teary, infected oculi.
+
+I winced as they flashed green blooms that released spores over the town. Those fragments floated over the townsfolk like strands of a fleshy, green dandelion. Hovering over them, several people panicked in abject terror as the infection rained in. Some screamed out orders, trying to turn chaos into order. Some froze in place, unable to process what happened.
+
+The entire scene flashed in my vision while I flew over it. I wielded Event Horizon as a cleanser that eliminated the spores. Passing over the people right after, I landed with a soft thud beside several other survivors. Beside the systemized humans, I stood as an umbral titan of metal. I dwarfed them and their barrier alike.
+
+Before anything else, I covered them in the Rise of Eden, turning their weakness into strength. Beside me, a farmer with a scarred face gawked in horror. I pulled my helmet off my face, giving him a confident smile. Interrupting my gesture, an infested bear reached its head through a car door, shattering a window between the farmer and me.
+
+The bear flashed its disgusting face at me, having been warped into horror by the eldritch parasite. The farmer stumbled back and down, mud plopping as he met the dirt. With a casual grip, I grabbed the bear's face, my palm dwarfing its head. I jerked the monster through steel, the car's frame bellowing out a loud squeal.
+
+Lifting the bear over me in one palm, the bear fumbled for a grip on its paws, its body contorted at an odd angle. It grunted out, trying to escape my grasp. It met my fingers, each of them guillotines of steel enclosing over its head. Watching me hold the bear like that, the townsfolk stopped screaming.
+
+They ceased moving as well, most even holding their breaths. My display of strength stunned them. From my palm, a swarm of living needles flooded into the bear, its body appearing unharmed. Beneath the skin, I wore the body like a puppet in my palm. I siphoned its life into my own, my being an engulfing monster.
+
+The other bears gawked at me, the three remaining all wary of me. One of the parasites squirmed out of a bear, trying to hide in the dirt. I smiled at the monstrosity, pulling it towards me with a gravity well. It slapped into my raised arm. It squirmed at me, trying to find gaps to drill in and control my body.
+
+It found a desolate wasteland.
+
+It squirmed in horror, trying to escape contact with my skin. I let my arm down as flesh sunk into metal. The hollowed bear corpse flopped to the side before I raised my other arm. Before I did the same to them, the two bears turned on their heels. They ran away before I waved Event Horizon over them in a flash of misty red.
+
+They disintegrated into mana, the energy siphoning into my skin.
+
+The farmer beside me watched the entire massacre, as did the other townsfolk. Peering down, I left an enormous gap in their defensive wall, having destroyed the makeshift barricade in a patch. Breaking the ice, I scratched the back of my head,
+
+"Hah...Sorry about that."
+
+The scarred farmer pointed at the hole in the wall, "Uhm...Can you fix it? You look stout enough."
+
+I scoffed, "When I'm done with this place, fixing this wall will be the least of your worries."
+
+Their faces paled, each of them terrified of what I might do. I spread the Rise of Eden over them once more while raising a fist,
+
+"You'll never be forced to fight an eldritch again."

@@ -1,0 +1,169 @@
+---
+id: dffd7039-66a4-55f2-97e6-77f46776d7da
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1156 - Actually Pretty Decent"
+slug: 0028-chapter-1156-actually-pretty-decent
+partOf: the-primal-hunter
+position: 28
+ownLength: 2629
+unit: words
+ownProgress: 2629
+publishedAt: 2025-08-21
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2536165/chapter-1156-actually-pretty-decent"
+royalRoadId: "2536165"
+markedReadAt: "2026-06-29T19:30:08.719Z"
+---
+
+“Hey there, buddy,” Jake said as he squatted down in front of the large loot pile. “Everyone else either left or is busy doing their own thing, so the coast is clear now.”
+
+The loot pile started rustling, and a few moments later, a head popped out. “Scary gone?”
+
+“They really aren’t that scary once you get to know them,” Jake shook his head with a smile. “Heck, I’m pretty sure they would like you and you would like them. As long as you overcome your initial fright, things will get better. Besides, outside of the god who already left, I doubt any of us C-grades could confidently catch and harm you even if we wanted to.”
+
+The Warpsnatcher didn’t seem entirely convinced, but did climb out of his loot pile and jump down to the floor. The little guy instantly made sure that everything remained in its right place before turning to Jake again.
+
+“Still scary.”
+
+“It’s normal to find what we don’t know or don’t understand scary, but that doesn’t mean we shouldn’t confront it. How else will we overcome our fears?” Jake said, shaking his head. “But enough of that for now. I actually came to talk to you about something else.”
+
+The little fella looked confused at Jake, turning his head back and forth. “Talk?”
+
+“Yeah,” Jake nodded. “I see you’re about to reach the peak of C-grade, which means the B-grade evolution is next, right?”
+
+The Warpsnatcher nodded in confirmation. “Soon grow! Evolve!”
+
+“Right. After doing your evolution quest, I reckon you’ll be good to go with the evolution,” Jake said, halfway thinking out loud. Recent happenings in the Warpsnatcher’s life definitely added a lot of Records to his Path; the fact that he was just one level off the cap in C-grade confirmed that.
+
+“Quest? Me prepared quest!” the Warpsnatcher said, spreading out his paws proudly. “This quest!”
+
+“You mean that the quest will be to collect things?” Jake asked with a frown. “How are you so sure of that?”
+
+From what Jake knew, evolution quests varied... at least they did so for humans. Thinking about it, perhaps it wasn’t that odd if the quests for monsters were far more predictable, especially those with more limited Paths like the Warpsnatcher.
+
+“Sure?” the Warpsnatcher tilted his head. “No sure. Believe!”
+
+“Oh...” Jake couldn’t help but chuckle. “Yeah, alright, that makes a lot more sense. Anyhow, it’s actually something regarding this upcoming evolution I want to talk to you about.”
+
+The Warpsnatcher seemed curious and sat down as Jake began to explain. “You see, I have this ability...”
+
+Usually, Jake was very secretive about this ability of his, and telling Artemis about it had been a great show of trust on his part. However, with the Warpsnatcher, Jake shared everything he believed the monster could possibly need to know, and then a little more to make sure.
+
+He genuinely wanted the Warpsnatcher to go into this with full knowledge of what was possibly agreed to.
+
+As for why Jake had even chosen the Warpsnatcher in the first place... well, there were a few reasons. Besides the obvious, such as the fact that he was repaying the critter helping him out greatly when injured or his own desire to experiment and improve his ability, the Warpsnatcher also seemed like a good candidate due to his race.
+
+Jake wanted to avoid having another Vesperia on his hands. Not to misunderstand, Vesperia was great, and someone Jake considered family, but her birth had also been quite the debacle.
+
+With the Warpsnatcher, Jake would prefer to have a situation closer to Sylphie or Sandy. More Sandy than Sylphie, as with Sandy, he had also simply helped an existing monster get a far better evolution. One that empowered the existing Path that the monster in question was already walking.
+
+All while not causing multiversal upheaval or getting any major factions involved.
+
+Jake truly laid everything out, including these thoughts, as he explained things to the Warpsnatcher. He also emphasized that there were massive risks involved. That Jake himself was halfway threading unknown ground, and that the consequences of a mishap could lead to the worst of consequences.
+
+He even went as far as to briefly mention how he’d messed up his own soul, and without the help of a god, there was a good chance he could have lost his life or at least found himself potentially permanently crippled.
+
+Of the risks Jake foresaw, the most likely one was an unwanted evolution. One that would turn the Warpsnatcher into something he didn’t want to be. This was, in general, one of the biggest concerns Jake had regarding helping monsters evolve into incredibly powerful variants.
+
+If he somehow ended up turning the Warpsnatcher into a living calamity that had to be put down, Jake would feel absolutely terrible about it. Perhaps it would even put him off using the ability ever again, at least in the context of helping people he actually cared about.
+
+Throughout this entire talk with the Warpsnatcher, the little fella remained mostly quiet, with a few nods here and there. Jake had feared that this conversation wouldn’t even be possible as he wasn’t sure about the mental maturity of the Warpsnatcher, but it seemed that the concern was unfounded.
+
+While the little guy wasn’t very good at talking while looking, and acting very childish, he was still dealing with a mature, peak C-grade who understood what Jake was talking about. At least the understanding in the Warpsnatcher’s eyes told him that.
+
+After Jake was done talking, they were both quiet for a while as the peak C-grade seemed to be thinking things over. A full dozen seconds passed before he spoke.
+
+“Danger. Yes,” the Warpsnatcher said after considering things. “Also gift. Make strong. Risk gift.”
+
+“Yeah, risk and reward,” Jake nodded. “I cannot tell you what the ratio is, though. If the risk of worth the reward.”
+
+“Worth,” the Warpsnatcher said with little hesitation. “Become strong hard. Not strong bad. Risk fine. Life be risk. Gift... super. Worth all risk.”
+
+Jake listened and was quiet as the Warpsnatcher truly made it clear it fully understood what Jake was talking about. While he lacked the words to fully express it, Jake knew what the little guy meant, especially with the last two fragmented sentences.
+
+Getting high-level evolutions was something all monsters hoped for. Even races already considered high-level by default struggled to get the best possible evolution. As an example, all True Dragons were incredibly powerful by default, yet there remained a massive gap between the weakest and most powerful True Dragon variants.
+
+It was akin to the difference between geniuses of the enlightened species. People like Reika, the Sword Saint’s great-granddaughter, or Matteo, from the Court of Shadows, could be comparable to True Dragons once they evolved to B-grade, but only the variants in the lower echelons.
+
+To Jake, someone like Matteo couldn’t even be considered a threat, and in the same vein, peak True Dragons also looked down on other weaker variants of True Dragons, even if they were all considered powerful by others.
+
+What was important wasn’t only power, but future potential. Despite being a top species, most True Dragons never evolved beyond B-grade. Having a more powerful variant did raise the requirements for evolution, but it wasn’t completely one-to-one, making the chance of evolving again higher when having a powerful variant race.
+
+That’s why people were willing to do some truly insane things to try to evolve and get a strong variant. The most common cause of massive sacrificial rituals was people trying to get a better evolution or accumulate Records, once more with the goal of getting a better evolution down the line.
+
+There were few, if any, lines that couldn’t be crossed if it meant more power and future potential, and with that in mind, was the risk Jake talked about truly that noteworthy? Jake got the feeling that even if he told the Warpsnatcher there was a ninety-nine percent chance of things going awry and a one percent chance for a substantially better evolution, the little guy would agree without a second thought. What Jake offered was simply that valuable.
+
+“Alright,” Jake agreed with a sigh. “I’ll begin setting up the ritual, then. This will take a while, and I’m still unclear on all the details, but the plan is for it to be a live infusion of Records shortly before your moment of evolution. I may still need a catalyst, though, as I’m not sure I can directly infuse the energy into you, but we’ll see. There’s a lot of testing to be done before the real thing.”
+
+“Okay!” the Warpsnatcher said happily while clapping his small paws.
+
+“There is one more thing,” Jake said. “A name. I think it would be easier for everyone if you had one, and rather than just randomly give you the first thing that pops into mind, I reckoned I’d ask if you had any ideas.”
+
+Hey, maybe Jake got lucky and the little fella had gotten on a name since the last time they talked about a name.
+
+“Warpsnatcher!” the Warpsnatcher replied instantly.
+
+“That’s your race name,” Jake sighed. “Also, what if you evolve into something that’s no longer called a Warpsnatcher? Then the name would just feel weird, wouldn’t it?”
+
+“No change?” the little guy asked, his ears dropping as he looked all sad.
+
+“You can change it, but people very rarely do,” Jake explained. “Not unless they have a good reason to, anyway. And choosing a name we know will be outdated within the foreseeable future seemed a little silly, doesn’t it?”
+
+“Understand,” the Warpsnatcher nodded as he seemed to really rack his brain for a name. It was to the level where Jake even felt sorry for the guy, but he didn’t intervene for purely selfish reasons.
+
+Jake’s ideal scenario was to have the Warpsnatcher decide on his own name, no matter how silly it ended up being. Sure, there were limits, but as long as the little guy got on something that could even vaguely pass as a name, Jake would jump on it.
+
+That way, no one could blame him. Saying he wasn’t the one who decided the name in the first place was the perfect defense that not even Miranda had any counter to.
+
+Sadly for Jake, the poor Warpsnatcher wasn’t very good at coming up with a name either. For a beast, Jake knew that the concept of names was already a little strange, but he’d hoped that the little guy would deliver a miracle.
+
+Seeing as that wasn’t going to happen, Jake went back to brainstorming out loud after the Warpsnatcher had made its third non-viable name suggestion.
+
+“No, again, I’m Jake. You can’t also be Jake. At least it would be very confusing for everyone if we were both called the exact same thing,” Jake sighed.
+
+“Ja... he?”
+
+“Pronouncing the name wrong doesn’t make it any less confusing,” Jake felt on the brink of giving up. It was to the level where he considered just calling up Miranda and asking for her help.
+
+However, that was when they got input from an unexpected place. Jake had known they had an observer all this time, but he hadn’t been sure if he had simply been a passive one. At least not until now.
+
+“Are you aware that as part of my training, I try to better perceive all that falls within my presence? That includes the cellar you are currently occupying, and has allowed me to witness something I wish I hadn’t. Seeing you two waste your time thinking about a name is frustrating,” the Forest King spoke, projecting his thoughts into the minds of both Jake and the Warpsnatcher.
+
+The little guy instantly turned nervous and looked around, ready to escape at any time, as Jake even felt subtle movements of mana around him. Jake quickly gave the Warpsnatcher a calming look before speaking.
+
+“Oh yeah, then you come up with a good one,” Jake said, crossing his arms. There was no bloody way the King had any good ideas for an actual na-
+
+“Fine. Jasper. It’s a name from your world I came across when there, and from my understanding, it means treasurer. Additionally, it’s also the name of a precious gemstone, which fits considering the creature’s affinity for collecting all things shiny.”
+
+Jake was about to insult the King for having an equally shitty naming sense, but his mouth just opened and closed a few times before he muttered to himself. “Fuck... that’s actually decent.”
+
+--
+
+Elsewhere in the multiverse, in the coldness of space, nothing but thin mana existed. Even then, it was primarily only there because of the nearby celestial bodies radiating it. It was a space that barely any living creatures occupied, viewed merely as something one had to pass through to get from one point of interest to another.
+
+Right then, the unblocked beams of the sun caught a reflective surface as a metallic object uncloaked itself, becoming visible to the naked eye. A few moments later, a similar object was revealed, followed by several more over the next few seconds.
+
+They all approached a nearby celestial body and quickly started orbiting it, joining over a thousand similar contraptions already in orbit. Each of them orbited the celestial body at high speeds, all pointed downwards with long barrel-like lenses. Occasionally, one of them would even shoot out a beam of light that seemed to simply merge into the dusty surface of the celestial body upon impact.
+
+A few million kilometers away, on another celestial body, a single human sat in front of a large metallic cube with ever-shifting surfaces. He observed it closely and noted down any useful information.
+
+Tabbing a screen off to the side, he made sure to record all the incoming information as the human stood up and went to a small side room. There, a woman was already waiting with a large insulated mug in her hand.
+
+“Freshly brewed coffee,” she smiled, handing him the mug.
+
+“Thank you,” Arnold said to his assistant, Nanna, as he accepted the mug. He took a deep breath of the steam before having a taste that seemed to satisfy him.
+
+“Are things proceeding as expected?” Nanna asked, with Arnold nodding in response.
+
+“Scans are ongoing, and the model of the moon should be ready within the month,” he said. “So far, the B-grade dwelling within has yet to react, reinforcing the theory that it does not possess proper intellect beyond the instinctual. Without feeling a threat, the chances of it responding are low.”
+
+“Sounds good,” Nanna said, knowing it wasn’t the whole story.
+
+“So far,” Arnold said. “Scans so far have been unable to penetrate adequately due to the increasing energy density the closer one gets to the core. The new satellites are an improvement, but they remain far from enough.”
+
+“That’s why the Chosen of the Boundless Hydra is also involved,” Nanna said, partly to remind Arnold, as he could get a bit stuck in his own mind and forget that there were other people involved in a project.
+
+“Yes,” Arnold nodded as he was in thought for a while. “I need to finish the proximity scanners for the Cosmic Worm to deploy.”
+
+Taking a large swig of his coffee, Arnold walked out with the large mug in hand, his mind already focused on his work.
+
+Nanna didn’t say anything, but just smiled as she returned to her own little office to continue her work. She was currently in the midst of designing the residential parts of the upcoming moonbase, seeing as Arnold had entirely expectedly forgotten to actually make the place livable in his initial designs.

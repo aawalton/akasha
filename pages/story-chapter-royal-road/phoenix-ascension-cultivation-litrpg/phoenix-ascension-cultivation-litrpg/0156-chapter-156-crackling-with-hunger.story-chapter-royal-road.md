@@ -1,0 +1,229 @@
+---
+id: 1e39794c-170f-538f-afc1-5f2f1747cc45
+page-type-slug: story-chapter-royal-road
+title: "Chapter 156: Crackling with Hunger"
+slug: 0156-chapter-156-crackling-with-hunger
+partOf: phoenix-ascension-cultivation-litrpg
+position: 156
+ownLength: 2143
+unit: words
+publishedAt: 2026-07-29
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3743451/chapter-156-crackling-with-hunger"
+royalRoadId: "3743451"
+---
+
+Before I even had time to reluctantly get up, the servant went to the door and opened it. I couldn’t say I’d expected to see them here, but, well, they were here.
+
+The two Spirit Beasts in disguise. I didn’t know for sure why they were seeking me out, but I was not going to reveal myself until they had concrete evidence.
+
+If that was what they wanted to talk about to begin with.
+
+The servant looked at me, and I waved my hand.
+
+“Let them in, and go fetch me some tea.”
+
+He bowed and opened the door wider, the two entering as he left.
+
+“Please do tell why you came looking for me.” I went straight to the point, which took the two of them by surprise.
+
+“We were merely curious about something.” The one I recognised as Lian Shu said, his voice somewhat meek.
+
+“What?” I’d gotten annoyed now; why couldn’t they just say it?
+
+“Well, we just wanted to know how you get so physically strong, as a… human- Ouch!” He continued, but Qi Rian quickly stopped him. I was wondering if he had any connections to the Qi guy Meng Mao was friends with.
+
+“Excuse my brother; he’s a little stupid. But that is the truth. We’ve been training our bodies for our entire lives and did not achieve a fraction of what you could.”
+
+Part of me wanted to roll my eyes, but I’d done enough of that already. These two Spirit Beasts seemed rather stupid.
+
+Although they took the appearance of humans, and I wasn’t sure what skills they used, there was no way they had a high intelligence stat.
+
+Speaking of that, part of me just wanted to tell them to get more stats, but given the fact that Yo Na didn’t know what those were, what hope did I have in them knowing that?
+
+“Why should I tell you?”
+
+“Well, uhm… Why should she tell us?”
+
+“Because we are fellow disciples, right?”
+
+“Right.”
+
+I let out an exasperated sigh. “Here’s a tip: don’t ask what secrets your enemies have from now on. It was a pleasure talking to you both, but please leave.”
+
+That was about as polite as I could be. I couldn’t believe these two!
+
+Well, at the very least they left without any fighting, though they looked disgruntled.
+
+Now I knew not to ask them about any sort of Spirit Beast organisations. They were about as bright as the twilight sky.
+
+The servant came back soon after they’d left with a kettle of tea and three cups. The fragrance was amazing, and it was clearly some expensive type of plant. It seemed to be a mix, actually, and I was quite impressed with the service the Reaper Sect provided.
+
+Treasured foods and now spiritual tea. Surely they must be throwing their wealth around as a show of force.
+
+Either way, I wasn’t going to refuse some good tea, and the boy hadn’t asked where the ‘guests’ had gone, which was nice.
+
+I liked people who weren’t noisy. At the same time, I felt a little pity for him, but the cultivation world was cruel, and such were its rules, unfortunately.
+
+I sat down and took a sip, feeling the refreshing aroma and Qi flowing through my body. Letting out a satisfied sigh, I put the cup down and closed my eyes to meditate.
+
+I wasn’t doing anything special, honestly, just putting my thoughts together. There were manythings too think about and very few ways to achieve my current goals.
+
+For the moment, I could only do my best to get to the Foundation Establishment stage and ask about what sort of organisations were in the direction the mother pointed me to.
+
+The Qilin man would have known something, but it didn’t feel appropriate to ask anything when Meng Mao was there.
+
+Aside from him, I could think about the very intelligently institutionalised ‘The North’ and the Tiger’s Spirit Alliance that arrogant guy talked about.
+
+They were my only two sources for Spirit Beast related activites, sadly. Maybe there would be some other hints if I went higher up the river, but that wasn’t something I wanted to do.
+
+It was clear that the sects here were only the bottom of the barrel, as this was only where the main rivers split into smaller rivers.
+
+But aside from those, wouldn’t there be more powerful, bigger sects up the river?
+
+Logic seemed to dictate it.
+
+But I couldn’t help but wonder where exactly the sect of that Nascent Soul bastard was. I knew it was called ‘Phoenix Ascension ’, which was a name that not only made my blood boil, but also made me feel insulted. Nothing these bastards did was worthy of the recognition of a Phoenix.
+
+I was going to give them their comeuppance, his sect, and everyone else that was involved in the murder of my mother.
+
+◈◈◈
+
+The night passed by uneventfully. I didn’t sleep, but I had plenty to think about. When the sun rose, I got up, the servants having changed during the night.
+
+They were at the Qi Condensation stage, but were still too weak to stay up too late without sleeping. Only people who broke past their limitations and could repair their organs with Qi at this stage could ever dream of doing what I did.
+
+As a result, I was sure that most of my so called competitiors had slept as well. They were talented, that much was for sure, but not enough to reach my level quite yet.
+
+I’d exited my house, as did the others at nearly the same time as me. A bell rang a total of twelve times loudly, waking up anyone who hadn’t yet.
+
+The eighteen of us were waiting in front of the door, but we didn’t have to sit still for too long.
+
+The patriarch flew in accompanied by the elders. Meng Mao looked just as miserable as before, but the expression on his face was somewhat lighter. He and the others must have had a fruitful night of conversation.
+
+Although maybe if we were actually related, he would have been more belated at this. Unfortunately for him, we weren’t.
+
+When the patriarch landed, he waited for a second or two, then his voice boomed through the air. He’d returned to the serene man he was when I’d first seen him.
+
+“Disciples, I hope all of you have had a good rest, as the next few days will decide whether or not your fates will be better than originally predicted. To enter the Four Corner Sword Realm is a privilege and opportunity few get to experience in their lifetime. We have already prepared everything in the outer sect area. Please, follow me.”
+
+We did as he requested, of course, though much slower. I couldn’t fly using only Qi, and neither could the others.
+
+Thankfully, the elders got tired,d and they basically forced us to fly, as they used their Qi to help us levitate and dragged us along.
+
+Meng Mao wasn’t as keen on doing that, but he had to follow what everyone else was doing.
+
+Soon, we reached the arena. Nothing much changed about it, but the surroundings did.
+
+For some reason, the sect added extra front row seats, food stands, and a betting area…
+
+Where we were seriously treated as mere entertainment? Did these old farts have nothing better to do?
+
+We were placed down somewhere in front of the arena, and people started filling the audience seats slowly but surely.
+
+They were seriously there to watch us…
+
+Most of them were at the Foundation Establishment stage, but I did see some at the Core Formation stage. There were scarcely any people at the Qi Condensation stage, probably because they were busy being poor.
+
+I didn’t really need money, so I wasn’t going to bother betting on myself. Though you never knew if I needed more resources later. Maybe it would be wise to ask Meng Mao to bet on me…
+
+Anyway, as the stands filled, the patriarch stood in front of us, arms behind his back.
+
+“The tournament will begin in one hour! The rules are as such: Single elimination; if you lose, you’re out! The top twelve will qualify, and the subsequent ranking will decide the order that you will enter the secret realm.
+
+“Since there are eighteen of you, we will have two preliminary matches. All of you will be assigned a number at random, a number that you will pull from.”
+
+As he said that, an old lady walked out, holding eighteen sticks upside down. When I’d tried to pry, I found myself unable to see what was written on those sticks.
+
+Smart. They knew people would try to cheat.
+
+“Please make your way to the sect elder and pull a stick.” Peng Long said, and we did as he’d requested. Not like we had any other choice in the matter.
+
+“Don’t reveal your number to anyone, unless you want your opponent to prepare for you ahead of time, of course.” He snickered as if it was funny. Maybe he’d found it funny.
+
+After we dispersed, I turned over my stick and saw the number on it.
+
+Eighteen.
+
+Was I lucky or unlucky? That meant that I was part of the preliminaries.
+
+I wasn’t sure if I should be disappointed or excited. I was wondering who my opponent was.
+
+There was… anticipation.
+
+It’d been a while since I had that feeling toward a fight in a tournament. I’d gone to many, but I was usually the weaker one there. Now, with such high stats and such a large arsenal of skills and techniques…
+
+Limiting myself to lightning was a good idea. I wanted to feel some sort of excitement, even if they were all rather weak.
+
+I put the stick away and closed my eyes, waiting for the hour to pass.
+
+When it was finally time for the tournament to start, the patriarch was very happy to announce it.
+
+The elders had gone into the front row stands, and I already saw the man in charge of the betting tab with a wide grin on his face.
+
+I didn’t pay much attention, but a lot of people had already placed their bets, which was… stupid. But at the very least it was only the first elimination round.
+
+How much did you bet on me? I contacted Meng Mao, curious to see what he’d done.
+
+“One hundred and twenty Middle Grade Spirit Stones.”
+
+So few? You think so little of me?
+
+“It’s not a few; it’s a considerable amount of money, and I hadn’t brought many funds with me.”
+
+Why are you so poor…
+
+“Hey! You ought to be a little respectful based on what you’ve made me go through.”
+
+Hmph! What are the odds?
+
+“Fifty to one.”
+
+For…
+
+“Against you.”
+
+What?!
+
+I could not believe that! How could the odds be so unfaithful? Did they not see that I broke the stone stele when nobody else did?! I-
+
+“Information didn’t spread. Only the Reaper Sect clan members were here, but I am pretty sure once the first round is over the odds will change.”
+
+So that means you have to bet as much as you can now, right?
+
+“Pretty much.”
+
+Put one hundred Top Grade Spirit Stones on me.
+
+“I don’t have that much…”
+
+I do.
+
+There was some silence for a while, then I heard his disgruntled thoughts in my head.
+
+“Alright… I will.”
+
+Thank you. Don’t worry, I won’t forget what you’ve done for me.
+
+With that, I cut communication and focused on the tournament at hand.
+
+Now the question was, would I be in the first preliminary, or the second?
+
+“Number fifteen, Li Li, please make your way into the arena!”
+
+The woman named Li Li walked forward and stepped inside, waiting for the patriarch to announce the next number.
+
+“Number eighteen, Fa Xiaolan, please make your way into the arena!”
+
+Well, there was my answer. The first match, and I was against… Someone fromt he reaper sect, as it turned out.
+
+When I stepped forward, I’d noticed Meng Mao placing more bets at the stand, writing out a promissory note.
+
+Smiling to myself, I turned my attention toward my opponent.
+
+She was an average-sized girl with black hair tied into a ponytail and was holding a pair of daggers at her waist. Her black hanfu matched well with her overall appearance, and despite her frail stature, her eyes were burning with decisiveness.
+
+I swished my sleeve and called out my sword of choice: The Elemental Sword.
+
+It was a stupid name, but it worked. And Blade of the Elements wasn’t better as a name either. I couldn’t use that one, though, since I could hardly control it.
+
+Infusing lightning Qi into it, the blade crackled with hunger.

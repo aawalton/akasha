@@ -1,0 +1,523 @@
+---
+id: 10136441-bb6d-5efb-8b3d-c3f0b85d17f5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 130: Of Departures, Sandwiches, and Emotional Damage!"
+slug: 0132-chapter-130-of-departures-sandwiches-and-emotional
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 132
+ownLength: 2521
+unit: words
+publishedAt: 2026-06-09
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3515714/chapter-130-of-departures-sandwiches-and-emotional"
+royalRoadId: "3515714"
+---
+
+PoV Luna
+
+Leaving town took furever!
+
+Everybody was actually moving around quite efficiently, which Luna appreciated greatly.
+
+But humans kept stopping them!
+
+Word got out that they were leaving, and suddenly everybody had something to tell Luna, or her packfriends!
+
+Which was all kinds of nice – it meant pack was important!
+
+Full of Apex Predators ready to lead the other humans to greatness!
+
+Luna approved of this!
+
+Luna’s tail swished with very proper pride as they moved onward one interruption at a time. The human nest recognizing their awoomazing selves!
+
+Naturally, the attention belonged to the whole pack.
+
+Luna was simply generous enough to accept plenty of it too!
+
+And then–
+
+Grevan intercepted them halfway toward the Guild with terrifying speed for a man built almost entirely out of grill smoke and meat philosophy.
+
+“There you lot are! Here, take it!”
+
+Nobody managed to protest before skewers got shoved directly into everybody’s hands. Perfectly cooked meat still hissed faintly from the heat while rich spice flooded the air around them.
+
+Luna nearly cried from happiness!
+
+“Mister Grevan!”
+
+“And one more thing before you lot wander off and get yourselves eaten!”
+
+“Eat properly!” the cook barked while pointing a skewer accusingly at the entire group. “And you–” he pointed directly at Luna now, “–try not to terrify every settlement between here and wherever in the abyss you’re headed.”
+
+“No promises!”
+
+“Figured.”
+
+Ehehe!
+
+“Hmph! Stay safe!”
+
+Then, just like that, he waved once and marched away before anybody could properly respond, already yelling at some poor customer about sauce combinations.
+
+Luna watched him go while chewing reverently.
+
+“Mister Grevan remains awoomazing!”
+
+“Undeniably,” Ray admitted around his own skewer.
+
+***
+
+The Guild itself buzzed with morning activity once they finally arrived. Adventurers moved around carrying requests and equipment while guild staff did their best to keep that highly spirited mob orderly.
+
+Boots on wood. Papers moving. People pretending not to listen while very much listening. Ferric’s voice carried from the front counter, steady and official, while Syl and the others handled the last boring pieces of leaving.
+
+Luna dutifully lasted almost three whole breaths!
+
+Then her nose found better things to focus on.
+
+Guildmaster Ferric smelled like ink, leather, old wood, and responsibility.
+
+Very guildmastery!
+
+The Proper Human Team smelled like training sweat, polished gear, and humans who had tried very hard to become useful.
+
+Good for them!
+
+And–
+
+Luna could smell something awoomazing too!
+
+Bread, meat.
+
+And the familiar careful layering of tasty things wrapped up tight.
+
+Luna’s ears shot straight up.
+
+Sandwich Friend!
+
+More important goodbye business had revealed itself.
+
+While her pack stayed trapped in final counter-words, Luna slipped away with great purpose, tail already wagging. The Guild could keep its papers, and the road could wait one tiny moment longer.
+
+Food friends came first!
+
+Luna followed her nose and found Derek standing near the entrance with a wrapped bundle tucked beneath one arm.
+
+Her ears shot up, and her tail wags picked up even more speed.
+
+“Mister Sandwich Guard!”
+
+Derek’s genuine smile greeted her.
+
+“Thought you might need something for the road,” he said, offering the bundle. “And I tried adding something new this time.”
+
+He winked, and Luna accepted the bundle reverently with both hands, already sniffing.
+
+Warm bread. Good crust. Smoked meat stacked thick, with crisp greens tucked under it and a sharp little bite of pickled something hiding near the edge.
+
+Good smells! Strong smells.
+
+But underneath all of it–
+
+Luna’s nose twitched.
+
+She could smell something soft. Rich. Eggy!
+
+Her eyes widened.
+
+“Oh!”
+
+Derek’s smile deepened.
+
+“A little extra surprise,” he said. “Egg spread in the middle. Holds the meat together, keeps the bread from getting sad, and gives the whole thing a bit more body.”
+
+Luna stared at him.
+
+Then at the sandwich.
+
+Then back at him.
+
+“Mister Sandwich Guard,” she whispered, solemn with awe, “is genius.”
+
+Derek cleared his throat, looking a little embarrassed.
+
+“Well. I wouldn’t say genius.”
+
+“But Luna would!”
+
+That settled it, obviously!
+
+Important cultural exchange secured, Luna gave her sandwich friend a hug, said her thanks – Second said thanks important business stuff, and Luna agreed! – and goodbyes.
+
+Then another scent caught her attention nearby.
+
+Mister Bull was here!
+
+But the scent was weird!
+
+The man was… very happy?
+
+Her ears snapped toward the far side of the Guild hall, her eyes finding him a moment later.
+
+“Mister Bull!”
+
+The huge beastkin turned just in time for Luna to launch herself at him at the near-speed of zoom!
+
+She hit with a satisfying pompf.
+
+And, just as properly, Mister Bull caught her before she bounced off.
+
+“Gahaha! Power Fluff Girl!” he boomed, lifting her clear off the floor for one triumphant moment. “Still charging like a battlefield hazard, I see!”
+
+“Luna improved!” she declared proudly.
+
+“I can tell!”
+
+He set her down, then immediately planted his feet wide, chest out, arms flexed in a pose of great and obvious importance.
+
+“Look at you! Stronger stance. Better balance. And more presence too!”
+
+Luna gasped and copied him at once.
+
+Chest out, feet planted. Tail held with extreme discipline.
+
+Mostly!
+
+Mister Bull nodded with deep approval.
+
+“Excellent! Very heroic. Needs only a little more shoulder.”
+
+He reached down, adjusted her pose with one enormous hand, then ruffled her hair hard enough to make her ears wobble.
+
+Luna beamed.
+
+Mister Bull was still Mister Bull!
+
+Then her nose twitched again.
+
+Because the happy smell she felt before was not only his.
+
+Someone stood beside him, smiling warmly, one hand resting against his arm as if she had been watching the whole thing with great amusement.
+
+Luna blinked.
+
+Her gaze moved from Mister Bull.
+
+To the woman.
+
+Then back to Mister Bull.
+
+Oh.
+
+Ohhh!
+
+Mister Bull’s grin somehow grew even larger.
+
+“Ah! Right!” He threw one arm around the woman’s shoulders with enough pride to shake the air. “Luna, this lovely lady here is Flora!”
+
+Flora laughed softly and gave Luna a small wave.
+
+“I’m glad to finally meet you properly.”
+
+Mister Bull puffed up like he had personally conquered a mountain.
+
+“She’s the one who helped heal you up after that whole tower mess!”
+
+Luna’s ears perked. Important healer!
+
+Flora smiled warmly before kneeling slightly to Luna’s height. Her hands smelled faintly of herbs, medicine, and lingering exhaustion beneath cleaner soap scents.
+
+But Luna could tell she was also happy, very happy!
+
+“Miss Flora,” Luna said solemnly, “thank you for saving Luna!”
+
+Flora’s smile brightened.
+
+“You’re welcome, pumpkin. I’m glad to see you’re already up and about,” Flora said gently before ruffling Luna’s hair.
+
+Ehehe!
+
+The pats were nice!
+
+Mister Bull looked moments from bursting.
+
+“And,” he added, voice dropping into the least subtle whisper Luna had ever heard, “she agreed to be my girlfriend!”
+
+From nearby, Mister Fox groaned into one hand.
+
+“…He has been telling everybody.”
+
+“If I may,” Flora said while laughing softly, “I actually find that rather endearing.”
+
+Mister Bull then pointed proudly at him.
+
+“And I will continue! Until everybody knows!”
+
+Flora laughed again, cheeks a little warm, but her scent stayed happy.
+
+Luna’s eyes widened.
+
+Then sparkled!
+
+“Mister Bull found mate!”
+
+“Damn right I did!”
+
+Luna turned to Flora with immediate conviction.
+
+“Miss Flora has great tastes! Mister Bull is bestest!”
+
+The man’s booming laughter shook the floorboards.
+
+Then one massive arm scooped Flora upward while the other grabbed Luna around the middle before either of them could prepare properly.
+
+Suddenly Luna found herself hoisted high into the air beside a squealing Flora clinging tightly onto Mister Bull’s shoulder.
+
+“Hehehehehe!”
+
+“W-Wait–!”
+
+Flora dissolved into helpless laughter while Luna cheered loud enough for half the Guild hall to turn toward them.
+
+“Mister Bull found mate!” Luna cheered again.
+
+“And she’s beautiful!” he declared.
+
+“And good healer!”
+
+“And good healer!”
+
+“And has great tastes!”
+
+“Gahaha! That too!”
+
+Mister Fox covered his face with one hand, spiritually defeated.
+
+But Flora was laughing too hard to rescue him.
+
+Behind Luna, her own pack openly failed at maintaining composure.
+
+Trianna nearly folded against Ray laughing, and even Sepio looked dangerously close to grinning outright. Veric watched the whole disaster with calm acceptance, while Syliana simply shook her head beside Ferric, amusement softening her expression.
+
+Guildmaster Ferric snorted quietly into his beard.
+
+“Your group certainly leaves impressions behind.”
+
+“That’s one way to describe it,” Ray muttered.
+
+Mister Bull finally set both Luna and Flora safely back onto the floor. Flora was still laughing while smoothing her slightly disheveled hair, and Luna looked between them once more with a deeply satisfied nod.
+
+Happy Mister Bull. Happy Miss Flora.
+
+It was good!
+
+Human mating rituals remained strange, but Luna approved of this one very much.
+
+***
+
+Eventually, even goodbye time ended.
+
+Luna considered that rather rude. There were still hugs to give, snacks to secure, and at least three important sandwich questions Mister Sandwich Guard had not yet answered properly. But the pack had started moving again, bags secured and preparations complete, which meant the Important Leaving Town Quest had truly begun.
+
+So Luna made one final round anyway!
+
+Fast.
+
+Luna fast!
+
+She crashed into Mister Bull’s side first, because his happiness remained impossible to ignore.
+
+“Bye Mister Bull! Bye Miss Flora!”
+
+“Take care of yourself, little wolf,” Flora said, steadying herself against the enormous warrior.
+
+“Bring back good stories!” Mister Bull boomed.
+
+“Yip-yep!”
+
+Then Luna darted onward.
+
+Dorian received a solemn nod for surviving Mister Bull’s relationship enthusiasm.
+
+“Stay strong, Mister Fox!”
+
+“…Thank you,” he answered weakly.
+
+While Derek received a far more serious look.
+
+“Mister Derek, Luna will bring back lots of ingredients! So do not let sandwich technologies stagnate!”
+
+“I’ll certainly do my sandwich best!” he gave her an exaggerated bow.
+
+Hehe, yesh!
+
+Grevan had already returned to his stall, which saddened Luna deeply for almost four whole seconds before she remembered the emergency skewers inside her Maw.
+
+Mhm!
+
+Ferric was last. The Guildmaster rested one large hand atop her head when she bounded over, his voice rough but warm.
+
+“You’ve caused quite the stir around town, Luna.”
+
+Luna puffed proudly.
+
+“Yes!”
+
+Ferric laughed under his breath.
+
+“I noticed.” His expression softened beneath the beard. “Try not to die out there.”
+
+Luna blinked once.
+
+Then nodded with absolute confidence.
+
+“Luna won’t! And will keep pack safe too!”
+
+Ferric’s gaze shifted briefly toward the others before he stepped aside.
+
+Finally, Luna sprinted back to her own group and they set off towards the gates. She watched them do the final checks on all their human gear and stuff.
+
+And then they were there, and ready to go!
+
+The gates stood open ahead.
+
+Beyond them waited roads, forests, mountains, ruins, monsters, cities, food, shinies, mysteries, bitable goodies, hunts, and everything Luna had not yet sniffed, climbed, bitten, explored, or accidentally terrorized.
+
+Her tail wagged harder with every breath.
+
+Ever since she had stood atop the walls with Trianna and seen the world stretching outward beyond the town, something restless had been scratching inside her chest. Like the moment before a hunt. Before a sprint. Before shadows gathered under her paws and the world became motion.
+
+The world was big!
+
+Bigger than forests and towns and ant nests and towers.
+
+And now Luna finally got to go see another part of it!
+
+She threw both arms toward the road.
+
+“Time for Luna to explore the world!”
+
+Several nearby passersby turned to stare, while her pack just chuckled and shook their heads.
+
+Syliana stepped forward first, and the rest followed naturally after. Though Luna lasted exactly one more heartbeat before exploding ahead at full speed.
+
+“Hehehehehe–!”
+
+“Luna!” Ray shouted. “Wrong direction!”
+
+She skidded across the road, glanced around, pointed the other way, and nodded wisely.
+
+“Oh.”
+
+Then she sprinted off correctly this time.
+
+The pack followed beneath warm morning sunlight while the town slowly shrank behind them.
+
+Ahead waited the world of unknowns and new experiences.
+
+And Luna intended to see all of it.
+
+***
+
+PoV The Duke
+
+Steel whispered through the morning air.
+
+The Duke’s blade moved in smooth silver arcs beneath the overcast sky, each strike flowing seamlessly into the next without wasted motion or visible effort. Wet grass bent beneath his boots while servants stood at careful distance around the stone training yard.
+
+Nobody interrupted the rhythm until the Duke reset his stance.
+
+Only then did the butler beside the yard speak of the recent events. The man listened intently, even as his eyes scrutinized the blade in his hand.
+
+“So, the incompetent Captain died accomplishing nothing.”
+
+The Duke’s sword moved again immediately.
+
+One clean thrust.
+
+The impact landed with a heavy muffled sound.
+
+“As you say, My Lord,” the butler replied calmly. “A wastrel through and through. His ambition got in the way.”
+
+The Duke withdrew the blade in one smooth motion.
+
+Dark fluid dripped slowly from the steel.
+
+“Hmph. No matter.” His next strike came faster. “We will get the Wildling.”
+
+Another impact.
+
+Another muffled groan.
+
+The corrupted prisoner bound upright against the reinforced post jerked weakly beneath chains and leather restraints. Torn cloth still clung to parts of its body beneath layers of blackened flesh and swollen corruption growths. What might once have been a human face twitched unevenly beneath the spreading dark.
+
+The Duke ignored it completely.
+
+More reports followed during each measured pause in the exercise.
+
+“Eastern shipments continue without issue.”
+
+Strike.
+
+“The southern cells remain operational and have managed to secure more artifacts.”
+
+Strike.
+
+“The latest excavation uncovered another Fragment beneath the old cathedral district.”
+
+The Duke’s eyes narrowed slightly at that.
+
+“Intact?”
+
+“Partially.”
+
+A faint smile touched the Duke’s mouth.
+
+“Good.”
+
+The sword continued moving with ruthless elegance.
+
+Fast, and precise.
+
+Each motion carried the weight of long mastery sharpened further by unnatural strength hidden beneath the man’s pale flesh and immaculate posture.
+
+The corrupted prisoner barely reacted anymore whenever steel pierced through it.
+
+And the Duke finally lowered the blade after the next sequence ended.
+
+Rain clouds drifted slowly overhead while servants remained perfectly motionless around the edges of the stone grounds.
+
+The Duke raised one white-gloved hand slightly. A hint enough for the butler to step forward immediately and remove the glove with practiced care.
+
+Pale fingers flexed once.
+
+Then the Duke drove his bare hand directly into the bound creature’s chest.
+
+The ruined prisoner convulsed violently against the restraints.
+
+A wet choking noise tore from its ruined throat as black Corruption surged wildly beneath split flesh and swollen veins–
+
+Then it reversed direction.
+
+The rotting darkness flooded upward through the Duke’s arm instead.
+
+The creature collapsed inward rapidly as the Corruption drained from it, flesh shriveling visibly against bone while the Duke stood completely still beside the post.
+
+Veins bulged briefly beneath the skin of his arm and throat, before calming once more.
+
+Darkness flickered across the sclera of his eyes.
+
+Then the training yard fell silent again.
+
+The husk of the corpse dropped apart in rotten scraps against the stones.
+
+The Duke slowly flexed his pristine fingers once more, before the butler returned the glove without needing instruction.
+
+A faint smile spread across the nobleman’s face.
+
+Yes.
+
+The Captain may have failed.
+
+But that meant little for their other plans.

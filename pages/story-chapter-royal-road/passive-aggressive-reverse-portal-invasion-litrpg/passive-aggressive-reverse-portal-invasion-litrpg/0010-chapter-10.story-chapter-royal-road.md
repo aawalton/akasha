@@ -1,0 +1,99 @@
+---
+id: 3ee61592-f2fb-52c6-a959-22e8ed2c673d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10"
+slug: 0010-chapter-10
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 10
+ownLength: 1997
+unit: words
+publishedAt: 2026-05-30
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3468827/chapter-10"
+royalRoadId: "3468827"
+---
+
+I slept like a log. Better than I’d expected from the rough cot that was basically a sleeping pallet directly on the ground, next to dozens of others.
+
+In the morning, they made porridge. At least it looked like porridge. It was also bland and tasteless, like porridge, but at least it was hot, and the red berries they gave us to sprinkle on top added a bit of tartness to the mix.
+
+Then I went to see Major Pain and get introduced to my fellow comrades. That part, I really wasn’t looking forward to. I didn’t get on with people at the best of times, and now I’d have to get along with a whole group of them?
+
+Turns out, I was the last one to arrive of our group. Yet another group was just leaving as I got to the scene.
+
+Major Pain sat in his old folding chair, and waved at me to approach. There were four others waiting for me there, all of them colour-coordinated with the same newcomer garb that I wore. They stood in two pairs, either consisting of a man and a woman who stood like they knew each other.
+
+“That’s the lot of y’all here. Now. Y’all are all Level 0, all fresh-faced and all about to go on your first excursion. I’ll let you ask any questions, and then y’all can go grab some gear, take off and get yourself killed.” He beamed at all of us.
+
+“Wait, what?” I burst out. “You’re not planning, to, like, give us a crash course of the surroundings or something?”
+
+He snorted. “This ain’t the military, boyo. Y’all can grab a map with the pack, but that’s all. If I had to plan the day for all y’all, I’d never get a lick of work done.”
+
+“But all you’re doing is sitting here and harassing people with terrible humour?”
+
+“Mm-hm. And you’re cutting into my precious time to do so.” He clapped his hand. “Questions! Don’t waste my time with questions about strategies and talents and stuff. I did the hard work and found a group that’ll work. Now, y’all gotta learn how to make it stick.” He snapped his fingers. “Oh, and before you ask. You ain’t getting a Collector for the team. We only send Collectors out with teams who’ve proved themselves. You’re getting a handcart. That’s how y’all’ll be dragging any loot back to camp.”
+
+I blinked. The others looked equally taken aback at the fact that we were too likely to die to be joined by a collector.
+
+One of us didn’t care. “Which areas out there are instantly lethal for low-level people like us?” If the accent in the crisp, business-like voice hadn’t instantly given away that the speaker was Italian, his looks did. He was middle-aged, short and slender, but carried himself with the confidence of a king. His dark, wavy hair sat in artful curls that should not be possible without a lot of time before a mirror. Strangely, he kept his eyes closed as he spoke.
+
+“That’ll be on the maps, if y’all’re lucky.”
+
+“How do we go about getting better equipment than what we are granted to begin with?” He shot back.
+
+“Chat to a Crafter. But y’all’ll need some loot to trade for.” Major Pain snorted and continued. “Before y’ask. The same goes for food, sleeping gear, armaments and, let’s face it, anything at all.”
+
+The Italian bowed his head in assent and stayed quiet, seemingly satisfied with the non-answers.
+
+Now, the woman from the other pair spoke up. She… was something else. She was a short – tiny, really – woman, mid-twenties, perhaps, with a spiky pixie cut in ultramarine. She also wore a fiery grin, as if daring the rest of the world to gainsay her. “What about homes? Who do we speak to about building a real home here when we get back?”
+
+That made the Texan laugh. “What? Like, authorities? Build ‘em if ya can. Ain’t like there’s any rangers around her to tell ya off. Just don’t mess up our camp, and try not to piss off somebody high-leveled. Oh. Also, they’re planning a new wall farther out. Ask around.”
+
+I blinked at that. It was a new world, for sure. Everything seemed to be up for grabs, and power was the only real leveller.
+
+Now, the woman next to the Italian took her turn. The only thing I knew for certain was that she wasn’t Italian. Probably Caucasian, except her tanned skin made it hard to tell. She had nondescript features and messy, long, brown hair. Her gaze was alert, though. “What is with that man in the tower? And how did he get up there? There are no stairs.”
+
+Major Pain perked up. “I get to be the one to tell ya? It’s the cap! Captain Gert Neumann of the Ever Steady! As to getting up? Handholds. He’s a nutjob, that man.”
+
+My jaw dropped. “He’s alive? But… what the hell happened to the ship, then? And why didn’t he come back?”
+
+He guffawed. His complaints about being in a hurry went right out the window. “Pay attention, son! What happens when you pass through the portal?” He tapped his forehead. “Every single non-organic material around fades to dust. All of it! Nipple piercing? Poof. Fancy, half-robotic prosthetic? Replaced by a fresh leg. Funny as farts to look at, too!” He grinned and savoured the moment. “Three hundred tonnes worth of container ship and cargo?”
+
+“Holy crap.” I breathed, picturing the image. The huge container ship would sail straight through the portal, delivering every person on the ship to…
+
+“Amen. You’d think a fancy portal like this had failsafes, right? Think again. One second, they were sailing into the unknown, most of ‘em belowdecks. Next, poor fuckers found themselves mid-air, most of ‘em between fifty and a hundred fifty feet in the air.”
+
+“Che cazzo?” The Italian breathed, composure momentarily rattled.
+
+“No clue what ya said mate, but you’re probably right. Poor suckers fell to their deaths. They weren’t nice deaths either. Falling from that height? Ugly. Anyways, the captain should’ve died. He really should, being right up on the bridge. Except, somehow, he managed, with two crushed legs and God knows how many internal injuries, to complete his initiation and pick his quirks.” He grinned. “No legs. Tier 4 negative quirk. Got himself rid of the worst of the internal damage. Then the crafty bastard got himself a Tier 4 self-heal which kept him alive until the next batch of fortune seekers came a-gallivanting through the portal.” He snorted and shook his head in disbelief. “He’s a Crafter. Builder, really. He managed to build his damn bird’s tower hisself, to keep himself safe from the wildlife, while he waited for people to come looking for him. Now, he looks out for the rest of us.” He made a complicated hand gesture at the tall tower.
+
+The five of us shared glances, except for the Italian, who kept up his cool façade.
+
+“Anything else? I’ve got another group of newbies incoming in five, and y’all should stop dragging your heels.”
+
+“Just one question.” I spoke up. “Why the five of us? What’ve we got in common that should have us all group up?”
+
+He showed me his teeth. Beneath the fuzzy moustache, his grin suddenly seemed a lot less kindly than it had at first. “Why? I’ll tell ya why. Because y’all are mind-numbingly, blisteringly insane. Good luck not dying. Y’all’re gonna need it! Now, piss off.”
+
+We didn’t speak for the first couple of minutes. Well, the blue-haired girl kept up an inconstant stream of chatter throughout the walk, with the guy occasionally nodding or responding in short sentences.
+
+Then, we reached the quartermaster of the U-Nerds – a bored gray-haired woman seated under a tarp surrounded by several dozen rough barrels and boxes, filled with items. She seemed to be entirely enthralled carving arrowheads, except when somebody picked something they weren’t allowed to, at which point she’d start yelling.
+
+The rules, it turned out from the shouting, were simple. You could pick whichever combination of items you wanted for defense and offense. Then there was a single rations pack per day, per person. But there was no picking extras ‘just in case’ and if you were an archer, you could only take a single quiver of arrows.
+
+As for me, I rummaged around the barrels for a while, until I found some items that mostly fit my stature and needs. There were a few things to take away there. Clearly, I’d been right about my observation about smithies and Collectors, because there were barely any metal weapons available, and no metal armor whatsoever. Weapons and arrow tips were bone, sporting no carving marks, making me suddenly realize exactly what a ‘bone Crafter’ did. Meanwhile, armor was mostly limited to treated leather and furs.
+
+I mixed and matched, testing the different combinations and possibilities up until I learned a sad detail. There was no such thing as enchanted armor. Not at this point, at least – or maybe simply not for the newbies.
+
+Eventually, I donned a heavy undershirt atop my white garments, followed by a boiled leather plate, with matching arm guards. For my legs, I went with a set of shin guards atop a set of soft leather. I debated for a while whether I should replace the soft leather with boiled leather, but decided to avoid it for the time being. I was used to being able to move my legs fast, and would need time to adjust to the weight and drag of armor.
+
+For my head, I found a thick leather skullcap. It wasn’t going to stop any two-handed swords, but I wasn’t going out there without a helmet. I was ugly enough as it was without disfiguring scars.
+
+Since I was unable to wield weapons for attacking, there’d be no reason for me to pick weapons for their potential damage. Instead, I could focus solely on their potential for parrying and deflecting. At the bottom of a barrel, I located a weapon that nobody has seemed to like, and nabbed it immediately. A swordbreaker! A nice dagger-like creation, like an oversize bowie dagger, except for the barbed, comb-like teeth on one side of the dagger. I figured it might work decently for catching any glancing attacks and activating my Wave of Reflection. The durability of the bone weapon was probably questionable, though.
+
+Then I got to the most important part. The shield. Like everybody else, we were in the dark about the actual level of threat we might face out there. But I did know that if we were up against anything big, I wasn’t going to try to catch any attacks with that bloody swordbreaker or, perish the thought, with my armor. No, for that, I’d need a big-ass shield, something able to withstand a ton of punishment without breaking.
+
+I didn’t get what I wanted. I’d known that straight away. No enchanted stuff, no steel or iron – there weren’t even any signs of banding or other reinforcement methods on the armor. But – I did eventually locate an oval bone shield, that had been covered with boiled leather attached to the surface with some sort of glue. It had a decent heft, but definitely weighed less than an equivalent metal alternative would. Still, once I’d strapped my arm in and grasped the rough bone handle on the inside… it felt good. Solid. And while I might be unable to bash the shield into an enemy’s face, I did feel like I’d be able to stand up to an attack or two.
+
+A brief while later, we’d all gathered our items, and were setting out. In competition with hundreds, thousands of other humans, it was time to go out there and risk our lives for the sake of power.
+
+This was going to be fun!

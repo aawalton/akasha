@@ -1,0 +1,171 @@
+---
+id: 37f34e0b-b16b-5fb1-90b4-8ccba0f50807
+page-type-slug: story-chapter-royal-road
+title: "661. Honored Fairy"
+slug: 0109-661-honored-fairy
+partOf: salvos
+position: 109
+ownLength: 2644
+unit: words
+publishedAt: 2024-03-24
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1566500/661-honored-fairy"
+royalRoadId: "1566500"
+---
+
+661. Honored Fairy
+
+Hartia was never a fan of using his third and final Grand Skill. He had three Grand Skills, which was more than most Primeval Demons and Sacred Spirits ever got. The first was his [Fractal Barrier] which was an incredibly powerful barrier that had no cooldown. Based on its defensive capabilities alone, it barely even qualified as a Grand Skill in the first place, but due to its permanency at protecting him, he could see why it was a Grand Skill.
+
+He had attained it back when he first reached Level 150— it was his first Grand Skill— but it couldn’t even level up unlike his other Grand Skills. Still, it was a useful Grand Skill in the sense that it added to his repertoire and protected him from many near-death situations without making it more difficult for him to evolve at Level 200.
+
+However, his second Grand Skill, while having more utility than his [Fractal Barrier], wasn’t as useful in a battle situation. It was called the [Unseen Collar Of Space], and it was what allowed him to improve Regnorex’s control over the kingdom’s network of summoning collars. Thanks to it, he was able to pretty much instantly kill any Demon with a summoning collar on.
+
+It was incredibly powerful in that sense, which was expected since it was his Class Grand Skill. After all, his Class, [Unseelie Lord], was higher-leveled than his Subspecies of [Fallen Fairy]. Not by much. It wasn’t even a 10 level difference. But still, he quite liked his second Grand Skill. And it was what he used more frequently than anything else.
+
+But Hartia’s last Grand Skill was a Grand Skill he hated using. That was why he rarely ever used it unless his life was truly at risk. It was his [Expanding Domain: The Fall Of The Fairies]. With it, he was able to create not only a massive pocket space he could spatially manipulate with ease, but he was also able to summon every single Fairy he had been responsible for killing in his entire life.
+
+And there were a lot of them. Over ten thousand Fairies emerged from the mountains, bearing the faces of his fallen kin. He recognized them. He saw the way they smiled. He heard the way they laughed. But while they bore a strong resemblance to who they once had been, there was something twisted in the way they behaved.
+
+The way their lips curved up and creased their cheeks; the way they thundered with laughter without any change in inflection; their eyes were nothing but dark pits that carried no light. It was all so unsettling.
+
+Hartia looked away from them as his gaze focused on his enemy. No— it was not just his enemy. It was the Enemy of the Demon King. She was the reason why he had been forced to cast this Grand Skill.
+
+While he hated everything about it, his desire to please Regnorex far outweighed his displeasure. After all, the Demon King was the reason why Hartia even had a purpose left.
+
+And that’s not all— the thought crossed his mind as he eyes Salvos flying away from the swarm of Fairies he created with his mind. She had constantly antagonized him, insisting that he was a Fairy and reminding him of the past he had shed. So that is why I shall make you pay.
+
+He watched as his swarm of Fairies descended upon the Enemy of the Demon King, and a sadistic smile spread across his lips.
+
+“That is why I will make sure you suffer before you die.”
+
+***
+
+The swarm of Fairies converged on me as I sent a plume of my gray flames in every direction. They unleashed their own elemental magic my way, only to be incinerated by my attack. I killed them by the hundreds because they had no fear. And perhaps if the swarm was comprised of only low-leveled Fairies, I wouldn’t have had any trouble dealing with them.
+
+Unfortunately for me, a few of them proved to be far more durable than the rest, which posed a major problem.
+
+A Fairy dressed like a knight cut through my flames and swung a sword straight for my head. I ducked under the slash, then I struck him with a [Divine Strike], followed by a [Barrage Of Cinders]. The first attack sent him flying back, but as he parried the combination of flaming strikes that I threw his way.
+
+“You’re so annoying—”
+
+I gritted my teeth as he dodged a flaming claw, then thrust his blade for my chest. I backed away and avoided the attack. He was able to keep up with me to a certain extent due to his levels. He was Level 161. So he was a Sacred Spirit— a Fairy that reached the same evolution as me. That was why he was so strong unlike the rest of his kin.
+
+But even so, I was still stronger.
+
+I watched as he charged at me with a stab again. I predicted his movements and grabbed him by the hand before his blade could reach me. I tossedhim towards a group of Fairies flying straight at me, then grinned as I saw his body burn with a burning mark.
+
+He tried to reorient himself, but the burning magic flashed. And his figure erupted into a massive explosion that took out all the nearby Fairies close to him.
+
+No notifications came with their deaths. It was like fighting my clones and defeating— there was no reward for winning that battle. But I was certain that Fairy knight perished from my [Divine Demon’s Mark]. And the blast cleared out the rest of the Fairies in the area. So I had a moment to catch my breath… only to be forced to look up in alarm as my [Angelic Premonition] warned me of an attack that was to come.
+
+[Fairy - Lvl. 200]
+
+I cursed when I saw the Level 200 Fairy floating above the clearing smoke. She carried an ornate lance that looked just as ethereal as her own body. Pointing at me, she sneered, and her body crackled with electricity.
+
+“Why are you here?!”
+
+I exclaimed, and my body began to flicker. A powerful blast of lightning shot out straight at me, but I teleported out of the way just in time. When I reappeared, I saw a brilliant flash of light. I looked back with round eyes.
+
+The attack struck a mountain in the distance, blowing a giant hole straight through its center. It didn’t explode out like my [Divine Demon’s Mark]. Instead, the lightning blast continued on into the horizon, dissipating right before it reached the edge of this pocket space.
+
+I cursed as I looked at the damage that was done to the surroundings. Then I looked back up at Hartia, surrounded by an army of Fairies.
+
+“Why are you able to summon a Level 200 Fairy? You’re not Level 200! You’re not even Level 190! This makes no sense!”
+
+He ignored my question, simply taking in my frustrations with glee.
+
+“Oh, you are quite resilient, aren’t you? But that much is to be expected from the Enemy of the Demon King.”
+
+Hartia floated down next to the Level 200 Fairy with a smirk on his face. He didn’t look at her, but without any verbal or visual cues, she raised her lance.
+
+“Certainly, you may be a more capable fighter than me. But you are nothing in the face of the power of an Honored Fairy like Lotus.”
+
+“Lotus? Is that her name?”
+
+I asked with a raised brow. The smile disappeared from his face for a moment, before he nodded.
+
+“That is indeed her name. And rest assured, you stand no chance against her. For she is no mere Sacred Spirit. She is a Supreme Spirit, and she is more than capable of crushing a pest like you.”
+
+And as Hartia finished, her lance flashed with electricity once again. This time, I was prepared for it. I moved to get out of the way, but then space around me began to twist.
+
+I narrowed my eyes. Hartia grinned, pointing at me. My [Angelic Wings] beat against the wind, but I was not moving. I remained in place.
+
+“This is… space magic?”
+
+And it was an overwhelming force of space magic that held me in place. I pushed back against it with my own space magic. I began to move. I budged forward sluggishly. But it was like I was drowning in water. It felt like I could barely breathe.
+
+Lotus unleashed her blast of lightning, and I cursed. I couldn’t even teleport out of the way. In this pocket space, his space magic completely overwhelmed me, crushing any resistance I could offer without difficulty.
+
+The streak of lightning shot out towards me as I winced. But I knew it wasn’t going to kill me. Because—
+
+“Oh?”
+
+Hartia frowned as sparks of embers began to flake off my body right before the attack struck me. I was sent flying back, before crashing into the ground. But even as the world spun around me and my gaze was overcome with a blinding light, I felt no pain.
+
+Because [My Flames Shall Burn Until Eternity Ends] protected me. It was able to even save me from an attack by [The Great Agarus]. So even though Lotus was Level 200, her blast shouldn’t be able to tear through my aura of invulnerability.
+
+The blast of lightning continued to crush me against the earth as I lay there with gritted teeth, before the attack finally dissipated. I picked myself up the moment it was gone, trying to force myself through this force of space magic bearing down on me and limiting my movements. Hartia clicked his tongue at that.
+
+“Your Grand Skill may protect you from Honored Lotus for now. But you must understand, you will die here. Struggle as you wish, it does not matter. For as long as you are in this world, my space magic shall be unparalleled!”
+
+He twisted his hands together like he was crushing a ball, and I felt the force of space magic pressing against my aura of invulnerability. It managed to protect me, but all I could do was stand there and struggle to move. I looked up and focused on him.
+
+I forced a hand forward, pointing at his face. And he burst into flames, lit ablaze by my [Sacred Hellfire].
+
+For a moment, I felt the force of space magic easing off me. Hartia recoiled and screamed. But then, the flames burning him suddenly began to peel off him. It was literally being carried away by his space magic.
+
+“I told you—”
+
+Hartia spoke simply as he glared down at me. I tried to fly up, only to be immediately forced down by a powerful blast of his space magic. I groaned under its weight, and every single Fairy floating in the sky aimed at me.
+
+Lotus began to create a second lance— this one made of lightning.
+
+“In this world, I am a god.”
+
+And all at once, a salvo of magic came raining down at me. Everything from a Level 20 Fairy’s basic fireball that could only blow up a tree to Lotus’s lance of lightning that shredded the entire landscape around me.
+
+As the swarm of Fairies unloaded their attacks at me from a distance, Hartia kept me pinned to the ground, helpless to even fight back. I pushed back against his space magic. I tried to break free. But nothing I did could save me.
+
+just lay there as the onslaught of magical blasts continued to rain down at me, and [My Flames Shall Burn Until Eternity Ends] began to flicker. I didn’t know how much time had passed. I must have lain there for a while. However, I knew the aura of invulnerability was going to come to an end soon.
+
+I needed to do something. I wracked my brain, trying to come up with a way to escape as Hartia cackled wildly in the air. But there was nothing I could do. There was nothing I could fight back with—
+
+No, I steeled myself, calming my breathing. There had to be something I could do. I couldn’t let myself be overwhelmed here. Especially since I knew Haec had a plan to win against Hartia. And I had to play my part and hold off the Ruler of the Border until then.
+
+So I evaluated my situation. I looked up at Hartia and saw the triumphant look on his face. He was right— he was like a god in this world. My space magic was too weak. I couldn’t even move. It certainly wouldn’t help me break free.
+
+There had to be something else. Something in my repertoire that had to be strong enough to tear through space itself. Something that could rip me free from this overwhelming force of space magic. Something that could tear through even this world—
+
+And my eyes flickered when I realized that I had exactly the right Skill for that.
+
+***
+
+Hartia wanted it to end soon. He wanted the Enemy dead already. But she proved to be incredibly resilient, which he should have already known before engaging in this battle. After all, she was able to defy Regnorex himself. She had been able to enrage him on her own.
+
+But still, he wanted this battle to be over so he could leave this pocket space. His heart ached when he even looked in the direction of Lotus, let alone at the thousands of other apparitions of Fairies around him. He didn’t want to use them like this. He didn’t want to force them to fight for him, even after he caused their deaths.
+
+However, he had no other choice. So he continued to crush Salvos under the sheer power of his space magic as his army of apparitions rained down their magic at her. This would have continued until her Grand Skill came to an end. Or at least, that was what he thought. Until—
+
+He frowned as he felt a strange presence enter his pocket space. Immediately, he began to feel sick. He almost felt like puking when he sensed it. He looked down and felt the very fabric of his world being invaded. And then he saw the flakes of iridescent light.
+
+“What is this…?”
+
+His eyes narrowed, and then suddenly, he felt his control over the space around Salvos vanish. Like it was ripped away from him. No— that was what it felt like when he was in a battle of space magic. This felt different. As though his very limbs were severed.
+
+It felt nothing like he had ever felt before.
+
+And all at once, he watched as Salvos exploded into the sky, tearing straight through the volley of attacks coming her way, still protected by her aura of invulnerability, while being coated in something else.
+
+“That is—”
+
+Hartia stared at her with a look of horror in his face. The world around her contorted and bent, threatening to rip apart. A distortion covered her, followed by a cloak of iridescent colors. And behind her, she left a trail of damaged space. All the while, Hartia’s space magic failed to affect her.
+
+“[Protection of the Corruption].”
+
+She whispered as he blinked at that. Laughing, she spread her arms wide and flew straight at the swarm of Fairies. Even as Lotus unleashed another bolt of lighting her way, she didn’t care. Salvos just continued to laugh, and Hartia could only look on as she made an unstoppable approach towards him.
+
+“You may be a god in this world, but I am always a god!”
+
+And after a moment, she added.
+
+"Specifically, a Lesser God! But you get the point!"

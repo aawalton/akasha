@@ -1,0 +1,217 @@
+---
+id: 20726dea-e0cf-5883-8156-c0554a76d60a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17 – Visitors"
+slug: 0017-chapter-17-visitors
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 17
+ownLength: 2261
+unit: words
+publishedAt: 2025-09-03
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2570179/chapter-17-visitors"
+royalRoadId: "2570179"
+---
+
+Liora's first instinct upon seeing the mages climbing, or rather floating, up the mountain was to fly away. Fly as fast and as far away from this place as possible. Clearly, they had somehow managed to track them down and were on their way to get Renir.
+
+But seeing the mages make their way up, without making any detours or looking around, made her realize that she wasn't their goal. After all, who'd search for a magpie in the mountains at night?
+
+What the hell are these guys doing here?
+
+I have no clue, but it can't be good.
+
+Can you get closer to them? Without getting seen?
+
+Liora thought about it for a moment. It should be possible. It was dark, she had Shadow Glide, and these guys didn't look very vigilant. One of them occasionally lifted his staff and waved from one side to the other.
+
+What's he doing?
+
+Either scanning the surroundings for any dangerous monsters or placing a spell to ward off monsters. He is either masking their presence or making the monsters believe that they are not a threat.
+
+Can I even approach without them noticing me? If it's the monster detection spell.
+
+Liora didn't like how she, in a roundabout way, was admitting that she was a monster. But she technically qualified as one, so she should be careful instead of blindly charging ahead and hoping that the spell wouldn't work on her. Even if Liora hated to admit it.
+
+If you fly some 50 meters behind them, you should be fine. Spell's range shouldn't extend that far back.
+
+Liora nodded and began her stealth mission. She didn't even know why she wanted to follow the mages. It'd be much wiser to fly away. But there must be a reason for them coming to this god-forsaken mountain. The townspeople didn't dare to come anywhere near it. Why take the risk?
+
+She followed the mages as quietly as she could. Shadow Glide made her flight nearly soundless. Soon enough, Liora had positioned herself close enough to hear their conversation, but not be detected by their spell.
+
+"Can't believe that we were forced to come up this damned mountain! This is something newbies should be doing, not us!" One of the mages, a middle-aged man by the sound of his voice, complained.
+
+"You know that newbies wouldn't be able to get up here, Walter. Levitation is not a spell newbies can sustain for extended periods. If they can learn it at all," a woman with a husky voice replied.
+
+"Then have them climb. A small workout would do them some good!" The man replied.
+
+"They'd tumble down to their deaths," another man, younger by the sound of his voice, objected.
+
+"Maybe that wouldn't be such a bad thing. Lately, our newbies have been underwhelming. Like those two fools who were sent after the magpie. Not only did they not find it, but they somehow managed to get themselves killed. How?! The strongest monsters in that forest are toads!" Walter scoffed.
+
+"Wasn't it some wandering monster that got them?" The woman asked.
+
+"Yeah, that's what they want us to believe, but it is clear that the standards of this organization are rapidly dropping. It's like we're recruiting everyone these days, and look where that led us! The gem with that damned archmage has been carried away by a magpie to hell knows where!" Walter complained.
+
+"Who cares about that guy anyway? As long as he's out of the picture," the woman said nonchalantly.
+
+"He's a danger to our mission, Beatrice. Should he somehow get out—" the young man began, but was interrupted by the woman.
+
+"Get out? Are you kidding me? The mages of the Inner Circle sealed him in. All of them! Each one placed their own ward on the gem. Even if he had somebody willing to help him, it'd be impossible to break them all. But who'd actually want to help him?" She cackled.
+
+"Nah, he's not getting out, Arvid. The seals placed on the gem are watertight. But even so, losing him is still detrimental to our mission. If we had him, then we wouldn't even have to bother climbing this mountain. I still can't believe we have to do such simple grunt work as collecting blightstones."
+
+They're collecting blightstones?
+
+That is concerning… I think this is far enough. Any higher might be too dangerous for you.
+
+Glancing down, Liora saw how she couldn't even properly see the foot of the mountain anymore. Her Night Vision wasn't yet good enough to see so far in the dark. Quite frankly, they had already heard a lot of information.
+
+Yes. I'll retreat for the night. I don't want them to accidentally see me fighting monsters.
+
+Good call.
+
+Renir's inner voice felt somewhat shaken. Liora had many questions on her mind, but in the end, she decided to hold back until later. It likely wasn't pleasant to hear that his seal couldn't be broken even if he had mages helping him. All he had was Liora. As amazing as she was, she knew nothing about magic.
+
+She didn't like to think such heavy thoughts. At the end of the day, as long as Liora could collect more glimmerstones and find more treasure, it was all that mattered to her. Even if Renir would never be a human again, she'd make sure to polish him every day.
+
+In the morning, Liora was once again woken up by the cooing of the pigeons.
+
+Noisy bastards…
+
+She didn't feel like she had slept enough. Maybe it was time to find a new place to sleep at night. Her spider friend was also nowhere to be seen. Pigeons must have gotten on its nerves too.
+
+Liora, are you heading into town now?
+
+Yes. I need some breakfast.
+
+Be careful. Those bastards on the mountain could be in town this morning. Try to stay out of sight.
+
+Liora nodded. Although it was unlikely that they had made it up and down the mountain in that short amount of time she spent sleeping, it didn't hurt to be careful.
+
+When Liora flew into town, she stuck close to the shadows to remain unseen. But the atmosphere was not quite right. While the people of Sunvale were never really cheerful, they weren't quite this gloomy either. They looked as if preparing for some storm that, despite their best efforts, would destroy everything they owned.
+
+See if you can gather some info here.
+
+Liora could feel Renir's anxiety. She didn't understand how. Has placing him in her Inventory connected them in some way? It was an odd feeling, a hint of emotions that were clearly not your own. She didn't like it.
+
+It was for the best to figure out what had happened. For Renir's peace of mind, if not her own.
+
+She landed some distance away from a group of men cutting firewood, hiding in the shadow of a bush.
+
+"Can't believe somebody would actually climb up the Blightpeak," a younger man muttered in disbelief.
+
+"They're mages. For them, a few monsters and some cliffs are nothing. They just wave their fancy spells while regular folk like us have to suffer," another man with a raspy voice said.
+
+"They could use some of their fancy magic to help, instead of demanding us to feed them," the young man said. "Or better yet, why don't they conjure food with their magic?"
+
+"Can't conjure food with magic. It's impossible," the raspy-voiced man explained.
+
+"Then what use is it? Pompous pricks didn't even pay for their meal. I hope that the monsters do them in," the young man snarled.
+
+"Quiet, boy!" The older man who'd been silent until now reprimanded. "Lest you bring more misfortune upon our heads."
+
+"More misfortune? We're already at the bottom of the barrel! How much lower can we sink?" The young man scoffed.
+
+"Don't you two know? It was after mages visited our town for the first time that the Blightpeak appeared," the old man said. "Who is to say that they won't make it worse again?"
+
+"Wait… What do you mean? Wasn't the Blightpeak always there?" The young man asked.
+
+"Aye, but it wasn't always called Blightpeak. Gods, to think that the younger generation doesn't even remember our glory days anymore," the old man sighed.
+
+"I do remember!" The raspy-voiced man objected. "When I was just a boy, this place was filled with lush fields and surrounded by bright, rich forests! Every day I would…"
+
+The men then kept discussing the supposed glory days of Sunvale, reminiscing and hoping that monsters would retreat and crops would improve.
+
+So something happened to this place after some mages visited the Blightpeak.
+
+I knew it was odd. I remember this as a beautiful place. Sure, the mountains were dangerous and filled with monsters, but the valley and town were full of life. Adventurers would often stay in town to rest and head into the mountains to train. But now…
+
+I have one question.
+
+What?
+
+How old are you exactly?
+
+The young man couldn't remember the glory days, and it appeared that only the old man had truly experienced them outside of his childhood. If Renir came here to train in the mountains, then he'd have to be at least a young adult at the time.
+
+What a rude thing to ask a mage?! How insolent!
+
+You just don't want to admit that you're an old man.
+
+I am NOT an old man! How dare you?!
+
+I suppose now you're not. You're just a shiny rock.
+
+Liora cackled and flew off while Renir spouted profanities in her head.
+
+Having found out that disturbing bit of information, Liora decided to visit her favorite humans for breakfast. When she knocked on the window, little Christie instantly lit up and rushed outside.
+
+"Miss Magpie! Have you come for breakfast?" She asked.
+
+"Chak-chak-chak!" Liora confirmed.
+
+"What a smart birdie you are!" Christie said, extending her arm for Liora. She hopped on it without hesitation, letting the girl carry her inside.
+
+"Good morning, Miss Magpie," the mother greeted her, but her voice sounded a bit tense. "It appears you have decided to stay in Sunvale for the time being."
+
+"Things have been getting better lately," Christie nodded eagerly, pouring the seed-grain mix for Liora. Dr. Reius must have left her some. Maybe she should visit the man at some point—she felt a bit bad about eating his food all the time and not even showing herself to him.
+
+"Did you know, Miss Magpie? Yesterday our town got its first visitors in ages! And they were mages!" Christie beamed.
+
+Her mother, on the other hand, didn't look pleased in the slightest. "Christie, you shouldn't talk about Miss Magpie to those mages. It'd be best if you didn't talk to them at all."
+
+"Why not?" The girl asked, watching Liora eat and patting her head feathers. "Miss Magpie is so pretty."
+
+"Mages are… unpredictable. They might want to find Miss Magpie and take her with them," the mother said, clearly struggling to properly convey the danger to the girl.
+
+"Caw!" Liora agreed. "I'd never go with those bastards!"
+
+That woman is sharp. I wonder if they have been asking around for you.
+
+Liora realized that it was a real possibility. Sure, she had lured the hawks in a completely different direction, but after this long, they might have expanded their search.
+
+"You don't like mages?" Christie asked.
+
+"Caw!" Liora said. "Mages are the worst. They bring nothing but trouble!"
+
+Except me.
+
+You're even more trouble than those guys.
+
+Hey, I'm trying to help people, not corrupt monsters like those guys.
+
+Wait… They're the ones who caused the corruption?
+
+Why do you think they stuffed me in a gem? I found out that they were corrupting monsters, and lo and behold, they stuffed me in a gem to stop me from interfering with their plans.
+
+Who are they? Aren't you supposed to be a super powerful archmage or whatever? How did they stuff you in a gem? Why are they corrupting monsters?
+
+One question at a time, please! Your thoughts can be really hard to follow.
+
+Liora would have sighed if she could, but instead continued eating the grains while Christie happily patted her. The girl kept talking to Liora about silly things, and she only half paid attention to them.
+
+Who are these mages that keep chasing us?
+
+No clue. I know there is an organization of sorts, but who are they, and who is pulling the strings—I don't know.
+
+Why are they corrupting the monsters and collecting blightstones?
+
+No idea. I didn't even know they collected blightstones until yesterday.
+
+Liora felt a bit peeved by his answers.
+
+How did they trap you in the gem, Mister All-Powerful Mage?
+
+I got drunk.
+
+Liora had the strongest urge to peck the fool. If Christie and her mother weren't here, that would be exactly what she would have done.
+
+"Did you eat a bad grain, Miss Magpie? Your face looks kinda sour," Christie noted.
+
+No, I'm merely stuck with a stupid mage stuck in a stupid, but incredibly beautiful rock.
+
+Hey!
+
+Liora couldn't help but lament her fate and her thirst for treasure. Was this guy really worth all this trouble? At this point, Liora felt like she had been pulled too deep to just abandon the mystery.
+
+In either case, mages gathering blightstones was bad news. Perhaps, it was necessary to foil their plans, if only a little. Liora already had one blightstone in her possession. Perhaps, she should acquire a few more.

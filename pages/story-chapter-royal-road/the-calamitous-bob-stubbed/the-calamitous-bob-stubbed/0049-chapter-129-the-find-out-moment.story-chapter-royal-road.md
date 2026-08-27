@@ -1,0 +1,403 @@
+---
+id: 167bade3-bf07-5d32-befb-75780818e270
+page-type-slug: story-chapter-royal-road
+title: "Chapter 129: The find out moment"
+slug: 0049-chapter-129-the-find-out-moment
+partOf: the-calamitous-bob-stubbed
+position: 49
+ownLength: 4349
+unit: words
+ownProgress: 4349
+publishedAt: 2023-08-04
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1299634/chapter-129-the-find-out-moment"
+royalRoadId: "1299634"
+markedReadAt: "2026-06-29T21:16:26.023Z"
+---
+
+Sadly for Viv, instant looting didn’t happen since the army pretty much fell where they were, asleep in minutes. She was feeling comparatively fresh since they had gone to great lengths to protect her, so she led Solfis on a hunt for stragglers.
+
+All the undead who could have reached them had done so, but there were a few idiots left in the maze of rooms and suspended bridges of Sinur’s Gate’s many towers. Solfis just grabbed her and carried her up if necessary. Honestly, the golem could have done this himself. Viv just wanted to get a look at the place.
+
+There was a deceptive amount of room in the narrow city, most of it vertical. It would be interesting to see which dwelling people picked. They found some sealed safes and promising chests but left them to scavenging teams. The most notable discovery was the presence of extensive sewers, all the entry grates blocked by dust. Viv’s first order on the way back was: do not unseal the fucking sewers. Nobody objected. In fact, Sidjin had already led the earth shapers to organize the future water purification system using an empty fountain.
+
+“The grate will prevent solids from entering — those can be used as fertilizer. It takes very little mana to keep the flow going for the eight hours required to complete a circle. It will offset the issue of water supply. Namely, you have no water here.”
+
+Viv looked at the construct. It was ready and already working, slowly turning an ungodly sludge into clear water.
+
+“Very impressive. Did you have it ready?”
+
+“Some bastions of the Glastian walls do not have access to freshwater. The college came up with this method. It’s used in most fortresses with casters now.”
+
+“Very impressive,” Viv allowed, admiring the makeshift water purification plant.
+
+Sidjin chuckled. He looked a bit rough around the edges with scruffy hair and deep pockets under his eyes, but his gaze was teasing.
+
+“If I had known of your interest in arcane waste disposal when I was trying to woo you, I could have dazzled you with my conversational skills.”
+
+“Lies. I was the one to woo you.”
+
+//As fascinating as organic mating rituals are, I believe we have a palace to clear.
+
+“Yes yes, let us not forget the treasure!”
+
+Not even the greediest of looters would have volunteered to clear a place trapped to the gills by a notoriously bad-tempered lich, and so it fell to Viv, Sidjin, and Solfis to clear the area. They started with the wings of the palace.
+
+As with most Harrakan structures, few of the furnishings and artifacts had survived the test of time. The pair found cold ovens and deserted halls, all signs that people used to live here. A side door allowed the palace to be resupplied from either side of the fortress, though they were blocked by a significant amount of passive defense.
+
+“Triple helix with a self-feeding reinforcement. It will take some time to pierce through those…Hmm, perhaps by draining that section there?” Sidjin mumbled.
+
+“Yes. Or!” Viv replied.
+
+She had the group backtrack to the lich’s corpse and checked whatever was left from the punishment. She found what she sought stuck to what was left of its toes.
+
+“The key!”
+
+Viv loved how offended Sidjin looked at the pedestrian solution.
+
+“I’ll let you pick at it later if you want, hey? It’s my palace now.”
+
+“Get going…”
+
+The trio found a few custom-made undead, all dormant thankfully. It was only a matter of moments to eliminate them. The lich was unsurprisingly unimaginative with its traps. Most were offensive arrays pointed at the head of those breaching a room. Sometimes, it had added variety by aiming at the crotch. Or maybe it feared children. Who knew? It didn’t take long for them to clear the first floor and determine nothing waited in the extensive cellar. Next came the throne room and the way up. And the books.
+
+//Please do not read the necromancy books, Your Grace.
+
+Viv glared at Solfis by her side.
+
+“Trying to censor me, machine?”
+
+//I know you are tempted to learn, but I fear you may be tempted to experiment.
+
+//Irlefen mentioned that necromancy was accepted and even ritualized in the Shadow Lands.
+
+//Here, it is an immediate death sentence.
+
+“Fine. Oh, I know! We’ll give them to the temple. I bet they love burning those.”
+
+“Yes, they do. You know them well,” Sidjin said.
+
+“Meh, it’s a universal thing, I think. Ah, there are non-necromancy books… and research notes!”
+
+Viv opened an old leather tome decorated with tight yet perfectly legible characters in old Harrakan. A very summary analysis showed that they belonged to the mage who then became a lich — a mage from the south apparently, the wild part of Param.
+
+“He was thorough, hmm.”
+
+Many of the mage’s musings concerned the transfer of his soul and consciousness to an undead vessel, a process he called transference. There were several references to other books, some of which were also in the tiny library. There were primers on souls by people with weird names, translated from a language she’d never seen. It all felt very useful.
+
+“Looks like I could start my research on souls here.”
+
+//If you had ten years, I would have advised you to do so to become part-elemental.
+
+“But I don’t.”
+
+//No.
+
+//You can keep these anyway.
+
+“Yeaaa, thanks.”
+
+After splitting the books into a ‘keep’ pile, a ‘burn in a religious autodafe’ pile, and a ‘history of music and cooking’ pile they were not quite sure what to do with, the trio crossed the trapped and locked door at the back and found stairs leading up.
+
+The stairs were trapped, naturally, but this time there were pits with nasty spikes at the bottom.
+
+//I believe this installation was an original one.
+
+“Who builds stairs with a trap like that? I would sweat every time thinking I’m only a mechanical failure away from sitting on a stake,” Viv said.
+
+“There are always many redundancies to that sort of traps. We can check the mechanism but mostly, they have to be armed and readied first. A failure would mean a failure to activate,” Sidjin explained.
+
+“... you had those at home?”
+
+“Of course. And acid showers. Oh, the containers are kept dry and empty at all times unless we are under siege.”
+
+Viv didn’t know what to say before so much mustache-twirling evil. Though, to be fair, medieval castles had some pretty nasty defenses. She just didn’t like it under her feet at three AM if she went hunting for a cup of warm klod.
+
+The upper floor extended up, but Solfis checked and the palace was deserted past the third floor. There were nothing but empty suites, their shattered windows opened to the deleterious air of the deadlands. Only the third floor was occupied.
+
+“Well, this is it. Check for traps first,” Viv said on the threshold.
+
+The alley behind them was dark, a single window providing very little illumination. They had resorted to magical lights.
+
+The alley had been trapped, of course. There were even spells under the relatively-new carpets.
+
+The entrance to the first suite was stone, the paint faded over delicately engraved birds. It looked both sturdy and beautiful even with the wings corroded and the beaks cracked. The original protections had not survived, but a new, gruesome construct had replaced it. Viv decided here and there it would have to go. Also, it was trapped.
+
+“Allow me,” Sidjin insisted.
+
+With the key, Sidjin patiently dismantled the hostile black construct strand by strand, undoing what must have taken days to set up with the patience and care of a bonsai gardener. Viv wondered why he was so delicate until he started rebuilding the original work. Brown mana breathed life back into the abused carving under the archmage’s patient care. He repaired some of the damage, until the dove-like bird that occupied the most space felt almost alive in her mana sight.
+
+“Touch it, go on,” Sidjin invited with a smile.
+
+Viv caressed the stone back. In a soundless ballet, the birds flew aside to reveal a keyhole.
+
+“Wow. Very nice.”
+
+“Northern work, from before the exile. It’s mostly lost now. The governor must have been a rich and dedicated man.”
+
+“Do we need the key?”
+
+“No, it’s unlocked.”
+
+The pair activated their shields just to be sure, but the gate opened without a sound on what must have been the governor’s personal quarters. Viv couldn’t resist.
+
+“Open sesame.”
+
+From the receiving room to the bath, from wall to wall and from floor to ceiling, the entire surface was crowded with teetering towers of treasures, piles of metal, weapons, enchanted weapons, vases and jewels. The light reflected on dull gold, but also the colorful shimmer of precious stones. Silver was present too, of course. Towards the center, an improvised canopy bed stood surrounded by rows of gold ingots. Arthur was going to blow a fuse.
+
+“This is… so much,” Viv expressed.
+
+//More than the vault should have held.
+
+//I am counting over two thousand five hundred gold talents at first glance, and this is without the rest.
+
+//The lich must have accumulated goods for quite some time.
+
+//I did not expect Sinur’s Gate to have so much wealth left.
+
+“No, it’s not just the city. Look at those weapons. They should have faded.”
+
+Viv pointed at a small pile of mildly enchanted items. There were a few knives with sharp enchantments, but also maces with a brown impact and even an exotic spear with a fire function.
+
+“Those were taken from revenants.”
+
+Sidjin nodded.
+
+“I would have said from caravans, but there are no caravans here or around.”
+
+“And to think I believed us efficient in the way we kill the undead for loot. The lich must have found a way to control revenants into giving it valuables. I wonder how.”
+
+//Perhaps by using cannier specimens.
+
+//Or perhaps he did it himself.
+
+They checked for traps and found none in the vertiginous display of wealth. After making a last check for traps, they brought Lorn and Ban to help plan the transfer.
+
+“The temple will want a small donation,” the tall guard captain said after a small delay.
+
+“Everyone will get a bonus from this operation, and the wealth will be reinvested in the city anyway. That’s not my question.”
+
+“We don’t have the carriage capacity to transport this. We’ll need Farren to come here and inventory the gains before things ‘go missing’.”
+
+“We’ll let Baroness Azar handle it,” Ban said, “with you busy I mean, Your Grace. The old b— that smart woman will know what to do.”
+
+“I’m trusting her with too much stuff…” Viv grumbled.
+
+//Don’t worry.
+
+//I can always find her.
+
+***
+
+Viv’s solution to the treasure and city problem was to close the door and leave no one behind. Leaving a small team in an empty dead city with a treasure vault was ‘huis clos murder mistery trope three’ so Viv just gave up. Let the dead protect the way.
+
+Baroness Azar was waiting for Viv in her tower. She was more than pleased with the news and immediately organized a series of convoys with her heading the first one.
+
+“None of your louts know how to tell glass from ruby. Or a genuine Skand vase from a gilded pisspot! I have stories. And evidence. But I digress, this cash injection comes at a perfect time. Enorian interests are baring themselves to every bank under the sun to fund their reconstruction.”
+
+“I’m not comfortable with investing public funds in foreign land, especially — “
+
+“Kindly do not take me for a complete idiot, young lady. We will, of course, dangle competitive interest rates to all those young, talented entrepreneurs willing to launch themselves now that the country is safer. Harrak, the past and the future. Reclaim your legacy and so on, all that nice hogwash you tell yourself. You can count on me.”
+
+“Good, because I will be… very engaged in the coming months.”
+
+Azar gave Viv a sharp glance from over the documents she was already compiling. Viv felt that she was the one being examined and debriefed, despite her high mental stats. In a way, it was comforting to know Azar was on their side. Her luck really worked overtime attracting overqualified weirdos.
+
+“The war and your transformation?”
+
+“Yes.”
+
+“Your kingdom is too young to be orphaned, darling. Return to us.”
+
+“I promise I will do my best.”
+
+“Oh, by the way, a merchant caravan returned while you were away. They have three inquisitors with them who want to talk to you.”
+
+“Hmm, I wonder what this is about.”
+
+***
+
+Farren headed the small meeting inside of the temple compound at their own request. He seemed embarrassed, and so did Denerim. The old inquisitor brushed his beard sullenly, while his protege Orkan fumed in his seat. The only newcomer was a dour man in an ill-fitting armor that little fitted the image Viv had of inquisitors. He was clean-shaven and rigorously well groomed. He also wore perfume. Viv got the idea this was a trap, somehow. The stranger’s gaze followed her when she entered. It was distinctively calculating.
+
+“Thanks for having us, Viv. I mean, thanks for coming. You know, well you know them, of course, and me. This is High Inquisitor Jaks. He’s sent by Mornyr.”
+
+“Nice to meet you,” Viv replied as neutrally as she could.
+
+“And you too.”
+
+Jaks’ voice was mellifluous and Viv got the impression of a snake through grass.
+
+“I have come here because the Order Master is considering a formal proposal to have Neriad as your Patron God.”
+
+“Ah? This is… unexpected.”
+
+“On the contrary, you have repeatedly shown that you believed in our values without prompt. There would be conditions, of course, such as the requirement not to start a war on a clearly selfish agenda… but I do not believe this will be an issue for you.”
+
+“Indeed not.”
+
+“As for the benefits, they would be many. Mostly, we would significantly increase the temple guard presence around here, and give you access to our services which will include a large hospital, diplomatic benefits, and many others. Do you know that Captain Lorn has declined a change of post? Him and a few other key members of his squad. Let me tell you that this is a rousing endorsement.”
+
+“Then why is everyone looking like they swallowed a pinecone.”
+
+“Ah, well, there is just a small matter to solve first. You see, a bishop of ours disappeared a few months ago. I would just like to ask you a few questions to… make sure nothing is amiss.”
+
+Ah.
+
+She knew this would come back to bite her in the ass soon enough.
+
+***
+
+“Let the trial begin,” Farren said with annoyance. “High Inquisitor Jaks?”
+
+“I will ask the questions. I would like to inform you in advance that I have a skill that detects falsehoods. You may make mistakes, or you may be remembering wrong and that is fine, but if you lie, whether outright or by saying something that could ‘technically be true in a certain light’, I will know and you will be treated accordingly.”
+
+Jaks waited for a reaction. Viv shrugged.
+
+“That’s fair.”
+
+“Did you murder the Bishop?”
+
+“No, I did not murder him. I was with the temple guard at all times.”
+
+“Did you have him murdered?”
+
+“I gave no orders to that effect.”
+
+That was the truth. She had made a suggestion to Solfis, and let the golem decide. She had not ordered anyone to do anything. In fact, she had not even told Solfis to kill him. Solfis could have decided to scare him instead, though that was unlikely. Obviously, Jaks latched on to the peculiar turn of phrase like a pitbull on a marrow bone.
+
+“But did you start a chain of events that eventually led to the bishop’s death.”
+
+“Yes, technically,” Viv admitted, then she continued before the others could throw accusations.
+
+“I did my best to get the temple guard to leave with me, which left him vulnerable. With them, he would have surely reached the yries’ city. There is simply nothing in the upper level of the mines that can contend with the temple guard. So in a way, I am responsible for his death because I took his defenses away.”
+
+The expression of vindictive triumph on Jaks’ face dawned and died in a heartbeat. He stopped, thoughtful for a moment.
+
+“And you insist that beasts killed him?”
+
+“I am certain of it. We found the bodies of two members of his escort. They were eaten on site by rock moles. The wounds were consistent with large teeth and claws. We found the same traces on remnants of the bishop’s robes. He was killed by monsters. For sure.”
+
+“Hmmm, you seem to believe that firmly.”
+
+“I was not present but all evidence points to that.”
+
+“Hmmm.”
+
+“Look, I will not lie when I say his death simplified my life, but I was already on my way out of the city when it happened. I left to Helock literally a few days after.”
+
+Jaks did not give up. He asked a few more questions, trying to catch Viv in a plain lie. One of the methods he employed was to get her to admit she wanted him gone, then work from there to ask her what she had done to ‘get rid’ of him. Viv took her time to answer every question, never losing her temper, never hurrying to defend herself or speaking too much. She kept her replies short and to the point. If she could have, she would have chosen a lawyer to represent her, but that wasn’t the way on Nyil.
+
+Seeing that this wasn’t working, Jaks used another strategy. He used body language to try  and make her relax, see things from her perspective. He only wanted to help her and for her to help him. The assassination was in the past and this was a good opportunity to move forward. She just had to tell him everything she knew.
+
+Viv was aware the good inquisitor was finishing at that point. Once again, she did her best to keep calm and measured every word. It was paramount not to share too much. Eventually, her patience and the calm that came with leadership and high mental stats allowed her to stall long enough for the other two judges to grow annoyed. Even Jaks appeared to give up. At least for now.
+
+“I will be honest, I can tell from the shadow in your soul that you are not telling me everything, but I will try to inspect the scene of the death to see if I can learn more.”
+
+Viv did not react. Inquisitors such as Jaks could learn much from a body or a crime scene. There were even rumors they could see the memories of the dead. Of course, the bishop was long dead and digested by now, and the crime scene had been contaminated beyond salvation, so there was little he could do.
+
+Jaks could also resort to a more violent form of interrogation by using that golden light Viv had seen Denerim wield against Lancer’s agents, before they’d taken Kazar back. She knew he wouldn’t dare use it on her though, not without good reason. It would be a declaration of war.
+
+Jaks was at an impasse. Viv was most likely cleared.
+
+“So for now I will pass the judgment of guiltless, though I reserve the right to reopen the inquiry.”
+
+“Witnessed by me,” Farren said.
+
+“So witnessed,” Denerim added.
+
+There was silence for a few seconds as the atmosphere relaxed. Viv smiled pleasantly.
+
+“Are we officially done then?”
+
+“Yes! Yes, thank you for your time,” Jaks said.
+
+He placed both hands on the table and made to leave.
+
+“If you will allow me a moment, Solfis come here please,” Viv said.
+
+The golem’s familiar, skeletal frame slid silently into the room, its baleful glare settling on the inquisitors. They did not take a step back but hands hovered ever so slightly towards the handles of sheathed blades.
+
+“I had the bishop murdered. We killed him,” Viv stated with a polite smile.
+
+Jaks’ face formed a hilarious ‘o’ of surprise and he froze where he was.
+
+“Sit,” Viv invited, still with the same pleasant smile
+
+They did, all four of them.
+
+“No sophistry. I will not share the details but I did it. I’m guilty. So now listen well, because this is important. The bishop’s intentions were to break the contract between the temple and the yries clan to obtain the entirety of Min Goles’ iron reserves. He made no secret of it.”
+
+She leaned forward over the table, still smiling, fingers intertwined.
+
+“The yries came here with little resources and many died on the way. They have a secluded valley where they can grow crops, but we have run some predictions and they will never have enough to sustain their population. The ground around their city is also ill-suited for mushroom farming. Too dry, you see. They need food from around Kazar and they trade for it with iron. No iron, no food. Lak-Tak already told me in no uncertain terms that they would fight rather than be chased off again and risk losing most of their young. The temple is free to break its contracts if it wishes. I have no say in how you act. I do, however, have a say in how the yries are treated.”
+
+You could hear a pin drop. Both inquisitors and Farren were listening with rapt attention, possibly because Viv felt her leadership skill working. It was the right moment, the right mood. She had them and now she would deliver her message.
+
+“The yries have joined their banner to mine. We are allied. They are part of New Harrak and the vision I have of what this place can become. The same is true of the Hadals, of the Enorian refugees, of your wounded veterans. Everyone here who swore obedience to our rules. They are my people. Your bishop was going to use the power of the temple to evict my people from their home.”
+
+She leaned further.
+
+“They are mine and I protect those who are mine. I will protect everyone here even if I have to kill every last invading motherfucker on this continent. I will honor my word and I will use any means necessary to do so, and if it means I have to pour molten gold down another royal throat, with the gods as my witness, I will. If I have to send Solfis after a high priest, I will. If I have to cross the forest in a tide of blood and ash, I will. Anyone who comes and treats my people like second-class citizens will get my first-class attention. No exceptions. Now, you know what I did and why. You can decide to withdraw your support. I don’t mind. I will never sacrifice one of my factions for a bigger, better one. But I want to make it absolutely clear that I feel no guilt for what I have done, and if I had to do it again, I would, and without a second of hesitation. So a word of warning. If you do decide to come after me for that death… you’d better not miss, because Solfis is always looking for more heads and I have no fucks to give. I hope I’ve made myself perfectly clear, gentlemen. And a good day to you.”
+
+The air smelled of scales and hot breath as she finished. Viv stood and left like a queen, feeling really good about herself. There might be dramatic consequences but for now she was perfectly at peace with herself and that was extremely important.
+
+Draconic Intimidation: Expert 3
+
+“I knew you’d understand, Nous.”
+
+Viv got her answer a few hours later. There would be a large fine to pay from her personal pocket, but they were willing to let it go.
+
+Viv didn’t know what to think about that.
+
+***
+
+As a last touch, the head merchant that came with the inquisitors came to see Viv.
+
+“Your Grace, I have found what you were looking for.”
+
+“You’ll have to be more specific.”
+
+“The flowers. It was hard to find but a collector from Mornyr had them. He was pleased with your initiative to revive the species, and sent more than three times the required number of seeds. Here.”
+
+Viv picked a large pouch and removed a single, light blue seedling from a larger mass.
+
+“Get me one of the earth shapers.”
+
+“Immediately.”
+
+It took five minutes for one of them to fashion a small pot of soil, then to make the plant bloom very quickly. Soon enough, Viv was left with a rose with a dark stem and shockingly blue rose of a hue like pale ice. It was gorgeous.
+
+“Thank you,” Viv told the merchant.
+
+She pocketed the seeds and gave him the four gold talents he’d requested — a fortune for flower seeds — but it was a symbol as well. She found Solfis near her tower. He stared fixedly at the flower in her hands.
+
+//You Grace.
+
+“I found them. Harrakan roses.”
+
+//I see.
+
+With more care than Viv had ever seen from the mechanical being, Solfis picked the pot and caressed the petals, revealing a pale white carpel in its center. He remained silent for a moment, but Viv knew it was an eternity at his speed.
+
+//I thought they were extinct.
+
+“Some herbalists and nobles have kept it alive.”
+
+//And a good thing they have.
+
+//Look at this color.
+
+//No other plant can produce it.
+
+He looked up after a while.
+
+//Those were my master’s favorites.
+
+“I remember. Got a whole bag here. We can seed them again, make sure they thrive.”
+
+//Yes, we will.
+
+//Thank you.
+
+He lifted the pot.
+
+//Welcome home, little one.”

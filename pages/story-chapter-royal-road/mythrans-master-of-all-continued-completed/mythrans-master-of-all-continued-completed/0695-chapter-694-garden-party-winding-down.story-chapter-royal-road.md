@@ -1,0 +1,289 @@
+---
+id: 74bfaae2-dc7d-53f7-962b-25a7ae1a1153
+page-type-slug: story-chapter-royal-road
+title: "Chapter 694 - Garden Party Winding Down"
+slug: 0695-chapter-694-garden-party-winding-down
+partOf: mythrans-master-of-all-continued-completed
+position: 695
+ownLength: 2967
+unit: words
+publishedAt: 2018-09-08
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/288573/chapter-694-garden-party-winding-down"
+royalRoadId: "288573"
+---
+
+Denise, Elise, and Ren cleaned up, put their clothes back in order, then went back out to the garden party. They had been gone for nearly half an hour and the party had moved back over to the games section.
+
+“There you are.” Barbi said. “That was quite the bathroom break.”
+
+“Dammit, I forgot to use the bathroom!” Ren said, and she laughed.
+
+“Such a joker!” Barbi said and pointed. “Everyone's spread out and trying the different games.”
+
+“I'll stay on the sidelines this time.” Ren said, without correcting her misunderstanding. “I've had my required exercise for the day.”
+
+Barbi smiled. “Yes, you shouldn't push yourself too much.” She said. “I believe your previous table is still available to be used.”
+
+Ren glanced over at the table that he, Dana, and Gretchen had sat at while everyone else watched the illusionist show. “That should give me the best view of all the fun.”
+
+“We're serving cake and ice cream in about an hour, then the party will be over.” Barbi said. “I was tempted to have a receiving line as everyone left, just so they could all meet you personally; but, I was vetoed by the boss.”
+
+“Barbara does have my best interest at heart.” Ren said.
+
+“How did you know that's who I was referring to?” Barbi asked.
+
+“She's standing right behind you with a glare that could kill.” Ren smiled and pointed, and Barbi turned to see the glare in question.
+
+“I wasn't trying to pester him into doing it, I swear!” Barbi said as she held up her hands in surrender to Barbara. “If I was going to ask him by doing an end run around you, I wouldn't have asked you first.”
+
+“Okay, then.” Barbara said and her face changed from the killing glare to a welcoming smile. “I'm glad we have an understanding.”
+
+Elise chuckled. “Now you can see why I always run things by them first, Barbi.” She said and Barbi nodded, then they brought Ren over to the 4 seat table.
+
+“You girls go on and have fun.” Ren said and waved them towards the people playing games.
+
+“I'm not leaving you here without someone to-” Denise stopped talking and smiled as Lisa caught sight of them, abandoned the bean bag toss game, and ran over to them. “Never mind.”
+
+“How are you feeling?” Lisa asked Ren.
+
+“Pretty good. Elise and Denise helped take care of-mhm mmm.” Ren mumbled when Denise covered his mouth.
+
+“I get the idea.” Lisa chuckled. “I'll stay here with him.”
+
+“Thanks.” Denise said. “I need to crush that ring toss game before they pack it up.”
+
+Elise chuckled. “Don't strain yourself.”
+
+“Why not?” Denise asked.
+
+“I didn't rent everything.” Barbi said and smiled. “I actually bought all the games.”
+
+“We can play topple tower whenever we want?” Ren asked, and she nodded. “Awesome.”
+
+“I thought you'd like that.” Barbi said and motioned to the nearby crowd. “Ladies, shall we?”
+
+Elise, Barbara, Denise, and Barbi left Ren and Lisa at the table to go and have fun playing the various games that were available.
+
+“So, how bad was it?” Lisa asked Ren as she leaned in close.
+
+“It just started to hurt after I finished eating.” Ren said, and Lisa sighed.
+
+“Ren, you can't leave it go for that long.” Lisa admonished, then kissed his cheek. “If it stays hard for too long, I want you to tell me, okay?”
+
+“But...”
+
+“I don't want you to wait for it to hurt before you say something.”
+
+“Lisa, I... there's been people all around...”
+
+“I don't care about that.” Lisa whispered and gave him a kiss. “I'd crawl under the table right now if you needed relief.”
+
+Ren touched the side of her face and caressed the skin. “You'd do that for me? In full view of everyone?”
+
+“I'd do anything for you.” Lisa breathed. “I love you.”
+
+“I love you, too.” Ren said and started to kiss her like she deserved, then he stopped and leaned back. “No, I better not.”
+
+“Why?”
+
+“I'm already getting hard for you. If we keep making out...”
+
+Lisa gave him a satisfied smile and slipped a foil packet out of her pocket.
+
+“You little minx!” Ren said, and she giggled. “How long have you been planning...”
+
+“I always keep one on me, just in case.” Lisa said and looked around to see that no one was looking at them. “Hold up the edge of the tablecloth for me.”
+
+“You aren't actually getting under the table, are you?” Ren asked and held up the tablecloth to let her do whatever she wanted.
+
+“No, I just need a bit of cover.” Lisa said and deftly undid his pants and touched him, which made him catch his breath, then she applied the foil packet's contents appropriately. She gripped him as she moved her hand very slowly and put her other arm over his shoulders.
+
+“Oh, god.” Ren whispered and let the tablecloth go, and you couldn't tell they were doing anything. “I don't deserve... to have you... in my life.” He panted and Lisa leaned in and kissed him. He kissed her back like she deserved and they both moaned softly. This continued for several minutes, then they heard someone come over to the table and stopped kissing.
+
+“Lawn bowling shouldn't be that hard!” Dana exclaimed and sat down next to Ren.
+
+“Even with the lawn cleared, the ball never went straight.” Gretchen said and sat down across from Ren and between Lisa and Dana. “I mean, the ground looked like it was level, so either it wasn't or the ball was...” She looked at Ren face and smiled. “Ren, when did you start wearing lipstick?”
+
+“About 5 minutes ago.” Ren said and grinned. “Dana, can you pass me a napkin? You're closer.”
+
+“Sure.” Dana said and picked one up front the stack in center of the table and handed it to him.
+
+“Thanks.” Ren puckered his lips and tried to wipe them off. Dana and Gretchen watched him struggle with it, then Dana sighed.
+
+“Let me get that for you.” Dana said and took the napkin from him, folded it over, then leaned in close and started to wipe at his face. “Shouldn't you be doing this?” She asked Lisa.
+
+“I'm a little busy cuddling him.” Lisa said and kissed Ren's cheek.
+
+“Hey, I'm trying to clean that off.” Dana said, and Lisa chuckled.
+
+“Sorry.”
+
+Ren kept his mouth puckered, even though he wanted to laugh at the situation and at the feel of Lisa stroking him with two other people at the table. He looked across the table at Gretchen and saw her glance at Lisa and then at Dana.
+
+“Gretchen, which one would you rather be?” Ren asked her, and she caught her breath.
+
+“What? I... I don't... what are you asking me that for?!?” Gretchen's face flushed red.
+
+“I can't tell... if it's envy or jealousy you're feeling... so I was curious.” Ren said, honestly. “You don't have to answer, though.”
+
+“But... but...”
+
+Lisa turned and looked at Gretchen and tilted her head. “I don't think she can decide.”
+
+“This... is really weird.” Gretchen said.
+
+“You don't know the half of it.” Lisa said and smiled sweetly as she squeezed Ren under the table. His eyes widened and he took in a breath.
+
+“Lisa...”
+
+“Yes, Ren?”
+
+“Kiss me.”
+
+“You'll get your lips covered in lipstick again.” Lisa said and looked back at him.
+
+“Dana, can you wipe her lips off, too?” Ren asked and closed his eyes for a moment. “Hurry.”
+
+Dana shrugged and leaned in close to Ren to wipe at Lisa's lips, made short work of cleaning them off, then leaned back.
+
+“Thank you.” Lisa said then moved her hand from Ren's shoulder to cup the back of his head and kissed him. Both she and he moaned as she did, then Lisa felt him twitch. She drove her tongue deep into his mouth and he gasped and finished. She stopped moving her hand and kissed him for another few moments, broke the kiss and let him go, then leaned back to sit in her chair properly.
+
+“Wow.” Ren and Dana said at the same time, and then they laughed. Gretchen just stared at them and didn't know what to say.
+
+“I know we're just friends and there's like no spark between us; but damn, that was hot!” Dana said.
+
+“It sure was.” Ren said and took Lisa's hand. “Thank you very much.”
+
+“You're welcome.” Lisa said and leaned back in for another kiss.
+
+“I'd tell you guys to get a room; but, you've got a whole freaking house behind you.” Dana said.
+
+Ren and Lisa laughed, then the four of them started talking about different things. Ren brought up the GED test that Dana had mentioned earlier, and Lisa told him that she had the book in her room.
+
+“You're kidding!” Ren said.
+
+“I needed to take it myself after getting kicked out of high school.” Lisa said. “I wasn't sure how hard it would be, so I bought the book and studied it as much as I could.”
+
+“You were kicked out of school?” Gretchen asked, surprised.
+
+“Yeah, it was a bad time in my life then, and...” Lisa said and her happy face started to become a frown.
+
+“Shh.” Ren said and put a hand on the back of her neck. “That's over now.”
+
+“But...”
+
+“No buts.” Ren said firmly. “You're here now. You got through it and made your way to me.” He pulled in her close and kissed her. “That's all that matters.”
+
+Lisa touched his arm and nodded. “You're right.”
+
+“Of course I'm right. I'm always right.” Ren said smugly. “That's why everybody likes me.”
+
+Dana snorted a laugh and Gretchen chuckled.
+
+“Hey, don't tell me that's not the reason you like me!” Ren said, surprised. “What other reason could there be?”
+
+Lisa laughed. “Yes, that's exactly why we all like you.”
+
+“Thank god! My whole world view almost changed there.” Ren said. “Thanks for keeping it real.”
+
+They all laughed at that, and then Miss Harrison came over to the table. She was walking pretty straight, considering how many glasses of wine she had.
+
+“What are you all talking about?” Miss Harrison asked, without even a slight slur in her voice. “We can hear you laughing all the way over there.” She said and indicated the croquet course.
+
+“We were discussing which planet was the prettiest.” Ren said with an almost straight face, and Lisa snorted a laugh at the terrible lie.
+
+“The prettiest planet?” Miss Harrison asked. “What one did you pick?”
+
+“DON'T SAY IT!” Gretchen and Dana yelled at the same time and stood up.
+
+“Come on, mom.” Dana said and turned her mother around. “It's about time I beat Randy at his favorite game.”
+
+“No, wait.” Miss Harrison said and turned back around. “If you don't want me to know, then it must be important.” She said and leaned over the table to put her face close to Ren. “Which planet is the prettiest?”
+
+“Uranus.” Ren said and completed the joke.
+
+“Your...” Miss Harrison closed her mouth and her face flushed sightly red. “Young man, it's not nice to say such things to a woman.”
+
+“Even if it's true?” Ren asked, and her face went completely red. She stood up straight and stared at him for a moment, then took a drink of wine.
+
+“I'll overlook your impropriety this time, on one condition.” Miss Harrison said.
+
+“You have my word that I will watch you closely as you walk away.” Ren said.
+
+“That's not what I...” Miss Harrison blinked her eyes at him. “Young man, your girlfriend is right there.”
+
+“She'll watch you too, if you want.” Ren said and looked at Lisa. “Won't you, baby?”
+
+Lisa nodded and smiled. Miss Harrison looked at their happy faces, took another drink of her wine, and started to walk away. She stopped a moment later and looked back to see that both Ren and Lisa were looking down at her backside. She kept walking without saying a word and swayed her hips a lot more than she normally would.
+
+“You're so bad.” Lisa whispered when the three women were far enough away. “She definitely put a lot of English on her hips after she saw us looking.”
+
+“I knew she would appreciate me turning what should have been a joke into a compliment.” Ren whispered back. “Now, wait for it.” He said and watched until Dana, Gretchen, and Miss Harrison stopped by the croquet set. Miss Harrison looked back at them and Ren gave her a 'thumbs up' gesture. Her face went red again and she turned away to keep her back to him.
+
+“You're definitely bad.” Lisa gave him a kiss. “What's your honest opinion?”
+
+“It's quite nice, but nowhere near as pretty as yours.” Ren said. “My hand ached to reach out and grab yours when you showed off your jeans to me this morning.”
+
+“You could have.” Lisa said and caressed his cheek. “I wouldn't have minded.”
+
+“Everyone else would have.” Ren chuckled. “What would they think of me if I groped such a cute little butt right in front of them?”
+
+“That you have great taste?” Lisa asked, and he nodded. “Lift the tablecloth for me again.”
+
+“What are you going to do?” Ren asked and lifted it. Lisa picked up a napkin and looked around, then both of her hands disappeared under the tablecloth. After a few moments, he winced. “That's rough.”
+
+“I'm sorry.” Lisa said with concern in her voice. “I'll kiss it and make it better.”
+
+“Wh-what?”
+
+Lisa lifted the tablecloth just enough to put her head underneath it for a second, then sat up straight. “Is it better?”
+
+“It is, and now I really need another trip to the bathroom.” Ren said.
+
+Lisa nodded and made sure his shirt covered up what she had done, tossed the used napkin with the foil packet's contents into the nearby trashcan, then pushed Ren's wheelchair over to the house. With just her, it took a bit longer to get through the house to the bathroom, then they entered and locked the door. They came back out 20 minutes later, both very happy, and met Stella and Denise in the kitchen.
+
+“There you are.” Denise said and saw their faces. “You had to go again?”
+
+“It was my fault.” Lisa said. “I kind of teased him a little, and then...”
+
+“We don't need the details.” Stella chuckled. “Cake and ice cream are being served.”
+
+“No, thanks.” Ren said.
+
+“What?” Stella looked at him. “Who are you and what did you do with the real Ren?”
+
+“Thanks to Lisa, I've now had three servings of the best thing I've ever tasted.” Ren said with a huge grin. “Cake and ice cream just can't measure up.”
+
+Stella looked at Lisa's slightly red face. “You can at least visit for the end of the party.”
+
+“Sure.” Ren said. “Denise, can you take over? Lisa's a little tired.”
+
+Denise chuckled and took control of the wheelchair. Stella saw that Denise's face was slightly red as well when she and Ren passed by her and they went out through the patio door.
+
+“You need to be careful...” Stella started to say, and Lisa walked over to her and took her hand.
+
+“I was very careful and I didn't hurt him even a little bit.” Lisa said. “I stayed in control and I didn't give in to his begging.”
+
+Stella looked at her with wide eyes, and she smiled.
+
+“I really, really wanted to feel him inside of me; but, I put my own desires aside to help him instead.”
+
+Stella smiled back and let her hand go to give her a tight hug. “Then you did a great job. Thank you.”
+
+Lisa hugged her back. “You know I'm only hugging you because I can't hug Ren, right?”
+
+“I didn't know you could lie just as well as Ren does.” Stella said, and Lisa chuckled. “Come on. Ren might not want cake and ice cream, but I do.”
+
+They went outside and met up with everyone at the lunch tables, and everyone was having a good time. Some had only cake, some had only ice cream, and some had both. Ren was the only one that had neither, and he sat there with them and watched everyone enjoying their dessert.
+
+Barbi finished her dessert first and stood up. “I need to announce that the pool has a lifeguard now and that it's open for those that want to stick around and swim.”
+
+“Not a lot of people are going to accept that offer.” Stella said.
+
+“I know.” Barbi said with a big smile. “It needs to be made, though.”
+
+“Agreed.” Elise said. “Do you need...”
+
+“I already have one of the step stools.” Barbi said and reached under the table to pick it up, then walked over to the middle of the tables, put the step stool down, then climbed up onto it. She asked for everyone's attention and made the pool announcement. Almost everyone said no right away, but there were a few who were interested. She noted them and thanked everyone for coming to Ren's Welcome To The Neighbourhood party.
+
+Barbi stepped down and brought the step stool over to Elise and left it there, then went to each person that expressed interest in the after party pool option to tell them swimsuits will be provided if they didn't want to go home to get their own. Barbi came back over to the table with Ren and let him know who was staying, and he wasn't surprised that both Dana and Gretchen were among them. What did surprise him was that Dana's mother, Miss Harrison, was among them as well.

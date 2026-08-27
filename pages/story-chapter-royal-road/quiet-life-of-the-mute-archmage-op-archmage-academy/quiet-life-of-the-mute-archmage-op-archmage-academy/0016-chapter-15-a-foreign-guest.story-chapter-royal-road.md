@@ -1,0 +1,181 @@
+---
+id: b4feeff6-6b96-5233-ae69-96d8c69e223c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15: A Foreign Guest"
+slug: 0016-chapter-15-a-foreign-guest
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 16
+ownLength: 1950
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3457720/chapter-15-a-foreign-guest"
+royalRoadId: "3457720"
+---
+
+Molly stood at the entrance of the cottage, her crimson eyes fixed on Jasmine, who was already making her way through the purplish-brown grass. She watched as Jasmine paused mid-step, turning around to glance back at her. A warm expression settled on Jasmine’s face. "Are you sure you don't want to follow me to the bakery now?" she asked.
+
+Molly gave a short nod, a small upward curl tugging at her lips as the black orb's particles displayed her thoughts:
+
+~ I have some errands to run. So don't worry, Miss Jasmine, I'll be at the bakery before the lady arrives.
+
+A sigh escaped Jasmine's lips after she read the words. "Alright then," she said, her eyes lifting to meet Molly's at the entrance. Her expression warmed further. "Just take care of yourself." Her features grew stern for a moment. "And make sure not to overdo anything," she warned.
+
+Molly's face brightened, a smile blooming across her lips:
+
+~ I'll try my best.
+
+Jasmine's expression softened as she read the words. She offered a short wave of farewell, which Molly returned in kind. After that, Jasmine turned back and continued her descent.
+
+Molly lingered at the entrance for a long moment, watching Jasmine make her way down the mountainside. After waiting a little longer and confirming Jasmine had truly departed, Molly sighed, turned back, and stepped inside the cottage, moving toward her room.
+
+Her steps halted when she drew near, her gaze sliding to the side where the other room lay.
+
+Jen's room.
+
+Her eyes drifted past the open door and landed on Jen's bed, where a large book rested atop the covers.
+
+Molly's expression dulled slightly as she remembered she still hadn't opened Jen's diary. Jen had told her she'd written about the academy she wanted her to enroll in.
+
+Her features dulled further as the memories of what had happened began to surface.
+
+But before she could drown herself in sorrow, she caught herself, delivering a small slap to both cheeks with her palms. A determined expression settled on her face as one thought echoed in her mind.
+
+Jen wouldn't want her to be sad.
+
+With that, Molly resolved to check the diary later in the day and resumed walking. She went directly to her room, stopping before the shelf near her mirror. She reached out and collected a small brown coin-filled pouch, tucking it inside her robe pocket. A grin lifted her lips.
+
+It was time for a stroll around the market.
+
+*******
+
+Molly's crimson eyes swept across the market square, lingering briefly on a few colorful stalls that snagged her interest. The voices of sellers boomed through the crowd as they hawked their wares, a chaotic symphony of haggling and exaggerated claims.
+
+Her gaze drifted away from the vivid stalls until it settled on one small shop painted in a brownish-gold hue. Her face lit up when she noticed it was open, and she enthusiastically strode toward it.
+
+When she stepped inside, she spotted a young teenager, perhaps three years her senior, with black hair that brushed his shoulders. His gold eyes were distant as he carried a large bowl of glowing golden seeds toward a corner of the stall.
+
+Upon noticing her, the boy glanced at Molly. Once he registered who it was, a grin spread across his face. "Look who came to visit," he said before quickly adding, "Gimme a sec, I'll be right with you." He hurried to the corner, vanishing from sight for a moment.
+
+Molly waited near the counter. A few moments later, she caught sight of the boy emerging from the corner, a smirk on his face the instant their eyes met.
+
+His grin warmed. "How have you been, Molly? I haven't seen you in a while. Did you travel again?" he asked.
+
+The black orb floated from Molly's robe, dissolving into tiny particles that shaped her thoughts:
+
+~ A little stressed out. Thank you for asking, Eric, and no, I didn't travel anywhere these past few weeks.
+
+Molly's expression dulled slightly as another thought materialized with the particles:
+
+~ My mom passed away three weeks ago. That's why I haven't been able to visit since.
+
+As Eric read the words, a mask of sadness washed over him. "I'm sorry for your loss," he said in a low tone. "And I'm sorry for making you remember it again."The author's narrative has been misappropriated; report any instances of this story on Amazon.Molly stared at Eric for a moment, feeling the sincerity in his voice. A warm expression appeared on her face as she stepped closer and gave him a gentle pat on the shoulder.~ It's alright. I don't mind.His gaze landed on Molly, who wore her usual bright expression while she pulled away. He soon wore a smile that mirrored hers. "Alright..." he said with a short exhale that made his voice trail off.After a moment of silence, Eric glanced at Molly, "Well, what would you like to buy today? Is it the usual, or..." He raised a brow, as if inviting her to choose as she pleased.
+
+The tiny particles formed her reply with a calm swirl:
+
+~ I would prefer the usual, please.
+
+A smirk tugged at Molly's lips as the particles shaped her next words:
+
+~ Unless you have something better you can offer?
+
+Reading the words, Eric couldn't help but look impressed. "Well, yes. I think I have another option that's slightly better."
+
+His expression lit up. "And I know fully well that the Jigeens will love this."
+
+Molly's expression perked up with interest at that.
+
+~ Now you've gotten me interested. May I see it?
+
+"I'll be right back," he said, quickly disappearing into the corner once more, leaving Molly to wait yet again.
+
+A few moments later, Eric emerged, a grin on his face as he held a small bowl filled with red seeds.
+
+"Here. Take a look," he said, offering the bowl for Molly's inspection.
+
+Molly leaned closer, her eyes fixed on the red seeds and how glossy, reflective, and foreign they appeared up close. It felt less like she was staring at bird feed and more like gazing at polished rubies.
+
+Just as she was absorbing the details, she heard Eric say, "It's called Radenite, and it was delivered just three days ago by one of my dad's new merchants."
+
+Molly lifted her head away from the seeds.
+
+~ They look wonderful. Did the merchant tell you the origin of these seeds? Because by the looks of it, they don't seem to be from around here.
+
+Eric nodded, flashing a thumbs up. "Good deduction," he praised, continuing soon after. "Yes, you're right. These seeds aren't really from Gaia." His gold eyes met Molly's crimson ones as he added, "They come from an extraterrestrial planet called Nexulous. The World of Aves."
+
+Molly frowned slightly at the unfamiliar word.
+
+~ Nexulous? Is that a newly discovered planet?
+
+Eric nodded. "Yes, it's a new planet that formed an alliance with ours, and in return, we trade goods with each other."
+
+Molly gave a short nod in understanding, her frown receding. But shortly after, it deepened as another question surfaced in her mind, so she projected it outward:
+
+~ Nexulous. Is it truly the planet of Aves? Only Aves?
+
+Eric chuckled at Molly's curiosity, a mischievous thought forming in his mind. With a sigh, he turned away in a pretentious manner. "Not telling you," he said.
+
+Within seconds, he felt Molly tugging at his sleeve, her face set in a pout as the tiny particles shaped her thoughts:
+
+~ Not fair. You just made me curious.
+
+Eric laughed. "Alright. I'm just joking."
+
+With a satisfied look, Molly released his sleeve and stepped back, allowing him to continue his explanation.
+
+"Yes, just like I said, it's a world filled entirely with Aves species. My dad said he met a group of the residents." Eric gestured from his waist downward. "From here to my feet is what makes them similar to us humans." He gestured again, this time from his waist upward. "And from here to my head is completely different. There's a mix between a human body and feathered skin, with the head of a bird."
+
+A sound of awe escaped Molly's lips upon hearing the description.
+
+~ That's strange and wonderful.
+
+Eric nodded in confirmation. He opened his mouth to continue, for he wasn't done yet. "It isn't only them who share similarities with birds," he said. "The animals there all belong to the family of Aves. The fish are from the family of Aves, the reptiles, and everything else that dwells in Nexulous are from the family of Aves."
+
+Molly's eyes sparkled with wonder the more she pondered Nexulous and the extraterrestrial species that called that place home.
+
+She had even begun to imagine how she might react if she ever met one of those beings.
+
+A giggle nearly escaped her at the thought of how strange that meeting would be.
+
+Her eyes turned to Eric, who awaited her choice.
+
+Molly projected her thoughts outward, the tiny particles forming the sentence:
+
+~ How much is it?
+
+Eric considered for a moment. "With the quantity you buy, it'll be three bronze coins," he said.
+
+Molly gave a short nod and immediately reached for the pouch tucked inside her robe, retrieving a silver coin and handing it to Eric.
+
+Eric collected the silver coin and moved behind the counter, retrieving a small box. He poured a generous handful of the Radenite seeds into it, covered the box, and returned to Molly, handing it to her.
+
+When she took it from him, Molly opened the box and stared at the glossy red seeds. A small curve lifted her lips as she admired how striking they looked. But something nagged at her, even though she suspected she might be mistaken in her concern. So she projected it outward:
+
+~ Do you think they'll eat this feed? I've been feeding them the golden feed for so long. Won't they notice the change and reject this one at first?
+
+Reading Molly's question, Eric paused in thought, then shook his head. "Normally, if it were any other feed, I would have said yes. But this one is different from the others. It was already tested with various bird species before we purchased it. So I believe it'll be just fine," he said, his tone reassuring.
+
+Molly gave a short nod, staring at the red seeds for a moment before closing the small box.
+
+Seeing no more questions, Eric grinned and turned away. "Let me go get your change." He made his way toward the counter to retrieve Molly's change but paused when he felt a tug at his sleeve. When he turned, he saw Molly's thought already projected outward:
+
+~ Keep the change.
+
+Eric frowned. "But it isn't—" Before he could continue, Molly projected her next thought:
+
+~ Take it as a gift from me. Please don't reject it.
+
+Seeing her insistence, Eric sighed deeply. "Alright..." he said as warmth spread across his features, his lips quirking upward. "Thank you very much, Molly."
+
+Molly's expression brightened.
+
+~ Thank you too. See you another time.
+
+She waved at him as she turned, already walking toward the entrance. When she reached it, someone else brushed past her into the store.
+
+She stepped around the customer, her mind already drifting to how the birds would react after not seeing her for so long. But just then, her footsteps came to an abrupt halt when she overheard the newcomer's conversation.
+
+"Sorry to intrude. I was looking for a young woman with light blue hair and orange eyes."
+
+A pause.
+
+"Her name is Fiona. Do you know her?"

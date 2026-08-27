@@ -1,0 +1,175 @@
+---
+id: 2bc1eed7-4dce-59fc-aeb8-878aa1a34422
+page-type-slug: story-chapter-royal-road
+title: "281. The Goddess of Light (VIII)"
+slug: 0037-281-the-goddess-of-light-viii
+partOf: speedrunning-the-multiverse-complete
+position: 37
+ownLength: 2017
+unit: words
+ownProgress: 2017
+publishedAt: 2023-08-10
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1305547/281-the-goddess-of-light-viii"
+royalRoadId: "1305547"
+markedReadAt: "2026-06-29T22:42:56.558Z"
+---
+
+“Hello, Fate,” said the head of Nuwa a whisper trickling out the gaping, toothless maw.
+
+“And goodbye,” croaked the head of Auras.
+
+“We must get you to a healer,” said Fate, his voice tight with desperation. “I’m good friends with the Celestial Physician—perhaps if I put in a word—”
+
+“There is no healing us,” said both heads at once. They smiled with a gentle resignation, the sort a very old man might wear on his deathbed. “There is only one thing we wish for now. And Jez has promised it to us, if we end your army here. Perhaps you may grant it to us now.”
+
+“What?” said Fate softly. “Anything! Anything you wish.”
+
+“Death,” sighed the creature.
+
+It lunged.
+
+A few elite Empyreans rushed to the fore, bracing for impact. The King of Phoenixes rushed ahead in a burst of flame, spreading its wings like a shield.
+
+Then the ground underneath all of them erupted. A flurry of screams; the soil roiled like waves beneath their feet. Vines with sharklike teeth for thorns reared out of the ground, snatching at legs, shredding them, dragging them into pits of whirling teeth. In a heartbeat the battlefield was one giant writhing carnivorous plant. His men were floundering.
+
+Then the two-headed monster made contact. A screech, and the King of Phoenixes was flung away like a meteor streaking up the sky. The elite Empyreans who’d rushed up front were now faceless, writhing things, lost in thick coats of tar.
+
+It had all happened so fast! At first Fate had tried to cut off the Fate-threads plaguing the grounds; then the front lines shattered and the monster carved in—everywhere, all around him, his friends were dying—he didn’t know who to save—he cried out.
+
+His hands grasped every thread of Fate he could find. He pulled as hard as he possibly could. The effort wracked his vision with bright spots, sank hot spikes into his brain. There was a sharp pop.
+
+Thousands of folk were gone in an instant. Moved away, like they’d always been somewhere else. But they hadn’t been. Dozens of his friends had been crippled in a blink. Those brave warriors who’d rushed up first were spasming shapes in the tar. The spasms became jerks, became twitches. The shapes became mounds became puddles. Peak Empyreans, reduced to slag in a breath.
+
+Cold beads of sweat trickled down Fate’s face.
+
+“What has he done?!” It was Nuwa’s mastery of the lands, and Aurus’s mastery of all plantlife, spliced together, perverted. They worked so awfully well together in some demonic synergy.
+
+“Stay back, everyone,” said Fate, voice brittle. “Your Highness—attend to me!”
+
+“Always.” The King of Phoenixes dropped to his side. The King’s chest was still smoking. A jagged wound stretched across it, exposing muscle fibers stained black by demonic magics. If it bothered him, the King was too proud to show it.
+
+A few hundred strides off stood the monster, blinking, unnaturally calm.
+
+They rushed it together.
+
+The ground snapped at them, shooting reams spiked vines in arching loops hundreds of strides high, but Fate spun and flickered, always here and there at once. The King of Phoenixes wheeled around them with preternatural grace. They converged on the monster.
+
+Then a sinking feeling dropped deep in Fate’s belly, a dreadful premonition.
+
+He gasped, spun a hundred strides out of the way. The monster raised its hands. The King of Phoenixes went down with a shriek, sputtering bursts of flame. Dragged down by a tens, hundreds of those thick thorns of tar. Suddenly Fate knew what ants must feel like, standing amidst an endless field of wild grass. A thousand thousand tar vines shot from the ground to the skies, swaying and twisting and tearing—at each other, even. The spurting black blood of their brethren fell like acid rain.
+
+Fate’s first instinct was to flee. But where was the King of Phoenixes?! His friend lost amid a seething cocoon of vines. It bulged, burst open for an instant as a funnel of furious flame broke free. Then more vines patched up the hole, forced the fire back, winding tighter around its struggling prisoner.
+
+No!
+
+Fate’s eyes glowed green. The material world faded. The world of Fates was all he saw. A web of green threads more intricate than any spider’s, connecting nearly every single thing to everything else, a web so dense that to touch one was to touch them all, at least slightly. There was the King’s, buried under the threads of the spell.
+
+It was bound too tight, with threads too strong. There was no time to unwind it. All he could do was grab at the fabric and tear with all his might. Blood vessels ruptured in his forehead; there was a ringing in his ears; he screamed.
+
+The spell vanished.
+
+The King of Phoenixes was a bleeding, shredded mess, but he was well enough to snarl and struggle to his feet. He went out in a flash of heat—a self-immolation, to be reborn smaller, weaker, but instantly healed. Fate coughed. Blood splattered the ground.
+
+The monster advanced on them once more and Fate steeled himself for a desperate counterattack. Whatever this creature was it had gone beyond Godking. It had gone beyond the natural order of the Multiverse. Godkings derived their power because they were loved by the Multiverse. They understood it intimately—through their Dao they forged a special connection with it. When they called it rushed to answer. But the Multiverse despised this creature. It was forced to heed its call anyway, like a slave cringing under the whip.
+
+“Here it comes,” said Fate softly. He saw the knots of Fate that made its being. It might exist beyond the Multiverse but it was born of the Multiverse. Its body had history: a past, and a future, and there was no severing those threads—not even with whatever horrific ritual had birthed it. If it could be made, it could be unmade.
+
+He saw the thread that wound all the way to its core. If he pulled on it, which would unspool first? Him, or the monster?
+
+Before he could try, the monster jerked to a halt.
+
+“It seems…” groaned the head of Nuwa.
+
+“I am needed elsewhere,” sighed the head of Aurus.
+
+The ground caved in beneath it, and it sank into a void. Breaths later its aura abruptly cut off.
+
+“Gone…?” breathed the King of Phoenixes, as though he scarcely dared to believe it. “Can it be?”
+
+But to where?
+
+***
+
+They landed in what seemed to be an underground tunnel, dimly lit, smelling of that rank bitterness that only belonged to freshly dead corpses. Before them, a maw of darkness yawned. Behind, there was more of the same.
+
+Someone took a step behind him. There was a loud crack, then a screech, and Dorian whirled around. The screech came from one of his Enforcers. The crack came from the skull he’d stepped on.
+
+It was then that they realized the ground was littered with bones. There was more bone than dirt. Most seemed aged, but there were a few bodies strewn here and there—or what Dorian assumed were meant to be bodies. They were blackened and shriveled like they’d been sucked dry, but they had the general shape.
+
+Dorian picked up a bone and inspected it. He pinched it, and it dissolved into a fine dust. “Really, Lucy?” he sighed. “A bit tacky, don’t you think? What’s this meant to scare, children?”
+
+Only those of incredibly feeble mind would be taken in by—
+
+…Ah.
+
+We might have a problem.
+
+“What the Hell’s that?!” came a cry. “Are those—are those eyes?”
+
+Dorian looked up and whistled. “Huh. What do you know! Good catch.” A slight glistening in the gloom, but once you saw them they were obvious. For the rest of his crew that was all they saw, it seemed, since none of them had Darkness Laws. Which was lucky, since if the bones spooked them the sight of dozens of giant hairy spiders crawling over one another would’ve definitely scared them shitless.
+
+“It’s not real, everyone! Nothing here can hurt you. Remember what I told you. Stop thinking about it. Just follow along!” Dorian set off at a brisk pace, pretending like he knew what he was doing or where he was going. At least they seemed to believe him. The simmering panic settled some.
+
+Until, fifty strides later, they came across a familiar face. The Enforcer who’d charged in early.
+
+Well—half a familiar face. The other half was conspicuously missing. An adult head sat on a body so shriveled it could’ve belonged to a child.
+
+“Yotho!” someone cried.
+
+“What happened to him?!”
+
+“He didn’t listen to me,” Dorian explained patiently. “This place can only hurt you if you believe it’s real. But it isn’t, despite all of the evidence of your senses. To survive you need the rare skill of boneheadedly believing in a falsehood, despite all of reality screaming at you otherwise.”
+
+His crew blinked dumbly at him.
+
+“Look, all of you will be fine! You’ve had a lifetime of practice at this—you’ve been promoted because of this! You’re all practically grandmasters of self-delusion.”
+
+“We are?” said an Enforcer.
+
+“Of course.”
+
+“Oh.” He seemed inexplicably pleased about that.
+
+His pleasure turned to terror as a giant spider abruptly dropped on his face. He screamed. It bit his head off, which, naturally cut the scream off. Then it bounced back up whence it came.
+
+And now everyone was screaming.
+
+“STOP THINKING!” bellowed Dorian. The screams ceased.
+
+“That’s the only way they’ll get you,” he said, gesturing to the slumped body. “That fellow was spooked so suddenly he believed the threat to him was real. Which made it real. He was in exactly as much danger as he believed he was in, which is to say, mortal danger.”
+
+“Um. Your Holiness?” said a pale Junior. “Why can’t you just burn this place down? Like with the wards?”
+
+“Because, you nincompoop, that would mean I admit this place is real. But it isn’t.”
+
+“But you’re inside of it,” said Junior, looking baffled.
+
+“No, I’m not. And neither are you.”
+
+“Huh?”
+
+“Besides, I can’t burn this place down any more than I can win a fistfight against myself. Don’t be fooled by literally everything about Lucy. She’s been a top-20 ranked Godqueen since before I was alive—she’s one of the true old monsters of the Multiverse. You do not reach that level, and sustain it, if you are not truly special. Her magics are not broken so easily. Just follow me. And whenever any of you catches yourself formulating a thought—or, Heavens forbid, an original thought—cease immediately!”
+
+They marched onwards, bones crackling underfoot.
+
+Soon the gloom lightened. They emerged at a cavern so huge you couldn’t see the ceiling, nor the other side, nor the walls; they simply receded gradually into darkness. It was possible they didn’t exist.
+
+Within the cavern, standing in rank and file, was a full army.
+
+Or rather, statues of an army. They were etched in such detail, with such care, that they rivaled the statues of the Capital city itself. They were clad in magnificent iron plate. They carried great maces and swords and bows that shone even in the dim light.
+
+A path ahead wound between this strange maze.
+
+An awed silence fell over his men.
+
+“Lucy, you’ve outdone yourself,” said Dorian with a whistle. “Remember—it can’t hurt you unless you believe it can!”
+
+He repeated it for a third time just in case his men had forgot, which, depressingly, was a real possibility.
+
+Case in point—as he sauntered forward, the statue at the very front of the army sprung to life. A giant knight in full plate and this thick plumed helm, like some warrior taken straight from the legends to charge at him, screaming, a fat lance outstretched.
+
+He turned around. “Let this be a teaching moment!” he proclaimed. “See, because I don’t believe that thing is real, it cannot—hmm.”
+
+He blinked at the bloodstained tip poking out the front of his chest.
+
+“Well, this is awkward.”

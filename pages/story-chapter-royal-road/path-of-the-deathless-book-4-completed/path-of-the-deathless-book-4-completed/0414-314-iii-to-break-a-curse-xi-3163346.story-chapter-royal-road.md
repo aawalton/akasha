@@ -1,0 +1,249 @@
+---
+id: c7cdbcf3-a0a6-59ea-8c1b-dc90dc0eeb24
+page-type-slug: story-chapter-royal-road
+title: "314 (III) To Break a Curse [XI]"
+slug: 0414-314-iii-to-break-a-curse-xi-3163346
+partOf: path-of-the-deathless-book-4-completed
+position: 414
+ownLength: 4256
+unit: words
+publishedAt: 2026-03-17
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3163346/314-iii-to-break-a-curse-xi"
+royalRoadId: "3163346"
+---
+
+314 (III)
+
+To Break a Curse [XI]
+
+A telepathic whisper wriggled its way into Anthony's mind. Harlock's concealing darkness spasmed in disbelief and horror. Ebony tendrils lashed out and stabbed blindly, seeking the unseen dagger among them. But lash out was all they did. The source of the voice remained invisible and untouchable.
+
+“Valor… Thann…” Harlock the Midnight invoked the name of their adversary like a child faced with a terrifying bully.
+
+Anthony fared worse. His hands began to shake. The blade he held went from something lighter than a feather to a crumbling tower. He tried to breathe out, but the breath wouldn't come—it refused to. He tried to keep the memories out, but they flooded in anyway. There was nothing he could do to stop them.
+
+He remembered the unseen length of metal that pierced into his back, that trailed along his torso, puncturing his lungs and severing his spine. He remembered lying on the ground, bleeding, gasping, barely alive, barely conscious. He remembered his son trying to come to his aid, and then watching the nightmare materialize before him.
+
+He remembered the lifeless body of his brother, the crimson chasm the lich left along his throat. And then followed the others. Anthony's two sisters, his first wife, his father, mother, everyone.
+
+He'd involved them all. And he'd damned them all.
+
+He Who Stills Eternity took them all.
+
+And now the Butcher of House Diego was among them once more.
+
+“Where? Where? WHERE?” Harlock bellowed. “He must be somewhere. He must be, he must be. No one can hide here. No. I am the Shadow. I am the Midnight. No one can hide from me. Where is he?” The Ascendant’s words were devoid of confidence, on the verge of mania. He was a god of stealth, of the unseen. But now there was something beyond his sight. Now there was a Legend that somehow outstripped his divinity. “Anthony, do you see him? Look! Look! FOCUS! Do you see him? He must be out here. He must be. We must find him. We must!”
+
+But the desperate pleas of the Ascendant didn't matter. Anthony wasn't just lost to his God. He was lost to himself. No longer was he the oldest Councilman of the Republic. He was just a boy. A boy whose folly caused the death of his entire family. A boy that caught a glimpse of that skeletal visage, that image of death, those green eyes that boiled like pits of corrosion and entropy.
+
+And then, for the briefest of moments, he saw those eyes right before him, freezing the blood solid in his veins, before they vanished once more.
+
+“I spared you once, Anthony. I can spare your life again today. All you need to do is… nothing. Remain idle. Let my disciple have his conversation. Or rage against your terror, and choose the path your family did. Perhaps you will be reunited with them. I will envy you, in that case. But to be honest, Anthony? I think not. Such an ending would be too precious and kind for you after all.”
+
+Anthony could hear Harlock calling out for him, roaring at him from within, from without, from every shadow. But he couldn't move. No matter how angry he got, no matter how much hate he tried to harbor for Valor Thann, he just didn't have it.
+
+Try as he might, Anthony de Diego couldn't imagine killing the shape of his nightmares. Not when he found himself trapped in the mind of the traumatized boy he still was.
+
+***
+
+A pillar of fire crashed down upon Shiv. He thrust a single fist out and knocked it back up into the sky. A distant explosion rang out, shaking the already compromised temple to its foundations. He didn't follow up on the attack; he was more interested in where the old man might pop out from. That, and if his Animancy dagger would still work the same way.
+
+Shiv's soul had evolved with the Severed Shadow. Shiv's current body was also entirely physical. Pair that with Eldritch Physiology, and there was no telling if the Animancy Blade would get to lick Shiv's soulstuff at all. But it was better to be cautious and prevent rather than suffer the consequences.
+
+Judging from how fast his biomass was being depleted, he guessed he would last another two minutes at the most. If the constant barrage of attacks didn't finally wear him down, his Bifurcated Processing would burn his body to the wick. There should still be enough time for him to clear things with Veronica. By now, she should have noticed how many spells were utterly shredded when they got near him and how his fundamental nature had changed as well. What she didn't know, he was going to spell out in detail.
+
+And so, Shiv cleared his throat, and he made use of something he rarely did: the full capacity of his voice. “There's a reason why I haven't killed anybody, Veronica. There's a reason why I haven't destroyed anything. Wouldn't take much for me to deal a lot of damage to the capital, kill a lot of people. I don't want to, though. That's not why I'm here. I'm not a threat to the Republic. Frankly, I'm more likely to save it than you are.” Amplified by Legendary Physicality and a few tweaks to his throat and lungs, his voice was so loud that the air around him shook. Shiv was channeling the memory of Marikos as best he could over the onslaught of magic.
+
+He knew Veronica heard him, and suspected she could have even if he were whispering. But she'd fallen silent after threatening him with Anthony. And it dragged on to be an anticipatory silence. No, now it was just anxious. He could practically feel it in the air. Something was happening to Harlock as well. The shadows surrounding Shiv had grown tighter, were lashing inward and bubbling like a lake brought to a boil for no apparent reason. It was like they were hunting something inside the darkness, or perhaps imperceptible to it…
+
+Valor?
+
+“No! Enough! We kill him! We kill him now!” A venomous shriek echoed out from behind Shiv. The gangly, tar-coated shape of Daughter erupted out from Harlock's darkness with a wicked blade raised high. But before the Deadly could get to him, a single command brought everything to a halt.
+
+“Stop.”
+
+Veronica's declaration slammed into the world itself. Shiv gritted his teeth and staggered a step back, feeling like he’d just taken a heavy blow across the jaw. Daughter fared no better. The feral Ascendant shrieked, and the tar that not only coated her but made up her entire form was blasted away, revealing a confused-looking girl no more than nine years old that promptly stumbled and splashed into the black sludge. Harlock's darkness extended out in the shape of a clawed hand and quickly wrenched her back into the protective shadows. All the spells had ceased as well. No additional arrows bounced off Shiv's skull. No unseen blades carved valleys across his bones.
+
+Then came the footsteps, one after another, echoing from a place high above until they drew closer. Veronica emerged from the darkness before Shiv without fanfare. She was wearing that dimensional dress she favored so much, but she was shorter than he remembered. Or perhaps Shiv was larger now than he'd ever been. Her stature was still imposing, well over two heads taller than Uva, but she was merely a tall woman standing before a juggernaut that put most orcs to shame.
+
+Despite this, between the two, she was more the Legend.
+
+For now.
+
+The two stared each other down. Shiv folded his arms, and Veronica did the same.
+
+“You sweet, stupid boy,” Kathereine began, her words echoing out from Veronica.
+
+“No. Do not intrude. I will speak with him.” It spoke volumes that Veronica could casually dispatch an order upon her Ascendant. It meant something even more when said Ascendant scoffed, but obeyed.
+
+All distractions settled, Shiv raised his chin at her. “Let's talk terms, Chandler.”
+
+“Terms,” Veronica replied with a near-sneer on her face. “What makes you think you have the capacity to dictate any terms to me? You might have a few more skills than before, a Unique Skill that I can't figure out yet. But you know you will be broken and—”
+
+“This body is expendable. It's going to be dead by the time we finish this conversation. And if the conversation doesn't end the way I want it to, I'll send another body after you, and then another one, and another one. You can do whatever you want to all these bodies, but I really don't care. You're just feeding me levels. There's no capturing or torturing or overcoming these bodies. If I lose one, I'm just getting rid of it. You don't have any leverage over me. You can't reach into my mind using your Psychomancy before I decide to cut my losses.” He raised a flat hand above his eyes like he was shielding his vision from the sun and made a show of looking around. “Hm. Seems like the old guy with the knife got lost somewhere. Shame.”
+
+No change came over Veronica's expression, but the briefest flicker of worry appeared in her emotional core. She mastered herself without revealing any more than that.
+
+Still, it was enough.
+
+Sage of the Enkindled Heart: Among all the Council members, he is the one she cares for the most. But don't expect him to be leveraged. She would sooner see him butchered than betray herself to save his life.
+
+“Your new skill,” Veronica began. “How does it work? How has your resurrection evolved?”
+
+Shiv shook his head. “That's not how we're going to do this. I want you to move the Prismatic Guard back, and in turn, I'm going to give you a few promises if you need them. Maybe some useful information too.”
+
+“What could you possibly know that I don't already?”
+
+“You know that the Undying Tarrasque got found? You know that's with the Court of the Shattered Moon up North? And that you're going to be invaded in a month?”
+
+“Yes,” Veronica replied in an instant. There was no hesitation, but even so, her body vibrated. Gardener of Doubt caught her in a lie, if only a slight one. She knew most of that information, but part of it was unconfirmed to her, or perhaps missing a crucial detail.
+
+Gardener of Doubt 71 > 73
+
+Gardener of Doubt: The point of failure is likely the Tarrasque. Jessica is informing on you; that much is almost certain. There are also likely other spies within the Gate, but the mention of the Tarrasque made her brain chemistry light up. You saw it with your Atlas.
+
+“And while we're on the topic of the Tarrasque, no one is killing that thing. I'm going to beat the shit out of it, and then I'm going to stick it somewhere where no one can ever kill it to get the reward.” Shiv took a single step toward Veronica and leaned over. “Especially not you. Or anyone from the Republic, for that matter.”
+
+“I see you've reached the 'deprive the System of strife' stage of infantile rebellion.” The Councilwoman rolled her eyes. “It's pointless. The System will force your hand one way or another.”
+
+“Maybe it can force yours, but not mine. Worst that happens is I lose another body. But I'll figure out a way to try again later. I don't have to be its slave.”
+
+“So, what is it that you want to be, aside from a nuisance?”
+
+Shiv popped his lips nonchalantly. “Right now? A chef, mostly. Which is why I'm planning to take a trip. Unless Maiden here decides to withdraw her Curse from my body.”
+
+Shiv smiled and held out both hands, trying to provoke the Genius into a response. Instead of speaking to him, Maiden gave him something else.
+
+Curse Gained: Golembane - All artificial constructs will view you as a hostile entity.
+
+Shiv's mouth fell open in bafflement. “Fucking seriously?” he snarled.
+
+Curse Gained: Meta-Dyscalculia - All numbers you see will be scrambled; math will be your enemy.
+
+“MOTHERFU—“
+
+Curse Gained: Touch of Rust - All metals and materials erode, tarnish, and break down when you touch them at an alarming pace.
+
+The next words got stuck in Shiv's throat before they could tear their way out. He took a few seconds to master himself as Sage of the Enkindled Heart transformed his boiling anger into calmness and strength. “Just when I thought I couldn't hate you anymore,” Shiv spat at the unseen Ascendant.
+
+Only then did Maiden the Genius speak, her voice echoing from all directions: “Your hate is meaningless. Mine is consequential. You should never have hurt my daughter. Suffer, rage, fail, it doesn't matter. Be crippled. That is all.”
+
+The sheer rage coursing through Shiv heightened his intellect, made him consider Maiden's words. She was flippant and dismissive, but she wasn't without weakness. She cared about her daughter, yet she was also absent and easily distracted. There was a path ahead here. A way to probe just how much he could get away with and how easily he could provoke Maiden herself. And so, he merely asked, “Is that it? Are those all the Curses you have?”
+
+“These are all the Curses I am willing to bestow upon you. I understand that you are endlessly arrogant for a stupid, ignorant, ape-like child, but you are not the only target of my ire. I have countless other subjects to inflict my displeasure upon.”
+
+“Well, seems like we're just the opposite way around. Because every time you hit me with a Curse, I think I'm going to rip apart one of Daughter's temples.”
+
+A feral shriek shook the world. Daughter thrashed within Harlock's embrace, trying to break free, trying to get to Shiv.
+
+“Irrational,” Maiden responded. “You will simply see yourself subjected to more pain.”
+
+“A little pain is not a bad thing. Neither is a little death, for that matter. You Cursing me, taking away my cooking? Yeah, I'm not gonna lie, that hurt me a little. But is that gonna hurt me as much as breaking your Daughter’s heart? Because I am going to do that. I'm going to take those orphans away from her, and she's going to come screaming to you, distracting you every day, every other second, stopping you from doing any of your oh-so important experiments until you handle me. And you can't handle me. That's just the thing. I'll always come back. I'll always burn your house down.”
+
+And then heaviness filled the air, like a titan had slipped into the room without Shiv noticing. “You will not provoke me into giving you more Curses. I have already struck you enough. I will not be outplayed by your childish psychological games. I will hold my course. I will let you languish without that thing you treasure. Without that thing you assume to be an art. Cooking. I know what you are doing, Deathless, and it does not impress me.”
+
+“And I know what you are: a big felling disappointment,” Shiv replied. “And you can keep those Curses just where they are. I'll find a way to deal with them myself. I'm gonna take a trip into the Fairwoods. See what the Courts there can do.”
+
+“Nothing.” Maiden lied as easily as she breathed, but it was a lie. The world itself trembled to his Gardener of Doubt, betraying her.
+
+“Then how did Georges break free from Longinus?” Shiv asked. No one replied. He grinned. “Yeah, I know about that. There are only two explanations right now. You can't remember because you're too rotted upstairs, or you’re afraid I’ll find out. And I will find out. However many deaths it takes. I'm gonna be very honest with you, Maiden. One last chance, because I'm feeling especially nice today. If you take the Curse away from me right now, I'm going to make life much easier for you. You don't take the Curse away, and I'm going to get very, very specific about how I hurt you and how I hurt your daughter.”
+
+“You already intend to hurt her. There is no way back for either of us. We are both committed to this animosity.”
+
+“I'm not,” Shiv replied casually. “I'm not committed to anything. Frankly, I don't want to do anything that makes the System happy in the end. I'm giving all of you a way out. If you stop sacrificing those orphans, if you take away these Curses, I think we can still find a way to coexist. I'm going to help you with the wars you have on your doorstep. I don't need any blood gods or Frost Giants ruining my life on top of you assholes anyway.”
+
+Shiv snapped his fingers. “Oh, and I promise you I'm not going to cause any collateral damage in your city. I could have Adam fire a corrosive arrow into my body and blow up the whole city at any time. Or find a Necromantic object and use it on myself. Causing mass death and carnage is pretty easy for me. But I'm not gonna be that guy anymore. Doesn't mean I'm a pacifist or anything; I'll still kill Inquisitors who smuggle children into cruel rituals. But aside from that, if I can let someone live, I'll let them live. Especially out of spite.”
+
+“Is that your offer, then?” Veronica asked, sounding unimpressed. “You give us some breathing room, and you want some in return.”
+
+“No, my offer is much more complicated than that. The Starhawk’s near the Abyss now, but after hearing his plan for the future and the Republic, I have second thoughts about helping him. I have second thoughts about anyone reaching the Great One. You think on that for a little bit.”
+
+Veronica didn't need long to understand. “Are you offering to betray the Starhawk?”
+
+“Not betraying anyone. I wasn't on any great player’s side to begin with. I am with Adam. I am with the people I care about, the people I decide to fight for. I'm not that complicated of a guy, Veronica. There's no great code guiding me here. No grand ideals or utopian visions or whatever. I am here doing what I think is right. And that’s all there is to it. And I don't think anybody should fuck with the Great One anymore. And I do mean anybody.”
+
+“We all have to justify things to ourselves however we can,” Veronica breathed. But something about her body language opened up. She saw an opportunity here. “Is this what you told Cripple? Is this why it refuses to come out and speak with us anymore? You convinced it to side with you?”
+
+“I didn't convince Cripple of shit. Cripple can't convince itself of anything either. That's Cripple's greatest problem. Cripple the Strongest is a bullshit name. More like Cripple the Indecisivest Bitch.”
+
+More cries of blasphemy and heresy echoed from the shadows. Shiv didn't care. He was right. Cripple knew he was right. Everyone who had any idea about the situation knew he was right. There was no point in being nice about all this.
+
+“Look, as much as I'd like to continue shit-talking all the Ascendants, that's not going to get us anywhere. So I'm going to maybe make you an offer, and you can maybe think about it. But in the meantime, can we all just take a step back and not ruin each other's day for, I don't know, about a week or so?”
+
+“Long enough for your vacation in the Fairwoods to conclude?” Veronica asked.
+
+“Something like that,” Shiv said. “In the meantime, I think I have a perfectly terrible idea for how we can communicate better: How about we of Gate Piety offer the Yellowstone Republic the chance to make an embassy inside our wonderful little dimension?”
+
+Through Shiv's Severed Shadow, Uva heard his offer. “What?”
+
+And connected to her mind, Adam echoed her cry: “WHAT?”
+
+Most staggered of all was Veronica, who didn't see this coming at all. “You… break out of our prison, you do everything you've done, and now you pretend to be a nation-state, offering us an embassy.”
+
+“Yeah, why not? Why can't we offer you an embassy spot? Gate Theborn had one before it got blown up. And you already have someone there right now. She's a Legend. She can keep a close eye on us. And if you guys want to do something, well, formal declarations of war are better than random bullshit happening. It keeps things clear, no?”
+
+Veronica's expression remained incredulous. “Why would we ever agree to this?”
+
+“I don't know, why do you let New Albion have an embassy inside the capital?”
+
+The Councilwoman glared at him. "I hate the fact that that's a valid question. But I really don't see the game you're playing. I suspect you don't either, do you? You're just making things up as you go along, pulling ideas out of your rear end.”
+
+“Shiv, Shiv, we are not letting them inside my Gate!” Adam snarled.
+
+“Don't worry, Adam. They're staying near the bunker, on the orc side. Orcs solve all our problems.”
+
+“So? What do you say?” Shiv smirked. “We could formalize our hostilities and do this thing properly. Or we can keep this messy until someone oversteps a bit too far. And then you start sending me hate-letters of mass destruction, and I’ll keep throwing expendable bodies at you until the Republic is little more than a series of craters, and the Frost Giants and Southern freaks come up to gobble up all that territory.”
+
+“I’d say you’re an exceptionally special boy that’s touched in the head and has no understanding of diplomacy or geopolitics.”
+
+“Let’s agree on the exceptionally special part and ignore the rest,” Shiv said, smiling genially. “But back on the topic, let’s start with you pulling the Prismatic Guard outside our Gate back first, because if this fails, I’m either going to bomb them with an expendable body or dump the orcs on them.”
+
+“After that, it will be war,” Veronica warned.
+
+“Yeah. A three-front war for the Republic. Great idea.”
+
+“Hm. Aptly considered for one lacking education, but a single Low-Tier Gate is not a power.”
+
+Shiv hummed thoughtfully. “Is the Tutorial a power?”
+
+The Councilwoman didn’t answer. And that was all the answer Shiv needed.
+
+“Because it really doesn’t take much for us to become less of a Gate and more of an endless orc tunnel,” Shiv noted.
+
+Veronica almost laughed. “You sow the seeds of your own destruction with such wanton joy.”
+
+“No. I sow the seeds of random bullshit and try to make the plants fight each other. Now, are you going to let me bury these seeds so you can be part of the fight, or are my other plants going to shit all over you?” Shiv’s left arm promptly fell off and turned into pale soup on the ground. “Answer quickly, because all this thinking has given me a fatal sweating condition. I got maybe… twenty seconds before I’m just a puddle.”
+
+The Councilwoman unfolded her arms. “No. Absolutely not.”
+
+A translucent needle of mana speared out from her mind. “Open your Sync-Letter later. If you are honest about your wildcard status, I think we should discuss your treacherous future at length and in detail.”
+
+“Sure thing, Veronica. Wait. This isn’t going to be another moment where you use your Rhetoric to—”
+
+She interrupted him verbally. “If you are already dying, then let me help you on your way. Begone, Deathless. Scatter and be one with the ashes.” Her Rhetoric clawed into his already crumbling biology. He burst apart in a spray of flaking viscera before he could respond. That body ceased to be, but the bulk of Shiv’s senses shifted back to his Severed Shadow, where it remained idle for a few seconds, trying to process what just happened.
+
+Pillar of Orichalcum 375 > 383
+
+“Shiv?” Uva asked. “Shiv? Are you alright?”
+
+“No. I think she just stole the last word from me. I was going to say something really funny or mean.”
+
+“You were about to invite the Republic into the Gate!” Adam cried.
+
+Shiv just chuckled. “Still am. Time to write a letter. See what we can get out of each other. Veronica’s personal interest and the Republic’s public response wasn’t gonna be the same. Knew I could use that.”
+
+A beat of apprehension spilled over from Uva. “Before you gloat to yourself too much, recall what she did last time, and open your letter somewhere remote and private.”
+
+“And never in Gate Piety,” Adam hissed, establishing new rules.
+
+“That as well,” Uva agreed.
+
+“Alright, alright,” Shiv replied. “But honestly? I think that went pretty well. I think I got the makings of a pretty damned good politician.”
+
+“Well, you are stupidly confident and spared from permanent consequence,” Adam grumbled. “Oh, dear gods… You already bloody are one.”
+
+“Right,” Shiv said. “You know what? I think I’m going to do my letter writing outside the surface gateway. In front of the Prismatic Guard.”
+
+“What? Why?” Both Adam and Uva cried.
+
+Shiv snickered. “Because the idea of Veronica hitting me with a nasty Rhetoric blast and killing thousands of her own is kind of funny to me in a twisted piece of shit kind of way.”

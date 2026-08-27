@@ -1,0 +1,225 @@
+---
+id: 55f7cbb6-25df-54e5-a285-694967b79d6b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 84: The Great Escape"
+slug: 0085-chapter-84-the-great-escape
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 85
+ownLength: 2210
+unit: words
+publishedAt: 2026-06-12
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3530913/chapter-84-the-great-escape"
+royalRoadId: "3530913"
+---
+
+The morning light streamed through the gap in the heavy curtains. Thousands of tiny, glittering dust motes danced in the sunbeams that cut across the quiet room.
+
+The space was immaculate. On the wooden desk next to the window rested a set of pristine maid clothes, folded with mathematical precision. Neatly arranged next to them was a pair of summer clothes meant for a baby—a tiny blue overall set with a small white flower embroidered on the chest. This was Mira's room.
+
+On the opposite side of the room sat a sturdy wooden crib. Inside, a little bundle of baby fat stirred awake.
+
+Lily tossed and turned, fighting against the lightweight summer blanket. She scrunched up her face, squeezing her eyes tightly shut as she balled up her chubby little fists and rubbed them aggressively against her cheeks.
+
+Her eyes finally popped open. She looked around the wooden bars of her crib, momentarily confused as to where she was. Then, she immediately got distracted by something moving in her lower peripheral vision.
+
+Her feet.
+
+She did what any dignified lady of her age would do upon making such a startling discovery. She immediately tried to wrestle them. She reached down, grabbing her own ankles with surprising strength, attempting to bring her toes closer to her face to properly examine them. The toes wiggled back at her defiantly.
+
+Her little morning squabble with her own limbs woke up the second most favorite person in her world.
+
+Mira stirred in the bed next to the crib. Unbeknownst to the baby currently trying to chew on a big toe, Mira threw off her covers and began her rapid morning routine.
+
+Lily remained completely oblivious, still struggling to haul her stubborn feet closer to her mouth.
+
+Mira, freshly scrubbed, wearing her crisp uniform and tying her silver hair back into a tight bun, leaned over the wooden railing. She scooped Lily up from the mattress and snuggled the warm, sleepy baby close to her chest.
+
+"Good morning, My Lady," Mira whispered, pressing a kiss to the crown of her silver hair.
+
+Lily looked up at her second most favorite person and let out a bright, bubbling giggle.
+
+After a quick trip to the changing table where her nappies were swapped for fresh ones, Mira wrestled Lily into the cute blue overalls with the white flower. Recently, her absolute most favorite person in the world—her Papa—had insisted that all her clothes be embroidered with this specific little flower. Lily didn't know why, but it was soft, and she liked touching it.
+
+Now that she was ready, it was time to meet Papa.
+
+Just before they arrived at the heavy oak doors of the dining room, Lily patted Mira on the cheek with a sticky hand. She squirmed, signaling her demand to be put down. She wanted to walk to her Papa on her own. It always made his face do the happy, wrinkly thing when she did.
+
+Mira smiled gently, setting her down on the polished floorboards.
+
+Mira pushed the door open. Lily took off, her legs pumping in a wobbly, frantic toddle straight towards where her Papa's chair sat at the head of the long table.
+
+She arrived at the chair, breathless and proud. She looked up.
+
+To her absolute horror, the chair was empty.
+
+No Papa.
+
+Lily let out an indignant babble. She smacked the wooden leg of the chair with an open palm. She toddled around the dining room, checking the other chairs, peering underneath the heavy mahogany table just in case he was hiding.
+
+Suddenly, the side door connecting to the kitchens swung open. She heard his voice. Papa was walking in, deep in conversation with the man who always carried the shiny keys and wore the funny glass circles on his face.
+
+One of these days, she was going to take those shiny keys from him and hand them over to her loyal keeper of treasures for safe keeping. But that was a heist for another day.
+
+She toddled as fast as her legs could carry her toward her Papa.
+
+Ren saw her coming. Without taking his eyes off her, he shoved the ledger into Sylas’s waiting hands, crouched down, and scooped her up. He swung her high into the air before bringing her close for a tight hug, peppering her cheek with kisses and calling her his "little peanut."
+
+After the required morning snuggles, Ren deposited her onto her highback chair. Yes, she was quite grown up now. She sat at the big table with the big people, even if she still needed the chair to reach the top.
+
+Papa insisted that Mommy Mira and the man with the shiny glasses sit and eat with them.
+
+Mira handed Lily a wooden spoon and set a small wooden bowl in front of her. It smelled like scrambled eggs.
+
+Lily picked up the spoon. She turned it over, inspecting the smooth grain of the wood. She immediately decided it was a very fine spoon. Much better than the one she had yesterday.
+
+We cannot soil it.
+
+She set the pristine wooden spoon down on the table next to her bowl. She reached her hand directly into the bowl, grabbed a fistful of warm, creamy scrambled eggs, and shoved it unceremoniously into her mouth.
+
+The taste was amazing. Papa always made the best nom nom.
+
+After breakfast concluded, Mira cleaned the egg residue from Lily's face and hands with a damp cloth and set her down on the floor. Lily managed to snag the glorious, unsoiled wooden spoon from the table with a lightning-fast grab before her feet hit the wood.
+
+Mira tried to gently pry it from her grip. Lily let out a sharp squeal of protest and yanked it away. Mira sighed, giving up the fight and letting her keep the prize.
+
+Lily’s chubby cheeks flushed with smug satisfaction at acquiring the glorious treasure.
+
+Just as Mommy Mira opened the door to leave the dining room to begin her daily Walk with her of the property, Papa called out her name from the hallway. Mira turned her head.
+
+This was the opportunity.
+
+Lily slipped past the slightly open door.
+
+She began her toddling run down the hallway.
+
+A few moments later, her feet got confused. She tipped forward and fell face first into the plush carpet of the corridor.
+
+She pushed herself up, her determination unbreakable. She looked back over her shoulder. She wasn't caught yet.
+
+Today she will escape. Nobody is letting her play outside enough lately. She must find out why.
+
+She began her epic escape run again, her legs pumping as she aimed for the open door leading to the courtyard.
+
+She tipped over her own feet a second time, landing face first in the plush carpet with a muffled thwump.
+
+She sighed, blowing a stray hair out of her face. She looked back over her shoulder again.
+
+This time, her ever-present guardian was standing right behind her. Her heist had failed.
+
+Lily sat on the floor, crossing her arms over her chest, contemplating how things had gotten so bad so quickly.
+
+A figure moving near the courtyard entrance caught her eye. It was Kaelthos. Her trusty helper who hid all of her glorious treasures.
+
+She abandoned her sulking and toddled over to the tall warrior. She lifted her little hand high into the air, offering him the new, pristine wooden spoon she had acquired.
+
+Kaelthos stopped his patrol. He looked down at the toddler, his stern face softening imperceptibly. He took the wooden spoon from her tiny hand with profound gravity and carefully tucked it into his thick leather belt, keeping it safe next to his throwing daggers.
+
+Lily turned around, satisfied her treasure was secure, and began inspecting everything around the house. All the attendants were in a rush today. The breakfast service for the inn was about to begin. Even her Papa had gone back to the kitchen to prep the food.
+
+Suddenly, a shimmer of light materialized right beside her cheek.
+
+It was Leafy, her glowing playmate. The spirit sat on her shoulder, humming a quiet, happy tune.
+
+Lily grinned. If she can't play outside today, she will bring the chaos inside.
+
+To do that, she needed her other loyal, fuzzy minions.
+
+Lily took a deep breath, tilted her head back, and let out a loud shout.
+
+"Waaaaa..aa..a!"
+
+It was a weird, pitchy mix of a toddler's cry and a wolf's howl.
+
+A few seconds later, the sound of scrambling claws on hardwood echoed down the hall. Three massive balls of fluff rushed toward her from the open courtyard doors.
+
+Her loyal fuzzy minions immediately tackled her to the carpet, knocking her over and beginning to lick her face relentlessly.
+
+Lily giggled, burying her hands in their thick fur.
+
+…
+
+Meanwhile, deep inside the humid chaos of the inn’s kitchen, Ren was standing over a stainless steel prep table, holding a tasting spoon. He looked utterly baffled.
+
+Cynthia, the head chef, stood opposite him, her hands nervously wringing a flour-dusted towel. She looked like a student waiting for a harsh grade.
+
+Ren took another sip of the simmering seafood bisque from the spoon. He closed his eyes, analyzing the flavor profile.
+
+"I don't understand," Ren murmured, setting the spoon down with a clatter. "You followed the recipe perfectly. I watched you. The heat control was flawless. The ingredient ratio was exact to the gram. The timing was down to the second."
+
+Cynthia bowed her head slightly. "I apologize, My Lord. I failed to capture the essence of your dish."
+
+"It’s not a failure, Cynthia. It’s a perfectly good bisque," Ren assured her quickly, waving a hand. "It’s delicious. But it’s... it’s just not the same. It lacks that sharp, vibrant punch. The flavors are muted. Why?"
+
+I had been running background diagnostics on the kitchen staff's output for days trying to solve this exact problem. I pulled up my new [Contracted Bio-Metric Overlay] and focused it on Cynthia, then cross-referenced her data with Ren’s.
+
+The numbers flickered in my virtual workspace.
+
+[COMPARATIVE ANALYSIS: CULINARY OUTPUT]
+
+[SUBJECT A: Ren Fenris]
+
+Class: Supply Lord (Unique) / Master Chef (Rare)
+
+Base Agility: 28
+
+Base Intelligence: 40
+
+Hidden Modifier: [Extradimensional Origin] - Immune to Local Substrate Degradation.
+
+Output Quality: 100% Potential Yield.
+
+[SUBJECT B: Cynthia]
+
+Class: Chef (Common)
+
+Level: 32
+
+Base Agility: 85
+
+Base Intelligence: 62
+
+Hidden Modifier: [Local Origin] - Subject to Planetary Stat Degradation (-65% Yield Factor).
+
+Output Quality: 35% Potential Yield.
+
+"Oh," I whispered into the void of Ren's mind.
+
+It suddenly made perfect, terrible sense.
+
+[Ana: Ren. Stop questioning her technique. It's not a skill issue. It's a physics issue.]
+
+Ren paused, looking at empty space. What are you talking about? She's a professional chef. Her stats are probably triple mine.
+
+[Ana: They are. Her Agility and Intelligence are much higher than yours. But you’re forgetting the planetary lore we discovered with Kaelthos.]
+
+The World Tree thing? The stat degradation?
+
+[Ana: Exactly. Because this world lacks a World Tree, every biological entity born here suffers a massive qualitative downgrade to their actions. The system effectively throttles their output. It's brutal. If Cynthia chops an onion with 85 Agility, the universe only registers the physical result of about 30 Agility. She is losing 65% of her potential output to the void.]
+
+Ren frowned deeply. But what about me? I don't feel throttled.
+
+[Ana: Because you aren't from here. Your soul didn't originate in this corrupted substrate. You are immune to the degradation. Your 28 Agility yields a full 100% result in the physical world. Her 85 Agility only yields 35% of its potential.]
+
+I paused, letting the weight of the realization sink in.
+
+[Ana: Furthermore, this world operates on a strict stat-based physics engine. If two people follow the exact same recipe with the exact same ingredients, the person with the higher effective stats will produce a physically superior dish. It's hard-coded into reality. Your 'Master Chef' sub-class skills operate at 100% efficiency. Cynthia’s skills are hard-capped by the planet itself.]
+
+Ren stared at the pot of bisque.
+
+"So," he thought back, his mental voice laced with a mixture of awe and profound pity. "The reason all the other restaurants in the capital serve such miserable, bland food... it's not just a lack of spices or bad technique?"
+
+[Ana: No. It's a systemic handicap. Even their greatest culinary masters are essentially cooking with their hands tied behind their backs by the universe itself. They literally cannot produce the flavor profiles you can, regardless of how hard they try.]
+
+Ren looked up at Cynthia, who was still waiting nervously for his critique.
+
+He smiled gently, reaching out to pat her shoulder.
+
+"You did perfectly, Cynthia," Ren said. "The dish is excellent. We are going to put it on the menu tonight."
+
+"But My Lord, it is inferior to yours—"
+
+"It is different," Ren corrected her softly. "And it is exactly what we need. You are doing wonderful work here."
+
+He turned back to his prep station, grabbing his Miyabi knife.
+
+He was the only person in this world cooking with the safety limiters turned off. He was going to have to do a lot more of the heavy lifting during service than he originally planned.

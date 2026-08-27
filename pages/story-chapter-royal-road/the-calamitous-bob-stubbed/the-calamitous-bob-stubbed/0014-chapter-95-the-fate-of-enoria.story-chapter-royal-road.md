@@ -1,0 +1,471 @@
+---
+id: fd378fb8-5e08-5203-af6b-6ceb4670d19b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 95: The Fate of Enoria."
+slug: 0014-chapter-95-the-fate-of-enoria
+partOf: the-calamitous-bob-stubbed
+position: 14
+ownLength: 6770
+unit: words
+ownProgress: 6770
+publishedAt: 2022-11-04
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1031830/chapter-95-the-fate-of-enoria"
+royalRoadId: "1031830"
+markedReadAt: "2026-06-29T21:15:09.551Z"
+---
+
+“The passage is near the front wall at the base of a tower because the valley used to be the back, before everything went permonn-shaped. Fifty years ago, we were more scared about some of the weird shit the woods were throwing at us. Like walking trees. I saw one when I was three, you know? Killed my older brother, it did. Mages and archers eventually set it ablaze, but not before it had wrecked half the town. Anyway, rambling again, back then the village and its fields was the safe side. Enoria was strong and united, while mercenaries and hunters were stirring the deep green for the next cocklike mushrooms or whatever else the noble fancied. That’s why the passage opens towards the valley, not the woods. We got a problem though.”
+
+“And what’s that?”
+
+“Tarano expected it. He made me show him and sealed it. With stones. It’s condemned.”
+
+“Ah. Unfortunate.”
+
+Viv considered the issue for a moment. She could perhaps clear debris but it wouldn’t be subtle and it wouldn’t be quick. There was no way a caster on their fourth step would fail to perceive the blight spell she would need and there were quite a few around. It would be even worse for Eteia, who was a red mana specialist. Viv could not immediately think of a way to solve this situation, but perhaps there was an angle to pursue?
+
+Meanwhile, Mildery was only too happy to share more about Green Edge and Viv let him. He was passionate, likable, and she missed proper interaction.
+
+“Green Edge declined during the reign of the wasteful king, Enttiku, let his soul rot where it belongs. That crowned wanker wouldn’t protect caravans and many trading houses just gave up on us since they couldn’t transport the precious stuff without bandits preying on them. By all the gods, I’m still mad about it. Do you know the king’s taxmen even came to my father to demand tithes be maintained at the same level? Almost skewered the fuckers where they stood, but anyway. I was young and brash then, had not met Gertha. Have I mentioned Gertha, my wife?”
+
+“Only that she passed away.”
+
+“And a damn shame it is. Great mind, great temper. Biggest tits in the valley…” he finished, dreamily.
+
+“Ahem. Sorry for your loss.”
+
+“Ah, ‘tis everyone’s loss, it is. The kingdom is less for her passing. Died covering children against a pack of snakehounds. I must have killed a hundred of the scaley twats in the following years.”
+
+He sighed so deeply that Viv heard him through several doors. She decided that anger might be better than grief here.
+
+“Did you participate in the previous civil war?”
+
+“I did, yes. On the rebel side as you can imagine. Me and the lads charged the loyalist lines near Koltis with old Litok back when he was not so ancient. Litok was our local mage by the way. Tarano’s bootlickers did him in when they took the place. Wished he had spent more time practicing and less time drinking himself into oblivion. Ah, well.”
+
+That was an interesting point. Viv hadn’t seen anyone yet with clear signs of PTSD. In fact, people’s mental health felt surprisingly strong despite or perhaps because of their bleak outlook on life. She suspected that willpower played a role, though how much of a role she didn’t know. She had much more than the average person and had still crashed down hard multiple times.
+
+“The first few months of the first rebellion were… hard. Now the lines are clearly divided but at that time, your brother could turn you in… And most of the army was in the Wasteful King’s pocket as fattened and untrained as they were. Bah, I am rambling again. Suffice to say, Green Edge never recovered and… and neither did I, I think.”
+
+“What do you know about Sangor?”
+
+“Yes, let’s change the topic. Royal bastard, technically the current king’s little half-brother.”
+
+Viv took a moment to bring him up to speed.
+
+“Dead ey? Can’t say I’m surprised with all the misery. Anyway, Sangor is not well-known to me. I only heard he was a ward of Duke Shelid, one of the leaders of the separatists. It is said he challenged and defeated his adoptive father in single combat despite being one step lower! Canny lad.”
+
+“He cheated?”
+
+“Of course. Some sordid story of swapped ‘performance enhancer’. Instead of deadened pain, his foe had to fight with a raging stiffy, sorry about that.”
+
+“I imagine it can be rather uncomfortable.”
+
+“Especially with a steel codpiece, yes. Anyway, they say he is a powerful, charismatic, and smart man. We’ll see. If he leads, something might happen.”
+
+“Right. I’ll keep thinking then.”
+
+Viv stopped and then smashed her knuckles on her forehead.
+
+“Eteia, still there?”
+
+Nobody answered for a while and Viv gave up, only for an answer to come half a minute later.
+
+“I was getting changed. Hmm, I’ll have to hide this or someone who walks into my tent might just find it.”
+
+“You’re not in the castle?”
+
+“I wasn’t invited. Anyway, what is it?”
+
+“Are Solfis and Marruk fine?”
+
+“Oh! Well, they should be. The scouts knew they were climbing the cliff and stopped in some sort of cave midway, but we left too fast to pick them up. I understand that the head scout wanted the cliffside bombarded because no one was eager to get within claw range, but the mages had all already left. Tarano was rather annoyed when he found out, especially because he wanted to use your Kark’s wellbeing as a bargaining chip.”
+
+“This feels sloppy.”
+
+“The whole capture was. Tarano was, and is, under a lot of pressure. He will make mistakes, but not too many, so be careful.”
+
+“Sure.”
+
+Viv went to sleep after talking a bit more with Mildery. The older man was a veritable chatterbox but he had great insight on the different lords and mages, something books and reports could never tell her. He didn’t seem entirely confident about his side which Viv could understand. Later, Viv fell asleep clutching her empty stomach.
+
+***
+
+The next day began at dawn with no food and only a little water. Viv was starving, thirsty, cold, and miserable as she was dragged up the stairs by a dour Kordok. They only climbed one level but she caught a brief glimpse of the valley through a murderhole while her guard opened a door with his keys. The sight brought back hope.
+
+The valley itself was empty for a kilometer or so, its fields ripening slowly under the late spring sun. Beyond that, people were cutting the forest. The largest encampment she had ever seen in her life, army included, spread in a harmonious mess as far as she could see. Tents of all sizes and colors had popped like mushrooms sometimes during the night, arranged sometimes in neat rows, other times in defensive circles. The smoke trails of cooking fires climbed up the windless air like so many ethereal snakes. People were already felling trees and building static defenses, while veritable bunkers squatted at the edge of the valley, ready to fend off a prompt sortie. Standards of every color stood proudly across the thinning forest before disappearing in the morning fog. It was a sea of humanity the likes of which Viv had never seen and they were here for a single purpose: to stop Tarano forever.
+
+Viv smiled.
+
+She could not help but think that the constable must be regretting his decision now. Even with the obvious quality of his troops, he had to be outnumbered three to one and he doubted Sangor had only brought militia. Some of those tents looked really expensive.
+
+Reality came crashing down when Kordok gripped her shoulder painfully. He didn’t say a word but the reminder was clear. The separatists were outside but Viv was inside, and there were thousands of soldiers between herself and freedom.
+
+Green Edge’s corridors were naked stone. Soldiers and aides rushed along at great speed. Everyone studiously ignored her until they arrived at another fortified door and Viv was let inside. Tarano was waiting for her along with a grumpy mage with gray hair. It was quite obviously a torture room with spiky machines, a brasero, and tables filled with a variety of tools. Viv eyed them disinterestedly, then waited. Tarano sighed while the mage bristled. Viv inspected him out of curiosity.
+
+[Court archmage: an advisor and potent caster, versed in magic and governance.]
+
+More descriptions followed but Viv turned them off since they mostly told her he was fifth step and had killed many people before. The skill failed to say that he hated her guts but it was plain on his face anyway. Tarano took a step forward and licked his lips, pain and regret obvious on his face. Viv was not even a little convinced.
+
+“I would normally not resort to such means, however, desperate times and the burden of commandment carry a powerful…”
+
+“Yeah yeah let’s skip the bullshit,” Viv replied, ignoring fingers digging into her neck. Tarano raised a hand to stop whatever Kordok was about to do to her.
+
+“You want healing, I want out. Let’s deal.”
+
+“I will state it clearly. Your freedom is not on the table.”
+
+“Why are we wasting time with this scum?” The mage spat. “One hour of suffering and she will fold. Women are all guile but cut a finger and they change their tune. Besides, this one is a morally bankrupt mercenary. She cares only for herself.”
+
+Viv raised a sardonic brow.
+
+“Do I explain, or do you?”
+
+“You are not in a position to negotiate,” Tarano reproached.
+
+Viv sighed. She was hungry and barely awake and she would murder someone for a coffee if she could.
+
+“People who have the advantage don’t place a permonn knife and a nutcracker on a torture table. And that shear is used to prune precious flowers without damaging the stem, it is too delicate to be used on fingers.”
+
+Tarano exhaled loudly, though he didn’t deny it. The mage looked like he was ready to explode.
+
+“You cannot sway me through speeches or calls to loyalty because I do not answer to you and have leadership myself. I know there are magical ways to ‘convince’ people but I have a very high willpower and I know it helps guard against such attempts. The only ways you have to convince me to help is through torture or a deal, and torture presents a risk. Too little and I’ll refuse, too much and I might decide to kill Prince Kune instead of regrowing his liver. Or blow myself up. Break me, and you break the method.”
+
+“We will not remove your manacles. Do not even think about it.”
+
+“Then I suppose you have a third step black mana specialist I could train?”
+
+Silence.
+
+“Because otherwise that will not work. Oh, and better bring him fast because I think your time is running out. You have visitors.”
+
+“Green Edge has withstood more than you could possibly imagine,” the mage stupidly said to a woman who had seen Solfis’ original frame and possessed a wild imagination. “Your insolence is simply breathtaking.”
+
+“Yet you still speak.”
+
+“We could also torture you then extract an oath,” Tarano reminded her.
+
+“You seem to take me for a naive village girl. That is a mistake. Oaths made under duress are worthless.”
+
+Silence spread across the room while the men considered their options. Viv could hear the mage grind his teeth from here. She wondered what his fucking problem was. Even Tarano kept a cool head and she had killed the prince he had helped raise.
+
+“I say we burn off her feet and see if she changes her mind,” the mage said “She doesn’t need them.”
+
+Viv inhaled deeply. She had hoped she could finesse the fuckers for nothing but if it took a bit of blood, she’d give it a try. Her pain tolerance was significantly higher than what they thought, courtesy of the Harrakan weather. Tarano gauged her, then he made a split decision.
+
+“Let’s see what you ask for first, since you took my previous offer as an insult. Just be aware that I cannot and will not let go of someone who committed regicide. It will not happen. I would rather try my luck with torture, and I would have done it if the circumstances were not so… delicate.”
+
+“For as long as I am your captive, I want proper clothes, a book changed every week that relates to magic, baths every day and half an hour under the sun to walk around under supervision. If I successfully heal the prince, those conditions are maintained indefinitely. No passing me on to someone else to be executed or anything of the sort. You will also return my skinsuit because it’s chilly at night.”
+
+“What’s a witch want to do with books?” the mage spat.
+
+Viv looked at him with more hatred than she wanted to show, but that asshole was really getting on her nerves.
+
+Just then, there was a boom. The building shook. Dust fell on them.
+
+“Could you kindly see if our defenses are up, my lord Tamar?” Tarano diplomatically requested.
+
+The prickly mage left without a word, but not without giving Viv one last death glare. He might have been stubborn, but he was not an idiot. Someone who followed a court path would know a dismissal when he heard it. It was smoothly done, too.
+
+“I can give you anything but the skin suit, if that is what you call it. I will not return a magical item of unknown origin.”
+
+“Then how about my shield? It has a sentimental value.”
+
+“That lump? With all the sigils?”
+
+“Yes,” Viv replied testily.
+
+Tarano looked at her. She crossed her arms.
+
+“Very well. I consent. When can you start?”
+
+“I’ll need to have a look at Kune—”
+
+“Prince Kune.”
+
+“The patient. And if he is indeed missing internal organs, it will take a while because I do not know how to regrow those. The arm should not take long, same with the leg except the feet, which might be problematic because he lost both and I usually use one as a template to regrow the other. I can work with that, though. No matter what, I will always need a few things. First, a priest, preferably of Neriad.”
+
+“Naden will assist you. She claims Enttiku will agree to help.”
+
+“I will also need fresh monster flesh ground down to a fine paste.”
+
+Tarano froze, then looked up to Kordok, still holding Viv’s shoulder in a death grip.
+
+“She believes it,” the taciturn man grumbled.
+
+Tarano did not swear but Viv practically saw him bite back a curse. He started to pace around the room. Viv kept her emotion under control. This would work.
+
+“Why do you even need that?”
+
+“Black mana does not create, it transforms. I need a base material to regrow flesh.”
+
+“Would preserved rations work?”
+
+Viv shook her head.
+
+“First, the fresher the better, and second, I use the material in the paste. We are not only regrowing muscle here. We need bones and organs. Honestly, I doubt it would work with old meat.”
+
+“Dammit.”
+
+Tarano resumed his pacing. Another boom came from above. This time, the building didn’t shake.
+
+The constable frowned and turned his head.
+
+“How about human corpses?”
+
+“Look,” Viv said, “we want fresh monster meat because they have mana and this helps both the transformation and the later drawing of pathways. Pick humans and you don’t just forfeit that, you go from rebuilding flesh with predigested food to healing someone with dead humans. This would attract the attention of… you know who.”
+
+Tarano froze.
+
+“Up to you but I wouldn’t tempt it,” Viv added helpfully.
+
+The man glared at her and she felt his presence smash into her own. Her leadership rose to the challenge. It wasn’t enough to push him back, but it was enough not to flinch.
+
+“You seem very interested in doing things well, suddenly,” Tarano remarked in a deceptively calm manner.
+
+“What happens if I fuck up the healing?” Viv asked, certain of the answer.
+
+“You die. Similarly, if for any reason the prince perishes, you die. I left strict orders. Do you understand?”
+
+“I understand; I expected it, and that’s why I’m interested in doing things properly. You leave me mostly alone and I will fix your damn heir.”
+
+“You are still hoping for something else,” Tarano said.
+
+Viv thought she had perhaps been too adversarial the last time. On the other hand, she was feeling rather adversarial right the fuck now.
+
+“Look, what I’m hoping is that the army out there wins and shoves your pretentious mug on a spike to be pecked at by mangy birds so I don’t have to see you and your bastard friend ever again.”
+
+“She means it,” Kordok added helpfully.
+
+Tarano glared at the jailer.
+
+“Thank you for enlightening me. You will lead the prisoner back to her cell and provide proper lodging conditions. That is all.”
+
+Kordok grabbed Viv and pushed her back. Viv’s strength was around that of a very young adult in this bullshit world and any soldier here outclassed her completely, which was a little frustrating. As she walked back, she scolded herself for her reaction. Only her quick thinking had prevented her from blurting out Sangor was going to get him, thus strongly hinting she had access to outside information. Negotiations were fine because they were better than torture, but outbursts were prohibited. The hunger and exhaustion were messing with her head. She was also out of practice watching her mouth. Six months being the queen bitch and she couldn’t stay quiet to save her own damn life. Ah well. At least, she had achieved her purpose.
+
+Viv returned to her cell and waited until Kordok had left to contact Eteia.
+
+“Hey.”
+
+“I’m here,” the answer returned promptly, “have you found anything?”
+
+“There is a secret entrance under the north east tower, angled towards the forest. At the base. Its entrance is obscured by a small tree bearing red leaves. It is obstructed for now but I’d wager it will be cleared soon to let out a small hunting expedition. Or one could come in from the other camp.”
+
+“That is great news, I’ll make sure it reaches the other side.”
+
+It was a bit of a gamble on Viv’s side. The keep only had one main gate facing the valley. Hundreds of men defended the fortress while the main group of loyalist soldiers occupied a large hill south of it across a small depression, forming twin elevated grounds. Tarano had limited options to get the fresh monster meat Viv requested into the keep. Technically, scouts could roam towards the Deadshield Woods to find something then attach it to ropes which would then be dragged over the wall from the other side, but Viv wagered they wouldn’t want to be too visible. She hoped Tarano would think the same.
+
+Shortly after that, Kordok returned with water, a large bowl filled with fresh congee, and crisp bread.
+
+“Compliance brings peace.”
+
+Viv rolled her eyes. The food was one of the best meals Viv had ever tasted which got to show how hungry she’d been. A bath was provided as well as a conservative plain dress. She felt human again.
+
+The rest of the day was spent mostly idly between conversations and trying to read the book that asshole Archmage Tamar had found her, which was a dry, long-winded treaty on how magecraft was superior to witchery in every aspect. It did contain some interesting takes on several spell duels. Interestingly, several of those ended in the witch’s victory but they were described as flukes and unfair fights, proof that witches were without honor. Viv found the pettiness more amusing than anything else now that she had a full belly and the prospect of showing Tamar his own bloody pancreas.
+
+The next day, she was requested to demonstrate the viability of the spell, which led her to an ethical question.
+
+Did she care about her intellectual property?
+
+The regrowth spell was hers and only hers, the first original contribution she had made for spellcraft that could actually be used, unlike yoink which would kill the caster. It was a significant improvement to Nyil which, she thought, didn’t deserve it after all it had done to her. The spell had helped her by attracting crippled veterans to her banner. The freshly healed warriors had returned the favor with a vengeance, tearing into Prince Lancer’s troops with cathartic fury. If the spell spread, she would lose the advantage that came with monopoly.
+
+At the same time, Nyil was morally bankrupt up to and including some of the light gods and it would be hypocritical for her to bitch about it while being part of the problem. Nyil was garbage. She had an opportunity to make it less garbage. Maybe that was fine. Maybe leaving her mark in history as someone who had killed a slaver prince, revitalized a fragment of the deadlands, and invented a way to regrow limbs was… not too bad, actually.
+
+Yeah, Nyil could have the spell. As she had mentioned, it would take a black mana specialist or an archmage to perform it anyway so she would still retain an advantage in the short term, but now more people would use it. Rich people, given the cost at first, but at least that was a start. Maybe someone would refine the process until it eventually became the norm.
+
+Yeah, she was fine with that. She was fine with that choice and that legacy, if it came to it.
+
+Viv made no effort to hamper the session, for once. She requested an empty room which was provided and demonstrated the three steps of her reconstruction spells, making sure to list the requirements. Tamar followed the entire session with a sneer, but the two other powerful mages present asked pertinent questions and seemed genuinely interested. Viv tried to meet them halfway but the old buggers kept talking about Aldus’ paradigm and the Plinex constant and other such abstract nonsense, which made communication difficult. She resorted to explaining meaning and glyph usage, which in turn made the mages blink in confusion. They would be unable to cast any time soon but they were able to mark down every glyph and the construct of the ritual despite not fully understanding it, so there was that. After a few hours of efforts, the two other mages saluted Viv with a hand to their forehead which Viv’s instinct said was a sign of respect from one practitioner to another. It made Tamar even more annoyed.
+
+The first batch of meat arrived the same evening. Viv discarded them on account of being from animals, not monsters, and that they would be more complex to work with. The only worthy specimen was a bird with bright green feathers, all two kilograms of it.
+
+Nevertheless, Viv set up in the prince room to regrow his right shoulder as a proof of concept under the supervision of Tamar and another mage. Tarano was there as well, and Kordok stood by her side. It felt great to flex her mana again even if it was heavily controlled. Better yet, Tarano allowed her to wield her dagger which had been left intact for now, on account of being useless to anyone but a black mana specialist. Her shield was also returned. Other items were left in the room as encouragement, she thought.
+
+The operation went well despite two swords and a plethora of spells hanging over her head, ready to turn her to ash at a moment’s notice. It only took a couple of minutes, and when she was done, there was genuine emotion on Tarano’s face. He grabbed Prince Kune’s face with a fatherly hand and whispered.
+
+“I will save you, then you can save Enoria.”
+
+Viv was so eager to crush his dreams. That would have to wait, however, but probably not too long.
+
+In the corridor, Viv had another good look at the outside. The encampment was fully fortified and the separatist army was building something she never expected to see in a world of sorcery, and yet it was there. At the tip of their formation stood a massive siege tower. It was as tall as some earth buildings and would definitely reach the top of the keep if it were allowed to move there. Made of wood, the surface was covered in strange paintings, animal skulls, and decorated pelts to the extent that it looked more like a horror movie prop than an actual war machine. Spikes adorned its sides. As she watched, an artillery spell launched from the keep’s battlement only to be intercepted by a bird made of fire. A dull explosion reached her ears from across half a kilometer away.
+
+More explosions sounded while she walked across the busy courtyard under the disapproving glare of the local soldiers. Squads of archers crossed it at a brisk pace. Viv could not help but admire their massive bows, all ornamented and well-made. Once more, the walls shook from various impacts. She didn’t protest when Kordok shortened her break.
+
+After that, the jailer brought her back to her cell which now sported covers and even a pillow. She placed her shield against the wall. As she had said, it had a sentimental value with all the crests present. She was barely seated when Naden came to visit with Lotae in tow. The follower of Enttiku knocked before going in while Lotae glared disapprovingly at her creature comforts. Viv pulled a power move by offering the only spare seat to Naden before the rancid bitch could react, which left her standing. Small victories.
+
+“If you don’t mind, could you tell me about the ritual and what would be expected of me?”
+
+"Certainly. I will use a diagnostic spell to identify and map the missing matter, then black mana will turn sludge into the desired shape. The problem is that the soul does not recognize the foreign matter as its own. It takes a healing spell to complete the process, one I cannot cast.”
+
+“Would it work with life mana?”
+
+“Yes, but I suspect the spell might be incredibly complex while divine mana will do most of the work naturally. The divine spell truly completes the fusion, then it takes a while for the mana channels to regrow. The process is extremely uncomfortable.”
+
+“Would it be more uncomfortable for people who have developed them, like mages and spell blades?”
+
+“We would need to conduct a study to know for sure. So far, it has not been a priority.”
+
+The discussion continued for a while. Outside, the bombardment was intensifying so the two priestesses eventually took their leave to attend to the wounded. The shaking walls led Viv to believe that the separatists had their own magical heavyweights and they had come in force.
+
+“You know what would be awful?” Mildery asked later.
+
+“I can think of a couple of things. What did you have in mind?”
+
+“If I died buried in stones instead of burying my warhammer in someone’s chest. In my own castle no less! The humanity.”
+
+“Don’t mention it. I’m knocking on wood.”
+
+“Eh?”
+
+“It’s a saying from where I come from. Err. Means warding off bad luck.”
+
+There was a knock nearby.
+
+“If it doesn’t work, my revenant will bite your ass.”
+
+“Oh it can certainly try.”
+
+They bantered a bit more, but Viv felt a sort of tension in the air, something at the edge of her perception that distracted her.
+
+In the evening, the bombardment redoubled in intensity. Horns rang in the distance.
+
+The door unlocked. Lotae came in. Viv felt all sorts of alarms ring in her head. The cold woman’s smirk only reinforced her idea that something was wrong.
+
+“You are too docile,” the woman said in a light tone. “Far too calm. I know your kind, always reaching up. You will never learn your place and you will never contribute. You only take. If you are giving, it is to better take later. Tarano may be fooled and distracted, but I am not. You are planning something. You will tell me now.”
+
+“I’m planning to break your neck.”
+
+“Hilarious. You are such a great witch, witty and exotic. Bantering with the men and tempting them with your honeyed words. It’s all fun and games to you.”
+
+“I assure you I take life quite seriously.”
+
+Lotae lifted a hand. Her presence smashed against Viv’s, a red wave of compliance. It was edges and power designed to subdue, but behind there was a lure, one that Viv understood. It was the serenity of a well-ordered life. It was peace and routines and a code that would guide, answer the difficult questions, but beyond that it was also a community. If Viv surrendered herself, she would be dependent yet protected by a tight-knit group. Within those constraints, she would still have freedom, and happiness could still be found.
+
+But not by her. And certainly not by a faith she would not pick herself.
+
+Viv’s intimidation, long dormant, woke up. She had led an army to victory. She had given people a purpose. Her works had pushed back the deadlands and now, trees and crops grew where earth had laid dead for centuries. More importantly, she had impressed a dragon. Only a worthy cause would sway here and this wasn’t it.
+
+Lotae grit her teeth in frustration but the sheer power of Viv’s existence broke her spell and called its lies. Lotae did not wish for Viv’s happiness, only for her obedience. Hers was advice meant to change Viv for other people’s benefit and not for her own. The priestess fought harder but she didn’t have a grip. There were no chinks in the witch’s armor, reinforced as it was by her trust in herself, her defiance of others, and a healthy serving of ego.
+
+Then the door unlocked once again.
+
+Lotae gave up her attempt on the spot, clearly not expecting an interruption. She twisted on herself to face the newcomer, someone Viv had never met before. He wore the garb of a scout, but over enchanted mail that shone silver under the green coat. He was one of the ugliest people Viv had ever met, with an asymmetrical face, a nose like a potato, scarred cheeks, large eyes and a chin you could break rocks on, yet for all of it he was striking. His charisma radiated all the more for his unfortunate features, and the gaze on Viv shone with a keen intellect.
+
+“Scout Kert, here to take the prisoner ma’am.”
+
+Right, if this guy was a scout, Viv was the Queen of England.
+
+“I sincerely doubt it,” Lotae retorted, placing herself squarely between Viv and the man.
+
+Which was a big mistake.
+
+Viv slowed down her perception of time and grabbed Lotae’s head from behind. A red shield enveloped the priestess just as a scream of alarm escaped her lips. Viv felt a resistance, she could not touch the priestess’ skin, but the shield moved with her body and that’s all Viv needed. Using her momentary burst of strength, she pulled her foe backwards and towards her knee. Lotae’s vertebrae snapped with a grisly crack.
+
+Viv wasn’t sure if it would be enough, so she grabbed her shield and smashed it down on the gasping priestess. The woman stopped moving.
+
+When Viv looked up, the fake scout had been joined by a woman wearing armor that seemed to be made of bark and a man in dried leather completely covered in colorful feathers. Other rough men waited behind the door, including one who was quite obviously a mage with a staff disguised as a spear. It could fool people who didn’t have her mana mastery skill, probably.
+
+They were all scarred and angry.
+
+“Oh, I like her already,” the bark woman said.
+
+Viv inspected her. The skill gave back [hunter] for a moment, but then something broke as the woman waved her hand.
+
+[Archwitch of the Thorns: one who follows the path of forest-based magic. Extremely dangerous. Brown and life mana specialist. Expert battle caster. Slayer of men…]
+
+She was in the late fourth step. The man on the right returned [Wing of the Pale Dawn] and the dude in the middle, the one who lied badly, returned [Nigh King].
+
+“I didn’t expect to meet Sangor in the flesh,” Viv said.
+
+“We objected,” the mage said from the door.
+
+“I had a good feeling,” Sangor replied calmly.
+
+He really did have a presence, and his voice was soft and warm. Viv found herself relaxed just from him being around and even more so when he removed the manacles. Viv breathed out. Black tendrils swam from her shoulders and moved around languidly. God, but it felt good to be free. Liberating, as it were.
+
+“The black likes you, sister,” the archwitch remarked. She was smiling broadly.
+
+“Sorry, but we don’t have the time for discussions,” Sangor interrupted. “Do you know where Prince Kune is?”
+
+“Yes.”
+
+“Then lead the way, we have to put an end to this war.”
+
+“Before that,” Viv said, “there is another man here, Lord Mildery. Do you have the key?”
+
+It turned out that they didn’t. Kordok had surrendered Viv’s key as well as his life when Sangor had found him, but Mildery wasn’t his prisoner. This obstacle didn’t stop the group’s mage who simply destroyed the lock. Mildery appeared much younger than Viv expected with an extremely muscular build and a pretty good handlebar mustache on a virile, handsome face. He grinned when he saw Viv.
+
+[Monster Slayer: one who focuses on taking down large creatures with massive weapons.]
+
+“Seems I owe you for more than just a conversation.”
+
+The band of powerful, heavily armored fake scouts moved through the mostly empty corridors. This side of the keep faced the forest and most of the defenders were facing the valley where the separatist army was even now conducting a large-scale assault. The distraction served until they reached the prince’s room which was defended by a pair of guards. They were killed after a short scuffle with the feather dude casting a gray mana silence spell. Viv didn’t have to do anything. It was clear that Sangor had brought people who knew their stuff.
+
+Viv entered the room. Naden was here but she immediately surrendered and no one touched her. Viv rushed to her corner of the room to gear up. Her helmet was there, as well as the dagger and, strangely, her backpack with some of her personal effects. No skinsuit. The food was gone as well as her poison-detecting ring and all of her cash but they had left the bank chit. She finished putting everything on, then turned.
+
+Sangor was cleaning blood from his sword. It was immediately obvious where it came from.
+
+“You… you killed him?” Viv moaned.
+
+“Yes?”
+
+“He was disarmed. I expected you to take him hostage or something?”
+
+“Spoken like a follower of Neriad. I only care for a prompt and definitive end to the war, and I will go to any length to make sure it happens. Even if it means killing a defenseless man.”
+
+Viv watched the expanding pool of blood dripping down the wood frame. The prince’s face had been covered, his bed sheets turned into an improvised shroud. Just like that, the last heir of Enoria had fallen. Barring a miracle, the loyalist side was done for.
+
+And Viv had guided the man who had finished it all. He, the most legitimate heir to the throne, now sheathed his sword.
+
+“Bibiane, I understand that he was your patient, but I need you to focus right now. We have to take down or disable the mages at the top of the tower or there is still a chance to lose this attack. Too many Enorians already lost their lives fighting this pointless war. We need to go, now. Can you lead the way?”
+
+“No, but Edwin Mildery can.”
+
+The procession didn’t stop on its way up. They avoided most soldiers. Those they didn’t were absolutely no match for them. Besides Viv, all the persons present were on the fourth step. The archwitch stopped by Viv’s side, perhaps to distract her. She was a mature woman with ruddy skin tanned by the sun. Mana danced around her in vibrant flares.
+
+“So, which tradition are you from?” she asked with a smile that showed her canines.
+
+Viv realized she had almost no idea about instinctive casters. Solfis had known little about the subject and the little she read was written by mages who seemed to have strong opinions on the subject.
+
+“Hm, nothing special. I mostly use it to kill things.”
+
+The other woman’s smile only widened.
+
+“Oh, that’s a tradition! The Way of the Sun.”
+
+“Huh.”
+
+The conversation did little to distract Viv, especially with the sounds of battle closing in on them. There were no windows on the murderholes, so the screams of the dying and the whistles of arrows came to her in full definition stereo. Sangor led them up and up to the roof. To Viv’s surprise, he just opened the last door and walked in. The rest of them followed.
+
+Tarano stood on top with mages gathered in a half circle around him, including Tamar who looked on the verge of apoplexy when he spotted Viv. The constable looked tired and his armor was damaged on the left side from a near hit. Craters and traces of impact decorated the ground, with parts of the battlement entirely gone. The siege tower Viv had seen was making its merry way up to them at a snail pace, looking mostly intact besides some singed planks. Archers shot out from its interior.
+
+Back on the roof, both sides stood quietly in what appeared to Viv as a veritable storm of mana and soul pressure. She had made sure to be at the extreme right of the formation in case this turned into a slaughter, but even there, the sheer power of the men and women around made her head hurt. Meanwhile, the enemies of a fratricidal war of thirty years eyed each other with frozen faces. Thirty elite casters and knights of the fourth step and above, practically demigods. Tarano was the first to speak.
+
+“Where is Kune?”
+
+“It’s over, Tarano,” Sangor replied. “There is nothing more you can achieve.”
+
+Viv thought it was a shit idea to say that, just as it had been a shit idea to kill the prince instead of using him as a hostage, but Tarano wavered to her surprise. It appeared that the Nigh King had a better grasp of his enemies than she had.
+
+“He was your nephew,” Tarano sobbed.
+
+“And I will bury him myself, but Enoria comes first. Surrender. Spare the lives of your men.”
+
+For one sublime moment, Viv believed Tarano would collapse, that the setting sun of his presence would finally crash down like his dream and dynasty had, but then his eyes swiveled and landed squarely on her.
+
+“You. It is you. I know it.”
+
+Tarano walked in the tense atmosphere and stopped directly in front of Viv. He was beyond fury.
+
+“I do not know how you managed it but I swear on every god that you will pay for this treachery. I do not care how long it will take or where I will find the men but I will come to your idyllic little shithole, and I will destroy everything you ever built, mark my words.”
+
+Viv stood her ground. She opened her mouth and uttered a single word.
+
+“Excalibur.”
+
+The ray of concentrated annihilation smashed through the weakened side of Tarano’s armored torso, rending his heart and most of his chest. He gasped in complete, abject surprise.
+
+Lost Heiress (3/10)
+
+All hell broke loose.
+
+Viv raised the most concentrated shield right in front of her and felt her mana drop precipitously. It broke long enough for her to see Tamar’s furious face. She cast a quick net spell but it broke against a transparent shield. She jumped to the side and blocked something that pushed her back. The roof shook and collapsed under her feet. She slipped, grabbed a ledge. It exploded under her fingers. Viv fell into the abyss below.

@@ -1,0 +1,517 @@
+---
+id: 8eb6e331-fd0e-5256-b3a2-cae282211624
+page-type-slug: story-chapter-royal-road
+title: "Chapter 80: The Morning of Many Mouthfuls"
+slug: 0081-chapter-80-the-morning-of-many-mouthfuls
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 81
+ownLength: 2104
+unit: words
+publishedAt: 2025-12-23
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2874333/chapter-80-the-morning-of-many-mouthfuls"
+royalRoadId: "2874333"
+---
+
+PoV Luna
+
+Warm light peeked in through the shutters, brushing across rumpled bedding and a soft pile of tangled limbs.
+
+The blanket wriggled, then the fuzzy pile it hid groaned. Then yawned.
+
+A wild tail shot out from under the covers and smacked into something solid.
+
+“Wh– ow! Lunaaa…” A whimper from Trianna.
+
+Her fault she was in wag direction!
+
+Another yawn.
+
+A snout appeared out from the covers, followed by sleepy ears perked just enough to twitch. Followed by a suspicious growl from the stomach area. Enough to convince a certain wolf girl that it was prime time to get up!
+
+And a sleepy wiggle and transformation later, Luna wriggled her way free from the bedding, now human-shaped, blanket cape still clinging to her shoulders like a proud banner of war.
+
+She stood triumphantly on the mattress with sleep-fluffed hair and no regard for the laws of balance.
+
+She posed. One arm up, one leg out.
+
+“Awoo~!”
+
+Ray groaned from the corner.
+
+“Can we ban howls before sunrise?”
+
+“But Awoos are friend shaped! Like Mlems!” Luna declared, hopping down in a wild flurry of steps. “Does friend want a mlem?”
+
+Sepio muttered without opening his eyes.
+
+“Mlem denied.”
+
+“Aww.”
+
+Ten minutes later, they were outside.
+
+Mostly dressed. Half awake.
+
+Luna had accepted clothes again – but only because Syl tied the sash herself and bribed her with morning jerky. Shoes lasted a heroic total of five steps before being declared “wrong-feet cages” and vanishing into a bush.
+
+Syl sighed.
+
+“We’ll find a cobbler with stronger laces.”
+
+“Luna likes cobblers! They sound like dessert!”
+
+“They’re not.”
+
+Luna pouted.
+
+“Words are weird.”
+
+The streets of Altracia were stirring now, the scent of morning rising like a spell over the cobbles. Smoke curled from clay ovens. Butter hissed on hot iron. Vendors yawned, then shouted.
+
+But the food.
+
+The food!
+
+Luna froze mid-bounce, her hunger remembered. Ears perked. Nose twitching so fast it blurred.
+
+Then she was gone.
+
+Shadow-stepping between stalls before Syl could even blink.
+
+“Luna!”
+
+“FOOD!”
+
+Grills. Pots. Roasting trays.
+
+There were things that steamed. Others that sizzled. One cart had a glowing purple flame under its pan and something definitely not-safe sizzling inside.
+
+“Meat-smell! Spice-smell! Weird goo-smell?!”
+
+She dashed between tables, tail wagging in wild figure eights.
+
+A bearfolk flipped egg-crusted buns.
+
+A thin elf carved roast lizard tail onto skewers.
+
+A kobold stacked spiced fruit slices like tiny towers.
+
+But while they stood out, the vast majority of what was available looked like… bread. Or variations of it. Stuffed, with stuff on, sliced and minced. Wheat dumplings and more!
+
+Luna licked her lips.
+
+“Luna wants this one!”
+
+“That’s not cooked yet,” Syl warned, catching up.
+
+“But smells ready!”
+
+“Smells raw.”
+
+“...Still good-smell, Luna would eat.”
+
+A rabbit-eared woman handed her a dumpling before Syl could stop it. Luna bit in–
+
+“HOT!!”
+
+Steam puffed out her nose. She bounced in a panic, tail-wag-glitching. Syl offered her some water. Luna chugged it all up.
+
+“Deceit food! But good!” she cried, betrayed but impressed.
+
+“Try blowing on the next one.”
+
+“Luna bites first! Thinks later!”
+
+Trianna snorted into her sleeve, while others pretended to be a little more polite.
+
+They kept moving.
+
+Every stall had its own rhythm – like a hunting ground, but happy. Each table a scent-trap Luna was far too eager to explore. Each sizzle a beckoning she could hardly ignore.
+
+And vendors caught on quickly.
+
+Some gave her samples.
+
+Others tried to stop giving samples!
+
+None succeeded!
+
+By the time Luna sat cross-legged on a wooden bench, she had tasted three dumplings, five unidentifiable fried things, a cheese pocket that exploded in her mouth, and a bowl of spiced noodles she still didn’t understand but kept slurping.
+
+She had sticky hands. Happy hums. Glaze on her cheeks.
+
+And was absolutely floored by the idea that spice could come in so many forms and types!
+
+Luna thought about it.
+
+Licked her not-paw-hands clean.
+
+And declared!
+
+“Town is food-dungeon! Better than shiny dungeon!”
+
+Ray, eating politely beside her, choked in offended denial.
+
+Syl gave her a look.
+
+“We don’t loot people’s stalls, Luna.”
+
+“Luna trades!” she insisted, offering a half-eaten roll to Veric.
+
+Veric stared at it. Blinked once.
+
+“...That’s a bite tax, not a trade.”
+
+“Same!”
+
+Her feet bounced under the bench. Her tail wagged again and nearly knocked over a cup.
+
+Syl finally sat beside her, hair wind-tousled, cloak dusted with flour from pulling Luna away earlier.
+
+Luna leaned in.
+
+“Second…”
+
+“Yes, Luna?”
+
+“…Is this Luna’s new hunting ground?”
+
+Syl looked at her. Then at the stalls, the food, the vendors who now kept extra napkins nearby. At the small, wild creature next to her who could out-zoom a fox and out-charm an army.
+
+Then nodded.
+
+“...I suppose it is. But–”
+
+Luna smiled.
+
+And bolted before the lecture could begin.
+
+“MORE!”
+
+“Luna!”
+
+Trianna chased after her with a laugh.
+
+Syl rubbed her temples, just as Sepio finished chewing, sighed, and stood up with solemn resolve.
+
+“We’re going to need another round of napkins,” muttered Ray. Yet despite his surly words, his smile was unmistakable.
+
+Veric finished his roll, quietly following behind.
+
+The morning had begun.
+
+With chaos. And crumbs. And one very food-motivated Wildling they still had to herd towards the Guild.
+
+***
+
+Luna stood on her toes, peering over the edge of the tall table with great suspicion.
+
+The polished wooden box resting at its center looked far too serious. No smell. No shine. No chew.
+
+Suspicious indeed!
+
+Receptionist Julia, all bright eyes and ceremony voice, opened the box with a practiced flourish.
+
+“By order of Guildmaster Ferric and witness of Altracia’s Adventurer Hall, we recognize this new entrant into the guild’s registry–”
+
+Luna’s ears twitched at registry.
+
+Was it food?
+
+She was suddenly very interested!
+
+The lid clicked open.
+
+Inside sat a steel badge. Simple. Round. Etched with a simple letter ‘D’.
+
+Luna’s head tilted, sniffed. Then she snorted. Not-food!
+
+Disappointed!
+
+Syl stepped forward. Calm as ever.
+
+“Go on, Luna. It’s yours now.”
+
+Luna blinked slowly.
+
+“…Luna gets this shiny flat thing?”
+
+“Yes.”
+
+She reached out.
+
+Sniffed it. Poked it.
+
+Then bit it.
+
+Julia yelped.
+
+“No! No biting!”
+
+Luna frowned.
+
+“Not food?”
+
+Syl sighed.
+
+“No, Luna. It’s your Adventurer Badge, it acts as your identification. It means you belong here now. You’re part of the guild.”
+
+Luna’s eyes went wide. Then wider. Then sparkled.
+
+“Ohhhh, part of pack now! Very important. Luna must store safely!”
+
+With the gravity of a treasure dragon preparing for hibernation, Luna reached into the air.
+
+Shadow shimmered.
+
+The swirl of her Maw appeared, hungry and voidlike.
+
+She raised the badge… and tried to feed it.
+
+Clink.
+
+The badge bounced off the shadowy portal.
+
+Luna stared.
+
+Tried again.
+
+Clink.
+
+Again!
+
+Clink.
+
+She scowled.
+
+“Why you no go in?!”
+
+Veric folded his arms behind her, impassive.
+
+“Perhaps it lacks nutritional value.”
+
+Ray grinned.
+
+“Maybe it’s too shiny.”
+
+“Luna eats shiny sometimes!”
+
+“Please don’t,” muttered Syl.
+
+Trianna crouched beside her, chin on palm.
+
+“Luna. How about you try thinking of it not as food, but as something that leads to food?”
+
+Luna froze.
+
+“Leads to food?”
+
+“Yes. You get paid for requests done. And currency can be exchanged for services and goods.”
+
+“Like food?”
+
+“Like food.”
+
+Luna’s eyes narrowed in sudden wisdom.
+
+Then – slowly, reverently – she lifted the badge before her face.
+
+“You… are the key to snacks!”
+
+And held it toward the Maw again.
+
+pop
+
+It vanished.
+
+Gone.
+
+Ray sighed, faux-mad that it worked.
+
+“Oh no – she convinced the magic!”
+
+Trianna clapped once.
+
+“She did it. She logic’d the logic-eater.”
+
+Syl didn’t even flinch. She just patted Luna’s head with a sigh.
+
+“Good girl.”
+
+“Ehehe.”
+
+“And now you’re an official adventurer. We just need to do some requests for Ferric to get your rank up quickly. He couldn’t exactly put you higher without a track record.”
+
+“Luna is official now?” Luna asked brightly.
+
+“Yes.”
+
+“Then Luna must tell EVERYONE!”
+
+“Wait–!”
+
+But it was far too late.
+
+She sprinted out of the ceremony circle towards some of her new friends, arms up, tail practically wagging out of existence.
+
+“Luna official adventurer now! Luna has badge of snack finding!”
+
+The uproar was immediate. And any adventurer who didn’t hear it yet was soon tackled to the ground and told.
+
+It became a game of ‘who can escape from the mad little girl’. Several adventurers tried to dodge, three ducked, two tripped over themselves backing up, and one wisely hid behind a table.
+
+To no avail.
+
+The game changed to ‘how long can you survive’ soon after.
+
+Julia looked faint.
+
+And Trianna was just a tiny bit ashamed.
+
+“...Perhaps I should not have told her about it leading to food?”
+
+Veric’s reply was calm, yet judgemental.
+
+“...Indeed. We may have created a problem.”
+
+Syl pressed a hand to her brow.
+
+“It’s not really a problem. But a very loud solution.”
+
+Ray leaned toward Veric with a whisper.
+
+“Ten silvers says someone tries to ask her to join their party before lunch.”
+
+Veric gave him a flat look.
+
+“Only if they want their nose bitten off.”
+
+Across the room, Luna leapt up onto a bench and posed heroically, arms wide.
+
+“Luna is ready for quests and dumplings!”
+
+Somewhere in the back, someone actually clapped.
+
+Trianna doubled over with laughter.
+
+Syl gestured sharply.
+
+“Alright. Time to collect missions. Before she starts sparring with everybody again.”
+
+“Or gives the receptionist a heart attack,” Ray added.
+
+“Or starts eating the quests,” Trianna said.
+
+“I would never!” Luna shouted. Then added, softer: “…Unless they smell good.”
+
+***
+
+Syl returned from the quest board with a stack of parchment and the expression of someone already regretting tomorrow.
+
+“A few gathering requests, three pest removal, and a monster patrol. All entry-tier. All field-based. And the simple repeatable quests.”
+
+Ray leaned sideways in his chair.
+
+“So… babysitting, plant-picking, and squashing things?”
+
+Trianna grinned.
+
+“Careful. With Luna involved, those plants might try to bite back.”
+
+“Speaking of, it’s been strangely silent for a while now…”
+
+They turned towards where Luna was previously chasing after several uninvolved adventurers.
+
+And found Luna whispering suspiciously with the group of ‘proper humans’. The very same ones who did their odd poses before.
+
+Very familiar.
+
+“Uh oh,” eloquently said Sepio.
+
+“I have a bad feeling about this. But the excitement…!”
+
+Trianna was torn, and Ray smelled an opportunity.
+
+“Wanna bet what it’s gonna be this time?”
+
+“Hrm.”
+
+As they talked, Luna perked up, spinning on her heel and bounding toward one of yesterday’s play-fight victims.
+
+“Fox friend!”
+
+The fox-tailed beastkin froze, mid-sip of beer.
+
+“...It’s Dorian.”
+
+Luna launched into his side with a soft pompf and a happy rumble.
+
+“Luna wins fight, but now we are pack, yes?”
+
+The man blinked. Then laughed.
+
+“Sure, sure. Pack it is. Shin-assassin rules.”
+
+Another adventurer raised a bowl.
+
+“She knocked me into my lunch twice. Still worth it.”
+
+“It was good soup!” Luna nodded. “Very proper splash!”
+
+Someone tossed her a roasted nut from across the hall. A dwarf with a grin as wide as his beard.
+
+“Sweet pup, you’re welcome any time. The new blood needs humbling.”
+
+Luna caught it with one hand, sniffed, and chomped with delight.
+
+“Snack tax accepted.”
+
+That was the only finance word Luna learned properly. Despite Ray’s best tries to teach her during the stall escapade.
+
+Syl stepped in before Luna could “collect taxes” from the rest of the adventurers.
+
+“Time to go.”
+
+Luna whirled around, cheeks full, tail an invisible blur.
+
+“Yip-yep! Luna ready! Almost!”
+
+Somebody poked Syl on the shoulder.
+
+She turned, saw the Troublesome Proper Human Team.
+
+And barely-not-groaned-out a ‘Yes? What is it?’
+
+“Luna is in the Guild now, yes?”
+
+The girl popped back into the team of posers at some unknown point. But Syliana really didn’t know what to make of this now.
+
+“...Yes?”
+
+“So we figured…”
+
+The poses were struck, Luna was awestruck! Chest puffed up, all proud and happy.
+
+“That this little Wolf Girl here deserves a nickname!”
+
+“Oh gods above,” was all that Trianna managed before they continued.
+
+“From now on Luna shall be known as a Power Fluff Girl!”
+
+The buff bull man among them veeeery conspicuously added in:
+
+“...ya know, coz she’s fluffy. And has a lotta power!”
+
+…Then returned to flexing his muscles after sharing this glorious secret.
+
+Syl stared. Groaned, and finally, finally managed to get her words out.
+
+“Good job Luna… Now I regret everything. Let’s go.”
+
+The doors swung open, and the party filed out into the warm noon light to the roaring laughter of some overly silly adventurers.
+
+Luna followed, and snuggled up to Syl.
+
+She grinned.
+
+For her Second was smiling!

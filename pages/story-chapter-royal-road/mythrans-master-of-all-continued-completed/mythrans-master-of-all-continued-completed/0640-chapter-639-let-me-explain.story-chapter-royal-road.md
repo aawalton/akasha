@@ -1,0 +1,259 @@
+---
+id: 149f476f-1a8b-555e-9cd1-a7a67290bf19
+page-type-slug: story-chapter-royal-road
+title: "Chapter 639 - Let Me Explain"
+slug: 0640-chapter-639-let-me-explain
+partOf: mythrans-master-of-all-continued-completed
+position: 640
+ownLength: 2773
+unit: words
+publishedAt: 2018-07-15
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/234259/chapter-639-let-me-explain"
+royalRoadId: "234259"
+---
+
+Lara, the Sage of Ages, woke up in her closet. She stepped out and went to her desk to sit down. Once she was comfortable, she activated one of her unlocked abilities called Monitor Effect. She concentrated on the succubi and a list popped up with their locations, and she chose the ones at Ren's house in the Housing District.
+
+The list disappeared and a top down view of the house replaced it. There were 4 little figures in one of the rooms and a large red circle surrounded the house. It wasn't very large, barely outside the walls, but that alone was a concern. It used to only be around the bedroom, and that was because 4 of them were together and their effects combined.
+
+Lara backed out and chose one of the succubi that were still at the roost Ren had built for them and saw the red circle was still contained within the roost itself and wasn't growing.
+
+“Okay, it's not too bad.” Lara said and went back to the Housing District and the succubi there. “I'm not sure what he's been doing; but, at least he didn't sleep with them.”
+
+“Who are you talking about?” Rosie asked.
+
+“AHH!” Lara yelped and jumped up from her desk.
+
+“I'm sorry. I didn't mean to scare you.” Rosie said with a huge smile.
+
+“Uh huh.” Lara said. “What do you want, Rosie?”
+
+“I was just getting some reference material for an Adventurer, and I heard you talking.” Rosie said and showed her the book. “I was just wondering...”
+
+Lara sighed. “You're not going to leave me alone until I tell you, are you?”
+
+Rosie chuckled. “You seemed relieved, so I was curious who you were talking about.” She said and started to walk away.
+
+“Wait.” Lara said, and Rosie stopped and turned back to look at her. “It was Ren.”
+
+Rosie smiled. “Who hasn't he slept with?”
+
+“The succubi.” Lara said without trying to avoid the answer.
+
+Rosie walked over to her and put a hand on her shoulder. “If there's one thing I know about Ren, it's that he wouldn't do that.” She said. “He knows what their abilities are, doesn't he?”
+
+“I think so. I tried to explain to him that...”
+
+“You need to trust him.” Rosie said. “I know it's difficult to put your faith in someone else; but, you shouldn't have to worry about him doing something monumentally stupid.”
+
+“But, he doesn't realize...”
+
+“Why not just ask him?” Rosie let her shoulder go and turned away. “I'm sure he will tell you his intentions.”
+
+Lara watched Rosie walk away and out of sight. “I thought you didn't like me.”
+
+“I don't.” Rosie's voice said and she chuckled. “But Ren does.”
+
+Lara heard the door close and she was alone in the room. “I guess I could message him.”
+
+*
+
+“I suppose I should have consulted you before believing what I had planned was the best thing for me.” Lylyth, the Queen of the Dark Elves said.
+
+“I'm sure having him as a concubine and lording it over him would be quite satisfying.” Ren said. “I mean, especially after...” He stopped talking and caressed the side of her face. “I really am sorry they did that to you.”
+
+“I can feel that you are, dearest.” Lylyth said as her heart was touched deeply by his sorrow and sympathy. It was also quite tasty. “Thank you.”
+
+Ren gave her a kiss. “If you're open to listen to a few suggestions...”
+
+Lylyth chuckled. “Perhaps I should bring my people in and let you take over.”
+
+“Just for this part of the plan.” Ren said. “I don't need to run the whole kingdom for this.”
+
+Lylyth laughed. “I was joking.”
+
+“I wasn't.” Ren said, seriously. “Please bring in the generals and the rest of your advisors, and I'll tell them the best way to handle everything.”
+
+“You're serious?” Lylyth asked, surprised.
+
+“You've humored me so far, My Queen.” Ren said. “Why not let me keep helping you?”
+
+“I...” Lylyth started to say that she didn't need his help, then she felt a hand on her arm and turned to look at her attendant.
+
+“Let him help, My Queen.” Tiatha said. “He really does want what's best for you.”
+
+Lylyth looked from her to Ren, then back again. She stood up and waved a hand. The sound of scuttling legs was heard, then a dozen Dark Elves came into the room.
+
+“Explain to them your plan.” Lylyth said, a little coolly.
+
+“No.” Ren said.
+
+“Excuse me?” Lylyth looked down at him with a slight frown. “You asked me to bring them in.”
+
+“I can feel your emotions, as can everyone else, and you don't want me to tell them.” Ren said and unobtrusively took something out of his inventory. “You think I'm trying to usurp your authority.”
+
+“Yes. You just admitted that you wanted to take over.” Lylyth said.
+
+“...and you didn't hear what I said.” Ren frowned back. “I want to help you, not hurt you.”
+
+“I heard you.” Lylyth said. “But you have forgotten an important fact.”
+
+“What's that?”
+
+“You are the Royal Consort; but, that affords you no standing in Dark Elven society, except as an adjunct to me. They will listen to your words; but, they have no compulsion to follow your orders or to even pay you any attention.” Lylyth said.
+
+“Is that why the other Dark Elf wasn't bothered by me tossing him around?” Ren asked. “I was beneath his notice, even though my Influence is maxed?”
+
+“Yes.”
+
+“Then why do you pay me any attention?”
+
+“Because I love you.” Lylyth said, then she gasped; as did everyone else in the room.
+
+“That's not possible.” One of her generals said.
+
+“This is highly irregular.” One of the advisors said. “One does not fall in love with a consort.”
+
+There were a few other whispers, but Ren ignored them.
+
+“The truth will set you free.” Ren said and stored the Amulet of Truth. “If your people won't listen to Ren the elfling, perhaps they will listen to Ren the Dark Elf.”
+
+“Wh-what?” Lylyth took a step back from him.
+
+“Give me a moment, My Queen.” Ren said and closed his eyes as he activated his Polymorph Helm.
+
+Lylyth and the other Dark Elves took a step back as they felt his immense pain, except for Tiatha. She stepped forward and remained close as he started to change. Like water pouring from a faucet, Ren's features altered slightly and he grew in height to just over 11 feet. His skin color changed from it's normal flesh tone to almost pitch black and his hair grew extremely long as it turned from a dirty blonde color to a white so bright that it almost glowed. His teeth grew into spikes and his ears elongated to twice their normal size.
+
+Lylyth and the Dark Elves sighed in relief as the pain feelings subsided, and then Ren opened his eyes. Lylyth caught her breath as his blood red eyes pierced right through her, and he unleashed his Ultimate Terror Aura. The generals and advisors took another step back from him; but Tiatha, once again, stepped forward. Now that she was close enough, she put a hand on his arm and Ren looked down at her. She didn't startle or catch her breath as she looked up at him.
+
+“Wait for me in your chambers.” Dark Elf Ren said in a deep gravelly voice.
+
+“Only if you promise to change back.” Tiatha said.
+
+“Right after I deal with this.” Dark Elf Ren growled and motioned to the other Dark Elves.
+
+Tiatha smiled happily and kissed the back of his hand, then walked right out of the room without even looking at Lylyth or the other Dark Elves.
+
+“Now, I think it is time I set a few things straight.” Dark Elf Ren said.
+
+Suddenly the generals and advisors were caught in thick webs and pulled to the wall. Each one was surrounded by several large spiders, none of which had made a sound as they approached, and some of them had very poisonous venom dripping from their fangs. The fear from the Dark Elves was like a thick cloud in the room and Dark Elf Ren gathered that Fear and quadrupled it, then shoved it through his Aura and into the spiders. They shivered from pleasure and the strong feeding, and then one of the advisors started screaming.
+
+“Now, now. No need to overreact.” Dark Elf Ren grinned to reveal all of his teeth, and Lylyth caught her breath because they matched her own. Lylyth was only just over 9 feet tall and Dark Elf Ren was just over 11 feet tall, so she had to look up at him when he stepped close to her. One of the spiders covered the screaming advisor's mouth with webbing to shut him up.
+
+“R-Ren.” Lylyth's voice trembled in pleasure from what he was feeding her. He took her hand and lifted it up to his mouth.
+
+“My Queen.” Dark Elf Ren said and opened his mouth to show his sharp pointed teeth to her, then he bit her. She didn't try to stop him or struggle at all as he sucked on the wound, and then he licked it to heal it. He let her arm go and she reached for his to do the same, and he shook his head.
+
+“You can't do that.” Dark Elf Ren said, and she looked at him with wide eyes.
+
+“But... you just... we're supposed to...”
+
+“I needed your authority.” Dark Elf Ren said. “You don't need my weakness.” He felt her surprise and bared all his teeth in a huge smile. “Despite looking like this, they know my original form is an elfling.” He growled. “You will be corrupted by me in their eyes.”
+
+Lylyth felt agreement from her advisors and most of her generals, even through their fear.
+
+“Because of how you reacted to me and my requests, this will be the first... and last... time you will see me in this form.” Dark Elf Ren said.
+
+“NO!” Lylyth exclaimed and grabbed onto his shoulders. “Please, Ren! Don't keep this from me!”
+
+“Even with your love, I cannot overcome your prejudice and your people's prejudice against me.” Dark Elf Ren said and cupped the side of her face. “I will only ever be your Royal Consort and nothing more.”
+
+“N-No, that... that's not...” Lylyth tried to deny it, but she knew it would be a lie if she did. “Please, don't punish me for loving you.”
+
+Dark Elf Ren chuckled, and it sent shivers down her spine. The terror and pleasure mixed perfectly for her, and she tried not to collapse from the feeling.
+
+“I'm going to explain exactly what needs to happen with the High Elven Lord and his council, and what you need to do to ensure your complete control.” Dark Elf Ren said to her as he wrapped his arms around her, then he looked at the Dark Elves stuck to the wall. “You will follow this plan and ensure your people's complete victory over the High Elves.”
+
+“We're... still fighting in...”
+
+“You won't be fighting when you withdraw your forces.” Dark Elf Ren said and felt their surprise, including Lylyth's.
+
+“W-withdraw?” Lylyth looked up at him with wide eyes.
+
+Dark Elf Ren nodded. “Yes, because you are going to lose this war.”
+
+“WHAT?!?” Lylyth, the generals, and the advisors yelled at the same time.
+
+Dark Elf Ren was about to respond when he received a message popup.
+
+Lara:  Ren? I know you're busy, but can we talk for a minute?
+
+Dark Elf Ren smiled and dismissed the popup. “My Queen, please excuse me for a moment.”
+
+“Ren! You need to explain-Mmmm!” Lylyth's words were cut off as Dark Elf Ren kissed her. Her body went limp at the emotions he fed her, and he broke the kiss. She looked at him dreamily and licked her lips, and he let her out of the embrace he had her in.
+
+Dark Elf Ren took out the All-Seeing Mirror and enlarged it to three times its normal size and put a finger on it. “Lara.” His gravelly voice said, and her face appeared in the mirror's surface.
+
+“Geez, Ren!” Lara said and laughed. “What the hell did you do?”
+
+“Polymorph Helm.” Dark Elf Ren said and smiled.
+
+“Ugh! Don't do that!” Lara put a hand in front of her face, and he laughed.
+
+“Sorry.”
+
+“Elise told me what she told you.” Lara said. “I wanted to talk about the succubi.”
+
+“Oh, don't worry about them.” Dark Elf Ren said. “I barely touch them and they go unconscious.”
+
+“Ren, that's not what I meant.”
+
+“I know.” Dark Elf Ren said. “I also know you're worried that I'm charging them up past their ability blockers.”
+
+Lara blinked her eyes at him. “Wait, you know about that?”
+
+“I told you I know all about their abilities.” Dark Elf Ren said. “I'm not going to have intercourse with them, but I am going to play with them.”
+
+“Ren, you shouldn't even do that. The ones at your house? Their sphere of effects are getting bigger.”
+
+“I know.”
+
+“What?”
+
+“I'm intentionally force-feeding them to see how powerful they can become without actually having sex.”
+
+“WHAT?!?” Lara exclaimed in surprise.
+
+Dark Elf Ren chuckled, and both Lara and Lylyth shivered for different reasons. Lara didn't like the sound at all, and Lylyth loved it.
+
+“Lara, you know that the more powerful you become, the more you can control your abilities.”
+
+Lara opened her mouth to dispute it, then sighed. “Ren, you shouldn't.” She said. “You might give them more control, but even you can't predict what they are going to do with that control.”
+
+“You can.” Dark Elf Ren said. “So, tell me Sage of Ages.” He said formally. “I request to know what is going to happen to Seldanna when I complete her abilities.”
+
+“Dammit.” Lara said. “Why couldn't you just ask me?”
+
+Dark Elf Ren smiled without showing his teeth. “You know my view on giving people a choice.”
+
+Lara sighed. “All right. Fine.” She said. “Give me a minute.”
+
+“I should say to take all the time that you need; but like you said, I'm a bit busy here.”
+
+Lara closed her eyes for a moment and then opened them. “Oh, you sneaky little bastard!”
+
+Dark Elf Ren laughed, and Lylyth had to brace herself on the wall so she wouldn't fall down. “It's an elegant way to tie all this up, isn't it?”
+
+“Surprisingly, yes.” Lara said and smiled, then she closed her eyes and took a deep breath, let it out, then took another and relaxed. “Seldanna. Seldanna.” She practically chanted, and after 10 seconds, took another breath and opened her eyes. “She's going to be very powerful, Ren.”
+
+“I know.” Ren said. “I kind of felt it the first time we met, and then she leveled up faster than the others, even Zunala, who is the oldest of them.”
+
+“She... she's going to rule the other succubi.” Lara said as more came to her. “She's not a queen, not as we know the term, but...” She shook her head. “I can't get much more than that.”
+
+“Well, it is still an iffy possibility. I'm surprised you could determine that much, actually.” Dark Elf Ren said. “Thank you for looking out for me.”
+
+“Ren, I... I know I step over the line a little sometimes...”
+
+“Nonsense.” Dark Elf Ren said. “I'm really glad you're keeping an eye on things for me.” He said. “It's a relief to know you've got my back, so if I screw up again...”
+
+“...I can tell you what an idiot you were?” Lara asked, and he laughed.
+
+“Exactly.” Dark Elf Ren said. “I think I've made the Dark Elves wait long enough. I'll talk to you at lunch.”
+
+“I look forward to it.” Lara said. “Love you.”
+
+“Love you, too.” Dark Elf Ren said and took his finger off the All-Seeing Mirror to end the call. He reduced it to it's normal size and stored it, then looked at Lylyth. “My Queen.” He said and looked at the generals and advisors. “Unwilling audience.” He smiled at their spike of fear. “This is how you will win it all by losing...”
+
+Lylyth and the Dark Elves were enraptured as Dark Elf Ren told them exactly what to do to end their race war forever, and how to reinstate the High Lord and his Ruling Council to their rightful places, so they could resume running the High Elven Kingdom.
+
+For the Dark Elves.

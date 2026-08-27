@@ -1,0 +1,377 @@
+---
+id: 54c52e45-a873-590c-851d-6cc652949c69
+page-type-slug: story-chapter-royal-road
+title: "165: Sponge Guardian"
+slug: 0184-165-sponge-guardian
+partOf: there-is-no-epic-loot-here-only-puns
+position: 184
+ownLength: 3523
+unit: words
+publishedAt: 2022-10-05
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1009360/165-sponge-guardian"
+royalRoadId: "1009360"
+---
+
+Delta knew, somewhere deep in her being, that Foodie was not her worst student, but he was pretty damn close.
+
+It was probably unfair to have 'best' or 'worst' students, but Delta prided herself on making a 40% result feel like a victory and a 70% pass feel like a failing.
+
+It depended on the student in question.
+
+Foodie had one major issue. He could hold one concept very well, but that's all he had room for. His Salt Bats, for example, were a result of this.
+
+They were salty. Salt hurt on open wounds and was cheap. Throw it onto a cheap creature and boom, Salt Bat. When Delta pointed out the fact that they melted in water, Foodie's mindset went from salt to 'water is good at erosion.'
+
+There was no connection.
+
+Wyin reached up and drowned another hollow Salt Bat, demonstrating their weakness or… amusing herself, Delta didn't quite know. She called Foodie's monsters 'hollow' because they truly were. All her monsters had a spark of something. A thing inside the mana construction that was their body.
+
+It allowed them to grow, change, think, live, and be real.
+
+Foodie's monsters didn't have a single spark.
+
+It wasn't that it was just Delta that had them. When she had been stuck in that dead silver Dungeon that nearly killed her, the monsters waking up had sparks too. She'd have to see if the sparks appeared after so many levels or if it was a personal development thing.
+
+"Foodie, Salt in water is bad. It's very bad for your 'salt' monsters," Delta stressed, wondering why Sis thought she could ever get through to these Dungeons.
+
+"Salt!"
+
+It was like she was talking to an excited toddler who was part plant.
+
+Delta had no clue what she was doing. It was fine when she was messing herself up, that was on her, but now it involved an innocent(sort of) Dungeon.
+
+"Salt…wa…"
+
+"I took a perfectly good Dungeon and gave it anxiety!" Delta threw her hands up.
+
+"Jolly good," Wyin applauded from nearby.
+
+"Something weird about this place," Jack called over as he kept 'tasting' different parts of the wall.
+
+"Watersalt!" Jeb said smugly as if he was competing with Foodie.
+
+"Salt Water."
+
+"Yes, Foodie, that's what I've been saying-" Delta mused distractedly before pausing. She turned towards the entrance and stared.
+
+"What did you say?" she asked slowly.
+
+"Salt!" the core responded. Delta let out a sigh but threw him a tasty mushroom anyway for his quick responses.
+
+"A suggestion, dear mother?" Lord Mushy said kindly from her side. Delta shot him a grateful smile.
+
+"Please, I'm floundering," she admitted with a little bit of embarrassment.
+
+"You should try speaking to Foodie as a Dungeon, not a wonderful person," he said, and Delta gave him a long look, stunned.
+
+"We could also traumatize it so badly it grows out of sheer panic?" Wyin counter-suggested.
+
+Bob let out a screech, and Wyin scowled.
+
+"Poignant but not without wisdom, dear Bob," she sighed. Delta turned to the Dungeon and slowly relaxed her consciousness. It didn't take long for the thoughts of doubt, worry, and fear to sink away.
+
+The world around her melted away, leaving her in the DungeonScape. Connecting lines of mana and motes where things stopped being what her eyes saw, expanding into concepts and symbols.
+
+This was how Dungeons saw, and she stood up, a titan woman emerging from a burning sun like a galactic sized god. Before her lay not her stars and world, but another's.
+
+This system was so small. Barely surrounded by seven rocks (Delta couldn't even call them asteroids without feeling like she was being too polite), the tiny flickering candle shimmered without shape or direction.
+
+Moving forward, she watched as a small limbless lizard emerged from the other star. Foodie lacked eyes, ears, and only opened his mouth to swallow nearby motes of mana.
+
+Delta had to bend down so far, reach so gently to cup the core in her hands. Foodie was no longer afraid of her, perhaps this was how it had always seen Delta.
+
+There was no speaking required. Delta focused on his creatures, the Salt Bats, that lived on the first rock and sent concepts of water, clashing, destruction, and waste.
+
+Foodie seemed to struggle, so she repeated the pattern slowly, one at a time until she began to repeat them faster and faster.
+
+Water to salt. Salt Bats to destruction.
+
+Foodie stared back, his star glowing. Delta began, sending the concept of Salt Bats.
+
+Foodie finished it with the idea of destruction. Forward and back until Foodie was repeating the words by himself.
+
+Salt Bats are destroyed in water.
+
+It clicked.
+
+Their stars glowed in joy.
+
+---
+
+Dungeon: Unnam-
+
+Dungeon: Foodie
+
+Level 1: Mana Density increased. Core stability increased by 2%
+
+--
+
+Delta watched as the Salt Bats no longer dived bomb at Jack and Wyin, sticking to the ceilings until they could get sneak attacks in. It was a massive step up over their previous suicide tactics. They still couldn't hurt Delta's monsters, but that wasn't the point.
+
+Delta could have gone in and done all the upgrading herself, but she wanted Foodie to take control of his own Dungeon.
+
+There was one thing she still felt unsure about… something she was not going to be able to ignore for much longer.
+
+"Foodie… do you know what death is?" she asked, and Foodie sent her a pulse of mana to show he had heard her.
+
+"End. Of Me."
+
+"Yes, but it's also for everyone. When people come here… you'll try to kill them, right?" she asked slowly, and Foodie didn't hesitate.
+
+"Yes. Their end. My growth."
+
+"But what if you didn't have to kill? What if there were other ways to grow?" she offered, and Foodie was quiet for a second, trying to understand.
+
+"Death best way. Growth is me."
+
+Delta swallowed once.
+
+"But if people don't die and leave, they come back. More mana and resources," Delta argued things from a different angle.
+
+"Come… back? They here. Eat now. Escape no." Foodie insisted.
+
+"That's thinking now and here; you also need to think of the future," Delta said, and she felt Lord Mushy putting a comforting hand on her shoulder, his touch only barely affecting her.
+
+"Future. Food?"
+
+"Delta, time is a concept. A hard one," Wyin said lazily from where she was training Salt Bats to fight for her amusement with gentle praises and sharp pokes of her limbs. Bob was curled around her neck like a fleshy scarf.
+
+"Exactly! Sometimes I think I was stuck underground for ten years, sometimes sixty! But I'm sure I'm still there and having an amazing dream of going on an adventure!" Jack said from atop a rock where he was collecting samples.
+
+Everyone stared at him, and Delta needed Feellagon the therapist ASAP. Foodie had been listening, and he spoke up.
+
+"Dream?" he asked, showing curiosity. Delta hummed. She could put aside her personal philosophy until Foodie was more aware of his options. Converting actual children to her ideals felt a bit dark.
+
+"Dreams are… complicated. A dream can either be something you enjoy while you sleep- er… hibernate. Another way to have a dream is to have something you want more than anything else in the world. One thing you think about all the time," Delta explained with a smile.
+
+Foodie took some time to process, and his response surprised Delta.
+
+"Head-Stabber Beast."
+
+"Foodie, where did you get that idea?" she asked, and Foodie sent her the image of that rusty sword he had consumed a while back. It was a hunk of junk, but on the blade, Delta could barely see the image of a…
+
+"A unicorn?" she asked, incredulously.
+
+"My dream. Head-Stabbercorn!"
+
+Delta tried to form words, but she failed for a moment.
+
+All the themes in the world, and Foodie chose to be salty. But if there was someone who could cook up a unicorn from nothing?
+
+It was Delta.
+
+After all, she was amazing at making cute and sweet monsters!
+
+A window popped up.
+
+Foodie has gained 80 mana and can make a new floor.
+
+Delta frowned.
+
+"His floors are cheap as dirt! I need like 500 to get my fifth floor!" she complained.
+
+"Want some cheese with that whine?" Wyin called, and Delta shot her a dirty look.
+
+Due to the complexity of each floor, the cost rises greatly for Delta Core. Every feature affects the next floor and opens new options. Foodie has severely underdeveloped options and thus his floors cost less. The system can make floors cheap, fast, or efficient, but only ever two at a time.
+
+That made sense, and Delta got very lucky with Hob and Gob-
+
+Wait, an idea!
+
+"Jack!" she stood up and pointed at the Kobold, who looked to be making some sort of salt lamp.
+
+"Fetch me a creature from outside!" she said grandly. If all went according to her plan, then Delta could give Foodie a massive benefit and boost with a contract!
+
+She turned to when she heard Jack return.
+
+"Good work, Jack, just put it… over… there…"Delta's voice trailed off as her eyes went wide.
+
+"Hehe, lured him with the promise of sweets," Jack said as a small boy in a poncho with a satchel around his waist blinked at the cave. He had tanned skin that spoke of many hours in the sun.
+
+"Jack, where did you find a child?!" Delta asked, sounding like she was strangling back a scream.
+
+"Kids are everywhere, you just put two people together long enough-" Jack began, and Delta's screech escaped for a second, making him stutter.
+
+"Where did you find… 'this' child?" Delta repeated her question. The child had wandered off towards Wyin.
+
+"Are you a goddess?" he asked in a high tone. He blinked at Wyin as if he had never seen anything like her. Wyin looked up from her Salt Bat Army with a raised eyebrow over her amber eyes.
+
+"Do I look like a being of worship?" she asked coyly.
+
+"You're the most beautiful woman I've ever seen. Pa says my momma was as pretty as a goddess. Do you know her? He said she lives in the stars now," the boy said with no shame. Delta was about to open her mouth to warn Wyin to be nice when she surprised Delta.
+
+"Yes, I remember meeting a beautiful creature with a button nose like yours. She's proud of you, but you mustn't walk into dark caves with dubious characters in it. She wouldn't like that," Wyin murmured as she stroked the boy's hair once and sighed.
+
+If Delta didn't have a connection to Wyin, she wouldn't have even sensed the lie.
+
+The child grinned, showing a gap tooth.
+
+"I can take the kid back; there's a whole village on the other side of the island. Kind of a sorry looking place," Jack said, and the kid shot him a heated look.
+
+"Picta is not sorry!" he argued. Delta frowned at the name.
+
+She told Wyin to ask about the village since the boy couldn't see her.
+
+"It's a fishing village that lives inside the massive ribcage of a sea monster! It protects us from storms and Seahagans," the boy said brightly.
+
+He explained that it had only been around for about forty years since a legendary hero fought the ancient beast of the island and devoured its flesh until only bone remained. They named the village in his honor.
+
+"For the last month or two, the Seahagans have been invading the island, and things have gotten bad," the kid said sadly.
+
+Delta winced; sad children were a weakness of hers!
+
+"Why haven't you called for the kingdom's knights or adventurers?" Wyin asked, sounding less affected.
+
+"We can't get boats out, and the adults can't magic a message that far. The message goes only so far and hits a dead zone… the cursed land," the boy went on. Dead Zone? If Delta remembered her map then the only thing between this island and the capital that was of note was…
+
+Oh.
+
+W-well, she could fix that! She was fixing it!
+
+---
+
+Nu considered limiting the mana leaving the Dungeon in levels as to cause people outside massive headaches. These Fairplay people could use a little 'stillness.'
+
+But… then Delta would whine at him hurting her precious villagers. Nu couldn't even remember any of their names beyond Ruli and Quiss. There was the child, Deo… his friend the blue mage, Perry? It was definitely Perry.
+
+The idiot child, Grim? Was it Grim? It could have been Greg.
+
+"You know full well what their names are; you have perfect recollection like the rest of us," Fera said as she cleaned up a pristine mug.
+
+"I would never waste precious brain space on them," Nu said with a small scoff. He was busy fiddling with the bar menu, but every option he wanted was declined by Fera, and the System just removed them on her whim!
+
+Delta had… ruined a beautiful thing; absolutely tyrannical control.
+
+Well, there was one thing they could both agree on.
+
+Wallagon: A thin membrane slime that is near invisible. The creature shrugs off the common elements easily, such as fire, ice, and Copper, Carbon, Potassium, and Sulfur. Seems to have built in sunglasses, but it has no eyes.
+
+It was a door that people didn't know was there. It also blocked future fire grenades, but when Nu tried to figure out where the upgrade came from, he was led down a twisting knot of sticky ideas. He could part and reform with ease, making him a clever little door that could also trap and smother someone.
+
+That last part was Nu really reaching for some sort of satisfaction.
+
+"Are you sure we can't add ceiling mounted flamethrowers?" Nu said, turning as the slime formed like a glossy silk before turning transparent. Its sunglasses rose down into place, making it look stern and protective. The glasses dissolved and reappeared at Wallagon's whim.
+
+"They don't match the decor. I got an image to market," Fera grunted.
+
+Nu grumbled as he reappeared in the storage room and opened the menu. Something here had to make him feel better.
+
+Storage Room: A little bit of everything, all of the time.
+
+Features: Merry the chaos mouse. Random selection of Dungeon goodies. A buffet of general snacks. A secret door to Maestro, songmaster of doom and soul. Sturdy shelves.
+
+Upgrades:
+
+The Dark One's Approval: Using the key from Waddle's nest opens the room with much better loot and no secret entrance to Maestro. The best food and drinks will be offered and there's a one in ten chance to find a door straight to the second floor. However, if someone under Waddle's bad luck curse uses this key, they will be shrunk to half of Merry's size for 5 minutes.
+
+Twittee: A small canary that flies about as Merry is active. Things seem to just work out in its favor when it's being chased. On its leg is a small piece of paper with a clue to Maestro's entrance.
+
+Twittee's magic potion: Somewhere in the room is a strange vial that almost compels Twittee to drink it. The effects are startling… and terrifying.
+
+These were tempting. Nu had to admit, but they lacked what he wanted. That edge, the puzzah of danger and surprise…
+
+He looked around as he felt Sister focus on him. He shivered. He was never meant to be a focus. Nu was never meant to be, period. Especially since-
+
+Since…
+
+It didn't matter.
+
+"You are not happy," Sis said to him through the network.
+
+"I'm not unhappy either," Nu responded dryly.
+
+"You've been taking pieces of yourself to aid Delta. You're not stable," Sis said, almost hesitantly.
+
+"Unimportant pieces. Control, power, the deeper aspects of the system. Things I can live without. I cannot live without Delta," he responded with no shame.
+
+"You could… you have… but in the end, I don't want you to be unhappy. I don't want people I care for to be sad anymore. Let me help," Sister offered, and Nu had no clue how she was going to help him.
+
+He was bored out of his skull, not dying.
+
+"Once Delta returns. Perhaps you should take the next Dungeon trip to aid another core. Most of them require Delta's special care, but there are a few Dungeons… important ones that cannot be peaceful. Some are in danger of simply not knowing better, others are in danger from things far worse," Sister explained.
+
+"From what? Dungeons are pretty good at surviving anything short of an organized mob in the beginning," Nu said, trying not to sound too interested.
+
+"The Silence may be imprisoned here, but this is only their main force. Many pockets of their ilk remain unopposed. They will feast on people, monsters, and Dungeons. New Dungeons will be easily overrun if discovered in these dark places," the girl said somberly.
+
+"So, Delta teaches some Dungeons to be bright and cheery, while I help others survive in the darkness? Sounds like a lot of work…" Nu trailed off.
+
+"These dungeons actually need to use traps," the goddess said dryly.
+
+"I'm sold."
+
+Now, he just had to wait for Delta to return from teaching some poor Core how to hug and sing songs or something.
+
+Nu was mildly excited.
+
+Not that he would admit it.
+
+He couldn't wait to meet his first protege. They would be smart, cunning, and best of all, guilt-free for Nu.
+
+---
+
+"You took the chieftain's son?!" Delta screeched at Jack who was cleaning between his toes with a particularly solid piece of salt.
+
+"I didn't take him. I lied to him in order to lead him to a dark cave where no one would hear him or find him," Jack corrected.
+
+"Who's he talking to?" The boy, Vadellen, asked Wyin. The tree had taken a weird liking to the kid, but she was also nice to Deo and the others…
+
+"Delta. She's the Ghost of Christmas Guilt-tripping," the second floor boss said airly.
+
+"What's a christmas?" he asked right after.
+
+"A yearly tradition where humans cut down the mightiest tree they can find in order to decorate its rotting corpse with baubles and insulting paper. Atop its crown, they place their idol to another god to show dominance and under it, they place offerings and tributes before they feast upon birds and berries!" Wyin said with excitement.
+
+"Did they try to cut you down?" Vadellen asked in a gasp. Wyin buffed her nails with a smirk.
+
+"Many men have tried to claim me. I have 'discouraged' them all… except my sweet knight of honor and courage," she sighed to herself.
+
+"Mum?" Jeb asked, sounding confused. Delta turned, face puffy from yelling at Jack.
+
+"What's wrong, Jeb?" she asked, trying to remain composed.
+
+"Fishies are coming," he pointed out into the open beach area where the tide had receded to show shapes emerging from the pool and waves. Vadellen turned and went pale.
+
+"The Mad Jaws. They're the invading Seahagans!" he cried as about thirty in total emerged onto the beach covered in silvery scales of some fish and adorned with thick coral stone. They had a selection of dark stone weapons and crystal versions that glowed with Mana.
+
+"Maybe we can discuss things?" Delta said quickly. One of the Seahagans pulled its bluish arm back and let a spear fly at Vadellen without hesitation.
+
+The spear bounced off Wyin's raised arm as she curled it around the boy.
+
+"Shall I remove their heads and boil them in a stew?" the boss asked Delta, who looked shocked then angry at the attempted murder before her eyes.
+
+"Ask Vadellen if there are any 'good' Seahagans," Delta said simply. Wyin repeated the question as Lord Mushy took up the vanguard to shield them.
+
+"The Low Blues and the Surfacetooth clans are… okay, but the Mad Jaws attack them too," the boy responded, shaking badly.
+
+Delta closed her eyes for a second as the Seahagans advanced closer. Their Mana was putrid, and it reminded Delta of the slimers.
+
+Refusing to act when someone was in danger, even if it meant killing to defend them, was not wisdom; it was indolence.
+
+"Kill Fishies… not sandwalkers?" Foodie said, sounding confused as all heck.
+
+You know what? Delta could work with that.
+
+A solid foundation.
+
+"Into the Dungeon! Let's power level Foodie and save crying children!" Delta commanded.
+
+"I got sand in my eyes!" Jack said defensively.
+
+Nu was going to be bummed out that he was missing this!
+
+---
+
+"And I'll be there for its first spike wall trap kill," Nu told Fera excitedly.
+
+"Mhm," the goblin said, not paying attention at all.
+
+"And when it gets fire? Oh, fire arrows!" he gushed.
+
+Fera hoped that Nu would soon remember that the average new Dungeon was like a sponge. Braindead, soaks up anything, and filled with holes in all logic.
+
+Fera reckoned Nu would gain valuable life lessons being a sponge-daddy.
+
+Patience, hopefully, but Fera would settle for deep regret.
+
+---

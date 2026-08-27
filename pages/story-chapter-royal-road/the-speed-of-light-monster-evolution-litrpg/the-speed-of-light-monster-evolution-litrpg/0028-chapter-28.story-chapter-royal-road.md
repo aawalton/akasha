@@ -1,0 +1,177 @@
+---
+id: 98cc5187-4927-5a91-8621-9becbd152d48
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28"
+slug: 0028-chapter-28
+partOf: the-speed-of-light-monster-evolution-litrpg
+position: 28
+ownLength: 2038
+unit: words
+publishedAt: 2025-09-26
+link: "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2629934/chapter-28"
+royalRoadId: "2629934"
+---
+
+Tachyon’s eyes went wide. The small rodent cackled as its weapons went off, firing two sickly green pellets.
+
+She reacted as quickly as possible, stuffing the food into her mouth before jumping out of the way.
+
+Whatever projectile the small animal had fired missed her hind legs by a hair’s breadth. The sickly looking concoction sank into the forest floor with a sizzle.
+
+Without warning, several more shots rang out, trailing Tachyon as she ran, doing her best to dodge.
+
+Another series of shots fired, this time from different directions. Tachyon used her fire light spells to block several of them, several more connecting with trees that she had ran past.
+
+Continuing into the forest, she took a moment to look over her shoulder, seeing the trees impacted by the barrage of attacks. And they were not doing well to say the least.
+
+The trees had begun creaking and snapping at the points of impact. Colored smoke sizzled from the holes as the tree twisted and fell over.
+
+Tachyon could feel an unknown mana coming from the impacts. A type of mana she hadn’t encountered before. And whatever it was, she was very determined to never have it touch her.
+
+As her senses kicked into high gear, she could see that there were several other small animals following her. Not just the initial one who had spoken to her.
+
+She wanted to ask why they were hounding her for food, but it was clearly not the time nor relevant, when they were shooting to kill her.
+
+Tachyon began ramping up her legendary skill. Sending out magic carrots at the positions she could sense the little rodents.
+
+“W-Where you going with my food girl!? You l-look like you got some good stuff on ya! Give it here, why don’tcha?!” a voice cried out behind her.
+
+She didn’t even dignify the question with a response. Producing a platform in front of her, she used it to do a 180. Leaping off of it right in the direction of the voice.
+
+Her body flared slightly as she increased the flames on her body to turn up their heat and destructive ability.
+
+As she leapt, she spotted the rodent, two small guns still drawn, and its eyes following her behind its green-tinted glasses.
+
+Tachyon summoned her second platform, her forelegs landing deftly as she kicked out with her rear legs aimed directly for the little beast.
+
+But she was surprised to find a green shield manifested in front of the small creature just as her fire-endowed hoof was about to find purchase.
+
+Tachyon, however, felt no mana from the green shield like she could have with Gregor’s barrier in the caves. Did it mean it was an item?
+
+Either way, it only protected the small creature for so long as it was flung across the forest from the force of the impact. The shield engulfed by the fire as it wisped away.
+
+Suddenly, the shots from all around Tachyon ceased, and small rustling and chittering replaced them.
+
+She felt obligated to find the small creature she assumed she had just turned to mush, as there was no kill notification, and she felt that seeing an end to an opponent. No matter how crazy or small, it was at least her duty as the victor.
+
+Backtracking to find the fury-filled fuzzball inside the green ball, Tachyon eventually found it still engulfed in flames from her attack.
+
+The shield that had kept the creature safe was now its prison, as it couldn’t allow the shield down, or it would burn alive.
+
+“Isn’t this unfortunate…” Tachyon whispered.
+
+The rodent noticed her and began to go on a monologue. Tachyon questioned herself for listening to it, wondering why so many of these monsters enjoyed long-winded speeches.
+
+“Y-You silly little four-legged freak! D-Do you know who I am?! Ohhhh! You messed with the wrong squirrel today! Don’t you know n-not to mess with squirrels?!”
+
+Tachyon took out a piece of cake she had taken from Secretariat, ready to hear why she was exactly in trouble for defending herself once again.
+
+“Please, do go on.”
+
+“Are you eating f-food in front of me?!” the squirrel roared, banging his hand against the shield, “You had better watch your back for the rest of your l-life, girl! For WE, ARE, LEGION! You will never rest! Never have a m-moment of peace again! Always going to be looking over your s-shoulder, hmmm?”
+
+Tachyon nodded along. It was only polite to signal to your conversation partner that you were still engaged and listening after all. She had learned that from talking to Secretariat. The meanie tried to take away her food otherwise.
+
+“Is that so?” she answered.
+
+“Our army! Will blot out the s-sun with corrosive casts! You underestimate the power of our chem-tech! You may kill me, but there are more to take my place! Kill one, and four more will rise up! No, a hundred!”
+
+Tachyon’s head tilted, “That’s a lot of experience,” she thought aloud absentmindedly, before summoning several more light fire carrots and a platform at an angle several feet behind her.
+
+“W-What do you think you’re doing?” the squirrel said, unease clear on its small face.
+
+“Well, you interrupted my meal and attacked me. So I thought I would see how far I can kick you in that ball of yours. It was quite funny how you zoomed away the first time. So I’m going to do it again. I think it would be an amusing experiment,” Tachyon answered, backing up several feet to get in line with both the ball and the platform.
+
+“N-No! W-We can talk about this! Aren’t we both civilized monsters?”
+
+“Civilized? Never heard of it. Can I eat it? What does it taste like?”
+
+Tachyon, of course, knew what civilized meant. But it was funnier to make the rude squirrel even more hysterical.
+
+She had eventually gotten into position, bending slightly at her knees, ready to explode with everything she had.
+
+“I do hope that your sphere or whatever is strong enough to take my kick. I would hate to get my new shoes filthy.”
+
+Before the rodent could explain themselves or plead more. Tachyon took off as if a starting gun had been shot. Her flaming hooves dug into the ground, leaving a blazing trail as she moved, stride after long stride, toward the trapped squirrel.
+
+And right before she reached them, she quickly skidded, spinning and drifting as she transferred her momentum to her back legs, kicking out with all her might. The small ball collided with her foot with a loud bang and pop.
+
+A moment later, she heard a crash, a new notification reaching her.
+
+You have killed, Technomancer Squirrel Level 20. Experience earned.
+
+She looked at the notification with some interest.
+
+Level 20? But he was so weak compared to the others. Is level not everything? Or maybe the evolution made me much stronger than I thought? Tachyon mused half in confusion.
+
+But Tachyon was made aware once again of more creatures gathering around her. The ones that were with the mouthy squirrel earlier had returned. And in even greater force.
+
+“I want to be on my way and have my meal. Leave and I won’t follow,” she said as sternly as she could.
+
+“Killed the leader.” A voice called out from the trees.
+
+“Pennance in blood.” Another hummed.
+
+“Good items on this one.”
+
+“Might make for a good bomb.”
+
+Tachyon quickly became aware of how irritated she was beginning to feel. The hairs on the back of her neck were standing on end more from creepiness than anything else.
+
+“I did warn you,” she announced, more lightfire carrots manifesting all around her.
+
+Tachyon's new evolution proved to be leagues above her previous one in mana capacity and control as she doubled the instances of magic she was able to summon.
+
+But the legion of rodents in the trees did not wait idly. Projectiles, the same as before, began raining on her from all around.
+
+She began running and zigzagging to dodge them. Her ability to maneuver the field better than before, now that she knew the projectiles were not nearly as fast as she had thought previously, but could not be manipulated to change directions.
+
+However, that was her mistake to believe that was all the little bundles of fury had prepared for her.
+
+She soon found out that these rodents were masters of making very random contraptions.
+
+A small tan ball landed in front of her, and a small fire lit on the end of a string.
+
+Tachyon instantly kicked it, the object flying right into the top of a tree. A second later, the tree burst into green flames, melting to the ground.
+
+Her eyes went wide as she neighed in surprise.
+
+That was when several more landed on all sides of her.
+
+With nowhere to go, she quickly summoned a platform, leaping into the air off of it. The ground below bloomed into a flower of green fire.
+
+“This is getting out of hand,” she grunted. Seeing the mayhem that was being produced from their fight.
+
+She could sense roughly twenty or so small beings in the trees below her, but she was wary now of what equipment they might have. Not only that, but if this continued, they could alert more monsters.
+
+And from what Tachyon had just seen, the monsters on this level of the mountain could easily go over level 20.
+
+Flying upward, Tachyon produced more fire light carrots and another platform. Turning so that she landed hooves upward, she aimed for a tree.
+
+Her body ignited, and she bent her knees as they touched the platform. With a grunt, she pushed off with all her might, her hooves coming down on the tree with all that they could.
+
+A streak of white followed her as she split the tree in two as she careened toward the ground, finally producing a small crater as she touched down.
+
+You have killed, x4 Junk Squirrels Level 15. Experience earned.
+
+The moment she landed, a barrage of projectiles assailed her once more through the felled tree as it cracked and split. The two halves cracked and thudded against the ground, her flames charing them to black rubble, and the corrosive bullets slamming into the area, leaving smoke wisping into the air.
+
+Tachyon was once again on the move, jumping, running, and dodging as she zeroed in on the remaining rodents as she built up speed with her skill. On occasion, using her platforms to jump out of the way of the tan balls that exploded.
+
+But the legion of squirrels seemed to have more up their sleeves as a loud screeching projectile finally found its way through the trees, a trail of green foul smoke trailing behind it.
+
+Tachyon’s mana sense went off in spades. She had no idea what the projectile was, but it was larger than the rest. And she could feel mana coming from it.
+
+She quickly turned up the heat and ran as fast as possible away from the object. Sending as many spells of fire light at it as was needed to destroy it.
+
+After four spells collided with the object, it finally exploded mid-air, bursting into a torrent of green flames and spiked objects that peppered the area.
+
+Skidding to a stop for a moment, Tachyon looked at the nearly unbelievable destruction the projectile wrought.
+
+“This is getting so much worse. Maybe I shouldn’t have punted that little furball…” she grumbled before dipping off to the side, another barrage of the smaller projectiles sinking into the ground with a hiss.
+
+Tachyon had enough. The legion of furballs wasn’t exactly strong, but their equipment and items were more than enough to make up for that in both power and annoyance.
+
+She had thought that if she avoided them long enough, perhaps even thinning out their numbers a bit would have them scurry off. But she was wrong. And she would very much like to not be dead wrong.
+
+So it was her or them. And with more sweets to eat, and even more to try that she hadn’t even encountered yet. It was definitely going to be them.

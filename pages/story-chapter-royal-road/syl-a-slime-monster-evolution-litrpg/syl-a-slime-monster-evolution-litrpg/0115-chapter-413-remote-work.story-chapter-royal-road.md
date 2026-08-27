@@ -1,0 +1,161 @@
+---
+id: 6e9b5106-fadb-53b6-a8ec-82269041cab6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 413 : Remote Work"
+slug: 0115-chapter-413-remote-work
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 115
+ownLength: 2579
+unit: words
+publishedAt: 2026-08-10
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3793929/chapter-413-remote-work"
+royalRoadId: "3793929"
+---
+
+With the first labyrinth ticked off my to-do list and a few new abilities to play around with, I wasn't exactly in a rush to jump onto the next task. I was more than happy to spend some time on the island, so we had another roaming slime network available since I'd be maintaining it.
+
+I gave the opportunity to Sylvain, since he was the only one who really wanted to go out exploring. Part of his original backstory we'd given him was that he was a treasure hunter, which was why he had come to the Vaelyssan Sea in the first place. Yes, that was mostly just an excuse we gave to the people of Saltport, but I saw no reason not to include it when we actually officially made the persona.
+
+Besides, this way I could get rid of Vanessa while I was enjoying my break on the island, a win-win situation for everyone. Of course, with [Slime Puppetry], none of them needed to be so cooped up, and if they set up enough [Sub-Cores] as relays, they could traverse a tremendous distance, far further than trying to connect with tendrils. As for the distribution of cores, I ended up giving each persona three, excluding their "primary" core.
+
+This level seven [Sub-Cores] for me, since Pi was still to be permanently stationed at the island. To me, this felt like more than enough to handle even the toughest of adversaries, and I always had the option of calling in reinforcements through a rather cheeky usage of [Core Storage].
+
+Speaking of Pi, Vee suggested I give it a personality, since it was supposed to be the island's dedicated helper. She wanted something called "Jarvis" and said we could call the new helper persona "Sylvis" as a compromise. However, I ended up rejecting the idea, as it felt better to just have a dumb core with instructions to follow orders; if we used [Split Personality], it wouldn't have access to my skills unless I made donations. Not to mention, I had already given her Sylbera; the lazy spider didn't need two helper personas!
+
+I shared [Spatial Suppression] with Vee, and she actually met the requirements to purchase it. Unfortunately for her, she still didn't have [Personal Rift], which meant she had to do it the hard way by combining it with a spell, something she currently couldn't do. Whether this was a plot on Mother's behalf, I had no idea, but I was more than happy to dangle a few carrots in front of Vee's face to try to tempt her into action.
+
+As for her reaction to [Slime Puppetry], she was astonished. Sadly, the shock didn't come from a prank; Vee had already experienced that through uncapping [Core Collective], so she was already somewhat jaded. Still, though, what actually caused her reaction was that such a trait was allowed to exist, as she called it "blatantly overpowered."
+
+Naturally, I defended myself, explaining all the struggle and effort I had to go through to get it, but she was adamant that this was overboard. I fully agreed with her, but I'd never admit that out loud; this overcame our greatest weakness even more than my disguises could ever do.
+
+How many times have I won because nobody knows I'm a slime, combined with fake wounds and pretending to have regeneration? Now, even if they know I'm a slime, I can keep my cores pretty damn far away from any slime bodies I create. Of course, I still need to be able to see in the area, but there are ways around that…
+
+This was ultimately one of the reasons I wanted a break: to try out some outlandish ideas. Being able to control slime from hundreds of meters away was great and all, but none of that mattered if I couldn't see what I was doing since almost all of my sensory traits required a slime core to be present. The only exception was touch, so I could blindly feel what my puppeted slime was physically touching.
+
+In an open area, I could use something like [Eagle Vision], but the problem came with buildings, underground, or even a densely packed forest. Through some trial and error and a bit of inspiration from Vee, I found the perfect solution, although it required a bit of setup time: [Rift Beacon]!
+
+I had always considered [Rift Beacon] as my ultimate failsafe, but I hadn't even thought about using it for remote attacks or, in this case, remote viewing. Yes, by setting up a [Rift Beacon] and leaving behind half of my [Personal Rift], I actually could use [Spatial Sense] through it. When I told Vee about it, she was green with envy, as it was quickly becoming apparent to her that [Personal Rift] was just the greatest thing ever.
+
+"Maybe I do need to work on magic a bit more to unlock Riftmancer…" Vee sighed.
+
+"I'm sure Mother would be happy if you did," I pointed out. "I think she's only focused on me because you aren't doing anything. I'm basically her substitute."
+
+"I'll think about it. Still, you've basically got a security camera now. Although I guess you have that already with your other cores…"
+
+"Security camera?" I asked, and received a very brief explanation from Vee on the subject. While I wasn't sure about recreating such technology, it might be possible to recreate the effect through magic or enchanting.
+
+"Now that you mention it, we also had something called scrying," Vee casually mentioned. "Some stories say it was used to see into the future, using a crystal ball and whatnot, but others said it could be used to gaze at locations remotely, too. I guess it depends on what source or lore you're going with."
+
+"Interesting… I wonder if there's such magic here?"
+
+"Who knows? It wasn't actually real; it was just something made up for stories. Although that didn't stop some people from using it to make money off the gullible."
+
+"The more I hear about your world, the more I don't know if it's wonderful or horrible."
+
+"A bit of both, if I'm honest. At least I wasn't a spider there, but I have magic, levels, and abilities here."
+
+"Would you want to go back if you could?"
+
+Vee was silent for quite some time before she shook her head. "No. Despite everything, I'm actually quite happy here. I don't exactly remember much about my past life, but I don't think I was a very happy person."
+
+"Oh… Do you need a hug?" I offered.
+
+"And get slime all over me?"
+
+"Sorry…"
+
+"I'm joking, you big goofy slimeball," Vee snorted. "Maybe when I actually have a slightly humanoid form, I'll take you up on that offer. Right now, I can't help but feel like an overgrown pet."
+
+"How far away are you from your next evolution?"
+
+"You can't tell? Oh, wait, I forgot you somehow lost [Identify]... Um, I need another seventeen levels."
+
+"Hey, that's pretty close!"
+
+"It feels really far away," Vee sighed. "And that's with me putting basically nothing into my class."
+
+"I mean, if you came with me to the next labyrinth, we might be able to get it. Or even a dungeon?"
+
+"A dungeon might be a bad idea after what we just did in that water one. I don't want that dungeon alliance coming after us."
+
+"You're probably right. I wouldn't want to upset Dran, Juniper, or Simon."
+
+"Yeah, you don't piss off an immortal lich, even I know that," Vee chuckled.
+
+Although, can he even hurt me now? I have [Necrotic Slime]... Wait, does this mean he can teach me magic now? Previously, he said I lacked the affinity, but now I might have it!
+
+"Thanks, Vee! You just reminded me about a brand new magic skill I can get," I said excitedly.
+
+"You're welco—wait, what? More magic!? Don't you have enough already? You ate poor Wiggles and basically never used the [Light Magic] he gave you."
+
+I coughed awkwardly. Vee was absolutely right. I had far too much magic, but I couldn't help myself. Along with my desire to get every slime core, I also felt like adding every type of magic to my collection was a good secondary objective. It certainly helped that skill points were overwhelmingly plentiful at the moment, and even if I didn't actively use the magic itself, I could potentially get useful parts from it for the magic I did use.
+
+"Look… I just want to complete my collection."
+
+Vee sighed. "I suppose that's fine. I just hope you aren't suddenly going to abandon Riftmancer after you've come so far with it."
+
+"No, that's not going to happen. I need to stick with it until I get [Dimensional Praxis] at the very least."
+
+Vee accepted what I said, although I felt like she didn't really believe me. I couldn't blame her; I had a horrible track record of getting distracted, but I also didn't want to accidentally forget about this opportunity.
+
+So, after confirming with Vee that we'd try to work on her last few levels as soon as reasonably possible, I called back Sylvain to the island so that I could make a quick stop at Southbrook. I promised it would be quick, and he could return to adventure the same day. He naturally complied, and I quickly teleported over, relieved to see that the city was still intact.
+
+I almost thought the goblins might launch an attack after I took some of them, but I don't think Garz is that dumb.
+
+From there, it was only a few quick teleports to reach the dungeon, where I hastily entered the bottom chamber through a series of apertures. I needed a few more than last time, as it seemed that Simon had reinforced the walls since my last visit, although it was still not enough to stop me.
+
+When I arrived in the chamber, I was surprised to see a group of fledgling adventurers in the middle of combat. They were a group of five, working together to fight a somewhat similar skeletal knight like the one I had. I quickly hid away, not wanting to interfere with either side, and watched as they slowly whittled away at the boss until they succeeded.
+
+Rather than celebrating, the group collapsed from exhaustion. They took some time to recover, and once they did, they finally celebrated while claiming their prize. I didn't see what it was, but after they left, Simon appeared before me after locking the room.
+
+"Thank you for not interfering," Simon said. "To what do I owe this rather unexpected visit?"
+
+"I was just wondering if you could share with me that death magic skill so I can pick it up and get started. I'll leave straight after. Although I'll admit it was nice to see a dungeon boss fight from the other side."
+
+"Magic…?" Simon murmured while he appeared to be searching his memories. "Oh, I recall I mentioned you didn't have the right Mana for that."
+
+"I didn't back then, but I believe I do now," I said, and made sure that [Necrotic Slime] was currently active in my [Primordial Slime] mix.
+
+I felt the Dreadlich's scrutiny for a few moments, and if he still had eyes, I swear they would have widened in shock if I was reading his body language correctly.
+
+"You reek of death and decay. Did one of the gods do this to you? Or did you perform some forbidden ritual?"
+
+"No, nothing of the sort. I ate a black slime, and this is the ability I gained from it. I think I have the Mana affinity too, if my past experience is anything to go by."
+
+Simon was surprisingly fascinated, and so I gave him a very brief rundown of everything that happened. He was surprised that I had already conquered a labyrinth, although he had no details on the one I had done. Finally, he agreed to share the skill with me, although at the price of my donating him a considerable amount of [Necrotic Slime].
+
+Naturally, I agreed on the spot. I had more slime than I knew what to do with, and now I could harvest more than ever before. The lich greedily accepted every drop I gave him, and when he was finally satisfied, he presented me with the skill. He still hadn't confirmed if I could actually buy it, and I doubted I'd get a refund if I couldn't.
+
+Well, even if it doesn't work, he can keep it for old times' sake.
+
+As I stared at the skill floating in his skeletal palm, I tried purchasing it.
+
+<Skill [Death Magic LV 1] obtained. Skill Points remaining: 30.>
+
+<[Death Magic LV 1] spell [Drain Touch] learned.>
+
+"It worked!"
+
+"Remarkable… I actually didn't believe you at first," Simon admitted.
+
+I even cast my newly acquired [Drain Touch] as proof, earning a nod of approval from the Dreadlich. However, I had to admit, as far as first-level spells went, this might have been one of the worst, at least for me. It sucked Mana from a target, and unless I significantly upgraded the spell, it was a rather minuscule amount.
+
+Nothing that a bit of empowering, and a few additions to the spell construct can't fix… I hope.
+
+Perhaps I was wearing my feelings on my sleeve as Simon began to chuckle, which sounded strange and hollow coming from his skeletal form. "Were you hoping to summon the undead right from the start?"
+
+"No, I just wanted something more than [Drain Touch]... If you don't have another magical affinity to fall back on, are you forced to go around stabbing things with a sword?"
+
+"Some do, but against weak monsters, you'll find [Drain Touch] is more than sufficient to kill. When a creature runs out of Mana, it transitions into a particularly lethal spell," Simon explained.
+
+"I suppose wolves and such don't exactly have a lot of Mana. I never thought of it that way."
+
+"You're right, though, that it is in fact quite awful. The mere fact that it requires touch is abhorrent, and a fledgling mage would likely die trying to touch such a beast. They'd also be incapable of modifying the spell into a ranged variety without the aid of a master, and good luck finding one."
+
+The way Simon spoke about it made me think he had firsthand experience with the matter. [Death Magic] was also likely to be extremely taboo from the general populace, so it wasn't something you could go around advertising. Of course, I had no such problems myself, as modifying a simple spell was child's play for me, but I could certainly sympathize with someone in that scenario.
+
+Well, that's assuming they don't want to start some evil death cult or something. I'm giving my hypothetical kid stuck with [Death Magic] the benefit of the doubt! You don't have to grow up evil; it's not like you were born with mind control powers.
+
+With our business concluded, I said farewell to Simon, as he seemed eager to study the black slime I had given him. He did extend another offer to help me if I ever picked up the Necromancer class, but honestly, I didn't really feel tempted by that path.
+
+I teleported back to Tanglebay after grabbing lunch from Trevor, since I was in the area, eager for a few more days of peace and relaxation.

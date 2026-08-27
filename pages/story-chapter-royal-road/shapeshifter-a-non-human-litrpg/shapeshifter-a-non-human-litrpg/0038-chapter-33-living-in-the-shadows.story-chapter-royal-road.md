@@ -1,0 +1,157 @@
+---
+id: 38389753-88c1-55d6-98e3-d2b5fe4f2df5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 33: Living in the Shadows"
+slug: 0038-chapter-33-living-in-the-shadows
+partOf: shapeshifter-a-non-human-litrpg
+position: 38
+ownLength: 1965
+unit: words
+publishedAt: 2026-07-30
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3745964/chapter-33-living-in-the-shadows"
+royalRoadId: "3745964"
+---
+
+"May I ask why the Radiant Accord is hunting the Ether Technocrats?"
+
+Xen glanced over his shoulder at Hina and sighed.
+
+"As I said before, I shouldn't disclose missions of the Faceless Hunters with outsiders." He faced forward and continued leading the group through a forest of amber crystals populating a ravine in the middle of the dungeon. Still sensing Hina's gaze on his back, he relented. "I suppose I can tell you this. The reason I'm hunting the Ether Technocrats is that they knew about the Abyssal Rift ahead of time and came in here with the intention of getting their hands on Abyssal mana before anyone else. Such greed must be punished."
+
+While it was nothing but a speculative lie built on what the infiltrator had told him, Xen suspected he was somewhat correct based on the strength of the group he encountered. They just had no other reason to be here.
+
+"They knew and didn't warn us? Those dirty, greedy bastards," Hina clenched her jaw. "If I had known this would happen, I'd have stayed on the surface."
+
+Alex lugged his shield and came to Xen's side, matching his pace. He side-eyed Xen, then, after a moment's hesitation, asked what was on his mind. "Ghostwire, is that why Yuki willingly joined our party? Because he knew about the Abyssal Rift before it appeared?"
+
+A look of realization spread throughout the group.
+
+Xen frowned behind his mask.
+
+This is why I didn't want to talk about it, Xen cursed in his mind. My story has too many holes for them to go poking around like this.
+
+"I'm afraid so," Xen said with a light nod. "Since we are an unknown guild that works from the shadows, we don't have reliable ways to enter the dungeon. Yuki posed as a weak healer to join your party, while I operated as a Savior, which gave me more freedom to delve alone. However," he paused and addressed the entire group. "Yuki didn't want any harm befalling you, which is why he sent me. I'll personally see to it that you four escape the dungeon."
+
+That statement lightened their dampened spirits somewhat, but they all fell silent and sat alone with their thoughts.
+
+Xen continued leading them in the general direction toward the Ether Technocrats. After another few hours of walking, Xen finally began to feel traces of their mana signatures in the distance through Geomantic Perception. They were finally getting close.
+
+Someone finally broke the silence with an abrupt question.
+
+"Ghostwire, is there a reason you murdered those from the Stormbringer guild—"
+
+"Hina," Alex snapped at her. "That's not an appropriate question."
+
+"What? I was just curious..."
+
+"I can't disclose the reason I killed those two, but I assure you they needed to die," Xen answered evasively. "The mission was a success, but I left too much evidence. Now that I'm out of the shadows, my days are likely numbered." He glanced at Hina. "I will complete my remaining missions with ruthless efficiency and then go out on my own accord. I won't let them capture and silence me like the Faceless Hunters before me."
+
+"That's powerful..." Hina muttered, and the others seemed moved by his conviction.
+
+Again, a made-up lie. But Xen was planning to discontinue this form sometime soon, so it gave him an easy explanation for why they might never see him in his Ghostwire form again.
+
+In this Abyssal Dungeon, it didn't matter what he did. But if he stepped out of here as Ghostwire, he would have to stand up to the Stormbringer and Ether Technocrats, and he didn't yet possess the strength to do so.
+
+He had seen how fearsome the Ether Technocrat guildmaster was from Marcus's memories. The Stormbringers guildmaster was likely just as terrifying.
+
+These weren't people he could kill. At least not yet.
+
+He planned to leave this dungeon as an S-rank existence, and killing the Ether Technocrats would help him reach that goal.
+
+"I'm all for killing the Ether Technocrats, but wouldn't it be better to use them in the fight against the Guardian?" Alex reasoned.
+
+It was a reasonable idea, but Xen wanted as much of the experience from killing the Guardian as possible. Involving more people would dilute his share, and it was conceivable that the Ether Technocrats would have the same idea and use Alex as a disposable tank. He couldn't protect Alex's party and massacre the Ether Technocrats at the same time, all while fighting the Guardian.
+
+"No, we will kill them first. I can handle the Guardian alone, so they will only get in the way," Xen said, his tone leaving no room for argument. It sure felt freeing to be the one in charge for once and not having to hold back.
+
+"O-Okay," Alex said and fell silent.
+
+Xen suddenly stuck his arm out, making the group pause.
+
+"What is it? A monster?" Hina asked, glancing around.
+
+"No. There have been monsters all around us this entire time. I just had us avoid all the monsters to avoid wasting time," Xen said and turned to face the group. "The reason I stopped us here is that it's the edge of the Ether Technocrats' perception range."
+
+"They are nearby?" Hina asked, surprised.
+
+Xen turned and pointed in the direction they had been heading. "Two hundred meters in that direction, their group is currently engaging a monster, meaning their Verdant Warden is infused with the ground and aware of her surroundings.
+
+"Verdant Warden?" Kenji's eyes widened. "It must be Iris, one of the B-rank captains of the Ether Technocrats. She is quite well known for being ruthless."
+
+"Her being here is definitely suspicious," Daisuke said, nodding to himself.
+
+"Yes. It's Iris, and because of her, I cannot proceed with you past this point," Xen informed them.
+
+"Why not?" Alex asked. "We can tell them you are part of our group, and then you can strike when their guard is down."
+
+"That would have been ideal," Xen agreed. "Unfortunately, I've already had a run-in with them, and they seemed aware of my hefty bounty and tried hunting me down. I responded in kind by assassinating their tank, Marcus, before escaping and heading your way."
+
+"You killed Marcus?" Kenji said, somehow even more surprised. "Bulwark Sentinels are one of the toughest classes, yet you assassinated him?"
+
+"I can't even imagine how that went down," Alex said, shaking his head.
+
+"But Ghostwire, how are you going to attack them if you can't even get within two hundred meters?" Hina asked.
+
+"Iris only has perception when fused to the ground," Xen explained. "Get her moving, and she's as blind as you."
+
+"Hey!"
+
+Alex chuckled. "Ghostwire's got a point, Hina. You didn't notice any of the monsters he had us avoid."
+
+"Still..."
+
+"Okay, so what is the plan?" Alex asked, ignoring Hina's souring mood.
+
+"You see that cluster of crystals hanging from the ceiling over there?" Xen pointed. "I'll be waiting near there. Lead them to this spot, and I'll deal with them myself. If they attack you, retreat toward this position, and I'll come to your aid."
+
+"Phew, alright," Alex's expression turned serious. "Just to confirm, but after we help you with this, we will be invited to the Radiant Accord, right? Because I hope you understand that helping you like this is assisted murder. Should this get out, our lives will be over."
+
+Xen stared at Alex long enough to make him uncomfortable. "Your life already ended back in that obsidian tower," he said coldly and stepped closer, making use of his tall frame to loom over Alex. "It was I who brought you back to life. You ask to join the Radiant Accord, but worry about repercussions. I have a bounty on my head for what I've done, yet you want to follow in my footsteps?"
+
+"I-I didn't mean it like—"
+
+"If you want to operate from the shadows, you have to make them your home," Xen whispered harshly into his ear. "The old you is dead. Understand?"
+
+Alex's expression sharpened. "Understood."
+
+Xen lingered in his face for a moment longer before accepting his conviction and pulling back.
+
+Alex let out a long breath and staggered to the side. Kenji moved to support him.
+
+Xen surveyed them slowly. "Those who operate from the shadows aren't afraid of repercussions. They are the repercussions. If you want to join the Radiant Accord and work alongside the Faceless Hunters, you need to accept what that means. Now go."
+
+Hina wreathed herself in shadows and took the lead. Alex hooked his shield onto his back and wordlessly followed her with Kenji and a slightly recovered Daisuke.
+
+Xen watched them go and then tracked them through Geomantic Perception for a while. Once he confirmed they were on a crash course with the Ether Technocrats, he wandered toward the amber cluster he had pointed out earlier. Just beyond them, he had detected a swarm of Cinderspawns and some Abyssal Slimes.
+
+"My mana reserves are nearly depleted, making me terribly hungry," Xen grumbled. "While the mask artifact idea helps explain my vast array of abilities, I'll never have a way to explain how eating monsters empowers me."
+
+During his journey, he had carefully woven the ground between Cinderspawn nests, puddles of Abyssal Slimes, and the occasional Resin Stalker that hid in the amber crystals overhead. Using Geomantic Perception constantly to its limit had fully drained him of what little mana he had left.
+
+He was due for a meal.
+
+Cresting a ridge and climbing through a dense cluster of amber crystals that spiked from the floor and ceiling, criss-crossing to create an almost impenetrable wall, he came to an abrupt stop when he saw what was on the other side.
+
+I had expected a nest of Cinderspawns, but this...
+
+Before him was a wide but shallow basin, the floor so alive with activity it appeared to be breathing. The porous black stone had been hollowed and re-hollowed, tunneled through so many times that what was left of it looked less like rock and more like the inside of a wasp's nest carved out of coal. Thousands of small openings pocked the surface, each one rimmed in cooling orange where something had recently crawled out and not bothered to seal the burrow behind it. Heat shimmered off the whole basin in slow, lazy waves that warped the amber light hanging above it.
+
+The place was alive with Cinderspawn.
+
+Hundreds of them.
+
+The smallest of them was no bigger than his fist, with six legs folded tight against their bodies as they fought for space. Their head was narrow and eyeless, and a deep orange glow bled through the segmented plates that protected their vulnerable insides.
+
+These Cinderspawn he had encountered before, and were easy prey. It was what he saw at the center of the basin that had given him pause. There was a yawning hole to the abyss, and he could see Cinderspawn, the size of humans, crawling out, abyssal mana pulsing beneath their chitin.
+
+Xen focused on the closest one that had noticed his presence and was stalking over its inferior brethren toward him.
+
+"Appraisal," Xen said, curious how much stronger the abyssal version was.
+
+[Abyssalspawn (Level 62)]
+
+Its level was a step higher than the previous Cinderspawn he had encountered, and that wasn't all. It was bigger, its chitin thicker, and from experience, Xen knew that abyssal mana made monsters more resistant to magic.
+
+Xen withdrew his mithril short sword. He hadn't gone with physical attacks against the Abyssal Slimes earlier due to their nasty habit of detonating on death, but the Cinderspawn had no such capabilities. Their strength was in numbers, but that was fine with Xen.
+
+He was hungry, and this was going to be a feast.

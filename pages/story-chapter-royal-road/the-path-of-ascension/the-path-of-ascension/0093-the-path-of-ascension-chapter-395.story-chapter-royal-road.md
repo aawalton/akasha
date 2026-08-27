@@ -1,0 +1,363 @@
+---
+id: 55e97ad4-ae9b-5b6e-a1f1-e0c1b6f64ad5
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 395"
+slug: 0093-the-path-of-ascension-chapter-395
+partOf: the-path-of-ascension
+position: 93
+ownLength: 5466
+unit: words
+ownProgress: 5466
+publishedAt: 2025-03-14
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2126665/the-path-of-ascension-chapter-395"
+royalRoadId: "2126665"
+markedReadAt: "2026-06-29T19:20:56.526Z"
+---
+
+Chapter 395
+
+Palustris, being a Tier 27 world, wasn’t exactly ideal to delve at with their abilities. But if they didn’t delve it while they were Tier 26 or Tier 27, they wouldn't get to delve it at all, so it was very much a now or never situation.
+
+The planet did have Tier 28 rifts, but only a few, as any rift that was allowed to advance had to be a fire aspected rift. Then, any rift that was Tiered up had to remain fire aspected, meaning the actual amount of Tier 28 rifts were lower than would be otherwise possible. They also only had five Tier 29 rifts, thanks to those same difficulties.
+
+Their official policy was to Tier up a percentage of the rifts per decade as they were trying to Tier the world up, and the best practice was to do so slowly but steadily with a gradual increase. But even for them, it was an expensive endeavor.
+
+Thankfully, as a capital of the duchy, Palustris had started to turn a small profit which they were able to reinvest into the planet. Other revenue streams were expected to start turning a profit as the businesses got off their feet and found their niches, but that was still a few decades away at best.
+
+In fact, the duchy itself was just barely profitable, which was a bit of a surprise at less than a full century from its creation. Most of that profit was from the duchy’s' aura harvesting business, but some of their other ventures were mildly profitable.
+
+Their deal with the Dobrescus had also been paying dividends. Not because of the deals themselves, as they were mainly moving the aura potions at a set rate which, while profitable, wasn’t turning heads. Rather, it gave their people access to those same channels and shipping opportunities, allowing them to either send their goods far away or buy exotic goods otherwise not available locally.
+
+That spurred on the transfer of money, which in turn enticed people to open businesses or just spend more in general, which led to profit for them.
+
+Eventually, he and Liz would be entitled to a portion of those profits, though neither he nor Liz actually needed them, and they intended to simply reinvest their portions. Still it was eye opening seeing what their half sized and young duchy could create, and explained why so many people actually wanted to be nobles.
+
+Most of the time, it felt like a profoundly thankless job, but even being a baron could ensure one was able to advance a dozen Tiers if they did a good job, just from the wealth they were able to accumulate.
+
+It also explained why the hereditary nobles were so insistent on keeping their power and privilege.
+
+He was still reviewing some of their businesses when Aster appeared, holding her nose dramatically.
+
+“All the fire in the air is gross.”
+
+“Aster, I’ve seen you sneak over for fire curry twice in the last week. You can’t convince me you haven’t actually come to enjoy some fire-related things.”
+
+Aster gasped trying to look offended, but instead she just laughed. “It's fun to play it up, what can I say? Speaking of fire themed food...”
+
+She vanished for a moment, not going to a local shop but instead into their floating island’s wine cellar.
+
+She came back carrying a full crate of some of their best wines from all over the Empire, including a bottle he and Liz had been eyeing for a while.
+
+“A full crate? Come on. I—”
+
+“Don’t give me that. I know what rift you want to enter, and if we are doing that, we are going in properly. And that means good wines.”
+
+Matt couldn’t really argue, as he had been planning the same and just hadn’t gotten around to it. It was more that he was mildly offended she hadn’t brought any of her wines. He knew her cellar was as stocked as theirs, if not more so, with how much she and Allie flitted around the Empire following their stomachs.
+
+Tsking, he got up and cast [Portal] to Erin’s, where he felt Liz was chatting with her sister and several of her harem members.
+
+Popping his head through the portal, he said hello to his in-laws before Liz walked through and he recast the spell next to their destination. They didn’t have too much time to chat, as their cycle was about to start.
+
+The rift was only Tier 27, which wasn’t too impressive for their combat power. But it was a rift Matt had been dying to delve as it was something of a local hit.
+
+The Sects had mostly treated the rift as nothing special, but the Empire had taken to the rift with all of the fervor it rightly deserved.
+
+Aster at least had dressed for the occasion and had sweatpants on, which matched his. Liz hadn’t gone for the comfy cloth route and instead was going with quantity, as there were already nine Lizzes out by the time they got through the portal.
+
+The workers watching the rift nodded and the manager reported that the rift was cycled and full, so the second the instance timer ended they could enter.
+
+Thanking the man, they flashed forward the moment the rift had cycled into a new instance.
+
+They stood inside an oven and the heat was debilitating as it tried to flash fry them, but with their power, it was little more than annoyingly hot.
+
+Not that Matt felt much of it, as after he appreciated the heat he cast [Cracked Phantom Armor] which blocked all of it, to Aster’s annoyance.
+
+The second they stepped away from the rift’s entrance, a shower of spices rained down on them.
+
+Cinnamon.
+
+They didn’t bother to dodge, as while it was possible to avoid this, it was more efficient to fight with the debuff for both the reward and the essence at the end.
+
+As the cinnamon settled on them, Matt felt his physical strength weaken like he had lost a Tier.
+
+A bit more mana through [Archmage Presence] countered that effect nicely, but it also signified the start of the fight, and monsters started to form.
+
+Monsters being a very loose definition, but still technically true.
+
+Ten Tier 26 chickens dropped from the air and landed with a splat.
+
+Not living chickens, but plucked and butchered chickens made ambulatory by the power and weirdness of rifts. They were also uncannily large and moved with disjointed steps and hops that remind him of badly made golems.
+
+Matt flashed next to one, and after punching it hard enough to stun it, he threw it into a nearby but massive roasting pan. The second chicken, he ripped off its legs and had a taste, chewing with an appreciation of the perfectly cooked but cinnamon flavored bird.
+
+Wiping his hands on his specially prepared sweatpants, Matt looked for his next prey, just to find that the Lizzes had eaten everything he and Aster hadn’t.
+
+“This feels unfair.”
+
+All ten of the Lizzes turned and blew a raspberry at him at the same time.
+
+Matt didn’t mind and instead looked up to see what the next spice would be, but instead flew to the side as the oven they were in had a pot of water rise out of the ground.
+
+It was empty, and according to the rift information, could be used to wash off the accumulated spices which would reset the monsters’ scaling strength as well as the accumulated flavors.
+
+The rift being a wave based one meant things could get interesting, culinarily speaking, given enough time. And for those who entered for the food aspect, it was recommended to wash off the spices every few waves to prevent flavor clash as well as keep the monsters fairly weak.
+
+That was not their plan.
+
+The next spice rained down from the sky.
+
+Cilantro.
+
+Matt felt his mana pulse, but whatever mechanism the rift was trying to limit clashed with his Talent and lost, leaving him unaffected. Checking on Liz and Asters statuses with his [AI], he found their maximum mana had been reduced by about ten percent.
+
+That was less than ideal. Not because it would hurt them, but because the percent debuffs were the ones that stacked the worst in the rift.
+
+Where the cinnamon had simply weakened them by almost a quarter of a Tiers physical power, it was also preventing other similar spices from doing the same, meaning all other flat physical reducing effects were effectively free spices. The percent based weakening spices didn’t conflict with each other and instead worked together.
+
+Flaring his Concept, Matt ensured they were boosted by his mana generation, which would help compensate for their lost capacity. He had it on so often, it was a habit to ensure he hadn’t forgotten to add the two of them.
+
+A flurry of carrots dropped down from the air, fifteen this time, and they dove in on Matt, who made sure to grab two even as he punched and kicked several others, killing each with a single hit.
+
+They were perfectly cooked to his preferences, and he enjoyed the odd combination of flavors as well as the food, even though his first went into the pan to join the chicken.
+
+The following three waves were just as easy, with them not really needing to put much effort towards killing the monsters, allowing them to just enjoy themselves as the wine was passed around and guzzled before things started to get difficult.
+
+However, after the fifth wave the rift around them shimmered and changed, and the oven opening up into the kitchen proper.
+
+According to the information, they could go practically anywhere in the oversized room, and where they went decided what type of foods they would encounter and would also change the other areas.
+
+Scanning the room, Matt found his target and pointed. “To the stove top!”
+
+Together, they landed in what would end up being one of the most annoying areas in the rift for anyone trying to push deeper into the waves.
+
+A giant stovetop steamer with each of the holes leaking steam.
+
+Steam which threatened to remove all of their hard earned spices.
+
+Seeing they would need to spread out, Matt poked Aster. “Wine please.”
+
+“I don’t know what— Fine. You could have brought your own wine.”
+
+“I did bring it. It's just in your ring. You’re my pack fox. Like a pack rat but more devious.”
+
+“That makes it my wine now.” Aster couldn’t help but preen at the not quite compliment.
+
+Not that Matt let her get away with it so easily. “That logic is terrible.”
+
+Aster took a swig from the bottle in retaliation before she handed it to him, but he didn’t mind as the next spice rained down.
+
+Thyme.
+
+Now that was interesting.
+
+Culinarily speaking.
+
+It didn’t clash too hard with their collected spices, and could easily mix with other flavors going forward.
+
+Practically, it meant a resistance to moving, which was more of a problem as once the monsters reached proper Tier 27 speeds it would start to hamper them quite a bit in terms of explosive moments.
+
+Snakes of spaghetti plopped down from the ceiling as jets of steam exploded out from some of the holes on their makeshift floor.
+
+They dodged the steam and started killing the now mid Tier 26 monsters, but it still was hardly a challenge and they mostly relaxed and stuffed their faces and threw spaghetti into the nearby bowl. The next wave, they made a sauce that joined the spaghetti and ended up quite nice. Nice enough they had to force themselves away from the bowl or risk ruining their run.
+
+Five waves of camping out on the steamer completed, they looked around and Matt saw the prep board and they flew into it.
+
+Knives slamming up and down chopping mountain sized vegetables acted as environmental hazards, perfectly willing and able to kill them as they helped the rift make a salad. What they were more interested in were the spices that appeared on the cutting board.
+
+Matt didn’t personally agree with the idea of seasoning one's cutting board, but he didn’t hesitate to roll around on the pepper for even a second.
+
+It was actually somewhat of a buff as it damaged anything near him, both enemies and allies alike.
+
+For the peak Tier 26 monsters it didn’t really matter, but once they reached the Tier 27 monsters it would come in quite handy.
+
+The break point between Tiers was one of the more dangerous parts of the rift, as instead of another wave of monsters, it was a mini boss named chef by the previous delvers. He wasn’t actually killable and was more of a test between every three waves of the rift.
+
+A giant, faceless, and genderless humanoid appeared in the kitchen, and upon seeing the dishes they had completed from before, it seemed to notice them. In a very rude fashion, it shouted at them and threw a [Fireball] their direction.
+
+Except, it was more like a meteor or other higher Tier fire spell, as it was the size of a moon. The second it left the boss’s control Matt and Liz grabbed control of the spell, halting it mid air and causing it to implode.
+
+The mini boss pulled a cleaver from out of its apron and slammed it down at them. They scattered and Aster fused the cleaver to the countertop with a wave of snow.
+
+The boss didn’t seem deterred and instead wrenched its knife out of the counter, causing kitchen utensils to go everywhere, which Matt fixed with a quick flex of [Telekinesis].
+
+Or mostly fixed. A paring knife even stuck in the fridge next to them and wobbled, but thankfully didn’t fall.
+
+The giant chef threw a few more attacks but when he saw he couldn’t kill them he grabbed the bowl of salad and walked out of existence.
+
+Wave complete, the rift’s difficulty increased twofold as the Tier of the monsters increased to proper Tier 27s.
+
+Most guides recommended resetting one's spice at this point, but they pointedly avoided the cups of water and wet rags as they went to the spice rack.
+
+The spice rack being the source of spices, each wave fought there earned them twice the spices which finally forced them to take the fights seriously as the debuffs started to add up.
+
+Matt drew his blade and flooded the latticework with his crystalized mana, carving a new set of runes into the mana stone.
+
+The moment he finished he felt a pulse as the sword's now crystalline core automatically started drawing mana from him. It was a new style of blade from his last prototype but one his team had high hopes for.
+
+As mana built in the blade, the cloves of garlic added to his spice level with each of them he killed.
+
+The monsters only being early Tier 27 kept the fight from being too bad, but even with Matt’s power and Aster’s support skills the debuffs were adding up.
+
+It wasn’t anywhere near a critical level, but the additional fights because of their Tier had actually made the rift harder than if they had started with Tier 27 monsters.
+
+After the garlic came sticks of vanilla that transformed into spears even as they were showered in lemon zest, which reduced all of their outward magical effects.
+
+Matt dodged three thrusting spears of vanilla, cutting one in half and a second with the downswing, but the third hit him and strained [Cracked Phantom Armor]’s first layer forcing him to start using the second layer.
+
+The lemon zest effect wasn’t helping but he had enough experience to work around most such effects so while it weakened his armor it wasn’t by that much. It was more that the enemies were empowered spears and good at penetrating armor and other magical effects.
+
+At this point he had more than enough mana to keep both going at once, he could even afford to keep the second layer going all over his body instead of just creating spots of reinforcement but part of him growing the skill was pushing its first layer to its maximum which meant using it as much as possible.
+
+When they finished the wave, Matt tasted one of the vanilla beans but gagged slightly as the concentrated flavor was mixed with all of the other spices they had accumulated.
+
+Liz quite enjoyed the chaotic mix of flavors and asked, “Hey Aster maybe you can make this into a sellable flavor.”
+
+Aster gagged, putting a hand out to stop Liz from continuing. “I'd be run out of the ice cream industry if I tried to make this a flavor.”
+
+“Oh come on. It's quite good once you get past the initial taste. Come on Matt back me up here.”
+
+“Honey I love you but you like the worm dishes your mother brings over. Your taste buds are not standard.”
+
+Liz gasped. “It's not that bad. You liked the cooked crickets dish! That's weirder than worms.”
+
+Aster snorted. “And neither are ice cream worthy. The only worms in ice cream should be of the gummy variety.”
+
+“So make a gummy worm ice cream with this flavor. Easy peasy.”
+
+“No way! They taste good, this doesn't.”
+
+Aster's last statement was proven true as the double spices were truly less than appealing as the flavors pilled on.
+
+Thankfully, they only needed to fight five waves to complete that region of the kitchen.
+
+From there they moved under the sink where they actually fought monsters.
+
+Rat soldiers, each decked out in a full kit of gear, came at them while they had to dodge rat poison instead of collecting spices.
+
+If they got hit by the poison they would have to wash off all of their spices which made this a dangerous portion of the room. Most delvers did this area either right before they were already planning to clean off or before the steamer, but the three of them were doing it after the spice rack for a reason.
+
+When they did, the rat fight changed the rest of the rift as the rats pilfered ingredients and pieces of the meal from the kitchen. If they were fought early they could prevent that but the collected ingredients could be added to the dishes in the room by them afterward. At the same time, if they put the rats off for too long they could ruin one of the dishes and the chef would then destroy the room in anger ruining the rest of the rift and quite possibly killing the delvers if they couldn't survive the chef’s anger.
+
+The exact limit of when that would happen was variable between delves, but doing it when they did was fairly early as they were going for a particular hidden reward that required the rats to have taken the ketchup and mustard sauces from the fridge, but before they took the salt and pepper which would see them caught by the chef.
+
+Matt slashed down at one of the rat soldiers in the shield wall letting his blade collide with its shield even as he took several hits to his body and chest using the second layer of [Cracked Phantom Armor] in spots to block each blow cleanly. He didn’t put a ton of weight behind the blow, instead letting the rat try to shove him. Stepping with the maneuver he hooked the pommel of his blade over the shield's edge and pulled causing the rat to stumble slightly.
+
+It wasn’t enough to cause it to fall over completely but it was enough to open up the shield wall which a Liz took the opportunity to dive behind and start a slaughter only she could do justice to.
+
+Blood flew, coalesced into a blade, reversed its direction and slashed down on the rats.
+
+Their shields blocked some of the attacks but they couldn’t block from every angle and Liz easily flowed through their battle lines cutting down the monsters with ruthless efficiency.
+
+Aster cast a few buffing spells on Liz and a few area of effect debuffing spells that slowed the rats down but Matt just sat next to his bond watching the two of them work.
+
+It was a good show and it was rare he was able to enjoy it like this.
+
+They were so fast, in fact, the second wave of monsters started to spawn before the corpse of the first wave had even finished vanishing.
+
+The rat poison being spread around was the only thing that slowed the two of them down and in just minutes the five waves had been completed.
+
+That meant another mini boss battle but it also meant they needed to be fast and pillage the stolen goods and put them where they wanted.
+
+Matt grabbed a massive bundle of celery, a pile of shredded carrots cut by Aster using [Tornado] and [Cutting Hurricane], and the bottles of ketchup and mustard with [Telekinesis] and they quickly flew out into the kitchen where he put the veggies near the cutting board and the bottles next to the fridge but partially blocked by a loaf of bread.
+
+The chef appeared in the room just a moment after he got everything put away and the mini boss immediately spat the tooth pick it was chewing on at them like a ballista.
+
+The projectile was building sized and nearly hit Matt as he was caught out in the open but his teleport ring was just enough to get him out of the way and he let the buffeting winds push him even farther away.
+
+The chef yelled which caused not just the air to shatter but space itself. The wind blades were dangerous but mostly because getting hit by one could send them into one of the slowly healing spatial cracks which would cut them cleanly in two.
+
+Aster dodged the attacks by virtue of turning any of the blades that made it near her into an illusion while all of the Lizzes just turned themselves into puddles which were immune to the wind blades and able to flow away from any of the ground level spatial cracks.
+
+Matt just grabbed all of the air near him with [Air Manipulation] and commanded the air to still, which prevented him from being buffeted about long enough for space to heal itself.
+
+Once that attack failed the chef ignored them and started collecting the rest of the dishes but when he opened the fridge to get the condiments he saw them on the counter he grabbed them leaving the fridge open.
+
+Most guides recommended not entering the secret area that was the fridge as it was a spike of difficulty that often ruined a spice accumulation run if it didn’t end a delvers run by the spike of difficulty in fighting the frozen dishes.
+
+It was however one of their goals so the moment the secret area opened Matt flew forward with Aster and Liz right on his heels.
+
+Once they entered the fridge the ever present heat of the kitchen was replaced by a bitter cold.
+
+Aster thoroughly enjoyed it, but all of the Lizzes shivered in near unison as the cold tried to freeze her any of her liquid parts solid which for Liz was all of her.
+
+While Aster would have loved to stay in here forever, the rift didn’t quite work that way.
+
+The chef had left the fridge open and everything in the fridge would spoil if not defeated quickly.
+
+Mint flavored heavy cream rained down from the air and stuck like blades in their bodies which made every movement painful but was generally a good spice to get as they could deal with pain and it didn’t further debuff them.
+
+Their first wave of monsters were sticks of butter that didn’t have much in the way of damage but they were incredibly hard to kill being almost immune to fire attacks thanks to being near frozen. Cold attacks also didn’t bother them as they were in a perpetual state of near cold and anything but blunt physical attacks were just as useless.
+
+The strategy recommended to most delving teams was to kite the sticks of butter around until they started to melt as the fridge warmed up but they weren’t most delving teams.
+
+Where Matt had gotten to watch the other two fight last cycle they got to watch him dart around hitting the monsters with the flat of his blade hard enough to make them explode where he quickly padded them into smaller chunks that could be served at a table with [Telekinesis].
+
+The amount of force he was hitting them with would have broken his older blades' lattice framework, but the design of this configuration was all about durability. In fact the mana the blade had been pulling from him since he filled it in at the start of the rift had been reinforcing the mana crystals the entire time making the blade stupidly durable.
+
+The effectiveness was diminishing but it wasn’t limited by Matt’s maximum mana and instead time gated which didn’t mean much to him. Ultimately the enchantments were the weakest part and would start to fail but that was why they were testing it.
+
+Matt wasn’t quite as fast as Liz and Aster in killing the butter as they had been in killing the rats but he was proud of the speed in which he did it.
+
+The next wave however was a team effort.
+
+Dill rained down on them and drained a portion of their willpower even as a variety of pickles pulled themselves out of jars with solidified mana arms and legs. They then started launching liquid projectiles which threatened to wash all of their hard work away.
+
+Aster's debuffs came in clutch as her debuffs bought them enough time to both dodge the wet projectiles and also attack the monsters.
+
+Matt even took the opportunity to cut off a piece of pickle on his last enemy to see exactly what they were fighting but found it a type of sweet pickle instead of the more bitter varieties he enjoyed.
+
+Liz however took the news in stride and happily skewered her final opponent on her spear and started taking large bites out of its side as they waited for the next round.
+
+On the fifth and final wave Aster shouted “Don’t fuck this up Matt!”
+
+Knowing what he needed to do, Matt set himself in a runner's stance and using his Intent locked his feet to the glass plane they were fighting on.
+
+He had no idea how someone had discovered this naturally but with the guide they were able to prepare for the secret room's secret room.
+
+The fifth wave started with a bang as the glass shattered as a gang of moldy cheeses burst out from one of the drawers and up into the fighting area they were in.
+
+The glass was sent flying and along with it one piece that had Matt stuck to it.
+
+That piece stuck into the roof and punctured through just deep enough to reach the freezer. The glass shard fell after a moment and the fridge started to heal but Matt launched himself upward getting in the way.
+
+Using [Telekinesis] and his Concept’s repulsion effect he pushed at the healing ceiling while fighting the anti flight effect that was trying to force him away from the ceiling. It took everything he had but he kept the hole open long enough for Liz and Aster to finish the cheese off and get into the freezer.
+
+The first wave inside the freezer it rained chocolate which wasn’t nearly as pleasant as it sounded as it acted like sludge and made them stick to anything they touched meaning they needed to keep flying as the chocolate hardened.
+
+The fights however were trivialized by Aster spreading her Tier 25 Talent space outward and just absorbing the monsters he and Liz weren’t gobbling up. What Aster was planning to do with living ice cream sandwiches he didn’t know but he doubted it would work.
+
+As far as he knew, none of the monsters brought out of this rift survived or kept their special properties. In fact even the rift breaks, only seen when the rift was Tiered up, were just a combination of more normal sized and killable chefs and the rat soldiers, never the food.
+
+Still, they’d done what Aster wanted and it had been a nice break from the much harder fights outside, which meant it was time to finish the rift.
+
+They cleared several more areas until they were over fifty waves deep. As they hadn’t washed the spices off even once it meant fighting the Tier 28 monsters was pushing them to their limits and even beyond, but that was why they did what they did. Delving for fun could be good but they wouldn’t waste months delving without some advantage and this rift was one of the few places that they could stack debuffs on themselves in a relatively safe manner.
+
+So at the peak of Tier 28 they moved back to the oven where the rift had started and together they pushed the off button turning off the oven.
+
+A alarm blared and the chef walked in roaring mad.
+
+Unlike before as he approached he got smaller and smaller until he was only a dozen times their height and mostly fit on the stovetop where they fought him.
+
+At peak Tier 28 he was faster, stronger, and had better magical abilities than normal but he was also only a single monster. Between the ten Lizzes who harassed him from the flanks, Matt able to take the brunt of his attacks, and Aster able to buff them countering some of their penalties as well as debuffing the boss they were able to take him out without too much effort.
+
+In the fight the boss threw magical versions of all the dishes they helped make which instead of being dangerous gave them various buff’s as they were hit which was the entire reason they had helped with the environmental tasks. The original attacks were known for being quite a pain in the ass which stood in contrast to the experience of getting buffed by a boss's attacks.
+
+Once the chief started to dissolve Matt fell onto his butt and panted as the feeling of relief from the various spices falling off him caused a wave of twitches and shivers to inadvertently overcome his bodily control. It felt amazing to have access to his full power again, and better yet all of their deferred essence from the rift started to pour into them.
+
+It started slow but sped up right to the limit that Matt could allocate the energy which was always a appreciated feature of wave rifts as otherwise they would have lost a lot of the essence but being used to delving up Tiers he was using to monsters filling his spirit’s capacity for free essence after just a kill or two.
+
+With how far they pushed in the rift they got nearly ten Tier 28 rift clears worth of essence which was pretty damn good for the time spent but that wasn’t the most exciting part of the rift.
+
+From the chef’s body the rift exit formed and with its accompanying reward distortion which absorbed the spices that had fallen off them like a vacuum. It pulsed several times as the spices were pulled in until it stopped.
+
+Even Aster and Liz who normally didn’t care about any of the superstitions in opening reward distortions like Matt waited breathlessly as he waited for the right combination of colors to appear.
+
+Cyan, indigo, and bright orange.
+
+Seeing the combination that felt right for the rift Matt dispelled the distortion with a thought and a single empty jar of spices popped out of the rift.
+
+Aster whooped and grabbed Liz as they hit the jackpot.
+
+The spice jar was one of the rifts' rarest drops and despite it being a non combat item sold for Tier 30 wealth on a bad day and upwards of Tier 35 for someone who really wanted it as it could duplicate any spices put inside of it, including rare or exotic ones that were otherwise hard to source in quantities.
+
+Prize in hand they exited the rift ready to move onto the next one though that one was a more standard delve but they had had their fun and it was time to buckle down and grind out rifts until they were ready to Tier up.

@@ -1,0 +1,137 @@
+---
+id: bc9db0bb-d273-5305-a66c-7096dbfb5a3f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 616: Probably fine."
+slug: 0184-chapter-616-probably-fine
+partOf: rise-of-the-living-forge
+position: 184
+ownLength: 1737
+unit: words
+publishedAt: 2026-06-29
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3607865/chapter-616-probably-fine"
+royalRoadId: "3607865"
+---
+
+Reya nearly tackled Olive to the ground.
+
+All things considered, that was really quite impressive. She’d crossed at least a dozen feet in the span of no more than a second to slam into Olive, wrapping the other woman in a tight hug. The only thing that kept them both from falling to the ground was that Olive somehow reacted in time. She spun Reya around, dispersing the momentum, as a smile cracked her features.
+
+“What took you so long?” Reya asked when Olive set her down. Her fingers dug into Olive’s clothes. “I was waiting.”
+
+“Things were a bit tougher than expected,” Olive said. “I’m sorry. I didn’t want to take this long.”
+
+“Did it work?” Reya asked, only pulling away from Olive enough to make eye contact. “Your class is Sunsetted? Your arm didn’t mess things up?”
+
+“Yeah,” Olive said. Her arms tightened around Reya’s back. “It worked. Not as easy as I think any of us would have liked, but it worked. I wish I could have sent a message, but…”
+
+“Oh, you probably could have.” Eleven coughed. “I was just… you know. Sleeping. Don’t get nearly enough change to do that as of late. You lot have kept me too busy.”
+
+Reya’s head rotated around, almost like that of an owl, so she could glare at the other woman.
+
+Eleven coughed into her fist.
+
+“It’s good to see you back,” Arwin said, reaching over Reya to clap Olive briefly on the shoulder. “You’ll have to tell us how things went. I feel a bit ashamed. If my arm caused you trouble… I should have done something before you left. Maybe I could have mitigated that trouble. That was irresponsible of me.”
+
+Olive let out a snort. “Shut it. You made it, but this is my goddamn arm now, Arwin. I don’t need you babying me. And things are all worked out now. Nothing to worry about. It was just a bit of a pain in the ass to get through it. But I think I’ve figured out at this point that nothing good in life comes without effort.”
+
+“That’s true enough,” Kien said. “I look forward to seeing what you will be capable of now. We will have to spar soon.”
+
+“Tomorrow,” Olive said with a nod. “I’m curious as well. And I see everything seems to have worked out with the Beast… right?”
+
+“It worked out,” Lillia confirmed. “We found a way to slowly chip away at his curse so long as he remains within a certain range of Uriel. He’s on our side now. Though I suppose he doesn’t really have too much of a choice. The only way he gets what he wants is if we survive long enough to get it to him.”
+
+Olive grinned. “Good. I want to catch up on everything I’ve missed, but to be honest, I’m spent. And that’s including the fact that I’ve spent the past few days sleeping off the effects of Sunsetting. Even got to chat with One.”
+
+“Wait, what?” Arwin’s gaze caught on Olive. “You spoke with One?”
+
+“Yeah. He’s… odd,” Olive said. She sent a sidelong look toward Eleven. “Definitely not what I was expecting. But nothing really happened in the meeting. Was more of a hello than anything else.”
+
+Why would One meet with her and nobody else?
+
+“I see,” Arwin said. That probably wasn’t the kind of question to ask while Eleven was hanging around. If Olive had something more she wanted to share about that particular meeting that she hadn’t mentioned yet, then she was probably waiting until they were alone to do it. “Well, so long as everything worked out, then I’m happy.”
+
+Olive nodded. “I’m just glad we didn’t have to fight the Beast. That would have been a real pain. But it looks like my presence won’t be needed tonight. So, if you’ll excuse me, I’m going to retire to my room.”
+
+“Feel free,” Arwin said with a nod. “Take care of yourself. We can speak tomorrow. It sounds like you’ve more than earned the rest.”
+
+“I have,” Olive said with a smirk. “Until tomorrow, then.”
+
+“You’re going to bed already?” Reya asked, sounding disappointed. “But you just got back...”
+
+“Yup,” Olive said. She hoisted Reya up without so much as blinking, as if she weighed no more than a leaf.
+
+“Huh?” Reya blinked.
+
+She didn’t get a chance to say anything else. Olive had already set off toward the stairs with Reya slung over her shoulder. Reya’s baffled expression was the last thing Arwin saw of the two of them before they vanished up into the second floor.
+
+There were a few moments of silence.
+
+Then Lillia cleared her throat.
+
+“Fortunately, I’ve been enhancing the walls of the Devil’s Den recently. Making it stronger in case there was a fight here. For… reasons.” She sent a sidelong glance at the Beast. “But that comes with the added benefit of sound not traveling nearly as well as it once did.”
+
+“Ooh,” Vix said, her eyes lighting up. She glanced toward Rodrick and Anna, then quickly looked away. “That explains a lot. I thought it was a lot quieter than normal.”
+
+Anna coughed into her fist. “Thank you, Lillia.”
+
+Eleven raised a hand. “Not to interrupt anything, but you aren’t eating dinner, which means I really don’t have much reason to be here right now when I could instead be sleeping. But Two isn’t going to let me come back if I don’t bring a tribute with me. Do you think you could choose the next volunteer so I can get on with the night?”
+
+Everyone turned to her.
+
+The Beast’s head tilted to the side. “The girl mentioned Sunsetting. You’re the ones helping the Menagerie? I was under the impression that Sunsetting was a very involved process. You can’t meant to imply that you’re just… grabbing their members one by one and popping them out Sunsetted.”
+
+Eleven didn’t even look in his direction. She just glanced to Arwin. “If we could get on with the choice, please. The mongrel is talking to me. And he hasn’t bathed in what seems to be a considerable time. I can’t sleep properly if I smell, so I’d like to minimize my time next to him.”
+
+The Beast snorted. “Don’t you know? We’re allies now. There’s no need to be rude.”
+
+“Being rude is entirely a personal choice,” Eleven said. “I just don’t like your type.”
+
+Damn. I’ve never seen Eleven this cross with anyone, and she hasn’t even properly met the Beast… unless they’ve somehow met in the past at some point?
+
+That was probably a line of questioning that Arwin wanted to stay well away from. It didn’t really matter. Not compared to figuring out who the next person to Sunset would be. He glanced out at the rest of the Menagerie. Everyone knew just how effective Sunsetting was at this point. There wasn’t a single one of them that would have turned down the possibility.
+
+“Any volunteers that really want to go first?” Arwin tried.
+
+“I’m de-volunteering,” Thane said. He put his hand on the hilt of his sword. “I haven’t gotten used to my class enough yet to Sunset it. Vireth thinks it would go really badly if I did anything now. And even if my class was Sunset, I don’t think it would be as effective as someone like Kien.”
+
+“I am interested,” Kien said. “But I think there might be better options than me right now. It was too recently that… things changed.”
+
+“What’s that mean?” The Beast sent Kien an interested look. “You were quite effective when we fought. Better than most I’ve gone up against.”
+
+“None of your concern at this point,” Kien replied. “It is not something that you need to know.”
+
+Honestly, Kien is pretty damn impressive. He held the Beast up with a Class he only just got recently. I don’t think there would be any trouble Sunsetting him. But if he wants to get more familiar with his abilities and confident in his path, that’s always a good thing. We can’t force him to go first.
+
+“What about Madiv?” Lillia asked.
+
+“What?” Madiv asked, his head snapping around to look at her. He’d been midway through a muttered argument with Esmerelda. The argument’s topic was anyone’s guess. It probably didn’t even have a point anymore. That was just how the two of them communicated.
+
+“You’re linked with the Mausoleum,” Lillia said. “That means a power up for you would also make the building stronger. And you’ve had your class for a long time. I think you’re due for an improvement.”
+
+Madiv blinked. For a moment, he didn’t say anything. Then he hurriedly cleared his throat.
+
+“I am certain that I would live up to your expectations. But are there not others that would be more suitable? Elias?”
+
+“I’m in no rush,” Elias said with a shrug. “I can go after you. Two monsters in a row. But you’ve been a monster longer, so it’s only right you get the right of first passage.”
+
+Madiv paused. Then he looked back to Lillia. “I…”
+
+“Do you want to do it or not?” Lillia asked sharply. “If you’re not interested, then say. We can’t have someone half-assing it. I don’t want you melting into a puddle of bat-flavored sludge.
+
+Madiv stared at her for a long second. Then his eyes narrowed.
+
+“I am Madiv. There is nothing for which I am not prepared. Especially when it comes in service to the Queen. I will do it.”
+
+“Lovely,” Eleven said. She strode up to Madiv and summoned a portal in the air beside them. “I’ve always wanted to see what would happen if we stuck an undead in the Leyline. Would you believe we haven’t had a chance to do it yet? Other monsters, yes. But never an undead. Might be pretty enlightening.”
+
+“Wait,” Madiv said. “It’s untested? Completely untested? What if it doesn’t work the same way as it does for everyone else?”
+
+“Meh. I’m sure it’ll be fine. Fortunately, I won’t be the one testing it.”
+
+“Are you certain—”
+
+The rest of Madiv’s sentence was lost in a slew of curses as Eleven strode into the portal, yanking him in behind her. It closed behind the two of them with a quiet pop.
+
+“Whelp,” Esmerelda said. “He’s dead.”
+
+“I’m sure he’ll be fine.” Lillia pursed her lips. “Probably.”

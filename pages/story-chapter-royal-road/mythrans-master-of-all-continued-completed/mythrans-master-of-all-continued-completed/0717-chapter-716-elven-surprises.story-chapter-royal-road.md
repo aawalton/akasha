@@ -1,0 +1,265 @@
+---
+id: 368149a5-45d8-5067-8224-8f9c0b6c9fd1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 716 - Elven Surprises"
+slug: 0717-chapter-716-elven-surprises
+partOf: mythrans-master-of-all-continued-completed
+position: 717
+ownLength: 3450
+unit: words
+publishedAt: 2018-09-30
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/294636/chapter-716-elven-surprises"
+royalRoadId: "294636"
+---
+
+Ren told Princess to head to the High Elven Kingdom first and to Yllana's apartment. It was nighttime, so he checked the All-Seeing Mirror on the way and saw that she was in her kitchen. She was dressed for bed, and he used the mirror to look around to make sure that she was alone. She was, so he had Princess land on top of her apartment. Ren hopped off of her and scratched her chin for a moment, then equipped his High Elven Court Uniform and ran down the side of the building, went inside, and knocked on her apartment door.
+
+Yllana was surprised that someone was knocking on her door so late. When she opened the door and saw Ren, she shivered in anticipation. She reached out and lightly touched the fancy tree and leaf designs on his chest, and took in a breath.
+
+“It was you.” Yllana whispered.
+
+“It was me what?” Ren asked with a knowing smile.
+
+“You fixed everything.”
+
+“How do you know that?”
+
+“You have the Creator's Assistant title.” Yllana said with wonder in her voice. “You... you've met Vasalor.”
+
+Ren remembered dismissing a couple of popups when he had left Vasalor's realm and resisted the urge to open them to see what they said. “I have met him.”
+
+“P-please, come... come in.” Yllana said and gripped his uniform firmly and tugged. Ren stepped in and she shut the door behind him. “You have been touched by the creator himself.” She whispered in reverence. “Now you're right here in front of me.”
+
+“I can come back later if you're busy.” Ren said and he felt her sudden surge of panic. He reached out and cupped one of her breasts through the thin nightgown she wore, and she relaxed. She took his free hand and put it on her other breast, then Ren massaged her in earnest. She moaned as she thought about Ren's experiences with Vasalor, and she closed her eyes and leaned against the door.
+
+Ren felt her emotions and leaned in close to whisper. “These hands have touched every single person in the Earth Realm.”
+
+Yllana gasped as she finished and her body shook from pleasure. “R-Ren...”
+
+Ren let her breasts go and picked her up, then took her to her bedroom. Teepo flew up to land on the ceiling and kept a look out just in case. Ren laid Yllana on her bed and she stared up at him and had such desire in her heart and on her face, that he knew she would forgive him for not teasing her. She sat up to please him with her hand and mouth, as was their normal routine, and when she reached for his pants to undo them, he put a hand out and stopped her.
+
+Ren felt her disappointment and lifted her chin up so she would look at him. “Not today.”
+
+Yllana's heart plummeted at his rebuff. “B-but... but...”
+
+“Lay back down.”
+
+Yllana laid back on the bed and she held in her sob as she fully expected him to leave her, after getting her so excited. Ren felt her emotions and stored his clothing to show her that he was very ready for her. She blinked her eyes at him and didn't know what he was doing, because he had never stopped her from pleasing him before.
+
+Ren took out the golden statue of Vasalor, which made her catch her breath at its presence. He activated it and climbed onto the bed with her and lifted her nightgown, touched her special place to see that she was completely soaked and as ready as she could be, and he climbed on top of her.
+
+“R-REN!” Yllana gasped as she realized what he was going to do, then screamed her lungs out in pleasure as he entered her. All those months of teasing and playing with her had made her like a powder keg of gunpowder, and when he finally crossed that last line, her repressed emotions exploded inside of her and she cried and hollered as he pleased her. She had never felt such things before, or so expertly, and she lost herself in the sensations and emotions he brought out in her, over and over.
+
+Over the next few days, Yllana completely ignored everything in her life and stayed inside her apartment with Ren. They made love over and over, as much as she wanted, and she had wanted it a lot. She had hidden her deepest desires very well and Ren hadn't suspected that she had a secret longing for him to do exactly what he was doing. No teasing or playing, just sex. He fulfilled every desire that she had, and by the end of the week, she had constantly mumbled her thanks to him. When he told her that he needed to go, she sat up in bed and gasped.
+
+“We forgot to eat all week!”
+
+Ren chuckled and sat up, then tapped the statue and deactivated it. “It's okay. The statue took care of our needs.”
+
+“Is that why I'm not tired?” Yllana asked.
+
+“No, you're just so robust and full of Vitality that it will take more than a week of sex to tire you out.” Ren smiled at her, and she laughed.
+
+“Well, you just proved that, didn't you?” Yllana asked, then she gasped again. “Oh, no! I had appointments to go to this week!”
+
+“You still do.” Ren said, and she looked at him with wide eyes. “This last week happened in our own time and didn't affect the time in the Earth Realm at all.”
+
+“You... you're kidding! You have to be kidding.” Yllana said and got out of bed and looked out her window, and even though it was 'morning' for them, it was still the same evening when Ren had arrived.
+
+“It's only been a few seconds.” Ren told her and she stared at him like she had never seen him before. “I've got to visit a couple of other people before heading back home, so I need to go.” He stored the Vasalor statue and equipped his armored bodysuit. “Oh, and if you want to talk to Vasalor yourself, the Church Of Vasalor will be opened tomorrow.”
+
+“WHAAAAATTTT????” Yllana yelled in shock.
+
+Ren walked over to her and gave her a kiss, Teepo dropped from the ceiling onto Ren's shoulder, and they left her by the window. Ren walked out of her apartment and up to the roof. “Next stop, the Underworld!”
+
+“Yes, My King.” Princess said and Ren climbed onto her, and Princess quickly ran partway across the High Elven countryside to the border and to the small abandoned village there. She stopped at the well that had the Underworld entrance at the bottom, and Ren made the well twice as big so that they could enter safely. When they reached the bottom, Ren politely knocked on the door and stood there and waited patiently.
+
+“Go away!” A woman's harsh voice said a few minutes later.
+
+“Night Hag, I've come to visit you on my way to see the Queen of the Dark Elves.” Ren said and scratched Princess' chin.
+
+“Geez, Ren.” Teepo chittered in laughter. “You're not even going to fib a little and tell her you're here to only see her, then say you might as well visit Lylyth?”
+
+“Nope.” Ren chuckled. “I gave her the Amulet of Interrogation, remember?”
+
+“Oh, yeah.” Teepo said. “Boy, that would have backfired spectacularly if you had lied!”
+
+“Don't I know it, buddy.”
+
+The door opened and Ren saw the beautiful visage the Night Hag wore.
+
+“By Vasalor, you're not going to leave me alone, are you?” The Night Hag said.
+
+“I was coming to the Underworld anyway and figured I could stop in and see how you're doing.” Ren said.
+
+“You do remember me trying to kill you the last time you were here, don't you?”
+
+“Yeah.” Ren said and smiled. “I've kind of got a soft spot for difficult and dangerous women.”
+
+The Night Hag blinked her eyes at him for a moment, shook her head, then stepped aside and waved for him to come in.
+
+“Thanks.” Ren said and he and Princess stepped inside. “Ooo, you redecorated.” He said when he saw the place was a shambles.
+
+The Night Hag laughed and he heard breaking glass. “I did this after you tricked me.”
+
+“I didn't trick you.” Ren said honestly, then turned to look at her. “Wait, you've been living like this since then?”
+
+The Night Hag nodded, and Ren disappeared from her sight. “Wh-what...”
+
+Her place changed as each item was repaired almost instantly and Ren reappeared in front of her.
+
+“I can't do anything about your potion ingredients.” Ren said and shrugged. “You'll have to replace them yourself.”
+
+The Night Hag looked around and saw that even the walls had been repaired. “H-how...”
+
+“I mastered all of my skills.” Ren said and looked at the couch. “Can I sit down?”
+
+The Night Hag didn't say anything, so he walked over to the couch and sat down.
+
+“Yeah, I'm glad I replaced the stuffing. It's much more comfortable now.”
+
+The Night Hag gave him an odd look and walked over to the couch. She bent over slightly and used her hand to test one of the cushions, and it was a lot softer than it was. Curious, she sat down and was pleasantly surprised at how good it felt. She immediately distrusted this nice gesture and stared daggers at Ren.
+
+“Why are you here?”
+
+“I really was just passing through, so I wanted to stop in and see how you're doing.” Ren said.
+
+“That's all?”
+
+“Well...”
+
+“I knew it!” The Night Hag jumped to her feet and her hands started to glow. “You've come back for revenge, and since you have free passage in my domain, you can attack me with impunity!”
+
+“Ha ha ha!” Ren laughed. “Jump to conclusions much?” He asked and raised his hands in a clear show that he was defenseless. “I just wanted to know how your plans are coming along.”
+
+The Night Hag's hands didn't stop glowing, but she relaxed. “My plans?”
+
+“Yes, with the Kraken and causing death and destruction on the world.”
+
+The Night Hag stopped her hands from glowing and sighed. “It's not going at all.”
+
+“Oh? Why not?”
+
+“I can't even find the Krakens, let alone steal one of their babies!” The Night Hag huffed.
+
+Ren stopped himself from laughing, because she had sounded just like Princess. “Ahem, well... would you mind if I give you hand with that?”
+
+The Night Hag looked at him like he was crazy, and he smiled at her. “How?”
+
+Ren took out the All-Seeing Mirror and the Night Hag gasped at the sight.
+
+“The All-Seeing Mirror!” The Night Hag's hands dashed out quickly to snatch it from him, and her hands went right through it. “Wh-what?”
+
+“I learned that trick from the clerk at the Dwarf Hall of Records.” Ren chuckled at the Night Hag's surprised expression. “Can you show me the Kraken's nest, please?”
+
+The All-Seeing Mirror changed to show a large nest that looked to be inside an underwater ravine somewhere. In the nest were 6 little Krakens, barely out of the egg stage.
+
+“Hey, we caught it just in time.” Ren said and waved the Night Hag closer, then pat the couch beside him. She was too curious not to accept the invitation and sat down as she leaned in close to watch. Princess stepped behind the couch and looked over their shoulders to watch, too.
+
+“Caught what? What's happening?” The Night Hag asked.
+
+“Something that seems to happen a lot to water-based creatures.” Ren said, and they watched as the first baby Kraken shot up into the water, then was caught in the current.
+
+“Go for it, little guy!” Teepo said, then chittered in delight as the baby Kraken managed to fight the current and made it to its mother. Unlike the giant octopus, the mother hadn't given her life to feed them, and she caught her baby and gave it some crab meat.
+
+“Hey, the next one...” Ren started to say, then the current gave a swirling eddy and caught the little thing and swept it towards the sharp edge of the ravine.
+
+“N-no...” The Night Hag said sadly, then a portal opened at the last second right in front of the rocks. She gasped at the sight and then a Magical Barrier of Protection appeared in her living room and the portal opened. Water quickly filled the barrier, and then the baby Kraken shot out of the portal and swirled around inside the water. It was 2 feet long, including the tentacles at the back, and it's frog-like head was barely the size of Ren's. It still had wickedly sharp teeth, though.
+
+“I was really worried we were going to miss it.” Ren said and stored the All-Seeing Mirror. “Things like this are hard to time properly when shifting between realms and using items that cause a different time compression.”
+
+The Night Hag sat on the couch and couldn't believe what she was seeing. “There... there's a Kraken... an actual Kraken... in my living room.”
+
+“A baby Kraken that was going to die.” Ren said and stood up.
+
+“But... but why...”
+
+“I didn't want you to keep believing that I had cheated you.” Ren said. “You think I hadn't honored our deal, and that bugged me.” He smiled. “So, here's a replacement for the Kraken you tried so hard to make.” He said. “Since it was going to die, I don't feel guilty about saving it, and stopping you from trying to create another flesh golem.”
+
+The Night hag was too stunned to respond.
+
+“It's still going to take years... maybe even decades... to get him strong enough and big enough for your master plan.” Ren said. “But, just so you know, Adventurers will try to thwart your plans.”
+
+That made the Night Hag react and she narrowed her eyes at him. “Are you threatening me?”
+
+Ren laughed. “No, because I'll be the one issuing the Standing Quest.” He said, and she caught her breath.
+
+“You... you won't be trying to stop me yourself?” She asked, surprised.
+
+Ren shook his head. “Hopefully, I'm going to be too busy enjoying raising my children.”
+
+“You... an Adventurer...”
+
+“I know it seems odd.” Ren chuckled. “Me, as a father.”
+
+“What's odd is that you are the first Adventurer I have heard of that has children.”
+
+“Yeah, I think I'm a special case, considering how much time I've spent in this world.” Ren said and stored the All-Seeing Mirror. “Anyway, I need to go and visit the Queen of the Dark Elves.”
+
+“W-wait!” The Night Hag exclaimed as Ren and Princess went to her back door. “Why? Why did you do this?”
+
+Ren walked back over to her and held a hand out to her. She looked at it like it was a snake that was trying to bite her, and he laughed. “I've had a long time to think over everything I've done, and Vasalor himself said that it was okay for me to change things so that they are better.”
+
+“Giving me a creature to cause massive destruction and death is making things better?” The Night Hag asked, incredulous.
+
+“You definitely feel better, don't you?” Ren asked, and she caught her breath. “You don't have to feel depressed anymore, Night Hag.” He said, then sighed. “I kind of hate that I need to call you that, because it's both your name and what you are.”
+
+“I have always been called that.” The Night Hag said.
+
+Ren took a deep breath and let it out. “I hope you have fun plotting and scheming to try and take over the world.” He said and turned away. “Oh, and before you get any crazy ideas, Kraken have an innate anti-magic defense. You won't be able to accelerate his growth unnaturally.”
+
+“Goddammit!” The Night Hag exclaimed.
+
+Ren laughed as he opened her back door. Teepo chittered in laughter and Princess brayed softly as they left the Night Hag cursing fate, the gods, and Ren. The trio quickly made their way across the cavern and to the wall, and Ren took out his pet tarantula.
+
+“My Queen, I am in the Underworld. May I pay you a visit?” Ren asked, and the tarantula tapped his cheek. “Thank you.”
+
+Ren took out the Indestructible Staff Of Earth and pointed it to the wall, and it opened up a 10 foot wide square hole all the way to the next cavern instantly. He climbed onto Princess' saddle and she brayed her happiness as she ran as fast as she could.
+
+“There's cave worms on the other side of the tunnel, Princess.”
+
+“Yes, My King!” Princess said happily and ran all around the cavern when they reached it, trampled and rammed every cave worm and nest that she detected through Ren's massive Aura. She was very efficient in her acts and then Ren pointed to the wall. She ran for it and he held out the staff to create another tunnel. He dismissed the old one and they ran through another couple of miles of tunnel to reach the next cavern, and Princess repeated the process of killing all the cave worms and smashing their nests.
+
+Even with doing all of that, they arrived at the center of the Dark Elven Kingdom fairly quickly. Princess had to slow down and came to a stop when they approached the main area where the Queen of the Dark Elves presided over her domain. Ren hopped off of the saddle and scratched her chin, then they entered the main area. No one stopped him or even looked his way as they walked through the various caverns and guard posts. They arrived at the throne room and he knocked on the door. The door opened and Ren saw that there was a gathering of sorts.
+
+“Welcome, Royal Consort.” Lylyth, Queen of the Dark Elves said, almost as a proclamation. The Dark Elves gathered around her took a step back and they all knelt on one knee. Ren dismissed the Influence and XP conversion popups, since he had gained neither, and stepped into the throne room.
+
+“Thank you, My Queen.” Ren said and gave her a regal bow. “I'm not sure I deserved such a formal reception just because I stopped in.”
+
+Lylyth chuckled, and amusement came from all of the Dark Elves. “This is the first time you've been back after giving us the High Elven Kingdom.” She said. “It's been... so wonderful.”
+
+Ren smiled as he felt her joy and happiness.
+
+“...and quite a relief, I have to assume.” Ren said, and several of the Dark Elves chuckled.
+
+“To say the least, Dear One.” Lylyth said. “Can I ask what the purpose of this visit is?”
+
+“After I lost all the connections with everyone, I was very angry.” Ren said. “I maxed myself out completely, then asked Vasalor for his help.”
+
+Lylyth and everyone in the throne room gasped at the truth in his words. “Wh-what did you do?”
+
+“I fixed everything, My Queen.” Ren said, and no one breathed. “I've been visiting everyone that I have a connection with to ensure that they are okay and haven't suffered.”
+
+Lylyth touched the spider emblem over her heart, the one that matched the one on the back of his hand. “I did feel the utter loss of something important.”
+
+“As did I.” Ren said. “Excruciatingly so.”
+
+“...and... and now?”
+
+“If I may approach you?” Ren asked, and she nodded. He walked across the throne room and everyone stayed on their knees as they watched him. He came to the throne and started to reach for her hand, and Lylyth felt immense pressure from him and caught her breath.
+
+“S-stop.” Lylyth said when his hand was barely an inch away from her skin. “Wh-what is this feeling?”
+
+Ren smiled and moved his hand away, because she reacted just like Elerlyth had. “I was going to share the feelings I had while fixing everything.” He said. “I guess it's a little too much.”
+
+“H-how long...”
+
+“Only a couple of eons.” Ren said, and he felt shock from everyone, especially Lylyth.
+
+“I... I can't.” Lylyth said. “That's too much.”
+
+Ren nodded. “Perhaps I could borrow Tiatha for a...”
+
+“YES!” Tiatha yelled into the silent throne room, and that broke the tension Ren had inadvertently caused by his revelation. Lylyth waved assent and Tiatha jumped forward to grab his hand. “My room.”
+
+“Princess, I'll be right back.” Ren said and cast the Portal spell, then he and Tiatha stepped through it.

@@ -1,0 +1,177 @@
+---
+id: 346c08ed-1eb5-5e82-9f8f-b3c8d0e3585a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 556: Blazing Sunrise"
+slug: 0080-chapter-556-blazing-sunrise
+partOf: reborn-as-a-demonic-tree
+position: 80
+ownLength: 2738
+unit: words
+publishedAt: 2026-04-08
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3249112/chapter-556-blazing-sunrise"
+royalRoadId: "3249112"
+---
+
+Elder Zhen, captain of the Blazing Sunrise, was in disbelief.
+
+"We have to break formation, Elder Zhen!" his formation commander shouted over the chaos. "The trees, they are fighting back with fire! Our shields are being devoured at an unbelievable rate! We will be bare within minutes!"
+
+"Can we not increase the output?!" Elder Zhen yelled back. "If we break formation, we will destabilize the entire fleet and be cut off from the Flagship's assistance!"
+
+The formation commander looked down at his console with a grave expression. His hands swiftly moved across the jade surface, while the entire control room fell into a tense silence—their fate pivoting on the formation commander's calculations. After a few breaths, the commander looked up and shook his head. "The wildfire started by the trees that is devouring our shields contains the essence of incredibly potent ice dao. Boosting the output of our shields will only feed the wildfire more. Our only option is to alter the affinity of our shields, which is an—"
+
+"—impossibility," Elder Zhen finished. The formations on his airship, the Blazing Sunrise, weren't equipped to handle any affinity besides fire. This weakness was why it was listed for decommissioning and parts stripping. An airship that couldn't adapt to its opponent wasn't worth keeping around. Yet, the Chairman had granted them one last mission, a final hurrah, as some would say.
+
+Elder Zhen had been thrilled to learn that he was authorized for one last mission aboard his beloved airship and with his crew. He never would have expected a fleet of this size, backed by the Radiant Dawn, to meet such trouble.
+
+"Do it," he said, his command cutting through the room like ice. "Break formation. We must rise, away from these flames that feed on us. I will buy us time. Formation commander, you are in charge."
+
+Turning, he left the command room as the Blazing Sunrise tilted and began to rise. Making his way to the airship's bow, he peered over the edge. All he saw below was a blanket of flame, like the surface of a star.
+
+Flares erupted, latching onto his ship and taking a chunk of its shields with them.
+
+Igniting his soul, potent fire Qi roared through his spirit roots. Drawing a symbol in the air, he clapped his hands, and the sigil glowed. "Go, my child of flame!" Elder Zhen said, and a snake of fire erupted out of the sigil. It dove down and danced through the air, biting at the flares that threatened to devour their ship.
+
+Yet, within moments, the wildfire below rose up and consumed his flaming serpent.
+
+"What a greedy and all-consuming fire you have conjured," Elder Zhen muttered, his eyes glinting with interest despite the death of his construct. "I'm a fan."
+
+There was a reason he had come to the airship's bow. As a Nascent Soul Realm fire cultivator, he had lived, breathed, and worshiped fire his entire life. He was a pyromaniac at heart and a true appreciator of the inferno that sought to torch the world to ash.
+
+"To mix fire with ice dao," he continued as he crouched on the airship's bow and more closely observed the wildfire below. "What a genius idea, yet terribly hard to replicate. There aren't many fire cultivators, myself included, who would be willing to travel to the frozen lands and immerse themselves in ice for decades or even centuries to reach that level of comprehension."
+
+His eyes glinted with madness. "I hope we can meet one day, All-Seeing Eye, so I can dissect that brain of yours and learn your secrets—"
+
+Moros.
+
+Elder Zhen's mouth snapped closed, and he jolted up, his eyes scanning his surroundings. A terrible feeling of impending doom had settled over him like an indescribable, ghastly breeze.
+
+"Moros?" he muttered the word that had briefly whispered into his mind but had left just as quickly.
+
+He suddenly felt his communication jade in his pocket demanding his attention. Taking it out, he accepted the call.
+
+It was Grand Elder Ren of the Radiant Dawn.
+
+"Get out of there, Elder Zhen," Ren said sternly. "Something is coming toward your ship. Our spiritual sensors are giving strange readings, which doesn't bode well at all. Elder Zhen, are you listening to me? Abandon ship!"
+
+"I," he gulped, "think it's too late."
+
+"Why?" Grand Elder Ren asked.
+
+"Moros is already here," Elder Zhen said, as the name kept replaying in his head and was getting louder. So loud, in fact, that it was drowning out his sense of reason. He also felt the All-Seeing Eye's attention focus on him. It was here; the end was finally here. There was no escape. Only doom awaited him.
+
+"Moros? What is that? A ship? There's nothing there."
+
+Elder Zhen didn't need to see Moros to know it was there, lurking and waiting. Like witnessing a meteor streaking through the sky, he knew the shockwave and destruction were inevitable.
+
+The question was when? Elder Zhen didn't have to wait long to find out.
+
+Reality yawned open, and from the great beyond, a ship shrouded in celestial fog appeared alongside the Blazing Sunrise. One moment, there was nothing, and the next, an entire airship had materialized. It looked alien in design. There were no command towers, cannons lining the flanks, or cultivators escorting it on swords. Hell, it didn't even make a sound as it appeared. Instead, its surface was covered in ethereal-leaved trees, like something out of a dream, and giant flowers lined its flank that all swiveled to face him. Their petals curled inward, imitating a cannon barrel.
+
+"Moros," Elder Zhen whispered in awe, dropping the communication jade to the ground.
+
+"We can't assist you with fire from the flagship; the Blazing Sunrise is in the way!"
+
+Balls of what appeared to be shadow Qi were cradled by the flowers, and before Elder Zhen could say a word to Grand Elder Ren, Moros fired upon the Blazing Sunrise. The shadow Qi balls punched through his shields like they were nothing, and one impacted the ground next to him, consuming the deck and carving a hole into the space below. That's not shadow Qi at all, Elder Zhen realized as he looked at the damage. Is this the fabled void Qi, only seen from that family in the wilderness?
+
+He needed to do something to save the ship. Even if they had to lower back into formation and be devoured by the flames, up here, the Flagship couldn't provide any support!
+
+"Are you the commander of this vessel?" a voice as cold as the void cut through his thoughts. He turned to the voice, only to find a headless void creature with six arms that towered over him.
+
+He hadn't even felt its arrival. The thing was a ghost to his spiritual senses.
+
+"What are you?" he found himself asking. A cultivator was always curious, some more than others.
+
+"General Khaos," the void creature surprisingly replied. "A reaper in service to the All-Seeing Eye." It flexed its many claws menacingly. "I've been instructed to wipe out everyone on this airship."
+
+"Any chance I could be spared?" Elder Zhen asked hesitantly. "I wish to discuss with the All-Seeing Eye regarding his impressive Dao comprehension and—"
+
+"No," the creature said, cutting him off. "You should have thought about that before firebombing the wilderness and trespassing on the All-Seeing Eye's domain. Now only death awaits you and this fleet."
+
+"Elder Zhen! Don't listen to it," Grand Elder Ren's voice called out from the communication jade. "I'm heading over now—restrain that creature if you can, and I'll deal with it!"
+
+The Grand Elder was coming here personally? His eyes narrowed as his confidence was restored. He glanced at the communication jade and then back at the six-armed void creature. A likely impossible request, but all he had to do was buy a minute at most. I can do this, he thought as his soul roared to life and he coated himself in Nascent Soul Realm fire. Grand Elder Ren is coming, I can survive thi—
+
+Pain as abrupt as Moros's appearance consumed him.
+
+Before he could even raise his hand, his vision went tumbling. For a confused moment, he looked up at his own headless body, silently standing there before folding to the ground. He hadn't even seen the void creature move, yet it had assassinated him with such ease. It crushed the communication jade, and then it vanished into the void.
+
+Time seemed to slow down, and the edges of his vision gradually darkened as Elder Zhen's mind died, but he survived just long enough to hear the screams of his crew, followed by deathly silence. Moros faded into the great beyond, as if its existence had been nothing but a dream.
+
+Grand Elder Ren arrived a moment too late.
+
+The Blazing Sunrise was nothing but a ghost ship, sailing forward on the orders of a dead crew.
+
+***
+
+Ashlock pulled Moros and Khaos away from the Blazing Sunrise as quickly as possible.
+
+"I never expected Grand Elder Ren to leave his own Flagship like that. Shit," Ashlock cursed. "I panicked—that should have been a good opportunity to draw more information out of him."
+
+Though he still didn't quite grasp Grand Elder Ren's affinity or cultivation level, he didn't want to risk losing Moros and Khaos, which had been the driving force behind his retreat. Khaos was strong as a peak Nascent Soul Realm void monster, but that didn't mean she could one-shot a Monarch. Faelorian had shown Ashlock how unkillable a Monarch could truly be, and that had been in a scenario where Ashlock was able to fight with his full might via the Hellroot Abyss and had driven Faelorian mad with his Gaze of the Tree God.
+
+While Grand Elder Ren was somewhat pressured, he wasn't at his limit like Faelorian had been. He still had a clear mind and wouldn't fall for simple tricks.
+
+"However, just because I retreated doesn't mean I'm done," Ashlock mused as he manually piloted Moros via Progeny Dominion through the aether and maneuvered it to the opposite side of the fleet. Right now, he needed to exploit the Celestial Empire's confusion and lack of knowledge.
+
+Not that he could blame them. When Ashlock had designed Moros, he had known it would be unstoppable on the battlefield. Aether and void were two frightfully rare affinities, and together they formed a synergy few could even attempt to replicate. Even if the Celestial Empire somehow gathered enough cultivators of each affinity to recreate his ship, it would only function for a short time—both affinities were monstrously Qi-intensive.
+
+That limitation did not apply to Ashlock. He possessed reserves so vast they rarely bottomed out, and even if they did, he could draw upon his forest—or the World Tree itself—to replenish the deficit with ease. That wasn't even touching on the fact that Moros didn't need any formations, as it was managed and powered by two Bastion Cores, which were system-granted.
+
+"I had wanted Moros to be my flagship, one that heralded my arrival and instilled fear with its presence like Grand Elder Ren's Radiant Dawn had done to me. But because Erebus and Akasha are both in the Nascent Soul Realm currently, I knew Moros wouldn't stand a chance fighting a Monarch head-on," Ashlock chuckled. "I should have realized that the true strength of Moros is its unmatched mobility over its fighting power."
+
+The void Qi artillery also allowed Moros to punch through any ship's shields, just long enough for Khaos to Void Step onboard, kill everyone inside, and get out.
+
+"Next target has been decided, get ready," Ashlock said to Khaos as he singled out another fire Qi-shielded ship on the outskirts of the Celestial Empire fleet's formation. Grand Elder Ren was still aboard the Blazing Sunrise, barking orders into a communication jade while trying to trace Moros's Qi signature. "This one might get a bit more ugly as they will respond faster, and this ship is still inside the Flagship's formation, unlike the Blazing Sunrise. Get in and out within a minute, understood?"
+
+Khaos nodded and readied her claws.
+
+"Okay—Go!"
+
+Moros appeared beside the fire Qi shielded dreadnought with its void artillery already primed to fire. A concentrated attack was launched, and a barrage of void Qi balls crashed into the ship's shields. They glowed brightly in response, and Ashlock could feel the immense flow of power coming from the Flagship.
+
+"They aren't going to let this one fall as easily," Ashlock cursed. The sky seemed to tremble as Grand Elder Ren shot into the sky and rocketed toward the airship Ashlock was attacking. Multiple Elders who were in the Nascent Soul Realm also disembarked from other airships and flew over.
+
+Ashlock had only a dozen seconds before the Grand Elder was within domain expansion range, and who knew what that would entail. While having excellent mobility, both spirit trees on Moros were in the early stages of the Nascent Soul Realm. Without Ashlock using Progeny Dominion on Erebus, they would never have the firepower to crack this dreadnought's shields. Expecting Moros to survive the wrath of Monarch was a tall order.
+
+"We need to move faster," Ashlock said as he pumped more Qi in.
+
+After one more round of void bombs, the shield faltered long enough for Khaos to Void Step aboard. The idea was simple—kill every cultivator onboard, and the airship becomes a useless lump of metal that drains resources from the flagship.
+
+"Wait, they aren't blowing the Blazing Sunrise up," Ashlock realized. "Is it because it has nobody turning into trees and has been deemed a ghost ship?"
+
+All focus was on Moros right now.
+
+"Thanatos, you still have the soul of Elder Hao, right?"
+
+"I do, my lord."
+
+"Get onto the Blazing Sunrise, find a corpse to turn into a demonic tree, and insert Elder Hao's soul. Do it as stealthily as possible, I don't want the Flagship to notice."
+
+"Understood," Thanatos replied, and Ashlock opened a desolation rift for him on the Blazing Sunrise's deck. Its shield had faltered, with no cultivators aboard to power it, making it easy to board.
+
+Thanatos moved swiftly and made his way inside.
+
+Ashlock didn't have time to check on him, as he had to return to Moros. Grand Elder Ren was fast approaching, so it was time to leave. Unleashing another barrage, he punched a hole in the shield so Khaos could easily escape.
+
+"Did you get everyone?"
+
+"No, I failed, my lord," Khaos said, kneeling on the bow of Moros.
+
+"There were a hundred on board, and I gave you less than half a minute. Expecting you to slaughter everyone is asking for too much," Ashlock reassured her.
+
+Khaos stood back up. "There's another matter, my lord."
+
+"Yeah, what is it?" Ashlock asked as he pulled Moros back into the aether plane before Grand Elder Ren was in range. Not a second too late, as a sudden explosion erupted from the dreadnought, sending a wave of fire and shrapnel in all directions and making the shields of the nearby airships flicker and glow in protest.
+
+"What the hell was that?!" Ashlock asked as a mushroom cloud of hellfire erupted into the sky, crashing down to the earth and setting the world alight.
+
+"The Elder of the ship was in the Nascent Soul Realm. Their defensive artifacts saved them from me, and then they started going supernova. I cut their head off, but it didn't stop the process."
+
+Ashlock watched through his Gaze of the Tree God in awe at the physical manifestation of a Nascent Soul Realm cultivator going supernova. So much power stored in such a tiny vessel, let loose in a single explosion. He wasn't the only one watching. Grand Elder Ren, alongside many Nascent Soul Realm cultivators, stood in the air in silence. Their expressions looked mortified.
+
+"My lord, the tree has been planted," Thanatos's voice rang out through the shadow plane.
+
+"Excellent," Ashlock said, directing Moros toward his next target. "Let's plant a tree on a few more of these dreadnoughts first. One will be mighty, but when I turn them into Bastions, they will attract a heavenly tribulation. I wonder how much heavenly lightning the Flagship can bear before it's blasted from the sky."
+
+Sometimes, it was best to make use of the heavens' fury to smite down one's foe.

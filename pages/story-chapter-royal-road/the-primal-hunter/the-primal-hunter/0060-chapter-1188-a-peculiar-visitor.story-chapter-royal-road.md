@@ -1,0 +1,193 @@
+---
+id: f34fe330-66b6-568f-8daa-c3ebe14eb0ae
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1188 - A Peculiar Visitor"
+slug: 0060-chapter-1188-a-peculiar-visitor
+partOf: the-primal-hunter
+position: 60
+ownLength: 2848
+unit: words
+ownProgress: 2848
+publishedAt: 2025-10-27
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2709174/chapter-1188-a-peculiar-visitor"
+royalRoadId: "2709174"
+markedReadAt: "2026-06-29T19:31:09.910Z"
+---
+
+“You finally succeeded?” Artemis asked as Jake was already sitting down, his legs crossed and his body full of wounds.
+
+The duel with the other long-range archer had dragged on for a good while longer, but with Jake’s sudden upgrade, the balance had been tipped, allowing him to eventually win out. There was also the fact that Jake simply had more resources available, and if the fight had dragged out any longer, he would have definitely won with or without the upgrade.
+
+“Yeah, I got my upgrade,” Jake said with a smile. “Ancient rarity now.”
+
+“Not much changed from what I saw,” Artemis commented. “Did you go for a linear upgrade to strengthen the foundation of your archery?”
+
+“Bingo,” Jake nodded.
+
+“Smart if you’re confident,” Artemis said. “Seeing as you’ve gotten the upgrade, does that mean you’re done with the training?”
+
+“No, not yet,” Jake shook his head. “I want to take some more time to fully adapt to whatever minor changes this upgrade did bring, while also starting to lay the groundwork for another upgrade. However, sadly, I don’t think this kind of training will work very well for what I want to do next.”
+
+Artemis frowned, but quickly realized what he was getting at. “You want to upgrade your archery with your poisons in mind?”
+
+“Yes and no,” Jake said. “I’m considering-“
+
+“I’ll stop you right there,” Artemis held up a hand. “While I’m definitely curious, best you don’t tell me, but just do what you want to do. As usual, I don’t wanna give you any direct advice when it comes to what direction you should take your archery, and I don’t even want to risk my subconscious reaction to hearing your idea having an impact.”
+
+“Fair enough,” Jake shrugged, fine with not saying either way.
+
+“You just focus on recovering while I get the next sparring partner ready,” Artemis said. “I do want to warn you that we are kind of running out of opponents that are worth fighting. It’s not that easy finding archers who aren’t going to be dominated by you.”
+
+“I believe in you,” Jake grinned, giving her a thumbs-up.
+
+“Worst case scenario, I can just have Gladiel step in again to whoop your ass,” Artemis smiled devilishly.
+
+“Hey, you don’t know, maybe I stand a chance now!” Jake protested.
+
+Artemis just looked at Jake with raised eyebrows for a few seconds.
+
+“Alright, yeah, I’m gonna get my ass beat for sure, but I’ll last longer!” Jake relented, having to be realistic. Shit, he wasn’t even entirely certain Gladiel had gone all-out last time they fought, and even if she hadn’t, Jake knew he wasn’t going to win in the short term, meaning his defeat would be inevitable as her advantage would only build.
+
+“Now I’m convinced I want to see a rematch, but not right away,” Artemis chuckled. “Signal me when you’re ready to continue.”
+
+“Got it,” Jake nodded, and a second later, Artemis was gone, leaving Jake to recover in peace. Once he was back to top form – which, again, didn’t take super long as he didn’t use any boosting skills – he signaled for Artemis to bring in his next opponent.
+
+He was another very classical archer using a mix of wind and lightning to amplify his Path, and due to the guy’s speedy nature, it was a good fight. Jake won in the end, and after another brief period of recovery, he continued the practice.
+
+Jake’s archery training went on like this as he faced archer after archer, allowing him to fully solidify that he was happy with his latest archery upgrade while also bringing him towards working on the next one.
+
+With his newly gained upgrade, Jake’s win rate increased by a fair amount. The increase in Strength and Agility from his archery skill alone played the largest role, but the added damage and better control over his arrow’s flight certainly didn’t hurt either.
+
+Even as he began laying the groundwork for his next upgrade, Jake was fully aware he shouldn’t expect to see a rarity upgrade even if he succeeded. Weapon skills were notoriously difficult to upgrade, and Jake wasn’t even sure someone like the Sword Saint had a mythical rarity weapon skill despite being an absolute monster with a sword in hand.
+
+The fact that Gladiel had a mythical rarity archery skill truly made her worthy of having a Divine Blessing alone. Speaking of Gladiel, Jake did end up having a rematch, which ended just as he’d expected. In a duel like this, she was stupidly overpowered, so if Jake failed to win in the first few minutes, his fate would be sealed, as she just kept gaining momentum until his inevitable defeat.
+
+She ended up being the only one for Jake to rematch, even if he’d lost to a lot more archers than her, though she had definitely been the one to dominate him the most during their duels. Even if Artemis still had a few more extremely talented geniuses waiting in the wings, none reached her level, even if they did beat Jake.
+
+In the end, he ended up having another twenty-four archery duels before Artemis had to regretfully announce to Jake she was out of suitable opponents. Sure, there were more archers in the Pantheon of Life who could have been Jake’s opponent, but they were busy doing their own things, and neither Artemis nor Jake wanted to pull them from some dungeon or Hunting Ground to come play with Jake for a single duel.
+
+Jake didn’t get another upgrade with these last duels, but he did leave the barren moon with a solid idea and even some great testing done of the direction he wanted to take the next upgrade.
+
+Back in the living room of the Palace, Jake threw himself down on the couch as he let out a loud sigh. “I should do that again sometime, even if it was definitely tiring on the mental front.”
+
+“The Pantheon of Life is never lacking when it comes to talented archers,” Artemis smiled. “I’m glad you seem to have benefited from this experience. It definitely seems like you had a productive few days.”
+
+“Oh, for sure,” Jake nodded wholeheartedly. While in the midst of it, Jake had not really considered the passage of time much, but it felt like a long time. He had been in a constant cycle of dueling and recovering, never allowing his mind to fully rest as he kept focusing on his archery skill even when not fighting.
+
+Coupled with the fact that he constantly had to analyze and adapt to new opponents, while, again, focusing on upgrading his archery skill, it wasn’t surprising that Jake was mentally wrung out. If he had just been fighting or hunting for the same amount of time, he wouldn’t have been this tired, as he would have allowed his mind time to rest in between hunts, but he’d purposefully tried to keep himself in a state of constant hyperawareness for the entire duration.
+
+That’s why, with how mentally exhausted he was, he couldn’t help but be surprised when he learned this entire archery training arc had only lasted a bit over ten days. That meant Jake had fought half a dozen opponents on several days, with most duels lasting several hours, followed by a brief period of recovery before it was straight into the next fight.
+
+“How do you plan on working on the next archery upgrade?” Artemis asked. “Need my help with anything?”
+
+“Likely just transport,” Jake said as he stared at the ceiling. “I plan on going to that snowy place again to do some hunting and practice. That way, I can also get in a few more class levels before I head back to the Order of the Malefic Viper, where I know I’ll primarily work on my alchemy for a while.”
+
+“Sounds like a plan,” Artemis nodded as she also sat down. The two were quiet for around a minute before Jake slightly turned his head to the side, where his eyes met those of a powerful B-grade that had snuck up on him.
+
+“Tired?” Jasper asked as he sat on the backrest of the couch.
+
+“Yep, real tired,” Jake chuckled. “How about you? Had some fun while I was gone?”
+
+Jasper clapped his paws as a weird metal rod appeared in his them. “Found treasure.”
+
+Jake stared at the rod, his Identify telling him it was some powerful ancient rarity metal that he didn’t have any use for, even if Jasper offered.
+
+“Seems like we’ve both been productive,” Jake chuckled, not even bothering to ask where Jasper had gotten the rod. The little guy had full access to the teleportation network of the Pantheon of Life and could go anywhere he wanted. Combined with his ability to jump between planes, he could go even more places.
+
+“Productive!” Jasper yelled happily as he clapped his paws again, summoning more than a hundred of the same metal rods floating in the air. It was only now that Jake noticed some of them had etchings from some script on them, and when he looked a little closer, all these rods had definitely been carved to the exact same size.
+
+“Did you rob some poor mage by stealing from a formation?” Jake asked with a deadpan expression.
+
+“Found,” Jasper said shamelessly.
+
+“Where did you find them?”
+
+“Ground.”
+
+“Did they happen to stick out of the ground while inside some kind of magic circle in the ground?” Jake asked the little thief.
+
+Jasper nodded enthusiastically. “Just there!”
+
+“Right,” Jake sighed, silently apologizing to the poor person who had his entire formation circle ruined by a newly evolved B-grade with sticky paws.
+
+“Want?” Jasper asked, tilting his head as he extended the rod he was holding between his paws toward Jake.
+
+“No, no, you keep them,” Jake waved off the little guy, who looked very relieved Jake hadn’t said yes.
+
+“Okay!” Jasper said, putting away all his loot again.
+
+Speaking of Jasper’s loot, Jake had learned that, contrary to most monsters who could store away items, Jasper didn’t have any internal storage or even a skill to store anything spatially. Instead, he had an actual physical place he had an innate connection to, allowing him to store all his things there.
+
+This place was on another plane or something, meaning that locating it without knowing exactly where it was wouldn’t be easy. The only way to get there would be to follow Jasper whenever he went there personally to manage the unique formation he was setting up in his own little plane.
+
+Of course, to someone like Artemis, following Jasper into his unique plane would be easy as pie, but she had voiced serious doubt that any B-grade would be able to, even if they were talented in traversing the planes. Jasper’s unique magic that allowed him to move around without space magic only made things more complicated, as the vast majority of people capable of traveling between planes did it using space magic, making their insights useless when it came to deciphering what Jasper was doing.
+
+Jasper looked around the room a bit before he decided to jump down onto the couch next to Jake. It seemed he had also decided to take a little break as he joined Artemis and Jake in their relaxing silence.
+
+Sadly, peace rarely lasts, and Jake soon found himself jolted back into it by a semi-unexpected source.
+
+From beyond the void, his Patron reached out, making Jake curious. “Hey Villy, what’s up?”
+
+“Oh, hi there, nice to catch you available, I know you’ve been busy for the last few days and I’ve held back on reaching out,” the Malefic Viper said, having been a bro as usual by not disturbing Jake during his archery training.
+
+“Thanks for that, had a good training session,” Jake responded gratefully.
+
+“Awesome to hear. Anyway, I’m reaching out to give you a friendly warning,” Villy said, casual as always.
+
+“Warning about what?” Jake asked, unsure if he should be worried or not.
+
+“Well, I decided to put some feelers out for gods who may be curious in seeing if Jasper is someone they would want to bless, and I got a bite from the person I believe would be the best fit. I’ve held him back for a while, but seeing as the Shimmershroud Planeswarper and you are both there, I let him know,” the Viper explained.
+
+“Alright, not sure that warrants a warning. Well, I guess it depends. Which god are we talking about?” Jake wondered. However, right then, Jake felt an aura fall over the palace.
+
+Artemis looked up with worry, Jake instantly knowing why. The entire Pantheon of Life was covered in several grand formations meant to defend it from outsiders; however, this presence that clearly didn’t belong to a god from the Pantheon of Life had appeared out of nowhere.
+
+A second later, without even the faintest detectable ripple in space, a figure appeared in the middle of the living room. This person’s aura was entirely suppressed, and without his Bloodline, Jake knew he wouldn’t even be able to notice this newcomer’s presence. Even now, as he stared directly at the god, Jake’s eyes saw nothing, but perhaps most frighteningly was that the same seemed true for Artemis. The god had purposefully let his presence be known, yet visually, he didn’t seem to exist.
+
+Not until he started talking, anyway.
+
+“Perception-based Bloodline, and quite a powerful one at that,” the god muttered as he glanced at Jake’s, his full form finally revealed. At this point, Jake had also stood up from the couch in preparation for what could happen next.
+
+He was a relatively scrawny-looking elf of some kind, wearing a long, dirty coat with baggy pants held up by a utility belt filled with different odd-looking tools. His hair was long, nearly reaching his shoulders, but the most noticeable part was definitely his eyes. More specifically, one of his eyes.
+
+On the left side, he had a normal eye, while on the right, he had one that looked to be made of stone; without being told, Jake instantly knew it was some kind of artifact of incredible power.
+
+Overall, this god didn’t look very impressive, but more like some guy who had just stumbled out of some jungle adventure movie. Jake was about to question who he was when Artemis promptly gave him the answer as she bowed slightly.
+
+“I greet the Seeker,” she said respectfully, her tone also containing a hint of confusion.
+
+The newcomer god, seemingly only noticing the goddess now, turned toward her. “Ah, Artemis, wasn’t it? Made it to Godqueen, I see. Congratulations.”
+
+“Thank you,” Artemis said with a nod. “May I know why the Seeker has arrived in the Pantheon of Life?”
+
+The Seeker answered by pointing to the little cat-like B-grade still sitting on the couch, staring at everything happening. “Because of him.”
+
+“Jasper?” the Shimmershroud Planeswarper asked, tilting his head in confusion.
+
+“Yes, you,” the Seeker nodded casually. “Vilastromoz said you might be compatible with my Path and suggested I check you out to see if you’re a good fit for receiving a Blessing. Before I bother continuing, are you interested?”
+
+Jasper glanced at Jake and Artemis before looking back at the god. “Blessing good?”
+
+“It’s generally agreed upon that the granting of Blessings is indeed an advantageous arrangement for both Patron and the blessed, assuming their Paths are compatible. Seeing as you come recommended by Vilastromoz, I shall go by the base assumption that some level of compatibility exists between us.”
+
+The Shimmershroud Planeswarper looked toward Jake for advice, and he quickly gave the little guy a nod. Seeing as Villy had been the one doing the suggesting, this should be a good thing.
+
+“Okay!” Jasper also nodded to the god.
+
+“Good,” the Seeker said. “While I do trust the judgment of the Malefic Viper, I would like to perform a small test myself before we reach an agreement. Would that be okay with you?”
+
+Jasper tilted his head and thought it over for a second before nodding. “Jasper, okay!”
+
+“Very well,” the Seeker said as he waved his hand, a cube appearing in it. “Escape from inside this as fast as you can. Ready?”
+
+The newly evolved B-grade looked a bit unsure if he should agree as the god sweetened the deal.
+
+“Part of escaping requires obtaining objects of power, all of which you are allowed to keep upon successfully getting out.”
+
+“Ready!” Jasper agreed without needing further convincing.
+
+“Be swift, then,” the Seeker said as a beam shot out of the cube and enveloped Jasper, absorbing him into the cube.
+
+The Seeker nodded as he took a step forward and placed the cube on the coffee table before nonchalantly sitting down on a lounge chair as he took out a pipe and started smoking, Jake and Artemis looking at him all the while.
+
+Completely unbothered, the god took a few puffs before acknowledging them. “Yes, can I help you two with anything?”

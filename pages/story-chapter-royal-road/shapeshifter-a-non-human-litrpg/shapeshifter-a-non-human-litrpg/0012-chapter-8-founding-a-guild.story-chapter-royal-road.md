@@ -1,0 +1,173 @@
+---
+id: 80dc8744-9c5e-5d14-9928-d89ada75d929
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8: Founding a Guild"
+slug: 0012-chapter-8-founding-a-guild
+partOf: shapeshifter-a-non-human-litrpg
+position: 12
+ownLength: 2269
+unit: words
+publishedAt: 2026-04-14
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3272344/chapter-8-founding-a-guild"
+royalRoadId: "3272344"
+---
+
+The Guild Association's lobby was the kind of place that made you feel small on purpose.
+
+Xen sat rigid on an oversized bench carved from cold white stone, his short elven legs not quite reaching the floor. Around him, Hunters moved with the confidence of people who belonged here. They proudly displayed their badges on their chests as they went about their business.
+
+He reached into the fold of his cloak and wrapped a finger around the cool metal of his new Hunter badge. The weight of it felt strange. He wasn't sure why he kept touching it. Was it to calm him? To make him feel deserving of being here? Well, it didn't work. Being here, so deep in enemy lines, was unnerving, and the fact that Valoria had been taken away for questioning only made it worse.
+
+Xen pocketed the badge again and tried to distract his busy mind. He had counted the guards three times now. Fourteen Hunters of the B-grade stood watch over the room. He assumed there were more he couldn't see.
+
+Don't do anything stupid, he reminded himself. You are Yuki Tanaka. A level eight Radiant Healer that nobody knows.
+
+The ward's mana continued its slow crawl across his skin like a curious hand that never quite found what it was looking for. Every few minutes, it smothered him, and every time it did, Xen held his breath. Then it passed, and he felt relief until it focused on him again. His Geomantic Perception was basically useless in here, the building's wards turning his senses to fog the moment he pushed more than a few meters out. He felt genuinely blind in a way that no amount of darkness in the dungeon had ever managed.
+
+Xen sighed. Waiting here alone was considerably more unpleasant than fighting floor bosses. He went back to counting the guards to see if anything had changed when he noticed a door on the other end of the lobby swing open.
+
+That in itself wasn't interesting, as they had been doing that constantly over the last hour as Hunters and Guild Association staff went in and out of the rooms like a swarm of ants. It was the person who walked through that gave him a wave of relief.
+
+Randy caught his eye from across the room and made his way over. He was slightly out of breath, a paper-stuffed folder tucked under one arm and two cups of something hot balanced in his other hand as he dropped onto the bench beside him with a long exhale.
+
+"I got this for Vesper, but I can't find him anywhere," Randy lamented.
+
+"What is it?" Xen asked.
+
+"Coffee," he said, pressing one of the cups into Xen's hands without asking. "Shitty free coffee, but coffee nonetheless. You might like it."
+
+Xen stared at the cup. The smell wafting from the hot liquid was deeply unpleasant. "I don't think I'll like this. The only fluid I like drinking is bloo—"
+
+"Just hold it and look normal." Randy cut him off, took a sip from his own cup, and glanced around the lobby. "Where's Valoria?"
+
+Xen tensed. "I was told by the woman running the test that Valoria had been taken in for questioning. Something about the fifth floor murders."
+
+Randy's cup stopped halfway to his mouth. He didn't move for a moment. Then he slowly lowered it to his knee and stared straight ahead.
+
+"How long ago?" he asked, his voice tense.
+
+"Over an hour ago," Xen guessed. There was a massive circular clock above the welcoming desk manned by dozens of attendants, but he had only just begun to figure out how to read it by shifting through his soup of memories. Some actions and words came naturally, while he had to learn others on his own.
+
+"She'll be fine," Randy concluded, in the tone of someone arguing with himself. "She didn't do anything. Legally, none of us did. Ghostwire—"
+
+"I know," Xen said. "It's best we don't discuss it."
+
+"Right." Randy tensed and took another sip of coffee. He set the cup down on the bench between them, picked up the folder, and made a show of straightening the papers inside it. "Well. Since we're sitting here anyway," he said, pulling a single sheet from the top and holding it out. "Guild's registered. Want to take a look?"
+
+Xen took the paper. It was dense with official print he only half understood, but near the top, in clean block letters, was a name.
+
+RADIANT ACCORD: Registered Independent Hunter Guild. Founding members: Randy Okafor, Vesper Crane, Valoria Tanaka, and Yuki Tanaka.
+
+"Radiant Accord?" Xen questioned.
+
+"I needed something that sounded legitimate," Randy said, leaning back with his arms crossed. "Given that our most visible member, that being you, is a healer, it fits. Clean, professional, hard to find fault with." He glanced sideways. "You hate it, don't you? I've never been good with names, and I realized we hadn't discussed what to call it when it came time to fill in the paperwork."
+
+"I don't hate it," Xen said honestly. He was still looking at his own name on the document: Yuki Tanaka. Founding member. Despite being a generic name thought up hours ago, it seemed so familiar to him now. "It's a good name."
+
+Randy studied him for a moment, then seemed to give up. "I can't tell if you're serious or not with that mask on."
+
+"I don't know how to use facial expressions anyway," Xen reminded him.
+
+Randy took back the document and returned it to the folder. "The Guild's amazing name aside, considering they accepted you on the registry, I assume the test went well?"
+
+Xen proudly pulled out his metal badge and showed it to Randy.
+
+"They listed you as an F-grade? That's laughable," Randy snorted, then leaned over and whispered in his ear, "I bet you'd wipe the floor with almost anyone here."
+
+Xen set the coffee down as the smell was nauseating. "I somehow doubt that," he said, leaning back on his arms and feeling a little more relaxed now that Randy was here.
+
+Randy shrugged, and a silence fell between them. While Randy looked at his phone, Xen kept himself occupied by glancing around. Just in case they needed to make an escape, he wanted to know the escape routes and which guards were the weakest.
+
+A group of Hunters passed nearby, and they were all C-grades by Xen's estimate. One of their members, a burly man, loudly complained to his party members about how tired he was while still carrying equipment caked in dungeon grime. One of them in the group, likely a mage by the hat and clothes, glanced at Xen, noticed the healer's cloak, and gave a small, respectful nod before moving on.
+
+Xen didn't return it but enjoyed the show of respect all the same.
+
+Yuki Tanaka of the Radiant Accord, yeah, that has a nice ring to it.
+
+It sounded far less threatening than the Faceless One or Ghostwire. He was just your average F-grade Elf. While pondering his future exploits, he stared down the long corridor that apparently led to the interrogation rooms.
+
+"Stop staring down that hallway," Randy murmured without looking at him. "You look like you're planning something."
+
+"I'm not planning anything," Xen said.
+
+"Good. Keep not planning it." Randy straightened up slightly as a pair of Guild Association staff crossed nearby. Once they had passed, he lowered his voice again. "She knows the story. She's smart. The worst they can do is ask questions she can't answer, and not being able to answer questions isn't a crime."
+
+"I already agreed with you," Xen replied.
+
+Randy sighed. "I'm just... reassuring myself, is all. Valoria is a dear friend, and I'd hate anything to happen to her—" His phone buzzed, drawing his focus. "Ah, finally he replies," Randy grumbled.
+
+"Vesper?"
+
+"Yeah, he went to get a late lunch and said he got distracted. Typical." Randy pocketed the phone and leaned forward, his hands nervously clamped before him. "He should be here in ten."
+
+Vesper arrived in eight minutes, not ten, which he made a point of announcing with a grin that didn't fit the mood. He dropped into the space between them both with the easy sprawl of someone who hadn't spent the last hour rigid with anxiety, a half-eaten sandwich still in hand.
+
+"How'd the test go, Yuki?" he asked Xen with a full mouth.
+
+"He passed," Randy said flatly. "Guild is also registered."
+
+"Nice," Vesper said, not bothering to ask for details. His focus was more on the cold, untouched cup of coffee sitting on the bench. He picked it up and drank it without comment.
+
+"We are waiting for Valoria," Randy informed Vesper and returned to his nervous posture.
+
+"She will be fine," Vesper reassured him, better than Xen had.
+
+"I hope so," Randy frowned.
+
+The three of them waited.
+
+Xen had resumed his nervous counting of the guards for the fifth time when Geomantic Perception caught the faintest hint of movement from the far corridor. He sat up slightly, pushing the skill harder against the building's wards until he could just barely feel it. Two sets of footsteps were rounding the corner—one brisk, the other slower.
+
+"I think she's coming," Xen said quietly.
+
+Vesper glanced down the corridor curiously, while Randy eagerly got to his feet.
+
+Valoria appeared at the end of the corridor, escorted by a stone-faced Guild Association officer who gave the three of them a brief, disinterested look before peeling away without a word. Valoria stood there for a moment, scanning the lobby until she caught sight of them.
+
+Xen was no professional on humans, but she looked fine. She also looked like she was working very hard at looking fine. It was hard to tell sometimes.
+
+Randy crossed the lobby in a few long strides and reached her first. He said something low that Xen couldn't catch, and Valoria shook her head with a tight smile that didn't reach her eyes. Whatever she said back made Randy exhale in relief through his nose and nod.
+
+By the time all four of them were moving toward the exit, nobody was talking. It wasn't until they had passed back through the gates, away from the fortress's suffocating wards and into the grey afternoon light of the street, that anyone spoke.
+
+"Well?" Vesper asked.
+
+Valoria pulled her jacket tighter. "They showed me photographs. I told them I didn't recognise anyone," she paused. "Which technically wasn't a lie since I'd only met them briefly before—" she stopped herself, glancing at a couple passing on the pavement nearby.
+
+She lowered her voice. "Before things went the way they did."
+
+"Did they believe you?" Randy asked.
+
+"I think so." She shrugged. "They were less interested in me than in Ghostwire. They had a lot of questions about him—what he looked like, how he moved, whether I thought he acted strangely and might be the killer." She let out a slow breath. "I just kept saying he seemed professional but distant, and that while he saved us, we didn't really speak much."
+
+"Smart," Vesper said.
+
+"The investigator told me that Ghostwire is now the primary suspect, and they didn't seem interested in either of you or Yuki. Just me, because I didn't have as solid an alibi."
+
+Randy grinned. "Then we're done here." He glanced at the looming Guild Association fortress over his shoulder as if checking nobody was following them. "We need somewhere private to talk. Properly talk. Now that the guild is established, we can enter the dungeon again."
+
+"Not Gerald's apartment," Xen insisted. The morning had been traumatic enough, and he planned to ditch Gerald's identity entirely. He would retrieve the cat sometime soon when he had a new place to stay.
+
+"Agreed, that place is compromised." Randy massaged his rumbling stomach as they walked with a frown. "I know Vesper has already eaten, but there's a noodle place two streets over. It's loud and always busy. We can speak there for a while and figure out what we are going to do moving forward."
+
+"Actually, about that," Vesper said, opening his coat and pulling out three white masks that looked the same as Xen's. "I saw these at a Hunter shop nearby. They aren't cursed, so don't worry. But they have an enchantment that lets you see through them."
+
+Randy raised a brow as he accepted the gift. "You bought these with your own money? Why?"
+
+"I've always thought assassins wearing masks were cool, but I felt too weird being the only one wearing one," Vesper explained while putting on his mask. "But now that Yuki will always be wearing a mask, I thought we should make the mask our official uniform. That way, Yuki could pretend to be any one of us or another guild member without issue."
+
+Randy's eyes widened. "That's genius."
+
+"Right?" Vesper said proudly.
+
+"But we can't all wear masks to the noodle shop. We will give the poor owner a heart attack."
+
+Vesper deflated and took off his mask, but the grin never left his face.
+
+"It's a good idea, Vesper," Xen agreed. The mask currently made him stand out, but if everyone from the Radiant Accord Guild wore one? It would make each member harder to identify, further shrouding his actions.
+
+Vesper glanced at Xen with a stern expression. "It is, but you're banned from impersonating me. Pretend to be Randy or something if needed."
+
+"Got it," Xen nodded, making Randy huff in annoyance.
+
+This was going to be fun, Xen could already tell.

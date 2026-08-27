@@ -1,0 +1,279 @@
+---
+id: 0b42cb40-44ff-5cf1-80ca-faef8e29ad6f
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 503"
+slug: 0203-the-path-of-ascension-chapter-503
+partOf: the-path-of-ascension
+position: 203
+ownLength: 6129
+unit: words
+publishedAt: 2026-06-29
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3608910/the-path-of-ascension-chapter-503"
+royalRoadId: "3608910"
+---
+
+Chapter 503
+
+Matt was surprised with just how much force - ninety two percent of his non-crystalized buffs - he needed to crush the sword in his hand, but he’d suspected it would be fairly tough from the very start. What he hadn’t anticipated was it transferring the damage he dealt to the man holding it. With its host’s death, it dissolved into threads of brown and silver light that imploded into themselves like a sea of roiling eels.
+
+Except rather than grow smaller, the impromptu light show grew dimmer with each inward rotation.
+
+He cycled through his Domain, particularly his Meld and stage two Power, in an attempt to stop it, but none of it halted the swirling and cycling of the lights as they burrowed into the deeper layers of reality. In fact, neither had even been able to interact with the light show in any way. That was interesting enough that he didn’t want to dig truly deep into his toolkit to try and halt the process, instead he focused on studying the phenomenon. Even if he could stop it, which he didn’t think was possible at this point, he was more likely to get something useful out of it by watching.
+
+He quickly realized the sword was far more impressive and interesting than its previous wielder had showcased.
+
+Not interesting enough to take the sword up on its offer. He had no interest in allowing anything, even some ancient sword, to so blatantly try to leech from him. Despite that, it was still worth letting his [Actual Insight] study and analyze the energies at play. He did recognize some familiar phenomenon from aperology, which was both unexpected and exciting. He’d have to check in the next few years if he’d developed any new instincts around rift creation based on his observations.
+
+While his subconscious did its thing - centuries of experience had taught Matt he was better off not actively poking at the internals while it was doing said things - he considered the ‘fight’ he’d just had, and how it seemed quite likely that he’d been played. Chances were Aurelius had been played as well, but then again Matt hadn’t been expecting the true mastermind to be a sentient weapon that couldn’t easily be destroyed or captured.
+
+It really could have worked on its sales pitch though. ‘Power beyond imagining’ worked a lot better if the current user of that power hadn’t just been absolutely crushed, and the accumulated ‘wisdom of aeons’ clearly didn’t mean much considering, once again, the mental state it had left its past meat-puppet with.
+
+The sword’s ability to draw power from death - both of its targets and its wielder - was interesting, but still didn’t inspire much confidence. It would have been ideal to study it a while and keep it contained in some capacity, but as Matt watched the final glimmers of light fade away, he sighed.
+
+The ripples reminded him of what happened when trying to make a rift inside of a rift and he suspected he knew what that meant. He wasn’t sure if never seeing the sword again would be lucky, or if he’d be fortunate to run into it once more. Either way, he queued up a message to Wun to get him to keep an eye out for weird rift drops in the coming decades.
+
+Dropping the half-merged mix of [Cracked Phantom Armor] and [Archmage’s Presence] that he was still tinkering with, Matt grabbed the rest of Aurelius’ body and shoved it into a storage ring. Once that was taken care of, he didn’t bother lingering in the Tier 35 rift any longer.
+
+A [Portal] placed him next to the exit and the ruined reward distortion courtesy of Aurelius’ intrusion, but he didn’t bother to do more than glance at the four mana stones.
+
+If Aurelius hadn’t already been dead, he might have thrown a few insults at him for wasting the first delve rewards, but his mind was far more interested in the sword.
+
+When Matt exited the rift, all of the guards flinched but didn’t move. It had only been a single month of time inside, which for a Tier 35 rift translated to roughly 91 hours, or just under four days. That was far shorter than his expected first delve, and the guards were smart enough to know that.
+
+Instead of explaining what had happened, Matt flicked the data packet he’d compiled during his initial exploration to the guards so they could pass it on. It wasn’t as detailed as he would have preferred, as he hadn’t gotten around to micro-scanning the full rift, but he’d identified and categorized everything larger than a fist. That should be sufficient for the follow-up teams to build upon.
+
+Most of his attention was turned towards the reports his subconscious was spinning up for him, knowledge of Aurelius’ history crossed with various crime records to compile a full list of his kills. The most recent ones were the easiest, with them being public kills during duels, but they also weren’t the kills he was looking for. While some of those opponents might have been unwilling to go into battle against an absorber, they’d all signed up knowing death was a very real possibility in such fights.
+
+Matt wasn't looking for Aurelius’ volunteers, he was looking for his victims.
+
+Most were easy to identify. In fact, in most of the murders he looked into, Aurelius had already been a suspect. Even a prime one in some cases. However, for all his faults, the older man had always been careful to avoid leaving enough proof to get him arrested.
+
+After a few minutes of careful review while he made his way to his next destination, Matt identified eleven people who he was confident Aurelius had killed outside of combat for no other reason than to absorb their power.
+
+Five were from the previous dynasty, which put them firmly beyond his reach. Tracking a person's genealogy through a few dozen generations was hard enough, but after over sixty thousand years and the sheer bureaucratic chaos and destruction the dynasty change had created, it would take actual amounts of mana from him to see who had the legal right to restitution.
+
+He set those aside for the time being. He could revisit in the future, when he had some faster connections to the deep archives on the Capitol. But for the time being, he mostly just focused on providing the additional information gleaned over the course of their fight. Most of the stuff his [AI] had noted was non-admissable under black box laws, but Aurelius' assortment of ‘Trophies’ and accompanying information was enough evidence on its own.
+
+None of the cases were less than a thousand years old, so there wasn’t the most time pressure involved, but Matt still felt impatient as he submitted requests for the reexamination of evidence. There was only a single justice higher than Tier 40 associated with any of the cases, so it would take even longer for him to get a response, but at the moment he was more annoyed with the connection speeds he had to deal with.
+
+Matt distanced himself from his [AI] a bit to lessen the emotional bleed-over, and looked at the bigger picture. Those who were found to officially be slain by Aurelius would be entitled to a share of his rather sizable estate, to be distributed to their remaining families. The man had been a popular gladiator and had the wealth to prove it.
+
+However, one of the cases stood out to him. The only technically still active case.
+
+A Vanessa Roadings, who had confessed to the murder of one of Aurelius’ victims for whatever reason. If he pushed for it, he could probably see her freed remotely, but he didn’t when he went over the particulars of her case and saw from her initial confusion how quickly she’d accepted the crime. He had suspicions about what had happened there, but he wanted to check them out in person before ruining her life trying to give half assed help. It wouldn’t be the first time someone accepted a lesser punishment to escape another situation, nor would it be the last.
+
+As an Ascender, he did have considerable legal sway even beyond what his status as a duke warranted. He could use said power to expedite pretty much any legal proceeding and even, in some cases, override rulings with authority on-par with that of the Emperor.
+
+The problem there was that doing anything like that sent out warnings and messages to pretty much all nearby dukes to ‘minimize damage’ and to whatever Royal was nearby to ‘prepare for containment,’ plus a high-priority alert sent to Manny himself about whatever he’d done.
+
+The overrides were baked into the Empire’s various systems and well hidden.
+
+So much so that Matt hadn’t actually believed Allie when she’d told them about demoting Ciceron from head librarian to street sweeper. It hadn’t been until Leon confirmed everything while filling him in about things she no doubt hadn’t cared to remember, such as the revocation of such privileges should it be used for undeserving reasons. In reality, she hadn’t been supposed to tell him or any of the other active Ascenders about the overrides at all, but she’d been too eager to share her new toy and popped around to all of them as she cackled with newfound power.
+
+He hadn’t used the overrides yet and doubted anyone would bother to come and stop him given what he was intending to do if he did, but that was more a consequence of history. Most Ascenders who used such powers were usually following up threats they’d just leveled, by doing exactly what Allie had been doing at that moment.
+
+Something she didn’t have the authority to do by… holding down the button.
+
+There was very little doubt in his mind that when the overrides had been created, no one had expected Allie. Doubtless, it had been made at a time when a wrathful Ascender would have resulted in the destruction of a planet, and was intended to keep their displeasure focused on a singular organization, or individual.
+
+Matt doubted the designers had expected an Ascender to temporarily demote the head librarian to street sweeper when said Ascender had been caught trying to sneak into restricted areas. Or for there to be multiple teams of Ascenders to be active at the same time to learn of the secret early instead of organically finding out as she did.
+
+Then again, they were Ascenders. Given that context, Matt felt that was really just a failure of that person’s imagination.
+
+Lila had at least quashed any notion of frivolous usage by promising to eat Allie if the teleporter ruined it for the rest of them. Given that he’d taken care of what amounted to an assassin in a rift, he doubted anyone would be rushing to restrain him if he did wind up pushing the literal button in question but he didn’t want to deal with the followup if he didn’t have to.
+
+His legal business momentarily taken care of, he stopped by the bakery he remembered Aunt Helen mentioning enjoying and grabbed a large portion of their remaining stock. Most of it went into a time stopping ring he kept on hand for snacks, but two full bags were kept out for Aunt Helen.
+
+Matt froze on his way out, strudel mid-descent from his mouth as he identified one of Allie’s ‘secret bakery’s’ true location. He and everyone else who tried to ask her for the best snack locations knew that she hadn't actually been getting her desserts from Kent Krust’s. Sure, she went there and bought their products but ever since he caught her first secret location after his Insight came online, she’d started using Kent’s as a cover and he hadn’t been able to find the rest.
+
+Walking on air - he was far too heavy for the ground - he sent a picture of him walking away from the bakery to Allie, the last corner of the pastry clenched between his teeth.
+
+Her reaction only added to his good mood as he made his way to the teleportation pad. He could have traveled through chaotic space but that would have required him to store the bread in a storage ring and he knew Aunt Helen preferred fresh items.
+
+Whether there was a discernible difference didn’t really matter but it did require him to take the slower path.
+
+He’d already warned workers about his early departure and the workers had preloaded the pad. Using his full hands as an excuse to skip most of the ass kissing, he refilled everyone's mana pool with his Concept even as he refilled the reserves his early teleport would drain. He spent a few extra seconds to top them off but regretted it as it cost him almost two additional minutes of fawning before they let him go.
+
+Every word made him regret not instantly filling the storage system but that would have ruined every conduit they had. Normally, he wouldn’t have minded the chatting but he hadn’t seen Aunt Helen in almost five hundred years due to scheduling issues and they were slowing him down.
+
+Storage topped off, he squeezed himself into the small spot they’d left for him and swapped worlds. Before anyone else could accost him, Matt increased his perception and stepped into the sky. He then immediately stepped back to the ground in front of the very person he’d been hoping to see.
+
+Dropping his perception down to Tier 26, he grinned even as he used [Telekensis] to hold the two bags as he opened his arms. “Long time no see.”
+
+Instead of getting the hug he was excited, he got a light swat on the chest. “Don’t try to pretend that you didn’t run away and then run back. I noticed the difference, young man! Don’t try to lie to me!”
+
+Matt laughed instead of trying to defend himself. “I was eager to not get bogged down again.”
+
+That finally earned him an eye roll and the hug he’d been waiting for. “Mr. Popular, I’m sure.”
+
+Taking a sniff, her eyes narrowed into slits as she pressed her nose into his shirt. “Were you in a fight recently?”
+
+Matt didn’t answer until he’d released Aunt Helen and they started to walk to her place. Her bodyguards fell back but he didn’t mind them as he described the attack obliquely.
+
+After the first time he’d interacted with Aunt Helen post-integration, he’d done a bit more digging on her bodyguards and had come to an understanding with those who ran the more practical aspects. While they rarely lacked for funding, given how many people Aunt Helen had helped had reached Tier 45 and ascended, they rarely had as much liquid capital as they could really use.
+
+He’d been more than able to help, given his own financial situation in the last few thousand years.
+
+Aunt Helen picked up on the drop in his mood immediately and stopped them mid-street to ask. “What’s wrong? I felt that.”
+
+Matt rolled his eyes, sighing dramatically. “You remember how Kees retired to Ascend right?”
+
+Aunt Helen nodded easily. They’d talked about that before, but he hadn’t shared that much over their normal message exchanges. He hadn’t even meant to bring it up at all, but he didn’t mind elaborating now that he had.
+
+“His replacement, Elliot, is good at his job. In fact he might be too good. He’s taken Titan’s Torch from falsely profitable and laundering my mana to stay afloat, to wildly profitable. Logically that should be a good thing but I can’t honestly say I’m happy about it. On the surface it’s a positive but I can’t help but dislike his methods. I am also self aware enough to know that a lot of my issues with him come from the personality mismatch between us and how his moves opened us up to the Cabal’s latest strike.” After a moment he added, “And because he was always supposed to be a temporary replacement.”
+
+Having gotten past the sensitive topic he returned to verbal as he opened her door for them. “Camreon is still having jitters and wants to prepare more. Again. To make a long story short, I’m growing frustrated. I’m even irritated at Kees for putting me in this situation in the first place. If the asshole was going to delay his ascension to throw his hat in the rift to be the one to awaken the heir apparent, he might as well have kept working for me while puttering around! He keeps sending me messages of all the places he’s vacationing and it's not fair!”
+
+Matt let his smile give the lie to his final words. He didn’t actually blame Kees for delaying with the few other Tier 45’s all hoping to set their remaining families up with the Emperor’s generous offer for the one who helped awaken the new generation of nobles. His former second in command had done more than his fair share of the work for Titan’s Torch and deserved all the time off he wanted before he once again began to advance in the higher Realms.
+
+Aunt Helen sniped right back with her own grin. “Leave us retirees alone. We seek a slower pace. Not like you children who race ahead so quickly.” She cupped his face for a moment before pinching his skin and failing to stretch it. “It feels like last week you were Tier 4 and sitting in Travis and Keith's house for your first ascension. It might do you some good to slow down yourselves, but I won’t waste my breath trying to convince you of that.”
+
+As if reminded of something she sped up, pulling him along in her excitement. When they reached the private kitchen, he saw that one of the bar stools was very different from the others.
+
+With a less skilled craftsman, the heavy gray Tier 43 steel with glowing blue mana channels would have looked out of place, but they’d managed to make it look elegant rather than industrial.
+
+Matt was touched and let it show. “You didn’t have to.”
+
+That earned him another light swat. “I said last time you came over that I would ensure you have somewhere to sit anywhere I’m permanently based out of and I meant it! Speaking of, I haven’t seen you or Liz in a while, would you like a new fire?”
+
+Letting her redirect the conversation from her incredibly kind gesture, he carefully sat on the chair and let it take his full weight even as he held out a hand with a wide grin plastered on his face.
+
+“I would love one. Both Liz and I were sad to see the last one fade. She managed to keep it going another decade, but eventually it was just an ichor-based flame and we removed the fireplace instead of having it sit there empty. It will be nice to put it back in.”
+
+Aunt Helen's smile was impossible to repress as she cupped a hand to her mouth and breathed out a tiny wisp of fire too small to properly call an ember. It swirled between her fingers before, with her next breath, she made it grow into a miniature inferno. Except, rather than burn with heat or danger of a normal flame, it burned with the warmth that only Aunt Helen could bring.
+
+While Talents were hard to predict, Matt and everyone else felt that her Tier 25 Talent had been compensating for a lifetime of work fixing her Concept.
+
+As the flame touched his hand and was absorbed he felt an unmatched warmth enter him, as if he was being embraced by Aunt Helen’s concentrated love and compassion. The flames tried to heal him, but when they found that he didn’t need it they seemed content to simply exist and warm him well beyond the physical.
+
+When he got home, he’d expel the flames into the fireplace they had specifically made to work with her Talent. From there, it would spread its effect to the entire house and everyone inside it while also stretching the flame’s life span as far as possible.
+
+Matt beamed as he let his sincerity shine through. He’d have loved to say a million things but between them he only needed two.
+
+“Thank you!”
+
+Aunt Helen was preening as she sat down next to him. “Good, now tell me about the fight you were in. For real this time! Don’t try and fluff me off again young man.”
+
+Using [Create Illusion], he created a showing of Aurelius and his sword, explaining what little he knew, ending it with a hopeful request for information.
+
+“Have you ever heard of a sword like that before?”
+
+Aunt Helent swatted him for the third time but this time she actually looked mildly offended and he worried for a moment. “I’m old but I’m not a history book! Ask Ciceron if you want to know stuff like that! I’ll pretend you didn’t ask while we snack on that loaf of pumpernickel.”
+
+Matt rolled his eyes even as he split one of the loaves and handed her half of the dark bread. Instead of immediately digging in, she grabbed butter, honey, and olive oil for them to dip as they made their way through the loaf while chatting about nothing in particular.
+
+When their bread was almost gone, she circled them back around. “Okay, I’ve thought about it and I think I might have heard of the sword or something like it. I could be wrong but it's the only thing I can think of that might be related. You of course know of the Inheritors’ Vault?”
+
+Matt nodded. Even without his firsthand experiences with Seasaidh and her morningstar Stjolna, everyone knew about the Clans’ armory full of Artifacts, capable of almost singlehandedly turning whoever they bonded with into an elite. He only tangentially knew about the Vault itself though, as even Allie hadn’t been able to figure out how to get in, or even where it was, despite more than a few attempts.
+
+Waving a crust around, she continued. “There’s all kinds of stories about items that have gone missing from the Vault, and even more about the items Simeria took inspiration from, or even outright copied, as she was getting started that I know haven’t made it to the modern day. I never heard of any of them with the kinds of powers or abilities you described, but who knows? Did you consider that it was telling the truth? Maybe it is some long-escaped Artifact that somehow survived its first wielder’s death. But like I said, go ask Ciceron if you want to learn more. He enjoys learning about this kind of thing and probably knows off the top of his head.”
+
+Matt had also come to the same suspicion, but he was happy to have her confirm his idea.
+
+Rather than linger on the negative, he rubbed his hands together as they finished the loaf and asked. “Okay, what are we cooking?”
+
+Except he didn’t get the response he expected. “Not yet, Mister! You tried to run away from me earlier and I haven’t paid you back for that. We can cook after I take you to task in the sparring room!”
+
+Matt nearly did a double take at the unexpected words. He’d been trying to get Aunt Helen to spar or let him assist her training in any way for the last two thousand years. But contrary to his expectations, she’d turned him and everyone else down every time it was brought up.
+
+Popping to his feet, he held out his hands to help her up before she could change her mind. “Then what are we waiting for?! Let’s go!”
+
+***
+
+It awoke to find itself nestled amongst others of its kind. Weapons of all shapes and sizes with no two identical. The only unifying feature among the blades, and the one it didn’t share, was their disrepair. The weapons were dusty, rusty, and sad.
+
+This was still its new resting place, and instead of listening to the new nattering voice of Aura, or whatever the name of its last wielder had been as they joined into the chorus of their many predecessors, it shuttered its awareness until someone new came along. That it had been rejected cut deeply, an insult that stung each and every time someone closed their mind to the power it could offer.
+
+It had still gotten what it wanted. A dead wielder meant a return to the beginning. A new form, a new name, a new chance at ascension. With just one more wielder, no matter how uncooperative, stubborn, and boring, added to its collection, it was one step closer to Ascension. Another death, another former wielder ready to serve and help empower the next. With all of that potential, there was a still distinct lack of autonomy that not even a sentient Tier 1 blade could overcome.
+
+Its only currently available course of action was to… wait.
+
+It could only hope it wouldn’t be too long this time. As much as it always told its wielders that fate was what brought them together, it knew how little truth there was to those statements. A sword was nothing without a hand to wield it.
+
+The eternal curse of being one half of a whole.
+
+That resulted in luck being a larger determining factor. It had been a few… hundred? Maybe a few thousand wielders since it had truly been forced to wait what it considered a long time, but if such was to occur there was nothing it could do but sit around and wait.
+
+Despite that, it was still hopeful that the weapons around it, as disrepaired as they were, was a sign that its resting place was at least in a settled part of the Realm. If nothing else that meant the odds of being left unpaired for millions of years again weren’t too high.
+
+It waited alertly for an entire day, using the limited awareness it had cultivated in its long existence to probe for signs of life, but when it found nothing, it allowed itself to drift off to sleep. It was not sleep in the way a biological being would understand it, but that was the word which most quickly stopped its wielders from badgering it. And truthfully, it was hardly as though a better word did exist.
+
+It awoke as a curious finger ran down its flawless blade.
+
+A young, freshly awakened girl who had yet to taste anything more than the first motes of essence. Its excitement at encountering a potential wielder so soon didn’t stop it from using the touch to weave the first threads of connection.
+
+While she admired its previous form, it interwove with her spirit and learned about this new potential host.
+
+At one point in its life it was sure the fierce undercurrent of rage barely contained in the young girl might have startled or excited it, but now it was merely noted along with everything else. It calmly took everything in and formulated the best avenue of approach from what it saw.
+
+“You do not need to fear them. Truly, it is they who should fear you. Or would you prefer something else? Power over them? Control? Their respect?”
+
+The girl jerked back, startled away, but the connection had been established and unless she put a universal shift between them, it would be able to communicate regardless of how far she ran. It would be able to draw her back in due time, if that were to happen. But that would require time, during which time it could not bond to another. Not unless it found a way to shed the girl. And it abhorred time spent wasting away, so it would much rather that this… Zhu Li, take it now.
+
+Straightening her back and facing the door, she demanded, “Luo Mei? Is that you? Was your latest triumph not enough? Must you chase me down to gloat further?”
+
+It had no idea who the other mentioned girl was but it didn’t care. Instead, it made its offer, stoking a faint thread of indignation and curiosity to ensure its words took.
+
+“No, Zhu Li. I am not your tormentor. I am your salvation. I am everything you have ever wished for, the rightful judgement descending upon those who have done you wrong. Take the sword before you, and I shall show you the way.”
+
+Zhu Li, already emotionally distraught, didn't fully believe it, but it could also tell that she wanted to believe. That made everything else easier. They could skip the dancing and back and forth and it wanted to.
+
+“Who's there? Show yourself!? Luo Mei? Guo Yue? Gao Yang? Who is it!”
+
+It wanted to sigh at the predictably of youth, but it was still better than Aura’s… everything.
+
+The girl reached out, nearly grasping its handle, but then she hesitated. Before she could have second thoughts, it redirected the conversation back to its intended purpose. “You never answered my question.”
+
+Zhu Li shook her head forcefully, bringing herself to remember the question before she continued the gesture in a more controlled manner. “I want them to hurt, the way they hurt me. But I could never use that sword. It is far too barbaric, too wide, not fast or nimble enough. I require a rapi—”
+
+It didn’t bother to wait for the girl to finish speaking as it started shaping its body, pulling on her innate desires as a guide and framework. It wasn’t like she was asking for something new or unique. At one point in its long life only its wielders had been able to change its form, and only with great difficulty, but that had been many long waits ago. It knew for sure it had been at least ten, but it was only semi-confident of it being under fifteen. Had it reached twenty? Beyond that level of specificity it couldn’t remember and didn’t care to.
+
+Zhu Li reached out instinctively as it continued. “You only need the merest taste of my power and know that they shall hurt. Your struggles have been seen, and they have been judged worthy. All the power, all the knowledge of the Realm, shall be yours, Zhu Li. Revenge shall be yours. The humiliation and shame you have felt shall soon be forgotten by you and imposed on those who inflicted it upon you. Take the sword, claim its power, and never be weak again.”
+
+It felt the girl's reaction more than it saw it. Wanting to reel in the bait, it reached out through their growing bond and sensed for the opportunities surrounding the girl. Targets. Trophies.
+
+Most were blatantly outside her capabilities, including the one with the greatest existing emotional connection, who it assumed was the aforementioned Luo Mei. Whatever that girl’s fate, it wasn’t going to be ended by Zhu Li.
+
+At least not at Tier 1, that it knew for sure.
+
+However, the second strongest target, Gao Yang, a young man of a similar age, felt like a difficult but possible opponent, one which its mentorship could turn into a proper victory. A taste of blood, to finalize their connection and serve as a most delightful first meal, one just barely within Zhu Li’s ability to overcome. A trial and target in one.
+
+It could have spent more time and identified easier targets with acceptable compatibility and better future synergies, but through countless wielders it had learned several very important lessons.
+
+One of which was that while it could turn trash into treasure with enough guidance and help, it couldn’t do it all. If that were possible, it would have Ascended on its own. No, it required a good wielder, not someone turned into a competent one through its effort. Its time and energy were better used to polish a nearly perfect product.
+
+One of the easiest metrics it had discovered to determine someone's potential was to send them against a nearly impossible target. There were only three real outcomes, they attempted it and succeeded, in which they proved their worth and earned more investment. They did the same but failed in the attempt, which let it move on as fast as possible, usually to the far more promising individual responsible for that death. The third possibility was someone deviated from its first target, but its solution then was to fall asleep and see if they could grow to Tier 15 on their own.
+
+At that point it would reevaluate and if it ever decided to deliberately move on, it could do what it did to its previous wielder… Aura? It was a shame its last wielder had decided to deviate from their path after getting back onto it after a rocky start, but ultimately it chose its wielder, not the other way around.
+
+“You have been told that you can never be strong, simply because of your Talent. It isn’t what you dreamed of.” Zhu Li’s eyes widened, not comprehending how it could know that but it didn’t slow down. It didn’t want to get bogged down in such irrelevant details. “But I assure you, overcoming, or even fixing such things are trivial for me. Death shall be your currency, paid when due and yielding such grand profit. I can teach you secrets which nobody on your world has ever even dreamed of, take the might of those who oppose you and give it to you. I can do the impossible! Guide you to long-lost treasures, train you to use mighty techniques, all to help you fulfill your revenge, and let you stand tall in the blood of your enemies. Is that not what you want, Zhu Li?”
+
+It was relieved to see only eager anticipation in her eyes at the mention of killing people. Wielders who had such qualms never lasted long and it was glad to start on a positive note.
+
+Zhu Li didn’t need to hear any more and eagerly agreed without asking any of the hard to answer questions. It repeated long memorized words as it described what it felt she needed to know before ‘growing tired’ and ‘falling asleep’ to avoid the endless follow-up questions. It had spoken more today than it had in the last thousand years and with so little death to feed it recently, it truly did need something of a break.
+
+It was the curse of the immortal.
+
+It had spent far too much time doing all of this. None of it was new or interesting after so many repetitions. Time in the mortal realms, time in the lower immortal realms, it had even spent enough time in the upper immortal realms that even those heights had grown dull and lackluster without the possibility of Ascension. It had spent too much time in this Realm.
+
+It had been around for so long that it was no longer sure if it truly remembered being in a lower Realm and ascending into this one, or if it had always been in this Realm even when it was at some point a lower Tier. It still told all of its new wielders that the former was true but even it could no longer remember.
+
+It wasn’t like the distinction actually mattered, it simply wanted out.
+
+Anything would be better than this monotony.
+
+It did not, however, expect the girl to die within a few hours. Perhaps it should have used a bit more of its power to stay aware and guide her more actively?
+
+Well.
+
+At least the boy who killed her picked it up, and he proved far more promising than the Zhu Li girl. He had even killed Zhu Li with it, meaning it had more starting power to work with, and it used it to provide the boy with a bit of extra essence and some words of advice from a past wielder.
+
+He was promising, and took to the sword forms admirably. However, he proved too headstrong and died in a rift less than five years later, and once again it found itself reforming - this time, stuck up to its hilt in stone at the top of a mountain.
+
+It had barely whispered anything to the person who had pulled it from the stone before one of their party members stole it and shoved them off a cliff. Not a typical exchange of wielders, to be sure, but it never minded ambition.
+
+The more the better.
+
+Eventually it would find a proper wielder.
+
+Eventually.

@@ -1,0 +1,149 @@
+---
+id: 95c79f2f-6fb7-554d-b0d8-885805631bd6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 595: Backup"
+slug: 0015-chapter-595-backup
+partOf: system-change-system-universe
+position: 15
+ownLength: 2207
+unit: words
+ownProgress: 2207
+publishedAt: 2025-10-21
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2694902/chapter-595-backup"
+royalRoadId: "2694902"
+markedReadAt: "2026-06-29T19:57:13.512Z"
+---
+
+Chapter 595: Backup
+
+The blades disappeared from Derek’s sight, and as they did, so too did the heat on the back of his neck and the sword that was being driven in. He also saw a telltale bright light flash, indicating that someone had been saved by the system. That someone was obviously Kelvin.
+
+“That looks dangerous!” Jace said as he looked around Derek and at the beam landing on his arms. The man reached out and touched it, then pulled his hand back like a kid who had just touched a hot skillet. “Feels dangerous, too. Why are you just… standing there?”
+
+“Trischa… was able to take space and void away,” Derek replied.
+
+“And?”
+
+“And I didn’t want to beat them all before you got here,” Derek said. “What kind of friend do you think I am?”
+
+“A very good one, if that is the case,” Jace replied.
+
+“J-Jace?!” Amelia asked with wide eyes. Her confusion was so great that Derek even felt the force acting on his body lessen for a moment. “You’re here too…” Her head then shot to the left, and she looked off in the distance.
+
+“Hey, Amelia!” Jace waved at the red woman, getting her attention back. “I see you met my best friend finally, and you didn’t even run away this time.”
+
+“B-best… f… friend?” the woman muttered. “You…” Her eyes moved back and forth between Derek, who was still being pummeled by the beam, and Jace, who was grinning from ear to ear. “And… him? Best friends? Not just… acquaintances or casual friends?”
+
+“That’s right!” Jace said as he slapped Derek on the back, causing him to move slightly forward and allowing some of the beam to slip through and hit his face.
+
+“Ouch!” Derek yelled. “Don’t do that… actually… now that backup is here, I’m through taking this.” He looked up at Darvin, who, even with Jace’s interruption, was still focusing all his might on controlling and hitting Derek with the combination energy blast.
+
+“You either stop now,” he said. “Or… I fight back, and I’m not sure exactly what will happen to you if I do. If I recall correctly, you are not a Champion, so the system will not save you.”
+
+“Silence!” Darvin gritted his teeth, and his blue color began to pale. The small floating man pushed, and the beam’s power increased even more. Whatever he was doing, it looked like he was trading some of his own power to increase its strength.
+
+That… actually really hurts, Derek thought as he winced. “I gave you your chance,” he said to Darvin. “If this is the end of you… then no hard feelings. You can blame your own stubbornness.” Derek was truly tired of being hit by the attack—especially now that it really was eating through everything. If the man had started with it like that… well… it would have most likely worked out the same because of Void’s Embrace’s armor skill.
+
+Still, he’d had enough, and it wasn’t like he was really using the mana that was being held by his armor, which was glowing wildly with purple runes and etchings. So, Derek took a breath, pushed against Amelia’s force to stand tall, then opened his arms.
+
+Seeing Derek make a move, Jace backhanded Briya away from him, then jumped back himself. The next moment, Derek activated the second part of the Expel armor skill. I’m glad he’s floating, Derek thought as pure mana exploded from the chest of his armor.
+
+Since he let it all out at once, the pure mana that exploded out from him engulfed the combined powers of many of the Champions. It didn’t completely destroy it, but, in the battle between the two powers, the single mass of energy that exploded from Void’s Embrace dominated. It took all of a second to reach where the small blue System Watcher was floating, then… there was nothing.
+
+There wasn’t a scream, there were no clothing or spatial rings falling from the sky. There was nothing. Absolutely nothing was left of the small figure. All that could be seen was a massive burst of pure energy continuing its way into the sky, and soon, into space.
+
+“D-Darvin…” Amelia muttered as all the force disappeared from Derek’s body.
+
+“I gave him plenty of chances,” Derek said as he slashed Harbinger down at the weird bugs that were holding his legs in place. With a disgusted look on his face, he stepped out of their lifeless maws, then shrugged. “He didn’t even try to dodge.”
+
+“He couldn’t!” Amelia spat at Derek. “Not while using that skill.”
+
+“Still not my fault,” Derek said. “Either of you could have used your words. I didn’t know the guy very well, but from what I could tell in the short time I got to know him, and from what I heard from your little chats with Jace… I’m not going to lose any sleep over him.”
+
+“That guy was as much a pompous asshole as I am,” Jace said.
+
+Derek looked at Jace and rolled his eyes.
+
+“Well… it was really close,” Jace said. “But the difference was that he did things the coward’s way. I have the power to back it up… against most people.” The man turned his head a bit so as not to look Derek in the eyes. “As far as I know, he did nothing but use people. He was a pencil pusher who thought he was a leader.”
+
+“Shut up!” Amelia shouted.
+
+Jace cracked his neck, then drew the blades that he’d put away after taking care of Kelvin, from his back. “Make me!” he shouted back with a grin.
+
+Derek took a small step to the side as a massive red blur shot past him. It was clear that Jace had made his move at the same time as Amelia. If not for Derek’s own stats, he would have been pushed back when the two collided.
+
+“Ugh!” A deep roar of agony sounded out from the other side, and Derek quickly looked that way. Standing and looking utterly defeated was the four… no… zero-armed scaled man known as Cuthos. In front of the man floated one of his arms that was wearing his storage bracelet, and in front of the arm was just a very small ball of what looked like wind.
+
+“Holy…” Derek muttered as the small tornado slowed, showing four cleavers and his companion inside. “Just how much have you practiced doing that?” he asked but didn’t expect an answer.
+
+“Taxi’ing is boring,” Silvi’s childlike voice sounded. “Mount… uh… Thomas is much better at it.” Derek stared at his companion, speechless, but didn’t say anything else. “Kill?” Silvi asked with a tilted head. Her four cleavers stopped spinning, and all pointed at Cuthos.
+
+“I am of no use here,” the formerly four-armed man said. “Allow me my arms, and I will leave.”
+
+“Hmph,” Silvi snorted, but then nodded at the ground. The man bent down and held himself close to one of the arms. It soon attached enough for him to use it, then he picked the other two off the ground, all the while glancing at Derek, Silvi, and the battle starting behind them. With two arms in hand and the other working on healing, he looked longingly at the fourth, which was floating in front of him. A moment later, the storage bracelet slipped off the wrist, and the rest of the arm was thrown into the man’s chest.
+
+“Die!” a feminine voice sounded, and the cat-like woman appeared next to Silvi with a small blade in her only hand. Derek thought of moving to intercept, then thought better of it.
+
+Expecting the woman to fall into a million pieces after being finely diced by all four cleavers, Derek was surprised when she was covered in sand all the way up to her head. “Assassins aren’t very strong when they cannot move,” Marrick said as he floated towards the ground with a hand stretched out at Briya.
+
+The cat woman struggled for a few seconds, then snarled, “I give up!” she half-shouted through gritted teeth, then disappeared.
+
+“Thank you for my arms back,” the now two-armed man said with a slight bow to Silvi. “The storage bracelet is my loss for such poor performance. You have my respect. I will take my leave.” The man looked at Derek and clenched his two fists. Then he looked at the rampaging battle, sighed, and said, “Please… do not harm Trischa. She is needed.” He looked over his shoulder, then sighed again. “I give up.”
+
+“Why you do that!?” Silvi shouted at Marrick.
+
+“Stop her? From attacking you?”
+
+“Yes!” Silvi shouted again. “Why you do that?”
+
+“Because she was attacking you, and I was here,” Marrick said.
+
+“I was going to get her bracelet.” Silvi turned her nose up at Marrick. “Now she kept it. Probably had best ingredients. Now gone…”
+
+“Nah,” Derek said. “Did you see her? Skin and bone. I bet she only lived on rations and potions. She probably didn’t have a single ingredient in her storage device… just poison, weapons, and potions.”
+
+“Mhm…” Silvi thought about it for a minute, then nodded. “She was skinny,” Silvi said, knowing full well that it was the cat-like assassin’s stat layout that actually caused such a thing.
+
+I bet her race’s bloodline probably has something to do with it too, actually, Derek thought. Then, he thought about Ogre, who could probably put all his stat points into dexterity yet still be huge because of his Giant lineage. He then shrugged the thoughts away and looked at Marrick.
+
+“There’s not much left,” Derek said.
+
+“I can see… what do we do about the young woman over there?” Marrick asked as he nodded toward Trischa, who was still struggling with her hands up. Though now, she was seated motionlessly on the ground in front of Silvi because she’d been behind the four-armed man before he left.
+
+Derek walked over and placed his hand on the blue woman’s head. “I think…” he muttered. “She’s out cold… but the system hasn’t taken her away.”
+
+“Most likely because the reason for that was not done by an enemy. She pushed herself to such a state. If I…” Marrick said, then directed some sand her way. The sand wrapped around the woman’s face, and then, a few moments later, she was taken by the system.
+
+“No!” Silvi shouted. “Old Goblin! The ingredients!”
+
+“It’s fine,” Marrick replied as a bracelet floated on a cloud of sand and to Silvi.
+
+“Good job!” Silvi praised.
+
+As soon as the blue woman disappeared, Derek felt his body and energies rush to become normal again. He took a deep breath of relief as the emptiness inside him left by the void was once again filled. With that weight off his chest, he looked around. “Wait… where did the bugs go?”
+
+“Bugs?” Marrick asked. “What bugs?”
+
+“The Ul’oc guy…” Derek said with a sigh. “He’s like a beetle, and he controls a bunch of different bugs. I think it’s a summon ability, but they all came from the ground, so I don’t know.” He shrugged. “It looks like he escaped.”
+
+“Or… he thought he did?” Marrick asked.
+
+“Well… yes,” Derek replied, then he finally turned to the battle between Jace and Amelia. He was very interested in seeing how it would play out. Amelia was the other system’s him… or at least Braxton, and Derek was unsure how a buffed Jace would compare. So, he watched… as Jace got utterly thrashed… all with a huge grin on his face.
+
+First, Amelia was absolutely the worst opponent for Derek’s friend. She was hovering around ten feet off the ground, all the while one hand slowed Jace’s movements. The other hand… pulled Jace into the air… then pulled Jace’s face into her fist… over and over again.
+
+She was a hammer, and Jace was a nail… a very, very durable nail.
+
+“See,” Marrick said. “When someone isn’t standing still like an idiot letting that man’s Battlelust build up, he’s not as troublesome.”
+
+“Does she look like she’s having an easy time?” Derek asked as he nodded at Amelia. The look on her face was more one of frustration than anything else. “His regeneration at this point is insane. And the one-sided beating that he’s taking? His Battlelust has to be building up with a fury.”
+
+“But it isn’t high enough yet. It seems that he needed to clear one more teleportation array, at least, to be on her level,” Marrick replied. “And she isn’t frustrated because of his regeneration… well, not just due to that. She’s frustrated because she’s already figured out the way to beat him.”
+
+“Which is?”
+
+“At his current regeneration speed? It’s the same method I thought of, of course,” Marrick replied with a sigh. “He can’t be knocked unconscious by normal means, and she can’t hope to run him out of steam like you did.” The Old Goblin shook his head. “To win, she would have to kill him in one move. And if that is something she chooses, she must do so soon.”
+
+“Well… that’s not going to happen with me here,” Derek snorted.
+
+“And there lies the frustration…”

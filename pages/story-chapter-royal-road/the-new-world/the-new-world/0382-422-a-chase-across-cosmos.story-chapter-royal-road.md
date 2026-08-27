@@ -1,0 +1,539 @@
+---
+id: b208aed9-e33f-55e4-9441-afef1d2eb3a6
+page-type-slug: story-chapter-royal-road
+title: "422 A Chase Across Cosmos"
+slug: 0382-422-a-chase-across-cosmos
+partOf: the-new-world
+position: 382
+ownLength: 5415
+unit: words
+ownProgress: 5415
+publishedAt: 2025-05-09
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2266131/422-a-chase-across-cosmos"
+royalRoadId: "2266131"
+markedReadAt: "2026-06-29T21:34:26.255Z"
+---
+
+Her face warped with anger and defiance.
+
+"You'll find my claws dig deep. It's hard to take what I have, and you're not the first to find that out. You won't be the last."
+
+She began fading.
+
+"Good luck finding Earth again. Any other planet, really."
+
+I smiled, and the fading stopped. She looked me up and down. She murmured.
+
+"Something's wrong. Why isn't the portal closing?"
+
+Behind me, I wielded my wake to drag the warp back. I grabbed it in my hand.
+
+"If you think a trick this simple will get rid of me, well-"
+
+I grabbed the warp in my hands and split it open.
+
+"Let's just say you'll need a lot more than that."
+
+Chapter Begin
+
+Marcella hunched over, glaring at me while turning her blade in her palm. She darted toward me, but I ignored her. I stepped through the portal, ensuring I kept a grip on its outer edge. On the other side, I gawked in all directions like someone trying to remember a dream from the night before.
+
+I wasn't back at the Infinity Plaza. Instead, I explored a new world. Gravitation exceeded Earth's over twofold. Six moons hovered in an orange sky, and planetary rings embellished the horizon. No tall plants rose from the dense ground. Only compact shrubs fought toward the clouds.
+
+Other animals floundered about, but they all mirrored one another.
+
+They lacked bones, all of them mushy, rolling balls. It was like some world of slimes, and in front of it all, Marcella peered at me. She smiled.
+
+"You shouldn't have underestimated me, but I knew you would. You've grown arrogant since you came back from that other planet. Giess, I believe it was called."
+
+She raised a brow.
+
+"You have it in your head that you've exceeded what other humans are capable of. That you're somehow special. I'm more than glad to remind you that you're not."
+
+I raised a hand, and a panel of gravity generated with such strength that the ground around us liquified and then solidified under enormous pressure. Once more, Marcella paced through the overwhelming mana with ease. I scoffed.
+
+"Another illusion? Do you intend to run forever?"
+
+She narrowed her eyes.
+
+"You really are as simple-minded as I expected."
+
+I glanced around, not finding any obvious portals or exits out of here.
+
+"It really depends on who you ask. From your perspective, probably."
+
+Marcella tapped one of her fingertips with her blade, drawing blood. She watched the red droplet drip down.
+
+"Can you rip open Dungeons as easily as you tear open portals?"
+
+Realization sparked over me.
+
+"This is a dungeon? How in the hell am I even here?"
+
+She scoffed.
+
+"I've already closed this dungeon's opening before we even started our conversation in the void."
+
+I looked at the portal in my hand.
+
+"Er, you mean this?"
+
+She sighed.
+
+"No. That's a portal inside this dungeon. Earlier, you walked through more than one portal."
+
+My gaze sharpened. Many minds came into action.
+
+"You layered the portals?"
+
+She tilted her head at me.
+
+"That's right. After you stepped in, I moved one portal away from the others before destroying it. You're holding the last portal, not any of the others."
+
+I blinked.
+
+"Is...Is that how portal dynamics operate?"
+
+She shook her head.
+
+"No. Normally, it's impossible, but-" She held up a hand and surged her blue aura. "I have a way of breaking what's normally possible."
+
+I held up the spatial tear in my hand.
+
+"You didn't do that. An Old One did. Also, you knew about my ability to hold open portals?"
+
+She shrugged.
+
+"It's not a secret. You've been seen by many of your soldiers doing that for years now, and that myth surrounding you isn't the most difficult to parse."
+
+I spread my hands.
+
+"Why are you telling me all this?"
+
+Marcella narrowed her eyes, each of them like knives.
+
+"Because I enjoy defeating a strong opponent, especially when it's easy. It's a unique feeling. I'm sure you've felt it before."
+
+I rolled my hands.
+
+"Defeated? Even if I'm stuck here, I have a guild out there. They're going to tear you apart."
+
+Marcella tilted her head.
+
+"I have contingencies in place for them as well. The most difficult members to defeat will be Shalahora and Plazia-Ruhl, but I find their loyalties dubious at best. Without you as the guildleader, Plazia will likely defect. Shalahora would as well."
+
+Marcella adjusted her furs.
+
+"Torix and Althea will be the truly difficult members to kill, especially that lich. Still, I have plans and confidence to handle that problem when it arises."
+
+I sighed.
+
+"You know, you're a competent and skilled leader with ambition and drive."
+
+She gave me a tight smile.
+
+"Should I thank you?"
+
+My eyes set on her.
+
+"Wait until after I've dismantled your borrowed power."
+
+She raised a hand, primordial mana oozing from her palm.
+
+"Is your armor not the result of some eldritch tampering? Isn't that just as borrowed as my aura?"
+
+My skin rippled like a liquid.
+
+"I was given a shell, and I turned it into something far more. By now, my power cannot be taken from me, but yours can. After I get rid of that aura, you'll be able to realize your own potential instead of someone else's."
+
+She waved me goodbye.
+
+"Good luck with that on your way out of here."
+
+She walked away, fading to mist. I peered around while my mind raced. I held several rifts with me, including the cracked space from Earth. There could be some connection point between one of my carried rifts and Earth, but I had no idea how to traverse subspaces like that. I might end up lost in a space between dimensions if I tampered with a magical field I didn't fully understand.
+
+Scrapping that idea, I brainstormed alternative solutions. Marcella lured me into a dungeon of the Infinity Plaza, leaving me stranded. The question was, how was I stranded? If this were a normal dungeon, I'd just go and grab the core before leaving. For her to keep me locked in here, she needed to take the dungeon core. That would close the dungeon's entrance and lock me into this subspace.
+
+Another core would form after about a decade, but that was plenty of time for her to develop other countermeasures against me. In fact, this was exactly how I stopped one of Yawm's followers so long ago. Being stranded in a dungeon had actually been a fear of mine for a long time, and it had finally come to pass.
+
+That being said, I already contemplated a variety of solutions. The first was also the most simple - if someone took the dungeon core out, then I would simply put one back in. I pulled out one of my many blue cores from L-7, and it radiated with the strange, resonating violence unique to that planet's dungeon hearts.
+
+I held it up and closed my eyes. After a few seconds of heavy, oppressive silence, the core's resonance dispersed, and the blinding radiance faded. It settled down, becoming a normal blue core. As it did, I let out a gasp of relief. I hypothesized this was the cause for L-7's unique cores, but I never got around to verifying my assumptions.
+
+It turned out I was right. Schema routed a large part of the dungeon heart's energy into sustaining the dungeon itself. Since L-7 lacked Schema's tampering, the blue cores held far more power. However, that didn't explain why blue cores dropped from primevals or why they formed in the first place.
+
+As I wondered about those oddities, hexagonal panels covered patches of space like the giant scales of an ethereal dragon. As they faded, they left a winding staircase leading to a set of doorways. I gazed at the entrance before I took a breath. This was a fight, and I needed to be ready. Even if Marcella couldn't kill me, she could pull more tricks like this, and I couldn't guarantee I'd crawl out of them.
+
+The doors opened, leading outside. Spatial mist drifted in from a stony outcrop leading to a sheer cliffside. I stepped out before spreading my hands. The omnipresent fog funneled away, revealing multiple tunnels leading to different areas. With my wake, I kept the dimensional fog at bay, finding myself in the depths of Central Park's great chasm.
+
+If I had to guess, Marcella put yet another portal in front of the dungeon's opening. I grew weary of the fight already, but I bent down to jump out of this pit. As I did, an insect leaped from outside the mist. I felt its weight, its body manipulating mass to extraordinary extents. It stabbed its long mouthpiece against my eye, and its leg shattered against my pupil.
+
+I reached out my hand, the bug scrambling for escape. My armor pierced into its body with tendrils, and it desiccated in my palm as my skin stole its life away. Its agony ended in seconds. Marcella spoke from the mist.
+
+"You expect me to believe and put my faith in something like you? Ridiculous. How can you expect humanity to trust you when you're as much a monster as any eldritch anyone's ever seen?"
+
+I rolled my eyes.
+
+"Potential doesn't decide reality. That's why I'm capable of horrific acts, but that doesn't mean I will actually commit them."
+
+Marcella's voice carried malice.
+
+"You expect humanity to trust that kind of flimsy logic?"
+
+I scoffed.
+
+"Humanity already does, and as for you, it doesn't matter if you trust me or not. I will do what must be done. In this case, I will rehabilitate your slave labor camp and turn it into something halfway decent."
+
+She murmured.
+
+"In the end, it boils down to power, doesn't it? What you say goes since you're able to make it so?'
+
+I smiled.
+
+"I offered a deal. You refused to entertain it or so much as compromise. I'd actually argue I was pretty patient considering how you spoke and my position in the negotiation."
+
+"And what position is that?"
+
+"One where I don't have to listen to a damn thing you have to say."
+
+She laughed, the expression joyless.
+
+"There it is. The tyrant comes out."
+
+I raised a brow.
+
+"Do you ever feel like you're projecting?"
+
+"That's rich coming from a leader who enslaved the gialgathens."
+
+My expression sharpened.
+
+"How so?"
+
+"They have a contracted hundred years of servitude under your guild."
+
+I mulled over my thoughts for a moment.
+
+"That's only for Krog and Chrona, and that was in exchange for saving their entire species from extinction."
+
+"Those are the precise deals I make. Hypocrite."
+
+A moment passed before I nodded.
+
+"Hm. That's...Fair. Your judgment of me, that is. You're delusional about your approach, though. You're psionically implanting the people here and using them as converted soldiers. There's nothing free about that."
+
+Her words echoed.
+
+"You're a pot calling the kettle black, but enough arguing. Tell me this: how did you escape that dungeon? We tested other blue cores and portal specialists. They couldn't escape before we opened the doors for them."
+
+I rolled my fingers in my hands.
+
+"Hm...Let's just say I have a few secrets of my own."
+
+Her glare deepened.
+
+"I can see that."
+
+I furrowed my brow.
+
+"You know, the way you talk sometimes...It makes you sound so lonely."
+
+She grimaced before disintegrating. Her words floated out of the ether.
+
+"That is what it means to lead. You must be lonely. Otherwise, you'll be nothing more than a common soldier."
+
+I frowned.
+
+"There's nothing wrong with being a soldier. They are the ones that fight and die in wars."
+
+"That thought process is why you came knocking on my door unannounced and demanding my attention without notice. You walked into my domain and acted as if a single conversation would handle our differences. It's simplistic, and it paints your guild in a poor light if the leader acts so naive at all times."
+
+I winced.
+
+"Act niave? You know, you put a lot of stock into presentation rather than action. That makes sense, considering you're an illusionist. You'd want a gimmick to matter more than the real thing, even when it doesn't."
+
+She seethed.
+
+"You'll find my power is as real as anything you can see."
+
+I took a breath before I threw myself upward. As I did, a sea of insects fell from the fog above. As a single unit, they wielded powers over the fabric of reality. Their mass crashed into me, and they splintered against my body. They struggled against the mass of my dimensions before I settled against the cavern floor.
+
+A quake erupted on the ground as I landed, and a ripple traversed across spacetime. The cracking impact disturbed the entire subspace. The insect swarm stabbed into my body with their blades, able to fold reality in their strikes. They cut my skin, and I bled. They chewed at my body, and I tore. As a hive, they relished in their new prey.
+
+Yet, their cries of elation devolved into howls of terror as the shards they gnawed from crawled out of them. They bit into my fabric-laden body, tearing their teeth. As a mass of liquid, I molded my body into hardened spines that ruptured the monsters from within. As they ballooned, I heated my body until I shined.
+
+I turned myself into a physical torture, an excruciation to behold or be near. They shaped reality against me, but I was a reality against them. I neglected to wield singularities or the worst of my weapons in an attempt to keep my friendly fire to a minimum. If people walked on the surface, I didn't know if those effects would kill them.
+
+Instead, I took my time, smashing one insect after the other. Hundreds. Thousands. Tens of thousands died at the swipe of my palms. Like bugs running into a windshield, they died swiftly. I took life with an ease their colony never imagined possible, all while I ignored the gnashing of their teeth and the raking of their claws.
+
+Hours passed, and the corpses mounted. They grew, becoming a field of death. I walked atop the piling bodies, carving a path of utter destruction. Closer to the top of the cave, I stood atop the pile. A wave of nostalgia passed over me. This all reminded me of BloodHollow.
+
+Amongst the blood, I found comfort. Surrounded by death, I remembered where I was forged. Behind me, a sea of black blood drained off the cliffside to the bottom of this dungeon. Mountains of corpses smothered the walls. The sour smell of freshly opened entrails oozed from this place, the warmth of their bodies seeping into the stone.
+
+The steam from their opened shells floated upward, intermingling with the spatial fog. I walked out of the pit, my body soaking in the gore that landed on my skin. After cracking my neck, I peered around. One last insect jumped at me, and I wrenched its skull from its body in a practiced motion. I dropped the body and walked forward.
+
+A wall of spatial fog kept the hive from expanding into the city. Walking through the mist, I held the insect's skull in my hand. As I traveled out of the haze, I found a crowded street, one that crowded near me. My large, looming form cast a shadow over many of them. They let out whispers as the evergrowing crowd evolved into a horde.
+
+"The Harbinger."
+
+"Marcella couldn't stop him."
+
+"He's come."
+
+I walked up to a manifestation of Marcella. She bit her cheek.
+
+"You're an annoying enemy."
+
+I smashed the skull in my hand, blood erupting in every direction. Marcella flinched. I glared at her.
+
+"Surely your research told you that much?"
+
+She sighed.
+
+"Maybe, but I still have a few surefire ways of getting rid of you."
+
+I peered around.
+
+"And they can be used in your territory? Anything that can hurt me will wipe everyone here."
+
+She took a breath.
+
+"That's just it."
+
+Marcella pulled a detonator from her hand.
+
+"I'm not someone who gives away something I've earned. I'd rather smash it all to pieces and watch it burn than see it stolen."
+
+A quick gravity well verified she wasn't really there. She was projecting a hologram to me. Either way, my stomach sank.
+
+"No...You wouldn't."
+
+An unhinged smile crept over her face.
+
+"I would. There are thirteen nuclear bombs spread throughout Central Park. I'm sure you could run and maybe even live, but everyone here will die if you do."
+
+I gazed at the crowd, and I wondered if this, too, was an illusion. A telepathic checkup dispelled all doubt. These people held normal thoughts and aspirations. I shook my hands in desperation.
+
+"Are you insane? This isn't even me taking your territory. I'm asking for you to stop colluding with an enemy. Our enemy."
+
+She furrowed her brow.
+
+"It's only your cross that you've chosen to bear. I need my connection to Eonoth to achieve what I want, and you're getting in my way."
+
+I peered at tens of thousands of people. Flashes from the bombings on Giess passed over my eyes.
+
+"Alright, you win. I'll leave, and I won't come back."
+
+She scoffed.
+
+"If I were you, I wouldn't. I'd disable the bombs before killing me. I'm far too much of a threat to be left in power if I'm willing to do something like this. That's why I'm sorry, but I can't let that happen."
+
+Her thumb pressed pressed the detonator. Without anytime to react, I crushed my dimension far smaller than my physical self. Portions of my body slackened, and the runes across my skin ceased glowing. All around me, several flashes erupted in all directions. Their light consumed the world, my slowed time not affecting how quickly the flashes passed over everything around me.
+
+They carried intense, searing heat that set the forest and grass ablaze for miles in all directions. The wave of radiation scorched concrete, ignited cars, and evaporated the blood in nearby people's bodies. They exploded as paint combusted on streetlights. Glass amplified the radiance, beaming the burning rays with even greater intensity into nearby buildings.
+
+Out of desperation, I shoved every bit of my attention and mana into creating singularities at the epicenters of the thirteen detonations. In far less than a second, thirty singularities erupted within the epicenter of the explosions, siphoning enormous amounts of the erupting forces into a dark void.
+
+From the kinetic energy to even the outpouring of radiation, nothing escaped the singularities' event horizons. At the same time, my body melted as mana exploded through me in a heated burst. I overextended my elemental furnaces, ramping their production to their absolute extents.
+
+They burned into mush, and even with some of the nuclear detonations devoured, portions of their explosions escaped the singularities. My attempt to protect the city wasn't enough. All would still die. To lessen the remaining energies, I generated tiny, isolated gravitational panels that diverted the kinetic force of each bomb upward.
+
+The volumes of mana burned through the rest of my active elemental furnaces, and my body smelted down to slag. The gravitational panels siphoned portions of the erupting nuclear and singularity forces upward, along with huge bursts of air and debris. As my entire body glowed a bright, blinding blue, Marcella's eyes opened wide in slow motion.
+
+My speed and energy output overwhelmed her imagination. I turned into a glowing molten body, like a star. Even the byproduct of my mana production caused the pavement beneath me to melt. In the end, my efforts did little. The shockwave from the nuclear bombs passed over me.
+
+Though fragmented in certain places, they carried utter devastation in their wake. Their pulses cut through my body like blades made of absolute kinetic energy. My singularities left the explosions in a fractured state. The outward forces mirrored Swiss cheese, some of each blast eaten.
+
+My actions never mattered. The remaining forces overlapped, leaving nothing remaining. All crumbled into a powder as a shockwave enveloped the Shattered Spires. Every skyscraper fell to the kinetic rupture as if a comet collided in the city's center. The collapse took seconds, and I disintegrated alongside the town.
+
+As the last pieces of the buildings collapsed in the distance, the enormity of the genocide left me stunned. A paralyzing dread coursed through me. Regret, shame, and anguish bloomed in my chest. I mentally shivered as everything turned to ash around me. As if reliving my worst nightmares, all perished while only I remained.
+
+In that absolute destruction, I become nothing, but I returned from the ether before finding buildings collapsed in the distance. My expression was as hollow as an insect caught in a spider's web. My hands quivered in shock, and I blinked as I struggled to comprehend what just happened.
+
+Marcella did the same. She remained unharmed, and she gawked at me, her expression holding the same dread as mine. I seethed at her through a clenched jaw.
+
+"Was it worth it? To kill so many for nothing?"
+
+Her hands trembled before I set my gaze on her. I howled.
+
+"Say something."
+
+She pointed at me.
+
+"H-How did you survive? You...You disappeared?"
+
+Around me, I gazed at the destruction.
+
+"That's what you care about? Not the city you destroyed? Not the people you killed?"
+
+I howled my last words. I pointed at her and shouted.
+
+"I'm steel surrounded by glass. If you knew anything about me, you would already know I cannot die to physical forces. Despite that, you were willing to kill hundreds of thousands. Maybe millions."
+
+Marcella crushed the detonator in her hand.
+
+"The times your body dropped, and you came back from the air...It wasn't teleportation or an illusion? You...You really came back from nothing?"
+
+I shook my hands at her.
+
+"I don't know anything about illusion magic. Gah, you are one of the most confidently stupid people I've ever met. And the destruction you sowed. This is...Huh."
+
+I peered at the devastation around me. I found no more bodies. In the distance, certain details didn't line up. The clouds never parted from the immense explosions. After several miles, the city was unharmed. After a few more seconds of inspection, a palpable wave of relief passed over me.
+
+My head dropped back like someone slit my throat. I let out a gasp and shook my head.
+
+"Hah. You faked this, too, huh? Thank god. Thank Schema. Hell, thank the Old Ones."
+
+She gulped, her trump cards running thin. I sighed.
+
+"How did you fake the crowd's minds?"
+
+All around me, her illusion began fading. An enormous, subterranean world came into view. Above me, the spatial mist separated this alternate space from the Shattered Spires. Beside me, a set of circular doorways stood beside a devastated cavern. The doorway defied physics. By all accounts, it should've been left as a smoldering ember, yet it withstood nuclear hellfire.
+
+When facing the insects earlier, I had been inside a dungeon. This was a dungeon within a dungeon.
+
+Around me, huge portions of the cavern collapsed from the detonated bombs. Everything glowed with the warmth of radiation and heat, and the dust clouds hadn't settled. A horde of insects twitched, all of them either killed or covered in flash burns. Outside of the cracking, burnt stone, the bugs let out their sounds of anguish.
+
+Buzzing in the distance, they echoed their agony alongside their sizzling flesh. The sounds blended into a cicada-like drone, and a few rolled around in despair while letting out gurgles of pain. Before anything else, I expanded Event Horizon over them. Their suffering ended. By now, Marcella had earned a pound and a half of malice.
+
+I glared down at her.
+
+"So you set up a fake crowd under the Shattered Spires. If I had to guess, those entities you planted in people's heads...They pretended to be people? That's got to be a power from the Old One. And this place is a dungeon within another dungeon?"
+
+Marcella blinked, and her hands stopped shaking. She calmed her breathing before she mouthed.
+
+"You survived nuclear explosions. You're not human."
+
+I smacked my forehead.
+
+"Ugh, and you call me a simpleton. What gave it away? The fact I'm fifty feet tall or that I'm made of metal?"
+
+Marcella stood before she chewed her lip. She seethed.
+
+"I see you tried to save the people. How noble of you."
+
+I raised my brow.
+
+"And you put other people here to hold me down so that I wouldn't get outside the blast radius of nukes. You played on my empathy. Smart, though a bit ruthless for my taste. Honestly, this entire plan of yours is pretty convoluted, but it was effective."
+
+I held up a hand.
+
+"You had many portals layered together to disguise that single one I walked through. You then layered the portals so that I would walk from one preconstructed illusion to the next. Clever. Very clever. I can see how you stopped that mindless Seer and turned it into a bodyguard for your territory."
+
+All around me, the last of the dying insects evaporated from Event Horizon. It stripped them of their lives and bodies alike, yet it was a mercy as the destroyed corpses coalesced into my body. I breathed out the mana like red smoke.
+
+"But I'm not mindless. Quite the opposite, actually."
+
+Marcella nodded.
+
+"It would seem so."
+
+I stood over her.
+
+"Is this why you goaded me so much from the beginning? You distracted me so that I wouldn't have time to question your illusions. Another ploy."
+
+Her lips quivered. I cupped my chin.
+
+"Is this another scheme within a scheme, or are you out of tricks?"
+
+She chewed her lip.
+
+"So then you're immortal? Eonoth never mentioned that part in your dossier."
+
+I burst into laughter.
+
+"That's because I'm not."
+
+Marcella shook her head.
+
+"They told me you'd die if I played my cards right. I can't help but feel lied to."
+
+I furrowed my brow.
+
+"What? The Old Ones lied? Woah. I would never have guessed that."
+
+Marcella rolled her fingers in her hand.
+
+"Who are you to say I don't have extra bombs planted at different spots around New York? Maybe even Mt. Verner?"
+
+I scoffed.
+
+"We run checkups on nearby terrain to ensure no one sets up traps like that near my capital. Plazia's been running that operation for a while now. Aside from that, you wouldn't detonate the bombs in New York while knowing they wouldn't even slow me down. Being that insane was a bluff."
+
+She snarled.
+
+"You don't know me."
+
+I nodded.
+
+"You're right. But if you were willing to blow up New York, you wouldn't have set up this elaborate trap in the first place. In fact, this whole ruse wasn't just to trick me. It was to save the Shattered Spires if we did have a battle."
+
+I smiled at her.
+
+"Even though you pretend to be made of ice, it looks like you don't want to become a mass murdering, genocidal maniac. And you know what? You did destroy fifty of my elemental furnaces in the meantime, so this wasn't all meaningless. For me, that's a pretty hefty loss."
+
+Her left eye twitched.
+
+"Elemental Furnace?"
+
+I frowned.
+
+"They convert matter into energy. It's a lot like nuclear fission, actually."
+
+She took a moment, calming herself down. After taking a deep breath, she stared at me, defiance spreading back on her face.
+
+"Then they're how you're able to make so much mana. We'll see how many you have left."
+
+My armor grinned, a jagged smile of metal meeting her gaze.
+
+"They're supplementary. I produce the mana I wield on my own."
+
+She grimaced, flashing her teeth.
+
+"Then what? You can survive nukes, and you have limitless energy? How in the hell does that make any sense?"
+
+I floated off the ground, stones swirling around me.
+
+"It doesn't, but neither do your illusions. Also, don't forget that despite not knowing what I was capable of, you've chosen an all-or-nothing war against me. It's your fault now that the outcome has become certain."
+
+Rage sparked over her face.
+
+"Nothing is certain in this life. Nothing."
+
+She snarled her last word. I met her eye, and I couldn't help but respect her fury. She needed to be stopped, but that didn't mean every word out of her mouth was poison. I nodded.
+
+"That's true, but enough of this. Let's see how you handle a real fight, shall we?"
+
+I bolted out of the dungeon, unleashing a physical calamity onto the cave and ripping past the pooling mist. Insects flattened themselves against the edge of the cavern. They kept away out of fear, having learned what facing me meant. Either that or they mistook me as the source of the nuclear explosions.
+
+Either way, it didn't matter the reason; they didn't get in my way as I crossed out of the cavern. I stopped my ascent, finding the walls of the spatial fog covering Central Park. The wind from my flight plumed out of the cave, billowing the mist in the distance. Finally able to orient myself, I found where I was using my minimap.
+
+I bolted forward toward the Infinity Plaza, and I pierced the spatial fog encompassing the dungeon. Gray clouds enveloped my vision, and my skin prickled before I pierced the vale. Seconds later, I crossed several floating skyscrapers before smashing into the pavement in front of The Infinity Plaza.
+
+When I arrived, a shockwave erupted, shattering the nearby glass on a few floating spires. People cried out as falling shards of glass fell. I raised a hand and suspended the fragments in a gravitational panel. The translucent pieces flickered about like sharpened snow. I siphoned them all together, creating a pile of broken glass that I melted. A second later, I flash-froze the pile.
+
+I set it down, a giant sphere of cloudy glass resting in front of the old Empire State Building. Around me, people gawked in awe, terror, and annoyance. I inspected the minds here, finding them more individualized. Even their surface memories carried depth to them, something Marcella's psionic entities hadn't had.
+
+I would've uncovered the lie in a few seconds, but Marcella hadn't given me any time to consider that possibility. She rushed me so that I made mistakes. Dwelling on those blunders, I walked forward, passing the lines of people. They made way for me as I found the entrance of the Infinity Plaza unguarded.
+
+I flowed into the entrance and through its winding hallways. After rushing past the emptied office space, I reconstituted at the center of the Infinity Plaza's dungeon hall. An army of soldiers waited for me. They amassed an armada of weaponry, from repurposed cannons to artillery carrying crystallized mana bombs.
+
+Many of them wore my rings or gear, likely having traded a wealth of supplies for my equipment. Their odd swords glinted in the subdued torchlight, and portals swirled behind each group of soldiers. They were open for a rapid escape. It looked like they wanted to wage a war of attrition by using guerilla tactics.
+
+Marcella stood three floors up, her aura smothering the entire expanse. Like Lehesion's aura, Marcella's prevented my magic from piercing its viel. I still wondered how the aura did that. She held her strange blade in her hand, and unlike our previous exchanges, there was no fear or indecision in her eyes.
+
+This was the true Marcella, and she glared like a resolved warrior. She frowned.
+
+"We'll fight until we die, monster."
+
+Before I could reply, the Seer crashed through the Infinity Plaza's entrance. The avatar of Etorhma brushed off bits of rock before forming a spear of his strange mana. He pointed the weapon at me.
+
+"You walk into the lion's den willingly, Harbinger."
+
+I glowed, the stone melting beneath me as mana stormed into my palms. The aura of Marcella shivered as my wake pressed against the force. I won the war waged under the surface, and a tint of red overcame all present. My armor smiled, and my runes shimmered. Several soldiers fell to their knees as I brandished a fist.
+
+"I've been looking forward to a real fight."
+
+A plume of mana from my body poisoned the air.
+
+"Now let's have one."

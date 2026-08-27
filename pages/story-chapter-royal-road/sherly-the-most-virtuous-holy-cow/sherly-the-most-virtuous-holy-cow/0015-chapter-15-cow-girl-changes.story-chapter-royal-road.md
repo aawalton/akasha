@@ -1,0 +1,197 @@
+---
+id: 3fd4f04d-93f5-5439-b791-9a93c30f13a2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15 - Cow Girl Changes"
+slug: 0015-chapter-15-cow-girl-changes
+partOf: sherly-the-most-virtuous-holy-cow
+position: 15
+ownLength: 2060
+unit: words
+publishedAt: 2025-09-05
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2576110/chapter-15-cow-girl-changes"
+royalRoadId: "2576110"
+---
+
+Chapter 15 - Cow Girl Changes
+
+[There are three Evolution Traits available for you. You don’t unlock traits via gaining Levels. Instead, you unlock them through previous Traits you’ve acquired, with the potential to acquire more by killing extremely powerful and rare monsters. You can also unlock them by chance, just by gathering as many Strains as possible from a single species.]
+
+“You didn’t have to tell me that last part,” Sherly said. Letters was clearly reminding her of the easiest way to get a Human Evolution Trait. Easy for sure, for those with a twisted moral compass. “I’ve gathered so many Strains from unirats, but not a single indication of a Unirat Evolution Trait.”
+
+[It is a rare chance, yeah. Sorry… Anyway, the first three Evolution Traits available to you are very close to your origin species. I know you said that you were human before, but that doesn’t get included in the consideration.]
+
+“So I’m considered a demon-cow, then?” Sherly guessed, sighing. “That’s not so surprising anymore. What choices do I have? And include the costs.”
+
+[Very well. Here are your options below:]
+
+[Centaur Evolution Trait: 60 Evolution Strains and 1 Skill Point. This trait will mix your cow torso and legs with the traits of a horse. With this trait, you will acquire a second torso, allowing you to grow arms.]
+
+“Feels weird giving me a horse Trait, while I’m a cow,” Sherly commented. “Demon-cow, but still.”
+
+[Such is the flexibility of this System. You will still be recognized as a demon-cow regardless of which trait you acquire, however, you will obtain some advantages that only a horse Trait can provide.]
+
+“I’m guessing stamina and running speed, if I’m also getting the legs.”
+
+[Correct.]
+
+“And this is the cheaper option of the three,” she said, remembering what Letters had written before.
+
+[Correct also. And that’s because of the failure rate.]
+
+“Failure rate?”
+
+[This Trait is more commonly provided to awakened horses or humanoids that want to obtain a horse-zilim or chilim form. In your case, this is essentially a two-step evolution. First, giving you some horse traits, and second, transforming your physical form. It’s cheap, but risky because of this. Your failure rate is 75%, if you try to take this Trait.]
+
+“Pass, then,” Sherly said, not even hesitating. “What’s next?”
+
+[Bucentaur Evolution Trait: 90 Evolution Strains and 1 Skill Point. While centaurs are commonly provided to awakened horses, or humanoids looking to become a horse-zilim or chilim, a Bucentaur Trait instead replaces the horse aspect with cow. Like before, you will acquire a second torso, allowing you to grow arms.]
+
+“What about the head?” Sherly asked. “Don’t centaurs, and I assume bucentaurs as well, have humanoid heads?”
+
+[You will need more of these Traits to reshape your head.]
+
+“Ah… And I’m assuming this one has a lower failure rate?”
+
+[Correct. Only a 30% failure rate, due to the significant changes to your body being lesser.]
+
+“What happens if I fail, by the way?” she asked, now that the offer was a bit more enticing. She had more follow up questions in mind, but wanted to take them step by step.
+
+[There are two possibilities should you fail integrating your chosen Evolution Trait. The more common one, is nothing. You will simply lose the Strains you spent for the Trait. The Skill Point will be retained and unused, however.]
+
+[The rare possibility, however, is you succumb to the Evolution Trait.]
+
+“Succumb?” Sherly repeated.
+
+“Oh, sounds like you’re choosing your Evolution Trait,” said Ishuin, approaching nonchalantly.
+
+The cow girl made no mention of it, but if the elf Wielder hadn’t spoken, she wouldn’t even have heard her footsteps. Instead, she excitedly showed the two options she was choosing from.
+
+“Yeah, and this succumbing sounds like what you were talking about regarding those that failed their evolution,” she added. “Am I right?”
+
+“Yep,” Ishuin replied. “That’s exactly why you shouldn’t call zilims and chilims by their monster counterparts.”
+
+“I see...”
+
+“There should be three, though,” the elf added.
+
+“Yeah, I’m looking into that one right now. Letters?”
+
+[The last one is a Minotaur Evolution Trait. 120 Evolution Strains and 1 Skill Point. Rather than providing you with a second torso, you instead transform your main torso to that of a humanoid. Internal and external organs involved with this transformation will follow that of your chosen humanoid. It should be noted that organs from your cow form that cannot be carried over with this new form will be taken away. Your forelegs will change into arms and your hindlegs will allow you to stand up straight, allowing you to be bipedal.]
+
+“And the head?”
+
+[Still a demon-cow head, sadly.]
+
+“What’s the failure rate?”
+
+[5%]
+
+“There’s no way to make it absolutely zero?” she asked both Letters and Ishuin.
+
+[Nope.]
+
+“Nope,” Ishuin repeated. “But we always say, prepare as much as you can. Rest, eat, and focus, before you take your evolution.”
+
+Ishuin paused and hesitated to continue. Sherly easily picked up on it and understood the implications.
+
+“Will you be watching over me?” she asked. Since there was a chance of failure, Sherly wanted someone to quickly end her suffering, just in case the transformation went awry.
+
+The elf smiled, understanding the request. “Yes. I’ll be there, Sherly.”
+
+“Thank you.”
+
+Sherly, Ishuin, and Maymay gave their farewells to Braum and the others. Now that they had dealt with the source of the issue, there was no need to hunt the so-called bandits for Crossmark’s quest. Duis and the other members of the Claw had already gone back ahead of time.
+
+Instead of returning to the caravan, however, they decided to go a little bit deeper into the Managrove. Using Maymay’s recollection of her earlier patrols, they located an open area, free of any hostile monsters. There, they settled in, with both the elf and the dog-zilim giving Sherly the time to get ready.
+
+There were no two ways about it, really, she realized. She felt lucky enough that the Trait closest to her preferred evolution had the least risk, even if it was expensive. Her mind considered the Centaur Evolution Trait, if only briefly, because of how it would let her run faster and longer. But the failure rate of 75%, along with the fact that she could train her running even with her cow legs, made it easy for her to abandon the idea.
+
+Sherly took a deep breath. Surrounded by her new friends, she addressed her System Assistant to begin transformation.
+
+“Letters, I would like to take the Minotaur Evolution Trait, please.”
+
+[That would be 120 Evolution Strains and 1 Skill Point. You currently have 140 Evolution Strains and 3 Skill Points. Do you confirm this exchange?]
+
+“Confirm!”
+
+[Confirmation granted! Now initializing Evolution Module. Please standby.]
+
+Mana surged around Sherly, surrounding her with so much density that Ishuin and Maymay immediately vanished from view. But not before she saw their faces, still calm and collected. That gave the cow girl some much needed confidence, at least, enough to prevent a panic attack.
+
+She could feel her body change, parts that were no longer needed disappearing from her sense of feel, replaced by new parts that she newly acquired. The normal sensation of being on all fours became awkward, urging her to stand.
+
+She found the motion natural, almost as if she had been intended to stand since birth. Quickly, she found out that she missed standing up.
+
+The celebration and relief began to surface, only to be suddenly choked by a new System Message. This one, however, didn’t come from Letters.
+
+“Letters?” Sherly asked, her eyes staring at the System Message. The mana around her had frozen, and she couldn’t hear anything beyond that layer of power.
+
+Her screen stayed the same.
+
+No Letters. No Ishuin. No Maymay.
+
+She was alone.
+
+“What’s this?” asked a voice from the beyond. Deep and devouring. The gurgling and intensity that came with his voice made Sherly’s ears hurt.
+
+Her eyes blurred, and she couldn’t stand. She felt like vomiting. There was something repulsive in that question that sounded merely amused than evil.
+
+But it was evil, nonetheless.
+
+“A little demon-cow trying to evolve?”
+
+The very foundations of the world Sherly sat on began to quake. She felt her eardrums burst, her bones shaking out of her skin, her mind rattling around her skull, her teeth shivering frantically. All because of a laugh.
+
+A laugh so evil that it made the whole world shake.
+
+Even the cover of her mana cracked and crumbled away, revealing a sight Sherly was never supposed to see. She believed she was no longer in Sinzodia. Somehow, she was transported away.
+
+Transported to a world of dead and decaying flesh.
+
+No matter where she looked, she couldn’t find Ishuin or Maymay. She was alone. Even the voice that felt just next to her was nowhere to be found.
+
+To her surprise, however, the rot didn’t smell foul enough. Only for her to realize that her nose was bleeding. Her sense of smell, as well as her sense of hearing, were constantly being regenerated by Continuous Regeneration, but they were also constantly being damaged.
+
+Sherly didn’t even know if the red she was seeing was because of this rotting world, or because she was constantly bleeding from her eyes.
+
+Then the laughing stopped, and all was quiet. But only for a little while.
+
+A presence, pressed Sherly to the meaty ground. She had no time to observe the spongy features of what looked like a muscle. Something was crushing her, attempting to turn her into paste.
+
+“Now what would I do with you?” the voice asked, causing Sherly’s heart to palpitate. Her lungs had exploded, and she couldn’t breathe, but the voice let up just a little to let her regenerate. “You seem sturdy enough. How did you manage to slip through my grasp, little demon?”
+
+Sherly had an inkling right from when the System Message had given her a warning. It didn’t take a genius to deduce that the voice belonged to Taurus. But knowing that wouldn’t help her at all in this situation.
+
+Am I going to die here?
+
+“Oh, poor, little demon,” said the voice, inching closer into a whisper. “Do you not wish to die, Sherly?”
+
+Sherly saw the face of a demonic bull. There was no other way to explain it. It was a mere projection, made out of mana, but she could see the rings of fire on his eyes, the fangs running along the lumps of his snout. It was like a dragon. An evil dragon mashed up with the face of a bull.
+
+I don’t want to die… Sherly realized her vocal cords were crushed, and her jaw couldn’t move. Her Continuous Regeneration couldn’t keep up with all the damage she was constantly taking.
+
+“Good,” said Taurus. “Pledge your allegiance to me. Become a full demon. And I will remake you anew.”
+
+Screw that…
+
+The world of dead and decaying flesh quaked once more as Taurus made a heartfelt laughter. A screeching one this time, made by those who were crazed and utterly amused.
+
+“You have some nerve, Sherly! Feisty! I like that.” Taurus giggled, before the projection snapped a bite out of Sheryl’s shoulder. She couldn’t even gasp.
+
+“What are you going to say next, hmm? You want to kill me, instead? Hmm? You want to claim my throne? Hmm? You have some lofty dream of proving yourself to be one of the good guys, hmm? You think just because Ishuin believes in you, you deserve happiness? Hmm? You think your mother misses you? You think I don’t know you’re from some other world? Hmm? Are you that stupid? Hmm?”
+
+Piss off…
+
+“I’m a Zodiac, Sherly,” Taurus whispered, his gurgling voice returning with a deeper timbre. “I can just make you watch as I kill Ishuin’s entire caravan.”
+
+Sherly found a surge of strength and urgency. Her Continuous Regeneration quickly healed every single wound she had, and she forced herself up from the intense pressure.
+
+Until it doubled and crushed her chest completely. Her eyes popped from the force. She could feel her heart beating weakly.
+
+“Oh, come on, Sherly! You can do better than that!”
+
+Taurus laughed.
+
+The world shook.
+
+And because of Sherly’s rage and popped eyeballs, she missed the light that had suddenly appeared beside her.

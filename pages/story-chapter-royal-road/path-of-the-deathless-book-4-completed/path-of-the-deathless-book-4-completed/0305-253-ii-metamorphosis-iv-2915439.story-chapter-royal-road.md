@@ -1,0 +1,115 @@
+---
+id: 2840ad8d-e3de-5299-b2bb-1289ad9fa15c
+page-type-slug: story-chapter-royal-road
+title: "253 (II) Metamorphosis [IV]"
+slug: 0305-253-ii-metamorphosis-iv-2915439
+partOf: path-of-the-deathless-book-4-completed
+position: 305
+ownLength: 2473
+unit: words
+publishedAt: 2026-01-05
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2915439/253-ii-metamorphosis-iv"
+royalRoadId: "2915439"
+---
+
+253 (II)
+
+Metamorphosis [IV]
+
+***
+
+"It's not enough!" a stack of Uva’s minds snarled. "It's not enough! Freezing them shatters them. They cannot sustain it long enough. They're feeble, they're pathetic, they break apart too quickly. We can't even siphon away enough madness to keep them stable and intact. Their physical forms can't take the stasis. They need to be estranged. If they are all forced to a common present, they turn brittle; they shatter! We need to work faster, or we need a means of stabilizing them. Or altering the very nature of their existence…"
+
+Another strand of her consciousness shouted back, "We cannot outdo the Stranger. Even if we survive our metamorphosis with our stream of consciousness intact, we will not be powerful enough to contend with a Deity in his Domain over his own offspring. It is only the Starhawk's power that is sustaining most of our efforts right now."
+
+"Our Psychomancy must change," came a hissed admission from her innermost depths. Uva was fragmenting within as well; her psyche was turning on itself, and now and again, she would hear whispers slithering along her strings. Strings that didn't feel like they fully belonged to her anymore. Strings that gave her hints, that asked her things she would never normally think about.
+
+"Our Psychomancy is potent, but our Psychomancy is limited. We are reaching, we are spreading, we are a network unto ourselves. But it is not enough. We need to be able to penetrate, to rewrite, and insert something of ourselves within the Stranger's offspring. We need the capability of prolonged offense, of hidden offense. We need our skill to evolve once more."
+
+But there was a problem with that. She had gone past the 200th level for her Psychomancy, and it hadn't reached another skill evolution. Despite all the strain she had been putting into her skill, the bulk of the effort was supported by both the Dreamtaker and the Starhawk. Though she was the primary channeler, she was not the main source of power here, and thus, the System didn't see it fit to grace her with the skipping of another Tier.
+
+Puppeteer of the Formless Strings 236
+
+"The skill is not yet at the Legendary threshold," Uva said, "and without hitting level 500, we cannot Delve. And even if we did, we would simply consign ourselves and the rest of Blackedge to death anyway. We do not have the time for a Delve Quest, even if we were to finish it in record time."
+
+The answer was clear, but the risk was high. Her Psychomancy was her single strongest skill. It was practically what defined her as a Pathbearer.
+
+If she were to let the Eldest modify it, to twist it, then what would become of it? What would become of her? It would be allowing it to take a substantial stake in her soul.
+
+"I must protest against this," the Starhawk said. "We risk too much. I feel the Eldest's influence growing. Your metamorphosis is already progressing at an accelerated pace. You have perhaps a month left."
+
+"After that, I may not be myself anymore, I know," Uva replied, annoyed. "But if my Psychomancy changes, if I manage to evolve the skill into something that can breach the mind of an eldritch being, I might also be able to turn the tides against the Eldest. I might be able to fool whatever is meant to emerge from me and make it confused as to what its own nature is. The eldritch are just as inimical to each other as they are to me. And if I use them against each other, I may yet be the one that consumes, rather than the consumed."
+
+Though the Starhawk was hesitant to agree, she managed to wear him down by insisting, and it made things easier that she wasn't Roland. The god felt responsible for her, as she was its temporary Avatar. But the Town Lord was recovering, and before her final end or her successful rebirth, she suspected that Roland Arrow might find himself mostly ready for another tenure as the Starhawk's true vessel.
+
+"Only if you are certain," the Starhawk finally said, submitting.
+
+"I am not certain," Uva said honestly. "But this is not a place of certainty. This is a place of discovery and deception. More than that, however, I am starting to see how exactly the eldritch are bound to their own laws, to their own unrules, and so I will use that against them. I don't need to fully comprehend them; I know that they wound each other as much as they wound me, but they cannot find succor in their own injuries as I can. They cannot change, but I can, and I will."
+
+And so she reached out to the Eldest once more and struck a new accord. The version of herself standing before her was partially shattered; the glass had consumed half of her body. Echoing shards of still time drifted around, and behind, the shape of what seemed the Weaveress loomed. But the shape held Uva's face, and the shadow became more solid, more real, and it stood upon the threads of her Psychomancy as a spider would dance upon a web of its own making.
+
+"Need to consume, to take, to claim, to hold on to fragments of mind?" the Eldest asked. Their voice was changing. Its tone was juvenile in a certain way. But it sounded like her, a version of her that learned, a version of her that slowly developed its own schemes, its own thoughts, its own apprehensions. She suspected that this version was that which was meant to replace her. Or to be utterly consumed by her. Sooner or later, one of them would remain. The other, the copy, would be subsumed, and perhaps those who once knew her would be none the wiser. That left Uva more shaken than anything else.
+
+But in this place, fear was just a condiment, and the Umbral had no interest in becoming more flavorful prey.
+
+The shadow of the Weaveress crept over her, and as it loomed closer, it spread. The shadow multiplied just like her mind did, and each of her consciousnesses assumed one such shadow. They all loomed over her, lingered behind her, and stood upon the expanse of her spreading psyche. Her magic had a new presence imposed upon it. The changes her field experienced were subtle but significant.
+
+Her strings meshed with her, becoming more like a part of her flesh than simply an extension of her mana. If they broke now, it would hurt her. It would feel more like a wound than a mere strain. But infused within those strands were a shadow and new presences she could direct.
+
+Skill Replaced: Puppeteer of the Formless Strings > Matriarch of the Enshadowed Web (Heroic)
+
+Matriarch of the Enshadowed Web 236 (Heroic)
+
+And as the shadows connected to her, her psionics became dichotomous. The threads were merely a delivery mechanism now; limbs. The shadows themselves were like an extension, were like her fangs, were like bits of her that could spread, that could move, that could travel near and far. They only needed to be nourished by her Psychomancy, and alone, they could delve deeper into another's consciousness. For they were but still echoes cloned from her mind, and they did not need to be perceived.
+
+They could exist beyond her—were meant to operate past her web. The only cost was that they burned through their mental reserves, and soon faded from existence without a source of consciousness to feed from.
+
+But when attached to a mind, they were enduring. And they were ravenous.
+
+When she next stalked the Recollectors, she only touched them with her Psychomancy briefly. Holding them in place using her stillness, the spiders splashed into their minds, and the spiders went undetected.
+
+They merged and crept deeper into the thoughts of the eldritch, and they remained unbroken, for the spiders were the darkness cast by a mind. Hers. Theirs. All minds. And as they crawled through the depths of the various Fingerlings, she began to learn how they thought and better began to better alter them in past and present without them ever knowing.
+
+And over time, the Psy-Huntresses grew fat on the cognitive substance they feasted upon. The Stranger didn't understand why some Recollectors simply went mind-dead, didn't know why certain Indexes weren't thinking the way they used to, but Uva did. And every time the spiders returned, they carried the knowledge and memories they'd fattened themselves upon back to her, and their knowings melted into her mind once more. All that made her web a little bit bigger, and grew her shadows even more, and from this, allowed her to expand her sources of madness, her means of subterfuge. Soon, her campaign against the Stranger reached new heights as Aberrant Fractals were spawned free from her flesh time and time again, filling the skies of Blackedge.
+
+And it was also with this eldritch evolution that she first encountered another Seeker, swimming through the Outside of his own accord.
+
+***
+
+"Broken Godsdamned Moon, girlie, you took a chunk out of my simulacrum. That hurt. That really hurt. Ouch.”
+
+A few hundred more of Uva's strings closed in on the shattered Recollector. Within its ruined flesh spilled rivulets of black ichor and broken fractals of time, but past that, visible only to a Psychomancer, was something else. No. Someone.
+
+One of her Psy-Huntresses joined the Recollector in destruction, broken pieces spilling out, limbs tumbling through the void. It faded as dark smoke when kissed by the light, never there, and that's how Uva learned that she suffered no damage when she lost a Huntress.
+
+Yet the same couldn't be said for her unexpected counterpart. There, the only intact thing amidst all the cognitive ruin was a man. More specifically, a tall, white-haired elf that was dressed in cheap, sodden robes that looked cut from—it was cut from a floor rag. She could practically smell the stench radiating from him: alcohol and what was almost certainly dry piss. More strikingly, his eyes glowed in the dark. One with the violet hue of Divination. The other with the translucent shimmer of Psychomancy.
+
+As the rest of her Enshadowed strings formed an encircling weave around the man, he didn't respond with any fear. In fact, his mind was one of utter, placid indifference.
+
+"That Puppeteer of the Formless Strings?" the elf asked, scratching at his square beard. "An interesting skill evolution for an Umbral to achieve. Must be quite powerful. The Composer would be pleased with one like you. Assuming you're still with her.”
+
+Besides her confusion at the man's appearance, Uva was surprised at the depth of his insight. She suspected that this was more due to his Divination than Psychomancy, judging from how his violet eye was growing more brightly than the other. A few dozen more Psy-Huntresses clambered along the lengths of her strings, and they were perched at the ready, legs tense, prepared to leap out into the air and plunge down upon this mysterious guest.
+
+Instead of showing an overt defensive reaction, the man remained as calm as before. He narrowed his Psychokinetic eye, however, and she felt a gathering of incredible power that briefly left her staggered. He didn't seem to possess any Divinity within him, but she could feel the immense, crushing weight of his Psychomancy. It was potent—far more potent than hers.
+
+"Legend," Uva breathed to herself.
+
+"Undoubtedly," the Starhawk concurred.
+
+"So, not simply Puppeteer of the Formless Strings," the mysterious man said. "No, something's been added to it. The skill's been mutated. You must be undergoing the Eldest's metamorphosis. I can feel that feeling of stasis within them. They're cloned from your minds and feed off of consciousness, don't they? They're born from you, and they dance along your threads, and they rip into everything you want them to until they're fat and ripe, and they return to you offering the knowledge they have stolen."
+
+Uva was at a loss for words, but the man simply continued. "It's a good skill evolution. I've seen perhaps one other person achieve it. Of course, in reality, they were just consumed from the inside, and the monstrosity that took their place pretended to be them until something set them off, and they quickly ate the rest of their family, thinking they were actually a wolf. Very unfortunate. Said wolf creature that was born from their flesh was ultimately put down by my hand. But they were very good company while they were alive."
+
+"Is that a threat?" Uva asked, voice cold.
+
+The elf yawned. "No, it's simply a warning. You best prepare yourself for the fight of your life. It won't be like going into a Delve; more like portions of your skills going to war against themselves. You will have to overcome your own nature, and basically bend whatever is trying to hatch out of you into submission, so that your soul manages to digest the thing that's been coiling underneath it." He let out a breath through his nose and eyed her many Huntresses. "If you pull back your very, very agitated-looking mind spiders, and if you're willing to invite me into your mental abode, I think I might be willing to lend you a hand. In fact, I want to lend you a hand. It's not often I run into someone that seems mostly sane and stable in this shithole, and I'm sure you have quite the story. I could use some company. How about you?"
+
+Uva fell silent, but the Dreamtaker was immediately enthused. "Another Seeker!" she exclaimed. "Yes, yes, bring him closer into the fold! One of the Stranger's, but not loyal, not nearly. Hiding within the Fingerlings, devious, willing to play his own game. This one has colorful dreams, so colorful…"
+
+"We must be wary," the Starhawk countered. "This could be a trap."
+
+Uva was of a similar mind, but she was also of a mind of her own. Ultimately, the Umbral, who was quickly becoming something else altogether, said to her fellow Seeker, "I think we can talk, but under—"
+
+And suddenly, with a burst of Psychokinetic energy, he materialized right next to her within the confines of Starhawk's Perch.
+
+"Oh, please! Name them! Your terms, I mean." The Legendary-Tier Psychomancer’s cognitive projection sniffled. He quickly pulled out a long, thin cigarette and lit it with a flick of Pyromancy and stared down at her. "Name whatever you demand. I have plenty of time. It's not like I'm busy running a school or anything. And start by telling me how you managed to get an entire town lost in this place, because that is a feat for the ages.”

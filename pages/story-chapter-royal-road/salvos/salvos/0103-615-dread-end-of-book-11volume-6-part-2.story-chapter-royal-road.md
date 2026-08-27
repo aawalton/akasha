@@ -1,0 +1,131 @@
+---
+id: 25e4df97-2bff-59e5-953c-088615806fa2
+page-type-slug: story-chapter-royal-road
+title: "615. Dread (End of Book 11/Volume 6 Part 2)"
+slug: 0103-615-dread-end-of-book-11volume-6-part-2
+partOf: salvos
+position: 103
+ownLength: 1380
+unit: words
+publishedAt: 2023-10-24
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1384316/615-dread-end-of-book-11volume-6-part-2"
+royalRoadId: "1384316"
+---
+
+615. Dread (End of Book 11/Volume 6 Part 2)
+
+The Devil was gone. I didn’t know when he would return. Perhaps with the time dilation caused by the corruption, he could return in a day, or maybe he could return in a century. What happened next? I didn’t know.
+
+I couldn’t even predict it. But what I knew was that now I had finally accomplished what I had originally set out to do. It was so long ago— I had only been a Lesser Demon back then, and I had been dragged out of the Netherworld against my will.
+
+I found myself in the Mortal Realm, and I promised myself that I’d find a way back. I swore that I would return to my companion. That I would return to Haec.
+
+And I finally did.
+
+But before we could spend much time catching up, we were interrupted. First by the Beast, then by a bunch of the Demon King’s minions, and finally by the Devil. Now, however, all interruptions had been dealt with. And I could actually sit down and talk with my first ever companion.
+
+I walked up to Haec as he shifted back, standing before his friends. He swept his gaze over Taburas, Bertrugil, and Aemula, before looking back at me. He scratched the back of his head as he looked towards where my dad had been.
+
+And he asked in an uncertain voice.
+
+“...what do we do now?”
+
+It was a simple question. At least, to me, the answer was obvious. But to the four Archdemons standing there in the middle of my pocket space, they looked truly lost.
+
+So I just shrugged back at them.
+
+“Well, we do what we were going to do before— save your friends from the Demon King.”
+
+It was a simple answer. Which was the only appropriate answer to what was asked. However, Haec was taken aback by what was said. He blinked a few times, but it was Taburas who piped up.
+
+“But what about the end of the world?”
+
+She stared at me with wide eyes. I crossed my arms simply, meeting her gaze.
+
+“What about it?”
+
+I asked casually. In response, Bertrugil narrowed his eyes, frowning at me.
+
+“Shouldn’t we do something about it? Considering… well, I don’t know if you realize this, but we live in the world, so if it ends, we die too?”
+
+He spoke emphatically. And I sighed, shaking my head. I gave the same explanation to the four Archdemons that I gave Daniel and Edithe so long ago.
+
+“Do you really think there’s anything any of us here can do about the end of the world? Just think about it. It’s the end of the world. What can we even do about it as we are right now?”
+
+I wagged a finger at Bertrugil. He opened his mouth, then paused. He hesitated for a moment as I turned back to Haec. And I brought a clawed hand to my chest.
+
+“I went down to the Second Layer— it’s not fun. I barely even escaped with my life. Even if you all became Primeval Demons with me, and I went down there with you, we’d still all die very quickly. Trust me.”
+
+A long silence passed. Haec chewed his lower lip, clearly processing what I said. I wasn’t sure if the fact that the world was ending had even fully settled for him. Taburas looked to him for guidance, but she couldn’t find any help there. And Bertrugil was just rubbing his temples as he muttered about how we were all going to die.
+
+It was Aemula who was the first to finally speak up and agree with me.
+
+“I think Salvos is right.”
+
+The other three Archdemons turned to her. She shrank back— which was a funny sight, considering she was as big as Haec.
+
+“I mean— what can we even do about the end of the world right now? The Devil went to deal with it, and he’s very strong. If he can’t stop it, we can’t stop it. But if he can stop it, we’ll still have to deal with even more Deathsquad Hunters coming after us. So…”
+
+Aemula trailed off, and I nodded at her with a smile.
+
+“Exactly!”
+
+I snapped my fingers in agreement. I faced Haec. He bit his lower lip, and I walked up to him. I took his hand as I peered into his eyes.
+
+“So let’s do what we can, alright? And by that— I mean we should deal with that idiot Demon King first. After all, we’re finally back together again.”
+
+Haec stood there in silence for what felt like an eternity. Slowly, he nodded as he raised his head.
+
+“Right.”
+
+He whispered, before taking in a deep breath.
+
+“Let’s do that.”
+
+The world was changing. All across the Nexeus, gears were being turned. Salvos and Haec finally cemented themselves as enemies of the Demon King, while the Devil decided to return to his fallen kingdom. The end of the world was delayed for another day, and the Guardian of the Netherworld was reunited with his lover.
+
+In the Mortal Realm, Daniel Song sat alone in a room with a strange [Trader], and Edithe Dawnrise raised the alarm of a second possible invasion from the Demon King.
+
+The Humans and the Elves continued to wage their war.
+
+The Fairy Queen watched as her world was constructed.
+
+The Beast roamed the Netherworld, enraged by its encounter with [The Great Agarus].
+
+The Spirit Lord waited.
+
+And in Mavos Academy, Rachel wandered out of the campus-city. She trudged through a dense forest, stepping over the fallen branches, deviating away from the gravel path. Her brows were furrowed as she muttered to herself, searching for a scent that was so familiar to her.
+
+“It has to be here somewhere…”
+
+She paused for a brief moment when she encountered a strange hole in the ground. Like something had burrowed its way through the earth. But she just shrugged and continued past it.
+
+“That’s not it. It should be right— aha!”
+
+Rachel exclaimed as she uncovered a small cavern. A voice resounded in her head as she stepped into the dusty room, beaming from ear to ear.
+
+“I found it!”
+
+Now Entering [Lair: Cave of Companions]!
+
+She stepped foot into the small cavern, seeing the scattered books strewn around alongside the odd trinket or so decorating the walls. Rachel placed a hand on her hips as her gaze landed on a magic circle drawn on the ground in the center of the room.
+
+“Now… I wonder if there’s anything here I can use to find her…”
+
+As Rachel wondered aloud, a strange goblet filled with black water glinted in the back of the room.
+
+End of Salvos Book 11
+
+Author's Notes:
+
+Thanks for reading as always!
+
+There will be no public chapters for about three weeks as Patreon catches up on chapters. Which means I will be continuing to post on Patreon, meaning it is the best time to sub right now! MelasDelta | Writing Web Serials / Web Comics | Patreon
+
+This book was especially hard to write because I was quite demotivated while writing most of it. I am still quite burnt out on writing, considering that I have been writing non-stop for the last 3 years without taking even a single week off posting. But... I'm slowly recovering my energy, I think.
+
+I'm quite excited to write more about Salvos and Haec in Volume 7 Part 1, while also writing about what else goes on in the Mortal Realm. It's a hard balance for me to maintain. However, I have a plan in mind, and if I execute it well, it's gonna be so good.
+
+Just a quick reminder, the Salvos Kickstarter to get the first ever print edition of Salvos is now out! You can get a signed hardback or paperback edition of the novel if you support it right now! It's your only chance to get one, so be sure to back the kickstarter! Salvos Book 1: An Epic LitRPG Fantasy Novel by Merrick Books — Kickstarter
+
+Lastly, check out the Salvos comic here if you haven't already! Season 1 is about to end soon! Read Salvos (A Monster Evolution LitRPG) | Tapas Web Comics

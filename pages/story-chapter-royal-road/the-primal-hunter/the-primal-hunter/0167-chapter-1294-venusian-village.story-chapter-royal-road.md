@@ -1,0 +1,151 @@
+---
+id: 5a1692df-ff05-5368-8451-bd9719b82fab
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1294 - Venusian Village"
+slug: 0167-chapter-1294-venusian-village
+partOf: the-primal-hunter
+position: 167
+ownLength: 3138
+unit: words
+publishedAt: 2026-04-15
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3277199/chapter-1294-venusian-village"
+royalRoadId: "3277199"
+---
+
+Jake, like most reasonable people, believed that words had meanings and definitions. So, when he heard someone talk about a village, he had an expectation of what it would look like.
+
+Admittedly, his opinion was probably also colored by the fact that he was dealing with a semi-tribalistic frog people. Again, perhaps it was wrong of him, but when the Shaman had first mentioned the village, he had envisioned a small and quaint place inhabited by perhaps a few hundred frog-people.
+
+Yeah, that definitely wasn’t the case.
+
+What Jake saw when he went above that hill was a vast valley stretching before him, filled with what looked like semi-permanent structures of many different sorts. There were tens of thousands of huts, at least a thousand large yurts, and far more smaller tent-like structures. There had to be at least a few hundred thousand people living there, and that was a conservative estimate.
+
+Most impressive was what sat at the very bottom of the valley. There, Jake saw a lake with a large wooden temple-like structure on pilings sitting in the middle of a vast lake that had several dozen floating walkways leading toward it. The entire lake had to be at least five kilometers in diameter, with the temple about eighty or ninety meters in width and a solid quarter of a kilometer tall, ending in a tower.
+
+Nestled around the lake’s edge were lush patches of reeds and water lilies, their vivid greens and soft whites contrasting with the black, cold water. The otherwise toxic atmosphere seemed to carry an air of activity, as he saw frogs wandering around everywhere, with especially many gathered around the lake.
+
+Throughout this village, narrow, winding paths snaked through the tents and huts, marked by colourful banners and woven mats that hinted at local traditions. It was evident these frogs had a long cultural history, and perhaps due to the toxic air and hostile environment not being very conducive to flowers and whatnot, anything with color appeared valuable and rare.
+
+The village was also decidedly inhuman. The structures were clearly constructed for the far larger Venusians, making everything comically sized by human standards. He was also surprised at just how different these frogs all seemed from one another.
+
+While objects of color were rare, the same couldn’t be said about the appearance of these frogs. Their skin ranged in hues from vibrant emerald to a dusky, almost iridescent blue-green, many of them with decorative patterns on their skin that Jake couldn’t quite place whether they were natural or not. There was generally a mix between big and bulky frogs and the lithe ones, with the thinner of the two often seen with elaborate headdresses made of woven reeds and parts of hunted foes, probably serving as trophies more than anything, seeing as monsters couldn’t actually get benefits from equipment.
+
+Looking to the side at the Shaman, he also seemed to notice only now how expressive these creatures actually looked. Their eyes were wide and golden, filled with intelligence, and their faces definitely had far more muscles to display emotion than regular frogs. Their webbed hands were also surprisingly dexterous, as when he looked back at the village, he saw many there going about their tasks, knitting nets, carrying items around, or skillfully working on more buildings to fill the village, which seemed to be actively expanding.
+
+“Welcome to our humble home,” the Shaman said after giving Jake ample time to observe the village. “The Oracle resides atop the Life Pool, assuring the safety of the young and blessing them with her presence, ensuring their growth into healthy adults.”
+
+“Life Pool?” Jake asked, raising an eyebrow. He had already expected there to be something different about that central pool, seeing as a powerful magical barrier covered it, not allowing him to feel anything going on inside.
+
+“The birthplace of all Venusians,” the Shaman answered. “Eggs are laid in the Life Pool, and when the time is right, they hatch and become tadpoles, living inside the Life Pool until they mature enough to emerge, marking the start of a new generation.”
+
+“It happens in cycles?” Jake asked with genuine curiosity.
+
+“Indeed, it is so,” the Shaman gladly confirmed, seemingly enjoying sharing such details about his race. Perhaps because he found all this common knowledge, he saw no need to hide anything or to fear revealing too much. “There is no set time for how long each cycle is, but usually, it takes about a decade from hatching to emergence.”
+
+Jake nodded as he continued looking around the village for a bit longer. The Shaman gave him a bit more time before motioning for his attention.
+
+“We should enter. While I do not doubt we are all capable of handling the outside world like this, the village remains more comfortable,” the Shaman said, slowly floating forward.
+
+Following along, Jake and the other five frogs passed through a massive invisible barrier that covered the entire village. It offered no resistance or even seemed to have a detection feature, but Jake noticed its effects immediately upon entering.
+
+On the inside, the atmosphere had instantly become a lot less hostile. Visibility also increased a lot, and perhaps most noticeably was the nature of the mana filling the air. While it was definitely still toxic, it felt a lot purer now. Refined. The barrier appeared to serve as an energy-absorbing and refining tool, transforming energy into a form more beneficial to these frogs, likely also helping their growth by simply living in there. At least this being the case explained why Jake only felt the auras of C-grades and above coming from the village, though it was probably also because these frogs only evolved from tadpoles upon reaching C-grade.
+
+“The village barrier was constructed by the Head Shaman. Our village has three leaders: the Head Shaman, the Village Chief, and the Oracle, with the Oracle considered above the other two. The Village Chief primarily oversees village affairs and day-to-day matters, while also leading the warriors in the event of a large conflict. The Head Shaman leads us shamans, communicates with the sacred spirits, and harnesses the powers of the world. Finally, the Oracle is our connection to the Ancestral Village and the one guiding us towards the future.”
+
+Jake nodded along, once more finding himself surprised at just how organized and civilized this place seemed. These frogs had to be on the cusp of becoming an enlightened species, right? They were so damn close it was scary. Sure, they wouldn’t become like humans with both a class and profession, but could definitely be more akin to most beastkin or scalekin with just one of those. From Jake’s point of view, they were practically already there.
+
+Then again, perhaps there was some reason they weren’t. Maybe they had too many monster traits for an evolutionary Path leading away from that to make sense. Admittedly, Jake also wasn’t entirely certain how a race took the leap from monster to enlightened, and at this point, he was honestly starting to question the meaning of that name, as these frogs struck him as very enlightened.
+
+“Please stick by me as we enter; that way, we can avoid any misunderstandings,” the Shaman said as he proceeded to lead Jake down to the village border. They landed as the Shaman explained that flying in the village was generally frowned upon, and instead motioned for Jake to walk with them.
+
+He considered for a moment to dispel his scales, but decided to keep them up. Due to the environment, he could keep them active in perpetuity; the constant assault of the poisonous atmosphere resulted in his Palate refining plenty of toxins at all times to make up for the mana upkeep. He did dismiss his wings, though, as they could get a bit awkward when walking through the village.
+
+“As I mentioned before, we were all born here, and while I hope to go in the future, none of us have yet been to the Ancestral Village, though we have visited several other villages in our region,” the Shaman explained as they walked through the village to the curious gazes of the many frogs.
+
+Jake definitely caught a lot of attention, standing out like a small sore thumb. None of them bothered them, though, likely because Jake walked side-by-side with the Shaman while the other frogs in the party were just behind, looking like an armed escort, making their entire walk look very official.
+
+As they walked, Jake also tried doing something he hadn’t really done before. Focusing, he attempted to deactivate his Myriad Tongues to actually, truly, hear what these frogs sounded like. It took a bit of effort before he finally heard the words fade away, replaced by how the village truly sounded. Something he didn’t regret at all.
+
+The village was full of sounds that sounded foreign, yet familiar. There was a musicality to the way they communicated. He heard throaty croaks interwoven with whistle-like sounds and almost word-adjacent noises, each tone seeming to have a specific meaning that Jake naturally had no way to tell without his Myriad Tongues skill.
+
+Hearing this decidedly foreign language, he couldn’t even compare it to any language he’d ever heard before. Jake couldn’t help but consider what he sounded like to them. When he spoke using Myriad Tongues, did he sound like they did? If so, that was both comical and a little unsettling. He already knew that the power of system-fuckery was omnipotent, but still, the mere fact that no one questioned mouth movement or anything like that...
+
+Not wanting to fry his brain unnecessarily, Jake focused and turned Myriad Tongues back on, replacing the frog noises with words as the village chatter returned. He tried not to listen in on anything specific, but he heard a lot of interesting tidbits, giving him more insight into the village.
+
+The Shaman also introduced the areas they passed through and gave him the history of the village. Jake learned that one reason their homes didn’t look like more permanent installations was a phenomenon known as the Corrosive Tide. Apparently, once in a while, a wave of extremely toxic energy would simply pass through, destroying everything in its path, including the village itself. During these tides, the villagers would all enter the central barrier around the temple, keeping them safe, but at the cost of all the buildings.
+
+Fortunately, these Corrosive Tides seemed to only happen about every decade or two, and it had been just three years since the last one. Or maybe it was unfortunate, as Jake kind of wanted to see one, but on the other hand, it had to suck having your entire village wiped out once in a while by a natural disaster.
+
+“How powerful are these Corrosive Tides?” Jake asked. “And why do they happen in the first place?”
+
+The Shaman, who had mentioned the tides in a casual manner, seemed incredibly surprised at Jake’s question as he tilted his head. “You do not have tides where you hail from?”
+
+“No, we don’t,” Jake shook his head. “Though we do have our fair share of natural disasters.”
+
+Jake knew of several such phenomena in the outside world that could prove absolutely devastating, wiping out entire galaxies every day across the multiverse. Even on a smaller scale, meteors or solar flares could easily destroy a planet or two here and there if unlucky, which was one of the reasons having someone like Arnold setting up shop on the moon was a good idea. No way that dude would let something silly like the sun harm his moon base.
+
+“Intriguing,” the Shaman nodded. “As for the power of these Corrosive Tides, I am not entirely certain. They vary in power from how I understand them, but the last one that passed through here was dangerous enough to slay me should I dare stand in its way. Without the protection of our leaders, many, if not all, of us would have died.”
+
+Okay, yeah, that sounded scary. Maybe trying to find a Corrosive Tide wasn’t advisable... though a part of him kind of still wanted to.
+
+“Regarding their origin, I couldn’t tell you. In fact, I don’t believe anyone can,” the Shaman shook his head. “As many others, I asked the Oracle once, learning that even the Ancestral Village didn’t know. However, we do know where they start from. They are released from the ocean.”
+
+“The ocean, huh,” Jake nodded, asking the most relevant follow-up: “Where is this ocean?”
+
+So far, all Jake had seen were giant ocean-sized lakes, but he knew they couldn’t be it. They had passed several on the way to the village, but not one of them had an aura worthy of releasing this Corrosive Tide that the Shaman had described.
+
+Once more, the Shaman threw him a confounded look before shaking his head. “I’m finding myself truly perplexed as to your origins. The ocean is what lies beneath all of existence and is both the harbinger of life and death of the world. Simply fly downwards, and you will come across it in due time. Not that I would recommend you to do so, those like us shouldn’t approach that place.”
+
+“Alright,” Jake answered, now even more curious to pay a visit. Definitely not a good trait. Whenever someone told Jake that he shouldn’t go somewhere, he got an intense need to do so anyway.
+
+The Shaman looked at Jake for a few more seconds as if to evaluate what kind of odd and ignorant creature he was, but eventually, the frog returned to looking ahead. “Come, the Oracle already knows you’re here.”
+
+This definitely caught Jake’s attention, as he hadn’t felt anything out of the ordinary scanning him. Admittedly, due to how many were curiously staring at him, it was a little hard to tell, but Jake still reckoned he should have noticed. Not even using his Bloodline necessarily, though he was starting to think he was underestimating the Venusians in more areas than just culture.
+
+As they drew closer to the lake in the center of the valley, Jake felt more and more powerful auras to the level that he was actively on guard at all times. He hadn’t expected the Shaman, Virumancer, and three Warriors he’d initially met to be the peak of power of the Venusian people, but he’d still expected them to be at least in the upper echelons. That was now beginning to seem doubtful.
+
+While there were many C-grades, there were even more B-grades. Very soon, Jake started seeing ones that were closing in on level 400, and not even a minute later, he felt a decently powerful aura that made him instinctively use Identify. It was a frog working on creating some article of clothing using the hide of a monster, just doing their everyday work.
+
+[Venusian Artisan – lvl 411]
+
+While Jake was confident in still taking down the frog, especially as it was a crafter, he felt from the many auras up ahead that this was only the beginning. As they progressed through the winding streets, the lake grew closer, the tents larger and more elaborate, with more colorful decorations.
+
+Ahead, standing on a balcony of sorts, talking to another Venusian down below was one of the thin variants, giving off a particularly powerful aura that once more made Jake use Identify.
+
+[Venusian Mistcaller – lvl 465]
+
+It didn’t get better when Jake also identified the one the Mistcaller was talking to.
+
+[Venusian Artisan – lvl 467]
+
+At this kind of level... yeah, Jake wasn’t going to try to fight any of them even if he could. It would be way too risky.
+
+In truth, Jake was beginning to feel a little nervous as he kept following the Shaman. He was surrounded by creatures, each likely capable of killing him on their own. There were hundreds of Venusians surpassing level 450, and to make matters more perilous, this was a Minor World with no connection to the rest of the multiverse.
+
+He knew there were certain norms and “rules” in the multiverse that all the large factions abided by. That most certainly wasn’t true here. What’s more, his status as the Chosen of the Malefic Viper meant jack-shit in a place like this, which likely didn’t even know about gods.
+
+All Jake could do was stay calm and maybe lean a bit more into representing some greater force. He kind of was, but that didn’t at all mean the Venusians couldn’t turn hostile very quickly if Jake did or said the wrong thing.
+
+The rest of the journey was mostly silent, with only the Shaman occasionally greeting the other far more powerful B-grades. From that, Jake at least got the impression that his escort was of relatively high status. Actually, thinking about it, while Jake had seen a lot of powerful Venusians, he still had only seen one Shaman. Worth noting.
+
+Finally, after what felt like far too long, they reached one of the walkways leading towards the central temple. There, Jake saw a large warrior standing with the first weapon he’d ever seen that seemed to be made out of metal. It was a halberd, and while it looked crude, it gave off a noticeable aura. One that its wielder was certainly more than powerful enough to make use of.
+
+[Venusian Warrior – lvl 488]
+
+“Hey, you back already?” the Warrior asked in a tone that sounded a lot less refined than the Shaman. “And who’s that?”
+
+The Warrior stared at Jake, giving off a subtle pressure that nearly activated Big Game Hunter in preparation for a fight.
+
+“A guest for the Oracle,” the Shaman said in a rather harsh tone. “On invitation.”
+
+Hearing this, the Warrior immediately backed down and nodded solemnly before somehow speaking like the most cultured frog to have ever walked this Minor World. “Pardon me, please proceed inside with utmost haste.”
+
+“We shall,” the Shaman acknowledged, motioning for Jake to follow into the temple.
+
+When they reached the door, Jake noticed something was up with it right away. Rather than a traditional door, it was inscribed with powerful magic, and his increased sensitivity allowed him to pick up remnants of the space affinity. Jake guessed that this doorway was effectively a portal, a guess confirmed a moment later when the door swung open, revealing a giant circular room full of colorful decorations and painted walls. However, Jake didn’t have the capacity to pay attention to any of that.
+
+Instead, he stared at the singular Venusian sitting on a bed in the middle, already looking back at Jake as he was assaulted with a powerful aura that made the hair on the back of his neck stand up.
+
+[Venusian Oracle – lvl ???]
+
+A-grade.

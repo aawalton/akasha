@@ -1,0 +1,309 @@
+---
+id: 703d6a9c-ba90-5706-a86f-3daa9fa3b560
+page-type-slug: story-chapter-royal-road
+title: "246 A Reprieve"
+slug: 0205-246-a-reprieve
+partOf: the-new-world
+position: 205
+ownLength: 3647
+unit: words
+ownProgress: 3647
+publishedAt: 2020-02-01
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/452382/246-a-reprieve"
+royalRoadId: "452382"
+markedReadAt: "2026-06-29T21:27:59.693Z"
+---
+
+I replied,
+
+Daniel Hillside(lvl 10,750 | Titles: Harbinger of Cataclysm, Dimension C-138, The Living Multiverse, The Cleanser of Polydra | Guild Owner: The Harbinger's Legion| S- |) - Come on man, you don't have to be all uppity. If you're acting this polite, your ass must be on the line for me to meet up with the Emperor. Just consider this a favor for now. We can meet in my first city. You can ask Caprika for the info for where that is.
+
+Within seconds, I got a reply,
+
+Helios Nova, Ruler of Worlds(lvl 15,000 | Guild: The Empire | Ownership: Belka-623(planet), Meliton(planet) | Class: Fringe Walker | Titles: Winter's Wrath, Cold of the Void) - Of course. May we meet in three hour's time?
+
+I sent back a 'sure.' I pushed myself back up as a cackling ebbed in from the other room. No doubt Torix got a message with something similar in it. Considering Helios's disdain for us before, this new attitude was more than just a little bit satisfying. That was doubly the case with Torix.
+
+The sound of footsteps on stone ebbed into my room before Torix leaned in,
+
+"I'm assuming you received a similar message, no doubt?"
+
+I nodded. Torix walked back and forth as he snickered, "This is quite the boon. Having that twat suffer for his treatment of us is oh so very satisfying."
+
+I shrugged, "I mean, yeah, yeah it is. We can't let it get to our heads, though."
+
+Torix waved a hand, "I allowed Spear and Krog to do without the sting of humiliation. Allow me this relishing, however."
+
+"Ok, ok. It's pretty damn nice seeing this attitude shift from Helios."
+
+Torix and I cackled for a moment before the lich coughed into a hand, "Ahem, now that we've cherished this victory, perhaps a plan moving forward is in order? I'm rather concerned with meeting the Emperor considering the scope of his resources."
+
+I frowned, "I don't know what to do exactly. I know the Emperor will be strong, and whoever it is will know a lot more about the universe than us. If anything, I'm hoping to listen to the guy a lot instead of talking a bunch."
+
+"Perhaps having a few questions in order would suit us well?"
+
+I cupped my chin, "Alright, what about...Why did you want an empire?"
+
+Torix waved a hand, "Blagh, that reason is obvious. He simply desired influence and power."
+
+"I don't know. There might be more to it."
+
+"We'll ask the question then, though I doubt he'll add much in the way of depth to my assumption. I wonder if he may describe Helios's mana management stratagems. Considering the volumes of mana he operates with, we may use the same techniques to tremendous effect."
+
+I waved my hand back and forth, "Doubtful. Converting that much mana requires one hell of a sense for mana. Considering he does so in realtime, Helios must have a next-level mana control ability."
+
+"Well, that's rather disappointing. At least we own a limitless mana supply here."
+
+I shook my head, "For now, I say we talk to Helios about what we should say and ask. He knows our circumstances and can help us out."
+
+"Then I'll trust your judgment. I've several appointments with our new gialgathenic citizens. They're rather resistant to the lifestyle here. It's rather disappointing."
+
+I frowned, "It makes sense because Schema's world is a brutal one. We aren't offering the gialgathens some utopian world. If anything, it's a pretty steep downgrade in lifestyle compared with before."
+
+Torix shrugged, "It is the inevitability of the eldritch, I'm afraid. Everyone must be a warrior to some extent. Those that falter die."
+
+"Yeah, it's pretty shitty, but there's nothing we can do about. Anyways, let's get everything situated before we need to head out to see Helios."
+
+"Of course." Torix scratched the side of his metal cheekbone, "I...I also wanted to thank you for your trust in me. That enabled me to succeed as I did. I couldn't have asked for a better disciple...So thank you."
+
+I gave him a grin, "It was your time to shine. I could just tell."
+
+"Then, I will go handle the logistics involved. Goodbye."
+
+Torix left as I peered off into the distance. It was interesting seeing the new system goers. The resentment for Schema saturated a lot of the older gialgathens. Even the younger ones made it look like being drafted into military service. In a lot of ways, though, that's exactly what it was; fight monsters or die.
+
+It reminded me of a few of the Adair Family's goals. Right now, I just accepted the deaths against the eldritch as a cold, hard reality. In many ways, they were offering a way to eliminate that entirely. Having a psionically controlled Hybrid fight in my place, man, I had to admit that would be pretty nice.
+
+Of course, they were demons that needed to be put down, but I empathized with them more now. We'd lost over a fifth of the rescued gialgathens to the silvers and eldritch. Just as well, not everyone was built to fight. In this kind of environment, we didn't have other options, yet it still irked me a bit. I was choosing a choice I had to choose instead of making a better one.
+
+In a way, I was complacent. That bothered me.
+
+I shook those feelings off. As strong as I was, I couldn't stop the eldritch from spawning. Calling my current lifestyle busy was also an understatement. That was a problem for another day. With all that in mind, I pulled out some more molten metal from my dimensional storage. Three hours was just enough time to finish some more reinforced clothing for Kessiah.
+
+Getting to work, I created several hundred strings of molten metal. After talking with Torix for a minute, I got some white, stored polymers from the guy. With some pretty meh sewing skills, I crafted a bodysuit to Kessiah's proportions. It was meant to lay under her clothing. Asking for her measurements sounded awkward no matter what, but I didn't need to anymore. My eyesight and depth perception exceeded the norm, allowing me to eyeball the specifics without worrying.
+
+Armed with those abilities, I traced the metal wires through her new bodysuit. With supernatural, telekinetic precision, I weaved them into the polymer fabrics. This time-consuming process took up the majority of my time. Once entirely made, I melted a few of the polymers together.
+
+With the ball of melted plastic, I created reinforcing plates over the bodysuit. I bolstered the sheaths with more wires of dimensional fabric. This gave them longevity, and it made the plates stiffer. Once created, I etched in elemental runes for regeneration.
+
+This process took very little time. My heated telekinetic points made carving into meltable materials a breeze. Otherwise, the process took a ton of time. I didn't need to stress about it, so I just enjoyed the simple work. After finishing the set of runes, I brainstormed a few other augmentations.
+
+These were relatively simple, so I created a few gemstones of quintessence mana as I did. These weren't the hulking, lumbering stones I made before. Instead, I kept them small and targeted. This produced far more solid stonework. The reason for all that was simple. Having them blow up would kill Kessiah, and that wasn't exactly ideal.
+
+I placed these stones across a few of the plates. I kept the intention behind them loose, letting Kessiah work the mana in how she wanted to. Most likely, that meant making more of her own blood, but I didn't want to limit her. You never know when someone might need more utility after all.
+
+Once completed, I decided to show some ambition with this work. With the hour I had left, I created a series of crisscrossing mana wires. These were simply thickened strands of my armor hidden under the white plastic. They acted as a framework for what was to come.
+
+Injecting a bit of intent into the wires, connected them to the gemstones. Once finished, they created an artificial aura similar to the Rise of Eden. While minuscule by comparison, it still helped the user by a bit. It gave the armor a white, unearthly aura.
+
+This gave me a power outlet for adding certain utilities. The first one involved antigravitational foot placements, which let the user float and bounce off their heels. I created the opposite onto the knuckles of the hands. If the user so wanted, gravity spiked over their hands. This pulled their enemies to their fists and their fists to the enemies.
+
+It had other uses, I'm sure, but I'd leave that up to Kessiah to think up. I sat back from the armor, keeping it afloat using a gravity well. Thinking about it more, Kessiah's arms would definitely break if she used the gravity enhancers. I created a few thin sheets of armor to reinforce her arms. They acted as hidden gauntlets, preventing her bones from collapsing.
+
+This gave her a few charges of a gravitational strike on command. Considering she worked around the Hybrids, this was enough to turn a few of them into jelly. With that finished, I had a few minutes before our meeting with Helios.
+
+I picked up the suit and sent a message to Kessiah, asking where she was. After getting her coordinates, I walked over towards her location. Within the shaman's healing center, Kessiah worked beside the other healers. They kept our people healthy, letting them fight much more than otherwise possible.
+
+Quite a few of the wounded were from fighting silvers and dungeons, not even the battle against the Hybrids. I took note of that as I stepped up. Kessiah glanced up at me, giving me a salute,
+
+"Good to see ya."
+
+I pulled up the white bodysuit, showing it to her, "I made this. It's meant to go under your gear. Use it wisely."
+
+As she stood up, I tossed it to her. She almost fell backward, stumbling a few steps back. I winced as she held her breath to stabilize her core. Kessiah lifted it up, "How in the hell did you get plastic armor to be heavier than steel plate mail?"
+
+I facepalmed, "I'm an idiot. I traced wires of my armor through that. It made it much heavier than I thought. Sorry."
+
+She lifted it up with a bit of strain, "Eh, it's alright. I'm not about to complain about it...I did expect it to be black, not white. That seems to be your general fashion."
+
+I frowned, "What? That's just the color of my armor. I can't help that it's the most practical material I have to work with."
+
+One of the healers stared at me, her helmet off. She stood up, wearing combat fatigues. Having blue skin and fins across her face, she reminded me of an espen. As she spoke, I recognized her. She was the sociable one from before,
+
+"You use your own armor to make equipment? How do you have any left?"
+
+I grabbed a portion of my forearm, ripping a piece of the fabric off. The healer cringed at the sight before I lifted it with gravity. After melting it, I stored the substance in my dimensional storage. By the time I did, my forearm was good as new.
+
+"That's how. It's my skin."
+
+The healer stared at me then back to Kessiah, "You use your skin to make equipment."
+
+I stared up for a minute, giving it some thought. Yup, she was right. I did use my skin for armor.
+
+"I mean...yeah. I do."
+
+The healer gasped, "Doesn't that, like, break the laws of matter conservation?"
+
+I rolled my eyes, "Oh come on, that's what you find weird about that?"
+
+"Uh, yeah."
+
+Kessiah leaned onto the healer's shoulders, "Look, Nora, I told you before, don't question the commander's actions. He's a pragmatist to a fault, and so far, it's worked out pretty good for the guy."
+
+Nora looked overwhelmed as she murmured, "And you made it float. Then heated it. And stored it in dimensional storage? But the storage doesn't let you store organics...I'm so confused."
+
+I shrugged, "I wish I had time to explain, but I don't. I have to head out. Hope you like the new bodysuit."
+
+Kessiah stared at it, "Well...Yeah, it's amazing, if a bit heavy."
+
+I shook my head, "Don't worry about it. You'll be strong enough to wear it once you're wearing it."
+
+She stared at it, analyzing the suit. I did the same.
+
+The Hemonic Equalizer(lvl requirement: 5,000) - This suit of armor is designed with blood production in mind. As if designed by a thirsty vampire, it specializes in hemonic production. If cut, the wielder will pour fountains of blood and not so much as flinch in the face of it.
+
+The reinforcing web of metal under the plastic gives it a tremendous reinforcing substructure. This provides the suit with a far greater tensile strength than even high order power armors. Combine that with the mana framework, and the suit carries a replaceable power source of several million units of mana.
+
+Combine that with the gravitation augments, and this is a tremendously rare and tailor-made bodysuit. If in need of blood and survivability, the Hemonic Equalizer is unrivaled.
+
+Doubles effective blood volume
+
+Doubles efficiency of blood sacrifice
+
++50,000 Maximum Health, +50,000 Maximum Mana,  +50,000 Maximum Stamina, + 10,000 health regen(per min), 10,000 mana regen(per min), 10,000 stamina regen(per min)
+
++ 1,000% physical damage, +5% to total damage, + 1000 pounds of mass(453 Kilograms), + 1% to damage resistance cap, +10% to potency of quintessence mana, Innate Mana Shield (1,000,000/1,000,000)
+
++25% to blood production
+
++10% to pain resistance
+
++500 to Endurance and Willpower
+
++300 to Constitution, Strength, and Intelligence
+
++200 to all other stats
+
+I scratched the back of my head, "Well...maybe it won't make you strong enough. I was expecting a bit more if I'm honest."
+
+Kessiah fell backward. She gasped, "What is this armor?"
+
+I glanced away, a bit of shame welling up, "Look, I only had three hours to make this. I get it's not-"
+
+"Three hours? You made this since the battle?"
+
+"Well, yeah."
+
+Nora peered at the armor then back up to me. I might as well have been an Old One standing before her,
+
+"This is the most powerful equipment I've ever seen...Ever."
+
+I scoffed, "Well then you're in for a surprise when you see Torix. I made that body of his."
+
+Nora flatlined, "No wonder the Overseer said you guys were some of the best Schema had. I'm...I'm going to get back to healing. It's better if I just stay in my lane after all."
+
+I pointed at the Hemonic Equalizer, "I can make something like this for you guys too. You just have to perform."
+
+Nora turned to me, the fins on the side of her face wiggling, "Really?"
+
+I nodded. I turned and began walking off, "Yes. Really."
+
+Pacing off, Nora whispered to Kessiah, "He makes artifact level gear for just this?"
+
+Kessiah shook her head, "Yup."
+
+Man, I didn't know what I did was this unusual. In fact, I didn't know much about the average person in Schema's system. The system was so vast that maybe knowing the average was impossible, but I could get a better general idea, at least. I put that in the back of my mind before pulling myself over towards the center of Elderfire.
+
+Surrounded by Schema's workers, I found Torix waiting for me. The lich raised a hand, "Perhaps leaving a planet owner waiting isn't the best of ideas?"
+
+I grinned, "Eh, he'll be just fine."
+
+Torix turned towards the warp, "Let's not leave that up to chance. Let's be off, shall we?"
+
+"Of course."
+
+We stepped through one of the warps, already primed for us to teleport. Walking through the cloud of ionized mist, we stepped out onto the second floor of Mt. Verner. The machines and technical work whirred around us as industry boomed.
+
+Seeing the fruit of our labors coming to fruition was nice. At the edge of the shooting range, a group of unusual people talked. Hod, Althea, and Amara chatted with Helios of all people. Althea looked beautiful if a bit wartorn. She and I locked eyes, and I murmured,
+
+"Hey beautiful."
+
+Reading my lips, she peered away, blushing with a sheepish grin. As Torix and I stepped up, Hod spread his wings,
+
+"Hod think fluffy man like dry man. Fluffy man should not let Hod words overwhelm him." Hod cupped his chin, nodding with absolute confidence,
+
+"Hod understand if Hod smartness too much for fluffy man."
+
+Helios stood there, facepalming his mask. Althea covered her mouth, forcing her bouts of laughter down. Every now and again, a snicker would come out. Even Amara looked amused, a telltale grin tracing her eyeless face. The hacking eldritch tilted her head to Helios, peering through the slitted eyes on her palms,
+
+"Is Hod overwhelming this wolf, perhaps? You should sharpen your teeth to those that hold different views to your own. Otherwise, this wolf will be left without fangs."
+
+Althea just held back even more laughter. As I walked up, I patted Helios's back, giving him a slight shake,
+
+"Ah, I see you met Hod. He's just a blast, isn't he?"
+
+Helios kept facepalming before I bust out laughing. I laughed a lot harder than I ever expected to. Althea laughed with me, even Torix and Amara joining in. Helios lifted his head, his black mask covering his face,
+
+"In a way, associating yourself with such people is fitting. It's precisely what I expected."
+
+Torix turned a palm to Hod, "Over time, you'll adjust to-"
+
+Hod snapped out his words, "Is that dry man?"
+
+The entire group glanced at Torix. Even Helios gave him a good look over. Torix covered his mouth, "Ahem, it is I, Torix. What of it?"
+
+Hod put his winged arms onto his hips, "Hod must admit, Hod impressed. Dry man no longer dry. Dry man actually like wrathful lich now instead of just saying dry man like wrathful lich. Hod approve."
+
+Despite the compliment still being backhanded, Torix waved a hand, trying to find a way of taking the commendation,
+
+"Well, ahem, this much is to be expected of me. Now, let us move onto more fruitful discussions, such as our meeting with the Emperor."
+
+Helios seemed visibly shaken by Torix's transformation. The world ruler turned his head towards me, "Did you craft this body out of your own skin?"
+
+I nodded, "Yeah. Took a few days."
+
+Helios stepped up to Torix, "You mentioned this lich being your master. A disciple that's willing to give his blood and flesh for the good of his master...Nothing more could be asked of him, could it?"
+
+Torix stared at me with pride, "This only a mere fragment of his goodwill. It is I who chose him, after all."
+
+Helios gestured a hand to Torix's arm, "Would you mind if I inspected this closer for a moment?"
+
+Torix glanced at me, and I gave him a thumbs up. Torix raised his arm, and Helios glanced at it then back to me, "This is artifact level work. You've never mentioned being this skilled a craftsman."
+
+"I'd rather my work speak for itself."
+
+"Understandable. Actions speak louder than words." Helios turned towards our group as he let Torix's arm go. He gave us a slow nod,
+
+"I've long wondered why Schema had the nerve to grant your guild an S- ranking. Now that I've seen it in person, along with the ingenuity of humans, it seems far more justified. I am impressed, and perhaps even the Emperor will be as well. Are each of you ready to meet him?"
+
+Torix and I nodded. Althea phased off of our plane while whispering,
+
+"Uh, no."
+
+Gone without a trace, Helios peered around,
+
+"She dissipated, hm?"
+
+The situation reminded me of when he encapsulated Althea in ice back on Giess. With a bit more spite than I intended, I made a finger pistol pointed at his head,
+
+"Yup. She could fire a spear right between your eyes if she wanted to. Considering her bolts could pierce me, I doubt you'd survive, but hey, who knows. Maybe keep that in mind next time you want to cover someone in ice though?"
+
+The room's mood shifted in an instant, hostility lingering in the air. I glared at the Fringe Walker as his neck twitched a bit. After the slight shiver, Helios stayed composed. He murmured through clenched teeth,
+
+"I...I shall do so, Harbinger. It is a mistake I will not make again."
+
+I frowned at him as I seethed,
+
+"Yeah, probably a good idea."
+
+A phatasmal hand gripped mine. It was an odd sensation, but I knew it was Althea. I held her hand as a tense silence passed over us. Breaking the ice, Amara turned to Hod, who stood there with his scrawny chest puffed out. With his winged arms on his hips, the eltari puffed his chest out even more as he announced,
+
+"Amara and I dating. Amara not accept yet, but Hod believe. Hod always believe."
+
+Amara turned back to Helios, "...I am not ready to see the Emperor."
+
+Helios cupped his jaw, peering at me, "Perhaps visiting him would be preferred?"
+
+I shrugged, "Doesn't matter to me."
+
+Helios waved his arm,
+
+"Then we shall meet him upon Vivaria. He's deep within an enormous dungeon there known as Gargantua. He's searching for relics of a bygone era. Do both of you find that interesting? If so, I may warp us there at this very moment."
+
+Torix turned to me, "He's piqued my personal interest."
+
+"Yeah, sounds cool. Let's go."
+
+Helios took a step into the portal,
+
+"Then let us go. Obolis is waiting."

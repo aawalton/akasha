@@ -1,0 +1,265 @@
+---
+id: 90dfd7f0-c4a8-5520-bcaa-a92d63c7bbf6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 698 - Morning Surprises"
+slug: 0699-chapter-698-morning-surprises
+partOf: mythrans-master-of-all-continued-completed
+position: 699
+ownLength: 2922
+unit: words
+publishedAt: 2018-09-12
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/289607/chapter-698-morning-surprises"
+royalRoadId: "289607"
+---
+
+Ren slept like a log all through the night until morning. Surprisingly, he hadn't sleep-groped either woman that was in bed with him. His hands were still in the same spots where they had been on their thighs when he fell asleep. He didn't try to wake either of them, though. All he did was close his eyes and bask in their warm embraces. Ren hadn't realized he had drifted back to sleep until a hand touched his face and a gentle voice spoke.
+
+“Ren, I'm sorry to wake you, but you need to eat.” Stella whispered.
+
+“Hm? Wake me?” Ren whispered and opened his eyes. “I was already awake.”
+
+“It didn't seem like it.” Stella responded with a smile.
+
+“I didn't want to move because being held by Elise and Lisa felt so nice.” Ren whispered. “This non-cuddling cuddling isn't half-bad.”
+
+Stella chuckled.
+
+“It has the benefit of working, at least.” Elise whispered, and Ren turned his head to look at her.
+
+“You're awake.”
+
+“I am now.” Elise said. “Stella, what time is it?”
+
+“Almost 8 am.”
+
+“Damn, I forgot to set the alarm.” Elise said. “Ren, I need to go.”
+
+“Parting is such sweet sorrow.” Ren said and pretended to kiss her breast through her t-shirt.
+
+Elise chuckled and looked at Stella. “Take his weight, will you?”
+
+Stella nodded and leaned over Lisa to brace Ren's head and shoulders so Elise could slide out without his head flopping down onto the bed. She tucked a pillow in her place and Stella eased Ren down onto it.
+
+“Ooo, that's cold.” Ren said.
+
+“That's because pillows don't normally generate body heat.” Stella said and stood up straight.
+
+“I want to grab a quick shower.” Elise said. “Ren, do you need the bathroom before I go in?”
+
+“No, it's all yours.”
+
+Elise leaned in and gave him a kiss, then quickly walked over to the bathroom and shut the door.
+
+“I hope she's not too far behind in her work.” Ren said. “Staying in bed was kind of worth it, though.”
+
+Stella nodded and looked at Lisa. “Are you going to stop pretending sometime soon?”
+
+“No.” Lisa said without opening her eyes. “I'm still sound asleep and I'm holding onto the man I love for as long as I can... and for as long as he'll let me.”
+
+“Forever is a long time, you know.” Ren said and she opened her eyes to look at him.
+
+“You mean it?” Lisa asked.
+
+“Possession is nine-tenths of the law, after all.” Ren said and grinned at her, and she chuckled.
+
+“Can you ease your grip enough for him to sit up a little?” Stella asked.
+
+Lisa let Ren's arm go and helped prop him up with another pillow, and Stella brought over the rollaway table with two plates of scrambled eggs, toast, orange juice, and a supplement drink.
+
+“Oh, my god! What's this?” Ren asked and motioned to his plate. “Where's the bacon?”
+
+“There's none... not after everything you ate yesterday.” Stella said. “They did the pork chops up properly, then they over-seasoned it afterwards, which defeated making it that way in the first place.”
+
+Ren opened his mouth to protest, then had to agree. “With that and the hamburger for lunch...”
+
+“...and the potato chips...” Lisa added.
+
+“...your salt content is pretty high right now.” Stella finished, and he nodded. “Don't worry, though. Your nurses are old hands at managing your diet, remember?” She pat his hand. “I'll have bacon ready for you by my next shift on Wednesday.”
+
+“Thanks.” Ren said and both he and Lisa started eating.
+
+Elise came out of the bathroom in just a towel and walked over to the closet. They stopped eating and watched her, as did Stella, because the towel dropped to the floor a moment later. Elise sorted through her undergarments and she picked out a good bra and underwear to put on, then she grabbed one of her business suit outfits and hung it on the closet door. She slipped off the jacket and laid it on the chair, then put on the peach-colored blouse. The pants were next and they slid on easily and fit her very well.
+
+Elise picked up the suit coat and put it on, left it unbuttoned, and turned towards the bed. She almost laughed at the three identical expressions that greeted her.
+
+“Was it really that fascinating to watch me getting dressed?” Elise asked.
+
+“You're kidding, right?” Ren asked. “It's almost as good as watching you get undressed.”
+
+“I don't think...”
+
+“He's right.” Lisa said. “I don't know if it's your confidence, or your no-nonsense attitude that makes it so sexy, though.”
+
+“Stella, surely you...”
+
+“It was pretty erotic.” Stella had to admit. “Personally, I think it was the efficiency.” She said. “You were almost forceful in your application of clothing.”
+
+“Yes! That's it exactly.” Ren said. “There were no wasted movements.”
+
+“Is that what it was?” Lisa asked and thought about it. “Actually, yes. I think you're right.”
+
+Elise chuckled. “I'm glad you all enjoyed it.” She said and walked over to the bed to give Ren a kiss on the cheek. “See you at lunch.”
+
+“It's going to be long grain rice and plain chicken breasts.” Stella warned her, and she nodded.
+
+“Thank god.” Elise said and pat her stomach. “All that salty and fatty food yesterday was a bit too much.”
+
+“My bacon dose has been delayed because of it.” Ren said and she laughed.
+
+“If that's the case, you're lucky you're getting eggs and not just toast.” Elise said. “Is there coffee?”
+
+“That and toast are on the kitchen table for you.” Stella said.
+
+Elise touched her arm on the way by. “Thank you.”
+
+“I figured you'd be in a rush, since I let you sleep so long.”
+
+“Thanks for that, too.” Elise said and left the bedroom.
+
+Something buzzed on the nightstand on Lisa's side of the bed and she reached over to pick up her cell phone.
+
+“Good news! Dad's been denied bail.” Lisa said happily and showed Ren the phone.
+
+“I'm glad.” Ren said and rubbed her back.
+
+“It's probably because he resisted arrest and kicked that officer.” Stella said. “They don't take kindly to personal injury.”
+
+“Even with the parole violation, he still might have gotten out otherwise.” Lisa said. “He's always been sneaky like that.”
+
+“We should send the police a thank you card.” Ren said and started to eat again.
+
+“That's a neat idea.” Lisa chuckled. “Can you imagine their faces when they read it? Thank you for keeping my dad in jail. He deserves it.”
+
+Ren and Stella laughed. “That would be good!” They said together, then the three of them laughed.
+
+*
+
+“That was the longest stakeout we've ever had!” Officer Holly exclaimed as she and her partner, Detective John Ramirez, left the squad room after giving the Chief of Police their report.
+
+“It's almost like they wanted to keep us really busy this weekend.” John said.
+
+Officer Holly caught her breath. “Oh, my god!” She exclaimed and sped up her walk.
+
+“What is it?” John asked.
+
+Officer Holly waved for him to follow, and they left the station and she stopped beside his car. “Ren had a garden party for the neighbours yesterday.”
+
+“Son of a bitch.”
+
+“They must have planned something and needed us out of the way.” Officer Holly said and took out her cell phone.
+
+“No.” John said and covered the phone. “We're off for the next two days. Let's go home and get a shower, then we can... casually... check in on an old friend. Preferably in person.”
+
+Officer Holly opened her mouth to respond that she needed to know he was okay right now, then she saw his expression. “All right.”
+
+John opened the passenger door for her and she got in, and he got in the driver's side and they drove out of the parking lot at a normal pace. He drove sedately through the early morning traffic and all the way over to his apartment. He pulled into his assigned parking space and got out, walked around the car, and opened her door for her.
+
+Officer Holly climbed out and followed her partner, and he didn't notice that her face was slightly red. They walked over to the stairs and went up to the third floor and he unlocked the door to his apartment. He motioned for her to go inside, and she went in first. She stopped and held in her gasp when she saw that the place was spotless.
+
+“I always wondered why you were such a stickler for no food in the car.” Officer Holly said, and John laughed.
+
+“You can thank my sister Tammy for pounding it into my head that 'a man who can clean will meet a good wife someday'.” John said. “I know almost as much about cleaning as I do about police work.”
+
+“You're kidding.” Officer Holly said.
+
+“I am.” John said and took off his suit coat and hung it in the closet on the hanger marked 'dry cleaners'. He pulled off his tie and sighed as he unbuttoned the top button of his shirt. “It's mostly just elbow grease and perseverance.”
+
+“Just like police work.” Officer Holly said and he chuckled.
+
+“Damn, you're right.” John said and unbuttoned his shirt cuffs as he walked towards his bedroom. “That's one of the things I like about you, Holly.” John said and took off his shirt and tossed it in the laundry basket by the bedroom door. “You can make connections to things that I completely miss.”
+
+Officer Holly blinked her eyes as he started to unhook his belt. “Um... John...”
+
+“Yeah?”
+
+“There's something else I really should tell you.” Officer Holly said and he hung the belt up on the back of the bedroom door.
+
+“I'm all ears.” John said and pulled down the zipper of his pants. Officer Holly turned her head to the side to look anywhere else but at him.
+
+“Well... I...” Officer Holly stopped talking when she heard the rustling of cloth as it was tossed into the laundry basket.
+
+“Hey, what is it?” John asked as he walked over to her. “It's not like you to dither like this.”
+
+“It's not like you to strip in front of me, either.” Officer Holly said and turned her head back to look up into his eyes.
+
+“What?” John looked down at himself, and his face flushed completely red. “Holly, I'm really sorry.” He said and stepped back. “I tend to do this automatically when I enter my apartment.”
+
+Officer Holly reached out and caught his arm. “I didn't say I objected.”
+
+John's face lost some of its redness and he stepped back close to her. “I've got nearly 3 full days of grit and grime to wash off and I could really use a hand.”
+
+“But... I thought...”
+
+“We were both ordered to leave all work at the station.” John said. “We're officially off the clock and unofficially told we weren't a part of the police force for the next two days.” He said and he put his hands on her shoulders and kneaded them a little.
+
+“J-John... I...”
+
+“I really like you, Holly.” John said and she caught her breath. “More than I should, by any stretch of the imagination.” His hands moved to her collar and started to open the buttons. “I can't get you out of my head.”
+
+Officer Holly stood there and let him expertly open her uniform top. He slid it off of her and hung it on the back of a chair to keep the shape.
+
+“You're smart, beautiful, have a chip on your shoulder a mile wide, and you can kick my ass when you want to.” John said and unhooked her belt. “I find all of that incredibly sexy.”
+
+Officer Holly didn't say anything as he slid her equipment belt off and hooked it into a loop to rest it on the same chair as her shirt.
+
+“Now, what was it you wanted to say?” John asked.
+
+“I really like you, John.” Officer Holly said and unhooked her pants. “More than I should, by any stretch of the imagination.” She smiled a little as she said his words back to him, then pulled the zipper down and let the pants fall to the floor. “I can't get you out of my head.”
+
+John fought his urge to bend over and pick up the pants, and Officer Holly smiled as she stepped out of the pants and motioned to them. He smiled back at her, picked up the pants and folded them up to put on the chair under her equipment belt.
+
+“You're brash, pig-headed, and you used to frustrate me nearly every day.” Officer Holly said and unhooked her bra and handed it to him.
+
+“Used to?” John asked and took the bra, then he didn't know what to do with it. Officer Holly chuckled and took the bra back and tossed it onto her pants.
+
+“It took someone pointing it out to me; but, I realized I was frustrated at myself.” Officer Holly said and stepped close to press her breasts against him. “I couldn't admit my feelings to myself, let alone to you.”
+
+John put his arms around her and held her tenderly. “And now?”
+
+“I think you're incredibly sexy, too.” Officer Holly said. “I've tried keeping my distance and I've tried keeping things professional, and it's tiring, John.” She admitted. “I can't stay beside you as a partner without being beside you as your partner.”
+
+John thought about that slightly confusing statement, then his eyes widened. “Are you serious?”
+
+“I am.” Officer Holly said. “Now bend your tall ass down so I can kiss you.”
+
+John let a grin spread across his face. “I have a better idea.” He said and picked her up in a princess carry, with an arm under her knees and one under her back.
+
+“HEY!” Officer Holly yelled and quickly put her arms around his neck. The move put her face at the exact height of his, and she sighed. “You are not doing this every time.” She said and kissed him briefly.
+
+“Not every time.” John said, and carried her into his bathroom to take what he suspected was going to be a very long and thorough shower.
+
+*
+
+Without Barbi there, the office seemed empty as Elise checked her messages to see if anything important needed to be handled. Nothing was pending, so she looked over the overnight stock market returns and didn't see anything that needed to be corrected. She then checked her appointment calendar to make sure she had enough time, then turned off her computer monitor and picked up her cell phone.
+
+Elise typed up a quick message to Stella to tell her she had an appointment, tucked the cell phone into her purse, then left the office and the house. She hopped into her Hummer H2 and drove part way across the city to the small and unobtrusive building. The parking lot wasn't that crowded so she didn't have any trouble finding a spot for her larger than average vehicle. She went into the building and told them she was there for her appointment, and sat down to wait.
+
+“Right this way, please.” A woman's voice said almost as soon as she sat down, and Elise jumped up to follow her. She was led to an examination room and was told to change. While she undressed, she thought back to Ren, Lisa and Stella watching her, and she blushed. She put on the disposable hospital gown and climbed onto the very awkward table.
+
+“Oh, you're already up in the stirrups.” A woman's voice said.
+
+“It's not my first rodeo, doctor.” Elise joked, and the doctor laughed.
+
+“Good one.” She said and pulled over the little stool. “So, any unnatural pain or discomfort?”
+
+“Thankfully, no.” Elise said. “Everything seems to be running like clockwork.”
+
+“I hope you'll forgive me if I want to check that for myself.” The doctor said, and it was Elise's turn to laugh. The doctor checked her over and used several cool instruments and tools to be sure, then she took samples and swabs. A nurse entered and took the samples and left with barely a sound.
+
+“How is it, doc?” Elise said. “You don't have to sugar-coat it. Just tell me the truth.”
+
+“It's a perfectly functioning orifice, so you can relax.” The doctor said and pat her leg. “Go ahead and get dressed.”
+
+“That's a relief.” Elise said and climbed off the table.
+
+“I'll be back in about 10 minutes.” The doctor said and left her alone.
+
+Elise put on her clothes and again thought about Ren, Lisa and Stella watching her, and she blushed again. Now I'm really horny. She thought and sat down carefully, so she wouldn't stimulate herself too much. After another few minutes, the door to the examination room opened and the doctor came in with a blank face.
+
+“What is it?” Elise asked. “I know bad blank face when I see it.”
+
+“I was right and that you're in complete working order, even without having your period for so long.” The doctor said. “I also know why you haven't had it.”
+
+“P-please... just... just tell me.” Elise said as thoughts of some weird disease passed through her mind.
+
+“We ran the test twice and there's no doubt about the cause.” The doctor said, and then her blank face broke into a huge smile. “You're pregnant.”

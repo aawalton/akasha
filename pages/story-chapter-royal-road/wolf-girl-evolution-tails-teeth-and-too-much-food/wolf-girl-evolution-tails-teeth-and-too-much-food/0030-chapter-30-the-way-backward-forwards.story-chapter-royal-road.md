@@ -1,0 +1,235 @@
+---
+id: d65a1450-4d74-503e-9692-469f1d71ab85
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30: The Way Backward Forwards"
+slug: 0030-chapter-30-the-way-backward-forwards
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 30
+ownLength: 1210
+unit: words
+publishedAt: 2025-09-17
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2608248/chapter-30-the-way-backward-forwards"
+royalRoadId: "2608248"
+---
+
+PoV Luna
+
+Luna bounded through the undergrowth with her chest puffed and her tail high. Purpose filled her paws. Every bounce, every sniff, every twitch of her whiskers told the forest: Luna was great!
+
+Important!
+
+Doing things for silly soft-skins who can’t sniff for the life of them!
+
+Yes!
+
+Then her ears flicked. Her brain tilted sideways.
+
+…She had no clue where she was going.
+
+Whoops.
+
+Wait. What was the rule again?
+
+When in doubt… awoo!
+
+Her mouth opened, ready for it, then snapped shut. No. Not that one! The other one!
+
+When in doubt, just do!
+
+Yes! Perfect rule.
+
+Perfect Luna!
+
+And the best way to do is to do fast!
+
+So she ran.
+
+Soup in her belly, spice in her blood, her paws were fire. She tore across roots and rocks, each leap stretching farther, faster. Her tongue flopped, her eyes watered, and the world blurred into streaks of green and shadow.
+
+Luna let herself flow freely through the forest. Her silvery fur shimmered in delightful radiance. Her paw steps melded into the shadows, the sounds muted, making Luna move smoother!
+
+Happiness filled her in ways Luna found hard to express.
+
+And so she ran!
+
+And then a squirrel leapt across her path.
+
+Waste not, want not!
+
+Her jaws snapped before thought caught up.
+
+Crunch.
+
+Fur. Nut taste. Rude. Not spice.
+
+Still, food. And Luna did not waste food, even when it tasted like bark pretending to be meat! She chewed once, twice, swallowed, then snorted her disdain into the leaves.
+
+Did not even break her stride!
+
+Branches whipped past her ears. Bramble tugged at her sides. She slid down a slope, shot through a hollow, sprang over a stream. The forest sang under her paws, alive and sharp and familiar.
+
+The forest remembered her, even if the pack did not.
+
+Her chest tightened at that. A bark wanted out, heavy and raw, but she swallowed it with another sprint.
+
+Not yet. No going back yet.
+
+Her tail steadied. Her paws turned. Instinct tugged her sideways, not toward wolves, not toward pups, not toward that ache.
+
+Toward something safer.
+
+Her nap-place.
+
+The overhang hidden beneath moss and root, where damp earth smelled strong and shadows curled thick. A place made warm by her fur, shaped by her turns, claimed by her scent.
+
+Her spot.
+
+Safe.
+
+Hers.
+
+She slowed only when the slope dipped, the mossy stones rising around her in welcome. Her chest heaved. Her tongue lolled. Her body buzzed with soup-spice energy that hadn’t burned out yet.
+
+She could still taste it in the back of her throat.
+
+Gurgle.
+
+And it made her hungry for more! More want than hunger.
+
+A yearning she could not stop.
+
+A yearning she wholly approved!
+
+But instead she kept going. Her paws still found the hollow. Her nose pressed into the root she always pressed against. Her tail curled in its usual groove.
+
+The world steadied, and craving subsided.
+
+Here, she could plan. Run again. Hunt again. Bite the right way this time.
+
+Apex Predator stuff!
+
+She licked her lips, tasting the faint ghost of squirrel and spice still clinging to her teeth, and grinned into the dark.
+
+The path would show itself with time.
+
+Luna just had to do!
+
+But for now, her spot was victory.
+
+Nice and cozy.
+
+Roof of green moss. Dirt packed smooth by her own twirls. Smelled strong of Luna. A little bit of mom too.
+
+It was her place. Her bite-mark on the world.
+
+Her jaws stretched in a wide yawn. Tongue flopped halfway out, quivering in the cool air. Tail thumped once against the dirt.
+
+The den pulled at her bones, promising nap, curl, dream…
+
+But– NO!
+
+Luna’s fur bristled and she shook herself hard, scattering the thought. This was not nap-time.
+
+Not yet!
+
+This was Apex Predator time.
+
+Her tail rose high. Her chest puffed. She stood taller.
+
+Right. Focus. Snout sharp. Ears sharper. She had a job to do. A plan to follow!
+
+A great Luna plan!
+
+Sniff out the prey.Lead the new-pack.Bite the big thing.
+
+Yes. Perfect plan. Perfect Luna!
+
+Her nose twitched as she nodded, eyes gleaming. She was genius. Of course she was.
+
+But the scent of her own den curled stubbornly into her nose. Home. Pack. Mother. Pups. All tangled together with moss and old bark.
+
+Her paws shuffled once. Then again.
+
+No. No backtracking. No sad paws. She would not step that way. Her path was forward. Always forward. Toward revenge. Toward spice.
+
+She would take a bite out of the things that matter.
+
+Her tail lashed with the weight of decision.
+
+She spun on her heels, claws digging into dirt. Her tail lifted high, victory already in her step, ready to run and find the trail–
+
+And then she froze. Nose twitching.
+
+The air carried a ripple of smell. She recognized it, but it was not Luna’s!
+
+Something had passed nearby? Heavy. Wrong. A trace of old slime clinging to bark.
+
+Luna’s ears pricked, body buzzing.
+
+Her den was hers. Safe and Luna-shaped. But the forest still whispered, and her nose would not ignore it.
+
+She licked her chops, eyes narrowing. Nap would wait.
+
+The hunt had already started.
+
+Then a thing caught her eye between the moss and roots. A dull glimmer, half-sunk in dirt. Round. Shiny in a swampy way.
+
+Her nose dropped to it at once. Sniff. Sniff-sniff.
+
+Her ears perked. Oh! The frog ball! The not-quite-core she had dragged out after biting the big frog into sludge! She remembered staring at it then, sore and covered in stink, thinking it looked crunchy.
+
+Her tail wagged. Yes! That was it.
+
+She had meant to eat it. And now was a perfect time!
+
+She pounced forward, crouched, and scooped it into her jaws.
+
+Crunch!
+
+Her teeth sank through grit and surprisingly little slime. A bitter swamp taste smeared her tongue. It was definitely not jerky.
+
+But crunchy. Very crunchy!
+
+Her muzzle wrinkled, yet she chewed fast anyway. Swallowed down the bog-flavored grit with a final gulp.
+
+Not food. But close enough.
+
+A chime buzzed through her head.
+
+【Gluttonous Soul 6% → 7%】 【Skill Unlocked: Devourer’s Right Lv.1】 【You claim what you have eaten. Deal increased damage to Enemies once devoured.】
+
+Luna froze, ears twitching tall.
+
+“Ooooh.”
+
+Then her head tilted.
+
+“…What?”
+
+Words were strange. But they had bite in them. Bonus bite! That meant it was good.
+
+She licked her chops and decided it was perfect.
+
+Her tail lashed, the last of the swampy taste still stuck in her teeth. It didn’t matter. This was power, and power was for hunting.
+
+Her chest filled with a proud bark, though it came out muffled against the dirt. She grinned anyway, teeth flashing bright in the dim light.
+
+Then Luna shook herself hard, ears flopping, paws bouncing in place.
+
+Enough waiting. Enough talking. Enough sad-tail thinking.
+
+The big ugly was out there. Mireback. Wrong-smelling. Wrong-moving. Corrupted. Ogre thing!
+
+Her prey.
+
+Claws scraped the earth as she sprang forward, bounding into the trees with sparks of spice-fire still buzzing in her blood.
+
+This time, she would lead the way.
+
+This time, she would bite until it stopped moving.
+
+Lead her new spice friends to it!
+
+And maybe… just maybe…
+
+They would give her more soup for it?

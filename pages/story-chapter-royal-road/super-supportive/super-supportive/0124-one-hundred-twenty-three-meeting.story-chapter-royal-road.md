@@ -1,0 +1,584 @@
+---
+id: 55e3e8a5-c644-5d5b-9b0a-84b3d8e385af
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED TWENTY-THREE: Meeting"
+slug: 0124-one-hundred-twenty-three-meeting
+partOf: super-supportive
+position: 124
+ownLength: 4948
+unit: words
+publishedAt: 2024-03-04
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1540799/one-hundred-twenty-three-meeting"
+royalRoadId: "1540799"
+---
+
+123
+ 
+ 
+It was four in the morning, and Alden’s fingers were flicking through the new spell. He focused on the shapes his auriad made, pushing himself outward through them in that specific way that made magic happen.
+
+
+Casting excited him, like always, but he wished there was someone around to answer his questions.
+
+
+Following the instructions in Whan-tel's Art was easy enough. And there were the other factors he could manage on his own--memorization, quick hands, authority manipulation.
+
+
+But can I do things to make the spell work better? Can I do things to make it worse? Different?
+
+
+He was sure the answers were all ‘yes.’
+
+
+Instructor Gwen-lor’s brief mentions of the "art of perceiving in multiple ways" teased him sometimes. Perception wasn’t just an important tool for Avowed using their skills, as Joe had taught him. It could also help with spell casting. But Alden's books didn’t tell him how to work with perception or around it or if he was even supposed to be taking it into consideration regularly. Maybe altering your perception came into play only when you were struggling with a spell or if you needed to make it deviate from its intended purpose.
+ 
+He just didn't know.
+
+
+And besides that, wizards talked about perfection a lot. According to Lute, and based on Alden’s own experience, perfection made wordchains more likely to land. How did that fit in with spells? Surely a greater or lesser degree of accuracy must effect something. Once or twice, he’d noticed himself making a small mistake, and the spells still did what they were meant to do.
+
+
+Am I learning correctly? Just how much am I missing?
+
+
+A whole culture’s worth of history and insight, obviously. It was so frustrating. He wished he could listen in on Kibby’s lessons again.
+
+
+He withdrew his authority from the effort and completed the last few motions with only his hands and his auriad. He thought he had the spell down well enough for it to have an effect, and he didn’t want to shoot a flying dagger of force at his laptop.
+
+
+The computer was open on the desk beneath his loft bed. Last night, before he went to sleep, Alden had watched televised obstacle course runs for a while. He’d seen them before, but one-on-one runs between famous Avowed were more popular. He wasn’t as familiar with uni team competitions.
+
+
+Having actually experienced a course himself, he found he had a much deeper interest in them and appreciation for how difficult they were.
+
+
+I’m sure I would’ve thought things like tunnels and corridors were boring filler if I’d watched last year, but now they’re so stressful.
+
+
+After his death by tree limb, he’d hated crawling through the pipe more than any other obstacle, even though it was just about the easiest thing to do on the whole course. You were a sitting duck inside that thing—barely enough room to move around, no visibility, completely reliant on your teammates to tell you what was happening and keep both ends of the tube clear so you could emerge safely.
+
+
+Alden lowered his hands and let the auriad wrap itself back around his wrist. Then, he stood from his learning cushion and dropped Wummy on top of it to serve in his usual post as a guard wombat.
+
+
+Cushion already has a loose thread, he noted. That makes it looks kind of sad. Should I try for another hour or two of sleep?
+
+
+He ended up sitting at his desk and forcing his way through some homework instead. Less than an hour later, the quiet murmur of voices lured him from his room.
+
+
+All the lights were off in the apartment except for the kitchenette’s nightlight. Haoyu was sitting at the table with a tablet, stylus, and a lot of candy wrappers. Lexi, dressed for his morning run, was standing across the table from him.
+
+
+“Hey,” Alden said, keeping his voice down for Lute’s sake. “You guys are up already?”
+
+
+“I’m up already,” Lexi replied. “He’s up still.”
+
+
+He jerked his head toward Haoyu.
+
+
+As Haoyu rolled his eyes at the disapproval in his friend's voice, Alden realized he was still wearing the t-shirt he’d had on when the two of them left North of North last night.
+
+
+“You didn’t sleep?” Alden asked him.
+
+
+“I could tell I wasn’t in a sleeping mood.”
+
+
+“I’ve been up since three. I should’ve come in here with you.”
+
+
+“You both should’ve gone to bed. Your frequent potion therapy sessions aren’t a substitute for actual rest,” Lexi said.
+
+
+Haoyu shoved a few gummy bears into his mouth and chewed them with a stubborn look on his face.
+
+
+Alden walked over to see the tablet. Unsurprisingly, it was playing their footage from gym yesterday.
+
+
+“I’m annoyed we’re only doing it for these two classes while Snake is gone,” Alden admitted. “It’s good practice, just like gym always is. But four runs is barely enough for us to get our bearings. I feel like we’d need to do a lot more work as a team to actually play the game well.”
+
+
+“It is annoying.” Haoyu shoved the tablet away from himself. “If we had a couple of weeks and some practice time, I think it would be really fun. But like this, we’re just getting the awkward starting phase of learning our way through the course. And I felt like such an asshole yesterday trying to give advice when I was in a bad mood and everyone else was too. Did I make Everly cry?”
+
+
+“No,” Alden and Lexi said at the same time.
+
+
+“She was just mad at herself,” said Alden. “She usually casts a lot more in class. I wondered if she wanted to use her spells for some of the obstacles but couldn’t because she was nervous about how it would affect the rest of us.”
+
+
+“I didn’t feel like I was doing enough to help either. And there’s no time before the next class to make plans.” Haoyu held up one finger then another. “Today. Tomorrow. That’s it. Everyone has different class schedules to work around, and I don’t even know if they all want to meet. The instructors didn’t assign group planning sessions, so some people might not care about it. Maybe I should go for a run. It’ll clear my mind, right? That’s something people do to clear their minds?”
+
+
+Lexi tilted his head. “Are you asking me?”
+
+
+“I’ll go, too,” said Alden.
+
+
+Haoyu pushed himself back from the table. “I’ll be ready in a minute.”
+
+
+Alden expected Lexi to protest that his morning ritual was sacred and he didn’t want company or chatter about gym class during it. But he waited for them both.
+
+
+It was dark and chilly, and the run was easy. They followed a winding route around and through the campus. As the sky was growing paler, they found themselves on their third trip through the Celena North memorial garden. The area was lighted by lanterns hanging from the arching tree limbs.
+
+
+“I’m going to stop here for a while,” Alden said as they approached a fork in the walkway. “You guys go ahead.”
+
+
+“Do you want us to pick you up something from the coffee shop?” Haoyu asked.
+
+
+“I’ll grab something on my own.”
+
+
+He slowed, letting them run ahead of him before he turned down the path. He passed the bench where he’d first met Hazel Velra, then he entered the amphitheater.
+
+
+The grass terrace seating, the tall granite memorial stones, the ornamental pear tree—it all looked the same, and yet it felt very different. He walked down to the lowest level to stand beside the stone that had Hannah’s name carved on it.
+
+
+“You know,” he said, reaching out to touch the letters, “I affixed the next day. That sounds insane. If you’d been around, I’m sure you would’ve given me some advice before I leaped headfirst into being an Avowed.”
+
+
+He wondered what she would’ve said. The things you told a kid who admired you were probably different than the things you told someone who was about to sign the Contract and come live this life for real.
+
+
+Boe had made a similar point. It was a good point. Alden wasn’t sure how much it mattered now, after everything.
+
+
+“Or maybe you’d have been exactly the same person with the same things to say. It wouldn’t surprise me. You always seemed to know what you believed in so clearly…. You were the coolest, Hannah. All the superhero fans who didn’t notice you because you chose to work in the background really missed out.”
+
+
+He pressed his finger to the stone harder then pulled it back to see the impression of one of the letter A’s left behind on his skin.
+
+
+“I’ve changed a lot.” When he turned his head, he could see the spot on the first terrace where he’d chosen to sit when he came for the funeral. “There’s this chasm between then and now. And it’s not just those ‘growing up’ changes everyone tells you are coming for you.
+
+
+“Don’t think I’m complaining. I’m not. Not at the moment anyway. I’ve gone through some epic agonizing since I got home two and a half months ago. But I’ve been getting used to caring about different stuff and thinking differently. And it’s not bad. I think this side of the chasm is probably just as good in a different way. I wish we could hang out and talk about it. I hope we’d still be friends.”
+
+
+He left a short while later.
+
+
+The sky was bright. It was going to be a clear day.
+ 
+
+
+******
+ 
+
+
+“You guys, let’s ask the whole team if they do want to meet up and work out strategy for tomorrow,” Alden said as he entered the apartment later with a takeout container from Cafeteria North in hand. “They might be up for it, and even if it’s only a couple of them and us, that’ll be half the group. I’ve got some thoughts.”
+
+
+“I was just checking with the library!” Haoyu was drinking an iced fruit tea and looking much more like himself than he had earlier. “There are study rooms big enough for the group, but we can only have them for three hours at a time.”
+
+
+“What if we take turns booking them?” Alden asked. “If we could keep one all day, then whenever some of us didn’t have class we could be in there working stuff out. I book one, and then you book it for the end of my time slot, then Lexi, then Jeffy—”
+
+
+Haoyu’s hands moved through the air. “That should work! I don’t see anything saying it won’t on the website. Why Jeffy?”
+
+
+“Because he’s probably already awake. He gets up early. And he seems eager to participate in general.”
+
+
+Lexi came down the hall, buttoning the cuffs of his shirt. “We should strategize, but I don’t see how you two are going to get everyone to agree on everything.”
+
+
+“I doubt we’ll agree on everything,” said Alden, “but there are a couple of things I know would help me run the course better that I can’t imagine any of you disagreeing with. So if we start from there, I think it’ll cool off some tempers and put everyone in a more helpful frame of mind. Can I…lead the beginning of the meeting, I guess?”
+
+
+Haoyu looked curious.
+
+
+“And how mad do you two think Lute will be if I wake him up early?” Alden asked.
+
+
+“He won’t be mad at all,” said Haoyu. “You should do it.”
+
+
+“He’s joking,” Lexi warned.
+
+
+“I’m not. You should do it, Alden. Do it.”
+
+
+“I did bring him waffles from the cart. Hot and fresh.” He held up the takeout container. “That makes up for it, right?”
+
+
+Lute grumbled about being dragged from his bed for an unplanned tutoring session, but Alden didn’t think he was actually annoyed.
+
+
+“You banished Hazel from the planet, so I guess you deserve more of my company.”
+
+
+Alden had been reaching across the table to hand him the food. That made him pause. “I did what?”
+
+
+“Heard it from Roman and the Grandwitch herself yesterday," said Lute. "According to Roman, Hazel freaked out and ran away to work for our employers in a full-time capacity because she couldn’t take the heat from the video. Aulia’s story is that this is a character rehabilitation retreat. She says Hazel will come back from it more at peace with her skill and rank.”
+
+
+I ran a person off of Earth? 
+ 
+He did not know how to feel about that.
+
+
+Lute took his breakfast from Alden and opened the box. Steam wafted out. He smiled. “The waffles are still crispy. The chocolate curls and the mocha whipped cream aren’t even melted.”
+
+
+“I know," said Alden.
+
+
+Lute dragged his finger through the whipped cream. “What are you doing with your life, man? Become a delivery person. Put a couple of drones out of business.”
+ 
+
+
+******
+ 
+
+
+Throughout the morning, the team gradually agreed to meet up. At twelve fifteen, when Conversation IV let out, Alden dashed across campus to the library. He took the stairs up to the sixth-floor study room they’d booked and tried to figure out how to use the projector so that they could have video of their runs from yesterday up on the wall. Everyone who wasn’t here in the room was going to be on call through their interface, except for Astrid. She'd been invited to a special practice session with a visiting Morph mentor. 
+ 
+A short while later, when the rest of the team had all gathered or joined the call, there was an unpleasant thirty seconds of everyone staring at each other before Alden cleared his throat and said, “Just to be clear, I’m not trying to be team captain or something like that. But I figured we needed to start somewhere. Does anyone mind if I direct the conversation for now? I have my last class of the day in an hour, so if someone else wants to take over then that’s great.”
+
+
+[I don’t mind,] Haoyu texted from his current class.
+
+
+“Should you really be the one—” Reinhard started to say.
+
+
+“It sounds great to me,” Maricel interrupted. 
+
+
+Reinhard side-eyed her put didn’t protest.
+
+
+“Okay,” said Alden. “Let’s clear the air. Yesterday was less than ideal.”
+
+
+“It was embarrassing,” said Njeri. She was wearing a jacket with the hockey club’s emblem on the back, and she’d brought a big bag of pita chips and jars of dip for her lunch.
+
+
+“We came across as a bunch of incompetent kids,” said Reinhard, drumming his fingers on the conference table.
+
+
+We kind of are, thought Alden. But since almost the entire group was nodding in agreement, he didn’t voice the opinion.
+
+
+“I wanted the principal to tell Instructor Klein I was cool,” Jeffy said. “I don’t think I looked cool.”
+
+
+Maricel was sitting beside him and across from Alden. “Why did you want that to happen?”
+
+
+“Because whenever I ask a question during Offense sessions, he says, ‘You’re asking the wrong question. That’s not something an Aqua Brute really needs to worry about.’ If the principal told him it was fine for me to fight on land instead of doing water rescues—”
+
+
+Reinhard and Everly both opened their mouths; in a classroom in the Forthright building, Lexi was lifting his hand to type something that was no doubt scathing.
+
+
+“This is good!” Alden interrupted quickly. “I actually wanted to discuss this with everyone. What do you all want from the runs tomorrow? Yesterday we just went at it, and I know everyone was trying really hard. None of us are slackers. But we were getting pissed at each other and misunderstanding each other.”
+
+
+“We all want the same thing,” said Reinhard. “To win.”
+
+
+Lots of nodding at that.
+
+
+“Yeah.” Alden leaned back in his chair. “Everyone would prefer to win. But I don’t know if winning is the only thing we all want or even the most important thing. Some people were compromising personal goals a lot yesterday and others were only compromising a little. It’s not fair. And it made us all have different expectations of each other.”
+
+
+Most of them didn’t look like they got what he was saying.
+
+
+“Do you guys really want the team to win more than anything else?” he asked. “Or is it more important to you that you get to accomplish something just for yourself out on the course, since we’ve only got one more day to use it? We should be honest about it. For example, Maricel—”
+
+
+She made a startled sound as everyone turned to her.
+
+
+“She was ignoring her own practice to be a team player yesterday. Which I don’t think we all appreciated enough. She only used sandbags for lifting and shielding, and that’s not what she’s working on with her powers right now. She’s trying to learn to compress loose soil into shapes while she moves it. I’m sure she would rather have a big pile of dirt, but the sandbags are faster and easier for her to throw around. So she did that just for the rest of us. It was great of you. Thanks.”
+
+
+“You mean we need to decide on that kind of thing?” Everly asked. Her silver buns were held up by a pair of pencils, and she had snowflakes painted on her fingernails.
+
+
+Alden nodded. “We should know where everyone stands. I think it’s all right if we want to think of the course as a personal playground or a chance to show off individually instead of a quest for team victory. But it ought to be all of us who get to behave that way instead of some of us, and we should set some limits on it so it’s not a total fiasco again.”
+
+
+[He means the archer,] Lexi typed.
+
+
+“I have a name!” Reinhard said. “I told you that shooting Tuyet—”
+
+
+“You just wanted to prove you could take out an S-rank,” said Njeri. “You announced that you wanted to target her before the race even started. And then you took two more shots we didn’t all agree on in the next game.”
+
+
+“I’m a ranged Meister! Do you know how irritating class has been? Rescue, Defense, the maze—my bow is useless for all of it! It’s not like Lexi’s tool. He can lift and slice. I just shoot. And the only thing I’m allowed to shoot is tennis balls and Klein, who is obviously the son of an eel. Now you guys want me not to shoot people when I finally have the chance? I’m our main offense!”
+
+
+“Just don’t shoot people until we tell you to shoot people,” said Njeri.
+
+
+Alden examined Reinhard. He’d gotten his pale brown hair turned into a buzzcut since combat assessment day.
+
+
+“So is the most important thing to you being our primary offense?” he asked.Help support creative writers by finding and reading their stories on the original site.
+
+
+A couple of people might object to that.
+
+
+“I just don’t want to look like I’m not doing anything,” said Reinhard. “Other students are watching us. The first years are sharing it around. My older sister’s in third year. When she sees our footage I want to look like an archer. Not like a guy carrying a bow for no reason. Do you want to look useless in front of the entire school?”
+
+
+They all shifted and shot uncomfortable glances at Alden. Thanks, guys. But you’d all be useless if you were asleep, too.
+
+
+“About what I want…” he said. “First, I’d like for all of you to tell me how you need me to assist you on each obstacle, or how you can assist me, if it’s just the two of us working together. Before we run again. If we can agree on it, we’ll know what to expect from each other.”
+
+
+There had been a wasteful amount of back and forth yesterday.
+
+
+“Second, I’m going to the big Wright shop to pick up some more temper spheres before class tomorrow. I don’t know what we could use them for, unless we give Lucille one to throw at the enemy. But if you do want my screaming invisible ball spell for anything, just say so. I’ll have plenty.
+
+
+“And third, I wanted to let everyone know that I would be using a new wordchain tomorrow. It basically helps me function at my peak—better balance, more efficient movements, slightly higher spatial awareness.”
+
+
+[You’ve got it down already?] Haoyu asked. He was wriggling a lot in his seat. Alden had the feeling he would much rather be here with the team than in his class right now.
+
+
+“I’m really close.” Alden had nearly had it during this morning’s tutoring session. “If any of you have wordchains you think would benefit you but you need help mastering them, Lute Velra said he wouldn’t mind giving pointers. Obviously you can’t learn a new one from scratch. However, if you’ve got one that already works, but only occasionally, or you think you just need a tip or two to figure one out, he might be able to help.”
+
+
+“I’ve heard about that Velra guy,” said Reinhard, his expression growing concerned. “He killed his girlfriend’s platypus?”
+
+
+Further proof Lute needs reputation repair. 
+
+
+“Lute definitely did not do that,” Alden answered. “It was a freak accident, possibly caused by a wordchain he had no say in the casting of. And she was not his girlfriend, and it was not a platypus. Sometimes disturbing, sad things happen that we have no control over.”
+
+
+He clasped his hands together on top of the table.
+
+
+“So, that’s it for me! I’m happy to go along with whatever the team wants and try to make it work. I’d rather not be the other teams’ favorite target again, but if it goes that way, I’ll deal with it. Also, I’ve been brainstorming ideas for obstacles, but I wanted to hear what you all thought.”
+
+
+It turned out, they had a lot of thoughts. And not all of them were things Alden would have expected.
+
+
+While he was sitting in Intro to Other Worlds a short while later, listening to their ongoing discussion more than the instructor’s lecture, they were still trying to decide if they really wanted to win no matter what or if they wanted to give everyone the chance to show off and try things. Alden wasn’t surprised to find that most of them were more concerned with their individual performances over the team’s, but he was interested in the variety of their reasoning for it.
+
+
+Reinhard was worried about looking bad and making his sister look bad.
+
+
+Everly’s parents often asked to watch her gym footage, and she really didn’t want them to see her failing. “They worry so much about me being in this program. It’ll scare them if I look weak. I want them to know I can keep up.”
+
+
+“I don’t want to kill anyone,” a voice said so quietly that Alden almost didn’t catch it. “I was afraid you were all going to ask me to attack the other team yesterday. I don’t want to.”
+
+
+Alden directed one of the video images to come back into the center of his line of sight. While he took in the library scene, his fingers hovered over the keys of his laptop, the cursor on the screen blinking halfway through a page that had started as class notes and turned into team notes. 
+ 
+Nobody said anything for a second.
+
+
+“What do you mean, Lucille?” Haoyu asked.
+
+
+He and Lexi now had a free period, so they were there. Maricel was in an Algebra class. And Jeffy was in the big lecture theater on the floor below Alden. For some reason, he was writing ideas on a notebook and holding them up for everyone to read rather than texting.
+
+
+“I’m sorry,” said Lucille. “I know I’m an S. Refusing to use lethal attacks means the team has less options. But I want to be a no-kill hero.”
+
+
+“The gentle giant type,” Reinhard said with a nod. “It’s a classic for a Strength Brute, but it can fall apart if you get into the wrong kinds of situations.”
+
+
+“I just don’t want to do it.” Lucille’s dark hair fell in her eyes as she stared down at a single pita chip on a napkin in front of her. “And I’m not a giant. I’m an average height.”
+
+
+“It’s just what the type is called…”
+
+
+“But this is gym,” Njeri pointed out. “The realism settings are very low. Even you said walking through the fire was like getting a sunburn, so it’s not like we’re really hurting people.”
+
+
+Lucille took a deep breath. “I’ve decided if I ever kill anyone, even just in gym, I’ll give up on being a city-affiliated hero. I’ll switch to disaster rescue only. Like Fragment.”
+
+
+A strangled sound escaped from Reinhard. “That’s too extreme! They’re completely different lives. Don’t give up on your dreams because of something that happens in our classes!”
+
+
+“What if you do it accidentally? What if you just make a mistake?” Njeri asked.
+
+
+“Then I wouldn’t trust myself not to do it again.”
+
+
+“It’s fine,” said Haoyu. “There’s no reason she has to use lethal force. It’s probably better if we use less attacks like that anyway. For strategy reasons.”
+
+
+[Lucille helps with a ton of other stuff on the course,] Alden added by text. [She doesn’t need to attack, too.]
+
+
+“But what are you going to do in duels when we start those?” Reinhard asked the Brute.
+
+
+“I don’t mind pinning people.”
+
+
+“Only pinning people?!”
+
+
+“Let her do it how she wants,” said Haoyu. “You want to be our main offense tomorrow anyway. Jeffy, about the water obstacle…you don’t really hate your skill, do you?”
+
+
+“It’s boring,” he said aloud. Then he looked around at his neighbors in the lecture hall and grabbed his notebook again.
+
+
+“It’s literally not,” Njeri said. “Sink and Surface is so useful.”
+
+
+It’s just going up and down in the water, Jeffy wrote. He had surprisingly good handwriting.
+
+
+“Why him?” Lexi murmured to himself. Then, louder, he said, “You know 71% of the planet is underwater, don’t you?”
+
+
+More writing: All the people are above the water. Who cares about the fish?
+
+
+Haoyu’s forehead wrinkled. He exhaled slowly. “Why in Apex did you take Aqua Brute if you didn’t want it? You could’ve traded it for any other Brute class. I know so many people who would love—”
+
+
+Jeffy held up his notebook: The internet told me to take it. So I could get into school with you guys! And my grandpa thought it was a good idea.
+
+
+Reinhard was making more distressed noises. Njeri was shaking her head.
+
+
+Everly had steepled her fingers in front of her mouth. “Surely you like being able to stay underwater for a long time when other people can’t?”
+
+
+Jeffy looked like he was pondering the question. He started to write in the notebook.
+
+
+A notice appeared on Alden’s roommate chat.
+
+
+[Lexi: One of you tell me what he says if it’s worth hearing. Otherwise leave me ignorant. I find him stressful.]
+
+
+ 
+******
+
+
+“Alden, are you all right?”
+
+
+He looked up in surprise to see Vandy beside his desk.
+
+
+He’d been polishing off a final note about Lucille. Njeri had suggested finding out if the Strength Brute grabbing someone on the other team and carrying them backwards along their course to place them beside an inconvenient obstacle could count as a single attack or if it wasn’t allowed.
+
+
+Alden shut the laptop hastily. “Yeah! I’m fine, Vandy! Why?”
+
+
+“I was watching you in class to figure out what you were preserving today—”
+
+
+Of course you were.
+
+
+“—and I noticed you making very pained facial expressions. You did hit a couple of hurdles yesterday.”
+
+
+“I didn’t! I jumped them all!”
+
+
+Blue-gray eyes blinked at him. “I mean when your teammates were carrying you while you slept.”
+
+
+“Oh, that. I’m fine.”
+
+
+“If you’re injured, you should go to the campus health center.”
+
+
+“I’m not injured.”
+
+
+She scanned him up and down.
+
+
+“I’m not injured,” he repeated. “Promise. Unless Tuyet asks. Then I’m very injured, and she should feel guilty.”
+
+
+“If you’re not hurt, that’s good…”
+
+
+She stared at him.
+
+
+“She wants you to say why you weren’t paying attention in class now,” Haoyu informed him through the still-active video call.
+
+
+Alden nodded at Vandy. “I'm really not hurt. I was just thinking about our—”
+
+
+“Tell her nothing,” Njeri interrupted. “This is competition. We take every advantage!”
+
+
+“How is not telling her we’re having a meeting an advantage?” Maricel asked as she left her math class.
+
+
+“She’ll want to have one, too,” said Everly.
+
+
+“I know she wants to have one, too,” Maricel replied. “She’s been trying to organize her team all day.”
+
+
+They all started giving Alden a completely ridiculous amount of advice for how to deal with a curious classmate.
+
+
+“You're making those expressions again,” said Vandy.
+
+
+At the same time, Reinhard was suggesting that Alden “do what’s right for the team” by asking Vandy for homework help so that she’d be too busy to organize her own group.
+
+
+That’s really quite deceitful of him.
+
+
+“I was thinking about our obstacle course run,” said Alden, deciding a compromise between full honesty and dastardly schemes was appropriate. “Lots of emotions.”
+
+
+Before she could ask another question, he reached into the pocket of his hoodie and pulled out his current preserved object.
+
+
+“Do you want a pita chip? It’s got mango chutney on it.”
+
+ 
+
+***

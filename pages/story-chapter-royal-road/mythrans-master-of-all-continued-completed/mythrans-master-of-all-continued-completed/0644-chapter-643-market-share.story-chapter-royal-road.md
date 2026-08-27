@@ -1,0 +1,327 @@
+---
+id: 86fde5ef-ab07-5192-aade-e6dc82ecf801
+page-type-slug: story-chapter-royal-road
+title: "Chapter 643 - Market Share"
+slug: 0644-chapter-643-market-share
+partOf: mythrans-master-of-all-continued-completed
+position: 644
+ownLength: 3250
+unit: words
+publishedAt: 2018-07-19
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/235686/chapter-643-market-share"
+royalRoadId: "235686"
+---
+
+Ren slipped off the VR headset and Stella took it from him.
+
+“Hey, kiddo.” Stella said with a crooked smiled. “Had a bit of fun, didn't you?”
+
+“Yes, and before you start complaining, I didn't have intercourse with Halaiyah or Yllana.” Ren said. “Or the succubi.”
+
+Stella chuckled. “Does that mean you slept with every other woman you met?”
+
+“What? No, of course not.” Ren said.
+
+“Then the list of the women should be a lot longer, shouldn't it?”
+
+“Geez, do I have to specify that of the women I was naked with, those were the two exceptions?” Ren asked, and she laughed.
+
+“I'm just teasing you, Ren.” Stella said and helped him sit up, then brought over the wheelchair. “Denise should have lunch ready by now.”
+
+Ren yawned. “Ugh, I'm going back to bed when I log back in.” He said. “I'm exhausted.”
+
+Stella smiled and helped him sit in the wheelchair. “Making yourself normal took that much out of you?”
+
+“Apparently.” Ren said. “Of course, I had sex right after that, so...”
+
+“Let's get you fed and fueled up so you'll feel better.” Stella said and pushed him out of the bedroom. They went down to the first floor in the elevator and went into the kitchen to the smaller table there.
+
+“Hi, sweetie!” Elise said when she saw Ren, and she practically skipped over to him to give him a kiss.
+
+“Someone's in a happy mood.” Stella said, and Elise nodded.
+
+“I sure am!” Elise said and slipped a piece of paper out of her pocket and handed it to Ren.
+
+“What's this?” Ren asked.
+
+“Read it and find out.”
+
+Ren opened it and read it. “No way! It's another 10% of Sid Tec!”
+
+“Mr. Torren called me and told me he fired Max.” Elise said, and Ren stared at her.
+
+“He fired his head programmer?!?”
+
+“Max has been screwing up a lot, but normally it can be swept under the carpet.” Elise said, and her smile faded. “This last time with him telling everyone it was your fault that the game crashed, and with the lawsuits...”
+
+“Wow.” Ren said. “Mr. Torren gave me 10% of the company?”
+
+Elise chuckled. “No, that's Max's last remaining stake in the company.” She said, and both Ren and Stella stared at her.
+
+“How did you get it?” Denise asked as she put a plate of roast beef sandwiches on the table.
+
+“Hi, everyone.” Lisa said as she came into the kitchen, gave Ren a kiss, and sat down next to him.
+
+“I knew that Max was going to try and sell his stock publicly, so I watched to see when it would appear.” Elise said and sat down on Ren's other side. “He was selling it for an outrageous price; but, since Sid Tec is a private company, interest was pretty high to get in on it.”
+
+“Especially with the hit television show.” Barbi said as she came into the kitchen from the office. “The message boards were all abuzz with what you did, Ren.” She said. “You now have the top 8 spots on the XP leader board, and 5 of them are marked out so the totals can't be seen.”
+
+Elise chuckled. “That combined with the stock going up for sale, well...”
+
+“Max got a lot for it, then.”
+
+“More than he should have, but less than what he could have gotten if he had waited for a couple more days.” Elise said.
+
+“Why?” Denise asked as they all sat down to eat.
+
+“The next episode of the show is airing tomorrow night and Ren's public invite for everyone to come and see him fight in the game Saturday morning.” Elise said. “There's nothing more spectacular than a very public event to advertise a product.”
+
+Ren chuckled. “Is that what I am now? A product?”
+
+“Until the show's season ends, yes.” Barbi said. “In fact, I've... well, I was going to keep this a surprise until the first production run was complete.” She said and stood up and went back into the office. She came out with a medium-sized box. “Since Elise mentioned products or sale...”
+
+They watched as Barbi opened the box and pulled out some packing material, then she took out an action figure.
+
+It was Ren.
+
+“Holy crap!” Ren said. “Is that really me?”
+
+“It is.” Barbi said and handed it to Elise. “Once the marketing department decided on the appropriate size for it and its accessories, and since we already had a fully modelled figure because of the game...”
+
+“You just 3D printed it, cleaned it and made a mold.” Elise said in surprise and handed the figure to Ren. “Hold on, what marketing department?”
+
+Barbi snorted a laugh. “It just sounded better than saying 'I decided'.”
+
+Elise chuckled. “It does sound better, just as long as you're not double-dipping and trying to pay yourself for doing the same job as two different people.”
+
+Barbi laughed. “I wouldn't do that, since I'm getting plenty of money already.” She said. “Plus, this falls directly into the 'control his public image' job description.”
+
+“This is so cool.” Ren said and turned the figure around. The figure wore a set of Travelling Clothes with the cape, and even had silver-blue eyes and fluffy hair.
+
+“Now, that's just the prototype. The real figure has 15 points of articulation so that it's fully poseable.” Barbi said and Ren handed the figure to Lisa. “Do you want to see what else is in the first run?”
+
+“There's more?” Ren asked.
+
+“Of course there's more.” Barbi asked. “Every hero needs a villain.” She said and took out the figure that had replaced Tristan.
+
+“Ha! When I first started playing, the most evil villain I faced was a wolf.” Ren said.
+
+“You mean this?” Barbi picked up a wolf that was in mid-lunge.
+
+“Ha ha!” Ren reached out for it, and Barbi gave it to him. “Tell me they are going to be articulated, too.”
+
+“Also 15 points, since there's just as many things to move on it.”
+
+“That is so cool.” Ren said and made a lunging motion with the wolf to the figure Lisa still held. “Rawr!”
+
+“Ahhh!” Lisa shook the Ren figure and 'ran' it around on the table, and Ren chased his miniature self with the wolf, and everyone laughed.
+
+“There's Donan, Sally, Issac, Lord Eric, a basic soldier, and the Captain of the Guard.” Barbi said and showed the figures and put them back.
+
+“Are there more creatures?” Ren asked, and she held up a giant spider, a giant bat, and a goblin.
+
+“They aren't as articulated, so they're going to be packaged as one and sold as 'Cave monsters'.”
+
+“Nice.” Ren said and passed the wolf back to Barbi, and Lisa thought about keeping the Ren figure.
+
+“Before you think about keeping it, we're getting the first 6 crates of figures for ourselves.”
+
+“Awesome! I can play with myself whenever I want!” Ren said, then his eyes widened. “Um, that's not what I meant.”
+
+Everyone laughed and picked up sandwiches and some potato chips.
+
+“Only a Lisa handful.” Stella said to Ren, and he sighed. Lisa took pity on him and grabbed a big handful and dropped it on his plate.
+
+“Thanks.” Ren said and kissed her cheek.
+
+“They're salt and vinegar, too.” Lisa said.
+
+“Really?” Ren grabbed her hand and sucked on one of her fingers.
+
+“Ren!” Lisa exclaimed.
+
+“What?” Ren asked and licked her other fingers. “I had to make sure.”
+
+“You could have just eaten a chip.” Stella chuckled.
+
+“Lisa tastes better.” Ren said and grinned, and Lisa's face flushed red as she blushed.
+
+“Just eat like normal people.” Stella said, and he nodded.
+
+Lisa went to the bathroom and washed her hands, then everyone enjoyed their lunch and polite conversation. When they were done eating and had cleaned up, they discussed the evening meal and their visitor.
+
+“I think we should all clear out and let them have a nice private dinner.” Elise said, and everyone looked at her. “We don't want to overwhelm the poor woman with who's living here during the first meeting, do we?”
+
+No one could argue the point, so they all agreed that it would just be Stella, Lisa, Ren, and Lisa's mother for dinner.
+
+“I've got some game hens in the refrigerator.” Stella said. “Lisa, how does that sound?”
+
+“Hmm? Oh, that's fine.” Lisa said.
+
+“Is everything okay?” Elise asked.
+
+“I... yes, I just...”
+
+“You're worried about it, now that it's so close.” Ren said, and Lisa nodded. “If it makes you feel any better, I'll be wearing actual clothes.”
+
+Lisa laughed. “Actual clothes is good.”
+
+“Stella's got this.” Ren said and took Lisa's hand. “Don't worry about anything, okay? I'll be on my best behavior.”
+
+“You better be.” Stella warned him, then smiled. “No joking around.”
+
+“But...”
+
+“Even if she likes them, you are not to spout jokes.”
+
+“How am I supposed to break the ice?” Ren asked.
+
+“I'll handle that.” Stella said. “You just speak when spoken to.”
+
+Ren sighed. “All right.”
+
+Elise chuckled. “Poor baby.” She said and kissed his cheek. “You be good for dinner and I'll be good later tonight.”
+
+Ren raised his eyebrows at her, and she winked at him.
+
+“Now that's an incentive to behave.” Barbi said, and everyone laughed. Their impromptu meeting broke up and Elise kissed Ren and went into the office with Barbi, Lisa helped Denise clean off the table of dishes, and Stella pushed Ren out of the kitchen and to the elevator.
+
+“Remember that you can only stay for about half the game day.” Stella said. “You need to log out and get cleaned up for supper.”
+
+“I'll tell Teepo to remind me.” Ren said as they entered the elevator. “I'll even refrain from having sex, too.”
+
+Stella chuckled. “You don't have to go out of your way to make my job easier.”
+
+“Hey, I'm all about making women happy.” Ren grinned up at her and she leaned down to give him an upside down kiss. She broke it before the elevator doors opened and pushed the wheelchair out into the hallway. She got him back to his room and settled in the bed, then Ren looked at his watch and saw that he had a few hours left to the current game night.
+
+“Really, Ren.” Stella said and handed him the VR headset. “Have fun if you want. I'll keep an eye on you.”
+
+Ren reached a hand out and she took it. “I'd rather wait and give you a surprise in the shower.”
+
+Stella snorted a laugh. “If you think you can wait that long, I'll be more than happy to accept your surprise.”
+
+“I'll do my best.” Ren said and slipped on the headset, then laid back to get comfortable. “Flow Login Start.”
+
+********
+
+Ren woke up standing next to the wall. “Hey, Teepo.” He whispered, and Teepo flew down to hover by him. “Wake me up in the morning, then in the middle of the day remind me that I need to go for Adventurer's business.”
+
+“Sure thing, Ren.” Teepo whispered back and flew back up to his perch on the ceiling.
+
+“Thanks, buddy.” Ren whispered and walked over to the bed and climbed in. He disturbed several of the other occupants, gave each of them a quick kiss, then laid down and went to sleep. It seemed like no time had passed when the morning came, and Teepo woke Ren up.
+
+“Ugh.” Ren groaned. “I want to stay in bed another hour, but I have to leave early.”
+
+“I thought you didn't have anything you needed to do?” Artemis asked.
+
+“I don't, but that doesn't mean there's nothing for me to do.” Ren responded.
+
+Artemis chuckled. “I get the feeling you want me to make a dirty joke there.”
+
+Ren smiled. “You could, even though I meant work and not pleasure.”
+
+“Uh huh.” Artemis said and sat up. Ren's hand had a firm grip on her breast and she pointed at it. “What's this, then?”
+
+“Relaxing.” Ren said, and she felt that was true.
+
+“Oh.” Artemis said, and looked for his other hand, but couldn't see it. “Where's the other one?”
+
+“I think it's on Ellaria.” Ren said and gave it a squeeze, then Ellaria moaned. “Yep, it's Ellaria.”
+
+Artemis chuckled. “Okay, everyone up! Ren's got work to do.”
+
+The 4 succubi lifted their heads and looked at her and then at Ren.
+
+“He doesn't look like he's leaving.” Katori said, and saw where his hands were. “You missed me?”
+
+Ren chuckled. “It wasn't a conscious choice.” He said and let both Ellaria and Artemis go as he sat up. “Want me to take a few minutes to make sure you all get attention?”
+
+“Please.” Katori said.
+
+Ren gave each of them a kiss and massaged their breasts for almost a full minute, and paid particular attention to the tips of their breasts. He ended the massage by suckling for several moments, and each of the succubi finished just from that. It was only a small one so it didn't knock them out, and when they were all taken care of, Ren asked them to get dressed because they were going back to the roost.
+
+“Are you dropping us off so soon?” Seldanna asked. “I thought you said we would be together for a while.”
+
+“Another 2 weeks, I believe... if they can get it sorted out and fixed.” Ren said and held a hand out to her. “Don't doubt my words unless I give you reason to.”
+
+Seldanna took his hand and he helped her off the bed. “I don't doubt them, or you.” She said. “I just... if your plans change... then I... I can't...”
+
+Ren stepped up into the air and put his face right in front of hers. “Look at me.” He said, and she stared at him. He watched her eyes shift from his left eye to his right eye. He cupped the sides of her face and brought forth her favorite emotions. “Even if I somehow had to leave you behind, I won't ever leave you.”
+
+“M-my King.”
+
+“I will take care of you for as long as I can.” Ren said and fed her emotions to make her body glow. “I will power you up far beyond what even you can imagine.” He whispered to her and gave her a little kiss and poured more emotions into her. “I want to see you grow. I want to see you powerful. I want to see you do things no one else has ever seen.”
+
+“R-Ren.” Seldanna whispered as she felt her Emotion Siphon ability reach its saturation point.
+
+“Yes, Seldanna?” Ren asked as she put her arms around him.
+
+“I want that, too.” Seldanna said and kissed him just as her ability leveled up. “HMMM!” She moaned as he doubled the emotions he was feeding her, then the other three succubi put their hands on her back. They gasped at the feelings they received from both her and Ren, and they started to glow as well.
+
+Artemis let them stay that way for several minutes, then spoke. “Ren, you said you needed to work.”
+
+Ren eased the flow of emotions and broke the kiss. “I did say that.”
+
+Seldanna chuckled as the glow around her body faded. “My King, we will accompany you on whatever journey you go on.”
+
+“Ren?” Suniva said and Ren looked at her. “Am I coming, too?”
+
+“If you want to.” Ren said. “It's only for half a day, though.”
+
+“I'd like to see Shanna and Rainie again.” Suniva said and sat up. “It's been a while since we left there.”
+
+“You just want to show off your wings.” Artemis said.
+
+“I've been dying to!” Suniva jumped to her feet and her armor opened up, then she unfolded her wings. “They are going to be so jealous!”
+
+“That should be... delicious.” One of the succubi said, and everyone laughed.
+
+“Let's go get Princess.” Ren said, then his stomach made a really loud gurgling sound. “Oh, damn.”
+
+“Yes, you need to eat for today.” Artemis said. “Breakfast first.”
+
+“I'm tempted to grab something quick, but I need to go see Nathalia anyway.” Ren said. “We'll have to put a couple of the tables together so we can all sit together.”
+
+“What? All of us?” Seldanna asked, surprised.
+
+“I'm not going to go in alone.” Ren said as Teepo dropped onto his shoulder. “Will you all join me for breakfast?”
+
+“We would be honored.” Seldanna said for the succubi.
+
+“Then let's go.” Ren said and they left the bedroom and went down the stairs. “Princess, we'll be heading to the county in a little while.” He said as they passed her door at the bottom of the stairs. “I'll grab you something to eat, too.”
+
+“Thank you, My King.” Princess said.
+
+Ren, Artemis, Suniva, and the succubi left the house and walked down the street towards the Artesian District and to the restaurant called Nathalia's Nourishment. The succubi took this opportunity to polymorph into their human disguises, as did Artemis. They weren't there to cause a spectacle like they normally did when walking through a crowd, they only wanted to eat with Ren. There wasn't much of a line at the restaurant this early in the morning, so they stood there and waited like they were just normal customers.
+
+When it was their turn, the woman that sat people was surprised and happy to see him. “My Lord... um, I mean...”
+
+“Just Ren is fine.” Ren said and she smiled. “There are 7 of us.” He said. “Can we push two of the tables together?”
+
+“Of course... Ren.”
+
+“There. That wasn't so hard, was it?” Ren asked, and she smiled.
+
+“Harder than you think, your highness.” She said, then she chuckled because she hadn't used his name like he asked. “Right this way, please.”
+
+Ren chuckled as well, then he and his group followed the woman to a set of tables that were kind of off to the side. Two of the serving girls came over and they put two of the tables together.
+
+“I could have done that.” Ren said. “You didn't have to go through the trouble.”
+
+“You are a customer and all you need to do is order and eat.” One of them said humorously. “...and pay, of course.”
+
+Ren recognized her as the one that liked being treated like a lady. “Both I, and my party, thank you for your hospitality.” He said formally and took her hand, then placed a gentle kiss on the back of it. Her face turned beet red and her heart sped up, and her emotions flooded out and made the succubi catch their breath.
+
+“Y-you're w-welcome.” The waitress said, completely flustered. “Um... ah... I'll be right back with your order!”
+
+Ren watched her rush away and looked at the other waitress. “Could you remind her that we wanted 8 breakfast specials, please?”
+
+The other waitress laughed. “I'll remind her.” She said and followed her friend into the kitchen.
+
+“Now we wait.” Ren said and sat the 6 women down at the table and slid their chairs in, then sat down himself.
+
+“Thank you for the waitress.” Seldanna said. “It was quite unexpected.”
+
+“She definitely reacted much more strongly than the last time I was here.” Ren said. “I might have lessened pouring on the charm if I'd known.”
+
+“Yeah, right!” Teepo chittered in laughter, then everyone at the table laughed, too.

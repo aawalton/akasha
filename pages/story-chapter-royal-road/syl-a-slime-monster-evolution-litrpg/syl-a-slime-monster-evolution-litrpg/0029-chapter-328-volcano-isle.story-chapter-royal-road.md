@@ -1,0 +1,187 @@
+---
+id: 9f173a39-2139-55b0-bc1f-61b5e3f16661
+page-type-slug: story-chapter-royal-road
+title: "Chapter 328 : Volcano Isle"
+slug: 0029-chapter-328-volcano-isle
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 29
+ownLength: 2154
+unit: words
+ownProgress: 2154
+publishedAt: 2025-12-22
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2869138/chapter-328-volcano-isle"
+royalRoadId: "2869138"
+markedReadAt: "2026-06-29T19:42:46.171Z"
+---
+
+Due to the sheer size of our boat, it had to be anchored in deeper waters, and we, along with our cargo, were ferried to Volcano Isle's rudimentary dock. The first thing I did before leaving was rescinding my attack order for my [Sub-Cores], as I didn't want to accidentally depopulate everything surrounding this island.
+
+My initial impressions were that this must be a relatively new outpost, as it appeared quite barebones compared to Grafgeo Islet that Vee had described for me. It wasn't shanties or shacks, but there would definitely be no five-star accommodation, and even Stantondale put this place to shame.
+
+Weird… wasn't this supposed to be a town for elites?
+
+"So is there a guild branch here, or…?" I asked, leaving the question hanging.
+
+"There isn't a branch, but there is an official liaison," the captain answered. "I suppose that's where you'll get your orders. I just transport goods and people."
+
+Personally speaking, I didn't really care too much, as my go-to living conditions were underground holes or hollowed-out trees. Vee, on the other hand, might complain, as she'd grown used to living a life of luxury.
+
+And she calls me the princess.
+
+When we arrived, there was a warm welcome from the inhabitants. I did a quick level check and found the average was around ten to fifteen levels higher than Saltport. Not only that, but I even spotted a few mages near the dock. Evidently, they did poach spellcasters, bringing them straight here, as I couldn't recall seeing any until now.
+
+As I was getting my bearings, a woman seemed to be approaching with a dazzling smile on her face. She had long, dark brown, wavy hair that reached the small of her back and strikingly violet eyes. She was wearing a sleeveless blue dress under a deeper blue corset.
+
+"Oh boy… looks like Vanessa has her eyes on the new blood already," one of the crewmen joked.
+
+"Best of luck, Sylvain. You'll need it to not be chewed up and left on the side," another chuckled.
+
+I wasn't exactly sure how to respond to this, as I wasn't quite catching their meaning. Still, Sylvain needed to be cocky and confident, so I just shrugged, pretending it was no big deal.
+
+"Sylvain, I've heard so much about you," Vanessa said as she arrived, looking straight at me.
+
+"Hello there, I'm afraid you have me at a disadvantage since I haven't heard about you," I replied.
+
+The woman giggled. "Vanessa, and I hope to change that as soon as possible. I imagine we will be spending quite some time together."
+
+A few of the crew and dockworkers whistled in response, causing Vanessa to blush. Others chuckled to their comrades, joking about whether I'll survive or not, while the remaining seemed to curse my name in envy.
+
+While Sylvain was appearing nonchalant about this interaction, I was feeling paranoid. I threw out an [Identify] and the result helped ease my mind.
+
+<Vanessa; Human LV 12; Clerk LV 26. Elemental Affinity: Water.>
+
+She's a bit low level to be out here, isn't she? Then again, I guess it doesn't matter if she's a non-combatant.
+
+"Great. I don't suppose you can point me in the direction of my liaison then?" I asked.
+
+"That's a simple task, you're looking right at her," Vanessa answered.
+
+I shot a glance at the captain, who seemed to have almost abandoned me. He noticed and gave me a nod, confirming the situation. I let out a hearty laugh, feeling like it was the Sylvain thing to do.
+
+"Well, that makes life easier. I suppose I have you to thank for my transfer?"
+
+Vanessa nodded. "You'd be correct. I heard all about how you effortlessly accomplished every task you'd been assigned to, and yet they continued wasting your talents. Everyone knows how we need every big, strong, and powerful mage here to support the efforts."
+
+A few people coughed, but Vanessa seemed to ignore it.
+
+"And judging by how fast you arrived here, I can only imagine they severely downplayed your abilities."
+
+"Well, thanks for saving me from boredom. I'm hoping I'll get to show my full capabilities out here."
+
+"Oh, definitely," Vanessa replied. "Why don't I show you around, and we can get to know each other some more?"
+
+"Gladly," I agreed.
+
+I gave a quick farewell to the captain and his crew, who seemed a bit reluctant to let me go. I could imagine that their peaceful and expedited trip had drastically changed their opinion of Sylvain.
+
+[Roleplay] was working overtime for this, which was good because I didn't have much choice in the matter. If she were the only liaison, my options would be extremely limited in this situation. Hopefully, if I kept Vanessa happy, then I could get her to assign me to some missions where I could finally encounter these elusive mermen.
+
+As we walked around the settlement, eyes seemed magnetically drawn to us. I wasn't the best at reading emotions, but it seemed like I was either the subject of pity or jealousy from the residents, with not much wiggle room between.
+
+Vanessa seemed to ignore all of it, so naturally, I ensured Sylvain followed suit. The tour was relatively brief because Volcano Isle wasn't exactly the peak of civilization and seemed to offer only a few amenities, with an emphasis on communal benefits.
+
+Only a tiny selection of people had their own homes, most of which they had built themselves, and it seemed most living conditions were barracks. Thankfully, there was something resembling an inn, so I would at least have my own private room during my stay here.
+
+Throughout the tour, Vanessa was extremely chatty and very touchy. She kept brushing up against my arm, and when I glanced, she would flutter her eyelids like she was trying to get dust out of her eyes. In response, [Roleplay] had me simply smile in return, keeping up a calm facade.
+
+I can't believe how clumsy she is; she can't even walk in a straight line without swaying into me.
+
+Since it was getting late, we ate dinner together, where I brought up the topic of deepstone refining.
+
+"Of course, tomorrow I can show you the magma forges. Trust me, it's an enchanting sight," Vanessa said with a wink.
+
+I also asked a bit about the island, and she explained that the conditions were due to a lack of manpower. Because of the location, not many came out here except to handle the shipments of deepstone, making growth difficult.
+
+The other issue was the dangerous nature of the area, as she said most expeditions to conquer the surrounding area didn't return. That and, according to Vanessa, a lot of people would abandon them after staying for a few weeks.
+
+I tried to press for more details, but Vanessa seemed to avoid answering directly, instead focusing on me and declaring that a mighty mage like myself would have no trouble conquering these waters.
+
+After our dinner, Vanessa unexpectedly asked me if I'd like to stay at her home instead of the inn. [Roleplay] seemed like it wanted me to go, but I turned the skill off and politely declined, saying that I was too tired to walk further than my bed in the inn.
+
+"That's a shame…" Vanessa pouted. "I hope tomorrow you'll have more vigor."
+
+"I'm sure a good night's rest will do me wonders," I replied.
+
+Thankfully, she didn't press further, and eventually we said our farewells and departed. Almost immediately, some of the other patrons muttered that I was an idiot, but I ignored them and instead moved quickly to my room as I could sense a presence getting closer.
+
+I locked the door behind me and collapsed backwards on the bed, the only piece of furniture in the entire room. With its small size, it might as well have been a broom closet.
+
+I wonder if this is why Vanessa wanted me to stay over? If she knew the inn rooms were this barebones, she must have felt bad about leaving me here.
+
+I lay on my bed and used the unsupervised time to lay the groundwork for recreating [Terra Step]. [Ignition Step] would have been easier, especially since I had experience thanks to [Thunder Step], but I was concerned about accidentally setting my tiny room on fire.
+
+As it was getting a bit late, I eventually felt Vee right above me, and a few moments later, the spider blurred into existence. I immediately established a telepathic connection between us.
+
+"Wow, even with you as my GPS, this place was hard to find," Vee said upon arrival.
+
+"Glad to see you again," I replied.
+
+"Glad to be back, hopefully tonight I can actually get a good night's sleep."
+
+"I thought sleeping was your specialty?" I asked teasingly.
+
+"Yeah, but being alone… It was a pretty restless night," Vee admitted. "I thought someone might enter the room, even though I bolted the door with webs. Knowing Alpha and the gang are on nightwatch apparently really helps me sleep at night."
+
+"Well, while the bed isn't big enough to share, what space you can find is all yours," I said, pointing at the relatively low-hanging ceiling.
+
+"Yeah, this place is kind of a dump; it's a good thing I'm a tiny spider," Vee joked.
+
+We spent some time catching up, and I told Vee all about my trip. Admittedly, it wasn't that exciting if you ignored my [Skill Deconstruct] progress, but I did at least tell her I had some successful hunting time and gained another level.
+
+"Did you know this island is actually hidden?" Vee asked.
+
+"No, what do you mean?"
+
+"If you're a distance away, this island is actually cloaked. When I got closer, it suddenly popped into existence," Vee answered.
+
+"Huh… was that why I didn't notice it when we first arrived? I thought I was just lost in making magic."
+
+Vee shrugged. "Probably. Although now I might need to change up my searching strategy to be closer to the water…"
+
+"It might just be for this island to make sure it isn't attacked since it's the deepstone forging location. I can try asking Vanessa about it tomorrow?" I offered.
+
+"Who's Vanessa?" Vee asked.
+
+I gave Vee the rundown, and in response, the damn spider fell into a giggling fit of laughter.
+
+"Wow, looks like Sylvain is quite the heart-throb," Vee snickered. "I can't believe you turned the fair maiden down."
+
+"Well, I needed to wait for you. I was worried we wouldn't have a private place to meet up."
+
+"Oh, so now I'm the secret mistress on the side?" Vee asked, trying to hold back her laughter.
+
+"Huh?"
+
+"Damn it, Syl, you're ruining my joke!" Vee whined.
+
+I stared at her, not really understanding what she was trying to say or accomplish.
+
+Vee sighed. "Bloody hell, I can't tell if you're serious or if you're pulling my leg."
+
+I shrugged. "I'm just being me. She's Sylvain's liaison, so I've just been letting [Roleplay] keep up appearances."
+
+"Well then, tomorrow's check-in might be especially entertaining."
+
+"Why?" I asked.
+
+"I don't want to ruin the surprise," Vee replied, now snickering again.
+
+Now it was my turn to sigh. It seemed everyone around me liked to dodge answering my questions. I had enough trouble pulling answers from Trixie, but now Vee and Vanessa were both doing the same thing.
+
+Perhaps sensing my discomfort, Vee moved on to tell me about her travels. She actually managed to find some islands in our time apart, but wrote them off for varying reasons. Either they were too small for vision, or they were too close to the mainland, which she said was "practically inviting someone to find our secret base."
+
+I thought Vee was being a bit too picky with locations, but it wasn't like we were in too much of a rush. I did, however, point out that I could probably use magic to expand the island, so as long as it was big enough for our initial setup, we had plenty of room to grow.
+
+"Well then, you'd better get way more levels in [Magma Magic]!" Vee responded.
+
+"Don't you mean [Earth Magic]?"
+
+"Most islands are formed because of volcanic activity," Vee replied.
+
+I stared at Vee, dumbfounded, which led her to give me a brief geography lesson on this topic. I was always surprised by all the random bits of trivia that were polluting her mind.
+
+Unfortunately, I still didn't agree with her and thought I could accomplish this with [Earth Magic]. However, I decided to let it go and hoped that Vee would just find her dream island while I was busy searching for the mermen.
+
+After she crafted her web hammock, we wished each other goodnight.
+
+I hope the visit to the magma forge doesn't take too long. I want to get my next assignment as soon as possible!

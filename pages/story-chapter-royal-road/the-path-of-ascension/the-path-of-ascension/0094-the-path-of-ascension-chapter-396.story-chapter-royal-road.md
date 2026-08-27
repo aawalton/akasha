@@ -1,0 +1,331 @@
+---
+id: 746af192-7035-5e82-98c6-559a4ebb3146
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 396"
+slug: 0094-the-path-of-ascension-chapter-396
+partOf: the-path-of-ascension
+position: 94
+ownLength: 4656
+unit: words
+ownProgress: 4656
+publishedAt: 2025-03-17
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2132885/the-path-of-ascension-chapter-396"
+royalRoadId: "2132885"
+markedReadAt: "2026-06-29T19:20:59.023Z"
+---
+
+Chapter 396
+
+Despite the fantastic start to their delves, things quickly settled back into a pattern. One rift after another they rushed in, killed anything on their way to the boss, killed the boss, took the reward and left.
+
+The individual fights were difficult, but no more so than any of their training. Monsters were ultimately only monsters, and even the smartest of them were driven by the rift rage that limited just how complicated their plans could be.
+
+It was part of the reason that ultimately limited cultivators who fought at Tier. Without the pressure added from a speed and power difference it was harder to truly push oneself. Something they had seen in the scramble for the ruin world.
+
+Most delvers never pushed themselves and therefore never reached their maximum potential. It was also why the army tried to never put fresh at-Tier delvers on the front lines: bad habits that got them and their teammates killed.
+
+There was something to say for the fact they were alive, where others who had pushed themselves weren’t. But the fact still remained that delving was of limited danger, even when you delved up Tiers.
+
+When delving up Tiers, you were forced to deal with the cultivation difference but the monsters didn’t become more clever.
+
+But even they were hitting the limits of how far they could push up, not because of their skill, but rather the advantage of raw cultivation difference. If you couldn't even react to a monster's attack, you couldn’t properly defend against it either, no matter how skilled you may be, and would surely die in short order.
+
+That was why Matt, Liz, and Aster spiced things up between other delves, and with Palustris being a fire-aspected world, they had a plethora of more interesting rifts to delve.
+
+After the chef rift, they spent over four years hitting other rifts going as fast as they could.
+
+This rift was something of a reward for pushing so hard as might get them all the way to Tier 27 if they played their cards right thanks to its unprecedented scaling.
+
+The moment they entered the rift, a small barely flickering flame floated in front of them.
+
+Liz sighed, seeing that there was only one in front of her three bodies. “Well, it was worth a shot.”
+
+They had hoped to cheese the rift by bringing in more Lizzes to get more essence, but with only one flame, any excess bodies would cause the rift to diminish their rewards. So she was limited to one body.
+
+Matt reached out and grabbed the flame in his left hand where it traveled down to his chest. It was almost like capturing a particularly clingy piece of fluff, but that was all. For a moment at least.
+
+After it connected and fully stuck to Matt, it started to drain mana and willpower from him though the latter was at a much slower rate than the former.
+
+At first it wasn’t much; even a normal Tier 25 would regenerate those resources fast enough to overcome the drain. However, the longer they were in the rift and the more monsters they killed with the flames alight, the larger the drain became until they discarded it.
+
+Not that it was without its corresponding reward. Rifts always seemed to keep to the mantra of risk and reward, and this one was no exception. Keeping the flame alive granted a scaling reward in greater essence per kill.
+
+For that reason, it was a rift they had wanted to delve since they started delving on Palustris proper. But so had everyone else, which meant they had had to wait for a team to relinquish their slot before it was their turn.
+
+They could have flexed their power as dukes, but that wasn’t how they wanted to rule.
+
+Aster blew at her flame where it sat on her armor, sending a wave of ice at it, but it didn’t even flicker and she sighed. “I guess it's a good thing I don’t need to be careful, but I want to lodge a formal complaint about this rift. This flame itches.”
+
+Matt actually agreed with her. “Yeah, there’s a tingling feeling that comes from it drawing on my willpower and mana. It's not pleasant.”
+
+Liz shrugged unbothered. “It's not so bad. Chop chop, slowpokes. We are officially on a timer.”
+
+Liz was unfortunately correct, and the three of them threw themselves forward through the lava-lined tunnels of the rift.
+
+The first monster they encountered was a fairly standard looking rock golem, and Liz exploded it with a thrust of her spear before it had even fully formed.
+
+A wave of essence flowed into her, but with it was a small spark. It merged with her flame and empowered it.
+
+Aster froze the second monster they encountered into a lump of hardened magma while it was still jumping at them, leaving Matt a second too slow to react.
+
+He was determined to get the third monster, but that proved unnecessary, as the third enemy they encountered was a proper fight.
+
+A dozen tentacles tipped with obsidian blades lunged at them from lava portals that appeared all along the tunnel around them.
+
+Matt deflected two of the attacks and cut through another three that were trying to attack Aster from the rear.
+
+Liz just let the fire elemental’s appendages skewer her and stole its heat to empower her ichor.
+
+A puff of cold air slowed the retreating tentacles, which bought them all enough time to feel through the portals to where the octopus monster was hiding in the streams of magma around them.
+
+Matt’s blade pierced its bulbous skull easily, though he noted the environmental magma seemed amplified by the flames they were carrying, as the damage to his sword grew and its corresponding draw on his mana increased the moment the spark merged with his flame.
+
+Calling that out, they progressed deeper through the tunnels until they reached the caverns.
+
+Most of the delving records of this rift hated the starting section for being unnecessarily long, exacerbating the drain on their mana and willpower. But even with their kills adding to their burden, they were unbothered by the trek. Though, that might have been because of how quickly they progressed down the winding halls. Instead of being careful for ambushes, they were hoping they were the ones targeted instead, as it meant even faster stacking of their multiplier.
+
+That was the thing about delving records and why they didn’t bother with them most of the time, unless they wanted to learn how to reach secret areas.
+
+The cavern was massive, a thousand miles wide at the shortest measurement, and teaming with angry rift life.
+
+The three of them immediately cut left. Not because that was what the rift guides said, but because they spotted a potential mini boss lingering among a pack of flaming jackals.
+
+It wasn’t that different from the other red furred monsters, except for the hole in the center of its chest that drank in light like a black hole.
+
+Matt was disappointed to see there wasn't any resonance with his Intent or clash with his Concept, but that had always been a long shot hope.
+
+Instead, he threw himself at the pack of monsters, letting claws, fangs, and fire-based magics slam into an already fire aspected [Cracked Phantom Armor]. His mana stone, imbued blade made short work of the monsters this time. Instead of the sword trying to be as hard as possible, his people had sent him a design that amplified the physical damage of each swing by maximizing the weapon’s sharpness enchantments.
+
+He still had the durability design ready to be swapped into at a moment’s notice, in case this test made the blade too weak. But for unarmored monsters of flesh and blood, the added cutting power let him act with near impunity.
+
+Specks of fire flowed into the flame like a wave, and he heard both Liz and Aster grumbling at his sudden rush forward.
+
+His blade flicked out and caught a particularly large jackal in the chest, noting that this larger variant had a layer of enchantments embedded into its fur which reduced the effect of his sharpness enchantments.
+
+That was surprising, and with a quick scan he confirmed that Liz and Aster had both started to encounter monsters that countered them.
+
+The culprit was made obvious when he probed ahead and found a shamanic-looking jackal standing next to the first, with a similar black hole in its chest.
+
+Next to them was a brute of a jackal covered in bone armor and wielding a sharpened jaw bone axe. It almost looked like a khopesh, which wasn’t a common weapon type, but one Matt did know how to fight against.
+
+Zeroing in on his target, Matt threw himself forward, and grabbing at the flame on his chest, tossed it at the armored jackal that almost looked surprised at his move.
+
+The flame seemed to be sucked in as it nestled in the empty void, but the reaction was immediate.
+
+From a typically sized, if well-armored jackal, the monster twisted and grew as fire blossomed and transformed the monster into an eight foot tall version of itself.
+
+The drain of Matt’s willpower and mana vanished as the flame left him, which was a mild relief thanks to the lack of itch, but it also started a countdown as the fire in the flame was drained.
+
+If it ran out of energy completely, the fire would be gone, and his multiplicative bonus to gathered essence along with it. That put a strict timer on how fast they needed to kill the now empowered mini boss.
+
+When Aster and Liz followed suit, throwing their own flames at the other two mini bosses, they had quite the fight ahead of them.
+
+Matt sped up slightly, stepping ahead of Liz and casting [Bulwark], which blocked a massive blast of blue hot [Flamethrower] as it washed around them.
+
+Matt whistled through their voice chat. “Now that is an increase in power. Peak Tier 28 at an absolute minimum. Possibly low Tier 29 in raw spell casting power.”
+
+“Noted.” Aster’s reply was clipped and sharp as she started casting area debuff spells to weaken enemy flames.
+
+Liz darted forward, her spear sending out a wave of ichor in an [Ichor Thrust], which had been one of her successes in ichor skill conversion instead of just using ichor as blood.
+
+The spell had changed slightly from its blood variant, which was similar to a water spear attack. This spell instead rippled with ichor’s unique energy, fire and lightning inside the golden blood. It pierced through the incoming wave of flames, heading right for the shaman, but the melee fighter jackal stepped in front and deflected the blow with his now full bone plate armor.
+
+The third mini boss jackal, the first one they had seen, then appeared next to Aster and tried to cut her head off with a tooth blade that shimmered with light.
+
+Instead of killing his bond, the blade passed right through her, scattering her projection like the illusion it was.
+
+The jackal, upon realizing it had fallen into a trap, tried to jump away, but the area where the fake Aster had been exploded in a wave of ice that extinguished its flaming fur and even froze its lesser variants solid around it. But before the mini boss could be finished off, it jumped far enough away that it was able to vanish.
+
+It was like fighting a less-skilled version of Allie, which was annoying but not any more dangerous than fighting any other rogues.
+
+Still pressing forward, Matt grabbed the stream of flame rushing at them with [Fire Manipulation]. The shaman tried to fight him for control, but the second he felt them try to engage in a metaphorical tug of war, he let go and caused them to inadvertently collapse their own spell.
+
+Immediate threat removed, Matt dropped [Bulwark] and rushed at the melee fighter together with Liz.
+
+Liz went low, with her body nearly touching the floor as she sought to pierce the bottom of the bone plate armor, while Matt brought his blade around in a heavy downward strike.
+
+The monster tried to leap back to avoid both blows, but Aster summoned one of her ice golems right behind it, having reappeared from her hidden state next to the shaman that the melee fighter was guarding.
+
+Unable to deflect both attacks, the melee mini boss made the choice to block Liz’s spear with its khopesh, trying to use the shape of its blade to hook her spear, while relying on its heavy bone plate armor to endure Matt’s blade.
+
+It was the wrong choice.
+
+Not that doing the opposite would have been the right one.
+
+Matt’s blade cut through its plate armor deep enough to reach muscle and flesh, and he unleashed a [Mana Slash] that bounced around in the rest of the monster's chest and caused massive damage.
+
+Aster and her ice golem turned on the shaman, which fared no better under her flurry of spells, while Liz pulled her strike to attack off to their left, where the rogue jackal tried to launch another sneak attack at them.
+
+As the bodies fell and the essence rushed into them, Matt panted. That had been risky, but cleanly executed. They had even pulled it off in time, as proven by their now weaker flames returning to them.
+
+The flames were now almost as weak as when they had first gotten them upon entering the rift, which lowered the mana and willpower drain considerably. That was one of the main advantages of fighting the mini bosses, they acted as soft resets without lowering the essence gain.
+
+However, the flame was now a lighter red, despite still being illusionary and weak due to lack of power.
+
+The downside didn’t take long for it to start showing itself, however, as each monster they killed had more flame inside them and were stronger than they had been before slaying the mini bosses.
+
+The rift’s common name, The Flame Empowers, wasn’t without its merit.
+
+The fire they carried through the rift empowered everything inside it. Everything except them, but that was just how rifts went.
+
+They cleared out the rest of the jackals before they moved onto another monster group, some magma elementals that disguised themselves as boulders. They found another set of mini bosses among them, waiting to take their flames near the center of their territory.
+
+Instead of rushing in like they had with the jackals, they spent more time and collected more flames by killing the weaker monsters. That would both make the mini bosses stronger, and also give them more time, which they felt they would need for a more defense-oriented monster.
+
+Once they got close enough, they threw their flames at the mini bosses again, empowering them to harvest for more power.
+
+Once the latest set of mini bosses were dead, their flames had nearly reached a proper orange color, signifying how advanced the flame had gotten.
+
+Most delvers never went beyond blue flames before either rushing the boss or deliberately letting their flames starve. Not because of how strong it made the monsters, though that was undoubtedly a problem for most delving Tiers, even those delving at Tier 28 instead of at Tier 26. But rather because of the willpower and mana drain the higher spectrum flames needed to sustain themselves, even at a base level. The three of them pushed all the way to violet thanks to Matt’s Concept and Talent ensuring they always had mana. That combined with their Minkalla reward which gave them more effective willpower thanks to its cost reduction for their Concepts making them practically free.
+
+That didn’t make it easy but it made it possible. The final groups of monsters they fought up until the boss were all at peak Tier 29 strength.
+
+They themselves had reached the peak of Tier 26 thanks to their massive essence multiplier in the latter half of the rift, but they really wanted to finish the rift at Tier 26 and reap the massive rewards that would come with delving up so high.
+
+The boss room was appropriately thematic for the rift, as the cave was thick with fire and fire mana, making it hard to see more than a few thousand feet ahead of them. But at the center was a single flickering flame on a plinth made of volcanic glass.
+
+Their flames, even without their direction, left them to fuse with the boss. It started to bubble and pop as it was empowered by the violet flames they carried through the rift and strengthened throughout their delve.
+
+A single humanoid figure formed and stared at them with the rift’s rage burning in its eyes.
+
+A greater fire elemental.
+
+Aster immediately cast a debuffing spell, but almost instantly the violet flames washed out of the purple elemental and tried to burn the ice mana in the spell. It failed, but it blunted the effect enough.
+
+Aster quickly shifted to illusion and wind-based spells, speeding them up and buffeting the boss.
+
+It launched itself forward with a speed that even while fully enhanced by potions, spells, Aster, and his own gear, Matt could hardly follow.
+
+[Cracked Phantom Armor], having absorbed massive amounts of fire mana and being fully fire aspected, blocked the first claw strike that tried to drive into his face, and Matt called out to his team.
+
+“It's pushing close to Tier 30 speeds. Fight or retreat?”
+
+Aster made the call, surprising him slightly. “Fight! And we aren’t Tiering up, damn it!”
+
+Liz hadn’t hesitated and threw herself forward, thrusting out at the elemental’s side.
+
+It tried to dodge, but her spear caught its right arm, causing a stream of liquid fire blood to spill out.
+
+Matt didn’t think much of it initially, and was instead going to chase after the monster, but from its blood rose half-sized jackals which attacked all three of them in a rush, uncaring for their own lives.
+
+Swinging his blade back and forth, Matt cut down five of them in short order, though he was forced to use his teleport ring to intercept the boss rushing at Aster.
+
+His blade was slammed back into his own chest from the force of their collision, but by using his Intent, Matt locked his place in the universe and even the faux Tier 30 power combatant couldn’t dislodge him.
+
+That move did, however, drain a large portion of his willpower. Not because of the cost from Matt’s Intent usage, but because the boss had a draining effect built into its own Domain, similar to the willpower drain of the flame, that was activated when it touched him.
+
+A quick check showed it wasn’t just his willpower being drained but his mana as well. The second wasn’t an issue but the first was.
+
+While he had endless mana, they didn’t have endless willpower, which meant they needed to be careful when getting in close to the boss going forward. If his willpower was fully drained, he wouldn't be able to keep Liz and Aster topped up enough on mana, leading to a cascading set of issues and potentially death.
+
+Shoving back, Matt slapped the elemental with a [Telekinesis], which did little more than ripple the monster's flame body.
+
+Genuinely surprised, Matt instead switched to [Cosmic Pressure], which multiplied the strength of gravity near Matt.
+
+With the amount of mana he was pouring into the spell, if he had cast it on a lower Tier planet, he would have rendered it uninhabitable immediately. But inside the rift there was hardly a quake.
+
+The boss did slow down for the first time, and its retreat turned into a stumble that caused the boss to reform prone.
+
+Liz followed up with a [Ichor Bullet] which struck the boss in its exposed back, but the fire portion of the ichor seemed to heal the monster while the lightning and blood were ineffective at best.
+
+Cursing through the chat, Liz said, “Its fire absorption is stronger than mine. I’d need to be in melee to even have a chance at beating it.”
+
+“Play it safe from range, then. I’ll keep it occupied.”
+
+Matt put his words to action as he launched himself forward, unbothered by the increased gravity.
+
+Just as the boss started to adapt to the new environment and move again, Matt started pulsing the mana he sent into [Cosmic Pressure], letting the gravity fluctuate, throwing every one of its moves off.
+
+Matt, being ready for each pulse, was able to attack unbothered and landed several attacks in quick succession.
+
+Cycling through spells, he confirmed Liz’s earlier finding that lightning spells did little damage and instead stuck with raw mana spells.
+
+[Mana Slash] and [Mana Charge] were old favorites he had never abandoned for times just like this.
+
+Not that he was able to attack uncontested.
+
+The violet boss monster being at a Tier 30 power level wasn’t an empty statement.
+
+Where the lesser monsters and the mini bosses struggled to pierce through the fire aspected [Cracked Phantom Armor], the boss’s flaming claws managed to punch through both layers and his physical armor any time he let it land a direct blow.
+
+Its claws leeched fire aspected poison into his flesh.
+
+Like a tree spreading its roots into fertile soil, threads of fire ate their way through Matt's flesh, carving their way deeper and upward towards his brain.
+
+Not that they made it far. Between [Regeneration] and Millennium Willow Lifesap, which let him pour mana directly into his flesh, he was able to overpower the insidious attacks before they moved more than an inch or two.
+
+Expelling the solidified fire and destroyed flesh was then just a matter of [Regeneration] pushing it out.
+
+It wasn’t pleasant, but nothing Matt hadn’t dealt with a million times before.
+
+As for the smaller monsters that formed from its splattering blood, they were of little consequence, as they were destroyed as fast as they formed with the blowback from both of their attacks.
+
+While he was keeping it occupied, Liz and Aster weren’t sitting idle despite being soft countered by the boss.
+
+Liz used [Ichor Crystal Armor] to solidify her ichor and started launching crystal feathers at them. Each one that stuck into the boss exploded, sending its liquid fire blood to flow and gather. But any time it tried to turn its attention away from Matt, he landed his own devastating attack.
+
+Aster, on the other hand, kept cycling through her repertoire. They were more buffs than debuffs, but they were enough to allow Matt to stay in the fight when combined with everything else.
+
+The boss did escape from his gravity trap by recalling itself to the plinth in the center of the room, but they showed it why that was a bad choice even before it fully reformed.
+
+Matt opened up with a full powered [Mana Beam], which ripped whatever bodypart it touched apart with an arm thick beam of pure mana.
+
+It tried to match his [Mana Beam] with its own [Flamethrower], but when even its higher Tier failed to push back [Mana Beam], it quickly gave up.
+
+It might have tried something else, but with it at range, Liz and Aster were able to attack indiscriminately and caused massive damage to the boss, with its flames flickering unsteadily at points.
+
+Seeing its repeated failures, the boss tried to wash the arena in fire but Aster turned them into partial illusions, which let their defences negate most of the undirected attack.
+
+When that failed, the elemental turned to rush down Aster and Liz, but Matt swapped with Liz and the Aster it targeted was an illusion from the start, simply trapping itself in [Cosmic Pressure]’s area of effect once more.
+
+The boss threw itself back at him with renewed fervor.
+
+That was fine.
+
+Better than fine, actually.
+
+He was perfectly willing to trade an arm for a moderate wound, because by the time his arm hit the ground, he would have already regrown the appendage.
+
+His own limbs littered the ground just as the boss’s fire blood did, but he didn’t miss the small thread of blood, both his and the bosses, entwined with golden blood that ran all the way back to Liz.
+
+He felt her grin as her body fell into a puddle, and she flowed along the conduit to appear next to the boss.
+
+She formed fully crystallized thanks to [Ichor Crystal Armor], which protected the fire portion of her ichor from being so easily stolen away.
+
+Her arms transformed into spikes and she drove them repeatedly into the boss’s back, which eventually caused it to turn on her. But while fully armored, she took the blows and let them wash over her.
+
+Her vitals reported damage, but she mitigated most of that by stealing the blood Matt had left all over the ground. Or at least what blood that hadn’t been burnt off by the fire.
+
+Right after Liz’s attack landed, when the boss was at its most distracted, Aster made her move. She had taken the blunting of her ice spells as a challenge, as for an instant the entire injured elemental froze solid, though it took everything she had.
+
+He could feel its very nature start eroding the spell, but Matt didn’t give it time to break free. With one final thrust, he forced his sword into its frozen body and exploded the mana crystal his sword had been filled with.
+
+The massive explosion flung him and Liz away from each other, but that was fine as he felt the essence unleash from the boss, and the torrent that washed into them signified the end of the fight.
+
+It was more than enough to overfill their cores, but Matt quickly stepped to the rift reward and dissipated it while they were still Tier 26, before crunching his core ten times and stepping into Tier 27 while the essence was still pouring in.
+
+The boss alone got them a noticeable way into Tier 27, which was fairly impressive for a single monster. Though, not that impressive when he considered how they had pushed the rift to its very limit by bringing a violet flame when only Tier 26, two full Tiers below the rift’s own Tier.
+
+Looking down, he snorted, seeing the reward.
+
+A massive pile of mana stones. Almost a hundred Tier 28 mana stones was a small fortune for most at even their new Tier, but it was nearly useless to the three of them.
+
+Not that he’d leave them behind. With a wave, he collected them into his storage ring.
+
+Aster kicked the boss's ash mark. “Stingy rift. Come on. We deserve a good reward, damn it. Even Luna can’t complain about that run. Four Tiers up at Tier 26 for that final boss. That's basically a record.”
+
+Matt threw an arm over her shoulder and ruffled her helmet. “It was only a faux Tier 30, so Luna won’t praise you. But it's ok. I’ll make us a nice meal to celebrate.”
+
+Liz sauntered over, phoenix Liz already reforming now that they were done with the rift. “Oh, anything in particular?”
+
+Matt shrugged. “After this rift? I was considering something spicy.”
+
+“Har har. You're not funny, Matt.” Aster blew a lock of hair now freed from her helm out of her face as she said it.
+
+“I think I’m hilarious!”
+
+“Yeah, that's the problem.”
+
+Grinning, the three of them exited the rift having finished their push.
+
+It was time to return to the real world and take care of the problems waiting there, but Matt was excited, as it meant it was time to release the new skills and see how the Empire and the greater Realm reacted.

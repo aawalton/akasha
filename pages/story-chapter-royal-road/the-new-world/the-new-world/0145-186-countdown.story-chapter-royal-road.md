@@ -1,0 +1,393 @@
+---
+id: de9d882e-abf1-5d90-a92f-ba7fcc98671f
+page-type-slug: story-chapter-royal-road
+title: "186 Countdown"
+slug: 0145-186-countdown
+partOf: the-new-world
+position: 145
+ownLength: 4213
+unit: words
+ownProgress: 4213
+publishedAt: 2019-02-25
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/337406/186-countdown"
+royalRoadId: "337406"
+markedReadAt: "2026-06-29T21:25:46.170Z"
+---
+
+I crossed my arms and leaned against the wall behind me, "Really now? This is that big a problem?"
+
+Torix raised a hand, "Indeed it is. The silvers themselves already placed Giess among a few planets with residents that require experience gain outside of eldritch. This incident tips the scales against the planet in more ways than one."
+
+Torix's eyes narrowed, "Besides, from what you describe, the Hybrid seems more than simply virulant."
+
+I shook my head, "Yeah, it was more like a moving plague than a monster."
+
+Torix leaned back, "So the evidence is overwhelming ."
+
+A portal in spacetime ripped beside us. From it, the Overseer walked out. Covered in his enormous, glowing hydraulic suit, he rivaled my height as he glanced between Torix and me,
+
+"You two again. Did you both find yet another interplanetary horror or are you wasting my time on friendly chit-chat?"
+
+Torix walked up to the Overseer, "Ah, as personable as always. In fact, Daniel did happen upon something rather nasty. It's a being I believe you'll be quite intrigued with."
+
+The Overseer let out a long, drawn-out sigh as he looked at me, "Then inform me of what other problem you've found."
+
+I explained the situation, detailing the organization and the Hybrid. As I finished my story, the Overseer laid his head in a hand,
+
+"Schema recommended glassing this world immediately after assimilation. I should have listened to his wisdom."
+
+The Overseer stood straight up, opening his red status screen, pressing a variety of buttons. I tilted my head, "Wait...glass the planet?"
+
+The Overseer nodded, "Yes. You superheat the surface of the world then cool it rapidly. This converts the world's surface into obsidian. The term glass came about since obsidian is considered volcanic glass."
+
+He raised a hand to me, "Wait one moment."
+
+A few seconds later, a holographic projection appeared with Tohtellah's face on it. Torix pointed at her, "Well well, why is she here?"
+
+The Overseer kept fiddling with his status screen, "She is a valued asset of Schema. She will assist in this operation."
+
+Tohtella gave the Overseer a bow from her desk in Yildraza. She stated,
+
+"What is it that you need, Overseer?"
+
+The big guy closed his status and raised a hand, "There's a problem you should be aware of." The Overseer gestured towards us,
+
+"This is Torix Worm and Dimension C-138. They are trusted allies of Schema despite restrictions on their statuses. Trust them as you would trust me."
+
+Tohtella gave her subdued yet amused smile, "We've already met."
+
+The Overseer raised a hand, "Of course you have." The big guy let his hand slap on his thigh, "Before I restate the obvious once more, let me ask a question. Do you know about the Hybrid?"
+
+Tohtella furrowed her brow, "No sir."
+
+The Overseer raised a hand, "Scientists inside of silver territory have fused the eldritch and silvers into a hideous abomination. I've already initiated a meltdown sequence for Giess. The planet is to be glassed in 30 days."
+
+I turned to the Overseer, my eyes widening. Torix's jaw went slack as well. Thirty days wasn't anywhere near enough time to evacuate a planet. Schema's agent continued, "You are to evacuate useful personnel to the appropriate worlds. This should prove simple since very few residents on this forsaken world have decided to even level above a hundred. I'll leave the sorting process to your discretion."
+
+Tohtella didn't even flinch, "Of course sir. May I ask a question?"
+
+"Go ahead."
+
+"Can you extend the time limit by thirty more days?"
+
+"You understand that Giess is a low priority world given its many problems. Posing a hazard to nearby worlds was the last nail in its coffin. You need to justify it's delayed culling."
+
+Tohtella steepled her fingers, "I believe that, Dan...I mean Dimension C-138 can produce a breakthrough. It's in his hands to create a cascading series of changes in the social hierarchy here. They can lead to the prevention of more mana pollution, less silver outbreaks, and greater system engagement."
+
+The Overseer shook his head, "Impossible."
+
+Tohtella raised a hand, "Before you condemn the plan, allow me to lay out a framework that we could follow."
+
+The Overseer stood still, but his impatience was obvious.
+
+"...You may proceed."
+
+Tohtella raised a finger,
+
+"We can call in a group of Fringe Walkers to clear out the silvers. As they clear the planet, Dimension C-138 and I will work towards spurring the espen people into changing public opinion of culling the eldritch. After a few weeks of his campaigning, I have confidence that we can turn Giess in the right direction."
+
+The Overseer crossed his arms, metal thudding on metal, "No."
+
+Tohtella closed her eyes, swallowing her disappointment. She collected herself before opening a palm to the Overseer, "May I ask why exactly?"
+
+The Overseer mouthed,
+
+"All your other plans on Giess have failed. It isn't you that is the problem, Tohtella. It is Giess. This will not reflect negatively on your record."
+
+Tohtella's left eye twitched, "You know it will. I've reformed nine worlds before this. Nine. I can do the same with Giess. I just need more time-"
+
+The Overseer announced with his metallic voice, "No. Your chances of success are too low, and the threat level is too high. Fringe Walkers will take years to clear Giess. That's an investment I'm not willing to make. End of discussion."
+
+Tohtella leaned forward, her voice rising, "But sir, this is my opportunity to put myself ahead of the pack. I've devoted my life to Schema's vision. I've sacrificed everything for him. Please give me this chance."
+
+The Overseer spoke with finality,
+
+"No. End of the discussion."
+
+Tohtella smacked her hands on her table, "All I'm asking for is thirty days-"
+
+The Overseer gripped his fist, his voice heavier than iron, "Do not raise your voice at me, little one."
+
+Tohtella's eyes widened. She glanced down, her violet colored skin flushing red with embarrassment. The sidelong shame had me cringing as the Overseer continued,
+
+"You are one of Schema's best agents. That is that. One of the best. Not the best. Giess proves that. The situation has destabilized, and now we've lost a species that may have proven useful. Accept your failure. Learn from your mistake. Move on."
+
+I spoke up, "Now wait a minute."
+
+The Overseer leaned back and looked up at the ceiling. He let out a long sigh, "Now you are to question my judgment as well? You two are children? You understand that your planet is also at risk? All the nearby planets could spiral out of control. I will be responsible for that."
+
+I raised a hand, "I stopped your ass from activating your kill switch against Yawm. We killed that fucker and saved Earth against impossible odds. Im-fucking-possible, remember?"
+
+I stared the Overseer down, "I'm no child, and you know it. Don't give me that shit."
+
+The Overseer peered at me, meeting my eye. After a few seconds, he backed down, glancing away for a moment. He pondered something for a moment. A few seconds later, and he opened his status,
+
+"Hmm...You have all grown. Althea gained a class. Your level is essentially capped. Your group's progress is admirable."
+
+He breathed in,
+
+"I...erred in calling you a child. Both of you. I spoke without thinking. Understand my situation. This Hybrid incident reflects negatively on me. If that anathema you speak of spreads, I will receive an immediate firing. For me, that means Schema activates my killswitch...I will die."
+
+The Overseer raised a fist and glared at me,
+
+"It's obvious, but we risk more than a single life should this plan fail. If we allow this hybrid to spread, trillions may die. Tell me, are you willing to risk that?"
+
+I frowned, stunned by what he said. To be honest, I didn't have the kind of resolve to take that kind of risk. Before I faltered, Tohtella chimed in,
+
+"Let's deliberate further.
+
+I raised a fist, "I'll fix this just like with Yawm. That must have turned your record around, right?"
+
+The Overseer raised a massive palm to his chin, "I...I suppose it did. I was on the brink before then. I have breathing room now."
+
+I spread out my arms, "Then let me do it again. That's all I'm asking for. Give us the extra thirty days. That's all we need."
+
+I gestured to Torix, "You know us. We'll get this shit done. We always do."
+
+The Overseer scoffed, "Hmmm...I suppose I've placed worse bets on you before. I'll extend the deadline as you asked." The Overseer turned to Tohtella,
+
+"If the Hybrid is found elsewhere, I will erase you before I am culled. Understood?"
+
+Tohtella nodded, "Absolutely sir. Thank you for this opportunity."
+
+The Overseer opened his portal, "Sixty days. That is all."
+
+I gave him a sarcastic salute, "Aye aye, captain."
+
+The Overseer moved his head in an arc, rolling his eyes under his helmet, "Competent as you are, you're insufferable to work with."
+
+I grinned, "Same for you. Cya later."
+
+The Overseer scoffed, "Good Luck then, Harbinger."
+
+He stepped through his portal and disappeared as quickly as he popped up. As he left, Tohtella's transmission remained. She leaned onto a hand,
+
+"Now you've both seen me at my worst. This is...humiliating."
+
+Torix laughed, "It's not so bad. When Daniel and I first met, he was worse than useless. Protecting him was a chore."
+
+I scoffed, "You have a pretty lenient definition of protecting."
+
+Torix nodded, "When it comes to you, most certainly. You're quite resilient after all. Regardless, we need to organize ourselves to sort this out."
+
+Tohtella pointed at us, "How is the search for the Skyburners going?"
+
+I shrugged, "Althea and I destroyed one of the camps already. We've got two more to go."
+
+Tohtella nodded, "What about the Hybrid?"
+
+"That's where I found it. It killed the Skyburners before we killed it."
+
+Tohtella's eyes widened, "Are you serious?"
+
+I nodded, "Yeah. It was ugly. If we let that thing go, we'd have been eaten alive. The Overseer wasn't wrong about that thing being a threat."
+
+Tohtella shook her head, "To think it was so powerful..."
+
+Torix raised a hand, "And that is precisely why we must destroy the organization behind its formation. If I may offer a suspect, I recommend we begin with Thisbey."
+
+I nodded, "Yeah, I think that's a good idea too. Thisbey owns a company that harvests silvers. That means he has the know-how to go into silver territory, survive, and collect samples. Considering that's what the lab did, that puts him pretty high on the list of suspects."
+
+Tohtella nodded, "I'll send a team to search through his offices. Are there any other suspects?"
+
+I shrugged, "I don't know. Anyone with a lot of sway and resources on Giess could be the culprit, though Thisbey's motivations line up perfectly with this."
+
+Torix nodded, "He might have let the heinous abomination out on the camp to test a genocidal tool against the gialgathens. We've no evidence to support the hypothesis, unfortunately."
+
+I smacked my right fist against my left palm, letting out a metal ring, "I know just how we can make it happen though."
+
+Torix pulled out his grimoire and pointed at me, "As usual, I'm behind you on this. We find the other camps and gather evidence there. Tohtella, make sure you inform us about any of the comings and goings you find."
+
+Tohtella blinked, "Understood."
+
+Torix clapped his hands, "Wonderful. We'll see you after we've found the other camps."
+
+Tohtella turned to me and gave me a warm grin, "As the Overseer said, good luck...and, ahem...thank you, Daniel, for helping me. I wouldn't have gotten that second chance otherwise. I'm grateful."
+
+I gave her a thumbs up, "Don't mention it."
+
+"Oh, and remember the tournament. That social change is doubly important now. If you need a speechwriter or public speaking coach, call me, and I'll set up appointments. Goodbye to both of you."
+
+She closed her call, her holographic projection dissipating. Torix raised a hand, "It had to be Thisbey's doing. Who else could justify killing the Skyburner's with a monster like that?"
+
+I sighed, "Eh, it does look like that's the case." I cracked my fingers, "I'll go find the other bases and make sure of it though."
+
+Torix stepped up, "Would you mind me going with you? We've no time to lose, and having another analytical set of eyes would no doubt be helpful."
+
+I grinned, "Alright, sure. I'll be honest, I'd like some company. It gets lonely out there."
+
+Torix's eyes brightened, "Then we'll be off soon. I'll go prepare my things."
+
+I gave him a curt nod. As Torix rummaged around, I stood there and thought about the situation. The lab being beneath the Skyburner camp was too much of a coincidence. That had to be a part of the organization's goal.
+
+At the same time, there were at least fifty organizations that hated the gialgathens. Schema didn't exile the gialgathens from the system without reason after all. Narrowing down the pool of options would be difficult because of that.
+
+It didn't sit right with me that Thisbey was such an obvious choice for all this though. The guy was a slimy, spineless snake, but that's what let him deceive and mislead people. The guy had a knack for manipulation. Even if the lab tried covering its tracks, leaving something for me to find seemed off for him. He was smarter than that.
+
+Interrupting my thoughts, Torix placed a hand on my shoulder,
+
+"Should we be off?"
+
+I raised my head, my hand supporting my chin out of habit,
+
+"Oh, sure thing."
+
+We walked out of the building, Torix pulling his hood over his head. We found Malakai standing sternly. He glanced down at us, "It sounded as if there was an argument in there. I pray I wasn't the cause."
+
+Torix shook his hands, "Of course not. You've done an excellent job Malakai. It's easy to rest with you watching over us."
+
+Malakai's chest rose as he heard that,
+
+"Well, I do my best to keep you all safe. Good outing for you both then."
+
+We walked on as Torix waved, "You as well."
+
+Pacing out of the Hall of Heroes, I lifted myself with magic. Torix stepped onto one of his black clouds, and we flew off into the sky. As the mist-shrouded us, Torix raised a hand to me,
+
+"If you wouldn't mind sharing the footage from the camp with me, I'll review it while we head out towards the other clues that the Skyburner gave us."
+
+I sent the files, "Sounds good."
+
+As we traveled through the air, Torix went full-on lecture mode,
+
+"As you may remember, Draygalga told us to search in three places. You found the camp near the River of Tears. Now we must search for a mountain of fire and ash or Lehesion and Emagrotha's battle site. The historical records of the civil war's end are blurry at best. However-"
+
+Torix sent me a few coordinates, "The location of Mt. Ash is not."
+
+I laughed, "What? It's seriously called Mt. Ash? I never thought the Skyburner's hints would be so literal."
+
+Torix shrugged, "He gave us the locations without lacing his words with riddles. I say we count our blessings."
+
+I ducked under a flock of birds, "Eh, I guess...How long is it before we reach the mountain?"
+
+Torix waved a hand, "A few hours at most given the speed of our travel. The silvers will slow us down, but I intend to use them to our advantage. In order to do so, I'll need time."
+
+I raised an eyebrow, "Are you going to be writing out some runes or charging some spells?"
+
+Torix shook his head, "Not precisely. I'll restock my private reserve of troops. I've been so preoccupied with preparing your legion that I neglected my own."
+
+I raised an eyebrow, "Where are you going to get the soldiers?"
+
+Torix pointed down towards the approaching silver territory, "Among those heathen beasts, actually. I've yet to test out my new abilities since we killed Yawm. It will do me some good to stretch these old limbs and practice a few of my incantations." Torix rolled his shoulders,
+
+"It will feel good to test my new limits as well."
+
+I raised an eyebrow, "What kind of new limits?"
+
+Torix steepled his fingers, cackling like an evil overlord, "Oh, you shall see disciple. All you need to know now is that I aim to impress."
+
+Torix steepled his fingers while descending towards the silver's border. We landed right between metal and grassy ground. Merjects and engorgs crawled off in the distance, weaving between the forest of spires. Before stepping in, Torix messed with his status screen. I imagined he was fiddling with his stats and skills.
+
+I was wrong.
+
+After a few seconds, Torix took a sharp breath and pressed something on his status with a dramatic flair. I stared at him, waiting for something to happen. Nothing did. After a few more seconds, the atmosphere around him blurred. A forcefield encompassed him in white light, letting out a blinding light.
+
+Streams of dense, white mana flooded him from all directions. The air around him siphoned inwards, bending the grass and trees to him. As the winds howled, the ground beneath his feet cracked. These fissures spread outwards, energy coalescing in breaking waves.
+
+Each pulse built the mana condensing over him. The power saturated Torix's entire body, showering him in white light. The glow around him bent inward, reality warping around him. At the apex of the display, the ritual siphoned the sound. It left my ears ringing.
+
+A moment of peace passed over our surroundings. That calm shattered as a shockwave ebbed from Torix. It ripped the grass from the ground. It uprooted nearby trees. The clouds above yielded, the mist scattering out from Torix. Nearby silver spires bent, and even the metal ground beside him crumpled.
+
+As the destruction approached me, I leaned over to take the brunt of the wave. As I did, I dragged back to the treeline, leaving me stunned. The surroundings were left devastated as Torix floated above a crater. He looked the same to me, nothing unusual about him. As he dropped down to his feet, I jogged up,
+
+"Hey, you alright?"
+
+He waved his robed arms, his black mana funneling into his palms,
+
+"I'm feeling better than ever in fact."
+
+As I reached him, Torix raised his hand up. He pointed towards the silver line, and Torix funneled the black mana at his palms into the metal. All along the border, purple, glowing eyes opened on the steel.
+
+Polygon beasts rose from the silver's territory, the saysha beetles skittering off them. Each monster took on a different form, their bodies were random but functional. Curious about what they were, I analyzed them.
+
+Ore Golems(lvl 1,000 | Controller: Torix Worm, of Darkhill) - Machinations of metal, an ore golem are mindless minions made of some lustrous chemical element. Whether made of copper, iron, or whatever the free element, these creatures are physically imposing as minions come.
+
+The robust, natural materials they are made of decide their overall toughness. If made of tin, these creatures are far more flimsy then if made of steel for instance. This requires more mana for their creation. Likewise, the strength and intelligence of the golem are decided by the amount of mana infused into the monster.
+
+The main issue of using these beings involves commanding many minds at once. Without direct control, these creatures will attack ally or foe alike, including the caster themselves. This means that mental partitioning is significant. Many young casters have been torn apart by their own beasts given a lapse in focus.
+
+If done efficiently as this creature was, ore golems are a valuable tool in any conjurer's arsenal, however.
+
+I leaned onto one foot and crossed my arms, "Did you, uh, need that white light to summon these things?"
+
+Torix scoffed, "Of course not. That light spawned from something else altogether more interesting."
+
+I pointed at them, "You've got what...a couple dozen of these things? I can see why you wanted to make them before we kicked the Skyburner's asses."
+
+Torix shook his head, "I own more along the lines of several hundred, not several dozen. However, these creatures won't be the armada I use against the Skyburners."
+
+He waved his hands at the ore golems as if they were garbage,
+
+"You've seen and felt the breath of those beasts. These creatures will be puddles in seconds against those monsters. The ore golems aren't scalable either. They require a portion of my mind in each of them. I could create a few hundred more perhaps, but a thousand of these creations pales when compared with a true army."
+
+Torix shook his hand, "No, I want a formidable force. For that, I'll be ensnaring the stronger silvers that you've found deeper in the territory. These creatures will be used to hold those stronger beasts down in place."
+
+I gestured to all of Torix, "Then what was the shockwave from earlier all about?"
+
+Torix pointed above him, "Look at my title."
+
+Torix Worm, of Darkhill(lvl 5,000 | Guild: The Harbinger's Legion | Class: Speaker)
+
+My jaw hung as he cackled,
+
+"I've been debating my class for the longest time. Since we'll be facing the Skyburner's, I assumed its time I took the leap. Too much wasted experience otherwise."
+
+I blinked a few times, "Well damn...I didn't think getting a class would be that flashy."
+
+Torix nodded, "Neither did I. Otherwise, I'd have told you about my decision before the fact. I didn't mean to surprise you."
+
+I walked up and patted his shoulder, "Eh, I like surprises. Either way, I can't believe you got a class before me. That's damn impressive."
+
+Torix puffed out his chest, "A master must tread into the unknown. There's nothing unexpected about it."
+
+I waved my hand at Torix, "What did the class do?"
+
+Torix weighed his hands back and forth, "The class revolved around charisma, perception, willpower, skills, and a few utilities. It synergized quite well with my current build, though it came with a few chores I'll need to handle from here on out."
+
+I raised an eyebrow, "Chores?"
+
+"You've seen other Speakers no doubt. They're always working, aren't they? That's because every class comes with a quota of tasks. Some people overdo their responsibilities. Others neglect them. For a Speaker, we are to enhance the overall prosperity and well being of worlds we're stationed on."
+
+I crossed my arms, "So you'll be sent somewhere soon?"
+
+Torix nodded. I winced under my helm, my stomach sinking. Torix placed a hand on my shoulder and looked at me with a mischievous glint in his eye,
+
+"Don't worry, Daniel. I'll be heading out to Earth. It's my choice to be stationed there."
+
+Relief washed over me, but I had a few questions all the same,
+
+"Why Earth though?"
+
+He raised a finger, "I've already formed an academy there for mages and warriors. That alone fulfills my duties as Speaker. Just as well, my class grants me enhanced rights, such as quest giving and the like. With those added tools at my disposal, I can motivate my students even further."
+
+Torix spread out his arms, "I'll form academies on several parts of Earth before extending my reach outward to other planets. Over the next century,
+
+my schooling will become a sign of a remarkable mage off reputation alone."
+
+He shrugged, "The warrior part, well, that may prove more difficult. I'll get there given time, however."
+
+He pointed at the silver border, "We'll have to discuss the details later. We have a task at hand, and we must hurry."
+
+I grinned, "Alright, alright. I'll quit interrogating you."
+
+With Event Horizon's aura spilling outward, I killed off the Saysha in front of us. As I stepped onto the metal floor, my foot rung out. It reminded me of what we were up against. There were two camps left. If we didn't find the cause for all this, then we'd have to rely on Tohtella to handle the problems.
+
+That wasn't a risk I wanted to take. Before I made my next step, Torix stepped up beside me,
+
+"Would you mind if I took the lead on this venture?"
+
+I turned to him, "You sure? The silvers can overwhelm you if you don't have a stout defense."
+
+Torix raised a finger, "You'll find I'm more than prepared."
+
+I let him step in front of me. As I covered his back, we skulked deeper into the forest of spires. After a few minutes, a group of merjects leaped from pillar to pillar, traveling towards us. Within seconds, they circled us like vultures. I raised my hands, my mana building in my runes. Before I let loose, Torix raised a hand to me,
+
+"Wait."
+
+He blackened the landscape with his mana, darkening the air around us. As his energy built, he raised his hands and cackled,
+
+"I wonder which spell I'll disembowel them with?"
+
+He pointed a finger at one of the merjects,
+
+"Perhaps this one."

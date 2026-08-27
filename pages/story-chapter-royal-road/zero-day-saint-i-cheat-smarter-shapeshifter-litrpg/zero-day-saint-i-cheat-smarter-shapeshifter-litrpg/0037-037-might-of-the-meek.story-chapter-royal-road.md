@@ -1,0 +1,301 @@
+---
+id: 4c7adf8b-4a66-5cf2-bead-c46d05e0b81e
+page-type-slug: story-chapter-royal-road
+title: "037 - Might of the Meek"
+slug: 0037-037-might-of-the-meek
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 37
+ownLength: 2516
+unit: words
+publishedAt: 2026-06-08
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3508247/037-might-of-the-meek"
+royalRoadId: "3508247"
+---
+
+The banter continued until we were back at the fire station, where I excused myself from the others. I had to talk to Claire.
+
+That pheasant was occupying a precious slot in my collar and I still hadn't figured out its purpose. It was in the spot where Fate slotted all those meaningful shapes: Angel, Claire's avatar, the hyena's corpse that would follow me into nightmares, and a freaking pheasant. There had to be something to it.
+
+When I entered the bottom floor of the building she'd set up in, her dot moved inside. I couldn't tell if that was because she wanted privacy or to signal I wasn't welcome. If it was the latter, she could tell me to my face.
+
+I poked my head into the apartment where she had made her home. Her Pikachu body was situated on the couch.
+
+["Hello, Eve. I've been meaning to talk to you."]
+
+I had grown in value enough to be greeted again. Had to be a big ask she had in store for me.
+
+"Hey, Claire." I sat down on an armchair across from her. "I've been meaning to ask: Is your real body safe? With other Blessed looking after you? Or are you hiding?"
+
+["There is no real body, Eve. No, I do not wish to further talk about it."]
+
+That statement invoked so many questions. And I couldn't ask any of them. Maybe another time.
+
+"What did you mean to ask about?"
+
+["You can fly now. Is that a permanent thing?"]
+
+"Unless Hell drastically boosts the gargoyle presence, yes. And at night there are demon bats patrolling."
+
+["When you have some time I need you to find a shape of mine and kill it."]
+
+Again, many questions were invoked. I kept it simple.
+
+"Why?"
+
+["Because it lost its limbs and can't move on its own and is stuck on a rooftop. The lower floors of that building are profane and it seems there are some lesser demons parked there to prevent me from going in and killing that shape myself."]
+
+Jesus Christ.
+
+"You can't let go of it? And… does it feel pain? Since when?"
+
+["Yes to both. Since the Wild Hunt attack on the first night."]
+
+Goddamn. Here I was, finding fun in the apocalypse, and Claire was playing the horror version of the same game.
+
+"Probably not today, but I'll try to make time tomorrow. Can you describe where it is?"
+
+["I can, but I already set up a relay of selves to guide you there from here. I wasn't sure you'd be able to carry me."]
+
+"Yeah, unless things get significantly worse tomorrow, I'll go out and find that shape and kill it."
+
+["Thank you. Why did you come up here?"]
+
+"It's hard to talk about the specifics, but I'm in a bit of a rush to make a call about dropping a shape from my pool or not. I think it has meaning but I can't puzzle it out. Same way that Angel or the arctic fox had meaning."
+
+["What shape is it?"]
+
+"A pheasant."
+
+There was a long silence. No further questions, just Claire working away at the problem.
+
+["Maybe your base assumption is wrong? And the Blessing is calling you a coward? Pheasants are rather flighty."]
+
+"It already gave me an opossum in the same rotation. And a cape buffalo. One shape to crush my foes, one to take flight—which I couldn't even do at that point—and one to play dead in."
+
+But then… shifting from the buffalo into the pheasant would mean I would reach tremendous speed.
+
+I stood up. "Goddammit. It might just be a pun. This is beyond silly."
+
+["Sometimes this Blessing is, isn't it? What pun?"]
+
+It would be such a specific thing. Such an obscure reference. And yet, she might be right.
+
+"Remember the idea of the peasant railgun? Shapeshifting preserves kinetic energy."
+
+["Yeah, Ash mentioned that. That's how you reach the speed."]
+
+"Thanks, Claire. I needed that second perspective. Though now I really don't know what to do about my shapes."
+
+["Just because it hints at something you could do, doesn't mean you have to do it."]
+
+Maybe she had reflected on our relationship. I was a horrible people pleaser and would do just about anything she asked of me.
+
+"But there might be rewards waiting for me," I said as I left the apartment.
+
+She hadn't commented on the kobold shape once.
+
+#
+
+In the fire station I accepted the kill reward for the unicorn and leveled up to 12.
+
+["Task rewards first or perks?"] I asked in Guide chat. In the deli, task rewards went first.
+
+"Always tasks first. They might improve the perks," Gabriel replied.
+
+Before I dealt with any of that though, I went straight for the bathroom, where I had to jump to see myself in the mirror. Briefly considering activating my Focused Fury perk, I instead climbed onto a sink.
+
+Yes, this face was objectively adorable. The devil eye stood out even more starkly against the large emerald of the other eye. I tried looking grim and instantly knew that I'd never intimidate anyone in this shape.
+
+I climbed back down. I didn't need to.
+
+On my way back to the common room, I went through the Task Reward.
+
+[Participate in a lethal Mounted Charge (Mount)
+
+Reward: Advanced Enhanced Charge (Upgraded Trait)
+
+Effect: Bonus damage with momentum-based attacks based on current speed; maximum increased damage (+200%) reached at 120 mph.]
+
+I begrudgingly clicked Accept. Situationally useful. But incredibly useful if I was ever able to do what I had just discussed with Claire.
+
+Then there was a reward for looting five enemies. Which was one each of the three potions I had already gotten.
+
+And then there was one I didn't even remember popping up. And it didn't fit with any previous rewards.
+
+[Assume three shapes within your Inherent Shape's broader category
+
+Reward: Avian Affinity (Passive)
+
+Effect: You may freely retain avian shapes you have acquired.]
+
+I clicked accept, and three new shapes populated my permanent list. Red-tailed Hawk, Cassowary, and, of course, Pheasant.
+
+This didn't track at all. Three had never been reward-worthy so far. Had Fate snuck that Task in there after my talk with Claire? Was it even bound by causality and time? There had been a lot on my mind when I assumed the hawk shape, but I would have noticed the notification.
+
+No, Claire. Pulling this off was no longer optional.
+
+Jamie, Liz, and Ash were sitting at one of the camping tables, while Stephen was whipping up a quick meal in the kitchen. I went past them and flopped down onto the couch.
+
+"Got a perk to pick," I answered the questioning glances.
+
+"How come you get to have a perk at level 12?" Liz asked.
+
+"Loki's Gift. Same perk that gives me those three daily shapes. It only cost me one of my attributes."
+
+I opened the Perk Selection menu.
+
+[Might of the Meek - Ability
+
+Activate before shifting to double the ATP cost of shifting into a shape with base Endurance of 3 or lower to increase its size and base Strength and Endurance.
+
+Growth scales inversely with base Endurance:
+
+Endurance 1: 3x size
+
+Endurance 2: 2x size
+
+Endurance 3: 1.5x size
+
+Mass and natural armor scale proportionally.
+
+-
+
+Shape Covenant - Passive
+
+Designate one non-human shape as your Covenant Shape. While spending the majority of each day in your Covenant Shape or human form, gain cumulative daily bonuses to all attributes, skill progression, and instinct while in that shape.
+
+Bonuses reset if you shift into any other non-human shape.
+
+Covenant perk upgrades automatically every 5 consecutive days.
+
+-
+
+Chimeric Absorption - Passive
+
+When consuming the heart of a humanoid or demonic creature, choose one of its innate abilities or spells to absorb permanently. Absorbed abilities can be used in any form, at double mana cost.
+
+Limit: Absorbed abilities cannot exceed your current level. Such abilities remain dormant until the required level is achieved.]
+
+"Need advice?" Gabriel asked in my head.
+
+"Nope, unless I'm missing something the choice is clear."
+
+"Just talk me through it. I'd like to see where your head is at."
+
+"One is objectively great. Two is objectively horrible. Of course it would allow me to grow to unimaginable power given enough time—it would only cost me everything this class provides. Three is edge-lord country. We will visit edge-lord country if we must, but we do not make our home there."
+
+Gabriel laughed. "Thank you for indulging me. I was slightly worried about your perspective on that third one."
+
+"I mean, it's great, of course, but it's not a role I want to embrace."
+
+The conversation at the table had ceased entirely. I selected Might of the Meek and jumped off the couch to join them.
+
+"Sorry," I said. "Maybe should have done that in chat."
+
+"What was the edge lord option?" Ash asked. "And what did you end up picking instead?"
+
+"The edge lord option was rewarding me even more for eating hearts. What I picked can make all my 'small' shapes stronger, at the cost of doubling their ATP cost. Notably, the golden retriever shape falls just into that small category. But the smaller they are, the more they get boosted."
+
+"How much?"
+
+"50% for the retriever, triple for the smallest shapes. Now I wish I still had that cat."
+
+"Okay, yeah, that does seem useful. I hope I'll get something similarly good at level 10. Want to know what my Task Reward was?" Ash asked.
+
+"Sure."
+
+"+2 to all physical attributes. For killing a significant foe without using any mana in the fight. I'm supposed to be a caster, but somehow failed to get the tools to make that work."
+
+"What was your level 5 perk?"
+
+"My skills rise faster, the more relevant knowledge I have absorbed."
+
+"We need to liberate a library. That'll make you a proper skill monkey."
+
+"Sorry, what?"
+
+I laughed. "Sorry, that's a TTRPG term. Someone with access to a lot of skills at significant values."
+
+It was around noon now. The others wouldn't be back for another hour or so. There were a couple of options for what to do next.
+
+"How long until lunch is ready?" I called out to Stephen.
+
+"Twenty minutes, give or take."
+
+I put my two Attribute Points into Intuition and hopped off my chair.
+
+"Okay, Liz, time for you to beat me up."
+
+"That sounded far too enthusiastic, you know?" Liz said, while she and Jamie stood up.
+
+"For the last two days I've been jumping from near death to near death and the Blessing kept rewarding that. Don't blame me for my wires getting crossed."
+
+#
+
+The setup for this exercise was simple. Jamie and I were blindfolded. Liz and Jamie were both armed with a broomstick, Liz playing the attacker. Jamie's role was to counter attack or even defend. I was left unarmed. Practicing weapons was pretty much entirely pointless for me. Nine times out of ten I was going into combat without opposable thumbs.
+
+Our assault plan for the fortress relied on another of Stephen's consumables, which would rob both sides of their vision.
+
+In theory, my high Intuition along with my Heightened Senses should provide me with enough information about surrounding foes so that I and Jamie, through our shared awareness, could track and attack them, even while blinded.
+
+In practice I was bonked on the head, over and over, while simply being too slow. I stuck to the kobold shape for the exercise, since it didn't come with strong instincts for fighting. Those were instincts I lacked, too, and I needed to develop them.
+
+But there was another issue. She was too quiet.
+
+After another hit I held up a hand. "Hold up for a moment."
+
+I could hear Liz's stance relaxing and the stick tapping against the ground.
+
+"Not working? Or do we need to switch something up?" she asked.
+
+"You are cheating by going too soft. Kind of."
+
+She just waited for me to elaborate.
+
+"You aren't putting a lot of force into those strikes. That means your steps are light, the air displacement of the staff is light, even the rustle of your clothes is quiet. What's your strength at?"
+
+"Nine with the food buff."
+
+There was a reason we were doing this outside of sanctified space. Friendly fire was a big no-no in those.
+
+"Okay, then strike hard, like you mean it. My Endurance is at 13, with armor to match. Don't kill me, and I can always shift out of this shape to heal."
+
+I could hear her heart rate accelerating and smell the nervousness my request caused.
+
+"You say that, but you hardly look the part," she said.
+
+"What I share with Jamie is my awareness of threats. If I don't even need to flinch from your hits, you won't be registered as a threat, and it won't work. Please give it a shot."
+
+"I'm not ready to call this hubris, but you are toeing the line, Eve," Jamie said.
+
+"Only tell me when I cross it," I said.
+
+I heard Liz bouncing on her feet. "And I'm the mad scientist. Sure, I'll hit you harder."
+
+"Thank you, Liz."
+
+I did not sense the first strike coming. It hit my left upper arm with a force that would have shattered pre-Blessing Eve's bones. This Eve only lost about 5% of her health to it.
+
+Didn't mean it didn't hurt like a bitch.
+
+"Perfect. Keep going."
+
+My health had dropped down to half before Jamie managed to parry a blow meant for me for the first time. I had already gotten better at dodging myself. When she fully committed, there was so much more noise to each blow. The shifting of her feet, or the sound when she firmly planted one to lunge at me. Her clothes, the whizz of her weapon through the air, even the deep breath and exhale before and during the strike.
+
+After Jamie's successful parry I sat down on the asphalt.
+
+"Okay, I need a break. I think you've hit my head one too many times."
+
+The training had provided real skill benefits, too. Heightened Senses was up to 13 now and Instinct had risen to 17. A 'Dodging' skill had appeared, sitting at 3 now.
+
+Still blindfolded and on the ground, I sensed an incoming attack. But I was too slow, spent precious milliseconds trying to figure out what the attack even was, before I got splashed with water.
+
+From a distance, Ash's laughter carried over. "Oh god, I never thought that'd hit," he said, while jogging over.
+
+I pulled the blindfold off. My back and head were drenched.
+
+"You looked like you needed to cool off," he said with a grin. He'd been testing how his cantrips interacted with the cane and he'd gotten considerable range for his simple water splash.
+
+"Just be glad that this wasn't inside. This brutal assault would have certainly desanctified it on the spot," I mumbled while I got up.
+
+The vague smell of chili lured me back inside.

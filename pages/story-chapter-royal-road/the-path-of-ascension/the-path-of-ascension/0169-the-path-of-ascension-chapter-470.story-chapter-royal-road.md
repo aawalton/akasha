@@ -1,0 +1,385 @@
+---
+id: 09919bbb-be8d-5ade-9128-56bc0b654297
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 470"
+slug: 0169-the-path-of-ascension-chapter-470
+partOf: the-path-of-ascension
+position: 169
+ownLength: 4997
+unit: words
+ownProgress: 4997
+publishedAt: 2026-01-09
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2927684/the-path-of-ascension-chapter-470"
+royalRoadId: "2927684"
+markedReadAt: "2026-06-29T19:33:34.178Z"
+---
+
+Chapter 470
+
+Tim gasped as he came up for air and consciousness flooded back to him.
+
+Spluttering, he found himself in a tub full of ice, melted to the point it felt like slush.
+
+The air was somehow colder than the water, but as Tim tried to pull himself out, he quickly discovered whatever burst of strength had pulled him out of his fugue had been as ephemeral as his memory.
+
+Concentrating as hard as he could, he commanded his hand to grab the edge of the tub, but his hands were too cold to respond and he felt himself slipping back into the water’s icy embrace.
+
+His eyes seemed to be the only thing that worked, and he frantically searched the room hoping to see someone, anyone, who might be able to save him.
+
+He found no one, nor anything conveniently within reach.
+
+The door was shut, but the edges were ink dark, which told him nothing about where he was.
+
+He was unable to fully concentrate through the fog of coming back into consciousness, but he knew it wouldn't last.
+
+Knowing he needed to get out of the water, Tim focused and prepared himself.
+
+In his mind, he forcefully grabbed the edge of the tub and hauled himself out, roaring to the world that he was undefeatable.
+
+Reality was far more cruel.
+
+Hands unable to follow orders, he inefficiently flailed about, hoping to use the crook of his arm to keep his head above water. His efforts came to naught and the sounds of his gasps were replaced by the calming sounds of water moving around him.
+
+No longer being a mortal, Tim could hold his breath for hours. But if the past with his spotty memory was any indication, he’d drown before he came to.
+
+With nothing else to do as he laid in the tub full of ice water, he thought.
+
+He wasn't sure how he’d gotten here, or where here even was, but he also didn’t think it mattered.
+
+He was spiraling.
+
+He knew it.
+
+Normal, healthy people didn’t wake up in tubs full of ice before they drowned themselves.
+
+Tim sort of remembered caring about such things once upon a time, but like his current location, he was cold.
+
+What was the point?
+
+Why should he bother?
+
+He didn’t have an answer, but instead of bothering him, Tim felt reinvigorated for the first time since his Concept had shattered.
+
+He couldn’t be the person everyone wanted him to be.
+
+He wanted to say he didn’t have to, but that was wrong.
+
+He felt compelled to live up to those expectations and had tried to do so, but his paths forward were always full of shortcuts.
+
+Laying in the ice with only the company of the water slowly settling down from his earlier movements, Tim hated himself for getting himself into this situation, but that was nothing new. Those feelings of self loathing were well-trodden paths.
+
+Sadly, dragging himself out of his negative mentality was just as difficult as dragging himself out of the tub.
+
+He stared upward, where the flickering light rune indicated where the lip of the tub was. Finding a reason to push forward felt impossible, but as the world started to dim, as the air in his lungs started to fail, Tim felt an instinctive panic start to well up, trying to drive him to move.
+
+The problem was he had nothing left to give.
+
+As his time ticked down, Tim found himself once more looking for alternative exits, such as emptying the tub of its water. However his numb feet were no more capable of finding and triggering the release as his hands were of pulling him out of the water. Laying in the cold ice would suck as it melted, but he’d be able to heal any frostbite with a little work at the alchemy cauldron so long as he got to breathe.
+
+The thought almost made him laugh, but Tim didn’t have the air to spare. He was nothing more than a stew in a cauldron.
+
+Deep down, Tim asked himself if he wanted to be better. He was still looking for an easy escape even now.
+
+Some days, when he acted like this, it felt like the answer was no. But he did. He wanted to be better. Or he thought he did.
+
+Seeing the lip of the tub, he knew he needed to prove that was true here and now, and use that as a turning point in his life.
+
+Easier said than done. Tim didn’t want to care about what others thought of him. He just wanted to be himself.
+
+Tim nearly laughed as he corrected himself. No he didn’t want to be himself. The self of ‘now’ wasn’t someone he liked.
+
+Trying to picture who he should aim for, Tim cycled through the obvious answers like the Ascenders, the Emperor, the Royals, his friends and teacher, even movie stars. However none of them felt right.
+
+He no longer wanted to be someone else.
+
+Tim just wanted to be out of this tub.
+
+Once more catching himself as he thought about his own assumptions, he corrected his thoughts. He wanted to be himself. He only wished for that person to be someone other people could also look up to.
+
+That was the problem.
+
+Slowly drowning, Tim finally, truly realized why his Concept had shattered. The how was just him taking yet another shortcut, but the why was because of his own self loathing reaching a critical point upon, once more, reaching a goal the ‘wrong’ way.
+
+While he knew it wasn’t inherently wrong, and despite wanting to be like everyone else, Tim didn’t particularly care for the end goal. Yes, he liked the rush of reaching his goal, of succeeding and earning recognition for doing well. Now, laying there in the tub, he realized what he actually enjoyed was the journey itself and trying to fit what he believed were others' expectations of him had torn him apart from the inside.
+
+Tim knew he was far from perfect, but that wasn’t what he wanted any more. Such a goal would only lead to more shortcuts.
+
+He wasn’t strong enough to do it on his own, but so long as he could enshrine the proper, healthy, idea into his Concept, he could get himself out of this situation and prevent it from happening again.
+
+His first idea was to make his Image of himself but better in the next moment than the one before. An Image of him that could always drive him towards selfimprovement, but he quickly saw the flaw in that idea.
+
+He had no desire to start this process over again, if another poorly worded Concept exacerbated his already-existing issues.
+
+Instead of thinking about the combination of words that would make the strongest Concept, Tim asked himself what he wanted.
+
+To his surprise, that simplified the situation significantly. Tim only really wanted to be slightly better than he was today. It almost felt too simple, but it felt right.
+
+Small improvements.
+
+Tim could take breaks. He was allowed to, it wasn’t a personal failing that he needed to rest more than others seemed to. The only place the competition he kept with everyone else existed was in his own head.
+
+Unbeknownst to him, the scattered remnants of his Concept started to piece themselves together, fragment by fragment. Almost identical, but much slower than the original construction, his Concept rebuilt itself.
+
+Feeling the process as it crossed the one third mark, Tim threw most of his second guessing to the wind and started assisting the process.
+
+With his conscious effort, it only took moments for his Concept to form.
+
+It wasn’t a pretty Image.
+
+It was him.
+
+Tim, naked and stretched out in a tub full of ice, but that was when things diverged like a painting being doused in water until it reformed.
+
+The Image Tim opened his eyes and met Tim’s.
+
+A sense of vertigo washed through Tim as their gazes locked together that made him watch to retch.
+
+When the Image settled there were no world shaking differences, Tim was still himself but he’d cut his hair and shaved.
+
+A small single improvement that Tim wanted to emulate. He didn’t have to, he could do something else so long as he improved himself in some way, but he wanted to clean himself of these past years as much as he did wanted to get out of the tub.
+
+Even though it was still freshly born, Tim felt the Concept perfectly resonating with him. He almost felt like the perfect tuning fork had been struck next to him and forced him to fall into sync.
+
+It wasn’t a bad thing. Far from it; it felt good, as if he finally felt comfortable in his own skin for the first time in decades. But he was still drowning in the tub full of ice.
+
+Once more, Tim concentrated on his arm, and with one burst of energy, he threw it up and over the edge.
+
+The limb was so cold, it almost felt as if it was someone else's, but he felt as if his thumb got caught on the rim for a moment.
+
+Gathering his energy for a second time was almost easier than it had been the first, and he managed to force his arm up and over so his arm dangled over the edge.
+
+Finally having proper leverage, Tim dragged himself out of the ice water and into the even colder air, taking in deep lungfuls rejoicing even as it hurt.
+
+With the air came strength, even if not coordination.
+
+Toppling out of the tub should have hurt, but he was so cold, he couldn’t feel anything.
+
+He almost thought he saw a cat's eyes as the overhead light rune flickered, but he didn’t care about anything other than being able to breathe.
+
+Feeling the water slowly drip down his body and onto the floor, Tim forced himself to roll over and then to his knees.
+
+It took almost an hour, with each movement taking a herculean effort, but he crawled over to the door and got his hand around the knob.
+
+He more fell into and through the door, but he still managed to open it.
+
+Tim expected to find himself in a ratty apartment in some rundown location, that was his last memory location, but he was in a half-decent skyrise. If the small hints scattered through the architecture and decor weren't enough, the Tier 2 essence told Tim he was still on a pleasure world.
+
+He had no idea which pleasure world though, as his last memories were of visiting his mother’s memorial tablet.
+
+He hadn’t and didn’t feel bad for missing her drinking herself to death, but he hated himself for getting so involved with his own issues that he missed Garrett getting married and starting a family.
+
+Visiting his mother had been a convenient excuse, and was how he eventually ended up on this world and in a tub full of ice.
+
+Taking a deep breath, Tim found it surprisingly easy not to spiral.
+
+Crawling further into the room, he grabbed the thick comforter off the bed and pulled it around him, waiting for his breath to slowly warm himself as he let the darkness of his self-made cocoon cradle him for a few moments.
+
+Hours later he forcefully exhaled the later half of his breath and pushed through the dull ache of the lingering cold, doing something he hadn’t done in what felt like decades.
+
+Pausing, Tim contemplated checking the date and seeing exactly how long recreating his Domain had taken, but he pushed that off.
+
+It was important, but not immediately so.
+
+Instead, he checked his Talent.
+
+The first thing he noticed were his Domain entries.
+
+They were back, but as if mocking his previous efforts he needed to re-purchase them. However, as he inspected the readouts, he compared them to what he knew they had been the first time he unlocked them.
+
+Beginner Concept Main Effect Strengthening (Passive Proficiency): 99/100 Proficiency — Unlock Cost: 3 Billion Credits. 1 Credit.
+
+Beginner Concept Main Effect Efficiency (Passive Proficiency): 99/100 Proficiency — Unlock Cost: 5 Billion Credits. 1 Credit.
+
+Beginner Concept Secondary Effect Strengthening (Proficiency Gain): 99/100 Proficiency — Unlock Cost: 30 Million Credits. 1 Credit.
+
+Beginner Concept Secondary Effect Efficiency (Proficiency Gain): 99/100 Proficiency — Unlock Cost: 50 Million Credits. 1 Credit.
+
+The first thing he noticed was that the effects of his Domain had flipped. With his original Concept the proficiency increase had been the primary effect, while passive proficiency had been the secondary.
+
+Tim almost felt offended, but couldn’t muster up that much emotion quite yet.
+
+The cost reduction was far more prevalent, as checking his bank account felt far too much like checking the date. He was probably broke.
+
+However, pleasure worlds deliberately ran on petty cash, and charging a few hundred credits to his room was as easy as asking the room's AI to handle the request.
+
+He did notice that the struck-through costs were far less than they had been originally. Checking his AI stored memory, he found his Concept entries cost had been reduced by several orders of magnitude. He’d paid 30 Trillion credits the first time he’d unlocked his primary effect.
+
+While he waited for the delivery, he started inspecting his still-numb fingers and toes. Thankfully his body, upgraded by his obsessive efforts, was resilient enough to not have any damage [Ranged Heal] couldn’t fix.
+
+When his delivery arrived, he forced himself to crawl over to the door, still dragging the comforter with him.
+
+Credits in hand, he curled up in front of the door. He was already pushing himself and his tests could be performed anywhere.
+
+Grabbing a handful of coins, he paused before he bought all four entries.
+
+His Concept was working.
+
+He could feel it.
+
+Mentally, he pushed his biological immortality entry into his Concept, fearing something would go wrong. He was pleasantly surprised when it worked and he started gaining proficiency. Almost immediately he noticed he was gaining passive proficiency faster than he was used to. More than that as his Domain worked, he felt it growing strong as he better embodied it.
+
+By keeping an entry in his Domain, he was fulfilling his Domain’s core purpose of making himself a little better the next day. It wouldn’t fix severe laziness, but it was a positive cycle that would hopefully make living up to his own ideals easier.
+
+As his Domain showed him with its earlier demonstration, he didn’t need to change all in one go.
+
+Small steps were fine.
+
+That did raise the question of why he needed to unlock his Domain at all, but as he tried to push his Beginner Concept Main Effect Strengthening into his Concept to boost it, he failed.
+
+A spike of fear went through him from his head to his toes, but he forcefully suppressed it. Trying all four of his Concept entries, he found the same held true for all of them.
+
+Fearing rising, he pushed his swordsmanship entry into his Concept, finally breathing again when it worked perfectly.
+
+A moment later, he understood.
+
+He was wholly unable to use his Concept to modify his Concept entries. Far from a bad thing, it was redundant. Now, every time his Concept progressed an entry and earned proficiency, the proficiency of his four Concept entries automatically progressed, thanks to deepening his connection to his Domain.
+
+It was a clever trick he’d have never considered possible, but he also realized that was what people were searching for by creating Concept’s blind.
+
+Tim never would have chosen the ‘weaker’ path if he’d been in conscious control. Chastising himself Tim realized that if he’d continued with his first test a little longer, he’d have saved himself the panic.
+
+Finally feeling in control, he dragged himself back into the bathroom where he emptied the tub and let the hot water run, melting the ice and warming the room. A part of him questioned how he got into this room or the tub, but checking his AI was the last thing on his mind.
+
+He wasn’t ready to face the consequences of previous actions. He’d need to soon enough but not right now. Instead, he focused on cleaning himself up as Image-Tim had already done.
+
+He wasn’t entirely sure if he fixated on that bit of self improvement because he’d seen his Concept Image Tim do it, or if the Image-Tim had done so because it was his own desire. Either way, he felt good after stepping out of the shower, having shaved and styled his own hair.
+
+Wrapping a towel around himself, he stepped into the living room of the hotel and froze as his gaze met the other occupant in the room.
+
+An ordinary looking black cat sat there, its tail wrapped around itself. Except it sat three feet in the air instead of on the ground.
+
+Tim pinched his freshly shaved face, but the cat opened its mouth, proving more than anything else how real it was.
+
+“I can slap you if you want.”
+
+Tim’s mind crashed to a halt as the cat then started counting on its paws. It wasn’t the act itself that surprised him, he’d seen higher Tiers in their bloodline forms. No, what surprised him was that he knew the cat from the Academy.
+
+The cat smirked at him, as the realization and understanding must have shown on his face.
+
+“Thought we abandoned you?”
+
+Tim rubbed his face, shaking his head, then nodding. Stopping, he knew he must look like an idiot.
+
+“I never really considered it. Logically, it makes sense, but it genuinely never crossed my mind. If anything, I’m more surprised you're not just a friendly stray. I never even guessed you were… well, you.”
+
+Luna, because some people needed no introduction, chuffed at him. And now that he heard it, the voice was unmistakable. “You think they just let in strays?”
+
+Tim nodded. “I think the Ascenders would string anyone up who wanted to kick a friendly stray of any type out of one of their buildings. I also never considered someone as famous as you would be hanging out there. Actually, it's really obvious as I say it out loud. I don’t know. I never expect to meet famous people after my first month or two at the academy.”
+
+Tim knew he was rambling, but Luna didn’t rush him.
+
+Finally running out of steam, he asked, “How long? I’m still too afraid to look.”
+
+Luna blinked at him, but he swore she was glaring when she opened her eyes for the second time.
+
+Swallowing, he forced himself to check.
+
+Four years, two months, nine days.
+
+That was… not nearly as bad as he’d feared. Despite that, it felt too short for what he remembered.
+
+He would have sworn eons had passed as he drifted in and out of consciousness.
+
+“Thank you for watching over me and keeping my Concept from falling apart.”
+
+Luna shook her head as he grabbed his clothes and got dressed.
+
+“We can talk about that in a moment. First, I need to know what your intentions are? It's okay not to have an answer, but if you have it, I’d like to hear it. Or we can talk about it.”
+
+Tim paused, still half dressed before shaking his head.
+
+“Go back to the academy. Apologize. Beg for forgiveness then try to live up to it. After that? Make right by the people I hope will still be able to call me a friend? After that… I don’t really know. I want to properly explore my Talent and Domain. I now get why the researchers were always trying to get me to slow down. I wasted a lot of really interesting research opportunities chasing the next improvement. I can learn anything, and I have the time. I want to learn as my interests progress and change. Maybe some days I’ll read a single book. Maybe other days I’ll work all day. I want to advance, but I want to advance in what I want, for whatever reason I want. Even if that's just working at a dead end job. I don’t want to need a reason. I just want to do. Does that make sense?”
+
+Luna nodded. “I understand and can sympathize. I was taking a fantastic nap when an idiot kept bothering me and moving me on the bench.”
+
+Tim tried to explain that he was only trying to keep her in the sun beams, but he understood she was joking with her following words. “You at least had the good grace to bring food, so when you decided to rewrite your Concept, I decided I might as well keep you alive.”
+
+Tim, remembering how he’d nearly drowned, felt indigent. “Hey! You nearly failed on the last one.”
+
+The cat didn’t dignify his retort with a response.
+
+Instead, she said something far more interesting. “Legally, this answer isn't binding, given your recent trauma recovery, but I see no reason to wait the full year period given your own plans.”
+
+Tim straightened attentively, excited to hear what the legendary trainer might have to offer.
+
+He nearly feared he was dreaming as Luna said, “You are more than welcome to return to the academy. You can even leave and break off on your own or even join another group. Your contract was voluntarily voided in your favor when you suffered such an immense psychological break. The children are far too kind for their own good, but you owe them nothing.”
+
+Tim swore he could hear a silent ‘legally’ tacked onto the end of her sentence, but that was his own guilty conscience.
+
+Logically, he knew how little he mattered to people on the Ascender’s level.
+
+Thinking for minutes without interruption, Tim finally shook his head. “I’d like to return to the academy. If I can’t, I’d join the guild if the offers are still available in some form. Part of the reason I was able to push myself so hard was because of how much I appreciated what I was being provided. Besides, where else can I find endless work, other than at Titan’s Torch?"
+
+“What if I offered you an alternative. A better offer? Like I said, not legally binding for at least a year, but I’ll make the offer and you can take it whenever you want, even if that is never.”
+
+Realizing she was waiting for him to ask, he did so. “Said offer is?”
+
+“A retainership on behalf of the Moore duchy. Legally, you’ll be working for them, but you will become my trainee. If you want to listen, you can. But directly working for them will give you full access to both the guild and the academy. You can review the details before signing, but the contracts are no more restrictive than your student one.”
+
+Tim scanned the document sent over and almost snorted as his AI flagged it for reasons of being too generous.
+
+Luna rolled her eyes. “I didn’t write the contract, but it's accurate despite the warnings. You learn with me as much as you want to learn. You can walk away at any time, and I won’t push. I might not even be willing to teach every time you want to learn. It will be a very informal disciple relationship, but I will give you the training you need. It won’t always be pleasant, but I don’t expect you to be another Ascender, and I don’t want to teach that much anymore. As you realized earlier, you have all the time in the world now.”
+
+Tim wasn't too sure about much, but he liked the idea of working more closely with both a famous trainer like Luna and possibly two Ascenders.
+
+It was close enough to an idea he’d been considering while in the shower. Signing himself up for some optional classes to give him something to do while he got himself back on his feet.
+
+Pleasure worlds had many such systems that could teach a craft or other productive job.
+
+They were mainly aimed at Tier 15’s, but Tim knew he’d have been able to find something, he just hadn’t settled on what before getting this new offer. And he had a year to back out with no consequences.
+
+It felt stupid to say anything but yes but he still hesitated. Was he singing himself up for the same troubles once again?
+
+Sure, her training was legendarily brutal, but she’d said she didn’t intend to work too hard. Casual teaching and learning sounded perfect.
+
+“I accept. At least provisionally.” Wanting to crack a joke, he added, “Does that mean you can help me get back to Palustris. I’m pretty sure I’m broke, if my memories are even close to accurate.”
+
+Luna’s voice snapped him out of his daze. “ We can discuss your travel arrangements in a moment. First let us strike while the iron is hot. Explain your understanding of what you went through post Concept breakage.”
+
+Tim shook his head, still distracted by his. “I have no clue.”
+
+The moment the words left his lips, he dropped to his knees as Luna’s cultivation was unveiled the tiniest amount.
+
+Its sudden pressure was like having a mountain dropped on him, and he struggled to breathe, let alone stand.
+
+Standing, the cat padded over and down to stand only inches in front of his face.
+
+Sitting down on the ground in front of him, she stared at him, her tail making small swishing noises with each flick.
+
+Her voice was perfectly neutral as she said, “Tim, I want you to really understand what I say next. Are you listening?”
+
+The pressure lightened until it felt like a heavy bench press, but it was more than enough for Tim to nod as he gave his full attention to the cat.
+
+“I am not your former teacher. You’d have never reached this point because I’d have broken you a year and a half into my tutelage. I’d have done it in controlled measures. Admittedly, that type of training isn’t for everyone. Even then those who can push through rarely reach true heights.”
+
+Tim was starting to consider he might be being told he had untapped potential when the cat poured cold water on his enthusiasm. “I have zero intention of teaching you that way, but seeing that my pupils have failed spectacularly in their job, I will step in.”
+
+The pressure vanished off Tim and he picked himself up to return to a sitting position.
+
+Once he was there, Luna spoke again. “To that end, I will assist. After seeing your rebirth, I don’t think we need to pretend you want to be an Ascender or anything like that. As such, those tactics wouldn’t work on you, so let's not pretend they will. However, if I am to help you, I will not accept such half-assed answers again. If you truly do not know, that is fine. There is no fault in that, but flippant answers meant to deflect or downplay will not be tolerated. I may not be giving you the full Ascender treatment, but don’t think I will accept anything less than your own seriousness. Do you understand?”
+
+Tim nodded, not quite brave enough to speak yet.
+
+Luna smiled down at him. “Good. Now let's go over what you know of the process while it is still fresh on your mind. This information might prove useful later. Then you need to think about your homework. On our way back to Palustris I want a hundred fully fired clay cups. The requirements are as follows…”
+
+Tim almost felt like complaining as he heard the list grow, but he couldn’t help but smile.
+
+***
+
+Luna’s voice was harsh in Tim’s ears, but after decades under her tutelage, he trusted his mentor implicitly. In hindsight, her lessons were always correct or logical, but going through them hadn’t always been fun. And from her tone, he was sure this was going to be bad.
+
+Their relationship was weird to outsiders according to his friends, but it worked for them.
+
+Some days he was too lazy to learn, and other days she was too lazy to teach.
+
+Most of the time, it worked out with their singular task system, but he’d been stumped on her latest assignment. Normally, when he ran into such a roadblock he pivoted and delved into one of his other interests while his Domain slowly worked him through his previous bottleneck. But this time, his Concept couldn’t break him over the threshold from Journeyman to Adept.
+
+Luna, however, disagreed with his approach, and as was her custom, her words were sharp. “You are immortal, Tim. Earlier than expected, but their result is there all the same. That is your largest curse and greatest weapon. You need to learn how to wield both. I’ve let you bounce around between tasks as you choose, but you have begun to treat your Talent like a crutch again. This time you need to do the opposite. I didn’t give you this task out of nowhere. I expect you to work at this for a while.”
+
+“H—”
+
+Luna cut him off with a swish of her tail, never opening her eyes from where she lay on a giant lily pad as it floated in the wind over the villa's pond. “You need to learn this on your own. If you can’t make any progress in a week, ask your gaggle of idiots how they deal with roadblocks. You can only learn how to wear such a roadblock down if you do it. I won't do this often but this time I insist. I—”
+
+From her reclined position, she suddenly sat up, looking into the sky.
+
+Grin spreading over her maw, she dropped a bombshell onto Tim’s plans. “Ah, the kids are back.”

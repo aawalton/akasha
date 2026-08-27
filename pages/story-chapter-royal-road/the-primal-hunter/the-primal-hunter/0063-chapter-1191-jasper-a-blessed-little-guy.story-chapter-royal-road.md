@@ -1,0 +1,159 @@
+---
+id: 63ce115b-312b-5b2d-96c5-53f1fa440a95
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1191 - Jasper, A Blessed Little Guy"
+slug: 0063-chapter-1191-jasper-a-blessed-little-guy
+partOf: the-primal-hunter
+position: 63
+ownLength: 2613
+unit: words
+ownProgress: 2613
+publishedAt: 2025-10-30
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2717217/chapter-1191-jasper-a-blessed-little-guy"
+royalRoadId: "2717217"
+markedReadAt: "2026-06-29T19:31:15.811Z"
+---
+
+Jasper, the lovable little fella, looked confused at all the people staring at him, and it didn’t help matters when the Seeker suddenly proclaimed his desire for the Forest King to hand over his left arm. Things got worse yet again when the King responded by waving his right hand, tearing the arm off at the shoulder, and making it float toward the god.
+
+“If you desire an easily regenerated appendage, fine, but I did not agree to the bet yet, so this is me doing you a favor,” the Unique Lifeform said.
+
+The Seeker looked at the arm for a moment and then back at the King. “Sure. If you ever become a god, let’s just agree I owe you a small favor.”
+
+“That’s acceptable to me,” the Forest King agreed without any hesitation. Going by how arrogant the Unique Lifeform was, he definitely fully expected to attain godhood, so trading an arm for a small favor was massively worth it. It wasn’t like the King infused the arm with Records or anything; in fact, it would begin to disperse into mana pretty quickly if the Seeker didn’t actively step in.
+
+Waving his hand, the Seeker summoned a glass-like container just the right size to contain the arm and promptly put it in there. Jake could feel a powerful magic at work, reminiscent of the preservation formations the vampires of the Order used on all their old vampire memorabilia.
+
+“Why give arm?” Jasper asked, tilting his head as he tried to grasp the current bizarre situation.
+
+“Ah, we made a bet about when you’d succeed in the trial, and I won,” the Seeker totally misrepresented the truth. “Speaking of, how did you find the test within?”
+
+“Easy. Harder. Not hard,” Jasper exclaimed, the Seeker nodding along.
+
+“True, the trial did have progressive difficulty, but it appears it didn’t quite reach a level where it could fully challenge you. Now, how about the collectibles? What items did you obtain within the trial?” the god asked.
+
+Jasper looked at the god for a few moments as he put his paws together and looked up with his big, innocent eyes. “No treasures.”
+
+The Seeker nodded as he waved his hand and retrieved the cube he’d sealed Jasper within. He checked it for a moment before nodding again. “Right, there are no treasures left in there.”
+
+Jasper nodded along as he tilted his head to the side. “Forgot?”
+
+“No, no, I didn’t,” the Seeker muttered.
+
+“Mystery...” Jasper said, shaking his head as if they had just encountered a truly unsolvable crime.
+
+“Oh, well, you can keep them,” the god shrugged, Jake highly suspecting that had been the plan all along.
+
+“Jasper pass?” the Shimmershroud Planeswarper asked.
+
+“Of course, you performed far above my already unrealistic expectations,” the Seeker answered honestly. “Perhaps that’s my fault, though. I should have put more stock in a creature recommended by the Malefic Viper, especially after looking into the history of your fellow creations.”
+
+Turning to look at Jake, the god continued in his usual casual tone. “I’m tempted to lock you in a prison and have you perform experiments to see the extent of your abilities, but doing that would break the Bloodline Accords, piss off the Malefic Viper, make several other factions also start bothering me, and perhaps most importantly, not prove very effective.”
+
+“Bad guy!” Jasper yelled, crossing his paws.
+
+“I said I was tempted, not that I seriously considered it,” the Seeker clarified. “Temptation is a normal emotion, and it’s only when it’s acted upon without further thought and consideration that it can ever be considered a problem. If we judged everyone by their intrusive thoughts, everyone would be considered bad guys simply due to an aspect of the sapient condition.”
+
+The answer was way too serious than was warranted, making everyone look at the god before he continued.
+
+“I digress; let’s get back on topic,” he said, leaning forward to get a better look at the Shimmershroud Planeswarper. “Since you passed the test with flying colors, I want to give you a Blessing. If we go purely by performance, I would argue we’re in the territory of warranting a True Blessing, but I don’t really know you well enough to make you my Chosen quite yet, and besides, I already have a Chosen, and it would be horribly impolite to take away her Blessing out of nowhere. Hence, that's why I’ve settled on a Divine Blessing.”
+
+The result was more or less as Jake had predicted, so when Jasper briefly looked to him for guidance, he nodded. A Divine Blessing truly was the best one could hope for under circumstances like these.
+
+Even if the Seeker didn’t have a Chosen already, Jake wouldn’t have expected him to make Jasper one right off the bat. A True Blessing carried a lot more investment than any other Blessing and formed a close relationship between the Patron and the blessed. Due to this, most gods didn’t only want someone with enough potential to warrant a Blessing, but also to know them more as individuals, to see if they had compatible personalities.
+
+Villy was the weird one for giving a True Blessing so willy-nilly, and Jake was fairly sure the Lord Protector had only made Sandy his Chosen because of what the Viper had done. Something Jake couldn’t see many other gods doing, as there were far more things to consider when handing out a True Blessing compared to a divine one.
+
+That’s why a Divine Blessing was nearly always used as a trial period of sorts, and many saw those with Divine Blessings as Chosen Candidates should the spot open up. Assuming the person proved themselves compatible and talented enough, of course. Despite the Seeker being an oddball, it appeared he was at least somewhat normal when it came to handing out Blessings, maybe because it was something that actually mattered.
+
+Oh, on a small side note, Jake had learned from Villy a while back that if one upgraded a Blessing, the god didn’t lose the Records from the one given prior. They essentially received a full refund when they provided an upgrade, resulting in no loss even if the god in question had their follower go through several Blessings one by one. In fact, many gods purposefully started everyone with only a Minor Blessing and then rewarded those who proved themselves by upgrading their Blessing over time.
+
+Anyhow, back to the situation in the living room, Jasper looked at the Seeker for a few moments before nodding. “Okay!”
+
+“So we’re in agreement?” the Seeker asked to clarify everything. “I’ll provide you with a Divine Blessing, and you continue on your Path with increased momentum. If you need tips and tricks, you’ll be able to reach out to me. Additionally, there may be situations where I ask you to do something. If either party is in disagreement about assisting the other, we can discuss it and potentially have a third party mediate. Other terms of Blessings also apply, but be aware I do not expect you to be overly faithful or anything. Never been a part of my Path to care about that.”
+
+Jasper continued nodding as a thought struck him. “Share loot?”
+
+“While you may get a skill offered that allows you to offer treasures to me in religious rituals, you are not required or requested to choose one. Anything you acquire belongs to you and you alone unless you choose to relinquish it. However, if you obtain something unique that catches my eye, it may be one of the situations where I request to get the item, at which point fair compensation will be discussed.”
+
+“Leave here?” Jasper also asked.
+
+“You’re free to follow your Path no matter where it takes you, but if you so desire, I do know a few places that could serve as suitable testing grounds for you to truly realize your potential. From my initial analysis of the trial cube, while you certainly did well, your abilities are still in their infancy,” the Seeker continued to answer every question patiently, Jasper looking like the offer from the Seeker to see more of the multiverse was tempting.
+
+“Upgrade Blessing?” the small B-grade beast finally asked.
+
+“The True Blessing is certainly still on the table if an opportunity ever presents itself and you continue to prove yourself worthy of receiving one. I cannot promise when it may become available,” the Seeker shook his head. “My current Chosen is S-grade and rapidly approaching the peak of their grade, but it’s still hard to make any kind of timeline. You’ll likely have to wait for her to either successfully ascend to godhood or fail and have me relinquish the Blessing, but who knows, you could get lucky and have her die tomorrow.”
+
+Jasper nodded in acknowledgement as he stood to be as tall as possible. “Blessing!”
+
+“Oh, right,” the Seeker looked like he’d entirely forgotten he had to actually give the Blessing. Perhaps to save himself some effort, the god reached over and poked Jasper on the forehead.
+
+A moment later, Jasper’s aura began to experience a shift, primarily caused by the increase in stats from the title getting a Divine Blessing provided. The Shimmershroud Planeswarper focused on these changes as he also had a new non-combat skill to look at, naturally also provided by the title.
+
+“In moments like these, I get really jealous I can’t give out Blessings,” Minaga sighed loudly. “The system is truly unfair, oppressing me like that.”
+
+“The only unfair thing the system has done was not erase you from the multiverse simply on account of how absurd your existence is,” the King scoffed, his left arm already well on its way to being fully regenerated.
+
+“Wow, so just because I have one tiny, teeny, little thing going for me, it’s okay I’m excluded from other fun aspects of the system, huh?” Minaga said in a sharp tone, crossing his arms. However, his face then suddenly changed as if he had been struck by a huge realization.
+
+“Oh... I get it,” Minaga sighed as he teleported over and put a hand on the King’s shoulder before the other Unique Lifeform could react. “To be a king yet not able to start a royal Lineage... you’re jealous because I can have as many mini-mes as I want, while you can never have tiny versions of yourself running around your legs, bringing joy and meaning to your life as you stare across the room and spot your beloved partner and mother to your little princes.”
+
+The King just stared at Minaga for several seconds before the other Unique Lifeform slowly lifted his hand off the King. “Or not... but do know that if my words struck a chord, I’m here for you. We can start a support group for the one demographic truly oppressed by the system: Unique Lifeforms.”
+
+A solid five seconds passed before the King looked toward Jake. “I’m returning to the garden to practice before my soul gets injured from overexposure to stupidity.”
+
+“I wish you success in realizing your Path,” the Seeker nodded, once more being way too serious.
+
+The King didn’t even address him as he quickly left the room. Minaga looked after him as he disappeared before letting out a loud sigh. “Look at him, bottling up all his emotions like that, unable to realize his own feelings.”
+
+Jake looked at Minaga for a second before turning back to Jasper. “So, you got your Blessing, eh?”
+
+“Blessed!” Jasper, who was done looking at system notifications, exclaimed loudly as he lifted his paws toward the ceiling.
+
+“Blessed indeed,” Jake chuckled. “I hope you got a nice skill with the Blessing.”
+
+Jasper nodded as he continued to hold up his paws, energy gathering between them. This energy soon took a square shape before the magic finalized, revealing a cube filled with magical scripts all over it.
+
+“Knowledge!” Jasper said happily as he hugged the cube.
+
+“It’s a skill that allows Jasper to manifest copies of a limited number of pre-made cubes containing knowledge and theories primarily pertaining to safecracking, barrier-breaking, infiltration, and treasure stabilization,” the Seeker explained.
+
+The little Shimmershroud Planeswarper kept hugging the cube and even tried biting it a few times as Jake glanced at the Seeker.
+
+“Between the trial cube, the Puzzle Box, which is also a cube, and this skill... why cubes?”
+
+Jake reckoned there had to be some good explanation for why the Seeker seemed to only make cubes. He knew that shapes could have conceptual meaning, an aspect that was used a lot during rituals and other kinds of formation magic, so Jake could only begin to imagine the level of profoundness behin-
+
+“They’re the easiest to stack and the most space-efficient way to store anything,” the Seeker said. “I tried spheres, but they waste too much space between them when stacked together.”
+
+“Oh,” Jake exclaimed. Why or how the Seeker had storage concerns, he decided not to ask, as he feared the answer would be a lot longer and more boring than Jake cared for.
+
+“Cubes!” Jasper said happily as he threw his summoned cube up and down a few times before it began to turn transparent, and a few seconds later, it entirely disappeared.
+
+“Remember, you need to continue infusing small amounts of energy to anchor the cube, or it will be de-summoned,” the Seeker reminded the Planeswarper.
+
+“Me know,” Jasper nodded, jumping from the coffee table and over to Artemis, who had silently been hanging out with Nature’s Attendant off to the side of the room, trying not to get involved in the chaos created by Jake and the two other gods.
+
+She caught Jasper as the little guy snuggled up to her, rubbing his head against her chest a few times before looking up. “Jasper bye.”
+
+Artemis, who had naturally still been listening to everything going on, knew what the little guy was getting at and nodded with a smile. “I’m sure your new Patron can find places a lot more interesting to explore than what the Pantheon of Life has to offer.”
+
+Having him and the Seeker leave the Pantheon of Life’s territory definitely also looked like something Nature’s Attendant was in favor of, as the second-in-command of the Pantheon of Life nodded his head.
+
+Jasper hugged Artemis one more time before jumping over to land on top of Jake’s head and quickly leaping down to sit on his lap. The little guy looked at Jake, who smiled and scratched the cat-like creature behind his ears.
+
+“You go be a real menace to the multiverse now,” he said semi-jokingly as he turned more serious. “And know that if you ever want anywhere to return to and call home, just seek me out and you’ll find it.”
+
+Jasper nodded solemnly as he gave Jake a hug. Jake returned it as the two sat there for a few seconds before the Planeswarper pulled back and looked up at him again. “Jasper. Jake. Family!”
+
+“That we are,” Jake smiled, making Jasper clap his paws and give him one more quick hug before the B-grade jumped back to the coffee table and looked at the Seeker.
+
+“Jasper ready go,” he said with resolution.
+
+“Very well,” the Seeker agreed.
+
+Looking at everyone else, the god gave a quick nod. “It was nice meeting you all, and I hope we shall cross Paths once more, assuming you all survive till then.”
+
+Before anyone could even say anything, the Seeker teleported away alongside Jasper, leaving the room suddenly feeling empty and eerily silent before Minaga exclaimed loudly:
+
+“Hey! How come I didn’t get a hug?”

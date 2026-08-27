@@ -1,0 +1,191 @@
+---
+id: ea3df6f3-f150-56b6-bb38-862181d612df
+page-type-slug: story-chapter-royal-road
+title: "Chapter 385 : Bullying"
+slug: 0087-chapter-385-bullying
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 87
+ownLength: 2540
+unit: words
+publishedAt: 2026-06-01
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3476625/chapter-385-bullying"
+royalRoadId: "3476625"
+---
+
+With everything taken care of, it was finally time to depart. The first thing I did was cast my fancy new spell again and confirm whether I could get Glimmerock's coordinates, which worked perfectly. I compared the results to the first casting and also verified that they had changed slightly, no doubt due to the floating island drifting.
+
+You know I should name it. If the system won't name it, then I will.
+
+I tried coming up with a few names on the spot, but nothing could beat the simplicity of [Landscape]. Considering I had no reason to ever cast the one without the other, I officially handed the name over to the superior spell.
+
+Then, with nothing else, I began casting a teleportation spell using the refreshed coordinates, my anticipation bubbling with excitement over whether it would work. Yes, there was a bit of risk with this maneuver, as I actually had no confirmation that these coordinates were indeed what I thought they were. As the spell took hold and a sizable chunk of Mana was spent, the world around me blurred and went topsy-turvy, and when everything finally regained its clarity, I found myself in an entirely new environment.
+
+I sighed with relief, as there was definitely a non-zero chance of me teleporting into a void, or worse, but there was one big question on my mind. Is this Glimmerock?
+
+I quickly cast [Map], and my answer was confirmed. This was indeed the floating island where I met Trixie, gained the power of lightning, defeated a spirit, and evolved. All things considered, Glimmerock held a lot of my memories and accomplishments.
+
+I want to take a quick look around.
+
+Whether out of nostalgia or to protect my identity, I took on the classic "blueblin" form that was iconic to me back then. The mix of goblin and elf, with wings for mobility and, of course, glorious blue skin, was a marvel of what I had discovered [Chimeric Mimicry] was capable of.
+
+Of course, I think mixing a giant worm and a kraken is now the best form I have available, but I don't exactly plan to destroy Glimmerock.
+
+I flew up from where I had appeared and saw familiar sights. The lake where I fought the spirit, the ruins where I fought ghouls and discovered Trixie, and the large tree where I fought the horse prince and where we lived. I picked the tree as my first destination and began to slowly fly over, taking in the sights as I did so.
+
+I wonder if another yellow slime has spawned here. I wouldn't mind a snack.
+
+I spread my senses out, and that was when I noticed a peculiarity. Someone, or something, was messing with the essence of the floating island, and I could see it being drawn towards the giant tree. Back then, I had to take Trixie's word for it, but now I can see and confirm it for myself. Glimmerock was abundant with essence and would probably be a good spot to set up a dungeon.
+
+I wonder if it's another spirit? Or maybe it's Trixie? No, wait, Trixie said she would never do the whole passive essence gathering route… Then again, what she says and does might be different.
+
+From what I'd witnessed, Trixie appeared very lazy, so her denying it so vehemently was a bit of a surprise. The lazy pixie who barely lifted a finger on the island or during our stay in Dhoggurum certainly fit the bill.
+
+Well, whatever, I guess I'll see who or what it is when I reach the tree.
+
+I picked up speed and flew directly there. I had hoped that, before reaching it, I'd be able to detect which creature was responsible for this, but as I got closer, the overwhelming amount of gathered essence drowned out everything else.
+
+Using my regular vision, the tree appeared far messier than I remembered it, and not the kind that was from the passage of time. In fact, it looked oddly similar to when we first found it, as if someone had converted it into a barn.
+
+I landed, and as I was about to use [Tremor Sense] to feel through the ground, there was a sudden pompous laughter that erupted.
+
+"I knew if I waited long enough, the villain would appear!"
+
+I was stunned in shock as, emerging from the tree with radiant glory, was an almost exact replica of the alicorn prince I had fought all that time ago. However, on second look, I realized this one might have been slightly taller.
+
+<Sebastion Fluttersparkle Shimmerhorn III [King]; Royal Alicorn [IV] LV 22; Exemplar LV 34.>
+
+Is this his father?
+
+"Don't pretend to be confused, I can smell my son's blood on your hands!" he declared.
+
+I looked at my hands and wondered if what he said was true. Had I somehow been marked? I even gave my hands a sniff to try to see if I could smell anything.
+
+"Father, are you sure this is the right one?" another, more feminine voice asked, although it sounded extremely similar to the king. Emerging from the tree was another identical-looking alicorn, although her mane and tail might have been a bit more curly.
+
+<Sebastianna Fluttersparkle Shimmerhorn V [Princess]; Alicorn [III] LV 28; Dawnblade LV 23.>
+
+The sister and daughter? Why is the name almost the same, though…? I know I've been naming all my personas with Syl at the start, but this is ridiculous!
+
+"I'll admit I'm not sure, but doesn't this one look extra guilty?" the alicorn king asked.
+
+"The others certainly didn't sniff their hands," the princess admitted.
+
+"What does it matter? We will just kill them like the others who wandered onto this island and avenge my older brother!" another voice cried out.
+
+Again, emerging from the tree with radiant brilliance was yet another alicorn. At this point, I was growing tired of this and felt my eye twitching uncontrollably.
+
+<Sebastion Fluttersparkle Shimmerhorn XVII [Prince]; Alicorn [III] LV 20; Lightbearer LV 15.>
+
+This one looked and sounded exactly like the one I had fought back when I first arrived on Glimmerock, except judging by his name, he was presumably younger than his brother. Yet, despite that, he had significantly more levels.
+
+Although compared to me, only the king can even put up a fight. And considering he's only a tier-four monster…
+
+I wanted to laugh at how confident they were, even though I knew it was partially my fault for the unassuming form and for keeping my race, class, and levels hidden. Of course, that was assuming that these dumb horses even had [Identify].
+
+"What say you, villain, are you ready to confess your crimes before we smite you?" the king asked.
+
+"Clearly the apple doesn't fall far from the tree… Yes, I defeated your pompous son," I admitted.
+
+"Finally! We can go home after this," the princess cheered.
+
+"A pity it's ending so soon, I was still honing my blade," the prince lamented.
+
+"Well, nothing is stopping you from staying and continuing to hunt any humans that come up here," the princess quickly pointed out.
+
+"Exactly, son, you are old enough to experience slaughtering the humans for yourself," the king confirmed.
+
+"Really? Thank you, father!" the prince exclaimed.
+
+I was once again stunned by the sheer arrogance on display. These royal ponies hadn't even considered that I was stronger than them; in fact, they were treating me as if I were already dead. I couldn't believe it.
+
+And I thought I'd grown arrogant since my last evolution. Gods, I hope I don't ever become this bad.
+
+I activated [Personal Rift] and took command of the space around us as it began to exert its influence. There was no reaction at all from the trio, further proof that they had literally no idea who or what they were messing with. It was so bad that I even felt a little sorry for them, as who could ever be this dumb?
+
+I'll offer them a chance to forgive and forget, so at least no one can say I'm bullying the weak.
+
+"Look, I'm not going to lie and say I'm sorry about killing your son; he was trying to kill me first, after all, but I'm far stronger than I was back then," I warned.
+
+"I see the cretin can actually speak," the king scoffed.
+
+"Look, we're fellow monsters… I'm at tier-five, surely you know what that means, right?"
+
+The princess gasped. The prince coughed. The king… Looked confused.
+
+"Father, what is tier-five?" the princess asked.
+
+"I have no idea," the king admitted without an ounce of shame. "But this creature clearly must think it means it's stronger than me. Laughable!"
+
+"You're only tier-four!" I shouted back at him and then pointed at the other two. "And you two are only tier-three!"
+
+"Father, I think it just insulted us," the prince said.
+
+"Indeed, son, this cretin is trying to befuddle us with words," the king said with a nod.
+
+"Using words as weapons… Is this the fabled tongue-sword?" the princess asked.
+
+"It must be a poor imitation as I'm neither wounded nor am I any less determined to crush it under my hoof," the prince replied.
+
+I once again found myself twitching uncontrollably. Considering I had perfect control over my slimy body like never before, and they had brought this reaction out of me, it had proven just how effective they were at getting under the skin.
+
+You tried, Syl. Nobody can deny that you tried… I told myself.
+
+"Look, it's shaking! It must be utterly terrified that we saw through its plot!" the princess exclaimed, giggling.
+
+I clenched my fist and swung it outward. With a crack, it collided with an unseen obstacle in the air and shattered, rupturing an aperture on the spot and embedding my hand in it.
+
+"Father, what is that?" the princess asked.
+
+"I don't know, dear…" the king answered.
+
+"Father, I don't like it," she continued.
+
+"Then let's kill it and make it go away!" the prince declared and summoned forth a large greatsword made of light from his horn.
+
+The prince swung the magical blade at me with the flourish of his horn, and at the same time, I swung my arm that was still embedded inside the cracked aperture. As my arm moved, it continued tearing through space, and the spatial tear collided with the oncoming blade.
+
+The trio was snickering as if nothing could survive a confrontation with this blade, but when it simply touched the dimensional crack, it was split cleanly in two. Their eyes bulged in shock and horror, but I wasn't done yet, as above them, the space continued to rupture and link up with the aperture I first formed.
+
+From above, slimy tendrils descended, forming an incomprehensible maw. The prince and princess couldn't react in time and were seized in moments, but the king flashed away in a blinding light and narrowly escaped the grasp.
+
+"Fiend! Unhand my children!" he shouted as numerous weapons of magical light formed around him.
+
+I ignored him, and they were dragged into the rift, never to be seen again. I expected the king to fly into a rage, but his response genuinely surprised me.
+
+"Darn it, now I need to groom Sebastion XIX to be the new crown prince… You don't know what a headache you've caused me!"
+
+I felt myself twitching again, and to remedy my condition, I began casting spells. I knew that alicorns were somewhat resistant to magic, so I could only imagine that its upgrade, the royal alicorn, was greater. I cast two spells in quick succession, [Displaced] and [Lock], weakening the king's resistance and then removing his avenue of escape.
+
+This time, the king did react, but it was already too late, as dimensional magic was extremely subtle and insidious. With his coordinates locked, I double-folded the space around him and finally began casting my latest spell [Rift Rend]. I held nothing back, empowering it and even using [Magical Overcharge]. The entire time this was going on, the king was screaming his demands.
+
+"Unhand me, you cretin! You are not worthy to touch the royal hide! Do you not know who I am!?"
+
+The spell was complete, and with a wave of my hand, it was cast, shooting out a blackish-purple blade in an arc towards him. The king squirmed right as the blade passed through him, cutting across him through the folds with unparalleled sharpness.
+
+"I-impossible!" he cried out, as his body was severed neatly into multiple pieces.
+
+I shook my head and opened another tear below him, catching the bits into the dimensional maw for me to devour. I was a little interested in the updated profile, but my attention was grabbed by two more important things.
+
+The first was the performance of [Rift Rend], which, unlike [Spatial Severing], was much more flexible in its application. I could control its size and shape, which is why it had been a large black blade arc, yet this came at the cost of being a projectile rather than an almost instantaneous effect.
+
+If I could lock down the space of my foe, it was my most powerful non-slime-related weapon at my disposal. If they weren't, though, then its ominous appearance alone was enough to scream "dodge at all costs," and it would be unlikely to meet its mark.
+
+I need to make it faster. Either I need to tinker with the spell some more, or I need to find a way to use it in conjunction with my apertures.
+
+Unlike my other spells, which were happy to fly through my tears in space and appear where I needed them, [Rift Rend] did not play ball. When I had first tried doing so, all I had accomplished was cutting my aperture neatly in half, destroying it in the process.
+
+Well, that's for later; there are more pressing concerns.
+
+I stared at the sky, or more accurately, the essence that was now wildly going out of control with the death of the alicorn king. I wasn't sure what he was doing with the essence of this region, but now it was unrestrained and fluctuating crazily. I still wasn't officially a [Dungeon Master], nor was I a spirit, so I didn't know exactly what I could do. Likewise, my [Branch Head] Emblem lacked the functionality to interact with it.
+
+Seeing no other options, I pulled out the CUBE and poked it.
+
+<Application pending…>
+
+"I don't care about that right now, fix the essence, you stupid box!" I shouted and gave it a kick.
+
+The box tumbled across the ground a few times, making strange beeps and boops as it spun. Eventually, it came to a halt, making a clicking noise as it did so. I walked over and was about to kick it again when I suddenly noticed a change, accompanied by a wooshing noise.
+
+Yes, the box had finally done something and was sucking in all the excess essence that was going out of control. To where, I wasn't sure, but I hoped it would expedite my application at the very least.
+
+"Well… Not exactly how I imagined my return," I sighed, shaking my head.

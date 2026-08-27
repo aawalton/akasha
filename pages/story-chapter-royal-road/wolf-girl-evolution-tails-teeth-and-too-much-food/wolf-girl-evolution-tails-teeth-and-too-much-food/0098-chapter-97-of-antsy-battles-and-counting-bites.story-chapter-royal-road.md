@@ -1,0 +1,567 @@
+---
+id: 34e2ec98-9ded-5972-a7f1-39ffe5d2af0f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 97: Of Antsy Battles and Counting Bites"
+slug: 0098-chapter-97-of-antsy-battles-and-counting-bites
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 98
+ownLength: 2386
+unit: words
+publishedAt: 2026-02-09
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3029816/chapter-97-of-antsy-battles-and-counting-bites"
+royalRoadId: "3029816"
+---
+
+PoV Luna
+
+Woo!
+
+Finally!
+
+Luna burst forward the moment she was far enough away that nobody could grab her fur again, speed spilling out of her from holding back for too long!
+
+Wind tore past her ears. Shadows stretched eagerly beneath her feet, keeping pace as the world blurred into greens and browns and streaks of motion.
+
+Ants!
+
+She was finally going to taste Ant!
+
+And the big meanie clicky-clacky things would never mock Luna for being small again!
+
+…Well.
+
+Maybe for just a little bit longer.
+
+Luna wasn’t allowed to bite all of them yet!
+
+Only a few.
+
+She leaned forward and went even faster, already thinking about where to start biting the meanies first.
+
+Legs? Heads? The snappy bits that clicked so rudely?
+
+Her chest felt warm. Her breathing was strong. Her body moved smoothly, and everything lined up just right–
+
+【Vitality +1】
+
+Luna blinked mid-run.
+
+Oh!
+
+All that running made the number go up!
+
+Very nice!
+
+Her tail wagged mid-run, the sudden motion nearly throwing her off.
+
+But it was fine!
+
+Luna just grinned wider, baring teeth as she zipped between low shrubs and over roots without slowing. Being stronger was good.
+
+But being fast was better!
+
+She remembered what the pack had said about bringing the Ants into the Killzone.
+
+That meant the plan wasn’t to hunt all the ants yet…
+
+Luna’s grin turned mischievous.
+
+…It was to annoy the ever-barking heck out of them instead!
+
+Excellent plan.
+
+Genius Luna!
+
+She would just have… a little taste first.
+
+Those shells looked crunchy!
+
+Her mouth watered shamelessly as the plains flowed around her, shadows deepening between the closer she got to the trees. The air grew heavy with sharp, resinous scent and that strange prickly tang that made her nose itch in a good way.
+
+Then she saw them.
+
+One group!
+
+Then another.
+
+And another.
+
+The closer she got to the forest edge, the more Ants there were, bodies moving in coordinated waves between the trees.
+
+A few clustered around a fallen boar, tearing it apart with brutal efficiency. Others swarmed over bushes, ripping them clean off. Some were even chewing bark off the trees, snapping off branches with methodical persistence.
+
+Wooo–
+
+That was a lot of Ants!
+
+Luna slowed just enough to watch, crouched on a branch, tail swaying thoughtfully.
+
+Well.
+
+That was definitely not Luna’s problem!
+
+She didn’t need all of them.
+
+Luna just needed a couple groups!
+
+So she jumped!
+
+Straight down.
+
+Straight into the fray!
+
+The first Ant never even knew what happened.
+
+Luna slammed into it from the side, jaws snapping shut around the middle legs before its antennae could twitch in warning. The crunch was deep and deeply satisfying, shell giving way with a sharp crack that vibrated through her teeth.
+
+Mhm!
+
+She landed, rolled, and sprang again – this time up!
+
+The second Ant reared instinctively, mandibles snapping–
+
+–and Luna plopped herself down squarely on top of its wide, armored head.
+
+She sat.
+
+Grinned.
+
+And tapped it between the eyes!
+
+That was when they got upset.
+
+Kihsaaa!
+
+The sound tore through the trees as antennae flared and bodies shifted, the surrounding Ants reacting all at once. Clicks and screeches overlapped as they turned toward her, mandibles snapping in unison.
+
+“Hehehe!”
+
+Luna kicked off the head, bounding away just as the Ant beneath her smashed its face into the dirt where she had been sitting.
+
+And then–
+
+Suddenly–
+
+All of the nearby Ants were upon her!
+
+She ran.
+
+Fast!
+
+But not too fast.
+
+Leading prey to adventurers had taught Luna things!
+
+To lure prey that thought it was hunter–
+
+–An Apex Predator must pretend to be only just out of reach.
+
+Yes!
+
+Luna nodded her head pensively mid-run.
+
+Getting smarter every day – that was the Apex Predator way!
+
+Shadows surged underfoot as she burst through the undergrowth, legs pumping, laughter bubbling out of her chest. One leg crunched loudly in her mouth as she chewed reflexively, shell splintering between her teeth.
+
+Mhm!
+
+It wasn’t meat, and tasted like nothing much.
+
+But–
+
+Crunchy.
+
+She swallowed, eyes bright.
+
+The texture… it was very nice.
+
+But how to make it taste good too–
+
+Oh!
+
+Right!
+
+That stall in town!
+
+The one with the noodles!
+
+Where they took boring, flavorless string-stuff and made it good with sauces, and spices, and stew!
+
+There was no reason – no reason at all that Luna in her profound wisdom could tell – the same couldn’t be done with Ant stuff!
+
+She gasped mid-stride.
+
+Yes!
+
+Yes, Luna was truly a genius!
+
+Kih-shaa!
+
+The Ants were screaming now, pursuit tightening behind her as she burst out of the trees, shadows flaring as she angled her run just right.
+
+Time to annoy another group!
+
+Woo!
+
+***
+
+PoV: Trianna
+
+While little Luna did an amazing job scouting ahead and clearing out monsters long before they ever became a problem…
+
+No one in their right mind would rely on just her for everything.
+
+Not even the adventurous lot.
+
+So Trianna wasn’t particularly surprised when Guildmaster Ferric called for her and two others to serve as the nearby scout team around the expedition.
+
+One of them was Dorian – the fox beastkin from the now-officially-and-unironically named Proper Human Team. His ears flicked constantly, tail swaying in an expressive counterpoint to his movement, eyes bright with enthusiasm that suggested he was enjoying this far too much.
+
+And the other one… she didn’t really know.
+
+He was one of the newer C-ranks.
+
+Looked well prepared, but whatever his deal was…
+
+Silence was the only answer.
+
+He hadn’t even bothered to introduce himself.
+
+When Guildmaster Ferric had assigned positions and called his name, the man had merely grunted in acknowledgment and moved off without another word, weapon already in hand.
+
+Rude.
+
+Trianna’s lips pressed into a thin line as she glanced his way.
+
+But hopefully competent.
+
+She could work with competent.
+
+Still–
+
+Now that they were sitting and waiting for action–
+
+Her thoughts wandered despite herself.
+
+She still couldn’t believe Dorian’s team had actually gone and changed their name.
+
+On a whim.
+
+The very first day Luna had called them “Proper Humans,” they had taken to it like a storm, wearing it with pride and dubious theatrics.
+
+Their alarming number of coordinated poses certainly not helping matters.
+
+The fact they even practiced them.
+
+On purpose!
+
+It was hilarious!
+
+And then Luna had joined in.
+
+That part alone had been worth every headache.
+
+Watching Luna mimic the poses with absolute sincerity – sometimes badly, sometimes terrifyingly well – had been priceless.
+
+But the real treasure had been watching Syliana react to the entire spectacle.
+
+Trianna’s mouth twitched at the memory.
+
+Stone-faced Syl. Unflappable Syl!
+
+Reduced to staring at a group of grown adventurers and a wolf girl doing synchronized nonsense and visibly questioning every life choice that led her there.
+
+That was so worth it!
+
+It never ceased to amaze Trianna what kind of weirdos the Guild attracted. Fighters, scholars, lunatics, idealists. People who ran toward danger for coin, pride, or reasons they didn’t always examine too closely.
+
+It made adventuring exciting!
+
+Even on slow days.
+
+Though slow days had become increasingly rare lately.
+
+Especially since Luna had joined them.
+
+The little Wildling fluffball was such a joy!
+
+Trianna watched the distant blur of movement tear across the field – Luna, unmistakable even at that distance, shadows flaring around her as she ran circles around enemies that should have been terrifying.
+
+Trianna smiled faintly.
+
+She wanted to show Luna the world.
+
+All of it.
+
+The good and strange parts. The amazing sights. The silly parts people forgot to notice anymore.
+
+Just to see that wonderful spark in her eyes again and again.
+
+And, admittedly…
+
+To see what kind of mischief Luna would get up to next.
+
+The Earthen Bear had been shocking.
+
+And very funny!
+
+But this?
+
+This was starting to edge away from funny.
+
+Trianna narrowed her eyes as the ground ahead began to move.
+
+Luna burst into view like a living projectile, racing toward the Killzone with an entire crowd of massive Ants in furious pursuit. Dust billowed in thick clouds behind them, the rhythmic thunder of chitinous legs shaking the ground in ugly, uneven beats.
+
+There were well over twenty of them.
+
+And that was just the front of the wave to come.
+
+Trianna’s smile faded, replaced by sharp focus.
+
+She knew very well that losing focus now could get dangerous.
+
+“Positions,” she called quietly, raising a hand.
+
+Behind her, movement answered immediately. Dorian arrived without a word, already preparing to act, ears flattening as his playful demeanor snapped into predator stillness.
+
+She saw as the silent man shifted as well, stance widening, weapon angled just so.
+
+And each of them signaling to the waiting expedition.
+
+The Ants were coming.
+
+Trianna drew her bow.
+
+The bugs weren’t at the killzone yet.
+
+But that wasn’t a problem.
+
+She planted her feet, feeling the ground through the soles of her boots.
+
+Breath in. And out.
+
+The world narrowed to distance, angle, motion.
+
+One Ant surged ahead of the rest.
+
+Trianna loosed.
+
+The arrow flew true, burying itself cleanly through the creature’s eye armor. The Ant collapsed mid-stride, momentum carrying it forward into the dirt in a spray of soil and shattered chitin.
+
+One down.
+
+Trianna was already drawing again.
+
+Only a few hundred more to go.
+
+***
+
+PoV: Luna
+
+Luna crouched low on a slight rise of earth at the edge of the Killzone clearing, tail flicking slowly behind her as she observed what had become – without anyone really saying it out loud – a battlefield.
+
+She felt the wind pick up a little.
+
+Just enough to tug at fur and clothes and carry smells farther than before.
+
+Luna sniffed, pulling the world apart with her nose – something she was getting better at doing the more smells she learned. Ants, obviously! Lots of Ants. Sharp, resinous, clicky-smelling. People too – sweat, leather, metal, excitement, fear.
+
+All familiar now.
+
+But also…
+
+She wrinkled her nose.
+
+Something wet?
+
+And a trail of smells Luna did not know.
+
+Her ears twitched, but her eyes stayed on the first group of Ants she had brought in. They didn’t last long. The humans were ready now – lines holding, traps snapping shut, arrows and spells and blades moving with practiced coordination.
+
+Fast and efficient. The trap thingies didn’t even get to do any work on the first wave.
+
+But more were already coming.
+
+Crunch.
+
+Thud.
+
+Crack.
+
+The Ants fell one after another.
+
+Luna bounced on her heels, watching with interest.
+
+She even helped!
+
+…Helped herself to some of them!
+
+Two of them, in fact.
+
+She darted in between strikes, jaws snapping shut around an exposed joint, tearing loose a leg here, a chunk there. Not enough to ruin the flow of the battle.
+
+Just in, two kills, throw into the Maw, and back out!
+
+Just enough to sample!
+
+And it was…
+
+Weird.
+
+The shell was crunchy, just like the legs she had bitten earlier. Loud between her teeth. Very satisfying to break!
+
+But the inside–
+
+She made a face.
+
+Gloopy. Unpleasant. Not nice tasting! No meat flavor at all.
+
+Bleh.
+
+But Luna had eaten worse.
+
+She chewed anyway, remembering the big mucky frogs from the bog. Remembering the wrong taste of Corruption that clung to the tongue and never quite washed out. Compared to that, this was… tolerable.
+
+Interesting, even.
+
+And then–
+
+Oh.
+
+She froze mid-chew.
+
+Something new spread across her tongue!
+
+Not great, but also not terrible!
+
+Spicy-tingly!
+
+Sharp tasting, in a way that made her eyes widen. The rest of the bite tasted better suddenly, brighter somehow, like the flavor had woken up–
+
+【Poison Damage: -3 HP/s for 5s】
+
+“Yowch!”
+
+Luna yelped, dropping the rest and pawing at her mouth as the burning sensation flared. Her tongue stuck out immediately, saliva dripping as she hopped in place.
+
+Bad tingly! Bad!
+
+She panicked for exactly one second–
+
+Then grabbed soup from her Maw and slurped it down in big, desperate gulps!
+
+Hot. Salty. Comforting.
+
+The burn faded quickly.
+
+“…Oh,” Luna said, blinking.
+
+Then she remembered.
+
+Second gave her a health potion.
+
+Whoops!
+
+She stood there for a moment, tongue still out, pawing at it experimentally, hoping the last bit of sting would disappear faster if she looked offended enough.
+
+And that was exactly when Second appeared!
+
+“…So you ate them after all.”
+
+Luna’s head snapped up instantly.
+
+“Second!”
+
+The burning was forgotten immediately.
+
+She bounded forward and pomfed into Syl, arms wrapping around her waist as she looked up expectantly, tail wagging despite herself.
+
+Syliana sighed.
+
+It was the familiar sigh.
+
+One Luna learned had a double meaning!
+
+Yes, you are trouble, but you are my trouble.
+
+Then Syl smiled.
+
+“Good job there, Luna,” she said. “Thank you for doing this.”
+
+She patted the little Wildling’s head, then added a few careful scritches behind her ears. Luna melted instantly, leaning into the touch with a pleased little huff.
+
+“You were busy scouting ahead,” Syl continued. “Do you maybe know how many more ants are out there?”
+
+“Mhm!” Luna said proudly. “Luna knows! Many many!”
+
+Syl paused.
+
+“…And how many is many?”
+
+Luna blinked.
+
+“Silly Second! Many is many!”
+
+Syl closed her eyes for a brief, silent moment.
+
+“…Luna,” she said carefully, “when you read your Status, can you tell the numbers?”
+
+“Yes!” Luna nodded. “Luna knows when the numbers go up!”
+
+“…Great,” Syl replied, tone dangerously calm. “And how many different ones do you see?”
+
+Luna frowned and pulled up her Status.
+
+She stared.
+
+And stared.
+
+Long and hard!
+
+She counted on her fingers. One by one!
+
+Oh!
+
+She stopped, then held up both hands, fingers spread wide.
+
+“That many!”
+
+Syl pinched the bridge of her nose.
+
+“…Luna,” she said quietly, “we need to talk about numbers.”
+
+Uh oh.
+
+Luna knew that face.
+
+She turned around immediately, already preparing an excuse about Ant math being weird and forests having bad counting rules–
+
+When jerky appeared in Syl’s hand.
+
+Luna froze.
+
+Then slowly turned back.
+
+Her tail wagged once.
+
+Escape entirely forgotten!
+
+But just as Syl opened her mouth again–
+
+A cool drop landed on Luna’s nose.
+
+She blinked.
+
+Another followed.
+
+Then another.
+
+They both looked up just as the wind picked up some more.
+
+The sky had darkened without her noticing.
+
+“…Uh oh,” Luna said softly.
+
+The first drops of rain began to fall.

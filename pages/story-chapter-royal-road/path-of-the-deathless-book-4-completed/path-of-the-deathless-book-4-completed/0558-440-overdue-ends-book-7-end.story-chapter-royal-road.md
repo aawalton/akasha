@@ -1,0 +1,253 @@
+---
+id: 12ff5ddd-adf5-5129-9a02-433f63fcd3cb
+page-type-slug: story-chapter-royal-road
+title: "440 Overdue Ends [Book 7 END]"
+slug: 0558-440-overdue-ends-book-7-end
+partOf: path-of-the-deathless-book-4-completed
+position: 558
+ownLength: 7058
+unit: words
+publishedAt: 2026-08-23
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3854849/440-overdue-ends-book-7-end"
+royalRoadId: "3854849"
+---
+
+If you have the chance, settle matters.
+
+Tomorrow will bring more of everything, both problems and possibilities. Face them with your back straight instead of weighed down and crushed by matters past.
+
+To place yourself among your enemies is the deepest treachery one can perform.
+
+And there is no hell as harrowing as the fate of traitors.
+
+—Legend-Gambler “Tenpenny Jack”
+
+440
+
+Overdue Ends
+
+As the sun and moon took to the front lines to glare upon each other, the remaining territories held by the vestiges of spring were incinerated on one end and frozen on another. The Courts of Summer and Winter came to war, and in the sky above, as with the ground below, the vassals of each sallied forth, bringing death and ruin for this cycle upon their adversary.
+
+Soon, the story would come to a final close.
+
+Or so the warriors assumed. In truth, this was only the mid-Cycle climax. Unfortunately for the Court of Spring, a series of ruinous betrayals and a lack of prospects left over from the last Cycle left them in a most precarious position for the one at present.
+
+And so the emerald woods burned as the dryads were put to flame, howling their bitterness and misery to the sky. But what worth were the cries of the vanquished, especially for those who would recur eternally? The sun cared not, and neither did the moon, for they were locked in a struggle of their own. From each edge of the horizon, they cast forth their individual blessings and challenged each other: a stream of frost greeting a torrent of flame, matched and straining. A metaphorical and magical representation of the balance of power between each of the diametric Courts. At present, where the cold met the heat marked the demarcation between the struggling sides, and millions of fae sallied forth: creatures born of cartoons, the higher folk who sired the lesser elves that propagated the mortal dimensions across integration, stranger beings yet, from the deepest reaches and recesses of tale and lore, and so many more, things undiscovered by the minds and narratives of man, but things spawned from the antediluvian remains of long dead civilizations who fed the Fairwoods with struggle and strife all the same.
+
+And as the battle lines drew closer, so too did the strongholds of each respective Court—for it was only from these strongholds that their icons were cast: the sun and moon made manifest; the emerald forest and the grove of crimson, swelling ever wider, swallowing the world in between.
+
+From the edge of the Summer Court battlements, Minhal the Stargazer, Winged One, Bookburner, Knight of the Papered Wings Cast Aflame, Dawn Dancer, Fire Runner, Holder of Titles no Mortal Mind Could Ever Hope to Recall, looked upon the distant struggle and sighed with exhaustion and euphoria. The battle was going true indeed, and soon he would have his chance to slake his flaming appendages in the glory of war.
+
+From behind his back, one of his namesakes sprouted forth. A thousand tales were absorbed by his fires, a thousand narratives subsumed by his Pyromancy, and all manifested in six trailing tomes that spilled out from his spine, as if a column of dancing wings, casting ash into the clouds above.
+
+He, however, was commanded by the highest Princes and Princesses as well as the King of Summer to hold his ground and to observe the preceding struggles. For it was his eyes that could stare out from the flames of strife and war.
+
+Pologian, First Prince of Summer, had placed this burden upon Minhal especially, for there was no one else the Prince trusted more, and there was no one else more anointed than the one who swallowed the tail in flaming wings. Though yearning to slake his blood thirst, Minhal heeded the will of the Dawnbearer—for what was a flame without the sun to guide it?
+
+And so Minhal looked on, him and his ten thousand Bookburners, each one cast in his image, each one immolated and then shaped from the ashes of his defeated enemies, sworn to his will, bound by his flame, serving as his eyes. They danced through the air, their bodies like crinkled paper shedding ash. They swept across the ruins of the battlefield, gazing at the northeastern detachment as it was smashed by the frost trolls, and they reveled as the Charioteers of the Apollyon Skies bested the Wraiths and Wights of the False-Born Knight, and lo! rejoiced as though the distance of the battlefield was far; in truth, it was not far at all. For to see, to smell, to be teased was a pleasure all its own. It was—
+
+A disturbance shook the field of battle. A grand shape plunged through the ceiling of clouds lingering between sun and moon. Smog and palest white vapor were displaced as the shape of a falling mountain was embroiled in a corona of peeling flame. A great meteor, unlike anything else, unforeseen by Minhal, was approaching the Summer Court. The rapidity of its pace took him by alarm as well, and soon he sent out a single cry to his tome-burned minions: “Arise! Arise, and guard the court!”
+
+They did; they were called back to him, spawned out from his flaming wounds, and were then dispatched in a cylindrical set of wards around the Summer Court. He was not alone, for there were others as well, others who lent their power, weaving great structures from the sun's light. Drawing upon the fullness of dawn to ward off the impending adversary, the shine of their glorious sun grew ready to retaliate and incinerate the impending threat. Be it projectile spell or daring interloper, all would be rendered less than dust—little more than ashen memories beneath the star's glare.
+
+Yet, as Minhal turned his focus upon the approaching missile, his eyes widened, and his wings fluttered with disbelief. He recognized the creature in an instant. Its visage was unmistakable: its crystalline shell, its massive ravenous jaws, its colossal legs, each one capable of sending tremors across continents. The Tarrasque was falling from the heavens, driven further as it was in what looked to be a chassis of shifting ruins. Even that was alive with life, seen by Minhal's sight, which was more than Pyromancy alone. It was the expression of flame, but twinned to the vitality of existence, and Minhal knew the ruins around the great beast to be gleaming with something more potent than anything Minhal had felt in years. It was the masquerade of destruction usurped and worn by a vessel of absolute life. It constantly shifted, swinging and swaying, trying to swat off what appeared to be a lance of dedicated Red Riding Wolves who pursued the missile down from its place in the higher orbits.
+
+Though they yelped and wailed, suffering the immense heat, their nature as cartoon characters rendered them utterly immune to lasting damage, only inconvenienced and further dissuaded in moments of calamitous comedy. They swung for the Tarrasque's head, only to find their blows warded off by a gleaming fist that absorbed the impacts, by open scars and broken ruptures, by crumbling landslides of toppling edifices and rubble, rivers of rubble that spilled forth like intestines from an open wound.
+
+“What madness is this?” Minhal said, for he then felt that dark, festering vitality from the hand. That fist, closed and emitting the raw aura of war itself, was pointed directly at them—functioning as a lance head toward the Summer Court, that fist which belonged to the Soul God of War Unending, the Scion of Strife, the Butcher-Of-Ten-Trillion-Worlds.
+
+Minhal’s face twisted in offense and alarm. The Challenger had breached the Fairwoods. Or at least an extension of his vile being.
+
+There came a reverberation of absolute horror as the sun itself cried out and unleashed a scythe of light upon the approaching target. That blade cut forth through the air, slipping the length of nations in an instant, yet it halted an inch away from the plunging Tarrasque as a smaller but no less potent figure manifested. He blinked in front of the blade, and his form became known to Minhal in an instant, and by extension the rest of the Summer Court. A rush of memories passed from the light into the Bookburner, and Minhal's eyes narrowed, his pages crinkled in shared outrage.
+
+“There!” the voice of one of his lieges cried. “That's the one! That's the one who ruined my banquet! See, in last season passed. That is the knave! The one who destroyed the Boiling Toad and took from me Ser Cundas! That's the one!
+
+Princess Plum Blossom's fearful outrage was shared by all lesser vassals of the Court, and they sought to avenge her. The blade should have plunged further, should have hewn the offending Deathless from skin to spirit, casting him into the annals of the Unmentioned and Shadowed. Yet he spoke then, projecting his voice aloud in a deafening shout that would rival the bellow of any beast.
+
+“Hear me, Court of Summer! This is not an attack! This is a gift I bring to you! I surrender myself into your custody as an apology for ruining Princess Plum Blossom's meal! The Tarrasque isn't here to attack you! It's here to serve as your newest chef!”
+
+Though all those words made sense individually, when assembled in a sequence, Minhal's mind misfired on several points, as did every other vassal of the Summer Court. Their confusion, though shared, was breached as Princess Plum Blossom, still sour from the offense inflicted, was now driven toward curiosity. Susurrations of lesser voices begged her to be careful, that this might be a scheme by the Court of Winter or perhaps another attempt on the part of the Deathless knave to deliver further humiliation upon the Court's youngest and most delicate lady.
+
+But as the Deathless spoke, there was a magnetism to him, a narrowing of existence. His social skill took shape, and he—made of broken armor shaped from mind and time, from fist, from word, from spirit, emotion, and thought—hammered his truth into every listener. As his words struck, each syllable felt like a nail being driven through wood, and though Minhal was no weakling of mind or heart, he felt himself pierced deep and overcome by an urge to listen on, to at least consider what the Deathless was offering.
+
+And once more, it wasn't he alone who was infected by this unnatural charisma, for the others fell one after another. The susurrations remained, but they were but whispers, now drowned in the undertow of fleeting consideration. Then the Deathless continued to spin his tale. He pulled upon their interests and drew them closer into acceptance as that body of his remained, while the Tarrasque fell onward, loudly roaring something about food and cooking, about how the sky tasted nice.
+
+“This isn't a lie. I submit myself to the Court of Summer. I submit myself. This is my verbal assent; and besides, what power can I alone have over the Court? What am I worth in face of the sun itself? Nothing more than shadow, right? Nothing more. There's no fear here. You have control. I'm just here to make right what I set wrong. Now take me in. Capture me! Before the dogs of winter beat you to it!”
+
+***
+
+Legion of Self 198 > 200 (Skill Evolution Imminent)
+
+Garden of Wounds and Broken Things 124 > 128
+
+Inertial Overdrive 383 > 389
+
+Shiv’s hate for Fae skills was rapidly rivaling his loathing for Eldritch bullshit. If this kept up for a few seconds longer, it was going to surpass it.
+
+On the pretense of drama, because she was simply in the mood for a chase, Evanescia declared that the Tarrasque actually was a gift from Fairwalkers, mortal invaders of the Woods, to the Court of Winter. She decided that Shiv had ambushed and stolen it along the way, that this Tarrasque was special, was made from his essence, and that he was trying to kidnap it back, casting him in a sort of ambiguous light in which he was a villain, but not truly despicable, more one with understandable circumstances attached.
+
+Shiv thought her storylines were always a little bit awkward in that sense. She was like the System in an uncanny way, always trying to force things; her behavior, rich with vulgarity, leaned toward rigging the narrative when certain things didn't transpire the way she wanted. Despite all the millennia she'd served as the godhead of the Fairwoods, she'd never learned to tell a good story, or perhaps she'd forgotten along the way. Subtext was one thing, but deliberately manufacturing things that weren't taking place in the time or in the tale brought with it an unfortunate artificiality that had ripped someone out from the pages.
+
+Unfortunately for hacks and frauds everywhere, Evanescia had one little trick to make up for her incompetence, and that trick was simply overwhelming power. When she willed it, things became manifest, for she had countless characters to deploy and immense amounts of Fae skills to grant—such as the one that allowed the Red Riding Wolves to zip across horizons, so long as they took a hit of coffee every few seconds. A hit was served to them by their steeds, who also had a series of IV lines plunged into their necks, injecting them with heavy dosages of caffeine every other second. There was seemingly no set limit to their speed, for it functioned relative to the acceleration of the Tarrasque. Making matters worse, Harkness was given the same abilities, and the still-living wolf she wore as a cloak functioned in her stead, lending its power to her aid. In that, Shiv realized she likely had a living set of armor with a Path of its own—much like Shiv’s.
+
+This explosive speed, paired with her ability to knock someone out with a single bonk on the head and carry them, likely weighing a feather thereafter, granted Harkness the absurd capability to knock out the Tarrasque in an instant—an act unimaginable anywhere else in Integration, performed by anyone else but someone imbued with the powers of absurdity.
+
+Before the same fate befell Shiv, however, he countered ridiculousness with novelty. His Garden of Broken Things exploded out from a ruptured body and clasped the Tarrasque in his protection. With it came the Red Rider's Hand, warding off blow after blow, absorbing the impacts inflicted by the backflips and ridiculous acrobatics of the wolf-headed steeds and the massive impacts inflicted by the Red Riding Wolves' bludgeons as they wound up hard, puffing and inhaling until all the air swelled into their disfigured, misshapen limbs before inflicting blows that caused distant mountaintops to jump like terrified cats.
+
+Their charged-up hits bestowed nonsensical levels of damage upon Shiv, and though his Garden remained undamaged, unblemished, his onus of the Scarforged Unbreakable was immediately cast in an awe-consuming bruise that left him pinned in place while shrouding the Tarrasque, effectively killing his ability to maneuver unless he amassed more Shapeless Tides—which were constantly being expended and barely kept at a stable equilibrium as he drained what hits he could, while spending the excess vectors to ward off Harkness' dramatically enhanced Psychomancy. Her mind magic didn't manifest as a translucent field anymore. Instead, it revealed itself in a giant howling wolf imbued with the moon's presence before diving down upon Shiv and mauling him brutally. Its onslaught was endless, and its claws inflicted a lingering chill upon his mind that brought forth a promise of enduring depression if she broke through his resistance.
+
+At the same time, he cast his diplomatic vessel away, driving it across the currents of time to arrive a half hour later where the Summer Court loomed. Such was the best choice he had at hand, for it too was rooted in place, sharing a Toughness with all his other vessels.
+
+And for a brief while, an awkward impasse took shape. Harkness, directing her Psychomantic wolf spawned of the Winter Court, constantly ripped and tore at Shiv's vectors. The wolves struck him. He absorbed the kinetic energy as immense influxes of overflow tides—which were promptly spent to the last as Harkness’ hound gnawed at him.
+
+But even acting under the Usurper-Narrator's will, Harkness remained an Aviary agent at heart. She cast subtle thoughts over from her wolf's ripping claws, projecting puffs of fleeting translucence as whispers reached Shiv: “Help me. I don't want to be trapped in this farce any longer. I need you to come up with something, anything! I will strike an arrangement with you, a bargain. Yes, we can aid each other. You can help me escape. You managed to escape from this place. Bring me out! Bring me out, Deathless! Get me out! I can't take it here anymore!”
+
+To exemplify Harkness' suffering, one of the Red Riding Wolves tripped over her, smashing his ass first upon the back of her head as his bludgeon flew out of his hand, cracking another wolf in the groin who folded over, clenching his nards with a loud cry, causing a brief halt to come over the battlefield. Out of nowhere, a sound played. Strange, stringy music rippled through the area as a booming voice declared in a deep and resonant voice: “About this summer coming to theaters near you—nut shots on Nutty Wolves!”
+
+What the hells does this even mean? Is this what cartoons are like? Shiv's confusion was at an all-time high, and with that thought came the first embers of sympathy as he realized there was a joke taking shape he couldn't comprehend, and neither could Harkness, for that matter. And she had been trapped in this place for months now. The merciful thing might have been to kill her…
+
+“You hear it too, don't you? You hear it?” Harkness' eyes were bloodshot, her face was gaunt, and her sunken cheekbones hinted at a mania that left her unwilling to consume food and water, seeking to grant herself a release through death—which might very well take longer to come than the Cycle would last for someone of her Tier. “It's like this, always! Always and forever, never ending, never ceasing. Never, never, never! Always something about some blockbusters! Always something—some madness! It doesn't end, it doesn't end, it never ends! Most often it's me who gets hit! They drop their bludgeon, and it recoils impossibly off of a cloud and hits me between the legs! The pain! The pain! The music! And then there's a laugh track!”
+
+At this point, Harkness was sobbing, and Shiv understood, but he also knew a few other things, such as the futility of trying to help her escape. He'd managed to strike a bargain with Evanescia. Perhaps he could arrange another outcome in which he might bring Harkness out with him, but that would just be stupid.
+
+Harkness, spared of the Fairwoods, would go back to being who she was, because she still was the same woman, even though she was suffering. She was still trying to strike bargains, play deals under the table. Though she was unstable enough to ignore the fact that Evanescia was nigh omniscient in this place, that didn't mean anything in the long run. To release her back into the world with all the skills she'd accrued had made her less of a lamentable victim, and more of a loathsome foe.
+
+And on some level, he couldn't say she didn't deserve it. She was planning the mass casualty event at Passage, had murdered and replaced good Pathbearers to serve her own needs. Still, he was possessed of both sympathy and inclination toward mercy in regard to Harkness, but a paltry amount at that. At most, Shiv would find a chance to give her that final end she desired, but nothing beyond that.
+
+The impasse went on for a while as the Red Riding Wolves called for assistance by bringing out a comically large whistle and inhaling until their bodies were the size of boulders before producing a shrill scream that shattered nearby stone as if they were made from glass. In an instant, a screeching sound could be heard, and legions of wolves came shooting from beyond the curve of the horizon. Shiv's incredulity tripled, and it was at that point he decided that he truly hated anyone with a Narrative skill. This is all bullshit. There's no limit to this. They're just doing whatever they want. Pulling things out of their ass like the author… Like the author is making them capable of doing things just because the plot demands it.
+
+That thought made him re-examine the Fairwoods entirely. This place wasn't a realm of wonder and happiness. It was a festering pit of bad storylines and forced outcomes.
+
+Thankfully, he didn't need to stay here, not entirely. He just needed to distract Evanescia to stop her from wrenching him and his friends back across to suffer another season of her madness.
+
+And at present, his means of evacuating his current situation was on the verge of being charged itself.
+
+As the wolves inflated and strengthened their bludgeons by blowing into them, Shiv began to actively intercept the blows by shifting his Red Rider's Hand. With every subsequent clash, the Challenger's severed limb grew brighter, more intense with power. Every act of violence it received was a testament to worship—and it seemed to feed on malicious intent and destructive potential more than it did on kinetic energy. Were Shiv alone, it wouldn't be nearly enough to fuel the hand's mana requirements, but through the aid of the wolves, unburdened by the standard rules of the system, it turned into a gleaming crimson star, powered with Vitae and ruin, screaming for Shiv to let free its destructive potential.
+
+And so he did. In the next instant, the world became a blur. He moved faster than ever before, and if he'd lacked the Scarforged Unbreakable, he would have flayed his skin, bone, and flesh down to eroded nothingness from sheer speed alone. He went up as a comet, punching through the cloudtop and the upper atmosphere of the Fairwoods to arrive amongst the cosmos. Where he resided, the moon was near, and immediately it turned its hateful glare upon him. Beneath its hanging visage was the palace of ice. Before a second was over, he was bombarded by spell after spell. Yet, thanks to his sheer momentum, most missed, and a good thing at that, for the few that grazed him nearly cost all his Shapeless Tides. Shiv was a Legend, but this was a land that swallowed Legends like bugs. So he needed to go further; he needed to go faster. He spiked himself down, briefly losing track of his adversaries. He ejected his wounds, allowing his Onus to be shed, and an explosion of damage and built-up blunt force trauma was emitted outward just as the first few Red Riding Wolves caught up to him. The Fae were promptly pancaked as every blow they and their comrades had bestowed upon him was returned in its entirety.
+
+Every cloud below was parted, as two-dimensional wolves were spiked straight down into the bedrock of the world, as if they were pancakes made from tungsten. Shiv kept going. Shed of his burdens, he could move again, though compared to before, the Tarrasque was now shaking and shuddering. Shiv hissed in alarm. He immediately pulled his Garden back, opening a slot around its face so that it could see, but also so that he could project his Nihilism outward to cook something for the Tarrasque before it started fighting him too.
+
+At the same time, he pointed himself downward—aiming away from the moon as his arc reached its apex and he began to fall—but his speed alone would not be enough. He needed to borrow the aid of his new friend.
+
+And so Shiv did as he cooked another slice of Biomancy. The Tarrasque reached out like a greedy toddler, trying to seize its tasty morsel, but Shiv kept it out of the Tarrasque's reach. His Garden shifted around the beast's body, forming a sort of cage as the Tarrasque thrashed and raged. "Give me! Give me!”
+
+“I will! I will!" Shiv said in response. “But I need you to go faster. I will feed you as much as you want for as long as you want if you just move us to where that palace is.”
+
+The massive creature gave a disconcertingly Shiv-like grunt, and it pointed to its right. “That palace?”
+
+“No! No! The other one! The other one! Not the one under the moon! The one under the sun!”
+
+And with another thunderous grunt, Shiv felt all his weight vanish as a building well of gravity flowed inward, concentrating within the Tarrasque as it became a singularity, and then it drew back. More Red Riding Wolves caught up, galloping through the night air upon steps made from frost. The moon was looming close behind them, prepared to cast its baleful gaze out in a freezing spell that would encase them both, but the stars then began to shake and distort, and Shiv realized it was because he was trapped at the bottom of a gravity well, one that actively lurched and bent, pulling even Shiv's Shapeless Tides away. The Tarrasque angled itself, reared back as it curved the folding ripples of the singularity, and launched itself out as if every eddy was a bowstring drawn back to its fullest potential.
+
+It descended fast, punching across the sky and ripping through the upper atmosphere in a crust of building flame, yet even this speed was nothing before what the Red Rider’s Hand provided.
+
+The Tarrasque fell with Shiv gripped around him, just in time for the wolves and Harkness to nip at their heel and for Shiv's other body to arrive, drawn across history to this determined present by his Harbinger.
+
+Shiv immediately barked his desires toward the Summer Court. He hadn't been given a chance to plan, so he hoped his new Rhetoric would prove persuasive enough to stop himself from immediately being torn to shreds by the Fae who served the dawn.
+
+At the same time, the translucent wolf of Harkness’ Psychomancy lapped behind him, ripping and slashing away at his final veins of Magical Resistance. Around the Tarrasque, everything went pale and bright, and it constantly lashed and grasped at the slices of food Shiv shoved into its mouth. They barely lasted a half-second before they were turned to dust as well. The beast shook with annoyance, and Shiv wanted to placate it, wanted to plead and tell it to keep moving and that it would be fed once they landed. Even without declaring anything, their path was set. The momentum they had couldn't easily be reversed, and the Tarrasque, stubborn and toddler-like though it was, was at least willing to finish things out.
+
+And then, impossibly, it came to a halt. For though a second ago a blade of pure light was cleaving toward his diplomatic vessel and he braced himself for death, that brightness was reshaped into a massive glowing hand. The star seized the Tarrasque as a mitt would a ball and held it in place. The Endhound let out a cry of dismay, and Shiv felt a shudder of glorious adoration and unrelenting joy take hold inside of him. If winter was a malaise and that final restful entropy of the moroseness and the still, then summer was activity, was life, was passion unbridled.
+
+And all that essence was flowing through him, and all that essence poured forth from the Summer Court. It bade them still and asked him a single question: “You pledge yourself to this apology? You give yourself back to us in redemption with a gift?”
+
+Harkness and the Red Riding Wolves arrived, but they immediately caught flame before summer’s light. The rest of her retinue yelped and began diving away toward the nearest bodies of water. Harkness continued forward, too agitated and desperate, or perhaps spurred on by Evanescia herself, to relinquish the pursuit.
+
+Things proved hopeless for her in the end as well, for she too was seized by the Summer Court. Another hand, smaller and weaker, but unimpeachable nonetheless, clasped Evanescia and the psionic dog she could now spawn by the nape of the neck. She and her wolf yelped and barked, scratched and clawed, spewed frost and venom into the air, but all that dissolved before the soothing balm of summer's glow.
+
+The Tarrasque melted emotionally. Its being filled with warmth and contentment, and it reached out as a baby would to a distant star: trying to grasp it, unable to, confused in the end as to why. Shiv was hardier of mind and spirit. His harbinger came aglow before the sun's embrace, like pieces of metal left in a furnace.
+
+But slowly, inevitably, inexorably, the heat of summer would boil through him as well and remold him in the image of their liking.
+
+“Yes,” Shiv proclaimed again. “A gift and an apology for Princess Plum Blossom. I'm not lying. I just need you to take me in—”
+
+“The gift is accepted, but your apology remains in question. We will take you back in, Deathless, but you shall not be going to my dear sister, as your beast might.” And as the voice reverberated in the deepest depths of Shiv's being, drawing a tear from his eye with its majesty, there came forth an armored figure from within Summer's star, bedecked in golden plates and followed by an endless legion of shining blades like a star-speckled sky. “Instead, you are to be mine to judge—and mine to wield. For you burned so brightly over our realm, Undying One, that I ask myself, why can you not do the same in Winter’s sky? To see your apology given truth, you will see my vision made manifest. So wills Pologian, Son of Stars, First Prince of Summer.”
+
+With that declaration, a feeling of undeniable power seized him, seeping through his Magical Resistance as his remaining vectors evaporated, and teleporting him in flesh and soul into the Summer Court's embrace once more.
+
+The bodies he left in the Fairwoods knew no more of anything, not of dawn, not of light, not of sense nor magic.
+
+A slight feeling of anxiety gripped him, but with the Tarrasque out of reach for any of his enemies, at least for a time, the rest of his bodies, still beyond, were free to travel, free to recover, and free to do what their hearts pulled them toward.
+
+***
+
+“It's done,” Shiv said to Uva from Yellowstone’s capital—and she conveyed his confirmation to the rest of the Farnest Council. “Holy shit, that took a lot. But it's done. The Tarrasque is in the Fairwoods, safe with the Summer Court. Along with two of my bodies, unfortunately, but I can deal with that later. It's done! It's done. Felling hells, it's done! Without any blood or mass death!”
+
+A hysterical burst of laughter bubbled out of him; even now, it was hard to believe. After Passage, Gate Theborn, Blackedge, the prison, everything… The fucking Tarrasque got handled without a massacre!
+
+There are miracles left in the world, Shiv thought to himself, his triumph alight with spillover pleasure from the Summer Court. And I’m capable of making those miracles happen. Strife can be denied. It can…
+
+His joy proved infectious, for it spread over to Uva and from her to everyone else inside the conference chamber. A breath slipped out from practically everyone in the room. A few stayed solid, like stones moved by waves receding into the ocean, but though Veronica kept to her stoic demeanor, she, too, was pleased, and she made it known as she held her chin high and spoke words Shiv never expected from her: “Well done, Deathless. Most unexpected indeed, but this saves us the lives of our Avatars and spares us from massing on the north. An ideal end for all of us—even if I would have liked to be present when you spoke to the Pale.”
+
+And of course she knows about that.
+
+***
+
+Markus Unblood huffed in the Phoenix Academy library as he closed his book and, for the first time in ages, decided to go back to his dorm for a while rather than heading out to seek Irons. Yet, mid-step, he found himself seized of a new possibility—possibilities, even. What he'd just done was well worth several political favors, and the resolving of one particular one was no major ask at all, at least in his opinion.
+
+A second thought, straying from the first, followed. He realized that though Veronica sent a shot across his bow, hinting that she knew how he independently struck a bargain with the Pale, she seemed to remain utterly ignorant as to the presence of the Faceless Queen.
+
+What was that you told me, Queenie? Everyone exists along a ladder of mercy and diplomacy? Yeah, I think I'm gonna use you against Grandma, and her against you if I can. That's the game, isn't it? Play the powers against each other, just like they're playing me.
+
+And he started that game by sending a simple request over to Veronica Chandler. A request that she considered for a moment and then hummed in consideration. “I'm willing to surrender the Harringtons into Legend Hawgrave’s technical custody—as I have you. But in return, you are never to strike against our orphanages, and you are to abide by Daughter’s needs.”
+
+Her counter-demand painted a sneer on his face, but he said nothing in opposition, for he had other plans tumbling in the undertow of his mind. He had new opportunities now to reshape the Republic and the Ascendancy from within. He had Cripple and the Dreamtaker in his corner, and he could spread his influence further. He could take his campaign directly to Daughter and see if he could change her nature or at least chip a gap open to the girl trapped within the vicious god that wore her.
+
+Direct force brought with it only destruction, and if there was a theme to be inspired by with the long overdue resolution of the Tarrasque and the impending release of Melissa and Hannah Harrington, it was this: Power was at its greatest influence before the blow was struck. A blade mid-draw was most persuasive, and he needed to use his power more as persuasion than as an actual blunt force instrument if he wanted to maximize his control.
+
+“Fine,” the Shiv in Farnest casually replied with a PsXhomantic scoff as he harbored his schemes. “Keep my hands off your orphan butchering operation for now—but I got another counter-demand as well. If Daughter does anything, I want to be there with her.” This request took Veronica by surprise. He saw it in the near-imperceptible tilt of her head. “I don't like her. She doesn't like me. Hell, she's still traumatized by me, but I got no taste seeing any more kids die. If she does something, I go with her. I'm more expendable than a child.”
+
+Her following hesitation annoyed him, but then he felt another piece sliding into place. Daughter was vicious, feral, bestial, and monstrous, but so was the Tarrasque, and there was a person deep down inside. If he couldn't get to her, then he would need to find a way to influence Maiden. That was easier said than done.
+
+And finally, there was Adam. Adam's new burgeoning godhood might be a way to save all the gods—or at least replace them with others. In the Paragon, Shiv glimpsed the game the Starhawk was playing as well. If he could create a reliable Demigod through Adam, someone vested with pre-existing lore but no baggage of his own, then what wonders could rise from the Republic? What wonders indeed: a nation of gods in the making.
+
+But all these things were greater considerations for the future. As of right now, Shiv had another long-standing mission to bring to a close.
+
+***
+
+Melissa Harrington shivered as a gust of cold air tumbled over her. The chill lashed at her skin, seeped into her infected wounds, and she bit back a whimper, for she was long-dried of tears and misery—and what lingered in its wake was aching hatred.
+
+Such was the only emotion she felt toward the Inquisition now—the only thing they deserved after she discovered what they did to her sister.
+
+In the months after her capture, they forced their way into her mind, over and over again, rifling through her memories to uncover any other acts of subterfuge or treason. When they finished, having found little to nothing, they crudely stitched her fractured psyche back together and sent her to be re-educated.
+
+She wasted no time in attempting to escape. Her newfound Toughness and Psychology Evolutions ensured that she maintained a modicum of sanity and fortitude, enough to remain driven. But she was a mere Adept caught in a cage beyond Masters.
+
+And her current captors were cruel, indeed: they weren't fully established Inquisitors. Instead, they were closer to being assistants and squires. She learned to tell their nature by their obsequiousness, how they groveled and begged when someone of true influence or power arrived; how they vented their lack of station and used her as a vessel to practice their mental arts upon; and when she proved to be too headstrong for the weakest of the number and the others mocked and jeered, they settled for applying another kind of practice on her, one of physical brutality to serve as a pair for her mental anguish.
+
+No more… Please no more…
+
+Such were the words Melissa felt, such was what she wanted to beg, but there was something irrational, passionate, feral, that had hatched from her ruined sense of self, and it possessed her. It made her turn toward her unseen captor—and spit in defiance.
+
+Both her eyes were swollen. She could barely perceive light, and what she beheld was a colossal shape, a humanoid shadow that angled itself sideways to fit inside her isolation chamber.
+
+Melissa Harrington's fragile rebellion broke. She crawled in on herself and tried to cast her mind elsewhere, even toward insanity. When they made contact with her body this time, it was not pain that afflicted her but a tugging sensation as every one of her wounds was ripped away from her flesh. In an instant, she could see again. Her inflamed tissues, festering sores—even her missing teeth—were returned, one and all, and her body stilled. For a moment, she thought she had plunged past the precipice and lost her mind once more, but there was too much consistency in her thoughts. She knew what it felt like to be driven insane time and time again. Slowly, she lifted her arm, opening herself just enough to catch a peek of the one that had mended her broken form.
+
+Rather than a sneering face sporting an embarrassing assortment of hairs he called a goatee, she found herself looking upon a giant of a man with a pale pigmentation, who sported twin rings of blinding whiteness at the center of his pitch-black eyes, whose body was shrouded in dancing shadows but seemed to wear an armor made from bone and… broccoli?
+
+“Melissa Harrington?” the stranger asked with a voice much younger than she'd expected.
+
+She tried to reply, but her throat was dry and her vocal cords weak from malnutrition.
+
+Then another two figures entered the room. One of them was a woman, unusually short and clad in tessellated armor. She cringed and looked away from Melissa as if ashamed of something, but the other Melissa recognized. The other nearly went ballistic at the sight of her person, at the rag she was wrapped in, at the misery of her state, and the stench and stains of her own filth coating her now mended flesh.
+
+But Captain Hairy Irons was never the type to let himself slip the leash and lash out in blind anger. An echo of his voice followed, conjured forth to accompany his presence. “Always calculate, always plan, then strike. Waste nothing. Especially not your own life.”
+
+She tried to speak his name, but what left her lips was a hoarse whistle without meaning.
+
+“It’s her,” Irons growled, squeezing along the wall to get past the massive stranger. He knelt down and placed a gauntleted hand upon her forehead, and suddenly she found herself filled with tears again. Tears she thought she was long dry of; sorrow and pain she thought she had long been deprived of. Melissa shook. Melissa wept. And Melissa reached out for the first hint of sanctuary and relief after months in hell.
+
+“I’m sorry,” Irons whispered, wrapping his arms around her and gently rubbing her head. “We took too long. I should have—”
+
+He stopped himself, for what else was there for him to say?
+
+But the stranger that came with him had a question yet. “Hey, Melissa, I'm not going to reach into your mind, but I am going to ask you a question telepathically, and I want you to answer me, alright? I want to ask you a very simple question. Who did this to you? If they're still here and if you can remember what they look like. If you can't do any of that, just focus on the memories. I’ll handle the rest.”
+
+Out from his skull crackled a fork of translucent lightning, and the stranger grinned apologetically at her. “Like Irons said, I'm sorry about what happened to you and your sister. But pretty soon, there are going to be a few others who are going to be plenty sorry as well.”
+
+Hidden World Quest Activated: Slay Tanner “Shiv” Lowe, the Deathless, before he fully comes into his power and drives your world beyond its current Mana Stability Threshold.
+
+Success: Integrated Earth experiences its next Ambient Mana Threshold Evolution. The Mythic Skill Tier becomes available to all Pathbearers within the Ambient Mana Zone; Evolve 10 Skills to Legendary-Tier.
+
+Failure: A specialized Incursion is triggered to destroy Integrated Earth in 0 Years, 11 Months, and 1 Day.

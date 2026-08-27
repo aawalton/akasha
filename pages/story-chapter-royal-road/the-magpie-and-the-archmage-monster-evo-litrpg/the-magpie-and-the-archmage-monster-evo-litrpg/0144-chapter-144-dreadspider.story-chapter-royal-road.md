@@ -1,0 +1,151 @@
+---
+id: 47c06483-b87f-5616-8623-2fc6befae685
+page-type-slug: story-chapter-royal-road
+title: "Chapter 144 – Dreadspider"
+slug: 0144-chapter-144-dreadspider
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 144
+ownLength: 2012
+unit: words
+publishedAt: 2026-07-08
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3647207/chapter-144-dreadspider"
+royalRoadId: "3647207"
+---
+
+The first thing on Liora and Cee's agenda was, once again, training. Liora was admittedly getting tired of doing the same thing over and over again, but Cee was very close to evolving, so it was necessary. Liora was very curious to see what her friend could evolve into.
+
+Would it really be a humanoid spider? What could that even look like? Would she be huge? Would it even be possible for Liora to carry Cee on her back afterwards?
+
+Still, the region was entirely new to them, so they approached the enemies cautiously. Many monsters weren't even worth looking at. Slightly oversized beetles, snakes, and geckos all showed up green for both Liora and Cee. They wouldn't yield any experience for them at all, and it felt mean to kill them for just their glimmerstones.
+
+But the strongest monsters were hidden among the trees or even underground. Liora noticed large jaguar-like cats jumping from tree branch to tree branch, snatching birds along the way. They were blending in with the foliage so well that even Liora, with her excellent vision, had trouble spotting them.
+
+"I can't believe it. They should be easy to spot since they have that sandy colored coat with distinct black spots, but I'm struggling," Liora muttered angrily.
+
+"It must be a skill at work. It's hiding the jaguars from view. The fact that you can spot them at all proves how ridiculously good your eyesight is, because I certainly didn't see them," Renir said.
+
+Cee felt right at home in the jungle, jumping from tree to tree and hiding under some larger leaves while Smokey clumsily followed her. Thanks to his sharp claws, he could climb the trees and his wings allowed him to glide from one tree to the next.
+
+But he was incredibly clumsy. The juvenile would often hit a tree and miss the branch he tried to land on, forcing him to fall to the ground and climb back up anew. Thankfully, nobody seemed interested in eating him. It appeared none of the creatures around here had seen anything like a wyvern, so they remained cautious. Even the jaguars decided it wasn't worth the trouble.
+
+That was until the little wyvern fell right into a giant spider's web after missing yet another branch.
+
+"Smokey! Are you going to switch to a different spider master now?" Cee chastised, checking the sight from the side.
+
+However, when it became clear that Smokey was truly and utterly stuck to the web, Cee began to panic. She cautiously crawled onto the web, and while she wasn't sticking to it like Smokey was, it appeared that she, too, had trouble moving over it.
+
+"This web is stickier than mine!" She complained as she made her way to the struggling wyvern and tried to pry him off, bit by bit.
+
+However, before she could do much, Liora saw that the owner of the web was already alerted to this activity. A massive spider, almost as large as Liora in her new dracoryx form, appeared somewhere between the foliage, lunged at Cee, mandibles bared.
+
+Cee just barely managed to avoid the hit by jumping up. Liora dove at a massive, ugly spider using Skypierce. Since it was a hasty drop, not from too high up, the hit wasn't deadly, merely producing a crack on the large rear end of the spider. It was also then that Liora could read the nameplate.
+
+[Ambush Dreadspider]
+
+The color of its name was light pink, indicating that it was either at a much higher level than Liora or perhaps even a higher tier. Were all the high-level monsters of this place ambush predators? Liora didn't like it when her enemies were trying to be stealthy. She should be the only one allowed to be stealthy.
+
+The spider let out an angry hiss, raised its bottom in the air, and launched a white clump of something straight at Liora. Not wanting to risk coming in contact with whatever it was, Liora activated Aegis Cyclone, sending the white clump flying off into a nearby tree.
+
+To her surprise, the clump opened up, and a huge web emerged from it, engulfing and trapping a chunk of the tree canopy. Had Liora been caught in that, she would have been unable to fly and would have fallen to the ground.
+
+The dreadspider launched two more web bombs at Liora. She allowed Aegis Cyclone to send them flying, but keeping it up for much longer would be inefficient, so she used Decoy Fade. Her decoy image maintained the image of being surrounded by Aegis Cyclone while she flew straight at the spider.
+
+The monster looked formidable, but it clearly didn't have much intelligence. Instead of deducing that something wasn't right when its web bombs flew straight through the decoy—apparently it didn't count as an attack, so the decoy image remained active—the dreadspider only doubled its efforts and threw more web bombs at it.
+
+This gave Liora ample time to fly behind it and Rend its backside. The spider screeched and writhed, and all of a sudden, a foul mist came out of its mouth, surrounding Liora, Cee, and Smokey.
+
+[You have been <Poisoned>.]
+
+"Get out of here, Liora!" Renir yelled.
+
+But Cee was still struggling to get Smokey free. She had only managed to untangle his front limbs.
+
+"Dammit!" Liora cursed and grabbed the wyvern, webs and all, Cee, in the meanwhile jumped around the dreadspider, occasionally spitting poison at it. It likely didn't do any damage at all, but it did at least distract the monstrosity away from Liora while she got Smokey out of the poison cloud.
+
+"Purify, Liora!" Renir commanded.
+
+Smokey was looking very faint. The poison cloud must have seriously affected him. It had even affected Liora after all, and she had decent Poison Resistance. In all honesty, she had forgotten that Purify could be used to heal all status ailments, not just corruption.
+
+Thanks to all the healing work she had done in the clinic, removing poison this strong was easy. Smokey perked up immediately after, looking up at her quizzically.
+
+"Fly, you little lizard. Get someplace safe," Liora said and tossed the runt forward.
+
+He barely managed to open his wings in time—thankfully, they weren't tangled up in the webs—and flew off, away from the fight. Granted, he didn't get very far, getting tangled up in the tree canopy some distance away. She'll get him later.
+
+But first, Liora used Purify on herself to clear the poison from her body and flew back to where Cee was still trying to keep her massive cousin occupied. The dreadspider was raging, fluid leaking out of the injury Liora had inflicted. It was a shame that the only thing she had managed to do with that was make the thing angry.
+
+"Hey, over here, you overgrown tick!" Liora called.
+
+Seeing its assailant, the dreadspider hissed and launched a barrage of web bombs at Liora. She used the Aegis Cyclone to protect herself, sending the bombs flying in every direction, covering much of the nearby greenery with them.
+
+But with the monster focused on Liora, she could activate Featherflash and temporarily blind it. The monsters hissed and instantly released a cloud of poison around itself.
+
+"Little help, Liora?" Cee called weekly from a nearby tree.
+
+As soon as Liora materialized out of her mote form, she flew towards her spider friend, who jumped on her back and secured herself there with two hastily woven threads.
+
+"That poison is doing a number on me…" Cee muttered.
+
+Liora instantly healed Cee with Purify, but had to activate Aegis Shield right after as more web bombs flew her way.
+
+"That thing is seriously starting to get on my nerves!" Liora said.
+
+"Let me try something. I'm going to need a clear and steady shot at the spider, though. Cee, maybe you take me while Liora distracts it?"
+
+Liora didn't quite like this plan, but she couldn't do much while it was spewing poison at her in close proximity and throwing web bombs from afar. Her Decoy Fade still required a bit more time to recharge.
+
+"Fine, but whatever you do, do it fast!" Liora said.
+
+Cee hurriedly removed Renir from around Liora's neck. It was the most unpleasant feeling, not having him around her neck, but Liora did her best to bear with it. She had to focus on keeping her Aegis Cyclone going.
+
+"I'm ready!" Cee said.
+
+Liora released the Aegis Cyclone, and Cee sprang away. More web bonds flew at Liora, but she turned into her magpie form as she was not burdened by Renir anymore. Being so small made it easy to dive down to the forest floor and avoid the web bombs.
+
+The dreadspider was confused for a moment, but quickly managed to regain its bearing and jumped down from its half-destroyed web fortress to follow Liora.
+
+"Can't catch me, stinky!" Liora said.
+
+The spider hissed and spat some kind of dart-like things at Liora. They flew at such speed that Liora just barely managed to get her Aegis Cyclone in place. Even then, it was barely enough to move the projectile just enough out of the way so it wouldn't hit her, since her magpie was much weaker than dracoryx form.
+
+Liora turned back into her battle form and turned around. She activated Decoy Fade and flew up high. The decoy obviously disappeared almost instantly after the dreadspider hit it with its dart, but that didn't matter. The spider had no clue where Liora was, having stopped her pursuit while looking around, confused.
+
+This was when Renir finally struck. Liora hadn't known what to expect, but a fiery, piercing arrow of pure fire was not it. It was a shame that Renir's aim had been off, and instead of hitting the dreadspider's head, he hit one of her massive legs instead.
+
+The monster screeched in pain and launched a web bomb at Cee and Renir. Not having expected such a swift counterattack, they got caught in the trap, glued firmly to a trunk of the tree while the dreadspider ran at them.
+
+But it had completely forgotten about Liora, who had been flying up while watching the situation below. Now she turned to face downwards and flapped her wings to plummet down as quickly as she could. This, the power of gravity, boost from Glimmerlust, and Liora's now massive weight did the rest.
+
+When Liora collided with the dreadspider, it basically exploded into entrails, and Liora crashed rather painfully into the ground.
+
+[You've defeated <Ambush Dreadspider – Level 53>.]
+
+[You've reached Level 4.]
+
+[You've reached Level 5.]
+
+Liora got up, covered in dreadspider bits, dirt, and other muck. Her body hurt from the crash, so she brought up the status screen.
+
+[Status]
+
+Health: Wounded
+
+Mana: Steady
+
+"Are you okay, Liora?" Renir called.
+
+"I'm fine…" Liora said. "Although I think I overdid it…"
+
+"You think? That is horrifying! It was a spider, you know," Cee shrieked, still trapped beneath the web.
+
+"Don't act as if you had any friendly feelings for it. That thing was horrifying," Liora said and raised her wings. All of her feathers were mucked up with everything nasty. "How am I going to get these out?"
+
+"Can you get us out of here first?" Cee whined.
+
+A sad growl resounded from some distance away. Right. Smokey was stuck in a tree.
+
+This was not a good start on their quest to break the third seal. In fact, this was the most horrendous start. Liora could only pray that the spider she just turned to paste was the worst thing out here.
+
+She was about to collect the glimmerstones from the dreadspider when she noticed something really, really bad. Her Treasure Sense was silent. Looking around again, she realized that there wasn't a single glimmerstone in sight. Such a strong opponent should have been filled with them.
+
+Checking the nearby surroundings and whatever was left of the spider, Liora confirmed that there indeed was not a single glimmerstone in sight. What was going on?

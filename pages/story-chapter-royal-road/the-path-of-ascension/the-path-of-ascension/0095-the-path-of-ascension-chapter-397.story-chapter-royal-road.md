@@ -1,0 +1,329 @@
+---
+id: 4dbc6756-9c80-595d-beea-94d6e48d7278
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 397"
+slug: 0095-the-path-of-ascension-chapter-397
+partOf: the-path-of-ascension
+position: 95
+ownLength: 5290
+unit: words
+ownProgress: 5290
+publishedAt: 2025-03-21
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2142152/the-path-of-ascension-chapter-397"
+royalRoadId: "2142152"
+markedReadAt: "2026-06-29T19:21:01.406Z"
+---
+
+Chapter 397
+
+Matt felt like he was walking on air as they exited the rift, and even Luna’s appearance while looking them up and down and circling them did nothing to ruin his mood.
+
+Sending her a recording of their boss fight, Matt enjoyed the brief micro expressions that slipped through her control.
+
+Aster laughed out loud in a sharp barking sound that almost sounded like she was in her fox form. “Oh, your face. You never expected us to do it, did you?”
+
+Liz blew out a raspberry when Luna’s face scrunched up. “Oh, just give us this.”
+
+In a dramatic move for Luna, she smiled and waved with a small bow. “I bow to your experience. You three are truly exceptional.”
+
+The sincere compliment caught all three of them off guard, and Matt said, “That just sounds weird coming from you.”
+
+Aster pouted as she agreed. “That wasn’t how I imagined it at all.”
+
+Liz just laughed. “Ha! Mom and Dad are going to hate this!”
+
+Instead of being upset, Luna grinned. “Do send that to them. They forever are denied such compliments due to their own efforts, or rather lack thereof.”
+
+Tapping her chin, Luna pulled them to Rah’s compound on the guild moon. “Let me show this to Ra’thala. He could do with seeing the peak of power. He has currently only started to delve up a single Tier as he finds his own footing, but I want to push him up at least another Tier to Tier 28.”
+
+Aster shrugged. “Sure, we don’t mind. In fact, let's go say hi.”
+
+They did exactly that, though none of them missed the glint in Rah’s eye when he noticed they had Tiered up.
+
+“How has your and Ciceron’s work been going?”
+
+Rah shrugged. “Nowhere, really. Ciceron is still learning how my cultivation works.”
+
+“Ah, so he’s asking a million questions a second?” Liz winced in sympathy as she asked.
+
+At that, Rah grimaced before it morphed into a pleased look. “Yes. On the plus side, this is making me really reexamine what I’ve already done, and it’s giving me some ideas on where to start. Having to explain to someone who doesn't know what cultivation is isn’t new to me, but explaining to someone who has the breadth of knowledge to ask questions I’d never pondered is… draining.”
+
+Matt was genuinely happy for him and expressed that with Liz and Aster.
+
+Rah was taking a path never before traveled, and any leads were good with how daunting the project is.
+
+They spent a little time chatting over some of the broader principles of his cultivation method and how Ciceron and Rah got into a two-day tangent that led nowhere, mainly because they had a very different understanding of what counted as a knot in one’s cultivation.
+
+Once they finished chatting, they went and spent a week checking in with the extended Moore family and just relaxed, enjoying the break from a decade of constantly delving up multiple Tiers.
+
+While they were with Travis and Keith, Matt did note that he needed to bring the pair to a rift or ten. The two were still Tier 20 and really needed to start speeding up. Matt had considered dragging them through a more Tier-appropriate rift before, but seeing them again and with a seven Tier gap between them changed his perspective. It just wasn’t really possible anymore, and he kicked himself for not acting on the thought earlier.
+
+If he got them to Tier 24, they would at least be safer in making their Intents, but the question was how.
+
+Matt paused. No, the real question was if they would accept the help at all. Like all the Moore children, Travis had his own hang ups about independence and he might decline on that basis alone.
+
+Something to consider when Matt had a free year or two. He was confident he could figure something out.
+
+His current biggest issue was the release of the new skills and navigating the guild through the eventual follow-up strike that would surely come from their hidden enemies.
+
+After checking again with Rah and ensuring that he really didn’t want credit for the discovery, Matt met up with Kees.
+
+Rubbing his hands together, Matt asked, “Are we ready?”
+
+Kees nodded. “As ready as we can be. All the preparatory procedures we discussed have been completed, and our intelligence division is ready to dig into anyone who starts to kick up a fuss. We won’t be caught off guard this time, even if they do get a blow in.”
+
+Matt agreed even as he reviewed the files Kees sent over.
+
+One thing caught his eye and he asked, “The initial test subjects were that successful? It's almost ten percent higher than our initial expectations.”
+
+Kees flicked through a few files before tossing a paper folder to Matt, who reviewed it.
+
+“Better than expected, but not that unexpected considering the children's direct access to two of the trainers who each had completed three of the five skills. Our secondary test groups fell closer in-line with our previous expectations when they were taught by less qualified teachers who only learned through our instructor teaching programs.”
+
+Matt thought that over before asking, “Hm, what do the projections say about the following generations, given the dissemination of the skill and increase in personal experience for future teachers?”
+
+Kees pinged him the study the guild had done, but after reviewing it, Matt wasn’t quite happy with the scope of the tests and the simulations.
+
+Grabbing the information, Matt used his now doubled mana generation to run his own simulations.
+
+His mana was, frankly, mind boggling. From 83,886,080 maximum mana as a Tier 26, and therefore mana regeneration per second, when he was under one percent of his max, or 838,886 mana, to a staggering 167,772,160 maximum mana as a Tier 27.
+
+Almost one hundred and seventy million mana was close to the full mana pool of a typical Tier 42 mage. And he had it at Tier 27.
+
+Every.
+
+Second.
+
+It was even harder to accept the fact that he would eclipse a Tier 50 mage’s maximum mana in just three more Tiers.
+
+At Tier 30, he would have 1.3 billion mana, and a Tier 50 mage with a typical split usually topped out at only one billion mana.
+
+It was almost hard to fathom, even for him, but that was the power of exponential functions.
+
+With a hundred and seventy million mana generation dedicated to the task, his [AI] churned with power as it processed copious amounts of data, simulating the scenarios the guild had previously run. He would have liked to use his Minkalla granted [AI] boost, but their years of intense delving had left him tapped for Willpower, and he’d rather recover it than spend it.
+
+His results weren’t vastly different from the originals, but they were more thorough and covered more edge cases.
+
+“Send these sims to the teams and have them looked over. I didn’t play with the numbers too much, but my gut says the impact of people with personal experience in making the skills will be larger than the simulations are predicting.”
+
+Kees narrowed his eyes at Matt before his eyebrows went into his hairline. “Congratulations are in order Guild Master. I apologize for missing your Tier up.”
+
+Matt grinned, but waved away the comment. “A minor and expected advancement. What's more interesting are the skills.”
+
+Tapping his chair, he reviewed most of the rest of the information before asking, “When can we leave?”
+
+He was expecting an answer in minutes to at most an hour, but Kees killed that hope with reality. “We informed the mortal families when you exited the rift, but it's currently night time for them, and so we will need to wait until they wake to leave. Call it seven more hours. Your ship is already prepped, and materials needed for the presentation are on board.”
+
+Matt wanted to say something, but he realized there wasn’t really anything he could do to speed up a mortal's sleep cycle. Or there was, but he wasn’t going to go about messing with anyone's brain chemistry like that.
+
+He could spend the time working on his sword with his people.
+
+Pausing as he moved down the hall, Matt changed direction and headed down to their island, which was still sitting in the sea.
+
+He could work on their official ducal business when he was aboard his Horizon class cruise ship, but he didn’t want to leave all the work for when they returned.
+
+If he worked for the next seven hours, he could make a dent in their backlog, making his trip more enjoyable too.
+
+There was no reason he couldn’t tinker as they traveled. The cruise ship had its own enchanting room he could use for tests.
+
+Linking up with Isabella, as Cato was helping the guild get ready for the move, Matt threw himself into work until it was time to leave.
+
+Originally, Aster was going to come with them, but she had gotten a message that corruption had infected her winter bloodline programs, with people in charge having their own metric on who was deserving of the resources. Contrary to Aster's rules and regulations.
+
+All three of them suspected it was the same person who had orchestrated the aura potion attacks, but there was no real proof until Aster investigated further, so she’d sadly be missing the skill reveal. Thankfully, the intelligence officers and Aster’s own safeguards had caught the issue early, before it could truly pervert her efforts.
+
+At least they hoped it was the cabal attacking them, as Aster hoped her efforts of breaking the Winter Wolves’ control over winter bloodline materials weren’t being wasted by the very people they were supposed to empower.
+
+After saying goodbye to Aster, Matt and Liz [Portal]ed to where the mortal families they were bringing along to the Capital were waiting.
+
+Part of the guild’s work leading up to the release of the buildable skills was to ensure that young, freshly-awakened adults could actually manage to make the skills.
+
+To that end, they had put out a notice for any wannabe delvers who couldn’t afford to take the traditional route, but were willing to dedicate their own time into becoming delvers.
+
+The families weren’t necessarily poor, as living on a higher-Tier world like Palustris came with higher wages and a higher standard of living. But at the same time, living on a higher-Tier world limited the amount of low-Tier rifts to go around. That led to longer than normal wait times as young adults worked to cycle through and Tier up, as well as higher demand thanks to the higher population.
+
+There was a reason most higher-Tier worlds bought new planets and/or moons to add to their star systems, so they could act as pressure relief valves for families such as this.
+
+But these people, and those living on low-Tier worlds, were exactly who Matt was trying to help with the buildable skills program.
+
+Both groups were represented in the ten children gathered next to their parents, but in a distinctly separate group.
+
+As he and Liz stepped through, Matt analyzed the young adults.
+
+All were sixteen, with the exception of a young girl who would only turn sixteen on their way to the Capital.
+
+These were his living examples that their methods worked and were doable by anyone who put in the time.
+
+Five were families from Palustris, while the other five were from a nearby Tier 3 world, just to quash any question of the first group of kids being given special treatment due to living on their capital world.
+
+As Matt passed through the portal, he dropped his perception down to a Tier 1 speed and felt the world speed up.
+
+“Welcome everyone. Let me express how grateful I am that you were able to take the time out of your busy lives to accompany me to the Capital, and show off Titan’s Torch’s newest innovation. I personally and deeply appreciate it.”
+
+The families were being well compensated for their year-long sabbatical, and the children would be given priority rift access across the duchy when they returned to compensate them for their time. But he did appreciate that they were willing to spend their time helping him and Titan’s Torch.
+
+Matt felt his social battery plummet as the looks of awe and veneration swept over everyone, but he put up with it as he shook hands and played nice with everyone. Even after so many times, it still made him deeply uncomfortable.
+
+After he had made his rounds, he cast [Portal] into his cruise ship, where he accompanied the families on the tour of the guest floor, along with the wait staff assigned to the floor who would be catering to the families while they were traveling.
+
+As soon as he could, Matt made his escape and checked in on his guildmates, who were accompanying them for the ride.
+
+Thankfully, they were quickly on their way and hurtling through chaotic space for the Capital.
+
+Matt wanted to just go heads down and work on his sword, his duchy’s paperwork, and strategize with Kees for upcoming guild releases for the duration of the trip. However, just a week in, Cato coughed slightly instead of handing Matt the next thing he needed to work on.
+
+“My Lord, you mentioned that you wanted to interact with the mortal families.”
+
+Matt didn’t remember mentioning that, but he also knew the point behind Cato’s veiled hint was very valid.
+
+He would make these people’s decades by spending a little time being personable with them, and it would cost him nothing. Or at least nothing important. His dislike of such gatherings and being fawned over was of negligible concern when looked at it like that.
+
+It wasn’t hard to check in with what his younger self would have given to interact with Duke Waters when he was working at Benny’s Inn, so he’d do exactly that for them.
+
+With a plastered-on smile, Matt went down to the mortals’ floor and joined them for lunch before being talked into watching one of the Ascender movies.
+
+It was awful, but the kids and parents alike enjoyed it so much, Matt just couldn’t say no when they invited him back when he had more free time. Or at least, he couldn't say no to the hope radiating off them.
+
+After an internal debate, Matt eventually settled on visiting twice a week for a few hours.
+
+One time was for a meal where he and Liz just chatted, and the second was when he helped the kids practice the things they would need if they were going to become delvers. Liz did the same at a different time, but their goals were aligned.
+
+They wanted the kids to become successful delvers, not dead statistics. And in pursuit of that, they might have pushed them a little harder than they intended. But none of the kids complained around them, so he and Liz pretended they didn’t hear their moans and groans after either of them left. It was hard, but he would rather hear that than learn they had overestimated themselves because of their association with him and died. To that end, he beat into them ‘slow and steady won the race’ with repeated failures versus training dummies any time they tried to do something movie worthy.
+
+After they settled into that pattern, the travel to the Capital passed without too much fanfare.
+
+Seeing the mortals' reaction to the Capital was endlessly amusing as they struggled to take in the size of the ecumenopolis and its many many layers.
+
+Not that they had much time to gawk.
+
+Just two days after they arrived, Titan’s Torch kicked off their press conference.
+
+The guild had invited every news outlet, every guild that either had a presence on the Capital or was nearby and had lower-Tier members, every noble family who was close enough to arrive in time, and every corporation that was even tangentially related to delving.
+
+That meant millions of applicants, even in a catered event that took up one of the larger ballrooms available to rent.
+
+He had to be on at all times, which he could do, but it wasn’t something he enjoyed. At least he saw a few people who he both knew and wanted to see, which helped a little.
+
+Namely some of the nobles of this next generation who he knew, like Dominus Maniake and Sciath Ní hEachaidh, scions of the two most notable dragon families. He also met with Kiri Winiata of one of the strongest ducal families, and one which had taken to his aperology developments with a fervor, and even Silvia Dobrescu who he had just formed a trade deal with.
+
+He wouldn’t call them friends, but they were notable movers and shakers thanks to their ducal ties, and that was more than he could say against most of the others arriving.
+
+All except Shadi, the CEO of TrueMind, the AI company his own original AI pseudo-skill had come from.
+
+She was something of an actually friendly face. Matt wouldn’t go so far as to call her a friend, but the two of them had kept in sporadic contact as she reacclimated to running TrueMind.
+
+The introductions and filtering in of people took almost two full days, but Matt managed to push on, seeing his prize so close at hand.
+
+On a massive stage surrounded by raised and spatially-compacted floors, so everyone could see without too much crowding, Matt stood alongside his guild leadership and lead scientist.
+
+“I would like to start by thanking everyone for arriving. This is a big moment for Titan’s Torch. We teased this project during the blank skill shard reveal, but while that was a remarkable discovery, it is mainly limited to academics and those who wanted a skill not currently available out of a rift. Which is rare, all things considered. However, this is tangentially related, but in ways most of you probably wouldn’t guess.”
+
+Matt let his eyes scan over the crowds, letting the moment build.
+
+“I would ask you all to think back for a moment. What was one of the first things you did when you awakened? For the wealthy, I’m almost positive it was to start absorbing skills.”
+
+Seeing the nods, Matt paused letting the crowd murmur to each other.
+
+“As for everyone else, those of us unlucky enough to be too poor to afford Tier 8 skills, it was working for years to afford an item that can replicate a skill. It all comes back down to skills though. Skills are so very important to delving, though they are something we take for granted. Sure, many people do delve without skills, but they only do so until they can afford them. Skills are so important that the Empire gives them out as rewards for reaching Tier 5 on the Path. Compare that with the other Great Powers. The Clans pass out full sets of enchanted armor for reaching Tier 5. The Republic gives out access to rare rifts. The Guilds give out personal time with a Tier 15 trainer. But the Empire gives out a simple Tier 8 spell. Does that mean the Empire isn’t giving as much?”
+
+Matt let out a barked laugh, which was mirrored by a few in the crowd. “For those who had done a deep dive of the Path and its rules and regulations, you know that's not true. The Empire pushes the limit of what is appropriate to give by giving out those skills. That comes back to the point I’m trying to make. Skills are important. They are force multipliers. They enable a cultivator to wield power beyond the physical and the mundane. They also statistically lower the death rate for young delvers substantially.”
+
+Matt paused and just watched.
+
+He looked the spectators who either hung on his word or seemed bored at his talking. He looked at his people arrayed behind him, who barely contained their excitement. He looked at the news broadcasters who were quietly chattering to their audiences. He looked out to the Capital around him and its teeming masses.
+
+“So why has no one done anything to change that?”
+
+Matt let the question linger before answering it. “You may say, ‘But they have, Ascender Titan’. And I’d reply, sure, there are cheap enchanted items. Wands, armors, swords, and gloves. I could list things for hours and not cover them all, but are they really answers? I still use enchanted items to this day, it’s obvious they’re useful. But they serve a vastly different role, now that my most important abilities are skills. Skills that through decades of use, have molded themselves to my needs. Skills that have grown with me through battle and upgrade orbs. But once again, these skills are expensive and rare, especially when starting out, as they are only guaranteed to come from Tier 8 rifts.”
+
+With a snap, Matt cast [Portal]. “And so let me introduce you to the answer Titan’s Torch has come up with.”
+
+The ten kids walked through the hole in space, though their identities were disguised by the masks Matt had gotten for them.
+
+There was no reason for sixteen year olds' identities to be blasted all over the Realm. While that might be a positive in some ways, it would forever alter their lives, and so Matt had made the choice to mask them up. Once they were twenty, they could come forward and reveal their identities if they wanted. By that time, they would be old enough to deal with the consequences of that act.
+
+Moving to the side to give the kids the floor, Matt continued, “Ten otherwise ordinary and newly awakened fresh adults. Except with one addition. A skill.”
+
+Matt could see the confusion pass in waves of the crowd as most failed to understand why he would give a skill to kids right after complaining about how expensive skills were, but he could also see others who started to understand where he was going. Or where they thought he was going. He doubted many of them were right.
+
+“You are welcome to scan them, but you will find none of the children are wearing any enchanted item beyond the masks which protect their identities.”
+
+On cue, the two children out of the group who had learned [Solar Flare] stepped forward. The leftmost one, the one from his capital, threw their hand forward like they were throwing a ball, and right at the end of their throw a small ember ignited and was sent hurtling forward.
+
+It was weak. Weaker than any [Fireball] and without the skill’s distinctive spherical shape, but a fire projectile all the same.
+
+The second person who had learned [Solar Flare] didn’t bother to throw or move their hand at all. Instead, the spell appeared next to their head, hanging there for a moment like a tiny flame, before launching itself forward.
+
+They were so different in how they had manifested the skill, which was why Matt had chosen them to start the presentation. They were obviously using the same skill, but the variation couldn’t be explained by freshly absorbed skills.
+
+“Once more for those who didn’t believe it.”
+
+Matt smiled as the kids emptied their basic Tier 1 mana pools with just over a dozen casts. “Thanks, you two. For those keeping track, we call that one [Solar Flare].”
+
+As the first two kids went to take the prepared seats, he gestured to the next two while inspecting the crowd.
+
+There were three major reactions. Shock and awe, complete disbelief, or confusion for those who hadn’t put things together yet.
+
+Well, that was why he had five skills to show off.
+
+The noise started to rise, but Matt activated the sound dampers slightly to keep it from boiling over before the show finished, and to keep the audio from the stage clean for the recordings and broadcasts.
+
+Two training dummies rose out of the stage and the kids who had created [Fury of the Blade] started attacking them with a spear and sword respectively. Just as Matt had asked them, their first few attacks were without the skill, but that just built the anticipation as everyone watched to see what would happen.
+
+When blades of wind shot out of their bodies and struck the stage around them, the tone of the audience shifted subtly, but Matt wasn’t able to quite put his finger on how exactly. He just knew it was a positive development and something he needed to capitalize on.
+
+“While mages are great— who doesn’t want to control the elements?— it's harder to get started. Picking up a melee weapon is cheaper and easier to train in schools. But as anyone who rose up going that route knows, without a mage or some other way to deal with multiple enemies, a single mistake could lead to your downfall as you are surrounded and pulled down through sheer weight of numbers.”
+
+Letting the blades of air speak for him, Matt paused until the kids ran out of mana. “I won’t say that's changed forever, but this is a damn good first step. This one has a bit more of a dramatic name, but let me introduce [Fury of the Blade]. I will note it works for any bladed weapon, thrusting or slashing alike.”
+
+Up next were the [Lesser Fire Weapon] kids. The girl on the left raised her glove-covered fists which blossomed into flame, while the girl on the right brandished a mace which similarly ignited.
+
+He had wanted to bring one of each elemental type, but the [Lesser Air Weapon] just wasn't too popular, and they hadn’t gotten any other elements working yet. Though water was close.
+
+“We call this [Lesser Fire Weapon], although we did get an air variant working and have nearly finalized a water version. Sadly, an earth variant remains out of our grasp for the time being.”
+
+Wanting to end on a strong note, Matt gestured to two of the four kids with the ‘failure’ of a skill to step forward, leaving his favorite skill for last.
+
+Small bucklers of mana appeared in the kids’ hands and they batted away small bursts of fire, raw mana, and small darts the training dummies sent at them.
+
+The skill wasn’t actually useless, but its use cases were more limited than the other skills, making it the weakest of the bunch. Despite that, it had proven a fairly popular choice among the kids, surprising everyone at the guild. “We call this one [Hand Shield]. A magical protection skill with a decent cost ratio. In all of our testing, it's shown it has fantastic magical resistances and better-than-average physical resilience.”
+
+When the kids were low on mana, Matt thanked them and sent them to sit down, leaving the final two young adults standing there for all to see.
+
+“And our last skill to show off today. We are calling it [Physical Empowerment] and it speaks for itself better than I ever could.”
+
+As he finished, an obstacle course rose out of the stage as a small spatial expansion stretched the area it appeared in, ensuring no one was near it.
+
+The kids, a boy and a girl, started by climbing the first obstacle, a twenty foot rope, mainly relying on technique, trapping the rope in the crook of their foot and using that to step higher. Once they reached the top, they swung over the monkey bars before jumping from platform to platform where they landed back on the ground. There, they went through a series of weight lifting tests to show their raw physical prowess, which were fairly average for their age, size, sexes, and body types.
+
+Matt clapped as the kids circled back around. “A good showing from two dedicated to their physical abilities and who truly absorbed what their physical education teachers taught them. Above average in all marks, even if not truly exceptional. Now let's see them do it again.”
+
+Without hesitating or waiting to recover, the kids threw themselves at the obstacle course a second time, but the difference was night and day.
+
+Instead of using technique to climb the rope, both kids simply muscled their way up, climbing hand over hand at more than twice the speed they had done so before. When they reached the monkey bars, the kids diverged in technique. The boy skipped rungs using his longer arm span to hook a single finger onto the bar two away, which was enough to hold his weight, before swinging further. The girl, however, simply threw herself from rung to rung in rapid fire bursts showing her exquisite bodily control as her lower body hardly moved from its balled up position.
+
+When they reached the platforms, they once more took different approaches. The boy just powered through and skipped the back-and-forth portion, using his enhanced physical abilities to just run down one side. The girl took the intended route but made it look effortless, lightly jumping from spot to spot, hardly touching down on the platform before springing to the next, preserving her momentum for the follow-up jump.
+
+When they reached the weights, they each blew their previous lifts out of the water.
+
+Matt clapped as they finished and was joined by a few in the crowd that spread to nearly everyone.
+
+“Everyone please stand and take a bow. Thank you for your efforts in showing Titan’s Torch’s new products.”
+
+Dropping the sound dampening, Matt let the applause wash over the children. They had earned this moment and he wanted to let them soak it in.
+
+When it naturally started to die down, he signaled the kids to sit down, and using the stage controls, darkened the area around them, letting them have some privacy so they could finally react.
+
+Their shared exuberance of jumping up and down and hugging each other was a private moment he wanted them to have to themselves.
+
+“I'm sure most of you have figured it out by now, but Titan’s Torch’s new innovation is skills. Skills that any freshly awakened Tier 1 can make in their spirit in two to four years, with a little training and about four hours of work every day.”
+
+That caused the fervor to spill over and people started shouting, so Matt activated the damping formations again, cutting down on most of the sound. Not that it worked all that well; even the ballrooms' Tier 40 enchantments weren't enough to fully stop the dedicated higher Tiers, and Matt knew he only had a moment before chaos erupted.
+
+With a gesture, oversized skill shard representations rose from the floor. Each was about a foot tall and had the skill showcased inside highlighted. Smaller copies rose next, showing the steps to reach the final result for each skill. The size was more for the cameras, as anyone here had the spiritual perception to feel out of skill structures from across the planet, let alone at these small distances.
+
+“We have training programs already available for download that have proven effective. Half of the children were taught using only that and a Tier 5 crafter acting as a more experienced sounding board, while the remaining five used the same training program but paired with someone experienced with making several of the skills already. But I’ll bet most of you can’t actually tell who is who just from their demonstrations.”
+
+Holding the moment, Matt smiled. “Now, I will take questions.”
+
+With that, he lowered the sound dampers to get hit with a veritable wall of sound.

@@ -1,0 +1,169 @@
+---
+id: e9dfde55-83f2-5e82-b7b2-9e349ec7cdc0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20"
+slug: 0020-chapter-20
+partOf: the-speed-of-light-monster-evolution-litrpg
+position: 20
+ownLength: 1947
+unit: words
+publishedAt: 2025-09-08
+link: "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2583728/chapter-20"
+royalRoadId: "2583728"
+---
+
+Tachyon summoned more magic carrots, allowing her shoes of Hermes to absorb the magic and spread their wings. She immediately took to the air a moment after, stomping on light magic circles beneath her hooves, dodging incoming fireballs.
+
+Jumping from side to side, she built back up her speed as best she could, hoping to store enough that she could finish the fight decisively.
+
+She moved as quickly as she could to hover right over the Elemental Toglodyte. Jumping upward, she spun, landing all four hooves on a magic circle right above the monster.
+
+Releasing everything she had, the magic circle shattered under the force of her kick as she shot downward like a bullet loose from a gun. The sound of her cutting through the air filling the cave until she made contact with her target.
+
+That was at least what she was planning on. Until she was stopped a few inches from the Elemental Troglodyte, a light blue bubble around him stopping her in her tracks.
+
+The bubble cracked slightly, but the Elemental Troglodyte smiled behind it as it looked upward.
+
+“Think you can get to me that easy? The great elemental mage, Gregor!? I will conquer the highest Stone! Defeat the encroaching tutorial participants! And make it back stronger than ever to rule!”
+
+Tachyon landed on the bubble with all four hooves, jumping back in an exhausted huff.
+
+This guy sure is talkative during a fight… She grumbled internally, thinking of another way to win.
+
+If she wasn’t able to take out the leader instantly, she would have to do it the slow and steady way. And knowing now that he had dirt —earth—magic at his disposal. Going down the passageways was even more of a non-option.
+
+No, she would have to bet it all on evolving into something strong enough to defeat every monster here.
+
+Changing her strategy, she jumped into action.
+
+Her head light, fired off several fireballs into the crowd of Bruisers and mages. Trying her best to interrupt or at least distract them from sending another barrage of fireballs her way.
+
+Sadly, some were more industrious than others, already sending magic balls of fire her way.
+
+Tachyon sent her own magic carrots their way to intercept them, but only managed to stop a handful.
+
+She pulled out her mostly repaired skillet, putting extra mana into the thread that held it after reinforcing the object with some mana as well, and then went to town.
+
+Slamming the skillet into the flying magic ball, she saw the skillet turn red hot and begin to melt after the fourth deflection. All the while, she did her best to make use of the full duration of her shoes' flying ability. Building as much speed as possible while in the air.
+
+These hooves were made for running! And that’s just what I’ll do! I’ll show you exactly what I can do! Tachyon roared as she reached the max controllable speed she could with one last stride.
+
+Once she had stored as much as she was able to control, she found the biggest clump of troglodytes she could. Once she was right over top of them, she came down like a meteor. Her body lit up in brilliant screeching white as she collided with the ground.
+
+The momentum and speed she stored exploded as her hooves impacted with the ground, sending shrapnel of stone in every direction. Along with creating a crater wide enough to bury several of the troglodyte mages and Bruisers.
+
+You have killed, x3 Troglodytes Fire Spitters Level 18. Experience earned.
+
+You have killed, Troglodyte Fire Spitter Level 19. Experience earned.
+
+You have killed, x2 Troglodytes Bruisers Level 16. Experience earned.
+
+You have killed, Troglodyte Bruiser Level 15. Experience earned.
+
+Tachyon gave a disappointed click of her tongue. She had hoped to get the level up she needed with that blow. But it seemed that luck was not on her side just yet.
+
+She suddenly felt another influx of mana well up below her feet and jumped upward once more. A spike of earth nearly took out her head had she hesitated even a split second more.
+
+Another round of fireballs entered the air as well. Troglodyte Bruisers were doing their best to guard the mages from below, but ultimately being very, very, useless against the flying horse in the air.
+
+Which, for now, Tachyon was more than happy to have. She once again built up speed. Seeing her status slowly ticking down to half as she sent out magic carrots and fireballs of her own to intercept the ones being sent at her.
+
+The biggest problem being Gregor, the Elementalist Troglodyte.
+
+At first, she thought he was just waiting out larger cooldowns for his stronger spells, his fireball and earthen magic seemed quite powerful. But the more she noticed him leisurely standing there, the more she was convinced that he was simply waiting for her to exhaust herself.
+
+Suddenly, it made perfect sense why there were so many monsters in the cave. She thought it was for him to defend the Controlling Stone, but no. It was simply for his underlings to wear down any intruder so he could finish them off.
+
+She wasn’t sure why, but this infuriated her. Sure, she didn’t care for these monsters in particular. But had these been Ned or Ted, or even her parents, who were being used in this fashion.
+
+A new level of anger bubbled up in Tachyon’s gut.
+
+She began jumping from magic circle to magic circle in longer and greater strides, building up more speed than before. The normal feeling when she reached her peak of speed felt different this time.
+
+Tachyon suddenly felt a tremble in her legs. As if it was hard to stand, but she pushed through. Now was not the time to give up or question what was wrong. A moment of weakness or hesitation could result in her being turned into a horse kabab.
+
+She felt rushed. Looking for another packed group of the mages, she positioned herself above them. Ready to come down on them like she had the previous group, she fell like a leaded weight from above.
+
+Her skill carried her to the bottom, cutting through the air and several fireballs as if they weren’t there. She had taken a small amount of burn damage, but not nearly what was expected from taking the brunt of a spell thanks to her Resistance.
+
+Fractions of a second before she met the ground, she felt the air shift, more mana than she had ever experienced coalesced right where she was about to land.
+
+It was too late to change directions. Even if she used her shoes to make a magic circle to jump off, she was sure her speed was too great for it to hold the force.
+
+The mana reached its peak. Tachyon saw the ground shift below her as a spike of earth sprouted out from the ground. She was forced to do her best to dodge it mid-air, twisting her body just barely enough for the spell to only hit her front foreleg.
+
+She tumbled to the ground, the full force of her attack now used against her as she lay bleeding, surrounded by Bruisers and mages.
+
+Now injured and on only three legs, she was forced to rely on her magic to clear the way. There was still some time on her After Image cooldown before she could utilize it. As a result, she sent out as many magic light carrots as possible. The head light glowing brightly as it was activated as well.
+
+And for good measure, her trusty skillet floated on a mana thread, ready to be used as a troglodyte flyswatter should one of the Bruisers get too close.
+
+The magic carrots and fireballs flew in a cacophony of explosions as they exchanged spells with one another. One horse vs tens of cave-dwelling troglodytes.
+
+Tachyon did her best to dodge and move with one leg out of commission, fireballs searing her sides as they barely missed. That was until her bum leg proved to be too much of a problem.
+
+She misstepped, taking a blow directly, and was flung backward and into the cave wall. But not before she exchanged a few magic carrots with the mages so kind as to send her fireballs.
+
+You have killed, x2 Troglodyte Fire Spitters Level 18. Experience earned.
+
+You have killed, Troglodyte Fire Spitter Level 17. Experience earned.
+
+You have killed, Troglodyte Fire Spitter Level 19. Experience earned.
+
+Congratulations! Your race level has increased to 20. +4 to AGI, +2 to MAG and STAM, +15 Free Points.
+
+Threshold reached, new race evolutions available.
+
+Do you wish to see available race evolutions?
+
+Tachyon struggled to keep her eyes open. She could feel mana coalescing all around her. It was Gregor casting the final blow now that she was down and out.
+
+But Tachyon still had some fight left in her.
+
+Her After Image skill was now off cooldown. She activated it as she struggled to leap forward with her back legs, putting as much strength into them as possible. As she did, she accented and read faster than she had ever run before.
+
+She could not make a poor decision here, her life depended on it.
+
+Elemental Broodsong Mare
+
+Hermes’s Pegasus
+
+Light Fire Alpha Mare
+
+Mana Pegasus
+
+There were four selections, just like before. One of which was from the previous evolution, so she promptly dismissed the option. She was not going to go back to the past, there was only forward.
+
+Hermes’s Pegasus
+
+The grand steed of the messenger to the gods. As their reliable mount-
+
+Tachyon didn’t even finish the description. She wouldn’t be someone’s pet. That was out of the question.
+
+Light Fire Alpha Mare
+
+The leader of the pack. The most dazzling of known rare elemental-based horses. Their body bathed in intense white fire, they are known to use both fire and light magic and be highly mana attuned. Some are also convinced that they are the pre-evolved form of the catastrophic beast, Bucephalus.
+
++10 to AGI and MAG, +5 to STAM, and +10 Free Points per level.
+
+An incredible option. She thought, her invisibility nearly gone from her skill.
+
+Tachyon rushed to read the last option, feeling the mana activate behind her as her After Image was completely skewered.
+
+Mana Pegasus
+
+One of the apex monsters of the sky. Thought to be myths, they are only found on planets with ample ambient mana and are known to be extremely territorial of their homes made of tempered clouds. With their use of both light and wind magic, some are even known to use deviant magic such as lightning.
+
++15 to MAG, +7 to AGI, and +10 Free Points per level.
+
+Both seemed amazing options. The sheer stats they gave made Tachyon’s mouth water. But she didn’t have enough time to weigh the options in depth. She felt that the Mana Pegasus was an exceptional option. Having the ability to permanently fly was something any fighter would gladly take.
+
+But her dream to be free was different. She was not restricted to land, sea, or sky. She would take the limits of her body beyond that.
+
+Tachyon gave one last look at the smiling Gregor, as his face shifted slowly to realize he had not killed her. But her After Image instead.
+
+She scoffed.
+
+Witness as I show you exactly what I can do with just running. I’ll overturn your insult with the strength and speed of these feet. The potential of my body, my soul. The greatest peak! I’ll run right to it! And through it!
+
+Race Evolution confirmed.

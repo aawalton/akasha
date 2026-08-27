@@ -1,0 +1,243 @@
+---
+id: 22c5e5d5-8cf3-53d0-ad20-847683a77793
+page-type-slug: story-chapter-royal-road
+title: "205 Aftermath"
+slug: 0164-205-aftermath
+partOf: the-new-world
+position: 164
+ownLength: 2821
+unit: words
+ownProgress: 2821
+publishedAt: 2019-05-19
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/363444/205-aftermath"
+royalRoadId: "363444"
+markedReadAt: "2026-06-29T21:26:28.902Z"
+---
+
+Kessiah stood there stunned into silence. I cupped my chin, thinking about the message, "You know, that sounds like you guys are a part of Schema's system now."
+
+Althea looked over there heads and checked out their titles. I did the same.
+
+Chrona Carsiary, The Realm Wielder(lvl 12,823 | Race: Gialgathen | Class: Chronomancer | Guild: None)
+
+I took a second look at Krog's right after
+
+Krog Borom, The Enforcer(lvl 11,021 | Race: Gialgathen | Class: Enforcer)
+
+Althea crossed her arms, "Wow, you guys will be ridiculous with the system."
+
+Chrona squinted her eyes at the status screens, "It's a bit...overwhelming."
+
+I pointed at them, "Just answer the messages with your thoughts. The status screen will respond."
+
+"Er, it's changed. It's showing a long list of basic skills now," Krog mumbled.
+
+"It's probably just showing you your skills." Althea murmured.
+
+"Skills? I need no one to tell me what I know and what I do not." Krog grumbled.
+
+Chrona blinked, "I forgot all about my sculpting days."
+
+"Ahem," Krog said with a cough. "As did I."
+
+Althea grinned, "More useful than you thought, eh?"
+
+"Maybe," Krog said.
+
+"Let us know if it changes," I said.
+
+"It just did," Chrona mumbled. "It's saying something about choosing a path?"
+
+I pointed at her, "Choose the Mind of Iron and Mind of Steel perks. You're more of a mage anyway. Krog should probably choose Body of Iron and Body of Steel."
+
+Althea turned to me with an eyebrow raised, "You remember that stuff?"
+
+"Of course. Perks are extremely important."
+
+"Er, I guess so."
+
+Krog sighed, "Thank you for simplifying this. Mini-novels popping up in my vision is disorienting at best and disturbing at worst. They seem so useless as well, wasting my time with text."
+
+"Make no mistake," I said with a stony voice, "Those boxes and the words in them can turn you into much better fighters than you are now. Infinitely better. Maybe even better than me if you think through them."
+
+Chrona raised her eyebrows, "Are you certain? These are just words after all."
+
+"Those words hold power, like a nation's anthem or a dying man's last words. Treat them like that. Please."
+
+I got Krog and Chrona's attention at that point.
+
+"Besides, that's how I was able to beat both of you in combat. You should be able to catch back up rapidly now," I said.
+
+"How so?" Chrona mumbled, "The difference between our abilities is vast, and to shift that rift would take equally vast stretches of time."
+
+Althea shook her head, "No. It won't. You'll become much tougher and stronger here soon after gaining just a few levels."
+
+Krog's eyes widened, "Will we rival this darkened one?"
+
+Althea weighed her hand back and forth, "You mean Daniel? If so, then no, but you'd be amazed how much the gap will close."
+
+"Show us the secrets of these mystic texts, if you would," Chrona said while gawking at her.
+
+Althea and I laughed a little, but in a way, Chrona was right. Helping them make the right choice with their builds would make a world of difference. Considering we just fought a Hybrid that nearly killed us all, a boost in our party's power was essential. So, we went about the business of drawing up a detailed graph of the basic perks they needed.
+
+We ended up isolating three main points of concern. The first was constitution. Though sturdy, they gialgathens didn't have maxed out damage resistance. This was because their constitution was divided by ten, making the number much lower than usual. In fact, they had all kinds of strange values involved with the system that were unusual.
+
+For starters, they had next to no endurance or willpower. We set out a leveling protocol to fix that. This involved giving them attributes to invest into to shore up these weaknesses. With that handled, we moved onto their lacking constitution scores. To fix it, I sent them invitations to the Harbinger's Legion, allowing them to select one of my legacies. Althea and I guided them through the process of choosing the one for constitution.
+
+With the extra stats it gave along with a few choice trees and perk selections, we got both of their damage resistances capped. As they went through over a dozen trees each, I jotted a few of them down in a personal message. I might try to unlock a few of their trees later since some of them sounded so useful. Their classes were interesting as well.
+
+Chrona's enhanced her time dilation in its size, mana efficiency, and intensity. That alone was useful, but it gave her better focus and reaction times while in the time warp. Combine those boosts with a general set of stat buffs while in her zone of control, and Chrona was a complete monster.
+
+Krog wasn't that different in that regard. His class, the Enforcer, gave him stat boosts, damage resistance cap increases, and enhanced his alteration magics. With his new level of control, he could mold his skin into an iron hide and clot his wounds in seconds. His newfound control allowed him to even mold the material that composed his enemies.
+
+You'd be surprised how little of your body needed to be turned to dirt before you died. It was a lot like arcane magic, but more efficient. The name of the class made it seem like a variation of the Breaker class, just more personalized for him.
+
+After finishing those aspects of their builds, we made them decide their strengths. For Chrona, it was intelligence, willpower, and strength which allowed her to function. Her time field was the ace she worked around, so having the mana regen and pool to maintain it was vital. The strength just let her abuse it further.
+
+For Krog, it was willpower, strength, and dexterity. His flowing style of fighting would benefit quite a bit from extra dexterity, his reaction times as well. It would make him a tornado of claws and tail whips, something the eldritch would fear.
+
+With all that grinded out, I watched on as they selected finalize.
+
+"I...I'm melting." Krog whimpered.
+
+Chrona glanced at us, "Did you poison us? Is this illusion magic?"
+
+They groveled on the ground, deluged by the rapid changes Schema enacted. Althea held back a laugh, snickering. I laughed from my chest, "Aren't you both supposed to be generals? What's with the panicking for a few level ups?"
+
+Alright, maybe it was a bit more than a few technically. Our gialgathen buddies weren't putting massive amounts of attribute points into themselves though. That meant most of the changes were due to perks and skill trees they unlocked retroactively. It was an imperfect process no doubt, and they didn't get as much out of the system as they deserved. The shift would be monumental no doubt, however.
+
+That being said, it was still hilarious to see the two giants rolling on the ground like cats with itchy backs.
+
+It took many minutes before they finally stopped moving. As they did, I locked onto a few key differences from before Schema's augmentations. Their skin was a few tints grayer, their bodies leaner. They seemed more robust, like moving stone compared to the flesh and blood of before. They reflected their levels much better now, both of them far fiercer.
+
+Althea actually pursed her lips at the sight of it.
+
+"You guys look...intimidating."
+
+I nodded, "Yeah." I walked up and gave Krog a light punch to his chest, "You don't look or feel squishy anymore."
+
+Krog stared down at the place I hit, "Is this the power of that AI?"
+
+"Yup."
+
+"It's...it's...I'm at a loss for words," Chrona gasped."
+
+"Insane? Ridiculous?" Althea offered.
+
+Krog growled, "Unfair perhaps. How did the espens not evolve further with such might at their disposal? I am moving metal now."
+
+Kessiah spoke up with her arms crossed, "The same reasons that you gialgathens weren't put in the system. You have to be more industrious; otherwise, Schema won't invest into you. You both proved yourselves though, so this set a precedent - Schema's willing to give you guys a second chance."
+
+Kessiah glowered, "Don't waste it."
+
+Althea turned to Kessiah, "Then why haven't the remnants been given some way of getting into the system like this?"
+
+"We are in the system." Kessiah scoffed. "The problem is our unknown status. These guys aren't immortal, and they can't outgrow Schema's system. As long as they stay away from illegal stuff, they should be fine."
+
+"Like gene splicing," I offered.
+
+"Yeah. Like gene splicing." Kessiah grumbled.
+
+Chrona let out a deep breath, setting herself down, "This is all I can muster for today. After a night's rest, we'll have another discussion about this system and the secrets you've hidden."
+
+Krog flopped onto his belly, "I agree. This transition has been...exhausting."
+
+I turned a hand to them, "Sure, we'll chat tomorrow. I'll finish telling you about what and who I am then too."
+
+Krog grumbled while falling asleep, "You'd better..."
+
+Both the gialgathens slept where they stood, each of them unable to continue. Considering how much ground we covered today, that made a lot of sense. To make them more comfortable, I carved a few basic runes around them, creating a cozy warmth in the circle. I added an additional sub-circle that lightened gravity within the field as well. I didn't want them waking up with a crick in their necks after all.
+
+After giving them a comfortable place to sleep, Kessiah, Althea, and I walked down to our base. We met in a circle, each of us facing the other. Kessiah started the conversation,
+
+"So what are we going to do about them being in the system?"
+
+I answered, "Abuse it. We're going to milk their involvement for all its worth. Schema knows we needed this lucky break too. This is how we'll pull everything together."]
+
+Althea pursed her lips, "Uh, any details to that plan?"
+
+I scratched the side of my hair, which sounded like steel wires, "It's...hmm...man, I'm missing Torix already."
+
+"We can do this," Althea said. "We've come up with plans before. This isn't our first time. We can do it again."
+
+I racked my brain, trying to tie together disparate points. I said aloud, "We need a few things to stop Giess from being glassed. A, we need to stop the Hybrid project altogether. We have some incriminating evidence in the terminals no doubt. If we tie it to the Adair family instead of Giess, then maybe we can stop the glassing."
+
+Kessiah pointed at me, "Ah, that's...wait a fucking second. The Adair family is a part of this?"
+
+Althea facepalmed, "Duh. We didn't tell you. Sorry. So, uh, we figured out that Tohtella was the one organizing the hybrid project. She was backed up by the Adair family, a group of mind-controlling remnants."
+
+Kessiah's eyes widened, "Wait...seriously? Damn...Here I thought that bullshit was baseless rumors. It was true. Woah."
+
+I rubbed my hand against my forehead, staring down, "Hmm, we prove their involvement by showing the Overseer the terminals. Once we get that, we might be able to get some resources for helping clear out Giess. After all, the Adair family isn't limited to just Giess. They'll just take this Hybrid project off world."
+
+Althea tapped her cheek, "Huh...Maybe we could get the gialgathens to clear out some dungeons too? Chrona and Krog could lead that front, getting a few gialgathens to join in the system. If they do, then maybe we help lessen the risk factors of Giess."
+
+"Yeah, that'll definitely help," I murmured. "What about Thisbey? What should we do to him?"
+
+"I say we still kill him," Althea said. "I've seen the messages he's been sending to the revolutionaries. He's all in on this genocidal rampage. Even if it hurts saving Giess overall since it will stop the espens from clearing out the silvers and eldritch, the alternative is worse. Uh, in my opinion at least."
+
+"No, I agree." I said while looking up, "That's what we'll do. I'll organize Chrona and Krog by showing them how to clear out dungeons. I'll be doing the same wherever I can find them. If we can get a group of several dozen high-level gialgathens, we should be able to do the work of a Fringe Walker or two."
+
+Althea sighed, "Then I'll focus on killing Thisbey and stopping his whole movement."
+
+"Then I'll...do nothing again?" Kessiah said while frowning. She perked up,
+
+"Wait, I can help you out. I saw those wounds on Chrona and Krog. I'm no expert, but I should be able to whip them into fighting shape after we're done with this talk. It might take a few days though. I've never reconstituted something that big before."
+
+I clasped my hands hard as stone, "Yes, yes, yes. That's exactly what we need. Krog's mobility would be shit without his wings anyway. While you guys focus on that, I'll get in contact with the Overseer and show him the terminals. After that, I'll spend a couple days clearing out dungeons before finishing the tournament."
+
+I put my arm over Kessiah and Althea's shoulders, "A plan's coming together guys."
+
+Althea smiled, "Torix would be proud."
+
+Kessiah raised her hand to her eye, lifting her head so she could look down on us, "Now now, child. The execution of a plan is far more important than the plan itself. Ho-ho-ho!"
+
+Althea giggled at Kessiah's Torix impersonation, each of them laughing a bit more than necessary. The situation was tense though, and the humor was appreciated. After the joke passed, a quiet descended on the group. It was the kind of silence before a great battle, one that lingered longer than it should.
+
+With the group now brooding, I raised a hand into the air, pounding my voice with Legion of One,
+
+"We'll tear Thisbey and Tohtella limb from limb and save this dying world. Now let's go make history."
+
+Kessiah huffed, "Hell Yeah. Let's go kick some ass."
+
+Althea slapped her cheeks, "Yeah, let's do it."
+
+We set out to our tasks, getting ready for the work at hand. I walked up to watch over Krog and Chrona's sleeping forms. As they rested, I opened my status to inspect the changes there. I found that I gained no levels from the Hybrid or Emagrotha which left a bitter taste in my mouth. They had to be killed though, exp or not. I did notice that I gained an enormous amount of ambient mana. Over a trillion of it in fact.
+
+Dimension-C138(Lvl 8,000)
+
+Strength – 7,911 | Constitution – 13,765 | Endurance – 58,771
+
+Dexterity – 3,350 | Willpower – 31,634 | Intelligence – 11,675
+
+Charisma – 2,356 | Luck – 5,275 | Perception – 4,929
+
+Health: 13.01 Million/13.01 Million | Health Regen: 39.62 Million/min or 660,403/sec
+
+Stamina: 8.43 Million/ 8.43 Million | Stamina Regen: 121,133/sec
+
+Living Dimension: 3.02 Trillion/4.30 Trillion
+
+Mass: 1.06 million pounds(481,925 kilos~)
+
+Height: Actual -14'1(4.30 meters) | Current - 14'1
+
+Damage Res - 98.5% | Dimensional Res - 49.25%
+
+Phys Dam Bonus – 1.22 Million% | Damage Bonus – 40%
+
+Event Horizon – 20,000 + (100% of your total health)/min
+
+I was well over halfway to the completion of my final armor evolution. A few more fights like the last one would result in that final leap. Even if I didn't gain any levels as well, my strength improved as well as my weight. Both metrics were measured in millions now instead of normal numbers. Considering it took several hours to absorb Emagrotha, that explained why I didn't notice the strength gains.
+
+My height was something I didn't notice either. I was living up to my name of the Gray Giant now, probably being taller than Helios at this point. That would be satisfying even if it was a bit petty. Outside of combat stats, the luck and perception runes were coming along, the luck runes growing faster in particular.
+
+It made me excited for what was to come. I had my tapestry of a rune in my grimoire, a new class, a sovereign skill, and my armor's final evolution to look forward too. If I could get all that going, then I'd be unstoppable...in theory at least. I'd need to see it all come together before I could make lasting judgments.
+
+With my status handled, I sent the Overseer a summoning request. Before he arrived, I pulled several terminals out of my dimensional storage. By the time the Overseer walked out of a portal in spacetime, a dozen metal units had littered the ground.
+
+A few inches shorter than me, the Overseer glanced up at me,
+
+"It has been epochs since I last looked up to someone. Impressive." He crossed his arms, "What world-shattering revelation do you have for me now?"
+
+I leaned against a terminal, "Let's just say we've got a lot to talk about."

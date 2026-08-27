@@ -1,0 +1,343 @@
+---
+id: bca2d7aa-0370-5db5-a2ff-81225674b96b
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED NINETY-SIX: When Wishing Was Having VII"
+slug: 0298-two-hundred-ninety-six-when-wishing-was-having-vii
+partOf: super-supportive
+position: 298
+ownLength: 5217
+unit: words
+publishedAt: 2026-07-06
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3637296/two-hundred-ninety-six-when-wishing-was-having"
+royalRoadId: "3637296"
+---
+
+296
+
+******
+
+Pacific Welcome House stood at the back of a botanical garden on the university campus. It was the residence for wizards who were being hosted by the school, and although there wasn’t space for large lectures, Artonan instructors could make arrangements to hold classes there for smaller groups if they wanted.
+
+Kelly’s suggestion that Alden and Lute let her talk to the people who could get them into the storytelling course had been casual. And Alden had been busy. He really hadn’t understood the quality of the treat he was getting until he and Lute were going through the rigmarole of their etiquette orientation. Even then, it was only last week, during their first lesson, that he’d finally realized the two of them had slipped past a crowd of other people and into one of the most inaccessible courses being held at Celena North right now.
+
+The walk to class was an event all by itself. The garden was part of a national project to bring Anesidorans closer to the rest of Earth through plants. Narrow pathways snaked between different climate pockets, and if Alden’s eyes rested on a particular area for several seconds, information would begin to appear. Upon first setting foot in the garden, he’d chosen the touring experience that emphasized human connection, so wherever his gaze lingered, a video of someone else interacting with the same kind of plant in its native environment would be shown.
+
+Some of the people who’d been recorded explained what they were doing. Others didn’t. The ones who said something tended to finish by thanking the watching Avowed for doing their part to protect the planet and its wonders. After hearing that the first few times, Alden preferred to move along before the recitation of gratitude happened. He liked seeing all the different people living their lives in corners of the world he knew nothing about, but being reminded that he was a special type of human who couldn’t go see those places for real without breaking laws made the tour less enjoyable.
+
+“Do you watch the human connections stuff?” he asked Lute as the walkway curved between bushes covered in rose hips.
+
+Alden’s learning cushion was coming with him today, wrapped in the cloth that had protected it when Stuart had had it teleported to Earth. There wasn’t ever going to be a safer classroom or a better group of students to use it around at Celena North, so he’d decided it could have an outing. He was still trying to keep it a mile away from scratchy-looking plants and the garden’s water features.
+
+“I started with that tour, but switched,” said Lute. His arms were around a cardboard boot box that held his puppets. “I’m doing the one that highlights everything here that can be used as poison or medicine. It’s not telling me what I want to know, though. If I mix all the poisonous plants here together, does it make super poison? Or do they counteract each other?”
+
+“That’s an important question. System, would it be safe for me to eat all the poisonous-labeled things in this garden if I mashed them up together and swallowed a large spoonful of the mix?”
+
+“You’re bringing the System into this?”
+
+“The ones on foreign planets have responded to questions about food safety when I’ve asked. So you’d think that ours would do the same. Of course, since it knows I’m not serious…it’s already answering.”
+
+“Maybe it’s worried you’re the kind of person who would actually eat assorted dangerous plants for the fun of it.”
+
+[Doing that would be damaging to your health.]
+
+“It says doing that would be damaging to my health,” Alden told him.
+
+“What else does it say?”
+
+“Nothing. That’s it.”
+
+“You’re light on the details there, System,” said Lute.
+
+The path they were on turned at a tall wall of bamboo growing so thickly that they couldn’t see through it to the other side. Following that wall led them to a wide gap where the bamboo framed a view of the tropical setting that had been designed for Pacific Welcome House.
+
+The building was crescent-shaped, like Apex, and the open side faced them. Two tall stories built of a sandy gold brick were skirted by hibiscuses, and Alden and Lute walked over the shadows of palm trees as they headed for the left side and the exterior door of their classroom.
+
+Most of the other students were already on the patio there, waiting for the instructor to invite them in. The sight of them all undid the bit of composure Alden had gathered on the walk here. He’d been leagues beyond most of the students in his Conversation class last quarter, not only in terms of his ability to speak the language but also in how dedicated he was to learning more about it.
+
+Among these people, that wasn’t the case.
+
+The eighteen original slots for the class had almost all gone to graduate students like Kelly who were language or culture focused. The youngest member of the class other than Alden and Lute was a college junior from an extraterrestrial art studies program at a university in F-city. He was one of eight people who came from other schools.
+
+Sharing the Artonan instructors who visited Anesidora was common. As the host school, Celena North University had reserved ten spots for its own students, and then they’d selected some applicants from elsewhere to round out the group and make sure Warin-doyis had worthy minds to bestow his knowledge upon.
+
+Lute and Alden hadn’t taken anyone’s seat. They’d been added on to make the original eighteen a class of twenty, with Warin-doyis’s enthusiastic permission according to Kelly.
+
+Alden saw how neatly the two of them fit into the picture. If he were the one trying to build a class that could both benefit from Warin-doyis and show him that his time was needed and valued, he’d have stuck himself and Lute in it. And all of their classmates did act like it was either natural or pleasantly surprising to have two teenagers in the mix.
+
+They were greeting him and Lute with waves and hellos now.
+
+I think it’s only me who feels like there’s a risk of me being much worse at this than everyone else. But what good does knowing that do me? It just means they’ll all be extra disappointed if I’m abysmal in class today.
+
+A couple of Shapers and a Morph Brute were talking about how they planned to use their powers to enhance their stories. Lute was refusing to show Kelly what he had in the box because it would spoil the surprise of his performance.
+
+He’s thinking about the element of surprise, and I’m over here worried about barfing peanut butter protein shake on the floor mid-story.
+
+It really was a wonder how quickly he could fall from the heights of his success in this morning’s Coursing class to this.
+
+I’m fine. There’s no reason I shouldn’t be fine.
+
+<<I’m not taking any other courses right now,>> said a man who Alden thought was one of the students from Naya Din. <<I want to fully commit myself to Instructor Warin-doyis’s teachings.>>
+
+Alden studied him. He wore a lightweight shirt with a high collar and pants that fit loosely in the leg, which was an outfit worn in only slightly different variations by three-quarters of the people here, including Alden. He had an Avowed-average face, a mustache, and one of those engagement rings that had half of the “forward together” logograms on them.
+
+He looks so normal.
+
+<<I quit my job at Chuck’s, too. He understood that I need to use my time wisely.>>
+
+He even quit his job to spend more time on this class! A normal-looking grown man has quit his job to focus more. And this is the only class Lute’s even thinking about at all because he likes it. I thought I spent so much time on it, but I didn’t compared to them. What if Stuart’s right and I need to be better at this than I thought to get along with people in the future? I’m going to…
+
+“Alden, is that your learning cushion?” Kelly asked, brushing past Lute to take a closer look. “The one you mentioned you might bring last week?”
+
+“You lured me into this,” said Alden.
+
+“What?”
+
+“Nothing!”
+
+She looked more like an adult here than she had smacking gum and firing finger pistols at their Convo class. Her red hair was neatly pinned back in a twist. Last Friday, she’d started talking about the etymology of a word Warin-doyis had used like she expected Alden to keep up with her. He had kept up fine, but that conversation about how a particular word for “scared” had its origins in an ancient misunderstanding about the behavior of ibblers had shown him she was definitely years ahead of him on the studying front even if he didn’t feel like he struggled to talk with her smoothly in the language.
+
+He started unwrapping his cushion. “If I’m ever going to use it in an actual classroom, this seemed like the one. And you said you’d appreciate seeing it, so…here it is.”
+
+He held up the cushion in both hands, and she peered at it.
+
+“What gorgeous craftsmanship! Mine’s an authentic import, too. Special ordered it from a shop that takes requests from Avowed. Took forever to come. Let’s see…whoever selected your embroidery mixed some infrequently used words in there. I don’t know a few of these. You said it was a gift?”
+
+“It was.”
+
+“Lucky guy! Don’t tell me what any of the logograms mean yet if you know them all.”
+
+“Of course I know what all of them mean,” said Alden as she started reading. “What kind of person wouldn’t care enough to learn the meanings of the wishes someone chose for his own cushion?”
+
+“Excuse me, fellow nerd,” said Kelly. “But I have a sister who had a big flower tattooed on her back without ever asking what kind it was. Just thought it was a pretty shape and was fine with it. Some people flow differently through life. Georgi, Mills, come see if you can identify all of these! Alden’s got a cooler cushion than we do.”
+
+A man and a woman came over to discuss some of the—apparently obscure—words and phrases Stuart had chosen for the cushion. Alden was glad they seemed to appreciate it. Lute, suddenly made aware that he’d been sharing an apartment with something all these college people found intriguing, leaned around Kelly to see the cushion better, too.
+
+He’s got books full of chains made up of weird old Artonan words he has to learn for the Palace of Unbreaking. If he pulled his stash out of System storage, these guys might start a brawl over who got to look at them first.
+
+Nothing embroidered into the decoration of Alden’s cushion said anything truly odd in his opinion. There were encouragements for open-mindedness, creativity, and “attention to thoughts that whisper true”. But he supposed more of it than he realized might be uncommon Rityan words Stuart favored because of his childhood.
+
+Kelly, Giorgi, and Mills were having fun fighting about a part of the decorations Alden knew meant “to climb in stillness,” and none of them were all that close to guessing that was what it said when the door opened and their teacher welcomed them into the room.
+
+Warin-doyis had small, dark eyes that darted over the whole group before settling together on each individual’s face as they left their shoes in a row on the patio and entered. An inky purple braid hung between his narrow shoulders, and he beamed at everyone as if he was truly happy they’d shown up for their second class.
+
+He wore as much jewelry as most wizards, and the voluminous pants and embroidery-adorned outer garments, as well. Every bit of it, including the accessories, was in only two dark purple shades.
+
+“Hello, Lute. Have you eaten well since we last saw each other? Are there any discomforts that might trouble you during today’s meeting?”
+
+“I’ve eaten my fill for every meal, and I’m untroubled,” Lute said. “I look forward to learning from everyone here.”
+
+Alden was used to him sounding utterly fluent with anything he could practice in advance, but today it seemed a little unfair that he could pronounce “untroubled” better than Alden, who’d taught him the word.
+
+“Hello, Alden,” said Warin-doyis as Alden stepped in after Lute. “Have you eaten well since…”
+
+Alden answered like a competent student instead of telling the instructor that his breakfast seemed to be taking on a life of its own within him. He followed Lute into a space that would have looked good even before a professional storyteller put his personal touches on it.
+
+Windows on two opposite sides were covered by wooden blinds, and the floor was made of big shards of toffee-colored stone that were warm underfoot thanks to a heating system. The ceiling could only be glimpsed between folds of dark cloth Warin-doyis had hung up there. He’d also brought a bunch of glowing orange hunks of glass that were piled in the center of the floor.
+
+Because this was a class where entertaining and learning went together,  students were supposed to make sure they were comfortable whenever a performance started. In addition to some particularly clean Celena North learning cushions that waited for those who didn’t have their own, the instructor provided pillows that were the enchanted equivalent of Stuart’s senva seed cushioning spell.
+
+Warin-doyis had assistants on Earth with him. He’d introduced all four of them to the class last Friday and explained the work they did. Only one of them was here now, passing out the comfy cushions and making sure all students remembered they could message her if they wanted something in the middle of class.
+
+“Story first,” she said, giving Alden and Lute their pillows. “But all of his stories are the lesson.”
+
+Alden suspected she thought everyone ought to kneel properly on learning cushions when her wizard was speaking and save the lazy, ass-allowed cushions for lesser performances. She probably wasn’t going to get what she wanted since the first class had been almost four straight hours of stories from Warin-doyis and even the members of the class most concerned with appearing respectful had opted not to kneel for that amount of time.
+
+Nothing that might distract others from listening was supposed to be brought into the circle they all sat in around their glass fire, so everyone left their bags and props on a cart that the assistant pushed up against a wall as they settled. Their circle was one with a gap in it, the storyteller’s position, and Warin-doyis went to occupy it.
+
+“My students,” he said in Artonan, “I gave you a complex task. To listen to stories oft-told among your people. To remind others of them even as you tell something new. To carry this new story as well as you can into the language of another species so that an audience of both your own people and mine will understand the same things from it. And to speak to senses beyond the ears. All at the same time! And after only one class. Did you think maybe I’d made a mistake?”
+
+He looked around the circle. “Any one part of what you’ve tried to do for these past days could be the subject of years of study. I told you to do it as soon as we met because this way I will learn more about how you sound. And I will tell you all that I hear. Don’t be too upset with your instructor for giving you work he can’t do himself! I have Avowed helping me to refine my own stories so that they’re nearer to perfection when I want to tell them in the languages of your world, but I asked you to do it yourselves.”
+
+This was the only season-long class Warin-doyis was teaching during his time on Earth, but he’d be performing all over Anesidora and learning from people familiar with different human storytelling traditions.
+
+“It’s best to ask you to experience much of what being a storyteller demands for yourselves now. And then we will devote ourselves to the individual petals that form the flower. But maybe some of you are nervous because it was a whole flower I asked for! I know about someone who was nervous to tell stories. Would you like to hear about him?”
+
+Alden gave his yes with everyone else. Then, the lights dimmed, and Warin-doyis began the story of Yott, who was called Yott the Useless in his youth because every time he tried to learn a trade to help out the people of his town, he caused havoc.
+
+Warin-doyis could have told a story about a can of soda slowly going flat and made it enjoyable. He had endless voices for his characters, and he seemed to understand which ones would be subtly funny to his human listeners. He could use a plethora of different magical effects and props to enhance his words, but he tended to strategically choose just one or two per story to accompany his main tool—a wand that he used to draw shadowy shapes on the floor or in the air.
+
+Alden thought it would have been tempting, if he were in control of that wand, to make more images with more details. Like he was creating a whole movie. But Warin-doyis slowly drew a single, mysterious lump of a shape while they were all laughing about the main character’s worst mistake yet.
+
+Yott had painted the town’s main meeting hall with an oil that attracted wild animals instead of the oil he’d been told to use.
+
+It was only as the laughter ran its course that the edges of the dark blur Warin-doyis had drawn in the air sharpened more to become the figure of Yott cowering in the middle of their circle, hiding his face in his hands.
+
+Realizing he was part of a mob that was mocking someone who was scared and ashamed of his mistake stole Alden’s breath for a few seconds.
+
+Warin-doyis had told the first part of his tale in a way that invited them all to laugh, but knowing it was a set-up didn’t lessen that initial impact.
+
+“Come here, boy.” It was the voice of one of the town’s most beloved residents, the woman who told stories. Alden had heard her earlier, laughing along with the rest of them. “I’ll teach you my trade. I’m too old to keep entertaining these hungry ears by myself. And maybe a heart like yours will finally show its goodness through words since the work of your hands keeps betraying you.”
+
+But the last of Yott’s confidence seemed to have been lost. He tried to refuse. The storyteller, he said, used words to make the dying laugh like children and to guide children in their growth. She recorded all of their lives and remembered the dreams of their forbearers.
+
+“You fill our winters with warmth,” he said, “and sweeten truths so we won’t spit them out. How could someone like me ever be as good as you?”
+
+“If I am telling stories in the meeting place, once they’ve driven all those animals out, do you plan to come in and scream a story louder than mine?” she asked him.
+
+“Of course I won’t,” said Yott.
+
+“Then does it matter if your words don’t hold the experience mine do? Your skills may be measured against mine by others, but don’t let that confuse you. I am not your competition. Silence is.”
+
+“Silence?”
+
+“You must only be sweeter, truer, or more useful than silence in the place where you speak. That’s all it takes for your story to be worth telling.”
+
+“What if…what if I’m not better than silence?”
+
+“You surely won’t be sometimes. Try sneaking into someone’s house while they sleep and see how much they appreciate your voice at a time like that. But there are weaker silences. Unwanted ones. Some that are dangerous. People appreciate even a clumsy tongue if it comes to fight those. One eye always on your listener, and another pointed toward the story you seek to tell. You don’t have a third for comparing yourself to others. Go, and find someone who will welcome the death of silence.”
+
+Yott, terrified of failing again, searched the town for days. And he began to see what the old storyteller meant. If he kept one eye on others, he noticed them enjoying some silences and being made bored or lonely by others. He began to imagine what words those people might like or need.
+
+Finally, he found a man who sat all by himself for a whole morning, trying to untangle a net. And he worked up his courage to offer a story.
+
+Warin-doyis had them all rooting for Yott by then. So when he began to tell the story Yott had decided on, and it went wrong, Alden was wincing in sympathy.
+
+Yott stumbled over his words. He had to backtrack to retell an important part he’d forgotten. And instead of giving the story any kind of moral that made sense, he ended it with, “That is why you should always check the label on a bottle of oil three times before you paint a building with it!”
+
+The story he’d massacred had been about someone going fishing every day and finally being rewarded for their patience with a great catch. Yott had obviously let his eyes drift off of his audience and his topic there at the end.
+
+Warin-doyis’s hands were moving like he was working on an invisible net.
+
+“A little peculiar at the end there, wasn’t it?” he said in the character’s voice. “You’re really not much good at this, are you? But you’re better than the wind in my ears. Go on. Tell me another.”
+
+“So Yott killed the silence again. And with his next story, he didn’t even think about his past mishaps. He thought only about how to make his listener’s day a little easier,” said Warin-doyis. “After several stories, the net was untangled, and when Yott stood to leave, he discovered he’d been speaking to more ears than he’d realized.”
+
+Warin-doyis turned his head, and Alden followed the direction of his gaze across the circle toward Kelly. At some point, one of the pieces of fabric had dropped from the ceiling, and it was now behind her. It looked like a child, all bundled up, peeking around her to see the storyteller better.
+
+“Yott told stories the next day and the next,” said Warin-doyis, drawing his wand through the air to make a shadow of Yott that began hunched and seemed to grow taller and straighter as the instructor talked about some of the places where he traveled with his teacher and how he grew better and better at his craft through the years.
+
+“And by the time he was an old storyteller himself, news of his arrival in the town meeting hall had the power to kill silence before he ever spoke a word.”
+
+Rushing footsteps and the flap of cloaks filled the room as all the fabric fell dramatically from the ceiling and gathered around the circle with them, shaping itself into new audience members who were eager to join them for Yott’s next performance.
+
+“So don’t be nervous, my students,” Warin-doyis said. “Look to your audience with a good heart, give them something sweeter than silence, and you will be a storyteller. Becoming a better one is on the other side of many imperfections.”
+
+The fabric people collapsed.
+
+“Now, I told you to think of an audience of both our species. Some guests will come soon so that your audience is bigger! They will hear you and tell stories of their own. Do not be nervous, do not be nervous. All of us would rather hear you than silence this morning. We will talk a little more about Yott, and then I will introduce you to them.”
+
+Several minutes later, after a discussion about the story and how they could apply what they’d learned from it to what they were about to do, Alden was calm and actually looking forward to his turn a little.
+
+I’ve got an okay story for this audience, he thought. It has something to say. It’s better than silence. The version that never got finished wasn’t really something I wanted to give this collection of people.
+
+Maybe it’s an eyes-on-myself story. A wish I needed to process, instead of a gift to be shared.
+
+Who would I talk about a frog swimming in the dark to anyway?
+
+He decided he was happy it had turned out this way as Warin-doyis went to the door to collect the guests who would be joining them.
+
+Several Artonans walked in. Alden only saw two of them.
+
+Esh-erdi and Lind-otta, side-by-side, in coats studded with metal instead of embroidered with thread. Here they were in his classroom to listen to storytelling students for a few hours.
+
+Lind-otta who’d slowed the ocean as it drowned him.
+
+Esh-erdi who’d made him try to croak to a story about sacrifice.
+
+[Lute: Alden! Why staring like knight pals killed your cat?]
+
+The message from Lute was momentarily confusing. Then Alden realized he was staring at Esh-erdi and Lind-otta like that.
+
+And they’d noticed.
+
+Two eyes were locked on him, one from each of them, even as they exchanged greetings with Warin-doyis.
+
+Ohfuckno! My stupid face. They’re going to think I hate them.
+
+He sent them a series of messages so fast it might have been a new record for his mental texting.
+
+[Alden: I swear I’m so glad you’re here!]
+
+[Alden: I think I want to tell a different story if it’s you two as my audience, and here you are, but that story isn’t finished yet, so I looked like that.]
+
+[Alden: I’m happy to see you.]
+
+[Alden: Thank you for coming.]
+
+[Alden: Please don’t leave. I’m going to try to make a klerm sound. You can record it and use it to make fun of me a hundred years from now if you want to.]
+
+Maybe if Esh-erdi hadn’t laughed right then and nodded at him, he’d have kept going.
+
+Out of control, caution to the winds, maybe Alden would have said, “It’s a story about how I love wizardry. It’s about how I want to be myself in two worlds. It’s about how I’m underwater like I was on the night we met, but this time when I reach the surface, I don’t want to be someone you have to save. I’ve decided to try to stand beside you and fight in the dark. I wish… for your welcome.”
+
+But Esh-erdi did laugh. And Alden remembered the many reasons why those things shouldn’t be suddenly and lightly said.
+
+His turn came, and he took the storyteller’s position.
+
+“Once,” he said, “when wishing was having…”
+
+And for a while, he killed a silence with his tale about royals being transmogrified into the klerms they despised.
+
+If Esh-erdi pitied his attempt at a klerm shriek, he didn’t show it. And when Alden tried to embody the overworked witch, cracking his knuckles and sighing at the thought of klermifying a whole palace, Lind-otta seemed especially into it, mimicking the sigh herself.
+
+Another silence remained.
+
+Alden couldn’t kill it today, but he took a swipe at it just for himself by improvising a new ending.
+
+The gold ball found its way back to the pond, and it fell down through the dark water toward eyes that had never seen anything like it before. Maybe, he told them all, “The Klerm Prince” had a sequel.
+
+I’m still a pretty quiet Rabbit, he thought as he went back to his seat amid his share of the applause. Not as quiet as I was, though. And it’s heavy, but I’m not carrying it alone.
+
+He touched one of the logograms on his learning cushion. We’ll get there. We’re getting there. They’ll hear us when we finally reach them.
+
+******
+
+******
+
+They took a break during the middle of the long class for people to go to the bathroom and visit with the guests. Refreshments were under one of the palm trees.
+
+Alden introduced Lute to Porti-loth. The healer shared his medical opinion about the lasting effects of turning people into klerms and back…assuming the witch in Alden’s story wanted to fix anyone. Then he pulled Lute away from Alden to make him try one of the meat-based snacks on the table.
+
+Esh-erdi strolled over at the same time.
+
+The knight’s face was dramatically contorted. If Alden had to name the expression, he’d call it “constipated disappointment.”
+
+“I didn’t look like that!” Alden said.
+
+“I’m afraid you did. And I had been looking forward to surprising you.” Esh-erdi shook his head.
+
+“If I did look like that…a little…it was directed inward, I promise. It’s really nice to see you here instead of at Matadero. And it’s nice that it’s for something like this instead of after a problem has happened.”
+
+“Grand Senator Servin-ith wishes you and Lute well. I was supposed to say that to you on her behalf some time ago.”
+
+Probably around Christmas, thought Alden.
+
+“You’ve been busy with more important people, though,” said Esh-erdi. A trio of braids hung over his right shoulder. As usual, the hairstyle matched Lind-otta’s. Alden could see her on the patio talking to a group of four of his fellow students. They were all either overanxious or overzealous about meeting her, judging by the amount of gesticulating going on.
+
+“As your first and favorite storytelling instructor,” said Esh-erdi, “what is this special story that is intended for us? Hm? I’m sure I can help you with it.”
+
+What’s wrong with me? I really did tell him I had a story for the two of them. Just blurt out whatever you want to, Alden.
+
+“It’s unfinished.”
+
+Esh-erdi looked intensely curious.
+
+“It’s very unfinished,” said Alden.
+
+“But since keeping it secret has such a horrendous effect on your features, you should consider releasing it in its rough form! Just to me. I’ll never share it with anyone.”
+
+“Not even with Lind-otta?”
+
+“I’ll only share it with Lind.”
+
+Alden smiled. “I remember you promising that before, but a third person somehow heard about me croaking at you.”
+
+Esh-erdi looked almost embarrassed for all of a second. “That’s because I thought he was <<an exemption>>. I apologize.”
+
+“No, you were right. He’s an exemption. You can tell him whatever you want about me.”
+
+“Can I?” Esh-erdi asked, eyes scanning Alden. “All right.”
+
+“I still can’t tell you that story yet, though,” said Alden. “I’m sorry.”
+
+“Well, the only solution is to turn you into someone who is ready as quickly as possible. Come with me this weekend to practice on an insatiable and unforgiving audience.”
+
+“Really?” Alden was trying to imagine what he meant. “You want me to practice storytelling…with you. This weekend. This Earth weekend? Like tomorrow?”
+
+“Yes,” said Esh-erdi.
+
+“Where?” Alden asked.
+
+“Have you ever ridden a terackerin?”
+
+******

@@ -1,0 +1,145 @@
+---
+id: 990b2aed-662f-5d5f-9d7f-e79e66e366ce
+page-type-slug: story-chapter-royal-road
+title: "337 Scorched Earth and Shining Soil"
+slug: 0296-337-scorched-earth-and-shining-soil
+partOf: the-new-world
+position: 296
+ownLength: 3282
+unit: words
+ownProgress: 3282
+publishedAt: 2022-03-24
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/870751/337-scorched-earth-and-shining-soil"
+royalRoadId: "870751"
+markedReadAt: "2026-06-29T21:31:22.014Z"
+---
+
+Arm in hand, I stared up while melting the limb, and my golems and star beasts struggled above. Itching to test my new abilities, I smiled and gave myself a break. Crafting golems required some safety, after all. Otherwise, I might be interrupted, and I couldn't have that happen.
+
+Floating myself up, I cusped on the primeval's combat range. I spread my hands and soaked the sight in. They moved without their previous, rampant pace. Leaning over, I soaked in a sensation of density, strength, and utter lucidity. In a sense, I stepped into a different realm from those around me.
+
+And it was time to feel that change in all its fury.
+
+Chapter Begin
+
+With a slight temporal acceleration, I flowed fast while the world coursed slow. I crashed into one of the star primevals, and its main body dispersed into an airy plasma around me. My psionically charged wake pressured the star beast from all angles, the floating egos seeping into its body. At the same time, my own star eldritch fired a bright beam through the bulk of the diffused enemy.
+
+The primeval disintegrated, the bright bolt cleaving through the upper layers of algae far into the distance. Behemoths stared back at us, each of them enraged, and they saw the primevals before deciding to ignore us. Above them, the black hole stared at us with its blinding radiance, the dark center bearing down like an enraged eclipse.
+
+Flowing between me and that sight, the star beast's body dispersed into my vision. That disruption waned as my ascendant aura soaked it in. I followed those shining pieces that lingered, and they floated onto the ossuary beneath us. From the opal shards, the chunks of light-laden eldritch swallowed energy in great gulps.
+
+Emboldened by the sudden surge of vitality, they burst forth from the wisps, coalescing in its full fury. With blinding brilliance, it radiated energy, power, and anger. That rage faded as pieces of its body soaked into the rainbow bones below.
+
+It stared down with a sun-shaped eye, the primeval dismayed. I lifted a hand, the opal shards below bending at my movements. They coursed in and around the beast, using the energy it sapped in to attack the monster's mind. The wispy tendrils of the primeval met opalescent spines as the beast tried beaming away.
+
+Trapped in its bone prison, the eldritch jettisoned the uncorrupted pieces of itself away from its opal-pierced center. From that main body, the disparate fragments collected into a smaller beast and recuperated using the radiance of the black hole above. Where it bathed in light, it found darkness instead.
+
+I spawned a singularity over its chest, my palm aimed in its direction. I piled a series of black holes over the beast, swallowing the creature's regenerating form. At the same time, I dashed towards it. A kinetic shockwave plumed out from the gravitational implosions, but I pierced them. Surrounded by the star beast's nebulous remains, I shot out plumes from my armor in all directions.
+
+My entire body turned into thousands of zigzagging branches that stretched across my wake's entirety. Each branch split several times, fine wires stretching out towards the edge of my dimension. I sapped the life force from the creature while smothering it in Event Horizon. My star beast zapped any remains leaving my area of control, and minutes passed while my enemy and I fought for dominance.
+
+I was victorious, whittling it down in time. Finding it close to death, I commanded my own star monster to bathe us in its rays. It did so, and we both soaked in energy beams from all directions. As the last fragments of the enemy star beast's life dwindled, I swallowed its body. As it died, its mind collapsed under my passive, psionic pressure.
+
+A portion of my mind bled into its depleting body. Inhabiting two entities at once, I experienced the flow of fire and fury the primeval possessed. It was a monster with epic potential. That palpable power fizzled as I experienced its death as if it were my own. The sharp collapse froze me in place, all the sensations overwhelming me for a second.
+
+Snapping out of it, I looked down. Blue cores fell in a loose pile from the enemy eldritch, and I floated towards them, catching the spheres with my dimensional warp. Near the bone shards, I turned to find another one of my star beasts locked in combat. My golems supported my ascendant eldritch, the bones glistening below them both.
+
+Before rushing in, I inspected the area. My eruption of singularities still left a depression here. However, the giant bone pile smoothed the craters out, the bones healing the wound like an old scar. However, the land wasn't the only part wounded. With the support of my supergolems, my converted star beast whittled down a stone primeval.
+
+The dense rock monster survived the onslaught throughout the entire time I trained. Looking at their fight, I understood the reason why. In front of me, a behemoth from above crashed down. It slammed into me, a giant mass of meat that my body absorbed. As the behemoth died, I watched the stone primeval do the same.
+
+It siphoned itself under the skin of a falling behemoth, filling it up and soaking the insides into the stone. Tinged red, it popped out of the flesh balloon, alive and well. Watching close, I found it do the same thing several times. It regenerated itself by collecting the dropping corpses of dead behemoths.
+
+Coming into combat range, I commanded three of my super golems to collect the falling shards and behemoths. My golems zoomed overhead, becoming speeding blurs that snapped the falling debris out of the air. At the same time, I ordered my star beasts to wrap around me. They whirled as shining clouds before swirling around my arms.
+
+We emitted radiance, our manas overwhelming in unison. Power soaked off the three of us before I bolted towards the mineral monster. It shifted into a wall of spikes, each thorn oozing toxic, liquid metal. Finding my warped reflection in the silver droplets, I watched us slam into the monster.
+
+And I watched it explode.
+
+From all sides, the star beasts erupted out in an enormous mushroom cloud of nuclear energy and kinetic power. The initial explosion evaporated me entirely, but I bubbled back from the center of my wake. As I frothed back into existence, parts of my body formed, the first being my head. I watched below me as a mass of glowing, dimensional fabric spit and hissed out the rest of me.
+
+Glowing and fully restored, I lifted my arms, and a wave of mana generated into singularities around me. Bursting forth in a disruptive wave, the implosions wrought absolute annihilation. Portions of the stone primeval exploded outwards like shrapnel from a grenade, and my supergolems intercepted most of the shards.
+
+Despite our efforts, dust particles landed on the opal bones. Countering, I controlled a large patch of the opal shards below. They devoured an even greater portion of the primeval's body, but tiny slivers of the beast landed far in the distance. From those remnants, the monster recuperated, so I let out a long sigh, wondering if this is how it felt to fight me.
+
+Probably.
+
+Either way, the stone monster aimed to collect itself into a singular entity once more. Before it could, my team fired off in every direction, killing or capturing the piles of minerals. Once we snatched them all up, we pooled them together. Since blowing this thing up wouldn't work, I snapped the writhing rocks and shining stones into my dimensional storage.
+
+Like putting it into a furnace, I disintegrated it in my pocket dimension. I couldn't hold many primevals like this, but a few would fit. It was more about having a good uptime for this utility anyways.
+
+Having handled that threat, I peered around to find my last star beast. While I couldn't see it, I heard it. Floating towards the sound of thunderous booms, I found liquid water forming into a series of lakes below me. Befuddled by the liquid, I dipped into it. It tried coursing under my skin, the liquid alive and hungry.
+
+But so was I. I soaked it in, doing the same to any nearby lakes. I cleaned the entire area until I hovered near the precipice of the booming echoes. I found their cause; my last star beast faced off against an amalgam of primevals. A lightning eldritch infused into the body of a water primeval, probably the one causing the lakes.
+
+They wrapped around the solid core of an ice eldritch. The trifecta whittled my poor star beast into a shadow of its former self. Literally. Instead of glistening like a sun, the shining eldritch simmered like an ember in a campfire. Without my golems or the rainbow bones below, The star eldritch would've died long ago.
+
+Flying in, we added to its reinforcements. My two star beasts, my golems, and I rushed in like a tidal wave over a crumbling house. As we charged, the triad lifted an arm, mana surging through it. The energies collided into its palm before rupturing out of the icy core. A bolt of lightning exploded out of it, clashing with me.
+
+Whizzing tendrils of lightning spattered in every direction. As the flash subsided, I peered down. My left arm, leg, and side charred to ash, the edge of the marks mirroring the end of a cigarette. While I sizzled away, my star beasts dispersed in every direction, their pieces reforming. Despite the attack, we bought enough time for my dying star beast to recuperate. It rested in the sea of opal shards below.
+
+Adding to that gained time, the conjoined primeval gawked at me. Those few seconds let my three star beasts become whole. Two of them rushed over my arms, whirling around with atomic fire. The last eldritch spun around my chest, beaming outwards with flares and electric sparks. We faced the triad of primevals, our union less complete but no less intimidating.
+
+Completing the assault, my super golems circled around us, the twenty-plus golems humming like a hornet's nest. In the center of it, I oozed energized plasma. Like holding two nukes in each hand, the star beasts flowed with solar, rumbling energy. The radiation bathed me in its warmth while I eyed the enemy primevals.
+
+They looked back with six beady eyes, each oculus peering from different portions of itself. Without any incitement, it dashed towards me. I clasped my fists, and mana charged into my frame. Glowing a bright blue, we zapped onto the conjoined primeval's charge.
+
+A cataclysmic eruption of force echoed out. Ice, water, lightning, plasma, and dimensional fabric shattered outward like energized buckshot. We sliced in all directions, my supergolems capturing fractions of the fused primevals. Its vitality was endless, and the patch of primevals collected itself back together in seconds.
+
+I watched it happen, my body having already healed a while back. Raising a palm, I plumed out an antigravity well at its center, preventing it from convalescing. Adding to my carnage, I spouted dozens of spiny tendrils and pierced its remnants. Like hooked fish, the shards tumbled towards me as I yanked them in.
+
+A whirling ocean of black, I absorbed and disintegrated the beast within myself. The monsters unleashed explosions from within, and we tangled into a web of chaos. Plumes of ice pierced my body. Lightning melted and burned my blood. Water coursed into my lungs and flowed through my eyes and ears. I stayed within the elemental construct's inferno, and I faced it down.
+
+As I did, the time magic showed why Schema kept me from it. The swirling monsters slowed, no longer overwhelming my senses with their speed. Their frenetic pace turned into a quick dashing, and I comprehended the mess with clarity. More mana flowed out while I dodged energized strike after energized strike.
+
+Without holding a human form, I turned into my own whirlwind of death and destruction. I didn't let my human form restrain me, so I coursed into the monsters. We became embodiments of battle, no longer living for life but for war. Like hurricanes colliding, we both collapsed into turmoil. From that chaos, carnage erupted in all its forms.
+
+We stayed at the center of it, each of us tearing at the other's throat. We created a desolate hellscape of fury. In that elemental rupture, I kept myself temporally accelerated by a slight bit. It left me feeling as if I fought with an unfair advantage, one I nevertheless exploited.
+
+My star beasts whirled around us, hissing out beams that blew the enemy apart any time an opening presented itself. My psionic wake oozed into the three primevals to rip apart their connection points. From within, I summoned singularities into their bodies in a neverending flow. As their blows bat air and mine hit hard, they fell while I remained.
+
+I noticed something I hadn't expected from time magic in that fury - the primevals brittled. Once dense as steel, they softened to stone. It was odd seeing them shatter from my attacks, and in time, the three primevals dwindled in size and mass. Not needing to ensnare them any longer, I returned to a human form.
+
+My storming body gave way to calamitous fists. My strikes popped with kinetic radiance, a beautiful display of physical force. They chained into a presentation of many skills, magic and might molding into one singular stream of destruction. Each strike used telekinesis, gravity, elemental surges, technique, and timing to eliminate the enemy, and they worked well.
+
+On the other hand, the enemy's assault turned from a series of blinding blows to fast strikes. Seeing their attacks, I could actually evade them. They whirled past me, each of us like motion incarnated into physical forms. Despite my time magic, the primevals maintained their dominance regarding strength and power.
+
+But the gap closed enough that my technique came into play. The years of practice showed its worth, my subtle movements returning. With my eyes opened wide, I stared at their attacks as they flowed by. I adapted to their frenetic, instinctual movement with my own, and they no longer touched me.
+
+The pressure from my psionically charged wake distracted the amalgam, and it paired well with Event Horizon. Just as this triad whittled my own star beast down, we did the same to it. With the trifecta roaring out its death throes, it unleashed a charged hailstorm in my direction. It coursed over me.
+
+And I glided through it. The wind, the rain, and the hail, I ebbed around them. I melted myself and flowed from all sides like glowing magma. I coursed into its eyes, chest, and body. Once I encompassed the primevals, I turned my glowing, liquid form into a matte solid, flash-freezing myself. My state of matter rapidly reconstructed, fragments of the primevals hissed and howled within.
+
+My body imprisoning them, they wrestled once more to escape. It struggled against me, but after a few moments, it threatened to break out of its cage. Before it could, another idea popped into my head. I stayed perfectly still, pressing my wake down further from every direction. The psionic pressure multiplied, as did my temporal acceleration.
+
+The sharp cries of the primevals stretched out into low drones. The primevals slowed to a snail's pace, their attacks barely budging me anymore. Event Horizon burned through them, and the psionic pressure poured into their minds. Several times stronger, those effects broke down the ensnared monsters in a quick fashion.
+
+Their dying wails droned for ages as I remained fixed in position. In the end, their innate tenacity became their greatest burden as they died. Staying in my hastened temporal flow, I inched my gaze around, even the slightest movements burdening me. Our battle left behind a few craters, but overall, the battle's destruction paled when compared to my singularity storms.
+
+Another plus, I hadn't fought the primevals for days either. Time magic paid off, mainly when used with a bit of creativity. So did disconnecting the primevals from the sea of opal shards both above and below. Once cut off from their supply, the primeval's regeneration dwindled.
+
+Either way, the dust cleared, and I gazed at an area large enough for a respectable city. Landing in the middle of it, I took no rest, getting to work. I rallied up the rest of my allies to inspect their conditions, and starting with the converted primevals, I set up telepathic links to them.
+
+The ascendant mana I left behind waned to less than half its initial size, so the star beasts nearly regained control of their bodies. Before they did, I psionically charged my wake and flooded the bodies of each star beast. From within, I infused ascendant mana into their minds. It was like shoving my mind into theirs.
+
+I happened to have a vast mind, so large, in fact, that their egos struggled to maintain themselves. The mana kept building inside each eldritch, and each dollop of energy put them another foot in the grave. Within a few minutes, their minds stretched to their limit. After an hour, those limits broke.
+
+Their minds ruptured.
+
+It was like filling a balloon with too much air. Within their heads, I experienced their psionic deaths because I inhabited their bodies. However, their pain left no mark on me. I died this way a thousand times before. In me, these mindless constructs would find no mercy. After blending their minds, I stared at three ascendant eldritch. Blinking at myself, I stared down at my hands.
+
+What the hell was I doing?
+
+I grabbed my temples, stunned at my cruelty. I hadn't wanted to psionically drown them in the first place. I called it that since it felt like filling someone's head up with an ocean of thoughts. The stream of consciousness kept piling up until the resident psyche 'drowned' in them. Not wanting to become a complete monster, I vowed not to take over more eldritch.
+
+These three would be my limit, and I'd much rather improve my golems anyways. Doing just that, I sat down with my legs crossed. I fiddled with my grimoire before a gravitational flux rippled across Leviathan. The algae rode the wave, the layers of kelp becoming several layers of stormy seas.
+
+The flux reached me, flinging my grimoire into the distance. My entire workstation exploded. The ball of floating molten fabric splat over me. The rainbow bones shivered and trembled, spines erupting out and through me. Even the air itself condensed and thinned, my ears popping.
+
+Adjusting in a split second, I reached out a hand, snapping my grimoire back into my hands. I melted my dimensional fabric again before stuffing it back into my pocket dimension. Standing up and looking around, a behemoth fell down beside me.
+
+Its massive body was a slimy mass of tentacles and teeth. As it stood up, it roared at me with said tentacles and teeth, its maw dripping acid. I sighed while lifting my hand. A matrice of opal spikes plumed into and out of the behemoth.
+
+Before it died, it vomited green blood onto my face and my grimoire. Wiping my face, I frowned. The behemoth gurgled before erupting pus and snot over me. It kept hacking up slime before I pocked my grimoire and blew it up with a singularity. Buckshot of shining bones sliced into my body before I grimaced.
+
+Yeah, maybe building the city first was a good idea.

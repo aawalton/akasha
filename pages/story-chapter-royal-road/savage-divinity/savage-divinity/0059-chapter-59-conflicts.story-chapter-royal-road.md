@@ -1,0 +1,109 @@
+---
+id: 40ffbc74-a20b-5d33-b14e-921cc9bc3986
+page-type-slug: story-chapter-royal-road
+title: "Chapter 59: Conflicts"
+slug: 0059-chapter-59-conflicts
+partOf: savage-divinity
+position: 59
+ownLength: 3557
+unit: words
+publishedAt: 2016-05-02
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/68290/chapter-59-conflicts"
+royalRoadId: "68290"
+---
+
+“Eeeaglee!” Holding my arms out to either side, I crouch unsteadily atop Zabu's back, wobbling as he moves about in a slow, steady circle. His furry little head flips back to look at me, wondering why I'm making so much noise, as the twins and Mei Lin applaud my efforts with a polite, quiet clap.
+
+Steadying myself, I prepare to try once again, dreading the eventual failure. It always ends the same way, but I keep trying, my own little form of insanity. My audience watches silently from their seats, eyes wide whether with glee or fear, I can't tell. As Zabu continues to move, I bring my arms in, pretending to hold a bow, and I begin to pantomime firing arrows into the distance. Five long, arduous seconds pass before my first imaginary arrow zips into the distance as I sway about on Zabu's back, before I finally lose my balance, tumbling to the grass.
+
+Pitiful.
+
+“You're doing better, Rainy, good job!” Sensing my mood, Mei Lin attempts to cheer me up.
+
+“Thank you.” Bah. Everyone else can stand all day. They all make it look so easy, even dancing while the quins run about, Sumila and Huushal the worst at it, yet still able to stand for enough time to empty a quiver. Even Song can stand for longer than I can, and she's been riding roosequins for less than two weeks. It's embarrassing. I just don't seem fated to be an archer, but I want to be one so badly. What better place to be than shooting arrows from 500m away, atop my furry little mobile transport? Well, home would be better, but that's not an option.
+
+Laying on the grass, I stare at the early evening sky, the sun about to set, while the moon moving upwards in the sky. I don't want to go to war. I knew it was a possibility, but honestly, I kinda forget. “I should just run away to some city where no one knows me, open a nice little pharmaceutical sales company.”
+
+“They'll catch you and hang you for treason, Rainy. You shouldn't make jokes about it.” She pokes me on the nose, smiling impishly. “If you run away though, you have to bring me with you, ya?”
+
+Always with the death and punishment. Why can't they just fine me or something? Jumping up, I grab the twins and hop back onto Zabu, speeding around the area while they hang from my arms, screaming in delight in the cool evening. A bit of fun after failing so many times, and as a reward for working so hard. Hugging the two of them to my chest, I try to set aside my worries, at least for the moment.
+
+The soldiers around us look with differing reactions, some amused, others annoyed. After resting for a day in Feng Huang, Alsantset brought us all out of the city, attaching us to a unit of 3,000 led by Major Vichear, an affable bear demi-human soldier. As a career soldier in the Imperial Army, being a part of his unit, even temporarily, made it unlikely that we would be attacked by the Society. In return, he received a half-dozen experienced scouts to help keep an eye out for Defiled or wild beast attacks, as well as a seat at dinner with us, Charok's cooking paying dividends. Win-Win for everyone involved.
+
+The mood amongst the soldiers is less than cheerful. Barely a day out of Feng Huang, news reached us that the Southern and Western Bridges were under attack as well, both provinces also under Martial Law. The Empire was under threat, but that wasn't why these particular soldiers were tense. In news closer to home, Shen Mu had fallen, and any who remained within the city had been massacred, a death count in the millions. It's an odd thing, to hear about the death of so many. I couldn't feel sad, just... empty. It felt unreal to me, a place I've never seen, only heard of in passing, and I just couldn't connect with it. A single death a tragedy, a million deaths a statistic. We spent a few days subdued and melancholic but life must go on.
+
+Take Tanaraq for example. She's been good company, especially considering she just lost her husband Nayantai, one of the Sentinels who had escorted us. She's very stoic about it, telling stories about their adventures together as we ride towards war. Celebrate life, rather than mourn death, an attitude I admire, but cannot comprehend. I'm fairly certain I'd be a wreck if I lost anyone at all. I even get a little misty thinking of Nayantai, and I barely knew him. He offered me some boar jerky once, a real good guy. Tanaraq ceded leadership over to Alsantset, which I guess makes sense. As former Bannermen, Alsantset and Charok are both strong, despite their lack of rank. I mean, even Gerel was only a Private First Class until just under a month ago, so rank doesn't necessarily denote strength, although I doubt you can attain rank without strength. Still, it'd be nice for my two siblings to be publicly recognized, although I doubt either of them want to be. With rank, comes responsibility.
+
+Traveling with the army is slow, but not as slow as I had thought. I figured we'd be walking for at least a month, but the estimated travel time from Feng Huang to Shen Yun was only 10 days, and we've already been traveling for 8. They have very stringent standards for soldiers, which includes the ability to march 75 km a day, in full gear. I'm so glad I get to ride, because that seems like cruel and unusual punishment. The soldiers easily outpace the supply wagons, but a constant stream of them are moving through, while most soldiers carry enough to eat for days. The soldiers run in three columns at the side of the road, while wagons move on the inner part, messengers in the very middle. They keep half the road of traffic going in the opposite direction, so everything moves very smoothly. The soldiers themselves are very polite, but most are not very friendly. That's fine though, as long as they aren't trying to kill me, they're okay in my book.
+
+Soon, we all sit down for dinner, Charok's cooking drawing looks of envy from all the uninvited soldiers, chewing on travel rations. Sucks to be them, but you can't expect us to cook for everyone.
+
+“Ahhh, bless you Charok, if you were a woman I'd beg you to be my wife.” Major Vichear's laugh sounds like grunting, ending with a snort. “You wouldn't happen to have a sister, who cooks just like you do?”
+
+Charok smiles, a little forced. “Everything tastes good compared to travel bread and cold rice, my friend.” Hmm, I thought they were getting along, but I guess it's just for show.
+
+“Such is life. Rain boyo, it's good to watch you fail. If it weren't for you, me and my men would think all you People were born on the back of those beasts and consummate warriors from the womb. You show them you are all but mere mortals.” Vichear grins at me and my face heats up in embarrassment. He's a nice guy, but he likes to make fun of me, probably because it's so easy. I like him, despite that though. He gives as good as he can take.
+
+“It's not as easy as they all make it look. Perhaps you'd like to try.” I flick a piece of meat, high into the air. “Zabu, snack.” The meat arcs back down, Zabu snatching it from the air just centimeters beside Vichear's face, giving him a full view of Zabu's fearsome maw. To his credit, Vichear doesn't flinch, although the blood does drain from his face. “Zabu would love to take you around for a ride.”
+
+A few moments of silence hang in the air before he breaks into harsh laughter. “Damn, boyo, you got me good there, almost pissed myself. Don't know how you managed to train these fierce creatures, and I can't say I'm not envious.” He watches as Zabu returns to me, always eager for more food. Tossing him a plum, he rushes back to present Shana with his prize. It's adorable how Zabu has been courting Adujan's roosequin, and I share a small smile with Adujan, both of us happy with the arrangement. Maybe this time next year, there will be a few new pups to play with, Zabu's own litter. The current pups are getting too big for me to carry easily, but Suret and Pafu still manage it while running all day. Their arms are stronger than they seem.
+
+It's been a fairly relaxed journey so far, south of Shen Yun far safer than most areas in the province, the only real threat being wild animals and they mostly avoid the roads. The worst thing to happen is having to choke down that disgusting 'Rising Dragon Elixir' every day. I don't feel anything after eating it, just disgusted and queasy, but I can't really stop eating it since it just might be helpful. Also, there is the tiny fact that Charok is on hand every morning, making sure I take my medicine. He's normally so easygoing, but when it comes to the Elixir, he has zero qualms about holding me down and spooning it into my mouth, telling me it's for my own good. Fucking Arahant Sect phonies, if they fucked up making this stuff and it turns out useless, I'm going to find out who mixed it up and force feed him dog shit for a year. See how he likes it.
+
+When dinner is finished, I move off to an empty clearing, Sumila and Mei Lin following close behind. My favorite part of the journey has arrived. “Are you ready?” Winking at Sumila who stands beside me, I stretch my arms in preparation. Don't want to pull a muscle.
+
+“Always.” Her cute smirk shows how confident she is, but today will be different.
+
+As it turns out, I've been using my chi subconsciously, unaware that I was doing so. I just thought my opponents were nothing special, and they really weren't, but at the very least, I am stronger than I thought. Sumila's long and detailed explanations were an incredible help in understanding my awesome hidden skills. Hidden from me, of course. Everyone else noticed them immediately. I can't decide if I'm brilliant, or an idiot.
+
+“Go.” She tosses out a stone, and Peace flies through the air, missing it by a fair margin, bouncing off a tree. Dammit. Running over to pick it up, I mentally go over Guiding once again.
+
+All I need to do is throw my weapon, and move my chi to steer it. As the chi moves, the physical form follows along. I've been doing it subconsciously, so it should be easy to figure out. Honestly, I have no idea how I didn't notice in the first place. I have shit aim, so how was I throwing so accurately? It became evident when Sumila had me throw regular swords at a target, laughing at my terrible aim and mocking me for not noticing. It was an unnecessary embarrassment, but she demanded I keep throwing, smirking the whole time. Thirty throws, and only one sword stuck into the target.
+
+Guiding is my number one priority at the moment, because if I learn it properly, not only can I throw accurately, I can alter the course of my weapon, helping me aim at vital areas. It's nothing like telekinesis, more like correcting the course of my weapon, but useful in a myriad of ways. I technically don't even need to throw it, I should be able to change direction mid-swing.
+
+Baatar had his reasons for making me learn Amplification first though, because even if I throw a honed weapon, without the proper amount of force behind the throw, it will just get dodged or knocked out of the air. What's more, with a combination of Guiding and Amplification, I can even have my sword shoot back into my hands, so it's really a step by step process, and I have a long way to go.
+
+After a few dozen tries, Sumila tries to offer advice. “You're trying too hard.”
+
+“Yeah, yeah, unbalancing chi and all that.” I'm starting to get annoyed. “How exactly does one try less hard? It's like saying 'don't think of a tiger', and bam, now you're picturing a tiger.”
+
+“But you were doing it so well before, Rainy. You were like a dashing young hero, ya?” Mei Lin continues to cheer me on, my own little fan club. “You just... Whooosh, and your sword was sticking in someone's knee.” A bloodthirsty fan club. “Just do it like that.” Not the most helpful fan club either.
+
+“She's right. You were already able to do this before. Just try to remember that feeling.”
+
+“I know the feeling. It was confidence.” Shaking my head, I continue. “I mean, I killed Snakey Snake with a throw, and I thought I was so amazing, and then I just kept throwing it, and hitting people when I did, and I didn't really question it until you spoke up.”
+
+“That's it! Rainy, you just need to be confident, ya?” So unhelpful. “Or try Honing it as you throw, maybe that will help.”
+
+Hmm. Maybe it will. Sumila tosses out the next target, and Peace flies through the air, cutting the rock in two. “It worked!” I mentally apologize to Mei Lin for thinking she was unhelpful.
+
+Mei Lin hops onto my back, arms clinging around my neck. “Congratulations Rainy!” Untangling myself from her arms, I run after my sword, excited at my first success.
+
+My practice continues, because I'd like to be able to Guide without Honing, you never know when it will come in handy. When my chi is spent, we head off to find Alsantset for my next training exercise, something so dangerous that she demanded to supervise. This from a woman who also thinks it's a good idea for me to go back to Shen Huo and kill some more carnugators along with Huushal. Unsupervised. Seating myself in front of her, she gives me an encouraging pat on the cheek. Song and Adujan are already here, sitting cross-legged in the grass, deep in meditation.
+
+Yes, my most dangerous training lately is simple mediation.
+
+The rings we received from the OuYang clan are very helpful aids, but a double edged sword. Everyone gathers the Energy of the Heavens at a different rate, a safe rate. Without an aid like the ring, there is virtually no chance of overdrawing energy, because of diminishing speeds of cultivation. The more chi you have, the slower you draw more in, simple as that. The rings remove that limitation, while also increasing our base speed of drawing in Energy. The violent buffering from cultivation allows for a person's core to develop more quickly, but not at an astronomical rate. It helps me play catch up at least, as long as I remain in control, and don't boil myself from the inside. We all cultivate with the rings each day, while Alsantset watches over us, ready to interrupt if we seem to draw too much. Except for Huushal, he lent his ring to Song. He has the worst control out of all of us, but he's very good at using his chi instinctively, bolstering himself to herculean strengths, something else I want to learn.
+
+Readying myself for what's ahead, I put my ring on and begin going through the multiplication table in order to clear my mind. One times one is one. One times two is two. Rote repetition without needing to think, it lets me slowly sink into the State of Balance, rather than plunge in as I normally do. As I reach eleven times three, my mind enters the State of Balance and the Energy of the Heavens rushes towards me. Ready for the surge, I direct it with a thought, not only breaking the large wave, but moving it about, dispersing its metaphysical momentum as it enters me.
+
+Separating it into a dozen streams, my absolute limit, I allow it to circle throughout my body, several currents and eddies splitting through me, the temperature of my body slowly rising. Diverting the rest of the energy out of me, I keep only the controlled streams within, siphoning off more when I am able, keeping myself at my limit without ever going over. The energy cycles through me sixty-four times before it is able to begin settling into my core, fighting me every step of the way. Shutting myself off from the Heavens, I stop taking in more energy, refining what I have, compressing it into my core, like swallowing water with a full belly, feeling bloated and unwell. Slowly, the energy becomes more tranquil, soothing, lazy almost, and I surrender to the flow, falling into relaxation, the calm seducing me into surrender.
+
+The sharp, jarring strike of Alsantset's chi interrupts me once again, my eyes flying wide open from the sting. Kneeling in front of me, she admonishes me with a look. “It was better this time little Rain, you resisted for over two hours. You will learn to control it well eventually.” She pats me on the head, and stands back up, watching the others as they continue to cultivate.
+
+Mei Lin dabs the cold sweat from my forehead while I recover from the experience. “Two hours, Rainy, a new record.” I smile at her, grateful for her help as I take the handkerchief from her. “What happened at the end, Rainy? You looked like you were settling into it, but then you lost control.”
+
+Closing my eyes, I try to remember what just happened, before it all drifts away. “I lost control, but not like I normally do. It's usually a struggle, wrestling the energy, directing it where I want it to go, and I had that, I was succeeding. Then it made a 180 degree flip, no longer fighting me, but... guiding me instead. I just... surrendered, I think.” She remains quiet, giving me a pat on the head, always optimistic.
+
+Pulling the ring off of my thumb, I study it carefully. It's just a simple band of jade, this one inky black. While it is solid in color, I can still make out the other side of the ring, seeing right through the stone. The flat edges are lined with silver, while the outer surface remains uncovered except for a single rounded band of silver, engraved with the character 'insight'. Along the smooth inner surface, there is an intricately carved pattern, barely indented, difficult to see but easily felt, a rune, the marking that makes the ring more than just jewelry. The books I read about runes had no explanation for where they originated from, but if carved in the correct manner with chi, they interact with the Energy of the Heavens in unexpected ways. Everyone who knows how to carve a rune guards the secret selfishly, and it would have taken years for the OuYang Patriarch to learn. He probably made several for his own people, keeping it a secret, ensuring they had enough of them before exposing his talent to the world.
+
+The book had examples of what could be done, and apparently, this chi gathering rune is a more common occurrence in the Eastern Province. With the lack of a bridge, and being the smallest province, the Eastern Province is the safest, and richest area, due to lack of major conflict in the region. I'd like to live there, it seems like a wonderful place. Runes have other effects, such as strengthening armor, or bolstering endurance, but those are more rare, most in the hands of the Emperor. Keep the best toys for those who you know are loyal, the Emperor is a clever man. Or woman, actually, I have no idea. They stay pretty gender neutral around here.
+
+Putting the ring away, I head out in the darkness, back to my bedroll. Mei Lin is already there, cuddling with the twins, an excuse to sleep closer to me. She's been increasingly clingy lately, but if I'm being honest with myself, I don't hate it. She is a sweet little girl, and I do love her. I just wish she could be my real little sister. She will make someone very happy in the future, it just can't be me.
+
+Putting it out of my mind, I lay down on my bedroll and close my eyes. Two or three more days to the city, but I'm not exactly looking forward to it. The Magistrate of Shen Yun is Situ Jia Ying, a card-carrying member of the Society. We aren't exactly on the best of terms with the Situ clan, but Akanai should be there waiting for us. Even a Magistrate can't run rampant around a Lieutenant General.
+
+Unfortunately, I also have to worry about the Lieutenant General. I get the feeling Akanai won't be too happy with me, considering we now have five duels to worry about.
+
+Maybe I should stay outside the city, just to be safe.

@@ -1,0 +1,209 @@
+---
+id: 1646fae5-4a8d-520e-b313-d2e2523b6f6f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 73: The Little Emperor is in trouble"
+slug: 0073-chapter-73-the-little-emperor-is-in-trouble
+partOf: phoenix-ascension-cultivation-litrpg
+position: 73
+ownLength: 2214
+unit: words
+publishedAt: 2026-01-10
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2931088/chapter-73-the-little-emperor-is-in-trouble"
+royalRoadId: "2931088"
+---
+
+She took me to her cave, going faster than ever she had before, and headed straight toward the corner of the cave I didn’t dare look.
+
+There, surrounded by crystals and hidden inside a preserving resin, was a little black cub. He would have been sleeping peacefully, were it not for the golden hue emanating from the encasing resin, the source of which seemed to be a little symbol on its head.
+
+“What is this? What’s going on here?” I shook off my feathers of cat saliva as she put me down and approached the resin with caution.
+
+Yo Na looked at me as if I were stupid for not figuring it out already.
+
+“Details, I need details, and I need to know what you’d want me to do.”
+
+“My baby has been born with a special constitution; however, his fragile body can not handle its power. He has the mark of the Emperor, meaning he is guaranteed to at the very least reach the Emperor Realm. But where the Heavens give, they also take.
+
+“Due to his early awakening, his body can not handle the power of the Emperor’s mark, so I had no choice but to use this thing I found from some wandering humans to preserve his body. After half a decade, I found a technique… elixir, pill, whatever you want to call it, that would strengthen his body enough to bear the mark without suffering.
+
+“However, I need you to refine it, and I am not sure of its effects. I only know what the humans told me.” She took a break, looking at her baby with a tender expression. Her gaze was heartbreaking, and I could feel my chest tighten for some reason.
+
+“But the mark kept getting stronger, and I think… this thing won’t last much longer.”
+
+Yo Na struggled to keep her voice calm and composed, as it usually was. I could tell that she was hurting and trying to be strong, and some part of me felt… empathy.
+
+“So what do you think I can do in this situation?”
+
+“You’re a Phoenix, can’t you use your tears or feathers to suppress the mark?”
+
+“Huh? Where did you get that idea from?” I looked at her like one would at a crazy person. If I had such skills, I would have loved to see them.
+
+“Can’t you? Legends always spoke of Phoenix tears being able to heal any injury.”
+
+I sighed. “Even if that was true… your baby is not injured. What would I be supposed to heal?”
+
+“That-” The light in her eyes dimmed, and she lowered her head, sniffling. I could have sworn a tear was coming out of her eyes as well. Yo Na gazed at her baby, blinking as the light got stronger and stronger.
+
+Moments later, the resin began to show signs of breaking, and the pressure from the mark made even me feel like protesting.
+
+What the fuck is this baby?!
+
+I looked at Yo Na, whose desperate expression reminded me of a similar image on a human’s face, long, long ago. A human who lost her children unjustly and sought forever after to bring them back.
+
+I grit my metaphorical teeth and place my wing upon the resin.
+
+“What are you doing?!” She growled and leapt to her feet. Before she could stop me, though, I cursed myself for being an idiot and grabbed the resin, alongside the baby, inside my dantian.
+
+“BIRD, I’LL KILL YOU!”
+
+She yelled, but the pressure inside made me feel like bursting before she could even get close. I fell on the ground, barely able to keep myself upright as the walls of my dantian cracked and tried to hold itself together.
+
+I chanted the mantra of the Ghost Qi Technique to try and solidify the walls, inviting the Demonic Qi to advance further. The ground it left was being replaced by my Qi, but that didn’t make me feel any better.
+
+“Stay back!” I struggled to say to the angered Yo Na, and much to my surprise, she did. However, the issue of my dantian being overtaken had not been solved. If it entered the lake, then it would all be over.
+
+While mentally chanting the Ghost Qi Technique, I was also gathering qi with the Lightning Constitution, trying to suppress the Demonic Qi. Thankfully, that did slow it down, but not much. I was beginning to regret my decision.
+
+It was when the Demonic Qi had taken an interest in Mother’s egg that I got anxious. However, before it could even get close, it let out a distressed signal that filled the entire dantian.
+
+In that moment, something seemed to have resonated with Yo Na’s baby. The mark on its forehead lit up like a candle in the dark, then shone like the sun during nighttime. A sudden wave of powerful Qi spread throughout my dantian and pushed back the Demonic Qi, repairing my walls at the same time.
+
+The wave felt like soft and warm honey being spread across my skin, and the lasting effect relaxed me and calmed down my stressed-out body.
+
+I took a deep breath and returned to the real world after making sure that everything went as expected.
+
+“That was close.”
+
+“What did you do? Where’s my baby?!”
+
+Yo Na growled, her face so close to mine I could smell her stinky breath.
+
+“Your baby is fine, it’s… in my dantian.”
+
+“You're what? Dantian? What’s that?”
+
+Oh… She doesn’t know.
+
+I then sat her down and explained what a dantian was. A mini-world inside a cultivator’s body that was used to store Qi, but could also store other beings, depending on a multitude of factors. Most dantians at my level could not store objects, let alone living beings, but since Mother made her way in, I figured that I was an exception to the rule.
+
+My bet had paid off, and almost crippled my cultivation. I thought that I could suppress the mark, since it was a separate world, but it was a foolish move. However, I decided to keep trying until the very end. If I really couldn’t, and it was too dangerous, I could just take it out.
+
+Thankfully, nothing of the sort happened, and things worked out perfectly.
+
+“So… you stole my baby? You kidnapped him, and you’re a cultivator?!”
+
+“I did no such thing!” Honestly, the more prospects of accusing me of being a kidnapper…
+
+“I saved your baby. He is safe in my dantian. The mark has calmed down, at least for the moment.”
+
+“That… are you seriously telling me it was that easy?”
+
+“Easy? Far from it, I almost died.”
+
+“It… did look like you were in pain, but…”
+
+“Yeah, I risked my life!” I said that, but I really didn’t. The most I risked was having to hurry up on refining the Demonic Qi, which I planned to do anyway. However, guilt-tripping her was a good way to get more water crystals.
+
+“So what’s going to happen now?”
+
+“He’s going to stay safe with me for a while, until we steal the flower and I get the Reading skill.”
+
+“But… that means I won’t be close to him anymore.”
+
+“Well, no, you won’t, at least not until we can cure him.”
+
+She whimpered then, much like a house cat would, and stared attentively at my belly. “What?” I asked, trying to hold in the urge to pet the cat that could kill me as easily as blinking.
+
+“I don’t like it. I want to be with him, put me in there too!”
+
+“That- That’s not possible, you’re far too big!”
+
+“Excuse me?!”
+
+“I said what I said!”
+
+“You—” She stuttered, then her ears arched back. “Then you must take me with you wherever you go. I will follow you to make sure my baby is safe.”
+
+“Er, are you sure? I don’t think that’s a good idea, my life is really boring, really.”
+
+The last thing I needed was a giant cat that could destroy the entire village by herself to follow me around. The village was also pretty big, so if she wanted to truly survey me, she had to be with me, and I didn’t believe the villagers would be too keen on a panther walking around them.
+
+“No, you can’t. It’s a bad idea.”
+
+“You’re not the boss of me!”
+
+“If you follow me into the human village and jeopardize my plan, then it won’t end well for either of us! I have something to do in the following days, so I can’t have you walking around with me.”
+
+“Then… teach me to become human!” She yelled, her growl echoing through the cave.
+
+“Huh? To become human, what?”
+
+“Yes, tell me to take human form. I refuse to be separated from my baby.”
+
+“Weren’t you separated when he was in the cave?”
+
+“Yes, the cave!” She slammed a paw down. “The cave, which is well hidden and tricky to maneuver, is hard to find in the first place. Not to mention the resin thing was hard to break, so my baby was safe even if someone managed to get in. But you… How could I know what you do with him? What if you sell him, or worse, what if you die and someone finds him? No, that can’t be, I won’t let it, so you either teach me how to turn into a human or you’ll have to explain yourself to the humans!”
+
+“That’s…. You’re just bullying me now!”
+
+“Bullying? Yes, I’m bullying you… Whatever that means!”
+
+I wanted to ask the heavens if they were playing a practical joke on me. How did we ever get to this point, where I had to take care of someone stronger than me? Not to mention, her personality did a complete one-eighty the moment her baby’s safety was put into question.
+
+Where was the scary Yo Na? The Yo Na that threatened me, the Yo Na that not even five minutes ago ordered me around!
+
+“You… are impossible.”
+
+She growled in response, and from the look in her eye, I could tell that I wasn’t getting away unless she got what she wanted.
+
+“Fine… how many Skill Points do you have?”
+
+“Skill Points? What are those?”
+
+I looked at her with a deadpan expression. Did she… not know what they were, or did she not have them?
+
+“Can you call out ‘Skill Points’ for me?”
+
+She did as much, and hearing her say it was a little strange.
+
+“What does the number say?”
+
+“Number? I can’t read it…”
+
+What the hell…
+
+“Can you draw it on the ground?”
+
+She did, and the number was… shocking, to say the least. Two hundred. That was the amount of Skill Points she had.
+
+“You’re level forty?”
+
+“I… believe so? I can’t really read it.”
+
+“Wait, so you’ve never been able to read the system prompts?”
+
+“Not exactly…”
+
+“And… is the voice that speaks for the system not in your own language?”
+
+“Voice? My system never had a voice. It’s just text I cannot read.”
+
+Who the fuck is the idiot who designed this?
+
+Ahem, keeping the curses to myself and questions about why System was special, I decided it was time to teach Yo Na how to use the system.
+
+First, I made her open the details tab, and while she didn’t write down everything, the little she did made me feel less than adequate, to say the least. All of her stats were in the high seven hundreds, although she had no ‘Qi’ stat to speak of.
+
+I saved her the trouble of writing down all the skills she had, but counting the lines she drew on the ground, there were at least thirty of each, which was insane. I didn’t think she knew how to use all of them.
+
+Finally, we got to the Skill Shop section, and I told her to ask for the ‘Perfect Disguise’ skill, which she acquired without any issues. The biggest hurdle after that was actually showing her what a human was supposed to look like.
+
+She had interacted plenty with them, but most were men, not women, and I doubted she wanted that. Though thinking about it, did it make a difference to a Spirit Beast?
+
+Either way, I changed into my human form, which surprised her momentarily. After the initial shock, she studied me closely, sniffing and feeling with her paws. Sensing her heavy, dangerous, and powerful claws on my sensitive human body was weird, but thankfully, my Perfect Disguise was as much an illusion for me as for others.
+
+My body may look like it was there, but it really wasn’t; however, the skill tricked all senses so perfectly that it looked like. The steep price I paid for it was definitely worth it.
+
+With that said, after about an incenste stick’s worth of time, Yo Na took a few steps back and focused on the skill. Gradually, her claws turned into nails, paws into hands, and feline limbs into human limbs. Her body shrank by a significant amount, and under the influence of the skill, she slowly but surely took human form.
+
+By the time she was done, only a few seconds had passed, and my jaw dropped upon seeing her.

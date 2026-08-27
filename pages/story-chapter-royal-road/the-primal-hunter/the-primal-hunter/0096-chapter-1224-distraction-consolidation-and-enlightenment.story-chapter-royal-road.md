@@ -1,0 +1,131 @@
+---
+id: 81a77275-2e74-5e2d-8953-05aecdd8d262
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1224 - Distraction, Consolidation & Enlightenment"
+slug: 0096-chapter-1224-distraction-consolidation-and-enlightenment
+partOf: the-primal-hunter
+position: 96
+ownLength: 2717
+unit: words
+ownProgress: 2717
+publishedAt: 2025-12-19
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2862024/chapter-1224-distraction-consolidation-enlightenment"
+royalRoadId: "2862024"
+markedReadAt: "2026-06-29T19:32:18.323Z"
+---
+
+Jake needed a moment to process that statement. The strongest faction in the multiverse back then, yet its representative was from a race Jake didn’t even recognize. What confused Jake even more was the good chance that this person was enlightened, and Villy had a track record back then of not really liking the enlightened, yet here he was working with one.
+
+“As long as you abide by your promises and our partnership remains mutually beneficial, there is no reason to terminate it,” the weird robot man responded.
+
+“See, that’s why I like you guys. Easy to talk to and very straight with what you want without being caught up in any unnecessary sappiness,” the future Primordial chuckled while shaking his head.
+
+“Now, we should probably get out of here sooner rather than later.”
+
+“Certainly,” the robot man nodded. “The alliance has no doubt already dispatched an investigation team, and the Golden Road Emporium also won’t accept this outcome but demand reparations should we be identified as culprits.”
+
+“Exactly,” the Viper nodded again. “I assume you have one of those things?”
+
+The person who was apparently part of the most powerful race in the universe revealed his hand once more as the liquid metal took the shape of a nine-fingered hand holding an odd device. Without speaking any words, he tossed the device away from him, and a moment later, space cracked apart and formed what looked like a hole in reality.
+
+“You first,” the Viper said cheekily.
+
+“Harming you will not reap any benefits,” the man said, looking at the dragon.
+
+“Oh, I know. Still, you first,” the Viper insisted.
+
+Seemingly not bothering to take that fight, the robot man just nodded as he walked into the hole in space. The Viper smiled as he also stepped toward the hole, but right before he entered it, he took something out of his spatial storage and let it drop toward the desolate planet below.
+
+With a sly smile, he followed the robot man as both disappeared to who-knows-where. Jake wasn’t sure what the Viper had dropped there at the end, only that it looked like some odd sheet of metal. He wanted to try to investigate further, but the second the Viper was through the portal, his connection to his Patron’s past self was severed, and the vision was rapidly coming to an end.
+
+Jake began to steel himself for what would come next. The Path of the Heretic-Chosen ended, so would his system-granted mind protection that had allowed him to stay clear-headed thus far. He had managed to assimilate many of the concepts flooding his body already, but not all of them were done, and he had to entirely stabilize himself before he could safely disengage his consciousness and return to the real world.
+
+Just one more step, and all his plans would come to fruition with a result perhaps even better than he’d initially hoped for. Of course, that one step wasn’t necessarily easy, and with a steeled mind, the vision ended, and he returned in both body and mind.
+
+--
+
+“You told me to wait, but where did he-“ Artemis was saying, a bit panicked after Jake had somehow disappeared from the room through means she, as a Godqueen, couldn’t fully identify.
+
+However, just then, Jake returned. As he did, she felt a powerful flash of the Malefic Viper’s aura flood the room as it mixed with the slight presence of divinity also released by Jake’s improvements to his Meditate skill.
+
+Artemis still had a lot of questions, but before she could ask any of them, she noticed something else.
+
+“His soul...”
+
+“Yep, seems like that did the job,” the Malefic Viper nodded proudly as he seemingly decided to volunteer some information to Artemis. “A pretty good approach, too, I must say. He purposefully broke my temporary repairs to get full access to the broken skill, and alongside the extreme levels of universal insight he got from taking in a shitload of concepts, he managed to use that special skill of his while focusing on Palate. During the process, he replaced the Records he’d lost when he initially broke the skill while even gaining some on top.”
+
+“I’m still not entirely sure what Jake did, but from that brief explanation, what Jake did was unbelievably risky and could have gone wrong in so many ways,” Artemis said with exasperation.
+
+“Oh, for sure, I’m kind of amazed it went so well, but also give credit where credit is due. Besides, this is Jake’s MO. Extreme risk for extreme rewards,” the Malefic Viper said with a slight chuckle.
+
+“Yeah...” Artemis sighed, only able to agree with that statement. “Now let’s hope he can bring everything together and return.”
+
+“Yep,” the Viper nodded. “Man, wouldn’t it be funny if he somehow managed to fuck something up at this-“
+
+Artemis threw the Viper a look that made even the Primordial stop talking as he raised his hands in defense. “As I was saying, I’m sure he’ll be back shortly.”
+
+--
+
+Jake’s mind returned to the odd world he’d peered into using his Truesoul as a catalyst. He also vaguely got the feeling that his physical body had returned, but for now, he was far more focused on keeping his full mental faculties.
+
+Instinctively, the first thing he did was retreat away from the massive gate that still had cracks in it. The further he retreated, the less he felt exposed to the leakage of concepts, giving him time to gather his thoughts.
+
+Luckily, things had gone as Jake had hoped during his vision. The vast majority of the concepts flooding his mind had either been absorbed during the vision or expelled into nothingness.
+
+He still had a lot of wayward thoughts swimming through his mind, and for some reason, he felt that he now had a far better understanding of why water was wet and why fire was hot, alongside many other minor and utterly inconsequential insights.
+
+Sitting down and focusing within the odd realm he’d connected to through his meditation, Jake worked to fully calm himself and either absorb or expel the rest of the concepts. However, after a bit of time, it became clear he wouldn’t be able to fully do so because of the constant leakage from the gate.
+
+Whenever he expelled one thought, another would invade his mind just as fast. To be clear, this wasn’t necessarily a bad thing. In fact, this was exactly what he’d wanted out of this skill upgrade in the first place, but a part of Jake had hoped for it to be a little more controlled.
+
+He could only begin to imagine what it would feel like to exist in this realm without the gate there. His mind would have been flooded with constant, high-level concepts, consuming him instantly as he lost his sense of self. Even now, he felt echoes of the risk lingering.
+
+When trying to comprehend higher concepts, one had to become one with the world, but in doing so, one risked losing the ability to separate oneself from nature. There was definitely some high-level philosophical stuff going on with it all, but in classic Jake fashion, he didn’t want to think too much about it. In fact, even this brief exposure made it clear how Jake wanted to continue dealing with comprehending concepts.
+
+Jake simply wasn’t the type to ponder for eons and seek deep meaning. He wasn’t some monk from the Dao Sect, and while he would probably have plenty of long meditation sessions in the future, Jake would rely on instincts rather than philosophy.
+
+Slowly, Jake began making progress, but he also realized that it would simply take a bit of time for him to fully absorb all the concepts still occupying his mind. Seeing as he didn’t seek to comprehend them, he decided to do something else to distract his mind and make time pass faster:
+
+Checking out his new Palate of the Malefic Viper upgrade.
+
+Bringing up the description, Jake focused on it as he read everything thoroughly while comparing it to what it was before the upgrade.
+
+[Palate of the Malefic Viper (Mythical)] – The Malefic Viper has eternally honed his Path by devouring myriad toxins, treasures, and even the laws of nature found throughout the multiverse. In the same vein, the Alchemist of the Malefic Viper can consume toxins and most beneficial alchemical ingredients to learn their effects and properties while even enjoying a greater benefit from all potions consumed. Natural treasures can be swallowed and refined at an accelerated pace using your current level of Touch of the Malefic Viper (Legendary). If the item is not a toxin, it will still be refined, but at a slower pace. Allows you to learn the properties of any treasure in your stomach as you slowly refine it. Allows the Alchemist to fully consume a swallowed item, destroying it in the process if possible. If the item cannot be destroyed or the result of its destruction is too violent, the Alchemist will suffer a backlash, and the internal space may be damaged. Additionally, the alchemist can swallow energies and concepts from the surrounding area to fill his internal stomach, allowing the alchemist to affect the environment within. Swallowed items will slowly absorb compatible Records and concepts that occupy the internal space, empowering them further and allowing them to improve or even evolve. Concepts and energies that have been swallowed will slowly be absorbed or disappear over time. Grants immunity or resistance to most poisons. Passively provides 9 Endurance per level in Heretic-Chosen Alchemist of the Malefic Viper (C-grade variant). Through endless consumption, may your power grow; through gluttony, may your Records and knowledge expand as you devour the world.
+
+So, lots of changes, though that shouldn’t come as a surprise, seeing the jump in rarity. Firstly, the flavor text had been cleaned up a bit here and there, which had removed some of the wording, but the description was probably still the longest Jake had in his repertoire. Not that it mattered overly much, as Jake didn’t sit and read his skill descriptions all day, and the longer they were, the more the skill could do. Besides, the most important parts of any upgrade and all he truly focused on were the changes to the skill’s actual effects.
+
+A big one was, of course, the ability to now swallow energies and concepts just like the Malefic Viper had done. Granted, Jake probably wasn’t at the level of being able to suck an entire planet dry, but that didn’t mean Jake couldn’t be an absolute menace now.
+
+He even felt that, should he truly try, he could now do something he hadn’t been capable of before: create desolation. The thought was a bit scary, and Jake wanted to test it in a safe environment, but he would have ample time to do that later.
+
+On a quick side note, no, Jake wouldn’t be able to consume the concepts within this odd realm with the golden gate, as technically, Jake wasn’t actually there. He was, but not really. It was weird.
+
+Anyway, Jake also knew from the instinctive knowledge he’d gotten that this upgrade allowed him to do even more than merely fill the environment within his internal stomach with concepts and energies. It also granted him more control over the internal space than before, likely as an auxiliary effect, allowing him to filter and cleanse some of what he received that he found undesirable.
+
+In some ways, Jake would likely be better at this than the Viper, seeing as he had his arcane affinity. Jake’s arcane affinity remained the only affinity Jake knew that he could make utterly incapable of reacting with anything. With stable arcane energy, he could likely control and isolate certain aspects with great precision and control, and then, once isolated, he could introduce a bit of the destructive variant of his arcane affinity – something that had the exact opposite effect, as it reacted with anything and everything, seeking to destroy it.
+
+This ability to isolate and control the internal stomach was also more important than ever due to another extremely significant change Jake now noticed: the limit of one consumed item at a time had disappeared.
+
+The entire internal stomach had grown far bigger and far more powerful than before, allowing Jake not only to swallow more potent treasures, but more of them… at least it would under normal circumstances. See, rather than limit the number of treasures Jake could consume, it now felt more like he had a limit to how potent the combined energy of all consumed treasures could be.
+
+That’s to say, Jake could swallow an entire lake of low-rarity herbs if he so desired, but he still wouldn’t be able to consume something too powerful, even if it was only one item.
+
+Speaking of consuming one incredibly powerful item… the reason Jake still felt a little full was due to what he’d already swallowed before. As a small reminder, Jake had initially broken his Palate of the Malefic Viper in part because he had decided to try to swallow half a desolation-corrupted World Core.
+
+Truthfully, Jake had been a little worried that even if he fixed Palate, he would still have problems with that core; however, he was pleasantly surprised to see that wasn’t the case. Jake had definitely been way too weak to consume it back when he had done so initially, but now? Now, Jake was more than capable of not only consuming it but refining and absorbing whatever benefits he could gain from it.
+
+Perhaps it was good Jake had aimed for this mythical rarity upgrade, as there was a chance that if he hadn’t, he wouldn’t be able to stomach the core.
+
+Moving on, there were a few more aspects to the upgrade. The description now mentioned that items he absorbed could evolve, which was something Jake hadn’t even considered. It opened up the possibility of Jake eating something relatively low-rarity that he knew could evolve to something great in the future.
+
+Given his newfound ability to tailor the environment, he could borderline decide the evolution path of certain things. Yeah, Jake definitely saw some possibilities there. Perhaps that was the biggest point of this entire evolution. Jake felt that it had opened up a lot of future possibilities, even if it wasn’t necessarily that useful right now.
+
+Outside of the fact that all existing aspects of the skill had also been increased, of course, making Jake’s ability to learn from consumed poisons more potent and even making potions he chugged even better than before.
+
+Actually, as Jake compared the two again, he noticed another minor change that had to be mentioned. Before the skill stated that if Jake failed to fully and instantly consume a natural treasure he’d eaten, he would suffer a backlash and have his internal space damaged. Now, it had changed to saying that he “may” damage his internal space. A single word changed, but with a massive impact, as it was a testament to just how durable the internal stomach was now.
+
+Jake was really looking forward to fully exploring all he could now eat and to expanding his palate even further... but all of that was for later. For now, it was time for Jake to leave this odd place, and as he refocused on his own soul body, he realized that he had now rid himself of the lingering concepts for the most part.
+
+Having taken this time to distract himself, Jake felt his mind was now fully clear as he took a deep breath. With eyes wide open, he stared at the massive gate one last time, seeking to consolidate all his insights and all his practice. Everything came together as his body emanated power, true success imminent.
+
+As Jake was enveloped in this powerful energy and felt himself resonate with the entire realm and the golden gate, something moved. Out of the corner of his eye, he spotted a few golden pages floating through nothingness, fluttering as they gave off faint echoes of power. Jake flashed a faint smile and gave silent thanks before he closed his eyes, intent on being fully awake the next time he opened them.

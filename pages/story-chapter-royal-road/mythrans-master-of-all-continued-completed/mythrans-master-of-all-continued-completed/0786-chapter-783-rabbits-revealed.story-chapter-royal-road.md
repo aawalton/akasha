@@ -1,0 +1,237 @@
+---
+id: 543f5137-4058-5974-92f5-26910558d8da
+page-type-slug: story-chapter-royal-road
+title: "Chapter 783 - Rabbits Revealed"
+slug: 0786-chapter-783-rabbits-revealed
+partOf: mythrans-master-of-all-continued-completed
+position: 786
+ownLength: 3187
+unit: words
+publishedAt: 2018-12-04
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/312192/chapter-783-rabbits-revealed"
+royalRoadId: "312192"
+---
+
+Ren and Symmetra cuddled for a while and then Ren decided that he really should get back to Dilseffa and her family.
+
+“Make sure you get a big piece of land.” Symmetra said as she let him out of the hug. “You know there's going to be a lot of people that will want to stay there with you.”
+
+“Ha!” Ren barked a laugh, then stood up on the couch as he wrapped his arms around her neck and kissed her. “Don't count the chickens before they're hatched.”
+
+Symmetra chuckled. “I meant Adventurers would want somewhere normal to stay when they visit the kingdom of Pervaria, not that you'd convert more Pervarians.”
+
+“Oh! Like an oasis!” Ren exclaimed. “ That's a great idea, Symmetra. Thanks!”
+
+“Anytime.” Symmetra said and Ren hopped off the couch. “Don't have too much fun.” She said, then laughed. “Just kidding. You should enjoy yourself as much as possible.”
+
+Ren grinned at her, deactivated and stored the Vasalor Statue, then cast another portal and stepped back into Duyu's kitchen in the underground warren. He quickly detached the old stove from its ventilation and stored the old oven, cleaned up around the empty space, then put the new enchanted one in its place and reattached the ventilation. It didn't really need it, since the new oven didn't burn wood; but, he didn't want the aesthetic of the kitchen to change drastically. It looked homey and welcoming, and he wanted to keep it that way.
+
+Ren was satisfied that he had accomplished that and went back to the dining room. “What do you want me to do with the old oven?” He asked a very surprised Duyu.
+
+“Wh-what?” Duyu looked at him with wide eyes. “What old oven?”
+
+“The old one that wasn't made well.” Ren said. “I normally hate shoddy work; but, this time I'm pretty sure it was a low quality iron ore that was the culprit.” He smiled. “The blacksmith didn't have much to work with and did the best that they could with what they had.”
+
+“I... I don't understand.” Duyu said, confused.
+
+“I made you a new oven.” Ren said. “It's enchanted, so you won't need to stoke it with wood anymore.”
+
+“WH-WHAT?!?” Duyu yelled into the quiet room.
+
+“I'll give you a quick lesson in how it works after we have dessert.”
+
+“But... but...” Duyu looked down at the ruined muffins.
+
+“Oh, not those.” Ren said and stored them. “I made a cake for Dilseffa the other day and I didn't really have an opportunity to give it to her.”
+
+“You made me a cake?” Dilseffa asked.
+
+“It was supposed to be a bit of a welcoming gift, then things kind of got out of hand and I forgot to give it to you.” Ren said and took out the 1 foot long carrot cake that was shaped like a carrot. Everyone in the room froze as he warmed it up and the smell filled the room.
+
+“Oh, my god.” Dilseffa whispered as saliva gathered at her mouth and she drooled a little.
+
+“Obviously, this isn't enough for everyone to share.” Ren said, and he felt a wave of sadness come from the men, because they knew that they weren't getting any if there wasn't enough to share. “So, some magic duplication is in order.” He said with a huge smile and made a duplicate to put in front of her father, Drikon, who didn't even attempt to stem the flow of his drool as he stared down at the delicious-smelling cake.
+
+Ren dropped one in front of her mother, Duyu, then went around the table to each of the 19 brothers and gave them each their own cake. Their emotions churned and grew higher and stronger as each cake appeared and they realized they didn't have to share at all because they each had their own. He stopped next to Dilseffa and put the real cake in front of her.
+
+“Please, enjoy.” Ren said and stepped back from the table. He had felt similar feelings from Tatya when he gave her a cake and knew what was going to happen next. Almost as one, all 22 people that sat at the huge table transformed into their anthropomorphic forms and dove into their cakes. Teepo chittered in laughter while cake and icing flew everywhere as the rabbits tried desperately to pile as much delicious cake into their mouths as possible.
+
+“Mmm!” Dilseffa moaned as she sat back in her chair when most of her cake was gone. “That was so good!”
+
+Ren tried not to laugh because the part she had left was the leafy stalk. He looked around the table and saw that the rest of the cakes were in a similar state. He stepped forward to get a better look at her, and her face and paw-like hands were almost completely covered in cake and icing, just like Tatya's had been.
+
+“I'm a mess!” Duyu exclaimed and Ren turned his head to look at her. Her large floppy ears were flat against the back of her head and she had just as much cake and icing on her hands and face as her daughter Dilseffa did. She tried fruitlessly to lick at her paw-like hands with her tongue; but, her large front teeth were getting in the way.
+
+“Let me try.” Drikon said and took her paw-like hand and tried to lick it. Since his hands and face were covered as well, he didn't make any progress. “No good.” He said, then locked gazes with his wife. “Maybe this will work.” He said and leaned in and did several quick licks to the side of her face.
+
+Duyu felt tingles go down her spine at the sensations that her husband was making her feel in front of everyone.
+
+“That does look like it's working.” Ren said and turned to Dilseffa. “May I try?”
+
+Dilseffa didn't say anything as she stared at him with her big brown eyes, so Ren leaned in and licked the side of her face. She felt a similar tingle go down her spine that her mother had felt and Ren kept licking the icing off of her face. She started to pant when he moved to the other side of her face, and he cleaned her off as much as he could, until he reached her fur.
+
+“That's all I can get.” Ren said sadly.
+
+Dilseffa reached up with her paw-like hands and was about to cup the sides of his face, then stopped because they were still covered in icing.
+
+“Sure, I can try.” Ren said and held her wrists as he started to lick her pad-like fingers.
+
+Dilseffa's mouth dropped open from surprise, because that wasn't what she had intended, then she caught her breath when he licked the inside of her hand. He felt her reaction to that, and he gave her a quick smile and licked the whole underside of her hand clean. She couldn't believe that he was doing that for her, in front of everyone, then he did her other hand and she didn't much care that her parents were sitting right there in front of her.
+
+Ren finished cleaning Dilseffa up as much as he could. “I'll need a better tongue to clean any more.”
+
+“I no longer have any objection about her going with you.” Drikon said to everyone's surprise, including Ren's. “The care and effort you just showed her, even though you are not one of our kind, has shown me that your acceptance of her is not a frivolous act.”
+
+“D-Drikon? Do you mean it?” Duyu, his wife asked. She had fully expected him to blow up about the whole situation later, after Ren and Dilseffa had left.
+
+“Who would have thought that the future of my daughter could be decided by the slice of a cake and not by the slice of a sword?” Drikon asked with a smile. “Although, I don't know how we are going to clean ourselves up.”
+
+“If you don't have a shower or tub, you can just store your outfit and equip it again to clean yourselves and your clothing.” Ren said.
+
+“What? Storing them does that?” Duyu asked, surprised.
+
+“It's what Adventurers do.” Ren said and felt her disbelief as Duyu just stared at him. “Do you have an inventory?”
+
+“No.” Dilseffa answered for her. “I didn't gain one until I became a delegate.”
+
+“Well, I guess I can help them cheat.” Ren said and took out a Strong Ring of Storage and made 21 copies, one each for everyone except Dilseffa. “Equip these and it will give you some storage capacity and increase your Strength.”
+
+“You... what...” Duyu looked at the pile of golden rings on the table in front of her.
+
+“Do you want them to be pendants instead?” Ren asked.
+
+“N-no, this...” Duyu picked up one of the rings and admired the shiny gold. “Thank you, Ren.”
+
+“You're welcome.” Ren smiled as he felt her gratitude. “Please, accept them as a token of thanks.”
+
+“Why are you thanking us?” Drikon asked and picked up a ring, then equipped it.
+
+“For having a daughter that I could meet.” Ren said and felt Drikon's shock at the Strength boost the ring gave him. Duyu equipped her ring and gasped as it took effect, then Ren felt anticipation from all of Dilseffa's 19 brothers because they could feel the difference in their parents.
+
+Drikon looked at Ren and nodded, so Ren stored the rings on the table and dropped them in front of each of the 19 brothers.
+
+“Yes!” Doth exclaimed as he equipped the ring. “I can finally carry all that awkward equipment for farming!”
+
+“Yeah, all the trips back and forth makes it take twice as long.” One of his brothers said. “Now we can just stay there and keep working.”
+
+“...and be done twice as fast!” Doth said happily.
+
+“Before you all start making plans on what to do with your newfound storage ability, you should finish off your cakes.” Ren said.
+
+“What? Why?” Doth asked.
+
+“It'll make your temporary stat gains permanent.” Ren said with a grin. He felt everyone's surprise, then suddenly there was a flurry of movement from Doth and the last of his cake was no more.
+
+“Wow, it really is permanent.” Doth said as he tried to lick his now messier paw-like hands.
+
+Ren stepped back from the table as the rest of them did a flurry of movement themselves and finished off their cakes as well. He felt their surprise and delight when their stat gains became permanent.
+
+“You're amazing!” Dilseffa exclaimed as she hopped up out of her chair and wrapped her arms around him, which covered his back with icing. She tried to give him a kiss, then laughed as she smeared cake and icing over his face instead. “Our mouths don't quite match up when I'm like this.”
+
+“I'm okay with that.” Ren grinned and tried to kiss her back. He only managed to spread the mess some more, which made the two of them laugh. “Now I need to clean up as much as you do!”
+
+Dilseffa ground her teeth a little in happiness and started licking his face with several quick licks.
+
+“Hey, get a room!” One of the brothers said as they felt both Ren and Dilseffa start to become excited.
+
+Dilseffa stopped licking Ren and glared at her brother. “Shut up! He's letting me lick him in public!”
+
+“Like we can't see that.” Doth, the eldest brother said. “It's bad enough that Da and Ma did it; but, we don't have to sit here and watch our sister do lewd stuff, too!”
+
+“He's right.” Drikon said and stood, as did his wife Duyu. “We can save the foreplay for later.” He waved at his sons and they all stood. “Clean up like Adventurers and we can call an end to this meal.”
+
+All of the brothers stored their sashes into the storage rings, then equipped them again and both the cloth and themselves were magically cleaned.
+
+“It worked!” Doth stared at his hands. “Even the cake under my claws is gone!”
+
+“That doesn't mean you can skip taking baths, young man.” Duyu said sternly, and everyone looked at her.
+
+“Okay, Ma.” Doth said. “We're heading out to... ah... hunt! Yes, hunt!”
+
+Duyu snorted and coughed a bark of laughter. “Don't come running back here and complain if you hurt yourselves trying to carry too much in those rings!”
+
+“Ha ha!” Doth laughed, because she understood exactly what he was going to do. In barely two seconds, all 19 of the men were out of the room and running down the main hallway to head outside.
+
+“Forgive them for their behaviour.” Duyu said to Ren.
+
+“Boys will be boys.” Ren said to her, and she nodded slightly.
+
+“We should clean up as well.” Drikon said and stored his sash, then equipped it again to clean up.
+
+“This will definitely save me hours each day from having to clean everyone's clothing.” Duyu said and stored her dress. Just like every other new female that Ren had met, she didn't wear a bra, and her large breasts bounced and jiggled without the dress to support them. Her very large and bright pink nipples were engorged and quite prominent, and the bare areas were just like Dilseffa's. Her fur stopped just above her chest, which left her midriff completely bare and framed in fur.
+
+Ren couldn't help but react to the sudden delightful sight and quickly averted his eyes. He felt a hand take his, and he turned his head to look at Duyu.
+
+“It's okay.” Duyu said.
+
+“But...”
+
+“We're all a little charged up right now.” Duyu said with a sly smile. “It's normal to get excited when seeing someone like this.”
+
+“You're not angry?” Ren asked and looked at Dilseffa, who shrugged. He looked at Drikon and saw a big grin as he bared his teeth.
+
+“I'm the envy of the entire Glade.” Drikon said and put a hand on Duyu's shoulder. “Not only is she a fetching beauty, she also gave birth to two litters of 10 kits each!”
+
+“Wait, what?” Ren looked back at Duyu. “Did... did he say...”
+
+“Yes.” Duyu's furred face could still show her red face as she blushed. “It was...”
+
+“Amazing!” Ren said, and the three of them looked at him with wide eyes. “Even where Adventurers come from, rabbits having 10 babies in one litter is the very most that they can have at one time.” He said, awe in his voice. “Now I've met you and you did it twice!”
+
+Duyu felt his emotions and was very flattered at his praise. “Th-thank you.”
+
+Ren looked at Drikon and nodded. “I agree with everyone else. You are very lucky to have her.”
+
+“As are you.” Drikon said with a feral smile. “To behold her beauty and not have me try to decapitate you for it.”
+
+“Sir. You felt my emotions. It was both a surprise and a delight.” Ren said honestly. “I appreciate beauty whenever I see it.” He said and looked at Duyu. “Thank you for not being embarrassed that I've seen you this way.”
+
+“I'm still surprised that you can look at us like that.” Dilseffa said and stored her delegate uniform, to show that she wore just underwear as well and no bra, then she equipped a nice dress. “We're not even the same species and yet you see us as potential mates.”
+
+Ren equipped a pair of underwear to replace the sash to clean up and felt a short burst of disappointment from Duyu. “Yeah, I can't help myself sometimes.” He chuckled and equipped his sash and shorts combo again, then reached up to rub both sides of Dilseffa's furred face with his fingertips. “I don't just jump on anything that moves, though.” He said as she ground her teeth happily. “It means more to me than that.”
+
+“You almost... with Tatya.” Dilseffa said.
+
+“Yeah, we had a good make-out session, and things could have progressed... and I honestly can't say if I would have pursued a relationship with her afterwards or not.” Ren said. “What matters is that we didn't and I don't have to worry about it now.” He smiled. “Things seemed to have worked out a lot better in the long run, don't you think?”
+
+“Oh, yes.” Dilseffa said and wrapped her arms around his neck. “Yes, I do.” She said and kissed him. It was a little awkward with her mouth slightly distorted by her animal features; but, they managed to kiss each other quite effectively.
+
+Ren broke the kiss and turned his head to look at Drikon. “Is there a good camping spot nearby for us to stay for the night?”
+
+“Don't answer that, Drikon.” Duyu said and glared at Ren. “You're staying right here.”
+
+“I couldn't impose on your hospitality any more than I already have, Duyu.” Ren said.
+
+“We have plenty of room in the Warren, and I won't have my daughter spending her first night at home in a tent!”
+
+Dilseffa let Ren go to face Duyu. “Mom, we didn't stay in a...”
+
+“Quiet.” Duyu said and Dilseffa closed her mouth. She knew better than to argue with her mother, too. “You stay in your room for tonight. We can discuss other sleeping arrangements for Ren and his Mistresses.”
+
+“Ren's staying with me.” Dilseffa said defiantly, and her mother raised her eyebrows. “You're right. It's my first night back home, so I want to spend it cuddling with my Inamorato.”
+
+Duyu exchanged glances with her husband, who nodded slightly.
+
+“Thank you!” Dilseffa exclaimed and hugged her father. “We'll go and get Yuwen, Tiyaphi, and Artemis right now!” She said and took Ren's hand. “Let's go before they change their minds!”
+
+Duyu and Drikon watched as their ecstatic daughter left the dining room at a run and practically dragged a surprised Ren behind her.
+
+“Who's Artemis?” Drikon asked.
+
+“I guess we'll find out soon enough.” Duyu said with a chuckle.
+
+“You should probably put your dress back on.” Drikon said with a smile. “For decency's sake.”
+
+Duyu caught her breath. “I totally forgot to do that!” She said and equipped the now clean dress and she could no longer feel the cake she used to have stuck between her pad-like fingers and her whiskers.
+
+“I'll help you clean up.” Drikon offered.
+
+“No, you did enough by getting those foxes.” Duyu said. “You should skin and clean them so we can have them for supper tomorrow.”
+
+“All right.” Drikon said and leaned down to kiss her.
+
+Duyu could feel his emotions and how turned on he was, and she didn't try to hide that she was just as turned on. Neither of them had had any kind of experience like what had just happened, and they both couldn't wait until they were alone and they could deal with those feelings.
+
+“I'll hurry.” Duyu whispered to her husband.
+
+“Me, too.” Drikon said and quickly left the dining room to finish his task as soon as possible.

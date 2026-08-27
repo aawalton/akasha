@@ -1,0 +1,103 @@
+---
+id: b3fa4eb7-1879-59ec-af33-6e3e91ae8516
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3"
+slug: 0003-chapter-3
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 3
+ownLength: 2456
+unit: words
+publishedAt: 2026-05-29
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3463404/chapter-3"
+royalRoadId: "3463404"
+---
+
+Five hundred years ago, the oceans of Earth were depicted as a vast unknown, containing monsters, the edge of the world, mermaids, all sorts of interesting stuff.
+
+Today, we all know the ‘vast unknown’ is just more water, and microplastics. Humanity has done its damned best to conquer every part of the globe, and ocean traffic on Earth is heavier than ever. That being said, with water covering two thirds of the surface, vast stretches of water still see little traffic. The Indian Ocean west of Australia is one of those spots.
+
+The Ever Steady was a container ship, carrying scrap metal from Perth to Kenya, on top of a few other African destinations. Apart from the ostentatious name of the ship, there was little to make the ship stand out. It was old, worn-out and had trawled the seas for decades on end. A few years from now, the Ever Steady itself would likely end its days on the shores of Africa it had relentlessly trawled. The old work horse was likely to die in on one of the massive, inhumane ship graveyards that would tear anything even remotely useful out of the ship before leaving it gutted and rotting, like a gargantuan corpse.
+
+Instead, it disappeared from the face of the Earth entirely.
+
+The shipping company released the audio files with missives from the captain. They were simple, touching and slightly insane. Cutting out the theatrics, they basically boiled down to: “There’s a big-ass portal thing here. It’s huge and shiny, and I’m too curious to stay the hell away. I’m going for it! Tell my ex the scars still hurt!”
+
+The shipping company, of course, tried to talk him out of it. They absolutely failed.
+
+Of course they did. I would have done the same as the captain, in an instant. The immediate result was indisputable. Nine days after the portal opened in Florida, twenty minutes after discovering another portal at the exact opposite of the globe, the Ever Steady blinked out, a few thousand kilometres west of Australia, well within international waters, never to return.
+
+There was a certain kind of logic to it, some scientists argued. Some high-browed argumentation I wasn’t sure I followed, but the core of it was something about equal exchanges, about earthly energies and outputs and Earth’s magnetic field. It all sounded like a bunch of hot air for some fuzzy-scalped lab-rat to stand up and say “Of course it would appear on the exact opposite side of the earth. Now, buy my book.”
+
+The words didn’t matter. The fact that Earth now had a portal allowing us to jump ship, literally, and leave to some place that was very damn likely to have magic? That mattered! It mattered enough for the Third World War to nearly kick off within the first day of the discovery.
+
+I’d have expected it of China. Or Russia. Both had the military muscles to try to flex and take the portal for themselves. Yet, apparently, the South Korean military wasn’t above a good old game of ‘dibs.’ Within three hours of the news getting out, they had a Destroyer closing in on the area, with a flotilla of nearby military ships right on its heels.
+
+There are a good deal of turning points in the history of the world. Like the formation of the Allied Forces in the Second World War. Or the Cuba crisis. Somebody who actually paid attention in school would be able to list out more than just two paltry examples. But the first few days of the Coalition of Earth are damn sure to be added to that list in the future.
+
+In just a few days, every single country on Earth with a military presence, up to and including the Vatican, managed to come to a tentative agreement, and used their collective weight to lean on South Korea.
+
+They buckled and surrendered, like the French going for a new record. And within less than a week of the second portal being discovered, it was opened to the public. Anybody with enough money to get there would be able to enter another world – though nobody sailed straight in, given that the Ever Steady had never returned..
+
+There was talk of limiting access. Of course there was. Everybody in charge wanted to keep this for themselves. Yet, the public outrage was such that not a single country dared limit access. The gate was open.
+
+I bought my plane ticket even before they officially allowed entrance. How could I not?
+
+***
+
+The seaplane sounded like it was about to blow up. There was a grinding undertone to the engine that I had serious trouble ignoring. The Indonesian pilot had shouted something unintelligible but happy-sounding, so I decided to act like it was normal. It probably was.
+
+The second and third leg of the journey had been rather uneventful. I’d disembarked in Jakarta, located the battered-up taxi waiting for me and suffered a long, bumpy ride to Pelabuhan Ratu. There, I’d gotten six hours of questionable sleep in a mouldy cot that cost more than most hotels, before being led to the seaplane. Now, we were bearing down on our final destination.
+
+It unfolded ahead of us, a testament to human ingenuity and greed. A huge array of disparate military ships separated by long rows of colourful buoys created a lopsided circle, ensuring nobody would enter the area by accident. On the inside of the circle, two aircraft carriers, Thailand's HTMS Chakri Naruebet and the UK’s own HMS Prince of Wales formed the loafs of the sandwich of what had become known as Portal Home. A ragtag mess of pontoons, boats and one large floating science station that sailed in from Australia, formed an ever-expanding city, allowing people to actually walk across decks for a full kilometre and access the platform.
+
+The abomination was growing too. From the air, you could see an absolute mess of airplanes, small craft and container ships in constant movement to and from Portal Home. Two separate oil rigs were already being towed in for a more permanent construction, to ensure the place would survive serious storms. A construction like this would usually take two to three years, but was expected finished within the month.
+
+After half an hour of circling above the Thai aircraft carrier, we were allowed to land, and quickly ushered onward to a waiting mess of smaller craft, who were only too delighted to charge extortionate prices to transport us the final hundred meters from the carrier to the floating city. I paid without a thought. What did I care about money? I was about to leave Earth behind!
+
+I wasn’t alone in that thought. The market for transport to Portal Home was heavy, and only growing worse. Scalpers, cheaters, scammers, and worse were everywhere. It turned out that the number of people who, A: were able to find the not insignificant sum and, B: were more than ready to leave Earth and everything behind, were in the millions. Especially when we learned about the system.
+
+Yes, the first people to arrive to the portal had thrown themselves in with abandon, heedless of any risks and consequences. But it took only a short while for the first one to stick her head back through the portal and go “My dudes! You’re not going to believe this!”
+
+The other world did have magic. And the moment you entered, you were able to become part of that. Earn strength and grow in levels. Become an actual superhuman. A few had returned by now, showing off exactly how strong they’d gotten and revealing a few secrets, only to jump back through the portal.
+
+Only one tiny detail kept the entire world from throwing everything away and start a full-scale exodus for the foreign realm. The dangers. Because monsters were everywhere, and people died. In droves. Horribly. They attempted to carve out a place for themselves in that foreign world, and died trying.
+
+Even so, the allure of magic outpaced the danger, and only grew as the details filtered out to the general public. You could raise your attributes. Become stronger than humanly possible. Faster than a car. There were skills, skills that helped you do whatever you enjoyed, only better, faster, easier than on Earth. Talent trees, offensive and defensive, that gave you real, tangible magic, helped you survive. Internet activity surged to frenzied heights as knowledge was disseminated, torn apart and examined, made up and, ever so rarely, found to be true.
+
+I’d never been a gamer. But in the last few days, I’d learned enough gamer slang to last me a lifetime. The wildest thing was that some gamer logic actually did translate. Builds. Teams. Resistances. Leveling up and grouping up. I had only vague ideas of which kind of choices I would make. Which ‘build’ I’d opt for. But I did know who I was and what I could do. I was somebody who didn’t mind a challenge, who’d go through whatever I needed to grow stronger.
+
+From the reports coming back, there’d be no lack of available challenges.
+
+As I set my foot on the first deck of Portal Home, watching the unsteady surface dip below me, the waves weren’t what made my stomach flip. It was the excitement.
+
+I’d never been anybody worth talking about. Liam Berg. Born in Sweden. Grown up elsewhere. Connoisseur of orphanages. Frequent flier in principals’ offices, social services, and youth courts. In time, I’d have become just another footnote of footnotes in history, barely worth an eye roll. But now? Now, I fully intended to earn a name for myself. In a new world. A new realm, where power and wealth were ripe for the taking.
+
+Portal Home was beyond noisy. At this point, it comprised maybe a thousand different floating constructions, and the vast majority of those was there for a purpose – a purpose, which they proclaimed, loudly. Some, of course, were the property of those who’d left Earth behind, like the rusty, barely seaworthy speedboat half-filled with water on my left which looked like it would’ve capsized if it weren’t for the ropes anchoring it to its neighbours. But the mass of decks leading up to the huge, shining portal at the centre of everything was filled to the brim with people buying, selling and… well, shouting. All set to the questionable soundtrack of dozens of different music tracks and styles at conflicting volumes.
+
+Of course, most people who arrived at Portal Home were ready to risk it all for power and fame. But they were still humans. And if there’s one thing we love? It’s instant gratification. Before I’d climbed my way across the multitude of decks and onto the massive floating raft leading to the portal, I’d been offered every sex position known to man – or to me, at least – six different types of drugs, a place to sleep, and even a free one-night-stand from a twitchy-looking bald young woman.
+
+I turned it all down. Others might carry around a lot of unresolved baggage keeping them lingering around the edges, looking for that final thing to grant them the courage to take the final jump. I was decided, though. Also, I wasn’t going to start my journey into a new world carrying an STD.
+
+“Sir. You! Big guy with the cauliflower ears. A moment of your time? I know you’re leaving Earth, forever. Don’t you want to send some money to loved ones before you leave?”
+
+I turned and raised an eyebrow at the speaker – a short, balding guy with a strange accent and a dirty suit who’d have looked right at home trying to sell vacuum cleaners. “I haven’t got anything worth selling, man.”
+
+He chortled. “See? I knew you were a permie. A lot of people waver. But you’re ready! You’re not coming back. You’re also fully wrong! You’ve got plenty to sell. See?” He held out a phone, showing a list, with dollar signs next to it.
+
+I quickly scanned the list and snorted. “Passport? Social security numbers? Online presence? Dude. Way to get my name on every watchlist known to man. I’m impressed they even let you do this.”
+
+“They? Let me?” He spread out his arms, beaming. “International waters, man. It’s bliss. And I’ll be frank. Of course, your stuff will be abused. Your accounts will be used for mules and scams. Your passport will go to some Eastern European thug who looks a tiny bit like you. Tomorrow, your Aunt Elsebeth will be cheated out of five hundred bucks. But who cares? I’ll pay good dollars, right this moment. You can even watch me transfer them, wherever you want, send a warning to anybody who deserves it that they should stop answering your DMs. Huh? Isn’t there someone who could do with a few thousand? Somebody you may have wronged, or who deserves a farewell gift, alongside a message maybe?”
+
+I grimaced and thought about it. Really thought about it, at the same time as I found myself impressed by his sales pitch. My thoughts bounced around my past, through a number of different foster families. Sure. A couple of them had been decent. There was no real love there, though. I ended right where I knew I would. Celine. She’d gotten me into trouble just as often as she’d saved my ass. She’d also abandoned me, right when I thought we’d made it. Nope. Nothing here.
+
+I shook my head at the man. “Sorry, dude. You’ve got a great pitch. It’s just not for me.”
+
+“No worries. Make sure to survive. And if you do return and become famous? Buy me a yacht or something?”
+
+I guffawed at his outrageous question. “Sure. Why the hell not?”
+
+He’d turned on the next target before I even moved past him.
+
+I was right there. Just thirty meters to go, with the raft pitching heavily below my feet. There were phones everywhere, recording those coming and going. On my left, a tv crew was interviewing a returnee who flexed and did something, making some shimmering effect coalesce into being around his chest. Another returnee evaded the tv crew, shuffling back with a massive set of bandages hiding what was left of his arm. On my right side, a group was striding forth, discussing what classes they would pick.
+
+I grimaced and shook my head. Enough hesitating. It was time for me to move into a new world. To find my destiny and make something of myself. Maybe conquer a country and become a king. Today was the day I would stop being passive and take my destiny into my own hands!

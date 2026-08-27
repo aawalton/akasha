@@ -1,0 +1,131 @@
+---
+id: 8567ff62-3526-5b55-9bb4-c3dba4d428b5
+page-type-slug: story-chapter-royal-road
+title: "521. Unique (Start of Volume 6 Part 1/Book 10)"
+slug: 0078-521-unique-start-of-volume-6-part-1book-10
+partOf: salvos
+position: 78
+ownLength: 1622
+unit: words
+publishedAt: 2023-03-20
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1143780/521-unique-start-of-volume-6-part-1book-10"
+royalRoadId: "1143780"
+---
+
+521. Unique (Start of Volume 6 Part 1)
+
+I groaned as I lay there on the glass-like floor. My entire body ached— my Grand Skill finally came to an end. I had used up everything I could to get here to this point. All my Skills, and all of my will… it had led me here.
+
+I had been through so much. This was the culmination of everything I had ever done from the very first moment I opened my eyes in the Mortal Realm. While I was tired and hurt from a hard-fought battle against an army of Demons, I had been fighting for this goal for far longer than just a couple of hours. It was the result of all my hard work, and I could finally sigh in relief.
+
+I heard the soft applause echoing ahead of me in this room. Only a single person was clapping, but somehow, it sounded like I was on stage before a large audience giving me a standing ovation. I sat up as my gaze swept over the transparent ceiling. I saw a molten ring overhead, illuminating this dark chamber.
+
+The world beyond was not part of the real world. It was the fold between the planes— between the Mortal Realm and the Netherworld. A space where there wasn’t really much actual space. The only thing that existed there were objects frozen in stasis. A chair hovered in place, forever spinning yet frozen in a blurred shape. There was a broken fountain; the bark of a tree. A supermassive black hole hung high up, far far away.
+
+But my gaze focused only on the red figure sitting before me. He pushed himself off an invisible chair, clapping with a grin plastered across his face. He strode forward with his hoof-like legs. It was the Devil.
+
+My father.
+
+“Encore, encore. You’ve really exceeded all my expectations, my daughter.”
+
+Sal chuckled as he came to a halt. I groaned, rubbing my shoulders, and a trail of black blood leaked onto the palm of my clawed hand. I looked down at myself. I wasn’t in my Human form. I didn’t wear any disguise. I was just… me.
+
+I winced, trying to get to my feet as Sal just continued.
+
+“You know, when you spared Belzu all those months ago, I thought you were being quite the idiot. But killing him like you did? Without even putting up a fight? Now that’s what you call a climax.”
+
+My dad pinched his fingers together over his lips and kissed the air.
+
+“And when you gave Regnorex the metaphorical finger—”
+
+Sal continued speaking, but I shook my head, ignoring him, still trying to get a bearing of my surroundings. I was exhausted. I was also very badly hurt. I had been fighting non-stop for quite a while at this point.
+
+It had been the final battle— I had fought alongside the United Coalition of the Human Lands to put a stop to the grand ritual to merge the Netherworld and the Mortal Realm. Except… that wasn’t the actual goal of the grand ritual. Apparently, the real plan was to summon the Demon King and his greatest army of Primeval Demons to the Mortal Realm.
+
+And I did everything I could to prevent that from happening. From defeating a [Hellabomination] to fighting Levithus. I had battled a multitude of Primeval Demons far above my level, and somehow, I had also won. But the fighting didn’t end there. Not for me.
+
+When I thought I had a moment of reprieve, Belzu tried tinkering with the grand ritual to forcefully summon Regnorex over to the Mortal Realm. The Lord of Lies had thought that the ritual could not be stopped in time, so he hoped to separate the Demon King from his army of Primeval Demons to have a chance of winning.
+
+I thought that was suicide. Especially considering that Belzu was going to be sacrificing my friends and companions to achieve victory. I couldn’t let that happen, and after our years-long feud, I finally killed Belzu.
+
+But that didn’t solve the problem. The grand summoning ritual was still going to go through— Regnorex and his army would have invaded the Mortal Realm if I didn’t stop it. And I did.
+
+I altered the summoning spell with my space magic. I reversed it, turning it into a portal for me to slip back into the Netherworld. That had been my goal for so long— ever since I found myself in the Mortal Realm, I had wanted to return. Not because it was my home, nor because I enjoyed my time fighting and surviving back there. I did it all for the sake of my first companion. So that I could bring him with me back to the Mortal Realm and show him all the wonderful things I had seen.
+
+It wasn’t necessarily an act of sacrifice. What I did was mainly for myself first and foremost. However, I had a secondary goal. By returning to the Netherworld, I had also expended the ritual’s mana, giving Clayton Skyshredder and my friends enough time to dismantle the grand ritual.
+
+But before I left them, I revealed a secret I had been hiding for so long. It was something only my companions knew. When most people found out about it, they always tried to kill me. Because they rejected me for who I was. They thought that I was evil, when I was just Salvos. Still, I told the world the truth.
+
+That I was a Demon.
+
+I didn’t know how they’d react, because I threw myself into the Netherworld immediately after. Well— I didn’t actually enter the Netherworld. I stopped myself right before I could enter the Demon King’s castle, because I knew Regnorex would kill me. Instead, I escaped to my dad’s home.
+
+But even as I stood here, in the Devil’s little box, I still wondered how my friends would react now, knowing the truth of my identity. I wondered if they would accept me. What if they hated me? This question weighed heavily in my mind.
+
+I was always going to be me, and what others thought of me was never going to change that. However, these were people I… cared about, to a certain extent. Not nearly as much as I cared about my companions. But I was still afraid that these people would not recognize me for who I truly was. Because, then, they would no longer be my friends.
+
+I mulled over this fact as I fidgeted where I stood. And the Devil took notice of it, pausing mid-sentence.
+
+“Seriously, I didn’t even think you’d be able to… to… you’re not listening to me, are you?”
+
+My dad cocked his head, and I blinked. I snapped out of my stupor for a moment, nodding.
+
+“I, um, was totally listening to you!”
+
+“Were you, now?”
+
+He raised a brow. I shrank back, scratching the back of my head.
+
+“Y-yep!”
+
+And he just sighed as he massaged his temples.
+
+“Then what was I saying?”
+
+“Um…”
+
+I scratched my cheek. Sal crossed his arms and tapped a finger on his elbow. His gaze bore into me, and I looked away.
+
+“You… were praising me?”
+
+I suggested hesitantly, and my dad paused. His brows furrowed. His eyes narrowed. For a moment, I thought I got it wrong. He opened his mouth… only to smile.
+
+“Yes, my dear daughter. I was praising you.”
+
+“You were?”
+
+I blinked. I didn’t expect to be right. But my dad just nodded eagerly. He stepped forward, rubbing his hands together as he spoke.
+
+“I was singing songs about how great you are— I will regale tales about your glory for eons on end. Salvos, my daughter, your grandeur is truly unrivaled. Your feats are unheard of, and your greatness shall never be surpassed.”
+
+Sal swept to a bow before me, and I stared at him. I listened to the Devil himself showering me with praise.
+
+“Huh.”
+
+And I beamed.
+
+“That’s true, isn’t it? I am pretty amazing, aren’t I?”
+
+I placed my hand on my chin, recalling what I had done. I had survived the Netherworld— fought Greater Demons twice my level. I battled a [Hero], and managed to befriend a [Summoner] who hated Demons. The entirety of the Mortal Realm was against me for who I was, but I still came out on top.
+
+Whether it was Centinels or Humans or even Demons, I didn’t care. I had gotten to this point because I was amazing. Because I was Salvos.
+
+I smiled happily to myself as Sal nodded. He raised his head, still smiling at me. And in an instant, that smile vanished, replaced with a glare.
+
+“Wrong.”
+
+Sal’s voice echoed around me as I immediately froze. My dad straightened, and I tried to work my jaw.
+
+“W-what…?”
+
+He strode forward, shaking his head as the world around us shifted. It was a pocket space— a world that belonged to the Devil. With each step he took, the glass-like dome changed shape. At first, a pyramid, then an icosahedron, then a cube, and then a sphere.
+
+“Do you really think you are special, Salvos?”
+
+My dad spoke, his words reverberating around me, seemingly echoing off the walls of his world. I couldn’t move. I was trapped in fear. A creeping sense of dread prickled down my back as I tried to work my jaw. But I couldn’t regain control of myself.
+
+The Devil paused right before me, holding my gaze as the world around us shimmered.
+
+“You are not unique. You are not great. In the vastness of the multiverse, I will show you just how normal you are.”
+
+He snapped his fingers, and everything changed.

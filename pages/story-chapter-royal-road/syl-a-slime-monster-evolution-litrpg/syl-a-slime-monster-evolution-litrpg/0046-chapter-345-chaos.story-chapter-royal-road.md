@@ -1,0 +1,165 @@
+---
+id: 95f3df7b-16c0-57e4-9e84-c2766bd5380e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 345 : Chaos"
+slug: 0046-chapter-345-chaos
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 46
+ownLength: 2200
+unit: words
+ownProgress: 2200
+publishedAt: 2026-02-04
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3010871/chapter-345-chaos"
+royalRoadId: "3010871"
+markedReadAt: "2026-06-29T19:43:20.545Z"
+---
+
+All across the Vaelyssan region, a strange occurrence was happening. As if driven by an unseen force, many residents suddenly disappeared into the night. On the floating fortresses, the scene was even more terrifying as people willingly walked overboard and vanished without a trace beneath the dark waves.
+
+The hidden "Volcano Isle" suffered an even greater tragedy as more than half of its population simply vanished. Was this a targeted attack? An abduction? Or worse, a curse? These were the questions on everyone's minds, and the alarming part was that there seemed to be no pattern to the disappearances as the victims came from all walks of life—from simple workers to high-ranking officials, they went missing all the same.
+
+However, at the same time, while this terrifying phenomenon was taking place, there was a silver lining to these dark clouds. In Saltpolt, at one of its finest inns, there had been a commotion.
+
+In the twilight hours, when most patrons were either warmly snug in their beds or dead drunk at a table, the most unexpected event occurred. It started with a few thumps, easily mistaken for a particularly rowdy couple, but the din grew, soon followed by shouting and yelling.
+
+The staff rushed to investigate, tightly clutching their daggers and clubs, and opened the door with the master key—bodies! Someone let out a momentary scream until the light revealed the truth; they were all alive.
+
+"Jim!?" the barkeep asked. "Is that you?"
+
+"It can't be…" one of the serving girls whispered. "He went missing months ago."
+
+The more they looked at the squirming mass of humans, the more shocked they were. There were some recognizable faces in the group—either captains of missing ships or upcoming mages. They were all presumed missing, dead, or captured, another tragedy of the sea, but here they were.
+
+While the staff were trying to figure out the situation, one person pushed himself out of the room and went sprinting down the passageway.
+
+"Lola! Lola! I'm coming back for you!" Nick cried out as he ran like a headless chicken and out into the dark of the night.
+
+"Someone contact the guild… they will want to hear about this," the barkeep sighed, scratching his beard.
+
+***
+
+<[Chaos Elements] Removes all restrictions on elemental spell components, allowing chaotic and impossible combinations between them. The effects will vary based on the caster's magical proficiency and will receive increased compatibility through an elemental fusion skill. Skill level determines the system's aid in construction, especially regarding adding multiple conflicting spell components. Warning: backlash received from chaotic spells is exponential per incompatibility.>
+
+After reading the description, I was speechless. If I was understanding it correctly, this meant I could apply fire effects to water, or, heck, even ice!
+
+Imagine if I could create a burning-freezing effect that would be unstoppable! I could even go full Dewi and just add burning to everything. Burning lightning, burning water, burning rocks, the sky's the limit!
+
+I promptly bought the new skill, wanting to get some further insight from the information it provided.
+
+<Skill [Chaos Elements LV 1] obtained. Skill Points remaining: 14.>
+
+My initial impression had been correct; it would let me mix and match elemental components like never before. Anything involving [Basic Elemental Magic] was far simpler, which meant that if I truly wanted to benefit from this, I needed to work on [Intermediate Elemental Magic].
+
+My dreams of frosty flames will be realized!
+
+Naturally, I had a strong desire to use [Skill Deconstruct] on it, but I held back. Even with a favorable legend point conversion, I didn't want to be wasteful as I barely had enough to uncap one skill at the moment.
+
+The slime mass I'd gained from this was off the charts, an immense amount of profit, even including the spell orbs and fallen limbs I'd detonated. I also had plenty of riches, which I was sure would tantalize my spidery friend.
+
+Speaking of Vee… I should probably head up and see her. She's been waiting up there for who knows how long. I wonder if she misses me?
+
+I had a few of those enchanted deep-sea amulets now, so I could easily give her one that would open the ocean depths for her, assuming she wanted to. Her Veilstrider class seemed to encourage exploration, so anything that helped her in that regard would likely be appreciated.
+
+I was also tempted to teleport back to Saltport and use their crystal to change my class, but I wasn't sure of the situation there now that I'd haphazardly deposited the prisoners there. Especially since going there as Sylvain was not a feasible option, the freed prisoners were likely to have mentioned his name.
+
+Guess I really am burying that identity in the depths of [Roleplay]. I'll have to make a new one if I want to interact with the Adventurers Guild.
+
+There was also the risk that changing my class and losing my bonuses would make experimenting with [Chaos Elements] more troublesome. Until I figured out some of it and had a few spells under my belt, I probably should momentarily hold off on becoming a Riftmancer.
+
+I never did find Leon. I hope he wasn't inside Azulean… Actually, I didn't see Vanessa either. Did she get caught in the blast and vaporized like the king? Well, even if she's alive, I'm not afraid of her, and the bounty on my head will send her my way eventually.
+
+I rapidly ascended from the depths, merging various speedier aquatic forms while coating myself in a layer of floatstone. The combination was outstanding, and I could only be thankful that I didn't have to worry about any pesky organs from this unnatural display.
+
+Even with my expedited acceleration, it was a long trip, so I used the time to poke around a bit with [Chaos Elements]. It really did what it said on the tin, as previously, when I'd gained [Basic Elemental Magic], I could swap between those four elements effortlessly, and now I could piece them together with similar ease.
+
+I made [Scorchlance] from [Waterjet] with a simple swap. What if I combine the two now?
+
+Of the four basic elements, fire was probably one of my favorites, thanks to a certain pyromancer's influence, while water was like my bread and butter. It had been with me the longest, and so I still held considerable affection for it.
+
+I giggled to myself. This is like a union between family and friends.
+
+The actual magical construction was interesting, seeing how previously incompatible spell parts were suddenly working. The desire to pull it apart with [Skill Deconstruct] grew, as I wanted to see what it was doing behind the scenes.
+
+It's probably another special pattern housing the spell, something similar to [Multicasting].
+
+I shook away the temptations and continued my work. I suffered backlash a half-dozen times before I finally had a working product. I hoped it was worth the horrible Mana burn.
+
+<Proficiency gained. [Chaos Elements LV 1] improved to [Chaos Elements LV 2].>
+
+<Spell [Scald] discovered.>
+
+Oh! That's a very good name!
+
+I was a little sad I wasn't the first to think of this idea, but seeing an excellent spell name squashed that feeling. If it had been something like "create: burning water," then I would have banished it from my magical repertoire.
+
+<Awarding bonus proficiency experience for early discovery.>
+
+Wait, what?
+
+<Proficiency gained. [Steam Magic LV 1] improved to [Steam Magic LV 4].>
+
+<[Steam Magic LV 2] spell [Evaporate] learned.>
+
+<[Steam Magic LV 3] spell [Swelter] learned.>
+
+<[Steam Magic LV 4] spell [Scald] already learned.>
+
+<Proficiency gained. [Derived Element (Steam) LV 8] improved to [Derived Element (Steam) LV MAX].>
+
+<Maximum derived affinity reached, would you like to incorporate the affinity permanently?>
+
+Yes…?
+
+<Trait [Derived Element (Steam) LV MAX] has successfully incorporated. Steam Affinity has been permanently gained.>
+
+<[Trait Derived Element (Steam) LV MAX has been lost]>
+
+Once again, I was stunned into silence. I hadn't expected my first little foray into chaos elements would lead to such a dramatic event. Not only that, but I'd revealed it was possible to learn predefined spells ahead of the curve.
+
+When I tell Vee about this, she's going to lose her mind.
+
+If we had known about this, we could have boosted her [Corrosion Magic] at a record pace. We'd already done that thanks to [Companion Training] and [Ritual Casting] and me forcing her to cast spells above her level, but it had never led to this.
+
+The key is to do it by yourself. Since I was the one doing it, she wasn't getting the discovery bonus!
+
+That was the most reasonable explanation, which brought about a sigh.
+
+Which means it wouldn't work for Vee… There's no way she would willingly try to learn spells without some handholding. Even getting her to replicate [Rift Door], [Reduction], and [Displaced] has been a pain. Heck, she still doesn't want to touch the last one!
+
+I sighed and shook my head, feeling some accord with Mother in this regard. If Vee were more excited about magic, things would be so much easier—it was no wonder Mother asked for my help.
+
+Speaking of [Displaced]... that gives me an idea. Could I create a super elemental debuff? Just some big spell that makes you weak to every single element?
+
+The idea was enticing, but until I unlocked [Intermediate Elemental Magic] and a few more levels in [Chaos Elements], it wasn't obtainable. I could've possibly made a "basic elemental weakness" spell, but honestly, I preferred going straight for the prize.
+
+Not to mention, I think with the help of [Chaos Elements], I can make some considerable progress on getting some of my intermediate spells all to level five.
+
+I could already imagine [Magma Magic] and [Dust Magic] being in a similar position to [Steam Magic]. However, the obvious exception was [Nature Magic]. It was supposed to be the combination of Water and Earth, but the effect it produced was nothing like the two at all!
+
+Using [Chaos Elements] I'd probably just make mud…
+
+That meant I would need to raise [Nature Magic] the old-fashioned way. But, considering we wanted to set up our own base of operations and grow our hometree, that was actually very achievable.
+
+I think I have a pretty good plan of action then. I can work on those three while Vee searches, and hopefully I'll have everything ready and waiting at level five. Once Vee finds a good spot, I'll dedicate my time to raising [Nature Magic].
+
+With a vague idea of my next steps settled, I took the opportunity to investigate the new spells I had acquired.
+
+[Evaporate] was both a resource generator and a defense against [Water Magic]; if you were able to overpower the enemy spellcaster, you could turn their own spell into steam. While I wasn't sure about either usage, at least it was a way to effortlessly dispose of any excess water.
+
+[Swelter], on the other hand, was quite interesting as it was a rare occasion that I received a new affliction type outside of [Corrosion Magic]. The affliction it inflicted was aptly named [Heatstroke], and the effects would vary greatly depending on the victims' biology.
+
+As for the spell itself, it was an enormous area of effect with only one prerequisite: "sufficient humidity". Considering I could generate that with either [Haze] or [Evaporate], it was not a tall ask.
+
+What's interesting about this is there's [Heatstroke] and heatstroke. One's a system affliction, and the other is a naturally occurring phenomenon. I imagine the former is far more potent since it has the system's backing.
+
+That only left [Scald], which, interestingly enough, was different from the version I had created. The official version of [Scald] released a pressurized blast of scorching steam, while my version did the same, except it remained in a liquid state.
+
+The official version was more refined than mine, with quite a few improvements over my rush job, but mine had this hidden state. Steam was potentially more insidious, as it would be hard to block or contain, but it lacked the substantive force of water. Mine, on the other hand, had the potential to punch a hole through something, scalding it along the way.
+
+Both have their uses, and it seems that I can freely switch between the gaseous and liquid versions of the spell. I wonder what similar effects I might be able to uncover thanks to [Chaos Elements].
+
+I'd be lying if I said I hadn't been a little disheartened that my first chaotic spell was nothing but early access to an official spell. Yes, the early discovery experience was shockingly good, but at the end of the day, that well would eventually run dry. Was this really all there was to a major milestone skill in a rare advanced class?
+
+However, now that I knew I could make potentially two or more versions of the same spell, my excitement was renewed. Not to mention, I still hadn't even touched on the intermediate elements, my frosty fire would be achieved!
+
+I chuckled to myself. I guess Mother really knows best; this was well worth the delay in my ascension to Riftmancer.

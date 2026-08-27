@@ -1,0 +1,189 @@
+---
+id: b232c691-bd9e-5159-9561-73e4b26736c5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 48: Nemesis System"
+slug: 0048-chapter-48-nemesis-system
+partOf: phoenix-ascension-cultivation-litrpg
+position: 48
+ownLength: 1982
+unit: words
+publishedAt: 2025-11-12
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2755708/chapter-48-nemesis-system"
+royalRoadId: "2755708"
+---
+
+When I came to, everything was dark. The ground was cold and the air was stiff with the reek of blood.
+
+A sudden headache coursed through me, and images of what happened flashed before my eyes. Mother’s warm embrace surrounded me, her flames burning everything around us. The nest had disappeared completely, and her body had became nothing more than true flames.
+
+She whispered something, though I could barely remember what she’d said. The flames were too hot, and my mind was falling into unconciosness. I felt my mind slip, and my last image was of the old Nascent Soul bastard staring at us while barking out orders.
+
+Then, I flew. Not out of my own accord, but alongside Mother. Her flames left a trail behind as we disappeared into the clouds, and before I knew it… darkness.
+
+We were safe.
+
+Right, we were safe. So then, why did my heart ache?
+
+I threw out a small fireball made out of Phoenix Fire, illuminating wherever we were in. Even that took a toll on my energy. My body hurt everywhere, every muscle and every feather felt like they were about to rupture.
+
+My eyes slowly adjusted to the darkness. It was weird that I hadn’t gotten a skill to see when it was dark yet. If I could use Qi, I could simply use my Divine Sense. But I didn’t dare do that again.
+
+As it turned out, it was a cave, barely big enough for Mother to fit through. The walls were of a dull gray color, and there was no vegetation anywhere.
+
+It looked like I was at the very end of the cave, as the wall behind me would suggest. I couldn’t tell if the shape of the wall was strange. As a matter of fact, all the walls were strange. They were smooth, like, really smooth. Way too smooth for them to be naturally formed.
+
+Was this someone’s cultivation cave?
+
+But it was too small and well, shabby, to be. Now I wasn’t saying that the guy who made this cave was broke but…
+
+Anyway, the best thing to do would explore my surroundings. Maybe by the time I’m finished Mother would have returned. I didn’t know where she went, but it was for the best not to stray too far.
+
+Not that there was much to see. The place was spacious, at least for someone my size, but it wasn’t anything to write home about. On the contrary, it was deep. So deep that I had to walk for an entire incense stick worth of time just to get close to the entrance.
+
+As in, I could see some light into the distance, but it was the tiniest dot.
+
+Did a snake make this cave? This situation is too strange!
+
+The shape and the form of the cave made it seem like a snake had burrowed through. Hmm, it might have actually, but how would it nest in such a cramped space? It made no sense.
+
+I decided against walking toward the light though, thinking that waiting for Mother to return would be a better idea. I was weak, too weak. Not only did I feel weakened, not only could I not use Qi, not only could I not do anything against those bastards that attacked Mother, but I had to rely on her still.
+
+That painful thought accompanied me to where I’d made the fire, and after I took a look around, I noticed that my bag of holding was slumped in a corner, hidden by rocks. The two Golden Cores were also there, clashing against each other.
+
+Their two opposite energies fought for dominance, though it looked like the Vermillion Bird Golden Core would lose. No doubt because I abused its power during that fight. Maybe if I didn’t want to preserve its energy, I could have helped Mother… even if it was against a Nascent Soul realm expert.
+
+Or maybe it would have never been enough.
+
+I couldn’t be sure, and there was no way to turn back time and try again. At least we managed to make it out. I didn’t know what sort of technique Mother used to fly out of the encirclement, but it must have come at a great cost.
+
+After separating the two Golden Cores, I went next to the fire and sat down. I didn’t know for sure how much longer Mother would take to arrive.
+
+While I waited, I called upon my Details.
+
+Details
+
+[Name: Fa Xiaolan]
+
+[Race: Phoenix]
+
+[Class: Elemental Phoenix]
+
+[Level: 18]
+
+[Hit Points: 3426]
+
+[Equipped Titles: Tiny Blood Lord]
+
+[Bloodlines: Phoenix]
+
+[Cultivation: Qi Condensation: VII]
+
+[Beast Core: Dormant Core]
+
+[Qi: 1090/2181]
+
+Stats
+
+[Strength: 316]
+
+[Dexterity: 272]
+
+[Perception: 301]
+
+[Charisma: 190]
+
+[Intelligence: 255]
+
+[Skill Points: 40]
+
+Titles
+
+[Tiny Blood Lord]
+
+Wow! I had so many Skill Points. When did I get so many? Well, being level eighteen does mean I got a lot of them, and a lot of stats! Over three hundred strength… What did that even mean?
+
+I would need to test that later when I got out. Not to mention all my stats were now higher than Charisma, which was always welcome. I did not need to be cute, I needed to be strong! I still had no idea what that Beast Core thing was, and System hadn’t told me either.
+
+Usually it would pop out and give me a detailed explanation, so it was weird that it hadn’t yet. I would pester it later. That aside, I had quite a high number of hit points, although I was pretty sure they were high compared to a Qi Condensation cultivator. For a Nascent Soul, who could kill me with a single slap… well it wasn’t all that much.
+
+My Qi reserves were also… meager. And somehow had been cut in half? That was a good reason to panic. As quick as I could, I looked inside my dantian. The sight left me horrified to say the least.
+
+At some point during my unwanted nap, the Demonic Qi had broken past my defense and encircled the outer layer of the dantian. Its black and red color pulsated with an ominous light, and it slowly but surely ate away at the Qi inside.
+
+It made its way in inch by inch, slowly advancing and eating away at my Qi. If I had to estimate, it already covered about twenty five percent of my dantian. That was a bad sign, a really, really, really bad sign.
+
+I was screwed. And the more Qi I used, the less I would have to fight against it. I needed a way to acquire the Holy Affinity quick, or find a priest or something willing to heal me. Both of these were a little less than an impossibility.
+
+However, why had my available Qi get cut in half if the Demonic Qi only ate away at twenty five percent of my dantian? I looked inside, and then I saw it.
+
+An egg.
+
+It was floating on the surface of my Qi lake. Well, it wasn’t floating, rather something below it was floating. A flame that seemed eternal supported the egg above the lake. It burned with an orange-red color, and its warmth reminded me of…
+
+Mother!
+
+My heart raced, and I could hardly believe what I was thinking. There was no way, right? I inspected the egg more closely. It was of a bright red color, with beautiful golden patterns running across its surface.
+
+It wasn’t big, not in the slightest, it was probably the size of a chicken egg. However the amount of life force it exuded was both intoxicating and overpowering. I didn’t dare ask what it was doing in my dantian.
+
+I was afraid I knew the reason for that already.
+
+The blurry images from before flashed through my head. My mother wrapped her wings around me, the warmth she exuded feeling… hesitating. What she whispered in my ears rang in my mind over and over again.
+
+Like a bell that tolled endlessly; a skull-splitting headache coursed through my brain.
+
+‘I’m sorry, but Mother will not be here for a while. This is the only way to escape. Forgive me, Little Flame. Find your father, he’ll know what to do.’
+
+My heart shook and my entire body shuddered. Those were her words, her last words. Last words before what?
+
+The Nascent Soul old bastard’s words echoed in my head as well, overlapping with Mother’s sweet voice.
+
+Rebirth.
+
+Mother forced her rebirth early in order to save me. Mother sacrificed herself… in order to save me.
+
+Mother was now an egg… because of me.
+
+I retracted my conciousness from my dantian and looked at the fire blankly. The silence that surrounded me broken by the sound of my heart.
+
+My breathing had turned heavy, and tears swelled up in my eyes. But I held back. What would crying achieve? What would mourning achieve?
+
+The only thing in my mind were the scenes that led up to that moment. I killed and plundered, and spent time with Mother. She assured me that everything would be okay, that she was strong enough, that we would be safe.
+
+But what was the end result?
+
+The flame in front of me grew bigger, lighting up more of the cave. Now it was incredibly obvious that the walls had been mde by melting away the rock.
+
+As my gaze fixated on the molten parts of the walls, I imagined the scene. Mother’s flaming body, carrying me away toward a safe place far away from the cultivators. Digging through the mountain before her flame extinguished.
+
+Her essence had turned into an egg, and by some miracle, either intentional or not, it ended up in my dantian.
+
+And all of it happened because of them. Those cultivators… their attacks, their actions, their faces… I will remember them in my heart. They came prepared to kill Mother, they came to hunt Mother. Unforgivable.
+
+Unforgivable, completely unforgivable and iredimible. They killed my siblings, they chased us away, then they hunted us to the end of the continent. Not to mention the fake Phoenix, it was filled to the brim with Phoenix Essence.
+
+One of my kind has been sacrificed for an attack against our own. Unscrupulous, shameless, unforgivable, evil!
+
+How would Father react to that? Father… Mother told me to find him. He should know what to do, and help me get revenge.
+
+That Nascent Soul old man and those Golden Core and Core Formation cultivators would pay dearly for what they did. They weren’t even sure if we were the ones that killed the humans, they could have talked with us the entire time, but… but… but… they decided to kill us.
+
+Then that bastard he… he tauned me, he taunted MOTHER. He took pleasure in killing sealing her away, in trying to seal me away, in slowly killing her under my gaze.
+
+The flame I conjured grew bigger and out of my control, but it didn’t hurt me. My own fire could not bring me harm… but as it turned out my actions did.
+
+I gritted my teeth, and if I had fists I would clench them until my palm bled. The pain I felt in my heart… it was familiar. The feeling of loss wasn’t foreign to me.
+
+Neither was the resentment growing inside my heart. My actions? I paid the consequences, and did so dearly, and now it was time for the rest of them to pay as well.
+
+Just as that thought crossed my mind, and just as my resolve had hardened, System spoke to me once again. I read its dialogue box, my eyes widening as I endured staring at the bright flame.
+
+I couldn’t believe it.
+
+[System Update has finished successfully.]
+
+[All the necessary requirements have been installed.]
+
+[Conditions have been fulfilled]
+
+[Welcome to the Nemesis System, Fa Xiaolan]

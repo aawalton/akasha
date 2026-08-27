@@ -1,0 +1,275 @@
+---
+id: c3c7a694-5754-53ee-9545-723063f1534e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 87 – Island of Corruption"
+slug: 0087-chapter-87-island-of-corruption
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 87
+ownLength: 1985
+unit: words
+publishedAt: 2026-02-20
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3073410/chapter-87-island-of-corruption"
+royalRoadId: "3073410"
+---
+
+"It appears we do not need to fear the fog," Morgana announced, watching Liora rain down her Winds of Purification. "This is why it's important to feed those who help you."
+
+Her crew looked confused at first, but then cheered.
+
+"Thank you, monster bird!"
+
+"Oh, I can finally breathe again."
+
+"Did anyone save some more of that shark? I think we might need more purification from the bird."
+
+"I'm surprised they didn't attack," Cee muttered.
+
+"So am I, to be honest," Liora said and hid back into the crow's nest, taking her magpie form.
+
+Well, your monster form isn't very monstrous yet. You're just an oddly colored eagle. Also, the show of goodwill goes a long way. You gave them the one advantage they didn't have, and it's certainly something Morgana appreciates.
+
+I just hope that my goodwill holds up.
+
+As long as they need you, it will. Also, equip your Necklace of Sunpeak. You need to recover your mana.
+
+Renir was right there. This one spell used up more than a third of her mana, making it one of the most demanding spells that she had. It was understandable why—the area it affected was large, and the effect was very potent, clearing all of the nasty fog away.
+
+Oddly enough, the purifying wind seemed to linger on the ship as they sailed. She didn't understand why, but it turned out that the fault lay with the barrier the mage had set up. It kept the purifying winds inside.
+
+Unfortunately, the mage couldn't keep up the barrier while they sailed, so soon her purification was gone and the monster once again charged at the ship. They returned to the same routine as yesterday, with Liora and Cee doing as much damage as possible underwater, without bothering to hide anymore. But the adventurers finished off the monsters that made it onto the ship.
+
+Liora also tried to collect the glimmerstones, although it was much more difficult. Footsharks weren't fast swimmers, so Liora could have easily avoided those. But currently, most of the enemies they faced were fishpeople. Not mermaids, but ugly, ugly fishpeople.
+
+They had vaguely humanoid bodies, including stubby legs, but their bodies were covered with fish scales, and their heads looked like fish heads, not human heads. Some had a head of a herring, some of a shark, but some even looked like eels. Utterly repulsive.
+
+Unfortunately, they were fast swimmers thanks to webbing on their feet and hands and some kind of skill that allowed them to propel themselves forward in short bursts. Liora had to be careful around them so they wouldn't catch her or Cee.
+
+There were times when the fishpeople were deliberately trying to prevent her from resurfacing, likely hoping to drown her. Thankfully, with her underwater limit increased to half an hour, this wasn't an issue.
+
+Cee would disrupt the fishmen with her web, and Liora was able to power through and return to the air. After that, the fishmen followed her only to be met by one of the many Morgana's bullets.
+
+While this was tedious and getting to the shore was an absolute nightmare, eventually they succeeded. The moment the ship was close enough to the island, Morgana dropped the anchor, and the mage set up another barrier to give everyone a moment of respite.
+
+"Okay, let's take an hour break. Get some food, drink some water. Birdie, set up a purified zone for us. It's difficult to breathe here."
+
+Liora had to use all of her remaining mana to do it, but she figured that in about an hour, with the help of her necklace, she would recover most of her mana anyway.
+
+[Your skill <Purify> has reached [Adept] level.]
+
+In the meantime, she could admire her new and improved profile.
+
+[Profile]
+
+Name: Liora
+
+Species: Lumenwing Aethral
+
+Level: 17
+
+Health: Average
+
+Mana: Moderate
+
+Glimmerstones: 674
+
+Skills (11/12):
+
+Mimicry [Legend]
+
+Lunge [Expert]
+
+Skypierce [Adept]
+
+Air Slash [Expert]
+
+Fade [Expert]
+
+Mana Conversion [Adept]
+
+Poison Shot [Adept]
+
+Holy Light [Adept]
+
+Wind Blast [Novice]
+
+Purify [Adept]
+
+Featherflash [Basic]
+
+Traits (11/12):
+
+Twilight Vision [Legend]
+
+Treasure Sense [Adept]
+
+Aerial Agility [Expert]
+
+Glimmerlust [Adept]
+
+Shadow Glide [Expert]
+
+Inventory [Novice]
+
+Magpie Disguise [Adept]
+
+Poison Resistance [Adept]
+
+Fluid Flight [Adept]
+
+Paralysis Resistance [Novice]
+
+Frost Resistance [Novice]
+
+Next Evolution: Requires Level 40 and ??? Glimmerstones to unlock
+
+Wait, I have a new skill? When did that happen?
+
+Must have been at some point underwater, likely when you reached Level 15. It was so hectic there that even I could barely understand what was happening.
+
+Yes, I suppose that must be it. Let's see what it does.
+
+[Featherflash – Flash your feathers so brightly that it briefly blinds your enemies. At [Basic] after the flash, you turn into an intangible mote of light for 3 seconds.]
+
+Wow, that's an amazing skill!
+
+It truly is. Not only do you blind your enemies, but you can also avoid all damage for 3 seconds. If well timed, this could save you from attacks that would otherwise kill you.
+
+Liora nodded in satisfaction, quite pleased that she had chosen this evolution. Even if she hadn't dropped Renir into the marsh, this skill alone would make the evolution worthwhile.
+
+"You look quite happy," Cee noted, scuttling from place to place, looking somewhat giddy.
+
+"Yes, I unlocked a very strong defensive skill. Let's me blind enemies and avoid damage for 3 seconds," she explained.
+
+"That's amazing! But I got even more amazing news." Cee was nearly vibrating with excitement.
+
+"Evolution?"
+
+Evolution?
+
+"Evolution!" Cee confirmed, waving her front legs in the air.
+
+"Hmm… But Morgana said that we get only one hour break. That's not enough time to evolve," Liora said dejectedly.
+
+"Aww… No! I want to evolve before facing the shapeshifting skin freak. It's three evolutionary tiers above me!"
+
+Liora thought about it.
+
+Would it be possible to convince Morgana to delay for a day or two?
+
+Maybe. Depends on what mood she is in and who is asking. She would definitely deny me, but perhaps a bird would be more successful at convincing her.
+
+Okay, I'll turn into my magpie form to appear less threatening—
+
+No, go as an eagle. Morgana can't stand cute things. Trust me, I've tried to bribe her before. A fierce eagle would suit her tastes more.
+
+"I'll go speak with Morgana," Liora said.
+
+"A-Are you sure? What if she shoots you?" Cee asked fearfully.
+
+"Nah, I don't think she will. I'm too useful."
+
+She took her large form and flew down, landing on the ship railing right next to where Morgana was standing.
+
+"Oh, you've actually decided to come down, stealthy bird?" Morgana said, looking at Liora with interest.
+
+The adventurers nearby tensed, looking at Liora like she would claw out their eyes at any moment.
+
+"That's a big bird…" one of the crew said.
+
+"Only if you view it as a normal bird. We've fought monsters bigger than this one."
+
+"True, but still… I've never seen one so close without it trying to eat me."
+
+"I have a request," Liora said, making everyone, even Morgana, widen their eyes in surprise.
+
+"You talk!" The Captain said.
+
+"I have Mimicry," Liora explained.
+
+The mage stepped closer. "Birds are already naturally good at mimicry. It's not a stretch to say a monster with a dedicated skill would be able to talk."
+
+"You really are an interesting bird. What is your request?" Morgana demanded.
+
+"Delay the attack for a day or two."
+
+"Why?"
+
+"My spider friend is about to evolve. After evolution, she'll be stronger and able to better contribute to the battle," Liora explained.
+
+"So there really is a spider on this ship…" one of the female adventurers shuddered.
+
+"Hmm… that's interesting. But why should I let you? We can likely handle the monster on the island just fine even without your spider friend evolving," Morgana countered.
+
+Liora shook her head. "It is very likely to be a skinweaver."
+
+Several older members of the crew shuddered, hurriedly spun around themselves three times, and spat on the deck.
+
+"Hey! What's with the spitting? You're going to clean that!" Morgana hollered.
+
+"Sorry, Captain! But skinweavers are among the most dangerous monsters out there. Some would consider them even stronger than dragons, as they can change their form into anything they devoured."
+
+"Not to mention that they are mind-readers too, able to figure out your deepest, darkest fears and use them against you."
+
+"Ha! He can't do that if I have no fears to begin with!" Morgana laughed boisterously.
+
+"Captain, if the monster we're facing really is a skinweaver, then I believe it would be right to wait. Not for the spider, but for us to make proper preparations. Figure out everyone's weaknesses and what the monster turns into to take advantage of that," said the older adventurer, with many scars and a crossbow for his weapon.
+
+"Hmm… I suppose it wouldn't hurt to take some precautions for the crew's sake. Elric! How long can you keep up the barrier?" Morgana asked the mage.
+
+"A day and a half at most, and I'll need at least two four-hour stretches to sleep," Volt answered.
+
+"That's doable," Morgana agreed, then turned to face Liora. "Your friend has a day and a half to evolve. Got it?"
+
+"Thank you! I shall keep the air around the ship purified during that time."
+
+With that, Liora flew back to the crow's nest and told everything that had transpired to Cee.
+
+"Seems to me like they are doing this more for their sake than mine, but I'll take it. Although it is a day and a half, is it long enough? Your evolution took longer than that."
+
+"I don't know…"
+
+It depends on how much Cee's appearance is altered. Yours changed quite substantially last time, so it took a long time. If Cee stays relatively the same, then the evolution will be quicker.
+
+Liora conveyed Renir's words to Cee.
+
+"I see. I'd like a more humanoid form, but who knows if I'll even get one."
+
+"Why don't you just check?" Liora urged, also curious what the system might offer to her.
+
+Cee nodded, then turned her attention to the system screen in front of her. "First, Prismweaver Spider. Oh, this one is pretty cool. It allows me to combine multiple elements within a single web and automatically unlocks magma webs."
+
+"That sounds really strong!" Liora noted.
+
+Very high potential. Never met a monster like that, but I imagine Cee would be a force to be reckoned with.
+
+"Next is Shadowsilk Archnid. It appears it adds a darkness element to all my web, making them harder to spot and also poisonous. Basically, anything that touches my web just dies."
+
+"That's scary. I don't want to train with such webs."
+
+"Maybe we can unlock dark resistance with it," Cee said with an evil glint.
+
+"No! Keep going!"
+
+"Okay, okay. Don't be such a scaredy cat. Next is Manadrain Weaver. My webs would drain mana of anything caught within them."
+
+"That sounds cool, but you don't really have any skills that require a lot of mana."
+
+"Not really. I don't remember ever running out of mana. As sad as it is. Ughh! I just want magic, but none of these really do that!" Cee flailed her front legs in frustration.
+
+"Check the secret evolution," Liora urged.
+
+"Secret evolution?"
+
+"Yeah. I had unlocked it twice. Maybe you have something too."
+
+"I didn't even know that was a thing. Let me check," Cee said, her eyes focusing on the screen. "Sigilweaver. It…"
+
+Cee trailed off and began scuttling about in excitement. "Oh, this is perfect! I love it! I love it!"
+
+"Don't keep us in suspense! Tell us."
+
+"You know what. You'll see once I evolve. Keep me safe!" Cee said, and quickly wove a cocoon, going into evolutionary stasis.
+
+No! You can't do this! I want to know what Sigilweaver does.
+
+Me too! Cee will hear an earful once she is out.

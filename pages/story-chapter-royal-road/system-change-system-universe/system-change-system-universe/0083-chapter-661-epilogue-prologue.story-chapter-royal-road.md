@@ -1,0 +1,127 @@
+---
+id: 5f6477e8-6bfc-5959-bbb3-0f5b6bd6a58d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 661: Epilogue/Prologue"
+slug: 0083-chapter-661-epilogue-prologue
+partOf: system-change-system-universe
+position: 83
+ownLength: 2512
+unit: words
+publishedAt: 2026-06-25
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3591427/chapter-661-epilogueprologue"
+royalRoadId: "3591427"
+---
+
+Chapter 661: Epilogue/Prologue
+
+Book 9 Epilogue: Resonance
+
+A blur moved from tree to tree in the dense forest. The rustling noise stopped momentarily as the figure paused to check the surroundings. Hearing the rushing of footsteps through the forest and the shouts of men and laughter caused a sadistic grin to appear on the figure's mouth.
+
+"Quick! I think she went this way!" one of the men chasing the figure called out.
+
+Oh... I definitely went this way, Alanah thought, her long nails, sickly pale skin, unkempt dark green hair, and ferocious shark-like teeth making her look menacing as she ran her tongue over them. She'd had both good times and bad since arriving in her new system. The status screens and notifications were almost identical to the ones from the Davenresh System, so there wasn't a learning curve for her there.
+
+She did unlock a new stat called Affinity, which Derek had already taught her about without officially teaching her. It was helpful to see that her Affinity wasn't actually just vibration like she'd believed—it was actually called Resonance. At first, she thought it was just another word for vibration, but as she considered her past, it made much more sense.
+
+Vibration itself shouldn't have been so hard to control when it came to affecting those around her just by speaking. And when she leaned into it to force mind control, she was forcing their thoughts into alignment with her own—dragging their minds into her resonance. The more she thought about and studied it after arriving in her new system, the more fascinated she became.
+
+As she understood her affinity better, her skills—which were already at level 20 before coming to the new system—grew stronger without gaining any extra levels. She'd thought about how two people with the same skills and same level could fight, yet one person would always come out on top—their skills would seem more powerful than the others. It was obviously because the winner had a deeper understanding of their own affinity—even if they did not know that was what it was.
+
+Her resonance was also the reason she'd unlocked the Dawn Siren class. As she understood it after dwelling on it for some time, all the years spent next to that Echoing Willow World Boss had shaped her. She hadn't only endured its presence for so long. She'd resonated with it. That influence from the beast had pushed her resonance affinity far ahead of all others. She'd thought she'd just gotten its vibration affinity or something, but in reality, it was much, much deeper than that.
+
+Unfortunately, she didn't have time to worry about all of her newfound revelations at the moment. She was being chased by a bunch of bastards who needed to be hung by their feet and filleted. No... she thought. The siren thoughts after her Metamorphosis were still occasionally hard to control—especially when she didn't wholeheartedly disagree with them.
+
+Her initial time on planet Virexi and in the Malrik System was pleasant enough. Not to brag, but her beauty, even on a different planet and in a different system, was still top-tier. And for someone like her, she could take advantage of that. However, she was no longer one of the strongest system users on the planet. From the information she had gathered, her level could now reach all the way to level 500, and there was a class rarity called Ascendant that was spoken of like the Mythical Class back in the Davenresh System.
+
+One more advantage she had after arriving was the fact that her class had been upgraded to Mythical and changed to Resonant Dawn Siren. Ascending certainly came with a number of perks. Still, she hid the fact that she had ascended from a lower system from anyone she met. She wasn't sure how others would react, but based on the research that she had done, it was not a normal occurrence.
+
+Luckily for her, she looked very similar to any of the other half-elves, and she had ascended to an area where half-elves weren't looked down on or persecuted. It took her only a few weeks to fit right in. She had joined a few hunting parties and impressed others with her skills at her level—especially since she was diving deeper and deeper into her affinity.
+
+Yes, her beauty opened plenty of doors, but it also came with its fair share of issues. The biggest issues? The disgusting pigs from entitled noble families. Some things just did not change. She never officially joined a hunting or dungeon party—only temporarily. After all, it was hard for her to trust people she had only just met without gathering all the information she could about them first, and she no longer had the resources to do that.
+
+All of that showed when the second dungeon party she had been with for a week turned on her at the behest of a lecherous noble boy—a now dead, lecherous noble boy and a dead dungeon party. Alanah didn't deal with betrayal well.
+
+But, as it goes, ripping the heart out of one of the heirs to a noble house was a sure way to make some enemies. Not even the temporary team she was on knew about her Dawn Siren transformation, so they were just as surprised as the young man when they died.
+
+It had been a couple of weeks since then, and she had taken to living in the easiest place for her to hide... and hunt. The forest was thick and massive. There were beasts inside that would cause the Echoing Willow to shake in its roots. It was perfect for someone who had raised herself in the face of such dangers before. She had no problem doing it again while she learned more about herself and her affinity.
+
+"Over here!" the voice shouted again, and the transformed Alanah smiled deeper. They had completely missed her and gone toward the decoy route she had made.
+
+Always keep the healers and support in the back, she thought as she watched the group of twelve pass by. I love team and dungeon logic... so predictable. She wanted to chuckle—the siren in her wanted to chuckle. But she held it back as she silently fell from the tree she was hiding in and wrapped her clawed hand over the healer's mouth before running her other hand horizontally across her throat.
+
+She quickly stored the corpse and caught the two storage rings that had fallen from the healer's body before they clanged to the ground. Then she disappeared. Another one down and two more storage rings. She sighed as she moved far away from the hunters—closer to the rulers of the forest. She walked over to a massive tree that was as big around as a small house, then closed her eyes and began resonating.
+
+After that, she walked directly into the tree and instead of hitting it, she phased through it. Inside, she had hollowed it out and made a rather cozy living area. Alanah tossed the two rings onto a carved table that was still connected to the tree, then sat in a very comfortable reclining chair.
+
+After deactivating her Metamorphosis: Dawn Siren skill, her hair returned to its striking emerald green, her skin turned from sickly pale gray to a beautiful, almost porcelain shade, and her teeth no longer looked like those of a beast. She pulled the footrest out, then sighed as she looked at the low ceiling. "I wonder how Derek and the others are doing now. Surely he's ascended by now..."
+
+***
+
+Book 10 Prologue: Battlelust Frenzy
+
+In the center of an abandoned outpost on an abandoned planet, roars, shrieks, yells, and grunts could be heard constantly. These sounds continued on for hours and hours as wave after wave of beasts charged in. The bigger beasts—those that could be considered 'boss monsters'—had more intelligence than the others. Still, they charged in and paused in confusion when they did.
+
+It was a massacre—bodies strewn everywhere, some chopped into pieces well after the creature had already died. A shriek resounded from the sky, and a massive hawk-like monster landed with a crash on top of an already large mountain of corpses.
+
+From a distance, a pair of travelers stared in shocked silence as monsters completely ignored them and stampeded toward a dust cloud.
+
+"What is going on over there?" a young woman in a green robe asked the older man standing next to her. The man wore a set of glossy black and white armor and had closely shaven salt-and-pepper hair.
+
+"Such a deadly aura," the man ignored the girl's words and just stared at the scene.
+
+"Aura? From one of the beasts? Did it call everything there just to get slaughtered?" the young woman asked.
+
+"No..." the man said as he narrowed his eyes. "I don't think it's a beast, but it is for sure a monster..." he muttered.
+
+"Not a beast? But a monster?" The woman looked up at the man. "Kitsch... I don't understand what you are trying to say."
+
+"I am saying that at the center of all that chaos inside the sandstorm, there is a person," the man spelled it out to the young woman.
+
+"No way!" She covered her mouth with her hand, and her eyes went wide. "A person in the middle? It has to be an escort, right? Kitsch... if you were in the center of that storm, would you be okay?"
+
+"I would survive," Kitsch said. "I doubt I would be okay. And I wouldn't be able to fight them all without becoming overwhelmed. But I could at least escape."
+
+"But you're saying there is a person there, and that person isn't trying to escape?"
+
+"That is exactly what I am sensing," the older man said. "And the aura is only growing stronger and stronger. It's such an anomaly."
+
+"Wow..." the young woman said as she stared. Then, she suddenly took a single step forward before Kitsch reached out and pulled her back to him. He spun her around and looked into her eyes. The whites in them were slowly becoming bloodshot.
+
+"Oh, shit!" the older escort half-shouted, then grabbed his charge and rushed back—away from the storm ahead of them. When he felt he was far enough away, he set her down and looked back in the direction of the storm. In a silent voice, he said, "The aura is drawing the enemies to it. It's causing them to rampage—to want to battle. I can feel it trying to pull me in, too. It may not have started that way... just what is going on over there?"
+
+"Kitsch! Why did you pull me away? I wanted to get closer and see what was going on!" she shouted at her escort.
+
+"Because I don't want you to die," he answered. "And though I don't think it would affect me to the point of losing my senses, whatever is being released with that aura would certainly pull you in to fight." A sudden thought flashed through Kitsch's brain, and he frowned.
+
+"Yasmine," the escort said. "Were there any mentions of Battlelust users joining the training mission this time around?"
+
+"Battlelust? No." Yasmine shook her head. "Why would one of those maniacs be on this planet? And would someone volunteer to escort such a person, anyway?"
+
+"I... don't know..." Kitsch said, but he couldn't shake the feeling that the aura he was sensing was something related to Battlelust. He'd never felt it himself, but everyone had heard rumors of the battle maniacs. Most ended in tragedy for the user, but some ended in tragedy for anyone around them. Most users didn't live long, but some were the oldest, most feared users in the universe. He just wished he knew what kind he was currently looking at.
+
+As the duo stood and watched the sandstorm, a number of hours passed, and the storm finally began calming down as the flow of monsters decreased. "Looks like the aura has hit its reachable limit," he said with a sigh. The man looked around, then closed his eyes and tried to sense any enemies or monsters, but it seemed that the area they were in was completely deserted.
+
+After steeling himself, Kitsch drew his sword and said, "Come on."
+
+"What? We're going? There?" she asked with both fear and excitement in her eyes.
+
+"We shouldn't..." he said, but he absolutely had to know. The curiosity was killing him. He flicked his wrist, and a plate appeared in his hand. He held it out and told Yasmine, "Take this. At the first sign of trouble, activate it and go home."
+
+"But what about you?" his charge asked.
+
+"I'll be fine," he said. "If all else fails, I can run away and find another group to hitch a ride home with. Nobody on this planet would turn someone from your family away."
+
+"Okay!" the girl said as excitement flashed through her eyes, and they began walking.
+
+Kitsch traveled slower than he wanted to because he wanted to give the situation some time to settle. But soon enough, they arrived at a mountain—a mountain of corpses. Standing at the base, Kitsch looked up only to see a figure with steam roiling off it. The figure was holding the corpse of one of the strider monsters in its hand. It tossed the monster away, then looked down at them.
+
+As soon as the crimson eyes met Kitsch's, the older man shuddered. He watched as the figure held its other hand out, and the mountain of bodies began shaking. Soon, an oddly shaped blade shot out of the mountain and landed in the figure's hand. The crimson figure tilted its head to the side, licked its lips, and in a grumble, said, "Enemy?"
+
+Kitsch opened his mouth to speak, but he couldn't. What was he supposed to say? Would the figure believe him if he said he was just curious? He looked to Yasmine to tell her to activate the plate, but before he spoke, she did.
+
+"No! Not enemies! Did you do all of this? Soooo cool!" She looked up and down at the mountain of corpses. "Just how many did you kill? I bet there's nothing left for miles in this area. Even the underground larvae are out of the ground and dead. Are you an escort?"
+
+"Yasmine!" Kitsch hissed for her to keep quiet, but she was just too excited.
+
+"Not... enemy..." the figure growled as if that was all it had heard. Then, surprisingly, before their eyes, the crimson-skinned ghoul shrank. The steam stopped rolling off its body as much, and the skin turned closer to pink than crimson. Soon, they were faced with a bald-headed man wearing nothing but a strap of clothing over his privates. He still had a feral grin, and he seemed to be holding some kind of partial transformation, but he certainly looked exhausted. "Do the two of you have any water? I lost my storage rings somewhere in this fucking mess."

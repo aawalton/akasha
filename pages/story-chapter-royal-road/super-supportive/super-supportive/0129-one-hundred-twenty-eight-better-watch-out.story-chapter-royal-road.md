@@ -1,0 +1,746 @@
+---
+id: 7728693f-abf7-59d2-8c1a-7524a72cf65e
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED TWENTY-EIGHT: Better Watch Out "
+slug: 0129-one-hundred-twenty-eight-better-watch-out
+partOf: super-supportive
+position: 129
+ownLength: 6943
+unit: words
+publishedAt: 2024-03-21
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1562484/one-hundred-twenty-eight-better-watch-out"
+royalRoadId: "1562484"
+---
+
+128*******
+ 
+ 
+ 
+From the very beginning, there was something ugly about it
+
+
+Alden’s team was missing a core piece. They were worried, nervous, and not sure what they were supposed to be doing now that all of their plans had been upset. And the personalities of their opponents added an additional element of tension that hadn’t been present in any of the previous matches.
+
+
+The members of Team Vandy/Marsha who had been grim from their earlier losses suddenly felt like they had a chance. Maricel’s absence put a couple of them in a much more optimistic mood. They were excited by the fact that they wouldn’t be going up against one of the class’s most powerful students after all, and they were too self-absorbed to hide it.
+
+
+Jerkasses, thought Alden, surfacing in the water tank and gulping in a few breaths before he grabbed a third float and plunged downward again.
+
+
+Vandy had been upset about Maricel, of course. They were on their way to being friends if they weren’t there already. But Marsha…
+
+
+Alden gritted his teeth and kicked furiously toward the bottom of the tank, shoving the float ahead of him.
+
+
+Even if Maricel hadn’t gone missing, even if he and his team members weren’t all a little anxious for her, he still thought they would have struggled in this race more than they’d originally expected.
+
+
+There’s something brutal about these guys, and the fact that they have no clear plan of their own fucks up all of our attempts to make plans that counter them.
+
+
+Case in point: the game was around halfway through, and Alden was currently doing Jeffy’s job. That hadn’t even been on their radar as a backup backup scheme.
+
+
+Things had been weird like this the whole race, starting from the second the other team hit the gym. It was more like they were forcing their way down the course instead of running it, trying to keep up with Marsha, who was so hellbent on getting first attack that she practically carried the class’s one and only Vocal Brute to the finish line and tossed him over it.
+
+
+Alden’s team hadn’t been lagging too far behind despite everything. They’d decided to send Astrid and Njeri over the line first to give themselves some attack options, and Alden had just finished putting the two of them, along with Jeffy and Reinhard, up on top of the wall when the other team’s bell rang to announce that Marsha had earned them the right to attack.
+
+
+“Okay,” Haoyu had said. At that time, he and Lexi had taken a position on the floor at that end of the weights with the intention of forcing incoming enemies to confront them rather than running through toward the people on the wall. “Let’s be wary. The smart thing for them to do would be wait until they had two attacks available so that they could…or not. Here she comes!”
+
+
+Marsha had run straight at the two of them, thrown her weapon into the air high over their heads before she reached them and used her reverse recall to fly up toward it, gaining enough altitude that Writher only managed to sever an aglet from one of her shoelaces as she passed. She and the polearm—in spear form—hit the floor on their side of the course hard enough that she had to be at least slightly injured. But you wouldn’t have known it from the way she sprang up again and dashed for the wall, where Alden was standing at the base. Even if he had been fully rested and holding a large shield, he wouldn’t have been foolish enough to think he could take an S-rank Meister’s strike dead-on. He didn’t want to lose the use of his skill for the rest of the game, so he opted for death.
+
+
+Or he opted for what would have been his death if Marsha was a player who cared about winning more than her own personal agenda.
+
+
+Alden dropped preservation on his paracord, and flung a temper sphere at her as she approached. Because why not try everything? Then he dove under the tip of the spear and at her knees as she reached him.
+
+
+His first thought was, I can’t believe I managed to grab her before she stabbed me.
+
+
+His second was, Oh God. It’s like I’ve grabbed a bear.
+
+
+Marsha didn’t even stumble. She just plowed right through him and over him, which didn’t count as an attack on her part since he was the one who’d thrown himself in front of the freight train and she’d made no move at all to injure him. Alden rolled across the floor, gasping, and looked up to see Marsha scaling the wall with another toss of her spear.
+
+
+Reinhard shot her twice, going for injuries rather than kills because an injured Marsha was way better for them. She had one dead arm and one half-functional one when she leaped past him and into their tank.
+
+
+To attack Jeffy. In the water.
+
+
+She probably could’ve taken out Astrid and Njeri, who were also in the tank right then, with one swing. She could’ve taken out Reinhard or Alden as she passed. Instead, she took a ton of injuries, let a very confused Jeffy drag her down to the bottom of the tank, and then attacked him after she was on the verge of drowning. For what was basically a murder-suicide that managed not to violate any rules.
+
+
+Killing yourself was a no-go, but being reckless in your pursuit of a target wasn’t.
+
+
+Jeffy was upset in the immediate aftermath, but it really wasn’t his fault. None of them had given him advice on what to do if an enemy came into the tank with him, and the last thing he’d heard Reinhard shout through comms was ‘I’ll make sure not to kill her.’ So he’d wavered, not sure what the right thing was. That skill of Marsha’s that released an invisible strike had speared him in the chest.
+
+
+“That was insane,” Astrid said after it was over. “If she had to take out an S, why didn’t she go for Lucille first?”
+
+
+Lucille was on the ground at the frozen fire obstacle, guarding Everly. She was a much, much easier target than Jeffy.
+
+
+Reinhard was angry with himself. “I should’ve shot her lethally. I could have. We just agreed to go for injuries, and I thought arrows to the shoulders would be plenty—”
+
+
+“It’s fine,” said Haoyu. “Shake it off, everybody. Especially you, Jeffy. That was basically a wasted attack for them since Marsha’s going back to start, too. Look how annoyed Vandy is.”
+
+
+Vandy did look very displeased. She was sitting up on her team’s monkey bar obstacle, brow furrowed and talking fast.
+
+
+“Don’t worry so much,” Marsha responded on her way out of the gym. Her voice was loud enough to carry. “Their team only has one S-rank with Maricel gone.”
+
+
+At the time, Alden wondered, rather naively, if she’d misspoken. But no. The next several minutes had shed light on the matter.
+
+
+Marsha, who seemed to have an interest in taking down other S’s that bordered on obsession, didn’t want to bother with Lucille. On her next attack, she took on Jeffy again, before he could make it back to the water. That time he was ready, sort of, and managed to grab hold of her and chant something as he “died.”
+
+
+“What the hell was that?” she’d asked when the spell did absolutely nothing obvious. “What spell impression did you take?”
+
+
+“That’s not going to work on her,” Reinhard had said with a groan. “With her skill…why didn’t he just punch her?”
+
+
+He was struggling a bit with the fact that he couldn’t successfully attack over there himself. High winds were such a good counter to arrows that it wasn’t worth wasting a shot, and he would be confining himself to defensive shooting.
+
+
+Their next best attacker would have been Maricel. In her absence, they were going with an unusual combination.
+
+
+When they’d earned their first two attacks, Lexi crossed over to the enemy course with Everly. His job was to use his one attack to protect her from whoever tried to interfere with her while she cast her slick ice patch over the ramp that led up to the area where the tonne and half-tonne weights had to be dropped.
+
+
+It was Everly’s most powerful spell, and the ice it created was a bit more arcane than the sort humans regularly pulled out of a freezer. She’d used it a few times versus Instructor Klein, and the stuff was a menace. There was no running across it, only sliding, and it resisted melting and destruction. The other team would have to cajole Marsha into using her weapon to break it up if they wanted to get weights up the ramp again.
+
+
+The hastily-developed plan went well enough. Everly got the ice down and got away. Lexi got killed but managed to wrap Writher around Mehdi’s arm and fling him skyward first.
+
+
+Everything was going well enough if Alden compared their team’s progress to the other’s. The race was just chaotic, difficult, and increasingly bitter.
+
+
+As he headed down into the depths of the tank with yet another float, the world went quiet except for the sound of Astrid and Haoyu encouraging everyone through comms.
+
+
+They were doing their best to counter the negativity and confusion with good attitudes and constant callouts about what was going on…which couldn’t be that easy to keep track of since Vandy had, at long last, gotten fed up with Marsha. After that last risky assault on Jeffy had carried the polearm-wielding Meister right past juicier targets once again, Vandy had started trying to direct the team without any further regard for her most zealous teammate’s attacks.
+
+
+Instead of letting Marsha run in a third time, she’d taken her own shot and blown Reinhard right off the top of the wall with a powerful burst of air. He’d survived the long fall with such a heavy movement restriction that Haoyu had had to come carry him to the finish line.
+
+
+Vandy deciding not to let Marsha have her way by working around her seemed to have blown any last remaining crumb of team cohesion apart. It was a free-for-all over there, with some of the group thrusting toward the finish line with almost zero help and others waiting for the sound of the bell to claim the next attack.
+
+
+“They’re losing,” Haoyu called. “I know it’s stressful right now, but just remember that the way they’re playing is going to make them lose even if it is making our own strategies…kind of useless.”
+
+
+He’d pushed Reinhard over the line a while ago, and now he was heading to pick up Everly and move her through the course. With Vandy having proven herself willing to attack, they had to take her into consideration as well now. The higher, more precarious positions like the rope climb, the bars, and the top of the wall could become death traps.
+
+
+Haoyu had a spell impression that made him less likely to be knocked off his feet by blows. He seemed a little sheepish about it because it was a much weaker version of talents his parents had. But it was strong enough to help him resist Vandy’s wind, so he’d be making sure Everly didn’t get taken down on her way to the finish.
+
+
+“Lucille, are you good?” Astrid called. “You’re sure you’re fine to move the weights one more time for Jeffy to come through when he’s done running track?”
+
+
+“Yes,” she said softly.
+
+
+Under the water, his feet hooked under one trap to keep himself submerged while his fingers flicked open the catch of another, Alden winced. Even that single word reply sounded downtrodden.
+
+
+Lucille had launched herself into Marsha’s path to protect Jeffy from that last assault. She’d made it there in time with an explosively powerful leap, but then her tackle and the toss that sent Marsha back toward her own course had been…rather gentle. Especially for an S-rank grabbing and throwing another S-rank.
+
+
+Gentle enough that Marsha had managed to complete her swing and kill Jeffy for the second time.
+
+
+Gentle enough that Winston Heelfeather had seen it and suddenly decided he could get in on the offensive action, too.
+
+
+His team’s Object Shaper was over there on their course quietly turning all of the miscellaneous objects he’d brought into very sharp miscellaneous objects. He’d done the same on their last run. He seemed to want to attack people with them, but he never got around to actually doing it so maybe it was just his way of staying out of his more aggressive teammates’ paths.
+
+
+When their bell rang for the fourth time, Winston had snatched up a wind chime that had been turned into something more like a razor sharp sickle. He’d ordered up a speed zone from Max, run at Lucille, dove dramatically across the floor, and sliced her calf.
+
+
+Now she was moving the weights with a bum leg, she sounded like she was near tears, and Winston was watching her like a hawk, clearly hoping he’d get another shot.
+
+
+“Vandy’s sending Max back out to the track again,” Astrid reported. “He’s jogging that way.”
+
+
+“This is so stupid,” Lexi spat. “It’s like trying to figure out what a bunch of over-energized toddlers are going to do with their superpowers next.”
+
+
+Max was doing what he’d sworn he would do and following instructions. Everyone’s instructions. And because his team had nothing like organization since Vandy’s break with Marsha, people were countermanding each other all the time.
+
+
+Vandy would send Max out to the track to lay down a trap; obviously she thought that her team should’ve been using him that way from the start. Then Marsha would catch on and order him back because she didn’t want him to take one of her attack slots. Or Winston would call him back to lay down another speed zone in front of him, ostensibly so that he could attack faster or run back and forth through the fire. Alden was sure it was really so that he could run as fast as Finlay while he put on a cool expression for the camera.
+
+
+As a result, Max was spending half his time running back and forth uselessly and the other half casting spells that benefited one or two people for very specific tasks. Someone had had the bright idea of telling him to lay down a bunch of the float zones under the monkey bars, so that nobody would die if they fell off. So that spell impression was now completely gone if Alden’s count was right, and there was no benefit unless somebody on their team spontaneously lost grip strength on their way across that one obstacle.
+
+
+Now Haoyu was asking Jeffy if he wanted to use his land moves on Max, since they were both about to pass by each other outside and Max was unlikely to escape from an S-rank who gave chase.
+
+
+As long as it doesn’t take him too long, Alden thought. Even though he was much, much slower than the Aqua Brute, he was still working steadily here to keep the obstacle cleared so that they could send Everly through without waiting for Jeffy to trap all the floats.
+
+
+I was not supposed to have to swim this much. There was no permutation of the plan that called for me being the team’s swimmer. He gasped in some more air and went back to it.
+
+
+Everyone was doing their best around all the madness. He was proud of his teammates for not getting too flustered with the state of things.
+
+
+He kept going through it all in his head. It was more important to keep a mental image of their positions in mind when he was down here where he had no way to see them.
+
+
+I’m in here doing my job and staying safe from attack unless Marsha decides she’d like to spearfish for a B-rank. Astrid, Njeri, and Reinhard are over the finish line. Lucille is still pushing through the weights for us; she’s the best for it even if she is limping. Jeffy’ll be back in the gym in a minute. Haoyu and Everly will make it to me right ahead of him, and I’ll pull them all up.
+
+
+Haoyu had helped himself to Reinhard’s bow and used it to shoot arrows into this side of the wall above the tank so that Alden could climb back up to the top when it was time. Reinhard had been officially unconscious and therefore unable to complain aloud without getting in trouble, but they’d gotten some indecipherable mental texts from him that probably meant something like, “How dare you play with my bow, you swine?!”
+
+
+He didn’t mind people touching the arrows, but he was a little precious about the bow.
+
+
+The current plan, which was the dozenth they’d had in as many minutes, was for the final six team members to head over the finish line in two groups.
+
+
+First would be Everly and Lexi.
+
+
+Then Haoyu, Alden, Lucille, and Jeffy wouldn’t cross until they were all together. The four of them should be able to tackle every obstacle on the course, even if one of them was knocked out by an assault and had to be carried.
+
+
+They weren’t even going to bother trying another attack after Everly and Lexi were over the line. They were just going to run for it and get this mess over with.
+
+
+“I got Max!” Jeffy said excitedly. “I grabbed him and did the spell. Do you think he minded?”
+
+
+“I think Max has given up on minding things for the day, Jeffy,” said Astrid. “Now hurry back here! Alden is doing your job at ten percent speed.”
+
+
+Not long after that, Alden got word that it was showtime for him and he pulled himself out of the tank. He heard an all-too-familiar soft sploosh sound behind him as he climbed the few wobbly arrows up to the top.
+
+
+One of the floats had come free of its trap and would have to be put back.
+
+
+Breathing hard, he made it to the top of the wall. Lying flat on his belly so that any surprise attacks from Vandy would be less likely to knock him off, hair dripping in his eyes, he looked over the edge to see Haoyu, Lexi, Everly and Jeffy below him.
+
+
+“Hi there,” he said.
+
+
+“Your skill’s okay, isn’t it?” Haoyu asked. “Should we go up all together to save you from having to use it for longer?”
+
+
+All together was, debatably, riskier this late in the game, with attacks more likely to come in as the other team gained more finishers of their own. Alden getting knocked off the wall while he was lifting the four of them could result in kills and crippling injuries for half the team at once.
+
+
+“I’m fine. Let’s do it two at a time to be on the safe side.”
+
+
+“Lucille,” Astrid called from where she watched at the end of the course. “Be sure to shout if you see Vandy making shaping gestures.”
+
+
+Now that everyone was through the weights for what they hoped would be the last time, the injured Brute was bringing up the rear and serving as their watcher. She was up near the ceiling, clinging to the platform at the end of the bars, her strength ensuring a good grip that would keep Vandy from trying an assault on her. As soon as Lexi and Everly were over the finish line, she’d slide down the steep diagonal beam to join the final four in this section of the course. Alden would pull her up.
+
+
+And then we can wrap this up.
+
+
+He tied a large loop into the end of a length of cord and lowered it, preserving just before he reached the floor almost fifty feet below him. He pulled Everly and Jeffy up. She gave him a tired smile. “I’m ready for this one to be over with,” she said, then she splashed down into the tank with the Aqua Brute. Alden pulled Lexi and Haoyu up, feeling anxious the whole way.
+
+
+But they made it to the top, too.
+
+
+Lexi dove into the water. While Jeffy dragged him and Everly toward the bottom, Haoyu crouched beside Alden, recast his spell impression, and grabbed the back of Alden’s gymsuit in a firm grip.
+
+
+“I call this my anti-wind move,” he said quietly, eyes shifting from Vandy to Lucille and back.
+
+
+“I appreciate it. Death by falling is no fun.”
+
+
+“Sorry you had to swim the whole race.”
+
+
+“It’s fine,” said Alden. “Jeffy got to do his thing. I’m looking forward to seeing the results of it.”
+
+
+In truth, he was getting pretty tired. Speed swimming was exhausting anyway, and doing it with floats trying to drag you back to the surface the whole time was a lot harder.
+
+
+Now Lucille was coming down the beam, using the slide-grip-slide method they’d all settled on.
+
+
+[She’s cry eyes.] Haoyu sent the mental text to Alden privately. [No talking.]
+
+
+It was true. Lucille had been getting more vocal toward the end of the race against Febri/Shrike earlier, but now she’d almost totally shut down. No matter how many encouragements Astrid sent her way, she seemed to be hanging onto herself by a thread.
+
+
+[She’s angry with herself,] Alden replied.
+
+
+The team wouldn’t be this far along without Lucille. Even if all she did was the weights, it was a huge benefit. The damn things took so much time and combinations of at least two people for the rest of them to move.
+
+
+But Lucille had missed chances to take out enemies that another person with her abilities wouldn’t have missed, and she was obviously very aware of it.
+
+
+[I was afraid Reinhard was going to say something to her about it,] Alden admitted. [He looked so pissed after she soft-balled Marsha. But he let it go.]
+
+
+[Good team,] said Haoyu.
+
+
+Max ran back into the gym with a totally blank expression on his face; either he’d actually succeeded in putting a trap out there for the first time since the obstacle courses had started or he’d been re-summoned by some team member who wanted to use him stupidly. Alden watched him hit his knees and head through the tube. When he emerged, he laid down what had to be one of his last speed zones inside the fire obstacle to get through with the minimum possible movement restriction.
+
+
+“Do you think Max trapped the track?” Haoyu asked, narrowing his eyes. “They’ve got an attack. So he could have.”
+
+
+The enemy bell rang again
+
+
+It’s annoying that they have two more players than us. Then again, given their complete inability to get along, maybe more wasn’t merrier in this case.
+
+
+Lucille hit the end of the beam and limped toward them.
+
+
+Though it’s not really limping by a normal human measure. More like strength-infused one-legged bounds, that put her at the base of the wall in moments. Alden had the cord preserved and waiting for her.
+
+
+“They’ve got at least one attack for sure now,” Haoyu said. “They need to take it. Vandy could try to knock Lexi off the tightrope, or Marsha looks like she—”
+
+
+“Winston!” said Alden, spotting the speedster as he blitzed across the boundary between the two courses. Once he’d done that, he was the official attacker for his team for one turn. “Lucille, grab on! Let me get you in the air!”
+
+
+She hesitated.
+
+
+Alden thought it was because she wanted to try it. To fight back. All she had to do was hit Winston in the leg, and he was done for. The game was over. Everyone knew it.
+
+
+But she hesitated, and you couldn’t do that versus people who’d been shaped by the System to be fast.
+
+
+Alden thought Winston Heelfeather was a nasty, shallow piece of work, but he did move like a speedster.
+
+
+Like his stats are telling reality itself he has the right to move through it quicker than the rest of us.
+
+
+It had been a half-developed concept in Alden’s mind until right this second, a slightly different perception of foundation points he’d been arriving at after his last talk with the System and after watching his classmates do so many amazing things over the past weeks.
+
+
+It’s easy to forget when the power looks physical instead of mystical, but there it is, he thought grimly as the wind chime sickle Winston had stolen earlier flashed across Lucille’s throat. Winston’s using every bit of his magic, and Lucille’s scared to use all of hers.
+
+
+She leaned against the wall below him and Haoyu, a devastated expression on her face. Winston’s attack hadn’t pushed her back even a step, but his aim had been true. Alden was sure she’d just gotten a death notice.
+
+
+Winston paused and looked up toward a drone with a winning smile on his face, and Alden’s hands made a judgment call before his brain had caught up with them.
+
+
+He snatched the bag full of unused temper spheres off of himself and shook his whole supply of them out on top of Winston’s head.
+
+
+“Put that on your website,” he muttered, as Winston yelped and ducked, zipping back to the safety of his team’s side so fast that it was clear he imagined himself to be under a much more serious assault than he actually was.
+
+
+“If you hadn’t done that, I was about to jump on him,” said Haoyu.
+
+
+“From fifty feet up?”
+
+
+“I almost definitely wouldn’t die. But he might. If I hit him. Bit embarrassing if he dodged, though.”
+
+
+“Shake it off, Lucille!” Astrid called. “No big deal. You’re the fastest person we have. If you hurry, Everly’s freeze might still be in effect on the fire box when you come back through.”
+
+
+“That’s right!” said Njeri. “Get back out there. We’re almost done.”
+
+
+“S-sorry!” Lucille said, wiping her eyes on the back of her sleeve. “I’ll hurry!”
+
+
+Alden was relieved she was still moving. He’d been afraid for a second that she was going to give up.
+
+
+“Aw man,” he said as he watched her go. “The track…”
+
+
+Haoyu looked at him. Then he groaned. “Max.”
+
+
+Alden nodded. “It could be trapped. Assuming they gave him time to do it before they summoned him back. It probably is since Marsha isn’t running over here to stab something. He must have used that other attack they earned for it.”
+
+
+“Lucille can probably bust through. It won’t hold an S-rank for long.”
+
+
+“It might delay her for just a minute though,” Alden said. “We don’t really need a delay, and…”
+
+
+And he was worried about how she’d react to enduring yet another mishap. Even such a small one. Repeat failures felt really bad. They felt even worse when you knew forty other people were watching you and judging you.
+
+
+“Permission to depart, Co-captain?” he said.
+
+
+Haoyu’s lips twitched a little. “Yes. If you want to.”
+
+
+“Yes!” Astrid agreed.
+
+
+Alden nodded. “I’ll run with her and make sure the trap isn’t a problem. If you stay here with Jeffy…well, it’s better. Two of you to watch each other’s backs. And Lucille and I will do the same. Nobody alone. More flexibility. Here.”
+
+
+He slapped his cord down on top of the wall. He had a couple more pieces long enough to get himself and Lucille up here if Haoyu couldn’t hold the post until they got back.
+
+
+“Five minutes left,” said Haoyu. “Plenty of time.”
+
+
+On his way out of the gym, Alden saw Winston pointing at Max and then at the ground in front of himself demandingly.
+
+
+******
+
+
+Since Alden hadn’t died, he didn’t have to run the track three times before heading back to the gym. He was just going to hang out and make sure Lucille didn’t have any trouble.
+
+
+But when he got out there, he saw she was already having trouble. She was really crying as she cleared hurdles one after the other.
+
+
+“It’s fine, Lucille,” he said, standing at the edge of the track. The sun was getting low in the sky. “I slept through half of our first run. Remember? You could die three more times and you’d still accomplish more than I did that race.”
+
+
+“I’m r-ruining it for you all.” She overshot a hurdle by at least a yard and landed hard on the other side. “I w-wanted to fight b-back, but I’m not good at guessing how hard I can hit when people come at me fast.”
+
+
+“Understandable. Nobody’s mad. Nothing’s ruined. We’re still going to win because they’re a shit team.”
+
+
+“I’m sup-posed to be our most powerful fighter. Especially with Maricel gone. And Vandy countering the arrows. I’m letting you all d-down. Lexi had to defend Everly. Haoyu—”
+
+
+“Lexi totally wanted to hit someone with Writher,” said Alden. “And he got Mehdi. And Mehdi’s too stubborn to leave their course, so he’s just hobbling around in there…hoping for I don’t know what. It’s all good. I swear.”
+
+
+Lucille was rounding the track’s second curve when she suddenly stopped going forward. Her feet were still moving, but each one of her bounding strides went absolutely nowhere.
+
+
+Yep, there it is, thought Alden.
+
+
+She stopped and stared down at her boots.
+
+
+Alden ran over to join her. Her cheeks were wet with tears. She was one of those people who got really red and puffy when they teared up. He could sympathize.
+
+
+“I’m trapped,” she said in a thick voice.
+
+
+“You are. Thanks for finding that for us.” He smiled. “Want me to throw you a rope or do you want to bust out of it by overwhelming it with super strength? I bet you could. One really forceful jump.”
+
+
+“Why are you so nice to me?” She was scrubbing at her eyes again. “You should be mad.”
+
+
+“People make mistakes while they’re trying to figure out their powers. Would you be mad if I made one?”
+
+
+She was still looking at her boots. “They’re just going to attack me again,” she said. “As soon as I get back in the gym. I’ll just mess up again.”
+
+
+“They should really focus on their own course instead of risking more attacks,” said Alden. “So maybe—”
+
+
+She shook her head furiously. “I heard Marsha say it to one of them on my way out. That she’d just let Winston keep…that maybe it would make me learn a lesson if an A took me down over and over…she was mad I wouldn’t fight her the way she wanted in Superlatives last week.”
+
+
+Marsha’s some kind of battle freak. They need to turn the gym’s realism settings all the way up and see if that sobers her ass.
+
+
+“I think it’s fine that you want to figure out how to take people down without killing them. I think it’s good for you to practice that in whatever way works best for you. Maybe it’s different than how I would do it…I don’t really know…I’m not in your shoes. But this is class. Class is for practice. I’m at this school because it’s an educational facility, and honestly I find it tedious how almost everyone else seems to think it’s a magical dick measuring facility instead.”
+
+
+She finally met his eyes. She looked a little alarmed.
+
+
+Alden shrugged. “I hope Winston does attack you again. Because I actually want to educate myself. I’m curious to see how a Rabbit should fight a Speed Brute. So if he does, let me deal with it.”
+
+
+“Um…”
+
+
+“What? You think I can’t?”
+
+
+“No! I’m sure you can!” Her eyes were wide.
+
+
+“It’s not the end of the world if I can’t. I’ll try it. If I get hurt, you’ll carry me over the finish line with your Brute strength. If you get hurt, I’ll tie you up in a bunch of rope and carry you over the finish line with my magic. Right?”
+
+
+She hesitated. “Right?”
+
+
+“By the way,” he added, “I saw someone ripped in half by a Strength Brute once. It was gruesome. It probably saved my life. I really doubt Marsha has more insight into the matter than you or I do, so definitely don’t listen to her opinion on how you want to handle your rank and class.”
+
+
+He pointed at her. “Now break out of that puny trap and run. Fast. Despite everything I just said about dick measuring, I don’t want to lose to such an awful team. Catch me before I get back to the gym.”
+
+
+He turned to go. About ten seconds passed before he heard a grunt followed the sound of boots hitting the pavement hard, as if the owner had landed from a particularly forceful jump.
+
+
+******
+
+
+“You’re sure you don’t want us to come back that way for you?” Haoyu asked. “Or just me. We should really leave Jeffy in the water.”
+
+
+“We’re fine,” said Alden, crawling through the pipe behind Lucille. A blade of torn grass fell off the bottom of her shoes. “Let’s stick with the two and two plan for now.”
+
+
+“Is that good with you, Lucille?”
+
+
+“We’re fine!” she said. “We’ve got this.”
+
+
+“Pause for a sec,” Alden told her. “Let me prep something before we exit the pipe, while the other team can’t see us.”
+
+
+“What?”
+
+
+“I brought something special for handling our faster classmates. I didn’t expect I’d actually get to use it.”
+
+
+Nobody ever asked the Rabbit to go on the attack after all. There were much more qualified people.
+
+
+Nice of Winston to make himself such a nuisance, he thought, pulling more of the blindingly yellow paracord free from his supply of it.
+
+
+******
+
+
+******
+
+
+Winston Heelfeather concentrated on every part of his body. The way the balls of his feet rested on the ground, the tension in his spine, the twist of the sickle in his right hand, then his left, then his right. Tossing it with Avowed grace was what he was going for, but you couldn’t always tell how it looked until you’d seen the footage.
+
+
+He did the smile. One of the fans called it his “looks could kill” smile. It was a little one. But confident.
+
+
+Already beat an S twice, the caption would say. Do you guys think I’m brave enough to try it a third time?
+
+
+Presence. Was. Everything.
+
+
+Well, no. Power was better. But he had an A to work with, so he would work with it.
+
+
+There were some A’s who were more famous than S’s. Hotter, funnier, cooler.
+
+
+He would be one of them.
+
+
+They’re coming out of the pipe.
+
+
+When to take her? What would look best?
+
+
+Not when she was on her knees escaping from the pipe.
+
+
+Even though Winston wasn’t allowed to show the actual moment he killed her because of the rules about sharing images of other students, sometimes the video watchers really analyzed his movements. Those overzealous fans might notice the angle he approached his victim from and realize he’d been going for someone on the ground.
+
+
+Bad look.
+
+
+He wished he could have one more attack. Just one more. Three times for the only S in the class besides Kon that Marsha didn’t want to fight herself…and then one for Alden Thorn.
+
+
+That guy needed to be taken down several notches. He was getting so much attention for having a cute face and a fucked up story. For being the stupidest class and dropping a plate full of vegetables and singing about freaky alien birds that ate each other. Winston’s fans wanted to know more about him.
+
+
+Maybe I should go for him after all.
+
+
+No. Focus on what mattered. Alden could go around polishing alien silverware and dropping carrots on other freckled orphans; eventually, it would stop being novel and people would forget him.
+
+
+It would go that way. It was just logic.
+
+
+What mattered was Winston building himself and his image. His legend.
+
+
+He watched Lucille emerged from the pipe. The rest of her team was at the other end of the course. She was scared to hit people too hard, so she was a sitting duck.
+
+
+Through the fire, he decided. The ice was getting thin. The melting water, a few flames—it was going to look great.
+
+
+“Hey! Have you got another speed boost for me?”
+
+
+Max was lurking around Winston. Winston didn’t know why. Someone who ran at purely human speeds should be booking it down the course so he wouldn’t hold the rest of them up at this point. But since he was here…
+
+
+“You’re going to attack Lucille again?” the B-rank asked. “She's got Alden with her. Better watch out.”
+
+
+Winston narrowed his eyes. “Are you being funny or something?”
+
+
+Max glanced toward the other team. Alden was coming out of the pipe, a length of that fluorescent yellow rope in his hand.
+
+
+“Sure,” said Max. “I happen to have just one more speed zone. Tell me where you want it, and down it will go.”
+
+
+******
+
+
+Parachute cord was a type of kernmantle rope. Smaller inner strands were held together and protected from breakage by the woven exterior sheath.
+
+
+The outer sheaths came in lots of different colors, including shades so bright they almost hurt your eyes. The inner strands in most of Alden’s paracord collection were white. The floor of the gymnasium was also white.
+
+
+The possibilities were obvious.
+
+
+But just in case, he’d taken it a step farther. Some types of paracord—mostly meant for survivalists—had neat things inside them apart from the plain white core. Wires, fire starter strands, even fishing line.
+
+
+And it took no time at all to get at the stuff; you just grabbed the end of whichever interior strand you wanted and pulled. It came right out, inch by inch, foot by foot. Before they’d left the pipe, Alden had pulled some of his fishing line out.
+
+
+When he straightened it all out and preserved it, he had a very obvious paracord line several feet in length with an even longer, but much less obvious, strand of fishing line sticking out from the end.
+
+
+Winston came for them as soon as they were on their feet, so quickly that Alden barely had time to admire his new tool. The speedster blasted through the melting fire obstacle, his feet shattering the very thin layer of ice left on the floor. He was moving at freeway speeds.
+
+
+At that speed, most people couldn’t see strands of transparent fishing line.
+
+
+It turned out Winston Heelfeather couldn’t either.
+
+
+Alden thrust the cord out, turned his wrist just in time to get it positioned parallel to the floor between the fire obstacle and Lucile, and then he felt the impact on his authority as Winston clotheslined himself and fell backwards. The other teen hit the floor hard, grabbing at his neck, a shocked expression on his face.
+
+
+Just that fast, it was over.
+
+
+Alden let his skill drop. Winston running into had almost fatigued it the rest of the way anyway; Alden had pushed farther than he’d meant to.
+
+
+Other Avowed directly striking the preserved object seem to hit harder than equivalent non-Avowed forces.
+
+
+That kind of thing wasn’t an unknown phenomenon; he just hadn’t had a lot of personal experience with it.
+
+
+Magic clashing with magic. Authority vs. authority.
+
+
+Winston had winded himself. He was still staring up at the ceiling in astonishment.
+
+
+“All right,” said Alden, stepping around him and hurrying toward the next obstacle before it could turn into an inferno. “So that’s done. Lucille, my skill’s gone. I’ll have to rely on you and Haoyu to get me past the weights and over the wall.”
+
+
+“Did you guys just take out Winston?” Astrid called. “What was that?”
+
+
+“I’m pretty sure Alden just decapitated him,” said Haoyu.
+
+
+“Let’s win now,” said Alden. “I want to go eat Filipino food.”
+
+
+******
+
+
+******
+
+
+The race ended with Lucille crossing the tightrope over the finish line. The bell rang, and an instant later, they were all smiling, half the drama of the past twenty minutes forgotten in an instant. Astrid started doling out hugs to every one.
+
+
+“Beautiful land moves!” she shouted in Jeffy’s ear, pointing toward the other team’s course. “Look what you accomplished.”
+
+
+In their water tank, Max was floating peacefully on his back. And Marsha was upside down, her legs kicking wildly in the air as she tried to dive. And failed.
+
+
+Her glaive was at the bottom of the tank. She’d thrown it down there, no doubt planning to pull herself toward it that way, but it seemed like she’d overused the ability.
+
+
+“Maricel said she was prone to overworking herself and running out of gas,” Alden said. “Guess it happened.”
+
+
+“Who would’ve thought a life jacket spell could be used to defeat people?” Haoyu sounded amused as he watched Marsha struggle. “It must be pretty strong. She’s not getting anywhere.”
+
+
+“If you cast it eight times you can make a tract—a really heavy truck float,” Jeffy announced. “I practiced it before I left home.”
+
+
+“It’s good,” said Alden.
+
+
+“You beat Winston,” Lexi said.
+
+
+“Yeah. I kind of wanted to save that trick to try on Klein. But this was a worthy cause.”
+
+
+Marsha kicked her feet so hard one of her shoes flew off, but she kept right on bobbing in the water like a cork.
+ 
+ 
+ 
+*

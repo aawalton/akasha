@@ -1,0 +1,567 @@
+---
+id: cd7d6f70-0450-57bc-b3d5-530e1cfa5dd2
+page-type-slug: story-chapter-royal-road
+title: "409 Memories Of Broken Glass"
+slug: 0369-409-memories-of-broken-glass
+partOf: the-new-world
+position: 369
+ownLength: 4245
+unit: words
+ownProgress: 4245
+publishedAt: 2025-04-09
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2186195/409-memories-of-broken-glass"
+royalRoadId: "2186195"
+markedReadAt: "2026-06-29T21:33:58.766Z"
+---
+
+I met her eye.
+
+"I don't want to terrorize them when we meet. I feel like if I did, I'd lose this opportunity to confront my past."
+
+They nodded, not needing another reason. We walked to the front entrance before Neel knocked on the door. After a minute of waiting, a large, burly man opened the door. Instantly, I got flashbacks as I saw his hand. The guy still wore his graduation ring and the same shit-eating grin.
+
+"My name is Deryll Hillside. Who might you three be?"
+
+Chapter Begin
+
+I peered at Deryll, but I kept my aura and demeanor as lanky and forgettable as I could. His eyes turned over each of us, and he looked at Althea with a gaze that sparked anger in my chest. Neel spread his arms.
+
+"Come on, Deryll. You don't recognize me?"
+
+As recognition spread over Deryll's face, so did disgust.
+
+"Huh? You're...Oh. You're Jacob's grandfather."
+
+Neel frowned.
+
+"I'm his father. I'm Daniel's grandfather."
+
+Deryll sighed.
+
+"It doesn't make much of a difference, now does it?"
+
+Neel bit his tongue.
+
+"I suppose not. Anyways, we're here-"
+
+Deryll raised a hand while looking at us. His eyes lingered over Althea.
+
+"Let's talk inside. There's no reason to leave you all out in the cold."
+
+We walked inside before he put a hand on my chest. Deryll leaned over me, his height and physical stature imposing.
+
+"You look familiar. Who are you?"
+
+Althea leaned onto me.
+
+"He's my bodyguard. His name is Nathaniel."
+
+Deryll raised his brow.
+
+"It's good to meet you, though I'll say you're a bit short for a bodyguard. She might need someone a bit bigger than she is to help when situations get tight."
+
+I smiled.
+
+"I know my way around a battlefield."
+
+Deryll nodded.
+
+"Yup. Scars all over you. You run in a lot, I'd guess?"
+
+I shrugged.
+
+"More or less."
+
+He scoffed.
+
+"I didn't take you for someone too bright. That explains the job."
+
+They were petty jabs from an even pettier man, and I wasn't about to miss out on a legendary compendium to entertain the slights. I peered at the inner sanctum.
+
+"It pays the bills. What can I say?"
+
+We walked in, and I had to admit, I was wrong about the castle thing. Though not as grand as a castle on the outside, the inner rooms oozed opulence, and the museum aspect wasn't wasted when this place transitioned from a dungeon back into a ranch. Older paintings covered the walls. Chandeliers lit the antique-laden spaces, and luxurious carpets ensured the floors weren't all stone.
+
+As we walked in, I kept my eye on Deryll. Neel whistled and clapped his hands once.
+
+"I'll tell you what. This place looks mighty fine if I say so myself."
+
+Deryll scoffed.
+
+"It really isn't much."
+
+Neel peered at a vase.
+
+"I beg to disagree."
+
+Deryll gave him a wicked smile.
+
+"I'd imagine so, considering where you came from. Louisiana, wasn't it?"
+
+Neel stood tall.
+
+"It has its charms. Have I mentioned the gator-"
+
+Deryll winced.
+
+"You have. And no, we don't want any gator steak. Keep it in the bayou."
+
+Deryll kept chatting about the history of the place and how it could rival any castle in Europe. I still wondered why he let us inside. He didn't like Neel, he didn't know me, and Althea, well...Ohh. Duh. Althea grabbed one of her arms as Deryll kept spewing factoids about the place as if a tour would woo her over. She coughed into a hand.
+
+"So...Where are we sitting down, exactly?"
+
+Deryll narrowed his eyes before sighing.
+
+"It will be the dining room. I'll let the others know we're having guests."
+
+After an entirely unnecessary tour of the place, we walked into the feasting hall. The ceilings arched up high, and the woodwork echoed inspirations from Viking halls of the past. A spectacular view of the ranch and the Rockies spread out, visible from the windows. It paled in comparison to the view from our flight, but it still carried a sense of gravitas regardless.
+
+As we sat down, I admired the chairs. They modified them for system users, each piece of furniture holding more width and height than a normal one. They reminded me of sitting back at Mt. Verner, though this view exceeded the one even at the peak of our home base. All three of us sat down before Deryll tilted his head to a back room.
+
+"I'll go get the others. I'm sure they'd like to see an old friend."
+
+The hint of a threat lingered in his last words. I held back a scoff at the outright hostility, but Neel took it right on the chin.
+
+"I reckon we'd like to see some old friends too."
+
+After they left, Althea leaned to me and whispered.
+
+"That guy stares way too much. It's creepy."
+
+I narrowed my eyes.
+
+"Tell me about it. I wanted to hit him in the gut. Maybe break a finger or two."
+
+She smiled.
+
+"Really? I didn't know you could get jealous."
+
+I frowned.
+
+"Less jealousy and more a fiery pit of suppressed rage."
+
+She waved me off.
+
+"Pshhh, same difference."
+
+Interrupting our banter, Deryll walked in with two other women. I remembered them both. On the right, the older of the two was my grandmother, Betty. On the left, my aunt Margret stepped in. Both looked better than the last time I saw them, yet worse than I expected. Neither had really fought since the system started, so their levels sat at an ok-ish 87 and 92, respectively. Someone had helped them level up.
+
+Despite their lower levels, they invested in longevity stats like willpower and endurance. That changed their crooked backs and wrinkled faces into reasonable postures and middle-aged smiles. They'd have needed a thousand plus more levels to really reverse the full extent of their aging, but that wasn't going to happen when neither was willing to risk danger.
+
+Speaking of danger, Betty glared at Neel as if she were a wolf eyeing a screeching cat. Neel smiled back at Betty's glare, and he put his hands on his hips.
+
+"Ah, it's good to see you two aren't any worse for wear."
+
+Betty raised her brow.
+
+"It looks like you've benefited from the system as well. Lord knows you needed it. The last time I saw you, you were positively ghoulish. You were on meth at the time, if I remember correctly?"
+
+Neel's smile tightened.
+
+"It was heroin."
+
+Betty waved a hand, her passive-aggressiveness radiating from every pore.
+
+"Oh, I wouldn't know the difference. Thank you for the correction."
+
+Neel kept a poker face on, but I had talked with the guy enough to know when something stung. That had, but he played it off as if it hadn't left a mark. Watching on, a pang of guilt spurred in my chest. I already hated these people, and yet, this was exactly how I treated Neel. If anything, I didn't like the judgmental part of them because I didn't like the judgmental part of me.
+
+I stewed on that as the mature ladies sat down closer to the end of the table. Betty crossed her fingers and leaned forward as she glared at Neel.
+
+"So, what brings you to our little ranch here? In case you weren't aware, we don't sell any drugs here."
+
+The way she spoke demonstrated the venom that only an old money family could have. Neel scoffed.
+
+"I've kicked the habit for good, so that won't be a problem."
+
+Betty tilted her head.
+
+"Is this the third or fourth time you've told me that?"
+
+Neel raised his brow.
+
+"The fifth, but who's countin'."
+
+Althea furrowed her brow.
+
+"We're looking for Neel's son, Jacob. Do you know where he is?"
+
+Betty gave Althea an icy glare. A resentment built in Betty's words.
+
+"Now, excuse me for asking, little miss, but why would a beautiful woman such as yourself be looking for white trash like him?"
+
+Even from hearing them speak, I experienced cultural whiplash. In Mt. Verner, the older pre-system culture had largely dissolved in favor of a new system-oriented way of living. Here, these people lived as if in a time capsule, one where they threw their weight around using social expectations from a bygone world.
+
+I struggled not to laugh at how ridiculous they sounded. Althea smiled at her, and she spoke like an angel.
+
+"I owe Neel a favor for helping me out of a precarious situation."
+
+Betty narrowed her eyes and smiled.
+
+"Is he blackmailing you? We can arrange for your safe travel out of his care. Deryll would be more than willing to-"
+
+Althea waved her hands.
+
+"Uh, no thanks. Ughck."
+
+Betty's smile faded.
+
+"He comes from good blood. I can assure you of that."
+
+Althea leaned forward, her smile sharp enough to cut glass.
+
+"No, I really would rather not. You must be hard of hearing."
+
+Betty sighed.
+
+"Suit yourself, but you should know something about Neel."
+
+Althea crossed her legs and arms.
+
+"That he did drugs? Because I have totally heard that like a dozen times already. Apparently, that's the only thing anyone knows about the guy. Schema forbid the man tries to do anything else with his life."
+
+Betty glared.
+
+"You don't know the pain he put his family through."
+
+Althea frowned.
+
+"Yeah, well, I know the guy's trying to change. Besides, I use tons of drugs when I fight all the time. It isn't like doing drugs suddenly turns you evil. Usually, that's more of a, I don't know, character issue or something. It's that or you lose the balance behind using them."
+
+Appalled, Betty leaned back.
+
+"You do drugs? Like heroine?"
+
+Althea rolled her eyes.
+
+"Heroine is literally useless in a fight. It's a poor tranquilizer that doesn't even have a potent pain-reduction effect. I would much rather use lidocaine or epinephrine, and they'd need to be enchanted. Otherwise, my metabolism would flush them in seconds."
+
+Neel blinked before staring at Althea. The veteran murmured.
+
+"Is that what's in the vials?"
+
+Althea nodded.
+
+"Some of it, yeah. I don't keep my most potent enablers out in the open for safety reasons. Kessiah and I have actually created a few serums using her blood, and they're extremely potent. You can try a few if you wan-"
+
+Neel hit the table and shouted.
+
+"No."
+
+An awkward moment passed over the table. Neel coughed into a hand before adjusting his bandolier.
+
+"No, I-I don't need that stuff. My, uh, fighting's pretty good already. Thank yah, though."
+
+Althea peered back and forth before making herself small.
+
+"Uhm, sorry."
+
+Interrupting my thoughts, Betty leaned forward to Althea, and Betty's wrinkles formed over her face as she scowled. Betty seethed.
+
+"This is what I was going to tell you about that man. You see, we raised dogs for generations. We know how to recognize a purebred and a mutt by eye at this point. Something you should know about people like Neel, they're mutts. They'll take a purebred and turn it into an ugly, furless cur before you know it."
+
+It was officially affirmed. She was a caricature of a human being at this point. Neel rolled his eyes.
+
+"Oh god, not this bullshit again."
+
+Betty stared at him.
+
+"You call it that because you don't like hearing the truth. And you know what makes it worse? You're not just a mutt. You're mangey too. You and all your friends. You all sit out there thinking you're just fine as you abuse your body and live like heathens."
+
+Neel frowned.
+
+"Oh, god forbid we do something fun once in a while."
+
+Betty stood up, her face flashing red.
+
+"Look what happened to my daughter from all that 'fun' of yours."
+
+Neel's expression sharpened.
+
+"I'm mighty sorry about what happened to Angela, but you and I both know that wasn't me. That was a twist of fate."
+
+Betty snapped.
+
+"Now who's spouting bullshit?"
+
+Neel shook his head, and his emotions began to get less stable. He shook a hand at Betty.
+
+"I'm not bearing your cross anymore, and neither is my son or his son either. We didn't kill Angela. Cancer, Betty, is what killed her, and lord forbid-"
+
+They began talking over each other.
+
+"I don't take responsibility over a terminal illness. It's just like you to throw out accusations on me like you know who I am. Like you've ever known who the hell I am."
+
+"You think I don't know you and Jacob forced your dope on her? I bet you put it in her food after she said no. And, of course I know who the hell you are."
+
+Neel frowned.
+
+"Oh really, and who is that?"
+
+Betty pointed a finger.
+
+"A lying, cheating drug addict who wants to think he can change when we both know, deep down, you'll never be anything more than that twisted, drug-using fiend who stole our Honda Civic."
+
+Neel's expression changed a few times as a wave of emotions poured over him. He grabbed the sides of his head before shaking.
+
+"I don't know what I was thinking comin' here."
+
+One of the back doors opened, and a tall, imposing man walked in. His silver beard grew to the collar of his plaid shirt, and his muscled frame omened potential. Beside him, two altered pit bulls hulked into the room. The hounds were mutated by mana and from having eaten eldritch flesh raw.
+
+Thatcher Hillside frowned.
+
+"We don't know what you were thinking either, yet here you are."
+
+Neel stood up.
+
+"I've had enough of this. Just tell me if you saw where Jacob-"
+
+Thatcher raised a hand, the practiced motion exposing how he almost always held control in a room. Thatcher frowned.
+
+"You're not the one making demands from us. We do just fine on our own, and we don't owe you anything. So sit down like a good little dog."
+
+Neel wanted to run over and kill the man. I kind of did, too, but I telepathized to Neel.
+
+"Please sit down. Not for him, but for me."
+
+Neel took a deep breath before sitting down. He turned a palm to Thatcher.
+
+"What are you even here for?"
+
+Thatcher interlocked his hands behind himself. He walked across the side of the table while keeping a predatory glance over us all.
+
+"I'm here to see why in the hell the Stoltmans have been passing by my town."
+
+Neel raised a hand.
+
+"Same here. If you let us know what you found, we'll be on our way."
+
+Thatcher looked at me.
+
+"I'm wondering why the other Stoltman is here. This makes three if I'm correct?"
+
+I raised a brow.
+
+"Ah, you just noticed? It took you guys quite a while. It wasn't even like my disguise was particularly convincing."
+
+Betty narrowed her eyes at me before they widened.
+
+"You're that little shit? God, I never thought that someone made by Angela could end up so ugly."
+
+Althea scoffed.
+
+"You've obviously got some pretty bad taste."
+
+She and I shared a glance, and we smiled.
+
+Thatcher eyed me down.
+
+"He looks that way because Angela made that one mistake of finding a mutt she liked. Now look what she made - a common cur."
+
+I remained cold and impassive.
+
+"Is that how you see me?"
+
+Thatcher frowned.
+
+"I look at you as the shame of the family. Your father stole my rose, the most beautiful part of my life."
+
+His wife, Betty, frowned when he said that. Thatcher raised a fist at me.
+
+"And you're the reason she stayed. You should be ashamed of all you've done to destroy our family."
+
+I raised a brow.
+
+"Should I?"
+
+The snarling dogs got closer to me. Thatcher took a deep breath before aiming his frown at me.
+
+"You know Angela was ashamed of it, too? She wanted to come back, but she wanted you to have a normal childhood. We can see how that worked out for her."
+
+I steepled my hands, not an ounce of fear in me as one of the dogs got within biting distance. I met his eye.
+
+"You talk a lot about breeds. From what I've gathered, you consider yourself of better blood. Why?"
+
+Thatcher furrowed his brow.
+
+"That much is obvious. Our family has owned land for generations. We've built an empire of ranches across Colorado, and we've never lived without for centuries."
+
+I rolled my fingertips.
+
+"And where are those ranches now? What about that empire?"
+
+Thatcher leaned back.
+
+"We've been regrouping after the system arrived. And besides that, we can't be expected to recover all of the lands we lost either. It's monster country now."
+
+I stared him down.
+
+"If you lack your pre-system lands, why do you still have your pre-system pride?"
+
+The pit bull snarled at me, its eyes crazed and its mouth frothing. Thatcher walked up.
+
+"Not yet, Bullet. Later."
+
+Thatcher petted one of his dogs.
+
+"All these questions are rich coming from some petty bodyguard for some bimbo. If you're not already aware-"
+
+I raised a hand.
+
+"Althea Tolstoy helps orphaned children and educates the masses in her free time. You feed dogs raw eldritch meat to deform them into monsters. Who would you judge as better by the content of their character?"
+
+His pitbull growled. Thatcher leaned over me.
+
+"All these damn questions. You'd think we were in the middle of an exam. How about I remind you that this post-system world isn't ruled by words?"
+
+I smiled.
+
+"What is it ruled by?"
+
+"It's conquered through real power."
+
+I peered at the dog. It quit growling as I said.
+
+"Real power. It's an elusive thing."
+
+I gazed up at him, my minds all gazing from within.
+
+"Funnily enough, you're one of the few enemies I have where I can demonstrate exactly what real power is. Palpably so, in fact."
+
+The dogs whimpered. A bead of sweat dripped down the back of Thatcher's neck. He twitched.
+
+"Bullet. Sick him."
+
+Bullet peered between us before I smiled at the dog. I reached out a hand, and Bullet let me pet him. I rubbed its head, and its tail wagged. I leaned close to it.
+
+"Who's a good boy? Don't worry. I'm not letting you guys stay here."
+
+Thatcher snarled.
+
+"Excuse me?"
+
+I gazed up at him.
+
+"Have you ever tried inspecting my status? And besides that, how long can you even keep these dogs tame as they are?"
+
+Thatcher looked down at Bullet.
+
+"You're hiding it with magic or something. As for the dogs, it doesn't matter. I can keep them tame as long as I want."
+
+I tapped the table.
+
+"That's a lie. I can feel the other dogs below us. Some are in concrete cages, and they're scrambling about like feral animals. It's an odd thing. You're so concerned with mange, yet you seem to treat your animals like tools. It's a terrible thing, but what else can we expect?"
+
+The pit bulls whimpered as I stood up. Thatcher looked down at them and snapped his words.
+
+"What's wrong with you two? What in the hell is going on?"
+
+I turned to Neel. My grandfather struggled to meet my eye. I frowned.
+
+"Neel. I'm sorry for how I've been treating you. This was a good reminder of the kind of person I'd rather not be, so thank you for coming here with me. I know it's been hard for you, but you should know it's been eye-opening for me. I owe you one."
+
+Neel blinked, his eyes watering.
+
+"O-of course, son...Anytime, anytime."
+
+I turned to Thatcher. I stood a head and a half shorter, yet I loomed over him like a mountain. I interlocked my hands behind myself.
+
+"I'd like to thank you for giving me a lot to think about. I'll be leaving after taking the dogs and learning where Jacob is."
+
+Betty snapped.
+
+"Not everything in the world revolves around-"
+
+I turned to her. My eyes quieted her voice. Fear spread over her face, and tension passed over the room. I said nothing, and yet they felt the weight of their situation change at that moment. Only Thatcher remained somewhat composed. He snapped.
+
+"I never let your mother forget the shame she brought on us. The shame she should've lived in every day. I'm not going to let you forget it either."
+
+As he said that, I blinked. A memory flashed through my eyes. I finally remembered why Deryll had backhanded me. He was talking down to my Mom about this same vitriol. Shame upon your family. Bitterness in your heart. All of it. My Mom kept apologizing and staring down, but Deryll kept berating her.
+
+She tried to leave, but Deryll stepped in her way. When tears started falling down her cheeks, I got tired of watching. I had stepped over and told him to, and I quote, 'Leave my mom alone, crusty old dude.' I was five years old, and I felt like Superman when I stepped to protect her.
+
+He backhanded me hard enough to send me off my feet.
+
+The loud crack. A flash of white. Immediate, burning pain across my cheek. I remember flying through the air and never closing my eyes. Despite the heft behind his strike, he never knocked me out. I scrambled to my feet as his jewel clattered onto the ground. Deryll grabbed his hand, wincing in pain.
+
+"You can't hurt me."
+
+I spoke the words with wet eyes. Wobbly. Fearful. It was the obvious fake courage of a child too afraid to move and too dumb to step down. Instead of rushing to me, my Mom hurried to him to check on his hand. I remember gawking at them, and I watched her pick up the jewel and hand it to my enemy. To her enemy.
+
+And she apologized for what I said and for what I had done.
+
+That humiliation was a dark ichor in my mind. The pride that had gotten me to my feet was swept out from under me, and a liquid rage poured out to replace the pride like blood out of an open wound. Hatred for her, Deryll, and the pain in my cheek spawned in my chest. I remembered spreading my arms and shouting about how it was unfair, about how he had hit me.
+
+She walked over, grabbed my cheeks, and mouthed.
+
+"You should be ashamed of yourself. Shut. Up."
+
+I blinked, remembering where I was. Thatcher collapsed onto the ground, and the others were rendered unconscious. Althea already phased out of reality and back in beside me. She wrapped her arms around me.
+
+"Are you ok?"
+
+I smiled back at her.
+
+"I, I'm...No. I'm not. I need a minute."
+
+I retracted Event Horizon, the crushing aura no longer suffocating all present. Neel took a deep breath, as did Thatcher. Betty trembled in the back, and Margret sat still, the most composed of the bunch. Thatcher hobbled upright and stepped up to me to grab my shoulder and stop me from leaving.
+
+I turned to him. I pressed down onto his core.
+
+"Are you sure that's a road you want to walk down?"
+
+I frowned.
+
+"Because there's no path back, friend."
+
+Thatcher didn't answer as he struggled to breathe. In the back, Deryll struggled upright. He rubbed his head.
+
+"Am I...Am I hungover?"
+
+I flicked at him, and a telekinetic wave pummeled his chest. He slammed against the wall, and cracks spread across the stone. Bones broke in his chest, and I frowned.
+
+"That's payback with a little interest."
+
+I walked out of the room, and Althea hugged my arm as I did. We left the room in silence. Neel took a breath.
+
+"You know, you're mighty lucky my grandson chose to be the bigger man today. He's known in the Northeast as the Harbinger of Cataclysm, and he's killed gods before. He could've evaporated you in a second."
+
+Thatcher trembled. Neel walked up to him and whispered.
+
+"That's fear, boy. I'd listen to it if I were you."
+
+Neel stepped in front of Thatcher.
+
+"And I also wanted to say this. My grandson is the bigger man in these kinds of situations."
+
+Neel kicked Thatcher in the balls hard enough for a pop to echo across the room. Thatcher hit the ceiling before falling down and busting their table. Neel smirked at Thatcher's writhing form. Neel seethed.
+
+"But I ain't. I'm a small, petty, and shameless little man, and my life was built on moments of victory like this. Suck on these nuts."
+
+He walked over to Betty and grabbed a bottle of unopened wine. He sliced the bottom of the bottle with a dagger, tossed the cut glass aside, and dumped the wine onto her face. Betty guffawed before Neel grabbed Margaret's hand. Neel smiled.
+
+"I know we didn't say much, but it was great to see you again, Margret."
+
+Margret coughed into her other hand.
+
+"Likewise, Neel."
+
+Outside, I sat down on a walkway. I grew back to a more recognizable form, and the clothes ripped into rags. Neel jogged up to me. I raised a hand.
+
+"Sorry about the clothes."
+
+Neel waved me off.
+
+"Don't mind that. What happened there? You were giving him what for until something changed."
+
+I peered at a breathtaking view.
+
+"I remembered a part of who my mom was."
+
+Althea murmured.
+
+"It must've been sweet then."
+
+I blinked as my throat burned.
+
+"That's the problem. It wasn't."

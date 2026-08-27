@@ -1,0 +1,483 @@
+---
+id: 6a2ae2de-6e34-5af7-9cbd-ac7c67a7ca26
+page-type-slug: story-chapter-royal-road
+title: "Chapter 205: The Land of the Dead."
+slug: 0130-chapter-205-the-land-of-the-dead
+partOf: the-calamitous-bob-stubbed
+position: 130
+ownLength: 5849
+unit: words
+ownProgress: 5849
+publishedAt: 2025-05-10
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2268545/chapter-205-the-land-of-the-dead"
+royalRoadId: "2268545"
+markedReadAt: "2026-06-29T21:20:25.362Z"
+---
+
+“Look, neither of you are going to like my answer very much.”
+
+Viv leaned forward on her seat in the council room. To her right, the cliffs of Sinur’s Gate descended onto the vast plains leading north towards the distant capital and the outposts already seeded along the way. It was still a dead spot filled with gray and black under the perpetual gloom of rainless clouds, a grim reminder of the work left to do. It didn’t help the mood right now. Rakan had taken on a resigned air while Frosthawk bristled with barely contained outrage.
+
+It was a sad reality of ruling that, sometimes, Viv had to pick between angering one person or the other. This time, she would pick both. Rakan and Frosthawk would have to compromise. By definition, a compromise left at least one party disappointed.
+
+“Due to his successful experience managing a teaching establishment, Frosthawk will be the headmaster of the Harrakan University of Magic.”
+
+Rakan deflated. As for Frosthawk, his expression was one of relief rather than triumph. Viv assumed he expected her to favor a more loyal subject. Rakan was completely dedicated to Viv now, especially since his magical prowesses had grown following his recovery.
+
+“However, Rakan’s broad understanding of the subject, as well as his time learning in Helock, makes him the best candidate to design the curriculum. He will be the dean and decide on a multi-discipline training program. New professor appointments need the approval of both Dean and Headmaster, with me making a final decision if there is a tie. I hope you two gentlemen can come to agreements without me having to step in…”
+
+The two turned from annoyed to thoughtful, each one calculating and making plans in their heads. Goddamn high mental stats twits. She had no doubt the next questions and objections would come soon enough.
+
+“And finally,” she continued before they could recover, “the University will be in Frost Bay.”
+
+“What?” Rakan blurted, “but…”
+
+Viv lifted a hand to stop him right there.
+
+“Kazar is already overcrowded. The mage tower is nowhere close to sufficient to accommodate the dozen of trainees we already have. The city is already sprawling over the nearby fields, smothering extremely valuable fertile lands. Frostway’s fort and academy will be renovated so that it is more suitable for people to live in.”
+
+“It has sufficed for centuries,” Frosthawk grumbled.
+
+“It’s a derelict and windy pile of rocks as cold as a tax collector’s heart.”
+
+And thank fuck her tax collectors were remorseless assholes.
+
+“We will renovate the place so the most likely cause for missing class is hangovers, not pneumonia. It might also enliven the city a bit. The gods know it could use a little help.”
+
+“Perhaps if your paramour could stop hanging people…” Frosthawk suggested with a perfect poker face.
+
+Viv paused.
+
+This was getting a bit troubling. Sidjin was officially her viceroy for the newly assimilated Remnants. For the most part, it was going extremely well. The remote villages adored her for providing tools and lifting most of the draconian rules on poaching etc. They were naming kids after her inner circle. The difficulty came from the deposed elites and privileged members of society.
+
+“You two should go. I want to talk to Abe before the next council. The University will still be established in Frostway, but you’re right. I may need to talk to Sidjin.”
+
+The two mages left the room with neutral expressions so at least there was that. They didn’t sound too pissed. Viv was fairly certain they’d get friendly, eventually. They both respected magic and competence too much not to bond over spreading them. Abe came a moment later. He was her Minister of Justice, so he would be attending the later council as well.
+
+“I am worried about Sidjin,” Viv said. “I’m not sure how to broach the subject with him. He’s being too bloodthirsty.”
+
+“Pulling the rot out of a society requires drastic measures,” the false albino replied.
+
+His locs moved as he shook his head. Chimes brought a nice background to the dark conversation.
+
+“Those he hangs believe themselves above the law. They have lived their entire lives free of consequences, and now that there are some, many still believe it doesn’t apply to them.”
+
+“It’s been over a year already.”
+
+“Again, many of those families have never experienced the… what did you call it?”
+
+“The Find Out phase.”
+
+“Yes. No matter how many macabre fruits hang from the walls, it always happens to other people. Not them. Remove sympathy from your heart, for those are thieves and pillagers who have lived off the people all their lives with no shred of sympathy, honor, or kindness.”
+
+“It’s not them I’m worried about,” Viv replied with some frustration. “Don’t you get it? It’s about Sidjin. We’ve been told Oleander has become a tyrant because he tried to bring the rule of law to a corrupt culture. I don’t want him to feel the same. I don’t want Sidjin to turn into a monster.”
+
+Abe smiled with patience and kindness. The comforting sight eased Viv’s worries. She felt the barest touch on her soul and allowed his skill to take hold. He was trying to influence her, yes, but only to help her. She could trust him.
+
+A measure of calm soothed her worries.
+
+“None of Sidjin’s executions were arbitrary. He never harms anyone except for the guilty, and never without proof. In most kingdoms, entire clans would lose their rights over the transgressions we are seeing. Besides, the number of public executions is in constant decline.”
+
+“That might just be because there is no one left to hang.”
+
+“No. Sidjin is not a monster. He’s given the guilty opportunities to redeem themselves after the first few hanging. His insistence that he was not one more power to bribe but an actual defender of justice eventually got through thick skulls. I believe people just… didn’t believe you when you said you wanted justice. To them, it is just a tool of control in the hand of the sovereign.”
+
+He sighed. Viv wondered how much was natural and how much was pretending he wasn’t an undead brought back to biological life by a merciful goddess.
+
+“I can tell that you are worried. Have you two not talked about it?”
+
+“I’m reluctant to do so because I trusted him with the job and so far, he’s doing great. No one is complaining. Well, no one except for the bereaved families who demand their rightfully stolen bribes returned alongside some wergild. He’s doing the job I wanted him to do. The Remnants are rising from the ashes at record speed. Our income is positively exploding. Really, I can’t complain. And I don’t want to. Look, he was a prince, then he fell, then now he has to follow me.”
+
+“You are afraid he might be feeling… emasculated by your behavior?”
+
+“Yeah! Glastians don’t really face their own feelings that much, from what I can tell. He’s already being very open. I just can’t go to him and take back what he rightfully earned.”
+
+“You are not questioning his loyalty. You are merely expressing concern for his well-being, which is traditionally done by Glastian wives behind closed doors. It will be fine.”
+
+“If you say so… alright, I’ll talk to him later. In private.”
+
+“I am certain there isn’t much to be concerned about,” Abe softly said. “I would have felt it.”
+
+He lowered his voice and his stance. Now he was the concerned uncle patting her back and asking how things were going, really, except he was a tall mage of great power and a servant of the god/goddess of death.
+
+“This is a harsh place, Viviane the Outlander. Sometimes, you forget that you are already being kind and lenient for a ruler. Sidjin is only making sure your people do not mistake benevolence for weakness. And I will be here too, to distribute punishment should the need arise. We are not forgetting your vision. We are merely… adapting it to the situation.”
+
+“That sounds ominous as fuck.”
+
+“We are not beasts, Viv. Trust us.”
+
+“Oh fiiiine. Alright. Time to start the council, I guess.”
+
+***
+
+“The Water Guild’s proposal is as follows. With the help of your mages, we shall dig reservoirs across the land in carefully selected areas in order to collect rainwater. For a very modest fee we shall levy, local villages may use the water thus collected for their own end. Meanwhile, the guild shall carry the surplus to border villages to be sold at reasonable prices. In return, the Water Guild will carry out maintenance on the reservoir while also guaranteeing the quality of the goods.”
+
+The merchant rubbed his hands together, though it was more a gesture of submissive stress than of greed. He certainly looked like the evil wizard’s smart servant, the one who makes sure to keep the orc goons properly armed and fed so they can march on innocent villagers without concern for logistics. This was Viv’s life now. Water systems. She should get a T-shirt that said ‘I turned an Evil God back to good and all I got as reward was the lousy T-shirt and public utility meetings’. For fuck sake.
+
+Well, it was important to stay hydrated. The thing was, Harrak was stuck in between democratic modernity with regulated public services on the one hand, and Knight orders on the other. The water guild thing was a perfect illustration of that. They were an ancient form of monopoly, but also a semi-public entity with strict regulations.
+
+“I agree on one condition. The crown shall set the selling price for water to a fixed and very modest fee for use by surrounding villages. The villages will also have priority for water consumption. If there is no water to trade, there is no water to trade and you gotta source it from other reservoirs.”
+
+“Of course, your majesty. May I inquire about the amount?”
+
+“We will start at…”
+
+She ran some calculations.
+
+“Two iron bits per standard Harrakan barrel?” she asked, giving Lady Azar a glance.
+
+She nodded without pause so it was probably a fair price.
+
+“Would you consider prohibiting resales by local people?” the merchant added.
+
+Oh yea, some enterprising cunt was definitely going to try to empty the reservoirs, collect all the water in a warehouse, then try to resell everything at a premium. Fucking scalpers. So predictable.
+
+“Agreed. Alright, we’ll start with that and see where this is going. The Crown reserves the right to change the agreement should I find you have abused my trust.”
+
+Viv gave the man a pointed glare. It was for nothing. He was already bowing with his body at a precise 45 degrees angle. She could have left a beer mug on the back of his head and watched the foam come down.
+
+“Your offer protects both our profit and the people, Your Imperial Majesty. The Water Guild shall not fail you!”
+
+Viv hesitated to throw a few more ominous ‘I will be watching’ or ‘it would be your last mistake’. Where was Solfis when she needed him? She waved the man away to scurry out of the council with servile celerity.
+
+“Alright, what’s next?”
+
+“The upcoming Manipeleso loan is due in three days. We must choose between delaying the aqueduct renovation and taking another loan. Both the northerners and your daughter have made tempting offers.”
+
+Harrak was eternally strapped for cash. Even with their income skyrocketing at an insane speed, there were always more projects to fund to get even more money.
+
+“Let me see the…”
+
+Viv paused and frowned. Her mana senses picked someone approaching at great speed using gray mana. Messenger paths used wind spells to move much faster. Soon, there was a knock on the door.
+
+“Yes?”
+
+The messenger was red and puffy. It must have been urgent.
+
+“Your Majesty. We’ve lost contact with Asterley. The city’s teleporter is disabled. Something is interfering with communication altars.”
+
+Asterley? That was currently the last major stronghold in the long line of fortified outposts meant to carry her forces from here to the old capital. It was well fortified and properly defended.
+
+“What?” Viv asked, not believing her ears.
+
+“The army’s out of contact. The last messages speak of a major attack.”
+
+“By whom?”
+
+“Undead ma’am, in numbers never seen before.”
+
+Viv’s mind ran on overdrive. Undead hordes were not as dangerous as they used to be, not since the army had become so strong and mana poisoning was much less of a factor. And even then, no undead ought to have thought to disable a teleporter.
+
+What the fuck was going?
+
+“Who’s there with him?”
+
+“The brunt of the army. Two and a half thousand heavies and crossbows, plus followers and staff,” Abe said. “And a squadron of Liberators. There will be civilians in the outpost as well. Prospectors and adventurers. General Sahin was moping undead migrations to hone the newest recruits.”
+
+Ok, that was bad. And also urgent.
+
+“Get Solfis and his nearest children to the teleporter. Lady Azar, a message to She-Who-Feasts-On-Many-And-Collects-Much.”
+
+“It will be done. May I suggest calling for reinforcements?”
+
+Viv hesitated. The army was expanding, but the new recruits were still undergoing maneuver training. They weren’t ready for large scale battles. Hell, most of them were still in the middle of the second step! They needed help.
+
+“Call the knights. The zealots too. Have Sidjin wait by the previous node with whatever mages he can gather. I’m going first.”
+
+What the hell was going on? She hoped she wouldn’t be too late.
+
+***
+
+Viv flew under the thick cover of dark clouds, on Arthur’s back for once. The proud dragoness had mentioned the urgency of the situation as she was at risk of losing ‘valuable assets’. She just liked her humans, Viv thought, but she didn’t feel like teasing. She could see the problem.
+
+Far in front of her, past desiccated forests, the dead swarmed. In an endless multitude, they gathered like grains of black sand into a slow storm that blotted the land and in this case, even the skies. A lumbering hurricane of fliers rotated lazily over the fallen town, in such numbers that even looking at them all made Viv’s mind buckle. They were an uncountable number. Her gaze followed the heartland of Harrak to the left and right. Trails of undead came from the farthest reaches, some so distant that they became tiny black veins of congealed blood. Worse, some of that cancerous growth was sending offshoots south towards the various outposts leading to Sinur’s Gate.
+
+“Holy damn. It would take even me several months to clear them all out.”
+
+Mother, clad yourself in the black.
+
+We need to find them.
+
+Viv didn’t say that figures already shambled over the walls, and that there were no signs of resistance. No spells. Nothing. She used Coating to cover herself in her armor.
+
+For the briefest moment, her control over the black lurched.
+
+“What the —”
+
+I feel it as well, mother.
+
+“What is happening?”
+
+It is not us.
+
+Something is pulling on the black mana.
+
+Parts of the veil of undead fliers peeled off from the main body. They were still kilometers away.
+
+“Wait, they’re going for us!”
+
+It shouldn’t be possible. The undead relied on mana sense more than sight proper. They shouldn’t be able to perceive Viv at this distance. Even if they somehow did, her black mana ought to mark her as a kindred entity.
+
+They are attacking.
+
+Mother?
+
+“We need to break through. I don’t want to believe that we lost everyone.”
+
+Agreed.
+
+Mana rose to answer her call. Again, something pulled on the black though it was soon overcome. Out of curiosity, she called for transparent mana. That one was fine.
+
+“Is your red mana resisting as well?”
+
+A plume of fire emerged from the dragoness’ mouth in an incandescent spray so hot, Viv’s hair was pulled back by the sheer heatwave. The world around her lit up with dark red. The veil of creatures in front of them caught on fire, torched. They fell in a thick ashen rain. Arthur and Viv flew through the massive gap and closer to the heart of the maelstrom.
+
+No.
+
+Just the black.
+
+What could it mean?
+
+“I don’t know!’
+
+More are coming.
+
+Viv focused on her surroundings. The hurricane was slowly breaking part, with entire squadrons of giant bats and other flying horrors making for her. A dry stench filled the air. The black mana concentration was increasing to the point that it filled the abominable creatures with an unholy frenzy. Viv called for a hail of ‘yoinks’, her reserves increasing faster than she could deplete them. Arthur was more conservative.
+
+The wall was upon them. Viv’s spells formed a bubble of death and disintegrated matter around the pair but the deeper they went and the smaller that bubble grew. Arthur pulled back, sending wind and hail to smash against the creatures yet for each that fell, more took their place. The world darkened from the monsters above. They were getting boxed in. They were going to be so swarmed that they wouldn’t be able to move.
+
+Viv couldn’t believe her eyes.
+
+“Dive!”
+
+Arthur roared with fury at being stopped by her lessers, but she didn’t hesitate. Viv watched the squirming ground approach at high speed. The lack of light made it appear as if night had fallen.
+
+Arthur swerved off at the last moment, her claws raking the heads of a few revenants underneath. The carpet of undead extended in front of them until the white walls of the city, and even they were blanketed in corpses, the undead crawling over them. Arthur flipped just as they cleared the wall.
+
+Viv looked up, which was now down.
+
+Some blood. A few heavy corpses, already reanimated as revenants. A few fresh civilian corpses as well. Fizzling teleporting gate, its glyphs burnt by black mana. A hole in the fortifications. A trail of dying fires heading north west. Many of the more dangerous undead formed a loose string of monsters following the trails. White and skeletal crawlers walked on all four with an alien gait. Viv remembered how they’d just scaled the fort walls where she’d hidden as if gravity had no pull on them. There were also cowled puppeteers, their strange tentacles linking them to energized revenants, and the stout gut spillers with their pointed horns. Their acid sprays would wreak havoc on Harrakan tight formations. No wonder Sahin had elected to retreat.
+
+What is in that direction?
+
+“A food cache. It was meant to hold supplies for the expedition to the capital. Why would Sahin… Oh, perhaps he believes he can hold it? Look! A beacon!”
+
+Pillars surged at regular distance, clearly the work of fortification specialists working in a hurry. The debris of life beacons could still be seen shimmering at the top. Her general had probably used them to buy precious time by having part of the undead swarm focus on something else. Trenches and other basic constructs could be seen under the horde of undead. Signs of a fighting retreat.
+
+Mother, they’re still following!
+
+Viv turned to see a cloud of fliers behind them, though none could compete with the dragoness for speed. Part of the slowly moving hurricane was left dispersed and aimless. This wasn’t the work of a necromancer, or if it was, they were both insanely powerful and completely unfocused.
+
+Mother.
+
+We are bringing winged dead things to our allies!
+
+“We need to find them first.”
+
+Mother, even the dead things have wings.
+
+When can you have wings?
+
+“The moment is poorly chosen, daughter mine.”
+
+Listen!
+
+There were growls and cries ahead, behind a tall ridge. Dark smoke rose in thicker plumes there. It was probably a good sign.
+
+“Faster!”
+
+Move your own wings!
+
+Arthur crested the incline at the speed of a plane, revealing the battle ahead. Viv sighed with deep relief when she saw a thick wall of black steel backed against a mountain, with deep trenches filled with burning corpses channeling the monsters into kill zones. Liberators moved forward at brisk speed to crush revenants underfoot before backing away slowly. They’d probably exhausted all of their fuel. There were no arrows and no spells flying. That was usually a sign that an army had expended everything it had. Still, it was pretty impressive that they’d lasted for so long. The One Hundred stood at the fore over a waist-deep mountain of corpses like the rock they were, Brick holding the Harrakan battle standard. Their enchanted shields were covered in greenish goo, its acid failing to break through the powerful ingrained wards. The other groups were slightly behind but still unbroken. The Mountain Sons’ line was so straight she could have used it as a ruler.
+
+On the side, marauding bands of experienced witchpacts fell on revenants falling from the mountain above, or the rare fliers. They carried the bodies on great pyres before they could regenerate. They were going to need more room very soon.
+
+Behind, two mana absorption pylons rested on carts drawn by fearful cornudons. Smart of Sahin to bring them with him. Despite those efforts, Viv had to frown when she saw the backlines. Healers did their best to attend to poisoned men and women grasping wounds that oozed black mana, its deleterious strands crawling across their skin like questing snakes. Those people would die and turn if she didn’t get them out. Fast. Mages near the shelter entrance had formed a pile of exhausted people sipping water from gourds. It was surprisingly organized for what must have been a crazy run.
+
+Some of the scouts were already pointing in her direction.
+
+“We need to evacuate. I’ll activate a portal and link it to the previous node.”
+
+There is already a portal linked to the previous node.
+
+In the city.
+
+“It’s destroyed so it should be fine. I’ll just use the same glyphs. I need some time though. Let’s clear them a bit. You breathe fire, I call the storm?”
+
+Then we teleport back because I will be tired!
+
+And sleepy.
+
+“I don’t think we have much choice. Go!”
+
+They split. Viv levitated towards the solid line of infantry. Cheers and roars of relief saluted her arrival.
+
+“The Empress is here!’
+
+Behind her, the world ignited in fiery red. With a roar of fury, a line crossed the land from side to side. The fire wasn’t content to split the undead horde either. It grew, buffeted by conjured winds. The fire formed a veil that moved away from the Harrakans, swallowing hundreds of creatures as it progressed.
+
+Viv could feel it. She didn’t look back, of course. It wouldn’t have been cool. She wanted to cultivate her evil herald of destruction kind of vibes. The people were pleased anyway. Some of the younger ones were crying with relief.
+
+Ok, but gotta hurry.
+
+“The general would like to talk to you now,” one of Poacher’s people said, pointing towards the entrance of the cave.
+
+“Tell him to come out and meet me. I need to relieve some of the pressure. Fliers incoming.”
+
+Time to get to work. Some of the swarm’s faster creatures were already visible, and without other mages or any of Lak-Tak’s homemade napalm, this was going to go the Hitchcock way very soon.
+
+[Aspect of the Destroyer].
+
+Viv called upon black mana. Once again, there was a jolt, like something fighting her for control.
+
+“Oh no you don’t.”
+
+Massive power coursed through her. She also gathered the ambient mana since there was so much of it. Whatever was messing with mana, it couldn’t contest with her local control. Viv worked faster than ever before. Her skills worked overtime to push her past her limit, from arcane construct to mana mastery. She needed to get those things off her ass or the wounds on her men would be too many to safely purge. That was the real danger with undead wounds: the mana poisoning. Shit, even some of her frontline wasn’t looking too healthy either. The pylons were probably not working at full efficiency since they were being moved. She couldn’t tell since no amount of concentration bothered her… She really had to hurry.
+
+Viv skipped several steps by grabbing many strands at once. The additional strain made her head hurt. Someone was talking but she didn’t pay attention. The birds were almost upon them.
+
+She grabbed all the remaining lines of the spell but they resisted. Too many at once. It was so, so damn complicated to keep all those concepts in her, in her…
+
+A curtain of desiccated flesh and coal-colored feathers. Her mind struggled. She had to finish the spell. Had to. Grab the strands again… she was going to be too late.
+
+The curtain of flame rose to an inferno, pushing to the skies. Burning cinders crashed on her people, disintegrating on impact.
+
+MOTHER!
+
+“Storm of Zamhareer.”
+
+The din of battle deadened. Even the roar of the fire was lessened. Viv’s breath fogged in the ensuing sudden cold. Black flakes rose up in a concentrated rain that didn’t stop. Viv poured as much power as she could into the construct, fueling it past the point of usefulness. It was the only way to be sure it would last long enough. Slowly, the black flakes fell like soft snow upon the gathered ranks of undead. Gut spillers raised their thick arms. Puppeteers hid behind the revenants they controlled. Crawlers hid their ghoulish bodies under the corpses of their brethren. Many of the smartest beasts hesitated, fading instincts competing with the undead urge to consume. It made no difference. The first popping sound came with disintegrated bodies and soon, it turned into a crackle. The undead horde disappeared under the thick fall. Viv breathed a sigh of relief. It had been a bit too close.
+
+“Your Imperial Majesty?” a calm voice asked.
+
+It was Sahin, her general. As usual, the effeminate man kept a completely controlled demeanor. You couldn’t tell he was fighting a doomed battle.
+
+“I just need a moment.”
+
+“I fear time might be of the essence. The mana concentration is increasing with the number of undead. Some of the wounded will not last very long.”
+
+“Dammit. I’ll open the portal right away.”
+
+Viv ran to the back of the camp with Sahin close behind. The shelter was open with rows of wounded waiting on the ground. Witchpacts with no quarrels left took turns to keep the mana poisoning at bay.
+
+“I told them to focus on holding the poison back rather than banishing it.”
+
+“What’s happening? Talk to me while I work.”
+
+Viv cut a circle in the ground almost instantly. She was so used to building the ritual now that she could do it while holding a conversation.
+
+“I observed a higher concentration of undead in the vicinity of Asterley, and reported it, following which you gracefully agreed to hold exercises here.”
+
+Viv kept her best poker face. It was one of those reports she’d glanced over, the kind that went ‘I intend to do this’ and her reaction had been ‘yeah sure whatever’.
+
+“The quick influx of undead led me to believe something was afoot. I intended to hold the city to try and understand what disturbed their habits so. The way they move is inconsistent with… everything we have learnt so far. Even the presence of a lich doesn’t account for the way they behave.”
+
+“We will need Abe’s help, I think.”
+
+“Quite so. I sent reports and a call for reinforcement. I was not too concerned at first. Unfortunately, the mana concentration suddenly increased and something deactivated the teleportation circle and the pillars.”
+
+“All at once?”
+
+“They fizzled within minutes of each other. It was as if something pulled on the strands of power like strings, eventually snapping them. At least, that is what Magister Edria said.”
+
+He pointed at a pale girl laying on the ground at some distance, her brow covered in sweat. She was breathing short, shallow breaths. Viv was familiar with mana exhaustion and its symptoms. The poor thing was probably struggling to stay awake. She lifted a finger, a Remnants sign of approval. Viv finally recognized her as one of Frosthawk’s stern senior students.
+
+“Magister Edria managed to reactivate two of the obelisks. After only a few minutes of battle, I realized our position was untenable. With retreat cut off and the keep too small to accommodate us all, I realized our best bet was to fall back to the shelter while their flying forces were not yet so numerous. Unfortunately, some of our new squads were cut off during the evacuation. We have suffered losses.”
+
+He swallowed his saliva.
+
+“I am sorry.”
+
+“It’s the first time something managed to deactivate our teleporter from afar. Something is messing with the black mana. We need to figure out why or this swarm will put an end to everything we’ve planned.”
+
+Sahin appeared relieved, yet still aloof and distant. Maybe he expected Viv to yell at him? It wasn’t like she’d have done any better in his position. In fact, she ought to let him know.
+
+“You’ve kept everyone together. Now let’s get them out of here.”
+
+The portal opened, showing the mercifully undead-free node. It was set in a fort. One of Lana’s girls was in the middle of an activation enchantment.
+
+“Oh thank Enttiku, I’d been trying to —”
+
+“No time! Help with the evacuation. I’ll hold the line. Go, everyone, go!”
+
+Sahin distributed orders. With military efficiency, the civilians and resting witchpacts pulled carts filled with moaning people through. Viv returned to the front. Outside, her spell was still running its course, except… Something was wrong.
+
+Something was coming through. Arthur landed next to her, her breath short.
+
+Tired.
+
+Need fish.
+
+“Ban. Ban?”
+
+“Here, milady,” the old warrior replied.
+
+“Start pulling your people back. Quickly.”
+
+“With all due respects, we’re —”
+
+“Do it now. You can’t help with this.”
+
+Ban gave the signal to pull back. At a distance, Poacher did the same with her witchpact. It was a relief how quick and organized they were because Viv was going to need the space.
+
+“What’s going on?” Ban asked. “What’s coming?”
+
+The low cloud of black snow parted, or rather, a shape moved through it. Pitted pale skin covered in rivulets of brackish blood appeared first, then a face, protected by ravaged arms. It had crimson eyes devoid of reason and a gaping hole where the nose ought to be.
+
+“Necrarch.”
+
+You take this one, mother.
+
+The creature roared a strident call that bounced against Viv’s soul. For an instant, she feared that panic might spread through her ranks. She was ready to switch to her [Aspect of the Paragon] to help but it didn’t prove necessary. Brick was here.
+
+“I’ll oversee the evacuation, Your Majesty. Good luck!” Ban said.
+
+Viv thanked him while he turned to scream insults at a few young soldiers who had succumbed to curiosity.
+
+What the fuck was a necrarch doing here? Was it waiting for her? What was going on?
+
+The thing moved at incredible speed. Viv jumped, surprised again by how something of that size could move as fast as a blade master, but her aim was true.
+
+“Yoink!”
+
+Viv bonded with the ancient creature’s massive mana circuit. A contest of will ensued. It was like picking at a rock with a spoon. The beast was as mindless as ever, devoid of lich-like influence as far as she could tell. There was just… so much of it. But she was winning, and the struggle had made it stop moving. It was the safest way to dispose of one that she… wait a minute.
+
+“What do you mean, this one?” she asked Arthur with some concern. The answer came far too soon. There were other shapes lumbering through the Storm of Zamhareer, tanking the spell with their resilient bodies.
+
+Arthur spat one thin line of fire after another, the flames splashing against a necrarch resembling a giant centipede. Part of its abominable body caught fire but the rest hissed and skittered towards the dragoness, who was ready to get her claws on it. It wasn’t right. Arthur ought to be flying. This was her greatest advantage. With a last scream of effort, Viv ripped enough of her foe’s energy out of its body for it to collapse to the ground, dead. Though she’d defeated one of the two greater undead, it failed to fully disintegrate. Dammit!
+
+[Aspect of the Destroyer]
+
+[Sequence: Triple Hyperbeam]
+
+Powerful rays raked the side of the centipedal necrarch. Its assault failed. Arthur used the opening to fall on it in a whirlwind of tooth and claw. Viv didn’t have time to help. Another shape emerged from the spell, then another. More were coming through the last flakes. It was going to get harder. She looked back to see how the evacuation was progressing, knowing full well only a few seconds had passed and it wouldn’t be enough.
+
+Something whistled past her. The next necrarch’s head was skewered to the ground.
+
+//FINALLY, SOME ACTION.
+
+//I WAS GETTING BORED.
+
+“There’s enough for everyone!”
+
+With the heavy staccato of plate-metal slamming into the dry ground; the golems advanced past the retreating heavies. They formed a tighter line. Ares was the next one to decapitate an approaching bear-like creature, with several subsequent necrarchs sharing a similar fate. Soon, revenants joined the assault, but the golems just ignored them. They couldn’t do anything in the face of such overwhelming force.
+
+Viv used a lull to look back. The evacuation was nearly done by now.
+
+It was looking like the horde was already veering away towards the south. This really wasn’t standard behavior for the undead. Not to mention, if the necrarchs were so close, why had they not attacked before? How could they even be here so far from the epicenter? This made no sense.
+
+//WE SHOULD FALL BACK.
+
+//WE MIGHT NEED TO SAVE SOME OF OUR ENERGY FOR LATER.
+
+“Alright.”
+
+Finally…
+
+Viv and Arthur crossed the portal; The poor dragoness dragging herself off to one side. She collapsed there with threats of fiery death against anyone who woke her up without properly slathered fish barbecue. Viv knew she was going to spend the next hour drawing black mana out of poisoned people, but first she needed to assess the situation.
+
+She levitated herself up. That fort had been built with visibility in mind. The watchtower provided a commanding view of the lands around. Even halfway up, Viv could already see the grasping tendrils of the faraway undead horde turning towards them.
+
+She spotted Sahin in the watchtower. His expression was unreadable. Viv didn’t need a strategic council to guess how a confrontation between her three-thousand strong full army and the tens, no, hundreds of thousands of undead crawling towards them would go. Not with necrarchs on the line.
+
+“We won’t win this with a defensive siege. Begin evacuation.”

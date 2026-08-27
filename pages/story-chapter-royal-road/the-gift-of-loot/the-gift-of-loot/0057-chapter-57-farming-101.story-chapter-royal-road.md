@@ -1,0 +1,293 @@
+---
+id: 7b0214aa-0536-5ac6-a1e4-dd0eea476c9b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 57: Farming 101"
+slug: 0057-chapter-57-farming-101
+partOf: the-gift-of-loot
+position: 57
+ownLength: 3766
+unit: words
+publishedAt: 2026-07-17
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3690283/chapter-57-farming-101"
+royalRoadId: "3690283"
+---
+
+Thomas stepped through the portal. Unlike in certain sci-fi shows, there was no sense of traveling through a tunnel. Actually, it was as if he hadn't moved at all. One moment he was stepping through the dark elves' portal building; the next, his foot landed on dry ground, and he was in the middle of a sea of waist-high grass.
+
+The portal on this end was set up on a marble plinth with a wide staircase leading up to it. From this vantage point, Thomas saw a red-brown forest filled with oddly diagonal-shaped trees. Above, the sky was a reddish gold, indicating either dawn or dusk. He wasn't quite sure.
+
+The others arrived right behind him, and all took a few moments to take in the view. Unlike the dark elves' part of the world, the temperature was much warmer. It was a good 70 degrees, just barely below what he would consider room temperature.
+
+"So... it's always like this here?" Jo asked, nodding upward. "The sky?"
+
+"Yeah, kind of weird, right?" Thomas said. "We're in the twilight zone. From their vantage point, the sun is always either setting... or rising. I don't know which one this is."
+
+That was a fun discovery from the packet that Jo had been given. It seemed that the elf world, Aether, was a tidally locked planet. So as it orbited, it always showed the same face to its sun.
+
+Well, apparently there was a very, very slight rotation, the equivalent of a foot towards the east a year. Though for all intents and purposes, it was always night on the same side of the planet, always blazing day on the other, with two twilight zones like this where the sun hung perpetually between rising and setting.
+
+Apparently, that twilight zone was where most of the population lived, as it was the most temperature stable. The deepest parts of the night side were covered in ice, and the most brilliantly lit parts of the planet were searingly hot.
+
+Even the dark elves, who tended to stay towards the night side, lived more towards the edge of the dark, where the winds still carried some heat over from the light side.
+
+It was weird and alien, which made sense because it was, of course, an alien world.
+
+"You'd think that the night elves would want somewhere more like what they're used to, like maybe above the Arctic Circle," Jo muttered. "Six months of winter darkness a year."
+
+"Yeah, but then a few months of daytime in the summer," Thomas reminded her.
+
+"Maybe someone already claimed those spots," Zach said. "Elves aren't the only ones who will have colonies, and dark elves are kind of at the bottom of the pecking order, know what I mean?"
+
+That was a sobering thought. Their new allies didn't have a lot of power.
+
+Thomas shook his head and then started descending the plinth. "Let's get going."
+
+The Twilight Zone was the most populated area on the planet, but he wouldn't know it just by looking at this place. A dirt road cut through the sea of grass, leading to structures that looked like mud huts far in the distance. The guide had said the dungeon was located just before the village.
+
+"How do they know when it's time to sleep?" Jo asked. "If there's no sunset or sunrise..."
+
+They all looked at each other and shrugged.
+
+"Aliens," Thomas said, trying to sound wise. "Maybe they don't sleep."
+
+"You really think so?" Jo asked.
+
+"No, Akilah had a bed in his room."
+
+The dirt road was surprisingly similar to Earth's, though Thomas supposed there were only so many ways one could create a road. However, there were no cars in sight, only literal wagon tracks, which made sense when they passed people heading down the road with wagons.
+
+The animals pulling the wagons weren't horses. They weren't... anything he could easily describe other than "green snotty yak." Each was large, furry, and green, and seemed to be dripping snot from wide nostrils.
+
+He didn't think they were sick. It just seemed to be how they were. Yuck.
+
+The green yak team was pulling an equally large wagon, loaded down with... uh, Thomas assumed it was some sort of vegetable. It kind of looked like an orange pine cone. Maybe it was a crazy version of elf corn.
+
+The road was narrow, and the wagon was large enough to take up all the room, so the team politely stood aside in the sea of grass as they drove by.
+
+The dark elves on the wagon looked like a mother and three children. They all wore ratty clothing, and one child was asleep, stretched out on the pile of corn pine cone stuff. Thomas got the impression that they had spent the entire early morning—or whatever equivalent—harvesting.
+
+The elves openly stared at them. Zach raised his hand in a wave, and none of them waved back.
+
+No one spoke, and the wagon trundled on. From the back of the wagon, one of the kids stuck their tongue out at them.
+
+"Friendly folk," Jo muttered.
+
+"I think the Elf city we came from is kind of the equivalent of New York," Thomas said, "where you see different people all the time, and the citizens are too jaded to care what you look like. And now we've arrived in, I don't know, rural Alabama."
+
+"Dudes," Zach turned to them, excited. "We're probably the first human beings they've seen. Did that count as first contact?"
+
+"I think technically?" Thomas mused. "At least with that family."
+
+"Awesome."
+
+"Yeah," Jo agreed dryly. "One day those kids will be telling tales to their grandchildren of the day they met humans. Let's shake a tail, boys."
+
+They walked on. About half a mile down the road they came to a fork, and a sign which the System helpfully translated:
+
+Griffin Trials Dungeon <--
+
+Nonstrel Song Village -->
+
+It was pretty obvious where to go.
+
+The dungeon wasn't far beyond, and the road dead-ended right up to it. To Thomas's mild surprise, no one was guarding it. But why would there be? They didn't have the equivalent of the National Guard surveying people with the security theater of keeping peace.
+
+There was also no clock set out to indicate the turning over of a new dungeon instance.
+
+"Okay," he said, "we'll all enter together, but just in case someone doesn't make it into the entrance room, back out immediately, and we'll try again in a few minutes."
+
+The other two nodded, and they entered the white and brown flickering dungeon.
+
+As this was a level 4 dungeon, the entrance room could actually be considered cozy instead of tiny and cramped. It had a hard-packed dirt floor, and yet still seemed to be clean and tidy. The walls even had a nice floral design around the borders, and in the corner sat a single chair.
+
+Zach nodded in approval. "I hear that the entrance rooms get way more elaborate the higher levels you go."
+
+"Beats the closet-sized room on the first level," Thomas said. "I never figured out how large parties managed that."
+
+"Oh, they go straight on through the room into the dungeon without stopping," Zach said casually. "As long as it's within the same ten-minute instance, everyone can make it."
+
+Speaking of instances, Thomas pulled out his pocket watch and marked the time. "Starting the minute countdown... now."
+
+They had ten minutes to kill, as he had been snuck up on in a dungeon exactly once and promised himself he never would again. It was good sense, and it wasn't like they were in a rush.
+
+Thomas pulled out his guide and flipped through to the illustrations. "Okay. Remember, for the first part of the dungeons, the griffin nests that won't collapse under your weight are going to look like this, with a little forked branch sticking out the side." He turned the guide around so everybody could see. It was an illustration of a bird's nest hanging off a branch. This particular branch had a secondary fork at the end of it with little twigs sticking out.
+
+"Pick the wrong branch, and the whole thing will snap," Thomas said. "It could be a long fall."
+
+"Aren't there different pathways we could take in this one?" Jo asked.
+
+Thomas nodded. "I'm thinking we take the middle pathway for our first run. It's the most straightforward."
+
+"I'm down with that," Zach said. "So, I know we're after Adaptation mana. What else is good here again?"
+
+Thomas tried to set expectations. "The Adaptation mana is a rare drop."
+
+"Yeah, but is it rare with your Gift?" He wiggled his eyebrows.
+
+He grinned back. Okay, his Gift was pretty awesome. "We'll find out. Anyway, the main crystal drop is going to be Wood mana and Sky mana, which... I think might be the elfin equivalent of Air mana?"
+
+He looked at the others, who shrugged back at him.
+
+Either way, this dungeon was marked as one of the easier Level Four dungeons they had access to, but came with a lot of monsters. That was the perfect combination for the team.
+
+Everybody else spent a few moments quietly shuffling through their packs to make sure all weapons were out and everything was in order. They were all concentrating, but the atmosphere wasn't tense.
+
+For Thomas's part, he felt a quiet sense of anticipation, which was crazy, considering the anxious mess he'd been when he had entered his first Demon Chicken dungeon back on Earth.
+
+Then again, he had been going in alone, and feeling a little stupid that he was taking any of this magic stuff seriously. Now he had two friends backing him up, they had a goal, and a guide to tell them the safest path through the dungeon.
+
+It helped to know that if things got too hot or too difficult, they could always just back out through the entrance door right away. They had nothing to prove, no guards watching them on the other side, or a line of people waiting for the entrance. All they needed to do was get enough mana to pay for their trip back. And that wasn't going to be hard. There was a System Marketplace stall in the next town over.
+
+They could do this.
+
+His pocket watch showed ten minutes had lapsed, and Thomas was certain that the dungeon had entered a new instance. He replaced the watch back in his pocket. "It's time."
+
+Jo gave a professional nod and unsheathed her Blood Thirst sword.
+
+"All right!" Zach said with a fist pump. "Let's get us some griffins."
+
+He opened up the door, and they stepped into unfiltered daylight. Each dungeon apparently was its own pocket dimension, and this one seemed to be based on the light side of the planet. The temperature had ratcheted up another ten degrees instantly, putting it into late spring or summer territory, and the sky way, way above was a piercing blue.
+
+They were also assaulted by the cries of birds from every direction: Squawks, croaks, and screeches bounced off the walls all around. It felt almost like a sonic attack.
+
+Stepping away from the door, Thomas took a good look around. It was as if they stood at the bottom of a giant cylinder. The exit door, he knew, would be at the very top.
+
+The space on the ground floor was round and extended out a good 200 feet in every direction. So many staircases extended up the walls and through the middle core that it reminded him of that one M.C. Escher painting. Some were carved stone, some seemed to be made of reddish-brown wood that had been convinced to grow in the shape of stairways, and one looked like it was made of glass and reflected the bright sunshine in a way that made him wish he'd brought sunglasses.
+
+And covering all of them were... griffins. No bird poop anywhere, though, proving that this was not a real place.
+
+There would be three main levels to this dungeon. The first and easiest was the nestling level. Peppered all up and down the staircases were large nests six feet across, all with eggs and... griffin chicks? Cubs? He wasn't sure, as they were half eagle, half lion. But there was a problem.
+
+"Ah, damn it," Thomas muttered. "They're really cute."
+
+"They're dungeon monsters, dude," Zach said.
+
+"They still have to die," Jo agreed coldly, her hand on her sword. Her Still Waters skill made cutting through any problem easy.
+
+"I know, I know," Thomas muttered, pulling his halberd from his extra-spatial backpack. "I just hate killing things that look like puppies, okay? Sue me."
+
+The griffin babies were so cute. They had big heads with giant oversized baby eyes, beaks they had yet to grow into, soft-looking lion paws, a swishy tail, and little flappy wings.
+
+God damn it, he thought, feeling ill.
+
+Honestly, he knew better. Cuteness was part of the deception. The grizzly cubs inside the grizzly dungeon had looked exactly like an artist's depiction of a teddy bear... at least until they started to attack, when their features had sharpened and the real monster came out.
+
+Zach clapped him on the shoulder. "Think of the loot drops."
+
+That actually helped a little.
+
+"Why don't you take the first nest, Mr. Fire?" Jo suggested.
+
+"My pleasure." Though Zach didn't actually need his fire for this. He simply walked over to a low nest on the edge of one of the closest staircases and brought his quarterstaff down on one of the nestling's heads, killing it instantly.
+
+"Zach, just try to wound it. Thomas is the one who has to make the kill," Jo reminded him.
+
+"Oh, right. Sorry."
+
+But the other two nestmates were not just going to sit there and be bludgeoned to death. One gave a screech that sounded eerily like a velociraptor and launched itself as if it had been sitting on springs, straight at Zach's face with claws out.
+
+It had very large claws. The beak suddenly looked a lot sharper, too, as if the cuteness had melted away.
+
+Zach easily ducked and swiped it from the air with his quarterstaff, knocking it toward Thomas.
+
+The baby griffin landed nearby, definitely injured but not quite dead as it fluttered around on a broken leg and wing. Thomas winced but brought down the halberd, chopping off its head and putting it out of its misery. He followed up a moment later with its sibling as Zach sent it his way.
+
+The other griffins in the nests screeched in alarm, but none attacked them yet. It seemed they would stay in their nests unless directly challenged or someone drew too close. These were only the hatchlings. According to the guide, the juveniles would be more mobile, flapping and hopping from nest to nest, viciously attacking anything that moved.
+
+Zach checked his first kill but came up with no drops.
+
+However, each of Thomas's kills delivered a C and B grade Wood mana crystal. They were rough, like bark, with a red-brown color that seemed to be standard elven wood.
+
+As he picked each up, he felt a very slight resonance with it and his own mana core, telling him that he was at least somewhat compatible.
+
+"Got a couple Wood mana," he announced, and tucked them in his backpack. Since Zach and Jo were going to be the main damage dealers, with him cleaning up and adding his particular Gift's power, he had been elected to carry the loot in his backpack.
+
+Meanwhile, Jo had chosen her own nest. She had her Blood Thirst fencing sword, and through it, she was able to wield her Poison mana.
+
+It was a simple thing for her to go up to the nest and poke the closest chick with her sword, delivering a dose of poison. Just like with the first nest, the other two chicks didn't take this lying down and went after her, screeching their velociraptor cries, heads and beaks elongated for the kill.
+
+She wasn't quite as light on her feet as Zach, but thanks to her Still Waters skill, which allowed her to stay utterly calm, she stepped precisely where she needed to go, slashed at one chick that immediately started bleeding out, and then pivoted in place to thrust at the other one.
+
+She was getting really good with that sword. It was hard to believe she had only picked one up a couple of weeks ago.
+
+Thomas came over and ended the lives of the chicks, which were flopping around either bleeding out or dying of poison. It was grim work, but again, the rewards were worth it.
+
+Two of the chicks dropped a Wood mana a piece. The last one, however, was different.
+
+"This is new," Thomas said. It was a C grade, he guessed, just judging by its size. But it was almost entirely clear with a faint tinge of blue. When he picked it up, it felt like it was vibrating subtly between his fingers. It wasn't a feeling of resonance with his own core. Instead, the vibration felt like an aspect of the mana itself.
+
+He concentrated, and the System popped up a label: Sound Mana.
+
+"Hey, have you ever heard of sound mana?"
+
+"Was that a pun?" Jo asked flatly, unaffected.
+
+"No, man," Zach said, then flashed a grin at the unamused Jo before he added, "but I heard they're worth more money than regular elementals."
+
+She made a face. "That certainly wasn't a pun; you just repeated what he said."
+
+Ignoring them, Thomas added the new mana crystal to his bag of loot. Then he noticed Jo was staring at him intently. "What?" he asked. Sometimes she could be a bit weird when she was under the effects of that skill.
+
+"Is there anything interesting down here?" she asked pointedly.
+
+His eyes briefly widened, and he felt like slapping his forehead. Duh. Eyes of Riches was his newest skill, and he'd almost forgotten about it. "Give me a moment." He blinked rapidly, activating it in his mind.
+
+Instantly... the world turned strange again. Eyes of Riches let him see in a different frequency. He wasn't sure if it was higher or lower, but he saw colors he had not imagined before, and different shades indicated different amounts of treasure and the value of loot.
+
+Some places, like the Elvin marketplace, which was filled with treasures to buy, were almost blinding. This dungeon... wasn't. But looking around through the Eyes of Riches skill was still odd.
+
+He took a careful sweep around, noting differently glowing areas above. These were mostly relegated to the stairways that the guide said were the most dangerous.
+
+"I'm not seeing anything that might indicate there's a Goldie around," he said after a long minute.
+
+"Ah, nuts," Jo said with her flat intonation.
+
+Zach shrugged. "Can't expect it in every dungeon, though it would be nice."
+
+Then Thomas spotted something promising nearby.
+
+"There's something right there." He pointed to a nest about fifteen feet up that was hanging right off the wall. Unfortunately, there was no ladder or stairs or anything leading to it. The chicks would have to be killed by archery or some other long-range method.
+
+Or if they had a teleporter.
+
+"I'll get it," Zach said, and in a second he was up at the nest, kicking the fledglings out before they could attack him. Their little flappy wings were much too small to support their weight, and they fell hard to the ground. But he wasn't quite fast enough. He yelled as the last fledgling took a chunk out of his leg before it, too, was given an early flying lesson.
+
+"Wait a second," Thomas yelled before Zach could pop back down to ground level again. "Is there anything else in the nest?"
+
+"Uh..." Zach looked around, then bent to shuffle inside it. He picked out something that looked like a brown rock — except to Thomas's sight, it glowed neon beige. He was still getting used to the colors.
+
+"That's it," Thomas called.
+
+In a blink, Zach was suddenly standing on ground level again.
+
+Thomas went to quickly kill the injured chicks, but they only dropped more Wood mana. They also weren't glowing.
+
+With loot in hand, he rejoined the others.
+
+"Watch out for those beaks," Zach was telling Jo while he shuffled around in his bag. "I think they can snap bone if they get the right leverage."
+
+"You okay?" Thomas asked. "Need healing?"
+
+"No, I got this one," Zach said as he pulled a lower-level healing crystal out of his bag. He absorbed it and sighed in relief as the tear in his thigh healed perfectly. Zach then coughed out the excess healing mana, which came out in fleshy-gold sparkles.
+
+Absorbing healing crystals for a quick self-heal was standard practice with divers because it was rare for a healer to actually follow a team into dungeons. Most people had to patch themselves up using healing crystals, even if they couldn't naturally retain any excess mana in their cores.
+
+"So, what's that thing you found?" Jo asked. "Because it looks a little like a dropping. Not the loot kind."
+
+Zach squinted. "System says it's a Chouk seed."
+
+Thomas brightened. "Oh, that's great stuff. It's better than coffee. I wonder if we can grow it on Earth? My mom's a really good gardener, and she's been trying with some seeds from the Vegetable Greenhouse dungeon."
+
+"No kidding," Zach said with interest, then handed it over. "Which ones do you guys want to tackle first?"
+
+Thomas pointed to the staircase that made up the middle of the cylinder and curved straight up. "Easy one first, to see how we do."
+
+Jo nodded in agreement.
+
+The stone staircase was covered with different nests, and above that were the screeching juveniles, which would be harder. In fact, they'd attack all at once if they got the chance.
+
+"Remember," Thomas said, "We go halfway up to the juvies and then stop. Whatever happens, no one provokes them. The nestlings are rated as easy for levels 3 and 4, but the juveniles jump to 'difficult' for level 4s."
+
+As they were only level 3, they did not want that smoke.
+
+"Right, right." Zach took the opportunity to grab a canteen from his bag and drink before parroting back the plan. "Then we get out, wait ten minutes, then come back for a fresh batch of nestlings again." He grinned. "Dungeon farming 101."

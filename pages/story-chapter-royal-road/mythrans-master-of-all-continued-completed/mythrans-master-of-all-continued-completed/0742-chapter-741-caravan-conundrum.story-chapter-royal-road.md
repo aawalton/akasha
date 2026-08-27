@@ -1,0 +1,287 @@
+---
+id: dd071750-cd47-5185-a0c6-4ac4cfbeb30a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 741 - Caravan Conundrum"
+slug: 0742-chapter-741-caravan-conundrum
+partOf: mythrans-master-of-all-continued-completed
+position: 742
+ownLength: 3017
+unit: words
+publishedAt: 2018-10-25
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/300874/chapter-741-caravan-conundrum"
+royalRoadId: "300874"
+---
+
+Dwarf Ren and Artrude stepped out of the portal into Nathalia's room at the medical building and were met with consternation and disbelief.
+
+“You went to her.” Nathalia said, and that's where the consternation and disbelief came from.
+
+Dwarf Ren saw that Ereka had come over to the medical building and had filled Nathalia in. “I did go to her, and you're not going to believe what happened next.”
+
+Frikara, Lusinia, Verwynn, Navruth, Andrela, Xuunah, Ereka, and Malenka stayed completely silent as he told them all about what happened, and Artrude chimed in occasionally and told her parts of it.
+
+“She didn't ban him again when she realized he was actually there, either!” Teepo chittered in delight when the story was over. “He told her he wasn't breaking any laws while he was there saving her kids, so she let it drop!”
+
+“Wow.” Andrela said.
+
+“I can't believe it.” Frikara said.
+
+“That's amazing.” Lusinia said.
+
+“Your daughter is next in line for the throne.” Navruth said, her Practicality skill kicking in. “You're official royalty by dwarf law.”
+
+“Wh-what?” Verwynn turned to her.
+
+“He's the father of the Princess of the Royal Family, since she can't be any higher because her brother's going to be King.” Navruth said. “If anything happens to him, like abdicating or abandoning the throne...”
+
+“Ren will become the Queen Father.” Nathalia said, almost with wonder in her voice. “Regardless of what happens to the new king, it puts our child in the line of succession.” She said. “Third in line, since deities aren't eligible or was born from a dwarf.”
+
+“By the gods.” Frikara said and rubbed her belly. “That... that means...”
+
+“If Navruth is right, then all of our children will be in line for the throne.” Xuunah said and touched her own belly.
+
+“Oh, my!” Malenka jumped up and down and clapped her hands. “We went from no one being around to rule the country, and now we have so many!”
+
+“It might have to be unofficially.” Dwarf Ren said, and they all looked at him. “I doubt they will announce that I'm the father when they register the births.”
+
+Artrude laughed. “Are you kidding? They have no choice about it!”
+
+“Wh-what?”
+
+“Remember how we filled out the form for Renardos?” Artrude asked.
+
+Dwarf Ren thought back and his eyes widened. “Oh, crap.”
+
+“The whole population gets birth notices from the Royal Family and not just the Major and Minor Houses!” Artrude said and they all laughed because there was no way to keep that information secret. After a few minutes, Ren polymorphed back to his normal self.
+
+“I need to go.” Ren said and went to Nathalia and gave her a kiss on the lips. “If I hurry, I should be able to catch the caravan from Pervaria before it gets too close to the Human Kingdom's borders.”
+
+“Have fun.” Nathalia said as Ren touched Renardos' head.
+
+“I'll try.” Ren said and looked at the other women. “Want me to open a portal back to the Main House in Aurora?”
+
+“We can wait until you come back.” Frikara said.
+
+“I have Adventurer's business tonight and I don't know what kind of sleeping arrangements the caravan has.”
+
+“Or even if it stops so people can sleep.” Teepo said.
+
+“That too.” Ren said.
+
+“Then make the portal and we'll try to be careful around it.” Xuunah said.
+
+Ren checked the All-Seeing Mirror and cast the portal on the far wall, well away from everyone, and it appeared on the wall next to the apartment's door. He then made a door on this side to cover it, then went to each woman and gave them a kiss on the lips until he came to Artrude and Malenka. He held a hand out for them to shake instead.
+
+Malenka chuckled as she pushed his hand aside and gave him a kiss, then Artrude did, too.
+
+“But... you...” Ren blinked his eyes at them, and that made all the women laugh.
+
+“It's okay for friends to kiss.” Malenka said. “Since we save the best ones for the people we care about.” She said, then jumped into Artrude's arms and kissed her like they were alone and no one else was in the room. Everyone just watched in fascination as it went on and on, then Malenka broke the kiss.
+
+“Like that!” Malenka said happily.
+
+Artrude's face was bright red from embarrassment and arousal. “M-Malenka...”
+
+“I love you, Artrude.” Malenka said in a sexy voice and kissed her again.
+
+“Um... yeah, I... ah... gotta go! See ya!” Ren gave them a wave and ran out of the medical building, and he heard everyone's laughter. He ran over to the Main House and went inside to meet Artemis. He then told her and the receptionist that the queen had both babies safely, and the receptionist's joy and happiness at the news was quite extraordinary.
+
+“Thank you so much, King Ren!” The receptionist said. “Everyone will be so happy to know there is now two rulers when before we had none!”
+
+“Should you tell her that your other kids are eligible for the throne, too?” Teepo asked.
+
+That might be too much for her to handle. Ren thought.
+
+“If you're the Dwarf Princess' father, wouldn't your child with Nathalia also be in line for the throne, even once removed?” Artemis asked with a smile, and they both felt shock from the receptionist.
+
+“By the GODS!” The receptionist yelled, and her shock was quickly replaced with exuberance. “Renardos is heir to House Neram's royal family, and he's also a part of the Royal Family!” She said and sat back in her chair and fanned her face with her hand. “By the gods.”
+
+I told you. Ren thought with a smile and took the receptionist's hand. “Ma'am, it's okay. The dwarf people no longer have a ruling crisis anymore.”
+
+The receptionist reacted to his touch as he poured Reassurance into her. “Th-thank you, K-king Ren.”
+
+Ren let her hand go. “Artemis, let's go.”
+
+They left the main house and Ren unhooked the carriage that was still attached to Princess and stored it in her saddlebag, then climbed onto her back. Unfettered by any kind of encumbrance, Princess took off at her best speed and crossed the dwarf lands in only a couple of minutes, then crossed the ocean, then came to a stop in Aurora.
+
+Ren quickly wrote out two notes and gave them to Artemis, and she delivered them to Orimihr's two women. The notes explained he may be gone for several weeks and he would miss them dearly. Both women were extremely flattered that he would keep them informed like that, and Artemis flew back to Ren.
+
+“Okay, now we have to decide who wants to come along on the caravan.” Ren said.
+
+“I will return to my house, My King.” Princess said. “Trotting is okay once and a while; but, I refuse to continuously travel at such a slow speed.”
+
+Ren snorted a laugh. “I seem to remember someone who didn't want to run at all at one point.”
+
+“Whoever could that have been?” Princess asked with a huff, and Teepo chittered in laughter.
+
+“I'm tempted to go along.” Artemis said. “If only to be your touchstone.”
+
+“I agree.” Ren said. “Plus, it'll give us some alone time.”
+
+“Like we don't have enough of that.” Artemis said with a smile. “You literally carry 'alone time' with you wherever you go with your Vasalor Statue.”
+
+“I won't be using it during the trip, especially in front of people I don't know.” Ren said.
+
+“Good point.”
+
+“I'm tempted to bring a succubi or two; but once again, I don't know what kind of sleeping arrangements will be available.”
+
+“You could ask and then come back.” Teepo suggested.
+
+“Well, I'll have to tell them my days are going to be spent in the Fire Realm and that I have to leave on Adventurer's business at night.” Ren said. “Finding out the sleeping arrangements before committing to joining the caravan would be a good idea.”
+
+“It's not like you'll be using it much, anyway.” Teepo said.
+
+“It depends on if they travel at night.” Ren said. “I'll pop out for Adventurer's business and come right back.”
+
+“There's lots of time left in the day before you need to go.” Artemis said. “Let's just get to the caravan and find out what we need to know.”
+
+Ren nodded. “If my calculations are correct, and the size of the boars are any indication of their speed, then they should be about halfway across the Human Kingdom by now... assuming they didn't stop at any towns along the way.”
+
+“Or stopped to rest the boars.” Teepo said.
+
+“Hm. Good point.” Ren said. “Round it down to a third of the way.”
+
+“I will catch them easily, My King.” Princess said, confidently.
+
+“I know you will.” Ren scratched her chin, then took out the All-Seeing Mirror. “Map of the Human Kingdom, please.”
+
+The map popped up and Ren pointed to the general area, then made a circle all around the capital city at that distance.
+
+“They could be anywhere within this circle, since I didn't ask which way they were headed.” Ren said with a smile.
+
+“Just ask the mirror for their progress.” Artemis suggested.
+
+“Please show me the caravan's progress from the capital city to where they are now.” Ren said, and the map didn't change. “Wait, what?”
+
+“Are they gone already?” Artemis asked. “Did they travel so fast it didn't register?”
+
+“Did they portal out?” Teepo asked.
+
+Ren let those ideas percolate for a moment. “Please show me the Pervarian caravan's current location.”
+
+A dot appeared right beside the capital city.
+
+“Well, damn. No wonder we didn't see any progress.” Ren almost laughed. “They didn't go anywhere!”
+
+Princess huffed. “I'm glad I decided to return home. They would be ridiculously easy to catch if they didn't move.”
+
+Ren did laugh at that and scratched her chin again. “I guess I'll ride you home and then portal over.”
+
+“As you wish, My King.” Princess said, and they travelled to the Main House in his county and dropped Princess off at her house, then Ren opened a portal up the road from the caravan, just outside his huge Aura.
+
+“You're really going to leave it on all the time?” Artemis asked.
+
+“You think I should tone it down while being in such close quarters?” Ren asked, and she nodded. “Who am I to deny my ranged combat specialist's opinion?”
+
+“You're a king and the man who made me.” Artemis said, and Ren chuckled as he deactivated all of his Auras except for his personal one and put an arm around her waist. She put her arm over his shoulders and they walked like that until they came into sight of the caravan. Artemis pulled her arm away and stepped half a pace to the side.
+
+“You don't have to stop, you know.” Ren said. “We're not in a formal setting.”
+
+“Remember what the Sage of Ages said.” Artemis said, and Ren nodded.
+
+“Right. Just in case.”
+
+“It might not matter; but, it might matter a great deal.” Artemis said, and then didn't say anything else as they walked over to the first carriage in the caravan. Since his personal Aura was large, even without the other Auras to augment it, when it crossed the first carriage Ren felt an immediate reaction from the people inside.
+
+“Greetings.” Ren said when he thought he and Artemis were close enough to be heard and one of the representatives stuck his head out of the carriage to stare at them. “I thought you would be long gone by now.”
+
+The man didn't say anything, and then his head disappeared as a woman's replaced it.
+
+“We were supposed to be.” The woman said as Ren and Artemis stopped beside the carriage door. “Then that cathedral popped up and we had to send someone over to investigate.”
+
+Ren chuckled and looked over to the thing. Now that he had a chance to look at it from so far away, he could clearly see that it was twice the height of King Alamast's castle, which was only 200 feet high and the cathedral was 400 feet high.
+
+“Oops.” Ren said, and Artemis held in her laugh as Teepo chittered in laughter.
+
+“We are very far behind our travelling schedule because of it.” She said.
+
+Ren opened his mouth to apologize and Artemis tapped his shoulder.
+
+“Perhaps we should see where the leader of the delegation is.”
+
+“Good idea.” Ren said and turned to the woman. “Could you tell us...”
+
+“She's in the third carriage from the end.” The woman said and waved in that general direction. Ren didn't let his surprise show; but, the woman smiled as she felt it. “You didn't know.”
+
+“To be fair, I didn't ask. I just assumed that the one King Alamast treated as the leader was the actual leader.”
+
+The woman chuckled, and Ren couldn't make out the underlying sounds. “Yes, that was a bit surprising.”
+
+Ren reached out a hand to her, and she looked at it for a moment, then took it. “Thank you for enlightening me to the true nature of this expedition.”
+
+“Wh-what?” She looked at the man next to her with wide eyes, then back out the window at Ren. “But, I... I didn't say...”
+
+Ren chuckled as he felt her surprise and embarrassment. “Don't worry. I knew it was an information gathering exercise, like all visits to foreign lands are. I just didn't realize how extensive it would be that you would analyze the culture and its rules as well.”
+
+Her face didn't change as he bent over her hand and kissed the back of it in the human fashion. “Yes, well...” She started to say, then she caught her breath as Ren stuck out his tongue and licked her hand, too. Her face flushed bright red at the formal greeting and he let her hand go.
+
+Neither of them said anything as they looked at each other, then she nodded slightly. Ren nodded slightly back and walked on down the caravan.
+
+“I have to ask what just happened.” Artemis whispered.
+
+“I felt her near distaste as I tried to thank her like a lady, then my Etiquette skill kicked in and I had to lick it instead.”
+
+“It's too bad your skill doesn't tell you all of these things before you get into these situations.” Teepo said.
+
+“I might be overloaded with everything if the skill gave it all to me before it was needed.” Ren said. “Then again, maybe just the proper greetings for situations would be good enough to...”
+
+He stopped talking and came to a stop as Tatya opened the carriage door and jumped down.
+
+“I recognized your scent.” Tatya said, and he felt her try to restrain herself from running to him.
+
+“Is anything wrong, Miss Tibaido?”
+
+“N-no, I...” Tatya looked back at the cathedral and then back at Ren.
+
+“Is it really so amazing that it turned you on?” Ren asked with a smile.
+
+“You can read my underlying emotions that well?” Tatya asked, a little surprised.
+
+“I have the Emotion Siphon ability.” Ren said, and her eyes widened.
+
+“You... mastered it, didn't you?” Tatya asked and took a step towards him.
+
+“All of my skills are mastered.” Ren said.
+
+Not a trace of bragging was detected in either his voice or emotions, and Tatya took in a sharp breath as that turned her on even more.
+
+“You're not even arrogant about that.” Tatya almost whispered as she took another step closer.
+
+“I don't like to gloat or rub my abilities in people's faces.” Ren said. “That's not why I'm here.”
+
+“Why are you here?” Tatya asked and took another step, which put her within an arm's reach.
+
+“Do you want the truth or a lie so good that it sounds like the truth?” Ren asked with a smile, and Artemis covered her own smile and Teepo chittered in laughter.
+
+“What I want...” Tatya had to stop herself from moving forward and thought about the question. “The truth.” She said as she decided. “The real truth.”
+
+“I was told by the Sage of Ages that I needed to join your caravan and to go with you back to your homeland.” Ren said, and Tatya visibly shivered.
+
+“Now... now the lie that sounds so good.” Tatya whispered.
+
+“I remember your scent, too.” Ren said. “Not only do I want to smell it again, I want to taste it directly from the source.” He said, and her body quivered. “I came to the caravan to sneak away from the Human Kingdom and their idiocy, just so I can go with you to your homeland and experience what it's like there.”
+
+“Oh, god.” Tatya whispered and ducked her head as she hugged herself to stop the low rumbling she was emitting. “That... is a... great lie.”
+
+“That's not the best part.” Ren said and she lifted her head to see that he was standing right beside her. “Now you have to figure out what part I was lying about.”
+
+Tatya's breathing sped up, because she hadn't heard, seen, or even felt him move, and she blinked her eyes at him several times.
+
+“Who did you send to check out the Cathedral?” Ren asked.
+
+“Zaerepis.” Tatya said. “Our healer.”
+
+“I'll return with him momentarily and the caravan can get back on schedule.” Ren said and activated his winged flight and deployed his bat-like leathery wings.
+
+“But... we are already so far behind...”
+
+“I'll take care of it.” Ren said, and Tatya shivered again as his confidence flowed out to her. “Artemis.”
+
+“Right beside you.” Artemis said and floated up into the air with him, then they both disappeared from sight.
+
+Tatya whipped her head around to look at the cathedral and saw two little dots get smaller. “Good god.”
+
+A hand touched her shoulder and Kenkoth filled her with strength and calmness. “Are you all right?”
+
+“I will be.” Tatya said. “At least, I hope I will be.”

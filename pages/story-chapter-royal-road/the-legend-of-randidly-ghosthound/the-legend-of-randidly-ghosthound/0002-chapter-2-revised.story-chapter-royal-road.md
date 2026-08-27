@@ -1,0 +1,95 @@
+---
+id: 4ef815ab-b39c-539f-935a-6816fda5c602
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2 (Revised)"
+slug: 0002-chapter-2-revised
+partOf: the-legend-of-randidly-ghosthound
+position: 2
+ownLength: 1503
+unit: words
+ownProgress: 1503
+publishedAt: 2017-03-31
+link: "https://www.royalroad.com/fiction/11209/the-legend-of-randidly-ghosthound/chapter/127186/chapter-2-revised"
+royalRoadId: "127186"
+markedReadAt: "2026-06-29T21:36:33.318Z"
+---
+
+Survival became the central pillar of Randidly’s behavior. He knew nothing about living in a jungle, but he understood video and tabletop games. Given the obvious method of growing more powerful through Skill Levels and PP, he laid out a bare bones schedule for himself.
+
+Per that plan, Randidly began to jog, and was soon rewarded with a delightful notification.
+
+Congratulations! You have learned the Skill Physical Fitness Level 1.
+
+Will I just steadily accrue Skills by taking various actions? Randidly grinned. That means the speed at which I’ll gather PP will steadily increase. He paused to scoop up a palmful of water to drink and returned to the grind.
+
+Randidly quickly stumbled upon a problem. His schedule called for him to happily grind up his Skills while staying in the Safe Room for as long as possible, increasing his capability Stat by Stat. He started out quite well, jumping up to Level 4 in Running and Level 2 in Physical Fitness. He’d also gotten a more hands-on understanding of his Stamina, which had a powerful effect on his ability to move effectively.
+
+But he was getting hungry. He stopped his exercise, a light sweat coating his body from the constant exertion.
+
+Randidly sat down next to the pool and drank a few more palmfuls of water. He looked at his frowning reflection. The hunger had taken up residence in his stomach and was here to stay. It’d only been three hours since his first arrival in this Safe Zone, but already circumstance was prying him away from sanctuary.
+
+Gritting his teeth, Randidly pressed his eyes shut and faced the truth. He knew where to find food. While he was lackadaisically walking through the jungle earlier, he’d spotted strange fruits and berries.
+
+But going out there…
+
+The twisted, drool-flinging faces of the Howler Monkeys flashed in Randidly’s vision. Just as aggressively, his stomach rumbled. After much thought, Randidly put two more points for Levels into the Newbie Path, and added both of those free Stat points into Agi. His plan was to go in and get out as fast as possible.
+
+Randidly experimentally hopped side to side while still inside the Safe Zone. He was pleased to find he felt a little quicker on his feet. With that extra bit of confidence, he approached the Safe Room door and opened it. The indoor rainforest swayed softly, almost invitingly, and Randidly shivered. He forced himself to creep out and tiptoe toward the tree line.
+
+The forest rustled fitfully. As Randidly snuck through the open space toward the line of ferns, screeching calls wailed in the distance. Even more ominous, the immediate surroundings were completely silent and still. After staring at the ferns for some time, nothing changed. His stomach growled, prompting him to press on.
+
+Several times, Randidly’s instincts slowed his pace. Now sweating profusely, Randidly took several more steps and eased himself into the leafy greenery.
+
+Once he was within the ferns, it was easier to see what they concealed. He took several careful steps around the feathery stalks to press up against the few trees at the edge of the rainforest.
+
+Randidly hesitated, his hand against the rough-barked tree trunk. With his current position, the ferns still screened him from any watchers. His eyes rested for a few seconds on the open space beneath the trees, similar to the places where Randidly had seen berry bushes, further down the tree line. The problem was that this portion was empty.
+
+Nothing moved. Yet further out among the trees, the rustling continued, like the constant noise of waves lapping against the shore. The longer he remained here, the more nervous he was becoming. He wiped the sweat from his brow.
+
+When he closed his eyes, the snarling faces of those monkeys chasing him returned. He blinked those images away and refocused on his current situation.
+
+Randidly could continue to move in the fern area, trying his best to remain quiet or step out into the small clearing, and dash in the direction he previously noticed fruits. When he found them, he would gather as many as he could carry and high-tail it back to the Safe Zone.
+
+Because he couldn’t quite remember how far away the berry bushes were, Randidly ultimately chose the conservative sneaking route. He slipped into a crouch and wove his way through the drooping ferns.
+
+As he proceeded deeper amongst the shrubbery, Randidly learned Sneak Level 1. Although the first Level of a Skill didn’t give a Path Point, it still boosted his confidence that he might be able to pull this off. Every careful movement would sharpen his capability, ensuring he’d be improving constantly.
+
+The thought of continuing to grow made Randidly wonder what would happen when he finally finished the Newbie Path.
+
+He wound his way forward, pressing aside the ferns and occasionally pausing to peek through the trees. He grew more certain with his foot placement the further he went. After moving for some time, Randidly glanced around a particularly thick trunk, scanning for any monkey threats. No animals, no movement. Randidly did spot a bush heavy with dark purple berries ten yards down near the edge of the tree line.
+
+He crept in that direction, his breath extremely heavy in his ears. When he reached the berries, he wiped his sweaty hands on his pants. Should he eat a couple before trying to carry them away?
+
+Randidly’s stomach rumbled, settling the issue. The walk here made him hungrier. And that certainty from his stomach made the corner of Randidly’s mouth quirk upward. If these are poisonous, I’m so screwed.
+
+Well, first things first. Randidly eased himself out, glanced left and right, then scampered to the bush. He tentatively bit into a berry, which was a little bit larger than a grape. Sweetness filled his mouth, laced in a crisp taste that reminded him of strawberries. He spit out some seeds, pleased to find these were good for eating. Satisfied, he pulled up his shirt and filled it like a pouch.
+
+When Randidly turned around, pouch full, he noticed he was being watched.
+
+A lime green frog about as big as a small dog sat motionless on a low tree branch, gazing at him. Randidly might have already walked beneath it without noticing its presence. Above the frog hovered the label Level 27.
+
+Randidly backed slowly away. Even if he had to take a different route back to the Safe Zone, he didn’t want to chance being chased again. The frog watched him sidle sideways into the shrubbery layer, tilting its head. Receiving a notification that his Sneak Skill was now Level 2, Randidly turned and ran back through the ferns into the Safe Zone.
+
+He sat on the ground and focused on his breathing, waiting for his pounding heart to slow. He ate about half of his gathered berries, spitting the seeds into the dirt by the small tree.
+
+After eating, he collapsed onto his back and looked up at the stone ceiling. The fluorescent electric lights of this service-room must have been transformed when the rainforest took up residence. The light they produced felt a lot like warm sunlight on his skin.
+
+Sitting up, Randidly went to his Path Screen and put the point he earned for Sneak Level 2 into the Newbie Path, getting a free Stat. He checked his Status screen immediately, and added the extra point to End, resulting in an additional 5 points of Health and 3 of Stamina, but only .25 Health regen and no Stamina regen. End was more base while Vit focused on regeneration?
+
+If he had to choose between them, Randidly supposed he would probably prefer to buffer up his Endurance, for now. Increasing the maximum value of his Health and especially Stamina was more important than anything else.
+
+But really, how useful is 5 Health going to be against a Level 27 Frog? Randidly reflected as he squeezed his eyes shut.
+
+Lying back, Randidly did his best to fall asleep, half hoping this was all a dream, while the other half looked forward to tomorrow being filled with even more grinding. This was far from what he wanted when he said he didn’t belong in his stressful engineering major at Rawlands University.
+
+Even now, his own heartbeat felt strange in his chest. The Safe Zone helped, but his neck prickled with the sense of his own vulnerability. At the same time, there was something about this RPG setup he appreciated, even with the lurking presence of danger.
+
+The simplicity, the systems, the Stats.
+
+He hoped there would be a secret way of playing that allowed him to break this fucked-up game.
+
+In life, there were no true short-cuts. Or at least no hidden methods that didn’t leave you feeling slimy. The path to true self-improvement was murky and filled with dead ends. There was never any guarantee that effort would be rewarded.
+
+But here, with the Skill Levels, although his heart was pounding…
+
+Randidly felt anticipation.

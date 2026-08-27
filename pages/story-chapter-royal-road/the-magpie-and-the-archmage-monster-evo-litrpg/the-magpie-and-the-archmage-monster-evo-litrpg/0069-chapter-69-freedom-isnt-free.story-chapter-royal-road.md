@@ -1,0 +1,191 @@
+---
+id: 06b752da-ab49-556b-9c01-1811db38f797
+page-type-slug: story-chapter-royal-road
+title: "Chapter 69 – Freedom Isn't Free"
+slug: 0069-chapter-69-freedom-isnt-free
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 69
+ownLength: 2099
+unit: words
+publishedAt: 2026-01-09
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2925644/chapter-69-freedom-isnt-free"
+royalRoadId: "2925644"
+---
+
+Initially, Liora had grabbed the Pulse Stone without much thought. After all, it was their whole reason for coming to Cyene, not for the dungeon, nor for making friends. It was all so Renir could break part of his seal and be a step closer to becoming a human again. And giving Liora all of his treasure, of course.
+
+But as Liora put a distance between herself and Serena, Kalen, Kiva, and Damien, a guilty pang in her chest made her glance back. Would they even be able to make it out of the dungeon without Liora's guidance? Was it right for her to leave so suddenly?
+
+Well, Damien, she couldn't care less about. He was an asshole. But Serena had been kind towards her since the beginning. Kalen and Kiva came around later, but they came around. They vouched for Liora even after seeing her more monstrous form. It wasn't right to leave the stranded in the dungeon.
+
+Liora, we can't go back!
+
+I'm not. But I can at least help them get out of the dungeon.
+
+She began dropping holy magic infused rocks and pinecones at certain intervals. They glowed with a faint light and should be easy to spot. Serena would undoubtedly see them and realize it was Liora who had dropped them. All she had to do was scout out a safe route with the least amount of monsters in their way.
+
+Can they even make it out on their own?
+
+They just got a ton of glimmerstones. They'll be fine, and their team is actually well-balanced. I'm surprised you care so much.
+
+I'm not heartless, you know.
+
+Do you want to keep travelling with them?
+
+Liora thought about it for a moment. It was fun travelling with Serena and others. She enjoyed their little adventures and the delicious food she got to eat together with them. But Liora was severely restricted with them. In the city, she could only appear as a magpie.
+
+If another new person joined their ranks, then Liora would have to hide herself again. Frankly, she was certain that Damien would reveal her secret despite the System contract he signed with Serena. Liora was glad that Serena signed it; otherwise, Liora would have lost her levels and, most importantly, glimmerstones. That would have been awful.
+
+In either case, Liora couldn't stay in this city anymore. She had been here too long and had made too much of a ruckus. Not to mention that the humans were too slow. Getting with them anywhere was so long.
+
+We'll have to search for a way to break the rest of your seal, right?
+
+Of course.
+
+It can't be all done in Cyene right?
+
+No, I have figured out what we need to break the next layer of the seal, and we'll definitely have to leave Cyene.
+
+As I thought. It's best if I keep moving. I don't like goodbyes.
+
+Smart birdie. Now let's get out of the dungeon. I want to crack that first layer off.
+
+Liora nodded and kept flying. It was awfully quick. Less than half an hour later, Liora was out of the dungeon, flying free in the nightly sky. Nobody had seen her thanks to Shadow Glide and occasional Fade.
+
+Looking back at the dungeon, Liora knew that Serena and others were struggling to return. But the feeling of wind under her wings, the feeling of freedom, made her feel like she had done the right thing. She wanted to believe that she had done the right thing. Even if a little voice deep inside her was screaming no.
+
+She ignored it. It was her old human self trying to keep to the human ways. But she wasn't a human anymore. Liora was a bird. She was born to fly free and unchained. She wasn't a magical familiar or someone's pet.
+
+Can I leave the party somehow?
+
+Yeah, just command the System to leave the party.
+
+Liora did just that and got a System screen pop-up in response.
+
+[Would you like to leave your current party?]
+
+She hesitated. Just for a moment. But then she confirmed the choice.
+
+[You've left your party.]
+
+You couldn't have stayed with them for long anyway. I'm pretty sure that the blond dude wouldn't have kept to the contract.
+
+Yeah, I know he wouldn't. But maybe it would have been better if I had left on better terms.
+
+If you feel so bad about it, then you could have left them some extra glimmerstones.
+
+I did! They hadn't finished distributing all of them.
+
+There were maybe like two more left for each of you…
+
+Exactly! That is a lot!
+
+Then no regrets. Land somewhere, and we'll get that first layer broken. Oh, I can't wait!
+
+Liora could feel Renir buzzing with both excitement and nervousness. She couldn't blame him. How long has he been stuck as a rock? A few months. Liora couldn't imagine being a rock, unable to eat, sleep, or even move for months. The only way he could experience the world was through Liora. Wasn't she great?
+
+But she understood his fervent wish for freedom. Freedom was something Liora valued above everything else. Perhaps even above shinies. Although it was debatable.
+
+So she flew some good distance away from Cyene and the dungeon to make sure that no shady mages could be nearby. Then she landed in a lush tree and withdrew Renir from her Inventory.
+
+"How do we break the seal?" She asked, looking at his beautiful, shiny form.
+
+"Not we. I. You don't possess the magical knowledge necessary to do it," Renir said.
+
+Liora puffed out her feathers in displeasure.
+
+"Don't get mad. I'm grateful to you. I really am. But I really want to do it now. I want to know I can be myself again," he said. "Would you press the Pulse Stone against me?"
+
+"What will happen to it?" Liora asked, withdrawing the beautiful blue stone. It was pulsing with light, living up to its name.
+
+"I suspect it'll break or disappear completely," Renir said nonchalantly.
+
+"CAW! What?" Liora exclaimed in shock. She wasn't alright with breaking such a beautiful treasure so soon after getting it. In fact, she wasn't alright with ever breaking it.
+
+"Liora…" Renir said threateningly. "The whole reason we, no, you went through all this trouble was to get the Pulse Stone and break part of my seal. Isn't that right?"
+
+"That's right," Liora agreed. "But it's so shiny… I didn't know it would break…"
+
+"Liora," Renir grumbled. "This is literally the only way for me to become human. Do you really want me to remain a rock forever just because of some shiny rock?"
+
+She thought about it. Frankly, she would prefer it if Renir would forever remain a pretty gemstone by her side. Although it would be better if he weren't being chased by some evil mages. She opened her beak to speak, but Renir interrupted her.
+
+"Don't answer that, you birdbrain! Remember that if you break me out of here, you'll receive far more gemstones and treasure than you could ever stuff in your Inventory. Magical, mundane, shiny, empowering. You name it, I have it!"
+
+That was tempting indeed. If Renir really was this powerful archmage or whatever he claimed, then she'd love to relieve him of his hoard. Yes, she would have to sacrifice this beautiful blue stone to obtain even more treasure in the future. She had to think about the long game.
+
+"Let's break you free!" Liora announced and pressed the Pulse Stone against Renir.
+
+"Yes! Thank you!" Renir cheered.
+
+The moment Pulse Stone came in contact with Renir, Liora could feel magic building up around the two stones. She observed them both, waiting for the moment when the Pulse Stone would disappear.
+
+But the magic kept building more and more, making Liora's feathers stand on end. Little sparks appeared where Renir's gem touched the Pulse Stone, and they grew stronger with each second.
+
+"Caw!" Liora stepped away, afraid to get zapped by the magical sparks. Was this supposed to happen?
+
+The sparks flew around the two stones, and then they began vibrating. As vibrations increased, the sparkling died down, but in their place came a loud noise, like a church bell.
+
+One ring. Gentle vibrations. Two rings. Vibrations increase. Three rings. The stones were basically buzzing. Four rings. The vibrations got so violent that the whole branch was shaking.
+
+"CAW! Renir?!" Liora exclaimed, flying up from the branch, ready to swoop down and grab her precious treasure at a moment's notice.
+
+"I-I'm almost there!" He replied and screamed. The bell-like sound was nearly deafening. Liora wanted to fly away from the horrible noise. But she had to make sure that Renir was alright.
+
+Suddenly, the Pulse Stone exploded, and a strong wave of mana came from the rocks, hitting Liora and forcing her backwards. She barely managed to stabilize herself in the air.
+
+"Renir!" She called, watching her precious gem be thrown off the tree from the violent magic explosion. She flew after it, but shockwaves of magic kept pushing her back. Renir's gem fell to the ground before she could grab it.
+
+Nervously, she landed next to him, watching his surface. It had gone dim. "Renir?"
+
+She gently nudged the gem with her beak. Had the fool somehow managed to kill himself instead? For some reason, the thought hurt. She realized that she didn't want Renir to go silent. She had come to enjoy his endless yapping. Even the bragging about him being the pillar of whatever would be great.
+
+She nudged him again, stronger this time. The moment her beak touched the gem, golden lines spread through its surface as if it had been struck by a lightning bolt. Another burst of magic came from the gem, and a human silhouette flashed above the gem. But it appeared for a mere glimpse—Liora didn't have the chance to identify the features.
+
+"OW! That hurts," Renir exclaimed, the colors finally returning to life within the gem.
+
+"You scared me to death!" Liora accused. She would have pecked him, but the golden lines running through him stopped her. "You have weird, gold lines all over you."
+
+"Yes! It worked. One layer of my seal has been removed! It's been removed. I could feel my body for a second. I could definitely feel it, Liora!" Renir said, laughing like a maniac.
+
+"That's good?" She said, unsure of how to react to his outburst.
+
+"It is great! It's wonderful! It's… well, it's something, I suppose. Unfortunately, as I removed this bit of seal, I realized that there are eight more layers to this damned prison."
+
+"Eight?!" Liora exclaimed. "Please, tell me you just need eight more Pulse Stones. We could go back to the badger. He's a friend now…"
+
+"No…" Renir said. "I'm afraid each seal is more difficult to break than the last."
+
+Liora slumped. Even more difficult. The half-corrupted badger was already difficult enough to defeat.
+
+"So what do we need next?"
+
+"A resonance catalyst!" He replied.
+
+"A resonance catalyst?" She mimicked, cocking her head in confusion.
+
+"Yes, the next layer is a bit tricky. The one who set it up must have thought they were smart, but for an archmage like me, it was easy enough to decipher. They have locked—"
+
+Renir went on a lengthy magical explanation, saying something about elements or something along those lines. Frankly, Liora didn't understand any of it. So she just waited for him to stop speaking and decided to preen her poor, abused feathers in the meantime.
+
+"Are you listening?" Renir suddenly screamed.
+
+"No."
+
+"What?! Why you little—"
+
+"I didn't understand anything you said," she admitted. "What do we need?"
+
+"You will be the end of me one day, I swear," he muttered, then continued. "We need a resonance crystal fully charged with wind, fire, water, and earth mana."
+
+"Where do we get it?"
+
+"Resonance crystals are something made by craftsmen, so we'll have to find one who makes them. After that, we'll have to go to locations rich with mana of each element and charge the crystal."
+
+Liora wanted to groan. That sounded like so much work. "Can't I steal it somewhere?"
+
+"If you can find someone carrying around a fully charged resonance crystal with the exact elements we need, be my guest. But I highly doubt that."
+
+"Okay, fine!" Liora said, then grabbed Renir, putting him back in the Inventory.
+
+But I'm taking a proper bath first. And regrowing my lost feathers. I can't fly with these patchy things. I'm going to need to molt first.

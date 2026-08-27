@@ -1,0 +1,349 @@
+---
+id: f30a3e2b-5d80-5271-adeb-2fae6aaad3f4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 41: The Forge"
+slug: 0041-chapter-41-the-forge
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 41
+ownLength: 2912
+unit: words
+publishedAt: 2026-05-12
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3387457/chapter-41-the-forge"
+royalRoadId: "3387457"
+---
+
+The margin between survival and annihilation could be a single battle.
+
+The fire burned low. Iris had fallen asleep against the carriage wheel. Drez had retreated inside the carriage itself.
+
+The soldiers took shifts. Brenn first, Falken second.
+
+I didn't sleep.
+
+I sat with the map spread across my knees and stared at the red line that marked the active front. The thin border between everything humanity had built and everything that wanted to consume it.
+
+One hundred and sixty-three days.
+
+Minus thirty for travel.
+
+One hundred and thirty-three days to prepare for something I didn't understand.
+
+I folded the map. Pressed it against my chest. Closed my eyes.
+
+Sleep didn't come for a long time.
+
+The road south became our world.
+
+Day followed day in a rhythm. Wake before dawn. Eat whatever remained from the previous night's fire. Load the carriage. Move.
+
+The mules set the pace. Somewhere between a determined walk and a philosophical objection to the concept of urgency.
+
+There wasn't much I could do.
+
+The carriage crawled. The countryside unfolded at the speed of livestock, and no amount of frustration could alter the physics of two stubborn animals pulling a wooden box through increasingly wild country.
+
+So I trained.
+
+Every morning, before the others stirred, I ran. Ahead of the carriage, behind it, alongside it. Sprints through the underbrush until my lungs seared and the mana-burn blazed in my chest. Then back to the road. Push-ups in the dirt while the soldiers boiled water for tea. Squats beside the carriage wheels while the mules were fed. Sword drills against tree trunks that bore my abuse.
+
+Between drills, I practiced Mana Breath.
+
+The skill was growing. Not in dramatic leaps. In millimeters. Each day, the flow came a fraction more easily. Each morning, the mint-burn settled a heartbeat faster. I could hold the mana in my arms for longer stretches, push it further toward my extremities before the threads frayed and the warmth dissipated.
+
+However, the most interesting thing I had noticed was how mana existed in everything. However, not in the same amount. Little by little, I began to notice people, objects, and animals that had more or less mana, that emitted more or less of it. Sometimes, rarely, I could even detect traces of mana left behind.
+
+The fights came to us.
+
+Not frequently. The road south wasn't a dungeon teeming with monsters at every turn. Days would pass with nothing but birdsong and the creak of axles and the mules' occasional protests. Then, without warning, the trees would go silent, and something would emerge.
+
+Mutated wolves on the eighth day. A pack of five, their shoulders reaching my hip, their eyes glazed with the red-tinged madness.
+
+I killed three. The soldiers killed the other two.
+
+The exchange lasted forty seconds. No loops were needed. Clean strikes that demonstrated how far the Coliseum had pushed me. I was far beyond the boy who'd stumbled into the dungeon with a decorative sword and a prayer.
+
+A serpent on the fourteenth day. Six meters of scaled muscle coiled across the road, its body thick as my waist. It hissed when I approached.
+
+I took its head with a single overhead strike. The enchanted wood cracked through the skull like an axe through a melon, and the body thrashed for three minutes afterward, painting the road with blood.
+
+On the twenty-second day, a bear. Mana-swollen, its shoulders higher than the carriage roof, its claws leaving gouges in the road. It took longer. The hide was absurdly thick. My first two strikes bounced. The third found the joint between skull and spine, and the thing dropped like a felled tree.
+
+Each kill taught something.
+
+The road fights taught me about adapting. Reading bodies that didn't fight like humans.
+
+The monsters were diferent from humans, but in some ways simpler.
+
+A man with a sword had a thousand options. A charging boar had one.
+
+The problem was that the one option usually weighed four hundred pounds and was moving at the speed of a galloping horse.
+
+But it was the trees that truly stunned me.
+
+I noticed it on the third day, when the road climbed a ridge and the canopy broke open long enough to give me a clear view of the surrounding landscape.
+
+The forest was immense.
+
+Not the scattered groves and managed woodlands I remembered from California. Not the arid scrubland or the dusty stands of live oak that dotted the golden hills. This was an ocean of green that stretched to the horizon in every direction. Beyond anything the geography of my old world should have produced.
+
+The air itself was different. Each breath carried a weight that I initially attributed to humidity before realizing it was something else.
+
+Mana.
+
+The forest was filled with it.
+
+"You look like you've never seen a tree," Iris observed from across the carriage.
+
+"I've seen trees," I said carefully. "Not like these."
+
+Iris frowned. She leaned past the canvas flap and looked out at the towering redwoods that flanked the road.
+
+"They're just ironwoods," she said. "Normal ironwoods. They grow everywhere in the south."
+
+"They're enormous."
+
+"They've had a long time to grow." She pulled back inside. "And a lot of mana to feed on."
+
+Drez, who had been reading a slim book she'd produced from somewhere inside her pack, spoke without raising her eyes from the page.
+
+"Mana saturation in old-growth forests can exceed ambient levels by a factor of ten or more," she said. "The root systems absorb dissolved mana in water and transport it through the trunk. The larger the tree, the more it absorbs. The more it absorbs, the larger it grows."
+
+She turned a page.
+
+"It's a positive feedback loop. Given sufficient time and mana density, individual specimens can achieve heights and circumferences that would be physically impossible for normal trees. The wood becomes denser than iron."
+
+"Ironwood," I said.
+
+"Ironwood," Drez confirmed, still not looking up. "The common name reflects the common understanding. People noticed the wood was hard. They didn't ask why."
+
+I watched another impossible tree slide past the carriage's canvas frame. Its trunk was so wide the road bent around it rather than forcing it aside.
+
+"If everything absorbs mana," I said slowly, "animals, plants, the water, the soil... where does the mana come from? What's the original source?"
+
+Drez's page-turning paused.
+
+She looked up.
+
+"The portals," she said. "That's the prevailing theory. When they opened, they flooded the world with mana. The initial surge was catastrophic. Over time, the concentration stabilized, but the portals never closed. They continue to emit mana at a rate that maintains the current environmental saturation."
+
+She set her book down on her knee.
+
+"There are competing theories. Some scholars argue the mana is self-generating now, that the world's systems have adapted to produce it independently. Others believe the portals are merely conduits for a deeper source, something extradimensional that we haven't identified."
+
+Her eyes, sharp as ever, met mine.
+
+"The honest answer is that nobody knows."
+
+She picked her book back up.
+
+"Why does mana exist? Where does it come from? What is its purpose? These are questions that entire academic careers are built on without ever producing a satisfying answer."
+
+I wondered if the desert still existed. The Mojave or Sahara.
+
+"Are there still deserts?" I asked.
+
+Iris looked at me strangely. "Some. In the east, mostly. Patches along the southern range, near the front."
+
+"But fewer than there used to be?"
+
+"I don't know how many there used to be." She cocked her head. "Why?"
+
+"Curious."
+
+Drez answered the question I hadn't fully formed.
+
+"Arid zones correlate with low mana density," she said. "Where mana concentration in the water drops below a threshold, the vegetation can't sustain the enhanced growth cycle. The trees thin. The undergrowth dies. The soil dries."
+
+She turned another page.
+
+"But it's not about water. A region can receive adequate rainfall and still present as desert if the mana density is insufficient. The plants have adapted to require mana. Remove it, and they wither."
+
+She paused.
+
+"The deserts aren't dry. They're mana-starved."
+
+I stopped asking questions and let the forest fill the silence.
+
+The days settled into one another.
+
+The soldiers warmed to us. Or perhaps it was more accurate to say that the relentless proximity of a cramped carriage and shared campfires eroded whatever professional detachment they'd been maintaining.
+
+Falken was the first to crack.
+
+"My first posting was Kellershof," he said, unprompted. He was cleaning his blade with methodical strokes while his mouth worked. "Border station. We had something close to thirty men. A watchtower that leaned so hard to the west you could spit from the parapet and hit the foundation."
+
+He held the blade up to the firelight, checking the edge.
+
+"Next was bestial territory to the east. Things coming through the tree line every other night. Wolves, mostly. Sometimes... Sins."
+
+He lowered the blade.
+
+"Lost four men in three weeks. The replacements never came."
+
+Brenn followed on the fourteenth night. His stories were different. Coastal postings. Port security. The mundane, grinding tedium of inspecting cargo and checking manifests.
+
+Between them, over the course of two dozen campfires, they sketched a picture of the Iron Cross that I hadn't seen from inside the Coliseum.
+
+It was bigger than I'd thought. Outposts and training facilities and operational units spread across the kingdom like nodes in a web, each one connected to the central apparatus through chains of command that ran back to the capital. Back to Varen.
+
+The Iron Cross didn't just fight in arenas. It garrisoned border stations. It conducted reconnaissance into bestial territory. It guarded mana convoys. It served as the kingdom's blunt instrument for every task that fell outside the purview of the magical army and beneath the dignity of the noble houses.
+
+Knights. The strong protect the weak.
+
+The reality was grimier than the motto.
+
+But the men who carried it were real.
+
+What should have been thirty days stretched into forty-five. Every time we thought we'd have a good day and cover real ground, the mules decided to stop, or monsters decided we looked like breakfast.
+
+The worst was when one of the carriage wheels snapped. We had to sit there, waiting for some merchant to wander down the same road so we could buy a replacement and limp forward again.
+
+The following days blurred into a montage of trees and sky and campfire smoke and the stubborn rhythm of the mules. The landscape shifted. The towering ironwoods gradually thinned as we pushed south.
+
+The air changed too. It became drier. The overwhelming green of the north gave way to hills of amber grass and scattered groves of trees.
+
+And through it all, the countdown.
+
+⌜ Days Remaining: 118 ⌝
+
+Grenzheim appeared on the horizon at midday.
+
+The first sign was the smoke.
+
+Rising from beyond the ridgeline in gray threads.
+
+Soon after I saw the tents.
+
+They spread across the fields north of the walls. Canvas in every shade of brown and gray and military green. Larger command tents at regular intervals. Supply depots marked by wagons parked in tight clusters.
+
+Soldiers everywhere.
+
+The fields teemed with them. Formations drilling in open areas. Small groups huddled around cooking fires.
+
+The town walls rose beyond the encampment.
+
+They were damaged. I could see it even from this distance. Sections of the stonework had been repaired with fresh masonry that was lighter in color than the original construction. Scaffolding clung to the eastern face where work was still underway.
+
+Grenzheim had become a military town. Whatever it had been before, some quiet garrison outpost on the edge of the front, it had been transformed.
+
+We passed through the main gate without ceremony. The guards checked Falken's orders, examined the Iron Cross seal, and waved us through.
+
+Inside, the town was both familiar and alien.
+
+The streets I remembered. The layout. The central square with its fountain. The buildings that lined the main thoroughfare.
+
+But the character had shifted. Where there had been market stalls and civilian foot traffic, there were now supply wagons and military checkpoints. Where shopkeepers had called out prices, officers now called out orders. The civilian population hadn't disappeared, but it had been pushed to the margins.
+
+The carriage stopped in the square.
+
+The moment had the particular awkwardness of a parting that everyone knew was coming but nobody had rehearsed.
+
+Iris adjusted the strap of her pack.
+
+"I need to report to the garrison commander," she said. "Find out what's happening. Where units are being deployed."
+
+She looked at me.
+
+"Try not to do anything stupid before I find you again."
+
+I raised an eyebrow. "Define stupid."
+
+"Everything you've done since I met you." She turned. Paused. Turned back. "Be careful, Kaspar."
+
+She walked away and disappeared around a corner without looking back.
+
+Drez was already moving.
+
+"My professor was stationed with the research detachment attached to the garrison's western command," she said, shouldering her own pack. "If he's still in the area, that's where I'll find him."
+
+She didn't say goodbye. Didn't offer a wish for safety or a promise to reconnect. She simply walked.
+
+The soldiers were the last to depart. Falken checked his orders one final time, nodded to me, and gestured toward the western quarter.
+
+"Iron Cross maintains a compound here," he said. "Officer barracks, training facility, the usual. We'll report to the local commander, pass along Prince Varen's deployment orders."
+
+He paused.
+
+"You'll receive your assignment within a few days. Until then, you're technically free to move within the town."
+
+Brenn grunted something that might have been farewell.
+
+I stood alone in the square.
+
+The wind carried the smell of cookfires and horses and the faint, mineral tang of fresh mortar from the wall repairs. While I was still reorienting myself, a memory surfaced in my mind. Before all the madness with the Coliseum, before even the fight with the elves. I had bought a sword.
+
+Aldric.
+
+The blacksmith.
+
+The streets were different under military occupation, but the bones were the same. I navigated by memory.
+
+The forge was where I'd left it.
+
+The sound reached me first. The ring of hammer on steel.
+
+The shopfront was as crowded as before. More so. Where the original workshop had served a modest garrison and a civilian population, the militarized Grenzheim had turned every forge in town into a critical asset.
+
+I stepped through the door.
+
+The heat was immediate. The forge's breath, two hundred degrees of air that dried the sweat from my skin the instant it formed.
+
+Aldric was at the last anvil.
+
+He didn't look up.
+
+I waited.
+
+A minute passed. Two. The hammer rang its steady rhythm. Sparks flew. The steel on the anvil glowed, dimmed, was returned to the coals, emerged glowing again.
+
+"I'm closed for new commissions," Aldric said without turning. "Got a six-week backlog. If it's repairs, leave it on the bench and come back in ten days."
+
+"I'm not here for a new commission," I said.
+
+The hammer paused.
+
+Aldric turned.
+
+His eyes found me. Narrowed. The recognition didn't come immediately. Months had passed. My hair was different, still dyed black. My body had changed. The Coliseum and the road had stripped whatever remaining softness the Academy had left on my frame.
+
+He reached up with one soot-blackened hand and pulled a pair of wire-rimmed spectacles from the shelf above his workbench. Settled them on his nose. Squinted through the lenses.
+
+"Huh," he said.
+
+He pushed the spectacles up his bridge.
+
+"You."
+
+"Me."
+
+"The kid with the strange order." Aldric set his hammer down on the anvil's face. He wiped his hands on his apron, leaving fresh dark streaks across the leather. "The bastard sword for the boy who couldn't swing one."
+
+He looked me up and down.
+
+"You look different."
+
+"It's been a while."
+
+"A while." Aldric snorted. He turned away, moving toward a section of the workshop I hadn't seen before, a locked cabinet set into the rear wall, secured with an iron padlock that he opened with a key drawn from beneath his apron. "A while, he says. It's been months. I finished that blade weeks ago. Nobody came for it."
+
+He rummaged in the cabinet. Muttering.
+
+"If the work hadn't turned out as well as it did," Aldric said, pulling something from the cabinet's depths, "I'd have melted it down and sold the steel to the garrison. Because who in their right mind would want this?"
+
+He turned.
+
+In his hands, wrapped in oiled cloth, lay a sword.
+
+He set it on the workbench. His soot-darkened fingers found the edges of the cloth and peeled them back.
+
+The blade caught the forge-light.
+
+It was a bastard sword. A hand-and-a-half design, longer than a one-handed weapon, shorter than a true longsword. The blade was straight, double-edged, tapering to a point that was precise without being delicate. The steel was clean. No etching. No ornamentation. No wasted lines.
+
+The crossguard was simple. Steel bars extending to either side, angled slightly toward the blade. Functional.
+
+The grip was wrapped in dark leather. Long enough for two hands with room to spare. The pommel was a rounded steel cap, weighted to balance the blade's length. My fingers hovered over the sword. Then closed around the grip.
+
+The moment I touched it something passed through me. It was electric. It felt diferent, it felt right.
+
+This sword was mine.

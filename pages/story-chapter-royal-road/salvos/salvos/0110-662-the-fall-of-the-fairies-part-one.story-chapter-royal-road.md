@@ -1,0 +1,135 @@
+---
+id: 46360ee6-fe5e-5fcb-9ce5-4c2caadf9dfa
+page-type-slug: story-chapter-royal-road
+title: "662. The Fall Of The Fairies Part One"
+slug: 0110-662-the-fall-of-the-fairies-part-one
+partOf: salvos
+position: 110
+ownLength: 1423
+unit: words
+publishedAt: 2024-03-24
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1567032/662-the-fall-of-the-fairies-part-one"
+royalRoadId: "1567032"
+---
+
+662. The Fall Of The Fairies Part One
+
+“Congratulations.”
+
+Basil glanced back to see Ivory floating alone in the middle of the ornate hallway of the Celestial Palace of the Fairy Queen. There were no other Fairies present at the moment, which was a rare sight, considering how densely-packed to the nook and cranny every room and corridor normally was. But today was different. It was a special day. Not just for all of Fairykind, but for Basil too.
+
+“Thank you.”
+
+He bowed his head back at his longtime friend, his white glow brightening at her sight.
+
+“I couldn’t have done it without your help, Ivory. It was thanks to you, I decided to pursue this path.”
+
+“All I did was push you in the right direction.”
+
+Ivory giggled, flitting up to him as her green light shimmered.
+
+“You have now become one of our Queen’s Architects for her New World. It is only through your own efforts you have achieved this position.”
+
+“I am only one of many Architects.”
+
+Basil scratched the back of his head shyly. Truth be told, he didn’t believe himself to be nearly as capable as Ivory thought him to be. While he was certainly quite capable at manipulating space, he was also incredibly lazy.
+
+He would cut corners whenever he could. Even the miniature pocket space he created to attain his position as an Architect was very much unstable and brittle. It was only through sheer luck that the Fairy Queen hadn’t been his invigilator that day, but instead one of her aides who had been less-than-thorough in inspecting the flawed creation.
+
+Honestly, Basil hadn’t thought he’d pass. But now, he was going to be an Architect. And he truly wasn’t sure how he felt about that.
+
+“I am certain that by my lonesome, I am not nearly that important in completing our Queen’s creation.”
+
+“Nonsense. You’re being too modest.”
+
+Ivory giggled as she waved a hand off.
+
+“Every single Architect plays a pivotal role in the creation of the New World. Now come, it is time for you to officially be bestowed your new Title by our Queen.”
+
+She swept past him, continuing down the hallway. He stared at her for a moment as apprehension seized him.
+
+Was he really up for this? He didn’t think so. But he saw the confidence she had in him— the pride that filled her face as she made her way towards the throne room.
+
+“It has finally happened… my good friend, Basil, an Architect of our Queen! I can’t wait to visit you and see your space magic at work!”
+
+Basil blinked, then hurried after her. They turned a corner as he shook his head hesitantly.
+
+“But what if something goes wrong? I have heard there have been… accidents before. It’s not safe for a Nature Fairy like you.”
+
+“I’ll have to visit the New World one day anyway if I’m going to fill it with trees and grass and flowers of all kinds. It won’t hurt if I visit it a little bit early.”
+
+Ivory scoffed, before turning to him. He tried to protest weakly.
+
+“But—”
+
+“Also, isn’t Honored Lotus going to be there at all times? I’m certain that there will be no problems too big for her to deal with.”
+
+Basil blinked, then nodded slowly.
+
+“Right. Honored Lotus will be there…”
+
+“So it will be fine!”
+
+Ivory laughed as they approached the throne room. She paused for a moment just to hold Basil’s gaze.
+
+“Do not worry, Basil. You overthink things too much. But this is our Queen’s creation we are talking about.”
+
+She smiled as her voice echoed all around him. He stared at her, her figure faintly glowing, almost like he was staring at a memory. Turning around, she continued into the throne room as she finished.
+
+“And I trust in your abilities. So I am certain nothing will go wrong—”
+
+—--
+
+And Hartia recoiled, snapping back into reality. He swept his gaze over his pocket space. An army of dead Fairies surrounded him. As far as he could see, he saw former comrades and friends gathered there, floating lifelessly as they obeyed his every command.
+
+His breathing quickened. For a moment, he forgot where he was. He was absorbed in his failures, thinking that he had been cast into damnation, now forced to suffer the consequences of his actions. But then his gaze landed on the Enemy of the Demon King.
+
+He stared at her as she shot her way towards him, ripping straight through his world. When he caught a glimpse of her, he recalled his goal. He remembered his duties. The reason why he was here was to execute her for his savior.
+
+But then he saw the way her body twisted and distorted. He saw the familiar fluorescent colors painting the world around her. And he sensed it.
+
+Hartia trembled as he sensed that unsettling sensation— something unlike anything he had ever seen or felt before. An uncanny existence that shouldn’t exist. That which devoured all.
+
+And he screamed as he commanded his dead army to his side.
+
+“Stay away from me! Stop her!”
+
+All at once, they moved. They unleashed their magic at Salvos as she shot towards him. But nothing could stop her. Not even his overwhelming control over space in this world could slow her movements.
+
+Of course not. He had seen that power before. And he didn’t understand how she had it. He couldn’t comprehend how she was wielding it like it was a weapon.
+
+Just like back then, it was nigh unstoppable. Just like back then, all he could do was watch as his fellow Fairies were cut down because of it.
+
+And as Salvos clashed with the apparition of Honored Lotus, Hartia closed his eyes, remembering once again.
+
+—--
+
+It was supposed to be his first time working as an Architect. He wasn’t the only recruit who was brought about to aid the construction of the New World. There were many Constructors and Builders brought about too, alongside a dozen other Architects. It was a proud moment for so many Fairies.
+
+Their friends gathered together here to witness their new jobs. Altogether, there had to be over a hundred thousand Fairies here in this section of the New World, looking to expand what was already there.
+
+Honored Lotus was present, overseeing this expansion. So everything should have been fine. It should have all been safe. That was what Basil told himself as he glanced back and waved at Ivory.
+
+She giggled, smiling back at him. And he reminded himself he needed to focus. He looked back towards the fractal panels that formed the foundations of the New World. It was the framework created by Teranialiselisandranovaluxical’ah-sham the Fairy Queen herself, and all Basil needed to do was follow the instructions she had laid out in the blueprints she had given out.
+
+And as he continued enforcing the fractal panels, creating realspace, he simply stared out into the nothingness that was beyond. The void that made up the nonexistence between worlds. An infinite space where concepts were not even given the chance to be born.
+
+It was a simple task. Or at least, he thought it was. That was until he heard the crack.
+
+Blinking, Basil spun around and saw the realspace he had created was covered in a web of cracks. He narrowed his eyes, before seeing the cracks spread across the artificial sky. He rushed towards it to repair, but he felt his control over the space vanishing.
+
+“What…?”
+
+He asked in confusion. It was a sensation he had never felt before. Like the very fabric of the world was being invaded by something else. He stared in confusion as heads turned his direction.
+
+And Honored Lotus immediately rushed to his side.
+
+“Get back!”
+
+She screamed as she knocked him away. Raising her lance, she aimed at the fracturing realspace as Basil tumbled back in confusion. But before he could even comprehend what was going on, he heard a booming clap. Like the blast of thunder.
+
+Except, instead of seeing a flash of light, his vision seemed to blur. He thought it was simply his disorientation at first from being tossed back. But then he heard the chittering. And from the very edges of that distortion, he saw a cascading blanket of colors emerge.
+
+His eyes went wide as he heard the screaming of Fairies echo all around him. Before he finally understood what he was staring at.
+
+[-̸͙̍̀͠-̴̛̠͊̀͝-̵̪̱̼͑-̶̰͎͙̉̆͝ Voidspace - Lvl. -̸͙̍̀͠-̴̛̠͊̀͝-̵̪̱̼͑-̶̰͎͙̉̆͝ ].

@@ -1,0 +1,121 @@
+---
+id: 684b9f36-1f68-5773-a268-13c784bcead4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22: Character Growth at the Wrong Time"
+slug: 0022-chapter-22-character-growth-at-the-wrong-time
+partOf: succulent-girl-evolution
+position: 22
+ownLength: 2398
+unit: words
+publishedAt: 2025-09-13
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2597525/chapter-22-character-growth-at-the-wrong-time"
+royalRoadId: "2597525"
+---
+
+Bubbles felt water wash over her, triggering a fear she didn’t know she had of drowning. Everything was chaos—she tumbled leaf over root, helplessly buffeted by the force of the powerful waves.
+
+Unable to make sense of what was happening, all she could do was withdraw into herself, wrapping her roots protectively around Rock in her belly and her leaves around Cuddles and Fern, clinging tightly to everybody.
+
+After several terrifying moments (it might have been only a handful of seconds, but Bubbles wasn’t sure; Rock seemed to believe it was a short period of time, but she doubted him), she felt the water fall off of her. Everything around her was pitch black, with none of the glowing flowers’ eerie light anywhere. Once she saw a flicker of a familiar, nearly-translucent fin, she realized Miss Fish had scooped her out of all that mess. Relieved, she took stock of her companions.
+
+Rock was fine, and seemed to have realized sooner than her what was going on. Cuddles was a bit shaken, but ultimately seemed all right. Fern grew out a small frond, and angrily shook the partially unfurled bulb at what Bubbles presumed was the water’s surface.
+
+Grateful that everyone was still with her, Bubbles relaxed and waited for Miss Fish to bring them to safety.
+
+Shortly after, Miss Fish brought them back to the chamber where Rock Two resided. His mineral veins glowed with relief as his Guardian returned, shedding dim light on the visitors. Miss Fish deposited Bubbles, Link, and Miss Magpie, who had been sharing a bubble with Link, onto a narrow rock shelf.
+
+[We meet once again,] Rock Two rumbled. [We were expecting you to have departed already. To what do we owe the pleasure?]
+
+[To begin with, please let us introduce these two new comrades,] Rock said without preamble. Link and Miss Magpie, who had inadvertently remained on the ground in submissive positions after the ordeal, looked at Bubbles in surprise. [Your Guardian has met Link the Courageous before. The avian is known as Miss Magpie of the Prime Family. They know of the plight you are suffering in your territory, and would like to help… if possible.]
+
+Miss Fish gasped at Rock’s words, and it was only then that Bubbles noticed a bloodshot eye and gashes along her body that weren’t there before. She gasped even louder. “Miss Fish! What happened to you?”
+
+“Ah… it’s a bit of a story,” Miss Fish murmured, chuckling. “I was making my preparations to depart, when I found a few wisteria roots sneaking into one of my subterranean lakes… and as you can imagine, it turned into quite a fight in order to remove the roots.”
+
+“You could have just left, could you not?” Link inquired. Despite having expressed his desire to help Miss Fish fight earlier, Bubbles still thought it was a bit rude of him to continue pressing her on why she continued to linger in her domain. It didn’t matter, after all.
+
+“I… yes, I could have,” Miss Fish mumbled, unable to keep her gaze above water. “The coward in me continued to win out… I was indecisive, and the indecision cost me my opportunity to leave…”
+
+“What does this mean?” Bubbles asked, worried. “Please, tell us everything from the beginning. We want to help! And Miss Magpie is a strong ally!”
+
+Miss Fish’s eyes sparkled with tears again, but she seemed too humiliated to speak.
+
+[Allow me to enlighten them,] Rock Two said solemnly, allowing Miss Fish to hide her face in shame.
+
+After the strategizing session Miss Fish had with Link, she had returned to Rock Two and admitted it would be best if she left—but before he teleported her away, she wanted to prepare one last weapon to stop the wisteria plant: a concentrated herbicide, highly toxic to not just the invasive wisteria, but everything as well. Instead of merely paralyzing the plants, stopping the growth of already established vines, it would kill them, as well as any other living creatures who partook of the poison. Miss Fish was going to contaminate all of her waterways with the poison before Rock Two teleported her away. The hope was that eventually, the wisteria would absorb enough of the toxin and wither and die.
+
+It was in this very chamber, where Miss Fish was refining the remainder of her herbicide ingredients into one massive pill for her last stand, that she found a crack in the cave walls. Upon investigation, the roots, acting very much like their counterpart vines aboveground, exploded out and grabbed her, intent on strangling the Guardian before she could release the half-finished pill.
+
+At that point, Miss Fish was willing to allow Rock Two to whisk her away—but that was when Rock sent his mana down to them, making their presence known. And Miss Fish couldn’t just leave without letting them know she was going, not when they were so close to danger. Once she disappeared, the wisteria would quickly turn its attention to them, giving them no chance to escape.
+
+“I know how contradictory it is: here I was, planning on poisoning the groundwater and killing everything within a hundred-mile radius, and yet I’m worried about a few strangers I only met earlier today,” Miss Fish moaned, covering her eyes with her flippers. “Not only am I cowardly, I lack conviction as well…”
+
+“Don’t say that!” Bubbles admonished her. “I think you were brilliantly brave for fighting to protect us instead of running away!”
+
+In any event, Miss Fish fought valiantly to free herself from the roots, but they were far more numerous than they had first seemed; they had hid themselves well, biding their time. With the last of her strength, she gulped the pill down, threatening the vines with their own demise if they continued to treat her so recklessly.
+
+Rock Two, upon Miss Fish’s alert, realized they received one advantage from the wisteria penetrating so deeply into their territory: their roots had intertwined with his mineral network, and were drawing power from his veins. With her agreement, he immolated the branches the roots had wrapped themselves around, which freed Miss Fish as the associated plant parts crumbled to ash. Unfortunately, that also meant he no longer had the power to send Miss Fish away. She would be stranded here, carrying her poison pill, as the wisteria regrouped and came for her again.
+
+Bubbles clapped her roots to her body in distress. “That can’t happen! The magpies can help! Miss Magpie is very dependable and nice.”
+
+Miss Fish turned doleful eyes to the trio. “We don’t have time to get help. The wisteria know what is happening. The fact that they attacked you without provocation means they’re no longer waiting… they are making their move.”
+
+“This is true,” Miss Magpie agreed grimly. She stretched her wings out and showed a few bent feathers. “They shot things at me the moment I took flight. If it weren’t for Sir Link’s decisive protection, I may very well have become landbound.”
+
+“I’m sorry for thinking the worst of you,” Bubbles said to Link, ashamed. “It was dark, and I couldn’t see what was happening clearly…”
+
+“I’m not offended,” Link said. “I know how my actions looked.”
+
+“I apologize for your injuries,” Miss Fish said to Miss Magpie. “The vines must have thought you were one of my flock who has been helping me spread the herbicide pills, so they reacted immediately. Regardless, there’s not much you can do. It is better if you leave while you still can. I will bring you to another lake to depart from; the wisteria will be watching this one.”
+
+“But Miss Fish, you don’t understand,” Bubbles protested. “We want to help you. All of us! Right?”
+
+Miss Magpie stepped forward here, puffing up her feathers importantly (though Bubbles noticed she nursed her wings slightly). “Please, at least allow me to present my case before you decide to send us on our way.”
+
+Link dipped his head as well, his ears lowered. “My Lady, I encourage you to hear us out. I would not be so eager to assist if I was not confident we had a fighting chance.”
+
+Miss Fish hesitated, looking at everybody. She glanced at Bubbles uncertainly, as if asking what she should do. Bubbles nodded encouragingly at her, and, realizing she was ruining the mood, quickly dipped her front down so that she matched Miss Magpie and Link’s pleading postures.
+
+“Why… why are you three insisting on helping me? You have no reason to.” Miss Fish’s voice wavered.
+
+“I’ll be the first to admit the magpies would not be doing this out of the goodness of our hearts,” Miss Magpie warned. “If we succeed in ending the wisteria invasion, we—my congregation, that is—will be expecting proper compensation in the form of guaranteed nesting space of the highest quality, first choice of feed, and most important of all, your protection for our young flocks. We, of course, fully plan on assisting you with the management of your forest once we have established ourselves—so not only will you be receiving immediate assistance from our significant network of animals, but you can also count on our continued support going forward.”
+
+Miss Fish stared at Miss Magpie for a long moment, her bloodshot eye quivering. “I’m sorry, I cannot promise that.” Bubbles looked at Miss Fish, aghast.
+
+“But Miss Fish—”
+
+“You are asking for blatant favoritism that will then put you in a position of power, the first of which is what caused this wisteria invasion in the first place, and the second of which would easily lead to a monopoly in the forest similar to what the wisteria currently have. If the future of my realm is doomed to repeat this kind of scenario because I’m too weak to maintain order and fairness for my denizens, then… it deserves to fall.” Miss Fish’s tears were flowing, but she spoke with a resolve that Bubbles hadn’t heard from her before. It was the kind of quiet resolve that made her swallow all of her protests.
+
+She didn’t fully understand what Miss Fish meant, but she admired the conviction. It was the will to be strong, independent, not have to be totally at the whims of someone else.
+
+I wish I was as brave as Miss Fish…
+
+[Do keep in mind that she had a century to refine her skills. Despite what her negligence has led to, she would still be a creature to be respected under normal circumstances.]
+
+Miss Magpie was standing still, and even though she was significantly smaller than Miss Fish and looking up at her, gave off the impression that she was looking down her beak at the large fish. Bubbles worried she had taken offense to Miss Fish’s refusal, and glanced at Link to get his take; but he was studiously stoic and, despite being the largest creature in the cave, was doing a remarkable job of blending in with the dark rock.
+
+She wanted to say something to ease the tension—defend Miss Magpie’s honor, because she was a fair and empathetic bird and would never take advantage of someone like that; clarify Miss Fish’s intentions, because she had a good heart and would never demand help without appropriate return—but Rock silenced her.
+
+[This is not something for you to involve yourself in. You brought them together, now everything falls to the two of them.]
+
+But the forest, the poison—
+
+[Regardless, it is ultimately none of your business.]
+
+Bubbles ceased her protests, upset.
+
+She hated this feeling: not knowing what was going to happen, but having the feeling things were heading rapidly in the worst direction and unable to do anything about it. At least when she was facing a similarly impossible situation in Master’s garden, where the stakes were high and danger evident, she had some modicum of influence over the outcome. But here, even though she had Rock and Link’s (and even Miss Magpie’s, before Miss Fish rejected her) support to help Miss Fish, she was being told her opinions didn’t matter.
+
+This is what it feels like to be powerless, she realized. It didn’t matter that she and Link were still committed to helping; if Miss Magpie refused to rally the magpies’ resources, then they were right back at the most impossible scenario, where their help was pointless. Everything hinged on Miss Magpie’s mercy—and really, Miss Fish’s decision.
+
+She didn’t like being powerless. Not one bit.
+
+“Are you certain you wish to go this route?” Miss Magpie’s voice was uncharacteristically gentle, lacking the harsh tonal quality Bubbles was familiar with. The softness, even though it resembled Miss Fish’s gentle voice, sent chills down Bubbles’s stem. It was almost… threatening. “You would willingly let your home be choked out by invasive vines, die alone in your waters, all to release a poison that may or may not work at culling the invaders? When it, in fact, might do more harm to the environment at large? When all you have to do to avoid all that agony is humble yourself, and put your trust in the Prime Family?”
+
+Miss Fish froze in the water for a very long time, long enough to make Bubbles worry she might have drowned—then she raised her face, meeting Miss Magpie’s cold gaze. Her lips trembled.
+
+“You make a convincing argument, but if I agree to your terms, I fear I would be merely postponing the eventual demise of my forest. I want my forest to be a haven for all manner of life, not just a plot of land that is favorable to only one group…”
+
+Quailing before Miss Magpie’s proud and haughty form, Miss Fish’s next words came out even shakier than before, though Bubbles felt dread as her next words came out.
+
+“I respect you, and I trust Bubbles when she says the magpies are capable allies. However, knowing my own failings, I am not certain I can change the course of the river’s flow if I were to accept your offer. I… I believe I may be doing a greater service to the world if I were to stop the wisteria here, at the cost of my own life. Thank you for your offer, but I will not curse the next generation of life with the burden of my failures. With the utmost respect, I reject your offer.”

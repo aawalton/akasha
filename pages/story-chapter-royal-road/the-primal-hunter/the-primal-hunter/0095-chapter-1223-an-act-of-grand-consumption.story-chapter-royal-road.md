@@ -1,0 +1,149 @@
+---
+id: 6e344c05-e210-58a8-9e3f-36ccb8db1638
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1223 - An Act of Grand Consumption"
+slug: 0095-chapter-1223-an-act-of-grand-consumption
+partOf: the-primal-hunter
+position: 95
+ownLength: 2942
+unit: words
+ownProgress: 2942
+publishedAt: 2025-12-18
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2859104/chapter-1223-an-act-of-grand-consumption"
+royalRoadId: "2859104"
+markedReadAt: "2026-06-29T19:32:16.400Z"
+---
+
+From deep within the Malefic Viper, Jake felt the internal stomach of Palate stir. Instantly, he knew that the Malefic Viper’s capacity far surpassed Jake’s own, which naturally wasn’t a mistake, seeing as one was comparing an A and a C-grade, but the difference still struck Jake as stark.
+
+With time slowed, Jake felt the Malefic Viper open up the channel connecting the stomach and the real world, something that instantly struck Jake as odd, but he quickly guessed that the Viper planned on consuming something nearby, even if Jake couldn’t detect anything.
+
+Unlike Jake, the Viper wasn’t limited to only one item in his Palate stomach. Jake could detect several objects of significant power, but the only one in there he could get a good feel for was the Eye of the Magus that the would-be snake god had naturally already devoured.
+
+As Jake was still wondering what the Viper planned to do, he got his answer. With the channel open, the Viper began to breathe in, not targeting anything specific. Rather than focus on a single item, he simply devoured the mana in the air, something that felt incredibly simplistic at first.
+
+However, as the Viper continued, Jake realized he was doing so much more than that. Within the barrier established by the World Leader and now controlled by the Viper’s comrade, the future Primordial devoured everything that had been sealed within… including the remnants of the many A-grades who’d died.
+
+Jake felt a massive influx of Records into Palate’s internal stomach in the very next moment. These Records took the form of something Jake was particularly sensitive to right now, as he realized what the Viper was truly trying to consume were the concepts lingering in the air.
+
+When powerful beings fought, it left traces behind. Remnants of power in the form of energy and concepts. Often, the combination of the two was simply referred to as concepts. Energy of all affinities had inherent concepts, which Jake had started to uncover a long time ago, such as dark mana’s desire to devour other mana types or life mana’s desire to cause growth.
+
+The concept-infused energy left after the death of the powerful was far more complex and potent than that normally lingering in the air. These concepts profoundly affected the world, sometimes creating entirely new domains that other monsters found beneficial; however, it often resulted in the land being corrupted.
+
+This was something Jake knew, but he also knew that the energy left behind was pretty universally agreed upon to be useless for most people. Sure, it could create holy grounds for monsters to grow stronger, but this was a result of the system slowly purifying and releasing the energy and Records into the environment.
+
+There were also rare rituals and formations that could make use of this lingering energy, but in most cases, it wasn’t something anyone even thought about. At most, the people who killed a powerful being would seek to purify the area to make sure none of the energy of the dead lingered.
+
+One very prominent example of this was the wars between the Risen and the Holy Church. If a powerful undead died, they would naturally leave behind lingering concepts of death, while if a member of the Holy Church died, they would leave behind remnants of holy energy. Both factions would seek to purify any territory they conquered to avoid the other faction’s energy lingering, as it would create a less-than-ideal land for members of the Holy Church to live in an area filled with the death affinity.
+
+Armed with all this knowledge, Jake could only wonder what the Malefic Viper’s plan was as he began to devour the energy left by the many dead A-grades. Instantly, as Villy began dragging it in, Jake knew that the Viper couldn’t actually absorb this energy in any way.
+
+All the “useful” Records were already given to the Malefic Viper when he got the kills, and the Truesouls had long dispersed, and while he did consume some remnants left by the souls of the slain, what he did devour wasn’t anything that seemed particularly potent or useful.
+
+However, as the Viper continued to devour everything, Jake sensed that he wasn’t even trying to absorb any of it. He was merely digesting it internally and storing it there.
+
+Soon enough, he was done consuming everything within the barrier, but Jake felt that the Viper wasn’t satisfied yet. While he couldn’t detect the would-be Primordial’s thoughts, he could get a vague feeling of what the dragon intended as his eyes opened wide right as the Viper gave a command to his comrade.
+
+“Release the barrier.”
+
+The cloaked figure didn’t even appear, and nothing detectable to Jake happened, but in the very next second, the entire barrier shattered like a mirror. Predictably so, all the fragments of this barrier were instantly sucked in by the A-grade Viper as the dragon looked downwards and opened his maw even wider.
+
+His body seemed to explode with power as Jake felt the Malefic Viper unleash Palate at an even higher level, as the scope of the consumption was expanded. The planet below was instantly affected, but to his surprise, the Viper wasn’t sucking in any of the physical objects, such as the dense rock of the crust below. He didn’t even seek to consume much mana anymore, but only took in the bare minimum to get what he truly wanted:
+
+Concepts.
+
+Jake watched on in silence as the world around him slowly changed. Below, the rock started to lose its color as the air also turned black and white. Like a vacuum of color and life, the Malefic Viper dragged in everything, leaving nothing behind as more and more of the planet was affected with every passing moment.
+
+His scope just kept expanding until soon the entire planet was affected. Jake felt countless concepts entering the internal stomach, many of them recognizable, but the vast majority beyond his comprehension, in part because he couldn’t even try to comprehend them.
+
+The Viper wasn’t trying to either. He was still just storing everything as the planet died. While Jake couldn’t see it, he knew that by the end, no life could exist there anymore. To clarify, the Viper wasn’t actually killing anything. Palate didn’t have any true offensive capabilities but could only consume environmental energies. However, with everything else gone, the Malefic Viper left behind only one thing:
+
+Desolation.
+
+Within mere minutes, the entire planet had become desolate, with not a single being capable of stopping the future snake god. Even the World Core had everything consumed, unable to stand up to the might of an A-grade, especially not after the World Leader had already fallen.
+
+Yet even after seeing this, Jake had one massive question: why?
+
+Why engage in such an act of grand consumption? He had absorbed so much useless energy, and it wasn’t as if he could even try to understand all the concepts he tried to absorb. Moreover, the vast majority of these concepts were of such a mundane level that they wouldn’t even have been able to benefit a D-grade.
+
+Nothing made sense… until the Malefic Viper closed his mouth and stopped the process of consumption and began the digestion.
+
+With his maw closed, the channel between the internal stomach and the external world was severed, and all the passive aspects of the stomach could kick into effect once more. The first one was an effect very much reminiscent of a passive acceleration of time; however, the second one was what truly caught Jake’s attention.
+
+As with Jake’s own version of Palate – before he accidentally broke it anyway - the Malefic Viper could use Touch to refine the items he’d consumed. However, what the Viper did wasn’t to directly try and refine the items, but instead he sought to only speed up and amplify one aspect of all the natural treasures he’d consumed:
+
+Their ability to absorb environmental energies.
+
+Once Jake felt this, everything the Viper had done suddenly made sense. The Malefic Viper knew he couldn’t use all of these concepts himself. He knew they were useless to him, which was why he didn’t want to actually consume them at all.
+
+No, instead, he absorbed it all to create an environment for the many treasures to feast and grow more powerful. Especially one of the treasures he’d recently consumed was eating really good, namely the Eye of the Magus.
+
+The Malefic Viper had consumed Records in the form of concepts deployed by a dozen powerful A-grade mages, and now the Eye of the Magus was absorbing all of these to make itself even stronger.
+
+What made this particularly genius was that the Malefic Viper wasn’t actually doing anything himself. He wasn’t directing these powerful items to do anything. Instead, he had their own system-provided abilities do the job for him, removing all risk. If he’d tried to control the process, there was a high risk of corrupting these incredibly potent natural treasures, but with this approach, he would only benefit.
+
+About a minute passed as the Malefic Viper finished setting everything up, even isolating the Eye of the Magus a little to allow it to absorb as many of the beneficial concepts as it possibly could without any of the other treasures being allowed to take anything.
+
+Jake knew that most of what the Viper had consumed had indeed been useless. Only a small fraction of what he’d devoured would actually do anything, while the rest would be expelled or slowly devoured by Palate over time, being turned into resources for the Viper.
+
+However, all of that was for later. For now, the Malefic Viper had a long period of digestion ahead of him, as all the items would take time to properly absorb all the new nutrients. Jake also realized that if the Viper so desired, he could also try to refine some of the items with express intent and then use all of these lingering environmental concepts and energies to help the process, but Jake quickly stopped himself from going down this lane of thinking.
+
+For now, it was far more important that he dedicated all his attention to learning how the skill actually worked, rather than focusing on the benefits he could gain after it had become part of his repertoire.
+
+Right after Jake had these thoughts, time rewound until he was back to the Malefic Viper, beginning his devouring process. It started the same way, with the hooded figure on top of the barrier as the Viper spoke:
+
+“Keep the barrier active for now and let it drop at my signal.”
+
+After the figure teleported away, Jake only had time to confirm that this person was male for sure, but besides that useless thought, he dedicated all his focus to comprehending Palate, and to be honest… it was surprisingly easy.
+
+The first time around, Jake already got a great understanding of what the purpose of this upgrade was and how it worked. He didn’t doubt that this extreme level of clarity came in part due to what he’d done just before entering the vision.
+
+Right now, his body and soul were flush with countless concepts and thus Records. The system had stabilized Jake’s mind, allowing him to experience the vision, which enabled him to understand the concepts already rushing through his being. The ones that pertained to this Palate upgrade, anyway.
+
+As Jake’s second round of the vision came to an end, he began to truly feel the skill within his Soulspace take form. The Records that had been corrupted or lost were rapidly being replaced as the parts of the system the Malefic Viper had purposefully deactivated and broken to stabilize Jake were being rebuilt from the ground up with the perfect Records of the system.
+
+Halfway through the third round of the minor time loop, Jake finally heard something he’d been waiting for: the sound of a system upgrade. He knew he wasn’t done yet, but he still checked the upgrade with glee as relief flooded his mind.
+
+[Palate of the Malefic Viper (Legendary)] --> [Palate of the Malefic Viper (Legendary)]
+
+The upgrade was borderline non-existent. A few parts of the description had been changed, but overall it was roughly the same Palate as Jake had broken way back then. At that moment, Jake also felt the connection to his internal stomach get reestablished, which allowed him to truly begin comprehending the actual upgrade this vision was building towards.
+
+Jake had already been working on it before, but now he could truly dedicate his entire mind as Palate had been fully repaired at last. Soon enough, he had experienced the Malefic Viper’s usage of the skill half a dozen times, but he kept not pushing for the upgrade, as Jake wanted to take in as much as he possibly could.
+
+After the seventh time, Jake felt like he could get the upgrade, but he still didn’t go for it. After the ninth, Jake began to feel signs that the vision was sadly soon coming to an end, and as the tenth began, he knew this would be the last one.
+
+Thus, for the final time, Jake experienced as the Malefic Viper devoured the world and what remained of the A-grades that had once lived on it. In the process, he had naturally also consumed the concepts of all the weaker people who’d once lived there, alongside so much other crap that was entirely useless.
+
+That was definitely the part Jake dedicated the most time to: the purification and filtering of all that was absorbed. The Malefic Viper didn’t need the curse energy that had inevitably been created from so many people dying. He let the items themselves figure out most of the filtering, but the Viper was forced to step in to isolate and eliminate everything that could potentially corrupt the many natural treasures.
+
+In the end, definitely largely in part due to many concepts flooding his being, Jake succeeded when he sought to consolidate everything towards the end of the tenth and final time he experienced Palate of the Malefic Viper. With a calm mind, Jake felt the upgrade and quickly confirmed.
+
+[Palate of the Malefic Viper (Legendary)] --> [Palate of the Malefic Viper (Mythical)]
+
+However, he didn’t immediately check the updated description of the skill, as this was the last round of the vision. With that in mind, Jake believed that he would get an experience similar to what he had with Valdemar’s vision back in the day. Not that he would find inspiration, but that the vision would last a little longer.
+
+Jake also highly suspected that part of the reason this was considered a High-Record fragment in the first place was due to this hooded figure’s presence. That, or the Eye of the Magus, was a far more important item than Jake first suspected, but in either case, he really wanted to know who this person was.
+
+The Malefic Viper wasn’t exactly known as the trusting sort, so it would be very interesting to see who had managed to gain the future Primordial’s trust.
+
+Just as Jake had predicted, when Jake reached the point where the vision would usually repeat, time instead kept going. The Viper floated far up in the air above the desolate planet below, no longer even bothering to regard it. Magic enveloped his form as he used Polymorph and re-assumed his humanoid shape.
+
+Villy was breathing a little heavily, the entire ordeal having clearly taken a lot out of him. The Malefic Viper turned his head, and on cue, the robed figure teleported in exactly where the Viper was looking.
+
+“Well, that went about as smoothly as it could,” the Viper said, regarding his comrade.
+
+“Indeed,” the figure said with a raspy, slightly metallic voice as he moved his hands up and took down his hood, finally revealing what he looked like, and…
+
+Yeah, Jake did not recognize the race of this robed figure at all. He couldn’t even tell if it was a monster or not, just that it was different from anything he knew. The robed figure did look humanoid, and if Jake had to compare him to one of the enlightened races, human was probably the closest, but this man was a lot more… robot.
+
+His entire lower jaw was made of silvery metal, his eyes were robotic, and he had no hair, only small holes here and there. He didn’t even have ears, but instead, he had two metal plates on each side of his head. When he moved his hand earlier, Jake also saw that he didn’t have fingers, but instead, an odd, fluid metal where a hand would normally be.
+
+Rather than a human, Jake thought this guy looked far more like a cyborg out of some sci-fi show or movie. A mix of technology and nature. For a second, Jake even considered whether he was an automaton, but that felt wrong, though Jake definitely could see some similarities.
+
+“I trust that our deal still stands,” the robotic man spoke once more.
+
+“Of course,” the future Primordial nodded. “I’ll glean some benefits and help empower the Eye of the Magus, after which we can conduct the trade.”
+
+“Good,” the metal humanoid said, showing no real discernible facial expression. “We shall remember your assistance fondly and hope our partnership will continue to bring prosperity.”
+
+“Hey, don’t even mention it,” the Viper said with a casual smile. “Besides, I should be the one thanking you. Who wouldn’t want a good relationship with the most powerful faction in the universe?”

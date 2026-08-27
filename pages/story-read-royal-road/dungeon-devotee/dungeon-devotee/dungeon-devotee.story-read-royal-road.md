@@ -1,0 +1,36 @@
+---
+id: 857c676e-f1d0-520c-80f2-e3cfead98716
+page-type-slug: story-read-royal-road
+title: "Dungeon Devotee"
+slug: dungeon-devotee
+world: dungeon-devotee
+unit: words
+author: "Nixia"
+rank: c-rank
+following: true
+royalRoadTags:
+  - "LitRPG"
+  - "Progression"
+  - "Psychological"
+  - "Male Lead"
+  - "Strong Lead"
+  - "Action"
+  - "Adventure"
+  - "Fantasy"
+  - "Dungeon Crawler"
+  - "GameLit"
+  - "High Fantasy"
+  - "Magic"
+link: "https://www.royalroad.com/fiction/51358/dungeon-devotee"
+royalRoadId: "51358"
+---
+
+Through all of Linaria, no dungeon holds such a grip on the dreams of men as the Eternal Depths. Hundreds throw themselves against its trials each day. Dozens survive, walking away with power and wealth beyond their wildest dreams… until they go back for more. One way or another, they all eventually feed the Depths.
+
+Edmund Montgomery Ahab has sworn to destroy it.
+
+Underleveled, undertrained, and underprepared, Edmund steps into the maw of the world’s greatest predator, a sword in his hand and vengeance on his mind. At first his task seems impossible, but with every level he earns, every piece of loot that drops, every secret he uncovers, and especially every bit of power he can squeeze from his mysterious connection to the Aspect of Madness, Edmund crawls closer to accomplishing that insurmountable feat.
+
+With nothing else to lose, Edmund has already given the Depths his life. All that remains to be seen is whether he takes the dungeon’s right back.
+
+Dungeon Devotee is an episodic serial. It will never be taken down for KU. Each chapter details a single floor of Edmund’s journey through the vast Eternal Depths, with all the levels and loot and lack of cliffhangers that entails. New chapters come out on the first of each month.

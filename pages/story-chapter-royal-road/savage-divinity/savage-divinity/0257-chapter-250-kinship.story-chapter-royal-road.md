@@ -1,0 +1,125 @@
+---
+id: 8b4bfb98-b9df-50bf-80f3-8be212156b21
+page-type-slug: story-chapter-royal-road
+title: "Chapter 250: Kinship"
+slug: 0257-chapter-250-kinship
+partOf: savage-divinity
+position: 257
+ownLength: 3703
+unit: words
+publishedAt: 2017-09-22
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/163593/chapter-250-kinship"
+royalRoadId: "163593"
+---
+
+Despite the late hour, Alsantset woke her husband and shared the good news, Tursinai's Sending still fresh in her mind. Throwing on a silk robe, she crawled out the tent and into the neighbouring one to wake her babies, knowing they wouldn’t want to miss Rain’s victorious return. Seeing their peaceful, sleeping faces filled her with a mixture of joy and sadness. How quickly time flew by. Why, it seemed only yesterday when she’d brought her two little sweetlings home from the orphanage, crying as she watched Rain melt with joy as he held them in his arms. Now, her babies were almost eight years old while the foundling orphan was a man grown, having made a name for himself as the youngest Second Grade Warrant Officer in history.
+
+Smiling so hard her cheeks ached, she stroked Tate’s sleek, unkempt, white hair. Her little man hated haircuts and only Rain could convince him to sit still long enough, meaning his last haircut had been over six months ago. All the same, his handsome looks would capture many a heart in the years to come, so long as he got over his dislike of grooming. In contrast, Tali’s long, silky locks lent her air of charm and elegance, showing hints of the beauty she would grow to become, a sweet, demure young lady with an iron will. “Wake up, my sweetlings,” Alsantset whispered, stifling the urge to snuggle in beside them. “Your uncle Rain will be home soon, so let’s go out and greet him.”
+
+Tiny fists rubbed squinting eyes while chubby cheeks puffed in opposition to waking. Then her words sank in and her babies jolted awake, thrilled to have their ‘Rainy’ back. Tali was first to find her voice, letting out a shrill shriek of excitement as her face lit up in joy. Tate’s voice joined her a heartbeat later, leaping from his bedroll as he rushed towards the tentflap. Catching him in her grasp, Alsantset laughed and hugged him tight. “Shush children, others are sleeping. Come, let Mama dress you up all nice and pretty, we can’t have you greeting a hero of the Empire in your nightclothes.”
+
+Truth be told, Alsantset wanted nothing more than to rush out to see her little brother and make sure he was okay, but this wasn’t the village. Almost every faction in the North was represented here at the Bridge, so appearances must be kept. This was the longest she'd ever been separated from Rain since they became a family and if the stories were to be believed, he’d endured much to achieve his newfound fame. They’d been trickling in for weeks now, and to hear her little brother featured prominently in the most popular stories filled her with pride. He’d brought great honour to the People and his family, Rain and his former cripples rising to glory. Arriving in the city with thousands of bandit prisoners and returning tens of thousands of gold in seized goods at once, Rain set a shining example of virtue and distinction. Discontent with his actions, the traitorous Coalition secretly marked this young hero for death and sent hundreds of assassins to take his life. While out for a stroll with his beloved betrothed, the young hero fought off the horde of assassins, decorating the city walls with their blood and single-handedly slaughtering them to the last man.
+
+Were the story to end here, it would already have been enough to take pride in, but her little brother seemed guided by providence. Under Major Yuzhen’s instructions to defend a cluster of fishing villages, Rain defeated the Red Devil of Sanshu’s forces on the field of battle. While chasing the cowardly bandits away, he was swept up in the currents of Western Treasures Lake, a death sentence for any other man, but not for the Undying Falling Rain. After spending days floating across the lake, he defied all odds and drifted ashore on the western bank, battered and broken, but alive.
+
+Recovering under the care of Ai Qing, a poor, orphaned village girl, Rain discovered and exposed the Defiled insurgent Gen, whose name would soon resound through the North as the most hated man alive. Still recovering from his injuries, Gen eluded Rain’s grasp and ran for reinforcements, bringing his traitorous ilk back for revenge against the people who raised him. Rain escaped with his saviour to warn the authorities of the Defiled threat, but not before defeating the infamous ‘virtuous’ bandit Laughing Dragon in single combat. Evading capture at the hands of the Demon-led Defiled Firebrands, Rain successfully warned the Empire of this malignant threat, though at the steep cost of the heroine’s life.
+
+How touching, though Alsantset worried Rain was courting far too many wives. How many did he hope to have? A man must know his limits.
+
+The rest of the story was almost too outrageous to believe, even for her. At the tender age of eighteen, Falling Rain demonstrated his Purity and Condensed his Aura, becoming the indisputable number one talent of the North. Then, while riding to Sanshu’s aid, he took the head of notorious Butcher Bay captain, Hideous Helvend a murderous scoundrel who’d plagued Sanshu for years. Full of heroic spirit and valiant courage, he entered the city ahead of Major Yuzhen’s reinforcements and showed the world his strength wasn’t just a fluke, adding the legendary Black Heart Nazier’s head to his collection of achievements. He then played a key role in the Battle for Sanshu, volunteering to hold the flank with a mere one thousand soldiers. Against overwhelming odds, Rain and his fearless soldiers slaughtered the enemy forces at almost no cost, rejoining the army as they marched to close in around the traitorous Yo Ling’s forces and dealing the killing blow to a Demon. A Demon! There were even rumours he had a hand in Yo Ling’s death, distracting the legendary bandit so Bastard Liu could strike the killing blow.
+
+Trying to separate truth from fiction had Alsantset twisting and turning in her sleep these past weeks, so much so her beloved husband unfurled a second bedroll for himself. Now, she could finally hear the truth from Rain’s own mouth. With a child under each arm, she strode out into the night where her husband sat waiting atop Pafu, Suret ready and harnessed beside them. Before riding off, she enticed the sleepy quin pups to follow, knowing her little brother loved the young animals almost as much as he loved her own children, a sweet, loving soul emerging from the trials and tribulations of his difficult past.
+
+Due to her superior eyesight and because she was riding in from the dark, Alsantset saw Rain long before he could see her, and her heart ached at the sight. Tired bags hung beneath his amber eyes, dull and sombre as he stood before a grieving woman, sobbing as she clutched her two children close. His lean, angular frame lent an air of youth and innocence to him as his shoulders bore the weight of the world, Alsantset’s cheer quickly souring as she noticed most of the Sentinels who left with Rain had not returned, replaced by a sea of unfamiliar faces.
+
+Such was the price for glory, paid for in blood and tears. Rest easy in the arms of the Mother, heroes of the Empire.
+
+Stopping just out of sight, Alsantset hugged her babies a little tighter and glanced at her husband, his comforting smile showing he knew her thoughts. “Worry not, my beloved,” he Sent, reaching out to squeeze her arm. “Rain has returned and grown stronger in our absence. He will not shatter beneath these burdens, though I intend to help him shoulder them nonetheless.” Her handsome husband glowed with exuberance, taking pride in their little brother’s accomplishments. Dismounting from Pafu, he took Tali from her arms and kissed her cheek. “Come,” he said, helping Alsantset down. “Let us go see Rain.”
+
+The moment he saw them, Rain lit up with joy. After offering his condolences, Rain left Rustram to console the widow and her family, running into Alsantset’s outstretched arms. Choking back a sob, a single tear fell from her cheek as she held him tight, Tate, Tali, and her husband joining in the embrace. After a long silence filled only with the sounds of her children crying, she uttered, “Welcome home, little brother.”
+
+“It’s good to be home,” he replied, voice thick with emotion. Drawing back, he took the twins into his arms and held them close, grinning from ear to ear. “Hello my babies. Did you miss your Uncle Rainy?”
+
+Tali nodded as she snuggled into his chest, but Tate grimaced and drew back. “I’m not a baby anymore Rainy,” he insisted, lips set in a pout. “I’m almost eight years old!”
+
+Eyes wide in mock bewilderment, Rain replied, “Eight years old? Wow, you’re right, I’m so sorry.” Frowning, he continued, “Oh no... if you’re not a baby anymore, then what am I gonna do with all the toys I brought back?”
+
+While Rain teased the twins, Alsantset wrapped her arms around her husband’s waist and watched as Rain’s ‘fur babies’ reunited with their pack. A ridiculous term of endearment for wildcats, but the animals had grown more well-behaved than expected. Butting heads with the quin pups, Aurie and Jimjam reared up to embrace Suret and Pafu, treating the two adult quins like family. Joining the fray were two fuzzy black bear cubs, ambling about the periphery in hesitation, but ever the mothering soul, Suret soon took them into her arms for a vigorous snuggle. Tired and overjoyed, the little cubs smacked their lips and closed their eyes in satisfaction.
+
+Seeing Rain smile as he played with the twins and animals, Alsantset knew her worries were all for naught. Her husband was right, Rain was stronger than before, but he was still her earnest, affectionate little brother, finally returned to them after his long, arduous journey.
+
+For now, that’s all that really mattered.
+
+Everything else could wait.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Abandoning her husband for being too slow, Akanai rushed out her quarters in a hurry. The fool boy never did anything properly, travelling past midnight in his hurry to return home. Why couldn’t he be normal and wait until morning, when she’d have time to prepare? Abandoning formality and decorum, she pushed through the throng of dignitaries and representatives hurrying to meet these new, returning heroes, snarling at every fool and halfwit who thought to block her way. Though she risked offending the various powers of the North, she had little need for diplomacy anymore. The People’s fame and exploits were second to none, and as the Mentor and Grand-Mentor of two rising dragons of the Empire, if she couldn’t use their reputations to her advantage, then why bother training them in the first place?
+
+“Mama!” Soaring through the air, Mila leapt into Akanai’s arms. Spinning her weighty daughter around in a circle, Akanai’s heart jumped with joy at their reunion.
+
+“Welcome home, oh daughter of mine. It gladdens my heart to see you safe.” Putting Mila down, she turned to the ever-present Song, standing meekly to the side. This would not do and Akanai's patience was at an end. Stroking the cat-girl’s hair, she said, “The same to you. I heard you faced a Demon to save Mila’s life. I will not thank you for it, because that’s what family does, love and protect each other. I would like to embrace you as a daughter of mine, so long as you are agreeable to it. Are you?”
+
+Surprise flit across Song’s face, quickly replaced by incredulity and longing before she hung her head in shame and refused to answer. Sighing, Akanai knelt down and looked her new daughter in the eyes. “Silly girl,” she murmured, stroking Song’s trembling cheek. “With all your strength, discipline, and courage, you still believe yourself unworthy of love? No more. From this day forth, you are Li Song, daughter of Akanai and Husolt, sister of Sumila, Sentinel of the People. Understood?”
+
+Long seconds passed as Song cried in silence, finally nodding a single time and turning away, terrified this was merely a cruel joke. Pulling both her daughters into her embrace, Akanai kissed their temples and sighed in happiness. “I thank the Mother for this gift, for today, not only has my daughter returned, she has brought me a second. My family has grown by one, the greatest joy a mother can hope for.” Drawing back, she studied her two daughters, noting the changes in them both. Song’s development was more obvious, her stony demeanour cracked and broken as she wept tears of joy. Though Akanai had long since welcomed Song into her home, a home was not a home without a family.
+
+Beaming beautifully, Mila’s red-panda ears fluttered with joy as she rocked back and forth on her heels. Her charms growing with age, Mila's clothes and hair were neat and tidy despite the long journey, her sun-tanned, freckled skin vibrant and animated, the look of a woman in love and in the prime of life. The observation brought to mind Tursinai’s reports and Akanai couldn’t help but frown and whisper, “Daughter, although you are a woman betrothed, spending the night in his tent is still improper. I will not scold you for it, but do not let it happen again.” That lusty brat, she had a mind to tan his hide for this, but it couldn’t be helped. Living in constant peril and fighting battle after battle, sometimes only the comforts of the flesh could calm the nerves. Stroking Song’s cheek, Akanai smiled and joked, “I’ve lost one daughter to that lecherous boy. Don’t you be led astray by him either.”
+
+Shrinking back, Song glanced at Mila before answering, “But this one also spent the night in Rain’s tent. Several nights, in fact.”
+
+Sensing Akanai’s escalating fury, Mila interjected, “Nothing happened! We slept together, that’s all. I mean, like sleep sleep.” Glancing at the listening crowd of strangers, her face went red with embarrassment. “REALLY,” she Sent, her boisterous voice putting Akanai on her heels. “HE WAS HAVING NIGHTMARES AND I WANTED TO COMFORT HIM, BUT ALL WE DID WAS SLEEP. THAT’S IT. YOU CAN ASK SONG, SHE’LL TELL YOU THE TRUTH.”
+
+Letting out a long breath, Akanai turned her attention to the affectionate wildcat, giving the creature a vigorous head-scratching. At least this one was still sweet and innocent. “Okay,” Akanai said through gritted teeth. “I believe and trust you.” It’s the boy she worried about, but the rice was cooked. Or it wasn't, either way. At least he didn’t waste her efforts training him, returning with more fame and achievements than she could’ve dreamed of. Hugging both daughters once more, Akanai stood and dusted off her knees. “Come, let’s go see the boy. Congratulations are in order.”
+
+And perhaps a small test to follow. She was only checking on his progress, this had nothing to do with her fury over the loss of Mila’s innocence. How many wives did this rascal intend to take? Mila, Mei Lin, Adujan, and now Song too? This was too much.
+
+While the three of them walked hand in hand, Mila’s enthusiastic story-telling melted away Akanai’s anger, her daughter every bit as charming and lovable as before. Perhaps Mila was telling the truth and Akanai was projecting her own past onto her daughter. Just because Akanai laid with her husband out of wedlock after their first real battle, didn’t mean Mila would do the same. She was an obedient child, raised better than Akanai had been. There was nothing to worry about.
+
+Probably.
+
+Finding the boy amidst the crowd was simple enough, they only needed to follow the flies. Officials and dignitaries of every faction swarmed around him, kept back by a circle of unfamiliar, disciplined warriors. These would be Dastan Zhandos’s retinue, and her first impression was favourable, picking the former Warrant Officer out with Mila's help. Sporting a wispy moustache he thought made him look dignified but only accentuated his youth, the rebel-turned-slave deftly managed the crowd of uppity nobles, giving Rain time to spend with his family. Spotting Mila, Dastan immediately yelled at the nobles to make way, clearing a path for Akanai and her daughters to pass through.
+
+How intriguing. This one showed promise, accepting his new lot in life with grace and aplomb. Though labelled a rebel and traitor, he was now a Sentinel under her command and she liked what she saw thus far. Turning her attention to the boy, Akanai scowled as he remained crouched on the ground and ignorant of her presence until Alsantset tugged at his sleeve. Glancing up, he grinned and remained crouched while everyone else stood in her presence, waving like a gleeful child. “Hello!” he said before hugging the wildcat. “And hello to you too Sarankho.”
+
+With his body yet to fully recover, Akanai couldn’t stay angry at the boy and took a seat beside him. At least he’d greeted her before greeting the wildcat. “Welcome back, my Grand-Disciple.” She hated saying those words out loud because it made her feel older than her years, but her nonchalance was for the benefit of those watching, making it seem like the boy’s disrespect meant nothing. Family didn’t put on airs, and the boy was family, both her grand-disciple and eventual son-in-law. Speaking of which, why wasn’t that hare-brained healer and his daughter here?
+
+No matter. Giving the boy a rare smile, she patted his neck, resisting the urge to hit a little harder than necessary to vent her frustration. “This time, you’ve performed... adequately.”
+
+Laughing in delight, the boy leaned in for a hug. “Thank you, Grand-Mentor. Your praise means the world to me.” There was no sarcasm or derision in his tone, only heartfelt sincerity, and her shoulders eased to hear it. She’d worried the boy would let fame get to his head, but he seemed the same as always, a kind-hearted child who meant well. That he infuriated her so often was merely accidental, though they would need to teach him manners soon now that he was a hero.
+
+Glancing at the gathered dignitaries, Akanai raised her voice and said, “Thank you all for coming to greet my Grand-Disciple, but his journey was long and the hour late.” Most took her dismissal in stride and left, while the remaining flies were hustled away by Dastan, leaving them in peace and quiet. Once only trusted eyes and ears remained, Akanai turned to the boy and said, “Show me your Aura.”
+
+Unwavering determination and daring courage filled her the second she finished speaking, the boy unleashing his Aura without delay. Wonderful, Condensed at the speed of thought and so robust and secure, Rain’s skills were above and beyond what she’d expected. Barely able to keep herself from clapping in joy, Akanai hid her emotions and nodded. “Acceptable,” she said, but from the looks of it, the boy discerned her true feelings. Why else would he be so delighted by her words? Condensing her own Aura, she said, “Take care, for I will now test it.”
+
+Turning her Aura against him, she pressured him with a twentieth of her strength. Gerel sent word that Rain’s Aura held some surprises, but he didn’t elaborate in writing. Rather than ask him, it seemed better to test the boy herself, and he weathered it well. Of course, the boy withstood this much even without his own Aura, she needn’t be so gentle. Slowly raising her strength, the boy’s Aura finally shifted beneath her own once she released half her might, but still it held. Delighted by his resilience, Akanai immediately struck out with all her strength, which only made the boy blink and focus, seeming unfazed by her assault.
+
+How absurd, if this was his strength now, what would he be like after given time to grow?
+
+“Boy,” she said after a moment of thought, “try to break my Aura. Use everything you have.”
+
+“Uh... Everything?” The boy looked around in confusion, as if searching for something or someone.
+
+“Yes.”
+
+“Have you spoken to Gerel yet?”
+
+“No. I will speak with him in the morning. Enough hesitation, do as I say.” She tried to sound gentle, but she was too eager to restrain  herself.
+
+“Okay... but um... be careful, okay?”
+
+This time her smile slipped out. How endearing, a frog at the bottom of-
+
+A raging storm of anger and despair crashed into her Aura from all sides, a whirling frenzy of emotions. Buckling beneath the pressure, Akanai focused everything on holding her Aura, unwilling to lose face before this preposterous grand-disciple. Everything from seething hatred to crippling misery, the depths of which she’d never felt before today, threatened to pierce through her defences and render her vulnerable. In spite of her best efforts, her Aura diminished and ebbed before the boy’s aggression, the seconds passing ever so slowly as she weathered the onslaught.
+
+Then, without warning, it all faded away as the boy reeled in his seat, sweating and panting as if he’d just run a marathon. Grinning despite his weariness, he leaned against her and said, “That’s my Grand-Mentor. Sturdier than a dozen Yo Ling’s. Barely even made you blink.”
+
+Swallowing hard, Akanai alternated between confusion and awe. By the Mother, even though he couldn’t break her Aura, if he struck while she was distracted or in the midst of a duel, she shuddered to think of the consequences. In a battle between experts, a single moment's delay might as well be an eternity. Grabbing him by the arm, she Sent, “Explain.”
+
+Full marks. She had to give him full marks. Though she could never say as much. It’s not that he didn’t deserve praise, but she didn’t want his accomplishments turn him pig-headed and stupid. Arrogance and overconfidence killed more young talents than the Defiled ever could and the boy attracted danger like none other.
+
+While listening to Rain’s disjointed explanation, Akanai’s smile grew until her cheeks ached with the strain. Given a little time and a lot of luck, this little son-in-law would soar into the Heavens.
+
+She was certain of it.
+
+Chapter Meme

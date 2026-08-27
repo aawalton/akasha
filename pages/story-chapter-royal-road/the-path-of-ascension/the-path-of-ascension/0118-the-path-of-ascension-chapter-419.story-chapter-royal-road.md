@@ -1,0 +1,375 @@
+---
+id: 160fbf7b-0d43-521e-99b7-118a9ff34fcc
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 419"
+slug: 0118-the-path-of-ascension-chapter-419
+partOf: the-path-of-ascension
+position: 118
+ownLength: 6159
+unit: words
+ownProgress: 6159
+publishedAt: 2025-06-13
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2354318/the-path-of-ascension-chapter-419"
+royalRoadId: "2354318"
+markedReadAt: "2026-06-29T19:21:54.230Z"
+---
+
+Chapter 419
+
+The group of them moved out of the house and onto the flying island before Wun put his staff down. “Nope, no fighting on the island. Let's move to somewhere else. One of the hidden areas.”
+
+The four younger Clan Ascenders chanted in unison, “Mysteries, mysteries, hidden in a sock. Mysteries, mysteries, find ‘em in a clock.”
+
+Jumping off the island, they devolved into more bad rhymes before they reached the edge of where two of the quilt like areas of the world met.
+
+There was a spatial layering effect that Matt could feel but didn't fully comprehend how to bypass; at least not in a non-destructive manner.
+
+Allie, however, took one look at it and cut a hole for them all to travel through, letting them get under the surface layer world to the mishmash of worlds beneath.
+
+Krodag gave her the middle finger. “You're no fun. Didn’t even slow you down at all.”
+
+Allie grinned as she brandished her dagger. “If you want to see fun, I can dismantle the whole thing. Nifty thing here, but it's got a flaw.”
+
+Wun narrowed his eyes. “Bullshit.”
+
+On the other hand, Ellen and Krodag each called out, “Noooo wayyyy!” Seeming to think Allie was just messing with them.
+
+Brian, however, just looked interested while Moe egged Allie on. “No way. Ifna ya ‘id find it, do it to ‘rove it.”
+
+Aster thankfully swatted Allie with her tail. “Don’t be rude. Share just enough to prove it's real and then dangle the rest so we can watch ‘em squirm.”
+
+Allie rubbed her thigh before shrugging. “I really did find something, but I wasn’t going to actually destroy it.” Instead she grinned. “But I did just find the best thing to bet. How to destroy this whole place with a single attack. I promise it's real, doesn't take a specific Talent to do, and wasn’t caused by me and if tampered with, will result in all of the planets trying to enter the same real space at the same time.”
+
+Getting an [AI] verification sent all five of the Clans Ascenders onto rummaging around the seam in reality like ants looking for a crumb.
+
+While they did that, Matt instead let himself look around at the absolute weirdness that was being inside the merged portions of the planets that most people were never supposed to see. It was not nearly as clean and organized as the outside layer of the merged worlds were.
+
+Through his Domain, he could see that space was somehow layered on top of itself but not intersecting, though it wasn’t done so in any fashion he was used to. He would have normally interpreted that meaning the planet was Talent-made but, given what Allie had said, he looked deeper.
+
+Or rather, less deep.
+
+The world they had entered through was a desert, with hills of sand and hot winds whipping around, and so Matt had expected them to enter into an area of similar design, but they hadn’t. Instead, they were in a slightly murky area more like a tropical swamp than any desert.
+
+Except the swamp only traveled for a distance of a few hundred feet before it gave way to a weird looking ocean.
+
+Matt narrowed his spiritual perception and realized his mistake. It wasn’t just an ocean, it was actually a lake and a sea overlapping onto each other, which gave the game away.
+
+The planets really were all occupying the same space, and like holograms overlaid onto each other, they were all layered on top of each other and fighting for prominence.
+
+Taking a step to the side, the world changed as his position did and the swamp was replaced by a lush field of orange-tipped grasses. Even the sky was murky as the dozens of slightly different atmospheres layered over top of each other, making the day dimmer than it otherwise should have been.
+
+On instinct, Matt reached out with his Domain, his meld specifically, and smoothed the areas around them like trying to remove the wrinkles from a blanket.
+
+As he did so, the worlds’ oddities vanished as the competing worlds were shuffled under the desert they had entered from.
+
+Everyone looked to Matt, who just whistled as if he hadn’t done anything.
+
+Ellen snorted. “That's no fun. You aren’t allowed to figure that out so easily. It would have been way more interesting to see you guys walk into a tree that appeared out of nowhere. Gets a laugh every time.”
+
+Matt just buffed his nails on his shirt, going for his best pretentious noble impersonation. “It was as natural as breathing. Didn’t take but a moment of my time. I’m happy to give lessons.”
+
+A moment later, the area around Zack smoothed out, but Matt felt mana fluctuations from him, indicating that he had figured out a magical way instead of a Domain-based one, which caused another round of cursing.
+
+“You guys suck.” Brian looked almost as sad as the skeletal horse he was riding.
+
+Ellen cracked her neck with a pop before brandishing a sword that was almost identical to Susanne’s.
+
+“Okay, surprises ruined, let's fight. I’m going to suppress all of my greatsword fighting knowledge and show you what an accelerated version of my Talent looks like. When I was a Tier 5 or so, this would have taken decades, but I’ll fake it and just unlock as I go until I’m fighting at my true level. Let's stick to Tier 25 strength to keep things safe.”
+
+Brandishing her own greatsword, she stood at roughly a head height for Susanne and waited in a sloppy ready stance.
+
+Susanne thrust forward; it seemed like a slow and casual strike, but arrived in the blink of an eye.
+
+Ellen tried to deflect with a circular motion that would have brought Susanne’s thrust alongside and past her, opening Susanne up to a devastating counter, but her timing was off and the manifested greatsword poked Ellen in the chest right over her heart.
+
+“Again.”
+
+Ellen called out and once more she was quickly defeated. While Susanne had copied her original thrust, and the second time Ellen’s parry’s timing was better, she was still defeated. Instead of allowing her blade to just be directed off to the side, Susanne redirected the energy to move her blade upward and then back down in a slash that would have cut Ellen’s head in two.
+
+Undaunted, Ellen called out, “Again.”
+
+In the sixth round of combat, the quick finishers Susanne was using failed, and the two of them exchanged three blows before Susanne incorporated footwork into her fighting, which literally tripped Ellen up as she crossed her feet and fell, opening herself up to an easy finish.
+
+Even as an observer, Matt found the fights riveting as he watched Ellen learn in real time. She never made a mistake twice, and it was clear that her ability to infer was working overtime as she extrapolated and made logical leaps.
+
+Not all of them were correct. It seemed Ellen had truly blocked not just all knowledge of greatsword fighting, but of melee fighting in general from her own mind, as she made mistakes that she otherwise wouldn’t have if she had any knowledge of how to fight in close range at all. Even with that handicap, the more information she learned, the faster and better her improvement was.
+
+Matt suspected it was like watching her progress through the Path in real time. She learned, made mistakes, and came back with a counter.
+
+At first it seemed like she’d never be able to match Susanne, but after the thirty-fifth fight, she was able to drag the fights out for minutes at a time, and by the fortieth fight, she was dueling Susanne to a draw.
+
+After that, as the fights were able to go on longer, they were able to watch her improvements happen mid fight.
+
+In an interesting twist, they also saw as her style evolved to counter Susanne and her personal fighting style.
+
+Once she started to get the upper hand in their fight, Ellen called out, “Let's spice things up. Use your Talent, Susie!”
+
+As if a flip was switched, Susanne blurred.
+
+She didn’t speed up; rather each of her moves became far more fluid as her Talent for writing applied itself to her blade. It wasn’t a night and day difference, but it was there and unmistakable.
+
+Once more, Ellen started to lose, but within three rounds, she was once again fighting equally to Susanne. And two rounds after that, she started beating Susanne and their roles switched.
+
+Susanne went from the teacher to the student, as her fighting style was picked apart and analyzed within an inch of its life, which was pretty normal from Ellen, given everything Matt had heard of her. She was considered one of the finest melee fighters in the Realm for a reason.
+
+Not that Susanne just rolled over and gave up having lost her upper hand. Despite not having a Talent for learning, she improved with every exchange of blades, learning from the flaws Ellen had revealed and tightening her own style accordingly.
+
+After a few minutes of that, Ellen jumped back signaling the end of the fight. “Tada!”
+
+Matt clapped politely. That had been an impressive showing and encapsulated exactly why Ellen was so scary. She could pick apart someone else's personal fighting style and learn it, perfect it, and then dismantle the original fighter with it. And that was when she was using a mirror match up. Her own personal weapon was a sword and shield, and any defeat would come even faster with the weapon she had truly mastered, and she usually just used the flaws she found to dismantle her opponents in short order.
+
+Matt stepped forward and smiled. “Care to go for a second round?”
+
+He truly wanted to see how he stacked up and what he could learn from someone who could dissect his own style, but his dreams were dashed when Ellen shook her head.
+
+“Naaa, you aren’t a good example. I can copy physical things. I can’t copy shitting out massive mana attacks. Instead, why don’t we spar as a group?”
+
+Liz joined Matt, with only Aster a moment behind.
+
+Matt smiled. “Any rules or restrictions?”
+
+Moe shrugged, speaking without his typical accent again, “No killing each other. Keeping things to Tier 25 should do that. Why bother with anything else? Let's just beat each other until one side comes out on top.”
+
+That was good enough for them, and after giving themselves some distance, Matt raised a hand. “If we really want to go all out, should we be doing so inside this folded space or on a planet at all?”
+
+Wun waved that concern away. “I’ll protect the area. I—. Actually that's boring, let's move into a rift.”
+
+They found a nearby Tier 30 rift and Wun rushed in. By the time Matt entered the rift, just a step behind Wun, the entire place was a lifeless wasteland with trees still falling and dirt still raining down.
+
+A moment later, Wun came back with his namesake, his golden staff steaming as liquids of all kinds evaporated off of it. “Okay, rift cleared. We can go wild now. No reason to hold back.” Sauntering over to where Allie, Zack, and Susanne floated, he reached out and said, “Snacks.”
+
+Vanishing for a moment, Allie came back, having raided someone's pantry with several of the bags being half empty.
+
+Lining up across from each other, Matt quickly worked out a general plan with Liz and Aster.
+
+Seeing both sides ready, Wun picked up a chip and tossed it into the air lightly.
+
+The moment it touched the ground, Matt sprang forward, activating all of his buffs. He was aiming for Moe, but Ellen intercepted him half way, moving incredibly fast for the Tier 25 limit they had set.
+
+Matt slashed out at her, but instead of blocking or deflecting, she launched herself up with a tap of her toes, trying to get over him and to Aster, who was busy countering the debuffing spells and buffing spells Brian and Krodag were casting respectively.
+
+While Krodag was a healer, his buffs were second to none, and he was a deft hand at counter magic, which meant Aster had her work cut out for her. If they let Ellen get in close, she would be done for.
+
+Activating his Intent, Matt made Ellen the center of the Realm, and for a moment, she froze. She was incredibly fast at pushing through his working, but that momentary pause was more than enough for Matt to land a blow.
+
+Instead of trying to continue advancing towards Aster, Ellen made the right choice and got her shield between them, blocking the combination of [Tribulation Strike], [Mana Slash], and [Mana Charge].
+
+The explosion of mixed powers sent her flying away from his bond, her shield slightly deformed from the impact. She was, however, able to bleed off most of the damage with a spell Matt couldn’t quite follow. All he knew was that it somehow connected her shield with the space around her without actually hampering her own movement, letting her shift a lot of the force of his attack off her.
+
+Before Matt could follow up, half a dozen skeletal knights appeared, racing at him, Aster having dispelled the illusion they were hiding under.
+
+Ducking the arrow of black mana that was aimed for his head, Matt flexed his repulsion ability from his Concept, sending the knights skidding back just in time for Ellen to step out of a beam of light behind Matt.
+
+She drove her short sword into his back just over his hip, her blade piercing [Cracked Phantom Armor] after only a moment of resistance. Through the feedback of the spell, Matt felt she had a localized spell disruptor built into the weapon, which was further bolstered by three spells layered on top of each other.
+
+Matt ignored it.
+
+He also ignored the necrotic poison that tried to kill his cells and allow Brian to command his very flesh, which was a very interesting combination, just one that had no chance of working on him.
+
+Instead of fighting back against Ellen, he used [Telekinesis] and grabbed for Brian, who was also summoning a skeletal dragon. Krodag sensed the nearly invisible spell just in time and shouted, “[Shield of My Ancestor’s Light]!”
+
+The spell that covered Brian looked like a typical [Dome of Light] shielding spell, but instead of being the normal half globe filled with protective and healing energies, it was made of dwarves forming a shield… sphere.
+
+Matt didn’t let the empowered spell stop him and clamped down with half of his Tier 25 mana generation. The shield looked like it would hold, but that was only for a moment, and he could see Krodag start to smile before it was wiped off his face as cracks started to appear. An instant later, the dome exploded in a wave of golden fragments that vanished into nothing.
+
+Brian had already swapped places with one of his undead knights, which was pulverized, but Matt didn’t have the capacity to track him down and left him to Liz, who had cast a curse spell that was using her incredible life energy from Ichor to rot away the undead he kept summoning.
+
+Ellen hadn’t been sitting on her hands either, and had driven three more blades into Matt’s back, each pumping massive amounts of different poisons as well as strange foreign mana into his body. His Millennium Willow Lifespan let him dump mana directly into his flesh and that, combined with both [Regeneration], and [Barbarian’s Hide], neutralized everything one and all.
+
+Matt brought his sword around while casting [Sword Twin], keeping all three copies of the weapon inside his sword, empowering it while hopefully setting up for a trap.
+
+Ellen rushed at him and Matt used his greater reach to lash out with a simple flourish, hoping to limit her movement, but she never even slowed as she deflected his blade down and blocked the [Mana Charge] explosion with her shield.
+
+With a flick of her wrist, Matt lost control of his blade and the hand that had been holding it. He noticed as she did that, she seemed to have perfectly understood how [Cracked Phantom Armor] worked and was then able to pierce through it in the most efficient way. Considering that the mana patterns of the spell changed constantly as he varied the amount of mana pouring into it, as well given how he was using the second layer which deliberately operated on a different pattern, that was the most impressive thing he had seen so far, and he made a note to pick her brain after the fight so he could better address that.
+
+Missing his right hand, Matt didn’t let that change his plan and brought his knee up, trying to catch Ellen mid-jump, while also grabbing all of the air with [Air Manipulation] to prevent her from using that medium to redirect herself. He even pulsed his Meld to prevent her from using her own Domain to move.
+
+Still, none of that was enough to stop her from dodging the knee. She managed to kick off a drop of his blood that was still hanging mid-air, hardened in place with [Water Manipulation], aiming to drive a blade into his neck.
+
+Except, Matt wasn’t trying to hit her with his knee. At least that wasn’t his true goal.
+
+His blade, controlled by [Sword Twin], raced towards her from behind, intending to skewer her less-defended back.
+
+Ellen bent like her bones were made out of elastic, and given her smaller relative size, she managed to only take a wound to her side, which was quickly healed by a shouted, “[Healing Alms]!”
+
+It wasn’t for nothing though, as Krodag was punished for the interruption by Aster, who dropped an illusionary bear next to him and then swapped it for one of her ice golems.
+
+Matt reached out and grabbed Ellen’s blade with his now regrown right hand and yanked, while punching out with his invulnerable left at the same time.
+
+The smaller human’s helmet buckled under the impact, but she seemed unbothered as Matt found a giant dragon’s maw descending around him.
+
+As he was swallowed up, Matt got to see that its flesh had been replaced with ink-dark mana which tried to absorb all types of energy to empower itself. More interesting was how its breath attack ate at Matt and [Cracked Phantom Armor] like acid, but instead of damaging Ellen, it swapped her out for a skeleton.
+
+For a moment, he almost thought it was an illusion, but while the acid was doing nothing to even the first layer of [Cracked Phantom Armor], he couldn’t let himself get distracted mid fight, no matter how interesting the dragon was.
+
+[Mana Beam] sliced the dragon in half, destroying the spells controlling the beast and making it dissipate.
+
+That gave Matt just enough time to see a Liz getting punched into a crater next to him before getting buried in the resulting cave in.
+
+Instead of just turning into liquid to dissipate most of the blow, she had been sent flying, a product of an ability or Talent of Moe’s. The strength-based fighter of On The Last Line could control what he destroyed when he hit it, which was a devastating counter to someone like Liz, who typically relied on letting physical attacks simply explode her body, allowing her to reform and attack again.
+
+Seeing that Ellen was closing in on Aster, who was only defended by a pair of Lizzes as well as one of her ice golems, Matt quickly cast [Mana Beam] once more, forcing her to dodge then run away as he chased her with the spell.
+
+However, before he could do more than graze her with the spell, he had to drop it and turn his attention to the giant dwarf that was racing at him.
+
+Moe had grown from a dwarf's four foot five to a seven foot tall wall of flesh sometime during the fight, a spinning formation of light floating behind his back empowering him and giving him an additional layer of defense with its radiant energies.
+
+As the Liz raced out of the crater she had been punched into, the battlefield was awash with a chill that bolstered Matt and Liz while slowing everyone else. A beam of darkness and light immediately attacked the spell, trying to disrupt it, but Aster managed to keep it going, giving their side an advantage.
+
+At the same time, a swarm of mosquito beetle hybrids started charging out of ink black portals.
+
+A Liz exploded herself into a mist and her Ichor ignited in a wash of flame and lightning, destroying a majority of the wave. Matt assisted by casting [Dragonflame] which she pulled into her, but that was all he could do as Moe was on him.
+
+Matt felt a palpable spike of danger as the glowing hammer came around in a sweeping arc, trying to send Matt flying as it had Liz.
+
+Matt ducked under the blow and cut upward along Moe’s flank. His blade skittered off the dwarf’s armor. [Dispelling Edge] managed to cut through the magical armor easily enough, but the metal armor was some of the best Matt had ever seen, and his current configuration of his sword was in its most neutral form, which was the best Matt could do when fighting at a Tier 25 level.
+
+Spinning on his toes, Moe turned and kicked at Matt’s forward leg, aiming for the knee with an alacrity that surprised Matt.
+
+Raising the same leg, Matt checked the blow, just to have his leg pulverized.
+
+That caught Matt off guard and he was forced to reevaluate how he wanted to fight Moe. Given that his cultivation went entirely into his physical core, and that when combined with his various buffing spells, Matt was used to overpowering most people he fought. There had been people who were stronger than him, who were faster, who healed better, but he had always been close enough that the difference wasn’t so staggering.
+
+But Moe? Moe had to be at least a dozen times stronger than him at his best.
+
+Given how strong Matt was, that was mind boggling, and he considered for a moment that Moe might have let his cultivation suppression slip. But the radiated energy was consistent with what he had used to fight Liz. He also knew that was unlikely for many reasons, least of all it was hard to believe one of them would slip, let alone slip and not immediately surrender for the mistake. He also knew the reports which said Moe was the single strongest person in the Realm, but he hadn’t fully understood just how strong the dwarf was until that kick.
+
+Grinning upon seeing that the other Ascender really did live up to the hype, Matt landed, his leg already regrown, and [Cracked Phantom Armor] creating spikes on his fist.
+
+His left jab was met by Moe, who laughed as their fists collided.
+
+Even with Matt’s Stygian Gossamer making his left hand nigh invulnerable, it was obliterated in the clash, along with the rest of his left arm and half of his chest.
+
+Matt twisted with the impact to bring his blade up and around to cut deep into Moe’s left armpit, unleashing another combination of [Tribulation Strike], [Mana Slash], and [Mana Charge].
+
+This time, his blow penetrated the armor but the laughing dwarf was as unbothered by the blow as Matt was.
+
+Arm already regrown, Matt ducked the next hammer swing and used [Cracked Air Slide] to maneuver around Moe, able to control the erratic spell thanks to his Minkalla Winter boon.
+
+The move also got him out of the formation Brian had carved into the ground with his skeletal minions, the chains of dark mana entangling Moe for a moment before dissipating on their own.
+
+Having had enough of the necromancer, Matt started pulsing [Cosmic Pressure] as he ran, which flattened the terrain for dozens of miles around them as the gravity increased in varying amounts, making it hard for anyone but Matt, Liz, and Aster to move.
+
+Krodag smashed his mace down at Matt who skirted by him, trying to buy some time, but Matt ignored the attack, letting it splash over [Cracked Phantom Armor] harmlessly.
+
+Instead, he saw that an entire section of the battlefield was littered with bones and all equally felt like Brian. From his training on the other Ascenders, Matt knew Brian could be any and all of his skeletal minions, similar to Liz, but he did in fact have a real body.
+
+That body was certainly not here and was undoubtedly shoved into a safe location, possibly near the Clans’ Tier 50, but destroying the skeleton part he was actively in should amount to a death in a spar like this.
+
+Instead of trying to find it in the jumble, Matt instead created a massive amount of ice with [Hail] and fused it together with [Ice Manipulation]. Brian and Krodag both started destroying the ice, realizing what was about to happen, but they were too slow.
+
+Aster didn’t miss a beat and cast [Cracked Shatter], causing the massive block of ice to detonate at the cost of half of her mana pool.
+
+Ellen used that momentary pause to drive a blade into Aster’s neck, standing in for her more delicate brain, for the fifth time. This time the blade finally managed to actually hit, rather than phase through, but his bond had already activated her own death prevention skill [Deathly Cold], which would keep her spirit immortal as long as kept control of her own temperature. And Matt wished them the best of luck on raising it.
+
+To ensure that, Matt kept [Hail] going and piling up around her, all while feeding her mana with his Concept, ensuring the poisons eating away at her icey form couldn't burn through her mana pool.
+
+A dozen Lizzes dogpiled Ellen and Matt knew her time was limited, refocusing on Moe.
+
+He was a moment too late, and the hammer transformed into a falling star and punched through his chest, evaporating everything it touched.
+
+Matt’s head went flying, but he quickly fixed himself, his body regrowing and taking to the air.
+
+Moe seemed surprised that Matt didn’t signal a defeat, but he didn’t stop or slow his reaction, and instead launched himself into the air to chase Matt.
+
+Replying to the dwarf’s message, the fight continued with even more ferocity, the two of them not holding back.
+
+Knowing he was outmatched in terms of raw physical strength, Matt used all of his speed enhancing spells to keep one step away from Moe, while also peppering him with attacks that slowly but surely punched through his layered defenses.
+
+For all his strength, Moe’s durability was only exceptional instead of the best in the Realm, and after dealing with Gan Le, Matt knew how to deal with such a person.
+
+The fight was mostly even for quite a while, only interrupted as it intersected with the other combatants.
+
+Moe landed another clean hit when Brian managed to sneak a skeleton beneath Matt that grabbed him by the legs at a crucial moment, but any momentum that gave their team was erased when both them were washed in a psychedelic paradise of colors. Moe had to deal with the illusions Aster was weaving around him until Brian and Krodag managed to dispel them, allowing Matt to throw a small ocean of blood in Liz's direction, which she happily used to start setting up a proper [Blood Tidal Wave] to finish Ellen with.
+
+Seeing Krodag slightly out of position, Matt readied [Telekinesis] wanting to knock the healer away.
+
+His harassment was interrupted when Moe did something Matt didn’t expect. Moe attacked the [Telekinesis] spell itself.
+
+It wasn’t a magical attack, but rather a raw, physical blow somehow channeled into the ether, and it caused the spell to shatter as surely as any dispel or dissipation. The surprise blowback caused Matt’s mind to go white, but he had experienced worse sparring with Zack and quickly recovered.
+
+Matt slid to the side, using [Cracked Air Slide] once more, but Moe was ready and moved to intercept, his paw-like hand reaching out, trying to grab Matt’s head.
+
+Instead of obediently going to his death, Matt used his Intent to freeze his movement. Moe seemed ready for that and a rope, Moe’s Intent’s anchor, snaked out and wrapped around Matt.
+
+Matt’s Meld dispelled it almost immediately, but it still let Moe close in.
+
+Matt’s world went black, as his head was fully obliterated. His consciousness came back a moment later when his head regrew thanks to [Regeneration] and its upgrade, as well as his sub-aspected mana keeping spells going automatically even after he stopped manually casting them.
+
+Moe’s surprise meant his follow up strike was less than perfect, only made worse when a single snowflake fell on his forehead and hit him with enough debuffs that, for just a moment, he was merely a lot stronger than Matt, rather than impossibly stronger. Matt happily took the opening Aster gave him and cast a point blank [Mana Beam] at Moe’s throat and the weaker armor there.
+
+Moe tried to twist and move to stop the attack, but being in close had its own advantages. The dwarf only landed one blow, and while it nearly sent Matt flying, he was ready for it.
+
+When Moe hit Matt he chose not to break him, which meant the force that should have just pulverized his flesh and blood had nowhere to go except sending him backward. It would have worked, except Matt flared his Intent once more, locking himself in place. That nearly rattled Matt apart, but he had enough durability to survive the conflicting forces.
+
+Seeing that, and the [Mana Beam] that was trained on his throat about to pierce the final layer of under armor, Moe called his own defeat. Matt immediately turned his attention to where Krodag was running away from half a dozen Lizzes.
+
+Wanting to join in the fun, Matt swapped with the lead Liz just to find himself back next to Aster as Liz swapped them again.
+
+Seeing his bond back in full form, Matt gave her a shoulder bump. “Well played.”
+
+She laughed as she hip bumped him in return. “You too. You should have heard Ellen's reaction to you losing your head.”
+
+“I’m right here,” the shorter woman said, having sat down where she was defeated.
+
+Aster dropped a pile of snow on her, “Dead people don’t speak.”
+
+A skull appeared next to them and Brian’s voice came from it, “I assure you they actually are quite talkative. Remind me to tell you the story of the clan leader's daughter I resurrected one time. She had been dead for like a bajillion years, and yet she had so much to complain about. Really irritating, I tell you. Always moaning and groaning. All I did was rob a grave of a vanished clan. Really, she should have been thanking me for finding her family's holdings. They were thoroughly lost. Great adventure to find them. Six years tracking down rumors, two years digging through old ruins, an— oh look, Krodag is dead.”
+
+Fight over, Moe appeared next to Matt with a single step, looking him up and down even as he shrank to his normal dwarven height. “I honestly didn’t believe you when you said you could survive losing your head midfight there.”
+
+Krodag appeared next to them nodded. “I was ready to put your head back together if there was any spiritual disturbance, but damn, not even a flicker. That's kinda nuts. Wanna bet for the method? I have a bottle of Tier 30 Liquid Light I’d wager. The company that makes it has long gone under, so it's quite rare.”
+
+Matt grinned. “Sure, sounds fun.”
+
+It wasn’t his fault Krodag hadn't done his research. With how many samples of his mana had been spread around, it wasn’t, or shouldn’t have been, that hard to put together. And based on Ellen's eye roll behind Krodag, he imagined she already had realized it was just his sub-aspect keeping the spells going longer than they should.
+
+It was a simple but very hard to counter method of healing that Krodag couldn’t really learn from.
+
+Before the moment passed, he asked, “What can we bet on though?”
+
+“The fate of Pesante? I’ll bet that Archwarrior Daniels will be able to hold the planet for another month, but the rest here think he’ll fold in two weeks at most.”
+
+Seeing Matt have to look the battle situation up, Ellen called him out, “Been too busy to keep a close eye on the Federation and Monster Collection war, huh? Yeah, we were very busy too right after finishing the Path. Kind of shameful though. You had better pay more attention while we fight. We expect proper congratulations in the Legend chat when we do something cool.”
+
+Having finished looking into it, Matt agreed with everyone else about the planet falling sooner than later, and accepted the bet.
+
+Moe nodded along but laughed. “I do have to say, I wasn’t expecting you to be as strong as you were. I actually felt your blows.”
+
+Matt snorted, even as Aster and Brian started arguing about the best dispelling methods, and Liz and Ellen started talking about shield techniques. “I’m not sure that's a compliment given you pulverized me with each hit.”
+
+Krodag slung an arm around Moe, shaking his head. “Nah, it's genuine. Most people, even the best tanks, just evaporate after a single hit. Moe multiples all strength related buffs separately with no interference, which is part of what makes him so strong. The fact that you were alive at all after a single hit is impressive, let alone the healing factor.”
+
+Matt let out a long whistle. “I kind of want to see you and Gan Le fight now. His defense is top notch. I wonder how it would compare.”
+
+Moe leaned in closer, his accent once more overly thick. “As ‘ou fought ‘oth of us, who da ya ‘ink would ‘in?”
+
+Matt had to parse what Moe was asking but shrugged. “If that was your actual Tier 25 peak strength, I’m pretty sure Gan Le could take the hit.”
+
+Moe stumbled back, “No way!”
+
+Matt shrugged, “It's hard to know for sure, of course, but Gan Le is really that hard to kill. I hit him with [Mana Beam]s lasting for minutes, hours, days. And they were also being amplified by my armor, making it quite a bit stronger. He still survived them. Gan Le may only be good at one thing, but he's stupidly good at it.”
+
+Moe spat to the side. “I'd win.”
+
+Brian cackled as he and Aster got distracted. “Just wait until Yun Me has him trained and Tiered up, and then we can just sneak over and find out.”
+
+Aster laughed hard enough she snorted. “Oh, please grab me before you do. I need to see his face.”
+
+She made an exaggerated face of shock Matt was sure had never crossed the composed Sect man's face. “This time when we were there, I hit him with a snowball and he had that exact expression. He couldn’t believe it.”
+
+As Aster started sharing stories of how she had messed with Gan Le, Matt merged with Ellen and Liz’s conversation, just listening to the master combatant talk.
+
+When Ellen finished talking about shield tips, she sniffed at Matt. “You're no fun.”
+
+Matt raised an eyebrow, and Ellen waved him up and down. “Even Susanne is a much more interesting person to fight than you. Liz and Aster all have these unique abilities. I can’t copy them, but they’re a fun challenge to work around. You, however, are just a brute. There’s no skill in countering you. No clever tricks. I just have to overcome that ridiculous mana usage you throw around. Boooooring."
+
+Matt grinned. “I’m no Susanne, but I’d be more than happy to spar with just blades. Fighting the best is a good way to learn, after all. I assure you, I’m pretty damn good.”
+
+"You're in the top 0.1% of sword fighters at your Tier - that makes you as good as like 50,000 other people. Come back to me and say you aren't that bad when you're in the top 100 at least. Then we can talk."
+
+As if summoned by saying her name, Susanne, along with Allie, Zack, and Wun appeared next to them.
+
+Allie clapped. “Ready for round two?”
+
+The four Ascenders from On The Last Line grinned and said in a clearly practiced chorus. “Always!”

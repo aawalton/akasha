@@ -1,0 +1,349 @@
+---
+id: 07aafb7d-ca8f-526b-9225-3ce5c6d06a1e
+page-type-slug: story-chapter-royal-road
+title: "280 A Different Life"
+slug: 0239-280-a-different-life
+partOf: the-new-world
+position: 239
+ownLength: 6965
+unit: words
+ownProgress: 6965
+publishedAt: 2020-11-24
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/590331/280-a-different-life"
+royalRoadId: "590331"
+markedReadAt: "2026-06-29T21:29:17.019Z"
+---
+
+So guys, heads up for this chapter: there are a few POV changes. I don't intend on making this the norm for the rest of the story or anything. It's just interesting for me as an author to explore different perspectives at different times. It allows me to showcase other vantage points in realtime instead of telling events offhand after the fact.
+
+This lets me inject a lot of tension into what would otherwise be dull, dry exposition sections. It's the classic adage of show don't tell. I understand this comes at the cost of both brevity and safety; you guys are here for Daniel's perspective, after all. I know that, and he will always remain the primary reference for The New World.
+
+That being said, I believe that exploring more POV's in my works, though to a limited extent, can give this story more depth long term. I just ask that you all give me a chance at this before writing my attempts off. I'll be carefully selecting each POV with intention and purpose for these reasons going forward.
+
+Thank you all for reading, regardless. Enjoy everybody.
+
+-Alpha-
+
+I stepped forward, afraid but determined. I turned back, and I saw the pride in my creator's eyes as I stood at the abyss' edge before me. This would be my first battle against the monsters I wished to destroy. This was why I was made, and it would be why I live.
+
+I walked through a tunnel, two guards disintegrating a magical barrier for me. In an intermittent area, water funneled into the emptied space, the liquid similar to air but heavier. Stepping forward, another wall disappeared, and I walked into the vast city of coral and kelp. Here would be my arena and proving ground. I would not let my creator down.
+
+The runes across my frame charged. My eyes, delicate yet unyielding, stared down my aggressors. They shifted with forms created for moving through this liquid. It wouldn't matter that they were given this place as their perfected stadium of war. I was made better, and I would prove that immediately.
+
+Bending my knees, I shot forth from the sandy stone bed beneath me. It crumbled. Gravity molded under my touch, and I grazed my opponent's minds. Like delicate strings strung thin, I pulled their telepathic connections, rending their controllers mute. Without a voice guiding them, the aberrations lost all reason. They were given no mind, and in their chaos, I found triumph.
+
+Across their lines of defense, I unleashed havoc. Through their weakness, my strength exposed itself. I ravaged with the might of a berserker; the Harbinger's will guiding me. My mind was made with this intention, and I relished in this moment, the orange blood dispersing at my touch. Its color, like the monster's deaths, was beautiful. It was the same with their screams, each a symphony to my ears.
+
+Similar in style to Torix, I slaughtered many in a single stroke while coldly calculating my next targets. Against their enemy tide, I assessed and assimilated. I devoured and destroyed. In my wake, I was ravager unrelinquished, one without equal and without end. I splayed molten glass across my enemys' skins, keeping it heated despite the water sapping the mass's heat. I tore their minds and souls apart, engulfing the corpses they left behind. Without a beginning nor end, I ripped apart their meager defenses.
+
+They shattered beneath me, their fear absolute yet not enough to satiate my hunger. I was starving for the abomination's deaths, for I understood my purpose and what I was - one created to kill monsters. I was a destroyer of the blighted and without closure. On the passing horizons of their lives, I feasted on their fears. On their eventual deaths, I gave them release.
+
+As their time passed and my showing finished, I moved back towards the bubble protecting my allies from the elements. The albony here existed as fragile, wispy entities. Why this water harmed them, I didn't fully understand. It left me wondering how they survived. I came to a realization - in many ways, I still did not understand the world I was in. Walking towards the others, I met the eye of Helios. I bowed before him,
+
+"I hope that my performance was satisfactory."
+
+The albony did not answer. I winced, my face unable to convey my disappointment. I must have failed. I expected this outcome from the beginning. Attempting to match my master was a foolish idea and an even more foolish course of action. How could I sustain through such a comparison? It was beyond me and my limited mind.
+
+I waited for words scorched in venom and hatred. Instead, mocking words came towards ears that weren't my own. My creator whistled and spoke,
+
+"Hah, told you so. He kicked some serious ass."
+
+Helios murmured, "To think it could destroy with such abandon. I almost find it insulting that you'd bow to me, golem. It seems disingenuous."
+
+I stared at the oceanic floor, dried sand over stone, "I mean no ill intent. I am merely showing respect given our positions."
+
+Florence laughed before clapping loud, "Hah, and here I thought Obolis understood the cipher. A golem like this has never been created. There's no telling what Obolis would pay for this thing."
+
+My creator spoke with pride, "He's not for sale."
+
+Warmth spread in my mind at his words. He sounded pleased with my performance. Daniel tapped my back,
+
+"Isn't that right?"
+
+I stood straight and looked him in the eye. I pointed at myself for clarification, "You wish for my opinion?"
+
+"Yeah. I do."
+
+"But my opinion is irrelevant."
+
+My creator's eyes rolled in his skull, "Pshh, I can tell we gave you a little too much humility."
+
+"It was the correct amount of humility, given my station as a tool. Tools should not correct their purpose. Their purpose is evident in their creation."
+
+Florence leaned closer to me, "I never imagined a golem could hold such philosophical approaches to life and existence. You're an interesting fellow."
+
+I bowed to him, "Thank you." Standing upright, I said, "As you are interested, I will convey my full understanding of my directives. My ultimate goal is the control and elimination of volatile life forms known as the eldritch. I also wish for the destruction of the Hybrids. My goals were predetermined, and they leave little room for confusion."
+
+I turned to my creator, "Thank you for giving me this peace. Living with doubt is painful, and I am glad I lack it."
+
+My creator brandished his knuckles while grinning wickedly,
+
+"Speaking of Hybrids, how about we go kill some more of them?"
+
+My own eyes showed red as his jagged smile oozed crimson,
+
+"I do so willingly."
+
+-Daniel-
+
+I stepped past Alpha, the golem menacing and bloodthirsty. It attacked the weak points of the Hybrids far more than expected, and I had a thing or two to learn from the guy. Alpha's mind magic was geared towards the telepathic tetherings of the Hybrids and their rulers. By tearing at that weakness, he sent their carefully coordinated attacks into complete disarray.
+
+Honing in on deficiencies was worth learning from since it made his fight more manageable than otherwise. When I hung onto battles desperately, I did the same. As of late, I crashed through my enemies without much thought, and that was a poor habit. Lessons learned aside, it looked like Ophelia's coded desires for killing eldritch were working well. If anything, they might be a bit too effective. I didn't want him to lose control of himself and get killed in the process. Keeping that in mind, I pointed at Florence and Kessiah,
+
+"Sit beside them and keep them safe. That should give you plenty of Hybrids to kill as we move forward."
+
+Alpha bowed as usual, "As you will it, let it be so."
+
+I gestured to our vanguard of Alastair and Victoria, "Let's go. We've got a long day ahead of us."
+
+Florence put his hands on his hips and looked down, "We do. The Hybrids attacked in mass last night. We're going to need to retake a lot of the territory we conquered over the past few days."
+
+I raised an eyebrow, "Really now? Why isn't the Empire able to keep the places we've given them?"
+
+Florence shook his head, "They're focusing primarily on more established planets where resources are plentiful. Getting them involved here is going to require an easy fix. I'm just hoping that our plan with Hod and Amara comes through. Otherwise, this planet will fall."
+
+I cracked my neck, "Then let's get started."
+
+We began our assault, clearing out nearby Hybrids remaining from Alpha's first attack. After that, we spent most of the day regaining pieces of Blegara that were under assault by newly crafted Hybrids. This meant we focused almost entirely on regaining already conquered territories, and despite our efforts, the war seemed decided. The Hybrids arrived in greater swarms each and every day. Their production, transport, and organization improved at every turn as well.
+
+Our team kept pace, our skills improving as well. On the other hand, the Empire struggled. The Empire commissioned mercenaries to fight here, and while they patched holes in their ranks, the fighters costed credits. As more mercenaries died, the price for their services rose. This stressed the Empire further. If anything, it was a matter of time before this planet was crushed regardless of our influence.
+
+It was a painful sight to take in. Our team couldn't be everywhere at once, and the albony's morale wore down as friendly reinforcements came in. These back up soldiers were from other, less nationalistic races which the Empire drafted from their many controlled planets. This hodgepodge of different species no longer cared for victory after seeing the losses and reports coming in.
+
+They just wanted to survive. That short term mindset and lack of unity hurt the Empire's chances of winning this war, exposing the issues with having their class system. After all, why would lower class members of a system fight to sustain the system pushing them into the dirt?
+
+They wouldn't, and they didn't.
+
+That scorn showed here. The mercenaries still fought well, but conscripted fighters from controlled worlds did not. Schema's abject lack of support didn't help matters either. Hybrids didn't give as much experience as they were worth; the danger of facing one far outweighed the resulting reward. Simultaneously, Schema's regrouping took time for his fleet, and these planets were left suffering for it.
+
+Without our specialized team's support, Blegara would've fallen a week ago. I hadn't realized at the time, but we kept them afloat, my team's ability to clear Hybrids unmatched. It was a shame because Blegara, when untarnished, was a beautiful world. I found that out as we ran through its many territories along Saphigia's outskirts.
+
+Here, at the edges of the conflict in the inner city, Vagni lived without the war hampering them. These villages fed the industrial might of their capital. As 'suburbs,' they showcased lives unperturbed by the war raging in the cityscape miles away. The Vagni here created means of subsistence, simple as they were, that supported their ways of life.
+
+They roosted their collections of coral housing on elevated platforms of sandstone. In between these places, roadways were made from long threads etched with seashells. They followed these lines, finding various lofty landmarks to hang the strands on. Those markers carried different kinds of significance, and it wasn't uncommon to see Vagni leave food in those places.
+
+Eldritch ate and nibbled there, and the offerings prevented attacks on the Vagni that traveled down these roads. They would be carrying enormous loads of various goods from seashells, corals, stones, foods, and preserved creatures. They harvested all these resources from the many farmlands we passed over.
+
+Those homesteads carried many kinds of produce like clam farms created over artificial sandstone. The Vagni used the glue from barnacle-like creatures to solidify sand into these towers. On those towers, they implanted barnacles that filter fed to grow. These farms created vast fields of pillars situated along the flow of currents.
+
+The water flow kept the filter feeders fed, and just beyond these clam ranges, the Vangi planted even vaster kelp farms. It was a smart plan as the pillar farms cleared the water of parasites, plankton, and other pests. This allowed kelp to grow without any impediment, giving them a quick, efficient production of foods.
+
+Other kinds of industries showed themselves amidst all the clams, however. Those kelp farm setups required large lots of land actually, and competition for those prime territories was fierce. Some Vagni failed to succeed, ending up with lots of barren sand that weren't as expansive. To make ends meet, other plants were grown.
+
+In these smaller farms, spnots of shade sprinkled the horizon as they grew algae at the ocean's surface. These algae could be harvested more often than kelp, resulting in more food for less effort. I discovered all of this from fragmented, telepathic communications with Vagni in these areas. That wasn't all I learned either. Most vagni hated algae-based food, and it was considered fare for the poor.
+
+That created a disdain for the algae farmers who blotted out portions of the sea-skyline. Vagni preferred open views of the ocean's surface, so lots of those farms actually lowered property values nearby. Many of these algae spots were considered ugly and unrefined, even by the cannibals.
+
+Personally, I preferred the shady spots. They let the rest of the sunshine leak in from streaks, creating stripes of sunlight. Other parts of the countryside showed a few other individualized endeavors as well. One of the smaller clam farmers used the glue farmed from his barnacles to create shell statues.
+
+The Vagni would crush the shells into pieces, then create a sand mosaic of the broken bits glued together. It impressed me enough that I bought a few using some of their currency, the old teeth of eldritch. I had plenty of those, having picked up quite a fortune of them yesterday alone.
+
+It may sound like I was on vacation, but I used bits of freetime I had that others didin't. I worked with a team, and they needed breaks. During those downtimes, I explored these parts of this world. If anything, I enjoyed being here more than Giess. Though dark and brooding, the world held an edge that interested me.
+
+That exploration was also how I found signs of our losing war effort as well. The Vagni once feared the albony as tyrants. Many Vagni watched those same tyrants be eaten alive. Having their territories taken and retaken over and over also put the neutral Vagni in a prey centric state of mind. They wanted order at any cost, and with the frequent setbacks the Empire experienced, the Vagni preferred Elysium's rule.
+
+That was a general theme I'd seen so far. The Empire's efforts, while valiant, weren't comparable to Elysium's. This explained why the Vagni and the Adairs rebelled when they did. They enacted Torix's rendition of their plan precisely, overwhelming the Empire with an endless swarm of Hybrids. The Adairs kept meaningful casualties to a minimum, and over time, those lack of losses manifested as gains in territory.
+
+These factors made Elysium confident in their victory here. By the end of the day, they weren't the only ones who understood who would win this war either. The Empire was simply giving up too much ground. Even though we succeeded yesterday, the Hybrids regained almost more than we could reconquer.
+
+Those results left a bitter taste in my mouth as we finished fighting on Blegara for the day. As we warped back to Mt. Verner, I dwelled on the results of today. Our plan was the albony's only hope of keeping their planet, which left me peeved a bit. I expected better fighting efforts from Obolis. If anything, the Empire was more of an economic power than a warring one.
+
+Our brand new guild, with its limited resources, was outdoing their planetary efforts for Blegara. That might not be the case elsewhere, but it was evident on the sea planet. This changed my mindset regarding the Empire. My approach up until now was one built on trusting them. After having seen the results of their battles, I now understood why Obolis offered to contract my guild in the first place. We provided a more valuable service than I first thought.
+
+That wasn't to say my approach failed until now, but to make sure our guild got its worth, I pivoted my strategy here. As I paced up towards Torix's office of sorts, I resolved to get more out of this deal with the Empire. I was all for alliances, but I wasn't big on getting taken advantage of.
+
+That left me thinking. Bartering for more of Obolis's treasures was a method of achieving my aims, but that left the Emperor with enormous control. He knew which pieces were valuable and which ones weren't, leaving me in the dark. I preferred a deal where I wasn't hoping he'd treat us well.
+
+Those thoughts bounced in my head as I paced into Torix's everchanging lair. He situated himself on the third floor, expanding his many graphs, charts, and maps into a hallway leading to his residence. At this point, his pacing left stone rubbed raw, Torix's common walking paths evident.
+
+Meandering along one of those blemished walkways, Torix walked up to me,
+
+"Ah, it's good to see you again, disciple."
+
+I gave the guy a nod, opening up my dimensional storage, "Yeah, it's good to see you too."
+
+Torix locked his hands behind himself, "I believe you've some sort of sample or specimen to show me. I was wondering what it was."
+
+I pulled out one of the alien crystals I found along the bottom of Blegara's many underwater trenches. With my other hand, I generated a stone table and pillar beneath it, giving me somewhere to set the gemstone,
+
+"You and me both."
+
+The crystal glowed with a magenta hue, magnificent and vibrant. Torix locked in on the crystalline structure, his fascination apparent,
+
+"Ah, I understand why you wanted us to inspect this. There's little in the way of mana signatures resonating from these glowing structures. They lack any notable, geometric, or crystalline structures I'd see in most minerals as well."
+
+Torix peered back, "There's no mind in these things either, though they seem to be...Hm, alive? Perhaps not. It's hard to say." He looked up at me, "It's no wonder you brought them to me. I can barely make sense of these at all."
+
+Torix cackled, "Hah, interesting. Very interesting. I say we test these crystals and their reactions to a few specimens under my wing. What do you say to that proposition?"
+
+I shrugged, "Eh, it can't hurt."
+
+Torix's fire eyes flared, "Not the both of us, at least. For others, well-" Torix scoffed,
+
+"I'm sure they'll live."
+
+-Althea-
+
+I walked onto a different plane, peering onto the place where our team traveled. It was always strange going here. Nothing else lived in this place, yet I could view into the other world while here. That let me traverse without anyone knowing where or who I was.
+
+I held my breath as I did, and I used the ring Daniel gave us for flight. He used a remake of some model he gave to Ophelia, and it gave us a few things we could do. Flying was the most useful, but the other options helped a lot too in the right situation. It reminded me of him when I looked at the ring as well, and that was always a nice bonus.
+
+I smiled as I hovered around the others. Isa, Lester, and Alexander all traveled together while serving as the visible team. Hod and I kept on their tails, keeping hidden in the back. We all agreed to lay low until the right moment arose, and that stopped us from being found out. Security was the most crucial factor for this mission, anyways. The last thing I wanted was another situation like the one on the Nebula Drifter.
+
+Daniel ended up fighting Lehesion on his own, and we all just...ran away. My chest burned when I thought about that. I helped where I could with what the guild needed, but despite my efforts to the contrary, I wasn't able to do anything to help the people I cared about.
+
+That, well, sucked. Real bad.
+
+I took a breath, calming myself down and falling into a different state of mind. I'd gotten good at this since my solo missions out in the enemy's territory. It left me without any presence to speak of, even after I warped in. It was as if I stilled my mind until it was left unseen. They couldn't connect with what they couldn't sense, you know.
+
+Hod's defense was similar. After talking with Other Hod, I learned it since we had plenty of time to chat during our many missions together. Other Hod used his push and pull with Hod's mind to his advantage. He pushed back as much as normal Hod pulled. This put them at a net-zero output of any thoughts, which their mind mages used to find us.
+
+It was pretty smart, and that wasn't the only thing I learned about Other Hod. He was sweeter than I thought an eldritch could be, actually. He was terrified of Daniel, and he wallowed in guilt because he tore Hod's mind apart. It wasn't his fault or anything, even if he felt like it was. Other Hod gradually manifested in Hod over time as eldritch energy pooled in him. Neither of them could stop that.
+
+I was just glad Hod was still around. He was funny, even when he didn't mean to be. Some other people hated how he talked, but I could relate since a part of me was eldritch too. Well, I guessed so. My eldritch half wasn't quite as talkative. It was, uh, more monstrous.
+
+That's why I could be a monster so easily. I didn't like killing, but it was second nature to me. I mean that literally too; I allowed the eldritch part of me to manifest more. It stopped my guilt a lot of the time, and I wanted that part of me to take over when killing civilians. If anything, I relied on my eldritch half as much as Hod did, just in a different way.
+
+Either way, I had plenty of time to think about all this stuff as we traveled South.
+
+We were crossing a countryside that was split apart by the eldritch. Humanity didn't do poorly against the eldritch relative to what I'd seen elsewhere, but they didn't do particularly well either. The main problem was technology. Most of Earth was centuries behind several critical scientific breakthroughs, which left them reliant on more physical means of beating eldritch.
+
+That worked for Daniel and a few others, but most people weren't able to handle the monsters consistently like that. People kind of congregated around the few individuals that could, though. That was the general theme outside Mt. Verner's immediate vicinity. People managed here because of our guild's influence. The tech and weapons we gave out helped a ton, too, making a positive influence present even many miles away.
+
+However, the further we went from our base, the weaker Mt. Verner's positive influence was. Eventually, it waned to nothing. It was sad seeing communities turn from warm houses into ghost towns and isolated homes. That isolation was one of the hardest parts about a world overrun with eldritch - you couldn't travel anywhere.
+
+If you did, you'd face so many monsters going anywhere that it left you vulnerable. People ended up bunkering down and trying to wait out the eldritch. That never worked since the beasts grew stronger every day.  In the worst areas, ghost towns littered giant expanses with no humans left living. It was a different kind of hellscape than most, one where the eldritch fought each other in abandoned cities.
+
+Dungeons clustered in those places, and the initial townspeople failed to hold back the hordes. The eldritch devoured them, and now they devoured each other. In some ways, these places were more alive than before with how dense the monster clusters became. That's what happened when rifts were left unmanaged. The intense fighting of monster factions took over entirely as various eldritch vied for dominance over the others.
+
+All that gloom and doom makes it sound pretty awful, but it wasn't all bad. We passed a few communities as we traveled South that, while paling in comparison to Mt. Verner, still served as sanctuaries for people. These were strange places built to last despite the post-apocalyptic nature of Blegara now.
+
+These refuges cropped up in bunkers, military bases, and even refurbished dungeons. The bunkers carried weaponry and food that let people organize after the culling. As for the military bases, their weaponry lasted long enough that they out leveled the eldritch. I'm sure anyone that went into a dungeon and used it as a home was probably like Daniel, a fighter through and through.
+
+It left me smiling after I saw those places, but not just because they reminded me of Daniel. Sometimes, children ran around and played in those places. Seeing those little guys run around and laugh, it warmed my soul more than I'd admit. I'd like to think that warmth stemmed from how cold my own childhood was.
+
+I spent most of it in a lab, Yawm overseeing my development. He kept a noose of sorts around my neck, and that guaranteed I'd never escape. I was so reliant on suppressants to stop my eldritch energy from overwhelming me. I was lucky to meet Daniel and Torix when I did. I don't think anyone else could've or would've saved me from all that.
+
+But yeah, seeing children grow up here without having to survive like that...yeah, it was pretty nice. I wanted more children to be raised like that, or bare minimum, better than what I went through. It would be a way of preventing other people from suffering, and to me, that sounded, I don't know, fulfilling?
+
+Those ideas bounced around in my head as we began seeing signs of the Adair's village. I silenced those thoughts, knowing a misstep meant these three's deaths. Besides, the Adair's rebellion left me pretty busy with missions, so I didn't have time to make something like an orphanage anyways. Despite all that, it was fun to daydream about. It would be more fun than killing people.
+
+I knew that much for sure.
+
+Speaking of people, we saw more of them as we neared the Elysium camp. It didn't take long to travel a couple hundred miles when you could fly after all. Their presence wasn't as large as Mt. Verners, but it was still notable when compared to the no man's lands we passed by on the way here. This difference became very stark as we discovered Hybrids roaming various forests, hills, and mountainsides.
+
+They culled eldritch, and espens followed them as they did. These people acted as forest rangers, making travel far safer in their immediate domain. It was a potent service, letting people handle a lot more moving around. This meant communities connected more, trade flourished, and rallying was actually a thing here.
+
+Otherwise, people became isolated, and hope dwindled. These hope-giving routes etched out paths along old roads and forest trails. Along the way, we met caravaneers going from town to town, selling people rare goods as they did. Hybrids kept them secure, and this allowed people to form economies.
+
+All of Elysium's peacekeeping efforts made me feel guilty about our own. The Legion did our best given our own circumstances, but we could afford to do more stuff like this. Keeping that in mind, I jotted down some of Elysium's practices on a note app in my status. I even took a few pictures to show Daniel and Torix. They pretty much decided most stuff in the guild, but I could get my say here or there when I needed too. With that in mind, I was sure they'd think this kind of thing was a good idea.
+
+Getting within a few miles of the Elysium camp, we found farms guarded by Hybrids. At this point, they kept their community locked down and airtight. No eldritch roamed about. The land had been cleansed a while back. People could even travel along forested roads, many using carriages pulled by Hybrids.
+
+It was a strange scene since I was so used to those monsters killing mercilessly. Here, they offered mercy instead of taking it.  It was...I don't know, just odd to see.
+
+Either way, we couldn't just float over the forests and roads here. We joined one of the main roads, leaving us walking on foot. As people passed by, they'd say hi, and Isa or Lester did most of the talking in those situations. They kept conversations short and sweet, questioning where work was nearby.
+
+And of course, everyone in this area suggested going to the Elysium camp. They always needed competent dungeon clearers, and having three of them coming was always welcome. No one mentioned mind screenings either on our way here. To me, that sealed the deal on the Adairs not knowing where the guild was.
+
+They thought of Earth as a place to establish a presence early on in their rebellion. It also made it clear they really intended to help people and make up for what they did to Giess. That wasn't something done so quickly, and what they did to the gialgathens and espens was unforgivable. That being said, all of this was a pretty good start to an apology. If they kept at it, I wouldn't know who was the bad guy anymore.
+
+It sucked when things weren't simple, but that's just how life was.
+
+I didn't have time for any more of those thoughts as we neared the camp. Alexander wore an eldritch leather garb we bought from a shop in Mt. Verner's lower floors. The hand made outfit, knives, weapons, and satchels of different eldritch acids made him look like an alchemist. And, well, he was one, though his magic was definitely his strong suit. Right now, we couldn't have people knowing he was a wizard like Torix. No one knew much magic yet.
+
+The other dungeoneers wore what they usually did. Isa stuck six or so spears on her back, each one ending in a vial of glowing green fluid and a sharpened piece of metal. These were bottles of acid, and they let her kill regenerative eldritch. The spears were for aiming the bottles at a farther distance than she could lob them. It also allowed her to hit fast eldritch too.
+
+Lester stuck with bottles full of gasoline and styrofoam. He called them napalm bombs, and they worked a lot better than the Molotov cocktails I'd seen others use against the eldritch. On our way here, Lester used one against a handsy eldritch that came near him. The gunk in those bottles stuck to the monster, and it burned through the bones because the slop wouldn't come off.
+
+They also wore handmade, eldritch leather wares. This kept an authentic, everyday look we saw from others here. I breathed a sigh of relief, thanking the craftsmen back on Mt. Verner. Florence helped with making them look authentic, the albony diplomat knowing a thing or two about appearances. His family treated him poorly despite all his skills, but of all the albony I'd met, I liked him and Caprika most.
+
+I prayed these disguises would work as we walked into the visual range of the Adair's site. It rested just beyond a hill, nestled in a valley. As we passed one of the surrounding hills, we got a nice, overhead view of the entire place from above. It made sense why Torix's scouts found this place since they weren't exactly hiding. Besides that, I was immediately impressed and put off guard.
+
+What impressed me was the amount of construction, time, and freedom people had. It was night and day compared to the other towns near here. The dungeons nearby worked as farming grounds for collecting eldritch and leveling up individuals. Hybrids walked in open daylight, but their owners covering them with robes to keep their bodies hidden. Children played and laughed in fields past the city, and they had a few places set out for them too.
+
+However, what put me off guard was the portion of metal spires lifting up from the center of the encampment. They let the silvers manifest here, though I didn't know how exactly. Earth lacked the mana pollution Giess did, and without it, the silvers would starve. That didn't stop the silvers here, a few of their alien, disgusting forms looking our way from atop their spires.
+
+They didn't so much as think of getting out of their prison, however. The Adairs used electrified wire to keep the silvers in place, the fences rising high into the sky. Surrounding this silver prison was a town composed of many materials, especially metals. Espens with Hybrid servants walked up to the silvered territory and stripped it of its steel. Using that metal, mages would sear the iron into usable lengths for building purposes.
+
+With those pieces, they worked on making homes for refugees pouring into the place. The farms on the outskirts here sold their goods to the city, it seemed, and they dispensed food as needed. They even had established schools. It was...developed, and more than I expected at that. I didn't know what to make of it, but I made sure to take screenshots of everything I saw.
+
+Beyond those initial, large buildings, smaller wooden ones sprinkled about. They used mud and sod for making the homes, and people piled into the safe zone to keep their children and families safe. Many looked like they were volunteering for the Adairs, lines leading into various combat training zones.
+
+These wooden houses gave way to cleared fields, and past that was a perimeter of fences and Hybrid guards. We paced up to that line before standing in a line leading into the city, the three adventurers exposed while Hod and I stayed hidden. Holding our breaths, we waited until we reached two remnants. They both had white hair and were highly leveled, each over 5,000. Elysium suited them up with armor similar in style and fashion to Sentinels, but neither wore helmets. They did carry some dangerous spears though, the violet, antimatter blades crackling about.
+
+The burliest of the two guards spoke in a rough voice, "Who are you three, and what's your business here?"
+
+I let out a mental sigh of relief. The remnants didn't notice Hod or me. At least not yet. Isa answered for the group, gesturing towards Alexander and Lester,
+
+"We're just dungeon clearing specialists looking for work. We heard about this place a couple dozen miles back, and we were hoping for somewhere to settle. I'll tell you what though, this is more than I imagined it would be."
+
+Isa spoke with a very matriarchal tone in her voice. It was a bit jagged, but in a way that commanded respect. I was glad she was doing the talking as the remnants stared at each other. The burly one reached out a hand, and they shook hands as he grinned at her,
+
+"It's good to have you then. We can always use more fighters. Head over towards the fighter's guild. They'll get you sorted and put to work if that's what you're wanting."
+
+Isa nodded, "Damn straight. It's chaos everywhere but here, and we aim to fix that." She gave a sly grin, "Though a bit of compensation never hurt."
+
+The other remnant scoffed, "You'll get plenty of rewards. Trust me on that."
+
+They pointed their spears past an opened gate, and we all walked in. It wasn't a futuristic set up by any means, and they'd only been here for a month at most. Noting those details, we walked into the wooded town area right past the perimeter. We paced past a few people before moseying our way through the site.
+
+Of those people, most were espens. A few remnants and humans sprinkled about, however. Some of those humans even carried Hybrid companions. After walking further in, we got lost in alleyways and streets, so Lester knocked on one of the doors to ask for directions. An older man opened the door, and his son and wife waited in their home behind him.
+
+A remnant doctor placed a palm on the wife's forehead, both their eyes closed. Lester frowned, tilting his head to get a better look at her,
+
+"Is she alright?"
+
+The man at the entrance answered, "Not really. We were trapped in our farmhouse ever since the culling, and Margret was scrambled up bad by some strange eldritch. This here alien is seeing if she can't help her."
+
+Lester winced, "I'm sorry about that. I hope she gets better."
+
+"You and me both. What are you knocking for?"
+
+Lester pointed behind him, "We're looking for the fighter's guild, and we got lost. Do you know the way?"
+
+Phil put his hands on his hips, "I do. I can take you there real quick if you want. It's really no trouble."
+
+Lester grinned back, "That would be great, actually."
+
+The man stepped out, reaching out a hand. As they shook, he said,
+
+"The name's Phil. Yours?"
+
+"Lester. This is Isa and Alexander."
+
+Phil gave them a nod of acknowledgment before walking down the steps into his home. As he did, his own Hybrid walked out with him. It stepped past Isa and Lester, Alexander eyeing it with suspicion. Phil turned to his Hybrid then back to us,
+
+"Oh, you three must be new. These guys aren't so bad. I've already managed to get a lot of use out of this thing, and he wasn't so hard to get either."
+
+Alexander's eyes narrowed, "Wouldn't that exile you from Schema's system? That might not be the best long term move."
+
+Phil shook his head, staring at Alexander with sad eyes,
+
+"Boy, you might not know this by now, but this world's a hard place. It got a lot harder after the culling too. Now I know I might get stronger one day, but my family needs me. I'll do whatever it takes to keep them safe. If that means getting exiled from Schema's system, then so be it."
+
+Phil stared forward, "It's like this - we've got to survive today before we can start thinking about tomorrow."
+
+Lester cut in, "Don't we know it. Are you ready to go?"
+
+Phil pointed in a direction, "Right this way."
+
+Before they sauntered off, the Hybrid stared faced in my direction. Its orange pustules pulsed under the membranes holding its orange gunk in. A chill ran up my spine before they walked off. They looked like they had this situation under control for the most part. Sending a message to them, I split off from the group and explored a few nearby homes.
+
+From peeking my head through the windows, I found people resting, setting up meals, and preserving food. Sometimes, Hybrids assisted with these tasks, even regular civilians using them however they wanted. Children even played with them at times, the Hybrid presence entirely normalized.
+
+It left me unsettled. The mechanical monstrosities were powerful beings, and our team could kill them, but most couldn't. If one of these things went running through the streets eating people, no one would stop it. The best bet would be the occasional remnant that guarded certain critical areas of the city. Outside of that, no one stood a chance.
+
+Those weren't the only unsettling details lying under the surface of this utopia. I discovered several lines of people leading to different places in the town. Most of these lines ended in administrator work for organizing people. I kept checking just in case, however.
+
+After an hour or two of searching, one of these queues ended in the entire village's largest building. It was a brick building without windows, and as I walked nearby, the smell of a sterilized hospital leaked out. I walked past two guards, each a remnant heavily armored with a Hybrid at their side. Passing brick reinforced with metal, I found orichalcum and runic configurations tracing this place's inner sanctum. It reminded me of the prison Thisbey placed me in. Unlike that place, this center was more technologically realized.
+
+The main floor kept a clean, open look that stopped the lab from seeming stuffy and ominous. They even kept the lights less fluorescent, making it homier than usual. Well, homier than most labs, at least. It creeped me out still, mostly as I walked past a wall covered in vials full of a clear liquid.
+
+I wondered what they were for until a person from outside walked in. The older woman stepped past me, the wind off her walk brushing past my hair. As she stepped up, a remnant doctor paced up to her. He put a hand on her shoulder,
+
+"Are you sure about this?"
+
+She gave the nod, and they went forward. The older woman selected one of the vials, and after getting it from its case, they walked towards the back of the lab. I followed, pacing past two more guards. As I walked into the next room, chills ran up my spine.
+
+This was...disgusting.

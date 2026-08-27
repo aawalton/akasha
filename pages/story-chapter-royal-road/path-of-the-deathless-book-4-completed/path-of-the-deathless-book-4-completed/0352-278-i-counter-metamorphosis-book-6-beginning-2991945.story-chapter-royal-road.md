@@ -1,0 +1,139 @@
+---
+id: 11bb6e64-99de-5279-baf9-835c6f2860f9
+page-type-slug: story-chapter-royal-road
+title: "278 (I) Counter-Metamorphosis [Book 6 Beginning]"
+slug: 0352-278-i-counter-metamorphosis-book-6-beginning-2991945
+partOf: path-of-the-deathless-book-4-completed
+position: 352
+ownLength: 3115
+unit: words
+publishedAt: 2026-01-29
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2991945/278-i-counter-metamorphosis-book-6-beginning"
+royalRoadId: "2991945"
+---
+
+When Outsiders settle inside of you, they become less of a parasite and more of a person wearing you like armor. The System doesn't like them breaking the rules, you see. It doesn't like them with their twisted Skills that dispute and defy the natural laws the System still uses to anchor the structure of its reality. So, the Outsiders bypass this by connecting their hostile Skills to your more tame, more acceptable Skills. This causes a transformation. Two Skills intermingle, creating a new design. Something aberrant, but just on the borders of acceptability. Something that could be smuggled under the System's notice or beneath its scorn.
+
+Unfortunately, this also sees your soul usurped, for now you are partly an Outsider. Or, technically, you are the outer shell of an Outsider, an exoskeleton waiting to be used up rather than a person with their own hopes, dreams, and all that other drivel.
+
+But fret not, Truthseeker, for this situation—terminal, in most cases—is not without cure. Or rather, not without means for you to turn the situation around and become the one wearing the Outsider instead. There are several ways you can go about this.
+
+The first is simple and absurdly difficult. You simply must be an unmatched Animancer. You reach into your own soul, and you edit your own legend. So much so that you effectively direct the so-called 'immune system' of your spirit—the vitality that keeps you alive—to expel the Eldritch being. That requires one to have the rare and vaunted Animancy Skill, ideally of a high Tier.
+
+The second path is far harder. You must trick the Outsider into leaving you. Whether by exposing it to danger that it knows it cannot survive, or forcing it to suffer immense pain if it stays. Or, potentially, finding someone that presents a better host than you. The latter is far more immoral, but likelier to pull off. Though it comes with its own costs. Mainly the Outsider killing you while wearing their new host because they don't like loose ends and want to keep things neat.
+
+That, and you're of course leaving power on the table.
+
+And then there is my favorite way. The most uncertain, dangerous, but rewarding way. There is more than one category of Outsider beyond our reality, and most of them dislike each other immensely. Mainly because they all represent a different understanding of existence, a different distortion of the natural way. And just because they are not aligned with the System doesn't mean they are any more synchronous with each other. That is the simple reason why they're called the Outsiders: because they are outside all things. They are deviant to all things. Especially each other.
+
+And so, if you can get another Outsider inside of you, then perhaps you can have two hostile creatures fighting over your spirit. It will be indescribably painful, and once more, having an Animancy Skill will be immensely helpful. But considering the unlikelihood of you being in possession of such a Skill, you might as well go for the first choice.
+
+Now, with this choice, you preferably should have a willingness to sacrifice one of your Skills, or at least a callousness to cripple yourself. Don't worry, it'll be worth it in the end. As soon as both Outsiders are driven to the brink, you should conduct a ritual. Attached to the bottom is a diagram, a spell shape. You will use the magic of both Outsiders against them, and you will prey upon the one that is weaker to drive out the former. You will strike a bargain with them, but this time the bargain will be inverted. If they wish to live, then they must be your exoskeleton and not the other way around.
+
+Above magic, what will save you is an understanding of opportunities and how to exploit them. We are very different from the Outsiders. But that one thing we share, the urge to exist... that is a vulnerability they cannot avoid either, now that the System has infested them with consciousness. Use it. Use it to your fullest extent. Make them bargain for their life. Make them come to you.
+
+-So, You’re Getting Your Skills Eaten, by Hades Hymn
+
+278 (I) Counter-Metamorphosis
+
+Golemancy 35 > 41
+
+Pillar of Orichalcum 280 > 291
+
+Strider of the Unbending Path 173 > 176
+
+Leviathan of the Shapeless Tides 503 > 507
+
+Inertial Overdrive 209 > 215
+
+"Space! I need some space right now!"
+
+The sheer volume of Shiv's declaration sent a few orcs stumbling back. His lungs unleashed so much force that the air burst, like it had been struck by falling artillery. A few of the grayskins let out pained shrieks as blood and wax squirted out of their ears. He noticed he was channeling Marikos right now. Just more furious, agitated, and desperate.
+
+The Hatchling was still frozen stiff, clutched tight by a dense layer of blackened frost. But that layer was cracking now. Fissures were spreading out, and eldritch mana was leaking free, staining the very atmosphere with unnatural energy. A Psychomantic tendril stitching the Hatchling's wings together began to writhe as well. They tremored slightly, like guitar strings strummed underneath a glossy surface.
+
+This frozen state wasn't going to last, and so Shiv used his Bifurcated Processing to do something else entirely, something he'd never tried before. He directed a portion of his subconsciousness to create a golem as he clawed out through the air, missing the first time before sinking his hand into his cape, pulling out the stone dagger that contained Andra's soul.
+
+Immediately, he began extracting her Legendary Cryomancy once more. The Hatchling needed to be caged and stay caged. Long enough for Shiv to reach into the Skills and crush the fucking parasitic vermin at its very roots.
+
+His skull didn't heat up like a furnace this time. Instead, it felt like a firebomb was going off at the center of his brain mass. Shiv barely managed to stay conscious as his vision cut out. A half heartbeat later, his nervous system gave out as well; his limbs spasmed. He lost control of his speech. His tongue went slack. A ragged cry escaped him as he crashed to the ground, unable to continue. Though his thoughts still remained, he was trapped in the darkness of his own body.
+
+Yet there was a growing feeling in the back of his skull. A radiating pulse of soothing coolness and pleasure that seemed to alleviate the burden he'd placed upon his own mind. In another instant, or half eternity, he was back to himself. He didn't know how long he'd spent lying on the ground, but when he rose, he found strands of drool spilling down from his chin, and a waterfall of blood seeping out from his eyes, nose, and ears.
+
+His fingertips and toes felt numb. His skin crawled and shivered. It was like something was underneath him, something was trying to shed him free.
+
+Strong arms pulled Shiv up, helping him back to his feet, and he found Bonk there, along with Helix, who was casting spell after spell, channeling strange streams of crimson into Shiv's skull. He shook his head at his Insul. "What you just did was incredibly foolish. Tell me, when did you get the impression that your brain matter could be overtaxed like that? What were you even trying to do? You practically cooked most of your prefrontal cortex in an instant."
+
+Shiv regained his bearings. He saw the orc Biomancers working on the Court Leviathan's bridge eyeing him intently. But he didn't care about them. No, there was a more pressing matter. Uva was missing. Where she once lay was empty ground, a layer of polished bone half covered by a plush carpet that seemed to be made from tanned orc skin.
+
+Shiv was about to ask where the Hatchling was, but a gesture from Bonk drew his attention. Looking behind, he saw a dense cocoon of twisting biomass clutching the Hatchling tight. The blackened layer of frost was fading. Its Psychomantic threads were trying to spread out, but it was grinding against the Court Leviathan's Magical Resistance now, and a gathering of orcs that pitted their own Psychomancy against the Eldritch creature's. They strained themselves, and one looked like he was on the verge of collapsing. Blood poured out from his every orifice, but he was grinning, relishing in his coming death.
+
+A breath of mixed emotion escaped Shiv. For every horrible thing his orcs did, they were determined to prove their usefulness and reliability in the next instant.
+
+"Hey, Helix," Shiv asked, swallowing a mouthful of sour spit and coppery blood. "Gonna need you to support my brain matter. I'm gonna do what I just did again."
+
+"You're going to cook your cortex again? Why? For what purpose?" The orc looked at him as if Shiv were insane.
+
+"Trying to make a golem," Shiv explained. "I need to keep the bastard frozen."
+
+He surged forth and planted a hand on the Hatchling. It writhed beneath the ice, tried to turn away from him, but it couldn't, an ironic punishment for a creature that liked to seal its adversary using its own perversion of Chronomancy. His Shapeless Tides washed into its being, crashing hard against its Magical Resistance and snipping through its Psychomantic threads like a scything blade. The Hatchling cried out, its howl of agony a muffled thing physically and a piercing threat mentally. It declared its undying hatred for the Deathless, that it would wear him some day, that it would abuse him as a thing, an object, until there was nothing left of him, until he was simply another bit of its grand existence.
+
+Shiv ignored the creature's tantrum. He plunged strands of Vitae into its spirit and delved deep, seeking Skills that were compromised, seeking what little of Uva remained so that he could preserve her in the worst case. While he did that, he activated his Bifurcated Processing once more and realized he'd jumped almost ten full levels from his near-death experience.
+
+Bifurcated Processing 66 > 75
+
+Since he didn’t stay dead, he thought it probably would be wise to experiment with the Skills and more, to push it to the limit over and over again to find just what he could do and how to cool his brain matter. That, and he needed to expand his cognitive capabilities so that he could assign new tasks to his subconsciousness.
+
+Not right now, though. Stay focused, Shiv. Now, he left the duty of keeping his brain functional to Helix. Once more, a roar and conflagration spread through the tissues of his mind, but it was combated by a hammer blow of Biomancy. Shiv felt his brain furrow ever more, felt his cognition sharpen and expand. Math felt easier to him. Time seemed to slow slightly. The world grew ever more detailed. He could see further, he could smell more, and he could sense himself better emotionally and physically.
+
+Most importantly, he began constructing the golem. Strands of Vitae sprouted free from him as he harvested the requisite Skills from himself and Andra. In a matter of seconds, a golem that possessed the mana-freezing powers of the Jotun emerged once more and took Shiv's position. It planted its hand upon the Hatchling, and the ice caging it hardened, leaving it sealed in an enduring prison. Now the telepathic screams went silent as well, the frost influencing even the Hatchling's mind.
+
+Shiv turned his Shapeless Tides away from suppression and control to defense. They crashed against the encroaching frost. That midnight black crust held at bay by Overflow Vector after Overflow Vector. He reached deeper into Uva, and he saw every single one of her Skills. With every passing second, though, with every moment he spent groping blindly, brushing the densest, most concentrated cores of her mana, he felt his gut turn. He felt his heart drop. She had sold so much of herself to the Eldest, had given almost everything to the Eldritch God, just to preserve Blackedge, just to keep herself and the town alive.
+
+Shiv bit his lip and placed a gentle palm near the Hatchling's right shoulder, where what remained of Uva still lingered. "Warrior to the core, Sister Uva,” he rasped. “I’m so fucking proud of you. Now it's my turn. Just a moment. I'll get you out. I swear to the godsdamn stars I'll get you out of this.”
+
+"Mine!" The Hatchling hissed back. "Mine forever, without end. Everything must be mine."
+
+"You shut the fuck up," Shiv snarled. He drove his Vitae in deeper, almost tearing the beast's center in a fit of frustrated aggravation. But he heard something in the backdrop of his mind. A chorus of pained groans.
+
+Shiv stopped what he was doing immediately. There was still too much of Uva left. If he hurt the Hatchling, he was hurting her.
+
+Sage of the Enkindled Heart: We have to be surgical, and more importantly, we can't be doing this alone. You need to send one of your orcs to find Hymn, and perhaps the Starhawk. Maybe he can burn the Hatchling out, can purge it from her very being.
+
+Without reducing her Skills down to ash? They're practically fused together, Shiv shot back, dumping his frustration on his own Skill. No matter how deep he groped, he couldn't tell the difference between the Hatchling and Uva. They were so intermingled that when he reached the very bottom, he still couldn't find a separation like before. The metamorphosis was right on the edge of full completion. And what little remained of Uva was going to be assimilated soon—entirely, completely. Then she would be less than a memory. She would be just nutrition, bits of protein digested and used to fuel a new life form. One sculpted in a mockery of her image.
+
+"Shiv," Adam called out from behind.
+
+A flare of light spilled over Shiv's shoulders, illuminating the midnight frost encasing the Hatchling. In the glossy surface of the rime, Shiv saw Adam's wings, saw the Shattered Star hovering over his head, and just like that, the slightest bit of Shiv's burden was lifted.
+
+And his relief only doubled as Adam unleashed the full power of his Unique Skill. A channel of azure light surged into Shiv, increasing his Skill levels, escalating his mana, attuned and not. Additionally, Adam bestowed upon Shiv his Seer of Horizons Skill, and the Deathless felt his Awareness sharpened by an absurd degree, so much that it took him a few moments to drown out the worst of the information flooding him.
+
+"How is she?" Adam asked. His breath was hurried. His pulse was quick. He trembled with overdue excess anxiety and tension. "Is the Hatchling dead?"
+
+"Not even close. I just used Andra's Cryomancy to keep it frozen. Spent the rest of my golems delaying whatever the hells the Stranger threw at us. Shit, there's another problem we have to deal with. Adam, I might need you to check the Gateway. Make sure nothing comes through, because if that big finger-y bastard follows us, well... I don't know how many orcs and Legends it will take to bring it down, but I don't wanna bet Blackedge and the remaining survivors on it."
+
+Adam just barked a weary laugh. "That's the first thing I did. The moment the rest of you came through, I had Merrielmel tune the slipgate’s frequency to connect to Piety instead. Whatever was coming for us moved too slowly and arrived too late."
+
+Shiv grinned despite himself. Once more, Adam Arrow made sure the quest was done, and done well.
+
+But then the Gate Lord frowned. "Wait, Shiv, did you see Valor, the Culturist, or the Educator?"
+
+Shiv frowned. "Well, the Culturist splattered the Index the Hatchling was hiding inside and then stayed behind to stare at the giant hand thing. Why? Was Valor with them? Shit, are they still in the Outside?"
+
+Adam swallowed grimly. "I didn't see them come through the portal."
+
+"Fuck. Goddamn it. Okay, we'll deal with Uva first, and then we'll go back across to get them. Do you know where the hells Hymn is? Or your dad? We need the Starhawk too."
+
+The answer to the last question came as Roland Arrow sailed into the room. He glowed dimly with incandescence, and he still looked half a corpse. But he was alive. He was moving again, and the Starhawk loomed over in a protective, ethereal shadow, reunited with his favorite Avatar. Behind Roland soared Can Hu, but there was a glow of organic architecture within the armor, one Shiv recognized as Rose.
+
+But before Shiv could greet Roland, he noticed Jessica standing absolutely frozen beside him. Shiv put a hand on her shoulder intently. "Jessica, let it go for now. Just for now. We can deal with it later. Please."
+
+Sage of the Enkindled Heart 133 > 135
+
+The Giantsbane tilted her head to stare at him. He couldn't see her eyes through her visor, couldn't read her expression, but her body language screamed with barely restrained aggression. Shiv held his breath and clenched his fist. He didn't want to fight Jessica. He didn't like his odds in a direct brawl against her, especially with someone else's life on the line. She was almost too fast for Shiv to react to, but there were also considerations on her end. If she started this fight, he would end it, no matter how many deaths it took. More importantly, he had a small army of orcs around him, and they were eyeing Jessica now as a pack of hounds would stare down a bear that wandered into their den.
+
+Footsteps sounded behind Shiv. Adam was moving back, creating more space for himself in case a battle was to follow. In the corner of Shiv's eye, he saw Roland hovering there. He grew a little brighter, but held both of his hands out, showing he had no weapons. Wisely, he kept silent to avoid agitating Jessica.
+
+It was a virtue that Rose didn't share. "Jessica! Put the sword down, you dumb bitch! Whatever fucking feud you have with my husband, you can clear it up with him later. Right now, we have a girl to save."
+
+Can-Hu slammed down, marching forward with whirring mechanical steps. It came to a stop right next to Shiv and then opened its chest, revealing Rose nested safely within. Her eyes widened as she beheld the frozen Hatchling. "Kathereine’s fucking tits! Did you have to turn the poor girl into an ice cube? Did she cheat on you or something?”

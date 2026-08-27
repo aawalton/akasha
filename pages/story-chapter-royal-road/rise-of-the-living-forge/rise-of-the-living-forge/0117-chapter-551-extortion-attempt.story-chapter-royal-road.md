@@ -1,0 +1,123 @@
+---
+id: e62836b7-2b15-55a9-973e-c312e263c508
+page-type-slug: story-chapter-royal-road
+title: "Chapter 551: Extortion Attempt"
+slug: 0117-chapter-551-extortion-attempt
+partOf: rise-of-the-living-forge
+position: 117
+ownLength: 1562
+unit: words
+ownProgress: 1562
+publishedAt: 2026-01-29
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2991349/chapter-551-extortion-attempt"
+royalRoadId: "2991349"
+markedReadAt: "2026-06-29T20:02:10.606Z"
+---
+
+It was nearly a minute before Vix managed to get a hold of herself again. She let her arms hang back over the edges of the platform as she stared up at the roof of the Infernal Armory, blood and tears still mixing in a mess on her face.
+
+“How are you feeling? Is anything different?” Arwin asked, somewhat pointlessly, as Anna scurried around Vix, examining her from every angle to ensure her healing magic hadn’t somehow faltered for the first time in history.
+
+“I… I don’t know,” Vix said. “I’m numb. I think Esmerelda’s potion is still keeping me from feeling much at all. But I’m alive. Can you believe that?”
+
+“That was the whole point of this, was it not?” Esmerelda asked from where she watched beside Art. She had a hand on the boy’s shoulder, holding him back from charging at Vix. It didn’t look like she was going to be successful for much longer. “And the potion will wear off in a few more minutes. I made it extra strong. Didn’t want you feeling someone prodding in your heart. Anna, is your work done yet? I think the boy is going to rip my arm off if I don’t let him go.”
+
+“She’s fine,” Anna confirmed, stepping back from Vix and nodding. “I don’t sense any abnormalities in her bodily functions right now. Everything seems correct, but I need to keep an eye on her for longer to make sure the core operates properly.”
+
+“So I can let the kid go?” Esmerelda asked.
+
+“Yes,” Anna said. “She should be fine as long as she doesn’t do any strenuous activity that I’m not there to observe. We should give time for the core to fully adapt to Vix.”
+
+Esmerelda released Art. He limp-ran over to his sister, abandoning his staff beside Esmerelda and stumbling into the platform instead of stopping under his own legs. For once, he didn’t have anything smart to say. He flung his arms around Vix, pulling her into a tight hug and smearing blood across both of them.
+
+“It’s done, then?” Art asked when he released Vix, though he still kept his grip on her hand. “She’s healed?”
+
+“It can’t be worse now than what I was dealing with before,” Vix said with a small laugh. She raised a hand to wipe her face. “I suppose I won’t really know how different things are until I actually try to use my magic.”
+
+“Which you will not be doing yet,” Anna said firmly. “Give at least a day or two for things to settle down. As far as I know, this has never been done before. Don’t push too hard.”
+
+“And the core will need some time to gather energy anyway,” Arwin said. “You’ll find you have an increased appetite. I would pig out a bit. Eat whatever you want to. Lillia’s food will do you well right now.”
+
+Vix nodded slowly. “Some food sounds incredible, actually. I’m starving.”
+
+She touched the spot where the core rested within her chest again, then glanced over her shoulder.
+
+Koyu still stood behind her. The lich had gotten taller since the last time Arwin had seen him. Taller — and considerably more ghost-adjacent. His skin was a pale blue, and his frosty eyes almost seemed sharp enough to cut steel.
+
+“Thank you,” Vix said. “I think you might have saved me.”
+
+“I did not,” Koyu said. “I only smoothed the process along. You had several minutes left to finish bonding to the core. I could feel the progress of the song. My presence was not nessessary.”
+
+“You still helped,” Vix said.
+
+Arwin started to nod. Then his weary brain finally sputtered back into gear. His eyes widened.
+
+“Wait. You bastard! Don’t just stand there acting nonchalant!” Arwin exclaimed. “When did you get back?”
+
+The corner of Koyu’s lips twitched. “Just a short while ago. Did you really think you would practice creating a body part without me present? I wasn’t going to miss that.”
+
+“You’ve certainly got some timing,” Wallace said.
+
+“And you never told me you could control blood,” Koyu said. “When did that happen?”
+
+“Not blood,” Wallace corrected. “The metal in it.”
+
+Koyu scoffed. “That’s blood. You’re a blood mage. And not once did you ever think to mention that.”
+
+“Don’t distract from the actual conversation,” Wallace said. The dwarf crossed his arms in front of his chest and glared at Koyu. “That isn’t the point. What happened to you? Why are you all gangly and ghostly? What did you do, Koyu?”
+
+“I Sunset my class,” Koyu replied with a small shrug. “It took a little longer than expected. The Mesh is insufferable.”
+
+“And?” Vix asked.
+
+“And what?” Koyu asked.
+
+“She’s asking if it worked, you drunkard,” Esmerelda said. “Are you free of your bindings?”
+
+Koyu glanced over to Esmerelda. His head tilted slightly to the side. For several seconds, he said nothing at all. Then he let out a snort.
+
+“There’s no such thing as freeing oneself from their bindings,” Koyu replied. “There are only new prisons.”
+
+“That’s not much of an answer,” Wallace observed. He ran his hands through his frizzy beard in an attempt to tame it. The attempt was met with little success and he promptly gave up. “What changed, then?”
+
+“I think you’re just trying to distract us all from the fact that you dumped a gallon of blood on Vix’s head,” Koyu said. “And that you’ve still yet to fix that.”
+
+Wallace’s cheeks reddened. He coughed into his fist, then pointed at Vix and flicked his hand to the side. The blood covering her peeled away like a sheet to splatter across the ground. He repeated the move to Art.
+
+“Thank you,” Vix said.
+
+“Don’t mention it,” Wallace said. “Please. I do mean that. I don’t work with blood often. It’s… unsettling. I’m not used to all the other minerals in the mix.”
+
+“This doesn’t absolve you of an answer, though,” Esmerelda said. She thrust a finger at Koyu. “You feel different, lich.”
+
+“But a lich I remain,” Koyu said. A small smile pulled at the corners of his lips. “Perhaps more so than I used to be.”
+
+“Your Sunsetting made your lich aspects even stronger?” Arwin asked.
+
+“Yes,” Koyu said. “The Mesh… gave me options.”
+
+“What do you mean?” Esmerelda tilted her head to the side. “What kind of options?”
+
+“The kind that only had one good answer,” Koyu replied noncommittally. “It offered me power, and I took it. I was little more than a fading specter when I last stood before you. Now I am as whole as one such as I can ever be.”
+
+“You don’t look particularly whole,” Arwin said. “Your body—”
+
+“Ghostly. Yes,” Koyu said. He held a translucent blue hand up before himself and flexed his fingers. “The remains of a lich. That is what I am. I simply accepted my mantle in full. You still owe me a body, Smith. You are not released from that obligation.”
+
+“Nor would I want to be,” Arwin said. “But… are you okay?”
+
+“Yes,” Koyu replied. He let his hand drop. “I am better than I have been in a long time. My eyes are clear, now. I cannot remember when I last felt like this. I would wager to say it was before I was anything more than a mortal with a thirst for power far greater than his potential.”
+
+“That’s a slightly worrying line,” Art said. He and Vix exchanged a glance. “You’re not feeling any, uh, lich-y urges right now, are you?”
+
+“Just one.” Koyu let out a sharp bark of laughter. “I want a good beer. I’m thirsty. But I must unfortunately wait a little longer than I would like to claim that prize. Arwin, Wallace — do any tasks remain to ensure Vix’s safety?”
+
+“Just observation,” Arwin said. He shook the cobwebs from his mind. Now that the song was gone and the Infernal Armory was no longer supporting him, it was taking everything he had to stay upright. Every single thought and emotion that remained within his mind was muted and distant. “We need to keep an eye on her to make sure that core sets itself in properly, but I’m not anticipating any more trouble. It merged with her already. She just needs to take things slow like Anna is suggesting. Why?”
+
+“Because there is another, far more insignificant matter that would seek to demand your attention.” Koyu blew out an annoyed sigh. “And it is somewhat time sensitive. I would suggest handling it as soon as you feel you are in a position to act.”
+
+Arwin’s brow furrowed. If he’d been a little more aware at the moment, he would have picked up on the insinuation in Koyu’s voice. His mind managed to register that something was definitely off. Unfortunately, that was just about the extent of his deductive capabilities in his current state.
+
+“Just say it, would you?” Arwin asked, rubbing the bridge of his nose and forcing the darkness prickling at the edges of his vision away. “What’s going on?”
+
+“A dwarf attempted to extort answers from Ida regarding our activities,” Koyu said casually. “He failed. I have turned him into an icicle. But, if we do not remove him from his prison in short order, he is going to die before we figure out who sent him.”

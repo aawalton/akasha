@@ -1,0 +1,271 @@
+---
+id: 45ef96a8-4308-5a73-a609-a3c470fbfe55
+page-type-slug: story-chapter-royal-road
+title: "Chapter 645 - Dinner Plans"
+slug: 0646-chapter-645-dinner-plans
+partOf: mythrans-master-of-all-continued-completed
+position: 646
+ownLength: 2670
+unit: words
+publishedAt: 2018-07-21
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/236351/chapter-645-dinner-plans"
+royalRoadId: "236351"
+---
+
+Ren and his group landed at the house and went inside, and the pixies walked off of Princess' saddle into the air and waited. Princess went into her room and Ren, Artemis, the succubi, and the pixies went up the stairs to the big bedroom. The succubi stored their bikini tops and climbed onto the double-sized bed, and Artemis laid down slightly away from them and kept her bikini on.
+
+“Ren...” Suniva the pixie started to talk, and Ren raised a hand to stop her.
+
+“I said I don't have time to argue.” Ren said and quickly made 7 small beds and a shelf to put them on, then mounted them to the wall. “I'll be back in a day or two.”
+
+Suniva nodded and landed on the shelf. She was tempted to make herself large and get in the bed with Artemis, but she didn't want to leave the other pixies alone.
+
+Ren stepped to the wall and sighed. “Logout.”
+
+*
+
+“Is he angry?” Shanna, the Earth pixie asked. “He seems angry.”
+
+“He isn't angry.” Rainie, the Water Kin pixie said. “He's sad and disappointed.”
+
+Suniva, the Fire pixie sighed. “I told you he wouldn't like you coming along.”
+
+“We want our wings back.” One of the others said. “We're each a different element, as agreed, so that we can discover if it will work for each of us.”
+
+“If it does...” Another said.
+
+“We can try and work out how to help everyone.”
+
+“Ren won't... he has...” Suniva sighed. “He won't do with you what he's done with me.”
+
+“Why not? We're women, too.”
+
+Suniva sighed again. “You'll find out why when he gets back.” She said and sat down on the farthest bed, folded her wings into her armor and it closed over them. “Make sure you stay away from the succubi.”
+
+“We can hear you.” Ellaria said from below them.
+
+“I know.” Suniva said and laid down. “I suggest not leaving the house, either.” She said to the other pixies and closed her eyes. “Ren might make you some armor if you're lucky, or he might send you home through a portal.” She rolled onto her side to face away from them. “Goodnight.”
+
+“It's the middle of the day.” Shanna said in confusion.
+
+“It's always night for me when Ren isn't here.” Suniva said and shivered slightly as she huddled into a ball. “His warmth is gone and I miss it.”
+
+The other pixies exchanged looks because they had never seen Suniva be like this before, so they sat down on the other beds instead of running around like they wanted to.
+
+Teepo flew down and landed beside Suniva. “He'll be back before you know it.”
+
+“Thanks.” Suniva said and scratched his carapace. “You're a good friend, Teepo.”
+
+“Not all the time; but, I'm getting better at it.” Teepo said and chittered in laughter.
+
+“Me, too.” Suniva chuckled. “Me, too.”
+
+*
+
+Ren slipped off the VR headset and Stella took it from him.
+
+“You didn't even flounder around or try to stay longer.” Stella said.
+
+“I know how important tonight is for you.” Ren said, and she laughed.
+
+“Come on, smart-aleck.” Stella said and helped him out of bed. “Shower and dressing up is in your near future.”
+
+Ren nodded and let her help him walk to the bathroom. She stripped him off and examined his chest after taking off the bandages, then helped him into the shower. She undressed herself and washed him completely, then rinsed him off.
+
+“There, all clean.” Stella said and turned around to put the soap and sponges back on the shelf and hung up the shower's rinsing head back on the mount. “Ren.”
+
+“Yes?”
+
+“What was the surprise you were going to give me?” Stella asked, and then she felt his hand on her backside. “That's not really a surpr-ahhh.”
+
+Ren slid his hand between her legs and touched her sensitive spot. “So much tension.” He said and Stella leaned forward to brace against the wall and gave him easier access. “Good god, look at that.” He said and kissed her there.
+
+Stella caught her breath as he very expertly made her finish in less than a minute. “R-Ren, we... we should get you ready...”
+
+“I'm already ready.” Ren said and she turned her upper body to look and saw his erection. “I've saved it just for you.”
+
+“Ren.” Stella turned around completely and knelt to look at it closely. “I told you not to leave it for so long.”
+
+“I wanted as big of a present as I could muster.” Ren said and Stella touched him. He throbbed for her, and she smiled.
+
+“You're going to bust any second.”
+
+“That's your fault.” Ren said and she looked at him with wide eyes.
+
+“My fault?” Stella asked, surprised.
+
+“I always react like this for you, remember?” Ren smiled at her blush and leaned back against the wall to present himself for her. “Please, make love to me.”
+
+“Ren, you can't do this for long.” Stella reached out and touched his damaged chest. “I don't want to hurt you.”
+
+“You'll never hurt me.” Ren said confidently. “Now climb onto the Ren train before all the passengers decide they can't wait to enter the station.”
+
+Stella snorted a laugh and positioned herself, then eased down onto him. She closed her eyes at the sensations, and her body gripped him very hard.
+
+“Oh, god.” Stella moaned and moved slowly so she wouldn't put any strain on Ren at all. Ren massaged her breasts as she pleasured herself, and he held himself in check until he felt her movements start to falter. He reached down between them and touched her, and she gasped as she finished. She leaned down and kissed him as she kept moving, and he took the cue and finished himself.
+
+Stella moaned again as she felt Ren fill her up, and it just kept going. “Ren... god.” She shook her head at the absurd amount he could generate in so short a time.
+
+“I told you... I was saving it for you.” Ren said. “Just... whew...” He said, and she chuckled. “Oh, don't laugh!”
+
+Stella couldn't help it and she laughed, which contracted her abdominal muscles and those down lower, and it was Ren's turn to gasp as she expertly used her body to make him finish again without even moving.
+
+“That... that was... how the hell did you do that?” Ren asked as Stella carefully stood up.
+
+“Tantric exercises.” Stella said. “I've been trying my best to find the best way to... well, you keep getting hurt and punishing your body, and it's getting more difficult to be with you.” She said. “So, I started looking into ways of not having to move much during sex and still have you enjoy it.”
+
+“Stella, I love you so much.” Ren said, and she chuckled.
+
+“Hey, it's no big deal.”
+
+Ren reached out and put a hand on her hip. “You keep doing all these things for me that are so far outside your job description.” He said and held on as he sat up straight. “I thought I was giving you a surprise, and then you give me one instead.”
+
+“Ren...”
+
+“I can never thank you enough for everything, and I can't express how much you mean to me.” Ren said. “The words just don't exist for that.”
+
+Stella turned away from him to get the soap and to hide her embarrassment. “We need to clean you up again.”
+
+“Why else do you think I waited for the shower?” Ren asked and pat her backside. “I knew it was going to be a huge mess, just not how huge.”
+
+Stella chuckled and turned around. “You're awful.”
+
+“You mean awfully good, right?” Ren asked with a big smile, and she knelt down and kissed him.
+
+“Yes, that's what I meant.” Stella said and washed him off again. She rinsed herself as well and they got out and dried off, and she took him out to the bedroom and the large closet. “Okay, let's think this through.”
+
+“We should call Elise and get her up here.” Ren said. “She loves dressing me up.”
+
+Stella nodded. “Good idea.” She said and picked up the room phone and dialed the office.
+
+Half an hour later, Ren was dressed in a freshly-ironed white shirt with light blue pin-stripes, black dress pants, and a dark blue tie. He stood in front of the full length bathroom mirror and Elise asked him to do another full turn around.
+
+“Yes, I think that's the best we can do.” Elise said and ran her hands through his fluffy hair. “You should let Stella cut a little more hair off the sides, though.”
+
+Ren chuckled. “There wouldn't be enough left for you to run your hands through it.”
+
+“That's true.” Elise said and smiled. “You look really handsome.”
+
+“Thanks for helping me.” Ren said and looked at his watch. “I've still got half an hour to wait.” He said and settled in the wheelchair, then Stella pushed him out into the hallway. “I wonder how Lisa's doing?”
+
+“We forgot about Lisa!” Stella nearly yelled.
+
+“I'm on it!” Elise said and ran to the elevator and stepped in.
+
+“I'll get Ren downstairs and on the couch in the big living room.” Stella said.
+
+*
+
+The elevator doors closed and Elise went up to the third floor and ran to Lisa's room. She knocked on the door and there was no answer. She opened it up and saw a piece of clothing fly across the room.
+
+“I don't have anything to wear!” Lisa exclaimed as she tossed a short skirt across the room.
+
+“Sweetie?” Elise said and entered the room.
+
+“ELISE!” Lisa yelled and ran to her and started crying. “Help me!”
+
+“Shh, it's okay.” Elise said and hugged her close. “That's why I'm here.”
+
+“Th-thank you.” Lisa hiccuped and Elise walked with her over to the closet.
+
+“Hmm. Okay, let's see what we have here...” Elise said and stared to rummage through the closet.
+
+*
+
+Stella had to wait for the elevator to come back, then she took Ren down to the first floor and into the big living room to put him on the couch.
+
+“Try not to move around too much.” Stella said. “I've got to check on supper.”
+
+“No jumping on the bed for this little monkey.” Ren said and smiled. “Got it.”
+
+Stella shook her head and went to the kitchen to check on the food while Ren turned on the television to see what was on. He watched it for about 25 minutes, then he heard Stella come from the kitchen.
+
+“The meal's all ready.” Stella said and checked him over. “You're still looking good.”
+
+“I'm an expert at sitting still, so you didn't have to worry.” Ren said, and she chuckled.
+
+“I'm glad, because Lisa might freak out if you don't look your best for her mother.” Stella said and Ren moved from the couch to the wheelchair.
+
+“I know how important this is for...” Ren started to say, then the house phone rang twice.
+
+Stella picked it up. “Yes, thank you.” She said and hung up. “The guard at the gate said he just let the car through.”
+
+“I hope Lisa's ready.” Ren said. “I don't want to meet her mother alone.”
+
+“Just a second.” Stella said and dialed Lisa's room. It rang several times. “There's no answer.”
+
+“What?” Ren was surprised.
+
+“There's no time to check for her anywhere else.” Stella said and pushed the wheelchair out into the hallway and parked it against the wall near the elevator, then the elevator door opened.
+
+“I hope that's her.” Ren said and stood up. “Her mother could be here any moment.”
+
+Lisa stepped out of the elevator and Ren's mouth dropped open. Her shoulder length blonde hair was pulled back on one side and pinned into place. The other side was a mass of waves and highlighted her face to full effect. She wore a silky bright blue dress that hung to her knee and showed off a bit of cleavage, and shiny black shoes. Her outfit matched his outfit perfectly.
+
+“B-b-beautiful.” Ren mumbled.
+
+Lisa's face flushed to a deep red. “Y-you look h-handsome.”
+
+The doorbell rang and Stella went over to the door and opened it. She hesitated for a moment at what she saw, then she stepped out of the way and held the door.
+
+“Lisa?” A woman's voice cut through the silence.
+
+“Mother!” Lisa turned with a big smile and took a step forward, then stopped. “N-no! Not you!”
+
+“Is that any way to greet your father?” The man standing beside her mother said. “So, this is where you've been hiding out.” He stepped inside and looked around the spacious lobby. “Not bad.”
+
+“Mother, what's going on?” Lisa asked, then spoke through gritted teeth. “He wasn't invited.”
+
+“I couldn't just leave him at home, dear.” Lisa's mother said and stepped inside as well. “I was coming here to meet your live-in boyfriend. Who better to be here than your father?”
+
+“Anyone else!” Lisa said as both of her parents came over to her. “The neighbour! The mailman! Anyone!”
+
+“Oh, don't be like that.” Her mother dismissed her daughters concerns and gave her a hug. “You look very pretty dear.”
+
+“Thanks.”
+
+“That dress is a bit risque, isn't it?” Her father asked.
+
+Lisa clamped her mouth shut and didn't respond.
+
+“Where is this man you've shacked up with?” He asked and looked around.
+
+Ren wondered if the man was always this arrogant and dismissive or if he was just making a good show for him. From what he could tell from Lisa's reactions, he would have to bet on all the time.
+
+“That would be me.” Ren said and stepped to the side so that her parents could see all of him. “I'm Ren Haddon.”
+
+Her mother gasped and her father squinted his eyes.
+
+“Surely you must be joking.” Her father said.
+
+Ren opened his mouth to respond and Stella slammed the front door. They all turned to look at her, and she walked over to them.
+
+“If you would all like to come to the dining room, dinner will be served momentarily.” Stella said in her best servant voice and motioned down the hallway. Lisa's father grunted and put a hand on his wife's upper back, stepped around Lisa and Ren, then walked down the hallway.
+
+“I'm so sorry!” Lisa whispered to Ren and Stella.
+
+“It's okay.” Ren whispered back. “Stella stopped me from making a joke.”
+
+“Ren, that's not what I meant!”
+
+“I know.” Ren ran a hand through the wavy side of her hair. “I'll do my best to save the rest of this evening.”
+
+“I don't think that's possible.” Lisa said in a normal voice when she saw her parents go into the dining room. “At least there's no alcohol in the house.”
+
+“Actually, there's wine to go with the meal.” Stella said. “I'm sorry.”
+
+“Oh, god.” Lisa said and covered her face with both hands.
+
+“Lisa, it's okay.” Ren said. “I promise that no matter what happens tonight, I'm not going to like your father.”
+
+Lisa couldn't help it and chuckled. “That's not funny.”
+
+“Then let's go and not be funny together.” Ren said and took her hand. “As long as you remember that no matter how bad things get, they will get worse.”
+
+Lisa snorted a laugh. “That's not helping.”
+
+“How about this.” Ren leaned in close and gave her a kiss. “I'm going to be right there by your side and we are going to wade through the chaos together.” He said and smiled. “With Stella as backup, of course.”
+
+Lisa took a deep breath and let it out. “Okay.”
+
+Ren sat down in the wheelchair and Stella pushed it to the end of the hallway and stopped just outside the door to the dining room. Lisa had held Ren's hand the whole way and Ren stood up, then they walked into the room together.

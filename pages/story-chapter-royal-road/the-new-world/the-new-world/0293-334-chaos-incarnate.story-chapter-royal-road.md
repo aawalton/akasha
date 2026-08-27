@@ -1,0 +1,179 @@
+---
+id: 70d149c5-99b5-52a6-b096-5b6654317f44
+page-type-slug: story-chapter-royal-road
+title: "334 Chaos Incarnate"
+slug: 0293-334-chaos-incarnate
+partOf: the-new-world
+position: 293
+ownLength: 3724
+unit: words
+ownProgress: 3724
+publishedAt: 2022-02-21
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/850373/334-chaos-incarnate"
+royalRoadId: "850373"
+markedReadAt: "2026-06-29T21:31:16.313Z"
+---
+
+But they were in for a rude awakening.
+
+My many elemental furnaces fueled into action, and many of my minds took on different roles for combat. I set up a line of targets, preparing a battle plan. I shifted back to Event Horizon, and I readied several minds for a psionic battle as well. Once my body saturated with mana, a plasma of energy formed around me, melting anything nearby. It was time.
+
+I stared at these horrific monsters, and I pounded my chest to get their attention. They peered at me, and I peered at them. A silence passed over us where I mused where to put the start of my colony.
+
+And so, the roaring began.
+
+Chapter Begin
+
+I roared with them.
+
+A blizzard elemental coalesced into a void ice figurine. Alien and deadly, the monster sliced towards me at unrealistic speeds. Several sonic booms exploded on its path towards me, and its ice blade stabbed through my stomach. Without hesitation, the beast gouged out my eyes before slicing through my torso.
+
+My molten blood pooled over the creature, a gravity well siphoning the superheated material onto the beast. It sizzled while we battled back and forth. My blows erupted kinetic plumes out of its back, the invisible force seen by its impact on our surroundings. The ice creature's density and hardness exceeded my own, its composition an anomaly.
+
+The opalescent fragments below shot out like tiny bullets as our strikes ushered out booming echoes. The monster regenerated with utter vitality, the energy within the creature pulsing out in waves. It fell into a rhythm, empowering with radiation and the bone pit below.
+
+I slammed a blow into its stomach, cracks tracing its entire body. It siphoned energy from the bone pit, healing instantly, and it even stole more power from the ground, speeding its slices to an absurd pace. One sliced through my cheeks, another through my thigh. Opening my regenerated eyes wide, my augmented senses comprehended the quick cuts after experiencing a few of them.
+
+I parried each of its swings which left elegant ice trails in their paths. I deflected each swing with subtle movements, wasting no motion or time. I used my pocket dimension to contain icy blasts and to redirect them. I incorporated singularities at moments of vulnerability. I used the vast armada of tools I amassed since becoming a fighter.
+
+And it matched me.
+
+It pulled more energy from the graveyard below. It sped faster, comprehending the madness of our fight with instinctive ease. It was born for this pace, and I wasn't. I never fought anything this fast, strong, or fierce. Catching me off guard, this single eldritch pushed me back as we tore each other apart.
+
+I redoubled my efforts, directing more mana into the confrontation with each passing second. It did the same. The spread of our battle sheared portions of the kelp layers above. The weaker behemoths above disintegrated from the kinetic waves blooming off our attacks. We splashed onto our surroundings, each of us leaving a slaughterhouse in our wake.
+
+As time passed, the battle dragged on. This eldritch never tired. It never relented. It persevered with unwavering tenacity, the will of its mind like a raging tempest. I felt no fear. I smiled at the push and pull of battle, the deadly dance consuming me. I honed in on the fight with an absolute focus.
+
+Wielding my ascendant aura, I appreciated a fine battle, one I hadn't had in ages. Falling into the experience, I eliminated everything else in my mind, the primordial rune calming its endless hunger. With all of my psyches redirected to this creature, we gained the upper hand.
+
+I swung out a mana empowered strike, landing a kinetic bullet into the creature. Cracks ebbed out from the impact, but it regenerated in a second. It sliced through my torso, the cut too clean for its own good. I restored before I fell apart. Thinking on the spot, I turned the kinetic bullets I used into long lines.
+
+This turned my blunt punches into long swords. The damage of my attacks multiplied. I landed a strike across one of its arm segments. The fragment crumbled into many pieces, joining the blizzard around us. Those crumbled fragments coalesced into an icy liquid, splashing towards me, and I raised my dimensional shield.
+
+The pocket dimension captured the attack before I swiped it towards the eldritch. A section of its body cleaved into the portal, the warp's edge leaving a smooth slice in its wake. I turned on the balls of my feet with a whipping hook, and the creature dodged my strike. I put its captured fragment in the way of my punch, a crash and icy mist smothering us.
+
+It howled out with an unearthly cry, higher-pitched than humans should hear. It spun in a circular typhoon of attacks. I parried and deflected each spiral slice, firing gut-wrenching punches into its body. As I did, my armor created zoning blades, keeping the icy fragments in the way of my attacks.
+
+It rallied to recover, flowed through the air by turning incorporeal. I condensed Event Horizon over the monster, the floating mass vulnerable to the aura. I bent down before leaping towards its escape, and the eldritch condensed into a finite point. The sphere sharpened to a needle, and it fired through me.
+
+Darting in and out of my body, it sliced me apart. The shifts in its speeds erupted out sonic booms in a dizzying display of velocity and acceleration. Taking a hint, I condensed my own body to the utmost extent. It pierced me still but with far less ease. It kept ripping me apart before I predicted its path. Elongating my body, I created a long section of my armor for it to pierce through.
+
+It sunk in, reaching two third's through me. I returned to my usual form and roared forty furnaces into action all at once. My blood and bones converted to heat, mana coursing through me until I melted. The channeling mana compounded this heating effect until I smothered both of us.
+
+Furthering the reaction, I compressed us within a tight gravity well, the mana pooling into an extreme force. It weighed me down, my body tightening into a ball. Nearby air heated to plasma, each of us turning into a glowing slush. The ascendant mana coursed to the point of absurd volatility, yet the crimson lightning no longer streaked outward.
+
+The plasma around me captured it, turning us into some ionized mass. Minutes of boiling us alive turned into hours before the icy monster finally died with a fierce cry. I returned to my average body, falling down onto the shards below. I gasped, the sheer brutality of the fight giving me flashbacks.
+
+As I stared at the iridescent sheen of the bones beneath me, I felt something in my chest. I pulled three spheres out, finding three blue cores in my palm. I gawked at them, overwhelmed that three stored inside the eldritch monstrosity. Even stranger, these dungeon hearts carried an energized volatility that Schema's cores lacked.
+
+Putting myself back in the moment, I pocketed them into my dimension before turning around. We left the entire underside jungle in shambles. The glowing bones melted into a crystalizing pit below and above, the kelp forest regenerated several layers where we blew holes in the canopy. The other primeval eldritch fought in the distance, giving me space to become the victor.
+
+As I stood, another shining monster came by. This glowing, red star spread its arms wide. It gazed through me with one menacing eye, tinted a blazing orange. It condensed a beam of light at me. I reached out a hand and squeezed a dozen singularities in its chest. It snapped apart, vaporizing into a fine mist.
+
+The misty remains flowed down into the piles of glowing bones. Its form reconstituted instantly, and I closed my eyes in frustration. In the distance, a dozen of these monsters fought in my field of vision alone. Clearing this place out of these monsters might take years at this rate, let alone three months.
+
+I let out a sigh, having underestimated this place. Instead of brute-forcing my way through, I took a second to think as the shining star condensed energy. Peering around, the bones radiated out with intense flows of energy. I leaned down and put my palm on them, sensing what coursed within.
+
+My eyes widened as I leaned back. I gawked at my surroundings, the hills whispering and speaking out with untamed cries. Every piece of shining bones was alive. They molded into an ancient, unspeakable behemoth of a creature. A monster that covered this entire side of the planet. The eldritch above fought and died, feeding it their broken bodies.
+
+It rested as a sleeping giant, being a looming threat in the far future. But it also presented an opportunity. I formed a telepathic connection with it, but its mind dwarfed my own. Racing to find a weakness, I found gaps in its defenses. It carried millions of different thoughts, no unity present within the beast.
+
+Shifting to primordial mana, I conquered a tiny patch of bones nearby. After taking over the patch, the star beast beamed an incinerating ray at me. Changing to Quintessence, I raised a dimensional shield. For miles behind me, the ground vaporized. I remained, having caught the energies in my dimensional barrier.
+
+After it passed, I reached out a hand and formed singularities in its chest. It pulsed away, and I turned my hand to keep a line of sight on the creature. It beamed across the air, turning into a flashing light as it did. It shot around me at all angled, the beams flashing in all directions. It overwhelmed me and burned my skin.
+
+Out of frustration, I growled while spreading my hands. A flash of mana coursed through me and generated a hundred singularities nearby. A tidal wave of dark blots spread out in every direction, siphoning in everything nearby. The shining stain dashed into one of the singularities, catching it off guard for a moment.
+
+I clapped my hands at it, turning its body into gravitational implosion fuel once more. The remaining mist shot back into the bones below. Wielding a dozen minds, I shifted to my primordial state. I fought over this portion of opalescent shards, stopping the star from siphoning more energy. Captured in the bones, it wrestled to escape. Dashing forward, I generated another plethora of singularities over its escape route. The mist still survived, devolving from a dense fog to an airy ether.
+
+A wave of Event Horizon condensed over the creature. I roared at it,
+
+"Give in."
+
+It obeyed, staying there and dying in the aura. As it passed, I took a few deep breaths. As I did, four vibrant blue cores dropped out of it. Another primeval eldritch bolted towards them, and I raced the beast. A hair's breadth faster, I scooped the blue pearls up. Continuing my scooping swing, I whipped my dimensional shield over incoming eldritch.
+
+The monster fell into my pocket dimension, the momentum sending me slamming back into the shining bones. Laid out on a pile of shards, I gazed at the ever-changing kelp sky, taking a deep breath. Circumstances changed fast on Leviathan, that much was sure.
+
+Pulling myself back upright, I sensed the beast within my dimension. Under my complete control, the gravitational beast acted as a living shadow. Unlike Hod or Shalahora, this monster wielded gravitation. It bent time and light, neither present in my pocket dimension.
+
+The beast couldn't have asked for a poorer matchup. While in stasis, I siphoned antigravity over the creature. Unable to regenerate or defend itself, it died over a few minutes of channeling. Four more blue cores remained from its corpse.
+
+Having a moment to think, I peered around. At this point, I cleared out a small area of the primeval eldritch. Not needing to fight every split second, I lost track of time while fighting, but based on my estimations, it took about two days to kill these eldritch. The ice one bogged me down, and I couldn't afford to take these threats on so slowly.
+
+I blinked before staring up. The young behemoths fought on the higher slices of this ecosystem, and their deaths fueled the more advanced eldritch below. If I cut off that endless stream of monsters at the source, I'd eliminate these beasts below. After that, I could expand and have a set amount spawn for blue core generation.
+
+Making that happen was the problem. These abyssal eldritch could quickly kill my golems, but the behemoths above couldn't. Probably. Thinking of adjustments, I peered around at the ripping patches of kelp. These young behemoths spawned all the time and all over the place. It was an infinite loop in that regard, and fighting them was a waste of time for me.
+
+Changing into my primordial aura, my thoughts cleared. I tapped the side of my leg, coming up with a different idea. I pulled out my grimoire while taking over this chunk of living rainbow bone beneath me. After playing a game of mental tug of war, I pulled a shining capsule over me.
+
+In this pit, I pulled out my dimensional fabric and got to work. I looked over our team's runic configurations and algorithms, and I gave nods of appreciation. These were impressive works...Despite all the flaws, imperfections, and general messiness. Considering our experience levels and the time constraints, I couldn't fault us.
+
+But there was much to do and little time to do it.
+
+I snapped my fingers, thinking of improvements on the fly. Not having days to spend on this project, I constructed several improvised adjustments. It took about two hours to iron out some translation issues before getting the adjustments finalized. I pulled out my grimoire and stared at the new, much better cipheric engravings.
+
+And I winced at them. Gah, ugly.
+
+I didn't have time for incessant perfectionism, and a set of pounding impacts above reminded me of that fact. Each impact cracked the rainbow bones, but I kept pulling more of the stuff to repair it. At the same time, I let out a sigh, containing the urge to shred my new runes before I began constructing golems.
+
+Other minds helped me execute and push past this relentless perfectionism. I ended up finishing thirty of these new golems as the ancient mind stirred from my interference. It wrestled for control of the rainbow bones, limiting my time even more.
+
+I turned to each of my new golems, the improvements paling in comparison to my new rune. Still, these golems carried several adjustments for Leviathan-7. They worked in teams of three, each of them isolating and destroying behemoths one at a time at the kelp forest's uppermost section.
+
+These golems also carried ascendant cores. The mana gave them hunger and the ability to assimilate eldritch energy like I did. The conversion could use a lot of work, but I tolerated it for now. Getting control of the situation took priority. Rubbing my temples, I said over the pounding impacts above,
+
+"Now, each of you will need to go up to the uppermost layer and stop the spawns. Safety is the absolute, highest priority. Do not, and I repeat, do not go down to these lower levels. You'll die a useless death if you do."
+
+Changing to Event Horizon, I stared at them with piercing eyes, "Understood?"
+
+They shivered before giving me nods. I peered at them in silence before waving my arms, "Now let's move. We have ground to cover."
+
+They spurred into the action as one of the empowered eldritch left a blooming flower of cracks on the bony plates above. Turning primordial, I raised my brow, trying to get the rainbow bones to attack the eldritch. The ridiculous shards refused me, but I expected as much. I rolled my eyes before changing back into my ascendant form.
+
+I shot towards the pounding sound. I cut my way through the rainbow bone with my shield overhead. I timed it with one of the monster's collisions, capturing the beast within my dimension. The electrical spirit cackled and hissed from where it released a thunderstorm above.
+
+Trapped and in stasis, I tried killing it by smothered the electrical entity with dirt. It left no impact on the aberration. Howling out over the rolling hills, three different primeval eldritch shot towards me and my golems from a distance. They aimed to destroy my golems, something I couldn't allow.
+
+My minds racing for a solution, I came up with a game plan. I psionically synced with the other golems, and we launched up, heading towards the upper layers of the kelp forest. We darted through the algae strands, finding weaker behemoths on the second tier of the planet's ecosystem slices.
+
+Three uber eldritch followed behind us, each of their compositions different but deadly. A ball of living vibrations disintegrated matter as it passed through objects, and another eldritch coursed through the air as liquid light like some higher being. The last one moved as minerals, having made its body out of the rainbow bones.
+
+They homed in, and I acted as a shield for my golems. My forces escaped to the upper echelons of this place. Taking a breath, I closed my eyes as the eldritch closed in. I opened my eyes with a growl as the creature of vibration cycloned into a spiral. It erupted out with a twisting, kinetic storm that blurred our dimension.
+
+It disintegrated three behemoths beside me, but I hid behind my dimensional shield. The monster of light shot past me, piercing through my body from the side. It left its glow within me, and it spread out like glowing poison. A cleansing fire erupted over me, yellow flames popping out over my skin.
+
+The mineral monster came up and turned its arm into a hammer. Slicing with speed, it slammed me down into the shards below. Being made of rainbow bones, the ground only crushed several feet, and my body pulped against it. From my destroyed state, I stood up. As I arose, my body healed in tandem.
+
+It was as if a living Daniel stood out of a dead one.
+
+The three primevals used a combination attack. The ball of vibrations coursed onto the mineral being's hammer arm. It lifted its hammer while slamming it down to me. The light monster formed an eclipse over the hammer arm, creating a wall of light around me. This created a small tunnel.
+
+Testing its rigidity, I smashed a fist into the wall of light. It held firm, sparking lights erupting from my fist's collision. I turned around, peering up. Panic ignited in my chest as the mineral beast shot down hundreds of feet to me. A plan sparked in my mind, and I followed it.
+
+I swung my shield up to absorb the combination attack. The hammer fell in, a large portion of the vibration beast sinking into the abyss. I followed my dimensional shield's path with my other fist, empowering it with condensed strands of armor. I crushed my hand into the mineral monster's face, smashing it apart.
+
+Its head crumbled, and the punching hand after it impaled the mineral monster's face. In an instant, I generated several singularities over the liquid light. Its body splintered, my attack absolute. At the same time, the mineral crashed down beside me, a kinetic bomb erupting in the tiny, enclosed tunnel of light.
+
+Multiple minds worked in sync, letting me leap up in time to point my dimensional shield downward with my other arm. I pulled the captured electric beast out from earlier. It blocked the majority of the ensuing explosion, lobbing me upwards towards the liquid light. Passing to it in a wicked rush, I smothered the light monster with Event Horizon.
+
+It fled up the chute of energy it created. This lined the creature up, and I lifted my dimensional shield again. I released the captured laser beams from earlier in a burst, decimating the creature of light. The blowback propelled me back down towards the other primevals below me.
+
+I turned myself into a thin line while speeding my descent with all the gravity I could muster. I passed its initial kinetic wave with ease, strengthening my gravity wells with each passing second.
+
+A second before I landed on the vibration and mineral eldritch, I turned myself into a flattened ball. An enormous explosion erupted, contained within the light tunnel. It pipelined the energy into an incinerating, destructive eruption that shot far above the atmosphere and into space. My gravity well pulled in objects far in the distance, the air and atmosphere falling towards the pillar of light.
+
+Cracks formed over the glowing tunnel before it shattered. The energy radiated outward in every direction, destroying dozens of behemoths degenerating. The kelp seas above parted, exposing Leviathan and its perpetual glow. A gash in the rainbow bones formed below, and the monsters from afar squealed in agony.
+
+No fragment of the monsters remained. No limbs, blood, nor breathe. Only the blue cores hummed beside me, my senses fuzzy and strange. Everything unveiled around me as gravitation or mana, no physical feelings rushing in. Turning my awareness inward, I found no physical body. I existed as my dimensional wake alone, having disintegrated into nothing.
+
+And from nothing, I returned.
+
+My body reconstituted, phasing into existence. I stood among the liquid pit of dead behemoths and primevals. I soaked them in while turning in every direction. Nothing nearby dashed in, so I pocketed seventeen more blue cores. Other monsters in the distance stared at me. From their gazes, fear replaced hunger as their perspective changed.
+
+My fight left a scar over this slice of their ecosystem. It tore entire miles of plant life to nothing, leaving me in an empty patch of cleared kelp. Above, Leviathan beamed down with its radiance. In its glow, I spread my arms and boomed for all to hear.
+
+"I'm the Harbinger of Cataclysm."
+
+Mana crystallized around me, siphoning into a chaotic storm of violence and energy and power. I seethed,
+
+"This is where I'll prove it."

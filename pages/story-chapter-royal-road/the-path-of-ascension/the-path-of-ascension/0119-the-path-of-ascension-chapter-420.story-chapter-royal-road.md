@@ -1,0 +1,259 @@
+---
+id: a7b1697e-ad94-54b0-89d6-bb112103d06d
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 420"
+slug: 0119-the-path-of-ascension-chapter-420
+partOf: the-path-of-ascension
+position: 119
+ownLength: 5441
+unit: words
+ownProgress: 5441
+publishedAt: 2025-06-16
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2361669/the-path-of-ascension-chapter-420"
+royalRoadId: "2361669"
+markedReadAt: "2026-06-29T19:21:56.589Z"
+---
+
+Chapter 420
+
+Wiping the streak of blood away from his face, Matt laughed as Allie had to be dragged away by Aster.
+
+“Round four! Come on, you cowards. Now that we figured out how to beat you guys, you can’t just stop fighting!”
+
+Seeing they were all done, Matt expanded his Concept to encompass everyone.
+
+Brian’s sigh rattled his loose jaw. “Now that's amazing. I don’t even need to chew on mana stones to refill.”
+
+Krodag crawled over to them as he half shouted, “[Heal My Weary Bones]!”
+
+Pulling himself into a sitting position, he gasped, “If anyone wants to heal, I’m out of commission. It's time to drink something.”
+
+Rummaging through a spatial ring on his finger, he sighed but perked up as Liz handed him a bottle.
+
+Snapping the stem, he took two big swigs before spitting all of the liquid out and coughing. “Is this… Water? Why would you give this to me? Are you trying to kill me!”
+
+Liz grinned, knowing exactly what she had done. “That's potion-enriched water. It won’t fill your mana pool, but it soothes aches and pains as well as a minor spiritual soothing factor.”
+
+“But why is it water?” Krodag looked genuinely confused.
+
+Liz glanced to Matt as if looking for support, but he held up his hands, just watching. “Are you implying that your potions aren't made with water?”
+
+“Why would you make it with water!? That's what goes in the toilets.”
+
+Ellen’s snort gave away the game, but that only gave Allie time to complain more. She was still eager to fight again after she and Zack had lost the first two out of the three rounds they had fought.
+
+It wasn’t so much that Allie and Zack were weaker than the others, but that their area of expertise was firmly countered by Brian and Ellen.
+
+Moe and Krodag had gone down fairly fast in both of the fights, with Allie and Zack able to teleport next to them and deliver a single devastating attack from an unavoidable angle.
+
+The other two were the real problems, and eventually caused them to lose each time. Ellen was just too slippery to go down by spell or dagger, even if they appeared right next to her. Her exquisite bodily control, along with all of the knowledge she had accumulated, gave her a better-than-most understanding of spatial magics, giving her just enough warning to stop Allie’s more simple shenanigans.
+
+On the other hand, Brian wasn’t any single undead and Zack and Allie, unlike Matt, Liz, and Aster, didn’t specialize in wide scale attacks that could destroy all of his undead at once, allowing him to endlessly jump from undead to undead while summoning more and more.
+
+Their sole win out of the three rounds they had fought was the final one, where they managed to actually hit the ‘real’ Brian in their first ambush. That left only Ellen who could seriously threaten them, but by herself even the Jack of All couldn’t handle two pin point accurate Ascenders.
+
+Matt wouldn’t have minded going for a fourth round, but he also felt it was a good time to stop. They had also fought three rounds themselves, and the Clan Ascenders had similarly defeated them in their second match, with Moe keeping Matt and Liz away from Aster long enough for Ellen and Brian to land a death blow, which spelled their inevitable defeat. They had prevented that from happening in the third, which gave them the victory once more, but it had been a hard won fight with each side learning more about the others fighting styles.
+
+“I think we should go and grab dinner.”
+
+Everyone saw right through Matt, but Zack and Allie were the only two pushing to fight longer, and so his argument won out.
+
+Returning to their house, the group of them chatted while Matt and Ellen cooked up a dinner for everyone, and Krodag cracked open his own alcohol collection, letting them taste the wonders that he had not only collected over the years, but distilled and brewed himself.
+
+After passing around a delectable apricot brandy, he explained, “Ya can’t just rely on higher-Tiered ingredients to make good alcohol. That's the sign of a bad brewmaster. Alcohol is a vessel to deliver complex flavors while also delivering unique effects.”
+
+Zack nodded as he took a careful sip. “The aftertaste is quite rich. It makes me want to slow down instead of drinking faster.”
+
+Liz wiggled her glass. “It's good but apricot just isn’t a good base flavor. Why not something like a pear or apple?”
+
+Krodag rolled his eyes. “Apple is far too overused. Besides, what type of apple? There are more varieties than I can count and not all of them make good alcohols, and the ones that do are already being used to make alcohols. Try this. It's a blueberry infused mead. Tier 3 but a very good batch I made a few years ago. Sadly the color was off from the blue I envisioned when I started, so it was never sent to production.”
+
+When Allie took a swig of the drink, she shrugged. “But what's the point if it's so low of a Tier? It won’t get me shit faced and if I’m drinking alcohol, I want to get shit faced. If I’m not getting drunk, or at least buzzed, I’d rather drink anything else.”
+
+Moe raised his own smoothie up to Allie, losing his accent as he spoke. “‘Ere, ‘ere! ‘ohol, even good ‘ohol tastes like alcohol. Why drink it if not to get drunk? I don’t eat Falxen Mushrooms because I like the flavor. I do it to trip balls and see things only a drug-addled mind can produce.”
+
+Allie perked up. “Oh, you have good psychedelics? It's been a while since I imbibed and could go for some. Oh, let me see if any of the shops I buy from have something good.”
+
+Having said that, she vanished and all five of the Clan Ascenders sighed in unison.
+
+Wun groaned, “Any chance she’ll reach Tier 40 soon? I really want to be able to do that. I’d pay. I mean, bet for teleports.”
+
+Brian’s bones rattled. “I thought I had the best Talent. I can be anywhere in the Realm, but I can’t bring objects like she can. It's more of a projection, so I can’t even enjoy eating or drinking unless I have a specially made body present. The Realm really is unfair.”
+
+As Allie reappeared, she held a bag of dried mushrooms joined a moment later by Moe who had gotten his own from his ring. Seconds later she and Moe happily downing their respective Tiers’ drug.
+
+Moe said something, but he made the accent so thick Matt didn’t even try to parse it. Instead, he slid the chicken thighs to Ellen, who quickly sliced and breaded them. Chicken parmesan wasn’t the most high-effort dish but Wun, Ellen, and Krodag really liked pasta and red sauce dishes, and so, Matt was making a few different types. Chicken parmesan was one of Liz and Aster’s favorites, so he was making sure they were perfect.
+
+Without her knife slowing, she sighed. “It really is a stupid power. I’ve learned how to do some spatial shenanigans, but none of them match up to that. Obviously. Does she do it when you guys delve? I remember when we forgot to take half our food rations into a rift once. Shit sucked. Months of breaks with nothing to eat.”
+
+Matt shrugged. “Once or twice, but not that often. If we are delving in a group we are, more often than not, pushing hard as possible, and so we don’t really stop to eat inside a rift.”
+
+Ellen looked at him weirdly. “What about regenerating ma… ah, fuck you guys. You need to hurry up and reach Tier 35 as well. I want to delve with you and see what it's like. During a normal delve, even we consume mana faster than our mana pools regenerate or our converters can keep us topped off, let alone when we’re pushing hard. And that’s with Lug and Bottle able to fight with minimal mana expenditure. With how the faster speed mana converters are shit for efficiency, we mainly rely on banks of the slower ones to top off every few engagements, then with longer breaks to regenerate naturally when they get fully used. Why pay to delve ya know?”
+
+Matt shrugged once more. “Not really. Sorry, but it's true. With my Concept, I’ve never really had mana issues.”
+
+“But what about when you were a low Tier and your Concept was weak, so you didn’t have the willpower to sustain it? You had to struggle then. Right? Or at least the others, as you just absorbed mana stones?”
+
+Matt, not able to mention his Talent so directly but still wanting to answer, chose his words carefully. “It still wasn't so bad that we needed to take breaks or anything. They just stored mana when we had down time and pulled directly from already aspected rechargeable mana stones. That, and even before we got a seventh floor Mind Over Matter, which made it effectively free, my Concept has always been large, giving me a good amount of Willpower and Willpower regeneration to keep them going. And at that Tier, we just didn’t have enough skills to really spend that much mana, and after Minkalla, when we did, my Concept gave enough, so it was never really an issue.”
+
+Thinking back, Matt smiled. “I remember when I first formed my Concept. I used it for like half a second and fell over with a nosebleed.”
+
+Ellen shared her own tidbit with a soft grin. “When we formed our Concepts over the course of Tier 5 and 6, all of us landed on our asses more than once. Brian nearly lost his head for real one time. Fell right in a doorway where the door was already closing. Moe had to kick him through the door to save his ass. It shouldn’t be that surprising to learn how good you are with your Domain, but it's less obvious than it is with someone like Aiden, who has that as their main thing. You’re more similar to me in that respect. We are good at a lot of things, which makes people tend to forget how good we are at other things.”
+
+Matt felt that down to his bones, but for a slightly different reason than she meant. “I like to think so. Still, I wouldn’t call myself a Domain expert with Aiden around. I’m good, I created a Meld and have my Truth already—”
+
+He was interrupted by all five of the Clan Ascenders rushing over to him, asking questions.
+
+As with Max, there was a moment of pause when they heard his Truth, but thankfully, after he said it in a few different languages, most of their apprehension vanished. From there, it turned into a pestering session where they simply asked dumber and dumber questions, trying to get a rise out of Matt or his Truth. It wasn’t without its benefits, but it wasn’t in any way a scientific or methodic questioning like with Max or Luna, instead just going for laughs.
+
+Matt eventually put his foot down and kicked everyone out of the kitchen or their dinner would have become breakfast.
+
+Finishing what he had started saying before the interruption, he continued, “But as I was saying before. Aiden, he's on another level. I can still hardly believe that just two or three Tiers stronger than us, he created his Authority. We probably won’t have even finished our Aspects by that time. It's crazy.”
+
+Ellen’s blade slowed then stopped as she nodded along. “Don’t ever tell him I said this, I’ll deny everything. But yes. We all kind of hate him for that. A fucking Authority. Something a Tier 74 needs to break through to Tier 75. It's actually insane. We’ve all been trying, but even I can’t make heads or tails of the mumbo jumbo shit Aiden says about it. Legends are supposed to be the best, but it’s rare for one of us to show up the others like that. It's a good thing he's only decent without it. Imagine if he had an applicable Talent-and-or bloodline.”
+
+Matt shuddered. “I'd like to say that he’d never have pushed himself hard enough to make one, but honestly, I just don’t want to consider what that would look like.”
+
+Liz wrapped an arm around him, using him as a post to steady herself as another arm snaked around and snatched a just cooked strip of chicken. “It would be terrible. But you know what wouldn't be terrible?”
+
+Suspecting the answer, Matt asked, “What is that?”
+
+“Dinner.”
+
+Chuckling, Matt looked at their piles of food. “We should be ready in te—” pausing, he reached out and grabbed a phoenix who was stretching to grab another slice of chicken. “Out! No thieves in my kitchen.”
+
+Laughing, Liz grabbed a carrot and sauntered away before he could protect it.
+
+The dinner turned out fantastic, and was only made better as Allie and Moe’s mushrooms started to really take effect on the two of them. As they started to fall deeper into their high they ended up giving everyone else live entertainment.
+
+While everyone else moved into the living room to watch a movie, with Brian and Wun both demanded they watch the movie whose memorial they had bet, Moe and Allie wandered out onto the flying island to play in the grass and enjoy the various passing worlds as they slid by underneath them.
+
+The next day, it was time to start the real reason they had come.
+
+Delving cool and rare rifts.
+
+***
+
+Aoife looked at the six clan heads arrayed before her as they talked about wanting to raise a tax on the newly created Tier 0 skills.
+
+The other clan heads were a respectful distance away, but were present and listening in on everything said. The six currently bickering back and forth were the representatives chosen by the assembly to push and halt the motion. This Clans assembly had been going on for three days, and was slated to continue for another six more, but this was the first thing that actually concerned Aoife.
+
+Alongside her were her two Tier 48s who had been there through every argument, suffering as she was.
+
+Eimhir, The Scribe of Echoing Tongues, was not a supporter of hers. He had been forcefully elevated after his failed bid to Sainthood, and given his massive support in the newer high clans, the choice had been to kill him or elevate him. She had chosen the latter.
+
+He wasn’t a bad sort, but Aoife knew damn well that he was always waiting for a reason to try and usurp any amount of power he could grasp. She even knew of his secret talks with some of the other clans heads that, despite his failure to reach Sainthood last time, he would make a better heir than someone newer, who would need more resources to elevate when her time came.
+
+Through all of that, she knew he was generally loyal to the Clans as a whole, and he did usually work to the betterment of them all, even if he made sure he was taken care of first. Their issues were more on a personal level; she didn’t like the man and he didn’t like her, but the two of them got along better than most outsiders thought they did, which made him a useful bridge to her opposition.
+
+Her other Tier 48 was a human golemancer, Jaxon, and a friend of hers who had backed her initial push into Tier 30 and her entrance into the political sphere of her clan, then later the Clans as a whole.
+
+Jaxon was also universally hated by everyone else in the room, as he was an unrepentant radical humanist supporter, and wanted to tear down the established government for the betterment of humans in the Clans.
+
+Still, he served a dual purpose and did it well. He drew ire and could suggest ideas she needed shot down before another clan could suggest them. Second, he fulfilled the tradition of having a human in the highest echelon of the government, even if higher than normal.
+
+Tradition more than law was a razor sharp sword that hung over all of their heads, and while most understood its usefulness after Sword Saint Hastor’s rise to Tier 50 over the bodies of his critics and opponents, others had wanted to disregard the practice. Despite Sword Saint Hastor not being the first human Tier 50, nor pushing any sort of human-centric agenda, there was still a subset of the Clans leadership who had hated seeing a human become the most successful person in a generation of a Golden Era. They all seemed to forget how they sucked up to him while he was still in the Realm, or how he had ensured their Great Power remained to dominate through tide and tribulation alike.
+
+Which made Jaxon a perfect relief valve, a job he happily did as it furthered his agenda of keeping the spark of human innovation alive, seeing another one of their own retaining a high position.
+
+Interrupting the bickering about taxes that she didn’t really care about, she asked something she knew had been generally positively received.
+
+“Putting aside the matter of taxes. What do you and yours think of the new skills in and of themselves? Has reality met expectations? With our… visitors, now is the time to check in and see if there are things to address.”
+
+Sim Darlsan, head of clan Darlsan, and one of her strongest detractors, was the first to speak, and did so with an airy but deep voice. “What is there to complain about? The skills work as advertised and are as helpful as can be expected. If anything, they are too good, which is why we need to levy a tax on their creation to replace the revenue lost from businesses that are being replaced.”
+
+Seeing her glare, he moved on from the mention of taxes with a flex of his bicep. His move made the Tier 46 armband flex and grow lighter as the metal was stressed to its limit, shooting a glare at Jaxon, who returned it without blinking. “With our greater strength, we get more out of [Physical Empowerment] than the humans. It's a shame it doesn’t scale well into the higher Tiers, but I have a few of my kin working on learning the methods behind these new skills, so there is hope we can discover something.”
+
+Una MacLeoid, head of her clan by dint of being its founding member and raising it all on her own efforts, stood forward, her metallic braid nearly touching the ground. “My clan has spent several Tier 14 upgrade orbs on the skill, but so far, none of the upgrades have been useful for physical strength. Interestingly enough, the basic upgrade for the skill seems to make body modifications easier. There is an opportunity there, but we are instead working to modify the skill more and in different ways before we test any more upgrade orbs.”
+
+Aoife nodded and generously did as she knew she was about to be asked. “We will have a hundred Tier 14 and twenty Tier 26 upgrade orbs withdrawn from the nation's vaults and delivered for further testing. Sadly, we won’t be able to provide more without concrete results.”
+
+That earned nods all around, but she could tell that Una considered asking for more. And that was why Aoife had spoken first and taken the initiative. The Tier 14 upgrade orbs were valuable, but not so rare they couldn’t spare another few hundred. But Tier 26 upgrade orbs, or worse yet, Tier 38 orbs, which they had scant few of, were things she was unwilling to let slip out of her grasp. Who knew how many of them would be used for other ‘testing’.
+
+Seeing she had gotten all she could on that front, Una continued, “The methodologies behind these new skills are strange and different from all modification techniques we have seen before. I believe it might behoove us to probe our contacts in the Sects. They seem to be taking to these methods with great fervor, and we could learn a thing or two.”
+
+Aoife, having already reviewed those reports, just nodded, but Ailis Andarsan waved a hand in a sharp cutting motion. “I don’t see why we should expend those resources. I think contacting Legend Titan might prove more fruitful, and with him here, we can press him and see if there is anything else he or his people are hiding.”
+
+Aoife didn’t quite believe what she was hearing and looked to Eimhir, then Jaxon for confirmation, wanting to make sure she hadn’t misheard Ailis. She was fairly sure that Legend Titan had simply been a vessel to pass on the skills anyway so she wasn’t sure why Ailis had latched onto that comment so forcefully.
+
+Carefully, she asked, “Are you implying we should attack a foreign Legend who is in our territory as part of a Legend buyout?”
+
+Ailis raised her lip to sneer at her. “No, I'm not so foolish. I simply think there is an argument to be made that the second group of Legends aren’t protected under those laws because they aren’t the named recipients of the buyout. Still, I’m not saying we do anything to them, but we could make it clear they aren’t welcome on our worlds and in our rifts unless Titan is forthcoming with what he has undoubtedly held back.”
+
+Aoife looked to the others in the room, and thankfully saw nothing but variations of bafflement or confusion, indicating that this probably wasn't a coordinated move.
+
+“Even if he had held things back, we have no right to them. As for his status of entering our lands and rifts, they might not have been part of the actual buyout, but as they aren't delving more than their allocated rifts, we have little reason to keep them out. Secondly, tradition and precedent have long been set, though rare they may be in such situations. Third, even if all of that wasn’t true, I wouldn't risk the condemnation, let alone the reprisal, of the other Great Powers when such came to light.”
+
+Having worked up a full head of steam, Aoife growled out, “Ailis, keep your people, your clan members and agents alike, far away from the foreign Legends. If so much as a hide or hair is out of place with them when they return to a Tier 50 with past and future sight, I will not only throw your clan onto the Emperor's sword, but do so gladly.”
+
+Ailis smiled as if she had gotten what she wanted. “So you are truly afraid of the Empire’s Tier 50. I think such cowardice makes you unfit for your position. The Clans need a leader who can stand up to upstart foreigners. Not one who cowers before them.”
+
+Aoife looked to Eimhir, wanting to see if this was a move from him to elevate himself, but he looked genuinely stupefied. That might just be a clever ploy, but Aoife believed it.
+
+For now, at least.
+
+Ailis turned from Aoife and to the other clan heads. “Year after year, the Empire has encroached upon our territory, even when Hastor was in control. A human knuckling under to another human is to be expected, but yet when we have a proper dwarf in control, we still act like a beaten dog. Why are we tolerating such behavior in one of our leaders? I’m confused, I don’t understand why, but I know it's not okay. We accept things dictated at us instead of taking what is ours by right. Instead of attacking the Empire when we had the opportunity, Aoife squandered it under the guise of honoring the deal a human made. I find it unacceptable.”
+
+Aoife didn’t bother with the clown acting out her show in front of her, but instead looked to the other clan heads. Most were visibly disgusted, but there were many who had carefully blank expressions, and several who were openly supportive.
+
+The worst part of it all was Aoife agreed with a lot of what Ailis said. The Clans had been too meek for too long. Once they had pulled down the Federation and retaken their position as the undisputed strongest Great Power, they never should have been so… hesitant.
+
+Sword Saint Hastor should have used his incredible power to knock down all of their opposition, but instead he had declared fewer wars than most leaders, simply wanting to focus inward. She disagreed on principle, but understood why he had stayed his hand, which was why she had followed his final plans.
+
+Taking a breath, she let her voice spread through the room. “For all your gilded speech, you still advocate interfering with another Great Power’s Legends. I think you should carefully think over your histories.”
+
+She didn’t look at Ailis, but instead other clan heads. They thankfully had the proper reactions or at least outwardly showed them, which was good enough.
+
+Ailis sneered and broke through from Tier 46 to Tier 47.
+
+Aoife hadn’t allowed that. The Clans technically had two free slots, but the blatant disrespect to her position and command over those last two slots was flagrant.
+
+A weaker leader might have just accepted that, but Aoife had heard the stories of when Agatha had risen up in a similar fashion.
+
+Except Aoife was no pathetic Tier 50, unable or unwilling to get her hands dirty. Ailis had signed her own death warrant with that move. Aoife just needed to decide how she wanted to execute it and her. There was no reason to let such a useful tool be discarded without extracting its maximum value. Though it did seem that she had been too politically passive since she had taken over if anyone thought she was so weak willed as to allow this.
+
+The fool kept prattling on despite not knowing she was uttering her final words. “If we were as bold as dwarves should be, we would never have allowed things to progress this far. Would the other so-called Great Powers dare to question us if we simply asked a few questions of a guest in our lands? I think not. They wouldn’t dare, given our might.”
+
+Aoife silenced the murmuring with a thought. “We respect tradition because it is what our forefathers did. It was their ideals which shaped us. However, we are our future generations' forefathers and must set good precedents with our actions. Blatantly attacking someone's people with whom we have a truce with is both shameful and stupid. And forcefully demanding secrets from a guest is attacking them. If any other Great Power did such to our peoples, we would undoubtedly treat it so.”
+
+Having carefully set herself up in the position of historical precedence and therefore correctness, Aoife continued, deciding to push a few of the initiatives which had been stuck in discussion, but unable to move forward. “And I do agree we need to push our advantages. We are the strongest Great Power and should strive to remain so. I hereby declare we shall be increasing the birth rates for Dwarves by ten percent.”
+
+Clan heads one and all clapped. Having bloodline cores meant the dwarves were always careful about their lineages, and that meant ensuring children weren’t produced unless there was a sufficient amount of elixirs to reinforce the bloodline. It was the greatest shame if a dwarven clan fell to a simple human status because they expanded faster than they could bolster the bloodline, ensuring the genetics were properly passed on. The sacrifice of the human form helped, but it wasn’t a perfect solution, and in the dark times of history such things had happened. Though such histories were also carefully scrubbed from the record books.
+
+Sadly, the facts were the facts, and even with them giving birth in their dwarven form mainly with other dwarves, the slow and inevitable reversion to a baseline human was unstoppable without elixirs or substantial cultivation dedicated to the bloodline cores which would weaken their overall combat power.
+
+“We will also be expanding our lands. I want our people, industrious as they are, to add another hundred thousand worlds to our holdings in the next five thousand years.”
+
+That got another round of agreement with claps and stomps resounding off the stone.
+
+Good, because she knew the next thing wouldn’t be nearly as popular. “To that end, I will also be instituting an increase in humans to be Awakened. I want to expand our human Awakenings to the top twenty percent of all unaffiliated humans instead of five. Our new worlds will support such expansion as well as feed the new branch clans who will expand into the new lands.”
+
+There were more stoney looks, but there were a few perfunctory claps. Supporting the humans in such a way was risky, but such measures had been done before when the Clans knew they would need cultivators for future war efforts.
+
+Combined with the new aura elixirs, Aoife knew she could create a generation of fighters, which was exactly what they needed.
+
+The other clan heads seemed intent to remain willfully ignorant of what the new skills, as useful as they were, when combined with the aura potions really meant.
+
+The power balance in the Realm was going to quickly become a numbers game.
+
+As seen by the Empire and Federation, just because you Awakened everyone, not all of them became successful. Still, as proven by the Empire, having a lot of people with the human randomness for Talents could prove damn useful, as seen by Legend Shadow whose Talent was so strong, she needed to be removed from the wars at only Tier 25 or see everyone slaughtered.
+
+With their current social conditioning, Aoife believed that they could properly control such an increase in numbers. They had to. If they didn’t, they would start to lose their position even faster and to more than just the Empire, who seemed to be experiencing their own Golden Era, as heretical as that thought was.
+
+Her spies in the Republic and Sects both showed they were also looking to start Awakening more of their populations. Both were moving slowly, but it was happening, and the Clans couldn’t afford to be left behind by the last Great Powers she would have considered willing to do so just a few thousand years before.
+
+“Finally, we will officially declare war with the Republic in fifteen years. Use this time to prepare your armies. Use these battles as a way to sharpen your people, not throw their lives away.”
+
+This time the reception was overwhelmingly positive, and that was when Aoife made her move.
+
+Taking a step forward, she reached out and grabbed Ailis’ head and squeezed. Like an overripe fruit, the newly advanced Tier 47’s head exploded. With a resounding thud, the body fell onto the marble ground.
+
+Front half covered in blood, Aoife looked at the gathered clan heads who had frozen mid-clap or stomp. “For attempted treason against the Clans as a whole, for proposing a course of action that would have led to our people’s annihilation, I declare your life forfeit as well as your clan cast down. I want a plan for a new clan raised before this session is concluded, as well as plans for whose clans will take over the Andarsan dependencies.”
+
+Seeing she was letting them feast on the corpse of a once great clan, the other clan heads resumed their stomping with even more vigor.
+
+Letting the blood continue to flow and make a mess, Aoife returned to her seat.
+
+“Now, we were talking about the new skills and how they are being integrated by dwarven society. I’ve seen reports of marvelous adaptations of [Fire Weapon]. What are your impressions of the skill?”
+
+Raghnall, Tier 47, a dwarf with rings and bands on every one of his extremities, smiled widely, but whether it was because of her question or because of the body lying behind him was anyone's guess. “The reports are anything but exaggerated. If anything, they are underselling the effect. Several of my kin, especially the smiths who are just starting their cultivation journey, have reported great affinity with the spells, as well as…”

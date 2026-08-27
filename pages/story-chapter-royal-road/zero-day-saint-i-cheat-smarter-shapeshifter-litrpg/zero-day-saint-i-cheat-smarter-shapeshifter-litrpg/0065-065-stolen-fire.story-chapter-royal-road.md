@@ -1,0 +1,155 @@
+---
+id: 9430051e-926e-5bd9-810e-b9f6e844446e
+page-type-slug: story-chapter-royal-road
+title: "065 - Stolen Fire"
+slug: 0065-065-stolen-fire
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 65
+ownLength: 1690
+unit: words
+publishedAt: 2026-08-03
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3762106/065-stolen-fire"
+royalRoadId: "3762106"
+---
+
+I landed on top of Mammon Tower and took a moment to survey the city. Here and there lights shimmered in the ruins of New York, but far too few.
+
+"The magical trap at the entrance should be gone now that the demons are dead," Lucy said. "Just go down past the service levels at the very top and meet me in Mammon's former hoard."
+
+I pushed away from the brink and made my way inside. Of course Mammon had his hoard on the highest floors. That had to be where the C-suite bastards had their lairs before. Exactly those who I'd been fighting the good fight against—back then with Claire and the others.
+
+And I had taken the worst of those spaces and claimed it. I wasn't yet sure what to make of that.
+
+Sure enough, after a couple of floors entirely dedicated to HVAC and other tech, the key allowed me to enter a massive chamber within the tower. I stood on top of a mezzanine overlooking Mammon's collection. It wasn't exactly like the den of a fantasy dragon, with a pile of gold large enough to bankrupt the entire continent.
+
+There was a proper art gallery built into this space. Glass dividers that created a small labyrinth of mankind's legacy.
+
+Another space was just heavy metal tables, housing piles of rare minerals, gems, and coins.
+
+And right in the middle of it all, there was a small pool of light, provided by what looked like a pretty ordinary standing lamp, illuminating a whiteboard and Lucy. Who had added a pair of glasses to their outfit.
+
+Because obviously they needed glasses to teach me something. I made my way down to join them. They were drawing something on the whiteboard.
+
+I was fully prepared to see a penis drawing. What I instead saw I couldn't identify. Some kind of diagram.
+
+"What am I looking at?" I asked.
+
+Lucy didn't turn to face me and continued. "You are getting ahead of yourself, young lady."
+
+I blinked. "What should I be asking instead?"
+
+"You should think about a specific question. What do you think the Blessing is, Eve?"
+
+I pulled a camping chair out of my inventory and sat down, observing Lucy as they continued drawing that strange diagram.
+
+"It's like a translation layer, right? We were given this vast power, but without the Blessing dumbing it down for us, we couldn't wield it? At least not fast enough to use the power to fight Hell."
+
+There was something hypnotic in the way their tail swung while they worked. Which was probably a sign that I was dead tired.
+
+"Close, but not entirely correct. Do you think two events happened? You were granted power, and then the Blessing made it digestible?"
+
+I thought about the question. No, nothing indicated that the power and the Blessing were distinct events. Which would mean that the Blessing was the power itself.
+
+But then I thought back on those first hours. Before the Seal had been formed. The Seal that protected our souls and reined in Hell's ability to wield power against us. The entire reason Hell needed Fallen. Fallen allowed Hell to wield power more freely.
+
+"The power. It was always there, wasn't it? It's tied to our souls?"
+
+For this, Lucy turned around. "You make me so proud, you know? You are such a smart cookie." They turned back again. "Yes, correct. The power has been there before, you just failed to wield it. What does that make the Blessing?"
+
+I thought about it for a moment. We had theoretical access to the power before but couldn't use it.
+
+"Training wheels?"
+
+"Gabriel, you truly picked one of the best. Yes, correct again. It doesn't actually allow you to do more than you could do without it. You'd just be long eradicated before you'd ever even begin to understand the basics." They put the cap on the marker and turned to face me. I still had no idea what the diagram was supposed to be. "Say, Eve. Do you have any idea what your soul feels like?"
+
+Before today, I'd probably have said no. But after the events of today?
+
+"Yes? I think I do? When you invoked your creator's name. And then when you killed the other demon. I felt those events in my soul, didn't I?"
+
+"Indeed."
+
+"Did you do all of this to prep me for now? Was any of it necessary?"
+
+"Absolutely necessary. I am nearly certain that demon would have sliced you to pieces if I hadn't intervened there. Those were just lucky coincidences."
+
+"But what is it you did there? How did you kill the demon?"
+
+"Dark Arts. True magic. I made him see an elevator, and then I spooked him into stepping in there. But I can't just do that without a power source. We guides are very limited. You were a conduit. If you were properly Fallen it would have been a lot easier on you. As it were, I pushed a lot of current through a rather tiny wire. You were glowing a bit, but you didn't melt."
+
+They suddenly had a telescopic pointer in hand and pointed at the diagram. "Now what do you think that is, Eve?"
+
+It was a bunch of overlapping circles. And shapes attached to those circles. There seemed to be one larger cluster of shapes and a smaller one, and they were connected somehow.
+
+"I don't have the faintest clue, Lucy."
+
+Lucy shook their head and sighed. "Shame. But it's okay. That's why you got us. If you understood all the secrets of the universe immediately, you'd hardly need guides, would you?"
+
+"What is it?"
+
+"This is a glyph. Or in your language, a microcontroller. A programmed piece of technology, waiting for a current to fuel it."
+
+I looked at it again. The smaller shape was supposed to be me. And the larger the tower.
+
+"And it is programmed to form a connection?"
+
+"Nearly correct, though at this level of magic the distinction is almost meaningless. It is programmed to shout out your intent to form a connection. It shouts into the fabric of the universe that you claim this place as yours. The connection is already there. You've slain the old masters twice. You've shown your power to the other inhabitants. Now all that's left is saying that you accept that bond."
+
+I stood and walked up to the whiteboard. "And this can be done with marker on a whiteboard?"
+
+"Sure. It's reaching into the abstracts beyond reality anyway. If you use candles, chalk, and blood sacrifice for it, or marker on a whiteboard, it doesn't matter."
+
+"Okay. How do I power it?"
+
+"Reach into your soul and pull at that power within. Remember how it felt when I pulled, and try to push from within instead. Maybe put that keycard against the board. Not because it does anything specific, but it might help you get into the mindset."
+
+It couldn't possibly be that simple.
+
+But it was.
+
+I put the Master's Key against the diagram, careful not to wipe away the markings, and did what Lucy had explained to me. Pushed from within, from that weird place inside I hadn't even consciously been aware of before today.
+
+A connection fell into place. For a very brief moment, there was this pulling sensation again, and then it was gone.
+
+I stumbled away from the whiteboard. My task menu wasn't grayed out anymore. There was a presence. It felt like something was pressing down on me. Not overwhelmingly so. More like the change of air pressure in an elevator.
+
+"Huh," I said.
+
+"Gabriel? Ready to risk your feathers?" Lucy said.
+
+And then Gabriel manifested. With the usual chiming sound. Right into the heart of a profane space.
+
+And for the first time since I had met her, she looked nervous. Insecure even.
+
+"What the fuck?" I said. "Isn't this super risky for you?"
+
+Gabriel looked around for a moment, then at her hands and then at me. She smiled. "Not more than a sanctified space is for Lucy. We are well-insulated against the manipulations of the other side."
+
+"Have you ever been to a profane space before?"
+
+"No. You are a first, Eve. Which says more about me not keeping up than about your Fall."
+
+I sank back into the camping chair. This had been a whole lot. Gabriel wandered off toward the art gallery.
+
+I opened my Task menu. There had been a big milestone today. I totally missed it in all the chaos and confusion. At some point in all the carnage, I had achieved my 100th kill while shifted. This was the reward that had given Jamie his indestructible shield.
+
+Yeah, this was a big one. My stomach dropped when I read the name. While Loki was sometimes associated with fire, Loki had never been the one to steal it. No, that was Prometheus in the Greek mythos. And he'd been punished viciously for his crimes. This was the closest Fate had ever come to speaking directly to me and to warn me that my path was a dangerous one. One that could end with divine intervention.
+
+[Stolen Fire (Perk Upgrade)
+
+Permanently alters Loki's Gift.
+
+Your daily shapes now come with stolen gifts from the Aesir or their foes, making them myth-touched.Myth-touched traits are transient.Storage only preserves the shape. Only Embodiment preserves the theft.]
+
+Somewhere within that art collection, Lucy began reciting something. Through the glass walls, I could faintly make them out as they paced along with the words. They held something. A book, or some other print.
+
+I couldn't make out what they were saying. It might have been German? But I could make out the emotion. Never before had I seen them speak with such fervor. There was anger in there. Righteous fury they had never shown me.
+
+I came closer. The recitation only lasted a minute or so. When they were done, they faced me directly through the glass and bowed. They carefully put the print back in its place.
+
+"What was that?"
+
+"Goethe. Prometheus."
+
+"What's it about?"
+
+"Defying the gods."

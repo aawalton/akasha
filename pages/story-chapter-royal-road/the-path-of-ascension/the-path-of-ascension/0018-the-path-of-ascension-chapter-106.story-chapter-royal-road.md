@@ -1,0 +1,365 @@
+---
+id: 18173ffa-0151-5b5f-bd79-fa784da0ac1a
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 106"
+slug: 0018-the-path-of-ascension-chapter-106
+partOf: the-path-of-ascension
+position: 18
+ownLength: 5476
+unit: words
+ownProgress: 5476
+publishedAt: 2022-02-11
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/843702/the-path-of-ascension-chapter-106"
+royalRoadId: "843702"
+markedReadAt: "2026-06-29T19:18:02.757Z"
+---
+
+Chapter 106
+
+Head Sect Elder Winter Hornet looked around the gathering of leaders and met Defiant Comet’s eyes. The woman was glittering with released mana in a wasteful display. For her, it was nothing unusual, but her nod back spoke of understanding.
+
+Smooth Bow and Dual Spear sat together and quietly chatted with their heads pressed together. Their sects were an annoying alliance that always voted together.
+
+They were the fools trying to reform their sects and feeder sects to follow the cursed Empire's path of cowardice.
+
+He would have removed the two, but their Sects were old and held great sway, accounting for nearly thirty percent of the highest Tier smiths and alchemists among the collaborating sects. It could cripple the war effort to alienate them now.
+
+And they were loyal. They advocated for war with the Empire as much as the other Elders. Only, their goals were different. The duo wanted to slow the Empire's growth and recreate its success.
+
+Elder Winter Hornet knew that to be the folly it truly was. The Empire might find the rare gem, but their harsh and brutal training method of allowing the strong to dominate the weak had made them a top Great Power for generations by ensuring everyone of their cultivators were hard as the stones beneath their feet. The Empire might have surprised them in short order, but he believed them to be a paper dragon with one real tooth.
+
+Duke Waters.
+
+Elder Winter Hornet sneered. The man was a monster, that was a fact no one doubted, but he was only one man. The Empire hadn’t allowed their regular troops to fight in nearly three millennia.
+
+The new Emperor was a coward, like his father before him.
+
+A new Tier 50 had to make their mark and show their power. The normal way to do that was to duel the other Tier 50’s, and start a war, or at least fabricate a border skirmish. It was what he had done, and it forced the others to take him seriously. Through his fists, he ensured that no one would try to interfere with his lands.
+
+Emmanuel had only wanted to duel them, which was an outcome that no one would allow. The thief’s Talents were well documented, and no one was willing to allow him a chance at their Tier 50 Talent. In a fight the man might be able to breach their defenses and take what was their core.
+
+It wouldn't do to give the man more power, especially theirs.
+
+If Elder Winter Hornet had been in his place, he would have simply started a border skirmish to show his willingness to fight, but Emmanuel had just sat there.
+
+Then, Duke Waters had been found, and suddenly, the Empire was willing to engage with their Ascender.
+
+That had been an undesirable outcome, but an acceptable one. When a Great Power had the advantage of a cultivator who could punch above their weight, they pressed it. As was right and proper.
+
+No one even contemplated having a Tier 36 or higher go and assassinate the man. That was a precedent no one wanted to set. Besides, the stronger the Ascender, the faster they usually advanced past Tier 35, removing themselves from the large-scale wars for new lands and old planets.
+
+They would just need to wait, and eventually, the man would move on. Then the Empire could be taken down a peg to restore the balance between the Great Powers.
+
+However, Light and Shadow had been found shortly afterwards, and things had changed.
+
+Suddenly, the expensive social reforms that the Empire had been undertaking, which the other Great Powers had mocked, had produced another pair of powerhouses.
+
+In and of itself, that was fine. It was rare, but a Great Power with two sets of Ascenders was not unheard of, and it was usually considered a golden age for the realm. But normally, the Ascenders were millennia apart, not just a few hundred years.
+
+It meant that they would have the pair for far longer than was average.
+
+The Empire had been accused of cheating, but the Coward had provided overwhelming proof that neither he, nor anyone else, had interfered with the general rules that they all abided by.
+
+Ascenders were strong. There was no question about that. But that didn't mean a carefully nurtured chosen one couldn't equal them. There was power in the public perception of someone who had reached Tier 25 in two hundred years on their own.
+
+Most rightly assumed that any Ascender was then given everything they needed and wanted, which only increased their power further. It was true that the cultivators who reached Tier 25 on their own, when given the full support of a Great Power, bloomed. It was adding water to arid soil.
+
+They flourished.
+
+A third batch of strong youths were being raised in the Empire, and the fact that a few were suspected of having the ability to at least make it to Tier 20 while on the Path made the timing urgent.
+
+The other Great Powers needed to attack and cripple the Empire before their lead on the others became so great, they would be left behind and forced to bend the knee.
+
+Looking at the rest of his Elders, Elder Winter Hornet pushed his perception out of the capital planet to see if their visitor had arrived yet.
+
+Two short days later, she arrived with an entourage befitting the next Tier 50 of the Republic. Dicomaty’s replacement was a tall woman with pure, white eyes that drew you in, and with her near the peak of Tier 49, he had to resist the pull even while she didn't use the ability.
+
+The spies he had in the Republic hadn’t learned much about the Talent, but it was known to be her Tier 25. Overnight, she went from just another average cultivator to a Republic sensation, who was unbeatable in a direct engagement. She seemed to also have a partial Seeker ability, rising through the ranks with combat prowess and political maneuvering.
+
+When in use, Janet's eyes drew in attacks, where they then vanished, until she spat them back out many times stronger. So far, no one had figured out how to counter the ability, but he had a few ideas.
+
+Standing, he pushed his perception out and welcomed the party of seven to his capital.
+
+With his five sect elders at Tier 47 and two at Tier 48, he had the strength advantage. But he also had three thousand years to advance his stronger people, where Janet hadn’t. It would be the height of folly to disrespect them now, right before they took full control of the Great Power stronger than his own.
+
+When the group appeared in the meeting chambers, he nodded slightly and said, “Good evening. I am happy to have you visit my realm.” Elder Winter Hornet gestured around. “If you would like, after our meeting, please partake in any activities you wish on my planet. I wish you to feel at home.”
+
+Janet kept her eyes nearly closed and responded, “Once we get the formalities out of the way, I will be happy to take you up on that offer. But first...” She trailed off and glanced to her side, where a burly man with melee fighter cores stepped forward and presented a box with a single, thin and absurdly sharp needle. It radiated so much cold, that during the few seconds of the man opening the box, he was covered in frost. Though, it didn't seem to bother him.
+
+Janet nodded to the box. “With Dicomaty ready to ascend, I have been delving rapidly to reach Tier 49, after securing the general vote. During that time, I had a lucky encounter. A rare permutation of one of our rifts created a Tier 48 Ice Wasp.”
+
+Elder Winter Hornet stiffened at the name, but wasn't dumb enough to think that she was mocking his weapon of choice. No, he could feel the barb was indeed the stinger on a wasp.
+
+In his childhood, he had been a simple slave, who was sent into the deep underground caverns to chip away ice from critical components of the Ice Forges. The Winter Forge Sect had used them to create their special elemental weapons. It was hard and bitter work, where two out of five died from exposure, or ice falling on them. But he had absorbed the cold, and cultivated with it. When he fought his way out of the mines, he had done so with the only weapon available to him. His ice pick.
+
+When he emerged, he discarded his slave clothes and old names for cultivator robes and a proper cultivator title, as he was made an official disciple. That was the start of his climb to the top.
+
+Elder Winter Hornet had never forgotten his humble beginnings or changed his weapon of choice. He had only elongated the handle to fit in his hand better. With the cold, he slowed then killed stronger opponents with his awl, which let him punch through the heaviest of armors.
+
+It was why he knew the Sects system worked, and that the Empire was only getting lucky.
+
+Struggle brought out power.
+
+It always had, and always would.
+
+He nearly licked his lips as he looked at the stinger. It was the perfect weapon to make into a replacement for his elementally neutral awl, which was a full Tier lower than the material presented.
+
+The problem after Tier 47 was the lack of rifts, and the inability to find high enough materials to make proper weapons with. With an elementally aligned weapon closer to his own Tier, he would double his power output without the threat of ascending involuntarily.
+
+“I offer the stinger as a show of goodwill in our alliance to take down the Empire. This is too big of a threat to our Great Powers’ future prosperity to have any doubt in our dealings. Let this show my sincerity.”
+
+Elder Winter Hornet smiled. It was a good show of faith, and he knew he would end up paying for this favor. But whatever future favor this cost him, it would be worth it.
+
+He smiled. “Let us chat. I want to bring in the lesser Great Powers to round out our numbers. Sit, and let us discuss.”
+
+***
+
+Matt and Liz met up with Melinda’s team at the Queendom teleporter, to find his friends dirty and tired looking, but they had smiles on their faces.
+
+“What happened to you guys?”
+
+Tara kicked his shin. “You! You kept attacking our encampment and causing a bunch of stress!” She mockingly pouted. “You owe me for that! I lost a lot of points because of you.”
+
+Matt smiled as Liz retorted, “You could have jumped ship when the Queendom changed the rules.”
+
+Sam scoffed. “Yeah, and join the losers? At least our side won the real war.”
+
+Matt laughed as the three of them started to bicker, and turned to Melinda and Mathew. “So what are your plans? I hear that you’re going to the boonies as well.”
+
+Mathew half shrugged. “Apparently. Baxter wants us to meet someone.”
+
+They both looked to Melinda, who looked back at them with a blank face. “I don't know either. Everyone heard him say the same thing. He was trying to be mysterious.”
+
+Matt didn't care. It would be nice to travel with them either way.
+
+Before long, it was their turn to teleport to the Queendom’s interplanetary teleporter, and they crushed in with everyone else attempting to get into the city that he was just besieging an hour ago.
+
+Relying on Melinda, they made their way to the much larger teleporter, and were quickly transported out. Apparently, with the Queendom’s taking of the Tier 20 planet, the victors rushed to bring in vast quantities of goods, and used the teleporter as fast as it could be loaded on the other end.
+
+When they appeared on the other planet, Matt, Liz, and Aster all started sneezing so rapidly and so intensely, they gave themselves headaches.
+
+Melinda patted Aster, who seemed to have it worse, and covered her face with a cloth mask. Everyone else had already brought out face coverings.
+
+“Sorry, we forgot to warn you. We looked it up after hearing from other in the Queendom. This place has pollen that is really irritating for a while. It will pass in an hour or so, but it's rough.”
+
+Matt looked up through tearing eyes and saw that the air was hazy, and had a purple tinge to it. It was actually really pretty. Or, it would have been, if he wasn't attacked by another round of sneezing.
+
+They were escorted off the platform by the workers, and once inside a sealed room, they quickly recovered, and he cursed himself for not using [Cracked Phantom Armor].
+
+Matt grabbed Kyle, who hadn't stopped smirking, and started jabbing his ribs. “You remembered, didn’t you?”
+
+“Yup!” Kyle said, doing his best to speak while laughing. “That’s— What you get for— Hey!”
+
+Upon hearing that she could have been warned, Aster had frozen his legs solid, causing him to stumble to the ground. There, she pranced onto his chest and started yipping at him.
+
+Her AI messages were broadcast for everyone to hear. “That's not nice. So I'll make you ice!”
+
+She seemed inordinately pleased with her rhyme, and the frost started to creep up Kyle's waist until Matt picked her up.
+
+Sam took Aster and cradled her, loudly whispering, “It's ok. We can put itching powder in his clothes later. The big meany.”
+
+Liz glared at him as well before adding in the same faux quiet voice, “I know of one that lasts for hours.”
+
+Kyle tried to protest, but even his own team was ignoring him.
+
+Now that he had time to observe, Matt found that they had been led into a building for charter ships to the other teleporter. They walked into a private room, dragging Kyle’s still half frozen form from where they left him on a seat.
+
+After settling him, Matt checked and found a local teleporter, but the price was absurd. For each teleport, it was a Tier 9 mana stone, compared to the Tier 3 mana stone for a luxury suite on the slower flying transports.
+
+“Why does it cost so much money? That's ridiculous.”
+
+Matt didn't actually expect anyone to answer him, but a frazzled looking April was suddenly at his side and said, “This is a Tier 2 planet. Mana is at a premium if they want to Tier the planet up in any reasonable amount of time. Teleporters are hungry things, and eat a lot of mana. The Tier 9 mana stone is more a deterrent than anything else. It costs way more mana to activate the formation, but few are willing to pay it. If too many people start paying for it, they’ll increase the price.”
+
+Everyone was looking at her, and she waved. “I'm April. Liaison for their management team.” She pointed at Matt, Liz, and Aster.
+
+She turned back to Matt and flicked a finger at him. “This is the destination Luna wants you to go to. I've set a travel plan for you. It's not a rush, but you don't really have time to dally either. Two larger stops because of teleportation timings, but as long as you follow this, you should be able to travel in comfort.”
+
+Matt was reviewing the plan and complained, “These are all luxury travel plans. I can't afford this.” He paused to ask, “Can I?”
+
+April just blinked at him. “Yes? Yes, you can. It's not even that expensive. But more importantly, there are millions of people trying to get out of Queendom territory, or returning home to said territory. The cheaper accommodations are booked for months.”
+
+Mathew opened his mouth and raised a finger, but April answered, “Yes, those plans included you all. Baxter asked me to schedule for you as well.”
+
+She peered at all of them with a raised eyebrow. “Questions? Comments? Concerns?” Seeing them silent, she continued, “Good. Then I’m off. I won't see you at your destination unless things go really well on my end.”
+
+The woman looked ready and was fading away when Liz asked, “What are you doing?”
+
+April reappeared and quickly said, “Setting up your next travel plans. This war was supposed to last a lot longer, giving me more time before our initial meeting, but Luna wanted us all to meet you first. I’m the new girl, so I get to do the grunt work. Luna wants half a dozen people to spend time with you all in just the next few years.” She sighed. “Anything else? I really need to get going.”
+
+When Liz shook her head, April vanished.
+
+Melinda asked, “What do we owe you for the transportation cost? I didn't plan for that.”
+
+At the same time Vinnie asked, “Who was she?” His eyes lingered on where her lower half had been, and he kept blinking.
+
+Sam reached out to slap him while Melinda did the same. He dodged the attacks with practiced ease.
+
+Matt tried to think back and realized that he had never actually explained to them about the management team.
+
+“Well, because of my abilities, we were investigated and got the option to toughen up The Path with a personal trainer. Their job is to ensure we don't slack off.”
+
+Seeing Melinda's entire team wince at the mention of slacking off, Matt rushed ahead. “So that was April. The liaison for the other two. I guess we won't be seeing her as much as I thought.”
+
+Vinnie made a sad noise before dodging two more slaps.
+
+Melinda straightened up. “As interesting as that is…” She smiled before continuing, “And congratulations, that sounds really important— I don't want charity. We can reimburse you for anything she charges you.”
+
+Matt looked back to the travel plans that said the tickets for the entire travel were already paid for.
+
+He relayed that, to everyone's confusion.
+
+Liz offered, “We have to pay somehow. We’re still on The Path, and can't get free things.” She was flicking through her own AI, judging by the rapid movement of her eyes. “Ah, here it is. Oh. Oh!”
+
+She laughed. “Matt, check your training regimen.”
+
+Not knowing that he could do that, Matt checked.
+
+Time charging mana stones owed: 17 days.
+
+Matt opened his mouth but clicked it shut.
+
+He laughed to Melinda. “Well, unless you want to donate to the mana fund that I’m apparently responsible for, you can't really pay for it.”
+
+Tara offered, “We have some mana stones. If the conversion cost is the same, we can pay for ourselves.”
+
+Matt did the math and shot back, “Unless you have a Tier 25 mana stone, no. Apparently, I’m paying with my mana, and it's dirt cheap.”
+
+Liz actually nodded at that. “I can see that actually. The reason mana stones are worth so much is because they don't change size. For your mana, it’ll take a butt load of storage to fit all that. I bet Luna has something in mind.”
+
+Mathew still objected. “It doesn't seem fair. We don't want charity. We want to shore up our weaknesses and stand on our own.”
+
+He looked between Melinda and Matt. “And to not rely on anyone's Talent.”
+
+Matt shrugged while sitting back in the chair. “I really don't know what you can do. This is something that will only cost me a few weeks out of our travels. I can have it paid off before we even reach the halfway mark, if I donate for six hours a day. We’re going to be traveling for a while.”
+
+Kyle, who was thawing out, said, “Yeah. Jokes aside, this feels wrong. We aren't here for free rides.”
+
+Eventually, they accepted the trip, as there was little else they could do but get left behind to deal with the masses of people trying to leave the Tier 6 planet. It took some light bickering and explanation of all parts, but they all agreed that they would pay their own way after this.
+
+Matt really didn't mind, but kept his mouth shut. He understood, but his Talent was paying for it, making it feel free.
+
+Only a few hours later, they boarded a massive flying ship that soared through the sky, nearing the outer atmosphere to increase speeds. It was still slow, but Matt really didn't want to be outside in the pollen-riddled air. Especially after having to use [Cracked Phantom Armor] for the majority of the time he had been stuck on that golem and war-infested planet. It was as annoying as it was pretty.
+
+Their rooms were amazing. Matt and Liz had a massive shower and tub combo that they relaxed in until they were pruney and cold.
+
+They had planned for a dinner with Melinda's team, but their messages had gone unanswered, and Matt suspected they were as tired as he was.
+
+The war had its downtime, sure, but the stress of never knowing if an assassin was going to attack you, even in the neutral city, meant that everyone was always on alert. It was exhausting in a way he hadn’t realized until the need for it was gone.
+
+Add onto that the stress of leading the last of the Kingdom troops against internal opposition, and Matt just really wanted to sleep.
+
+He was lying in bed with Liz and Aster when he had the feeling that someone was watching him.
+
+That sent a spike of adrenaline, which fully woke him up and startled Liz.
+
+“What?” She didn't bring her head out of the pillow as she asked.
+
+“Liz, could Luna be watching us right now? I just had the thought. If she made notes about us having sex, that means she's really watching us at all times.”
+
+Liz yawned as she cuddled Aster. “Yeah, so?”
+
+“That's an invasion of our privacy. It's creepy.”
+
+He looked around, but saw nothing out of the ordinary.
+
+Liz, to his irritation, seemed unbothered. “Yeah, that's what it means to live with high Tier people. They always know what's going on around them, unless you block them out.”
+
+Matt latched onto that. “How do we do that?”
+
+Liz pulled him back down to curl into him. “Reach a Tier near hers. Or super expensive formations which don't really stop dedicated snooping. She’s going to watch us all the time, but we can still ask her to leave us alone when we sleep.”
+
+Without opening her eyes, she called out, “Luna. Please don’t pay attention when a normal person would expect privacy. Thank you.”
+
+“That's it?”
+
+Liz mumbled, “All we can do. And I really doubt that we’re the most interesting thing going on. She wants to train us, not watch us poop.”
+
+Matt, still unsettled, snarked, “I don't know. Maybe she has a notebook about how we can poop better.”
+
+***
+
+Luna looked into her piles of notebooks and threw two of them out.
+
+***
+
+The next day, they mostly relaxed as they watched the planet pass under them, until they arrived at their destination. It was a large, but under construction city, which housed the teleporter that would take them to their next destination.
+
+As they traveled, they settled into a routine of self-training where they could and relaxation when appropriate. It lasted a week before they all got bored and started to spar when they could. They even bought out rifts when they had longer wait times at the teleporter cities.
+
+The sparring was good for all of them.
+
+Matt had to admit that his friends had improved greatly, and even their AI simulated full contact spars were much harder. He was now unable to defeat them even a quarter of the time. Between Vinnie and Tara, they usually had him quickly pinned down and taken out.
+
+Their coordination was much better, and Kyle and Mathew kept him from attacking the more vulnerable back line. It usually spelled his doom once Tara or Vinnie hit him, or pulled him underground. Tara was able to place shots though his armor if he wasn't concentrating the extra layer on a single spot, and he hadn’t had the chance to absorb his new [Earth Manipulation] skill to counter Vinnie.
+
+He was proud of them for specifically countering him, and once he started to change tactics, things settled back into an even split of wins and losses.
+
+With Liz and Aster helping, they still utterly dominated, but each round got slightly harder as each side learned to contend with each other. They never lost, but they did occasionally have one of them taken out by the end of it. All and all, it was good training.
+
+Matt also spent a lot of time absorbing the skills he had bought.
+
+[Water Manipulation], [Earth Manipulation], [Air Manipulation], and [Fire Manipulation] were all Tier 8 Manipulation skills that, while common enough, sold for a premium because of how useful they were. The cost of one on the open market was usually above a Tier 14 skill just because of how practical they were.
+
+He had also gotten some of the Tier 14 variants, [Lightning Manipulation], [Mud Manipulation], and [Lava Manipulation]. Those were the only three Tier 14 manipulation skills left in the point shop when they left. They were mostly useless in the day to day, as he needed the element available to actually be able to manipulate them.
+
+Matt found that, for all his training, he had relatively awful mana control. Where Liz could weave masterful shapes out of her blood tendrils, Matt was lucky to get water to do more than splash in the direction he wanted.
+
+It caused him to spend more time with his mana control orb, though he used to think that he had gotten quite proficient with it. Apparently, it wasn’t good enough. He found the dexterity needed for the manipulation skills was on a completely different level. He was used to sending mana to spells inside his spirit, which was automatic for him at this point. But manually controlling spells once they were out of his body was another matter entirely.
+
+Manipulation spells were weird. They had an initial mana cost, and for the Tier 8 skills, it was only 50, which he could easily afford with the use of a mana stone. Then, they turned into channel skills, where the skill just needed mana per second to function. That cost was based on the quantity of the element that one wished to move, and how intricate the desired movement was.
+
+The casters' mastery of the skill also increased those limits, while also reducing the MPS cost, as he found out when talking to Vinnie and Liz. Even with Vinnie's innate skill, he had to practice a ton to be fluid with his control. Liz had things slightly easier with her Talent, but water was also just an easier element to move in general.
+
+Matt found his ability to move earth even weaker than his ability to move water. He found air and fire easier, but apparently, most did.
+
+Even with his apparent lack of skill, Matt found it fun to train. Everyone spent time together honing their skills in a single chamber, so Matt could keep them topped off with mana, which allowed them to grow that much quicker. The time together felt less like work and more like busy playtime.
+
+It was like when they were with Annie, Emily, and Conor. They were able to progress the mastery of their skill in a short amount of time when they could practice with zero mana worries.
+
+Matt was pretty sure that he had given Melinda an aneurysm when he asked her for help with the healing skill that they bought.
+
+He couldn't even cast the spell yet, with the initial cost being 100 mana, but he wanted to learn how it worked.
+
+Apparently, “Cast and send mana” was not how it worked. Melinda had started giving him anatomy lessons every day.
+
+Matt tried to commit it all to memory, but knew that he would never amount to much of a healer by the second day. Melinda refused to give up, and even took him to a few hospitals where he shadowed her.
+
+That impressed him. Melinda had a deft touch with the patients, and it wasn't just her Talent. She got people to open up and talk to her about their lives and worries. She put them at ease, and usually made her patients leave with a smile, no matter the horrific condition some of them came with. Baxter was always there, watching in the background, but rarely interfering. Matt thought he saw pride on the older man's face more than once as he watched Melinda work.
+
+When Matt needed a change of pace, he used the rune library that he had bought to practice his enchanting with various items. He had even finally convinced Melinda's team to let him make them a few items that suited them perfectly.
+
+Melinda was the only one with a very minor sub-aspect to her mana, but as it was death-themed, she flatly refused any item with it. She went as far as to get Baxter to tell her how to remove it. Matt thought it was a waste, but kept his mouth firmly shut.
+
+According to the older man, it was mostly an effort of not wanting to aspect your mana with your Concept. Matt listened with the opposite idea. He wanted mana with the endless sub-aspect. That would be amazing for his enchanting work, but sadly, he had zero progress in that area, where Melinda quickly cleaned her mana.
+
+He made a note to ask Luna about that when he saw her next, but they were left alone as promised for their remaining break.
+
+Still, he had good practice enchanting everyone's remaining bits of mundane armor before their halfway mark.
+
+It was around that point that Matt got a message from Kelley, complaining about how someone had stolen the planet.
+
+“Some crazy asshole stole the planet and rift from us, Matt. They just up and swapped planets. We lost it all! And worst of all, she gave everyone a mana stone fifteen Tiers above them, and The Pathers got screwed there too! We just got notes to collect when we fell off. I don't want money! I want my rift back!” The crafter was obviously distraught, while Matt was bewildered.
+
+Liz, on the other hand, started cursing.
+
+“Those idiots! They stole another planet. I can't believe them! They said they weren't watching. If they weren't watching, how did they know about what I did there! I'm going to beat my mom when I see her. I’ll turn her into a chicken!”
+
+She devolved into grumbles about punishment after punishment she would inflict on her parents when she saw them next. Each one became more and more outlandish as she worked herself into a huff.
+
+Matt just found it hard to imagine that her parents had stolen a world. He wanted to ask how that was even possible, but refrained, as he saw how angry Liz was.
+
+Kelley and most of the other crafters, with no reason to stay in Queendom territory, were moving back into the Empire proper. There, they intended to use their newfound knowledge to advance their craft and make money.
+
+To Matt’s irritation, he actually wasn't able to pay off the debt during their travels, with nothing to add the mana to. It would have been nice to be able to do it during his down time, but when he asked, he was told to wait until they arrived.
+
+Three months later, they arrived in the Empire proper, but to a world that was at the edge of inhabited space.
+
+It was a Tier 9 planet that, while useful, was new enough to be crawling with monsters. It only had two cities currently settled and secure. Otherwise, it was an untamed wilderness, though generally hotter than the normal planets.
+
+When they arrived, they were given coordinates deep into one of the continents, and were directed to fly there.
+
+They found themselves in a vast desert that slowly turned into an oven that irritated them all. Even Matt, with [Cracked Phantom Armor], was affected. He had to feel Aster’s misery. His arctic fox was not suited to such dry and scorching environments.
+
+Once everyone was in a bad mood, they found a flying house that hovered over the treetops of an oasis, to find a man waving at them.
+
+“Well, hello. I'm Wrangle, and glad to meet you. Come inside. I’ve heard so many interesting things that I simply must see for myself!”

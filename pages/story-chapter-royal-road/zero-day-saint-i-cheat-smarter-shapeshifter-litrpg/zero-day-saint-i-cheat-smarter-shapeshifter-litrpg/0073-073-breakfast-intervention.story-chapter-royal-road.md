@@ -1,0 +1,181 @@
+---
+id: 84e70955-4070-56f9-975b-d69d6895066c
+page-type-slug: story-chapter-royal-road
+title: "073 - Breakfast Intervention"
+slug: 0073-073-breakfast-intervention
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 73
+ownLength: 2226
+unit: words
+publishedAt: 2026-08-21
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3841872/073-breakfast-intervention"
+royalRoadId: "3841872"
+---
+
+When the discussions were over, my plan had been to grab Helene and discuss a strategy I'd been cooking up.
+
+Instead, Jamie and the others—Liz, Ash, Stephen, and Helene—all intercepted me.
+
+Stephen was the one to proclaim their verdict. "As the group's primary support provider, I hereby declare that we will have breakfast. You've been lost for three days, we had you back for half a day, and since then you've been nearly entirely absent."
+
+Without another word, the others produced two camping tables, enough chairs for everyone, plates, cutlery, and food. Even a bowl, some Cinnamon Toast Crunch, and milk.
+
+I sat down. "Thank you, guys."
+
+Liz squeezed my shoulder as she sat down. "I love the new look, but you have to tell us the story." She looked over to where Team Zoo was setting out with Team Anthony in search of a new base of operations. "Also about your takes on the new folks."
+
+I searched her smile for any hints, but I couldn't make out how much she knew. There was no way she could tell that Sarah had asked me out. Every conversation had been tracked in the chat log. Sarah hadn't said anything.
+
+"And before you run off after this," Ash said, "I would appreciate your help with something soon. Doesn't have to be today, but tomorrow would be good."
+
+"What do you need?"
+
+"Someone with experience in mechanical repairs. Claire mentioned—before all this—that you had some experience with car repairs. I want to fix up a non-wyrm infected old van. All the books I found had excellent theoretical and technical details, but there is a certain gap when it comes to turning that into practical application."
+
+I nodded. "I'll find the time. Nail me down on this. Ideally, first thing tomorrow."
+
+Ash smiled. "Thank you. Now how did you get another new look?"
+
+I told them basically everything that happened since I went off to search for Jason yesterday. I only left out the details of Devil-Eve's visit. And my Guides' developing relationship. And what the entity in the tower had called me. I ended with my vision, or whatever that was, of Nemesis just earlier.
+
+While the others sat in stunned silence, I ate my cereal.
+
+Stephen was the first to speak up. "We should loot that tower. There has to be food in there, with intact cooling."
+
+"Not just that. Fresh food, too. Hydroponic gardens. And so much more. Medical supplies. Tech supplies. If I understood correctly, in there, the Wyrm doesn't control the tech. Honestly, I probably can't grasp yet what those rich fucks hoarded."
+
+"So, when?" Stephen asked.
+
+"After noon? I have a plan, and if it works, Helene should hit level 20 soon. And I might get a couple of levels along the way. Then I wanted to team back up with you folks. We can hit the tower, pass by the mall, and then get back on the grind?"
+
+Stephen nodded, satisfied.
+
+But also both Liz and Jamie, who'd been sitting next to me, leaned forward. Couldn't hide anything from those nosy boy scouts.
+
+I looked between them.
+
+"What?"
+
+"That plan of yours—care to elaborate?" Jamie asked.
+
+"You did sound like you knew this was a bad idea and that you wanted to wait until we were gone to discuss it with Helene," Liz added.
+
+"Ugh. Screw both of you. I get first kills from chimeras. For each of them. So the plan is simple. I give Helene the staff I got from the Gnoll Queen. I—"
+
+"What staff?" Helene asked.
+
+"It's a staff that'd allow you to command hyenas in a wide area. I'd give that to you, then murder as many chimeras as inhumanly possible in that jungle behind us. And should I start losing the struggle against the aura, I'd activate Power Through, swap to Dire Hyena, activate Spectral Tackle, and you command me to get us out. I could make a level every couple of minutes."
+
+"That's one of your rougher plans, Eve," Liz said.
+
+"I know."
+
+I looked over at Helene. I knew I'd been asking a lot of her. But the way she sat there, motionless and pale, her breaths shallow—I realized I entirely missed the important question I was asking.
+
+Helene closed her eyes and took a deep breath before she responded. "No, I cannot bring my dogs into that jungle. They aren't affected by profane spaces like we are, but this? This is like that first night. There will not be a repeat of that night."
+
+"Fuck. Sorry, I—"
+
+"I'm not done. We can do this. It'd be just the two of us. And I agree with Elizabeth. This is a high-risk, high-reward plan. You understand what you are asking me to do to you?"
+
+I nodded. "It'd be a contingency in case I already lost control to something else. If that happens, I'd prefer to be steered in a way that gets us out of there."
+
+Helene held my gaze for a moment before she forced a smile back on her face and addressed Jamie. "Jamie, will you be a dear and take care of my boys for a bit?"
+
+"I'd steal them forever if you let me," Jamie replied. This turned her smile into a real one.
+
+"Thank you," Helene said.
+
+Leaving them behind with the others was the first time I saw the dogs misbehaving. They pulled on their leashes and whined until Helene was out of sight. I could hear their quieter whimper for a while longer.
+
+We stood at the jungle's threshold.
+
+"Sorry that I came up with this terrible idea," I said.
+
+Helene had equipped the Elven Cloak again and was already bonded to the staff. She had also injected herself with an earlier and weaker version of her serum. One meant for humans, though it barely did more than Stephen's food buffs.
+
+"It is for their benefit. We do this so my new subclass can better protect them."
+
+I had swapped into the demon scout shape to activate its Cloaking spell. The spell would last, even when I left the shape. With Helene wearing the cloak and me under the spell, we'd be testing Nemesis' awareness of her territory. While Gabriel hadn't entirely approved of our plan, she'd also explained that it was unlikely that Nemesis was omniscient of events in the jungle.
+
+I accepted the transformation into the new chimera shape. It was a Deer-Monitor Lizard chimera. This one felt weirder than the previous one. Legs that were meant to end in hooves ended in clawed feet. The body was too close to the ground, the gait all wrong.
+
+But still, this one could run. And even just tilting my head this way and that, I knew those antlers were vicious—and under the purview of my not-too-shabby Horns skill. One-shotting that Flesh Golem in the first night had given it a considerable boost back then.
+
+Not as high as my Beak skill was thanks to the Mammon kill. But not bad.
+
+I looked over at Helene and nodded. We had agreed that carrying her on my back was only for emergencies, as it would hinder my ability to fight and shift. She also carried some additional potions and concoctions from Stephen's daily supply, which she could throw more freely that way.
+
+We crossed into the jungle. The effects were more intense than the last time. The golden retriever's instincts had definitely shielded me.
+
+But I had been fighting against my various bodies' desires and instincts throughout the entire end of the world. I had practice. The risk was getting blindsided and losing my focus.
+
+"How are you holding up?" I asked through Queen's Voice. I kept my eyes focused on the undergrowth ahead.
+
+"Worse than anticipated—more insidious. I had expected something blunt, like if I made a serum to invoke anger. Or more similar to the greed in the tower. But I can feel it worming through my mind, looking for openings."
+
+"Want to turn around? We will get you to twenty no matter what. Doing it here is for my benefit."
+
+Helene stepped forward. "No. This will not be the last attack of its kind. The earlier we learn to deal with those, the better."
+
+"Let's get killing then."
+
+And killing we did. The hardest part was not letting the thrill of the kill carry me along. And not losing focus to the weirdly pleasurable agony of the transformations. And not going mad from the paranoid feeling that we were being followed.
+
+Besides those entirely manageable issues, the plan was a huge success. Helene was close to level 20. I had gone through eight different shapes.
+
+The jungle was much less crowded than when Nemesis had sent her horde after us. Now the chimeras were patrolling, hunting us and each other. Sometimes we found signs of battle. Or fought a chimera that was higher level than the others, and bloodied from its previous victims.
+
+Once we even found two in battle, which sadly only got me one first kill. The transformations were too slow to do with a bloodthirsty monster going for you.
+
+With the constant fighting in different shapes, just about every natural weapon skill had reached level 15 already.
+
+The simplicity of it all was intoxicating. The chimeras had zero chance to sneak up on us. My senses made sure of that. And our rudimentary stealth allowed us to get close to them so there wouldn't be any running.
+
+I was just tearing into the heart of a just-slain, particularly nasty Gorilla-Black Bear chimera, myself injured and down to two-thirds of my health, in a Giant Anteater-Cougar shape, when a sound made me understand one fatally flawed assumption.
+
+It was the twang of a bowstring. My paranoia hadn't been unfounded.
+
+There was a nasty tearing sound, and Helene groaned as an arrow pierced her torso from behind. Its tip emerged from her chest, gleaming with her blood. Helene looked down at it, stunned.
+
+I threw myself over her when another twang announced another arrow. This one hadn't been aimed at her—it got me right in my left hind leg, where it started sprouting brambly vines. For a moment I knew that Team Zoo had betrayed us, that they all had Fallen and were now coming for us.
+
+But the arrows didn't fit. The vines didn't fit. The arrows were wood with steel tips. Not the modern carbon arrows Alex had used. Inaaya's vines hadn't been this thorny, brambly.
+
+And I didn't want to wait for it to sprout further. But sadly, neither of this shape's ancestors had opposable thumbs. I was down to half health and had no idea who or where our enemies were. So I just pulled Helene closer, careful not to disturb the arrow further, and leapt away with her, the brambles tearing painfully at my leg, away from the direction the two arrows had come. And from which a third arrow had come, just as I jumped.
+
+I kept going until I found cover behind a large tree, where I put Helene down, once more careful not to touch the arrow. With her in safety, I twisted and gripped the arrow with my teeth before I pulled it out. It had been jagged. It hurt like a bitch. It started growing vines around my mouth. I bit down harder and shattered the enchanted wood.
+
+Helene was already gripping her own arrow.
+
+"Wait," I said as I dropped the chimera shape and returned to my infernal self. I could see the life force draining out of Helene. Not waiting for her reply, I pulled out my multi-tool, moved around her torso, and cut off the back half of the arrow.
+
+"Now."
+
+Helene nodded. She held on to the arrow and… didn't do it.
+
+"Can you?" she asked.
+
+"Ready a potion."
+
+She pulled her hands back from the arrow, and a purple potion appeared in her right hand. I gripped the arrow, ensured I was pulling straight, and yanked it out. Helene groaned again and immediately downed the potion. Instead of instantly replenishing her health, it started slowly flowing back. She had also had a buff with a three minute duration.
+
+"Regeneration potion. Figured that one out last night," she said.
+
+"Nifty."
+
+I peeked around the tree, just long enough to see the heat signature of two humanoid bodies, standing out starkly against the background, even here in the humid jungle. One was also aiming at me.
+
+I pulled my head back, just in time for an arrow to whiz by. Not Jai. Or not just Jai.
+
+"Fuck," I whispered. "I can see them in this shape, but this shape sucks compared to all the others."
+
+"The other demon shape? The one you used in the tower?"
+
+"You saw how well that went."
+
+I saw three options. I could gamble that they weren't as well covered against scent as they were against sight and use the dire hyena. Not as good as the wolf, but close enough.
+
+I could gamble that I would absolutely-the-fuck-not lose my temper, use my Shape Echo to return to the warrior demon, and tear those fuckers apart.
+
+Or I could gamble that our contingency plan 'Scorched Earth' would work exactly as we hoped for and those assholes were not prepared for a kitty going nuclear on them.

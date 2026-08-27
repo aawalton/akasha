@@ -1,0 +1,395 @@
+---
+id: 4006ce53-18f1-5176-9dd2-12d87e07734c
+page-type-slug: story-chapter-royal-road
+title: "295 A Convincing Argument"
+slug: 0254-295-a-convincing-argument
+partOf: the-new-world
+position: 254
+ownLength: 6676
+unit: words
+ownProgress: 6676
+publishedAt: 2021-03-20
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/649949/295-a-convincing-argument"
+royalRoadId: "649949"
+markedReadAt: "2026-06-29T21:29:50.987Z"
+---
+
+Opening my status, numerous notifications came pouring in. The first one was unexpected, but welcome nonetheless.
+
+Congratulations! You've learned the new skill Lightning Generation.
+
+Lightning Generation(lvl 13) - Many wish they wielded the powers that lay dormant at your fingertips. Use it wisely. Allows the user to generate electricity.
+
+Congratulations! You have fused the normal skills Lightning Generation, Electrical Clasping, Lightning Eater, Throwing, and Deconstruction into the unique skill, Empowered Automaton. 168 Skillpoints awarded.
+
+Empowered Automaton(lvl 12) - You walk in the wake of energy, and it flows through you, augmenting your every move. Grants the better use of electricity, giving the user empowered stats while charged.
+
+Mass Manipulator has been enhanced by the mythical skill, Hunter of Many. This has turned Mass Manipulator into Mass Molder.
+
+Mass Molder(lvl 74) - Most are given a shape and form, and they cannot change it. You are fluid, and in that fluidity, you find power. Allows the user to alter densities of matter slightly and gives the user the ability to change one's shape more quickly.
+
+It was an absolute outpour of skills, which was a nice bonus. Lightning Generation came from using electricity as a weapon against the twisted Sentinel. Considering the massive streaks of mana based lightning I spawned during my mana charging, electrical generation was something I'd expected a while back. Using it actively as a weapon must have made the difference here for learning it.
+
+As for the unique skill, I revved it into action as I read on. Empowered Automaton gave me a slight tingling sensation like I was charged with static. Giving it a bit more juice, electricity hummed through the water, killing a few nearby fish. Remembering where I was, I silenced the skill so I wouldn't kill nearby people. Giving myself a mental slap, I continued thinking.
+
+The stat bonuses from the unique skill seemed negligible, but the actual electricity proved quite volatile. Charging myself and fighting while super-heated would make me even more challenging to approach. It gave me a few new ideas for making other skills oriented around putting myself through hell. With my sheer tankiness, I could walk around in a perpetual storm of various elements.
+
+Everyone around me would suffer, but I'd be just fine. Ice, fire, electricity, gravitation, magma, and wind, I could just plant those streams of magic over myself then launch my body at an enemy. It would be more straightforward than aiming and maintaining mana at a distance, albeit a bit unconventional. This meant more powerful streams of those magics as well.
+
+That came down to a matter of distance - the further a magic's epicenter was from me, the more mana it cost to maintain. Where I used my mana decided most of its efficiency, so putting it right at my center of mass made the spells more effective. Of course, it wasn't as if I was hurting for mana or anything, but I pinched pennies where I could, even if I didn't need them.
+
+Putting those ideas aside, I checked out Mass Molder.  It was a slight augment for my Mass Manipulator skill, and it just made modeling my armor easier. Useful, but it wasn't a deal-breaker. I probably earned the ability from taking out the Hybrids with my hook attack. Considering the efficacy of that, I remembered this skill for later. It might do me more good than I initially presumed, but I'd have to wait and see.
+
+Either way, it was time for me to check out other parts of my status update. I got a nice stockpile of skillpoints from all the skills I learned and leveled. That was something I forgot in my previous status check - selecting my next tree. It had been so long that I forgot about the process in general. Opening my menu, I perused my options.
+
+Purger(Clear a quarantine)(0/250) | Owner of Worlds(Own a habitable world)(2,500) | Anomaly(Be singular in nature)(2,500) | Creator of Armies(Generate a formidable fighting force)(2,500) | Immortal(Have a possible lifespan of over 100,000 years)(2,500) | Builder(Build over ten buildings that are livable)(150) | Conquerer(Take a city by force)(1,500)
+
+Each of the trees drew me in for different reasons. Purger and Builder seemed like quick, easy boosts in their relative abilities. Builder, in particular, played a crucial part in making my colonies from here on out. Purger probably assisted with quarantines, which Plazia-Ruhl still hadn't created. For now, I put that on the back burner.
+
+Owner of Worlds appeared useful, as I planned on owning several worlds. That being said, it would be a hot minute before I got ownership of another planet. On the other hand, Creator of Armies stuck out as one of the most appropriate choices. Unlike Owner of Worlds, Creator of Armies helped me out right now, letting me boost my armies or help make them better. That was always useful, and it would be for the foreseeable future.
+
+On the other hand, the Immortal tree wasn't my cup of tea. It took me, like, three seconds to regenerate to full health. I didn't need more survivability, which I guesstimated the tree was about. Online searches didn't help me out there. As for Conquerer, that tree seemed the least useful. I had no issues wiping out populaces. If anything, my most significant limitations revolved around not killing other people while slaughtering enemies.
+
+After weighing those options, I stuck with something simple - Builder. Yeah, it was pretty basic, but sometimes, choosing vanilla was the best option. Doing just that, I funneled all my points into the tree. It rewarded well after that.
+
+Most Sentients use their lives to destroy. They break others, the eldritch, and even themselves. When they pass, nothing lives on after them. You've chosen a different path, one that leaves behind a bounty for others. Whether after death or before life, your chosen marks remain.
+
++10% Building Speed
+
+This decision, the one of creation, is a difficult one to resolve one's self for. It involves giving away your ego and the drive for personal power. In this way, many of your current decisions revolve around those around you. It takes a strong mind to give to others, and you are an example of that strength embodied.
+
++10% Building Speed
+
+This strength acts as a beacon for others. You shine brightly, casting an overflowing light onto those that congregate in your glow. That glow manifests as the comforts of living well; no rain nor wind will lash your friend's backs. No monsters will rush through their doors, and no cold will bite their fingers and toes.
+
++10% Building Speed
+
+This protection creates community, a shelter for those that need an escape from a harsh reality. You forge a new one in place of a callus nature, an existence that is warm and comfortable. This allows others to grow in kind, and in that way, you've created a garden from which others may flourish.
+
++10% Building Speed
+
+For their growth is your own, and in their tempering, you can only smile. You are but a piece, yet still part of the whole. You relish in this task, for you are a builder of homes and a crafter of comfort. Take pride in it.
+
++10% Building Speed | 100% increased learning speeds for construction based skills
+
+It was a humble but welcome addition to my trees. It synergized with my current building tasks, and I appreciated the learning speed increase. Considering the number of colonies we'd be making soon, this was a wise decision long-term. Figuring I'd get my other small tree out of the way, I invested into Purger in the same way.
+
+To purge is more than to destroy. Yes, you must eradicate the filth present and preserve the lives of those still living. More than this, you act as a cleansing agent, one that goes through the land and restores balance. This balance exposes itself as new growth. By culling the old, you make way for the new.
+
++4% Damage In Quarantined Areas
+
+This fresh restoration requires the culling of what lingers on. In that manner, don't mistake yourself as a reaper of these lost souls or infected people. You are granting them peace so that their families may live on. You are giving them a future worth living, one that is brighter than the dim present they bask in.
+
++4% Damage in Quarantined Areas
+
+A light bringer, a dawn treader, and a dark culler, you walk forth through desolate lands and aged spaces. By choosing this path, you make a path for those behind you. By making a situation less grim, you allow others to do the same. Set these precedents, and you grant others the right to follow you.
+
++4% Damage in Quarantined Areas
+
+And they will; you grant security and peace. Your presence, though basked in death, is a comfort to those around you. You exist not as a plague doctor that omens death but as a vaccine that promises life. The helpless, they peer at you in awe. Their fear is multifaceted, as it contains joy and retribution as well.
+
++4% Damage in Quarantined Areas
+
+This retribution comes in the form of continuing on. Though upon the graves of those that have perished, their lands are now clean of infestations. That is because of you as you are the purger of vermin.
+
++4% Damage in Quarantined Areas | +10% Speed in Quarantined Areas
+
+Once more, these were simple, useful bonuses. Unlike the larger trees, these didn't change my build or grant me wide, sweeping bonuses. They simply assisted me with specific jobs and tasks. Considering I planned on clearing fringe worlds eventually, it was good to get this out of the way. That investment left me with only a few skill points left. Taking a glance at my other trees, I put the rest of my points into Creator of Armies.
+
+It served me best for now, and with that handled, I checked out my status. Without really thinking the situation through, I just poured all my points into endurance. At this point, the multipliers worked like a charm for me. With that handled, I opened my status and gave it a look-see. This seemed like a nice bump up as far as stats were concerned.
+
+The Living Multiverse(Lvl 18,461 (Cap: 26,000) | Current Influence: The Rise of Eden | Class: Sovereign)
+
+Strength – 90,951 | Constitution – 113,694 | Endurance – 232,558
+
+Dexterity – 48,012 | Willpower – 186,592 | Intelligence – 116,592
+
+Charisma – 45,946 | Luck – 65,096 | Perception – 35,016 |Awe - 5,201
+
+Health: 920.8 Million/920.8 Million | Health Regen: 31.6 Billion/min or 527.4 Million/sec
+
+Stamina: Infinite | Ambient Mana 5.402 Trillion
+
+Mass: 21.3 Million Pounds(9.7 Million Kilos~)
+
+Height: 17'11 (5.46 meters)
+
+Damage Res - 99.27% | Dimensional Res - 100%
+
+Phys Dam Bonus – 115.7 Million % | Damage Bonus – 40%
+
+The Rise of Eden - enhances base stats by 30%, increased to 40% to allies within aura's radius.
+
+Mana Conversion - 7.1 Billion mana/min siphoned into runes and armor.
+
+The gains were incredible. Due to all of my trees and multipliers, my mana generation continued exponentially increasing. It made me wonder if Schema would install a cap for some of my previous perks just for me. I mean, I doubted anyone else beat me in endurance. That could very well be the case for willpower as well.
+
+Either way, everything else bolstered over time as well. In particular, my ambient mana jumped up an enormous amount from my last fight. Eating a Sentinel and tons of boosted hybrids tended to do that, and it was a good feeling knowing those efforts were getting recognized. As for every other stat, the gains were gradual yet inevitable.
+
+It was a great feeling as my hand hovered over the finalize button. Right before selecting it, I jolted out of my daze. I remembered my Sovereign transformation and how violent it was. Keeping that in mind, I flew up above the sea, treading into unknown waters. Fifteen minutes later, and I gained access to a small island on the surface. With some molded fabric, I put myself into a cocoon of my dimensional threading, hoping it would contain my power-up.
+
+Selecting finalize, I figured out quickly it would not. The sheer size of my stats meant the amount of mana Schema siphoned to me was abnormal. If anything, it might be the literal highest amount of mana he sent towards anyone. That meant lots of energy transferred, and with energy came heat.
+
+Lots of it.
+
+I scorched the ocean around me, the island burning into a pit of molten glass. As it sunk deep into the ocean's depths, an enormous geyser formed overhead. The water poured towards me and evaporated in mass, resulting in a gigantic whirlpool. This oceanic event left a substantial chunk of the surrounding sea drying out, and water from far off poured in to compensate.
+
+That was about all I could comprehend at the time. It took all of my concentration to not be driven insane by all the mana. It was energy incarnate, a swarm that left me reeling. My vision faded like last time, and the resulting bonuses went unnoticed for that reason. I mean, how could I feel my mana increasing when I was melting?
+
+I couldn't, and so this process continued for a few minutes. By the time it finished, my own body had turned into a semi-molten slop. Concerned for my well being, I held myself together for a moment using magic. I generated something similar to my standard shape using hundreds of gravity wells, but I still deformed under the mana streams.
+
+And yet, I lived. If anything, it left me stunned by my absurd, unending vitality. The fact of the matter was this - I'd never taken this kind of damage from anything else besides my class unlock. My stat increases were more dangerous than my actual fights now, and keeping that in mind, I intended on splitting up my next series of level-ups. If I took only a thousand attributes at once, it wouldn't be like this.
+
+That was a relief. Either way, I finished my status work before soaring back to base. Once there, I found most of the gialgathens had returned from the eldritch luring mission, but a few were missing. Krog and Chrona were included in that bunch, along with a few of the more militant members. I landed amidst the returned gialgathens in a plume of uplifted sand and water. As I did, a smaller gialgathen telepathically spoke to me,
+
+"There you are, Harbinger. We've gathered the eldritch while you were away. Our elite are pulling them together, and we will carry Amara with us whenever you're ready."
+
+I gave him a nod, "Let's go then. It's time."
+
+We headed out, crossing over Elysium territory. I blocked and deflected attacks as we passed, melting any clusters of Hybrids while floating overhead. It took the pressure off before we breached into the countryside. Here, few signs of Elysium showed themselves outside of the superior transport systems. The waterways powered by the leviathans were impressive as always.
+
+So impressive that I didn't tear them down. That kind of direct, economic damage wasn't going to win the natural populace over, and it hurt the Vagni more than Elysium anyway. For now, I let those kinds of boons help out the native public, and I intended on implementing something similar soon.
+
+That required the Vagni's support, however. Crossing the rural villages, we landed far past them into the eldritch's territory. Only the small fry monsters remained, the air thickened by dispersing mana. That source radiated off past a trench, where Krog and Chrona floated along the surface. Following them, shifting eldritch tore at one another, and they created vast ripples through the ocean.
+
+These were the precursors to world eaters. During this highly competitive stage, thousands of these guys roamed the world harvesting organic matter. This gave them tremendous girth but a low density, but they still intimidated even seasoned veterans. The titans stood hundreds of feet tall like Kaiju, ready to tear down a city. They held no shape, however, and this free-flowing form gave them a unique breed of horror.
+
+Unlike a monster with a shape, these were like amorphous nightmares. They existed almost like concepts instead of actual things. If one came rushing over an ordinary city, they would've smothered it, a tidal wave of darkness. That ability to harvest a world's resources reminded me that these guys acted as one of the eldritch's highest evolutions.
+
+Despite that, these prefringe eldritch paled in comparison to their final forms. A Spatial Fortress darkened a planetside, mirroring an eclipse or new moon. These guys stuck to casting shade over hillsides. Well, I wasn't the kind of hillside they'd be pulling that off with. I turned to Amara, who still messed around with her status beside me. I sent her a message.
+
+Daniel Hillside, The Harbinger of Cataclysm(lvl 18,461 (Cap: 26,000) | Class: Sovereign | Guild: The Harbinger's Legion) - Start sending the broadcast. I'm ready.
+
+She gave me a nod, and for some reason, even the eldritch appeared confused for a moment nearby. I ignored that strangeness once the Hybrids and Vagni began staring forward. A few attempted smothering the screen popping up in front of them while others gawked at the fight between the behemoths in the distance.
+
+For me, nothing appeared, but I had faith in Amara's skills. I charged mana into my blood. It took a few seconds of charging before I fully inundated with energy, and as I did, a familiar sensation returned - hunger. Some type of voice appeared in my mind, and it screamed out to kill, maim, and murder. It wanted to rip corpses and relish in the ensuing carnage.
+
+I raised my eyebrows, taken aback by the sensation. I hadn't experienced this since before killing Yawm, far back in my early days of gaining my armor. It had terrified me at first, and I didn't know it was a natural part of having high amounts of mana. In general, my willpower tended to smother my high mana's mental effects, but now, those disturbances outdid my passive mental resistance. However, these voices no longer whispered. They symbolized the size of my mana, and my recent gains turned those whispers into the howling of an abyss.
+
+And from that abyss, their screams echoed until they were deafening.
+
+I smiled at the sensation, my hands shaking a bit. Though this presented a more immense challenge than before, I was no longer some naive schoolboy. I was the leader of a legion, and that armed me with knowledge. Using that experience, I shifted my mana to quintessence, the voices turning from howling demons to motivational angels.
+
+I wanted to build, create, and make something of myself, but that wasn't helpful for what I was about to do. Taking a moment, I held my breath steady before pulling my mind to a singular point. Wielding this condensed mindset, I crushed the sensations, urges, and conflicting disturbances caused by my mana. It could howl all it liked, but that didn't mean I had to listen.
+
+They silenced in moments, and I stood over them once more. Thinking on it, this mana-based outburst explained quite a few oddities. My armor acted on its own in my fight against the Sentinel. Most likely, that was under the influence of my ascendant mana. It could be helpful at times, so I kept that in the back of my mind, having put those old demons back to bed.
+
+Returning to violence, I shifted back into my ascendant wake, Event Horizon. Knowing that would be the most effective aura, I launched myself towards the battle taking place before me. Krog and Chrona flowed around each other in action, both a marvel on their own but a miracle together.
+
+They were like water and oil in a glass, both so intertwined I could hardly tell the difference between them. This coordination had reached new heights, and that connectivity demonstrated itself with each of their shifting strikes. They kept the eldritch at bay, doing well in not harming the monsters overtly. Chrona, most of all, could've obliterated the eldritch with her temporal dilation. However, keeping in line with the mission, they left these beats intact for me.
+
+I appreciated the effort while closing in. Half a mile away, the eldritch slowed their fighting, unable to ignore my presence. At a quarter-mile, they glowered in my direction. Once I became more than a blot in the distance, a chill ran up their spine. The smallest began taking steps away, but it was too late.
+
+I was upon them.
+
+Within my grasp, I held the runners firm using powerful gravitation. It stunned them, leaving them unable to move but still able to stand. Knowing I needed to convince the eldritch to submit, I let the voices of my ascendant mana speak through me. This meant not suppressing the desire to destroy, and I took on this more monstrous persona.
+
+In a way, it was liberating.
+
+"So, it's good to see you all still have some fight in you. You'll need it for what's to come."
+
+I kept my cipheric runes calm, not channeling my mana. Some of these eldritch still sensed something was amiss, and they were smart enough to listen to that instinct. However, a few, the brave ones, spoke out in fractured voices,
+
+"Who are you, little one?"
+
+"He gives us little to fight over, doesn't he?"
+
+"To speak in tones knowable to us...interesting. Perhaps this sheep is a wolf in disguise?"
+
+I'd heard the whole 'wolves' schtick more than enough by now. I raised a hand,
+
+"I have a mandate for each of you. You will now be my apostles, and you shall teach the Vagni that I am your ruler now."
+
+The most massive eldritch snickered, the largest of them then smiling with its many mouths. Its eyes locked with mine, and it cackled,
+
+"You would rule us then? A tiny morsel, so small that you disappear in my shadow?"
+
+It snarled, "You speak with no meaning, and you cast out words without thought. I tread horizons, and I carve them of their worth. I leave nothing behind me, a bringer of desolation. Within my grasp is the world before you, and yet, you, a tiny, measly youngling, believes you may contain me."
+
+It hissed, "Know what you are, or others will remind you."
+
+I charged some mana, my cipher runes beginning to swell. The smaller, smothered eldritch wrestled in the grasp of my mana, but the larger ones held their ground. Decades of being on top of the food chain numbed their instincts. It was about time I reawakened them.
+
+"I believe that each of you has forgotten what fear is. Perhaps you have become gluttons, growing fat on the weakness of others. I forged myself amidst the powerful, and I have come out of that forge as the strongest. That strength is my weapon, and you will listen to me, or you will suffer."
+
+They no longer laughed, a few of the larger eldritch taken aback. The largest held its ground still. A few of its mouths smirked,
+
+"And what will that suffering entail? An upset stomach after I engulf you?"
+
+I charged further, allowing a weakened version of Event Horizon to leak out. It crossed over to the bravest amongst them, and it shivered. A few of its eyes showed concern, but the eldritch remained steadfast, its confidence absolute,
+
+"If this is all you are, then you are still nothing."
+
+I increased my runic empowering tenfold, and by now, they understood the scale of my mana. They saw horrors, a shackled monster of many mouths, eating itself without end. Even Mr. Big Boy took a pause, his eyes widening from the first inklings of fear. It mouthed,
+
+"This...This is an abomination. You are...a monster."
+
+I increased my charging yet again by tenfold, "Are you beginning to understand who you're dealing with?"
+
+I pressed Event Horizon into its body like a steel nail through a soft palm. The eldritch grunted out in pain, its underwater form shaking in agony. It let out ripples as it gasped,
+
+"Cease that aura. It is aberrant. You, you're a mangling of nature, and you should be killed before you cannot be stopped."
+
+And yet again, I multiplied my mana channeling. At this point, all of the eldritch cowered before me, several forced to bow from just the pressure alone. I needed no magic. I needed no direct threats. They understood that if they disobeyed, they'd be the next morsel fed to the cipheric runes.
+
+The largest among them was the last left standing, and I pressed over him like a behemoth. I really played up the whole larger than life Harbinger thing,
+
+"You've made a grave misunderstanding, little one."
+
+The largest fell down, unable to sustain its weight anymore. I leaned over him, placing a foot onto one of its eyelids,
+
+"I passed the point of no return long ago. That barrier, the one of infinity, is one I'm more than comfortable in now. Knowing that, you understand what I can do to you, don't you?"
+
+The eldritch shivered before its many eyes watered. It shouted out in desperation as my mana increased further,
+
+"Please, I will do anything. I will eat the dirt you tread upon. I will jump into voids, and I will march as your soldier. Make this agony stop. Please. Please. Please."
+
+In the distance, Amara looked away, unable to keep gazing at the spectacle. I couldn't blame her. I took no joy in torture, whether it was to a monster or not. The eldritch, they didn't decide to be this way. They were born like this, so wanting to grow and expand was instinct. In a way, I was similar. I didn't have any real choice when I gained this armor in BloodHollow long ago. It was that or death.
+
+And I presented that same choice to this eldritch.
+
+"Listen, little one. There is hope for salvation here."
+
+My mana peaked to its utmost maximum, and by now, they believed my mana was infinite. It swarmed, a storm forming around the beasts. The water shifted crimson red, and those near us struggled as a deep madness soaked through them. The creatures turned frantic, their despair absolute. These monsters, they shifted around in terror while waiting for their torment to end.
+
+And, it did.
+
+I shifted my aura to the Rise of Eden, and I considered these eldritch my allies. Instead of the raging torment of Event Horizon, they gained an enormous increase in stats. Their wills were now bolstered instead of weakened, and they felt tremendous motivation to empower themselves. Letting them linger in the sensation, I raised my hands,
+
+"I can bring you all to a higher plane. You all wallow down here, abandoned to this new dimension. Each of you struggles with your new forms, grasping at anything for power. This is because each of you is aimless, and you each exist without reason. This is because you lack meaning. I, I can offer you that meaning."
+
+The quintessence mana forced them to evolve. They gained denser musculature, harder bones, and sharper teeth. Their minds expanded, and they existed in rapture for a moment. Shutting the Rise of Eden off, that rapture ended. The sublime augments ceased forming, and they no longer experienced the surge of sudden growth. Torn from this, they shouted out,
+
+"No, give me more."
+
+"It was complete, and now it is fractured once more."
+
+"I need more."
+
+I raised a hand, generating a block of quintessence. I threw it at the largest eldritch, who grasped it firmly in a tendril. I narrowed my eyes at them all,
+
+"Be my apostles, and I can give you more than your wildest dreams. Obey me, and you will all prosper."
+
+I shifted my aura to Event Horizon, "Disobey me, and I will leave each of you shattered."
+
+I left the destructive dimensional wake on for only a moment before silencing all of my auras. I peered down at them,
+
+"Speak."
+
+The largest, most defiant of them fell to his knees, and he raised his tendrils as if worshiping an angel,
+
+"I will follow you...Harbinger."
+
+Another eldritch fell, its form akin to a nightmare more than a living thing,
+
+"I too will follow you, Harbinger."
+
+They repeated those words, time and time again. Hovering over them, they submitted in their entirety. To them, the mana I offered was like a drug they needed. It gave them everything they hungered for, and in theory, I could give them all that and more. I wouldn't, but even just a little would go a long way.
+
+Having them in the palm of my hand, I spread my arms and boomed my words, "My first decree is for all other eldritch to serve me, and you shall be my messengers. You may eat them no longer. You must abstain from indulgence, and I will offer you something better in place of their flavorless meat."
+
+I reached out a hand, several quintessence crystals forming over the individual eldritch. They grasped at them with a wild hunger before draining the energy within. Once finished, I raised a fist,
+
+"Once the word is spread, tell the Vagni that I am the oldest of their gods. I am an ancient being that existed before time. I awoke and watched the universe form, and I allowed this world to become whole. I have now returned to take my rightful place as ruler here."
+
+Yup, good old me, being an ancient being before time...Totally.
+
+The eldritch nodded, "Yes, Harbinger." The largest spread his vast arms wide, "I will not be silent until all Vagni know you are their true ruler, Harbinger."
+
+I'll be honest, I held down a burst of laughter at these guys. Something about having these anomalous horrors bow to me was so...comical. It wasn't something I ever imagined for myself, and my only coping mechanism for this craziness was humor. I kept that under control, pointing out into the distance,
+
+"Now go. Let the people of this world know the oldest of their gods has returned, and I wish for my chosen ones to escape the forces that afflict them here. They speak blasphemy against you and us, and so, the Vagni must escape them. Tell them to leave the cities and go into the wastes. There, I promise them a new life. A better one."
+
+I beat my chest with a fist, "One where they live with the old gods, learning their wisdom."
+
+The enormous horrors before me obeyed, and they trekked away into an uncertain future. They left marks and scars on the land as they did, their forms massive enough to tear stone and rend dirt. Once far away, I got a message from Amara,
+
+Amara, the Lost One(lvl 7,829) - The transmission has ended. I can no longer sustain it.
+
+I let out a sigh of relief, turning to Chrona and Krog above me, "Holy shit, I can't believe I pulled that off."
+
+Chrona gave me a gentle smile, "I must admit, I was rather wrapped up in your performance. You understand how to give things a sense of scale, and you wield that understanding like a weapon in your speeches."
+
+Krog grinned, showing his fangs, "Well done."
+
+Turning towards the edge of a vast oceanic trench, I spotted Amara and a super golem staring. I gave them a thumbs-up before saying,
+
+"Let's go meet with them. We'll see what the situation looks like now and reassess."
+
+We passed over a dark crack in the earth, looking like a wound beneath the sky. Nearing the others, I set up a telepathic multilink with Amara and the golem. In rushed a surge of fear, one dampened by some respect. It came from Amara who murmured,
+
+"You were terrifying, as you always are. If we eldritch are wolves, then you are Fenrir, he who will rule us."
+
+The gialgathens and I got together, landing in front of her. I stepped up,
+
+"Well, er, thanks...So, uh, how did the broadcast go?"
+
+Amara cackled with a hint of evil under her breath, "Oh, better than I imagined it would. I've infiltrated several of their informational streams, and the Vagni have been deeply swayed by your performance. It goes without saying that the eldritch across this aquatic wasteland have also been convinced."
+
+I raised an eyebrow, "Wait, eldritch? We only broadcasted to the Vagni, right?"
+
+Her eyes narrowed, "That is what we both believed, but I broke through one of their defensive protocols seconds before the announcement. I was able to extend the broadcast to the eldritch that live here as well. Even those without eyes saw your broadcast, the visualization utter and complete."
+
+My eyes widened, "So they all saw that? Every eldritch here?"
+
+"Yes. Several raids by grouping eldritch have already begun."
+
+I stepped up, putting a hand on Amara's shoulder, "Now that's what I call exceeding expectations."
+
+Reaching out my hand, I generated a stream of quintessence for Amara, and she held her hands out wide. Her hair grabbed any of the shining stones that missed her palms while she drooled into the water. Grinning from ear to ear, Amara nodded,
+
+"Thank you very much, Harbinger."
+
+I raised a fist, "I give my own what they deserve, so expect more than this. That being said-" I leaned closer to Amara with a knowing smile,
+
+"Don't think I'm going to keep believing you're just some Builder's apprentice forever, though. Capeesh?"
+
+Amara scoffed, "A humble beginning doesn't mean I will have a humble end. Of anyone, you should understand those words well."
+
+Remembering my past as a screw-up from school, I pursed my lips while leaning back. She was right about that one. Finding the others gawking in surprise, I outstretched my hands,
+
+"We're taking our siege worldwide, and we have an army of our own as well to attack from all sides."
+
+The gialgathens raised their many wings, casting a shadow over Amara and me. They let out another roar before we returned to our headquarters. In the center of Saphigia, the situation stabilized, vast swaths of the patrolling Hybrids sent to the capital's outskirts. The reason for that was twofold.
+
+On the one hand, many eldritch attacked from the outside. To protect the local populace, Elysium sent in guards for their protection. On the other hand, the Vagni showed a stark reduction in support for Elysium. Without them doing what they were told, outright chaos ensued. That was all thanks to Amara. Eventually, I needed to get a grip on what her past was and understanding that would lead to getting the most out of her talents.
+
+She already surpassed anything I imagined she was capable of, and I couldn't even guess the edge of her potential either. That was a heartening realization. Either way, a regroup was required. The situation changed completely from this morning, so I got our guild's elite together in the largest building I crafted overnight. Within those walls, we sat at a round table while the gialgathens rested on landing platforms surrounding us. Glass windows showed the war outside our sanctum, and the quintessence crystals bathed us in a pale light.
+
+I leaned back in my chair made of gravitation, gesturing to everyone, "What's the aftermath of operation: Eldritch Shakedown?"
+
+Torix read a flood of messages from his many sources of information, "There appears to be a high number of factional changes from the Vagni. Initial figures presume a 40% conversion rate in cities with up to 60% in rural areas. It's better than I envisioned, and the figures are climbing as we speak. In particular, the eldritch's support is the most convincing for the more skeptical Vagni."
+
+Torix turned to Amara, who ate three different mana crystals in a single hand,
+
+"Based upon my minimal skills of deduction, I imagine it was you we have to thank for the eldritch's support?"
+
+Amara didn't answer, but the happy look on her face spoke volumes. Torix threw up his hands, "This is excellent. We should expect up to 60% of urbanites and 80% of rural Vagni to transfer before the week is done."
+
+I leaned forward, tapping my chin with a knuckle, "Huh, that's good. We'll need to take full advantage of this opening then." I pointed at the gialgathens here, Krog and Chrona sitting alert,
+
+"You two, scope our surrounding cities near Saphigia. We should be able to contain what's going on there. We'll be able to get a solid grasp on the land near us, letting us establish more cities. My idea is to make bulwarks that are protected by blue cores. Once we have those set, we'll create perimeters protected by my super golems."
+
+Krog and Chrona bowed before they flew out through an opening made for them. I turned to Torix, "Get the territory near here stabilized and running economically as quickly as possible. I want the local populace to see us like a wave of prosperity. That requires good transportation, along with buyers for standard Vagni goods. I need the credits from it as well."
+
+"As you wish it, it will be so."
+
+Torix stood, pacing off towards his lair. I pointed at Hod and Althea, "Can you two do some scouting on a few of the nearby military outposts here? We'll need to take the entirety of Saphigia before this week is out."
+
+Althea and Other Hod gave me a thumbs up before they disintegrated into thin air, undetectable and intangible. I peered towards Kessiah, who looked run ragged, her face pale from blood loss. Remembering the ring I gave her for blood production before, I pulled out some fabric from my pocket dimension.
+
+Molding more rings and amulets in seconds, I charged my grimoire while speaking,
+
+"I'll be building you a hospital. Let's go."
+
+By the time I arrived at the new building spot, I had begun floating a few finished rings over to her. Her fingers were loaded with metal now, along with amulets, bracelets, and even chain belts. Some gravity augments were necessary so she could continue moving; otherwise, she'd be rendered inert. The weight aside, each piece perked her up some. This left her feeling much better by the time I constructed the base of her building.
+
+As always, I kept the design simple, but I partitioned rooms out more than usual. Poorly designed hospitals spread disease, so I put some time and effort into keeping things safe. Along with preventing cross-contamination, I made several enormous rooms for the gialgathens. This, combined with some of our medical personnel, meant we could help keep people stable until a real healer arrived.
+
+Handling that situation, I left Kessiah to her healing before heading over towards the monument I made for Alpha and our other fallen. Besides the memorial, a Sentinel's armor and spear glistened with cracks on their graphene surfaces. I sat down, inspecting the cipher runes laced between the armor's chinks.
+
+Giving everything a quick glance, I committed the unrealistically elaborate cipher inscriptions to memory. Doing the same with the spear, I inspected every part I could find before a portal opened up behind me. From this warp, an old friend walked out with sad steps. That sadness altered into shock as I stood over him, a head taller than he was.
+
+I commanded his attention, his helmet scarred by recent battles. So many wounds littered his surface that a few patches of tar-like skin exposed themselves from chips in his exoskeleton. Most of all, he was missing an eye. The pivotal figure stared at me in evident surprise as I lifted the Sentinel's spear and armor to him,
+
+"It's good to see you again, Overseer. How have you been?"

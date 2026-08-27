@@ -1,0 +1,531 @@
+---
+id: a1efb4d3-1131-53a3-8b5f-46d702b2890f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 188: The Push"
+slug: 0110-chapter-188-the-push
+partOf: the-calamitous-bob-stubbed
+position: 110
+ownLength: 6326
+unit: words
+ownProgress: 6326
+publishedAt: 2025-01-11
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2004345/chapter-188-the-push"
+royalRoadId: "2004345"
+markedReadAt: "2026-06-29T21:18:33.953Z"
+---
+
+The air smelled of smoke and scorched meat. Massive spells striated the low clouds in rays of ominous colors while all around, the screams and shock of battle rang in a ceaseless cacophony. Viv flew to the Enorian formation as they fought the tide, a trio of aberrants bearing down on them.
+
+[Aspect of the destroyer]
+
+[Sequence: Triple Hyperbeam]
+
+Black lasers raked the creatures. Limbs fell down, cancerous flesh parted. Two fell while the third crawled forward on a single, misshapen limb. A fireball landed on it shortly after.
+
+She exchanged a curt nod with the mercenary mage before flying away. He was exhausted, but his group was holding. Barely. In the distance, to her right, the Baranese main army was closing in. A cavalry charge faced a beastling group and crushed it. It had to be the thirtieth such charge just this morning.
+
+By now, not a second passed without a soldier having to defend their life.
+
+Undaunted, Viv flew away. The Golden Order covered the left flank which should have been the easiest task, and one she intended to leave to the Enorian. Unfortunately, that plan had gone to shit in the early hours of the morning.
+
+Forward and to her left, the Glastians were progressing at a swift pace. Their crimson ranks slaughtered the beastling hordes at good speed, backed by specific paths and unique titles. It was the last push for them, the last great phase of a war that had lasted for so long, but that left Viv’s left flank exposed. Now, the Golden Order was beset on three sides by marauding bands. They maneuvered as she watched. Groups switched with amazing fluidity. Others reinforced each other like the pieces of a puzzle sliding into place under the direction of that gray-haired general. Damn. Getting her own strategist would be Viv’s number one priority after this was done.
+
+She flew forward, where the Harrakan lines themselves advanced steadily. Viv had left strict orders to ration ammunition and mana, so progress was slower than the breakneck rush of the Glastians. They also had to stop so the Enorians could regroup. After bombarding aberrants in a wide circle, Viv floated next to Sidjin. He minced yet another group before turning to her.
+
+The fallen prince seemed cold, cold and dangerous in darker armor. He’d completely forfeited the red of Glastia now, and the colors played with the scar to turn him into some sexy evil antagonist. Viv thought she’d cornered the market, yet here he was. The sight made her relax a bit. Cold was better than distressed.
+
+“Your blendership?” she teased, but he shook his head.
+
+Not in the mood for pleasantries. His gaze traveled to the Glastian ranks. The distance between them was increasing.
+
+Viv frowned.
+
+“I’m sorry. I refuse to sacrifice Harrakan lives for the sake of ego, but if there is more at stake I do not understand…”
+
+“No, no. I suspect Medjin wants to get back into our father’s good grace. Now that he’s lost the contest for the position of heir, his only options are to cover himself in glory while pushing others down. That is why he is attacking me. He wants to show to the noble faction that my father’s decision to absolve me was weak and cowardly, a moment of sentimentality that shows he is unfit to govern. It will weaken the First Prince’s claim if and when father dies.  That, and Medjin is a raging cunt.”
+
+“Wow.”
+
+“He has never been capable of accepting failure and defeat. He must get the last word at any cost. Many have paid the price of his petty grievances, and only his position as prince protected him from the consequences of his actions.”
+
+“Then he must have made some enemies.”
+
+“And that is why he will never rule. It will not prevent him from trying. He cannot stop. He does not know how to do it.”
+
+“Sounds like there is only one way this will end.”
+
+Sidjin’s aura flared, briefly. It felt murderous.
+
+“Indeed. And no. I have decided. We will let them go first.”
+
+“So, no warnings?”
+
+He looked at her.
+
+“Do you believe he will take us seriously?”
+
+“No, but Jaratalassi might.”
+
+“He didn’t listen to orders before. He will not now. And there will be questions, such as how did we find out? And where is this witness? Irao will never agree to appear before a group of people.”
+
+“That is true.”
+
+“Then we proceed as directed. I think we need to change the formation. The Enorians are on the verge of breaking, and once they do, they will never recover.”
+
+“How would we do that, Sidjin?”
+
+“Rotate the Golden Order. Leave the Enorians in the middle, covered by us. Enttiku’s sisters can manage. They have the training.”
+
+Viv gave it a thought. Not a very long one.
+
+“We’ll need to stop but it sounds doable. Let me ask them if they will agree to it first.”
+
+“We will need to cover them. I’ll coordinate with Lana so we can provide a screen. Maybe a few volleys would help too.”
+
+“Tell Poacher and Lak-Tak to be ready for their signal. I’m flying there now.”
+
+***
+
+Viv landed next to the stern Order Master as she directed her soldiers from atop a charger. The old woman watched her land with an impassive calm that radiated confidence. Even in the chaos of battle, her troops moved with unerring discipline. Viv was a little bit jealous.
+
+“Order Master Kreta,” Viv greeted.
+
+The order master dismounted before facing her, a gesture of respect here. Viv allowed herself a smile.
+
+“Your Imperial Majesty. To what do I owe the honor?”
+
+“Well, our far-speaking priests are busy and I believe I should make this request face to face. The Blue Duke’s troops are going to collapse very soon unless we do something. My army lacks flexibility, but yours does not. I propose that you rotate behind us then to their right flank. That way, the Enorians only need to defend their front and back while we hold the sides.”
+
+Kreta looked east towards the beleaguered Enorians. She made to speak, then seemed to reconsider. Hooded eyes scrutinized Viv’s expression.
+
+“This will delay us even more. We will be forced to defend from every side with Glastia pushing ahead. You are aware, yes?”
+
+“My witchpact and war machines will provide cover, as will us casters. The Mountain Lords shall take your role. They are my most disciplined force,” Viv said, ignoring the unspoken question.
+
+Kreta asked it anyway. In Harrakan instead of the Northern tongue. Her aides turned with surprise when she did so.
+
+“I want to know if you intend to answer the shithead’s challenge.”
+
+“Not a single Harrakan toenail will be sacrificed to entertain this man’s ego. Medjin’s arrogance will be his undoing. Let him take the lead if he wants it that much. I am here to exterminate beastlings, not compare dick sizes.”
+
+“And your paramour?”
+
+Viv smiled.
+
+“Archmage Sidjin and myself have aligned on what we expect from this campaign.”
+
+“Cut the fancy talk, Your Majesty. State what you intend to do.”
+
+“Medjin is going to fuck himself over and we’ll be here to watch, but I’m not sacrificing anyone to play his stupid games. Not even the loyalists.”
+
+“Very well. Have your army stop and we’ll move towards your back.”
+
+“Blow a horn, that will be the signal.”
+
+Calls echoed throughout the line while Viv lifted off again. The Harrakan formation came to a ponderous stop while the Enorians merely let inertia take over, many of their men sitting where they were.
+
+“Alright lads and lasses,” Poacher screamed from the center. “Let them have it!”
+
+The Harrakans fired everything. Tongues of fire scorched the earth in front of them. A hail of bolts skewered entire bands of beastlings while harpoons pinned the larger aberrants to the ground. The earth opened with spikes. A cold storm launched from Lana’s position, and winter kissed the earth beyond the Golden Order’s troops. Viv and Sidjin flew left and right, unleashing death. In front of the army, aberrants just fell dead where they stood. Viv spotted Abenezigel walking at the front and center with a black staff held high, the heavies following him with warcries. The battlefield seemed to take a breath. Distant bands scattered, the dark influence of their mind unable to stop the terror they felt at this sudden display of destruction.
+
+Viv felt inspections on her. Her gaze carried west, towards the advancing Glastians. Selyen the blademaster led them with great, cutting strikes that left only pieces in its wake.
+
+Kreta didn’t waste this opportunity. The Golden Order moved at a dead run, slipping along Harrakan lines until they regrouped in good order. Viv was about to order a cease-fire but it was useless. For a moment, the beastlings reverted to the old instincts of finding someone weaker to harass.
+
+Smoothly the three formations aligned again, with the Enorian one much tighter and only exposed in the front and rear. The Blue Duke took the lead of his forces. For an instant, it seemed as if he turned to Viv and nodded, though it was so brief she might have been imagining it.
+
+The Glastian troops kept going. They were now fully in front and showing no signs of stopping.
+
+“Alright. March!”
+
+“Permission to recover bolts?” Poacher asked.
+
+They were still free for now. Viv didn’t hesitate for long.
+
+“Granted, but hurry. Rollo, provide cover?”
+
+“We ride.”
+
+***
+
+Viv insisted they slowed down around noon for food. Warm meals were distributed at speed. The Golden Order requested and received a full cauldron of fresh porridge which went a long way towards strengthening international relationships. Even the majority of the Enorians seemed to thaw now that even their most idiotic members could see they were being protected. Those who asked nicely were even fed. After they were done, the Harrakan column easily caught up with the Baranese to their right while the right was left exposed.
+
+As for the Glastian contingent, they were now ahead, wading through a sea of enemies.
+
+“How could there be so many of them?” Viv asked.
+
+She turned away to watch the trail of death they’d left behind them. The wall was no longer visible in the murky distance, but the plain was. Dead, barkless trees dotted a nightmarish landscape filled with corpses, great gaggle of them strewn haphazardly where beastling had met man and lost.
+
+“I kept asking myself the same question,” Sidjin said. “Day after day on the wall, especially the second year. They just kept coming and I was wondering how there could be so many creatures alive at the same spot. This is what beastlings can become if left unchecked. An all devouring hunger that eats itself in the end.”
+
+“Good thing we Harrakans fight this scourge without mercy,” Viv boasted, smiling broadly despite the circumstances.
+
+Sidjin glared, but the crook of his lips told her he was having fun too.
+
+“You mean you unleashed unsupervised younglings onto them, armed with knives and a complete lack of restraint?”
+
+“Hey, it worked.”
+
+“Sometimes, it feels like you are free-wheeling your way to world domination.”
+
+“Am not. Arthur is.”
+
+“I cannot tell if you are serious and it is scaring me.”
+
+The mood thus improved, the combined group moved on, slowly catching up to the Glastians who were now beset on all sides and under constant attack. They were bogged down. Even from afar, Viv could see the largest aberrants tearing through their ranks before they could be stopped. That would mean many wounded, some infected.
+
+“We really need to regroup now. I’ll contact Jaratalassi.”
+
+Viv landed in the center of the formation where the altar stood, near the shield arrays that had so far proven useless. It took a good minute for Jaratalassi to give his orders. By then, the general’s voice was furious, and he spoke almost too fast for Viv to follow.
+
+“Keep going forward and try to get at least some pressure off those damn Glastians! I am telling everyone to regroup as fast as they can.”
+
+“And diversionary attacks?” Viv asked. “The wall? Is it ok?”
+
+“Fly up and see for yourself.”
+
+Viv gave a few orders, then she did so. The sounds of battle were still all around. The higher she went, and the more her mind struggled to accept what she was seeing.
+
+For leagues in every direction, the ground squirmed, teemed, shook with hundreds of thousands, perhaps even millions of creatures charging, screeching, eating each other, assailing the colorful squares that were the bastions of humanity in this place, most of whom were stuck in defensive, unmoving formations. The horde rushed forward with wild abandon. Beyond that, the land was dead. Dead and unmoving.
+
+“Fuck they’re all coming at us at once.”
+
+It was easy to claim that she wanted to end the beastlings here. She had her chance now. She just wasn’t sure she’d be able to use it. There were just so many of them that her mind just couldn’t grasp it. The beastlings were statistics made flesh. And in front, barely out of sight, was the reason why.
+
+A large ziggurat emerged from the fog like a lone mountain. For a moment, her mind reeled from the insane belief that this was the Imperial Palace transported here. She quickly realized her mistake. This Ziggurat was smaller and squatter. The blurry shapes of aberrants crawled over its surface like lice on a rotten carcass. At its feet, the ground was uneven, not in a natural way, but according to patterns she’d seen somewhere before. Long ago.
+
+“From Earth?”
+
+Were those… bunkers? trench networks peppered with tunnel exits. A vast complex of warrens that could not be easily rolled over. Hell, no one would charge over that on horseback. It was merely missing the barbed wire…
+
+That was it.
+
+“Verdun. The Great War. Holy shit, the beastlings actually did build fortifications.”
+
+And the Glastians headed for them head on.
+
+Viv surveyed the land and realized there had to be hundreds of meters of walls in every direction. It was more than a warren. It was a colony. A fort.
+
+“Right, we’re going to need more stuff.”
+
+***
+
+Viv descended, setting up a portal in record time. She engraved the runes which would connect it with its twin behind the wall, only for the spell to fail.
+
+It was not the first time this happened.
+
+“What is causing the failure?” Sidjin asked, landing next to her.
+
+“The exit portal is deactivated.”
+
+They looked at each other. The exit portal was in a secluded valley, guarded by Glastian troops. It was there that supplies from Harrak were stored. If it wasn’t responsive, then the circle had been damaged. Somehow.
+
+“Surely, he wouldn’t?” Viv asked.
+
+“He absolutely would.”
+
+Viv fumed. Doing reckless shit with his own troops was one thing, but cutting her supply line? Now Medjin was going too far. If it was him. Honestly, who else would it even be? Her circles only faded after a while or if someone interfered.
+
+“Could still be an accident. Never attribute to malice that which is adequately explained by stupidity.”
+
+“Is this an Earth saying?”
+
+“Yes. Hanlon’s Razor, we call it.”
+
+“I will remember this. As for the portal, what will you do?”
+
+Viv looked around. The fortress and its network was right in front of them. One of them would have to fly more than forty leagues to reach the warehouse where their supplies were stored. It would take an hour, at least. An hour they didn’t have.
+
+“I should have added a safety portal. ARG! I just didn’t expect someone to play games with us like that.”
+
+“Live and learn. I assume we continue our advance?”
+
+“Neither of us can leave the army for that long so yeah. Let’s just go in, and if we absolutely need an exit then you fly back.”
+
+Viv’s instincts told her she was needed here, now. She only hoped they wouldn’t need to evacuate.
+
+“Alright, let’s go.”
+
+***
+
+The blob of troops under Viv’s nominal command kept advancing at a steady pace, soon joined by the Baranese on their right. Viv hoped her left flank would be covered but the Glastians showed no indication they wanted to coordinate, and the other armies remained far off. Meanwhile, the Mountain Lords held on, their red scarves forming a continuous streak of bright color. Attacks were constant but they were also piecemeal, in an effort to make area spells less effective, she assumed. Everyone was holding out for the long game.
+
+By mid afternoon, they’d rejoined with the Glastians. Viv got close enough to Medjin for him to glare furiously at her, decked in armor at the front of the formation. Some of his elites were obviously annoyed, especially because he was constantly screaming, but the men behind looked relieved at having one of their flanks secured. When Viv killed an aberrant that had penetrated their ranks, she thought Medjin might have an apoplexy.
+
+“Noisy fucker.”
+
+The Baranese had finally linked up. Now, the three formations formed a powerful rectangle bordering the fortress. The ziggurat was in sight. It was time for the final push.
+
+Or, was it?
+
+As the Glastians moved on the bunkers, Viv landed near the communing altar, its priest breathing heavily.
+
+“Is Jaratalassi here?”
+
+“His Grace… he is focused on the other flank. They will not be able to join. Had to regroup and make a stand.”
+
+“When he talks to you, tell him we are holding here. Our purpose has been achieved. The beastlings are throwing themselves at us to the last. there is no need for…”
+
+She felt it first. A warning. Danger sense activated for the first time in months.
+
+“Aegis!”
+
+Danger. From the front.
+
+“The shields. Activate the shields. NOW!”
+
+Her orders came too late. A boulder crashed on the heavies, rolling and killing half a dozen people before she could react. She intercepted a second, a third. Lana and Sidjin managed to grab a few but one smashed a supply chariot. Another landed among witchpact, crushing the legs of an entire squad in its mad stumble. At last, the shields were in position but stones kept pelting them from… where was it? There, on the ziggurat. The aberrants.
+
+Viv used a longview spell and finally saw what the squirming mass of aberrants was. The intelligence behind their opposition had gathered all those capable of grabbing something — not a lot, fortunately. Now they grabbed heavy stones from prepared piles, lobbing them at the advancing armies with the strength of siege weapons. They were uncannily precise too. As she watched, stones slammed into horsemen, elite formations, militias, everything. There was no real mind behind the targeting, but there was precision. At the same time, the beastlings whipped themselves into a frenzy. Gone was the time of piecemeal harassment. They were going all in.
+
+“Your Majesty, Jaratalassi says you will not be reinforced. It is all the others can do to hold!”
+
+The Baranese general ordered his cavalry to maneuver in small detachments, making them harder to catch but still strong enough not to get easily bogged down. As for the Glastians, they were still pressing ahead. That is when the second part of the trap sprung.
+
+From below, tunnels opened in the middle of their troops. Soldiers fell to their deaths then aberrants emerged, those chosen for their extraordinary resilience. The first wave of warriors in red had barely bypassed the first trench when more tunnels opened. Those that were caught in single files in the trenches were slaughtered. The mage flight hurrying towards the ziggurat was met by volleys of stone spears thrown by smaller aberrants. Mages fell from the sky, chests punctured by spikes the size of stalagmites.
+
+Viv felt the battle slowly tilt in their disfavor. She felt it in her soul, that moment when soldiers went from fighting for victory to fighting for their lives.
+
+Her elites approached.
+
+Time to get serious.
+
+“Alright. Enough of this. Lak-Tak, I want that ugly pyramid on fire.”
+
+“Liberator range… too short. Can only reach the base.”
+
+“Roast them. Bathe the rest in naphtha. I want it to smolder. Poacher? Fire at will.”
+
+“Finally.”
+
+“Rollo, cover our backs. Lana, can you help our allies with some basic shielding?”
+
+“I can if you space the generators. We only need them at the front.”
+
+“Ok, you do that. As for me, I’m going to clear those aberrants.”
+
+“It might be too dangerous to fly there,” Abenezigel said.
+
+Viv looked towards Sidjin. Fire gouts and grinders popped left and right to stem the tide.
+
+“I’m not flying there. Too distracting. I’ll use the storm spell from here. You guys cover me. This is it. You can go all out.”
+
+As if hearing her, Brick lifted the Harrakan flag. Viv allowed her aura to spill as she called monstrous amounts of black mana to herself. [Aspect of the Paragon] drew the gaze of her people just as she started casting, but then the horns blew and the witchpact roared with pleasure. It was finally their time to shine.
+
+Bolts, spells, javelins, pots of naphtha and hives of fire wasps filled the air, mowing everything around with deadly precision. The assault against them faltered for lack of combatants. Viv had a small opening. She needed to turn this into a breathing space. She rose just high enough to be above her troops but still under the cover of the strongest shield. By her will, the silverite symbols floated into position. That spell was complex. it would require her full focus.
+
+It was nice being able to just do that— casting. None of this general stuff, or the political side of things where ego was causing the death of men and women just a few hundred meters away from here. And if she killed the culprit, his followers would turn on her instead! No, here, there was just her and the familiar pleasure of wielding mana. She was born for this. Concentric circles formed at her will. Around her, the air grew colder and the ubiquitous dust finally seemed to settle down. Despite the heat of summer, the breath of the nearest soldiers coalesced in little puffs. Power gathered. The array fully manifested. Her mind worked through every corner of it, arranging the message so it would be understood. Black wrapped in colorless links. She knew how annihilation worked, and how to give it direction. She just had to arrange it just right, and then, let it all out.
+
+Cries of pain woke her up from her pleasant trance. The spell was almost ready to be launched, but she had one last thing to add.
+
+[Aspect of the Destroyer]
+
+Her anchors dug into the fabric of the world. She knew it wanted the aberrants gone as much as she did.
+
+“Storm of Zamhareer.”
+
+A black pillar surged into the sky, absorbing all light and heat in it wake, and from there, black flakes fell like volcanic ash over the battlefield in a deceptively peaceful black snow. The flying human mages immediately retreated. They had good instincts.
+
+Viv felt the pinprick of dozens of inspection skills triggering all at once. Yes, displaying city-ending capabilities by herself might not be the best choice but they were past that.
+
+When the first flakes touched the top of the ziggurat, the aberrants there died without understanding what had happened. It fell lower, lower, first taking a handful, then a dozen of the aberrants with it. The rest fought by throwing rocks and javelins upward but it was like trying to ward off rain by casting pebbles. The rest ran as fast as they could. For many of them, it would not be fast enough. Those which survived would be a problem for future Viv. What mattered now was that the bombardment had stopped.
+
+The human armies breathed a sigh of relief. She realized now that despite the constant cover she had provided, most of her heavies were exhausted. They were not designed for sustained engagements like this.
+
+“Right, we have to end it quickly.”
+
+The artillery issue was solved for now, but that left the network of trenches and, yeah, bunkers. She had to resolve herself to the obvious.
+
+Whoever had designed this had some knowledge of warfare. They’d sent raiding parties to exhaust and test them, then they were counter-attacking while the humans attempted to take on the fortress. They had formed a siege group out of fucking aberrants, stockpiled stones…
+
+What the hell was she even fighting against? Or who?
+
+“Majesty, Jaratalassi is sending a message. He says we must attack now and kill whatever directs those things, or risk being overwhelmed.”
+
+“We’ll do it slowly and methodically,” Viv replied.
+
+She landed next to Lana. Perhaps for the first time since they’d met, the blue mage looked disheveled and tired.
+
+“Jaratalassi will not be pleased.”
+
+“We will go faster by being systematic. Look at them,” she said, pointing at the struggling Glastians.
+
+Their lines kept falling and reforming. The entire center of the formation was occupied by the bodies of the wounded and the dead, yet they showed no signs of slowing. Medjin kept needling them on while Selyen held the front, the man indefatigable. With every passing moment, more blood joined the crimson of their soldier’s cloaks.
+
+“That is a fair point.”
+
+“And besides, can’t you feel it?” Viv asked.
+
+Because she did. Deep under them, a brown construct mixed with… something.
+
+“Feel what?” the blue mage replied with a frown.
+
+Viv remembered she had very few equals for mana mastery. Lana wasn’t one of them.
+
+“Nevermind. Ugh, I can’t believe my infantry training is going to be of use again. Ok, so here is how we’re going to advance.”
+
+***
+
+Viv jogged to the next tunnel just as the Children of the Scale bypassed it. She ignored their exhausted faces to focus on the hole. A squad of the Eyes provided cover, quarrels aimed at the opening. So far, nothing.
+
+“Nuée.”
+
+Devouring black mana dove down with a hiss. After a few seconds, muffled screams emerged from the abyssal fog.
+
+“Alright, your turn.”
+
+A Harrakan brown mage approached. He was quickly tiring. That was fine. Viv only needed to collapse the passages on a direct path. Abe, Sidjin, and Lana all led other teams of elites, sealing entrances as soon as the Harrakan lines went over them. One team to clear, one to cover, one to support. It was Afghanistan all over again. It worked, though. They were making such good progress that the Glastian formation was starting to lag behind. Slowly, the black tide was becoming the tip of the spear, just as Jaratalassi had planned.
+
+“Your Majesty…” Ban junior said.
+
+Viv looked up.
+
+The Glastians were splitting. While the main army formed a circle to stabilize the situation, Medjin had taken a small, elite group led by his pet sword master. He was leaving the rest of his people behind so he could be the first to reach the ziggurat. A few powerful mages cleared his path with strong spells. They must have been holding back until now.
+
+Just as Sidjin had predicted would happen if he felt he might be proven wrong. He valued his pride over the lives of his people. Pathetic.
+
+“Should we follow?”
+
+“No. We will advance until we’re level with the main Glastian group, then hold.”
+
+“Hold?”
+
+“Yes, you heard me.”
+
+Viv busied herself covering the front of the formation, where the aberrants were thickest. The One Hundred were in constant combat and even they were flagging. They’d been fighting nonstop since morning. Even the liberators were out of naphtha and the attacks showed no signs of abating. The beastlings and their larger cousins kept throwing themselves at human lines with manic fury. Only the coordinated efforts of everyone kept the lines mostly intact.
+
+Medjin reached the base of the ziggurat in a tide of blood. As he was about to enter, he cast one last glance at Sidjin, the fallen prince too busy casting to notice. The sneer turned into a rictus of rage.
+
+The prince went in, followed by his vanguard.
+
+The ziggurat exploded.
+
+It wasn’t a large boom, and only pieces of stone and masonry were sent flying, but the shock and surprise were enough to throw everyone in disarray. Viv shadow gated to Sidjin, who was himself exposed, shielding them both. The shockwave traveled outward and left Viv’s ears ringing. The lighter beastlings were thrown to the ground but the humans suffered as well. Dust saturated the air. Gravel and stones fell, most pinging off of shields. When the air settled, the ziggurat was showing a lot of damage but it was still standing.
+
+Viv waited for an attack that didn’t manifest. It would have been the perfect moment to pull an ace. Nothing? Apparently.
+
+Viv took off to kill more aberrants while the others recovered. Of the Glastian vanguard, there was no trace. Irao was right. This wasn’t a fortress. It was bait. The fisher had just dragged more than they could handle, she judged.
+
+Sidjin flew by. His expression remained carefully neutral.
+
+“Now that Medjin has fallen, Princess Shaya will be in charge. I will tell her to back away. Please assist, if you can.”
+
+“Of course.”
+
+The battle resumed but strangely, whatever hold commanded the beastlings to fight alongside the aberrants had broken. The distant tide of flesh turned on itself, its members eating, fighting, killing each other. The pressure on their positions lessened to such a degree that the remaining Glastians had no trouble pulling back. This left Viv facing a dense network of tunnels under which there were still beastlings and aberrants.
+
+“Right. Lak-Tak, it’s time.”
+
+The enemy had brought First World War fortifications, fair enough, but Viv had brought something better.
+
+She’d brought First World War weapons.
+
+“Gas the fuckers.”
+
+***
+
+Viv entered the Ziggurat, with Sidjin and Sidjin only. The entrance was barred by boulders but it was only a matter of seconds for the Red Mist to clear them. As the stone was reabsorbed, it revealed a gruesome spectacle: the dead bodies of the vanguard.
+
+They looked surprisingly intact at a distance, but Viv knew what explosions could do. They were mush inside. The only survivor happened to be Selyen who was still breathing. A deep groove in front of him showed where the blast had split away from him in both directions. The insane asshole had literally cut through an explosion. That hadn’t stopped the pressure differential though, and his eyes were closed and bleeding. Congealed blood stuck like gunk to his ears. His breath was a hollow rasp.
+
+“I’ll call for help,” Sidjin said.
+
+He was leaning next to a prone form. Viv recognized the elaborate armor at first glance. Sidjin stood above him, his face a neutral mask. It was Medjin’s corpse. The arrogant twat’s face was a mask of surprise, stuck forever in a vulgar sneer. His eyes peered at the ceiling, unseeing.
+
+Sidjin wasn’t moving.
+
+“You should go deeper. Find out if there is anything left to kill.”
+
+He was feeling it, as she was. The divine, yet profane mana. It stuck to her skin like tar.
+
+Viv nodded and left her paramour standing over the corpse of his nemesis. Hell, this time, she didn’t even have to lift a finger for him to die. She coated herself in black until the devouring aura replaced the pervasive power of the aberrant god. Deeper she went, past chthonian columns decorated with grooves like tooth marks. It was dark here. The absence of light was an active avoidance, as if the dim sunlight from the outside wouldn’t want to touch what was down here. It didn’t belong in this world. It never had.
+
+It was very quiet. Viv expected a sonorous breath, or gurgles, anything. Instead, the place was quiet as a tomb. A vague stench of rotting meat lingered like a bad memory, that of the bottom of the wall. Eventually, she heard it. A single, wheezing breath. Something that couldn’t come out of a larger chest than that of a child. She approached.
+
+A wall of flesh appeared in her vision. It was vile, and larger than any aberrant had any right to be. The corrupting mana pressed against hers like a wave but the devouring black tolerated no intrusions. The macabre immobility of the wall of flesh told her the thing was dead, but it didn’t stop the corpse’s deleterious influence. After all, its power came from something that was already dead. She moved on, towards the rattle. She finally found its source.
+
+It was a beastling. The creature was utterly unremarkable in itself. Perhaps a little larger than the baseline, with smarter features and symmetric horns of hard chitin. Four clues hinted at something unusual. First it was fully amputated. Every limb ended in a slowly bleeding stump. The damage was clearly very recent, and it was also killing it, no him. The second surprise came from above, from the wall of defiled flesh. There, melded into the titan, was the rest of him. A hanging, scythe-light extension rested against the titan’s belly like an atrophied limb, blood congealing on the edge. He’d done this to himself.
+
+The third surprise came from the way he remained unaffected by the corrupting mana. Or perhaps he was, but he was resisting through sheer force of will.
+
+The fourth and most significant was that the beastling’s eyes followed her. They glittered with intelligence as Viv came to stand before him, and calm. A calm she didn’t think his species was capable of.
+
+The beastling spoke. It took great care to articulate the words that came out of its mouth. It sounded a bit like Old German to Viv, mixed with ups and downs that clearly meant something. The beastling finished his sentence. When Viv didn’t react. His head came to rest against his naked chest. He breathed deeply, then looked up again.
+
+“Do you… understand me?” he asked in heavily accented northerner.
+
+“I do.”
+
+“You are not…. from my world then. I thought, I thought… perhaps at the end, I had found another.”
+
+Viv blinked, too surprised to continue.
+
+“I can feel it in your soul. You are also… not from here.”
+
+“You are a traveler.”
+
+“One that came… slipped through the cracks. Yes.”
+
+Viv breathed in, a mistake. The stench dispelled the jolt of surprise.
+
+“Fuck. And you… you’re the one who started it all. You are the beastling who killed a great beast. The one who led them south. It was you.”
+
+“Yes. I poisoned our spears. I led raid after raid against the Ancient Sarodon. When it fell, I became so strong, I thought I could do it. I thought I could redeem… us. This species. Not my own, but close enough. I thought we could transcend our nature. I was almost there at the end. Or I thought so, but…”
+
+He looked up to the amalgam of rotting flesh.
+
+“The cost. That strength and malice. They were never our own.”
+
+Viv wasn’t sure what to say. He was a traveler. He was also responsible for the death of tens of thousands of humans and merls both. But he was a beastling. They were killed on sight by all the intelligent species.
+
+She didn’t know what to think about it.
+
+“I would have come out of the pyramid to slay you as you were weak and surprised, but I felt my control slipping. The dead one was taking over. I didn’t want to die as a puppet. I wanted to be free at the end, even if it cost me everything. I tried.”
+
+He shrugged, and winced, the movement disturbingly human.
+
+“Do you think I’m a monster?” the beastling asked after a pause.
+
+Viv thought about it. She thought long and hard but couldn’t find an answer beyond a vague feeling of guilt.
+
+“What’s your name?” she asked.
+
+“What?”
+
+“What was your name, in your other world?”
+
+“Egein Farris Ap Veor.”
+
+“I don’t recognize it as a language from my world at all. Well. You might be a monster to the Glastians, but right now, you’re acting as a person. So I’ll treat you as one. There is no need for me to judge you. We were enemies in a battle to the death. We fought as hard as we could. Now, you are dying. It is finished. I do not hold a grudge against you personally.”
+
+“The wall people…”
+
+“And the merl hate you. I suppose you’ll face judgment at one point or the other. It won’t be from me.”
+
+“I see.”
+
+His breath hastened. It wouldn’t be long now.
+
+“Tell me about your world. Is it there that you learned how to prepare traps and fortifications?”
+
+“Yes. The High Cities war. Armies wielding mighty… pressure weapons, carried on the wings of… there is no word for it in the northern tongue. Balloons of hot air. Very large. The war lasted for so long. I was a lieutenant. I thought I could, I could…”
+
+He died.
+
+Viv waited a moment in this desolate place. She finally stood up and cut off the head of the fallen traveler before moving back to the exit. She only turned when Sidjin was in view.
+
+[Aspect of the Destroyer]
+
+[Sequence: triple nuée]
+
+[Sequence: triple nuée]
+
+Viv cast, and cast, until the foreign mana was only a whisper of what it was and until her core was so drained that her head started to swim, the magic that sustained her life threatening to fail.
+
+“Viv? Beloved, what’s wrong?”
+
+“Nothing.”
+
+She thought about finding Solfis, then Arthur, then Cernit and Jorn and Benetti. Of making it back to civilization wearing human skin.
+
+“I guess I really was lucky.”

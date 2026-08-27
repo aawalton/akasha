@@ -1,0 +1,369 @@
+---
+id: 423ee36d-eb3e-533b-a3e2-cb14f39a4c45
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22: Two Legs, One Plan"
+slug: 0022-chapter-22-two-legs-one-plan
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 22
+ownLength: 1698
+unit: words
+publishedAt: 2025-09-09
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2588028/chapter-22-two-legs-one-plan"
+royalRoadId: "2588028"
+---
+
+PoV Luna
+
+Luna licked the swamp crust off her shoulder until the taste went from terrible to only rude.
+
+Bits of frog-skin clung to her fur. The bitter bite of algae stuck to her nose. But her tongue was thorough, and her optimism stubborn. She had eaten much worse before already.
+
+Her thoughts turned back to her body.
+
+Things felt different now. Clearer.
+
+Her paws set themselves without thinking, weight sliding where it should, tail counterbalancing before she even noticed it would. Every muscle shifted with a kind of memory she didn’t remember learning.
+
+She breathed deeply. The forest snapped into neat, chewable shapes.
+
+Twig clusters. Moss mounds. Three nests full of chittering fluff-things far too small to be worth chasing.
+
+A shadow hummed under her belly when she tried a hop – blink – and she came out on the other side of a fern without face-planting.
+
+Neat.
+
+Her grin widened. She wagged twice, then tilted her head back toward her shoulders.
+
+Her fur wasn’t regular-wolf anymore. Neither muddy, nor the dark-dark she used to melt into when hiding. It gleamed a little now, the silvery shimmer caught inside the shade, like nighttime trying to be fancy.
+
+Luna turned, turned again, and watched it ripple in places, like a quiet stream of water.
+
+Wag.
+
+Very wag!
+
+Then her thoughts turned inward.
+
+What would the big old mean System say now?
+
+***
+
+Name: Luna
+
+Level: 1/10
+
+Race: Moon Wolf Pup (Tier 0)
+
+Gender: Female
+
+HP: 40/40
+
+SP: 44/44
+
+MP: 30/30
+
+Strength: 12
+
+Dexterity: 11
+
+Vitality: 10
+
+Intelligence: 10
+
+Willpower: 3
+
+Charisma: 4
+
+Luck: 1
+
+Active Skills:
+
+Strike Lv8
+
+Bite Lv11
+
+Jump Lv8
+
+Momentum Claw Lv6
+
+Run lv4
+
+Shadowmeld Lv3
+
+Shadow Step Lv8
+
+Lunar Form Lv1
+
+Passive Skills:
+
+Beast Instincts (Lesser) Lv1
+
+Pain Resistance Lv2
+
+Poison Resistance (Minor) Lv1
+
+Traits:
+
+Beast Constitution
+
+Gluttonous Soul – 5%
+
+Effects:
+
+Craving (Unknown)
+
+***
+
+Her eyes narrowed proudly at the glowing number thingies that popped into her mind. Tail wagged faster.
+
+They were nicer now! The stats actually looked strong. The skills looked tasty! Everything lined up in crisp rows like obedient meat.
+
+“Luna approves,” she announced, nodding wisely.
+
+Except for the level thingy. That still looked stingy.
+
+She huffed, ears flicking.
+
+“Mean.”
+
+Her attention turned back outward, nose twitching at the scent of moss, old bark, and distant dew.
+
+The moonlight pressed softly across her fur. She basked in it for a moment, turning slowly until the glow kissed the ridges of her back.
+
+New skill time!
+
+As soon as she activated it, she felt the moon staring back through the branches, big and nosy.
+
+It didn’t push.
+
+Just asked.
+
+A cool prickle ran through her whiskers. She squinted up, tasting the question filling her mind.
+
+What do you want to become?
+
+Her ears perked so hard her head tilted with them. Her grin tried to escape her face.
+
+“Human,” she told the sky.
+
+Obviously!
+
+Upright thieves with spice and bags and dumb hands. But the dumb hands held jerky! She would steal their snacks by being one. Genius plan. Genius Luna!
+
+Her paws planted into the brightest patch of light. The moon warmed her nose, soft and steady. Her tail stilled with purpose.
+
+Luna closed her eyes and barked the answer without a voice. Called the new trick by instinct, by hunger, by desire for two-legged spice thievery!
+
+【Lunar Form – Slot 1: Human(?)(Child) Set】【Lunar Form – Moonlight detected. Mana cost reduced. Form Selected.】
+
+The words weren’t even cold before the world tilted for Luna.
+
+Her bones itched. Not deep, and nothing hurt. Just strange. Weird! Stretching in the wrong directions.
+
+Shadow slid beneath her skin, akin to cold water pouring through tight cracks. Her body rippled with a rhythm she didn’t own, but didn’t fight.
+
+She blinked once.
+
+Didn’t stop it.
+
+Why would she?
+
+Snacks awaited!
+
+Two feet hit dirt. Just two.
+
+Betrayal.
+
+“WHO CUT OFF THE OTHER TWO,” she yelped, windmilling her arms. Arms? Not paws!
+
+Fingers wriggled where noble claws should be. She stared in horror. Poked one. Soft. Squishy. Useless!
+
+She bit it in protest.
+
+“YIPE.”
+
+Apparently, meat feels pain when you bite it. Even if it's your own.
+
+Rude.
+
+Luna held her hand up, scowling at it. The fingers curled awkwardly, as if they didn’t trust themselves. Not that she trusted them much yet herself! She curled them back. Pointed. Wagged a finger at the moon accusingly. It blinked down at her, unbothered.
+
+Stand. Wobble. A step forward.
+
+Her knees bent awkwardly, then panicky, then gave up on having a clear purpose. Her tail tried to help. It wagged earnestly. That made her spin. Balance fled.
+
+She toppled sideways. A branch crunched under her hip.
+
+This was terrible.
+
+“Humans walk so weird, like they’re all falling slowly!” she barked.
+
+She tried to run.
+
+But gravity had teeth!
+
+Face-first into moss.
+
+Then she tried to jump. Head-butted the sky. Fell again.
+
+Tried a proud growl.
+
+“Ehhrrrkk.”
+
+A pitiful squeak wheezed out. A beetle paused nearby, lifted one leg, and judged her. Harshly.
+
+She wheezed into the dirt, tail flicking once in defense.
+
+“I’m fine,” she told no one.
+
+Pushing up on her elbows – elbows! – she sat back and surveyed the damage.
+
+Paws no longer paws. Her new feet pointed forward like they had opinions. Her legs looked too long for anything. Narrow chest. Flat belly. Smooth skin. No fur.
+
+Well.
+
+Not no fur.
+
+Luna had kept some because she was smart! The trick didn’t steal everything. Her ears were still there. She wiggled them. Excellent. Her tail flicked behind her, strong and loyal. Very excellent.
+
+And humans had those, right?
+
+Probably. The ones she saw had fur on their heads. And clothes.
+
+She squinted down.
+
+She did not have clothes. But she had fur in the places where it counted. That would have to do.
+
+Magic thrummed across her skin, slow and hungry. The form held, but it trembled. Mana bled like drool when you stared too long at drying meat. Her limbs quivered when she stood up again.
+
+But she stood.
+
+“Okay,” she panted, bracing on a tree. The bark felt rough and steady under her fingers.
+
+“Walk to snacks later. Practice now. Do not bite own hand again.”
+
+Her voice sounded wrong. Not barky or sharp. Soft. Airy. But not bad.
+
+She nodded once and took a slow step forward.
+
+Her heel wobbled. Her toes stretched too far. Her arms flailed. But she did not fall.
+
+Victory!
+
+Her tail thumped the tree, and helped her keep balance.
+
+She tried another step. This one worked better. Her arms still waved like panicked branches, but she stayed upright. Her chest puffed with pride. Her stomach growled.
+
+"Training counts," she declared.
+
+And if walking like a drunk deer meant she could sneak into a human camp and steal their spice stash, then she would master it.
+
+One awkward step at a time.
+
+***
+
+Practice became Luna’s personal war against the clumsy.
+
+Step, sway, pinwheel.
+
+Her foot twisted sideways again. She caught herself on a branch and growled at it.
+
+The tree didn’t fight back, so she considered it forgiven.
+
+Arms, she discovered, had their own opinions. When balance fled, they reached high – trying to catch the stars for help.
+
+"Stupid sky grabbers," she muttered, flapping them again anyway.
+
+Luna crouched. Pounced. Overshot. Landed in a crooked tangle that bent her knees in three directions. One foot kicked a pebble. It bounced off her ankle and mocked her.
+
+Knees did not approve of rocks.
+
+She tried a stalk next. Shoulders low. Head forward. Smooth, silent, confident.
+
+A root appeared.
+
+She tripped.
+
+Invented a new kind of flop. It ended sideways, legs kicked out, hands thrown wide like meat-wings. She lay there, tail twitching in the grass.
+
+Then laughed.
+
+Luna laughed so hard her breath ran away. It shook her belly and bounced through her ribs. The leaves around her rustled in confused applause. Even her toes wiggled with the effort.
+
+The laughter tipped her balance again.
+
+Down she went.
+
+But she didn't care.
+
+The shape was a promise. Two legs meant human. Human meant access to spice. Spice meant jerky. And stolen jerky meant victory!
+
+She stood again. Wobbled, but stood.
+
+Her breaths came faster now. Not quite panting, but close. And not tired yet, but... aware.
+
+Mana flickered through her veins like candlelight chasing a breeze.
+
+The pull of the moon had dimmed. Still there and watching. But distant now. She could feel it loosen around her shoulders.
+
+The trick was slipping.
+
+She braced. Ears tilted back. Eyes narrowed. Her fingers curled tight in the bark of a tree as the edges of her body started to blur.
+
+Then came the snap.
+
+Poof.
+
+Four paws kissed dirt.
+
+Claws dug home.
+
+Ears perked high. Tail swept wide. Jaw clenched and unclenched.
+
+Everything back where the world made sense.
+
+Relief cracked out of her in one sharp bark. Her chest vibrated with it. Her legs bounced once on instinct, testing. Nothing slid human-weird, nothing flailed.
+
+She stretched long, spine popping delightfully. Her tongue lolled from her mouth in pure, tongue-falling-out happiness.
+
+【MP: 1/30】
+
+“Oh.”
+
+No more moon-trick tonight.
+
+That was fine.
+
+Her belly gave its own opinion – loud, long, and greedy. The growl echoed off the trees, offended that snacks had been promised and yet remained unbitten.
+
+She licked her muzzle. Thought briefly about finding a beetle, then turned her nose to the better scent. Farther. Meat-smell. Rabbity, probably. Maybe something fatter. Maybe something that didn’t squeal quite so much.
+
+Two-legs could wait a little more.
+
+Food now!
+
+Luna slid through ferns, ribs brushing shadow. The moon kissed her back lightly, not bright enough for tricks, but warm enough to keep her sharp.
+
+The forest welcomed her return.
+
+Branches opened ahead. The earth pressed soft under her pads. Her ears swept wide for twitching grass. Her nose worked.
+
+Stupid rabbits.
+
+Slow birds.
+
+Something plump in a bush.
+
+She was already cataloging them, counting flavors, planning how many bites it would take before she was full and strong.
+
+Hunt first.
+
+Then she would figure out how to walk like a falling human without eating moss.
+
+Later.
+
+But now–
+
+She licked her teeth.
+
+Now it was snack time.

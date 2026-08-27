@@ -1,0 +1,123 @@
+---
+id: 4257d325-886c-5838-b023-f75dad340ea1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 614: Origin City"
+slug: 0035-chapter-614-origin-city
+partOf: system-change-system-universe
+position: 35
+ownLength: 2191
+unit: words
+ownProgress: 2191
+publishedAt: 2025-12-24
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2874837/chapter-614-origin-city"
+royalRoadId: "2874837"
+markedReadAt: "2026-06-29T19:57:51.703Z"
+---
+
+Chapter 614: Origin City
+
+“Now, you already know about the safety that is provided by the Origin System once you become a resident or guest, but there are more reasons than that to want to take up residency,” Dave said. “The city provides residents with anything they could possibly need.”
+
+“What do you mean by that?” Derek asked.
+
+“Well, one can be born in the city and never have to leave because of the resources. There are schools and there are dungeons in the city that are spaced out perfectly where one could go from level 1 all the way to level 500—and even a bit further if you don’t mind the grind,” Dave explained.
+
+“Level 500?” Derek asked. “That’s right… I never did ask about levels in the Origin System. Is level 500 it? You said someone could grow a bit further… do you mean like… they could upgrade their class at level 500 possibly if they worked hard enough?”
+
+“That is possible, but no, that is not what I mean,” Dave said. “The maximum level one can obtain is actually level 1,000. It is always easiest to upgrade a class at the class upgrade marks, which, as you know, are levels 10, 25, 50, 100, 200, 500, and 1,000. Well… technically, that’s not true. Level 10 is where you get your first class, so it is not an upgrade per se.”
+
+“Why is it that our classes can be upgraded when not at those… milestones?” Derek asked. He’d never forget that Avery was able to upgrade his class by bonding with Lyra.
+
+“Outside of those milestone levels, it is up to the user to push themselves to an upgraded version of a class. In the siren’s friend’s case, bonding with such a beast pushed him the last bit that he needed,” Dave explained. “However, if he had all his skills and affinities the same at level 200 as he had at 250 before the upgrade, we would have given assistance. And if we cannot give assistance, then we can request assistance.”
+
+“I… see…” Derek said. He didn’t completely understand what Dave was saying, but it was enough information to satiate his curiosity. “So, what else? In the city, it is safe, and there are dungeons available to get all the way to level 500. I feel like staying in that city from birth would hurt people’s progression. Is there really growth without danger?”
+
+“Yes, progression is certainly limited, though it is more than good enough for most. There is danger. The dungeons are not easy. Many system users enter the dungeons and never come back. That is the nature of it all, isn’t it? Also, Origin City’s rules do not apply inside the dungeons. If you plan on entering one with others, you better make sure that those people are trustworthy.”
+
+“Just like any other dungeon dive,” Derek replied with a shrug.
+
+“Precisely,” Dave agreed. “The same is true for crafters. There is a massive surplus of the materials that come out of those dungeons in the System Shop. They are very cheap and more than enough for a smith or alchemist to grow to level 500. However, these materials are so often used that the Origin System has ceased to reward any bonuses on items created from them. I imagine it would reward something if someone were to create something unique that hasn’t been seen before, but other than that…” he shrugged.
+
+Sounds like a great place for Brandi, Derek thought. She could use those materials along with the more unique ones that Derek may be able to bring her. It really will be good to have access to a System Shop again. It makes things so much easier… even if it will be crazy expensive.
+
+“What about selling equipment you make from those materials?” Derek asked.
+
+“Entirely dependent on the Origin System. Not everything can be sold. It will look at quality, market… everything… before allowing an item up in the shop. And gear created through those materials usually isn’t allowed. The market would be flooded, and the price would be pennies. It would make it much too easy for anyone in the System Universe to obtain decent gear if it were allowed. The Origin System took care of any exploits like that long ago.”
+
+“But you can still sell in the city?” Derek asked. “Like… manually?”
+
+“Yes,” Dave said. “Just not for System Credits.”
+
+“Sounds like people who live in the city have a big advantage over others,” Derek said.
+
+“We do,” Dave said with a shrug. “However, it is not easy to gain residence in the city. It is also not easy to keep a residence in the city. You must earn enough reputation with the Origin System for it to allow you to purchase residency. You then must continue to increase your reputation to maintain it. Every 100 years, the Origin System will ‘inspect’ the residents. If the person who holds the residence is lacking, it will take it away or lower the tier of residency for that person.”
+
+“Tier?”
+
+“Yes. There are tiers based on reputation within the system. The higher the tier, the more people you can have in your ‘family.’ In this case, ‘family’ is considered those who reside permanently with the prime resident. So, at tier one, you can have twenty-five. At tier two, you can have one hundred… all the way up to tier five, where you are allowed one thousand.”
+
+“I know there are families or clans with more than one thousand people in them. What happens to the extra?” Derek asked.
+
+“They will live at a family’s residence outside of Origin City, of course,” Dave said. “If a family is strong enough, it is not uncommon for them to own and operate planets.”
+
+“Oh… right,” Derek said. “It’s hard to understand the scale of things considering I’ve only ever been to Earth and here…” Something then clicked, and his eyes lit up. “Is this one of the planets that your family owns?”
+
+“No.” Dave shut down that question very quickly. “This…” he motioned all around them, “is something entirely different. And it is not something that we will need to discuss for a very long time… if ever.”
+
+Seeing that he wasn’t going to get any more information about the topic from Dave, Derek was about to change the subject, but instead, Silvi spoke.
+
+“Good food in city?” she asked.
+
+“The best chefs in the System Universe reside in Origin City,” Dave answered. “There are entire families dedicated to a single craft… which reminds me… once the ‘head’ of a family or clan—let’s just call it the head of residency—is no longer able to maintain their reputation, a new head of the family, at least in Origin City, is chosen so residency can continue. If there are multiple people with enough reputation, then they will have to choose whom they want. Of course, there is a way to obtain permanent residency in the city, but very few users in the System Universe have done that… and it doesn’t come with many member slots… just the initial twenty-five.”
+
+“What way is that?” Derek asked.
+
+“You must reach a certain point in your progression,” Dave replied with a shrug. “My father has reached that point…” Dave went quiet for a minute, then smiled. “I will reach that point soon and become the second in my family to do so.” He bit his lip and looked at Derek. “If I do during your ten years as a guest, then once the pass runs out, I may be able to accept you and yours as members of MY family. I am sure my father would do it, but only if you chose to actually join the family. That would also keep you safe from the Void Emperor. However, I didn’t mention it before because I think I know your stance on that matter.”
+
+“Yeah… not going to happen. I’m not going to be some void peon for someone,” Derek said. “And can’t a family just have multiple people with high reputation and have thousands of members instead of just the one thousand?”
+
+“The Origin System knows when you are trying to cheat it,” Dave replied with a smile. “I was sure you would refuse the offer, but… the offer will continue to exist. At any time—if you make it to Origin City—you can come to me, and I will go to my father. Hopefully, ten years is enough time for me to make my move, though, and you won’t have to worry. There is something to be said about being the black sheep of the family.”
+
+“Oh, yeah?”
+
+“Yes,” Dave said. “Being the black sheep means that I have only a handful of servants and family members I would even think about accepting as mine. Thus, I’m leaving a good ten to fifteen spots open for you if you need them.”
+
+“Thanks for that, I guess…” Derek said. “But why go that far?”
+
+“That certain status… you winning the invasion has narrowed the gap between it and myself. Your ascending will narrow it even further. And honestly, I lose nothing by helping you, and so far, I have enjoyed watching your journey.”
+
+“Not sure what to say to that,” Derek said with a chuckle. “Thanks… I guess,” he said again.
+
+“You are welcome,” Dave replied.
+
+“Now, Origin City is where you want to establish your base, especially as a lone human,” Dave said.
+
+“I’m not alone,” Derek replied.
+
+“Yes, you are,” Dave said. “It will be up to you, and you alone, to do everything. I don’t believe your Earth Sage has it in him to help much, and I doubt your friend ever makes it to Origin City.”
+
+“Jace?”
+
+“Yes,” Dave said. “Origin City is no place for someone like him. He wouldn’t last a week. Plus, he will be driven to battles. His path lies on the battlefield, not in a cozy city with no danger. I would also suggest not using one of the ten guest slots on him because of his nature. It would be a waste. He would go in, find that it isn’t for him, then leave. Also, him getting in trouble would not be a good look for you or me as guest and host, respectively.”
+
+“Shit… you’re right,” Derek said. Jace was high on his list of people to take just because of his strength. Taking the man with him would certainly make traveling safer if they needed to. It still will, he thought. He will just have a different destination than the rest of us.
+
+“Now… Origin City is no place for you, either,” Dave finally said with a grin.
+
+“What?”
+
+“It’s not,” Dave shrugged. “It is for your less-than-capable friends… and perhaps the smith. A crafter will grow as long as they have materials, so the place does not matter,” he continued. “For you, my friend… it should be nothing more than a temporary place to rest occasionally. The same as it was for me… though… for different reasons. Still… same outcome.”
+
+“Why?”
+
+“Because you need essence. You need to increase your affinity… You need danger,” Dave replied. “Adversity builds character… steel sharpens steel… I do not want you to become a paper tiger like some of my siblings. I would be happy if one day you surpassed me. But you are never going to do that in Origin City.
+
+“I said that people can get up to level 500 there… but very, very few have ever been able to reach an affinity high enough while staying there to go beyond Mythical rarity. Most who choose to live their entire lives in the city are the high-ranking but talentless members of families or clans. It is why I am one of the youngest of my siblings, but in my entire family… I am in the top four… probably top three, as far as strength is concerned. My brother is not happy about that…”
+
+“Oh… this is one of the reasons why you said that people get complacent and their strength stagnates even if they have high stats,” Derek said. Dave had already explained part of that to him while talking about Jace earlier.
+
+“Exactly,” Dave replied. “It’s not just in Origin City where that happens. People from greater families get too comfortable on their own planets, too. You mustn’t do that… well… once you reach a certain rank or status, it is fine. Hell, if your friend is able to reach such a status with the Origin System, then he won’t have a problem in Origin City, since he will have full control over himself. He will be able to turn the battlelust on and off like a switch. The same is true with you and the void. You will be able to bend it to your will. That is something that I’ve never seen before.”
+
+“What about the Void Emperor?” Derek asked.
+
+“He is stagnant. Dorian is essentially immortal, but he will never progress to those final stages. That is why he is so envious of young, talented void users.”

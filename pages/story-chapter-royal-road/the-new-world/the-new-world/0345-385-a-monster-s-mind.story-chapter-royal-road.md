@@ -1,0 +1,543 @@
+---
+id: b7c78435-3e9c-5e26-a803-7559bf49420b
+page-type-slug: story-chapter-royal-road
+title: "385 A Monster's Mind"
+slug: 0345-385-a-monster-s-mind
+partOf: the-new-world
+position: 345
+ownLength: 2868
+unit: words
+ownProgress: 2868
+publishedAt: 2025-03-03
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2101721/385-a-monsters-mind"
+royalRoadId: "2101721"
+markedReadAt: "2026-06-29T21:33:05.876Z"
+---
+
+I raised a brow.
+
+"Hod? Aren't you worried he'll be eroded?"
+
+Shalahora wavered.
+
+"It is the eldritch half that we must strengthen and quickly."
+
+Torix's eyes flared.
+
+"Not that I disagree with you, but I'd estimate that to be his dominant half."
+
+Shalahora's form wavered.
+
+"It is no longer."
+
+He tapped the side of his head.
+
+"I have unlocked a piece of who Hod was."
+
+Chapter Begin
+
+I ogled at the shadow.
+
+"Oh man, I have got to see this."
+
+Shalahora pointed at Torix and Plazia.
+
+"Show me the strongest strain we have. It must be jet black, like darkness."
+
+Torix rubbed his hands together.
+
+"Of course. We must keep the shadow motif going. Come, I have just the specimen."
+
+We followed Torix down the hallway before reaching a storage room full of unused Omega Strains. Quintessant lamps lit the room with their sterile, white glow. A mound of my dimensional fabric sat in the center of the room, and wires stretched out from it. The strains sat atop the wires, feeding while the ore regenerated itself.
+
+Torix leaned toward me.
+
+"Establishing this was an absolute pain, but we did it."
+
+At the top of the dimensional fabric, a black strain soaked in the metal at a visible rate. Around the dark crystal, the metal rippled like a stone skipping across a lake, and it hummed aloud. A nestling of shadows poured from it. Torix turned his hand.
+
+"This strain is saturated to its fullest extent but must continue feeding to maintain said state."
+
+I leaned over it.
+
+"Do you do this with every strain?"
+
+"We do the opposite. I allow individuals to assimilate the weakest possible strains before allowing them to grow together gradually. That process dramatically increased the success rate of this venture. Only a select few are mentally resolved enough for a more powerful strain."
+
+I nodded, interested in the sample.
+
+"And this one's a test for long-term saturation?"
+
+Torix stood tall.
+
+"Absolutely. How'd you guess?"
+
+I touched the dimensional fabric.
+
+"This is an older piece of my dimensional fabric, so it's been around for a while."
+
+Plazia picked up the strain.
+
+"Enough with the pleasantries. There are tasks to be done."
+
+We headed out of the room before bolting through Mt. Verner. I stretched myself thin, and the others used various magics to get around. Torix even read while floating on a cloud of dominion mana, a style of mobility he'd had since we first met. After a while, we reached the outside of Mt. Verner. In the shadow of a cliffside, Althea sat beside Hod.
+
+She held Hod's head to her chest, and Hod murmured.
+
+"Hod not do it. Hod not want to."
+
+She murmured.
+
+"Hey, it's ok. We're not doing anything."
+
+Shalahora stepped out of the shade. Seeing the Sovereign, Hod crawled away.
+
+"Hod not want. Bad shady man. Shady man bad."
+
+In the fetal position, Hod nestled up before biting the ends of both his wings. We all landed at the stone outcropping, one I subconsciously reinforced with a gravity well. Stepping up, I put my hand on his shoulder.
+
+"What's wrong, buddy?"
+
+Hod pointed at Shalahora.
+
+"Shady man evil."
+
+Shadows exploded out of Hod, and Other Hod seethed.
+
+"No. He is not."
+
+The shadows dissipated, and Hod returned.
+
+"Is."
+
+Other Hod popped out and snapped.
+
+"Is not."
+
+Hod got control of his wings before strangling himself.
+
+"Is!"
+
+Other Hod flopped them down.
+
+"Is not."
+
+The two entities squirmed on the ground, the conflict becoming more confusing as I watched. Torix coughed into his hand.
+
+"Ahem...What precisely is going on here?"
+
+Shalahora shrugged.
+
+"My student is in limbo, and his halves fight for one another. Whichever wins decides his fate."
+
+Hod strangled the ever-living stuffing out of himself.
+
+"Hod not do it. Hod die first!"
+
+Other Hod pulled his arms down.
+
+"You idiot. You'll destroy us both."
+
+Hod squirmed around.
+
+"Hod don't care."
+
+Other Hod pulled his hands from his neck.
+
+"You must. It is what is just. It is what I choose...And I deserve a choice."
+
+Hod strangled them again.
+
+"Hod not care what just. Hod want friend."
+
+Other Hod pulled them beside the edge of the stone cliff.
+
+"I am no friend of yours. You would know this after I am gone."
+
+Plazia's left arm twitched. Hod pulled them over to the cliff's edge.
+
+"Hod choose Hod friends. You Hod friend."
+
+Hod jerked himself off the cliff, and they fell for a half second. I pulled them up with a gravity well. Continuing their struggle, they gnarled and thrashed at each other.
+
+"Hod want Hod friend."
+
+"No. Let me give back what I have stolen."
+
+"No."
+
+"Yes."
+
+"No."
+
+They scrambled for a while. I peered at Shalahora.
+
+"Hod seems the same."
+
+Shalahora's eyes narrowed.
+
+"He has returned the freed piece of his mind to the void, silencing the part of himself that awakened."
+
+Plazia oozed his words from the rock below.
+
+"He would feed himself to that anathema?"
+
+Shalahora raised a hand.
+
+"He would. He has."
+
+I set them down, and Hod heaved over the ground. He seethed.
+
+"Hod...Hod know you. You know Hod. Hod remember. Hod know you care for Hod. Hod know you care for Hod when no one else care. You stay with Hod when Hod alone. You help Hod when no one else help. You Hod friend."
+
+He made the edges of his wings into fists, pressing them and his head into the ground.
+
+"And Hod not let go."
+
+He hugged himself, and Other Hod spoke with a gentle voice.
+
+"You must."
+
+Hod let out a tear.
+
+"Please. No."
+
+Other Hod lowered his gaze.
+
+"You would rob me of my choice?"
+
+Hod took a breath.
+
+"Hod...Hod don't know. Hod need think."
+
+Althea walked over and gave Hod a hug.
+
+"It's ok. I'm still here. We're all still here. Nothing happened yet."
+
+Hod nodded, another tear dropping. I walked over and squatted down.
+
+"You ok little guy?"
+
+Hod nodded. I generated a quintessence crystal and handed it to him.
+
+"There you go. Just relax. We'll make sure nothing happens too fast for you, alright?"
+
+Hod nodded, putting the crystal in his mouth. Shalahora murmured in his encompassing whisper.
+
+"Other Hod wishes for Hod to become whole. Hod wishes to remain broken."
+
+I furrowed my brow.
+
+"That's not what I expected. Huh."
+
+I turned to Hod.
+
+"And wow. That is so sweet. I'm proud of you for sticking up for your friends."
+
+Hod spread his wings before moving his head in a circle.
+
+"Hod do what Hod must. But! Hod also spicy. Watch."
+
+He moved his head at a rapid pace before swallowing the crystallized quintessence. Hod choked on it, but with a single arm, Althea Heimliched him, popping the crystal out. The motion was smooth and practiced, but Hod grabbed the crystal before it landed on the ground. He popped it back in his mouth again.
+
+"Hod thank pretty lady."
+
+Althea smiled.
+
+"No problem."
+
+Plazia walked over and dropped the Omega Crystal in front of Hod. Plazia oozed.
+
+"You wish to stay corrupted? Do so."
+
+Plazia turned away, opening a short-range portal to his study.
+
+"But you are a fool."
+
+The warp closed, and the Omega Strain oozed energy. I pointed at it.
+
+"So, if we use this crystal, we might be able to make Other Hod-"
+
+Hod lunged forward and swallowed it. The much smaller mana shard got stuck in his throat, but the cooler-sized Omega Strain slid down, defying the laws of physics. Althea and I gawked before Torix pinched his brow.
+
+"It's like trying to control a rabid child."
+
+Before it assimilated, I condensed a gravity well over the crystal and pulled it out. Hod deflated as I did. Setting the crystal outside arm's reach, I frowned.
+
+"You don't even know what it does yet, do you?"
+
+Hod gestured his wings to the crystal.
+
+"It look tasty."
+
+Shalahora flowed over, materializing in a cross-legged position beside Hod.
+
+"Is that a lie?"
+
+Hod crossed his arms.
+
+"Hod caught. Hod want friend safe. Crystal make friend safe. Hod can tell."
+
+Shalahora tapped Hod's forehead.
+
+"In doing so, you risk losing who and what you are. This would sadden your friend deeply."
+
+I sat down with Shalahora. I put a hand on Hod's shoulder.
+
+"Do you mind if I talk to Other Hod?"
+
+Hod looked away.
+
+"Yes. Hod mind."
+
+Other Hod came out, shadows effusing.
+
+"What is it, Harbinger?"
+
+I turned a palm to the guy.
+
+"So you're trying to complete Hod. Do you mind if I ask why?"
+
+Other Hod tilted his head.
+
+"I have stolen what I am from him. Do I need another reason?"
+
+Althea scratched the side of her face.
+
+"So, I don't think Daniel's wondering why you want to return the stolen part. He's, hm, he's asking why you think you stole from him."
+
+I peered at Althea.
+
+"Can you tell me?"
+
+She shrugged.
+
+"Yeah, but-"
+
+Other Hod placed a large, shadowy hand over her shoulder.
+
+"Let me...Please."
+
+Althea made herself comfortable, hugging her thighs to her chest.
+
+"Of course."
+
+Other Hod lowered his arm, facing me.
+
+"I...I know what I am. Every time I am emboldened to fight or kill in your name, I experience...An internal struggle. I wish to consume. To drink blood and gorge on flesh. I choose not to, but it is latent within me, a desire I fight every day."
+
+Other Hod gestured to his shadows.
+
+"These shadows are a part of what I am, but they are also a part of what Hod once was."
+
+Althea frowned.
+
+"Hey, we talked about this. We agreed that wasn't the case."
+
+Other Hod shook his head.
+
+"Those are words. I know that Hod was a being of immense insight and understanding. My growth was fueled by his dimming light. These-"
+
+He tried rubbing his shadows off, but they returned in a second.
+
+"These shadows are his darkness."
+
+He lowered his gaze.
+
+"My strength is a manifestation of his dying."
+
+All this time, I never understood why Other Hod had tried taking care of Hod or why he experienced his guilt. He reminded me of my feelings for Springfield and how I abandoned the town. In actuality, I'd fought tooth and nail for the place, but I never believed that. To me, I let that place die to Yawm.
+
+Other Hod never believed he fought for Hod either.
+
+Trying to help, I put the Rise of Eden over Other Hod.
+
+"That's...That's hard."
+
+Other Hod nodded.
+
+"It is. I am not this feeling of protection or understanding. Those are the pieces of Hod I stole. I am the hunger, the malice, and the hate. I am sane through his insanity. I am patient by his impatience."
+
+He curled his shadowy hands into fists.
+
+"And I wish to give back what I have stolen. The Sun Swallower has given me that chance, and I want to seize it."
+
+Other Hod shook his fists.
+
+"But Hod...Hod wishes to steal it from me."
+
+Hod came out.
+
+"Hod say you stole from Hod First. Hod steal from you now."
+
+Hod bonked himself on the head.
+
+"Bad friend. Bad."
+
+I raised a hand.
+
+"Wait a second, stop fighting."
+
+Hod was strangling himself again, but he stopped as I spoke. He squawked.
+
+"Hod do as Harbinger say."
+
+I pinched the bridge of my nose.
+
+"Ok, I think I understand how you feel."
+
+Hod puffed his chest out, putting his wings on his hips.
+
+"Hod knew Harbinger would."
+
+I shook my head.
+
+"No, I mean Other Hod."
+
+Other Hod enveloped Hod, and he narrowed his red eyes.
+
+"How?"
+
+Althea and the others leaned in. I scratched my head, not wanting to answer, but Althea told me her story when I felt down. It helped me, so I pushed through my unease.
+
+"I'm kind of in the same boat. If you think about it, I'm just a normal kid from some midwest town. I had nothing going for me before Schema arrived, and even after getting trapped in a dungeon, I wasn't anything special."
+
+Torix raised a hand.
+
+"No. No, you will not say that about y-"
+
+I turned to him.
+
+"Come on. Let me say my piece."
+
+Torix squeezed his hand to a fist while peering down. He shook his head.
+
+"Speak your nonsense."
+
+I spread my hands.
+
+"I was just some lazy kid. You guys don't even know, but I was failing high school. That takes effort. Millions of people could've done so much more with this armor. Every damn day I know that. It's like...It beats me over the head. All the time. Never ceasing. Relentless."
+
+I nodded.
+
+"So yeah. You feel like you stole Hod's destiny. I get that because I always feel like I'm failing mine."
+
+The wind whistled over the trees and stones, the branches bending in the breeze. Torix's eyes flared red before he walked over. He slapped the back of my head. It didn't hurt, but I gawked at him.
+
+"What's the problem?"
+
+Torix held his hand up, and it shook. He wanted to say something before stopping. He peered away before composing himself.
+
+"You...You think you're failing your destiny?"
+
+Seeing his rage boiling under the surface, I frowned.
+
+"Uhm, maybe? I don't know. I was just talking."
+
+His wrath grew. I scratched my cheek.
+
+"You know what? I, for real, didn't even mean it."
+
+Torix snapped.
+
+"No, you told us what you think. It's what you believe to be true."
+
+He shook his head, throwing his hand to the side.
+
+"You do realize we all have a path we walk, don't you?"
+
+A bit nervous, I furrowed my brow.
+
+"Yes. Maybe. No."
+
+Torix gestured to everyone.
+
+"None of us know where we are going. None of us have any idea what we're doing. We're all making the best of our given circumstances and situations. As an example, I spent centuries on my planet's moon, idling away on meaningless experiments and esoteric study. I accomplished nothing."
+
+Torix pointed at me, his eyes flaring.
+
+"In half a decade, you built a planetary empire, saved your homeworld, and brought a galactic faction to its knees. You've rallied together people from all walks of life. You've saved three different species, two from outright extinction."
+
+Torix put his hand right beside my face, pointing it like a weapon.
+
+"You gave us all something to fight for, including me, an aimless lich exiled by his family."
+
+I leaned back. He leaned forward.
+
+"That is to say, no one, and I mean no one, will so much as insinuate that my disciple is a failure. Not even himself."
+
+A bird flew past us, landing on Shalahora's shoulder. It cawed before I coughed into a hand.
+
+"Ahem...Message received."
+
+Torix leaned back, his eyes dimming from red to pink. He gazed around before brushing himself off.
+
+"Yes, well then...Ahem."
+
+He interlocked his hands behind himself.
+
+"Perhaps I overdid it. Do excuse me if you would."
+
+Althea hopped up.
+
+"I don't think so. I'm glad you slapped some sense into the big guy. And yeah, I hate it when he talks like that too."
+
+She shrugged.
+
+"Sheesh, if he's lazy, then what are we?"
+
+The group laughed while Althea peered around, beaming.
+
+"I mean, really though?"
+
+Other Hod stood up, staring at me.
+
+"You are one of the few that deserve to be free of guilt. If you have found pain in your circumstances, then it may be found by anyone. I am no different, so I shall try to uncover where my guilt is deserving and where it is not."
+
+I pulled the shadowed Omega Strain over to my palm. I moved it in front of Other Hod.
+
+"Well, we should be able to get more out of Hod and more out of you with this."
+
+Torix jumped into the conversation.
+
+"Yes. Indeed. If you assimilate this viral entity, your eldritch half will grow."
+
+Other Hod marveled at the stone.
+
+"It is...Beautiful. Tantalizing, even."
+
+Shalahora flashed beside him, pointing at it.
+
+"I have seen its effects on the mind. You will expand, becoming greater. We shall be able to peel pieces of Hod's memories and mind from you, giving it back. We shall feed you this strength, ceasing your death."
+
+I smiled.
+
+"We'll get more Hod and Other Hod."
+
+Hod's head replaced Other Hod's.
+
+"Hod become...Super Hod."
+
+I burst into laughter. The entire conversation had many tone shifts from Hod's interruptions, but I couldn't help but love the guy. Shalahora tilted his head.
+
+"In a sense, yes."
+
+Shalahora tapped the gem.
+
+"You told me that you wished to uncover what you are. It may be done, but you must risk everything."
+
+Shalahora grabbed the stone, holding it in front of Hod.
+
+"Are you willing to leave Hod's wake, or will you linger in his gloom?"
+
+Other Hod stood, his shadow looming over the Omega Strain.
+
+"I am a parasite, feasting on a memory of what was."
+
+Other Hod reached out, and his voice deepened. His claws sharpened, and his shadows flared like charcoal-colored fire. His voice seeped into our surroundings.
+
+"I will walk out of his shade and into my own."
+
+As he grasped the stone, his voice rumbled like thunder.
+
+"And I'll be of my own making."

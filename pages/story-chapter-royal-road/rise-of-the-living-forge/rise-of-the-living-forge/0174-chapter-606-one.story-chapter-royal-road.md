@@ -1,0 +1,129 @@
+---
+id: 2fbd466f-997a-554c-9910-94bc7fbe802c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 606: One"
+slug: 0174-chapter-606-one
+partOf: rise-of-the-living-forge
+position: 174
+ownLength: 1897
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3519371/chapter-606-one"
+royalRoadId: "3519371"
+---
+
+The next two days passed agonizingly slow for Olive. She was pretty sure both Arwin and Lillia had come back from Sunsetting their classes looking better and stronger than ever before. Nobody else had returned bent over and hobbling like they’d lost a fight to a flight of stairs.
+
+It seemed she was the exception. Recovery was far slower than she would have liked. By all means, two days wasn’t that much in the grand scheme of things. But having to sit around and do nothing in bed except eat and rest was a unique form of torture. It was made doubly painful by the knowledge that the rest of the Menagerie were doubtlessly training and getting stronger.
+
+She couldn’t even ask Setting Sun’s healer what her progress was like. She hadn’t seen them once. The only person she interacted with was Two, who came by every few hours to check in on her and bring some food. Their healer was apparently the shy type. According to Two, they only showed up whenever Olive was asleep.
+
+That was mildly suspicious. But thus far, she did seem to be getting better. The immense aches that had wracked her body were gone. Her arm was still perfectly collaborative. And she felt stronger. It had taken some time to really start noticing the effects of the Sunsetting, but now she couldn’t miss them.
+
+Olive’s skin had gotten tougher. She’d tried to cut herself with the knife that Two brought for her breakfast — much to his displeasure — only to find that the blade could barely even scratch her skin. And even when it did, the damage didn’t manage to draw blood.
+
+It was as if her body had suddenly gained the inherent properties of armor. Or, more accurately, wood.
+
+Two had been right about merging with her arm. They had been connected in more ways than just one. It wasn’t just that the arm was a natural part of her body. They’d exchanged pieces of themselves. That did go quite a long way in explaining why everything hurt so much. Such a process couldn’t have been easy for a body to withstand.
+
+But it didn’t make Olive feel all that much more patient. If anything, she wanted to get out and test her new abilities even more. Two had stubbornly refused every request to let her leave the room thus far. He seemed convinced that she would fling herself off a cliff testing just how much stronger she’d gotten.
+
+In all fairness to him, that had a decent chance of happening. It was ever so slightly hard to blame him too much for keeping a sharp eye on her. Especially after the whole breakfast knife incident.
+
+Even still, Olive was beyond relieved when Two came for her after breakfast on the third day. There was only so much she could take.
+
+“How are you feeling?” Two asked.
+
+“Bored,” Olive replied.
+
+“I didn’t need to hear that part. I could guess,” Two replied dryly. “I meant your recovery. Are you still pained?”
+
+“Only in the ass.”
+
+Two’s brow furrowed. “Truly? That’s not good. By now, the symptoms should have—”
+
+“I was talking about you, you stiff bastard,” Olive said through a groan. “Please let me out of here. I had a flicker of hope when you managed a joke a few days ago, but I’m starting to think that was the only one you’ve got in you. I’m going to die from the sheer boredom aura you exude.”
+
+“Does that mean your ass does not hurt?” Two asked.
+
+“Yes,” Olive said flatly. “I’m still a bit sore, but way better than a few days ago. I think I feel fine. I’ve felt worse from training sessions.”
+
+Two studied her for a moment as if trying to determine if she was lying. Then he nodded. “Good. That will be sufficient. It sounds like you have mostly adapted to the changes. If anything suddenly changes, do let Eleven know during one of her trips. We need to make sure everything remains stable.”
+
+“Is it likely to not remain stable?” Olive asked warily. “I thought you said this was a good thing.”
+
+“It is,” Two said. “But matters of the soul, especially when a Leyline is involved, can be… significant.”
+
+“Right,” Olive said slowly. Then she started. “Wait. Does this mean I can finally head back? You’re not going to make me stay here any longer?”
+
+Two laughed. “Yes. You can go back today. Contrary to what you may believe, we have no desire to keep you here forever. And the Menagerie have more members to Sunset. I would imagine they’re just as keen for you to return as they are to send someone else back to us. Even with your expected difficulties, your guild continues to impress.”
+
+“Yeah, yeah. We’re awesome,” Olive said. She hopped out of bed and cracked her neck. “Get me out of here. And give me my armor back. You can’t keep it. I don’t know where you hid it, but—”
+
+“It’ll be yours when you leave,” Two said with a laugh. “We had to make sure you didn’t go running off on us. Eleven will return it to you when you depart.”
+
+Olive harrumphed. “Whatever. So we’re going now?”
+
+“No. I said today,” Two corrected. “Not now. There’s something else that you’ll be doing first.”
+
+“There is?” Olive frowned. “More Sunsetting stuff?”
+
+“No. It seems you may have forgotten already, but I suppose that’s excusable with all the sleeping and recovery you’ve been doing.” Two nodded to the door at his back. “Before you meet with the Menagerie, you’re going to speak with One.”
+
+***
+
+Olive followed Two through the stone halls of Setting Sun’s base. It didn’t take long for her to get lost within the winding paths. For a relatively small guild, their hideout was enormous. They really hadn’t wasted any part of the mountain that they’d built themselves into.
+
+It was nearly ten minutes of walking, with the only sound accompanying the two of them being the echo of their footsteps, before they came to a halt before a plain looking metal door. It was completely unadorned, without so much as a handle. It was just a slab of metal built into the rock. The hall leading up to it was similarly plain. Had she not known where they were headed, Olive would have assumed they’d arrived at a storage room.
+
+“You take a wrong turn?” Olive asked. “Wouldn’t blame you. This place is a maze.”
+
+Two sent her a sidelong look. Then he shook his head. “No. This is where we were going.”
+
+“Here?” Olive asked. She sent a disbelieving look at the door. “Right. This isn’t you trying to get revenge on me for saying you have no sense of humor, is it?”
+
+“No,” Two replied. “This is the entrance to One’s room. He doesn’t enjoy anything overly attention grabbing. It’s not really his style.”
+
+“What is he, a goblin?” Olive muttered. Then she shrugged. “Whatever. So why are we waiting around outside?”
+
+“I’m not going in with you,” Two replied. “I’ll wait outside. He wanted to speak with you privately.”
+
+Olive blinked. Then her eyes narrowed slightly. “Why?”
+
+“I don’t know,” Two replied with a small shrug. “But it’s not often he has the time and energy to speak with people. This is a fairly rare occurrence. I assume he just wants to discuss something with you that he’d prefer I not hear. Maybe because it’s something private to you. I don’t know, but relax. One isn’t going to attack you.”
+
+“You sure?” Olive asked. “Because I’ve got no sword, no armor, and I’m completely lost. This is probably how I’d set things up if I wanted to attack someone.”
+
+Two let out a small laugh. “And yet your most powerful weapon is attached to your body. I promise you, if we’d wanted to attack you, we’d have done it already. It would have been simple to kill you while you were passed out. Setting Sun does not wish to make enemies of the Menagerie. We are on the same side of this war. Why else would we be helping you as much as we are?”
+
+Olive let out a huff. “Maybe try to put a few flowers on the door or something next time, yeah? It’s suspicious as sin.”
+
+“I’ll pass the suggestion along,” Two said. “Best of luck.”
+
+“Luck?” Olive asked. “Why would I need luck? I thought this was just a conversation. You’re not doing a great job at making this seem like a normal event.”
+
+“I’m going to close my mouth now,” Two said. “I promise you. It’s fine. The more I say, the more I’m going to dig my hole deeper. Just go speak with him before he starts wondering what’s going on. If you go missing in our care, do you really think Arwin would sit back and do nothing?”
+
+Olive grunted. Then she peeled her gaze away from Two and approached the plain door. She rested a hand on its surface. The metal swung open easily, revealing a dark room beyond. It room was just barely lit by a pair of weak torches on either side of the walls, casting dim orange light dancing across the ground.
+
+The room was little more than a hollowed out cave with a wide wooden table in its center. Two chairs sat on either side of the table. One was just before Olive, while the other was still cast in shadows. A large man sat in it, hunched over the table and writing something on a paper with a large quill. A stack of papers sat off to his side.
+
+Olive glanced back at Two. He gave her an encouraging nod.
+
+Then, surpassing a sigh, Olive stepped into the room and pulled the door shut behind her.
+
+The man didn’t even glance up. He just kept writing.
+
+Warm welcome. Lovely.
+
+Olive walked up to the table. She glanced around the room once more, finding nothing at all, and lowered herself into the chair with a grunt.
+
+Only then did the scratch of quill against parchment stop.
+
+There was a moment of silence.
+
+Then the man across from her finally looked up. The torchlight caught his features. Nearly half of his face was completely cast in tarnished burnt black metal, melted directly into his flesh as if he were a statue that had been only partially cursed to life.
+
+Olive’s eyes widened. The man’s face wasn’t the only thing cast in metal. The arm he’d been writing with was also stiff and encased, with only a few of his fingers and small patches of the limb being actual flesh.
+
+“Ah. You must be Olive,” the man said from the corner of his mouth. The rest of it didn’t move. It remained as still and solid as — well — metal. He set his quill down and met her eyes. Despite the huge swathes of immovable material warping his visage, his lone working eye was strikingly bright. “I’m glad you were able to make it. I’m sorry I couldn’t come to your room… but I’m not as mobile as I once was. Two doubtlessly told who I am, but a man is only as good as his manners. Please allow me to introduce myself anyway. I am known as One.”

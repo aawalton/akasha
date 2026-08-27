@@ -1,0 +1,177 @@
+---
+id: 41c65a1c-1b89-5ead-9b69-ce973158bb86
+page-type-slug: story-chapter-royal-road
+title: "Chapter 595: Consistent"
+slug: 0163-chapter-595-consistent
+partOf: rise-of-the-living-forge
+position: 163
+ownLength: 2202
+unit: words
+publishedAt: 2026-05-21
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3427790/chapter-595-consistent"
+royalRoadId: "3427790"
+---
+
+“Holy shit!” Vanessa exclaimed, her eyes going wide in a mixture of awe and admiration as she spun to face Lillia. “You’ve been holding out on us! I thought you were a mage, girl! What was that?”
+
+“Magic,” Lillia replied, clearly trying not to look too surprised at the effectiveness of her own magic. She coughed into her fist.
+
+Arwin felt just about as surprised as Vanessa looked. Lillia had just killed a high Expert Tier monster in a single attack. And it hadn’t even been anything close to the strongest attack she could muster. That had been a normal attack. Sure, the monster had been a mage, but the point still stood.
+
+Assassinating a boss monster in a single move, without even having to move from the entrance of the boss room… well, that was something he could have only pulled off if the monster stood still for long enough for him to pull his bow out and charge it to the max.
+
+He glanced toward the remaining monsters. There wasn’t much to worry about. The kobolds had broken the moment the Chieftain had died and were running around like a bunch of headless chickens.
+
+“That… was not something I have seen before,” Kien said slowly. He studied Lillia warily for a moment. “Have you always been capable of such feats? Or was Sunsetting your class truly that effective? You did not seem particularly strained. Does that mean you are capable of more?”
+
+“I have to wonder the same,” Arwin said with a disbelieving laugh. “That was hardly a test of your abilities. You just walked up and one-shotted the boss. If anything, that just makes me want to know more. You’re definitely still holding back some of what you’re capable of, right?”
+
+“Don’t you think you’re all laying it on a bit thick?” Lillia asked, reddening.
+
+“I note you’re not answering the question,” Vanessa observed. She spun her axe around, embedding it in the skull of a Kobold that had grown a little too close to their group and killing the monster in a single blow. She ripped the weapon free and kicked the dead monster away. “This is cruel, you know. Making us come all the way down here and forcing us to do all the work, just to instantly kill the boss and not even use your best trick doing it.”
+
+“I never said—”
+
+“You didn’t have to say. The implication is there,” Vanessa said. Her eyes flicked to the ground. “Also, there are still eyes in your shadow. You’ve got more of those.”
+
+Vanessa makes it really easy to forget just how sharp she actually is. For all her talk about being a Thug and just liking to hit things, she’s damn good at picking up on stuff that most people would never notice.
+
+“It’s hardly my fault that the boss was so weak,” Lillia said defensively. “I had been planning on doing more. I would have used my abilities way earlier if I thought I was only going to get a second of use out of them. There was more I wanted to test.”
+
+“I’m not so certain I’d say the boss was weak,” Kien said. “You simply outclassed it, not to mention any sudden attacks tend to be death sentences for pure mages. Even still… I may have to adjust my stance slightly.”
+
+“Your stance?” Vanessa asked, tilting her head to the side. “On what?”
+
+“I previously said I did not yet want to be Sunsetted in order to spend more time adjusting to my class.” Kien gave them a sheepish grin. “I have changed my mind. I don’t want to put myself on the block quite yet, but I am beginning to understand just how significant a difference advancing your class like that can be.”
+
+“What exactly is Sunsetting your Class?” Vanessa asked curiously. “I’ve heard you lot mention it a few times, and I’ve seen the creepy seaweed-haired lady kidnap your folks a few time for it, but I don’t think anyone ever told me exactly what it was. Or, if you did, I was probably drunk. Sorry.”
+
+Arwin paused for a moment. He’d actually forgotten that Vanessa wasn’t fully in the loop on everything with regard to the Menagerie. She was a relatively new addition to their group. Strangely enough, he trusted her. Maybe it was because she wore her emotions on her sleeve. Vanessa just didn’t seem like the type to be playing the long game to screw them over for no reason.
+
+“That’s not an easy question to answer,” Lillia said. “And it depends quite heavily on your continued partnership with the Menagerie. If we get too much deeper, there’s no leaving. You’re stuck with us.”
+
+“You lot pay better than any boss I’ve ever had, and the food is ten times better. No, a hundred. I sold my life away the moment I had a meal in your tavern,” Vanessa said with a snort. “I can think of far worse groups to attach myself to.”
+
+“Even if it means coming into conflict with some very powerful people?” Arwin asked.
+
+Vanessa sent him a sidelong look. “The number one cause of death in thugs is getting killed by someone stronger. It’s practically in our job description.”
+
+“Have you considered that your job is terrible?” Kien asked. “It seems like changing it may be advantageous to your health.”
+
+“You don’t change your class. Come on. Everyone knows that.” Vanessa let out a snort. “I’m just fine with who I am. More than most people can say. So yeah, I don’t care who we’re fighting. So long as you keep me stocked up on good food and enough coin to afford all the courte— uh, friends I can want, then we’re good.”
+
+That was probably about as heartfelt of an approval as they were ever going to get from her.
+
+“Sunsetting your class is… basically what you just said couldn’t be done,” Arwin said. “And it’s also a secret. You can’t speak of this to anyone outside our guild. The results could be disastrous.”
+
+Actually, most people would just think you’re completely insane. But it would still probably be less than ideal to go around advertising it too hard. Word could reach the wrong ears. The Guild doesn’t know that we’re partnered with Setting Sun yet. As far as they’re aware, we don’t have any Sunsetted members. I’d like to keep that advantage for as long as possible.
+
+And, by the time they do learn… I don’t plan on giving them time to adapt.
+
+“Seriously?” Vanessa asked.
+
+There was a heavy thunk. They all glanced over as a Kobold crumpled, domed in the head by Kien’s broom.
+
+“Continue,” Kien said. “Don’t mind me. I was just cleaning up the mess.”
+
+“You have a way to change someone’s class?” Vanessa asked in disbelief. “Just like that? That’s what you’ve all been doing?”
+
+“Basically,” Arwin said. “It’s not so much a change as it is a righting. It aligns you more closely with what you really desire.”
+
+“Shit,” Vanessa breathed. “How do I sign up for that?”
+
+“I thought you like being a Thug?” Lillia arched an eyebrow.
+
+“Yeah, but I could be a Super Thug. Why would I stay weaker when I could instead choose to be stronger?”
+
+I don’t think anyone can ever argue with that.
+
+“I don’t think anyone would have an issue with you being selected. Just know the process isn’t easy. There’s a high chance of things going pretty poorly.”
+
+Vanessa grunted. “That’s just life. I can’t believe you were sitting on something like that.”
+
+Arwin and Lillia exchanged a glance.
+
+This was hardly the biggest secret the Menagerie were sitting on. It had been a while since they’d revealed the truth of who they really were to the Menagerie, and their guild had taken on a number of new members in that time. Vanessa was among them.
+
+If she knew that she was in the presence of the former Hero and Demon Queen…
+
+“What are you doing?” Vanessa’s eyes narrowed. “I see that look. You’re looking at each other weird. And it isn’t fuck-me eyes, either. That’s the ‘I know something you don’t’ look. I don’t like that.”
+
+Damn it. She’s seriously perceptive. Were we really that obvious?
+
+“We might have a few more secrets,” Arwin said. “A number of them. To be honest, we try to just avoid talking about some things too much in general. Some of the stuff we’re sitting on has the potential to cause some terrible things if it got out.”
+
+“Trust me. I know all about how important it is to keep secrets. It’s in the Thug rulebook,” Vanessa said, giving Arwin a salute. “You can trust me. We never share anything we’re not meant to.”
+
+“I don’t know if we’ve quite imposed upon you the severity of what we’re talking about here,” Arwin said slowly. “It’s big, Vanessa. Really big. The Adventurer’s Guild—”
+
+“It’s hardly a secret that you’re not a fan of ‘em,” Vanessa said with a small shrug. “You’ve made that more than clear enough. And even if you hadn’t, the stink-eye you and Lillia get every single time someone mentions it would be enough for me to know you don’t like them.”
+
+“I’d say this goes a bit beyond just not liking them,” Lillia said.
+
+“Meh. Fuck ‘em,” Vanessa said. “Always thought they were a bunch of self-righteous pricks. Bunch of pansies prancing about in fancy armor and preaching to people about how great they are. If you were really that great, you wouldn’t have to say it. They can all get stuffed. If you got some dirt on ‘em, let me hear it. That’s the kind of gossip I live for.”
+
+“I thought Thugs were good at keeping secrets,” Arwin said, a grin tugging at a corner of his lips.
+
+“We are,” Vanessa said. “But that doesn’t mean I don’t love hearing new ones. It’s clear you’ve got some real bad blood.”
+
+“That would still be an understatement. A grudge would be more accurate,” Arwin said. “The guild betrayed us. Both of us.”
+
+“Hardly surprises me,” Vanessa said. “They’d probably stick a sword in the arse of their beloved Hero if they thought it would benefit them. Saw them parading that guy around a town once when I was a kid. I remember feeling sorry for him. Even though he was clanking around in all that fancy armor, he just looked… lost. Like a puppet. ”
+
+Arwin coughed. “You’re more right than you think.”
+
+“Course I am. I — wait. What do you mean?” Vanessa’s eyes narrowed. “Why are you saying it like that?”
+
+“Do you remember when the war ended?” Arwin asked. “For about — what was it, two weeks? When the Hero and Demon Queen defeated each other, shortly before the new ones arrived and everything went back to the way it was?”
+
+Vanessa paused.
+
+Then her eyes went wide.
+
+“Shut up,” Vanessa breathed. “It’s you.”
+
+I knew she was sharp.
+
+“This is a very long story, but I don’t want to explain the whole thing in a random dungeon. For now, I’ll say this. The guild is orchestrating the entire war,” Arwin said. “Both sides of it.”
+
+“Both sides…” Vanessa trailed off. Then her eyes flicked to Lillia. “Fuck me.”
+
+“Taken,” Lillia said.
+
+“Not what I meant,” Vanessa said. “Though I wouldn’t say no. I — Godspit. Godshit, really. You’re the blasted Demon Queen? I thought you were just a random demon. Not—”
+
+“Wait,” Lillia said, blinking in surprise. “You knew I was a demon this whole time? And you didn’t say anything?”
+
+“I told you. Thugs can keep secrets. We’re used to working for the less than savory sorts.” Vanessa shook her head, shock still evident in her eyes. “ But the actual Demon Queen? With the Hero, of all people?”
+
+“I—” Arwin started.
+
+Vanessa raised a hand. “You’re going to have to give me a moment.”
+
+“Fair enough,” Arwin said.
+
+Several seconds passed. Vanessa’s gaze flicked from him to Lillia several times. The disbelief in her eyes slowly shifted into something else.
+
+“I… you know what? This makes a lot of sense, now that I think about it. Things do get a bit tense in a good fight. In multiple ways.” Vanessa nodded to herself. “Yup. I’m over it. No questions here. This adds up.”
+
+“Why does it seem like you’re more surprised about their identities than you are about the revelation that the Adventurer’s Guild is orchestrating a war?” Kien asked with a sidelong look. “That seems like the bigger of the two issues.”
+
+“Eh,” Vanessa said. “It hardly surprises me that the Guild is a bunch of pieces of shit. They’re just worse than I thought. But this does raise a very important question. Does this mean you know more demons?”
+
+“No,” Lillia said. “Not anymore. I haven’t met any since arriving here.”
+
+“Oh,” Vanessa said. Her lips thinned. “Damn. That’s unfortunate.”
+
+“Why?” Kien asked.
+
+“I was hoping for an introduction,” Vanessa said.
+
+“Why would—” Kien cut himself off. Then he sighed. “Right. Of course.”
+
+Vanessa grinned.
+
+Arwin couldn’t keep himself from laughing.
+
+If nothing else, Vanessa was certainly consistent.

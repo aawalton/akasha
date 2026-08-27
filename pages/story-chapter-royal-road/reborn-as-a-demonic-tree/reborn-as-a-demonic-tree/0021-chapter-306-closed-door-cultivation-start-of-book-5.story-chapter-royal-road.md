@@ -1,0 +1,161 @@
+---
+id: 534ff907-56cd-5772-bc44-5cb04381b6c1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 306: Closed Door Cultivation (Start of Book 5)"
+slug: 0021-chapter-306-closed-door-cultivation-start-of-book-5
+partOf: reborn-as-a-demonic-tree
+position: 21
+ownLength: 2717
+unit: words
+ownProgress: 2717
+publishedAt: 2024-06-17
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1681028/chapter-306-closed-door-cultivation-start-of-book"
+royalRoadId: "1681028"
+markedReadAt: "2026-06-29T19:02:12.527Z"
+---
+
+Vincent Nightrose, Patriarch and absolute ruler of the Blood Lotus sect strode up to the doorway of his cultivation chamber. Slotting his fingers into a hole in the wall, the silver runic lines glowed a dark red in response to his Qi. His power pulsed throughout the cavern, bathing it in a bloodied light alongside a loud crack as the stone split away, revealing a long tunnel.
+
+Swinging his arms that reached his shins, Vincent lumbered through the tunnel, the scraping of his toenails alerting those ahead of his emergence from closed-door cultivation. His two Star Cores in the shapes of spiritual hearts beat loudly like drums in his chest as they cycled blood through his spirit veins.
+
+Reaching the end of the tunnel, Vincent stepped into a hall. Pillars of twisted obsidian held up a high ceiling made entirely of red jade. The floor had a checked pattern of white and black, which was bathed in a red glow due to the sunlight streaking through the jade ceiling.
+
+Vincent's piercing gaze swept the empty room. "Nobody dares to greet their Patriarch?" He uttered in a raspy voice, but his Qi empowered his words, carrying them throughout the castle.
+
+The far doors to the room flew open, and a group of cultivators hurried inside. He recognized the ones at the front in black cloaks as members of his Nightrose family, and he could hear the drum of their spiritual hearts beating in their chests. The constant thumping was a sign of their cultivation art and blood affinity.
+
+Something smells good. Vincent licked his cracked lips as a team of blank-faced maids dragged in a chair with a green-haired woman kicking and screaming chained to it.
+
+"Ancestor! I hope you will forgive our tardiness in welcoming your return as you left closed-door cultivation sooner than expected," The man at the front of the group dropped to one knee. "I pray that your swift exit is because of an unexpected breakthrough?"
+
+"I will spare you this time, Elder Cassian, as even I didn't expect to awaken this early," Vincent absentmindedly replied to the man.
+
+Cassian's pounding heart slowed with relief, "Your benevolence knows no bounds, Ancestor—"
+
+"Unfortunately, because my cultivation was abruptly interrupted, I am still stuck in the 8th stage and haven't finished absorbing the Starweaver family's sacrifice. That is to say, my early awakening has nothing to do with an early breakthrough. Rather, I suspect someone is ascending to Nascent Soul Realm on my land."
+
+Cassian's face froze, "I-Is that so?"
+
+Vincent narrowed his eyes, "Who is it?"
+
+Cassian gulped, "The Silverspire Grand Elder entered closed-door cultivation to ascend to the Golden Core realm shortly after you. He has been quite public about his ascension and even sent his sons and daughters out to every city in our sect to set up businesses to determine who is worthy to inherit his Silver Core once he succeeds."
+
+Vincent's spiritual hearts began beating a little louder, sending out waves of power that made his family tremble before him. "Is that so? He sounds rather confident he will succeed—yet none of you thought to inform me of this?"
+
+Cassian planted his forehead on the ground, "We didn't dare interrupt your closed-door cultivation for something so trivial! Despite his confidence, we are unsure he will succeed, and even if he does, disposing of him during his recovery period after ascending is a task the Disciplinary Committee is capable of. To disturb you when a threat like the Beast Tide approaches over such matters seemed unimportant in comparison. I hope you can see we did this with the best intentions."
+
+It was true that he had told them to only alert him if the sect was about to fall, as progressing his cultivation was more important right now. Enforcers from the Celestial Empire had increased activity nearby, even going so far as to plant a Celestial Warden in a branch of the Eternal Pursuit Pavilion in the Tainted Cloud Sect. Such acts of aggression were a prelude to a conflict he couldn't foresee.
+
+"What you say makes sense, Elder Cassian, but something still feels off." Vincent glanced to the east and wrinkled his nose. Detecting Qi from so far was more difficult than detecting bloodlines. All he could tell was that someone quite powerful was undergoing an ascension toward the east.
+
+But even so, I was deep in my cultivation chamber and meditation. Unless the Silverspire Grand Elder has stumbled upon an ancient inheritance, his Qi shouldn't be this intense. Vincent frowned. Things weren't adding up. Maybe it's not an infant soul but a massive Dao Storm, or one of the Grand Elders has gone supernova. Qi is a fickle thing that's hard to comprehend from such a distance.
+
+"The intensity of Qi to the east is far too much to be the Silverspire Grand Elder... wait." Vincent sniffed the air in confusion. The scent of distant Qi had decreased drastically. "It's gone as if I were imagining it."
+
+"What is gone, Ancestor?"
+
+"The intense smell of Qi which awakened me." Vincent tilted his head. Had he been mistaken, and had it been the ripe bloodline that awakened him?
+
+"Perhaps the Grand Elder has succeeded in his ascension," Cassian suggested. "Do you want me to send the Disciplinary Committee to investigate?"
+
+Vincent nodded with a crooked grin, "Don't make it too obvious—they are still one of the strongest families, and I know they have connections to those Celestial Empire bastards through the pavilion. We will know if he succeeded one way or another.
+
+Cassian slowly raised his head from the floor and looked up at Vincent like a well-trained dog, "I will ensure it is handled without problems."
+
+"You better, or it's your blood I will be dining on next," Vincent said coldly.
+
+Cassian grimaced as he stood up and seemed eager to change the topic. He gestured to the sacrifice, "It's not much, but to hopefully appease you, we prepared a small snack for you."
+
+Vincent played along and eyed the woman tied to the chair the maids had put down. He hated to admit it, but he had been growing hungrier as they spoke. Cultivators didn't need to eat like mortals, but spending so long in a cave made anyone crave something delectable.
+
+Muffled screams escaped the magical cloth stuffed in her mouth as she stared back at him with wide eyes of terror and desperately tried to fight against the chains.
+
+"Such noisy food," Vincent stepped forward and ran his nail along the nape of her neck. She shivered and trembled at his touch. Such a pathetic thing. "Which family offered her as a sacrifice to me?"
+
+"The Voidmind family did Ancestor." Cassian helpfully replied.
+
+"Voidmind family? Why would they be the ones to offer her?" Vincent dug his nail into the woman's neck, causing her to jolt in pain and scream into the cloth. Slowly drawing back his finger, he pulled out a floating line of blood like a string and brought it to the tip of his long tongue.
+
+A quick taste confirmed this girl was from the Evergreen family. A line of nobles he had welcomed into the sect due to the chance that one of them would awaken a bloodline that allowed for harmony with forest spirits. Sadly, the bloodline had never appeared in many generations, so he had grown disinterested in them.
+
+"Ancestor, as you instructed, we sent the Evergreen and Winterwrath families to kill the Grand Elder of the Ravenborne family right after he reached the Nascent Soul Realm. However, the conflict seemed to have caused an overnight war, resulting in all three families being wiped out. This girl, Elenor Evergreen, is one of the sole survivors from her family. She sprouted nonsense about a void beast being the one to cause the death of her family—"
+
+"Cassian, what did you just say?" Vincent's words were ice cold, silencing the man. "All three families were wiped out?"
+
+The Evergreen and Winterwrath families were of little consequence as their affinities were common. They had also produced a lack of bloodline inheritors, so he had used them as pawns. Keeping them around was a waste of precious airships and spirit stones. But the Ravenborne family was worth keeping around.
+
+I saw the faintest trace of the Ravena Clan bloodline in their Grand Elder, but sadly, that useless old man never manifested any demonic powers. I know he had many children and planned to check on them before fleeing this incoming Beast Tide and relocating away from the Celestial Warden. But to think they were wiped out before I got a chance is a bit of a shame, but it is nothing worth dwelling on.
+
+"Yes, Ancestor. The Redclaws now oversee Darklight City."
+
+Vincent clicked his tongue, "That old dog Magnus Redclaw is still trying to throw his weight around? Well, whatever. I don't have time to deal with these useless matters—the precious blood in my chambers grows stale as we speak, and I feel on the verge of finally breaking through to the peak of Nascent Soul Realm."
+
+Compared to the threat of the Celestial Empire, noble families abusing Beast Cores for quick rises in power aren't worth my attention. But losing three whole families is still quite a blow. Should I send someone to try and breed new noble families?
+
+As he pondered, he rested his palm on the Evergreen woman's head. Clamping his fingers around her skull like one would grip an egg, he enjoyed her final struggle as he simply twisted his hand, snapping her neck with a satisfying crunch and pulling her head free from her now limp body held in place by runic chains.
+
+Vincent raised his hand to his mouth, unhinged his jaw and bit a chunk out of the woman's head like a fruit. The sound of chewing and grinding her skull with his teeth filled the silent room, and the dried tears that had been on her cheeks gave the snack a salty flavor. After a few more bites and gulping down the brain, he licked his lips as he finished.
+
+"Not bad, though nature affinity cultivators always have this offputting floral taste to their blood," Vincent said as he sucked out all the blood from the now headless corpse in the chair and absorbed it, causing the corpse skin to turn deathly grey and wither.
+
+Vincent felt vitality rejuvenate his body as his skin took on a healthier shade. His joints let off satisfying clicks as he straightened his back and rolled his shoulders. This vessel's life force was running a little lower than he would have liked.
+
+Ah, that feels good. Heavens, I can't wait to be young again. If only it wasn't too risky to weaken myself by swapping bodies until after the Beast Tide relocation. Just a few more years, and I can escape this abomination of a body mutated by all the bloodlines from ancient beasts I have consumed over the years. Though the soul damage incurred from swapping vessels is never fun. Memory loss and personality changes are a real bitch to deal with.
+
+The maids wordlessly picked up the chair and took it away while he was lost in thought. Their eyes were blank stares and always would be. He had overtaken their minds many years ago to turn them into mindless creatures that obey his words.
+
+He wished he could do the same to all the cultivators in the sect... maybe one day.
+
+"Ancestor, the Skyrend and Voidmind families have also gone to war."
+
+"Was it done within the rules?" Vincent asked. So long as his family got a large chunk of the war spoils, he didn't mind seeing those two families duel it out. Void affinity was one of the few things he had to concern himself with, and the Skyrend family could call down heavenly lightning. Neither were families he was too keen on trying to keep in check, so if they would weaken each other without him lifting a finger, that sounded ideal.
+
+Cassian nodded, "All the rules were followed."
+
+"Then let them at it," Vincent sneered as he turned to head back into his cultivation chamber, "Don't disturb me for any reason unless the Silverspire Grand Elder is successful and the Disciplinary Committee cannot contain him."
+
+"As you wish," Cassian gave a deep bow.
+
+Vincent set foot in the tunnel and then remembered something. I can't enjoy Stella Crestfallen's bloodline just yet, as I can only absorb one at a time, but there's no harm in getting her 'ready.'
+
+"Cassian," Vincent looked over his shoulder.
+
+"Yes, Ancestor?"
+
+"Who from the Disciplinary Committee was responsible for keeping an eye on Stella Crestfallen?"
+
+Cassian paused to think for a moment, "I believe it was Grand Elder Valandor. Why?"
+
+"Inform him that Stella Crestfallen's bloodline is ready to harvest, and he should go and capture her when he has some free time. I know he's busy, but we should secure her before something bad happens."
+
+Cassian gave him a wordless bow to show his understanding, and Vincent vanished back into the depths of his cultivation chamber. It seemed his sect was in a rather turbulent state at the moment, but he had more significant problems to worry about than a ragtag group of cultivators he kept around in hopes a few of them carried bloodlines.
+
+I hope that weird Qi fluctuation wasn't from an Enforcer from the Celestial Empire. At least it's gone for now and returned to a more reasonable level that I could believe is the Silverspire Grand Elder ascending.
+
+If the Qi fluctuation had persisted, he might have even gone to take a look himself, but since it dissipated, he would let his sect members investigate it for him.
+
+"So long as I don't feel it again, that is..."
+
+***
+
+Over on Red Vine Peak, Ashlock watched as his Star Core, which had been floating above his body for the last hour and absorbing all the lightning from the storm overhead, began to condense in size.
+
+"Huh, why is it shrinking already?" Ashlock glanced over at Nox and saw her Star Core still ballooning in size and looking like it was about to go supernova before splitting in two. Or at least that is how Ashlock understood an ascension to Nascent Soul Realm was supposed to work. "So why is mine different?"
+
+[Necessary divine energies absorbed. Inner World formation in progress...]
+
+"Is it because of my Inner World?" Ashlock wondered as he welcomed his soul back into the safety of his trunk and raised his {Lightning Qi Barrier} to its maximum strength. "My system promised I would ascend to Nascent Soul within a week so maybe I just need to wait?"
+
+Lightning switched focus and began to pummel him, but the purple barrier absorbed the strikes. He also tried to use his Qi to conceal as much of what was happening here as possible but doubted it would help much.
+
+"Do I really need to deal with a whole week of this?" Ashlock groaned. How was he going to get any sleep? Luckily, he had a lot to keep him busy. Just because he was undergoing an ascension didn't mean he couldn't continue to strengthen his defenses by creating Ents or signing in. He also had many spatial rings to break and extract their contents.
+
+He was also curious about how his Inner World looked. Deciding to check on it first, he focused on his soul inside his body. What had once been a chaotic cloud of basic affinities in the vague shape of a ball certainly looked more like a planet than before, but it was clear there was still a way to go before it was solidified.
+
+Around the Inner World was a shell of divine lightning that arced across the Inner World's surface. Wanting to know what lay below it, he pushed his spiritual sense through and was bewildered.
+
+"Why am I here?" He looked up at the nine moons dominating the sky. He was in the dreamscape.
+
+As if to answer his confusion, the lowest of the moons, which glowed with purple light and carried spatial Qi, split down the middle.
+
+"No way..." Ashlock muttered as the moon revealed its purpose.

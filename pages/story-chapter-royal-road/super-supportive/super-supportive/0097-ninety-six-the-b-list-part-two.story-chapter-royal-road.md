@@ -1,0 +1,501 @@
+---
+id: dd4f742d-9ae6-539c-a097-191a9a8068b3
+page-type-slug: story-chapter-royal-road
+title: "NINETY-SIX: The B List, part two"
+slug: 0097-ninety-six-the-b-list-part-two
+partOf: super-supportive
+position: 97
+ownLength: 4507
+unit: words
+publishedAt: 2023-11-29
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1426842/ninety-six-the-b-list-part-two"
+royalRoadId: "1426842"
+---
+
+96
+ 
+ 
+Alden was keeping his goal for the night simple. Assuming they were allowed to do whatever they wanted with their club practice time, he was just going to use this opportunity to learn what it felt like to run around and protect himself with a burden of this size, shape, and weight.
+
+
+How did the hundred kilos of unpreserved sandbags trapped inside the preserved suitcase affect his skill fatigue? How did moving around with it work? Could he reliably keep his hands on it to maintain entrustment without doing something like strapping it to himself? Was it even practical to try to weaponize something like this?
+
+
+Being able to easily move this much weight is already so good, and it’s probably going to be more useful in the long run for transport instead of creating ridiculously heavy weapons.
+
+
+He kept thinking of how much easier something like this would have made his life three months ago.
+
+
+Has it really just been three months since I was hauling equipment and drums around the lab to help prep for Kibby’s Great Big Boom?
+
+
+Less than three months. But it felt like a lifetime ago.
+
+
+Celena North was pretty combat oriented, even at the high school level. The constant competition and pressure from facing a wide variety of other talents was part of what encouraged people to intuit new uses for their powers, stretch their abilities, and level. But Alden was looking forward to learning a lot of the less flashy stuff more.
+
+
+Moving large objects. Running. Concealment. Dealing with complicated environments.
+
+
+He’d kill for a wilderness survival course, but wilderness survival was one thing that an Avowed almost never needed. It wasn’t like you could get lost in a desert and starve to death when you had the System in your head. Maybe the university offered special classes for people who were anticipating summons?
+
+
+I have to check that out.
+
+
+He kept thinking about the big demon on Moon Thegund. The one he hadn’t ever properly seen or had to deal with. He wanted to be able to survive if he ran into something like that, so combat training was good. But even if he had to fight something or someone to survive in the future…that was just one way to die. There were a million other ways that had nothing to do with combat at all.
+
+
+What if the car hadn’t existed? What if there hadn’t been mover discs to flip it? What if the water at the lab had quit a couple of weeks into his stay?
+
+
+There was magic for all of that. His skill. Stats. Spells he could learn.
+
+
+So, I’ll do whatever the school wants, but my personal focus should be filling in those gaps.
+
+
+He still wanted to hit something really hard with the suitcase before the practice hour was over, though.
+
+
+Alden spotted Andrzej sitting on the bottom bleacher. The Polish boy was holding his cudgel in his lap and talking to a girl wearing a t-shirt over her gym suit that said, “Ask Me About Gympie Gympie,” in black marker.
+
+
+Before he could head over to say hello, his interface flashed:
+
+
+[FLOOR ON]
+ 
+
+
+A small floor status notice remained even after the larger notification faded away.
+
+
+“All right, my little B’s!” a voice called.
+
+
+Alden looked over to see Luna Plim wheeling herself backward into the gym in a rolling desk chair. Her bright red hair was contained in a bun by a pair of pencils, and she was wearing a yellow raincoat over her own unitard. A trio of basketball-sized water balls were following her around like they were her pets.
+
+
+“You’re free to wreak whatever havoc you had planned for tonight. Let me know if you need me to set up a private block for dueling or practice. Injury realism is set to ten percent.”
+
+
+“The warning ouch!” BeeBee shouted.
+
+
+“Thanks, Instructor Plim,” several people called.
+
+
+“If you need any advice, I’ll be in my office,” the teacher said. Then she kept on rolling her office chair across the huge gym until she and her pet water came to a stop in the center of the floor.
+
+
+“Instructor, kill permission has to be explicit—”
+
+
+“I forgot again. Thank you, Rahul. Everyone, you can kill your clubmates today if they don’t mind. This isn’t class. Experiment fearlessly! Ella-Clara, I got all eight of your messages this week. Yes, you can come see me. I’ve been thinking about new ideas for your special friend.”
+
+
+The girl who’d been lapping the gym ever since Alden arrived ran toward the instructor, her chin-length brown hair swinging. A couple of people grumbled. Four students chased after Ella-Clara to wait for their own turn to talk to the instructor.
+
+
+She was the one who had the most victories on The Beat List, Alden thought, staring at the girl’s back. And what’s her special friend?
+
+
+His best guess was that she was a Meister, and her friend was her weapon.
+
+
+What should I start with? They only had an hour. It seemed much too short now. Part of him wanted to go lurk around Plim, hoping to talk to her, but it seemed like other people had been in touch with her throughout the week asking specific questions about powers. It was probably a dick move to try to edge his way in ahead of the established club members when he just had a general thirst for advice.
+
+
+Now that he knew she was their advisor and she worked this way, he would think of some questions and message her to prep for next time.
+
+
+He looked around to see what everyone else was doing for their own practice. There were twenty-nine students here tonight, which meant Alden was seeing most of the B-ranks in the program all at once.
+
+
+Three pairs were fighting with their powers already. Francis was wandering around talking to people and making various tones with his bell rings. The boy who’d been jumping up the bleachers earlier was now doing gymnastics…wow, badly.
+
+
+Alden cringed as the guy attempted an aerial and landed on his head. But he jumped right up again and kept going.
+
+
+The gym is great. You can try out so many things you’d be rightfully scared to do otherwise.
+
+
+He watched as a girl ran past with a pair of custom-made kites flying over her head.
+
+
+“Alden, are you needing a partner for something?”
+
+
+It was Andrzej. The girl in the Gympie Gympie shirt was beside him.
+
+
+Alden smiled at them. “I was taking everything in. I’ve got a suitcase here that will protect me from hits and weigh a hundred kilograms when I drop it.” He lifted the suitcase a little higher. “I’m hoping to get a feel for using something this size and shape as a shield.”
+
+
+The girl leaned forward with an interested expression. “Are you a U?” she asked in a French accent.
+
+
+“Rabbit.”
+
+
+“Haha! Right.”
+
+
+Andrzej shook his head at her. Alden’s Rabbitness had come out during a discussion in Engaging with the Unexpected a few days ago.
+
+
+“Oh no! <<Sorry. I love Rabbits. I had a pet rabbit when I was little. I…>>”
+
+
+“It’s fine.”
+
+
+“Laure and I were going to set up for blind fighting,” said Andrzej. “With some target drones if we could not find a partner. You could be our target instead?”
+
+
+“What’s blind fighting?”
+
+
+“Help us lay down the grass. I will show you.”
+ 
+
+
+********
+ 
+
+
+Andrzej had such an honest face and such forthcoming mannerisms that Alden had almost forgotten he’d initially been suspicious of the Polish boy’s eagerness to take Cudgel Meister off his hands.
+
+
+He’d said he wanted to offload Chainer quickly, which was apparently true. And he’d said he wanted a Meister class with the highest possible Strength stat so he’d meet requirements for a hero team internship he had in mind down the road, which was no doubt also true.
+
+
+But he hadn’t been completely honest. Because what he’d most wanted was a very specific Meister skill that was only offered to a few of the rarer and more brutish-seeming subclasses, Meister of Knuckles and Meister of Cudgel among them. Andrzej knew about it because his anti-Velra uncle was a high rank Knuckle Meister who’d acquired it several years ago as a secondary skill.
+
+
+It was called Throughblow.
+
+
+With it, Andrzej could make the force of his weapon strikes land on the other side of whatever he hit. He could swing his club at a pane of glass, leave it unharmed, and destroy a target several yards beyond it. It turned a close-combat weapon into one with some range. And Andrzej was planning to build his whole battle style around it.
+
+
+His uncle apparently loved it and had been fixated on leveling it ever since he got it. Andrzej said it was at least a nine-top, with every level increase boosting the distance the throughblow could travel.
+
+
+It made being a dude with a club so much more cool than Alden had anticipated.
+
+
+“Being able to fight at different distances is good for a Meister,” Andrzej explained as they positioned tall foam blocks in a line across the gym. Laure and a couple of helpers were laying down trays of sod to make patches of the life element. And ground, incidentally. “Throughblow gives many options. I can hide behind walls and still attack. I can damage things held in locked rooms. Versatility.”
+
+
+“It sounds awesome,” Alden said enthusiastically as he maneuvered another block into place to build the wall Andrzej would be hitting through.
+
+
+The main problem Andrzej faced with his chosen fighting style was that sometimes he wouldn’t be able to see the targets he wanted to hit. He had no shielding skills and wasn’t likely to acquire them, so he planned to use the environment as his shield. But at present, he didn’t have any way of detecting things through opaque walls. He had a list of spell impressions, sensory enhancements, and magical tools he would be collecting and mastering over the coming years that would allow him to visualize or hear things through solid objects. But until then…
+
+
+“Blind fighting practice. To improve my reasoning and aiming.”
+
+
+“And my Life Shaping!” Laure called.
+
+
+The French girl was a third year. To distinguish herself from other Life Shapers and be more useful at their rank, she’d decided a year ago to make a shift from focusing on more traditional telekinetic attacks to using her control over plants for detection. She said she was still an amateur, but when someone stepped on a sod tile she was using her power on, she should know. And she would be giving Andrzej targeting directions based on that.
+
+
+“I have a trait that makes me move better over ground,” Alden told them. “Should I use it to make things harder for you?”
+
+
+“A little,” Andrzej said after thinking about it for a moment. “But not too much. I am not that good at hitting what I can’t see.”
+
+
+After they finished setting up, Alden had his suitcase full of sand re-entrusted to him, and they got started.
+
+
+It was dull for the first several minutes. Alden walked slowly between sod tiles with his suitcase, being sure to stand on each one for at least a few seconds before heading to another. He held his shield between him and the foam wall, just in case, but none of Andrzej’s strikes came close to hitting him. The Cudgel Meister had done versions of this exercise before, but he and Laure had never partnered together to try to coordinate. There was a lot of French-Polish-English discussion going on over there as they sorted themselves out.
+
+
+But then, about five minutes in, they finally got quiet.
+
+
+Did they switch to texting? Alden wondered as he stepped off one patch of grass and headed for another.
+
+
+A moment later, something smashed into his bag. It was a solid hit. Not like Heloísa throwing a chunk of concrete , but more substantial than the wind strikes that Tatiana Evans—the Sky Shaper Alden had defeated in his first ever duel—had delivered.
+
+
+“You got me!” he called excitedly.
+
+
+<<I told you I knew where he was!>> Laure cried.
+
+
+Andrzej poked his head around the edge of the wall. “Are you all right?”
+
+
+Alden nodded.
+
+
+“Your shield?”
+
+
+“It’s a very sturdy shield.” And on top of that, it was so big it could cover him from chin to knee when he held it longways.
+
+
+Andrzej narrowed his eyes. “I will hit it harder next time.”
+
+
+“I might hit you with some grass, too!” Laure shouted.
+
+
+As if to emphasize her point, several of the sod tiles shifted closer to Alden.
+
+
+The pace picked up. Andrzej was not as speedy or as accurate as the third year. Sod chunks flew at Alden much more frequently than cudgel blows did. But the cudgel strikes were a lot more powerful.
+
+
+This was proven when Andrzej aimed too low and sent one of the sod trays flying across the gym, shedding clumps of grass and dirt. It attracted attention, and it wasn’t long before a second year Adjuster joined the people on the other side of the wall and started lobbing small orbs of lightning at Alden.
+
+
+He had appalling aim, but he was making up for it with quantity. Alden had to begin jogging and actively dodging. And with more noise and activity in their section of the gym, they started to gain an audience.
+
+
+“You guys keep missing him! Only Laure is hitting him at all, and she’s just getting him dirty!”
+
+
+“Yeah, the attack team is at too much of a disadvantage if they can’t see. Left! The new boy is ten meters to the left, Andrzej!”
+
+
+<<Don’t cheat!>> Andrzej shouted at the tattletale. After he’d sent a hit that smacked into the edge of Alden’s suitcase shield.
+
+
+The guy who’d been practicing aerials and handsprings came and joined Alden’s side of the wall. A girl bounded over to the other team with a plastic storage container full of what looked like tennis balls soaked in molasses, and a second later they were flying over with everything else. They left streaks of brown goo all over the floor, and when Alden accidentally stepped in one, both of his feet went out from under him in opposite directions.
+
+
+He ended up doing a high-speed split. He was not a person accustomed to doing full splits.
+
+
+What is this? Is it a power or a science project? he wondered as he tried to regain his footing. He’d only stepped in the ooze with the toe of one foot, but both feet kept shooting out from under him like they were entirely greased.
+
+
+He hunkered behind his suitcase, laughing at the absurdity of his own situation as another cudgel blow came in from Andrzej. It hit the unpreserved case, which took it like a chunky heavyweight champion even though it and Alden both slid a few feet across the floor together.
+
+
+A second later, Alden experienced a sudden bodily lightness. It was like he’d been immersed in a pool without getting wet.
+
+
+[I think you might be able to stand up now. It’s possible my zone counteracts whatever that substance is.]
+
+
+The text had come from Max. He’d been in another part of the gym, running the drone he’d borrowed through a zone to test its effect, but it seemed he’d decided that there was a better opportunity for spell testing over here. He’d joined the runaway team, and he was standing on the edge of Andrzej’s range with his arms stretched out toward Alden and a curious look on his face.
+
+
+“It’s the one I used for track hurdles on assessment day!” he called.
+
+
+The levitating one? Alden stood and gripped his bag. The preservation didn’t kick back in. He was startled, and he knew his face showed it. He looked back at Max. Thank goodness he seemed to be entirely focused on Alden’s feet.
+
+
+Even though it wasn’t preserved, the case wasn’t as heavy as it should have been. This isn’t levitation, he thought as he took a single step. There’s resistance. This zone really is more like being on the bottom of a pool.
+
+
+He’d only caught glimpses of Max using the spell while they both ran track. He’d seen him drifting over the hurdles, and he’d assumed a low gravity environment was going on. This was even wilder. Alden was sure he’d be able to swim through the air if he tried.
+
+
+Not that he was going to make the attempt if it showed off his skill’s weakness. It would inevitably come out eventually if they were all fighting each other in class and club regularly, but there was no reason to hasten the process.
+
+
+Of course it would be Max with a spell that interfered. Alden had actually tried The Bearer of All Burdens out in the pool one day at the North of North gym, and he’d been able to make it work fine. I guess this is undeniably somebody else’s magic giving the suitcase a helping hand. Maybe if he was attacking me with the spell instead of assisting, I could work around—
+
+
+The spell cut out suddenly and his suitcase was instantly preserved. The zone had only lasted a few seconds, but it had overridden the unnatural slickness.
+
+
+Alden waved his thanks to Max and jumped onto the nearest patch of grass.
+
+
+“Since you guys are making a mess anyway, I’m joining in!” someone said, and Alden turned to see the club president stomping over to join the other team. Rahul was pushing a shopping cart full of what looked like the entire contents of a rummage sale, and his fully-assembled cannon was on top.
+
+
+Why does it look so squishy in places? It looks like he tried to make a gun around someone’s black beanbag chair.
+
+
+Alden was sure it worked, since the club president was already a part-time university student.
+
+
+Did he call it a multi-object launcher?
+
+
+A second later there was a shrill sound followed by a deep thunk, and a garden gnome covered in flaking paint sailed over the wall in an arc and land right where Max had been standing a moment before. Its gnome hat broke off on impact.
+
+
+“Oh right!” Rahul popped over the wall, boosting himself with his hands. “Alden, Max, are you okay with kill shots? I have the go-ahead from the others.”
+
+
+Alden stared at the dead gnome. “Sure!” he called back, feeling less certain than he sounded.
+
+
+“You can try to kill me, too,” the president said encouragingly. He waved. “Do your best!”
+
+
+He dropped back down.
+
+
+Alden thought he was close enough to skill fatigue to justify some caution, so he stopped preserving his ring. He’d taken quite a few hits on the suitcase by now, and it was harder on him anyway with two hundred pounds of sandbag weight constantly banging into his shield. He’d handicapped his skill enough now, and he wanted to focus on soaking whatever damage the others were dishing out.
+
+
+He stepped sideways to dodge some more badly aimed ball lightning, and not long after that, something that looked like a broken boat paddle came whistling toward him with scary accuracy.
+
+
+It bounced off of his suitcase only to be followed in rapid succession by a bowling pin, a frying pan with a missing handle, and a half-disassembled boombox.
+
+
+Holy cow he can fire anything out of that gun.
+
+
+Alden ran for his life, leaping from patch of ground to patch of ground to avoid the magic molasses on the floor, trying to make full use of his trait for the first time all night. Max took a powerful hit from Andrzej’s cudgel, and then, not long after it, he “died” to something that looked like the dish of a concrete birdbath.
+
+
+Alden would totally have died, too, if his suitcase wasn’t so oversized. Or if Rahul wasn’t being forced to launch things in arcs because of the wall.
+
+
+If a freaking garden gnome flies at you in a straight line, that’s really bad. And someone with a multi-object gun had endless ammunition as long as they weren’t stuck in a barren wasteland. Just pick up some garbage and bang!
+
+
+Alden suspected the third year Wright had some kind of skill or spell that was helping him instantly determine the trajectory of his projectiles, too. No way was he just correctly guessing how all those things with different sizes, shapes, and weights were going to land every time.
+
+
+“Five minutes until you need to clean up!” Instructor Plim called merrily from the referee post she’d taken up a moment before, just after finishing up her conversations with everyone who’d needed her attention. “Alden, what have you got in your bag? I’m so happy to see you and Max at club!”
+
+
+Alden didn’t want to answer because it would give people another way of targeting him. The Life Shaper girl didn’t need anymore help. She had really gotten the hang of giving directions to the others.
+
+
+“It’s a hundred kilos of sandbags, Instructor!” Rahul shouted for him.
+
+
+“Oh! How exciting! Yes, yes, I see…I was going to suggest you try something like that, and you’ve already beaten me to it!”
+
+
+To Alden’s surprise, she ran over to join him, sweeping away the slippery stuff and debris all over the floor in front of her with her pet water balls.
+
+
+“Are you just weight-testing, today?” she asked curiously, while he held the suitcase over his head and squatted near the base of the wall. Rahul wasn’t having much luck lobbing things this close. “Or are you going to do something else? Would you like suggestions?”
+
+
+Some sod smacked into the hood of her raincoat and she ignored it.
+
+
+I bet she has twenty suggestions.
+
+
+Alden, panting, looked up at her from his protected-froggy position. “Honestly? I want to know what it feels like to be able to throw a two hundred pound suitcase.”
+
+
+She beamed. “Well, of course you do! Who wouldn’t? Let’s aim for Rahul. He’s graduating soon. You can hit the others with suitcases any time! How are you going to do it?”
+
+
+Alden couldn’t help but smile back at her. He heard a muffled oath as handspring-guy started sliding around on the floor. “I thought I could jump?” he whispered. “On one of the sod tiles. And get him from above?”
+
+
+He could use his trait to jump really high if he was here, where there would be no permanent consequences for a bad landing.
+
+
+“A fine experiment,” Instructor Plim whispered back. “I suggest waiting until you see something fly over. He’s not that fast on the reload. Or do it when he starts swearing. Francis has been instilling a suggestion that Rahul has no right hand for the past ten minutes, and he’s about to unleash it.”
+
+
+At Alden’s surprised look, she made the flicking motions that the Sway used to activate his bell rings.
+
+
+So that’s how a mind control bell works? He’d been hearing Francis ringing away for the whole club meeting, but he’d been too busy over here to see any effects his power might be having on his victims.
+
+
+Instructor Plim gave Alden a double thumbs up, then jogged over to talk to Max. He was taking the opportunity to see what effects all of the incoming objects and rapidly changing surfaces had on his speed zone spell. Alden could have sworn he’d seen him air typing notes to himself shortly after being murdered by the birdbath.
+
+
+A plastic babydoll with most of its hair missing flew at the terrible gymnast, who still hadn’t caught his footing, and it bounced off his back. A pure humiliation shot. “Come on, man!”
+
+
+“I’ll get revenge for you, Kaleb!” Francis’s voice shouted from somewhere behind them. Ding ding.
+
+
+Rahul started to swear.
+
+
+Alden moved. Is this really going to work?
+
+
+He had an image in his mind of it working. Of him sailing up ten feet in the air and spiking a two hundred pound suitcase, like a monstrous version of a volleyball player.
+
+
+More of a two-handed heave than a spike. The suitcase was an unwieldy size even if his authority was carrying the bulk of the load.
+
+
+But he was excited. His blood was rushing in his ears.
+
+
+He didn’t care if he hit the club president. He wasn’t sure he was even going to aim for him. He didn’t want to fake kill anyone really.
+
+
+He just wanted to feel himself do it—something new, ridiculous, and superhuman.
+
+
+He aimed for the sod tray he’d had his eyes on. He hit it with an approximation of the good form he’d been practicing with Bobby, only too hard. And with a suitcase.
+
+
+He bounced like he’d been thrown up by a trampoline.
+
+
+He cleared the wall in an instant and looked down on the group that had gathered on the other side. Andrzej with his club, Laure gesturing wildly to make her grass clumps fly and calling out instructions, the electricity guy with his eyes closed summoning up another shot. And a few more people who’d joined the free-for-all at the end.
+
+
+Rahul was there, with his cart still half full of junk, shoving some other random thing into the depths of his launcher with his one good arm.
+
+
+Most of them were grinning like idiots. Alden felt himself doing it, too.
+
+
+He flung the suitcase.
+
+
+Someone shouted a warning at Rahul too late, but Alden had been aiming at the Wright’s dwindling supplies anyway. As he fell hard on the floor, he heard a loud crash and a surprised yell.
+
+
+[Right Ankle - Sprain]
+ 
+
+
+Instructor Plim had set the gym to provide them with the breakdowns of their injuries for their information. The low pain setting meant a sprained ankle barely even stung.
+
+
+Alden ignored it, staring up as a whole shopping cart flipped up into the air and over the edge of the foam wall, taking out a section and spilling junk objects everywhere.
+
+
+“Holy shit! What a cannonball!” Francis yelled.
+
+
+“Rahul, Rahul!” called someone watching from the bleachers. Laughter was in their voice. “Did you just take your own broken microwave in the face?!”
+
+
+Luna Plim leaned over Alden with her hands on her hips. Her red hair clashed with the raincoat.
+
+
+“Well, what was it like?” she asked.
+
+
+“It was so much fun,” he said. “I just wish I could have seen it a little better.”
+
+
+“Don’t worry about that!” She pointed up at a drone hovering around over their heads. “I’ve got it on film!”
+
+
+She pulled him onto his feet.
+
+
+“And you can try it again next week! That works, too. Welcome to the B-List! Now, about that fishing line you brought on testing day, have you considered selecting something a little easier for you to handle? Or maybe you could try…” 
+ 
+*

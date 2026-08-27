@@ -1,0 +1,123 @@
+---
+id: 0a4f98f7-694a-5d86-857c-237aa1cede90
+page-type-slug: story-chapter-royal-road
+title: "Epilogue 1 – 🗿 "
+slug: 0020-epilogue-1
+partOf: rock-falls-everyone-dies
+position: 20
+ownLength: 1344
+unit: words
+ownProgress: 1344
+publishedAt: 2023-01-31
+link: "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1101741/epilogue-1"
+royalRoadId: "1101741"
+markedReadAt: "2026-06-29T22:50:55.908Z"
+---
+
+First, we go back, to the day when the world ended. That day was a busy day at the Isekai office.
+
+It would only get busier.
+
+Solara, the minor goddess of heroes, had been at her shift for barely two hours, and she already craved a second cup of divine ambrosia, also known as coffee. She stared at the bright-eyed youth sitting in front of her desk and felt her pulse quickening.
+
+“Excuse me, can you repeat yourself?” She asked, staring calmly at the boy.
+
+“Well—its just… Can’t you provide me with some super nice cheat skill for my new life? I’m supposed to defeat three demon lords according to this contract of yours, and I think that is a pretty unreasonable ask of me, when I am to have no additional boons to help me along!”
+
+Solara sighed deeply, closed her eyes, and counted to ten. Then she opened them and carefully reached into the cabinet under her desk, taking out a paper slip.
+
+“Alright—Jerome—let me remind you of your circumstances a bit,” she said, glaring at the freshly-trucked in 18-year old over the slip. She began reading it.
+
+“Jerome Smith, age 18, no notable achievements in life.”
+
+“Well, I was quite young you know, I didn't have the time!”
+
+“Don’t interrupt me—I’m getting there.” Solara channeled some divine energy into her glare, and the arrogant boy finally shrunk down a bit. She continued reading the paper, voice a glacier. “Cause of death: Attempted to read all 2000 chapters of the webnovel 'Begone Jade Beauties, This Lord Only Wishes to Defy the Heavens', in one sitting. Died of malnutrition, dehydration, and exhaustion.”
+
+She looked over the paper at the suddenly very-silent youth. “What exactly in this gives reason to hand you boons? Those are not given for free you know.”
+
+The boy hesitantly raised a finger. “Well—I can—”
+
+Suddenly, Solara felt an alarm bell hit her senses, as something suddenly felt very wrong. She stood up, and silenced the kid with a gesture. “Please wait a minute there, it appears something has come up, and I must resolve an issue.”
+
+With no further hesitation, she left the kid there, activated her [Divine Grand Teleportation That Goes A Really Big Distance], targeting it to Planet Dirt in the Munira realm.
+
+A portal opened, and she stepped through the universe.
+
+—
+
+And arrived in a hellscape.
+
+She looked at the burning and crushed landscape below her—what had used to be planet Dirt. Her headache grew.
+
+“No no no… This can’t be happening. I was here only two days ago, and now the whole planet has been destroyed!”
+
+She cast out her senses, searching for even one living being that would be able to give her an explanation, and found none.
+
+Until her senses found their way to the very center of the planet, where she finally found a response. Something was there. Something powerful, big, and something which seemed to stretch over the whole burning hellscape. It was sitting there, dull and silent, slowly expanding and assimilating the shell of a planet around it.
+
+“A new [Planet]?” She looked curiously at the ground, wondering what had transpired here.
+
+She cast out her divine sense further down and formed a mental connection with the being.
+
+“Hello, excuse me, can you explain what has happened here?”
+
+Solara could sense the being listening to her, but it did not respond. The only reply she got back was silence.
+
+“Hey, you’re in charge here right?”
+
+Again, no response. Solara really began wishing she had her cup of coffee right about now.
+
+“Look, I know you might be new to this, but things have to be arranged! A [Hero] is scheduled to be sent here you know, and I need at least three demon lords for him to go up against! You can’t just… leave it like this!”
+
+She gestured at the burning and shattered hellscape around her, a world too far gone from even the worst of a [Demon Lord's] plots.
+
+But she got no response.
+
+She glared at the ground, then kicked the molten lava and roiling earth she was standing on with her foot, cursing. “Fine then. I’ll just leave you here then, I’m sure I can arrange a time acceleration field of some sort. You better have some demon lords here within a few hundred thousand years!”
+
+Solara shook her head at the lack of a response, then began rechanneling her teleportation spell, already dreading the meetings and paperwork she would have to go through to explain this.
+
+Just as she was about to be done with the spell, she remembered an irritating detail, and looked down one more time.
+
+“Hey, can I at least get your name? I need it for the paperwork. Can’t exactly have a [Planet] with no name can we? Ignore me, and I'll pick it myself. I won't be kind.”
+
+Finally, she sensed some sort of response. Not words exactly, but she could parse the meaning well enough. Her brows furrowed. “What do you mean you don’t have a name? You have to have something I can call you by!”
+
+Again she received a response, and her headache got twice as bad. She finished the teleportation spell, and appeared back inside her office, right at her desk.
+
+At least the annoying boy was gone, probably off to check the other counters. Solara slumped down on her table, trying to think of how she could spin this.
+
+"Um, excuse me miss, they told me to come here and—"
+
+Solara lifted her head and saw that a mouse of a girl had wandered over to her desk, and now stood in front, glancing around nervously.
+
+The goddess instantly gathered herself into some vague resemblance of a professional, godly bearing, and nodded at her. "Right, a new arrival then. Name?"
+
+"Rihito."
+
+"Alright, give me just a second and I'll look over your file—" Solara said, opening a cupboard and drawing a freshly [Created] slip of paper from there. She began looking it over. "Hmm, [Novice Bard], alright for your age, cause of death: received how much damage?!"
+
+She shouted out the last bit, looking between the paper and the girl who had frozen stiff. Then she looked at the achievements listed. She instantly straightened her back and fixed her face to her best customer service smile. "Ah, sorry I didn't know you were one of our Premium Reincarnation Package beneficiaries, apologies for any rudeness."
+
+The girl just looked more nervous, shrinking back. "Reincarnation... So it really is a thing? The others were talking... do I have to do that? Go fight and stuff?"
+
+Solara used a hint of her divine essence to cast [Calming Presence] and the girl's frightened bearing faded. "Don't worry, the earthlings tend to get like that. They don't really understand like people from your world." Solara said, voice calming and reassuring, like a blanket by a fireplace. "With the boons you are eligible for... you will have a lot of choices. You won't be forced into anything"
+
+The girl gave a nervous smile "Ah, good. I just want to play some more music, really. I think I figured out something just before I... well, you know."
+
+Solara thought for a moment, then gestured to the side. "Why don't you head right over to our Cozy Isekai counter and look over the options there? I think you'll find something quite fitting."
+
+The young bard bowed. "Thank you miss, really."
+
+Solara nodded. "Good luck."
+
+Rihito rose up, beginning to leave, then hesitated for a moment. She turned her head back. "By the way, miss Goddess... are you alright? You seem troubled."
+
+Solara activated her [Divine Eyes of Seeing Almost But Not Quite Everything] and looked herself over. Her eyes were those of a dead fish.
+
+The minor goddess slumped down to the table, sighing long.
+
+“Well, it's just some name trouble, for a new planet." She looked up at the girl, thinking. Bard-types were good at names and sounds, right?
+
+"Girl, do you have any idea how I’m supposed to pronounce 🗿?”

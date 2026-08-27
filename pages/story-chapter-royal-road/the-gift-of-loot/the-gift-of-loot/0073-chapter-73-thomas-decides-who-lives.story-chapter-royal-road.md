@@ -1,0 +1,227 @@
+---
+id: 1a648710-4383-59e4-b0ba-8ace5fa28e75
+page-type-slug: story-chapter-royal-road
+title: "Chapter 73: Thomas Decides Who Lives"
+slug: 0073-chapter-73-thomas-decides-who-lives
+partOf: the-gift-of-loot
+position: 73
+ownLength: 2995
+unit: words
+publishedAt: 2026-08-26
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3868400/chapter-73-thomas-decides-who-lives"
+royalRoadId: "3868400"
+---
+
+The kids were screaming. Ashton was out of his seat, Kingston backed against the far wall, and little Braxton stood completely frozen in place.
+
+Thomas might have frozen in shock too, except the Burden slammed into him so hard he felt it as a physical blow. Suddenly Zach was all he could focus on, and he found it very easy to act to help him.
+
+"Everybody back," he snapped, already pushing the remains of the table and Chinese food away so he had room to work. He didn't dare touch the sparking electric cord that seemed to be actively electrocuting Zach. He could practically feel mana radiating off it and knew if he touched it, he'd be in no better position than Zach. "Ashton, get my backpack! It's right next to the door."
+
+Braxton darted forward to help, but instead of moving a chair or one of the plates, he reached for the sparking cord, trying to stop it from hurting his uncle's friend.
+
+"Braxton, don't—"
+
+He only got a foot away before a mana flare ripped across his hand. Braxton screamed and stumbled back, clutching his hand close.
+
+The sound of his pain went through Thomas like a knife dragged across his own flesh. For a flash of a second, he actually felt his nephew's injury as his own: a hot snap up his own right hand and wrist, followed by an instant dead sensation. Fucking level 5 Healing mana. He shouldn't have messed with it and gone with the level 4 instead.
+
+Every instinct screamed for him to go to Braxton and fix him, and he would have... if Zach wasn't in much worse shape.
+
+Gritting his teeth, he pushed it aside and barked, "Ashton, get my backpack now!"
+
+Ashton, who hadn't moved the first time, jerked into motion and sprinted to the front door.
+
+Thomas made himself focus on Zach. Opening his Healing sight, he saw... shit, none of it was good other than his heart was beating. Somehow the arrows missed that, but he was bleeding out all the same, and two of the arrows had hit the same lung. The Fire mana was dying like it was being doused from within.
+
+It seemed to take forever for Ashton to return with the backpack, though it was only a few seconds.
+
+Thomas snatched it and wrenched the top open. He didn't bother to remove the whole halberd, just grabbed the blade and angled it to the electrocuting cord. White light of the mana disruption enchantment lanced out.
+
+The cord went dark, and Thomas unwound then flung it behind him where it clattered in the kitchen. "Don't touch that," he told the silent and staring kids.
+
+Zach was still conscious, somehow, and was weakly trying to pull at the arrows. His lips moved, but he probably didn't have breath for words. Not a surprise since one lung was super-fucked. That was the technical term.
+
+Thomas batted his hand away. "Hold still. I don't want to make it worse just ripping these out."
+
+The arrow shafts were oddly blue, like jewel blue, and cold and slick to the touch—oh shit, they were made of Water mana.
+
+He didn't know how this was possible, but someone had shaped a Water mana crystal into an arrow. Then they'd shot it at a Fire mana channeler. That would explain the slight wisps of steam he saw curling up from the arrow shafts, visible now that Zach wasn't convulsing.
+
+That also explained why the fire inside was being doused... or would be if Zach weren't releasing a ton of Fire mana from his core to try to burn it out. That came with its own set of problems.
+
+"Never mind," Thomas said and tore the arrows out as fast as he could get his hands around them. Zach, thankfully, didn't scream, but there was a lot of blood, and it wasn't pretty.
+
+From somewhere beyond, Kingston made a gagging sound.
+
+He should have probably sent the kids out before this. Whoops.
+
+Zach wheezed something out like, "Text," but Thomas was sort of busy at the moment. He slapped a hand over a now fever-hot, bloody wound and concentrated his Living Architecture skill on rebuilding what had been punctured and torn.
+
+His Healing sight showed Zach's mana rallying now that the source of Water mana was gone. Flames briefly licked out of the other arrow holes.
+
+Thomas put a stop to that crazy shit by single-mindedly focusing hard efficient tissue rebuilding. He had to be quick. Zach's body was heating up, fast.
+
+Finally, the last arrow wound was sealed, and the damage it wrought repaired. Living Architecture could do nothing for the damage the electricity had done to his nerves, the lost blood or the deflated lung. For that, Thomas slapped one of his level 4 healing crystals in his hand.
+
+Zach was lucid enough to close his fingers and absorb it on reflex. Through his Health Sight, Thomas watched the healing magic roll through him in a wave, fixing every problem plus a thousand tiny things Thomas didn't have the skill or knowledge to touch.
+
+Zach's gaze sharpened as focus returned to him. The second Thomas saw that, he turned to Braxton.
+
+He'd been watching his nephew out of the corner of his eye this entire time. The boy stood near Kingston, cradling his hand and arm with a blank look on his face.
+
+"Here, let me see," Thomas said, crouching in front of him and carefully pulling the arm away.
+
+There was a deep black scorch mark across his palm which ribboned up his wrist. Braxton just stared at it with his face as pale as a sheet of paper. It was a miracle he wasn't screaming his head off. He had to be in shock.
+
+The burn was deep and severe. He needed healing only magic could give him, but that only worked on those who had been in a dungeon before, and Braxton was only ten years old.
+
+Thomas rounded on the older nephews. "Has he been in a dungeon? Tell me the truth."
+
+"N-no," Kingston stammered.
+
+"Not him," Ashton added, voice tight.
+
+"Fuck." Thomas moved back to the ruins of the table to grab his backpack. He had a first-aid kit in there. There had to be, like... ointment or something. A bandage? Where was the closest dungeon?
+
+In one smooth movement, Zach sat up closed a fever-hot hard around his forearm. "Thomas, we have to get Jo."
+
+"Jo? How's she going to help?" Wrenching away, he started looking through his bag. "She can't heal anything. Braxton hasn't been in a dungeon—"
+
+"She's in trouble." Standing, Zach looked past him to the kids. "Ashton, right? Go check the windows. Anything weird out there? Military? Police?"
+
+"Why?" Ashton demanded. "Are you a criminal?"
+
+Kingston turned and ran to look so fast it was clear he couldn't wait to get away from the blood.
+
+That moment, however, had snapped Thomas out of his healer's focus. He forced himself to stop and actually take in the room and not just who was in need of help. "Wait, what? Jo's in trouble? What are you talking about?"
+
+"Check your texts," Zach bit out, clipped and not like himself at all. He stalked to the nearest window, checking outside himself. That gave Thomas a moment to fish out his phone from his pocket. It was on silent, and he hadn't realized.
+
+There was a message on their group chat from Jo, five minutes ago.
+
+Jo: SOS Military at my door.
+
+His stomach sank and understood in a second. Zach had seen it and had, of course, teleported straight to her where he was, what, ambushed?
+
+"What happened?" Thomas demanded.
+
+Zach turned from the window. "I don't know. The room was full of fatigues, and they moved fast—way over my level. I got hit with that stun bola. Then they shot me when I was down."
+
+His stomach sank, and he braced himself for the worst. "Did you see Jo?"
+
+He shook his head once, sharp and angry and not himself at all. "It happened too fast. We need to go get her. Now."
+
+Oh no, that was such a bad idea. "Why, so they can shoot you a second time?"
+
+"I'd like to see them try." The air around him was starting to shimmer with a heat haze.
+
+Oh fuck. Thomas didn't need his Healing sight to see that the Fire mana was starting to run away with him.
+
+Grabbing his backpack, Thomas stepped close. It was a lot like standing next to an open grill, but it wasn't like he hadn't faced worse before. He was also painfully aware the kids were watching, and they were already freaked out. Thomas spoke, low. "You're having a pineapple moment, and this can't happen near my nephews. You understand me?"
+
+Zach had frozen at the word pineapple, then glared at Thomas. There was fire in the back of his eyes and not a lot of rational thought. "Then how about I go back and show them what real fire can do?"
+
+"Zach, think for a second." Grabbing his arm was a bad idea, not only because he was as hot as a fresh mug of poured coffee, but physical contact meant Zach could teleport Thomas along with him. Thomas knew he needed the anchor, though, or else he was liable just to jump back by himself. "You don't know who actually sent that text. They got you the second you arrived which meant they were waiting. They probably... probably had Jo before and set the trap."
+
+"It doesn't matter," he shot back, breathing fast. He was stoking the fire inside. "They won't expect me back, or you to fight too. We can take them, Thomas! We can't just do nothing!"
+
+"I know she needs us," Thomas said. "But you're not yourself right now. C'mon, we invented this whole stupid pineapple thing for a reason. Trust me and stay put. Where's Kevin?"
+
+"Kevin?" That seemed to throw him. "In my bag, in a day-use locker. When I got the text, I couldn't..." He seemed to stumble for a second on the logic. "It's too dangerous for him."
+
+Too bad. The little energy vampire may have helped calm Zach down. Thomas used that pause to rifle through his backpack where, thankfully, he found a level 3 Air mana crystal he still had from the Flying Sword dungeon. "Absorb that, then tell me jumping back into a trap made for you is a great idea."
+
+The worst thing was, a part of him did want to grab his halberd, light 'em up with his mana severing enchantment, and let Zach go fire-crazy on whoever had set this up. Thomas had dragged him back from full volcano demon mode once. He could do it again. And Jo... Whatever happened to her, Thomas could fix it.
+
+No, that was action-hero shit and would get them all killed. The truth was Zach was on the edge and would either literally burn himself out, turn the entire house into a kiln, or become more of a liability than an ally. Meanwhile, Thomas hadn't tried out his mana severing enchantment on a sapient being yet. It might be something a thinking person could shrug off.
+
+It was a suck-ass decision to make, but for the moment, they couldn't go in guns blazing.
+
+Thomas hardened his heart and went to check on Braxton, who was starting to cry either from the tension in the room or coming out of shock.
+
+Miracle upon miracles, Zach stayed put and absorbed the mana.
+
+"Oh, shit," Kingston said, still at the window.
+
+"What?" Thomas and Zach demanded, in the same breath.
+
+"Like, twenty cops just rolled up."
+
+Thomas went to the window in a flash. Kingston wasn't exaggerating. A whole platoon of ominous black SUVs had pulled into the apartment parking lot. They weren't black and whites, but they had the lights on the top. Men and women in generic police uniforms, followed by people in head-to-toe camo, all piled out.
+
+There was a moment of confusion. Thomas understood why because the numbering system for the apartment building was a mess. It threw new delivery people all the time.
+
+That meant these weren't locals who knew better. There were no signs of the usual sheriffs or city police.
+
+The pause only lasted for a moment before someone yelled orders. As a group, they kicked in and flashbanged one of Thomas's neighbors' doors open. They were going to search the entire building, one apartment at a time.
+
+Thomas turned away. "Zach, I need you to get my nephews out of here."
+
+Zach blinked at him. The Air mana was fully absorbed, and he already looked more like himself. "Where?"
+
+"Chipmunk Forest Fire dungeon." It was off the government lists. "Braxton needs to get into a dungeon so I can heal him, and they'll never find us there."
+
+"Wait, what?" Kingston yelped, clearly thrilled. "We're going to a dungeon?"
+
+"Why?" Ashton demanded. He'd already been into several dungeons, and by now he knew they weren't fun and games.
+
+Zach looked at him. "That'll burn me out on teleports for a few hours."
+
+He had been running real low, then. That helped explain the imbalance.
+
+But Jo...
+
+Thomas hated it, but he had to be the one to make the final call. Zach probably wasn't firing on all cylinders yet, and it was Thomas's duty—his burden—to triage. Unfortunately, the decision was clear: Even if Braxton wasn't in need of healing, he couldn't leave the kids behind and hope that this strike force didn't hurt them.
+
+Swallowing, Thomas sent silent apologies to Jo. "Take the kids first. I need to warn Derek."
+
+For a moment, he wondered if Zach would go along with this, but then he let out a long, grounding exhale that still managed to heat the room a little. Then he nodded and turned to the boys with a showman's flourish that, while a little strained, at least showed he was trying. "All right. Who's teleported before? What? Never? Well, the first step is holding hands. Yes, even you big guy..."
+
+With slightly shaking fingers, Thomas dialed Derek. As he did, he heard yelled orders from outside and another flashbang, closer this time.
+
+The phone rang three times then was sent to Derek's voicemail. Dick. He called again, and this time it rang once before the call was declined and sent to voicemail.
+
+They had seconds. Thomas hit the microphone button on the keyboard and dictated a text. "Don't come back to the apartment. The kids are fine; they're with me, but there's some kind of police raid happening to the complex. I'm taking the boys somewhere safe. I'll explain later, just... just don't come here. Call me the second you read this."
+
+Behind him, Zach and the kids vanished. The sound of thudding boots echoed outside. They were on the stairwell outside his door.
+
+Then Zach was back a heartbeat later.
+
+"Time to go," Zach said, a still too-warm hand landing on his shoulder.
+
+A moment later, they were in the forest outside the Chipmunk Forest Fire dungeon. The silence and peace of the forest was a shock all on its own.
+
+Ashton took one look at the wavering dungeon entrance and planted his feet with a mutinous expression. "No. I'm not letting you take my brothers in until someone tells me what's happening."
+
+That was... probably fair, actually.
+
+"There are raids," Thomas said. "I don't know why. One of my teammates—I think she got taken. Your brother—" He paused for a moment and winced. According to the System, Ashton was nearly an adult. Maybe it was time to stop treating him like a child. "You see he needs healing, right? You can only get that if you've been in a dungeon first. Look, this dungeon is a level two. Zach and I have cleared way worse, but I need you to watch your brothers, keep your eyes open, and tell us if anything goes wrong. Can you do that?"
+
+Ashton's expression shifted and he straightened up, standing taller. He nodded once, tight.
+
+"Uncle Thomas," Kingston asked. "Is Braxton's arm going to fall off? Is he going to die?"
+
+Braxton finally broke with a howl of misery, falling onto his butt and holding his arm out like it belonged to someone else.
+
+Thomas shot Kingston a stern look. "You're not being helpful."
+
+Ashton was a little more direct and punched Kingston sharply on the shoulder. "Dip shit."
+
+Thomas went to Braxton. In the light of day, the burn was even worse than he thought. The thick burn across his palm was charred black and there was a flash of something gray and ashen inside. He would be screaming his head off if the nerves weren't surely dead.
+
+No surprise. He got hit with energy that put a level three on the ground.
+
+Thomas hated these people, whoever they were, and let that fury keep him clear-minded enough to keep his head. He scooped his sobbing nephew up, though Braxton was getting a little long in the leg for it.
+
+Braxton burrowed in like he was a small child again, his working fist twisting into his shirt as he cried.
+
+Patting his back, Thomas shushed him, murmuring. "It's going to be okay. We'll get you all fixed up in a moment." Luckily, he was getting a lot of experience rebuilding hands. Glancing up, he found Zach watching him. "You coming?"
+
+There was a weighted pause where Thomas wondered if Zach had enough juice to try for that suicidal teleport after all.
+
+Then Zach rolled his shoulders like he was shedding the last of the clinging fire away. "Yeah. Come on, troops, dungeon time. It'll be fun in there." He helped herd the older boys through the dungeon entrance.
+
+Still carrying Braxton, Thomas followed.
+
+He tried not to think about who he was leaving behind.

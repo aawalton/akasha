@@ -1,0 +1,139 @@
+---
+id: b980d8af-121e-580a-a725-9587787d8d47
+page-type-slug: story-chapter-royal-road
+title: "318 (I) To Bear a Curse [II]"
+slug: 0422-318-i-to-bear-a-curse-ii-3189385
+partOf: path-of-the-deathless-book-4-completed
+position: 422
+ownLength: 2716
+unit: words
+publishedAt: 2026-03-24
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3189385/318-i-to-bear-a-curse-ii"
+royalRoadId: "3189385"
+---
+
+A Tap on the Head
+
+A skill that, as the title implies, allows the user to knock out any adversary, provided that they are humanoid in appearance, possess a brain, and are generally unaware or arrogantly assume they cannot be injured by their attacker.
+
+The adversary is rendered comatose in the aftermath of the skill’s usage and will remain so indefinitely, unless cold water or a vicious slap is applied to their face.
+
+Take note that this skill will not work on anything that resembles a beast, or even a person shifted into the form of a beast. It requires an aesthetic component to trigger, and so one must resemble a humanoid for it to take effect. However, this rule is taken to the extreme. Even if you are a humanoid the size of a mountain, it will immediately affect you, and you will be disabled. The same thing can be said to a monster briefly turned into the shape of a humanoid, even crudely carved through surgical or Biomantic means.
+
+Should you, in an extremely unlikely circumstance, obtain this skill either as a boon from one of the Fair Courts or through a System Quest within the Fairwoods, then understand it is best used in conjunction with your stealth, for the lightest tap will save you an immense struggle.
+
+—Skills of the Fairest (Unfinished encyclopedia about the Fairwoods, started by Hero-Ranger Morgan Munny)
+
+318 (I)
+
+To Bear a Curse [II]
+
+The five Red Riding Wolves stuck to their ridiculous poses. Their rapiers gleamed bright beneath the moonlight, and along their lengths, Shiv saw the faces of the wolves contoured into absurd grins—truly absurd grins. The way their mouths bent defied all logic and biological norms. They were twisting about the same way his eldritch physiology could, but it wasn't like their biology was coercive. No, he could see organs inside them. The organs were swirling about, tangling themselves before snapping back in place, and their hearts were going off like small bombs, pulsing wildly. Their cardiovascular organs swelled to take up their entire chest with each pulse, squeezing their lungs and stomachs to the side; but when the pulse ended, they ceded that space back, and the rest of their body re-inflated like nothing was wrong.
+
+Shiv's first instinct was to call their bodies nonsensical, but there was an underlying structure and logic to the way they worked. It was just exaggerated and silly. Like how someone might describe a body's functions in absurd terms to amuse a child.
+
+“Hello! Hello! Hello! Hello! Hello!” all five of the wolves called out in unison, and they weren't speaking those words either. They were literally singing them. Each one held a different note, from high to low, and they waved their free hands wildly, shaking them like they were beginning a grand performance. Behind the Knights of the Winter Court, the wolf-faced steeds threw back their bardings and turned them into frilly dresses. They immediately stood up on two legs and began doing ballet pirouettes in the backdrop.
+
+“Adam, I'm having your stroke again,” Uva deadpanned.
+
+“I think we're all having the same stroke right now,” Adam declared.
+
+The wolves began bopping up and down, one after the other, entering a hypnotically smooth rhythm. “We humbly, humbly, humbly ask: Surrender yourself to us! Lay your arms down and embrace the snow! For the queen has said you've got to go…”
+
+While the wolves sang, orchestral music began rising in the background. Shiv couldn’t find a band anywhere, but someone was definitely playing horns, strings, and drums in accompaniment to the wolves’ admittedly rather catchy song. In fact, he was having a hard time stopping his feet from moving, and Uva was starting to hum along inside his head.
+
+The magical waters that comprised Adam's battle-ready body quivered in rhythm to the melody—until Toasty threw himself at the Red Riding Wolves with a feral roar of hatred and his halberd raised high.
+
+“Death!” he screeched. “Death and damnation to the slaves of the moon! Death and banishment to Princess Plum Blossom’s bottomless stomach for you!”
+
+The wolves all flinched back and gasped loudly in shock as the diminutive Bread-Knight rushed them. A loud neigh sounded, but it trailed off into a challenging howl as one of the wolf steeds leapt over them. It intercepted the attacker, and the two of them collided to become a tumbling cloud of snow and smoke in midair. All Shiv saw of Toasty and the horse were hooves, fists, the halberd, and frilly barding sticking out at random intervals. The sounds of their brawl continued on as they rolled up and down the street of the snow-choked village. Howling neighs and cries of outrage continued to sound in the background as the twosome rolled beyond sight in an instant. The violence was so absurd, instantaneous, and off-putting that Shiv barely reacted before they were already gone.
+
+When he and Adam finally looked back at the five Red Riding Wolves, they had somehow closed the distance between them, and a series of rapiers was pointed at their throats. Shiv felt the steel press against his skin but sink no further. Mainly because it was steel trying to slip past Orichalcum. Adam was equally at ease; it was hard to cut water with a blade.
+
+“Ahem,” the wolf at the center declared verbally before actually clearing his throat. “I am Rolf, captain of the Red Riding Wolves, Knight of the Moon. I must humbly ask you to surrender to me, or I’ll be forced to get w-w-wolf with you.”
+
+Shiv studied the red-caped wolf accosting him. Rolf was a poor specimen of a wolf-man, barely a third of Shiv’s height and width. He had a potbelly sticking out between the plates of his armor. His arms were arching the wrong way, like his muscles were pointed downward. Ninety percent of his face was occupied by a wide, sloppy grin with a lulling tongue hanging out by the side. His nose was unreasonably large, practically like a balloon. It even glowed red at the top for some reason.
+
+The other Red Riding Wolves had their own peculiarities. One was far too muscular but had such a small, pea-sized head that Shiv could barely tell there was a wolf there at all. Another was truly colossal, the only one to eclipse Shiv in terms of size through sheer obesity. Another one of the wolves was actually a humanoid lamb wearing a hand-scribbled wolf mask made of paper and a red cape. And the final wolf was the most normal out of them all—except for a curled mustache that extended so wide it could practically serve as a pair of wings.
+
+Shiv was trying really, really hard to take everything seriously, but the System seemed to be conspiring against him. “So, what happens if I do surrender? You take me up into that castle inside the moon, and you toss me before Harkness here?”
+
+At her mention, all five Red Riding Wolves spun away from them to give Harkness’ ice sculpture a heart-filled salute. “Praise be her intelligence, praise be her beauty, praise be her wisdom, praise be her majesty, and praise be her intelligence!”
+
+“You said intelligence twice,” Adam noted.
+
+The blades of the wolf-men were back at Shiv's and Adam's throats in an instant, as if they'd never removed them, and Rolf let out an emotional, choked whimper. “That's why she is our Usurper Queen! Because the rest of us don't remember things too good.”
+
+Out of nowhere, five anvils dropped from the sky and slammed down on the heads of the Red Riding Wolves. They all let out yelps as their faces were pancaked. Shiv flinched back, expecting blood, but instead, their flattened heads re-inflated in a moment, and they went back to normal as if nothing had happened.
+
+Harkness’ sculpture scoffed. “I advise you against underestimating my Red Riding Wolves. I know that they might be…” She paused, appearing to search for the proper words. “...Unconventional minions, but they are very effective. Ignore them at your own peril. Actually, I would advise you to ignore them so that they may teach you peril.”
+
+“By now, I'm not sure if she's gone and completely integrated into the native culture to become just as stupid as the creatures we're looking at, or if she actually means that. Maybe even both.” Adam's mind was tinged with disdain. Part of him felt insulted. He'd come here expecting an adventure in great danger; what he got was these cartoonish wolves demanding he drop his blade with a musical number. “Shiv, knock over the statue. We know where Harkness is now. We can go after her directly.”
+
+“And the wolves?” Shiv asked.
+
+“I don't think they're going to be a problem. We'll deal with them easily enough.”
+
+Non-Sequitur rattled violently inside Shiv’s chest.
+
+The Deathless grunted in near agreement, but something still felt wrong. There was a pang of pain deep inside his rectum, the same pang of pain he felt when he beheld the Supplicant for the first time. Jessica had talked about trusting his gut when facing foes he couldn't best, but the Red Riding Wolves were just… goofy.
+
+And so Shiv lashed out with a backhand, striking the statue of the Usurper Queen without even looking at her. The ice shattered into a spray of fragments. The divine mana infused within it faded. She felt her presence lessen in an instant, but heard a low chuckle escape her before she was finally banished. The Red Riding Wolves, meanwhile, let out a loud, unified gasp.
+
+“Oh, you can't do that!” the morbidly obese Red Riding Wolf cried out. “You can't just break the visage of the Queen! Someone put a lot of effort into making that sculpture. You're gonna have to pay for that!”
+
+“Yeah?” Shiv said. “Who's gonna make me pay? You guys? What are you gonna do? Make me sing a song, or you gonna sing another one for me?”
+
+“Maybe later,” Rolf rasped, “but right now, I'm feeling like I want to play the drums. Take this!”
+
+Instead of stabbing Shiv using his rapier, the tiny wolf-man lifted his blade over his head and jumped into the air before tapping Shiv atop the skull. The blow was so pitiful that Shiv suspected that it wouldn't be enough to kill a mosquito.
+
+Shiv chuckled as he thought of a good quip. “Ah, you must have some kind of anti-Physicali—”
+
+But suddenly, the world was spinning. It got really hard to stay balanced. A series of winged frying pans were spiraling around Shiv’s head, his tongue lolled out the side of his mouth, and he—
+
+The ground was rushing up to greet Shiv, but in his way was Rolf, the Red Riding Wolf. Though the pudgy knight of the Winter Court seemed prideful at first, holding his blade high above the bridge of his snout in a salute, his eyes widened as he realized what was coming down on him.
+
+“Oh, sweet Queen—”
+
+Shiv crashed to the ground like a felled oak. The Red Riding Wolf went flatter than Uva beneath him, and with that, the lights of his consciousness went out.
+
+***
+
+A gasp of surprise and alarm escaped Uva as she tumbled free from Shiv's Severed Shadow. The Revenant had fallen over as well; its Vitae form remained manifested, but it was planted face-down against the floor of the Court Leviathan. Its cutting aura was also beginning to go wild, ripping through the tissues of the great beast and drilling down. Blood flooded the room, and Uva stumbled backward on her hands and knees.
+
+Her connection to the Fairwoods had been severed in an instant. She couldn't reach Shiv's physical body there anymore. In fact, she couldn't access any of them. The Severed Shadow, incorporeal and more of a manifestation of Shiv's as it was, had been knocked completely unconscious, and she had been ejected from it the same way she would a dying sleeve. The last thing she recalled was Rolf feebly smacking Shiv over the head with the flat of his blade. It hadn't seemed to hurt Shiv at all. He hadn't even felt any pain from the blow, and if there hadn't been a sound like a wooden hammer striking something, Uva might not have noticed the sword and his head making contact at all.
+
+But then, apparently for no reason at all, Shiv suddenly fell over. And now he was unconscious, with his Revenant cleaving a new hole through Courtney.
+
+The sound of ripping flesh came through the gaps, and the Leviathan let out a thunderous groan.
+
+“Oi, did someone drop a Legendary knife up there? 'Cos somethin' just split me in half!” an orc Biomancer called out from a floor below. “And it nicked me soul too!”
+
+Uva looked on blank-faced for a few seconds as she bent over the hole in the floor to behold more orcs being shredded by Shiv's falling Revenant. The Fairwoods had taken her by surprise—and so had the Red Riding Wolves, for that matter. Harkness had chosen her soldiers for a reason. Uva wasn't going to underestimate her enemy a second time. She needed to get back in the Fairwoods, but she was going to do so with actual support.
+
+Her strands exploded outward, seeking the most knowledgeable person she knew. Then she realized she couldn't find Valor, and so she went for the second most knowledgeable person she knew.
+
+The Culturist.
+
+***
+
+Shiv tipped over so unceremoniously that it caught Adam entirely off guard. Rolf let out a terrified whimper as he was squashed flat. His arms and legs kicked out and flailed from beneath Shiv, and his eyeballs were squeezed out from his sockets—but never got close to bursting.
+
+Adam sighed and shook his head. “Shiv, come on, there's no need to do this. Humoring them is a waste of time. Just handle them normally.” When no response came for three seconds, he frowned. “Shiv? Wait. Uva?”
+
+At first, Adam thought Shiv was up to his bastard ways, playing a mean joke on the wolves. But he couldn't feel Uva anymore, and she wasn't the kind to compromise her focus for a jest. Then he checked for any Psychomantic connection and realized he'd been completely cut off. And with how still Shiv was, he actually seemed unconscious…
+
+“Don't worry, Captain, I got this one!” The lamb pretending to be a wolf strode forward and smashed the butt of his rapier up into Adam's chin. Naturally, the pommel caused a bit of water to splash out wildly, but did no damage. Adam responded by firing a Chronomantic arrow directly into the lamb wolf's face. A resounding crunch filled the air—and the Gate Lord was knocked off his feet as the literal written text of the corresponding sound exploded out from the fake wolf and smashed into him like he was made of flesh.
+
+Before he could get back up, the colossal, obese Red Riding Wolf flung himself into the air and slammed down on him like a man taking a plunge in a pool. Adam cried out, for somehow, the wolf-man was fat enough that he could pin animated water in place.
+
+Despite lacking lungs, Adam found himself gasping for air beneath the wolf-man. “What in the Broken Moon is happening?” he gagged.
+
+“You missed again, Not-Lamb!” the fat wolf cried. “Here. This is how you give someone A Tap on the Head!”
+
+And he promptly smacked Adam on the top of his head like Rolf did Shiv. The Gate Lord’s Hydromantic hand flicked out and knocked the blade out of the obese wolf’s grasp, and it tumbled through the air, embedding itself in the rear of the mustached wolf. A loud thunk followed. The mustached wolf stiffened, and then his face—and facial hair—slowly filled up with redness. Suddenly, he shot a thousand meters into the air, high up into the sky, as he clutched his backside and let out a pained roar that caused the raging blizzard to briefly disperse and the very earth to tremble.
+
+But Adam didn’t get to take advantage of that because he saw birds circling him—hawks, actually. Why were there tiny hawks spinning around his hea—
+
+***

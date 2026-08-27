@@ -1,0 +1,149 @@
+---
+id: 43ac7d30-fe0a-5af0-a928-28ece0c27995
+page-type-slug: story-chapter-royal-road
+title: "Chapter 604: Marrick’s Dilemma"
+slug: 0025-chapter-604-marrick-s-dilemma
+partOf: system-change-system-universe
+position: 25
+ownLength: 2099
+unit: words
+ownProgress: 2099
+publishedAt: 2025-11-19
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2773258/chapter-604-marricks-dilemma"
+royalRoadId: "2773258"
+markedReadAt: "2026-06-29T19:57:32.922Z"
+---
+
+Chapter 604: Marrick’s Dilemma
+
+Derek, from the dais, cautiously walked down toward Marrick. The man was obviously thinking hard about something and was completely lost to the rest of the world. In the end, his mind was so preoccupied that he didn’t even notice Derek approaching him. Even when Derek was standing right beside him, the Old Goblin didn’t move a muscle. He kept muttering something that Derek couldn’t make out.
+
+After looking at his short time remaining in the reward room, Derek sighed. Since he had finished accepting his last reward, the systems didn’t give him much time to hang around—it was the same as with Edgar. I don’t have time to wait. Maybe it’s something I can help with, Derek thought.
+
+“Hey, old man!” Derek said, speaking loud enough to break Marrick out of whatever had a hold on him. Unfortunately, that turned out not to be enough. So finally, Derek gently placed his hand on the old elf’s shoulder and gave it a squeeze. “Marrick, what’s going on?” he asked.
+
+“Huh!? Oh!” Marrick jumped back in surprise but quickly calmed himself. He looked around. “Where did everyone go?” he asked.
+
+“You get kicked out shortly after you receive all your rewards and make whatever choices the systems give you,” Derek explained. “Everyone else already finished. I just finished collecting my last reward, so I don’t have much time left in here—just a handful of minutes.”
+
+“Oh, I see,” Marrick replied.
+
+“So, are you going to tell me what’s got you so preoccupied?” Derek asked.
+
+“Everything,” Marrick said.
+
+“What do you mean?”
+
+“First, I feel like I’m cheating,” Marrick said. “There is no way whatsoever that I should have gotten ranked as high as I did. For such an old person like me, who doesn’t have long left, to be given such rewards… it almost feels like a waste. But to be given the rewards after doing nothing more than a little cleanup.” The Old Goblin shook his head. “It feels like I cheated.”
+
+“Somebody had to do it,” Derek said. “And you took out the bug guy basically all by yourself, and he was very high-ranked. So what if you didn’t do the main damage to the assassin or null user? I’m certainly not going to fault you for ‘kill stealing.’ So, I’m proud that some of my friends ended up getting rewarded heavily—even if they didn’t do much.”
+
+“You’re not wrong,” Marrick replied with a sigh. “But the things that I’m being offered…”
+
+“Are you even able to tell me what you’re being offered?” Derek asked. “Or will one of the three systems hanging around here smite you for talking about it?”
+
+“I think I’m able to,” Marrick replied. “I’m just… I’m not sure. What should I do?”
+
+“Well, you have to tell me what you’re being offered first,” Derek said. “Then, I might be able to help. But you need to hurry. I only have a few minutes left.”
+
+“Right…” Marrick replied. “Well, as you know, I’ve long ago given up the idea of extending my life any longer. I thought the possibility of getting that second advancement was long gone.”
+
+“Oh.” Derek nodded. “So it’s given you the ability to complete your second advancement? That’s perfect,” Derek said. He was genuinely happy for the man. He was also a little selfishly happy for himself. He liked Marrick, and advancement meant that Marrick no longer had to die of old age. If it worked as he thought, the man would be able to toss some new stat points into vitality and extend his life. However, it didn’t seem like he had it all right.
+
+“That’s not it,” Marrick said. “Well, it is, but that wasn’t some choice. That was given automatically as a reward I didn’t get to choose from. The system quite literally rewarded me with the stat points I was missing and automatically put them in the correct stats. It was very eerie. I’m not sure I like that one of the systems was able to do that without my consent.”
+
+“Well… that’s not creepy at all,” Derek said sarcastically. “But what’s the problem? Not going to lie, but advancement means that you’re not going to be dying as long as we get some more vitality points into you. So, I’m not going to be mad about it.”
+
+“You’re right on that front,” Marrick said. “It looks like I’m no longer going to die of old age any time soon as long as I accept the advancement soon.” Finally, he sighed. “But I have ‘choices.’ The first choice is a very unexpected one.”
+
+“What is it?”
+
+“It has asked if I would like to ‘upgrade’ my class to a System Watcher for the Universal System V3,” Marrick said.
+
+“Really?” Derek’s eyes widened. Then, he shrugged. “I guess there is a vacancy now. I assume it doesn’t say what it entails?”
+
+“Oh, only a little,” Marrick said. “I would basically become a glorified manager for the Universal System.”
+
+“Pass,” Derek said. “I don’t know why you’re even considering that. You aren’t someone who likes paperwork, are you?”
+
+“I agree,” Marrick replied. “That is not something that I would wish to become. Though they aren’t made clear, it is suggested that the perks of becoming a System Watcher would be very good. However, it also says that if I choose to accept, it will halt my growth and ascension for the time being, greatly extend my longevity.”
+
+“Yeah… not worth it unless it was the only option that would keep you alive, which it isn’t,” Derek said. “What are your other options?”
+
+“I do have the option of not accepting any of the choices,” Marrick said. “If I do that, then I walk away with what I’ve earned and the ability to ascend.”
+
+“Better than the first option since you’re able to ascend,” Derek said. “At least, for someone like me and probably you.”
+
+“Agreed, but this other option, I have no clue what it means. It also doesn’t give me any kind of explanation at all,” Marrick replied. “All it says is that the third-party system is offering an assisted evolution.”
+
+“That!” Derek said. “Do that!”
+
+“The evolution?”
+
+“Yes! The evolution!” Derek said and noticed that the systems were allowing him to speak to Marrick about it. “How do you think I got so strong?”
+
+“You…”
+
+“Yes!” Derek said. “If it’s the same, it will build you back up better than ever. I can regrow entire limbs without attaching them back or worrying about the stub healing over. And that’s just one of the things I know happens.” What he didn’t say was that he was pretty sure that if Marrick accepted the evolution, he would also end up getting a new class—and perhaps a Mythical-ranked one at that.
+
+“That certainly doesn’t seem like anything bad,” Marrick said.
+
+“As far as I know, it isn’t,” Derek replied. “Then again, I don’t know a lot about it. But if the Origin System is offering a chance for you to evolve, you have to take it. Did it tell you how high your affinity is with earth, or sand, or whatever your main one is?”
+
+“No?” Marrick frowned. “It hasn’t said anything about any affinity.”
+
+“Oh,” Derek replied with a shrug. “Well, it’s still worth it. I’m super happy for you! After you evolve, don’t go anywhere. Don’t accept your ascension until we really talk. I didn’t want to bug you with anything since you seemed pretty intent on dying of old age, but since that’s not the case anymore, we have a lot to discuss. Especially after you evolve.”
+
+“I see,” Marrick replied. “So you would take the evolution over an extra set of rewards? That is my final option.”
+
+“Yes,” Derek said. “With time, which you will have plenty of now, you can get skills, stats, levels, upgrades, and a lot of other things. I have no clue what else you need to do to evolve.”
+
+“Very well,” Marrick said. “I guess I will choose this ‘evolution’ option.”
+
+“Oh!” Derek held his hand up. “Before you do, just make sure you have in mind what you look like to yourself. Or…” he scratched his head. How do I say it? Hmm… Finally, he sighed. “Just make sure you know what you want to look like when you come out. I don’t know much about the evolution, but I do believe that it can change your body.”
+
+“Like with me,” Derek continued. “I’m pretty certain that I could dump every point into strength that I ever get again, and I won’t grow to be some big muscle-bound person. I think I would stay the exact same as I am right now. Again, I’m not certain, but this…” he motioned to his body, “is like my default look. It’s weird to say, but I think if I got my head chopped off and my body incinerated, I would regrow this exact same body from my neck down.”
+
+“That is interesting,” Marrick replied. “In that case, I will see about maintaining an image of myself during this… evolution.”
+
+“You do that!” Derek replied with a big grin. “I can’t wait to see you on the other side.” He checked the time again and had less than two minutes left.
+
+“Then I should make my choice before the third-party system decides to leave,” Marrick said.
+
+“Yes, you should,” Derek replied.
+
+After that, the two looked seriously at one another, then nodded. A few seconds later, Derek felt a bunch of wind pick up—which was very weird since there was absolutely no sign of any possible weather inside the massive white area that they were in.
+
+Soon, sand started appearing from all around Marrick. It was drawn to the man like a magnet. Eventually, the sand completely encompassed Marrick in a big sphere. Derek saw a surprised look on the Old Goblin’s face as the last bits of sand filled in the area in front of his face.
+
+Derek backed away and watched intently. During the time he was watching, he felt Marrick’s aura rise and fall multiple times, he felt the earth beneath him shake, and he was covered in a ton of loose sand that was flying about. I’m definitely going to need a shower to get all this sand out of my hair, he thought.
+
+“Come on!” Derek half-shouted over the loud wind and pelting sand. He waited, and waited, and waited, then… “Ah… dammit!” he clicked his tongue. He was almost out of time, and the systems would be forcing him back soon. “Looks like I really will have to see you on the other side,” he said to the sphere of sand—unsure whether Marrick would hear him or not.
+
+‘He’s like me now!’ Silvi shouted inside Derek’s head.
+
+‘Yup,’ Derek replied. ‘You did the same thing when you first accepted the bond. Then you did it again in that raid dungeon.’
+
+‘And I came out better each time,’ Silvi said.
+
+‘Yes, you did,’ Derek replied.
+
+‘Will the old ingredient man come out better?’
+
+‘I would imagine he will,’ Derek said.
+
+‘Will he become a bunny like me?’ Silvi asked. ‘There is no better form. I can even teach him to make dishes without opposable thumbs.’
+
+‘I don’t think that’s going to be the case,’ Derek said. ‘I’m expecting more of a very attractive elf. Probably tall, too. I’d say he’s going to come out looking like that Sereph guy who just gave us all the rewards.’
+
+‘So… he will go from looking like old elf jerky to delicious elf burger?’
+
+Derek almost choked at Silvi’s description of Marrick. But she wasn’t exactly wrong. Marrick did have some old, leathery skin. He just never thought about it in terms of food. He wasn’t exactly sure how to answer, but he did anyway. “Something like that,” he said. “I doubt he comes out looking like an old goblin still, at least. As far as what Dave said, the evolution should change him to how he really sees himself. It’s why you didn’t change too much.”
+
+“Because I am already perfect!”
+
+“Exactly,” Derek replied.
+
+“Mhm… maybe he will become bunny. Everyone wants to be perfect,” Silvi said.
+
+“Maybe,” Derek said with a light laugh. “But it looks like our time is up. Let’s go.” As soon as he finished speaking, his countdown timer reached one second, then he and Silvi were consumed by a bright flash, and finally, Marrick floated all alone in a sphere of sand. There was no telling what his evolution would bring.

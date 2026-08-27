@@ -1,0 +1,373 @@
+---
+id: 953e0256-ca4c-5f40-9888-182a21997881
+page-type-slug: story-chapter-royal-road
+title: "442  A Fractured Reality"
+slug: 0402-442-a-fractured-reality
+partOf: the-new-world
+position: 402
+ownLength: 4366
+unit: words
+ownProgress: 4366
+publishedAt: 2025-06-25
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2383331/442-a-fractured-reality"
+royalRoadId: "2383331"
+markedReadAt: "2026-06-29T21:35:10.176Z"
+---
+
+Plazia waved a hand through the floating, three-dimensional panorama of Blegara.
+
+“Then retake them as necessary. Academia is often an exercise in effort and diligence, not intelligence or ability.”
+
+“Eh, but book smarts tend to help. Anyways, look at this.”
+
+I shared a few of the collected notes I gathered online with the hivemind, and we gathered a reasonable approach to the problem at hand. I pointed at the warp below that gushed water.
+
+“Are you ready?”
+
+Plazia murmured.
+
+“To push Bikini-Bottom elsewhere? Easily.”
+
+Chapter Begin
+
+Before we dove into the depths, we found the bite-sized warp that the Overseer left of the once seismic opening. It spewed a pressurized stream of water, more like a liquid laser beam than a true warp. The aquatic eruption shot up through the sea and dispersed into a dappling rain from above. Those droplets masked the rays of light coursing in between the clouds.
+
+I transfixed onto a particularly brilliant beam. Even from this distance, Blegara's sun left a mark across this planet, and it was hard not to remember its vastness. It made my entire life seem inconsequential, and yet I found comfort in that feeling. It wasn't futility but wonder, and I soaked it in for a second.
+
+Silencing my mind's wandering, I dove into the abyss and grabbed the edges of the spewing portal. I pulled it onto my back like a backpack before marveling at the difference between this and the star's opening.
+
+Even though this tiny slither spewed thousands of gallons a second, it was nothing compared to the starthrower.
+
+The magnitude of forces left this spectacle as a hollow and unwanted encore to the real demonstration before it. My practice from the starthrower also made containing this warp far simpler. A dam of my dimensional fabric over the entrance stopped the portal's perpetual spray.
+
+Before heading out, I took a moment and hoisted it around for a while.
+
+It held a heft that rivaled all the other dimensional slices put together, and I marveled at its sheer density and volume. It was within my capacity to move, however, and as I had with the other slices, I adjusted to the added mass.
+
+It required an enormous amount of will, and my minds crunched under the strain. Mana soared throughout my frame, my runes charging and fueling my power. Silver blood pounded through my chest, and my heart roared into action as I dragged myself forward. Even my psyche strained to will the worlds into motion.
+
+And in time, I mastered their maneuvering.
+
+Shalahora's training paid off, letting me shrug off the uncomfortable experience. After several hours, I turned to Plazia. I established a telepathic link.
+
+"I'm ready to go."
+
+"It's been hours of you jogging and moving with that as if it were some weighted vest. Why should you not heave it through a portal and be done with it?"
+
+"I prefer really getting a handle on something before moving on. Otherwise, it feels like I'm building skills and assumptions on something fragile."
+
+Plazia paused before shaking his head.
+
+"Some moments are better passed through than immersed in. That personal desire for punishment wastes time, but...Do as you will." Plazia tilted his head. "But first, your mind is unstable. Why?"
+
+I stepped forward as two minds strained to their limit.
+
+"Er, you could say I'm struggling with this. That's all."
+
+Plazia laughed.
+
+"Your minds are dying? From carrying a boulder? To think the Harbinger was so weak. You speak of fragility as your entire psyche shatters from holding a rock."
+
+I searched for words.
+
+"It's… It's like carrying the heaviest thing you could imagine, but you're only able to move it by breaking your bones. You keep moving and lifting, and the entire time, your body shatters under the stress. Before you know it, your mind isn't the same as it was when you started. It begins to unravel, and so it must be made new."
+
+I blinked.
+
+"That and… It's something deeper to move a reality. It's like you said. It's the weight of worlds, and that takes its toll on someone."
+
+Plazia crossed his arms.
+
+"Or perhaps you struggle to move a large boulder."
+
+I kicked sand in his direction.
+
+"Enough with the banter. Let's get this done."
+
+Plazia turned towards me.
+
+"Putting your psyche through this will not end well. It isn't the nature of living things to be torn apart incessantly. It deforms you over time and in ways you'd never imagine."
+
+I frowned.
+
+"You're feeling awfully critical today. You remind me of Helios when we first met."
+
+"He and I are the only ones among your entourage to give you genuine honesty. All the others are merely ants you enjoy watching."
+
+I pressed him with Event Horizon.
+
+"They are family."
+
+Plazia took a step back.
+
+"There is the growl you've deposed. Good. It's a sad thing to know a wolf that never flashes its fangs."
+
+As I pulled my aura away from him and took a breath.
+
+"Sorry. I overreacted."
+
+Plazia grabbed his wrist.
+
+"I would disagree, but there is much to do, isn't there?"
+
+I nodded, and Plazia sliced through reality, leading us to Blegara's scar. We walked through the veil, Plazia, a collection of many while I was a dimension all my own. When we passed over, we stared at an empty, howling landscape with not a drop of water as far as the eye could view.
+
+The seafloor had emptied, leaving the grooves and trenches of the underwater abysses exposed. Like enormous flood plains, fossils embedded in the walls of rock, the skeletons telling the tale of life here. In some even deeper trenches, the bones lined up to showcase evolution on this planet.
+
+At the bottom of these pits, the fossils were like the early life on Earth. Primitive forms with inefficient shells and skeletons had struggled amidst the primordial waters. Nearer to the top of the trenches, these bodies deformed into more monstrous, hostile entities. The slow, steady eldritchification was apparent even on a geological scale.
+
+It reminded me of what awaited Earth given the flood of mana from the Old Ones.
+
+At the surface of the trenches, the fossils disappeared. The Hybrid Star had swallowed them, but at a certain depth, it hadn't found the fossils appetizing. At least the history of the planet would live on, but still...To see so much of Blegara dry and barren left me humbled. The Hybrid Star desiccated this world within months, and once fully formed, it would've done so in minutes, and this dried husk of a planet could be Earth's future.
+
+I took a sharp breath as if I inhaled broken glass.
+
+"This...I can't believe it's all gone."
+
+Plazia followed me out of the warp. It closed behind him.
+
+"You reap what you've sown, Harbinger."
+
+I turned to him, and Plazia gestured to all of it.
+
+"This is the outcome. Months without action or answers. I had uncovered the outbreak long before this beast grew these claws, but you holed into the sanctum of your mind, honing a new skill, wasn't it? You chose yourself over the world. This destruction is the result of that choice."
+
+A part of me held tremendous guilt and believed Plazia. For a moment, those feelings crippled me, made me smaller than I was. However, another part snarled out. My anger won as I turned to him.
+
+"That's projection. You were my general. I assigned you here to stop this, but you chose to contain the problem rather than solve it out of fear. I'm not responsible for what you chose not to do. I'm simply here to clean up the mess you left behind."
+
+The miles of barren stone blurred in the distance, the hot air masking it like the beginnings of a mirage. Without the ocean to soak up the sun's rays, the heat built into something painful and scorching, as if Blegara cried out in pain. Plazia scoffed over those cries.
+
+"Your assessment is correct. This is my failing."
+
+I threw my hand to the side.
+
+"Then why are you antagonizing me like this?"
+
+"There are times you choose to bear responsibilities that aren't yours. I'm helping you rid yourself of that blight."
+
+I narrowed my eyes.
+
+"Why not just tell me directly?"
+
+An ominous cackle radiated from the crackling earth, Plazia's voice like a planet's rage.
+
+"You've been told before, haven't you?"
+
+"Well, yeah-"
+
+"And yet, it has done nothing. That is because you must do more than think it. You must feel it. Believe it down to your bones and blood. Otherwise, you merely pretend to understand what mere words imply."
+
+I shook my head.
+
+"Ok, but that doesn't mean you have to dig into my insecurities here, man."
+
+Plazia let out an amused laugh.
+
+"You helped me overcome my fear through turmoil and urgency. I am helping you overcome your self-doubt and heedless guilt through conflict. I believe it is the nature of our friendship. We help one another grow, but it is not always a peaceful thing. At times, it grates us, but that is the process of sharpening. It is to find friction until you are honed to a fine edge."
+
+Plazia sharpened one of his claws against the other.
+
+"I am here to help you hone yourself, not find comfort in my company."
+
+A while passed as I thought over what he said. I shook my head.
+
+"You can't be everything to everyone, so yeah, it's good to have people in your life that challenge you. That being said, you have to know when you're pushing too hard."
+
+Plazia simmered his words in a low boil.
+
+"To hone oneself is to feel pain, Harbinger. You know this as well as I do."
+
+I frowned.
+
+"But there is a difference in meaning. Pain without meaning is torture. Give it a purpose and it becomes a tribulation, something that can build."
+
+Plazia laughed.
+
+"Something that can be endured?"
+
+I smiled.
+
+"Exactly.
+
+Plazia peered at the horizons.
+
+"Tell me...Does it feel good to carry this planet's fate in your hands?"
+
+As charred winds brushed against me, I pulled the portal out from my back.
+
+"It's...Humbling."
+
+Runes sparked to life over Plazia's armor, the energy like liquid power.
+
+"And humility is the source of all strength, arrogance its death."
+
+A sad smile traced my lips.
+
+"One can hope."
+
+From the palms of my hands, water splashed out of the rip in space-time, and it crashed against patches of sheening earth and stone. It rose in waves of heated steam, and I grabbed the edges of the portal. I ripped the warp open one jerk at a time. The volume of falling water magnified with each passing second.
+
+Plazia watched his gaze, sharp and piercing. After a few minutes, he flew up to assess the damage and gather his eldritch minions. By the time I finished ripping the rift open, he had amassed a large army of obsidian insects.
+
+Plazia murmured over the roaring falls,
+
+"I will send them out to scout this domain. What's your plan with that chasm of water?"
+
+I spread my hands.
+
+"Make it bigger."
+
+By the time I finished shearing it open, it dwarfed the size of its previous incarnation. It stretched over many kilometers, and the final task involved dragging the thin line open as if wrenching a laceration open. Grabbing one side, I heaved, and reality wailed. Sparks of lightning erupted, blue sparks striking my hands and heels alike.
+
+I jittered from a strange, growing resonance. Taking a deep breath, I wielded my wake, further peeling it apart. A kind of resistance built, making my movements slow and sluggish. As I pushed through a growing sense of unease, the portal wrenched apart. With a heave of my dimensional wake, I pried it open like pulling a tooth.
+
+Water gushed in, and I raised a fist to celebrate my success. However, other key elements of the terraforming came to light. In order to reconstruct the previous environment, the bacteria and basic life here had to rival Blegara's past iteration. Considering how large the empty wastes were, life could have time to evolve differently here than the rest of the planet.
+
+To help rectify that, Plazia and I gathered different species from the other portion of the world while marking down the accounts of displaced Vagni. They informed us of the kind of life that lived here before they resettled on the other part of the planet. From plants like kelp and algae to fish of a thousand different species, we harvested as many as we could find.
+
+The other issue came from collecting bacteria and other microbes. My armor sterilized itself without my awareness, and I lacked the finesse to control that aspect of myself. This left Plazia diving to the bottom of the ocean and collecting corpses for the germs there to put on the other side of the world.
+
+From hivemind to corpse collector, he wasn't a happy camper.
+
+But that was kind of the norm with Plazia. While he carried a sharp competence and philosophical mind, he lacked joy in almost anything he did. He would take antagonistic approaches to any conversation, determined to cut into whoever he spoke with and bring out a reaction.
+
+Over the years, he'd sharpened that conversational ability to a knife's edge. I would've been fine with it under normal circumstances, but Plazia reminded me of people from my pre-Schema life. In particular, my father. Like Plazia, my dad was also a firestarter, and while he was fun to hang out with on a Friday night, he made for a pisspoor paternal figure.
+
+Plazia brought those experiences of mine back to light with his constant poking and prodding. By the time we restored the first region of the world, a growing resentment built in my chest, and Plazia kept running through my patience like a chainsaw through a sun-dried pine.
+
+Still, I kept patient. Plazia's abilities shined on a global scale like this, and he understood how to use his vast reach well. He enlisted the Vagni in the restoration effort, making sure they helped settle different parts of the planet to restore its natural beauty. His insect servants always swarmed in the distance, handling different portions of the terraforming, from resettlement to protecting Vagni from the elements.
+
+Despite his obvious goodwill, it still left a bad taste in my mouth, hearing him go on and on about his hunger or prattling off with wolf metaphors. Over the course of our first few weeks on Blegara, that budding resentment evolved into the seeds of contempt, and it threatened to gush out of me like a pipe under pressure.
+
+That was until we began establishing a Vagni village along a newly restored oceanic bed. The currents hadn't settled yet. The flow of water from the colossal rift still affected the entire sea here, and it left a perpetual flow of water in one direction, like an endless, fresh wind. The Vagni called it the Voragnil - the breath of life in their tongue.
+
+We wafted in that, settling and establishing a village among newly implanted reefs. After handling the rations and crop supplies, I flowed through the water and up to the air to head to Plazia. He was tasked with training the Vagni in various anti-eldritch tactics and combat drills, and he leveraged what he learned while managing the planet.
+
+As I neared his training camp, I dove back into the sea, finding him from nearly three kilometers out. That was only possible since my sight had improved by immensities with my attribute increases. From out there, Plazia wasn't aware of me.
+
+The hivemind stood beside two recruits, the Vagni fighting each other. They wielded the water as extensions of their body, solidifying and evaporating it to maximum effect. The younger of the two recruits sliced the other with an ice blade, and the attack sank into the side of the fighter.
+
+That ended the spar in its loss, but there was no shame in it. The wounded member swam off for treatment. As they passed Plazia, a floating cloud of blood dispersed through the water. It reminded me of footage from shark attacks long ago.
+
+As the cloud-covered Plazia, he put a hand onto the Vagni's back. Plazia raised his head, and the blood flowed into the bowels of his armor through its opened slits. The Vagni tilted its head to Plazia, wondering what its benevolent leader wanted.
+
+And Plazia stared at him with a shackled hunger.
+
+The swarm within Plazia's armor writhed like a kicked hornet's nest. The legs of several insects reached outside of Plazia's helmet slit, and their drool dripped down from his facemask, the liquid heavier than the surrounding water. It dappled down into a puddle at their feet, the lime-colored saliva searing into the implanted sand below.
+
+Plazia's hands trembled. His shoulders writhed. He grabbed onto the Vagni, squeezing him to a halt. Plazia lifted a shaking palm, and mana coalesced into it. The runes glowed across his body, and even without a deep understanding of the magic within, I read the runes as glyphs designed to evoke pain.
+
+Immense amounts of it.
+
+Worry erupted in my chest, and I pooled mana into my hands to dash at them. Before I could, Plazia's hand glowed red. Bubbles flowed from the limb, and he slowly pulled it to his face, shaking all the while. He squirmed. He writhed. He shambled as the glowing metal spread over his facemask.
+
+Like a cleansing brand, he burned the insects that tried to escape his armor. He kept holding himself in place, his magic ensuring his agony was no muted thing. His rituals augmented the pain he experienced well beyond a normal burn, and it left him shaking like a beaten child.
+
+After a long moment, Plazia winced and released the Vagni. The local bowed to Plazia, appreciating his release before it swam away. Plazia continued to burn himself, the agony his distraction from the humming of his hunger.
+
+He reached his hand back out of his facemask, and he gazed at his palm. He grabbed the sides of his face before hitting his helmet. He pinned himself in place before twitching for a time. Instead of interrupting him, I gave him a few minutes to collect himself. He deserved that mercy.
+
+So I channeled mana for a bit before flying and diving in nearby. As I landed in the sandy sea, the grains plumed in the water like a tan smoke. Plazia walked out of the cloud, and on his helmet, a new scratch glistened in the underwater light.
+
+He glared.
+
+"Is there something you need to say, or are you simply this apt at wasting time?"
+
+I looked over his armor, finding countless scars, imperfections, and markings. The Sentinel armor reminded me of a used car lot after a hailstorm. I thought of saying something, thought better of it, then left him to his peace. I shrugged.
+
+"We all need breaks sometimes, right?"
+
+He turned, the uplifted sand bending around him.
+
+"As you've said before. Breaks are for the weak."
+
+I smiled.
+
+"And the weary."
+
+********************************************
+
+We had members of my guild join in the terraforming process after getting parts of the planet stable. They helped us create a better environment, and in particular, that involved the weather. To the surprise of absolutely nobody, taking a third of a planet's oceans resulted in changing weather patterns. Many violent, oppressive changes.
+
+Without Plazia's basalt walls, the oceans would've drained into the missing basin the Hybrid Star left behind, resulting in global climate change within hours. As it was, the water still evaporated on the open seas, and clouds drifted over the dried area.
+
+While faster than we liked, that bought us a few weeks to try and remoisturize the area. In the meantime, the storms of Blegara reached biblical proportions.
+
+The planet had always had absurdly powerful storms. Compared to Earth, the entire planet was an ocean, so any hurricanes that formed could rage on the surface of the world for literal months at a time. They reached sizes that covered entire sides of the world at times, and the shadows they cast weren't measured in distance. The Vagni measured them in how many weeks they took to pass.
+
+Despite this environmental chaos, they left little impact on the locals. The Vagni lived several hundred feet below the surface of the seas, and that barrier absorbed nearly all the impact these storms would've left on them. When we resettled, this was no longer the case. The shallow sea we made wasn't able to swallow those near-global storms.
+
+The hurricanes would cross the basalt walls and crash down onto newer settlements with the wrath of an enraged god. They would ripple and stir the seas until the surface held oceanic wakes well into the hundreds of feet high. Plazia planned for this disturbance, however.
+
+He never enlisted unleveled Vagni, sticking with systemized and trained individuals for the shallow seas we carved out. Having been Schematized, these Vagni handled the storms without nearly any casualties. It was an incredible boon for us, and I hardly believed it, especially after seeing these tempests firsthand.
+
+One day, I spent a few hours watching one of them. Lightning danced across the sky like a heart pumping energy into the world. Waterspouts coursed and siphoned the sea into the clouds like curving tunnels to the sky. The waves billowed up through the entire horizon, the edge of my sight like some bending illusion.
+
+It exposed how fragile the world was. How fragile a planet could be.
+
+It brought my thoughts and attention back to Earth. My home still had dimensional instability and Elysium to worry about. No matter how much my brain understood Blegara's situational urgency, my heart told me to protect Mt. Verner.
+
+To ease that concern, I organized a quick meetup with my guildmates. Even if I couldn't be there, they needed to know about Elysium's intervention and the proposed origin of mana. I wanted to tell everyone immediately, but I also worried what Schema's reaction might be. It had made teams of engineers into unknowns over knowledge of the cipher, for instance.
+
+I didn't want that to happen again. That's why I took a few weeks to verify how dangerous the information seemed to be. So far, so good, and letting my other guildmates know might lead to some important breakthroughs or understandings at the very least. Blegara could afford to have its terraforming stalled by a few hours in the meantime.
+
+The meeting gave us the opportunity to get more manpower on the project. We had already spent day and night handling the immediate concerns, and the long-term prospects became our primary concern. That meant getting people on board who understood what the hell was going on and could fix it.
+
+Considering the planetary scale of the project, a few more bodies wouldn't hurt either. Sending out the message, we found a time that matched all of our schedules. With the time arriving, Plazia warped us back to Earth. As we had with most of our meetings, we gathered at the top of Mt. Verner, where Chrona made her home.
+
+The crisp, thin air refreshed and revitalized my senses after weeks in the oceanic world. Below us all, the guild erected a growing city and infrastructure with tasteful parks and elegant structures. They replaced the once vast greenery with a thriving metropolis. Mana and my golems powered the entire expanse, lighting homes and offering a functional intranet based on a psionic web.
+
+Therein was the problem. It all hinged on mana, a resource I didn't know if we could keep relying on. As other members of my guild came in, my nervousness over that issue bubbled and churned in my chest. A few late arrivals came in while handling their previous arrangements. After a few fond hellos and quick catchups, I stood with many eyes on me.
+
+I widened my gaze.
+
+"Where's Al-"
+
+Althea landed on my shoulder from the ether.
+
+"Hey, what's up?"
+
+I smiled.
+
+"Well, someone beautiful, by the looks of it."
+
+Torix had new robes, and they covered a portion of his armor body. He reminded me of a dark metal pharaoh.
+
+"It's quite good to see you again, disciple. Now, you've mentioned that there are a few fundamental understandings of the universe we simply must address. Please, do enlighten us."
+
+Before we began the conversation, Plazia finished his isolation runes nearby. I didn't want Schema listening in too closely. I took a breath.
+
+"We destroyed a Hybrid Star, a Hybridized Spatial Fortress. During the battle, I had a conversation with an Elysium general. They told me that mana is derived from the Old Ones."
+
+Torix leaned back.
+
+"That's impossible...It...Well...Hmmmm."
+
+Shalahora peered away, unable to meet our gazes. Kessiah dragged her hands down her face, fresh blood staining her combat fatigues. It was hers.
+
+"Blegh. Nothing is ever simple, is it?"
+
+Althea frowned.
+
+"I always had a hunch, especially after coming to Earth. Mana seemed too good to be true after seeing a society live without it."
+
+Shalahora's shadow body writhed as his voice whispered over us all.
+
+"Absolute power corrupts absolutely. It's unfortunate, but mana is power, and its source is...Volatile."
+
+Diesel rubbed the side of his head.
+
+"Does that mean we can't use mana anymore? If so, that puts a wrench in our plans. Actually, it dismantles them outright. We need that power source to accomplish almost anything these days. Could we use it even if it comes from these, er, Old Ones? Are they really that bad?"
+
+My eyes went distant.
+
+"They're worse than evil."
+
+Hod raised a wing with tremendous confidence.
+
+"Hod think old people not that bad. Hod will say, Hod see old people in dark sometimes. Old people kind of scary, but Hod see their smile the next morning. Hod think them not so bad then."
+
+Hod nodded as if he said something deeply profound. Torix gazed at the sky as if staring at infinity.
+
+"You will survive this, Torix. You must."

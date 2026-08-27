@@ -1,0 +1,623 @@
+---
+id: 08741d65-6e28-5d3a-83ba-fae3291cf48d
+page-type-slug: story-chapter-royal-road
+title: "396 To Embrace the End"
+slug: 0356-396-to-embrace-the-end
+partOf: the-new-world
+position: 356
+ownLength: 4984
+unit: words
+ownProgress: 4984
+publishedAt: 2025-03-14
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2126871/396-to-embrace-the-end"
+royalRoadId: "2126871"
+markedReadAt: "2026-06-29T21:33:29.855Z"
+---
+
+Shalahora tapped my forehead.
+
+"How many minds do you have free at this moment?"
+
+"About nine."
+
+"And how many may die before you lose your sanity?"
+
+I wanted to lie as I clenched my jaw.
+
+"I can lose eight, and they come back quickly, too."
+
+Shalahora lowered his arm.
+
+"My last question is thus - how deep into the dark do you wish to tread?"
+
+I scoffed.
+
+"Further than I am. That's the goal."
+
+Shalahora's voice pierced into our surroundings.
+
+"Then let us tread into dark waters, Harbinger."
+
+Chapter Begin
+
+Like tearing the arms off a doll, Shalahora killed two of my minds. I coughed into my hand, feeling like blood should've gushed out with the air. Before I breathed in, Shalahora killed three more minds. I collapsed onto the ground. While standing, Shalahora disintegrated two more.
+
+The edges of my mind faded. My vision blurred, and my senses lost clarity. Like a horde of zombies, the pieces of psyche still continued shambling forward. Shalahora stabbed the minds to death, his psyche like a concentrated, psionic blade. Its sheer concentration and ferocity left me stunned.
+
+In all aspects, his presence and ability dwarfed mine. I was a lightbulb staring at a star. Shalahora's voice radiated through my being.
+
+"Adjust to the dying."
+
+Something was off about Shalahora. I grunted.
+
+"I'm...Trying."
+
+Shlahora's voice took on a cosmic scale in my head.
+
+"Your mind is a flood. When your enemies aim to drink from the water, you will bury them. Suffocate them. You need to wield the gush. Take it and learn to live as an incomplete, fragmented being."
+
+I lost my sight as I shouted in my head.
+
+"How in the hell is that even possible?"
+
+"It is the same as what you do to your body. You belittle, degrade, and destroy it. You trust that it will return, full and whole and complete. You must learn to do the same to your mind."
+
+My left arm slackened.
+
+"It's not the same. It's so much-"
+
+Silence permeated my head. Fear sprang through me. Shalahora murmured.
+
+"It is the same. Watch."
+
+Before I shouted for him to stop, Shalahora pieced me apart. I lost my limbs. My body. My soul. I lost my memories. I forgot who I was. Where I am. I fell into a pit of nothing, a broken piece of something that had never been. In a quiet place, I fell into oblivion. A primordial fear permeated everything.
+
+I wanted to cry tears from my eyes that I could not feel. The pressure relented. I returned. My memories flashed back into being. My thoughts returned to coherence. I blinked as sensory information funneled back into my head and mind. I fell backward, gasping for air I didn't need but couldn't live without.
+
+While I kept wheezing, Shalahora stared down at me.
+
+"You tasted it with Valgus. That is closer to death, yet you returned in less than a second."
+
+A second that was an eternity. I put my hand over my chest, praying I was still alive.
+
+"It feels like it's been forever."
+
+Shalahora raised his hand and concentrated dark shadows over it. With a quick swipe, he cleaved into my arm. I peered at it as if he tapped my shoulder. As Shalahora jerked the blade out, my arm healed. He shuddered.
+
+"Invincible. A disgustingly powerful physical form."
+
+I pulled myself up.
+
+"Why did you even do that?"
+
+Shalahora waved his hand.
+
+"Years ago, that would've frightened you. Why didn't it now?"
+
+My eyes widened.
+
+"Because...Because I know I'll be fine."
+
+Shalahora nodded.
+
+"Your mind is the same. It is as infinite and invincible. You must learn to throw more of yourself into the furnace. Your duty demands it. Your guild will need it. And you will need every advantage to cull what is to come."
+
+My eyes narrowed.
+
+"What is that, precisely?"
+
+Shalahora closed his eyes.
+
+"I cannot say. If I do so, it shall manifest grander consequences than silence shall. That is the curse of one so deeply connected to an Old One - I lost my agency in this reality for raw power."
+
+I furrowed my brow.
+
+"You know more, and you're stronger now. You're telling them that you lost your agency? I can understand that with Yawm or Valgus since they lost their minds from the contract, but you're different. You still have most of who you were. Well, from what I've gathered."
+
+Shalahora's form rippled.
+
+"You are correct, but there is a level of knowledge and power where one's perspective shifts. If you are able to see the passing of empires and eons, then eventually, they blur together. Patterns emerge that supersede the individuals involved, and the nature of those people takes all import."
+
+Shalahora reached out a palm.
+
+"That is when I realized that changing those patterns matters more than the empires, but I am helpless to do so. I learned enough and am able to kill in mass. That does not change anything in a meaningful way. I am lost in a cycle of entrapment, one where I can destroy what time has built but not influence its making."
+
+I grabbed his hand.
+
+"Is that why you accepted the contract with me? You think I can?"
+
+He pulled me up. Shalahora murmured.
+
+"I know it. My patron has indicated as much, and they believe in your absolute potential. However, I don't wish for you to walk the path they want for you. That is why you must overcome these mental limitations."
+
+I trembled.
+
+"It feels like dying."
+
+"It does not feel. It is dying."
+
+I peered at the shadow.
+
+"That's why I don't like it. Not even a little bit."
+
+"You didn't like pain either, yet you conquered it."
+
+"That was different. I had the system helping me."
+
+Shalahora's form wavered in the wind.
+
+"And it helps you now. When you are ready, let us go back into the dark. It will become a place of comfort for you. A welcoming emptiness that embraces all that isn't. Until then, goodbye, Harbinger."
+
+He disappeared. Alone in the forest, I gulped. A piece of me wanted to run away from this and do something that didn't involve so much pain. Was it pain? No, it was fear. I was afraid of going down this untrodden path. It terrified me to fully realize what I actually was. To use what I had become.
+
+This wasn't the first time, and it wouldn't be the last. As I pulled myself back upright, I sat down in a cross-legged position. Taking a moment to collect myself, I said aloud.
+
+"I'm ready."
+
+Shalahora reintegrated into reality.
+
+"So soon?"
+
+I sighed.
+
+"Of course. What do you take me for?"
+
+Shalahora let out the slightest of laughs.
+
+"The Enduring One."
+
+Our minds connected. I grit my teeth for what was to come.
+
+"I'm ready."
+
+Shalahora obliterated three minds.
+
+"Yet again, to the dark we dive."
+
+Pieces of my mind died each second. If I stood atop my bodies, a mountain of corpses would've mounted in minutes. The pace of destruction mirrored my mana regen, and I could hardly comprehend it. The mental death didn't help with that, but even then, my soul recuperated with the exact same tenacity and speed as my body.
+
+Shalahora had been right all along. It was a piece of my durability I'd never truly explored. Even after regenerating a hundred times, no scars, wounds, or lingering flaws remained in my psyche. Even after having my mind nearly at the brink of a true psionic death, I came back. I blacked out nearly ten times a second, still able to return to my full consciousness after doing so for minutes at a time.
+
+Despite my ability to do so, I wasn't ready for this. It wasn't something I could rationalize. My human mind simply wasn't built to experience something this traumatic. The ordeal was so close and personal, and it operated on an axis I'd never experienced before. It left me shivering and trembling. I drooled and gasped as if drowning.
+
+It was a conversation with the Grim Reaper, and every word carried weight. The reaper kept talking to me, and I couldn't respond. All I could do was listen to the endless droning of a being that incarnated death. Hearing it speak was enough to drive me insane, but I chose to listen.
+
+I chose to learn.
+
+Shalahora's intensity defied reason. He pushed me further than I expected to go. He never relented, maintaining the same immense and imposing pressure. Why he did so, I didn't ask anymore. He felt an immense urgency and need for this training. Considering who he was, I put faith in the guy, and I put my all into matching the pace he set.
+
+As the sun rose, I stumbled away from Shalahora. I gagged on nothing, and I blinked back dry tears. While I reeled from the experience, Shalahora walked over. He placed a palm on my back.
+
+"The road you walk is a difficult one. One of the most formidable roads imaginable."
+
+My hands shook.
+
+"Th-thanks, Shalahora. I'll let you know when I'm ready to train again."
+
+Shalahora pulled his hand back and turned his gaze, unable to look at me. He closed his eyes before squeezing his hands into fists. He shook his head, and his voice carried pain.
+
+"Yes. Of course. Anytime."
+
+As he faded, I collected myself over the next few minutes. I didn't move the portal, manipulate time, or channel my runes. I existed in peace, the sunrise my comfort and the wind my warmth. After some time, I wobbled back up to my feet. To my disbelief, a quick jog one way and the other verified that everything still worked.
+
+Shalahora wasn't lying to me, but this training was worse than he described. That was likely because humanity didn't have words for this kind of experience. I leaped into dark waters, trying to struggle for air. Jumping onto a much easier, simpler path, I hauled the dimension around with me.
+
+I accelerated time, and even more of myself faded. I lived in that fragmentary existence, a part of a whole that would never be entire and utter. But...it weighed on me less than before. I accustomed myself to it like a warrior getting used to old wounds or missing limbs. As I got a grip on the situation, a notification popped up.
+
+Diesel, Johnathan Hopkins(Lvl 1,893 | Class: Engineer) - We have the prototype ready. We need to test it out to see if it works. Where do you want to meet?
+
+The Living Multiverse | Level 24,102 (Cap: 39,000) | Class: Sovereign - My golem creation facility works well for that. It'll contain the heat from the production process.
+
+Diesel, Johnathan Hopkins(Lvl 1,893 | Class: Engineer) - Roger. Be there in a bit.
+
+I waited beside the facility's ground level. After a while, Diesel leaped out of a few trees. He landed on the ground with a bit of a quake underneath him. I leaned against my facility's wall.
+
+"You have some heft there, huh? Constitution?"
+
+Diesel gawked at the upturned soil.
+
+"Huh, maybe? It's probably your legacy more than my stats. It makes everyone heavy. While we appreciate the benefit, it makes designing some buildings a hassle. I mean, everyone's at least a couple tons."
+
+I frowned.
+
+"Huh. I never thought about that."
+
+Diesel shrugged.
+
+"I think about it like a huge inheritance. There's money and plenty of opportunity, but you have to learn to manage the resources right. Otherwise, it ends up becoming more of a nuisance than what you get in the first place."
+
+He checked his status.
+
+"Oh yeah, it gives me more stats than my levels have. That's insane."
+
+I scoffed.
+
+"Too much of a good thing is a poison."
+
+"You're telling me. Ahem. You needed the limiters, correct?"
+
+Limiters. That was a great name for it. Diesel pulled out a notebook. I floated it up while opening the pages.
+
+"Cool, cool...Hmm, interesting...Ah, so you went with diagrams instead of runes? They're very organized."
+
+Diesel waved his hands around.
+
+"The thing is, all of it was chaos to me because of the cipher conversion. They make more sense when I write them down like that instead, and I let you handle converting them. It helps with knowing what information goes where whenever I've worked with you before."
+
+I took a mental note of that practice. As I flicked through the pages, I found an entire novel's worth of content before me. Diesel filled in two hundred pages over the last few days; he and a team worked on this project night and day, no doubt.
+
+I snapped the book shut, a grin on my face.
+
+"This will do nicely."
+
+The subtlest of smirks grew on Diesel's face.
+
+"We'll prove that bucket of bugs wrong, eh?"
+
+I floated us into the facility.
+
+"That's the plan. Let's get to work."
+
+We landed amongst the metallic corpses, my production line like a pristine and glossy graveyard. Diesel ogled at the gravitationally floating golems.
+
+"How in the world did you make them so perfect?"
+
+"I pull my soul out of my body, then reconstituted from a different place in my true body."
+
+Diesel shook his head.
+
+"That...That doesn't sound healthy. You should get that checked out."
+
+I bust out laughing.
+
+"I don't know if health is what I should be worrying about anymore."
+
+Turning the pages, I adjusted the patterns into cipheric runes. The labeled diagrams made it far easier than before. Even after a few seconds, the scale and scope of the project impressed me, along with Diesel's classic attention to detail.
+
+I murmured.
+
+"You've been practicing. Nice."
+
+Diesel raised two palms at me.
+
+"Oh, no, there's no I in this project. This is a team effort, 100%. I couldn't have done a tenth of that in the time you gave us, but give my guys a raise and a nice title upgrade to their job? Psh, the sky is the limit."
+
+I frowned.
+
+"Let's hope not. We'll need these guys in space and all kinds of other places."
+
+Diesel leaned back, rubbing the back of his head. I scoffed.
+
+"Oh, come, I get to make jokes too."
+
+He smiled.
+
+"Yeah, true. True. It's hard not to take you seriously all the time. This position I'm in still feels so surreal."
+
+"you and me both, man. You and me both. Anyways, give me a few minutes to read this."
+
+"Minutes? Did you practice speed reading?"
+
+"No, but I have a process."
+
+I kind of learned speed reading after making up a system for it on the spot. With tiny gravity wells, I tore the book apart one page at a time. A dozen of my minds read a dozen pages at once. Within half an hour, I read the book and discussed the material with other Daniels. Having a firm grasp on it, I toiled on my grimoire to forge the runes.
+
+Diesel watched my work, the engineer's eyes piercing as he took notes. I fell into the task at hand. Telekinesis. Gravitation. Heat. Forges and fires. I constructed and dismantled. I tested and delineated. After a few hours, a few test golems gazed back at us. A circular plate hummed on their back, the cluster of runes psionically isolated from the construct.
+
+Diesel put his hands on his hips.
+
+"Yeesh. They send a shiver down my spine just looking at them."
+
+I mirrored Diesel's posture.
+
+"That's how you know they're just right."
+
+After heading outside, we tested their abilities using their new modes of being. Diesel watched from the top of the facility. He pointed at it as the runes of the golem dimmed.
+
+"We call that domestic mode."
+
+I took a step back from the golem. The construct approached a tree, attempting to strike it. It couldn't shatter the bark, let alone destroy it. As I watched on, it pulled leaves off a tree and snapped thin branches. It couldn't rip large ones apart. Its weakness stunned me.
+
+I gawked.
+
+"How did you do that? It's like...Like a puppy golem."
+
+Diesel furrowed his brow.
+
+"We had a copy of the status screen you sent us as a way of measuring how much their abilities had grown. It took some tinkering to get it right with the other golems, but we locked in the right amount after about a day of rigorous trial and error. We adjusted the new models based on the old ones."
+
+I blinked.
+
+"So it was a matter of precision."
+
+A knowing grin grew on Diesel's face.
+
+"Most engineering problems are. That and supply, but the point is, that's what we're here for."
+
+After a few seconds, I set the golem onto the second mode. Diesel pointed at it.
+
+"That's work mode. It's supposed to be able to apply plenty of strength but with some ability for people to intervene. You link to the runes on the back, which links to the actual golem's mind. It works like a transistor does for electricity."
+
+I linked my mind with it, and it carried only a few controlling thoughts. After a few minutes of tinkering, I operated the golem like a forklift. It walked back and forth from trees to dirt, uprooting the plants and clearing the ground. I laughed as I walked backward in slow motion. It did a robot dance, and I enjoyed messing around with it entirely too much. I smiled.
+
+"It's like a tractor or something."
+
+"That's exactly what we were going for. Preferably with less playing involved."
+
+With a mental flick, I set the golem into combat mode. Its runes burned bright, lines of light tracing its hulking form. After checking a nearby area, I had it attack a patch of trees. As if quashed by an enormous, unseen hammer, it smashed the trees in a powerful gravity well. Sap and splinters erupted over the ground, mixing with the earth in a thick ooze.
+
+I rubbed my chin.
+
+"Huh. That's more like what I remember."
+
+Diesel's face paled.
+
+"Yeah. We don't want people using this one too much. We plan to incorporate shows for our guildmates and any cities they go to. They'll be demonstrations of the golem's power. You know, to dissuade anyone trying to take on our guild's authority, but it also reminds the guildmates what they're working with."
+
+I leaned back.
+
+"Authority? I don't know if we want to enforce ourselves that strongly."
+
+Diesel raised a brow.
+
+"What? Have you ever seen what people can do with a legacy and ring?"
+
+My stomach sank a bit.
+
+"No. I haven't."
+
+Diesel's eyes widened.
+
+"What? Really? Is Torix over law enforcement, then?"
+
+Embarrassment burned in my chest.
+
+"He's over everything. I'm like...I don't know, a figurehead."
+
+Diesel peered off, coughing into a hand.
+
+"No, what? No. I didn't mean to step on your toes, sir. I'll shut up now."
+
+I frowned.
+
+"Honestly, I don't know how a lot of the guild is run. It's not something I've had time for. At the very least, that's what I tell myself to make me feel better. So far, it's kind of worked."
+
+Diesel turned an open palm to the golem.
+
+"You're busy making those things, aren't you? And those, those walking artisans. What are they called-"
+
+"Architects."
+
+"Yeah, those are the ones. Those guys are insane. Don't sell yourself short. You're doing plenty."
+
+I nodded.
+
+"I'll try taking that to heart. Anyways, this is looking pretty promising, but how do the modes change if the wielder is incapacitated?"
+
+Diesel rubbed his hands together.
+
+"Trust me, sir. We thought of everything. It starts by assuming a small, aggressive child has gotten their hands on this thing. That's the failsafe parameters we put in place."
+
+Over the next couple of hours, Diesel showed me the ins and outs of the golems. He and his team drilled through this project like an eldritch through flesh. Woah, what kind of analogy was that? I meant, er, more like a dolphin swimming through water. Anyways, by the time we finished testing, the sun set. We stared at the golems in satisfaction.
+
+I reached out a fist.
+
+"We did it."
+
+His fist hit mine like a child fist-bumping a giant.
+
+"We did."
+
+With around a hundred golems ready, I gave Diesel a thumbs up.
+
+"I think I got it from here."
+
+As Diesel got up a few of his tools and diagrams, I pointed at Mt. Verner.
+
+"Do you mind if I meet the team behind this project?"
+
+"Not at all. They should still be on the engineering floor. We've been working into the nights lately."
+
+I picked myself up.
+
+"Need a lift?"
+
+"Please, sir. These rings aren't hard to use, but man, I am terrible at this."
+
+We went in through one of the primary entrances of Mt. Verner. A horde of people walked in through the concrete tunnel like fans filing into a sports stadium. I gave a couple waves to other guildmates, only being a head taller than most people. Diesel looked me over.
+
+"Where's the floating ball?"
+
+"In another dimension."
+
+"Ooh, sounds complicated."
+
+We passed inside before heading to the second floor of Mt. Verner. Diesel took me over to his workshop, diagrams covering the walls and tools lining the workstations. In the center, a set of obelisks glistened under fluorescent lights. A group of engineers stood by, talking about different concepts over a few drinks.
+
+As I walked up, they all straightened up and gave me a salute. In a practiced motion, I waved my arm.
+
+"At ease. Good work with the limiters today. I'll be having you guys work on other projects like this, and they'll pay well. Trust me on that."
+
+Diesel raised his hands.
+
+"We showed the fancy ant bed what we're made of."
+
+A set of cheers radiated through the group. Diesel lowered his hands.
+
+"That guy and anyone else that says we can't. It isn't like Plazia's the only one that doubted us."
+
+They nodded to that. In the back, Amara eyed me with her face wrinkling. As I neared her, she recoiled.
+
+"Blegh. Disgusting."
+
+I leaned against the table. Well, not really. A gravity well held me up, but you know what I mean.
+
+"What's got you riled up?"
+
+She hissed.
+
+"You're dragging a rupture with you and absorbing the corrupting energy it oozes. It's like watching a predator keep its prey alive while sucking out all its blood."
+
+I rolled my eyes.
+
+"You're an eldritch, right? You're all about eating prey."
+
+She snarled.
+
+"Not the kind of prey that sinks its teeth into me while I believe I'm sinking my teeth into it."
+
+"Eh, I'll be fine. Either way, good job with helping them."
+
+She raised her hands, glaring at me with them. Or maybe not. Amara always had an angry look in her eyes. She murmured.
+
+"Yes...They lack all discernment for the cipher. It is how they think. Their minds dart around in odd, disjointed ways. At times, they mirror a herd of sheep, bowing and baying until all they say is noise."
+
+She hissed.
+
+"But at times, genius strikes amidst the mud. Speaking of the grotesque, I may close that rift if you so wish it. It doesn't need to gnaw at you for eternity."
+
+I waved my hand.
+
+"Think of this as training for me."
+
+She sneered.
+
+"Ugh. Of course. Training. You always wish to take yourself further from what you were. If only all of us wished for such an outcome."
+
+I tilted my head.
+
+"Feeling nostalgic or something?"
+
+Amara's face jerked before one of her eyes twitched.
+
+"No. I...I'm just struggling to recall a few events from my past. That is all."
+
+I frowned.
+
+"Need some help?"
+
+Her outstretched hands curled like claws.
+
+"I want no one to corrupt my mind further. Leave me be."
+
+I gestured a hand to her.
+
+"We may be able to do something about-"
+
+She swiped her hand like an angry cat. One of her fingernails broke against my hand before she shouted. The others stared at us before she growled.
+
+"I am fine."
+
+As she walked away, I pinched the bridge of my nose. Diesel walked up.
+
+"Hello, sir. I wouldn't worry about it. She's always testy at the best of times."
+
+Shaking the altercation off, I rolled my shoulders.
+
+"I'll have to have a talk with her about it. At some point, anyways. I don't want her slicing a guildmate apart."
+
+Diesel walked over and picked up her dislodged nail.
+
+"She wouldn't do that."
+
+I raised a brow.
+
+"What makes you say that?"
+
+Diesel flicked the nail to me, and my armor absorbed it in an instant.
+
+"Because that's not who she wants to be, sir."
+
+I frowned.
+
+"Who does she want to be?"
+
+Diesel put his hands on his hips.
+
+"Normal, like us. I think she's annoyed that she isn't able to just walk out into the street without getting jeers or making children cry."
+
+I could relate. I sighed.
+
+"There's not much we can do about it."
+
+Diesel shook his head.
+
+"you're telling me. I tried to get her to look after her hygiene, but she didn't want to. She's so disgusted with herself that she doesn't even realize she's a big part of the problem."
+
+I peered his way.
+
+"You sound frustrated."
+
+Diesel leaned against the table.
+
+"That's because I am. I've worked with her for a while now, and she's a walking set of contradictions. She's always talking about how hideous she is, but she never brushes her teeth or hair. Or clean her clothes. Or anything. If I didn't take care of myself, you best believe I'd be gross too."
+
+I crossed my arms.
+
+"Is it the hypocrisy that frustrates you? Maybe the smell?"
+
+Diesel stared at some diagrams.
+
+"Maybe a little on that last part, but really, it's because I care. I want her to be happy like anybody else, but she won't get out of her own way."
+
+I frowned.
+
+"I can understand that. Happiness isn't something that's easy to get. Hell, it's even harder to keep."
+
+Diesel nodded.
+
+"I know the feeling. For me, it was getting a family and making friends at work. A few drinks never hurt either, but I'm a simple man, really. You know, easy to please. What about you?"
+
+I peered up.
+
+"What makes me happy? Probably time with the people I love, getting a sense of progress, and ensuring our security."
+
+Diesel pushed himself off the table.
+
+"I got to give it to you. You're dedicated. Just...Keep yourself in mind between all the chaos."
+
+I smiled.
+
+"Eh, I'll give it my best shot. No promises, though."
+
+Diesel smiled back.
+
+"None needed, sir."
+
+After a few goodbyes, I stepped away. I stumbled to the side, and my alternate dimension dragged me off balance. Panic welled in my chest as I almost crushed through a wall. A few minds banded together, jerking me back into a proper position. A few of my guildmates rushed over.
+
+"You ok?"
+
+"What happened?"
+
+"What's going on?"
+
+I raised a hand, getting my footing back.
+
+"I'm fine. I'm just tired."
+
+After getting some distance, I took a breath. Dread pooled in my stomach like the ichor of some cursed god. Maybe their curse had become my own? Jesus, more importantly, I wondered where all this melodrama was coming from. I couldn't tell, and I didn't care. I crushed it down and got out of Mt. Verner. Eventually, I reached a hilltop.
+
+I contemplated spending the night in meditation instead of training with Shalahora. That temptation drifted in my head as I gazed at Springfield. The moon floated over the new city, people having moved into it. A few houses still had lights on, the street lamps offering a moody atmosphere. A couple flowers bloomed out of gardens across a few homes. A trader's sign stuck out, the mana-powered light mirroring neon's aesthetic. It cast a shadow over a new warp center and currency exchange from Schema.
+
+Springfield had risen again like a phoenix crawling out of its ashes.
+
+As I found marks of its progress, I uncovered hints of its previous descent. A few ruined buildings and dilapidating houses crumbled on the outskirts of the town. Empty railway tracks crisscrossed the expanse, the rusted steel covered in encroaching greenery. Above it all, the moon glistened in its eternal glow.
+
+The celestial body's gaze pierced through me like some primordial being that far exceeded myself. That sensation crept up, becoming even grander. A chill ran up my spine as it kept glaring as if reading my thoughts and mind with ease. My worry mounted, becoming a growing panic. For a moment, I doubted my sanity.
+
+My self-doubt washed away as an eclipse formed over the moon. My eyes widened, and my runes flared. The eclipse smothered the ground in sanguine red, blood gushing from the earth. It rose, covering everything my guild ever built in seconds. People screamed from their homes, choking on the rising tide of blood. The hands of the dead pulled them down.
+
+The bloody sea rippled with waves of decay, and screams erupted in a symphony. Springfield lost all its progress within a few seconds. My hands shook as I watched my home crumble once more. Baldowah's voice laughed in the distance. His menace was a palpable, insidious aura, and his words roared rage into my soul.
+
+"We watch and wait, little one."
+
+I blinked, and everything returned to normal in an instant. My hands trembled, my guild's destruction leaving me hollowed out inside. Taking a deep breath, I sent another message to Shalahora. The shadow oozed from the ground, his eyes as clear as cyan glass.
+
+He murmured.
+
+"You wish to tread into the gloom once more?"
+
+My eyes hardened as I nodded.
+
+"Until it's no longer dark."

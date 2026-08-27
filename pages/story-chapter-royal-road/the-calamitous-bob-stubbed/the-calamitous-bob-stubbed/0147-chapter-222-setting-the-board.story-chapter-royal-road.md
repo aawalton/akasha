@@ -1,0 +1,363 @@
+---
+id: 88cd8269-c711-545c-8bf5-c13246824b56
+page-type-slug: story-chapter-royal-road
+title: "Chapter 222: Setting the Board"
+slug: 0147-chapter-222-setting-the-board
+partOf: the-calamitous-bob-stubbed
+position: 147
+ownLength: 5574
+unit: words
+ownProgress: 5574
+publishedAt: 2025-09-26
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2629963/chapter-222-setting-the-board"
+royalRoadId: "2629963"
+markedReadAt: "2026-06-29T21:19:39.462Z"
+---
+
+The Sandsong moved quickly, quicker than Viv could imagine especially in such a hostile place as a desert. Their men didn’t advance in tight ranks but in columns of elusive soldiers jogging at the top of dunes, or on the naked rock that their absence revealed. It took only half a day to return to Barrier with the scouts confirming that the preparations could begin. Word came that the Sheem were a little farther than expected, but had come in great numbers. It made Viv wonder how they’d gone through the gauntlet of elementals when the moody creatures could take offense so easily. She harbored no illusion that anybody, even Oleander, could slay one before they wrecked havoc, so really, it was a mystery. She didn’t like mysteries. She very much preferred when the other side dealt with them. Nevertheless, with now a day and a half of preparation in front of her, she got to work.
+
+With Bes hanging over her shoulder like a polite gargoyle, there was no difficulty in obtaining whatever material she asked for, be it cheap metal or the occasional small core. Fortunately, only the west end of the city had been burned to a crisp so the eastern side’s enchantments were pretty much intact, only inactive. Recruiting mages and people to repair the defenses proved easy. Setting up traps was a little more difficult.
+
+“Are you sure, milady?” Sin asked. “It is quite high in the pass. Won’t the enemy detect it?”
+
+“Not unless a spellcaster walks on it and when they do, it will be too late anyway.”
+
+“As you say milady, I still think —”
+
+“Sin.”
+
+Viv gave the blademaster a proper glare. Her eyes never failed to impress. Well, except the children of Harrak. And many of the adults of Harrak. And the golems. Well, it didn’t fail to impress foreigners anyway.
+
+“Sin, I am an elemental archmage, one of the deadliest spellcasters on Nyil. I have killed a dragon in single combat. This is an okay trap. Got it?”
+
+“I apologize, milady.”
+
+Except for the occasional disturbing lack of faith, Viv’s preparations went swimmingly which meant that, of course, she was starting to worry. Even receiving the Sheem army at Barrier felt risky. A pass was defensible. A city at the bottom of it? Much less so, especially now that the Sandsong guards had died defending it from a dragon. She didn’t voice her doubts though, because this was still Sandsong land and she was a distant ally, not an experienced desert commander.
+
+The next day arrived too quickly though Viv managed to sleep. Peering from a window in a ruined guardhouse, Viv could see absolutely nothing. The Sandsong army had melted around and inside the city and even her inspection couldn’t find the soldiers hidden under the sand, try as she might looking at a spot she knew for sure harbored one. The royal couple had decided to fight at the front which was a little bit risky but what did Viv know? They were hidden behind a large boulder. Far above them, flying mages would match the Sheem ones. Hopefully. All that was left to do was to wait. Waiting was half of Viv’s military life back on Earth. Here though, it felt even worse than it had back then. As the dawn turned into a morning, the silence started getting on her nerves. Bes was far to the back and Mar was scouting the flanks, so that left Sin but she didn’t really feel like talking to him. He was still too scared to make a good conversation partner.
+
+By that time, Solfis would comment on how the dry air makes meatbag remains disposal easier since the corpses mummify. Maybe she would have been able to have one last magical exchange with Sidjin. Damn. She missed those fuckers. It made her worried, and impatient, and just feeling off her game.
+
+“That’s it,” Viv realized.
+
+“Your Majesty?”
+
+“Nothing important.”
+
+Viv had almost never operated without a team. She was comfortable as a duelist only because she knew someone always had her back. Without the Hadals, her eyes were plucked. Without the golems, her arms were broken. Without the heavies, her belly remained unprotected. Her spear was gone with the Blue Roses, her grasp weak without the witchpacts. Outside of Harrak, like this, she was just a shadow of what she was really meant to be: someone who fought alongside her friends. It frustrated her how it had taken her so long to figure it out. She was naked without her army and her friends. It was fine for the mythical duel that would live in legends as a cool moment because it was one on one, but now reality has returned with the same screaming, pierced-guts and crying-widows horror it always possessed and she was missing a part of herself.
+
+“Sin.”
+
+“Milady?”
+
+“Do you intend to stay with me for the duration of the war? Even if it lasts for months? Years?”
+
+“I did swear.”
+
+“Then when we’re in private, call me Viv.”
+
+“I… I couldn’t!”
+
+Well maybe not now but the others were contagious. He would change his mind.
+
+***
+
+At midday, Viv tried to take a nap without success. She had some water even though it was winter now, and even at midday, the desert was not exactly warm. It was the last stretch for the Sheem, and they had to be close. They just weren’t there quite yet.
+
+“Won’t our men feel thirsty?”
+
+“No, Your Majesty. Their paths allow them to go without drinks or food for days provided they are half-buried.”
+
+The fuck.
+
+Well, paths were adapted to their circumstances. Maybe there was a path to feed exclusively off cave wall moss or something. Viv wouldn’t know. She decided to pass the time by going over the nearby enchantments with her mind, wary to activate any, even as a test, in case a mage was looking from afar. It was well into the afternoon when something changed. A sparrow flew over the pass. Sin lowered himself, and made gestures for Viv to do the same.
+
+“Sparrows! The Sheem have tamed some as scouts. Lower your head… we don’t want to be seen!”
+
+Viv did so but she assumed the death of the Sheem scouts had probably warned them something was on the way. She waited, then found a small opening to peer out of.
+
+A line of men in red uniforms had formed at the top of the pass. The Sheem had decided to deploy, expecting a battle, which was wise of them. Equipped with thick wooden shields, the first ranks walked on. Viv saw the distant robes and felt the mana disturbance indicative of mages. Deep, alien songs reverberated along the sheer cliffs as they tested the ground for defenses. Viv had placed them in the walls, well camouflaged with colorless mana. They would have to be thorough to detect them. They were not. The well-ordered army walked down, ready for anything. Archers and scouts spread out behind and on the flanks, checking the pass for dangers.
+
+“The king will send the signal,” Sin reminded her.
+
+He was probably nervous or he would have realized she had perfect recall.
+
+The Sheem army stopped in front of Barrier, just outside of shortbow range. Viv checked her traps in her mind and found that they were all still intact. The enemy army showed every sign that they knew something was coming, which wasn’t reassuring, but they didn’t know of Viv’s presence or her preparations. Unexpectedly, the ranks opened and a man on a horse rode down the slope at a leisurely pace. Although she didn’t dare inspect him, it wasn’t hard to recognize a powerful Shadowland blade master of some sort. He was tall, with the gray skin and sharp cheekbones she’d seen in refugees in the Azure Lady’s palace. A polearm of massive proportions rested above his shoulder. As he drew closer, Viv realized he was a monster of a man — easily as tall as Solar and perhaps twice as large, though the bone-colored plate armor was perhaps helping. Something shone at his side, drawing her gaze: it was a white shield with golden engravings that looked very much like an old Enorian design. It might not be an artifact just yet but it was pretty damn close. She frowned. He was most likely a member of Oleander’s retinue but probably not the man himself. Oleander was an outlander who’d appeared on Param. He wouldn’t look like a Shadowlander. What disturbed her the most was the absolute confidence he radiated, alongside a condescending grin that bordered on impatience. He stopped, this time fully within bow range.
+
+Other warriors emerged from the ranks, all of them wearing powerful magical items, though none as impressive as the shield. Viv counted seven: two archers, two swordsmen, an axe wielder and two that used spears that might be thrown — she wasn’t sure. They were a strange assortment of men and women of varied ethnicity. It was like looking at the cast of an old western right before they were surrendered by endless hordes of surprisingly shootable bandits. They exuded a special aura and they clearly knew it from their expressions. Who were those fuckers?
+
+“Hello, people of Sandsong,” the lead man said with a booming voice.
+
+The pressure of his intimidation washed over Viv. She allowed herself to taste it. It was callous. Domineering. The voice of a man to whom the lives of others were a means to an end, no more valuable than a gesture. It breathed steel gauntlet, or blunt instrument. Even his accent was powerful enough to show he’d learned Viziman just enough to be understood, but not enough to like it.
+
+“I have a name but you are not worth learning it. Just know that I am known as the Hopecrusher. Today, I am far from my shore. I hate it here. I want to leave, and I will, after we are done with you. A new age is coming, an age of unity and order under the banner of King Nero Oleander. You will be made to submit. Perhaps you are out here, hiding like rats, thinking there is a difficult battle ahead of you. There is not going to be a battle. Those who run or surrender will be granted the opportunity to submit. Those who stand will die. There can be only one path forward, and that path is to be one under a worthy ruler. We have decided to grant you no other choice.”
+
+The man reached for a saddlebag on the other side from the shield. He removed the relatively well preserved head of someone Viv immediately placed. It was Lord Dar of Ravinport. The man whose throne Viv had spent hours repairing.
+
+It appeared he’d died without marrying the muscular woman he had been waiting for all his life. There was no justice on this fucking planet.
+
+“I will say this out of mercy, not anger, because you are not capable of frustrating me. I want you to realize that you are the last ones here. The rest of Vizim joined us, willingly or not. There is no path of victory for you, and when we are done, we will simply return to our ships and travel south to finish the work. You can be part of something great as a segment of a grand, divine edifice. Or you can die here. Either way, choose quickly.”
+
+He gestured. There were no sounds of a horn or loud clamors. The Sheem army simply moved forward, and so did the Hopecrusher’s squad. He didn’t move. Even when a great horn blew and a large fireball arced towards him. The only hint that he was aware was when his horse moved to the side, and the white shield shone.
+
+The fireball exploded not far from him as if caught by an invisible wall. Fire cascaded down with fury, eating at the ground and the handful of Sheem who hadn’t been wise enough to get out of the way. Sandsong soldiers emerged from the ground, the city, the ridges in a courageous tide against their well-organized enemies and the elite squad smirked and yawned as they moved forward to engage them. It was probably Viv’s last opportunity to inspect the opposition, so she did.
+
+[Hopecrusher: fifth step of a special path dedicated to flattening the opposition on the battlefield and in the cities. Close quarter expert. Human bane. Enhanced intimidation..]
+
+The list went on, and it was a pretty bad one. Her concern growing, Viv inspected one of the archers currently unleashing arrows at Queen Naila’s shield.
+
+[Bleak Hunter: Fourth step of a path dedicated to felling dangerous foes.]
+
+The spearman?
+
+[Fang of the Elders: Fourth step of a path dedicated to preserving combat techniques.]
+
+She didn’t waste her time inspecting the others. Arrows whistled through the air, coming from the Sandsong as their strongest troops led the charge. To their credit, the Sandsong had perfectly placed their archers, and the surprising angles of attack had thrown the first Sheem line in disarray. Songs roared from throats as the mages engaged each other overhead as well, but Viv could see the writing on the wall. If she hadn’t been here, this battle would have been over in two minutes. The Sandsong would have disintegrated.
+
+But she was here.
+
+Viv triggered her traps. The screams started immediately. Colorless whips emerged from walls, from boulders, lashing out with quiet efficiency. One of Sidjin’s signature techniques, it was excessively difficult to anticipate unless someone had faced it before, and Sidjin didn’t like leaving witnesses. Here the effects were immediate. A wave of panic washed over the Sheem soldiers, canceling the Hopecrusher’s powerful aura. But not all was well. Her two farthest traps were blocked, somehow. She felt them trigger but no blood flew from up high. Viv gazed up. There were more soldiers up, maybe six thousand total. The Sandsong had to be outnumbered at least three to one. Sighing, she started to cast.
+
+“Their mage is there,” the Hopecrusher said, pointing in her direction. “Kill him.”
+
+Viv just needed a couple of seconds and it looked like she was going to get them. King Jei was fighting one of the swordsmen, his bodyguards somehow holding back an arrogant axe wielder standing unmoving, provoking them to approach while the blood of their friends drenched his feet. Queen Naila unleashed waves of fire on the approaching troops despite archers trying to take her down. Just then, she felt a twitch of black mana behind her, in the dusty darkness of the empty guard room.
+
+‘Look out!” Sin yelled.
+
+[Aspect of the Guardian]
+
+Viv was barely worried when Sin swore, then a blade pinged against her shield. The look of surprise on the assassin — that the stab he’d taken at an entrenched caster in the middle of a spell array had failed to penetrate — was more baffling than the attempt itself. The fourth step Shadowlander had the gall to huff.
+
+“Tsk.”
+
+Dodging fluidly to the side, he gave Viv one last sideway smile before black mana twitched again. So Viv said no, and the twitching stopped. The assassin tumbled, looking absolutely dumbfounded that his shadow teleport had failed. He actually tried a second time instead of moving. Viv could have killed him here and now but she was busy.
+
+Sin didn’t miss the follow up strike. He cut the assassin in half across the torso, and the two arrogant pieces fell on the floor in a spray of blood and viscera. The room immediately started to stink. Viv focused. She needed to thin the herd. Distract.
+
+[Aspect of the Destroyer]
+
+[Storm of Zamhareer]
+
+The sky darkened. The temperature dropped. All the mortals in front of Viv paled and slowed, but the Sandsong only slowed down a little bit. They knew she was on their side. Time was not, though. Many of the royal guard soldiers were either dead or too wounded to keep fighting.
+
+She needed a better view. A gesture, and the wall exploded in front of her. The Hopecrusher’s gaze fell on her. She felt his attention and the intimidation he wielded slammed her soul like a truck. She brushed him aside. And then she countered.
+
+He was strong, but she was one step removed from master level. He terrorized populations. She terrorized dragons. It was not a contest. The man’s horse jumped away, for a brief instant. It was all the opening she needed.
+
+[High Sequence: Astra swarm, Hyperbeam, Excalibur]
+
+One moment, the soldiers looked worriedly up towards the approaching black snowflakes while their breaths clouded in the cold air. The next, a barrage of black energy lashed out from Viv’s guardhouse over the heads of the Sandsong and straight at the elites. The sudden onslaught was the total output of a mage cadre released in a single instant. One of the spear wielders was too close, and the swarm of quiet explosions took him out. A portal carried her Excalibur into the unmoving axe-wielder’s back, killing him on the spot. The rest jumped or ran back towards the Hopecrusher with cries of dismay, their early disdain shattered.
+
+Rallying, he grabbed the white shield and placed it on his left arm with a practiced gesture. A white and red wall appeared in front of him, stopping the spells. To Viv’s surprise, the furthest Astra seemed to be disappearing from her perception before they could detonate.
+
+“A woman? Archers, kill her!”
+
+A hail of arrows peppered Viv’s shields in vain. She had engraved an amplifying circle at her feet and then filled it with metal. They wouldn’t make a dent, and just as well because something was happening. A storm descended from the white clouds. Gray particles flew in a twister that broke as soon as it formed, but the two spells canceled each other out, each one destabilizing the other. Her storm was stronger, but whoever was fighting it was smart enough to only block the particles that would fall on the Sheem troops. Their control was exquisite. As she cast more attack spells, Viv inspected the shield.
+
+[Oleander’s Shield of Valor: made in Enoria, reforged and enchanted by the Shadowlands’ best artisans, this shield has survived the harshest battles. It can block area spells. Extremely resistant.]
+
+Just like she thought. Not an artifact yet. It wouldn’t stop the saturation she was now unleashing on the retreating Sheem soldiers, some of whom were running for their lives, but as the Hopecrusher started to fall back as well, portals appeared in front of them.
+
+Viv’s spells fell on the Sandsong.
+
+“Huh?”
+
+Breaking them at the last second, Viv grit her teeth from the supreme effort of concentration. Had to stop her own damn fucking spells. Hungering death dissipated meters away from screaming Sandsong. The squad was moving on her, led by the Hopecrusher.
+
+“For Sandsong!”
+
+King Jei led a countercharge.
+
+A portal opened to Viv’s left. There was no time to think.
+
+[Aspect of the Destroyer].
+
+[High sequence: Hyperbeam, Astra Swarm. Guillotine]
+
+The Hopecrusher rushed forward, intercepting the spells aimed at his allies with smooth expertise while they huddled behind, portals opening to redirect her spells towards allies but this time, she was ready. Her guillotine crossed the hostile portal right next to her, meeting a particularly sharp air blade. The void strikes were redirected by yet other portals. Viv opened her own, redirecting the redirection but the enemy was faster, better. Portals were not her path. They were obviously his. She spotted him through the aperture. He stood at the pass, far above the battlefield.
+
+She knew who he was even though it was the first time they met. He also wasn’t what she expected. Dressed in sober battle robes, he had an assuming, gentle face and scruffy air that gave him the look of a wanderer. There was no anger on his softly handsome face. She would say he was of Baranese descent but his skin was too pale. It lacked the greenish tinge she was so used to by now. He also possessed an aura so complex and composed he could have been an older Sidjin.
+
+[Celestial Archmage: Fifth step of a path dedicated to air and space magic. Human bane. Monster bane…]
+
+As he undid her portals with casual ease, Viv knew what she had to do: overwhelm. Skill wasn’t on her side here.
+
+[High Sequence: Flay]
+
+A wall of hissing, writhing lines lashed out, snaking between portals and around defenses like so many angry snakes. The man still managed to block most of them but one in fifty made it and it was enough. Hissing strands dug furious grooves in the ground, the stones, cracking the outer layers of his shields as he redoubled his efforts. Viv’s spell grew in intensity as she focused and the tendrils became more directed, and vicious in the way they avoided the opening portals. The outer shell of her foe cracked. He closed all the surrounding portals to focus on closing the largest one. Viv tried to stop his efforts but it was like dueling an expert while wearing mittens. He was simply better at space magic than she was. Rather than persisting, Viv let him go. She was also under attack from the warriors..
+
+Javelins made for her. Suddenly, Sin was here to intercept them. He, Jei, and the remaining Royal Guard formed a half circle at the feet of the guard house. Fire roared, forcing the archers to huddle or die. While this combat of titans tore through the path, normal soldiers still fought each other with relentless fury. It was clear the Sandsong were on the verge of collapse, however.
+
+New portals tried to open around Viv. She unleashed more spells at the Hopecrusher’s squad, forcing them behind Oleander’s shield.
+
+The Hopecrusher tried to dominate her once again, a pathetic attempt.
+
+Viv had kept quiet so far but there was no reason to do so anymore. Her voice rang across the battlefield just as her spells held back two fifth steps and their retinue.
+
+“Pathetic. You’re not even the best head collector I’ve met this season,” she mocked.
+
+The enemy elites retreated, giving Jei some breathing room while soldiers kept fighting around them. Naila came to join them at the bottom of the wall. Up there near the pass, Sheem soldiers kept coming. At least, there were no more of Oleander’s elites, for now. But with a space mage on their side…
+
+The mage took a few steps forward. The more she looked at him, the more she was convinced it was who she thought it was.
+
+“Celerin Crest,” she greeted.
+
+The unassuming man tilted his head, curious. Contrary to his allies, he did not exude arrogance and disdain with every turn of the lip. If anything, he was the most guarded person here. His pale brown eyes searched Viv’s face as the red light of the early sunset bathed the battlefield in red and her face in shadows.
+
+“Have we met?” he asked.
+
+“No, but funnily enough, the circle you drew in Old Harrak saved my life.”
+
+Viv felt the brush on an inspection. Crest paled, face twitching in horror. A shaky finger pointed at her.
+
+“It’s… it’s her.”
+
+“What?” the Hopecrusher demanded.
+
+He clearly didn’t like being out of the loop.
+
+“She’s the other Ascender. Nero must be told.”
+
+“Or,” Hopecrusher retorted, “we kill her here and now.”
+
+Viv allowed herself a smile. It really, really looked like they were underestimating her. Maybe because she was only at the peak of the fourth step.
+
+“You can try.”
+
+“You scrawny thing,” the man spat. “You will join Dar on the pyre of history. It’s already over, fool. We have two continents, you have one small country. We will crush you like we crushed the rest. Fate is on our side.”
+
+“If you really understood fate, you’d know never to trust it.”
+
+“Sophistry will not save you,” Crest replied in a calm voice. “There can be only one Ascended, and it will be Nero. Your ambitions end here.”
+
+“Oh no. It’s just beginning.”
+
+The War of the Ascended has begun.
+
+Fifth step path unlocked. Choices are available. Be warned that picking one will incapacitate you while your body adapts.
+
+Shit. Bad timing. Actually, time wasn’t on her side at all. She needed to start picking them off but the shield and Crest were problems. Thankfully, she had solutions.
+
+The lack of trigger of [Always a chance] also told her they were weaker than her, which was encouraging. Maybe. There were still a lot of them. She pulled on her mana.
+
+“She’s casting again,” Crest warned.
+
+The Hopecrusher barked orders and his fighters spread out towards the messy battle around.
+
+“Sin, Jei, Naila, you go too. I’ll keep those two occupied.”
+
+Crest waved his hands. Two portals opened at the limit of Viv’s range. Screaming arrows emerged from them at strange angles, but her shields held.
+
+“Nice trick shot. My turn.”
+
+[High Sequence: nuees.]
+
+A massive cloud swept forward, a curtain of darkness as tall as three men. Like pyroclastic flow, it engulfed everything and the Sheem who had the misfortune to be close were swallowed after a brief cry. It left behind nothing but blighted rock. Not even metal survived it.
+
+“Teleport this.”
+
+Portals opened all around but Viv still had control over her spell. The deadly cloud moved around, or over the quickly erecting defenses. The Hopecrusher used his polearm to launch sweeping pure mana attacks in a vain attempt to push the clouds away. Viv started to feel confident but Crest teleported the pair out of danger. Some Sheem soldiers were caught in the aftermath but it didn’t matter. The elites were leading the way, cutting down Sandsong soldiers with ease.
+
+Viv hurled spells at one of the spear users but Crest and the Hopecrusher reappeared, protecting the surprised woman before she could be cut to ribbons. They were very mobile and they worked together well.
+
+“Change of strategy.”
+
+Viv took off, surrounded herself with a thick aegis.
+
+[Meteor]
+
+As a ball of darkness, she fell on the trio. She felt Crest teleport them away but she simply couldn't contest his control over space, not enough to block him anyway. But she had a recourse.
+
+[Shadowstep]
+
+Viv didn't use space to move this time, but dark magic instead. She appeared in front of a swordsman as he was about to cut down a wounded Sandsong. Viv tore him apart with void blades just as she appeared.
+
+“No, Belem!” a voice cried from afar.
+
+“That’s three,” Viv mocked, a bit prematurely.
+
+A portal appeared right in front of the beleaguered Jei. The Hopecrusher walked through like a juggernaut. His strike broke Jei’s arm in one blow. A powerful fire spear pushed him away, but it failed to breach his shield. Viv tried to teleport in but space wasn’t hers, and she was too far. Some hyperbeams bought her another second as she closed in. Around her, the Sandsong formation was breaking apart while endless reinforcements took them out. The archers had run out of arrows. Crest couldn’t face her in direct combat so he wasn’t trying. And it was working. He was too slippery.
+
+As soon as she closed in, they moved away again.
+
+“Keep running then.”
+
+[Aspect of the Destroyer]
+
+[High Sequence: Astra Swarm]
+
+Viv obliterated everything in her path. Entire companies of Sheem soldiers disappeared under her bombardment while the rest scattered. The remaining ones went deeper into Sandsong lines where she couldn’t easily target them. It was a messy melee.
+
+At this rate they were going to destroy each other’s army to the last man and woman. Viv grit her teeth. She was juggling too many pies. As expected, Crest and the Hopecrusher reappeared at another end of the battlefield then Crest sealed the space to keep her away.
+
+He, too, didn't care that much about his Sheem allies. He just wanted the army gone then Sandsong would fall around her. As she watched, they teleported again, towards Jei who was being treated by a harried mage. Viv was feeling like she was being trapped. All of her usual tools were being countered. She couldn’t protect and destroy at the same time.
+
+Crest knew it. She could see it in his resigned gaze. That was the thing that got her. He was feeling sorry for her. For them.
+
+Suddenly, something changed. Viv heard two notes then, two very familiar notes that she never expected to hear here. The portal behind Crest wavered. The Hopecrusher turned his head.
+
+A hail of transparent blades surrounded them. Crest managed to retreat but not easily. Space was no longer entirely under his control. Viv barely looked. On the southern road, by the walls of Barrier, a new group was gathering, the sight completely incongruous in the desert. Black armor that would cook them under the sun. Heavy boots that would sink in the sand. Horse barding that would sap their stamina. But this wasn’t the desert, just a rocky pass, and night was falling in this clement winter, and they were one of the most comforting sights she’d ever seen. The Harrakan horn blew again and the One Hundred charged under Brick’s banner, their flank covered by forty knights of the Blue Rose.
+
+“For the Black Tide!”
+
+“The Rose… and the Thorns!”
+
+The familiar lines wouldn’t be understood by their foes but a solid wall of steel and anger had something of a universal quality that transcended language. The Sandsong stood aside, reforming with selfless determination. As for the Sheem, some groups stood their ground while others ran back. Viv flew above, keeping an eye out for Crest.
+
+There was no shock. The best infantry in Param and a squadron of heavy cavalry proved too much for the disorganized Sheem. They didn’t get the chance to fight. They were simply run down, and crushed. In a fateful twenty seconds, the Harrakan formation mowed everything in front of them south to north. The Shadowland elites didn’t stay and fight. All who could retreat did so. The two armies separated just as the sun finally disappeared behind the horizon.
+
+Viv made sure the Sheem retreated all the way to the pass before floating down. Crest was still out there, getting reinforcements for sure. She had to get things rolling, but first she approached her people. It appeared Rollo had come in person to lead his best men while Ban Junior saluted stoically, but the person who had contested Crest’s control only appeared after he was confident there wouldn’t be more attacks. All around them, the Sandsong either collapsed or rushed towards the wounded to help as they could. Blood soaked the ground. Viv was too relieved to let it sadden her for now.
+
+“Sidjin! Happy to see you. Are you here to reinforce me? I’m impressed you predicted it.”
+
+She gave him a smile, but that smile didn’t last. Sidjin was tense. No, she had never seen him more terrified. The realization shocked her.
+
+“I’m not here to reinforce you; I’m here to rescue you. Viv, the Azure Lady sent us an urgent missive, and that’d before we sped by a Sheem invasion fleet. Viv. Sandsong is not just lost. They’re coming for you.”
+
+“Oleander?”
+
+“Not just him. The Nemeti. Their fleet is almost upon us.”
+
+Viv’s brain froze.
+
+“Wait. The Nemeti? The lizard people?”
+
+“They have a fleet, Viv. The Azure Lady says the fleet is following you specifically. She says they did as soon as you reached the ocean a month ago. They’re coming to kill you and there’s a lot of the fuckers. We need to leave. NOW!”
+
+This specific piece of news bounced off Viv’s brain. The Nemeti? Now? But… she was already fighting somebody else!
+
+“I can’t abandon those people.”
+
+“Then they’d better run fast. This place is done for, Viv, and so will we be unless we escape before the jaws of the trap snap shut.”
+
+Viv hesitated. No, she was here to save Sandsong… she was building an alliance, wasn’t she? This felt wrong.
+
+“Viv, listen to me. It’s not because you whipped two fifth steps and a group of fourth steps that you can stop two massive armies. You are not invincible. We need to leave. Believe me.”
+
+Sidjin’s voice was slow with an undercurrent of utter panic.
+
+“You’re going to die if you stay. I swear on all the gods. You will die.”
+
+“Alright. Alright, Let’s go. Quickly.”
+
+She had a look towards the pass. There were more foreign fighters appearing from portals up there. It wouldn't be long before stronger elites rushed down that slop and this time, there would be too many for her to stop. Sidjin was right. This place was fucked.
+
+“Alright. Form up, I will talk to the King and Queen.”
+
+Sidjin returned while Viv flew towards the royal pain, a bit worse for the wear from their near-death experience but still standing.
+
+“We need to retreat towards the sea,” she said. “Quickly.”
+
+They didn’t object. In fact, they didn't say anything. They looked haunted.
+
+“Hey.”
+
+“Yes, we will. I will give the words,” King Jei said. “We need to hurry.”
+
+“What’s the matter with you two?”
+
+“Can you not feel it?” Naila whispered.
+
+“What?”
+
+“He is coming.”

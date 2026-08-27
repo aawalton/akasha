@@ -1,0 +1,179 @@
+---
+id: 0850e782-b16c-560b-af50-1b5cc5da07e1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16: The Same Bed"
+slug: 0016-chapter-16-the-same-bed
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 16
+ownLength: 1945
+unit: words
+publishedAt: 2026-08-02
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3758879/chapter-16-the-same-bed"
+royalRoadId: "3758879"
+---
+
+“That is an absolutely fine suggestion to me,” Hecate said. “My dear and I have already shared a bed before–”
+
+“When?!” Marina cried.
+
+This was not a part of her memory, and she was sure that her brain hadn’t decayed to that level even after years of sleep deprivation. There was a good reason why she didn’t want to share a room with Hecate. It was the pair of cold, vampiric eyes that glowed faintly in the darkness. They really creeped her out.
+
+“I believe it was the late afternoon when we first met. You fell into a slumber after the poison of my fangs took effect,” Hecate smirked at the details. “Then I decided that it was best to watch over you from your pillowside–”
+
+“Okay! That is enough!” Marina jumped; embarrassment painted her cheeks red. “Hecate, you can have the bed. I’m fine sleeping on this… chair.”
+
+“I don’t think that is appropriate given the difference between our status,” Hecate argued as if Marina had any power to enforce their status.
+
+“I–” Marina downed the rest of the nectar in her cup as if it were the most intoxicating alcohol. She stood up, “Mellie, would you mind if the two of us share a bed?”
+
+“Objection–”
+
+“I wasn’t asking you!” Marina glared, irritated by Hecate’s proposals.
+
+The room fell into a dead silence that not even Mellie dared to break, despite being within the premises of her abode. Marina’s expressions froze at the realization of the fault in her actions, and before she could say another word, Hecate got up from her seat.
+
+“I apologize for my lack of manners.” Hecate headed to the door. “If you need me, Marina, my string shall be your guide.”
+
+The door closed behind Hecate. The silence returned.
+
+“Miss Marina,” Mellie said, a softness in her voice. “I am fine sharing a bed with you, but compared to Miss Hecate, I’m still just a stranger.”
+
+So was Hecate, and everyone she encountered so far.
+
+“Technically, I met her yesterday.” Marina fell back on her chair.
+
+“Yesterday?” Mellie gasped, “You’re kidding.”
+
+In her previous life, Marina lived all by herself in an apartment the size of the bakery’s second floor. Sometimes, she would invite colleagues for a small toast, but more often than not, she was alone. If what Hecate said were true, it meant that she shared a bed with a total stranger, one with malicious intentions. The vampire could’ve very easily ended her life and extracted every last drop of blood from her body, but instead, Hecate chose to watch over her at her most vulnerable times. Her heart raced as her mind filled in the blanks of those moments, the same way it raced when Hecate’s fangs pierced into her neck.
+
+“So much has happened so fast, it does feel like we have known each other for a long time.” Marina let out a sigh. “Hecate is… stunning, perhaps the most stunning person I have ever met.”
+
+“I agree, Miss Hecate looks different from everyone else. It’s almost like she has a special glow to her.” Getting up from her seat, Mellie refilled the nectar in Marina’s cup.
+
+“Thanks.”
+
+“And I can also tell that, Miss Marina, you are also different.” Mellie sat back down.
+
+She purposely hid her identity as a Redeemer, knowing well there definitely were drawbacks. Hecate reacted positively toward her, but it doesn’t mean everyone will. Could Mellie have already uncovered her secret? Marina kept herself calm.
+
+“How so?” She asked.
+
+“I don’t really know exactly, but you kind of just give off that vibe.” Mellie shrugged. “They always say two very special people are destined to meet. Maybe that’s why you met Miss Hecate.”
+
+“Right…” Marina rolled her eyes. She was not a believer in fate.
+
+“The elder’s words are always right.” A naive and yet serious expression hung upon Mellie’s face as she exaggerated her words.
+
+“This is the third time I have made her angry today.” Marina redirected, looking down at the cup of nectar in her hands.
+
+“Is Miss Hecate short-tempered?”
+
+“I can’t imagine her to be,” Marina replied with a slight uncertainty. “She always appeared to be calm and collected, no matter what foe stood before her.”
+
+“So, are you actively trying to make her angry?”
+
+“No.” Marina denied without hesitation, “Why would I do that?”
+
+If it were anyone else, they would’ve been sentenced to death on their first attempt. The only reason she made it this far was due to their contract, or at least that was what she speculated.
+
+“I don’t know? Maybe you don’t like Miss Hecate for some reason?” Mellie’s antennae bobbed up alongside her curiosity. “Or maybe something happened between you two, and there's a grudge?”
+
+Who wouldn’t hold a grudge over being forced into a contract? A headache struck Marina right on the nerves. “I suppose there is something.”
+
+“Then why don’t you go tell Miss Hecate and try to work it out?” Mellie suggested.
+
+“Well, she already knows about this thing,” Marina rubbed her temple. “And I doubt she wants to see me right now.”
+
+Regardless of how angry she may have been, raising her voice so recklessly was not in the etiquette. The contract indeed made her angry since yesterday, but it didn’t change just how much Hecate had done for her since the beginning of this journey. She couldn’t imagine just how disappointed Hecate would be at this current moment.
+
+“You assume Miss Hecate doesn’t because you don’t know how she is feeling right now, and neither does Miss Hecate.” Mellie pointed out.
+
+“Mellie, you are quite good at this.” Marina complimented. “Have you ever considered becoming a psychologist or a counselor of some sort?”
+
+“A psychologist? What is that?”
+
+“Oh, they are the ones who help people with mental health issues by talking to them and analyzing their behaviors and such,” Marina offered an explanation. “Maybe they got those jobs in the cities.”
+
+“But I can’t leave here…” Mellie’s eyes dimmed with disappointment.
+
+“Then why not be a psychologist for the people here?”
+
+“I don’t think I can…” Mellie’s voice dropped alongside her confidence. “The Bee-ple around this village don’t exactly like me much, probably also the reason why the chief pushed you and Miss Hecate to my place.”
+
+“How so?” A confused look appeared on Marina’s face. “I think you are really personable, like the type to have hundreds of friends, and always waving to the people who walk past you.”
+
+“Well, I wish that were the case, except the Bee-ple here don’t really talk to me,” Mellie informed with a downpour of melancholy. “This is the longest conversation I’ve had in a long time.”
+
+“But why? I know you were taught Kith, but your Universal is as good as anyone’s in the village.” Marina’s temper shifted. “Why wouldn’t they–”
+
+“It’s because I can’t fly,” Mellie’s words were barely a whisper. “Bees that can’t fly cannot contribute to the honey production effort of their village, which might also cause a deficit. It’s the reason why I chose to live in solitude.”
+
+“Are your wings damaged? But you have nectar at your house,” Marina sorted through the countless questions in her head. “And if you physically can’t do that, it still shouldn’t be a reason for you to be ignored.”
+
+“The nectar that is used in the village comes from the tallest flower west of here, and it’s a flower that requires flight to get to.” Mellie pointed behind her. “Those instruments are what I use to extract nectar from the ground-level flowers; their nectar is not of the quality to count toward contribution.”
+
+“I see.”
+
+“And my wings aren’t damaged; the problem isn’t that I can’t physically fly.” Mellie glanced away from Marina. “It’s actually because I am scared of height.”
+
+“So what?” Marina refuted. “That still shouldn’t be an excuse to exclude yourself.”
+
+“But I–”
+
+“I’m going to find Hecate,” Marina said as she stood from her seat. “I am sure we can figure out a way to help you.” She stated firmly before taking her leave.
+
+*****
+
+The red string wrapped around Marina’s finger pulsed with a lively rhythm.
+
+It didn’t take long before Marina caught a glimpse of a graceful, white-haired woman, the skirt of her gown balleted alongside each of her steps. Next to her was a young boy, less than a decade old, and in his hand, he wielded a wooden sword.
+
+Marina watched as the boy swung his dull blade repeatedly, with Hecate guiding the form of his posture throughout. The gentleness of this moment cracked a smile on her face, and she kept quiet at that moment in front of her.
+
+The boy struggled to swing with full force with the weight of Hecate’s bestowed posture. Soon, he collapsed to the ground in exhaustion.
+
+“You have done a wonderful job today. Shall we continue tomorrow?” Hecate knelt next to the boy.
+
+“Of course, Ma’am.” The boy replied with heavy exhales in between.
+
+“Very well,” Hecate smiled. “Same time and place.”
+
+“Yes, Ma’am.” The boy helped himself up with the help of his wooden blade. “Thanks for the lesson.” He bowed.
+
+“Good boy.” Hecate patted his hair. “Now go home and get some rest.”
+
+The boy bowed once again before taking his leave.
+
+Marina felt a shiver on her back as she caught Hecate’s gaze. She slowly put up her right hand for a wave, hoping to alleviate some animosity.
+
+Hecate waved back, slowly making her way towards Marina. “That was quite the fun little lesson, wouldn’t you agree?”
+
+“Y-yeah, it was.” Marina stuttered, slightly caught off guard by Hecate’s calm temper. “Since when did you decide to take on a student?”
+
+“I simply saw him swing his clumsy toy like a headless dragon, and decided to give some guidance.” Hecate walked next to Marina. “Though I do like his dedication; not many children in this day and age are still interested in swords.”
+
+Marina barely heard a single word Hecate said. Her head was jumbled by bare pieces of a complete apology. But no matter how perfect the sentence was, she could not find the courage to speak it.
+
+“Hey Hecate, I came here because I…” Marina clutched her fist, attempting to force out the rest of the sentence.
+
+“Mm?” Hecate tilted her head.
+
+“I-I wanted to say that I’m…” Marina took a deep breath. “I’m sorry for the trouble I caused you today, and the way I talked to you.”
+
+Hecate stared with a confused look before letting out a small laugh. Her eyes smooshed into the beautiful shape of a crescent moon as she gracefully covered her lips with her hand.
+
+“W-what?!” Marina blushed.
+
+“It’s nothing,” Hecate waved her hand. “I just thought you looked so adorable when you were embarrassed, my dear.”
+
+“H-huh?” Marina’s eyes widened as she felt the heat of her face continue to climb.
+
+“I understand your stance on our contract, and I understand your grudge against me.” Hecate’s formal tone returned at once. “You don’t need to apologize for anything. I left because we both needed a moment to ourselves. And I shouldn’t have teased you in such a way. I was also at fault.”
+
+“O-oh.” Marina nodded softly.
+
+“And regarding the bed, the choice is up to you; I won’t interfere.”
+
+All things considered, having someone watching over her as she slept was quite comforting. Especially if it were someone whom she could trust and rely on. Especially if it were someone who was her savior.
+
+“I-I think it’s best that we share a bed,” Marina looked Hecate in the eye. “I’m not comfortable sleeping with a stranger anyway.”

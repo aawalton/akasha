@@ -1,0 +1,125 @@
+---
+id: f4de03df-6fc5-5b45-b141-95ab6127d204
+page-type-slug: story-chapter-royal-road
+title: "Chapter 406 : Hunting the Hunter"
+slug: 0108-chapter-406-hunting-the-hunter
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 108
+ownLength: 2466
+unit: words
+publishedAt: 2026-07-22
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3709421/chapter-406-hunting-the-hunter"
+royalRoadId: "3709421"
+---
+
+While "fleeing," I continued to monitor the situation of the various slime blobs around me. The attack squad continued to pursue me while the gatherers seemed to not care and continued feasting on the dark energies prevalent in this area.
+
+It's not like the eating slimes can't attack as well. I bet if I got close, they would lash out.
+
+If I were going to locate the core, I needed to force it to move. Causing it to retreat was the easiest solution, but it also would put me at risk of losing the slime core. The ideal outcome would be for it to pursue me, and for that, I needed to be just out of range of its remote slime manipulation.
+
+It has to have a distance limit within reason; there's no way it has the trait uncapped. Speaking of which, I really hope whatever this ability is, it will get incorporated into [Slime Mastery]!
+
+Thus began my little game of cat and mouse. I would let the slime approach and then flee, ensuring I was just slow enough for the slime to continue pursuing me. Of course, I also lashed out with a few attacks, but only ones that wouldn't actually harm the slime, and since I was one, I knew full well which would be ineffective.
+
+For example, even my mighty [Rift Rend] spell would effortlessly cut the slime in two. But, it was just slime mass and it could be easily reconnected. In fact, if the black slime didn't have a limit on how many individual blobs it could control, cutting the slime into more parts would actually increase its threat level.
+
+The more I faked attacking the slime, the more deeply I desired this ability. It proved that if you kept the slime core safe, we slimes were effectively invincible to the vast majority of attacks. Of course, if I burnt the slime mass or froze it, it would be "defeated" and lose that portion of slime, but who cares if slime is quite easily replenishable?
+
+Not to mention, thanks to [Blaze Slime] and [Cryo Slime], I don't have those drawbacks. Ignoring my slime cores, I'd say my greatest remaining weakness is not being able to easily recollect slime mass, so even useless attacks, if they disrupt or displace my slime, can cause me to take some losses. Sure, I could set up a slime domain, but then my enemies can just run away.
+
+Being able to control slime like this removes the need to set up beforehand to collect slime and gives me greater control. I could have flying monsters under my control, heck, I could actually do that plan I had where I wanted to pretend to have a griffon under my control. Keldenar's golems would look like cheap toys in comparison to my slime minions, well, at least the grunt versions, I'm not too sure about his elite models.
+
+I really needed to stop thinking about the ability as I was starting to get almost fanatical about acquiring it. If it were anything but a dumb slime, it might have even sensed my deep-rooted hunger to devour it. Thankfully, my fears didn't come true, and the slime kept trying to hunt me down as I dragged it further and further away from its location.
+
+At this point, I'd even disturbed some of the gathering blobs, so I had a squad of slime blobs chasing after me. I wasn't sure if the black slime could feel anger, but it definitely wanted to consume my abundant lifeforce. I continued giving it false hope, letting its attack be just out of reach, as I lured it further and further.
+
+Found you!
+
+It was such a tiny movement I might have missed it entirely if not for all my [Sub-Cores] being on the lookout for even an ant crawling. In its desire to feast on me, it finally moved to keep its slime mass in range. I focused on its position and tore through space, immediately arriving in the room where the slime core was located.
+
+It instantly froze, as if trying to hide, but I had already locked onto it. Under the gaze of my [Soul Sight], it looked lifeless, which was why I had such trouble locating it; it was practically an inanimate object at this point. The core itself was jet-black, while the slime it produced was a transparent shade of charcoal-black, making it very hard to spot naturally.
+
+With the black slime core before me, I abandoned all pretext and lunged for it, trying to seize it with my hands. When those failed as it tried to dart away, the tentacles came out like a hungry maw and grappled it before it could slink away. My own slime ate away at its protective coat, trying to immobilize the core by taking away the slime mass it kept for itself. Surprisingly, though, the black slime core itself was trying to eat me, and it seemed to be draining the lifeforce in my own slime and using it to rapidly regenerate its own slime.
+
+So that's why people don't keep their cores! Unlike normal slimes, even its core can feed and keep regrowing more slime mass. Fascinating!
+
+However, I wasn't going to continue gawking at it, and with a mighty chomp, I greedily devoured the black core entirely. It tried its best to eat me in return, but it was futile.
+
+<Compatible core detected. Integrate new core?>
+
+Yes!
+
+<Slime (Black) Core absorbed. Trait [Heal Slime LV 2] gained. Trait [Slime Puppetry LV 6] gained.>
+
+<Trait [Necrotic Slime LV 5] has been automatically merged into [Primordial Slime LV 17]. >
+
+<Proficiency gained. [Primordial Slime LV 17] improved to [Primordial Slime LV 18].>
+
+<Trait [Slime Puppetry LV 6] has been automatically merged into [Slime Mastery LV 13].>
+
+<Proficiency gained. [Slime Mastery LV 13] improved to [Slime Mastery LV 14].>
+
+I did it! I finally did it! New slime abilities, new levels, new everything! Hahaha!
+
+I started laughing with joy, my slime wiggling with delight as my form distorted. I was simply that happy about what I'd just gained that I could barely contain myself anymore. The traits were automatically absorbed, but thanks to the black slime profile, I could just reference them from there and see what exactly my new abilities were.
+
+Let's start with the primary ability.
+
+<[Necrotic Slime] This slime contains the power of death and decay, and is able to feast off the living and, to a lesser extent, the corrupted energies of the world. Necrotic Slime is highly toxic to the living and, with a mere touch, can instantly begin siphoning lifeforce, spawning more slime mass or feeding it back to the slime core to recover, akin to vampirism. Such an ability comes at a price, and the slime is highly susceptible to both Holy and Healing effects, being treated almost as if it were an undead abomination rather than a slime spawn. Conversely, the slime is extremely resistant to dark magic, quickly gaining immunity, and at higher trait levels can even feed off it entirely. Compatible with other slime traits.>
+
+Interesting! Very interesting! So it's a bit like a slime vampire, makes me wonder what's the point of that sanguine mutation I had, this just seems far superior? Is that the power difference between a species evolution and a mutation?
+
+I wasn't too happy about being weak to Holy and Healing. Still, since this was integrated into [Primordial Slime], which also contained [Heal Slime], I figured it was probably reduced, if not removed entirely.
+
+Now I probably just need to get a gold slime to get holy resistance. At least, that's what I'm assuming. Still, with [Primordial Slime], as long as I don't activate [Necrotic Slime], I shouldn't become an undead abomination… I think?
+
+What was interesting was that I saw no mention of anything that could hide itself, and looking through the profile, I didn't see any traits or abilities that would grant this. In fact, the only other new trait this profile had was [Slime Puppetry].
+
+Maybe it's actually a side effect of being treated as an undead? Actually, that kind of makes sense.
+
+Overall, I was pretty happy with this new slime trait; it seemed ideal for feeding on anything my [Acid Slime] couldn't dissolve. Which, admittedly, was probably not much at this point. However, it did give me the idea of trying to eat ghosts, since they technically count as dark, corrupted energies, right? It also provided the rare ability to heal my own core through life-stealing.
+
+And now, onto the main event… Which is kind of weird that I'm more interested in a sub-trait rather than the primary ability, but hey, that's life for you, it's full of surprises!
+
+<[Slime Puppetry] While all slimes naturally seek to further improve their ability to control their body of slime, others seek to go beyond the normal confines. At the cost of losing some precision and strength, this trait allows the slime to retain a link to any separated slime mass and continue manipulating it. This link has a limit, and if exceeded, the slime mass will return to its regular inert state of helplessness when separated from the core. While there is no hard limit on the amount of separated slime mass a slime core can control, each instance increases the mental burden, and if the core is overwhelmed, all loose slime will become inert. Further trait levels will reduce the manipulation and strength penalties applied to separated slime, while also allowing it to be controlled over greater distances. There is also a slight reduction in the mental burden of controlling multiple instances of slime mass from additional trait levels. Compatible with other slime traits.>
+
+Yes! Yes!! Yes!!! It's finally happened! Oh gods, pinch me, I must be dreaming…
+
+It was everything I could've wanted and more. Whatever drawback it had was likely entirely circumvented by my uncapped [Slime Mastery] trait. As for the so-called mental burdens, they would be greatly diminished thanks to my glorious [Sub-Cores] and [Core Collective], which buffed all of our processing ability.
+
+Usually, I would speculate a bit about a new ability, but I wanted to dive right in, so I cut off my arm and let it fall to the floor. I thought I would need to activate the trait, but it seemed to have an almost passive effect as I could feel my severed arm still linked to me.
+
+I had the arm begin to move, which it did without any issue. I then had it start transforming first into various objects, then into small creatures. There was no issue at all in my ability to manipulate it, which was exactly what I had been hoping for.
+
+It was a bit hard to define the experience; it was definitely not the same as being directly connected to my core, despite [Slime Mastery] doing its best. Numb was the only word I could think of to describe how I felt about the separated slime, as if I knew it was my arm and could still move it, but there was a tiny disconnect.
+
+It feels a bit like an upgraded version of [Hydrokinesis]... I'm a little surprised it wasn't called [Slimekinesis], to be honest.
+
+I produced more slime and began manipulating and separating all of it. I had a multitude of tiny blobs of slime bouncing around and shaping into various forms, none of which caused me any significant issue. I had the blobs join together and take on bigger forms, then divine and make smaller, all of it was well within my capabilities.
+
+There's got to be some limits…
+
+I created a small bird and had it fly away from me. I was genuinely shocked at how far it was flying, and it almost seemed like I wouldn't reach the maximum range, until eventually I felt my control over it fading. I roughly estimated that I could fully control slime within a radius of just under two hundred meters, but I could probably push it to two-fifty if I was okay with reduced control.
+
+Rather than having the bird return to me, I tried to detonate it, only to find that I couldn't, which was when I discovered my first limit to this newfound ability. I created another bird, this time intentionally using [Nitro Slime] before separating it and sending it out. This time, I had no issue causing it to detonate, which was exactly what I suspected.
+
+Okay, so I need a slime core to change the composition of the slime mass. That's not too much of a drawback, to be honest, as what's stopping me from including a [Sub-Core] to act as the "alpha" of the slime pack?
+
+I created another larger bird and included a [Sub-Core] into it. I had it meet up with the slime bird, incapable of exploding, and when they touched, I effortlessly reconfigured its slime composition. This was great as the [Sub-Core] bird didn't even need to be [Nitro Slime], just its mere presence was enough to reconfigure the properties of my slime, likely thanks to [Core Collective] treating it as the primary core in this circumstance.
+
+I had the bird fly away, ready to detonate, when I made a startling discovery. It was over three hundred meters away from me, yet I could still control it without any issue whatsoever.
+
+My [Sub-Cores] act like relay points! Oh, this just gets better and better!
+
+Truthfully, I had suspected this might be the case, but I almost didn't want to say it, as the disappointment of it not being true would be immeasurable. I wasn't sure if this was a feature or an oversight, but I certainly wouldn't complain, unless it was suddenly taken away from me.
+
+With this, I need even fewer cores stationed at the island… I don't need tendrils wrapped across the land, which is also great!
+
+I quickly activated [Split Personality] to send over some information to my personas, updating them on the situation and my current discoveries. While keeping it a secret might have been fun, especially to surprise Vee, I wasn't sure how long I'd be down here, and I wanted my personas to have all the tools at their disposal.
+
+Plus, who knows, they might think of a way to use this ability that I haven't thought of yet. Might as well brainstorm together in this case.
+
+I recalled the slime core and the bird, and then began formulating my plan to conquer this labyrinth once and for all. With [Slime Puppetry], I could send minions across every twist and turn, uncovering the final destination through sheer numbers.
+
+I cackled with delight just thinking about it. This was quickly becoming the best day ever!

@@ -1,0 +1,161 @@
+---
+id: c86a54ff-c04c-5dbd-9b4e-e452d0e6b697
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1183 - Operation: Moonfall"
+slug: 0055-chapter-1183-operation-moonfall
+partOf: the-primal-hunter
+position: 55
+ownLength: 3208
+unit: words
+ownProgress: 3208
+publishedAt: 2025-10-20
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2691172/chapter-1183-operation-moonfall"
+royalRoadId: "2691172"
+markedReadAt: "2026-06-29T19:31:00.435Z"
+---
+
+Miranda adjusted the projection to get a better view, knowing that things were about to begin. At her side stood Lillian and Scarlett, who had also shown interest in observing the confrontation between the B-grade Ghostvine and the mad scientist of Earth.
+
+“You think he’ll kill it?” Scarlett asked as she sipped from a drink. “Plant monsters like that are notoriously durable. While I could likely kill it, it wouldn’t be a fast process and totally not worth it.”
+
+“I don’t believe Arnold would bother if he didn’t believe he could kill it,” Miranda answered truthfully. “He’s not the type of person to do anything he didn’t believe himself capable of.”
+
+“I guess,” Scarlett shrugged as she looked at Lillian. “Are you worried he’ll damage the moon too much, by the way? You are a moonlight mage or something, right?”
+
+“Lucenti, which can be summarized as moonlight magic, sure,” Lillian answered. “As for being afraid of the Earth’s moon being damaged, it doesn’t matter to me. My magic doesn’t rely on the literal moon but more on the concept of one. The presence of a physical moon can help amplify certain skills, but the absence doesn’t hurt my Path.”
+
+Scarlett nodded as she watched the projected screen. “Oh, I think he’s about to begin.”
+
+“Indeed,” Miranda nodded as she dedicated her attention to the screen. She wasn’t watching only out of curiosity and to see if Arnold could pull it off, but because this was one of her rare chances to get greater insight into just how powerful one of the most influential geniuses on the planet was.
+
+Arnold was powerful, no doubt about it, but it was hard to quantify just how powerful he was compared to others. Unlike Jake or the Sword Saint, Arnold didn’t shoot arrows or swing a sword around to kill his enemies, but was far more similar to Vesperia in his method of dealing with foes.
+
+He was a one-man army who relied primarily on his creations. He had the ability to direct and control this army using his mind and skills alone, which certainly made him dangerous, but Miranda wasn’t clear on exactly how dangerous he was.
+
+Usually, people like Arnold had the fatal weakness that they themselves were weak and could be taken out easily. If stripped of their army, they were nothing. However, Arnold didn’t seem to fit this archetype entirely. He willingly showed up in person for several events, putting himself “at risk,” and he had nothing against meeting even Miranda in one-on-one situations.
+
+Knowing just how cautious and smart Arnold was, the only conclusion Miranda could reach was that he wasn’t ever truly at risk. That if push came to shove, he was fully capable of defending himself in person.
+
+If that was true, he had overcome the usual fatal weakness of people with his Path, and if he ever did turn into a problem for Earth, Miranda didn’t have a straightforward way to get rid of him. Of course, she didn’t have any plans to antagonize or be anything less than an ally of Arnold, but as the de facto leader of the planet, she had to consider even the unthinkable.
+
+That’s why, with extreme interest, she watched the unfolding of what people had come to call Operation: Moonfall... while really hoping the name wasn’t literal, as having the moon fall on the planet would be a troublesome development.
+
+--
+
+Far above the surface of the moon, a total of twenty-four space barges that almost looked like huge metal dumpsters with three compartments had been orbiting to prepare for the operation to begin. Each of them was nearly twenty meters across, with its interior spatially expanded to increase storage capacity even further. All of them were spaced all around the moon’s orbit to hit every section at once when the attack began.
+
+Once the command was given, all of these barges opened up the first and largest compartment, unleashing an army of drones upon the celestial object below.
+
+Tens of thousands streamed down, each with the singular purpose of catching the attention of the B-grade within. Like a swarm, they entered the crevices and caves all over the moon, each equipped with limited armaments that they quickly began utilizing.
+
+Small laser beams pelted any small movement of the Ghostvine as the many drones kept seeking deeper and deeper into the celestial object. Noticing this intrusion, the Ghostvine soon began to respond. The vines usually hidden within the rock of the moon moved out to destroy the drones, in what could only be called a bored and monotonous response.
+
+This was far from the first time Arnold’s drones had entered the moon, and as predicted, the Ghostvine didn’t feel any danger, making its response predictable and easy to exploit. The only difference between this attack and those prior was the sheer number of drones, something the Ghostvine didn’t seem to consider a major problem, perhaps in part due to every attack made thus far having been with greater numbers than the last.
+
+Of course, this attack was far different from all those prior, even if it looked like usual business in the beginning. The drones dealt little damage as they dragged out tens of thousands of vines, making them cover much of the moon’s internal cave system.
+
+About an hour and a half into the operation, only about half of the drones remained, the high level of surviving drones due to Arnold funneling them into the moon at a steady pace. An important act, as he would need these drones for another task shortly. The Ghostvine had only gotten lazier and more careless with its response, and based on all of Arnold’s scans of the moon, this would be the optimal time to move on to the next phase.
+
+The barges that had brought the many drones were activated once more as the second and smallest compartment opened up. Contrary to the first compartment, these ones weren’t spatially expanded, but instead housed roughly a hundred missiles each.
+
+At once, all the barges unleashed their payloads upon the moon below. The guided missiles flew far faster than the drones and quickly made their way into the vast tunnel system, trying to get as far inside as possible before inevitably hitting something or being struck by a vine.
+
+All two thousand four hundred missiles made their way inside, as one by one, they were triggered. Upon detonation, they unleashed massive explosions of napalm-like flames that consumed the entire tunnels and spread for kilometers in every direction, clinging to anything they could, especially organic matter.
+
+These flames had three primary purposes. The first one was naturally to do damage to the vines, but this was only in service to the two next purposes. Because the second was that, due to the vines taking damage, they couldn’t as easily phase into the solid matter of the moon to hide away again... which made them unable to defend against the third purpose.
+
+Throughout the moon’s interior, Arnold’s drones and Sandy had deposited bombs that, upon making contact with these flames, were all triggered. Thousands upon thousands of directional bombs, made to explode inwards through the tunnels of the moon, were activated as the vast majority of the moon’s expansive interior tunnel system was filled with explosions.
+
+To all outside observers, it looked like the entire moon lit up at once from the many caves and crevices covering its surface, and for the first time, Arnold’s scanners detected a sound indicating things were going well.
+
+The Ghostvine screeched in pain from the core room of the moon, tens of thousands of vines shredded and blown apart at once, with flames still lingering on those that remained. The drones that had still been inside the moon had also blown themselves up to amplify the attack further, perhaps making the B-grade think it had a brief moment of respite to recover.
+
+It was wrong.
+
+On the space barges above, the third and final compartment opened; this one also spatially expanded. Out of these compartments flew a new army of drones, this one far less numerous than the last. Each drone was far larger, had more weapons, and was overall roughly ten to twenty times as powerful as the ones used in the first assault.
+
+These drones quickly made their way down to the moon and joined the remaining smaller drones for the next part of the assault. A portion of them also split off to target the Lunewood creatures, which had the expected response to the large attack.
+
+The Ghostvine had lost a lot of vital energy and was trying to regenerate its vines as quickly as possible, and to do this, it had decided to summon the Lunewood creatures to consume the vital energies within them. Arnold had long known these creatures were effectively nothing more than living batteries for the Ghostvine, which was why he had cut off their supply of sunlight to put them into a dormant state.
+
+This had allowed the creatures not to consume any energy and thus not to waste their battery charges, despite the sun’s rays not being available. However, it also made them slow to react, as they were forcefully awoken. Too slow for the army of drones, anyway.
+
+Drones descended and began to tear apart the Lunewood creatures one after another, stopping them all from trying to assist the Ghostvine. Simultaneously, the majority of the remaining drones entered the moon.
+
+With the increased firepower of this second wave, the remaining vines were quickly torn apart one after another, as all over the moon, the drones rapidly descended towards the core.
+
+However, a B-grade like the Ghostvine Sovereign wasn’t that easily thwarted and soon mustered a powerful response. Vines rapidly regrew as the ghostly aura of the B-grade filled the tunnels, followed by magic that began destroying the drones at an extreme pace.
+
+Despite these larger drones being stronger, they still couldn’t stand up to a B-grade, and the only reason they could do any damage in the first place was due to the extreme size of the Ghostvine, making it unable to infuse all of its many vines with sufficient energy at once.
+
+It had suffered damage from the missiles and planted explosives, yes, but the Ghostvine still had the advantage as Arnold’s drones made little to no progress, their numbers only dwindling by the second.
+
+Of course, that had all been part of the plan. These drones had never been the primary attack force that Arnold wanted to take down the Ghostvine.
+
+“ETA?” Arnold asked the vehicle carrying what would cause the demise of the Ghostvine.
+
+“Two-and-a-half jiffies, maybe a little less if these metal bugs of yours keep doing a good job,” Sandy responded. “Also, I think you miscalculated those explosives; they totally failed to blow up the moon properly. Sure, the inside went boom, but it’s clearly still here. I should know; I’m inside it right now.”
+
+“Concentrating more drones in parallel tunnels to the one you’re travelling through to draw attention away,” Arnold said, not even commenting on Sandy’s words outside of the ETA, which he had also quickly disregarded and simply done the math himself. In fact, he had only asked the worm in the first place to keep them engaged in the task at hand.
+
+“That’s nice of you,” Sandy responded. “You know, while it’s a little sad you forgot to blow up the moon, I guess this is also okay. This way, I can confront the Ghostvine face-to-face! Wait, does it even have a face? Do I have one? What are the qualifications for something to call itself a face in the first place? Ah, you don’t have to answer; I’ll ask Tom; he definitely knows.”
+
+Once more, Arnold completely ignored the Cosmic Genesis Worm as he proceeded as usual until it was time for him to prepare for the final assault. So far, he’d been monitoring everything and making micro-adjustments to the strategy here and there to ensure the plan went smoothly, but now he put everything into motion based on his pre-programming as he stood up and went over to a nearby chair.
+
+Sitting down in it, he felt energy enter his body as he took out a helmet that looked like one half of a perfectly cut, hollow sphere. Arnold put it on as he closed his eyes, his entire body seemingly half-disappearing and becoming translucent as the void claimed him.
+
+Opening his eyes once more, he found himself within the stomach of the Cosmic Genesis Worm. Assessing his current state, Arnold looked at his metallic hands as he opened and closed them to ensure he had full control over the golem.
+
+To his sides, fourteen more golems stood. If Jake had been there, he would have pointed out how similar they all looked to the Altmar Census Golem he had taken down way back in D-grade.
+
+Arnold had naturally based his design around those, meaning each of them was a metallic humanoid equipped with a variety of weapons. Rather than have the bodies of these golems be able to warp into weapons, these were instead equipped with ones crafted by Arnold beforehand in preparation for this assault.
+
+All the other golems were made of a silverish metal, while the one Arnold inhabited was jet-black, primarily caused by the void-infused metals he’d used during its crafting process.
+
+Giving a mental command, all fourteen golems around him activated and started moving. All of them were semi-autonomous, meaning they could perform most tasks independently, but Arnold still chose to actively control all fifteen at once during this crucial step of the operation.
+
+“Golems and gentleman currently controlling a golem, this is your captain speaking. We are arriving at our destination in ten minus seven seconds. That’s to say, I’m spitting you all out in three... two...”
+
+Arnold was already ready as the worm reached zero, and the space magic enveloped all fifteen golems at once. A second later, they appeared within a vast core room in the center of the moon.
+
+There, Arnold finally got full visual confirmation of the Ghostvine’s true body. The majority of the entire core chamber was occupied by a massive clump of twisted vines that enveloped the moon’s core, the entire thing spanning several kilometers in diameter.
+
+From it, an endless web of vines extended and merged into the body of the moon in all directions. These were the vines Arnold had been fighting with his drones all this time, and even now, they surrounded him on all sides.
+
+“Time to start cutting and stuff!” Sandy yelled as the worm was already dealing with over a hundred vines attacking at once, flinging the Chosen of the Boundless Hydra all over the place while doing little to no damage.
+
+A good distraction.
+
+As one, all the golems moved. Ten of them were wielding large machetes designed to better cut through the vines, while four of the remaining ones had specialized flamethrowers using a concentrated compound of the napalm used earlier.
+
+Meanwhile, the final golem, which Arnold used as his primary vessel, wielded two weapons, with one of them currently stored away. The first one was a machete like the first ten, while the second was a large spear with a pitch-black head at the end. That one would only be used once.
+
+Under his direct control, all the golems attacked the Ghostvine at once. The B-grade was evidently distracted, having to also deal with the army of drones trying to invade the core chamber, making its response slow and allowing Arnold to land several blows before the Ghostvine mustered a proper response.
+
+Parts of the massive B-grade’s body began to unwind as it attacked with vines far thicker and more powerful than those prior. However, before it could even fully swing down, six golems had appeared and cut it apart with void-infused weapons.
+
+All the golems were burning with energy from the start, their cores overcharged to ensure they could keep up. Fire from the flamethrowers soon blanketed most of the massive B-grade’s body, forcing it to use magic to put it out as all the golems cut away.
+
+One weapon Arnold had kept from the Census Golem design was the eye-laser, allowing all the golems to repeatedly shoot it out, the beams burning through and severing several of the vines extending into the moon.
+
+All the golems attacked with clinical precision as Arnold played things safe, not rushing anything. The B-grade naturally tried what it could and unleashed massive amounts of miasma and death energy to fill up the entire chamber with the intent of killing everything that had dared to invade its domain.
+
+“Nasty stuff! Blergh!” Sandy was the only one who complained as the worm wrapped themself in several barriers of space magic.
+
+Meanwhile, the death affinity proved itself to have minimal effect on golems that didn’t contain any life whatsoever. With prolonged exposure, Arnold detected that a rust-like substance would begin to appear alongside other signs of erosion, but it was too slow to have an impact on the outcome of the operation.
+
+Time dragged on as Arnold’s relentless attack continued, the Ghostvine slowly getting cut apart and burned inside out. Its vast energy had also suffered severely from the prior steps of the attack. When some of the bulkier drones even made it all the way to the core room, where they promptly self-destructed, causing further damage to the B-grade, it was clear the operation was rapidly moving toward success.
+
+As expected, the Ghostvine did have some final trump cards up its sleeves as it began to fully untangle itself, blooming like a ghostly flower. More mana than ever flooded the entire chamber as the core of the moon was revealed, showing an actual flower glowing upon it. It gave off an eerie white glow that caused all nine of the surviving golems to rust in real time.
+
+Arnold had been waiting for this as he supercharged the main golem he controlled. He funneled energy from all the other surviving golems into it as it shot toward the moon’s core, the hidden spear already in its hand.
+
+The white light grew more powerful the closer the golem got, its body beginning to rust and fall apart in mid-air, but its momentum was too high. It reached the core as Arnold plunged the spear down the head of the flower; the spearhead sank into it just as the golem lost function.
+
+Arnold blinked, switching point of view to one of the other surviving golems right in time to see the ghostly light fade away and the many vines still swinging about fall motionlessly to the ground, bereft of energy.
+
+“Sandy, retrieve the surviving golems alongside your reward and return to Earth,” Arnold said emotionlessly to the worm that had hidden away right outside the core while covering themselves in even more defensive barriers.
+
+“Did we win?” the worm asked, peeking into the core chamber.
+
+“Operation: Moonfall was a success, yes,” he answered before disconnecting from the golems as he stood up and went over to one of the other stations in his lab to begin writing down the post-operation evaluation.

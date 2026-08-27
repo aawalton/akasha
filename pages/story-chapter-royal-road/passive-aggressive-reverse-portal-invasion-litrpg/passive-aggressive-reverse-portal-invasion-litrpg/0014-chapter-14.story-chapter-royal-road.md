@@ -1,0 +1,241 @@
+---
+id: edcc6d64-2af4-5096-b658-db911dc7b398
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14"
+slug: 0014-chapter-14
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 14
+ownLength: 3435
+unit: words
+publishedAt: 2026-06-03
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3486577/chapter-14"
+royalRoadId: "3486577"
+---
+
+My abdominal muscles tightened. My left foot was ahead of the right. Mid-motion, I twisted my torso in order to provide the torsion needed to take my punch from a simple strike to an unstoppable haymaker. I expelled my air in a huff.
+
+My muscles froze, and the arm stopped, mid-punch.
+
+I made a sound deep in my throat. One of deep-seeded frustration, of rage, wanting to get out.
+
+Elio perked up, and Ciara blinked, focusing on me rather than the stream of instructions from her boss.
+
+I could’ve backed down. It would have left me there, comically straining for him, muscles clenched like a lunatic hit by paralysis. Instead, I jolted forward into motion again, and slid in right next to Elio, on the opposite side of Ciara. I flung my left arm around the neck of the smaller Italian man.
+
+She spoke up. “That is enough-“
+
+Elio erupted in complaint as well.
+
+I ignored both of them. Meanwhile, my arm slid closer, locking his neck under my arm and I enfolded my right hand around his throat. My words emerged as a barely constrained growl. “Listen here, friend. The only reason I’m not crushing your windpipe right this moment is that the system’s actively keeping me from doing so. Apparently, that would constitute an attack, even if I would call it justice. But if you ever pull another trick like you just did, I will find a way around it. I will-“
+
+“Step away!” Ciara’s voice was shaking, but cold.
+
+The words had less effect on me than the arrow pointed straight at my chest. It did not waver in the least.
+
+I looked from the arrow and up to the flinty eyes meeting mine through her messy hair. I growled. “Your boss attacked me.”
+
+“I know. He’s still my boss, and I’m losing more than money if he dies.”
+
+With a snarl, I stepped back and pushed Elio, hard enough that he stumbled and fell on his ass. “I don’t care who you are, and how powerful you believe you’ll become. I am done with your crap. You don’t attack your team mates.” A wave of guilt hit me. Wow! I’d tripped a blind man. I was just all sorts of classy today. I pushed it all the way down to my other regrets.
+
+Ciara kept her bow trained on me. Meanwhile, Elio slowly climbed to his feet. “I did not attack you.” His words were rife with scorn. “I made a judgment call. From what Ciara was explaining, you were losing the fight. I decided that the odds of your survival were better if I cast Missile Storm as opposed to letting you and Ciara handle the fight on your own. As it turns out, I was right. You may now apologize.”
+
+I scoffed. “Fat chance of that. I would be fucking dead if Haddock hadn’t saved my ass. Now, I need you to swear that you will never pull a stunt like that again!”
+
+“I cannot in good conscience do that.” His voice had regained its regular control. “I will always think of the odds of success first, and the fragile emotions of my team members second.”
+
+“Fragile emotions. Yeah. That’s it. I’m out. Fuck you and fuck your gargantuan ego trip. I hope you die a grisly death.” I turned to Nix and Haddock. “I like you guys. I’m taking my part of the loot, then I’m off to find somebody who’ll be part of an actual team. Are you in?”
+
+Nix nodded emphatically. “Yeah. We’re not sticking around to be the next expendables. Ciara?”
+
+The sombre brunette shook her head with a grimace. Her voice was emotionless as she responded. “The terms of my employment were very clear.”
+
+Elio, by now, looked like he was about to blow up. “If you leave, we are keeping all the loot.”
+
+“Fat chance, wannabe Jafar. We’re dividing it. Equal shares. And that’s only because we’re nice.” I said. “By rights, we should take it all. But I wish you all the best of luck conquering the universe. As for you, Ciara? When he gets himself killed, should you survive, you’re more than welcome to join us. You’ve proved yourself in battle, even if your taste in bosses sucks.”
+
+‘Loot’ in this case, came down to seven beaten, broken and pierced monster bodies. There should have been eight, but one of them was simply missing. We searched for a while, finding nothing at all. Eventually, we decided that Nix’s Flash Flood had likely blasted the corpse straight down into the small lake, where it had sunk to the bottom. Since nobody volunteered to wade around in the murky waters with those threatening tendrils on all sides, we agreed to stick to the seven.
+
+You’d have thought that a world with magic and instances of gaming logic overtrumping science would have some really nice looting mechanics. Touch a dead, ugly monster, and it would burst into sparkling smoke, revealing seven wrapped-up wagyu steaks and a magic sword. Unfortunately, Ademia was not a kind place.
+
+“I still don’t get why we are supposed to push this crap back home.” I groused, applying my weight to keep the wooden cart rolling.
+
+From behind the cart, Nix’s voice emerged. She was pushing the cart, overflowing with monster corpses, alongside Haddock, while I pulled. Her voice was surprisingly bubbly. “Oh, come on, Liam. I know you wanted to deck that arrogant asshole. But we got a good deal out of this. They forfeited the two lower-leveled bodies for us taking them all back home for processing. Also, let’s be honest. Are you up for more combat today?”
+
+I grunted, conceding the point. “No. My ankle hurts like hell. That stupid thing got me good. I even have a debuff running.”
+
+“Oh. How does that work? What’s it say?” she asked.
+
+Damaged Muscles (minor)
+
+Your leg muscles have suffered minor damage and will require a brief period of rest to recover. Exacerbating the damage can cause this debuff to worsen.
+
+-3 to Agility
+
+22 hours, 34 minutes remaining
+
+“Yeah, that settles it. Continuing would just be stupid. Nah. We’re returning, then we’ll see what those monster bodies can actually afford us, and get some better items for tomorrow.”
+
+I stalled for a second, before putting my weight into it again. “You’re actually up for continuing with me? Even after this mess?” I looked back over my shoulder and fought down a laughter. I could only barely see the top of Nix’s blue hair bobbing along above the pile of corpses.
+
+“Of course. This wasn’t your fault. Mister di Fiore,” She spoke the words in a condescending drawl. “was a time bomb just waiting to go off. He couldn’t care less for keeping any of us alive. Haddock and I, meanwhile, think that the three of us could go the distance. Erm. Probably with some changes.”
+
+I laughed and checked out my health. An hour and a half after the battle, and it had only ticked up by around five points. At this rate, it’d be nearly three full days before I was fully healed. We’d eaten some of our rations on the way, but the dried meat and water was just that. Dull, tasteless, but filling. I’d still crammed it down like it was the best thing I’d ever had. The fight had made me ravenous. “Yeah.” I said drily. “I’m up for a few changes, so I don’t look like Swiss cheese after the next fight.”
+
+Thankfully, the corpses weren’t the only thing we had to show from the fight. Beyond the experience, we’d all received a few skills from the fight.
+
+You have earned a new general skill:
+
+Stamina Regeneration
+
+Passive skill
+
+You have learned how to utilize stamina-dependant skills or talents. The more practice you get, the longer you will be able to stay in the fight. Every level in Stamina Regeneration will marginally improve the rate at which your stamina regenerates.
+
+That one would likely be useful in the long run. It wasn’t going to be a gamechanger in a fight, but anything that’d allow me to stay in the game for longer and recuperate faster was more than welcome. The next three skills, meanwhile, were even better.
+
+You have earned a new defensive skill:
+
+Shield
+
+Passive skill
+
+You have used your shield to save your life. Practice and continued usage will improve your odds of repeating the feat. Every level in Shield will marginally improve the defensive capabilities of your shield and decrease the stamina drain of its use.
+
+You have earned a new defensive skill:
+
+Armor
+
+Passive skill
+
+Your armor has saved you from a life-threatening injury. The better your armor, the better your odds of surviving to fight another day. Every level in Armor will marginally improve the defensive capabilities of your armor and decrease the stamina drain of its use.
+
+You have earned a new defensive skill:
+
+Parry
+
+Passive skill
+
+They say the best defense is a good offence. Just remember that your weapons can be used for other things than slaying enemies. Parry helps you divert incoming attacks, missiles and others away from your precious flesh. Every level in Parry will marginally improve the efficiency of your parrying capabilities and decrease the associated stamina drain.
+
+Yeah. I was going to take any chance I’d get to raise those higher. They would also allow me to become tougher, shrug off more damage and fight for longer. On top of that, due to them being passives, they would all be fifty percent more effective due to my quirk. Right now, the effect was negligible. Ten skill levels from now? Twenty? I might outpace everybody else!
+
+The final skill I’d gotten made me snort, in equal parts disdain and dark humour. I hoped I’d never get to see the blind asshole again – but even if that were the case, he’d left me with an eternal reminder of his lovely personality.
+
+You have earned a new defensive skill:
+
+Arcane Resistance
+
+Passive skill
+
+Among the lethal forces present in the universe, arcane magic is considered to be one of the purest. It is sheer magic, nearly unaltered from its unshaped form. Beautiful, pure and lethal. You have survived what could have been a lethal encounter with it. Every level in Arcane Resistance will marginally decrease the damage received from arcane magic.
+
+If nothing else, Elio’s actions had left me with the option to grow stronger against other asshole Mages like him.
+
+The others, of course, had been blessed with their own skill increases, based on their actions. Unsurprisingly, for anybody who hadn’t picked a super restrictive quirk, you’d also gain offensive skills that improved your weapon of choice, or, in Nix’s case, her control of Water Magic. Both she and Haddock earned skills improving their mana use as well – what seemed to be the mana equivalent of Endurance. Nix grumbled about there not being any walking skills to make the march less gruelling, but that sounded more like a thing of principle for her.
+
+Ever Steady was visible in the distance ahead of us. There was still a good way to go. But, for now, we were safe. We were starting to see more and more people going both ways – both back to camp and out into the wilderness. We’d seen other creatures as well, and a few times Haddock said he saw suspicious movement just out of sight. Yet, we hadn’t been attacked.
+
+A few waved, or called out for any news. Most were stuck in their own tiny worlds, though, ignoring anybody outside of their own isolated universes.
+
+It was funny. In the most subtle of ways, our surroundings actually reminded us of Earth. Insects were everywhere, growing silent as you drew closer. The occasional bird flew overhead, either too fast to be identified, or without an actual level. Then, just when things felt a bit familiar, we’d get hit with one of those soul-rattling not-screams!
+
+As for the Killing Fields themselves, they looked exactly as when we’d left. Mostly flat, mostly unbroken and dull, with the occasional impressive standouts in the far distance, like that tall forest. The only new developments were a kaleidoscope of colours hanging on the horizon in an easterly direction, and a large dust cloud far northwest. Both, for all I knew, could be spells, natural occurrences or apocalyptic monsters rising to slay us all. I shook my head to myself. “Any thoughts on changes?” I asked. “To our approach and such, I mean, before we start picking our new talents.”
+
+Nix chuckled. “Love? I know you’ve been stewing on this.”
+
+Haddock’s gaze met mine with a soft smile. He spoke up, ponderous, but resolute. “This fight revealed a number of things about our separate builds. It shows, without a doubt, that my build is horribly weak without a lot of setup and favourable conditions. If we are ambushed, I would be hard pressed to create anything truly useful in time. I need to work on that. For Nix, we have learned that her power is incredible, but too mana-extensive. She needs either cheaper alternatives, more mana, or setups that improve the efficiency of her talent. You.” His eyes met mine again. “Need to grow tougher. You also need actual training. The way you handled that shield was not optimal.”
+
+I laughed and raised my shield, poking a finger through the hole that went straight through. “You can say that again. Also, I agree with you, all the way.” I considered the situation. “So. Who actually leveled up here?”
+
+“Me!” Nix squealed, talking rapid-fire with the excitement of a six-year-old. “I’m nearly at Level 4. Haddock only got to Level 2 during the fight, but he hit Level 3 just a few minutes back. It would appear that building creations during a fight grants extra experience – but he still only gets it from the building, not the killing.”
+
+Haddock smiled absently. A large stack of rocks, piled up precariously on top of one another, like one of those fancy cairns, appeared a handful of meters from us. He’d been experimenting with different constructions while we walked.
+
+I glanced at my overview:
+
+Current overview:
+
+Liam Berg
+
+Level: 3. Progress to next level: 37%
+
+“So did I!” I beamed and considered the situation. “I’m thirty-seven percent toward Level 4. Looks like we do share experience when we’re grouped up, but it also awards bonus experience for kills and damage dealt. Since you killed two with your flood, and likely hurt the rest, that granted you more than me. Nice!”
+
+She beamed. “Who goes first? Never mind. I can’t wait. Here goes!” She ducked her head and went quiet, pushing the cart in silence.
+
+I chuckled, meeting Haddock’s smiling eyes. I wasn’t a fan of people in general, but it was hard to dislike the ebullient splash of energy. Also, the relationship between her and Haddock felt… solid. Like they knew exactly where they stood with each other and provided different things that the other needed. Hard not to appreciate that.
+
+A deep groan built from behind the handcart. “Oh, that effing sucks!” Nix said. “Man. There’s a Tier 3 fire talent that looks promising – expand my possibilities and all that. But listen to this.”
+
+Tier 5
+
+Lifeforce Absorption
+
+Passive Talent.
+
+There is power in death. Especially when you are the death dealer. While this talent is active, your attacks will saturate enemies with your mana. Any enemies that die, while engulfed in the area of this talent will let you absorb their lifeforce and convert it to mana. The efficiency of this talent is affected by the lifeforce of the targets and your Mental Control.
+
+Area: 20 meter radius
+
+Cost: 1 stamina/second
+
+5 points to unlock.
+
+0/5 points
+
+I squinted. “The way I’m hearing that is that, basically, that could solve your mana problems forever?”
+
+She tittered. “You and me both, girlie. Sorry. Podcast-brain on autopilot again. Yes. Of course, I don’t have a ton of stamina, which also might become a bottleneck. But this could give me three shots for every one I’ve got now.”
+
+“So, you’re saving the points until you have all five?”
+
+“I think so. There are other options. Defensive ones. A nice passive that’ll let me double down on elemental talents. But this one feels like the way to go, so I can cause some real damage, more than just once a fight. Thoughts?”
+
+“I like it. We just have to spot a few easy targets at first. Then, we’ll be able to keep you firing.” I said.
+
+“Oh. And I put my extra attribute points into Mental Control, this time around. Both to keep me in the game, until I get that talent, and so I can improve at controlling the direction of my Flash Flood. It grew a bit out of control for me there, for a moment.”
+
+“I’m just glad you got it pointed in the right direction.” I laughed. “I would not want to get in the way of that tsunami!”
+
+“Please. I’m not like that Elio guy. I honestly just want to grow strong enough to build and defend a tiny magical castle. Not go out and… kill six billion demons or something.”
+
+“You also do want to earn super powers.” Haddock smiled affably. “And we’ll get there, love. Now, as for me? I already know what I will be doing. Give me a…” He trailed off, nodding a few seconds later. “Done.”
+
+Tier 4
+
+Environmental Control.
+
+Passive Talent.
+
+A builder knows how to adjust his creations to reality. Yet, sometimes, you need to adjust the world itself rather than your creations. This talent allows you to affect the existing world, remove rocks, dig into dirt, whatever your control and imagination allow. The efficiency and accuracy of this talent is affected by your Mental Power and Mental Control.
+
+20% efficiency per talent point.
+
+3/5 points
+
+I could sense my eyebrows slowly creeping up, with a frown slowly building. “Wait a minute. Does that…” I trailed off, mentally running over the description again to see exactly what it would do.
+
+“Show, don’t tell?” Haddock grinned and pointed. A moment later, a trench burst into existence right next to us.
+
+I stared. A second before, there had been nothing but the ever-present wizened yellow grass and mud. Now, it looked like an excavator had taken a decent first swing at creating a backyard-sized pool. The depth slowly grew along the length of the trench, with the far end being around three meters below the surface. “But… you weren’t supposed to be able to create anything permanent?”
+
+Nix tittered. “He’s been raving about this combo ever since he saw it. I’m just glad it worked. Now, his creations usually peter out after around… twenty minutes or so. I’ll bet that, once we hit that time, this is going to gradually revert itself as well.”
+
+I softly whistled. “But it’s still permanent, for as long as it’s there. And it’ll allow you to not just construct new stuff, but alter what’s already there. Can you do it when there’s enemies charging at us?”
+
+Haddock grimaced. “I think so. It will take practice, and be tough. And it’ll take more than just two seconds. Also, there is a drawback. Since solidity and durability depends on the speed and mana imbued into my creations, if I rush a creation, I could end with something that’ll only last, say, half a minute. But it’s something worth investigating.”
+
+I nodded in agreement. “Even so: this is a huge difference. In our last fight, you created a funnel Nix could use to amplify and contain her Flash Flood. Now, you could lure them in, and have them drown down there.”
+
+“You could even erect walls around it, keep them from crawling to safety.” A small hand emerged and slapped him on the shoulder. “Love, you are going to be dangerous!”
+
+He beamed down at her. “Let’s hope so. My points went into Mental Power. I will need the mana.”
+
+“And that leaves… you!” Nix concluded happily.
+
+“We’ll see what I’ve got! You mind guiding my way while we’re walking? I’d feel a right moron walking into a hole while I was trying to become stronger!”
+
+She laughed. ”Go right ahead. I wouldn’t mind a break from pushing either.”
+
+I felt her arm on my hand. Then I dove into the mental realm of my possibilities, grinning at the knowledge that I was about to leave regular boring humanity even further in the lurch.

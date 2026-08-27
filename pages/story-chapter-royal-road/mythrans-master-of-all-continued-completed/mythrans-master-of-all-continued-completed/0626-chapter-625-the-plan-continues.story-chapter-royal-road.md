@@ -1,0 +1,225 @@
+---
+id: 7acc23d9-52a3-5055-ae6d-fa80b63bb6b4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 625 - The Plan Continues"
+slug: 0626-chapter-625-the-plan-continues
+partOf: mythrans-master-of-all-continued-completed
+position: 626
+ownLength: 2770
+unit: words
+publishedAt: 2018-07-01
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/229545/chapter-625-the-plan-continues"
+royalRoadId: "229545"
+---
+
+After spending 2 years in the Sanctuary, which was 56 minutes game-time or 14 minutes real time, Ren had gotten over what had happened. It took a long time to talk things out with both Artemis and Teepo, and with Lisa as a mediator, she used her level head and her skills to finally mend their friendships and settled the matter.
+
+Ren cast a Portal spell to connect to the back room of the Library in Aurora. Ren, Lara, and Artemis stepped through it and Ren dismissed the portal and summoned Teepo. Lara stretched her arms above her head, and Ren admired the sight. A popup appeared, and he dismissed it without looking at it. Lara saw him looking at her, so she stepped close and put her arms around his neck.
+
+“Even after all this time, you still look at me like that.” Lara purred and kissed him.
+
+“Like you're good enough to eat, you mean?” Ren asked, and she nodded.
+
+“I hate it when people looked at me like that, and yet when you do it, I take it as a compliment.”
+
+Ren smiled and took her hand to place it over his heart. “It's the same thing that happens when I say you're cute. You know I love you and that I'm being completely sincere.”
+
+Lara smiled back. “You just said that you leer at me sincerely.”
+
+“I did, and I do.” Ren said and put his mouth by her ear to whisper. “Even after all this time, I would like nothing more than to strip you off and make love to you right now.”
+
+Lara rested her head on his shoulder and shivered a little. “But, we just...”
+
+“It doesn't matter.” Ren kissed her earlobe. “My desire for you knows no bounds.”
+
+“I...” Lara took several breaths. “...you aren't bored of me?”
+
+“Lisa.” Ren said, and he felt that familiar spike of pleasure from her when he used her real name. “I could never be bored being with you.” He said. “Close your eyes and see for yourself.”
+
+“I... no, I... I shouldn't use my abilities for...”
+
+“Your tender touch. The feel of your mouth on my skin. Being inside of you.” Ren kissed her earlobe after each sentence. “I will never tire of those feelings.”
+
+Lara had gotten used to sharing his emotions fairly quickly during their time in the Sanctuary; and yet, when Ren told her these things and she felt his underlying feelings, she still didn't quite believe it.
+
+Ren felt her doubt and leaned back. She lifted her head from his shoulder and looked at him. “I. Love. You.”
+
+Lara gasped as he pushed his love for her into their shared Aura, and tears came to her eyes. “R-Ren...”
+
+“If I could make you feel the same thing out there, I would.” Ren said and kissed her again. “I'll see you at supper, all right?”
+
+“O-okay.” Lara said and she let him out of her tight grip. She walked over to her closet and looked back at him, smiled sweetly at him, then opened the door and stepped inside. Ren felt her Aura disappear with her presence, which confirmed that her closet was it's own pocket realm. Another popup appeared and he dismissed it without reading it.
+
+“I think it's time for Phase Two.” Ren said to Artemis and they walked over to the door that led to the hallway and the Library's main room. He stopped at the reception desk and greeted the Head Librarian formally, and she accepted his greeting with aplomb. He could feel that she was busy and had stopped when he had appeared from the side door, and he thanked her for stopping her work just to give him her attention. Her face flushed red at that, because she wasn't sure how he knew she had done that.
+
+“Do you need any more monies for the books I arranged to be given away?” Ren asked.
+
+“Yes, there is an outstanding balance.” She said. “The demand from both the townspeople and Adventurers alike has risen up quite a lot during the last week or so.”
+
+Ren gave her a big beaming smile, and her face went dark red. Interest had picked up and everyone wanted to read his books because of his little stunt to get everyone's attention, and after his message to all the players about the upcoming battle on the weekend.
+
+“Please allow me to pay the balance and to provide more funding for any future giveaways.” Ren said. “May I ask how much is owed?”
+
+The Head Librarian wrote out the number on a small piece of parchment and folded it, then handed it to him. Ren opened it and read the total.
+
+“I'm glad so many books have been given away.”
+
+The Head Librarian's eyes widened at his acceptance of such a high price. “W-well, if... if you would come this way...”
+
+“Of course.” Ren said and motioned for Artemis to wait for him, and he walked around the desk to follow the Head Librarian. She walked over to the hallway at the side of the room, the one he had just left, and they entered it. Another popup appeared and Ren dismissed it without reading it. She passed the break room and opened the next door, and inside was the book producing facility and a small safe.
+
+“I'm not comfortable keeping so much money on hand.” The older lady said and started to kneel.
+
+“Please don't do that.” Ren said, and she stopped mid-crouch. “A woman of your stature shouldn't kneel on the bare floor.”
+
+She blinked her eyes at him for a moment, then stood up straight. “How else am I going to reach it?”
+
+“If I may propose two solutions?” Ren asked and she nodded. “Either a nice comfy pillow to make it easy on your delicate knees, or allow me to build a pedestal to put the safe on and you never have to kneel again.”
+
+“A pillow would be nice.” The Head Librarian said and looked at the floor. “Keeping it clean might be a bit of a problem.” She said and looked down to see dirt on the hem of her dress. “Just as difficult as my dress.”
+
+“A pedestal it is, then.” Ren said and picked up the small but heavy safe and moved it aside as if it weighed nothing, then used paving stones and cement to make a pedestal high enough to set the safe on. He covered it in cement to make it all smooth, used his Hands of the Gods ability called Burning Hands to produce Fire and used his Fire Manipulation ability and Absorb Fire abilities to dry it completely. Another popup appeared and Ren dismissed it without reading it.
+
+Ren felt her emotions and assumed she was going to object to having such an ugly thing in her Library, so he took out some wood and used his Portable Dye Station to make the wood a dark brown, then he built a facade around the pedestal and added filigree and designs on it. He could feel her admiration for his skills as he worked, and then he felt her surprise when he took out a gold coin and activated his Hands of the Gods ability again.
+
+Ren closed his fist and poured Fire into his hand and concentrated on making it as hot as possible. He felt the metal start to melt after several moments, and he used his other hand to dip into his palm and traced some of the filigree with the molten gold. Once that was done, Ren spread the remaining molten gold over the top of the pedestal. He enchanted it with the glyph with his Maker's Mark and the Protection and Durability runes, then took out a bolt of red fabric.
+
+“What are you doing?” The Head Librarian asked. “It looks splendid as it is.”
+
+“I'm just sprucing it up a little.” Ren said and sewed up a small table runner with fancy and intricate designs on it, and draped it over the pedestal. “There.” He said and picked up the heavy safe and put it on the now ornate and very expensive-looking pedestal. Another popup appeared and Ren dismissed it without reading it.
+
+The Head Librarian stepped to the pedestal and touched the cloth, then ran her hands over the finely carved wood and gold accents. She couldn't believe something so nice had been built so quickly.
+
+“It's exquisite.” She said softly.
+
+“Try it out.” Ren said, and she quickly opened the safe to reveal the contents.
+
+“It's so much easier now.” She said. “Thank you.”
+
+“You're welcome.” Ren said and took out the platinum coins he owed and handed them to her, then he handed her the same amount again. The Head Librarian gasped at the number of platinum coins and quickly shoved them into the safe and closed it. Ren held in his laugh at her reaction and emotions, and let her calm herself down.
+
+“Thank you.” She said.
+
+“You're welcome.” Ren said and knelt on one knee.
+
+“What are you doing?” She asked as he picked up the hem of her dress.
+
+“Trying to clean your dress.” Ren said and examined it. He already had a similar patterned dress so he didn't gain a new recipe, so he took out his Master Tailor Sewing Needle and held it against the cloth. “Repair.”
+
+The Head Librarian's mouth dropped open as her dress was restored to pristine condition and the dirt disappeared. “You... how... what...”
+
+“I think that is all the surprises I have for you today.” Ren said and grinned at her. “May I escort you back to the reception desk?”
+
+She nodded wordlessly as he offered his elbow to her, and she put her hand on it so he could lead her back out of the room. Despite being a foot or so shorter than her, Ren expertly led her down the hall and out to the desk, then brought her around it and helped her sit down. Another popup appeared and he dismissed it without reading it.
+
+“Good day, Madam.” Ren said and bowed slightly to her, and she inclined her head slightly. The Head Librarian watched as he took the hand of the tall metal woman he had come out of the back room with, and he led that woman across the Library and out the front door.
+
+*
+
+“Hey, are you okay?” Someone asked, and the Head Librarian turned slightly to see an Adventurer with concern on her face.
+
+“Yes. Yes, I'm fine.” The Head Librarian said. “I don't know why I'm so flustered.”
+
+“Despite being so short, he's pretty sexy.” The young woman said. “His name's Ren, right?”
+
+“I believe so.”
+
+“I thought I recognized him.” The young woman said. “I can't wait for the double show this weekend!”
+
+“Me, either!” Another woman said and came over to the reception desk. “A show on TV one night, then a show at the arena the next day!”
+
+“TV?” The Head Librarian asked.
+
+“It's Adventurer business.” The second woman said the magic phrase.
+
+The Head Librarian's eyes glazed over for a second and then she nodded.
+
+“Get the next book and come on.” The second woman said. “We might be able to follow him and see where he lives.”
+
+“He doesn't seem to be in a hurry.” The young woman said and smiled at the Head Librarian. “The Adventures of Ren Volume Two, please.”
+
+“Of course.” The Head Librarian said and reached under the desk and picked up a copy of the book. “There you go.”
+
+“Is it still free?” The young woman asked.
+
+“Yes. His Highness has seen fit to ensure they will always be free.”
+
+“His highness? Who's that?” The second woman asked.
+
+“King Ren of course.” The Head Librarian said.
+
+“HE'S A KING?!?” Both women yelled in what was supposed to be a quiet place, and several people hissed at them to be quiet.
+
+“Sorry!” The young woman said and waved an apology around, then turned back to the Head Librarian. “I'm sorry for the outburst.”
+
+“You need to learn a little bit of decorum, or every little thing that surprises you will make you yell.” The Head Librarian said. “You didn't hear me yell while he was here, did you?”
+
+“No.” The young woman said. “Thank you.”
+
+“Good day, Adventurers.” The Head Librarian said, and the young woman and the second woman walked away towards the front doors.
+
+The second woman leaned close and poked the young woman with an elbow. “What do you think he was doing to her that she had to stop herself from yelling?”
+
+The two women started to laugh and left the Library, and didn't see the Head Librarian's bright red face. You couldn't tell if it was from anger or from embarrassment, though.
+
+*
+
+“Here's good enough.” Ren said and stopped in the middle of an empty lot that wasn't far away from the Library. “Teepo, are you ready?”
+
+“Yes, Ren.” Teepo said from his shoulder. “I'm always ready.”
+
+“Artemis?” Ren asked and equipped his platinum armor.
+
+“I'm ready as well.” Artemis said. “Even though you explained this, I don't know how this is going to work.”
+
+“You'll understand once I start.” Ren said and took out his pet tarantula. “My Queen, may I ask for your assistance?”
+
+A portal appeared right in front of him and the Queen of the Dark Elves' attendant, the Dark Elf Healer Tiatha Miarora, stepped out of it.
+
+“She's busy tending to some personal affairs at the moment.” Tiatha said. “I have come in her place.”
+
+“It might work with you.” Ren said. “Do you have a strong connection to Lylyth?”
+
+“Just as strong as yours.” Tiatha said, and Ren smiled.
+
+“That will have to do.” Ren said. “I'm going to do something that I'm sure will work...”
+
+“You don't need to explain the specifics, just tell me what to do.”
+
+“When I nod, I want you to merge your Aura with mine. I need you to funnel all the negative emotions I'm going to feed you to Lylyth.” Ren said. “Her absorption rate from me isn't going to be enough, and you are going to compensate for that.”
+
+“I... I'll try.” Tiatha said.
+
+Ren held a hand out to her. “Don't think about it or try to parse the emotions. Lock yourself into the role and just do it.”
+
+Tiatha took a deep breath and let it out, then took his hand. “I will do what you say.”
+
+“Good.” Ren smiled and took out a handful of steel squares. “Take these and surround the Main House in my county and activate them.” He said and checked the All-Seeing Mirror, then cast the Portal spell. Tiatha walked through the portal and came back through it barely 30 seconds later.
+
+“It is done.” Tiatha said and another popup appeared, so Ren dismissed it without reading it.
+
+“I just hope it works.” Ren said and held a hand out to Artemis and to Tiatha. “Hold on.”
+
+Both women took the offered hands and held on tightly. Ren took several deep breaths and relaxed, so he could prepare himself for what he was about to do.
+
+“Are you sure about this, Ren?” Teepo asked. “Once you do this...”
+
+“I know, buddy.” Ren said. “I'm prepared for the consequences.”
+
+“Then go for it.” Teepo said. “You're only going to get one shot at this.”
+
+“Hopefully that's all I'm going to need.” Ren said and lifted Artemis' hand and kissed it, then lifted Tiatha's hand and kissed it. He felt her body react immediately and her emotions spiked as she thought about him.
+
+“Three.” Teepo said, and started to chitter. “Two.” His chitter became louder. “One.”
+
+Ren nodded to Tiatha and she merged her Aura with his, and her hand gripped his so tightly that he thought she was going to hurt herself.
+
+“NOW!” Teepo yelled, and Ren merged his Aura with the artificial one he had covered the entire country with.
+
+“GREAT VASALOR!” Tiatha yelled as her whole body trembled and she fell to her knees. Thanks to Ren creating the Portal Gate Network and previously making them all recognize him, everyone in all the towns and cities in the entire country were thinking about him at that moment.
+
+Exactly as he had planned.
+
+With everyone inside his country-size Aura thinking about him, he could tap into their emotions much easier than if he had forced himself. He activated his Emotion Siphon ability and started to absorb everyone's emotions.
+
+Barely a second later he started to level up.

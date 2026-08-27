@@ -1,0 +1,161 @@
+---
+id: 4aab2c99-5093-591d-88cc-dd09e33c338b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 655: Skill Requirements"
+slug: 0077-chapter-655-skill-requirements
+partOf: system-change-system-universe
+position: 77
+ownLength: 2114
+unit: words
+publishedAt: 2026-06-04
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3494102/chapter-655-skill-requirements"
+royalRoadId: "3494102"
+---
+
+Chapter 655: Skill Requirements
+
+After looking from the outpost to the corpse of The Amber Tyrant, then back, Derek sighed. "I suppose it would be in our best interest to take as much of the materials from this thing as we can," he said, drawing the attention of the others.
+
+"That is true," Klaus replied first. "We cannot say that we know anything about this system or the value of such materials, but I would wager that ingredients or materials from a World Boss would be somewhat valuable, at least."
+
+"That's what I was thinking," Derek replied.
+
+"Just leave me some of the meat that I can cook up when I'm hungry," Jace said. "Since I'm staying here, I won't need any of the valuable stuff."
+
+"Meat is the valuable stuff!" Silvi's childlike voice chirped out from her communication crystal. "You eat small worm meat. I'll take big worm meat."
+
+"Just give me a little," Jace said with a smile. "Or maybe cook some up for me before you leave?"
+
+Silvi narrowed her eyes, then gave Jace a subtle nod. "Maybe," she said.
+
+"Good enough for me," Jace replied with a chuckle.
+
+"I must say," Marrick started, "I do enjoy the amount of stat points I receive upon leveling, now that I have a Mythical class. However, it is hard to wrap my head around no longer being one of the bigger fish in the small pond."
+
+"Yeah," Derek replied. "I hear you there... but having a Mythical class at our current levels is a huge step towards becoming a big fish in this vast ocean—now."
+
+"If we survive," Marrick replied.
+
+"Yes," Derek nodded. "If we are able to survive the ascent. But there's no reason for us to worry about that. We have other things we have to do before any of that," he said as he looked at the outpost and nodded.
+
+"Right," Marrick replied with a nod.
+
+"I'm going to let some people out to help Dismantle the corpse of the World Boss," Derek said. Then, he turned and opened his Time Prison and stuck his head inside. "Alex! Edgar! Nivara, even!" he shouted. Moments later, the three were standing outside the Time Prison with everyone else.
+
+"It was another World Boss?" Edgar asked with a pout. "I knew I should have resisted."
+
+"Nothing to be done about it now," Derek said with a shrug. "Your affinity just isn't quite cut out for a place like this."
+
+"You're telling me..." Edgar replied. "Everything has a damned natural resistance to lightning around here."
+
+"Anyway," Derek said. "Let's all go help Silvi carve up this thing." With a nod from everyone, they all started walking toward the corpse of the World Boss.
+
+"Alex!" Derek shouted at the young man, causing him to halt his steps. Derek quickly fell in beside him, then asked, "Do you know anything about World Bosses and the value of their materials?"
+
+"It depends," Alex said with a shrug. "They are certainly more valuable than normal beasts, but how much more valuable varies. I mean, there are some World Bosses that are completely valueless, just like there are regular monsters that have no value."
+
+"What would you say about that giant snake up there?" Derek asked.
+
+"The Amber Tyrant?" Alex replied.
+
+"Did I tell you its name?" Derek asked with a frown.
+
+"No," Alex laughed. "But a planet only has one World Boss, if it even has one. It will likely be decades or longer before the Origin System spawns the next Amber Tyrant—if it chooses to do so. But it is a World Boss that has been logged in the records of this planet."
+
+"Oh, then you know a lot about it and its worth?" Derek asked, hopeful.
+
+"Not a lot, but a little," Alex replied. "Well... I do know some of the value that it has, at least."
+
+"Tell me," Derek urged.
+
+"Well... first of all, the meat doesn't hold much value outside of a few chefs who may be able to draw out hidden potential," Alex answered. "But those chefs are much busier with ingredients of a much higher level than a beast in the low 300s. So, I do not believe many would offer a premium for said ingredient—outside of one of those chefs wanting to train a successor."
+
+"I see," Derek replied. "That's fine, though. The meat was something that I planned on keeping for Silvi, anyway," he explained. "What else?"
+
+"The gallbladder," Alex replied. "That is where much of your profit from the World Boss will come from. It can be used in a plethora of alchemic formulas—and as far as I know, it can be used as an ingredient for certain skill upgrades."
+
+"Skill upgrades?" Derek asked.
+
+"Oh, yeah," Alex nodded and continued. "The Amber Tyrant is a support-type creature with an earth-based affinity, as far as I can recall. You know how skills can branch off into similar, but different skills, right? It's basic stuff, but you aren't from here, after all."
+
+"Yeah," Derek replied with a nod. "Like... I had three options when upgrading my Identify skill."
+
+"Exactly... and three? Wow... that's actually pretty good," Alex replied. "Anyway, some branches of skills may require specific consumables, Titles, or other things. There really isn't a limit to what could be required. But the gallbladder of an earth-based World Boss that happens to be a serpent... I'm sure there are plenty of uses for such a thing for earth-based affinity users."
+
+"I see," Derek replied and glanced over at Marrick before looking back at Alex. "And they just... eat the gallbladder?"
+
+"Maybe," Alex replied with a shrug. "Maybe it can be prepared a different way, maybe cooking it, eating it raw... no clue. But I'd bet that the material would be snatched right up as soon as it hit the market."
+
+"Gotcha..." Derek muttered, then looked back over to Marrick. "Marrick!" he shouted.
+
+Marrick frowned, then floated over to Derek and Alex. "What is it?"
+
+"You get the gallbladder of the World Boss," Derek said.
+
+"Gallbladder? Why?" Marrick asked.
+
+"Tell him," Derek said to Alex, and then Alex explained to Marrick what he'd just been telling Derek.
+
+"Oh... well... you don't have to tell me twice," Marrick replied. "I have plenty of skills that say 'Upgrade Possible,' but they won't let me upgrade. It is very interesting that consuming such a thing could have such an effect."
+
+"You may wish to look over your skills again—before you do anything else," Alex replied. "People are very secretive about which requirements it took to upgrade certain skills, but defeating a World Boss of the same affinity could possibly have caused one of your skills to meet such a requirement."
+
+"That... hold on," Marrick replied, then shut his eyes. A few seconds later, a smile appeared on his face. "Would you look at that?"
+
+"What is it?" Derek asked. He was excited to learn some of this new information, and it seemed like something really did happen with one of Marrick's skills.
+
+"One moment," Marrick said, then closed his eyes again. "Hmm..." he muttered while in thought. "Should I do it?" he paused for a second, then sighed. "No risk, no reward," he finally said, then took a deep breath.
+
+Derek and Alex paused in their slow walking to stare at Marrick. Soon enough, the old elf opened his eyes, then opened his hand, palm up. A small ball of sand rose from the ground, then floated as a sphere above his hand. The sand then broke up into a thousand or more tiny pieces, then flew over to Derek. They landed on his hand.
+
+"What is it?" Derek asked as he looked at the sand on his hand.
+
+"Try to shake it off," Marrick replied.
+
+Derek shrugged, then shook his hand. The sand didn't move. He shook his hand again—harder and harder—but the sand wouldn't budge. "Is this..."
+
+"Sticky Sand!" Marrick finished. "I am now able to give my sand properties that make it sticky. It's still sand, and there was no change in my affinity, but I can make it stick. I'm not sure what use I'll have for it, but it's something I can adjust as I wish, so there's at least no downside."
+
+"Interesting," both Derek and Alex said at the same time.
+
+"It is certainly because you had a hand in killing the World Boss of the same affinity and higher level than you," Alex said. "So the upgrade allowed one of your control skills to also take on some of the properties that The Amber Tyrant had. I would say that it was at least not a bad decision to accept such a branch of a skill."
+
+"We'll see," Marrick replied.
+
+"Did your skill progression reset?" Derek asked.
+
+"Yeah," Marrick replied. "Back to one percent, but I still have the same control as I did before the upgrade."
+
+"Oh, yes," Alex said. "When you upgrade a skill, there is usually no downgrade in anything unless it is a fundamental change in the skill. And even then, you should get a warning or information in the skill selection if something is going to be altered. If that was a control skill before, then your control will only get even better as the new skill progresses. Did the rank change? If you do not mind my asking."
+
+"Yes," Marrick replied. "It went from C-rank to B-rank."
+
+"That is very good," Alex said. "B-ranked skills are nothing to scoff at. Many people only see a few A-ranked skills in their life, so B-rank is already close to the top."
+
+"Is that so?" Derek muttered, and Alex looked at him.
+
+"Yes," Alex answered, even though Derek really wasn't asking a question. "Why?"
+
+"No reason," Derek replied, then counted the number of his A-ranked skills. He had three, so it seemed that he was already at the point where 'most people' would get to in their lifetime. "What about S-ranked?" Derek asked.
+
+"S-ranked?" Alex widened his eyes. "I am surprised that you would know of the S-rank, considering you're not from the..." he looked at Derek, then his wide eyes grew even wider. "No... you're not saying..."
+
+Derek shrugged. "Doesn't matter... you have an oath."
+
+"I do... but you are just... one surprise after another. The longer I know you, the more I understand why Transcendent Davenresh Gravenholt has taken a liking to you. Not to make a pun off a common Title, but you, Derek, certainly are an enigma," Alex said.
+
+Derek shrugged. "I don't actually think that has a lot to do with it," he said. "But who knows? The second I think I understand him, he does something that makes me rethink everything. Still, he has been a big help so far, so I am at least thankful to him."
+
+"It surely isn't your winning personality," Marrick snorted. "Now... if you will excuse me, I have to go try to plead with a Horned Rabbit so I can get the organ of a snake..."
+
+Derek laughed and shook his head. He was sure Silvi would give it to Marrick if he asked. She seemed really selfish on the outside... and on the inside... but she would surely give it away without much fuss. She did care strongly for her friends, and she definitely considered Marrick one of her friends... probably.
+
+"Let's go," Derek told Alex, and they went to the corpse together. While they were all dismantling the corpse, Alex told Derek about all the other materials and what he could expect from them. The snake's scales and hide wouldn't fetch a lot because of the fact that the snake wasn't exactly a durable creature.
+
+Derek instantly decided that Brandi would have a lot of hide and scales to practice with when she got set back up. The meat was Silvi's, and the gallbladder was Marrick's. The bones and fangs would sell for a decent chunk according to Alex. Derek would keep a little for Brandi but sell the rest. The other organs were only as sought after as the meat was—so not very.
+
+After what seemed like almost a full day, they'd finally dismantled and divvied up the corpse. Derek even had a full Void Storage that was finally progressing. As the sun started to go down, they approached the outpost. He looked at Amelia and Marrick.
+
+"Amelia, you go scout the outpost. Marrick, check and see if you can sense any other movement underground. Once we know it's clear, we'll find the teleporter and bring the others out," he looked at Amelia. "Be careful."
+
+"I will," Amelia said, then she jumped into the air and moved to the outpost.

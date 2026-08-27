@@ -1,0 +1,513 @@
+---
+id: 475bfa25-949c-5f87-9809-b6a973643c95
+page-type-slug: story-chapter-royal-road
+title: "Chapter 217: E.T. comes home, or else"
+slug: 0142-chapter-217-e-t-comes-home-or-else
+partOf: the-calamitous-bob-stubbed
+position: 142
+ownLength: 6903
+unit: words
+ownProgress: 6903
+publishedAt: 2025-07-25
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2465660/chapter-217-et-comes-home-or-else"
+royalRoadId: "2465660"
+markedReadAt: "2026-06-29T21:19:28.576Z"
+---
+
+The expedition raced away at full speed and so did Viv’s mind. Right now, she had a gun problem, as in, the gun was in the enemy's hands, but also the gun existed. Futuristic guns were a wild card she neither needed nor wanted. It was a chaotic variable at an important juncture, and she wasn’t going to let the spark of luck fuck with the odds if she could help it. She needed that variable removed and preferably before the Sheem got their nasty hands on more of those triggers. What the hell were they anyway? She remembered the blocky appearance and tried to think of what she knew.
+
+From afar, it had looked like a coilgun — from the coils — which was a type of mass driver. They used the power of magnets to send a tiny projectile at a very high speed. There was something weird like the fact it should have pierced through her shield rather than explode on impact, but otherwise it matched the description and fire power. Absolutely no one on Nyil was remotely close to manufacturing such a thing. It would require high-powered magnets, precision tools, and a power source that was centuries beyond what anyone else had access to. Even Viv with the perfect memory of her human years could not give enough hints to her scientists to allow them to reproduce the tools and methods required to mass produce even 19th century repeaters with any degree of reliability. Ergo, this was the work of an outlander. The reverence with which the wielder had used the tool was closer to how one would handle an artifact, so it aligned. The last thing she believed was that it must have been a recent discovery.
+
+Viv had been shown time and time again that the leadership of this world mostly had brains. No commander in their right mind would give such a game-changing device to some bum scout on a shitty assignment when it was the perfect mage killer. Mages feared two things most of all: assassins, and other mages. This gun didn’t use mana. Battle archmages relied on mana perception to assess threat, therefore none would assume this would be more dangerous than a really big arrow even if they saw the threat coming. It was the sort of edge that could turn the tide of battle multiple times if it were given to a sniper. No, whoever had allowed the Sheem captain to use that thing was a complete fuckwit because it was extremely, extremely valuable if kept secret. That meant the culprit wasn’t too high on the hierarchy, and that meant it was a recent discovery.
+
+Well it could also be that the Sheem knew who she was and that this was a targeted assassination attempt but… then there wouldn’t have been a need to take over the tower. A lone sniper would have been much better. And she didn’t think they could have learned yet. She hadn’t broken her cover, not even once.
+
+Hmmm.
+
+Viv returned her attention to the screecher mage who was frantically casting a brown and gray spell. She noticed it was erasing the tracks behind them. Captain Sin and the surviving scout were at the front of the formation. The terrain here was so chaotic and messy that they’d lost sight of their pursuers, though her fine hearing could sometimes pick up a distant neigh so they were definitely being followed.
+
+Abruptly, the fleeing group turned right, down a gentle slope and behind a boulder. The scout and mage kept on the road at full speed \to confuse their pursuers. The ambassador and his two servants were scared, but Captain Sin kept a tight leash on the guards who immediately took defensive positions. The road couldn’t be seen from here. It was a decent hiding spot.
+
+“I can mask our sounds,” Viv offered.
+
+“Would a mage detect it?” Sin replied.
+
+“Not easily, no,” Viv replied with confidence.
+
+Her constructs were clean. There were barely any leaks, and transparent mana was even harder to detect than its colored versions.
+
+“Then do it. We will wait here for a bit.”
+
+“We need to separate,” the ambassador demanded as Viv used her gauntlet to muffle the sounds of tired horses. “Some of the guards must return to Ravinport to warn them while the rest of you protect me through the desert.”
+
+There was a pause while Captain Sin considered his options. The ambassador’s plan didn’t suit Viv’s needs.
+
+“That artifact they used was extremely dangerous,” she hazarded.
+
+Captain Sin focused his attention on her.
+
+“I couldn’t inspect it with my skill,” he said.
+
+“It wasn’t mana-powered either. I believe this is an outlander device, freshly arrived from the lack of notoriety.”
+
+“Are you not listening to me?” the ambassador exploded. “Why are you taking counsel from that strange woman? Your duty is to protect me!”
+
+“We have no water,” Viv reminded him.
+
+His expression twisted to doubt, then realization. It appeared Sin hadn’t considered it as well, at least not yet.
+
+“We were supposed to pick up two carriages of barrels and animal feed there. We cannot reach the Salt Mountains with what we currently have, much less pass them,” Viv said with some confidence based on her understanding of local logistics.
+
+“Then we must return to the city!”
+
+“That’s where they’ll be waiting for us,” Viv said, though she agreed it was probably the safest solution if they gave their enemies a wide berth. She just wanted to solve the gun situation sooner rather than later.
+
+“Then what would you propose?” Captain Sin asked.
+
+“Why are you asking her?” the ambassador raged, but the guards ignored him.
+
+“If… when the mage returns, we will be able to scout and learn more. There were a lot of Sheem here. How could they be there and no one knows about it?”
+
+“The deep desert is seldom scouted. They must have shed a lot of blood to arrive undetected,” the lead guard commented.
+
+Viv nodded. Thankfully, the scout and the mage returned shortly afterward, having successfully eluded their pursuers. Viv waited while the two men pulled down their veils to gulp water with obvious relief. The mage was sweating heavily under his turban. Viv assumed maintaining the spell to mess with tracks must have been very taxing.
+
+After hearing her proposal, and catching his breath, the mage shook his head.
+
+“Flight requires tremendous power and control,” he said, somewhat haughtily. “If the enemies have many mages too, they will sense the disturbance in the air, then flock to us like birds.”
+
+Viv gave it a thought.
+
+“What if you floated instead?”
+
+He frowned.
+
+“Pardon me?”
+
+“I can enchant some of your gear to make you much lighter.”
+
+She gave him a cursory glance.
+
+“Your belt ought to be enough.”
+
+“I cannot activate an unfamiliar piece of colorless mana all while moving around and scouting,” the mage retorted, now a bit annoyed at her. “But if you are so confident, you can carry the enchantment while I move us around! Do you have anything that can turn us invisible while you’re at it?” he joked.
+
+Wait, actually she kind of did.
+
+“I can set up my shield to disperse light so instead of two obvious dots, we will be more of a blur. Hmm. Let me make some adjustments.”
+
+“You… you can?”
+
+Viv replied with a short bow while the ambassador vociferated insults and objections at Sin who didn’t seem inclined to comply with his demands.
+
+“We can wait until the sun sets,” the mage added. “It will make the blur you mentioned much less obvious to an attentive observer.”
+
+“Moving during the day is a bad idea if we don’t have enough water,” the scout added.
+
+He seemed down, until Viv remembered that he had just lost a colleague, possibly a friend. It made her take a step back to look at her own actions. She wasn’t exactly callous but… she clearly saw these people as temporary companions. She hadn’t even bothered to learn their names.
+
+“I don’t suppose you have an enchantment to block out the sun?” the ambassador mocked.
+
+They were currently near a recess between two rocks. Viv shook her head.
+
+“Nothing that would work as well as tent fabric stretched over us.”
+
+“There is a safer spot ahead,” the scout offered.
+
+And so the convoy moved, again, in silence. They set up in a small grotto that was barely two meters deep but with an overhang that provided much needed shade. Viv refreshed the cooling enchantment on their water barrel to the delight of men and beasts alike. They still had some water, but it wouldn’t last. The screecher mage brought her a cup while she was working. She accepted it gratefully.
+
+Building the floating enchantment was trivially easy considering it was a key aspect of her fighting style. It gave her some time to talk. The screecher mage’s name was Jim, which was close enough to the Earth name that it made her smile. The sullen scout was Tolek. She angered the ambassador when he overheard her asking for his name — apparently he was known in the city. His name was Bes. By nightfall, everyone had settled down and people were calmer. That was when Screecher Jim took her out for a scouting session.
+
+There was something fundamentally different about flying with gray mana that always made her a little jealous. Colorless flight was a matter of balance and control, but gray flight felt closer to dancing. The gray mages didn’t push themselves up with air so much as merged with the wind, the world carrying them forth on unseen currents. With their weight reduced to a minimum, that dancing would reach a peak of elegance. Gray mages were where they belonged while Viv had been some sort of awkward reactor-propelled penguin before she’d spent countless hours practicing. It didn’t exactly make her mad, just a little wistful. Black mana was really good at what it did, but she was really missing a lot of what made the magic in Nyil so, well, magical.
+
+Viv activated her shield. The dispersion didn’t affect the light coming in so they could see just fine. At first, the landscape was a tormented anthill of crags, valleys, gorges, canyons, and a plethora of other geographical terms that all meant that traveling in a straight line wasn’t going to happen. Further, the distant storms of desert elementals provided a colorful background on a canvas of fluffy white and shocking blue sky. The land was a palette of warm, earthy hues ranging from blinding white to a deep ochre, a memorable sight.
+
+Except for a fully black spot maybe a day away. It looked like the site of a major explosion.
+
+“Huh.”
+
+Viv used the long view spell, and when the surprised Screecher Jim gave her a backward look, she let him watch as well. There was an encampment on top of the blasted areas, intact so it had sprouted afterward. She wasn’t sure but she thought she may be seeing the remnant of some sort of stone arch, but she couldn’t be sure. Either way, they had found the right spot.
+
+“Over there,” Viv said. “We should investigate.”
+
+The mage didn’t reply but after a look around, he returned to the camp. The guards seemed taken by surprise when Viv took her shield down so she could only assume it had been working well. They gathered for an impromptu meeting. Obviously, the ambassador was still in favor of leaving.
+
+“Your mission is to carry me to safety! If you find yourself unable to fulfill this task by yourselves, then you at least ought to seek assistance from our kin back in Ravinport! Let the Council of Elders call the banners, they will clean out this rabble in a matter of hours!”
+
+“There are many soldiers on the path back. Few men will patrol the faraway lands at this time because the first harvest of the year has been done, and most eyes will turn east,” Captain Sin replied. “We will have to fight through, and that weapon they have…”
+
+“The enchanter's shield blocked one of them,” the ambassador said with obvious distaste at having to give Viv any sort of credit.
+
+“Yes,” the Screecher Jim allowed, “but the bridge around the cart was scorched. Anyone around will suffer grievous wounds. We would be fighting at a terrible disadvantage against a foe that knows to expect us. No, we must find another way. Move around?”
+
+“It could be done, but it would take a week. At least,” Scout Tolek gruffly replied.
+
+“I have a proposal that would allow us to complete our mission,” Viv said.
+
+She hadn’t exactly been invited to join, but seeing as the guard had stepped aside to let her through, she imagined they were not exactly opposing her either.
+
+The ambassador rolled his eyes so hard he might be able to see the back of his skull. That was his mistake, however. Viv used the silence to propose her master plan.
+
+“We attack the encampment.”
+
+“Ridiculous!” The ambassador spat, and Captain Sin didn’t look convinced either.
+
+“Listen, the troops that were after us were, what, thirty people?” Viv said, purposely underestimating their numbers.
+
+“Fifty, and there will be more spread out in front of us,” Scout Tolek said “One alarm raised and they will converge on us.”
+
+“Well, the encampment had, what, six large tents?” Viv lied.
+
+“Seven,” the mage replied.
+
+“Standard Sheen field barracks have twelve men per tent,” Captain Sin said, eyes glinting in the shadows. “I see. I understand.”
+
+“What?” the ambassador erupted.
+
+“Most of the enemy soldiers are in front of us. They have left their base defenseless, or nearly so.”
+
+“They will never expect it,” Viv added as the guards whispered among themselves. “Not just that, but this is where their supplies are. We can just help ourselves.”
+
+“True, true. And deny them their water. They will not be able to follow us until they replenish it in water holes. Or if it rains,” Sin added.
+
+“It will delay them no matter what,” Scout Tolek added.
+
+“Very bold. Very daring,” Captain Sin added. “And they might also have prisoners, who knows? Right, we shall proceed as such. How long until we can reach there?”
+
+“If Ser Jim can lead me up so I can have a look, we may even reach it before dawn,” Scout Tolek replied.
+
+The next floating party left Viv distinctly uncomfortable because poor Scout Tolek smelled quite rank. At least there were no erring hands leading to broken bones, but she allowed herself a sigh of relief as soon as they touched ground. The base was, indeed, not very far, and very motivated guards carried the cart and horses through canyons and gorges at a brisk pace. For any Earth force, even the most elite, this would have been impossible, but high strength allowed the guards to lift goods and water barrels as if they were tacos. Nevertheless, Viv knew they’d be tired when they arrived. She was herself running off a couple of hours of sleep in the past two days and would probably be fine for another one or two but this shouldn’t be allowed to last. Tired people made mistakes, herself included. Being part elemental wasn’t changing that.
+
+At some point, Captain Sin ended up walking by her side. At first, Viv thought it was to avoid the ambassador’s constant whining but he gave her an earnest glance that was not exactly friendly.
+
+“The way you think is not that of an arcanist.”
+
+“Have you heard of Jar Jaratalassi?” Viv returned, her excuse prepared.
+
+“A great general… Oh. Are you his daughter?”
+
+“We are not directly related, but I’ve spent a lot of time in his presence for various reasons. Some of it has rubbed off. He always hated attacking people who expected it.”
+
+“I was under the impression he was more of a defensive leader,” Sin objected.
+
+“One cannot be a great general without knowing how to do both,” Viv amended. “And the genius of General Jaratalassi is not to defend, but to place the enemy in a position where they have no choice but to attack with a disadvantage. That way, he has won before the battle could even begin.”
+
+Captain Sin gave her a measuring look.
+
+“This is not just about learning from the best. You are too confident for a woman of the arts. The assassination attempt didn’t scare you. You are hiding something. Were it not for your earlier demonstration in the throne room, I would have believed you to be a liar.”
+
+Viv shrugged. He wasn’t wrong here, but to be fair, the alternative was getting stabbed so…
+
+“If it is any comfort, our goals are aligned.”
+
+“I will choose to believe you,” Captain Sin said.
+
+Viv didn’t mind the suspicion but she gave herself a ‘fail’ grade on the infiltration attempt. Exactly as she’d expected, to be honest.
+
+After hours of trekking through an increasingly cold desert, the scout left to look for a path since they were getting close to the encampment. He returned an hour or so later. By then, it wasn’t too far from dawn.
+
+“They have guards posted, but there are fewer of them on the eastern side,” the scout reported. “We can probably approach from there.”
+
+Captain Sin took command then. He decided on a plan of approach and a formation. The scout had a short bow while Screecher Jim had some quiet spells as well so they were pretty all-rounded. Viv approached the captain while the men were putting down the supplies in order to travel light.
+
+“Please let me come with you. I have a shield and I can make us quiet,” Viv politely asked.
+
+Captain Sin gave her a measuring glance. She could tell he wasn’t amused at all by the way his thick mustaches shivered with annoyance. Nevertheless, he knew he could use the enchantments. Screecher Jim stood by her side to quietly grant his approval.
+
+“Please don’t leave me alone with the ambassador for hours,” Viv practically begged.
+
+He wouldn’t follow them, of course. He and his assistants were going to stay behind with the luggage. Captain Sin relented only after a longing look at her gauntlets which she’d left on obvious display. Like this, Viv was in.
+
+The assault squad went over some of the harshest and most irregular geographical features Viv had ever seen around, even after her brief foray in Regnos where a large aberrant had hollowed out a hill. There were pillars of layered rocks extending like limbs, weird globules of molten glass like the earth had spat out a bubble of lava, even white rock shards arranged in bouquet that looked like alien grass at first. Viv was the most distracted out of all the people here just because that place was so cool, and also because she didn’t feel the same tension they felt. That was why it took her a long time to realize that the irregular mana concentration was increasing beyond anything she’d ever experienced outside of the deadlands.
+
+“Wait,” she finally whispered. “Something’s wrong. Jim?”
+
+The mage gave her a backward glance, this one angry at the fact she broke the silence, but she knew there was something off going on.
+
+“The concentration is too high. Too high and too… single color.”
+
+The man frowned. He must not have had her level of [mana mastery], which wasn’t exactly a surprise. He gestured for Sin to stop and he, too, decided to wait. By then, they were at the edge of a narrow sandy vale between two sharp inclines and quite close to the encampment. A squad stone stood in the middle of the open area, conspicuous were it not for the geological freak show they’d just passed. One of the guards gestured.
+
+In front of the large slab was a single saber, Sheem made, planted vertically into the ground. Viv frowned. The mana spiked, and she readied a shield.
+
+Jim fell on his ass, backpedaling as fast as he could. The guards yelled and fell over themselves when the land around them shook. Viv’s danger sense spiked with the threat of an incoming danger.
+
+The stone rose, revealing a frowny face, so gnarled and ancient that no human could ever hope to reach it. Eyes of sapphire slowly, slowly opened.
+
+[Mature brown elemental: very dangerous]
+
+By then, the guards were in full panic, the scout was on his knees repeating ‘sorry’, Sin had drawn his sword, and the mage was praying for a good afterlife — never a good sign. The land woke up around them. Viv knew she could survive if she flooded the area with black mana but then there would be a fight…
+
+Her mind went into overdrive, drawing on her immense mental stats. Was there a peaceful strategy? Possibly. Elementals were not aggressive by nature though they were territorial. What did she know about brown elemental? She had met one, a long time ago. Back in the Deadshield Woods. Fuck. How did it communicate? Mana waves were a thing but there was something else. She remembered the sound, like a voice. Would that get its attention? Drawing a sound spell as fast as she could, she tried to remember the exact pitch.
+
+The earth elemental was almost fully up now. It looked like a mix between a boulder, an old lady, and a gorilla on steroids. The guards who had tried to flee were dragged back screaming towards the creature as the very land under their feet betrayed them. It was a death trap. Spikes formed on nearby walls.
+
+Fuck it.
+
+Viv activated the spell.
+
+“Ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooh.”
+
+All the humans stopped their struggles in complete confusion. Thankfully, the elemental stopped as well. It was enough to get its… well, her attention.
+
+The call lasted for half a minute. Viv remembered that parts of the earth elemental mind worked really slowly while other parts were deadly fast. Now that she had her attention, it was time to try communication.
+
+Dragon language was so much easier when there was another dragon around to make the bridge. It was still her best option here because all it took to understand it was a working mind. Focusing, she slowly pushed her mind towards the immense and placid soul that was the elemental.
+
+Friend.
+
+Friend!
+
+Wait no, that might not be the best pick.
+
+Frieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeend.
+
+“Oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooh?” the elemental replied in a comfortable two minutes thirty, without pushing herself.
+
+A faint echo returned to Viv. At first, it was extremely hard to pick up, forcing her to sit down and pay attention. It was like trying to listen to someone through water, at a very low volume. The meanings got clearer as the elemental focused, however. She was very lucky this one was on the more vivacious end of the spectrum.
+
+Nature?
+
+Viv slowed her answers but the elemental was getting faster and slowly coming closer to interrupting her. The eyes’ glints were more intense now. Before, she could have fled without difficulties. Now? she wasn’t so sure.
+
+Black half elemental.
+
+Trespassing.
+
+Apologies. Blindness. Intention. Eastward.
+
+Eastward. Pain. Rip.
+
+Space. Rip. Intruder?
+
+Excitement. Affirmation. Intention?
+
+Rip. Active?
+
+Rip. Unclosed.
+
+Close. Rip. Send. Back.
+
+There was a long silence afterward as the elemental seemed to consider her options.
+
+Rip. Knowledge?
+
+Viv hesitated there, but she decided not to lie. She wasn’t even sure she could even do it in draconic.
+
+Self. Outlander. Rip. Knowledge. Approximate. Approach. Required.
+
+The elemental stopped, but barely for a moment. It had taken her 10 minutes to bring her consciousness to its current level though.
+
+Passage. Granted. Space. Rip. Pain. Black elemental. Close.
+
+The vale split like an invisible toddler parting a sand castle with their hands. A path to the encampment lied beyond. The first lights of the aurora were turning the distant skies pink.
+
+Take.
+
+A knife, pure white, materialized from the sand. It looked like a rough and somewhat elongated athame, or maybe a claw, but it was certainly sharp as hell.
+
+[Elementally forged dagger. Extremely, extremely sharp]
+
+Not an artifact despite how weird and unique the circumstances were. Viv looked at the blade as she remembered her past self arguing with Solar who was desperately trying to convince her to follow his blade training. Past Viv had known what it meant: two years of nagging and daily practice until he judged her level ‘barely passable’ when magic itself was and would always be with her. Well. The joke was on her now. It was absolutely on her.
+
+On the plus side she still had her small blade training back from her special force days, so there was that. She grabbed it and turned to the rest of the squad.
+
+“The elemental agrees to let us through provided we look into something that is painful to it in the Sheem camp.”
+
+Never had she seen such a gathering of dumb-founded gawpers.
+
+“Hello?”
+
+“Do you also happen to have a relative who wrangles elementals?” Captain Sin wryly asked.
+
+“I was lost in the woods one day and came across one. It was more of a tree, really. It let me eat one of its fruits in exchange for cleaning a wound it had on its trunk. Really strange moment, that was.”
+
+“Strange indeed. I have to say, you are by far the most peculiar arcanist I have never heard of.”
+
+“I have had many an adventure,” Viv conceded.
+
+“But more importantly, I owe you my life. We all do.”
+
+He gave her a very respectful bow, one that went against every social convention Captain Kass had thoroughly explained to her during her trip. The members of the attack squad slowly did the same at varying speed depending on the intensity of their current trauma. It had been a near death experience, after all, as in, they were all fucking dead without her.
+
+“Thank you. Rise,” she said, before realizing she’d used… more of an empress voice. Captain Sin flashed her a more curious glance, but then his attention returned to the scout who was busy trying to scratch his eyes out. He had to be restrained.
+
+“I am guilty! I am a failure!”
+
+It took a good five minutes of coaxing for Scout Tolek to stop trying to kill himself for having led his proteges into a death trap. Viv and Jim had to assure him that no one could have seen it coming until it was too late, though Jim only backed Viv very reluctantly. The screecher mage seemed troubled by recent developments.
+
+Viv thought the scout might try the old ‘heroic sacrifice’ maneuver. Her intimidation or leadership would usually get her out of the situation but she couldn’t use them here, and shaking him like a coconut tree while screaming at him would probably not work. Actually, she had an idea.
+
+“Only you can get us over those mountains,” Viv told him with confidence. “You either get yourself together or we’re all dead.”
+
+His eyes widened with the realization of his duty. Viv thought that might do, which was nice.
+
+What was even nicer was walking towards the encampment. There were strolls, and then there was going over terrain when an elemental considered you their buddy. Every stone, every grain of sand conspired to make her look badass as the assault squad ran towards its destination. A trench suddenly opened in front of them. The scout hesitated.
+
+Viv felt something up ahead. A mana signature. Someone who wasn’t afraid to pulse their mana. Screecher Jim and Sin felt it as well, and the mage turned to her. She nodded, giving the exact direction with her hand, but she’d misunderstood him. He made a hush sound. He expected her to quiet their approach.
+
+She felt a little stupid here. Nevertheless, it was soon done and Sin needled them on. The crevice kept opening as if someone was splitting the land before them with a giant scalpel. They soon heard voices in Viziman. Viv recognized what she assumed to be a Sheem accent, a tendency to swallow the ‘r’s and slur the end of long words.
+
+“What about this one?” someone asked. “Is it part of it? Speak up!”
+
+Viv knew better than to raise her head. The scout did though, and after one last check with her to make sure the sound was cut off, he whispered excitedly.
+
+“A dozen soldiers and a mage around a strange creature… I have never seen anything like it.”
+
+Captain Sin took over, giving brisk orders in only a few seconds. His gaze turned to her, then he just seemed to give up. Viv positioned herself behind the soldiers since she had a shield.
+
+“Attack!”
+
+The soldiers surged over the trench, Viv close behind. She was taller than them, thankfully, or she would have missed a vital detail of what happened next. The blue-clad guards, led by Sin, assaulted the Sheem detachment but to her surprise, they reacted immediately. A shield wall formed with the sort of speed that told her they expected trouble and were probably high on the third step. Sin still zipped ahead and broke through with his mustache flying in the wind. As for Screecher Jim, he sent a gray blade flying at the mage, but unfortunately, it hit a deployed shield. Viv recognized an enchantment on the enemy mage’s chestplate. This guy was also grey-aligned, but to her dismay, he went for his pocket.
+
+That was the important detail. The asshole was packing, and the sight triggered some Earth-based instinct to go for cover. Repositioning, Viv stepped to the right as she aimed her push enchantment at the cold-eyed mage. As expected, he pulled a coil gun, or rather, a coil pistol from the shorter barrel. She struck as his gun cleared his own shield. The shot went high. Nothing exploded.
+
+“Cover us!” Jim screamed at her.
+
+She assumed he meant sound so she did. Jim sang, a low hum that made the air between himself and the mage shiver. By then, all the guards had wisely decided to give them a wide berth. The enemy’s shield grew distorted, then it cracked.
+
+The other mage tossed the gun aside. His mouth expanded in a scream, one Viv heard as if underwater. A low drone coming from Jim was covering part of it, she realized.
+
+Maybe she should modify her sound enchantment to not just create a sphere of isolation. Maybe she should program the ability to shut someone up inside as well. The enemy’s yell  made her chest contract. Ghostly fingers grabbed at her lungs, her gut. She could only imagine what it would do to unprotected organs. She pretended to be partly disabled by the effect so she could observe the two mages dueling it out a bit. Behind them, Sin was laying waste to the Sheem, who fought to the last. It was an uneven battle.
+
+Jim and the other mage sang at each other. It was strange, like two baritones trying to take the lead in a duet. There was both harmony and conflict. Between them, the air pulsed in strange and alien patterns, sometimes as regular as a mathematical function and sometimes shifting as if alive. She wasn’t sure who was winning — both mages were highly competent, and she had no intention of finding out. Pretending to recover, she aimed her second gauntlet at the foe’s midriff and fired it. He was tossed like a puppet with the telltale ‘oof’ of lungs quickly emptied without consent. Jim seemed taken off guard but only long enough for an air blade to finish his adversary off. He gave her a grateful nod. He was sweating abundantly.
+
+The battle was over. The moment captain Sin sheathed his saber, they engaged in methodical looting.
+
+Maybe it was cultural? Kass’ lessons hadn’t covered that part. She didn’t follow Sin who approached the strange captive, not immediately. Her first action was, of course, to pick up the gun.
+
+Due to temporary access to otherworldly tools, your unused skill: Special Forces training at intermediate 4 has been reactivated
+
+Nice.
+
+That done, Viv joined with Jim and Sin to meet the newcomer.
+
+It was a very short thing in a spacesuit. That was the best way she could describe it. The frame looked bulky, blocky, same as the gun. It was gray and clearly highly protective given the fact it was scruffed and damaged, yet still hermetically sealed. She could see a patch on the chest with a round white symbol that denoted a faction. A spherical helmet protected a hairless human-sized head with very dark eyes behind a partly opaque window. The creature had no nose but several slits were positioned on a vertical axis where the nose ought to be. A blocky backpack completed the mix, presumably keeping the creature alive. It was also half her height and three times as broad though that was probably in part due to the suit.
+
+Viv didn’t think this was a local species. The suits might be a precaution since microorganisms were a thing, but she thought it might also be a question or air mix because she couldn’t see any filters. It made her wonder why Nyil hadn’t changed it the way it had turned the unfortunate outlander into a beastling upon arrival. Maybe it was a question of arrival method. Viv and the other one had reformed here, but maybe those guys had come via, well, wormhole rather than soul teleportation.
+
+“What manner of fiend are you?” Sin asked, afraid for the first time since Viv and he had met.
+
+Screecher Kim pulsed with mana, which was completely useless because the creature didn’t have mana channels yet so he wouldn’t be able to feel it.
+
+Viv grabbed her elemental dagger with her right hand, kept the gun in her left, then she leaned forward. The others didn’t try to block her. They moved aside without question. Something had definitely shifted in the power dynamic. Viv thought it had only taken a couple of days. Maybe her aura was leaking.
+
+The interface had said the knife was really, really sharp. Nous was not one for hyperbole. She placed the blade on the chain between the creature’s two manacled wrists (they were custom jobs for being so large), and with a careful motion, she cut down. It worked though there was a small resistance.
+
+The creature didn’t blink. Its black eyes followed her.
+
+“It’s clearly a captive so let’s not start first contact with accusations, hmm?” she suggested. “First of all, this is an outlander.”
+
+“How can you tell?” Captain Sin asked.
+
+Viv stood to her full height, giving the good captain a look of polite disbelief. This so-far-ungendered entity was obviously a fucking astronaut wearing stuff that local tech couldn’t produce.
+
+“How can you not? Hello?”
+
+“Ahem,” Jim said, “Captain Sin, even if our most talented weavers could reproduce such a work, the fabric itself… the make of the bag…”
+
+“Indeed, you are correct.”
+
+Viv used the opportunity to check towards the camp. It was still out of view. Scout Tolek popped up from behind a rock to give her a nod. They wouldn’t be caught mid-conversation.
+
+“Outlanders are sometimes changed to survive the local conditions, though this one has not.”
+
+Maybe Nyil had somehow felt their survival suit would kill them if they were all suddenly turned into humans, if not from the air, then from the size change.
+
+“But they should have been granted a local language package. Hmmm. Weren’t there primal tribes moving around there at some point? I seem to remember they used the same pictogram alphabet as current-day Viziman priesthood.”
+
+“Correct. Primal Viziman,” Jim said with appreciation. “Unfortunately, I do not speak it.”
+
+“But we can write it, and so should this creature.”
+
+It hadn’t moved so far though its arms were apart.
+
+“Lady Jaratalassi, did you have a cousin who was an outlander?” Captain Sin said in a sly voice, his face an impassive mask.
+
+“Awareness of Outlander-generated technologies is important to an arcanist, although this one comes from a manaless world.”
+
+“How can you tell?” Captain Sin asked.
+
+“They have almost no mana. It means Nyil is currently opening their conduits. Anyway, my point was that we can probably communicate with them by writing. Hold on.”
+
+Viv searched the dead mage for a key. She didn’t find it, so it was an affair of two minutes to free the alien. During that time, he was observing them without a word. Viv thought she saw their cheeks move and finally realized something.
+
+They might be communicating by radio with others of their kind. The specter of a star battleship teleporting above the continent, ready to dispense revenge was cut short. They were probably part of a local team. She doubted those guys would have transdimensional radio signals.
+
+With the alien freed though wary, Viv used a colorless basic spell to flatten a large area in the sand, then she used her dagger to write an old Viziman pictogram in the sand.
+
+That was the sort of preparation she would never have expected to pay off. Thank fuck for stat-based eidetic memory.
+
+“Greetings,” she wrote in the sand, before turning the knife over to the creature.
+
+They didn’t react. She pointed insistently. Their cheeks moved and for a moment, she wondered if they were going to react at all, but then they gingerly picked the sharp blade. Their movements were slow and awkward to a level that made Viv impatient as fuck before she remembered they were functioning with no stats, recently freed, uncertain about their fate, and probably kept in that suit for quite a bit longer than they should have.
+
+“Greetings,” they returned. “Am I free?”
+
+Viv checked Jim and Sin who were technically higher ranked than her. They were watching her work with fascination, so she just kept going.
+
+“War here. You must go home.”
+
+The alien’s drawing grew more animated. They refused the blade, instead using a large finger to draw. They seemed curious every time she used a basic spell to flatten the sand again. With their finger, they were much faster.
+
+“Need chariot. Friends.”
+
+“Your friends are in a chariot?”
+
+“In our chariot, hidden. In camp. Prisoners.”
+
+Viv assumed it meant they’d come with some sort of transport. One more reason to send them on their way.
+
+“What about the gate?”
+
+The alien hesitated. It stood motionless. Viv was fairly certain it was communicating with its brethren.
+
+“Gate destroyed. Need.”
+
+It hesitated between several symbols before settling.
+
+“Need pull back so unseen gate closes.”
+
+Viv pondered those words while the poor creature massaged its wrist. It looked like writing those characters was taxing, though they were fairly simple and made of lines so maybe it should just grab a pen on occasion. She had a pretty good idea what was going on.
+
+“If you get your friends in the chariot, you will be able to pull back and close the rift in space that is still open within the physical gate in the middle of the camp?”
+
+The creature gave her a long, thoughtful look. Or at least this is what it looked like. Eventually, it wrote the sign for yes.
+
+“Lady Jaratalassi, you are perhaps getting ahead of yourself. This creature, this… outlander, has violated our borders.”
+
+“We are beyond them,” Viv reminded them.
+
+As soon as she said that, she knew it had been a mistake. Both Jim and Sin recognized she’d just overstepped her status. She had been for a long time but this time it was obvious.
+
+“Lady Jaratalassi…”
+
+“You are being audacious.”
+
+Viv raised a hand to forestall more complaints. She didn’t have time for this shit, and besides, she had a secret weapon.
+
+“We cannot allow the Sheem to have access to what these people can do.”
+
+Although they wouldn’t be able to replicate it.
+
+“So we must send them back before more of them show up. You also don’t want the first group to ever come here from another dimension to end up as slaves in case more of their friends show up with the sort of weapons they have.”
+
+She shook the coil pistol under their nose.
+
+“And last but not least, you will go with my plan because you owe me your lives, and you, Jim, twice because that shot would have killed you.”
+
+“What shot?” he asked.
+
+Viv lifted the pistol. There was one button that she clicked down before testing the trigger (aiming downrange). It was blocked. Apparently most intelligent species understood the need for a safety, which was always nice. Another button made something click inside. Satisfied, she aimed at a nearby rock. After making sure they were still silenced, she pulled the trigger, feeling her experience guide her hand as if she’d been to the range the day before.
+
+The recoil was strong but manageable. It surprised her though, especially after the near recoilless crossbows.
+
+The stone slab exploded in a shower of dust. Interestingly, the shot didn’t pierce through. It was a weird gun.
+
+“That shot.”
+
+Jim stared speechlessly at the ruin. Nearby, the alien was writing on the freshly disturbed sand surface.
+
+“Give back now?”
+
+“You must be out of your fucking mind.”

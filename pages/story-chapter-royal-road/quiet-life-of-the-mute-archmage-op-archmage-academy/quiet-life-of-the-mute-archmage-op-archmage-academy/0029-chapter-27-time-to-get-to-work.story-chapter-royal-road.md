@@ -1,0 +1,123 @@
+---
+id: ee5f7a4c-6714-56b5-824b-b7051497bb9f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27: Time To Get To Work"
+slug: 0029-chapter-27-time-to-get-to-work
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 29
+ownLength: 3044
+unit: words
+publishedAt: 2026-06-26
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3596106/chapter-27-time-to-get-to-work"
+royalRoadId: "3596106"
+---
+
+Minutes before the battle against the Grand Wyvern, high above in the endless indigo of the night sky, where the full moon hung bright and treacherous and the stars whispered their quiet, desperate pleas, the tension thickened in something frightening by each breath.
+
+Molly rode upon Nom Nom's back, a confused furrow creasing her brow as she turned over the Phragon's words in her mind. Her eyes, half-hidden beneath the generous hood of her black robe, stared at the space between Nom Nom's ear nubs without truly seeing it. 'Do you really mean what you just told me?' Molly said inwardly, her confusion deepening with each heartbeat.
+
+Nom Nom flew with haste, her broad wings cutting through the night air in powerful, rhythmic strokes. She replied, her mental tone carrying a heavy gravity. 'Yes. Everything I said is true. Someone is opening a passageway to the underworld, with plans to awaken something very dangerous, and we Phragons are the sacrifices to open the gate.'
+
+Molly's confused expression bled into worry the longer she dwelled on the revelation. Nothing else would be more suitable for gaining access to the underworld than a Phragon. They were spiritual beasts born from the very essence that represented the world, and their existence itself was a gateway to the realm beyond the physical.
+
+And that knowledge was precisely what made Molly's heart drum faster against her ribs. Her gaze dropped to the back of the creature she rode upon. 'How long has it been going on? And how much time do we have left?'
+
+Nom Nom thought deeply for a long moment, the silence stretching between them filled only by the whisper of wind over her wings. She shook her head. 'I don't know how long it's been going on, but based on my calculations, I'll say that everything had already been planned and set before we Phragons got here.'
+
+At those words, Molly's brows knitted together, a frown tugging at the corners of her lips as the phrase 'planned and set' echoed through her mind like a stone dropped into still water. Before she could spiral into deeper confusion, Nom Nom continued.
+
+'And for how much time is left, that... that would be very hard to gauge also, because I couldn't feel the formula responsible for creating the passageway to the underworld.'
+
+Molly's eyes hardened into sharp points of crimson light beneath her hood. 'That fully explains why you couldn't feel the formula,' she mentally said, her mind already working through the implications, sifting through possibilities. 'Could you see the person responsible for the act?' She asked.
+
+Nom Nom shook her head again. 'That's still another thing that surprises me. I couldn't find the person responsible for the act, neither could my family. On a normal basis we have great tracking skill that automatically detects any threats to the forest or us Phragons, but this specific one bypassed all our senses... it's like the person never even existed to begin with. It feels like everything that's happening is beyond even us Phragons.'
+
+Nom Nom's body trembled as a dark thought slithered through her mind. She twisted her long neck to glance back at Molly, her large, expressive black eyes shimmering with something Molly had never seen in them before. 'And that's what scares me the most.'
+
+Molly's face softened briefly, the hard edges of her expression giving way to a flicker of sadness. She reached forward, laying her palm flat against Nom Nom's back, stroking it calmly. Her lips curled upward into a faint, reassuring smile. 'It'll be alright.' She projected the thought with all the warmth she could muster.
+
+'Now that I'm here.'
+
+Before Molly could project anything else, a deafening roar shattered the night behind them. The sound rolled across the sky like thunder. Molly turned sharply, her hood slipping back just enough to reveal the full intensity of her widening eyes as she saw a Grand Wyvern rushing madly in their direction, its massive wings beating with frenzied desperation.
+
+'Go down!' Molly shouted mentally, and Nom Nom obeyed without hesitation. With a quick fold of her wings, the Phragon pivoted downward, descending with terrifying speed. The wind screamed past Molly's ears as the ground rushed up to meet them. Behind them, the Grand Wyvern did the exact same thing, folding its own enormous wings and plunging after them with single-minded fury.
+
+'What's wrong with them?' Molly asked, a frown settling deep into her features as she held onto Nom Nom tightly.
+
+'I don't know.' Nom Nom replied truthfully. She glanced back at the charging Grand Wyvern, whose eyes glowed with a bloodlusted light that seemed to burn from somewhere far deeper than natural instinct. 'It's very strange for it to try and attack me now. When I was going to call you for help, they were just shouting strangely as if trying to resist an opposing force. I didn't have the time to look at any of the wyverns then.' She stared longer at the wyvern, and her large, expressive eyes began to shift, the glossy black paling to the glacial blue-white of a deep crevasse. They glowed softly, an inner light pulsing rhythmically, while tiny, high-tier formulas etched themselves across the surface of those orbs like constellations wheeling methodically into place. 'But now I see it,' Nom Nom continued, her mental voice growing distant as she focused. 'Their whole existence seems to be wild.' Her tone shifted, colored with confusion as she probed beyond the Grand Wyvern's physical body, delving deeper into the very essence of its being. 'It's far different from its usual identity.'
+
+Molly's eyes widened at that word, and she could not help but bite her lip until she tasted the faint copper of blood. Everything she had been calculating in the back of her mind began falling into place like pieces of a puzzle she had not wanted to complete. 'Illusion formula, madness formula, mind control formula.' A shaky breath escaped her parted lips as the gravity of the situation pressed down on her shoulders with renewed weight. Her eyes landed on Nom Nom's back, her gaze becoming unreadable, distant. 'It's either the person we're dealing with is a mid-stage Archmage and can use all these formulas... Or the entity that's to be summoned is already partially summoned and has begun influencing a given area to fasten its descent.'
+
+Molly's gaze swept over the terrain they would soon land upon, and her breath caught in her throat. The forest far from Sigsug was burning wildly. Orange and crimson flames devoured trees with hungry, crackling roars, and wyverns of different kinds rampaged through the inferno, destroying everything in sight with mindless, systematic fury. Their shrieks and bellows rose in a terrible chorus that echoed across the ravaged landscape. 'Nom Nom,' Molly said, her mental voice steady despite the horror unfolding below. 'I don't think we have much time left.'
+
+Nom Nom's voice echoed in her mind, matching her seriousness. 'I see that.'
+
+Molly rose partially from Nom Nom's back while still maintaining her grip, her black robe fluttering wildly around her slender form as the Phragon continued her rapid descent. The fabric snapped and billowed like a dark banner against the night. 'This will be my temporary stop.' She projected the thought inward, glancing sideways and almost upward at the charging Grand Wyvern, which had already opened its massive maw. Inside that cavernous mouth, a formula was etching itself into reality, burning images arranging themselves with lethal purpose.
+
+At that sight, Molly released her hold on Nom Nom and let herself fall, her body tilting backward into the empty air. She projected one last word to the Phragon. 'Find a safe place to hide before I finish with my temporary task.'
+
+'Be careful.' Nom Nom's mental voice followed her down as she pivoted her flight toward a safer direction, her translucent form becoming a ghostly streak against the burning sky.
+
+A fleeting smile touched Molly's lips, there and gone like a breath on cold air. 'I will.'
+
+She shifted her gaze upward, unconcerned by how close she was to the ground. Her eyes tracked the Grand Wyvern as it pivoted smoothly to follow her trajectory, ignoring Nom Nom entirely. The massive creature's attention was fixed on her and her alone.
+
+It was just as she had suspected. The Phragons were not being targeted, something—or someone, had been after her. Someone was manipulating their senses with a mind control formula, twisting their perception like a puppeteer pulling strings.
+
+And Molly was soon going to find out who.
+
+She stretched her hands wide beside her, letting gravity do its work in pulling her down faster. The wind tore at her robes and whipped her pale hair around her face, but her mind remained calm, calculating her next move with precision. Based on what she had observed while flying on Nom Nom's back, there were about five dozen wyverns scattered around the forest of Tsayad. If she expanded her range of calculation, having this many wyverns concentrated in one area meant two things.
+
+One: the perpetrator was around the corner, hiding somewhere nearby, orchestrating this chaos from the shadows.
+
+Or two: these five dozen wyverns were merely bait, placed here to lure someone like her into believing the true enemy was close at hand.
+
+And Molly's calculation leaned heavily on the second option. Just as Jen had always told her: 'Never trust clean water just because it's clear to the naked eye. Sometimes, if one looked deeper, it might be more polluted than even the dirtiest of water.'
+
+A sigh escaped Molly's lips as she noticed the time had come for her to act. Her gaze fixed on the [Tier 7] formula, [Blazing Fire Burst], that erupted from the Grand Wyvern's maw. The massive sea of conjured flames compressed into an explosive surge of heat that screamed through the air, devouring the distance between them, aiming directly at her with the promise of annihilation.
+
+Molly flicked her right hand through the air as if silently commanding the very fabric of reality. Her lips remained still, but a soundless utterance rippled outward, and the rough white symbols drifting through the atmosphere obeyed her will without the slightest hesitation. They shuddered for a suspended heartbeat before surging in front of her, gathering in a massive wave. The symbols began taking shape, arranging themselves into deliberate, intricate patterns, weaving together to form the structure of the ]Tier 10] formula, [Void Hole]
+
+The structure wove itself into a cradle, embracing the intricate lattice and encapsulating the entire massive arrangement. The completed spell was the spitting image of a vast gravitational force, something that seemed to tear a hole into reality itself. The air around it warped and bent, light curving into strange, impossible angles. After a few moments, the formula dyed a dull, dark bluish-purple, the color of a bruise on the skin of the world.
+
+A massive suction force began to emanate from the completed formula, a hungry, silent pull that drew everything toward its center. The incoming [Blazing Fire Burst] was instantly swallowed by the [Void Hole], the flames stretching into thin, screaming ribbons before vanishing entirely, as if they had never existed at all.
+
+Molly dismissed the formula with a wave of her hand and silently commanded the white symbols in the air to form her next working.
+
+The mana in the atmosphere gathered swiftly, swirling in currents as it arranged itself into the [Flight] formula. The completed spell ignited with a soft, downy white glow that pulsed gently, and then it immediately shrank, condensing its intricate architecture until it embedded itself delicately on Molly's left wrist, settling against her skin like a living light.
+
+In that instant, Molly's descent halted. She hung suspended in the air, defying gravity with ethereal grace, her robes settling around her as the wind's assault ceased. Her gaze lifted to the Grand Wyvern above, which roared with rekindled rage when it saw its attack so casually dispersed. The sound reverberated through the night, raw and furious.
+
+Without wasting another moment, Molly gracefully lifted her hand and pointed at the charging Grand Wyvern. She made a silent utterance that caused the floating symbols around her to tremble.
+
+Her voiceless words carried an unspoken authority, the gravity of a final decree that brooked no argument and no appeal.
+
+The rough white symbols in the surrounding air shuddered again, but this time the movement was not a tremble. It was a deep, resonant clank, as if each symbol had been forged from unseen iron and struck against an anvil. They surged toward Molly's pointed finger, gathering into shape with the inevitability of a closing cage.
+
+The first symbols assembled into the image of a single, massive chain link—no ordinary link, but one formed of interlocking, rune-etched shackles that rotated slowly even in stillness. Each shackle was inscribed with the concept of unbreakable law, glowing faintly with the weight of absolute decree. From this core, the remaining symbols flew into position, arranging themselves into eleven long, heavy lines. Each line was shaped like a spiked chain, and at the tip of every chain-length, an arrowhead pointed starkly outward, aimed in all directions as if already seeking a target. Between these projecting chains, smaller symbols gathered into tiny, floating padlocks that snapped shut one by one with metallic finality. Together they created the completed root—a root that spelled capture, restriction, absolute binding, and the denial of all escape.
+
+The final symbol was the structure that encapsulated the entire arrangement, sealing Molly's will into a single, immutable command. Then, with a low, grinding hum that seemed to vibrate through the bones of the world, the completed formula was suddenly dyed the color of cold-forged iron laced with searing violet—the color of a prison in a god's domain.
+
+From the face of the completed emblem, eleven physical chains of pure, glowing violet-veined metal erupted outward. Each one lunged in a straight, relentless line toward the Grand Wyvern, tearing through the space between them without regard for distance or any obstacle. The moment they reached the creature, they coiled around every limb and joint with unerring precision, wrapping around its powerful legs, its massive wings, its thrashing tail. The arrowheads embedded themselves into the chains' own links, becoming locks that cinched tight with a sound like a final gavel striking stone.
+
+The Grand Wyvern roared in rage when it registered the unexpected chains binding its form. It struggled with futile desperation, growling and roaring with deafening shrieks that split the night air. The massive body tumbled from the sky, crashing onto the burning forest's ground with a thunderous thud that sent embers and ash billowing outward in a great wave. It did not sustain serious injury, it had not been far from the ground when the chains took hold, but the impact still drove the breath from its lungs in a great, heaving gust.
+
+Molly landed softly beside the struggling Grand Wyvern, her feet touching the scorched earth with barely a whisper of sound. The creature's predatory eye swiveled to stare at her without reason or recognition, the glow of madness still burning bright within its depths. It tried with all its remaining strength to escape the chains, thrashing and straining even though the effort would surely kill it if it pushed harder against the unyielding restraints.
+
+Molly watched the struggling creature for a long moment, her eyes staring directly into its own. She peered through the veil of suicidal rage, looking past the surface to what lay beneath. And there, hidden in the depths of that burning gaze, she saw how the wyvern's eyes shook with fear.
+
+The wyvern was scared. It was afraid. And Molly could feel that terror lurking underneath the madness, buried but not extinguished.
+
+A sad expression washed over Molly's face as she recognized this truth. She leaned closer to the struggling wyvern and stroked its scaled neck, her small hand moving gently over the warm, polished-ruby shimmer of its armor-like hide. The gesture might mean nothing to the creature, but this was Molly's way of offering her apology, for what she had done, and for what she was about to do.
+
+The Grand Wyvern struggled for a short moment under Molly's touch, its muscles tensing and flexing against the chains. But soon after, its movements began to weaken. The struggles grew sluggish, then faint. The predatory glow in its eyes dimmed, fading like embers losing their heat, and the massive beast fell into a deep, enchanted sleep.
+
+Molly retracted her hand and stepped back, her gaze lifting upward to the formula that had materialized above the sleeping Grand Wyvern. It was the same flawless [Slumber] formula she had used earlier on Ren and Jasmine. Given how things were unfolding, it seemed she would be using it a great deal today, and she would need to keep it active until everything was settled.
+
+If she did not maintain the slumber formula, Molly suspected the Grand Wyvern would wake again because of the active madness and mind manipulation formulas still working upon its consciousness. And when it woke, it would begin to struggle futilely once more, which would lead to its death. The formula she had used was no ordinary binding. Once bound by it, no physical force, no formulas of lower tier, and no mundane escape could break the [Tier 11] formula, [Chain of Edict], for it was not merely iron that held the target, but the crystallized concept of restraint itself.
+
+A deep sigh escaped her lips when she heard approaching growls and roars, the sounds drawing closer from all directions. She lifted her gaze to the large shadows that now covered the burning night sky, her crimson eyes tracing the shapes of the giant Grand Wyverns that surrounded her on every side. Their massive forms blotted out the stars, their eyes burning with that same mad, bloodlusted light.
+
+Well.. This was definitely going to require a great deal of delicate work if she hoped to avoid harming these creatures and the ravaged land around them. All of it needed to be restored, returned to their natural order, cleansed of the chaos that had taken root.
+
+Time to get to work.

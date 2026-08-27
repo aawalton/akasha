@@ -1,0 +1,193 @@
+---
+id: 19bda3c0-7dd1-5082-bd04-c33bd81116a8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19: Strange Figure"
+slug: 0023-chapter-19-strange-figure
+partOf: shapeshifter-a-non-human-litrpg
+position: 23
+ownLength: 1950
+unit: words
+publishedAt: 2026-06-02
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3482743/chapter-19-strange-figure"
+royalRoadId: "3482743"
+---
+
+Alex sighed with frustration and rose to his feet.
+
+"What's wrong?" Hina asked.
+
+"It's just none of this adds up," Alex said, coming to sit next to her within the Beacon of Light. Its soothing light helped relax him as much as a man in a room surrounded by pulverized corpses could be.
+
+"What doesn't?" Daisuke asked, passing him a half-drunk bottle of water. "An Ashrock killed them, no?"
+
+"I don't think so," Alex replied, taking a gulp and wincing—it was lukewarm.
+
+"Why not?" Hina asked. "These look like perfect examples of Ashrock victims I've seen before."
+
+Alex pondered how to put his thoughts into words. "An Ashrock uses its larger size to its advantage, right? We always see victims of Ashrock attacks with smashed-in heads. While these people did die from blunt trauma, the strikes seem to have come from below or the side rather than above."
+
+"So?" Daisuke asked.
+
+Alex took another sip of water before setting the bottle down at his side. "Ashrocks don't have a way to strike a smaller foe from below. Also, I think the group was taken by surprise. The mage was in the middle of writing a report when he stopped mid-sentence." Alex pointed to the corner, where the most unrecognizable corpse lay. "That is the party's tank, yet he is the furthest back in the corner. Ashrocks are slow and loud. They would have known it was coming up the stairs well in advance, so he should be closer to the front."
+
+"That is indeed strange," Daisuke agreed. "But if not an Ashrock, then what could have done all of this?" He gestured at the stomach-churning gore. "Acid Slimes wouldn't have left corpses behind, and there are no other reported monsters on this floor."
+
+"A Reaper perhaps?" Hina suggested. "There are rumors that the Ether Technocrats have been hiring them to take out members of rival guilds."
+
+Alex mulled over the suggestion. "Maybe, but why would a Reaper leave them in such a state? Even the credits were left behind."
+
+"A rare variant of monster, then?" Daisuke suggested, yawning and rubbing the sleep out of his eyes. "Maybe a smaller and faster Ashrock is on this floor?"
+
+Alex sighed. "But that still doesn't explain how they were taken by surprise. Even if it were smaller, you would hear an Ashrock of any size climbing the steps from many floors down. It would have to be something more nimble."
+
+"Like a human?" Hina suggested.
+
+Alex nodded. "A human that hunts like a monster. Such brutality has no other explanation." He clapped his hands, drawing everyone's attention. "Anyway, it's getting late, and we had an exhausting trip here. Let's have a power nap and then continue to the next site. Hina, you will take the first watch."
+
+"You got it," Hina said, standing up and positioning herself next to the stairs, which were the only entrance to the sealed room. It was dark, except for the amber light from a few crystals in the ceiling and the radiant glow of Yuki's Beacon of Grace, making it the perfect place to sleep.
+
+Besides the stench of death, of course.
+
+***
+
+Xen stood on the ruins of the Ashen Colossus's head and held the unknown person's gaze. They were about thirty meters away, partially hidden behind an amber crystal. He had only noticed them due to his Geomantic Perception alerting him to a nearby presence, though there had been no sound of footsteps or evidence of movement. It was as if they had always been there, watching.
+
+The person didn't move or speak—they just observed him intently. It was hard to see in the dim lighting of the floor, but they appeared to be male and were wearing standard-issue Guild Association equipment like he was. Though it was patchy, as if it had been eaten by acid. At his side, he was holding a large sledgehammer.
+
+Xen had an unsettling feeling.
+
+Something's wrong with them.
+
+He decided to use Appraisal to find out what he was up against.
+
+"Appraisal."
+
+A system message popped up above the man's head.
+
+[Appraisal Failed]
+
+Xen stared at the message, stunned. His Appraisal skill had never outright failed before. In the past, it had shown question marks when appraising the Living Armor due to their immense level difference, but it still displayed the target's race. But for it to fail? Even if he cast it at a stone wall, he would receive something.
+
+"Who are you?" Xen called out to the person.
+
+They didn't reply. They just stared at him.
+
+Xen really wanted to absorb the Ashrock Colossus, but he couldn't do so while being observed by an unknown person. What if they were from the Titanborn guild and reported him?
+
+"Not going to answer me?" he tried again with no result.
+
+While something was unsettling about them, he couldn't quite pin it. The Appraisal skill's failure made him rather apprehensive, as he didn't know their true race or level, but he had no choice. If the person wouldn't reply or leave their spot, then he would go after them.
+
+He stepped forward.
+
+The figure bolted.
+
+Xen broke into a sprint to chase after them. He reached the amber crystal they had been sheltering behind a few breaths later and found the sledgehammer abandoned on the ground, its grip dark and slick with dried blood. Sweeping the area with Geomantic Perception, he located the figure already ahead, moving at a pace that made no sense for their build.
+
+Just who is this person, and why are they so fast?!
+
+He raised his arm while chasing and lined up a Radiant Smite, but the figure began cutting between the amber crystals in sharp, irregular angles that made targeting magic impossible. Xen kept after them until they reached the second obsidian tower that they had come to investigate.
+
+Yet, before going inside, the figure paused at the dark doorway and looked his way.
+
+They smiled.
+
+Xen slowed to a halt at a cautious distance. He studied the figure properly for the first time and finally noticed what was bothering him.
+
+"Why aren't you blinking?" Xen asked.
+
+As expected, the person didn't answer and vanished into the tower. Xen did not follow, as he was no fool.
+
+If that person really escaped me with a movement skill over raw stats, then he would never trap himself inside a tower. He wants me to follow him, meaning he is confident in his victory. While I have far more firepower than an Appraisal skill would suggest, I don't think this is worth the risk as I'm going in blind. Xen backtracked his way to the Ashrock Colossus while keeping his attention on the tower. The person never left or chased after him.
+
+What a strange encounter, Xen concluded. Though I suppose I have a use for the humans now. Their next stop is that obsidian tower. I can use them to investigate that monster in my stead.
+
+Returning to the Ashrock Colossus, Xen's attention snapped immediately to the acid-eaten edges of the corpse, where a large cluster of Acid Slimes had crept in during his absence, already beginning to dissolve the outer stone of his kill.
+
+There have to be as many here as there were when we fought on the bridge earlier. No wonder the Ashrock Colossus was so resistant, if these Acid Slimes were to devour it the moment it let its guard down.
+
+Xen walked forward with both his hands raised. It was time for a slaughter.
+
+"Radiant Smite."
+
+Lightning cracked outward in waves, obliterating the Acid Slimes before they had time to react. He only stopped once his mana pool finally emptied and killed the last few with blunt force.
+
+"I wonder if that was enough," Xen muttered as he tore out and crushed the core of the last one and watched it dissolve without sympathy. Even without a hint of intelligence, all slimes should know he wasn't to be stolen from.
+
+You have killed multiple opponents. Bonus experience awarded.
+
+Experience split between [Hexreaver Slime] and [Elf] form.
+
+[Hexreaver Slime] has leveled up: 78 -> 80.
+
+[Elf] has leveled up: 32 -> 39.
+
+[Hexreaver Slime] has reached Level 80 (A Grade). Evolution is available.
+
+Do you wish to begin the evolution process?
+
+[You have 60 minutes to agree to the evolution, or a random option will be forced upon you]
+
+[Yes/No]
+
+Xen stared at the prompt for a long moment. Him, A-grade? It almost sounded surreal. Just a few days ago, an A-grade monster or human could have killed him in an instant. Yet now he would walk among their ranks. Furthermore, this was an evolution to his main form, meaning he would take on a new species of slime.
+
+"No," he answered the system.
+
+[Evolution timer started: 59 minutes and 47 seconds remaining]
+
+He dismissed the message. I can't do it here, out in the open. He glanced toward the tower in the distance. Especially not with that thing lurking. I have just under an hour to find somewhere safe before the system forces a random evolution on me. I'll absorb the Colossus first, then retreat to the first obsidian tower.
+
+He looked down at what remained of the Ashrock Colossus.
+
+[Use Devour on Ashrock Colossus?]
+
+"Yes," Xen said, and let his tendrils out.
+
+[Devour in progress…]
+
+The tendrils found no brain, so he had to dig deeper. What passed for consciousness in the Ashrock Colossus seemed distributed throughout its body. What flooded Xen's mind wasn't memory so much as sensation: the immense, grinding weight of stone against stone, the slow pull of mana from the amber crystals above, and somewhere deep beneath all of it, a dull and endless pain of forced servitude to the dungeon.
+
+It faded quickly. There was nothing else to extract.
+
+[Devour Complete]
+
+You gained a large amount of biomass.
+
+You absorbed 8% of the Ashrock Colossus's memories.
+
+You have unlocked the [Ashrock Colossus] form.
+
+The [Ashrock Colossus] form is considered an adjacent species to the already assimilated [Charstone Basilisk] form. Do you wish to merge the two?
+
+"Yes," Xen said. He didn't need so many similar forms stuck at level one and enjoyed the upgraded skills that merging them produced.
+
+The [Ashrock Colossus] and [Charstone Basilisk] forms have been successfully merged to create the rare [Ashen Colossus] form.
+
+You acquired the following skills:
+
+[Geomantic Anchor (C)] Root yourself to the surrounding terrain, dramatically increasing your resistance to knockback, displacement, and binding effects. While anchored, you passively draw ambient mana from stone or crystal formations within range to heal.
+
+You and the target shared similar skills:
+
+[Molten Gaze (B)] has been upgraded to [Ashen Gaze (A)]
+
+Transferring experience from the [Charstone Basilisk] form:
+
+[Ashen Colossus] has leveled up: 1 -> 2.
+
+Xen checked on the new A-grade skill.
+
+[Ashen Gaze (A)]
+
+Channel superheated stone mana through your eyes to project a petrifying glare at a target. On a successful hit, the target is afflicted with Petrification and a stacking Smolder debuff that causes gradual internal damage as stone-heated corruption spreads through their body. The petrification effect persists for longer the more Smolder stacks the target accumulates. The skill will fail if eye contact cannot be maintained.
+
+Nodding in appreciation for such a strong new skill, Xen rose from the stone carcass of the Ashrock Colossus. He had devoured all of the meaty insides to gain the form and got so much biomass in the process that it was hard to walk.
+
+He was also running out of time.
+
+[Evolution timer started: 5 minutes and 21 seconds remaining]
+
+Xen broke out into a sprint toward the obsidian tower.
+
+It was time to pick his A-grade evolution.

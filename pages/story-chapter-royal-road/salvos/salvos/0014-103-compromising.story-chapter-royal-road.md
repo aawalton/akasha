@@ -1,0 +1,275 @@
+---
+id: 584e95d0-c32c-54f6-ad4d-ba418739d909
+page-type-slug: story-chapter-royal-road
+title: "103. Compromising!"
+slug: 0014-103-compromising
+partOf: salvos
+position: 14
+ownLength: 2240
+unit: words
+publishedAt: 2021-04-21
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/668651/103-compromising"
+royalRoadId: "668651"
+---
+
+103. Compromising!
+
+“Nope! We refuse!”
+
+I happily gave my response to Hadrian’s offer. The blonde man stared at me for a moment, blinking. Then he leaned back on his chair and sighed.
+
+“Thought so.”
+
+Strumming his fingers on the desk, the leader of the Valiant Dreamers Company wore a resigned face.
+
+“Is there any reason in particular why you don’t want to join us? Anything we can do to convince you?”
+
+I paused, tilting my head up to the ceiling. A few thoughts came to mind; but it was nothing Daniel would approve. The reason why I had rejected Hadrian was simple: the Valiant Dreamers Company would never accept me in the first place.
+
+It was the exact same reason why I refused Stephen’s offer— the Iron Champions Company only saw me as a resource. While I doubted the Valiant Dreamers Company would see me the same way, the fact remained they wouldn’t actually see me as me. They would see the false skin I bore and assumed that was Salvos.
+
+When in fact, I was a Demon.
+
+I would only join them if and only if I revealed the real Salvos to Hadrian. But judging by the look on Daniel’s face, that was not an option. So, I shrugged.
+
+“There are many reasons! And there are some things you can do to change my mind.”
+
+“That is?”
+
+Hadrian gave me an expectant look. I crossed my arms and sunk into my chair.
+
+“It’s a secret!”
+
+He narrowed his eyes— not suspiciously, but with more curiosity than anything. Then he laughed.
+
+“Well, I guess there goes our two [Heroes].”
+
+Daniel visibly flinched from the remark, however he and I both knew Hadrian did not actually think we were [Heroes]. It was one of those things Humans said but didn’t mean in a literal sense.
+
+“Yep. Sorry! We’ll help out where we can though!”
+
+I offered an apologetic smile. Then I beamed and raised my chin.
+
+“In fact, I’ve already asked one of my friends to help out where she can!”
+
+“You have?”
+
+“Saffron Merryster.”
+
+I spoke the name with pride. The noble who I had met and escorted briefly through Nixa. She had given me her family’s crest and told me I could ask for her help if the need ever arose. I had thought this was the perfect situation to call on her aid.
+
+Hadrian frowned.
+
+“Who?”
+
+I deflated.
+
+“Uh… a daughter of the Merryster family?”
+
+“...”
+
+“A Dukedom in Nixa!”
+
+I sputtered, waving my hands insistently.
+
+“Have you really never heard of her?”
+
+“I can’t say I have. But— I’m not too well versed in politics. My dad deals with that for me.”
+
+I stood up and placed both my hands on the table. I held Hadrian’s gaze, speaking earnestly.
+
+“Well, she’s a noble! A very powerful noble! I’m sure she’ll be able to help!”
+
+Hadrian looked at me for a moment, studying my face. Then he stood up and smiled. He placed a hand on my shoulder and spoke gratefully.
+
+“Thank you, Salvos. For your assistance thus far.”
+
+Then he closed his eyes and bowed his head.
+
+“However, I implore you, could you please listen to one last request we have?”
+
+I glanced back at Daniel and we exchanged a look. We had been helping with the Valiant Dreamers Company thus far, it really couldn’t hurt to help them out a little bit more.
+
+“Sure?”
+
+Hadrian let out a relieved breath.
+
+“I ensure you will properly be reimbursed for this. It’s not that difficult, but—”
+
+“Wait.”
+
+My voice came out sharp, cutting off his words before he could finish. Tapping a finger on my chin, I had a thought.
+
+“We don’t need gold.”
+
+“Salvos, what are you saying?”
+
+Daniel piped up in a hurry behind me; he quietly whispered my way.
+
+“We have barely any money right now! Everything we made from the Motharis was spent on stocking back up on potions and enchantments!”
+
+There had been a few artifacts we took from the Brilsum Ruins that were worth selling. And after we had appraised it and got our gold for it, we proceeded to spend our money all on other kinds of artifacts. One of them was my brand new gold bracelet!
+
+It looked fancy and had jewels sticking out of it. It was perfect for battling Humans in their social field! I could use it to better convince them that I was a Princess, since princesses were very well dressed!
+
+Shaking my head, I raised a finger at Daniel.
+
+“That’s exactly why we don’t need any more gold.”
+
+“But… but…”
+
+He was baffled— unable to come up with a riposte. Having triumphantly beaten him in this social battle, I shifted my focus back to Hadrian with a jingle of my bracelet.
+
+“Hadrian, we don’t need payment in gold or anything like that. But we want something else.”
+
+“That… depends. What exactly is it you want?”
+
+Looking at me with a puzzled face, Hadrian waited for me to continue. I lightly clapped my hands together and smiled.
+
+“We want Edithe!”
+
+—--
+
+Daniel, Edithe, and I said our goodbyes to Rachel the next morning and started our way towards our destination. We were headed for a town just east of Viechester— it was called Lulica. They had been dealing with a bandit problem for the past few weeks, although it never amounted to enough to warrant the Adventurer Guild’s attention.
+
+But apparently, that was only because of fear of some kind of repercussion from the Platinum Ranks in Viechester. Because now, with most of the Valiant Dreamer adventurers busy with the company war and the unaffiliated adventurers overworked, these bandits had come out in full force and began attacking travelers and carrying out kidnappings for ransom.
+
+They weren’t even low level too— they were said to be around Gold Rank, and their numbers were unknown. So, it was up to the three of us to deal with this threat before we could finally leave Viechester.
+
+“But why are we leaving Viechester, Salvos? What’s this deal you made with Hadrian? I don’t… I don’t understand.”
+
+Edithe spoke in a worried tone. I grinned back at her and gave her a thumbs up.
+
+“I told you, we’re going to get you stronger first! Daniel and I will get you to Level 70, just you wait.”
+
+“But I can’t even—”
+
+“You’ll be fighting at a disadvantage, yes. Which is why we should start leveling you as fast as possible from now!”
+
+I exclaimed excitedly. I could feel something stirring up inside of me; the cup of joy knowing that my companion was going to become stronger began spilling out into a series of light tippy taps from my feet as I danced around.
+
+“We’ll all be Platinum, then Diamond, then Elites together!”
+
+“While I do agree with that sentiment, I think you’re getting a little bit too ahead of yourself there, Salvos.”
+
+Daniel added in his usual gloomy self. I waved a hand dismissively and spun to meet Edithe’s gaze.
+
+“Don’t worry, once we’ve got this job over and done with, I promise you we’ll go somewhere else where you can become stronger than ever!”
+
+Edithe did not exactly look too enthused, but she slowly nodded.
+
+“And where is this place, Salvos?”
+
+“I don’t think even she knows.”
+
+The Human man commented from the side. Ignoring him, I winked back at the red haired woman.
+
+“It’s a secret. You’ll see when you get there.”
+
+I had not been idle since returning to Viechester. Sure, I had helped around with the Valiant Dreamers Company with a bunch of things— but that didn’t include the time I spent at night, awake and with nothing to do.
+
+“I’ve been doing a lot of reading, you know? And there’s so many cool places you two have never shown me! Well, I need to reach Level 100 as soon as possible too! So, we’re going to be busy!”
+
+I declared as I marched forward. Daniel and Edithe exchanged a glance; both of them had the same look of uncertainty on their faces. But neither protested even as we reached Lulica.
+
+The town had a small wooden wall surrounding it, with some guards standing on its battlements. They called out to us, raising their swords, spears, and bows warily our way. A few had wands at the ready, but no spell conjured just yet.
+
+“We’re adventurers! From Viechester.”
+
+I waved a hand at them. Then, flashing a badge, I pointed at the gates.
+
+“Platinum Ranks. Let us through, please!”
+
+The guards immediately did as they were told; they opened the city gates and let us through. The captain on duty hurriedly came to greet us.
+
+“Adventurers! Are you the ones sent here from the Valiant Dreamers Company? The ones who will help relieve us from this bandit threat?”
+
+“That’s us!”
+
+Waggling his bushy mustache, he let out a deep breath.
+
+“Oh thank you. We’ll give you as much information as we can about them. Please, come to my office.”
+
+We followed him to a decorated room with a desk and a few display cases around the sides. Daniel paused for a moment to inspect a painting, before we began discussing the situation in the city.
+
+“For a while now, our city has been dealing with these bandits— we thought they were just rogue thugs at first— and putting a clamp down on their petty crimes and robbery. But when it became clear that it was the same individuals getting away with it over and over again, we knew something was amiss.”
+
+“You guys didn’t call for the Adventurers Guild help then?”
+
+Daniel asked, furrowing his brows. The guard captain shook his head.
+
+“No. We thought it was just a gang or something a bit more organized than just a few petty criminals. Until last week— when word of the company war broke out— the bandit group revealed themselves and raided the town.”
+
+“They did?”
+
+Narrowing her eyes, Edithe cast a gaze towards the nearby window. I listened intently as the man elaborated.
+
+“It was the whole lot of them. They call themselves the Calhoul Coins. Many of them were Gold Rank in level! My guards could not do anything to stop them! We were slaughtered!”
+
+“They attacked the city and…?”
+
+I leaned forward, curious about what happened next. The guard captain coughed.
+
+“They sacked half of the city. Took many women and children with them. Stole our crops. Our merchant’s goods. They took everything then left. But they aren’t gone just yet. Just two days ago, a group of their thugs returned to kidnap more women. Steal more from those who survived the first attack.”
+
+“I see.”
+
+I nodded slowly as he finished. It sounded like a dire situation indeed; I knew Humans didn’t like it when their towns and cities were attacked. And the fact that it was attacked twice meant that they were really unhappy about this!
+
+The guard captain bowed his head pleadingly.
+
+“Please, adventurers, if there’s anything I can do to help you, just ask.”
+
+“I only have one question.”
+
+Daniel finally broke out from his silence. He folded his arms as he addressed the guard captain.
+
+“Were you the one who submitted this request for adventurers to the Adventurers Guild?”
+
+Blinking, the guard captain slowly shook his head.
+
+“I, uh, no. Before I could formally submit a request on behalf of the city, someone else had already done it.”
+
+“Could you please direct us to him?”
+
+Edithe smiled at him. He bobbed his head.
+
+“Why of course. He’s a man by the name of Piero. Runs a tavern down in the center of town. Calls it Piero’s Bistro.”
+
+“Got it. Thank you.”
+
+Standing up, Edithe started out of the room. Daniel followed behind her and I was a step slower than them. I paused right at the doorway, turning back one last time to wave at the guard captain.
+
+“Thanks— what was your name again?”
+
+“Johnathan.”
+
+“That’s a nice name. I’m Salvos! Bye!”
+
+The door closed behind us and I realized Daniel and Edithe were already down the street, on their way to the tavern Johnathan pointed out. I quickly caught up to them and cocked my head.
+
+“Why the rush? What’s wrong?”
+
+The two were acting a bit weird. Edithe hadn’t been her usual self the whole week, but this was extra weird. And Daniel was always weird, but now he was weird in a non Human weird way!
+
+My companions both turned to face me. And the Human man spoke up.
+
+“That guard captain… I don’t trust him.”
+
+“Why not?”
+
+“Because.”
+
+Edithe started, his eyes trailing towards the wooden walls of the city.
+
+“The city’s walls barely look damaged. They look mostly fine, even. As if only the gates were breached, but even then it’s not in a bad enough way that reflects a large group of Gold Rank equivalents taking it.”
+
+“Plus, he knew about this problem for a while, and never once brought it up with the Adventurers Guild? I’d understand if they didn’t have the resources for it, but you saw his office.”
+
+I thought about the room for a moment. I remembered the paintings and the vases. The sparkly colors that reminded me of a noble.
+
+“It was nice!”
+
+Daniel nodded. He spun back around, continuing ahead with Edithe as we reached the center of the town. He spoke softly.
+
+“And that’s exactly the problem.”

@@ -1,0 +1,35 @@
+---
+id: eb8d4031-dd30-531f-8101-0f85a81ef377
+page-type-slug: story-read-royal-road
+title: "Emie Ascended"
+slug: emie-ascended
+world: emie-ascended
+unit: words
+author: "Braided Sky"
+following: true
+royalRoadTags:
+  - "GameLit"
+  - "Progression"
+  - "Female Lead"
+  - "Slice of Life"
+  - "Strong Lead"
+  - "Adventure"
+  - "Fantasy"
+  - "Attractive Lead"
+  - "Crafting"
+  - "Dungeon Crawler"
+  - "High Fantasy"
+  - "Magic"
+  - "Romance Subplot"
+royalRoadSeriesStatus: ongoing
+link: "https://www.royalroad.com/fiction/170179/emie-ascended"
+royalRoadId: "170179"
+---
+
+What happens when one reaches the pinnacle and finally ascends? 
+
+It was a question that Emie had wondered since magic and progression became reality instead of fiction. After centuries of struggle, Emie is the first from Earth to reach that milestone and step into an entirely different realm.
+
+Though granted a boon and given advantages the natives could only dream of, Emie and her fellow Ascenders must rebuild their power in this new realm. Determined to take advantage of the fresh start, Emie must find allies and begin her climb anew. 
+
+Except this time, she'll actually live her life instead of focusing solely on progression.

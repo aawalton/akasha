@@ -1,0 +1,187 @@
+---
+id: d21e85b3-dc75-5b26-95b5-2fcf2ee86300
+page-type-slug: story-chapter-royal-road
+title: "Chapter 410 : Demon's Gambit"
+slug: 0112-chapter-410-demon-s-gambit
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 112
+ownLength: 2670
+unit: words
+publishedAt: 2026-08-03
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3762122/chapter-410-demons-gambit"
+royalRoadId: "3762122"
+---
+
+The crack in space finally burst through reality, and stepping out was a hunched figure. It had elongated arms ending in clawed appendages. Two pairs of leathery batwings adorned its back, and two curved horns on its head. Its face was remarkably featureless, with no nose or mouth, and two gaping red holes were where its eyes should have been.
+
+"Wait, haven't we met this guy before?" I asked.
+
+"I don't think so," Sylvain replied.
+
+"It looks identical to the one we fought in Dhoggurum," Sylthaeryn replied, then turned to Sylvain. "It was before your time."
+
+"Technically, it's not identical. It hasn't snapped its bones yet or torn open a hole for its mouth yet." Sylvester commented.
+
+As if in response to that, the creature did just that in rapid time; you'd swear the creature was part-slime with how quickly its body adapted into a more humanoid form.
+
+"Two elves, two humans, and even a dwarf… Has the surface world changed so drastically since I was last summoned?" the demon spoke with genuine curiosity as it gazed at us one by one. Then its vision lingered on Sylthaeryn before it began to glare. "You!?"
+
+"Me?" Sylthaeryn questioned, pointing toward her face.
+
+"I'd never forget a face, no matter how many centuries have passed. You were the one who denied me my meal, and why I'm stuck in this wretched position in the first place."
+
+"It is the same guy!" Sylthaeryn declared, barely hiding her smirk.
+
+"Oh, how I dreamt of this day to exact my revenge. To think you'd deliver yourself on a plate to me while I, the great Traz'genauth, was carrying out my punishment, perhaps the gods are just."
+
+"Hate to break it to you, Traz, but I don't think you're getting your revenge today," Sylthaeryn snorted.
+
+"Oh, did you forget that I know the truth about you? How will your companions react when they find out?"
+
+Sylthaeryn's eyes widened. "Don't you dare!"
+
+Traz's torn mouth curved into a wicked grin as he glanced at the rest of us. "Tell me, brave champions, did you know that you hide a traitor in your midst?"
+
+"As if we'd believe the lies of foul demon spawn," Sylbera retorted.
+
+"As expected of a stubborn dwarf. But even your kind should know the treachery of a doppelganger!"
+
+Sylvain and Sylvester gasped while Sylbera frowned. Meanwhile, I continued to watch the show unfold. It was a bit strange that he hadn't singled me out, as my appearance was generally the same as hers, with only some minor modifications.
+
+Maybe he thinks all elves look the same?
+
+"Yes, the enemy of all races, a doppelganger!" Traz proclaimed loudly. "Your friend has been consumed by one and replaced, no longer an elf, but a slime!"
+
+Huh… Did I unintentionally dodge a bullet by rejecting that mutation?
+
+"A… Slime?" Sylvester repeated.
+
+Traz nodded. "As unbelievable as that sounds, I swear to the gods I speak true."
+
+"A doppelganger is one thing, but a slime?" Sylvain replied, shaking his head. "You had me going for a bit. Nobody would believe such an absurd claim."
+
+"How would a slime even accomplish such a thing? They are dumb as rocks," Sylbera added.
+
+Hey… The joke is going a bit too far here.
+
+"I… Admittedly, this has puzzled me too. The only thing I can conclude is that your friend suffered an untimely demise at the hands of the slime. When it consumed her, it consumed not only her personality but also her intelligence and transcended what would normally be possible for their ilk."
+
+"Come on, guys, you can't believe his lies,"  Sylthaeryn replied. "This is a demon we are talking about here; they lie as naturally as we breathe."
+
+"I want to agree, but he did swear to the gods…" Sylvester pointed out.
+
+"Yes, even demonkind wouldn't utter those words lightly," Traz said, quickly jumping on the opportunity to sow further discord.
+
+"What are you proposing, demon?" Sylbera asked. "Even if she is a dreaded doppelganger, we have a duty to defeat you and cleanse this place."
+
+Sylvain nodded. "Agreed. We can deal with the doppelganger after first defeating you."
+
+"You fools underestimate how powerful this slime doppelganger is!" Traz shouted. "It defeated me by itself. What chance do you have?"
+
+Looks of surprise flashed across their faces, and I could already picture what Traz was trying to create. By trying to force an "enemy of my enemy" situation, he could deal with Sylthaeryn, and maybe have a few of us die during the process. I even assumed he would "accidentally" attack us as collateral, or perhaps even try to join forces with Sylthaeryn in an act of double betrayal, whatever it took to be the last one standing.
+
+"Okay, okay, that's enough," I said, finally inserting myself into this absurdly growing drama.
+
+"Elf, do you not want to avenge one of your own?" Traz asked.
+
+"I think you misunderstand. Sylthaeryn is one of my own."
+
+"Was. She was devoured by a slime doppelganger."
+
+I sighed and shook my head. "See. That's where you are mistaken."
+
+"Impossible, I even swore to the gods, she is undoubtedly a slime."
+
+"Yes, but you seem to not have considered one thing."
+
+"And what, pray tell, is that?" Traz snapped back.
+
+I smirked, and my face began to melt. Traz's bloodied eyes widened in shock, and he pointed an accusatory finger. "See! The slime doppelganger has already proliferated! We must kill them before it's too late."
+
+Sylbera, Sylvain, and Sylvester collectively sighed. Even Sylthaeryn looked a tad bit upset.
+
+"Master, did you have to ruin the fun?" Sylbera asked.
+
+Traz's head snapped to face her. "W-what did you just say?"
+
+"Look, it was fun, but I got things to do and get back to. Besides, do we even need to fake an alliance with him to defeat him? He was scared of just Sylthaeryn, and there are five of us now at minimum."
+
+"I suppose you have a point," Sylvain said with a nod. "But what if he flees?"
+
+"If he runs away, we win. Without his presence, this demonic space tear will more than likely close," I answered. "While you lot have been chatting, I've been studying the dimensional effects, and basically our friend Traz here is a glorified doorstop."
+
+"You dare!?" Traz screeched, his face nearly tearing itself apart in rage.
+
+"Of course I dare. You're horribly outnumbered, and I've been longing for a rematch. Last time you only gave me an Emblem for all the trouble I went through, this time I want more."
+
+Traz was about to say something, but then he noticed that the others in the room began to exhibit similar changes in their bodies. Weapons morphing from slime on the arms, slimy minions being formed, and so forth. The look of utter disbelief and shock that erupted on his face exceeded my expectations, making me not regret interrupting the drama at all.
+
+It looks like he could reasonably accept there being two slimes, but five is simply too much for him to bear.
+
+Of course, all of us were using [Metal Slime] to replicate Truesilver as we knew it was the bane of demons, and I still had [Banisher] equipped from earlier. One thing my personas didn't have of their own was Emblems, but I had to assume they gained the effects of whatever I had equipped, just like they benefited from my traits and other racial bonuses.
+
+Traz quickly overcame his shock and, like a switch being flipped, immediately turned hostile. It seemed he needed no prep time at all to begin combat, which was why he had no issue conversing and trying to cause some chaos in the interim. His body flickered, and he appeared right in front of Sylthaeryn, apparently unable to remove his earlier hatred from his bias.
+
+He thrust his claws forward, still exuding the same dimensional-tearing capability as before; however, he severely underestimated me and my personas, as well as the new abilities we had gained since our last encounter.
+
+Sylthaeryn smirked before firing several arrows effectively straight from her [Core Storage] using good old [Slime Shot] via [Slime Mastery]. Previously, I'd asked her why she even bothered using a bow, and apparently, it was to gain various skill and class bonuses. Ignoring that it was also a great sneak attack to suddenly spawn and fire arrows from your own body, something not many foes could ever predict.
+
+Traz was one of the first victims, as even though he knew we were slimes, he'd never experienced such a bizarre form of attack before. During our last encounter, I'd tried using plenty of tendrils and a sheer quantity of slime mass in an attempt to overwhelm him. Now, though, we had more advanced traits, skills, and other abilities to work with.
+
+The Truesilver slime arrows pierced his arm, which he quickly raised in defense; however, to his horror, they began to attack him further from within the wound. Traz must have never experienced anything like this before, and it looked like he wanted to rip his own arm off to remove the hostile, invading slime.
+
+Space was still distorted by his mere presence, and my [Personal Rift] had lost much of its former capabilities. However, by using it in a supportive role and focusing down its effective area, I regained access to more stabilized coordinates. [Dimension Magic] was suddenly back on the menu, and I decided to use it alongside my personas.
+
+Coordinating with Sylbera, I teleported her right behind the demon with her massive warhammer already midswing before the teleport. While we could communicate verbally or telepathically, there was also a more effective option through [Split Personality]. It was a bit hard to describe, but by syncing our current surface-level thoughts, we could effectively read each other's minds and work in perfect tandem while avoiding problems with absorbing memories.
+
+The blow struck the demon, sending his body reeling and leaving visible pain and anguish on his monstrous form. Compared to the first time we fought, this was like night and day, and we continued pressing the attack.
+
+"What foul blessed weapons have you discovered!?" Traz screeched, only to have several golems appear and charge at him.
+
+He snickered and waved his claw in an arc, instantly bisecting the golems in two, leaving Sylvester to lament the failure of his creations. Pressurized magical beams of water struck Traz from multiple angles, but unlike the arrows or hammer, he seemed entirely unperturbed. In fact, he was currently using the momentary respite to try to dig out the slime wriggling its way through his arm.
+
+"Damn, looks like magic doesn't work," Sylvain spat.
+
+"Seems slime is the only way we can win this," Sylvester agreed.
+
+"[Necrotic] sadly doesn't seem to work," Sylthaeryn replied, informing us.
+
+"Thankfully [Metal] is more than enough," Sylbera chimed in.
+
+My four personas instantly stopped messing around with magic and only used slime and any of the skills they might have picked up along the way. Sylbera and Sylthaeryn really got their chance to shine here, as they had invested in more "physical" skills while the other two were pure mages in the class department.
+
+Of course, I kept using my own magic, effectively playing the role of transportation, or perhaps the master behind the chessboard. I could instantly move my pieces around, much to Traz's frustration. He would utilize his natural [Blink] only to meet one of my slimy personas eagerly waiting for his arrival.
+
+Other than Vee, this was the first time I was fighting an opposing dimensional adversary, and if I had to compare the two, he was severely lacking. Vee's teleportations were hidden beyond even my calculations or predictions, while Traz I could read almost like an open book. Every one of his movements was telegraphed; even when he did a chain of rapid [Blinks] in succession, I could see his final destination. It honestly felt like cheating, and I almost pitied the demon.
+
+He continued attacking like a cornered and wild animal, his attacks becoming more frenzied and savage as he took more wounds. However, no matter how much he struck out, he was only cutting apart slime, as all of us knew to keep our cores out of his reach. Traz, in his optimal state, could probably be described as a peak assassin, able to effortlessly strike through any defense with his claws and teleport around the battlefield. Still, before us, he was nothing but a toy.
+
+At some point, he even realized that I was the mastermind behind his unfortunate situation, but when he tried to strike me, I instantly exploded. While he was distracted by his target suddenly exploding, several slime orbs revealed themselves by rolling out of the rubble and promptly detonating around him. All of them were Truesilver imbued with [Light Magic], as I had no idea what else to throw at the demon, and exploding [Dimensional Magic] seemed like a disaster waiting to happen.
+
+Thankfully, the detonations proved effective, and he was wounded beyond belief. Traz seemed like he was about to keel over from the countless wounds, but a dark smoke hissed from his body before he visibly shrank. A lot of his wounds were gone, but at the same time, his presence had shrunk both physically and metaphorically.
+
+"Did he just get weaker?" Sylthaeryn asked.
+
+"You accursed slime! Look what you've done to me!" the demon screeched, although he was looking more impish than demonic now.
+
+"I wonder if we keep hurting him, will he keep shrinking?" I asked aloud.
+
+Smirks and grins echoed from my personas, causing Traz to hesitate. "D-don't you dare! I warn you, I've got several more tricks up my sleeve—"
+
+His warning was interrupted by a warhammer crushing against his smaller skull, as I'd teleported Sylbera straight behind him. As his body flew through the air, he was pelted by several arrows, once again penetrating him and continuing to attack him from the wounds.
+
+Traz screeched and hollered as we continued attacking him. On more than one occasion, it looked like he was trying to escape through the crack, but I blocked every attempt by teleporting someone to intercept him. It appeared that he couldn't just [Blink] through the crack in space; he needed to physically enter it, which meant our extermination of this demon could continue.
+
+Traz continued to shrink, and his screeches soon turned to pleading and begging. Of course, we ignored him; he was a demon, after all, and I really wanted to know if it was possible to actually kill him, since he wasn't [Summoned] this time. Or at least, that was what I assumed without a functional [Identify] skill, but judging by the fact he hadn't forcibly returned, I was probably spot on.
+
+The demon was now barely the size of a rabbit; whatever monstrous appearance he had was long gone, and even his terrifying claws had diminished to almost nothing. He still retained his ability to [Blink], but the distance he could traverse was minuscule and could no longer be chained.
+
+Traz made a last-ditch effort towards the crack in space, only to have Sylbera's warhammer meet him again. His body popped into a black mist, but rather than reforming into something even smaller, it lingered and traversed through her, then into the cracks.
+
+"Oh, you bastard!" Sylthaeryn shouted.
+
+She wasn't alone, and we all attacked the mist with whatever we could muster. Slime, explosions, magic, and everything in between were unleashed on the black mist trying to escape. One of us probably even tried to eat the mist with [Necrotic Slime] while I viciously attacked with [Spatial Severing], hoping it would seal the deal.
+
+When the dust settled, the crack was gone, and so was the mist. There was no sign of our enemy, and the room slowly began to stabilize. At first, I thought he had escaped, but a few moments later, I received an unexpected notification.
+
+<Traz'genauth Egrozk Xog'thizech defeated. Experience gained.>

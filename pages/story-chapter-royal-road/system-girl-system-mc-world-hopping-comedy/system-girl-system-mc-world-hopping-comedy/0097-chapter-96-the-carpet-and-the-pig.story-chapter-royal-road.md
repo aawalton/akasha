@@ -1,0 +1,147 @@
+---
+id: b33347de-9dc6-5046-859e-c99c1ec5b763
+page-type-slug: story-chapter-royal-road
+title: "Chapter 96: The Carpet and The Pig"
+slug: 0097-chapter-96-the-carpet-and-the-pig
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 97
+ownLength: 2327
+unit: words
+publishedAt: 2026-08-08
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3788127/chapter-96-the-carpet-and-the-pig"
+royalRoadId: "3788127"
+---
+
+The morning mist had barely burned off the ocean when Lord Greenwood’s carriage rumbled down the coastal road. He usually preferred sleeping until late noon, letting his servants handle the mundane business of the morning. Today, however, he was far too excited. The prospect of breaking a new, arrogant noble had him up before the sun.
+
+He leaned back against the plush velvet cushions of the carriage, his thick lips curled into a self-satisfied smile. His spy had delivered the ultimate leverage. A half-elven child presented as a legitimate heir. It was a scandal that would tear House Fenris apart from the inside out, turning the young lord into a social pariah before the week was out, with severe legal repercussions following.
+
+The carriage pulled up to the Seaside Inn. Greenwood waited for his butler to open the door, then stepped out onto the cobblestones.
+
+He immediately noticed the arrangements.
+
+The entire front entrance was framed by towering, intricate archways woven from fresh blue moon-blossoms. In Dolaria, blue flowers were a significant symbol. They were used exclusively to welcome a guest of the highest possible esteem, a sign of absolute deference and respect.
+
+A thick, ornate red carpet with gold trimmings ran from the base of the archways straight to the main doors. It was a welcome fit for the King himself.
+
+Greenwood puffed out his chest, adjusting his heavy gold rings. He smirked.
+
+Finally, Greenwood thought, smoothing the lapels of his velvet coat. The boy understands his place. He realizes the respect he is due and deserves. After I acquire the servitude of the Fenris family, I will have enough power to vie for my son to marry the first princess. The title of King Consort is within my grasp.
+
+He stepped onto the rich red carpet and began his slow, measured walk down the grand archway.
+
+But as he reached the end of the carpet, the smirk faded. There was no retinue waiting to greet him. There was no groveling young Lord offering praise. The entrance was suspiciously, embarrassingly empty.
+
+This will not do at all, Greenwood fumed internally, his face turning an angry shade of mauve. I shall have to punish my new attendants for such a severe discourtesy. They should have been waiting for me from sunup. A few days in the stocks will remind them of their station.
+
+He stood on the ornate carpet, glaring around the pristine courtyard, searching for a target for his mounting fury. He spotted a group of elves near the side entrance. A tall elf with silver hair pulled back into a tight bun was directing a few younger maids carrying baskets of fresh linens.
+
+Greenwood nudged his own butler. The human servant quickly stepped forward and cleared his throat loudly, a sharp, abrasive sound designed to command attention from the lower classes.
+
+The silver-haired elf turned. Mira adjusted the cuffs of her crisp uniform, her eyes sweeping over the two men. She did not rush over. She began walking toward them at a measured, almost casual pace.
+
+Greenwood assumed this must be the head maid. She was wearing the silver wolf crest on her collar. He squared his shoulders, preparing to accept her frantic, groveling apologies for keeping a Lord of the Realm waiting on the doorstep.
+
+Mira stopped a few feet away. Her face was a mask of cold, unyielding exasperation.
+
+"What do you think you are doing there?" Mira asked, her voice sharp and carrying easily across the quiet courtyard.
+
+Greenwood blinked. He looked behind him, genuinely thinking she must be talking to someone else.
+
+"You will get dirt on the carpet," Mira continued, her tone dripping with absolute, unapologetic disdain. "Get off this instant. That is for a special guest. Did you not read the sign outside stating we are closed to the public today? Or are you illiterate?"
+
+Greenwood’s jaw dropped. The sheer, naked insolence of the servant was staggering. It took him a full five seconds to process that she was speaking to him.
+
+His human butler recovered first, stepping forward indignantly, his face red with sympathetic rage. "You insolent creature! Hold your tongue! This is the esteemed Lord Greenwood! Count of the Realm! You will show respect, or you will be taught it!"
+
+Mira did a slow, deliberate double-take. She looked Lord Greenwood up and down, from his powdered wig to his boots, taking in the ostentatious rings and the straining velvet coat. Her expression clearly showed she was neither impressed nor surprised. She just looked profoundly disappointed by the interruption.
+
+"And as I said," Mira replied, not backing down an inch, her voice steady and bored. "The estate and the establishment are closed. Reserved for a special guest. Get off the carpet this instant. I don't have time to waste arguing with lost tourists. I'll have to have the maids clean the stain your boots left now, and that throws off the entire morning schedule."
+
+Greenwood and his butler exchanged horrified looks. Both of them came to the same, blindingly arrogant conclusion. The 'important guest' this maid was talking about must be Lord Greenwood himself. The Lord of the house simply hadn't informed his attendants of the schedule.
+
+Greenwood’s eyes narrowed, pinning the maid with a look of pure malice. When I meet the Lord of the house, this maid is going to lose her life. Or I will force her to work the deepest veins in my salt mines until her lungs bleed. I will demand her contract immediately as compensation for this insult. Now that I look closer, the girl is quite my type. I will show her exactly what her place is.
+
+The commotion finally attracted attention from the main doors. Sylas stepped out onto the veranda. He wore the heavy black trench coat signifying his position as Head Butler of House Fenris.
+
+Greenwood’s butler immediately puffed out his chest and marched toward Sylas, ready to demand swift and brutal retribution for the maid's behavior. Before he could utter a single threat, Sylas cut him off smoothly.
+
+"You must be Lord Greenwood, I presume," Sylas said, adjusting his glasses. He didn't bow. He barely offered a nod. "Come with me. The Lord is quite busy. We don't have time to waste standing in the morning chill. You are already late. We are expecting a very important guest shortly, and the Lord is occupied with preparations."
+
+Lord Greenwood felt a vein throb in his temple. He was about to blow a fuse. The Lord of the house informed this butler of his visit, but the idiot somehow hadn't made the connection that Lord Greenwood was the important guest? Were the staff at the Fenris estate really this profoundly incompetent?
+
+Sylas let out a sharp, impatient sigh, clearly displeased by being made to wait. "How long are you going to dilly-dally there? We are waiting. Come along now. The mud from your shoes is drying into the stone, and it makes a terrible mess."
+
+Greenwood swallowed a roar of fury, vowing a brutal, sweeping revenge. He just needed to meet the impudent fool of a man whose staff was clearly misinformed about the hierarchy of the kingdom.
+
+He stomped after the butler, his heavy breathing loud in the quiet morning air. To his mounting horror and surprise, Sylas did not lead him to a formal study, a plush parlor, or even a drawing room.
+
+Sylas led him directly into the humid, chaotic heat of the kitchen.
+
+Ren was standing over a massive cast-iron stove. He was actively cooking something that hissed and popped in a hot pan. He pulled a heavy pot of bubbling, aromatic garlic butter off the flame, wiped his hands on a towel, and slung the towel casually over his shoulder.
+
+He turned around and looked at the stunned Lord Greenwood.
+
+"What can I do for you, Greenwood?" Ren asked, his tone flat, bored, and utterly dismissive. He didn't offer a title. "I don't have much time to spare today. Out with it."
+
+Greenwood finally snapped. The sheer, compounding disrespect was a physical pressure in his chest, threatening to burst.
+
+"How dare you!" Greenwood roared, spit flying from his lips as he marched forward. "Do you know who I am? I am a master of these lands! I am the Head of House Greenwood, a member of the high nobility! How dare you invite me into this filthy, sweating kitchen to talk? How dare you! Do you not fear for the reputation of your house, treating your betters like common tradesmen?"
+
+He stepped closer to the prep table, pointing a shaking, ring-covered finger directly at Ren’s face.
+
+"I shall make it public," Greenwood hissed, a venomous, triumphant smile finally breaking through his blind anger. "I will tell the whole capital that your precious heir is a filthy thing with tainted blood! A half-blood bastard! You will be a pariah before sunset!"
+
+Greenwood stopped shouting. He waited. He waited for the arrogant composure on Ren’s face to crumble into dust. He waited for the young Lord to realize that Greenwood held his entire reputation, his entire life, in the palm of his hand.
+
+That explains everything so far, Greenwood thought triumphantly as Ren simply stared at him. That's why this man wasn't afraid of me. That's why he didn't respect me. He didn't yet know I possessed his secret. He thought he was untouchable.
+
+Before Ren could say a single word, Greenwood began laying out his demands, eager to press his newly revealed, absolute advantage.
+
+"First of all," Greenwood demanded, crossing his arms over his chest, "I want the contract to that insolent head maid at the gate. I have to teach her proper etiquette in my bed, and she will serve me until I tire of her. Second, I want all your military contracts and supply chains transferred to my house immediately. Every single one. Just to appease me for starters, before we discuss my cut of this miserable restaurant."
+
+Ren didn't even hear the second part of the demand.
+
+That filthy pig was eyeing Mira.
+
+Ren dropped the kitchen towel. It hit the floorboard with a soft thud. He pulled up the sleeves of his chef's apron in a slow, deliberate motion. He walked around the stainless steel prep table.
+
+Before Greenwood or his butler could even process the movement, Ren’s hand shot out. He grabbed Lord Greenwood by the thick, velvet collar of his expensive coat.
+
+With a surge of pure, physical strength fueled by a Level 9 stats sheet that far outstripped the fat, soft noble, Ren lifted the man completely off the ground.
+
+Greenwood’s polished boots kicked empty air. His eyes bugged out of his head in shock. His human butler shrank back against the wall, babbling in absolute terror, completely useless.
+
+"So, let me get this straight," Ren growled, his voice dropping into a dangerous, vibrating register that rattled the pots hanging from the ceiling. He pulled the struggling noble higher, bringing them face-to-face, ignoring the man's frantic clawing at his grip.
+
+"You came to my house. With the intention of threatening me with my daughter. And with illicit, disgusting intentions for my staff."
+
+Panic seized Greenwood. His heart hammered violently against his ribs. This was the first time in his entire, pampered life anyone had laid hands on him, let alone lifted him off the floor like a misbehaving dog. He was scared shitless.
+
+"Listen up, little piggy," Ren whispered, his breath hot against Greenwood’s face. "You get one warning. I am incredibly busy right now. Otherwise, I would have removed that silver stick up your ass and shoved an entire tree trunk in its place."
+
+Ren stepped closer, tightening his grip on the velvet collar until Greenwood began to turn a worrying shade of blue.
+
+"You should be thankful to the true owner of these lands," Ren said, throwing the noble's earlier words right back in his face with brutal efficiency. "The King. Who is making a personal visit here in a few hours to issue my Royal Seal of Culinary Excellence. And I don't have time to waste dealing with an entitled snob."
+
+Ren released his grip.
+
+Lord Greenwood fell. He hit the stone floor hard, scrambling backward like a frightened crab, gasping desperately for air. His powdered wig slid sideways across his sweaty forehead, making him look utterly ridiculous.
+
+Ren didn't look at him again. He turned his back on the gasping noble, walking back toward the hot stove to check his garlic butter.
+
+"Sylas," Ren called out over his shoulder, his tone returning to a calm, professional directive. "Take out the trash. And next time, I don't want filth like him dragged through my kitchen. Use the tradesman entrance."
+
+Sylas didn't blink at the implied reprimand. He knew exactly what it was—a secondary insult directed firmly at the man sobbing on the floorboards.
+
+"At once, My Lord," Sylas bowed.
+
+A group of elven guards entered the kitchen instantly from the side doors. On Sylas's sharp command, Kaelthos and Zairen grabbed Greenwood and his butler by the arms, dragging the protesting, blubbering men roughly out the back door and toward the gravel path.
+
+As they were hauled out, Greenwood heard Sylas issue one final order to the kitchen staff.
+
+"Clean the floors that filthy man walked on," Sylas commanded, his voice dripping with disgust. "His stench needs to be scrubbed away before the King arrives."
+
+Greenwood realized, in that exact, humiliating moment as he was dragged through the mud, that the staff had been fully informed about the King’s visit. The blue flowers, the red carpet, the empty entrance—it wasn't ignorance.
+
+It was a deliberate, meticulously designed setup to humiliate him from the moment he stepped out of his carriage. They knew exactly who he was, and they treated him like garbage right before throwing him out the back door. The plan to blackmail Lord Fenris and ruin his life had crumbled before it even began.

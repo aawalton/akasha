@@ -1,0 +1,251 @@
+---
+id: dd8574fd-2b6e-5000-8576-35f3f3647e92
+page-type-slug: story-chapter-royal-road
+title: "405 As Within, So Without [II]"
+slug: 0522-405-as-within-so-without-ii
+partOf: path-of-the-deathless-book-4-completed
+position: 522
+ownLength: 6055
+unit: words
+publishedAt: 2026-07-14
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3676874/405-as-within-so-without-ii"
+royalRoadId: "3676874"
+---
+
+This… I don’t… What is with the people in this place? Just what is happening inside Gate Piety? First the Deathless and now…
+
+Undergoing eldritch symbiosis…
+
+What… Agh…
+
+Shadow-Mine, to Chorus with you. Bump up now-Legend Uva Mettabon’s interview as well. At least John’s already on scene; saves him another trip.
+
+[Hijacking System]...
+
+[Quest Parameters Updated]
+
+—Mythic-Fatejacker [Redacted] of the Farwalker-Mysteria
+
+405
+
+As Within, So Without [II]
+
+Encounter Failed (3/5)
+
+Adjusting Legendary Skill…
+
+Applying Partial Legendary Skill Evolution: The Lurking Noostorm
+
+Uva’s mind burst open. Her Legendary evolution exploded free from her feeble threads.
+
+Ever since Uva had wielded the Jealousy in battle, an imprint of its Psychomancy lingered within her, granting her unparalleled control and a reach capable of crossing horizons. Her eldritch metamorphosis evolved that power further, making her the nucleus of a crawling, unfettered web. That impossible dexterity came at the cost of raw power, but Uva never truly noticed the limitation. She worked around it. She was always a suppressive mage, striking her enemy and disengaging, attacking and then avoiding. Direct struggles did not benefit Psychomancers, and she applied that philosophy to her lore: let Pyromancers indulge in bombastic devastation; she was the subtle blade, the slow blade, the quiet blade, that which raked with calculation and languor.
+
+She had control, and she had initiative, and for so long, she thought that was paramount above all others.
+
+But as a Legendary surge of mana tore out from her threads, shedding her previous skill like a spider molting free of its exoskeleton, Uva’s mind roared with thunderclaps of power utterly unlike the silent art of Psychomancy that had been ingrained into her.
+
+Where her mana field once resembled a dense web of hair-thin threads connected to her mind, what exploded out from her now was forking bolts like the synaptic currents within her brain—unleashed beyond the confines of her flesh and magnified by mana. In an instant, Uva went from being the heart of a spider's web to the eye of a psionic storm. Lashing currents of mana exploded out from her, forking and multiplying with every passing second. Every thought that passed through her created another surging current of mind magic.
+
+Her puppeteer strings were thin in density, like razor wire when directed in battle, but the explosive currents spawned of this Noostorm lurking within her went beyond any analogy of lightning. Each cord was as dense as titanium, while also flowing akin to water. And while her incredulity built, so too did the new storm, as her mana field got thicker and stronger, with every bolt gradually thickening to a point of no return—and breaking into three. The bolts of her partial Legendary Skill Evolution didn't just dwarf the power of the strings they were hatched from; the Noostorm spread like a raging hurricane rather than a creeping forest.
+
+Uva's Matriarch of the Enshadowed Web slithered across space and struck at vulnerable minds like swarms of snakes. Her Lurking Noostorm abided by no such weakness. It tore across the world; it multiplied in size in the span of heartbeats, its translucent mana serving as a membrane to a kaleidoscopic core.
+
+Despite all this, she retained her unmatched dexterity and control with this new imbuement of might, and Uva could imagine the skill to be nothing less than perfected destruction itself.
+
+Hymn begged to differ. “Is that the Lurking Noostorm?” His bottom lip furled out in a display of distaste. “Well, there are worse Skill Evolutions to gain. Things aren’t completely hopeless.”
+
+Encounter Initiating (1/5)
+
+Encounter 1 Objective: Capture and control Passage.
+
+The simulation trembled. The insides of Passage and the city of Weave beyond became spontaneously populated. Once more, Uva found herself in that hidden anchor at the heart of the transdimensional complex. A cascade of stolen perspectives poured over into Uva as the fears and traumas harvested from nearby minds were drawn to her like gravity. Such became the fuel for her Terrorspawn and spiderlings, and Uva’s flesh and mind chittered as the first of her swarm took shape.
+
+“Is there something wrong with the Lurking Noostorm?” Uva asked, made wary by Hymn’s response.
+
+“Nothing wrong, exactly; it's just less than ideal. But I still think we can get you to the evolution we need. On its own, I'd say the Lurking Noostorm fits you; you're an extremely offensive and asymmetrical Psychomancer who values distance, disengagement, and control. The problem right now is with your legend. Your Psychomancy has almost been solely defined by conflict. As Within, So Without requires a substantial commitment to architecture as well. You need to be building mindscapes—bridging different consciousnesses together, or creating other great works of mental architecture that mirror and reflect the actual world. Simply put, you need to be able to achieve a simulation of reality within the mind. And you’ve never had the chance to do that. Even if you ask the Delve to reconstruct your current skill, it likely can’t offer our desired outcome because you simply don’t have the foundations required.”
+
+“Then I suppose I must build that foundation within this Delve,” Uva declared.
+
+“Glad you catch on so quickly. Now, the good news: you don't need to spend months or years inside this Delve trying to learn the fundamentals of psionic architecture from first principles.”
+
+“Because you're going to teach me?”
+
+“Because I'm going to show you how to cheat. Now, I'm sure you are familiar with the concept of core memories: every mind has things they can cling to, things they don't let go of. Engraved so deep in their memory, it's practically steel amidst the mist and water of their near-term recollections. Those are the pieces you should harvest as resources, and the best thing about them is that they're renewable. You can take one core memory from one mind and apply it to another so long as your Psychomancy is controlled—which yours is—and so long as the minds are bridged, which you can do.”
+
+A light went on inside Uva's mind, and at the same time, her Noostorm’s bolts grew brighter as well, becoming conduits expressing her sudden enlightenment. “You want me to use these core memories as pre-fabricated constructs?”
+
+Hades snapped his fingers. “You don't need to dream up an entire ecosystem, or location, or a building, or a person. You can populate a mental world using the people you've psionically farmed and the memories you've harvested. This technique also confers a strategic and ethical advantage for you; you don't even actually need to shatter anyone's ego anymore. You can simply trap them in this mental realm, and if you make it nightmarish enough…”
+
+“The metaphor of the farm becomes quite literal because they become renewable assets of trauma and nightmare.” In a scant few moments, she had gone from being in awe of her new skill to disappointed, and now confident in what she needed to do. But though her path toward that eventual Skill Evolution she required was clearer than before, she still had other quandaries she couldn’t overcome. “But what about Adam? And the Composer? How is he only the third encounter?”
+
+“Because he's actually pretty easy to deal with if you think about it.” Hymn shot her a look and waited, allowing her to ruminate on potential solutions.
+
+Uva descended into her own discomfort and realized where this was going. “It wants me to literally capture the city, to turn Weave against Adam, using everyone as an instrument. That's why it provided me with Legends vulnerable to Psychomancy.”
+
+“That is one solution.” Hymn shrugged. “I suspect you'll figure out a few others as you adapt to your current skill. Again, the Lurking Noostorm is an ideal skill for you—and you currently have no idea of the power it can provide. But you'll learn, and you'll understand, and you'll realize that you need to adopt a different mindset when facing someone like Adam Arrow. Your standard modus operandi has crippled you. You cannot play the idle web-bound spider when you're being hunted by a hawk. You must turn and strike first—build up your resources and slay him in an instant. You know where he's going to come from. You know what accompanies him. Patience is not hesitation, and the rules always change. Don’t be stiff.”
+
+“Don’t be stiff,” Uva echoed, letting out a breath as she mustered her focus. Bands of psionic lightning crawled out from her mind, becoming a fractured web of storm-stuff rather than faint strings reaching out to brush easy prey. “Very well, then. Let’s begin.”
+
+She began this attempt as she did the last, casting a single limb of translucent mana out to strike a nearby mind. But where it took almost a dozen strings to breach the Magical Resistance of the Adept she'd ambushed, a single branch of forking mind magic impacted the same individual and broke their resistance like a hammer descending on a glass figurine. She cleaved into the inner recesses of their mind in the blink of an eye and found herself further invigorated as she stole away their thoughts and mental essence as additional energy for her raging storm.
+
+It was one bolt of lightning that struck the Adept. It was three bolts that exploded out from them. An avalanche of lightning built as Uva’s mana field crashed through vulnerable mind after vulnerable mind, not only shredding through the defenders but also using them as sources of magical propagation. Uva's Noostorm tore through the halls like the hurricane that it was, an ever-swelling tide that swallowed more people with every moment. Instead of needing to rend their minds asunder, she simply confined them, wrenching away their perception and entwining it with their subconscious.
+
+A series of seizures rippled through the defenders of Passage, and with each victim trapped in her growing web of lightning, Uva gained new renewable conduits to generate more Psychomancy from while keeping them alive to harvest other resources from at the same time.
+
+“Oh, Composer,” Uva gasped. With every mental blow she inflicted, a shudder of invigorating energy tore into her.
+
+“And now you're starting to get it.” Hymn grinned. “Your metaphor is lacking. You're not just a storm. You're a storm of storms, a propagating storm, with every mind you touch becoming a smaller storm that you can wield. Congratulations! Now enjoy building your own generator network and turning all that lightning on the unfortunate pylons-to-be.”
+
+Uva didn't reply. She was caught too deep in the fervor of enjoying her new skill. It would be a shame to lose this evolution. It felt right, it felt proper, it felt like her in every aspect. But Adam needed something else, and so sacrifices had to be made. But until that sacrifice arrived, there was nothing wrong with having a little fun, was there?
+
+It took twelve minutes to engulf the entirety of the massive complex that was Passage in a psionic storm. The defenders there barely had a chance to rally. Even the strongest of their number fell when Uva concentrated the forces rooted to her mind. She didn't even need to apply strategy at this time. Only power. Overwhelming power.
+
+Although Uva would liken herself to a typhoon, with the full might of her mind attached, she would build into a storm capable of uprooting entire buildings and flinging them beyond the bend of the horizon if things continued.
+
+Everything she did bestowed her with more power. Every being capable of thought became a sub-storm she could command, and that applied to more than the Umbrals and Weaveresses she held in chains of psionic electricity. She stole away their traumas, created spiderlings to use as extensions of her flesh, but from her lightning there came her Terrorspawn, and they proved a paradoxical asset, for they too were capable of their own thought, and as such she latched on to them as well.
+
+The mana they produced was far inferior to an intelligent creature, but every little bit mattered—and ten thousand little bits became a formidable storm all its own.
+
+And then there was the lurking aspect of her skill. Her new mana didn't just leap like bolts of lightning; it flickered like them as well, and she seemed to be the only one capable of hearing its resonant thunder. For other mages, even Psychomancers, her mana proved hard to track, and her network of storms was maintained in constant high-frequency bursts rather than thin and fragile wires that could be severed.
+
+Uva didn’t even need to kill the Legendary Weaveress normally in charge of Passage physically as she did last time. With twin Legendary skills in Dimensionality and Magical Resistance, the only thing Uva could exploit without diverting a critical amount of resources to overwhelm the Weaveress was using alien geometries to tear into her soft flesh.
+
+Not so much this time. Instead, Uva simply bombarded the Weaveress with all the lightning she possessed—and with every other mind aside from that Legendary Weaveress in a building multiple times the size of Blackedge captured and repurposed, that was a great deal of lightning, indeed.
+
+Even so, it was a testament to the Weaveress's Magical Resistance that it took a full minute of continuous, unceasing bombardment of Psychomantic electricity to bring her down.
+
+All Legends were monsters. Even those bearing generalist skills.
+
+The city of Weave fared only a little better. It took two hours to move over to a critical state of collapse, but unlike last time, her conquest became a straightforward affair. She still needed to be strategic about her targets. No longer was she forced to create crisis after crisis, engineering a series of collapses to take shape across the city so that she could pick off the defenders one after another. With every mind she colonized, she gained their thoughts as fuel. She gained their thoughts as electricity, and her storm grew larger and larger until she became something that devoured entire portions of the city-state.
+
+When the defenders realized something was terribly wrong and tried to form a defense, it was too late. Uva was more than herself. She was a concert of calamities, and she brought her overwhelming light down upon the last vestiges of resistance—before drowning and sealing away their egos as well.
+
+Uva followed Hymn’s instructions, harvesting core memories and saving away nightmares and traumas. All of Weave was enwreathed by translucent storms, leaving afterimages of incomprehensible, shifting colors with each flash.
+
+As the literal city fell, a psionic city was constructed from the minds of its conquered inhabitants—and to make things simple, she based it on Weave, creating a near-perfect replica in little time since she had all the necessary memories and references already in place.
+
+A sigh escaped from Uva as her lament grew. “It's just a shame I have to surrender this skill. This evolution is remarkable. Truly potent.”
+
+“I told you you would appreciate it,” Hymn replied. “But for all the benefits it confers, the standard Psychomancy weaknesses still endure. Uncommon intellects are still beyond our ability to influence, and the physical world is untethered from our power. I suspect you'll grow to like As Within, So Without. Being able to project aspects of your mind upward effectively circumvents a great many weaknesses you have. Imagine fighting a foe who can project the mental onto the material while the rules of Psychomancy still apply. Quite the power, isn't it?”
+
+It did sound that way, but there was something Uva couldn't quite shake. “If it is quite the power, then why didn't you try to gain it? You said you traded might for more insight, but you don't strike me as the type to turn away from such an absolute advantage. For such a specialized power, for such an extreme expression of Psychomancy that goes beyond being merely an art of the mind, what is the price?”
+
+Hymn’s lips curled in a half-smile. “For one, I am not pacted with the Dreamtaker. I have no capacity to evolve this skill because I cannot bring the realm of dreams into reality. You, however, are most well-positioned to inherit such a skill—if we can shore up your lacking legend.”
+
+But he was holding something back. Uva could feel it in her bones. She narrowed her eyes at him. “What aren't you telling me?”
+
+“Relax, girl, I'm not trying to sneak up on you or anything. There's no devious plan on my part to use you as a sacrifice. It's just…” He gave a noncommittal shrug. A little too noncommittal. “It takes a little bit of getting used to, as all skills do. As it is an entirely abnormal Legendary skill, due to being touched by the Outside and diverging from the rules and norms of Psychomancy, the way your mana stream works and how your mana usage affects you is also rather peculiar.” Uva's stare became unblinking and intense, and after a few seconds of uncomfortable silence, Hymn rolled his eyes and sighed. “It's not such a big risk with you, but since you are projecting an externalized representation of your mind over the world, or more often, someone else's mind over the world, to use as a mental material resource, any damage it sustains usually causes… well, mental damage.”
+
+Uva pressed her lips together so hard that she came close to forming a diamond from sheer nothingness. “Following that logic and taking this to its conclusion, doesn't that mean using the skill in active combat will make me vulnerable to brain damage when this… eldritch psionic matter I project is destroyed?”
+
+The Headmaster hesitated as he thought of a way to spin his elaboration. “Well, as I said before, it doesn't exactly need to be your mind. You can kidnap one of your enemies and use them as mental ammunition. They can suffer the brain damage on your behalf. Very convenient.”
+
+Somehow, that felt even less ethical than enslaving her foes.
+
+“Oh, climb down from your throne of purity,” Harkness groaned within her. “Is that so different from how your current skill functions? You are literally using the populace as mana-amplifying lightning rods.”
+
+“It's different. It's extremely different! It's different because I'm not destroying their minds. I'm simply trapping them in nightmares and confusing scenarios so that they stay incapacitated and don't die. I can release them afterward if I so choose or strike them down if I identify them as an unacceptable threat. I am not literally ripping pieces out of their mind and flinging them at my enemies and reducing them to brain-dead vegetables!”
+
+The rogue Owl snorted like an annoyed grandmother. “Of course, my mistake. Truly, your grasp of ethics exceeds anything I can comprehend. It is absolutely righteous of you to continue harvesting eldritch terrors from the nightmares and psychological scars of your victims. That's not enslavement at all. Instead, it is pure objectification. You've rendered them a resource. What tremendous wisdom and strategy to categorically avoid one sin by performing an even greater act of degradation.”
+
+“Your judgment is of no worth to me, Owl,” Uva spat. “Be of service, or be silent.”
+
+Harkness just laughed. “Spoken like a true noblewoman, oh daughter born of cattle-slaves.”
+
+Throughout the argument, Hymn's mouth fell slightly agape as he regarded Uva with a fascinated look. “You know, she does actually have a point.”
+
+“What? You're agreeing with her?” Uva's left eye twitched—and then her right.
+
+“Oh, don't misunderstand. I still think she's a boring, arrogant idiot, but you're not troubled by what you do at all, are you? Actually, you haven't been troubled up until very recently, despite ripping into the foundations of your foes’ minds and hearing them beg as you made them kill their friends.” Hymn noticed the coldness in Uva's gaze and held up his hands casually. “This isn't judgment, and I don't think your personality is psychotic at all, nor is it sociopathic. No, you're just very good at compartmentalizing and justifying things to yourself. Aren't you?”
+
+The Umbral struggled to contain her annoyance. It was bad enough that Harkness was harassing her over this. Now Hymn was mocking her too. Neither of them was a beacon of moral virtue.
+
+“Oh, indeed, far from it.” Hymn chuckled, waving her off. His Psychomancy-Divination Skill Fusion once again proved as intrusive as ever. “Again, I am not judging your virtue. My hands are painted black with blood. And I do mean black. My primary victims are Fingerlings, after all. Fingerlings, other Outsiders, and fellow Seekers I find distasteful. But reaching into someone's consciousness and wrenching it, hearing them beg you to stop, that didn't even bother you until your experiences in the Fairwoods. In a way, I guess this makes you the ideal Psychomancer, not so cut off from emotions that you're blind or pointlessly cruel; not so sensitive that you're affected by every other thought you interface with.”
+
+Uva huffed. “Now I can't tell if you're trying to compliment me or insult me.”
+
+“Neither. Both. And it doesn't matter, really. Frankly, it doesn't matter if I'm judging you or anyone else is judging you. You have your own things to sort out: your own ignorance, your own values, your own code. Or maybe you'll forgo all that and just go with your feelings. There are no rules anyway. And beneath the heel of the System, none of us matter. Nothing we want matters. It's just that we fight, we struggle, and then it laughs at us as the fruits of our struggles are stolen from us, and no true resolution follows. Live how you will. Live how you want. And on that point, I agree mostly with your current pursuit of higher ethics. It's a terrible thing to steal someone's agency away from them.”
+
+But then his expression hardened. “But a word of advice from someone old—who's learned, regressed, and then re-learned the same lessons over and over again: You should be flexible. Your ethics shouldn't be like stone. Things change all the time; cultures change, people change, you will change. Trying to cling when there is no reason to cling will see you torn apart from the inside out. I'm not saying you should be a slaver. I'm not saying that this pursuit of yours will end in failure. What I am saying, however, is that you must know when to break your own rules, and when to step over the line.”
+
+Uva considered it for a few moments, but then she frowned. “But if one's values are so easily broken, then how can they be values at all?”
+
+“Because values are demonstrated through actions and reinforcement. You perform your values over and over again. It's the same thing with culture, though they can change, and you can relapse or fail. But failure is common. Hypocrisy is common. It is not absolute. You will fail many times. You are failing many times right now. You are likely going to fail a few more times before you achieve your desired Skill Evolution. You will likely humiliate yourself and shame yourself when you are trying to become someone new, when you are trying to discover what your better self looks like. But that's just the thing: behavior determines who you are. Not a single moment, no matter how grave; what defines you is repeated behavior, consistent behavior. So, if you absolutely must take hold of someone's mind and force them to do something against their will, you should feel bad about it. You should regret it. You should lament doing it and process it, but when that's done, you should accept it as what it is: an outlier, a one-off. Keep your behavior consistent, because just as you can fall off the wagon, so too can you climb back on.”
+
+And like a black cloud, Uva's animosity was parted, and she looked upon Hymn with new eyes. “He really shook you with this Harbinger, didn't he?”
+
+“Yes, but this is more than the Deathless. He's reminded me of something. I've been here before. I've been this miserable. I've been this lost, and I've broken out of the story. I told myself that I was special somehow. That this mattered. That I would prevail. These glimpses of what the world actually is, what the System actually wants… The problem is, even if I am a Psychomancer, I sink back to my own mind. My behaviors—our behaviors—are more than just who I am. They're also cages. They are narrow paths, and we sometimes forget that we can shape them, that we can take a turn. It doesn't always need to be straight.” A self-deprecating smile spread across Hymn’s face. “I've taken turns before, but walk forward long enough, and you will forget that taking another turn was ever an option. Ah, I'm rambling—”
+
+“No, no, I understand. At least I think I do.” Uva’s mind parted in several directions at the same time. The bulk of her consciousness continued creating a psionic replica of Weave—hosted via the collective minds of all her victims. But behind a wall she built and warded, a part of her considered the problems she had been avoiding for far too long. As Hymn said, she was good at compartmentalizing—but whereas that was a useful skill in combat, it simply delayed things she needed to resolve in her personal life.
+
+She'd barely spoken to Tulveg. The thought of confronting the supposed lover of her mother made her blood curdle, made her skin crawl, but ultimately she didn't even have anything against him as an individual. In fact, he seemed to be morally upright, not only for a vampire, but for a person in general. How he ever managed to get inducted into the First Blood was beyond her imagination. Yet there was something between them over his mother. She didn't want to think of her mother as anything less than perfect. Anything less than the ideal Sister of the Order and faithful worshipper of the Composer. But Tulveg wasn't lying. Uva knew this. She could sense lies, and so could Shiv. The vampire at least fully believed he'd been in a relationship with Uva's mother, and he loved her deeply. Even if it was an implanted emotion or delusion, he felt it, and that feeling burned strong even now, after all these years. When he was in her presence, he stared at her unnervingly, a vestige of what he felt toward her mother now inherited, if in a different shape than before. She didn't want that fire, but it wouldn't go away until she faced it—wouldn't go away until she came to terms with the fact that her mother might not be the perfect sister, the perfect subject of her Lady Arachnae.
+
+I don't want to lose that idealization of her. I don't want to lose what she was to me.
+
+“For what it's worth, and I apologize in advance for listening in—my skill doesn't allow for ignorance—but I am jealous of you, and I'd rather you not lose that utopian vision of your mother, either.” Hymn seemed entirely genuine. “I wish I had someone like that, or at least something like that, to cling to. I might be a healthier person right now if there was a guiding light to my life, even if it was tragically stolen away from me, but I don't think she committed any great sin from what I understand. It didn't seem like she was planning to betray your city or your goddess. At the worst, she simply succumbed to a forbidden romance: a widowed Umbral and traitorous vampire. It’s a far lesser taboo compared to something truly vile.”
+
+“I know,” Uva said through clenched teeth. “I know logically; it just feels wrong. It's prejudicial, but like you said, with behavior after a lifetime of hunting, fighting, and treating the Bloodspawn as enemies when one or two arrive seeming like normal people... It's like a shadow clings to them.”
+
+“Unsurprising. But you should try. After all, how did you think and feel about surfacers, especially those from the Republic, before a certain Deathless and his red-haired friend came wandering into your home?”
+
+Uva really didn’t have a good retort for that.
+
+“But honestly, I think Tulveg is your lesser concern. If I were you, I'd need to ask the truly painful question of what I'm going to do about Hawgrave.”
+
+And there was the second looming problem Uva was avoiding. The Giantsbane. Grandmother to the man who'd supposedly murdered Uva's mother. Lapdog to the Yellowstone Republic's true sovereign: Legendary Councilwoman Veronica Chandler.
+
+But also not quite; Jessica was slowly being turned. She'd been spending time with Shiv; she seemed to actually like him as an apprentice, and the feeling was reciprocated. Though Uva had made things clear about where they stood, she had to admit that Jessica wasn't that vile of a person. She had flaws, deep and severe flaws, but they ultimately just made her seem more human.
+
+That didn't change what her grandson did. That didn't change what Uva set out to do. What Uva long dreamed to do.
+
+Hymn cleared his throat. With a thought, Uva quickly cleared the last of the defenders and began stitching a perfect mimicry of the Composer’s cocoon. “I have another question for you, Uva: What happens if there is no catharsis at the end of this journey? What happens if you become like me? Someone steals the ending of your story from you. What then?”
+
+“It doesn't matter. He killed my mother. He must face me. He must face me and tell me why.”
+
+“And what if he's just a scared child who got lucky, or what if he's just pathetic, just a dog of the Republic—and he can't even remember her face? What if he's a nervous wreck and he thanks you for coming, since death would be a relief, and he asks you to make it quick? Or what if he's already dead? What if there's no ending to the strife brewing inside of you? Because that's how I feel right now, and I have a feeling that you won't be too much different than I if that happens.”
+
+“It won't happen. It won't. The System favors me. I know I can't defeat Jessica right now, but the tension exists in the System—and I can feel it manufacturing a coming conflict between me and her for the life of her grandson. I can feel it. I can see it. And I will confront him. I must.”
+
+The sheer fervor in her voice as she spoke those words made Hymn stop pushing.
+
+Just in time, for the second encounter came to an end once more.
+
+Encounter Complete (2/5)
+
+A tremor exploded through her, and her Noostorm responded in kind. Every bolt of lightning connecting her came alive with power, and all of Weave was drowned as a thousand threads of crashing Psychomancy whipped up toward the Composer's cocoon. At the heart of the city, a new web crisscrossed, a new, apocalyptic web born of ten thousand different storms born of ten thousand compromised minds and converted into a single concentrated attack.
+
+This was the single crudest and single greatest spell Uva had ever channeled. There was no shaping, just a pure expression of her intent unleashed. The moment the third encounter loaded, Adam descended—and was promptly struck from all sides and consumed by a singularity of lightning.
+
+Encounter Complete (3/5)
+
+A second later, Adam's body fell out of the sky like a dead pigeon rather than a flaming hawk come to deliver retribution. His obliteration was so quick and complete that nothing remained of his consciousness. Not a single speck of thought escaped his hollowed mind.
+
+A series of low notes escaped the cocoon, and the totality of Weave vibrated, but there was no one to deliver the Composer's judgment.
+
+Uva was rendered absolutely speechless. Even after gaining a partial Legendary Skill, she'd still expected a fight, some kind of struggle, but she cut Adam down like he was nothing at all. Not her alone, but this entire city and all the Terrorspawn. She tapped into every bit of thought within this place; it was hers to command, and she was more than a storm. She was a storm of storms. She was the eye, she was the will, and she was the hammer that fell.
+
+The Delve made it easy for her, shrank down the population, reduced the opposition to something manageable. Not every single Hero and Legend that Weave had to offer had been simulated here. But with the magic she now wielded, a notion inside Uva broke. For most of her life, she'd thought herself capable, competent, reliable, but never truly gifted. Never a great talent that would wield powers capable of matching entire magi formations. She'd learned to be fine with that and dedicated herself to service years ago, seeking only to reach the ceiling of her potential.
+
+The System's favor had changed her fate. It had broken that ceiling she was destined to languish beneath. Her potential wasn't to be bottlenecked at Master-Tier anymore, or perhaps Heroic-Tier if she were lucky enough to survive multiple centuries.
+
+She was Legend now. For the first time, she truly felt it: that she was a great power, that she had been a great power for some time, and even if she wasn't the grandest of intellects or the most naturally powerful of mages at the start, she was someone entirely different now, someone without limitations, without end.
+
+Her metamorphosis had only been eldritch at first, transforming her soul, her skills, her flesh. But now, philosophically, something inside her opened up. Between the words of the Headmaster, her own thoughts, and what she just achieved, something within her blossomed. Something made her willing to imagine who she might still become instead of grounding herself in assumed reality.
+
+“There it is.” Hymn gave a single laugh. “You didn't give him a chance at all. I told you you would find a way, and I knew it would be overkill. If you let him get a single shot off, he would kill you. You're not that durable on your own, especially against someone who always knows where you are, who can strike at your soul directly. You need more Magical Resistance, but the same goes for him as well. That armor of his isn't imbued with enough, and even if he's a Legend, I suspect no one we know aside from Hawgrave can take more than a few hits from all that lightning. Well, no one but—”
+
+Initiating Encounter (4/5)
+
+The fourth encounter commenced. Uva didn't hesitate before unleashing all her mana once more. The electricity she had been building up was diminished, her storms sapped after she'd unleashed every last bit of her might on Adam. There was one thing about her current skill: the magic she used was burned up and quickly replaced thereafter, but there was always a period of rest and reconstitution before she reached her previous height of power. The initial bolts she flung this time were thinner, weaker, but still considerable, still enough to shatter Master-Tier Magical Resistance like glass.
+
+But a song, loud and wrathful, echoed out from the Composer's sanctuary, and its bottommost webbing burst apart in a column of plunging flame. Flame so dense and bright that it fried Uva’s lightning. Flames of glittering gray—the kind she'd only seen one person possess.
+
+Uva realized who she was fighting in an instant—and so did Hymn.
+
+But instead of a whole and complete Shiv, what fell was a massive shape, something that dwarfed entire buildings, that resembled a mess of injuries stitched together. A rolling landslide of collapsing buildings and ruined edifices crumbling and flowing, creating a titanic emulation of the Deathless’s form.
+
+A strange version of Shiv fell, wrapped deep in his Garden of Wounds and Broken Things. But rather than being wrapped in gold and dancing across time using his Harbinger, this Shiv let out bellows of incoherent and monstrous rage. And as she glimpsed his mind at the heart of the shifting nest of ruin engulfing him, she realized he sported the mind of a Tarrasque—and there would be no bringing him down through subversion at all.
+
+Encounter 4 Objectives: Survive for 5 minutes.
+
+“Fuuuck,” Uva groaned.

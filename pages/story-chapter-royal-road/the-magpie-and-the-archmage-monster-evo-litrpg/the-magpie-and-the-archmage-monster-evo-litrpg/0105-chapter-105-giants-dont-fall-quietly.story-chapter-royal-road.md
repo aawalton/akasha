@@ -1,0 +1,171 @@
+---
+id: eb53e471-7837-512a-a92a-b589d573d8a3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 105 – Giants Don't Fall Quietly"
+slug: 0105-chapter-105-giants-dont-fall-quietly
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 105
+ownLength: 2218
+unit: words
+publishedAt: 2026-04-03
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3225323/chapter-105-giants-dont-fall-quietly"
+royalRoadId: "3225323"
+---
+
+Liora flew back to Morgana and explained the situation to her.
+
+"I think it's obvious we go for the dispersed giantesses first. If we're lucky, we might be able to take them out before the others notice. If that's the case, then we head for those by the stream next, and only after that do we tackle the cyclops itself."
+
+Exactly as Liora thought.
+
+"Here's a tip for your birdy. Go for the ankles. These giants are already rather clumsy, but if you get their ankles, they'll be pretty much helpless," Morgana said.
+
+Liora nodded. She flew high up, not quite as high as before, but just enough not to attract attention to herself. She positioned herself right above one of the giantesses in the forest, and Morgana, with her crew, slowly made their way there.
+
+As Morgana raised one of her pistols, Liora got ready to strike. She shot, striking one of the giantesses straight in the ankle, making it instantly crumple to the ground. Donovan and Nord instantly followed up, with Donovan attacking first with his lance, while the monster was still down.
+
+Meanwhile, another giantess nearby noticed the scuffle and dropped its makeshift leaf basket to the ground to rush to the other giantess' aid.
+
+[Jungle Giantess]
+
+The name was written in bright red. Normally, Liora would never dare to fight such a powerful foe, nevermind a whole party of them. But she was together with Morgana and Cee. All Liora had to do was contribute to the battle in any way she could.
+
+Her first move was her favorite. Liora took aim at the giantess rushing to its friend's aid and dropped. The fact that Liora was bigger now meant that her Skypierce could leave a much stronger impact, not to mention all the boosts provided by glimmerstones.
+
+She had expected to do a decent amount of damage. However, when Liora collided with the giantess's ankle, all of her lower leg came clean off, and she went down with a horrid scream of pain.
+
+Wow… that's scary. These giants have rather tough skin, you know.
+
+Skypierce is meant to deal maximum damage in a concentrated area.
+
+Liora flew back up, although it was actually rather difficult to maneuver through the jungle in her large bird form. She wished she could just switch to her magpie form. As a magpie, these kinds of tree-filled areas were her favorite.
+
+While the giantess wailed on the ground at her injury, Liora used [Poison Shot], directing the nasty sludge exactly at the severed stump. She would let the poison take care of this one.
+
+The third giantess that was foraging in the forest was running in Liora's direction, pushing trees out of her way as if they were matchsticks. Its eyes were filled with rage, and as she screamed, Liora felt the sudden urge to fly and attack her.
+
+[You have been taunted. You may only attack the monster that has taunted you.]
+
+What kind of weird affliction is this?
+
+Taunt. It's used by defensive classes to draw enemies to them. Finding this skill in monsters is rather rare. I suppose this giantess developed it to protect the cyclops.
+
+Liora didn't like this feeling one bit. It's almost as if something had taken over her body and urged her to attack. It was annoying. She didn't want to be controlled by a damned affliction.
+
+Peeved by this, Liora Faded and decided to test how this giantess enjoyed being blind. With a quick swoop, she flew close and Lunged at the giantess's eye. It screamed and tried to slap Liora with its giant hand. But she activated Featherflash, completely blinding the giantesses and safely avoiding her hit.
+
+Ha! These things are so slow! They have no chance against the mighty Liora.
+
+You are well-adapted to deal with slow enemies.
+
+As soon as Liora came out of the mote state, she flew high and used Skypierce, aiming for the blinded giantess's ankle once again. This one turned out to be tougher than its brethren as its leg remained attached—just barely. Nonetheless, the monster went crashing down to the ground.
+
+In the meantime, Donovan and Nord had already finished off the first giantess and were heading for the one Liora had Skypierced first. It had pulled itself into a sitting position and pulled a nearby tree out, swatting it around like a giant club to keep others away.
+
+But it wasn't a problem for Morgana. She shot bullet after bullet at the giantess, hitting her again and again. At first, it looked like her bullets weren't even making it through the giantess's skin—merely striking and fizzling out. However, as more bullets connected with the monster, some kind of aura was forming around the giantess.
+
+Its movements grew slower and slower, until it looked like literal sparks were crackling from the monster's skin. At that point, Morgana switched her pistols.
+
+"Bye-bye!" Morgana grinned.
+
+A laser-like shot came from the pistol and struck the giantesses. The sight was… gruesome to say the least. When the laser connected to the giantess's chest, there was a horrible, deep wound, and out of it crackled lightning which spread through the monster's body and basically charred it to death.
+
+[You've assisted in defeating <Jungle Giantess – Level 40>. Experience gained.]
+
+The blinded giantess soon followed the same fate. Unable to see, it thrashed around wildly, while Nord and Donovan danced around it with their weapons, striking whenever the opportunity presented itself. That, combined with Morgana's bullet and the blood loss from the leg injury Liora inflicted, quickly brought its life to an end.
+
+[You've assisted in defeating <Jungle Giantess – Level 43>. Experience gained.]
+
+[You've reached Level 27.]
+
+Oh, oh, oh! It's my favorite time!
+
+Liora flew straight at one of the dead giantesses and, using her Treasure Sense, began digging out all the glimmerstones from its body. Five, ten, twenty, forty, fifty-five. A single giantess had as many as fifty-five glimmerstones. Liora was in heaven.
+
+Without hesitation, she had dug glimmerstones out of the other two dead monsters.
+
+"I hope you intend to share," Morgana said, walking up to Liora.
+
+Aww… I hoped she wouldn't ask.
+
+Be nice. It would have been much tougher to defeat these giantesses on your own.
+
+I feel like I could have done it, though.
+
+Yeah, but it wouldn't have taken a lot more time. They are tough. It might have seemed like an easy kill, but remember that Morgana and her team are incredibly strong and experienced.
+
+"I'll share…" Liora said. She counted thirty-three glimmerstones for Morgana, Donovon, and Nord each, keeping sixty-six for herself. She would give Cee's share later when they met up.
+
+"Okay, we got the goodies. Let's keep moving. I think we've alerted the other giantesses," Morgana said.
+
+Liora flew back above the tree tops to see the ongoing situation in the main cyclops camp. Surprisingly enough, the cyclops looked just as bored as before while the giantesses were looking suspiciously into the jungle, making hand gestures at each other.
+
+They had noticed that something happened, but clearly had no clue what. One of them, the biggest giantess, seemed to take charge and pointed at various things at the camp. Other giantesses obeyed and either raised a crude fence, made from large wood pieces that were barely holding together, or grabbed a giant club as a weapon.
+
+Liora doubted whether those fences would help them with anything, but when they kept sticking them into the earth one after another, she saw that it had turned into a wooden fortress of sorts. It wasn't a good fortress, but it was compensated for by the size of the fences. As flimsy as they were, a human wouldn't be able to easily get past them.
+
+She didn't know what to do about that. She certainly wasn't strong enough to destroy them. Could Morgana destroy them? Liora certainly couldn't defeat all those giantesses on her own.
+
+But then she noticed Cee jumping up on one of the fences, hurriedly setting down a web, and then jumping to another one. All done out of sight of the clumsy monsters.
+
+Clever spider.
+
+I'm kind of excited to see this.
+
+Warn Morgana. Wouldn't want her to be caught in the blast.
+
+Liora Faded and flew down to Morgana, warning her and her teammates of Cee's plan.
+
+"We wait for the spider's move," Morgana whispered, and the two men nodded.
+
+Liora took off to the skies to watch the spectacle. She wasn't a moment too late. Just as the giantesses had finished setting up the giant fence and had all taken up clubs, Cee allowed her ritual web loose.
+
+BOOM!
+
+A neat row of explosions detonated on the fences, sending wood flying all over the place and making a clear path into the cyclops camp. Some of the giantesses got hit by the flying logs, albeit it did nothing more than confuse them for a second, rather than do any actual damage.
+
+The moment the path was clear, Donovan and Nord rushed inside, each heading to deal with the nearest giantess. Morgana was right behind them, shooting her bullets in a crazy barrage, likely trying to confuse the lumbering monsters.
+
+Liora took the opportunity and dove at one of the giantesses that got hit by a log, striking it with Skypierce at the fragile ankle. However, this one turned out to be tougher than the giantesses that had gone foraging. While her hit was enough to force the monster to its knees, it didn't inflict nearly as much damage.
+
+It was still a nasty injury, bleeding everywhere. A moment later, the giantess let out an angry snarl and got back to her feet.
+
+The ones in the forest must have been the weakest of the group. I think giantesses in the camp are high-level and more experienced in battles.
+
+That doesn't make me happy.
+
+Nonetheless, Liora did her best and aimed Poison Shot at the injury, hoping that perhaps it could slowly diminish the monster's health. The attack connected, however, another giantess meanwhile jumped high up in the air and tried to grab Liora.
+
+Obviously, it was easy to dodge the monster, but she never expected something so massive to be able to jump so high. When the giantess fell back down, the ground shook with such ferocity that the shockwave nearly knocked Nord and Donovan off their feet.
+
+Liora feared that the monsters they were fighting would manage to strike them. But two things happened at once. Morgana pulled out her second pistol and shot both giantesses her teammates had been fighting. Cee detonated another one of her webs, which had been laid near the two monsters.
+
+It wasn't a direct hit; however, the rocks and soil that flew in every direction caused enough confusion for Donovan and Nord to put a safe distance between themselves and the monsters.
+
+"Cee, on me!" Liora cried out, flying down to some of the remaining fences. She decided to add more mayhem to the confusion, but didn't want the spider to accidentally get caught in the attack.
+
+Thankfully, Cee got the gist and jumped on Liora's back. Liora then turned towards the monster and unleashed a fully powered Wind Blast. It's been a while since she actually used this skill without combining it with Purify.
+
+For a second, she had considered combining it with Poison Shot to cover the whole place in toxic fog. But that would make things harder not just for her teammates, but herself as well. Her Poison Resistance trait wasn't high enough yet to withstand her own poison.
+
+The powerful gales of wind actually did a great job of sending some of the loose logs flying, striking at some of the giantesses and even knocking them off their feet. One of the smaller logs went flying towards the seemingly unresponsive cyclops and struck him in the head.
+
+"Take that, you lazy lout!" Liora cheered.
+
+All the giantesses froze and stared at the cyclops. Some took fearful steps back, while a few were noticeably trembling.
+
+Cyclops turned his head lazily, finally taking in the scene before it with his one huge eye.
+
+Morgana, Nord, and Donovan used the opportunity, and all struck at one of the giantesses. Donovan cut one of its ankles with his lance, forcing it to the ground. Nord slashed with his sword, creating cuts and bruises on its skin. Sadly, it was too tough for him to cause any significant damage.
+
+But Morgana, meanwhile, loaded something into her gun and shot. A bullet came out of her pistol and began expanding rapidly, growing to the size of a cannonball. It struck the giantess in the head, killing it instantly.
+
+[You've assisted in defeating <Jungle Giantess – Level 50>. Experience gained.]
+
+"Yes! One down!" Cee cheered.
+
+But their cheers were short-lived as the cyclops slowly got up to his feet. He opened his mouth and bellowed in a low, reverberating voice. "Incompetent fools! Can't even deal with a few pests."
+
+The cyclops then clapped his hands together, creating a loud booming sound. As he pulled his hands apart, many tiny rocks formed in between his palms, rapidly growing in size.
+
+Before anyone could react, the rocks, the size of footballs, shot in every direction, including straight at Liora and Cee.

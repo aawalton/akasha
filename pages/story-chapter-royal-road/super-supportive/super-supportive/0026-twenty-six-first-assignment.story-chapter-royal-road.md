@@ -1,0 +1,681 @@
+---
+id: f9e8ce50-8692-5fa6-b5f7-7dd488d0ac8e
+page-type-slug: story-chapter-royal-road
+title: "TWENTY-SIX: First Assignment"
+slug: 0026-twenty-six-first-assignment
+partOf: super-supportive
+position: 26
+ownLength: 9675
+unit: words
+publishedAt: 2023-03-27
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1149536/twenty-six-first-assignment"
+royalRoadId: "1149536"
+---
+
+Alden froze, one hand gripping the strap on the goggles. The timer display was positioned right over Boe’s forehead, ticking down.
+
+48, 47, 46, 45…
+
+Later, he’d be glad his brain didn’t waste any more time than that. Instead of freaking out, getting excited, or going into denial, his first thought was I can’t have my return teleport drop me in the middle of this lobby.
+
+“I need to get to the basement!” he shouted, turning and sprinting for the elevator.
+
+“Shit,” said Boe.
+
+“What’s wrong?” asked Jeremy.
+
+Gorgon hopped up from his seat and hurried after Alden.
+
+“I got summoned.” Alden pressed the elevator button repeatedly, like that was going to make the door open quicker. “I can’t just pop back up in front of people.”
+
+The System wasn’t going to do something horrible like splice him with another person occupying the same space. And it wouldn’t drop him back in a lethal location if, say, he ever got summoned away from a ship or a plane. But it would be happy to dump him into a crowd full of onlookers who would all be pretty interested in how he’d gotten there. They would all immediately think, Hey, maybe this guy is an Avowed.
+
+He could always lie and say it was a return from visiting Anesidora, but if he was wearing a weird outfit and he smelled like an alien bomb laboratory it wasn’t going to hold water. He’d have to go ahead and register, and he’d rather just wait on that.
+
+He didn’t want the US government following him around and taking notes on his powers before he’d even figured them out himself.
+
+The second the elevator opened wide enough, he jammed himself in. His friends and Gorgon were right behind him.
+
+“You guys…I’m sorry to ask, but would you do damage control on Aunt Connie if it comes up?”
+
+If he was gone a few hours, it was fine. A day or two even. She’d just assume they were missing each other in passing. But any longer than that…
+
+“Give me your phone!” said Boe. “I’ll answer if she texts.”
+
+Alden hastily unbuttoned the Hot Lab Coat so that he could get at his jean pockets and shoved his phone at Boe.
+
+“The passcode is—”
+
+“Oh please,” said Boe, unlocking the phone and giving Alden a wry look. “You think I never peeked over your shoulder once in the past few years?”
+
+Fair enough.
+
+20, 19, 18…
+
+Alden re-buttoned the coat as the elevator opened.
+
+“You can’t use the trading room,” said Gorgon, sorting through a keyring. “Your return time is unpredictable, and another selectee may need it. You may use Conference Room B. Last door on the left.”
+
+“You shouldn’t have bought the lab suit!” Jeremy hissed, chasing Alden as he sprinted down the hall. “What if you die?!”
+
+“Jeremy!” Boe snapped, running after them. “He’s not gonna die. He’s a fucking Rabbit. Gorgon, what’s with this timing? He’s been an Avowed for a few hours. Even with his special class mojo and the gear, what are the chances he gets summoned this quick?”
+
+It was a little unexpected. Even geared-up, high-value Rabbits were usually only summoned a few times a month.
+
+“Some skills are more useful than others,” Gorgon said, taking his sweet time unlocking the door.
+
+Alden put the goggles on. Like the coat, they fit his face perfectly.
+
+Maybe he didn’t even need them. Some Artonan could’ve just wanted a spare Rabbit for mail delivery or something. The timing could have been coincidental.
+
+But better safe than sorry.
+
+He flipped up the hood of the coat and dashed into Conference Room B. It was small and empty. The air smelled stale. The lights didn’t work. Judging by the half-white, half-gray walls and the rusted paint cans in the corner, someone had given up on remodeling it years ago, and it had been sitting empty ever since.
+
+Is there anything else I can do? A bathroom break would’ve been nice. But he didn’t have time. Forty-eight seconds was even shorter than he’d thought.
+
+7, 6, 5…
+
+“Don’t piss them off,” said Jeremy.
+
+Alden wished Jeremy’s face wasn’t pale and scared. It was out of character. It was making him feel weird.
+
+“He’s fine,” Boe said. “Hey, Alden. The outfit’s great. You look like someone who tries to keep his ritual sacrifices hygienic.”
+
+“You asshole.”
+
+1.
+
+Gorgon gave him a small wave.
+
+The last thing he saw before his vision went dark was the three of them standing in the backlit doorway.
+
+The nausea Alden was used to with teleports to Anesidora was missing. So was the sense of instantaneity. He lost physical awareness, but his mind still worked, and he had just enough time to think, I guess cross-dimensional is different than local, before he opened his eyes on another planet.
+
+Weird. I don’t remember closing my eyes in the first place.
+
+[Teleport complete. Welcome to Artona III.
+
+Summoner: Bti-qwol. Quest: Hazardous Materials Disposal for LeafSong University.
+
+Further details forthcoming. Await instructions.]
+
+Alden braced himself, half-expecting some alien scientist to fling a busted magic grenade at him and say ‘Catch!,’ but instead of a laboratory, he’d arrived in a space that appeared to be designed specifically for summonings. It was similar to the teleportation booth on Anesidora, but it was half the size of his high school’s gymnasium, and the multicolored sigils spiraling over the walls and floor were much stronger.
+
+His newly heightened Sympathy for Magic made him want to stare at them; his sense of self-preservation had him looking at his summoner instead.
+
+The Artonan with the white light halo stood inside an interlocking geometric pattern, just a few yards away. Her skin and hair were both a pale purplish color, and she was wearing a pared-down version of the Triplanets’ traditional wizard’s garb. It was usually harem pants, a tight-fitting turtle neck, and a looser overcoat with wide sleeves.
+
+But Bti-qwol was missing her coat, and her pants were a few inches shorter than normal. She also lacked the large network of dark blue tattoos Alden was used to seeing on Artonans who taught his classes or traveled to Earth on official business. She only had one—a straight line from the base of her left eye down to her jaw.
+
+Alden stood, nervously awaiting instructions like he’d been told to do while she stared at a tablet in her hand. Finally, she looked up and gave him a small toothless smile.
+
+<<Hello, Alden Ryeh-b’t. You’re here to help out with our annual entrance exams. One of our scheduled assistants used a refusal. So last minute! The replacement had to be a Ryeh-b’t. Come with me.>>
+
+She turned and headed for the exit.
+
+When Alden hesitated for a second, his interface prompted him to follow her with a large flashing wall of text.
+
+I get it, I get it.
+
+He hurried after Bti-qwol, and the text disappeared.
+
+The summoning room had a giant wooden door that looked more like it belonged in a medieval castle than in a high-tech setting. But when Bti-qwol said something to her tablet it swung open. The two of them stepped into a foyer where Alden could literally feel himself being scanned, then through another door into early morning sunlight.
+
+The color of the light was off just enough for Alden to be uncertain whether it was really noticeable or only his imagination. The warm, damp air smelled faintly of mildew. That was standard for any of the Artonas, from what he’d heard. People said your nose got used to it quick.
+
+Artona III’s gravity was a tiny bit higher than earth’s, but it wasn’t enough to bother him. Not when he had so many other new experiences to cope with.
+
+They were standing on a wide, paved walkway outside a windowless building that was by far the least interesting thing in sight. Next door, there was a flat rubbery surface covered in painted lines. Alden’s best guess was that it might be a sports field, but there were no stands for an audience and nothing that was obviously a goal.
+
+Bti-qwol led him a short distance down the walkway. The edges were landscaped with giant black and green plants that had a tropical-horror thing going on. A small furry animal was trapped inside a translucent pod on one of the plants, twitching weakly as it was digested.
+
+All the environmental noises were strange to Alden’s ears. There was no sound of traffic, not even a distant one. But something that definitely belonged in the background of a dinosaur movie was squawking up a storm. He couldn’t spot it. The campus was heavily forested except in this immediate area, and the buildings he could see on the surrounding hillsides were partially hidden by jungle.
+
+Bti-qwol didn’t look up from her perusal of her tablet until they arrived at a parking area with just six slots. Three of them were taken by vehicles of a type Alden had never seen before. They looked a little like golf carts, but they balanced themselves on two thick tires.
+
+One chimed suddenly and backed out of its slot before rolling toward them. It had no steering wheel, and the two bench seats faced each other.
+
+Bti-qwol climbed in, not bothering to gesture for Alden to do the same. He followed and took the seat across from her. There was nothing like a safety belt.
+
+The vehicle chimed again and set out, leaving the parking lot and heading down the path. Alden didn’t know what their destination might be, but the most obvious-looking place was a complex of angular wood and glass buildings that crawled up a forested hillside in the distance.
+
+The alien golf cart had no engine noise that he could detect, and it moved at a swift enough pace to give him a breeze. He appreciated that. The Hot Lab Coat was definitely hot in the wrong way right now. He wondered if he could take it off, since they didn’t seem to be anywhere near a lab.
+
+But I got summoned with it on, so I’m supposed to keep it, right? The whole point of the Wardrobe was to make you a more attractive summonee, so it seemed like divesting yourself of part of your stats and abilities was probably a no-no.
+
+He could just ask.
+
+But was it better to be the weird, silent guy who never took off his armor in social situations or the clueless kid who was so jumpy he requested permission for every little thing? Choices, choices.
+
+He decided weird, silent, and sweaty was easier for now. It wasn’t like he was afraid to ask Bti-qwol any of the four thousand questions he had. Much.
+
+She was swiping and pecking away at her pad with a look of frustration on her face.
+
+Finally, she turned her attention back to him..
+
+<<They paused the orientation meeting while I fetched you and moved the welcome breakfast forward instead. I’m sorry you’ll have to miss it. Many of our assistants from other planets look forward to the breakfast each year.>>
+
+So there are multiple Avowed here?
+
+Alden felt some of his tension fade. Considering his quest said he’d be disposing of hazardous materials, he was eager to share the load.
+
+Bti-qwol said I was here to help with entrance exams. And it’s an annual event…with a welcome banquet for the staff? And they have regulars who come back to work it every year.
+
+He’d never heard of or imagined a situation like that, but then he’d always been more interested in what Avowed did on Earth rather than on their missions to other planets.
+
+Oh right, she apologized about breakfast. I guess I shouldn’t be totally silent.
+
+“I’m fine. I ate an apple right before I came.”
+
+<<I haven’t eaten that Earth fruit yet. Trying the most popular foods from our resource worlds is on my list of things to do before my eighth year.>>
+
+Eighth year couldn’t be a reference to her age, so she probably meant years as a student at this school, right? Or maybe at her job…
+
+“So you’re a student here?” he guessed.
+
+<<Yes. I’m a sixth year. I study alien personnel management. I’ve been placed in charge of coordinating the staff for this year’s exams.>>
+
+She sounded proud of that last bit, so Alden smiled and nodded, trying to look impressed behind his goggles.
+
+<<I had everything planned to the finest detail!>> She glared down at the tablet. <<And then the assistant for the laboratory portion of the exams used a refusal after they’d already begun the orientation! Zzhoir had three weeks notice beforehand! Isn’t that very unprofessional?>>
+
+A sidebar appeared on the interface, informing Alden that zzhoir was a pronoun used by one of the peoples from planet Tmith. It couldn’t be accurately rendered in English.
+
+“Three weeks does seem like a long time.”
+
+<<Well, thank the ancestors for Rhye-b’ts.>> She was still frowning a lot for someone who was supposedly thankful for him. <<The Contract doesn’t seem to have your specifications fully analyzed yet. I saw that you were new when it recommended you for the assignment, but…have you not tried your gift on complex lifeforms? It would be nice to have those numbers.>>
+
+What numbers? Obviously she had more information about his skill than he did. Which didn’t seem fair. Would the System get mad if he tried to peek at the tablet?
+
+“I haven’t tried anything alive yet.”
+
+It had occurred to him that it might work. In fact, he was thinking of it as something of a finale for the power testing. And Boe had an entire page of his binder dedicated to living subjects. But first Alden needed to get his hands on something alive that he didn’t mind accidentally killing or mutilating, in case the preservation skill did something gruesome to it.
+
+He wanted to start with something that deserved to die. Like a mosquito. And then work his way up from there to the more charming vertebrate animals. Like gerbils and Jeremy.
+
+Bti-qwol turned away from him to stare at the plants they were passing by. At first, Alden assumed it was just her way of ending the conversation, but after a minute, she stopped the golf cart with a verbal command and hopped off. She headed toward one of the carnivorous plants; it had a frog stuck inside its translucent pod.
+
+Bti-qwol tapped a thick silver ring on one of her middle fingers a few times, and a triangle of light about four inches long appeared from it. Alden thought it might be a knife, and it turned out he was right. Bti-qwol swiped it through the stem holding the frog’s pod in place, and it fell away from the plant easily. There was an accompanying burnt smell.
+
+Note to self, thought Alden. Don’t challenge her to a fistfight.
+
+She gestured for him to step down and take the pod from her.
+
+Alden took the plant by the stem, careful to start walking immediately upon receiving it. He felt his skill activate, and the frog froze in place. The creature had a protective shell on its back like a turtle and bulging black eyes. Where its back feet rested against the base of the pod, they seemed to be blistering.
+
+A little weirded out by his horrible new bouquet, he walked back and forth, taking great pains not to leap around wildly. The skill drain was about the same as it had been with the lighter flame.
+
+<<You should deactivate your trait during the exams, >> said Bti-qwol after peering at her tablet. <<You’re not very proficient with it I see, and you won’t have room to use it well during this assignment anyway.>>
+
+“Okay,” said Alden, still pacing with his frozen frog. “What about the lab coat?”
+
+<<Yes, it’s what made you eligible for this position! Uncommon to find a Rabbit with proper skills and specs for the laboratory.>>
+
+“No, I mean, can I take it off?”
+
+She frowned. <<You’ll get blown up. Many examinees are stupid and nervous.>>
+
+“Not during the lab exams,” Alden clarified. “Can I take it off for now and then put it back on when it’s time?”
+
+<<Nudity is frowned upon in an educational setting. Usually.>>
+
+I should have gone with weird and silent.
+
+“I’m wearing clothes underneath.” It was obvious, wasn’t it? His jeans stuck out the bottom a few inches. Did she think they were part of the gear?
+
+<<That’s fine. But don’t forget to put it back on.>>
+
+“I won’t.”
+
+<<I’ll add it to your quest’s sub-instructions so you don’t. I’ll be giving you a secondary assignment as well. Your numbers are adequate for the task. You may kill the animal and return it to the ground.>>
+
+Alden stopped pacing and looked at the strange frog. When the preservation skill ended, it started wiggling around again. It looked like it was hurt, but he didn’t think it was lethally injured.
+
+“Can’t I just free it from the pod?”
+
+Bti-qwol gave him a curious look. <<Why? It will only be captured by another one.>>
+
+“It might make it.”
+
+<<Klerms make an undesirable racket. Give it to me. I’ll do it.>>
+
+Alden passed the pod with the frog in it over. As soon as he did it, he wished he’d refused. It wasn’t part of his “quest.” If he’d complained once more, Bti-qwol would almost certainly have shrugged it off and let him do whatever he wanted.
+
+Instead the frog got stabbed with the knife ring and tossed into the planter.
+
+Alden wasn’t superstitious, but it felt like a bad start to things. And he didn’t like how easily he’d given in, when he knew he wouldn’t have at home around humans.
+
+Great, Alden. Now you feel like shit. About an alien frog. Snap out of it.
+
+He took his lab coat off and climbed into the golf cart again. While they finished the trip to their destination, Bti-qwol happily chatted about last minute details she was taking care of. Apparently, Alden’s skill would qualify him to be on call for medical emergencies, so she could send someone else who’d been summoned specifically for that purpose home.
+
+<<This will be the most streamlined our staff has ever been during examination week!>>
+
+She also promised to have the “standard human necessities package” delivered to Alden’s room.
+
+When he asked why he would need a room, she finally released the full quest information so that he could see it.
+
+The job itself seemed okay. The entrance examinations had laboratory requirements, and Alden would be in charge of collecting and disposing of any volatile garbage the aspiring students might make.
+
+It sounded like he would be Alden Thorn, Super Trash Collector, for the majority of his time here. And as she’d promised, Bti-qwol had given him a secondary assignment as a resource for university medical staff to call on during emergencies. So he was going to be a Super Walking Ambulance, too.
+
+Alden was thrilled to know that he had a legitimate, life-saving skill. The limitations on it meant it probably wouldn’t be enough to make him instantly hirable for a hero team. But still…he could help people the same way Hannah had helped him. That was amazing.
+
+Only he wasn’t nearly as enthused about practicing the skill during an actual medical emergency when he hadn’t even figured out its limits.
+
+He asked Bti-qwol if it wouldn’t be a lot harder to preserve a whole injured person than it had been to freeze the frog. He didn’t have a clear idea what factors affected the skill drain, but just walking around with an adult Artonan slung over his back wasn’t going to be simple. They were a few inches shorter than humans on average, but Alden didn’t have any idea what they weighed. And what if the person who needed medical care was a bodybuilder?
+
+And Alden didn’t think he was going to have a panic attack at the sight of blood and guts, but what if he did? His only real life experience with that had been dulled by Hannah’s magic.
+
+But Bti-qwol dismissed his concerns one after the other.
+
+<<I doubt they’ll call on you anyway. Last year, the medical team spent all of their time sitting around drinking wevvi in the lounge and gossiping. It’s inefficient. So much better to have staff doing double duty!>>
+
+Alden wondered if Bti-qwol was actually making reasonable decisions or if she was being a little blinded by her own obsession with streamlining. But she didn’t seem to be the only person in charge, so maybe it was all right?
+
+Alden’s double quest assignment came with a list of dozens of Artonans who were allowed to give him instructions. They all had priority ranks, too. Thankfully the System would just tell him when he was given an official order rather than making him memorize who all these people were.
+
+He was also getting paid well. Seventeen hundred Argold for being summoned, five thousand per day for being the garbage man, twenty three hundred per day additional for the secondary quest, performance bonuses TBD.
+
+Alden did the math. He’d be making over twenty thousand dollars per day.
+
+Were the Artonans just loaded? Did it have something to do with the relative value of currency? Couldn’t Bti-qwol take out the trash herself? Or was the skill that unique?
+
+He didn’t consider himself to be very materialistic, but he had to admit that he’d put up with a lot of bullshit for that amount of remuneration. And the main bullshit was the timeline; he was going to be here for twelve days.
+
+Apparently wizard SATs were hardcore.
+
+How were Boe and Jeremy going to cover for him for that long?Beside Aunt Connie, there was also school to worry about.
+
+The upside was that there were no limits placed on his communications for this assignment. He could use the System to call home and let everyone know he wasn’t dead. For the low, low price of a few thousand dollars.
+
+He decided he’d hold off on that until tonight, just in case Bti-qwol thought of some other add-on for him that was going to extend his stay.
+
+It’s a good thing though, isn’t it? I’ll have a lot of opportunity to figure out the skill. Plus I’ll make so much money. And there will most likely be other humans I can ask for advice.
+
+As far as quests went, he thought this had to be pretty close to the peak of cushy.
+
+Their cart had just finished climbing a winding drive to the top of a hill. They arrived at the entrance to something that looked to Alden like it might be a conference center or large classroom building. The cart stopped under a low roof covered in ferns, and the building’s doors, which he had assumed were made of glass, dissolved into sparks of light as they approached.
+
+The breakfast banquet was over when they arrived. Alden was too nervous to be hungry anyway. But even though Bti-qwol seemed to be in a rush, she hurried him into the room where the food had been set up and forced a to-go cup full of wevvi into his hand.
+
+It might have been a cultural thing with her, so he took it. He had a vague recollection of instructor Pa-weeq saying that some communities of Artonans thought wevvi service was important for guests; and for all he knew, LeafSong University was in an area where that was the case.
+
+He’d only had it a few times before, always at school events to celebrate Contract Day. It was a spiced fruit juice that tasted almost exactly like eggnog, and it would have been much more enjoyable if it wasn’t always served at a temperature near boiling.
+
+Interestingly, Let Me Take Your Luggage activated automatically when Bti-qwol handed him the cup. It was a pretty casual interaction, with no obvious intent on her part to give him the drink for preservation.
+
+He filed it away for consideration, and followed her quickly down a hallway with gleaming wood floors, to a semi-circular classroom with three tiers of chairs and tables looking down on the lecturing area. There were around thirty people present, though the room would have held over a hundred humans and Artonans.
+
+Alden did his best not to stare at the first grivecks he’d ever seen in real life. They looked like giant hairless panthers with their joints bent the wrong way, and three of them were lying on top of the tables at the back of the room. They all had on helmets with reflective visors and vests made of thick, interwoven straps.
+
+Alden didn’t know if it was fashion, armor, or life support.
+
+Around half of the people present were human.
+
+He followed Bti-qwol up to the second tier of seats, where she stopped in front of three middle-aged human men and two lortch Alden thought were male. He’d have to measure the width of their chin ridges to be totally sure, and that didn’t seem like a good way to make friends.
+
+There had been a cheerful general chatter in the room when they first entered, but as soon as Bti-qwol led Alden up to this group it stopped. He glanced around and saw every human eye turned toward him, and most of the alien ones, too.
+
+He had just a second to reflect on the fact that he should have expected this, before Bti-qwol spoke to a man with dark hair going gray at the temples.
+
+<<Pineda, come with me. Your assistance is no longer required for this event.>>
+
+For a moment, the man looked almost panicked as he glanced from Bti-qwol to Alden, but he tamped it down quickly and stood with a smile.
+
+<<Guess I get to go home and relax now!>> he said, pulling a small rolling suitcase out from under the table.
+
+His friends were not smiling. In fact, the short, heavyset one looked like he wanted to fight somebody. His nostrils were flaring, and the stare he leveled at Bti-qwol made Alden’s hair stand on end.
+
+And Alden didn’t know what an angry lortch looked like, but he was guessing the cobra sway thing they were both doing with their heads was some sign of malcontent.
+
+Pineda leaned over and clapped the two humans on the back. He made an unusual double-handed, cross-armed wave at the lortch; then he turned to Alden to shake his hand.
+
+<<Congratulations! It’s exciting to see a boy your age joining the medical team. Hope I’ll get to work with you next year. These guys will make sure you have a good experience.>>
+
+“Thanks,” Alden said, shaking his hand awkwardly with the arm that was holding both goggles and lab coat. “I would love that.”
+
+Oh god, oh god, he thought. I’m taking your job, and I’m probably not even qualified, and your friends look like they want to beat my ass for it.
+
+Pineda was being cool about it, but he had to be cool. What was he going to do? Pitch a fit? At best, he’d be blacklisted by the university and never get summoned for this gig again.
+
+And Bti-qwol clearly did not care that half the people in the room looked either sad or pissed off. Alden didn’t know if she had bad social skills or if she just had no reason to pay attention to the atmosphere among the Artonans’ servants.
+
+Even worse, she gestured at the seat Pineda had just vacated, clearly indicating Alden should take it. There were plenty of empty seats in the room. Ones not surrounded by people who were shooting him death glares.
+
+He stared longingly up at the grivecks, as he squeezed down the aisle toward Pineda’s chair. He could sit with the giant panthers. Or they could eat him. Either way, he’d be out of his misery.
+
+Instead, he sat down awkwardly between the stocky guy who was breathing hard and staring at Bti-qwol’s retreating back with murder eyes, and the other man, who was wearing a full three-piece suit and an expression like he’d just watched his own father being kidnapped.
+
+Whispers went around the room when Bti-qwol was out of sight, and Alden did his best to feign an avid interest in his cup of wevvi. He kept sipping it, ignoring the fact that it was burning his tongue, in hopes that this orientation meeting would start and he wouldn’t have to talk until he’d gotten his bearings.
+
+He stuck out like a sore thumb. The other human Avowed were all much older than him. The next youngest were a pair of women who looked like they were in their mid to late twenties. And everyone was well dressed. A few, like the man in the suit, had gone with businesswear from earth. But most were in muted earth-tone outfits that had a distinctly Artonan feel to them.
+
+A few people had accessories he thought were magical pieces, but the only person wearing a recognizable set of gear was a woman around fifty he’d noticed when he entered. She had on the black tunic and pants he’d bought himself from the Wardrobe—the set for housekeeping.
+
+And then there was Alden, wearing the jeans and t-shirt he’d fallen unconscious in hours ago, and carrying the lab coat.
+
+He really hoped Bti-qwol made good on that promised necessities package. And that she considered clean underwear a necessity. Or it was going to be a rough couple of weeks.
+
+“What talents do you have?” asked the sad-looking guy to Alden’s right. “We thought she was only replacing that Tmithan who panicked after hearing who was in charge of labs this year, but you must be getting double work?”
+
+He had an Anesidoran accent.
+
+“I have a preservation skill.”
+
+The guy frowned. “I guess that makes sense if it works on people. Pineda specializes in safely slowing bodily processes.”
+
+“He’s a healer?”
+
+Great. Bti-qwol replaced an actual healer with me.
+
+“A D-rank one. He put everything he had into being useful for emergency medicine.”
+
+That was interesting. Except for rare S-ranks, Healers couldn’t just instantly fix people. Many of their spells were long, and their skills were taxing. So someone who could make an urgent case slightly less so for them was always going to be valuable.
+
+I wonder how my skill would mesh with that?
+
+Not as well as Pineda’s probably. Another Avowed wouldn’t be able to heal the person he was preserving while he was using the skill. It would be better for transporting people to a healer than helping when one was already available.
+
+<<What’s your class?>> the angry one demanded.
+
+Alden tried to smile politely. “Rabbit.”
+
+It should have been obvious based on the fact that he’d been flash summoned for this, but maybe it wasn’t.
+
+<<Fucking pet,>> the man spat.
+
+Wow.
+
+Fortunately, before anyone else could share their opinion or ask him questions, a group of university faculty appeared to re-start the interrupted orientation meeting.
+
+Kind of weird how I’ve been on two different college campuses in as many days, for reasons that have nothing to do with my education.
+
+It was also weird how much the first speaker, who was just there to welcome them all and impress upon them the value of their service, sounded like the dean who’d spoken at Hannah’s funeral. Nice, but in a way that made you think they’d had their personality sucked out and replaced by a bunch of politically-savvy greeting cards.
+
+There wasn’t anything of substance in that speech, but the next speaker, who worked for the office of admissions, seemed to be trying to make up for it by cramming an entire rule and etiquette manual into ten minutes.
+
+It was all really obvious stuff…Alden assumed. But maybe some of the advice was relevant to certain species and not others. He couldn’t imagine many of his fellow humans scent-marking university property.
+
+The only things of real interest he learned were that they weren’t allowed to associate with the incoming students outside of their scheduled examinations, that they were allowed to use a number of very cool campus facilities in the evenings, and that they would have an enforced sleep schedule appropriate to their individual needs.
+
+They would literally be given knock-out drugs and ordered to take them at a set time if they weren’t already sleeping.
+
+Apparently this was standard. Nobody but him seemed to find it unsettling.
+
+The rule book would be available to them through their interface at any time, and any infraction would result in a lifetime ban from the university and its affiliated institutions.
+
+Judging by the uncomfortable looks and the creaking of chairs as people shifted in their seats, this bothered them all much more than the sleep requirements.
+
+Afterward, they broke into small groups depending on where they would be working. Alden couldn’t meet with the medical team and the lab team simultaneously. He was relieved when an Artonan professor with so many tattoos he looked like a living circuit board waved him over insistently and took the decision from him.
+
+The lab group looked less stressful anyway.
+
+He and one of the griveks seemed to be the only assistants. The professor was abnormally tall and lanky for an Artonan, and the dramatic impact of his full wizard’s garb was marred by the fact that he’d stuffed all the pockets with food from the breakfast. Something that looked like an oversized churro was staining his pants with grease.
+
+Instead of a tablet to help him interact with the System, this man had a lens over one eye that seemed to serve the same purpose. He flicked his fingers, and the eye with the lens darted rapidly back and forth, completely independent of its neighbor.
+
+“Alden, my darling Rabbit!” he said in flawless English. “So happy that we’ll be working together. What a nice, nice skill you have! You’re my savior. You must let me give you my business card. Don’t bother with the name on it. You may call me Joe.”
+
+Before he’d even finished, his business card appeared in the form of a message notification, and when Alden opened it, he discovered “Joe” had sent over what looked like his entire CV. Plus playlists of his favorite songs, categorized by activity.
+
+His real name was Superior Professor Worli Ro-den, which sounded nothing at all like Joe no matter how Alden tried to pronounce it.
+
+He’s uneven, Alden noted. It wasn’t as much as the Velras had been, but it was noticeable.
+
+Meanwhile Joe was telling the grivek to call him something that sounded like a death scream.
+
+The grivek repeated it as a high-pitched yowl that made Alden’s spine crawl.
+
+“I’m so happy to meet you both! Alden, sweetheart, I see you bought my coat!” He pointed at the lab coat. “I was on the committee that decided it should be included in the Wardrobe decades ago. It hasn’t been nearly as popular as I imagined it would be. Clearly we were meant for each other!”
+
+Alden didn’t know how to answer; he wasn’t sure how much of the professor’s behavior was a joke. He was now complimenting the panther alien on the color of its helmet, so maybe it was all just an attempt to be friendly.
+
+“Alden, dear! Our companion here says I may give her a human name for the sake of your limitations. I think you should call her Sophie. And she can call you Aaaatiir, can’t she? I’m afraid there’s really not much overlap between English and Grivekcry.”
+
+“Sure,” said Alden. This whole conversation felt like something out of a dream already, so why not? “Nice to meet you, Sophie.”
+
+<<I’m pleased to slaughter problems with you,>> Sophie shrieked, nodding her helmet.
+
+Joe sighed, “If only we could slaughter the examinees and devote our time and talents to more interesting pursuits. Alas, my parole won’t allow it. Come! Our lab awaits!”
+
+As they left, Alden glanced over his shoulder at the woman in charge of the medical team, trying to catch her eye. Shouldn’t they schedule a different time to talk? But she was deep in conversation with her group, and she never even looked his way.
+
+Well, maybe it’s not necessary? If there was an emergency all he could really do was pick up an injured person and carry them in the direction someone told him to. He’d taken a first aid elective in middle school, but he doubted that would come in handy. Did CPR even work on Artonans?
+
+Professor Joe led him and the grivek to the basement, and then through a series of dimly lit hallways to a stark white room the size of a football field. There were seventy-five large lab tables set up, covered in identical sets of equipment. Most of it was utterly unfamiliar. All Alden recognized were burners, beakers, scales, and tongs. And even those were oddly designed.
+
+“Let’s see,” said Joe, cracking his knuckles and narrowing his eyes at the tables. “Yes, it’s the same crap set-up they used to have. How they expect to inspire and stimulate the youth with this kind of handholding I don’t know. Do you see those irradiators? So many safety features that there’s no room for student creativity!”
+
+He was pointing to a line of large ovens at the back of the room.
+
+“Come this way, Alden,” he said. “We have to fix it.”
+
+“Should I target you?” Alden asked. “With my skill?”
+
+“Hmmm…oh, no. Not at the moment. Though you can if you like. Actually, I’m very interested in that skill, my dear savior. That particular limited edition gem is perfect for lab work, but not for this sort of lab work. The obsessed honors student from the personnel program is so focused on minimizing costs that she’s crammed you in because you’ll be adequate at two different jobs rather than ideal for either one of them. Very stressful for your first assignment, I would think.”
+
+“Oh,” said Alden. He was simultaneously worried that he was going to fail hard and relieved that someone in a position of authority seemed to be aware that Bti-qwol didn’t care much about about his suitability for the assignments she'd given him. “Why is my skill bad for what we’re doing here?”
+
+“Excellent question. It’s the entrustment. Your ability to halt volatile reactions instantaneously and completely is dreamy. I wish I could do it myself. But the fact that someone will have to willingly give the dangerous substances over to you is a complication for today’s job.”
+
+“I thought I would mostly be hauling away trash…”
+
+“How dull! There will be a bit of that, but you and our angelic Sophie are here to prevent terrible catastrophes from killing off the aspirants. Isn’t that exciting?”
+
+<<I’ve done this before. I’m usually in charge of monitoring students at the irradiators.>>
+
+“And so you shall be today! Unless Alden and I make a mistake, and then it will be your job to throw yourself on the grenade, so to speak.”
+
+Alden stared at Sophie in alarm, but the grivek was making a choking sound that his interface said was laughter. So that was good?
+
+“Now, Alden, it’s best for you to think of the students as revolting, arrogant little pukes who can’t hold the idea of their own failure in their head for even a moment,” the professor said. “Especially the ones in the first six sessions. They’re all trying to test out of the introductory courses. Ha! As if I’d let them.”
+
+Joe crouched down beside the nearest lab table and opened something that looked like a mini fridge. It was full of bottles, jars, and pouches that contained powders, liquids, and shavings of wood and metal. A few even had whole dead animals inside them.
+
+“I will do my best to strike fear into their hearts when they first arrive, to impress upon them the importance of giving you their heinous failures when they’re told to. However, we mustn’t expect them to be entirely rational. This is the sort of school that attracts a lot of, shall we say, coddled geniuses.”
+
+He started taking things out of the fridge and tossing them toward Alden, who had to drop the lab coat to play catch. He was soon holding an armful of what he assumed where chemicals and magical reagents. “Take those to that corner over there,” Joe said, flipping his hand. “Let’s make sure our students have an exciting educational opportunity.”
+
+Alden did, and on the way back to the next station, he donned the lab coat and grabbed a large metal bin. It looked enough like a trash can for him to be fairly confident that was its purpose, and he wanted to reduce the number of thrown objects if possible.
+
+He set it next to Joe, who was clearing an entirely different set of ingredients out of the next mini-fridge.
+
+How do you score an exam when everyone has different supplies? Alden wondered.
+
+“You look gorgeous!” Joe said, beaming at the lab coat while he stuffed things in the bin.
+
+Even though he’d said it wasn’t necessary, Alden went ahead and targeted the professor. He seemed like the kind of person it was best to be over-prepared for.
+
+Joe had given Sophie an assignment of her own. The panther-like alien was going from table to table, carefully re-arranging some of the equipment with her claws.
+
+“So,” said Alden, “what am I supposed to do if they’re not rational?”
+
+“Hmm?”
+
+“The students. What do I do if they won’t give me their ‘heinous failures?’”
+
+“Ah. This is where it’s a bit inconvenient. If they won’t behave, and you can’t make them behave, then I shall have to do it myself.”
+
+Alden wasn’t sure how he was supposed to make an Artonan holding a volatile object follow his instructions.
+
+“Don’t look so concerned. We’ll work it out together!” Joe said brightly. “We’ll think of the first session as a trial run. And then over lunch, assuming we haven’t been brought before the disciplinary committee, we can discuss opportunities for improvement.”
+
+Alden was still pondering that worrying statement, and the fact that the professor seemed to actually mean it, an hour later when the woman in charge of the medical team hurried into the room to brief him on his role in the event of an emergency.
+
+“You’re basically equipment,” she said bluntly. “No thinking required. If you get called, just use your skill to the best of your ability and follow instructions from anyone with more authority than you…which is everyone.”
+
+She gave him a red glow stick to wear around his neck at all times and four different pills that he should take immediately after an emergency teleport “to reduce undesirable outcomes.”
+
+“What does that mean?” Alden was already feeling strange about the fact that he’d be forced to go to sleep every night. Getting casually drugged left and right hadn’t been a feature of any story he’d ever heard about being Avowed.
+
+“This one keeps you from throwing up. This one keeps you from passing out. This one temporarily inoculates you against Thetet Fever, and this last one makes you unable to register physical pain.”
+
+There’s no way this combo is good for my health. Especially the one that offered immunity to pain. If that was available on Earth and not dangerous, people would be taking it all the time.
+
+He thanked the woman anyway, and stuffed the pill bottle into his pocket, hoping he wouldn’t have to use it.
+
+###
+
+The initial group of examinees arrived about two hours after Alden had first set foot in the lab. He and Sophie sat on the floor in the back by the irradiators, watching as each one entered the room and bowed to Professor Joe, apologizing for the fact that they had to wear shoes while working with dangerous supplies.
+
+Every prospective student was accompanied by one or two assistants who didn’t bother apologizing for their footwear.
+
+<<It’s unnecessary for them,>> Sophie told Alden in her quietest shriek. <<They are of the non-wizard class, so there is no assumption that they will learn from the instructor.>>
+
+Roughly twenty percent of Artonans used magic. The eighty percent of the species who were members of the second class couldn’t even hold political office or vote. Based on what he’d seen of the faculty, Alden had assumed that the school was for the ruling class only, and this more or less confirmed his suspicions.
+
+“We…outrank them? Right?” he whispered.
+
+He knew it was true, but it felt strange enough that he couldn’t resist asking.
+
+<<Naturally,>> said Sophie. <<A servant with power is more valuable than one without it.>>
+
+Alden kept telling himself that just because a way of life was alien didn’t mean it was wrong. But it still bothered him when he accidentally met the eyes of one of the assistants and the man gave a nervous half bow, as if afraid he might have offended Alden.
+
+To Alden’s surprise, the examination actually began with a lesson. Joe walked the length of the huge room slowly, talking over their assignment and explaining what they were expected to produce. Frustratingly, the System didn’t translate a single part of the lecture, not even when Alden quietly asked it to.
+
+He had taken the Artonan language intensive, and the logograms course. But it was only a beginning. He was good enough to pronounce and understand his wordchains and order off menus. But this lecture was about theoretical magic stuff, and he had almost no idea what the professor was saying.
+
+He caught every dozenth word and tried to piece something reasonable together out of it. Joe peppered his speech with a lot of references to anatomy, which at first made Alden think the students might be creating medical potions or devices of some kind; but he gradually came to the conclusion that the anatomical stuff was actually really dirty swearing.
+
+The prospective students and their helpers kept blushing and gasping too much for it to be anything else.
+
+“Do you understand what they’re going to be doing?” he asked Sophie as quietly as he could.
+
+Instead of answering aloud, the griveks sent him a texting invitation. She could obviously control her interface mentally.
+
+[In past exam seasons, the students have been asked to produce their own summoning assistive devices for one of the tests they will have later. This professor is unknown to me. He seems to be asking for a higher level of device than usual.]
+
+Alden air typed some more questions. Sophie had been working this event for three of her planet’s years, which was more like seven of Earth’s. Joe really hadn’t been joking when he said her job was to throw herself on grenades. Classes were categorized differently for griveks, but based on her explanation, Alden thought she had both heightened speed and extreme regenerative capabilities.
+
+The latter wasn’t something you really saw with humans, so he was pretty jealous.
+
+Purely out of curiosity he asked about her rank, and when the System failed to translate the word she said, she gave a click of annoyance and tapped one of her feet four times against the floor.
+
+[Four?] Alden asked.
+
+She confirmed it with four more taps. But what does that mean?
+
+Four, as in three above the hyperbole rank on Earth, seemed unlikely. It would make Sophie a titanic existence by Alden’s reckoning, and she seemed pretty normal for that. He guessed it might be four above the bottom rung for griveks, which would make her a B-rank like him if the Systems were equivalent.
+
+Before he could ask more questions, the translation subtitles suddenly turned themselves on for the end of Joe’s lecture.
+
+<<In the back of the room, you will see my two dear assistants. Our grivek helper will monitor the lab and report any instances of cheating. She will also guard the irradiators, and serve as our protector in the event of a catastrophic accident. Our human assistant in the elegant red coat will come to your table to remove dangerous items as I deem it necessary. If you do not promptly and graciously give him your little mistakes, I will come and get them myself so that I can shove them up your—>>
+
+It’s really stupid that you cut out the good part, there, Alden informed the System. I think the Earth version of you wouldn’t be such a prude.
+
+It ignored him, of course.
+
+Within a few minutes, the practical portion of the lab exam was underway. Alden could practically taste the stress in the air. One of the guys at the table nearest him seemed to be hyperventilating while he stared at the equipment. At the next table over a girl was hammering on a sheet of copper colored metal so hard that she looked like she was trying to pound it right through the table.
+
+Smoke was popping up at some tables, and at others, the students were directing their assistants to dissect things. A few people were definitely muttering wordchains while they worked.
+
+Alden had no idea what it might look like if something went wrong, but almost as soon as the students got started, he gained a new visual display that gave everyone in the room a very pale pink aura.
+
+Joe had told him to expect a danger detector, but this was better than he’d thought it would be. As the professor strolled the lab, noting likely problems, the aura around a given student would turn brighter.
+
+Hot pink meant Alden needed to be near that table, ready to take whatever disaster they’d made away from them.
+
+Hood up and goggles on, he walked around the room, repositioning himself as the auras changed, trying not to make it too obvious which of the nearby tables he was there to monitor. Joe was surprisingly intent on the students’ work, and he actually adjusted the auras a lot. So Alden was getting more of a workout than he’d expected.
+
+A glimmer of dangerously bright pink appeared in his peripheral vision—which he was pleased to note seemed a bit wider than it had been prior to his affixation—and he hurried across the room to a table where a guy was pouring something that looked like boiling mercury into a tall metal cylinder.
+
+Joe wasn’t even looking in this direction, so Alden wasn’t sure how he knew there was a problem. The professor was twelve tables away, critically watching over a girl who seemed to be peacefully doing macrame with strips of skin she’d taken from the dissected animals.
+
+Just a few yards away from Alden, the cylinder made a loud popping sound, and its creator’s aura went hot pink. Alden stepped right up to the end of the table and took his hands out of his pockets so that he’d be ready to grab the thing, and the guy gave him a frantic look.
+
+The cylinder popped a few more times, and then with a high whine, something like steam began to pour from the top.
+
+“Take that, Alden,” Joe said calmly.
+
+The guy who’d spent the past forty minutes building the cylinder reached for it as if to protect it, but he was too late. Alden had been expecting interference, so he’d snatched the device the second Joe had finished speaking. Walking quickly away from the table with the now-silent cylinder in his hands, he felt slightly accomplished.
+
+And tired.
+
+The drain from the cylinder was bad. It was worse than either the flame or the frog had been. It was even worse than Jeremy’s punch, though he’d been braced for it, so at least he didn’t stagger around the lab.
+
+Is it because magic is involved? Or does it have to do with the potency of the reaction itself?
+
+He had no idea, but he did know he couldn’t hold onto this thing for more than a few minutes. He was already saying don’t drop it, don’t drop it in his head to keep himself focused.
+
+He hurried toward a teleportation alcove in the corner. The door opened automatically for him, and he set the cylinder inside, leaping back and holding his breath so that he wouldn’t inhale any of the strange steam in the couple of seconds that elapsed before the thing was zapped away.
+
+The drained feeling didn’t last. As soon as the device was out of his hands, it disappeared. Alden checked his palms, feeling a little paranoid that he might have gotten some dangerous substance on himself, but he didn’t think the skill worked like that. Even though he could feel the items he carried, he’d realized after holding the cup of wevvi that Bti-qwol had given him that he wasn’t necessarily touching them in the usual sense of the word.
+
+There had been a drop of liquid on the outside of the cup that he’d registered as wet, but when he’d passed the cup to the other hand, the water droplet was undisturbed and his fingers were completely dry.
+
+His current theory was that the tactile sense he had from the items was actually a part of the skill itself—a magical effect that made it easier for him to hold and manipulate them in a familiar way.
+
+He scanned the room again, looking for the color he’d decided to call danger pink, but the worst he saw was a dark blush.
+
+Joe was verbally annihilating cylinder guy. Once again, the System was refusing to offer a translation, but this time, Alden got the gist of it just from context and the hand gestures the professor was making. Cylinder guy was in big trouble for trying to interfere with Alden’s theft of his project.
+
+Well, it would have been a problem.
+
+Just based on the experiments he had done with Boe and Jeremy, entrustment had a lot to do with possession. The cylinder sitting untouched on the table belonged to nobody, as far as the skill was concerned, so Joe could entrust it to Alden from across the room. But if the student had grabbed it first, he would have been in possession of it, and he would have to be targeted and give it to Alden himself.
+
+Targeting was no trouble. Alden could do it in less than a second by pointing or speaking. But that didn’t matter if cylinder guy refused to hand over his toy.
+
+Alden guessed he could have made the student drop the thing and then had Joe entrust it to him, but dropping potential bombs seemed like the opposite of what they were going for.
+
+The student left the laboratory weeping, his future at this school apparently ruined before it had even begun, and Alden tried to look as un-menacing as possible as he paced back and forth near the person with the dark blush aura.
+
+It didn’t work. The students at the three nearest tables were staring at him like he was the grim reaper.
+
+Didn’t expect disposing of dangerous materials to make me so unpopular.
+
+He blinked in surprise as a notification flashed.
+
+[Quest Assignment:
+
+Assist Superior Professor Worli Ro-den in Lab 7]
+
+Time to summons: 5 hr, 43 m, 55 s
+
+[Note from summoner: My lab is so much better than this one!
+
+You can just walk if you prefer not to be teleported. Don’t worry about dinner. I’ll feed you.]
+
+Alden glanced over at Joe. The professor was patting his food-stuffed pockets, which was the opposite of appealing. But at least whatever he wanted Alden to do couldn’t take too long. They’d run afoul of the mandatory sleep requirement if it did.
+
+How many quests can I even have at once?
+
+He’d been under the impression that you got summoned for one thing and you did the thing and you went back home. Was he even earning credit toward his refusals with all these extra jobs?
+
+Alden smiled and waved at Joe, which seemed to make the guy happy.
+
+Maybe he just wants to show off his lab. Maybe it’s not a quest to help him out with something incredibly crazy or dangerous he just thought of after seeing my skill in action.
+
+Alden stole a couple more projects from students who were too terrified to try to stop him and sent them to whatever dumping ground was on the other end of the teleportation alcove. But for the most part the first lab session passed uneventfully.
+
+“Joe invited me to his lab tonight,” he told Sophie while they cleaned up the tables after everyone left. “Well…ordered me. It was a quest, so it wasn’t really an invitation.”
+
+<<I’ll mourn your passing,>> the gryvek said.
+
+“You have a very human sense of humor you know.”
+
+She shrieked at him. <<Take it back.>>
+
+“I won’t. I’m an honest person. I speak only truth.”
+
+She flung a strip of skin at him. It was one of the ones the macrame girl had left behind.
+
+It bounced off his lab coat, and he stuck his tongue out at Sophie.
+
+<<You should be careful.>>
+
+“Of Joe?”
+
+She adjusted one of the scales with a surprisingly delicate touch.
+
+<<He’s a collector of contracts. You can tell if you know how to read his tattoos. It can be valuable to work with such people…but it can also be very hard.>>
+
+“You mean private contracts?” Alden said slowly.
+
+<<Yes. You are new. Don’t sell yourself too easily.>>
+
+“I don’t plan to sell myself at all. I want to work mostly on Earth, not be permanently attached to someone here.”
+
+<<Then you should be even more careful,>> the gryvek advised. <<His offer will be good. He would not have made so many contracts if he were not generous in some noteworthy way. Know your mind before you make your choices.>>

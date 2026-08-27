@@ -1,0 +1,357 @@
+---
+id: 721327d7-66ef-561f-8048-8f0bf36e41a4
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 446"
+slug: 0145-the-path-of-ascension-chapter-446
+partOf: the-path-of-ascension
+position: 145
+ownLength: 5303
+unit: words
+ownProgress: 5303
+publishedAt: 2025-10-03
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2649403/the-path-of-ascension-chapter-446"
+royalRoadId: "2649403"
+markedReadAt: "2026-06-29T19:22:39.686Z"
+---
+
+Chapter 446
+
+Having discovered the strange realm’s true rewards, they didn’t linger once they were sure nothing else was happening, and instead rushed back to base at their best speeds.
+
+The weird spatial expansion in the side area where they had found the pocket space still immediately pushed them out the moment they tried to retreat. Then they checked that the area hadn't been reset or changed by the strange realm before moving on.
+
+Matt was actually able to beat everyone except Allie back to the base through raw physical power. It would have been close, as the excitement had everyone moving at their best speeds, but simply getting a little ahead wasn’t enough for him. He further boosted his speed by throwing his mana pool at the effort, letting him pull well ahead of the others with a short but important burst of speed.
+
+Still, no matter what he did he was never going to be faster than the teleporter, given that she was perfectly able to teleport the spell’s normal cast distances in the strange realm, which let her quickly traverse the intervening distance in rapid short hops.
+
+Thankfully, he was only slightly slower, and she hadn’t been able to spoil the rewards before he arrived.
+
+In fact, she had gone to Zack instead of trying to spoil the telling Liz part, which Matt appreciated.
+
+Finding Liz was, thankfully, easy, as he could feel where each of them was through their rings. But Matt didn’t bother one of the Lizes hiding, instead swapping places with the nearest human Liz, leaving a slightly surprised phoenix Liz standing on his shoulder.
+
+She warbled at him even as a wing expanded to form a fully formed human Liz, who gave him a bemused look.
+
+Matt hardly minded, quickly sharing the good news. “When we killed the boss it took on the mana type of the final blow, and we think that will let us make ‘custom’ Natural Treasures. You can finally get your hands on Ichor Natural Treasures!"
+
+Liz froze mid expression and Matt silently tallied the moment in the ‘Matt surprises Liz’ column to be brought up later.
+
+Her grin was wide and instant.
+
+“That is fantastic news. How many times do you estimate we need to kill the boss until it's fully aspected? That will determine how long we need to hold on.”
+
+Matt and Liz ran some estimates and calculations, but ultimately, they wouldn’t truly know until they were able to check after the area finished repairing itself. It was likely, but not confirmed, that the area would operate on a day-night cycle, nor was it certain that the rate of change per cycle of kill would be the same.
+
+Despite all of those uncertainties, Matt was able to give his wife the number she wanted to hear.
+
+“Somewhere between ten and fifteen days. My bet is closer to fifteen or twenty, but there is variance.”
+
+Liz’s laugh warmed his heart but her kiss was worth every ounce of effort the revelation would bring in the coming days.
+
+They had to put everything they had into this strange realm now.
+
+Whereas defeat had been unwanted but acceptable when they entered, not knowing what they were actually getting out of the strange realm, it was no longer an option given that only the final remaining team got to keep all of their Natural Treasures. They needed to be the last remaining team.
+
+Seeing the others arriving, Liz and he stepped out to where Zack had been working on the base perimeter defences, as everyone else seemed to be gathering around them.
+
+Aster, still giddy, launched into a retelling of their not at all difficult fight the moment she arrived, her golem swinging its arms around wildly, nearly taking off Susanne’s head as it attempted to act out what she described.
+
+Not that Susanne seemed to mind, with her own small but impossible to miss smile never leaving her face.
+
+Natural Treasures were some of the most valuable rewards an exploration team could find on an expedition, and a strange realm that gave them any amount of control could let them multiply the value of their rewards dozens of times over.
+
+Allie unsurprisingly raised the question on everyone's mind. “What elements do we want to convert stuff into so we can maximize the value of what we pull out? Obviously we—”
+
+Rah, however, raised a question Matt hadn’t considered on the heels of Allies. “Do we want to inform the other groups?”
+
+Everyone looked to Rah, who looked just as confused. Eventually, he gestured around them. “In my realm, anyone exploring such a strange realm would try to share gathered information about how the realm works.”
+
+Zack carefully spoke clearly, choosing his words so as not to offend Rah, “That is surprisingly… kind of your people.”
+
+Instead of being offended, Rah laughed. “Kindness had nothing to do with it. It is all about favors and debt. Any team strong enough to survive and thrive would learn about such information sooner or later, so telling them early simply earns good will. As for the weaker teams who wouldn’t figure it out on their own… Well the better they do, the more we can take, should we decide to eliminate them ourselves. Logic dictates its best to fatten the sheep up before slaughter, and that is easier if you have seen everyone else.” As he realized how that sounded, Rah shrugged. “Not that we need to go after the weaker teams, but the logic seems fitting. If we all agree, I’m willing to spread the word. Being an ascender rather than an Ascender, I might be more… welcomed than any of you, given historical enmities.”
+
+Matt considered that and thought he agreed with the logic.
+
+This strange realm might not force fights, but it was encouraging everyone who entered to go after the weaker teams when things started getting difficult.
+
+That meant there was a ring of logic to Rah’s suggestion, even if they only did so while warning the other teams off.
+
+Matt had no interest in stealing the hard work of others, but his logic was equally true for the other teams.
+
+If they thought they were going to be eliminated soon, it was not just possible, but likely they would try to take another team out before they were eliminated.
+
+It’s what Matt would do if he didn’t think he could continue, and he stood to lose most of their collected Natural Treasures.
+
+Sharing a look with Liz and Zack, Matt changed some of his priorities to further improving their defences.
+
+Allie agreed. “I’m fine with that. In fact, I think we should send Matt or Liz to deliver the message. That will serve as a good reminder as to why they really shouldn’t turn their fangs towards us. People always react best to overt displays of force.”
+
+Matt didn’t mind and volunteered immediately, knowing Liz would want to start her own ichor area sooner rather than later.
+
+That settled, they returned to Allie’s original question: what Natural Treasures should they prioritize beyond the ones they wanted. Or to be even more blunt, what were the most valuable Natural Treasures they could make.
+
+Their answer was both simple and incredibly complex.
+
+Thanks to Matt’s mana aspecting ring, they had access to nearly any mana type or mana variation type they could think of. Also, while Zack had arcane mana, he had to really know the mana type if he wanted to separate it out from the mass. Or in their case, have Matt show him a sample of the mana.
+
+Matt’s ring didn’t have that many level 5 mana types, given how rare they were, but the two he did would hopefully prove incredibly valuable. The Mind mana sample had been won in a bet with Max, and the Reality one was from a similar bet with Maya. Both had wanted aura of those types and as such had ‘lost’ bets with Matt, ensuring he had no excuse as to not work on their projects.
+
+Matt felt it was almost poetic that Sien was being left out because she had stubbornly refused to throw a bet like that, which meant he didn’t have a sample of Dream mana, given how stupidly rare the mana type was, to make Natural Treasures for her.
+
+That was ultimately where they decided to spend some of their extra time. Between Matt’s ring and Zack's Arcane mana, the two of them would be in charge of making most of the extraneous deeper areas, with the understanding that they wouldn’t be put on rotation defending the base until things became more challenging.
+
+That meant they were going to be making Natural Treasures for the team's profit, and the richest people they knew were the other Ascenders, who would undoubtedly pay a premium for perfectly aspected Natural Treasures, regardless of Tier.
+
+Their second highest priority for Natural Treasures were the crew of the Unsparing. Thankfully, most of them had overlapping skill types, allowing them to knock them out with correspondingly few allocated areas.
+
+After that, they decided to go for pure profit.
+
+Arcane and Void would get several areas each. First, Matt wanted a way to aspect his mana to Arcane, and second, they were undoubtedly the two rarest Natural Treasures to find in the wild, making their baseline prices a lot higher than a Natural Treasure made from mainly fire mana.
+
+Ichor would also be extremely valuable, which was why he was so happy for Liz.
+
+Historically, it took a very long time before Natural Treasures of a new element started appearing in rifts. That went doubly so for high level elements like Ichor, for which Natural Treasures would be rare to begin with. Adding in the time to mature and Tier up if the Natural Treasure went through that process, they would be lucky if more than a handful of Ichor Natural Treasures were sold post breach.
+
+This strange realm would hopefully change that and the same thing went true for Travel mana if not more so. If the resulting treasures were in any way useful every speed based fighter in the realm would be clamoring to get their hands on such Natural Treasures.
+
+Aster and Susanne both argued they should fully dedicate their extra efforts to those three most expensive mana types, but everyone else agreed it was better to spread the net wide in case the strange realm had some hidden restrictions.
+
+With that in mind, they decided to allocate some time for all of the level 1 mana types as well as the more expensive level 2 mana types, like Healing and Divination, wanting to see if they could stumble on something truly rare or unique.
+
+Plan laid out, Matt and Zack immediately set out towards where they had seen the other teams’ towers.
+
+With only a small distance between them, they could have covered the distance in short order, but they first moved to a central location before going to the first group.
+
+They had debated what order they should visit the teams, as they didn’t want to give away too much information, and ended up picking the northernmost tower first as the most neutral and interesting decision.
+
+As they got close, it became clear the tower belonged to the Federation team. The team had turned the surrounding miles nearest to their tower into a flat wasteland surrounded by warning posts urging everyone away or be treated as enemies.
+
+Instead of barging in, Matt took to the sky a dozen miles away and used [Light Manipulation] to darken the area around him in as non-threatening a gesture as he could, while Zack watched on from a hidden vantage point, ready to back him up should the Federation team ambush them.
+
+Thankfully, Matt saw the reaction he was hoping for as five people took to the enchanted walls, while another two slowly edged forward until their spiritual perception could cover the shorter than normal intervening distance and allowed them to talk.
+
+Marve wasn’t among the group, but Matt hadn’t expected him to be waiting in the rear, given what little they knew about the man.
+
+Instead of complaining, Matt passed on the information they had learned, happily answering any questions they had. As he kept them occupied, Zack was busy scanning their defences in case they had to fight the Federation team.
+
+It seemed unlikely, but they weren't going to take any chances.
+
+Once the Federation team ran out of questions, they visited the next team, which turned out to be the Monster collective pack, who were grateful for both the information as well as the knowledge of who their nearest neighbor was. The pack leader, Ralph, even went as far as promising to pay them back if possible.
+
+Matt wasn’t entirely sure the other guild leader was being sincere, but he also had no proof he wasn’t either, so left as quickly as he could.
+
+The next team was the Empire group, and while they didn’t open their doors or let him near their base, and therefore tower, they were far more cordial. So much so, they were willing to ask more sensitive questions than the other two teams had, such as estimated kill times and potential danger levels. Such topics were usually considered rude to ask, as the answers would give away possibly crucial information about a team's weaknesses, but Matt wasn’t worried about the team and gave detailed answers. He did strictly stick to a general power level estimate when comparing teams, but they were grateful to not have to learn the hard way.
+
+In return, Matt learned far more about the explorations Clare had led. They hadn’t yet risked pushing too deep into any of the pocket spaces, but they had identified three spots and were looking for more. Clare even went as far as explaining the tricks they had discovered to find the pocket space beyond seeing a monster stumble out.
+
+According to Clare, they had been considering fully clearing out one of the areas to see what would happen when Matt arrived.
+
+Being far closer to them than the others teams had allowed him, Matt took a moment to inspect the Empire team before offering as they parted. “We can’t help much, but if you make a large enough commotion, we will try to save you guys if possible.”
+
+He didn’t, however, tell them directly where their base was. It just wasn’t worth the risk given how their towers were their ultimate lifeline in this strange realm.
+
+Having visited three other teams before them, Matt didn’t expect much different from the Corporation team, which was why he was surprised by the fact he was noticed before he did his well practiced light show.
+
+Not approaching any farther, Matt watched as a deceptively plain woman flew into the air in civilian clothes, of all things.
+
+He had expected a lot of things, but a mask he couldn’t see through combined with presumably an illusion of civilian clothes put him on edge immediately. That apprehension doubled when she got close enough for him to confirm the illusion's existence, even if he couldn’t pierce it without directly attacking the construct.
+
+The woman floated in front of him just a few thousand feet away, far closer than even the Empire team had dared approach.
+
+In perfect Empire she asked, “What have we done to deserve the honor of your presence, Ascender Indomitable Titan?”
+
+Matt didn’t immediately respond, letting his spiritual perception search their surroundings, but finding nothing out of the ordinary beyond the woman in front of himself, he shared what information he had.
+
+Unlike the other teams who were all joyous at the thought of controllable natural treasures, the woman just watched him impassively.
+
+When he finished, she nodded once before turning away. “Thank you for the information. As for your unspoken threat, we have no intention of fighting amongst each other, but we will not hesitate to retaliate against any who attack us first.”
+
+Having said her piece and not seeing any reason to linger, the woman floated back down to the sanctuary they had built next to a picturesque lake and into the robust defences the Corporation team had set up.
+
+They were, in fact, the best defences they had seen so far, with signs they had been prepared for such an eventuality, with prebuilt defensive formation plates set into the walls. That would have made their setup easier and would improve the quality of their defences. It was something Matt made a note of to work on when they flew to the next world for himself. A small but possibly useful side project.
+
+Zack appeared next to Matt as the two of them floated and watched the team below.
+
+Not taking his eyes off the base Matt asked, “They spotted you?”
+
+Zack nodded. “They were so fast, I suspect they were already aware of us long before we even started our approach. Even without the fog limiting our perceptions, that isn’t easy.”
+
+Matt mulled that over but eventually shrugged. “Maybe they can see through the fog.”
+
+He suspected the team was a Corporation elite army team trying to keep their identities under wraps, but they could just as easily be a mercenary team with a bad reputation trying to keep their heads down during the exploration of the Rasdale breach.
+
+Getting revenge in the Great Powers’ settled space might be impossible, but during a breach, there were endless opportunities to mete out retribution.
+
+Having felt the woman at such close range, he wasn’t in any rush to start a fight, but he wouldn’t shy away from one if it came to that.
+
+Finally, they visited the Clippers’ base, dropping off the same news about the pocket spaces, with the only difference being Zack wasn’t spotted.
+
+Returning to the others, he and Zack explained all that they had seen to Allie and Aster, who were defending the base, knowing they would pass the information along.
+
+From there, he and Zack flew off following the directions Liz and Zack had noted monsters came from when they were defending the base. It wasn’t the best method to find the hidden spaces, but it was their best lead other than the tips Clare shared.
+
+Spear wielding salamanders weren’t exactly what they had been aiming for, but when they flew directly over the compressed space that was their home in the center of a small valley, the two of them stopped and cleared it.
+
+In their planning they had considered the variance that the monster type would have on the resulting Natural Treasures, but they had ultimately decided to deal with that only if it was a true factor.
+
+Wanting the pocket space to be their first Arcane area, Matt was more than happy to play it slow. Repeating the slow and methodical approach, they cleared the rift while ensuring Zack got the final blow with an Arcane spell.
+
+Almost instantly, the desert valley around them started to sparkle with the pearlescent energies usually only seen with Arcane mana.
+
+Matt could only hope he’d end up with a Natural Treasure that could aspect his mana pool. To bolster their odds, they created two more Arcane areas before moving onto Void.
+
+That pocket space was a lot tricker. His own [Void Claw] was the only Void skill the group had, and with how long its cooldown was, they couldn't afford to mess up the boss kill. They managed it, but that pocket space would take additional effort to clear.
+
+Void was so dangerous, they started with a pocket space that was exceptionally far away from their base, just in case they lost control of it and something bad happened.
+
+With Zack being there and able to counter the mana type, that was unlikely, but still very possible given how dangerous Void mana was.
+
+Matt suspected that wasn’t part of the strange realm’s normal challenge, but one they would face.
+
+From there, he and Zack went and cleared dozens of strange areas, creating their planned Natural Treasures.
+
+They needed to hurry if they wanted to get ahead.
+
+***
+
+In a stroke of good news, it took only twelve days for the pocket areas to fully convert into the desired mana types, but that was the only good news.
+
+In return for their ability to change the natural treasures that spawned, the monsters had started becoming far more dangerous with each passing day.
+
+From a few skills used at the worst times at the beginning of the strange realm, the monsters now used spells with every strike and move, making the boss fights exceedingly difficult.
+
+That would have been bad enough on its own, as the monsters were now difficult enough that they were moving around in teams of three instead of pairs, but the pocket spaces they didn’t enter weren’t sitting idle.
+
+No, they produced empowered monsters and dumped them into the nigh impenetrable fog with seemingly zero rhyme or reason to their timing or numbers. The monsters’ mana types didn’t change from their baseline without one of them to kill the boss each day, but they saw the same increases in power the cleared pocket spaces did.
+
+All of those downsides came with one glaring inadvertent upside.
+
+Unlimited monsters to kill.
+
+With the spiritual dampening fog combined with the sealed off pocket areas, they were able to unleash their strongest cards.
+
+Liz benefited most of all, as she found that so long as she stayed in the base, she had just enough spiritual range to cover three of the pocket spaces, letting her pull double duty, gathering essence at a speed even Matt couldn’t match.
+
+Tier 29 was a massive cavern of needed essence, being the tenth step, which he would be grateful for. Matt had never considered the fact more than when Rah arrived and brought with him cultivation techniques where the five and ten larger increments were also present. It was a strange constant between systems, indicating it was a deeper spiritual cause.
+
+That would let them catch up to Aster, who was already trying to fill in the larger than normal Tier. Tiering up would also let them actualize their current Tier, improving their strength drastically as they actualized so much of their essence.
+
+The Tiers were getting steep, so closing the gap by one would help a ton.
+
+With Liz handling their defences, Matt wasn’t about to be left behind, and so with Susanne and Zack, they headed to one of Susanne’s pocket areas.
+
+The formerly simple ants had long since transformed, their pincers having morphed into swords that bled Divination energies mixed with Wind and Metal.
+
+Unlike the rest of them who had gone all-in on a single mana type, Susanne never put the same mana type into the boss twice. Each kill was a carefully thought out addition, trying to create herself a truly perfect Natural Treasure.
+
+Given that they couldn’t inspect any of the Natural Treasures before they were sucked into their heart gems, they couldn’t be sure her idea was working, but the monsters were some of the strongest creatures they had to fight, indicating she was doing something right.
+
+Matt reached out and grabbed a pincer in his left hand while cutting out with his blade in the right, bisecting a distant ant who made the mistake of giving him its profile. The [Mana Slash] sent it slamming into the far cave wall, where Zack finished it off with a piercing spell.
+
+Easy monster taken care of, Matt gave his full attention to the monster trying to eat him. Two weeks into the strange realm, the enchanted steel of the ant's pincers now managed to cut through the outer layer of [Cracked Phantom Armor] but not the inner. He suspected in two more days it would manage the feat, but that day wasn’t today.
+
+Twisting with all of his might, he exposed the left side of the monster to a Susanne clone who darted in and gutted the massive ant.
+
+Bright blue acidic blood exploded outward, as if the creature was under great pressure, but Susanne darted over the wave, her eyes glowing a silvery golden hue as they bled.
+
+The air crackled and the cave was illuminated for a brief moment when Zack cast [Chain Lightning]. Instead of a simple golden-white spell, it crackled with blue and silver energies. Ice froze the monster’s exoskeleton, while the silver metal mana sliced through the more vulnerable joints with pinpoint precision.
+
+Matt didn’t bother with any such finesse.
+
+Rushing past the real Susanne, he cut two rushing ants down with as many quick swings, but as the two were replaced by a dozen crawling from deeper into the strange space he cast [Cosmic Pressure], keeping the range to only a few feet from his body.
+
+The loose earthen ground was instantly compacted downward until they hit something incompressible, probably the edge of the strange realm or pocket space.
+
+The monsters didn’t fare any better than the ground did. Their larger than normal size meant they experienced greater strain from both the normal gravity and Matt’s strengthened area at the same time.
+
+Only two days ago that had been more than enough to crush the ants, but now it only slowed them down.
+
+Blue acidic blood leaked out of their joints, but that didn’t stop them from biting at Matt.
+
+A lucky pincer attack wrapped in wind mana slipped past Matt’s guard, letting the ant bite his leg. Automatically focusing on his leg, Matt used both layers of [Cracked Phantom Armor] to slow down its gnawing, even as the ant tried to lift and slam him when its blades didn’t work.
+
+Matt didn’t stop it beyond casting [Cosmic Pressure], instead giving most of his attention to the ants that were rushing from deeper in the nest.
+
+Flooding his arms with his willpower, Matt felt his strength increase and his raw physical power transcended the Tier 30s’ defences; his blade screamed as it cut through their hardened shells, acidic blood covering but not harming him in the slightest.
+
+Knowing he would lose his Power boosted strength in another moment, Matt launched himself forward, letting his leg remain behind instead of slowing down enough to deal with the ant that was still trying to chew through his layers of defence.
+
+Matt brought his longsword down on the large shield headed ant, trying to plug the rest of the tunnel with its own body.
+
+[Tribulation Strike], [Mana Slash], and [Mana Charge] obliterated the ant’s head and killed the wave of monsters that rose behind it.
+
+Trying to keep his Power going for a moment longer, Matt roared, feeling things tear and break only to be healed by [Regeneration], only to be torn again and restart the process. Through it all, Matt concentrated on amplifying himself without slipping out of his harmonization.
+
+It was like trying to juggle with his feet, but Matt managed to keep the empowerment going for a moment longer than he had the last time.
+
+Progress, even if incredibly slow and tedious.
+
+Through it all, as well as the recovery, Matt couldn’t help but feel as if he was doing something wrong. His gut wasn’t as helpful as he’d have liked, but he couldn’t stop wondering what he was supposed to be doing.
+
+Matt didn’t mind beating his head against a wall until the wall broke if that was what it took, but he had spent far too much time under Luna’s tutelage to accept mediocrity.
+
+Letting his body go into autopilot as they killed their way deeper, approaching the ant queen, Matt focused on his internal world.
+
+As he harmonized but didn’t amplify his Power, Matt groped at himself blindly.
+
+He dismissed his pride and arrogance at having done so much instinctively when it came to his Domain. He also dismissed everything he knew and had been taught about Powers, letting emptiness fill him.
+
+He was punching one of the ants queen’s summoned mini-bosses to death when his mental image slipped from the braided cords into… something else.
+
+If he didn’t know better, he would have said it was Rah’s cultivation technique, a river of stars sparkling like cut and polished underwater gems.
+
+Except it wasn’t Rah’s cultivation technique, rather, it was Matt.
+
+A river of stars pouring from a blank emptiness to fill the sky.
+
+The rivers entwined like ivy trying to climb a tree; the whole tangle was an ordered mess.
+
+Matt thought he was onto something, but found that while the image felt good, right even, he couldn’t actually interact with it.
+
+That didn’t mean it was wrong, but the methods to which he empowered himself with his cable image didn’t work when focused on this new attempt.
+
+He was starting to feel around this new mental image when Matt found himself without a new enemy to fight, which kicked him out of his zen state better than anything else.
+
+Instead of trying to force it, Matt stepped back and watched as Susanne fought the boss to a standstill.
+
+It was something she and Rah had started to do and something the other ascender hadn’t managed to continue.
+
+Logically, Matt understood both of the non-Ascenders pushing themselves to improve, but they had both nearly died trying to solo their personal bosses.
+
+Rah wasn’t necessarily weaker, but his cultivation method limited him, and even Matt could read his irritation at the difference in raw power.
+
+That was only exacerbated by the rest of them reaching or nearing Tier 29 at a rapid rate.
+
+Ambient cultivation, no matter its upsides, simply couldn’t keep up with the speed that cultivating monster essence offered in rifts or strange realms.
+
+With dozens of rifts-worth of over-Tier monsters killed every day, the rest of them were advancing quickly; Susanne, the only other non-Ascender among them, leaving Rah farther and farther behind.
+
+Nearing the peak of Tier 28, she managed to fight the Tier 30 boss to a standstill and was slowly, agonizingly slowly, whittling it down.
+
+Despite that lack of speed, Matt could see Susanne’s recent improvements.
+
+Even as her eyes bled macabre lines down her face under her helm, she never blinked, taking every move of her future sword in her gaze.
+
+Sidestepping, Susanne left a clone in her place, cutting up into the ant queen's mouth. The destroyed clone reverberated back to her, causing some spiritual damage, but Susanne’s real body’s blade flicked out, finally completing its stroke.
+
+Blood and essence rained down and flowed around like a pool, Susanne unable to absorb all of the energy and shunting the rest to himself and Zack.
+
+Matt didn’t shy away and pulled the essence into his core, approaching Tier 29.
+
+Susanne pulled her blade out of the monster while finally looking up. “That's probably my last one. At least until we Tier up. That should make things a lot easier.”
+
+Zack didn’t say anything but Susanne shot him a small smile.
+
+After giving them a moment Matt clapped. “Then lets go clear the next one. I think we can all reach Tier 29 today if we push a bit.”
+
+That excited all of them and they were quick to leave and start flying to the next location.
+
+Their contentment vanished when a massive pressure wave slammed into them even through the oppressive and ever present fog.
+
+Triangulating the location, Matt wasn’t surprised to find it somewhere between the Federation and Monster Collective teams.
+
+Things must have finally gotten desperate for one of the other teams and they might have decided to strike out.
+
+They could ignore it, but that would be foolish.
+
+Without a word, the three of them changed directions and raced toward their base and the explosion.

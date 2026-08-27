@@ -1,0 +1,923 @@
+---
+id: f77337bd-f1ac-519e-8e6e-f078caf95178
+page-type-slug: story-chapter-royal-road
+title: "382 An Earned Intermission"
+slug: 0342-382-an-earned-intermission
+partOf: the-new-world
+position: 342
+ownLength: 5725
+unit: words
+ownProgress: 5725
+publishedAt: 2025-02-28
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2095915/382-an-earned-intermission"
+royalRoadId: "2095915"
+markedReadAt: "2026-06-29T21:32:58.357Z"
+---
+
+Helios frowned.
+
+"Your lottery was vastly different than my own."
+
+Torix pressed his fingertips together.
+
+"What did Elysium do to your rulers?"
+
+Helios crossed his arms.
+
+"They ensured everyone's survival."
+
+I gawked. Helios shrugged.
+
+"494 survivors. I am the only reason any rulers died."
+
+Chapter Begin
+
+I leaned back in my chair.
+
+"But how many actually walked away sane and whole? They must've destroyed the minds of damn near everybody."
+
+Helios pressed two fingertips against his temple.
+
+"They targeted the albony because we were at war. Every Elysium agent I caught operated with other rulers to ensure their survival. They also exposed several faults in the lottery's makeup to ensure no one lost their gathered resources."
+
+Remembering how we found those same loopholes, I tapped my side.
+
+"Alright. How do you know they didn't turn everyone's minds to scrambled eggs?"
+
+Helios crossed his arms, checking his status.
+
+"According to even a cursory glance, Schema psionically checked everyone's minds after our return. Schema implemented experts within each empire that understood the minds they checked. Everyone acted normal, though grateful to Elysium for the help. Considering everyone tied for first place, that is to be expected."
+
+I took a breath.
+
+"It wasn't difficult to tell which rulers Elysium transformed either, huh?"
+
+Helios read through a few of his messages.
+
+"That's why the albony rulers in the Ostaltia Cathedral showed signs of Hybridization. Imperial guards uncovered their changed natures and did battle. The implanted monsters burst forth after they began fighting, not before."
+
+Helios closed his status.
+
+"Regardless, that goodwill from the lottery is why I think Elysium's forces quintupled."
+
+I frowned.
+
+"Goodwill to Elysium and bad will to Schema, huh?"
+
+Helios leaned against a hand.
+
+"It can be assumed."
+
+Several of my minds kicked into high gear. I tapped my knee.
+
+"If that's the case, we can learn from your counter perspective."
+
+Torix nodded.
+
+"We can, though you'll need to explain your lottery."
+
+I leaned against steepled hands.
+
+"First, how many Elysium agents were at your lottery?"
+
+Helios peered up.
+
+"Hm. At least thirty."
+
+I raised a brow.
+
+"We found one. The remnant we met must've eradicated the other Elysium agents before we crossed paths."
+
+Plazia scoffed.
+
+"They wished to be the head of the hydra."
+
+I clasped my hands together.
+
+"That also means they probably intended to help me before one of their agents went rogue. Several months into my lottery, I met Valgus, so they had plenty of time to do all that."
+
+Shalahora spoke, surprising us all.
+
+"My shades found psionically destroyed people. They may be the rogue agent's victims and the agents we spoke of."
+
+Plazia leaned against a hand while peering at Shalahora.
+
+"You mask your presence well."
+
+Torix steepled his hands.
+
+"He does. Assuming the agent destroyed the others, perhaps Elysium was sincere in their excuses?"
+
+I let out a long sigh.
+
+"Yeah. Maybe."
+
+Torix tilted his head.
+
+"Which means we may have instigated a war with Elysium without due cause, correct?"
+
+Shalahora murmured, and it silenced everyone.
+
+"After breaking a treaty in an unknown way, Elysium sent a representative to Daniel's home, somewhere he wished to hide. They landed ships onto his planets to kill people under his protection. After Daniel eliminated their attempted intimidation, they sent Lehesion, a planetary threat. Why?"
+
+Shalahora whispered with force.
+
+"They wanted to carve a lesson of fear into us. The Harbinger, in turn, carved that lesson into them."
+
+Shalahora leaned back onto his umbral throne.
+
+"He has done nothing wrong."
+
+Torix nodded.
+
+"Excellent points. You're name was Shalahora, correct?"
+
+The Sovereign oozed.
+
+"The Sun Swallower."
+
+Torix put his arms on his armrests.
+
+"I shall remember it."
+
+I cupped my chin.
+
+"My guess is the rogue agent saw the opportunity to put Valgus in my body and went for it. They planned it out for months before finding an opportunity where Shalahora was away from me. The rogue agent had killed the other Elysium agents to prevent them from stopping the new plan."
+
+Shalahora muttered.
+
+"It is so. I still wonder how they unlatched the psionic gauntlets?"
+
+I shrugged.
+
+"They figured out the exotic mana signature. They might've been an artifact collector like Obolis and could've hidden that from the others. Either way, Shalahora and my lottery make much more sense now - it was an outlier."
+
+Torix put his fingers to his temples.
+
+"It still doesn't explain why Elysium uses such insidious methods when they haven't before this lottery."
+
+Helios rolled his fingers on his void ice throne.
+
+"I have a circumstantial lead. I think Schema wasn't telling us the full importance of the lottery."
+
+I frowned.
+
+"I think he did it to trim some fat, get resources, and send a message."
+
+Helios reached out.
+
+"A message? Do you believe Schema is that emotional? A machine?"
+
+I shrugged.
+
+"It's my gut instinct."
+
+Helios squeezed a fist.
+
+"But the foolishness of it? Schema is in the middle of a galactic war. Sending his allies to a death match thins his numbers and gives Elysium more support. His timing is far more than counterintuitive; it is suicidal."
+
+Plazia cackled.
+
+"It's simple, isn't it? The lottery was more important to Schema than its war for existence. It calculated the likelihood of both outcomes and decided that hosting the lottery reduced its chances of being destroyed."
+
+Plazia put both his hands on his throne.
+
+"It must fulfill some purpose beyond simply ranking rulers or culling the weak. As for the message, I doubt that machine can conceive motivations beyond the quantitative."
+
+I glanced at Plazia.
+
+"You'd be surprised."
+
+Torix pressed a hand against his skeleton throne.
+
+"Our whimsical musing aside, we must uncover Schema's reason to host it. All will be made clear if we do."
+
+I pointed at Helios.
+
+"Also, how long was your lottery?"
+
+"In Earth time? It lasted three months."
+
+I raised my brow.
+
+"Ours was six. My guess was that Leviathan-7 was closer to the black hole than Leviathan-6. Yenno, if we gauge it by the temporal dilation. If that's the case, Schema and Elysium knew my lottery would involve the most difficult-to-survive and lucrative planet. Schema also sent Obolis there."
+
+Shalahora's eyes narrowed.
+
+"He was a double agent sent to kill rulers."
+
+I stood up.
+
+"Maybe he wanted to kill me? Who knows?"
+
+Helios scoffed.
+
+"Obolis is greedy, but he is no fool. He wouldn't attempt to kill you."
+
+Torix steepled his fingers.
+
+"The Emperor put all of his family's lives at risk for a chance of net gain. Who are we to say where Obolis's ideas for dominance end and begin?"
+
+Helios squeezed a hand on his throne. I waved my arms, ensuring I didn't smash them into the ceiling.
+
+"I think we've learned all we can from this. We'll keep thinking about it, but the key takeaways are this: Schema's hiding something. Elysium knows what it is. We must find that out so we aren't left blindsided again."
+
+I spread my hands.
+
+"Make sense?"
+
+Everybody stood in tandem, saying variations of yes. A soft voice echoed into the room as we all stood in our circle.
+
+"Am I, uh, interrupting your meeting? An evil one?"
+
+Althea leaned in, peering through a doorway. I smiled.
+
+"Actually, we just finished our nefarious plans."
+
+Althea walked over.
+
+"You guys really went all out, huh?"
+
+We peered at our thrones. Plazia leaned forward, placing his palm on his basalt throne.
+
+"It's a matter of course. In our bearing, we show our being."
+
+Althea put her weight on her hips.
+
+"So, it's like your style or something?"
+
+Plazia peered at his throne before turning back.
+
+"Hm. Essentially, yes."
+
+Althea walked up between Plazia and me. She sat down, and a throne of wildlife erupted. Trees, plants, and numerous flowers intertwined into a forested seat. Birds sat on the edges of the branches, flowers blooming with crimson thorns. I touched one.
+
+"How are you doing this?"
+
+Althea strained.
+
+"You know, nothing special."
+
+I leaned back, inspecting behind her. She molded all the bursting wildlife from a single hand, resulting from her transforming ability. I gave her a thumbs up.
+
+"Damn. You've gotten good at this."
+
+She smiled.
+
+"You give me plenty of practice."
+
+Helios walked out of the room.
+
+"And I shall see myself out."
+
+Althea stood up, reforming in a second, and her transformations flowed through her without any unease. She waved at the albony.
+
+"It's good to have you back. Go see Florence. He needs you."
+
+Helios smiled.
+
+"It's good to be back, and I will."
+
+He warped away before Torix stood up. The lich walked out of the room, opening his own rift.
+
+"We may discuss the details of the new body and other matters later. She needs time with you."
+
+Althea leaned against me, giving me an irresistible smile. I shrugged.
+
+"Yeah, pretty much."
+
+Shalahora gave us a nod before wisping away in an instant. Plazia touched his basalt throne, melting it back into the ground. He turned to us.
+
+"You implied sexual contact earlier. How does your species mate, precisely?"
+
+Althea furrowed her brow.
+
+"We're not the same species."
+
+Plazia leaned back.
+
+"What? You look the same to me. All of you."
+
+I gawked at Althea, her being less than half my height.
+
+"Really?"
+
+Plazia waved us off.
+
+"Go enjoy your courtship. I must discuss with the lich, for he is not easy to speak with."
+
+Plazia steepled his hands.
+
+"It is fun to argue."
+
+I waved an arm.
+
+"See ya."
+
+Plazia turned, insects swarming from his footsteps.
+
+"You as well, Harbinger."
+
+Before I forgot, I pulled out a few blue cores, tossing them over. They floated in front of Plazia, and I pointed.
+
+"I've got plenty of those, so there's a couple to experiment with. Try them with the omega strain or something, though not on live humans."
+
+Plazia murmured.
+
+"Would you prefer eldritch?"
+
+I waved a hand.
+
+"Plants. They don't have minds and can't feel pain. I think."
+
+Plazia cackled.
+
+"As of yet, Harbinger. As of yet."
+
+Althea and I stepped out, and I sent Helios my speech from earlier that detailed my lottery. I turned to the beautiful woman below me.
+
+"Hey."
+
+She smiled back.
+
+"Hey. Do you have a moment?"
+
+A thousand tasks popped into my head that all needed doing asap.
+
+"Of course. What's up?"
+
+She interlocked her hands behind herself.
+
+"I was wondering if you wanted to have a date? I've been missing you lately."
+
+I'm a big, strong multi-verse, so I stuck to my guns and kept grinding. I wasn't about to let this distraction get in my way.
+
+"Yes. Absolutely yes."
+
+She tilted her head, her hair falling from her shoulder.
+
+"What about starting right now?"
+
+I reached out a hand.
+
+"Why not?"
+
+She grabbed my fingers, and we walked through the lowest level of Mt. Verner. Here, the tunnels spread out vast and wide for moving cargo. It gave me enough room to walk around, though I sometimes bent my head to avoid lamps. Crystallized manas sat in them, and they lit the lower tunnels.
+
+Each part was connected by wires. Coming close to them, I rubbed a hand across one. Tougher than copper, it lacked the tensile strength of steel, but it conducted mana far better than either metal. I raised a brow.
+
+"Is this a dark orichalcum?"
+
+Althea rolled her eyes.
+
+"It's from your construction golems. They can make it like you can, though it's nowhere near the real deal."
+
+I nodded.
+
+"I need to make you a new-"
+
+Althea jumped up, hanging off my shoulder. She placed a hand against my lips.
+
+"Hey, stop talking about work stuff. Relax for a bit."
+
+Leaning back, I nodded. She hopped down, flipping around with utter grace. I shook my head.
+
+"You make your movement look like artistry."
+
+She swung a hand. "And don't you forget it." She put her arms behind her head. "For real, though...Where do you want to go?"
+
+I hadn't gone out in months. Years now, probably. I shrugged.
+
+"Er, are there any new places since we last went out?"
+
+She got in front of me, raising her hands.
+
+"Ok, so, what about the eldritch petting zoo?"
+
+I furrowed my brow.
+
+"The what?"
+
+She darted away.
+
+"You'll see."
+
+I followed, pulling myself along. I bonked a few chunks out of several walls before liquefying without heat, gaining the ability on L-7. It stopped me from breaking the place, and I flowed across everything like a river of darkness. As I did, my guildmates gawked at me. Althea received cheers. We reached Mt. Verner's industrial floor before walking to the eldritch containers. As we got closer, I reformed into a human-like visage where I could fit.
+
+I stared at my hands. Althea walked up, putting her hands in mine. She frowned.
+
+"What's wrong?"
+
+I looked away.
+
+"Nothing."
+
+She grabbed a notched horn on my side, pulling herself up to my shoulder.
+
+"Hey, whisper it. I'll hear it."
+
+I frowned.
+
+"I...I just feel very strange right now. It's like I'm not human anymore."
+
+Althea tilted her head.
+
+"What? Of course you aren't."
+
+Her words stung. Finding that hurt, Althea's eyes widened.
+
+"Uh, I didn't mean it. Oh, I'm really sorry. I didn't know that hurt you like that."
+
+She kicked her feet, sitting between my shoulder pauldron and neck.
+
+"You always seem invincible and racing forward. I'm always struggling just to keep up. Being human? For Schema's sake, you're more like a dark, steel paragon of willpower and, uhm, punching?"
+
+I nodded.
+
+"It's a lonely thing to be."
+
+She furrowed her brow.
+
+"That...That sucks. You know what? I think I get it now."
+
+I tilted my head away from her. Althea leaned onto my head spikes.
+
+"You sound like me when I first got here on this planet."
+
+Remembering how disturbing some of her earlier transformations were, I nodded.
+
+"Yeah. I know that must've been hard."
+
+She frowned.
+
+"The good news is, you get over it after a while. It's like, hm, people gawk at you like a weirdo for a while, but they get used to it."
+
+I frowned.
+
+"You're form is getting easier to control. Mine is the opposite."
+
+I lifted a hand, and it bent into different shapes.
+
+"I can hardly walk around like I used to without breaking every room in half."
+
+She hopped down before pulling me along.
+
+"Let's test that out."
+
+We walked up to a series of crates spread around. Within them, different colored furballs hopped about. Two of my older golems guarded the place, their inefficiencies glaring to me now. Still effective, they stopped any eldritch from getting funny ideas, so the monsters cooed and ahhed at nearby people.
+
+I walked up as a twenty-foot-tall titan. The group gave me space before I lunged down. A single finger dwarfed the cage, and the eldritch huddled against the edge of the bars. I put my face on my knee.
+
+"So, did I pass the test?"
+
+Althea glared at the pink puffball, and it moved over to my hand. It grazed me, and its soft fur was like a cold plushy. Tapping with slight pressure, it gave like squishy tofu. It let out a little blurb sound before hopping on my finger. It went in circles.
+
+"Dawwww. It's adorable."
+
+Althea leaned toward me.
+
+"Their fur is actually fingers, and they pry skin apart to go into the intestinal walls of their victims." She waved her fingers around. "Oooh, spooky."
+
+It circled in my hand. I made my voice high-pitched.
+
+"But you can't pierce my skin. Can you, little guy? Can you?"
+
+It hopped up and down, waving a tail with a puffball at the end. It opened two black eyes and let out a tiny tongue like a cat before licking my hand.
+
+I was smitten.
+
+I turned to Althea.
+
+"Can we take it home?"
+
+Althea waved her hands.
+
+"No. Those things shed like crazy. The fur is alive, too, so it doesn't clean right. It, like, crawls around."
+
+Fair points. I gave it one last pet.
+
+"Cya, little guy. I'll try to visit more often."
+
+We walked past several other creatures, many monsters tamed by my golem's presence. We passed the last cage, and Hod sat in it wearing a worn-out mascot costume. I raised my brow.
+
+"Uh. What are you doing here?"
+
+Hod put his wings on his hips.
+
+"Hod finish shady man training. Shady man evil. Evil! Hod come here and help eldritch. Hod good samaritan."
+
+Althea leaned toward me.
+
+"He liked the pets."
+
+Hod stuck out his wing.
+
+"Stop expose Hod secrets! Hod hear all."
+
+Once again, he pointed in a different direction than us. Althea facepalmed.
+
+"He's at it again."
+
+I turned to where Hod pointed, and Shalahora walked out of the ether. The shadow murmured.
+
+"It's incredible. I've yet to pierce his defenses. They are...Immutable."
+
+Hod karate chopped the air a few times.
+
+"Hod like chef. Nothing escape Hod kitchen. Hod too sharp. Hod knife. Not Hod be knife. Hod like knife. Hod think Hod know what Hod mean. Wait."
+
+He narrowed his eyes while striking a pose.
+
+"Hod...Confused."
+
+He did a few spinning kicks, and nearby children shouted with glee. Children? Damn, they weren't as rare these days. Althea and I laughed with everybody before giving Hod some snacks from a nearby vendor. Those snacks siked Althea's hunger, so she pulled me outside Mount Verner. With a cool breeze and the smell of pine in the air, she showed me a new restaurant out there.
+
+Someone built a log cabin surrounded by pine trees, having birds, butterflies, and bees flying nearby from the influence of magic. Quintessence orbs powered it all, and flowers burst forth from ivy in various colors. Stone framed it all near the foundation, giving it a rustic appeal.
+
+I stared at the tiny doorway. It was ten feet tall, plenty for an average system goer. People built buildings taller than they used to because of the system and how it made people about a foot and a half taller than before. Still, I dwarfed this place. Althea gestured to a table beside the entrance.
+
+"Want to sit outside?"
+
+I raised my brow.
+
+"Yeah. Let's."
+
+Several people walked up and talked to us. After a few thanks, we ordered a meal. Althea preferred a rabbit stew with peppered meat and a side salad. Being super lame, I copied her order. They used dressings and seasonings I'd never seen, the stew rich and earthy while the salad came out light and almost frosted. I could taste the cold but not feel it.
+
+I finished the salad before shaking my head.
+
+"I can't remember the last time I had a good meal."
+
+Althea watched a bird sing.
+
+"Me neither."
+
+I watched the bird with her. Peering close, it was a giant hummingbird streaked with blue and yellow feathers. When it flapped its wings, nearby hair stood on end, static shocks erupting. It crossed over before landing beside her. She smiled at it.
+
+"The eldritch aren't always bad. This one's some kind of split between a hummingbird and lightning, er, something? We don't really know. It's not fully eldritch, anyway."
+
+It sang out like a tiny trumpet. I gawked.
+
+"That's awesome."
+
+It flew away, zipping around like a bolt. Althea and I chatted before I got curious about Mt. Verner's ecosystem. We left with a large tip before I put my hands on my hips.
+
+"Do you mind if we just, I don't know, fly around?"
+
+Answering me, Althea spread her arms while forming wings, feathers of violet, mauve, and other shades of purple cascading down. She flew up, her plumage sheening in the sun like tinted metal. I followed. We watched the eltari, gialgathens, and people below just live, play, and toil for something better. It bolstered my spirit in a way I hadn't expected.
+
+It was easy to forget the good I caused when I fought wars or constantly destroyed my mind. While I stared, Althea flew just below me in my shadow. She peered up.
+
+"So, are you still feeling down?"
+
+An irrepressible grin ran up my cheeks. I scoffed.
+
+"How could I? This has been great."
+
+She nudged me.
+
+"Good."
+
+We passed to the other side of Mt. Verner. Other buildings cropped up, and I sighed.
+
+"I really, really needed this."
+
+She looked forward.
+
+"I know. You look...Tired all the time. Er, as tired as you can look. What's got you like that?"
+
+I grimaced.
+
+"You don't want to know."
+
+She flew up into my gravity well, standing upright on my chest. That hung her upside down.
+
+"I do."
+
+I looked away.
+
+"No, you don't."
+
+She walked up chest before grabbing my cheeks.
+
+"Hey, don't tell me what I want, capeesh?"
+
+I frowned.
+
+"Capeesh."
+
+She put her forehead against mine.
+
+"Show me."
+
+I closed my eyes.
+
+"Ok."
+
+I connected our minds. For a moment, she marveled. She found my many psyches working in tandem, their coordination seamless. Althea shook her head.
+
+"This is crazy, but uh, I'm guessing the thing is something else?"
+
+I nodded. She delved deeper, finding the minds in my dimensional wake. They wallowed in a psionic soup, howling out in torment. It was more a general chaos; none of the psyches could coherently think. It made me wonder. Humans' way of thinking could revolve around being a physical being more than we admit.
+
+That might explain why the Old Ones couldn't relate to us.
+
+We rode through a few clouds, and Althea let out a few tears. She murmured.
+
+"This reminds me of before I could hold a physical body. But...It's your head. Or, psionic, whatever you call it."
+
+I peered at the sun. It burned.
+
+"I call them minds."
+
+She shook her head.
+
+"It...It gets better. I promise."
+
+Knowing that wasn't the case, I smiled.
+
+"I know."
+
+I warmed Althea with magic as we darted in and out of the clouds. It got cold this high up. After a few more minutes, we glided back down to the mountaintop. Along the upper edge, she and I landed, hers a graceful dance and mine a thumping collision. We headed into our suite, one tucked away on the mountain's edge.
+
+Two of my older golems guarded the place, and they nodded as we walked up. I flowed inside, finding the suite a bit cramped. Wanting to walk around easier, I committed one of my minds to holding the dimensional fabric outside the place. A wire connected back to my main body, now smaller than before.
+
+Sitting inside, I marveled at how much Althea had changed the place. Different flower arrangements hung from the upper walls, along with colorful kinds of pottery. Wires of my fabric hung, connecting tiny mana stones that sheened in different colors. The light fed the wildlife, keeping it all alive and fresh.
+
+A few butterflies floated overhead. Althea pointed at them.
+
+"At night, they sleep, and the moths come out. They're pretty too."
+
+I raised a hand, and a monarch butterfly landed on my fingertip.
+
+"They're stunning. Really."
+
+I sat in a gravity well above a couch in the living room, soaking it all in. Althea raised a hand.
+
+"Wait a sec. I have to share something with you."
+
+She pulled out a teapot, heated water with it using a runic plate, and pulled out an exotic tea. After a few minutes, she brewed it and came over with two custom mugs. Hers was a dainty, flowered one with thorns across it, giving it an edge. Mine mirrored steel, metallic paint giving the ceramic a different feel.
+
+It was tiny in my hand, but that didn't matter. She poured the tea, and we drank it with these crazy cookies she pulled out of a cabinet. I stared at them, the alien concoctions holding no consistent shape.
+
+"What are these?"
+
+She shrugged.
+
+"I got them from Gypsum. They're supposed to be non-toxic or something."
+
+I waved a cookie at her.
+
+"Didn't you handle a mission there?"
+
+"It's the one where the Spatial Fortress attacked us. Then, a nanomachine behemoth attacked it. We almost died."
+
+"Sounds insane."
+
+"Our usual, right?"
+
+I scoffed.
+
+"Right."
+
+I bit into a cookie, and a flavor flowed through my mouth like warm cedar and honied cream. Soft like a pillow but chewy, I enjoyed the hell out of it before grabbing another one. Althea pulled it away.
+
+"You have to try the tea first."
+
+I sipped on it, and the tea permeated with a sharp, herbal kick tamed by a mellow sweetness. It even carried a savory kind of texture, like milk.
+
+It was delicious.
+
+"Damn, where did you find this?"
+
+Althea spread her hands.
+
+"So here's the thing. I've been researching all kinds of different eldritch, and I've found out how to, like, remake them. You know, my transformation stuff."
+
+I nodded.
+
+"Mm-hm."
+
+She looked out a window.
+
+"I, uh, can mold myself into whatever part I want to harvest. That works with plants, too."
+
+My eyes widened. I held the teacup up.
+
+"This...This is you?"
+
+Althea flushed.
+
+"Uh, sorta."
+
+I gave her a knowing grin.
+
+"You taste good."
+
+I sipped, and she blushed brighter than a tomato. After letting it fade, she coughed into a hand.
+
+"So...Do you remember me telling you about helping kids involved with research?"
+
+I nodded, vaguely recalling something of the sort. Althea crossed a leg.
+
+"I think I've got a strategy for how to do it if you'd like to listen."
+
+I beamed.
+
+"Hell yeah."
+
+She walked into a different room. I followed, finding her workshop. She stored many colored clays, paints, and flowers on additional shelves. Herbal notes about each floral garment lay below them. Althea even tucked scopes, rifles, and gun parts away in a different corner of the room, a few tools set up for making them.
+
+Notes about eldritch covered the walls, and in the corner, a patch of void ice misted away, keeping the room chilly. On the block of ice, her best rifle sat. It was made of me, though an out-of-date version. Althea tapped the violet crystal below the gun, and it rang out with a consistent note.
+
+"That's there, so my railgun doesn't break through the floor."
+
+I inspected it closely.
+
+"Huh. Smart."
+
+She pulled out a notebook before opening it on her desk. I peered over it.
+
+"What is it?"
+
+She pointed at it.
+
+"It's going to be an orphanage."
+
+I raised a brow.
+
+"Seems like a good way to help research children."
+
+Althea frowned.
+
+"See, that's what I thought too, but the more research I did, the more, er, complex it became."
+
+She waved her hands around.
+
+"So, uhm, whenever you make an orphanage, sometimes it can split families that don't need to be split up. Like, if they were poor and my orphanage gave them more food than the family could provide. Er, housing, clothes, all of that could give parents a reason to get these people away from each other."
+
+I scratched my head, never even considering that.
+
+"Huh. It's a perversion of incentives, in other words."
+
+She nodded.
+
+"Yeah, that's a great way to put it. This, uhm, the incentive structure isn't easy to take out. After a bit of thought, I came up with a solution."
+
+She pulled out a few pictures of eldritch. They mirrored elemental cows and other livestock. She gestured at a picture.
+
+"We can have the children level up by killing eldritch livestock."
+
+I grimaced at the idea of children slitting animals' throats. Althea waved her hands.
+
+"It's not going to be as gruesome as you're thinking. We'll be putting in some controls to make it less personal. Much less personal, like flipping a switch and being out of sight."
+
+I shrugged.
+
+"But they'll gain levels. Sounds traumatizing if they ever figured out what they'd done."
+
+Althea frowned.
+
+"I wish we could be so gentle, but that's a kindness we can't afford to give."
+
+She grimaced.
+
+"No, even worse. It's a kindness they can't afford to take."
+
+When she said those words, my childhood didn't seem so bad. Althea scratched the side of her head.
+
+"There are a few problems with it all, I think. This will lock out many of their later trees since we'll be assisting so much, but it lets us get these children out of the depths of single digits levels. That's the main concern. We'll, you know, support them until then."
+
+Kind of estranged by the concept, I kept my mouth shut. Althea pulled out a few pictures of different environments.
+
+"You grew up outside of a systemized world, right?"
+
+I nodded. Althea waved her hands back and forth.
+
+"The first one hundred levels are a huge bottleneck that most people don't pass. Orphans especially. Now, this planet is actually very temperate for the most part. If we get the kids leveled to forty or so, we can get them to a baseline level of resistance that stops them from being weak to the elements. They'll need less food, too."
+
+I snapped my fingers.
+
+"It's a training center for disadvantaged kids. You'll get them out of the rat race of Schema's low levels. That way, they can help support themselves."
+
+She shrugged.
+
+"That's the plan. The livestock will be killed anyway, and we can have the experience funneled into something more, er, meaningful than gradually leveling a bunch of butchers. Any industry like that can be used like this. I, uh, well, I want to make that happen so fewer people have to die."
+
+I put my hands on my hips.
+
+"Damn, Althea. This is good thinking."
+
+She smiled.
+
+"Torix and Kessiah helped. I've got some land squared away outside of Mt. Verner for it. I need help setting up, but I'm friends with a few engineers here."
+
+I raised a hand.
+
+"I can make you a constructor golem. The world becomes like Minecraft when you have one of those."
+
+She raised a brow.
+
+"Minecraft?"
+
+I waved a hand.
+
+"A videogame from forever ago."
+
+She narrowed her eyes.
+
+"Wait, that's where everybody's like squares or something, right?"
+
+I nodded. She tapped the pages.
+
+"Those videogames...They're like premonitions of Schema, don't you think?"
+
+Having never dwelled on it, I put my hand on a page.
+
+"It's...Huh, maybe?"
+
+She frowned.
+
+"Well, I just thought it was crazy. The more I read about your world, the more obvious it became. It's actually really funny. All your nonfiction books are pure fantasy, while the fiction stories are like gritty realism. It's a real culture clash I get from the reviews and stuff I see about the books."
+
+I scoffed.
+
+"The irony."
+
+She turned to me.
+
+"But uh, finishing the orphanage conversation, I don't think I'll need to borrow any money for it either."
+
+"Of course not. You get a salary, right? I remember something about that with my guild privileges."
+
+Feeling like a bumbling fool, I noted the need for an accountant. Althea raised a hand.
+
+"But, hm, that still feels like borrowing money."
+
+From her arm, different flowers or creatures spawned.
+
+"I figured out that I could mold eldritch parts on me and sell them. Potion masters love it when they can refine their work because, you know, I'm like an infinite spring of whatever they need."
+
+I put my fingers against my temples.
+
+"Of course. You let alchemists create the rarest potions and get them filthy rich."
+
+I moved my hands away from my head.
+
+"That's genius."
+
+Althea smiled, her eyes narrow and the grin sly.
+
+"I have good ideas from time to time."
+
+I pulled her close.
+
+"So do I."
+
+"Really? How about you share a few."
+
+I bit her lip.
+
+"Gladly."
+
+A few hours later, we left her workshop, both of us looking frazzled and happy. After finishing the pack of cookies and tea, we walked back to our bedroom. It felt like her place at this point, with me as an outsider. In the bed, her eyes began closing, and she struggled to stay awake. She swung her arms at a nonexistent foe.
+
+"No. Stay away."
+
+I rolled my eyes.
+
+"You need some sleep."
+
+She hugged her pillow.
+
+"But I still want to spend some time with you."
+
+I sat beside her.
+
+"I'll still be with you when you sleep."
+
+She murmured.
+
+"You need to work. I know you do."
+
+I peered up, the moths coming out as Althea said. A giant lunar moth landed on my shoulder spike, as delicate as a snowflake. It flew up before I peered at Althea.
+
+"We should have weekly date nights, and next time, I'll see if I can't show you something instead of you leading the way like this."
+
+She mumbled.
+
+"I would love that."
+
+I let her fall asleep and watched her for a while. As my thoughts drifted, a single fact stuck out to me - I needed this. I had needed this for so, so long, and getting it left me fulfilled in a way I hadn't experienced in a long time. It also reminded me of what I had to lose. Many unseen enemies mounted in the distance beyond my sight. They'd have to wrench my home from my cold, dead hands if they wanted it.
+
+And I could not die.
+
+Once Althea drifted deep into her slumber, I stood up. My wake saturated with my psyches and condensed down to my body. I held it there, the psionic splintering leaving me nauseous. I actually had something to vomit up this time, so I held it down. Walking out of the room, I met up with my blob of dimensional fabric.
+
+Fusing together, I stood as tall as a short tree at my compressed height. Above me, a night sky full of stars beamed down. I soaked it in, my augmented sight allowing me to see the stars in greater detail than when I was a human.
+
+It left a spike of fear in me.
+
+If this was Lehesion's eclipse attack, could I save this place in time? I stretched out my arms, imagining a singularity storm over the stars. I'd destroy the entire mountain in my defense. At the very least, I'd turn this place from a small mountain to a broken hill. Before that could happen, I flowed through Mt. Verner and inspected it from the top down.
+
+It was time to turn this place into a fortress.

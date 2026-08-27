@@ -1,0 +1,331 @@
+---
+id: 54d49aed-a448-54f6-ae78-8fd93d3fc173
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 459"
+slug: 0158-the-path-of-ascension-chapter-459
+partOf: the-path-of-ascension
+position: 158
+ownLength: 5439
+unit: words
+ownProgress: 5439
+publishedAt: 2025-11-17
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2769829/the-path-of-ascension-chapter-459"
+royalRoadId: "2769829"
+markedReadAt: "2026-06-29T19:33:11.446Z"
+---
+
+Chapter 459
+
+Having been given a warning on such behavior, Matt didn’t immediately return to working on his mana project, no matter how much he wanted to. He still had plenty of ideas he wanted to test thanks to the information packs Titan’s Torch had been able to pass back to him during Allie’s trips back to settled space.
+
+He would have loved nothing more than to dive back in and see if there was any way he could copy the strange realm’s mana storage device’s ability to store more inside than should fit.
+
+Instead, he forced himself to sit with the group and eat the dinner Captain Stenson and Katya had made earlier.
+
+There were a few inquisitive looks from everyone else when they returned to their camp, but no one was crass enough to ask what they had been talking about.
+
+Not that it should have been that hard to figure out what Rah wanted to talk to them about, given none of them went back to their personal projects when they returned. Instead, they spent the evening chatting with Evander's group, with their own people, and amongst themselves.
+
+The famous explorer was surprisingly congenial and, once he saw they were fully paying attention, he excused himself from his conversation with Stenson to face them directly.
+
+“I must say I do appreciate the lead over everyone else. I see no downsides to this at all.”
+
+His easy smile turned the words from insulting to light banter.
+
+Liz shot right back, not hesitating for an instant. “As if you wouldn’t have gotten into trouble in some way without us. Please, if even half of what goes on in your movies is correct, you find trouble well enough on your own.”
+
+Instead of getting angry, as his own crew agreed with Liz, Evander laughed at himself. “That's why I’m so miffed. I’m bad enough on my own, but with you guys adding on more fuel to the fire, well, even I’m afraid of getting burnt.”
+
+The comment pulled Aster from her conversation with Allie and Gan Le, and she smirked as she shot back. “Do you need something cool to help settle you down?”
+
+Matt expected Aster to pull out one of the prank ice creams she kept in her spirit space. Instead, she withdrew a batch he knew actually tasted good, despite its dubious origins.
+
+After being split so many times, the little ice cream Aster had brought along didn’t last too long, but it ended their dinner nicely.
+
+Matt was tempted to use everyone's conversation and chatter winding down as an excuse to work on his own projects but he pushed that feeling away, not letting it pull him right back into the habit he was trying to curb. Instead, he kept himself in the moment and enjoyed Rah and Evander sharing stories from their adventures.
+
+The two older men's stories prompted Allie to add her own. It was fanciful and not at all grounded in reality like the earlier stories. It was apparently so inaccurate the moment she finished telling the story, Zack launched into his own retelling of the story. His version came out so differently it almost felt like a different story, but it kicked off everyone sharing and let them spend the planet's short night in laughter.
+
+By unspoken agreement, everyone kept the topics light.
+
+After one of Evander's harvesters told a story about how his first expedition managed to break their engines three times on its test flight, Aster shared a story about their early days on the Path. According to her, shortly after Tier 10, they managed to get lost in a trap maze. In her retelling, it was mostly Matt and Liz’s fault for getting them lost, which wasn’t how he recalled the incident at all.
+
+He distinctly remembered a particularly energetic fox’s nose leading them in circles for hours, where in her story she was trying to lead them out of the trap.
+
+Instead of correcting her, Matt shot back with a story about Aster biting a fire fox’s tail when she was younger the moment she finished her story.
+
+Ears and tail fully puffed, Aster mock complained. “It's not my fault! All I knew was that he was the same but bad. Not cool. I was basically a hatchling at that age.”
+
+Aster tried to pout her way through the story but her tail’s not-so-subtle movents gave her away.
+
+Turning, she grinned at Liz the moment Matt finished. “Hey, at least my learning how to fly didn’t end up in the ocean more times than not.”
+
+Liz, who had kept out of most of the squabbling by virtue of fiddling with the fire, looked up and struck right back. “Hey, it was a new body.” Sticking her nose in the air she finished with a laugh, “I needed to learn how to fly with wings and not magic. Something you ground-based creatures would never understand. Pathetic, needing magic to fly.”
+
+Gan Le, who had been mostly silent beyond a few quiet comments, spoke to the group for the first time since they had returned. “I remember my flying lessons. Without question my worst topic. I hit the ground so many times I swear there was an imprint of my body shape at the training yard before I figured it out.”
+
+Matt could tell there was probably more to the story than trying to learn how to fly, but none of them pushed Gan Le for more information.
+
+Instead, Captain Stenson raised a finger while lowering his head in mock shame. “Same here actually. I had really bad motion sickness when I learned to fly. For me, getting in the air was the easy part, staying there not so much. I spent over a year practicing, and the first time I succeeded in not emptying my guts, I flew directly into my neighbor's kitchen wall. Nearly took down the whole building and spent months paying off the damages, but the motion sickness was the worst part. It lingered for hours.”
+
+One of Evander's crafters then launched into a story about her time at a prestigious Academy. The hard-edged woman didn’t seem like the type to go to such a vaunted institution. As she retold it, she hadn’t remained there long, with even her parents realizing she wasn’t cut out for the academics they taught there.
+
+Growing restless and unwilling to leave, Matt pulled out some of their cooking supplies and after quickly harvesting some local ingredients, started making things as everyone else chatted.
+
+He didn’t aim for pleasant or even scientific, instead going off his tastebuds, instincts, and suggestions from everyone else, serving up small portions of whatever he thought might work.
+
+Some of his creations came out surprisingly well. Liz and Susanne both really liked a specific spice he made from what reminded him visually of underwater celery. When dried and powered, it had a vibrant smoky flavor that paired well with the grilled mushrooms he had picked out of a cave.
+
+Not minding the flavor himself, Matt happily picked a few samples and handed them over to Katya who had most of their spatial items on her. When they got back to their ship, Matt would have Liz transfer the spices into her terrarium growth item where they would be able to accelerate their growth speed.
+
+The low-Tier herb wouldn’t be valuable unless it found market success, and given how few of the others cared for it, he doubted he’d ever need to plant more than a bushel when they got back to the ship, so the small space it took up wasn’t any real loss.
+
+Matt only stopped cooking at close to local midnight, when Evander pulled himself away from a conversation with Captain Stenson and Zack long enough to realize how little remaining time there was before morning, when they wanted to leave.
+
+Having learned what they needed from Rah, both teams wanted to get some true downtime before they separated and ventured deeper into the breach.
+
+They had a small but important lead they didn’t intend to lose because they got lazy. Unless someone with a ship capable of flying into the third layer of chaotic space had chosen to enter the bubble first, they had the place all to themselves.
+
+With hundreds, possibly thousands, of worlds pulled in from places only Tier 36 exploration groups could enter, they wanted to cover as much ground as possible before the bubble broke and the worlds were sent flying in random directions.
+
+Once that happened, everyone who hadn’t risked their lives would swoop in and collect the spoils, and competition would become fierce.
+
+It would be much better if they had already visited most of the Tier 25 and higher worlds, and that was their goal.
+
+At least once the sun rose.
+
+While everyone else either found a spot to nap or work on their own projects, Matt and Liz slipped off to a nearby cliff to watch the sunrise. Best of all, because they weren’t in settled space and planetary day night cycles weren’t standardized, they got to watch the event at a slightly accelerated speed. The change was small but impactful enough that it transformed something commonplace, into a novel experience.
+
+By the time they returned to their camp a few minutes later, Evander and his team were already prepared to leave.
+
+The moment they arrived, they started saying their goodbyes with the ones they were chatting with.
+
+Matt wouldn’t have minded them staying slightly longer but the other team voluntarily splitting off, rather than trying to linger, was the best outcome they could hope for. It was also the main reason why they hadn’t brought more groups along.
+
+With three suspected breachpoints and the estimated size of the breach, they could each go their own way with minimal chance of overlap. They were likely to run into other teams before they ran into each other unless they happened to be unlucky and aim for the same world.
+
+Evander smiled as he shook Liz’s hand, then Matt’s, before he ended on Aster where he lingered. “Thank you all for both the additional information as well as the head start. We are going to try and loot the Tier 30 world along the edge before we move deeper. If luck shines on us, we will see each other back in the Empire. I still owe you a dinner after all.”
+
+Matt half expected Gan Le to react, given Evander's obvious flirting, but he was disappointed as Aster replied, “I never forget someone who owes me a meal. You won’t escape that easily. We’ll figure something out when we are both in Empire space.”
+
+After a few more rounds of pleasantries, both teams headed to their respective sky bridges and stepped onto them.
+
+Their lead wouldn’t last forever. The best way to extend it was to put distance between themselves and the breachpoint, to head deeper into the pocket of worlds.
+
+With a stabilizer on an already stable tether, there were zero spatial fissures to hurt them, making the walk almost pleasant. If it wasn’t for the resistance that fought against their every move, it would have been downright enjoyable.
+
+Seeing there was nothing to do other than walk, Matt dedicated a portion of his attention to his mana tests.
+
+He agreed with everything Rah said about living in the moment, but he still needed to advance and this was a good time to think over what he had read.
+
+Maybe it was because of the training under Luna, who shaped a lot of his formative years, but Matt enjoyed improving himself. It was fun and something he genuinely enjoyed doing, especially when things were as interesting as the strange realm mana storage device.
+
+Originally, thanks to the storage mana stone, he had great visions of storing items in simple mana stones and changing the Realm’s storage systems as he had with aura rifts. Unfortunately, the data dump Allie picked up when she was dropping off their loot ruined his dreams of a simple win, though it did prove useful.
+
+While rare as anything from a strange realm ever was, the mana storage stones were not unique. Only as the Empire’s collective research efforts made abundantly clear, they could hardly understand what the strange realms had done to the mana, let alone copy the effect.
+
+Matt didn’t think he was different, but he had a different objective than most of the people or groups who researched strange realm storage devices. They usually did so trying to improve one of two things.
+
+The first was rechargeable mana storage devices. Any improvement there would be worth a fortune, and as such every related company had tried their hand at some point to copy the strange realm’s storage gems.
+
+The second reason groups investigated was even simpler. Storage items.
+
+While they hadn’t been able to test it, the strange realm gems had no Tier restriction for their use, unlike storage rings, which had requirements on the Tier of the user and crafter.
+
+Neither group had ever had much success and Matt was going to write the endeavor off, but had a glimmer of inspiration as he reviewed everything sent over by his guild.
+
+Most of the success in the mana storage stones research led to minor refinements in how rechargeable mana stones were made as well as their size compression but those contributions had always been secondary to the success of the industry to his disappointment.
+
+His largest advantage was that he wanted a different end result and as such didn’t care about all of their failures.
+
+He liked the ideas presented and had his own thoughts about the topics but none of them were his focus. Rather, he zeroed in on one fairly notable research project Titan’s Torch had been able to collect information on as it was far more prevalent to what he actually wanted out of his experiments.
+
+The patent's notoriety came from their lead researcher publicly bankrupting himself in his efforts to understand strange realms mana storage devices, always believing he was close to a breakthrough that never materialized. A common enough story but when his creditors came knocking, they liquidated his assets, which included one unrelated but working invention that was bandied around in an attempt to mitigate some of the losses, which had made the ordeal more headline worthy than it would have otherwise been.
+
+Reading between the lines, Matt thought he saw some not-so-subtle hints the publicity was manufactured, but he’d never know the truth. The incident happened under the old dynasty’s watch, and no one remained alive or in the Realm from the incident according to Titan’s Torch’s findings.
+
+Despite only being a footnote in the larger report, the guild’s information gathering department was meticulous and provided a copy of the patent along with the top five related academic findings on the topic saving Matt from a lot of guess work.
+
+While commercially unsuccessful, the researcher and their team had run into the same problem everyone discovered: when mana was flowing at high enough rates, it wanted to destabilize. In trying to improve mana throughput without higher-Tier materials, the team had dabbled in alternative mana flow patterns and had struck on some minor success.
+
+Looking at the patent and seeing the reported minimal usability rating given by the Empire’s Patent Office, he understood why the patent had been a flop on the market.
+
+The additional infrastructure needed to forcibly control the flow of mana had proven bulky, prone to fatigue and failure, still required expensive higher-Tier materials to shape the mana into the desired flow, and worst of all only worked when the conduit itself was made out of pure mana. All of that could have been forgiven had the improvement in mana flow been substantial, but its cumulative effect was a fraction of a percent more efficient.
+
+A description of the original patent had been ‘like trying to make a water hose out of water’ and they weren't wrong.
+
+Matt was simply inspired by their ideas rather than put off.
+
+Raising his hands as they jogged along the sky bridge, Matt started sending out a small stream of mana from one to the other.
+
+Keeping external control over his mana increased the difficulty compared to doing this inside his body or mana pool, but Matt didn’t want to risk himself, or rather his spirit, with experiments, so he accepted the difficulty.
+
+As he tried to braid the mana into the pattern described in the patent, he found it was both unnatural and unwieldy; his mana did not want to move in those patterns, but they did with enough control.
+
+Seeing how much trouble he was having being able to work with his own mana, Matt revised his opinion of the original researcher. The method was genius found in insanity.
+
+The method split the stream of mana into two portions. The smaller portion took some of the mana and wove it into a braided tube for the rest of mana to flow through. The mana barrier, against the accepted understanding of mana flow dynamics, allowed for observably more mana to pass through the tunnel than should have fit.
+
+Slowly, letting the strands of mana weave themselves into a tunnel, Matt tried to recreate the patent. It took a few false starts as he started getting used to the particular control needed, but he managed it.
+
+The largest issue was something the patent failed to solve, the inherent instability of using mana to guide mana.
+
+When he had a small braided tunnel of mana, Matt started tweaking the parameters, trying to feel for any change that felt like an improvement. He hadn’t intended to start there but, despite being able to force the weave together and see a minuscule improvement to the mana flow between his hands, he could feel the structure trying to pull itself apart.
+
+The patent as developed worked, but was the farthest thing from stable, pointing to the same problem the original researcher ran into. They found something that worked but didn’t know the why or how.
+
+Zack almost immediately noticed what he was doing and moved over. Without needing to be asked, Matt sent him the relevant information as he continued to play with the tunnel of mana.
+
+He noticed that when he constricted the weave of his tunnel, any mana passing through became sluggish, slowing down beyond what should have been expected according to the mana throughput models. Weirdly enough the same thing happened when he made the weave looser, contrary to his expectations.
+
+They were the most obvious things to try, so he was sure others had as well, but both having the same reaction wasn’t what he expected.
+
+He was pretty sure the weave was a dead end, but Matt continued to tinker with it hoping he could learn… anything at all. Theoretically, this was exactly what he needed. Practically, there was no difference if the field had only figured out one singular oddity, and been unable to expand upon it in over a hundred thousand years.
+
+If nothing else, making the bands of mana distinct and preventing them from merging into a uniform blob was difficult in a way he wasn’t used to, letting him relish the challenge.
+
+New mana control exercises that he didn’t instantly ‘master’ were rare enough, and he wouldn’t pass that aspect up alone.
+
+Reaching up, Zack mirrored what Matt was doing, though his own control was noticeably better. The other Ascender quickly ran through the same tests that Matt did to similar results.
+
+So long as the weave was made and maintained properly, there was a small but noticeable improvement in the speed the mana traveled through the tunnel.
+
+When that came to the millions of mana as Matt could sometimes use to cast casual spells, even a small improvement could help.
+
+“It’s an interesting premise if you can figure out how to apply it. I’m not even sure I would have the level of control needed to fill a skill with such weaves instead of filling it with mana normally.”
+
+Matt sighed as he let his latest weave dissipate. “That’s the same problem I see. The weave is interesting but impractical. I’d have to make a weave for every spell structure and be able to hold it together during a fight. It’s possible, but the amount of time I’d have to put in for such a minor gain wouldn’t be worth it.”
+
+As he looked out at the spatial tunnel they walked through, Matt considered other options.
+
+Could he use spatial compression to allow more mana to travel through a spell's structure before it destabilized and fell apart? Was that even possible inside of himself?
+
+A small test done outside his body showed it was entirely possible, easy even. The only downside was that if he had a single slip-up it would result in the mana stream returning to its normal size instantly. If that happened in the middle of casting a spell, Matt would be lucky to only permanently lose the skill, if he wasn’t crippled by the cascading energies unleashed deep in his spirit.
+
+Zack breathed heavily through his nose, indicating how little he thought of that idea.
+
+Matt didn’t argue. That was not his way forward.
+
+“I agree, that is not even close to viable. Still, it's good to remember it's theoretically possible. Let us return to the original idea of a mana tunnel helping move mana. What do you think would happen if we rotate the tunnel of mana itself? Maybe we can induce the field effect the third paper mentioned observing. We can test for weave types and density while we are at it if successful.”
+
+His [AI] indicated such a method had a high likelihood of having some effect.
+
+It didn’t, which was interesting in its own right, but it left them confused rather than enlightened.
+
+After a suggestion from Zack, they tried rotating two tunnels in opposite directions but, like before, there was no change. A few attempts later, they shrunk one of the tunnels and allowed the mana to flow through the gap between the two of them.
+
+Or they tried.
+
+Like a magnetic repulsion, the counter rotating tunnels made it nearly impossible for mana to flow between them. Zack was able to brute force a test, but the mana shredded itself as it tried to go in every direction the moment his control slipped even the smallest amount.
+
+They wanted to continue, but as they reached the end of the sky bridge, they put their testing aside to be active participants in exploring the next world.
+
+Having followed their Seeker’s guidance, they arrived at a Tier 3 world. They intended to pass through without any stops, but he scanned his surroundings as they reentered the real world, wanting to live up to his promise.
+
+Matt was prepared to be uninterested, but following Rah’s advice wasn’t the onerous task he feared it might be.
+
+The world was very pretty. Or at least its underwater habitats were vibrant with a biodiversity rarely seen. That allowed numerous unusual creatures to find their niche and thrive where they might have struggled on another world.
+
+Ultimately, it was only a Tier 3 world and no matter how pretty it was, they passed through quickly after they ensured there was nothing notable to take with them.
+
+Reentering a sky bridge, Matt immediately returned to testing his mana hypothesis, only feeling mildly guilty for his feelings of joy at being able to work on his project once more.
+
+Without access to a lab and actively moving through spatial resistance, the tests they could do were best described as educational. Not necessarily useful, neither of them found an improvement on the described method, but they hadn’t expected to.
+
+Instead, they tried to learn as much as possible, and in that they succeeded.
+
+Their talks eventually pulled Rah into the discussion while they threw around some interesting ideas and tried some of the earlier ones. Nothing they came up with was close to feasible but the ideas were interesting enough to note down for later.
+
+As they exited the sky bridge to a Tier 10 world, they didn’t immediately move to the next connection. Rather, everyone turned to look at Rah who was acting as their leader in the breach.
+
+Their experienced explorer stood with his eyes closed.
+
+Through their bond, Aster pushed a mental image of Rah trying to read the patterns in the winds with only his face’s exposed skin. Except in her mental image he had whiskers like a fox and was therefore succeeding.
+
+Not understanding what Rah was doing, both of them started investigating the other sky bridges, trying to build some of the sensitivity Rah talked about.
+
+Having already had most of the tips and tricks explained to him, Matt quickly got through the basics of Rah’s lessons. He was pushing deeper, trying to get a feel for how long the tethers would remain in place solely through his own perception, when Rah came out of his trance looking at the Seekers.
+
+“We are lucky to find one so soon, but I believe that two worlds away on the path we didn’t intend to take, is a Tier 30 world. Can you check and see if I’m correct? I’d rather not risk having to backtrack, given what was reported about the life span of these bubbles. Days might matter.”
+
+Probing the connection, Matt had no idea how Rah got any information out of the sky bridge because he could barely feel the neighboring world's Tier, let alone what was going on beyond that.
+
+Their Seekers, Magnus Bergh and Lura Hope, didn’t need to be told twice and started their own divination's.
+
+Lura’s floating book expanded into its full form, but without the ship's amplification arrays she didn’t glow or radiate power. Her eyes and book were still flooded with mana, but that was the only sign of her power rather than the lightshow she normally put on when she used her Talent.
+
+As she started flipping through her book, riffling through pages of glowing script looking for the information they were searching for, Magnus called one of his older goats out and quickly sacrificed it.
+
+Neither had good news.
+
+The goat’s intestines were lined with sharp stones that never could have made it through the animal’s delicate digestive track but had appeared as dire warnings.
+
+Lura’s prediction wasn’t any better.
+
+In fact it was much worse.
+
+“Every third word I’m pulling has some meaning or association with danger ahead. The remaining worlds are more gilded than golden too. Lots of negativity associated with the alternative path.”
+
+Rah only looked at the six other Tier 29s to know their reaction.
+
+Seeing what he wanted, Rah finally said, “Let's bypass this world and see if we get similar readings from another connecting world. I’ve seen sky bridges that deposited people into lava fields or far away from land, leaving them to die, but given our Tier that feels unlikely. This might be something like that but no matter what, such warnings shouldn’t be taken lightly. Let us stick to our original travel path and see if we can come at the Tier 30 world from another angle.”
+
+Being entirely a natural phenomenon, tethers between worlds broke and formed as the breach shrunk in on itself. If they were truly unlucky, the path between any two points could be varied or outright impossible should the timing be bad. On the flip side, there was usually a way around any road block so long as one was willing to travel far enough.
+
+Their general aim was to explore as much as possible, as well as finding anything rare or valuable, but there were no referees to pull them out of bad situations. If they got in a fight with something too strong, they could die before they even knew what was happening.
+
+The third layer of chaotic space was usually reserved for Tier 36s and higher for good reason.
+
+The breach and bubble were only bypassing the most basic ship requirement from exploring the third layer of chaotic space.
+
+There was no proven causation solely between a world entering or staying in the deeper layers of chaotic space, and its riches such as Natural Treasures, ruins, and strange realms, but there was more than enough correlation to make people risk things pushing ever deeper into the maelstrom of energies.
+
+It was why they were running along worlds instead of waiting a few years for the bubble to burst freeing the closed off worlds like most other explorer teams.
+
+A Tier 7 world, they didn’t expect much. The moment they arrived, they found not one but two ruins, along with a strange realm giving them their own correlation.
+
+One of the ruins nearly got obliterated as Matt saw its halls infested with mechanical humanoids, a leftover from his own experience with a ruin as a lower Tier, but he checked his impulses and stayed his hand.
+
+Looking through its halls, he was actually disappointed with what he found. The ruin didn’t have any of the self-replication functions the ruin they unleashed had, nor could it fly.
+
+Still, the concentration of both ruins and a strange realm prompted them to investigate further.
+
+According to Captain Stenson’s experiences, both were slightly more common in the deeper layers of chaotic space, but neither were so common as to see three on a single low-Tier world.
+
+Seeing their expressions, Rah nodded. “Let's investigate for half an hour. If we can’t identify anything specific, we can move on after that.”
+
+Having gotten permission, Matt compressed space and stepped next to the second ruin, along with nearly everyone else.
+
+At the deepest reaches of an inland sea carved by retreating ice caps, they found a Blackwater ruin.
+
+How the air portion of the level 2 mana type had been common enough for proper Blackwater mana to form none of them could speculate, but the ruin itself was unique and worth investigating.
+
+Having barely encountered the mana type in the lab, and rarely in the wild, Matt was as careful as possible as he explored, not wanting to destroy it.
+
+The ruin had either spawned in or taken over an underground cave network, turning the magma tunnels into a labyrinth of angry fishmen.
+
+If they had been lower Tier, Matt knew he would have had a ton of fun exploring the halls to stumble over half invisible fish monsters. However, with his current Tier, he was able to see through their illusions easier than he was able to see what they were trying to do.
+
+That ruined the exploration aspect, leaving only the mystery of how the place existed.
+
+His Tier did enable him to sample everything without disturbing the ruin, and he did so gleefully. It only took a few moments for Katya and Arden to safely pack away samples of everything Blackwater-related and move onto the next point of interest.
+
+Matt only left after he double checked his scans, not wanting to miss anything when he had the time to carefully study the ruin. Or more likely, when someone from his guild did that.
+
+They considered waiting around to let Allie create a waypoint so they could return, but they didn’t have months to squander for a Tier 7 world, no matter how interesting it was.
+
+Decision made, they inspected the strange realm.
+
+It was the lowest Tier strange realm Matt had ever seen but beyond its Tier keeping them firmly out, it felt identical to every other strange realm to his magical senses.
+
+Visually there was no way an inverted mountaintop perched on top of the world's tallest mountain could be called anything but extraordinary.
+
+As if mocking them, they got the feeling it was a test of strength and a perfectly safe strange realm.
+
+With the last ten minutes he had on the planet, Matt looked for anything that might have explained the presence of three oddities but came up empty handed.
+
+He scanned everything he could, including the fossil layers, hoping to find any evidence of something testable, but couldn’t find anything that didn’t exist on nearly every other planet in the Realm.
+
+As he joined everyone else on the sky bridge, Matt couldn’t help but question the existence of both ruins and strange realms.
+
+Why were they slightly more prevalent in deep chaotic space and more importantly, could his guild figure out a way to recreate them eventually?

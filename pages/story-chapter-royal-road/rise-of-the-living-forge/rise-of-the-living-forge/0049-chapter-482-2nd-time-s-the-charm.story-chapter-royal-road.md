@@ -1,0 +1,111 @@
+---
+id: 5392dc16-8853-5eed-8ac7-2c305484a0e8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 482: 2nd time's the charm"
+slug: 0049-chapter-482-2nd-time-s-the-charm
+partOf: rise-of-the-living-forge
+position: 49
+ownLength: 1597
+unit: words
+ownProgress: 1597
+publishedAt: 2025-09-11
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2592726/chapter-482-2nd-times-the-charm"
+royalRoadId: "2592726"
+markedReadAt: "2026-06-29T20:00:00.703Z"
+---
+
+Arwin froze. He couldn’t do anything else as Two’s words rang through his head. They sounded distant even to his memory. As much as he couldn’t believe what the other man was telling him, it made too much sense.
+
+Blake had been with Setting Sun. He’d known that the war was staged long before Arwin had, but he didn’t have the power to do anything about it on his own. Blake had been working to try and save as many people as possible since… well, Arwin couldn’t remember a time when Blake hadn’t been looking out for everyone around him. He’d probably been doing everything he could in every single fight they’d been part of to mitigate the damage.
+
+“How long?” Arwin asked, the words stiff in his throat.
+
+“Years. Close to five.”
+
+Five years. Blake spent 5 years fighting a war he knew was fake. He spent it with the Adventurer’s Guild, knowing full well what they were doing and having to just bear that so he could save the few people he could.
+
+Five years that he didn’t tell a soul other than those in Setting Sun what he was doing.
+
+That part hurt most of all. The pain didn’t come because Blake had kept a secret. Even a fool would have realized the Guild would have killed anyone who’d figured out the truth, much less a random adventurer in the Hero’s party.
+
+It wasn’t the fact that Blake had never told Arwin the truth that hurt.
+
+It was that he’d been right to do so.
+
+If he told me… what would I have done? I’d probably have gone to the Guild, assuming he’d been brainwashed by the Horde. Until I met Lillia, I don’t think I would have believed him. Definitely not fast enough. If he had told me, by the time I investigated things enough to realize I’d been lied to, I almost certainly would have doomed him in the process.
+
+Blake was the one that held us together. He was one of my closest friends. There was never a time he couldn’t be relied on to have my back. To have everyone’s backs. But did I ever once do the same for him? He never had anyone to rely on at all.
+
+“Damn it,” Arwin said, his throat clenching so tight that it felt like it would seal entirely.
+
+“You didn’t know,” Two said. “You were a child when they summoned you. You can’t blame yourself for anything the Guild did. We all knew what the heroes were. Blake was no exception. You can’t expect a child to realize that the Adventurer’s Guild was manipulating them from the moment they arrived on this world. Blake never once held it against you. He would have been thrilled to learn that you escaped their clutches.”
+
+“He should have escaped as well,” Arwin said. His teeth clenched. And then something else struck him. His eyes snapped to catch Two’s. “Did you not outfit him at all? Why was he left so unprotected?”
+
+“You know the answer to that,” Two said. “Our hands were tied. If we got too close to Blake while he insisted on remaining on the front lines, our assistance would have been what doomed him. His lack of truly impressive combat ability was exactly what protected him… until it didn’t.”
+
+“He didn’t just die in some freak accident,” Arwin said. “The Guild killed him. They found out.”
+
+“They found out,” Two said. The man’s handsome features were cold in anger. “We couldn’t interfere.”
+
+“Couldn’t?” Arwin asked. “Or wouldn’t?”
+
+“Couldn’t,” Two said firmly. “If we’d known the Adventurer’s Guild were going to kill Blake, we would have interfered. He was a valuable member of our guild, even if he hadn’t fully joined yet. We don’t leave our own behind.”
+
+A part of him had always known Blake wouldn’t have just gone down during a small fight. It had been obvious he’d been removed. He just hadn’t wanted to accept that. But the past couldn’t be changed. All he could do was ensure the Guild didn’t have a chance to do what they’d done to him or Blake in the future… and the Adventurer’s Guild still wasn’t the only ones he had to deal with.
+
+“You don’t leave your own behind, but you do occasionally recruit psychopaths,” Arwin said, his jaw working. “I’m not fully convinced you’re the saints you say you are.”
+
+Two winced. He looked down at the wooden weapon in his hands, then blew out a sigh. “Twelve. I’d imagined we would have to talk about that at some point.”
+
+“You think?” Arwin asked, anger crackling within the hearth that was his words. “Having psychopathic guild members who train people that indirectly cause the death of innocents sounds like something that the Adventurer’s Guild would do, doesn’t it?”
+
+“Twelve… he was a mistake,” Two said. His eyes flicked as if he wanted to avert his gaze, but he didn’t let himself go through with it. The two of them were silent for a long second.
+
+“A mistake?” Arwin repeated. “That’s what you’re going to call it? A mistake? Your mistake killed a child.”
+
+Two winced. He bit his tongue, finally looking away from Arwin as he let out a pained breath. “Yes. I know. And if there’s someone you should blame for that, it’s me. I’m the one that allowed Twelve into Setting Sun. I recruited him myself.”
+
+“Why?” Arwin asked, his voice taut with anger and old memories. “For a guild that claims you want to help people, why would you side with someone like that? He bore your name. His apprentice killed mine in your name.”
+
+“Because convenience blinded me,” Two said. “We needed an information network. A way to more effectively spy on the Adventurer’s Guild. And Twelve gave it to us. He could send his clones throughout the guild and gather knowledge that we couldn’t. They all had impressive stealth and movement abilities… and I thought the drawbacks of working with such a man would be outweighed by the benefits we wrought. Arrogance led me to believe Twelve had been paid off enough to cease his prior activities. I was wrong. Any death and damage caused by Twelve falls squarely at my feet.”
+
+Arwin’s jaw worked. The wooden haft of his hammer creaked in his grasp, then shattered beneath his palms. Two didn’t respond. The two of them just stood there.
+
+“You might not have been the ones who killed a good kid, but you funded the one that enabled it,” Arwin said. “There’s a very real chance that his blood is on your hands.”
+
+“I know.”
+
+“Was it worth it?” Arwin asked.
+
+It was another moment before Two responded.
+
+“Yes,” Two said. “It was.”
+
+Arwin stared at Two, anger burning through his entire body. The fragments of the wood splinters in his fist cut into his skin. He didn’t even notice. The memories scorching his mind were far to intense to let mere pain interfere with them.
+
+He nearly punched Two on the spot, throwing every pound of force that [Scourge] let him muster into his fist. His fist trembled at his side. But punching Two wouldn’t have done anything. It wouldn’t have stopped Setting Sun from working with Twelve, and it wouldn’t have brought Zeke back.
+
+Punching Two would be nothing more than a futile attempt to buy himself some degree of closure to a death that never should have happened. The only thing it would accomplish was giving him the slightest way to vent his frustrations.
+
+It wasn’t constructive or beneficial in the slightest.
+
+Arwin’s fist crashed into Two’s cheek.
+
+The other man’s head snapped to the side. He staggered back, blood splattering from his lips. Two slammed into the wall. Wooden weapons rained down around him to crash to the ground like heavy rain.
+
+Two made no move to defend himself. He spat onto the ground, then wiped his mouth with the back of his sleeve and slowly pushed himself back upright. And there he stood. Perhaps he was waiting for another blow, but the strike never came.
+
+“I’m sorry,” Two said.
+
+“If you’d told me that Zeke’s death was completely pointless, then you really would have been sorry,” Arwin said. He flexed his hand, then let it lower as a slow breath slipped from his lips. “I can’t change what happened. You can’t either. No amount of arguing or beating the shit out of you will change that. Zeke is dead. What did you get from it?”
+
+“Information on the Guild’s movements. We’ve saved hundreds of people that were meant to be sacrificed, and most of them will never even know,” Two replied quietly. “And, ironically enough, the information that allowed us to maneuver this long was largely based on what Twelve retrieved.”
+
+Arwin nodded slowly. “And what will you do now? What’s your goal?”
+
+“We have more than one,” Two replied. “The next step isn’t always clear. But today is an exception. There were only two reasons why I wanted to meet you in person, and the first one has already been dealt with — unless I am mistaken.”
+
+“Just get on with it,” Arwin said with a shake of his head. “I have no interest in wasting time punching you. Something tells me you barely even felt that first one. What’s the other reason?”
+
+“That must be shown rather than spoken of,” Two replied, turning toward the exit of the room. “If you’ll come with me, I plan to find out if we can Sunset your class a second time.”

@@ -1,0 +1,263 @@
+---
+id: 8fde3c9c-6269-566b-9000-a1b731355e42
+page-type-slug: story-chapter-royal-road
+title: "211 Logistics"
+slug: 0170-211-logistics
+partOf: the-new-world
+position: 170
+ownLength: 4059
+unit: words
+ownProgress: 4059
+publishedAt: 2019-06-21
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/374615/211-logistics"
+royalRoadId: "374615"
+markedReadAt: "2026-06-29T21:26:41.989Z"
+---
+
+She gave me a nod, Sheom's spiraling, orange markings matching the sunset's glow. With her commitment, I pointed towards the black pile behind me,
+
+"I'll be making you a set of armor like I did for Krog and Chrona. There will be a scrying portal that will let you communicate with me once it's made. I'll let you know the specifics after I've made your gear."
+
+Sheom tilted her head, "I've yet to prove my worth. Why would you give me something so valuable?"
+
+"Because I don't want you to die proving yourself to me. You'll be killing eldritch or silvers or both. Either way, you'll need protection if you don't want to die. You'll also need direction. If I don't instruct you where to go and when it will take you forever to finish the requirements."
+
+"What will the requirements be?"
+
+"Prove your worth to Schema. That's it," I said flatly. I didn't know the exact requirements since I hadn't checked out my guildmaster menu yet. Still, I knew enough about Schema to understand what the A.I. wanted.
+
+"Then I shall return here tomorrow as the sun rises. I will see you then."
+
+I gave her a nod, "Good."
+
+Before leaving, Sheom glanced at my gray armor and me. She raised one of her horned brows, "Why do you wear armor over your armor?"
+
+"To hide who I am. It's not as necessary as it once was, but it's still a precaution for now. In fact, a few key people on Giess already know my identity, but revealing it plays against their goals. They need me to be the Gray Giant, the hero of the espens."
+
+"That is a strange game that you play. I do not relish in tricks. I prefer showing my teeth when someone tries using me or lies about what I am."
+
+I pointed up at her, "Sometimes you can't show your teeth, but I trust you more already."
+
+Sheom let out a hearty chuckle.
+
+"You are enigmatic, but that is not a bad thing. You remind me of Emagrotha, though lacking some of her more distasteful qualities."
+
+I shrugged, "Eh, I try."
+
+"Then till tomorrow morn, I will look forward to being a student instead of the master for once. It will be interesting."
+
+She turned and flew away, a bit of excitement lingering from the echoes of her voice. As she left, I let out a sigh of relief. She reminded me to check out my guildmaster menu and get a handle on the exact requirements needed for gialgathen to join the system. With that in mind, I opened my status.
+
+After a bit of maneuvering, I found the guildmaster tab. As I opened it, a message popped up.
+
+Update required. Guildmaster S- Tier rights unlocked.
+
+A few moments of mana flowing from the system and another message appeared.
+
+Congratulations on earning your next rank up as a guildmaster! As a guildmaster, specific exclusive abilities will be unlocked to assist you with managing members of your guild, along with additional interfaces to help with organization. Below is a tutorial on how to set up your four initial followers:
+
+Setting Up Followers: Choice Matters!
+
+When selecting your followers, keep in mind the triumvirate of good followers: Loyalty, competence, and industriousness. These three qualities are the most critical aspects of what will effectively be your generals. These members will get access to follower rights, allowing them to grant quests of their own so some managerial experience will help them as well!
+
+That was a pretty good set of bonuses. I intended on giving Althea, Torix, and Hod the follower bonuses. Torix was a no brainer, his organizational abilities letting him use the quest generation well. Althea could create a group of assassins too, giving my guild a greater range of flexibility.
+
+Hod was my next choice for some rather difficult to discern reasons. He was the defacto leader of the eltari, a group of mobile warriors. What Hod lacked in general intelligence, he made up for with his charismatic and goofy demeanor. He also was surprisingly reliable once shit hit the fan, so he seemed like a pretty decent choice.
+
+The options after that became pretty murky. Kessiah wasn't reliable enough for another legacy bonus or the quest making abilities. Maybe with a bit of time, she could earn that, but until then, I'd withhold anything permanent. Amara was similar since I didn't fully trust her. She was still an eldritch, though a potent one. Her ability to disrupt Schema's system was powerful though, so giving her extra oomph was tempting. My gut told me it was too dangerous though.
+
+If Amara somehow put many eldritch into Schema's system, we'd be facing some unholy spawns in no time. I'd rather not deal with all that, so I stayed on the safe side of this situation. After finishing off my thoughts on the matter, I read on.
+
+The next generic right is the ability to disperse credits, experience, and items at a set rate determined by an algorithm of Schema's making. The most important factor is your guild ranking in this formula. Considering your guild is S- tier, you have quite the sum of credits to disperse!
+
+Current credit dispersal allowed: 5,000,000 credits per week.
+
+Current exp dispersal allowed: 500,000,000,000 exp per week.
+
+Current item dispersal allowed: 10 Legendary Items per week. 100 Unique Items per week. 1,000 normal items per week.
+
+Note: the 5% bonus exp and credit earning rate as guildmaster applies to these rewards as well, so start creating those quests!
+
+I scratched my head, not really having much context on exp gain. I hadn't looked at the actual amounts of experience I earned in a long time. I had an idea of how much five million credits was though. Yawm's quest reward was over a hundred million, so it would take about five months of dishing out credits rewards to match that bounty.
+
+That seemed pretty good to me. It was definitely more money than I needed to live comfortably even if I coasted off my 5% share of that amount. I guessed that five hundred billion experience was about the same amount of exp so I could cap out my levels with that given I had the patience for it.
+
+I didn't, but it was nice to know I had that option.
+
+As for the items, they seemed pretty good though my crafting abilities outdid the bonus there. Eh, not every gift would be useful after all.
+
+The third right as a guildmaster of an S- tier guild is the ability to appropriately select members of uninitiated species into Schema's system! This is a powerful tool, one that needs discretion and wisdom with its use. The reason Schema saw it fit to give you and other guildmasters this reward was because he understands something simple - Schema's nearly perfect, but not quite.
+
+Sometimes, species as a whole aren't worth elevating to system status. On the other hand, certain industrious members of those species would fit in well. Schema's too busy handling entire galaxies worth of planets and growing his sphere of influence. This is where you come in to help fill in the gaps in his ability!
+
+By granting system access to worthy individuals, you gain loyal, powerful members to your guild while enriching Schema's vast member base. It's a win-win for all parties involved!
+
+Even for S tier guilds, this right tends to be pretty restricted. You've been selected for your previous ability to enlist help from species unaffiliated with Schema! Good work.
+
+Here is your first and final warning about this ability: it may be revoked at any time. Schema needs to be efficient and selective with the individuals he grants access to his system. Certain species, such as larger creatures, are inefficient to enhance. Sentients with low ambition, cognitive ability, or general laziness are also best avoided.
+
+If you misuse this ability, then you'll be wasting precious resources. This means that a few measures are recommended when giving access to individuals.
+
+First, test their responsibility. If you can't guarantee that they'll adhere to a quest requirement or a time limit, then perhaps they aren't a good candidate for enhancement!
+
+Well duh. Either way, it surprised me that I was given this ability directly instead of having to go through the Overseer. It was a pleasant surprise though, and it made the process far less time-consuming.
+
+Second, make sure they're on your side and the side of Schema. If they don't remain industrious after years have passed, then it will have been a wasted effort!
+
+Third and most importantly, never enhance eldritch and unknowns. This will result in immediate exile from Schema's system. You have been warned.
+
+That made not selecting Amara even easier.
+
+The fourth bonus as guildmaster involves the acquisition of resources. You may now own a planet(s)! This means extending your 5% experience and credit gain to anyone utilizing your territory. This will not be a bonus for you like your guild members. This will be a tax to those using the protection, stability, and resources you've worked hard to promote and set up.
+
+After all, the only two things that are certain in any world are death and taxes!
+
+Note: If you're level capped, the excess experience you earn may be given out as rewards for quests, in exchange for credits of your own, or for items of your choice.
+
+This was a very, very powerful bonus. This meant if I extended my reach far enough, I could have nearly unlimited resources. Of course, setting this up would take a lot of time, but the long term benefits were immeasurable. It made me wonder just how much of a stockpile the Empire had. It would be absurd.
+
+The fifth and final bonus involves a reward more personal in nature: level cap augmentations! Schema understands that the most reliable motivation for most species is personal gain and personal power. As you accrue resources, you can extend your level cap by increments of ten at a time. This cost of credits, stored experience, or/and items will scale exponentially as you raise your level by significant amounts.
+
+While this cost can become ludicrous over time, this enhancement to your level is endless. With this, you may join the ranks of those that are truly elite in Schema's system.
+
+Once again, congratulations on gaining a guild of such renown, and remember, your guild's glory is your glory.
+
+As I finished the tutorial, I delved into thinking about the matter. These bonuses explained how the Emperor managed to exceed his level cap. Of course, he also had access to the cipher so it could come from other sources as well. This was a part of it though. If I managed to get an extensive network of members, I could gain quite a bit from the level cap increase.
+
+At the same time, I dwelled on the requirements for system access. If I gave individuals without any real history of combat the bonus, I was digging my grave. Veterans of war seemed like the best candidates considering they kept their skills honed. They didn't mind taking a few hits either, which was necessary if they were to clear out a few dungeons.
+
+With all that in mind, I came up with a simple process for weeding people out. If they wanted guild and system access, they needed to clear ten dungeons, kill a thousand silvers, and do it in a week. The time limit was vital since they would need to hurry if they wanted to achieve it in time. I also intended on making the silvers be anything but saysha beetles. Killing a thousand of those would take walking for a few minutes.
+
+Not exactly hard to do.
+
+After deciding on the entry quests, I opened my menu and created a quest for Kessiah, Althea, Torix, Chrona, and Krog. It was pretty simple to do. I just followed the guidelines after the system assessed the difficulty of the assignments I created.
+
+For Kessiah, it involved healing ten combatants while on a mission. Althea's was to kill Thisbey with exp bonuses when she killed other essential members of the revolution group. Torix's was to respawn and join us here on Giess. Chrona and Krog were given the same requirements as the other gialgathens entering my guild.
+
+It wasn't worth the dissent if they didn't accomplish the task as well. I had no worries they wouldn't finish my requirements though. With all that finished, I set out to work my way through the armor building.
+
+I piled up the scraps I collected as I thought my way through all the guild logistics. I melted them and created several balls of glowing metal. Stretching them out, I molded them into folding plates. Like a series of scales, I connected them over chain mesh. This took hours, but it suited Sheom's burrowing strategy.
+
+After grafting on dozens of gemstones, the two portal points, and blades at crucial places, the armor was done. My experience with Krog's gear helped me quite a bit here, giving me get an understanding of the process. Knowing her fighting style helped with the runic stylings as well. I kept them oriented towards movement and in mana flows.
+
+If I was right, I could teach Sheom quite a bit of what I know about borrowing. My own skillset would transfer very well to hers, many aspects of my build lining up with her fighting patterns. I intended on trading it for her knowledge though. I wasn't a saint after all.
+
+With that in mind, I went to work on creating more sets of armor. By the time night fell, six other gialgathens had shown up, there faces familiar. Some of them I recognized from the tournament, some heard rumors. Either way, it was a decent showing. Creating their armors took all night, time passing in a flash as I adjusted them around their specific needs.
+
+As the morning came, I gave Sheom her set of armor along with a list of instructions on what to do. Several other gialgathens showed up, and I demonstrated the portal and how it worked. I created a scrying pool, letting Sheom generate her own scrying portal by channeling some mana. Though a bit fuzzy, they could understand me pretty well with it.
+
+Using the maps from my own system data, I pointed them in the direction of many dungeons. I recommended they stick to a group and work together. Taking twenty rifts with someone's help was a lot easier than taking ten solo. I faced a lot of resistance as I pitched this idea, most of the gialgathens thinking the eldritch weren't a threat.
+
+Krog swung by and crushed their growing dissent. He told stories of the Hybrid like how it was nigh invincible and could swallow a gialgathen whole. With that in mind, they separated into three groups of two with Sheom still choosing to fight solo. After they left, I turned to Krog and looked him over.
+
+He still had cuts, bruises, and a few new scars from our fight. His armor  carried many dents as well, so as we talked, I bent it back into shape. I started us off,
+
+"Thanks for the help there. They looked like their pride would get the better of them."
+
+"It would've. If there is one thing we gialgathens must overcome, it's gaining a sense of humility. Losing my grandfather to what I believed were little dirtwalkers sprouted that idea in my mind. Meeting you solidified it into stone," Krog said.
+
+He turned to the outer entrance of the cavern, "We gialgathens must do as you said. Evolve or die. This world is changing, and I'll be damned if I'll be left behind as a remnant of the past."
+
+I grinned, "I got a good start then for you. You saw that quest I gave you?"
+
+Krog nodded, "Indeed I did. I was thinking of passing an idea along to you."
+
+"Go ahead."
+
+"I remember your friend, the healer Kessiah. Her talents lie in her ability to mend what is broken, not in killing."
+
+He was kind of wrong about that, but I let him continue.
+
+"I would have her come along with me to share in the, er, experience of my new mission. Would that seem suitable?"
+
+I crossed my arms and tilted my head, "You'd do that for her?"
+
+Krog shook his head, "What? But of course. She saved my wings. I am no broken, hollow member of my species any longer. This is the least I may do to repay a piece of what she gave me."
+
+There was a depth to his gratitude I didn't expect. Krog often hid his emotions, so seeing him open up like this caught me off guard.
+
+Krog mumbled, "Ahem, that is if I find the time to do so..."
+
+I rolled my eyes at him saving face.
+
+"Yeah, I think that's a great idea. Kessiah really needs those levels, and she'd make you safer in the long run as well. You should do that."
+
+Krog puffed out his chest, "But of course. While I may be new to this 'system,' I am no fool. I pay my debts as well."
+
+I finished fixing the dings in his armor, and he spread his wings,
+
+"Then I will be off to ask her for assistance. Farewell, Dark One."
+
+"Cya later, Krog. Try not to get yourself killed."
+
+After Krog left, I found myself with little else to do after finishing a few sets of armors. I kept myself busy by practicing several skills while grinding out some work with my cipher carving. It was coming along fast, my progress mounting in speed. Something about it felt right, the work just flowing well.
+
+I kept at it for the next two days, a bit of disappointment setting in at how few gialgathens showed up. It wasn't long into the second day that Sheom popped up, ten dungeon cores in a pouch on her side and her quest completed. As she landed in front of me, she was heaving for breath, a sheen of sweat over her skin,
+
+"I...I finished what you asked of me."
+
+I scratched the side of my head, "Well damn...you finished this much faster than I expected. I barely even had to tell you what to do or where to go."
+
+"I know where the silvers reign, and finding the 'dungeons' wasn't difficult once I knew where they were. Finishing at this pace was difficult, but I managed to do as you said with impunity. The most challenging part was grabbing the dungeon cores for two of the dungeons."
+
+Sheom winced, "There was this vast pillar of white energy. It chilled my bones when I touched it."
+
+I raised an eyebrow, a bit impressed by her resolve. She didn't know the difference between an open rift and a dungeon, but she didn't let that stop her.
+
+"What kept you so motivated?"
+
+"I wanted to join the ranks of Krog and Chrona as quickly as possible. It shames me to see my rivals overcoming my own ability with such ease. I taught the great Lehesion after all. My failure besmirches his memory."
+
+I chuckled a bit when she said besmirches, not gonna lie. As my amusement faded, I opened my status screen and let her join my guild along with the system. Her work ethic was incredible, and she followed my instructions to a T. She was what I was looking for.
+
+I helped her piece together her build, giving her a detailed walkthrough of several paths available to her. After a half hour of grinding it out, I finished the process. An enormous pipeline of mana flowed through her as she went through the enhancement process. Once completed, she laid down near me, needing a nap like Krog and Chrona had.
+
+I went back to my work with the cipher, two more groups of gialgathens returning over the next five days. In total, the first week of my recruitment gained me a total of five extra guild members, only three of them having classes. It was a disappointing result considering how much effort I put into this.
+
+It was more than nothing, and I even gained a few levels from the sidelong exp. Despite my lack of progress on that front, I finished a personal project of mine. The flowing tapestry worth of runic work was completed. It spanned two dozen pages in total, the detail uncanny and precise. I read through my work, and it was a reflection of myself that impressed me.
+
+It was like an autobiography in cipher form, reflecting my principles, my beliefs, and my history all in one flowing inscription.
+
+Ready to reap the benefits from the rune, I channeled my mana into the tapestry of work. Twelve hours of sitting still and doing nothing later, and I finally finished the damn thing. Even with all my willpower, it took a lot out of me to sit still for that long. This damn thing had better of been worth it.
+
+With my grimoire humming with power, I pulled the white, glowing inscription from the book. The pages turned slowly as the cipher markings pulled out of the pages at a slow pace. With the light of the room siphoning into the markings, they folded over me and onto my armor.
+
+The markings wrapped around my upper chest and neck, flowing down my back in two parallel lines. It followed the taper of my back before cascading down the sides of my legs, ending mid-shin. It was a bit too showy for my tastes, but it was a marking of practicality, not a fashion statement.
+
+Out of nowhere, a sharp crack erupted from my hands. I glanced down, finding my grimoire on fire in my hands. I held the book up looking at the red flame. The mana must have overloaded the grimoire, but I smacked it a couple times. Charred bits of paper fell down, the majority of it destroyed outside a few black pages at the end of the grimoire.
+
+I cursed at losing the premade markings, but remaking them wouldn't be too difficult. Well, that would be the case for all of them outside of this new runic marking. Speaking of which, I shoved all my mana into the inscription, wondering what would happen. A few minutes passed, and I noticed no change. I took my time, being patient for results. I trained for an hour, practicing some complex shapes with my gravitational skills. After four hours passed, I opened my status, wondering what was going on.
+
+Dimension-C138(Lvl 8,047)
+
+Strength – 8,125 | Constitution – 14,209| Endurance – 61,291
+
+Dexterity – 3,420 | Willpower – 32,768 | Intelligence – 12,072
+
+Charisma – 2,435 | Luck – 5,516 | Perception – 5,062
+
+Health: 14.01 Million/14.01 Million | Health Regen: 45.16 Million/min or 752,658/sec
+
+Stamina: 9.20 Million/ 9.20 Million | Stamina Regen: 131,133/sec
+
+Living Dimension: 3.04 Trillion/4.30 Trillion
+
+Mass: 1.06 million pounds(481,925 kilos~)
+
+Height: Actual -14'1(4.30 meters) | Current - 14'1
+
+Damage Res - 98.5% | Dimensional Res - 49.25%
+
+Phys Dam Bonus – 1.22 Million% | Damage Bonus – 40%
+
+Event Horizon – 20,000 + (100% of your total health)/min
+
+My stats increased a bit from all the cores I obtained, but outside of that, I didn't notice anything too game-changing. After spending a couple months on this rune, I expected something with a bit more oomph. Disappointed but undeterred, I parsed through my status one last time before noticing something off.
+
+Living Dimension, my ambient level of mana, increased by two-hundredths of a trillion. I know, that sounds like nothing, but gaining that much was actually a substantial difference. It was twenty billion mana, which was a mother-fuckload for most people. It wouldn't just appear out of nowhere.
+
+A bit flabbergasted, I helped two more gialgathens out by giving them armor and setting them up with quests. After doing so, another four hours had passed. I opened my status and found another bump in Living Dimension by the same amount. That was when my eyes widened in shock.
+
+The new rune wasn't improving my stats like my other markings had.
+
+It was siphoning into my next evolution.

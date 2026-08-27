@@ -1,0 +1,181 @@
+---
+id: 0c257602-78c0-5e43-aab9-b45d2b5b98a8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1245 - Minaga’s Awesome and Illustrious Labyrinth Complex Dungeon-5"
+slug: 0117-chapter-1245-minaga-s-awesome-and-illustrious-labyrinth-comp
+partOf: the-primal-hunter
+position: 117
+ownLength: 2645
+unit: words
+ownProgress: 2645
+publishedAt: 2026-01-30
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2995214/chapter-1245-minagas-awesome-and-illustrious-labyrinth"
+royalRoadId: "2995214"
+markedReadAt: "2026-06-29T19:34:13.394Z"
+---
+
+The three of them stood in front of the gate leading into the dungeon as Minaga turned to Jake and Casper.
+
+“Do remember to take notes and submit a proper report once you’re done, alright?” Minaga said. “Especially you, Jake. You are coming in with fresh eyes and a unique ability to exploit and ruin any good dungeon you enter, so your feedback should be absolutely devastating yet unique.”
+
+“I’m honestly unsure if you actually want my critique or not,” Jake muttered.
+
+“Want is definitely the wrong word to use,” Minaga shook his head. “But sometimes, one has to hear things they don’t want if they want to improve. Just be nice in how you deliver the critique, and all should be fine. The problem usually isn’t the critique itself but its delivery. As long as you communicate in a respectful manner and show kindness and understanding for the work that has gone into something, critique can only be useful. Also, more effective to relay information that way, as if you come off like a nasty person, the other party will instantly be put on the defensive and thus be far less likely to actually listen to anything you say.”
+
+Jake stared at Minaga for a little while before turning back to the gate. “I’m going to relay everything through Casper. Unless you added too much damn water to the place. If you did, I’ll gladly come off as a massive asshole.”
+
+“Now that’s totally fair, and don’t worry, I’m not that incompetent,” Minaga said, crossing his arms.
+
+“I would also have heavily opposed it,” Casper chimed in. “Water levels suck, and I hate fighting inside of them. Doesn’t help that life and water are often tied together, making it a horrible environment for my magic. As the life energy is embedded in the water, turning life into death is also far harder than usual, meaning even my abilities to exploit the presence of life energy are heavily nerfed.”
+
+“How much work did you actually do on the dungeon?” Jake asked curiously. He had believed Casper had been busy with growing in power and the establishment of the Risen Island on Earth.
+
+“Not much,” he said, shaking his head. “As Minaga said, I mostly consulted and gave some advice occasionally. He did all the actual groundwork and designed everything, but my involvement was at least enough to net me a few profession levels here and there.”
+
+Jake nodded as another thought struck him. “Say, how hard is your profession to level? Don’t you kind of need to make or maintain dungeons to get experience?”
+
+“I do,” Casper nodded. “But it’s not that bad. I already made a couple of smaller dungeons on my own and manage a few minor adjacent worlds, which offer me a lot of experience over time. Rather than my profession, it’s more my class that’s lagging behind, as finding time for hunting has been difficult with everything else going on.”
+
+“Going by your level, it doesn’t seem that bad,” Jake said after using Identify on his old friend.
+
+[Risen – lvl 333 – Divine Blessing of the Blightfather]
+
+Jake also genuinely couldn’t remember what kind of Blessing Casper had before. He didn’t think it was divine, but seeing as he wasn’t sure, Jake didn’t bring it up.
+
+“Nah, I never said it was horrible, just that finding time has been hard,” Casper shrugged. “To spend some quality time with Lyra, I have been doing some hunting, though. In fact, while I may be a little behind in levels, Lyra is more than making up for it. But I guess you’ll see that once we enter.”
+
+“I guess I will,” Jake nodded before turning to Minaga. “Anything else to add before we enter?”
+
+“There will be no hazard pay,” the Unique Lifeform informed him. “Oh, and I recommend not dying. While it worked out well for a common acquaintance, I doubt you’d enjoy the experience.”
+
+“Won’t really say I died in the traditional sense; it was more ritualistic suicide transforming me into a Risen,” Casper kindly clarified.
+
+“I was talking about Lyra, but okay,” Minaga said with a deadpan expression.
+
+“In that case, I can inform you that Lyra very much didn’t enjoy dying either,” Casper said, his look severe enough for Minaga to entirely change the subject.
+
+“Anyhow, that’s about all I have to add! Remember notes, don’t die, and, perhaps most importantly, have fun!” Minaga said as he tried to pat Jake and Casper on their shoulders, his hands once more just phasing through their bodies.
+
+Jake nodded and, side-by-side with Casper, put his hand on the gate.
+
+You have discovered the dungeon: Work-in-Progress, unauthorized visitors or personnel not allowed.
+
+Requirements to enter: Minaga
+
+Requirements to enter not met.
+
+WARNING: Only 5 challengers are allowed per party attempting the dungeon.
+
+“Minaga, I thought you said the dungeon was ready,” Jake said, glaring at the Unique Lifeform.
+
+“Oh, right, yeah, forgot to flip a switch. Give me a second,” the goofball said as he waved his hand. “Try again.”
+
+Jake sighed and moved his hand on and off the gate, this time making a different prompt pop up.
+
+You have discovered the dungeon: Minaga’s Awesome and Illustrious Labyrinth Complex Dungeon-5: Test Run 1
+
+Requirements to enter: Lvl 325+
+
+Requirements to enter met.
+
+WARNING: Only 5 challengers are allowed per party attempting the dungeon.
+
+Finally, the place seemed to work, and ignoring the stupid dungeon name, Jake turned to Casper. “You ready?”
+
+“Of course,” the Risen nodded, and without further ado, Jake accepted the prompt as the two of them disappeared, whisked into Minaga’s likely questionable creation.
+
+--
+
+Minaga, who stood outside with his arms crossed, smiled upon seeing the two enter his dungeon; however, just as they were about to leave, a horrible realization hit him.
+
+“Oh no,” he said, his eyes opened wide. “Oh, no no no…”
+
+Only now that it was too late did he realize the terrible mistake he’d made. He began pacing back and forth, panic rushing through his mind after having sent them into the dungeon way too early.
+
+Clenching his fists, Minaga could only hope Casper could somehow save the situation, but the Unique Lifeform doubted it, as he couldn’t possibly make up for the gross error Minaga had made.
+
+Closing his eyes, all he could do was pray that the two would forgive him and make it through as he waved his hand and summoned an incredibly important item he’d failed to give them. An item that he feared the two of them would experience a very bad time for not having, but at this point, all he could do was sigh and apologize.
+
+“I’m sorry,” he said, looking down at the book he was holding. “And after putting in so much effort…”
+
+Minaga wasn’t sure if he’d ever be able to even forgive himself after realizing… he’d totally forgotten to give them the accompanying novel, which provided proper historical context for the dungeon and was full of fun, engaging short stories to get the dungeoneers fully emotionally invested in the dungeon’s lore.
+
+--
+
+Jake opened his eyes and allowed his sphere to spread as he quickly got a lay of the land. Beside him, Casper was doing the same, evidently also doing something to scout the surrounding territory.
+
+One thing was certain, though: they were currently in a safe area of sorts. The two of them were standing inside a small cabin surrounded by a magic barrier, and upon releasing his Pulse of Perception, Jake saw a massive wall reaching further into the sky than he could even see. The start of the Labyrinth, he reckoned.
+
+Checking out the system message they’d gotten upon entering, Jake nodded.
+
+You have entered the dungeon: Minaga’s Awesome and Illustrious Labyrinth Complex Dungeon-5: Test Run 1
+
+Objective: Uncover the true purpose of the Grand Labyrinth’s construction.
+
+“Seems to be about what I would expect after Minaga’s explanations,” Jake muttered.
+
+“Yeah,” Casper nodded as he walked over to a window in the cabin and looked outside. “This initial staging area is meant to be a safe zone for recovery after entering this fifth dungeon. It’s for continued planning and recuperation as one does the dungeon, as the barrier will remain even if we leave, providing a safe refuge we can always return to as long as we’re not in combat. When in combat, the barrier will become impassable, even to us.”
+
+Joining Casper in looking out the window, Jake questioned the Risen about how much he actually knew about the place.
+
+“Any idea where we should head first? Also, what kind of thing are we going to encounter?” Jake asked.
+
+“Our aim should be the center of the in-progress Grand Labyrinth,” Casper answered. “As for what kind of enemies, I reckon they will be the ones currently working on the construction.”
+
+“So, humanoid enemies,” Jake nodded. “How about the estimated length of the dungeon? If we just have to find a boss at the center of the Grand Labyrinth, this should be a pretty quick endeavor.”
+
+“No idea how long it’ll take, and for some reason, I doubt it will be as fast as you hope,” the Risen shook his head.
+
+“Knowing Minaga, probably not,” Jake sighed. “I also gotta ask, how confident are you in handling B-grades?”
+
+“Pretty confident, killed my fair share already. I do rely on Lyra quite a bit, sure, but I can handle myself,” Casper said. “How about you? From what I heard, you’ve been hunting plenty of B-grades already. Including at least one particularly powerful scaled monster known for breathing very hard.”
+
+“That’s a very disrespectful way of describing dragons. Not that I’m gonna disagree,” Jake chuckled. “With you mentioning that and assuming Minaga also knows I killed a True Dragon, can I venture a guess and say that the final boss here is harder than a newly evolved True Dragon? Minaga did say he wasn’t sure I would be able to do it, after all.”
+
+“No idea, man, but even if it is, remember you’re not fighting alone this time,” Casper smiled. “Even if I’m far from as powerful as you, I can still be very helpful. Curses are especially good at affecting even powerful entities, so I should be able to help you weaken even foes that you find difficult to beat. Moreover, the negative aspects of curse magic are usually that you risk affecting your allies when using it, but that shouldn’t be a problem for you.”
+
+“True, and I’m actually looking forward to seeing what a proper curse-user is capable of,” Jake said, genuinely curious what Casper was capable of pulling off with his current level of power. “As you said, I also have quite an affinity for curses, yet I barely use that aspect of my Path for anything besides stabbing people.”
+
+“If it’s any consolation, most of my curse-usage also happens to involve stabbing people,” Casper chuckled, shaking his head.
+
+“Hey, maybe I can learn something,” Jake shrugged. “Now let’s get going and check out what kind of things Minaga has prepared for us.”
+
+“Sure,” Casper agreed, and side by side, the two exited the cabin as they got a good look at the massive Grand Labyrinth in the distance. Right as they got out of the cabin, Casper frowned, making Jake look over.
+
+“What is it?”
+
+“Nothing, but just to make sure, we both agree that we didn’t spot any journal that Minaga would definitely want us to read inside the cabin, right?” the Risen asked.
+
+“I genuinely didn’t notice it,” Jake muttered truthfully. He had just assumed everything inside the cabin was clutter, including the journal that he now spotted through his sphere.
+
+“Great, and a wonderful data point that even someone with extremely high Perception could easily miss such an item if it isn’t placed anywhere readily apparent. If it had instead ‘fallen’ on the ground and landed right in front of the door, we would have found it for sure, but if it was just on the bedside dresser, it’s so easily missable,” Casper said with a big smile.
+
+“Why do I feel like you and Minaga had a disagreement that you now feel like you won?” Jake muttered.
+
+“Because we did, and I clearly won,” the Risen chuckled.
+
+Jake just shook his head as the two of them began approaching the Grand Labyrinth. Currently, they couldn’t see the bases of the massive walls in the distance; only their upper parts stretched seemingly infinitely into the sky. Even when Jake squinted and strained himself, he still couldn’t see the top.
+
+These walls were dark and appeared to be made of metal, giving the impression that breaking them wasn’t possible. As Jake looked, he found some perfectly circular holes in the walls here and there, which he reckoned could be used to explore the place later. He also guessed that maybe these holes weren’t meant to be there, but only part of this so-called construction phase.
+
+After the two walked for a little while, they got over a hill, allowing them to see the base of the Grand Labyrinth. Jake looked and quickly spotted an entrance down at ground level, more or less confirming his theory that these circular holes weren’t part of the finished labyrinth in the three prior dungeons.
+
+However, rather than look at the dungeon design, Jake was more curious about the humanoid figures walking around below. He instantly noticed their bodies appeared kind of weird, giving off an odd sheen under the sunlight, but after using Identify, he understood.
+
+[Aginian Construction Golem – lvl ???]
+
+“Golems?” Jake exclaimed in surprise. “Also, Aginian… sounds a bit too similar to Minaga’s name, doesn’t it?”
+
+“On purpose,” Casper sighed. “The faction these are from is supposed to be the Aginian Empire, a totally fictional faction that Minaga did indeed partly name after himself. Once more, I said the name was a bit too obvious, but he kept arguing that the vast majority would not notice. Same as how most don’t notice something is an obvious reference to something else, despite just taking a word or a name and spelling it backwards.”
+
+“Not gonna lie, I may actually have to agree with Minaga there; a lot of people either don’t care or are oblivious,” Jake shook his head. “But if we’re gonna be fighting golems, aren’t you disadvantaged?”
+
+“What kind of chump do you think I am? Naturally, I’ve learned how to handle enemies like that,” Casper shrugged. “Besides, there will be other enemies later, and these are just the weakest construction golems. We’ll encounter live prey further in.”
+
+Jake nodded, choosing to trust Casper’s senses when it came to detecting life. As a Risen with an attunement for death, he could naturally easily detect signs of life in a vast area, and the stronger the living entities were, the easier it was to detect them.
+
+“So, should we just start clearing?” Jake asked. They were still a good distance away, and Jake saw that most of the golems were spread far apart, making it feasible to take them out one at a time.
+
+“Man, with the casualness you said that, I get the feeling these things barely even register as worthwhile targets in your mind,” Casper sighed, shaking his head. “If that’s the case, how about leaving them to me? That way, I can at least get some experience, plus you’ll get a better feel for what I’m capable of. Oh, also, didn’t you say you wanted to take inspiration from my curse skills? This seems like a great opportunity for that.”
+
+Jake took another glance at the golems below, and while he was tempted to see if he could one-shot them, he ultimately shrugged, reckoning he would have plenty of chances to try later anyway. “Sure, let’s see what you got.”

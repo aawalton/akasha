@@ -1,0 +1,269 @@
+---
+id: 170f8424-c54e-5000-b7e0-09112f3ab902
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15 - Rejection"
+slug: 0016-chapter-15-rejection
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 16
+ownLength: 2253
+unit: words
+publishedAt: 2022-06-06
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/921824/chapter-15-rejection"
+royalRoadId: "921824"
+---
+
+The next day, Eleanor came down to lunch after all the others had left. She dreaded the fuming silence her father adopted whenever she was in the room, so she tried to time it so she wouldn’t have to sit with him. It was more peaceful when she was by herself, but it was lonely.
+
+However, she wasn’t the only person eating late that day, so she didn’t have to endure her solitude for long.
+
+Edward burst into the dining room because merely entering a room was beyond his capabilities. There were wide-open arms, a wide smile, and the boom of an unnecessary interjection.
+
+“Ah! Little cousin!” He came around and laid a kiss on the top of her head. “You held lunch for me. What a thoughtful creature you are.”
+
+“That’s right, Eddie. I stopped everyone and everything and demanded that they all wait for you.”
+
+“You cheat. Don’t try to fool me. I was just outside, and the sun is no longer at its zenith. Lord knows, the sun only moves across the sky at your say so.”
+
+“I’ll try scowling more next time.”
+
+The baron went over to the sideboard, grabbed a few sandwiches, then returned to take a seat by Eleanor. He picked up one of the newspapers she had discarded, and began scanning the stories as he ate.
+
+“Nothing from Uncle Erravold,” he said. “No letter from Penn. I guess the world moves on. And what a brilliant hush up over the break-in. Haley deserves a medal for that one. ‘Master thief breaks in—we’re still working to discover what might have been stolen.’ Might have been stolen. Ha! But that was Friday’s news. I wondered if Penn would write in to brag about what he did, but it doesn’t look like he will. Do you think he still might?” Edward glanced at his cousin. “Eleanor?”
+
+She blinked and turned to look at him. “I’m sorry, Eddie.”
+
+The baron folded the paper and dropped it back on the table. “Eleanor, what on earth has you so thoughtful?”
+
+Lady Serrs lowered her eyes to the table. “Edward, have you ever proposed to a woman?”
+
+The silence was long enough, Eleanor wondered if she’d made a mistake in asking. She raised her eyes and saw a sober expression on her cousin’s face.
+
+“No.”
+
+The way he said it was so simple—almost gentle—that Eleanor’s heart inched forward a little.
+
+“But you’re a man, right?”
+
+Edward smiled on one side. “There have been one or two accusations along those lines.”
+
+“Would you be offended if a woman refused you?”
+
+“Offended? I suppose that would depend on why she refused me.”
+
+“What if she was as polite as possible?”
+
+“Eleanor, this is about your suitors, isn’t it?”
+
+Eleanor blushed and looked down.
+
+Edward went on, “Haley was asking about them. What did you tell him?”
+
+Her green eyes flashed up with indignation. “I didn’t tell him anything!” She lowered them again. “It was Father. He said they might be holding a grudge.”
+
+Edward sighed as he shook his head.
+
+“You know them, don’t you?” Eleanor asked.
+
+“They’re my friends. We’re in the same club.”
+
+“Then…then you would know, wouldn’t you?”
+
+“Know what?”
+
+“Did I hurt them?”
+
+“Yes.”
+
+Eleanor turned away.
+
+“Oh! You didn’t like that answer,” Edward said, “but I don’t know how you could expect any other. Those men offered to share their lives with you—”
+
+“I had the right to say no.”
+
+“You did. But you didn’t ask about that. You asked if you’d hurt them.”
+
+“This was all two years ago! It shouldn’t matter. Even if they can’t forgive me, even if they despise me, why wouldn’t they simply move on?”
+
+“It’s not that easy, Ellie.”
+
+Eleanor finally looked at her cousin again.
+
+He went on, “You know none of them have ever married.”
+
+“I didn’t know that.”
+
+“You would have seen the announcements.”
+
+“I—I wasn’t reading the papers—”
+
+“You weren’t reading?” Edward let out a short laugh. “You would have had to bury your head! Were you trying to avoid it?”
+
+Eleanor’s chest ached, and small tears gathered at the edges of her eyes.
+
+“Oh, my word—you were, weren’t you? Eleanor, what’s wrong with you?”
+
+Her eyebrows furrowed. “Wrong with me?” she mouthed. “You think something’s wrong with me?”
+
+“You turned them down. It shouldn’t matter to you if they get married. Don’t you have enough of a heart to wish them well?”
+
+“Of course I do! You think I want them to be miserable?”
+
+Edward raised both hands in a shrug. “Maybe you were thinking more about yourself.”
+
+A voice blew in from the doorway like a hard north wind: “And who was she supposed to think of, Edward Archibald Comtess? When it’s her life she’s deciding?”
+
+The baroness swept into the room. The percussion of her cane grew louder and faster as she approached. “On your feet, Edward!”
+
+Edward stood.
+
+His mother was a half foot shorter than her son, but she stood inches in front of him and glared. “Who was she supposed to think of? Or do you really believe a woman should lay herself so low that everyone’s happiness supersedes her own? Never mind what she wants. Never mind what matters to her—someone has asked her for something, so she must do it!”
+
+“Mama, that’s not what I meant—”
+
+“You were trying to make her feel guilty! You were trying to make her feel bad for making an honest and reasonable choice!”
+
+“She asked if she’d hurt those men!”
+
+“And?” The cane slammed onto the floor. “Eleanor is not responsible for the happiness of everyone around her! She has the right to care for herself! No one else will!”
+
+“Mother—”
+
+“I’m disappointed in you, Edward. Very disappointed. Shall we talk of selfishness? Or will you leave the room?”
+
+“Please, Mother.”
+
+“Give me my space, boy. I’ll talk to you later.”
+
+Edward bowed to his mother.
+
+As he grabbed his plate, Eleanor mumbled, “Edward—”
+
+The baron twisted up his nose and cheek in a subtle shrug-ish smile that only she could see.
+
+That cavalier kindness made her stomach ache with more guilt than before.
+
+Eleanor stood up as the baron walked away from the table. When he passed through the doorway, Eleanor took a step toward the baroness, but all thoughts of protesting on behalf of her cousin disappeared when she realized how hard her aunt was shaking.
+
+“Aunt Helena?”
+
+“Eleanor,” the woman whispered, “please help me to a chair. I need to sit down.”
+
+It quickly became obvious that Lady Serrs-Comtess was not guilty of exaggeration. Eleanor’s proffered arm became a shoulder that bore most of the older woman’s weight. Eleanor was bent double before her aunt was seated. Once Helena was settled, Eleanor knelt down so she could look at her aunt’s face.
+
+“Aunt Helena, what’s wrong? Are you really so angry at Eddie?”
+
+There was a glint in the pale blue eyes. “Oh, I am, child. I am. But never mind that. Right now I want to talk to you.”
+
+Eleanor pressed her lips together and sat back on her heels—all avid attention and wide eyes. Helena felt the urge to chuckle; it reminded her so much of Eleanor as a child, waiting for a story.
+
+The baroness put her hand over her niece’s. “Eleanor, listen to me. This prank has stirred up still water, and I know that it’ll be a long time before things settle down again. With your father and everyone else pressuring you to marry, I’m here to tell you, you don’t have to if you don’t want to. Be selfish. Be wildly selfish in at least this one thing.”
+
+“I’m sorry, I don’t understand.”
+
+“Then let me be clear to the point of vulgarity. You, Eleanor Louise Serrs, will never have to marry unless you want to. You have been provided for. If you choose not to marry, you will inherit from me—”
+
+“What about Edward?”
+
+“Edward has already inherited his father’s title and estate. That should be enough for any man to make his way. The money I’m talking about is mine, and if you choose to remain single, it will pass to you.”
+
+“Does Father know about this?”
+
+“He does. I told him when I made the arrangements two years ago.”
+
+Eleanor looked along the floor, but there were no obvious answers lying around that could allay her confusion. “If I’m not going to be a burden, then why does he want me to marry so badly?”
+
+Helena sighed. “I suspect there are a number of reasons Erravold wants you to marry, and I don’t believe he’s aware of most of them. Shall we start with his pride? He decided you should marry, and it would never occur to him that he could be wrong. Then there’s family pride—the Serrs’ line should never end. Oh, pride, pride, pride! So much of it. But, I think, in his heart of hearts, the biggest reason is because he believes a man should handle your affairs.”
+
+Eleanor felt her cheeks grow warm. She was insulted, but she also felt ashamed because a part of her mind lit up with anxiety.
+
+It must have showed on her face.
+
+Lady Serrs-Comtess said, “Don’t worry about that, Eleanor. If I can do it, I suspect anyone with a half-reasonable brain can do it. Managing the money won’t be a problem, and you will have enough funds to keep you through your life, as long as you don’t waste it on speculative ventures. Money has many uses, but the greatest thing it can do is buy a person’s freedom.”
+
+“Thank you for telling me. That’s reassuring to know.”
+
+“It must have been worrying you.”
+
+“N-no,” Eleanor stuttered. “I’m afraid I never really thought about it.”
+
+“Hadn’t you?”
+
+“Is that stupid of me?”
+
+“You know your father’s fortune must follow his title.”
+
+“Well, yes. The duke needs to care for the manor. I know that much. Doesn’t it go to Uncle Kayson and Little Dustin?”
+
+“Yet you never worried about your future?”
+
+Eleanor sat on the floor and pulled her legs to the side. “That was thoughtless of me. I’m spoiled, aren’t I?”
+
+“You are spoiled. But thoughtless? No. That head of yours is full of thoughts—some better than others—so, tell me, what were you thinking?”
+
+“I thought I would get married.”
+
+There was a short silence.
+
+“I didn’t know you wanted to,” Helena said.
+
+Eleanor looked up at her aunt. “Did you love Uncle Archie?”
+
+“Very much.” The matriarch took a deep breath and gazed into the distance. “He was a kind man. He treated me with respect, and he was honest and intelligent. I knew he would make a good husband when I chose him above all the others.”
+
+“There were others?”
+
+“Don’t sound so surprised, Eleanor. It’s rude. My looks might not have been as honey charming as yours, but I was still a Serrs. I think I had five suitors at one point.”
+
+Eleanor smiled. “If it’s a competition, I think you’re winning.”
+
+Helena rolled her eyes. “I chose Archibald over all the rest, even though he was only ever going to be a baron.” The baroness looked down at her niece. “It caused quite a scandal at the time. I snubbed a prince.”
+
+Eleanor’s smile widened. “A prince?”
+
+“Russian. They have dozens of them hanging around.”
+
+“Still, Uncle Archie must have felt a little flattered.”
+
+“He never mentioned it. He was the calm and collected kind. When I told him I would marry him, he bowed over my hand and thanked me. I don’t think he even smiled.”
+
+This seemed to offend Eleanor. “The brute.”
+
+“Eleanor, I’m not romantically inclined. I wanted a good husband and I got one. I fell in love with him later.”
+
+“You’re amazing, Aunt Helena.”
+
+“I think you’re laughing at me.”
+
+“It’s delightful to imagine that you were like this your whole life. If I could talk to your nanny, I wonder what she’d say.”
+
+“She’d knock you on the shins and tell you to stop sitting on the floor!”
+
+Eleanor made an ulp sound and clamored to her feet. She drew a chair close to her aunt and sat down.
+
+Once the girl was settled, Helena said, “I know it’s none of my business, but I don’t suppose you’d ever tell your father, so I need to ask—are you in love with anyone?”
+
+Eleanor flushed. “It’s nothing like that. I hope you don’t think I’m that silly.”
+
+“I’ll reserve comment.”
+
+“I thought I would get married because most women do get married. I’m not entangled in any kind of love-affair. Unless you count Penn.”
+
+“Eleanor, I wish you wouldn’t joke about that.”
+
+“I’m sorry.”
+
+“That’s all right then.”
+
+When Eleanor saw Lady Serrs-Comtess pushing down on her cane, she helped her aunt to her feet.
+
+“Thank you,” Helena said. “Now I have to find Edward and talk to him.”
+
+“Aunt Helena, please don’t be mad. I was asking him questions, and he was only answering me.”
+
+“It wasn’t only that. He didn’t have to answer as he did.”
+
+“But he was telling me the truth.”
+
+“Ah, yes. The truth! Look out for her. She is what she is, but she has a thousand faces.” The baroness put a hand on her niece’s cheek. Eleanor was surprised by how cold it was. “You’re such a kind girl. I’m glad. But be careful with your heart, Eleanor. The world is not always a kind place.”
+
+Eleanor stayed where she was and watched her aunt leave.

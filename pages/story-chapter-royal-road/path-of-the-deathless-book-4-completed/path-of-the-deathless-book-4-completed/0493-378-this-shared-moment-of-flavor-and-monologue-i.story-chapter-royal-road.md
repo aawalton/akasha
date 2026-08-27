@@ -1,0 +1,205 @@
+---
+id: 9cc240aa-4772-5ef0-ac38-0835ddfbac74
+page-type-slug: story-chapter-royal-road
+title: "378 This Shared Moment of Flavor and Monologue [I]"
+slug: 0493-378-this-shared-moment-of-flavor-and-monologue-i
+partOf: path-of-the-deathless-book-4-completed
+position: 493
+ownLength: 4918
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3521161/378-this-shared-moment-of-flavor-and-monologue"
+royalRoadId: "3521161"
+---
+
+Philosophy!
+
+The most useless of skills, yet the most enslaving of skills. A skill that cannot shatter stone, cannot start a flame, cannot twist a river, cannot build an aqueduct, cannot dry a seabed, and cannot tame a beast. A skill that stands for naught when your enemy is armed with steel, or even stone, a skill even the highest of ideations of which are so easily brought down by the vilest of beasts.
+
+Despite all this, philosophy still entangles us. We just cannot help but dream. Religion and mythology stand as one when gods are severed from the concoction. Beyond philosophy is more than mere faith, but perhaps even an explanation of faithlessness or a conception of the greater good beyond the existence of a god to call master.
+
+Far too many of those who call themselves warriors discount philosophy, think themselves unneedful of such a thing, yet are governed by the philosophy of hedonism without even knowing it. Even those blind to their own governing principles possess an idea that guides them, an urge and a framework that cages their actions. They kill, and they justify their butchery, for there is a dissonance within that needs to be soothed, lest they are more cold-blooded beasts than men, merely creatures of brutality dressed in human skin.
+
+Even the lowest sociopath yearns to see the world in a form of order, and so philosophy rules over them still, yet in an altered form, perhaps one of a more alien notion. To think, to conceptualize, to imagine already condemns you to this most Gnostic of plagues.
+
+You must have a governing philosophy. Even the belief in nothing, that reigning nihilism, oh so common in our little world, is still a framework to view it. Once you understand how you view the world, you might be able to negotiate with yourself about changes necessary for a certain question of free will. For if you do not know why you think a certain way, how then do you choose to think another?
+
+When faced with an adversary, what then can you do to them if you understand the very roots that govern their worldview?
+
+If all the world's a stage and all the players bear their wooden planks, then I ask this: Would it not be best to be the one who holds the lines and sees the narration? Would it not be best to know what fetters another?
+
+—Hero-Playwright Kathereine Chandler of the Dust Kingdom
+
+378
+
+This Shared Moment of Flavor and Monologue [I]
+
+“By the Ascendants, you're actually alive.” Isabella Van Stormhalt looked upon Rose Van Erren with a mixture of absolute horror, reverence, and awe.
+
+For years, she'd known her fiancé's mother to be dead, murdered when he was a young child in a depraved ritual.
+
+Yet here was the Lady of Blackedge, in the flesh, standing before her, unblemished, red of hair, examining her son's fiancée with a curled lip as if she was a bug that had crawled in from the outside.
+
+“If you asked that question a few months ago, there wouldn't have been anyone here to answer you.” Rose directed a mocking sneer at Shiv, but there was a twinkle of amusement in her eyes. “But this one here just couldn't let the dead rest. Just had to go reaching into the Ascendants’ embrace, ripping me away from the bliss of the afterlife, without ever giving me a chance to choose.”
+
+Isabella's eyes widened, and she slowly took a half-step away from Shiv. “Is that how your resurrections work?”
+
+Shiv lifted an eyebrow, examining the fox-like grin Rose was giving him. Behind her, Adam lay within his realm of blissful peace. The painted garden surrounding him still had that charcoal threshold, ensuring no one could disturb him. Upon that bed, he bled, and he gasped. He moaned for death, yet his struggles were reduced compared to before. He too had been treated, but he experienced nowhere near the release Isabella did.
+
+“Yeah,” Shiv said, playing along with Rose's impish scheme. “It's a pretty foul power. I mean, she was screaming the entire time trying to shove herself back up Maiden’s ass—which was a pretty interesting place to find her, but hey, who am I to judge? Anyway, after unlatching her from the taint hair—”
+
+A pale, slender middle finger was suddenly pressed up against the bottom of Shiv's chin. It took Rose reaching straight up with her extended arm to plant her insult against Shiv's jaw, and he smirked slightly, enjoying the sour look on her face. “Hey, Lady Van Erren: if you mess with me, I'm gonna mess with you too. That's the way it goes.”
+
+Comedy 25 > 28
+
+A curtain of Biomancy wards, supplied by Ekkihurst and Helix, kept Isabella in a sterile bubble. To make sure nothing went wrong, Shiv shared a few flies, and they hovered close behind him, circling around the recently treated Young Lady of House Stormhalt. With all these precautions in place, she was personally escorted by Shiv up to the very heights of the Perch, where Roland and Rose waited, guarding the suffering body of their son.
+
+The little levity between Shiv and Rose lingered as long as a mayfly between the seasons. Isabella's attention slipped past both Shiv and Rose and fell upon Adam, where her grief bloomed like the flowers that surrounded him.
+
+“Oh, oh, Endbreaker,” she gasped.
+
+Roland and Shiv shared an awkward look. Well, she is a Stormhalt, Shiv remembered. Havel was an Avatar of Halsur, and so it was no surprise that the Endbreaker was to House Stormhalt what the Starhawk was to House Arrow.
+
+Isabella's steps were tentative and slight. Her chest radiated cold waves of overwhelming fear. She was petrified for Adam. Truthfully, Shiv could practically taste the nausea rising inside her as she watched her fiancé's open skull gush another flood of blood. But despite the horror that enchained her, she would have gone to Adam's bedside if not prevented by the Educator's charcoal borders. Her fingers curled the hem of her medical gown into clumps, and she pressed hard against the threshold preventing her from stepping into the painted demiplane. Her eyes glistened like glass marbles, hazel bright and reflecting the faint embers of divine incandescence leaking from her fiancé.
+
+Adam remained as Shiv remembered, a ruined husk of himself, but at least his thrashing was far reduced. Perhaps his uncontrollable Awareness skill offered a small mercy unto itself, for it kept him incapacitated rather than driven to shed blood and take life—though the torment would have to be extreme for Adam to sink to such a point.
+
+Even still, Isabella refused to shed any tears. She kept herself composed and wheeled on Shiv, her mouth already moving before her mind calmed. Questions spilled out of her in a tide of gibberish as she fought to bring a measure of coherence back to her words. “Ah—if—unh—You said the crown was technological? What kind? What era? Can I see it? Do you know how it functions? The mechanics? Schematics?”
+
+A frantic energy took hold inside Isabella. Shiv could see she wasn't the kind to stay idle. Already she was looking for solutions, anything to help alleviate Adam's burden—and while her thoughts spun like a hurricane, her heart cramped from an overload of desperation. “I might not be able to disassemble it myself, but I know people back at the capital. My father has connections—he can appeal to the Endbreaker, and if not him, then Maiden definitely!”
+
+As she invoked the name of the Ascendants, Roland looked aside, refusing to meet her eyes at this moment. They had already been failed by an Ascendant—perhaps the most noble of them all. The fact that Piety was technically at war with the gods of the Republic was brushed aside by the simple reality that even if all seven of the dead Ascendants were resurrected, all twenty then returned to their prime states, and all were willing to help Adam, they would still be defying the Red Rider’s will in attempting to do so.
+
+And that led to a bleaker question: How much effort would it take for a ravenous beast to butcher one toddler compared to twenty? For as Shiv felt it, such was the magnitude of distance between the God of Strife and the founders of the Yellowstone Republic.
+
+“Gir—ah, Lady Stormhalt.” Rose gritted her teeth. “Look.”
+
+“Wait. Stop.” Shiv had his Harbinger reach out to Rose, stopping her before she could demoralize the girl and speaking psionically. “Logic isn't appropriate right now. Let's give her something to work on, something to keep her spirits up while we keep looking for solutions ourselves.”
+
+“If no one in this state could do anything for Adam, what fucking hope does she have?” Rose asked, though her words bore no malice. “It's better if we just let her know—no bullshit—so she doesn't waste her time.”
+
+“She needs to waste her time. She needs to hope. She needs to have something to do. She probably logically knows that there's not much she can do, but she still hopes, and so she's gonna try. I'd say we let her. She just woke up from a near-death delirium. The last thing we need is her mind going in one direction, her heart going another, her ego tearing, and her suffering some kind of psychological breakdown.” Shiv stared at Rose until he was sure she got his point. “This isn't about being honest or facing facts; this is about her emotions. That's the way it's been for practically everyone. You can't build a dam using thoughts to parry someone's heart. I've made that mistake enough to know that it doesn't work. The passion needs to die first—and needs to die real slow, otherwise everything inside collapses all at once.”
+
+“Are you two using Psychomancy?” Isabella asked, looking between Shiv and Rose.
+
+“Yeah.” Shiv shaped a technical truth to mask the most hurtful aspects of the telepathic conversations. “We were talking about Adam’s state and what to tell you—what might be best for you to know.”
+
+“Best for me to know? I need to know as much as possible, everything about this device that you can tell me!” A hint of infuriation spilled over from her voice, and Shiv knew that she was agitated—on the verge of being alienated.
+
+“Yeah, I know. That's what we were talking about. We weren't planning to hide anything more from you; we just don't want you to be demoralized. This thing is Earth tech that predates the System’s arrival. It was personally enchanted by the Challenger and was specifically made to hurt anyone it's implanted in as much as possible. The only person here who's probably qualified to say anything about the thing might be Can Hu—I'll introduce it to you soon, and it can give you the technical details. Right now, though, you remember what I told you about what the orc skill did to me, right? Back when this place was still called Theborn?”
+
+Isabella’s expression paled.
+
+“That's a pretty proper response. Well, I want you to know it's probably even worse for Adam, and on top of that, his Awareness Skill was tearing his mind apart even before he got the Crown.” Shiv sighed. “Put both of those two things together, and you got quite a problem to solve—but you know what? We'd still welcome any help you can give. Even the smallest chance is better than none.”
+
+With that, he made clear the colossal difficulties they faced while also not denying her an opportunity to prove herself. Perhaps she just might be able to offer them an insight. The chance was infinitesimally small, but there was no harm in letting her try. Definitely not for her ego, anyway.
+
+Isabella looked at once hesitant but also grateful as she considered a response. “I also understand that something very confusing and very… worrying is happening in the capital. I know my family and… and…” She stopped talking as she realized Roland was faced away from her entirely.
+
+Once more, Shiv intercepted and answered the question he knew she was about to ask. “Isabella, it's not that we don't want to do everything we can for Adam; it's that trying to involve the Ascendants will just make things worse. Even if the Challenger doesn't just rip her head off for interfering, Maiden is more likely to keep Adam in a cage and torture him, or cut him open, or some other disgusting shit like that, than grant him any help.” He saw her face twist in outrage, and he pivoted before an emotional argument could form. “But it might not be because of them either. It might be because of rogue elements inside the Republic twisting and deceiving the Avatars—the result is that we can’t go back to them without risking Adam’s life, and none of us wants that.”
+
+His final statement was infused with emotion, psionics, and physical severity. The words were paired with Shiv squeezing Isabella’s arm briefly, intuitively influencing her mood and psychology by planting the idea they were on the same side rather than any kind of adversaries. Yet, just to be sure, he did something that was slightly vicious. He twisted the knife; he hinted that she might be the villain if she disagreed. “At least I don't want that. I didn't fight so desperately to break out of the Rubix Well with Adam to see him put back inside there.”
+
+And though her brow furrowed and she began bunching and clumping up the hem of her medical gown evermore, she lowered her head in an accepting nod. “I don't either, I just want—”
+
+“We all want to help him. And we will. We have to.” Shiv shot a look at Adam, and the ghost of his own guilt returned to haunt him. “Whatever it takes. So, I'll be more than happy if you can pull off a miracle or come up with some kind of angle that we haven't thought of yet. In the meantime…” Shiv looked at Roland and Rose. “I think you should spend a bit of time here and, uh, talk with your in-laws. We're all going through the same things right now, but they probably understand what you're feeling better than most. Best not to face this alone, and—”
+
+Whatever else Shiv had to say was interrupted as a thread of Uva's Psychomancy brushed against his mind. Her touch briefly recoiled from his Magical Resistance, but he let down his guard and allowed her to sink in. “A new delegation has arrived at the Abyssal gateway: The representatives from the Descenders Union are here. The Lance is made up of High-Tiers, five Legends at the very least, judging from their mana fields. Also, Marikos is with them, and he is personally calling for you to greet him.”
+
+Shiv's head perked up in surprise. “Damn, they got here a lot faster than I thought. Also, didn't that Umbral girl say Marikos’ boss put him under confinement for ignoring the political will of the Five Faiths or something in coming up to the surface to fight Sullain?”
+
+“According to more verifiable information that has reached the Gate, that was indeed the case. But considering you sent for him by name, and that he's a Legendary Pathbearer, short of the most extreme of transgressions, the only punishment he will experience under his own Faith is little more than a swat on the rear. Though if you do not make haste, I fear one of your favorite orcs might be eaten. He’s trying to challenge Marikos to a ‘tit-for-tat.’ Both of them are to trade hits, and the first person to die loses. He's also willing to let Marikos go first.”
+
+Shiv barely caught himself from barking a laugh. “Alright. Thanks, Uva. I’ll go settle things before we have to pressure blast the archway outside with a Hydromancy spell to clean off all the orc chunks.”
+
+“Perhaps you can distract and entertain the guests with your new swarm of questionable flies.”
+
+Without a clear line of sight to Uva's core, Shiv couldn't tell if she was being sarcastic or not, and in the moment, both her thoughts and her emotions were flat, giving him no hint as to her true intentions. “I do not jest. I truly think this is a good idea. The Descenders admire strength, and a Heroic-Tier Disease Resistance Skill is likely possessed by few among their numbers as well. If you come out with such a display, even if it is slightly grotesque for most to behold, you might be able to gain a measure of respect from the Dragon-Knights. And live up to how Marikos has portrayed you in his tales.”
+
+“Oh, right, all the boasting he did on my behalf.” Shiv suppressed a stupid grin; though Marikos had his problems and exaggerated Shiv’s reputation he may have, he did appreciate the dragon for everything he had done for him. Despite the ugly grudge between him and Valor, Marikos was there when Shiv needed him. Marikos was there to turn the tide and spare Shiv from an ugly death when the Tarrasque descended upon Blackedge. Without his arrival and the sacrifice of his fellow knights, Sullain’s dream of delivering destruction upon the town might have very well come to fruition.
+
+Good to have someone who’s pretty much wholly and unrepentantly on our side, Shiv thought. As Uva tried to pull away, Shiv caught her puppeteer string and delivered a question to her before she could attend to her tasks: “Hey, before I forget, what do you think about my new skill? The plague flies had Jessica trying not to throw up, and Roland shaking like a child. Didn’t hear anything from you, though.”
+
+“I am hardly in an optimal position to judge how strange or eccentric another skill is. Especially considering all the evolutions I have undergone. Nor do I have any particular inclination to fan the flames of your ego, seeing as a Legendary Dragon-Knight will be partaking in that effort soon enough. But I will say this: the implications behind what you can do with plagues and diseases are awesome, terrifying, and enticing—which has me thinking you should dispatch a body toward Weave post-haste to see if you can offer some relief for the ferals, if possible. The Order and Her Lady Arachnae would doubtless be grateful for any relief your efforts might bring… Just don't mention the Sculptor’s presence here. Not yet. And mind your flies—I find them cherubic, but they are so round and fleshy that they triggered a hunger-response in Still Water and Liquid Serpent when I synced memories detailing your latest evolution with them.”
+
+“Ah, right, the spiders and flies thing.”
+
+“Quite.”
+
+Something else to look forward to then.
+
+“Isabella,” Shiv said. “I’m going to shift bodies in a second—going to use this one to say hi to an old friend. Don’t freak out when my Severed Shadow cuts over, alright?”
+
+Isabella frowned. “Severed Shadow? Oh, wait, that's what you called your… Revenant, right?”
+
+He hummed with approval. So she was listening.
+
+“Is something wrong?” Roland asked.
+
+“More like something's going right,” Shiv replied. “We got the Descenders Union incoming—with Sir Marikos at the gateway down in the Abyss. I’m going to go invite him in before we experience an incident before the council can even begin.”
+
+“Sir Marikos? You mean the dragon that incinerated you before you got to Weave? That Sir Marikos? He's here?” With every question, Isabella's voice climbed higher, and her eyebrows made for the apex of her forehead. Her heart filled with mutual emotions of fascination and anticipation, but there was also more than a sprinkling of fear. Shiv might have gone a little too much into detail about how easily Marikos incinerated him during their first meeting.
+
+In the next moment, Isabella flinched as Shiv's chest was split open in a chasm of blinding white light. A second later, his Severed Shadow came into place, replacing the flesh and blood body that once stood in the chamber. Though already forewarned by Shiv, the Young Lady of House Stormhalt flinched back as Shiv's Revenant cleaved its way across existence. “Whoa,” she breathed.
+
+“Do you need me with you?” Roland asked.
+
+Shiv waved him off. “Nah. Frankly, I think it's better if you don't show up for now. Marikos might think highly of you, but the same can't be said for the other Dragon Knights; quite a few people still have bad memories of the Dread Horizon from the Abyss War.”
+
+Roland's eyes dimmed. Both his mind and heart grew clouded with forlorn memories. He held to his silence, but Shiv understood how he felt, could practically read the regret leaking from his expression.
+
+“You guys feel free to get acquainted while I'm doing that, but Isabella, if you want to ask me anything or need anything from me, just speak. I’m still here, I’ll just be a little distracted.” Shiv’s physical form was already accelerating toward the Abyssal gateway.
+
+“Uh, yeah, sure,” Isabella replied, her uncertainty clear. “It’s just… How? Is this a skill?”
+
+“Several,” Shiv said, straining his Legion of Self ever so slightly to answer her question while guiding his physical flesh. “Multitasking Evolution and Severed Shadow. The former lets me think along multiple tracks at the same time, and the other gives me bodies to do things with.”
+
+Her mouth fell open. “Just how many bodies can you control?”
+
+“Right now? A bit below ten. As long as they're not doing anything too complex.” Shiv kept things deliberately vague so that Isabella didn’t know everything about him.
+
+She mouthed the word "ten" at him in abject disbelief, and her heart skipped a beat as she laid eyes on the Red Rider’s Hand lingering close behind his Severed Shadow.
+
+It was little moments like these that reminded Shiv that he really was a Legendary Pathbearer. He had the power. It was just the experience he was lacking.
+
+As his physical body prepared to cross the threshold between dimensions, he shed all his plague flies, allowing them to billow out behind him to engulf his flesh and clad him in a swarm born in his image. The slumbering diseases within Shiv woke to his call, and as rivers of plague flies spilled free from his mana, his body grew in size, building in immensity as the inflammation within his stomach amplified his physical might. His muscles bulged, his bones cracked and extended. His body went from being less than two and a half meters tall to over twice that in less than a second, and his presence was further magnified by the creatures streaming behind him, billowing more like rivers shaped from writhing limbs and shifting bodies.
+
+The plague flies served him as armor, as a cape, as a banner of his approach. There was no subtlety when he called them forth: however large his body grew, it was the beasts of plague that truly announced his presence, for they were as if a storm cloud choking the horizon, making him visible from kilometers away and earning him fear chains from all across the gate. Umbral guards tasked with protecting the Abyssal gateway turned their gazes high as he speared through the dimensional passage over them. He caught sight of their eyes wide and white with alarm just before his plunge.
+
+They weren't the only ones unbalanced. The four Dragon-Brokers, still chattering away, sharing cups of tea, had fallen silent and had all turned in his direction. Doubtless, they already knew about his new Skill Evolutions. Word spread fast in a Gate so sparsely populated.
+
+His mana fields were beginning to expand as well, allowing his magic to keep pace with his staggering physicality. And it was in such a state that he emerged in the Abyss, preparing to greet the newest guests come to gather as part of the Coalition Against the End.
+
+Shape of Monstrosity 173 > 177
+
+***
+
+“You are bold, Adept orc! Very, very bold. I appreciate this in a Pathbearer, but I will not say it again. To deny me access to this Gate is to challenge my honor and disrespect my deeds. Any more delays and I will demand a duel to see this affront sated.” Sir-Legend Marikos Valdemar tried to keep his voice under control. He really did. But after countless campaigns and years of nigh-constant yelling, his skill evolutions left him a vessel of destruction in terms of matter, magic, and even sound.
+
+As such, the air turned to thunder with every syllable he spat, and the ground was sundered down to soil and bedrock below. The very atmosphere trembled with Sir-Legend Marikos Valdemar’s presence, and the hundreds of magical turrets arrayed against him were but candles before his magnificence, the mana infusing them flickering, on the verge of being put out by his mere breath. The twenty sporadically spaced trench lines dug were filled with all manner of biological horrors and summoned dimensionals, but they did not resemble anything fielded by the First Blood or Compact. No, they were summons of alternative make entirely, and though they were hundreds in number, Sir-Legend Marikos Valdemar smelled the scents of far more in the trenches.
+
+Orc scents. Thousands of them. But he could see only one. And when Sir-Legend Marikos Valdemar suffered such a situation, an ambush was usually not far away.
+
+Such would be his usual assessment, but on this day, the orc he faced gave him a different feeling, one that was closer aligned to annoyance than any manner of wariness.
+
+“What?” The loincloth-wearing orc called out to him from about two hundred and fifty meters below Sir-Legend Marikos Valdemar’s ears. The brute braced a massive wooden club against his right shoulder and held a hand out beside his ear. There was nothing genuine about the way he presented himself. Every bit of him was refined mockery. Pure distilled sarcasm meant to needle a proper warrior like Sir-Legend Marikos Valdemar. “You know, for a dragon, you're way too quiet. Did you say yes? Did you say yes to tit-for-tat? Because that's the only way you're going to come into the Gate. You get to take a swing, and then I get to take a—”
+
+Whatever else the orc had to say was cut off as the vast dimensional gateway behind him deformed and bulged.
+
+Sir-Hero Tallowine, the youngest knight in Sir-Legend Marikos Valdemar’s new band of seven, drew back on her dragon-spine greatbow and nocked an adamantine arrow in anticipation of the coming threat. Before she could take aim, Sir-Legend Marikos Valdemar’s hand shot up, commanding her to halt. Her long neck curved in his direction in surprise, but she didn’t question his orders. Though young and fiery with an urge to prove her worth, she kept her dignity intact and gave courtesy to her elder—a good sign for a promising knight.
+
+“It looks like a swarm of somethin’,” twelve voices speaking in a chorus came from beside Sir-Legend Marikos Valdemar. He looked down and found his old and considerably shorter friend squinting at the shapes pushing free from the distorted gateway with all twelve heads. Built far differently from most other Knights of the Union, Sir-Legend and Hydra-Knight Tall Ben had his favored halberd grasped in the claws of one of his four stout limbs and held close to his body, and its crimson edge burned with enhancing Biomancy, attuning his senses deeper with the art. “Whatever we’re lookin’ at, it isn’t just a-one.”
+
+Sir-Legend Marikos Valdemar glared at the offending orc from six hundred meters, and thus a good five steps away. “Speak, grayskin! What manner of deceptive subterfuge is this? What foolishness do you have planned for…”
+
+Sir-Legend Marikos Valdemar never got to finish his statement, for something emerged from the gateway as a flood. A spillage of flying monstrosities the size of a human’s head crashed forth, and they swirled about in the air, spreading wide rather than blasting forward. Extending in all directions, they tumbled about like wings, and at their epicenter came a singular figure, the bud at the center of the petals.
+
+Sir-Legend Marikos Valdemar’s eyes widened at the sight of the newcomer, for he knew the Pathbearer; he had known him since the boy was but a mere Adept.
+
+And look upon him now! Sir-Legend Marikos Valdemar thought joyously. The Deathless of Gate Piety. The nemesis of all Earth, and the warrior who sent for Sir-Legend Marikos Valdemar, the Fortress that Soars, and granted him his freedoms once more!
+
+Indeed, it was this diplomatic mission that was the redemptive task Sir-Legend Marikos Valdemar had to bear. Defying orders came with consequences, but some punishments proved sweeter than others.
+
+This time, Sir-Legend Marikos Valdemar lost hold of himself. He smashed a gauntlet into his armored chest, the resulting shockwave blowing the orc on the ground off his feet. “Deathless! Well met! I, Sir-Legend Marikos Valdemar, have come at your request, and upon my back I bear the banner of the Descenders Union!”
+
+And unlike all the times before, the Deathless answered back with a world-shaking bellow of his own. “Marikos! You look good for someone who got wrung out like a towel!” The young Legend smirked. “You got here just in time for tea and chaos. Come on in. I’ll find a place for you and yours to set yourselves down.”

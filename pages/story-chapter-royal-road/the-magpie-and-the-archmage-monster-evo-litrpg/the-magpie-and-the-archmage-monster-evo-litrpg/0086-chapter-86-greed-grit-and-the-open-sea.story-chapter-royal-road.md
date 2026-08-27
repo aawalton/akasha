@@ -1,0 +1,261 @@
+---
+id: a6796fc7-ef67-57ab-b32d-f893364152ce
+page-type-slug: story-chapter-royal-road
+title: "Chapter 86 – Greed, Grit, and the Open Sea"
+slug: 0086-chapter-86-greed-grit-and-the-open-sea
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 86
+ownLength: 2138
+unit: words
+publishedAt: 2026-02-18
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3066994/chapter-86-greed-grit-and-the-open-sea"
+royalRoadId: "3066994"
+---
+
+For several hours, Liora and Cee would silently join the fight, weakening footsharks and other monsters before they even got up to the ship. They also collected as many glimmerstones as they could, although Liora had to admit that most were lost to the depths. Even so, she managed to get over a hundred glimmerstones, thus landing fifty for both herself and Cee.
+
+The level gain was amazing! Liora reached level 13 while Cee was just a few levels away from her evolution threshold. Air Slash and Fade both reached Expert level while Fluid Flight got the Adept level, allowing Liora to move even more swiftly underwater and remain there for up to 30 minutes.
+
+But it was exhausting for everyone. Morgana and her fighters were completely spent, as were Liora and Cee. Once it was clear that they couldn't handle more enemies, Morgana threw the anchor down.
+
+Liora at first couldn't believe that she would hunker down in monster-invested waters, but apparently, they had a mage on board who could set up powerful barrier spells. As soon as most monsters in the nearby area were dealt with, he set up a barrier that apparently would both protect them and hide them from sight.
+
+Once again, Liora and Cee hid in the crow's nest while the crew, aside from a few guards, went to rest below deck.
+
+"I can't believe how much I've gained by just occasionally attacking enemies. I'm almost ready to evolve," Cee cheered, wiggling her front legs up in the air.
+
+"These are by far the easiest levels I've ever gained," Liora nodded.
+
+It pays dividends to fight stronger enemies, even if your contributions are minimal.
+
+"And all the glimmerstones we gained!" Liora said, suppressing the urge to chak-chak-chak loudly. She couldn't have the guards discover them.
+
+"I can unlock a new skill," Cee cheered quietly, then added. "But I have only one skill slot left. Any recommendations, Renir?"
+
+Hmm… a new skill. Frankly, I'd recommend saving them for after the evolution. It is quite close, and it could be that Cee could unlock a new set of skills after evolving.
+
+Liora conveyed Renir's thoughts to Cee.
+
+"Yeah, that makes sense. I'll wait," Cee agreed.
+
+"We do have a more pressing issue," Liora said.
+
+"What?"
+
+"I'm hungry…"
+
+"I am too…"
+
+Two of them looked down, but obviously, there was nothing on board to eat. In hindsight, perhaps Liora should have torn a fin or two off a few footsharks and eaten those. Fresh fish was a rather viable food option. It would be even better if she could get soy sauce somewhere.
+
+"Should I try sneaking below deck?" Cee suggested.
+
+"It's too risky. Most of them are below deck right now. Let's wait for them to wake up, then sneak in," Liora suggested.
+
+"Okay, that makes sense. Could we at least sleep for a bit?"
+
+Liora nodded. "Go ahead. I'll keep watch."
+
+"It's nice that there is actually someone to keep watch while I sleep," she muttered, huddling down in her cocoon.
+
+"It is nice, indeed," Liora said, and huddled down to watch.
+
+A few hours later, they switched, and Liora got some much-needed rest herself. An enticing smell in the air woke her up.
+
+"What's that?" She asked groggily, peering down.
+
+"They started grilling a whole footshark right on the deck," Cee said, pointing down.
+
+Liora saw that at some point, most of the crew had woken up and set up a makeshift grill right on the deck. Wasn't that incredibly dangerous? A flimsy strip of metal was the only thing separating the fire from burning the whole ship down.
+
+But as it turned out, the same mage who set up the barrier also kept the flames in check, making sure that it wouldn't spread to the ship. Talk about convenient.
+
+"I love me some roast shark," Morgana announced, eagerly watching the process. "Butch, you grabbed some soy sauce, didn't you?"
+
+"Of course, Captain! A whole barrel!" The man who was in charge of grilling the shark replied.
+
+"They have soy sauce…" Liora drooled.
+
+"I want some so bad…" Cee nodded.
+
+I never understood the obsession with soy sauce. It's so salty and doesn't taste good on meat at all.
+
+You dummy, you're supposed to eat it with fish.
+
+What? Really?
+
+Yeah! Or with some tasty, fluffy rice.
+
+Rice? What's that?
+
+"Oh no…" Liora gasped.
+
+"What?" Cee asked.
+
+"There's no rice in this world…"
+
+"What? No way! How come they have soy sauce then?"
+
+Hey, come on! What is rice?
+
+It's a small white grain that you boil or steam to eat. It's a staple, just like grain.
+
+Oh, I know that. Yeah, those don't grow in Velithra. The conditions aren't right for them here. Too dry and too cold, I believe.
+
+"Okay, they don't grow in this country…"
+
+"What about trade?" Cee asked.
+
+Expensive. Most people don't bother with it.
+
+"It's expensive."
+
+"Bah… So unfair. I bet the shark would taste great with rice," the spider said, drool dripping from her mandibles.
+
+"You're drooling…" Liora pointed out.
+
+"So are you!" Cee shot back.
+
+"I'm hungry… I wonder if we can snatch some for ourselves."
+
+It took some while for the big monster to finish cooking, but once it was done, Butch began cutting generous chunks from it and offering it to everyone. They ate with gusto while pouring generous amounts of soy sauce on top.
+
+"Cut me two more pieces," Morgana announced, once she had finished eating.
+
+"Of course, Captain."
+
+"How much can she eat?" Liora grumbled, wondering whether she could Fade and snatch one of the pieces in time.
+
+Morgana took the pieces and, strangely enough, placed them on the ground, some distance away from everyone. "Come eat, you beasties!"
+
+Her eyes were locked onto the crow's nest, exactly where Liora and Cee were hiding. Both of them went still as a stone.
+
+"Yes, you two up there. The bird and the spider. Did you really think we wouldn't notice ya? I'm not blind, you know," Morgana said.
+
+How?!
+
+Morgana has excellent vision. I wouldn't be surprised if she spotted you at some point when you weren't Faded.
+
+But I was careful to either be underwater or high up in the air. How could she see through this fog, especially with my Shadow Glide skill?
+
+Shadow Glide doesn't make you invisible. Just harder to spot. Do you think you wouldn't have noticed?
+
+Liora thought about it. She probably would have spotted someone like her eventually, especially if they remained close for several hours.
+
+Should we just… bail? I feel like she will shoot me the moment I dare to peek my head out.
+
+She might.
+
+She might?!
+
+"Captain, I don't think they'll come out." The cook said.
+
+"We won't harm you, beasties. Come out and eat!" Morgana called.
+
+"I don't trust her…" Cee whispered so quietly, Liora barely heard her.
+
+"Neither do I…" Liora agreed. "Let me go. I'll grab the food before she even notices us."
+
+"Are you sure?"
+
+"She can't shoot what she can't see."
+
+Right?
+
+Unless she has gained thermal vision, which I believe is impossible for humans, you should be safe while you're Faded.
+
+That was all that Liora needed to know. She Faded and flew down, aiming straight for the meat. Before anyone could realize what had even happened, she had snatched the meat and returned to the safety of the crow's nest.
+
+"Captain, the meat disappeared! I didn't even see anything," one of the adventurers said.
+
+Morgana laughed. "What a sneaky creature! I have to be relieved that it hasn't decided to attack us."
+
+"Captain, is it alright to just leave it be?" Another one asked, looking around nervously.
+
+"If it had wanted to do something to us, it would have by now. Leave it be," Morgana shrugged and returned to her meal.
+
+Meanwhile, Liora and Cee devoured their respective pieces of sharp meat. It was delicious. Best thing they had eaten since… well, since they met, really. The cook had prepared the meat perfectly, and the wonderful drizzle of soy sauce on top was amazing!
+
+Neither of them spoke as they ate, but the contentment was clear.
+
+Sneaky Morgana. She has had a knack for making allies. I just didn't know it also extended to monsters.
+
+We're not really monsters.
+
+Yeah, I suppose that's true. Whatever human bits you two have left seem to respond to her. Well, in either case, this might be for the best. By working together with Morgana, the chances of beating the monsters responsible for the fog will be higher.
+
+You said it is likely a shapeshifter. How does that work exactly?
+
+Depends on what kind of shapeshifter it is.
+
+There are multiple kinds?
+
+Oh, yes. The most harmless ones would be mimics, pretending to be a treasure chest in a dungeon.
+
+Mimics exist in this world?
+
+You know what they are?
+
+Yes, they were often portrayed in video games and anime.
+
+I have no clue what these vid-eo games and an-ime are, but it sounds to me that your world has had its fair share of otherworlders in it, if such knowledge is widely spread.
+
+No, they are just made-up stuff.
+
+How can you know it's made up if it exists here?
+
+Liora's head started to hurt at these questions.
+
+Focus. We're talking about shapeshifters. I doubt that the one we'll face is a mimic.
+
+Definitely not. Realistically, it could be one of the two rare shapeshifter kinds. In the best-case scenario, it would be boogey.
+
+Boogey?
+
+Yeah. They rely on illusions more than actual shapeshifting. They can create illusory landscapes to confuse their enemies and also illusory appearances. They can shapeshift to a degree, but most of the work is done by the illusions. I suspect you and Cee could defeat a boogey on your own, since it is not very strong physically.
+
+Okay. And what is the second kind?
+
+I fear that this is the most likely explanation. A skinweaver.
+
+That sounds ominous.
+
+Because it is by far the worst monster one could possibly encounter. Skinweavers start weak, as their original form is like a worm made of slime. But once they defeat something and consume it, they can recreate that shape perfectly. Depending on the age of the skinweaver, it might have a very wide range of forms to take.
+
+Okay, it can look like many different monsters. But does that automatically make it scarier than a boogey?
+
+No. The thing that really makes it scary is the fact that it is able to search your mind and adjust its form to best deal with you specifically. If you're weak to thunder, boom—it'll turn into a thunder monster. Afraid of spiders? It'll turn into a giant spider. Can't swim? It'll turn into a monster that will drag you underwater.
+
+Liora shuddered.
+
+So it can turn into an enemy that I'm least suited to fight?
+
+Exactly. And worst of all, it's extremely intelligent. It might find a weakness you weren't even aware of. The only way to successfully defeat a skinweaver is by working together in a large group and covering each other's weaknesses.
+
+"Liora, is everything alright? You look like you had just seen a ghost," Cee asked in a whisper while cleaning her front legs.
+
+Liora quietly told Cee everything Renir had just told her, and the spider shuddered.
+
+"Maybe we should go… I haven't even evolved yet, so I don't feel confident fighting something like that…" Cee muttered.
+
+Oh, yeah, I forgot to mention, but Skinweaver is a Tier 5 evolution monster, so two tiers above you.
+
+Liora nearly cawed in shock. Two tiers above her? This was somehow even worse than with that wyvern. Maybe Cee was right, and they should just leave. This was incredibly dangerous.
+
+"Remove the barrier! We're forging ahead," Morgana commanded.
+
+"Captain, the mist is getting increasingly thicker near the shore. We're not sure if we'll be able to handle the thick miasma. Reports also said that many adventurers weren't able to fight properly because of it."
+
+"Covers your mouth and nose. We have to endure," Morgana replied stubbornly.
+
+Liora clicked her tongue. She knew all too well that going directly into miasma was bad news. How long could flimsy humans possibly endure within it? Even now, she could hear the occasional coughs and wheezes from the adventurers below as they struggled to breathe.
+
+This city is important, isn't it?
+
+Very. If you could help the people here, I'll be sure to appoint you to a steady monthly payment for the rest of your life, however long it may be.
+
+This sealed the deal.
+
+"Only we can help them," Liora replied and turned into her large form.
+
+The sailors gasped when they saw her, but she spread her wings and allowed Winds of Purification to cover the whole ship.

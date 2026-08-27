@@ -1,0 +1,261 @@
+---
+id: b2925c66-76a7-53b5-a144-0fcd9ab3e76e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 613 - Damage Control"
+slug: 0613-chapter-613-damage-control
+partOf: mythrans-master-of-all-continued-completed
+position: 613
+ownLength: 2668
+unit: words
+publishedAt: 2018-06-19
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/225744/chapter-613-damage-control"
+royalRoadId: "225744"
+---
+
+Elise woke up when her alarm went off, and she felt two warm presences snuggled in tightly to her breasts. She remembered cuddling with Lisa and Ren, but didn't remember going to sleep.
+
+“I can't...” Elise said as she opened her eyes, and the alarm cut off. “Thank you.”
+
+“You're welcome, and good morning.” Barbara said. “I've got your first cup of coffee ready.”
+
+“Oh, thank you very much.” Elise said and looked at her arms wrapped around two cute people. “Um, I'll get it in a minute.”
+
+Barbara chuckled. “I'll give you a hand.” She said and tapped Ren's shoulder.
+
+“Muh.” Ren grunted and shook his head.
+
+“Come on, you need to eat.” Barbara said.
+
+“Mu met mit.” Ren mumbled.
+
+“What was that?” Barbara gently shook his shoulder.
+
+Ren pulled his face out from under Elise's breast. “You eat it.”
+
+Barbara smiled. “It doesn't work that way.”
+
+Ren sighed and kissed the mound of flesh in front of his face. “I'll be back later.”
+
+Elise laughed, because he had managed to get her t-shirt up and off of her chest again somehow. “How do you do that?”
+
+“Like this.” Ren said as he sat up and kissed her on the lips. “It's easy.”
+
+“I meant getting my t-shirt off.”
+
+“Oh.” Ren looked down at her bare chest. “Magic boob exposing fairies?”
+
+Barbara and Elise laughed, and Lisa groaned.
+
+“Mo moud.” Lisa mumbled.
+
+“Lisa?”
+
+Lisa pulled her face out from under the warm mound of flesh it was buried in and sighed. “Too loud.”
+
+“Come on, you can wake up as you eat.” Barbara said.
+
+“What time is it?” Lisa asked.
+
+“Seven in the morning.” Ren said without looking at the clock, and he moved over to the side of the bed. “Bathroom break!”
+
+Barbara helped him walk over to the bathroom. Elise sat up and pulled her t-shirt down, and Lisa realized she had been sleeping with her face against her breast with no cloth between them.
+
+“Elise...”
+
+“Thanks for letting me cuddle you.” Elise said and gave her a quick hug. “It definitely let me fall asleep faster with the both of you to hold.”
+
+“I... um...”
+
+“Right! Coffee!” Elise said and took a breath in through her nose. She leaned around Lisa and smiled as she saw the coffee decanter on the table. “It smells nice and strong, too.”
+
+“It is.” Barbara said as she helped guide Ren over to the table. Elise and Lisa joined them at the table, and then Denise came in with a cart and breakfast... and Gloria stepped into the room behind her. Time seemed to slow down as everyone caught sight of her, and her face flushed deep red as all of the attention focused on her.
+
+“Good morning.” Ren said, and everyone seemed to relax a little. Denise brought the cart over to the table and Gloria followed.
+
+“Good morning.” Gloria said. “I'm sorry to intrude like this...”
+
+“That you think you're intruding tells me a lot.” Ren said. “More than you intended, I think.” He said, and Barbara took in a sharp breath. “It's okay, Barbara. I can wait until after we eat to have this conversation.”
+
+“But, you...”
+
+“I was just letting Gloria know that I realize she has been distancing herself for a while now.” Ren said and looked at Gloria. “Please, have a seat and join us for breakfast.”
+
+Gloria thought about saying no, since he was being a bit of an ass about it, then nodded and sat down across the table from him. Ren smiled at her because she chose the seat farthest away from him at the round table, and he glanced at Elise. She had noticed, too.
+
+“Good morning!” Stella said and came into the room in a slight rush, then stopped when she saw Gloria. “Oh, hello.”
+
+“Hi.” Gloria said as her embarrassed blush returned.
+
+“So, what did I miss?” Stella asked.
+
+“Hold on for a minute.” Ren said and was handed a plate with scrambled eggs, toast, and bacon. He set it down on the table in front of himself and waited. Everyone was a bit surprised by this, especially since there was uneaten bacon right in his face. Denise kept dishing out food, and a minute later, there was a knock on the bedroom door.
+
+“Come in.” Ren said, and Barbi entered the room.
+
+“Hi, everyone! Sorry I'm late.” Barbi said and slipped off her business suit coat. “Traffic was horrendous this morning for some reason.”
+
+“It was probably because of what happened to the game last night.” Ren joked, and everyone looked at him. “Well, it's possible, right? No one could play, so they probably didn't sleep a lot and left the house early to get wherever they wanted to go.”
+
+Gloria and Barbara exchanged glances, because that was pretty much how Gloria had ended up at Ren's place.
+
+“Wait, what?” Barbi asked as she sat down on the chair beside Elise. “The game was down? What happened?”
+
+“I was just about to explain it all to Stella, and waited for you.” Ren said, and Barbi gave him a big warm smile.
+
+“Thank you.”
+
+“No problem.” Ren said, then started to eat by shoving a whole piece of bacon in his mouth. “Ish like thish...”
+
+“Chew that up first and swallow before you spray everyone.” Barbara said, and everyone laughed.
+
+Ren made a show of chewing and swallowing loudly, then grinned. “Better?”
+
+Barbara nodded, and Ren told them all the story. Elise, Gloria and Lisa knew a portion of it, and Barbara knew more since she watched it; but, Denise, Stella, and Barbi were completely in the dark about it and were surprised about what happened.
+
+“It shut down the game?” Barbi asked, and took out her cell phone. She started by checking the main website and saw the massive amount of posts and reactions to what had happened. “No, according to this, and an 'unknown' source, the game was crashing and was shut down before it could get that far.”
+
+Everyone at the table waited as Barbi's thumbs moved so fast on her phone that it didn't really look like her hands were moving at all.
+
+“Oh, my god.” Barbi said and looked at Ren. “The head programmer said you were at fault.”
+
+“Yeah, Lisa and I saw that post almost right away...” Ren started to say.
+
+“No!” Elise cut him off and took out her cell phone. She checked as well and saw almost a thousand posts of people thanking Max for revealing the cause. “I always knew he was an idiot, but this...!”
+
+“What is it?” Barbara asked.
+
+“The head programmer of Sid Tec is screwed.” Barbi said. “Not only has he released confidential company information, he also told everyone that a client was responsible for causing the shutdown.” She said. “I have to agree with Elise on this. He's an idiot.”
+
+“But... I did cause it.” Ren said.
+
+“It doesn't matter if you did or not.” Elise said sadly and rubbed her temple with the tops of her fingers. “He's opened the company up for potential lawsuits for both data and confidentiality breaches.”
+
+“What if I don't want to sue?” Ren said, and Barbi chuckled.
+
+“You don't get a choice in the matter.” Barbi said and turned her phone to show that the law firm that handled his cases had already filed 2 lawsuits against Sid Tec as a company and one against Max as an individual.
+
+“Oh, wow.” Ren said. “I... I don't know what to say.”
+
+“The defamation of character suit is going to be a landslide.” Barbi said as she read the posts, and Elise groaned as she read the same flurry of posts that condemned Ren, and saw the remnants of the posts that threatened his death.
+
+“Oh, god.” Elise whispered. “Death threats, too.”
+
+“WHAT?!?” Lisa, Stella, Denise, and Barbara exclaimed. Gloria didn't say anything, because she knew there were a few people that take games very seriously, and if you interfered with that, they thought you needed to be dealt with.
+
+“It's usually only words and just people venting; but, as evidence in a court case...” Barbi said. “Oh, there's the notification the message boards are being temporarily shut down to gather legal evidence.”
+
+The message feed on Elise's cell phone ended as well, and she sighed. “They've got the main website shut down, too.”
+
+“Check the website I made for Ren.” Barbi said and checked it herself, too. “There are a few detractors on it, but they were quickly shouted down by others.” She told them and smiled. “Who goes to a fan appreciation site to complain about something like that?” She chuckled. “I'm surprised they haven't received death threats for being so stupid.”
+
+“Barbi, what are we going to do about this?” Elise asked.
+
+“I've already gathered the information I needed, and I've already got a tech guy ready to testify that what Ren may or may not have done, shouldn't have crashed the game.” Barbi said and put her phone away. “I'm tempted to call a press conference and get this all out in the open...” She saw Elise's expression and chuckled. “No, you're right. I can't damage any court cases by releasing information before its time.”
+
+Elise sighed in relief. “I'm really glad you're here.”
+
+“Me, too.” Ren said. “Thanks a lot, Barbi.”
+
+“You don't pay me the big bucks just because I've got big tits.” Barbi said and smiled. “At least, I don't think so, anyway.”
+
+Ren laughed. “Not just for your breasts, no.”
+
+“That's a relief.” Barbi said and sat back. “Okay, I've got to get the media back on your side. Can I use some of what the tech guys have done to you in the past?”
+
+“As long as no names are mentioned and it doesn't leave us open for a lawsuit.” Ren said, and she chuckled.
+
+“I am not an idiot like Max.” Barbi said. “But, I can't help you by just sitting here.” She stood up and grabbed her suit coat. “Elise, I'll see you in the office.”
+
+“I'll be right down after a quick shower.”
+
+Barbi glanced at Ren and back at her. “Just a quick shower?”
+
+“I'm too tired for fun... right now.” Elise said and yawned, then downed the rest of her cup of coffee. “Whew. Okay. Shower.” She said and gave Ren a kiss on the cheek, then stood up and went to the bathroom.
+
+“Wait for it.” Ren said to get everyone's attention, then he pointed so they all watched the bathroom door. A moment later Elise came back out with her hair messed up and no t-shirt on.
+
+“I forgot my damn clothes.” Elise said and walked across the room to the closet and grabbed a business suit and skirt from the rack, her large boobs bouncing the whole way. “I might forget my head some days if it wasn't attached.” She said to no one in particular, then walked back across the room to the bathroom and slammed the door shut behind her.
+
+“Did... did I just see...” Gloria said, clearly shocked at the sight. “She was topless!”
+
+“Elise doesn't have a clue about the effect she has on us.” Ren chuckled. “Right, Lisa?”
+
+“Hm?” Lisa turned and looked at him. “What?”
+
+“You're so cute.” Ren said, and her face flushed slightly red.
+
+“You know most girls don't like being called cute.” Denise said and started to gather up the dirty dishes.
+
+“That's probably because most times they think the guy is pandering to them or being condescending.” Ren said. “Lisa knows that when I say she's cute, it's because I love her.” He said and leaned over and kissed her. “Plus, she gets angry if I say she's beautiful to her face.”
+
+“I do not!” Lisa said angrily.
+
+Stella and Barbara chuckled, then helped Denise clean off the table.
+
+“See you at lunch.” Barbi said and left the bedroom at a fast walk.
+
+“I've got a pile of errands to run today, so I better get going, too.” Stella said and watched Denise leave with the cart and dirty dishes.
+
+“Where are you headed?” Barbara asked.
+
+“Grocery store, I think.” Stella said and stood up. “I had a list of things to pick up somewhere, but I can't find it.”
+
+After a moment, Lisa raised her hand like she was in school and tried to get the teacher's attention. Ren smiled and put his lips together, then let out a short whistle. Everyone looked at him and he pointed at Lisa.
+
+“Lisa?” Stella asked.
+
+“I know where it is.” Lisa said and put her hand down. “I picked it up off the floor in the kitchen yesterday and stuck it to the refrigerator.”
+
+“I looked at every counter and table from the kitchen downstairs all the way up to my bedroom here on the second floor, and I never would have thought to look there!” Stella laughed. “Thanks, Lisa.”
+
+“You're welcome.”
+
+“I'm glad I don't have to go out blind.” Stella said to Barbara. “It's a huge list, and there's no way I could have remembered it all.”
+
+“Do you think you could grab me a few things?” Barbara asked and took a piece of paper from her pocket. “I'm too tired to go myself and Donald needs something in the house before lunch.”
+
+“I'll try.” Stella said and looked at the list. “I don't know how I'm going to handle it all.”
+
+Lisa opened her mouth to say something, and Ren saw her stop and close it.
+
+“Stella? Maybe you need another pair of eyes to come along.” Ren suggested.
+
+“Who? You?” Stella asked and chuckled. “You're too weak to walk more than 10 feet unassisted. There's no way you can keep up, and I can't push the wheelchair and a grocery cart.”
+
+“I was thinking more along the lines of the young woman next to me.” Ren said, and saw Lisa's eyes go wide.
+
+“But...” Lisa tried to speak, and he put a finger on her lips.
+
+“I know this is a lot to ask, and I don't want you to do anything you're uncomfortable with.” Ren said. “All she needs is someone to come along for company.”
+
+“Ren, you can't ask her to...” Barbara started to say.
+
+“Stella needs another pair of eyes. If I remember correctly, Lisa has two of them and that meets the minimum requirements.” Ren said and smiled. “Or are you saying you don't want her to go?”
+
+Barbara opened her mouth to respond, then sighed. “No, I can't object to her going.”
+
+“Ha ha! No one's going to stop you now!” Ren gave Lisa a kiss on the cheek. “Don't let them tell you that you can't do something.”
+
+“I... I won't.” Lisa said and stood up. “I just need to freshen up and get changed.”
+
+“Of course.” Stella said. “So do I.”
+
+Stella and Lisa left the room, and Barbara smiled at Ren.
+
+“That was sneaky.” Barbara said.
+
+“Thanks for catching on so fast and going along with it.” Ren smiled back. “Now get out of here and get to sleep.”
+
+Barbara chuckled. “You can't tell me what to do.” She said and yawned, then walked over to the bedroom door. “I'm leaving because I want to!” She said, which made Ren laugh, and the door shut behind her when she left.
+
+“You got them all to leave.” Gloria said, and Ren could hear the surprise in her voice as he turned to face her across the table.
+
+“I know it's easier for you to rant and rave if we're alone, so here we are.” Ren said. “Alone.”
+
+“Elise is...”
+
+“...still in the shower for the next 10 minutes.” Ren said and looked at his watch. “Well, 9 minutes.”
+
+“Ren...”
+
+“Look, if you want to wait for her to finish her shower, we can.” Ren said and sat back in the chair. He put his hands on the table and interlaced his fingers, then twiddled his thumbs while he waited.

@@ -1,0 +1,227 @@
+---
+id: bbcc1db5-aa2a-54b4-b8b1-305d40c743cc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5: Golden Core"
+slug: 0005-chapter-5-golden-core
+partOf: phoenix-ascension-cultivation-litrpg
+position: 5
+ownLength: 2643
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2525655/chapter-5-golden-core"
+royalRoadId: "2525655"
+---
+
+The force of the screech almost made me lose my footing, and, were it not for Mother placing herself right in front of me, I might as well have. It astounded me.
+
+Its cry alone would have crushed me if I were the target!
+
+She gave me a reassuring glance and turned toward the uninvited guest, pulling her head back before letting out another similar, loud, ear-piercing scream.
+
+The insect’s presence made my entire body instinctively shiver, filling me with fear. I hadn’t had such a feeling in a long time. In that moment, some slumbering memories awakened. Vague images of looking up at an arrogant man, my heart beating against my chest with a tremendous force.
+
+Tears flooded my vision, dripping down my cheeks as grief and indignation filled my very being. The feeling of being weak once again coursed through my veins. Of being helpless, of being prey. What an awful feeling it was. I thought I had fully forgotten it.
+
+I returned to reality, pushing aside the fragments of my past for later. The insect didn’t say anything for a second, its body wriggling as it apparently contemplated Mother’s words.
+
+It let out another screech a moment later, this time softer and less aggressive. Mother only let out a chirp-like coo in response, her head tilting and foot lifting to reveal me. She then let out another coo, one filled with grief that pierced my heart.
+
+I didn’t understand anything they said, but I could get the gist of the exchange.
+
+The insect nodded, then quickly left the nest. Mother didn’t move, neither did I, but she seemed much more at ease.
+
+Its rapid wing flaps, or rather whirls, could be heard once again, even faster than before. Then the  horns appeared, slowly rising. As its body became clear, so did the large corpse of an animal it pulled up with its dozens of thin limbs. I couldn’t immediately identify it; however, the moment it was placed in the nest, it was obvious.
+
+The giant brown animal was a tiger with no stripes, whose paws were twice my body size. Aside from that, it looked like a normal tiger. Fluffy fur, large, sturdy muscles, and a mouth that could swallow three of me in one bite. Its body was still warm, but it had no killing wound, at least not any I could easily spot.
+
+The insect chirped softly, turning to Mother for a reply.
+
+She glanced at the fresh corpse for a moment, then her gaze lingered on me for another. Finally, she nodded, letting out an angry coo and turning her head.
+
+The insect shook its head, obviously apologetic, then left, its whirring fading into the clouds. Mother turned toward me and nudged me closer to the tiger's body, clearly telling me to start eating. My stomach grumbled, even though I was full already from eating the shells.
+
+I guess all that running made me grow an appetite, still… raw meat?
+
+I obviously had no other choice but to eat it, and somehow it seemed like the heavens were listening to my thoughts, sending a Spirit Beast right to my doorstep.
+
+Time to dig in… I suppose.
+
+I tried taking a bite; however, past all the fur was an incredibly thick layer of skin. I couldn’t even stretch it when I pulled, letting go and falling backward. I swore I heard Mother laughing at that moment; however, I couldn’t be sure, as her coos could mean anything.
+
+Seeing that I couldn’t even rip it apart she bent down and did it for me. She chose a spot near the stomach and took a large bite, effortlessly tearing it apart, revealing its guts.
+
+An incredibly repulsive stench infiltrated my nostrils, and I took an instinctive step backward as blood flooded the nest. It was disgusting, to say the least; however, I couldn’t cry about it. Qi or not, food was the clear way for me to get stronger.
+
+Steeling myself, I made my way past the blood and got closer, the smell almost making me vomit. I pushed through and reached its innards, namely the intestines. No doubt they were strong, as whatever it would eat would be equally rough.
+
+Regardless, I took a decisive bite. They were surprisingly soft and easy to tear apart. At the same time, they were incredibly bitter and hard to chew. However, I swallowed the piece I tore apart and immediately dug into another one.
+
+I will find out what’s going on! I will kill the bastard who brought such humiliation upon me! I will live! I will shed this weak self once again and become someone that nobody dares look down upon. This is my ticket to that.
+
+I dug in faster, anger coursing through my veins as it fully sank in that I was nothing. I was weak, helpless, and I was but mere prey for the bigger things to take advantage of.
+
+That will change.
+
+I tore the organs apart with as much violence as I could muster, ignoring how disgusting it was.
+
+I will become strong.
+
+My face was bloodier than ever before, my tiny body fully entering the tiger’s carcass and eating at the organs. The kidneys were one of the most nutritious organs, alongside the heart, lungs, and brain.
+
+I will rule over this so-called Tianxu continent.
+
+***
+
+I sat down against the walls of the nest, meditating and observing the changes within my body. After eating the innards of the tiger a large amount of Qi began coursing through my flesh. Unlike the frigid Qi going to my meridians, then dantian, all of the Qi I got from the meal was stored within my muscles, fat, and feathers. I had little control over it, much to my dismay.
+
+It distributed itself almost equally, but the largest concentration of Qi was around my heart. I couldn’t be sure why that was the case, but something told me it was because Phoenixes lean toward the magical rather than the physical.
+
+Regardless, that confirmed my theory.
+
+I need to eat to become strong. That is the first step.
+
+Although I was a little dejected that the Qi didn’t exactly listen to me, I knew that with enough time, it would. As a Phoenix Chick I unfortunately had to rely on Mother, especially so high up in the sky. I didn’t know what her relationship with the insect guy was, but it couldn’t be malicious.
+
+From what I gathered during their screech, he was apologetic and brought Mother food to appease her, though it wasn’t nearly enough.
+
+Did she pay them for protection?
+
+It was a strange thought, seeing as we lived in a world where strength ruled over everything. Despite that, they had come to an agreement previously.
+
+As my mind wandered, I noticed Mother digging through the body, her long and sharp beak easily tearing through skin, muscle, and flesh. After a little bit of shaking, she pulled out a large sphere. Its orange hue intrigued me, and I knew immediately what it was, even though I had never seen it before.
+
+This amnesia thing is getting old, isn’t it? Strange text?
+
+It didn’t reply, but it didn’t seem to have any sort of emotions either, so I wasn't sure if it was malicious or not.
+
+Mother approached me, her long legs closing the distance in a single step, and bent down. She dropped the core next to me, its size matching mine. I wasn’t sure what she wanted me to do with it, as eating it was clearly out of the question.
+
+She nudged it closer.
+
+“What do you want me to do with it?” I chirped, none of the sounds coming out of my beak remotely resembling human speech. Mother turned her head, clearly confused by the jumbled mess of whatever sounds I was making.
+
+Though I had a thought she understood what my complaints were, as she once again lowered her head and placed it against the core. Its orange surface glowed with an extremely faint light, but it shone bright like a star when put against the dark background of the night.
+
+Particles surrounded the light, which then went toward Mother’s forehead before finally disappearing.
+
+She absorbed it?
+
+That was a new thing for me. I’ve never heard of anyone absorbing the power of a golden core or any beast core to use for themselves. Then again, I couldn’t remember much of anything besides basic knowledge.
+
+Mother removed herself from it, clearly unwilling to absorb much of its power. I decided to do as she did and placed my forehead against the core.
+
+[Would you like to absorb the Brown Tiger Golden Core?]
+
+Uhh… Yes?
+
+The prompt was more than weird, and I blinked a couple of times as the core turned to particles of light that slowly got absorbed into my body. It felt weird, like millions of ants crawling into my skin, but at the same time, there was a weird sense of pleasure that accompanied it. I instantly felt more invigorated than before, and it felt almost like the time I had levelled up.
+
+When I opened my eyes the core had lost all color, turning from its previous vibrant orange hue to a dull gray. It fell apart almost instantly, becoming ashes that drifted in the wind.
+
+[Brown Tiger Golden Core absorbed with 30% efficiency]
+
+[Qi +35; +5 Strength; +5 Dexterity; +5; Charisma]
+
+[Skill: Iron Claws(Novice) has been acquired]
+
+Huh? Oh… so I get stats or whatever those things are called as well? Just like when I advanced to the first layer of Qi Condensation. That'd be pretty sweet if I had any idea of what any of that meant. I also got a skill, something that I wasn’t entirely sure about how it worked. The Qi, on the other hand…
+
+That part I could understand quite well. Even though assigning a numerical value to such a vague concept was intriguing, I didn’t question it much. The weird text more than showed me what it was capable of, but I will get to the bottom of this one day.
+
+But what does ‘Novice’ mean?
+
+[Novice means your level of mastery over the skill is within the first twenty percent.]
+
+Huh? The first twenty percent? How does that work?
+
+[Skills, whether they are active, passive, or bloodline, are divided into five stages of mastery.]
+
+[Novice means you have just acquired it, and your level of mastery is within the first twenty percent. The more you use and familiarize yourself with a skill, the higher the level of mastery.]
+
+[After Novice, there are Beginner, Intermediate, Expert, and Master. Master level skills recieve a notification when they reach one hundred percent mastery.]
+
+So each level of mastery requires a twenty percent increase?
+
+[Precisely! However, the higher the level, the more difficult it would be to advance. Also, unless specifically mentioned, the power of the skill increases with each Rank. Some skills would mention the changing effects based on rank in their description.]
+
+I see. And what happens once I reach Master?
+
+[Most skills stop at that level. Once you are at one hundred percent mastery, the only way to advance that skill further is by evolving it, either via using Skill Points or experimenting. However, that is not a guarantee.]
+
+[Evolving a skill depends on the type of skill, as not all are made equal. Similarly to how you referred to the Ghost Qi Technique as ‘Mortal-Grade’. However, we do not have such a system of ranking… Maybe we should make one.]
+
+What was that last part? I asked, surprised that System had an introspection.
+
+[Nothing.]
+
+[Anyway— There are certain skills that evolve naturally once you reach one hundred percent mastery, and only require a moment of insight without any additional cost. Those skills are very rare and expensive to purchase and forcefully evolve.]
+
+I see, thank you for the information.
+
+[You’re welcome. ^_^]
+
+What was that last thing…
+
+Ignoring that, I took a deep breath and sat down once again, observing the changes within my body. Most of the Qi I absorbed gathered toward my heart, while the rest was evenly distributed across my limbs, chest, and head. Part of the Qi I’d gotten from the core also fell into my dantian, but not enough to make any difference.
+
+My entire being was filled with Qi, something that was unfamiliar to me as it was familiar. From my memory, one needed meridians to cultivate, yet that wasn’t necessary for Spirit Beasts.
+
+However, I couldn’t help but wonder about the skills. What were they, and how did one get them? I recall having three skills, with the one acquired from the tiger’s core being the most recent one.
+
+[Skills]
+
+Active Skills
+
+[Nirvanic Flames: Novice]
+
+[Iron Claws: Novice]
+
+[Peck: Novice]
+
+Passive Skills
+
+[Evasion: Novice]
+
+Bloodline Skills
+
+[Phoenix Fire: Novice]
+
+Another box appeared in front of me, no doubt from the weird text listening to my every thought. It seemed like I had quite a few empty spaces for skills, and they were divided into two categories. I understood what Bloodline Skills meant, clearly shown by my mastery of fire despite not possessing Nirvanic Flames at the time.
+
+What do Active and Passive mean?
+
+[Active skills are skills that require active thought to be used. The user needs to want to activate them and command them to do so via verbal speech, thoughts, hand signs, or a combination of the three. They increase in level based on usage rate.]
+
+The weird text wasted no time in beginning to explain my questions, and, while I was grateful for it, the lack of intimacy was vaguely concerning.
+
+[Passive skills are skills that do not require active thought and are constantly being used regardless of the user’s awareness of them. They do not level up based on usage rate, but on usage time and usage opportunity.]
+
+What it said started to make more sense to me the more I read it. It was quite simple. Comparing it to the system of cultivation I was accustomed to, then active skills would be techniques, and passive skills would be some sort of bodily or bloodline power. The concept of techniques always being active was foreign to me, but the possibilities of such a boon would be tremendous.
+
+However, I still had a few questions I needed answers to.
+
+What do my skills do?
+
+[Active Skill: Nirvanic Flames(Novice)]
+
+[The Flames of Nirvana, the strongest fire that ever burned amongst the Nine Realms, is at your beck and call. It can be used indefinitely as long as your Qi reserves are enough, and it is as flexible as a thread. You can will it to become whatever you want. The strength of the skill depends on your INT, STR, and target resistance.]
+
+[Active Skill: Iron Claws(Novice)]
+
+[Sharpen and solidify your claws to become stronger than steel. The strength of the skill depends on STR and target resistance.]
+
+[Active Skill: Peck(Novice)]
+
+[Pecks at a target with pinpoint accuracy. The strength, speed and accuracy of the skill depends on STR and DEX.]
+
+[Passive Skill: Evasion(Novice)]
+
+[Evades blows with increased chance of success. Effectiveness depends on DEX.]
+
+[Bloodline Skill: Phoenix Fire(Novice)]
+
+[The instinctual fire of any Phoenix, the strongest, most versatile fire in all of the Tianxu Continent, is at your beck and call. As a bloodline skill, it will continuously grow and evolve alongside you. The strength of the skill depends on your INT, STR, and target resistance.]
+
+The fact that it explained even what stat the skill used was very helpful. Although it took me a moment to figure out what the abbreviations meant, I now had a better idea of how they worked. However, the weird text’s boundless knowledge made me question its origin even more than before.
+
+What is your purpose?

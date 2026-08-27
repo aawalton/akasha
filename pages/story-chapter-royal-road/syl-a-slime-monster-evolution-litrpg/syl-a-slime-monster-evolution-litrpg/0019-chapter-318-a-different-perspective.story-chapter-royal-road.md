@@ -1,0 +1,207 @@
+---
+id: b6ebbe07-40e1-511b-832a-3b81f0c9f734
+page-type-slug: story-chapter-royal-road
+title: "Chapter 318 : A Different Perspective"
+slug: 0019-chapter-318-a-different-perspective
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 19
+ownLength: 2324
+unit: words
+ownProgress: 2324
+publishedAt: 2025-11-26
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2793855/chapter-318-a-different-perspective"
+royalRoadId: "2793855"
+markedReadAt: "2026-06-29T19:42:25.886Z"
+---
+
+Vee continued blinking around, trying to find her next destination. She did have the [Mapping] skill thanks to Syl effectively passing it over for free through [Companion Training], but it wasn't really enough to help her just yet.
+
+You'd think with all the teleporting over the world, I'd have gained so many levels, but mine hasn't even connected the undiscovered locations yet!
+
+Vee wasn't sure whether to feel grateful for that fact yet or not, and she dreaded that once her skill was high enough to expand to a world map, the accumulated locales might knock her out cold.
+
+Still, at least it helped her know she wasn't teleporting around in circles, and soon enough, she found what she hoped was the marked location on the map, as it even had bright red flags scattered about the area.
+
+It was a large area of shallow waters with an entire coral reef ecosystem inhabiting it. Among the beauties, however, were many wrecks and debris, clearly having run aground or worse from the hidden danger.
+
+This is even worse than running into an iceberg. At least you can sort of see those, where this would be hard to spot! I guess the humans made the markings to try to prevent any future disasters.
+
+Vee ensured her storage was full of fresh air before she teleported down into the water. She didn't think she'd find anything too exciting, but at least this would be some fun and a good opportunity for swimming practice.
+
+I need to get my [Reduction] swimming solution working properly. When my [Mana Shaping] gets a few more levels, I will probably be able to do it more reliably on the fly. Alternatively, I could ask Syl to try to create an officially recognized custom spell for me… Then I could let the system do the heavy lifting for me.
+
+Vee had tried a few times to make her own custom spells, but she just couldn't wrap her head around it. She understood the principles, and Syl definitely wasn't the worst teacher, unlike a particular pixie, but it seemed her struggles only made her feel like she was actively smoothing out her brain. Not to mention the Mana costs for failure meant twiddling her non-existent thumbs waiting in recovery.
+
+My attempts to recreate the [Blink] skill in magic form haven't been the most remarkable success either. I know [Dimension Magic] is crazy hard, but you'd think it would be simpler than creating my [Reduction] spell.
+
+The reason Vee was trying to recreate [Blink] wasn't just for the practice or the proficiency experience bonus to [Dimension Magic]. Her primary goal was to regain some of the functionality of the skill she had missed when it became [Warp] and subsequently [Veil Step], which was rapid and inexpensive movement.
+
+As amazing and spectacular as [Veil Step] was, if she wanted to quickly poof around it, it was, in some ways, actually inferior to the lower-tier skill, such as the cost. Vee wasn't like Syl, who had endless Mana and stamina, so she needed to be frugal when she could, and that was why she wanted to recreate [Blink].
+
+Either spell would allow her to move around underwater better than she currently could, and attempts to improve her natural swimming had all fallen flat. Even [Aquatic Finesse] seemed to have its limits for her spider body.
+
+Vee continued exploring the reef, particularly searching for any hidden goodies among the shipwrecks. However, after spending what felt like a few hours, the only thing she managed to do was get repeatedly attacked by some of the creatures living here.
+
+Eels, octopus, slugs, and even starfish tried to attack her when she approached their locations. Unfortunately for them, when they entered her [Spatial Sense] area, which she kept permanently activated, she lashed out in retaliation with some razor thread controlled by [Thread Mastery] and turned them into instant sushi.
+
+You'd think lower-level monsters would avoid me. I understand they aren't intelligent, but don't they have some instinct to avoid stronger creatures? Do they abandon self-preservation when protecting their home? Or is this ring I'm wearing better than we realized?
+
+Vee thought the ring only blocked [Identify], but now she couldn't help but wonder if it did a little more than that. It would explain why the monsters here weren't running from her, which she had experienced many times when she was back in the underground, and was one of the reasons she started resorting to traps and ambushes instead.
+
+But it was getting late, and while Vee could see perfectly in the dark, she didn't want to keep Syl waiting or find out what might come out from the sea.
+
+Vee grabbed a set of coordinates from well above the reef and saved them in [Triangulate] for her return trip the next day. Then she began casting a teleportation, using the coordinates for their room at the inn.
+
+This was definitely the furthest single jump she had ever made, including using her web portals but excluding the kidnapping and tree gates, so she was slightly anxious about the results. However, with the help of [Triangulate], her own personal coordinates became quickly replaced, and soon Vee found herself abruptly appearing in the inn room.
+
+Woohoo! That worked like a charm!
+
+Vee quickly consulted her Mana usage and found it was actually a lot less than she thought it would be.
+
+I guess I'm not dimensionally heavy, Vee snickered to herself.
+
+The inn room was empty, meaning Syl hadn't returned home yet. But their link through the bond had become abruptly much stronger, and she could feel it growing over time, meaning Syl was on her way back.
+
+I guess I'll just sit here and have dinner while I wait.
+
+Vee was a tiny bit tempted to teleport to one of the elven groves after her first long-distance success, but she abandoned that idea when she realized that it might cost her all her Mana, leaving her stranded.
+
+Vee did have some emergency slime potions from Syl, but they weren't instant recovery, and she didn't want to waste them. Even though Syl routinely exploded her own slime, she was strangely picky about it being wasted by other means.
+
+Vee snuck away, and then her slimy friend eventually entered the room, while her assumed Sylvain persona looked haggard.
+
+"Boy, what a day…" Sylvain grumbled before closing the door.
+
+Vee felt the offer for telepathy and allowed the connection.
+
+"Rough day?" Vee asked.
+
+"Well, for Sylvain," Syl giggled telepathically back. "They had me run a few back-to-back trips between Saltport and a few of the other outposts to get an idea of how much juice he has. Obviously, I could've kept going, but I didn't want them to think Sylvain was some freak of nature with Mana higher than elves or diamond adventurers."
+
+"Good call, I think you sometimes forget how we regular folk have to settle for a reasonable amount of Mana."
+
+"Says the shrinking and teleporting spider…"
+
+"Who still needs to abide by the laws of Mana," Vee countered.
+
+Syl sighed. "Fair enough. So, how was your day? I felt you going far out."
+
+"I found a place called Grafgeo, picked some fruit, killed some brinelings, found some weird coral tree, found a reef, failed to find any treasure, and then came home."
+
+"That's quite eventful… How was long-range teleporting?"
+
+"Not bad, a lot cheaper than I expected it to be."
+
+"Odd… It shouldn't have been," Syl replied curiously.
+
+Vee giggled. "Well, unlike a certain slime—"
+
+"You've got four slime potions," Syl interrupted. "I'd say you're quite heavy yourself. Or did you forget that we couldn't give you more or risk having too much of your Mana reserved for [Storage Space]?"
+
+"Shit! You're right, it should have cost more, but then… what could it be?"
+
+Syl went silent for a bit before exclaiming, "Your class!"
+
+"What does my class have to do with anything?"
+
+"I'm sure we had this conversation before… Why else do you think someone would pick Pyromancer over Sorcerer?"
+
+"They really like burning things?"
+
+Syl chuckled. "I'll give you that one."
+
+Syl then gave a quick rundown of how classes give hidden bonuses to attributes and affinities, while pointing out that this was the reason why her Elementalist class was such a big deal.
+
+Vee nodded a long to the explanation and then realized what Syl was saying. This was their first time either of them had ever seen a class even loosely related to [Dimension Magic].
+
+"So I'm getting some unknown bonuses to [Dimension Magic]..." Vee mumbled.
+
+"And probably to some rogue skills if I had to hazard a guess."
+
+"Neat, more sneaking bonuses."
+
+"Ugh, I wish I had Riftmancer already…" Syl groaned, her Sylvain body starting to melt into a big slimy puddle. "Imagine what I could do with a stronger dimension affinity."
+
+"Yeah, but your elemental magic would suffer, wouldn't it?" Vee asked.
+
+"Who cares! [Dimension Magic] is so much better!"
+
+"I think you mean, so much more complicated!" Vee countered. "Plus, aren't you supposed to get something big at level thirty?"
+
+"Yeah… However, until I defeat some stronger monsters, I don't know how far that is. Hopefully, tomorrow there will be some action."
+
+"Oh? What's happening tomorrow?"
+
+"I'm going on patrol. They've given me my own little boat to sail around in… not that I need it."
+
+"If anything, that would slow you down. But I guess Sylvain can't go around turning into a shark-dolphin."
+
+"Sadly, that doesn't fit his backstory. Maybe I'll make my next persona a druid."
+
+"Well, if you're bored while sailing around in your little boat, don't you want to do me a favor and work on creating a spell version of [Blink]?"
+
+"Sure, since I'll probably be alone for the majority of it, I should be able to sneak in some unofficial practice. But why though?"
+
+Vee explained her conundrum with [Veil Step] being used in rapid succession and its associated costs. Syl still seemed confused until Vee reiterated again that normal people have to actually worry about using too much Mana.
+
+"If it's that important, I could probably do it right now…" Syl responded.
+
+"Please tell me you're joking…" Vee groaned, wondering why she didn't bring this up sooner if it was that easy.
+
+Syl raised a tendril and in it a construct formed for [Position], then another formed for [Positioning], and a final one appeared again for a second [Position]. Vee was following so far, as you'd need to cast these three spells to teleport.
+
+Then things started getting a bit weird as Syl pulled out an [Acid Dart] spell construct before destroying it almost entirely, leaving only a small section remaining. Vee recognized that as the projectile component.
+
+Then Syl pulled out a water spell that looked vaguely familiar before quickly destroying it and leaving behind an unknown component. Vee wanted to frown, as this was rapidly getting out of hand.
+
+Then Syl began weaving one [Position] with the projectile, while weaving the unknown water component with both the remaining [Position] and [Positioning]. Vee could feel her brain rapidly turning to mush as she tried to follow this, when Syl started to intricately weave these pieces together until they became one conjoined product.
+
+To her horror, it somehow looked worse than even [Displaced], likely due to the fact that the old monster was made using [Mana Manipulation].
+
+"Bloody hell, what is this monstrosity!?" Vee finally cried out.
+
+"It's… a blink bolt?" Syl suggested.
+
+"Okay…"
+
+"You shoot it, it gets the location, and then applies the location to yourself," Syl explained. "I figured the buff component from [Bubble] would be the perfect way to target yourself."
+
+How did you even come up with that idea!? Who thinks like that? It sounds like you're creating magical programming!
+
+"I don't think I can cast that," Vee admitted after her tiny mental breakdown. "Correction, I don't think anyone can cast that, unless they have [Mana Weaving]."
+
+Syl sighed. "You might be right… But I was hoping that if it became a registered spell, I could just give it to you that way."
+
+"I'm doubtful, but sure, go ahead?"
+
+Syl proceeded to cast the spell, which shot out a projectile that would have been entirely invisible if not for [Spatial Sense]. It hit the floor, and Syl quickly appeared where it landed.
+
+"Holy shit, it actually worked," Vee said.
+
+"It did, but the Mana cost was not great," Syl admitted. "Not to mention that you need to wait for the projectile to land before you're teleported to safety. Not ideal in a scenario when you just want to get out of the way asap."
+
+"I mean, it might be cheaper for me, and I'd probably still settle for it even if it's a bit inconvenient. It would beat my current methods of getting around underwater without resorting to [Veil Step]."
+
+Syl nodded and recreated the spell, once again showing how absurdly inhuman she was. She cast it again, letting the dimensional bolt land on the table and teleporting on top of it.
+
+"Weird, it didn't get registered?" Syl said.
+
+"Well, there goes that idea…" Vee whined.
+
+"Maybe it's too similar to the real [Blink] spell, but because it's inferior, it was discarded," Syl suggested.
+
+First magical programming and now magical version control? What's next?
+
+Vee didn't reply and simply groaned.
+
+"Well, I'll try making it the old-fashioned way then. Even if I don't use [Mana Weaving] principles, it should be a lot easier for me."
+
+"Knock yourself out… I want to go to bed."
+
+"You don't want the admiral's buffet?" Syl suddenly asked, before withdrawing a variety of food straight onto the table.
+
+Vee stared greedily at the variety on display, all of it looking expertly prepared.
+
+"Sylvain asked for seconds, but I just stored it away in [Core Storage] instead of eating it."
+
+"Syl! You're the best!" Vee cried out with joy.

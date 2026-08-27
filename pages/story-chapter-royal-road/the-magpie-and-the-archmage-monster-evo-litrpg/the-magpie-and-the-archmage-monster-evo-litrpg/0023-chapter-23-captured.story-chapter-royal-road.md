@@ -1,0 +1,191 @@
+---
+id: 5e4e5b18-3159-519f-a845-01b9233e6763
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23 – Captured"
+slug: 0023-chapter-23-captured
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 23
+ownLength: 2071
+unit: words
+publishedAt: 2025-09-17
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2606690/chapter-23-captured"
+royalRoadId: "2606690"
+---
+
+"CAW! CAW!" Liora protested, trying to peck herself free of the net. "Let me go!"
+
+"Silence, you stupid bird! You have no idea how much trouble you caused us," Walter snarled and shook the net violently, disorienting Liora.
+
+She hurriedly tucked in her wings. Another such violent shake might just break her fragile wing bones, and then it would be over for her.
+
+"Don't kill it, otherwise we might never get the gem," Arvid said in a hushed voice.
+
+"Didn't you say that the gem was in this bird's Inventory?" Beatrice said, snatching the net from Walter and looking at Liora.
+
+"That is the most likely explanation, but I'm not 100% certain. Besides, if the gem really is in the magpie's Inventory, then it's even more of a reason not to kill her," the younger man said.
+
+"What do you mean? Doesn't the stuff in the Inventory drop if the monster is killed?" Walter questioned with narrowed eyes. "How did a bird even get an Inventory?"
+
+"Who cares? All that matter is that it has the gem," Beatrice said impatiently.
+
+"Human-made things do drop upon death. But the System might treat the gem like it treats dungeon-spawned items and other objects made up from essence. It might just disperse the energy in the surrounding area, and then it'll be lost forever," Arvid explained.
+
+What are they talking about? What's a dungeon?
+
+It's a monster zone that has evolved. It must have a strong core that could—
+
+Keep it short! We're in a dire situation right now!
+
+Right! Basically, it's a monster zone that can spawn monsters and items using the ambient mana. It is controlled by a super-powerful monster called the dungeon master. All items in the dungeon are made from essence.
+
+But you're not from a dungeon.
+
+The human me obviously isn't, but this gem I'm housed in likely came from a dungeon. You didn't think I was stuffed in just a regular, old rock?
+
+A very pretty rock, but yeah, I believed you were stuffed in just a regular, old rock.
+
+How rude! I am anything but regular! And definitely not old.
+
+Beatrice's angry voice brought Liora out of her internal dialogue with Renir.
+
+"Then how do we get the gem out of this bird?!" She asked angrily and shook the net again, albeit more gently this time.
+
+"CAW! CAW!" Liora protested. "As if I'm going to give you anything!"
+
+"I suggest we take the bird back to the inn. We can figure out how to get the gem tomorrow. Worst-case scenario, we can just give the bird to higher-ups and let them figure out how to get the gem. But I'm sure a little bit of persuasion is all this bird needs," Arvid said, and Liora felt a cold shudder run down her feathers.
+
+"Oh, yeah! Have them worry about it! They have all sorts of rare magic at their disposal. I'm sure they'll find the most gruesome way to squeeze the gem out of this bird," Walter sneered, staring Liora straight in the eye.
+
+If she had any mana left, she would have shot poison straight in his nasty, ugly face. But since she didn't, Liora had no choice but to let herself get carried away. Something told her that they would not treat her nicely.
+
+This really sucks! How did these louts even find me?
+
+They likely planted traps all around town to capture you. We were too careless.
+
+What now? I can't just let them squeeze you out of me, or worse—bring me to their higher-ups!
+
+No! We cannot. But there's not much we can do with your mana pool empty. We have to wait for it to recover.
+
+Isn't there a skill to regenerate mana faster or something?
+
+There is, but it's out of your league right now.
+
+Liora frowned internally at the unfairness of it all. Chased down the mountain by a wyrm, only to be captured by humans. No, Liora wouldn't stand for this. She would break free. Besides, she had a crucial advantage over these chumps—they couldn't kill her. Or rather, they needed her alive if they wanted to get Renir.
+
+So when they carried her into town in the dead of the night, Liora made a terrible racket. She cawed, she screeched, and made any miserable, loud bird noise available to alert the townspeople.
+
+"Shut up, you stupid bird!" Walter snarled and shook the net.
+
+In response, Liora screamed even louder. When some townspeople came to stare at the racket, she felt a deep sense of satisfaction. These people were unlikely to take kindly to these slimy bastards abducting what they considered to be a bird of good omen.
+
+"Let's hurry back to the inn. We don't need a scene," Arvid said, taking the net and rushing inside.
+
+But in the inn, Liora made sure to be just as noisy as outside, instantly drawing the attention of the sleepy innkeeper and a few drunkards still sitting at the bar.
+
+"What are you staring at?" Walter snapped, trudging upstairs. The innkeeper didn't reply, but he was clearly not pleased by this development.
+
+Good, good. Spread the word. Let everyone know that I've been captured.
+
+You know these people can't help you. They are utterly helpless against magic.
+
+This fouled Liora's spirits a bit, but not for long. Even if they didn't dare to openly act against the mages, they could help in more subtle ways. For example, the cleaner lady might just accidentally lift the net and leave the window open. Or somebody might lose a brick in the window.
+
+Once the trio got into the small, dusty room, they began cursing Liora out and shaking the net in an attempt to shut her up. She didn't. She could do this all night. After all, she was a nocturnal bird.
+
+"Shut up already!" Walter plunged his sweaty hand into the net and grabbed Liora.
+
+It was painful. He nearly crushed her in his anger. Stars blinded her vision, and for a moment, it felt like she would pass out. Only a strong yank from Arvid stopped Liora from being turned into bird mush.
+
+"Control yourself! We need the bird alive!" He warned.
+
+"Alive—yes, but does it need to be in one piece? We could pull off that loud beak!" Walter said gleefully.
+
+"Stop it, psychopath! Can you really not control your temper because of a bird? Just put it in the cage and forget about it until morning," Beatrice snarled.
+
+"Easy for you to say! You're not going to be sleeping in the same room," Walter retorted.
+
+"Stop complaining, Walter, and just put in the cage already!" She snapped.
+
+"Fucking bitch…" the man muttered and roughly shoved Liora in a tiny cage, clearly meant for much smaller birds. As he fiddled to lock the cage shut, Liora pulled her head back and Pecked his finger full force. It came clean off.
+
+Damn, my Pecks are quite powerful.
+
+"Motherfucking! That bird pecked my finger off! I'll kill it! I'll fucking kill it!" Walter roared and pulled out his wand, ready to launch a spell at Liora.
+
+"Will you knock it off, you beer for brains?! How many times do you need to be told that we need the bird alive? If you kill it and we lose the gem, I'm certain the higher-ups will gut you like a fish! I certainly won't cover for you," Beatrice said and looked at the severed finger with a hint of disgust.
+
+"It pecked my damned finger off!" Walter roared.
+
+"Oh, shut it! A bit of healing magic and it'll be good as new. Hold it in place," Beatrice rolled her eyes and pointed to the finger. The man picked it up while wincing in pain and also growing increasingly red from anger.
+
+He put the severed stump back in its place and glared at Beatrice. "Well, what are you waiting for? Heal it."
+
+"It'll cost ya," she said sweetly with a predatory smile.
+
+"What do you mean, cost me?! Aren't we working together?!" He howled, watching his blood drip down on the floor.
+
+"I heard you call me a bad word. That is not something you would say about your coworker," Beatrice tutted disapprovingly.
+
+"You wench…"
+
+"Oop, I think the price just went up."
+
+"Fine! I'll pay! Just fix it before I bleed to death!" Walter snarled and hurriedly retrieved his coin purse, throwing some coins on the floor in front of Beatrice.
+
+"A little more than that," she purred.
+
+The man growled and threw some more coins.
+
+"Pleasure doing business with ya!" She said and waved her wand. The finger became enveloped in soft light and slowly reconnected to the rest of the hand. Less than a minute later, the glow stopped, and the finger was back in its place. Kind of.
+
+"Wait… It's crooked," Walter spat, looking at his reattached finger.
+
+"That's what you get for throwing the coins on the ground," Beatrice chuckled and waved her wand. The coins floated up and into her hand, and she left the room, slamming the door behind herself.
+
+"What a fucking bitch! I fucking hate her! If she didn't know holy magic, I would have strangled her a long time ago!"
+
+"Let's go to sleep. We'll have to try to get the gem out of this bird tomorrow." Arvid said.
+
+"Oh, I'll get the gem alright!" Walter snarled and shook the cage threateningly.
+
+Liora began screeching and cawing loudly, creating a racket twice as loud as before.
+
+"You've agitated the bird again…" Arvid pointed out in annoyance.
+
+"Shut up, bird! Shut up!" Walter screamed, pointing his finger dangerously close to the cage.
+
+Liora pushed her beak beyond the bars and snapped her beak with a loud click. Walter shuddered and pulled his hand back.
+
+"Oh, you wouldn't dare!" He snarled.
+
+"CAW, CAW!" She retorted. "Oh, yes, I would!"
+
+I think that guy might actually kill you if you keep annoying him like that.
+
+You heard that Beatrice woman. They need me alive to get to you.
+
+Don't think it'll help you for long. I think they are just too tired to deal with you now. Tomorrow, they'll start torturing you...
+
+They'd torture a bird?
+
+Liora, these people would torture a child if that would benefit them in any way. So settle down and let them sleep before they decide to begin their torture early.
+
+Liora shuddered, her feathers standing on end. Walter and Arvid gave her a last glance, one looking just mildly annoyed while the other looked like he was ready to fling a murder spell at her. Yeah, it might be best to remain quiet for the time being.
+
+So what do we do? How do I get out of here? I can't really destroy metal. Not in one shot at least. My attempts of escape would instantly be heard.
+
+You can try using Air Slash once you recover mana. This cage looks rather flimsy. You could also try Paralyzing Croak on them. Then just Fade and get out of here.
+
+Although Renir's inner voice sounded confident, she could feel that he was actually feeling rather nervous about the situation. Who could blame him? They've been actively trying to avoid this very situation.
+
+Seriously? What did you do for them to go after you so aggressively? Who are these guys even?
+
+I'm one of Nine Pillars, so there are plenty of people who want me out of the picture. It's what happens to people in position of power. As for who they are… I'm not sure. I know they called themselves the Order of Night King, but their organization is very secretive. I have no clue how deep it runs or how strong it is.
+
+If it captured you, the supposed all-powerful archmage, then they must be rather strong. Don't you remember who put you in the rock?
+
+I remember being dragged forcibly somewhere underground, and there being lots of people. But everyone had a mask and a large cloak. I couldn't even tell if they were male or female.
+
+Their inner dialogue fell silent. The situation was grim. Whoever were the people that trapped Renir in a gem must have been really powerful. But why were their lackeys so seemingly inadequate and disorganized? The woman wouldn't even heal her supposed companion without him paying for it first.
+
+Liora knew only one thing for certain. She would not go down without a fight.

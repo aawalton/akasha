@@ -1,0 +1,147 @@
+---
+id: 4a747e42-c6c9-53c9-bcef-43b7fe1e5712
+page-type-slug: story-chapter-royal-road
+title: "Chapter 481: There was one"
+slug: 0048-chapter-481-there-was-one
+partOf: rise-of-the-living-forge
+position: 48
+ownLength: 2075
+unit: words
+ownProgress: 2075
+publishedAt: 2025-09-10
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2590160/chapter-481-there-was-one"
+royalRoadId: "2590160"
+markedReadAt: "2026-06-29T19:59:58.759Z"
+---
+
+Arwin didn’t go anywhere that night. Lillia was still cooking dinner, after all. That wasn’t something that could just be skipped — and it wasn’t the only thing he was looking forward to that night.
+
+But the night passed as they always did. The next morning dawned.
+
+And when it did, Eleven was waiting for Arwin in the common room of the Devil’s Den.
+
+“You’re ready?” eleven asked.
+
+“Depends. Can anyone else come?”
+
+“No,” Eleven said. “I can only bring one person at a time.”
+
+I suppose I don’t know who else I’d bring, even if I could. I’m not taking one of my people into what might be a trap. Koyu couldn’t come if he wanted to. He’s bound to the street. The only other one I’d know would be able to handle themselves is Lillia, but I already mentioned this to her last night.
+
+She’d come… but she’s busy preparing for the day. There’s no reason to drag her along. If it’s an ambush, we’re screwed either way. If it isn’t… I just waste her time.
+
+“Then I’m ready,” Arwin said.
+
+“We’ll be watching the time,” Rodrick said from a table beside them. He leaned back in his chair, rocking it onto its hind legs. “You’re a better scout than I am, Eleven. I won’t deny that. But I can still find you. Bring Arwin back. Alive. Or we’re going to have a problem.”
+
+Eleven watched Rodrick silently for a moment. Then she inclined her head. “I understand your apprehensions, but they are not needed. We do not need tricks. One does not seek Arwin’s death. We’re on the same side.”
+
+Rodrick just shrugged in response. “Actions speak far louder than words do, Eleven. There’s nothing else we have to say. What we do will handle the rest of the talking for us.”
+
+Eleven just nodded. Her hair twisted around her shoulders like it had taken on life of its own. It coiled up around her, separating into thick, matted masses that almost resembled tentacles. They splayed out around her like the fingers of an eldritch crown.
+
+Scars of lazy gray magic twisted down the length of her hair before slithering across her arms to gather at her fingertips. Concentration creased Eleven’s features as she pressed her palms together. Then, with gritted teeth, she pulled them apart.
+
+Magic arced between them in hissing crackles. A disk of gray spun to life between her hands. It expanded as they continued to part. Her hair snapped in an invisible wind as the portal expanded to the size of a man, hissing and popping as it tried to slip free of her grasp.
+
+“Go in,” Eleven said, her voice terse. “Quickly. I can’t hold this for long.”
+
+Arwin nodded. Then he stepped into the portal.
+
+***
+
+The world rearranged itself nearly instantly. Arwin’s foot landed on the ground exactly how it would have if he’d taken a normal step. It took his mind an instant to realize that he wasn’t standing in the Devil’s Den anymore.
+
+Around him was a plain stone sparring room. Hay covered the ground, matted in piles near the edges of the walls where plain wooden weapons of all sorts hung from metal hooks. There was everything from axes to daggers to a massive warhammer.
+
+And standing in the center of the room was a man who could be described only as beautiful. His face looked like it belonged upon some painting rather than in the real world. It was so close to androgynous that he could have potentially passed for a woman should he have let the golden hair pulled into a bun behind his head fall along his shoulders. His eyes were like two reflections of the moon, as silver as a clear lake in the still night.
+
+Glistening white armor wrapped his body. It didn’t have a single stain or mar upon its surface — and the moment Arwin laid eyes on it, his stomach flip-flopped.
+
+He didn’t recognize the man in the armor for an instant. But the armor itself… it was eerily similar to what Blake had once worn. It wasn’t the same, of course. There could be more than one set of white armor.
+
+Whoever had made the armor on the man before him had been a far better smith than the one who had outfitted Blake. The magic within this armor was so palpable that Arwin could literally feel it on his tongue. It tasted like cherries.
+
+If Blake had been given armor like this… he would have survived that day. But if he’d had armor like this, then everyone would have. That would have been far too great a waste of magical power for the Adventurer’s Guild to invest into pawns meant to die, wouldn’t it?
+
+The portal behind Arwin snapped shut. Eleven’s foot fell beide his own, breaking him from his thoughts as she stepped out beside him, midway through a massive yawn.
+
+“Brought him,” Eleven said drowsily. “I’m going to bed.”
+
+“Don’t get too comfortable. You’ve still got work for the day, Eleven,” the man across from them said. His voice suited him perfectly. He spoke like a man who was used to getting exactly what he wanted — and the slight curl of amusement in the corners of his lips instantly made Arwin’s eyes narrow.
+
+There was a fine line between confidence and arrogance. It was hard to tell which side of it this man stood upon.
+
+“I don’t need to tell you where to stuff that work. You can figure it out,” Eleven said, yawning again. She turned and shuffled off through a door at the back of the room, slamming it closed behind her.
+
+The man across from Arwin blew out a heavy sigh and shook his head. “I’m sorry about her. Eleven has a rough time of things. Her class is not kind to her.”
+
+“Few things in life are kind,” Arwin replied in measured words. He watched the other man carefully, but his posture was perfectly controlled. There was nothing to glean from his face or stance. “You’re Two?”
+
+“And you are Arwin. Leader of the Menagerie, Ifrit, and the Former Hero of Lian,” Two said. He strode toward Arwin, extending a hand in greeting.
+
+Arwin took it. The man’s hand was like a steel bar. There wasn’t a single ounce of give within his grip — but it wasn’t overbearing either.
+
+“I get a bunch of names, but you only get one,” Arwin observed. “Are you anything more than Two?”
+
+“Not anymore,” Two replied. The two of them released each other and stepped back. “I gave that up a long time ago. My name doesn’t matter nearly as much as my purpose does.”
+
+“And your purpose is?”
+
+“To keep this planet from tearing itself apart,” Two replied. He turned to the wooden weapons lining the wall and nodded in their direction. “Which one do you prefer?”
+
+Arwin took the warhammer from where it hung. Despite the fact that it was made from wood, the weapon was surprisingly well balanced. It felt solid in his hands, but he couldn’t sense any magic within it.
+
+Two claimed a two-handed sword from one of the nearby hooks. He held it up before him, giving it a lazy spin.
+
+“You went with the hammer. I’ve heard you smith with something similar. Not the most wieldy of tools.”
+
+“Didn’t know what I was doing when I got started,” Arwin replied with a shrug. “And normal rules hardly apply when magic gets involved. To be honest, I don’t have time to play games. Why don’t we get to the point of why I’m here today?”
+
+“Have work to do?” Two asked with a knowing smile.
+
+“No,” Arwin replied. “I have a girlfriend to get back to. I don’t care how long you spend on your morning routine. She’s still prettier, and we don’t get nearly enough time as things are already. I have little patience for anything that tries to waste my time.”
+
+Two let out a bark of laughter. Then he raised his sword. “Fair enough. Then shall we condense things? I want to take your measure, Arwin. And you want some answers. So why don’t we handle both at once?”
+
+Arwin looked at the hammer in his hands. “You realize that a wooden hammer coming down on your head is going to do just as much damage as if it were metal? It’s hardly some mere sparring sword.”
+
+“I’ve volunteered to wake Eleven up ever since she Sunsetted her class,” Two said dryly. “I can promise you that no wooden hammer is going to hurt more than what she does to any sensitive bits I foolishly let near her vicinity when she’s sleeping.”
+
+Arwin shrugged. He raised his wooden hammer. Gehenna materialized around his body with a thought. If Two was surprised, he didn’t let it show on his face. The other man just darted forward, his sword flicking out.
+
+A wide sweep of Arwin’s hammer forced Two back before his blow could even connect. Arwin wasn’t really sure what the point of sparring with wooden weapons was when both of them were wearing armor that could probably survive a minor explosion — but he supposed it was the spirit of things.
+
+“What is Sunsetting a class?” Arwin asked as he dodged back to avoid Two’s counterattack. “We fulfilled our part of the bargain and figured out what the Guild was doing. Now it’s your turn.”
+
+“Desires change. When you first get a class, you are not the same person that you turn into. Sunsetting is a ritual in which you take all the power gathered within your class and reforge it into something that suits who you are now,” Two replied. He stepped forward, driving his sword for Arwin’s chest.
+
+Arwin twisted out of the way and the blow whistled past him. The blow only just barely missed. Two wasn’t using any abilities, but he was terrifyingly fast. Arwin hopped back, narrowly avoiding the other man’s follow-up strike.
+
+He followed up with a wide swing that forced Two to leap back before he could attack a third time.
+
+“And what does that actually do?” Arwin asked.
+
+“Your abilities consolidate. The ones you don’t need feed into the ones you do. You become stronger. More focused. And, most importantly, you align yourself with the Mesh. With its purpose. I know that sounds culty—”
+
+Arwin lunged at Two again, forcing the other man to leap back.
+
+“It does,” Arwin said.
+
+Two leapt forward, flicking his blade at Arwin’s neck and forcing him to throw himself back. Arwin banished Gehenna as he fell, hitting the ground in a roll and re-summoning the armor as he rose again.
+
+“But it isn’t,” Two said, advancing toward Arwin with a flurry of blows that kept him backing up. Arwin could have easily taken any one of them on Gehenna and ignored the blow completely. He didn’t. For some reason, that felt like it would be the same as losing the fight.
+
+“Care to say why?”
+
+“Because the Mesh is on our side. It wants to help this world. That’s why it exists. That’s why you exist as you are today. Necrohammer is the one that triggered your Sunsetting early, but it was the Mesh that gave you that class. It has a purpose. It acts with reason. To preserve this world.”
+
+“The Mesh is dying, and so is the world,” Arwin said, swinging his hammer at Two.
+
+Two ducked the blow, then returned the attack with his wooden blade. Arwin shifted out of the way of the blow.
+
+“I know,” Two said. “And the Guild thinks they can stop that themselves. They think they are gods that can control the fate of this world. They are not. You’re not the first one the Mesh has spoken to, Arwin. You’re just the first one who survived. There was another within the Guild who tried to do more.”
+
+“What?” Something in the tone of Two’s voice gave Arwin pause.
+
+“Before you, there was another who spoke to the Mesh. A man who gave us information about the Guild’s activities. He was to join Setting Sun, but he wanted to stay on the front lines of the war. That cost him his life. I believe you knew him. There was a time when he was in your party,” Two said, letting his sword lower. “His name was Blake.”

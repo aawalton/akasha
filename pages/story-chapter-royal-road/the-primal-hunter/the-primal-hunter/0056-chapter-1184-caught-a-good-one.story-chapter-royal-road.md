@@ -1,0 +1,169 @@
+---
+id: 9ee03043-4484-5efd-ace4-408c5f819732
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1184 - Caught A Good One"
+slug: 0056-chapter-1184-caught-a-good-one
+partOf: the-primal-hunter
+position: 56
+ownLength: 2788
+unit: words
+ownProgress: 2788
+publishedAt: 2025-10-21
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2693915/chapter-1184-caught-a-good-one"
+royalRoadId: "2693915"
+markedReadAt: "2026-06-29T19:31:02.378Z"
+---
+
+“So the Ghostvine is dead, huh?” Jake muttered, having mixed emotions on the matter. He’d initially expected to be the one who would eventually take it down, and while he had given the go-ahead for Arnold to handle the B-grade, that didn’t mean he couldn’t have some unwanted feelings.
+
+“Indeed,” Miranda’s projection confirmed. He’d summoned it after Miranda asked to talk so they could have a proper conversation where they could actually see one another.
+
+She had already given him a rough overview of how Arnold had killed the B-grade, and Jake was impressed. He had deployed a wide variety of weapons, and especially those golems near the end sounded impressive.
+
+“As I said, the operation was a glowing success, and talking with the man behind it, the loss of resources was slightly below calculations, according to Arnold,” Miranda explained. “After it was killed, Sandy consumed the core of the Ghostvine alongside the natural treasures it had hoarded throughout its albeit short life. Last I heard, Arnold is busy constructing a dome of some kind as he wants to preserve parts of the Lunewood Forest.”
+
+“When do you reckon he’ll move there fully?” Jake asked, also feeling a little weird about that part. It had long been a trope for people to make moonbases in the name of science, but that didn’t mean Jake had expected to one day see Earth’s moon turn into Arnold’s personal base.
+
+“I’m not sure,” Miranda shook her head. “What I do know is that he’ll maintain some aspects of his base here near Haven. Neil is already working with him on establishing a teleportation circle linking the two bases, so my guess is that we’ll see him finalize the move sooner rather than later. You know that if Arnold is anything, it’s industrious.”
+
+Jake nodded, as he was in thought for a while before asking: “Do you know how strong the Ghostvine was?”
+
+Miranda got quiet for a moment before sighing. “I asked Sandy. Due to the Boundless Hydra’s Chosen assisting, they also got a kill notification once the Ghostvine died. While I cannot evaluate how powerful a variant the Ghostvine truly was, I know its level at least.”
+
+He didn’t need the suspense but got it anyway as Miranda revealed the number... one that was certainly higher than Jake had expected.
+
+“371. Personally, I had assumed it was around 360, but it turned out to be a lot higher. Overall, I think we all severely underestimated the Ghostvine... well... everyone except Arnold.”
+
+“From our initial encounter, I knew it was strong,” Jake sighed. “With the growth it had between then and now, I wouldn’t be surprised if it was more powerful than any of the B-grades I’ve killed so far.”
+
+“But also far more limited,” Miranda said, perhaps to encourage. “It was an immobile monster with low intelligence that allowed its foe to make preparations all around it for a long period. As long as you were able to deal enough damage to kill it, you too could have taken it down fairly easily.”
+
+“Maybe, maybe not,” Jake shrugged. “My issue would be actually striking at the core. If it had gone fully defensive and retracted its vines into the moon and hid away, I doubt I could have killed it. Chances were I would need to invade the core chamber, too, which could prove very dangerous. You said that even Sandy wouldn’t want to take that final trump card attack head-on, meaning I wouldn’t walk away from it unscathed either.”
+
+“Arnold certainly was a terrible match-up for the Ghostvine. An army without a single trace of life truly must be the stuff of nightmares for a monster specializing in the death affinity,” Miranda agreed. “His only problem was also getting to the core, but with the help of Sandy, he managed to overcome it.”
+
+“True, he did have Sandy’s help,” Jake nodded... even if it sounded like the worm hadn’t done much outside of being transport and a distraction.
+
+“I want to make clear I’m not downplaying Arnold’s achievement of power,” Miranda clarified. “If he were an enemy, we would truly be in trouble. Some of the members of the World Council have expressed some concern, as it seems like his military might will only further grow after taking over the moon, with Arthur bringing up perhaps signing some kind of official contract.”
+
+“Trying to force him into anything won’t end well,” Jake muttered as he considered the matter. “Hiring him as a mercenary also seems prohibitively expensive, doesn’t it?”
+
+“It would be for sure,” Miranda nodded. “I would certainly prefer to keep our relationship of mutual benefits going. The devices he provided the planet and even the galaxy with have been invaluable so far and have been fully worth the resources we paid him for them, but if we had to provide those resources for free...”
+
+“Just keep things as they are,” Jake decided after getting done thinking the matter over.
+
+“You sure? It could be risky. I don’t doubt other factions are eyeing Arnold, especially now that he’s somewhat separated from the rest of the planet. If one of them proves themselves to be a better trading partner, we could get in trouble... especially if he ultimately decides to side with a force antagonistic towards you or the planet,” Miranda voiced her concerns. “Don’t get me wrong, I don’t think that will happen, but I need to consider it or I would be horrible at my job.”
+
+“I trust in Arnold’s intelligence and ability to assess his situation and the climate he finds himself in,” Jake responded.
+
+“So do I, which is why I bring up the fact that another faction may present itself and prove a smarter choice,” Miranda reiterated.
+
+“Arnold is fully aware of what would happen if he decides to make Earth an enemy,” Jake said. “I don’t question if he’s powerful and would be hard to deal with, but I’m confident that should push come to shove, I would be the one walking away alive. Suppose he does decide to join another faction. I seriously doubt we would suffer anything outside of losing him as an ally. At least he won’t do it by turning on Earth but simply by leaving us behind and going somewhere else to avoid making us, or more accurately me, an outright enemy.”
+
+“An alliance built on threats,” Miranda muttered with a sigh.
+
+“No threats,” Jake clarified. “Just the... implications.”
+
+“The implications of a threat,” Miranda argued.
+
+“Who am I to dictate his mind and whatever conclusions it jumps to?” Jake smiled cheekily. The more he thought about it, the less worried he was about Arnold suddenly deciding to nuke Earth. Even if he weren’t wary of Jake for some reason, he would make a lot of other enemies he would no doubt prefer not to have. From what Jake understood of Arnold, he was extremely risk-averse unless the rewards outweighed the risks by a sufficient amount.
+
+“I’ll trust your judgment on this one,” Miranda said, clearly not bothering further with that line of conversation. “We’ll simply continue as before, and hopefully, Arnold will continue to be a great ally. Speaking of great allies, recently there’s been some developments in the galaxy that...”
+
+The part of the conversation Jake had feared would come had finally arrived: Jake’s update on the political state of things in the Milky Way Galaxy. Miranda still insisted it was important for Jake to at least have the Cliff’s Notes of what was going on, considering he was recognized as the leader of the galaxy.
+
+Surrendering to his fate, Jake listened to all that was happening, which was mainly good news about how everything had become more and more stable, even with new arrivals from other universes flooding the place. Jake was sitting in the living room, listening to Miranda's projection speak as he felt the arrival of a familiar aura descend on the room.
+
+Artemis, who had been off doing her own thing, manifested right behind the couch Jake was sitting on, looking curiously at Miranda's projection. Her arrival clearly caught Miranda off guard, but the witch quickly calmed herself as her projection bowed.
+
+“Greetings, Mistress of the Hunt,” Miranda said in a respectful voice. “It’s an honor.”
+
+Artemis nodded as she studied Miranda’s full-body projection. “So this is the Verdant Witch serving as the leader of your planet?”
+
+“Yep,” Jake confirmed. “We were just going over how I’m doing a banger job by not being involved with anything political, thus having successfully avoided messing things up.”
+
+“I see,” Artemis nodded. “Are you two also sleeping together, or... never mind, I got my answer.”
+
+The Godqueen couldn’t help but smile, and Jake could see why. The second Miranda realized what she had asked, she had a visible reaction where she cringed back, making her response very evident.
+
+“No offense,” Miranda quickly said to Jake.
+
+“None taken,” Jake chuckled, shaking his head. “Anyway, in case you hadn’t already been told, Artemis and I are a thing now. Part of the reason why that entire declaration of friendship was made.”
+
+“Alright, and I take it this is something to keep under wraps for now until something more official is communicated?” Miranda answered while barely reacting to the grand reveal.
+
+“It is,” Jake confirmed.
+
+“You seem awfully nonchalant. Did you already know?” Artemis questioned the Verdant Witch.
+
+“No,” Miranda shook her head. “I just don’t care about Jake’s personal love life unless it impacts me or my responsibilities.”
+
+“Is it just me, or is she an awful lot more casual now than when she greeted me before?” Artemis asked, looking at Jake.
+
+“If you can put up with Jake, you aren’t the type to care much about etiquette,” Miranda answered her.
+
+“Maybe I only allow him to treat me as an equal?” Artemis said, crossing her arms.
+
+“Please do not misunderstand, I don’t foolishly believe myself equal to a Godqueen,” Miranda said with a small bow. “However, nor do I see the need to be overly subservient if it doesn’t serve any practical purpose.”
+
+Artemis stared Miranda down for a few seconds, the witch not budging. After these few seconds, she suddenly smiled and turned to Jake. “You caught a good one there. Better be less of a terrible figurehead and make her defect to some other faction.”
+
+“Hey, I’m doing my best over here,” Jake said, acting all offended.
+
+“By doing nothing?” the Godqueen shot back.
+
+“Didn’t you just say I caught a good one?” Jake shot back with a sly smile. “Speaking of, I do seem quite skilled at catching the good ones, eh?”
+
+Artemis just rolled her eyes as the witch spoke up.
+
+“Believe it or not, I find Jake’s current performance as a figurehead quite exemplary,” Miranda said with a smile. “He doesn’t needlessly involve himself where he isn’t needed, but instead only grows more powerful and notorious. That’s the best he can do. To be that lingering threat hidden in the dark, ready to strike should anyone overstep.”
+
+“Now that sounds like a witch from the Order of the Malefic One,” Artemis chuckled before looking down at Jake sitting on the couch. “I’ll leave the two of you to it. Join me in the yard afterwards?”
+
+“Sure thing,” Jake nodded, returning his attention to Miranda. “So, where were we? Also, you really don’t have any questions regarding me or Artemis?”
+
+“I don’t, no,” Miranda answered casually. “Now, as I said before, Kindroth remains in loose contact with the Holy Church, and they seem to be fully focused on stabilizing their presence in the Andromeda Galaxy with no intent of trying to return to the Milky Way. Of course, we have still found a few smaller organizations scattered across the galaxy who claim to be part of the Holy Church, but none have had Blessings or any proof of their affiliation, making us conclude that their claims are unfounded and their presence not sanctioned by the actual Church. There’s also still...”
+
+Jake was tortured for a little longer with Miranda not even allowing him to zone out as she asked questions here and there to ensure Jake was paying attention, while Miranda also got to learn what Jake and the others who had gone to the Pantheon of Life were up to. The rest of the meeting took an hour before Jake was freed and could finally flee to the yard where Artemis had been waiting for his arrival.
+
+Walking into the yard, he saw Artemis sitting on a bench with her eyes closed, meditating or perhaps focusing on an avatar or something to pass the time. When she detected Jake’s presence, she opened her eyes and turned to him.
+
+“That took longer than I expected.”
+
+“Partly my fault, it had been a while since we had a proper check-in, and she also wanted to know what I had been up to,” Jake sighed.
+
+“That’s reasonable,” Artemis nodded. “I would have said something about you not needing to remain a figurehead if you don’t want to, but from my understanding, there are several benefits to it, courtesy of the integration. Including the newest World Wonder of the multiverse, the Seat of the Exalted Prima.”
+
+“Yeah, it’s gonna be quite something,” Jake sighed. “I reckon the Pantheon of Life also got their eyes on the World Wonder?”
+
+“There isn’t a single faction in the multiverse that doesn’t,” Artemis shook her head. “Even the weaker ones dare to compete with the pinnacle factions, as this is one of their chances to stand alongside them should these lesser gods succeed. No one would want to make an enemy of a faction controlling a powerful World Wonder, which this one is lining up to be.”
+
+“As I said, definitely gonna be quite something. But that’s for B-grade me to worry about. For now, I have enough other things to deal with, and as we already discussed, I should be heading back to the Order relatively soon.”
+
+“I know,” Artemis nodded. “But I also know that one of the things you wanted to accomplish while here at the Pantheon of Life was to upgrade your archery skill. You did manage to gain an upgrade while visiting the Hunting Ground, but I realize that while you did certainly benefit and even upgrade a skill related to your archery, simply going hunting wasn’t what you needed the most.”
+
+“I’m listening,” Jake said with interest.
+
+“You need exposure. You need to encounter other talented archers, and not ones like me who are too far ahead of you in levels and sheer power. Instead, it needs to be peers or at least people close to being considered your peers,” Artemis explained. “Perception is by far your best stat, and you are great at intuiting what you see and integrating it with your own Path. I had considered it perhaps too risky, in case you learned bad habits from other archers around your own level, but I’ll trust your ability to decide and instinctively know what’s worth integrating and what isn’t.”
+
+“Are you telling me the Pantheon of Life has some archery academy or something?” Jake asked. The Order had an alchemy academy, so it would make sense that the Pantheon of Life had one for hunters...
+
+“There is, but that’s not what I’m getting at,” Artemis waved him off as she smiled. “No, what I’m suggesting is something far more valuable. Curated sparring partners with archery skills rivalling or surpassing yours, all still in C-grade and all blessed by me.”
+
+“Are you sure you don’t just want to see me getting my ass kicked by your followers?” Jake asked with a smile.
+
+“That’s just a bonus,” Artemis chuckled. “I take it you’re interested?”
+
+“You know what?” Jake said. “I’ve been complaining about not seeing enough skilled archers in the multiverse, especially in Nevermore, so no bloody way I’m saying no to finally seeing people who know how to use bows properly.”
+
+“Oh, some of them use crossbows,” Artemis quickly corrected.
+
+He stared at her for a moment, the Godqueen unable to maintain her serious expression as she broke out in a big grin. “I’m messing with you. No way I would ever go so low as to bless a crossbow user.”
+
+Jake let out a loud sigh. “Oh, good... I was afraid our relationship would have had to end here because of irreconcilable differences.”
+
+“Totally understandable, that is a valid deal-breaker,” Artemis chuckled, before a thought struck her, and she looked at Jake. “Guns?”
+
+“Glorified wands,” Jake answered without a moment’s hesitation.
+
+Artemis nodded as the two made eye contact, Jake once more getting confirmation he had indeed caught a good one.

@@ -1,0 +1,537 @@
+---
+id: 413b84be-1a90-5ca9-becb-cd2eed7ed59d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 91 BIG SPIDERS! AAAAH!"
+slug: 0010-chapter-91-big-spiders-aaaah
+partOf: the-calamitous-bob-stubbed
+position: 10
+ownLength: 5366
+unit: words
+ownProgress: 5366
+publishedAt: 2022-09-30
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1005307/chapter-91-big-spiders-aaaah"
+royalRoadId: "1005307"
+markedReadAt: "2026-06-29T21:15:00.306Z"
+---
+
+“We’re under attack!” Marruk bellowed from the wall, where Viv had left her.
+
+“Gods dammit.”
+
+The witch ran and swore, pushing aside the last scrambling villagers making their ways to safety. She saw Ardek the young hunter and Romus the veteran shoot arrow after arrow at something out of sight. The alderman stood nearby, hands clutched around a quarterstaff. Those were the three people in the village who wouldn’t be completely useless. Viv grumbled against everything and everyone on her way up to see what the men were shooting at. She regretted it immediately.
+
+It was… a lot of things. The setting sun cast a red glow on a chittering mass of chitinous flesh, a tide of eight-legged vermin covering the grass and fields in a divine plague. Creatures of all sizes swarmed over the earth and each other on their way to the palissade. In Viv’s eyes, there was no more land, just a sea of legs and thoraxes crashing down on her.
+
+She kind of broke down.
+
+“Aaaaaaaaah ARTHUR! Burn it all! Burn it to the ground! Werfer!”
+
+Dark spells flew across the clearing, mowing down the largest beasts and digging furrows in the tilled earth. An entire section of the swarm disappeared behind the largest blight Viv had ever conjured. The hiss of disintegration soon drowned the clicks of poison-dipped mandibles. Viv went wild and torched the plain with black flame. She even started to draw from her reserves in the knife-focus. At no point had she stopped screaming.
+
+“I will invent the rocket and the rocket fuel and fissile material and I will cleanse this entire fucking patch of greenery out of creation until nothing remains but glassy craters! I will give that den of arachnids the Brazil treatment. I will log the shit out of every acre and use the wood to make toilet paper dispensers for every house on this god-forsaken shitball of a planet. I will ban spiders. Spiders are illegal. Arthur! Napalm this back into the hell it should never have crawled out of!”
+
+“SKRAAAAAA!”
+
+“Leave nothing standing! Yes! Burn it all! Burn it all down aaaaahahahahahahah! Let skies run black and the land be charcoal!”
+
+//Your Grace, they are retreating.
+
+“We need more things to burn!”
+
+//Your Grace, please calm down.
+
+“I will calm down when the crispy shield woods —”
+
+//Now.
+
+//We have company.
+
+The sight of a lone figure in the distance forced Viv to stop indulging in dramatics, even if she felt those were warranted. Black mana devastation and dragonfire scarred the land in great black wounds devoid of any life. The smoke from the dying heat masked parts of the forest and rose to the heavens beyond, but a light breeze had parted enough to show a lithe, definitely female figure swathed in elegant clothes standing in the distance. Spider silk shrouded the trees around her in gossamer swathes like drapes from a palatial canopy. She walked calmly forward and the ground parted before her steps, no, not ground, spiders. As the last rays of the sun hit her, Viv saw that they had found their herald.
+
+From feet to neck, the woman appeared human under a rich green dress. Above, however, the elegant frame gave way to a nightmarish jaw that split her face in two, like a certain movie monster that hunted marines for sports. They twitched erratically every second or so. The rest of the head was mostly unchanged, save for an additional set of dark eyes on the forehead. Viv found that it was rather fucked up and wondered how she would recognize uranium so she could mine it effectively.
+
+“Look what fell into my lap.”
+
+The herald’s voice surprised Viv. She sounded much closer than she really was, a sign of good magical control. As far she knew, Octas was a force of destruction, the wildest of all dark gods. And yet, the herald spoke in a refined alto that would delight an entire cabaret. The greater reaction came from Viv’s companions, however.
+
+“Is that… Leria? Korek’s wife?” The alderman whispered.
+
+“It cannot be…” Romus added. All three villagers showed various expressions of distress. As for Viv, she was curious. She also wanted the herald to keep walking toward her.
+
+“Who are you and what do you want?”
+
+“You already know the answer to those questions, little outlander.”
+
+“You know me?”
+
+“I know of you. My mistress knows many secrets, even some your benefactor hid in his dusty vaults. She sees that you seek to resurrect that which has died, and we object. You cannot fight entropy, girl. Harrak is gone, and soon, you will join it. We will send your reanimated corpse on its way for your friends to find. I might even give it a present.”
+
+The thing hissed. It was a bit far but Viv thought she saw maggot dripping from the nightmarish maw.
+
+“What does the village have to do with it?”
+
+“Silly girl, what do you have to do with the village? It was to be my offering, a mark of my commitment. But now it holds a prize that will grant me many rewards. Even now, I feel my power grow to answer yours. I will see you soon.”
+
+Viv launched the bolt spell she had built up at the herald, but she dodged it with preternatural speed. Great chitinous limbs popped from her back and planted themselves on the ground, sending their load out of the way of the projectile. The herald’s body bobbed between them like a gorged rotten fruit. Viv’s instincts screamed, but before she could react, Marruk pushed her aside and Solfis pinched a spider from the air. Viv saw red marks on a black body and shivered.
+
+//A red hiver.
+
+//It should not be here.
+
+“First blows averted. We shall see who goes the distance.”
+
+When Viv looked up from the tarentula-sized corpse dripping white ichor on the ground, the woman was gone.
+
+“Solfis, I almost forgot but can you go kill the thing?”
+
+//The creature was covered by an invisible network of silk at all times.
+
+//It is prepared and defended against me.
+
+“... What do you mean?”
+
+//Octas must have shared information on me.
+
+//This is a mage killer frame.
+
+//I can resist spells but not god-infused sticky silk.
+
+//I can perceive details through most magical illusion, but this creature does not use its own mana to hide itself.
+
+//It is currently receiving a large amount of energy directly from Octas.
+
+//It might prove too much.
+
+//I will have to ambush it.
+
+“You mean that thing can defeat you?”
+
+//I have no recourse against the silk and net it can produce.
+
+//We need to lure it in and ambush it.
+
+//It will be difficult.
+
+“We killed a prince.”
+
+//We face a god.
+
+//Octas is directly intervening to make sure you die.
+
+“What the fuck?”
+
+//This is a great honor, Your Grace.
+
+//It means that you stand for civilization.
+
+//It must be your revival of Harrakan culture, bathed in blood and glory.
+
+“Or maybe I’m the sucker making mana-absorbing obelisks free of charge.”
+
+//A proper ruler does not neglect any aspect of proper governance.
+
+“So…” a voice interrupted. It was the alderman. Marruk was leaning against the palissade, squishing small spiders as they crossed over it while Romus and Ardek watched a happy Arthur with undisguised terror.
+
+“Who are you exactly?”
+
+//You ask a lot of questions for someone who swore an oath to secrecy.
+
+“Well, yes, your lordship, or whatever it is you preferred to be called… but I already swore so it makes no difference, does it?”
+
+Solfis took a second to reply, which was a second more than what he usually took.
+
+//If you call me your lordship from now on, I may consent to it.
+
+“Enough of this, we need to check on the other villagers. They could be in danger.”
+
+“Lildy set enchantments around my house,” the alderman said.
+
+“Yeah and she’s dead. Let’s go.”
+
+“Lildy is dead?”
+
+Viv did not wait, she jumped down followed by Arthur. The dragonette looked a bit tired but it was the postprandial serotonin discharge kind of tired, and her crimson eyes stared at the distant fire with half-lidded pleasure. They took three steps before Solfis roared a warning and a wave of small spiders jumped at them from behind houses. Viv did not hesitate.”
+
+“Easy Peasy Sneaky Cloaky.”
+
+She needed a shorter incantation. One that didn’t induce cringe.
+
+The spiders jumped on her legs, trying to reach her face and she realized that she did not need to have covered her face as they were annihilated as soon as they landed. It let her see how Arthur handled the mass. The dragonling lifted herself with a flap of her wings, then beat them once. Waves of grey mana burst from them in Viv’s mana vision, pure and perfectly formed. The shockwave both killed the small creatures and gathered them in a neat pile. The witch was forced to avert her eyes so she would not be forced to witness the following insanity.
+
+Thanks
+
+For
+
+Meal
+
+“There…. therecouldbedustinthat!”
+
+Her hasty protest got ignored in favor of a large protein intake.
+
+“I hate everything.”
+
+//Well done, Your Grace.
+
+//No dangerous specimens so far.
+
+“Enough delay!”
+
+Snack
+
+“I don’t want to hear it, let’s go.”
+
+They moved throughout the empty village, squishing spiders with every step. Most of those were harmless to humans, barely more than what she could find in a temperate forest on earth. Sometimes, Solfis stomped forward and plucked a wriggling specimen from the mass. As for Viv, she was practically dancing a constant gig to prevent the things from clinging to her boots.
+
+The strange procession made their way to the central house, which was currently besieged by another tide. Light still emerged from behind closed shutters, so Viv had hope. A large patch of vermin detached itself from the rest as soon as she stepped closer.
+
+//They appear to be aimed for you, Your Grace.
+
+//Fortunately, Octas’ will can only carry so far in simple specimens.
+
+“I feel fucking lucky, yeah.”
+
+This time, Viv traced a circle in the dirt with her dagger and charged it with a minimum of destructive mana. The spiders would walk on it and die, turned to dust in an instant. It was yet another small drain on her rather depleted reserves. More of the spiders found them, a constant trickle crawling their way in a wriggling carpet. Solfis moved to pluck some of the most dangerous creatures while the villagers found fresh torches they used with more enthusiasm than effectiveness. At least, it provided some light. Viv found the darkness unnerving.
+
+It took a good ten minutes before the mass of spiders had gone from movie prop to just a nasty nest. As soon as a threshold was reached, the annoying things just moved aside rather than just erasing their numbers in a suicidal last charge on her circle. It meant that there were always spiders.
+
+The alderman knocked on the sealed door, squishing a pair of orb weavers as he did. Another three had to be wiped off his face before a voice asked who was there. It took some negotiation before the villagers opened the way, and Viv finally breathed a sigh of relief when they finally entered the well-lit home. It was too hot, it stank, but right now it was relatively spiderless and that was all she could hope for.
+
+The villagers had stopped the spiders from getting in by guarding the doors and windows with their shoes out, which explained the smushed stains and the general feet smell. They welcomed the news that they were besieged by dark forces with consternation, but they rejoiced once the alderman sold them Viv as some sort of grand secret archmage and the group left everyone in prayer while they retired upstairs. The alderman distributed some infusion from a sealed container and Viv only checked it once for spiders before she took a sip. it was warm and reinvigorating with a slightly bitter aftertaste.
+
+“Please tell me what happened to Lildy,” the man politely asked.
+
+Viv recounted the discovery and arson, leading to quite a few curses.
+
+“That Leria has lost it, curse the day her mother gave her life. She has always been a bitch, but I didn’t think she would be a murderer too.”
+
+//Tell me about her.
+
+“Solfis? You? Profiling?”
+
+//I now have to conduct the assassination of a godly vessel.
+
+//Some research is required.
+
+//Octas servants are tricky.
+
+//This one’s profile is suboptimal, which will help us.
+
+“What do you mean?”
+
+//The most effective servants of Octas are violent criminals, typically murderers and arsonists.
+
+//People who revel in violence and destruction.
+
+“That’s not Leria at all,” Romus said. He passed a hand through his trimmed beard.
+
+“She’s arrogant, impatient. She never belonged here. Resented everyone but preferred insults over genuine attacks.”
+
+“Kordek bought a lot of land. He would have become rich in ten years if things had gone well. Could have retired to Losserec-on-the-Lake and lived comfortably until he died fat and white of hair,” the alderman explained.
+
+It sounded like a life goal. Losserec was the capital city of Northern Enoria. The lake was Lake Hydon, a large freshwater body, Viv remembered from her map. They would reach it if everything went well.
+
+“Leria thought she was some sort of great lady. Kordek had to hire old Griswel to take care of things around the house because his missus wouldn’t,” Ardek added, then he blushed when the two older adults glared.
+
+“Apologies milady,” the alderman continued. “We don’t got good manners here, hope you forgive us.”
+
+“That’s fine, but you were saying?”
+
+“Right. Leria was cross about living here. She is the youngest daughter of a rich merchant. Kordek invested the money wisely but she could not wait to get back her living standards.”
+
+“She has a high opinion of herself,” Romus added.
+
+“Not dumb but thinks she’s Sardanal’s gift to mankind. Prettiest and smartest person who knows best on everything all the time,” the alderman added.
+
+“Oh so it’s multiversal then.”
+
+“What?”
+
+“Nothing. Alright Solis, how does this help.”
+
+//Impatience.
+
+//As I mentioned, Leria’s profile is suboptimal.
+
+//The Spider Queen’s gift would have taken over quite quickly, they still may.
+
+//Leria succumbed because she could not wait.
+
+//We must exploit this specific flaw.
+
+//Force her to attack.
+
+“Wouldn’t she attack no matter what?”
+
+//Heralds typically ambush and harass their prey, sacrificing a great many monsters and beasts to wear them down.
+
+//They will attack without stopping and finish with one last assault.
+
+//They do this strategy every time.
+
+//Because… it works.
+
+//Octas can control and direct many monsters, especially spiders.
+
+//That makes her the most dangerous dark god.
+
+“Why did you even settle near a colony then?” Viv asked the alderman.
+
+“There are many colonies, milady. Especially near the edge of the forest. It’s inevitable. And before you ask, no we could not burn it down. We only have a handful of people who could face forest spiders and live.”
+
+//It is safer to ignore a colony and risk an attack than engaging and getting one.
+
+//At least for the subjects of a backward, uncaring government.
+
+“Ok whatever it’s too late anyway. So, to summarize, we face a herald who has access to lots of monsters, lots of spiders, and will throw them at us until she attacks with all she has. Correct?”
+
+//Indeed.
+
+Only Solfis nodded. Everyone else looked stunned or desperate. Even the unshakable Marruk stared at the pockmarked door between them, probably wondering if she should have cut and run after the prince affair. Viv could not really blame the poor thing. She was probably just staying out of a sense of duty.
+
+“Alright, so we need to annoy her into attacking sooner. How should we do that?”
+
+//By resisting.
+
+“Vague.”
+
+//You are the one with the flexible mind, Your Grace.
+
+“Fair. So what can we expect that we would have to resist?”
+
+//Regular attacks and insects making a nuisance of themselves.
+
+//The purpose will be to prevent you from sleeping.
+
+//I will help with this.
+
+//Although it will be extremely energy-intensive.
+
+“We were supposed to keep your energy reserve high for emergencies.
+
+//This is an emergency.
+
+//My apologies, your Grace.
+
+//I advised this course of action.
+
+“Ah whatever, with how things have been going, we would have been caught in the open by the spiders and then got lost in the Deadshield Woods anyway. So, how about fortifications?”
+
+//We could not hold them.
+
+“How about a circle then? To help against the inevitable assault.”
+
+//That would be helpful, yes.
+
+“We could act as sentries?” Romus suggested. He looked really eager to help.
+
+//Anyone who stands outside is dead meat.
+
+//Even Marruk would have trouble.
+
+//You fleshbags would just become spider food.
+
+“They can guard the inside and keep the two houses spider free?”
+
+//This would help with a restful sleep.
+
+//I will patrol tonight.
+
+//But someone needs to stay in your room to make sure that no red hivers come to visit.
+
+“What’s a red hiver anyway?”
+
+//Their bites destroy the victim’s nervous system.
+
+//Following which they will lay their eggs inside of the paralized creature’s abdomen.
+
+//It is unclear if the incubator dies from exposure, choking, or being eaten alive first.
+
+“I regret asking.”
+
+“I, well, we can ask the women, but I got vigilance,” Romus explained.
+
+Silence spread across the room and Viv got the distinct impression that the man’s offer was inappropriate. At least, the other villagers’ horrified faces seemed to indicate it.
+
+//As shocking as the idea of a commoner looking over the sleeping heiress is, I agree.
+
+//We must sacrifice propriety for safety.
+
+//Romus knows better than to try anything.
+
+//Do you not, fleshbag?
+
+“I would never get out of line with our savior!” The man exclaimed, crimson.
+
+Viv decided that she had a good feeling about the lad.
+
+“Fine by me. We can alternate with Marruk.”
+
+“I need to sleep as well. You’ll need someone to cover your back.”
+
+“Alright then, we have the beginning of a plan. Solfis is night shift, Marruk and I are day shift. The villagers keep the two houses spider-free and safe. We set up a circle and use it as a base to defend against the final assault. Anything else?”
+
+She-Who-Feasts-On-Squirrels-And-Gets-Much-Gold takes day shift too!
+
+“Oh yes, thank you.”
+
+Becomes She-Who-Feasts-On-Spiders.
+
+“Please gods no.”
+
+Tasty!
+
+Eight times tasty!
+
+“Oh no.”
+
+Legs eight times tasty too! Less squishy.
+
+“OH NO! Seriously, is everyone here eating spiders!?”
+
+Viv felt the room.
+
+“Forget I asked. Enough of this, bring me food and let me sleep.”
+
+Solfis left to hunt by night, which worried Viv. Not that anything could take down the old bastard, but more about energy reserves. Recharging him by hand was time-consuming and extremely inefficient. She could not be expected to fight and do it at the same time, which meant that they were on a timer, kind of.
+
+The villager’s hospitality proved to be much better than Viv expected. The alderman left her his room and gave Marruk a guest bed. A couple of craftsmen came and caulked the windows shut with resin, which gave Viv flammable ideas. The food she got was simple but earthy: freshly made bread that tasted of pine nuts, a porridge with bits of meat and spring greens, and a quarter of fruit in syrup. They also had a herbal infusion that was slightly bitter and reminded her of green tea. It had a calming effect. Eventually, Romus knocked and moved in.
+
+Viv studied him a bit. He was rather handsome in a forrester kind of way, like the second wheel in a B-series romance. She didn’t like much that he was so subdued, with his back stooped and his eyes downcast. She understood where it came from though.
+
+Viv had made sure she was relatively approachable in Kazar, and still people saluted her with reverence. She lived in a feudal society now, one that was not just backed by cultural norms and having food diverted to the nobility but by actual paths on top of it. Even the most hard-working militiaman would struggle to beat a knight to a standstill. Their path diverted the world’s magic to survivability while knights were the expensive high-impact profile, she thought. The Enorians seemed to have a true class consciousness. With this in mind, it was no wonder the poor villager felt so out of sorts. He was the gardener standing in the Victorian lady’s boudoir. Absolutely scandalous.
+
+“Can I have some water to clean myself or is it too impractical?” She finally asked. They had rationed water so she hadn’t bathed properly in three days and it was getting more than a little uncomfortable.
+
+“I can have a bath drawn, milady. We have an underground cistern.”
+
+“Would that be fine?”
+
+“Anything for you, milady.”
+
+“Then yes. I’d love a bath.”
+
+Fuck it, she could die tomorrow eaten alive by spiders. Gotta live a little.
+
+The tall veteran left and returned with an actual tub, property of the alderman, it seemed. Viv was not really surprised. As far as she could tell, Enorians were pretty clean overall. Polite villagers succeeded each other bringing buckets of water and drapes to use as partitions. A few used red mana to heat the bath until it was lukewarm which was fine enough for Viv. The witch disrobed out of sight and the girls took her skinsuit and robe to wash. The bath was cool but blessedly clean, and she felt alive again. Meanwhile, Romus waited on the other side in embarrassed silence.
+
+Now that Viv was clean, safe, and relaxed, she considered her options.
+
+“Are you married, Romus?”
+
+“Yes, milady.”
+
+Well that was that. She might have entertained the thought of something if he had been single but she wasn’t going to wreck the house. From Romus’ sweaty face, it was clear that he was terrified. She decided to deflect before the poor lad got an aneurysm.
+
+“That’s good, family is important.”
+
+“Yes, milady.”
+
+Still sweating. She had to remind herself that he might not be the most receptive to subtexts.
+
+“I’m not going to ask you to do anything for me, if that’s what you’re afraid of.”
+
+“Of course not, milady. I would never think that, that is to say, I would not dare think I am worthy.”
+
+The relief was palpable. Viv felt guilty now. Worst thing is, he probably would have tried to pleasure her if she had requested it. She chased that idea away from her thoughts, disgusted at herself for even thinking it. The influence that came with power scared her. It felt too unchecked to her modern mind.
+
+“But I do know how to massage feet, milady. I was taught by a lady from Vizim while I was serving on the wall. If it pleases you!”
+
+Viv glared suspiciously, yet on Romus’ face she saw nothing but the scared, guileless expression of a man out of his depth and unsure of how to be helpful.
+
+“Just the feet?”
+
+“That is all I was taught milady. She was an exiled mage, enjoyed having men serve her but she would only lie with women. Strange customs, haha.”
+
+“Indeed…”
+
+“She, ah, requested aides. I was one of those she taught. Really strange person but amazingly powerful mage.”
+
+“Well, you can tell me about it while you massage me, it sounds like an interesting story.”
+
+The veteran looked at his own hands but Viv interrupted him before disaster could ensue.
+
+“Do NOT spit on them, use oil from my bag instead. There. Good. Now what is this about a wall?”
+
+Romus worked on her feet from ankle to toes with a level of expertise a professional spa would have trouble matching. Viv was sure he had a skill. He never hesitated in his gestures, and as he moved, his voice grew more assured.
+
+“It’s the northern wall, the most recent of all. Have you heard about it?”
+
+“Varska, that is, my mentor mentioned it but only in passing.”
+
+“Helockian? Sorry, not my business. Ahem, yes three walls. The Deadlands one, the Hallurian one, and the Northern wall. So the Deadland walls is mostly the temple and the Hallurian one is manned by Baranese troops, but the last one’s the most recent and it’s a bit of a mixed bag. Foes are beastling armies and monsters. Folks from everywhere come to man it. My brigade and I were ‘volunteered’ there in exchange for Maradoc-knows-what. We were assigned this exiled Vizim princess. Must have lost one of their complicated power games. Weird people, those Vizimans. From across the sea. Like you, probably.”
+
+“How long did you stay on the wall?”
+
+“Five years. I became a veteran there and met my wife in Glastia, the frontier city. The wall separates the Northern cities plains from both the Kark steppes and the dense forests. No longer the Deadshield woods, you see? Those are warm, wet forests. Can’t breathe properly in there. You step in and you’re soaked.”
+
+Sounded like jungles to Viv. She let Romus patter on, the sound strangely soothing. Once started, the man never stopped. He had seen plenty of beastlings, including shamans climbing the walls with their hordes of followers and monsters. From her perspective, beastling battles had been seen from above and been more of a game of chess. Prioritize the right target, time spells, and everything would be fine. From his perspective though, it was a brutal and merciless business. It stank, it was bloody, and although each beastling was no match for even a recruit, there were so many of them. Add to this that even the shittiest mending potion cost three months wages and every stone throw, every bite could lead to disaster.
+
+“And they scream when they die. It sounds like children, you know? Just like them…”
+
+Viv only heard the cacophony of battle and the roars of mighty spells. It could have been her if circumstances had been slightly different and she had been less gifted with magic. Or perhaps not. Perhaps she would have turned into a revenant within an hour in the ruins of Harrak, puking black blood until her last whisper in that throne room. Cold, naked, and alone.
+
+“One night, we lost the entire outer perimeter in one battle.”
+
+Viv pushed the ‘what ifs’ away from her mind before they could ruin the mood. Once Romus was done, he took position in a corner of the room and watched on. Outside, there were spiders but here it was warm and comfortable. The house smelled vaguely of pine and old wood. Arthur came to cuddle and she fell asleep in a bed for the first time since her flight from Koltis.
+
+The morning brought a hearty breakfast among tired villagers. She had decided to join them and got the honored guest treatment. The children had taken to smushing spiders with great enthusiasm and there was a growing pile of chitinous corpses by the entrance, which was kept clear at all times. As soon as she was ready, Viv placed herself firmly in front of the door and pushed.
+
+In vain, the thing was stuck. She watched with horror as white threads blocked the opening. Then, suddenly, the door opened wide with a sound like a torn shirt. Solfis appeared in all his glory. He looked undamaged.
+
+Behind him, the town square was filled with vertical branches stuck in the ground, now bearing at least a dozen severed arachnid heads. Some of the grisly trophies were the size of bowling balls. They still dripped transparent ichor. A neat stack of legs rose to her waist.
+
+Immediately, more tiny spiders crawled in, beaten back by shoe-wielding kids screaming warcries. Viv was too distracted by the rest of the sight, however. From roof to wall then from wall to wells and crates, every piece of wood, every open space, all of it was covered in a dense, white layer of webs so it felt that every inch of village was enshrouded. Not a single spot of color remained besides Solfis’ eyes and his victims.
+
+“Oh fuck that. Fuck. That. ARTHUR!”
+
+“Squee!”
+
+“Please do not burn the village, milady!” Someone yelled behind, but Viv’s mind was taken over by the burning fires of purification. The village, nay, the entire forest must be purged of this evil.
+
+Arthur spit the tiniest flame and it made an expanding hole in the cottonous webbing. In fact, it did not stop expanding, like a droplet of oil expanding over a watery surface. Viv found the show aesthetically pleasing. Arthur thought the same because she spat a bit more. Not much, just a few embers to jump start the process.In a matter of seconds, the unholy layer was peeled off to reveal green grass and brown dirt underneath. It was neat.
+
+“Yes, yes, disappear! Haaaahahahaha!”
+
+//Your Grace.
+
+“Oh sorry, got carried away. What’s going on?”
+
+//You must take over the defense of the base.
+
+//Although we cannot hold the village, the spell circle and houses must be kept clear.
+
+//I prepared a suitable position.
+
+“The one surrounded by forest spiders heads?
+
+//Precisely.
+
+//But there are stragglers that will undoubtedly stop your efforts.
+
+//I will enter passive mode to conserve energy.
+
+//I will be able to direct your efforts.
+
+“I’ll handle the stragglers,” Marruk said as she left in turn, shouldering her flanged mace.
+
+//Follow my prompts.
+
+They went to work with the peculiar smell of burning spider nests in the background. Sometimes, the expanding flame revealed a ball of spiders which then proceeded to scramble and disperse. Arthur treated the whole experience like an open buffet, to Viv’s unending disgust. It was like that Lion King scene all over again.
+
+Viv did her best to make a circle on the unequal ground. It was made more difficult by the many spiders moving around. Her cloak spell protected her feet and therefore the rest of her, but the vermin went for her hand every time she bent down.
+
+“Would you need help?”
+
+Viv looked up to see Romus and the hunter, looking around with their bows out.
+
+“Well. Maybe? Can you set a fire around the circle to prevent the spiders from coming? Maybe with that resin you mentioned? I need spiders off my back. And do you have anyone who can manipulate earth?”
+
+It only took two minutes for half of the village to come out, everyone dancing to squish the odd spider. The villagers had been unknowns to Viv, barely a parameter she had to take into account. She had seen very little of them, but now they came to help with a level of coordination and motivation she found inspiring. Under the alderman’s direction, men and women flattened the circle of packed earth using basic magic while teenagers rushed from grass tuft to grass tuft, pulling them out with practiced speed. She ended up with a perfect circle so smooth a road roller could not have done better. A circle of flaming resin came after, then again after that, the villagers were digging a trench they intended to fill with embers. Fires were started. The children were keeping an eye out for larger or weirder spiders just in case. Things were moving fast.
+
+Viv was done with the outer shield layer when the unexpected happened. So far, Marruk and Arthur had been going over the village, methodically killing the larger things that had crept in and that the golem had not considered worth the energy expense. Suddenly, Arthur let out a terrified shriek and fell down. Something glued her wings shut. She crashed on the ground with a piteous shriek.
+
+“Oh no you don’t” Viv screamed. Already Marruk had rushed over the captive dragonette who appeared to have no wounds except the one on her pride.
+
+//We have incoming, Your Grace.
+
+Viv raced forward. She could hear the heavy thuds announcing the approach of something ponderous, but she was finally free of her constant disgust and fear. It had been replaced by an old and comfortable companion: white hot rage.

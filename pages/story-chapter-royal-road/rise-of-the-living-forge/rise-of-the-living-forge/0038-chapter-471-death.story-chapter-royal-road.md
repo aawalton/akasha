@@ -1,0 +1,139 @@
+---
+id: 3dd3d7c1-bb08-5806-a4f9-e1d6aa1345d5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 471: Death"
+slug: 0038-chapter-471-death
+partOf: rise-of-the-living-forge
+position: 38
+ownLength: 1986
+unit: words
+ownProgress: 1986
+publishedAt: 2025-08-11
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2509764/chapter-471-death"
+royalRoadId: "2509764"
+markedReadAt: "2026-06-29T19:59:40.458Z"
+---
+
+A large part of Arwin hated this plan. Though, calling it a plan was a bit of a stretch. There were so many things happening at once that it would have been more accurate to say plans.
+
+Reya was trying to secure more funding and interest from the nobles. Rodrick was investigating the Blacktongues to see if he could discover anything about their connection to the Adventurer’s Guild and why Mask had been invited to the party. Lillia was keeping an eye on everything to lend her assistance to any of the various moving pieces in preparation for when something inevitably went wrong. Esmerelda - well, she was Esmerelda. She always did her own thing. It would probably end up being beneficial in the end.
+
+Probably.
+
+And, finally, Vanessa was drawing attention to herself while Arwin sat on the sidelines in wait for Mask. The self-proclaimed Thug didn’t actually know why the Menagerie wanted her to terrorize Drake’s party. She was more than happy to do it. All things considered, Arwin suspected that she’d probably have done it for free if they hadn’t offered to pay her as well.
+
+But either way, she was damn good at her job. The party had already become a bit of a mess after Thane had defeated Drake in the duel. Now it was devolving even further. Vanessa really did have a way of terrorizing people with her sheer presence.
+
+Maybe we should have looked into hiring a Thug way earlier. I never knew they were this versatile.
+
+A small grin twitched at the corners of Arwin’s lips, but he banished it before it could take proper root. His task was the most important of all the ones the Menagerie had today. This was their chance to finally get insight into the Adventurer’s Guild. To see what the hell it was that they were really aiming for.
+
+If they’re here, at this party, then there has to be a reason. I refuse to believe Mask would just be making social trips.
+
+Normally, picking a lone man out of a crowd like this one would have been impossible. But that was why Vanessa was here. For all the attention she drew, there was one person that was almost certain to have absolutely no desire to be anywhere near her or Thane.
+
+Drake.
+
+He stood, surrounded by a small ring of his closest noble allies, and did their absolute best to pretend that absolutely nothing had gone wrong. There was a tall man alongside Drake that Arwin suspected to be the boy’s father.
+
+If he was honest, he really didn’t care. The Blacktongues themselves didn’t matter. He’d already gotten his hands on the most interesting member of their family. But something told Arwin that Mask wouldn’t see things similarly.
+
+Mask’s previous target had been Hein. A bitter, jealous man who had hated his brother because of his success. That general motif seemed to suit the type of person that would be interested in accepting an offer of a cursed weapon that stole people’s magic.
+
+I’m willing to bet that he was here for Thane. Logic would state that a scorned second son of a noble family, one tossed to the side for the sake of his brother… that’s the kind of person who would take Mask up on a deal.
+
+I wish I had more time to talk to Thane and see if Mask had already approached him. There just wasn’t an opportunity to ask without being spotted. I don’t think Mask managed to get to him in time. And now I doubt he’ll bother with Thane.
+
+After all, Thane had won. There was a new scorned brother. One who was much more likely to take Mask up on any offers he might have had.
+
+So, while Vanessa drew more attention to herself and away from Drake’s group, Arwin stood off to the side and watched them out of the corners of his eye as he pretended to sip from a glass of wine.
+
+I don’t even have much to go off. Just the very basic description that I got from Kien. I don’t know how I’m meant to find someone that looks perfectly normal, but I guess I’ll start by seeing if I can find anyone…
+
+Arwin’s thoughts sputtered off as he caught a glimpse of a man working his way through the crowd. His clothes weren’t exactly out of place for the party, but they weren’t quite right for it either. The silks were fine, but not overly so. He was of an average build and height, with nothing in particularly interesting about him at all.
+
+No family crest. No fancy shiny objects dangling from his ears, wrists, or neck. It was just a man.
+
+Arwin set his glass of wine down and set off without another second of hesitation. It seemed his efforts had been rewarded.
+
+He made absolutely no move to try and conceal his approach. There were enough people milling through the crowd to cover his approach — and he wasn’t the most subtle of people anyway. That had never been his specialty.
+
+The shadows were Rodrick’s domain, not his.
+
+He strode right for the plain-looking man, cutting through the crowd like a hot knife through butter and arriving at the man’s side well before he could make it to Drake’s group. Arwin’s hand fell on the man’s shoulder.
+
+I need to find out if this is actually Mask or not. If it isn’t, I need to get my eyes back on Drake as soon as I can. If our guess was right about the Guild trying to make more people like Hein, then I don’t want them getting anywhere near Drake.
+
+“Hope I’m not being too bothersome,” Arwin said. “But I was hoping we might have a chat.”
+
+The man turned toward him. His face, just like the rest of him, looked remarkably… average. There was absolutely nothing of interest within his brown eyes. The man may as well have been a distant memory.
+
+But, as his eyes landed on Arwin, a small smile pulled at the corners of his lips.
+
+“Well, I’m honored,” the man said. “If it isn’t Ifrit himself. I’m honored to be in your direct presence. I didn’t think you would be wandering around and mingling. You never struck me as the type.”
+
+“I’m not,” Arwin said simply. “But you caught my eye. It’s not every day that I see someone that looks like a normal human in a party like this. It seems you forgot your rings and adornments at home.”
+
+The man’s smile grew wider. “I really don’t have any interest in anything like that. Attention isn’t my thing. It’s quite the hassle. I suppose you don’t have that luxury, do you? Always the center of attention, aren’t you?”
+
+“Not willingly. It’s just part of the trade. I need customers, after all,” Arwin said, measuring the man’s responses carefully. Something was subtly… off about him. The way he spoke almost felt like there was nothing behind his eyes at all. Just an empty, hollow shell.
+
+“Of course, of course.” The man inclined his head. “So what brings you to an uninteresting man such as myself? I can’t imagine I could possibly hold much interest to you, and I’m unfortunately a rather busy individual. Always much to be done and never enough time.”
+
+“Then I’ll cut to the chase,” Arwin said quietly. “You’re Mask.”
+
+The man’s smile grew wider. “You know me? Now I’m really honored. Why, it almost feels like you were looking for me. Whatever for?”
+
+Arwin’s stomach tightened. He made sure to keep his expression impassive, but a large part of him wanted to slam the man’s head between his hands and be done with it. He couldn’t deviate from their plan. There was no way Mask would be completely unprotected.
+
+“I think you know that,” Arwin replied. “That was a real piece of work you gave Hein, Mask.”
+
+“It was, wasn’t it?” Mask clicked his tongue. “It’s unfortunate that its creator turned his back on the world. What a waste. No matter. We move on. That is our duty as humans, is it not? To persist.”
+
+“Not how I’d put it,” Arwin said. “I’d say our duty is to live.”
+
+“Same thing, is it not?”
+
+“No,” Arwin said. “It is not. Not in the slightest. What are you doing here, Mask?”
+
+“A straightforward question,” Mask said. He tilted his head to the side. “But I think you already know, given your timing. I’m here to deliver a gift to the son of the Blacktongues. It’s a sixteenth birthday, after all. A good time for him to become a man.”
+
+He didn’t say which one. I know Mask’s type. Smug bastard. He’s like Jessen. He wants to use the truth as much as possible so he can mask his lies with it… though something tells me he won’t stick to those rules nearly as much as Jessen did.
+
+“That’s it?” Arwin asked, arching an eyebrow. “You’re just here to deliver a dagger?”
+
+“I never said it was a dagger,” Mask said.
+
+“You didn’t need to,” Arwin said. “Or am I wrong?”
+
+Mask let out a small laugh. “I never said you were. Don’t tell me you have issue with that. It is expected to deliver a gift to a boy as he comes of age, you know.”
+
+“I think we both know the answer to that,” Arwin said. “What are you after, Mask? The real goal. Not the little steps.”
+
+“Do people usually answer that question?” Mask blinked. “Surely it’s never worked.”
+
+“Wouldn’t know. Haven’t tried before. But you’re with the Adventurer’s Guild. Don’t you have the world’s best interests at heart? I don’t see why the question would be an issue.”
+
+The grin returned to Mask’s face. “Right enough. I suppose I shouldn’t complain. I do love a straightforward man. We’re doing what we’ve always been doing. Saving the world.”
+
+“You expect me to believe that?”
+
+“You asked,” Mask replied. “I don’t see what’s so difficult to understand about it. There might be a few sacrifices, but that’s the way life works. Nothing great comes without cost. Come now. You should understand that more than most. Now, I must request you step out of my way. I have a gift to deliver… unless you plan to assault me in front of all these witnesses? I’m no minor noble, Ifrit. We both know that. Hindering me without cause will go very poorly.”
+
+“Without cause being the key word here,” Arwin said.
+
+Mask smiled. “This should be good. Go on, then.”
+
+He knows what I’m going to do. Hell, he wants me to do it, huh? Unless he’s bluffing, this was either part of his plan or accounted for.
+
+Suppose we’ll see whose plan is better, then.
+
+“I accuse you of treason against not only the Adventurer’s Guild, but the entire Kingdom of Lian,” Arwin said, raising his voice so its echo couldn’t be missed by anyone within the crowd around them. “You are a tool of the Monster Horde and the Demon Queen. For the sake of Lian, I challenge you, Mask. To the death.”
+
+Mask smiled. Delight glinted in his eyes as he reached into his robes. From within them, he pulled free a dagger. It was different from the one Necrohammer had made, but there was no mistaking the weapon. A knot formed in Arwin’s stomach.
+
+So the Guild really does have more of them. Has Mask used it? How powerful is he?
+
+Suppose there’s only one way to find out.
+
+“You are a liar, Ifrit,” Mask said as murmurs rolled through the crowd and everyone hurriedly backed away from them. Mask pointed his dagger at Arwin. “It is you who are a tool of the Monster Horde. I accept your challenge. For the sake of the Kingdom of Lian, I will put you to death.”

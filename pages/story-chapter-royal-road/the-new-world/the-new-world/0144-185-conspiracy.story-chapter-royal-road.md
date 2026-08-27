@@ -1,0 +1,175 @@
+---
+id: c6467076-8f42-5009-9b1f-7f68695f81db
+page-type-slug: story-chapter-royal-road
+title: "185 Conspiracy"
+slug: 0144-185-conspiracy
+partOf: the-new-world
+position: 144
+ownLength: 2137
+unit: words
+ownProgress: 2137
+publishedAt: 2019-02-19
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/335766/185-conspiracy"
+royalRoadId: "335766"
+markedReadAt: "2026-06-29T21:25:44.030Z"
+---
+
+The implications of that single fact defied belief. Someone with advanced tech set up shop in the middle of an eldritch dungeon in the middle of silver territory. This was a classified area, and they destroyed it to hide something from someone. Either that or the Hybrid cleaned them out. I couldn't be sure.
+
+Before I made any more assumptions, I inspected the rest of the room. As I did, I pulled out my obelisk and recorded footage of the area. Little else remained here outside of the stray flask of purple sludge. At the same time, the broken machinery offered me a few clues.
+
+For starters, someone with resources made the electronics. It required advanced tech and the ability to create the parts. The metal plates lacked any welding marks as well, meaning someone manufactured the parts with molds. In other words, whoever made this lab could've set more of them in other places.
+
+The torn wires were also excellent quality. They used glass fiber optics lined with some kind of heavy metal. I tore off a piece, putting it away in storage along with a few vials. It threw me off since Schema handled most information transfer through obelisks. It took a lot of effort to make infrastructure, especially when Schema gave it away for free.
+
+All these points painted the picture that someone with a lot of resources was running these experiments. My mind raced with possibilities, but I figured an outside perspective would help out. With several samples, footage, and Althea in tow, I walked out of the room and into the cave.
+
+I cleared out the rest of the harvesters, culling the population. After scouring the cavern, I reached a pool of water with glowing fauna in it. Intent on exploring, I dived in, keeping Althea dry and safe. Passing under a tunnel, I identified a few wires on the side of the wall. Using them as a guide, I wove through the twisting, underwater pit before passing up into a tunnel full of the glowing moss.
+
+The cavern's rough, bumpy walls and ceiling led to a flat floor. Someone dusted off the tread marks from vehicles driving here. I sprinted through the tunnel, enjoying the burst of speed as I did so. I leaped over collapsed bridges and sludge pits, I relished in the wind on my face. If felt good to go fast.
+
+After an hour of running, I reached the end of the tunnel. I slipped by a wall of tree roots, upturning a pile of leaves and branches. Around me, flowing water and trees flowed in the wind. Althea and I were in the middle a Giessian forest.
+
+The trees looked normal besides for a dirt road leading here. At first glance, this place looked like an abandoned logging site or something like it. I walked up to a few of the trees and banged on the bark. They rang with a hollow clunk, nothing inside the trees cores.
+
+With that in mind, I pushed my hand through one of the trees. Inside of it, there was nothing. I tore more of the tree's exterior, revealing singe marks on the inside. They burned the cores from the trees. I jumped into the hollowed tree, finding snapped cables on the bottom of the tree.
+
+It was cleaned to a T, everything spotless. I narrowed my eyes, searching even closer. Along the edge of one of the wires, a tiny chip of some gemstone glittered. It was as small as sand, but as I channeled mana into it, the jewel stored some of my energy.
+
+I pulled out a gemstone from my dimensional storage and connected it to the sheered wires. Using the gem as a conductor, I charged mana into the cable. Around me, the tree trembled as my mana flowing into it. The bark darkened, and the roots ran wild. The tree wasn't prepared for a rush of my mana. Few things were.
+
+My experiment was for a purpose, however. Hollowed trees wither and die, yet these empty shells stayed alive and vibrant. If I guessed right, it was because someone channeled mana into the trees. With the living trees, these guys hid their supplies.
+
+I pocketed my spare crystal, the portal to my storage rippling as I flicked the gem in. After closing it, I created a reminder in my obelisk about this process. With my status already opened, I ran down the dirt road while checking my status. I could kill two birds with one stone.
+
+With that in mind, I surfed through the sweet status gains. I ended up gaining 411 levels from the massive creature. I dumped all my points into endurance, pressing the finalize button without missing a beat. As always, mana roared in my veins like an engine full of fuel. As I gripped my hands, a measure of strength flooded my body.
+
+Midway through running, I appreciated the boost in speed. I tried to hold onto the addictive, euphoric sensation of vigor. This was my final big boost from a status screen until I unlocked my class. After a few minutes, the feeling faded as I adjusted to my new limits.
+
+My status handled, I opened my character screen and inspected the stats.
+
+Dimension-C138(Lvl 7,998)
+
+Strength – 7,910 | Constitution – 13,762 | Endurance – 58,758
+
+Dexterity – 3,350 | Willpower – 31,628 | Intelligence – 11,673
+
+Charisma – 2,154 | Luck – 4,647 | Perception – 4,599
+
+Health: 12.96 Million/12.96 Million | Health Regen: 39.47 Million/min or 657,772/sec
+
+Stamina: 8.40 Million/ 8.40 Million | Stamina Regen: 121,106/sec
+
+Living Dimension: 1.71 Trillion/4.30 Trillion
+
+Mass: 817,371 pounds(371,532 kilos~)
+
+Height: Actual -13'1(3.98 meters) | Current - 13'1
+
+Damage Res - 98.5% | Dimensional Res - 49.25%
+
+Phys Dam Bonus – 968,581% | Damage Bonus – 40%
+
+Event Horizon – 20,000 + (100% of your total health)/min
+
+My perception came along nicely, my cipher runes propping the stat up. As always, my endurance defied belief. My willpower and intelligence mirrored this ridiculous overflow, being high stats without investment. I gained a jump in Living Dimension too, though it was still a long time coming before I evolved my armor again.
+
+It might rise faster than I imagined if I fought the right enemies. From here on out though, I relied on skills and the cipher to keep progressing. It wasn't too disappointing though. My foundation for skills and the cipher was excellent, my mana regen fueling any changes I made. My progress would slow regardless.
+
+I turned back to Althea. Her progress wouldn't slow down at all. She was level 6,711. Somehow I managed to outlevel her this time, probably from all the silvers I killed on the way to the Hrybrid. She'd pass me in level if I didn't get a class soon though. After the last big battle, I doubted that her level mattered much.
+
+If she exceeded me in that regard, my other bonuses more than compensated for the difference. My mentality for fighting was better too. In a sense, my strength was a sword and my health a shield. I'd never stop sharpening or shining either of them, so I would never fall behind. Focusing on a few social skills wouldn't hurt anything either.
+
+With my intentions clear, I raced through the Gessian forest with one of the Skyburner camps destroyed. After running past the woodlands and up the mountainside, I crossed the cloud line and reached Rivaria. Before I swung into the town, I put on another gray suit of armor from Torix. My identity still needed to be hidden after all.
+
+With Althea floating behind me, I landed in the Hall of Heroes. As I jogged up to my door room, Malakai grinned with his grizzled old mug,
+
+"It's good to see you return, warrior. I see your companion is...ahem, unconscious?"
+
+I shook my head, "She's asleep. I'll be setting her in bed."
+
+Malakai's eyes glazed over, and he looked away. I frowned, "You alright?"
+
+He paused, unable to speak. After a few seconds, the gialgathen sneezed, some snot splattering on a nearby stone. The sound of the sneeze echoed far into the cavern, and Althea snapped awake.
+
+"Wait, what happened? Where am I?"
+
+I walked up, grabbing her in my arms, "The old guy just sneezed. You woke up because it was louder than a cannon going off."
+
+Malakai blushed, the shades of his skin reddening, "Ah, excuse me. I believe I've come down with something. A part of my age perhaps."
+
+Althea giggled, "You're alright." She rubbed her eyes, "I'm so tired."
+
+I smiled, "Let's get you to bed."
+
+We walked into our room, Torix scanning through a variety of papers that his students made. He sighed,
+
+"As always, they're a rather drab read. I don't understand why students don't spruce their papers up with something...controversial."
+
+He closed his status and stretched, "Ah, it's good to see I've new company."
+
+I gave him a curt nod, "She's tired. After that, we need to talk."
+
+Torix crossed his arms, "Sounds rather serious."
+
+I nodded, "It is."
+
+With Althea in tow, I walked into our bedroom and set her down on the blanketed bed. I warmed the room before pulling the covers over her. Peeling my helmet back, I kissed her cheek. Before I lifted my head, Althea grabbed my cheek and met my eye,
+
+"Hey."
+
+I raised an eyebrow, "What's wrong?"
+
+She frowned, "I might've pushed a bit too hard with the whole training thing. Your training is why we stopped the Hybrid."
+
+I pulled a strand of her lavender hair behind her ear, "You were right. I don't think a couple hours a week talking to other people would've made the difference against that guy. Besides, we couldn't have known it would be that damn strong."
+
+Althea shook her head, "But you did know. You knew something was coming, and you were ready. I wasn't."
+
+I scoffed, "How about this then. I'll train a little less, and you can train a little more. That way we find a balance...If that's possible."
+
+Althea smiled at me, her pearly teeth sticking out in the darkness,
+
+"I guess I could do that...for you."
+
+I kissed her forehead as she closed her eyes. She fell asleep before I left the room. With Althea able to sleep soundly, I walked into Torix's new evil lair. He walked up to me, leaving one of the series of charts on the wall behind. He crossed his arms and looked up at me,
+
+"So what's the damage this time?"
+
+I weighed my hands back and forth, "Oh, there's good news and bad news."
+
+Torix sighed while looking down, "Well at least your venture wasn't boring. Let's begin with the good news perhaps?"
+
+I raised a hand, "So, we found and cleared one of the Skyburner camps."
+
+Torix's blue, fiery eyes flared bright purple instead of their calm blue, "What? How?"
+
+I raised my other hand, "That's the bad news..."
+
+Torix looked down again, pinching the bridge of his bony nose,
+
+"Ah...As always I suppose."
+
+I pulled my obelisk from my armor, and the glassy sphere opened a 3-D hologram of the Skyburner camp. I pointed at it, "An eldritch called the Hybrid ate the Skyburners before we arrived. It was strong, but we managed to kill the damn thing. The problem is this."
+
+I swiped the hologram, showing the lab within the base, "I found a lab with some samples of eldritch and silvers. It's a guess here, but-"
+
+Torix gasped, "They fused the silvers and the eldritch...into a hybrid."
+
+I shook my head, "I know, it sucks, but yeah, they did. Even worse, the parts in the lab were made in molds. That means there are more labs out there."
+
+Torix walked towards the stone couches and sat down, "This is...far worse than I'd feared. To imagine that an organization of magnitude is creating abominations and setting them loose. This is a conspiracy of epic proportion."
+
+I scratched the side of my head, "Yeah, and the shitty part is that these Hybrids are more virulent than either eldritch or silvers."
+
+Torix shook his head and placed a hand on the side of his hood, "These beings break the primary tenants of Schema. Giess isn't the only planet on the line. These creatures could populate and spread across many worlds. Several could land on remote locations on Earth even."
+
+My eyes widened, "Wait...really? It's that bad?"
+
+Torix stood up, "It's far worse. This threat rivals Yawm. We need support before the situation destabilizes. Our team is too small for something of this immensity."
+
+I spread out my arms, "Who can we get to help?"
+
+Torix opened his status, typing in a few messages. As he sent them, he looked up at me,
+
+"The Overseer."

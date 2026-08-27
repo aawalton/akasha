@@ -1,0 +1,155 @@
+---
+id: 377c676c-165a-5e19-9b2c-c526000f66be
+page-type-slug: story-chapter-royal-road
+title: "Chapter 602: Rewards"
+slug: 0023-chapter-602-rewards
+partOf: system-change-system-universe
+position: 23
+ownLength: 2066
+unit: words
+ownProgress: 2066
+publishedAt: 2025-11-12
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2756067/chapter-602-rewards"
+royalRoadId: "2756067"
+markedReadAt: "2026-06-29T19:57:29.082Z"
+---
+
+Chapter 602: Rewards
+
+Derek, along with everyone else, looked over at the group of nine remaining Champions. The Champions looked excited, and why wouldn’t they? They had completely lost the invasion, but it looked as though the system was being very generous today. However, that excitement was stalled by Sereph’s next words.
+
+“Don’t be so excited yet. You did lose,” Sereph said. “Now, first on the list and the Champion with the fewest contributions out of the bunch, the man known as Azureblade.”
+
+At those words, Derek watched as a fully healed Kelvin hung his head. The introduction was more embarrassing than anything else.
+
+“As a Champion who fought for mere minutes and only slightly scorched a single Guardian, you receive… nothing but the base participation rewards that will be given to everyone, no matter their contributions.”
+
+Still better than nothing, Derek thought. His gaze then found Jace’s, who was wearing a devious smile. He certainly was enjoying Kelvin’s plight.
+
+“Next, we have the ones known as The Indomitable, Shield, and Great Ul’oc. Your contributions were on par with each other. Therefore, you will be rewarded with the same rewards as minor contributors.”
+
+The centaur, scaled man, and insect-like system user all seemed to accept their fate. At least it was better than what Kelvin was rewarded.
+
+“Silent Night,” Sereph said, and Briya’s head raised to look at him. Luckily for the cat-like woman, she was now sporting a fully healed arm. “For your bravery in attacking a Stronghold and your participation in the final battle, you will receive the same reward as those who contributed moderately.”
+
+The woman nodded and didn’t say anything.
+
+“Holcom,” Sereph said. “The same is true for you. For your integral part in establishing communications and travel, you will be rewarded the same as Silent Night.”
+
+The small, floating blue guy couldn’t complain. He’d been almost instantly knocked out of the final battle at the very beginning.
+
+“The same rewards will also be given to Trischa, whose support provided a chance—albeit a small one—for the invaders at the end.” Sereph looked over the Champions, and then finally, his eyes landed on Amelia. “Amelia, as one of two Champions to defeat a Guardian and for being the prime Champion in the final battle, you are rewarded with the same choices as Ashley and Ryven—the two major contributors.”
+
+“Thank you,” Amelia said with a bow.
+
+“And finally,” Sereph’s gaze fell onto Jakis. “Jakis, the third-party system governing the invasion has deemed it fit to call you the most valuable of invading Champions. For defeating Big Sparky alone and putting on a decent performance against the Ascending Monarch, you will receive a major contributor reward, a Title, and a choice. Please choose wisely.”
+
+Jakis was all smiles. It seemed that his gamble had paid off.
+
+“Now,” Sereph said again, gathering everyone’s attention back. “For the Guardians. As winners, all Guardians will receive the Defender Title.” Then, he looked over the Guardians until his eyes fell on a woman that Derek didn’t recognize. “Vendra, as the first defeated, but not deceased, Guardian, you will receive a minor contribution on top of the Title.” He looked at the elven woman next. “The same is true for The Queen.”
+
+“Braxi, Sir Brandt, Big Sparky, Osian, Siren’s Second…” Sereph continued. “The four of you will receive rewards for moderate contributions. Braxi, Sir Brandt, Osian, and Siren’s Second will also receive a reward for remaining active during the entire invasion.
+
+“Braxi will receive an extra reward for gravely injuring a Champion, and Big Sparky will receive his own reward from the governing system for his bravery in taking on a Champion—and putting on a modest showing—far above his own rank when he did not have to.”
+
+At first, Edgar looked sad, but when he was singled out, he was ecstatic. Derek couldn’t help but wonder what all the contribution rewards at the end were going to be.
+
+“Old Goblin,” Sereph’s attention turned to Marrick. “First, for remaining active until the end of the invasion, you will be rewarded. You will receive major contribution rewards for your fight against the outlier and your role in the final battle. And, for technically defeating three Champions, including Great Ul’oc, Silent Night, and Trischa, you will be granted an extra Title and a choice.”
+
+“Now… for the outlier,” Sereph said as his attention fell on Jace.
+
+What about me? I’m a Guardian, too, Derek thought, but he had a feeling that he knew why he was being kept for last.
+
+“You will receive a reward for being the first and only non-Champion to defeat a Guardian, as well as for being the first person to defeat a Chosen. However, you will also receive a penalty for defeating two of your own Champions and acting against the Universal System V3’s best interests. The governing system also recognizes your contribution and courage for actively participating in battles, even without the option to be removed from them by the system… and for capturing the…”
+
+Sereph sighed and stopped speaking for a moment. His nonchalant attitude broke for a second. Finally, he said, “You know, there is so much information in this report about you that I’m not going to bother. In the end, with the penalties and rewards, you’re still in the black. The systems will give you whatever they deem fit at the end.”
+
+Jace looked over at Derek and gave him a thumbs-up. Derek smiled back and shook his head. He had no clue what Jace was going to get in the end.
+
+“Finally, Ascending Monarch, please come stand next to me,” Sereph said.
+
+Derek felt put out but still took a short walk to the dais and stood beside Sereph. Since he was there, he went ahead and whispered, “Do you know Dave?”
+
+“Of course,” Sereph replied. “Now, silence.”
+
+“Okay…” Derek said as Silvi stared at the elf with hunger in her eyes. ‘No elf burgers!’ Derek sent to her.
+
+‘He knows Dave. Dave has good food. Wasn’t thinking about elf burgers… until now,’ Silvi sent back.
+
+‘Oh…’ was all Derek could say.
+
+“Now, Ascending Monarch… Derek Hunt,” Sereph began. “You are quite the anomaly. You are a user of both the Davenresh System and Universal System V3, yet you are currently a user of neither. Still, you were given the option to participate and brought glory to the Davenresh System.”
+
+Derek nodded along to what the elf was saying. He was a bit surprised that the elf could and would just blurt out the information about him to everyone. However, it really wasn’t anything he cared to keep secret, so he didn’t mind.
+
+“You—and your bonded companion—have contributed to defeating Amelia, Jakis, Holcom, The Indomitable, and Shield. You are also credited with defending multiple Strongholds and creating the opportunity for the final battle. You were by far the most valuable Guardian during the invasion and, overall, the most valuable system user.
+
+“Because of this, you will be greatly rewarded. However, your reward will be given by the governing system and not the Davenresh System, as you are no longer part of it. But this is good, as the governing system has the ability to grant higher rewards.”
+
+“Thank you,” Derek said.
+
+Finally, Sereph turned his head and spoke quietly, where only Derek and Silvi could hear. “Master Davenresh is going to offer you something later. You will refuse… for your own sake. If you do not, we will have problems.” Suddenly, the elf winced, then said, “I am sorry. You can forget everything I said. Accept or not, it is your decision.”
+
+“I…” Derek started, but was cut off by Sereph speaking to everyone once again.
+
+“This concludes the results of the invasion. Invading users will all be sent back to a safe place where they came from. There, they will be given their rewards. Everyone else will remain here to be rewarded, then sent to a safe place close to where they were. Please enjoy your rewards and choose wisely.”
+
+Then, a bunch of bright lights flashed, and all the invaders disappeared—including Jace. Derek saw the man point at him, then at himself just before he disappeared.
+
+“For everyone else, the Davenresh System thanks you for your help and cooperation during the invasion,” Sereph said. “You do not know the weight of winning the invasion, but I am sure you will all be happy to find out someday.” Then, he snapped his fingers, and light fell over him, and he vanished.
+
+The next thing Derek saw was a notification blinking in the corner of his vision, and he pulled it up. He pulled it up, as did everyone else who still remained.
+
+…
+
+Congratulations!
+
+You have successfully defended the Davenresh System from the invaders from the Universal System V3.
+
+Current status has been processed. You will be rewarded with the following items specific to you:
+
+Universal Title: DefenderUniversal Title: Invasion MVP
+
+Weapon Upgrade TokenNew Skill
+
+5 Skill Upgrade Points (Origin System)250 Free Stat Points (Usable Upon Ascension)
+
+Origin System Store Credits (Obtained Upon Ascension)
+
+…
+
+Derek looked at his rewards and couldn’t help but wonder what everyone else was getting. As far as he knew, most people only received a single reward, and from what Sereph had said, they had to choose which to take. Except for those who were deemed ‘major’ contributors, they were supposedly able to choose two.
+
+However, it looked to him like everything in the notification he’d gotten was his. He didn’t have to choose between upgrade points and stat points. He received both. It didn’t, however, look like he was given a ‘choice’ like Marrick was. He was still very interested in what Sereph meant by that.
+
+Looking over at the Old Goblin, Derek could tell that the old man was flustered. His hand was on the back of his neck, and he was just staring blankly into space. Really… what could it be? He found it quite funny that Marrick was the Guardian—other than himself—who the systems decided contributed the most. But it wasn’t wrong. Technically, Marrick did defeat three Champions. He did fight against the outlier, he was part of the plan, and he was part of the final battle. He hoped the man got something good.
+
+After moving that thought out of his mind, Derek went back to his notifications.
+
+…
+
+Defender: You stood against an invasion from another system and came out on top. This is a feat not many achieve. 15% increase to any defensive abilities. (This includes, but is not limited to, passive resistance skills and active defensive skills.)
+
+…
+
+That’s… not bad at all. It’s not a huge increase for everything, but every little bit helps. If my resistance skills give me thirty percent damage resistance at level 20, then that’s an extra four and a half percent. And that is to all of them. And, with the way it sounds, it may work with skills like Absolute Nullify, too.He looked over at all the Guardians and was happy for them. They would all get the same Title. He then moved on to the next one.
+
+…
+
+Invasion MVP: You were far and away the most valuable system user during the invasion. Very few users in the entire System Universe will ever accomplish this. All Titles received after the Invasion MVP Title will be upgraded.
+
+…
+
+After reading the Title a couple of times, Derek frowned, then was interrupted by a different notification.
+
+…
+
+Universal Title: Defender has been upgraded. Increase to any defensive ability increased from 15% to 20%.
+
+…
+
+Oh…Derek’s eyes widened as he stared at the notification. Does this mean what I think it does? I have, I think… seven or eight Titles waiting for my ascension. Will they be upgraded, or not? I did technically earn them before I got the Title, but I haven’t received them yet. Hmm…he rubbed his chin. I’m going to have to find out some easy Titles to earn once I ascend. I definitely have to make full use of this.
+
+Derek tried to pull the Title up again, but he was unable to. Since it had already been dismissed, and all he had was the Temporary Status, there was no way for him to get back to it. The same was true for the other Title he’d received.
+
+Oh well, he thought. Let’s check out this Weapon Upgrade Token.

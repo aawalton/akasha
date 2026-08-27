@@ -1,0 +1,183 @@
+---
+id: 3dfaf8b0-8fbe-50d3-8b14-ee8e98605eac
+page-type-slug: story-chapter-royal-road
+title: "SIX: Gorgon"
+slug: 0006-six-gorgon
+partOf: super-supportive
+position: 6
+ownLength: 2433
+unit: words
+publishedAt: 2023-02-12
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1111783/six-gorgon"
+royalRoadId: "1111783"
+---
+
+Fifteen minutes later, Alden and his friends arrived at the Artonan consulate building. It was a blocky gray cube of concrete and glass, surrounded by a security fence. A trio of poles out front held the multicolored streamers the aliens used as their planetary flags.
+
+Even in the beginning, there hadn’t really been enough Artonans on Earth to justify functional diplomatic consulates in major cities. And now that Earth-Artonan political relations had been settled for decades, the so-called consulate was mostly a place for registering as a superhuman and taking classes.
+
+The building’s interior was more inviting than the outside. In the lobby, pale terrazzo floors shone under a dark wood ceiling flecked with tiny LED lights that formed a vaguely elliptical pattern.
+
+It was supposed to be a map of important stars in the Artonans’ home galaxy, but it came across as abstract art.
+
+Jeremy, who was turning blue around the edges, had insisted that they stop at a coffee shop on the way, so they all had warm drinks. Alden had yet to develop an appreciation for coffee despite multiple attempts, so he was sipping a cinnamon hot chocolate.
+
+A second one was clutched in his other hand.
+
+“Give me a sec,” he said to his friends. “Gotta make my delivery.”
+
+Jeremy and Bo didn’t answer. They were having an absurdly serious discussion about whether or not the coffee run was counter to the spirit of their dare.
+
+Snow-damp boots squeaking on the polished floor, Alden headed toward the lobby desk. Sitting behind it was one of the only nonhumans in all of Chicago.
+
+He was around five feet tall, with smooth gray skin that reminded Alden of a stingray he’d pet once at the aquarium. He had black eyes like a shark and a wide, flat nose with four slits for nostrils. Alden didn’t think the alien had ears, but it was hard to tell. His head was covered in a couple dozen protrusions that were similar to horns, each about two fingers wide and curving down around his skull to flare outward when they reached the top of his spine. Their sharp points made a sort of spiky protective choker around the backs and sides of his neck.
+
+Most people, following a tradition that was pretty questionable in Alden’s opinion, called the creature a demon. He was a deadly horned being purported to be from a dimension steeped in the dark powers of chaos. But still…
+
+He called himself Gorgon, and Alden went with that. Even though he assumed the name was more of a concession to human vocal cords than anything else.
+
+As usual, Gorgon looked bored out of his strangely-shaped skull. He was chained to the lobby desk by glowing ropes of magic that wound around his arms and legs. Alden hadn’t been able to confirm the details, but rumor had it that Gorgon hadn’t left the lobby of this building since he was installed here by some powerful Artonan he’d tried to disembowel forty years ago.
+
+“Morning, Gorgon,” Alden said, approaching the desk. “Brought you a hot chocolate.”
+
+“No thank you.” Gorgon spoke without looking up from the pair of computer monitors in front of him. His voice was high pitched, with an undertone like the tinkle of breaking glass.
+
+“It’s not dairy. I got you one made with coconut milk.”
+
+Alden set it on top of the desk beside a golden tray full of neatly arranged ballpoint pens.
+
+Gorgon turned his head a fraction of an inch toward Alden, but his eyes were still fixed on the screens, which never showed anything but security footage from around the building.
+
+Possibly, direct eye contact was rude among his kind.
+
+Alden liked to assume that was the case anyway. He’d been coming to the consulate regularly for around six weeks now, and he’d never once managed to look Gorgon dead in the eye.
+
+“Thank you,” Gorgon said finally, taking the hot cocoa in long gray fingers and flicking the lid off the top with a thick, black forked tongue.
+
+“I also brought you this.” Alden reached under the flap of his messenger bag and pulled out a plastic takeout container full of chopped vegetables in oil. “It’s hot giardiniera from my favorite sandwich shop.”
+
+He placed a plastic fork on top of it and a paper napkin. It didn’t particularly matter that hot cocoa and spicy Italian relish was a weird combo to human tastes. Alden was still trying to figure out what the alien’s food preferences actually were.
+
+So far, all he’d managed to determine was that Gorgon didn’t mind spices and he was sort-of vegan. As in, he wouldn’t take meat, dairy, or eggs from Alden, but Alden had once seen him eat a fly that landed on the back of his hand.
+
+Maybe he’s an environmentalist? It’s not like it’s his planet, but he is stuck here with us. No more plastic dishes then….
+
+Gorgon slid his arm out, the papers on the desk glowing in the light of his chains, and took the container. He set it beside his keyboard.
+
+“All right,” he said.
+
+Pleased, Alden nodded and turned to go, but Gorgon’s voice stopped him.
+
+“Are you going to keep doing this every day?”
+
+Alden looked back over his shoulder. “Every day I come for classes. Unless you don’t like it?”
+
+The alien tipped his head up toward the ceiling.
+
+“I like receiving offerings. But I don’t know why you’re bribing me. You’re not physically attracted to me. I can smell that sort of thing on humans.” His nostrils flared. “You don’t reek of pity either. I had assumed you were one of those young idiots who thought the mysterious demon could grant you System access or other powers. But I listened in on your lessons last week, and you seem to be slightly less ignorant than others your age. So that’s not likely.”
+
+There was a note in his voice that might have been pensive, but Alden knew he shouldn’t rely on his ability to interpret a nonhuman’s inflections. Especially Gorgon’s.
+
+He’d read literally everything he could find on the internet, trying to get information about the “Desk Demon” imprisoned in Chicago’s Artonan consulate. But there was nothing.
+
+Well…there were a lot of pictures on social media from tourists and extraterrestrial fans who’d sought Gorgon out for a photo op. But beyond that, there was only a listing of his name, a series of runes that apparently described his home dimension, and a few lines about his life sentence.
+
+Whatever Gorgon’s species was, there wasn’t another one of him on Earth as far as Alden could tell.
+
+And apparently he could smell pheromones? Or maybe even emotions? So Alden probably shouldn’t lie to him.
+
+“It’s a little embarrassing, but I thought…if I ever get superpowers one day, it would be great to know someone with better insight into the System than the stuff that’s available to the public. And it’s not like there are a lot of options for that kind of thing.” He gave the alien a nervous smile. “I guess I was hoping to make friends with you in advance in case I ever needed your advice.”
+
+Gorgon continued staring up at the ceiling.
+
+“Ah. How unfortunate for you. I am specifically barred from giving humans any information about the Artonans, the System, my own kind, magic, chaos, extra-dimensional incursions, and a veritable encyclopedia of other interesting things. If it’s not widely known by your species already, then I’m not allowed to discuss it with you. And the bindings on me are quite…thorough. You’ve chosen a very poor advisor.”
+
+He sat up straight then and cracked open the giardiniera. He shoved a forkful in his mouth.
+
+“Though maybe you don’t actually care much about the fact that I will most likely be useless to you?” He smacked his lips. “If you’re already making plans for the day when you might be one of the…fortunate…few, you must have a high tolerance for disappointment. Your chances are worse than one in a thousand, you know?”
+
+Alden hesitated. He stepped back toward the desk and lowered his voice so that his friends couldn’t hear him. They knew about Hannah, but they didn’t know about this.
+
+“I have…had a friend who thought maybe my chances of being selected might be better than normal. And if that’s true, I figure I should do everything I can to make sure it works out. I know how it sounds. I’ve got backup plans, but this is my…I have kind of a specific dream.”
+
+It was an embarrassing admission. Saying your dream was to be a superhuman was cute when you were a little kid. It was awkward by the time you hit twelve or thirteen. Now that Alden was on the cusp of turning sixteen, he was hyperaware of how cringey it was, even if Jeremy apparently thought it was endearing.
+
+Alden might as well be making plans for his future career as a lottery winner.
+
+Gorgon exhaled sharply. “So you’re a fantasist. That’s amusing. Humans have no reliable means of determining who the system will choose.”
+
+“My friend was one of the Avowed. An Adjuster.”
+
+“Unless they adjusted you in morally disgusting ways, then that doesn’t change much.”
+
+Alden shrugged. He knew it was a long shot. Hannah wasn’t a scientist who studied power acquisition. She’d just mentioned in passing, one single time when he was thirteen, that she’d used her Bubble of Patient Waiting on hundreds of people and animals, trying to refine her understanding of the spell.
+
+“And only three people other than you were conscious inside it!” she’d announced.
+
+They’d been standing in line to buy tickets to a martial arts showcase that day. Hannah always planned some kind of activity for their annual summer meet-up on the island.
+
+“All of them were kids of superhumans. Weird, isn’t it? My best guess is you’ve got abnormally high CP. Not like we can measure it. But in theory that means you’re more likely than average to be granted powers of your own one day. Don’t count on it, though.”
+
+CP. Chaos potential. Simple sounding words with a meaning absolutely shrouded in mystery.
+
+High CP had something to do with people being chosen by the System. But the only ones who knew if you had high CP were Artonan wizards. And they were so tight-lipped about it that humans only knew it was a thing at all because the System sometimes mentioned it in skill descriptions.
+
+Children of superhumans were much more likely to be chosen than regular people, which was assumed to be because CP had a genetic or environmental component.
+
+Beyond that, everything was just guesses.
+
+“All I can do for you is point you to the restroom or the elevator,” said Gorgon. “And if you were to miraculously beat the odds and obtain a class, I could register it for you with Earth’s governments. I could also serve as your witness for a pre-affixation trade with another empowered individual. That’s it. It’s the same set of services I provide for literally anyone who walks into my charming prison here. No advice about skill or spell choices, no secret intel about our alien overlords, no contracts that will invest you with my mighty authority.”
+
+He paused, then added, “I can give you as many ballpoint pens as you like. Knowing all that, do you still want to keep bribing someone who has far less power to assist you than your average tech support agent?”
+
+Alden nodded. “Yeah. I’ll keep bringing you stuff. It probably sucks being literally chained to a desk. Is there anything in particular you want?”
+
+Gorgon stared at the space over Alden’s head for such a long time that Alden began to wonder if their conversation was over. Then, in a strangely strained voice, he said, “I’m not vegan.”
+
+“Oh! Do you want some meat next time? Sorry…I thought because you said no to a few things—”
+
+“I couldn’t eat any of those things.”
+
+Alden frowned, mentally cataloging the things Gorgon had refused to eat— shrimp chips, an egg and cheese breakfast biscuit, turkey jerky, a latte made with cow’s milk. “Um, I’m not sure…do you only eat insects?”
+
+Gorgon was breathing harder than normal. He continued to stare off into space. “I’m afraid I can’t tell you that or make requests. You’ll have to put some thought into it.”
+
+“Got it,” Alden said. Even though he didn’t get it at all. Was it part of the ‘don’t tell humans anything about anything spell’ he seemed to be under? It even included his diet? That seemed…wayyy more extreme than Alden had imagined.
+
+But now he wasn’t just idly feeding a possible future resource. He was genuinely, deeply curious. Why wouldn’t Gorgon be allowed to request certain food?
+
+If the reason was only punitive, then whoever had chained him to the desk was really vindictive.
+
+But it had to be that, didn’t it?
+
+If something bad would happen to the universe if Gorgon ate exactly the right piece of meat, then he wouldn’t be here, where any random human could get to him and offer him treats. Right?
+
+Artonans weren’t flawless—despite what some of scarier cults floating around would have you believe—but they also weren’t that sloppy.
+
+So…it’s definitely a don’t-let-the-prisoner-ever-have-a-moment-of-happiness thing, right? Alden decided. That’s harsh.
+
+“We’ll trial and error it?” he suggested.
+
+“Looking forward to it.” Gorgon definitely sounded sarcastic now, but Alden decided to interpret it as a friendly sort of sarcasm.
+
+Icy wind swept through the lobby as the doors opened, and Alden looked around to see a couple of girls with familiar faces. He hadn’t caught their names, but they were both in his first class of the day.
+
+They giggled and waved at him. He waved back absently.
+
+“You should tell them you’re not interested,” said Gorgon. His face was fixed on his monitors again.
+
+“What?”
+
+“Because they’re interested.”
+
+Alden stared at him, perplexed.
+
+“They’re attracted to you, stupid. So is that boy with the blue hair in your four o’clock. Best to put all three of them out of their teenage misery unless I’m reading you wrong.”
+
+There was a mirror behind the desk, and Alden had the pleasure of seeing himself turning into a human stoplight. “Oh my g—”
+
+“Point Jeremy at the tall girl and Boe at the short one. Problem partially solved.”
+
+“You can’t just comment on private pref…Gorgon, it’s not okay to…stop that!” Alden hissed.
+
+“Tell them to stop it,” Gorgon said. “They’re the ones stinking up my lobby.”

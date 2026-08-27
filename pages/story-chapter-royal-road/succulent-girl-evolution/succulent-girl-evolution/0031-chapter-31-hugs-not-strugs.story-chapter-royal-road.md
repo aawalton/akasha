@@ -1,0 +1,107 @@
+---
+id: e4c6cb01-2f95-52bd-b15d-2020103fbebb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31: Hugs, Not Strugs"
+slug: 0031-chapter-31-hugs-not-strugs
+partOf: succulent-girl-evolution
+position: 31
+ownLength: 1980
+unit: words
+publishedAt: 2025-10-04
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2651162/chapter-31-hugs-not-strugs"
+royalRoadId: "2651162"
+---
+
+Miss Fish gazed at the wisteria sprout as it slumbered under the moonlight.
+
+She wanted to keep it, no question about it. The flowers had a unique ability that warded off evil, and the roots helped improve the soil quality, leading to overall health of the ecosystem.
+
+But the fact was, this particular variant grew too slowly. If she planted this, it would merely get eaten away before it could establish itself. Without her protection, the plant would just… die.
+
+Besides, she had made a difficult decision during that face-off with Miss Magpie. As a Guardian whose ultimate objective was to extend the mana mineral’s domain, she could no longer afford to play favorites—doing so would end up limiting her time, and perhaps even preventing her from properly protecting her domain from external threats. Bubbles’s tale was one such indicator that the humans were starting to become more active, and she had to be prepared for that.
+
+As valuable as the wisteria plant was, her forest wasn’t in a position where she had the luxury of doting on a plant that could maximize the forest’s future growth potential—not since her mana mineral was forced to destroy a portion of his network in order to free her from the clutches of Throttler. She needed a stable foundation first before she could add in any multipliers to great effect, and she didn’t have that.
+
+She almost wished her mana mineral would convince her it was fine to keep the wisteria, that it would be worth the effort in growing it… but he was not one to tell lies. And she felt immeasurable guilt in forcing him to sacrifice what he had spent so long building… she could no longer be as irresponsible as before.
+
+Miss Fish sighed, closing her brand new eyelids. She wasn’t used to having them yet, but she appreciated them. Looking at the wisteria pained her, and even though she knew the plant was still there—she could feel its tiny life force—she could at least pretend it wasn’t.
+
+She would use this last night (along with her new eyelids) getting used to the idea of not being able to restore the forest to its former glory.
+
+~ ~ ~ ~ ~
+
+Rock hemmed and hawed about what to do.
+
+Now that the urgency of preserving his relative’s domain had subsided, he had to figure out what to do next. After Bubbles discovered the Leech ability, his original priority of finding an isolated plot of land to settle in and grow had taken a nosedive on his list of importance.
+
+What he really wanted was to reclaim the mana the humans stole from the mana minerals, but that was a far more dangerous endeavor than hiding away and growing at his own pace—especially considering how Bubbles was still quite weak.
+
+She was much bigger than before, it was true, and more durable, but she still couldn’t do much on her own. And since she didn’t have the raw power to protect herself from the humans with their man-made artifacts, she would have to have superb reflexes, intellect, and wisdom in order to minimize risk as much as possible.
+
+As much as he was agitated at Bubbles’s poor judgment on things, he also wasn’t arrogant enough to think of himself as being a worthy advisor to his Guardian; after all, he could easily argue it was his fault he got captured in the first place. He grew too close to the surface layers of the earth before he had established a proper defensive network, and that was likely how the Duke discovered his presence in the first place. So between the two of them… there was no chance of accomplishing his newfound objective.
+
+His justification for prioritizing mana Leeching was that recovering mana from artifacts would give him a significant boost in his reservoirs, so once he found a suitable plot of land, he could begin terraforming and otherwise building his ideal domain more easily.
+
+But again, there was great risk in hunting artifacts… and his risky attempt at growing faster was ultimately what led to the whole fiasco with Bubbles and the humans in the first place. So, Rock really should have learned his lesson about risk-taking.
+
+…
+
+However, Rock couldn’t stop trying to rationalize his new mission, and subsequently continued repeating the same arguments to himself about Bubble’s current capabilities.
+
+The only silver lining he could see was that Bubbles wasn’t a hopeless case… by acquiring the abilities of the carnivorous plant and the cactus, she had already drastically improved her chances of survival. Now all she needed was to find other plants with unique properties that she could borrow.
+
+Frankly, he wouldn’t have had too many complaints if Bubbles had decided to graft Throttler. The terrifying vine, with its insatiable growth, dexterous limbs, and even an ability to shoot seeds from range—it was a very promising skillset, even if she could only acquire a single one of those abilities. However, Bubbles didn’t like Throttler, for understandable reasons. The succulent’s unique sense of loyalty, although often a hindrance, at least made her dependable.
+
+Rock had been pondering how—and where—they might go in order to scout for appropriate plants to add to Bubbles’s repertoire of abilities when Miss Fish (ridiculous name for a dragon, but Bubbles didn’t seem to think it necessary to change her alias, and Miss Fish expressed no discomfort at such a shabby moniker) sat them down with a grave expression on her face that afternoon.
+
+“I wanted to thank you for all you have done for us the past several days. Not only did you help free my forest from the clutches of Throttler, the Grasper of Life, but you also remained to help us clear out the woods until the magpies’ reinforcements arrived. I know you have other objectives—” Miss Fish dipped her head at Bubbles “—but I must ask one more request from you.”
+
+Miss Fish brought out the small pot of the original wisteria, placing it on the ground in front of them. The sprout looked up at them sleepily, then brightened as it realized it was in the fresh air.
+
+“After much thought and consultation with my patron, we have determined it is best if we release the wisteria from our guardianship.” Miss Fish looked somberly at them, almost pleading. “We have much to work on in order to restore the forest to its original vitality, but I can’t focus my best efforts on doing so if I’m constantly worrying about one specific plant. Bubbles, you have a unique ability to support other plant life with your own body… as much as it pains me to part with this precious plant, I believe—no, I know—that any plant who lives with you will have a better life.”
+
+Miss Fish fidgeted a bit with the pot, her long, elegant whiskers trembling slightly. Concerned, the wisteria sprout grew a tendril, gently grasping at the nearest whisker, as if to comfort the dragon. Firming her resolve, Miss Fish looked at Bubbles earnestly. “I will not pry on the specifics of your Guardian abilities, but please… will you consider taking her under your care?”
+
+“I-I’m honored,” Bubbles stammered, taken aback by the sincerity in Miss Fish’s eyes. However, Rock could sense that Bubbles didn’t think it was a good idea, and he did all he could to remind her not to say anything too thoughtlessly—but as usual, she ignored his urgent words, as if he didn’t say anything at all. “But… are you sure you want to entrust me with such an important plant? I mean, I only gained sapience about a month ago, and that whole month has been extremely chaotic… I don’t know if raising a sprout in that environment is very good for it…”
+
+Miss Fish smiled reassuringly. “Given the two other friends you have raised from sprouts on your back, I am confident in your nurturing abilities. And it speaks to your will and survivability that you have been able to live this long, yet grow so much in such a short period of time, does it not? Besides…” Miss Fish turned back to the sprout, a strange shudder seeming to ripple down the length of her body as she gazed at the tiny, tiny plant. “I have… a strong feeling that this sprout is destined to travel and grow with you.”
+
+Bubbles gazed at Miss Fish, feeling an overwhelming sense of awe wash over her. It wasn’t anything visible, but it felt like Miss Fish had somehow connected to the divine heavens, and was speaking their will. She couldn’t bring herself to protest any further… it seemed far too disrespectful.
+
+What do you think? Bubbles asked Rock and her other two plant companions. The succulent was excited, but Rock also detected a hint of concern. Little Wisteria seems nice…
+
+Fern and Cuddles were split: Fern didn’t mind having another companion along, while Cuddles was reluctant due to their experience with Throttler. The final decision fell to Rock: he felt all three plants turn their attention to him, waiting for his verdict.
+
+He kept his excitement controlled and looked at the potted plant with a properly discerning eye.
+
+It was still very young, so even if it had a fraction of Throttler’s bloodthirst, Bubbles would be able to easily keep it in check. And if it grew up under Bubbles’s influence, Rock was confident it would begin taking on more of Bubbles’s own personality, though perhaps at the cost of what made Throttler such a formidable plant. However, he reasoned, he could always force additional growth to unlock the plant’s potential, as long as they reclaimed enough mana, the same way he did with Cuddles. As he began calculating its potential, he saw the vine grow and morph in his consciousness, seeing what it could become.
+
+Rock was pleased.
+
+[Grafting this plant could provide significant benefit to you. The most obvious benefit it will grant you at the moment is mobility, which is very important for you. Instead of waiting for creatures to pounce on you in order for your Pierce ability to take effect, you would be able to take a more proactive approach by fending predators off with vines, though it will take significant effort to train that ability.]
+
+Bubbles perked at his mention of being more proactive, and he recalled that she had been noticeably depressed for a while now—it started ever since she realized she didn’t have any particular way of fending off attacks, and she didn’t think it was fair to overly rely on Cuddles.
+
+However, Cuddles still seemed unconvinced, and in order to stave off the cactus’s complaints, Rock hurriedly added, [Additionally, this vine seems significantly more passive than the other one. Regardless, even if it had a fundamentally more ornery personality, I believe that between the three of you, you would be able to restrain it from becoming a rampaging tyrant.]
+
+That’s good enough for me! Bubbles said cheerfully. She turned to Miss Fish and the small plant, tenderly collecting the pot. “Okay, we’ll take care of her. Did you have a name for her?”
+
+“We haven’t given her one, but perhaps it would be better for you to name her, since you are to be her guardian now.”
+
+“Hmm. Okay! I’ll call you Hugger, since you seem sweet and like hugging us all so much,” Bubbles said happily. She turned back to Miss Fish. “Thank you for trusting me with your most precious plant. I promise I’ll protect her with my life!”
+
+Nodding at Bubbles gratefully, Miss Fish departed to continue clearing out the vines of her forest with the rest of the day’s light, leaving Bubbles alone at the pond so that she could integrate the new plant.
+
+~ ~ ~ ~ ~
+
+[Name: Bubbles
+
+Species: Plant
+
+Moisture Level: Soaked
+
+Traits:
+
+Abilities:
+
+Clutch (Novice)]

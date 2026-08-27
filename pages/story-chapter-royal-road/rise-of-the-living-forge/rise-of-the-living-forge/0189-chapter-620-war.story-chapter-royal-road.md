@@ -1,0 +1,129 @@
+---
+id: 9a6da513-4395-5f41-b795-a5b7f8eee391
+page-type-slug: story-chapter-royal-road
+title: "Chapter 620: War"
+slug: 0189-chapter-620-war
+partOf: rise-of-the-living-forge
+position: 189
+ownLength: 2016
+unit: words
+publishedAt: 2026-07-14
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3675192/chapter-620-war"
+royalRoadId: "3675192"
+---
+
+It was fortunate that night had fallen by the time Arwin and the others made it back to the Devil’s Den. The street had already been largely cleared out, though a few people were still milling about Ida’s smithy and examining the other buildings that Ridley had been upgrading.
+
+Lillia and most of the Menagerie were already present in the common room when Arwin stepped into it. The only ones missing were Vanessa, Monica, and Esmerelda — who were presumably off doing something and hadn’t received Rodrick’s summons. The Beast and Uriel were also absent.
+
+“Nice armor, Kien,” Olive said as they made their way over to the table. Lillia’s shadow imps were in the process of loading it up with food from the kitchen. “It suits you.”
+
+“Thank you,” Kien replied. “I am looking forward to seeing what it is capable of.”
+
+“So what exactly is this about?” Arwin asked as he sat down and looked over to Rodrick, who sat at the far end of the table. “It doesn’t sound very good.”
+
+Rodrick just shook his head. “Eat first. We’ll speak after. This isn’t a topic I want to discuss while anyone is distracted.”
+
+“That’s not ominous,” Lillia said dryly.
+
+“Now I just want to hear it immediately,” Reya said. “There’s nothing worse than having to wait for something. You know that, don’t you?”
+
+“Just eat,” Rodrick said, a small smile flashing across his features for a brief second. “You’ll survive.”
+
+Any protests the rest of them may have had were quickly silenced as food was laid out before them. If there was one thing that could distract everyone’s attention from Rodrick’s incredibly ominous announcement, it was the smell Lillia’s cooking.
+
+Arwin was the first to comply. Even if his nose hadn’t been compelling him onward, his stomach would have made the decision for him. The Hungering Maw was making its presence far more known than he wanted it to. It wasn’t long before the rest of the Menagerie followed suit.
+
+Everyone polished their meals off quickly. A few of them took second and third servings as well. It wasn’t long before the table was completely cleared out. The imps took the plates away, and then was nothing left but the anticipation of whatever it was that Rodrick had called them here for.
+
+“Well?” Reya asked, fidgeting in her chair impatiently. “What did you find? Are we about to get attacked or something?”
+
+“I think Rodrick would have mentioned if the Guild were actively bearing down on us,” Elias said. “And I don’t think they’re so concerned about us that they’d be launching a sneak attack good enough to get this close without drawing anyone’s attention. This is something else.”
+
+“It is,” Rodrick said. His voice was grim. “I’ve recently discovered that, in the past few days alone, there have been multiple Dungeon Breaks throughout the Kingdom. There were 6 in the area near Thornshelm alone. There was no pattern or seemingly apparent cause to them.”
+
+“What?” Kien asked, starting. “That can’t be right. Thornshelm isn’t exactly the center of the Kingdom but it’s well within it. There should be more than enough adventurers to prevent Dungeon Breaks in the area.”
+
+“There should be,” Arwin agreed. “And the other breaks were even closer to the center. My network doesn’t extend much beyond that… but I have reason to believe there were considerably more than even what I believe. They’re likely happening all over the kingdom.”
+
+“That doesn’t make any sense,” Olive muttered. “What, are you trying to say all the good adventurers are just… leaving? Not bothering to clear the dungeons? There’s no way.”
+
+“Yeah,” Reya said. “People are way too greedy. Nobody would just stop raiding dungeons so close to the center of the kingdom. Those things have to be Expert Rank and higher.”
+
+“That’s what he’s saying,” Arwin said, realization setting in. Anna had mentioned that Rodrick’s news had specifically to do with the Guild. “You think the Guild is intentionally causing Dungeon Breaks? At that scale?”
+
+“Yes,” Rodrick said. “Everything points toward it. I tried to think of another option, but I couldn’t. Everything I can come up with points to the same result. They’re trying to destabilize the entire Kingdom.”
+
+“Why?” Vix asked. She swallowed. “That many Dungeon Breaks… cities are going to get destroyed. Big ones. Especially if the monsters are coming from high level dungeons. This is a disaster. Aren’t people going to rebel against the Guild? Their whole job is to keep people safe! If everyone realizes that they aren’t doing their job…”
+
+“They’re not going to give people a chance to realize,” Elias said softly.
+
+Everyone other than Rodrick and Art turned to him.
+
+“What?” Thane asked. “What do you mean?”
+
+“It’s a distraction. A mass scale one,” Art said. His hands clenched into fists. “The Guild is panicking. I don’t know why, but they think they’re losing control of the situation. That would be the only reason you do something like this. Throw the entire Kingdom into chaos so nobody can spare the time to focus on them while they do… something.”
+
+“It’s got to be something to do with the current War,” Rodrick said, crossing his arms in front of his chest. “Things have gone seriously wrong with it. I’m sure there are other issues that have been boiling as well. I don’t know the full extent of what the Guild is dealing with — but Art is right. The Guild think they’re losing control. This is meant to keep everyone distracted until they can fix their problem.”
+
+“That doesn’t even seem that likely to work,” Thane muttered. “If you’re right… people will still be mad. This is a huge slip up. No matter how they justify it. Controlling Dungeon Breaks is their work.”
+
+“Fury is a lot easier to direct after the thing they’re trying to sweep under the rug is handled,” Rodrick said. “And given the size of the Guild and how many things have started to go poorly for them recently, I’m sure they’ve got a lot of sweeping to do.”
+
+“What about near Milten?” Lillia asked. “Are there any Dungeon Breaks expected?”
+
+“No,” Rodrick replied with a shake of his head. “There are too many adventurers here — and the Guild’s presence at the edges of the kingdom has actually lessened significantly in recent days. They’re pulling their people back.”
+
+“To pretend to deal with the Dungeon Breaks?” Olive guessed.
+
+“That will probably be their justification,” Rodrick said. “But given they’re the ones causing the breaks… this is for some other reason altogether. They’re planning something. I just don’t know what it is yet.”
+
+“But for our purposes, it might not matter,” Art said. “The Guild is reeling. Right? A move like this isn’t something anyone would pull if they were in a strong position.”
+
+“I agree,” Koyu said. “I saw this during the Great War. More times than I wish to count. This is the first stage of the dying throes. A desperate attempt to maintain power. The Guild is destabilized. There is a lot of evidence to support this. They haven’t moved to re-locate the Beast or acted to figure out where the men we killed have gone. Who knows how many other wounds they are bleeding from. We are not the only enemies the Guild has.”
+
+“Setting Sun could definitely be doing something,” Arwin said. “We should check with Eleven. If they are… we need to know.”
+
+“There’s no doubt that they are,” Rodrick said. “I don’t think this level of destabilization would come out of nowhere. The Guild stacked their tower of blocks too high. Everything is in the perfect spot to tip over… should we be in position for it. And that’s why I called everyone today.”
+
+“The monster in the pit,” Lillia said. “There’s literally never going to be a better time to infiltrate the Guild and locate it. Once the Guild’s plan is in full swing and the kingdom is in chaos… they’re going to be trying to deal with whatever problem set this whole thing off in the first place.”
+
+“Which means they almost certainly won’t be expecting an attack directly on their land,” Rodrick finished with a nod. “Yes. This is my thought as well. I wouldn’t dare launch an assault on the Guild’s stronghold as we are now. The Guildwall is not a place I would wish to ever try to directly attack. We need to be dozens of times stronger. But an infiltration mission… it’s possible.”
+
+The hair on the back of Arwin’s neck stood on end. Rodrick was suggesting going to the stronghold of the Guild itself. The Guildwall was the deepest part of the Guild. Their strongest members, not to mention their leader, were all there.
+
+“It won’t be anything even close to easy,” Art said. He interlaced his fingers and leaned forward. “They haven’t remained in this power without precautions. But this is Rodrick. And we aren’t pushovers. I think we could do it… especially if Setting Sun backs us. We’re just going to have to act really fast. Even this many massive Dungeon Breaks isn’t going to completely tear the kingdom apart. The damage will be high, but people will stop them.”
+
+“Unless the Guild makes more of them,” Thane said.
+
+“True,” Rodrick said. “But I doubt they will. They plan to remain in power. One wave of unexpected Dungeon Breaks is already a massive smear on their name. I’m certain they plan to try and take control of the situation within a short period of time. They might even try to swoop in and pretend that they’re dealing with the breaks themselves. We’ve got a span of days to deal with this.”
+
+“We’ll all have to be onboard with this,” Art said. “It will be one of the riskiest moves we’ve ever taken. It’s going directly against the Guild. Even if we accomplish our task and escape, the chances of getting spotted are incredibly high. And if we are…”
+
+“It’ll mean war,” Rodrick said simply. “The Guild will come after us directly and immediately. They won’t be able to risk letting anyone live with the knowledge they’ll now know we have.”
+
+The table fell silent as everyone considered his words.
+
+“This was always what it was leading to, though,” Olive said quietly. “It’s what we’ve been preparing for. A way to free people from the Guild’s influence. Are we going to get a better chance than this?”
+
+“We’re not as strong as I’d like to be,” Reya said. “Not all of us are even Sunset yet.”
+
+“But lots of us are,” Art pointed out. “And we aren’t going to be fighting them directly yet. This is an infiltration mission. We just want to see what they’re keeping in the Pit and how it’s corrupting a Leyline. If we can do that, we can form a way to stop it. It’s clearly weak. If it wasn’t, it wouldn’t be stuck in a hole.”
+
+“It might not be that easy,” Arwin said. He hesitated for a moment. Then he frowned. “But this might indeed be our best chance. Especially if we avoid getting spotted.”
+
+“Which we can’t count on,” Rodrick warned. “This will be a risk. A huge one. Even if Setting Sun supports us.”
+
+Everyone looked at each other.
+
+None of them said anything else.
+
+But none of them needed to. In the silence, they’d all found their answer. There would be no way to take the Guild down without risks. None of them were ready for this. Arwin would have loved months more to prepare. But they couldn’t pass up an opportunity like this.
+
+They weren’t setting out to put the Guild down this week. But they needed information, and there would probably be a never time to get it.
+
+He exchanged a glance with Lillia. She nodded, eyes cold.
+
+They were on the same page.
+
+“Art, Rodrick — figure out how to get us into and out of the Guildwall without being noticed,” Arwin said grimly. “And everyone else… ready yourselves for war.”

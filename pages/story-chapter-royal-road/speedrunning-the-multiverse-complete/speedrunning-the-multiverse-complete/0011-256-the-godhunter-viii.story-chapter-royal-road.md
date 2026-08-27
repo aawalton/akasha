@@ -1,0 +1,135 @@
+---
+id: ac718e10-1673-5eb4-aecb-7d639df4d5c8
+page-type-slug: story-chapter-royal-road
+title: "256. The Godhunter (VIII)"
+slug: 0011-256-the-godhunter-viii
+partOf: speedrunning-the-multiverse-complete
+position: 11
+ownLength: 1826
+unit: words
+ownProgress: 1826
+publishedAt: 2023-07-06
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1268428/256-the-godhunter-viii"
+royalRoadId: "1268428"
+markedReadAt: "2026-06-29T22:42:02.276Z"
+---
+
+The Door of the Heart led to a room much like the other two. All gold, with another pedestal at its center. But this time 10 vials sat atop it, ranged in a circle. They were filled with an elixir of murky white, like if forgetfulness was a color.
+
+“Drink,” ordered Coldheart.
+
+“What are they?”
+
+“Draughts of Infinite Remembrances,” said Coldheart. “Each vial contains the memory of a life. That is all you need to know. Drink!”
+
+Dorian picked up the first vial, sniffed at it, shrugged, and downed it in a gulp.
+
+His eyes went cloudy. He was born anew.
+
+He was Dorian no longer. Had he ever been Dorian? Who was he? He forgot. Thoughts leaked out of his head, and none bubbled up to replace them. His mind went blank. And then his were struck with light. A wild jumble of sensation, foreign feelings, smells, sounds—he couldn’t make sense of any of it. He was crying. He was… a baby. A baby named Fern. Born to a loving family. His father was a blacksmith, his mother a fisherwoman, in a quaint seaside village named Padua, a day’s ride from the big city. He lived a childhood soaked in laughter and sunlight. He spent long afternoons playing in the streams with the other children. Spent long days working steels with his father, his young hands callused by a hammer’s leathered grip. He was to take up the family trade. He shared secret joys in seaside coves with one of his playmates, a girl named Mia, and everything about her—the way she bit her lip as she blushed, the way her eyes sparkled with mischief, the cinnamon smell of her hair—melted him utterly. They spoke in whispers of running away together to the big city. He was to marry her, and he was to brave his father’s disapproval to do it. All was well.
+
+And then one day cultivators, led by the Young Master of the Rising Phoenix Sect, passed by their village. The Young Master took a liking to Mia. He snatched her away, bound her in chains, then slaughtered her family when they resisted.
+
+Fern fought for her. He saw Mia in tears. He recalled that little spark of hope in her eyes—then dimming, dimming, dimming as was beaten, driven into the mud by a boot on his head by a laughing Young Master.
+
+The last thing he recalled was the disappointment in her eyes as she turned away from him, wiping at her face with a torn sleeve. She could bear to watch no longer. On his knees he felt an absurd urge to apologize. To beg for her to turn back. But why would she? That disappointment stung worse than any of the Young Master’s blows. It was like a realization had dawned on her. She’d chosen the wrong man. Fern’s true nature—his true weakness—was revealed to her blow by humiliating blow. How could she marry this pathetic, mud-scuttling creature? Was he even a man? On his knees, he looked no better than a dog.
+
+A dog on the leash of the Young Master. The handsome, powerful Young Master—every bit the man he was not.
+
+He staggered up to a knee, tears in his eyes.
+
+Then the Young Master knocked him out with a careless kick.
+
+The cold light of dawn woke him. He found his village burned. He vowed vengeance.
+
+He joined the local sect. His spiritual roots were weak, but his will was strong, and he outworked every other Outer Sect member to be among the chosen few promoted to the Inner Sect. His striving caught the eye of the Sect’s Ancestor. He was taken under the Ancestor’s wing, remade in flesh, nurtured with the sect’s best treasures and Technique manuals. Soon he too became a Young Master.
+
+And he waged war on the Rising Phoenix Sect. The sect of the Young Master who’d stolen Mia from him, all those years ago. The Rising Phoenix Young Master who was now the Rising Phoenix Sect Leader.
+
+Thousands died on both sides. But at last…
+
+He slaughtered his way to the Sect Leader’s door.
+
+But where was that arrogant Young Master of his memories?
+
+This was a somber, gray-bearded man, regal of bearing, soft of voice. Him, and his wife Mia—Mia, a woman now and every bit as beautiful, staring at the Sect Leader with the same love she had once reserved for Fern.
+
+No—there was more. She loved the Sect Leader, loved him so much looking at it made Fern feel like a knife was slowly driven into his chest. When she looked at Fern now it was as though she saw someone else. An evil man.
+
+It enraged him.
+
+He drove the Sect Leader to his knees. What enraged him more was the quiet dignity with which the Sect Leader took it. Not whimpering, as Fern had done all those years ago. It was a man beaten, but not defeated. He kicked the Sect Leader to the mud. Whipped him. Cut body parts from him, sliced off the things that made him a man at all. And when Fern asked if the Sect Leader had any last words the man simply whispered, “I know I wronged you. For that there is no excuse. I was young, and foolish, and no apology I give now can be sufficient. I’m sorry. All I ask is that you please spare Mia and our children.”
+
+Fern kicked the Sect Leader’s head so hard the man’s skull caved in.
+
+Mia was slumped to the ground. Her hand covered her mouth. But she did not look away as he advanced on her. She did not turn a loving gaze now on him, as he’d so dreamed for so many years, now he’d proved himself the bigger man. Instead she stood shakily, and stretched out her fists, and said if he wanted her kids he would need to kill her too.
+
+He was stunned.
+
+He let her free. He returned to his sect listless. Confused.
+
+Why was he so empty? Things had played out exactly as he’d wished—and then gone so, so wrong at the very end, somehow. For years he wandered like this.
+
+Until at last he found another. The Head Alchemist of the Sect, whip-smart and classically gorgeous Terez, who consoled him, and taught him what it meant to love again. Soon it was she who melted him utterly. They married, and began a family. A daughter named for Terez’s favorite flower, a son named for Fern’s father. Years upon years upon years passed. Fern grew old.
+
+He left his sect to his son. He breathed his last surrounded by a loving family. After a life of such intense hatred, and strife, Fern died satisfied. Happy.
+
+Dorian’s eyes unclouded.
+
+All this passed in the space of a heartbeat in real time. But it felt viscerally real to him; he lived, in that illusion, the span of centuries. Every creature Fern had loved, ever feeling Fern had felt, felt like his own. The time he’d lived there dwarfed the time he’d lived in this life.
+
+But it was all false.
+
+“Painful, isn’t it?” said Coldheart. “To gain my inheritance you must have a heart of ice! This test places upon you the burden of time. How much cognitive stress can you endure, for how many centuries? That was but an appetizer! The ‘life of fern’ was short. Its traumas are the lightest of the ten vials! It even has a happy ending. None of the other lives here are so kind. Each successive vial only increases in suffering. The sixth vial is an unbroken millennium full of the most brutal traumas! The seventh is a torture in reverse; it presents you a dream so sweet long and laden with meaningful relationships that many Gods, upon waking, commit suicide on the spot—for their real lives feel empty in comparison! The eighth is a millennia-long torture device which has driven Godkings insane. You are permitted but an hour of recovery before you must drink vial two—what are you doing?!”
+
+Dorian had picked up the second vial. He grinned at Coldheart, then downed it in a gulp.
+
+He shuddered. His eyes went murky. And then cleared a breath later.
+
+“I have to clear all ten, you said?” he said.
+
+Coldheart just blinked at him, mouth slightly ajar. Before he could answer Dorian had picked up the third vial. Down it went. Centuries passed through him in a blink.
+
+“You!” shouted Coldheart. “Dorian! Speak!”
+
+“Yes?”
+
+“You… are fine?”
+
+“I think so! Why?”
+
+Coldheart looked baffled. Likely because by now, most Gods would be sobbing in the fetal position. It must’ve placed an immense emotional burden on the untrained mind. Several identities forged over centuries clamoring for space in one brain should’ve been crippling on its own.
+
+Alas Coldheart didn’t know who he was dealing with.
+
+Dorian’s first Dao was Time! You want to break the mind of Time’s Godking with these little tricks?
+
+Ha!
+
+Coldheart was testing one’s heart, at a basic level. Sure. In these vials were some horrid traumas.
+
+But at a deeper level what Coldheart was trying to do was to make life feel empty. Weightless. A meaningless rise-and-fall. Give you heartfelt memories, horrible traumas, and then wake you up—invalidate it all. And in so doing imprint on one’s soul the sobering insight that life was void of meaning—so why bother, if nothing you treasured mattered? It was an easy thing to understand conceptually, but knowing it was nothing like knowing it. Feeling it, living it.
+
+The thing was, to ascend to Godking that very first time, Dorian was forced to internalize this millennia ago.
+
+And none of this silliness could match what he’d gone through then.
+
+He downed the fourth, then licked his lips. “Spicy! I think I felt that one—a little twinge, maybe?”
+
+Coldheart just stared as he went through the fifth vial.
+
+“What is wrong with you?” cried the dragon, face twisted in incredulity. “Why aren’t you feeling? Reacting?!”
+
+“Didn’t you say the point was to ‘have a heart of ice?’”
+
+“Yes, but—”
+
+He drank the sixth.
+
+“Ah!” said Dorian, smacking his lips. “I liked that one. ‘The Life of the Master Painter Yveltan.’ For his enemies to pluck out such a sensitive artist’s very eyes, cripple his fingers, then shatter his magnum opus which he’d been sculpting for a thousand years, tarnish his reputation, and leave him in solitary confinement for millennia? Only to set him free, just to have him realize his wife’s suicide was his fault all along? I can see why a lot of folk quit on that vial.”
+
+The seventh, the eight, the ninth all went down smoothly. One after another, like shots at a bar.
+
+“You…” whispered Coldheart. “Heavens—you have no soul! There is something wrong with you!”
+
+“I know,” said Dorian. Then he downed the tenth and gave a little burp. “So what’s the fourth trial?”

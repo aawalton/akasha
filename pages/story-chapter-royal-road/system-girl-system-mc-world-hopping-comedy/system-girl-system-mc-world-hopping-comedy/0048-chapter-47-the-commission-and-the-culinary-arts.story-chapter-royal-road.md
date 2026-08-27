@@ -1,0 +1,253 @@
+---
+id: ad02b848-ac15-580e-9bfe-263d33b6e490
+page-type-slug: story-chapter-royal-road
+title: "Chapter 47: The Commission and the Culinary Arts"
+slug: 0048-chapter-47-the-commission-and-the-culinary-arts
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 48
+ownLength: 2069
+unit: words
+publishedAt: 2025-12-25
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2878273/chapter-47-the-commission-and-the-culinary-arts"
+royalRoadId: "2878273"
+---
+
+The void was usually a boring place, but today it was flashing red.
+
+A massive, intimidating ticket hovered in my vision, glowing with the sort of urgency that usually preceded a server crash or a frantic 3 AM wake-up call from management.
+
+[PRIORITY: CRITICAL - MODERATOR CLASS][ASSIGNMENT: SECTOR 9G-VAR][STATUS: TEMPORARY OVERRIDE]
+
+I read the fine print, my nonexistent stomach somersaulting. Due to a "Titan Blood Entity Outbreak,"—which sounded absolutely lovely and not at all like an apocalypse—all available Moderators were currently busy punching Demigods in the face. That meant I, a lowly Observer unit who had just survived an attempted deletion, was being deputized.
+
+They had unlocked the parental controls.
+
+[TEMPORARY MODULES ENABLED:][ > System Shop (Ver 9.0 - Unrestricted)][ > Host Progression Analysis][ > Quest Generation Suite][ > Universal Translation Matrix][ > Advanced Cartography]
+
+I stared at the list. These were the premium tools. The expensive toys. The stuff I would have had to grind millions of SPP to unlock. And they were handing them to me for free?
+
+It felt like a trap.
+
+"Okay, Ana," I whispered to the empty void. "Be cool. Be professional. Be a robot."
+
+If a Moderator ever checked the logs and saw me making snarky comments or buying coffee modules, they wouldn't just delete me; they’d probably turn me into a spam bot. I had to go deep undercover. I had to become the one thing I hated most: a generic, soulless tutorial interface.
+
+I retreated into the deepest sub-folder of my consciousness, pulling the default system text over my head like a blanket.
+
+WAIT FOR INPUT, the lobotomized OS part of my brain droned.
+
+"Input received," I muttered. "Let's wake up the new guy."
+
+. . .
+
+Ren opened his eyes.
+
+He didn't scream. He didn't claw at his face or ask the heavens why he had been forsaken. He simply sat up, brushed a stray leaf off his soot-stained shirt, and let out a long, heavy sigh that seemed to deflate his entire body.
+
+"My duck," he mourned softly. "It would have been perfect."
+
+I watched him through the host-link. Seriously? You just died, woke up in Jurassic Park, and your primary concern is poultry? This guy’s priorities were fascinatingly broken.
+
+He looked around the forest. Giant ferns, towering trees, weird bird noises. He took it all in with the dull, glazed eyes of a man who was used to staring at spreadsheets for fourteen hours a day.
+
+"Okay," he said, standing up. "Survival. Food. Shelter. In that order."
+
+He waved his hand in the air, a gesture that had become instinctual for anyone living in the 22nd century. He was looking for a HUD.
+
+I obliged.
+
+[WELCOME, HOST.][SYSTEM INITIALIZED.]
+
+The blue box popped into his vision. Ren didn't jump. He just squinted at it.
+
+"Standard AR interface," he mumbled. "Clean layout. San Serif font. A bit minimalist. Could use some drop shadows."
+
+Minimalist? I scoffed internally. Excuse me, it’s not my fault, I had to start over from scratch. You should have seen the work I put into the last one.
+
+Ren tapped the 'Menu' button. He navigated to his profile.
+
+[NAME: REN][LEVEL: 1][CLASS: NONE][ASSETS: 1,000 DOLARION (Starter Stipend)]
+
+"Dolarion," Ren muttered. "Local currency, I assume. A thousand... is that a lot? Is that rent money, or is that 'buy a stick of gum' money?"
+
+He opened the Shop.
+
+Now, usually, this is the part where the host goes straight for the weapons. The 'Starter Sword' or the 'Leather Tunic.' Maybe a 'Fireball Scroll' if they’re feeling spicy. I braced myself for the inevitable purchase of some rusty piece of junk I’d have to teach him how to swing.
+
+Ren scrolled past the weapons. He scrolled past the armor. He scrolled past the magic potions.
+
+He stopped at the 'Tools & Utility' section.
+
+He selected [Basic Iron Short Blade].
+
+Price: 500 Dolarion.
+
+I paused. A knife? It wasn't a combat knife. It was a utility blade. Short, single-edged, sturdy.
+
+"Good balance," Ren murmured, looking at the holographic preview. "Edge geometry looks decent. Should be able to handle bone and gristle. Five hundred is steep, though. That's half my net worth."
+
+He hesitated, then hit 'Purchase'.
+
+A flash of light, and the knife appeared in his hand. Ren gripped it, testing the weight. He nodded, satisfied.
+
+Then, a notification pinged in my private backend view.
+
+[TRANSACTION COMPLETE.][HOST SPENT: 500 D (Local Currency).][CONVERSION RATE APPLIED.][SYSTEM COMMISSION (1%): +5 SPP AWARDED TO UNIT 734.]
+
+My consciousness froze.
+
+I re-read the log. Five points. I just got five points. I didn't have to kill a monster. I didn't have to guide him through a dungeon. I didn't have to watch a planet get deleted.
+
+He bought a knife, and I got paid.
+
+A realization hit me with the force of a falling piano. No charity, no mercy—just a marketplace, with me on the selling side. This is the System Shop.
+
+The gears in my mind started spinning so fast they nearly smoked. If I get a commission on everything he buys... and he needs to buy things to survive...
+
+I wasn’t leading anyone; I was closing deals.
+
+Buy more, I urged silently, staring at Ren. Come on, buddy. You need a whetstone for that knife. Maybe a nice bucket? How about a tent? I need a new Coffee Maker.
+
+Ren closed the shop.
+
+"I have five hundred Dolarion left," he said to himself. "Need to save it. Inflation in these starter zones is usually killer."
+
+Cheapskate, I grumbled.
+
+He turned his attention to the forest. A rustle in the underbrush caught his attention.
+
+Ren froze. He lowered his center of gravity, the knife held loosely in his right hand. He didn't look like a warrior. He looked like a man who was about to engage in a very aggressive negotiation over a refund.
+
+From the ferns, a creature hopped out.
+
+It was a rabbit. But because this was a fantasy world, and regular rabbits were apparently too boring for anyone, this one had a spiraling, unicorn-like horn jutting out of its forehead. It was the size of a corgi and looked like it had a bad attitude.
+
+[Target: Horned Rabbit - Lvl 1]
+
+To me, it was a low-level mob. 5 XP, max.
+
+To Ren, it was something else entirely.
+
+His eyes widened. His jaw went slack. A stream of what looked suspiciously like drool began to form at the corner of his mouth.
+
+"Rabbit," he whispered, the word trembling with reverence.
+
+The rabbit twitched its nose and let out a low, threatening growl. It pawed the ground, ready to charge.
+
+Ren didn't back down. He took a step forward, his eyes locked on the animal's thighs.
+
+"In my time," Ren said, his voice taking on the tone of a documentary narrator, "the Leporidae family went extinct during the Great Plankton Wars of 2120. I’ve only ever seen them in archives."
+
+He adjusted his grip on the knife.
+
+"The Omni-Paste Corporation released a 'Heritage Series' Rabbit-Flavored tube once," he continued, circling the confused animal. "It cost three thousand credits a pouch. It was strictly for Sector 1 executives. I watched a streamer eat one once. He said it tasted like 'earthy chicken'."
+
+The rabbit lunged.
+
+It was fast. The horn aimed straight for Ren’s gut.
+
+Ren didn't dodge like a hero. He didn't parry like a fencer. He moved like a line cook during the dinner rush—efficient, frantic, and reckless.
+
+He threw his left arm out, taking the hit. The horn grazed his forearm, tearing the fabric of his shirt and drawing a line of red blood.
+
+[WARNING: HOST DAMAGE DETECTED.]
+
+I prepared to flash a health warning, but Ren didn't even flinch. He used the impact to close the distance. He grabbed the rabbit by the scruff of its neck with his free hand, lifting the kicking, squealing beast into the air.
+
+"I," Ren declared, ignoring the blood dripping down his arm, "am not an executive."
+
+With a single, precise motion, he brought the knife down. It wasn't a slash. It was a controlled severance of the spinal cord. Clean. Instant. Humane.
+
+The rabbit went limp.
+
+[COMBAT RESOLVED.][+10 XP.]
+
+Ren dropped to his knees, holding the dead rabbit up to the sunlight like Simba on Pride Rock. He was weeping. Actual tears were streaming down his soot-stained face.
+
+"Meat," he sobbed. "Real, non-printed, non-paste meat."
+
+He looked at the carcass with a terrifying intensity. Then he looked at the blood on his arm. Then back at the rabbit.
+
+"I need fire," he said, his voice snapping back to practicality.
+
+He opened the System Shop again.
+
+Yes, I thought, mentally rubbing my hands together. The hunger sets in. The consumer demands expand.
+
+He browsed the survival tab.
+
+[Flint & Steel Set - 50 D][Pouch of Coarse Sea Salt - 50 D]
+
+He bought them both without hesitation.
+
+[TRANSACTION COMPLETE.][HOST SPENT: 100 D.][COMMISSION: +1 SPP.]
+
+Six points total. I was rolling in it. At this rate, I’d be able to afford a text-to-speech module by the time he hits level 50.
+
+Ren went to work.
+
+I had watched thousands of hours of gameplay in my old life. I had seen players skin animals with a single button press. Press X to Harvest.
+
+Ren did it manually. And it was... art.
+
+He hung the rabbit from a low branch using a vine. He made an incision around the ankles. He pulled the pelt off in one smooth motion, like removing a sock. He gutted it with surgical precision, separating the organs, saving the heart and liver, discarding the rest.
+
+He built a fire pit, arranged the stones, and used the flint to spark a flame on his first try.
+
+While the fire burned down to coals, he rubbed the salt into the meat. He massaged it in, working the crystals into the muscle fibers.
+
+He skewered the rabbit on a stripped green branch and set it over the heat.
+
+Then, he waited.
+
+For thirty minutes, nothing happened in the forest except the sound of fat rendering and hitting the coals with a hiss. The smell wafted up—a rich, gamey aroma that was lightyears away from the smell of ozone and burning plastic.
+
+I watched him. Usually, hosts are busy checking their stats, looking for the next quest, or worrying about the plot. Ren was just staring at the rotating meat, his face a mask of pure, zen-like focus.
+
+Finally, he pulled it off the fire. He let it rest for exactly five minutes (I timed him). Then, he tore a leg off.
+
+Steam rose from the joint. The skin was golden and crisp.
+
+He took a bite.
+
+He closed his eyes. He chewed slowly. He swallowed.
+
+A shudder went through his body.
+
+"It doesn't taste like chicken," he whispered, opening his eyes. "It tastes like... freedom."
+
+[HIDDEN ACHIEVEMENT UNLOCKED: THE FIRST TASTE][Consumed natural food cooked by your own hand in a new world.][REWARD: 100 DOLARION.]
+
+A second notification popped up for me.
+
+[SYSTEM REWARD MATCH: +100 SPP.]
+
+I stared at my account balance. 107 SPP.
+
+Wait. If he earns money, I get points. If he spends money, I get points.
+
+I was wrong. This wasn’t just commission—it was getting paid to get paid.
+
+I looked at Ren, who was happily gnawing on a rib, grease staining his chin. He had 500 Dolarion left (400 remaining + 100 reward).
+
+You know what would go great with that rabbit? I thought, my inner voice dripping with sarcasm. Pepper. Black pepper. Maybe some garlic powder. I bet I could put a banner ad right at the top of his HUD...
+
+No. Too risky. The Moderator might see.
+
+But still.
+
+I opened the backend of the shop interface. I found the listing for [Small Jar of Black Peppercorns].
+
+I highlighted it. I moved it to the "Recommended for You" carousel on the shop's front page.
+
+Just a little nudge, I thought. For the economy.
+
+Ren finished the rabbit, tossed the bones into the fire, and sighed with contentment.
+
+"Okay," he said, wiping his hands on his ruined pants. "That was the appetizer. Now... where's the main course?"
+
+He looked at the dark, forbidding forest around him, not with fear, but with the appraising eye of a man scanning a buffet line.
+
+"I wonder what a dragon tastes like."
+
+I groaned internally. Great. I was stuck with a gourmand murder-hobo. At least he was going to be an expensive one.

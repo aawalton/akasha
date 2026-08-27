@@ -3,7 +3,7 @@ id: 019f0fdc-4a39-7ae0-a4b3-ba9e528fda62
 page-type-slug: page-type
 title: "Game"
 extends-slug: collection
-files: stories:**/*.game.md
+files: akasha:**/*.game.md
 body-shape-slug: text
 slug: game
 plural-slug: games

@@ -1,0 +1,100 @@
+---
+id: 187d5e78-0940-5572-a9e6-293ef43071ef
+page-type-slug: story-chapter-royal-road
+title: "Announcement!"
+partOf: reborn-as-a-demonic-tree
+position: 27
+ownLength: 552
+unit: words
+ownProgress: 552
+publishedAt: 2025-05-07
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2262632/announcement"
+royalRoadId: "2262632"
+markedReadAt: "2026-06-29T19:02:25.476Z"
+---
+
+Since some words are required in this box have some info about flowers in Demonic Tree ripped from my notes lmao:
+
+Blaze Serpent Rose: A common Crimson Rose that grows in volcanic regions. They release a lot of Fire Qi.
+
+Serene Mist Camellia: A small pink flower that converts water Qi into a mist that obscures it from predators. The Serene Mist Camellia attached to the top of trees and released a light mist that fell down and provided water to the foliage below.
+
+Qi Flowing Grass:  Plain-looking grass with yellow tips, "This grass is known for its properties to facilitate the flow of Qi through the body's spirit roots, so it's an essential ingredient for most pills."
+
+Starlight Lotus: "Then we have the starlight lotus," Elder Margret pointed at a beautiful light blue flower that looked like it had twinkling stars growing on its petals, "Despite how beautiful they look, they aren't too rare. They can be easily grown in lakes exposed to the night sky. This is important as they only bloom under starlight and absorb cosmic energy. Once plucked, they begin to degrade within days." "It's known to enhance the potency of pills by unblocking muscle tissue." Elder Margret said, "This makes the starlight lotus vital for a Body Strengthing Pill as it will primarily target the muscle tissue."
+
+Dreamweaver Orchids: Appear in chapter 147. When grouped together they release enough illusion Qi to create a fake mirage of a woodland grove.
+
+Celestial Peony Petal: Appear in chapter 159. A petal from a celestial peony that grows only in heavenly realms. It's believed to have a high concentration of pure celestial energy, beneficial for purification. It is just a simple pink looking flower.
+
+Heavenly Bamboo Essence: Appear in chapter 159. Extracted from a Heavenly Bamboo, a rare plant found on the highest mountain peaks. It has the property to cleanse and purify the body and spirit. Appears as bone white bamboo shoots.
+
+Moonlight Calla Lily: Chapter 163, ingredient stolen from Kane Azurecrest. Unknown what it does.
+
+Nine Star Soul Grass: A rare herb that grows in the regions where nine stars shine brightly. It is known to cleanse the soul and spirit, bringing clarity and enlightenment.
+
+Sinister Fog Bellflower: A black and blue flower that spews out demonic mist Qi.
+
+Alchemy
+
+Tiers:
+
+Mortal Tier - 1st
+
+Spirit Tier - 2nd
+
+Profound Tier - 3rd
+
+Earth Tier - 4th
+
+Sky Tier - 5th
+
+Divine Tier - 6th
+
+Celestial Tier - 7th
+
+Heavenly Tier - 8th
+
+1x Qi Flowing Grass
+
+1x Starlight Lotus
+
+1x Dragon Marrow
+
+The Body Strengthening Pill is a Tier one pill that helps strengthen the physical body.
+
+1x Qi Flowing Grass
+
+1x Dragon Marrow
+
+1x Celestial Peony Petal
+
+1x Heavenly Bamboo Essence
+
+1x Nine-Tailed Fox's Tear
+
+This pill detoxifies the body of spiritual toxins or foreign energies that may have infiltrated a cultivator's body, purifying their Qi and ensuring smoother cultivation.
+
+A popular pill the can conceal a cultivators aura making them appear like a normal mortal.
+
+Dragon Marrow
+
+Qi Flowing Grass
+
+Starlight Lotus
+
+Celestial Peony Petal
+
+Dreamweaver Orchids
+
+Heavenly Bamboo Essence
+
+Nine Star Soul Grass
+
+Moonlight Calla Lily
+
+(Given by Senior Lee to Stella in chapter 54)
+
+(Given by Senior Lee to Stella in chapter 55)
+
+Pale blue pills that helped Stella resist the heavenly lightning.

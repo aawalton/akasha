@@ -1,0 +1,167 @@
+---
+id: 760f141e-b6cd-5c4e-bdc7-a673e2fb86c0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 94: The Capitalist Crusader"
+slug: 0095-chapter-94-the-capitalist-crusader
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 95
+ownLength: 1990
+unit: words
+publishedAt: 2026-07-30
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3744796/chapter-94-the-capitalist-crusader"
+royalRoadId: "3744796"
+---
+
+That night, after Ren finally drifted off, his mind heavy with the weight of five very serious oaths, I went to work.
+
+He needed a weapon to fight Lord Greenwood. Caladorel was handling the memory magic and tracking, but Greenwood’s real power was his grain monopoly. You don't fight a merchant prince with swords; you fight him with supply and demand.
+
+I dug through my module interface until I noticed a tab I hadn't used since my very first day on the job.
+
+[MODULE: Quest Generation Suite] [STATUS: ACTIVE]
+
+I stared at the glowing letters. The rules for Observers were strict: Do not directly interfere with the local economy. However, a glaring loophole sat right there in my temporary job description: Interpret local needs and present them to the Host.
+
+If the local need was "affordable bread," and the Host needed an incentive to provide it...
+
+I think it’s time to generate some very specific quests, I thought, a digital grin spreading across my consciousness.
+
+I set up a series of staggered objectives for Ren. Sell 1,000 units of grain. Establish 5 new distribution nodes. The rewards were where I really broke the rules. I bypassed the standard SPP payouts and dove deep into the shop's discount codes.
+
+[REWARD: 90% Discount on Bulk White Bread (Limitless Quantity)] [REWARD: 90% Discount on Raw Wheat (Limitless Quantity)]
+
+I was going to give Ren the ability to undercut Lord Greenwood so aggressively that the man’s entire business model would implode within a week.
+
+The next morning, I unveiled my masterpiece.
+
+I projected the new quest lines directly into Ren’s vision while he was brushing his teeth.
+
+Ren choked on a mouthful of water. He stared at the blue text boxes, his eyes wide, dripping water onto his tunic.
+
+"Ninety percent?" Ren coughed, wiping his mouth with the back of his hand. "Ana, this means I don't have to eat the loss from my own pockets. I can flood the market and still break even."
+
+[Ana: Consider it a stimulus package. We’re going to hit his wallet so hard his great-grandchildren will feel poor.]
+
+Ren laughed, a sharp, manic sound that echoed in the washroom. "Ana, I must say, you can be a capitalist tyrant at times, but you are a tyrant with a heart of gold."
+
+He didn't waste time. He threw open his bedroom door and marched down the hall.
+
+"Sylas!" Ren shouted.
+
+The butler appeared instantly. He was already dressed and immaculately groomed despite the late-night forest meeting. "Yes, Master?"
+
+"We are going to the Spice Market," Ren ordered, adjusting his velvet tunic. "I will need a lot of peddlers and a robust logistics network for what I am about to do next."
+
+Sylas blinked, clearly taken aback. He was still reeling from the revelation that he was serving the first High Elf seen in millennia, and his Lord was already planning a mundane morning shopping trip.
+
+"Of course, My Lord," Sylas said, quickly recovering his composure. "I will prepare the carriage."
+
+[Ana: Ren, maybe give them a minute? They are still processing the fact that Lily is basically their biological sovereign. You didn't give them much time to decide on their stance before dropping a holy crusade in their laps.]
+
+I don't know why, Ana, Ren replied mentally, his thoughts tying into a tight, anxious knot. But lately, I have been having this gut feeling that time is something I don't have much of. I need to act fast. I need to act decisively to secure her future before someone else makes a move.
+
+Well, he isn't wrong, I thought to myself, the reality of my own precarious situation creeping in. This is a temporary ticket for me. I haven't found any way to make this permanent yet. And I'm about to flagrantly misuse the System Shop and Quest Generation modules right before I'm supposed to meet with a higher-up to receive a promotion.
+
+If the Admin audited my logs, I was going to be recycled into a toaster.
+
+...
+
+Ren and Sylas arrived at the Spice Merchant's Guildhall.
+
+The room was opulent, smelling heavily of cinnamon and expensive tobacco. The merchants sitting around the long mahogany table looked up as Ren entered. They were the very same men who had haggled fiercely over the Five-Spice powder just months ago.
+
+Now, they looked at Ren like he was a minor deity. Business had been booming. MSG and Five-Spice were flying off their shelves faster than they could stock them. They were blind, fanatic followers of Lord Fenris and his miraculous products.
+
+"Gentlemen," Ren said, taking his seat at the head of the table. "Do you trust me?"
+
+Nods and murmurs of enthusiastic agreement circled the room.
+
+"Excellent," Ren smiled. "Because I have a proposition for you all. Shall we expand our business?"
+
+"Always, Lord Fenris," Gormal, the head merchant, boomed happily. "What new exotic dust have you brought us today?"
+
+Ren leaned forward, steepling his fingers. "Let us expand into the foundational food sector. I am talking about grain. And bread."
+
+The room went dead silent. The enthusiastic nods stopped instantly.
+
+It was an unspoken law in the capital. The Greenwood family held an absolute monopoly over grain. No one else was even able to buy it in bulk, let alone sell it. Making an enemy of such a powerful Lord, a core member of the Old Circle, was commercial suicide.
+
+One of the merchants, a thin man who seemed to wear more jewelry than skin, finally spoke up, his voice trembling slightly. "But... My Lord... where would we even get the grain? We cannot source it. The Greenwoods control the silos, the farms, the transport lines."
+
+Ren replied swiftly, his voice cutting through their fear. "Don't worry about the sourcing. I will handle the supply. I need all of you to handle the distribution. We will strike before Lord Greenwood even knows what hit him. By the time he realizes what is happening, our goods will have spread to every warehouse and market stall throughout the nation. We will cripple him financially."
+
+They were still highly skeptical. Promises were cheap; grain was expensive.
+
+Showtime, Ren thought.
+
+I triggered the purchase commands from the backend.
+
+A dozen loaves of perfectly baked, fluffy white bread materialized on the long mahogany table. They were wrapped in clean, wax-lined paper, each one bearing a stamped emblem of the Fenris silver wolf.
+
+Following the bread, several large, burlap sacks of premium, milled white flour and assorted grains appeared with a heavy thud on the floor behind Ren.
+
+The merchants leaned in. They prodded the bread. They opened the sacks and ran the fine, white flour through their fingers. The quality was staggering. It was pristine, completely free of chaff or weevils. It was like nothing they could have imagined.
+
+Ren hit them with the final nail in the coffin.
+
+He named the price at which the bread and grain would be sold to the populace. Then, he outlined the percentage cut each of them would receive on the first few shipments.
+
+Gormal gasped. "My Lord... at those prices, you are selling at a massive loss! You are giving it away!"
+
+"You see," Ren said, his voice dropping into a conspiratorial whisper, "I am currently in a bit of a squabble with Lord Greenwood. It is a fight I didn't start, but I do intend on ending. I need all of your help. If I don't survive this ordeal, you all will lose the exotic goods I supply to you. The spices dry up."
+
+It was a masterclass in manipulation.
+
+The one thing merchants value above all else is profit. They value money, and they fiercely protect the source of their goods. Ren was offering all three. If Greenwood managed to do away with Ren, they would lose their source of MSG and Five-Spice, losing buckets of gold. Furthermore, this new revenue source from the heavily discounted grain was too lucrative to let go.
+
+Gormal looked at the flawless white bread. He looked at Ren.
+
+"We are with you, Lord Fenris," Gormal declared, slamming his fist on the table.
+
+They all agreed. Unbeknownst to the King, the local economy was about to be hit with an artificial surplus of unparalleled quality. The price of basic sustenance was about to plummet rapidly, tearing the bottom out of the market.
+
+...
+
+What no one else knew was that at that exact same moment, Lord Greenwood was sitting in his own private study, completely unaware of the Royal Taster's catastrophic failure at the Seaside Inn the previous day.
+
+Greenwood was in high spirits. He sat behind his massive oak desk, swirling a snifter of imported brandy. He chuckled, a low, rumbling sound of pure satisfaction.
+
+"The trap is set," Greenwood announced to his head butler, who stood stiffly by the door. "Farhos sent word last night. The inspection is complete. He assured me the paperwork failing the Seaside Inn is currently sitting on the magistrate's desk, awaiting the royal seal of disapproval."
+
+The butler bowed his head. "An excellent maneuver, My Lord."
+
+"Indeed," Greenwood sneered, taking a sip of the brandy. "That upstart thought he could steal my military contracts and walk away clean. By tomorrow morning, his inn will be shuttered. His reputation will be ruined. And then, we swoop in."
+
+He gestured expansively with his free hand. "I have already instructed the harbor masters to begin hoarding the incoming grain shipments. We are creating a shortage. An artificial famine. When the populace is starving, and Fenris is bankrupt, I will graciously step in to 'save' the city by releasing my reserves at triple the market price."
+
+Greenwood stood up, walking over to the window that looked out over his sprawling estate.
+
+"He stole my gold," Greenwood growled, his reflection staring back at him from the glass. "I will take his business, his pride, and every last copper he owns. The civilian avenues are still mine to control."
+
+Little did Greenwood know, he wouldn't even survive the week trying to undercut the tidal wave of cheap, high-quality flour about to hit the streets. He was celebrating a victory in a war he had already lost.
+
+...
+
+Miles away from the capital, in a fortified military encampment near the northern border, a certain half-elven mage was reading her mail.
+
+Lady Parisa sat in her command tent, a steaming cup of Spicy Beef ramen resting on her desk. She had just received a sealed letter from her darling younger brother, hoping to read updates about her newly discovered, adorable little niece.
+
+What she read enraged her so completely that the ambient mana in the tent ignited, setting the edges of her tactical maps on fire.
+
+She continued to read, her eyes scanning the hurried, coded script. Her younger brother was being targeted by a grubby, greedy noble. Lord Greenwood had somehow sent a spy, assaulted children under Ren's care, and was actively trying to use Lily as blackmail material.
+
+But the letter contained more than just the attack. Ren had uncovered Greenwood's darkest secret.
+
+The man had been deliberately underreporting the census in his private elven villages, creating an off-the-books retinue of slaves. He was brutalizing them for his own sick enjoyment, murdering young elven girls to destress.
+
+Parisa jumped up, kicking her chair backward.
+
+"Guards!" she roared, her voice echoing across the encampment.
+
+Her attendants rushed into the tent, eyes wide, hands on their weapons.
+
+"Prepare my war saddle," Parisa commanded, her eyes burning with raw, unadulterated magical fury. "We ride for the capital immediately."
+
+She was a woman out for blood. She wanted every pound of flesh this man named Greenwood possessed. He had threatened her new family. He had tortured her kin.
+
+Lord Greenwood had made a fatal error. He had threatened everything Parisa held dear to her core, and the full, devastating might of a Royal Inspector was about to land directly on his doorstep.

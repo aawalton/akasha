@@ -1,0 +1,349 @@
+---
+id: 31669ec6-dba5-5c91-b997-f99e5ffb279b
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED THIRTY-EIGHT: Here-to-There XVIII"
+slug: 0240-two-hundred-thirty-eight-here-to-there-xviii
+partOf: super-supportive
+position: 240
+ownLength: 4503
+unit: words
+publishedAt: 2025-08-16
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2522151/two-hundred-thirty-eight-here-to-there-xviii"
+royalRoadId: "2522151"
+---
+
+238
+
+******
+
+[Boe: Are you back on Anesidora yet? Or is this message traveling impossible distances and contributing to your future bankruptcy? I’m heading out to meet up with Jeremy. Got time to talk on the way if you’re awake.]
+
+[Alden:  Awake. Something came up, so I’m still on 1. With Stuart, reporting a wizard who broke a wand to the proper authority. I’m not into the conversation they’re having right now. Please distract me. Where are you going with Jeremy?]
+
+[Alden: You there?]
+
+[Alden: I get it. You found a dart frog to talk to instead.]
+
+[Boe:  Don’t pay to send a frog text to another planet while you’re in the presence of wizard police. Just text me when you get back to Earth.]
+
+******
+
+******
+
+Alden stared at Boe’s last text, hoping there would be another, before regretfully banishing it. He went back to sipping on the iced tea he’d been given and rocking in his chair. The assistants had brought out a couple of silent white fans to keep the hot air moving, and the breeze from one of them wafted the sweet scent of a few uneaten slices of fruit toward his nose.
+
+Not much was required of him, even now that Executioner Vill-ma was aware Stuart expected him to be regarded as more of a guest. A while ago, she had started leading the conversation toward her favorite topic—exceptional criminals and the exciting challenges they presented to members of her profession. Now, she was happily monopolizing the speaking opportunities as she warmed to the subject of one such criminal she knew Stuart would be familiar with.
+
+“To see a talented wizard misuse himself is disappointing, but geniuses are the most exhilarating cases to manage. And your professor is such a blend of special circumstances and pressures. Furious grand senators. The value of the research and the mind that produced it. Him claiming the right to inhabit the Luklo region of Thegund based on his heritage, and then suggesting in the next breath that the residents of Chayklo should be considered his responsibility and counted toward his merit.”
+
+Vill-ma sighed. With longing, Alden thought.
+
+“To have someone you’re judging claim most of a moon and all the people on it for himself—we just don’t see things like that at my level. Ro-den’s executioners could have engaged a little more with his arguments. I’m not criticizing my superiors, of course. I’m only sad about losing the opportunity to hear their detailed opinions on the puzzles he tried to shove into the light of their consideration.
+
+“And he continues to be fascinating! They placed him in a situation that should have encouraged him to yield. Failing in that, I’m sure they thought it would keep him from complicating their lives any further for a few years. But he continues to force <<reconsiderations>>. Oh! Have you seen him on Earth?”
+
+Despite being a follower of the story of Ro-den’s long and messy downfall, Executioner Vill-ma had somehow missed learning the one part of it all that would have made her choice of subjects even stranger.
+
+Stuart was watching Alden.
+
+“He’s been in the news often,” Alden said. Best to keep it simple. “He’s helping clean up the island. His work is appreciated by most Anesidorans.”
+
+[Her talking about him doesn’t bother me,] he sent in response to Stuart’s  look. [I don’t have any energy left to be mad at him right now. And hearing a couple of details I didn’t know isn’t bad.]
+
+Vill-ma chortled and drummed her hands against the arms of her rocker. “He <<slithered>> through another tunnel in everyone’s plans for him as soon as the entrance revealed itself! Making safe the home planet of an Avowed he misused is more direct recompense for one of his crimes than the teaching position, so they shouldn’t disallow it. Especially not with him already on Anesidora showing off to the Avowed there. But now he’s submitting modifications to decontamination spells, corrections to other scholars’ work on Earth oceans, and recommendations for strengthening our ties to the human species in the aftermath of this event. I don’t have access to those plans, but it was so bold of him to declare expertise in that area at a time like this.”
+
+Vill-ma had not bothered to learn the name of the human Ro-den had misused. That was something she was surely going to regret when she ran across it again in some footnote of the professor’s criminal biography.
+
+He submitted suggestions on how Earth and the Triplanets can strengthen our relationship? Does the Grand Senate accept counterarguments via email? Where do I send one?
+
+Here are several thousand reasons why Worli Ro-den should not be considered a humanity expert. Whatever he says about us should be ignored...
+
+The only problem with that was that Ro-den was actually great at getting humans to like him. Making violent Avowed climb a staircase to nowhere, speaking an Earth language with extraordinary fluency, and exuding wizardy panache every time a camera caught a glimpse of him had given him that stellar Bald General reputation.
+
+But Vill-ma was right. The audacity.
+
+“All of that must now be evaluated toward his credit,” she said. “Maybe I should volunteer to help his executioners study his efforts. I’m sure they’ll reject the offer with so many eyes upon them, but it would be engaging for me if they agreed.”
+
+The door at the end of the balcony slid open, and one of her assistants appeared to clear away the fruit and replace each of their drinks with a fresh one. The tea was a different variety this time. A familiar one. Alden took the squat glass he was offered without comment and frowned at it.
+
+“Are you certain our hn’tyons wouldn’t appreciate it if I took their trouble due to this Olget-ovekondo into account?” Vill-ma was asking Stuart. “I could explore more creative opportunities for him if I did.”
+
+Is there not enough crime to go around to keep the base level executioners entertained, or is she just a go-getter?
+
+While Stuart assured her that Emban, Bithe, and Ryada wouldn’t like that, Alden mulled over what “creative opportunities” might mean.
+
+Could this be how Gorgon ended up working the front desk at a consulate on Earth instead of something more ordinary?
+
+It was a natural thing to wonder right now when he was interacting directly with an Artonan who decided on punishments for crimes, but the thought hit him in an odd way.
+
+He was aware that the Triplanets considered Gorgon a criminal. At one point, he’d even had a wriggling question or three about what the alien had actually done. But that was before he’d looked into Gorgon’s eyes and had the sense that something sacred and benevolent stared back at him.
+
+“Gorgon...are you some kind of a god?”
+
+He’d really asked that. Ten months later, he was a little confused that he’d been that loopy when he first woke up from being knocked out by Gorgon’s gaze. But the certainty that Gorgon was good despite whatever crimes he could have committed lingered.
+
+Did he even do anything wrong, or does some really powerful person just hate him? And whether he did or not…isn’t his imprisonment too bizarre?
+
+So much about it was just off. Why was he working in a busy lobby? Why was he working in a busy lobby on Earth?
+
+Alden had never heard of extraterrestrial prisoners being held in any other publicly accessible locations on Earth.
+
+He had never heard of another unknown species living on Earth either.
+
+This seems like the kind of thing that should spark conspiracy theories all over the place, but we just get light Desk Demon gossip and a few rude tourists taking pictures.
+
+Most people who attended lessons at the consulate barely acknowledged Gorgon as they passed through the lobby.
+
+Here are the classrooms, there are the shoe cubbies, don’t annoy the guy with the horns. He once eviscerated somebody if you believe the rumors, but more importantly, he can turn off our internet access.
+
+Alden supposed Gorgon had been part of the city for so long that he’d just become a fixture of the place instead of someone that everyone should freak out about.
+
+People must have done all of their freaking out decades ago when he moved in, right? And then they just got over it. At least Boe says Gorgon likes—
+
+One of the pieces of ice in his unsipped drink popped. And Vill-ma was rising from her rocker, telling them she was going to send her son and his tutor inside and prepare a few things before the accused arrived.
+
+“Are you well?” Stuart asked while the executioner descended a staircase into the courtyard.
+
+“Yes. Just thinking about something back in Chicago.”
+
+“I’m glad this will be over soon,” Stuart said. “I expected it to be stressful, and it meets my expectations.”
+
+Alden was afraid that asking a simple question about Gorgon would be an admission of some kind, but that was an unreasonable fear, wasn’t it? And this was a unique opportunity. Right now, it was a very normal subject to bring up. It might not be so again for years.
+
+A casual chat at the executioner’s place about various criminals wasn’t going to be on his schedule again if he could help it.
+
+He took a breath. “There’s an alien at the Artonan consulate in Chicago. A prisoner who can’t leave the building. I saw him all the time when I was on the way to class. Why do you think he’s there?”
+
+“An alien? You mean not human or Artonan?”
+
+“He’s something else.”
+
+“Perhaps he harmed one of the consulate workers,” Stuart suggested, “and so he was placed there to serve his sentence.”
+
+Alden almost said that there were no other workers there, but then he realized that there probably had been in the past. And whoever Gorgon’s current supervisor was qualified even if they were never around in person.
+
+If he disemboweled his supervisor, then I’m surprised they get along well enough for him to voluntarily ask her for stuff.
+
+“Or if he has rare abilities that are suited to the consulate’s function, that might be a reason. Giving him the best opportunity to repay his debt could justify a posting on your world. I’m sure his crime wasn’t too disturbing or dangerous, or he wouldn’t be in a position where young humans encounter him on their way to class.”
+
+He has the rarest of abilities. I can’t see how the consulate is using them, but what do I actually know about what goes on in that place when I’m not around?
+
+“There’s a rumor in Chicago that he eviscerated somebody.”
+
+“Is he a griveck then? They can do disturbing things to one person and still not be dangerous to students attending lessons.”
+
+Alden had been about to add that the evisceration rumors sounded like the kind of story a teenager might have made up forty years ago after seeing Gorgon for the first time, only for it to gain a life of its own. But this was another opening.
+
+“He’s not a griveck. He’s not a species I recognize.”
+
+That made Stuart look more curious. “I think I know every species we’ve ever encountered that could reasonably be imprisoned. What does he look like?”
+
+Ill at ease, even though describing an individual familiar to an entire city couldn’t possibly be considered revealing secret information, Alden described Gorgon’s gray skin, short stature, many horns, and sharklike eyes.
+
+He didn’t mention the overwhelming, ecstatic effect those eyes could have on a person. He doubted they’d let Gorgon keep living in the consulate if they knew he was able to work around the rules of his bondage well enough to do magical things to anybody who came along with a mean cat and a jar of salsa.
+
+Stuart listened raptly. “I’ve never heard of a species like that. He must be someone who’s modified himself. The <<rebel-bodied>> are far more common than the Fetunas pretend they are, and if he’s one of them, that would explain why he couldn’t serve his punishment on his own world. They treat those who choose to alter or display themselves cruelly by our moral standards.”
+
+So even the Primary’s son didn’t know what Gorgon was.
+
+Alden knew what he wasn’t—a morphed, transmogrified, or surgically modified Fetuna who refused to wear body coverings. But justifying that statement without saying, “He’s from a cannibalistic species that could do magic,” was hard.
+
+And Executioner Vill-ma was on her way back up the stairs.
+
+Olget-ovekondo’s time had run out.
+
+******
+
+******
+
+******
+
+Jeremy Levi spun on a vinyl-topped stool and grinned at the person who’d just entered the crowded diner. Boe Lupescu didn’t grin back, but he nodded in acknowledgement as he wove behind a waitress with a laden tray then past a table full of old ladies dividing up leftovers into their to-go containers.
+
+“Sorry I’m late. Thanks for ordering for me,” he said as he took off his scarf and jacket and claimed the seat at the counter beside Jeremy.
+
+“It’s fine. Glad you said yes this time. You asked for coffee and whatever, so you’re having the special.”
+
+“What’s the special?”
+
+“A Reuben. And a blueberry pancake.”
+
+“The Reuben comes with a pancake?”
+
+“They let me substitute it for the fries. I didn’t know if you wanted breakfast or lunch, so you get both.”
+
+“That sounds extremely edible.”
+
+They had a few minutes to talk about the usual nothings. A couple more to be dramatic about the coagulation of spoiled half-and-half in a mug of cheap coffee. One to comment on the pocket notebook Jeremy was using to track his macros now that he had an athlete girlfriend who was strict about her own diet. And then there wasn’t anything left for the two of them to discuss but the obvious absence in their group, and so for another minute, they didn’t speak.
+
+Dishes clattered. Two men at the table behind them mused about what population size Earth could comfortably support with and without magic, and a woman gabbed with customers while she stacked jars of a new custom seasoning blend into a pyramid at the other end of the counter.
+
+The television high up on the wall behind her was on one of the local stations, like usual.
+
+“Should I have picked a different place?” Jeremy asked while he cut up a piece of Canadian bacon.
+
+“Why? This is one of your favorite breakfast spots. And my sandwich is great. Alden’s missing out.”
+
+Jeremy nodded. “Their school food looks good, though, doesn’t it? And he’s got that Dura Brute who’s teaching himself to cook. Haoyu.”
+
+“Everything there looks good. An ugly Anesidora would wobble the status quo.”
+
+“He’s got Natalie, too,” Jeremy said. “If he can persuade her to feed him again. And he sent me a link to an American-style diner he found that serves what he says are the best hash browns in the world.”
+
+“Yeah. Well. He’s not eating there this morning.” Boe took a bite out of his Reuben that looked more like an attack against the sandwich than enjoyment. Dressing oozed around the edges.
+
+“You’ve talked to him already today? I was going to call him later and tell him Kimberly’s decided on Michigan. I’m sure he doesn’t care where my girlfriend goes to college, but he pretends to. How’s he doing right now?”
+
+“He’s being stupid and refusing to admit it,” Boe said shortly. “So he’s fine until the consequences hit, I guess.”
+
+Jeremy developed a silent interest in his omelet that was eventually broken by Boe motioning for his pocket notebook and the pen clipped to the front of it. He slid it over, and Boe scribbled something in it before putting it back down between their plates. Boe gulped the new cup of coffee he’d been given while Jeremy read it.
+
+“And…you’re mad about this?” Jeremy asked.
+
+“Why wouldn’t I be?”
+
+“Why would you be, man? It’s not like he’s doing something wrong.”
+
+Boe’s mug clacked against the countertop. “Give me that again.”
+
+He wrote something else. Jeremy spent longer staring into the notebook this time.
+
+They’re not just wizards, it said. They’re generals.
+
+When he finally looked up, he said, “So those are the kind of people he’s hanging around…?”
+
+“You see why I’m perturbed.”
+
+“I do.” Jeremy pushed the last bite of eggs around his plate, then set the fork back down without eating. “But also I don’t. Every time I hear he’s having fun, I’m relieved. Or…it’s not only relief, but it’s like, ‘Look at that. He can do something like that now and enjoy it? After everything that’s happened to him? Hell yes, Alden!’ I even get this rush from it sometimes. Especially whenever he’s doing something extra out-there.”
+
+Boe stared at him.
+
+“For real,” Jeremy said. “It started with ordinary stuff when I went to visit him. ‘Wow, Alden works out a lot now. He shops by drone. He likes pinball.’ And none of that is exciting, except yeah it is. Because I was so nervous to go see him in person. I thought he might be faking being okay on his calls.”
+
+“He was.”
+
+“I know. He wasn’t sleeping ever, and they were keeping him in a private room. But he was okay enough to talk, smile, and breathe. That was a lot at the time. Now it’s a couple of months later, and he’s flying around campus on a magic vehicle. He’s calling us to help him donate a ton of money to charities. Thanksgiving was the best. It was so funny that he got himself stuck in that situation. But what an awesome, once-in-a-lifetime situation, right? I watched him on a video while he was trying to get the turkey and that giant cornucopia to Matadero. People were waving at him out of their apartment windows, and he was waving back.
+
+“He was so alive, Boe. Doing something that wasn’t just surviving. Making a memory he’s going to laugh about for years. Like this.” He tapped the notebook. “I’ve got a rush right now from the first thing you wrote. Seriously, look at what you wrote here, man!”
+
+He’s spent almost two whole days on Artona I with Stuart, Stuart’s cousin, and their friends. Doing some kind of alien migration with them. He’s been partying and doing rituals, and now they’re reporting on someone they caught committing a crime.
+
+“This is cool,” said Jeremy. “How is this not cool?”
+
+“You don’t know everything that’s going on with him,” Boe muttered.
+
+“I’m sure he tells you things he doesn’t tell me. But I think you’re worrying so much about what could happen to him that you can’t be happy when he shows signs of moving away from that…I think it was like a desperate survivor headspace he was in when he got back. It’s natural. He almost died. But it must be so hard to live in that mode. I hope he appreciates not dying by doing more stuff like what you wrote here. I hope he figures out who he wants to be now, and life lets him have it.”
+
+Boe looked down at his partially eaten sandwich and pancake. “I get how you’re thinking. You’re right about some of it, but I’m not going to be happy he’s hanging around more and more of those…types of people…and getting so freaking attached to them.”
+
+“Why?”
+
+“Because they’re dangerous,” Boe hissed.
+
+“He shouldn’t be attached to them because they’re dangerous?”
+
+“Yes. Are your ears working?”
+
+“They are. By the way, when are you coming over to help me fix that thing that someone broke in my bedroom?”
+
+Boe’s shocked expression met Jeremy’s wince.
+
+“I didn’t mean to bring that—”
+
+“Don’t worry about it. It’s my fault, after all. So much of this shit that’s happened all damn year is obviously my fucking fault.” Boe was on his feet, grabbing his coat and scarf.
+
+“Boe, nobody in the universe thinks that except for you. I’m sorry. I really just wanted to have breakfast with…you’re taking my macro notebook.”
+
+Boe ripped out the page he’d written on and several below it and dropped the notebook back on the counter. “I’ll pay you back.”
+
+“I don’t want you to pay me back. I want you to sit down and talk to me. Let me—”
+
+“Done talking. See you at school on Monday.”
+
+“Boe!”
+
+He was already rushing toward the door.
+
+A minute later, the woman who’d been stacking seasoning blend came over and looked at Boe’s plate. “Your friend left in a hurry.”
+
+Jeremy swallowed. “Have you ever said exactly what was on your mind, and then the sound of it coming out of your mouth made you hate that you ever thought it?”
+
+“God, yes,” she said, picking up the coffee mug that had been in Boe’s hand a moment ago. “Happens to every human being with a heart. You want a box for his food?”
+
+******
+
+******
+
+******
+
+Alden stood beside Stuart, who stood beside the executioner. All three of them looked down over the smooth wood of the balcony rail to the courtyard below. Olget-ovekondo was down there, kneeling on dull red tiles and breathing so hard that Alden could hear him even from this distance.
+
+His brother had come with him and been forced by a command from Vill-ma into one corner of the courtyard after reading a message from their mother, who pleaded for mercy for her son and apologized on behalf of their family for his behavior. Which was more or less an admission that he had done it.
+
+Now, the man just needed to admit it himself, and this would all be over.
+
+“The strong may pull mercy from their pockets without noticing a loss,” Vill-ma said. “Be at ease, accused one. You kneel before the Artonan people, and we are strong. Will you tell me truths?”
+
+They waited.
+
+Olget-ovekondo had worn a beautiful gray coat, and a pair of the o’odee tendril feathers his family favored hovered over his back. Sweat or tears dripped down from his bowed head to leave small dark spots as they soaked into the tiles.
+
+Alden reached up to surreptitiously wipe the sweat from above his own lip with the back of a finger.
+
+This feels awful. And I’m scared the dumb, dumb person down there might do something wrong and literally lose his head. How is Stuart so calm?
+
+Despite his earlier stress, Stuart seemed attentive and almost at ease now that this moment had come. His posture was upright but not tense. His fingers rested lightly on the railing, while Alden’s own were clenched.
+
+“I w-would…,” Olget-ovekondo stammered. “I would like for the claim that I knew my actions might make the bors serve my family again in the future…that I hoped for that…it’s not the truth. I would have that claim unsaid.”
+
+“There are many reasons to believe that was your intent. And it could be proved. But I am willing to remove that accusation from my calculation of your sentence if these two witnesses agree to unsay it. This is the mercy I take from my pockets.”
+
+Olget-ovekondo looked up for the first time since he’d appeared in the courtyard, hope on his face. His brother, silent in the corner, slumped against the wall with relief.
+
+“We will step back a pace out of your hearing,” said Vill-ma. “So that the witnesses may discuss this with each other.”
+
+“Thank you, Executioner. However, I will not unsay what I have said.”
+
+The brother gasped. Olget’s jaw went slack.
+
+Everyone looked at Stuart.
+
+He’s saying no? So fast. Okay. No mercy from the pockets. He sounds very sure about it.
+
+Alden was glad he wasn’t a Brute. It would be so embarrassing to nervously rip this railing in half like a toothpick.
+
+“Hmmm?” Vill-ma had some surprise in her voice, but it was mild. “Since that is the case, accused one, you may request verification of your honesty for this claim. Or if the second witness wishes to disagree—”
+
+Alden thought he heard the wood beneath his hands creak, but it was a sound lost to Olget-ovekondo suddenly shouting, “Oh, wizard! My brother wizard! Is your belly stone, wood, or flesh?”
+
+He crawled forward, hands lifting toward Stuart.
+
+“Flesh,” Stuart said, still relaxed and unblinking.
+
+“Then I hunger for your mercy! This is the only claim I will ask you to unsay. All the others are true. I will agree they are true. Think of the kindness of my family. Think of my mother and how she will suffer if I am away for too long!”
+
+His voice echoed off the walls. When he was done speaking, there was no sound at all.
+
+Alden was watching Stuart closely, and so he had a perfect view when the Artonan boy’s right eye—the iris rust-colored and encircled by a thin golden ring—turned aside from Olget-ovekondo and toward a spot at the end of the balcony where it seemed there should be nothing to see.
+
+It was the first time Alden had ever seen Stuart split his vision. The eye returned to its starting position in a heartbeat.
+
+“As I consider you now,” Stuart said in a voice just loud enough to be heard by all present, “I prefer to think of my own mother. And her suffering. I will not unsay anything.”
+
+A moment passed, then Executioner Vill-ma tapped her black ring against the rail. “A second witness has already been recorded,” she said. “So if he wants to disagree with the first, there will be more of a process to go through before we move forward.”
+
+Three people focused on Alden. Stuart didn’t.
+
+And Alden realized he wasn’t nervous anymore. He could relax his own grip and his own shoulders. He could think past the immediate fear of seeing another person’s head roll. It wasn’t hard to speak clearly.
+
+“I will not unsay what I have said.”
+
+There were a few more things for Vill-ma to cover, but Olget-ovekondo’s life, as he’d lived it up until that moment, ended with those words. And the man knew it. He collapsed onto the tiles, his face hidden and his body shaking.
+
+Alden watched him tremble then took a few steps back out of the spotlight to drink the tea he’d been given.
+
+Behind him stood the son of people who’d suffered to protect others. Below him knelt someone who treated others like they existed for his convenience.
+
+The glass in Alden’s hand was slick with condensation. The liquid inside was dark blue. This was the same variety of tea Ro-den had given him once. His brain tried to make that mean something, but really it didn’t.
+
+It was just tea. Olget-ovekondo was just a tiny little man who’d done wrong. And people like Sina Stu-art’h and Alden Thorn had more important things to do.

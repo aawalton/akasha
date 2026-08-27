@@ -1,0 +1,213 @@
+---
+id: a7fe2ca9-2185-58c6-a085-0b47e1be71e7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 642 - Quest Completed"
+slug: 0643-chapter-642-quest-completed
+partOf: mythrans-master-of-all-continued-completed
+position: 643
+ownLength: 2470
+unit: words
+publishedAt: 2018-07-18
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/235376/chapter-642-quest-completed"
+royalRoadId: "235376"
+---
+
+“Now you need to send me to the same spot, only about 100 feet higher.” Ren said. “I can't let them think you are trying to keep me prisoner.”
+
+“Are you sure you want to go there?” Lylyth asked. “He did try to banish you the last time you were there.”
+
+Ren chuckled. “Is that worry I hear in your voice?”
+
+“No.” Lylyth said and kissed him as she cast another portal. “Have fun.”
+
+“Yes, My Queen.” Ren said, took her hand and kissed the back of it before letting it go, then grabbed Artemis by the hand as Teepo dissolved into the ring and they jumped through the portal. They appeared about 120 feet above the High Elves, who were looking around like it wasn't real. Ren summoned Teepo and gave Artemis a wink, then let her hand go.
+
+“WATCH OUUUUUT!” Ren yelled to the High Elves.
+
+“REN!” Artemis yelled and flew to try and catch him. She played along and pretended to almost catch him, then he slammed into the ground.
+
+“Ufff!” Ren grunted as he hit the paving stones. He had angled his descent so that he wouldn't hit anyone, just in case the High Elven Council hadn't had enough time to scatter out of the way.
+
+“Are you all right?” One of them asked as Artemis landed.
+
+“REN!” Allynna yelled and dragged the High Lord over to him.
+
+“I'm fine. I'm fine!” Ren said and sat up. “Making a portal so I would fall was a neat idea.”
+
+“You're crazy.” The female High Elf he had interacted with before said.
+
+“No, a fall like that wouldn't hurt me.” Ren said and stood up, then wiped off the dust from the cracked stones. “Oh, I should replace those.” He said and pulled up the broken paving stones and stored them, used his Hands of the Gods ability and chose the Rocky Hands (Earth) option and filled in the ground, then put new paving stones down and tapped them into place. The High Elven Council and several townspeople had watched with curiosity.
+
+“Ren, did... did you just... make Earth from your hands?” Allynna asked.
+
+“Hmm? Oh, yes. It's my Hands of the Gods ability.” Ren said, and everyone within earshot gasped.
+
+“No, that's not possible.” The female High Elf said. “An Adventurer can't have that ability.”
+
+Ren chuckled. “I've had it for a while, actually.” He said and switched to the Burning Hands option and spewed Fire up into the air using his Fire Manipulation skill. They all stared at the display, and he turned the ability off and absorbed the Fire. “Anyway, I better go. I know when I'm not welcome.”
+
+Ren took Artemis' hand and they started walking away.
+
+“Wait.” The High Lord said, and Ren turned to look at him. “I must, begrudgingly, admit that you were instrumental in our release.” He said through gritted teeth. “I will... relax the restrictions I have placed on your... forays into this kingdom.”
+
+“Really?” Ren let Artemis' hand go and quickly walked over to him, grabbed his hand and shook it vigorously. “Thank you!”
+
+The High Lord pulled his hand out of Ren's grasp and looked at it like he wanted to wash it. “I can always put them back into place, elfling.”
+
+“I'm sorry.” Ren said. “In my excitement I forgot I shouldn't thank you like an Adventurer.” He said and bowed deeply. “Thank you for your consideration, High Lord Alinar Keacaryn.”
+
+“Huh.” The High Lord huffed.
+
+“You should go before he changes his mind.” Allynna whispered. “I'll message mother right away.”
+
+“Thank you, Princess.” Ren said and bowed to her. Allynna blushed at the unofficial title, and Ren turned around and walked over to Artemis. He took her hand and they walked down the street and out of sight.
+
+“So, how long are we going to walk?” Artemis asked.
+
+“Just until I get the popup I'm waiting for.” Ren said, then a popup appeared.
+
+Notice!
+
+Please return to Yllana Arthion to complete her quest.
+
+“There we go.” Ren said and checked the All-Seeing Mirror for a clear spot in Yllana's apartment, then cast the Portal spell. Teepo dissolved into the ring, then Ren and Artemis stepped through the portal into her living room.
+
+“REN!” Yllana yelled and ran across the room to jump into his arms. “YOU DID IT!”
+
+“You asked me to get her back.” Ren said as he caught her, and she covered him in kisses.
+
+Quest Complete!
+
+The Unofficial Leader of the Elfling Race is overjoyed that you returned her daughter to safety.
+
+Rewards: 2,000 Influence - (Negated: Influence maxed)
+
+1,000 Honor (Negated: Honor stat frozen, no gains or losses possible)
+
+5,000 XP (Negated: XP maxed)
+
+2,500 Fame (Negated: Fame maxed and XP conversion cancelled; XP maxed)
+
+Yllana's Family Heirloom
+
+Ren read and dismissed the popup as Yllana made sure to kiss every inch of his face. “It wasn't that difficult.” He said and summoned Teepo.
+
+“It wasn't... are you crazy?” Yllana asked. “You went into the Underworld and brought out my daughter, the High Lord, and the entire High Elven Council.” She said and placed a final kiss on his lips. “Even if all you did was walk in there and walk out, that's still an amazing feat.”
+
+“If that's the case, I've been amazing quite a few times now.” Ren said, and she shook her head.
+
+“You joke, but it's still a wonderful thing that you did.”
+
+“Well, the Queen of the Dark Elves did want to keep the High Lord as a concubine.” Ren said. “It took a lot of convincing to change her mind.”
+
+Yllana laughed. “I imagine it would.” She said. “Allynna didn't give me a lot of details; but, she did drop a few hints about what happened between her and the High Lord.”
+
+“Yeah, that was...” Ren gave her a warm smile. “Let's just say they had a lot of pent up frustration.”
+
+“Now I know you are a master of understatement.” Yllana said, and then her demeanor changed from relieved mother to that of a recalcitrant ruler. She stepped away and walked over to the mantle above the fireplace in her living room and picked up a small wooden box. She held it tenderly for several moments, then she walked over to Ren.
+
+“I've had this in my family for a long time.” Yllana said.
+
+“When someone who lives so long says something has been around for a long time, that really means it's very old.” Ren said, and she nodded.
+
+“My great-great grandfather found this in an ancient temple when he was just a boy.” Yllana said and opened the box to reveal something Ren hadn't seen before. “It's a Talisman.”
+
+Ren widened his eyes and she lifted it out. For all the time he had played, he had never heard of talismans. It wasn't an enchantment or a spell, and he used Identify on it.
+
+Talisman of Ordinariness (Rare)
+
+This talisman makes everything within it's area of effect ordinary. All special weapons, magic armor, spells, enchantments, etc. become the standard versions instead.
+
+For example: A Master level Fireball spell becomes a Beginner Level 1 Fireball. A sword that grants Swift Strike and is Sharp to cause extra damage, becomes a basic sword with no bonuses. An item with an enchantment acts as if it didn't have the enchantment, etc.
+
+Durability: N/A
+
+Area of Effect: Personal Aura of Owner
+
+“Please accept my family's heirloom for bringing my daughter home.” Yllana said.
+
+“Just a minute.” Ren said and stepped back. “Teepo?”
+
+“Don't leave me in there for long.” Teepo said and dissolved into the Beetle Crown ring. Ren slipped it off and stored it into inventory. He looked at his other rings and didn't bother storing them. He did store the Hand of Glory around his neck, because he didn't want it to become an actual hand if the talisman worked like that.
+
+“Okay, I'm ready.” Ren said and stepped forward.
+
+Ren accepted the talisman from Yllana, then was surprised that he didn't gain the recipe for it when he examined it. He received popups for the suspension of all of his enchantments, boosts, and spells he had cast on himself. Then he felt a weight on his head.
+
+“Huh?” Ren reached up and touched the helm on his head, then slipped it off. “Well, would you look at that.” He said in surprise. “It let me remove a non-removable item.”
+
+“R-Ren!” Artemis exclaimed, and Ren turned to look at her.
+
+She was human.
+
+“Oh, wow.” Ren stored the normalized Polymorph Helm and stared at Artemis. Her bright red hair was no longer metal and was all waves instead, and her skin was slightly tanned instead of a metallic sheen. Her breasts strained against the armor that she wore, and he realized how inadequate the armor would be for a normal person.
+
+“Ren, I'm...”
+
+“You... how in the... it made you...” Ren blinked his eyes at her. “Oh, wow.”
+
+“I've never seen that happen before.” Yllana said. “How did it change you from metal to... well, flesh?”
+
+“It normalizes anything within its area of effect, which is the personal Aura of the owner.” Ren said. “Which means...”
+
+“...anything within about 500 feet of you will revert to a basic version.” Artemis said. She hugged herself and touched her own skin. “Oh! That... that feels weird.”
+
+“Yllana, I think...” Ren started to say he needed to leave, and Yllana took both of their hands and dragged them to her bedroom.
+
+“I can see how jarring this is for you both.” Yllana said and pushed Ren onto the bed. “Artemis, I suggest you store your armor for this.”
+
+“I should put this away.” Ren said, and Yllana caught his arm.
+
+“You are not a king. Or an Artificer. Or anything else right now.” Yllana said. “As long as you keep that talisman out in the open, you and anything within your Aura will be normal.”
+
+“But...”
+
+“I think Artemis wants to experience you without her metal form.” Yllana said and looked at the now human woman.
+
+Ren smiled at Artemis. “Well, this has been a day for firsts.”
+
+Artemis chuckled. “I won't survive your full capabilities, so you need to be gentle.”
+
+“I'm always gentle.” Ren said and stored his clothing. “Until I don't have to be.”
+
+Artemis stored her armor, which left her completely naked. “My King, please accept my love.”
+
+“I always have.” Ren said as Artemis climbed on top of him. “It was you that tried to keep it from me.”
+
+“Yes, and I know... mmm... how stupid that was.” Artemis said as they joined together and she started rocking her hips. “I didn't think we could... have any more firsts... between us.”
+
+“There's always something new to learn.” Ren said as he hung the talisman around his neck, then he and the human Artemis made love right there in Yllana's bed. Yllana watched and pleasured herself while two people had sex in front of her, and when they were done, she joined them. Neither Ren nor Artemis protested her presence, since it was her bed and her family's heirloom that had done this for them, and the three of them shared a pleasure-filled hour with each other.
+
+In accordance with their previous agreement, Yllana never actually had intercourse with Ren. She didn't even try to take advantage of the situation and force the issue, and that made Ren appreciate her even more. When their activities started winding down and the three of them laid in bed together, Ren took Yllana's hand and kissed it.
+
+“Thank you, Unnamed Queen.” Ren said, and Yllana's face flushed red. “You've given me a gift that I can't thank you enough for.”
+
+Yllana smiled and kissed him on the lips. “I knew you would think that being normal was a benefit and not a hindrance.”
+
+Ren chuckled. “You have no idea how true that statement is.” He said and kissed her back. “Thank you.”
+
+“I suppose you must go.” Yllana said, and Ren nodded.
+
+“I have a bit of work to do.” Ren said. “It's not pressing, since there's not really anything that needs to be done; but, I think I should get to it anyway.”
+
+Yllana chuckled. “I think that was the weakest excuse I have ever heard to leave my bed.”
+
+Ren chuckled, too. “I guess I could have said 'I should go'.” He climbed off of the bed and equipped his High Elven Court Uniform. “Artemis, are you ready?”
+
+Artemis nodded and climbed off of the bed and stood up as well. “Yes, I think I've had enough of this form for now.”
+
+“Goodbye, Ren.” Yllana said.
+
+Ren gave her a regal bow and stored the Talisman of Ordinariness so that everything around him went back to normal. Artemis changed back to her metal form and she equipped her armor, then the spells Ren had cast on himself went back into effect. He equipped the rest of his regular equipment, including the Beetle Crown Ring, and took Artemis' hand.
+
+Ren checked the All-Seeing Mirror and cast the Portal spell, then he and Artemis stepped through it to appear back at the house in the Housing District of Aurora. He summoned Teepo and cast the spells to make him solid and able to talk out loud, then went to the bed. He was tempted to wake up the succubi and Suniva, mainly because it was still daytime, then shrugged and climbed into bed with them.
+
+Artemis followed his example and climbed in as well, then they settled down and went to sleep. Suniva opened her eyes at the touch of familiar hands on her, saw both Ren and Artemis were in bed with her, and closed her eyes and snuggled them. One of the succubi had woken as well, but she also didn't say anything and went back to sleep.
+
+Unfortunately, the Sustenance ring enchantment had been interrupted when Ren took possession of the talisman, so it's effects wouldn't apply again until the ring accustomed itself to Ren after a day of waiting, which meant that he miscalculated his sleep time and didn't wake up after an hour like he thought he would.
+
+Since Teepo wasn't linked into Ren's thoughts like he was supposed to be, Teepo didn't know that Ren wanted to wake up, and neither did Artemis. So, Ren slept for the remainder of the day until nightfall, and then Teepo woke him up to tell him to log out.
+
+“Ugh.” Ren said and opened his eyes, then looked at who he was in bed with. “Good god, I'm tired.” He said and carefully sat up without disturbing anyone, then got off of the bed and went to the wall to stand there.
+
+“Logout.” Ren said, and his avatar faded into its phantom form.

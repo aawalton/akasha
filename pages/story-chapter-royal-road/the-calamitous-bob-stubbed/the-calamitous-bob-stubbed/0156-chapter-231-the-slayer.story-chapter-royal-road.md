@@ -1,0 +1,365 @@
+---
+id: cada03ef-b96a-5525-955e-e8c41539a446
+page-type-slug: story-chapter-royal-road
+title: "Chapter 231: The Slayer"
+slug: 0156-chapter-231-the-slayer
+partOf: the-calamitous-bob-stubbed
+position: 156
+ownLength: 4158
+unit: words
+ownProgress: 4158
+publishedAt: 2025-11-10
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2748135/chapter-231-the-slayer"
+royalRoadId: "2748135"
+markedReadAt: "2026-06-29T21:20:00.377Z"
+---
+
+“What the fuck are you doing? Are you mad?”
+
+Celerin Crest pulled his hair — what else was he supposed to do? He ignored the gasps, the glares, the ‘oh!’ of consternation. This was too much. Too much!
+
+“Nero I swear to Maranor!”
+
+“Do not.”
+
+A monstrous aura swept the tent, quieting the courtiers and generals under a cloak of cold control. Even Crest’s fury was quenched from a raging fire to dull embers of simmering resentment.
+
+“Do not pronounce Her name in vain.”
+
+“You can stop me from swearing all you want.”
+
+“Enough!”
+
+Crest’s mouth shut with a painful click. This was it: the price of obedience, the consequences of his choices. He was no longer someone to be listened to, and he only had himself to blame.
+
+Not for being unconvincing, for not leaving back in the Shadowlands when Nero had started to hang entire families. Throwing his hands up, he turned away.
+
+“Do not turn your back on me,”
+
+The wave grabbed his shoulders, but Crest pulled away. It took every bit of his considerable willpower to even oppose it, but in the end, he could not. He had already bowed. Now, the power wouldn’t let him go, so he did the next best thing.
+
+He turned half way and let his obedience serve as a platform for one last act of defiance.
+
+“Your hubris is going to kill us all,” he spat.
+
+“It is necessary. Param will belong to mankind. All three continents will, eventually.”
+
+There was much Crest could reply to this. It would be a waste of his time. Oleander no longer took any counsel, from anyone. He had spent too much time rushing ahead of the consequences of his decisions, and now, he believed himself to be immune.
+
+The man who used to be the mastermind of their adventures had disappeared, replaced by absolute conviction.
+
+Crest left the tent. The worst thing was, he would go with his lord to a stupid and unnecessary confrontation because what else was he going to do? Switch sides? After all the horrors they’d committed together? It would be a betrayal of all the efforts he’d made until now. No. He was going to be a coward and commit.
+
+His gaze went right towards Enoria’s central massif. Only a fraction of the army stayed on the slope while the rest traveled west, always west, pillaging granaries as they went. It was barely enough to sustain their numbers, with most of the grain taken away and hidden before they came. Crest ought to be at the fore, opening portals to make them progress faster instead of here on a vainglorious errand. But here it was, in the distance, the scorched ruins of Aristan. A place of memories and revenge.
+
+“We shouldn’t have come here,” he whispered.
+
+Deep inside, he suspected that this was a destiny thing. Divine magic and the like. So far, the witch had been ahead of them every step of the way, turning the populace against them as Maranor’s Kingdom had turned from liberators into locusts. Oleander had lost all the credibility and benefits he might have had from allies in a matter of weeks. He desperately needed a win. This… was not it. They could have rebuilt a city, or slain a perilous monster instead. But no.
+
+They were going to tempt fate instead.
+
+Crest shuddered. He’d seen Oleander kill a dragon before, and that was before he pathed up, but surely… and the consequences…
+
+His confidence cracked.
+
+**
+
+Nero was in control. He had been praised for his sangfroid back home where sky ships and pneumatic guns ruled war. Warbands had followed him even in the days of old Enoria, before the civil war even started, because nothing could make him lose his calm. He was no different now.
+
+“Milady, I ask for your light.”
+
+The tent around him faded, the familiar object dissolving like shadows. He was standing in a room of impossible proportion, facing a noble throne upon which sat a tall figure. She was striking with raven hair and a robe that started white, then darkened and bloodied near the hem. Shadows of dying warriors could be seen, perishing in the skirmishes that played at the periphery of his great push.
+
+“My champion. Speak.”
+
+“I require advice for the fight ahead.”
+
+The goddess’ expression didn’t change, yet somehow, it still radiated disapproval.
+
+“You should have asked before committing. Your decision is correct, but terribly mistimed. Your quarry is not to be taken lightly.”
+
+“Should he perish, the other dragons will fear me.”
+
+“Yes,” the figure said, leaning forward. “And they might have fled the continent, but you have left a flame of revolt to burn in our splintered mankind. A few will rally around her rather than observe. It was a foolish decision.”
+
+She sat back, still radiating annoyance.
+
+“Your overconfidence will cost you.”
+
+“I must be victorious. I must prove myself to her, and to the world.”
+
+“And you will be. Your success is fated, but you might pay a heavy price for it.”
+
+She shrugged.
+
+“It will depend upon your ability. Remind yourself that if you are only faced with bad options, the fault for the situation often lies in your own past. I dare hope you will prove more… insightful in the future.”
+
+“I will. Success might have made me complacent but I will expiate with my soul if I have to. May I have your blessing in this endeavor?”
+
+“You always do, my champion.”
+
+Nero hesitated, then asked what he always wanted to know.
+
+“Why have you not cursed her for opposing me?” he finally asked.
+
+“Because she is following the rules of the great game, Nero, and because, like it or not, she too is a face of civilization. Now go, and be victorious, one way or another.”
+
+“Thank you, milady.”
+
+“One last thing.”
+
+Nero didn’t dare meet the goddess’ eyes, now that a warning had seeped in her words.
+
+“Do not waste any more time for it is not on our side. You are cornered. Win now, or it will forever slip through your fingers.”
+
+“We will go to her immediately afterward.”
+
+“See that you do. This victory will not offset weeks of plunder and starvation.”
+
+**
+
+Outside of Aristan, nature had reclaimed the land once dominated by mankind. Roots had broken the cobblestone, and branches emerged from the collapsed roofs like limbs reaching for the sunlight. It was still dreadfully cold on the slope of the mountain. The breaths of the vanguard came out in small puffs as they waited in their assigned positions just above the city in that fateful spot where the devastation had begun. They were the best of the best, the only ones capable of even affecting the battle to come — if battle there would be. To be honest, Celerin Crest had no idea if their would-be foe would deign to take the field. It was probably a question of pride.
+
+In front and above, Oleander walked up at a sedate pace. The small cavern where the eggs used to be lay abandoned, barely visible between brambles on a background of glassy stone, black and pitted by ancient fire. It was a hellish landscape that reminded Crest of the flanks of Old Red Light, the volcano that turned the Shaded Lands into the Shadowlands. The region was still scarred and blighted after all these years. It certainly brought back memories. Oleander was older now, comparatively more powerful. In a way, Crest understood. His old friend had never let go of his regrets. His guilt. So they had returned. Oleander cut an impressive figure, Celerin had to admit, with his white armor stained with bloody figures at the bottom, but it was the crimson wings fully deployed from his shoulder blades that made him other, more than human. A messenger from another world carrying fate on his back. Celerin could only pray that it would be enough.
+
+“You know we’re here. Come on out,” Oleander said.
+
+Crest looked at the cavern although he knew, absolutely knew that there was no way the dragon would fit into something that could barely accommodate three men abreast. That might be why his breath caught in his throat when the landscape moved. What he had assumed to be a craggy cliff moved, sliding out of the mountain in a delicate landslide. Yellow eyes as large as plates opened. The dragon was massive, but he was so large and since the light seemed to blur around his edge, it was difficult to exactly say when the dragon stopped, and the mountain started.
+
+The thoughts aimed at Nero made him wince. Some of the vanguard fell to their knees, hands on their ears as if it would make a difference.
+
+I was out all along, Champion of maranor.
+
+I sincerely hope you will prove a better conversationalist.
+
+“There is nothing to discuss, Desolation of Aristan.”
+
+I go by… Judgment.
+
+The weight of the dragon’s attention fell on Crest’s shoulder. The beast was ancient, and immensely powerful. Oleander looked like a child in comparison.
+
+“I have come back after all these years to make you pay for this… this slaughter!”
+
+It had been so long since Nero had shown any emotion. Anger was not a surprise.
+
+Oh?
+
+Are you going to stand and flight properly, this time, o chosen one?
+
+“You are trying to provoke me, dragon, but it will not work. You have slain countless humans and now you will pay the price. You said your name was Judgment? Today, I am the judge.”
+
+Ironic, coming from an egg thief.
+
+The thoughts sharpened to a painful edge with those last two words.
+
+A supposed judge and guardian of order and your first action is to take revenge upon the one who punished your vile theft.
+
+Fitting, for a servant of Maranor. Hypocrisy has never stopped any of you.
+
+“There is no crime against an enemy of mankind!”
+
+The dragon smiled like it knew how it would reveal swords-length fangs.
+
+Then why did you scurry like a scared rat, thief, if you did not take the measure of your terrible transgression?
+
+“Enough! I am beyond doubts!”
+
+The dragon almost looked… sad.
+
+So you are. Well then. Shall we begin?
+
+Nero struck with his sword, a powerful artefact in its own right. His intent carried through the blade in a visible wave that could cut through armor like butter. Even from here, Crest could feel the pressure. The dragon swiped it with a hand the size of a cart. It dissipated. And then all hell broke loose.
+
+Dozens of spells, arrows, and stones crossed the air at great speed, aiming slightly up but the dragon didn’t fly as expected. Instead, he punched forward, a blow blocked by Nero but he was still sent flying. Others of the vanguard engaged. Jar’ko was the first to die again, cleaved in two. The dragon rampaged on the ground while the many projectiles pinged against scales as hard as diamond.
+
+“Nets!”
+
+Crest watched Eran the Mousey die. He managed to teleport Sarya of the Six out of the way before she could be crushed. The dragon leapt forward, the net traps mostly missing him. For such a large creature he was so impossibly fast, a whirlwind of death and claws, strangely silent.
+
+Nero was back into the fight. A shot by Aragan of the One Breath aimed for the eye and Crest was certain it ought to have hit, but light blurred and the javelin-sized arrow bounced on a horn as thick as a trunk. A shield blocked some of the nastier spells. Crest was done casting. He opened a portal over the dragon. Magma from a nearby volcano fell in a shower of incandescent stone. The dragon shook his massive frame, rolling to get rid of them while a tail swipe struck Nero true, smashing him into the mountain’s flank. He grabbed Jar’ko and spoke for the first time.
+
+Have I not killed you? Ah, such an unfortunate path you’ve picked.
+
+He pressed the man’s skull, but not enough to kill him. Crest swore. Someone would need to finish Jar’ko off so he could regenerate. Nero and the others pushed the dragon, or they tried to. Sila Blade and the Hammer of Old Ash died.
+
+“Now!”
+
+Only Nero stayed while the others ran. The Immortal unleashed a flurry of monstrous strikes, each one carving the ground and taking the dragon’s full attention. The monstrous entity blocked and parried every shattering blow with a skill and grace that made Crest realize that the dragon wasn’t relying on his strength. He was beating Nero on technique. But the others were ready. The earth trap they’d spent days preparing unleashed all at once.
+
+A cataclysmic volley of stones filled the valley, enough to darken everything, enough to blunt even the body of an old dragon, but Judgment moved into the last flurry, grabbed Nero, and swung him into the incoming devastation, then Crest saw colorless mana gather in a monstrous ball around the dragon’s head. He pulled his wing back, jumped, and roared at the same time.
+
+The sound wave would have deafened Crest if he hadn’t shielded at the last possible moment. An instant later, the dragon exploded through a small hole he’d made in the vast assault, no worse for wear. He was virtually unharmed.
+
+The dragon spread his wing before falling on a group of archers. The Northbay sisters died. Azith the Swift died. Powerful skills rained on the dragon, but what he didn’t block with horns, claws, or tails, he just ignored and the ancient scales on his body held true. Arrin the Hurricane died. Crest kept casting. He managed to save three more vanguards including the Hopecrusher while the rest fell like flies. Sur the Arena Champion died. Vil Vinetree died. But the dragon had moved closer to the hidden ballistas. Nero returned, always fighting, always kept at bay with maddening ease while the dragon chewed through their elites. Crest saw an opportunity. He portaled to the second ballista group. Nero was somehow pushing the dragon back with another skill.
+
+An opening.
+
+The first group of ballistas fired. Nero struck at the same time, but the dragon let the blade clang against his horn. He growled in pain. The bolts of the ballistas flew at the same time, straight for him.
+
+The dragon moved his claw. A thick earthen wall rose to block them. Most of them pierced but they’d lost too much speed, they would be useless. At the same time, Crest was done opening his own portal. The second group of ballast shot through it, and down towards the dragon’s back. In his blind spot.
+
+Crest felt the dragon’s mana touch his portal, fighting him for control. He winced but resisted.
+
+His eyes traveled to the dragon’s gaze firmly on him.
+
+And the opening maw.
+
+“Oh SHI—”
+
+Only his acuity reflex skill saved him as he opened a portal in front of him and pushed himself through it. Right behind, the world turned into a second sun. Dragonfire ate through the projectiles, through the siege engines, through their servants, through the rocks, and trees, and the air, and even Crest’s portal itself. Dragonfire devoured everything and nothing remained.
+
+Crest looked back from the promontory he’d fled to, watching the dragon grab Nero by the boot, then stomping him.
+
+They’d used three parts of their plan and Aragan’s special skill she had to charge in advance, and they had nothing to show for it. The dragon wasn’t even wounded.
+
+They were being demolished. Even Nero was being toyed with. Perhaps seeing the futility of their efforts, Maranor’s champion fell on his knees, arms spread wide.
+
+***
+
+Silence reigned over the massive room. If Maranor was disappointed, she showed no signs of it.
+
+“I warned you that there would be a price to pay,” she said.
+
+Her champion looked beaten and bloodied, not the best look even if it wouldn’t really matter. He was The Immortal.
+
+“Anything for victory,” Nero replied.
+
+“It will not intimidate all of the dragons. Some will pull back and wait, moved by self-preservation, but others will fight you.”
+
+“And I shall kill them too. There can be only one dominant race on the three continents.”
+
+Maranor nodded. It was order. It was sacrifice. It was everything she embodied.
+
+“Then,” she said, “Wield it well.”
+
+She stood. Her hand reached the hilt of the sword suddenly hanging at her side. It was on the short side for her, dull and aged and made with more care than talent. As she pulled it from its hilt, whispers spread through the room. Yells. Cries of pain and of disbelief. The blade danced with the soul shards of all the creatures it had killed, even those that believed themselves beyond the reach of mortality. It was the God-ender. The single most powerful artefact ever forged by mankind’s deeds. It was the Slayer. She handed it to Nero guard first. He screamed when his fingers closed around it. His soul fissured when he struck.
+
+***
+
+Viv watched Rosea walk away from the meeting with a hidden smile, the last of her advisors holding the council room’s door open for her. The Queen of Baran had agreed to her terms in less than two hours of discussion, pleasantly surprised, from her expression. Viv imagined the woman had come expecting Viv to bring Baran to its knees. After all, the archwitch had the better army, if she included herself, and scary assassins. What Baran had was land, people, and money, all things that could be bargained for.
+
+But Viv hadn’t. She had only asked for teeny tiny trade concessions: tariffs so low they were basically a disguised income tax, free circulation of people, the ability for Harrakan citizens to create guilds. It felt like a boon, but of course, Viv had an ulterior motive. She wouldn’t be a conqueror by force. It was so 1900’s and she was a modern girl at heart. No, Harrak would grow economically thanks to sweeping social reforms and technological innovations thanks to yries and her own budding university. By the time the other sovereigns realized what she was doing, all their economies would be so enmeshed and Harrak’s presence so widespread, going to war would be the same as going to ruin. Arthur was already on the case.
+
+“I never thanked you for starving the Maranorians so cleverly, by the way,” Viv told the large dragoness.
+
+My pleasure.
+
+Arthur uncoiled, her body so large they had to rebuild the gates to most important rooms. Even half again as tall as Viv at the neck, she remained lithe and sinuous but it was a bus-length kind of sinuous. She would always lack Meadow’s girth. That one was a unit.
+
+The Enorian army is on the move.
+
+They will cross the Deadshield woods in a week, with Crest assisting them.
+
+I still believe we should assassinate him.
+
+“We want their army to come quickly now. If we resist their advance too much, they might reconsider it. Right now, they’re right where we want them… and Crest is a survivor. Oleander keeps a close eye on him. Killing him might be riskier than we can afford. I need Irao in the battle. With that said, we have enough supplies for weeks. The trains can now carry shells. I will give the order.”
+
+The edge villages to the east and west still need to be evacuated.
+
+“Oh, right. Yeah.”
+
+Arthur rose to her feet, the heat of her body basking the council room in a toasty aura. She smelled the air.
+
+Do you feel that?
+
+Viv did. Fate magic, and powerful too. Both of them were out of the room in moments. A group of civil servants yelped when they raced by, dodging the stacks of papers. It was coming from the throne room! At least nothing was on fire just quite yet.
+
+I recognize that mana but… it is strange. Nobody is there?
+
+Viv didn’t, but when they sprinted from behind the throne, they figured out why. Under the massive, painted dome of Sinur’s Gate’s throne room sat a black dragon so massive he took all the room where seats ought to be. Guards stood paralyzed at a distance, their spears hopelessly pointing forward. He shouldn't even be able to get in there…
+
+“Judgment?”
+
+Hello, Viviane.
+
+The guards stumbled and fell as whatever aura kept them from sounding the alarm released them. Viv thanked them and sent them on their way while Arthur approached the ancient creature. Hope warmed Viv’s chest. If he joined them, if he attacked Nero’s army, then victory must be hers. Judgment was just too strong. That hope evaporated almost immediately. It wasn’t just that it would go against everything he said he would do. Something strange was going on. It almost felt like his existence was …wan.
+
+She couldn’t feel his soul. What was going on? She took a step back. Arthur looked confused as well.
+
+Do not be alarmed.
+
+As you can tell, I am not really here.
+
+A peculiar fate spell allows me to, shall we say, manifest what could have been had I picked a different path. Temporarily.
+
+“Judgment, you never come unless something really important happens. What is going on?”
+
+I am currently fighting Oleander, who is fueled by revenge and the fate-driven need to claim a victory you have denied him so far.
+
+He is going to kill me.
+
+“No fucking way.”
+
+Arthur jumped as if startled. A pained roar escaped her maw.
+
+Noooooooooo!
+
+The old dragon remained much calmer.
+
+It is the fate I have decided for myself.
+
+“Dying?” Viv erupted. “How? Why?”
+
+The old dragon’s yellow gaze found hers. They were so disturbingly calm.
+
+When you’re as old as me, you will realize that the ultimate freedom is choosing how you go.
+
+My death is not a failure to me.
+
+It is a necessity so that the future I see comes to pass.
+
+“But there must have been another way!”
+
+He looked away, out of the windows.
+
+There are always other ways.
+
+They are just… not as good.
+
+I accept that my life would be a price to pay to steer the species of Nyil on a better path.
+
+Returning his attention to them, he snorted, and a puff of hot smoke pushed Viv’s hair away. Arthur let out a terrible, keening sound. Her claws raked the stone. Viv didn’t give a shit; she just didn’t want the old fucker to die. He was too old and too wise and there was such a dearth of not-assholes… and they’d already lost Dean Tallit and who knew how many other people?
+
+“Come on, man, just fly here.”
+
+I appreciate the pain in your heart, for me.
+
+Now be quiet. My time is short.
+
+In order to slay me, Maranor will grant her servant a boon: her sword.
+
+Once drawn, it will kill its opponent without fail. Only a god could resist such an attack, and even then, it can still end them.
+
+“Can’t you have the dragon god shield you then?”
+
+No. I will not trigger a godly war over this.
+
+Your battle plans must take the Slayer into consideration.
+
+Drawing the blade will crack Oleander’s soul. Doing so again in a short time will crack it even more. He will only use it as a last resort.
+
+“So…”
+
+For the best outcome, you must push him into that last resort. Do your best to kill him.
+
+“Ok I can live with that.”
+
+And that is all. My time is almost up…
+
+He breathed out in what Viv interpreted as a bitter smile. Arthur trotted up to the much larger dragon, bumping her head against his jaw. She was still keening a bit. Viv’s tear ducts were getting a little ticklish. Fuck.
+
+You have hadals, yries, kark, merls, dragons, and humans fighting for you, Viviane the traveler. This is the first such instance in the history of this world. It will remember that such a thing is possible. The people will remember. So, win.
+
+“I will. I promise.”
+
+I will be counting on you. One last thing… show me that shield of yours.
+
+The cumbersome implement was lying against her throne. She grabbed it, feeling the familiar, slightly damaged leather of the brace against her skin. Judgment had a look at it. It was nothing special, still, just a big piece of layered metal.
+
+He plucked a small scale from his chest. It reddened as it approached the object, then melted itself in between three half-submerged sigils.
+
+You carry more than my hopes.
+
+Judgment’s voice faded at the end. With the last word, he disappeared as if he had never been there. Even the displaced seats were back where they belonged.
+
+The only traces of his passage were the cooling scale and Arthur’s sobs.

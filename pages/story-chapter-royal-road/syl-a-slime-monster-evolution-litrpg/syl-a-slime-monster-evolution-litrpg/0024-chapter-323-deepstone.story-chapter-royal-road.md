@@ -1,0 +1,197 @@
+---
+id: 271ee0cb-4c71-575f-9c71-d0ca29e7d23b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 323 : Deepstone"
+slug: 0024-chapter-323-deepstone
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 24
+ownLength: 2199
+unit: words
+ownProgress: 2199
+publishedAt: 2025-12-10
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2834791/chapter-323-deepstone"
+royalRoadId: "2834791"
+markedReadAt: "2026-06-29T19:42:36.217Z"
+---
+
+The trip to the gathering spot was intriguing because our final location was completely unrecognizable from the surface alone. I really wondered how they'd even found the area in the first place and could only assume they had some skill like [Mineral Sense] or better.
+
+Unless they interrogated brinelings, but that still doesn't feel like it.
+
+The way they found the right spot, however, was with an enchanted map linked to a compass, which could only be read by the captain of the vessel as it was bound to him. I unconsciously touched my hat at that word and wondered if it was the same concept.
+
+The journey itself was relatively uneventful; we were a small crew, and there were three other guards on duty, albeit they weren't mages. I wondered how they did this job without magic, but everyone on the crew got changed into these almost skintight, enchanted, full-body suits.
+
+I asked about them and was told it helped them maneuver underwater and could only assume it was some enchantment to recreate [Aquatic Finesse].
+
+That's another idea… should I try to take apart some of my enchanting skills? Also, does this mean I could create an item that would let the user [Blink]?
+
+Naturally, I asked if they weren't going to be using my [Bubble] spell, to which they said the outfits were a precaution in case of emergency. Similarly, they each pulled out a small stone filled with holes and asked if I wouldn't mind filling them up with Air Mana. They could slowly do it themselves, but I was the mage for the mission.
+
+I complied and could fill them up with pretty much a touch, thanks to my extremely high affinity and half my [Sub-Cores] being correctly aligned. This was how they breathed underwater; they would place it in their mouth, and it would both suck and produce breathable air.
+
+I wonder who thought of this crazy contraption.
+
+As a slime, I didn't need to worry about any of this, but sadly, Sylvain needed to keep up appearances. To my relief, they handed me a spare one to borrow in case I couldn't cast [Bubble] on myself, for whatever reason.
+
+Maybe I can buy one to study… although it might be easier to buy the patent through the merchant's guild, assuming it's for sale.
+
+When the captain confirmed the correct location asked us all to get ready to jump overboard. I quickly enveloped the diving team in their own personal bubbles, and we all jumped into the ocean.
+
+"I wish we had a mage on more of these missions," one of the men immediately said.
+
+The whole group quickly agreed with him as the captain prepared to send us below. He worked with two pulley devices: the first dropped an anchor that continued to descend, and the second dropped a large, wide perforated metal crate, which he halted after it breached the surface. The crew floated over to it, all grabbed hold, and gestured for me to follow their example.
+
+Once we all had a grip on it, the captain activated the device again, allowing it to continue its descent and drag us down with it.
+
+"Hope you aren't scared of the dark," one of the guards teased.
+
+"I got [Dark Vision] in my mother's womb," I joked right back, achieving a few chuckles.
+
+We kept descending, and I gazed out into the ocean expanse. Most of the creatures appeared to be avoiding us, but I was warned that the ones that didn't needed to be taken care of promptly.
+
+The two guards who accompanied us were armed with specialized crossbows and bolts that could work underwater, with a spear and dagger on the side. Apparently, the bolts cost a fortune, so they really didn't like using them.
+
+I guess it's to deal with the water resistance… Although I would have thought their class might have offered a skill to get around that issue.
+
+Obviously, I hadn't taken apart [Aquatic Finesse] yet, so I could've been grossly misinterpreting it, but I thought a combat version would be quite feasible in my mind. This idea was further reinforced when I compared it to my recent discoveries with [Subtle Afflictions].
+
+If it actually affected me, I'd be more inclined to try to create it, but it doesn't really matter to my slime nor my magic. At best, I could argue I might make an identity that uses archery, but at that point, I could just create the bolts or arrows out of [Metal Slime] and still ignore it.
+
+I paused my thoughts and had a bit of an internal chuckle.
+
+Wow, it's great to be a slime! As Vee would put it, I'm cheating and absolutely broken, hehe…
+
+After an uneventful descent, we reached our location. It was a small coral reef, but my borrowed [Mineral Sense] pointed out that our real objectives were these small spires sticking out from the ocean floor.
+
+You know… I could have offered to lower us with [Hydrokinesis]. Oh well, that was a missed opportunity.
+
+Once we were on the ocean floor, the workers didn't seem to have much trouble moving toward their goal. They pulled out their tools and began digging into the spires, searching for a dark navy blue mineral hidden deep within.
+
+One of the others began collecting bits of coral and other plant matter, while the final member of the gathering crew was hunting for crayfish. Each of them had specialized bags for their tasks, and when one of them was full, they would place it on the perforated crate.
+
+The final guard was up top with the captain, who were the highest levels of the group aside from myself, as they needed to defend themselves with the least manpower.
+
+As they worked, we didn't have much to do if there was no immediate threat, so I conversed with the other guards while periodically refreshing everyone's [Bubble]. The guards were Geoff and Kevin, with the former being the better of the two.
+
+"So this deepstone stuff, what's the big deal about it?" I asked curiously.
+
+"You really have no idea?" Kevin asked in return.
+
+"The admiral just told me it was worth a lot. Said I have a choice whether to keep or sell my portion, so I wanted to get some opinions," I replied.
+
+"For a mage… you'd probably be better off selling it," he replied.
+
+"Fair, but I asked why it's so special," I probed.
+
+"Right, right…" he mumbled.
+
+"He doesn't actually know," Geoff chuckled.
+
+"I do!" Kevin denied it.
+
+"Enlighten us then?" Geoff asked.
+
+"I'm all ears," I joined in.
+
+"It's used on boats," he eventually replied.
+
+Geoff chuckled and shook his head. "Well, Kev here is partially right. It's used for a few things because, in its refined state, it's highly resistant to water. Our bolts actually have a small tip of refined deepstone."
+
+"No shit?" I asked with surprise.
+
+"Nope. It's why it's so valuable as it's our ticket to eventually conquering the ocean," the guard explained.
+
+"I could have said that…" Kevin whined, but we both ignored him.
+
+"I can see why a mage wouldn't really want it. It's not like I need a sword," I chuckled.
+
+"True, but it does have another effect when you put Mana into it," Geoff explained.
+
+"Oh?"
+
+"Come here," Geoff said, and reached to his belt and held out his knife for me to take.
+
+I moved over, causing our [Bubbles] to meet and provide a somewhat secure passage between us. I held the knife curiously in my hand, trying my best to look at it.
+
+From what I could tell, it wasn't enchanted, so the secret didn't lie there.
+
+"Put some of your Mana into it, just make sure you keep a tight grip!" Geoff warned with a snicker.
+
+I nodded and let some Mana flow into the blade, which promptly tried to sink to the ground as if it had suddenly become heavier.
+
+"Huh…" I mumbled.
+
+"That's what I should be saying!" Geoff replied. "You're a lot stronger than you look if you can hold that without even a struggle!"
+
+While I was delighted to hear that I was physically stronger than the average human, thanks to some old wounds from the [Enhanced Strength] debacle, I was caught off guard by letting my disguise slip a little.
+
+"Ah, well, I only put in a little bit of Mana cause I was worried why you were grinning like a demon," I said teasingly. "But I do make sure to keep up my body strength. Can't bring back big loot and treasure with weak arms!"
+
+Geoff and Kevin laughed at my response, and I handed back the knife. It was an interesting application, and I couldn't help but wonder how it would react if I created some impossible alloys with it.
+
+"So basically it's the opposite of floatstone, I can understand why people want it then," I commented.
+
+"Wait, you know about floatstone but not deepstone?" Geoff asked in surprise.
+
+"Aeromancer, remember?"
+
+"So you've been on floating islands?" Kevin asked excitedly.
+
+"Yeah. Although they are harpy-infested shitholes, so I can't say it was a pleasant experience," I replied with a feigned grimace.
+
+"Damn, you must be absolutely loaded then!" Geoff replied, his tone suddenly becoming a lot friendlier. "Floastone is probably worth ten times as much as deepstone due to the scarcity, risk, and location."
+
+I shrugged. "It was only a little, so I didn't get much. Also, I didn't submit it to the guild, so I probably got scammed…"
+
+The two guards both looked pained by my response, likely thinking I accidentally gave away a fortune. What proceeded next was a bit of playful ribbing while we continued our watch. Meanwhile, I already had some gears turning in my mind with some curious ideas.
+
+I wonder what would happen if I combined floatstone and deepstone?
+
+My thoughts were interrupted when Geoff yelled out to both of us. "We've got a giant squid incoming!"
+
+"Gods, why couldn't it be a shark or crab!? I hate the tentacles…" Kevin whined, sounding genuinely distraught.
+
+The creature moved with eerie grace, its massive head gliding through the water. At first, I saw only its smooth, tapering form cutting through the gloomy depths, but then it began to turn.
+
+"Want me to take care of it?" I asked.
+
+"Go ahead, but be quick, it's about to attack!" Geoff shouted, readying his weapon.
+
+Its turning motion stirred the nearby currents, and as its whole body rolled into view, a forest of coiling tendrils unfurled beneath it, framing a maw that looked large enough to swallow us whole.
+
+I wonder if this is how my enemies feel?
+
+Despite the squid being quite ginormous, from my observation, that was all it really had going for it. Sure, it had tentacles and an engulfing maw, too, but I had magic.
+
+"Never fight a Hydromancer underwater…" I taunted and let my spells loose.
+
+The first thing I did was cast [Hydrokinesis] en masse, targeting the entire body of water surrounding the squid and using it to restrain it. I had thought of this idea ever since I started thinking about using the spell to recreate [Aquatic Finesse] and figured it could be used to achieve the opposite effect—total lockdown.
+
+The monster abruptly stopped, not unlike when Vee and I were victims of the nefarious [Status] spell. Naturally, I had to give a big laugh at the display, as Sylvain was brimming with confidence and loved to show it!
+
+"What the!?" Kevin and Geoff both cried out in surprise, but I wasn't done yet.
+
+I began casting [Waterjet], putting on a grand show that I was gathering my arcane might for this epic magical feat.
+
+I don't want them knowing I can create these pretty much at the snap of my fingers, gotta look believable for a solo-caster.
+
+The giant squid squirmed, probably sensing its impending doom, but it was trapped in my magical water bindings. When I figured I had done enough presentation, I let the spell go forth, sending a pressurized beam straight through the creature's maw and out of its head.
+
+It was quick, clean, and instantly fatal to such a helpless creature. My [Waterjet] and [Gust] weave combo was really proving to be quite effective.
+
+<Class Experience threshold reached. Elementalist is now LV 24.>
+
+<10 Skill Points are now available.>
+
+<Class Riftmancer has been unlocked. Would you like to swap classes?>
+
+It took all of my willpower to not accept it right on the spot. But I was six levels away from a major milestone with Elementalist, not to mention the risk of my disguise being hampered if I suddenly got worse with water and air.
+
+No…
+
+I rejected it; it was painful, but I unfortunately knew I needed to think of the consequences. It wasn't going to go away, and hopefully, when I reached level thirty, I would be close to wrapping up my business with Sylvain.
+
+"Holy shit, Sylvain, they are really wasting your talents here," Kevin said, breaking the silence that I had inadvertently caused.
+
+I shrugged. "What can I say, I've got the home turf advantage."

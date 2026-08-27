@@ -1,0 +1,1 @@
+http://localhost:3084/node_modules/.vite/deps/@electric-sql_client.js?v=60ceca30:2412:5

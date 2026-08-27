@@ -1,0 +1,313 @@
+---
+id: 6df0493a-1b6b-5ab4-9278-9b624fb9e1ef
+page-type-slug: story-chapter-royal-road
+title: "047 - Past-Eve's Choices"
+slug: 0047-047-past-eve-s-choices
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 47
+ownLength: 3022
+unit: words
+publishedAt: 2026-06-24
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3582834/047-past-eves-choices"
+royalRoadId: "3582834"
+---
+
+Did Claire overestimate her grip strength? Most certainly she did.
+
+Did I blow off steam by flying faster and more reckless than necessary? Guilty as charged.
+
+When I landed in the parking garage I was carrying the doll in my beak, careful not to rip her fabrics. The others were sitting on and standing around the bed of a truck. Their body language reflected my mood. None of us had been ready to lose our tiny bit of normalcy. I hopped over to them.
+
+"Are the hyenas okay?" Ash asked.
+
+["It was only a small party and I fended them off easily."]
+
+I could feel Jamie's worry and his sense of loss. Liz was rotating a single floating knife above her outstretched hand.
+
+"What now?" Stephen asked.
+
+["I have spotted a sanctified space not too far from here. But it's only a single large-ish room in a larger structure with a smaller room attached. Hopefully a bathroom."]
+
+"That sounds like a hotel room?" Jamie said.
+
+["I don't know, it's on ground level. But something like that. I'll stick to this shape and scout the way. I wouldn't be surprised if Mammon's troops started roaming when they realize we aren't coming back."]
+
+Liz snatched the knife out of the air. "Should we even stay in this area? If Mammon personally dislikes us, maybe we should leave?"
+
+["No."]
+
+Liz frowned. "Why not?"
+
+["Because I want to kill Mammon. I have a plan and most pieces for it. I am nearly certain I can do it."]
+
+"I really hope it is a good plan."
+
+["It is a simple plan. Which makes it a good plan."]
+
+"Is being cryptic one of your coping mechanisms?"
+
+I turned and hopped over to the railing. Take-off here would suck. A small doll grabbed onto my leg. I looked over to the mannequin standing next to the others.
+
+["This way I can coordinate if you get separated."] Claire wrote.
+
+She was showing a lot more care than she had at any point in the apocalypse. Or toward the end of our relationship. Was she feeling guilt? Or pity?
+
+["Let's go."] I wrote.
+
+I waited for the others to leave the building before I took off. Which mostly involved dropping off the side of the building and then not crashing into the street below.
+
+#
+
+Mammon's forces did not harass us on the way. The building housing the sanctified space ended up being a refurbished warehouse. Its entrance consisted of two sleek black fire safety doors.
+
+I landed next to the group and shifted back to my human shape.
+
+"I know this place," Jamie said.
+
+"Yeah, me too," Stephen said.
+
+"What is it?" I asked.
+
+Jamie and Stephen exchanged a glance.
+
+"A club. A specialized one," Jamie said.
+
+"Oh, no," Liz said. "The cryptic is contagious."
+
+Jamie pulled a flashlight out of his inventory and opened the doors. "You'll see."
+
+I went in first. I didn't need a flashlight. Beyond a small vestibule, we entered into a lounge-like bar. Low tables, comfortable couches and armchairs. The bar was flanked on both sides by large doors leading into the bulk of the building.
+
+I went in with a slight suspicion about the nature of this club, but the background aroma of latex, rubber and disinfectant confirmed it.
+
+The main room was a large hall with 4 separate raised stages, all set up with various BDSM equipment. Around them seating arrangements for onlookers and multiple stations with cleaning supplies.
+
+I kept wondering about such places, but never worked up the courage to check one out.
+
+I went on toward a side corridor which should lead to the room in question. The others followed silently. The place itself absorbed sound.
+
+I found the room in question. It was calming, like the deli had been, but with a very different undercurrent.
+
+In its center stood a large king-sized bed with black sheets. It was framed by poles on all sides and had multiple metal rings spread around its frame. On the other side of the room was a massive, also black, wardrobe.
+
+I flicked the light switch. The lights worked, of course they did. The small room to the side was indeed a dedicated bathroom. For once forgoing the omnipresent black for simple, white, tiles.
+
+"Told you I'd have a shower running in under twelve hours," I said.
+
+"Not exactly how I interpreted that promise, but I'll take it," Jamie said. The others also stepped into the room.
+
+"It'll be a bit crowded, but I'll take it," Liz said.
+
+"Beats the alternative," Stephen said.
+
+I stepped to the side and left a little room next to me. I raised my right hand. I answered Jamie's questioning glance by counting down from three on the fingers of my left hand.
+
+Lucy arrived slightly early, just after the count of two. I didn't even look at their location-appropriate attire before I whacked them against the head with my raised hand.
+
+"Ouch," they said, undignified.
+
+"You are being predictable, Lucy."
+
+"And you attacked me! In a sanctified space! I have never been attacked."
+
+"You deserve it."
+
+"Everyone's a critic." They vanished again.
+
+"I liked the outfit," Stephen said.
+
+I sighed and took in the heavy air. A place being sanctified did not fix its air quality. On our approach I saw solar panels on the roof. Maybe I could get the power running on enough of the building to at least give us ventilation and light.
+
+I noticed Ash leaning against the doorway.
+
+"You good, Ash?"
+
+"Just coming to terms that this is our life now. The madness isn't temporary. It's just what's normal. I hadn't begun wrapping my head around it."
+
+I tried to give him an encouraging smile. "Sorry we didn't manage to clear that library."
+
+"Yeah, that. A very normal sentence in our world." He pushed away from the wall. "Don't worry about me, I'll just go out and catch some fresh air."
+
+We looked after Ash as he left.
+
+"We still need to do that, right?" Stephen asked. "Like, yes, we are in war, and it's fucked up. But besides all that, we also need to get stronger somehow?"
+
+"That's why we are looting so many rations. The end of the world is busy," I said. "I will try to take care of ventilation. Maybe you three should scout and see what's around us. Later I will need all of you to wrangle stunned bats while I'm waiting out cooldown timers."
+
+"Well, now the one-hour break feels like we wasted time," Stephen said.
+
+"Nah. I needed that. If I had been any more strung up earlier things could have gone wrong… in multiple ways. It was a good and correct call. We just need to find a balance."
+
+I left the others behind. I couldn't tell how they were really coping, but my coping involved feeling productive. And to layer coping mechanisms I did murder math while doing electrical engineering.
+
+Fox, honey badger, orc, spider, demon bat. If I managed to pull off that shockwave trick I used against the kobolds earlier again, but this time against a swarm of demon bats, I could secure five first kill rewards. Along with the two I had banked, that was more than enough to get me to fifteen, but I would need more experience to reach the next perk. But if the daily rotation offered no repeats, I could repeat such a trick after midnight, and get to level 16 before dawn.
+
+None of which helped the others progress. We needed to slaughter hordes of foes to get them to a similar level. Or plan assassinations of demons. I wondered what level Claire had reached. Nothing had beaten the experience gain we got from killing just two of the bastards.
+
+#
+
+An hour later, ventilation sprang to life. From one moment to the next, the air pressure inside changed, and old stale air was replaced with the too-hot afternoon air of post-apocalypse New York.
+
+All in all it had been pretty easy. I just needed to bypass the anti-islanding protection on the solar system, and then set up the AC system to not immediately trip every single breaker by running the compressors. For now, fans were all we needed.
+
+I tested the lights and was rewarded with a level to my Tinkering (Hardware) skill. There was no one to celebrate with me. Ash had joined the others in checking out the neighborhood.
+
+"What now?" I asked the voices in my head.
+
+"Can you keep going?" Gabriel asked. "If you can, do that. But you achieved a lot today. It is okay to take a break. Your idea about the bats is solid. If you can get enough of them you can reach level 16 today, purely off those bonuses."
+
+"Wait. I counted five available shapes?"
+
+"Both of your birds count, you can become the Arctic Fox through your new Shape Echo, you have two shapes in your rotation you haven't gotten it for yet and the orc shape. Jamie is still carrying that spider and if you manage to catch bats you will most likely want to eat the heart of one."
+
+I blinked. "I had totally forgotten about the birds. And the Arctic Fox. Damn. Past-Eve might be a bitch, but this class does have potential."
+
+"Do we no longer like Past-Eve?" Lucy asked.
+
+"This class she chose is pretty fucked up."
+
+"But it can level faster than most," Gabriel said.
+
+"I will need more than one swarm. I can't expect the others to hold down eight demon bats."
+
+"You can hunt them in your bird shapes though, with your current skillset the bats can't match your aerial combat. Just take care not to get lured into an ambush."
+
+"Good point. Given enough time I can even snatch a single one, ground it and then shift and finish. Costs at least 2 ATP per kill, but I could do it without the others."
+
+"Yes, but letting them handle some bats for a while will also give them a share of experience for your kills."
+
+I nodded. I was pacing around the lounge area. The clear next step was to catch up with the others, but I was procrastinating.
+
+Unable to find a rational reason to stay, I turned off the lights and ventilation and went outside. The change in air temperature would be far too obvious for any scouts with heat vision. It was only a matter of time before they found us again. We'd need to spot their attackers earlier next time.
+
+I shifted into the Might version of the crow and went looking for my party. There was a faint chance that the crow's stronger sense of smell would possibly grant me insight on a scout.
+
+I found them right at the aftermath of a fight. Three humanoid bodies lay at their feet. Upon closer inspection they were doll-like bodies wearing old school nurses' outfits—with scalpel-like fingers.
+
+I landed behind them.
+
+["What the hell."] I wrote.
+
+"Hey, Eve. Not the first group of those we fought either," Jamie said while looting the last of the bodies.
+
+In the orbiting knives around Liz there were a couple of severed scalpel fingers.
+
+"They are by far the creepiest things the Blessing has created so far," Stephen said.
+
+["Found out where they are coming from yet?"]
+
+"We triangulated a likely location but kept our distance," Ash said. "Figured you'd be the one best suited to confirm it." He pointed towards the northeast. "Somewhere over there."
+
+["Good call. Are they always groups of three? If you all help me, I could reach sixteen before midnight."]
+
+"Sixteen? You haven't even reached fifteen?" Jamie asked.
+
+["There are seven potential first kills available, eight if we include the bat. I will need that spider you are carrying."]
+
+"I was hoping you had forgotten about it."
+
+["Not about the giant monster spider, nope. I would also like to postpone our return until after dusk. I want to scout the path as one of those bats. Mammon has his own scouts out here tracking us. That's how they knew about the hyenas. I want to make sure none of those are around when we return to the club."]
+
+For a couple of hours, the apocalypse had the decency to go according to plan. Mostly. We found more nurse dolls, which neither had a heart, nor could be affected by bleeding. I opted to assume the Blessing didn't spawn those specifically to screw with me.
+
+From those I knocked out the crow kill and the orc kill. Which allowed me to free the slot to eat the spider heart. In Jamie's inventory it had been perfectly preserved. With Ash's help, I identified what could be described as a spider's heart. It was both the second most disgusting heart I had eaten so far and the second most unpleasant transformation.
+
+But my immediate impression was that I liked the shape, despite its weirdness. Shame that I had to drop it immediately so our Paladin could still function. The spider kill would need to wait till last. But its Web Shot was a low-mana, low-cooldown spell. That'd make getting a solo kill a lot easier.
+
+After nightfall we switched to hunting the bats. They were more like flying foxes, a large type of bat that didn't possess echolocation. Only that the demon bats had six eyes and weren't at all fluffy or cute. More like smaller demon hounds with wings.
+
+An hour later I had replaced my old demon shape with the demon bat and was checking the path back to the club for the others.
+
+Seven kills had been achieved, mostly on bats. Only the spider remained.
+
+There was no sign of any nearby Mammon scout. I had to consider that the kobold might have lied to save his skin. Torture was a famously bad interrogation technique. Though I wouldn't feel safe from the unseen threat until I changed exactly that—until I had seen them.
+
+What I did see was that Claire had put out multiple sentries around the perimeter of the club. I suspected she felt responsible for failing to spot those who burned down the fire station. Stretching to cover all the bases and blaming herself when she failed to be everywhere and everyone at once. Oddly familiar feeling, that.
+
+I entered after the others, in human shape. Thanks to the brilliant plan of them holding down a bunch of only-somewhat-stunned murder bats, they were covered in scratches.
+
+"Thanks, guys. Now I need just one—" I noticed my experience bar "—fuck."
+
+I got four different variations of a spoken "What?" and one by Claire in chat. Her mannequin was sitting in the lounge.
+
+"Sorry, sorry. It's… I'm already there. I can get to level 16 now. I got enough experience today to make up for one kill. I just… I keep losing track of things."
+
+"Shit, Eve. You scared us," Jamie said.
+
+"You're definitely stretched too thin, Eve," Stephen added.
+
+I took some deep breaths. "I'll just turn on the ventilation and light and then get those levels, pick that perk and then I'm done for today."
+
+"Maybe done for tomorrow, too?" Liz said. "We got those rations, we even looted a portable induction plate. Stephen can cook up some stew. Or soup. We looted some ingredients. You can take a day off."
+
+I went towards the staff area that housed the electrics. "I… I'm not sure I can." I left before she could nail me down on that.
+
+With the electronics up and running I went to the sanctified room.
+
+Lucy appeared, lounging on the bed. They had ditched the dominatrix outfit for a latex dress, with knee-high boots.
+
+"You know, Eve. I think your friends are right. You should relax a bit more."
+
+I tore my eyes away. "If this is an attempt at seduction, it is the bluntest I've ever seen. And not working."
+
+"I'm appalled you'd think so poorly of me. No. Stephen ruined suits for me. Imagine a banker who basically robs people for everything they own, coming here, in a suit, seeking atonement in the only way his poisoned brain can conceive, through submission to those he considers lesser."
+
+"You are doing a lot of extrapolation, from very little data, Lucy. Just because Stephen said he knew the place?"
+
+"Can't help myself. Now I don't want to wear a suit in here."
+
+I accepted the first kill Tasks and leveled all the way up to 16.
+
+I opened my perk choices and closed them again. Lucy moved over as I laid down on the bed next to them, staring at the ceiling.
+
+"I hate the Blessing."
+
+"Me, too, kitten. Me, too."
+
+A moment later Lucy's hand found mine, and I didn't pull back. I examined my perk choices while holding a devil's hand.
+
+[Embodiment - Ability
+
+Effect: While active Experience gained from combat is converted into Mastery Experience for the currently active shape.
+
+Upon achieving Mastery gain the following effect:
+
+If the shape is innate: +2 to all Attributes in that shape.
+
+If the shape is not innate: Shape becomes innate.
+
+-
+
+Exemplar Leader - Ability
+
+Effect: While active you gain no Experience from combat. Nearby party members and allied creatures gain 50% increased Experience and any Experience you would receive.
+
+-
+
+Hunter's Forfeit - Spell
+
+Range: Line of Sight
+
+Effect: Marks one target. While active, gain the following benefits:
+
+Attacks pierce target's resistances
+
+Resistance against target's attacks
+
+Resistance against target's abilities
+
+Awareness of target's position
+
+Target grants no experience.
+
+Cost: 5 Mana
+
+Cooldown: 10 minutes
+
+Duration: 60 minutes]
+
+"Before you pass out. Day 3: There were far too many ways I could have fucked you over today. So, I'll stick to the highlights. Obviously sabotaged your return to the hyenas, so you'd have arrived just in time to witness the effects of their last meal. Alternatively just egged you on while you were squeezing the life out of that kobold. Maybe mad-with-rage Eve isn't all that bad."
+
+"That's a hell of a monologue to pull while holding someone's hand."
+
+"Promised to you I'd do this."

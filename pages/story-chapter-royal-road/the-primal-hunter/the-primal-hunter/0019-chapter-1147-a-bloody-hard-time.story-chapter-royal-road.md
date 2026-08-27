@@ -1,0 +1,139 @@
+---
+id: 8af3149a-b052-5aba-9a2a-8256bd94821d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1147 - A Bloody Hard Time"
+slug: 0019-chapter-1147-a-bloody-hard-time
+partOf: the-primal-hunter
+position: 19
+ownLength: 2793
+unit: words
+ownProgress: 2793
+publishedAt: 2025-08-08
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2502303/chapter-1147-a-bloody-hard-time"
+royalRoadId: "2502303"
+markedReadAt: "2026-06-29T19:29:51.659Z"
+---
+
+Miranda took a moment to process the request as she shook her head. “You are aware that the moon is currently having a bit of a ghost problem.”
+
+“I am indeed,” Nanna confirmed. “A B-grade is occupying it, to be exact.”
+
+“Right,” Miranda nodded. “And a B-grade that I’m fairly certain the World Leader has plans to hunt down. Last time I checked, this ghost caused him quite some grief and even severely injured the Chosen of the Boundless Hydra. With that in mind, he definitely considers it his prey.”
+
+“He likely does, but that doesn’t mean he has a monopoly over wanting revenge. As you just said, the Chosen of the Boundless Hydra is the most wronged party by the Ghostvine Sovereign. Seeing as the Chosen of the Malefic Viper is currently indisposed, Sandy has agreed to allow Arnold to stand for Operation: Moonfall.”
+
+“Operation: Moonfall? Really?” Miranda asked with a raised eyebrow.
+
+“Named by Sandy, and apparently also someone called Tom? Either way, the name isn’t important. Originally, Arnold considered just launching this operation on his own, but I believe it would be best to approach you first,” Nanna said. “The moon is halfway considered a part of Earth, and the World Leader does have some control over it, so I wanted to run things by you first and ask if Arnold can claim it.”
+
+Miranda got quiet as she considered the offer. In truth, the situation on the moon did remain a concern for her. Having a B-grade lurking above their heads like that was unsettling, even if it had been reported that this B-grade seemingly didn’t have any true intelligence.
+
+This lack of intelligence could also turn out to be a danger, though. Creatures like the Ghostvine were driven by instinct, and the instinct to grow was stronger than any other. When the moon stopped being a suitable source of nutrients, it was bound to seek out Earth, and while Miranda was confident they could handle the moon invading them, she would prefer to avoid such a situation ever taking place.
+
+That’s why Arnold’s offer to take care of the lurking threat was tempting. Having Arnold set up shop on the moon would also solve the space issues he was currently suffering from, and by the time even the moon became too small for the scientist, he should have good enough spatial expansion tools to make it work.
+
+Having him up there was also another layer of defense for the planet. Miranda was fully aware that Arnold was as deadly as any of the other peak geniuses on the planet, and his presence would serve as a deterrent to any would-be troublemakers. If she granted him the moon, she would also have some level of influence over Arnold and have him owe her and the planet a favor. More so than he already did.
+
+The only real problem with giving Nanna the go-ahead was Jake’s reaction to learning someone had potentially stolen his prey. However, she didn’t want to let such concerns stop her from making the decision she believed was best. Jake hadn’t called dibs on the Ghostvine Sovereign, and Nanna did have a point that Sandy was the one with a more rightful grudge.
+
+Still, she wanted to play things safe, and considering she had a legendary skill with the sole function of contacting Jake across nearly any distance or space, reaching out to him wouldn’t be overly difficult.
+
+“I’ll give preliminary approval for now, but I’ll need to check in with the Chosen of the Malefic Viper before providing you with a final answer. I will expect you’ll be granted permission, though,” Miranda said. “In the meantime, we’ll also have to draft up what an agreement for handing over the moon would look like. I’ll also need some more insight into what exactly you plan on doing up there.”
+
+Nanna smiled as she summoned a tablet and handed it to Miranda. Accepting the tablet, Miranda saw it was already full of blueprints and plans, making her chuckle and shake her head. “I got the feeling you were still in your initial planning stages.”
+
+“To Arnold, his initial planning stages look like others’ finished projects,” Nanna smiled, Miranda unable to argue against that one.
+
+Briefly scanning what she’d been handed, Miranda had to give him credit. He had a lot of plans for the place, none of which she objected to. After a minute or two of getting a basic understanding, Miranda nodded again.
+
+“Alright, this all seems good, but as I said, I’ll have to contact the World Leader to confirm it's fine,” Miranda reiterated.
+
+“We will wait patiently,” Nanna bowed.
+
+“But just one question before you go,” Miranda said, putting down the tablet and looking Nanna straight in the eye. “From everything I’m seeing here, the Moon isn’t your only choice. There is plenty of barren land on Earth, so be honest with me... Arnold just wants a moon base, right?”
+
+“I’m unable to neither confirm nor deny that Arnold’s self-admitted childhood dream of having a moon base may have influenced his viability assessment models,” Nanna smiled in response, confirming what Miranda had indeed suspected.
+
+“Figures,” Miranda sighed. “Say, from one personal assistant serving an eccentric genius who is equally likely to destroy or better the world to another, what is your coping strategy to deal with... well, Arnold, in your case?”
+
+“Raunchy romance novels,” Nanna answered without a shred of hesitation or shame. “You would be surprised how many are still being produced, even now. I would recommend that you read some, but I would be careful if I were you, or the experience would leave you less sane.”
+
+“Why?” Miranda asked curiously. Sure, it had never really been her thing, but getting a new hobby could be an idea to better destress when Jake got too Jake-like.
+
+“Fan fiction,” Nanna answered, looking Miranda straight in the eyes. Miranda took a moment before she realized what she was hinting at.
+
+“... I should make a law against that.”
+
+“If you do, don’t have it work retroactively,” Nanna said, remaining bereft of shame.
+
+“This conversation has left me more stressed than before,” Miranda said, leaning back in her chair. “I guess I’ll just stick to working until I either suffer a nervous breakdown or get accustomed to it. Willpower is one hell of a stat sometimes.”
+
+“Also, my highest stat for a good reason,” Nanna smiled. “Will you reach out once you’ve contacted the Chosen of the Malefic One, or should I come by again at a later date?”
+
+“I’ll send someone to inform you,” Miranda waved her off. “Oh, and do tell Arnold I wish him luck in ridding the moon of its haunted nature.”
+
+“I believe the phrase he used was to “bust” the moon,” Nanna chuckled. “All while humming a familiar theme song.”
+
+“Goddamn geniuses and their childish natures... either way, good luck. Both in dealing with the moon and the one who’s going to deal with it.”
+
+Nanna thanked Miranda for her well wishes as she took her leave, Miranda letting out a loud sigh. While this brief meeting had left her with even more work, it had admittedly also helped her mental state a little, as Miranda couldn’t help but smile at the knowledge there were other people out there dealing with the same kind of bullshit she was.
+
+--
+
+Life and Vitality.
+
+Both were words, some even considered identical. Yet, when it came to conceptual understanding, there was a vast gulf between the two. One that Jake would have to properly understand if the plan to upgrade Blood he’d formed would come to fruition.
+
+Life was nothing more than an affinity of energy, and on the surface, a lot simpler to get a basic understanding of. It was one that was considered relatively high in the ranking of concepts, equal to the concept of death, but still below that of time and space. Of course, classifying concepts into how complex they were was a mostly meaningless exercise, as all concepts were inherently boundless in nature.
+
+Vitality, on the other hand, was far simpler, yet on the scale of conceptual power, far beyond any of the regular concepts. Vitality was a stat that determined the amount of life points someone had, at least that was the most immediate effect.
+
+Higher Vitality also increased the regeneration speed of the body as well as the health pool. However, the reason why Vitality was considered so complex was because of the things it could do that simple comprehension of a concept never could.
+
+When one increased Vitality, one also increased lifespan. To all life-based creatures in the multiverse, it was the stat that governed how long someone would live within their grade and race. If two people of the same race were both at the peak of C-grade, and one had significantly higher Vitality than the other, that person could potentially live thousands of years longer.
+
+Of course, there were other factors. Elves naturally lived longer than humans, though the gap did lessen as one progressed through the grades. Then there were those who never had Vitality in the first place or had forsaken it. To many of these, the only limitation to their lifespan was the absolute limit of the soul imposed at every grade. A barrier one could only break through by stepping into godhood.
+
+Meanwhile, the life affinity was a natural one that could be found in the atmosphere anywhere life thrived. The entire domain of the Pantheon of Life was filled with it, and merely being in that kind of environment sped up natural regeneration.
+
+Jake had wondered a bit for a while how exactly Dina’s magic worked. Or Eron’s, for that matter. Healing magic in general had always been odd in Jake’s mind, as it seemingly broke the rules of how magic was meant to interact with other people.
+
+Most kinds of magic, even the helpful kind, one had to accept being affected by it or be overpowered. When Artemis wanted to teleport Jake with her, she had to either force him along or Jake had to give consent. The same was true even for something simple, like having another person donate energy into an owned item.
+
+Yet healing magic worked without consent. It could enter the body without any resistance and touch any part of the soul, even the deepest parts of the Truesoul, in some instances. Of course, in most cases, healing was done to directly restore resources. The same proved true for many buffing skills that helped empower one's allies, but for now, Jake focused on why this form of life magic was allowed to affect others so effortlessly.
+
+Did the system just know that it was helpful? Or was there some other concept at work? Jake had wondered this for a while, and he had ordered several books on the life affinity and even gotten a few natural treasures he hoped could provide some kind of insight.
+
+Jake believed that to truly understand how his Blood of the Malefic Viper worked, he had to better understand life in general, and healing magic was at least part of that. Blood was the physical representation of life, and every drop was teeming with it. At least that was one role blood took.
+
+When inside Jake’s body, it was indeed the carrier of vital energy and a source of life, but once outside of his body, it could become a deadly toxin possessing not a hint of life anymore.
+
+It was a dichotomy Jake still had yet to fully understand, but he did know it had something to do with the transformation of energy from one kind to another. When Jake infused his blood with mana, he turned all the life energy into what Jake could only properly describe as malefic energy.
+
+This belief was further reinforced by the toxicity of Jake’s blood, primarily scaling with the Vitality stat. What blood did was turn life into death, vitality into decay. For the Malefic Viper, it was bound to be the same. A mere droplet of his blood could corrupt countless worlds beyond recognition, yet it also contained enough vitality to create myriad lives.
+
+From the droplet of blood within Jake’s own Soulspace, he knew just how powerful it could be, and he had studied it plenty, trying to glean any insight. Sadly, he was at a way too low level to gain any comprehension from the true blood of a Primordial.
+
+One thing about Blood of the Malefic Viper that Jake had never even thought about was the fact that its toxicity was based purely on defensive stats. Wisdom and Vitality were the two primary ones, but if Jake used any other kind of offensive magic – even the kind that summoned poisons – it would be reliant on his Intelligence.
+
+Intelligence was what usually determined the power of one’s magic. This could even be seen with Touch of the Malefic Viper, which scaled off Intelligence more than any other stat.
+
+Now, Jake did have one major source of damage that didn’t scale off Intelligence at all. Besides his physical attacks, of course. Jake’s poisons didn’t use the Intelligence stat at all, but used Wisdom above anything else. Seeing that Wisdom was also the second big stat that scaled the toxicity of Jake’s blood, his act of transforming his blood into a toxin was, at least in the eyes of the system, seemingly considered doing alchemy.
+
+That being the case... Jake began to wonder if he could do more with his blood than he already was. As things were, Jake could either infuse his blood with energy or he couldn’t. When infused, the poison created was based on his Records and completely out of Jake’s control. It was simply an amalgamation of all the toxins Jake had ever created or consumed, which made it good at a bit of everything, but at the same time, never excellent either.
+
+The reason it worked so well in Jake’s crafting was because he could filter out all the energies he didn’t need relatively easily and just have the blood function as a catalyst to amplify the entire brew while also adding the required liquid.
+
+However, if Jake were able to better control the alchemical process taking place within his own blood, Jake could do so much more. He could create more specialized toxins, make better catalysts, or even filter out nearly all the toxins and make his blood more suited for potions. Perhaps he could even “overcharge” his blood with energy.
+
+This was Jake’s main goal after having considered how he wanted to upgrade Blood of the Malefic Viper. He wanted to improve the core aspect of the skill and the part that would be the most useful. Upgrading the potency of his blood also meant upgrading the poison mist from Wings and the venom from Fangs of the Malefic Viper. All the Viper’s Legacy skills were synergistic with one another, after all, and Jake had also realized something else about Blood of the Malefic Viper.
+
+As a human, Jake naturally didn’t have any venom sacs or anything like that. When the Viper was polymorphed into a humanoid form, he likely also didn’t, which forced him to create an alternative. To Jake, his blood now more or less functioned as his own personal venom sac. At least that was where any toxins he excreted from his body were directly sourced from.
+
+In all honesty, while Jake did have one direct goal, his mind was a bit all over the place when it came to how he would get there. He had nearly too many things he wanted to try, and whenever he got a good idea, it just raised five new questions he felt like he needed to answer before he could succeed.
+
+That was why it was almost a blessing when Jake was interrupted from his thoughts by Miranda, who asked him about the moon, of all things. Now, Jake did have to admit that the entire thing about the moon being haunted had kind of slipped his mind until he was reminded, but when she mentioned it, he instantly had a desire to go check it out.
+
+However, Jake chose to show grace and allowed Arnold to handle the moon. While he did want to kill the Ghostvine to help take revenge for Sandy, it was ultimately still Sandy who could rightfully seek revenge. Jake hadn’t even met the Ghostvine personally, at least not properly.
+
+While he would indeed have loved to go if only to watch the fight, right now, he was having a bloody hard time figuring out how to upgrade his Malefic Viper Legacy skill

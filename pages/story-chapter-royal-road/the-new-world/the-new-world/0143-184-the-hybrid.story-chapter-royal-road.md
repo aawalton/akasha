@@ -1,0 +1,187 @@
+---
+id: 898f05a0-f23b-5a55-b641-a47bf62ac2c4
+page-type-slug: story-chapter-royal-road
+title: "184 The Hybrid"
+slug: 0143-184-the-hybrid
+partOf: the-new-world
+position: 143
+ownLength: 3410
+unit: words
+ownProgress: 3410
+publishedAt: 2019-02-15
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/334161/184-the-hybrid"
+royalRoadId: "334161"
+markedReadAt: "2026-06-29T21:25:41.891Z"
+---
+
+Althea pointed at the destroyed arena, "I...You just need to see it."
+
+She turned and skulked over towards the arena. I followed. Once beside the wall, I lifted us up until we reached the edge of the steel barrier. Exposing as little of myself as possible, I lifted my view of the monster. As I saw it, my jaw dropped.
+
+A bulging mass of flesh and wires pulled its mouth over a Skyburner's neck.   Tiny wires squirmed into the Skyburner's body, draining it. The Skyburner still breathed, but it could hardly move. It gazed off at his fallen brethren, gasping in agony as the thing absorbed it.
+
+And it made sense why the 'thing' had won. It was mountainous, a behemoth of meat and metal. Muscles contracted all over it, wires lining beneath its gray, gooey skin. It lacked an overall structure, having many limbs jutting out in many directions. Each one carried a latent power, the threat of explosive violence evident.
+
+It reformed itself, continually shifting its form and adapting to whatever it was up against. From its many feet, wires expanded outwards, growing as I looked at it. It uprooted its feet each time it took a step, cables snapping as it did.
+
+What disturbed me most were the eyes of the creature. It had many on the upper half of its head. Every eye was different and unique, some glowing and some not. What made them haunting was the intelligence hidden within them. Each eye carried a purpose with how it looked around as if driven by a conscious.
+
+Before its many eyes saw me, I analyzed the creature.
+
+The Hybrid(lvl 13,413) - Little is known about this creature outside of its grotesque appearance. Initial scans reveal a mismatch of various DNAs from several sources. Its devastation in combat cannot be denied given the victim's surrounding it when it was discovered.
+
+The only other element of the creature that can be analyzed is the persistent radiation the creature emits. As if a walking reactor, it ebbs gamma radiation like an odor, killing nearby creatures with ease. Be wary of its potential for nuclear abilities coming from said radioactive potential.
+
+I turned to Althea, sending her a message.
+
+Dimension C-138(lvl 7,587 | Giess: 4:15 A.M. 3/18/26) - Don't talk. We need to kill this thing right now before it spreads.
+
+Althea Tolstoy, the Shapeless Arbiter(lvl 6,221 | Class: Breaker | Giess: 4:16 A.M. 3/18/26) - What? Let's make a plan with the others.
+
+Dimension C-138(lvl 7,587 | Giess: 4:16 A.M. 3/18/26) - It's gaining levels as we speak. If it finishes those corpses, it might be more than our entire group can handle. We need to kill it. Now.
+
+Althea Tolstoy, the Shapeless Arbiter(lvl 6,221 | Class: Breaker | Giess: 4:16 A.M. 3/18/26) - How do you expect to do that?
+
+Before I could answer, the Hybrid turned its head. The many eyes locked onto us as if searching for something. I froze in place as did Althea. For a tense moment, it locked eyes with mine. I charged my mana, preparing for carnage.
+
+The moment any of my mana charged, the monster dropped the Skyburner. It lifted a huge foot and stomped the Skyburner's skull. With a surreal burst of movement, the creature reached us. It moved faster than a car, nothing about it slow or exaggerated.
+
+I'd never faced anything like it. In most movies, massive creatures moved slowly.  This thing carried a vitality that enabled it to charge like a living storm of metal. It raised its titanic hand before swiping it at us.
+
+At the same time, a sunrise peaked over the horizon in the distance. The light cast a shadow off the giant's hand, engulfing us in shade. Before the attack landed, I shoved Althea away from me, launching her into the forest of spires. The hand squashed me from above, crushing me into the metalscape like a mallet.
+
+An endless number of wires crawled over my armor. At the same time, veins groped for some way of infecting me. They found purchase in my helm, an ocean of the mass crawling it. My armor fought back, reaching out with its own storm of needles. I lashed out with my arms, tearing through the creature.
+
+It kept trying to infect me, wires and flesh regenerating over my body. I activated Event Horizon, collapsing the aura until it covered a tiny circle around me. At the same time, I created a dense blob of antigravity over my chest. As I waved my arms, I sliced through the many cords and veins.
+
+An oily sludge covered me, as I cut my way through the abomination. I kept slicing, and I found nothing to grab onto or push off of. I was surrounded by this thing in all directions. After a few minutes of struggling to escape, an old emotion crept up inside my chest - fear.
+
+This thing wasn't struggling to hold me in place. If it kept regenerating like this, I might be trapped in here for a long time. Just as the emotion formed, my feet flopped onto the steely ground. As I landed onto the floor, I gasped with relief. Finally able to get a grip on something, I waved my arms and pushed off my heels.
+
+At the same time, I reformed my arms into blades. With all my weight behind each of my swings, I lopped my surroundings into mush. The Hybrid let out a whistling scream loud enough to crack glass. It glared down at me as it raised its foot.
+
+I stood in a puddle of black oil, my armor soaking it up and drinkings its blood. The monster raised its foot and stomped on me once more. The collision sent out a massive shockwave around us, resembling the booming sounds we heard earlier.
+
+Despise the overwhelming force, I withstood the impact, though it rattled my bones and gave me a headache. I thought I would crush under him, but that wasn't the case. The metal ground beneath me was only a few inches deep. After that, there was just soft earth.
+
+The ground failed the Hybrid, not his actual strength.
+
+Not willing to ignore the advantage, I burrowed downwards. I kept myself within range of Event Horizon, sucking the monster's health dry. At the same time, the creature smashed its many limbs into the ground. I kept my distance, not willing to test the creature's might.
+
+Even as parts of its body disintegrated, the monster regenerated others. Its sheer vitality rivaled my own, sustaining it through my own aura. After a few minutes, the tiniest inkling of damage exposed itself on the lower end of the creature. It would die, given time.
+
+As half an hour passed, I moved towards the other Skyburners. Killing two birds with one stone, I dived from corpse to corpse, eating them with my draining abilities. By the time the Hybrid grew restless, I had eliminated all six of the remaining Skyburner corpses.
+
+Losing all semblance of patience, the creature plowed through the Skyburner camp's walls and into the silver wasteland. It gave up its pursuit of me, choosing to ignore the thorn in its side. The behemoth left a trail of broken spires behind it as it feasted on the many silvers infesting the wasteland.
+
+These silvers sustained the creature through my aura. It used them to rejuvenate itself, this cycle perpetuating. Throwing a wrench into its plan, I charged my mana for a singularity. After five more minutes, I unleashed onto at the center of its head.
+
+Before the spell finalized the monster's eyes closed. They traveled through its body opening at the end of a different limb seconds before the singularity collapsed. A portion of its body fed the black hole before it imploded with a colossal explosion.
+
+The shockwave knocked spires down in all directions, the absolute power of it awe inspiring. The Hybrid was left smeared around the singularity's blast radius. I pulled myself from the ground preparing to clean up the mess. I gawked in horror as pieces of the monster crawled back together.
+
+The monster survived a singularity.
+
+Before it fully formed, I jumped into the writhing blob. The Hybrid shifted like a turbulent sea around me. My strikes met air as it wobbled like a liquid, keeping its distance. Far off, Althea lifted one of the broken spires. Like a lightning bolt from Zeus, she radiated with arcane mana.
+
+Bright, purple electricity formed around the spear. With unbelievable strength, Althea chunked the giant pillar of metal right at the monster's newly formed head.
+
+The giant spear impaled the monster, black muck gushing from its wounds. Arcane ripples traveled through the beast, sapping its life force. With a way of killing the creature right in front of us, we came up with an impromptu plan.
+
+I radiated heat around me, creating a pool of metal underneath the forming creature. As it created legs to stomp on the ground, I molded the molten mush over its feet. Before it ran away, I hardened the steel over the creature, pinning it down for a few moments. It scrambled to form more legs to escape our grasp. I gritted my teeth as I turned the steel beneath us into an orange, glowing sea.
+
+As I kept the monster busy, Althea threw broken spire after broken spire. More wounds formed on the beast, and the hybrid grew desperate. It jerked and writhed around me, trying to escape Althea's firing range. I kept it contained with dozens of gravity wells and hardening pools of metal.
+
+We fought until the creature's black blood pooled into a darkened sea. It shrunk in size, becoming harder to hit. I held my ground, keeping the monster still with greater ease than before.
+
+At the same time, Althea couldn't keep up. On the side of my HUD, her health bar dipped to one third as she threw yet another pillar of steel. Without the beast surrounding me, I turned to spot her in the distance. Portions of her skin and clothes were worn off around her arms and feet. Several of her fingers were broken. If I looked right, so were her toes. I realized what was happening at that moment.
+
+Even if she was strong enough to throw the spires, her body wasn't resilient enough to keep up. In a way, anytime you threw something, it threw you back. Newton's third law and all that. It turns out that several ton spears threw back hard. In a way, she was killing herself by continuing her attacks.
+
+If a stray silver happened upon her at the wrong moment, she could die. Before that happened, I took the initiative. With the monster's reduced size, I wrangled it into a single, wobbling mass with a gravity well. The gravity well pulled on me, but I stomped my feet into the steel beneath me. I dragged forward as the molten steel pooled around the creature.
+
+At the same time, I heated the metal over my armor until shined white. With the sweat on my brow evaporating, I dived forward. I sunk through the shell and into the beast. Just as I reached inside the iron, I cooled the surrounding metals.
+
+We were both trapped inside.
+
+The wires and veins tried invading me. Using my armor, I fought back. I molded my armor into a thousand spears in every direction. From each spear, I launched even more needles. The beast swirled in its cage, wrestling for escape. I gave it no leeway or opportunity to do so.
+
+Without a direct means to get away from me and feed on other silvers, I slowly whittled it away into nothing. As my armor devoured the final piece of the creature, I tapped against something ephemeral. Blue light illuminated the darkness around me, revealing a dungeon heart.
+
+As I tore out of the hollow iron ball I created, I held up the blue dungeon core with a notification of the Hybrid's death. We killed the damn thing. Althea cheered with one of her arms flopping at her side. I sat down, splashing into a pool of the black blood. After a few minutes, my armor sapped even that, leaving nothing behind.
+
+With the beast finished, I stood up, put the blue dungeon core into my inventory, and paced over to Althea. She laid back on a crag of metal, blood dripping down her hands. I grinned at her, and she grinned back. As I got beside Althea, I laid down beside her,
+
+"You look like you could use a hand."
+
+Althea raised her arm, showing several fingers twisted in wrong directions,
+
+"Oh hah hah, very funny."
+
+I reached into my dimensional storage, "What? Something looks off about them. I can't quite put my finger on it..."
+
+Althea winced, "Ok, stop it, or you'll actually kill me."
+
+I laughed, pulling out a green health potion. As I poured it over Althea's shoulders, she gasped in relief. I put her fingers into the right directions, Althea grunting in pain as I set each of them. After she healed up, we laid there for a moment. Her healed hand wrapped around mine and Althea leaned her head on my arm. With Giess's warm sun shining on us, she fell asleep.
+
+I let her rest for a bit before lifting her with magic, suspending her in the air. She pulled an all-nighter by fighting a giant monster. She deserved a break. Carrying her behind me, I traveled towards the Skyburner's base to investigate what happened. If I waited much longer, the silvers would strip any evidence left behind.
+
+As I got there, several engorgs already scoured the blood stains on the steel for nutrients. I threw blocks of sheered metal at several of them, killing them at a distance. Althea slept through all of it, her exhaustion absolute. After clearing the camp, I combed the area for any clues about what the Hybrid was.
+
+I found several odd signs in seconds. The hybrid traveled by land, destroying a lane of spires as it did. Where its feet landed, it stripped the metal beneath it as well. These factors made following its trail obvious.
+
+That's why it threw me off that there was no oncoming trail of destruction here. It was as if the hybrid just popped up in the middle of the base.
+
+Another strange signal came in how the Skyburner's died. I expected burn marks from their fiery breath in all directions in the base. The few scorch marks I did find were right beside the blood stains where the Skyburner's were crushed. Even worse, the trails of blood were short, meaning they didn't fight for long. From what I could tell, none of the Skyburners escaped by flight either.
+
+That giant mass of screeching metal had somehow snuck up on the Skyburners while they were asleep.  Gialgathens owned sharp senses, the Skyburners even more so. They'd hear something like the Hybrid coming from a mile away. That monster being stealthy was impossible without some kind of intervention from an outside source.
+
+I was sure of it.
+
+With that conviction, I found the final clue. At the center of the camp, there was a sludge well that fed the now dead slaves here. Around the bubbling pit, the metal was stripped at odd angles and places. Putting the pieces of the puzzle together, I came up with a picture of what happened here.
+
+The Hybrid crawled out of the well beneath the camp. It devoured the surrounding slaves, evolving into a threat. After killing the zombified espens, it must have infected a nearby Skyburner. If anything, it crawled into the Skyburner's mouth or something while it absorbed the gialgathen from the inside. Otherwise, it would make too much noise.
+
+After that, the Hybrid lashed out and crushed the surrounding Skyburner's before they could retaliate. Before I made any more assumptions, I pulled Althea to me. I held her against my side while casting an antigravity well at the center of my chest. Without delay, I jumped into the bubbling pit of purple sludge.
+
+The gunk molded around us, the antigravity keeping it from touching Althea or me. After about thirty seconds of sinking down, the sound of rushing liquid passed by my ears. Using Hunter of Many, I used the sound of rushing water to find an opening in the well. Althea and I crashed out of the sludge tunnel, uncovering a vast cavern.
+
+In all directions, multi-colored fungi glowed in hues of blue and orange. Crystalline creatures darted between these faunae, hiding under the caps of the glowing mushrooms. Birds of glass hid inside clusters of gleaming moss. The light passed through the bird, making them hard to make out among the curtain of lichens and mosses.
+
+Several crystal shards glowed here, created from pure mana crystals. They hummed with a radiant power, untouched by the surface world. Many tiny, subterranean animals fought for dominance over this glow, harvesting the latent energy. I analyzed everything here as I walked, but none of the species were categorized by Schema.
+
+No one had seen these creatures but me.
+
+Pacing deeper into the cavern, I found the opened rift deep underground. Behind a set of intricate stone doorways, a vast collection of starfish hung onto rocks on the ceiling.
+
+Well, starfish wasn't the right word. The tiny critters were like sea cucumbers with many legs spread out in all directions. Before stepping further in, I analyzed them.
+
+Harvesters(lvl 32) - These creatures wobble their way around caverns and eat the native plant life. They're attracted to sources of energy of all kinds, giving them some potential for growth. This kind of expansion is rare as there is often times very little to eat deep under the earth.
+
+This stunts the growth rate of these monsters.
+
+Despite this lack of danger present from these creatures, an unarmored individual can be killed by these creatures. Harvesters are sticky, and their entire bodies are composed of a multi-purpose cellular composite. All of the creature's biology is simultaneously muscle, nerves, and brain. This gives them surprising strength given their rather limp forms.
+
+They can also eat in all directions, making them hardy survivors. These interesting characteristics make them the subject of much study from scientists. They aim to hone the survival characteristics of the harvesters into biologically enhanced power armors. While little progress has been made, they still attract many biologists to research them for their potential uses.
+
+You won't struggle against the creatures at all.
+
+I cast event horizon over the harvesters. They disintegrated in an instant, raining down black liquid as I passed by them. The vermin fell from half-eaten lichens, giving the cavern back its natural lighting. As I did so, I found no marks from the hybrid traveling up to the surface anywhere.
+
+After a few minutes of exploration, I found a collapsed portion of the cave. It was a reasonable enough occurrence in most caverns. What made this piece different was two factors.
+
+First, it was the only portion of the cave split off from the rest. The rest of the expanse was a single, wide tunnel that twisted and turned. Second, the cavern smelled like gunpowder and ash. Armed with my curiosity, I pulled the stones out of the cavern, setting aside large piles of rubble. A few minutes later and I cleared the room.
+
+Inside, I found broken test tubes, ripped up electronics, and burnt papers. Someone studied the creatures here and ran after doing something. As I searched closer, I came across several unharmed vials of purple sludge. They sat on top of a bent, metal desk.
+
+Beside them, a cluster of saysha formed a matrice from a cracked vial of the muck. The saysha almost covered another glass container. Almost. I crept closer, finding a language on the jar. I tore a strip of my armor off, melting it. As I did, it glowed white-hot above me, giving me a light.
+
+I read aloud, "Saysha Sample-B103. Hmm..."
+
+I stood and wiped some dust off the battered desk, pulling open the drawers. No papers were left, but I discovered several suspended jars of the harvesters. I picked one out, dusted it off, and read aloud once more,
+
+"Hybrid Sample-B103."
+
+I sighed while crushing the container in my hand.
+
+Someone had created the hybrid.

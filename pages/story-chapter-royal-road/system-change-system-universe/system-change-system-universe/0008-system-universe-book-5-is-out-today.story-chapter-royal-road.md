@@ -1,0 +1,43 @@
+---
+id: 4b7f7c51-3431-5e8e-9018-e24bf3be82c3
+page-type-slug: story-chapter-royal-road
+title: "System Universe Book 5 is out today!"
+slug: 0008-system-universe-book-5-is-out-today
+partOf: system-change-system-universe
+position: 8
+ownLength: 553
+unit: words
+ownProgress: 553
+publishedAt: 2024-02-14
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/1517984/system-universe-book-5-is-out-today"
+royalRoadId: "1517984"
+markedReadAt: "2026-06-29T19:56:59.902Z"
+---
+
+Hey everyone! After a six month wait, it’s finally time for my fifth book in the System Universe series!
+
+Today marks the launch of System Universe Book 5: System Interference. It’s now available through Amazon’s Kindle Unlimited, Kindle, Paperback, and Audible (narrated by Adam Verner).
+
+Valentine’s Day has been a pretty good day for me when it comes to releases, so here’s hoping for another good one! I mean… what better gift for Valentine’s Day than a book?
+
+Available through these links:
+
+Ebook: https://www.royalroad.com/amazon/B0CDJ566WS
+
+Audible: https://www.audible.com/pd/System-Interference-Audiobook/B0CSGCSTKV
+
+Now, as for how people can support the release, there are a couple things, if you were here for the last announcement, you already know this:
+
+-Ratings and Reviews: On Amazon (Also, keep in mind that anything below a 5 is basically bad because of how their rating skew) ratings and reviews are the biggest help for authors. Also, you don’t have to buy the book to rate it, which is good because you most likely already read it here. Though, I would for sure love for you to pick it up again on KU or Audio to get in on some of that good editing and narration. XD
+
+-Kindle Unlimited Downloads: With the way Amazon’s algorithm is, reading the book on KU or even just downloading it helps a ton. The more downloads/reads, the more Amazon likes the book.
+
+Here’s the description!
+
+With those he cares about safe and sound in the city of Savannah, Derek sets off to help another.After a successful auction, the young Prince Edgar requested Derek’s help on an issue that concerned the safety of the entire Kingdom of Cydaria. A new, level 250 raid dungeon appeared, and Edgar needed the kingdom’s elite to help clear it before the unstable dungeon overflowed, or even worse, broke.Leaving his shop in the trusting hands of Malorie, and with everyone’s insistence that he go, Derek agreed to the prince’s request and joined him and the others on the raid. However, the dungeon wasn’t what anyone was expecting, and when they went inside, they found that it was a trial dungeon: A dungeon with various trials and obstacles one must overcome to complete it.Not only was a trial dungeon rare and virtually non-existent in raids, but the entire dungeon was also under a time dilation—causing the time inside the dungeon to pass at a different speed than the time outside.Now, with two trials completed and another team working on a third, Derek was able to take time to focus on his own Class Upgrade. But after initiating it, he ran into a new problem—the Great System seemed unable to help and thus requested assistance.With another possible system in play, will it be a one-time assistance? Or will it stick around? If it does stick around, will it help or cause problems? And most importantly, what happened to Silvi’s cookies? Did they burn, or was Malorie able to save them in time?Find out in the fifth installment of Derek’s journey in the System Universe. Join him and his companions as they adventure in this unique combination of the LitRPG, Isekai, and Slice of Life genres.
+
+I want to thank everyone who read and continue to read the series, and those who left me kind reviews and messages. You are all awesome!
+
+And as always,
+
+Thanks for reading!

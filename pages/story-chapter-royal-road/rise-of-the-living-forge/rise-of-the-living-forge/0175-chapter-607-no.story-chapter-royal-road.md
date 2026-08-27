@@ -1,0 +1,187 @@
+---
+id: 735b31ee-32a3-511b-b7fd-d976787efea5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 607: No."
+slug: 0175-chapter-607-no
+partOf: rise-of-the-living-forge
+position: 175
+ownLength: 2380
+unit: words
+publishedAt: 2026-06-11
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3524091/chapter-607-no"
+royalRoadId: "3524091"
+---
+
+“Shit,” Olive breathed, speaking before she could catch herself. “What happened to you?”
+
+She winced an instant later. Insulting the leader of Setting Sun the literal instant she got her first glimpse at him definitely wasn’t the smartest move. But, to her surprise, One let out a bark of laughter.
+
+“Two said that you were blunt. It’s good to see that he wasn’t exaggerating. I suppose his other reports were similarly accurate.”
+
+“Sorry,” Olive said through a wince.
+
+“No apology necessary. I am well aware of my appearance, and you just underwent a Sunsetting. A very difficult one. I am familiar with the effects of such a thing. Your mind and body are still coming to terms with their new reality. It is natural for you to find yourself a little more impulsive than normal.”
+
+“I’m not so sure magic had anything to do with that,” Olive admitted. “I just wasn’t expecting… well. You know.”
+
+One let out a snort. The portions of his face that hadn’t been melted into a chunk of metal warped in a way that seemed to imply he was trying to raise an eyebrow. “Are you sure?”
+
+Olive paused for a moment. Then she coughed into her fist.
+
+“No. Let’s go with that.”
+
+“Let’s,” One agreed. His face twitched in a poor mimicry of a smile. Then he nodded to the seat across from him. “Would you like anything to drink? Tea? I’m sure you’re still tired. Even if you’re improving well, it’s best not to ensure your body has all the resources to recover properly. Staying hydrated is vital.”
+
+Olive didn’t quite trust herself to say much of anything yet. She wasn’t even sure what she was meant to say. She just nodded mutely. Some tea would at least give her something to do instead of staring awkwardly at One.
+
+Do I just ask him why he wanted to speak with me? Was it just to chat? I somehow doubt that.
+
+“You don’t have to watch your words,” One said. He reached back to a shelf behind him and carefully pulled down a set of cups, one by one, setting them on the table gingerly between them. He pressed a button somewhere on the interior of the desk.
+
+There was a rattle and a clunk, and a small section of wood slid aside. A metal faucet rose up from within the desk and One slid the first of the cups under it with a practiced nudge of his finger. Steaming hot liquid poured out from the spigot a moment later, filling the cup just over halfway,.
+
+One carefully moved the cup over to Olive, then filled his own the same amount before leaning back in his chair with a slow sigh. He took a ginger sip from his drink, tilting his head slightly to the side to ensure he could actually get it to the working part of his mouth.
+
+God. What happened to this poor guy? How can he even move? What kind of horrible accident could have caused so much damage to him?
+
+Olive took a sip of her drink. It was… okay. There wasn’t much else to say for it. It didn’t taste like anything she’d never had before. Some part of her had been expecting the tea to be something more special given how fancy its delivery mechanism had been.
+
+She couldn’t help but notice that One hadn’t said anything, so she took another sip from her tea. The purpose of this meeting was still lost on her. It seemed like he was waiting for her to say something, but she didn’t have the faintest idea what she was meant to say.
+
+It’s not like I can just ask him what happened, right? That’s super rude.
+
+“You want to know what happened,” One said.
+
+“I didn’t say that,” Olive said, fighting to avoid choking on her tea.
+
+“You didn’t have to,” One said. “You were thinking it. It may as well have been written on your features.”
+
+Olive set her cup down with a clink. She cleared her throat. Then she gave him a sheepish grin. “Sorry. I’m… not really cut out for the whole political meeting thing. You picked the wrong member of the Menagerie for this. You should be speaking to Arwin or Rodrick or—”
+
+“No,” One said. “I did not. It is you that I wanted to speak with.”
+
+“Why?” Olive asked. She glanced at her arm. “Is it because—”
+
+“Yes,” One said simply. “It is because of your arm. This is not a meeting about your guild. But if it makes you feel better — Setting Sun is already putting their full weight behind the Menagerie. There is little more we can give. But, when the time comes, we will.”
+
+Olive blinked. That was a very ominous statement. “What do you mean by that? And why? Not that we’re complaining. But why are you backing us so heavily?”
+
+A flicker of amusement passed over One’s features. He took another drink from his tea and said nothing.
+
+“Are you about to do the thing where you’re overly mysterious and don’t give me any answers, while giving me a bunch of new questions to ponder over?” Olive asked. “Because I’m going to forget 90% of this conversation the moment I walk out the door. So your efforts are going to be wasted.”
+
+One let out a coughing bark of laughter. He raised a hand before himself defensively, as if to ward off an attack, as he fought to regain his control.
+
+“No,” One said once he got a hold of himself once more. “No. Nothing like that. It’s quite the opposite. I would like to be as blunt as possible. As for why we’re supporting the Menagerie… the answer is simple. We believe you have a very good chance at taking down the Adventurer’s Guild. Properly. That aligns with my goals.”
+
+“Well, I guess,” Olive said. “But… do you even need us? Not to argue against myself, but isn’t Setting Sun really powerful?”
+
+“Power is not everything,” One said. He took one last drink from his cup, finishing off the tea, then set it back down. “And power can be fleeting. There was a time where I was our strongest member. One is not just a name. It is — was — a title.”
+
+“And now?” Olive asked.
+
+One grinned. “Now it is just a name. Do I really look capable of winning a fight with much of anything anymore? We have clashed with the Guild, Olive. And we have failed. Our greatest attempts to stop them have failed to be successful. That is why we back you. Because there are those among our number that believe you have potential to do what we have not been able to. But that is not the reason for this conversation.”
+
+“It’s about my arm?” Olive guessed. “Is there something I have to be worried about or something with it? Could my Sunsetting undo itself?”
+
+“No,” One said. “That will not happen. What has been merged cannot be undone. You will be strong. Stronger than you expect.”
+
+“Yeah. Two already—”
+
+“Imagine how strong you think you are,” One said. He paused for a moment. Then his good eye narrowed. “You will be stronger than that.”
+
+Olive swallowed. “I… see. Why—”
+
+“Because power does not come without cost,” One said. His voice sharpened, through either experience  “The power you have now is yours. But there will be more. That is, after all, the purpose of Sunsetting. You will grow. And when you do… all of you will. Just because something is a part of you does not mean it is good for you. Do you understand?”
+
+“Not entirely,” Olive admitted. “I thought the threat was gone. Isn’t the arm done fighting me?”
+
+“The matter of what your arm once was is no longer a concern,” One said. He moved as if to rise from his chair, but his features twisted in pain and he let himself drop back into his seat with a defeated sigh. “The problem is what you may become. The others are a single organism. But you — you are are a conglomerate. A puzzle. And if one piece grows too fast for the rest of it… your puzzle will no longer fit together.”
+
+Olive paled. “I thought that this was safe now that it is done.”
+
+“So long as you are intentional with your growth, it will be. The others do not have the same issue. But you — we — have a unique aspect. Humans can only go so far, no matter how hard they train. But we are greater than that. Well, were. I went too far.” One gave her a sardonic grin. “Don’t fly too close to the sun. You can get burned. That is what I wanted to say, Olive.”
+
+“That’s… dark,” Olive said. She swallowed. “How do I—”
+
+“Not end up like me?” One finished. “Be intentional. Know for what you fight. And advance with every fiber of your being. When you do anything, do it without doubt. And so long as you do — even if you are completely wrong — you will succeed.”
+
+“Seriously?” Olive asked, staring at One. “You drop the reveal I could… what, turn into a tree or something by powering up, and your advice to avoid that is to be confident?”
+
+One let out a bark of laughter. “Yes. Precisely. So long as you know where you are going, the power will not twist a part of you in a way counter to what you seek. But if you falter, then so will your path. It is simple to sound confident. Being confident is far, far harder.”
+
+The two of them fell silent for a moment.
+
+Then Olive swallowed.
+
+“Is…”
+
+“That what happened to me?” One tilted his head to the side. “No. Not exactly. But the result was the same. I hesitated. I could not do what needed to be done. When I was pulled from the burning wreckage of my failure, there was little left. Setting Sun did what they could. And I made it far. I was determined… but not determined enough. My desires were split. And because of that, this is my limit.”
+
+“This?” Olive asked, alarmed. She rose partially from her chair. “Like right now? You’re not about to keel over on me, are you?”
+
+One snorted. “I am not about to die. That is not what I meant. I am simply saying that you must have a very firm grasp of what you fight for before you allow yourself to advance. Take time to—”
+
+“Whewh,” Olive said. “I was really hoping I wouldn’t have to explain you suddenly dying to Two. Would have been tough. But now that .”
+
+One tilted his head to the side. “What?”
+
+“I know exactly what I fight for. I dealt with that whole thing a while ago,” Olive replied. Then she grinned. “I don’t have any doubt left in me. So if this is all I’ve got to be worried about, I think I can handle it.”
+
+One watched her for a long second. Then he smiled. “You mean that. Good. I’m glad. Two assured me it would be fine before you begun Sunsetting, but I wanted to check in. Just in case. That was all.”
+
+Bit late, wouldn’t you say?
+
+“That’s it?” Olive asked. “The whole conversation you wanted to have was that?”
+
+“I wanted to meet you,” One replied. “And I have met you. I suspect we will speak again. But I am tired. This body is not as energetic as it once was.”
+
+“Oh. I — yeah. Right.” Olive coughed. She was tempted to ask One what exactly had gone so wrong to warp him like this, but even she had more self control than that. “Thanks for the help.”
+
+One just nodded. “Grow stronger. Despite my warning, it will be necessary. The Menagerie needs your strength. It will not be long, now.”
+
+“Until what?” Olive asked, pausing midway through rising from her chair.
+
+“The Guild moves,” One replied. “The Beast is missing. Several of their daggers have vanished or been destroyed. They are not fools. It will not be long before they realize just how much danger their regime is in. And when that happens, every single member of the Menagerie will have to be powerful.”
+
+Olive swallowed. Then she rose to her feet. “Yeah. Right. I’ll let them know.”
+
+One smiled. “Don’t worry. This time, we will win. Their control cracks. Soon, it will shatter.”
+
+Olive hesitated for a moment. She couldn’t really think of what to say to that. Then, after a few moments, she nodded.
+
+“Yeah. I hope you’re right.”
+
+“Me too,” One said.
+
+He sat in silence, watching as Olive pulled the door open and stepped back into hall. She let it fall shut behind her with a faint thud.
+
+A second dragged by. Then another passed.
+
+The shadows in the corner of the room rippled.
+
+“Well?” Eleven asked.
+
+One looked down into his empty tea cup. “She is strong. I expect she will grow at incredible speeds once she learns how her power works.”
+
+“You could have told her,” Eleven said. “I thought you were being open.”
+
+One let out a dry laugh. “Some things are better to be learned. I just had to ensure she would be safe. Beyond that… she will learn. Nobody needs fighting advice from a relic like me.”
+
+“You aren’t that old,” Eleven said. “And it wasn’t that long ago that—”
+
+“That was a life ago,” One said with a firm shake of his head. “And it wasn’t one that she knew. I just wanted to meet her. That is all.”
+
+Eleven shrugged. “As you say. What about the others? Don’t you want to meet Rodrick and Arwin?”
+
+One didn’t reply immediately. He just kept staring into his cup. Then, finally, his head raised to meet Eleven’s gaze.
+
+“Go back to the Menagerie. Get the next one. We do not have as much time as we would like. Ensure they pick well.”
+
+“You didn’t answer—”
+
+“No,” One said sharply. “I did not.”
+
+Eleven paused. Then she inclined her head. “Understood.”
+
+Then she was gone, and One was alone in the darkness.

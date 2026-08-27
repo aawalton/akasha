@@ -1,0 +1,253 @@
+---
+id: 6ff47ea9-6ffb-509a-919f-a838dde7df90
+page-type-slug: story-chapter-royal-road
+title: "Chapter 774 - Lonely Hearts Club"
+slug: 0777-chapter-774-lonely-hearts-club
+partOf: mythrans-master-of-all-continued-completed
+position: 777
+ownLength: 3111
+unit: words
+publishedAt: 2018-11-26
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/309862/chapter-774-lonely-hearts-club"
+royalRoadId: "309862"
+---
+
+Ren woke up with 4 women using him as a snuggle pillow and he felt both appreciation for them and their appreciation for him in return. Of course, they felt his emotions become coherent and it woke them up.
+
+“Good morning.” Ren said.
+
+“Ugh.” Yuwen grunted and ducked her face down onto his arm and held on tightly. “I don't want to get up yet.”
+
+“We need to get ready and go with the caravan.” Ren reminded her, and she sighed.
+
+“Whose turn is it to groom you?” Tiyaphi asked.
+
+“I'd like a turn.” Artemis said, and the three Pervarian women lifted their heads to look at her. “I've seen it done half a dozen times now, so I'm sure I can do it right.” She felt their doubt and gave them a little wave of her hand to shoo them back.
+
+Tiyaphi, Yuwen and Dilseffa sat up and let Ren go, then Artemis moved over on the bed and looked at them.
+
+“If I have any trouble, I'll ask for help.” Artemis said. When she felt agreement from them, she started to groom Ren just like they had each morning. She started at his feet and worked her way up his legs, skipped over his crotch, then groomed the rest of him and ended at his forehead. Ren had a huge smile on his face, because he could clearly feel that the Pervarians were disgruntled that Artemis hadn't messed up or needed their help.
+
+Artemis kissed him on the lips, then moved back down to the only spot she hadn't groomed, and pulled his underwear down. She glanced at the other women and sat back as she nodded, and they practically jumped onto Ren and started licking him.
+
+“Oh, god.” Ren moaned as Tiyaphi, Yuwen and Dilseffa licked and sucked on him. One was on each side and one concentrated on the tip. After only a couple of minutes, he was close.
+
+“Oh, damn!” Yuwen said and leaned back as she changed. “I was so close!”
+
+Tiyaphi chuckled and kept licking the side while Dilseffa swirled her tongue around the tip. She moved off and licked down the side Yuwen had been on, and Tiyaphi moved up to concentrate on the tip. When she tried to slip it into her mouth, she shivered and quickly backed off.
+
+“Dammit.” Tiyaphi said as fur flowed over her.
+
+Dilseffa laughed at winning their little contest, which made her lose her concentration and she changed, too. “Oops.” She said as her teeth grew out, which stopped her from being able to lick him effectively. That made Tiyaphi and Yuwen laugh at her for both winning and losing barely seconds apart.
+
+“My turn.” Artemis said and quickly plunged her mouth down onto him several times.
+
+“Artemis!” Ren exclaimed and she moved off and used her hand instead. He had been excited a lot in the real world because of Denise teasing him, so he was a little backed up. When he finished, it was spectacular, to say the least. Even Artemis was surprised because she hadn't seen him go so much before, and she, Tiyaphi, Yuwen and Dilseffa watched with wide eyes as he made a huge mess.
+
+“Oh, wow.” Dilseffa said and her rabbit paw-like hand touched some of it.
+
+“Go ahead.” Artemis said and waved at Ren.
+
+Dilseffa licked her paw. “Mmm.” She said and leaned in and started to clean the mess up from the source.
+
+“Us, too!” Yuwen said and started to lick one side of his abdomen, since licking his skin with her rough tongue was okay.
+
+Tiyaphi laid down and started on the other side. “So good.” She said and purred as she lapped at his skin like a cat with a saucer of milk. Ren squirmed at the sensations of having them clean him up like that, and Artemis moved up to the head of the bed and kissed him to help distract him. The mess was cleaned up less than a minute later, and they all sat up and stared at each other.
+
+“Did... did we just...” Tiyaphi took a deep breath and let it out, then slowly shifted back to her human form.
+
+Yuwen was next to change and she rubbed her hand over Ren's abdomen. “What kind of magic was that?”
+
+“The best kind.” Ren said and sat up. “You all helped me a lot just now.”
+
+“We helped you?” Dilseffa asked, surprised. She had cleaned him off before and wasn't sure why this time was different. Her ears reduced in size as she changed back to her human form.
+
+“You really did.” Ren said and turned to Yuwen. “Thank you.” He said and gave her a kiss on the lips.
+
+It startled her, because it was the first kiss she had gotten from him since their acceptance ritual.
+
+Ren knew this of course, and he turned to Dilseffa next. “Thank you.” He said and gave her a kiss as well.
+
+Dilseffa was just as startled, even after she just saw him kiss Yuwen.
+
+Ren held in his amusement as he turned to Tiyaphi. “Thank you.”
+
+Unlike the other two, she was more than eager for it. When he kissed her, she put her arms around him and kissed him back enthusiastically. She started to purr and wiggled her backside happily as if she still had her tail out. That made Artemis chuckle and Teepo chittered in laughter.
+
+“We... um... should get changed.” Dilseffa said. “The caravan is...”
+
+Tiyaphi broke the kiss and sighed. “Thanks for killing the mood, Dilseffa.”
+
+“I... we... need to go.” Dilseffa said with a slightly red face.
+
+“He willingly kissed us.” Tiyaphi said, slightly exasperated. “The caravan... hell, the whole world... can wait until we're done!”
+
+Ren laughed at that, and touched her cheek. “It's okay.” He said. “That might have been the first kiss I've given to you since the ritual; but, it won't be the last.”
+
+“Do you mean that?” Tiyaphi asked.
+
+“I do.” Ren said and gave her a brief kiss. “See? That's another one.”
+
+Tiyaphi smiled. “It wasn't as good as the last one.”
+
+“We don't have time to kiss like that until later.” Ren smiled back and equipped his sash and shorts combo. “We really should get going.”
+
+Tiyaphi nodded and equipped her medical professional uniform and the adornments Ren had given her, then Yuwen and Dilseffa equipped their delegate uniforms and the things Ren gave them, too. Artemis equipped the same dress she had on yesterday and they all went down the stairs and left the tower. Ren deactivated it and stored it, then noticed that the attendants were working hard to get everything packed up.
+
+Unlike the last time, Ren couldn't store the items and transfer them to the storage crates on the carriages. They were only half-packed and there was no way to get them stored without damaging them or losing something, so he, Artemis, and the three Mistresses walked over to the second carriage.
+
+“You missed breakfast, My King.” The attendant for the first carriage said as he helped the cooks pack up. He had switched carriages with the second carriage's attendant so he could stay closer to Ren.
+
+“I'll make up for it at lunchtime.” Ren said. “Will the wait be much longer?”
+
+“Only a few minutes.” The attendant said. “We're almost done.”
+
+“Thanks.” Ren said and turned to ask Tiyaphi about the next leg of the trip, and he felt someone's attention focus on him. He turned another half turn to watch Tatya as she approached. “Good morning.”
+
+“Good morning.” Tatya said and stopped 5 feet away. “The prisoners have asked for fresh air and to see the scenery of their homeland.”
+
+“Did they also ask for pardons or to be released on their honor?” Ren asked.
+
+“Th-they did, actually.” Tatya said, surprised that he had guessed correctly.
+
+“That's a basic tactic for escaping.” Ren said. “You ask for something outrageous that you know will be denied, then you ask for something reasonable.” He explained. “They know the restrictions will relax on them if some of their demands are met, and it gives them more opportunities to get away.”
+
+“They wouldn't try to escape, not in the middle of a caravan.” Yuwen said.
+
+“They do know what they face when we reach the capital, don't they?” Ren asked, and everyone went quiet. “Of course they do. If Rimsoh sticks with his excuses, he doesn't think he deserves punishment for it, so he's going to try and escape.”
+
+“Will you give them fresh air and let them see out?” Tatya asked to get them back onto the right topic.
+
+“Are you asking as the head of the delegation or as my friend?” Ren asked.
+
+Tatya took a breath and let it out. “I should ask on my authority as the head of the delegation.”
+
+“I sense a 'but' there.” Ren said and smiled as he absorbed all of Rimsoh's Mana.
+
+“I want to ask as your friend.” Tatya said as she stepped close and put a hand on his arm. “Please.”
+
+“All right.” Ren said and snapped his fingers for dramatic effect, even though he didn't have to do that to remove the reflective magical barrier.
+
+“Hey! I can see out!” Mires exclaimed from the nearby first carriage, and then a hand came out through one of the open windows. “It's not an illusion! The window is open!”
+
+“Thank you, Ren.” Tatya said and gave his arm a squeeze. “I'll post a guard on the carriage to keep an eye on them.”
+
+“That's not necessary.” Ren said. “The shackles are unbreakable and secured to the carriage. They won't get out.”
+
+“But... you said...”
+
+“I said they would try to escape with the new opportunities, not that they would.” Ren grinned at her and she chuckled.
+
+“We're all packed up!” The attendant said excitedly and closed the storage crate on the second carriage.
+
+Ren glanced at his Mistresses and Artemis. “I guess we should climb aboard.” He said and turned back to Tatya. “I'll see you at the next rest stop.”
+
+“I look forward to it.” Tatya said and let his arm go, then walked over to her carriage and climbed in with Kenkoth and Beholo the healer.
+
+“This way, Ladies.” Ren said, opened the second carriage's door, and helped Artemis climb inside. He then helped Yuwen, Dilseffa and Tiyaphi in and climbed in himself. They didn't try and cuddle him when he sat down, however. The incident with Rimsoh apparently had some lasting effects that he hadn't anticipated.
+
+“Are you going to make the rounds this morning?” Artemis asked.
+
+“No.” Ren said. “I kind of pushed my luck yesterday when I visited everyone twice in one day.” He chuckled. “I'm sure they wouldn't mind seeing me again; but, why take the chance that they might not?”
+
+“Yes, that's a horrible chance to take.” Teepo said sarcastically and chittered in laughter, and everyone else laughed, too. They all shared a companionable silence while the caravan pulled out of the rest stop and travelled for a while, then Ren felt worry from his Mistresses.
+
+“Ren, shouldn't you be getting ready to leave?” Yuwen asked.
+
+“Should I?” Ren asked.
+
+“This is around the same time you left yesterday.” Tiyaphi said.
+
+“I might just take the day off from seeing my daughter in the Fire Realm.” Ren said and felt hope spring from the three of them, then he smiled as he looked at Dilseffa. “If someone were to ask me nicely, that is.”
+
+Both Yuwen and Tiyaphi put a hand behind Dilseffa and pushed, and she gave that little yip of surprise as she was pretty much catapulted across the carriage. Ren held in his laugh and easily caught her, turned her around to sit her across his lap, and put his arms around her.
+
+“Hello, my cute little bunny.” Ren said as he hugged her close and kissed her cheek.
+
+“H-h-hi.” Dilseffa said, her face was red and she was completely flustered.
+
+“Is there something you want to ask me?”
+
+Dilseffa bit her bottom lip and stared with really wide eyes at his face. “R-Ren, would... would you...”
+
+“Of course I will.” Ren said and beamed a smile at her. “Thank you for asking.”
+
+Artemis shook her head with a huge smile on her face. “You're such a tease.”
+
+Yuwen and Tiyaphi chuckled while Teepo chittered in laughter.
+
+“You were going to stay anyway, weren't you?” Dilseffa asked as she felt his emotions.
+
+“Maybe.” Ren said and gave her a crooked smile.
+
+“Then why...”
+
+“To tease you, obviously.” Ren said in a seductive voice and snuggled into her neck and kissed it. “I can't let you know how eager I am to spend more time with you.” He said and let out some of his repressed desire for her.
+
+“You... you...” Dilseffa closed her eyes and shivered as his desire flowed over her. She had a difficult time trying to form words to express herself. “R-Ren...”
+
+“I can't describe how much I want to run my hands all over you.” Ren said and kissed her neck again as he moved his hands slightly up her body and almost touched her chest, then he sighed and moved his hands back down. “You're my bunny and I want you.”
+
+Dilseffa shivered again and opened her eyes to look at him. “I... I want you, too.” She admitted.
+
+Ren felt a similar desire from her and kissed her neck several times as he nuzzled it, then he stopped and sat up straight. “Unfortunately, we need to wait.”
+
+“Why?” Dilseffa asked as she put her arms around his neck. She leaned in close and surprised herself when she boldly gave him a kiss on the lips.
+
+“I really should meet your family first.” Ren said, and she caught her breath.
+
+“But... but...”
+
+“You're taking me home when we stop at the capital, aren't you?” Ren asked, and she nodded. “After I assess the situation there, then we can get down to business.”
+
+“Business? What business?” Dilseffa asked, slightly confused.
+
+“Potentially taking what we have between us up to the next level.” Ren said.
+
+“The next level.” Dilseffa whispered. “Does... does that mean...”
+
+“Maybe.” Ren said and gave her another crooked smile.
+
+“Ren, I... I've only...”
+
+“It's all right.” Ren said and held her tenderly. “Like I've been saying, you don't have to do anything that you don't want to.” He used a hand to rub her back. “You're my Mistress. If you're okay with being with someone who's not a member of the beast races, I would be honored if you want to try.”
+
+Dilseffa thought about it seriously, because the matter deserved to be considered seriously. Ren hadn't flooded her with emotions or distracted her with caresses or kisses while she thought about it. It took her several minutes to come to a decision, and he felt her resolve and a strong will.
+
+“You haven't been doing anything or encouraging me to do anything that I didn't want to do, and I've felt your honesty and sincerity the entire time I've been near you.” Dilseffa said and put a hand over her heart. “Having your mark so close to my heart shows me that you care about me, even if I can't ever be a significant presence in your life.”
+
+“Dilseffa...”
+
+“Please, let me finish.” Dilseffa said. “I've been... someone's... secret lover for a long time.” She said. “Everything has always been behind the scenes and hidden. I've never had a real relationship where someone could hold my hand or...” She sighed. “What we are doing right now has never happened to me before.”
+
+“Wh-what?” Ren asked, surprised. “He... he never held you in his arms like this? Ever?”
+
+Dilseffa shook her head. “We couldn't afford to have our relationship become known.” She chuckled. “We had no clue that everyone already knew.”
+
+“You were trying so hard to keep it a secret and covering your tracks, that it gave you away.” Yuwen said. “We didn't say anything because all it would do is embarrass you.”
+
+Dilseffa nodded to her and gave her Respect. “It would have.” She said and looked back at Ren. “Needless to say, all the attention you've been giving me has been...”
+
+“You don't have to keep explaining.” Ren said.
+
+“Yes, I do.” Dilseffa said. “You've shaken up my whole life.” She said and gave him a brief kiss on the lips, and it felt more natural than it did only moments before. “With you being so nice and caring about me and my feelings, even though I'm only your concubine, I...” She closed her eyes and rested her forehead on his. “I'm very grateful to have you in my life.”
+
+“Me, too.” Yuwen said. “Being around you and not feeling judged has been such a relief.”
+
+“Even if the rumors that had been spread about you had been true, I still wouldn't have judged you.” Ren said honestly.
+
+Yuwen closed her eyes and basked in the truth of his words. “I'm so glad.”
+
+“Unlike them, I've had a pretty unremarkable life.” Tiyaphi said. “Except for being the way I am, that is.”
+
+“You know I don't see that as a deficiency.” Ren said, and she nodded slightly. “You might sometimes be a little hairier than I'm used to...” He teased and Tiyaphi chuckled. “...but, having a tail I can play with, more than makes up for that.”
+
+“I'm glad you think so.” Tiyaphi said and purred a little as she felt how much he liked her tail.
+
+They fell into companionable silence again for a while as they looked out the windows at the countryside, then Dilseffa decided that she couldn't sit on Ren's lap like she was, with her arms around his neck and him holding her so tenderly, and not do anything. Ren felt the change in her emotions and he was about to ask her what she was thinking when she kissed him.
+
+It wasn't chaste or brief like the others had been, and since he always enjoyed a good kiss, he kissed her back enthusiastically and caressed her back at the same time. Neither Tiyaphi nor Yuwen were envious or felt jealousy that Ren and Dilseffa were making out, since they could feel how much Dilseffa needed and wanted it.
+
+Plus, unlike her, the both of them had experienced enjoying a public relationship before and couldn't begrudge her finally having one of her own, even if it couldn't be a normal one. Tiyaphi and Yuwen exchanged looks because they had similar thoughts.
+
+The relationships we had before now weren't really normal, either. They both thought and smiled.

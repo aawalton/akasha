@@ -1,0 +1,277 @@
+---
+id: dc0c2643-9a34-5aff-a3e8-4faf45f8058c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 773 - A Quick Morning"
+slug: 0776-chapter-773-a-quick-morning
+partOf: mythrans-master-of-all-continued-completed
+position: 776
+ownLength: 3173
+unit: words
+publishedAt: 2018-11-25
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/309570/chapter-773-a-quick-morning"
+royalRoadId: "309570"
+---
+
+“Good morning.” Denise said as Ren took off the VR headset and she took it from him.
+
+“I should have gone to bed earlier and gotten some actual sleep.” Ren chuckled. “I mistimed the days inside the tower, though.”
+
+Denise laughed. “It's bad enough that you're playing the game in accelerated time and can get 4 days and nights for every real time day, then you go and accelerate it so much more while inside.”
+
+“It's the only way I can visit everyone.” Ren said.
+
+“You're not going to try and pare them down, are you?”
+
+“I can't. Not really.” Ren said. “Not without hurting someone's feelings.”
+
+“You mean yours, don't you?” Denise asked.
+
+“Yeah.” Ren said and sighed. “I'm such a sucker.”
+
+“Ren.” Denise leaned over the bed and he looked up at her. “You're not a sucker for having such a big heart.”
+
+Ren reached up and stroked her cheek. “Did you do something different with your hair today?”
+
+Denise chuckled. “That was a horrible attempt at changing the subject.”
+
+“Did it work?” Ren asked with a smile.
+
+“If you wanted to distract me, yes.” Denise said and gave him a kiss.
+
+“Time for breakfast.” Barbara said as she came into the room with a small tray.
+
+“Oh? No one else is around?” Ren asked as Barbara put the tray on the rollaway table and pushed it over to the bed.
+
+“They're all busy.” Barbara said. “What a mess all of that stuff stirred up yesterday!”
+
+“Yeah, Barbi filled me in on a lot of it last night.” Ren said and looked at the empty bed beside him. “She's busy, too?”
+
+Denise helped him sit up so he could eat. “Both she and Elise have been working hard.”
+
+“Really?” Ren asked and poured the glass of milk over his bowl of fruity loops. “What did she have to do all night?”
+
+“Her job, apparently.” Barbara said with a chuckle. “There's been tons of phone messages.”
+
+Ren thought about that as he ate. “I suppose handling message traffic would fall under public relations.”
+
+“She believed so.” Barbara said. “She practically ran to the office when I told her the voicemail was almost full.”
+
+“Huh.” Ren finished eating and took a drink of his supplement as he sat back and relaxed. “I wonder what kind of messages they are?”
+
+“She didn't say when I saw her in the kitchen with Elise earlier.”
+
+Ren widened his eyes. “Elise stayed up all night too, didn't she?”
+
+“She did.”
+
+Ren sighed. “I swear, sometimes that woman needs more looking after than I do.”
+
+“Do I?” Elise said as she walked into the room.
+
+“Yes. Just look at you.” Ren said and saw that she wore a rumpled skirt and her blouse wasn't even tucked in. “What happened?”
+
+“I was jumping around and celebrating.” Elise said with a huge smile and came over to the bed.
+
+“Why? Did you manage to buy some of those companies?”
+
+“No, I didn't.” Elise said. “We did.”
+
+Ren's eyes widened. “Wh-what?” He said in surprise.
+
+“I didn't have enough capital on my own, and I knew I would have to be selective in which companies to target. I wasn't happy about that, then I realized I was your financial advisor.”
+
+“Elise, what did you do?”
+
+“I invested heavily into Haddon Enterprises, of course.” Elise said with a huge smile. “Once our assets were compiled into a single powerful entity, we gained access to huge lines of credit.”
+
+“Oh, no.” Ren whispered. “Elise, why...”
+
+“Don't worry.” Elise said. “I know what I'm doing.”
+
+“But...”
+
+“I've already paid off the creditors.”
+
+“You WHAT?!?” Ren yelled.
+
+“I told you not to worry.” Elise said. “With an almost unlimited amount of capital at my disposal, I swooped in and gobbled up all those companies before they knew what had hit them!” She grinned. “Now their capital is our capital, and the revenue they generate is... quite substantial.”
+
+“Good god.” Ren said.
+
+“Once the stock market opened here this morning, the paperwork on the overnight trades went through, and all those companies whose stock had plummeted yesterday and last night because of your news story, became ours with little more than a whimper.” Elise chuckled. “Of course, once I had the confirmation, I had Barbi issue a press release saying that through these financial troubles, Haddon Enterprises felt bad for those companies and their employees, and has bailed them out and saved their jobs.”
+
+Ren stared at her. “Elise, you...”
+
+“I'm amazing, I know.” Elise joked and laughed. “Now that I've consolidated your financial empire into a new technological juggernaut, I need a shower and about 12 hours of sleep!”
+
+Ren laughed, too. “If you pop into the game, you can sleep all day and only lose 3 hours here.”
+
+Elise shook her head. “I can't relax enough and fall asleep there, unfortunately.”
+
+“It does take some getting used to.” Ren said. “I didn't start doing it myself until...”
+
+“I've been trying to.” Elise said. “My mind isn't as resilient as yours and I can't do it.”
+
+Ren thought about arguing, then nodded instead. “Go grab a shower and I'll cuddle you to sleep.”
+
+“That sounds wonderful.” Elise said and gave him a kiss, went to the closet to grab a change of clothes, then went to the bathroom.
+
+“Good lord.” Barbara said. “I knew she was a financial whiz...”
+
+“She did all of that in only a few hours.” Ren said, his voice full of wonder. “What channel does the stock market show on?”
+
+“If she and Barbi did put out a press release, it should be on any news channel.” Denise said and picked up the remote, then changed the channel several times and stopped when she saw the news. “Here we go.”
+
+**
+
+“That was our 'on the scene' reporter with news about the rash of burglaries in the suburbs.” The man said. “Who would have thought that the dastardly culprit was a raccoon? Right, Candi?”
+
+“Right, Hank.” Candi said. “The little thief has stolen his last pair of underwear and is on his way to the national park in the next state.”
+
+Hank chuckled. “It's fitting that he looks like he's wearing a mask.”
+
+“Yes, and now he's their problem.” Candi laughed for a moment, then took a shallow breath. “In more serious news, the financial scene was rocked by controversy yesterday as stock prices for various technology companies dropped significantly.”
+
+A graph with illegible numbers appeared over her shoulder.
+
+“It was all thanks to a news story that exposed those tech companies to ridicule and accusations of child endangerment, and from benefiting from experimentation on that child.” Candi said and sighed. “The owners of those companies lost millions of dollars as their stocks tanked, since the evidence itself couldn't be refuted, and our sources confirmed that not only were court cases held with these companies; but, they also received summary judgments against them. I can only imagine what their employees must be going though, knowing their company was involved in such a scandalous...”
+
+There was a bit of a ruckus off-screen while she talked, then she was handed a piece of paper. Candi finished what she was saying and glanced at the paper. You could see the surprise on her face, then she smoothed it out and looked back at the camera.
+
+“In a surprising turn of events, a company has apparently stepped forward on behalf of those employees and purchased those companies.” Candi said, and she couldn't hide the surprise in her voice. “In concern for the futures of those workers...” She stopped talking and read the copy again. “...Haddon Enterprises has explicitly stated that they won't break up or sell off the assets they just acquired and will ensure employees don't lose their jobs during this transition period.”
+
+**
+
+“Wow, it's really true.” Barbara said as Candi thanked the owners of Haddon Enterprises for putting the needs of the employees over that of their own potentially immense financial gains.
+
+“This is amazing!” Ren exclaimed, and Denise and Barbara looked at him. “Don't you understand what that statement means?”
+
+Both women thought they did, and Ren chuckled.
+
+“Elise can clear out all the executives from every company and not affect the employees at all!”
+
+“But... aren't...”
+
+“Executives run the company! Employees work for the company!” Ren said happily.
+
+“Oh, that's sneaky.” Denise said and turned down the volume on the television. “I hope it doesn't backfire.”
+
+“It won't.” Ren said with a grin. “If I know anything about executives, they are brash, arrogant, and lord their power over the employees.” He chuckled. “The employees are going to be overjoyed about being rid of them!”
+
+“That's so true.” Barbi said, and they looked over at her. She stood in the bedroom doorway and leaned against the door frame. “Especially if we promote some of the long-time employees to those executive positions.”
+
+“Which kills two birds with one stone.” Elise said as she stepped out of the bathroom in an over-sized t-shirt and dried her hair with a towel. “It gets rid of the deadwood that bogs a company down and also opens up the executive track for the other employees and makes them happy.”
+
+“You did great work last night.” Ren complimented her.
+
+Elise tossed the wet towel into the clothes hamper in the bathroom. “It was also exhausting.” She said and came over to the bed and climbed onto it, then laid down beside Ren. “I'm fighting to... keep my eyes open.”
+
+“Then stop fighting.” Ren said and leaned in to give her a kiss on the lips. “Snuggle in and rest.”
+
+“O-okay.” Elise said and slid closer, then she turned onto her side and put her head on his pillow and draped her arm across his chest, careful of his injuries. “Ren, I...” She sighed. “I'm glad you're not angry.”
+
+“About what?”
+
+“About me using your money... without permission.” Elise said and yawned.
+
+“Elise, you helped me get that money and you're my financial advisor.” Ren said in a whisper. “You didn't need to ask.”
+
+“I... I love you.” Elise whispered and closed her eyes.
+
+“I love you, too.” Ren gave her another kiss and she drifted off to sleep.
+
+Barbara cleaned up the rollaway table and picked up the tray and empty dishes. Denise sat down beside the bed and changed the channel on the television to try and find something to watch. Barbi stepped into the bedroom and out of Barbara's way when she left with the dishes, then noticed Ren wave to her. Barbi walked over to the bed and looked at him, and he pat the side of the bed.
+
+Barbi shook her head and mimed sleeping in the other room. Ren did the same thing and pointed to his free arm. She smiled and thought about saying no, then shrugged and carefully climbed onto the bed. She snuggled down like Elise had and rested her head on Ren's pillow, and he put his arm around her. She thought he was going to stop there, then he surprised her by giving her a kiss on the lips.
+
+Ren smiled and took in a shallow breath, let it out, then closed his eyes. He was more tired than he thought he was, because he drifted off to sleep without realizing it. Barbi felt the tension leave his arm and she looked at his peaceful face, then she closed her own eyes and relaxed.
+
+*
+
+“I've never heard of this Haddon Enterprises before.” A man's angry voice cut through the quiet boardroom. “What are we going to do about this?”
+
+“There's nothing we can do.” Another man said. “Even if we could somehow raise enough capital to buy back the controlling stock, I sincerely doubt they would sell it to us.”
+
+“Not at the recovered price, anyway.” Another man said. “Why the hell did the stock jump back up so quickly after bottoming out?”
+
+“After buying up the reduced stock for almost nothing, they announced that they wouldn't be breaking the company up or selling off the assets.” The man at the head of the table said.
+
+“What about the employees?” Another asked.
+
+“They said the employees wouldn't lose their jobs during the transition between owners.” The man at the head of the table responded. “The bastards.”
+
+“Why say that? We get to keep our jobs, don't we?”
+
+“If you bought out this company, would you keep any of the old executives on the payroll?” The man beside him asked, and he sighed.
+
+“No.”
+
+“Then there's your answer.”
+
+“But...”
+
+“They didn't say 'executives and employees', did they?” The man at the head of the table said and folded his hands as he rested his elbows on the table. “What I want to know is how many of you sold your stock to try and recoup your losses before everything tanked.”
+
+No one moved or said anything, and the man sighed.
+
+“Almost all of you, then.” He said and sat back in his chair. “Unlike you, I kept my shares and didn't panic over one fluctuation in the market.”
+
+“We were losing millions!” Someone's voice blurted out and everyone looked at him. “Yes, I admit it.” He said. “I have always had confidence in this company, and I've been here through the growing pains and some of the rough patches; but, when I saw that story, I knew it was going to be trouble.” He shook his head. “No, I knew it was going to be a disaster. I waited to see if things would blow over, then the details of that boy's predicament were released and I took a financial hit so massive that my accountant called me in a screaming rage and wanted me to sell everything.”
+
+“You did.” Someone else said.
+
+“I had to.” He said and sighed. “I dumped everything I had in my portfolio to try and cover my losses.”
+
+The man at the head of the table chuckled. “That's exactly why this new company called Haddon Enterprises took control so easily.” He said. “That one story created the perfect opportunity for them to make a clean sweep of us.”
+
+“You don't just mean our company, do you?”
+
+“Of course not.” The man at the head of the table said and pointed to the only man to admit what he did. “All the related companies in similar fields to ours had all of their stocks drop and be offloaded.”
+
+“Oh, my god.” One of them said. “That means...”
+
+“So, you understand.” The man at the head of the table said. “Technology companies that have been competing on the open market, beating each other up and fighting tooth and nail to try and get a bigger share of the public's spending capital, are now all owned by the same head company.”
+
+No one spoke for several minutes as that realization set in.
+
+“Our revenue stream was significant for each quarter, mainly because we were targeting a niche market.” The man at the head of the table said. “Now imagine all of that spending power is multiplied by a dozen or so specialized tech companies similar to ours, with all of it being available to just one company that runs it all.”
+
+“Good god.” Someone said. “They... they would be...”
+
+“...an unstoppable juggernaut.” The man at the head of the table finished the sentence and sighed.
+
+*
+
+Denise let Ren sleep and stayed at his bedside almost right up until lunchtime, then she left the bedroom to make lunch for everyone. She was surprised that she wasn't annoyed at all because she had to make much bigger meals so that everyone could eat. She knew she didn't have to, since everyone was a grown adult and could feed themselves when they wanted to; but, she also knew it saved them from having to do it themselves and they appreciated it.
+
+Denise had just finished the food when Donald came in through the back door. “Just in time.” She said and pointed to a plate of food that she had made for him.
+
+“You're spoiling me.” Donald said and sat down at the kitchen counter. “You've always got something for me when I come over.”
+
+Denise chuckled and put the food on the serving cart and added juice, coffee, soda pop, and several small bowls of sliced peaches and cream for dessert. “I think that's why you come over so much.”
+
+Donald barked a laugh. “Damn, you caught me.”
+
+Denise laughed and pushed the cart to the elevator and went inside, took it up to the second floor, and pushed the cart into Ren's bedroom. Almost as if he could smell the food, Ren started to stir. Denise went over to the bed and put a hand on each of his hands to stop him from moving too much, and he opened his eyes.
+
+“Shh.” Denise whispered and she nodded to Barbi and Elise on either side of him.
+
+Ren looked at both women and saw they were still asleep, then noticed Denise held his hands still. He smiled at her and nodded slightly, so she let his hands go and picked up a plate of food. He widened his eyes as Denise leaned over Barbi and used a spoon to feed him. He ate the whole plate of food that way, with Denise giving him a drink of his supplement occasionally, and then she picked up a bowl of dessert.
+
+Ren shook his head no, and she used a fork to spear a slice of peach, then she held it up. He shook his head again, and she very slowly slid the end of it into her mouth. The symbolism was not lost on Ren, and he grew excited as Denise sucked the slice of peach in and swallowed, then some of the cream rolled down the side of her mouth to her chin. She tried to lick it with her tongue, then used a finger to wipe at it and sucked on her finger.
+
+“Good god.” Ren whispered softly, and Denise speared another slice of peach.
+
+“Mmm.” Barbi moaned and took a deep breath, and smelled the food. “Hm?” She opened her eyes and looked at Ren.
+
+“What time is it?” Barbi asked.
+
+“Shh. It's almost noon.” Denise whispered and put down the dish of peaches and cream.
+
+“Already?” Barbi asked and wiped her eyes with a hand. “I just closed my eyes.”
+
+“Go back to sleep.” Ren whispered. “You can eat later.”
+
+“M'kay.” Barbi said and kissed him on the lips, closed her eyes and sighed, then was back to sleep like she hadn't woken up at all. Ren and Denise exchanged glances and smiled at each other, then Ren nodded at the VR headset. She picked it up and helped him put it on, then he spoke the login command in as low of a voice as he could.
+
+“Flow Login Start.” Ren whispered, only slightly more than an exhale, and it worked because the game started and his body went limp.

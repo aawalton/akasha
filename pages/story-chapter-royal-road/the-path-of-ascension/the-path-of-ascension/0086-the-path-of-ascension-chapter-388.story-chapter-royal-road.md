@@ -1,0 +1,347 @@
+---
+id: 6743b962-424b-55d7-b53d-aa91c69578e9
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 388"
+slug: 0086-the-path-of-ascension-chapter-388
+partOf: the-path-of-ascension
+position: 86
+ownLength: 5136
+unit: words
+ownProgress: 5136
+publishedAt: 2025-02-14
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2067428/the-path-of-ascension-chapter-388"
+royalRoadId: "2067428"
+markedReadAt: "2026-06-29T19:20:39.623Z"
+---
+
+Chapter 388
+
+When Matt arrived back at Palustris he was immediately greeted by Liz, who hugged him before they shared a long kiss just enjoying being back near each other.
+
+They didn’t give themselves the time they would have liked to enjoy each other's presence, however, and Liz got right to business just a moment later. “Anything you didn’t mention in the Ascender chat?”
+
+“Not really, but I have been thinking about everything as I flew back. Something that Rhea said stood out to me about these mystery enemies. They haven’t shown themselves, which makes it impossible to strike out at them but it also ensures they can strike out at us with far more impunity. On the surface that makes sense, but if they were just trying to prevent me from taking some of their profits they would have probably made entreaties. Or at least historically the ones who attacked Lila and Aiden did so, many times in fact. For obvious reasons, directly confronting an Ascender is a last resort, but we didn’t get a threatening anonymous letter to back down.”
+
+Liz’s expression told him she understood where he was going as he finished with a grimace. “My gut tells me that's because we already stepped over their bottom line and they are willing to fight to the death.”
+
+“That, or they wanted to probe us with a way for them to slink back into the dark. That said, I agree with your assessment, and we should prepare for the long haul.”
+
+Matt snapped his fingers and said, “That reminds me, I told your people at the research station that they should increase their security measures and to go into pseudo lockdown if we go out of communications for any length of time.”
+
+He had swung by when he checked in on his guild and the lawyers who were battling it out. Even with the mortal clause, the actual case could take upwards of a decade as the cogs of bureaucracy churned, but Matt wasn’t too worried about the outcome.
+
+They had enough proof to ensure at a minimum a very short patent, and this was an opportunity to dig into Falker’s guild’s information. It was doubtful that anything pointing to who was pulling their strings would be easy to find, but it was information all the same, and more than they had now.
+
+As he took Liz’s hand, a phoenix formed on her shoulder and hopped over to her customary perch on his.
+
+Together, they flew down to where their floating island sat in the ocean.
+
+It was pretty and if one didn’t know its true nature, they might mistake it for a well built up, but otherwise ordinary, island.
+
+They only stopped long enough to grab the house and inform all of their local staff they were going to be delving for the next few years.
+
+Just as they were leaving, Liz cursed and flew up, calling out, “We said we’d take Ra’thala to the rift, and he asked about it when you were gone. Might as well make the first rift a Tier 26 as we ease back into delving.”
+
+Matt agreed with her reasoning and so changed his direction to the rift he had initially wanted to take Ra’thala to, as he thought the man might like it.
+
+He was standing next to the rift by the time Liz and Ra’thala returned and he met the ascender with a grin and a handshake.
+
+“Good to see you, Ascender Titan.”
+
+“Matt, I insist.”
+
+Ra’thala cocked his head and his eyes flicked, indicating he was checking in with his [AI] before nodding.
+
+“Then you should call me Rah. Or Thala. Either way, it's less formal and you all are the closest thing I have to friends in this Realm, so it feels fitting.”
+
+Matt was touched and said so. “Thank you and—”
+
+Liz slipped in next to him and poked him. “Don’t get too much of a big head there buckaroo, he already made the offer to me first. You're just second best, it seems.”
+
+Rah seemed a little taken aback, but Matt knew Liz was teasing and played into it clutching his chest. “The lady wounds me. However shall I recover?”
+
+Liz didn’t reply with the flirty response Matt expected and instead said, “Deal with all the paperwork you owe me for being gone so long.”
+
+Matt tsked. “Ouch, but fair. How about instead of either of us doing paperwork we delve?”
+
+Liz tapped her chin as if thinking. “Hmm. I think I can accept that. Mayyybeee. Fine but only because I’m the kindest, most understanding wife.”
+
+“Prettiest too.”
+
+“Damn right.”
+
+Having enticed Liz into a kiss Matt enjoyed the moment until they needed to get going.
+
+As they were about to enter the rift Matt had a thought and pinged his seneschal, Cato, that he wanted to see a number of his people in the coming years as they moved in and out of delves.
+
+A few were to just follow up with things that had been missed in his last year of absence, but most were parts of the plans he had created while traveling between.
+
+Countess Walsh was a part of that list and the only one of the people he requested to arrive in their next estimated break. Being in their duchy, she was only a month's travel away, but he and Liz intended to go head-down and delve as fast as possible until they reached Tier 27 at a minimum, which meant minutes outside of rifts at best.
+
+Delving for advancement at their Tier was an endeavor which could take centuries, and he wanted to get one of his plans in motion sooner than later, while also not risking any information leaks that might exist in the public networks.
+
+Beyond that, most of the messages were to friends and close personal acquaintances they had made over the years. To be safe, they extended it to anyone they had any level of connection to, offering a place on Palustris for as long as this spat lasted, wanting to be safe rather than sorry.
+
+That taken care of, Matt, Liz, and Rah entered the rift.
+
+It wouldn’t be winning any kind of unique rift awards, but it was one that Matt had enjoyed delving thanks to its layout.
+
+Inside the rift they found themselves standing on a perfectly flat plain stretching out farther than even their Tier 26 vision could see, which was far.
+
+It made for a stunning sight, and Matt hoped that went double for someone who had mainly lived on planets and didn’t delve.
+
+“Welcome to a rift.” Matt gestured around them with a flourish.
+
+Rah spun on a toe and made a whistle-like sound Matt interpreted as awe.
+
+Sticking his tongue out at Liz, he returned her sure to be coming mockery of the rift.
+
+Liz gave him a little shove. “You only like this rift because you perfectly counter it.”
+
+Matt gave her rebuttal as much dignity as it required and blew a raspberry at her.
+
+Rah gave them a questioning look, so Matt explained. “I do perfectly counter this rift. We can show that after you get a taste of delving. Rifts generally have a safe area near the entrance and exits. Move about ten feet away, and you’ll be eligible to be attacked.”
+
+Rah immediately asked the correct question. “What's going to attack me?”
+
+Not that Matt would spoil anything. “A great question, and one a lot of people like to research about rifts before they enter, but that’s boring. Safer, but boring. It’s not like real life enemies have walkthroughs of how to best beat them.”
+
+Phoenix Liz on his shoulder warbled a disagreement, and Matt conceded to her point. “We did know about most people's abilities in the war, so fair enough. We can tell you bu—”
+
+Rah stepped out of the safe area and the rift that was a perfect grassland that stretched for millions of miles in all directions started to boil.
+
+It wasn’t a rising tide, but a wave of corpses that started crawling out of the ground.
+
+Zombies of all types, fast ones, slow ones, tanky ones, boney ones, wights, liches, golems of all types started to appear. Normally, undead rifts were destroyed due to the diseases they tended to carry, but this was one of the rare ones spared of that plague, and Matt was hardly the only person to love nice clean sightlines like this, so it was left alone.
+
+Neither Matt nor Liz moved from their starting locations, nor bothered to ready any weapons. The rift safe zone wouldn’t stop them from being overwhelmed, but they had delved into this rift a few times and knew how it would play out.
+
+Best to let Rah play with the zombies first.
+
+Matt enjoyed watching the ascender spin around them, clearing their immediate vicinity of the rising horde. His moves were clean, fast, and decisive.
+
+Interestingly enough, he clearly knew the weakness of most of the zombie types, showing he had either downloaded information about them and was getting updated via his [AI], or he had encountered things similar in his home Realm. But if he was being updated by his [AI], that was all it was doing, as he didn’t have any of the telltale signs of someone blindingly following an AI’s predictive algorithm. Then again, considering his old home didn't even have [AI], even having a predictive [AI] would be novel and he might want to play with it.
+
+Matt thought it was more likely that he had encountered similar monster types that spilled onto planets from rift breaks before. Rah was well traveled according to his stories.
+
+The first enemy that did more than slow him down was a thirty foot tall bone golem that didn’t particularly care if its head was destroyed, which led his initial method to take it down to fail and nearly cost him an arm.
+
+Rah danced around with it while letting his area of effect slash spell take care of the weaker zombies that rushed him, trying to overwhelm him with sheer numbers.
+
+“I really need to buy one of those little area of effect spells when he gets around to making the one for Susanne.”
+
+“It is cool. Think I could get it working with a spear?”
+
+“Probably? It does work when he thrusts. Speaking of, how has the creating skills in blank skill shards been progressing?”
+
+“Pretty good, actually. I’ve got the knack of how to do the creation down now. It's still fiendishly difficult to manipulate a skill that is so far away from the core of my spirit, but I can test all kinds of weird stuff now. Sadly, the idea of shoving a spell into the blank skill shard and then manipulating that didn’t work. Same with merging spells inside them.”
+
+Matt rubbed her shoulder in solidarity, just to get nipped by phoenix Liz for not giving her enough attention. “We figured they wouldn’t work, but it’s good to test. And really it might just need another trick. Did anyone try doubling the Tier of the skills for the blank shard? If it’s a space issue that might fix it.”
+
+Liz shot his idea down with a shake of her head. “Rah tried it himself but couldn’t figure anything out, and no one wanted to do more than a few tests given how rare and therefore expensive Tier 20 skill shards are, especially blank ones.”
+
+“Shame. That would have been very useful. Prices of the skill shards should see a decent uptick now, though. Good for those few who didn’t just destroy blank skill shard rifts.”
+
+Liz bit her lip and phoenix Liz looked away from Matt and he felt a sinking feeling worm its way into his stomach.
+
+“What?”
+
+“So since you weren’t here and we, the guild and myself I mean, blew through the few blank skill shards on the surrounding planets, I may have placed an order to buy blank skill shards.”
+
+Matt sighed. “I still think we shouldn’t be benefiting from an early movers’ advantage like that, as now people will feel they were ripped off, but that shouldn't be the biggest impact to the market.”
+
+Both Lizzes dug their toes into the ground, phoenix Liz having to settle into dulling its claw on his armor, and Matt felt the sinking weight grow heavier.
+
+“Just pull the band aid off. How bad is it?”
+
+“So, Aster had been visiting at the time. Came to check in on us and Rah.”
+
+“Oh, how is she doing? Last I talked to her was before the guild stuff. Anything new with her in the last year? I don’t like the implications of that, though.”
+
+Matt had a pretty good idea of where Liz was headed, but hoped he was wrong.
+
+“No, she's fine. Or at least nothing compared to our issues, and she said she had the rifts we wanted to delve picked out and waiting for you to return. The issue however is exactly as you were imagining.”
+
+Matt couldn’t stand the suspense anymore and asked as he watched Rah finally figure out the golem’s weakness was the stupidly hard bone heart beating inside its chest.
+
+“Allie?”
+
+“Yup. Allie came to grab Aster for lunch and when I mentioned my problem, she offered to pick up all of my orders.”
+
+Matt facepalmed. “She’s going to buy every blank skill shard she can, isn't she?”
+
+Both Lizzes still wouldn’t look at him, and he poked the bird on her chest trying to get her to look down at him.
+
+“Spill or I'm going to ‘accidentally’ dump honey in your feathers again.”
+
+Both Lizzes pointed at him. “Ha! So you admit it! That wasn’t an accident. Vindication!”
+
+Matt immediately backpedaled. “I admit no such things about past events, that was purely a threat about future events.”
+
+“Nope, you admitted it.”
+
+Seeing he wasn’t going to win that argument, he steered them back onto the topic at hand.
+
+“So Allie is going to be buying every blank skill shard she can get her hands on before we break the news?”
+
+That wasn’t ideal, but it wasn’t so bad. It—
+
+Seeing Liz’s expression, Matt shook his head in denial. “How can it be worse than that? Even if she liquidates every mana stone I’ve ever given her as well as all her other assets, she can’t make that much of a dent in the blank skill shard supply. They aren’t super valuable, but they are still useful and must exist in the billions.”
+
+“So, she may have mentioned the discovery to Lila and Aiden, who both jumped onto the scheme and are leveraging themselves to the hilt to buy up every blank skill shard they can in all of the Great Powers.”
+
+Matt just blinked at his wife, letting the moment linger before he snorted. “I hope the market crashes and they lose their shirts holding the bag.”
+
+Liz laughed and pulled him into a hug. “Honey, I know you have a lot of pressure and responsibilities because of your Talent but you aren’t compromising your beliefs or the integrity of the guild with small things like ordering a lot of blank skill shards before the news goes out. If you went as far as the other three then maybe, but I know you aren’t going to stop the research, so there is nothing wrong with allowing yourself to save that little bit of money.”
+
+Matt pressed a kiss onto her helmet but didn’t contradict her. He felt he needed to be better than that, but he was also not going to stress too much about something already done.
+
+He did, however, truly hope the trio of Allie, Aiden, and Lila lost their money in the scheme. Same went for any of the other Ascenders that ended up getting pulled into it, because he knew there was zero chance they managed to grab even a small portion of the other Great Powers' blank skill shards without notice. That was unless they enlisted the help of the local Ascenders to do the heavy lifting.
+
+Their little chat was interrupted by Rah walking over the surrounding few hundred miles free of zombies.
+
+“While interesting, I’m going to need to figure out how I’m going to handle this more compacted essence before I do much more.”
+
+They had figured something like that would happen when they initially talked about delving, so taking his cue, Matt grinned and stepped forward. “Then see why I love this rift so much.”
+
+Creating a platform out of the ground, Matt pulled it up slightly. They could have just flown, but he knew Liz would sandbag and try to ruin his clear speed if he didn’t carry her along. Currently she had the fastest Tier 26 rift completion thanks to a lucky mouse rift when they were still on the path having a incredibly short path to the boss.
+
+She immediately proved his prediction true by pulling out two chairs for herself and Rah, who just seemed thoroughly confused but took his seat.
+
+Throwing the platform forward at his best possible speed, which was just under his top flying speed, Matt fired [Mana Beam] with every iota of mana he wasn’t spending on moving the platform.
+
+Not that the last ten million mana per second or so did much, given the degree of diminishing returns he was hitting. But it was the principle of the thing.
+
+Given that they were in a same-Tier rift, none of the monsters stood a chance and essence rushed in to be split between himself and Liz.
+
+They offered to cut Rah into the split but he declined, saying his spirit was already full and, until he figured out the form of his next stage of advancement, any essence was useless.
+
+It took almost a week, but the monsters didn’t stop crawling out of the ground and Matt didn’t stop firing his [Mana Beam] or dragging them towards the rift exit.
+
+When they arrived at the boss, they did stop and introduce it to Rah, who used the experience of fighting the stronger than normal and better-skilled monster to top up his spirit with rift essence before they left.
+
+The glass knife was actually one of the more valuable rewards the rift dropped, by the low standards of undead rifts at least, as it had the effect of killing undead easier. Its durability left a lot to be desired for its Tier, but it was a decent backup weapon for anyone delving such rifts and sold fairly well.
+
+Moving to the next rift, Rah split off despite their offer to show him a few more typical rifts.
+
+Understandable but unfortunate, as he wanted to figure out his cultivation system and how he could use rift essence instead of ambient essence for a greater power boost.
+
+That was a problem Matt had never considered, and seeing Rah fully stuck and unable to advance, he was grateful he had their Realm’s method that required just compacting the essence together and squeezing.
+
+He did hang around near the rift in a portable house he had bought as he worked to better take advantage of a rift that he could pop into to get some essence without waiting or screwing over a managed rift.
+
+For their actual sustained delving spree, they were going to go to Aster's ducal capital, but she needed more time to free herself from her responsibilities, and so they were going to get some delving done in local rifts.
+
+Liz demanded they enter one particular rift on the other side of the continent, citing that he owed her for dragging her through the zombie rift half a dozen times over the years.
+
+Matt acquiesced but knew he made a mistake as he saw her grin slip through multiple times as they waited for the rift instance to cycle.
+
+Spider centipedes that swarmed like crazy in the caves they had been dropped into.
+
+Liz was in love with the rift and demanded they delve it between every other rift until Aster finished up.
+
+Matt naturally refused out of principle as he chased after an army of Lizzes who were flowing forward, killing the weaker than normal enemies with minimal effort. He got so desperate to do anything that when they entered a larger than normal cavern, he used [Portal] to get ahead of the swarm.
+
+[Dragonflame] washed over thousands of spiders and Matt grinned as the essence started to pour into him, but his expression turned into a frown when he felt a dozen Lizzes jump into his flames and start to absorb them.
+
+A passing Liz blew him a kiss. “Thanks, honey.”
+
+Having gone from carrier to carried felt terrible, and Matt chased after the horde, calling out, “At least share the essence! I can’t get good angles with the tunnel's twists and turns.”
+
+He only got a raspberry for his efforts and had to settle for following after Liz who, like a vacuum, easily killed anything they encountered in an ever-growing wave of blood and ichor. There were so many bodies she didn’t even bother converting everything to ichor beyond what she needed to max out her clones.
+
+She even dedicated a phoenix Liz to sit on his shoulder and chirp and coo at him as it pointed out the places ambushes or other traps had been hidden, rubbing in the fact he was being carried after just showing off in the zombie rift.
+
+Matt’s only retort was, “This is only a Tier 27 rift. We’d be more efficient if we Tiered it up.”
+
+A Liz shouted from in front of them, “No way am I letting you risk this rift de-aspecting! Tier this rift up and I’ll think mean thoughts at you.”
+
+Matt let out a small puff of mana. “Oh no, I added too much mana into the rift. Whatever shall I do?”
+
+Phoenix Liz bit his ear in revenge and Matt shot her a dirty look. “That's not nice.”
+
+A human Liz joined him with a mock glare. “Says the man trying to ruin my new favorite rift. You need to get on figuring out how to make these rifts en masse. If we can make horde rifts like this, we'll be Tier 27 in just a few years.”
+
+Matt moved to retort but both Lizzes glared at him. “And don’t say you don’t know the mana types that go into making these types of rifts. I know you keep track of that kinda stuff, rift boy.”
+
+“Rift boy? Since when did I get downgraded to rift boy?”
+
+“Since you threatened my new favorite rift. Act like a little boy, and I’ll treat you like one.” Both Lizzes put their noses into the air in exaggerated motions. So much so that phoenix Liz nearly fell off his shoulder.
+
+“Can I at least be a rift adolescent?”
+
+“Nope.”
+
+“Liz, there is no way to recreate this rift at our Tier. If it were Tier 5, I might be able to manage it, but there’s no way to keep a rift from deaspecting twenty seven times, even if I knew the mana types that formed this style of horde rift which I really don’t I’m not sure we could keep get lucky enough to keep it from deaspecting. Shit, I wish we were that advanced.”
+
+In an overly deep voice, Liz shouted, “I don’t want to hear excuses, rift boy. I want results!”
+
+Matt’s composure broke first with a snort that made all of them laugh.
+
+Jokes aside, these rifts, while fun to blow off steam, weren’t good to delve all the time and they both knew it. It may be good essence per hour, but they were so easy that even with the Tier difference, they taught a lot of bad habits and no good ones.
+
+Advancing in Tier for them was about pushing their limits, not just gathering more essence. Blindly chasing Tier was a good way to backslide in relative power, and throughout history there were many peak and pinnacle elites who had fallen into mediocrity by doing so.
+
+Matt’s hope of being able to help with the boss was dashed when it was an even larger swarm of monsters fueled by an overproducing queen ant sort of thing that didn’t last long enough to do anything interesting. Liz simply slammed a large portion of the rift’s blood at it the moment they entered its cave.
+
+The delve wasn’t a full clear, far from it, but with the mini bosses and boss monster having a large portion of the total essence, they were more than happy with the results.
+
+When they exited the rift, Aster was waiting for them.
+
+“I can’t believe you snuck in not one but two rifts without me. That’s fucked up, guys. I call dibs on the first ten, no fifteen, no twenty rifts rewards.”
+
+Matt didn’t back down and shot back even as he hugged her. “And it's more messed up that you let Allie know about the blank skill shards. Serves you right.”
+
+“Yeah, making a ton of money does serve me right, thank you. I added my own money to the pot. Venture ended up being a joint mobilization by nearly everyone in the Ascender chat. If you ask nicely, I'll consider giving you an allowance.”
+
+Matt threw up his hands. “I’m half tempted to drop the news now just to cut everyone else off.”
+
+Aster poked his puffed up cheek. “Hey, you're getting five percent of the profit. So is Rah. Yeah, we’re besties now and he lets me call hi—.”
+
+Seeing their expressions, Aster sighed. “Damn it. I was late for that, too? Ugh. Into a rift. I wanna kill something.”
+
+“Don’t you have rifts for us to delve on your world?” Matt rolled his eyes at the suggestion.
+
+“They won’t be ready for us for another month, so we have time.” Aster shrugged in a way that was a little too casual.
+
+Though while he could tell she was up to something, he couldn’t figure out what and didn’t mind delving a few more local rifts.
+
+They entered the nearest free Tier 28 rift, which was a newly Tiered up rift that had deaspected and needed to be cataloged. Additionally since it had lost its fire aspect they would need to calculate if it was worth keeping as they didn’t want too many non fire rifts on the world making non fire essence which if too many could threaten to deaspect the world itself.
+
+Also it was the closest thing they had to a new rift, and they were excited to delve it. Once they fully buffed themselves and prepared for an actual challenge, they cautiously entered the rift.
+
+According to the reports, the rift had spit out bipedal-like creatures they would have called minotaurs except they were a normal size instead of hulking ten-plus foot tall creatures. That, and the fact their horns were made out of mana stone, which might be valuable.
+
+Being at a two Tier disadvantage meant the fights were actually making them sweat, with the creatures being incredibly durable and nearly immune to energy-based attacks.
+
+Their mana stone horns absorbed all magical energies, stored them, and unleashed them on death or when they reached some threshold.
+
+That meant a lot of Matt's kit was rendered ineffective, but Liz and Aster, both preferring physical mana types, were less impacted.
+
+Not that he minded too much. It gave him more experience fighting with his sword and he was making revisions as he fought, subtly tweaking the shape of the runes in the mana stone filling the blade to better fulfill its role as mana conduit.
+
+During one of their breaks, Matt and Liz both looked at the horns to see if they could make an effective alchemy ingredient or enchanting material.
+
+Matt was pretty sure they would make a pretty good material to make talisman ink out of, but he couldn’t be certain until he spent a few months testing the possible formulas, which needed more space and supply than they had brought in with the portable house. Talisman ink wasn’t necessarily rare, but finding out something that every rift monster had was a useful ingredient might make this rift a keeper instead of one to destroy.
+
+To add to that, Liz even thought the horns, after being processed and ground down, could make a good catalyst ingredient for potions and pills.
+
+Their interest was increased when they found one of the mini bosses was a mutated version of the standard creature and shot out mana stone spikes like a demented porcupine.
+
+It was unlikely, but if they could domesticate these monsters and breed the rift madness out of them, they might make a half decent stable herd. So long as they didn’t domesticate into an intelligent creature, as it was always possible they were one of the rare few who could become inherently fully sapient instead of just sentient, assuming they could breed the rift madness out of them at all.
+
+They were even tempted to turn their quick delve into a full clear, but they had already spent two weeks in the rift just rushing to the boss, and didn’t want to spend the decades it would take to fully map it out when they could just offer the job to one of the many delving teams living on Palustris.
+
+Making such a discovery was a good start to their delving, but not one they encountered in the next rift, which was more standard with simple bears to fight.
+
+Angry bears that adapted to their environments and wielded vast elemental powers, but bears nonetheless.
+
+When they exited that rift they were feeling well warmed up and were about to push into Tier 29 rifts when Matt got a message that Countess Walsh had arrived and was waiting on him.
+
+Having used some of his breaks when delving to formulate his plan, Matt sent it off to her to review and start working on.
+
+It was clear he had stepped on someone's business toes and he wanted to know who, and he felt that being a business woman herself, Countess Walsh might have a unique view on the situation.
+
+Tholly was working on the situation of their spy or mole, but that wasn’t likely to turn up anything quickly, as otherwise the spy would have been caught by their current efforts. Sure, knowing what to look for helped but they would need time to start digging through everyone's recent dealings, while also doing their intra Great Power counterespionage work.
+
+Ball rolling, Matt, Liz, and Aster moved to her capital where they would start delving Tier 29 rifts.

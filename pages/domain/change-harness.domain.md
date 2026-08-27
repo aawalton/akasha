@@ -9,9 +9,13 @@ required-reading-slugs:
   - page-type/gate
   - domain/land
   - domain/run
+  - domain/service
 persona-champion-slug: dalla
 sequence-slugs:
   - domain/change-harness-definitions
+  - page-type/patch
+  - page-type/worktree
+  - domain/checks-system
   - domain/change-harness-workstation
   - domain/change-harness-cluster
   - domain/change-harness-device

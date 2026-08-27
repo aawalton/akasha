@@ -1,0 +1,255 @@
+---
+id: 4b0422a7-8bd5-5456-b094-0408e9de286b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 152 – Web Fortress"
+slug: 0152-chapter-152-web-fortress
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 152
+ownLength: 1994
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3731171/chapter-152-web-fortress"
+royalRoadId: "3731171"
+---
+
+Okay, Smokey, listen carefully! I'm going to go and help those weird fishpeople. In the meantime, you will have to guard Cee while she evolves. Got it?" Liora said sternly to the wyvernling.
+
+He just cocked his head to the side, his tongue lolling out. It was the same as expecting a golden retriever to bite a thief who broke into your house. Their eyes might register the thief, but there was just not enough going on in that head to understand that they're supposed to bite them.
+
+"Come on, Smokey! What's the point of you, if you're not going to protect your master?" Liora pecked the wyvern lightly.
+
+He hissed angrily, letting out a plume of smoke from his nostrils. At least he wasn't a complete pushover. But he was a far cry from a guard wyvern Liora wanted for her friend.
+
+"Maybe I should remain here and wait for you to evolve?" Liora suggested to Cee, who was busy weaving webs between the palm trees. The oasis was slowly but steadily turning into a real web fortress.
+
+"Isn't that thing going on with the merfolk kind of urgent. I can't imagine that letting that corruption spread for long is a good thing."
+
+"Definitely not. The sooner we can solve that problem, the better," Renir said.
+
+"Another thing—you must leave Renir here," Cee said.
+
+"Oh, great, so there are two unprotected things in one place… That definitely won't make me anxious," Liora snapped.
+
+"What do you mean, unprotected? This will become the safest place on the planet!" Cee said and pointedly finished the large web structure.
+
+"Until someone with a bit of fire magic comes along," Liora pointed out.
+
+"No! I have everything planned out. I will strategically place magma webs so that even if every other web is burned up, I would still have a solid network of magma webs left," Cee said.
+
+"If only Smokey could be trained to protect you…" Liora grumbled.
+
+"He's still a baby, you know. Teaching him boundaries is the best we can do at this age. I believe he is very well behaved for a wyvern," Cee announced proudly.
+
+"It's been a while since he has tried to eat you," Renir noted.
+
+"Okay, but what will he do while you're asleep? What if the dummy gets tangled in your webs?" Liora said.
+
+"That's why boundaries are important. He understands that he'll get stuck in my webs. Isn't that right, Smokey?" Cee waved at the wyvern.
+
+Smokey went bounding towards her, but in his haste, fell over and got his tail stuck in Cee's newly made web.
+
+"Yeah… I see it's working out great…" Liora noted.
+
+"Oh, hush! We'll be fine. Don't you have some training to do?" Cee grumbled and scurried over to free the hapless wyvern.
+
+Liora nodded and decided that she would indeed turn to training. Specifically, skill training.
+
+"Let's take a look at your profile and figure out exactly what we need to do," Renir suggested.
+
+[Profile]
+
+Name: Liora
+
+Species: Prismfeather Dracoryx
+
+Level: 9
+
+Health: Great
+
+Mana: Abundant
+
+Glimmerstones: 1340
+
+Skills (14/14):
+
+Resonance Mimicry II [Novice]
+
+Lunge [Legend]
+
+Skypierce [Expert]
+
+Air Slash [Expert]
+
+Decoy Fade II [Basic]
+
+Mana Conversion [Expert]
+
+Poison Shot [Expert]
+
+Holy Light [Expert]
+
+Wind Blast [Adept]
+
+Purify [Expert]
+
+Rend [Expert]
+
+Featherflash [Adept]
+
+Aegis Cyclone [Novice]
+
+Theft [Basic]
+
+Traits (13/14):
+
+Prismatic Twilight Vision II [Basic]
+
+Treasure Sense [Expert]
+
+Aerial Agility [Legend]
+
+Glimmerlust [Expert]
+
+Shadow Glide [Expert]
+
+Inventory [Novice]
+
+Magpie Disguise [Expert]
+
+Poison Resistance [Expert]
+
+Fluid Flight [Adept]
+
+Paralysis Resistance [Adept]
+
+Frost Resistance [Adept]
+
+Predator of the Deep [Novice]
+
+Prismfeather Mantle [Basic]
+
+Next Evolution: Requires Level 50 and ??? Glimmerstones to unlock
+
+"When did I fill out all my skills? I just evolved!" Liora grumbled. "And I have only one spot for traits left… Why are there even such limitations?"
+
+"Likely to avoid creatures and people from getting overly powerful. I think we should start with the obvious. Combining your Resistance skills into one," Renir said.
+
+"Yeah, that seems like a good start. I'll just—"
+
+"Wait, before you combine them, I suggest you acquire Fire Resistance trait."
+
+"The skills won't combine otherwise?"
+
+"No, they will. But theoretically, a combined resistance skill includes more than the three you have. The more of those skills you combine, the higher the skill level," Renir explained.
+
+Liora shifted uncomfortably. "How do I get Fire Resistance?"
+
+"I believe grabbing Cee's magma webs should do the trick."
+
+"I knew it! You sadistic bastard! Why do these resistance skills involve pain? I hate you! Caw! Caw!"
+
+"I'm only trying to help. If you combine your skills as they are right now, you'll get the all-encompassing resistance skill, but it'll be Novice or perhaps even Basic level."
+
+Liora paced around angrily. She didn't want to get burned. Liora hated pain. Perhaps it was better to just combine the skills as they are and slowly increase their level.
+
+But she recalled the time she got caught in the dreadspider's poison cloud. Thanks to her high poison resistance, Liora was mostly alright. What would have happened if that weren't the case? She didn't want to imagine the scenario.
+
+"Fine, fine! Cee, give me a bit of your magma thread," Liora called.
+
+Without any question, Cee produced her magma thread and placed it in the sand in front of Liora. "You can do it!"
+
+Liora stared at the thread for a long while, preparing herself for the agony. She didn't want to do this. She didn't want to do this.
+
+"SCREW IT!" She yelled and touched the thread.
+
+Predictably, it hurt like f***. Liora cursed and jumped around and rolled in the sand until eventually she just dove into the water. It did little to alleviate her pain since it was warm.
+
+[You've acquired a new trait – <Burn Resistance>.]
+
+"I hate the system," Liora said once she got out of the water, her foot still hurting.
+
+"You barely touched it. It'll be fine by tomorrow. Now, hurry up and combine those skills," Renir urged excitedly.
+
+Liora shook her head in disapproval and ordered the system.
+
+Combine Poison, Frost, Paralysis, and Burn Resistance traits.
+
+[Would you like to combine the traits <Poison Resistance>, <Frost Resistance>, <Paralysis Resistance> and <Burn Resistance> into <Ailment Resistance>?]
+
+[Warning: This process is irreversible. You will not be able to regain the individual traits.]
+
+Do it!
+
+[You have successfully combined your traits. New trait obtained — <Ailment Resistance>.]
+
+[Ailment Resistance – At [Adept] level reduces the severity and duration of harmful physical and magic conditions. Includes poison, venom, frostbite, burns, paralysis, acid, spores, and fumes.]
+
+"Adept level! I told you it would be worth it to get Burn Resistance," Renir cheered.
+
+"Shut up! My foot still hurts," Liora grumbled. "Better tell me what I can do about these skills. I have no free slots left."
+
+"I think Lunge and Rend could be combined. They are both close-range physical attacks," Renir suggests.
+
+Liora nodded. "Yeah, that seems to make sense."
+
+Combine skills Rend and Lunge.
+
+[Would you like to combine the skills <Rend> and <Lunge> into <Raptor Lunge>?]
+
+[Warning: This process is irreversible. You will not be able to regain the individual skills.]
+
+"Raptor Lunge… It sounds promising," Liora noted.
+
+"I believe it will be a more powerful attack. Alternatively, we could try to push Lunge to its limit and get it to a tier two skill, but…"
+
+"I really don't think I need two close-range attacks. I'm combining them!"
+
+"You just don't want to pay the glimmerstone cost…"
+
+"Absolutely not!" Liora confirmed.
+
+Combine Rend with Lunge!
+
+[You have successfully combined your skills. New skill obtained – Raptor Lunge.]
+
+[Raptor Lunge – Launch yourself across a short distance and deliver a rapid strike with your beak, talons, or both. Strike with a beak can momentarily stagger the target, while talons may inflict [Severe Bleeding] condition.]
+
+"Okay, that frees up some space, but I don't feel like there's much else we can do," Liora said, looking carefully over her profile.
+
+"You could have a new skill if you want to. Check the shop?" Renir suggested.
+
+Liora thought about it, but not for very long. "No, I'd rather not spend glimmerstones. Let's just keep that one spot free, in case some cool skill appears."
+
+"Yes, I expected you would say that. I do suggest you work on your Air Slash and Skypierce skills. I feel that they are close to Legend level, and their upgrades could be really good," Renir said.
+
+Liora agreed. Skypierce was one of her more powerful skills, and thinking that it might become even more powerful excited Liora. Air Slash wasn't as impressive, but a long-range attack was always useful, so upgrading definitely could help her out.
+
+So with that said, Liora flew back out into the desert and began cleaning stuff up. With that, she meant that she would use Skypierce and Air Slash on everything that dared to so much as look in the direction of the oasis.
+
+If she was going to leave Cee alone while she evolved, then Liora wanted to be sure that nothing would dare to come to the oasis in the first place. She would make the local monsters wish to die of thirst rather than try approaching the oasis.
+
+Admittedly, it was a little mean, she realized. These creatures only wanted to drink. But that didn't mean that Liora was willing to compromise on her friend's safety. They wouldn't be here forever anyway. These creatures would have just had to bear with it for a while.
+
+Not to mention, the experience and the glimmerstones were too good to pass up. It didn't take long for Skypierce and Air Slash to reach Legend level. She also leveled up twice and gained around 200 glimmerstones, just enough to pay for the upgrade, once she was given the option.
+
+Once Liora returned to the oasis, the web fortress was well underway. Frankly, Liora had no clue how anyone could hope to get inside unless they knew how to fly. Webs were everywhere. She opted to turn into her magpie form to get through, afraid she might accidentally get tangled in them.
+
+To her surprise, Dolphar was once again waiting for her in the oasis. "May we talk?"
+
+"I guess. Is there a problem?" Liora regarded the merman suspiciously. He had already come in the morning. Why was he back already?
+
+"I'm afraid so. The situation has gotten worse… More and more sea creatures are rapidly becoming corrupt, and the range of the corruption is spreading. I'm afraid if we postpone this any further…"
+
+The merman looked genuinely distressed, and he inclined his head towards Liora, bowing as well as he could while keeping most of his body underwater. "Please, help us… I'm afraid our whole city might be lost if this continues."
+
+Liora had a feeling that merfolk were very proud people who wouldn't bow so easily before anyone. Yet Dolphar was basically begging her to help. Having a whole merfolk city turn into a corrupted underwater hellscape didn't sit right with Liora.
+
+"Do you think there's enough time for me to take a brief rest? A few hours?" Liora asked.
+
+"We might be able to afford a few hours…" Dolphar said. "Our warriors are doing what they can, but the humans seem to have accelerated things. We never expected the situation to change so drastically."
+
+Liora thought about it. Why would they suddenly accelerate things? Were they… afraid? Liora had ruined their plans before. Quite a lot, actually, given that she stole Renir and stopped the corruption dungeon from becoming a reality.
+
+They likely knew that Liora was somewhere nearby. Lucien must be wondering where she was. Or perhaps he knew but simply couldn't get to her at the bottom of the sea. Accelerating their plans might be just a plot to flush Liora and Renir out of this safe space.
+
+If that's the case, I have to leave Renir behind. I can't risk him getting into the hands of those freaks.

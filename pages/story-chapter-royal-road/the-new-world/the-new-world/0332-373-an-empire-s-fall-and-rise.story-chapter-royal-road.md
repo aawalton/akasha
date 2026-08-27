@@ -1,0 +1,435 @@
+---
+id: 0d4b299f-ed1c-50a1-aa65-c5fb26f50ddc
+page-type-slug: story-chapter-royal-road
+title: "373 An Empire's Fall and Rise"
+slug: 0332-373-an-empire-s-fall-and-rise
+partOf: the-new-world
+position: 332
+ownLength: 2452
+unit: words
+ownProgress: 2452
+publishedAt: 2023-03-23
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1145903/373-an-empires-fall-and-rise"
+royalRoadId: "1145903"
+markedReadAt: "2026-06-29T21:32:37.484Z"
+---
+
+My throat burned, but I kept it together. Althea sobbed beside me while several others broke down. On my shoulder, a group of flies landed. Plazia whispered through them.
+
+"Remember their pain, for it may become your own."
+
+Even if he was rough as sandpaper, Plazia was right. I collected my thoughts over the next few minutes, waiting until Florence and Obolis could converse. Ten minutes passed before they wiped their tears and dried their eyes. They joined the others, watching me.
+
+I faced everyone.
+
+"You all have questions, and I will give you answers."
+
+I scowled.
+
+"That starts with the lottery."
+
+Chapter Begin
+
+I explained the setup to everyone while including the messages from Schema verbatim. I broke down the number of rulers, how our time there played out, and what happened at the end. After describing Valgus's death and how I spent the last few weeks there, I finished with Schema's conversation. I kept details of the psionic poison out of my story.
+
+I sighed.
+
+"Yeah, so I arrived here."
+
+I let the information soak in before putting my hands on my hips.
+
+"I'll break down my thoughts for you guys since I've had more time to think about it. After that, we'll flesh out that shared understanding with your perspectives. Sound good?"
+
+I got nods, so I raised a hand, showing three different mana types: primordial, ascendant, and quintessent. I saturated the spells with mana before holding them up as visual aids. I pointed at the blue sphere.
+
+"Schema's the first topic for my thoughts."
+
+Plazia oozed from the ground.
+
+"He has taken his most loyal lambs and sent them to slaughter. Poetry is written in the red that slaughter left behind, and it's obvious to anyone who reads it - Schema is losing this war with Elysium, one failed plot at a time."
+
+I nodded.
+
+"He's definitely taking some losses. I think Schema's equipped to handle low-level individuals in his system, but higher up, his enforcement falls to pieces."
+
+Torix tilted his head.
+
+"To counteract that, Schema's developing higher leveled, more autonomous security personnel...Ah, is that perhaps why he sided with you during your conversation?"
+
+Plazia scoffed.
+
+"It is a calculation. All is with that machine."
+
+I frowned.
+
+"He weighed the risk of me becoming an avatar versus helping pull him out of this situation. He finally decided to help me out, and I intend to use that to its fullest extent."
+
+Plazia hissed, "What allows you to put faith in that menace?"
+
+I raised a brow.
+
+"What are the alternatives?"
+
+Birds chirped outside, several darting between clouds.
+
+I said, "That's my point. I'm not siding with the Old Ones or Elysium, and the enemy of my enemy is a friend. Really, it's that simple."
+
+I shoved the primordial ball to the group.
+
+"Either way, the lottery shows how different forces can target higher-level classers. Each of you will join that group soon, so we'll review rigorous training programs after this meeting. After all, we're surviving this ordeal. For that to happen, we'll need to become bulletproof."
+
+I pulled the primordial orb back, squashing it. I shifted the ascendant ball back over. The red glow loomed over everyone.
+
+"Think of this as Elysium. I have a lot to say about them."
+
+Obolis stepped up.
+
+"May I speak first?"
+
+I sat down in a gravity well. Obolis spread his hands.
+
+"I was informed of the lottery several months beforehand, giving me time to prepare. Many lotteries were held on nearby star systems to Giess, my Empire included. Many of my...My kin were considered rulers, so they were pulled into these lotteries."
+
+Obolis pulled his arms back.
+
+"Elysium also knew of these lotteries, and they planned out assassinations while we were isolated in them. If I assume correctly, my Empire wasn't the only targeted enemy. I believe they planned on killing Daniel long before this lottery occurred."
+
+Torix put a hand against his temple.
+
+"If their plan should fail, they planned on trying to lie to us to prevent all-out war between our factions. That is why Elysium's agent arrived here even before Daniel. They intended to trick us for additional time. It's good I isolated all magic when meeting him, but still-"
+
+Torix threw his hand to the side.
+
+"They are absolutely shameless."
+
+I leaned in.
+
+"No. Malevolent."
+
+The ascendant orb sparked with violence. I raised a fist.
+
+"They wanted to wear me as a puppet and then pretend they weren't trying to take my mind apart. It was a long-term, insidious plan to destroy my free will and my guild. We're eliminating their care package and the resources they gave us in our treaty. Any piece of them remaining on Earth will be purged."
+
+Althea coughed into a hand.
+
+"Uh, what about the people already connected to the Hybrids? Are we going to, er, kill them?"
+
+I shook my head.
+
+"I can use Valgus's shackles to eliminate the psionic connection between them and the Hybrids. After that, we'll surgically remove the augments or whatever they've implanted beyond the basics. We'll clean them up without killing everyone."
+
+Althea sighed.
+
+"Ok, that's good. I was worried."
+
+I pointed at the ascendant orb, and it rippled.
+
+"Yeah, we'll get that handled. We'll also establish absolute security of Earth so that neither Lehesion nor a Spatial Fortress can harm us. This will be an absolute safe haven for all of us. Blegara is next. After that-"
+
+I squeezed a hand, and the ascendant mana disintegrated in a shockwave.
+
+"We're going for Elysium's throat. Any questions?"
+
+Krog showed his teeth.
+
+"No one here would love to tear into Elysium's neck more than I, but how do we intend to eliminate the avatars they ally with?"
+
+Torix stepped up.
+
+"Actually, I've got a few thoughts on the matter. If I may?"
+
+I smiled.
+
+"Always."
+
+Torix swished a hand, moving the quintessent orb over where the ascendant mana once was.
+
+"The Old Ones are a contentious force, but they have weaknesses. Their chaotic natures, lack of unity, and outright arrogance are the most evident. We may embody their opposite by exposing those shortcomings with our diligence and vision."
+
+I raised a hand.
+
+"We already have a few secret weapons on our side."
+
+Torix pressed his hands together with excitement.
+
+"By all means, do elaborate."
+
+I grabbed Valgus's shackles, and I siphoned mana into them.
+
+"These give physical and psionic immunity."
+
+My feet crushed the glass beneath me, and the glass over Chrona's home cracked all. The void ice held, but stones across the top of the mountain crunched while adjusting to the new load on them.
+
+I waved a hand.
+
+"Ignore that. Everyone, attack my mind."
+
+A silent war was waged, one without a battle fought, but many attempted. Torix leaned towards the chains.
+
+"What in Baldowah's name are these?"
+
+I lifted one of the goldish pieces of metal.
+
+"Some kind of artifact made outside of Baldowah's name. Some other Old One constructed them."
+
+Hod spread his wings.
+
+"Harbinger invincible."
+
+I shook my head.
+
+"On the contrary, this is a weak, easily handled set of powers. This eliminates my ability to use magic, and simply running is an easy answer for these shackles and chains. However-"
+
+I pointed at Althea.
+
+"Let me have it."
+
+She peered back and forth.
+
+"Uh, me?"
+
+I grinned.
+
+"Yeah. You."
+
+She took a breath and brushed herself off. She formed a spear of bone before raising it overhead.
+
+"Sorry, honey."
+
+She threw the spear, and I reached out a hand. Instead of deflecting it, I let the bone sink into my palm. It pierced without struggle, getting stuck in my dimensional fabric halfway through. Now, I could've stopped it a dozen ways, but that wasn't the point.
+
+I tilted my hand, the spear on both sides of it.
+
+"We have an absolute destroyer, everybody."
+
+Shalahora's eyes widened.
+
+"She ignores the Old One's law construction? Where? How?"
+
+Althea shrugged.
+
+"Er, I don't know."
+
+I swung a fist.
+
+"And it doesn't matter. We have it right here. We'll give Althea everything possible to make her the destroyer we need." I raised a hand and shouted. "That includes you, Schema, and don't pretend you can't hear this. I know good and damn well you're listening. Well, listen close."
+
+A notification popped up in my status, but I'd square all of that away after the talk. I turned a hand to everyone.
+
+"Everybody. We're a much more able and powerful group than most people give us credit for. We have abilities that large forces dream of having. We'll be exploring those powers and possibilities soon to take us to the next level, and we'll dismantle the threats that be. To make that happen, I'll be helping you, and you all will help me."
+
+I washed the Rise of Eden over everyone.
+
+"We'll rise above whatever anyone throws at us. We have the tools. We just need to use them."
+
+Torix interlocked his hands behind himself.
+
+"How will we protect Earth from a Spatial Fortress?"
+
+I pulled hundreds of blue cores from my inventory. I smiled.
+
+"I'll make every part of this planet a well-oiled machine. It'll be like swallowing a steel urchin."
+
+Chrona stood tall.
+
+"What shall we do against the spies and subterfuge of Elysium?"
+
+I pointed at Shalahora.
+
+"Show them what you can do."
+
+Shalahora connected to everyone on a psionic level. His rigid, absolute control struck fear in me for a moment, but I kept Valgus's shackles close. The Sovereign released us. Plazia seethed.
+
+"What of Schema's meddling?"
+
+I turned a palm to Amara.
+
+Our eldritch Maker said, "I will put restraints on his powers should he get in our way."
+
+I cracked my knuckles, the fluid popping like TnT underwater.
+
+"Plazia, you need to work with Torix to fully utilize the Omega Strains we found on Blegara."
+
+Torix bowed.
+
+"Of course."
+
+Plazia laughed.
+
+"With glee."
+
+I pointed at Hod and Althea.
+
+"You two will be taught by Shalahora how to fully utilize your powers. He is a great resource, so take full advantage of his talents and experience."
+
+Hod flapped his wings.
+
+"Shady man teach Hod, or Hod teach shady man?"
+
+Shalahora flashed over to him.
+
+"We will teach one another."
+
+Hod pointed his wings.
+
+"But Hod teach shady man little more."
+
+Althea phased off this plane before appearing beside them. Shalahora tilted his head.
+
+"You are one who is full of surprises."
+
+She grinned, her smile like a sun. I pointed at Shalahora.
+
+"Hey, as long as you remember who she's dating."
+
+Shalahora's form destabilized, becoming a shadow.
+
+"I, uhm, I didn't mean-"
+
+I waved a hand while smiling.
+
+"I know, I'm just joking. Anyways-"
+
+I turned a hand to Torix.
+
+"Whenever we return to Leviathan-7, you'll be there with me."
+
+Torix's eyes flared.
+
+"Me? I doubt I can assist with facing those, hm, primevals you mentioned. Do you need help with logistics?"
+
+I shook my head.
+
+"No. You'll use your necromancy to make us an army of powerful eldritch. I even have a few primevals in my pocket dimension that you can use for experimentation and that everyone can train with."
+
+I turned to everyone.
+
+"Off of Earth, that is. We can't train with the primevals on this planet. They will destroy entire regions."
+
+Chills ran down everyone's spine. Torix's eyes flared white.
+
+"Hm, that...That could work in theory. However, how could we possibly overcome their minds?"
+
+I gave him a knowing look.
+
+"I have an answer, but that's a closely guarded secret. You'll know when the time comes."
+
+Amara curled her fingers.
+
+"You enjoy being mysterious now?"
+
+I raised my brow.
+
+"Eh, I wanted to join the club."
+
+Krog tilted his tail towards Mt. Verner.
+
+"What of the Elysium captives?"
+
+I clapped my hands.
+
+"We're going to interrogate them. Any volunteers?"
+
+Obolis grimaced.
+
+"I can."
+
+Torix grabbed his chin.
+
+"I could as well."
+
+Plazia cackled.
+
+"Or I may dabble in that darkness if you'd like."
+
+Torix tilted a hand to the disembodied voice.
+
+"He does sound the evilest by far."
+
+Hod swished his arms.
+
+"Hod hit them with wing attack." He poked his beak out a few times. "Hod use peck next." Hod jumped and poked his feet out. "Hod use furious swiping last. Furious swiping always work."
+
+I pointed at the flies.
+
+"It's up to you then, Plazia."
+
+Chrona and Krog stepped forward. Chrona's tail slithered behind her.
+
+"What of us?"
+
+I pointed at Chrona.
+
+"You will teach time magic to anyone with the aptitude for it. We'll also need someone to learn to warp since...Since Helios might not be here."
+
+Florence spoke with a hoarse voice.
+
+"Might? What makes you think that's a maybe?"
+
+I raised a brow.
+
+"You thought Obolis was dead, right?"
+
+Florence peered off.
+
+"Yes, but he was within a dimensional stasis. That isn't the case with Helios. His life force has been snuffed out entirely."
+
+I shrugged.
+
+"That guy doesn't die easy."
+
+Florence winced.
+
+"I pray you're right."
+
+I pulled my consciousness out of my body, and the metal lug collapsed. Everyone gasped before I rematerialized from nothing. I pointed at my corpse.
+
+"I mean, you never know, right? Death isn't as absolute as people think."
+
+Shocked out of his melancholic stupor, Florence blinked.
+
+"Hah...Maybe for you."
+
+I picked up my body, holding it close.
+
+"You're cheering up. That's good because I have a job for you. I have about thirty rulers in these two pocket dimensions. I will need you to find their home empires and establish a relationship with them."
+
+Florence squeezed a hand.
+
+"I...I would be more than happy to, but the Empire-"
+
+Obolis put a hand on his nephew's shoulder.
+
+"The Empire is mine, and I shall clean up the mess I've made. Besides-"
+
+Obolis smiled at me.
+
+"I can lease a few of Daniel's golems to handle the aftermath of this event. I've seen them in action, and they are more than enough. In the meantime, he'll need capital for all his future ventures. The Empire would happily assist with whatever he needs - including any required artifacts in his fight against Elysium."
+
+I gave him a knowing look.
+
+"I'm expecting fair prices this time."
+
+Obolis's words boiled.
+
+"You may have my fortune, my treasures, and my planets. I only require payment in Elysium's blood. Give me that, and you can have my soul."
+
+Plazia laughed.
+
+"Don't tempt him, child."
+
+I cracked my neck, and the echo sounded like steel cables tearing in the ocean.
+
+"Eh, I'll take good care of you guys either way."
+
+Amara pointed her hands at me.
+
+"What of you then?"
+
+I squeezed my hands.
+
+"I've got a status to attend to."
+
+I opened it.
+
+"Now, everyone, let's get down to business."

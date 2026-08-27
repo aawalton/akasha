@@ -1,0 +1,175 @@
+---
+id: a9dbe7c4-f912-5382-8026-9f029c0dad94
+page-type-slug: story-chapter-royal-road
+title: "201: The End of an Era"
+slug: 0224-201-the-end-of-an-era
+partOf: there-is-no-epic-loot-here-only-puns
+position: 224
+ownLength: 2128
+unit: words
+publishedAt: 2024-05-15
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1637181/201-the-end-of-an-era"
+royalRoadId: "1637181"
+---
+
+The Gunsmith slowly spread her feet apart in a loose posture that helped make her tense body limber. Her foe barely came up to her shoulder, but his sheer gravitas as a king made him rise like a mountain over her.
+
+“You will be my second victory,” the one known as King Jellagon said and the Gunsmith narrowed her eyes, but in her heart, she knew there wasn’t a good chance she was walking away as the winner of this duel.
+
+No, the Gunsmith was here to pull and reveal any techniques this boss had while the promise gracious defeat and escape were on the table. Still, that didn’t mean she was going to let herself be beat around like a greenhorn on their first day of signing up.
+
+The Gunsmith gripped her gun and knife as the image of her own first days as an adventurer rose unbidden and something cold inside her exhaled, making her focus. That coldness that always helped her be the last one standing, the one willing to take the most pain, the greatest risks, and the worst losses.
+
+That was who she was and by holding on to it, this Dungeon couldn’t cause her as much Mana Poisoning.
+
+“The winner isn’t declared until the dust settles,” she finally responded. The slime eyed her and slowly, his hands formed mimicries of her gun and knife set up, but the king’s regalia was a cannon and a saber made of his body mass, floating pieces of bone giving his sword crushing strength.
+
+“No style of your own?” she asked, beginning to make small movements with her feet.
+
+“You’re good, but not great. My ‘style’ is reserved for the great. This will do for now,” he said and she hated how confident, how sure he sounded. How strong could this slime really be? Six feet tall? Four arms?
+
+She cooled her temper with that familiar coldness and let the focus of her goal make her blood freeze.
+
+‘Assume he’s always a little stronger than you, even at your best. Let the disappointment of being proven wrong be your reward’ she told herself.
+
+‘You’re used to disappointment’ came her darker thoughts and she fired her pistol, the gun almost solemnly silent as it fired, none of its antics this time of moans or noises. It seemed to be judging her.
+
+The Gunsmith ignored it as the energy blast made the slime’s cannon arm become distorted from the force but she didn’t stop to admire her work. She came in close and ignored the burn of the Dungeon mana to swing her knife, the tip flashing once.
+
+The slime parted down the middle and a massive chunk of her energy vanished in a single blink as she reached in and snagged the dragon skull before leaping away from the reforming mess. Her hopes of greatly weakening the boss were dashed as he simply touched his head where the crown of bone should be before looking at her with an unreadable expression.
+
+“That is not a knife,” Jellagon finally said and the Gunsmith held up the simplistic knife as if to prove him wrong. Before her eyes, the slime grew and gained a foot in height with some bicep definition.
+
+“Stealing from a king is a serious crime,” he said, far too calmly as the ground around the throne cracked and green energy began to leak up through the damage.
+
+“Kings don’t obey gods or Dungeons,” the Gunsmith said, trying to buy time as she considered what to try next.
+
+“They do obey their mothers,” Jellagon said simply and raised his repaired arm and the muscles bulged before something dark and metallic shot out from the cannon, screaming through the air. She jumped to the side, estimating the cannonball to be made of an alloy and by the speed it was traveling to be heavy, utilizing weight rather than shrapnel.
+
+The cannonball crashed into the ground where she had been standing and she saw it roll then stop, the top half of the cannonball rotating counterclockwise from its bottom half.
+
+“Wait-” the Gunsmith began but the ball exploded with a thick viscous fluid that made the Mage begin to scream and clutch at his collar as if they were pearls.
+
+The most horrible stench assaulted her eyes followed by taste on her skin and unbelievable sights in her nose.
+
+“I am a king of many faces and this face cooks with a troll,” the slime called over the slorping of the soup as it seemed to be trying to crawl along her neck. She almost panicked, she almost asked to surrender but the request died in her throat.
+
+Cold seeped into her veins and she briefly stopped caring about breathing as she was pushed onwards. If her eyes burned, she could remove them. If her skin crawled, she could peel it, if her heart faltered, she could shoot it, and if all else failed…
+
+The Gunsmith could just stay cold.
+
+She rolled under a massive swing of a sword that was suddenly before her. The bone-crusted edge going for her arm.
+
+She lashed out with her knife and the blade fell into two pieces, only to crawl back together moments later.
+
+“A perfect weapon. Such a tool has been reforged and remade until it was pushed to its absolute limit. Why do you not cut with it?” the monster asked curiously and the Gunsmith rolled backwards, firing another shot with her gun that did little more than slow the approaching slime.
+
+“I’m the Gunsmith, not the Knifesmith,” she said with a wary look.
+
+“It’s so new. May I ask what happened to the blade you had before? You clearly prefer a bigger knife, you keep adjusting your grip on that one,” Jellagon said as he raised his cannon arm again.
+
+“Traded it with some info. What? Have you never seen a Calc weapon before? They’re cutting edge,” she said and threw her entire body to one side as Jellagon’s saber arm suddenly extended like a snake and lashed out at her with the blade.
+
+“Oh she found her funny bone,” she heard the Necromancer comment lightly.
+
+“I am going to punch you,” the Alchemist warned.
+
+“Would you like a bare knuckle fight?”
+
+“...”
+
+“Calcs... the term is relatively unknown to me. Would you like to share some time off your sentencing to share what you know?” Jellagon asked as his arm continued to move about like some disgusting parasitic creature with bladed tips.
+
+“Keep your time. Screw the Cals whenever we can is the Adventurer motto,” the Gunsmith smirked as she fired her gun, sending some of the tendrils into the air with an explosion of flesh.
+
+“They’re sociopaths who make the best stuff or hunt it. They all follow the creed of Darkblade, their saint. Other than that? They’re just creeps,” she panted as she ducked and weaved around a series of shot pellets instead of a cannonball from Jellagon’s other arm, the pellets popping like firecrackers out of a smithy furnace.
+
+"Don't adventurers seek better equipment too?” Jellagon mused as he took another shot to his head, causing his voice to falter for a moment.
+
+“We don’t toss important things just because they’re a little worn. My old knife was good but it wasn’t anything special, but I have things that are junk but I wouldn’t give up for anything,” Gunsmith spat, offended at the comparison.
+
+‘Not anything yet but how long can we be held back by limits. Others wouldn’t hold back...’  she thought and she raised the knife without thinking to cut a cannonball in half, the solid mass hitting the ground on either side of her.
+
+Her body hurt and she was using too much energy.
+
+‘No, I’m just not good with my weapon yet. It has better abilities and I need to attune myself better’ she argued with the weak exhaustion. A sudden force rammed into her stomach and breath fled her lungs as Jellagon lifted her off her feet, his cannon buried in her torso.
+
+He tried to grab her trump card and she bent backwards, rolling with the pain.
+
+She really had to upgrade her acrobatics or get some boots of movement. Maybe the Calcs had some?
+
+“You resist the Dungeon Mana, but you burn with a sick wick,” the king declared.
+
+His persuasion roll during a fight was a bit tasteless, but she pushed herself onwards, finding she had to lean one way to breathe normally.
+
+“You should leave, your will to fight off the Mana Poison weakens you to other influences,” the king commented.
+
+“You can’t run from boss fights!” the Gunsmith yelled and charged, sliding at the last moment to move through Jellagon’s legs, burying the knife into the monster’s back.
+
+“BACKSTAB!” she cried. Jellagon merely rotated his head like an owl, reforming his limbs the correct way to face her instead of turning around.
+
+“I don’t have a back. Mostly just good sides,” he explained as he grabbed her wrist. He squeezed and the Gunsmith briefly registered pain until her pain resistance skill leveled up and she began to ignore it. She would not release the knife!
+
+He turned to someone that the Gunsmith could only register as a soft beautiful orange haze.
+
+“Far more insidious. Imagine months of Dungeon delving, repeated slow burn of usage in heavier and heavier mana environments. I believe Fera would say it’s like boiling Cois, if you do it slowly, he doesn’t even notice, but cook him over a bonfire...” the King said then listened. For a moment, the Gunsmith longed to touch the orange cloud.
+
+‘Rulebreaker! She wants your kill, the mary sue demands your efficiency, your loot!’ a horrible ghoulish voice that sounded like her own voice interrupted.
+
+But she was so gentle and soft.
+
+“Let’s trade! She’s being turned into a Calc so why not treat her like one for a second?” a woman said and the Gunsmith felt sick as she had the urge to hunt rats.
+
+“Trade?” she echoed, the voice inside her not eating itself in anger with desire for shiny.
+
+“Delta has wares, if you have knife,” Jellagon said calmly.
+
+“What... have?” she managed and there was a pause.
+
+“I have a... uh... a +14 ladle of Fera,” the orange cloud said slowly.
+
+No, it didn’t feel good.
+
+The cloud panicked.
+
+“A special infinite weapon of glory and power,” she promised and the Gunsmith relaxed as the pressure in her skull turned to butter.
+
+Yes...
+
+The last thing she heard as she let go of the knife was that voice.
+
+“It’s just like a perpetual motion device, how hard can it be?”
+
+“In this world? We generally obey a mutant strain of the laws of thermodynamics,” Jellagon responded.
+
+“I promised an infinite weapon and I’ll make one if it kills me or gives Nu a hernia!”
+
+The Gunsmith closed her eyes and had a very good dream.
+
+When she awoke in the town of Durence, being treated by a grouchy old hag called Madam Ghu who had some decent healing magic, the Gunsmith looked down at the gun in her hand. It was the moaning gun but now its barrel was in the shape of an infinity symbol.
+
+The words carved in them read ‘it’s no headband but it’ll do’.
+
+She clicked the safety off and the entire gun vibrated hard enough the bed rattled.
+
+“NO MONKEY BUSINESS ON THE CLEAN SHEETS YOU DIDN’T PAY FOR!” the hag screamed from two floors above.
+
+“Miranda,” the Warrio-, Lian said as he burst through the door and Miranda had to remember she was no longer in the Dungeon. She could let go of the focus.
+
+“You look,” Miranda looked over Lian who somehow grew a scraggly beard and gained sunken eyes in the time she had been asleep, “tired,” she decided to say.
+
+“Miranda, you’ve been under for a week,” Lian said and a chill went through Miranda’s spine as she shifted, finding her body oddly pain-free or strained from her coma. On her skin, a strange herbal cream had been rubbed gently which made her nose itch.
+
+That was when she noticed the strange hue of the room. It was daylight outside, but it was dark, so she struggled to stand and walk to the window.
+
+She stared as Lian came up behind her softly.
+
+The sky over Durence could not be seen.
+
+“A lot has happened,” Lian said slowly. Miranda stared at the massive looming shadow obscuring the sun and sky, casting a black shadow over the town and the window Miranda was standing at.
+
+“Lian... why is there a floating fortress in the sky?” she asked with that chilling feeling returning even stronger.
+
+“The Dungeon has gone abomination.”
+
+End of Book 3.

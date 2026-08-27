@@ -1,0 +1,403 @@
+---
+id: 5dbf8786-d56f-5e10-bfe3-b038ed65b969
+page-type-slug: story-chapter-royal-road
+title: "Chapter 214: Last Preparations"
+slug: 0139-chapter-214-last-preparations
+partOf: the-calamitous-bob-stubbed
+position: 139
+ownLength: 5313
+unit: words
+ownProgress: 5313
+publishedAt: 2025-07-11
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2427499/chapter-214-last-preparations"
+royalRoadId: "2427499"
+markedReadAt: "2026-06-29T21:19:22.232Z"
+---
+
+The train track from Kazar to Frostway had taken four years to complete. It relied on five portal jumps, and was the second most vulnerable logistical hub on the continent. First, Viv traveled south along what used to be the fertile strip, now well-protected farmlands expanding to a large temple of Neriad, then full west through reclaimed fertile plains at the edge of the southern wildlands. It was a lush place, rich, but left at the mercy of ravenous tribes who had raided it without pause for centuries until finally, the remnants had fully abandoned them. Now, the rich location soaked up tens of thousands of refugees and immigrants, even more than the deadlands. It helped that this place at least had as much water as it wanted regardless of witch arguments. There were also plenty of local crops that thrived there without effort including some that were used for alcohol.
+
+This influx of wealth had attracted the attention of some of the southern tribes that had long since given up on raiding their neighbors. It was something Sidjin had fully anticipated and prepared for. Once again, Viv’s lover boy had earned his moniker of the ‘Red Mist’. At the head of the Zealots and the Remnants’ hunter corps, he had scoured the tribes and exacted a terrible price on anyone who dared send raiding parties. It was a war of subjugation Viv had not involved herself with, not just because she didn’t want to throw shade on the authority of her paramour, but also because, fuck, those people weren’t nice. The civilized nations of Param had least had a code of war that encouraged taking prisoners and sparing civilians. The tribes had none, and the Zealots, in return, offered little mercy. Her only demands were that they not kill the children and the thralls which they’d respected, but — Viv suspected — only because those were brainwashed and reused.
+
+Sorry. ‘Indoctrinated’. The Zealots were incredibly good at that.
+
+Viv looked out the window to see a large statue erected on the top of the hill looking south, near one of the hot spots that still saw regular action. Her eyes widened when she spotted grisly trophies left at its feet: ears, but also the ivory remnants of broken bone weapons, tattered flags and some really suspicious skulls. An iron Zealot standard was planted nearby showing the pyramid and dragon wings of New Harrak in forged metal. It was a Zealot specialty since they recruited heavily from the Remnants who had an almost religious respect for steel.
+
+“What the?”
+
+The train turned a bit, revealing the statue to be a smirking, foreboding figure in dark armor.
+
+“Hey that’s me! Ugh, I told those fuckers to stop it with the statues.”
+
+“It is not exactly worship,” Bird Tongue claimed.
+
+Viv gave the demure woman a dubious look. Bird Tongue was unnaturally pale, favored white clothes, and would have looked pretty harmless were it not for tribal tattoos and the outline of powerful muscles under the taut cloth. She was still a decent spearwoman even if she’d switched paths.
+
+“Or at least this is what they told me. Furthermore, Cerus, commander of the Guardian Hunters, claims that the statues scare the locals. Some of the bone weapon offerings are theirs, Your Majesty. They ask for mercy.”
+
+“Don’t you see that it just reinforces the thing?”
+
+“May I be blunt?” Bird Tongue patiently asked.
+
+“In private, always.”
+
+“Have you tried not being a monstrously powerful half-elemental war caster with false wings and abyssal eyes?”
+
+“This has nothing to do with my appearance. You can make anyone intimidating by taking liberties with a statue.”
+
+“Indeed, however few of those people also defeated a dragon in full view.”
+
+“That was a decade ago,” Viv grumbled.
+
+“Twice. And then commanded an army of mechanical men to destroy the capital and its rulers for their arrogance.”
+
+Bird Tongue smiled dreamily. She hadn’t been there when it happened, Viv knew.
+
+“It’s dangerous,” Viv insisted anyway. “If it keeps happening I might become like one of them,” she said, pointing up and away towards the faraway mountain where the gods were said to reside. “Then I’ll be a supremely confident and insufferable powerhouse with no ability to self-reflect.”
+
+Bird Tongue kept a carefully neutral expression. In the next carriage, someone choked on their tea.
+
+“I hate it here,” Viv eventually grumbled.
+
+“Is that so, Your Majesty? Shall I have someone flogged?”
+
+Viv refrained from giving the obvious answer.
+
+***
+
+There was a ceremony when Viv arrived in Frostway. It wasn’t very pompous but it still happened most times she visited. Guards and zealots would line the streets while Sidjin waited at the end, standing majestically in decorated robes while citizens took a break to come see her. Frostway was the only place in Harrak where Viv bothered aside from official events, and that was because Sidjin cared. He was the viceroy here, in charge of handling a piece of the nation so different from the frontier, so twisted by decades of tyranny that an entirely new approach had proven necessary, and against all odds, Sidjin had succeeded.
+
+Oh, of course, there were still odd trials for bribes, intimidation and the like, but they were sporadic and usually limited to the lower rungs of the city’s administrative and manufacturing ladders. Sidjin and Abe’s rehabilitation efforts had borne fruit. Frostway was no longer the den of nepotistic incompetence it had been under Arana and her ravenous clan. Even that clan had been discreetly given a chance to redeem themselves. Viv was proud of Sidjin and it also gave him a lot of confidence to be given leeway in the leadership of his corner of New Harrak. Viv wasn’t worried about a schism or rebellion for promoting someone else with this much power. After all, she had a secret weapon.
+
+She used that secret weapon by dragging Sidjin to their private quarter for ‘an audience’ and then jumping straight to bed.
+
+***
+
+“Not that I’m complaining, of course, but what prompted this?” Sidjin asked with a smile.
+
+“I’m leaving on mysterious adventures across the ocean.”
+
+Sidjin paled.
+
+“The Endless Sea?”
+
+“No, I’m not sailing off into the horizon. I’m talking about Vizim. Look, I got a message and a feeling that I’ll be needed over there.”
+
+“I heard the Azure Enclave has a visitor. Lana is there right now… ignoring her duties at the university.”
+
+He frowned.
+
+“You are implying you are going alone.”
+
+“And undercover!”
+
+“What do covers have to do with this?”
+
+“It’s an expression that… ugh nevermind. Yes I’m going alone, but I need you to do something for me.”
+
+“It’s graduation soon, Viv. We are sending twenty-five mages and witches to the Academy. I need to be present there.”
+
+“I don’t mean right now. I have a feeling that our long period of peace will be over soon. I need us to be ready, but I can’t oversee it in person.”
+
+Sidjin slowly nodded.
+
+“I will order some maneuvers to field test the armies. Perhaps a few expeditions. Is there anything that prompted your belief?”
+
+“Both Arthur and Lak-Tak believe things will get interesting soon enough.”
+
+“Lak-Tak said interesting?”
+
+“Unfortunately, yes.”
+
+“I will prepare funds to hire the Red Tribe mercenaries as well. We will need everyone.”
+
+“Yeah. Maybe. I’ll visit the university before I sail north, but before that, I want one last intelligence report.”
+
+Sidjin nodded before growing a bit serious.
+
+“Viv. We have not exactly grown apart but… we have had little time for each other recently.”
+
+“I know. Sorry.”
+
+“No, no, I understand. We have duties. We are helping our people. I just want you to remember.”
+
+He bumped her head with his own. His eyes were very close which would have been comical except they were very earnest.
+
+“You’ll be far from us but you’ll never be alone, right? Remember that.”
+
+“I will never forget.”
+
+***
+
+Viv had struggled for a long time to find a person capable of building Harrak’s spy network from the ground up. She had gone so far as to check foreigners, just like she had with Strategist Sahin. It had therefore come as an immense surprise when Irao himself had volunteered for the job. Viv remembered the conversation like it was yesterday. Well she remembered all her conversations like they were yesterday thanks to her stats. But she was pretty sure she would have remembered that one anyway.
+
+“I thought you wanted to leave your career behind you?”
+
+“This is not my career. I was an assassin. This is spying.”
+
+It was frustrating how he was right. The second hurdle came from the fact that spying required, as far as Viv understood, a devious mind and a deep understanding of human nature, two qualities that she didn’t associate with poor Irao. In retrospect, it was really stupid of her not to realize an assassin would know how to spy. How did she think he prepared his attacks to begin with?
+
+Irao didn’t go for a slow and patient method. He claimed, and he had been proven right, that New Harrak already had an untapped source of agents.
+
+The victims, sorry, ‘customers’ of the Golden Scale Bank and Exchange — which incidentally also managed the portal network payments in the spots where New Harrak collected them itself — were those agents. They just didn’t know it yet. The Harrakan spy networks didn’t do honeypots. They didn’t grab people by the balls. They grabbed them by the wallets, and they knew exactly how to squeeze.
+
+It had honestly come as a shock to Viv to see how willingly some people were to sell their nation for not exactly the price of a sandwich, but like, maybe a sandwich stand. Information kept coming from even the highest of places. Irao didn’t take them at face value, of course. Instead, he sort of put them all together in a net of sorts, and then calculated the likelihood of any of them to be true.
+
+He’d often been proven right so far which didn’t make her last briefing any more comforting.
+
+“Oleander is on the move. His ships have been sighted in Vizim. I estimate the chance that those were scouts for an invasion at: very high. I estimate the likelihood that the invasion will occur within the next two years at: even.”
+
+There were three continents in close vicinity to one another. Well, four, depending on if Viv considered the Nemeti continent as separate from her own. There was Param in the south, fairly big, Vizim to the north, perhaps even bigger but too arid to sustain a large population, and finally the smaller Shadowlands to the east of Vizim. The Shadlowlands were more an archipelago and they, too, couldn’t sustain a very large population.
+
+As for the Nemeti continent, nobody knew how large it was. Even the refugees Viv had collected didn’t have much information because the Nemeti ate explorers.
+
+“I was under the impression that Oleander was still rebuilding and uniting the Shadowlands. He has the wood to build an invasion fleet?” Viv asked.
+
+“The Shadowlands’ remaining naval tradition is strong, second only to the old Viziman one. Out of all rival entities, it has the strongest current fleet. We are still far from matching them numbers wise.”
+
+Viv nodded. Harrakan dry docks for ship building were, well, there were two of them and they were finally getting their feet under them, with a focus on merchant ships for monetary reasons. Harrak’s war fleet was barebones at the moment.
+
+“They do not need to build a fleet. All of their clans already have sufficient ships, should they decide to unite. They do not need larger ships either.”
+
+“So he will unite his people by leading them to war?”
+
+“I deem the possibility of this to be very high. The text version of his speeches indicate he wishes to unite mankind. The possibility that he will eventually attack us is: very high.”
+
+Oleander with an army and companions at his back? That didn’t sound very good.
+
+“Any news on the embassy mission?” she asked, hoping there might be a diplomatic way.
+
+“The mission returned a week ago. Our embassy proposal has been refused. Our envoys have been refused access to Oleander, apparently by his order. The stated reasons for refusal were the nature of Harrak’s government.”
+
+“What do you mean?” Viv asked, surprised.
+
+“Elaborating. The main causes mentioned were that, one, we are a tyranny.”
+
+That was the pot calling the kettle black. Viv had more democratic institutions across her kingdom than any other political entity she knew of.
+
+“Two, we have a history of slavery and expansionism. Old Harrak does, that is.”
+
+“Okay?”
+
+“Please do not aim your frustration at me, for I am merely the messenger.”
+
+“Yeah sorry it’s not against you. And three?”
+
+“There is no three. Those conditions were deemed sufficient, according to the stark refusal we received.”
+
+“Then it’s a good thing I’m going to Vizim now to forge some alliances.”
+
+“I will have a report ready. There is also the matter of Baran. I estimate the likelihood that Baran made contact with Oleander as: plausible.”
+
+Viv frowned.
+
+“They would cooperate?”
+
+“I do not have enough information to reach a meaningful conclusion, however, we should take it into account in our defensive plans.”
+
+“Even if they invade, it will take a while. They seem to have their eyes set on Vizim first.”
+
+Irao nodded.
+
+“It is likely, yes. If you create an alliance, you should consider bringing troops over later. You also need to take into account the fact we probably cannot match their fleets for a very long time.”
+
+Viv considered it, but this was all hypothetical for now. Her first task was to defeat a dragon. It wouldn’t be easy at all.
+
+“One thing at a time,” she concluded. “First I defeat the dragon and assess the situation, and then I decide if I want to bring our precious army across the seas.
+
+***
+
+The mountain cave’s entrance was cleaner than she remembered, or expected. It was a good sign. She gently pulsed her mana at the entrance as a courtesy. Young dragons tended to be territorial even with their allies. There was no need to provoke Gale.
+
+Is one of the spawn with you?
+
+The mental message came with a hint of concern.
+
+“Nope. I’m alone.”
+
+Oh good. The little twerps keep trying to contest my cave.
+
+Especially that annoying white one, with the weird small borgling that reeks of fate magic.
+
+And sister dear keeps complaining about bad examples if there is one rib left unburied.
+
+“You know proper hygiene is the mark of a great dragon.”
+
+I know.
+
+He emerged from his cave. Gale had grown as well thanks to good exercise and regular, non-stolen food. Viv was trying to help him regain confidence after he’d spent years playing second fiddle to his sister, spellcasting wise. She got the impression the big lug was a bit brittle when it came to self-confidence and Arthur was apparently really, really good at mana manipulation so it was an uphill battle.
+
+“How’s the fish sauce export business treating you?”
+
+Your words are always arranged in a strange fashion, human.
+
+The mountain dragons still see our collaboration as an unnatural thing.
+
+They do not conspire, but they do not approve.
+
+They wait.
+
+Judgment is coming back.
+
+“He is?” Viv asked, suddenly a bit worried.
+
+He has traveled the world, or so I have been told.
+
+He will be back soon.
+
+I do not think he intends to kill you.
+
+“I sure as hell hope not.”
+
+Then all is well.
+
+***
+
+After piling on select belongings and ordering what she didn’t have yet, Viv took one of Harrak’s four warships north towards the autonomous enclave of the End of the World, Old Harrak’s most prominent luxury resort destination. It had been built at the northwest-most tip of the continent and abandoned after the catastrophe. Now, the Azure Lady’s collection of exiles had taken it for their own with Viv’s blessing. Her ships were pretty cool and named after the light gods for maximum power of flattery.
+
+Her initial idea was to have one fuck-you cannon per ship. Unfortunately, the carpenters informed her that it would have been too heavy and cumbersome, so instead they had a gun deck and a rather imprecise mortar. It wasn’t too bad! The ships themselves were repurposed Viziman designs with cores and arrays for enhanced performance. While they wouldn’t win her any war for now, they were fully capable of stopping raiding ships, as some pirates who had unexpectedly attempted to steal the silverite ore shipments had found out. She stopped the ship along the first half the coast to visit the northern remnants villages. Those had been the poorest places she’d ever come across before and even now, they kept a parochial, isolated mindset that made development difficult. Loyalty wasn’t an issue. Getting them to ask for help was. In the three days Viv spent there, she killed seven monsters who’d been harassing villages yet the villagers themselves hadn’t thought to call for help. They treated Viv like she was an envoy from one of the light gods after she brought them the carcasses for processing.
+
+It made her sad to see the sort of harm the remnants had caused to their citizens, a scarring of the mind that persisted long after those who’d oppressed them had fallen. At least, VIv told herself, she was here for them now. Sidjin was also doing his best by making sure they had the metal tools they needed but… it was definitely still a work in progress.
+
+After that came the full wilderness. Even at the height of the empire’s power, that strip of land had been sparsely populated. Now it was a landscape of wind-swept moors and highlands caught between the Endless Sea and a mountain range tall enough for eternal snow. It was perpetually gloomy, and the smell of rain was ever present in the cold breeze. Viv could only languish against the ship’s railings, looking at the stormy horizon and thinking that fuck, if this was life in Scotland, then no wonder they’d gotten so proficient at making whisky. It mercifully got better as they neared their destination right until the point they got attacked by some kind of white, nail-covered aberrant worm the size of a smuggler’s tunnel that could apparently swim as well. It was covered in spines and an absolute bitch to locate but it was also dumb as a rock so she managed to isolate it after it attacked the same spot of the hull for the third time in a row. They still lost two people in the initial assault, as well as one flooded compartment that would need to be repaired by someone with water powers.
+
+Viv was forced to slowly annihilate the carcass because they didn’t have enough flammable shit around to roast a corpse of that size.
+
+“May Neriad have mercy,” one of the sailors said. “And to think we could have come across the creature without you around.”
+
+Viv nodded sagely to herself. The End of the World’s mysterious depopulation might have found its explanation after all. She just hoped it was the only one.
+
+“Lucky I was aboard, and lucky we were facing a midgame optional boss with a late game build,” she said, remembering a quote by her friend Gevaudan.
+
+“What?”
+
+“I mean it’s lucky I got experience killing aberrants and the power to face such a mighty one before we came across the creature.”
+
+“Oh, yes of course.”
+
+There were no more worms from hell until they reached the city the next day, finding the old resort’s fancy houses now well-lived in, its dusty roads repaired and lined with flowers. The weather here was amazing, which explained why it had been such a favored tourist destination back in the day. A concerned Lana rushed towards them on top of a mighty wave like a very prim surfer queen. She jumped on the deck in a pirate-like manner that Viv conceded was cool as hell.
+
+“Quick, move alongside the pier! There is a horrible beast on the prowl. Only the Azure lady has the power to destroy it, for it is an aberrant worm of…”
+
+Lana faltered. Viv’s placid face must have betrayed what had happened.
+
+“I’m aware,” Viv commented laconically.
+
+“How did you kill it in the water?”
+
+“I used a large scale push spell to cleave the water and then it was easy to decapitate it once it was revealed. Horrible thing. It bled in the water a bit so I hope it won’t poison anything. We lost two people as well, before I could reach the deck.”
+
+“It is fortunate that you were on board. The Azure Lady just left so we were concerned we might have to wait until spring.”
+
+The Azure Lady had moved most of her people in The End of the World, only leaving a skeleton crew in her floating city which had been downsized to a more reasonable villa. Her den now floated up and down the coast following her whim and the direction of her meditations. She had decided on a very Persephone-like approach to the human detachment problem: she spent half of the year fully submerged somewhere in the abyss, and half of the year fully human on land or near the sea. It apparently helped her process her experience better as well. Viv avoided her most of the time because the human archmage had proven to be a lackluster conversationalist and a rapacious card shark who won nine games out of ten.
+
+“Well I’m here now. You know. The second elemental archmage around, the living conduit of annihilation. The dragonslayer. The Empress. That woman.”
+
+“Perhaps I was hasty in imagining that this creature could only be slain by a blue mana caster,” Lana conceded. “So you are here because of our visitors?”
+
+“Yes. You will keep it to yourself, but I will be leaving with them while the Efestar’s Redemption sails onward to Zazas.”
+
+“More adventures?”
+
+“I’m afraid so.”
+
+“I will start war drills for our mages as soon as I am back.”
+
+***
+
+The ship that had brought the message was not what Viv expected. Travel between the continents was still an affair of several weeks across a hostile ocean, so she was thinking about either an old, magical frigate like the one who’d carried her to Sardanal’s Cradle, or a thick caravel like in the early days of exploration back on earth. The ship awaiting her was called the Opportunity and it was closer to a catamaran complete with side hulls than the sort of frigate she had seen the Vizimans use. It had a light build obviously designed for speed, and inspired about as much trust in Viv as a gasoline-soaked piece of tissue in the hand of a teen arsonist. That thing hit a small rock and it would fold like a badly screwed Ikea chair with Viv still in it. She frowned. The garish colors and the well-worn triangular sails spoke another tale, even with minimum enchantments. She approached it. There were despondent sailors on the deck cleaning it under the scowling vigil of a bearded old man wearing a fancy turban. They, too, wore colorful clothes dulled by the sun. The captain had a saber resting on his side. His eyes met hers, and widened. She nodded.
+
+[ Blockade Runner Captain, not dangerous: Fourth step of a hybrid path that focuses on sailing, leadership, and combat. Decent Close Quarter Fighter. Expert captain. One with the Wind.]
+
+He breathed a prayer to the light gods, the entire patheon if his quick hand motions were any indication. Viv still made for her guest quarters as soon as she landed, if only because it was one of her last opportunities to be on stable ground for a while. She invited him to visit immediately. Leaving people to wait was for dominance games.
+
+The old man entered her secluded salon with a respectful bow. The most easily visible emotion on his face was disbelief. She invited him to sit and waited while he conspicuously checked her out. At least he didn’t try to inspect her. She talked so they’d get to the meat of the matter before nightfall.
+
+“No need for an introduction on my end. I received your liege’s message. I’d like to know more about the situation.”
+
+She helped herself to some kava while he composed himself.
+
+“Your Imperial Majesty. Thank you for receiving me. I didn’t… I didn’t dare hope! And this setting? I am honored.”
+
+“Sandsong’s royal couple made it clear they wanted to keep things discreet, so I assumed it would be best to welcome you in private. Now tell me, what is this about?”
+
+The man straightened up, though disbelief still made him pause midway towards his preparation. A gnarly hand brushed against his neat beard.
+
+“Sandsong, that is, I am Kass Tilaperisi, the queen’s uncle. I am also a ship captain for the royal Sandsong Navy. The ship you saw is the Opportunity. It was designed for speed. But I should start at the beginning. What do you know of the Golden Coast?”
+
+“It’s the main Viziman population hub, a fertile crescent at the southern tip of the continent. The dominant power is the Sheem kingdom to the east.”
+
+Kass nodded. He continued himself with a calmer voice.
+
+“They have been slowly expanding west into the central Principalities over the past decades. We, the Sandsong, have started to organize a resistance but we are meeting with difficulties. It is the season of storms, and a terrible one it has been as well. Worse, and that is why we beg for your help, a dragon is pillaging our northern cities. It is black, large, its breath is like a volcano, its claws and teeth like rocks in a storm…”
+
+“I’m familiar with dragons. You can skip the flying and mana control parts as well.”
+
+“They say you adopted one …” Kass whispered.
+
+“That’s correct. I get why you would need a specialist when dealing with a dragon, but that doesn’t explain the need for secrecy.”
+
+“Sheem is only waiting for an excuse to invade our nation, since the better part of our army is busy being used to deter the creature. We are divided and afraid. We have lost… fields, soldiers. Workshops.”
+
+His face darkened.
+
+“Family. The dragon has been without mercy, or pause. Sheem will wait until it is either bored or slain, then they will only need to pick up the pieces. If they learn of your presence…”
+
+“They will move immediately because I would be an unknown variable. Do you know why it suddenly attacked?”
+
+“Do dragons need a reason?” Kass said as if talking about a hurricane.
+
+“Yeah, actually, they do. It would help to find out.”
+
+“I could not hope to comprehend such a monster,” Kass whispered with the face of a hero of tragedy.
+
+Viv refrained from telling him she’d backhanded Gale with a cow femur for forgetting to clean his prey heap — again! Dragons were sometimes alien in their thought process but that didn’t mean they were smart. Except Arthur, who was sharp as an Excalibur, bless her silly little head.
+
+“I guess I’ll have to ask her in person. Are you aware of what the kingdom offered me as a reward for my assistance?”
+
+Kass suddenly looked embarrassed, for some reason.
+
+“They offered… allegiance, Your Majesty?”
+
+“The allegiance of a nation on the verge of being invaded, to a sovereign whose presence will trigger a war with the Sheem kingdom. I will be immediately forced to defend you. That wasn’t mentioned in the letter, was it?”
+
+Kass was less afraid than Viv had suspected.
+
+“The Sandsong kingdom rose thirty years ago from a collection of cities that refused the rule of the Sheem. The present queen’s father was the first to put his powerful magic on the line for the sake of independence. It is a young and hopeful nation. You should not expect that we would relinquish our prized sovereignty for anyone but a true savior. We have heard of your kindness in the way you treat your own people. I trust you would extend this kindness to mine, as well.”
+
+A few connections lit up in Viv's brain.
+
+“It was your idea,” she said.
+
+Kass nodded.
+
+“The young ones would face the beast and die a glorious death, but I refuse to accept there is no path forward. Even when things were bleak, my brother and I never gave up, always sought hidden salvation. I believe it could be you. I have to. There is nobody else.”
+
+He blinked furiously a few times, so Viv pretended she couldn’t see the raw despair in his expression.
+
+“Please. Help us.”
+
+“You have a deal.”
+
+***
+
+Viv hovered next to her luggage. The royal couple had provided a rare magical item to mask her appearance, an amulet that must have cost an arm. It was gold, and looked like leaves strung together around a large ruby. She put it on and checked a nearby mirror.
+
+She now looked like a Viziman. A Viziman with the face of Viv but dark, wavy hair, warm brown eyes, dusky skin, and no magical weirdness. Her hair was her normal length as well which was slightly over the shoulder for practicality. In many places of Nyil, long hair was a status symbol because only the upper class could afford the time and energy it took to care for it. She was, for anyone who would meet her, the wife of a merchant, most likely an artisan herself because she was fit. Her northern accent would mark her as an inhabitant of the coast and not even an Helockian. It would be a vertiginous drop in social status she would need to get used to when interacting with other people. Even the dresses she would bring had been made on demand in Frostway, using a northern pattern, because she simply didn’t own anything that wasn’t either war gear, lounge wear, or just really fancy.
+
+It was supposed to block inspections as well, though she would also need to keep a tight leash on her mana. Anyone inspecting her would be informed she was an arcanist journeywoman, a crafting path with the ability to cast spells as a byproduct of their skills rather than a dedicated caster.
+
+It felt strange, but also, in a way, exciting. She was going to go incognito and explore a new part of the world. There might be a dragon fight! She was also escaping her responsibilities!
+
+Well, no. Her job was to go after every major crisis and hopefully kill them in the egg, so to speak. New Harrak could survive without her for a long time. She’d made sure of it.
+
+Viv made sure everything was properly tied up before leaving her quarters through a backdoor. A few people frowned when they noticed her, which was normal in a small town where everyone knew each other, but their attention faltered when she boarded the ship. The sailors made a point to ignore her while Captain Kass briefly gave her a glance over.
+
+“Very fitting, Majesty. You could be one of my nieces.”
+
+“I think you shouldn’t call me by any honorifics if we are to keep my presence a secret. How about a fake name? Sai?”
+
+“Sai will work very well. If you are ready, we can depart with the tide.”
+
+“I have done all I needed to do. Let’s go.”
+
+Viv nodded to herself. Let the adventures of Sai the Undercover Dragon Slayer begin! She was sure it was going to be great.

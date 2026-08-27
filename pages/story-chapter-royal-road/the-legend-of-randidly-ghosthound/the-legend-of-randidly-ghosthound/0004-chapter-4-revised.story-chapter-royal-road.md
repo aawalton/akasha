@@ -1,0 +1,219 @@
+---
+id: 3cb014a5-83c0-5569-bdfa-8e22382545b9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4 (Revised)"
+slug: 0004-chapter-4-revised
+partOf: the-legend-of-randidly-ghosthound
+position: 4
+ownLength: 2812
+unit: words
+ownProgress: 2812
+publishedAt: 2017-03-31
+link: "https://www.royalroad.com/fiction/11209/the-legend-of-randidly-ghosthound/chapter/127188/chapter-4-revised"
+royalRoadId: "127188"
+markedReadAt: "2026-06-29T21:36:37.492Z"
+---
+
+The next few hours tested his commitment to his training regimen, but Randidly continued to push himself. He ran around next to the walls, keeping his pace above what was comfortable until his chest heaved unsteadily, forcing him to stop due to lack of Stamina. In between jogs, Randidly cast his mind back and did his best to remember a haphazard mixture of push-ups, squats, and pull-ups underneath the shady auspices of the Safe Zone’s tree. Most were things he’d seen Ace do, which gave his heart another squeeze of anxiety.
+
+How would his friends fare in the gamified world? The question floated back to the surface of his mind. Randidly gripped a branch and swung unsteadily back and forth, bringing his chin up to touch the bark. Ace was the type to roll with the punches and adapt quickly. Sydney on the other hand…
+
+Finishing his tenth pull-up, Randidly let himself drop. She might not know video games like I do, but she’s strong. That’s why I followed—
+
+Randidly grimaced. His history with Sydney was the least of his worries right now. She was dating Ace. The three of them were best friends. And that was that.
+
+When his Mana unsteadily climbed back to 10, Randidly would walk around the pond and shoot a Mana Bolt toward the tree. Though the aiming was rather intuitive, Randidly kept missing the trunk by just a small amount. He mostly lay the blame for this at the feet of his Mana. If he could have a few shots in succession, he was sure he could home in on his target.
+
+After carrying out his training schedule, Randidly gratefully collapsed. He’d improved his Physical Fitness to Level 3, his Running to 5, and both Mana Bolt and Heavy Blow to 2.
+
+Surprisingly, though, Mana Bolt reached the next Level after only two uses. Heavy Blow took five. Perhaps the lower cost of Heavy Blow meant it took more to Level it. Unfortunately, Randidly’s experience with Running and Physical Fitness meant the next few Levels would not be as easy as the first one was.
+
+Reaching Level 20 in a Skill seemed very, very far away.
+
+With a fist full of PP, Randidly opened his Path screen and considered his options. In the Path screen itself, the abbreviations were expanded for the Path names.
+
+Physical Defense 0/?? | Mental Support 0/?? | Risk Taker 0/??
+
+Considering his stated goal of surviving, Randidly started down the P. Def Path. His odd points, the first and third, net him free P. Def Stats that could only be used on Vit and End. That suited Randidly just fine. Meanwhile, the even PP he added to the Path earned him regular free Stat points.
+
+Randidly put one in each of Vit and End with the P. Def distributable points. With the totally free Stats, he put one in Int and one in Wis. Randidly scanned his Status screen, calculating the effects. Intelligence increased maximum Mana by 2 and Mana regen by .25. Wis increased maximum Mana by .5 and regen by 1.
+
+Finally, 20 Mana. Randidly couldn’t help but release a sigh of relief. Hopefully, the Mana Bolt target practice would go a bit smoother now.
+
+However, his examination of his Status screen did stir other thoughts. Based on the abbreviations of Defense and Support Randidly had seen in his Paths, he suspected that a group of four of his twelves Stats would be considered “Offense.”
+
+Randidly wondered if part of the reason for his struggles to hit his target with Mana Bolts was due to a lack in the M. Supp category, specifically his Focus and Control.
+
+However, he couldn’t ponder forever. Randidly pushed himself up into a sitting position and focused on the base of the tree. The green sprouts were definitely growing, but they weren’t growing quickly enough.
+
+His stomach rumbled, reminding him he was out of berries.
+
+After releasing a long breath and rubbing his knuckles against the tree bark for good luck, Randidly once more left the Safe Zone. He flickered across the bare grassy space. Once amongst the ferns, he calmed down, narrowing his emerald eyes. He ignored his rising pulse and crept forward through the shrubbery. Even if his heartbeat was erratic, his steps were firm and determined. He followed the edge of the tree line to where he previously located the berries. When he paused and peered around the tree trunk toward the berry bush he sought, Randidly was stunned to find it had been picked clean.
+
+Nervous, Randidly’s gaze slid upward to a familiar tree branch. Sure enough, the lime green frog was still there, looking quite a bit fatter than it had the day before. In addition, the frog had spun on its perch so it could watch Randidly’s approach, rather than focus on the bush. Its unblinking eyes fixated on him.
+
+For a second, Randidly froze, and he had to force his mind to whirr into motion. Shit… well, I can circle around the frog and continue down the tree line. I definitely saw more than just a single bush—
+
+Burp.
+
+The green creature shifted its slightly inflated body into a more comfortable position, its eyes grotesquely bulging. Despite his pounding heart, Randidly couldn’t resist glaring in return. Forgetting about his plan of remaining relatively calm in the face of danger, he let the icy feeling of Mana flood through his veins. Raising his hand, he channeled Mana into his palm, preparing a Mana Bolt.
+
+The cold energy gathered slowly. Randidly blinked in shock. He’d initiated the Skill non-verbally. The elation amplified when Randidly recognized the casting time had slightly decreased and would likely continue to shorten in the future due to increased Skill Level.
+
+Given the current casting time, Randidly still had to wait for Mana to build in his palm, a long enough time for him to realize he was making a mistake. By initiating Mana Bolt, he’d antagonize this frog. Just as the realization seized him, the Mana Bolt shot forward.
+
+Of course, this Mana Bolt spurred on by passion was the most accurate one Randidly unleashed to date. The projectile glided smoothly until it slammed into one of the frog’s bulging sides. Almost immediately, the frog’s eyes went wide, engaged in an internal struggle as it glared toward Randidly.
+
+Randidly licked his lips, similarly torn between remaining still and bolting.
+
+After a few seconds, the frog opened its mouth and vomited a cascade of half-digested berries and yellow goop that splashed on the tree next to Randidly. He jerked to the side, avoiding the secondary splash of bile.
+
+A strategic retreat was in order. As Randidly turned to flee, the frog’s eyes began to glow an ominous red.
+
+Randidly took a step into the ferns and his hand spasmed. His gaze flicked downward to his palm. He hadn’t escaped unscathed. Several small drops of the vomit were smeared on his hand. A loud sizzling caught his attention. His instincts betrayed him, making him glance behind to find the source of the noise. The unfortunate tree casualty was being eaten away before his very eyes, dissolved by the regurgitated yellow goo. The tree cracked, collapsing sideways while the remainder of the trunk steadily disintegrated.
+
+Randidly’s hand began to burn.
+
+He put all of his vigor toward flight. His effort in sprinting back toward the Safe Room was so all-consuming that even the System recognized it. He earned himself another Level in Running. Ferns slapped his face and ripped at his shins. He barely even attempted to avoid the flora. Sweat ran down his face and forced him to blink several times to keep his vision clear.
+
+The next notification he received during his flight made Randidly misstep and stumble.
+
+Congratulations! You have learned the Skill Acid Resistance Level 1.
+
+A splash only a short distance behind him, as if the frog spat again, urged Randidly to lower his head and push himself to go faster. That fiery energy originating in his heart spun out through his legs, making his muscles buzz with intensity.
+
+Congratulations! You have learned the active Skill Sprinting Level 1.
+
+Congratulations! Your Skill Acid Resistance has grown to Level 2!
+
+Unlike the pain from punching the tree, the horrible burning on his hand struck a spark of agony as if to catch the flesh aflame. The sensation blazed up his arm and spread across his torso. Randidly’s thoughts became desperate, barely able to register where he was. Abruptly, he realized he might have dashed too far.
+
+He burst out of the ferns into the clear grassy area along the wall, wildly searching for safety. The pain drilled into his chest, making breathing difficult. He spotted the Safe Room door and dashed toward it.
+
+Randidly didn’t dare pause and examine the state of his Health.
+
+Congratulations! Your Skill Acid Resistance has grown to Level 3!
+
+Congratulations! Your Skill Sprinting has grown to Level 2!
+
+Warning! Some of the acid has entered your bloodstream, causing you to be poisoned. Health will continue to decrease every five seconds.
+
+Congratulations! You have learned the Skill Poison Resistance Level 1.
+
+Randidly scrambled through the door, ignoring the continuing notifications. He was becoming distinctly dizzy. His torn shoes caught on the ground and he fell flat on his face. But his smarting nose was nothing compared to the pain of the flesh of his arm disintegrating. As he hauled himself back to his feet, his limbs trembled.
+
+Congratulations! Your Skill Acid Resistance has grown to Level 4!
+
+Congratulations! Your Skill Poison Resistance has grown to Level 2!
+
+Congratulations! Your Skill Poison Resistance has grown to Level 3!
+
+Warning! Your Health is extremely low. Due to being under Level 10, arrows will be on the ground guiding you to the nearest Safe Zone.
+
+Congratulations! Your Skill Poison Resistance has grown to Level 4!
+
+I’m already here, damnit! Randidly thought desperately.
+
+Not breaking his twitching stride, Randidly transitioned from sprinting to blindly diving into the pool. Due to his worsening body control, he slapped against the water’s surface before sinking into the cool liquid. On his way down, he began frantically wiping at his hand. That is, until his fingers caught in the quarter-sized hole on his melting palm between his thumb and pointer finger.
+
+Randidly opened his mouth in pained shock, and water flooded his throat. Still, drowning was the least of his worries. His muscles and flesh were eroding. He opened his eyes to see if the wound looked as bad as it felt. The corrosion weakening the tendons of his hand was like taffy being pulled until, snap! The hole continued to deepen.
+
+When his bone became visible, panic joined the water to strangle him. He was going to die today.
+
+But just as his anxiety began to build up momentum, his stubbornness constricted his mind and squeezed out the distracting thoughts. Pain became the sharp prod to move himself forward. Randidly snapped back to focus. I will survive. But I need to know how bad this is first.
+
+He first gulped down a mouthful of water and pressed his lips tightly shut. His brow furrowing underwater, Randidly checked his Status. His Health had sunk to 10, and then it ticked down to 9, and 8. Frantically, he opened his Path screen and dumped the 6 points he’d gotten on the trip into P. Def. Before he could switch back, he noticed another notification but ignored it.
+
+He moved back to his Status screen, pouring all 6 points into End to buoy his Health upward.
+
+His Health rose by 30—no, it was more.
+
+Randidly blinked. Wait, why was it not 30, but 44? Not that I’m complaining about the extra buffer…
+
+Still, the trial hadn’t yet passed. Randidly returned to his intense monitoring of his Health, pushing his head past the surface of the water to gulp down several breaths. The boosted number continued to tick down, but it was slowing in its descent until it stabilized at 12 Health. Randidly dragged his waterlogged body out of the pool and pressed his face against the grass. He sucked in a delicious, still living breath.
+
+Turns out the extra 14 Health I received mattered quite a lot. He dragged himself around and slumped onto his back. Now he considered the notifications he’d previously ignored.
+
+He located the notification that likely saved his life. Turned out he’d thrown PP so frantically into the Path, he finished it.
+
+Congratulations! You have completed the “P. Def Path”! +2 to all P. Def Stats, +1 P. Def point per Level.
+
+Congratulations! You have learned the Skill Iron Skin Level 1.
+
+Randidly couldn’t muster a smile at earning another new active Skill. The determined part of himself took over, and he began plotting new ways to train these abilities. He idly scanned the rest of the skipped notifications.
+
+Congratulations! Your Skill Acid Resistance has grown to Level 5!
+
+Congratulations! Your Skill Poison Resistance has grown to Level 5!
+
+Congratulations! Your Skill Acid Resistance has grown to Level 6!
+
+The healing pool has cleansed your body. You are no longer poisoned. Health will no longer decrease.
+
+Congratulations! Your Skill Acid Resistance has grown to Level 7!
+
+Sighing, Randidly lifted his head, just to drop it back against the grass-covered floor. The ghost of the pain from the acid still hung over him. That had been too close. He wasn’t yet ready to antagonize any lifeform in this place. The worst part was, he had only been splashed by a tiny drop. Even so little an amount ripped a hole in his hand, eating his flesh, and eventually poisoning him.
+
+If it wasn’t for this healing pool…
+
+Shivering, Randidly once more recognized the unassuming specter of death waiting behind him for a fatal mistake.
+
+Yet the stubbornness taking residence in his spine refused to take this lying down. Randidly leveraged himself onto his elbow, grinning. He survived. And as such, he benefited immensely. Not only had he finished the P. Def Path, but he now had 4 more PP to spend on the next Path.
+
+That didn’t even include the new Skill, Iron Skin, and all the PP he could earn from it to push himself along other Paths. Perhaps the Skill would even give him an edge against the frog’s acid vomit.
+
+However, no matter how useful Randidly’s arrogant stubbornness was in the Safe Room, he’d learned his lesson about attacking monsters. Based on how quickly his Acid Resistance Skill Leveled compared to his hours of grinding Physical Fitness, Randidly doubted withstanding a direct blow from the acid would be possible, Skill or no.
+
+Randidly put the 4 PP into the M. Supp Path. As expected, he received two freely distributable Stats and two M. Supp Stats.
+
+Randidly see-sawed between his options, eventually adding both to Control, hoping it would increase the accuracy of his Mana Bolt. At the very least, with the boost of two, he’d gain a better idea of Control’s effects, because it hadn’t changed his Health, Stamina, Mana, or Regenerations.
+
+For the two distributable Stats, Randidly was once again torn. He already experienced a huge boost in survivability with the End increase, but he was beginning to believe the Health he was accumulating was just a drop in the bucket. A direct attack would kill him several times over, even with 10 more End.
+
+Decision made, one point went into Agi, and one into Per. Hopefully, he would have a little bit more of an edge avoiding the vomit next time. Sighing at his still growling stomach, Randidly reviewed his Stats.
+
+Randidly Ghosthound
+
+Class: ---
+
+Level: N/A
+
+Health(/R per hour): 12/98 (34.5)
+
+Mana(/R per hour): 12/22 (9.25)
+
+Stam(/R per min): 5/52 (14)
+
+Vit: 9
+
+End: 14
+
+Str: 3
+
+Agi: 9
+
+Perception: 5
+
+Reaction: 5
+
+Resistance: 5
+
+Willpower: 5
+
+Intelligence: 5
+
+Wisdom: 3
+
+Control: 4
+
+Focus: 3
+
+Paths: Newbie 7/7 | P. Def 10/10 | M. Supp 4/10 | Risk Taker
+
+Skills: Running Lvl 5 | Physical Fitness Lvl 3 | Sneak Lvl 2 | Farming Lvl 3 | Mana Bolt Lvl 2 | Heavy Blow Lvl 2 | Acid Resistance Lvl 4 | Poison Resistance Lvl 4 | Sprinting Lvl 2 | Iron Skin Lvl 1
+
+“Too close…” he muttered, shifting himself into a sitting position. For now, he ignored his hunger. His life was much more important than going without a meal for a few hours. Logically, he understood the human body could survive a day or two without food, so long as he had plentiful water.
+
+Plus, Randidly was tired. He needed to rest and steady his nerve before he returned to the outside world.
+
+Randidly pressed his eyes shut and felt the strange automatic lights switch off as he did so. One thing at a time. First, I need to recover. I can think about the rest later.

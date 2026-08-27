@@ -1,0 +1,155 @@
+---
+id: d02de57f-2f22-5cb5-b60e-c0ee27a4e6ad
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18: The Hunt is On"
+slug: 0018-chapter-18-the-hunt-is-on
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 18
+ownLength: 1667
+unit: words
+publishedAt: 2026-08-04
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3768027/chapter-18-the-hunt-is-on"
+royalRoadId: "3768027"
+---
+
+A twig snapped beneath Marina’s foot as she followed Hecate, who took the lead, through the dimly illuminated woods.
+
+“So, Miss Marina, what is the plan?” Mellie said, scanning around the heavy foliage.
+
+“The plan is, of course, to catch something big enough for the three of us.” A piece of bee bread appeared in her hand, which she pulled from her [Inventory]. “And this will be our bait.”
+
+“Are you sure this can work?”
+
+“I would hope so. I did soak it in some nectar, so the scent should attract something,” Marina said, weaving her way through the tight opening around bushes. “Let’s set up the lure here.”
+
+In front of them was a small clearing devoid of tall trees. A ceiling of twilight was welcomed onto the forest floor. Walking into the opening, Marina began to tear the bee bread into small chunks, scattering them upon the overgrown blue grass. When she was little, she lured squirrels with the same technique, though most of the time, squirrels were not the only ones to arrive.
+
+Marina hurried back to the tall bushes. “All done. Now we wait.”
+
+“Miss Marina, what are we trying to catch exactly?” Mellie whispered.
+
+“To be completely honest, I have no clue, so let’s wait and find out.”
+
+Marina opened the System screen. The time was 6:05 pm. Her stomach had been growling the whole way walking from Mellie’s house. If nothing bites the lure, she would have to endure those bee breads again.
+
+“Well, the most prized game, from what I remembered, is the forest boar,” Mellie said. “I will never forget the smell as it was roasting over the fire.”
+
+She would absolutely devour a pulled pork sandwich right about now.
+
+“How does it taste?”
+
+“I don’t actually know… I never got the chance.”
+
+“Then the boar is what we will catch.” Marina tossed the last chunk of bee bread into her mouth to stop the immediate hunger for the time being. The taste was much more bearable after being soaked with sweet nectar. Maybe even become good if dipped in coffee.
+
+“But the boar is incredibly large and ferocious. Can we really take one out by ourselves?” Mellie worried. “The process of tracking, trapping, and butchering is a divided effort of the entire village.”
+
+“I think Hecate’s got it.” Marina sat down, her feet growing numb from her half-standing position. “The hardest part of hunting is always the waiting game.”
+
+Hecate could take down the Guardian effortlessly; what couldn’t she do? If the boar was indeed such a fierce creature, then Marina could at least feast her eyes first before her stomach.
+
+“Have you hunted before?” Hecate sat next to her. “You seem quite proficient.”
+
+“I have, when I lived in the countryside.” Marina yawned. “If you let me lie on your lap, I can tell you the full story.”
+
+The forest floor was both bumpy and muddy. She was too tired to stand or kneel, but resting her head on the ground would be unwise. Long hair types were always a pain to wash, and getting mud entangled in between the strands might make her scalp itch for days. However, if she could rest on someone’s lap, one that resembled a pillow, it would be a dream come true.
+
+“Of course, my dear.” Hecate dusted off her skirt before kneeling with both legs.
+
+“You are not kidding…” Marina widened her eyes.
+
+She hadn’t paid much attention to Hecate’s features other than her glamoursly charming face. Only from here could she see the vampire’s incredible physique. Flawless pale skin covered Hecate’s legs, which were toned like that of a Ballerina. Despite wearing high heels since the day they met, Hecate’s feet were smooth and unscathed, which surprised Marina due to the attack she landed on the Guardian. Even Hecate’s toenails were in perfect condition, painted with the same colored nail polish as the kind on her fingers.
+
+“Why would I?” Hecate smiled. “You are not a child, my dear; I shall respect your demands.”
+
+“A-alright.” Letting out a sigh, Marina took off the hood of her cloak and gently laid her head upon Hecate’s lap. It was firm, but soft enough to feel bumpy in any way. “People say the view from this angle can’t be matched by any scenery.”
+
+“Is that so?” Hecate looked down to meet Marina’s gaze.
+
+“It is, very much.” Marina grinned. “Gives the Underworld sky a hint of romanticism even.”
+
+“Ah. Interesting. Would you allow me to lie on your lap one day, so I can witness such a magnificent sight as well?”
+
+“Eh, it’s not going to be the same. I doubt you will see any romanticism, probably only the sky.” Marina said, resting her arms around her chest lazily. “I’m going to rest for a little.. Remind me when something bites the hook.”
+
+“As you wish, my dear.”
+
+*****
+
+A loud song of birds awakened Marina from her hazy nap. She opened her eyes at the loud sputtering of wings that circled the trees around the three of them, as if cornered by a team of attack helicopters
+
+“Miss Marina.” Mellie rushed to her side.
+
+Getting up from Hecate’s lap, Marina grunted as she summoned the System screen. It was a nice forty-minute nap. “What are those things?”
+
+“I believe they are pigeons…?” Mellie pointed. “Have a look.”
+
+Hiding behind a tree, Marina peeked into the opening. “You call that a pigeon?” She tried to whisper.
+
+“I don’t know what else to call them…” Mellie returned a helpless look.
+
+“That pigeon is like at least six or seven feet tall!” Marina kept her voice low despite the absurdity of the creature’s scale. “And those black feathers look sharper than metal spikes.”
+
+“That's why… I told you to… not do this…” Mellie’s voice is barely a whisper. “The dangerous beings often come out during this time of day.”
+
+A loud rustle of grass and leaves arrived deeper from the forest, startling even the large avian standing in the open. The pigeon stopped all of its movements, holding the small piece of bee bread at the tip of its beak. From there, its red eyes shifted their never-blinking stare to every possible direction.
+
+Marina poured forth all her attention. The power from the river still briefly resided within her, giving her vision just enough of a boost to peer into the darkness. And within, she spotted movement, quick and streamlined, like droplets of water flowing down an elevated floor.
+
+Hiss.
+
+A serpent launched itself into the clearing, its two sharp fangs aimed at the pigeon’s neck, only to be parried by a pair of sharp claws as the pigeon swung its metallic wings to propel itself backwards.
+
+“Did I summon the entire zoo with this?” Marina watched as the two beasts fought to the death, only for a piece of what she would call a baking failure. “Alright, Mellie, if you gotta pick between the bird and the snake, which one do you want to eat for dinner?”
+
+She herself would prefer the bird, but honestly, if the bee bread tasted okay, then anything would taste delicious at this point.
+
+“I-I honestly don’t know…” Mellie replied, overwhelmed by the weight of her decision. “I think it’s best that you choose, Miss Marina.”
+
+“Scales are always a pain in the ass to prep, plus, birds always taste better in general–” A thundering tremble knocked Marina off her balance in an instant, but just in time for Hecate to grab her by the arm.  “What is happening?!” Grabbing onto Hecate’s waist, Marina braced herself as the ground continued to tremble violently.
+
+The two beasts backed away in truce amidst the commotion.
+
+“This is–” Mellie held on to a vine next to her. “The boar’s footsteps!”
+
+The trees toppled, the forest shook, and the boar stepped into the now expanded clearing. Letting out a growl, its head bent down to sniff at the source of an unusual sweet scent.
+
+“Hecate,” Marina kept her voice to the absolute minimum. “How big is it?”
+
+“It’s bigger than me,” Hecate said.
+
+“I–” Marina took a deep breath to calm herself.  Yeah no shit, even a fucking cave mole could see that. “Can you give me a number please?”
+
+“If I have to estimate based on our current position, I’d say at least ten feet tall.”
+
+“Okay, on a scale of one to ten, how confident are you in taking it out?”
+
+“I am quite unsure–” Hecate disappeared from Marina’s grasp, like a bullet from a barrel.
+
+Boom.
+
+The ground shook one last time before stillness returned.
+
+“It is indeed an eleven, as I have predicted,” Hecate said, holding her sword.
+
+Marina peeked into the clearing, only to find the remains of the ten-foot monstrosity with its head removed from the rest of its body. A stream of blood now dyed the forest floor in dark red. Even a beast of such size could not withstand one slash of Hecate’s blade.
+
+“That was… fast.” Walking in the open, Marina complimented.
+
+“Of course, my dear, you were starving. I was just making sure your meal is to be served with haste.” Hecate stowed away her sword. “How should we prepare this?”
+
+“Well, we gotta butcher it first, divide it into separate parts, and then portion it from there. But for the cooking method, we can just keep it simple with wood fire. It’s what Mellie prefers, probably.” Marina turned behind her. “Right, Mellie?”
+
+“Y-yeah…” Mellie stuttered. “That would be perfect.”
+
+“Is everything okay?” Marina asked.
+
+“Y-yeah… I’m just shocked to see someone kill a boar with one singular strike…” Mellie quivered at Hecate’s gaze.
+
+“Ah, yeah, I am also getting used to it, but food is food, and we need someone to harvest it,” Marina looked to the boar’s fallen head. “Right, Hecate?”
+
+“My, my, is that all I am good for?” Hecate shook her head.
+
+“Well, no,” Marina paused. “Ugh, whatever, let’s just get this feast started. I’m starving already!”
+
+“...”

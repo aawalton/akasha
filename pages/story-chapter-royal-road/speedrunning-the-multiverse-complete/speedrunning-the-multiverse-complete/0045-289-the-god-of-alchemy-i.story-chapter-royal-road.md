@@ -1,0 +1,103 @@
+---
+id: 5ccc780d-c39c-51e9-87d0-206bd54a8d09
+page-type-slug: story-chapter-royal-road
+title: "289. The God of Alchemy (I) "
+slug: 0045-289-the-god-of-alchemy-i
+partOf: speedrunning-the-multiverse-complete
+position: 45
+ownLength: 1764
+unit: words
+ownProgress: 1764
+publishedAt: 2023-08-22
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1318112/289-the-god-of-alchemy-i"
+royalRoadId: "1318112"
+markedReadAt: "2026-06-29T22:43:13.347Z"
+---
+
+Eden — Upper Realms
+
+There was a saying of Eden: a seed planted at midnight flowers at dawn.
+
+In the Multiverse’s early aughts, Eden’s soils were sampled and carted off to other realms for analysis. Everyone wanted whatever secret ingredient made Eden’s crops grow so much bigger, its flowers so much brighter, its grasses so strong and hale. But they saw only plain, simple soil under their microscopes. Perhaps it was the crops, they said—perhaps Eden’s strains were simply superior. But plant a seed from Eden in other soil, and it grew like any common crop. Perhaps it was the farming methods, or the water, or the fertilizer! But ask a resident of Eden and they’d shrug at you, bewildered. They’d claim to be nothing special.
+
+It was not false modesty. Ages ago Eden was peopled by farming communities, friendly and neighborly, not unlike the Realm of True Light. There were no kingdoms in Eden. They had no need for a king. They had all they needed all around them; Eden was the closest thing in the Multiverse to a true paradise. The air was crisp, the lands lush, and there were tens of thousands of lakes with waters so clear you could see through them for tens of li. Eden’s peoples lived off the land, and swam in the lakes which teemed with turtles and fish and serpents, and ate the land’s signature golden apples, and were, on the whole, a happy, fruitful folk.
+
+When Dorian first ascended here his head exploded.
+
+The land was so rich, and they wasted it on spirit corn?! The waters so dense with qi, and they merely swam in it and drank of it?!
+
+Naturally he made some much-needed changes.
+
+The first thing he did was import a dozen different crops. Orange trees that made fruits twice as juicy. Super-rice crops that drove out the native strains. The best pollinators in the Multiverse, the hex-wasps of Iria, who did a splendid job at both pollinating and driving half the species of insects in the realm to extinction, inadvertently collapsing half the ecosystem. So they lost a few species—so what? From these simple changes alone they got twice the rice!
+
+That was before he upgraded their simple hoes to plows and brought in oxen to drive them. Before he tore down their quant villages to make way for industrial farms, before he irrigated their fields to pump in the waters of their lakes, emptying out a fair few of them. Before he transformed an idle, indolent folk into a hardworking, industrious one—before he taught them ambition!
+
+As Malachai, Father of Alchemy, he’d introduced new formulas for elixirs. He’d introduced new crop breeds. He’d brewed elixirs no-one had thought possible before, and he’d started the Alchemist’s guild, as well as talent pipelines that sucked up all the villages’ most promising youngsters.
+
+But none of this earned him his title.
+
+He might’ve been called the Father of Alchemy, but he was really the father of business. After he started the Alchemist’s Guild he went about ruthlessly crushing and absorbing all the small-timey alchemists of the land. They rolled through villages, striking extremely favorable deals for crops; they spread across the land like a plague and ploughed it for all it was worth.
+
+It was Dorian’s introduction of Elixir Factories, where a dozen workers sweating for twenty hour days could put out a hundred top-grade healing elixirs, that changed everything. It vaulted Eden from a vacation realm for the true Upper Realm elites to a powerhouse elixir manufacturer all the best clans, sects, and Kingdoms bought from.
+
+The way Dorian had seen it, all he’d done was make Eden the best version of itself—it had been mere latent potential, and he’d transformed it into a Multiversal power!
+
+Of course, he might’ve gone about things a little differently had he known he’d have to come back one day…
+
+If these last few runs were anything to go by, Dorian had reason to be apprehensive.
+
+He was right, as it turned out.
+
+At first he thought Fate’s Thread had dropped him in the wrong place. The sky was low to the ground and looked like one solid wall of soot. There wasn’t a green thing in sight; he stood amid a barren, tilled field.
+
+Then the razors caught him in the face. Six spinning knives attached to a giant cinderblock on wheels, driven by a haggard demigod in a patchy gray uniform.
+
+The knives broke off. The man started screaming.
+
+“What…?” muttered Dorian. The field was full of these things, ambling over the land, chewing up the dirt, piloted by increasingly depressed-looking workers. These hadn’t been around in his time.
+
+“What is this racket?!” A god in the same patchy gray uniform flew over, but he had a spiffy hat on to mark his importance.
+
+The demigod cringed. “Overseer Liu! Forgive me—this creature burst into my path!”
+
+“Eh?” The Overseer gave Dorian a dismissive glance. The dismissal transformed slowly to shock, then horror.
+
+“You!” he shrieked. “You’re—you’re him! Dorian!”
+
+“Wow.” Dorian blinked. “Either I’m more famous than I thought, or you’ve been warned about me.”
+
+The Overseer turned tail and fled, but Dorian batted him out the sky with a careless flicker of will. “My, my,” said Dorian, surveying the scene. He watched a truck dump a barrel of toxic waste into murky waters which bobbed with the skeletons of dead fish. “The alchemists’ guild hasn’t been idle in my absence. It’s like a wound festering, eh? Just gets worse. Now where’s this body of mine?”
+
+He flew up to get a bird’s eye view, and found himself staring down at a map. The land was carved into neat grids of soil, stretching far as the eye could see, dotted with the slow gnawing machines, the hunched men working them with so little life they seemed machines themselves. As far as he could tell the soil had been farmed to Hell; it was a dry, pale, monocolored expanse without a hint of qi. Yet on and on the workers roamed. They might as well have tried to squeeze water from a stone.
+
+Dorian thought he’d squeezed this land pretty well when he was Godking. But now it was like strangling a corpse. Whatever made Eden special once upon a time had been steadily stamped out, one innovation at a time.
+
+He could practically feel Gerard sighing and shaking his head at him from somewhere up in Hell. In hindsight maybe he had gotten a little too excited—even from a purely self-interested perspective, which admittedly was his perspective most of the time. At the time he’d figured these realms, like the dragonrealm or the Realm of True Light, would bounce back and be good as new. If he was honest the Fates of these realms sort of exited his mind forever once he was done with them. But apparently something about exploiting something scarred it, at least a little. There were only so many of these one-and-done runs you could do before you ruined the Multiverse. It was becoming increasingly clear that the Multiverse wasn’t merely a vacation home he could trash as he pleased. He actually lived here.
+
+“Next time,” he muttered. “Perhaps a little more introducing new brewing Techniques and formulas, a little less toxic waste dumping.”
+
+He could practically feel Gerard nodding his head in approval from somewhere up in Hell. He rolled his eyes.
+
+In the distance was what seemed to be a city—he saw the smudged silhouettes of skyscrapers through a dense smog. Conveniently, they’d paved a road straight to it. He flew along like he was following a line on a map, and soon the crop grids gave way to flat blocky barracks. They seemed to be housing units; in and out streamed workers swaddled in gray uniforms, wearing gray caps, not looking at one another, not speaking to one another. Nobody stopped Dorian nor even paid him much a attention. For the most part their eyes were on the floor. They seemed well past caring.
+
+Soon the housing units gave way to factories—even bigger than the ones Dorian had pioneered, with four smoke stacks rather than one. They belched smog into the sky, which looked like it was having trouble carrying all the smog it already had. Dorian’s body was literally made to withstand volcanic ashes and even he found the air here ghastly. Let’s make this quick.
+
+He could’ve guessed his destination even without his qi sense as a guide. All of the roads in this city seemed to coalesce around this one factory at the center of it all, a monstrosity of metal and pipes, like if a dozen factories had been welded together by a blind man.
+
+He had pretty much the same issue as when he’d gone to the Millennium Caverns; how high up were they hiding his body? How many floors did this thing have? Giant block letters, half-hidden by a layer of smog, labelled it the ALCHEMISTS’S GUILD HEADQUARTERS. There must’ve been a thousand windows on the face of this building and every one of them were smudged so badly they might as well have not been there. About half of them were lit yellow from the inside; through them churned a steady stream of grunting and clanking.
+
+As Dorian drew close, wondering how best to search this thing, a foghorn blared.
+
+Instantly iron curtains dropped over every window. A few opened up, revealing turrets. A steel wall sprung up out of nowhere, encircling the building, topped with cannons, bristling with spikes. Clumps of gas-masked soldiers exploded out of the building, popped up out of unseen holes in the ground. And if all that wasn’t enough, a ward sprung up. A ward which flowed with qi of water and light.
+
+Keyed specifically to counter fire and darkness. In other words—him.
+
+“All this, for little old me?” said Dorian. “Oh, you shouldn’t have! Let’s see…”
+
+He drew out the Bane of Dragons and launched a volley. To his surprise the ward took it well. It probably ran on some great mound of Spirit Stones stashed deep underground; he debated chucking arrows at it until it gave, then decided he didn’t have the patience for it.
+
+[Blessing of Hercules!]
+
+Power coursed through his limbs, electric, making his muscles twitch involuntarily. It felt like his heart was suddenly pumping twice as fast, his blood flowing twice as strong. He clenched and unclenched his fist. The skin had begun to smoke. He blew on it, grinning.
+
+And then, without Technique, without even qi, he punched.

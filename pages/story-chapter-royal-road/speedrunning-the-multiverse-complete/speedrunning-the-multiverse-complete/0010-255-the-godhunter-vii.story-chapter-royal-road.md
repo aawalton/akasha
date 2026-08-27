@@ -1,0 +1,161 @@
+---
+id: 14883b81-955e-5d0c-8198-1aabe2f5fa72
+page-type-slug: story-chapter-royal-road
+title: "255. The Godhunter (VII)"
+slug: 0010-255-the-godhunter-vii
+partOf: speedrunning-the-multiverse-complete
+position: 10
+ownLength: 1898
+unit: words
+ownProgress: 1898
+publishedAt: 2023-07-05
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1267293/255-the-godhunter-vii"
+royalRoadId: "1267293"
+markedReadAt: "2026-06-29T22:42:00.379Z"
+---
+
+“So,” said Dorian brightly. “About that Inheritance?”
+
+“Ah,” stammered the Priest. “Ah….yes. This way.”
+
+No ‘young one,’ this time, Dorian noted. Before they set off, a shadow stretched across them. Gerard, in Roc form, bore the dragon Dorian had just chucked. He gently dumped the creature at their feet.
+
+“Are you alright?” asked Gerard to the dragon. It nodded slowly, looking somewhat traumatized. “You seem slightly nauseous. I have an elixir that may be of use, if you’d like?”
+
+“Thanks,” said the dragon in a far-off voice, accepting a bubbling blue concoction with a shaking claw.
+
+Gerard nodded. “Of course. It was no trouble at all.” Then he turned to Dorian.
+
+“I shall wait for you here, my liege. May I expect your return in… three days?”
+
+“Sounds reasonable.”
+
+“I think I shall busy myself digging in the meantime,” mused Gerard. “The dragonrealm is highly mountainous. The terrain is uniquely suited to archaeology. I’d like to see what species I can unearth—perhaps I shall make a few contributions to the literature. Dragon bones are deeply fascinating, you know. The oldest go back some fifty thousand years—”
+
+“Right, right!” said Dorian, since if he didn’t cut in Gerard might go on for the next half-hour. “Off you go then. Have fun!”
+
+“I shall, sir. Good day.” Gerard bowed. Gerard Jr. burped on his shoulder. The toad had on a small tweed hat, was swaddled in a small tweed coat, and wore a tiny glass monocle, through which it regarded Dorian with a haughty eye at double its usual size as they flew off. Prick.
+
+The Priest led Dorian up a set of wide stone stairs, past a familiar-looking statue. It was Salas Godhunter, with his nose blown up, a screwed-up face, and an ill-proportioned bone structure that made him seem deeply inbred. Dragons passing by took turns spitting at it—some ashy flakes, some flakes of frost.
+
+“The Dragon Ancestor commissioned a number of statues and automata from the Master Artificer Rithius,” said the Priest. “This one depicts the heinous Salas Godhunter, bane of dragons, perhaps the worst mass-murderer in the history of the realm. It is customary for all who pass to spit on him.”
+
+He hocked up a mouthful of embers and spat them in a sparking shower.
+
+“Yeah, fuck that guy,” agreed Dorian, and spat heartily too. “What an ass!”
+
+They came up to a the front of the gravestone, where the Priest spoke an incantation. The ground ahead burst with white light, outlining a square previously invisible. Then the soil in the square dropped out, leaving only a yawning blackness. And stairs, to seemingly nowhere.
+
+“At your leisure,” said the Priest.
+
+“What? Not going to wish me luck?”
+
+The Priest thought about it. “I don’t think so,” he said at last. “I don’t like you very much.”
+
+“Fair, honestly,” said Dorian. Whistling a tune, he strolled in.
+
+***
+
+When he reached the chamber it felt like waking from a deep, dreamless sleep. There was a lot of nothing at first. So much nothing he lost track of time. And then, all at once, the world appeared.
+
+He took a step, and blinked, and he was somewhere else. It was like he’d gone colorblind. There was only one color here, and it was gold.
+
+He stood in a chamber lined with statues of gold dragons, mouths open in silent eternal roars. Each clutched a lit gold torch in their claws. Gold plated the walls. Gold plastered the domed ceiling with its coffered roof. Golden murals lined the walls, each carefully engraved with portraits of the only non-gold thing in the room. Coldheart, in icy blue. One depicted him beating down a dragon horde in battle. Another of him coiled on a comically giant hoard (he was depicted as a blueish dot for scale atop, atop a mountain of treasures). A third of him roaring triumphant atop Mt. Tai. On and on they went, one giant exercise in autofellatio.
+
+The centerpiece of the room were the four massive doors set deep into the walls. One was engraved with a drop of blood. A second, a symbol of chains. A third, a heart. A fourth, a fist.
+
+“Challenger! I am Godking Coldheart,” boomed a voice. An ghostly image flickered to life before Dorian, a faintly translucent bluish dragon which looked like an ice sculpture moving. Its eyes burned cold white. “You think you’re worthy of my Inheritance, do you? My life’s work? My greatest treasures and my ultimate legacy?”
+
+If the Godking knew who Dorian really was he probably would’ve been considered the least worthy person in the Multiverse. “That’s the idea!” said Dorian.
+
+The Godking squinted at him. “That aura…I know you.”
+
+“No you don’t,” said Dorian quickly.
+
+“Really?”
+
+“We’ve never met. I’m sure of it.”
+
+“Hmm…” said the spirit, looking troubled. But then it moved on, thank Heavens, because things could’ve gotten very awkward just then. “You speak now to an echo! An echo of my soul I have left behind to administer my legacy, and to make certain it falls in the hands of whomever I deem worthy.”
+
+It snorted a cloud of frost. “Your worth shall be determined in a trial of four parts! Succeed, and you gain my greatest treasures. Fail… and only death awaits you. Four trials, in four doors. Challenger—enter the first!”
+
+The door farthest to the right, the one marked with a drop of blood, glowed gold. It was sort of hard to tell at first, given the goldness of everything else. For some reason, the stronger you got the shittier your sense of design . This monument to Coldheart’s ego was the sort of thing that seems neat in an idle fantasy, but is hideous and ridiculously impractical in execution. Or maybe it wasn’t only the strong that had these silly inclinations—it was just that they had the resources to make them real.
+
+Still, Coldheart made his point. He was rich as all Hells. If this was only the lobby… what did he consider his true treasures?
+
+Dorian waltzed through the first door.
+
+“The door of blood!” intoned Coldheart’s spirit. Inside was a simple chamber. Gold walls, of course, with a pedestal in the middle bearing a simple basin and a knife. “Only those of true regal blood can inherit my legacy. Prove yourself, challenger!”
+
+It was plain what he was expected to do. He grabbed the knife—leather handle, silver blade laden with runes—and stabbed at his hand.
+
+The knife clattered off with a flurry of sparks. He tried nicking at it again—scraping around the scaliest bits, at jut the skin—but the knife didn’t leave so much as a scratch.
+
+“Stop stalling!” snapped Coldheart. “If you have not the will—”
+
+Dorian stabbed hard. There was a sharp CRACK.
+
+“Oops,” said Dorian, now holding a shaft, half a blade, and a severed blade tip. “Sorry about that. Is the knife important? Can I use my own claw for this?”Coldheart goggled at him.
+
+“That knife was specially made by the Master Artificer!” shrieked Coldheart. “It was forged of Sylvan Steel! An artifact with a ten millennium history!”
+
+“…I suppose I can have a go at gluing it together after this...”
+
+“You may use your claw,” growled Coldheart.
+
+This time, it took about ten seconds of hard digging to draw out a drop from the base of his palm. He dropped it in the clear water of the basin.
+
+A flash of light, sudden and bright as lightning, and the liquid turned the color of blood. A mask of black floated over the top of it, depicting a Torchdragon’s visage.
+
+“Perfectly pure,” breathed Coldheart, peering over Dorian’s shoulder. “Lineage of the Torchdragon. Rare indeed among the regal lines. And of the Fourth Form too…”
+
+He sniffed. “Adequate, I suppose.”
+
+Dorian suspected it was far better than adequate. Dorian suspected that it was among the best that’d ever graced this chamber—perhaps the best. Yet Coldheart seemed the type of old ass who was determined not to be impressed by anyone except for himself. Dorian couldn’t recall how he’d gotten into a feud with Coldheart. It was possible he’d offed the dragon out of sheer annoyance.
+
+“Onto the second door! The door of chains!”
+
+The door of chains led to a room much like the first. Same gold walls, same pedestal. Only this time the object atop it was a disturbingly familiar scroll.
+
+“You are to swear an oath!” By the tone and volume of Coldheart’s voice you’d think he was preaching at a congregation of ten million in a giant stadium, rather than shrieking directly into Dorian’s ear less than a foot away. “A soul contract! You must swear to wield my Inheritance… to kill that fucker Salas Godhunter!”
+
+His eyes bulged. “Avenge me!”
+
+Naturally this presented a bit of a conundrum.
+
+Dorian scratched his chin. It seemed a bit late to back out now, and he wasn’t keen on seeing what nasty surprises Coldheart had ready if he tried. Which left him only the option of finding a loophole.
+
+Which suited Dorian just fine. It felt like most of what he did in life anyways.
+
+“Well?” said Coldheart.
+
+“…Define kill?”
+
+“Are you stupid?” snapped Coldheart. “Destroy! Ruin! Annihilate!”
+
+You’d think being stuck haunting a tomb for millennia would mellow a spirit out, but Coldheart’s anger had only fermented in that time, apparently.
+
+So I can only inhabit one body at a time, per Bartimaeus’ Law of the Singular Soul. And I’m trying to maximize the power of one body right now. The best course of action would be to merge all my bodies.
+
+And he was pretty sure he knew exactly how to do it.
+
+He’d been thinking along these lines for a while. His core was a supergiant with frightening absorptive capacities. At the God level, he was already capable of absorbing Empyrean cores. What happened when he leveled it up? At Empyrean, could he absorb Godking cores?
+
+Could he, perhaps, absorb the essence of his past body—and convert it into his own?
+
+On the one hand its qi would be aspected differently. It wouldn’t merge easily with his own. On the other… its would be bound to him by soul already. He wouldn’t be trying to force merge with foreign qi, which would be orders of magnitude harder. And his Star System had shown some resilience before when dealing with unruly conflicting energies; its two halves, Fire and Darkness, had violently merged already, after all…
+
+It was a gamble. Best Dorian could tell, it would probably work?
+
+Which were a lot better of a chance than he was used to.
+
+So he gnashed his teeth, and shook his fist, and said, “Rest assured, O Dragon Ancestor! I shall end that bastard Salas for good!”
+
+He signed the contract and felt that hot twinge in his soul which marked the point of no return.
+
+“Good. Good!” said Coldheart. “What is your name?”
+
+“Dorian! Why ask now?”
+
+“Eight in ten contenders don’t make it past the first two trials. There is no point in asking prior.” He turned a narrowed eye on Dorian. “But ninety eight out of a hundred don’t make it past trial three, and the difference in difficulty is Heaven and Earth! And beyond that there is challenge four, which is the most challenging by far. Dorian! Enter door three, the Door of the Heart. The true trials… begin now!”

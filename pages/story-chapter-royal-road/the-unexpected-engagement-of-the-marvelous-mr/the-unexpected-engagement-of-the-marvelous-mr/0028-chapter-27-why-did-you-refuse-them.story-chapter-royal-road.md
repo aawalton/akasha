@@ -1,0 +1,389 @@
+---
+id: 5cf6b5df-37e0-5993-b3c4-edbf385e1af9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27 - Why Did You Refuse Them"
+slug: 0028-chapter-27-why-did-you-refuse-them
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 28
+ownLength: 3148
+unit: words
+publishedAt: 2022-06-18
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/930317/chapter-27-why-did-you-refuse-them"
+royalRoadId: "930317"
+---
+
+It was late before Haley finally made it back to the hospital. As he approached Eleanor’s room, he saw two men in uniform. One was Constable Braddock. The constable put a finger to his lips.
+
+Haley scowled and jerked his head back to indicate that the constable should come to him.
+
+Braddock frowned, but he obeyed the silent order.
+
+“Come on, Inspector!” Braddock whispered. “We were at the best part.”
+
+“What are you talking about?”
+
+“Super’s in there, getting the lady’s statement.”
+
+“Millward?”
+
+“It’s been a joy to listen to. I think she’s having fun.”
+
+“Has he said anything about the murder?”
+
+Braddock’s brow creased. “Murder?”
+
+“Millward knows. Has he mentioned it to her?”
+
+“Wha—uh, no, sir. What murder?”
+
+Haley looked back toward the room. “You’ll find out soon enough. Why is the door open?”
+
+“Room gets stuffy. They have the door and window open, trying to get a cross breeze.”
+
+Haley led the way back to the door. The other constable’s smile disappeared when he saw the inspector, but Braddock waved away his concern.
+
+Would they get in trouble for listening in? Not likely. Haley took the best place for himself.
+
+He could hear Eleanor’s voice: “—don’t know what happened after that. Remember, I was trying to stay calm—”
+
+“Trying to stay—listen, Lady Serrs, you’re telling me that you had a battle going on behind you, and all you did was sit there and breathe?”
+
+“One would hate to fall prey to the hysterical female stereotype. Staying calm seemed like a worthy focus.”
+
+“All the same—”
+
+“Superintendent Millward, what exactly is it that you want me to say?”
+
+“Fine. You breathed. What happened next?”
+
+“Penn helped me to my feet. Those two ruffians were gone—”
+
+“I told you, Lady Serrs, those were our officers.”
+
+“How were we supposed to know that?”
+
+“Then what happened?”
+
+“He walked me over to the street lamp. We waited there. I think he wanted to make sure that the police would find me.”
+
+“Why didn’t you go to them yourself?”
+
+“I wasn’t feeling well.”
+
+“Err, right. Sorry. Go on.”
+
+“Inspector Haley found us—”
+
+“Us?”
+
+“Yes. Mr. Penn stayed with me.”
+
+“That sounds risky, now doesn’t it?”
+
+“Very risky. The man’s a bit of a fool that way.”
+
+“And then Haley let him go, didn’t he?”
+
+“Inspector Haley took charge of me and brought me to the hospital.”
+
+“Letting Penn go in the process.”
+
+“Well, yes, I suppose the inspector could have left me bleeding on the street in order to pursue Mr. Penn, but for whatever unfathomable reason, he didn’t. I’m sorry if that disappoints you, Superintendent, but at the time, all I felt was grateful.”
+
+“And that’s everything you know?”
+
+“I’ve finished telling you what happened yesterday, yes.”
+
+“That’s an oddly specific answer.”
+
+“It was an unfortunately vague question. I doubt you actually want me to try to recite the contents of every book I’ve ever read.”
+
+Haley smiled, but he also felt a twinge of sympathy for his superior. This was Eleanor Serrs, the Great and Terrible, at her finest. She would never lie to him, but she certainly wasn’t going to tell him the truth.
+
+The inspector stepped away from the wall and knocked on the door frame so the two people inside would know he was there.
+
+Eleanor was sitting on the edge of the bed. She was back in her own clothes, but the cuffs of her shirt had been opened and folded up to her elbow. When she saw him, she managed not to smile, but Haley recognized the laughter in her eyes. His heart sank.
+
+“Good evening, Inspector,” she said.
+
+“Good evening, Lady Serrs.”
+
+Millward got to his feet. He was an older man. He had the slight pudge of someone who had married a good cook, but he did his best to keep fit. He wore his spectacles as little as possible; they often hung around his neck or were perched on his head. Right now, they were hanging from his jacket’s breast pocket.
+
+On the whole, Haley thought he was a good man. He had often wondered how things would have been between them if his father had never intervened.
+
+“Haley,” Millward said.
+
+“Sir, I understand you’re here to get Lady Serrs’ statement?”
+
+“I am.”
+
+“I apologize for intruding, but I wanted you to know that I’m here, and I need to talk to her about that other matter.”
+
+Millward scowled and nodded.
+
+“Do you need more time?” Haley asked. “I can leave and come back.”
+
+“No, Inspector. I think I’m done here.” He eyed Haley, perhaps hoping to read the truth in the inspector’s face, but then he looked away and grumbled under his breath. “I don’t envy you this case, Haley. Let me know if you need help.”
+
+“Thank you, sir.”
+
+The superintendent turned. “Goodbye, Lady Serrs. Please be careful with yourself. Doubly so wherever Ryce Penn is concerned.”
+
+“Thank you, Superintendent. I’ll be careful.”
+
+When Millward left, Haley shut the door. He was moving slower than usual, but Eleanor failed to notice.
+
+“I’m glad you caught me,” she said. “I was about to leave.”
+
+“They’re letting you go?”
+
+“The chauffeur arrived right before Superintendent Millward did. Why does he have it in for you so badly?”
+
+“You think he does?” Haley sat down on the chair his superior had vacated.
+
+“You could tell by his questions. It’d be hard for me to say which person he wants to catch more, you or Penn. Does he dislike you?”
+
+“Maybe I’m not very likable.”
+
+Eleanor gave him a look. “I find that hard to believe.”
+
+Haley’s heart dropped another fathom. Just wait.
+
+He said, “Miss Serrs, I’m sorry to delay your return home, but I have to talk to you. I have some bad news, then I have to ask you a few questions.”
+
+Haley found it hard to look directly at her, but he watched her face from the corner of his eye, and he saw it instantly fill with tension.
+
+“What is it?”
+
+“Dominic Winfield is dead.” He saw the shock hit her. “He was murdered last night around nine or ten o’clock.” He watched the color drain from her face and the pain enter her eyes. “We have reason to believe it has something to do with you.”
+
+Eleanor buried her face in her hands.
+
+Haley had done many difficult things as a policeman, but saying that to her was one of the worst.
+
+She’d had enough. So had he. He sat there and said nothing.
+
+“How was he killed?”
+
+Eleanor had spoken into her hands. Haley only caught what she’d said because he was sitting so close and the room was quiet.
+
+“Miss Serrs…”
+
+“Please.”
+
+He didn’t have the heart to refuse her. It had fallen into some oceanic abyss by then. “He was hit on the left side of his head with a blunt object.”
+
+“The murder weapon?”
+
+“We suspect it was a collector’s egg—a large mineral rock—he had on his mantle as a decoration—”
+
+“The malachite.”
+
+Haley brought his hand up to his mouth. At some level, he knew Eleanor had known Winfield, but he hadn’t expected her to know that kind of a detail. A deep unease settled around him.
+
+The inspector lowered his hand to the arm of the chair. “Have you seen it?”
+
+“No.” Eleanor moved her hands, but she wouldn’t look at him. “He described it to me once. He called it his one folly. He kept it, even though it was useless, because he fell in love with the pattern.” She paused. “Why do you think it was the murder weapon?”
+
+“We can’t find it. Nothing else was taken, and little else was disturbed.”
+
+“He didn’t fight?”
+
+“It’s hard to tell. The objects in the room were sparse. If the fight was short or there wasn’t much of a struggle, there’d be no sign.”
+
+“But the egg was taken?”
+
+“And his manservant says that it wasn’t particularly valuable.”
+
+“So it was most likely removed because it was the murder weapon.” Eleanor had to struggle for the next words: “Why do you think it has to do with me?”
+
+“Noah Jeffery was Dominic Winfield’s manservant. Winfield had him place the order for your wedding invitations with Mr. Russel.”
+
+Eleanor hid her face again. “Why would he do that?”
+
+“We don’t know yet.”
+
+“Why, Haley?”
+
+“I’m sorry, Miss Serrs. I don’t know.”
+
+“What does it have to do with his murder?”
+
+“Last night, Jeffery heard Winfield talking to someone on the phone about your kidnapping. The papers were all saying that Penn had done it. Since Winfield was the one who had dragged Penn’s name into it, he was probably worried about his involvement. Jeffery heard him say to the person on the phone that they needed to go to the police—”
+
+“You’re saying that someone else was involved in this mess and that they murdered Dominic because of it?”
+
+“I’m saying that’s the most likely theory.”
+
+Eleanor suddenly stood up from the bed. She walked over to the far corner of the room. Her hands must not have been enough cover; she wrapped her arms around herself and leaned her head against the wall, allowing the nook to hide her.
+
+“What did I do?”
+
+“This isn’t your fault, Miss Serrs. I have your alibi—I know you didn’t do it.” Haley took a breath. “And I know this is hard for you, but I have to ask for your help.”
+
+She rolled her head enough she could see him. “How can I help?”
+
+Haley swallowed. “Why did you refuse to marry them?”
+
+Eleanor shook her head and pushed away from the wall. “No.”
+
+“Miss Serrs, I need as much information as I can get. You’re at the center of this, and I need to understand what happened—”
+
+“I never wanted any of this!”
+
+“I know! I know that. Please, Miss Serrs.”
+
+She shook her head again and stared at him with defiance.
+
+Haley’s face hardened. “I can compel you. This is a murder investigation. Please don’t make me do that.”
+
+He saw the moment her will crumpled.
+
+With closed eyes and a lowered head, she said, “They didn’t want me. None of them. They were pushed into it.”
+
+Haley kept his mouth shut.
+
+“I knew my father would try to set up my matches, but a part of me hoped it wouldn’t make too much of a difference.” She shook her head. “While they were courting me, they would say everything they were supposed to say—all the right words and phrases—but you could tell they didn’t mean a word of it. How could they? They didn’t even know me. If any of them—any one of them—had even a scrap of courage. At least enough to be honest with me.”
+
+She raised her head and glared at him.
+
+“I know exactly how much my father loves me, Inspector. It isn’t much. But it’s because he’s never tried to hide what little regard he has for me that at least I can trust it’s real. And when I had to listen to them tell me how much they adored me, it felt so hollow it hurt. I couldn’t live with that—” She stopped and had to take a breath. “I couldn’t live with that kind of loneliness. So I told them no.”
+
+She lowered her eyes.
+
+The silence that followed was a long one.
+
+Haley said, “Was Dominic Winfield different from the others?”
+
+“At first I thought he was. I was wrong. Inspector Haley, I would like to go now.”
+
+“I understand. If I have any other questions, I’ll find you.”
+
+Eleanor walked toward the door.
+
+Haley waited until she was past him to say, “Lady Serrs, thank you for telling me. I appreciate how hard it must have been.”
+
+She had stopped. He knew that. He couldn’t hear her footsteps. His nerves were humming like a cord stretched to its limits, but she left without saying anything to him.
+
+When he heard the door shut, he closed his eyes and pinched the bridge of his nose hard enough an outsider might think he was trying to crush it.
+
+Then a voice floated in from the open window.
+
+“Tell me, Inspector, would killing Duke Aubrey-Serrs be considered a murder or an act of public service?”
+
+Haley opened his eyes. A man was leaning against the outside wall. Haley could see his sandy hair and the back of his right shoulder. His sleeve was rolled up. In his right hand was a set of leather gloves and what looked like the handle of some gardening tool.
+
+“I’m asking on behalf of a friend,” the man said.
+
+Lucas vaulted over the bed.
+
+Penn heard the noise, swore, dropped the tools he’d acquired, and set off running before the inspector had finished diving out the window.
+
+As Penn pounded down the hospital’s drive, he yelled over his shoulder, “Don’t you think this is a bit undignified?”
+
+“Keep talking, Penn! You run slower!”
+
+They were three streets away when Penn dodged behind a series of food stands. Haley was there a second later. The two men squared off with piles of fruits and vegetables between them, as well as one confused vendor.
+
+Penn dodged one way, then dodged back when Haley edged after him. “Look, I’m sorry Eleanor’s upset with you—I really am!—but do you have to take it out on me?”
+
+An apricot smashed into his nose.
+
+“It’s Lady Serrs.”
+
+“Oh, yeah.” Penn’s voice was lower than normal since he was holding his nose with one hand. “That was graceful.” He sniffed, then looked at his pursuer. “Hey! If I’m not allowed to use fruit as a weapon, you’re not either!”
+
+“Ryce Penn—”
+
+“Not this again.”
+
+“—I have a warrant for your arrest.”
+
+“Believe me, I know. Do you have to say it every time?”
+
+The vendor, upon learning that she had the city’s most notorious thief in her stall, let out a shrill gasp and shoved him toward the other end.
+
+Penn started running. Haley followed.
+
+The thief felt a real pang of fear for his freedom when he glanced back and saw how close the inspector was. He dodged into the next alley so Haley would have to slow down to make the turn.
+
+There was a tall, board fence at the end of the alley. Penn leapt, got one hand on the top, and launched himself over. When he landed on the far side, he crouched there, listening. He heard the slap of Haley hitting the wall and saw the inspector’s fingers curl over the end of the boards.
+
+Ryce groaned, got up, and kept running.
+
+“You know, you never thank me for all this training I’m giving you,” he yelled.
+
+“Shut up, Penn!”
+
+“I thought I ran slower when I talked.”
+
+Two streets further, Penn turned into another alley and staggered to a halt. If it was death or prison, he’d take prison; he needed to breathe. Haley stopped at the end of the alley to keep him from escaping. The thief was relieved to see the inspector was bent over, one hand on his thigh, and gasping almost as much as he was.
+
+Ryce hobbled two steps closer. “Look, I thought we might be able to talk about this murder of yours.”
+
+“No!”
+
+“All right! All right. Fox and hound then. Our favorite game.”
+
+“Stay out of this. I finally have a crime I can prove you weren’t involved in—for the love of god, leave it alone!”
+
+“That doesn’t make any sense at all. If I’m not harassing you, then that means I’m out stealing something, and we can’t have that! It’d distract you from your investigation.”
+
+“Then don’t steal anything!”
+
+“I’ve considered the option. It doesn’t appeal to me.”
+
+Haley leaned back against the wall and closed his eyes for a moment.
+
+Penn approached by another two steps. The only thing between them was an old metal hitching post. The thief leaned back as well.
+
+“Haley, do you smoke?”
+
+“No. I have to chase you.”
+
+For a few seconds, the only sound in the alley was heavy breathing.
+
+“What about you, Penn?”
+
+“No. I have to run from you.”
+
+There was the sound of out-of-breath laughter.
+
+Haley looked at the thief. “Do you have any other enemies I need to know about?”
+
+“If you mean dangerous ones, I don’t think so. You took care of most of them for me last night. Thank you, by the way.”
+
+“Taking out Farnham was my pleasure.” The inspector hesitated before muttering, “Thank you for getting Lady Serrs out safely.”
+
+“Oh, no,” Penn said. “That you don’t have to thank me for. It was my fault she was there, and I would never have forgiven myself if she was hurt.”
+
+“She was hurt.”
+
+“I know.”
+
+As the silence stretched on, Penn glanced at his adversary.
+
+Haley was gazing at him with a bemused look on his face. “Why are you a criminal?”
+
+The thief shrugged. “Probably for the same reason you’re a policeman.”
+
+“Because you believe in upholding the law?”
+
+“Ah. Well, no. I thought you did it because it was exciting.”
+
+Haley stood away from the wall and turned to Penn. “All right. Rest time is over. I’m placing you under arrest—”
+
+“You’re trying to place me under arrest,” Penn said as they faced off.
+
+Haley put his hand under his jacket and pulled out a set of handcuffs. They were already open and set to spring.
+
+They went for each other at the same time.
+
+Haley swung with the fist holding the handcuffs. When Penn dodged, the inspector used his other hand to grab the thief’s wrist. Penn twisted out of it and wrapped his arm around Haley’s elbow. The inspector moved closer to prevent the thief from hyper-extending his joint. That brought him close enough to land an uppercut in Penn’s side. The thief winced. Haley used the moment to get one side of the handcuffs on Penn’s wrist. Penn elbowed him in the chest and forced the already bound wrist into the other half of the cuffs. He turned so his back was at Haley’s chest and pressed the release catch to lock the cuff.
+
+His triumphant laugh at having acquired a new set of iron bracelets was cut off when the inspector threw an arm around his neck. Penn shrugged his shoulders to toss Haley to the ground, but Haley wouldn’t let go. They both tumbled.
+
+Penn, however, knew how to roll, and Haley’s leg hit the metal hitching post with enough force to make him cry out. The thief was on his feet and running before Haley could even get to his knees.
+
+The inspector cussed as he scrambled to his feet. By the time he limped to the alley’s corner, Penn had disappeared. Haley leaned on the wall again and dropped the back of his head against the brick.

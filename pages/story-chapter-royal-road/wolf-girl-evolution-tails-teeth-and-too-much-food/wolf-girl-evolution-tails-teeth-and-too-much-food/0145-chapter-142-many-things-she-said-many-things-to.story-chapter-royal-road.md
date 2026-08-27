@@ -1,0 +1,693 @@
+---
+id: b8ffffd8-0d10-56a5-858b-9ad52e5669fd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 142: Many-Things She Said, Many-Things to Bite"
+slug: 0145-chapter-142-many-things-she-said-many-things-to
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 145
+ownLength: 2726
+unit: words
+publishedAt: 2026-07-20
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3703231/chapter-142-many-things-she-said-many-things-to"
+royalRoadId: "3703231"
+---
+
+PoV Luna
+
+The town smelled worried.
+
+Luna did not like that!
+
+It meant everyone knew something was wrong, but instead of pointing Luna at the thing so she could bite it up, they kept doing all those weird human roundabout things!
+
+Like pretending nothing was wrong!
+
+While smelling all worry-like!
+
+The innkeeper smiled too much when Syliana asked for a room.
+
+His mouth did smile things!
+
+But his hands did not.
+
+They kept wiping the same clean patch of counter while his eyes twitched toward the window every time wagon wheels rattled outside. When someone laughed too loudly near the hearth, three people looked at the door before remembering laughs were allowed.
+
+Much pretending!
+
+Very human.
+
+Luna narrowed her eyes.
+
+A woman carried stew bowls between tables and told a man to stop frightening the new arrivals, but her shoulder smelled sharp with fear when she passed close. Two guards sat in the corner with food gone cold in front of them, their boots still muddy and their spears leaned where hands could reach fast. A child peeked from the stairwell until someone hissed his name and pulled him back out of sight.
+
+Everyone was doing normal.
+
+Badly.
+
+Luna leaned closer to Syliana.
+
+“Second.”
+
+“Yes?”
+
+“They are doing pretend calm.”
+
+“I noticed.”
+
+“Badly.”
+
+“I noticed that too.”
+
+“Then Luna go bite problem?”
+
+“No.”
+
+Luna’s ears lowered.
+
+Rude, hmph!
+
+Second also liked doing weird roundabout human things!
+
+So they did the roundabout things first.
+
+The guard from the gate had pointed them toward the cracked tower in the northern district, so Syliana went there first.
+
+Luna went too, because Luna was helping!
+
+Inside, Syliana spoke with several tired humans who had too many papers and too many worried smells. Luna tried listening at first, but the words became very blah blah very quickly, and the room had much better things to sniff.
+
+There was old stone, ink, wet boots.
+
+Fear.
+
+Metal.
+
+And a map!
+
+Luna stood beside the table and sniffed the map.
+
+The clerk looked alarmed.
+
+Syliana did not.
+
+“Luna?”
+
+“Old paper. Ink. Many hands! Bread crumb.”
+
+The clerk’s face twitched.
+
+“Bread crumb?”
+
+Luna pointed the piece out.
+
+“There.”
+
+The clerk removed the crumb with great dignity.
+
+Heh!
+
+Syliana kept doing blah blah talk for a while after that. Important blah blah, probably, because her face went serious and the tired humans kept lowering their voices.
+
+Luna did not need all the words anyhow!
+
+North road, old stones, missing people.
+
+Many-things bad.
+
+Yesh, Luna now knew enough!
+
+Eventually, Syliana left with a small stack of papers to ‘look through’.
+
+Luna looked at the papers, then at her Second.
+
+“Papers for biting?”
+
+“For studying.”
+
+“Hmph!”
+
+Studying was not biting.
+
+But Second looked serious, so Luna allowed the papers.
+
+For now.
+
+They went to an inn next.
+
+Luna allowed this because inns had food, and this inn smelled of excellent food!
+
+And it was very nommy, Luna checked!
+
+The bread had a hard crust and soft insides. The stew had little root pieces with just the right chew! The roasted meat had sharp pepper on it, which made Luna’s nose wrinkle the first time and then made her want more immediately after.
+
+Not as spicy as what Luna usually ate, but still good!
+
+Very clever meat!
+
+The innkeeper gave Syliana a room upstairs, gave Luna a curious but approving look after she ate two bowls of his stew and licked the bowl clean, and then very cleverly asked if Luna wanted more!
+
+“Yesh!”
+
+Good food always made Luna happy!
+
+Clever innkeeper, clever meat!
+
+By the time Syliana had asked him three careful questions about the northern road, Luna had eaten two more bowls of stew, four pieces of bread, roasted meat, and one suspicious little cake with dried fruit inside.
+
+The cake was not meat, but it was sweet and dense and vanished very nicely, so Luna approved!
+
+Her tail thumped at the chair approvingly too!
+
+But the innkeeper did not know enough. Or he knew enough to not want to say too much in the common room. Humans were like that sometimes.
+
+They knew things sideways!
+
+But Luna listened while she ate, because she was helping.
+
+Also because people who thought they were whispering near food were often not whispering at all.
+
+“…third team this month.”
+
+“They should have closed the northern road already.”
+
+“With what? Half the guard is escorting wagons now.”
+
+“It took an entire cart.”
+
+“Not all of it.”
+
+“Enough of it.”
+
+Luna’s ears twitched.
+
+The stew became less important.
+
+Not unimportant! That would have been ridiculous! Just a little… less.
+
+She leaned closer to Syliana.
+
+“Second.”
+
+“Yes?”
+
+“They keep talking about biting problem.”
+
+“They are talking about people vanishing.”
+
+“Yesh. Because problem not bitten yet!”
+
+Syliana’s eyes flicked toward the men speaking by the hearth, then back to Luna.
+
+“Not every problem can be solved by immediately charging at it.”
+
+Luna considered that.
+
+Then rejected the silly notion entirely!
+
+“This one smells biteable.”
+
+“That is still not enough.”
+
+“Hmph.”
+
+Syliana’s hand settled briefly between Luna’s ears, which was nice but did not make her correct.
+
+They went upstairs after that, because Syliana wanted space to read the copied notices and notes the innkeeper reluctantly provided after enough coin, calm words, and elfy staring.
+
+Papers.
+
+Many papers.
+
+Luna lasted almost three whole minutes.
+
+Then she opened her Maw and took out her emotional emergency jerky!
+
+Syliana read.
+
+Luna chewed.
+
+Syliana turned a page.
+
+Luna took out more jerky!
+
+Syliana made a small mark on one paper.
+
+Luna took out meat.
+
+Proper meat!
+
+A roasted Granidrake haunch, still good because Maw was excellent and did not let victory meat become sad!
+
+Luna tore off a bite and thought very hard.
+
+The thinking victory meat helped, but not enough. The room smelled of old wood, rain, ink, Syliana, paper, worried town, and many-things bad drifting faintly from outside whenever the wind pressed the right way. It made Luna’s feet want to move.
+
+So as soon as her meat was properly warming up her belly – Luna moved.
+
+First she hopped from rug to bed.
+
+Then from bed to chair!
+
+Then from chair to floor.
+
+Then she Shadow Stepped to the top of the wardrobe because it was there and clearly needed inspecting.
+
+Syliana’s eyes lifted from the paper.
+
+“Luna, what are you doing?”
+
+“Inspection!”
+
+“Of the wardrobe?”
+
+“Suspicious tall box.”
+
+“It is not suspicious.”
+
+“Then why tall?”
+
+Syliana stared at her.
+
+Luna stared back from the top of the wardrobe.
+
+The wardrobe creaked.
+
+Syliana sighed.
+
+“Please get down before you break the innkeeper’s furniture.”
+
+Woo!
+
+Humans cared too much about furniture!
+
+Luna stepped through shadows and appeared upside down above Syliana’s chair, held near the ceiling by shadows curled around the beams.
+
+Syliana did not startle, only looked up slowly.
+
+Disappointing!
+
+Luna crossed her arms while hanging there.
+
+“Second!”
+
+“Yes, upside-down Luna? What is your wisdom?”
+
+“Why not go bite problem?”
+
+“Because we do not know enough yet.”
+
+“We know bad bad happens and smell leads!”
+
+“We know only the general direction the smell leads to. We know it is corrupted. We know it may be a chimera. We do not know where it lairs, how it hunts, whether it is alone, or whether someone is directing it.”
+
+Luna frowned.
+
+The hanging made her ears point at the floor.
+
+“Find smell. Follow smell. Bite smell. Simple!”
+
+“If we follow it blindly and it retreats into prepared ground, we could lose the victims we are trying to save. Or get surrounded. Or miss the thing controlling it.”
+
+Luna’s ears folded.
+
+She did not answer right away. She looked at the papers spread across the bed, then at the window, then at Syliana’s hands resting near the notes. Her tail gave one unhappy flick.
+
+Too many things.
+
+Too many hidden things!
+
+Too many reasons why biting had to wait.
+
+Luna stepped closer to Syliana’s chair, shoulder brushing her knee. Then she leaned harder, as if the contact might make the explanation less annoying. Syliana’s hand rose automatically and settled between Luna’s ears.
+
+Luna grumbled.
+
+The grumble did not make the hand stop.
+
+Good.
+
+“Still hate waiting,” Luna muttered.
+
+“I know.”
+
+“Biting better.”
+
+“Often.”
+
+“Then bite!”
+
+Syliana set the papers aside.
+
+Luna’s ears twitched.
+
+That was better. Papers were attention thieves!
+
+“Come here,” Syliana said softly.
+
+Luna was already close, but Syliana pulled her in properly, guiding her down until Luna ended up kneeling between her knees, with both arms wrapped around her packfriend waist. Syl held her back just as firmly, one hand in Luna’s hair, the other moving in slow strokes down her spine.
+
+Luna pressed her face into Syliana’s stomach and huffed.
+
+“Second too roundabout.”
+
+“Sometimes.”
+
+“All humans too roundabout!”
+
+“Frequently.”
+
+“Ugly things bite and drag. Humans should just bite back!”
+
+“Most of them cannot.”
+
+Luna lifted her head.
+
+“But they have guards.”
+
+“Yes.”
+
+“And adventurers.”
+
+“Yes.”
+
+“And pointy sticks!”
+
+“They do.”
+
+“Then why?”
+
+Syliana brushed a thumb along the base of Luna’s ear.
+
+“Because training takes time, and most of them are not as strong as you.”
+
+Luna stared.
+
+That was true.
+
+But also stupid!
+
+“They can get strong.”
+
+“They can try.”
+
+“They should try harder!”
+
+Syliana did not answer right away. She kept petting, warm and slow, while Luna’s frustration shifted under her skin and found more words.
+
+“If problem too strong, hunt strong meat. Eat strong meat. Get stronger! Then hunt stronger meat. Then eat stronger meat. Then get stronger again! If one human not enough, pack hunts. If pack not enough, bigger pack hunts! If still not enough, run away quick, train more, come back, bite later!”
+
+She pushed up higher, half-climbing against Syliana as she explained, because this was important and Syliana needed to hear it properly.
+
+“That is how things work!”
+
+Syliana looked down at her with soft, serious eyes.
+
+“For you, it often does.”
+
+“For pack,” Luna insisted.
+
+“For pack too,” Syliana agreed gently.
+
+Luna’s throat tightened.
+
+Once Syliana agreed, all the other things came rushing after it.
+
+“Luna has been very conside—hic—rate.”
+
+The word caught in her throat, and she felt the tears burning her cheeks. Luna hated it immediately.
+
+She tried again.
+
+“Conside-hic-rate.”
+
+Syliana’s arms tightened around her.
+
+“You have.”
+
+“Luna listened,” she said into Syliana’s shirt. “Luna did roads. Luna did slow. Luna did not bite things when Second said wait. Luna did proper human ways because Luna wanted pack to be good and well and not make bad trouble for pack!”
+
+Syliana’s hand moved down her back again. Slow and warm.
+
+Luna clung harder.
+
+“But pack not here now! Ray not here. Trianna not here. Sepio not here. Veric not here. Luna and Second here, but pack scattered! And we are not hunting strong meat. And training is little. And Luna listened, and now everything is bad anyway!”
+
+Her voice broke.
+
+She shoved her face harder against Syliana before the wet in her eyes could become more obvious.
+
+“And Second promised training,” Luna said, smaller. “And running was nice. But Second training is poses. And breathing. And sitting. And meditating. And tiny magic things.”
+
+“I know.”
+
+“Woo with sitting!”
+
+Syliana did not laugh.
+
+She only bent closer and rested her cheek against Luna’s hair.
+
+“I know.”
+
+“Luna wants real training. Running training. Jumping training. Biting training. Big hunts. Strong meat. Awoom until paws burn. Then eating. Then more zoom-awoom!”
+
+Her fingers curled into Syliana’s clothes.
+
+Careful.
+
+Still careful.
+
+Even now.
+
+“Luna wanted pack strong,” she whispered. “Strong enough to bite back. Or run away quick. Wanted Second proud. Wanted everyone safe. Wanted to do proper human way because Second knows human things, but proper human way is slow and pack is away and bad things keep being bad.”
+
+Syliana drew in a quiet breath.
+
+Then she kissed the top of Luna’s head, right between her ears.
+
+Luna froze.
+
+Her ears went hot.
+
+“Second.”
+
+“You are a bright and precious little girl,” Syliana said, voice low and full of warmth.
+
+Luna made an embarrassed, wounded sound and buried her face again.
+
+“Rude.”
+
+“I know.”
+
+“Too embarrassing.”
+
+“I know.”
+
+But Syliana kept holding her. She rocked her gently, and Luna could feel the motion through her chest and shoulders. Her hand stroked through Luna’s hair, then down her back, then circled between her shoulders where the tightness had gathered.
+
+“I am sorry,” Syliana said.
+
+Luna went still.
+
+“I should have noticed sooner. You have been trying so hard to listen, to wait, to trust me, and to do things the way you thought would help everyone else. I am proud of you for that. Very proud. But I should have made more room for what you want and need too.”
+
+Luna sniffed.
+
+“Luna right?”
+
+“Yes,” Syliana said. “You are right. It should not have been this way.”
+
+That made the tears come properly.
+
+Completely unfair!
+
+Luna had wanted being right to feel triumphant. Instead, her eyes leaked and her throat hurt, and Syliana only held her closer while she cried into her shirt.
+
+For a while, there was no talking.
+
+Only Syliana’s arms.
+
+Syliana’s hand.
+
+Her friend’s quiet rocking.
+
+Rain against the window.
+
+Luna’s own hiccuping breaths slowly becoming less awful.
+
+When Syliana spoke again, her voice stayed soft.
+
+“We will deal with this bad thing first.”
+
+Luna sniffed against her.
+
+“Bite it?”
+
+“Yes.”
+
+“Good.”
+
+“And after that, we will go to places you want. Wild places. Open places. Places with real hunts.”
+
+Luna lifted her head a little.
+
+“Strong meat?”
+
+“Strong meat.”
+
+“Big hunts?”
+
+“Yes.”
+
+“Real training?”
+
+“Real training.”
+
+“With awoom, and zoom, and good spiced foods?”
+
+“Yes Luna, with awoom. And anything else you might want to try.”
+
+“And biting?”
+
+“We will find good biting targets too.”
+
+Luna considered that.
+
+“Many targets?”
+
+“Enough targets.”
+
+“Medium many!”
+
+Syliana brushed another tear from Luna’s cheek.
+
+“We can start there.”
+
+That was acceptable.
+
+Mostly.
+
+“And I will teach you some magic too,” Syliana added.
+
+Luna’s ears lifted despite everything.
+
+“Moon and shadow tricks?”
+
+Syliana looked briefly toward the rain-dark window, where faint moonlight touched the glass.
+
+“Yes. I think so.”
+
+“And then Luna bites the moon?”
+
+Syliana’s mouth softened.
+
+“One lesson at a time.”
+
+Hehe.
+
+That was not no!
+
+She was too tired to pounce on it properly, but she understood the important part.
+
+Second was going to teach Luna!
+
+Her tail thumped once, and she mlemmed her Second once, and Syl allowed it!
+
+Yesh!
+
+Then Syliana kissed her forehead again.
+
+Woo–!
+
+That was still embarrassing.
+
+…But nice.
+
+Luna settled against her sleepily, but one last worry still pushed at her chest.
+
+“Bad things still out there.”
+
+“Yes.”
+
+“Many bad things.”
+
+“Yes.”
+
+“Possibly strong bad things?”
+
+Syliana’s hand continued its slow path down her back.
+
+“There are many strong things in the world. Some are good. Some are neutral. Some are dangerous only if someone enters their territory or takes what they consider theirs. Others take more than their share of meat, land, power, people, or worship.”
+
+Luna listened because Syliana’s voice stayed warm and because her hand did not stop.
+
+“There are regions adventurers avoid because the work there costs more than it gives. There are monsters old enough that kingdoms build roads around their territories and dare not step inside. Concepts of old that do not want to stay dead. Hidden cults, hidden powers, shadow organizations, and enemies few can find until they make a mistake.”
+
+Luna’s nose wrinkled.
+
+Too many.
+
+Too many kinds, and too much hiding.
+
+“Then we do Luna’s plan,” Luna mumbled. “Sleep well, eat meat. Get stronger! Hunt stronger meat, repeat! Luna stronger and pack stronger too! Then we bite all the bad bad that plot and hide!”
+
+Syliana held her closer.
+
+“Yes,” she said. “We make everybody stronger.”
+
+Luna breathed against her for a moment, small and uneven.
+
+“With training.”
+
+“Yes.”
+
+“And hunting.”
+
+“Yes.”
+
+“And strong meat too, importantest!”
+
+“Yes.”
+
+Luna’s ears shifted weakly.
+
+“And meatloaf!”
+
+Syliana’s hand paused for only a moment before continuing.
+
+“And meatloaf.”
+
+Luna’s eyes were getting heavy now.
+
+That was annoying. She still had complaints!
+
+“Meatloaf awoomazing invention!”
+
+“I will remember that.”
+
+Luna’s tail gave one small, sleepy thump.
+
+“Ehehe.”
+
+Syliana kept rocking her.
+
+“Sleep, Luna.”
+
+“Not sleepy.”
+
+“No?”
+
+“No. Still complaining.”
+
+“You can complain tomorrow.”
+
+“Will.”
+
+“Mhm.”
+
+Luna tried to huff.
+
+It came out small.
+
+Syliana’s hand moved through her hair one more time, slow and warm.
+
+Luna fell asleep against her friend’s precious warmth.

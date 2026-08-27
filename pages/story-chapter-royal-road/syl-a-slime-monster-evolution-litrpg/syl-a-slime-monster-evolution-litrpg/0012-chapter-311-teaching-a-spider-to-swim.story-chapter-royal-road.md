@@ -1,0 +1,155 @@
+---
+id: 0c0725fc-cb9a-5c85-9e3d-de3e998cabe8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 311 : Teaching a Spider to Swim"
+slug: 0012-chapter-311-teaching-a-spider-to-swim
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 12
+ownLength: 2210
+unit: words
+ownProgress: 2210
+publishedAt: 2025-11-10
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2747683/chapter-311-teaching-a-spider-to-swim"
+royalRoadId: "2747683"
+markedReadAt: "2026-06-29T19:42:10.309Z"
+---
+
+We spent the next few days slowly heading up the coast towards whatever the marker was on the crude map. I kept checking on Vee and her quest to see if there was any update, but no further exclamation marks were added to the "urgent," so we assumed that Unc just wanted us to continue heading towards it.
+
+While there was some underlying humor in his constantly updating it with excessive punctuation, I couldn't help but feel slightly annoyed about it.
+
+Why couldn't he have just updated it to have a detailed description? Either he couldn't, or maybe he was being frugal with his "god points", or whatever resource he used to interact with the world.
+
+Our time was mostly spent fishing on the coast, swimming in the sea, hunting for food, and practicing magic. I was slightly miffed that Vee had somehow not only caught up, but surpassed me in [Dimension Magic].
+
+I had figured out [Rift Door], reversed [Expansion] into creating [Reduction], and created the monstrosity that was [Displaced], but Vee had seemingly gotten more from teleporting food into her stomach? I wasn't typically one to complain, but it didn't seem fair.
+
+Perhaps she was the first being in history to store and teleport food or air into transdimensional organs, which is why she received extra rewards? If that's the reason, I could understand the fuss for such a crowning achievement.
+
+I didn't blame Vee; I was just a little bitter that mine was still stuck at level four, despite my continued efforts to practice.
+
+During our swimming practice, Vee and I would send magical projectiles at one another and practice moving around and avoiding them underwater. This was the best way I could think of to level our [Aquatic Finesse], and the training together seemed to be working wonders.
+
+The unfortunate part for Vee was that her body just lacked the natural means of moving about underwater. Her best bet was to "row" with deliberate strokes of her legs, but it certainly lacked in the speed department, even with [Aquatic Finesse] giving her some benefits from the system.
+
+However, despite her usually whimsical attitude, Vee was not dumb and soon figured out some methods around this. The obvious choice was to utilize her newly discovered [Veil Step], as even though she was teleporting and not swimming, she still appeared to gain some benefits from [Aquatic Finesse] while submerged.
+
+The other method involved her shooting out a web and pulling herself along with it. While inferior to the utterly broken ability [Veil Step], Vee seemed to love it as she kept laughing madly while saying she was breaking the laws of physics.
+
+She also tried some minor experiments with creating flippers out of web around her legs, but other than making her look hilarious, it didn't seem to accomplish much.
+
+There was one final solution that Vee thought of, although she couldn't get it to work reliably outside of practice right now. She would create a thin tunnel of reduced space with [Reduction] and use it to traverse a considerable distance despite her mediocre swimming.
+
+Again, [Aquatic Finesse] seemed to be trying to help her by getting the positioning right while thinking more "three dimensionally", and thanks to [Triangulate], she seemed to be able to pull it off, albeit a little too slowly for her liking.
+
+I had my doubts about [Mana Shaping], but it's really allowing her to work quickly with spells. I'm admittedly a little jealous. Although once I've set up all my prepared weaves, I think I'll be better off in the long run.
+
+For my own training, I had Vee create an underwater obstacle course with [Rift Thread]. The alien thread ignored the water and would hang in place when she set it up, so that I could swim through as fast as possible.
+
+What was quite terrifying to discover was that [Stabilized Fluctuations] was actually making the [Rift Thread] harder for me to detect. If not for my absolutely insane trifecta of [Soul Sight], [Soul Sense], and [Soul Vision], I might have been in genuine trouble.
+
+The added factor of extreme danger, despite a training scenario, seemed to be adding the experience modifier as the skill was going up at a rapid pace.
+
+<Proficiency gained. [Aquatic Finesse LV 3] improved to [Aquatic Finesse LV 4].>
+
+Thanks to spending a lot of time in my slightly modified dolphin form, I was able to unlock the two traits I had been holding off on purchasing quite quickly.
+
+<Trait [??? LV 0] has become [Echolocation LV 1].>
+
+<Trait [??? LV 0] has become [Chemoreception].>
+
+Naturally, I borrowed [Untapped Potential] from the human profile to speed up the process and potentially gain some other traits or skills while fooling around.
+
+Despite neither of them actually having the word "sense" in their name, they had it in their descriptions, so I hoped they would qualify. I checked if they could fuse together, and to my relief, they could.
+
+This significantly improved the value of fused traits and skills in my mind. Unless I desperately needed a skill added to the group to benefit from my already invested levels, I would hold off on fusing unless it was a handful together to save on points.
+
+Speaking of which, I held off on fusing these two as I wanted to see if getting a few easy levels in [Echolocation] would improve my [Soul Sense] level. At present, if I fused the two into it, it would stay at level eight.
+
+I also had another reason. In the interest of saving points, I went through for any potential other senses I might have missed in my various profiles and discovered [Mineral Sense] from my beloved worm profile.
+
+"Do I even need this now that I'm a [Metal Slime], and more?" I pondered.
+
+"Of course you do! How else will you create bars of gold for our great Syl-Vee Empire?" Vee quickly replied. "If you can sense valuables for us, then duplicate them by smelting them together with slime, we could make a fortune! Also, what if there are new minerals in the deep ocean? Don't you want those for your collection?"
+
+"I see your point… I'll start working on it."
+
+And so I added [Mineral Sense] to my borrowed list and tried to keep it active at all times to learn it for myself. Aside from a few rare beach placer deposits of magnetite and hematite, I didn't sense much throughout our days.
+
+As we roughly neared the marking on the map, we started to notice boats off in the water. Naturally, I used [Soul Vision] to observe from a far distance and was pleasantly surprised to see humans aboard the vessels.
+
+"I guess it must be a human port town?"
+
+"Finally, civilization! Have you decided on your disguise persona yet?" Vee asked.
+
+"What about Sylvain the human Hydromancer?"
+
+"I guess that might explain why you are on the coast. But how do I fit in the picture?"
+
+"I started off as a tamer until I discovered my latent talent in water magic?" I suggested. "I don't think it has to be a perfectly crafted disguise with a full backstory… I just want to get some information about mermen, not really planning on settling down in the long term or anything."
+
+"I guess so. You should probably throw Aeromancer into your backstory too, I'm sure that would get you some respect from the sailors."
+
+"Sure, why not?" I shrugged.
+
+"And are you sure you don't want to just flash your gold adventurer tag and get the VIP treatment? I'm sure this place will have a guild branch."
+
+I shook my head. "I want Syl the elf to remain unknown for now. What if the Outeatus Kingdom has spies in the guild network, and they pick up that I'm here now? They might send agents to attack me again, or somehow feed the information to the Dornhallow elves."
+
+"Yeah… probably for the best, even if it means people might treat you like shit. You've gone from respected gold adventurer, to elven princess, to queen, and now you're just some nobody."
+
+"I think being a nobody has its own advantages," I countered. "And I'm sure money still talks."
+
+"Aren't all your funds tied to your adventurer tag?"
+
+"Uh…" I fumbled for an answer. "Shit. You're right. I'm so used to using that tag for everything. I'll be honest, I don't even know how money really works."
+
+"What if you register Sylvain at this branch? Then you could deposit money and use that tag for purchases."
+
+"It's a better solution than risking Syl or Sylvester's tags…" I admitted. "I just have to hope there's no issue with me registering twice."
+
+"Oh, like anti-forgery or something?"
+
+"That's my concern."
+
+"Well. What if you officially change your name to Sylvain using [Branch Head]?" Vee suggested. "That's assuming there even is some system in place that could see through your disguises."
+
+"I guess it would be better to be safe than sorry. Although I can't believe I'm officially changing my name again so soon."
+
+"What did you do for Sylvester?" Vee asked curiously.
+
+"Well, Syl hadn't registered with the Merchants Guild, so I assumed I'd be fine," I replied. "I specifically avoided having Sylvester register with the Adventurers Guild."
+
+"Well, if nobody brought it up back then, I think you'd be fine either way. But since the situation is a little delicate, let's not leave things to chance."
+
+Since our chances of running into humans had increased, I started spending less time as a slime and more time as Sylvain. I tried to keep my new human form as generic as possible, with no features that stood out too much, and with an age range somewhere between Dewi and Kurt.
+
+I really need to go visit my old friends. With [Dimension Magic], travel should be a breeze, assuming I can get the coordinates. It's too bad I can't get them retroactively from my previously visited locations. It's too bad I can't use [Mapping] together with [Triangulate], or at least not now anyway.
+
+Maybe Riftmancer will unlock something that lets me do that? Creating coordinates from landmark locations seems like a feature that should be included, right?
+
+We also started spending the nights underground, despite Vee's complaints. I didn't want to risk being discovered in the night, and I was enjoying being able to sleep while fully blobbed out. When we arrived in the city or town, I'd be confined until we left.
+
+Also, in the interest of having some spending money, I finally started to test out smelting with [Metal Slime]. We gathered all the various coins and objects we'd looted from the necromancer and his minions, which remained in my storage.
+
+Once sorted by their metals, I began melting them down with [Blaze Slime] and then adding the same amount of [Metal Slime] that matched their type. The process was actually fairly simple, as I could handle the melting hot liquids internally within my slime and keep the entire project contained.
+
+I experimented with the ratios, but increasing the slime content beyond fifty percent seemed to negatively impact the final product. I'd have to be content with duplicating metals, not tripling them.
+
+Of course, I could still fool people with primed [Metal Slime].
+
+Then it was just a matter of shaping and cooling down the products, which I could also handle entirely within my slimy self. I didn't want to forge fake coins, so instead I just made non-descript metal bars, hoping I could get them appraised for their value at the guild and deposited into my new account.
+
+It only took another day or two of slowly traveling to notice, in the distance, a port town. Ships had also become far more common, and unlike the large one we'd seen days prior, now there were smaller fishing vessels too.
+
+As we got even closer, we also started to see humans walking about. After seeing nothing but elves for what felt like ages, it was good to see some ordinary people again.
+
+The people seemed friendly, waving in passing as we crossed paths. I had given Sylvain some decent clothes, so he didn't appear to be some poor schmuck that crawled out from who knows where, and even sized down the hat to a more reasonable size.
+
+I'd honestly almost forgotten about the strange hat until I was in the process of outfitting my persona. Naturally, being forgotten and unassuming was likely the entire point of its existence, but even with that fact, it had remained entirely dormant after the teleportation fiasco. I wasn't sure if it was terrified of the elves or if it had been damaged somehow in the process.
+
+Well, it's not hurting me or anyone I care about, so I guess I can keep it out of my mind. Maybe when we go to Keld, I can ask that guy to look at it? He's some diamond adventurer, master enchanter, golemancer supreme, so maybe he can better understand what it is?
+
+As we approached the coastal town proper, a nearby guard gestured at me to come over. Naturally, I complied and casually walked up to him.
+
+"Greetings, traveller, and welcome to Saltport!"

@@ -1,0 +1,277 @@
+---
+id: b400b3e4-9e2f-5406-9cf6-ff312e150636
+page-type-slug: story-chapter-royal-road
+title: "298 (I) The Sky-Swallowing Carp [I]"
+slug: 0389-298-i-the-sky-swallowing-carp-i-3075830
+partOf: path-of-the-deathless-book-4-completed
+position: 389
+ownLength: 4967
+unit: words
+publishedAt: 2026-02-20
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3075830/298-i-the-sky-swallowing-carp-i"
+royalRoadId: "3075830"
+---
+
+“So, this carp keeps swimming up the waterfall, going all the way beyond the sky. Once it gets there, to the end of all things, it's not really a fucking carp anymore. It's like some kind of dragon or giant sky serpent that starts eating the sky.”
+
+“Why?”
+
+“You know, that's a good felling question. The story never really bothered explaining that part, just kinda skipped to the eating thing. I guess the carp was really bloody hungry after all those years of swimming up that stupid waterfall. And I guess going through so many Skill Evolutions you turn from a fish into some kind of sky-eating dragon makes you real godsdamned hungry too.”
+
+“No salt? No cooking?”
+
+“I—No, Shiv, the bloody sky dragon didn't do any cooking. I don't think he cared much about that. He just ate everything raw because he was a savage mongrel that might’ve gotten bigger, but didn't gain any taste or dignity along the way. I guess turning yourself into a dragon doesn’t do anything for how cultured you are.”
+
+“Why didn't the dragon build a restaurant around the world, so everyone had to go?”
+
+“The fuck—Broken Moon, this is what I get for telling a feral street child this story. Look, the dragon didn't do that because he's a fucking idiot. And you're being an idiot right now for overthinking everything about this story. The point is, you can be more than you are. You can swim up a waterfall and go from being whoever you are now into some kind of fucking sky dragon that likes eating everything raw.”
+
+“But I don't want to eat everything raw. I like cooked eggs.”
+
+“Then you can be a fucking sky dragon that turns the world into a cooked egg and eats it. The point is not eating everything raw. The point is that you can be more than you are. It's a story that's trying to encourage improvement and transformation. It's about you being better than who you were yesterday. And that's why I'm telling it to you right now. Stop thinking about the other things. Think about who you want to be. Think about what kind of dragon you want to turn into.”
+
+“An… egg dragon.”
+
+“Oh, for—Yes, yes, Shiv. You could be an egg dragon.”
+
+“Yeh! Egg dragon! Uh, is a potato dragon better?”
+
+“Fuck’s sake. This is the last time I’m using a fable to educate a felling child…”
+
+—Georges Archambault to Shiv
+
+298 (I)
+
+The Sky-Swallowing Carp [I]
+
+A heavy portion of Shiv's soul blossomed out of his body in a hissing spray of faint crimson steam. Concurrently, his Vitae changed as well. No longer did it resemble faint strands of white-red coiling through his body, rising out from the matter of his flesh like serpents peeking above the waves. The vital mana that supported his undying existence began to dissipate, whistling free in vaporous patterns, bleeding into a calamitous presence that clung tight to the Deathless’s being. Silence fell across the arena as his transformation continued. The Culturist's expression went from one of amused satisfaction to muted astonishment.
+
+Every Skill Evolution brought changes, be it in body, mind, or soul. This one, however, affected Shiv in all three domains at once.
+
+The first was a faint awareness that his consciousness was being split apart. Yet the severance wasn't complete. It was like his ego was dividing slightly. Like he existed in two places at once. Occupied two different vessels at the same time. His senses were being spliced away within his primary body that housed his mortal flesh, which was his physical avatar used to face the world directly; Shiv lost his ability to perceive vitality. The world grew dimmer, lost that bright and vital luster that has tinted everything touched by Integration. And then there was the coldness—that coldness of death, the coldness of a hollow expanse where nothing of life resided within his flesh, where his body proved just an embodied puppet of flesh and nothing more.
+
+To mark the separation he was undergoing, a faint vertical line ran down Shiv’s chest. It was like his core had been split in half. Through the slit of that wound bled the color of barren light, of something unseen. The Deathless placed a shaking hand over his chest, and from there he noticed the strange distortion of a faint, uncanny outline. It was the same kind of faintness he once possessed when his Vitaemancy was still the Revenant skill, where he was separated from the world and remained a vague silhouette until he absorbed enough life force to return. But rather than feeling drained, Shiv was unburdened. His body felt lighter than ever before, and his bones, his muscles, his very blood flowed through him became ever more noticeable, ever more clear to his remaining senses. No longer was he simply looking from the world within. Instead, he gazed from another perspective, one that loomed a step behind him, one that could maneuver free of his body, unburdened, unchained, but not disconnected; severed, but still whole—bound by a shared wound.
+
+Bound by the open cut that burned upon his parted chest.
+
+The very same cut hewed a patch of existence open behind Shiv. A portion of existence parted, and from between that gap emerged a blade of pure transparency, yet where the blade itself could not be seen, where it moved, it traced rivers of bleeding vitality, leaving shallow wounds upon the fabric of Integrated reality. Where there was nothing but a patch of nothingness at the center of the unseen blade, mists of red condensed until a blurred and bloody shadow of Shiv imprinted itself upon existence.
+
+As Shiv turned to face the manifestation of his newest skill, he found himself graced by more than one surprise. A strange and trinary union between his Golemancy, Knife Proficiency, and Vitaemancy looked back at him. Its form should have been invisible, unseen, and uncolored in reality. It didn't possess a presence here. It was separated. It was meant to be a bit too far, a bit beyond the context of the System to define. Yet the red clung to it like blood splashed upon the petals of an invisible flower. As it moved, bits of its body faded from reality, and after every passing second thereafter, more of it returned toward its transparent bladed core, leaving only twin trails outlined in red—Shiv’s Revenant state converted into a jagged blade.
+
+But that only detailed his material changes. Shiv's eyes widened as he realized all of his mana fields had been extracted from his body. Instead, they resided within the core of his new Revenant-blade-golem-thing. Shiv's mana hydra was no longer connected to his body. Instead, its heads were coiled around the core, and they were fainter than ever—almost imperceptible. His other four weaker mana fields were all but invisible, yet they were there. Shiv could feel them. As his Revenant blade lost every bit of crimson color it once possessed, Shiv watched as his Biomancy field vanished as well. The hydra was also rendered into faint sketches, the twelve heads of his Aegis turned into mere colorless outlines, and even less a moment thereafter.
+
+And finally came the most disconcerting change of all. He could see himself, or at least sense himself from another perspective. This perspective felt truer to his being. Like the roots of his soul had detached from the rest of his material senses. The world glowed. The world burned bright. He could feel the supple heat of the System and all the orcs around him. He could feel the life force sustaining Gone, sustaining Five, bleeding out from Candles nearby.
+
+And there was a single spot devoid of color amidst the sea of life-giving red. That was his own body. That was his form in flesh. He was little more than a slice marring the consistency of the realm. Yet, as he stared deep into the divide lining the core of his material body, he found himself looking through the eyes of his Blade-Revenant twice again.
+
+The entire experience was so uncanny it left Shiv feeling nauseous.
+
+"Deathless, are you well?" The Culturist's voice was low with worry. He sounded actually concerned for Shiv.
+
+"I, uh, might need to get back to you about that," Shiv replied. He swallowed, and there felt like there was a profound emptiness inside him. His biological functions were there, but something was missing inside his body. A great many things. His flesh no longer possessed any magic. Every bit of attuned mana that infused him remained tied to the Blade-Revenant—the Severed Shadow, as dubbed by his new Unique Skill.
+
+Tentatively, Shiv reached out, trying to touch the transparent, bleak heat at the Shadow's core. He hesitated as he noticed something else he'd missed earlier: his Shapeless Tides were devoid of all color, purely black and white. Holding his hand up before his face, and watching as his innate tides pulsed out, circulating through his now parted being, he realized something: his mana had been completely transferred over to his Severed Shadow, and that meant his magical resistance had likely been carved from his body as well.
+
+Shiv grimaced. He hoped that wasn't the case, remembering how much trouble dealing with magic had been before he obtained his Inertium Gauntlet, followed by his Legendary Magical Resistance. Shaking off his dissatisfied surprise, he reached out for his Severed Shadow once more—
+
+And flinched back violently as it combusted at his touch.
+
+Once more, the transparent form of his Severed Shadow was painted in dappled splashes of vivacious red. It materialized before Shiv, a vaporous twin to his physical form. But the moment he pulled away from its presence, its vital flame dimmed—until Shiv willed it to keep burning. With that thought, both the vertical cut on his chest and the blade nested at the Severed Shadow’s core grew bright. Suddenly, all of his senses multiplied. Everything he could see, feel, and do using his natural body became possible for his Severed Shadow. Such possibilities came at a cost. His new Revenant went from being a misted, translucent form to a solid mass of Vitae. Its exterior held the red-gold gleam of orichalcum, and snaking vectors revolved around its body, infused with a prismatic spectrum of colors. The Severed Shadow also radiated with every mana field Shiv possessed as well.
+
+And then there were the rippling waves that ebbed free from the Severed Shadow's contours. Shiv squinted at them, wondering what that was supposed to be. His body didn’t ripple with ebbing edges. He was about to reach out on a whim and use himself as a test subject before he realized how stupid he was being. Instead, he chucked the mutilated body of a nearby orc at his Severed Shadow, and the body was promptly split smoothly in two. It seemed that everything which got near his Severed Shadow was hewed clean through by some kind of cutting aura.
+
+Not only that, he felt himself tear through the orc's body like a hot wire being dragged through a block of cheese. But that wasn't the only thing his Severed Shadow was cutting. With every passing second, it was leaving a faint wound on existence, tearing through the skin of the System and leaving shallow cuts wherever it went. He could feel the System's bleeding warmth wash over him, bathing his Severed Shadow. It was part of the reason why he could see the Severed Shadow at all. It was constantly being drenched in vitality, as opposed to its faint and sheathed form earlier.
+
+Wait, does that mean my Vitaemancy is just ripping through the lifeforce of the System when I use it? Is that why it’s the color of blood?
+
+“Some kind of Stealth, Blade Proficiency, and Golemancy Skill Fusion, then?” the Culturist mused. “Rare. But also less than ideal. Losing a Blade Proficiency will come at a cost—and seeing your Golemancy dedicated to a narrow kind of battle construct comes with its own diminishments as well.”
+
+Shiv barely heard the Culturist’s words as he continued staring at his Severed Shadow—while also staring back at his material body the other way around. Both were kind of him at the same time, but it was hard to focus when so much was going through his senses. Even though he now had two bodies he could control, his brain hadn’t evolved in terms of complexity or mental dexterity; he could only control one version of himself at a time—pay attention to a few things.
+
+Wait, I can use my Bifurcated Processing to help with that! Hm. Actually. Might be a bit too much. I gave myself an aneurysm trying to make an entire golem. Having my subconscious pilot my new Revenant might not work.
+
+Even so, Shiv wanted to try, wanted to test this new skill in all kinds of ways.
+
+But first, he was going to take advantage of the first blessing this new golem had offered him: distracting the Culturist.
+
+Scheming Bastard 7 > 8
+
+Shiv’s ambush came unannounced and two-pronged. He moved his vanishing Shadow first, positioning his spiritual self behind the orc Legend for maximum effect. The Culturist frowned as he sensed the fading Revenant but seemed unable to follow its exact position as it returned to being little more than the outline of a faint cut. Immediately after, Shiv pointed at the space where his Severed Shadow used to be and gasped loudly. “Holy shit, I can’t believe it!”
+
+The Culturist’s head snapped in the direction Shiv was pointing. Shiv sneered as he made a fist and—
+
+A gray middle finger poked him under the left ear.
+
+“Guh,” was all he managed to say before he promptly lost control of his body and pissed and shat himself so violently he burst his prostate and punctured his own bowels. And then his stomach somehow launched itself up through the roof of his mouth before squeezing out of the expanding cavern that became his left eye.
+
+Shiv’s death was so sudden and violently comical that he almost missed the Culturist’s return quip. “‘Can’t believe you’d fall for that?’” the orc said, speaking with a perfect impression of Shiv's voice. He sighed with disappointment and returned to his usual deep baritone. “Please, Insul. You can do better than such a lowbrow trick. This is a strategy known to every mountain bandit across history—and even a few clever animals.”
+
+Inertial Overdrive 226 > 228
+
+Shiv was used to dying in excruciating pain. However, what he wasn't used to yet was watching the process of his own death from another perspective. His Severed Shadow allowed him to behold the process of his body going from a living organism to a corpse in vivid detail. With his mind and senses no longer overloaded by an extra body, Shiv realized his Severed Shadow had an Awareness just like his Revenant form did. Everything was a bit dull and muted, but he could still see and hear things happening around him—and he flinched when all his bound equipment appeared as new transparent outlines on his silhouette of a body.
+
+“Well, Deathless. I suppose you should finish this embarrassment of an ambush.” The Culturist kept his back facing Shiv’s Shadow. “I will give you this—it is an impressive Skill Fusion. And a rare one. I have never encountered a golem that manages to evade the breadth of my Awareness after a time. Without Divination and Lifesight, I fear I would have no idea where you are.”
+
+***
+
+“Fuck… What’s wrong with him?” Jessica glared hard at Shiv’s shaking corpse. She didn’t want to worry, but… Well, the kid had usually resurrected by now. Where the fuck was he? “He usually should shit out that red-white stuff inside him by now. Where is he?”
+
+“I am not sure,” Valor said. Corrosive mana curved around the corners of his eye sockets. He was using his Necromancy to do something. “There.” Valor pointed a few steps behind the Culturist. The orc fuck was showboating to the crowd, holding his arms out and talking smack or whatever. “Shiv is right there. I think.”
+
+Jessica stared at the nothing behind the Culturist—Wait, there's not nothing. There was that strange little gap in the air. The texture looked like a puncture wound left behind by a knife of some kind. Usually, Jessica saw those injuries marring skin and meat, but it looked like a patch of the world had been stabbed.
+
+“What the hells kind of Skill Evolution did he just get?” she breathed.
+
+Valor hummed. “I have never seen such an evolution before either.”
+
+“Well, it looked like he farted some kind of blood-gas golem out of his body earlier. Then it vanished.”
+
+“That does indeed seem to be a crude description of the situation.”
+
+Neither of them knew what to say after that. And so they waited. For Shiv’s next move.
+
+If he even had one.
+
+***
+
+Shiv cringed as he heard his body let out a final death rattle. The sound of his corpse trying to draw in a last breath was more than a little haunting. He'd heard that sound come from plenty of his victims, but himself? Usually, he was too busy with something else to pay attention—like the sensations of his resurrection. But now he couldn’t avoid it. Man, I sound like a dead bear with a stuffy nose. I need to try to figure out a way to make my dying breath more dignified. Or maybe more explosive. I can’t be making those noises for everyone who kills me. This shit is embarrassing.
+
+“No sense in delaying your attack, Deathless. Humiliation is an apt teacher. Sometimes, shame is an appropriate penalty for failure…” The Culturist was still making noises with his mouth. Shiv ignored him for now and tried to figure out his next move. His attempt at a cheap shot had collapsed entirely. Though Shiv could force his Shadow to solidify, he would only get his ass kicked by the Culturist again. But before that, there was another thing he needed to figure out.
+
+How do I resurrect now?
+
+Usually, the process was automatic and intuitive. He died. He absorbed some vitality. He came back. So far, nothing was happening, and Shiv had no idea what to do. He didn’t really lose any vitality when his body died, either. It was just like a portion of his senses had gone dark—a body he could control was lost. The total Vitae he could use remained unchanged.
+
+Okay, new Revenant: Grow me a body! Grow! Resurrect! Return! Uh… Arise! Live again! Felling… Do something! Come on!
+
+Shiv strained his mind—and did it for so long that the Culturist slowly lowered his upheld arms and awkwardly looked over his shoulder. “…Insul?”
+
+“Yeah, yeah, give me a second; I’m trying to figure some shit out, okay?” Shiv sent telepathically. At least using his magic was still second nature.
+
+The Culturist’s lip curved up in an ugly, coy smile. “You aren’t embarrassed, are you?”
+
+“The Insul’s shy from the beating!” a random orc hollered. “Everyone, laugh at him!”
+
+On cue, the entire audience of the coliseum—minus the third that the Culturist had palm-striked out of existence to show off—threw their heads back and bellowed with uncannily synchronized laughter. A few instruments started playing. Some orcs started singing opera, belting out lyrics about how the Deathless was a sulking cat named Pussy Van Bitch. If Shiv had teeth to grit, he would have ground them down to powder against one another.
+
+Oh, for fuck’s sake! Okay. Let’s try something new: Golem. Let’s see if I can—wait, isn’t this supposed to be some kind of Golemancy Skill Evolution too? Shiv pulled up his notifications and observed all the baseline evolutions for his Deepest Edge and Golemancy Skills.
+
+Skill Evolution: Golemancy (Adept) > Vessel of Melded Purpose (Master)
+
+Skill Evolution: Deepest Edge (Adept) > This Blade That Drifts Beyond (Master)
+
+Well, this should have been a Golemancy Skill Evolution, but then his Vitaemancy had gotten involved. None of his other skills evolved at Level 150, but it did. What the hell was Acceptable Skill Fusion Detected? What did that mean? Why was it waiting for a moment like this to alter a new Master-Tier Skill Fusion into a Unique?
+
+Those thoughts built up inside Shiv as he began the process of creating a new golem. But as he reached into himself, his Vitae ignited immediately. The dappled mists of red hardened like dried scabs, painting his materialized presence into existence as they surged toward the pale, bright blade rooted at his core.
+
+“Shi—” Shiv didn’t want to solidify. He didn’t want to do anything but shape a golem as a test run to see what he was doing wrong. Unfortunately, he was tangible and entirely visible again—and so the Culturist was immediately on him.
+
+“Fuck! Wait! Culturist! Stop!” Shiv’s pleas went ignored. The orc's fists and feet flowed like fluid lightning. He blinked from place to place like he was teleporting as he poked and chopped at Shiv from seemingly every angle possible in a three-dimensional space and then some more.
+
+At some point, the Culturist started going so fast that he divided into separate orcs that were all beating Shiv’s ass in sync. Shiv’s blade aura seemed to pass through the orc with every ripple—like the bastard was dodging the slashes somehow. The entire ass-kicking was done by the time Shiv managed to react. He Phase-Framed through a final punch, and the Culturist did several unnecessary backflips to land weightlessly meters away. He struck another pose this time, emulating someone trying to grope something while suffering terrible cramps in both arms.
+
+At least, that was how it looked to Shiv.
+
+“The Swallows Sing of the Loping Apes’ Dire Embrace,” the Culturist declared. It sounded like gibberish to Shiv. Still, he tensed, waiting for his Revenant to explode too or something. One second passed. Then three. Shiv started fading out of existence again. The Culturist frowned as he broke from his stance. “Why hasn’t your head detonated in an explosion of urine and inverted fecal matter yet?”
+
+“That’s what your punches were supposed to do?” Shiv snarled, horrified. “What kind of Striking Proficiency Skill Evolution do you even have?”
+
+“This is not a Striking Proficiency Skill. It is merely the foundation—the crude base, an advanced martial form known to only three across Integration. It is the Whispered Hand of the Northern Savior—a style for the students of the Galloper across worlds.”
+
+“Culturist, be honest, are you just screwing with me?”
+
+“Absolutely not! I pride myself on the arts I learn. Especially the martial arts. I spent centuries dying at the Galloper’s hooves before he finally accepted me into his tutelage. Someday, I will prove his better. Someday, I will slay him and my brother-in-this-art.”
+
+“I—wait, hooves?”
+
+“The Galloper, as the name implies, is an Awakened Horse,” the Culturist said with deathly seriousness, clenching a fist at Shiv.
+
+Shiv tried to imagine a horse doing half the weird shit the Culturist just did. The images his mind managed to create were both kind of awesome and also really stupid looking. “Uh, yeah, great.”
+
+“What’s not so pleasing is why you are still unaffected,” the Culturist said. He gestured at Shiv. “My blows are meant to trigger the meridian pressure points that comprise critical nodes within a Pathbearer’s unattuned mana. Even if you are protected by a golem, you should have detonated. Not even a layer of hardened vitality should save you.”
+
+Shiv could have replied to the Culturist’s confusion in any number of ways. Being a lying prick felt the most natural. “Well. Maybe you missed.”
+
+The Culturist frowned. “I did not miss.”
+
+“Then why didn’t I explode?”
+
+“Due to a reason that eludes me for now.”
+
+“I think you’re just bad at this art. A bit shameful, no? What would Master Horsie say?”
+
+“Galloper.”
+
+“You think it’s because you don’t have hooves?”
+
+That made the Culturist briefly look down at his fingers. “...No.”
+
+“You sure?”
+
+“I know what you are doing, Deathless. You might be able to play psychological games against my great shame, but you cannot strike my pride in the arts.”
+
+“I don’t need to. Because you’re bad at this art. You should be ashamed.”
+
+At this, the other orcs smelled blood coming from the other direction, and they didn't waste a beat before jumping at the opportunity. “The Culturist doesn’t know what he’s doing! His waifish dance is useless against the Insul! Pathetic!”
+
+A song then began, declaring the Culturist a mentally challenged orc with a fetish for pretending to be a horse. Shiv started laughing loudly. The Culturist’s emotional core filled with just the faintest flickers of anger.
+
+“You are an emotional terrorist, Deathless,” the orc muttered.
+
+“And you’re never going to be a real horse.”
+
+Sticks and Stones 81 > 82
+
+The Culturist drew in a sharp breath of annoyance. “Alright. Enough of these delays. Step out from the golem so I might continue your education—and the relieving of my itch.” His eyes then snapped to the still-trapped Gone. “Or see someone else sacrificed on your behalf.”
+
+“Hey, calm down. I would pop out if I knew how. I’m undergoing some kind of… resurrective bottleneck. I was trying to fix it by seeing if I could make a golem or something earlier, but then some asshole who pretends to know martial arts decided to attack me.”
+
+The Culturist folded his arms and glared. “Very well. Let us say I believe that you are suffering from such a… dysfunction.” Shiv mentally glared at his choice of words. The crowd laughed. The Culturist visibly suppressed a smirk. “I will grant you a moment to emerge from this veiled cocoon of yours. Actually, what seems to be the problem? Is it your vitality? It appears you have an overly dense concentration gathered where you were. It’s almost like you’re fat clogging the System’s arteries.”
+
+Shiv reached into himself again, sinking his Vitae deep as he tried to shape a new golem. But as he turned tangible again, he felt his calcified Vitae pressing not against the shape of a new golem, but rather bare flesh. Shiv paused. He prodded at what was taking shape beneath his unique mana. His disbelief only grew as he pulled out the “construct” growing within him.
+
+Shiv’s new flesh-and-blood body stumbled free from his Severed Shadow as the pale blade at the core of his Revenant carved down and left an open wound. His Vitae combusted at the feat; half of his total vitality was consumed by the time he was done. A doubled load returned to oppress his mind and senses. Shiv found himself contained in a natural body once more, while still rooted to his Severed Shadow. Throwing him off even more was the fact that he was fully naked. No armor. No weapons. No equipment at all—his Last Morsel, Voidmantid armor, and more were still stuck with his Shadow.
+
+“That’s usually the other way around,” Shiv breathed, speaking through his newly resurrected body. He looked at his hands, saw the black and white vectors dancing across his limbs. He had resurrected from what should have been his golem. Before, he shaped golems from the Vitae contained within his body. Everything was inverted now. “Godsdamned Skill Fusion’s sliced up more than I thought it did…”
+
+Already, he could feel warmth trickling back into his Severed Shadow. It was digging into the blood of the System, drinking in Vitae with its cutting presence. Shiv wondered then if he could carve the vitality out of the world, out of someone, and he was curious how deep he could slice and stab with his new Skill Evolution.
+
+A mad plan began taking shape in his mind. A plan so mad and violent, he might be the only person in Integration who could think it up.
+
+“Deathless,” the Culturist said, pressing his lips together. “I understand that you humans get prideful about the dimensions of your genitalia, but why are you naked right now?”
+
+“Cute cock, Insul!” Bonk shouted through his magical item from atop the stands kilometers away.
+
+Shiv looked down, looked back up, and exhaled. “I’ve had nightmares like this. Hm. Might as well make use of this.”
+
+***
+
+“He appears to be nude,” Rusty declared, breaking the silence.
+
+“No fucking shit, Rusty—I can see that,” Jessica said. “Why the felling hells is he nude?’
+
+“A new strategy, perhaps,” Valor commented, though he didn’t sound fully confident. “Wait, he’s reaching—oh, Great One and all the Faiths beneath, Shiv, what are you doing!”
+
+Rusty hummed. “He appears to be preparing to masturbate at the Culturist.”
+
+“What the fuck?” Jessica whispered.
+
+***
+
+The Culturist took a step back, his expression trapped between confusion and dry amusement as Shiv took hold of his new distraction. “Now, Insul. This is unnecessary. I understand that I might be attractive to—”
+
+The orc then bit his tongue in surprise as Shiv grasped his junk tight—and there came the nightmarish sound of a turnip being ripped out from a set of roots that really didn’t want to let go.
+
+“But why?” the Culturist whispered.
+
+***
+
+“I was mistaken. It was an act of castration, not masturbation.” Rusty sounded unnerved.
+
+Jessica was unnerved. “WHAT THE FUUUCK!” she screamed with a pitch high enough to shatter windows, clutching the sides of her head in horrified disbelief.
+
+“I am no longer confident in what he is doing,” Valor said. “Perhaps he has suffered some kind of stroke. Perhaps we should—oh, gods—oh, System...”
+
+It took a lot to make Jessica gag. This got close. “Oh, Ascendants, I’m gonna need some strong liquor to forget that.”
+
+***

@@ -1,0 +1,223 @@
+---
+id: 5247b7db-e543-5877-830f-adde7102ba22
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29 – Goodbye, Sunvale"
+slug: 0029-chapter-29-goodbye-sunvale
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 29
+ownLength: 2126
+unit: words
+publishedAt: 2025-10-01
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2642413/chapter-29-goodbye-sunvale"
+royalRoadId: "2642413"
+---
+
+You stupid, thieving, little piece of—
+
+Renir cursed Liora out while she concentrated on flying away as fast as possible. She didn't dare to look behind herself, instead letting the gravity pull her down. The winds threw her to and fro, but she didn't resist them– instead flying along with the powerful breeze and only steadying herself enough not to crash into the cliffside.
+
+Liora had made it halfway down the mountain when she realized that she wasn't being chased. Looking behind herself, she saw that the chimera was standing near the peak, looking down at her with disapproval. It looked disappointed, but made no move to pursue.
+
+It's not chasing after me?
+
+That's somehow even worse.
+
+"Take it, you little thief. It is nothing more than a trinket now anyway. But don't expect it to bring you good fortune," the chimera bellowed across the mountain and then disappeared from sight.
+
+Well, now I feel kinda bad.
+
+As you should. What were you thinking? Stealing a Divine artifact?
+
+Hey, didn't you hear what the chimera said? The Divine abandoned this necklace when it became corrupted. It's just a trinket now.
+
+I highly doubt that it's just a trinket, even if it's not connected to the Divine anymore. It was still created by one.
+
+Liora glanced at the peak for the last time, noticing how the toxic miasma was slowly dissipating and leisurely gliding down the mountain.
+
+What are the Divine anyway?
+
+You seriously won't return the artifact?
+
+Nope. It's my treasure now.
+
+The little human voice within Liora was urging, no, begging her to fly back up the mountain and return the necklace to the altar. But the magpie within her was overpowering any common sense. When was the last time she got her talons on such a treasure? It was when she got Renir, but since then, she had gone through so much.
+
+Sure, the amount of glimmerstones she had was nice, but she had to spend a whole bunch of them to unlock the Inventory. It would be a shame not to use it afterwards. She did snatch that wand, but that one didn't really count. It was useful, but it wasn't shiny.
+
+Liora was brought out of her thoughts by a very dramatic internal groan.
+
+This will definitely come to bite us in the ass later. You'd better be ready for the consequences.
+
+It's a necklace! What can it even do? Unless there's another mage trapped inside there, in which case, I'm truly terrified. I don't need two smartasses talking in my head all the time.
+
+Without this smartass, you would long since be monster food.
+
+Without me, you would have become fuel for some evil ritual.
+
+There was a moment of silence as Renir struggled to come up with a good retort. Then a mental sigh.
+
+Fine, do what you will. Just don't blame me later. You wanted to know about the Divine, yes?
+
+Yes. You said they're kind of like gods.
+
+That would be the simplest description, and that's how most people perceive them. The Divine weren't born as such. But over time, they've accumulated such powers that their abilities far surpass what should be possible.
+
+What? Can they bring the dead back to life?
+
+Nah, any necromancer can do that. It's nothing special.
+
+Liora's flight faltered for a second. Bringing the dead back to life was nothing special? What kind of world was this?
+
+The Divine can do fundamentally impossible things. Raise continents, wipe cities from the face of the world with a snap of their finger, and even create small pocket worlds of their own. The imagination is the limit.
+
+That's somewhat vague. Is there a recorded event of something they did?
+
+I wish, but they don't like to reveal themselves to regular mortals. Most of them live separately from the world, doing whatever they want with their time. They appear so rarely that many people think they are nothing more than a myth.
+
+So you don't really know much about them either.
+
+I know that messing with them is a bad idea. Who knows what'll happen if the Divine who made that necklace figures out that some magpie has snatched it.
+
+It didn't seem to care to do anything when the necklace got corrupted. If they're so powerful, then surely purifying it wouldn't be so difficult.
+
+That's… That's actually a good point. Why didn't they purify the necklace all these years?
+
+Add that question to the list of things we don't understand.
+
+Liora reached the foot of the mountain and then landed on one of the trees. It was eerily quiet with most monsters and animals sleeping. Only occasionally did Liora see activity somewhere in the distance.
+
+Why did you stop?
+
+Where do we go now? I think it's time for us to leave this place.
+
+Yeah… You've created a weird magpie cult in the town and pissed off the guardian of the mountain.
+
+So, where to next?
+
+I wanted you to evolve first before leaving, but fine. I think it is time for us to begin removing the seal placed upon me.
+
+Removing your seal. Do I chant Holy Light on you or something?
+
+Ha! As if it would ever be that simple. No. The seal has many, many layers, and quite frankly, I haven't even deciphered them all yet. However, I do know how to break one of the outer layers.
+
+That's some good news. How do I do it?
+
+You need to get a Pulse Stone. It is a magical item which produces…
+
+Oh, please, spare me the magical mumbo-jumbo!
+
+Ugh, fine! It's a stone that can break magical seals, and it should be able to break the weakest layer. It won't get me out of this gem, but it is a start.
+
+Great. Where do I find one? Or steal one, preferably.
+
+In a dungeon, of course. I think our best course is to head to the city of Cyene. There is a dungeon nearby, which I think you might be able to handle if you evolved. We'll just have to train on our way there.
+
+Didn't you say that dungeons were mostly underground?
+
+Yes.
+
+Liora didn't like the thought of being in a cramped space like that. That would greatly reduce her mobility and render Air Dive unusable. But she did promise to help Renir, and he did promise her treasure in return.
+
+Very well. How do I get to Cyene?
+
+For the time being, it would be safe to follow the river flowing along Sunvale. I'll direct you where to go next once we reach Satyr Lake.
+
+You think I could make it there tonight?
+
+I've never been a bird, so I don't know how quickly you could get there or how long you can fly. But on foot, it took like a week and a half to get from here to Cyene.
+
+Okay, I could probably reach the lake tonight if it's at the halfway point.
+
+Alright, let's fly then.
+
+Liora nodded and took flight. The town was dark, with the exception of a few small lights in some houses. It was well after midnight, so the majority of people should be sleeping.
+
+Looking at the town, she got a heavy feeling in her chest. As unpleasant as her stay here had been, there had been good things, too. For one, she didn't hate children anymore. At least not the children in this town. It made her happy that in the future, they wouldn't have to struggle as much as their parents. The mountain was cleansed so their lives would surely improve.
+
+But her mind kept wandering back to Christie. She felt like she had made a good friend with the girl, and leaving without saying goodbye felt wrong. So she decided to stop by her house before leaving, if only to glimpse at her.
+
+The lights were off in her little house, but with her Night Vision, it wasn't difficult for Liora to find the window to her room. There was a small crack between the old curtains through which she could see the girl sleeping peacefully in her bed.
+
+I'm going to miss you.
+
+I didn't know you were this sentimental.
+
+Shut up! You're ruining the moment.
+
+Liora gazed at the girl for a moment longer and was about to leave when she stirred in her sleep. Christie's eyes opened, and she looked straight at Liora.
+
+"Mister Magpie?" The girl rubbed at her eyes and crawled out of the bed, slowly stumbling her way to the window.
+
+Liora wondered for a moment whether she should fly away, but in the end decided a proper goodbye would be better. She waited until the girl pushed the creaky, old window open.
+
+"What are you doing here so late? Are you hungry?" Christie asked through a big yawn.
+
+Now, when she mentions it, I am a bit hungry. Maybe a little bite before the road wouldn't be a bad idea.
+
+"Chak-chak-chak!" Liora confirmed. "A little."
+
+"Okay, wait a little. I'll get you something. But be quiet. I don't want to wake up Mom. She has to wake up early tomorrow morning for work," Christie warned and tiptoed out of the room.
+
+A few minutes later, she returned with a bowl filled with Liora's favorite grain-seed mix. "Here you go."
+
+Liora ate the treat eagerly while Christie sleepily patted Liora's feathers.
+
+"You're so soft, Mister Magpie," she said with a smile.
+
+"Miss Magpie," Liora corrected, this time mimicking Christie's gentle voice.
+
+"Wow! You sound like me! Wait… so you're a girl magpie?" She asked.
+
+"Girl," Liora confirmed.
+
+"Wow, but you sounded like a man last time."
+
+"I can mimic many voices," Liora said in Renir's voice this time, then croaked like a toad. She didn't make any louder noises so as not to attract any attention.
+
+"Wow, you're so amazing, Miss Magpie!" Christie giggled, patting Liora's feathers in the meantime. "But how come you came here in the middle of the night?"
+
+Liora stopped eating and looked guiltily to the side. She didn't know how to tell this child that she'd be leaving. Christie had taken a strong liking to Liora. She would undoubtedly be sad.
+
+"I wanted to see you before I leave," Liora admitted.
+
+There was a moment of heavy silence as Christie's hand stilled. The girl looked at Liora, then resumed patting her.
+
+"Yeah, I had a feeling you would leave soon," she said, trying to act nonchalant. But Liora could see that tears were welling up in the girl's eyes.
+
+"I'm sorry…"
+
+"What are you apologizing for? Mom told me that magpies like to fly from place to place. That you wouldn't be happy stuck in the same place. I'd love for you to stay, but if that makes you unhappy, then I wouldn't want to force you…"
+
+This child is too kind. I expected her to throw a tantrum or beg me not to leave, but she's being so mature about this.
+
+She really is. Even I feel bad about us leaving.
+
+Liora nuzzled her beak against Christie's hand, and the girl broke into tears and hugged Liora, squeezing her gently. She could feel the girl's teardrop roll down onto her feathers.
+
+"I'll miss you…"
+
+"I'll miss you too," Liora said and nuzzled against her.
+
+For a while, the two of them remained in a hug until finally Christie calmed down and released Liora. She didn't quite know what to say to the girl who still had tears in her eyes. Maybe something to remember Liora by would help her?
+
+She reached down to her wings and checked on her feathers to see if there was a loose one. Thankfully, one of the larger flight feathers was a bit wobbly, so she plucked it out and presented it to Christie.
+
+"Is that for me?" Christie asked, taking the rather sizable, iridescent feather.
+
+Even at night, it shimmered with color. But then Liora remembered that humans couldn't see all the colors that magpies could. For the girl, it would be nothing more than a black feather. So after a bit of contemplation, she withdrew one of her glimmerstones.
+
+"Wow, where did that come from?" Christie blinked in surprise.
+
+"It's a thank you!" Liora said.
+
+Warn her not to show it to anyone. Glimmerstones are really valuable.
+
+"Don't show it to anyone," Liora warned.
+
+"I won't! Thank you, Miss Magpie!"
+
+"My name is Liora."
+
+Christie smiled. "I'll never forget you, Liora!"
+
+"And I won't forget you," Liora said, and after nuzzling Christie's finger for the last time, took flight. She let out happy chak-chak-chak and flew in the direction of the river, occasionally looking back to see Christie looking after her and waving her little hand while holding her gifts.

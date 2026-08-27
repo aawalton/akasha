@@ -1,0 +1,309 @@
+---
+id: a22ba514-f3ba-5f0b-a9b8-6d2e0b26cc19
+page-type-slug: story-chapter-royal-road
+title: "54 How to End a Legend"
+slug: 0011-54-how-to-end-a-legend
+partOf: the-new-world
+position: 11
+ownLength: 4215
+unit: words
+ownProgress: 4215
+publishedAt: 2017-10-06
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/166253/54-how-to-end-a-legend"
+royalRoadId: "166253"
+markedReadAt: "2026-06-29T21:21:04.718Z"
+---
+
+Kessiah murmured, “No, that’s impossible. Why would you want him to?”
+
+A giant set of pincers raised out of the ground and clamped onto my waist. A giant beetle with armored plates all over it rose out of the ground and dashed towards the house. Like chunking a sack of flour, the beetle tossed me through the window.
+
+I flew before smashing into the window. Bits of drywall snapped along with the shattered glass panes. I tackled into the floor, tearing through a few planks of wood. As I glanced up, Kessiah had her hands on her hips while Torix crossed his arms.
+
+Torix mouthed, “Shame on you, disciple.”
+
+Kessiah shook her head, “And here I thought you were trustworthy. Tsk, tsk, tsk.”
+
+I stood up, lunging up off one knee while Torix glanced his eyes at Kessiah,
+
+“As trustworthy as a snake.”
+
+I rolled my eyes,
+
+“Alright guys, you got to admit you were both being suspicious. Besides that, what did you mean by exile?”
+
+Kessiah propped her weight onto one hip, “You remember the sentinels?”
+
+“Uh, yeah.”
+
+Kessiah opened her arms, “You remember how they’re level 5000 with spears that tear through dimensions?”
+
+“That’s a hard thing to forget.”
+
+“Who knows, you might find a way. Any who, those spears aren’t all that good for cutting people. Sentinels will grab you, slice a hole in the fabric of space time, and chunk you in there.”
+
+I frowned, “So in other words, they exile you.”
+
+“Bingo.”
+
+Torix nodded, “You’ve been there before. Whenever we opened the portal using the ancient ruins in BloodHollow. Who was it…Ah yes, Baldag-Ruhl I believe. He is the maker of that rift. You were put within it.”
+
+I nodded, “Yeah. I remember it being utterly terrifying, meeting Etorhma and everything.”
+
+Torix raised a palm to me,
+
+“But you see, we now know you can survive exposure to the dimensional energy within the eldritch’s dimemsion. You can survive the exile.”
+
+I shrugged, “I mean we only put my arm in there. Shoving all of me in there is a big step.”
+
+“Etorhma pulled you through the portal, and you lived. That is more than enough proof. Your armor prevents you from dying. Yawm on the other hand, we don’t know if he will or not.”
+
+Kessiah placed a hand on my shoulder,
+
+“You can pull Yawm into the eldritch dimension with you. So, what do you say?”
+
+I brushed her arm off,
+
+“Fuck no.”
+
+Kessiah frowned,
+
+“Well, I wouldn’t wanna go in either, but we don’t really have any other way of killing Yawm. You and Althea are going to struggle to get over level 1500, even with doubled experience. That’s nowhere near enough to defeat Dakhma, let alone Yawm or Ajax.”
+
+I sighed, raising both hands, “Here’s the thing. Why not just use a ghoul or something you summoned Torix?”
+
+“The issue with using one of my summons comes with how the sentinel’s spears are designed. Think of them as enemy specific. They are designed to destroy eldritch, and to be able to allow the sentinel’s to travel. My minions, while not actually eldritch, are registered as eldritch.”
+
+I raised an eyebrow, “How do you know that?”
+
+“Because the dumbass tried capturing one once.”
+
+Torix frowned, “An entire army of minions disintegrate in seconds.” Torix sighed, “You’ll be able to sustain yourself within the dimension as well. My minions disintegrate into mana when exposed to the eldritch’s domain.”
+
+“Man…Fuck. Gah, that sucks. Like, that really, really sucks.”
+
+Torix nodded his head, “Indeed it does. I’m sorry the burden of this task belongs to you. The fortunate piece of this puzzle is that you have time. Time to forge yourself into a warrior that even Yawm may fear.”
+
+I leaned onto my knees, breathing out for a moment. Despite how insane the plan sounded, defeating Yawm by whittling away his entire army of followers sounded even more insane. Yawm had so many strengths, beating him in direct combat may not even be possible. Using this kind of cunning would work well by comparison.
+
+Besides, I didn’t want to spend the next 50 years reaching Yawm’s level.
+
+I banged my fists into my knees, the force of the strikes breaking the planks of wood further. My dexterity and heightened senses let me disperse the force better. Otherwise I’d fall through the floor. I lifted myself up,
+
+“Alright, I’ll do it. I have a better option though.”
+
+Torix raised an eyebrow, “And what might that be?”
+
+“We kill one of the followers, get sentinel rights from Schema, then use the spear they give us.”
+
+Kessiah leaned back, her lips pursed, “Heh, I guess we could do that.”
+
+Torix cupped his chin, “Indeed we could. We could then send each of his other followers to random worlds or dimensions. That would leave Yawm all alone, ripe for the taking.”
+
+I opened my arms, “I know right? I’m a genius.”
+
+Torix lifted out his hand and thumped my nose. With my armor reinforcing my flesh, Torix’s finger clanged against the skin and bone. Torix pulled his finger back,
+
+“What in the name of Schema is that?”
+
+I tapped my head with my gauntlet. A dull clang let out like a piece of metal covered in playdough. I grinned,
+
+“The armor reinforces my bones and muscles. That’s why my damage resistance is up to 98%.”
+
+Kessiah walked over. She put her thumb into her mouth, biting down through her skin. Blood leaked down her hand before she wiped it onto her index finger. She walked over and flicked me. My head swung back like I was impacted by a sledgehammer. She grinned,
+
+“I’ve got a few new tricks up my sleeve.”
+
+I frowned, “What the fuck was that?”
+
+Torix frowned, “Hemomancy. The process of using blood for magic.”
+
+“What the fuck? Where was that when you fought Dakhma?”
+
+Kessiah glanced down, her face harsh. She grimaced, “I didn’t want to use it.”
+
+I spread my hands, “What, why?”
+
+Torix shook his head, “It’s long and complicated. We’ll speak with you later.”
+
+She placed a hand on his shoulder, “Enough of that. He isn’t some kid you took under your wing anymore. He’s one of us. The guys going into a different dimension for Schema’s sake. The least I can do is explain.”
+
+She glanced back at me, “Uh, well…” She let her hand off Torix, letting her arms flop on her sides,
+
+“I’ll get to the point. I had a daughter. She was very…talented in hemomancy. Most of my family was. The thing is, hemomancy is tough to control. Once the spell has been cast, it will draw however much blood it needs from you. Even if you die, it will continue draining you to a dry husk.”
+
+I frowned, “Did your daughter mess up a spell?”
+
+Kessiah shook her head, “No. Another one of her classmates did during a demonstration. The way it works is the spell will drain you of blood till you die. If it still needs mana, it will take on hosts until it has enough to complete itself. Her classmate overexerted herself and died. The spell kept draining blood from her classmates.”
+
+Kessiah stopped talking for a moment. She took a breath, “And my daughter, being the brave little girl she was, tried to help her classmates. She ended up stopping it from draining the entire room. But…”
+
+Kessiah closed her eyes. A moment passed again, and she opened them, “The spell cast and destroyed the entire portion of the space shuttle. Everyone died. Everyone.”
+
+I glanced at the broken planks beneath me. A long, awkward silence passed the room. It was a suffocating sort of silence, one of those kinds of silences that makes the air heavy and makes you wish you were somewhere else.
+
+Torix interrupted that silence, “The greatest tragedy is for a parent to outlive their child.” He placed a hand on her shoulder. Kessiah shook her head, and as if the gloom was never there, she shrugged,
+
+“And that’s why I haven’t done any hemomancy since. It’s dumb, childish even. I couldn’t bring myself to do it until after you saved me from Dakhma. Made me realize this isn’t some game. I can’t be a spoiled kid and not do something just because it’s unpleasant.”
+
+A sad, slight grin traced her lips, “If I keep living in the past, I’ll never have a future.”
+
+She took a step forward, ruffling the hair on my head.
+
+“Come on big man. We got a mission we need to finish. You need the dungeon cores right? You gained a few levels.”
+
+I glanced at Torix. He was pokerfaced, so I just turned back to her,
+
+“Uh. Yeah. I forgot to mention it, but one of my trees lets me get more dungeon cores. I need, I don’t know…at least ten.”
+
+Kessiah nodded, unzipping the gray knapsack at her side. Pulling out the ring and opened the starry sky portal. Reaching her hands into it, she pulled out five dungeon cores. She handed them to me before reaching into the portal and taking out a few more.
+
+The cores sunk into my armor on contact, notifications popping up in the corner of my vision. It took a total of seventeen cores before my armor ceased absorbing them. Torix sighed,
+
+“This is a fortune’s worth of cores. I hope you’re willing to pay that debt in time.”
+
+I picked up a dungeon core from the floor, the black sphere surrounded in red clanking onto the floor. It bounced off my armor, no longer sinking in once I hit my dungeon core cap. I glanced at it,
+
+“I think hopping into that dimension will suffice.”
+
+I handed the core back to Kessiah, “Thanks for all the cores. I’ll put them to good use, I assure you.”
+
+Putting the core back into the portal, Kessiah pocketed the ring,
+
+“You damn well better. That was a couple years on a fringe world I just handed you.”
+
+“And hopefully, you won’t ever need to again. Besides, I’ll be able to pay you back with interest later. How does a suit of sentinel armor sound?”
+
+She grinned, “I suppose that’ll do.” She walked towards the doorway, “I’m going to get Althea. You can do whatever with your status till we meet back up here.”
+
+Kessiah left before I turned towards Torix,
+
+“Man…That really sucks. I mean fuck...”
+
+Torix nodded, “Grieving. It’s a painful process. Neither of us were any good at moving on. Tough to be immortal and not know what to do with your time. It’s like life becomes some sort of curse. Combine that with Schema’s oppressive labeling of us as unknowns, and life turns to a boorish chore. This whole venture was revitalizing for both of us.”
+
+Torix paced back towards the floor. After opening a portal, he pulled out a brush made from hair. He pulled out a bowl full of red liquid. Dabbing the brush into it, the color changed to black and the consistency to a thick sludge. He marked on the floor, designing a new ritual.
+
+I watched in a daze, sort of numb from Kessiah’s sudden story. I guess saving someone’s life had a way of making them open. Regardless, I walked over towards a wall and sat down. My back pressed an inch into the dray wall, leaving an impression. I sighed as I opened my status.
+
+Up till now, I’d invested all my skill points from cores into Boundless Storm. It was my only mythical skill after all. That was something I never focused on, the level of my skills. I figured it was a hell of a lot more productive to focus more on learning than checking them out. Now I figured it was time to give them a look see.
+
+Most of the skills related to my studies had made damn decent progress, capping out around the 60 to 70 mark. The only standouts where pain resistance and Boundless Storm. Pain resistance was at 100, giving me 99.9% pain resistance. On the other hand, boundless storm was at 167. It was a skill over level 100.
+
+I turned to Torix, “Can skills go above 100?”
+
+“Only mythical skills can. They have a cap of a 1000. In other words, you may increase them endlessly.”
+
+“For real?”
+
+Torix glanced up from his marking, “Of course. Why else would you be willing to sacrifice 15 different skills and half the points you gain from them. There’s no other reason too otherwise.”
+
+“And about that blood magic, it seems like it isn’t any different from Arcane Blood.”
+
+“Of course it is. Arcane blood converts mana into health. Hemomancy sacrifices health to create temporary buffs. You couldn’t harvest a hemomancer’s blood and use it as fuel for instance. However, that is possible with someone with Arcane Blood.”
+
+“What are they sacrificing their blood too?”
+
+Torix sighed, “Baldowah. One of the nastier Old Ones.” He pointed his brush at me, “Enough questions. Finish allocating your points. They’ll be back soon.”
+
+I nodded, glancing back down at my menu screens. With such an enormous bonus towards my skill point total, I could even max out a few stats if I wanted to. I turned towards Torix,
+
+“Is it ok if I ask some questions about skills then?”
+
+Torix resumed his markings, “What do you need to know?”
+
+“What would happen if I maxed out ascendant manipulation? Wouldn’t I become some sort of savant in an instant?”
+
+“No. Some skills give bonuses that are absolute. Pain Tolerance is a perfect example. You may max it and gain it as an ability. On the other hand, learning skills act as multipliers. However effective you are with the ascendant mana, your skill total will multiply that. Even Schema cannot zap knowledge into your brain. Knowledge is one of the few things you cannot buy. It must be earned.”
+
+“So if I maxed out ascendant mana, it would double how effective I am with it, but I would still need to actually learn how to use it?”
+
+Torix nodded, “Think of Althea when she first sparred you. Her aiming skills were top notch. They allowed her to shoot precisely where you were. With a few jerks in random directions though, she couldn’t hit you at all. That is the difference between having a skill and knowing how to use it. Your mythical skill, Boundless Storm, bridges that gap for you in most instances.”
+
+Torix dabbed the brush into the thick, black sludge, “It’s a powerful skill, even by mythical skill standards.”
+
+“Alright, cool. Thanks for the explanation.”
+
+“Keep one fact in mind. Just as it is the responsibility of the tutor to give good answers, it is the responsibility of the student to ask good questions. As annoying as it is to be interrogated by you, these are still good questions.”
+
+I nodded, glancing back down towards my status. Putting points into knowledge centric skills wouldn’t do much for me then. Plus, focusing on higher level skills gave greater returns anyways. With a level 1 skill, gaining a point in the ability was simple. On the other hand, bridging the gap from 99 to 100 took a very long time.
+
+Taking my time allocating those skill points was a good idea for the long run. Just like with allocating my attributes, I kept being efficient. There wasn’t really a point in stopping now. I would wait until a skill was level 90 before I invested into it, besides for my mythical skill. I’d wait till it was at least over level 200 before making that one increase.
+
+With that handled, I came to the far simpler business of using my attributes. It seemed like stacking endurance would remain the end goal for now, though putting points into constitution here or there was a good idea too. Over time, I would find some sort of balance between them.
+
+Once I had a firmer grip on how gravitational and telekinetic energy worked, making these decisions would be easier. Honestly though, constitution and endurance were all I needed. Since my leveling perks ensured a solid baseline in seven of my nine attributes, I only needed to beef up what made me strong.
+
+That’s right. I needed some moar motherfucking health.
+
+I furiously allocated the points into endurance, needlessly pressing on the virtual button. I could just use thought to put the points in them if I wanted to, but the satisfaction of pressing the button was too great. Once I finished, I set my eyes onto my status screen. Like the slow coming of a red tide, the amount of health I had was awe inspiring.
+
+Level 563
+
+Strength - 252.6 | Constitution - 562.1 | Endurance - 960
+
+Dexterity - 100 | Willpower - 447 | Intelligence – 158.1
+
+Charisma – 57.2 | Luck – 71.43 | Perception - 100
+
+************************************
+
+The thing is though, most of my other stats beefed up along with endurance. My core build was turning out to be constitution, willpower, and endurance. Secondary stats were strength and intelligence. The other stats were all solid besides charisma and luck, though neither were incompetent either. All in all, it turned my build into a very well rounded one.
+
+With that handled, I began practicing telekinesis while waiting on the others. Something I figured out early on was that when you used telekinesis, there was a pull on you as well. If I tried pushing a boulder in the distance, it would push back. Think of Newton’s laws of physics. For every action, there is an equal and opposite reaction.
+
+That made all my constitution much more valuable. The reason I hadn’t noticed it yet was because I only did small things, like stopping arrows or lifting rocks. When I tried moving something like a car, my feet would slide back and it felt like I was lifting the car.
+
+Even more limiting, the further away I was, the worse the conversion was. Strength and constitution both became limitations because lifting even small objects from afar was very difficult. The telekinesis also couldn’t lift from the inside of an object. When I lifted a clump of dirt, it lifted it from the outside.
+
+Adding even further to the complexity was how I ‘held’ onto an object. If I was lifting a block of wood, the solid grip made lifting it easier. Lifting a block of sand was much more difficult, because I had to extend my grasp so that it didn’t fall through the gaps. The most effective use of telekinesis so far had been close range amplification.
+
+In other words, using the telekinetic power to enhance my own strikes and defenses. I could also use it like a bullet up to about 4-5 feet away. With a bit of focus, I could condense the surface of the telekinetic burst. The smaller it was, the more force I could put into it. This also gave it more piercing power, like I was using a sharp point of a sword instead of the dull hammer.
+
+In fact, telekinesis worked a lot like extending my limbs in fact. Even though it sounds complicated, the rules just worked like I was lifting something with stretched out arms or something. I’m guessing that intuitive understanding stemmed from Boundless Storm like Torix said. He said that most people had to learn vector calculus at the very least before being an effective psionic.
+
+Instead of running calculations in my head, I just felt my way through the power. Torix told me my massive health/mana pool worked in my favor as well. Telekinesis was dangerous for that reason. If you worked within the bounds of your strength, then the mana cost was minimal. Once you went outside the limits of your physical power, the mana cost for telekinesis was absurd.
+
+It was easier to use my runes to increase my strength instead of trying to use mana for the telekinesis. All these little tips and tricks are what we focused on most over the last week. It let me come up with a few ideas for the power.
+
+I walked outside, walking a block or two over towards another house. Beside the ugly, yellow building was a thick oak tree. I walked beside it, and set up into my normal fighting stance.
+
+Something I’d been working on for a while had been the idea of adding a spin to the telekinetic strikes. I took karate when I was a kid, and the punches they made you do involved turning your wrist and palm. This caused a twist in the punch.
+
+Honestly, in a normal punch this drill effect was almost useless. Your fists simply aren’t sharp enough to get anything from the extra twisting in the punch. The telekinetic powers changed this. If I extended out little fields just in front of my fists and ended them in sharp points, it acted like wedges on my fists.
+
+Standing in front of the tree, I let my right fist lay beside my hip. My palm faced upwards. Before I stomped forward to add power to the punch, I let out tiny, invisible fields to the edges of my feet. Imagine them like snowshoes.
+
+You see, the dirt mushed underfoot now. I was dense and hard enough that dirt didn’t give me enough grip use my full strength. I mean still I got enough resistance from it to add serious torque to my punches but not my full potential. It’s like punching while standing on eight feet of snow. Your feet will just dig into the ground once you try getting some power from the ground.
+
+I used my telekinesis to make my feet effectively larger, just like wearing snowshoes. It gave me a better grip on the soft earth, letting my slam my fist harder. If I was on sand, it would make a much bigger difference. It would help even on concrete.
+
+And if there was something I learned from fighting to the death, it’s this - every little bit counts.
+
+I stomped forward, my feet barely digging into the earth. Cracks webbed through the ground. My arm shot straight forward as the force moved through my core and into my shoulders. Like firing a cannon, the built-up force exploded into my arm into my hand. My arm twisted as it bolted forward, my fist clasping as my palm turned to the ground.
+
+With the telekinetic wedge at the front of my fist, my arm drilled forward. It spiraled right into the wood, crunching through the wood with ease. The tree cracked down the middle before my fist blew out the other side of it. Portions of the tree splintered, but my fist almost pierced the tree like an actual knife.
+
+There was a circular impression made out in the tree, like a tornado had burrowed through it. At the back of the tree, it was like the exit point of a bullet wound. My fist had blown the back of it away, leaving a missing chunk of it.
+
+I sighed as I pulled my fist out of the hole. I wanted my hand to drill all the way through. It would give me a piercing move against armored foes, which were my biggest weakness. If I faced Gabriel without using these new techniques, I may not be able to get through his armor. With that punch though, it may be possible.
+
+It still wasn’t perfect though, so I pulled my hand out of the tree. I could drill through the walls of houses, but trees were still a bit too much. I didn’t just tear the tree in half though like when I first tried. The move would be difficult to learn. It was a combination of all my skills and stats up till now.
+
+Strength and constitution’s assistance was obvious. The other skills, not so much. Dexterity helped with the tiny adjustments mid strike and the flexibility helped me torque my arm more than a normal human. Perception let me spot the weakest parts of the tree, striking at tiny, minute cracks in the wood and bark.
+
+Boundless Storm helped smooth out all the different parts I was working on. I mean, imagine trying to use fifteen different skills all at once. It’s a nightmare. Boundless storm was easy as breathing to use, and let me focus on incorporating new techniques into my fighting style. It even made most skills easier to use while it was activated. The skill really showed its worth over time. Now that I was trying to amplify my fighting style with the telekinesis especially.
+
+Those thoughts raced in my head as I wiped some splinters off my arm. I already heard a set of steps landing on the pavement of a nearby street before I even punched. I turned around, Kessiah and Althea walking up.
+
+Kessiah put her hands on her hips when they reached me,
+
+“Well I’ll be damned. What was that?”
+
+“Something Torix and I’ve been working on.” I turned to Althea, “You ready to end some eldritch?”
+
+Althea pursed her lips, “As ready as I’ll ever be.”
+
+I walked forward, the grass ripping underfoot,
+
+“Then let’s crush them to powder.”

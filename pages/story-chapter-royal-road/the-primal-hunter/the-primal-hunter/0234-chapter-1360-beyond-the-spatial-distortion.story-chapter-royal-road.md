@@ -1,0 +1,123 @@
+---
+id: e68668fc-6194-5805-a3fc-662feb63de86
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1360 - Beyond the Spatial Distortion"
+slug: 0234-chapter-1360-beyond-the-spatial-distortion
+partOf: the-primal-hunter
+position: 234
+ownLength: 2561
+unit: words
+publishedAt: 2026-07-23
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3715296/chapter-1360-beyond-the-spatial-distortion"
+royalRoadId: "3715296"
+---
+
+Jake had seen many grand sights throughout the multiverse. From the massive cities created in the impossibly large caverns inside Primordial-4, housing the Order of the Malefic Viper, to the mind-bogglingly huge Yggdrasil and the entire civilization that spawned around her body.
+
+Compared to these two, what he was currently looking at wasn’t as impressive, but it still gave him pause. There was an aura that caught his eye. An odd sensation that there was something grand about the palace that he couldn’t quite put his finger on.
+
+What he saw, smack in the middle of the massive, scorching desert, was a gigantic complex of structures and landscaping, all partly obscured and shimmering from the heavy spatial distortion.
+
+“Seems like we found the Palace, though I have a feeling it isn’t as easy as just flying in there,” Sandy said, making Jake nod in confirmation.
+
+“Doesn’t look like it,” he answered. “The palace is placed on higher ground than everywhere else, with two sets of walls separating it from what appears to be other districts, each higher than the one before it. To even get into any of these districts, one has to get through what I think is a garden of some kind, though.”
+
+Despite Jake’s massive Perception, he had never been the best at describing things, though he believed his words should relay what he saw. Besides, it was rarely a problem, as one could send mental images via telepathy. Sandy wasn’t a fan of that, though, probably in part because the worm didn’t have any eyes in the first place and didn’t get much value out of “seeing” things.
+
+“Yeah, okay, hm, and with this level of space magic... will have to get closer, but I’m not sure I can tunnel through. Powerful system-fuckery going on, I think. Maybe Jasper can do something, but we’ll see when we get there,” Sandy said, not surprising Jake with their doubt. He also didn’t believe the two of them could merely force their way to the top of the palace should they so desire.
+
+Jake took a few more seconds to observe the palace, which was more like a fortified structure surrounded by a city. It looked out of place in the desert, yet oddly fit the environment with its golden design.
+
+The palace itself was stupidly big, with large spires shooting far into the sky everywhere, making it look almost like an old cathedral in places. The design was predictably gaudy, and while Jake couldn’t see many details from this distance, he assumed the walls and pillars to have intricate designs and carvings all over them.
+
+Shaking his head, Jake allowed Sandy to swallow him once more before they continued their journey towards the palace. He didn’t want to waste more time observing the palace from the outside than he had to, as, quite frankly, it was more likely than not a complete and utter waste of time, as what he was “seeing” wasn’t what he would actually be exploring.
+
+As Sandy had already pointed out, a layer of extreme spatial distortion covered everything, and Jake suspected that what he saw was hardly representative of the place they would soon enter. It was more like a mirage of a preview or something like that rather than actually representative.
+
+One thing was for sure: what they saw wasn’t the actual size of the desert’s middle section. The place was way too small, being barely a few kilometers in diameter, so if B-grades were to enter, the palace would quickly be reduced to rubble. That, or the place would be indestructible and be a small, cramped space that would suck equally much to explore.
+
+In conclusion, their group of three should really get there sooner rather than later to see what was going on.
+
+Sandy proceeded to chomp down on Jake before diving back into the sand, allowing Jake to enjoy being out of the heat inside their stomach. They still had several of those desert-resistance pearls, but if they could avoid using them, they would. No one knew what the circumstances were inside the palace, or whether it still counted as part of the desert, with the same extreme heat.
+
+The rest of their journey continued smoothly, and soon, Jake could see the edges of the palace with Pulse.
+
+“Can confirm some extreme spatial distortion is going on there,” Jake shared with the group. “Everything over there is just a complete mess to my senses, and I can’t at all figure out what it looks like on the inside.”
+
+“As expected, though I do find it more peculiar that despite being this close, I can’t detect anything coming from the palace either. I wouldn’t even have detected it was there if not for the space magic radiating throughout the desert,” Sandy said. “How about you, Jasper, you picking anything up over there? Your senses are a lot keener at detecting tasties through powerful barriers or in hidden spaces.”
+
+Jasper looked as if he had strained himself for a few seconds before shaking his little head in defeat. “Super hidden.”
+
+“So, definitely a separation barrier with extreme system fuckery mixed in, because there’s no way anything meant to be for B-grades could stop all three of us unless it was specifically designed to stop anything and everyone from peering through,” Sandy concluded, making Jake nod, which made Jasper also nod half a second later.
+
+“Are we just going to try to go through the barrier when we get here?” Jake asked after a moment’s thought.
+
+“I see nothing else to do,” Sandy said casually. “Doubt the Exalted Prima or system or whatever designed this event wants to keep us out of the Palace of Abundance, and if we’re not wanted there, it’s a safe assumption we’ll at least be told how to enter. Or, I could be wrong, and we’ll all disintegrate upon making contact with the space barrier, killing us instantly.”
+
+“That bad,” Jasper said in a serious voice.
+
+“That would indeed be bad,” Jake nodded in agreement, giving Jasper a smile. “So let’s hope that doesn’t happen, and if it does, we’ll both blame Sandy and lay all responsibility squarely on them. Deal?”
+
+“Responsibility bad! Blame other good! Deal!” Jasper said, holding up his small paws in excitement, looking too damn cute while definitely saying some rather disturbing words.
+
+“Wow. Just wow,” Sandy said. “Can’t believe the people I associate myself with... oh well, at least there’s still Tom, who would never betray anyone and whom you can always trust.”
+
+The three remained quiet for a little while as they got closer and closer to the Palace of Abundance, or at least the area it was placed within. Jake continually used Pulse, not to try to uncover anything about their destination, but to see if anyone else was around. While he believed they were ahead of nearly everyone, he wouldn’t rule out that others hadn’t already made their way to the Palace of Abundance, either.
+
+Who knows, maybe there was some way of getting there without going through the desert. There were so many unknowns regarding the World of the Exalted Prima, and information remained limited, even if Jake could occasionally get updates from Miranda about what was going on with his Territory. A Territory that was apparently still expanding despite his absence, as Holstred had returned from the Central Domain and was now leading an army around. Jake didn’t envy the guy, as leading an army didn’t seem fun at all.
+
+“Alright, we’re here, which I assume you already noticed, but I felt the need to announce it anyway for dramatic effect, and I do feel a little reluctant about just going straight through the barrier, so I want assurance from you two that it’ll be fine before doing so,” Sandy said very concisely, not at all rambling.
+
+“Can I suggest you spit us out and we all enter on our own, maybe?” Jake asked. “It does risk maybe splitting us up or something, but it should also be safer in case there are some mechanics stopping groups from going in, or if something gets messed up as we’re technically inside of you.”
+
+“That is a great suggestion that would also write off a lot of my responsibility should anything go wrong!” Sandy said, and without warning, Jake felt the pull of space magic on him, and a moment later, he found himself floating in the hot desert outside alongside Jasper. The little guy instantly surrounded himself with magical mist to try to mitigate the heat, while Jake just dealt with it.
+
+“Let’s go, then,” Jake said, not wanting to exist in such a horrendous environment longer than he had to. Jasper gladly followed, with Sandy shrinking their body down quickly before landing on Jake’s shoulder.
+
+“How the turns have tabled! Your turn to carry me now!” the space worm proclaimed loudly. “Now it’s your responsibility if anything happens.”
+
+“Want to grow even smaller and have me eat you to truly reverse the situation?” Jake asked jokingly.
+
+“Would you dare to do that? I reckon I could find some fun things inside you... maybe something to snack on,” the worm said in a way too threatening tone, making Jake instantly abandon the idea and speed up as the three soon found themselves in front of the wall of distortion they believed served as the entrance to the next area.
+
+With nothing ventured, nothing gained, the three of them proceeded into the spatial distortion, their only assurance that nothing bad would happen, their belief that the system wouldn’t just randomly kill people off, and Jake’s danger sense not warning him about anything.
+
+Entering the spatial distortion, Jake felt his vision swim, and his mind got flooded with a lot of contradicting information all at the same time from his Sphere of Perception. The area in front of him expanded and warped while the desert he’d just left behind appeared to have been compressed to a ludicrous degree. It was so much that behind him, Jake “saw” the border with the jungle, which should be the circumference of several planets away.
+
+Closing his eyes on instinct, Jake held a hand up to his head, stabilizing his mind before opening them again, only to find himself met with another shocking sight. He hadn’t even noticed it because of everything else, but he’d gone from flying in the air to standing on a massive road of large stones.
+
+“Well, this is nice,” Sandy said, still on Jake’s shoulder. At least they were there until the worm started floating and made their body grow a little while scanning the environment. “Then again, I shouldn’t be surprised; this is the garden of a palace, after all.”
+
+“It does appear to be exactly that,” Jake said, having now had the time to fully process everything, and with that processing, he’d confirmed a lot of things at once. First of all, yes, the inside of the spatial distortion was way fucking bigger than it looked from the outside. So big that Jake couldn’t see the end of this place, even with a Pulse. Which brought him to the following conclusion:
+
+This was just some outer area, and they hadn’t actually arrived at the palace yet. However, when Jake looked ahead, he could see the place towering over them in the distance. It appeared closer than it was, but Jake knew it was, in actuality, pretty damn far away.
+
+Third, Jake got a lot of responses from both Sense of the Malefic Viper, and through the enchantment on his boots, he also felt that this place was filled with treasures, far more than there were in the desert or the jungle. The area here was also a lot gentler in every way.
+
+The scorching heat was gone, replaced by a slight breeze and nice sunlight that reminded Jake of a great summer day, with there even being a few scattered clouds in the sky. The surroundings were also nice: a huge garden with winding roads lined by neatly cultivated flower beds, interspersed with larger features like fountains, small buildings, and sheds, as well as many other points of interest. It truly felt like a normal garden, except that everything was on a far larger scale.
+
+Just the road beneath their feet was several kilometers wide and continued into the horizon. The flower beds also contained flowers that were more akin to giant trees, despite having the designs of normal flowers. It was like the garden of giants, which, again, made perfect sense... because it was a garden for giants.
+
+Not too far away, inside one of the flowerbeds, Jake saw a large indent in the soil, which very much had the shape of a foot. It was several dozen meters across, meaning whatever had left it was one large creature.
+
+He didn’t detect any of these giants, though, which was odd, seeing as there was a footprint. However, while there weren’t any giants around, that didn’t mean they were entirely alone.
+
+“There are others already here,” Jake said, turning his head towards where he saw three people moving around together. “Doesn’t appear to be NPCs from their movements. In fact, I can’t detect any NPCs right now anywhere as far as I can tell.”
+
+“Perhaps there are mechanics like in the jungle where we will enter small isolated spaces when we get near treasures?” Sandy suggested.
+
+“Perhaps, but even back in the jungle, I could detect where the NPCs were before the spatial isolation kicked in. Here, it truly looks like there aren’t any guardians,” Jake shrugged.
+
+“No guardians... free treasure?” Jasper asked, looking excited as he’d definitely already sniffed out plenty of good stuff in their surroundings.
+
+“It’s possible we’re only meant to compete with other Administrators here, sure,” Jake said. “And if that’s the case...”
+
+“It’s looting time!” Sandy wiggled, joined by Jasper dancing in a circle, ready to rob the giants who may or may not call this garden their home.
+
+Sandy quickly stopped wiggling before making a sound as if clearing their throat. “Alright, soldiers, now orders are in from high command. You are to spread out and secure as much bounty as possible, with Lieutenant Jasper – congratulations, you got promoted – in charge of communications and ensuring that if any operative is caught out, the two others will immediately come to assist. We clear?”
+
+“Promoted!” Jasper said, before using his magic to leave small marks on both Jake and Sandy. These marks didn’t allow outright communication, but Jake and Sandy could both easily break them, and whenever any mark was broken, the others who also had a mark could instantly feel it along with the direction of where the mark had been broken. For good measure, Jake also put Hunter’s Mark on the two, though that would only help him find them after splitting up.
+
+“We’re clear,” Jake nodded with a smile. “Now let’s see what this Palace of Abundance has to offer, and be sure to warn the others ASAP if you encounter any danger.”
+
+The two of them gave confirmations, and without further ado, the three set out to rob the presumed giants blind... though it did quickly become clear that while it didn’t initially look like the treasures had any defenses, this garden was far from free of danger.

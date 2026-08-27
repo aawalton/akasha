@@ -1,0 +1,453 @@
+---
+id: fbb64495-b37d-5cc8-aad8-d25e1a7787f9
+page-type-slug: story-chapter-royal-road
+title: "441 Monster and Machine"
+slug: 0401-441-monster-and-machine
+partOf: the-new-world
+position: 401
+ownLength: 4128
+unit: words
+ownProgress: 4128
+publishedAt: 2025-06-22
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2375491/441-monster-and-machine"
+royalRoadId: "2375491"
+markedReadAt: "2026-06-29T21:35:07.884Z"
+---
+
+My stomach sank.
+
+“That’s true. We’ll need to reverse engineer the cipheric tech that he’s using.”
+
+“It will take you millennia to understand the cipher to such a level if you ever will.”
+
+I raised my palms.
+
+“Hey, let’s handle this one step at a time. Besides-”
+
+Blegara’s scar shone like a necrotic wound in the light. I let out a sigh with no air for breath or medium for sound to travel in.
+
+“We’ve got a lot of work to do.”
+
+Chapter Begin
+
+Plazia telekinetically rumbled within his shell.
+
+“It's a bold assumption that Elysium will let us clean this carnage after we culled their forces.”
+
+I shrugged.
+
+“Anytime Elysium engages with me, they haven't gotten anything positive out of the exchange. At this point, I'm hoping they just assume we're a burned bridge that's best left avoided.”
+
+Plazia glared at Blegara.
+
+“I’ve tried convincing fellow eldritch of a new purpose. The more force behind my message, the more they fought against me. To them, their hunger is something worthy of worship. That it is a path to perfection. The same may be said of Elysium and their idealogy, and to convince zealots is an exhausting path. It drips with glistening blood and sour bile.”
+
+Dollops of partially frozen blood floated around us, and Blegara's sun in the distance seemed so small. I couldn't gaze at it without remembering the unreal force it carried.
+
+"Sounds like we'll need a mop then. Come on, let’s get started.”
+
+Using our vantage point, Plazia and I spent several hours assessing the damage done to Blegara’s surface. After mapping the patterns out, we marked larger pockets of tissue left behind by the fortress and brainstormed the resulting blowback from Elysium. We found that the vast majority of the Spatial Fortress disintegrated, but a few disparate, enormous chunks still floated near the moon and closer to Blegara.
+
+I commandeered a few of my golems to help destroy the most significant bits, but we couldn’t be certain that all of it was gone. A quick call to other guild members helped us gather a force of around ten thousand volunteers for the initiative, many of them gialgathens. The loss of their homeworld gave them a surprising empathy for the Vagni and the near loss of their oceanic haven.
+
+It took several weeks to expunge the surrounding space of its floating debris, but we cleansed the remaining 99% of what lingered behind. At this point, far less than a tenth of a percent dwelt in the darkness of space. Any falling orbital bits would burn up in the atmosphere, keeping Blegara safe. As for the planet's torched surface, restoring the ocean world presented a massive challenge.
+
+The most pressing concern stemmed from the environment – a third of the world was a ravaged hellscape. The fortress swallowed much of the vast seas, leaving a parched, glassed section of the planet in its wake. To restore its previous vibrance, we needed water and a lot of it. Fortunately, I knew just the place.
+
+Plazia and I headed back towards an open dungeon on Blegara, one I marked long ago. It was an enormous rift leading to another ocean world, one that may have converted Blegara into its current water-laden state. Upon that silent plane, I remembered the dim stars and endless quiet of that other world. It was as if all life had given up trying to rage against the silence of death and the dying of all light.
+
+It instilled fear in me, but it carried opportunity within its quiet. Plazia and I arrived before gazing at the colossal chasm as it flooded out with water. I put my hands on my hips.
+
+“There it is. Told you it was big.”
+
+Several of the runes across Plazia’s Sentinel’s armor glowed, each reverberating like machines of mana. They let him float.
+
+“It is large to a regional standard. This will not quench the thirst of a planet. Obviously.”
+
+I spread my hands.
+
+“But get this. What if we open it wider, eh? Eh?”
+
+Plazia stared into the sky.
+
+“You are a creature with jaws, and every problem is solved with a bite.”
+
+I gestured to the giant chasm.
+
+"And look what it did to the Spatial Fortress."
+
+Plazia dragged a hand down his face.
+
+"Hm. Then let us continue down this spiral of insanity, the depths of which few may understand and fewer still will choose to tread."
+
+We took several hours inspecting the limits of the dungeon. From what I gathered, it expanded further than the plain world I carried with me. At the same time, the sheer size of the dimensional rip made moving it impossible. To help the issue, I sent a message to an old friend.
+
+From the ether, the Overseer walked out of a cubic portal. The pauldron I made him rested on his right shoulder, wires lacing the slab of dimensional fabric. The runes glowed, energy flowing from it and into different pieces of machinery. Converters prevented the rampant energy from changing his thoughts, and all the mechanisms touched became sterile, contained energy.
+
+The Overseer turned to me with a curt nod.
+
+“Harbinger.”
+
+I returned the gesture.
+
+“Overseer.”
+
+The Overseer turned to Plazia, and Schema’s worker squeezed a hand into a fist.
+
+“I see you associate with their ilk now. A shame, though using them for this purpose is as productive as these monsters may be.”
+
+Plazia cackled.
+
+“Oh, the irony. You warp from world to world, handling administrative duties. I’ve saved a planet as you did your paperwork. Now you criticize me? Hah. As short-sighted as your maker, aren't you?”
+
+The Overseer turned a hand to the eldritch.
+
+“Ah, so sharp of you to notice. It’s amazing what a monster can do when it wears the shell of something sentient. Tell me, what did you have to save that planet from? Was it a rogue Overseer? A criminalized Sentinel, perhaps?”
+
+Plazia tilted his head.
+
+“It was a Hybridized fortress.”
+
+The Overseer put a hand over where his mouth lay under his armor.
+
+“Ah, so it was a variation of you. Daniel, have you ever wondered how many of your guild will be eaten alive whenever this abomination loses control? I expect 30-40% of humanity, but remember that I prefer positive estimations.”
+
+Before I could answer, Plazia snapped his words like a stinging whip.
+
+“I’m the abomination now? You know that the same energy that deforms my kin also powers the machinery you have embedded under your skin. The only difference between you and me is that my changes were enacted by rogue circumstances. You are the byproduct of a meddling machine, one that carries goals as sinister as any eldritch.”
+
+The Overseer turned to me.
+
+“What is the overtalkative bug prattling on about?”
+
+I raised a hand.
+
+“Elysium told us that mana is derived from the Old Ones.”
+
+The Overseer waved a hand like he was throwing away garbage.
+
+“The rebels lie about everything they can. When have they told you the truth? During their treaty? Or was it the lottery? My memory fails me.”
+
+Seeing Plazia put the Overseer in a sour mood instantly. Plazia murmured,
+
+“They tell the truth whenever it is convenient. Aside from the trustworthiness of the source, we know of compelling evidence to support Elysium’s conclusions.”
+
+The Overseer leaned towards Plazia.
+
+“Like what? You're desire for you and me to be the same?”
+
+I frowned.
+
+“I’ve visited several of the manifested dimensions of the Old Ones. Baldowah’s plane oozes ascendant mana. Eonoth’s is all about primordial mana. Even Etorhma has some kind of energy oozing from him, and his avatar used it just like normal mana as well.”
+
+The Overseer lifted his hands.
+
+“They are cosmic beings. They struggle to manifest in this dimension, so using characteristics of our dimension is how they bridge the endless gap between us. Aside from that, why would the Old Ones give away their energy for free?”
+
+I spread my hands.
+
+"To make us into the tools that allow them to manifest in our dimension."
+
+Plazia’s internal body swarmed.
+
+“Aside from that inconvenient truth, other questions arise. For instance, if mana is so intrinsic to this dimension, why doesn’t it manifest without Schema’s intervention?”
+
+The Overseer scoffed.
+
+“You’re an insect who’s lived in an empty world for centuries out of fear. What do you know of the workings of the wider world? Of Schema’s universe?”
+
+“More than the dog that laps at the scraps of its master.”
+
+I pinched the bridge of my nose.
+
+“The point is, Elysium believes that as a fact, so they’re fighting tooth and nail to stop that dependence.”
+
+The Overseer sighed.
+
+“Even assuming they’re correct, they’ve done nothing but breed the problem they attempt to neuter. By using the Hybrids and disrupting the inner workings of Schema’s system, they’re causing Schema to rely more on mana than ever before. Our protector has always used it, but now Schema’s wielding specialized, higher-leveled versions of us. You’ve seen the preliminary ascendant forms as an example.”
+
+I raised a brow.
+
+“Yeah, and they’re nowhere near as stable.”
+
+The Overseer gazed at the abyss that belched water below.
+
+“We had the eldritch threat contained and handled. Now we must fight in a pointless, bloody civil war so that the fairy tales of a cult can be entertained.”
+
+Plazia’s swarm rumbled within his shell.
+
+“Those fairy tales are told because your ruler won’t unveil the secrets it hordes. Instead, it lives upon a throne of lies and half-truths, only giving out tantalizing pieces of its treasure to manipulate whoever it so pleases. That is why Elysium exists – the failings of a false master.”
+
+The Overseer’s giant gauntlets glowed with blue mana.
+
+“Elysium exists because the remnants want to dominate the universe and by any means necessary.”
+
+The runes across the scarred Sentinel armor glowed over Plazia’s body.
+
+“Perhaps they wish to cast aside the current tyrant who rests easy on his throne. Hasn’t his crown seemed heavy as of late? His rulings are certainly aged and addled. Perhaps someone should take that from him.”
+
+The Overseer stepped up, his body humming as mechanisms whirred to action.
+
+"You will rest that earned power from dead hands, cretin."
+
+I wielded Event Horizon as a weapon, bearing it down on them both.
+
+“Or perhaps you’re two children who can’t take a moment to look past yourselves and work towards a larger picture?”
+
+They glared at each other, but Event Horizon’s oppression settled into their minds as time passed. They lost the will to battle for nothing, and I removed my aura. Plazia turned to the gaping dimension below us.
+
+“I’ll tolerate this mechanized hypocrite if it is demanded of me.”
+
+The Overseer rolled his shoulders.
+
+“Another time, insect.”
+
+“Anytime you wish to die, little dog who bites upon heels.”
+
+I snapped my fingers, and a singularity erupted in the ocean. The sound and shockwave drew their attention. I pointed at the water.
+
+“Can you make the dimensional opening smaller?”
+
+The Overseer leaned back.
+
+“Yes, but what will that accomplish?”
+
+I put my hands in front of me.
+
+“I know it sounds crazy, but I’m going to push Bikini-Bottom somewhere else.”
+
+The Overseer and Plazia stayed silent for a moment. They spoke in tandem.
+
+“Bikini-Bottom?”
+
+I waved my hands in a circle.
+
+“I just made an incredibly complex and layered metaphor. I derived it from my old world and one of its most profound works of literature and culture. Truly, I attained that knowledge from only the finest of masterpieces, and yet it's lost upon you both. For shame, but the point is, I’m going to move that dimension somewhere else.”
+
+The Overseer looked at the sky.
+
+“This again. Insanity.”
+
+Plazia crossed his arms.
+
+“I doubted his ability, but he carries the weight of worlds well. I hid within one when we fought the fortress.”
+
+The Overseer kept staring.
+
+“It’s a star…A Hybrid Star. That’s Schema’s working classification.”
+
+I shook my head.
+
+“Damn, dude. That’s so much better than our name.”
+
+The Overseer shook his head.
+
+“It’s not a Spatial Fortress by any measure. Those are specialized end-state eldritch designed by Schema. They are the actual guard dogs of Schema’s universe.”
+
+Plazia’s head twitched.
+
+“You are no different. All you may do is bark and bite at what your master commands. You have no mind for yourself.”
+
+The Overseer glared down at Plazia.
+
+“We will have to agree to disagree. Is there anything else that needs to be done here before I leave?”
+
+His gauntlets glowed.
+
+“Perhaps an infestation cleared?”
+
+I frowned.
+
+“Don’t you have a kill switch?”
+
+The Overseer laughed.
+
+“It’s been loosened in the wake of the war. It gives me the liberty to do some cleaning from time to time.”
+
+I pointed at Blegara’s moon.
+
+“Speaking of, we need some way of tracking pieces of the Hybrid Star. Otherwise, we’ll never know if it’s actually killed."
+
+The Overseer opened his red status screen, and he filed forms until a notification popped up in front of my vision.
+
+Quest Received: To Cleanse a World
+
+A colossal Hybrid Star has attached itself to Blegara, a world of oceans and eldritch. It is up to you to clear it from the planet, saving every living thing that calls this place its home.
+
+-Objectives- | Kill the Hybrid Star on Blegara | Clear the remnants lingering from its demise | Bonus Objective: Terraform the surface of Blegara
+
+-Rewards- | Tracking upgrade to system inputs | Terraforming upgrade to system inputs | Three blue cores, thirty red cores, 30 million credits |
+
+I looked at the contract with a conflicted feeling. The system rewards met expectations, while the material gains left a lot to be desired. I chose not to complain since I'd handle these tasks regardless of what Schema awarded me. In that sense, this quest gave me something for a task I’d do without any compensation.
+
+I gave the Overseer a sardonic smile.
+
+“A little low on the rewards for saving a planet, but I’ll take what I can get.”
+
+The Overseer turned a hand.
+
+“It’s what we can spare right now.”
+
+Plazia cackled.
+
+“Of course. A rotting corpse is given for saving a planet. It is the way of that AI.”
+
+I turned to Plazia with a palm raised.
+
+“Hey now, you heard him. He’s doing what he can. This is Schema’s limit, and really, it's all we can hope to expect given the war.”
+
+The Overseer tapped his red status screen with overbearing thuds, the sounds of each click like a pop of thunder. Another notification bleeped into existence.
+
+Other Bonus Objective: Eliminate the disgusting hivemind residing on Blegara.
+
+Reward: seven blue cores, seventy red cores, seventy million credits |
+
+I scoffed.
+
+“I’ll see what I can do.”
+
+The Overseer crossed his arms.
+
+“Do consider the awards. Now, it’s time for me to leave. I’ve spent far too much time here.”
+
+He opened a warp before I waved a hand.
+
+“Wait a minute. I need Schema to help me out with these dimensional tears that keep cropping up on my planets. They’re insane threats to humanity, and, honestly, everything-”
+
+The Overseer put a hand on my shoulder.
+
+“We’re doing what we can, but there’s an entity that’s begun assaulting Schema on the other side of his owned space in the Milky Way. It’s unfortunate, but there’s little that can be done as of yet.”
+
+Plazia whispered like a quake of the earth.
+
+“And yet Schema can still choose to hide so much. The tyranny of silence...It is a quiet thing where little is said, yet all is done.”
+
+The Overseer motioned his head as if rolling his eyes under his featureless helmet. I knew it. Plazia knew it. We all knew it. The Overseer entered a few commands into his status once more, and reality shifted around us. Portions of space turned into cubes, reformatting the terrain and expanse around us with mechanical certainty.
+
+As the sterile mana faded and the chasm turned into a typical warp, the Overseer gave us a nod. He stepped through his own portal before disappearing, and as he did, I turned to Plazia.
+
+“After we finish cleaning up Blegara, do you mind leaving and taking your minions with you?”
+
+He peered at the water with distaste.
+
+“It would be done regardless. I’ve had enough of white beaches and black seas. I prefer moss-laden caves, the smell of rich, wet earth, and the sound of crashing waterfalls should a planet have them.”
+
+I waved a hand.
+
+“Good. We’ll make sure you get a nice base and new carapace after this whole debacle.”
+
+“You’re giving me your flesh in exchange for good works? You’re turning your guild into a cult.”
+
+“In a lot of ways, the only difference between cults and religions is the magnitude of success. Anyways, come on. Let’s get it done.”
+
+Before we got to it, I contemplated the Overseer's words. Either he had been re-indoctrinated recently, or Schema achieved something that reignited his fervor for the system. Perhaps the war with Elysium was faring better than I expected. Either way, I had a notification to read.
+
+System Upgrade: Tracking End-State Eldritch
+
+This system augment grants you the ability to find and parse through the vast wastes of space and a planet’s surface to find the remnants of our greatest enemies – end-state eldritch. This newfound minimap allows you to find their pieces within any three-dimensional space, ensuring you can clear an infestation with minimal effort!
+
+After a flash of mana coursed through me, I gained another option in my minimap. It generated a set of red blobs around me with excruciating detail, down to the drops of blood gushing from their wounds. Those crimson blots were semi-transparent, just enough to be easily seen but also ignored in the heat of battle. That utility let me leave the function on even when floating or moving through space, and each piece carried a coordinate floating over it.
+
+I shared the data with Plazia-Ruhl.
+
+“Does this mean anything to you? It’s gibberish to me. The coordinates, that is.”
+
+Plazia let out a sigh.
+
+“You’re an uneducated imbecile at the strangest of moments. That is the galactic coordinate system Schema uses.”
+
+“And that you use, apparently. Some eldritch you are.”
+
+“If the AI is anything, it's organized. It gives you an idea of where you are in the grand scheme of the universe in a way little else can.”
+
+I waved a hand through the data. My fingers floated through the visuals without disturbing them.
+
+“This looks like it would be incredible for anyone trying to warp anywhere.”
+
+“It would solve all the manual warping issues that technicians deal with. That is how you know it will never be shared.”
+
+I frowned.
+
+“It’s how Schema holds power. One of the ways, at least.”
+
+“It does far more than hold power over you. It is putting a noose around your neck. The only places where you can still walk are where the hangman’s stools are lined up for you.”
+
+I shrugged.
+
+“But at least we know where to go.”
+
+Plazia’s gaze sharpened, many eyes lighting up from within his vessel.
+
+“I’ve known you long enough to know you’re a fool but not utterly naive. Are you lying down like some coward, or does it actually not bother you?”
+
+I nodded.
+
+“Of course it does. It’s honestly ridiculous that Schema isn’t doing everything it can as efficiently as it can. If it was trying to help half as much as it says it does, we’d have moved well beyond the eldritch by now.”
+
+Plazia simmered his words.
+
+“Then why do you not show anger? You’re like some kitten that is scared of its own roar. It’s pathetic.”
+
+I remembered my father raging nearly a decade ago. He’d throw bottles at the wall while cursing diseases like cancer or the people who fired him from his last day job. His anger did nothing but leave dents in the walls and whelps on my head. It also alienated his friends and raised his blood pressure. That was why I left my anger for select moments, and this wasn't one of them.
+
+I looked down at Plazia.
+
+“A roar does nothing. It’s only a declaration. It carries meaning but lacks substance. Anger is the same. It spurs those who lack the will and conviction to motivate themselves beyond simple, emotional triggers. For me, I can make myself act. It’s actually my preferred language. In time, my actions will speak so loudly that I won’t need anger or roars or declarations. Everyone will know exactly what I never said aloud, even those that haven’t heard my voice or felt my rage.”
+
+I raised my brow.
+
+“And that's because words are undone in moments. Actions echo.”
+
+Plazia soaked in what I said before crossing his arms.
+
+“Then let us go speak to the lingering bits of corruption left behind our battle.”
+
+I smiled.
+
+“Let's.”
+
+Plazia sliced a portal and hopped in. I followed behind, and we found that the tracking system operated on a grand scale, far larger than even a planet in size. The lack of a size restriction contrasted the other search options from Schema's minimap entirely. It could only help us find pieces of a Hybrid Star or Spatial Fortress. In all honesty, the long-term utility of the option relieved and renewed my desire to help Schema.
+
+I had desperately needed this for the rest of my planets. The precise knowledge it garnered allowed me to clear out any infestations long before they grew out of hand. The convenience would save me mountains of effort and time in the long run, and we'd avoid deaths in my future worlds as well.
+
+In this case, it stopped Blegara's moon from becoming infested with the eldritch gunk. Making that happen, we kept warping around and clearing out fragments of the Hybrid Star for several weeks. Having handled all of the major threats to my guild, I had a bit of leeway with how I dealt with this particular task. To me, that meant doing it well.
+
+We kept clearing and scorching this section of space until I gained a notification from Schema.
+
+Second Objective Complete! The lingering remnants of the Hybrid Star are cleansed, ensuring the future of this world and many others. Excellent work, Harbinger.
+
+Reward: Augments to status system revolving around terraforming.
+
+System Upgrade: Terraforming Worlds
+
+This system upgrade allows the user to discern the ratios of various chemicals along a planet’s surface, including all baseline elements and a list of over fifty common chemicals, including water. It carries a history of revisions along with knowledge of a planet’s general geographical status. It even includes functions for life forms not based on carbon or water!
+
+Even a cursory glance of the options left me floored. Compared to the tracker system, this defied all reason. It gave me a laundry list of different options, premade plans, and color-coded bars for each element on the surface of the planet. The data points included gravity levels, various toxins, and the kind of microbiome that currently existed on a planet.
+
+Those microbes helped change the makeup of the planet’s atmosphere and keep it changed, maintaining it over the long term. Another significant but underrated function involved the volcanic activity of a planet. It had diagrams and maps for hotspots along with lines for a planet’s tectonic plates. It gave notices for disasters, including the enormous patch of Blegara left destroyed by the Hybrid Star.
+
+These kinds of functions let me dissect and understand a planet's current state and its long-term trajectory, each an essential function for anyone terraforming. Schema even had different links for products sold by a few of his trusted associates. The sheer volume of information left me a little overwhelmed, and As I read through the data, I rubbed my temples.
+
+“This is like…A college course in a niche field. Oh man, my worst enemy.”
+
+Plazia gazed at a hand in boredom.
+
+“Even if you were to fail the course, surely fifty of you wouldn’t?”
+
+I squinted.
+
+“I wouldn’t be so sure. If there’s one thing I’m a professional at, it’s flunking out of classes.”
+
+Plazia waved a hand through the floating, three-dimensional panorama of Blegara.
+
+“Then retake them as necessary. Academia is often an exercise in effort and diligence, not intelligence or ability.”
+
+“Eh, but book smarts tend to help. Anyways, look at this.”
+
+I shared a few of the collected notes I gathered online with the hivemind, and we gathered a reasonable approach to the problem at hand. I pointed at the warp below that gushed water.
+
+“Are you ready?”
+
+Plazia murmured.
+
+“To push Bikini-Bottom elsewhere? Easily.”

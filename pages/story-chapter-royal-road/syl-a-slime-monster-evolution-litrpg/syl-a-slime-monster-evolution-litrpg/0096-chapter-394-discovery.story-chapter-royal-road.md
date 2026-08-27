@@ -1,0 +1,151 @@
+---
+id: 8190733a-3eda-5816-a9c7-205486ed76ed
+page-type-slug: story-chapter-royal-road
+title: "Chapter 394 : Discovery"
+slug: 0096-chapter-394-discovery
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 96
+ownLength: 2379
+unit: words
+publishedAt: 2026-06-22
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3573121/chapter-394-discovery"
+royalRoadId: "3573121"
+---
+
+When I went to visit the castle, I was unfortunately turned away, as apparently they were closing for the day. It still looked early to me, but I supposed that the ruler had other things he'd rather be doing than kingdom management.
+
+I certainly can't complain. I left the branch duties to Llewel and the island to Vee.
+
+I inquired about finding a place to stay, and instead of an inn, they pointed me to a house I could stay in. The house, while small, had all the essentials and even a housekeeper golem, responsible for cleaning and basic meal preparation. Sadly, the golem couldn't be kept because it belonged to the house, but it left a positive impression of its usefulness.
+
+Overall, I rated my first day in Keld as positive; the people were friendly, and the golems' positive aspects were on full display. The city was safe from golem defenders, the people were fed by golem workers, and the golems even took care of your day-to-day activities.
+
+In fact, things felt so positive that I couldn't help but wonder if this was some kind of propaganda or advertisement campaign. Maybe Keldenar wasn't busy, and everyone was forced to stay at least a day before seeing him, so they could see what his kingdom could offer.
+
+Well, if that's true, it's certainly working…
+
+I spent most of my evening testing the house's golem. I thought it might have been a potential spy, but I soon found out it had no way of sensing magic. Other than household chores and upkeep, it had no other functions. Seeing that, I spent my free time poking around with magic creation until I went to sleep.
+
+The next day, I woke up bright and early and thanked the golem before departing. I spent some time wandering around, waiting for people to wake up while observing the city at work. When I ran out of things to do, and I felt it was time, I approached the castle again.
+
+This time, I was let in and escorted by a rather embellished guard golem; however, whatever fanciness it had was swiftly ruined when I saw the golems becoming more and more lifelike as we went deeper. There were times I could've sworn they were people, only to double-check and see the truth after using a few sensory traits on them.
+
+I arrived in what must have been the audience room, lined with guards and a large throne at the end, raised on a set of steps. Leisurely lying on it while being fed grapes from a servant was a man in his late twenties who looked somewhat out of place.
+
+Rather than wearing a royal garb, he seemed to be wearing a mix of leather, a chain shirt, and a cloak. If not for the crown on his head, I would have thought some adventurer had fallen off a cart and arrived here.
+
+As for the rest of his appearance… I could only describe him as weirdly average? He had short, unkempt black hair and brown eyes. However, what gave me pause was the sheer presence he exuded, as if I felt instinctively threatened by him. Feeling that tingle, I quickly swapped my Emblem to [Apex Hunter] and had my suspicion confirmed.
+
+Worthy!
+
+I was a bit startled by that; I hadn't expected it to count him, since he wasn't human. Or was the ruler of a human, regardless of their race, considered its apex? Even so, I knew he was a diamond-tier adventurer, but with all my evolutions and variety of classes, I hadn't expected to be on the lower end.
+
+"Hey! Welcome, welcome, sorry I couldn't see you yesterday, thank you for coming," he said politely as he suddenly sat up and patted his hands against his pants. "I'm Keldenar, although my friends just call me Keld, and yes, I know that's a bit weird considering the kingdom name… But, please ignore that."
+
+"No problem, I enjoyed experiencing the city. I'm Syl."
+
+"That's good, great even," he said with a smile. "You're the first elf here, Syl, so I was hoping you'd like it. I can only imagine what secrets the elven cities hold; it probably makes my humble kingdom look like some backwater village."
+
+"Not necessarily… The golems seem far more capable than the animated plants we utilize, as they can only perform the most mundane of chores."
+
+"So you do use plants… I figured it was either that or maybe animals, or even animal people…" his speech drifted, and he suddenly snapped back. "Are there animal people?"
+
+"We do sometimes enlist the aid of [Bonded Companions]... As for animal people, do you mean werewolves?"
+
+Keld sighed and shook his head. "No, not werewolves… I was hoping there would be beastkin, or something similar. I guess the gods weren't lying to me."
+
+He's spoken to the gods!? I thought only [Experiments] and [Dungeon Masters] did that?
+
+"Anyway. I'm really glad you came; I never could have imagined that one of the fabled elves would appear in some backwater adventurers' guild. You were invited quite some time ago. I was worried you had changed your mind."
+
+"I was a little preoccupied, unfortunately…"
+
+"Oh, I'm not complaining, even if you took years, I'm just glad it finally happened. I tried reaching out through the dwarves a few times, but I was always turned down. Then there's the fact that half the humans are terrified of elves as if you're the boogieman, or worse, and it certainly makes trying to find out anything about you guys almost impossible."
+
+The way he talked gave me a strange feeling. It almost reminded me of Vee.
+
+"Anyway, let's see…" he suddenly said and seemed to be interacting with something only he could see. "You passed the test by inflicting several afflictions on my golem, which I had never even seen before, and then struck it with water of all things.
+
+You were a Shadowcaster back then. Which, despite the name, is not involved with shadows; no, that's an Umbral Mage… Now you're an Elementalist? Can't say I've heard of that one before, although the name is pretty self-explanatory."
+
+Keldenar continued to ramble a bit as he stared off into nowhere. I wondered what ability he was using to recall all this information and cross-reference it with my current situation, and yes, I was hiding my Riftmancer class under Elementalist.
+
+When he finished whatever he was doing, he looked at me. His eyes seemed to flash, and I suddenly felt naked, as if he'd seen straight through me and actually had to resist the urge to try to cover my core with my hands.
+
+"Huh? That's not right…" Keldenar muttered and seemed confused. "Not an Elementalist… Riftmancer? What the heck is that…?"
+
+I felt a chill through my core. He had actually seen through my [Identity Fabrication], which had never happened before. Yes, there was a slight penalty for making up information, but considering I actually had levels in Elementalist, it should have been absolutely minimal.
+
+However, what he said next sent me reeling; I could never have seen it coming.
+
+"Wait. You're actually a slime?"
+
+I felt like my world had abruptly shattered, and my worst nightmare was coming true. My emotions were in turmoil as I was forced into a fight-or-flight response. My heart and mind wanted to flee, but my gut wanted to silence the witness, permanently.
+
+Suddenly, the entire castle began to tremble, and Keldenar actually looked away from me and to the ceiling. He seemed genuinely puzzled, and with his attention gone for a moment, I made my move.
+
+With an internal vote of two to one, I fled, and since I didn't have the time for a long-range teleport or the desired range for my [Personal Rift], I chained together a combo of [Blink] spells.
+
+"Oh! That rift! Dimen—" the rest of his words were cut off as I vanished from the room.
+
+To my relief, nothing stopped my spell. It was the largest chain I'd ever created, but it sent me straight out of the city. It was risky to teleport blindly, but somehow I had escaped by going up first and then away. Now that I felt somewhat safe, my terror quickly turned to rage.
+
+Shit, shit, shit! I can't believe this. What the hell, after everything, I just get outed in such an absurd manner!
+
+It felt unfair. I'd always been overly cautious, and even the elves hadn't seen through my shapeshifting; so why could one human adventurer do so? Unfortunately, I had no answers. I just wanted to get out of here while I left, figuring out how to deal with the aftermath for later.
+
+My main form is now compromised. This couldn't be worse…
+
+I was busy setting up for a long-range teleport when I suddenly felt something trigger my [Spatial Sense]. It felt vaguely similar to a teleport, but also not that, as it appeared to be both arriving and leaving at the same time. I ignored my curiosity about the phenomenon and continued retrieving a set of coordinates to Glimmerock, which felt both safe and far enough away.
+
+"Wait!" Keldenar's voice cried out; he had inexplicably arrived on the scene.
+
+I couldn't believe my eyes. He was supposed to be a golemancer; he shouldn't have been able to teleport.
+
+Wait, he's also an enchanter. Did he recreate something by studying the guild's teleportation platforms?
+
+I raised his threat level a few times in my internal evaluation, and was suddenly glad I hadn't chosen to teleport directly to the island. There now seemed to be the possibility that he could reverse engineer my coordinates by studying my teleportation point, risking our location.
+
+I shouldn't have taken apart [Stabilized Fluctuations]. This must be how he tracked me down. I'll have to make sure I properly conceal my coordinates before teleporting back to Vee.
+
+Naturally, I ignored whatever he had said and was still rapidly formulating my escape spell. I was about to cast it when suddenly the spell in my grasp fizzled into nothing.
+
+"Oh, thank the gods, I finished enough of it before you ran away," Keldenar said, sighing with a look of relief.
+
+While he was relieved, I was in utter turmoil. Something bizarre had happened, and I couldn't reach any of my usual coordinates. My mind was racing as calculations were being made, and I tried several spells until I reached a rather terrifying conclusion.
+
+He's sealed the entire region!?
+
+It was similar to the prison Vee and I had lived in while with the elves: coordinates inside the room could be tampered with, but you couldn't reach outside at all. Even my [Landmarks] spell showed the locations as "unavailable," with the sole exception of Keld; the rest were all grayed out.
+
+I wondered if this was the ability of a ruler, or something he'd done with enchanting. I suspected it was the former, as using enchanting to seal an entire countryside seemed far too unbelievable. With flight no longer an option, my heart and mind became turncoats and were firmly settled on fight.
+
+My [Personal Rift] manifested around me, granting me swift, pinpoint accuracy across all the coordinates it covered, working in tandem with [Spatial Sense]. With this, there was no need for [Position]; I could skip straight to [Positioning] if needed.
+
+While I didn't know what the golemancer class was capable of, I had fought a summoner, and they seemed somewhat similar. Therefore, I felt like they both suffered the same weakness—decapitation. The golems and summons might be strong, but take out the squishy human behind them, and it would all fall apart.
+
+I was taking the meaning of decapitation quite literally as I used [Spatial Severing] to immediately go for the throat. [Rift Rend] was stronger, but not nearly as subtle, and I hoped to finish it off in a single blow.
+
+"Whoa!" Keldenar yelled as he suddenly jumped backward, narrowly avoiding the dimensional cut. He seemed unable to see it, yet somehow he sensed it.
+
+"Thank you as always [Danger Sense], best points I've ever spent," Keldenar chuckled as he unconsciously rubbed his throat.
+
+Seeing that subtlety had failed, I cast [Rift Rend] with the help of several [Sub-Cores]. Together, we unleashed a barrage of rapidly advancing cuts across space that together should have formed an inescapable net.
+
+Keldenar's eyes widened, and then he abruptly vanished. In his place was a rather plain-looking golem, which was instantly sliced apart.
+
+I quickly turned around and saw him standing a lengthy distance away from me. However, he was admiring the aftermath of what happened to his golem rather than looking at me.
+
+"If not for [Castling], I would have been in a sticky situation there…" Keldenar nonchalantly commented, still not looking at me. "Looks like [Dimension Magic] isn't to be messed around with; no wonder ordinary people can't buy the affinity."
+
+While he seemed obsessed with his now-dead golem, I was replaying what had just happened in my mind. It had all happened within the range of my [Personal Rift], so despite it happening at seemingly immeasurable speed, I had still caught it.
+
+He summoned a sacrificial golem and then instantly traded places with it…
+
+I had never seen something like this before. It must have been a skill, as I hadn't sensed any magical fluctuations at all. This also explained how he caught up with me, as he must have traded places with one of the patrolling golems.
+
+Suddenly, I had dozens of questions, but the focus was on what the maximum range was on the swap or the golem summoning, as both were crucial for me to find out if I had any hope of defeating or escaping from this opponent.
+
+Going off how the gods usually balanced things, I imagined he couldn't summon golems anywhere. The swap probably had a limit too, but he'd already shown it could reach my location in almost no time, at least within his kingdom. I wasn't sure if either had a cooldown between activations; I certainly hoped they did.
+
+Fortunately, I just so happen to specialize in large-scale explosions… If I force you to flee a great distance, I can make my escape.

@@ -1,0 +1,493 @@
+---
+id: 31d639d9-9b34-5f35-a00b-387b6389b722
+page-type-slug: story-chapter-royal-road
+title: "Chapter 213: The Tour"
+slug: 0138-chapter-213-the-tour
+partOf: the-calamitous-bob-stubbed
+position: 138
+ownLength: 6656
+unit: words
+ownProgress: 6656
+publishedAt: 2025-07-04
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2409247/chapter-213-the-tour"
+royalRoadId: "2409247"
+markedReadAt: "2026-06-29T21:19:20.257Z"
+---
+
+“Pack it up, boys and girls. We’re heading back.”
+
+Ban Junior gave Viv a confused look. The green zone wasn’t a permanent base. Rather, Viv led the One Hundred, recovery crew, and two other elites there a couple of months every year to recover valuables and necrarch cores. It came with the ‘reveal’ of how the yries war machines were powered.
+
+For centuries, the yries had used the physical cores of their eldest and greatest shamans as power sources for their digging machines. Obviously this wasn’t enough cores to build an armored battalion, so Viv had managed to negotiate with them so they would accept necrarch core substitutes, provided they were only used in their war machines. They had accepted, or rather, Lak-Tak had been all for it while the shamans and ‘normal’ members of the tribe did their best to stay out of his way.
+
+Fortunately, Old Harrak had a massive reserve of black mana cores, which while not being the most versatile, still allowed for some nasty shields. The expedition was thus a matter of national security, not just profit.
+
+As for the profit itself, just the Harrakan Treasury’s vault had released actual tons of gold ingots of exceptional purity, all of which had been carefully extracted and invested to limit risks of inflation. New Harrak was still feasting off the corpse of its predecessor and the scavenging business was good. The issue, of course, was that only Viv and a couple others could manage necrarchs. No Viv, no expedition. She didn’t even leave unless she had at least one elite and two golems with her.
+
+“Milady?”
+
+“Duty calls. We’re leaving tomorrow. Where is Solar?”
+
+“East gate, ma’am. I’ll let the men know.”
+
+Viv nodded, walking past a purifying obelisk linked to a charging station. The green zone was surrounded by high walls but inside, it was still old Harrak with its brutalist architecture and colorless vistas of once-bustling living spots, now ruins eaten by corruption. Crews walked around at a brisk pace as they carried reports, supplies, and the precious goods they found in derelict places. Someone had apparently found advanced smithing tools in a workshop. Sinur’s Gate’s artisans were going to be delighted.
+
+Viv walked while Second Spawn followed, sniffing occasional crates and people. The crews were completely used to the tiny black whelp by now. They knew not to be alarmed and not to give her sweets, no matter how much she squealed at them.
+
+Arthur’s three children were growing up slowly, even though they ate a lot. Viv was ok with it but it also reminded her of how long and how much Arthur must have had suffered, cut off from food and company for the beginning of her life. In a way, she was lucky her mind had been so stunted. Perhaps it had protected her from much of the trauma. It still sucked for her though.
+
+“Squee?”
+
+“Yes, we’re going to see your brother.”
+
+Solar was at the gate, as promised. He was practicing his forms while Third Spawn happily jumped around him, blue scales narrowly avoiding the stick with every slow swing. Third spawn was by far the most chill and shy member of the lot so no one had any idea why he would bind with someone who had ‘dragonslayer’ among their titles. Nevertheless, his wife Wamiri was delighted because the short creature was a constant source of distraction for her kids so she didn’t always have them under foot. Solar was surprised to see her pop up though.
+
+“Themis and Clio are out on patrol. No contact for now. What’s going on?”
+
+“I’m being called by fate. We must leave.”
+
+He waited.
+
+“No I’m serious,” Viv insisted. “Something came up. I’ll make a round of the country then off I go. Don’t worry, you don’t have to be emperor in my absence this time.”
+
+“Not that I would have accepted anyway,” the blade master said.
+
+He tilted his head to the side, smiling.
+
+“In the meantime, and since you’re leaving… a spar?”
+
+Viv nodded. She probably wouldn’t get another chance in a while. Solar was one of the only people who could still teach her things, even if it was just battle experience to keep her sharp.
+
+The two flew and ran to an empty spot they enjoyed. It used to be a large park, but now it was a carved up, devastated promenade of pitted rocks. Viv checked her status. She was one, exactly one step away from pathing up. The latest tick upward had happened after she’d reached over 50 with every mental stat.
+
+She guessed there was some sort of specific condition she had to fulfill to path up. From discussions with scholars, the prerequisites to become a fifth step person were usually lower, or more specialized in other paths. She wasn’t sure but she believed there was a specificity to the Ascender class that prevented her from moving on. Despite her best efforts, she hadn’t figured out what those conditions were yet.
+
+Her progress was still nice.
+
+Physical
+
+Mental
+
+Power
+
+40
+
+Focus
+
+51
+
+Finesse
+
+35
+
+Acuity
+
+52
+
+Endurance
+
+41
+
+Willpower
+
+51
+
+“Ready?” Solar asked with a cocky smile.
+
+“Ready,” Viv grumbled.
+
+He raised an open hand. Viv cast several spells at once.
+
+“Aegis. Astra 4.”
+
+Her compound shield blocked the first of many slices. Thanks to her high focus, she would keep it up throughout the battle. The first of her mainstay spells surged towards Solar who dodged them, only for the spell to sharply arc towards their target anyway. They popped like bubbles as soon as a slice touched them. The four layers of pressure over the black mana payloads made them explode with quiet pops. Each explosion could disable an unshielded liberator, or a squad, but this time they only damaged the ground.
+
+That wasn’t Viv’s choice though. Solar was just a slippery bastard. Her constant stream of spells saturated the air in front of her, forcing Solar to dance a very narrow path or risk death. He did it anyway.
+
+Solar closed in through the annihilating labyrinth of Viv’s attacks. A step to the side, and she felt his mana appear to her right. She reacted before he could retaliate. With her shield still active, she used levitation to push her body to the side. A slice through reality passed her by. She placed her body horizontally, moving her arm alongside it to avoid losing a fingertip again. Her posture had barely changed but her body still careened through the air, avoiding a flurry of slices.
+
+Blademaster’s Danger sense: expert 2
+
+She was the only person in the history of Nyil to have unlocked this blademaster specialization without ever wielding a blade in battle. Solar had insisted she should at least learn the basics but she’d refused. It was a waste of her time, and the more advanced blademasters didn’t follow their own rules anyway. Magic was her weapon. It was a weapon she was still far from mastering. Fuck swords.
+
+Viv moved herself aside from Solar’s assault, blocking what she couldn’t fully avoid. He hounded her like a bad dream though.
+
+Acuity reflex: expert 4
+
+She managed to stay one step ahead. Both of them were holding back, Viv more than him in terms of pure destruction. It was a contest of speed and technique, not raw power. She was barely using her muscles to move because they wouldn’t be able to follow Solar’s speed anyway. It was mostly spells.
+
+“Not going to turn elemental?” he mocked.
+
+Viv didn’t reply. Blade masters like him struck with pure mana backed by a weird, conceptual effect that damaged elemental forms even more than real bodies. Finding this out had been a humbling experience. And a painful one too.
+
+But that was fine. Viv had another tool.
+
+“High Sequence: blastwave.”
+
+An expanding tide of black and transparent mana erupted on one of her flanks, disrupting and turning the land around her to cracked splinters. Solar was forced back, though he recovered in an instant.
+
+Blastwave was one of Viv’s anti-blade master inventions since they were pretty much the only people she still had to fear. It was randomized and chaotic, using a hint of change alongside annihilation to make it such that even she wasn’t sure how the expanding attack would move exactly, only that it would be in the general direction of the enemy. Blademaster defensive skills relied a lot on intent and the perception of it. If Viv didn’t know where the attack would go, then Solar sure as hell wouldn’t either. It pissed him off to no end.
+
+“Not this shit again,” he complained as always.
+
+“Portals. High Sequence: hyperbeam.”
+
+Several portals opened near Viv and all around Solar who went from playful to serious in a moment. The beams expanded from Viv’s body to hit the nearest portals then traveled to the ones around Solar to strike him where he was standing but also where he might dodge. The blade master very seriously stepped to the side, then blocked two beams with narrow hits of his blade. He was silent by now. Viv used the opportunity to charge her shield with annihilation mana.
+
+“Meteor.”
+
+She crashed where she thought he would be, missing him by a hair. Her shield exploded at the same time, though another reformed around immediately after.
+
+His blade clanged against it a moment later, destroying several panels.
+
+Solar smiled through the sudden opening.
+
+“I think I took your arm off, majesty.”
+
+Viv pointed at a hole in his trouser, around the thigh. It was dangerously close to a sensitive spot and quite a few hairs were missing.
+
+“Drafty around here isn’t it?” she drawled.
+
+“Gods dammit Wamiri is going to kill me. She just sewed this one for me.”
+
+“We’ll get one of the tailors to repair it in Sinur’s Gate. Don’t worry.”
+
+“Another go?”
+
+“Yes but give me one second. Hey you, behind the walls!”
+
+“Squee?” something small and scaly asked in the distance.
+
+“Hush!” a synthetic voice said, but too late.
+
+“Are you lot not supposed to be packing?” Viv asked with the tone of someone who knew very well they were, in fact, supposed to be packing.
+
+Two sheepish golems, the two dragonlings they were supposed to keep an eye on, and a group of workers scurried away from behind cover. Viv shook her head. She’d told them many times not to do that. It was dangerous as hell.
+
+“It is important for the soldiers to see their commanders drill, so they know that those they’re following are worthy,” Solar said.
+
+“They’re just fucking around when they should be working, Solar.”
+
+“Also true. Next?”
+
+Viv tried to stab him with a Durandal while he did the same with a side slice. His attack failed to break through her shield. He avoided hers.
+
+Shield mastery: Intermediate 9
+
+“You’re a hard nut to crack,” Solar complained.
+
+Viv took off to go after him.
+
+***
+
+Viv opened the portal, allowing everyone to transfer to the next fortified camp on the way back to the living lands. This place was empty. There was no need for garrisons when Viv could just show up and clear everything around in seconds. Despite how inhospitable the deadlands were, it only had one apex predator and that was her. After making sure it was safe for the workers, she jumped to the next one. At Asterley though, she stopped.
+
+“We’ll take the train,” she told the expedition.
+
+There were quiet expressions of relief. Most people didn’t mind a trip taking longer if it meant they could just stash heavy stuff in the various carriages and relax the whole way there.
+
+“I thought you would have been in a hurry?” Solar asked as Third Spawn climbed on his shoulder so he could take a playful swipe at his sister.
+
+Viv restrained her black menace so she couldn’t retaliate. Second was slow to anger, being the patient and observant kind, but once started she could be quite mean.
+
+“I want to make one last round to make sure there aren’t any glaring problems.”
+
+She was inviting fate to strike her down with that one, but there wasn’t really any choice.
+
+“I might be away for a while.”
+
+“I understand.”
+
+Asterley was one third of the way to Old Harrak, which itself was only halfway up the continent. It would take centuries before all of the land got reclaimed, which was fine with Viv. She wasn’t on a schedule. The haven city of Asterley was a bustling oasis of adventurers and soldiers on training missions. A contingent of black mages made sure to keep an expanding circle of purifying obelisks around to slow down the poisoning. It was also here that one of the trains waited.
+
+A massive beast of steel and fortified carriages attached to a powerful locomotive, the trains were Viv’s major effort to lower reliance on portals. As other kingdoms increased their networks and the associated costs, Viv was cutting the proliferation to rely on few long range, durable, and strategically placed portals. It was part of her effort to usher new Harrak into the industrial revolution.
+
+It wasn’t working very well for now but there were a few encouraging signs.
+
+The issue with deep portal networks is that they required an insane amount of mana to function, and the problem with mana was that it needed casters to harness and distribute, even if they had cheats like cores at their disposal. Casters were a finite quantity. They were also stubborn people who didn’t like being told what to do but that was a secondary concern. Viv wanted them to use their skills on useful stuff like research, or crafting, or warfare. Not as glorified door openers. There was also the question of mass transportations. Carts and skills were good and all but they couldn’t carry forty tons of ore over half the settled lands in only a couple hours. With yries and hadal-controlled loading bays, Harrak could do it. There were some complications with the hadals but that was just a small cost to pay for a functional transit system.
+
+Viv helped the crews load up the heaviest pieces of loot, specifically the machines, into the back while the most valuable cargo went to the middle carriages. Viv herself went up near the front and settled down in the ‘VIP’ carriage which had a place to brew Nawa. She offered some to Solar who gratefully accepted. The train shook when the golems boarded the last carriage.
+
+Slowly at first, then with more and more speed picked up over time, the old-school locomotive took off. Viv let the ‘kachak kachak’ of the rails lull her into a sense of relaxation. She knew it wouldn’t last.
+
+“I still can’t believe we have enough iron for all of this,” Solar whispered.
+
+He was a bit old too, Viv had realized. His temples were graying despite some insane physical stats. The fast changes coming upon the nation were scaring him on occasion. She patted his hand.
+
+“We’ve salvaged most of it. And it’s a good use of metal, don’t you think? Better than levy spear tips.”
+
+“You are right. I must see this with hope.”
+
+The carriage shook, signs of a fierce battle waged in the shadows. It had begun.
+
+“Already?” Solar moaned.
+
+“We are too tempting a target,” Viv explained.
+
+She had predicted infrastructure changes, new paths, hell, even damage done by monsters to the tracks. But there was one thing Viv hadn’t predicted.
+
+Hadal train gang wars.
+
+The Harrak-born little shits had each adopted a locomotive as their own, adding ghastly ornaments and gaudy color so each one ended up looking like a Mad Max prop, but that wasn’t all. They also adorned their masks with signs of belonging, then raided each other’s trains for cargo. Thankfully it was the non lethal kind of conflict and the empire could afford to have the occasional misplaced crates, but by Neriad’s ballsack was it annoying to have constant disruptions. At least, she was never late.
+
+No one messed with the hadal train schedule.
+
+No one.
+
+Viv wouldn't even attempt it herself. She was arrogant and hubristic, not batshit insane. With one last sigh, she took a sip of kava while noises of battle emerged from the rear carriages. She knew her recovery crew would remain calm. It wasn’t their first rodeo.
+
+“I feel like it happens every time,” Solar complained while grabbing a piece of jerky from one of his coat pockets. Both dragonlings perked their head and Viv used the brief opportunity she had to push her cup to the side. Predictably, a short scuffle ensued.
+
+“Blue no! Calm down you two!”
+
+“Solar; always have two pieces ready. Have you learnt nothing?” Viv chided.
+
+The rear door burst open. Hadal fighters spread out in a messy kaleidoscope of shadows across the VIP carriage. The local gang was really being pushed back, it seemed.
+
+Thing was, carrying the empress was a prestigious assignment so there was always someone ready to take the lucky crew down. Viv followed the battle with some interest. It appeared the gang leader had only allowed the younger folks to fight in the head carriage. Maybe they wanted space to seriously dish it out near the treasures.
+
+Viv frowned.
+
+Her hand lashed out like a viper. Her fingers clamped on the wrist of a particularly audacious girl. Her yellow eyes widened with surprise.
+
+Viv leaned forward, towering over the little twerp with laser intensity.
+
+“Don’t push it,” she warned.
+
+There was always one of the little fuckers trying to snatch her spoon or something. Like she couldn’t follow second step fledges who used black mana to hide themselves. Black mana. What was she? Hello?
+
+The local gang rallied soon after, pushing their opponents away. She would have said that it got more quiet afterward but those kinds of fights were always quiet, just very obvious in her mana perception. A member of the worker crew came a moment later. She was an older woman who’d recently graduated from the Bitter Hearts.
+
+“Milady. We are missing a crate of silver ingots.”
+
+“Understood. Be sure to report the value to the train authority.”
+
+“May we take some warm water from your carriage to make more klod?”
+
+“You don’t have to ask. Everyone can help themselves.”
+
+“I’ll send one of the lads.”
+
+Viv released Second Spawn so she could roam around now that things had settled down a bit. It was going to be a long ride, still. A part of her wondered if she should visit the Project Apogee site, or the eastern villages scattered along the mountain ranges. She decided she’d just visit her old allies. The less she went to the secret site, the better. As for the ex-cannibals they were probably fine on their own.
+
+***
+
+The portal opened over a metal glyph the size of a house. On either side of the reality-splitting aperture, rails extended as workers turned large cranks. The two rails locked in with a quiet click that spoke of precise engineering. Viv would never grow tired of the sight.
+
+A train attendant signaled that the convoy could go through. Beyond the portal, the world changed as the grasp of the deadlands ebbed. The constant black-gray skies grew patchy, revealing distant puffs of white clouds far in the distance, and signs of an imminent fall season obvious in the harvested fields and rust-colored vegetation.
+
+Over fifteen years before, Kazar stood at the edge of a kingdom of death, its massive purple tree an umbrella against the encroaching black mana. A bit over two thousand souls had clung to the thin fertile patch of land between this desolate place and the ever-hungry forest, at the mercy of marauding beastlings and revenants. Now four cities bloomed in the reclaimed valleys and plains of New Harrak. Fortified villages guarded fields of crop with jealousy near the frontier, where revenants and more dangerous things still roamed, but further in orchards and budding forests offered a picture of normalcy Viv would have never thought possible. Underground mushroom farms, horse and cattle ranches, and gardens painted the land with the colors of mankind but there were also parks and patches of wilderness where nature had reclaimed its due. Viv had made sure it happened because her perfect memory reminded her that dust bowls were a thing. Also the teenagers needed secluded places to snog.
+
+Nearer to the cities, workshops of all kinds replaced the farms. Tailors and petty smiths, weavers and cobblers plied their trade. There were also tanners and dyers but she didn’t like to think about them too much since their facilities smelled like post-finals football stadium urinals in Marseille. It still brought a smile to her lips to see that everything was alive, and not currently on fire. Truly a great achievement in this economy. Well no. The economy was fine. But like, on this planet.
+
+Between this region and the remnants, New Harrak claimed over a hundred and fifty thousand souls. It was only comparable to a medium-sized city back on earth, but here it was an exponential progression that left the other kingdoms and cities concerned. Baran had recently put limits to emigration because too many of its qualified farmhands had the curious idea that they’d rather work for themselves than as serfs for ungrateful lords. Go figure. Viv hadn’t fought the measure because she had no real way to circumvent it for now. Other cities were just pleased to get rid of their poorer population. Joke was on them, the poorer populations didn’t mind paying taxes because they were just ecstatic to have money.
+
+Not all was rosy, of course. So many cultures melding together meant frequent clashes and arguments over local laws, not to mention the criminality was high. Abe and Themis worked hard together with guards to keep things under control, but it was an uphill battle. Viv sighed. Those were growing pains that couldn’t be avoided, the other side of the coin. She could hardly complain.
+
+The train left the deadlands for good, or it should have, but the cloud cover was thick and dense here. It also looked like it hadn’t rained in a while. She frowned.
+
+Solving the lack of water situation in Harrak had been the only thing that she’d done purely with magic. There had been no convenient nearby lake to pump, nor wells, so she’d resorted to the wildest tool she could think of.
+
+Witches. Specifically, witches of the Path of the Root. Contrary to the paths of the Sun, or Thorn, those witches were the contemplative kind, really attuned to the land. They were also the only path that could make it rain. The clouds over the deadlands were made of black-saturated waters but water nonetheless, captured there for centuries. They only needed to be freed so they could return to the land. Viv had tried. She still had no idea how they managed it.
+
+There was only one hitch: it only rained when they argued.
+
+“Slow the train down when we go by their grove.”
+
+“Viviane,” Solar warned.
+
+“I just want to ask them a question.”
+
+“Neriad dammit.”
+
+As the train turned and slowed, Viv opened the window. The grove was a nice and beautiful heart of vibrant colors in a plain that was still in the process of being revived. A few apprentices in embroidered dresses were harvesting herbs. They paled when they spotted Viv.
+
+She tried her very best not to smile smugly. A sound spell empowered her voice until it made the window shake.
+
+“Is it really your turn to brew the tea? You did it last time!”
+
+One of the apprentices frowned at the other, who immediately threw her scythe in the nearby flower bed.
+
+“We have a chore schedule, Magrit!”
+
+“Well I didn’t write it. Awfully convenient those rules I never agreed to, isn’t it?”
+
+Ten minutes later, it was raining. Solar massaged his forehead with two calloused fingers.
+
+“One day you’ll run out of ways to make them fight.”
+
+“If a witch helps a mage circle power a spell, does that also make them a mage for the duration? Can a blade master only ever use maces? If the yries dig a tunnel right under a house, should the tunnel belong to them or to the owner of the house?”
+
+“I will argue with you if you do not stop right this instant.”
+
+***
+
+The approach to Sinur’s Gate sent scouts into a panic. Squadrons of Knights approached from a patrol, asking her if everything was well and if she needed them which was incredibly sweet of them. Viv sent them on their way with thanks before veering off to the majestic siege of the Golden Scale Bank and Exchange to drop off Arthur’s kids. The titanic building dug into the side of the mountain, a gaping maw as dark and unplumbable as a modern state’s budget deficit. Minions scurried around carrying missives and the promise of fresh cash infusion… for a price. Nobody defaulted on Golden Scale debts unless they had absolutely no choice, for She-Who-Feasts-And-Collects was a wise investor. And also because of mysterious dragonfire incidents. The minibus-sized dragoness was going to complain since she’d hoped she could get some work done with the annoying spawn off her back. Viv would have suggested getting more minions. It was a complicated endeavor.
+
+The spawn were mostly alright around humans, and could be trusted not to chomp on toddlers if left unattended for five goddamn minutes, but they were also just naughty, and the kind of naughty with wings and sharp teeth. Like flying turbo kittens. They plain refused the authority of most humans with some rare exceptions. Second spawn tolerated Viv, Sidjin, and Rakan. Third spawn was not as naughty but he tended to wander off without Solar around. As for First Spawn, also known as the White Terror, the largest and most aggressive of the bunch by far, he was bonded to a very shy orphan girl from Kazar and to this day, nobody had any idea why. Giving the nuclear button to a preteen with crippling social anxiety wasn’t Viv’s idea of a good time but unfortunately, no dragon had asked her opinion on the matter so she did what she was always forced to do: find some way to work with the situation. That meant a hidden mentor in this case.
+
+Viv found her adoptive daughter lounging over the accounting desks, reviewing risk assessment sheets while an army of kids wiped gore off her claws with soap and soft cloth. She’d been hunting.
+
+Mother, fate is heavy around you.
+
+Arthur clamped her claws on Second Spawn’s neck before she could attack a stack of papers.
+
+“We had a very long, mostly peaceful run except for that business in Regnos.”
+
+I can remember the stench of burning aberrants.
+
+And their screams grating against my eardrums.
+
+It was so fun!
+
+Maybe one of the other nations will explode in fratricidal conflict.
+
+How old was the King of Baran?
+
+“He’s over three hundred and don’t touch him or we’ll be in a lot of trouble.”
+
+Your spies are whispering.
+
+You must visit Sidjin in Frostway, before you leave.
+
+Irao is with him.
+
+Things are moving in the east.
+
+“Alright. I’ll take a ship there anyway, I think. Baran has been stable for a long time. I wonder what is changing.”
+
+Arthur revealed her fangs in a way that looked like a smile, but in dragon culture was more of a warning.
+
+The old lion is losing his race against time, but his children are young and still much lower on their path.
+
+He does not see them as worthy successors.
+
+It has been so long that he has forgotten how to relinquish control.
+
+Now six crown princes and princesses veer for a throne that will vacate before too long.
+
+I smell opportunity.
+
+And blood. Plenty of it.
+
+“According to our latest reports he’s recovered from his cough.”
+
+This time, yes.
+
+He still has some years before him if no one hastens his departure.
+
+I know you are leaving.
+
+You are pulled north, and strongly too.
+
+I will not come.
+
+But I will keep listening.
+
+And when you need me.
+
+I will come.
+
+“You always do.”
+
+***
+
+There were only two people in the council room: Lady Azar, and Viv. Neither of them were having a good time.
+
+The meeting began with some usual budgeting and politics. New Harrak was lucky because its nobility was still in the process of creating itself, so there were no entrenched factions to negotiate with just yet. Everything was in a state of flux that varied with every new entrant in the game, each rivaling with the other to try and come out on top. It also helped that Viv was never overtly opposed for now. She just had a good reputation, she supposed.
+
+Her tendency to throw people off balconies and strip them off their ranks on occasion helped keep things fresh as well.
+
+As for the budget, it was same old, same old. New Harrak got a ton of money from various projects, lootings, and taxes. That ton of money was immediately reinvested and leveraged for debts with various banks, then even more money got collected the next season, only to be used to pay interest, and fund more projects. Viv was very careful to keep a reserve not to go bankrupt just in case although she knew she could dig up more gold if she absolutely had to. The point was to keep the momentum of reclamation moving forward. Harrak was a machine that ate people and resources to make towns and fields and factories, many of which were partly owned by the throne, even before taxes. It was as lucrative as it was tense. With that out of the way, however, Lady Azar reclined in her seat.
+
+It was time to pay the piper.
+
+“Milady,” Lady Azar began, and Viv knew it was going to be bad.
+
+Degrees of severity went like this: Viviane, Girl, Listen You little Shit, and Milady. Viv braced herself for the worst.
+
+“I wanted to postpone my departure to the equinox, but if you are leaving now, then I have no choice but to inform you of an unfortunate decision. I will tell you now, it was not a happy one. Circumstances forced my hand. I wish it had not come to this,” Lady Azar said, meeting Viv’s eyes.
+
+“You’re quitting,” Viv guessed.
+
+“I am forfeiting my position as your Prime Minister, yes. The tension between Baran and New Harrak has only increased in the past few years, despite my best efforts, and now that rumors of Erezak’s frailty are spreading to the royal court, my continued stay here is weakening my daughter’s position too much. She is queen, after all. Married through my decision to a man several times her age. It would be unacceptable of me to continue sabotaging a situation I placed her in with… limited consent. She wanted to marry someone else.”
+
+Viv was aware of the situation. The queen had sacrificed much to ascend to the throne.
+
+“I… regret that it has come to this, but I also understand,” Viv said.
+
+“And I keep repeating to you that you are too kind and understanding as a sovereign. Pah, who am I kidding? You shall never listen. I only pray to all the light gods that this situation never comes to a head, because as much as I respect my homeland’s knight orders, I do not give them the highest chance of success against you. You have done amazingly well, girl, when you bothered to listen.”
+
+Lady Azar tilted her head to the side as a gesture of concession.
+
+“And when you listened to your heart as well, I suppose. It is a shame that I would give up on you, however, I am pleased to tell you that my replacement is ready in the person of Bird Tongue, whom we freed from the southern slavers. She has made amazing progress and though she is still naive, she will serve you well as an administrator.”
+
+Viv remembered a pale and tattooed freed thrall, though she also remembered that Bird Tongue had been Koro’s student for a while. Maybe she’d changed classes? It was becoming difficult to keep tracks of all her minions.
+
+Well in any case, she would not be Lady Azar’s match. It was a great loss for the empire.
+
+“Thanks. For all it’s worth and if there is ever war, please know that I will always listen to you should you come seek me.”
+
+“May it never come to this.”
+
+***
+
+Viv’s next stop was the Merl enclave in the Deadshield woods. She made sure they were stocked up on sweaters in preparation for the next season. The merls here were rather young since the old ones disliked the cold even more, so they tended to be a little cocky when it came to low temperatures. She had to be very convincing in telling them to get dressed.
+
+The merl were the final addition in her pokedex except perhaps for the Nemeti or the beastlings, but one had to stop somewhere, so it was fine. They had brought their spiders south, and with them, silk. A lot of really resilient silk. It was absolutely amazing. The spiders also formed a secondary layer of defenses around the children’s beastling genocide camps. In exchange, the empire provided them with metal tomahawk and arrow tips, as well as other sundries they couldn’t manufacture themselves. The merls were really talented when it came to fruit harvests, so they traded those as well. It was a great arrangement. It was just a shame that their populations remained low down here with the weather being so cold. Maybe once Viv extended north there would be opportunities for more settlements. In the meantime, Viv found herself regretting something she never expected: the lack of garlic butter spider legs. Those merl spiders were friends, not food, so Viv was forced to play nice.
+
+Also having siege tarantulas on your side never hurt.
+
+***
+
+Viv walked through the streets of Kazar with some trepidation. This was where everything had started, and after all this time, it was still a city of contrasts. The old guard and residents greeted her with respect and confidence since they’d lived side by side back in the mines of Min Goles, where Prince Lancer’s assault had driven them. The refugees and newcomers passing through New Harrak’s well-oiled bureaucratic apparatus on their way to the frontier hesitated between groveling, kneeling, or merely bowing. Many were just so surprised to see her appear without fanfare that they stayed where they were without a word. The place was a bit too dirty for her tastes as well now.
+
+She used this opportunity to meet with the various clergy including the church of Efestar. The temple guard of Neriad was faring well too, with Koro’s eldest kids undergoing training to join up. The visit left Viv with a vague feeling of nostalgia. The mage tower where Varska used to live had long since been granted to the local mages in charge of the city’s defenses. The place where she’d lived had been swallowed by newer, taller buildings. She didn’t recognize the city anymore, in a way. It was… an uncomfortable feeling that made her wonder if she would eventually feel the same about Sinur’s Gate as well one day. Maybe she’d feel the same about the entire empire if she lived long enough. Was this what happened to the other elementals?
+
+***
+
+So it wasn’t that easy to start an industrial revolution, but Viv was getting pretty close with the Min Goles Iron Mines complex.
+
+Looking at it from afar, it was like being transported to an entire new world. Brickwork and shining runes adorned squarish factories and warehouses centered around tall chimneys even now belching smoke to the skies like so many fat dragons. Railways carried ore to smelters in large wagons, all dug by humans and yries who even now changed shifts. Viv was pleased to see that despite the soot and dust, there were also green spaces and specifically baths as she’d requested. Rows of cookie cutter homes extended in long streets in the distance, each one with a large garden. Magic was the only thing that stopped this from looking like 19th century Europe. There were glyphs on the tools, on the transports. Men and women carried weights that would have been impossible back on earth. It wasn’t the magical future she was envisioning one day, but at least they were working in that direction.
+
+It remained fairly small, of course.
+
+There were several complications that made her task more difficult, the first one being tools and measures. It was easy to know that one could make napalm with gelling agent and gasoline, but how the hell was she supposed to know what sort of gelling agent she needed? There were no useful labels, no carefully measured boxes delivered by mail. Nothing of the sort. Humans and yries worked hand in hand with the hints she had but it was still an extremely difficult process that required a ton of trial and error. It didn’t help that the Harrakan scientists were new school graduates who lacked the foundations and traditions that made a bunch of argumentative nerds — sorry — a thriving community of academics and researchers. Even special paths couldn’t bridge that gap in a mere decade.
+
+There was also the fact that the number of workers remained low. Back on earth, urban exodus had fed the factories with all the labor it needed. Here, most people saw their own farms as something extremely desirable. Viv had finally managed to gather enough people who didn’t like the agrarian lifestyle with the promise of decent salaries and their own houses, but it was still only a portion of the population. There was a missing ethos, an absent drive that made modernization a top-down process that she had to constantly push forward herself.
+
+Except for armaments, of course, thanks to his Genevan Convetionness, the great Lak-Tak.
+
+“You. Are leaving,” the owl person clicked, long ears twitching.
+
+“Yes, and for quite some time. This stays between us, but I’ll be leaving the continent.”
+
+“Will you. Take army?”
+
+“No. Keep this to yourself but this is a secret assignment. Also we obviously don’t have enough ships.”
+
+The owl man remained quiet for a while, large eyes thoughtful. He smiled after that, which was usually a terrible sign.
+
+“Understood. We yries have built many more machines. They will be ready. For when you return.”
+
+“I’m not going to war this time.”
+
+“You always say that. Yet war finds you. It has been too long. It will find you again. I know this. Leave, and make merry. And when the time comes. We will bring down the hammer.”
+
+“This time will be different,” Viv said with a confidence she wasn’t feeling. “It’s supposed to be wildlife related.”
+
+“I have heard this before. The Deep One whispered to me. Of great things to come. Great things! Would you like some honey?”
+
+“I already told you. It would be a really bad idea to have a black elemental archmage tripping balls near inhabited areas.”
+
+“Suit yourself. But remember. You made a fleet of liberators. Yet you do not liberate. Hmmm? The world will hear you. It will take offense, hehehehehe.”
+
+“Dammit.”
+
+“We will be there. Have a safe journey. And return with interesting enemies. Goodbye.”
+
+Viv sighed. He was probably wrong. Oh well.
+
+She still had to visit the remnants and then it would be a trip north to the Azure Lady’s enclave.
+
+Leaving this damn place was harder than leaving a large family dinner.

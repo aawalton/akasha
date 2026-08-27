@@ -1,0 +1,141 @@
+---
+id: fd9aa313-e88b-5de3-8e80-21f6ddb6d6f2
+page-type-slug: story-chapter-royal-road
+title: "276 (II) Unseen, Unheard, Unknown [I]"
+slug: 0349-276-ii-unseen-unheard-unknown-i-2985959
+partOf: path-of-the-deathless-book-4-completed
+position: 349
+ownLength: 3057
+unit: words
+publishedAt: 2026-01-27
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2985959/276-ii-unseen-unheard-unknown-i"
+royalRoadId: "2985959"
+---
+
+276 (II)
+
+Unseen, Unheard, Unknown [I]
+
+And amidst that hurricane of chaos and detail, Shiv had only eyes for his unexpected savior. The Chronomantic lance projected by the Distant Index was massive, well over four hundred meters of golden mana, and a fifth again as wide. Rusty and Jessica grew a magnitude beyond that size in a half-second, both of them swelling to titanic proportions. She deflected the now needle-sized attack with a casual tilt of her kilometers-long sword.
+
+Her blade flared bright as bursts of static spread out, washing over Shiv as well. He could feel the spatial magic with his paltry Portomancy, and the Chronomantic attack wasn't so much knocked aside as it was redirected altogether and then split apart. The channeled beam meant to remove Shiv from existence, meant to flay him into retro-continuative ruin, was then directed against all the other Indexes surrounding them. Five separate streams had been cleaved out of the main attack. Five separate streams by one single parried blow. They struck all at once, and punched clean wounds through the other drifting Indexes.
+
+A concurrent wail of pain echoed through the Stranger's dimension.
+
+And then Jessica's shape blinked from one position to another. Her Counterattack Skill triggered, the same one she'd used against Shiv so many times. It seemed it didn't matter how large the adversary was, or how far. The moment she successfully blocked an attack, she immediately blinked over, manifesting right before her adversary, and then splitting the Index down the middle with a flick of her wrist. The cut was so fast, Shiv barely perceived the blow. By the time she returned to where she was, she shrank down and smacked the Deathless over the back of his head before he could respond.
+
+He let out a hiss of agitation and surprise. "The hells was that for?"
+
+"That's me smacking your dumb, tunnel-vision ass over the back of the head before one of these ugly finger-shits do." Jessica laughed uproariously, like a master mocking her lacking disciple. "You love holding your ass a little bit, don't you? You love it when people hit you from behind."
+
+Shiv planted the bladed edge of his frying pan against Jessica's chest, the orichalcum clinking against her Inertium Armor. "You want to have it out again? Right here?"
+
+She brushed his arm aside with Rusty, but maintained a casual demeanor. "That's up to you, Deathless. I wouldn't be against upping the chaos some more. Mainly, I'm tired of watching you leave your back open. And I'll be honest, the way you fight frankly pisses me the fuck off. Legendary-Tier Physicality, Legendary-Tier Magical Resistance, Legendary-Tier Grappling, and no clue how to use any of it."
+
+Shiv's ire rose, and that made his mind clear. He realized there was no point in responding to her provocations, that she was right to some extent. The only proper thing to do right now would be to advance his Skills, to make sure Blackedge escaped. Getting into a fight with the Giantsbane would leave the orcs open and leave Blackedge vulnerable. And Shiv didn't have time to be so immature.
+
+Sage of the Enkindled Heart: And she's mostly just teasing you. She does care. Otherwise, she would have just let the attack hit you. Well, there's another aspect to that as well. Every time you die, you get a little stronger, and she likely doesn't want you to grow so fast either. The better thing to do, instead of rising to her jabs, is to ask her for advice. That should throw her off. It also might give us some useful insight into improving our martial prowess.
+
+"Alright, fine. How would you be protecting your ass if you were me?" Shiv asked, swallowing his pride.
+
+Jessica's reply came in the form of action, not words. She swept her blade out, spinning it behind her and blocking a sudden attack. She didn't even see the Pinky, wasn't sure where it came from. It seemed to blink into existence suddenly, manifesting in an instant. It glowed a bright pink and didn't register within Shiv’s Atlas. But though it surprised him, Jessica responded with ease, letting its momentum sever it down the middle using the edge of her sword.
+
+Only when both halves of the Pinky shot by Shiv could he sense its interior biology. It had some kind of advanced Stealth Skill, one that hid from all his senses.
+
+"Part one is maybe using that Biomancy of yours to grow some eyes on the back of your head, or listening more carefully as well. You're fighting; you got to know where your enemies are right now. You basically just fling yourself into a mob, kill a bunch of people, and break contact after spraying some black ink. It's... Well, it's predatory, but you're not a predator. I told you before, you got to start fighting like a proper Pathbearer if you want to be any good." She stabbed and slashed as she spoke. Every strike she delivered was channeled across a vast distance, skewering and splitting Fingerlings as if they were right next to her. Rusty's Dimensionality made distance a trivial matter—or at least, some measure of distance.
+
+Shiv wondered what Tier her Multi-Tasking was, or if she had a specific Focus Skill that allowed her to fight while talking to someone. So far, his Bifurcated Processing allowed him to delegate some repetitive actions, but her movements were crisp, clean, focused, and elite.
+
+But beyond the shit-talking, Jessica shrugged. "What you need is what the System doesn't seem that willing to give to you: experience and practice. That comes with time. Speaking of which, coming up behind you again."
+
+Shiv's eyes widened, and he looked over his shoulder. True to her words, another Chronomantic beam of tarnished gold came flooding toward him. This particular blast cleaved through the eldritch canopy, splitting through mountain-sized branches lined with vast and hateful eyes. It was then that Shiv realized more Fingerlings were entering the fray, slipping out from the Stranger's Forest, blending perfectly into the nightmarish vegetation.
+
+The Deathless prepared to move, but Jessica clamped a hand down on his shoulder, forcing him to remain still. "Don't do that," she said. "Don't keep flinging yourself at your enemy. Stand here. I got your back. Focus on this."
+
+"What do you want me to do?" Shiv asked.
+
+"Try parrying it," she replied. "You got Frictionless Vector, right? That's not bad. But your overall defense needs more work. Instinct takes time to hone; let's take advantage of this ugly little excursion and build up your basic Skills beforehand."
+
+He did as she asked. He held his Last Morsel high, wrapping both hands around its handle. He concentrated on the pillar of retro-continuity rushing toward him and waited, timed his rising strike. The moment it got within fifty meters, he swiped a little too early. The thing caught the edge of his frying pan, and a jarring pressure rushed down his arm as he wrenched it aside. Him launching the magical attack off-course became a feat of strength rather than skill.
+
+He anticipated a scathing remark from Jessica. Instead, she just chuckled and patted his shoulder twice more. "Parry the next attack that comes your way too. Don't waste so much energy wrestling the attack aside. Just tap it enough that it goes off-course from its own displaced momentum. Oh, and use it to cut down some of these other fingers around us. That'll be a challenge."
+
+As soon as she finished offering her advice, she became a frenzy of flowing cuts. Shiv was about to ask her what she was targeting, and then most of the eldritch forest before him began parting into perfectly sliced cubes.
+
+"Of course, there are times when overwhelming firepower and brutal destruction are our allies, don't forget that. Frankly, I can't tell where all of them are coming from either." She chuckled and knocked against her helmet. "Don't really have great Awareness. But I do got good instincts, and I sure can swing Rusty pretty fast. So, there's another lesson for you, kid: Sometimes you work with what you got, even if it isn't the best. Anyway, I think we thinned the bastards here out pretty good. We should—"
+
+A roar of bone-rattling thunder cut her words off. What felt like the entire dimension began to shake. Distant branches beyond the place that Jessica cut started moving, twisting, and coiling, and through the foliage past the point of the horizon, Shiv saw something large moving toward them. Something that dwarfed everything else. It was a shadow at first. The shadow of a building storm peering over the bend of the planet’s curvature. But soon it would be upon them, and he could see the faintest outlines of colossal fingers steepled together—digits interlaced; the shape of two ink-black hands, clasped together in prayer.
+
+It was hard to say for sure from so far away, but judging from how it was too far away to reach with his Heroic-Tier Biomancy despite blotting out the entirety of the chaotic sky, whatever was coming was larger than anything else Shiv had ever faced before.
+
+"Alright, not sure what that is, but my lower ribs are starting to ache." Jessica smacked her lips.
+
+"The hells does that mean?" Shiv asked, frowning.
+
+Jessica wagged a finger. "Look, I'm a simple girl, and I got a simple system. If I'm fighting someone whom I know I can take, I feel a bit of electricity going through my body. You know, a nice rush of thrill. If I start feeling a pain in my ribs, I think that's time to be a little more calculated in my approach, so to speak."
+
+"You use random physical pains to judge how powerful your enemies are?"
+
+"Yep, worked so far, mainly because every time I ran into someone I couldn't take, they broke one of my ribs. Look, don't worry about it, kid. This also comes with experience. Eventually, you're going to get some kind of psychological or physical pain thing after you lose enough fights."
+
+"But I already suffer that shit when I look at you. It's a tearing sensation that crawls up and down my ass."
+
+Shiv couldn't tell her expression since her visor was down, but he was pretty sure her lips were now pressed together to avoid bursting into laughter. She hid it with a cough. "See, I'm already helping you in other ways! Now, I think we should start making our retreat and get the fuck out of here with the town before that mean motherfucker over there somehow crawls down your ass too. I don't think it will fit, but you never know, right?"
+
+"Fuck you, Jessica."
+
+But once more, Shiv did as she asked, because despite everything, her system might have some grounding to it. Mainly because when Shiv looked at the colossus coming toward them again, he felt a pang of stretching agony spread through his deep rectum.
+
+They fled together, and immediately, Jessica started cutting once more. Every second, another group of Fingerlings would die. No matter their size, they would come apart, split perfectly down the middle, just like all the others before, like they were caught in a vast, invisible blender.
+
+“Deathless,” a voice like cracking glass and shattering bones seethed. “You will not leave. You will never leave. I will give you torment unending, torment unceasing, torment eternal for what you have done. There is no escape, no escape from me, no escape from my realm.”
+
+The more the Stranger spoke, the more his words rose in intensity like a roar of a closing storm. It rose with hate, with fire, with rage, and the very air visibly simmered with anger. Everything around Shiv boiled black and hot. And he realized that this was the Stranger's emotional core. He was inside it. Everything here was part of the Stranger. He couldn't begin to imagine trying to survive here for what had been weeks or months for Uva and the others.
+
+And then something else began happening. The colossal trees, lined with blinking eyes, began to shift. They were drawn away, moving more like vines, receding toward that massive entity, and flowing into it. The other Fingerlings dissolved as well, their motes spreading until they were little more than patches of black mist.
+
+What remained were the surviving orcs. The initial wave had been utterly decimated, but the second tide had more than a few survivors. Vanguards who were clad in adamantine. Brawlers. Warriors all. They clung to their trophies, desperate to keep something from the struggle. But whatever they harvested from the Stranger's offspring's bodies dissolved in their very hands.
+
+The forest surrounding the clearing they were in receded to leave the world empty and dark, drawn away as if a tide being pulled back to sea. Shiv shivered. He felt exposed. The only things that remained were him, Jessica, the orcs, and finally Blackedge itself. A cloud of darkness peeled away from the town, revealing its cracked and ruined shape. Only Starhawk's Perch remained standing, layered in so many additional fortifications that resembled a cocooned bunker more than a castle dedicated to one of the Ascendants. The other houses, the residential clusters, and even the Swan-eating toad were gone. Something in his heart twisted at the sight. There was nothing but debris and flattened ruin. Even from all these kilometers away, he could tell that while there were survivors, the town of Blackedge was utterly finished.
+
+However, there was one other oddity that remained: a single Index that refused to come apart, that refused to demanifest. It accelerated towards Shiv, and the Deathless found himself confused at first.
+
+Jessica shared in his befuddlement. "The fuck? What's up with that one?"
+
+But before he could consider that further, he felt something—a single strand extended from the Index, and Shiv realized why it remained. A smile grew on his face, a laugh bubbled out from his throat, and a warmth ignited inside his heart: Uva. He recognized that strand. She'd stolen one of the Stranger's offspring. Shiv instinctively lowered his Magical Resistance, like he always did. And just then, the thread of Psychomancy touched him, rushed into his mind. He anticipated the feeling of familiarity. He anticipated a rush of affection between them, intimacy, memory shared.
+
+It wasn't what he got.
+
+The thread coiled inside his mind, curled deep, and sank itself like a stinger, burrowing into the core of his ego. Shiv barely managed to let out a gasp before his body went stiff, and an alien will began wrapping itself around him.
+
+He heard Uva scream. He heard her pleading, begging for him to be spared between sobs of anguish. And then he understood. This wasn't her. It was the parasite living inside of her. Shiv tried to clench his teeth as Jessica reached out, started pulling at him, asking him what was wrong, but even that action felt as difficult as lifting a mountain as a Pathless.
+
+He couldn't reply. His will wasn't his own anymore. With his Magical Resistance bypassed, he couldn't even decide to reactivate his tides. Everything within had been usurped. His thoughts were there, but it was like he was quarantined from himself. Like his awareness—his consciousness—had another layer of insulation built around it that seized control of his actions, of his body.
+
+"Haven't forgotten you, Deathless," the Eldest's voice hissed at him through the Hatchling—the creature that had overtaken Uva’s soul. Bile crawled up Shiv's throat, and he shivered in horror. "Haven't forgotten what you did before, what you delayed. But what you don't understand is that this was fated too. You were meant to be mine, always, forever, unavoidable. Fated. Always. I will be all. I am first. I am foremost. And I will be last, even after all else is no longer."
+
+Shiv tried to defy the Eldritch God's will, but he couldn't. No more than a raindrop could fall straight amidst a raging hurricane.
+
+He felt the Psychomancy strand sinking deeper into him, curling out from him as it snaked toward Jessica as well. The Legend knew something was wrong now. She had her blade drawn, was flowing back through the air, the wheels on her feet spinning counterclockwise as she made distance from Shiv. She held the tip of her sword at him and seemed to be contemplating cutting him down. He wanted to tell her to do it. In the vain hope that it might free him, but even his words were stolen. In its place, silence remained.
+
+"We'll hollow you out, every bit, until nothing remains," the Hatchling whispered, its voice so close to Uva's, yet so foreign. "And then, see if I can wear you, see if I can take your soul. But first—"
+
+Before it could say anything else, the Index approaching him violently exploded for seemingly no reason at all.
+
+And with that, the Psychokinetic connection binding Shiv to the Hatchling's will broke as well.
+
+***
+
+"Well, that makes things simple for us," Valor commented. “You always were an impatient, petulant child of a thing, Stranger, but your condition is growing worse. The System has only reduced you more with every bit of mana it tainted you with since we last spoke…”
+
+All around him, the Eldritch forest was receding. The Fingerlings were dissolving, their essence being dedicated to the Stranger's greatest offspring—a Supplicant.
+
+That left only one Index, the one the Hatching had hijacked to escape. The one that was currently reaching into Shiv's mind as Valor anticipated, the one that didn't know Valor, the Educator, and the Culturist were approaching.
+
+"So, would you like the pleasure of testing your returned Skills, or shall I make a ruin of this thing?" the orc asked.
+
+Valor simply gestured. "Make it quick. We do this efficiently. This is not time to tarry and play."
+
+The orc tilted his head slightly and smirked at Valor. "It is always a time to tarry and play, Legend Thann. But with your allowance, I shall take this pleasure."
+
+And with that, the Culturist tore across the air in a burst of Legendary violence, force, and speed. When he hit the Index, it was taught how to dissolve like the rest of its kind as well.

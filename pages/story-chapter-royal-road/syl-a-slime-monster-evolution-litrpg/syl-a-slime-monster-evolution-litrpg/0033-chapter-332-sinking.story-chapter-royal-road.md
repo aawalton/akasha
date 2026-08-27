@@ -1,0 +1,179 @@
+---
+id: 02f5b46d-a1c5-5bc0-9c2f-597f3fa88220
+page-type-slug: story-chapter-royal-road
+title: "Chapter 332 : Sinking"
+slug: 0033-chapter-332-sinking
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 33
+ownLength: 2236
+unit: words
+ownProgress: 2236
+publishedAt: 2026-01-02
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2900513/chapter-332-sinking"
+royalRoadId: "2900513"
+markedReadAt: "2026-06-29T19:42:54.333Z"
+---
+
+As we sat around the crystalline table, Vanessa placed her hand in the center of it, touching an oval-shaped protrusion and causing it to shimmer. Outside, I heard and sensed the whale closing its mouth and beginning to stir.
+
+I guess this is how they control it?
+
+From what I could tell, this structure was not only sealed but also produced fresh air to breathe, allowing non-aquatics to brave the ocean depths.
+
+The whale continued to move, and then I felt a violent shaking. I assumed this was the whale attacking the boat, like Vanessa had plotted. She took her hands off the oval and gave a malicious smirk.
+
+"Right, with that done, we can finally go home!" she declared.
+
+"I'm looking forward to it, as long as we are together," Sylvain replied.
+
+Vanessa gave a predatory grin. "Of course. Just make sure to stay close to me and listen to what I say. We don't want you getting into any trouble down there…"
+
+I hated the puppy dog eyes [Roleplay] was exhibiting, and if I didn't know better, I would've sworn it turned traitor. The longer this went on, the more dissociated I felt from the situation. I was already seeing it as "Sylvain" and not "me" anymore, and this only continued to grow.
+
+This is definitely what I was warned about. I'm unsure if I'm speeding up the process or not by avoiding it, but it's a rather terrifying concept. You could quite literally live as a bystander or spectator to your own life if you abused or got lost in the persona.
+
+My internal worries were cut short when Vanessa had the whale start to dive and swim toward our eventual destination. I tried using [Mapping] to get an idea of where we were heading, but to my shock and horror, the skill was actually blocked while in the confines of this structure.
+
+To put my mind at ease, I subtly cast a quick [Position] spell, and was relieved to find it still worked as I received a set of coordinates. If my [Dimension Magic] was also blocked, then I was heading into a rather terrifying situation.
+
+After what felt like quite some time of swimming, Vanessa eventually grabbed one of Sylvain's hands and intertwined their fingers together. While I wondered what she was planning to do, she brought their hands together to touch the oval device.
+
+"Let me share some of this magical experience with you," she said flirtatiously.
+
+What happened next was akin to when I shifted my perspective to a [Sub-Core], except not nearly as detailed or precise. What we were witnessing was now through the eyes of the whale, a wide field of vision, but poor depth perception and limited clarity. That was until a magical film was applied over the image, and suddenly things got brighter and clearer.
+
+Sylvain let out a gasp.
+
+"Welcome to a small piece of my world," Vanessa whispered.
+
+Okay, now I'm the one feeling conflicted… Is she evil or not?
+
+I had no idea what to believe now. She was kidnapping me, but then why was she putting so much effort into making this feel like she wanted a real relationship?
+
+It's clearly different from whatever Krutz tried to do, which was some type of magical domination enslavement spell. I suppose if she doesn't make it feel real, the effect will wear off? Or maybe it builds into a more potent domination over time, and she's just laying the foundation…
+
+I was heavily skeptical and was just glad that I had continued to enchant my primary core with mental protections. I didn't know if this [Allure] affliction worked cross-species, but I certainly wasn't going to take any chances.
+
+Vanessa continued to play the role of a tour guide, showing majestic creatures that graced the waters or beautiful schools of fish swimming about. Yet we continued to go deeper and deeper to depths far beyond anywhere I'd traveled previously.
+
+The deeper we went, the more alien the creatures became as their bodies had clearly never seen the light of day. Some of them were almost skeletal, while others had no semblance of bone at all.
+
+Should I call them cousins? Actually, I wonder if there are any deepwater slimes?
+
+It felt like we swam on for hours, and I'd completely lost track of any semblance of a direction. Perhaps this was on purpose, so that I could never find my way back or reveal their location.
+
+That would be the case if I weren't a future Riftmancer! Actually… I wonder if Vee will be able to find me? If she tries to come looking, we might be in for some trouble.
+
+Eventually, the whale began to slow down, and I noticed that suddenly there was nothing ahead of us, as if the ground had vanished. The whale's gaze began to tilt, and an oceanic trench was revealed.
+
+Sylvain gulped. "Are we going down there?"
+
+"Yes, but we are leaving the whale behind," Vanessa answered.
+
+"What? But how…" Sylvain murmured.
+
+"It won't be able to survive the pressure," she answered. "But don't worry, this will get us there safely," she patted the crystalline wall as she spoke the last few words.
+
+Interesting… Is this why nobody could find them? They literally can't survive the depths.
+
+Vanessa interacted with the strange table, and a rumbling sound emanated throughout the structure. I sensed that it was detaching from the roof of the whale's mouth, and as soon as it did, the whale effectively spat us out towards the trench.
+
+As we left the safety of its mouth, the crystal walls became semi-transparent, revealing our surroundings to us. However, we were still traveling somewhat out of control, and that was when Vanessa suddenly revealed that she was, in fact, a spellcaster.
+
+I watched her cast [Hydrokinesis] and she stabilized our vessel, allowing it to straighten out as it began to slowly sink into the oceanic trench.
+
+"Vanessa, since when…" Sylvain spoke, sounding gobsmacked.
+
+Vanessa giggled and gave a cheeky wink. "A girl's got to have her secrets."
+
+Sylvain stared at her for a bit before ultimately nodding.
+
+"Although I'm not nearly as good as you. Won't you be a dear and take over from me?" she asked, fluttering her eyelashes.
+
+Sylvain puffed out his chest and took over with gusto, controlling the descent into the deep, dark trench with perfect precision. We continued to sink deeper and deeper, and yet despite the feeling of looming danger, the crystal structure was perfectly sound.
+
+"This must be something powerful to survive all of this," Sylvain commented.
+
+"It's actually crystalized deepstone," Vanessa explained. "It's one of the few things that are up to the task, unless a heavy amount of enchantments is involved."
+
+"Crystalize deepstone?" Sylvain repeated.
+
+"Yes, although I'm not sure how it's made exactly," Vanessa admitted.
+
+Vanessa continued making small talk until eventually she requested that Sylvain speed up our descent, if he was up to the task. Of course, this was easily done, and we rapidly approached our supposed destination.
+
+Again, I was unsure of how much time was passing. For my own sanity, I made sure to toggle [Roleplay] off and on again, since I was growing increasingly concerned that I was going to lose control.
+
+My fears were thankfully proven unfounded as the skill offered no resistance, although the feeling of suddenly being cozy with the woman who tried to hypnotize me made me want to vomit. Thankfully, the swap back was equally effortless and avoided me being caught.
+
+Eventually, Vanessa pointed in a direction with excitement. Through the dark blue haze, outlines began to form—arches, towers, and domes suspended in the deep like a lost civilization.
+
+A city unfolded before us, encased within a vast crystalline shell that gleamed like a submerged jewel. Most of the city appeared to be flooded, its outer streets and spires swaying with drifting kelp and schools of fish that darted through open windows.
+
+Yet at the very heart of it all, the currents broke against an unseen barrier—a dry middle, revealing a hollowed sanctuary, or perhaps a prison, untouched by the waters.
+
+"Welcome to Azulean," Vanessa said, waving her hand outward in a gesture.
+
+"It's beautiful…" Sylvain admitted.
+
+"It is. You're one of the very few outsiders who will ever set their eyes on it," Vanessa said, smiling softly.
+
+"I'm surprised, it's not exactly subtle…" Sylvain pointed out. "Unless the depth has prevented absolutely anyone from approaching?"
+
+"It's definitely deterred most, however, the real reason is it's not quite so eye-catching unless viewed through a lens of crystalized deepstone," Vanessa explained.
+
+"Really? Darn, is there anything deepstone can't do?" Sylvain asked, chuckling slightly.
+
+"Again, I'm not sure on the specifics," Vanessa answered with a disappointed sigh. "The enchanters would know, but I'm not sure if they'd be willing to divulge such secrets."
+
+"Don't worry about it," Sylvain replied reassuringly. "It was some idle curiosity, I wouldn't want to get you into any trouble…"
+
+Vanessa smiled, once again rubbing shoulders with Sylvain before beginning to direct him to a specific location. Through magical water mastery, our vessel was guided to a smaller dome just on the outskirts of Azulean.
+
+I was about to slow down our approach, but Vanessa quickly told us to keep it steady and land on top of it. We followed her orders and performed a perfect landing, and she quickly began to operate with the table again, causing our vessel to latch on.
+
+"I suggest you cast [Bubble] on yourself," Vanessa said.
+
+"What about you?" Sylvain asked.
+
+Vanessa giggled and planted a kiss on his cheek. "Don't worry, honey, I don't need it."
+
+Excuse the Vee-ism, but no shit, Sherlock!, she's obviously a mermen infiltrator…
+
+Sylvain seemed unsure, but nodded. I mentally groaned at the apparent stupidity, but continued leaving it up to the supposed master of deception.
+
+After Sylvain protected himself, Vanessa gestured for him to follow, standing in one of the only unoccupied spots inside the rather cramped vessel. She interacted with something, and after some sliding noises, the floor beneath us parted, dropping us into the water below.
+
+I expected something like this to happen, and was actually ready to reinforce the [Bubble] in case it broke, unable to survive the strain of the deep waters. That ended up not being necessary as the water within the small dome appeared to be regulated.
+
+I floated gently to the ground, standing on the surface, which appeared to be just rock. Vanessa, on the other hand, began stretching her limbs as if she'd just woken up, letting out soft groans of pleasure.
+
+"It's so good to be back home," she said, her voice uninhibited by the water.
+
+Sylvain opened his mouth to say something, but was brought to silence when Vanessa began to change.
+
+Almost in reverse to Sybil, she began to grow taller. Her limbs, especially her legs, extended with a rather uncomfortable cracking sound. Gill slits appeared along her neck, along with some soft, platinum colored scales along her skin, mainly focused around her arms and shoulders.
+
+When her legs finished growing and her toes became webbed, I thought it was over, but the changes continued. Her legs continued to sprout scales endlessly, a beautiful platinum sheen that continued until her legs seamlessly fused together into a large fish tail. Her tail shimmered and gleamed like liquid metal, tapering into a wide, translucent fin that fluttered softly behind her.
+
+"Well, how do I look?" Vanessa asked, her voice having taken on a far greater level of captivation.
+
+"I…" Sylvain appeared lost for words.
+
+"Come on, Sylvain, be honest…" she pressed, swimming closer. "I hope you still find me attractive?"
+
+"I find you even more so…" Sylvain admitted, a notable blush on his face.
+
+I wanted to refute [Roleplay's] performance, but even I had to admit she looked stunning and we were entirely different species! Even if we were both monsters, there was a significant difference regarding monstrous-humanoids, and then I took that a hundred steps further by being a slime!
+
+"Oh, you!" she squealed in delight. "I'm supposed to be the charmer, but you've got me positively giddy. I just knew when I first heard of you, I picked the right man."
+
+Vanessa swam closer and held out her hand, inserting it into the [Bubble]. Sylvain immediately understood her intent and extended his own hand until they met and held onto hers tightly. They really looked like two lovebirds in bloom, while I was stuck as the third wheel to my own body and the persona I had created.
+
+I think after we're done here, I'm banishing Sylvain into the depths of forgotten identities. I grumbled, feeling notably bitter over this whole situation.
+
+As Vanessa led us towards a tunnel that connected this small dome to the main one, I put up my guard. This was unknown territory, and while there was plenty to be gained, I needed to be sure I could survive.
+
+Not to mention, I still had to find out where this Leon [Experiment] was. If he were currently captured inside Azulean, and I blew it up, he might become an unexpected casualty.
+
+After coming this far, I want to see what reward Unc has for us. Plus, maybe this Leon fellow can join the team? The more the merrier, and we [Experiments] need to look out for one another.

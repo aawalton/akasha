@@ -1,0 +1,181 @@
+---
+id: ea06891d-74de-56b2-b0e9-66701a143f0c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10 – Corruption"
+slug: 0010-chapter-10-corruption
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 10
+ownLength: 2104
+unit: words
+publishedAt: 2025-08-18
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2526947/chapter-10-corruption"
+royalRoadId: "2526947"
+---
+
+Liora had been terrified when she saw the black owl slice through the moth. She feared that it might end much the same way as the fight with the hawk. It turned out she was worried for nothing.
+
+"Buh-rup!" She mimicked the <Paralysis Croak> almost automatically to see whether it would work.
+
+[You've successfully mimicked the skill <Paralysis Croak>.]
+
+The owl seized up, paralysis making it twitch as its nervous system refused to obey. Liora began pecking at the owl mercilessly. It tried to defend itself by lifting its wing and lowering its head closer to its body, which was as much as the paralysis would allow it to move.
+
+[Your skill <Peck> has reached [Novice] level.]
+
+[Peck – At [Novice] level allows you to inflict 175% damage by pecking your enemies.]
+
+No special new effect? How stingy.
+
+But her Pecks had grown more powerful. That was just enough for her to overcome the defenses of the owl's sturdy feathers. Eventually, it fell limp to the ground, never having a real chance to fight back.
+
+[You've defeated <Razor Owl – Level 3>. Experience gained.]
+
+"Well, that was brutal," Renir commented. "I'm glad I couldn't see it."
+
+"Chak-chak-chak," Liora protested. "What do you know—sitting safely in a satchel?"
+
+Liora shook her head and then grabbed the two glimmerstones, one from each of the owl's wings. It was a pleasant surprise to see two of them instead of one.
+
+However, she didn't stay to gloat for long. While owls were solitary hunters, where there was one, there could be more. So to avoid being ambushed by another owl, Liora moved around quickly, searching for the hidden spore moths. Now that she knew what to look for, it was much easier to spot them. Defeating them wasn't a problem, even if it was a little time-consuming. Sometimes she was lucky enough to Air Dive one and finish it with a few powerful pecks. Sometimes she managed to strike its head, killing it instantly. Sometimes the moths would notice her, and she'd have to wait for them to run out of spores.
+
+But in either case, it was well worth the trouble. She reached Level 4 and gained 8 new glimmerstones to add to her growing hoard.
+
+"Do you mind bringing up that hoarding skill of yours? I want to confirm something," Renir asked as Liora stopped to rest on a branch.
+
+Does he want to see how much of a boost I'm getting? I'm curious about that too, to be honest.
+
+[Glimmerlust – Rewards your desire to hoard glimmerstones. At [Basic] level provides you with a 0.01% power and speed bonus to all your skills per glimmerstone owned.]
+
+[Current boost modifier: 0.71%]
+
+"Not even at 1% yet. That's a shame. It's not really doing much for you right now," Renir sounded disappointed.
+
+"Caw! Caw! Caw!" She squawked indignantly. "Well, of course not! I barely have any glimmerstones. I need way more! Hundreds! No, thousands! Hundreds of thousands!"
+
+"I have no clue what you are squawking about, but if you don't intend to spend any glimmerstones on skills…" Renir paused, as if to give her a chance to reconsider.
+
+"No!"
+
+"Of course not… Well, if you don't intend to spend them, then you'll need to get many more glimmerstones for your Glimmerlust to be worthwhile. You need to start fighting stronger enemies."
+
+"Stronger enemies—more glimmerstones?" Liora asked.
+
+"Yes. The bigger it is, the more glimmerstones it is likely to have. Like that razor owl. I once defeated a dragon that had a thousand glimmerstones—"
+
+Renir continued bragging about his magical escapades and the intricate magic he had used to defeat the dragon, but Liora didn't care. One monster dropping a THOUSAND glimmerstones. Yes, please!
+
+She understood that she couldn't defeat a dragon, not yet, at least. Besides it's not like there was one conveniently available around here anyway. But she certainly could turn her attention to some stronger enemies. It wasn't very fun killing the moths anyway—it almost felt like bullying.
+
+Liora flew around the forest, back to where she had seen the large toads. Looking at them again, she knew that she didn't want to fight them. Not because she couldn't defeat them. No, Liora was certain that she could.
+
+But they were so disgusting. Fighting the little toads in her forest always ended up with her having mud and muck on her feathers. These were at least five times the size of the little toads, which likely meant five times the mess.
+
+No, thanks. The only water source I saw was the little river on the other side of town. It feels wrong to contaminate it with some toad muck. That's likely where townsfolk get their drinking water.
+
+So instead, Liora decided to search for the hyenas. A small pack or perhaps a hyena that had been separated from others. She did find several groups of them, but they were far too large for her to handle—ten or more. She feared that she might have to resort to attacking toads after all.
+
+But then she spotted a pack of three hyenas. One of them was limping while the other two stuck close to it. Siblings forced to fend for themselves, perhaps? This was a perfect opportunity for Liora.
+
+She flew high up in the sky, enjoying the sensation of the breeze against her feathers. Once she got high enough, Liora folded her wings and dropped down. She aimed for one of the healthy hyenas. The crippled one was unlikely to give her any real trouble.
+
+The hyenas had no clue what hit them. One moment, they were walking through the sickly forest. The next one, Liora had struck one of them straight in the head, killing it instantly.
+
+[You've defeated <Giantmaw Hyena – Level 5>. Experience gained.]
+
+[Your skill <Air Dive> has reached [Novice] level.]
+
+[Air Dive – At [Novice] level allows you to inflict up to 300% damage depending on the height from which you dive. At impact, a small shockwave is produced which pushes nearby enemies back and inflicts 10% damage on them.]
+
+Liora read the notification as she flew back up above the canopy and let out a cheerful chak-chak-chak. This improvement would make it easier to fight enemies in clusters. It was like the System knew that she needed it to defeat the hyenas.
+
+The remaining two hyenas began growling at Liora ferociously, spittle dripping out of their giant mouths. She had to wonder how they could eat with teeth so big. Wasn't it uncomfortable?
+
+Good thing that I wasn't reborn as a hyena. I don't envy these guys.
+
+Unfortunately, she couldn't Air Dive these two hyenas safely. She didn't want to be shredded by those teeth. Liora quickly dove down and tried to paralyze the hyenas using Paralysis Croak, but unfortunately, her Mimicry failed.
+
+The hyenas, at least the healthy one, were surprisingly fast. She couldn't hope to strike it from behind as the monster was following her every movement. It was a good thing she had the advantage of flight.
+
+"Caw!" She let out in frustration, hovering high in the air.
+
+Dammit, I can't get close enough to them without being chomped to bits. What do I do? Should I give up? But my glimmerstones are in that dead hyena. I need to get them!
+
+"If only you had some ranged attack…" Renir noted smugly.
+
+"Not spending glimmerstones," she objected.
+
+"But you're at a stalemate now. I don't even need to see to know you cannot defeat those hyenas head-on. You need a ranged attack!"
+
+Liora knew that. But spending glimmerstones… There had to be a better way to do it. After all, she still had learned skills even without buying them. Surely she could get a ranged attack the same way.
+
+But wait… Isn't Renir really knowledgeable in the System stuff? Couldn't he teach me?
+
+The hyenas barked incessantly underneath her. Liora cursed them as she dug through her inner Mimicry library. It took some time for her to find the right words—hyenas certainly were great at jumbling her thoughts.
+
+"Renir teach!" She said.
+
+"Teach what?" The gem asked in confusion.
+
+"Teach ranged attack."
+
+"Hey, I am a mage, not a bird. I can't teach you skills that only a bird can learn," he objected, but then paused thoughtfully. "But wait… if you're a bird, you naturally have an affinity to wind, no?"
+
+"Affinity?" She cocked her head quizzically.
+
+"Eh, I'll explain later. We need to deal with these hyenas first. Their barking is really starting to get on my nerves. Let's see if you can learn a bit of wind magic…"
+
+Liora waited for instructions as Renir thought for a moment. Was the hyena barks messing with his thoughts, too? She wouldn't be surprised by how noisy they were.
+
+"Caw!" Liora said. "Shut it!"
+
+"Alright, I think I have just the spell you need—Air Slash! It can be recreated with swords and fans and even energetic hand movements if one is really enthusiastic. But in your case, I think your wings should do the trick."
+
+"Air Slash?" Liora questioned.
+
+"Yes! You need to imagine creating superconcentrated arcs of air with your wings and launching them at enemies," Renir explained.
+
+"Arcs? Launch?" Liora felt confused by the explanations.
+
+"Aww, geez, these hyenas are so distracting! Just imagine you have blades attached to your wings made out of air. Then, as you beat your wings, imagine launching those blades at the hyenas. For both of our sakes, finish them quickly."
+
+Blades on my wings. I think I understand. Let's give it a go.
+
+Liora circled around the area, hyenas barking and chasing after her. She flew lower and, while facing them, imagined the blades of air just as Renir had described them. She felt something within her stir and flow, almost like water. The sensation scared her a little.
+
+"Don't stop! I can feel the mana you're concentrating on! Just push a bit more!"
+
+Liora took hold of the feeling, guiding it to her wings to form the blades. Then she flung them at the hyenas. It didn't reach them, but she did strike a nearby tree, making a rather sizable gash in its trunk.
+
+[New skill unlocked – Air Slash.]
+
+[Air Slash – At [Basic] level, you can create blades of concentrated air which inflict 100% damage upon contact. Range of the skill: 15 meters.]
+
+"Chak-chak-chak!" Liora cheered. "It worked!"
+
+"I can't believe you actually got it on the first try. You must be some super magpie! Next time, do hit the enemy, not a tree or whatever it was that you hit."
+
+Liora wasn't dismayed by his words and instead prepared a second Air Slash to hit the healthy hyena with. The cripled hyena wasn't able to keep up with Liora's flying speed. It was perfect—these hyenas were much easier to deal with when separated.
+
+When Liora imagined creating wind blades for the second time, it came much more naturally. It felt like someone was guiding her mana where it should go. The System probably. Liora was very grateful for that as she could concentrate on where she would launch her attack.
+
+The healthy hyena ran straight at her. Had it not seen her Air Slash before? No survival instinct in this creature whatsoever. Liora launched her attack, and it cut straight into the hyena, creating a horrible, deep cut along its side. Then she unleashed another Air Slash, and another one.
+
+"Be careful of how many Air Slashes you use. While you have more mana now, you can't do this endlessly. I'd guess that currently your limit is about ten of these," Renir warned.
+
+That sounds quite enough for me.
+
+Liora unleashed another Air Slash, and the hyena finally fell to the ground.
+
+[You've defeated <Giantmaw Hyena – Level 6>. Experience gained.]
+
+[You've reached Level 5.]
+
+Victory! Now I just need to take care of the limping hyena, and I can collect all those delicious glimmerstones.
+
+The limping hyena had finally caught up. Seeing its companion dead, it let out a miserable howl and glared at Liora. Anger bubbled in its eyes, turning the sclera black. Wait, that didn't look right.
+
+The hyena howled again, and the darkness spread from its eyes and its injured back paw around its body. Its fur became sludgy just as the one the corrupted boar she saw in her forest. Hyena's eyes hollowed out, and the spittle turned from clear into black, viscous liquid.
+
+"Liora, what's happening? Something in the mana flow feels wrong!"
+
+Liora didn't get to explain the situation as the corrupted hyena charged towards her at lightning speed.

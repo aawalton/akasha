@@ -1,0 +1,185 @@
+---
+id: 05b1363a-a527-5c58-9e54-731e7689bee0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 47 – Unauthorized Questing"
+slug: 0047-chapter-47-unauthorized-questing
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 47
+ownLength: 2014
+unit: words
+publishedAt: 2025-11-12
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2753849/chapter-47-unauthorized-questing"
+royalRoadId: "2753849"
+---
+
+Serena, Kalen, and Kiva were all satisfied with the quest they completed. It was easy, giving them enough experience to level up. Not to mention the nice meal they got in a restaurant. But Liora was far from happy. Aside from the fish—that was nice. But everything else about the day had sucked.
+
+She had been stuck sitting on Serena's shoulder for most of the day, napping away lazily. Her Treasure Sense was begging her to go and search for valuables, but she knew that if she took flight, then they'd have another bird thievery incident on their hands. She wasn't willing to risk that.
+
+But as the group made their way back to the Guild, Liora had made up her mind.
+
+I'm going to take a quest and head into a dungeon by myself.
+
+Take a quest? You? Have you forgotten that you are a bird? Nobody will give you a quest.
+
+I don't need them to give me a quest. I'll just snatch it up from the Quest Board. Nobody will even notice.
+
+You stealing a quest note doesn't mean that the quest is yours. It needs to be registered.
+
+What? Really? That's stupid. Your System is stupid. Fix it!
+
+There was a heavy pause, and Liora wondered whether Renir was mad. Did she hurt his pride?
+
+I… I just realized that I could probably register the quest for you.
+
+You can?
+
+I've never done it before, but theoretically—yes. I should be able to do it.
+
+Wonderful! Then I'm definitely snatching that quest.
+
+Liora felt much better and waited patiently until Serena and others returned to the Guild to hand in a quest. It turned out that the System had already marked the quest as complete, and all they had to do was withdraw the reward.
+
+But Mark explained that there was no need for them to rush to the Guild after each completed quest. Apparently, it was fine for the rewards to pile up and withdraw them later. In essence, the Guild almost functioned as a bank of sorts.
+
+While Serena was busy at the Reward Claim desk, Liora flew over and perched on the Quest Board. The adventurers browsing the quests looked at her suspiciously at first, but seeing the Guild Ring around her leg, relaxed and continued their business.
+
+Liora also peeked down at the quests, doing her best to find a suitable one. It was annoying trying to read them upside down, but eventually she found a quest that she wanted. It was the same copper quest they'd taken before—kill 5 kobolds. It was posted multiple times.
+
+She was almost tempted to grab it, but decided to look over bronze quests first. Maybe she could grab that mushroom gathering quest. She wouldn't even need to fight anything to get those mushrooms, since, unlike humans, she could easily avoid monsters if she wanted to.
+
+While searching for the mushroom quest, she stumbled upon a more interesting kobold quest. Subjugate 5 kobold casters. It offered more experience and a bigger reward. Although she wasn't sure how she would withdraw the reward just yet. Maybe she can work it out with Serena later on.
+
+For now, it was time to act. Liora waited until everyone in the room was distracted and hurriedly snatched the mushroom and kobold caster quest notes, instantly putting them in her Inventory. Then she flew back to Serena, a picture of innocence.
+
+They returned to their rooms, none the wiser about what Liora had done. She waited until they were asleep, then sneaked out through the open window. Serena had closed it initially, but Liora made a racket for her to keep it open, so in the end, she obliged.
+
+With dark blanketing the city, Liora felt in her element again. She flew over the rooftops, over the walls. There was no reason for her to take the stuffy tunnel if she could just fly.
+
+Okay, how about we get those quests properly registered?
+
+Land somewhere. I don't think I can do it in your Inventory.
+
+Liora decided that it was safer to put a bigger distance between herself and the city. Renir had said that any locator spells had a limited range, so it was best to go out of that range. Only after she was a good distance away from the city did she land.
+
+It took her only 15 minutes of flight in her Starfeather Corvid form to be well beyond the reach of any tracking spells if any of the mages hunting for Renir happened to be in Cyene. Flight was just so convenient for travel.
+
+With them safely away from the city, Liora withdrew Renir from her Inventory and marveled at his beauty. He shimmered in the clear moonlight, and Liora wanted so badly to polish him.
+
+"Birdbrain! Focus!" He suddenly shouted.
+
+"What?" She asked, peeved by the interruption.
+
+"The quest notes! I need them as well as your Guild Ring to register the quest," he said, sounding rather annoyed.
+
+"The receptionist didn't need the Guild Rings to register quests," Liora countered.
+
+"That's because she has your mana cards for that. I don't have them, so give me that ring already."
+
+Liora pulled out the quest notes and pressed her Guild Ring against Renir. For a while, nothing happened.
+
+"Well?" She urged.
+
+"Be patient! I've never done this before."
+
+Another minute passed in silence. Weird noises came from Renir: some grunting, some cursing, some growling. It sounded weird coming from an inanimate object. Eventually, Liora received the quest message.
+
+[You've undertaken a quest – Collect Glowshrooms]
+
+[Collect 10 Glowshrooms.]
+
+[Location: Cayenne Dungeon Area G]
+
+[Deliver the gathered Glowshrooms to Guild Merchant at Cyene Dungeon Entrance.]
+
+[Reward: experience + 50 copper coins]
+
+[You've undertaken a quest – Defeat 5 Kobold casters]
+
+[Defeat 5 kobold type monsters who have evolved to use the arcane arts, for example, kobold shaman, kobold sorcerer, kobold necromancer.]
+
+[Location: Cyene Dungeon Area G]
+
+[Reward: experience + 2 silver coins]
+
+"Hey, it worked!" Liora cheered.
+
+"Of course, it did! I'm the one who designed the Guild System after all. Although the asshats who trapped me in here severely limited my capabilities. Had to do some sneaky stuff to register those quests," Renir said.
+
+"What sneaky stuff?" She questioned.
+
+"Eh… Don't worry about it! Better get going to the dungeon. You got quests to complete," he urged instead.
+
+Liora found it a bit suspicious that he didn't explain himself. Usually, he was eager to overexplain anything. But she decided not to push it. Don't look a gift horse in the mouth, as they say.
+
+She put Renir and the quest notes back into her Inventory and flew in the direction of the dungeon. She worried whether she would even notice it, as it was located underground. But soon it became clear that she worried for nothing. The dungeon was clearly visible from kilometers away.
+
+The giant dome-like structure stuck out in the wilderness like a sore thumb. Or perhaps a giant pimple. The city surrounded by the wall looked small by comparison, and its rocky surface with various deep openings didn't look like it belonged among the surrounding forests.
+
+So that's how a dungeon looks from above. That's crazy.
+
+Yeah, it doesn't look like it belongs there. It's almost… artificial.
+
+Every dungeon is created by the dungeon master, so I guess it is artificial in a way.
+
+This dungeon master must be incredibly powerful to create something like this.
+
+Oh, yeah. They're monsters of incredible power and intelligence. They sustain the dungeon in a way that would be most beneficial for them.
+
+What is most beneficial for them?
+
+If a larger number of people die, of course. But not enough to scare people away completely. They try to balance things out to be enticing enough for adventurers to head inside.
+
+I… I don't have to beat a dungeon master to get a Pulse Stone. Do I?
+
+No. Not in a million years could you beat a dungeon master. But that's alright. You don't have to. While Pulse Stone is a rather rare find in a beginner dungeon like this, I think we're bound to find one eventually.
+
+Liora breathed in relief. If she had to fight the creature who created this massive structure, then she might have just flown back to her forest and accepted that Renir would forever remain a rock. She didn't want to fly anywhere near any dungeon master. Ever.
+
+Despite the late hour, the Dungeon Entrance was bustling with life. Adventurers were coming out of the dungeon, going to the infirmary, healing, dragging their haul to the Guild Merchant, and celebrating in the pub. Despite the life, she had no trouble slipping inside.
+
+She landed on the shoulders of adventurers, hopping from one to another. They appeared startled at first, but as soon as they saw her Guild Ring, they relaxed and returned to their business. She didn't stay long enough for them to truly question to whom she belonged. Everyone just assumed that she was with one of the many parties.
+
+Even the guards didn't pay her any mind once they saw the Guild Ring. When she flew past them into the dungeon, they asked whether she belonged to someone. When nobody answered, they just shrugged and continued with their duties, not bothered in the slightest.
+
+This Guild Ring is overpowered!
+
+Told you it would be easier to get into the dungeon with it. Now, let's find those kobolds.
+
+Once she got deeper inside, Liora transformed into her real form. Best to be at full battle prowess. Unlike the first time with Serena and others, she actually encountered a few adventurers along the way. But sneaking past them undetected was so easy, it was funny. In the distance, they couldn't see her due to the poor lighting and her Shadow Glide.
+
+When she was near them, she activated Fade—just in case—and flew by them. Nobody had any clue Liora was there.
+
+These guys are so defenseless. They're lucky I'm not an actual monster. Although that rock serpent or whatever it was called could easily ambush them.
+
+In their defense, you're harder to notice than the serpent.
+
+Obviously! Some snakes can't compare to my great self.
+
+However, the deeper Liora flew, the more nervous she grew. She was nearing the place where she and the others had fought the kobold swarm. Every sound seemed suspicious, every movement in the distance made her twitch, even if it turned out to be a bug.
+
+Wait, isn't that a glowshroom?
+
+She landed near a cluster of mushrooms that emitted a faint bioluminescent glow.
+
+No, these Lumina Mushrooms. Glowshrooms are much brighter. They can be found deeper inside.
+
+Yay…
+
+What? You scared of a few kobolds?
+
+Corrupted kobolds! And if you haven't noticed, I don't enjoy endangering my life.
+
+Renir kept taunting her, but some movements in the distance had caught Liora's eye, so she ignored him. Instead, she focused, using her Twilight Vision to understand what exactly she was seeing. There was a wriggling mass of something, but it was hard to tell exactly what it was.
+
+She took silent flight, relying on Shadow Glide to keep her hidden. She was flying closer to the mass, but she couldn't understand what it was. It was almost like her vision wasn't able to discern what it was, and it frustrated her to no end.
+
+What's going on? What is that thing?
+
+I… I don't know. Why is it so… weird? I can't tell what it is. Did something happen to your eyes?
+
+No, my eyes are fine. But…
+
+It was then that she realized what she was looking at, and her stomach lurched in horror and disgust. The mass wriggling in the distance was unclear because that was exactly what she was looking at. A black, sludgy mass of a corrupted abomination. There were weird, bulbous, bloated limbs, enlarged growths that were once scales, and a coalition of hollow sockets where eyes had once been.
+
+It was as if the corrupted kobolds had all merged into one giant mass of bodies.

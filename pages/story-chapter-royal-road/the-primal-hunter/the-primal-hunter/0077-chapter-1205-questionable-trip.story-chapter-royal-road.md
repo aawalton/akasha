@@ -1,0 +1,165 @@
+---
+id: b20bd43e-fb7f-5b66-aa9d-f9fd9e3a7620
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1205 - Questionable Trip"
+slug: 0077-chapter-1205-questionable-trip
+partOf: the-primal-hunter
+position: 77
+ownLength: 2723
+unit: words
+ownProgress: 2723
+publishedAt: 2025-11-19
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2774995/chapter-1205-questionable-trip"
+royalRoadId: "2774995"
+markedReadAt: "2026-06-29T19:31:42.394Z"
+---
+
+Jake looked at Meira, but the high elf didn’t look like she intended to say anything as she instead simply bowed toward him. “I believe it’s only proper that I should also leave Lord Thayne to his personal matters. Thank you for the talk. I truly appreciate it.”
+
+“No problem,” Jake muttered, still unsure if Artemis and Meira had shared a telepathic message or if it was just some weird tacit understanding that he didn’t have the ability to comprehend.
+
+“If Lord Thayne does need anything, don’t hesitate to contact me, and you can naturally visit any time if you want,” Meira continued, Jake just nodding along. He still wanted to see Meira’s tower, but he would definitely delay his visit a little to allow things to fully calm down.
+
+Besides, he had left the Sword Saint and the others waiting long enough.
+
+After saying their goodbyes and Meira leaving, Jake reached out to the Sword Saint.
+
+“Alright, I’m done on my end,” Jake said, using his token. As visitors, his Nevermore party members had all gotten tokens of their own to navigate the Order of the Malefic Viper, allowing them to use the teleportation gateways and whatnot.
+
+Of course, it didn’t give them all the capabilities of Jake’s special token that Villy had cooked up. Theirs were better than the regular visitor tokens, though. Jake wasn’t entirely clear on all the details, but they effectively had VIP ones.
+
+Tokens functioned not only as practical tools but also as identifiers. Jake himself, who’d originally gotten a Black Token, had his upgraded to a Dark Green after he was revealed as the Chosen, seeing as it would be very awkward to have the Chosen of the Order’s leader not have the highest level of token.
+
+Due to the special nature of Jake’s, he could change its looks, though, in case he wanted to try to go incognito again… because that had worked out so well all the other times.
+
+In summary, tokens were both symbolic and useful within the Order of the Malefic Viper, with Jake especially a fan of the phone call function he was currently using to talk with the Sword Saint.
+
+“Dare I ask how it went?” the old man asked.
+
+“Surprisingly well, I think?” Jake said, impressed at how smoothly everything had gone. “I feel like things got cleared up nicely, and it was all done without any fighting or deaths.”
+
+“Would it be presumptuous of me to say that I’m proud?” the Sword Saint said in a jovial tone.
+
+“Very.”
+
+“In that case, I won’t,” the swordsman said, moving on right away with his next sentence: “We are currently out buying supplies, but will return within the next few hours... assuming Sylphie can decide on what she wants. Not to mention the King’s peculiarity regarding what he’s willing to purchase. The poor merchants are not having a good time.”
+
+“Should I be worried it might end in violence on your end?” Jake joked.
+
+“I’ll ensure we all return safe and sound,” the Sword Saint chuckled in response.
+
+“Good, see you three soon,” Jake smiled, as the two said their goodbyes and severed the connection, leaving Jake alone in his living room.
+
+Leaning back on the couch, Jake let out a loud sigh, finally letting all the relief hit him. He was glad that everything had indeed gone as well as it had, and even though he knew it was definitely presumptuous to think, he was incredibly proud of Meira and how far she’d come. He’d always believed her “crush” was nothing more than that, and one born from desperation. Meira had been stuck at sea with Jake her only lifeline, but now it seemed like she was finally solidly on dry land.
+
+Deciding he wasn’t gonna dally and laze around, Jake stood up and went down toward his alchemy lab. Once there, he checked through his alchemical ingredients and put together a lot of herbs and toxins he’d need to continue his experimentation.
+
+While the Pantheon of Life had great resources, they still lacked severely in the toxins department compared to the Order of the Malefic Viper. The Order simply had more variety, and with Jake’s overwhelming privilege, he could get whatever he wanted to wastefully experiment with to find the most suitable.
+
+He was still working hard on making his bane poison with the ultimate goal of making a dragonsbane poison. Jake would say his progress was pretty decent, and he already had a few good ideas that he could now carry out once back in the Order. Although he also faced a few challenges.
+
+Usually, Jake tried to avoid following recipes outright, as he preferred to discover things for himself. Also, more often than not, the recipes didn’t necessarily outline the best way to craft a poison. One could always find substitutes and different herbs that did the same thing with very slight variations.
+
+However, in this case, even if Jake wanted a recipe, he hadn’t found any that were useful. His primary problem was that they all tended to use B-grade ingredients. C-grades didn’t really make bane poisons, so nobody bothered to discuss a method for them, resulting in Jake having to experiment and explore more on his own than usual.
+
+His main issue was the three types of moss that were always used as the base for all bane poisons. These types of moss were only found at a B-grade level, meaning the energy within was borderline impossible for Jake to manipulate and control. There was simply a difference in quality and quantity that made it unfeasible.
+
+That meant Jake would have to find some kind of replacement, but it wasn’t as simple as just finding three kinds of moss with similar properties. The reason these three were used as a base was due to how they combined in the concoction, priming the entire thing to absorb all the other required ingredients.
+
+Without that base, none of the other ingredients made much sense, besides a few. One ingredient Jake couldn’t change was the part of the entity or thing one wanted to make a bane poison against. For dragonsbane, Jake would likely need some blood, scales, or other parts of dragons containing just a bit of Records.
+
+Of course, before that, Jake would make a more generalized bane poison. The most important part was that bane poisons were primed against entities with certain kinds of Records, and the better the match in Records, the stronger the bane poison. A scalesbane poison would work against any scaled creature, but compared to a dragonsbane poison made solely for dragons, it would be far weaker due to its emphasis on scope over focus.
+
+As Jake was searching through any reading material available, he did come across some mentions of C-grades having made bane poisons in the past, but none had been so kind as to share their ingredient list, something that didn’t come as a surprise. A C-grade capable of making a bane poison had to be a genius alchemist with their own unique set of skills and methods, so a general recipe would be of little use to others. Oh, and most didn’t even consider sharing their recipes. Jake had made a few impressive creations above his grade, but had never once written down a recipe book.
+
+To be clear, Jake wasn’t complaining about the lack of a recipe to follow. He liked the challenge of figuring things out himself, and he even suspected that was part of the reason no one encouraged the creation or sharing of recipes in such scenarios.
+
+The Records and experience gained from figuring out oneself were simply on another level.
+
+Right as Jake had finished ordering all the ingredients he wanted for his upcoming hardcore alchemy session, his token buzzed once more, reminding him that he was waiting for a call.
+
+Taking it out, he quickly answered as the expected person was on the other end.
+
+“We’re returning now... it ended up taking a lot longer than I thought it would,” the Sword Saint said, sounding very exasperated.
+
+“Got it, I’ll be ready and waiting,” Jake responded as he put aside the book he had been reading and made his way up towards the entrance area. It was also only now that he realized that seven hours had passed since he spoke with the Sword Saint last, meaning that, yeah, they definitely had quite the shopping trip.
+
+Not long after, the teleportation gate activated, spitting out Sylphie, the King, and the Sword Saint. Sylphie instantly noticed Jake and didn’t hesitate to fly over and land on his head, all while letting off a loud series of screeches.
+
+“Ree, ree, ree!” Sylphie explained, her excitement evident, making Jake nod.
+
+“Sounds like you got some good stuff,” Jake smiled.
+
+“Ree!”
+
+“I’m sure they’ll love it,” Jake chuckled, though he had a feeling Mystie and Hawkie would enjoy anything their daughter brought home from the multiverse for them. They were just grateful for her existence, and her continued progress was the greatest gift she could give them, as the Records she provided, courtesy of being their daughter, had to be insane.
+
+“I still argue you paid more than was required for some of your purchases, especially the Squallburst Fruits,” the Unique Lifeform said with crossed arms.
+
+“Ree,” Sylphie argued back with a perfect counter.
+
+“Their color being fun is not a valid argument for their value increasing above the market norms,” the King tried in vain to convince Sylphie of proper financial responsibility.
+
+“I believe she paid what she did due to her eating several of them as free samples... without them actually being free or classified as samples,” the Sword Saint described Sylphie straight up robbing some poor fruit merchant. But hey, at least she seemed to have compensated the merchant fairly in the end.
+
+The King just glanced at the Sword Saint, clearly still insistent on his own opinion being the right one.
+
+“Are you struggling for money or something?” Jake asked the King, confused. “Because if you are, I could lend you some... I don’t even bother checking how many Credits I have as I never need to use them for anything.”
+
+To be clear, Jake was loaded for sure, but he wasn’t necessarily considered extremely wealthy. Sure, he never bought anything, but it wasn’t like Jake ever sold stuff either. Money was just not an object to him, so he never bothered thinking about it and likely wouldn’t start to unless he ran into an issue of not having enough funds.
+
+“It’s not a matter of having enough Credits or not; it’s about the principles of the situation,” the Forest King answered. “She paid more than she had to, and if the merchant ended up suffering a loss, that would only have been a result of his own incompetence.”
+
+“With that logic, wasn’t it a result of his competence that he convinced Sylphie to pay enough for him to turn a profit?” Jake asked.
+
+“No, that’s a sign of Sylphie’s naivety,” the stubborn Unique Lifeform refused to concede any ground.
+
+Jake and the Sword Saint shared a knowing look before Jake changed the subject.
+
+“Moving past that, how about you? Got some good stuff?” Jake asked the King, knowing that if there was one way to make the Unique Lifeform move on, it was to get him talking about himself.
+
+“Naturally, and all acquired at prices advantageous to me,” the King answered proudly. “With these natural treasures in hand, I can start carrying out my plans in the Milky Way Galaxy.”
+
+Ignoring the obviously ominous statement, Jake asked an entirely unrelated question.
+
+“Actually, what happened to your Credits when you kind of died?”
+
+“Nothing, because I never truly perished,” the Unique Lifeform answered. “Of course, in the event of my true death, my Credits shall disappear along with me, the same as everyone else.”
+
+“That’s why people who care about money tend to put it in banks,” the Sword Saint shrugged. “Most of the Noboru clan’s funds are with the Golden Road Emporium’s banking branch. I assume you’re unaware, but Sultan from Haven is one of the people running this bank and has expanded it throughout not just Earth but the rest of the galaxy. I would go into more details, but I assume you truly don’t care that much.”
+
+“It’s interesting to know,” Jake shrugged, admittedly not caring that much. Of course, he knew about banks and people putting their Credits into them, so all their funds wouldn’t disappear upon death, and even knew that merchants could get skills to still preserve some Credits even after a person died, despite not having deposited their funds first.
+
+But, yeah, Jake felt like the intricacies of the financial world were something for the Jake before the system to wrack his brain with, while current Jake would focus his efforts and mental energy on shooting stuff with bows and making a poison capable of killing a dragon.
+
+The four of them chatted for a little longer, but their talk was brief as the three others wanted to get back to Earth sooner rather than later. Seeing as teleporting to the ninety-third universe still wasn’t smooth sailing, the three would teleport back alongside Jake, even if he didn’t plan on staying long himself.
+
+Going through the void again after what happened last time perhaps sounded risky, but there was one massive difference between this one and the last: the Malefic Viper would personally be in charge of this trip. In other words, if anything unexpected did happen, the Primordial would be there in a fraction of a moment, knowing exactly where they were at all times.
+
+As before, the big teleportation circle back to Earth was on Jake’s lawn, and only now that he went there with the other three did he notice it had been improved slightly from the last time he used it. He didn’t understand what had changed, but he knew that the Malefic Viper was definitely the one behind it, because there was no fucking way a mortal was capable of even changing it.
+
+“You three nervous?” Jake asked the others as they stood in front of the teleportation circle.
+
+“Ree,” Sylphie rejected the notion, though she quite obviously was a little unsure.
+
+“Your Patron shall facilitate, yes? In that case, I see no cause for concern. If this group that ambushed us last was capable of facing a Primordial directly, they wouldn’t have had to attempt such a cowardly kidnapping,” the King answered.
+
+“What he said. For the most part,” the Sword Saint nodded.
+
+“I’m sure he appreciates the trust,” Jake chuckled as he reached out to his Patron. The four of them stepped onto the big teleportation circle, and a few moments later, they were once more whisked through the void.
+
+This time around, the trip was thankfully as uneventful as could be, and only a few seconds later did they find themselves back on Earth.
+
+However, despite Jake saying it was a smooth trip, he wasn’t so sure the others felt the same.
+
+“Ree...” Sylphie screeched lowly while lying on the ground, wings out to each side. Meanwhile, the Sword Saint was holding a piece of cloth to his mouth as if he were about to vomit. The Unique Lifeform didn’t have any outward signs of struggling, but he did stop floating for a moment and stood eerily still.
+
+Even Jake felt dizzy as he sat down and took a deep breath. “Alright, yeah, maybe should have waited a bit longer for the void nausea or whatever it’s called to go away.”
+
+Everyone else was understandably silent as Jake focused on his breathing. None of them felt great, but at least they could all take some time to-
+
+Right then, Jake detected movement nearby as a large group of people approached them. He stared in the direction where the people were coming, something the Sword Saint noticed as he spoke.
+
+“I should mention...” the old man muttered, his tone full of regret, “I may have informed Ms. Wells we would be returning today...”
+
+Jake looked at him and at the other two who hadn’t even reacted, as he feared that the reputation of four incredibly powerful and influential figures of Earth would be ruined that day.

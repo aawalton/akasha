@@ -1,0 +1,399 @@
+---
+id: d1e61167-4ebf-554c-beb6-39e894b9d755
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 458"
+slug: 0157-the-path-of-ascension-chapter-458
+partOf: the-path-of-ascension
+position: 157
+ownLength: 6485
+unit: words
+ownProgress: 6485
+publishedAt: 2025-11-14
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2761385/the-path-of-ascension-chapter-458"
+royalRoadId: "2761385"
+markedReadAt: "2026-06-29T19:33:09.372Z"
+---
+
+Chapter 458
+
+Matt cursed as one of the slivers of shattered space carved a path through his chest. He sprinted with everyone else trying to escape the collapsing tunnel behind them, which threatened to spit them out back into chaotic space.
+
+He was more surprised than hurt, as the fragments of unstable space were stupidly hard to block in normal times but they cut without any enchantments or additional effects that would make healing harder.
+
+If they were on a planet and he encountered such attacks [Cracked Phantom Armor] and stabilizing space around him would have been enough to destroy all of the blades but they weren’t on a planet and Matt couldn’t cast anything external without risking their lives.
+
+They were supposed to be efficiently loping through a stable sky bridge. Instead, they were running with their full power though a collapsing spatial tunnel as they desperately tried to keep themselves from being ejected into the third layer chaotic space.
+
+If that happened, they would undoubtedly die, torn apart by the much more dangerous energies.
+
+So, they ran, despite the sky bridge’s resistance to such fast movements, their only goal to outrace the gaping maw of emptiness behind them.
+
+Already fully healed, Matt was cut a dozen more times in short order, relying on Allie to dissipate any of the slivers that might hit someone else's brain.
+
+Matt with his healing, together with Liz and her many clones, took the lead, using their bodies to carve a path through the collapsing tunnel for everyone else.
+
+The spatial blades were incredibly sharp, as well as being nearly invisible until they cut something. Finding them with their bodies made it much easier for everyone else to close the rents with their Domains.
+
+Without being able to use outward skills for fear of making things worse they used their bodies relying on their own internal healing abilities to keep going.
+
+Allie’s voice was piercing as she called out and broke their silent exertions. “Wave!”
+
+Focusing every portion of his Domain, Matt joined Allie in carefully stabilizing space directly in front of them. Everyone else, led by Aster, focused on keeping the spatial tunnel they were running through from unraveling any further.
+
+Together they stabilized space at everyone's head's level, accepting the physical damage as they passed through what felt, to him, like a near solid wall of fractured space. His chest and legs almost looked as if he had fallen into a blender but his head remained untouched.
+
+His and Liz’s wounds ensured the others weren't caught off guard.
+
+They had known blowing the stabilizer up would be dangerous, but their last minute additions had made things far worse than they expected, leading to their current predicament.
+
+Rah had prepared them to expect a few such ‘spatial blades’ when they broke the stabilizing formation, but they had made a near fatal mistake in their final adjustments.
+
+Matt let Rah’s confident words replay in his mind once more, even as he felt himself get cut multiple times.
+
+“I know it's not something to boast about, but I’ve used this tactic many, many times before to escape pursuit. Even if they had the Tier 25 formation in hand, it would take at least a month for the sky bridge’s connection to settle down enough to create another. One or two spatial blades and we won’t have to worry about them once we cross the halfway point.”
+
+Instead, they were sprinting through a narrow hallway packed with knives only visible to careful spiritual perception inspection. Each and every fissure threatened to pierce a brain and end someone's life but Allie, thankfully, was able to easily ‘see’ them and her efforts had gotten them through the hectic few initial moments.
+
+Their problem came from the fact they hadn’t accounted for Gan Le’s storage rings when they entered the sky bridge. They hadn’t known he was still carrying his normal spatial rings when Aster grabbed him.
+
+They had only accounted for their own storage items being empty, along with Evander Vidal and his team's.
+
+Together they were well under the limit.
+
+Gan Le, having not been briefed on the plan, had been carrying all of his normal, and therefore large, spatial rings. Even inside Aster’s Tier 25 Talent spirit space, his rings had affected the sky bridge’s stability.
+
+With the stabilizer, things had been fine, there had only been cracks on the sky bridge wall. But once its influence was removed, his additional rings shattered the sky bridge. If they had been ejected into chaotic space it would have been through a storm of space turbulence fissures so large and so closely packed that only Matt, Liz, and Gan Le had any hope of survival.
+
+Thankfully Rah did have countless experiences on sky bridges and quickly got everyone to assist Allie in manually stabilizing the tunnel and slowing down the collapse.
+
+With the sky bridge unraveling behind them, they were forced to press ahead as fast as possible, regardless of the spatial blades and diminishing returns on their speed.
+
+“We are nearly at the halfway point. Things should be more stable after that!”
+
+Rah’s words reinvigorated them and they pushed through the wall of blades.
+
+Thankfully, he was correct.
+
+Once they reached the halfway point things instantly eased up.
+
+The tunnel stopped collapsing, now entirely reliant on the planet they were going to. Best of all, the spatial fissures were far closer in number to what Rah had originally predicted in the second half.
+
+Following Rah’s lead, they continued on high alert for a little while longer before they returned to a more casual pace that covered only slightly less distance.
+
+Turning his attention to Aster, Matt raised an eyebrow as he privately messaged her trying to probe. “So, Gan Le?”
+
+Aster rolled her eyes at him, seeing straight through his act.
+
+“Don’t give me that. We are friends and when he saw us, he begged for an out. How could I say no.” Her reply was backed up by her opening their bond so her emotions were obvious and it was clear she wasn’t lying.
+
+In return, he did the same. It was good manners, and together they let their emotions bleed into each other’s more than usual.
+
+That didn’t mean he believed Gan Le begged for a way out, but he could see the man asking. As someone who hated being put in command of such large things, Matt understood the desire, but he was also pretty sure that wasn’t all that was going on.
+
+Letting the silence speak for him, Aster finally sighed. “We are friends.”
+
+Feeling his disbelief through their bond she added, “Really, that's it. We get along together, but we are from different Great Powers. Neither one of us is willing to defect. Well, Gan Le said he’s considered it, but given how badly higher-Tier defectors are treated most of the time, I can’t blame him for not doing so. So, we have agreed to keep things friendly when we can hang out. We try not to let political differences get involved.”
+
+Matt was going to say how much all of that sounded like excuses when she added.,“At the same time, we agreed we aren’t waiting for each other or anything so dramatic. Neither owes the other anything.”  Shrugging, she casually finished, “If we are both still single when we are looking to Ascend, we might give it a shot when we can put the Great Powers below us. But that's too far to really say. So currently, I’m simply helping a friend get out of a predicament and nearly getting all of us killed in the process."
+
+Knowing he couldn’t prevent her from getting hurt, Matt didn’t press any more. Instead they walked in comfortable silence, letting their bond and emotions express themselves.
+
+She’d be fine. Not because of anything he could do, but because Matt could feel she wasn’t searching for romance. She was perfectly content remaining single and wouldn’t settle for anything less than her ideal partner.
+
+He almost felt bad for that, knowing his and Liz’s early romance had probably influenced her as much as her monogamous fox instincts.
+
+Laughing, Aster changed to a group message. “Sorry about that but I think it will be worth it to secure the services of the Sects’ best tank. Gan Le has, in exchange for his freedom from my spirit space, agreed to help guard our supports. I did agree that he gets anything directly useful to him at a reduced priority, so if we need an item we don’t have to feel bad. He also gets taken into any strange realms the crew is taken into but I felt that was fair and didn’t cost us anything. That's it! No full split of the loot or anything. Oh yeah, he also intends to Tier up if he can, so he might even prove useful!”
+
+Given that they were still early Tier 29s themselves and that Gan Le wasn’t too far from being able to break through, she wasn’t wrong.
+
+If they weren’t afraid of opening Aster’s spirit space on the sky bridge, Matt would have already let Gan Le take the lead instead of himself and Liz.
+
+The news did make him reconsider Gan Le begging Aster to escape. If he was willing to agree to such a lopsided deal, he might have been that desperate.
+
+Poking her through their bond only earned him a return jab but Matt didn’t push any more than that, knowing Aster could protect herself. Not every immortal remained permanently monogamous as mortals often did, but he knew she wanted what she wanted.
+
+Gan Le wasn’t that bad of a friend so long as they didn’t meet on the battlefield.
+
+Matt was sure Aster could reliably capture Gan Le now that they knew his biggest weakness, but the thought made him question how the two had become such close friends when he had seen nearly all of their interactions.
+
+Following that thought, Matt returned to their private chat and asked, “How do you even talk to each other? There is no way the normal messaging system would work without everyone knowing you two were in contact."
+
+Aster's laugh was far more devious as she responded, “Gan Le has asked the same question many times and I’ll tell you what I tell him. I am all powerful! In reality, I’ve bypassed most of the security checks and set up a system to only send the messages when it's clear to do so. We don’t talk that much and we don’t talk about anything we don’t care about getting seen. As for non-digital things, well, I can’t share everything now, can I?”
+
+“So you have Allie teleport them in?”
+
+Aster immediately blew out a raspberry. “Wrong! Don’t bother guessing again. You’ll only remain wrong or get more wronger.”
+
+Normally Matt would have interpreted that as her admitting to the method but through their still fully open bond, he could feel she wasn’t.
+
+Poking the bond to make sure she wasn’t using an illusion to trick him, he found only smug satisfaction as she caught him checking.
+
+Reaching out and grabbing Aster, he pulled her into a one armed hug. “Don’t get hurt.”
+
+Instead of a flippant answer she sighed. “I wish I could find the person who could really hurt me.”
+
+Matt let the topic fade, instead listening to Rah as he gave Evander and his group a rundown on how to cross sky bridges.
+
+Evander, still covered in blood, took up a rear defense for the less resilient mages in the middle. He nodded along to everything Rah said like a chicken rather than a dignified and celebrated explorer.
+
+Having already heard everything Rah was sharing and more, Matt looked over their five members of the Unsparing’s crew, ensuring none of them had any lingering issues. While bloody, they had all made it through alive, and magical healing could fix everything else once they were off the sky bridge.
+
+Evander’s crew was larger than theirs but everyone was still alive. They didn’t even look mad for getting them into the sticky situation, which was a bonus.
+
+Any deaths might have changed their stance, and he would have had a hard time arguing. Things had worked out, but it had been closer than any of them intended and that was how people died.
+
+Thankfully the second half of the sky bridge was a relative walk in the park. While he wasn’t used to spending hours walking between planets, he could see how useful this would be to people who would have otherwise been trapped in a single universe or star system.
+
+A two hour jog meant little within that frame of reference.
+
+Matt had never doubted Rah’s information, but now they weren’t in danger, he decided to test things. Varying his own speed, he found what Rah said about ‘resistance’ to hold true. The faster he ran, the less he sped up.
+
+What Rah hadn’t said, was that the effect seemed to be Tier agnostic. All of them moved at roughly the same speeds, but the seven Tier 29s had a relatively easier time moving than the Tier 30s who should have been less restricted, not more.
+
+Running through a spatial tunnel, there was little in the way of distance, but he was pretty sure they were now moving no faster than a Tier 5 would be able to on a typical planet at a dead sprint. Earlier, they had proven they could go faster, but the effort expended was orders of magnitude higher.
+
+That went over a dozen interesting implications if he was correct, but none of them mattered as they jogged, so he kept his thoughts to himself. They’d be more relevant to Allie anyway and he already knew how full her plate was.
+
+Almost before he knew it, they were done. Exiting the sky bridge was nothing like entering it had been.
+
+Reality seemed to unpack itself around them as they walked forward, one fold at a time. That disorienting effect lasted until they were standing on the ground next to a near picturesque glen. The valley was mottled with lush, untouched grasses and clusters of trees huddled together as if for protection.
+
+Ruining the atmosphere, a pack of Tier 12 kobolds noticed them and attacked on sight.
+
+A flick of Aster’s fingers turned them into sculptures, along with the rift itself.
+
+That ice having been condensed from her raw mana would last for centuries on such a low-Tier world. While not a problem for the now dead creatures, it would cause complications with the frozen over rift.
+
+If it was so easy to stop a rift from spilling monsters into reality, rift breaks would never be an issue.
+
+The rift wouldn’t change locations until it was full and tried to expel a wave of monsters, so they had at least a few weeks judging on the exact mana levels, and they would be gone in a matter of hours rather than days.
+
+If it wasn’t for the necessary gear repairs, as well as Rah wanting to give Evander and his people some hands-on guidance with his stabilizer formations, they wouldn’t have even set up camp, but Rah insisted.
+
+A few hours delay wouldn’t kill them and they needed the time.
+
+Matt’s assumption was proven wrong, as almost immediately Rah changed their plans.
+
+“Repairs are going to take longer than expected so let's aim for an early morning departure time. Even better, once the repairs are done and everyone has settled down I can show you and your people how to operate my formations as well as share a few tips I’ve learned over the years about using them.”
+
+Evander smiled, thanking Rah with an easy air Matt almost envied.
+
+In that moment, he saw why Evander's movies always sold so well. Even covered in blood, the man’s smile looked genuine and full of warmth as he showed his appreciation.
+
+As an experienced explorer, he would have assumed Evander had entered a breach before but the Tier 30 was young enough he couldn't be sure.
+
+“Thank you and I will take you up on that. I’m no formation master so I ap—”
+
+His attention was pulled away as Gan Le appeared in their clearing. Wincing, Matt almost felt bad for him as he was covered in a not-so-thin coating of ice.
+
+The air crackled as the ice around Gan Le’s chest cracked and then crumbled to powder as he partly freed himself.
+
+With clattering teeth he asked, “Why did you leave me in there for so long?!?”
+
+Aster winced as she waved away the rest of the ice still clinging to him. “Sorry, I didn’t realize you had storage rings on. When we blew the formation, it destabilized the sky bridge, so I couldn’t risk taking you out inside.”
+
+Gan Le’s irritation vanished as he looked around, seeing everyone else's condition.
+
+His surprise seemed genuine and he thanked Aster and everyone else before sitting down on the ground.
+
+“Much better. So, what's the new sapling? It's making the place colder. I also noticed it got colder the farther away I walked. That was a very unfortunate lesson. The ice herbs are pretty though.”
+
+Instead of hovering around Aster and Gan Le like he was trying to chaperone, Matt got back to working on his mana situation.
+
+He’d had a few ideas but now that they had a couple days to work on things he wanted to do some real world testing.
+
+He was almost immediately pulled out of his initial practical tests by Rah who asked to talk to him alone.
+
+Or not so immediately.
+
+Looking around and seeing most of the crews sitting around a fire eating a light dinner and chatting, Matt was confused, but separated himself from the small circle of those working on active projects.
+
+Rah had a surprisingly serious expression as he shaped them two stone chairs to sit on and surrounded it by a fairly complex isolation formation with a wave of his hand.
+
+He then further confused Matt by asking, “Do you consider me a friend, Matt?”
+
+Not sure if he had offended Rah somehow Matt fully focused on the conversation wanting to give his full attention as he replied. “Of course. I—”
+
+Before he could finish Rah smiled and held up a hand. “Good, then please let me ramble for a moment.”
+
+Seeing Matt wasn’t going to interrupt Rah continued with a smile. “I say this with the best of intentions and I mean no offence, but I’m worried about you. All of you in fact, but you in particular.”
+
+Matt hadn’t known what to expect, but it wasn’t what he got.
+
+His initial reaction was to assure Rah that he was fine but he held his tongue.
+
+Rah smiled seeing Matt’s struggle as he continued. “I also consider the six of you friends, so let me say thank you. I was afraid of how things might go when I ascended to this Realm almost by accident, but I believe things have worked out for the best. But ultimately I am a foreigner, so maybe I’m wrong. Maybe I am simply looking at things without the proper perspective, but I don’t think I am.”
+
+Rah took a deep breath before catching Matt’s gaze. “I’m worried about the six of you. My status as an outsider gives me a different perspective. Ascenders are… something I never would have considered possible. Even with my ascension bonus, I can barely keep up and I don’t consider myself average.”
+
+Seeing Matt want to speak, Rah smiled and continued, “I’m not so easily rattled. Learning people are stronger than me is nothing new. My point is, I’ve seen a lot, I’ve experienced a lot. I’ve lived long enough that I've experienced the ups and the downs that come with immortality. I’ve even experienced what it’s like to have reached the pinnacle of a Realm, with next to nothing to oppose or challenge you anymore. Those experiences have given me some clarity. That is why I’m slightly worried for all of you.”
+
+If the tone wasn’t wrong, Matt would have considered Rah to be joking around with him. “Do you ever take breaks? When was your last true break? When was the last time you let yourself fully relax?”
+
+Matt was going to say he took a break the day before, when they had eaten dinner with the crew, but that was more a brief intermission than a break.
+
+Not that Matt really understood what Rah’s issue was.
+
+Remembering the first question of the conversation, Matt decided to forgo a more typical approach and speak plainly.
+
+“I can’t remember. It's been a while, but I’ve been busy since the war ended. Between Tiering up and keeping all of my skills at a top level, I don’t have much time. You know why I need to get to Tier 35 sooner than later. Is that what you’re worried about, Rah? That I’ll burn out?”
+
+Rah shook his head emphatically. “No. Or at least that is not my main concern. That would only be a symptom of the issue I’m raising. To sum up a very large debate I’ve had with myself recently, I believe because of your upbringing and positions, all six of you have missed some important life lessons. With your permission, I wish to spell them out because I see no reason why everything must be learned by one self. Maybe I’m wrong but my own morals demand I speak on it now that I have noticed it, or feel that I have betrayed the implicit trusts inherent to a friendship.”
+
+Matt was still thoroughly confused at what problem Rah saw, but let the man speak his mind.
+
+He was clearly acting in good faith and worried about Matt and the others. There was a good chance he wasn’t even wrong in what he wanted to say.
+
+Rah took a deep breath before saying, “Ascenders work a lot. It seemed obvious but I noticed it in the strange realm thanks to your and Zack’s reactions to the world inside, but all six of you had nearly identical reactions. All of you younger immortals dismissed it.”
+
+“I understand it was a busy time and the six of you were the main force but no one could even tempt you into a conversation about the world the strange realm had crafted. I was able to start at least a few interesting exchanges with most of the other five, but you were always working on something. Look out at the fires now. Everyone else is chatting but all six of you immediately went back to working on your own projects. You are sitting near us, but not with us.”
+
+Rah steepled his fingers in a move Matt thought was instinctive because he didn’t seem to notice. “Now, let me be clear. I’m not saying working on projects isn't good, or that you shouldn't do it, but spending some time with the group is good too. Take it from an older immortal when I say, these are the moments that you will remember most fondly when the battle scars have healed and the loot has been spent. There will always be another battle, there will always be another Natural Treasure, our friends might not be at the next camp fire, whether they didn’t come along or died along the way.”
+
+Matt had already learned that lesson with Eric but he was pretty sure mentioning his lost sponsor and friend would only prove Rah’s point, so he kept quiet. At the same time there was undeniably a level of worry that if he wasn’t strong enough he might lose another friend.
+
+He either got stronger or stopped making friends and he refused to even consider going down that route.
+
+Rah looked around before settling back on Matt. “This feels like a lesson everyone except the six of you have learned in this Realm, but I can’t figure out why no one has outright explained it. Maybe they are waiting for something, but every one of the older Ascender’s I’ve talked to more than once all seem to know, these adventures are irreplaceable and not to squander the small moments. I didn’t even consider it at first. It's easy to forget because of how fast you all advance, but you six haven’t already learned the lessons I would assume you have, given your Tier. And now that I’ve seen it I’m afraid if you guys don't learn these lessons soon you will find yourselves adrift and alone when you go looking for a life beyond advancement. I’ve seen such realizations tear people I thought indestructible down, and I don’t want to see it happen to any of you so I wanted to bring it up now that we can reasonably have some privacy.”
+
+Matt knew he freaked Rah out by smiling, but he couldn’t help it.
+
+“Thank you, Rah.”
+
+Rah seemed as baffled as Matt had been earlier at the start of the conversation but he didn’t interrupt. “I genuinely mean it. Thank you, Rah. You are a good friend. And you're probably right about everything. It probably is a little unhealthy to work as hard as I do. I’d also love to know exactly what I could be doing better. You're probably more correct than you give yourself credit for. As Ascenders, we’ve been pushing as hard as we could for as long as we could since we joined the Path. If we didn’t drive ourselves at every opportunity, we never would have made it but it's no guarantee. Look at Susanne, she worked as hard as any of us and still wasn’t able to quite make it.”
+
+Rah looked like he wanted to say something but Matt held up his own hand mimicking Rah’s earlier gesture. “Rah, do you consider me a friend?”
+
+At Rah’s agreement, Matt called the others in their core group of seven and moved to the rift Aster initially froze over.
+
+Any rift would work for this but they knew it had been frozen over for an instance cycle duration so they could skip the first step.
+
+Seeing the others arrive but not understanding, Matt pointed to the rift saying only. “Security protocol 9.22.Echo.”
+
+Silently, they walked over to the ice with Rah following along behind.
+
+The others remaining at the camp scanned them a few times but once it was clear they wanted some privacy, they were left alone.
+
+Once the seven of them were touching the ice, Aster grew it over them and they stood there frozen until the rift had enough time to cycle in case some had gotten inside before them. That would be hard given where they were, but it was part of the secure rift protocol and they needed to follow its directives for it to be effective.
+
+After another cycle Aster melted them out of the ice, allowing them to walk into the rift one at a time, finishing with herself.
+
+Once she entered the rift, she then encased the entrance distortion in ice. It would give them another layer of warning should anything try to follow them inside the rift instance as they waited.
+
+Still without speaking, Zack and Matt formed and enchanted an isolation room while everyone else guarded the entrance.
+
+Once they were sure no one could easily enter the rift, they went through a series of spells to remove any foreign influence that might be sticking onto them. Then they went through the same steps again, this time checking each other over.
+
+Rah seemed baffled but they weren't done and he followed along with the next steps without complaint.
+
+Only once they were confident no one was able to listen in on them did they enter the room and sit down holding hands. Skin to skin spiritual perception was the most secure way they could speak but necessitated their seating arrangements.
+
+Knowing he needed to do it, Matt started things off. “Rah, let me thank you for what you said earlier. Honestly there are probably a lot of merits in your words. But I’m not sure how much I can follow the letter behind your goodwill. I need to advance, to grow stronger, as fast as possible without making myself weaker. A war is most likely inevitable and I refuse to only be an asset to be protected when things inevitably leak.”
+
+Before Rah could ask any questions Matt pointed at himself not letting the slight tremor of his nerves show through. “Have you ever wondered what my Talent is, Rah?”
+
+***
+
+Rah had been expecting many reactions when he decided to speak with the Ascenders immediately upon entering the breach. Knowing Matt, Rah had expected either the largest struggle or the easiest time with him. Hoping for the latter, he prepared for the former and pulled him aside first.
+
+He’d thought things had been going well until only moments after he started their conversation, he was pulled inside a rift.
+
+Hearing that question made him reconsider everything including his earlier assumptions.
+
+Was he wrong? Had they already seen the dangers and were proceeding forward regardless?
+
+Given Matt’s initial response, he doubted that, and instead pondered what else that question might mean.
+
+Seeing they were in no rush, he considered the situation he was in. As an outsider, he liked to make sure he understood the context of such weighty questions he might not instinctively account for.
+
+Talents in this Realm were strange, given their quantified nature. They were also far more private. From the moment he entered this Realm, he was repeatedly warned not to share anything about his Talent. But if he was going to share, he should lie or keep things vague to not allow people to ferret out a weakness.
+
+A statistic he had to check the veracity of stated, almost half of immortal pairings didn’t share their full Talents. That had seemed insane to Rah but he was never one to judge what he didn’t fully understand simply because it seemed strange. Most things had a reason behind them even if they weren't always logical to an observer.
+
+Combining everything he knew about Talents, and seeing the effort they went through to protect this conversation, he assumed Matt’s Talent was far more impressive than he or possibly anyone else were speculating.
+
+Wanting to give Matt a way to back out, he finally responded. “I must admit I’m curious, but I feel no need to pry into the information. But I take the question in the spirit it was offered, and let me thank you for showing so much trust in me.” While the Empire's culture didn’t place much emphasis on verbally acknowledging displays of comradery, Rah greatly preferred to remove any ambiguity. “So yes, I am interested in your Ta—”
+
+Rah’s felt his words halt as mana started to pour out of Matt.
+
+It was so much mana that his initial worry was that something had gone wrong and one of Matt’s enchantments was venting its reserves, but the amount of mana coming out of him was perfectly steady.
+
+He knew Matt threw around a lot of mana, but hundreds of millions of mana flooded the room every moment. He also didn't move to grab any crystals from his storage ring.
+
+There was so much mana it immediately saturated the air in their small box, giving everything a light blue tinge.
+
+Rah was still recoiling from the sensory onslaught when he realized there was so much mana packed into such a tiny space, it was starting to spontaneously react with the little environmental mana that had been inside the room when it was sealed.
+
+The small specks of elemental mana normally existing in ambient neutral mana reacted to the rising levels of mana, violently trying to cascade off each other. Bursts of flame. Droplets of water splashed before vanishing, bursts of wind ruffled air and clothes before dying out in the next instant. Stoney outcroppings rose, then fell, as the mana constituting them was dismantled faster than he could react.
+
+With each passing moment more and more mana was being packed into the room and it  squeezed at Rah’s head in a way that reminded him of being sick. A room that he now realized was a mana isolating room first and foremost.
+
+If they allowed the billions of mana to enter the rift, that much additional mana would cause the rift to Tier up the moment the rift instance ended. That would cause at least one rift break, if not dozens, as the mere Tier 12 rift sought to vent a planet's worth of mana.
+
+When Rah felt mana starting to cling to his clothes he nodded for Matt to stop the demonstration.
+
+“Okay, I understand.”
+
+He didn’t, not really, and Matt seemed to understand that as the outpouring didn’t stop.
+
+With a flick of his finger, Matt sent Rah a packet of information containing his Talent.
+
+Rah’s [AI] simplified the backend math for him but he couldn’t help but stare in awe at the projections as he tried to quantity things into something he had more references for.
+
+Six hundred and seventy-one million mana every second was a prize to be secured, but following the math to the peak of the Realm…
+
+Rah thought he saw part of what Matt wanted him to understand.
+
+With mana still pouring out of him, Matt fluctuated back to Rah, “I can’t stop moving forward, Rah, because I refuse to allow myself to become nothing more than a mana generator. I refuse all cages, even the gilded ones. I will help. I want to help, but I’ll do so on my own terms. Fair terms. My terms. That's why I push so hard. I can’t stop running forward but I do want to listen so I can run farther. I’d be lying if I said I never burn out, we all do, but we take a short break before going back at it. We have to. So, if you have advice on how not to burn out, we will all listen and try."
+
+Rah was digesting the implications of his Talent but thankfully Matt stopped pouring mana into the room.
+
+With a wave of his hand the mana in the room condensed into a sphere Aster grabbed and absorbed into her Talent space.
+
+Finally able to think clearly, Rah understood why Matt hadn’t been willing to share before, not that he had minded.
+
+He was just happy they were willing to listen, but now that he knew Matt’s Talent, he considered that was why everyone seemed willing to let the six prodigies race forward.
+
+He felt things weren’t that simple but gave up trying to understand the higher Tiers’ thoughts.
+
+What he had learned spoke well for the Emperor, and Rah’s opinion of the man went up several notches. Even in Rah’s Realm where mana wasn’t scarce, anyone would have caged Matt up the moment they knew his Talent.
+
+Still, that amount of mana.
+
+“So, is this where all of your mana comes from? I always thought the Concept cover story explained it all.” Rah tried to inject some levity to his spiritual perception fluctuations.
+
+It seemed to break the atmosphere and everyone started adding their ‘voices’ to the conversation.
+
+Rah had questions, many of them, and even asked a few using the opportunity to grow closer with these new friends.
+
+Eventually, at Matt’s prompting which Rah appreciated as it showed he had taken Rah’s earlier conversation seriously, he explained what he thought the six needed to do.
+
+“It boils down to living in the moment. As immortals, we can go into isolation forever but that's as foolish as never doing so. Moderation is key. Some people will operate under a normal mortal’s day-night schedule. For the people it works for, it works, but even I find that unrealistic most of the time. Most immortals I know in both Realms, instead let themselves work as much as they want. But when they aren’t actively working, they are fully engaged in the moment, knowing they might not do even something mundane for decades.”
+
+Not wanting to insult anyone, he picked his example carefully. “Have you ever noticed how when any of the older immortals interact with people, they give them their full attention?”
+
+Aster flicked her ears as she replied, “It's polite?”
+
+Rah laughed. “Maybe. But I think that was a bad example. Look at how they act when they are outside a rift and outside of a seclusion. Did you ever wonder why half of Lila’s tales are of the moments with her friends and crew doing something stupid instead of being all about fights? They treat every second like it’s precious because to them, it’s not a single event out of an endless life, it's a singular event they might never get to experience again. Unless I’m entirely off the mark, it's for the same reason I do it. It's to keep myself attached to others and myself aware of who I am as time progresses. It’s about having an ‘eternal life’ that’s worth living.”
+
+Thankfully the response was inquisitive.
+
+Liz sent over a thoughtful sounding series of fluctuations. “My parents actually have talked about this before but they’ve never come out and said the why part out loud."
+
+Zack responded with a feeling of agreement. “It would make sense. We inadvertently do a lot of things already, don't we Rah? We are unconsciously copying their coping mechanisms but not understanding the underlying principle.”
+
+Aster flicked her tail pretending to pout. “I still think it's just called being polite!”
+
+Allie immediately protested. “I’m going to yell at people who said slacking off isn't training! Rah why didn’t you Ascend when I was still on the Path to give me such words of wisdom?"
+
+She was joking so Rah played along and apologized. But through the interaction, he thought he understood why they had been able to go for so long without seriously burning out. Pushing hard for a few hundred years sounded dangerous until he considered those years had been a large portion of their lives.
+
+However doing so while having a peer, or peers in their cases, both being Ascender teams, seemed to spark a kind of friendly rivalry between the groups and Susanne. Everyone seemed determined to outshine the other while not letting anyone fall behind.
+
+Powered by Matt’s mana.
+
+It was a powerful combination but that only meant a bigger crash if they weren't careful.
+
+Sighing Rah gave up his attempts at meddling and kept their earnestness in his heart.
+
+Only time would tell if his words helped, but he was hopeful seeing them actively strategizing how to be more involved instead of writing his concerns off.

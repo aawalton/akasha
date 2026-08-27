@@ -1,0 +1,101 @@
+---
+id: 6b19fe64-adb8-5d47-935d-0e32b10ff624
+page-type-slug: story-chapter-royal-road
+title: "Chapter 535: Just better"
+slug: 0101-chapter-535-just-better
+partOf: rise-of-the-living-forge
+position: 101
+ownLength: 1602
+unit: words
+ownProgress: 1602
+publishedAt: 2025-12-30
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2892869/chapter-535-just-better"
+royalRoadId: "2892869"
+markedReadAt: "2026-06-29T20:01:39.881Z"
+---
+
+After everyone realized that Koyu well and truly had gone straight through Eleven’s portal, Art and Arwin’s teams filled everyone in on the details of what had gone down on their respective jobs.
+
+Aside from Rodrick’s surprise appearance and the potential of splits in the Dwarven Council, everything had pretty much gone exactly to plan. There wasn’t much that could be done about the armored dwarves that had dealt with the Blacktongues.
+
+Ironically enough, their presence might have actually been useful. Haley’s own words had made it clear that the representatives of the Council would be wearing armor like hers. Since the ones that had killed the Blacktongues’ mercenaries had been in different equipment, the Menagerie technically hadn’t tricked the entire Dwarven Council into doing their dirty work. They’d only tricked one of the councilmember’s soldiers.
+
+Rodrick resolved to have his network look into it. Something told them that there would be nearly no trace of the dwarves, but it didn’t hurt to see what they could dig up just in case. There was little else that could be done at the moment.
+
+And, with that, everyone retired to their own tasks and rest for the remainder of the day. It had been a long one. With two weeks left to prepare for the Auction, the most important thing for just about all of them was recovering and making sure they were in shape for what laid ahead.
+
+The rest of the day passed easily. Arwin, for once, stayed out of the Infernal Armory. He just spent the rest of the time relaxing in the inn with the rest of the Menagerie until Lillia finished up in the kitchen for the day.
+
+Just about everybody went to bed early that night. For once, they didn’t have anything burning on their plates — and every single one of them took advantage of it.
+
+But, as it always did, the sun rose early the following morning. And with the new day came work. That, of course, came after an entirely avoidable few hour delay between waking up and actually getting out of bed. It wasn’t often that they had much time to themselves. When they did, they would have been stupid not to take it.
+
+The day only truly started once they actually made their way out of Lillia’s room. When they did, Arwin headed straight for the Infernal Armory. He felt more refreshed than he had in quite some time.
+
+Ideas bubbled in his head like suspicious liquid in Esmerelda’s cauldron. There were a dozen things he wanted to get started on. The Auction House needed to be upgraded with the Dungeon Heart. Vix needed a heart herself, and he still owed Koyu a body. That wasn’t even to mention all the armor he had to make for the Menagerie.
+
+Koyu’s body could wait a bit longer. After all, he was getting Sunsetted. Who knew what changes that would result in. Dealing with the Auction House and Vix’s heart were the most pressing matters at the moment.
+
+I should do Vix later. She’s not in immediate danger and the more practice I have working with complex projects, the less likely I make a mistake. Her heart is the one project I literally have zero room to mess up in.
+
+Arwin nodded to himself. Vix’s heart would be a long-running project. Some preparations could be started for it soon, but waiting until they got some good materials from the auction and taking his time with every step to ensure everything was literally perfect was the only option he could accept.
+
+That meant the Dungeon Heart adaptations for the Auction House would be the next task at hand. Ironically enough, that was the easiest of the tasks on Arwin’s plate. There had been a time when awakening a building with the Heart had been the most difficult project he’d ever worked on.
+
+Now, he was pretty sure that even making armor for the other members of the Menagerie would be more difficult. Between himself and the Infernal Armory, the task would be nearly trivial. But that didn’t make it any less important.
+
+Arwin got started at once. The initial preparations took little time. They already had all the materials he needed to begin making the components — and that was where the first small difference would arise.
+
+Unlike the Devil’s Den and the Infernal Armory, the Auction House was an unconnected building. The Den had been Lillia’s well before it had awakened, and Arwin had formed a deep connection to every brick within the Armory.
+
+But the Auction House was new. Madiv had never been an auctioneer. For that matter, he was a terrible salesman. That might have been something worth thinking about a little more before giving him control of the Auction House… but Arwin was sure the vampire would figure something out if it meant not disappointing Lillia.
+
+Still, he’s got no connection to the building. I’ll probably need to get some hair to make sure they’re bound together properly.
+
+That was a surprisingly simple matter. While Madiv himself was off somewhere — possibly hiding from Arwin — Esmerelda was easy enough to find. And for some reason, she was in possession of some of Madiv’s hair.
+
+Esmerelda didn’t offer up an explanation as to why. Arwin didn’t ask. A part of him did wonder why half the women in the Menagerie had people’s hair. The other part didn’t want the answer.
+
+He was in and out of her suspicious shack of a store within minutes. Arwin wasted no time at all in returning to the Infernal Armory and getting to work. The materials he needed were all already there. Aside from the Dungeon Heart itself, everything else was quite basic.
+
+There wasn’t even any need to find Wallace. Arwin and the Infernal Armory were more than enough. That said, there were still a few improvements that Arwin could make over the previous times he’d awakened a building.
+
+He spent several minutes feeling the desires of the gathered materials to pick out the best ones. Once he’d selected all the components and set both the Heart and Madiv’s dubiously acquired hair to the side, black tendrils coiled out from the walls of the armory.
+
+Arwin cracked his neck. Then he summoned Caldera to his hands. A flicker of approving emotion and excitement rolled through his mind from the hammer. He let out a slow breath and narrowed his eyes.
+
+Just because this is a simple project doesn’t mean I can take it easy or half-ass it. We’ve only got one Dungeon Heart. I’m not going to waste it… and there’s no point doing a project if I don’t try my absolute hardest on it.
+
+Arwin reached down into his soul. An ocean of molten black magma waited for him within it. He drew on the magic, letting it well up within him. The air around Arwin warped with heat. Black lava bubbled through the furrows running throughout the floor of the Infernal Armory.
+
+The Infernal Armory’s tendrils slammed into place. They drove into Arwin’s back and connected to Caldera, linking them with the smithy. Power welled within Arwin as the heat in the air around him continued to rise past sweltering.
+
+Even a volcano might have been given a strong run for its money if it had been put up against him. The corners of Arwin’s mouth twitched into a smile. He scooped a thick handful of Soul Magma up.
+
+It was too bad Wallace wasn’t here right now. There was no need for him to chew the lava anymore, but the look on the grumpy dwarf’s face was usually more than enough for him to keep the tradition up.
+
+I suppose we’re doing things the direct way this time, huh? You ready?
+
+“I am always prepared,” the Armory replied. “My purpose is to create. Adding another building to our street is wise. We must continue to expand.”
+
+“You’ve been talking with Madiv too much,” Arwin said with a chuckle. “I’m surprised you’re not more concerned about someone competing with you for attention from the Devil’s Den.”
+
+“Stealing?” the Armory asked, an affronted note entering its voice. “Are you so blind as to not realize what I am? Do you truly think another building could ever possibly hold a candle to the flame that burns within me? I am the Infernal Armory.”
+
+“Confidence is good,” Arwin said. “Honestly, I’m proud. I fully expected you to—”
+
+“Just don’t make the Auction House a body,” the armory said.
+
+Arwin sighed. “There it is. I’m not going to promise that. If the building becomes conscious, then I’m going to treat it the same way I treat all of them.”
+
+“I am your favorite,” the Infernal Armory said. “I should get special privileges. I am your favorite, right?”
+
+Arwin snorted. “Yes. You are, despite your continued attempts to be vaguely suspicious at best or evil at worst.”
+
+“I am not evil. I am just better,” the Armory said. “Now are we going to make this building or not? Because you could always feed me that Dungeon Heart. I wouldn’t say no. It would be a good investment.”
+
+“I’m not doing that and you know it,” Arwin said with a laugh. “Maybe with the next one we get.”
+
+The Infernal Armory harrumphed. Red mist coiled past Arwin as a faint wind brushed past him. “Miser.”
+
+“You’re just greedy.” Arwin grabbed a piece of Brightsteel and plunged it into the molten depths of the bubbling black lava to purge of its impurities. “Alright. Enough messing around. Let’s do this.”

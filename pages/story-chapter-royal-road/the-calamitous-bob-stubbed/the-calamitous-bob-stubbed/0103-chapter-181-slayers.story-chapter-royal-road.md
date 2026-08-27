@@ -1,0 +1,711 @@
+---
+id: d62d6203-1c58-58c0-93fe-695d6bd7b4ab
+page-type-slug: story-chapter-royal-road
+title: "Chapter 181: Slayers"
+slug: 0103-chapter-181-slayers
+partOf: the-calamitous-bob-stubbed
+position: 103
+ownLength: 7272
+unit: words
+ownProgress: 7272
+publishedAt: 2024-10-25
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1868143/chapter-181-slayers"
+royalRoadId: "1868143"
+markedReadAt: "2026-06-29T21:18:18.752Z"
+---
+
+The village had stood for centuries, mostly unchanged but for the ebb and flow of the sea, the people, and as always, the monsters. It was a peaceful place far from the reach of Frostway, and so long as the tithe kept coming, they were mostly left alone. It suited them fine.
+
+Then the dragon came.
+
+He took the fattest cornudons and two villagers before permanent sentries were picked by the Elders. By then, they had learned to fear the skies. Some said that the price of isolation was clear: no one would come to save them. Others said that many things came from Frostway. Salvation was never one of them.
+
+It was a big surprise to see the foreigners come. They had skins of different colors, hair braided or cut in strange ways, and their wealthy clothes reflected several styles they had never seen before. The healer said that mana burnt around them like a pyre and they said that if any group of humans could possibly defeat the dragon, it would be them.
+
+The foreigners said they were from the New Empire, an ember rising from the ashes of what was thought to be forever lost. Many worried that those were liars, or invaders, but none dared speak for the New Imperials were rich and mighty.
+
+When dawn came, however, only one of them started the climb. The others stood and waited, and so the villagers did the same, and they prayed.
+
+***
+
+He was angry.
+
+Anger was a familiar emotion, but also an ephemeral one. Anger was for those who opposed him, and they didn’t live long. Anger, long anger, was new. New and very unpleasant.
+
+As was the anomaly.
+
+Existence followed rules. The beasts fought each other at the bottom. This was known. The bipeds ruled over some beasts, gathered in places of stone and dead wood. This had been a shock, but not a great one. It did not challenge existence. The bipeds could wield some of the colors, though not all and never many at the same time. It marked them as more resourceful, but still not like him. None of them saw fate, for example.
+
+No matter what new thing came into Existence, it belonged in a spot beneath him.
+
+This was the truth of existence.
+
+Or it had been, until that morning.
+
+He moved and his healing wing sent a painful sting of protest. Anger surged again. He hissed at a rock, a bone, but they were not the cause of anger.
+
+Confusion was another new thing. Like long anger, confusion was unpleasant. He wanted to banish it but could not. It was also part of him. Still, he refused to handle it. He was dragon. Confusion and long anger were for weaklings who could not burn their issues.
+
+Pain returned. He huffed fire, causing shadows to dance on the cavern floor. The air smelled bad from the meat spoiling in the distance. He considered changing lairs.
+
+Another flash of anger came with the thought that he ought to just clean after himself. That was a weak thought.
+
+Anger and confusion hounded him until he could stand it no longer. He peeled off the layer of emotional pain among those memories. Perhaps the confusion could be reduced?
+
+The anomaly.
+
+It felt like a dragon, yet was not. It felt caring, yet he had never been cared for. It was biped shaped yet strong.
+
+Only the weak could touch only one color. This was understood as the truth of Existence. The anomaly could touch only one color but it was strong. It could move the world with a mana that had no color. It could not perceive fate, yet fate covered it like a cocoon.
+
+The dragon coughed, an unfamiliar feeling. Painful. A little bit of fire stayed in his lungs, and that made him more angry.
+
+The anomaly could use mana better than him.
+
+He roared. The anomaly could not do this! It could touch one color only, and he was still better at every other one! Yet why could it stand against him, as a biped?
+
+This made no sense.
+
+He was above and the bipeds stayed below. It was understood as truth. Was the anomaly a false biped then? Was it something else? If then, was it his equal, or was it a fluke? Both possibilities made him angrier and more confused.
+
+He coughed again. There was an unpleasant taste on his tongue, so he took another bite of fat beast. That one was growing a little sour but it was fine. The dragon was not picky. The lump of meat made him feel better but the clawing pain in his lungs made him cough again.
+
+And again.
+
+It made him angrier. He spat fire, then breathed the red mana, cleansing his lungs, and that made him feel a little better.
+
+How can something be small yet strong? How could something touch less yet move more? Should he… try the same? But he was dragon, the top of the world.
+
+The cough was deep this time, and so strong it moved his wounded wing. He shook with anger. The air was wrong, somehow. He needed the rarefied taste of the clouds. With heavy steps and a head full of unwelcome thoughts, the dragon walked out of the cavern.
+
+And stopped.
+
+There was… something hidden there. In a black nest that faced inward. Hidden from his senses. A small fire pushed the smoke of herbs towards him, and this time the cough was terrible.
+
+No.
+
+No, it could not be.
+
+This was his HAVEN. His NEST. It could not be here!
+
+The nest opened, revealing familiar eyes of the abyss. Reddish hair. An armor made of metal and cloth, the mark of the weak who did not have scales.
+
+Impossible.
+
+“Took you long enough,” the anomaly said.
+
+The dragon blasted the shape with fire. No no no no the words formed in his mind from sounds and it was wrong, wrong to mix perfect dragon speech with those… those mouth emanations. Had to get out.
+
+The anomaly fired nothingness and it swallowed his flame greedily. He wanted to punt the little thing aside. Its instincts said he should be able to, but he had tried and failed last time. Failed! He coughed again.
+
+A new emotion gripped him.
+
+It was panic.
+
+He charged forward and the anomaly didn’t block him, but pain raked his flank when he walked by. One of his wings was not moving right yet. Still healing. He took to the skies, but so did the anomaly. Colorless mana propelled her forward.
+
+He did a sharp turn, she could not follow. He was still better here! When he looked back, he saw that she had stopped. In the skies. Fate bound her to the planet in a tight embrace through the false wings anchored on her back. A flurry of seeking spells followed him. He was forced — forced! — to push them away with his own mana. The effort left him panting, lungs burning constantly. A new concept wormed its way into his head. He had been poisoned. Poisoned! But yes, it was a trick. A ruse used by the inferior. That meant he was still stronger. And bigger. It was understood. The ranking of Creation was set in stone. He turned around and fought, using his superior maneuvering to create some distance, then diving in but she started following and then casting while he was turning and losing speed. She was wearing tools, the treated skin of another beast meshed with metal torn from the earth and inscribed with those words the bipeds needed to make sense of the world. Weakness! He sneered, then saw the mountain and his cavern down below.
+
+He was… he was running away?
+
+He was being pushed back!
+
+This was UNTHINKABLE!
+
+He roared his anger once more, screaming at the anomaly. He struggled to express his feelings, which were mostly anger.
+
+He needed the biped to understand that he was superior in every way.
+
+For the first time in his life, he formed his thoughts into a coherent message. The meaning erupted from his soul all around, loud, so the anomaly could understand.
+
+“Oh I know. You’re just not a very good one.”
+
+He screeched in rage.
+
+Needed to kill her. Needed to cut through that magical skin. Needed… something sharper. He gathered gray mana, but it would not be enough. Needed something to toss.
+
+A rock.
+
+A rock would do. Flying towards her, he gathered the power between his claws. A painful cough almost made him break his focus but he was dragon, and he would endure! The rock formed, then gray mana propelled it forward at great speed.
+
+The anomaly blinked aside, a black mana trick.
+
+“Oh? Learning are we?”
+
+Arrogant! He was already mature… or was he?
+
+Was the rock… a tool?
+
+Was mana a tool?
+
+Was he resorting to ruse? Against a biped?
+
+His doubts returned with a vengeance, and with it, confusion followed. His control over gray mana slipped long enough for a black beam to hit his scales, darkening them and spreading a pain he failed to oust. Dark mana invaded his conduits. Foreign dark mana.
+
+He dove towards the sea, trailing mana and droplets of blood. Another cough wracked his form.
+
+***
+
+Frosthawk couldn’t believe his eyes. The cloudy sky above the fishermen village was the scene of a duel between flying monsters, a shock of spells that tore vivid lines across the heavens, visible clearly from down here. So far. Cold spread with the use of concentrated black mana. The booms of distant explosions shook the leaves on nearby trees.
+
+That girl wasn’t facing a dragon. She was… beating it? Arguably, it wasn’t a huge dragon but… between this and the other one hiding behind a hill. The scene was simply surreal. Unbelievable.
+
+Someone slapped his shoulder. He recognized Sidjin, apparently her paramour. The genius archmage gave him a smug smile.
+
+“First time?”
+
+***
+
+He plunged into the water, and the anomaly didn’t follow. The blue was thicker than the gray, and here he would have an advantage. A ruse. A ruse! He had to resort to a ruse!
+
+Why?
+
+How?
+
+Suddenly, the blue parted around him. He looked up to see the sky. Liquid walls tore away from him, but he was too slow to react. A volley of spells erupted on his back, wounding him more and forcing yet another cough. He was choking. Too much effort, not enough air. Never enough air. He pushed more inside but it helped little. Too little. Life mana struggled to close his wounds. It was as if he was fighting the gashes themselves.
+
+“Are you a fish?”
+
+I AM DRAGON!
+
+He surged. He could not run away. He could not fight from afar. He HAD to win in close quarters, and nevermind that his memory told him he had tried before. The anomaly was a biped, thus she was weak. She was weak, therefore he had to win. He had to win, but failed to kill her at range, thus he had to close in. There could be no alternatives.
+
+[Aspect of the Guardian]
+
+Claw smashing on a shield, barely denting it. Attempt to spit fire. Cough. Fail.
+
+“Shatterstar.”
+
+The shield exploded. Hexagons of nothingness bit into his flesh, opening more wounds that would not heal, took more life mana, and bled more. The anomaly’s presence grew more intense as well. The longer the fight lasted and the deeper its, no, her core burnt, and the more he could taste the froth of his lungs. She was killing him. He fought and threw everything he had. She blinked away, then her anchors planted themselves once again.
+
+[Aspect of the Destroyer]
+
+Power. Black and monochrome. More than he could bring out himself. Fate tied them together now until all he could see was the viridescent ring in her abyssal eyes. He could still not understand, but he was now believing. Believing he might not be the strongest. The realization cracked his mind, his focus.
+
+She exposed her tiny fangs. She was, he realized, having fun.
+
+“Not everyday I can just let go, you know? Fully let go.”
+
+You are not mother.
+
+“Not to you, no, to your sister.”
+
+He tasted the truth in her words as gray mana kept him airborne and her own power focused to a sharp edge.
+
+“Listen well, because I will only get to say this once,” she said.
+
+Her grin was, for a split second, infinitely cruel.
+
+She should not be having so much fun.
+
+“I ate your brother. He was delicious.”
+
+That was it.
+
+That. Was. It. He broke and ran for it, but blades of hungry void bit into his wings, the gray no longer enough to support his lungs and his flight. He plummeted, seeing the grass below, and in the distance, a white form. Familiar, somehow.
+
+The dragon crashed down, tried to lift his head, then gave up.
+
+***
+
+The villagers watched the dragon take to the sky, and the witch followed. The human battled the mythical monster high above them, one on one, over a background of gray clouds pressed by the winds. They moved too fast for peaceful villagers to follow, but they could see the flames, the air, the stones, light and darkness, great cuts and clouds and expanding spheres. Sounds of fury, destruction and on occasion, a free laugh silenced everything below. Even the raucous birds kept quiet while on the sea, the fishermen lowered their sails.
+
+After a long battle, the dragon fell. They saw it fall. They turned to each other with disbelief. The dragon had fallen.
+
+The witch had won.
+
+The wind picked up, raising the standard on the foreigners’ tent. It was a white pyramid on a black field, with dragon wings on the side.
+
+It was curiously fitting.
+
+The villagers moved closer, drawn in by inexorability.
+
+***
+
+You have acquired a new title: Dragonslayer (merciful). This replaces monster slayer.
+
+A chiding mother, you have chosen the path of mercy. You have seen the child in the monster and stayed your hand. Perhaps your efforts will lead to a better future, or perhaps not. What matters is that you defeated a dragon in single combat and lived to tell the tale. Effect of social skills are enhanced. Effect of intimidation is strongly enhanced.
+
+Unauthorized tale usage: if you spot this story on Amazon, report the violation.
+
+Acuity: +1 to 46
+
+Willpower: +1 to 46
+
+Champion's leadership: Expert 1 to 4
+
+As it turns out, warriors are far more willing to follow someone who single-handedly defeated a dragon.
+
+Draconic intimidation: Expert 10 (maxed)
+
+You need to path up and improve your leadership in order to access the master rank.
+
+Mana Mastery: Expert 1
+
+Viv needed to pick a specialization, but she’d do it later. There was much to do right now.
+
+I will take it from here.
+
+She considered Arthur, now standing over the bloodied shape of her brother. It was… very weird seeing a dragon wounded like that. A part of her saw Arthur in his stead, which filled her with dread, but the major emotion was satisfaction.
+
+Arthur’s brother was an asshole. A violent asshole. And a moron. She was glad to have taught him a lesson, and there was hope for him yet, but redeeming him wouldn’t bring back all the people he’d killed. Now, the country would heal, and perhaps Arthur would make things better. She’d done what she could. Ultimately, educating an adult feral dragon was outside of her expertise.
+
+She’d have to trust her daughter.
+
+“Are you sure? What happened to me felling him alone?”
+
+You did.
+
+Now I teach him.
+
+Another kind of fear took hold over Viv’s heart.
+
+“What if he—”
+
+I am not stupid.
+
+I will never let my guard down around him.
+
+He is cunning.
+
+A mix of shame and disbelief shook Arthur’s large frame. Her brother let out a piteous cough, eyes clouded by pain.
+
+He is also embarrassingly dumb.
+
+I will not underestimate how stupidly he can act.
+
+Her brother lifted his head and roared, or tried to. Without looking, Arthur moved her hips. Her tail whacked her brother’s head with the deafening crack of a whip’s end. A few of the smaller scales flew alongside a few droplets of blood.
+
+Her brother whined.
+
+“Wow.”
+
+He must understand defeat.
+
+“Ok, well, you’re the better dragon here.”
+
+I will feed him to help him heal.
+
+Her brother sniffed the air. An enticing scent covered that of blood. Seared fresh fish. And something else.
+
+Give.
+
+Arthur’s claws clamped on her brother’s neck in response to the imperious demand. He whined again.
+
+Sweet fish sauce is for dragons who behave.
+
+Her brother considered his situation for the first time, apparently, in his life.
+
+Give, please?
+
+Viv decided that her daughter had the situation well in hand. In paw. Well, whatever. She turned to the assembly of mages now standing at a distance, whispering among themselves. Frosthawk was still processing the presence of Arthur and the dragon’s defeat. Viv approached him first.
+
+“So, convinced?” she casually asked.
+
+There was no response. Frosthawk just shook his head slowly, unable to process the recent events.
+
+Well, she’d gotten worse responses. Viv was about to walk to the village and confirm the good news, but the nearby portal flashed again, and a person she’d never expected walked through. A plain northerner in lowly scribe robes, Lim the Fell-handed was one of the most unassuming persons Viv had ever met, but that meek appearance was a constant deception that hid one of the most twisted, unrepentantly evil minds Viv had ever encountered. Lim could not be redeemed. She could only be directed.
+
+“What are you doing here?” Viv coldly asked in the northern tongue.
+
+“Your golem sent for me. He said that you requested him to wait until your victory was secured, but you didn’t say he couldn’t send help,” the sinister woman replied with a ghastly smile. “Helock was getting a little tense. I’m happy to come here to lend my expertise.”
+
+Viv considered sending the woman towards the Pure League, but if she was hired by Solfis, then she’d probably refuse. And besides… there was one aspect of her plan that demanded underhanded tactics. They were the kind the temple would sternly disapprove of.
+
+“There is something you could help with.”
+
+Viv explained her plan. Lim’s smile only grew wider.
+
+“Aye, that will work nicely. Turn their strength against them. I’ll ask for some help from your boys since we’ll need to spread out. Alright. I’ll be off then. Carrying out your will… Hehehe.”
+
+Viv watched her leave. She hoped the liberation of the Jewel would balance her karma a bit.
+
+***
+
+“Messenger birds report that a caravan came from the east. It carried metal tools, grandmother. Hoes and spades and saws. Hammers and nails. Axes. Chisels. All of them well made,” Marus said in a subdued tone.
+
+“Then she has the backing of a powerful nation. Hmm.”
+
+It did not come as a surprise considering the quality of the girl’s gear. Arana considered her options, but there really only was one.
+
+“Have the Eye contact the soldiers. Find every infected village. Track down and destroy the caravan. Hang the servants. Confiscate the tools. Have the leaders of every family who accepted a gift from a foreigner executed for treason. If the entire village succumbed to temptation, have them cleanse it.”
+
+“Understood.”
+
+“There was something else,” Arana said, sensing further trouble ahead.
+
+“The witch and her people. They defeated the dragon.”
+
+Silence filled the room. It was raining outside, but the palace was a fortress. Thick walls blocked the pitter-patter but not the wet cold that came with it.
+
+“Recall my best Eyes. We will need assassins, for they are the only ones that can slay a mage of that power. I will have a ship ready just in case…”
+
+“Grandmother?”
+
+“It should not come to that, however we may now deduce that she garnered the favor of both Guardian Cerus and Archmage Frosthawk. I shall let the border guards know they should… take a step back from Cerus’ village. Have Frosthawk’s children brought in from the Jewel. I believe their presence has suddenly become very valuable.”
+
+“Very well.”
+
+“Marus,” Arana said to her grandson’s worried back.
+
+“What?”
+
+“We still hold the cards because the tools of control are still in our hands. Our ancestors withstood centuries of aggression, and she’s just one woman. Remember that.”
+
+“Yes.”
+
+***
+
+“Why is it I gotta dig when we got those fancy mages moving mud around with a wave of their stupid hands?” Nag asked.
+
+By her side, Feather planted her spade in the wet soil and sighed. She turned her dark, rich folk eyes to Nag who knew she was gonna get another earful.
+
+“Do you see any fancy mages around?”
+
+“Nay.”
+
+“Then dig!”
+
+Nag shrugged. Felt stupid anyway. This village was a half-burnt wart on the ass of the southern plain. Who’d give a shit? There was naught to steal but unripe wheat and ugly women. Even Nag, of famous thirst, didn’t want to drag back one of those sad-eyed dogfaces to her tent.
+
+Skittish things. Even dumber and meeker than Nag’s home folks. She turned to Feather, who’d resumed digging.
+
+“Is there like, a bumpkin scale, ya reckon?”
+
+“For the love of Neriad, Nag, I’ll shove that spade up your arse!”
+
+“Oooh the bourgeois using bad, bad words. What will your mother—”
+
+Nag expertly dodged a tossed lump of mud.
+
+“Mom’s dead and you’ll join her,” Feather warned.
+
+The older woman brushed a wet strand of hair behind her ear, feather charms clinking together. Nag knew she’d pushed a little too far so she patted the other lady’s back.
+
+“Hey hey now. I’ll dig, promise. You wanna take a break? Tell that good-for-nothing Salt to replace you.”
+
+“I can do it,” Feather grumbled. “I am not weak. I can dig like everyone else.”
+
+“You’re new, aye? Take it easy. There'll be plenty of holes ta dig yet. Oi! Salt! You old fuck!”
+
+Beyond the trench, the man was ignoring them, his back turned. He had his crossbow in his hands.
+
+That wasn’t right.
+
+“Salt?”
+
+“Got something. There. Look”
+
+He pointed away, towards the west. The road snaked away from their unnamed village where the empress herself — the gods bless her arse — had supposedly whipped a small dragon. Crossing fields, then patches of forest, it led to another village leagues down there, closer to the sea. A tool caravan had left for that place over a day ago.
+
+“What? We can’t see it from here,” Feather complained.
+
+“Nay, lady. Look up,” Nag said, pointing at the blue sky.
+
+A trail of black smoke emerged from the edge of the woods. It was a bit diffuse, but it was gaining in intensity with every minute.
+
+They stopped digging. Nag breathed the cold spring air. Tasted fresh here, nice, but there was something in there that woke up her old instincts. The lash scars on her back started to burn a bit.
+
+“Trouble,” she said.
+
+Salt nodded. The old head checked his quiver, then he turned around.
+
+“Nag, mind going to tell the chief? I’ll go take a closer look. Be back in fifteen.”
+
+“You’re going to the boulder?”
+
+“Aye.”
+
+“Aight. Be careful. You, girlie, come with me.”
+
+Feather followed without complaints this time. Nag didn’t outrank her and the fallen bourgeois didn’t like taking orders from a yokel, but she could sense it was getting serious. Good instinct on that skittish mare. They’d make a Bitter Heart out of her yet.
+
+Nag walked at a brisk pace, all official like. You didn’t run in front of the civilians unless you wanted them to run as well, or panic. Then everything was a mess and it would be Nag’s fault again.
+
+A sad woman knitting a shawl watched her walk by, frowning with mild disapproval. One of those. Nag gave her her best smile.
+
+“Hey there.”
+
+The seamstress blushed and averted her eyes.
+
+“I bet you cry when you climax,” Nag said as a parting barb.
+
+The seamstress took her shawl and rushed home. Feather half-chuckled, half-groaned behind her. Nag had her fill of banter for the next thirty seconds so she hurried, and the Elder’s house was soon in view. Well, new house. Old one was still burnt to a husk with the elder’s grandson in it. Damn dragon.
+
+She barged in.
+
+Elder Esso stood at a nearby table,counting things and whatnot on a piece of New Harrakan paper. Auntie frowned when she saw Nag, which Nag had to say was the normal Nag reaction.
+
+“Nag…”
+
+“Smoke on the horizon, west side.”
+
+Elder Esso paled. He prayed to Maranor under his breath while Auntie strutted towards Mag, her gray braids bouncing with every step. Nag soon found herself looking into the chief’s suspicious eyes. The scars remained pale but the boss’ face was turning red.
+
+“And?”
+
+“Definitely coming from the next village. Salt went to the boulder to scout. We ran here to tell ya.”
+
+West meant the old empire, and from what Nag could tell from the little Harrakan she spoke, those weren't too nice.
+
+Elder Esso said something in a melodious tone. That was why Nag would never want to be a chief. Had to learn foreign languages of the people you were trying to kill. Bother.
+
+The chief replied. It was a bit brisk but Nag got the gist of it. ‘The village is burning, of course we’re getting ready to leave just in case’. Elder Esso stood up, all dignified like. Nag could tell he was scared as a Harrien though, but kudos to him for not turning tail.
+
+“Feather, go east and tell squad two to grab everyone. We’ll meet at the west gate. Nag, you go find Salt and back him up. I’ll be here trying to get those fuckers to move.”
+
+Nag was out of the door legging it before the chief started to scream. Force of habit. She jogged past the gate just as the alarm was ringing and the surviving villagers started running around like headless birds. Some of them broke down. Poor sods. Too many kicks in a row.
+
+She fell into an easy run, her [poacher’s gait] kicking in. The fields extended right to the edge of the forest, right where the children would be foraging for berries and mushrooms. Right season, too. Nag regretfully left a nice plump harrien run away from her since she was in a rush. Her feet carried her through an overgrown path up a tiny slope with sure steps. Sure, the mages could disintegrate a mountain, but could they run fast in the woods? Fuck no. But Nag could.
+
+She stopped before she reached the boulders. Footsteps, ahead. Three adults. One limping. She clicked her tongue, and the call of a bleak sparrow returned a moment later.
+
+She swung her crossbow back over her shoulder. Salt appeared a moment later. He was helping a civvie move on, a sturdy man with a bandaged wound on his thigh she recognized from the tool caravan. A woman carrying a toddler came next. She was absolutely exhausted, so Nag moved in to help.
+
+“We… we are—”
+
+The woman said something in imperial that ended with ‘weh’, peppered with southerner. She didn’t get it.
+
+“No talk. Wait village,” Nag replied.
+
+They moved fast, or as fast as they could. Nag ended up carrying the crying toddler in her own scarred mitts wondering how it came down to this after doing everything in her power to dodge the little shits. The woman almost broke down when they arrived at the gates of the village, and a relative of hers rushed ahead to help.
+
+Nag was happy to see the toddler go. She’d not even dropped him once! But she knew she wouldn’t like what came next.
+
+“Report,” Auntie said.
+
+Lots of villagers had already gathered, and the crying lady got busy hiccuping through her tale in their weird tongue. Nag saw the chief had people bring crates of supplies so she grabbed spare quivers and latched them on her belt. Got a feeling she would need those.
+
+“The village was burnt by regulars,” the wounded man said while a couple of villagers patched him up.
+
+“Come again?”
+
+“Not by southern tribers. By old imperial regulars. They saw the tools and they, I don’t know, they went mad. Starting killing everyone in the village. We ran. My friend helped me, pushed one away with his spade. We got separated. I hope he’s alright…”
+
+“Focus. How many? What are they doing now?”
+
+“Maybe two hundred?”
+
+The chief swallowed back a curse.
+
+That was maybe half of the current village population. Talk about overkill.
+
+The Bitter Hearts had two ‘sleeves’ here. Twenty-five warriors, total.
+
+“What do we do?” Feather asked.
+
+Around them, the two squads were gathering with a couple stragglers running across the field. Nag was one of the youngest around. Most others were older, having switched paths later in their life. Feather used to be a ‘castellan’ before her family got killed. Salt was a teacher. Blink was a prostitute.
+
+They all knew the score.
+
+“At least they don’t get mages,” Nag grumbled. Small favors.
+
+“What do we do? You know what we do!” Auntie roared. “We’re the Bitter Hearts!”
+
+“Last out,” everyone replied with varying degrees of enthusiasm.
+
+By their side, the surviving woman finished her tale. She was wailing now.
+
+“In case you fine folks don’t get it, the regulars kill everyone they get to, no exceptions. They won’t do it here. We’re not the best or the brightest but we’re here for the people and we’ve never been found wanting. Today won’t be an exception. Elder Esso will lead his people west while we fight a delaying action.”
+
+Nag nodded. The villagers would have a lot of kids with them. It would slow them down. Regulars would just catch up to them in under an hour from here.
+
+“They were regrouping when we got into the forest,” the caravan hand groaned. “I’d say, fifteen minutes before they arrive. Maybe more.”
+
+“You hear that, Esso? You folks need to leave NOW! Ergan, you go with ’em.”
+
+The caravan hand nodded. He wasn’t a fighter.
+
+Nag sighed. What was it with this outfit that they just kept getting into battles? She was sure no other fucking warband on Param got into as many scraps as they did. At least it wasn’t suicidally murderous lizard things this time. Neriad’s cock.
+
+“Right. Move to the forest, loose formation around the road. Mug, you take the right flank. I take the left. Grab as many bolts as you can carry, cause I don’t think we’ll be recovering those. MOVE.”
+
+Nag had already done it, but she pushed a hesitant Feather forward. The lady was pale and her fingers a bit shaky. This was her first real scrap. Pinning revenants wasn’t the same.
+
+“You got this, princess.”
+
+“For the last fucking time… Ugh.”
+
+“Stay with me and we’ll get through this, alright? Your old pal Nag knows how to make it out of trouble.”
+
+Feather nodded. Nag smiled. Twenty-five against two hundred?
+
+Yeah, that was gonna be a tall order.
+
+At least they had no mages and no riders. Or Nag would have been praying for a quick end by now.
+
+The Bitter Heart squads merged into the forest. Nag forgot about the rest and focused on the woods in front of her. The inexperienced crossbowmen and women moved through the woods with mixed stealth. Nag was silent as a shadow, of course, but fat Nedys to the right could have passed as a stone hog. Maybe Nag could teach her to grunt and that would solve everything.
+
+The two ‘sleeves’ fanned out. Nag was on the left flank, with Feather on one side and Salt on the other, slightly behind. They moved up until even Feather could hear the stomps of metal boots on the path ahead. Auntie signaled to stop and they did, the signal relayed across the line.
+
+And then Nag heard it, to the side. She signaled quickly.
+
+‘Two soldiers. Front. Heavy.”
+
+The others stopped and lowered themselves, cloaks merging with the woods around. A moment later, Auntie’s reply came.
+
+‘Kill’
+
+Exactly as expected. Nag lifted her crossbow and focused. [Patient shot] wound up as the footsteps approached.
+
+Two soldiers walked over the crest of the slope. Armored. Helmets off for a better view, maybe? Bored. Confident. Foolish.
+
+A feathered quarrel bloomed on the back man’s face, right below the nose. Hers. Muffled twangs replied and other quarrels caught the lead man in the throat, eyes. Nag was already sprinting. She caught the back man before he fell, pushing him over her shoulder. Fucking heavy. Salt had the other. They retreated, then pushed the bodies against a trunk.
+
+Nag now had some blood on her shoulder. Ugh. She checked the lead man, just in case.
+
+Feather’s quarrel was the throat one.
+
+She raced back to her position, gently patting Feather on the shoulder as she passed her by.
+
+“Nice shot, girlie.”
+
+Feather nodded, leaned forward, then vomited her lunch.
+
+Waste of food. Bah. Though she didn't feel like it, Nag chuckled at the stuffy woman’s expense. She had a reputation to maintain.
+
+Nag returned to her position. The column was getting closer. There should have been sentries looking at the sentries in case someone took them down — standard Witchpact operation protocol — but those regulars were awfully sloppy.
+
+Another signal. The line climbed up to the crest, and now Nag could see much farther, including the road. There were a couple of flankers making their way up but they were discussing and laughing. After burning a village, no less, Nag thought with a note of annoyance. The road was down and to her right, and the column was fast approaching.
+
+She kneeled and waited. Feather aimed, then stopped when she realized Nag kept down. Crossbows were heavy. No need to tire her arms just yet. They would be plenty tired before this was over.
+
+The column arrived in full view, led by a powerfully built warrior on a horse. Rare things, those, at least down here. It must be important.
+
+Too bad for him.
+
+Bird call. Bleak sparrow again. Nag aimed.
+
+Auntie’s bolt caught the leader in the head. Her enchanted bolt practically cut it in half, covering the vanguard in brains. Nag was one of the first to get a good clean hit on another guy, in the chest. He fell with a scream. At this range, crossbows went through mail like butter.
+
+The Bitter Hearts silently unloaded into the screaming block, but they were fast to react. A bulky man screamed orders until a shield wall formed. It was slow though, and Nag scored a few more hits between clumps of skill-backed defenses. The bleak sparrow call came again. Two shorts, one long.
+
+Time to leg it.
+
+Nag fell back at a dead sprint, Feather and Salt on her heels. They stopped at the nearest slope and took position while the rest of the sleeve fell back in turn, and not a moment too soon. The first of the enemy regulars crested the incline in groups of five. Nag’s [Patient shot] caught one in the helmet but it failed to penetrate. Probably a defensive skill, dammit.
+
+The second half of the sleeve covered the first while it raced out of the woods. Nag resisted the urge to turn tail while Mug sprinted by her. Her covering shots kept the regular at bay, but more and more small groups were appearing, moving forward carefully behind their skill-backed protection. Her next quarrel pinged against a steel shield, failing to penetrate.
+
+Bleak sparrow call again. Time to run. Again, the regulars saw the Witchpact disengage and thought it meant they could run but the rest of the sleeve got a few heads, and they returned to hunkering behind shields. Like this, the Bitter Hearts reached the village gates with no casualties.
+
+“They don’t have archers?” Feather asked with a fearful voice.
+
+“Don’t jinx it, girlie.”
+
+“For the last time, Nag, I’m older than you!”
+
+No archers came to puncture Nag’s buttcheeks, by some miracle. The regulars were advancing slowly towards the gates, again in groups of seven or eight, forming half-circles. It would allow them to move around without losing their defensive posture.
+
+Frustrating.
+
+Nag realized she was on her second quiver. Auntie and the others were still taking potshots at the foe. Nag felt something was wrong. The lash marks on her back flared, telling her of danger.
+
+“There,” she said.
+
+Large groups of regulars were rushing along the flanks of the village. They were trying to surround them.
+
+“Auntie?”
+
+“I know, Nag. Saw them too.”
+
+The rest was left unsaid.
+
+The villagers needed more time.
+
+“Sucks to be us,” Nag said.
+
+Her scars told her to run. They’d never been wrong. Not once.
+
+“What?” Feather asked.
+
+“Nothing girlie.”
+
+Salt didn’t speak. He got it too. Village wasn’t big neither. Thirty houses, half of them crispy. Yeah.
+
+No place to hide.
+
+It wasn’t too late to run.
+
+“Fall in. Squad two, move to the other gate. Stand then city combat, groups of three.”
+
+Yep.
+
+Nag switched to patient shots. Hers were dangerous and she caught two greaves and an eye by the time the fuckers were too close to get more. Feather was breathing hard and missing every shot, but at least the loud pang on their shields taught them to advance carefully. Then the closest group of seven soldiers broke out and charged.
+
+Nag was waiting for it. She turned and used [Witchpact parting], catching a fucker in the stomach. With his magical defenses down, the reg fell like a sack, slowing down the others. Her group retreated into the village at a brisk pace. Salt got a great shot on one of the sergeants too, then the rest of the reg squads charged and the Bitter Hearts legged it. Nag took the lead because she was the fastest and because her back scars burnt now, whispering what to do. She turned right in a spot between two houses, only one burnt. The next reg to appear somehow caught her bolt in the shield. Without a defensive skill, the bolt pierced right through but stopped against the fucker’s gorget. Still gave him a good scare though.
+
+The race was on.
+
+Nag guided the other two through a labyrinth of sheds and barns, her feet trampling gardens in their mad dash. She heard String die first, somewhere behind. Cornered probably. Another quickly cut scream might have been Nell. She had to stop thinking about her friends dying or she’d be next.
+
+Her scars flared again.
+
+“Up,” she said.
+
+Jumping, she managed to catch onto a beam and then drag Feather up. The two of them got Salt halfway before the regs found them. They were too heavy to follow. One of them threw his spear, but it was clear he had no skill for it and the improvised javelin missed Salt by three handspans. Nag would have laughed if she had the spare breath to do so.
+
+“Go.”
+
+One more quarrel, this one catching the spear chucker in the ribs. He’d be down for a while. Another scream in the distance marked the death of another Bitter Heart. Nag urged the other three across the roofs, of which there were exactly two before they came across the main road crossing the village from end to end.
+
+Mug and Auntie were at the edge of the road, blocking one of the side passages and battling a pair of soldiers. Mug was already bleeding. They didn’t have shields.
+
+“Ah!”
+
+Feather stumbled.
+
+A stone. The regs had thrown a fucking stone. Salt tried to grab her, but in vain. Feather fell awkwardly, on her waist. There was a crack.
+
+The regs caught up to them. Mug and Auntie’s backs were exposed. Nag’s scars flared again, more painful than usual.
+
+That was it then.
+
+Nag fell right behind Salt. Her [Witchpact parting] landed one last good hit before she had to draw her short sword. The reg facing her still had a quarrel lodged deep into his shoulder. She exchanged a few fast strikes with him, sweating, while Salt handled the other. Nag wasn’t used to this standing and fighting. She didn’t want to be here, facing that fucker who was trying to skewer her. Parry. Counter. This wasn’t her way of fighting!
+
+By some miracle, she managed to deflect the guy’s blade into the wall. Her counter landed square on his chest, only to bounce off his chestplate. She ducked under the counter but it almost landed on Salt’s cheek. They were very close. She could smell the bastards.
+
+Auntie grunted. Not good. A twang and a man’s yell told her Feather wasn’t staying down either.
+
+The wounded man got pulled back by a massive hand belonging to a warrior in decorated armor. Tall fucker, calm despite everything.
+
+“Finally,” the man simply said.
+
+She recognized him. He’d given orders to keep his men calm after Auntie sniped their officer. Nag brandished her short sword like it was going to matter. She received the first blow just right, but the blade continued and cut into Salt’s flank. He fell. His opponent moved in for the kill.
+
+The second strike smashed her against the wall. Her entire arms shook from the effort of just not dropping the blade.
+
+The third blow fell down, and Nag’s mind went white. Her sword fell.
+
+Her hand was— She stared in shock. it was missing half. Blood pumped from the gaping wound. Where were her damn fingers?
+
+It hurt.
+
+“Blame yourselves for being weak, weh” the officer said laconically.
+
+Nag looked up and the last thought crossing her mind was that she’d died without getting laid first.
+
+Then there was a horn. A ringing horn. Was it early or late? Nag couldn’t be sure. Behind her, the sounds of battle stopped as men swore and fell back. The officer frowned. His partner took a step back from Salt’s prone form.
+
+Something rose from behind the officer as a man stepped in. He was tall, bearded, and wielded a massive two-hander that got to be a pain to use in an enclosed space. From the blood though, he’d just used it.
+
+She recognized him from church. That was Lorn, the temple guard boss. Gold light shone from his eyes when he stepped forward. His sword blazed red, overloaded with fire mana. The heat blazed in the alley like a small sun. That man was angry. He opened his mouth, and out came a sentence that would stay with Nag forever.
+
+“Right back at you.”
+
+Lorn killed the officer in three swings, then he turned around and obliterated his way through another squad. A warcry filled the main street.
+
+“The Rose.”
+
+“AND THE THORNS!”
+
+The regs ran, but not fast enough. Nag saw a pair of fleeing men pass Auntie and a heavily wounded Mug, then a wall of steel, blue roses, and black barding, and then just a lot of blood. She realized she was sitting on the ground next to a groaning Salt. Someone was bandaging her wound. It was Feather. The smirk warned her of what was coming.
+
+“Hey.”
+
+“Don’t you dare,” Nag said.
+
+“Need a hand?”
+
+“Fuck you.”
+
+***

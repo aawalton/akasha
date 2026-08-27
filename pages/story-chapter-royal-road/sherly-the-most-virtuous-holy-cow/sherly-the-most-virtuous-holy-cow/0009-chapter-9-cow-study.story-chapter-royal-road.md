@@ -1,0 +1,185 @@
+---
+id: 7dd860f7-6a5f-558a-bd24-e5cfd4cbf704
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9 - Cow Study"
+slug: 0009-chapter-9-cow-study
+partOf: sherly-the-most-virtuous-holy-cow
+position: 9
+ownLength: 2053
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2525776/chapter-9-cow-study"
+royalRoadId: "2525776"
+---
+
+Chapter 9 - Cow Study
+
+”I can’t believe this is just right next to Crossmark,” Sherly said.
+
+She, along with Ishuin and Maymay, was upon the crest of a hill overlooking a humongous forest. They had followed the southern road of the crossroads, eventually reaching the mystical trees filled with visible mana.
+
+The cow girl could tell the gathered power surrounding the forest was great. By how much, however, she couldn’t determine yet. Ishuin had displayed a good amount of Spells, but they had all been properly controlled. Nothing she had done so far was nearly as wild and primal as what those trees were displaying.
+
+Well… Except, maybe, that one time with the guards yesterday…
+
+“A forest like this is called a Managrove,” Ishuin started. “Since it’s right next to Crossmark, we call that place specifically Crossmark Managrove.
+
+“It’s a place not only filled with mana-gathering trees, but also wild creatures that we can hunt. It’s not quite a dungeon, but we will be able to find quite a few things there that can help you gain Levels and Evolution Strains.”
+
+“Alright,” Sherly started. “I’d like to hunt myself, if possible. I don’t know how easy it will be, so please guide me along the way, and protect me if possible.”
+
+“That’s the idea.”
+
+“Lady Ishuin, there’s something I should point out,” Maymay said as they all went down the hill. “This morning, I saw a quest posted on the billboard in Crossmark while I was gathering some supplies for today. It’s about hunting a bunch of bandits. Apparently they hid in this Managrove. They caused problems a few days before we arrived.”
+
+That made Sherly and Ishuin stop. The cow girl was the first to turn. “I’m not hunting them. Or maybe I am, but I’m not eating them, even if they turn out to be chilims or zilims.”
+
+“We’ll keep guard then. Bandits aren’t the main priority of Cancer’s Claw. Those sorts should be easily dealt with by the town guards. But if we can find them, I’ll subdue them myself. You don’t have to get involved, Sherly.”
+
+“Thank you.”
+
+The Crossmark Managrove trees stood like huge buildings. Their trunks were thick and their barks looked like dark stones. Branches twirled in spirals that made their leaves grow in hypnotizing patterns. Even the smaller plants, like bushes or young trees, were filled to the brim with mana. So much so that it tempted Sherly wherever she looked.
+
+The cow took a gander at one of the small plants. She turned to Ishuin with a curious look, which the elf immediately understood. After receiving a nod, Sherly took a bite of the plant.
+
+The cow girl realized her advantage after a few munches. While she craved to eat meat, her ability to graze upon plants was still a viable option for her. It tasted significantly juicy, with satisfying crunches to replace the sensation of biting through muscle fibers.
+
+Strength-wise, consuming the plant filled with mana didn’t do anything miraculous to her, merely transferring the amount of mana she ate into her reserves, which were already full. She felt it disperse away from her body, resulting in a total waste.
+
+“You’ll need to train your mana-reserves if you want to hold excess mana,” Ishuin noted. “Though, whatever you do, you cannot hold excess mana forever, so it’s better to just train your reserves to grow in capacity, instead.”
+
+“It tastes fine, for what it’s worth.”
+
+The group moved on, traversing deeper into the forest. Soon after, Maymay signaled for everyone to stop.
+
+The dog-zilim crouched, touching the ground and picking up some of the dirt. She lifted it close to her face and sniffed curiously. Her head went from side to side, tracking whatever scent she registered from that dirt.
+
+Sherly noticed the footprint from where Maymay took her sample. Boots. Quite big, based on her estimates. Much larger than her hooves, that was for sure. And the indent of the print on the ground alone gave her the impression of a heavyweight.
+
+“They went that way,” Maymay said, pointing towards a bunch of trees.
+
+“Then we’ll go this way,” Ishuin said, directing everyone to the opposite direction.
+
+The dog-zilim followed, but not Sherly. “I think we should subdue the bandits.”
+
+Both ladies turned to her. Neither rejected her suggestion outright. Instead, they were smiling. Sherly felt a wave of nervousness wash over her spine. As if she had fallen willingly into a trap that no one had even laid down yet.
+
+“Are you sure, Sherly?” Ishuin asked almost mockingly. “I can handle them myself later, you know?”
+
+“You’re good at directing other people’s responses, are you?” Sherly asked accusingly. “But you already know that I want to prove myself to the people, even if they’re too stubborn to believe me.”
+
+“Alright, lead the way then, please, Maymay.”
+
+Tracking was never one of Sherly’s strong suits.
+
+For one, she had never done something like that during her time on her own world. And second, she was now a cow. Though not large and lumbering, her form was still not made for any stealthy approach. She would step on a random fallen branch with every other step, creating a crunch so loud that she might as well have been screaming.
+
+Maymay and Ishuin were patient and understanding. They adapted to the situation. The dog-zilim would scout further ahead to compensate for the noise, while the elf remained beside her.
+
+“I sort of expected that you’d have something for this issue,” Sherly said. “Sorry…”
+
+“I do,” Ishuin said. “But I figured you wouldn’t want to rely on me every time.”
+
+“Yeah… I suppose you’re right.”
+
+Ishuin stopped, causing Sherly to freeze. The elf was looking at Maymay, who was already far away. The cow girl couldn’t see anything, not only because of the distance, but also because of all the obstruction from the trees.
+
+“What is it?” she asked.
+
+“Maymay found the hideout.”
+
+The two of them waited for the dog-zilim to return. Sherly, unable to rely much on her vision with all the green and limited sunlight, focused on her hearing. But no matter how hard she tried, she couldn’t hear Maymay approach.
+
+Way quieter than a cat… She wasn’t sure if the thought would offend the dog-zilim, but based on Ishuin’s amused expression, she thought that it might.
+
+“I counted four guards,” Maymay started. “One’s a boar-chilim, two dwarves, and a human. They’re manning the entrance to a cave, which I would assume would have more people inside.”
+
+“Do we start with negotiations, then?” Ishuin asked. But rather than reply, Maymay turned to Sherly. The elf followed suit.
+
+“Me? Why should I decide?”
+
+“Why not?” The elf asked in return. “I’m just asking for an opinion.”
+
+“Sure. I think we can start with a negotiation.” Sherly turned to Maymay. “But you stay hidden. If they don’t have any magic or a Spell to detect someone who’s hiding, then we’ll have you as an advantage if things turn south.”
+
+“Eh?” Maymay tilted her head. “Huh? That’s basically our best possible tactic. Are you sure you’re from another world?”
+
+“Can we not bring that up anymore?” Sherly asked. “I shared that as a secret, so you can all trust me. But I want to move on from hearing it all the time. I’m not from here. That’s the truth.”
+
+“Oh… Sorry.”
+
+“Ah, no… My bad. It’s just that, I don’t want to think about it anymore. If I’m going to live in this world, then I’ll have to leave my past behind.”
+
+“I’m surprised you didn’t even think about going back,” Ishuin said.
+
+Sherly noticed that the elf had been holding back that question for a while now. And she appreciated her for that.
+
+“I’m not sure if I want to, honestly,” she admitted. “If I didn’t arrive here as a demon-cow, everything would’ve been perfect. But never mind that, for now. Are we going with my plan, or not? Our best tactic, technically, is attacking them by surprise. But that’s inappropriate, and I won’t be able to contribute at all.”
+
+With a smile, Ishuin started walking. “Alright. Negotiations, it is then.”
+
+No longer resorting to stealth, the two of them quickened their pace while Maymay headed on top of the trees. Sherly observed the dog-zilim’s quick movement until she was out of her limited sight. She felt a tinge of envy.
+
+“So she’s a ninja?” she said. “Cool.”
+
+“That’s a fascinating term,” Ishuin commented. “But no, not a ninja. We call her a Shadow Strider.”
+
+“Is that a Class?” When the elf tilted her head, Sherly gave an explanation. “Sort of a classification where you can easily determine the person’s main role or set of Skills.”
+
+“Of sorts, yes.”
+
+“When do I get mine? When I become a zilim?”
+
+“When you have enough Skills to be classified as one.”
+
+“Oh, that’s sort of the reverse of what I had expected.”
+
+“How so?”
+
+“I thought you would get access to a specific set of Skills after choosing a Class.”
+
+Ishuin slowly shook her head. “All Skills are available to you as long as you reach the required Level. The amount will be quite considerable the more you level up, which is why you have Letters to help you out. That’s essentially what makes you a Wielder. You gain Levels and earn more Skills than the common folk. Once you lean towards learning a certain type or group of Skills, then we can give you a classification.”
+
+“Oh, what do the common folk usually have?” Sherly asked, distracted by the sudden tangent.
+
+“They do a certain evaluation when integrating with the System. Depending on how that goes, they’ll receive a number of Skills to choose from along with how many they can learn. After that, their only other way to become stronger is to evolve into a zilim or go even further as a chilim.
+
+“Almost no one becomes a chilim, though,” Ishuin added. “The significant change in form gets too jarring.”
+
+“But I’ll have to go through that if I want to turn into a zilim,” Sherly said.
+
+“Correct. I imagine that for you, who was originally a human, the end result of that last transformation will be a little more familiar, compared to those coming from the opposite end of the evolution.”
+
+“How jarring is it in the first place?”
+
+“Well… Snake-chilims lose their legs, exchanging their entire lower extremities for a snake body. Horse-chilims get a second torso with four horse legs.”
+
+“Wait, wait, wait. I think I got it. Lamias and centaurs.”
+
+That made Ishuin pause. Sherly caught a slight anger on the elf’s face, which quickly disappeared.
+
+“Sorry?” she said quickly. “Did I say something wrong?”
+
+“You should never compare chilims, or even zilims, to those species. I have no idea what they are in your world, but here, we consider them monsters.”
+
+With a sigh, Ishuin resumed their march. Sherly followed. She could hear the four bandits now, but they were still quite far away.
+
+“Why monsters?” she asked, trying to continue their conversation and gauge if she had angered Ishuin. Thankfully, the elf replied.
+
+“They were once people who have failed in their evolution due to one reason or another,” Ishuin said with a hint of regret in her voice. “It’s considered a great dishonor. They would lose their mind in the process and become no different from a monster, operating on pure instinct. The only solace we can give them is death.”
+
+“I see,” Sherly said. “I’ll avoid using those terms in the future, then. Sorry.”
+
+“Don’t worry about it.” Ishuin raised a hand, signaling for a stop.
+
+Just then, Sherly heard the four bandits suddenly grow quiet. They had been noticed. She could tell they were preparing for a fight, just across the next set of trees.
+
+“You ready?” Ishuin asked.
+
+She gave a nod.
+
+The two of them went past the tree, into a clearing. Sherly saw the bandits and the cave behind them. And as Ishuin started to speak, an arrow flew straight at her face.
+
+With a blinding reflex, the elf caught it and snapped it in half.
+
+“Loose another arrow,” Ishuin began. A long spear appeared in her right hand. “And I won’t give you the courtesy of allowing you to surrender.”

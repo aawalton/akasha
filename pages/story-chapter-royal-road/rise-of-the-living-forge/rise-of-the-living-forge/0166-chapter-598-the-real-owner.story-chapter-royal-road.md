@@ -1,0 +1,125 @@
+---
+id: 6f5933b8-0fad-50c9-8b9b-e4000fb8d057
+page-type-slug: story-chapter-royal-road
+title: "Chapter 598: The real owner"
+slug: 0166-chapter-598-the-real-owner
+partOf: rise-of-the-living-forge
+position: 166
+ownLength: 1717
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3453584/chapter-598-the-real-owner"
+royalRoadId: "3453584"
+---
+
+“What?” Wallace’s grizzled face creased into a frown. “I’m not so sure that’s a good idea, Arwin. Speaking directly with a magical item like this… it’s got bad vibes.”
+
+“Bad vibes is one way to put it,” Koyu said without even bothering to disguise his distaste. “The dagger’s purpose is tearing the magic away from unsuspecting individuals. It is evil and rotten to the core. Such an item will not be likely to be friendly. Are you quite certain this is safe?”
+
+“Safe? Not particularly.” Arwin scratched the back of his neck. “Pretty much every material I’ve gotten into a vision has tried to kill me in some manner or another. But, to be fair, that was also when I had a much weaker control over my powers. I didn’t really initiate the visions myself. They just happened. That’s different.”
+
+“How?” Wallace asked.
+
+“If I establish a connection and just try to communicate with the dagger at a deep level, I might be able to reach some level of understanding with it,” Arwin said. He wasn’t actually sure if what he was suggesting was even possible. After the recent changes to his abilities, he wasn’t even sure if he could enter a vision with an item at all. But there was only one way to find the answer to that for sure. “Or maybe I’ll be able to just speak with it normally.”
+
+“Why’d you jump to doing a vision if you can just do that?” Wallace asked.
+
+“Because I’m expecting something to immediately go wrong,” Arwin replied with an amused huff. “This is an evil weapon. I figure something like this is going to immediately try to do as much damage as possible or the like. Thus, the moment I try to just have a normal conversation, I’ll probably end up getting dragged into something worse. Probably best to be prepared for that.”
+
+Wallace and Koyu exchanged a glance.
+
+“Are you certain the dagger’s magic will not extend to this vision?” Koyu asked warily. “We cannot afford you losing your abilities. You are the only one I have ever known to possess the ability to issue a Quest. Without that, there will be no way to regain your class. And even if you could… losing the current one would be disastrous.”
+
+“I am more than aware,” Arwin said. His features were grim. “But what else are you suggesting? We can’t just sit around and do nothing. We need to find out how the dagger works. Say we all wear super heavy armor to make sure it can’t cut us while we work. What then? We still won’t know what enchantments it’s got. I suppose we could try to make a very powerful identifier item? Something that could forcibly reveal the dagger’s magic?”
+
+“That’s possible,” Koyu said. “But such an item would have a chance of damaging the dagger. I would imagine the Guild would have put a failsafe into something this important. If its status gets revealed, it may destroy itself to prevent anyone from using it as proof of their deeds.”
+
+All three of them fell silent for several long seconds.
+
+“What are our other options?” Wallace asked. “We really need to make sure we eliminate those before we go to such drastic measures. I don’t know about you, but I do not want to be the one that explains to Lillia that you’ve gone and gotten yourself killed in a magic mind-conversation with an evil dagger.”
+
+“I… could eat it?” Arwin offered.
+
+Wallace and Koyu stared at him.
+
+“What is it with you and putting dangerous things in your mouth?” Wallace asked. “First lava, now this?”
+
+“I’ve put a whole lot more than that in my mouth.”
+
+Wallace and Koyu stared at him. Again. They were really doing a little bit too much of that for Arwin’s tastes. He stared back, arching an eyebrow in challenge.
+
+“What?” Koyu asked.
+
+“You heard me,” Arwin said.
+
+“Damn right we did. That’s the problem,” Wallace said, pointing at Arwin. “And I notice you haven’t answered the question. The answer to everything is not eating it. How would that even help?”
+
+“I would take on the attributes of the dagger,” Arwin replied. “It would tell me exactly what magic it has.”
+
+Wallace passed. Then he blinked. “Oh. Well. That would actually work, wouldn’t it? What a convenient ability. Did you ever mention the fact that you could do that? I had no idea you could steal magical aspects of pieces you ate.”
+
+“I don’t rely on it too heavily as of late because of the drawbacks,” Arwin replied. “Eating anything means I’m applying its affects to myself whether I want them or not.  If the dagger is really as bad as we fear and the effects are something that take place immediately, there’s a chance that it’s more dangerous than a vision. It just depends what kind of enchantments we think the dagger has.”
+
+“Something to steal magic. But that wouldn’t be a bad thing if you were the one that has it. Probably sharpness. Durability. None of those should be an issue,” Wallace mused.
+
+“Magic containment as well,” Koyu said. His brow furrowed as he started to pace back and forth across the room, passing through chunks of metal on the ground as if nothing at all were there. Then he stopped and turned to look back at Arwin. “The containment. It could interfere with your magical consumption. If it stops your body from absorbing magic…”
+
+The Maw might go nuts. Not that it hasn’t been having issues of its own already. The last thing I need to do is somehow cut it off from the other magic I’ve consumed recently. I could just drop dead on the spot.
+
+Arwin winced. “Right. Yeah. That would be bad.”
+
+“Godspit,” Wallace said in frustration. “This is stupid. Just do the vision thing. It’ll be easier than all this fretting. And it’ll probably end up working better as well.”
+
+“That is not the safest course of action. We have not completely evaluated every possibility,” Koyu pointed out. “What happened to—”
+
+“Oh, who cares. It’s Arwin,” Wallace said. “This dense bastard has driven his head through the wall of every problem he’s come across. You really think a chat with a pointy piece of metal is going to do him in?”
+
+Koyu looked to Arwin. “Will it?”
+
+“No,” Arwin said. “Visions are heavily contests of will. And my will will not bend to a dagger. Even an evil one.”
+
+“You’re certain?” Koyu asked. “Because Wallace was right about one thing. I will not be the one to explain to Lillia what happened if you end up getting yourself splattered across a wall.”
+
+“Now when did I ever say that was even a possibility?” Arwin hid a laugh. It was nice to see how much the other two cared. But, at the end of the day, he was certain this was the right option. It was more than just the easiest way forward. To Arwin, it was the only one that felt right.
+
+His magic wasn’t about forcibly making anything bend to his will. That had never been his goal. If they were going to find a way to help the Beast, then Arwin didn’t see why changing what they stood for would be the right path. It didn’t matter if this was a Guild Dagger.
+
+At the end of the day, it was still an item. And he’d spoken with every other item he’d worked with. This one had no right to be any different.
+
+“I’m going to do it,” Arwin said.
+
+Neither Koyu nor Wallace said anything to stop him. The two of them just nodded.
+
+“We’ll keep an eye on things,” Wallace said. “Don’t you worry. Just focus up.”
+
+“And I will retrieve Anna if the need arises,” Koyu added.
+
+“Thank you for the vote of confidence,” Arwin said with a dry smile. He took a step toward the dagger. Then he summoned the Gehenna Dreadhusk around his body, encasing himself in the powerful magical armor. Only once he was shielded did Arwin gingerly lift the dagger.
+
+He focused his thoughts, stilling everything that didn’t matter and banishing it to the corners of his mind. Then he extended his mind toward the weapon. Arwin took care not to push. He didn’t want to force it into a conversation it didn’t want.
+
+There was always a chance the item would speak to him without the use of a vision at all. That would give him an idea of where things stood and how prepared he would have to be. Maybe it would be amicable. Just because an item had been used for something terrible didn’t necessarily mean it was evil.
+
+But the very instant his mind brushed across the dagger, Arwin felt a sharp tug on his mind. It was like iron claws had dug into his thoughts and started tearing desperately at them, clawing him deeper into it.
+
+He resisted for a moment. And, in that moment, Arwin immediately realized that he could pull back. The dagger couldn’t stop him. It wasn’t powerful enough to force him into a vision. That very realization was all the motivation he needed.
+
+If the dagger wasn’t stronger than him out here, then it wasn’t stronger than him anywhere.
+
+Arwin let go.
+
+Darkness exploded around him as the dagger yanked his mind away.
+
+And then the room was gone. Wallace and Koyu and the Infernal Armory were gone. Even his armor had vanished. Arwin stood alone in a void of endless darkness that seemed to stretch out in every single direction around him. There was no end to it in sight.
+
+An odd sense of familiarity prickled across his thoughts. It almost felt like he’d been here before. The hair on the back of Arwin’s neck stood on end. He glanced around in search of the dagger’s manifestation.
+
+Then he froze.
+
+“What?” Arwin whispered.
+
+Lying directly behind him on the ground, the only break in the endless sea of darkness, was a corpse clad in plain gray robes. Its features were completely plain and unrecognizable. Arwin couldn’t have identified a single part of it as unique.
+
+And in that very instant, he knew exactly who the corpse belonged to.
+
+It was the Mesh.

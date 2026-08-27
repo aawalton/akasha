@@ -1,0 +1,189 @@
+---
+id: 0d65a898-b168-5fa7-a51d-45fb9178d872
+page-type-slug: story-chapter-royal-road
+title: "Chapter 68: I want to sell pills"
+slug: 0068-chapter-68-i-want-to-sell-pills
+partOf: phoenix-ascension-cultivation-litrpg
+position: 68
+ownLength: 2719
+unit: words
+publishedAt: 2025-12-29
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2891253/chapter-68-i-want-to-sell-pills"
+royalRoadId: "2891253"
+---
+
+That incompetent brat and meddling wench!  Shang Ling Zi chewed on his nails as he watched Chiao Gu grab the pill meant for the little girl and leave. He was quite unhappy about that, but he found some solace in the fact that the boy had at least swallowed the pill.
+
+However, how could he have expected the woman to question Shu Tao Wu soon after, and end up burning the cultivation technique? Shang Ling Zi thought that that was the end of his plan, but then he remembered the boy had read the technique a few times over, so he must have memorised it.
+
+But once again he was baffled to find out that the woman had figured out his trick, and forbade the boy from using it. Sure, the technique would cause an insane amount of pain in the process of repairing the meridians, but it would repair them, eventually.
+
+The most important thing was for the boy to cultivate using the technique, so he could slowly get corrupted by the demonic path.
+
+However, he was stopped before reaching step zero.
+
+In the end, he could only give up on the siblings, and swore to get revenge on the woman sooner or later.
+
+But all hope wasn’t lost, since he could still recruit the Chiao Gu fella. His original plan was to get the two siblings to take back their resources and to take control over the village before making everyone use his demonicification technique, thus gaining even more members. After that he wanted to slowly take control over the forest and the neighboring cities, until he would be strong enough to take over Golden Arch City.
+
+He lost a piece, but gained another, and he knew that chiao Gu was not someone that needed much of a push to get corrupted.
+
+It was evident by the way he was bullying his cousins for the sake of his own pleasure.
+
+Shang Ling Zi had done his homework on the family, and knew that Shu Wao Tu had no way of paying the immense debt his clan had racked from the Chiao family. In truth, the clan leader wanted to kill Shu Tao Wu to get rid of any venomous roots, and sell his sister to a slave-trader to recoup some of his losses.
+
+However, Chiao Gu had insisted that he would be able to get Shu Wao Tu to pay back plus interest.
+
+In truth, he didn’t have enough fun. After crippling his meridians, all he wanted was to give Shu Wao Tu even more despair, thus he kept him and his sister safe, just so he could torment them.
+
+The guy was born with a lesser demonic heart, which Shang Ling Zi wanted to exploit, but didn’t get the chance to. Chiao Gu’s house was well-protected, and his father was powerful.
+
+However, now that the demonic pill was within his possession, all he had to do was show up and give him a small nudge.
+
+He has the potential to become a Great Demon at the very least. Shang Ling Zi thought, and shot a last, scornful glance at the woman before leaving. He would get his revenge, eventually.
+
+His body became a shadow as he travelled through the village, and soon he arrived before the Chiao residence. Large stone walls protected a wide courtyard, with houses and gardens sprawled about. In the middle was a palace-like structure made out of stone, painted with white paint and decorated with potted plants and artisan statues.
+
+Compared to the other buildings both inside and outside the estate, that central building looked like a veritable palace.
+
+Two guards were positioned at the entrance, and many more on the walls themselves, but neither of them saw Shang Ling Zi sneak in via the shadows. After listening to the servants, he located where Chiao Gu lived, and snuck into his room. Then waited.
+
+And waited.
+
+Then waited some more.
+
+By the time he heard footsteps approaching, it had gone from noon to dusk, and he couldn’t help but curse Chiao Gu for taking so long to return.
+
+***
+
+“Come on my beauties, come and touch this lord’s body.” Chiao Gu said drunkenly, groping the waist of one woman and the chest of another. The two looked quite disgusted by his appearance, but hid it very well with a nice smile and shining eyes.
+
+It wasn’t hard to fool a drunkard, they thought, since he could barely think to begin with. However, the problem was that if they angered him while he was drunk, then none of them knew what would happen. At the worst they could be killed and thrown aside, which neither of them wanted.
+
+So they had no choice but to entertain the man between them.
+
+He was a regular that no one at the brothel liked. He was fat, slimy and more lustful than the regular old men visiting. He also had some weird desires, that none of them wanted to do for him, and the worst part was that he didn’t even leave tips.
+
+So naturally, not one single employee was excited to deal with him.
+
+The two had been the ones that had drawn the short end of the stick.
+
+Without any choice left, they touched his body as much as he wanted them to, and thought that as long as he didn’t want to pay extra for their services, they would be fine.
+
+Thankfully, Chiao Gu seemed preoccupied with other manners, as he was quieter than usual. The only other time that happened was when he procured an expensive pill, and his father had given him some extra pocket money.
+
+However instead of using it like usual, he acted like another person, remaining deep in thought while acting like a fool.
+
+The two women didn’t know which of the two personalities was his real self, but they didn’t care enough. They just wanted to be done with him so they could return to other, less disgusting customers.
+
+Chiao Gu removed his hand from one of the women and slapped the bag tied to his waist. A pill appeared between his fingers, which he pointed toward the ceiling, inspecting it with a tender gaze.
+
+Who would have thought that that trash of a cousin would have such pills in his possession. Too bad his little sister had already used one to break through. Once I tell father about this, he would praise me even more for deciding to keep them alive. I knew that they would be my fortune.
+
+He thought, ignoring the fact that the only reason he kept them alive was to torment them.
+
+When he brought the pill he took from the siblings to his father, the man was suspicious at first. However, a quick look from the clan’s apothecaries revealed that it was an extremely precious pill, one that could help someone re-build their meridians.
+
+It was basically a second half line, and that foolish Shu Wao Tu had not taken it instantly. Chiao Gu could only laugh, but also think what would have happened had he not stepped in right then.
+
+The main reason he crippled his cousin was because he was too talented. He was a threat to the peaceful life of his clan. When he broke through into the first stage of Qi Condensation in four months, no one thought he was anything special. However, his next advancements were far too quick, and he defeated several geniuses above his own level.
+
+Chiao Gu knew that such a man could not be left to his own devices.
+
+He’d heard plenty of stories of weak people becoming strong and taking revenge on their wrong-doers, and Chiao Gu was Shu Wao Tu’s biggest wrong-doer.
+
+However, he couldn’t bring himself to kill him. Not because he loved him or anything, but because he could rarely get the feeling of trampling on a genius. When he watched his cousin lay sick and exhausted on the bed, he got an incredible euphoria that no one else could give him.
+
+Because Chiao Gu was the genius that other people looked up to, so nobody could ever come close to his level. Nobody except Shu Wao Tu.
+
+Back on the main topic, his father had praised him, given him extra pocket money, and even given him a small bag of holding. Chiao Gu was over the moon at that moment, and he began to think how he could ride this high and improve his position in the clan even further.
+
+He could have never expected that Shu Wao Tu had kept other secrets from him.
+
+After grabbing the pill, he wanted to enjoy himself before handing it over to his father, so he spent the better part of the afternoon getting drunk, eating good food and feeling women’s bodies.
+
+But it wasn’t enough. None of it was enough anymore.
+
+Not after seeing Shu Wao Tu so mentally and physically destroyed.
+
+He stood up, annoyed, and left after paying the bill. It was already night, and he didn’t want to bother his father, so he headed straight toward his sleeping quarters.
+
+The night was quiet, and he was ready to fall onto his bed and fall asleep until the following morning.
+
+However, as soon as he entered, he froze, and his eyes widened as they stared at a pair of yellow pupils hiding in the darkness.
+
+He looked at them for a good minute before a sigh could be heard from their direction, and a monstrous figure stepped out into the light.
+
+Red skin, tattoos, a cruel smile highlighted by two sharp teeth, and a skinny body covered by loose black robes. From the moment he saw him, Chiao Gu knew that the man wasn’t human.
+
+In his drunkenness, he’d forgotten to call the guards, and by the time remembered, he realised that the man had enough skill to sneak past the entire estate and hide inside his room.
+
+Chiao Gu wasn’t stupid, far from it, in fact, so he decided to break the stand-off with a question.
+
+“What do you need from me?”
+
+The man’s smile widened. “I love talking to smart people.” He said, his voice sounding as slippery as a snake oil salesman. “I assume you’ve recently gotten into possession of a pill?”
+
+Chiao Gu froze for an instant, then nodded.
+
+“Good, you’re being honest. That pill was meant for the guy you humiliated, but since you happened to chance upon it.” The man paused, allowing his words to linger. “Let’s call it fate, shall we?”
+
+He then flicked his wrist, and a scroll appeared between his fingers. “That pill is precious. Way more precious than anything you could imagine. Now, you could sell it, of course, but if you pair it with this cultivation technique…” He laughed sinisterly, and his figure disappeared into the shadows, yet his voice remained behind. “Let’s just say that taking over Golden Arch City won’t be an impossibility.”
+
+Then, silence.
+
+Chiao Gu stared at the scroll in his hands, and took out the pill he stole from Shu Wao Tu. He gulped, and pondered for half an hour before a decisive light shone within his pupils. “Fortune favors the bold, or so they say.” He said to himself, then swallowed the pill.
+
+***
+
+I wasn’t expecting to make such a rookie mistake. How was I supposed to sell the pills when the pills weren’t with me? Needless to say, after making a quick trip to the cave, I headed straight to the Myriad Market.
+
+Going straight to the Heavenly Pill Pavillion, Xing Ya Chen greeted me almost as soon as I appeared. He was all smiles, and was very happy to see me. If I had to guess, he was hoping he could snag a promotion or something of the sorts from his collaboration with me.
+
+I didn’t mind him trying to profit off of me, since he was very docile and listened to everything I said, even if my requests were weird sometimes. He was also knowledgeable, so we could both take advantage of each other.
+
+“Xing Ya Chen, I am here to sell some pills.”
+
+“Of course, Lord Immortal, what type of pills?”
+
+We went to business immediately, and although I was reluctant to show him what I refined, if I wanted to sell them, I felt like I had no choice.
+
+Of course, I knew my pills were of a high quality, I just couldn’t tell how my standards were compared to this world’s. It’s been far too long and there may be some differences between the way pill values were calculated.
+
+“Meridian Awakening pills.” I said simply, and watched his reaction. As expected, Xing Ya Chen’s jaw dropped, and he immediately pulled me inside toward a backroom. There were some customers inside, but he didn’t care much about them it seemed.
+
+Inside the room was a table with some equipment that I could only guess was used to measure the purity of a pill. I didn’t hesitate to pull the pills out of my sleeve, and placed them on the table.
+
+Five round, shining pills filled Xing Ya Chen’s vision, and from his reaction I could tell that they were worth a fortune.
+
+“Well?” I asked after a few seconds, beginning to grow inpatient.
+
+“Ah, yes.” Xing Ya Chen stumbled to grab a glass object, which he placed in front of his eye and approached the pills carefully. “What a shame you didn’t have a jade bottle to place them in, but they still seem to be in perfect condition. Hm hm…” He murmured to himself as he changed angles, rotated the pills and even picked one up to smell them.
+
+“Indeed, they’re at the peak of the medium-grade pills. I can’t tell what the percentage of impurities is… I don’t exactly have the best equipment here. Only apothecaries have access to that, but the best one is private to the village head.”
+
+“And the second best?”
+
+“He…” Xing Ya Chen seemed to hesitate, but finally said with a sigh. “He was bought by the Chiao clan, and interacting with them is like interacting with a venomous snake. To be frank, I would rather hire an outside alchemist to come inspect those pills and give them a better grade than to have to ask the Chiao Clan for anything.”
+
+“Ciao?”
+
+“Uh, yes, the Chiao Clan. They gained a lot of power in the past few years after their cousin clan… Well it’s not for me to say anything. I don’t want to speculate.” It sounded like he wanted to tell me a story that I was very interested in, but stopped. Was that Ciao clan that powerful?
+
+I doubted they were more powerful than the Myriad Market, but maybe the branch in the Hu Village was more vulnerable? I didn’t know, and I didn’t really care. Whatever grudge the Shu siblings had with the Chiao clan had nothing to do with me.
+
+They would have to figure it out amongst themselves, but I knew how these stories usually went.
+
+Back to the matter at hand, though, I looked at Xing Ya Chen and asked, “And how much would that cost?”
+
+“To bring in an alchemist… Hmm, probably not that much, since he would come from one of the other branches, but the closest one is in Golden Arch City, so it would take at most two days for him to arrive.”
+
+I pondered over the information for a bit. I could wait for two days. During that time I could keep cultivating and get rid of this damned Demonic Qi.
+
+“That’s fine. You can take the fee from the payment for the feather.”
+
+Xing Ya Chen nodded, and he was about to reach for my pills. Before he could snatch them though, I grabbed them and asked for a jade bottle. He begrudgingly gave me one, and then I left. He assured me that he would speak to the manager, and that was that.
+
+After leaving the village, I headed toward my cave. It was getting annoying to keep having to dress and undress in the forest each time, so I decided to leave my clothes closer to the river then fly home from there.
+
+I still needed to make a proper nest up there.

@@ -1,0 +1,155 @@
+---
+id: 060fb797-2041-5e5d-a8d0-7ac85b193d7c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1196 - Trouble In the Void"
+slug: 0068-chapter-1196-trouble-in-the-void
+partOf: the-primal-hunter
+position: 68
+ownLength: 2840
+unit: words
+ownProgress: 2840
+publishedAt: 2025-11-06
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2737890/chapter-1196-trouble-in-the-void"
+royalRoadId: "2737890"
+markedReadAt: "2026-06-29T19:31:25.274Z"
+---
+
+Teleporting using the void was just so much easier than going in a straight line. Concepts, just as distance, didn’t really exist within the void, meaning that if one entered it on one side of a universe, they could exit right away and appear on the opposite side.
+
+Despite both existing in the same universe, there was an absolutely massive distance between the Pantheon of Life and the Order of the Malefic Viper, making a brief void-assisted teleportation the most efficient way to get back fast.
+
+Usually, briefly passing through the void was even considered safer than trying to teleport directly. Not just because it was far faster, but due to the ripples in space these two respective methods caused. All in all, there was very little reason not to make use of the void when construction long-distance teleportations and having the assistance of a god capable of entering the void.
+
+Of course, nothing could ever be said to be truly safe, and entering the void did carry some inherent risks. One was far more exposed within the void if one did end up being tracked when entering, and due to the nature of the void, it would be incredibly difficult for other gods to, first of all, discover another god in the void, or secondly, to actually get there and help.
+
+When Villy had appeared and spoken to Oras, he had only known exactly where Jake was and what was going on because he had effectively been the one doing all the teleporting. He had directed everything and had thus known all the details... something that wasn’t the case this time around.
+
+Upon entering the void, even the Malefic Viper briefly lost track of Jake. Due to their bond, the Primordial should be able to discover Jake relatively fast again, if trying was even worth it, seeing as he and the others should only pop into the void for a few seconds before appearing within the territory of the Order.
+
+Except they didn’t appear within a few seconds. Instead, Vilastromoz felt the connection cut when they entered – something he had entirely expected to happen – but when he tried to reconnect... he found himself blocked.
+
+The avatar of Vilastromoz opened his eyes in an instant as he realized something had gone extremely wrong, and he immediately began trying to track Jake down as he teleported away.
+
+Yep, Jake still didn’t super like the void as it made him feel weird and messed with his senses in more ways than he could meaningfully describe. Around the room inside their teleportation vessel, the others also looked uncomfortable, with only the King and Artemis showing no signs of discomfort, though to be fair, the King wasn’t showing anything on account of his face being a mask.
+
+As Jake was looking at everyone else, he suddenly saw Artemis’ eyes open wide, and at the same time, he got a deep sense of wrongness. Abruptly, the entire vessel shook, the magical formation on the inside flickering for a moment. Immediately after, Jake felt something else, and he instinctively turned his head to the side as he instinctively felt something else had joined them in the void... no... not just one thing.
+
+Artemis quickly shot to her feet, a nervous yet determined look on her face as she instantly explained what was going on. “Our teleportation was intercepted or misdirected, and we’ve been trapped in a formation. I cannot contact the Pantheon of Life, and I cannot detect our exact position to relay it to others.”
+
+Everyone looked at the Godqueen with confusion for a moment before they all realized that things definitely weren’t going as planned. Additionally, they remained affected by being in the void and were in less-than-stellar condition, even if they were stabilizing.
+
+Jake, who was still looking at the wall of the vessel, focused and released a Pulse of Perception, focusing on finding out what was going on outside. His Pulse was messy and gave him odd information, but one thing was for sure...
+
+“Five humanoid-shaped entities are outside,” Jake said.
+
+Artemis nodded, having also spotted them. “The vessel should protect you even when I’m not inside. I’ll investigate and try to buy time, but assume the worst and try to do what you can to reach out for assistance.”
+
+The severity of the situation was clear, as Jake and Artemis shared one final look before the Godqueen disappeared, appearing outside the vessel a moment later.
+
+As she left, she had purposefully made all the walls of their teleportation vessel transparent, allowing them to see the scene outside. Within the emptiness of the void, there indeed stood five people, all of them wearing blank black masks that covered their entire faces.
+
+He also realized that there was a discrepancy between what he saw with his eyes and his Pulse, meaning those three were hiding their true visages, likely caused by the masks. It all pointed to them not being here for friendly reasons.
+
+Right then, on the outside, Artemis appeared and spoke in an authoritative voice. “This is an official delegation from the Pantheon of-“
+
+“Kill her.”
+
+The words echoed throughout the void and into the vessel as Jake’s eyes opened wide. In the very next moment, the void was filled with lights and energy as all five of the masked individuals disappeared alongside Artemis.
+
+The mortals within the vessel naturally couldn’t tell what happened in a battle between gods, but all had enough sense to try to do what they could. Jake focused on trying to reach out to Villy as he saw the Sword Saint take out a watch, Sylphie summon a small spiritual tornado, and even Dina with a strained look on her face as she also tried to reach out.
+
+Nothing worked. Jake even attempted to commune with the drop of blood within his Soulspace to try to allow the Viper to pinpoint his location, fully believing that Villy had noticed that something was wrong and was currently working on finding him.
+
+However, the formation seemed to block anything and everything from getting out.
+
+“Nothing,” the Sword Saint shook his head, looking genuinely worried by now.
+
+The others remained quiet as the situation worsened, with the vessel shaking several times from the impact of wayward waves from the battle. Jake was extremely worried, but he had no way of truly telling what was going on outside.
+
+Right then, things worsened once more as movement appeared in the void. Seemingly right in front of them all, a masked individual popped into existence, startling them before realizing she was still right outside the vessel. To the naked eye, she looked exactly like the other five masked individuals, but Jake could tell through his Sphere of Perception that she wasn’t.
+
+She had barely appeared before a flash of green light flew for her, but she had already raised a hand as a barrier was summoned. A massive shockwave rocked the vessel, yet it did not move, as it seemed to be suspended within the void.
+
+When the energy cleared, Jake saw the same masked woman standing, looking at the vessel, with a transparent barrier with three arrows stuck in it to her side. This masked woman looked at the vessel, evidently not able to see inside as she spoke.
+
+“I know you can hear me in there, so let me get straight to the point,” the god spoke as she laid a hand on the vessel. “All we want is the Chosen of the Malefic Viper, not the rest of you. Have him exit, and we shall leave without this resulting in any unwanted deaths.”
+
+Things got tenser as Jake heard her speak, and he felt like he needed to say or do something, but before he could, the Sword Saint had already stood up as he spoke. “He’s lying.”
+
+“There’s no scenario where they would willingly leave several witnesses alive who may form karmic threads back to them,” the Forest King agreed as he stood up within the vessel.
+
+Jake was also standing at this point, looking at the god on the other side of the vessel’s wall. The god looked straight past them all before speaking again, as there evidently wasn’t going to be a response.
+
+“Very well,” the god nodded as her hand began to emanate destructive light. “The hard way it is. Things would be a lot easier if you just surrendered, though. Perhaps it could even convince that escort of yours to leave.”
+
+They all watched with bated breath as the destructive light continued to intensify. While progress was slow, she was definitely slowly burning her way through the defenses of the special teleportation pod.
+
+“Perhaps you hope she wins and comes to your rescue, but perish such thought,” the masked god spoke while looking toward the constant flashing lights within the void from Artemis fighting. “She’s already surpassed my expectations of a newly evolved Godqueen, but all that awaits her is death. For her to bring her true body was a surprise, but not a complication that we hadn’t taken precautions for.”
+
+Jake was going through countless things they could do until he ultimately settled on gambling that someone like the Malefic Viper would track them down and that Artemis could hold on until then. Which meant they would also have to hold on and-
+
+“I’ll speak,” the Sword Saint said as he put a hand on Jake’s shoulder. “You find a solution.”
+
+“I don’t-“
+
+“You will,” the Sword Saint insisted. “I’ll try to buy time in the meanwhile.”
+
+Jake wanted to protest, but stopped himself, instead sharing what he knew, hoping it might come in handy. “It’s a woman... looks to be of human origin.”
+
+“Alright,” the Sword Saint nodded as he took a deep breath. At the same time, Jake stepped back and closed his eyes as he searched his mind, soul, and instincts for any kind of solution. For a moment, he considered infusing himself with Primeval Origin Energy like he had done against the image of Valdemar back then, but he instantly knew that wouldn’t do shit. Not in front of an actual god.
+
+“You were quick to disregard all notions of negotiation,” the Sword Saint spoke, trying to sound confident. He had purposefully infused his voice with energy, hoping the vessel would allow him to project his voice outside. Luckily, it worked.
+
+“Negotiations are only directed toward the Chosen of the Malefic Viper, not his mortal companions,” the god said dismissively.
+
+While listening, Jake was desperately searching his overly neglected spatial storage to try to find something – anything – that could possibly be of assistance.
+
+“I’m sorry to disappoint, but I’ve been entrusted with the task of speaking. You see, the Chosen can be a little shy,” the Sword Saint said, still trying to give off the aura of someone unconcerned. “Seeing as you already know who I am, how about we begin by evening the playing field a little? So, grant me the honor of knowing who this goddess might be?”
+
+At hearing that last sentence, the goddess actually flinched, and the intensity at which she channeled her energy fluctuated slightly. She had clearly not expected the Sword Saint to know she was a woman, as the mask did give her a more masculine build.
+
+“Intriguing,” the goddess spoke, tilting her head. “You’re quite something for a mortal, aren’t you? I guess the Primordial of Time blessed you for a reason. A shame, really.”
+
+“Come on now, I’m sure-“
+
+“Mortal, your life is no longer in your own hands. Realize that and act accordingly,” the goddess spoke in a sharp tone. “I know the Chosen is listening, and believe or not, he does hold the key to your survival. I can swear here and now that if he comes along willingly and assists us, all of you will survive. You will not be free, but you will remain alive.”
+
+The Sword Saint seemed to realize that his words to the god had no meaning, so he instead directed them towards those in the vessel. “They evidently want Jake’s abilities as a Harbinger of Primeval Origins, and for that, they need his semi-willing participation. Killing us all would risk turning him too antagonistic and perhaps even willing to die rather than help them.”
+
+“Or they will still merely slay us all, under the assumption that the hunter values his own life too much to waste it,” the Forest King added.
+
+“You disappoint with your continued silence, Chosen,” the goddess spoke again. “We truly do not wish to make this any harder than it needs to be, but if forced to, we will. Your current selfish reluctance to cooperate will only get those fighting for you killed.”
+
+She once more looked toward the ongoing battle between the gods deeper in the void. The green energy blasts from Artemis had decreased, and from the looks of it, she was only hanging on and not capable of getting any kind of edge.
+
+“If you surrender now, even she would live. Upon our departure, the formation shall be dispelled, and she will be free to flee back to her divine realm. It makes me question your sanity that you are so insistent. Are you still hanging on to the hope that help will arrive? No god can sense us here. No god can track us here... and no god will ever see what happened here today.”
+
+Hearing that final sentence... Jake finally got an idea that he hoped would work... and hopefully Artemis would be able to hold on long enough even if it did.
+
+In the event that it didn’t, Jake had already determined himself to appear before the face-to-face. While far from an ideal option, doing so would at least hopefully leave a path for survival for as many of them as possible.
+
+Artemis clashed with the five gods who were in pursuit of her. Two of them were in the Ninth Circle of Divinity, two of them Godkings, and the final one emitted an aura surpassing that of a Godking. Her only saving grace was that this final god wasn’t there with their true body but only an avatar that, despite emanating their true aura, couldn’t display power surpassing that of a Godking.
+
+None of them had spoken a single word from start to end, but merely attacked with a clear intent to kill. She didn’t even have time to consider why they were there, what their true purpose was, or how she could possibly get herself and the mortals out of this situation.
+
+All she could do was fight back as best as possible against superior numbers and power. Things got even worse when a sixth person appeared, attempting to break into the vessel granted by Yggdrasil. This new god gave off an aura even more powerful than the five other gods, and she was lucky the person didn’t join the fight.
+
+Still, their appearance put Artemis on an even worse timer.
+
+While the vessel was incredibly durable, capable of handling attacks from Godkings and Godqueens without problem, it could still be broken into if given enough time and effort, and, going by the way the surface was cracking and melting after not even a minute, this new god had specialized skills to break through its defenses.
+
+Trying to get some kind of opportunity, Artemis attempted to severely injure one of the Ninth Circle gods with the hope it would make their allies hesitate, but despite her success, the other gods completely ignored their comrade and took the opportunity to surround her.
+
+Unable to dodge the next barrage of attacks, Artemis took minor damage, but she knew that even if she was capable of surviving this, it wouldn’t do those stuck in the vessel any good.
+
+She also quickly realized that they weren’t after her life in the first place. She was just an obstacle they had to deal with getting to someone – likely Jake – within the vessel. As she was still trying to find a solution of her own, with time running out more than ever, she heard the god at the vessel speak loudly for them all to hear.
+
+“I’m glad you finally saw sense.”
+
+The gods attacking Artemis stopped for a moment. She whipped her head around and, to her shock, saw that Jake had opened the entrance to the vessel and stood just inside the barrier, still protected from the void but within grasp of the god. Breaking that barrier would only take a few seconds at most, effectively leaving Jake fully exposed.
+
+Looking at the scene, Artemis realized her calculations had been severely off and that the god had nearly broken into the vessel already before the door had been opened, but Jake’s actions still confused her.
+
+Everything in the void had come to a standstill as the god extended a hand forward, inviting Jake to take it.
+
+“Just accept my hand, and I swear none will die this day.”

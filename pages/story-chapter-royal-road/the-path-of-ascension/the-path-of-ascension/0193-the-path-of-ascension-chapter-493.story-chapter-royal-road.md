@@ -1,0 +1,249 @@
+---
+id: 902590c0-3d56-57e1-a31e-670633fccee9
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 493"
+slug: 0193-the-path-of-ascension-chapter-493
+partOf: the-path-of-ascension
+position: 193
+ownLength: 5693
+unit: words
+publishedAt: 2026-05-25
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3445433/the-path-of-ascension-chapter-493"
+royalRoadId: "3445433"
+---
+
+Chapter 493
+
+Taking a slightly wider than normal rectangle of talisman paper off the stack, Quill quickly dipped it in a lime green alchemical solution before plunging it into a bath of Tier 10 resonance aura.
+
+Watching the countdown, he glared at the stumbling block of three months. Thanks to Amelia’s help, he’d been sure that a talisman parchment would be the material he needed, but after months of failing to properly imbue various animal hides with resonance aura, he’d started looking for alternatives.
+
+The good news was that the best base talisman material he’d been able to locate was a surprisingly cheap paper that could be made out of a mixture of wheat, straw and a few common elemental herbs. The latter could be tweaked to better target the specific monster the talisman was going to be used on, but that wasn’t what he wanted out of them.
+
+The bad news was that any savings the talisman material might give was swallowed by the aura imbuing process and then some.
+
+When the timer reached zero, he immediately withdrew the talisman paper from the resonance aura while wrapping it with his spiritual perception, locking the aura that tried to dissipate upon contact with the air. Quickly dipping it in two stabilizing solutions, he pulled all the moisture he could out of the soaked papers before dunking it back into the resonance aura for the briefest instant.
+
+Slowly waving it through a carefully aerosoled finishing solution, Quill scrutinized the talisman paper and the perfectly blended aura. It looked good. Between the unprocessed wheat paper’s tan hue, and the processes required to lock the resonance aura in, the final product had a high quality feel and appearance.
+
+It was incidental, but would help justify the final prices he intended to charge.
+
+Going through the process fourteen more times, he had eleven products he considered acceptable, with four encountering problems in the processing. In production, he’d expect them to be thrown out, but he was testing and so kept them.
+
+Taking his time, Quill carefully drew the detailed runic formations on each of the fifteen talismans. When he was done, he opened a [Portal] into his business and popped through to find most of his employees settling into their roles.
+
+The enchanters and his two testers were waiting eagerly in one of the break rooms. When he arrived, they took a [Portal] to the outer system where low Tier rifts were more plentiful and testing could commence.
+
+Quill watched as his people slipped into rifts, sighing at his misfortune. He’d love to be doing it all himself, or at least assisting, but he was left twiddling his thumbs as his people vanished. Twenty minutes later, the last one exited with a smile on their face, sending him their recordings of the delve while removing the talisman.
+
+With all the tests and not a single new problem cropping up this time, Quill let his happiness shine through.
+
+Whistling, he opened the [Portal] and brought his people back. He didn’t need to tell them work was officially about to start, and from the eagerness in their eyes, they were just as excited as he was. A universal tracking talisman had been a dream creation for countless generations of talisman designers. He just needed to succeed one more time.
+
+With a working long form talisman, the last step was to simplify the entire talisman into less than a dozen runes. It also happened to be one of the hardest steps. More often than not, it served as the dividing line between the profitable talismans and trash. In fact, most talisman development could be encompassed in that final step.
+
+There, the designer had to take a book's worth of information and condense it into a few pages. Far from an easy step on its own, most talismans in development stopped there. They might exist but the effort, resources, and time required to create each talisman ensured they would never leave a workshop.
+
+However, that was far from the limit. A skilled enough, or Talented, crafter could reduce that book into a single page worth of text. That level of simplification was generally considered the baseline for profitability, but came with its own issues.
+
+It was all too easy when condensing information to complicate the resulting runes to the point few talisman artists could make the final product. The commonly available runes, pulled from rifts, created from spell effects, or simplified themselves all had gone through the process, to the point that entire concepts could be conveyed with a singular easy to draw rune.
+
+Quill would have loved to grab presolved answers, but he’d developed several entirely new systems that didn’t have untold years of refinement behind them.
+
+Letting his [AI] condense what he could, Quill was left with a patchwork book that had entire sections left in long form between intermittent and varied shorthand. Together with his employees and a few messages to Titan’s Torch, they managed to reduce everything down to two pages worth of information, with just under half being presimplified.
+
+At that point, Quill took everything they had and threw it into his [AI], letting it iterate on the problem and see what it would come up with. He’d already had it working on the entirely new runes, but combining its previous efforts with their inputs bred fantastic results.
+
+Two months and dozens iterations later, they had something he happily called a viable product.
+
+His [AI] had two downright ingenious ideas among the numerous ones he rejected. The first was a specific modification of the cycle gate he’d created. At first it only seemed like a new, more robust variation of the existing rune, making it better handle the aura empowered activations. But the refinement let him fit another cycle limit, giving the talisman more flexibility. He set it to ten by default, giving delvers a longer term tracking option at the cost of wasting cycles should they need it. Because he was nice, and it made less work for him, he ensured that a skilled enough talisman maker could change that final preset number on the fly by leaving it on the outermost edge of the talisman.
+
+The second improvement his [AI] managed was condensing the blood tracking runes by half again what he’d been able to do after weeks of iterations. Seeing the result, he couldn’t help but question whether his [AI] was mad or clever. Blending both the blood sensing and detecting runes together never should have worked, but he couldn’t find any degradation between long and short-form testing.
+
+The resulting rune looked like a complicated butterfly wing, with one half containing four overlapping runes, and the other empty. It was undoubtedly one of the most complex runes that neared the limit of what the average at-Tier talisman artist could draw, but compared to the three runes it was replacing, it was an improvement.
+
+Everything else it offered were smaller but helpful shortcuts.
+
+Not content with releasing a single product like he had at Tier 10, their next task was scaling the talisman’s Tier up and down.
+
+Catching what felt like his first break in the project, Quill was happy when his previous care in his rune choices meant his [AI] was able to downgrade the existing Tier 30 talisman blueprint into a Tier 15 variant without any substantial issues. He really wanted to make a mortal Tier variation, but breaking through that barrier felt like a wall.
+
+After two months with no progress, he redirected their focus upward. Things seemed to go well until Tier 38, where his [AI] failed to deduce a simplified tracking rune that could work with the available low Tier aura, and he accepted his current design limits.
+
+He wasn’t too upset. Tier 15 through Tier 37 may have covered slightly less than half of the Realm’s Tiers, but they were also some of the most valuable markets, especially for delving commodities. Immortals, and delvers in particular, had all the time in the world to deepen their bank accounts, and they would spend when it mattered.
+
+Feeling playful, he checked his weekly ducal update and saw that Tim was between projects. His unwitting retainer seemed like the perfect person to help them get the talisman below Tier 15, so after confirming with Luna, he hired him as a foreign contractor.
+
+Quill was confident he was breaking several laws by doing so, but when submitting his credentials to the Corporations’ database, he solved them all by putting Rosemarie as Tim’s local reference. For reasons unknown to him, the application was approved after only a week rather than the decades he was warned the process normally took.
+
+Knowing Tim’s previous Domain and motivation hardship, Quill didn’t want to push too much work on him, but the kid seemed especially eager.
+
+Quill's correspondence with Luna about how he could take advantage of his skill amnesia revealed why, and he couldn't help but laugh when he watched Luna’s gloating reply message.
+
+Looking like she just came back from a night in high society, Luna sat in a wicker chair with a glass of something amber in her off hand.
+
+As interesting as seeing his manager dressed up was, his attention was drawn to her shit eating grin. “Well timed? Your delusions make me laugh. I figured there was a better than even chance you would want an assistant for testing lower Tier things when you told me about the trip and making a business. The good timing isn't now, it was you telling me then, before we unleashed our own rabbit for him to chase. You're welcome, and don’t forget to send me the data from your training. If you haven't done it yet, find the time. I’m visiting friends I haven’t seen in a while, and if you make me come and get them myself I will take more than a pound of flesh.”
+
+Seeing her teeth start to transform as her smile turned feral, Quill sent her the information but deliberately sent it the slowest way he thought he could get away with. She had given him the excuse and he was going to milk it for all it was worth. How could she get mad at him when he framed it as giving her a few more uninterrupted days with her friends?
+
+Of course, they both knew the picture of the estimated delivery date he sent express was just in case something happened to the first message and she needed to track it down. He was being careful, just like she taught him.
+
+Feeling great, he didn’t even mind every time JR got to drill holes in his mind. With each session things were improving, but he would be lying if he said he enjoyed them. He was thoroughly looking forward to when the Natural Treasures were processed, as JR said most of the pain would end there.
+
+That implied more pain would happen after, but the break would be welcome.
+
+What he did enjoy was the talisman reveal he gave to his friends.
+
+Happily handing everyone a talisman of the appropriate Tier, he explained as he walked. “They aren’t perfect, and my people are still testing some possible improvements, but they are universal tracking talismans. One drop of blood and you get just over two hours worth of cycles. At Tier 25, that means close to 72,000 cycles with a new ping ten times a second. At Tier 15, it's slightly under the expected 21,600, which would equate to about three every second. But not by much. Tier 35 ones normally get just over the expected 1,440,000, which is fantastic.”
+
+Impatient, Allie waved at him as she fiddled with the talisman. “Okay, but how do they work? I was told I need blood. I expected a circle or maybe a box. I just see squiggles. Can I just put the blood anywhere?”
+
+“I only see impatience.” Returning her rude gesture, he continued, “Since the lady asks, I’ll oblige. But first, I need to tell the story — I mean explain the origin for the idea.”
+
+Seeing everyone grow irritated, even his and Aster’s friends, he laughingly pivoted back. “In the larger empty butterfly wing. Wa—”
+
+Getting her answer, Allie immediately poked Aster with a dagger and put the wipes of blood on the talisman.
+
+She was laughing as she stuck it to an exposed forearm and teleported away. When she returned a moment later, she hadn’t moved, but the sound had stopped as she stared at Aster.
+
+Knowing what she was experiencing, he nodded. “It’s a surprisingly good tracking talisman, even out of a rift. Our range is roughly ten to fifteen percent of a typical at-Tier rift. Using a higher Tier talisman gets you more range, but I can’t see how anyone needs it. Because I know none of us use them, let me give some context. Currently available tracking talismans’ ranges normally hover around seven percent of an at-Tier rift's size. Though, if I’m being honest, I can’t see too many use cases where you have the person's blood and need the talisman, while also not having access to a more specialized tracker who can do wayyy more with biological material. But it works just fine on a person. Doesn't work on the twins. We tried. Oh, before I forget, once the talisman is bloodied, its target can’t be changed. Even if you dip more blood, the tracking is set on the first type.”
+
+Eageringly poking Allie, Aster got her talisman going and the two of them started a system wide game of tag between the gas giant's many moons. Seeing they already had a hang of it, he explained to everyone else so they could play in the rifts he’d reserved for the ad agency that Quill’s Quality Quintessentials contracted for the reveal.
+
+“As I was saying, it's a cycle based talisman. So unless you deliberately flip it to full auto, it will only use a single cycle at a time; three, five, or ten, depending on how much tracking you want. Most statistically average teams should be able to complete a delve at Tier with a single talisman per monster type they are worried about, but some might need two but they should have some remainder unless they dawdle. The strong teams who only use them for clean up are going to love this, though, as they might get two or three delves per talisman. The five rifts behind me are yours to play in for the next half hour, then you just need to work around the filming crews if you start a late cycle. But the rifts are big and I doubt they are going to kill that many of the monsters even if you do.”
+
+As he expected, none of them took the entire time but their reactions were better than he hoped.
+
+Rah was the first one out, quickly mirrored by Zack, who both came out to talk shop about what he’d done. Rah was very interested in the blood method to sense the continuity of the blood, where Zack was more interested in the talismans themselves.
+
+The three of them were still talking when the others came out, but it was his and Aster’s friends whose reactions he paid special attention to. They only had praise for how easy delving would be, though they all had different opinions of how they would use the talismans.
+
+His friends, who were on the higher side of professional delvers, considered the tracking talismans a fantastic anti-ambush tool. Normal delving for them was taking careful fights with only as many enemies as they could safely handle. Most delving casualties and injuries happened when a fight drew in nearby or previously hidden enemies, leading to unexpectedly dangerous fights.
+
+The tacking talisman would let them fight with greater confidence, even when they didn’t have it active at all times. Simply checking their surroundings and ensuring no new monsters were close would allow them to fight with far more confidence while using only a few cycles.
+
+Teams like them would end up using less than a single talisman per delve, and possibly rolling them over, but they would be his best customers. With added safety, the teams would get injured less, delve more efficiently, advance faster, and buy more higher Tier talismans.
+
+That was in line with everything his Corporation people were saying and what Titan’s Torch anticipated.
+
+Aster's friends were more representative of an average delver, and their envisioned use cases were a little more expensive, but safer. Their instincts were to use the talismans during the fights to watch their backs.
+
+They weren't wrong for that, but Quill foresaw that requiring two or more talismans per delve. That wasn’t an insurmountable additional expense, and would hopefully be covered long term by less injuries and accidents. He suspected weaker teams who weren’t exploiting natural resources already would start doing so to help cover the expenses, but that was pretty rare.
+
+Kelly, the lightning finch, said something in passing that made him smile. She’d seen one of their marketing strategies faster than he had. “It will be even better the second delve. Just take a bottle of blood from the last non-boss monster out of the rift with you. Maybe people will buy and sell vials of blood right outside the rift. I bet every ambush rift will. At least if these work on the monsters.”
+
+The talismans were actually quite good at piercing most monsters' cloaks they’d tested, though it wasn’t perfect. Having to do so diminished their effective range, but it worked and was easy enough to test beforehand.
+
+Liz was actually the last to exit her rift, only doing so right before the thirty minute timer he’d set. Wiggling her fingers, she showed him the talisman she’d pasted on the back of her hand.
+
+“Pretty nifty talisman. Who did you talk to about this blood stuff? It's very impressive.” Leaning in, she surprised him. “Even I found it useful. The connection to monsters' blood makes targeting them with ichor or blood spells almost second nature. Well done.”
+
+The good news continued during the ad recording, when several of the hired delvers ‘wasted’ several minutes fiddling with the talismans as they couldn’t quite believe what they’d been given. The crew’s got it all, and Quill didn’t need to be told it would serve as excellent b-roll footage for some of the longer form promotions.
+
+Quill kept a fun distance between himself and the cameras, as befit the boss. He knew he’d have to do some promotional stuff, but he’d deliberately limited it to an absolute minimum, citing how busy he was.
+
+Not intending and unable to monopolize such a large market himself, he planned to deviate from his previous practices for sharing the talismans freely. While he did intend to licence the talisman design in both Great Powers to pretty much anyone, he wasn’t going to do so for free.
+
+Sadly, his grand ambitions of conquering the Corporations with his business genius were limited by a factor he only had nearly zero control over: The supply of resonance aura.
+
+On the Empire side, he stood to make quite a lot, given his duchy was one of the largest producers of aura and were one of the rarer ones that subsidized the costs of less commercially useful aura types. Combined with his earlier warnings, his taxes would see a spike until the market stabilized. He also sent word through Cato that he didn’t want anyone sitting on stockpiles of resonance aura, but it might have been unnecessary, given most people's enthusiasm at being connected to another invention of his.
+
+Quill watched as word spread across all eight of the Great Powers, having a near-real time update by watching his purchase history as groups bought the licences. Within hours of the talismans debut, Quill’s Quality Quintessentials catapulted into the lists of most successful businesses of the year, and they’d hardly had more than a dozen people walk through their front door.
+
+Not that he was surprised. Pretty much every talisman related group in both Great Powers wanted to not only make their own aura tracking talismans, but they wanted to learn what they could from his work and adapt it to their own. He was confident Amelia was seeing her own surge of fortune as cultivators paid to get the detailed instruction, rather than trying to deduce the method themselves.
+
+The first talismans to be made were sold for stupendous costs that were well above most premium talismans of the same Tier, but few who used the aura talismans wanted to go back to the older ones. The range increase and versatility were too useful for most teams to pass up, and that desire was better than any artificial advertising campaign. Day by day, as supply grew and more people actually tried the new talisman, that sentiment spread through the delving communities and demand continued to soar.
+
+Having expected that, Quill's Quality Quintessentials had already secured their own supply lines, which allowed them to sell an incredibly limited, but steady supply, of aura talismans. To help spread the word, half of every batch was set aside for new customers. The resale value of their talismans skyrocketed because of that, but only the lucky, non-delving buyers sold. Most delving teams lucky enough to win the lottery ended up using the talismans themselves.
+
+Word never stopped spreading, and other companies releasing batches of the talismans only increased the fervor. By the time most people in new markets had received the news, everything had been bought out, leaving them to repeat the cycle.
+
+Ultimately, when all the noise settled down, there was a single unified reaction among the leaders of all eight Great Powers.
+
+Aura was important and only growing more so with every day. Like mana and essence, it was always in demand. Unlike the other two, its production could be expanded and refined. Nothing immediately happened, but he expected to see more state backed initiatives to increase aura production across the Great Powers. He also knew more clandestine efforts to research aura types would be spun up if they weren't already underway.
+
+With his main project done, Quill wanted to start working on making talismans out of his mana, but first he needed to help Liz.
+
+Per Melinda’s pestering, she was going to reduce herself now that she'd solved her potion problem better than expected. She not only managed to replace the secondary ingredient without any noticeable downgrade in potency, she did so with a moderate cost savings over the original spiritual stabilizing potion.
+
+Rather than license the recipe to anyone who was interested, like he did, she kept tight control. She only gave distribution rights to three Tier 45 groups in each Great Power. That left her with limits on how many other licenses she could distribute and how often, but that was a sad necessity to ensure long term production, given the maturity cycles of high Tier herbs. However, once they did get up and running, the amount of potions each group would be able to produce every year would be enormous.
+
+While Liz would need to create new products eventually, she’d secured her business footing in the Corporations for at least that long, judging by JR’s standards. That might have had something to do with her product choice, but that had been intentional, Quill was sure. Spiritual stabilizing potions were useful in every profession, with most stock being expensive or back ordered for years.
+
+One burden down, Liz set out to refine herself before she got tied up working on the bloodline potions Aster still needed to get her own business off the ground, or whatever else cropped up.
+
+Melinda was so eager, she and Mathew came over for dinner the evening before, just to confirm Liz wasn’t going to delay again. Thanks to Liz’s teasing the evening before, she even arrived for breakfast the following morning. Not that they minded. He didn’t love cooking like Blake, but he enjoyed the process enough to cook for everyone. Even Titan wouldn’t have minded whipping up something for his oldest and dearest friends, which was an interesting revelation for him.
+
+A part of his Domain really liked the underlying train of thought, but as fragmented as he was, it was nigh impossible to trace the feeling. He tried anyway, but it was like trying to track the memory of an echo.
+
+His energy wasn’t being spent in vain. From the information on the name removal JR had provided, the small realizations he came to now would bear fruit when he reclaimed his name.
+
+Instead of worrying about what in particular would trigger such revelations, he continued to do what he already was and relaxed, enjoying breakfast with friends.
+
+Not that it lasted long. With Melinda’s urging, they retreated to the alchemy room where Liz began her preparations. Several of the others would arrive for the actual process undoubtedly, but they were a few hours away from that.
+
+Scrubbing herself in an alchemical cleansing solution, Liz explained as she worked, “As much as one would think transforming into blood solves all cleanliness issues, it doesn't. It really, really doesn't. I tried washing just an arm at the start and using that one for the alchemy, but it failed spectacularly.”
+
+Toweling off and getting dressed into a synthetic suit missing its right leg above the knee, Liz started a deeper cleaning of her leg and foot. Shielded from every angle, the three foot tall cauldron was based on a mold of Liz’s leg and helped get the leg prepared for separation.
+
+Once her leg was seated inside, Liz explained the process, giving permission for Melinda to use a scanning spell during the process. That was all the healer needed, and she happily watched as Liz went through the, new to Quill, procedure.
+
+His part was simple at least. Power the enchantment as it stripped anything that could be considered foreign from Liz’s leg. Once they were done, she separated the appendage at the knee, reforming it into a sphere of golden ichor.
+
+Her lower leg reformed as she put the now cleaned ball of ichor into her cauldron.
+
+“So it's literally just a part of you?”
+
+“Yup. I could make a whole other Liz off this if I wanted to, and I will. That's pure me, no outside influences while representative of my entire self. And I’m about to start rendering it down. I didn’t do this the first few times and I regret it. I was right in that a lot of the effect is lost when propagating the changes to the rest of myself, but even a small advantage can’t be passed on.”
+
+Mathew agreed, but Melinda was more interested in the science, interpreting the small talk. At first, Quill thought it was strange, but he realized she was ready to advance to Tier 25 when they got back, and might be interested in trying to copy or mimic the effect with her Overhealth Talent. It was a Tier 3 Talent after all, and continuously improved, but she needed a direction for that growth.
+
+Now that she had an Intent, Quill's oldest friend had gained a new sense, and with it, new appreciation. Instead of a mirror Domain like he’d ended up with, she’d decided to expand on her Concept, growing it as a whole. She’d done so in a reflection of her Concept to an effect she was happy with.
+
+Now her “Death” Concept phrase empowered her “Feeds Life” Intent phrase, as did all of her Domain. Growing off her Concept, Melinda’s Intent could add a healing aspect to any spell, further empowering her baseline healing. Furthermore, thanks to her Image of fungi decomposing a corpse, her healing spells were now contagious, able to spread from person to person with their excess magical energy. She had little control over the targets beyond preventing the spells from hitting monsters, but she was making progress every day working at the flower store.
+
+Her created anchor was a simple seed that bloomed a new flower every day. Using any of the copies she chose to make, she could cast her healing spells through them, finally completing her Intent and removing the barrier to Tier 25.
+
+Quill did his part by keeping both women's mana pools full, even as Melinda asked an endless stream of questions as she sensed the ever shrinking blob-Liz. Not wanting to miss anything, she cycled the spells or senses she was using.
+
+“How are you doing any of this to your spirit? This kind of compression should be causing debilitating spiritual damage. Is it all the cauldron or was this part of some method?”
+
+“Most of it is the cauldron helping me, but don't be fooled, it is causing spiritual damage. The damage will become more apparent as we continue the prep.”
+
+True to her word, over the next hour the blob of ichor didn’t only shrink, it started to look like a termite colony had moved in, with holes and tunnels forming throughout.
+
+“Part of the preparation is preparing the channels that I’ll be stuffing the energies into.” Liz’s words were strained from her effort, but Melinda didn’t mind.
+
+When Kyle and Annie arrived only a minute before the designated time, Quill thought that was all their guests, but Susanne slipped in right before they got started. Not to watch, but because she needed a heal from Melinda, having lost an arm in a duel and wanting the free healing, even if she’d have to pretend for the expected healing cooldown.
+
+Already there, she decided to stick around and waited to watch the show.
+
+Taking two of the Natural Treasures she intended to absorb, a fire and a fire-lightning hybrid treasure respectively, Liz tossed them into the cauldron like throwing away common garbage. As the treasures fell inside they twisted and morphed, as if they were nearing a black hole. That continued until the items had spaghettified into unreasonably long strands of energy, their physical shells shredded and expelled as ambient magical energy.
+
+Speaking through gritted teeth, Liz explained as she worked, “From what I’ve learned, this energy is something like the raw form of the Natural Treasures or their intrinsic powers. There is some serious loss in energy but I’m not actually absorbing the treasures and there are no conflicts with others. In fact, every time I do this, I’m refining the other Natural Treasures I’ve used over the years bit by bit, better integrating them. I’ve always speculated how I could create my blood 2.0 from Minkalla, and I think something like this might have been key. I’m adding to a fundamental laye…”
+
+Growling, Liz’s last words were incomprehensible as she forced both strands of energy into the orb of ichor. Like water, they poured into the holes, rapidly filling them, but the stream switched before any hole was overflowing. There a small amount of ichor flowed over, sealing the hole, though he knew that was more for the audience than out of necessity, as Liz never bothered with that step when they worked on the process alone.
+
+When almost two thirds of the holes were sealed, she pulled out two new Natural Treasures. The first was a fairly cheap bone strengthening metal-based treasure they’d gotten at a bargain during the auctions. The second was an air-light hybrid that made fires radiate more heat.
+
+While the spaghettification of the second batch of herbs was visually similar, Liz didn’t immediately infuse the second set of energies into her blood. Instead, she forced them to keep their distance from the ichor and run along the outer wall as they shrunk and refined.
+
+Seeing her concentration and strain, Quill explained for her. “These treasures aren’t as compatible, so she, or rather the cauldron, needs to strip more out of the Natural Treasures before she can absorb their energies. That means a higher loss and more difficulties to not let the energies run rampant and destroy everything, but if she’s careful, she can take a portion of the treasures' secondary effects. Stronger bones and increased power of her flames in these cases.”
+
+Looking between the final two treasures and the panting Liz, Mathew asked, “Are the last set of treasures even harder to absorb?”
+
+Shaking his head, Quill put aside his friend's fears. “This is the hard one. Easy one up front and at the end. She could split it into three refinements, but that's a lot of extra expense she doesn't want to deal with when she can handle three.”
+
+“So why the sets?”
+
+Liz managed to answer as she finished the set and could spare some attention. “Balance. While dissimilar on the surface, there needs to be some level of balance between treasures. Sets of two were easier when I got started, and I’ve kept the habit. I might try three, but that would change processes, so I haven’t gotten around to it.”
+
+With that, the final bit of Natural Treasure energy had been sealed away inside the ichor. Liz pressed her hands on the side of the cauldron before transferring over most of her mana pool to the growth item.
+
+Pulsing brightly for a brief instant, like a light rune that killed itself, the cauldron started to hum as all of the energies inside were homogenized into that portion of Liz, removing the distinction between forms.
+
+Only possible in a cauldron made from her own blood, when it was over, a new Liz climbed her way out of the cauldron and proceeded to absorb all of the other Lizzes. Doing so, she spread her new additional powers by converting every other piece of her to the new higher baseline.
+
+While most of their friends seemed impressed, Melinda looked gobsmacked and Quill knew they were in for a long evening. Letting her take center stage, he slipped out shortly after they finished.
+
+He still wanted to create flash talismans before they left the Corporations, fulfilling a deep rooted desire since he reached Tier 25.

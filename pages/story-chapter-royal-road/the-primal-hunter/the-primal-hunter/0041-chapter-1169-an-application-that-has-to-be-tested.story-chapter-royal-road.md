@@ -1,0 +1,161 @@
+---
+id: 1a5bf400-4cad-5420-bcb1-fd7eef2f41e4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1169 - An Application That Has To Be Tested"
+slug: 0041-chapter-1169-an-application-that-has-to-be-tested
+partOf: the-primal-hunter
+position: 41
+ownLength: 2851
+unit: words
+ownProgress: 2851
+publishedAt: 2025-09-30
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2640672/chapter-1169-an-application-that-has-to-be-tested"
+royalRoadId: "2640672"
+markedReadAt: "2026-06-29T19:30:33.503Z"
+---
+
+Blunt force and any other forms of physical damage had shown limited effectiveness based on initial testing. When it came to magic-based attacks, it shouldn’t come as a surprise that light magic had proven the most effective so far. Light and fire magic, that is.
+
+Unsurprisingly, considering they were dealing with a death affinity plant.
+
+Arnold had already developed plenty of light and fire-based weapons, but he knew none of those were enough. He would have to adapt his current weaponry and create new ones to fully accomplish his goal of destroying the Ghostvine Sovereign while simultaneously leaving the moon structurally intact.
+
+If his goal had simply been to kill the B-grade without any care for collateral damage, he would have had a lot more means available. However, based on all calculations, destroying the moon would have a negative impact on Earth; more importantly, it would also render impossible the construction of a moon base if there were no moon to build on.
+
+“So, you figured out how to blow up the moon yet?” Sandy, the Cosmic Genesis Worm, asked.
+
+“We are not blowing up the moon,” Arnold answered in a monotone voice. “As for eliminating the Ghostvine Sovereign, I’m still fine-tuning the assault plan.”
+
+“Still need my help, right? I wanna be around when things go boom!” Sandy said excitedly.
+
+“Yes, I will need your expertise,” Arnold confirmed. “In fact, I’ll need you to place many of the explosives.”
+
+“Yay!” Sandy cheered.
+
+“And to function as transport for the golems that will attack the core,” Arnold added.
+
+“Even more yay!” the worm wiggled happily. “Finally gonna get my revenge on that stupid flower! Oh, and then I’m gonna eat all the stuff it’s gathered alongside its core. Gonna be a good time!”
+
+“As long as the moon’s core remains intact,” Arnold said. “Even with all the assumed damage it’ll suffer after being separated from the being that has integrated itself with it, the core remains a vital asset to secure.”
+
+“Yeah, yeah, I’m not gonna try to eat it,” Sandy wiggled dismissively. “Everyone knows that C-grades eating any form of World Cores is really stupid. Just ask Jake, that dummy. Even Tom knows it’s a stupid thing to do, which honestly shouldn’t be surprising, seeing as Tom is a pretty smart guy.”
+
+Since the start, Arnold had already only half-listened to Sandy and chose to entirely ignore the worm’s rambling as he went over the current plans for taking down the Ghostvine Sovereign.
+
+From his scans of the moon and the Ghostvine, he’d formed a good understanding of the creature. The B-grade was an unintelligent life form that functioned primarily on instinct.
+
+In exchange for this, it was a being of immense scope and vitality. Its vines covered nearly the entire moon, and it influenced everything on it with its aura and will. The greatest example of this was the Lunewood creatures living up there.
+
+Arnold had wondered how the B-grade grew and quickly concluded it had to do with the forest on the dark side of the moon. The creatures there were living in a parasitic relationship with the Ghostvine, serving as sources of nutrients for the B-grade as it effectively consumed them and the energy from the forest.
+
+That’s why Arnold had concluded that the first thing he needed to do was cut off its source of energy. As the moon was mostly barren and with no complete World Core to provide it with new energy throughout, it only had one real source of obtaining more energy from the outside:
+
+The sun.
+
+Thus, Arnold’s first objective was to cut the moon off from the sun. It wasn’t an easy endeavor, but he had already begun to send satellites capable of creating a cloud of dark mana, and with enough of them, he should be able to cover the entire far side of the moon in black smoke, at least for a period.
+
+After a long enough period with the B-grade cut off from all new sources of nutrients, it was time to attack.
+
+He’d settled on starting the assault with explosive firepower.
+
+A small number of drones would initially make their way onto the moon with the express purpose of baiting out the vines of the B-grade. Once these descended on the weaker drones, a barrage of missiles unleashing what could most easily be compared to napalm would enter the moon and set the Ghostvine on fire while also triggering a second wave of explosions.
+
+Already now, he’d had Sandy and drones place direction-based explosives throughout the moon’s tunnel network. These explosions would cascade throughout the tunnels of the moon, building in power as they descended lower and approached the core. This would weaken the B-grade further, as based on a few probing attacks by Arnold’s drones, the Ghostvine always prioritized regenerating its vines.
+
+With the majority of them destroyed, the B-grade would consume a massive amount of vitality to regenerate them all, and coupled with being cut off from outside sources of nutrients, leave it vulnerable to the next stage in the operation.
+
+An army of drones would descend upon the planet with the objective of killing as many Lunewood creatures as possible. This would happen shortly before the cascade of explosions went off, and once the explosives subsided, the drones would descend into the moon’s vast tunnel network and begin to fight the many vines they would no doubt meet.
+
+Several more groups of drones would attack from all over the moon’s surface and slowly begin to make their way down while fighting the newly regenerated vines of the B-grade. However, this was mostly to serve as a distraction.
+
+Because, as the Ghostvine found itself busy fighting an army of expendable drones, Sandy would make their way toward the core with the true assault squad consistent of golems that Arnold would personally control. Golems that were specifically designed to take down the Ghostvine.
+
+Sandy would likely also be involved out of their own desire to play a larger part, but the worm’s primary objective was to serve as an armored vehicle that was capable of getting all the way to the core, hence why Arnold didn’t want to factor in Sandy’s own battle prowess into his plans at all.
+
+If everything went well... Arnold wouldn’t even have to leave his base back on Earth. And if it failed, no matter how improbable he saw that outcome, he could simply use the newly gained data to try again with an improved plan at a later time.
+
+--
+
+“You finally reached out, huh?” Vilastromoz spoke to the seemingly empty room as he sat cross-legged on the bare ground.
+
+“In my defense, I was busy, and just when I was done being busy, Artemis came back... So I kind of got busy again,” Jake responded shamelessly.
+
+“Hey, I’m not gonna say anything to that,” Vilas smiled, shaking his head. “Quite the opposite. I would question what kind of Chosen I had if you prioritized discussing a new skill with me over spending time with your hot Godqueen girlfriend.”
+
+“Thanks? Anyhow, I assume you already knew I got a new skill and that this new skill involves you quite directly, right?” his Chosen asked.
+
+“Seeing as I’m quite attuned to my Path and my Records, yes, I have felt the faint shifts you’ve caused,” Vilas nodded, giving Jake time to elaborate on what kind of new interesting skill he’d gained this time around.
+
+The Viper did have some idea, though. He’d felt the subtle draw of Records at seemingly random intervals and quickly realized Jake was the source. The feeling of having someone “steal” his Records like that was quite an odd experience, but he also noticed that he got Records in return whenever it happened. Mostly useless Records, sure, but Records nevertheless.
+
+From this, Vilastromoz guessed Jake had gained some skill to use his Patron’s Records to either empower himself or grant him inspiration or knowledge. Truthfully, skills like these were quite normal, and the Viper had at least a few million followers by now with similar abilities.
+
+There was one big difference, though.
+
+Usually, the amount of Records they could withdraw would be far less. Additionally, the Viper would have to give permission every time, or nothing would happen. As for the name of these skills? Usually something related to prayers.
+
+As expected, Jake had found a way to get the benefits from praying without actually praying. That, and much more, made the Viper quite curious about what sort of skill Jake had managed to get this time around.
+
+The fact that Jake could forcibly draw Records from the Malefic Viper wasn’t surprising in the slightest, though. It had been something he had the ability to do all along, though he’d rarely used it.
+
+Vilastromoz was naturally thinking of Blessings. Jake could grant someone a Blessing without even asking the Malefic Viper first. Sure, the Viper could instantly remove those Blessings again, but he would already have lost the initial investment. Again, for priests or others with religious Paths, being able to give out Blessings wasn’t odd, but once more, Jake stood out for not even wanting to ask for permission first.
+
+“Right, yeah, I got two skills offered this time around after we discussed the free repair of Palate,” Jake said. “Oh yeah, that’s also an excuse for why I didn’t contact you earlier. Didn’t want to make it weird by reaching out three times in such a short period. Anyway, I was offered a skill called Chosen’s Prayer and one called Heretic-Chosen’s Invocation, and both seemed to revolve around infusing myself with an aspect of the Malefic Viper. Naturally formed from your Records in both cases.”
+
+“And I assume you chose the latter? The one that didn’t include praying?” Vilas asked semi-rhetorically. “I must say, being able to invoke an aspect of a god is quite impressive, especially considering the way you do it evidently isn’t the standard application. Tell me a bit about how this Invocation skill of yours works.”
+
+“So, according to the skill description, I...”
+
+Vilastromoz listened with interest as Jake outlined what his skill was capable of, nodding along to the explanation that also included what Jake himself had learned over his day of experimentation.
+
+Towards the end of it, the Viper had a far better idea of what kind of skill this was. After Jake had gained Divine Bargain, the Primordial had expected Jake to pull out more interesting shenanigans, but this still surpassed expectations. In some ways, it was also very similar to Divine Bargain, once more exemplifying how Jake was different from mere heretics.
+
+A heretic was someone who walked the Path of a god without permission. They weren’t blessed – even if many had once been – which imposed certain limitations on them. While they could gain Records related to the god as if they were blessed, it was a constant balancing game between caution and desire. If they got too greedy, the god could notice their existence and send people to hunt them down, while if they were too passive, they would never properly progress.
+
+Jake didn’t hide whenever he took Records from the Malefic Viper; in fact, quite the opposite. Moreover, just on account of him being Vilas’ Chosen, he always gave back Records with all of his actions, while of course also getting plenty from the Viper’s side, since that was just how any blessed and Patron relationship worked.
+
+To clarify, in this exchange, the viper never truly “gave” anything. The easiest way to explain it was that whenever a Blessing was given out, it required a high level of initial investment. Following that, based on the magnitude of this initial investment, the blessed person would receive a specific “budget” of Records to fuel their Path.
+
+This budget didn’t take any Records from the Malefic Viper. Someone blessed couldn’t “take” more Records from a god after being blessed outside of getting their Blessing upgraded, something they would have to do in some cases if they wanted to progress their Path.
+
+In fact, that was part of the reason Vilastromoz had upgraded the Blessing of the former Alabaster Crimsoneye Snake. She had effectively maxed out the budget her Blessing allowed her, so in order to let her keep gaining Records from her Blessing, the Viper had upgraded it.
+
+However, Jake’s skills allowed him to gain Records from the Viper while completely ignoring all of this budget talk while giving zero fucks about it being a natural exchange. Instead, they allowed far more direct trades. Rather than it being a Patron giving a bit of power to someone he blessed, it became the two exchanging Records on equal terms. Something this skill also exemplified, as the trade-off from Jake taking so many Records was that he also gave ones in return.
+
+After listening to Jake’s full explanation, the Viper also had a few good ideas about how the skill could be used, and he could definitely see how it would help with future upgrades. The Viper also didn’t agree with all of Jake’s initial conclusions, but he didn’t voice that but just wanted Jake to figure things out himself as usual. He did share some of his thoughts, though.
+
+“I definitely advise you to keep experimenting as I’m sure there’s lots to still uncover,” Vilas said. “And before you even think about it, let me make it clear that no amount of Records you ‘steal’ from me will ever matter when you’re still just a C-grade. So go wild. I advise you to use it as much as possible, but I do have one selfish request... use it whenever Primeval Origin Energy is involved in the equation. I’m genuinely curious to see how that turns out. I already get plenty of Records from your achievements, seeing as you’re my Chosen, but I’m more than up for any opportunity to double-dip.”
+
+“Now it’s my turn to feel insulted that you’d think I didn’t already plan on doing that in the first place,” Jake shot back pretty fairly.
+
+“Hey, never hurts to make sure,” Vilas shrugged as he and Jake discussed the skill a bit more. It was mainly Jake talking and Vilastromoz listening to Jake’s sometimes wild ideas, most of which sounded equally fun and impossible. Towards the end of their talk, the Viper did ultimately abandon his resolution to not give any direct advice, as there was one application Jake hadn’t stumbled on that he was simply too curious to test out.
+
+“You know, as a way to pay you back for my lack of belief in my dear Chosen earlier, allow me to give you one amusing idea to test out. Do you remember the time you went to the sculptor from the Primordial Church?” Vilas asked with a sly smile.
+
+“I do...” Jake said, a bit unsure.
+
+“What he did back then was technically called an invocation, and it wouldn’t be far off to say he invoked an aspect of his Patron,” the Viper said in a hinting voice.
+
+“You mean that... surely not?”
+
+“But maybe. If anyone could handle that, it would be you.”
+
+“... it would be hilarious if it worked, wouldn’t it?” Jake said, definitely on board now.
+
+“Oh, it really would, but I reckon it’ll only work with my direct assistance,” Vilas said, a big smile on his lips. “So, wanna give it a shot?”
+
+“Do you even have to ask?”
+
+Having just recently broken through to Godqueen, Artemis still had aspects of her Path to fully stabilize and explore. Being at the apex of the Circles of Divinity meant that this part of her Path had come to an end, and she now had to work on the next step, but to do that, everything had to be absolutely perfect, or breaking through to the Empyrean Steps was a mere pipedream.
+
+She was currently meditating in the palace with Jake down in his alchemy lab, and as a god, she naturally kept her comprehension of the outside world, even when in meditation. While busy... she felt something.
+
+Her eyes shot open as Artemis looked toward the alchemy lab. A shiver ran down her spine as she quickly stood up upon feeling the unsettling presence move. Elsewhere, she saw Jasper already hiding away, with even the Unique Lifeform outside having noticed the commotion before rapidly floating inside.
+
+Artemis didn’t even look at the Forest King as he floated inside, but kept her eyes on the doorway. For a moment, she had been unsure, but as it got closer, there was no doubt.
+
+When the door opened, Artemis was already down on one knee, with the Unique Lifeform purposefully floating back a bit.
+
+“I greet the Malefic One,” Artemis said as the familiar aura blanketed the room. It was unmistakably the aura of the Malefic One himself, even if it radiated out from Jake’s body.
+
+She didn’t raise her gaze as the Malefic One possessing the body of Jake spoke. “Damn, it really worked, and well enough to fool even a Godqueen.”

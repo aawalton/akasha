@@ -1,0 +1,307 @@
+---
+id: aa00a616-c24d-5336-98a0-73e09ed83a73
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED THIRTY-TWO: Here-to-There XII"
+slug: 0234-two-hundred-thirty-two-here-to-there-xii
+partOf: super-supportive
+position: 234
+ownLength: 3812
+unit: words
+publishedAt: 2025-07-21
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2453379/two-hundred-thirty-two-here-to-there-xii"
+royalRoadId: "2453379"
+---
+
+232
+
+******
+
+In the first moments after Alden rushed into the living room with the others, he had the impression that nothing was wrong. All the furniture was still in its place, and a sweet scent lingered from the mist Stuart had filled the house with earlier. The only spot that looked so much as cluttered was a hobby table by one of the chairs, full of tools one of the bors used for making knick-knacks out of eggshells.
+
+The others saw the problem more quickly. Stuart’s gasp and a high cry from Bithe directed his attention toward the hearth.
+
+The wand was gone.
+
+No. It was worse than gone.
+
+Bithe bounded across the room, almost stumbling over a footrest in his rush to get to the fireplace. He let out another cry at the sight of shards on the floor, then jumped up, clinging by his fingers to the high shelf where the wand should have rested in its protective case.
+
+Alden ran to join him, barely remembering at the last second that the bors were scared terrible things would happen if he touched their family stone. He avoided standing on it and stared up at the case that had held the wand.
+
+It was elegant—a smooth, clear ovoid on button feet. And it held its contents on such delicate loops that the wand looked like it was floating there.
+
+Or it had been like that. Now, part of the case’s front was shattered, and what was left stood there, still firmly adhered to the shelf. It no longer contained a milky white wand, only the remains of one.
+
+It seemed obvious that the wand itself had blown up and done the damage. The case was full of pieces so fine they looked like grit. A few larger fragments had embedded themselves in the clear walls, and one shard had almost melted its way through the side. The supposedly impact-resistant substance was rippled around that splinter.
+
+Alden finished seeing it all and had just begun shifting to frantic hypothesizing about how and why this could have happened, when Stuart and Bithe started speaking at the same time.
+
+“Tass-ovekondo is calling me,” said Stuart. “So she’s not dead.”
+
+“This is ruin. The bors will think it’s an <<omen>> if they don’t take it as a failure.”
+
+“The way it felt…somebody did this on purpose.”
+
+“They’ll do something excessive. They’ll swear to make their children’s children <<strive to erase an ancestral sin>>.”
+
+“The case wasn’t made to protect it from someone attacking it with spells! Why would it be?”
+
+“Everything is ruin.”
+
+“A wizard did this.”
+
+The quaver in Bithe’s voice, the shock in Stuart’s, the devastation that would wipe the smiles from every face when the family came back home…
+
+Bithe and the others would probably apologize and apologize again for not protecting the household until the very last second of their time in this city. Because even though this wasn’t their fault, what else could they do to try to make it better?
+
+And Uro-bor wouldn’t smile with pride every time she lit her candles on this mantle. And Tass-ovekondo was calling because she must have felt it—a more permanent severing than she had intended—like losing an auriad.
+
+This was such a cruel turn for so many people.
+
+“Everything was fine a few dawns ago.” Bithe’s feet hit the floor. He brought a hand up to cover his face. “I don’t understand how so much has broken so suddenly.”
+
+Sometimes it’s like that, Bithe. Sometimes, the shit just piles on top of us until we’re drowning in it.
+
+Alden felt sorry for Bithe and the bors. He felt sorry for Stuart, who’d already been tired and worried and was now looking at the broken case like it was the most disappointing thing he’d ever seen.
+
+And we can’t fix it. It’s not like there’s glue for this one.
+
+At that thought, inspiration jolted him. It was followed by a flood of excitement. Then a dozen questions and details that would have to be figured out.
+
+In five or so minutes. Less than that.
+
+Crap! How long has it already been?!
+
+“Stuart!” he said, as his class contact list popped up in front of his eyes and he selected Kon’s name with a thought. “Stu, I need to know if I can preserve the pieces of the wand. And…”
+
+Think it through. Think faster. This is sort of like someone else’s auriad, but it’s destroyed.
+
+Stuart looked alarmed. Probably because Alden had charged at him and was now yelling in his face. “What would happen if the wand, the whole wand, was instantly on Earth instead of here? Would Tass-ovekonstantin—” That was not right, but he didn’t have time to correct himself. “Would it break without her?”
+
+Why wasn’t Kon answering?
+
+“Alden, the wand is already gone,” said Stuart. “It can’t be more broken than it—”
+
+“No! Pretend I carried it to Earth, and it got fixed suddenly. Would being that far away from the village master damage it again? It would, wouldn’t it?”
+
+“Yes?”
+
+“Then she would need to come with…no, that’s probably slower. Think about whether or not I can preserve the pieces! Sweep all of them together. All of them. I have to talk to somebody and then you might need to summon him. Sweep! I might know a way to fix it.”
+
+******
+
+Alden ran upstairs, an unanalyzed feeling that he should ask this favor in private driving him even though he was panicking about a notice telling him Kon wasn’t accepting calls right now.
+
+It was after midnight on Anesidora. He was most likely asleep.
+
+Someone had to wake his ass up as soon as possible, which meant Alden was about to place a very expensive call to…
+
+“Mehdi! Go get Kon for—”
+
+“Helloooo.” Mehdi was on the narrow sidewalk that ran along what Alden thought of as the back of the Garden Hall boys dorm. There wasn’t much of a view on that side unless you liked tall hedges and infrequently used bocce courts. “You’ve never called me before. Do you want to play a board game in the common room? Heloísa and Rebecca are still aw—”
+
+“Mehdi, I need Kon right now! Something important broke. Please.”
+
+Mehdi’s brows lifted. “Okay.”
+
+The two shopping bags he was holding hit the sidewalk, and in a couple of fluid moves, he was hanging onto a third floor sill, prying the window open and saying, “Code red, Kon!”
+
+When Alden had decided to call Mehdi, he’d assumed he would already be in the apartment he shared with Kon and just run down the hall, but this was equally quick. Standing at the top of the bors’ staircase, Alden could see the park through a window, and at the same time, he could hear Kon through his interface, gasping awake in a dark bedroom and exclaiming, “Window rules, Mehdi!”
+
+“Tell him to answer my call. It’s urgent.” He hung up and called Kon again.
+
+Forgot to thank Mehdi.
+
+Kon answered almost at once. He was grabbing a pair of black uniform trousers from the pile of dirty laundry on his desk chair while Mehdi asked what had broken. Alden couldn’t see the Agility Brute at the moment. He pictured him hanging halfway through the window.
+
+“You need me downstairs right now?” Kon said. “No. Where are you? I don’t recognize that place.”
+
+For the first time since he’d launched into action, Alden took several luxurious seconds to think.
+
+“I’m on Artona I. A wizard’s heirloom wand just broke. You might be summoned to fix it if I tell them you can. Do you want to come try? I’m not the one who broke it, and I won’t be in trouble if you say no.” One more precious second. “The ones who’ll summon you are knights. Generals.”
+
+Clear. Necessary info. As little pressure as possible without lying. He hoped he’d done all of that.
+
+“Take a few seconds,” he said, turning to head back down the stairs. “Yes or no is fine.”
+
+He was almost to the living room when Kon—hands on his waistband, still ignoring Mehdi’s questions—said, “Yes?”
+
+“Yes?”
+
+“Yeah!” He gave Alden a full, toothy grin. “Sounds fun!”
+
+He reached for a shirt. “I’ve never done a wand before. The reading might take longer. It might not work.”
+
+“A wand!”
+
+They both ignored Mehdi’s shout.
+
+“Got it,” said Alden. “I’ll try to make it happen. Stay on this call with me.”
+
+The Systems would block anything Stuart and Bithe said that Kon wasn’t supposed to hear.
+
+******
+
+“I don’t think your plan will work,” Stuart said the moment Alden reentered the room. He was on his knees by the hearth, wiping an ink-stained handkerchief across the floor in hurried circles to pick up any tiny shards. “The wand was more than a simple object, and what it was is fading from reality. Fixing it would be compli—”
+
+“I have a classmate with a powerful repair ability.” Kon was trying to button his shirt while Mehdi thrust a hairbrush toward him. “He says he’ll come. Can Bithe summon Konstantin Roberts of Earth? If he’s not here in thirty seconds, you need to pass me every bit of the wand. His skill is limited by time.”
+
+One Mississippi. He realized that was dumb by the time he got to the fourth Mississippi and set a timer.
+
+“It would be better if Kon made it in time,” he added.
+
+There weren’t enough seconds to explain anything, so it was a relief when Stuart shoved his handkerchief full of glass and wand particles into the case that was now on the floor beside him and looked up at Bithe, who was rubbing the same kind of fabric square all over the mantle.
+
+“I don’t know if I sh—” Bithe was saying.
+
+“Let me take this decision as your votary. Success would relieve the suffering of many people, including your own. Alden’s classmate has agreed. I would be summoning him for you already if I had the right.”
+
+Stuart was on his feet, taking Bithe’s handkerchief from him in one breath, then he was releasing more wand fragments into the case on the next.
+
+Kon’s shirt was now buttoned. Mehdi had swiped one side of his head with the brush. He was asking Kon if the wand belonged to an Avowed or to a wizard Alden knew at Matadero.
+
+“There’s something uncommon about this Avowed,” Bithe said.
+
+Alden’s eyes flicked from the timer to Bithe’s frown.
+
+“I can’t summon him.”
+
+“He’s not a Ryeh-b’t,” Alden said, thinking the problem must be that this wasn’t enough of an emergency for insta-summoning an Adjuster. “Kon, tell the Earth System you volunteer for this specific job. That might make it—”
+
+“His service is already assigned to someone else,” Bithe said. “There’s even a note saying not to bother him…Mother’s giving me a list of people I can call to ask about it.”
+
+The timer hit twenty-six seconds. Twenty-seven.
+
+Bithe and Stuart both looked at Alden.
+
+Alden looked at Kon.
+
+Kon rolled his eyes at Mehdi and snatched the hairbrush. “What are they saying? The words started getting cut out.”
+
+“I’m calling my parents,” said Stuart. “If it’s complicated, it’s better to let them negotiate with whoever has the right to summon him. Alden, hasn’t it been thirty of your seconds?”
+
+Stuart held out the case full of wand dust. Alden moved to take it even though he was being stretched between here and Anesidora. It was like Earth had just wrapped its fists around him and challenged this situation he was in the middle of to a tug-of-war for his attention.
+
+He remembered Lexi telling him to preserve Kon’s front teeth while Stuart placed the wand case into his outstretched hands.
+
+It was heavier than Alden had thought it would be in more ways than one.
+
+******
+
+“So he’ll receive an invitation and come here to our summonarium just like you do. Then he’ll be sent along to join you.” Olorn-art’h had clay on her hands and a pot waiting to find its final form on the table in front of her. “He won’t be paid because he isn’t being summoned to work. He may refuse the invitation or refuse to help with the wand after he accepts the invitation. Of course, I don’t see how we could let him go back to Earth without a gift of welcome.”
+
+It had been a couple of minutes since Stuart enlisted his parents, and Alden was now witnessing how one of the core units of the art’h siblinghold functioned. Olorn-art’h wasn’t the only one involved. Through his other call window, Alden had seen Kon order Mehdi out of the room so that he could talk to a different spouse. Bithe was hearing from one of them, too. Stuart was telling Veln the wand had to have been broken by a spell based on what they’d felt earlier.
+
+And beside Olorn in the pottery cottage, Calassa—the spouse who wore a transmogrifier’s embroidery—seemed to be talking to two different people at once through her blue eye rings. Alden thought one of them had to be Tass-ovekondo, since it sounded like Calassa was collecting information about the wand’s past.
+
+Why that was important right now, Alden didn’t know. Calassa had been hanging out with Olorn when the call for help came in, and she’d jumped into action right away, so it couldn’t just be idle curiosity making her comment on the broken wand’s travel history. Or its lack thereof, since Tass-ovekondo was a homebody.
+
+“Excellent,” Calassa said. Then, she made a series of hand signs that Olorn caught with one eye.
+
+“You’re not going to come take over?” Stuart’s tone was surprised. “No, I don’t mind. I just assumed you would want to since—”
+
+“I understand,” Kon was saying at the same time, a hint of nerves beneath his smile. “Yes, I do want to come.”
+
+He’d said he wanted to come in a few different ways. Whichever one of the Primary’s spouses had called him seemed to be in charge of explaining that he was about to make a social visit, not receive a job.
+
+Everything was happening so quickly Alden didn’t know how he felt about it himself, much less how Kon was feeling. And he couldn’t say, “Stop for a while and let us rethink this now that there’s new information.”
+
+Because he was afraid it was already too late for the wand.
+
+He was only sitting in the floor holding a glass case a little bigger than a football in his lap, but in a way, he felt like he was under attack. He’d suspected something like this might happen. He could preserve the broken pieces of wand, but the wand had a lot going on beyond its physical existence.
+
+Whatever was left of its connection to its owner was involved. And possibly the thing that had made it valuable in Olget’s eyes was a factor, too. Multiple people had implied inheriting the wands would have made him more powerful.
+
+Alden didn’t think that what the wands were made of was the reason, in and of itself, but rather that over the course of a long life, Olget’s mother had taught them to speak to the universe better. Or something of that nature.
+
+He was certain he’d missed picking up some of what the wand had been, and he was now holding the crumbs of it apart from the rest of itself, which was straining his skill and presumably damaging an already badly damaged casting tool even more.
+
+But Kon had a time limit that had now passed them by, so Alden could only hope that taking these fragments with Bearer before that had happened would have a larger positive effect than a negative one. He tried not to think about all the NesiCards he’d broken by pulling enchantments off of the chips and keeping them preserved for too long.
+
+Kon’s skill might have fit into Rabbit better than Adjuster.
+
+It was quintessentially Adjuster to have a skill and spell designed to go together, but fixing things that had broken less than five minutes ago was so Rabbity. Most peoples’ assumption was that the System was going to offer Kon more spell impressions that went with his object reading skill, but as it looked now, he was a special case who would have been a reasonable addition to either class.
+
+No point in him being a Rabbit. Someone already has a plan for him that doesn’t involve other wizards being allowed to hire him.
+
+Lute got summoned by the same wizard every time. He had a schedule for work. Kon might be in for something like that.
+
+Some wizard who worked with exceptionally fragile equipment could be planning to have him on hand once a week to unbreak any accidents. That would be a great job for a lot of Avowed. Regular, safe, highly paid work that would prevent you from being assigned to spontaneous, dangerous, highly paid work.
+
+The Velras hadn’t nabbed all the Chainer slots because they sucked.
+
+Alden knew he was blindly guessing at Kon’s future employment, but this particular blind guess did soften his alarm to a more manageable level. Kon’s skill seemed unsuited for combat, so the job was more likely to be something safe, wasn’t it?
+
+We were just talking about him in front of the Bromelimas tree. He picked the special skill and spell combo himself, and he’s a smart guy who prepped his whole life for selection.
+
+And it was a good thing Alden had found this out. For whatever reason, Kon hadn’t been informed by his future employer that his Avowed work was already decided. Alden would tell him so that it didn’t land on him one day out of the blue.
+
+“Thank you for helping Stu and the others with the Here-to-There, Alden,” Olorn-art’h said. “We weren’t aware you were traveling with them.”
+
+“We had a good trip until a short while ago.” Alden thought about telling her that Evul—who was a real adult despite all evidence to the contrary—had known. But she could probably figure that out herself.
+
+He wondered how okay, or not, it was for him to leave the Rapport and go on adventures to parts of Artona I that weren’t under the control of knights. When Stuart took him to see Healer Yenu it had been more planned out than this.
+
+“If you have any worries or any more troubles, you may call us,” said Olorn. “Of course.”
+
+“Of course.”
+
+She looked like she was considering him in some way. But she only said,“The Avowed from your school will be with you in a moment.”
+
+Alden glanced at Kon. He saw him take a deep breath, and then their call disconnected.
+
+He had been teleported.
+
+******
+
+Alden, Stuart, and Bithe were alone with one another again suddenly. The Primary’s spouses had all ended their calls at around the same time.
+
+That’s it? thought Alden. The problem is just dealt with this fast?
+
+Six former votaries who had married themselves to each other and to the goal of raising and supporting a giant family of other votaries and knights should be pros at handling unexpected situations. Combined with Alis-art’h’s spouses and Tesen’s widows, with all the resources of the Rapport and their own children, nieces, and nephews available to help them, they could probably mop up all manner of catastrophes as easily as spilled milk.
+
+“Your parents are efficient,” Bithe said.
+
+“I was thinking the same,” said Alden.
+
+Stuart nodded.
+
+“I didn’t mention Ryada to them when they asked how we were doing.” Bithe swallowed audibly. “She’ll…I think we’ll want to talk to our squad first.”
+
+“That’s the right choice at this time.” Stuart was staring at the case in Alden’s hands. “I was sure one of them would insist on coming here to handle the situation in person. With an Avowed being called and a wizard doing something this <<traitorous to path>>.”
+
+“It was Olget,” said Bithe.
+
+“I believe it was,” Stuart agreed. “Alden saw him drinking shenav in a house nearby. He wouldn’t have to enter here to cast a spell toward a wand he knows so well.”
+
+“Doing this forces his mother to keep the other wand until her death, if she doesn’t want to severely weaken her casting. So he’ll have more time to persuade her to make him its next owner. And the bors…if the bors feel obligated to make up for the loss, they might try to return to the village to support her.”
+
+“I’m sure she wouldn’t let them,” Stuart said. “The first thing she asked when she called was if anyone had been hurt by whatever happened to the wand. Very proper of her.”
+
+“They can’t know.” Bithe directed the words at Alden. “If the person who’s coming can really fix it, we shouldn’t let the family learn it was ever broken.”
+
+Before Alden could agree, Kon arrived.
+
+He appeared right in front of Alden, standing between him and the hearth. His shirt was wrinkled and untucked, and his flip-flops didn’t go with the rather dressy black school uniform pants.
+
+He was smiling, and he said a formal, “Hello,” in confident Artonan. But his hands were balled into fists inside his pockets, and his eyes darted between Bithe and Stuart before he looked down to where Alden sat at his feet.
+
+“Hey,” Alden said in English. “Thanks for coming. Next time I call to ask for a favor, I bet you’ll make sure I’m only downstairs before you answer.”
+
+Kon’s chuckle was a little weak. “I’ve never repaired anything more magical than some Wright stuff. Or maybe that temper sphere you let Heloísa break.”
+
+“This is significantly more complex and potent than a temper—”
+
+“Don’t worry,” Alden interrupted Stuart. “If you can’t fix it, it’s our fault for not getting you here on time. Or my fault for screwing up and missing a speck of the wand when I preserved it. It was really nice of you to get up in the middle of the night to come try.”
+
+“No problem,” said Kon. He licked his lips. “I’ll…um, I’ll sit here in front of you, and you’ll pass that glass thing to me. I’ll read the broken stuff inside, and I’ll return this wand to its former self. If it goes well. Right. That’s what we’ll do.”
+
+Alden was glad Kon was looking only at the remnants of the wand as he sat down. He didn’t need to see the anxiety, hope, and doubt the two Artonans were exchanging with each other.
+
+[Make sure nothing interrupts him,] he messaged Stuart. [He won’t have another chance.]
+
+Stuart hurried toward the front door to lock or guard it.
+
+“Ready?” Alden asked.
+
+Kon nodded, and Alden passed him the wand.******

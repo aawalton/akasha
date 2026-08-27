@@ -1,0 +1,209 @@
+---
+id: 17cf3665-4234-52c9-9048-868cf66b19fe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 83: Time to Cultivate"
+slug: 0083-chapter-83-time-to-cultivate
+partOf: phoenix-ascension-cultivation-litrpg
+position: 83
+ownLength: 2454
+unit: words
+publishedAt: 2026-02-02
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3006376/chapter-83-time-to-cultivate"
+royalRoadId: "3006376"
+---
+
+After Shu Xu Ning figured out that she was Chiao Gu’s natural enemy, the fight went about as well as I expected. Despite the difference in cultivation realms, Chiao Gu, due to his inexperience and newness to the Demonic Path, was scared shitless of the ten-year-old girl.
+
+However, I wasn’t expecting her to coat her entire body with lightning. Such insane Qi usage would make her a target once she ran out, but thankfully that didn’t happen.
+
+Chiao Gu ran away, but obviously didn’t get far, and Shu Xu Ning’s attacks were vicious, but not deadly. First, she kicked him in the nuts, as one does, then brought her sword down on his manhood.
+
+I didn’t know why she did that, but whatever the reason was, she missed, much to Chiao Zhen’s relief. However, that didn’t mean that everything else was safe. She kicked him in the nuts again, causing him to keel over and get into a fetal position, then she circled around his body, kicking him in the legs, stomach, arms, face and back a few times.
+
+“This is for the shingles on our house, and this is for the pill you stole. This one is for hurting big brother, and this one is for hurting big brother again! This one is because you insulted big brother, and this is because you insulted me! Die, die, die, you villain. Mwahahah, die!”
+
+Seeing her like that brought a tear to my eye. She was indeed worthy of being a cultivator. Chiao Zhen stood up, intending to stop the match, but I shot him a cold glare that made him sit down.
+
+I wanted Shu Xu Ning to feel avenged, even if that meant castrating the fatty.
+
+Thankfully, she didn’t go that far, but she was close to killing him when she put the sword between his legs and placed her palms on his head. The lightning coursing through him made him spasm, his muscles contracting and expanding, and if nothing else happened to him, he now probably had a lot of brain damage.
+
+Well, more than he already had, anyway.
+
+If Shu Xu Ning hadn’t run out of Qi, then I was willing to bet she would have continued until he became completely brain-dead. I would have stopped her before that anyway, since I needed Chiao Gu to be functional.
+
+“That’s enough, Shu Xu’er, you did well.” I said as I jumped down, takingShu Wao Tu with me so I could finally finish the damned quest.
+
+I looked up at Chiao Zhen, knowing that he knew what I wanted, and he could only sigh. I would have felt bad for him if he wasn’t as much of a piece of shit as his son.
+
+He took out the pill and threw it at me with as much spite as he could, and I caught it, then handed it to the semi-paralyzed Chiao Gu.
+
+I bent down and lifted his ear to my head. “I need you to give this pill to Shu Wao Tu, do you understand?”
+
+He didn’t understand at first, as he wasn’t responding, so I slapped some sense into him— quite literally— and after his face turned red, and I repeated myself, he understood.
+
+There wasn’t that much of a distance between him and Shu Wao Tu, only about twelve feet, but that was enough for him to groan.
+
+‘Not only did I get my ass handed to me by a little girl, now I have to crawl and give the pill I stole back to the loser I took it from? Fuck, I will have my revenge!’ Is what he must have been thinking in that moment, but I couldn’t give two shits.
+
+The quest demanded what the quest demanded.
+
+To his credit, he tried to get up, but his legs failed him, no doubt because of the pain he must still be experiencing from his family jewels.
+
+“Hurry up.” I said, and he accepted his fate. He got on all fours and crawled with one hand, as the other held the pill. It was a slow, humiliating process, and I could feel the hatred emanating from both him and his father.
+
+If they could kill us in that moment, I had no doubt that they would have.
+
+Too bad, they couldn’t, and they reaped what they sowed. And this was only the beginning. I wasn’t sure what the little girl was planning, but I could tell that her big brother would not rest until the Chiao family burned to the ground.
+
+That didn’t concern me, though. Leave the demon to his demons and all that. As long as the little girl was safe, that’s all that I cared about.
+
+Chiao Gu left trails on the arena as he crawled, blood, and sweat, and perhaps some piss. I didn’t want to think about what the brown stuff was, so I decided to ignore it.
+
+Finally, he reached Shu Wao Tu, who was looking down at him like one would at an ant. He didn’t look particularly satisfied though, and it was easy to tell why. Then again, I didn’t care.
+
+Chiao Gu raised the pill, and Shu Wao Tu grabbed it with a scornful expression and then…
+
+Nothing.
+
+System, what is the meaning of this?
+
+However, it seemed that system wanted to play the silent game again.
+
+Are you mad I yelled at you? Please, please, please, please, complete my quest.
+
+And silence again.
+
+At that point I was beginning to get just a little bit mad. Did I not save Shu Wao Tu? For fucks sake, if only he listened and stayed put, now I have to deal with his stupid demonification.
+
+I glared at him, turned, grabbed the pill and gave it to his little sister then…
+
+Bam.
+
+I slapped him so hard he flew to the other side of the arena.
+
+“Miss but-but-but… why?!”
+
+“Because somebody needed to discipline him. Let’s go. We have a lot of work to do.” I said, and Yo Na jumped from the lounge, leaving behind a shocked Chiao Zhen. I picked the now-fainted Shu Wao Tu up and threw him over my shoulder, then walked out of the estate with a lot of annoyance brewing in my soul.
+
+Stupid kid who can’t listen, fuck, now what? Do I have to treat his Demonic Qi as well as mine? Motherfucker.
+
+***
+
+What the fuck is that little girl and… that woman… She’s scarier than I thought. Did she just slap the shit out of him? Are they related, how are they just as insane? Is the black haired one also insane?
+
+Shang Ling Zi began regretting his decision of staying around to watch, because he had the displeasure of witnessing two of his seedlings get completely humiliated. After seeing that, he wasn’t even sure he wanted them anymore.
+
+However, since they were still demonified, they could still be used. He decided that the smartest decision would be to stop running away and to report to his Master, then bear the consequences.
+
+Whoever or whatever that woman was spelled trouble, especially given the fact that she raised the little girl to a state where she could beat a Demonic Cultivator at the Seventh Layer of Qi Condensation without much trouble.
+
+That should have never been the case, of course, but Demonic Qi was naturally very weak to lightning, so he must have gotten scared, not realising that he could have easily overpowered that little girl eventually.
+
+Was he that stupid? It couldn’t be… did she turn him stupid?
+
+Whatever the case, it was time for Shang Ling Zi to leave, he had seen everything.
+
+***
+
+Interesting.
+
+Meng Mao watched everything happen from atop a building, unable to be seen by the average cultivator’s senses. He saw the Demonic Cultivator’s fight with the woman, saw him run away, then turn back, and his reaction upon seeing both the skinny one get slapped by the woman, and the fat one get defeated by the little one.
+
+He found the entire situation quite hilarious, and he wasn’t sure why what woman made the fatty crawl to give the other one the pill, but he liked her style. What he liked even more was the woman getting angry for no apparent reason and slapping the soul out of the poor boy.
+
+He knew, of course, that the woman was the one that killed his two useless sons, so he found her even more interesting. After all, she shouldn’t have been strong enough to have the ability to transform into a human, but she’d somehow learned a technique to do just that.
+
+It was an illusion, of course, but it was impressive nonetheless.
+
+Her friend, who looked eerily similar to her, was also a surprise. Meng Mao hadn’t expected to see the lord of the forest following around a Phoenix Chick, and so obediently no less. He found everything that little bird did wildly interesting.
+
+As for why he wasn’t shocked that a Phoenix was causing problems in the small village… It wasn’t his place to ask, and he knew better than to mess with it. However, now that the murderer of his sons had a face, he needed a reason to approach her.
+
+She seems like a reasonable person. He thought to himself, and decided that he would find the first opportunity to talk to her. Meng Mao could easily kill the thing, but just as easily could the thing’s parents hunt him and his entire bloodline down.
+
+He had no intention of messing with her too much. But a naive Phoenix Chick could serve a good purpose as well, and he saw no reason why she should refuse him.
+
+“See you soon, little bird.” He whispered, then disappeared into a cloud of smoke.
+
+***
+
+“Achu-”
+
+That sneeze came out of nowhere, but it seemed that it made Shu Wao Tu wake up. His immediate reaction was to move around before realising that I was carrying him.
+
+“Stay put you useless thing. Now we have to figure out what to do with you.”
+
+“Put me down. You have no right to treat me this way!”
+
+“Oh believe me, I have every right. You should thank your sister otherwise I would have killed you myself.”
+
+“You’re not our parents! What do you even want from us?! To refill us into pills? Use us for some strange technique? What did we even do to you?”
+
+I was about to reprimand him, when a sudden slapping sound resounded behind me, and when I turned I saw Shu Xu Ning look angrily at her brother.
+
+“Shu Xu’er, you…!” He began, but was quickly cut off by his little sister.
+
+“You ungrateful big brother! Look at you! You’re all ugly and evil looking, worse than that Chiao Gu! Is this how Mother and Father taught you?! You- you- And now you talk bad to Miss Immortal as well, have you no shame?!”
+
+Damn girl…
+
+Even I thought that she was a little harsh, but at the very least that made her big brother quiet down.
+
+We reached their house without anyone giving us trouble, which wasn’t what I was expecting per se. There were a lot of people in the estate, but I supposed they were all too shocked, and too smart to follow us. That worked out fine for me.
+
+I threw Shu Wao Tu on the bed and sat down on a nearby chair, staring at the quest notification.
+
+[Quest]
+
+[Get Chiao Gu to return the pill, save Shu Xu’s big brother and help heal him.]
+
+[Rewards: 5 Medium Spirit Stones; Reading Skill; 2 Mystery Pills;]
+
+[Bonus rewards based on completion percentage are awardable.]
+
+Is he not saved because he turned himself into a demon? Will he still die? Ugh, what the fuck, if only he stayed put, I could have expelled the pill poison with the pill and fixed him right up with the other pill. Now… uggh, so frustrating!
+
+I shot an angry glare at Shu Wao Tu, which he rightfully shivered at. What was I supposed to do with him now? Did he also need electroshock therapy?
+
+I was so angry I was damn near fuming.
+
+“Couldn’t you have stayed put? Damned child!” He flinched as I yelled, which made me feel a little bit of pity, but then I remembered what he did, and all that pity disappeared. “So now you know what fear is?! Maybe I should have beaten you before you did all this!”
+
+Yo Na looked at me with a strange expression, while the little girl bowed her head, as if I was scolding her and not her brother.
+
+“You’re not my mother!” Shu Wao Tu yelled back, and I damn near exploded again. Shu Xu Ning stepped in before I could slap him again.
+
+“Miss Immortal may not be our mother, but she did everything she could to help you get better. And you repay her like this… just… Big Brother, how could you?!”
+
+“I had to, otherwise you would have had to fight that bastard! I didn’t want you to end up hurt, or worse!”
+
+“You stupid Big Brother, did you think Miss Immortal would have let me get hurt?! Besides I defeated Chiao Gu without any issue.”
+
+“That’s just because-”
+
+“Because what, huh?”
+
+“Because he had turned to the Demonic Path.” I completed her sentence and glared at Shu Wao Tu. “Like you have.”
+
+“What? Is… is that what this-”
+
+“Shut up!” Shu Wao Tu flared with anger, his demonic Qi spreading to engulf me. I laughed, mocking his attempt and waved my hand, summoning the little lightning dragon. It quickly devoured his Demonic Qi, then I commanded it to attack him.
+
+His hair stood on end the moment he saw it, but I didn’t allow the two to connect. Instead, the lightning dragon hovered just in front of him, crackling like thunder.
+
+“How long do you have left to live?”
+
+“A few hours.” He replied solemnly, “But the man said that-”
+
+“He said that you could be saved, right? But you’ll remain a demon nonetheless.”
+
+“That is…”
+
+I let out an exasperated sigh and stood up. “I’ll need to go into secluded cultivation. Yo- er, Li Hua, can you look over them while I finish my preparations?”
+
+She shook her head, but I was already gone and left her with a “Thank you!” Before bolting out the front door.
+
+As for the staring contest the three had afterwards, I could only imagine. But if I needed to save that stupid guy then I needed to solve the issue of my Demonic Qi first, and for that I needed to return to my cave.
+
+It was time to cultivate.

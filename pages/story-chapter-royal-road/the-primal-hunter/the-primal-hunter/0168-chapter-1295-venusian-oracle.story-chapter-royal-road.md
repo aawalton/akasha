@@ -1,0 +1,143 @@
+---
+id: 666c9c66-143a-5f2b-8d07-3c13b40307dc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1295 - Venusian Oracle"
+slug: 0168-chapter-1295-venusian-oracle
+partOf: the-primal-hunter
+position: 168
+ownLength: 2747
+unit: words
+publishedAt: 2026-04-16
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3281562/chapter-1295-venusian-oracle"
+royalRoadId: "3281562"
+---
+
+Jake had started seeing the appearance of an A-grade as a possibility after he saw how powerful the village actually was, but in truth, he’d assumed the village leaders were at most peak B-grade. Overcoming the wall and successfully evolving into an A-grade wasn’t something easily done, yet this Oracle had succeeded.
+
+Standing in the entryway to the Oracle’s chambers, Jake was ushered fully inside by the Shaman, after which the door behind them disappeared, revealing just a hallway where the doorway had once been. A Pulse confirmed that the inside of this temple was far more expansive than it appeared from the outside; the entire thing spatially expanded to a high degree.
+
+“I greet the Oracle,” the Shaman said, squatting down to the ground in what Jake quickly assumed to be the frog-variant of kneeling. Made sense, since their legs didn’t look made for kneeling.
+
+“No need for such theatrics simply because a guest is here,” the Oracle spoke in a female voice. “How was your venture this time? Are the Boglords truly showing signs of stirring?”
+
+“Yes, we encountered one who had fully awakened, but after a brief battle, it returned to the depths,” the Shaman answered. “Coincidentally, it was in the aftermath of that battle that we encountered this guest.”
+
+Jake, taking the cue, nodded his head and cupped his hands, still not wanting to share too much information as he introduced himself politely. “Greetings, Oracle. My name is Jake, a wanderer from afar.”
+
+“A name, huh?” the Oracle said, seemingly finding the fact that Jake had a name peculiar. “Interesting. Yet you do not seem part of any race I know that uses names. What’s more, the smell you give off is that of a scaled beast. Snake, if I’m not mistaken. Something you are decidedly not.”
+
+The Oracle’s gaze seemed to try to uncover all of Jake’s secrets, as her eyes gleamed with curiosity. Jake’s plan of not revealing too much had obviously not gone well, as he had yet to understand the common sense or culture of the Venusians. He hadn’t even questioned why the Shaman hadn’t used a name before, and just assumed it was due to him not wanting to give personal details.
+
+Then there was the Oracle recognizing Jake’s associating with snakes, which also confirmed that snakes were a thing in this Minor World. Not that surprising, seeing as it was a world full of poison, and in large part due to the Records of the Malefic Viper permeating the multiverse, venomous snakes were quite numerous.
+
+Getting his bearings, Jake responded, trying to remain polite. “As Identify no doubt gives away, I’m a human.”
+
+“I see that, but that doesn’t tell me much, as I’m wholly unaware of such a race,” the Oracle said, staring at Jake intensely. “It’s not even mentioned in our records. While unfamiliar creatures appearing isn’t too rare, bipedal variants, especially those using tools and wearing garments, are certainly ones we would know of. Especially if you claim to represent a larger community of some sort.”
+
+“The place I’m from is very far away from here, and just as you have no records of my kind, we have no records of yours,” Jake said, trying to be reasonable. Also, while Venusians had definitely been presented in media before, Jake had never come across anything where they were a magical frog people living within a massive Minor World filled with toxic fumes.
+
+“Truly intriguing,” the Oracle nodded, giving an inquisitive look. “You do seem very unaware of this region, no, this entire world.”
+
+“Admittedly, I am known to lack common se-“
+
+“You’re from beyond the Boundary, are you not?” the Oracle cut him off, not even going to entertain Jake trying to make up some excuse.
+
+“Excuse me?” Jake asked, feeling as though the Oracle had already figured him out.
+
+“Do not fret, this is no statement of hostility, but one that I now believe to be fact,” the Oracle said, seeming incredibly excited for some reason. “Allow me to enlighten you. A number of years ago, we received a message from the system talking of a greater world beyond our own. One that we would connect to one day. At first, some believed it to speak of a large new dungeon, or perhaps the appearance of a new massive island, but my Master always thought differently. That instead, it truly spoke of a world beyond ours. A boundless one, full of possibilities to grow even beyond the limits of A-grade.”
+
+The Oracle had stood up by now, and without Jake being able to react, appeared right in front of him as she leaned down to be on eye-level with him. “You are from this boundless world, yes? From this... universe, was it?”
+
+In retrospect, perhaps Jake should have suspected that this was the case. Even before he entered the temple of the Oracle, his working theory was that this Minor World had come into existence a long time ago, somewhere in between the ninety-second and ninety-third era, and had then existed on its own until the integration. At that point, it had been linked to the new universe, though Jake still theorized some limitations on travel applied.
+
+If this theory were correct, wouldn’t the system have let them know? While it certainly liked its mysteries, the system tended to be pretty good at informing people about things like that, so it was only to be expected that a world-level system announcement would be sent out to inform them of the integration.
+
+That being the case, Jake saw no good reason to play coy as he stopped trying to hide a truth that had likely even been obvious to the Shaman.
+
+“Based on what you said, I believe I am,” Jake answered with a stoic nod. “From my perspective, this place is somewhere called a Minor World.”
+
+“Minor World?” the Oracle asked with interest. “Like a dungeon? No, dungeon creatures can’t know they are...”
+
+“It’s very different,” Jake shook his head, trying to make up an understandable explanation on the spot. “It’s more like this world is an island that is now adjacent to a far larger one. Before your island was adrift in nothingness, while now, it’s gotten close enough to connect to an infinitely larger island.”
+
+The Oracle nodded curiously, considering his words. “Tell me, human, are there many of your kind on this other island? This universe?”
+
+“More than you can even begin to imagine,” Jake answered honestly. “While I do not know if a universe is truly boundless, I do know that they are so large that they’re practically impossible to ever fully explore. Even to the most powerful of beings.”
+
+“That answer inspires the question: how powerful are these beings in your universe? Have they truly managed to surpass A-grade?” the Oracle asked, this seemingly being the question she cared the most about by far. Understandably so.
+
+Jake had quickly put together, based on this line of questioning, that no S-grade had ever appeared in this Minor World. Which was honestly good for Jake’s mental health, as he’d already been shocked that Venus had A-grades. Not just because of the power A-grades held, but what it implied.
+
+It meant that this world was large enough to facilitate A-grades, and from the sounds of it, some of them had even managed to push towards, if not reach, peak A-grade. Jake had no idea exactly how big that meant this world had to be, but it certainly wasn’t small.
+
+Still, he could see why a world like this could be limiting and a nightmarish scenario to find oneself in, where one is constrained by the environment rather than one’s own talent and will to progress. It was not that different from Villy back in the day, who didn’t realize that there was a world beyond his planet. If he’d never taken flight and entered the wider universe, his Path would have ended in peak C-grade. These frogs now knew that there was a world beyond what they knew, but they remained, and this phrase had genuinely never been used in a more apt manner, frogs in a well.
+
+As for the answer to the Oracle:
+
+“Yes, there are ones beyond A-grade. Far beyond,” Jake said, making the Oracle do their equivalent of a large grin.
+
+“Truly, the Ancestors have blessed this generation,” the A-grade frog said happily, looking towards the ceiling for a few seconds before returning her attention to Jake. “Are there also being surpassing A-grade amongst your human race?”
+
+That was a certifiably absurd question if taken out of context, seeing as humans were the most numerous of the enlightened races and had armies of gods in their ranks. Still, ignorance wasn’t a sin, so Jake simply nodded.
+
+“Yes,” he confirmed, seeing no need to elaborate. He also deliberately didn’t talk about things like gods or anything like that. There was such a thing as giving out too much information at once, and so far, Jake believed that the revelation that there was indeed an entire boundless world beyond the one they already knew was enough for one day.
+
+“Did you come here at their behest?” the Oracle asked, seemingly under the impression that Jake was here for some grander purpose.
+
+“No, I was honest when I said I’m just a lone hunter out exploring when I found this place. I had no idea this Minor World even existed before I came upon it,” Jake answered genuinely, so far seeing no reason not to.
+
+His initial nervousness had also quickly faded away, as while he had been apprehensive about being surrounded by far more powerful beings for a while, he’d started to become rather assured they had no ill intent in mind. He hadn’t even once felt any hostility from anyone outside of the guarded attitude from the Shaman and his party during their first meeting, which he really couldn’t blame them for.
+
+Besides, he was now their only source of information regarding a wider multiverse, and even from a logical point of view, it made no sense for them to act aggressively. Jake also wasn’t strong enough to prove a legitimate threat to a force with A-grades.
+
+“That makes me wonder how you even got here,” the Oracle seemed to be reminded of a quite pertinent question. “You are from beyond the Boundary, yet from our tests, there is nothing beyond. Others and I have personally attempted to find the end of the Boundary by traveling through it, but despite weeks of flight, nothing. It appears endless, only growing denser and more dangerous the further one goes. Yet you have come from the other side? How?”
+
+Hearing this did make Jake frown as he continued to stick with telling the truth. “I just flew through it until I got here, and it only took a few hours. But that was from the outside... I don’t know if it’s harder getting out than in.”
+
+“I see, I see,” the Oracle slowly nodded. “Do you have a method to contact this universe, or perhaps even travel back there through other means than passing the Boundary?”
+
+“Both,” Jake confirmed. “However, my method of returning isn’t one I can use alongside others, especially not A-grades.”
+
+This statement was a half-truth, if not an outright lie. Sensing his bond with Villy, Jake knew that if he really wanted to, he could put down a formation that would allow the Primordial to bring him back to the Order of the Malefic Viper. It would take a lot of effort, seeing as he couldn’t tap into the powers of the monument Scarlett’s snakes had made on Earth, but as a B-grade, he was more than confident in pulling it off. Besides that, he had his Seal of the Exalted Prima for the system event, but with that one, he truly couldn’t bring along others who were too powerful.
+
+“That’s unfortunate,” the Oracle sighed.
+
+“I don’t think it’s that big a cause for concern,” Jake shook his head. “While it might be hard to help you enter my universe right now, the same can’t be said for the future. It might take some years, but eventually, there should be free access between this world and the one I come from. Assuming that’s what you want, of course.”
+
+“This is not a matter where I can make all decisions on my own,” the Oracle said, shaking her head. “But I want to clarify. You truly just came to this world on an act of fancy without any set intent and merely stumbled upon us by accident?”
+
+“Yes,” Jake nodded firmly. “The island where I saw the fight with the Boglord was close to the Boundary, and it happened to be the first place I saw.”
+
+“Fate can often be disguised as coincidence,” the Oracle said, seemingly in thought for a while before speaking again. “I found this conversation highly enlightening and might summon you again soon after communing with the Circle. Ah, the Circle is what we Oracles call ourselves, and it functions as the leading organ of the Venusian People.”
+
+Jake nodded as the Oracle waved him off. “Now go. You are free to spend time in the village, but naturally take precautions not to cause any incidents.”
+
+“Am I also free to leave the village?” Jake asked, not sure whether he was being politely kept captive.
+
+“I would prefer if you didn’t, for your own safety more than anything. Beyond the protection of this village, there are naught but B-grades, and as someone newly evolved, it could prove very dangerous. So if you do leave, please bring my apprentice and his party,” the Oracle answered.
+
+“No cause for concern; I’m quite confident in my ability to escape if it comes down to it,” Jake said, trying to be reassuring. “Also, even if I fall, others know that I went to this place, so if I don’t return, they would no doubt come investigate, making them also discover this Minor World.”
+
+Jake also added this as a precaution, in case the frog people decided that Jake was too big a risk to keep around. He didn’t know why they would, but he also had no idea what the thoughts of this Circle would be. For all he knew, there were conservative fanatics who wanted to maintain the purity of the Minor World while denying all existence of anything beyond the boundary, making Jake a threat to the status quo.
+
+“Very well, but again, take my apprentice with you. If for nothing else but to learn more about this world and its inhabitants,” the Oracle said with a final nod before waving her hand. “May fate bring you fortune.”
+
+With those words and the wave of her hand, Jake found himself teleported outside the temple entrance alongside the Shaman. The frog shivered for a moment before fully getting his bearings and looking at Jake.
+
+“Goodness, I can never get used to that. Space magic truly is beyond me,” the Shaman said, shaking his head. “But... truly? From beyond the Boundary? I must admit, I had my suspicions that could be the case, but I never dared even truly consider it.”
+
+“You never told me you were the apprentice of the Oracle either,” Jake pointed out.
+
+“I am a Shaman, of course I am?” the frog asked, before remembering Jake was an ignorant human who didn’t know the common sense of this world. “Ah, right. Perhaps I should have informed you. Alas, what’s done is done.”
+
+“All water under the bridge,” Jake waved him off with a smile.
+
+“I take it, based on your question, that you wish to explore more of the island beyond the village?” the Shaman asked, getting a nod of confirmation in return, making him continue. “That being the case, please allow my comrades to restock on necessary supplies before we set out. Also, I would be remiss if I didn’t at least have the pleasure of inviting you to my humble home.”
+
+“I would love to,” Jake smiled.
+
+“Very good!” the Shaman said happily before a thought struck him. “If you do not mind me asking, seeing as I’m unaware of your kind’s palate, what are the dietary preferences of humans? Would you enlighten me on which beverages your kind prefers? I do have quite the selection...”
+
+And that’s when Jake learned perhaps the most important thing about the Venusians:
+
+They did have tea.

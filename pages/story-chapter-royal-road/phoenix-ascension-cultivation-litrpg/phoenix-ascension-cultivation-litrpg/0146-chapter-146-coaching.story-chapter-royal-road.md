@@ -1,0 +1,141 @@
+---
+id: 90490c58-6796-55bd-89c1-0b19bf07b75b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 146 - Coaching"
+slug: 0146-chapter-146-coaching
+partOf: phoenix-ascension-cultivation-litrpg
+position: 146
+ownLength: 1549
+unit: words
+publishedAt: 2026-07-01
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3619068/chapter-146-coaching"
+royalRoadId: "3619068"
+---
+
+We didn’t talk about it in the open, as I didn’t feel like being found out. Instead, I’d changed into my human form for easier acces into the city, and put some pants on. I wasn’t about to hide three Spirit Beasts in plain view though, so I kinda just placed them into my dantian.
+
+That was to the detriment of them finding out I can cultivate, but the turtle was trustworthy, and the other two didn’t seem to have enough braincells to figure that out.
+
+So we made our way back into the city, trying to be incospicuous. I was willing to bet Guo Lu Poo was panicking by now, considering he’d lost bot his ledger and some of his treasures, and also an entire army of Spirit Beasts had left into the wild due to his desire to collect.
+
+Or his granddaughter’s desire? It didn’t really look like she was all that excited about the animals though, and I doubted she needed a treasure hall.
+
+It seemed to me like he just wanted an excuse to covet treasures and rare Spirit Beasts. What for, I couldn’t really say.
+
+It was clear he didn’t care about the common beasts, like the snake. I was wondering what it was up to now.
+
+Although Butler Mo did say something about him not liking what had happened with the place, so there was a deeper story I was not aware of.
+
+And one that I didn’t care about. At least now he wouldn’t have to worry about it. He knew I was the one that created all that chaos, though I was wondering if he was going to do anything about it.
+
+My best bet was not to show up as the bird version of myself for the time being. Meng Mao had huge leverage over the Guo family now, so they weren’t going to do anything to him.
+
+That wouldn’t be the case for me though…
+
+Passing through the gate was easy, since everybody knew Meng Mao and they didn’t question the woman he’d brought along. Well, maybe, they were definetely suspicious though.
+
+He’d given them a dangerous look when he’d entered though, so the guards must have gotten the right idea. If he said anything, bad things were going to happen.
+
+Back in his office, I’d finally felt safe enough to turn back into a bird, and also let out the three Spirit Beasts I’d temporarily trapped.
+
+They were looking around, confused. The turtle’s eyes were staring at me with shock more than anything, while the other two just seemed terrified. Hm, well all three of them looked terrified if I had a closer look.
+
+Strange.
+
+Meng Mao sat down without a sound and I sort of did as well, though the height difference between me sitting down and standing was barely noticeable. My legs were really short…
+
+“So what was it you wanted to offer me?” I’d finally asked, as he did indeed want me to start the conversation. The three Spirit Beasts next to me remained silent, but their fear had lesenned slightly.
+
+Meng Mao smiled after hearing my question. “What the… Qilin, I mean Qi Hua said was intriguing. I’d thought that I could just build a good relationship with you and you could scratch my back later, but his proposal was pretty good.”
+
+“I am not making that same deal with you.” I said it outright, I didn’t care what his offer was, but I wasn’t going to give him a free favor from me or my clan.”
+
+He clicked his tongue. “I’d figured as much, although I couldn’t have asked for that anyway. My pride wouldn’t allow me.”
+
+I squinted. “Then what do you want?”
+
+“Well, now that I have a way to destroy Guo Lu Poo’s empire via his ledger, and don’t worry, I did check, there was a lot of good stuff on there, including what he had on me.” He chuckled as he took out the book. “Honestly, if I knew that was what they were going to threaten me with, I wouldn’t have panicked so much.”
+
+“So… what was it?”
+
+“What, you haven’t read it?”
+
+“Why would I?”
+
+“Ah. Then it’s a secret.”
+
+I’d internally rolled my eyes. “So you still haven’t gone over what the offer was.”
+
+“Well, I could get you a spot in the Four Corner Sword Realm, if you wanted, that is.”
+
+My ears… feathers, did I even have physical ears? Anyway, they perked up. I did want to go into that realm. Secret realms always had something special about them, and I was definetely going to exploit that.
+
+Though I was wondering just what sort of things Meng Mao wanted me to do for that spot.
+
+He smiled upon seeing my interest, that slimy bastard.
+
+“Well, I can get you the opportunity to earn a spot, but what you do afterward is up to you.”
+
+“So what do you want me to do, spit it out already?” I’d gotten a little angry, why was he taking his time to tell me?
+
+“Fine, fine. You surely are impatient. Well, I don’t want much, really. I am not going to ask for a favor over an indefinite period of time, but I will ask for a service.”
+
+“What service?” I’d narrowed my eyes.
+
+“It doesn’t seem like it, but I do have a family that I care about. They are scattered all over the continent right now, but I do have some younger children that are in the city.”
+
+“Where are you going with this?”
+
+“I just need you to erm, help them. There is going to be a sect-selection competition in five year’s time, and I want them to have the best chance at getting into one.”
+
+“And…” I raised a metaphorical eyebrow.
+
+“And if you could spare just a bit of your blood essence-”
+
+“No way. I am not giving your children my own damned blood so they can get my bloodline.” I refused immediately. It was my fucking blood we were talking about, how could I just give it to some kids?
+
+“I figured you would say that.” Meng Mao sighed. “It was worth a try though. I do have one other offer, how about it?”
+
+“What do you want this time?”
+
+“Well, it’s still related to my kids. You see, I have three of them here in the city, and they’re all pretty young. I think that being in the presence of a powerful Spirit Beast such as yourself would help them cultivate better. Or at least, stimulate their cultivation.”
+
+“So you want me to crush them with my pressure?”
+
+“Not crush them, that is why I am asking you for this favor. If I were to take any other random Spirit Beast, controlling it would be hard. But you, well, I can just talk things out with you.”
+
+“I see your point, but what do you want me to do then?”
+
+It wasn’t such a bad request, and I could do it if it mean him gettting me a chance to enter the Four Sword Corner Realm Secret Realm thing.
+
+“Well, for the remaining time until the competition starts, meaning two weeks or so, I want you to increase the pressure on my children each day, based on what you think they should be able to bear. They’ve already started cultivating, so their instincts should kick in properly.”
+
+“I see… Well that doesn’t sound unresonable.”
+
+“And you also need to lay low for the time being. They know that you’re the one that caused most of the chaos, and they know that their fate is in my hands. With nothing else to lose, I am not sure what they will do.
+
+“And I’m also going to have a new identity created for you, something like my very distant niece from a sister living on the other end of the continent. It doesn’t matter, to be honest.”
+
+“That is… weird.”
+
+“Yeah, the rules are weird. That doesn’t change the fact that I should be able to get you a spot to compete in the time it takes for the tournament to start.”
+
+I’d considered the offer. Just putting pressure on some kids wouldn’t be bad, and I could also train my Beast Core at the same time. All I needed was to get a lot of Qi from cores and rank it up. I could also train some easier skills I had and get them to level up.
+
+Overall, it wasn’t a bad deal, if he provided the resources for me. Though I could also buy them and use him as delivery boy. I did have quite a bit of money.
+
+“Alright, on one condition.”
+
+His smile twitched. “What is it?”
+
+“I want as many Spirit Beast Cores as you can get, preferable of a higher rank.”
+
+His expression softened then, perhaps he was expecting something worse out of me. “Only that? Sure, I can get you as many as you need.”
+
+“Then we have a deal.”
+
+The moment I’d said, I felt the threads of Karma again. Though I couldn’t help but wonder when I’d become so sensitive to them.
+
+“So when do you want me to start?”
+
+Meng Mao looked at the clock and smiled. “Right about now would be great.”

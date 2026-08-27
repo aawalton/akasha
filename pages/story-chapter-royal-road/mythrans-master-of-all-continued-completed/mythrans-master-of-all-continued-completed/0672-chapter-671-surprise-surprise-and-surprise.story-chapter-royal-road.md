@@ -1,0 +1,241 @@
+---
+id: 64edf281-fea3-5f7e-b910-5fbe791b9581
+page-type-slug: story-chapter-royal-road
+title: "Chapter 671 - Surprise, Surprise, And Surprise"
+slug: 0672-chapter-671-surprise-surprise-and-surprise
+partOf: mythrans-master-of-all-continued-completed
+position: 672
+ownLength: 3192
+unit: words
+publishedAt: 2018-08-16
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/282160/chapter-671-surprise-surprise-and-surprise"
+royalRoadId: "282160"
+---
+
+Fire Dancer was amazed that she could sit on her throne and watch something in real time. Her gaze roamed over all of the Fire elementals, and she felt their mirth and happiness as the Marilith Demon slipped in the mud over and over as she tried to catch the pigs. It only lasted a few minutes, and the demon ended up laying down beside the house, covered from head to tail in mud, exhausted.
+
+The Marilith Demon laid there in defeat, and then the bravest and also smallest of the pigs, walked right over to her and sniffed at her face. She reached out to grab it, and the pig popped right out of her hand with a little squeal. She laughed and laughed, then the video ended.
+
+“How about the fight next?” Ren asked, and hit the button again. He unfurled his wings and flew up to Fire Dancer's shoulder and landed, then sat down. “This should be neat to watch from a different perspective than being in it.” He said, then furled his wings and they disappeared. “I didn't edit it or anything, so it's all there and might take a while to see it all.”
+
+Fire Dancer glared at him as she felt a spike of annoyance that he would use her like a chair; then she saw her uncle Teepo in the same spot on his shoulder. She remembered Ren telling her that he would become her Teepo, then she heard Video Ren start to speak from the display and she turned and watched the show instead of voicing her thoughts.
+
+It actually did take a while to watch the whole fight, and Ren felt the reactions and emotions from the Fire elementals. They enjoyed it, since it was entertainment they had never seen before; but, they were also terrified at the power Ren had displayed. Fire Dancer on the other hand, was neither surprised by what she had seen, nor impressed by the spectacle.
+
+“You could have killed him immediately.” Fire Dancer said, the disdain clear in her voice and emotions.
+
+“I could have, but what would be the point?” Ren asked.
+
+“The quick dispatch of your enemy.” Fire Dancer responded.
+
+“Then what?” Ren asked. “He would have come right back when he regenerated, and then I'd have to fight him again.” He said. “Like I said before the fight, I wanted everyone to see that coming after the people I care about was a bad idea.”
+
+“So you showed them all of your tricks.” Fire Dancer said. “That is not a good idea.”
+
+“I didn't show them everything.” Ren said and flew down to the large box. “That's all the direct footage I have.” He said and hit a different button. Hundreds of screens popped up all around the throne room, and it showed the views from all of the displays he had scattered about the country and the large one showed the footage from the amusement park. “This is looped from when I first put them all in place.”
+
+The Fire elementals were captivated by the screens of all the different towns and cities, and all of the people milling around.
+
+“There's only a couple of hours of footage, though.” Ren said. “When I have to leave for Adventurer's business in 6 years, I'll have a lot more for you.”
+
+“In 6 years?” Fire Dancer asked.
+
+“I'm staying right up until the last moment, then I'll portal out.” Ren said. “Until then, I have a few surprises for you.”
+
+“Do you, now.” Fire Dancer said.
+
+“I sure do.” Ren said. “If you can wait until bedtime, I'll show you the first two.”
+
+“Why not show them to me right now?”
+
+“I wouldn't dare take you away from ruling your realm.” Ren said and flew up to land on her shoulder. “I'll just sit here quietly and keep you company while I wait for your day to end. That way, I'll only be bothering you on your off time.”
+
+“Who said you're not bothering me now?” Fire Dancer asked as her annoyance spiked.
+
+Ren laughed. “I guess I should have said 'distract you from your duties'.”
+
+Fire Dancer huffed and had to agree. It would distract her from her duties if she let herself be sucked in by Ren's antics. Although, she had to admit that the 600 foot wide by 400 foot high display was much clearer than her Viewing Cloud spell. That got her to wondering how he had created it; but, she stopped herself from asking about it.
+
+“I noticed you're staring at the display, but you're not watching what's on it.” Ren said, and she turned her head to look at him with wide eyes. “I actually didn't create it. I traded for the original device, then made my own... after modifying it, of course.” He chuckled. “The original display was only a couple feet in size, and that just wouldn't do for what I needed it for.”
+
+“Why are you telling me this?” Fire Dancer asked.
+
+“I'm going to tell you everything, so this seemed like a good way to start.” Ren said. “I'm small enough that I can stand beside your ear all day and keep talking to you if you want.” He smiled. “Well, when you're not busy, I mean.”
+
+“I'm always busy.” Fire Dancer said, and Ren winced.
+
+“I know I have no right to ask this; but, can you try not to lie? It hurts me a lot when you do.”
+
+“Does it?” Fire Dancer asked, and Ren felt her mean streak surface. “Well, then...”
+
+Ren equipped a pair of earmuffs and cut himself off from hearing her words, and he looked at her with a blank face. When she stopped talking and he felt her anger, he took them off.
+
+“What are those?” Fire Dancer asked.
+
+“Noise-cancelling earmuffs.” Ren said. “I made them to use during the fight, in case someone showed up and tried to...” He shook his head. “It doesn't matter. They work. If you start lying just to hurt me, I won't listen to you.”
+
+“I am the Deity of Fire!” Fire Dancer said angrily. “I will lie whenever I want and I forbid you from wearing them!”
+
+“I am your father, and you can't forbid me from doing anything.” Ren said. “You can ask, or request, or even order me... but I am my own person. I decide what I will put up with. You can lie all you want; but, I don't have to listen to it.”
+
+“Get off my shoulder.” Fire Dancer spat.
+
+“Yes, Deity of Fire.” Ren said and took a single step up into the air so that he was no longer on her shoulder.
+
+“That's not what I...” Fire Dancer's anger rose. “Move. Away.”
+
+“Of course.” Ren said and walked 6 steps away from her and stopped.
+
+“I can feel your emotions, Father.” Fire Dancer said. “You are annoying me on purpose!”
+
+“Yes, by following your orders to the letter, I can annoy you quite easily.” Ren said, then he beamed a smile at her. “So, shall we keep talking while you work, or are you going to order me to go away?”
+
+“You test my patience.” Fire Dancer said, then frowned at him. “You want me to order you to do that, don't you?”
+
+“I'm trying my best to show you that you need to be careful what you ask for.” Ren said. “Telling me to get off your shoulder, I could interpret that any number of ways and I picked the most annoying one. When you told me to move away, I could easily have taken my spawn point and left the castle.”
+
+Fire Dancer caught her breath at that, and Ren felt her surprise.
+
+“I'd never do that, and chose to take a few steps away from you.” Ren said. “If you did tell me to go away, I could freely leave the Fire Realm and never return.”
+
+Fire Dancer felt a pang in her heart, and Ren ran forward and touched her cheek.
+
+“I wouldn't have done that, honey.” Ren said reassuringly and kissed her cheek. “I would have left the throne room for only a second and came right back.” He said and rubbed his hands on her skin. “I'm trying to annoy you, not cause you pain.”
+
+Fire Dancer calmed down, then she realized what he was doing and her anger flared. “How dare you touch me!”
+
+“I will not only dare to comfort my daughter when she needs it...” Ren moved his hands away so he was no longer touching her. “...I will defy you to do it.” He kissed her cheek again and walked over to her ear and used his Fire Manipulation ability to move her fiery hair around to make a spot for him to sit down.
+
+“What are you doing?” Fire Dancer asked.
+
+“I can't be on your shoulder, so your hair will have to do.” Ren said and got comfortable. “Plus, I'm closer to your ear now, and I can whisper to you with no chance of you not hearing me.”
+
+Fire Dancer wasn't sure what he could possibly whisper to her, and then he spoke.
+
+“I love you very much.” Ren whispered. “My pride and joy.”
+
+Fire Dancer was about to tell him to be quiet, and he spoke again.
+
+“Your mother would have been very proud of you for keeping her creation alive.” Ren whispered. “You've kept her from fading and leaving the world in darkness, which was her greatest fear.” He said. “If you want, now that you're old enough and we have enough time, I can tell you all about her.”
+
+“I know all about her.” Fire Dancer said, but the annoyance was gone from her voice.
+
+Ren felt her doubt and smiled. “I'll tell you about her from my perspective while you run the realm.” He said. “When I first met your mother, I was in the Dwarven Kingdom back then. It was right after I had maxed my Fire Affinity and gained Immunity...”
+
+With Ren's gentle voice in her ear the entire time, the day passed by quickly. Ruling an entire realm wasn't an easy job, and providing Fire to all the demands that required it was no easy task. She handled it well, since she had been doing it for millennia by this point. When the day came to an end, Ren had given her a perspective on her mother that she had only guessed about. He had also given her his opinions and his emotions at the time, and that was a new experience for her.
+
+Fire Dancer stood up from the throne and waved to the Fire elementals in the throne room to remain. They were still watching the looped footage Ren had provided them and barely noticed her. She thought she would be upset by that; but, she could feel their awe and happiness at seeing actual moving pictures when all they had seen before were time lapsed images through her Viewing Cloud spell. She left the throne room and went to her bedroom, and Ren felt her wariness as she entered the room and sat down on her bed.
+
+“Do you feel up to seeing the first surprise I have for you?” Ren asked as he hopped out of her hair and floated down to his spawn point on his wings.
+
+“I suppose.” Fire Dancer said.
+
+“I hope you like it.” Ren said and went inside the spawn point, then came out with something on his shoulder that wasn't Teepo, who was still on his other shoulder.
+
+“What is that?” Fire Dancer asked and leaned down to get a closer look.
+
+“I'm not a that.” Suniva said and grew twice to be close to Ren's height. “I'm Suniva. A Fire Pixie.”
+
+“A... a Fire pixie.” Fire Dancer said, surprised. “How? How can you be here?”
+
+“Ren helped me train for years so that I could gain max affinity.” Suniva said. “I already had immunity, since Fire is my element; but, I never suspected that I could ever reach such heights that I would get to meet the great Fire Deity in person.” She knelt on one knee like Ren had taught her. “I'm honored and humbled to meet you, Deity of Fire.”
+
+Fire Dancer didn't know what to say. In all the time that she had existed, for thousands of years, the only person she knew who had full Affinity with Fire was her father, Ren. Then she thought about what the Fire Pixie said.
+
+“Did you say you've trained for years?” Fire Dancer asked.
+
+“I did!” Suniva said. “Ren has guided and helped me so much! He even helped me regain my wings!”
+
+“Show me.” Fire Dancer commanded.
+
+Suniva opened her armor and unfolded her wings, then flew up into the air. “I'm normally only 1 foot tall, but Ren said I would be too small for you to see.” She turned around in the air and hovered. “Just a moment... I can... adjust my... flapping to show... got it!”
+
+Suniva changed her wing's movements so that they flickered at a speed that would make them look like they weren't moving at all.
+
+“This took a while to get right, and it makes my wings look like they're just stuck on when I fly.” Suniva said and flew around, and it really did look like she was flying without the aid of wings. “Isn't that neat?”
+
+Fire Dancer watched the pixie fly around for a few moments, then she looked at Ren. He did this for me. She thought and let a small smile appear on her face.
+
+Ren stood in front of his spawn point and had a smile on his face as he watched Suniva and then he felt Fire Dancer's emotions shift to him. He looked at her and saw the small smile, and he beamed a huge smile at her.
+
+“I have another surprise for you, too.” Ren said and went inside the spawn point, then came out with an armored metal woman. “This is Artemis, my ranged combat specialist.”
+
+Fire Dancer's emotions shifted away from amusement and back to consternation. “I know who she is, Father.” She said. “She is your personally-made concubine.”
+
+“She didn't start out that way.” Ren said. “I kept things strictly professional at first, then... well...”
+
+“We spent a lot of time together.” Artemis said. “Just like all good relationships, it takes time to build. It takes time to be comfortable with each other and to learn how to be there for them.”
+
+Fire Dancer frowned. “Yes, it does.” She said. “You've spent all this time with them and not with me.”
+
+Ren felt her emotions shift to anger. “Get inside.” He said, and Suniva and Artemis darted into the spawn point building.
+
+“How dare you bring your sex toy into MY BEDROOM!” Fire Dancer yelled, and the sound reverberated off the walls and shook everything. Her hands formed fists and Ren held his hands up in surrender.
+
+“I wasn't planning on having sex with her right beside your bed, Deity of Fire.” Ren said. “Nor did I bring her here for that purpose.” He said. “I brought her here to meet you.”
+
+“Why? To show off how much more you care about her than me?”
+
+“No, it's because usually she can never be away from me without causing herself extreme pain.” Ren said.
+
+“Oh? And why didn't you bring her here before?”
+
+“The Adventurers I spoke of before? They hurt her, too.” Ren explained. “They broke her link to me, and I need to have her by my side if they fix it.”
+
+“Ha.” Fire Dancer said. “It's a good excuse. You even believe it.”
+
+“It's true.” Teepo said. “My link to him is broken, too.”
+
+“Wh-what?” Fire Dancer blinked her eyes and her anger faded. “What did you say?”
+
+“I can't hear his thoughts or share his feelings anymore.” Teepo said. “It almost cost me his friendship when I misunderstood something and...” Teepo sighed. “We worked it out after a long time. That's what friends do. We have arguments. We make mistakes.”
+
+Fire Dancer didn't say anything in response, but Ren felt her anger waver.
+
+“We also talk about it and discuss things, and we work things out.” Teepo said. “It takes time, and if you'll let us, we'll spend as much time with you as you want.” He chittered in laughter. “In some cases, more than you can stand.”
+
+Fire Dancer smiled.
+
+“Until we can relax around each other long enough to talk without coming to blows, Ren has another surprise to distract you.” Teepo said.
+
+“It's not another sex toy, is it?” Fire Dancer asked, angrily.
+
+Ren sighed. “Teepo...”
+
+“It's something better than that.” Teepo said. “Come on, Ren! Show her!”
+
+“I was going to save this until after we had been here for a while.” Ren said and looked around the room, then pointed. “If my limited plans of the castle are correct, that is an outside wall.”
+
+“It is.” Fire Dancer said. “What are you planning to do?”
+
+“Can you make a doorway there?” Ren asked.
+
+“This is my realm.” Fire Dancer scowled. “I can do anything I want here.”
+
+“My apologies, Deity of Fire. I misspoke.” Ren said and bowed his head. “I said 'can' when I meant 'will'. It's a common Adventurer's mistake.” He said. “Will you make a doorway there?”
+
+Fire Dancer took a breath and let it out, then waved a hand. A doorway formed in the indestructible wall and Ren flew over to it. Teepo told him where to place the 6 inch cube so that it could be enlarged to 10 times its size. When it was activated, it would be in the right spot to be attached to Fire Dancer's bedroom. Ren ran back into the bedroom and stopped just inside the doorway, then activated the modified Instant Tower of Fire.
+
+“Hey, it worked!” Ren said as the tower sprung into place and looked at the distance between the new building and the bedroom. “We were only off by a foot, too!”
+
+“I left that much space so that the battlement walls wouldn't hit the castle when it expanded.” Teepo said.
+
+“Then never mind.” Ren laughed. “It's perfect.”
+
+“What is it?” Fire Dancer asked.
+
+“If you will pull it in the last bit of distance and attach it, it's your new library and dressing room.” Ren said.
+
+“It's my WHAT?” Fire Dancer yelled.
+
+“I figured you might be a little bored and would like something new to look at.” Ren said.
+
+“A library.” Fire Dancer said in a flat tone.
+
+“With thousands of actual books made of parchment!” Ren exclaimed and waved to the room.
+
+“Hold on, why aren't they burning?” Fire Dancer asked, then she gasped. “You didn't!”
+
+“I did!” Ren laughed. “Each and every one of them has been protected with the Indestructible spell!”
+
+“Great Vasalor.” Fire Dancer said in astonishment and walked over to the doorway. She used her Fire Manipulation ability and pulled the tower in close, then attached it to her castle and stepped inside.

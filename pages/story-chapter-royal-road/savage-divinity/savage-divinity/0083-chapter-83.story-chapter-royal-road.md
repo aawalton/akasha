@@ -1,0 +1,121 @@
+---
+id: 9ed782d7-6f1c-5af6-b574-7e05932f6338
+page-type-slug: story-chapter-royal-road
+title: "Chapter 83"
+slug: 0083-chapter-83
+partOf: savage-divinity
+position: 83
+ownLength: 3838
+unit: words
+publishedAt: 2016-06-20
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/77229/chapter-83"
+royalRoadId: "77229"
+---
+
+The tension is palpable for a few seconds as we stand about the small clearing on the hilltop, my heart hammering away in my chest as a bead of sweat forms on my brow. Damn it, why did someone come for that tool, Kai? Please be gentle sister, don't be too uncaring.
+
+Alsantset locks eyes with the Du Min Gyu for a brief moment before speaking, still sitting at her desk. “Brigadier Cho Jin Kai died in battle six days past, a casualty of a newly formed Demon.” Welp, that had all the tact of a fish to the face. Worse, she returns to her work, effectively dismissing the old man from her concerns, speaking as she dips her brush in ink. “Mila, see to it that the Lieutenant General has access to all reports of the battle, and show our visitors where they may set up camp.”
+
+Sumila stands from her makeshift desk, brushing off her hands as Li Song mimics her slightly off to the side, before she gestures for them to follow, but Du Min Gyu stands stock still, unblinking, just staring at Alsantset. The bead of sweat slowly makes its way down the side of my face as the seconds pass, the camp bustling as Soldiers and Sentinels carry out their duties, the sounds of practice weapons striking and distant, jovial conversations filling the silence.
+
+Ignoring everything else, the old man continues to stare at Alsantset, who carries on writing her report as if she didn't have a care in the world and wasn't being stared at by a man who massively outranked her. Wincing inwardly, I ready myself for tempers to explode, for soldiers and escorts alike to begin grasping at weapons, shouting and clamoring for blood. He seems like a level-headed sort, so I can only pray that he won't do anything rash and besides, the Justicar is right there, that has to offer us some amount of safety.
+
+After several dozen hammering heartbeats, my near-panic subsides as it becomes more and more clear that the old man is in shock. My heart begins to ache for the poor soul, and I'd like to offer my condolences, but I don't know how that would be taken. I mean, I offered him a ride on Zabu and that was apparently a faux pas. How is someone supposed to act in this situation? Everyone else just seems to be ignoring him as he remains rooted to the spot, his thoughts and emotions a complete mystery to me. His guards stand stoic, unmoved by the news, their faces stony and unreadable, yet the tension in their bodies is unmistakable; they are ready to fight.
+
+Minutes pass as Alsantset continues with her work, discussing with a few Sentinel leaders, sending them west and south to forage for more food, our supply of grains and vegetables beginning to run low. She calls over the army officers and orders a camp check, a quick walk through to spot any issues, before once again returning to her report. I honestly think that she's just trying to look busy now, mostly because I'm not completely sure what she keeps going back to write. I mean, how much paperwork could she possibly have? The Sentinels don't really seem like the sort to file away requisition orders in triplicate, or whatever it is that armies need to keep track of.
+
+The wind picks up and scatters a number of papers which I instinctively reach for, grabbing them mid-air and running after the pages that escaped me. Catching the last page, I turn around to bring them back to Alsantset and freeze at the scene before me.
+
+Somehow, in the 5 seconds I spent chasing paper, the entire situation has devolved into a hostile standoff, the Lieutenant General's guards all standing with weapons drawn, arranged in a circle around the old man, while the enforcers surround the Justicar in a similar fashion, their heavy, short staves held at the ready, their masked faces hiding all emotion besides determination, staring doggedly at the Lieutenant General.
+
+The wind continues to pick up, whipping around us, seeming to increase in power with each passing moment, whipping past my ears with an almost thunderous noise, drowning out all other sound, throwing up dirt and dust as it circles around our small group, obscuring our vision. My ears feel the pressure mount, as if they are about to pop, and my mouth opens to try to equalize it. The old man's face is twisted in anger, his veins bulging in his neck and forehead, his fists clenched, blood seeping out between his fingers as nature responds to his fury, the winds converging on his position, the dust creating a half-dozen visible trails leading towards him. Alsantset stands firm, her hands pressed against her reports, keeping them in place, her face calm and collected, unperturbed by the display of power.
+
+My clothes begin flapping as the wind rushes past me, almost pushing me towards the old man as I lean back into it, readying myself to draw Peace and charge to defend my sister. Adujan places her hand on me, restraining me with a simple touch, else I would have already charged forward. Around us, outside of the vortex of pressure, the Sentinels stand ready, their bows lifted and arrows pointed, ready to draw and loose at a moments notice should things devolve any further.
+
+Without warning, the howling wind cuts out, the entire area settling down in an instant, and except for the wind-blown hair and ruffled clothes, I would worry that I had imagined it all. Finally, the old man speaks, his voice hoarse and quiet. “If there is even a remote possibility that you savages have caused Kai's death, I will bring death and calamity down upon nine generations of all your families.” Somehow, his voice carries across the hilltop booming despite the low volume, and from the looks of things, the Sentinels around us hear him as well. A few draw their bows back, but stay disciplined enough not to fire. Turning on his heels, he begins moving towards Sumila, following her away and the Justicar moves out as well, his posture unperturbed, his masked face hiding any emotion he may be feeling.
+
+Almost immediately, everything returns to normal around us, Sentinels moving along their daily business, Alsantset sitting back down to resume writing once again, as if nothing out of the ordinary had happened. After pausing for a moment, I walk up to the desk and place the pages back on Alsantset's desk, a small nervous chuckle escaping from my lips. “Well, that went well.”
+
+She ignores me, continuing to scribble away, and I look at what she is writing, her script almost illegible for the last few sentences, her hand quivering, imperceptibly to the eye but easily discerned when looking at the results of her calligraphy. Gently patting her shoulder, I try to offer support, again unsure of what to do. Social nuances are complicated. Looking up, she flashes me a brief smile before putting her brush down, swallowing hard and taking a deep breath, calming herself before she speaks.
+
+“Stay away from that man, Rain. Although the Justicar offers us some protection, if Du Ming Gyu is distraught enough over his disciple, he may just kill us all and damn the consequences. He might even succeed.” Giving Adujan a sideways look, she tells her, “Keep him close, have him study and stay out of trouble. It would be best that Min Gyu not learn that Rain was the cause of our dispute with the Brigadier.” She opens her arms for a hug, and I oblige, patting her on the back as we embrace.
+
+I'm a little miffed at how everyone thinks it's all my fault, I mean, I wasn't alone in that bar fight. It doesn't seem fair, at worst it should really only be half my fault. Opening my mouth to defend myself, I forcefully clamp my lips shut at Alsantset's glare, as if she were daring me to quarrel with her, ready to scold me into submission. Taking the coward's way out, I quietly slink away with Adujan as we head towards our tent to collect my book.
+
+After crawling into our tent, I finally turn to Adujan and ask, “Was that not the craziest thing you have ever seen?”
+
+Startled by my question, Adujan blankly looks at me for a moment, lost in her own thoughts. “It was incredible. He is a man blessed by the Divine Wind, in command of a power that all warriors aspire to.” Her eyes are wide in adoration, and if we were standing, I think she'd be swooning. The man was like a hundred years old, have some dignity. Who knew she would go all fan-girl on him.
+
+“Taduk told me that things like that were possible, but he never showed me or explained just how it was done. You feel like explaining?”
+
+She scoffs at my expectant look. “How the hell am I supposed to know? I don't have a teacher or mentor, all I know is that anyone who can do something like we just saw is a top-tier expert in the Empire. One in tens of millions, Rain, that's how rare someone like that is. I knew he was strong after watching him cross the river, but for him to be so incredible...” A wistful look overtakes her face, as if pining for the old man and I try to ignore the surge of jealousy that flares up within me. The guy is wrinkly and old, and Adujan is just my friend. No need to be jealous. “Ugh, of all the days to promise not to cultivate, witnessing such an amazing display of power and unable to meditate on it. Just imagine if I were able to learn how to do that, or if he were willing to take me as a disciple...” She sits there, her body slack and face full of longing.
+
+“He taught that jackass Kai, who knows how good of a teacher he is.” It's silly being jealous at an old man, over a girl who is just a friend. Still happening though, despite my best efforts.
+
+“He taught a man, who despite massive personal flaws, managed to attain the rank of Brigadier, while still looking young. Among the People, I doubt more than a handful would have been able to match him in single combat, and it's likely that only the Chief Provost could have defeated him with certainty.” Her eyes are shining as she sings praises for our foe. “Just think how amazing it would be to learn under him, a man who can summon the wind with a crook of his finger.”
+
+The thought of being able to do the same sends a wave of motivation through me as I grab my book. I still need to do some reading, but I'm too antsy to sit still at the moment. “You promised not to cultivate, but what about sparring? There's no way I can study now, I need to burn off some of this energy and it sounds like you have plenty to spare.”
+
+Giving me a sly smile, she tilts her head slightly. “Spar with you? I suppose I could, but it would have to be in private. I don't want people whispering that I'm bullying a cripple.” We eagerly head out to find somewhere isolated, both of us unable to remain still, my seemingly ancient dreams of flying through the air, raining fire and lightning down upon my enemies more realistic than ever.
+
+Grabbing a few practice weapons, we ride out towards the southern end of camp, finding a small clearing out-of-the-way across the river, and after some quick warm ups, I stand across from her, my practice sword at the ready, awkwardly held in front of me.
+
+Without any tells, she launches herself forwards, her blunted short-spear whistling towards my neck as I dart aside, letting her weapon slide across mine, forcing it out and away, sending her off-balance. If I had a second hand, this spar would be won with a piercing strike into her kidney, and by the look on her face, she knows it. A smile snakes across my face, and I cannot resist taunting her a little. “Seems like this cripple has the … Upper hand.”
+
+Her groan makes the incoming pain worth it as she redoubles her efforts, showing no mercy to me as she circles to my right, taking advantage of my disability. She prods forward twice with her spear as I set my bearings, my swings too wide and off the mark when fighting backhanded, and she exploits that as well, moving dangerously close to sweep my leg, sending me flying to the dirt, the breath squeezed out from my lungs.
+
+I see spots of black and white, and when my vision clears, Adujan stands above me, her foot pressed against my chest and her spear in my face, a self-satisfied smirk on hers. “And to think, you were moving so well earlier this morning, but I guess things are more difficult when you actually have an opponent.”
+
+Smacking on her boot to move it aside, she plants it firmly against me, refusing to let me up. Childish. Grabbing her foot, I lift my right foot up and snag it inside her vest, launching her backwards as I lift her foot, and she gracefully spins in place, as expected. Still lying on the ground, I bring my left knee up to strike her in the pivoting ankle, tripping her and sending her to the ground with a thud. Scrambling up, I slap her weapon aside and mount her stomach, my knees pressing against her arms and my hand on her throat. “This is great, we're evenly matched now that I only have one arm.”
+
+She responds by posting her hips and throwing me off violently, and our positions are soon reversed, my one arm fully extended and held in a joint lock, while her knee rests heavily against my throat. She holds it there for a few seconds, cutting off the blood to my brain, and then releases it, the resumed flow causing me to go light headed as I gasp for air on my back.
+
+As soon as I can sit up, I notice her giant grin as she squats in front of me, having waited for me to recover. “This is fun, beating you up while you're almost helpless. I could see myself enjoying this quite a bit.” She extends a hand to help me up, but feeling spiteful I pull her off-balance, sending her crashing into me. Rolling about, our spar having descended into a wrestling match, my one arm grasped firmly on her bicep as she squirms about, trying to escape my clutches as I move around her back, wrapping her arm around her neck, holding her in place with my legs around her waist.
+
+Wrestling in the dirt is exhausting, every movement taking more energy than expected, and in minutes, Adujan is feebly struggling, her strength spent fighting against my weight advantage, and she taps my arm repeatedly. Letting go, I lean back, gasping for air, having held my breath for a good amount of time during that fight. She rests her head against my shoulder, her chest heaving, her face crimson with exhaustion as she sits between my legs, the two of us panting as we catch our breath.
+
+Now that the adrenaline has worn off and our competition at a standstill, I realize that the two of us make for a compromising display, sitting together, limbs entwined and bodies sweaty. If we had sparred like this in the open field, I think Alsantset would have me kneeling in front of her while she scolded me about decorum and propriety. The only reason she never lectured me about Mei Lin was because it was obvious that the little rabbit girl initiated all of our physical contact.
+
+As if she can sense me thinking of another woman, Adujan elbows me in the gut and I double up in pain, now my head leaning on her shoulder. Leaving me to gasp, she gets up and retrieves our weapons, tossing my sword at my feet. “Again.” Her mouth is set in a pout, evidently unhappy at her loss. Prideful little Adujan, can't stand getting beat by a cripple, even if it was only because she was fooling around too much.
+
+Chuckling at the absurdity of it all, I pick up my sword and stand gingerly. “No more wrestling.” Nodding at me in agreement, we begin sparring once again, this time properly. We spar and rest, chatting about how the other can improve, noting flaws and strengths as we catch our breath, before standing once again to start over.
+
+We spar until lunch, and after a hot meal, I spend the rest of the day studying the book that Tokta gave me, a dry read, working to memorize the text and diagrams through repetition. After dinner, I head to the Healer's tent, and as soon as I step in, Tokta puts me to work, grinding herbs and making unguents while he quizzes me on my knowledge, not only from the book, but basics in healing. He seems to be gauging just how much I know, but I can't tell if he's impressed or disappointed, his tone never changes. If it weren't for the fact that he spent long minutes correcting me, I wouldn't even know if I was right.
+
+As the night winds down, I take advantage of a pause in the questions to ask one of my own. “If I cut off my finger, can I just reattach it, rather than regrow it?”
+
+At my question, he turns towards me, fixing me with his stare, eyes narrowed as he studies my face. I try to weather his gaze, but I cannot help but shrink back underneath his attentions. After what feels like an eternity, he sighs and motions for me to sit at his desk with him. He speaks in a quiet tone, all of his attention on me, different from his usual dismissive attitude. “You can, but only if it is your finger. You have more questions. Ask them.”
+
+Given permission, I perk up and ask, “Why must it be my finger? What if I were to take someone else's finger and attach it?” Or, you know, a bears arm.
+
+“You would die.” His hushed voice takes me off guard and I lean in to listen carefully. “If the blood is incompatible, any transplant will be rejected and allowed to rot, killing you from within as the body attempts to destroy all traces of foreign blood. If it is compatible, the next time you attempt to meditate, the Energy of the Heavens will reject you, burning away the grafted finger and killing you in the process.”
+
+There goes my dream of bear arms. “Why?”
+
+He simply shrugs at my query, unsure of the answer himself. “That is the way of the world. There are limits that have been imposed upon us by the Mother, and we work within them. Abandon your thoughts of experimentation and learn the proper methods.”
+
+“What about improvements? If I need to know all this knowledge to regrow my arm, then it stands to reason that I could make changes, like thicker bones or denser muscles.”
+
+“Not possible. You require the knowledge in order to direct you chi into growing the arm correctly. The body understands how the arm should be, the plans already laid out, but it simply cannot regrow it without you directing it, supplying it with the proper materials. Deviations from those plans results in growing a formless lump of bundled nerves and muscles, so any mistake you make will have you screaming in agony, unable to focus on anything else. Feel free to try, but you will only make more work for me, having to remove your attempts at experimentation, and I will warn you now: The pain will linger.”
+
+Dejected, I ask one last question. “What about modifying my body as is, like making myself stronger? Taduk told me it can't be done, but never explained why.”
+
+This elicits a surprised reaction for Tokta, and he quickly asks, “Have you ever tried to do anything like that?”
+
+“Um, yes, but nothing happens.” My face reddens, hoping he doesn't ask what I tried. It sucks being short.
+
+“Stop trying, it will not end well. I cannot believe that Taduk has given you so much free rein.” Taking a deep breath, he launches into a story. “The history of the Empire is long and you are not the first to think of these questions. Most recently, almost 800 years ago, the scholar Zhen Shi theorized that the process of a Defiled turning into a Demon could be replicated with Chi, and spent decades conducting experiments attempting to improve the human body.”
+
+He pauses for a moment, lost in his own thoughts. When he speaks, his voice is haunted, resigned. “He killed hundreds of thousands of people in the process, documenting every failure in great detail, proving that if nothing else, it is an impossibility. The man was brilliant and driven, but a monster in human skin, testing on human and beast alike, each experiment ending in the pain and suffering of his subjects, his methods becoming more drastic and cruel as time wore on. In the end, the Empire caught wind of his experiments and sent warriors to stop him, but they were unable to ever bring him to justice. Zhen Shi escaped, and likely carried on his experiments until he died.”
+
+After a long pause, his eyes refocus on me, his hand grasping my shoulder tightly. “Abandon your thoughts of modifying your body. Learn to heal properly, you have a quick mind and some talent, do not squander it chasing a fruitless dream.” After dismissing me, he leans back in his chair, looking more tired than ever, his eyes haunted at the memories. Slipping out, I wander back to my tent slowly, thinking things through.
+
+Something that Tokta said resonates in my mind, that my body knows how things should be, has a plan, in which case, why wouldn't it be able to regrow my arm on it's own, with just normal healing? It doesn't make sense that I have to direct it, but I'll keep studying, learning the 'proper' way to heal. Once I've learned that, then I can figure out how to improve it.
+
+Having received more questions than answers, I lay awake in my tent, staring up in the darkness, one question in particular continually circling my head.
+
+I wonder if I can find a copy of those notes. While the methods of gathering the information were monstrous, to not use the information would be foolish.
+
+At worst, it'll let me know what not to try.
+
+Chapter Meme

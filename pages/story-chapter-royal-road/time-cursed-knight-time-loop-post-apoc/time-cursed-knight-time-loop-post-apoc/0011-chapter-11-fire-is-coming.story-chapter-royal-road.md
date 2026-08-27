@@ -1,0 +1,295 @@
+---
+id: e67ec14d-953f-5890-8dda-8a2801db7894
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11: Fire is Coming"
+slug: 0011-chapter-11-fire-is-coming
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 11
+ownLength: 2332
+unit: words
+publishedAt: 2026-04-11
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3261314/chapter-11-fire-is-coming"
+royalRoadId: "3261314"
+---
+
+They weren't dead.
+
+For a heartbeat after I hit the stone, I stood there swaying. One hand clamped over the gash in my abdomen, the other still gripping my sword's hilt.
+
+Some of the soldiers lay sprawled where they'd fallen, armor clanging as they twitched and tried to remember how to breathe. One mage rolled onto his side and retched onto the stone, shoulders heaving like he was trying to vomit up the terror itself. Another sat upright with wide eyes and shook so hard his teeth clicked audibly.
+
+The smell hit me next.
+
+Urine.
+
+Fear, made physical. For a grim second I felt almost grateful for it.
+
+It meant they were alive enough to feel something.
+
+Others recovered faster. Their bodies snapping back into action, muscle memory overriding panic. A handful of soldiers surged upright, scooping up the staves they'd dropped when they were lifted. Their gauntlets tightened on wood and metal, and the crystals atop the staves flared to life.
+
+Spells were cast almost immediately.
+
+Bolts of light snapped through the air. A shard of ice the size of a spearhead condensed in midair and launched forward like an arrow. A sheet of flame roared outward, not wild like the wyverns' breath, controlled.
+
+Even the Six-Circle mage found his footing.
+
+He staggered once, hand briefly going to his throat as if still feeling the invisible grip, then straightened with a fury that made his face look carved from stone. Six rings ignited around his forearm. He didn't waste time shouting orders or performing for his audience anymore.
+
+He simply cast.
+
+One spell after another, each launched with bliding speed. Trying to erase his humiliation with power.
+
+Lightning, ice, fire. Everything slammed into the three red-scaled wyverns.
+
+For a moment, just a moment, it looked like it might work.
+
+Ice spears shattered scales on impact and burst into glittering clouds. Lightning wrapped around massive bodies in branching veins of light. Flames washed over red armor and turned the smoke golden.
+
+I felt hope surge in my chest.
+
+Maybe this was the point where the loop finally broke. Maybe freeing them had mattered more than anything I'd done before. Maybe this was what I'd been missing, the moment the people with power actually fought.
+
+Still, the wyverns responded. Not like beasts, like war veterans.
+
+One of the red wyverns tilted its head as an ice lance streaked toward its eye. It didn't flinch. It exhaled a short, precise burst of fire. The ice met flame and vanished in a violent hiss of steam.
+
+Another wyvern took a lightning strike full across the chest. The bolt spiderwebbed over its scales, crawling along the ridges.
+
+The creature didn't scream.
+
+Its scales held.
+
+A third spell. A concentrated beam, bright enough to make my eyes water, cut toward the wyvern's throat. The red-scaled monster moved with casual economy. It shifted its shoulder, bringing a forelimb up at the last instant, and the beam struck scale and slid aside as if deflected by steel.
+
+Every attack met an answer.
+
+If ice came, fire met it.
+
+If lightning came, scales endured it.
+
+If flame came, the wyvern's own heat swallowed it, turning the air into a rippling mirage without leaving a mark.
+
+When spells couldn't be countered, they were simply ignored.
+
+The difference in power became obvious.
+
+It was the worst possible outcome for me.
+
+I could feel the blood still running, getting colder as it soaked deeper into my robe and clung to my skin. My vision had started to soften, as if the world were being rubbed away with an invisible thumb.
+
+If I passed out here, I would die. Trampled, burned, eaten. Pick one.
+
+Or worse… I might not die quickly. I might survive, wake later, and find that whatever chance I had of reaching one of these draconic creatures while it was still alive had already been erased by the battle's outcome.
+
+Yet, this battlefield was far beyond anything I could influence.
+
+It felt like a war between gods, and I was nothing but an ant trying not to be crushed under someone else's foot.
+
+Still… even an ant can bite.
+
+It just needs to bite the right place.
+
+I tightened my hand over the wound, feeling blood slip between my fingers, and forced myself to stay upright. My sword was still in my other hand. I scanned frantically for an opening, any moment where I could do something small that mattered.
+
+"V formation!"
+
+Every spellcaster's attention snapped toward the Six-Circle mage.
+
+For a heartbeat, I felt something dangerously close to relief.
+
+At least he hasn't broken, I thought bitterly. At least he's still fighting.
+
+The mages around him shifted immediately, forming a wedge. Two lines angling back from the central point like a spear tip aimed at the three red wyverns. Each mage raised their hands in a different posture, each gathering a different kind of power, but all of it directed forward into the same killing space.
+
+The Six-Circle mage barked another order.
+
+"Forget elemental spells. Full focus on physical power."
+
+I saw the strategy change in real time.
+
+The clean, beautiful displays of fire and lightning fell away. In their place came heavier magic, uglier magic, force and mass and impact.
+
+Boulders tore free from the cavern floor as if the stone itself had been ripped open. Jagged slabs of metal formed in midair and launched forward like thrown axes. Dense projectiles hammered into the red-scaled bodies with the sound of a siege engine striking a wall.
+
+"Soldiers around the formation," the mage commanded. "Create blocks. Barriers."
+
+The soldiers, at least those who hadn't frozen in terror, moved. They slammed their staves onto the ground and the stone responded.
+
+Walls rose in grinding bursts. Thick slabs of earth and rock pushing upward between the wyverns and the casters, trying to buy distance, trying to carve the battlefield into manageable lanes.
+
+"Humans… this is why you stand on the verge of extinction."
+
+The voice returned inside my skull.
+
+Extinction?
+
+The concept was too large to fit into my mind. I'd been thinking about surviving the next ten seconds, the next loop, the next gate opening. This creature spoke as if humanity itself was already a fading species.
+
+The voice continued, carrying the calm arrogance of something that had watched empires rise and rot.
+
+"For seven hundred years you've had access to magic, and still you wield it so crudely. So barbarically."
+
+I watched the "physical" spells slam against red scales and do almost nothing. Watched the wyverns answer with tiny, efficient counters, a shift of wing that deflected a metal spear, scales that simply endured their impact.
+
+The voice almost seemed amused.
+
+"You abandoned your little bits of metal to cling to magic, and yet you barely understand the reality you live in."
+
+I looked at the three red wyverns and felt the difference in them the way you feel the difference between a candle and a furnace.
+
+They weren't fighting like animals or soldiers.
+
+They were simply judging us. Our spells, our formations, our frantic improvisation. It was as if we were children swinging sticks and calling it war.
+
+The worst part was the expression in the other two wyverns' eyes.
+
+Something between pity and disgust.
+
+Like we weren't enemies worth hating.
+
+The moment the voice in my head fell silent, the wyvern's tail moved.
+
+I didn't see it. One heartbeat it was coiled behind the red-scaled monster, the next it was a blur that cracked through the air like a whip. The sound arrived a fraction of a second later. A violent boom that punched my ears and rattled the stone under my boots.
+
+The walls the soldiers had raised simply ceased to exist. They exploded into a storm of shattered rock, fragments spraying outward in a cloud of dust and grit.
+
+The soldiers behind those walls, they were cut apart as if the tail had been a blade.
+
+Bodies split in the middle. Armor sheared open. I could only stare, mouth open, tasting iron and ash, watching pieces of men fall in different directions.
+
+"My God—!"
+
+A scream tore across the chaos.
+
+"Argh!" Another screamed right after.
+
+I blinked hard, trying to force my eyes to focus.
+
+The mages farther back, those who had been chanting and casting a moment ago, lost their minds.
+
+Two of them turned and ran. Not a tactical retreat or repositioning. A desperate run to put distance between themselves and the monsters.
+
+Three others collapsed where they stood. Their legs trembled so violently they couldn't hold them.
+
+Only two mages remained upright. Yet, they didn't look much better.
+
+I kept my gaze locked on one point: the middle wyvern.
+
+The central red-scaled monster.
+
+I watched every tiny movement. The slow shift of its weight, the angle of its head, the way its wings flexed.
+
+I was so focused I didn't notice at first that the Six-Circle mage was preparing something.
+
+Mana swelled around him. The six rings around his arm began to spin faster, faster, their glow sharpening until it felt like it could cut. Even from where I stood, I felt it in my skin: that static-crawl sensation everywhere at once.
+
+His voice rose above the battlefield.
+
+"Destruction Tentacles."
+
+In front of him, the ground blackened. As if light itself had been drained from the stone. The darkness bulged upward and broke open.
+
+Tendrils emerged.
+
+They weren't made of flesh, and they weren't made of shadow in any normal sense. They were strands of pure dark. Dragging themselves across the ground with a wet, hungry motion that made my skin crawl. They slithered forward like living ink, reaching toward the three red-scaled wyverns with patient inevitability.
+
+For an instant, I thought they would bind them. That they would wrap around legs and wings and pull the monsters down.
+
+But when the first tendril reached the nearest draconian and "caught" its limb, it didn't latch on the way a rope would.
+
+It passed straight through the scales.
+
+Like the wyvern was a statue and the darkness was smoke. Except the smoke left a mark.
+
+Where the tendril slid through, the red scales dulled. Hairline cracks spread outward like spiderwebs, and then flakes began to peel away, crumbling as if the scales had suddenly aged a hundred years in a second.
+
+The wyvern's forelimb twitched, not in panic, but in surprise.
+
+Another tendril dragged through its leg.
+
+More decay followed. The armor of its body didn't bleed, but it rotted. The joints stiffened. The scale plates warped and cracked.
+
+All three wyverns were touched now, one after another, the tentacles threading through them like needles through cloth.
+
+I stood there trembling, watching the draconians' limbs begin to fail under a merciless corrosion. For the first time since the gate opened, I felt a crack appear in the impossible wall of their power.
+
+For a heartbeat, I believed we might actually hold them.
+
+Hope is a stupid thing. It flares up in you even when your body is bleeding out.
+
+That was until the wyvern hissed. The draconic flame licked across the darkness, and the tentacles unraveled like burnt thread. They didn't resist. They didn't even scream. They simply came apart.
+
+A voice slid into my mind once more.
+
+"Draconic fire is far superior even to this kind of black magic, mage. If you had known that, you wouldn't have lost all your allies."
+
+Before the Six-Circle mage could answer, before he could even draw a proper breath, the lead wyvern sprang.
+
+The ground trembled under the force of it. A blur of red scales and immense muscle launched forward, jaws opening wide enough to swallow a man whole.
+
+It was going to bite him in half.
+
+Yet, I had been watching since the beginning.
+
+Even with blood running down my hands, even with my vision pulsing, I knew the timing. I knew their movements. I remember each and every muscle they use when opening its mouth. I knew when the throat would draw breath. I knew where the soft flesh lived.
+
+I knew what I needed.
+
+Draconic blood.
+
+I moved before my body could argue.
+
+With my sword held low, I hurled myself in front of the mage.
+
+Not to protect him.
+
+To take my chance.
+
+The mouth filled my entire world. Teeth like hooked walls, saliva stretching in strings, and deeper inside, the slick tongue and the pale bulges tucked along the sides of the mouth.
+
+I didn't aim for the scales or the sacs.
+
+I slipped between the teeth, close enough that one wrong inch would have split me open, and drove the blade upward.
+
+Steel punched into the roof of the wyvern's mouth with a wet, brutal give.
+
+Hot blood exploded over me.
+
+Not human-warm. Not merely hot. Scalding. It drenched my face, my chest, my hands. The metallic stench filled my nose so completely it drowned out smoke. For a single, impossible instant, I felt triumph so sharp it almost made me laugh.
+
+The wyvern's pain was not a scream.
+
+It was a guttural roar of pure hatred, a sound so deep it felt like it could rip my soul out.
+
+But I didn't look away.
+
+My eyes locked past the blood, past the teeth, down into the creature's throat.
+
+I watched the darkness there begin to glow.
+
+A faint light at first. Then brighter, climbing upward. The glow intensified until I could see the flame itself gathering deep inside, coiling in its chest, racing toward its mouth.
+
+Fire is coming.
+
+I had time to understand it.
+
+I didn't have time to fear it.
+
+This was one of the only deaths where I didn't even reach pain.
+
+The draconic flame surged.
+
+It didn't wash over me like ordinary fire.
+
+It passed straight through me. Through skin, through bone, through everything. I was carbonized almost instantly, my senses snuffed out so fast the world didn't have time to become agony.
+
+[Draconian Blood Obtained]
+
+[Mana Absorbed]
+
+[Grimoire Unlocked]
+
+[Initiating Curse]
+
+[Restarting Day]

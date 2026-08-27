@@ -1,0 +1,199 @@
+---
+id: 5435bb75-2b5f-5701-bbad-18e1c18ea0d2
+page-type-slug: story-chapter-royal-road
+title: "15 - Healers Bargain"
+slug: 0015-15-healers-bargain
+partOf: rise-of-the-dragon-queen-evolutionprogression
+position: 15
+ownLength: 1853
+unit: words
+publishedAt: 2025-10-07
+link: "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2658469/15-healers-bargain"
+royalRoadId: "2658469"
+---
+
+The healer's den was mystical and cool. It wasn't your typical doctor's office, but instead a big white tent full of plants and glowing jars.
+
+“Welcome, thank you for your appointment. My name is Jessie. How can I help you?”
+
+Jessie wore dark blue robes that were tied at her waist with a brown strap. She had dark, caramel skin and beautiful golden eyes. Stella had never seen someone with eyes such a color.
+
+I guess that's why no one freaks when they see my blue hair. People in this world can look like anything.
+
+“I am Michael Fritz, and this is my student, Stella…?”
+
+“Algos.”
+
+“We came to get this healing ointment appraised and approved. Others told me you were a court-approved healer. Is that correct?”
+
+She dipped her head and then showed a small, silver card that was stamped with a lion's head. It seemed to be significant as Michael’s eyes widened.
+
+“I'm a royal certified healer. I traveled to this town looking for work, and it seems I'm lucky to find some; not many go through the proper processes.”
+
+“Well, to be honest, I was also hoping to sell some of my product, which is part of the reason I need it approved.”
+
+“And with good reason, there's a guild here that seems quite particular about who sells in this area.”
+
+She took the jar of ointment and then covered her left hand over the lid. Her hand glowed with a faint, green light, and the jar itself became infused with that light. Stella was so mystified she didn't notice Michael's reaction until he was sweating bullets.
+
+“What's wrong?” She asked urgently, touching his shoulder.
+
+“Mana, I-I’m not a mage, so—” He cut off, sighing heavily as Jessie stopped whatever she was doing to the jar.
+
+“Mana sickness. I apologize, but I promise you will recover quickly. Here, have some water.”
+
+She produced some by simply gathering it from the air and placing it in a nearby clay cup. Michael drank it and then took a seat on the rugs lining the bottom of the tent.
+
+“What is mana sickness?” Stella asked, crouching to rub Michael’s back.
+
+Jessie set the jar down near Stella and then knelt near Michael and began to cast her glowing light on his forehead.
+
+“It's caused by mana converging in one location. Those without sufficient systems to process mana themselves don't handle it very well. There, he should be better now.”
+
+Michael nodded, rubbing some sweat from his forehead. Stella jerked away from his sweaty body, realizing how stinky he'd become.
+
+“Thanks,” he sighed.
+
+“As for the ointment, it's much too powerful to administer to anyone without diluting it first. I suggest adding a teaspoon to some water and only allowing the person in question that single cup per day. I would applaud you for what you've done, if it wasn't entirely illegal…”
+
+Michael and Stella exchanged shocked looks.
+
+“So tell me, how did you acquire scales belonging to a queen dragon?”
+
+Michael gave Stella a worried look, clearly seeking an answer.
+
+I can't tell them I am one… But maybe Jessie isn't as wholesome as she looks. That expression doesn't look like it's from someone desperate to bring justice to criminals. It looks more like greed.
+
+“You can have some, if you agree to keep this quiet and approve our ointment like we wanted.”
+
+Stella's words made both Michael and Jessie jerk backward. She'd spoken it cleanly, not caring who might overhear. Even after Michael began to sputter, Stella kept her eyes fixated on Jessie's.
+
+“That's what you really want, right? A healing item so valuable it doesn't exist.”
+
+Jessie chuckled and then leaned back, relaxing her stance. The tension in the air still crackled, but it was evident by the healer's body language that she had relaxed somewhat.
+
+“What you're talking about would be even more illegal. Alpha Dragons were eradicated by the king and all of their body parts aren't allowed as ingredients. Ignoring the fact that it means someone is trafficking an intelligent creature, their body parts also contain excessive amounts of mana. A healer certified by the Royal Council can't just accept bribes!”
+
+“But?”
+
+“But, I don't care. The real reason I'm out here doesn't have anything to do with looking for work. So give me the scales and I'll let you go, otherwise, I'll take you in right now and get paid handsomely.”
+
+Stella rolled her eyes at the threat and elbowed Michael. Michael produced the remaining dragon scales hidden in a pouch, and Jessie snatched said pouch like it was made of gold. She peeked inside and stared for an absurdly long time before reaching into her pocket and pulling out a metal ink pen.
+
+She wrote up a document approving the ointment. And it listed all ingredients (even though they'd never told her). The only ingredient it didn't touch on were the scales.
+
+“A signed document claiming your ointment is safe and your ability as an alchemist is stable. I also wrote down the dosage. I have all documents magically copied, so if this ever comes back to bite me, it will be on you.”
+
+Michael nodded, thanking her repeatedly.
+
+“And one more thing. If you find the queen dragon, tell her to run.”
+
+“Why? From what?” Stella asked.
+
+“The mana in this area is high. Something is going to happen here and it will definitely draw the attention of knights and royal personnel. If it's the dragon's presence herself, then I doubt she'll need much help. But if it's something else, I'm guessing it's not a consequence that she is here at the same time. Someone may be tracking her.”
+
+Stella wanted to blurt out questions, but it wasn't like they'd easily be answered. But there was one question she hoped could be answered.
+
+“Where is the mana converging exactly?”
+
+Jessie shrugged.
+
+“That's the mystery, but I'm sure the result will affect this town. Watch yourself.”
+
+Stella could see that Jessie was staring at her with eyes that seemed way more perceptive than she was comfortable with. Had she already connected the dots?
+
+Stella ducked out of the tent, dragging Michael by the back of the shirt as she went.
+
+“Hey!”
+
+They now had what they needed; they could finally offer the ointment to the old farmer and rescue his wife. With something this potent, if they diluted it as instructed, they could have it last for months.
+
+Maybe this is something I want to do as well, heal people. I guess, healing, fighting, and selling goods all have their perks.
+
+***
+
+The farmer refused to open the door. Peeking out a window, he demanded that Michael and Stella exit the premises.
+
+“But we have this really cool ointment!” Stella hollered.
+
+“It was certified by a royal healer, sir. We have the documents right here.”
+
+The old man's eyes widened when Michael held up the documents, but even still, he closed the curtains and yelled at them again.
+
+Does this guy not listen to reason? Stella grumbled internally.
+
+Michael handed the jar of ointment to Stella and then abruptly turned away, leaving pointedly.
+
+“He doesn't trust me, Stella. See if you can reason with him.”
+
+She nodded, watching him go before knocking on the door.
+
+“He's gone, mister… Old man? I'm sorry I forgot your name.”
+
+[Silver tongue is now level 3.]
+
+“It's Timmy! Timmy Jenkins!”
+
+“Alright, sorry… Timmy, can you please let me in? I think this ointment could help your wife.”
+
+“That's what they all say!”
+
+There was a moment of silence before the door creaked open and Stella carefully stepped inside. The home was dark, smelling of sickness and mint leaves. It looked like your average home, except nothing was painted, and many things looked worn, rusted, or faded.
+
+Timmy stepped back, balancing on a cane and looking quite shaken. His eyes were red around the edges as he met Stella's gaze, evidence of his upset.
+
+“I know the other things didn't work, and you're afraid, Timmy. But this is her best chance, it's made with incredibly rare ingredients.”
+
+“And why would you do this for me and my wife? I don't get how you people keep—”
+
+“Because it's in my nature. Now, can you get me a cup of water? This needs to be diluted.”
+
+Stella followed the document's instructions to a ‘T’. The result was some milky water that smelled like ass, but Stella hoped it would taste better than it smelled. She was guided into the private room where Timmy's wife was sleeping.
+
+She looked so pale and sunken, like she was melting into the sheets. Stella gave her a drink, tilting her head forward and letting it go in slowly so she wouldn't breathe it in or choke.
+
+In the end, no chance occurred. Stella felt a wave of disappointment and set the cup next to the woman's bedside.
+
+“We have to give it time. I'll come back tomorrow, okay?”
+
+Timmy nodded, and Stella left. There was no telling if the ointment would work on whatever illness his wife had. But Stella hoped it would blow it away entirely.
+
+***
+
+“Is there a reason you're putting flowers on my stand?” Michael wondered.
+
+“To make it look more healer-ee.”
+
+“What is that supposed to mean?”
+
+“It adds atmosphere. Maybe we could wear robes as well, like that healer.”
+
+“That sounds like impersonation.”
+
+“Hm… Maybe?”
+
+“Just get down from there, people will be scared if they see someone climbing all over the place like a monkey.”
+
+“You know what a monkey is?” Stella asked, dropping down.
+
+“Of course, I went to school.”
+
+“They have school in this world? Well, that's good.”
+
+Michael raised a brow.
+
+“You are certainly strange, Stella.”
+
+They made up some diluted batches of the ointment, doing well with their sales though not as well as they had done with the healing potions. The rest of the day went normally, Stella returning to her home in the woods after a few hours.
+
+There, she did some physical therapy in a lake she discovered, stretching her tattered wings out and then pulling them back in. It did little to ease her pain, but she felt her movements becoming easier, her muscles responding quicker with each action.
+
+A night passed, and the next morning Stella returned, alone, to Timmy Jenkins' home. When she knocked, there was no answer, so she waited. But after ten minutes, she grew worried and tried opening the door.
+
+It creaked open and silence met her even when she called a greeting. She wandered through the house, finding her way back to the room where his wife was. When she opened the door, she was shocked to find Timmy there, sitting near his wife and clutching her hand.
+
+He was asleep, his eyes teary and puffy. Nervously, Stella's eyes tracked down to the bed. What had been there before had been replaced. Instead of grey and pale, his wife looked normal, even healthy. They were both asleep, so Stella didn't disturb them.
+
+She left the cup of diluted medicine and left, satisfied.
+
+Thankfully, the medicine works!

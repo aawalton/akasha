@@ -1,0 +1,331 @@
+---
+id: 45d86690-bd38-5f8e-82e0-e70540af6156
+page-type-slug: story-chapter-royal-road
+title: "162: Ya need a Yattina"
+slug: 0181-162-ya-need-a-yattina
+partOf: there-is-no-epic-loot-here-only-puns
+position: 181
+ownLength: 3961
+unit: words
+publishedAt: 2022-08-18
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/974535/162-ya-need-a-yattina"
+royalRoadId: "974535"
+---
+
+A slight excitement tinged the air inside the large gray building and loose cloth, which contained around forty people. The portable construction was only allowed when Fairplay could prove that it was a ‘camping’ facility and not a permanent fixture of the land. A little loophole that allowed the company to actually set up beds, infirmaries and places to relax in the most unkind of frontiers. It went a long way to ease the burdens on their body and mind.
+
+The only downside was they had to build it on the other side of the village; either side of Durence seemed to give rise to treacherous hills covered in trees, and beyond the Dungeon was an even bigger mountain that fresh water bubbled down from. The walk to the Dungeon could either be a few minutes or an hour depending on the mood of the villagers.
+
+The number of ‘surprise’ markets that sprung up or streets appearing and disappearing on known paths was becoming a bit alarming.
+
+The meeting had been called as a matter of protocol. Many scout leaders, warriors, and others weren’t happy to be here, but they knew better than to argue with the person arriving through the portal soon…
+
+The only one who had no issues with the portal.
+
+In the middle of the room, two tables stood side by side. On the left was a mostly filled-in map with flags and markers pointing to different symbols on it. The second table had a mostly empty piece with only stairs and trees visible.
+
+All noise ceased when someone walked into the room, chewing on a pen and looking perky. In one hand, she carried a glowing orb that could be mistaken for a Dungeon Core. The newcomer was speaking into it as she walked.
+
+“This begins the first weekly meeting of the Durence Dungeon expedition. For official records, this is the 44th Dungeon the company has tackled,” said a lead figure who stepped between the two maps. Her white uniform denoted three fingers on her badge, but unlike most others of her rank, she remained a healthy color and seemed upbeat. She was still speaking into the orb.
+
+“For recording purposes to be sent back to HQ, this is Yattina Halenuo Congord Flimina of Research Squad 5! For ease of listening, I will be responding to Doc Yat for short. This is either an endearing name the fieldworkers have given me, or perhaps an insult; I am not too sure yet!” she said into a glowing sphere that seemed to be buzzing each time she spoke.
+
+She paced around the table as a few men met her gaze and a few of them avoided it, perhaps because of how intense her gaze was, unashamed as her curiosity burned.
+
+Yattina didn’t mind, she was used to people avoiding her. It did make her unsure of how to eat around others, since she never had people to have lunch with.
+
+“For posterity and to answer why everyone is here, I shall give a short reminder of what the Research Department does in Fairplay,” she began, and there were more than a few groans, which she heartily ignored.
+
+A good dose of education should always be welcomed!
+
+“Each of the five departments of Fairplay perform a unique function for the overall performance of the company. Scouts are our first heroes into the unknown and the most at risk; through their efforts, the Blades can encroach into a Dungeon with more knowledge,” Yattina went on as more than a few people nodded at the few scouts in attendance.
+
+“Once the Blades have gained a hold of the Dungeon’s behaviors and routines, the Research team steps in to assess what the Dungeon does and produces in order to help the local economy survive and adapt to the new environment. This leads into what the Dungeon might become and how best to manage it,” she said before looking around with an encouraging smile. She got a few grimaces back. They’d appreciate this one day… soon.
+
+Hopefully.
+
+“The fourth department, the Mentors, won’t be present until we have a hand on the Dungeon as they are established to make Dungeon adventuring as smooth as possible for those seeking a yet higher challenge to improve their cores. They also handle the business ventures that keep us all afloat and with fresh bread in our bellies,” Yattina brushed her blond hair back and adjusted her glass eye for a moment.
+
+“The last department is the Seasons. I shan’t need to describe them much. These are our heroes, our elite. If any other department struggles, they will step in to provide aid. They are powerful, resourceful, frighteningly smart or savvy-” Yattina admitted as someone cleared their throat.
+
+“And hot as hell,” they shouted, getting a few laughs.
+
+“Yes, yes… the Maidens of Seasons have been known to be pleasing to the eye as well. Their knights are no slouches either,” Yattina sighed to the various jostling and jeering. She had met one or two of the Seasons before.
+
+The term ‘in a different world’ seemed to aptly describe them. They weren’t rude or cruel… but they didn’t seem to move in the same way as people did. No hesitation, no doubt. No thoughts of could be or might be.
+
+They were quite rightly named forces of nature.
+
+“This Dungeon is not normal.” Yattina said flatly, pushing past more comments on the Seasons’ appearances. Her tone contained a reprimand, and all joking stopped abruptly.
+
+“Dungeon biology and methodology are education courses unto themselves, and I won’t go into them other than to outline where this Dungeon deviates,” Yattina said as she brushed a hand along the wooden table which the maps rested upon.
+
+“Dungeons consume Mana and matter outside their domain to increase their own. This would make them parasitic in nature if not for the fact that they strengthen the world around them with infused Dungeon Mana. Allowing life to form more easily, the land to become more stable, and even smaller positive benefits I could list,” Yattina said, and she was a little annoyed that more than a few of the attendees at this little progress meeting seemed unaware of that factoid.
+
+When would they stop enlisting outside help without a mandatory education introductory course?
+
+“Like the rings of a tree, a Dungeon can be measured by how many floors it has obtained. Each floor costs the Dungeon more and more resources to produce. It’s not uncommon for new Dungeons to struggle to break through 5 floors if they are formed in a remote area. The highest recorded floors produced by a Dungeon in the world used to be, according to records, a massive subterranean cavern in the world which abruptly collapsed itself. This hole was later the perfect place for the World Tree to grow,” Yattina hummed and blinked as a gangly teen with an unfortunate nose that squinted one way raised their hands to ask a question.
+
+Yattina could offer to re-break and set it? Would that endear her to the boy?
+
+“Yes?” she asked the uncertain lad.
+
+“How many floors did it have? What was its name?” he asked, finding his voice towards the end. Yattina liked inquisitive minds. Not many were found in the Scouts or the Blades due to their incessant need to mangle their own souls for cheap power.
+
+After all, books had more power than all the weapons in the world! They cured Yattina’s desire to throw herself off the nearest cliff in her younger years.
+
+“A thousand floors, if you could imagine it,” she said wistfully, getting a sharp intake of breath from the gathered people.
+
+“If we’ve translated it right, and you must understand that our older languages were still massively divided, unlike today in which we have East, Common, and West tongues, then the name of the Dungeon could be read one way as ‘The King of the World,’” Yattina said slowly, trying to dredge up old memories of studying.
+
+It had been some of the best years of her life.
+
+“However, due to mistranslations and a missing use of grammar, another translation could be closer to ‘The Brother’s Path,’” she said patiently.
+
+There was silence at this.
+
+She looked around, surprised.
+
+“What, did no one know that one of the two creators of our world was the original Dungeon Core before all others?” she asked exasperated. How did they think monsters came to roam the world?
+
+Happy little accidents?
+
+“…Are we Dungeon mobs?” asked one of the Blades, in existential dread.
+
+Yattina pursed her lips.
+
+“If only some of you could be so interesting,” she finally said before looking down at the map with a pleased expression.
+
+“If only…” she repeated.
+
+She put her finger on the room marked ‘Entrance.’
+
+“We shall start with the first obvious deviation,” she announced to the group.
+
+“It has 50 floors or something?” someone asked, sounding bored. Yattina felt a spike of doubt rise up in her. Was she boring?
+
+Was she doing a disservice to how amazing this Dungeon was? She shook her head, trying not to look nervous.
+
+“Not at all. It’s smarter than it should be… the Mana readings back up what the town’s people say,” Yattina said with a frown. “It only has four floors, but it doesn’t act like it,” she concluded.
+
+“Yeah, I’ve seen Dungeons with 20 floors that don’t measure up to the madness that’s on the first floor,” a man stood up, looking mildly… greenish due to the ‘duck’ shoving a Gutrot mushroom into his mouth.
+
+Yattina felt bad for the man. No one should have to endure the taste of Turtog’s lasting legacy.
+
+“This could be a piece of evidence to the theory of evolution,” Yattina interrupted more objections. The general response was snickering and rolls of eyes.
+
+The theory was not popular due to the fact that humanity had roughly decent logs back to the beginning of the world’s making. They were made in their human form and remained human.
+
+However, other things have not remained so static. Monsters, animals, and even Dungeons have been showing signs of a shift.
+
+“Fine!” Yattina held her hand up to stall the arguments. There was always a debater in every group, and she wanted this meeting to make progress before she died of old age.
+
+“The entrance is code locked, but only in such a way that once the code is known, there’s nothing stopping it being shared. Honestly, I think it was just to keep random monsters out once it settled on a theme,” Yattina said as she put a stone tablet down to represent the entrance.
+
+---
+
+“It went A… B… triangle, upside down L?” one of them spoke up, sounding unsure. The other snorted.
+
+“Triangle, Upside down L, B, A,” she corrected, and the door didn’t budge.
+
+Nearby, Ruli and Quiss held their breaths as they tried another code. A bottle of expensive booze was on the line, and the longer they took, the more likely Ruli would win.
+
+---
+
+“The Dungeon entrance has two offering tables, which is perhaps the most modest I’ve seen Dungeon’s go once they start thinking. The golden fires of the capital Dungeon, the twin demands of the Twin Dungeons, the Ruby Dungeon that only accepts ‘beautiful’ things, and so on,” she hummed as she tapped the two table models with a smile.
+
+Her eyes shifted over to the side room.
+
+“This… however, is new,” she stated firmly.
+
+“A kill room? Dungeons have them. That Ruby Dungeon you mentioned has a massive hourglass at the entrance. Each grain is someone it has killed,” someone spoke up dismissively. Yattina shot him a long look.
+
+This is why the Research Department was needed.
+
+“Then you are either blind, or as insensitive as a spoon. The feel, the design… the sorrow. It names people, it offers them not out of spite but in a peaceful place people can opt in to visit. It’s not shoved into our faces, forcing us to see it everytime we walk past,” she countered, and the man crossed his arms, unimpressed.
+
+“It feels sorrow for who it devours as much as I felt sorrow for the sausage I had last night,” he glared.
+
+“No one wants to hear about your conquests. Please apologize to the farmer whose pig you forced your company upon, and take an hour to do laps,” Yattina said without emotion, trying not to bristle like a cat. The man stalked off, but didn’t dare act out. Yattina was a third ranked member.
+
+What she lacked in physical martial combat, she compensated for by grabbing his paycheck and waving it over a fire.
+
+Some people wanted to die having the last word, truly… Yattina couldn’t imagine being so set in one’s way as to ignore evidence.
+
+“There’s also the fact that while most Entrances should be safe, this one has… proxies,” Yattina said slowly, and more than a few people winced at her words.
+
+----Fairplay Expedition number 6:
+
+“Mocking me, eh?” the sword-wielding woman sneered as she slashed at the accursed statue, looking down at them with that pitiful gaze. How dare it pretend to have emotions!
+
+Dungeons only felt hunger and hatred. No different than a monster! She slashed at it. Daring to show names in, of all things, a ‘memorial.’ If this Dungeon were near her old village, would her sister’s name be on this thing?
+
+“Go to hell!” she yelled, chipping her sword more than the statue until she felt… not alone. She turned slowly to see a giant mushroom with a frowning mustache.
+
+“S-Stay back! I won’t hold back!” she warned as the creature eyed the nicks on the statue’s face and neck, then at her sword.
+
+It slowly put down a pot with a price tag on it, a very odd-looking vase that was molded in such a way to look like a sagging wind instrument. It was also bright yellow.
+
+“Your sister… tell me about her. I have a brother and sister too. I had more, but they did not make it,” it rumbled. She took a step back, sword shaking.
+
+“We shall make a pot to remember her by, yes?”
+
+The sword fell to the ground.
+
+---
+
+“Yes, well, she’ll recover once she stops crying over that pot. I’ve read that crying is good for the soul,” Yattina muttered as she drummed her fingers on the table.
+
+“A wandering monster is not at all common for the first 10 floors, let alone the first, but so far, its only powers seem to be ambush and powerful physical attacks when provoked,” she announced, and then in a quieter voice, “and pot making that makes you cry. Further studies needed,” she muttered to her recorder orb.
+
+“Now, we move on to the first actual room of this Dungeon,” she trailed her finger across the paper until it came to stop in a square marking with a spider model in it.
+
+This room got a fair amount of gulps and fearful looks.
+
+“Shorthand, I’ve heard the nickname for this room is ‘Wicked Webs.’ Dramatic, but given what can occur here…” the researcher trailed off with a troubled frown.
+
+“We’ve even gotten some rewards for beating the room in two different ways, correct?” she asked aloud.
+
+“I got some very nice socks for my trouble,” a giant of a man raised his hand, then showed off his web-silk embroidered socks with flowers on it.
+
+Yattina did feel a bit envious of them. They looked fantastic and comfortable.
+
+“Some groups persist in setting off the very obvious room guardian event by burning the webs. Signs warn you of this, the villagers warned you of this… I’m warning you of this. Stop upsetting the room, grab the berries, and just walk out the other side,” Yattina said loudly, sounding beyond tired as she put down a bunch of documents of journeys into the Dungeon that stopped in the first room.
+
+---Fairplay expedition number 9:
+
+“Please, I don’t want to do the little teapot dance anymore!” the man wailed as high above, the ghostly spider made the four Blades twirl in a synchronized pattern.
+
+“It burns, but in a good way! I never knew all those days I put into dodging Dungeon traps and boss mechanics would transfer to dancing!” exclaimed another as he spun.
+
+Nearby, a court of spiders danced in various postures. The common theme was the ‘these two-legged buffoons dance like alcohol-drenched buffalo, and I laugh at them openly’ dance.
+
+---“We’ve lost at least three to the calling of dance, while more just developed a phobia of spiders,” Yattina said brightly as she read the reports.
+
+“Results on the berries are… very promising. I am told they make a lovely pie, jello, lip balm, and lubrication,” she listed. She paused as people snickered.
+
+“For the more complex machines we employ, you adolescent children,” she said waspishly.
+
+Yattina did not want to think about those… things. The idea of the act alone made her queasy. So many things touch, and the fluids like sweat and body odor.
+
+No. Yattina could feel her stomach heaving.
+
+Yattina had been in love, but it had never resulted in any urge like that. Perhaps she was broken in some way?
+
+But if she was broken? Yattina would celebrate that quirk and paint it up with colors.
+
+Besides, if she didn’t have a partner in life, that just gave her more room for books.
+
+Hm, books never demanded anything of her. Judged her… or accused her of being unable to love. They accepted Yattina when she was done with them for the day, happy to welcome her back once work allowed it.
+
+Few people in her life could match that sort of companionship.
+
+“The next room is the Lake-” she said, and someone actually screamed a little. Yattina looked up in surprise as someone tried to hide a duck feather they took from a pillow or some such. They had brushed it against a twitchy scout’s neck.
+
+In the pause, someone stood up.
+
+“Time for my patrol,” he said and Yattina raised her hand to stop him, but others stood up, excusing themselves from the meeting due to ‘bathroom break,’ ‘taxes,’ ‘a chronic illness called legmah,’ and one just said ‘I left the oven on.’
+
+That left Yattina, the boy with the wonky nose, an embarrassed boy who looked familiar, and a handful of scouts in the meeting room.
+
+“How did you break your nose?” Yattina finally asked, needing something to latch on to so as to hide her shame at the lack of respect she was shown.
+
+“I tripped down the Dungeon stairs at the entrance!” he answered honestly.
+
+…Yattina was going to need more books at this rate. She noticed how one of the scouts looked odd now that he was isolated, sort of sitting hunched in the corner, and Yattina wasn’t sure if he was a Blade or a Scout.
+
+From under his big cap, she could see something odd. Poor man, he must have been force-fed Gutrots too, his only visible piece of flesh was his long bulging nose that was a deep green. His top half sloped to the left as if injured, and he adjusted it from the hip.
+
+What fantastic motor skills. The Scouts (or Blades) were a hardy lot!
+
+“I can sort that for you later,” Yattina said to the boy, then inhaled.
+
+“Should I continue?” she asked and winced internally. She ‘should’ continue, not ask for permission. How on this world did she ever get promoted?
+
+She smiled as everyone nodded excitedly.
+
+She gestured to a large stack of papers nearly half her height with a duck figure on top.
+
+“These are incident reports from one creature alone. Without a proper sensor to get a reading, we have named it ‘Danger’ she said, and the pile of reports wobbled dangerously.
+
+“So far, we have lost close to twenty standard-issue daggers, three uncommon enchanted knives, and one rare dagger that we attempted to retrieve as the Dungeon did not absorb it. Perhaps as bait, or perhaps as a reward to its duck,” Yattina said excitedly. Such undocumented behaviour!
+
+Oh, she could spend years going over this Dungeon!
+
+“It likes knives?” one of the scouts asked, frowning.
+
+“I think it likes chaos,” Yattina admitted.
+
+“Is there any way to get past it? Sometimes the storeroom is locked, and the only key is by that duck,” the wonky-nose boy asked.
+
+Yattina stared at the waiting group with a long look.
+
+“Have you tried… giving it bread?” she offered.
+
+“We could poison the bread!” one the remaining Blades perked up.
+
+“No! Just give the damn duck some bread, and see if it lets you have the key! It’s simple bartering!” she said loudly.
+
+“What about the giant catfish in the lake? What if it eats us?” the wonky-nose kid continued. Yattina turned, opened her mouth, and then closed it just as quickly.
+
+“Come again?” she asked serenely.
+
+“The giant fish in the lake. It’s bigger than a troll and then some,” the boy said earnestly. Yattina’s eyes slowly opened so wide that her glass eye fell out of the socket with a clatter, rolling across the ground, still looking shocked.
+
+“W-Where… is the report?” she asked, voice trembling.
+
+All the scouts and Blade pointed to the pile about Danger. Even the hip and cool one in the corner pointed, being mysterious by pointing last.
+
+“The reports are room by room so we just tossed them in there,” someone said.
+
+“The reports are incident… by incident,” Yattina wheezed.
+
+“Oh… that’s going to make the Mushroom Grove pile really awkward,” someone muttered, and Yattina numbly walked after her eye, the enchanted thing rolling away cheerfully to explore the base.
+
+“We were supposed to write reports?” the wonky nose kid asked the other boy.
+
+Yattina was going to need the hard stuff tonight.
+
+The hardback copy of ‘A Thousand Uses of Mermaid Oils.’
+
+---
+
+“You are sure you want this?” Delta asked slowly as Waddles eyed the construction of his new nest. The nest was now a large tent in the alcove, with knives sticking out of the wall around it, which made the lovely illuminated interior feel a little misleading.
+
+There were short knives, long knives, curved knives, blunt knives, cracked knives, and more.
+
+“Quack.”
+
+“I don’t think I can agree to have them all on fire or dripping with acid,” Delta said slowly.
+
+“Quack.”
+
+“I mean, that isn’t too bad, but I think an electrical storm moving between the knives might upset the fish. It might hurt them,” she pointed out.
+
+“Quack… quack.”
+
+Delta brightened and clapped her hands.
+
+“I can do that!”
+
+Moments later, the knives began to shine as the fake moon on the ceiling came out from behind a cloud. The reflection caused a dazzling show to reflect across the lake, sparkling like diamonds. The sight was beautiful until you saw the light came from dozens of knives on the wall.
+
+Waddles flapped his wings once, which was basically excitement for the duck. He went into his tent and fell asleep.
+
+Delta smiled.
+
+“So easy to please. Just a little chaos,” she said with a joke. She looked up at the wall of glinting knives and pondered if someone might misunderstand her intent.
+
+It was very likely.
+
+Still, Delta couldn’t regret her choices. She had… exploits to fix.
+
+Lots of tiny little… exploits.
+
+Step 1? A damn welcome mat for people to wipe their feet on. No one had any manners, and Delta could taste everything.
+
+---
+
+At the bottom of the steps, a large fuzzy brown doormat could be found.
+
+On it in black letters was the phrase, ‘Wipe your feet, keep the smile.’

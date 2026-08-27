@@ -1,0 +1,535 @@
+---
+id: 9e0aa6b8-8a69-57a3-aa9c-85b612393f13
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20: Bells and Crystals"
+slug: 0020-chapter-20-bells-and-crystals
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 20
+ownLength: 3598
+unit: words
+publishedAt: 2026-04-19
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3294079/chapter-20-bells-and-crystals"
+royalRoadId: "3294079"
+---
+
+I could see the first arrows fall.
+
+Burning points of light, each one tracing a shallow arc against the dark sky before plunging into Grezheim's rooftops. They came in waves, dozens at a time, and wherever they struck, fire bloomed.
+
+Soon the figures followed.
+
+They materialized on top of the wall itself, dark shapes rising against the stars. Black cloaks billowed around their bodies, hoods pulled over their faces.
+
+One by one, they dropped from the battlements into the streets below.
+
+They landed silently. The moment their boots hit cobblestone they were already moving and spreading outward through the lanes and alleys.
+
+The fire answered them.
+
+One of them lifted a hand, palm open, fingers spread. The nearest blaze, a roof fire that had been burning shuddered. The flames bent toward the figure's hand as if drawn by an invisible rope. With a flick of the wrist, the fire surged outward.
+
+It leapt across the gap between buildings. It climbed walls that shouldn't have been combustible.
+
+They weren't just setting fires.
+
+They were commanding them.
+
+The flames danced at their will. Expanded when directed. Contracted when called back.
+
+I pulled the sword from my hip.
+
+Not yet, I told myself. Not the fire-casters.
+
+I had one target.
+
+The elf with the dagger.
+
+My scream had torn through the night before the first figure had dropped from the wall. The word "ATTACK" had ripped out of my lungs with everything I had.
+
+It barely mattered.
+
+The chaos swallowed the warning. People who had been sleeping moments ago stumbled into the streets and saw fire eating the city. Panic hit them before they could think. They ran in every direction at once trampling each other in a blind stampede.
+
+Still, the soldiers heard.
+
+Not all of them and not fast enough to matter.
+
+A handful of garrison troops who had been in their barracks when my voice reached them emerged seconds earlier than they would have otherwise. They came out with staves already in hand, eyes scanning the smoke, and they saw the hooded figures descending before they reached the ground.
+
+The first spells crackled outward. Bolts of light. Shards of ice. A wall of compressed earth erupting from the cobblestones.
+
+Seconds. That was all I'd bought.
+
+I turned toward the tavern.
+
+Before I could reach it, the front wall exploded.
+
+The blast hit me before I saw it. My skull bounced against stone. My vision went white, then red, then filled with spinning embers.
+
+I rolled onto my stomach. Pushed against the ground with both hands.
+
+Get up.
+
+The thought was automatic. Drilled into me across a dozen deaths.
+
+I shoved myself to my feet.
+
+The tavern was burning fast.
+
+Vael.
+
+The name flashed through my mind, but I couldn't think too much. The blast had scrambled my thoughts into a pile of broken glass.
+
+I was still trying to recover when the shadow moved.
+
+It came from my left.
+
+A hooded figure, stepping through the smoke. Something gleamed in his hand. I saw it arc toward me. A strike aimed at my throat.
+
+The same cut that had killed me before. The same angle.
+
+This time, my sword was already in my hand.
+
+I brought the blade up.
+
+Steel met steel.
+
+The sound rang through. The impact jolted up my arm and into my shoulder, but my wrist held. The parry was ugly, more instinct than technique, but it caught the curved blade and deflected it wide.
+
+The figure froze.
+
+For a fraction of a heartbeat, the hood tilted toward me. I caught a glimpse of pale features beneath the shadow.
+
+"A Knight?"
+
+The word came out thickly accented. As if the speaker's mouth had been built for a different language entirely.
+
+A pause.
+
+Those gleaming eyes traveled down my body. My student's robe. My thin frame. My shaking arm and unfinished sword.
+
+"No," the figure said. "A baby."
+
+He came at me once more.
+
+The curved blade moved in patterns I couldn't predict. I jerked my sword up and caught it, barely, the deflection sending sparks into the smoke between us.
+
+The dagger reversed and swept toward my hip. I twisted sideways, pulling my body out of the cut's path, and felt the air part where my stomach had been an instant earlier.
+
+Left. A horizontal slash that came from an angle I hadn't been watching. I slammed my sword down to meet it, edge to edge, and the impact made my teeth rattle.
+
+I couldn't attack.
+
+The realization was clear. Every scrap of concentration I possessed was consumed by defense. My eyes tracked the curved blade like a man watching a snake. I was always a fraction behind, always reacting to the last attack instead of anticipating the next one.
+
+Fighting wyverns had been simpler.
+
+Wyverns were enormous, but predictable. Their bodies telegraphed every strike. You could read a wyvern's intentions from the shift of its weight, the angle of its head, the flex of its jaw.
+
+They were more deadly, yes. A single mistake meant instant death. But the openings existed. The gaps were there. You just had to survive long enough to reach them.
+
+This was different.
+
+This opponent left no openings. Every attack flowed into the next without pause, without gap. His footwork was fluid, each step placing him exactly where he needed to be, and the dagger moved so fast it seemed to exist in multiple places at once.
+
+Fighting a wyvern demanded courage.
+
+Fighting this demanded everything.
+
+My concentration narrowed until the world disappeared.
+
+The fire was gone. The screaming was gone. The crumbling tavern and the burning rooftops and the bodies in the streets.
+
+All of it ceased to exist.
+
+There was only his blade, my blade, and the space between them.
+
+Something shifted.
+
+Not physically, but inside me. Behind my eyes. In the place where instinct lived.
+
+Each exchange was teaching me something. Each parry added a line to a map I was building without conscious thought.
+
+The way the figure shifted weight before a low cut. The slight rotation of his wrist that preceded a diagonal slash. The rhythm of his breathing, barely audible through the hood, that quickened just before a combination.
+
+It was my first time fighting someone. I was reading him.
+
+Not fluently, but the patterns were there.
+
+His next high cut came, and I was already moving before the blade descended. My parry met it cleanly.
+
+His eyes narrowed behind the hood.
+
+The attacks came faster.
+
+A blinding sequence, three cuts in less than a second. Left, right, thrust. I blocked the first. Dodged the second. The third nicked my forearm and drew a line of fire across my skin.
+
+My focus was absolute. Everything compressed into a single point of awareness.
+
+There.
+
+The opening appeared.
+
+His dagger swept left, committed to a wide slash that pulled his leading shoulder past center. For one heartbeat, his right side was exposed. His elbow was extended. His balance was forward.
+
+Now.
+
+I moved.
+
+My sword deflected his blade outward, shoving it wider, and I stepped into the gap his own attack had created. My thrust was clean.
+
+Aimed at the center of his chest. The tip of my unfinished sword drove forward with everything I had behind it.
+
+For one perfect, shining instant, I thought I had him.
+
+The figure didn't flinch.
+
+His left hand rose.
+
+I hadn't been watching his left hand.
+
+I'd been so consumed by the dagger in his right, so focused on the blade, that his other hand had existed only at the edge of my awareness.
+
+A second blade sat in that hand.
+
+Shorter than the first. Hidden behind his forearm the entire time, waiting for this moment. For the instant I committed to an attack and couldn't pull back.
+
+The trap closed.
+
+His left hand swept across in a horizontal arc. A line was drawn across the bridge of my nose and through both temples.
+
+The world split.
+
+My vision cracked like shattered glass, each shard showing a different piece of the burning street before they all went dark.
+
+There was no pain.
+
+Not yet. The blade was too sharp, the cut too fast. Pain would come later, in the microseconds before death, but I wouldn't be conscious enough to feel it.
+
+What I felt instead was something I hadn't expected.
+
+A smile.
+
+It pulled at my lips even as the darkness rushed in.
+
+I was smiling.
+
+Not because I'd won. I hadn't. Not because I'd survived. I wouldn't.
+
+Because I was better.
+
+Better than the last time.
+
+Next time, I'd watch the other hand.
+
+The darkness took me, and I went into it grinning like a madman.
+
+⌜ You learned to reduce your fear ⌝
+
+⌜ You engaged in your first duel against another wielder of blades. You learned to defend and attack. Though you remain an amateur. ⌝
+
+⌜ Fear Resistance → Level Increased ⌝
+
+⌜ Level 1 ⌝
+
+⌜ Amateur Swordsmanship → Level Increased ⌝
+
+⌜ Level 2 ⌝
+
+⌜ Restarting Day ⌝
+
+The notifications dissolved the moment my eyes opened.
+
+Canvas ceiling. The distant sounds of a camp breaking down.
+
+I lay there for a few seconds, grinding my teeth as I relived the pain of death. Even so, the smile on my face wouldn’t fade.
+
+Then I rose and began the day again.
+
+The column marched. The mule resisted. Grezheim's walls appeared on the horizon and grew with each step until they filled the skyline.
+
+I collected my pay. Thirty silver. I walked through the main gate without hesitation.
+
+This time there was no wandering.
+
+No browsing the market or marveling at the Knights.
+
+I went to the tavern. Paid fifty copper for a room and a meal. Ate Vael's cooking in silence and let the warmth of real food settle into my stomach while my mind worked.
+
+I went to the smith. Paid twenty silver for the same ugly, unfinished blade. Strapped it beneath my robe.
+
+Professor Molino arrived on schedule. The same elf-like professor with raven-black hair and silver earrings, along with the cluster of fourth-year students behind him.
+
+This time, I kept my mouth shut.
+
+I stood in the crowd, watched and said nothing.
+
+When Molino left, I left.
+
+I found the central square and sat on a stone bench near the fountain.
+
+The afternoon sun pressed against my shoulders. Around me, Grezheim went about its business, oblivious to the fire that would eat it alive in a few hours.
+
+I stared at the cobblestones and thought.
+
+The invasion was too large.
+
+That was the first problem. Dozens of hooded figures dropping from the walls.
+
+Even if I learned to fight better. Even if I reached a level where I could kill the elf with the dagger, that was one enemy. Maybe two, if I was fast and lucky. Two enemies out of what seemed like an army.
+
+I couldn't save Grezheim alone.
+
+I need to understand the invasion. How it starts. Where they enter. How many there are. Whether there's a way to trigger an earlier response.
+
+Telling someone was out of the question.
+
+If I walked into the garrison command and announced that hooded elven assassins were going to burn the town tonight, two things would happen. First, they'd ask how I knew. Second, they'd lock me in a cell.
+
+Or worse.
+
+Yet, I could move the pieces on the board.
+
+If I couldn't tell people what was coming, I could position them where they needed to be.
+
+Encourage the right conversations. Ask the right questions. Create conditions that made the defense stronger without anyone realizing they were being guided.
+
+Who could be of help?
+
+My mind turned to those leaving the city.
+
+I'd seen the Knights in the past loop. Five of them, walking south. Headed to the front.
+
+And Molino. The professor and his fourth-year students. Preparing to reinforce the southern line.
+
+An attack on the southern front. Everyone who could fight was leaving.
+
+Everyone. Everyone?
+
+The question formed in my mind.
+
+I rose from the bench and walked toward the main gate.
+
+The guards were the same as in the previous loop. Once again, they checked my uniform and asked what business I had there.
+
+Outside the walls, the cleared land stretched in every direction. But this time I didn't stop to practice. I kept walking, following the packed-earth road that led south.
+
+The carriages were gathered at a staging point, three hundred meters from the gate.
+
+I counted eight of them. Heavy transport vehicles with reinforced frames and broad wheels, each one drawn by a team of horses that stamped and snorted.
+
+Soldiers moved between them, loading crates, securing canvas covers, checking harnesses.
+
+On the carriages ready to depart, the fourth-year students were boarding.
+
+Beyond them, standing apart were the Knights.
+
+A small detachment of garrison soldiers completed the group. Perhaps twenty, in standard plate, staves strapped to their backs.
+
+I stood at the edge of the staging area and watched them prepare to leave.
+
+They are the best. Who stays behind? Who's going to defend the city?
+
+Every person in Grenzheim who could mount a serious resistance was climbing into carriages heading south.
+
+Is there really an attack on the front?
+
+The question turned in my mind.
+
+Or is the intelligence false? A rumor planted to bleed Grezheim dry before the real attack falls?
+
+I thought about what I'd seen in the town hall. The frantic woman coordinating supply logistics. The requisition orders. The crystal-comm traffic about medical-grade supplies being routed to the southern front.
+
+Grezheim wasn't just a garrison town. It was a logistics hub. The point through which supplies, communications, and reinforcements flowed to the front line. The town hall managed it all.
+
+If Grezheim burned, those supply lines didn't just weaken.
+
+They would fall.
+
+"If the city dies," I murmured, watching the last carriage's canvas cover being lashed down, "can they hold the front at all?"
+
+I didn't have enough information to know for certain.
+
+But it seemed to fit. Draw the defenders away with a credible threat. Strike the unguarded logistics center. Cut the supply chain at its source.
+
+One attack to enable another.
+
+The carriages began to move.
+
+I watched until they were small shapes on the southern road.
+
+There was nothing I could do about the departures.
+
+Not today.
+
+I drew the sword outside the walls and tested my new level.
+
+Level 2 didn't feel dramatically different from Level 1.
+
+The improvement wasn't in my muscles. My arms were the same. My lungs were the same. My stamina hadn't magically expanded. The five-minute wall of exhaustion still waited at the end of every sustained effort.
+
+Still something had changed in my mind.
+
+My perception was sharper.
+
+When I swung, I could feel the arc of the blade with a precision that hadn't existed before. The trajectory extended in my mind like a line drawn in the air, and I could see, with a clarity that almost frightened me.
+
+My decision-making was faster.
+
+In the loops, I'd fought through pure instinct and desperation. Swing, react, pray. Now there was a layer of something between instinct and action. A brief moment of assessment that happened so quickly it barely felt conscious. My body would begin a cut, and somewhere between intention and execution, a tiny voice would whisper. Angle two degrees lower. Weight on the back foot. Rotate the wrist a fraction before impact.
+
+I didn't always listen. The corrections came faster than I could implement them. But they were there. An instructor in my mind, noting every flaw.
+
+The blade sang through the air in a diagonal slash.
+
+Better.
+
+Edge alignment was clean.
+
+But your recovery is slow.
+
+Don't let the momentum carry your shoulder past center.
+
+I tried again. Faster. Tighter.
+
+Your stance widened. Bring the back foot in. You're overreaching.
+
+Again.
+
+Again.
+
+The sweat came. The burn came. The familiar fire in my forearms that said this body had limits the system couldn't erase.
+
+I stopped before I hit the wall.
+
+I sheathed the blade, wiped my face, and stood in the fading light for a moment. The sun had begun its descent.
+
+How can I get past my limits?
+
+The thought had been circling my mind for some loops, a problem I could identify but not solve. My technique was improving. My perception was sharpening. My skill levels were climbing.
+
+Yet my body stayed the same.
+
+Every loop reset me to the same weak baseline. The same thin arms. The same shallow lungs.
+
+I needed to train this body.
+
+But how? Every physical gain was erased at death.
+
+I couldn't solve it yet.
+
+Not while I was still dying.
+
+I let the problem settle into the back of my mind and turned toward Grezheim's gate.
+
+The walls caught the last of the sunset as I approached.
+
+I paused.
+
+The wall itself was the highest point in Grezheim. From its top, I could see the entire surrounding terrain.
+
+Every angle from which an attacking force might advance.
+
+And I was, technically, in the army.
+
+The two guards were at their usual posts. The one with the ledger recognized me immediately.
+
+"Boy," he said, "Done for the day?"
+
+"Almost," I said. "I'd like to go up on the wall."
+
+His amusement faded. He glanced at his partner.
+
+"The wall's a garrison post," the first guard said. "Not a sightseeing platform."
+
+"I'm military," I said. "Academy expedition. Southern caverns. I'm enlisted."
+
+"You're a Schwarzling," the guard with the ledger said flatly.
+
+"Basically doesn't count for anything," he added, not unkindly.
+
+The second guard scratched his jaw. He was older, stockier.
+
+"He's Academy though," the second guard said. "What's the harm? Let the kid see what real duty looks like. Might do him some good."
+
+The first guard made a face. "If he falls off..."
+
+"He won't fall off. Will you?"
+
+"I won't fall off," I confirmed.
+
+They argued between themselves for another minute, the kind of low-stakes bureaucratic negotiation. Eventually, convenience won over protocol.
+
+"Fine," the first guard said. "Stay out of restricted areas. Don't touch anything. If an officer asks, we never had this conversation."
+
+"Understood."
+
+The stairs were narrow and steep, carved into the wall's interior. My legs burned by the time I reached the top, and I emerged onto the walkway with my breath coming in short, harsh pulls. The view stopped me cold.
+
+Grezheim lay spread beneath me. I could see everything. The central square with its fountain and stone buildings. The commercial district with its shuttered stalls. The forge quarter, still trailing thin columns of smoke. The residential blocks, the barracks, the farmland inside the walls.
+
+Beyond the walls, the cleared perimeter extended in every direction, a band of bare earth and low scrub that offered no cover to anything approaching. Past that, the terrain resumed. Low hills. Patches of scrub forest. The road south, now empty, the carriages long gone.
+
+I turned slowly, absorbing every angle.
+
+The friendly guard had followed me up. He stood a few paces away, hands resting on the battlements, watching the sunset.
+
+"First time on a wall?" he asked.
+
+"Yes."
+
+"It's something, isn't it."
+
+I let a moment pass, then began asking.
+
+"What's the situation on the front?" I kept my voice casual. The tone of a student who'd heard rumors.
+
+The guard shrugged. "Bad, mostly. The elves have been pushing for months. Small raids. Probing attacks. Testing the line for weak points."
+
+"How often does the town get hit?"
+
+"Directly? Not often. The wall keeps most things out. We've had monster incursions. A pack of dire wolves last month that killed two patrols before we pinned them down. But an actual assault on the town?" He shook his head. "Not in my time here."
+
+"And if there was one?" I pressed. "An actual attack. What's the protocol?"
+
+The guard looked at me with a flicker of curiosity.
+
+"Standard procedure," he said. "Crystal communication to regional command. Alarm bell to mobilize the garrison. Defensive positions on the wall. Barriers at the gate."
+
+He jerked his chin toward a small stone structure built into the wall's inner face, perhaps fifty meters along the walkway.
+
+"The comm crystal and the alarm bell are in the signal tower," he said. "Manned around the clock. If something goes sideways, that's where the call goes out."
+
+My eyes fixed on the structure.
+
+It was squat and practical. Heavy door. No windows. I could see the faint blue glow of a mana crystal pulsing through the gaps where the stonework met the door frame.
+
+"Can I see it?" I asked.
+
+The guard hesitated, then shrugged. "Don't see why not. Might teach you something useful."
+
+We walked along the battlement, until reaching the signal tower.
+
+The guard gripped the iron handle and pulled.
+
+The heavy door swung inward.
+
+The smell hit me first.
+
+Copper and salt. The scent of blood, fresh enough that the air was still warm with it.
+
+My eyes adjusted to the dim interior.
+
+The room was small. A table in the center, upon which sat a large crystal. Above it, mounted to the ceiling by an iron bracket, hung a bronze bell the size of a man's torso. A rope dangled from its clapper.
+
+In the corner, slumped against the wall, sat a soldier.
+
+His chin rested on his chest. His arms hung limp at his sides.
+
+A dagger jutted from beneath his jaw.
+
+The hilt protruded at an angle, driven upward through the soft tissue under the chin and into the skull.
+
+The guard beside me made a choking noise.
+
+"Hel-"

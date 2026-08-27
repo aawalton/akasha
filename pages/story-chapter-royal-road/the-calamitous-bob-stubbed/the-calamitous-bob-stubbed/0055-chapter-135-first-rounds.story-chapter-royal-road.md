@@ -1,0 +1,385 @@
+---
+id: 25ba252c-52bb-5a91-a924-50f258446cbf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 135: First rounds"
+slug: 0055-chapter-135-first-rounds
+partOf: the-calamitous-bob-stubbed
+position: 55
+ownLength: 5535
+unit: words
+ownProgress: 5535
+publishedAt: 2023-09-15
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1343540/chapter-135-first-rounds"
+royalRoadId: "1343540"
+markedReadAt: "2026-06-29T21:16:39.292Z"
+---
+
+It was the eve of the two days of intensive duels and Viv admired the result of months of training. From the brief campaign against the Hallurians to duels and physical practice at the Academy, she’d been tireless. All for the hope that it would pay off with her survival.
+
+Current status:
+
+Mana distribution:
+
+Current attunement: 44.2%
+
+Her conduit and core were still at mage level because it was as much a matter of ‘arcane biology’ as it was one of inborn ability and effort. Those were the metaphysical organs that let her hold and draw mana. They only grew and developed with time, not just practice. Those placed a soft limit on how much Viv could draw at once but it was offset by her path bonus. It was because of them that a mage could not use their entire mana reserve on a single spell. Simply put, their conduits would burst, killing them on the spot. She had still made excellent progress in the span of only two years, and could hope to develop them further if she made it. The rest, well, she would have hoped that vandal would disappear. The Academy was charging her for every new door handle.
+
+Physical
+
+Mental
+
+Power
+
+24
+
+Focus
+
+41
+
+Finesse
+
+26
+
+Acuity
+
+41
+
+Endurance
+
+30
+
+Willpower
+
+41
+
+She had made some minimal progress of her mental stats as a side effect of complex casting, however this was a side, modest progress she had not really counted on. The fifth tier was already an incredible achievement in such a short time. It was also less important to focus on now as it would take years for her to attain the next one. The most significant progress was around the physical stats, which gained two each. She was the most proud of endurance.
+
+That one had taken sleepless night of running and workouts while starving to achieve. Her body had grown temporarily lean and underfed to achieve that result, but the new threshold held many advantages. The most significant ones were improved survival against fatal wounds as well as accelerated healing, elements that would improve her chances. Magic would simply help her body function beyond the limits of what should be. Interestingly, she was now approaching the stats of a young warrior on the late second step, yet there were no doubts one would whip her with ease. She simply didn’t have the skills to back it up.
+
+General skills
+
+Polymath
+
+Beginner 4
+
+Athletics
+
+Intermediate 7
+
+Survival
+
+Intermediate 3
+
+Householding
+
+Novice 8
+
+Hand to hand combat
+
+Beginner 6
+
+Pain tolerance
+
+Intermediate 9
+
+Small blades
+
+Beginner 7
+
+Her general skills showed progress in survival on account of a few short outings she had done around Helock as part of her training and athletics which generally helped her run for longer periods of time. She was pretty sure she would be a marathon gold medallist back on earth. Unfortunately, here, she was still lower than the average infantryman.
+
+Class skills
+
+Meditative Trance
+
+Expert 3
+
+Mana mastery
+
+Intermediate 3
+
+Arcane Constructs
+
+Intermediate 5
+
+Danger sense
+
+Intermediate 5
+
+Leadership
+
+Intermediate 4
+
+Draconic Intimidation
+
+Expert 3
+
+Acuity reflex
+
+Intermediate 5
+
+Soul mastery
+
+Intermediate 2
+
+Shield Mastery
+
+Intermediate 1
+
+Those were her major success and sources of pride. Meditative trance meant that she could recover her mana in merely an hour or so from nearly empty, a vital skill if one were to fight several duels in a row. It was, of course, done on purpose to add to the contest’s complexity.
+
+Mana mastery had progressed as well, affecting every aspect of her spellcasting from skill to efficiency to precision. Detection was also a factor. It allowed her to guess what a spell would do as it was casted, an essential skill to counter enemy offense. Acuity reflex had improved by one as well as her reflexes improved, but danger sense had not since she had never really been in danger. Her most impressive progress came from shield mastery. She had blocked so many different attacks from Sonagi over time, learned to do so without expanding too much mana, that she could now estimate how much effort she had to spend to block something. Of course, he still tried to trick her sometimes but then acuity reflex kicked in, giving her a second chance.
+
+Sonagi really thought she was a frustrating foe to face.
+
+The last measure of progress did not stem from her training, but from her grief. Nights were… difficult, especially since she spent a few evenings catching up on what her earthside loved ones had been up to. She had to sate her curiosity. Emeric had fortunately said little about his own life within Viv’s body, instead focusing on people she cared about. She didn’t mind. Earth Viv had married and born children but they meant nothing to her. They were someone else’s.
+
+It appeared Emeric had cared. It made it even worse to Viv. She wanted to hate him freely and without nuances, a good old grudge that would end in a confrontation. Instead, Emeric had learned how to be less of a dick. Between this and his apologies, she felt slighted by someone who pretended he was good despite this heinous act. It frustrated her to no end.
+
+Her mother was still alive and had gone to therapy. She had become a beekeeper in her old age, selling artisanal lavender honey at home and abroad. She was wildly successful and having a blast.
+
+Her brother Damien was a law teacher in a university for talented kids from difficult backgrounds. He held many awards.
+
+Her father had retired after a long career culminating as a secretary of state.
+
+Everyone lived well.
+
+Emeric even had a note on many of her friends, some she only remembered because he mentioned them. Her internet friends were doing well as well. Fraise had married and become a nurse just like she wanted. Gevaudan had turned out to be autistic, which she expected. Earth Viv gave him side gigs to pirate her company’s systems, paying him very well for the service which helped. He had succeeded three times.
+
+It was… strange.
+
+No one was missing her. They didn’t know. She was the only casualty of a game that had, in the end, benefitted everyone but her. Emeric had walked into her life and improved every aspect of it, for everyone. Better than she could have ever done with her own issues. Normal Viv didn’t have the skill and gumption to rise through the ranks to the position of general manager of a European military industry giant.
+
+This brought a need for calm. Her meditation skill required her to move and that was not conducive to sleeping, so her best solution was to simply slip into the in-between.
+
+It was a weird place. Moving here did not involve distance so much as thought and, for lack of a better word, context. Existence was reduced to orbs and errant streams of thoughts. A wall in the distance prevented her from moving too far from her starting point. She had examined it of course. As far as she could tell, those were the limits of the kiddie pool.
+
+She did not quite like the implication.
+
+Maybe the in-between hosted its own style of monsters, angler fishes gobbling souls and leaving behind the empty husks of vegetative bodies. She already had to fend off those who would kill her in the real world. Now there was a chance someone would go for her soul as well.  In the meanwhile, the in-between was a nice enough place to explore and it left her feeling calm and refreshed when she woke up the next day.
+
+Viv had never seen such a crowd except, perhaps, during a demonstration match, She had certainly not seen the arena filled this early in the afternoon. The rafters were filled with thousands of people laughing, jeering, talking, and hawking wares. The cold didn’t bother anyone with most wearing warm clothes and the rest using heated stones. From her lodge in the ‘belly’ she had a perfect view of the sands below, and the gates leading deeper inside the complex. The belly of the arena hosted contestants and had a direct path down so they could go from spectator to spectated in only a couple of minutes. Reinforced partitions separated her team from that of others, a leftover from the bloodier vendettas back when gladiators would kill each other on sight. The true lodge of the ruler faced her at the other side of the massive space, its occupants shaded by a permanent tent structures that blocked view coming out and arrows coming in. Pinpoint blazes hinted at braziers burning perfumed herb. Waiters and runners came in and out under the vigilant gaze of Helock’s elite battlemages.
+
+“I heard that my father is there,” Sidjin whispered.
+
+“You hadn’t seen him since…”
+
+“No. He wasn’t there when I was arrested. He didn’t come to see me in jail. At all. The last time we talked was, gods, at a party? Before the— officer killed my merl friend.”
+
+Viv hesitated, then squeezed Sidjin’s hand. They might not be in the best terms right now but that was no reason not to offer sympathy. She thought he might be angry or refuse but he returned the pressure. It was hard to tell where they stood with how different their cultures were.
+
+“Oh, it’s about to start!” Rakan exclaimed.
+
+He leaned forward in his seat to watch the first team of contestants walk in. The opening match would oppose Shaya’s team to the first of two twins. Shaya was Sidjin’s sister and one of the three real challengers, at least the way Viv could see it. The twins were an offshoot from the main branches, children of the first prince’s siblings. They did not really expect to win. Rather, their performance could lead to agreements that would benefit their family.
+
+The arena’s only morbidly obese individual walked out from the main lodge. Viv recognized Deos, the master of ceremony, his already fantastic girth clad in garish raiments under a gaudy plume hat. Viv judged he was barely short of being visible from orbit.
+
+“Welcome,” he said.
+
+His voice resonated strangely over the field. The sound effect was not intimate but overwhelming, dominating all other conversations in an instant. It roared and strutted. It promised violence.
+
+“Welcome to the bloody games, welcome to the game of death that will decide the fate of a city! Welcome, to the Glastian successions!”
+
+A thunderous din of approval answered. Deos stretched his hands.
+
+“Over the next two days, princes and commoners will clash across the bloody sand for the favor of their champion under your gaze, my dearies. Spells! Blades! Scorching fire and unyielding walls, majestic life and devouring darkness will score gashes over our most ancient of fields. Two days to win a crown ladies and gentlemen. Two days… to clear the competition.”
+
+Another roar, this one carrying a lust for vicarious violence.
+
+“For while the champions fight at the front, the rulers scheme at the back. What matter of plot will we be seeing, my dearies? What sinister tricks will our friends deploy? I cannot wait. And without further ado, let us give a warm welcome to the first two teams! Sidna of Feroe and Shaya of Glastia!”
+
+The first two to come in were the bone-clad Viziman woman from Shaya’s team and an old mage with blue robes. Viv watched the fight with middling interest. She identified the old mage as a war councilor and the bone lady as a bone witch, somewhat unsurprisingly. The duel was rather long. It was clear that the mage knew his business contrary to what Viv had expected. He almost maneuvered the witch into a corner thanks to a careful and deliberate use of blue and brown mana. The arena turned into a swamp while he remained dry and mobile but the witch found an answer. She could create and mold bone using life, black, and brown mana, something Viv judged to be impossible. Nyil once more made a mockery of basic physics. Eventually, the witch made herself long stiletto boot things to run after the mage. The battle of attrition turned to her favor and, eventually, he forfeited. The shame made his aging face crimson.
+
+Viv thought he did ok. A war councilor was not a duelist.
+
+The next duel opposed mostly normal mages and was unremarkable. The third pitted an arcane blade from Vizim on Shaya’s side to another from Glastia. To Viv’s moderate surprise, the twin’s mage blade won handily. He used brown mana to mold the terrain and though he did not attack often, each of his movements were precise and graceful. He was young too, a sign of clear skill. The fourth candidate proved inadequate, however, and the match ended three to one in favor of Shaya. Viv noted that the princess herself had not participated despite her martial style. She suspected only Sidjin would risk himself in the arena.
+
+Deos did not wait to introduce the next duels. The first stages would all be played one after the other.
+
+The following round opposed Prince Aldus’ group to the four blade mages. As a favorite of the competition, he brought a full complement of battle casters, probably elites taken from the wall. They made short work of the opposition without a single upset and the blade mages were sent packing, defeated but unhurt. The casters even went out of the way to salute their opponents.
+
+As the last of them walked back to the changing room, Viv and company were walking down to the entrance.
+
+“I want to tell you something,” Sidjin said.
+
+“Yeah?”
+
+“I made you our first.”
+
+Viv almost froze on the steps. The first was exactly what it implied, the unspoken leader of the fighters and their best member. She had trained against almost any style so that was not the issue, The issue was the message it sent. Sidjin presented her as his trusted second.
+
+“Sidjin? You’re telling the whole world you think I’m a better duelist?”
+
+“The truth is that Sonagi is a mercenary and I am not as flexible as you are.”
+
+“That is not the whole truth.”
+
+Sidjin looked at her, mulling over his next words.
+
+“I want you to represent us because without you, there would be no competition at all. I’m aware that Rakan’s situation has dug a rift between the two of us. I do not want this to invalidate everything that happened, everything we did for each other. Be my first, please.”
+
+“Why, yes of course. I just… thought we might have discussed it. I accept the gift in the spirit it was given, however.”
+
+“That is the issue between us these past days. We see the spirit but we do not feel it, yes?”
+
+“No, not this time. It’s a big deal. It’s almost like you’re presenting me to your father.”
+
+“Perhaps.”
+
+Viv glared, unsure if Sidjin was serious or not. Soon, it was too late to think. The gates opened as she approached.
+
+She was already wearing her arena-issued enchanted robes and kept her dagger focus. There was a limit to one magical item per gladiator and she had kept that one.
+
+The opposite gate opened to the tournament’s first shenanigans. The war councilor she had seen fighting for the first twin walked towards her across the arena, his expression one of grim resolve. Given the size of the arena, it took a while for the two to meet. Deos used the delay to entertain his flock.
+
+“And the first predictable twist, ladies and gentlemen, Sidna of Feroe has released his best fighter — or is it fighters? — to his brother Odna. Will it be enough to pass the first round? Facing him is the kingslayer herself, the witch of black, the bane of the Hallurians… Viv the Outlander!”
+
+Shit, thought Viv, I hope it doesn’t turn into a new title.
+
+She went to stand in the starting circle. The arena was specifically enchanted to return its sand to their pre-combat state after every encounter, a necessity considering the tendency of mages to use their environment. High barriers situated all around the circumference of the open ground blocked outgoing spells. Viv had even read that they joined all the way up since an unfortunate artillery spell destroyed a bakery.
+
+Down here, the air was cold, much colder than she imagined because of the sand. It was a silly thought. There were plenty of cold deserts, after all. Viv looked up at the thousands of people and felt alienation. She was here for Sidjin, that was all. Blood sports were just not her thing, and all those eager faces looking down hoping for a slip, hoping one spell too many would overload the shield and get the grudge circle going, they disgusted her. She could see it in the nearest, eager faces, hear it in the excited hum of conversations. Half of the city had rushed in to watch a succession conflict like the trainwreck it was. The lower tiers were populous while the higher kept a sheen of sophistication but they were all here for the same thing. Watch her commit violence before their feasting eyes as casters turned gladiators. It was not every day that the upper strata of Param’s society made a show of themselves for the rest of it.
+
+“You may begin,” Deos allowed.
+
+Viv shielded and attacked at the same time, just like her opponent. His spike pinged uselessly against a small aegis while her attack was a small blast, its power punching through his hastily raised brown wall with ease. He fell to the side and dodged the spell almost by accident. Viv did not let up. She pressed him with angled purge and well-placed blasts. Her knowledge of earth magic let her give her attacks just the right amount of power to go through standard brown mana defenses. She had to adjust a little because the war councilor was solid in a way that felt like an intent, but it was easy anyway. He was nothing compared to Sonagi.
+
+A brief vent of black mana on the ground to break one of his attacks and she started to move, circling her prey without letting up. The mage was forced to rotate his best defenses to stop her. It was a near impossible task with brown defenses as they were simply so heavy. She sent feint after sneaky attack after curved spell on the beleaguered mage. She felt her mana sing in her veins and the black happily dismantling whatever her opponent could throw at her. It felt exhilarating, in a way, to be so much in control. She didn’t even resort to her forged glyphs (technically not enchanted) or her more advanced spells and tactics. He could not stop her assault and so she didn’t change strategy. Eventually, he raised a veritable pyramid around himself with a mighty roar. Viv let him, charging a blast spell with the meaning of annihilation.
+
+She could feel him on the other side. The flow of mana from his exhausted core were as clear to her as brush strokes on an old painting.
+
+“Blast.”
+
+The simplified artillery spell punched clean through the wall, a dagger undoing a simple leather jerkin.
+
+“Stop!” a voice came.
+
+The crowd clamored their appreciation when the war councilor dropped his improvised fort. He was clutching his leg, which was bleeding abundantly. Viv had aimed low because she saw no point in killing that guy. He was obviously someone dedicated to the war effort, not political plays.
+
+“I yield,” the man said sadly.
+
+There was shame and humiliation in his posture. He was also running on fumes, mana wise, and it took its toll. Viv felt a pang of pity for him, stuck as he was in a game he was not meant to play. Now that he was defeated, she had no reason to be disrespectful.
+
+“Good fight,” she said with a light bow.
+
+It was a Helockian salute Sonagi did when he felt like it. The mage nodded in return, then he bullheadedly decided to walk back to his gate.
+
+An arena medic intercepted him midway but it was still a good move, Viv felt, even though he’d trailed blood all over the sand. She left as well. Her team was now one and zero.
+
+No skill gains this time, despite this being a real life situation. She had simply not been challenged enough.
+
+Viv returned to her lodge just in time to watch Sidjin engage his opponent, who happened to be the blade mage of twin number one. They offered a nice contrast. The blade mage was young, a rising talent dressed in an elaborate Glastian military uniform in shades of yellow and silver over his defensive robe. By contrast, Sidjin was old and mature but also scarred, the long gash on his cheek testimony of everything he had been through. He had forfeited any identifying mark but the trace of his ancestry were plain on his traits, and the sheer confidence he displayed.
+
+The fight started with a charge from the blade mage, blocked by a transparent shield.
+
+At first, it seemed the blade mage would manage to overwhelm Sidjin’s defenses. He smashed them as quickly as Sidjin could place them, but the fallen prince spat a veritable flamethrower into the fencer’s face, forcing him back with scalded arms and missing eyebrows. After that, Sidjin patiently built a network of transparent force fields to corner his opponent.
+
+Viv was amazed by Sidjin’s control. The prince stood at the center of concentric rings of interlocked, transparent cages and bars. They rotated with the blade mage as he circled them like a shark, looking for an opening that would never come. Viv watched him jump over, only for half of the defensive array to lift when he did. He landed in the arcane equivalent of a wood chipper. Actually, no. He could have. Sidjin was playing nice. Viv knew from experience all those smooth surfaces could turn into grinders and teeth at a moment’s notice. If Sidjin wanted to kill him, the arcane blade would be minced meat by now. He wasn’t called the red mist for nothing. Sidjin instead elected to take his time. The fencer tried to counter the advantage with brown mana, yet it proved to be futile since Sidjin was simply better at it. Ranged slashes pinged pointlessly on the fallen prince’s defenses. Frustrated, the blade mage ran to the other side of the arena. He watched powerless while Sidjin cast something strong and the public jeered and cheered, urging him on.
+
+Viv chuckled. She knew what her boyfriend, errrr, probably still boyfriend, was doing.
+
+One moment Sidjin was there, the next he was on top of the thunderstruck fencer. Layers of cages locked on the victim like bear traps. In a fragment of an instant, the fencer was chained, collared, restrained, blocked, immobilized, spread eagle, and generally disabled. A sputtered exchange between captor and captive followed.
+
+Sidjin took one step and poked his victim in the ribs. Insistently.
+
+“I yield,” the fencer begrudgingly admitted.
+
+The crowd was pleased. It was a masterful display of arcane mastery, which apparently excused the general lack of blood. Whispers of appreciation reached VIv’s ears and she realized it was not the skills that the spectators appreciated. Sidjin was scruffy, handsome, and darkly charismatic.
+
+They were just lusting after her boyfriend.
+
+The fuckers.
+
+“Ok, maybe I still like him a lot,” Viv admitted to herself.
+
+“Showy display, eh?” Sonagi said by her side. “I thought I would be the ace without trying, but it looks like you two rode the wyvern to the top. Nice, nice.”
+
+Sonagi looked much better now. His mussy hair was clean and wavy, more artist than drug fiend. There were still pockets under his eyes, wrinkles at the corners of his mouth, but those were small marks that did little to mask the spring in his step. His posture was relaxed for the first time, well, ever.
+
+“You’re looking good, Sonagi,” Viv said.
+
+“Are you not taken?”
+
+“No sass please. You look much healthier. I’m glad.”
+
+“Having a future will do that to you. Well, anyway. It’s time for me to step into the light again. See you soon.”
+
+Sonagi left, Sidjin returned. By their side, Rakan wisely decided to get down.
+
+“Very impressive,” Viv said.
+
+“Thank you. I tried to make it painless. Are you…. feeling better? You look better.”
+
+“Well, no one has died so far. Those fights are being quite civil. Maybe I overreacted and this was just… much less violent than I expected.”
+
+“No. As much as I would like for us to leave this conflict between us, this would ignore the root of the issue. Look, if we are to be together in a… permanent way, we need to accept that we have differences that cannot necessarily be reconciled.”
+
+“Just like you to look for solutions for everything.”
+
+“I know people are not so simple, especially you. I also know that you are avoiding the topic. We share the same values, you and I. It’s how we live them that differs. I want to know if… it will be a problem or if we can… agree to disagree. So long as it concerns the surface, not what truly matters.”
+
+Viv sighed. She didn’t feel as sore now as she used to. It was not really a change of heart so much as her nature. Viv was pragmatic. Staying angry and hurt didn’t serve her so she was… coping. Trying to forget. It didn’t help that she’d been miserable for a month thanks to that twat Emeric.
+
+“So long as it’s surface, yeah.”
+
+She frowned.
+
+“Next time can we talk about things in advance? For example, accepting a kid in a dueling team or making me the first? Communication is important.”
+
+“So I have gathered. And yes, I should have chosen to involve you. I was too proud. Please understand that pride was all I had left for a very long time. Letting go will be… difficult.”
+
+“You don’t have to give up your pride, just don’t feel the need to enforce it on me.”
+
+“A fair point. Speaking of pride…”
+
+Sonagi entered the arena with a skip. This time, Deos greeted him a great hail, instead he sounded genuinely enthusiastic.
+
+“The prodigal son returns! Oh, ladies and gentlemen. What a treat. What a treat! You may not remember this lark but I do. I remember when he reached too high and burnt his feathers, but look at him! Look at him here back in the welcoming bosom of our glorious arena, where the strong rise to the top no matter what. Here is the son of a seamstress, a child of the streets of Helock. Here is a returning champion living the life of his second chance. Give it all for… Sonagi!”
+
+The crowd was carried by the lower strata. Obviously, many of the arena’s regulars remembered Sonagi from either his old days of triumph or his more recent ascent. No matter what, the welcome was thunderous and Sonagi really liked it.
+
+His opponent turned out to be a young woman, a caster as well. Deos briefly presented her as the daughter of Viziman exiles. She had an interesting profile but she only came second to Helock’s own candidate in the eyes of the crowd. Her skills also came second.
+
+The young woman focused on gray mana in an interesting game of mobility, stealth, and powerful attacks using electricity, something Viv had not yet seen here. She still fell short of Sonagi. The master duelist danced and tricked as much as he fought. Thunder fell on spikes of earth, or landed on water walls without damage. He matched her for speed and dispelled her illusions with smartly placed strands of mana. After a while, it became obvious to Viv.
+
+Sonagi was playing with her.
+
+She was young and talented, but he had her beat completely. He was just making it last. A part of her was annoyed that he would give her a chance to take him by surprise, that he would try to break her instead of trying to win. The problem was that he was down there and she was up here. The other problem was that their agreement did not cover his behavior. So long as he won, she didn’t really have ground to stand on.
+
+It was still annoying. They were not here to make enemies.
+
+The girl never yielded, so Sonagi beautifully stunned her with some gray spell of his own. The counter that got her sent the public screaming. To add insult to injury, he received her in a princess carry as she fell. The crowd went wild.
+
+Viv resisted the urge to scold him when he returned because he seemed so proud. She didn’t want to crush him when he was finally getting back up. It was also Rakan’s turn.
+
+Deos presented him and his opponent as a pair of young fighters on their first contest. The two were almost mirrors of each other. Both young, both casters. The fight started as a study in academic combat. The two stood where the fight started and built up from there in a tight exchange of carefully planned counters. The fight was clean but unequal. Rakan had two concepts to the opponent’s one, which he used sparingly. A devastating counter swung the fight in Rakan’s favor, then it was only a matter of time until he finally cornered his opponent to polite applause. Rakan fought patiently and carefully until he won.
+
+The rest of the team made sure to congratulate him when he returned. Viv was proud and made sure to let him know.
+
+“So you will let me fight in the deadlands next time? With the army?”
+
+“You will train with them first. You think you can just show up and throw fireballs at the front rank? You need to know where to move, when, and where to aim.”
+
+“What she means is yes, and we will prepare you,” Sidjin assured him.
+
+“Don’t count on me. I’m a duellist, not a revenant hunter!” Sonagi added.
+
+“But you used to smell the same,” Rakan countered.
+
+Viv left Rakan bicker with the others. The youth seemed much more relaxed now. Things were looking up.
+
+The last fight of the day would oppose Medjin to the lone armor-clad knight Viv had never seen without the helmet down. His opponent was Medjin’s first, the red mage she had met in the study and who had been quite rude. As a lone contestant, the armored one had to defeat every opponent on the enemy team.
+
+It turned out immediately that this man was an anti-mage. More precisely, he canceled magic around himself. The first red bolt to reach his silent form just… fizzled.
+
+“Very few people follow this path and for good reasons,” Sidjin said. “It takes a good attunement and a lot of suffering to negate magic around oneself, which means that one must sacrifice the path of the mage. Even then, their defenses are not perfect.”
+
+This was demonstrated quickly by Medjin’s first. The fire mage had anticipated the combat, it seemed. The sand moved under his feet, carrying him away just as his opponent charged and swung where he had been. The knight was not just resistant but fast too. He would have been deadly against an unprepared mage. Unfortunately for him, the red mage was not unprepared. Pits opened under the steel-clad feet of the knight and his aura did not prevent the displaced material from crashing against him, on the contrary. The anti-magic field weakened the edge of the pit as soon as he approached. With a powerful jump, he still escaped from the trap. Meanwhile, the red mage kept moving around. He spread flames around himself as he went and Viv studied his technique with great attention.
+
+Some mages cast spells from one or two colors at the same time, but this one was different. There was red but also brown and gray. He was creating a fiery storm that surrounded the plated man without touching him. Nevertheless, the blur of superheated air showed that if he could negate mana, it could not cancel its effect on reality after the spell finished. The firestorm also masked the red mage’s movements. Viv could see where the red mana was concentrated, but the knight did not.
+
+He still lasted for a while. At some point, he even played for time, perhaps hoping that the red mage would tire. Instead, the area of effect only increased as fire fed fire. The traps and constant attacks tracking him eventually took their toll. He eventually surrendered.
+
+The crowd felt a little less enthused about this victory. Viv assumed they wanted to see at least one caster brought low. Viv would have liked to see more of Medjin’s team’s capabilities, personally. The lack of information was just frustrating.
+
+She hoped it wouldn’t bite them in the ass.

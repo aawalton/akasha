@@ -1,0 +1,311 @@
+---
+id: b7bc9823-caf6-59d8-be02-f04e51790bd0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 64: Stretching the Legs, Clawing the Chews"
+slug: 0064-chapter-64-stretching-the-legs-clawing-the-chews
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 64
+ownLength: 1484
+unit: words
+publishedAt: 2025-10-31
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2721005/chapter-64-stretching-the-legs-clawing-the-chews"
+royalRoadId: "2721005"
+---
+
+PoV Luna
+
+Freedom tasted like wind and pine!
+
+Luna ran.
+
+Bare feet beat against soft earth, moss springing under her steps. The forest blurred around her in flashes of green and gold. The air clung cool to her skin, sharp and alive. Every stride hummed through her bones until the rhythm drowned her thoughts.
+
+A squirrel shrieked and vanished into the canopy. A deer darted through the undergrowth, hooves cracking twigs as it fled.
+
+Luna laughed, bright and wild!
+
+She didn’t chase. Not yet.
+
+The forest opened ahead – a clearing drenched in sunlight, moss shimmering gold.
+
+Luna slowed to a trot, chest heaving, hair clinging to her neck. Her breath fogged in quick bursts. The quiet swelled around her again – birds gossiping, leaves whispering, the whole world breathing in slow, peaceful cycles.
+
+And all of it chewable!
+
+This was good.
+
+Better than the dum-dums’ slow mornings!
+
+Her nose twitched. The forest smelled rich – sap, dirt, faint traces of deer and rabbit.
+
+Food everywhere!
+
+Places to search all around!
+
+She could hunt now. Bite the next boar, deer, squirrel, or any other weak meat that comes around.
+
+Yes, Luna could do that.
+
+But her pack had eaten their tiny rations already and then gone right back to being lazy!
+
+Long “strategy” talks. Boring reports. No hunts. No chases. No spice!
+
+Lazy dum-dums.
+
+So Luna would train instead.
+
+Apex Wolf training!
+
+She crouched low, squinting at a nearby tree – tall, thick, smug-looking. Perfect victim!
+
+Her fingers curled into claws.
+
+She lunged.
+
+Momentum Claw!
+
+The strike landed with a satisfying crack. Bark burst outward in a spray of dust and splinters.
+
+Luna froze, then stepped back to admire her work. The trunk bore deep grooves – ugly and glorious.
+
+“Still works!” she said proudly.
+
+Then the sting hit.
+
+“Ow. Fingers hurt. Ouchwoo.”
+
+Two-leg claws weren’t built for battle!
+
+Too soft. Not bite-grade at all.
+
+She shook her hands, blew on her knuckles, then gave the tree a suspicious glare.
+
+“Tree cheated.”
+
+But the blow was strong!
+
+The enemy clearly defeated!
+
+Her tail wagged in victory.
+
+Her head tilted toward the wind. It carried the smell of cold water and wildflowers, with a hint of distance.
+
+Adventure smell.
+
+Somewhere ahead, the forest dipped into older woods – dark, tangled, full of things that bit back.
+
+Her grin spread.
+
+Yes. That was better.
+
+She crouched low again, heartbeat steadying into the rhythm of the hunt.
+
+“Strong meat this way,” she murmured, nose twitching. “Or maybe crunchy meat. Or spicy meat!”
+
+Her stomach growled in agreement.
+
+Decision made, Luna sprinted into the wind, laughter following her trail through the trees.
+
+Behind her, the wounded tree creaked softly. A few loose flakes of bark fell to the moss.
+
+Victory marked. Lesson learned.
+
+Fingers hurt, but adventure called louder.
+
+And Luna ran to answer!
+
+She chased smells through the bushes, across clearings, between the trees!
+
+Jumped over roots and sprinted over mud.
+
+The wind running through her flowing hair felt pleasant against the exertion.
+
+Running eased her mind.
+
+The wind carried her thoughts away until only the steady beat of her heart filled the forest.
+
+But even then, Syl’s voice found a way back in.
+
+Though between all the things Syl had said… only a few truly stuck around. The rest just too difficult for Luna to get.
+
+But the System said she understood it right!
+
+So it probably wasn’t important!
+
+Yes. Definitely!
+
+But one lesson still stuck with her.
+
+That Luna could expand her Status thingy?
+
+Weird!
+
+…But also that learning about herself meant biting enemies better. Her Second was right about that, it fit Apex Predator logic!
+
+Awooooo…
+
+If only learning from Syl didn’t involve math!
+
+Why say so many words about math?!
+
+Luna groaned out loud, slowing her pace until she stopped beside a fallen log.
+
+“Never again,” she muttered, glaring at nothing in particular. “Second tried to cook Luna’s brain!”
+
+Still, curiosity itched at her skull, sharp and annoying. Maybe this time the Status would behave.
+
+Maybe there would be fewer numbers.
+
+She sat cross-legged on the log, tail swishing in thought.
+
+“Fine,” she declared to the trees. “One more look, but if bad Luna chews you up!”
+
+A shimmer bloomed before her eyes, faint and silvery, the air warping in small, swirling lines.
+
+【Status】
+
+There it was. Her own shiny secret window of greatness.
+
+Numbers, skills, levels – all floating neat and smug before her face.
+
+She leaned forward, proud.
+
+“Silly Second thinks Luna doesn’t know what these do. They make Luna strong! Obvious!”
+
+The forest didn’t argue, so Luna took that as confirmation.
+
+Still… the glow tempted her. She reached forward and tapped a symbol.
+
+The shimmer rippled. New, smaller words bloomed beneath.
+
+【Devourer’s Right Lv.4】 【You claim what you have eaten. Deal increased damage to Enemies once devoured. Effect stacks with repeated consumption. Unique consumptions grant additional bonuses.】 【Current bonus: +4% per Devoured Claim.】
+
+Luna blinked, then grinned wide enough to show teeth.
+
+“See! Luna right! Hunt well, eat meat, get strong, repeat!”
+
+The forest echoed with her triumph. A bird flapped away from the trees, startled by her laughter.
+
+“Yip-yep, even System agrees!”
+
+No reply.
+
+“System disagrees?”
+
+Still silence.
+
+Luna frowned, then asked the important question!
+
+“Why is System chew-shaped?”
+
+No answer, but Luna thought the panel before her trembled just a little!
+
+Luna grinned wider.
+
+“Ha! Caught you!”
+
+She leaned closer, eyes narrowed in challenge.
+
+“I will bite one day if you still mean! You will see!”
+
+No answer again.
+
+But that’s okay! Only scared prey runs away!
+
+She puffed out her chest, triumphant.
+
+“Luna wins again!”
+
+The wind rustled through the leaves in what might have been laughter – or warning – but Luna ignored it. Her head felt lighter already.
+
+She hopped down from the log, flexing her claws.
+
+“See, Second? No headaches. No math. Only strong wolf!”
+
+Then, just as she began to run again, the System whispered one final note.
+
+【Vitality +1】
+
+Luna blinked, tail swishing.
+
+“Ha! Running really superior! Pack will have to learn too!”
+
+Her grin broke wide and bright across the quiet forest.
+
+Apex Predator always right!
+
+And then all thoughts faded, and she kept on running.
+
+The forest stretched wide and endless, a sea of green shadows stitched with gold. The wind rustled through the leaves, whispering promises of movement, of scent, of prey.
+
+Luna stopped at a particularly nice mossy patch right at the point where smell-paths crossed.
+
+She sniffed the air.
+
+Ahead smelled damp and heavy – wet bark and mushrooms. Boring.
+
+Left carried the bite of stone and old rock – cold and flavorless.
+
+Right, river. Good for drinking, bad for hunting.
+
+But there, to the left of the left…
+
+Her tail twitched at the faintest trace. Fur. Spice. A hint of heat curling under the trees.
+
+Spice meant food. Food meant strength. Strength meant more bites later.
+
+Perfect trail.
+
+She stretched once, toes curling into the soft moss, then bounded forward.
+
+Roots bent beneath her feet, branches parted before her. The forest sang beneath her stride – bird calls, snapping twigs, the crunch of leaves under her steps.
+
+Each breath pulled fresh air into her chest, burning and perfect.
+
+Each heartbeat drummed a rhythm that pushed the headache of Syl’s lessons further away. Words like percentages and efficiency were gone, chased off by wind and instinct.
+
+Running fixed everything!
+
+Her grin widened. The trees blurred together in streaks of shadow and light. Her body found its rhythm again – the balance of weight, the spring of muscle, the freedom of motion that always belonged to her.
+
+No dum-dum reports here. No talk of history, mana theory, or scaling paths.
+
+Only the hunt.
+
+Only the wind.
+
+Only her laughter ringing bright through the wild!
+
+A squirrel squeaked somewhere ahead and vanished up a tree. Luna barked after it for fun, then veered toward the scent she had chosen – stronger, warmer, closer now.
+
+The forest floor sloped down into thicker undergrowth, sunbeam to shadow, until even her light steps left soft marks in the soil. The scent pulled stronger.
+
+Her stomach gave a happy growl.
+
+“Yes, yes, Luna hears you,” she said between breaths. “Food first, thinking never.”
+
+She darted under a low branch, then glanced up through the gaps in the canopy. The Moon was hidden now – half asleep behind daylight – but she felt it anyway.
+
+Faint, distant, still watching.
+
+Maybe proud.
+
+Luna raised a hand toward the blue above and waved.
+
+“Yip-yep! Luna hunting now! System watching too! Status!”
+
+A soft chime echoed faintly in her mind.
+
+Her grin sharpened.
+
+“Good! Then System tell Luna where big spicy meat hides!”
+
+Silence.
+
+She cackled, head thrown back, and sprinted harder. The ground blurred under her feet. Air roared past her ears.
+
+Somewhere ahead, the trail broke wide into promise – of motion, of prey, of crunch.
+
+Forest beware!
+
+Apex Predator Luna was on the loose!

@@ -1,0 +1,173 @@
+---
+id: a06ed021-b8d3-564d-ab86-dc08f266f109
+page-type-slug: story-chapter-royal-road
+title: "Chapter 621: Thanks, Dave"
+slug: 0043-chapter-621-thanks-dave
+partOf: system-change-system-universe
+position: 43
+ownLength: 2514
+unit: words
+ownProgress: 2514
+publishedAt: 2026-01-16
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2947200/chapter-621-thanks-dave"
+royalRoadId: "2947200"
+markedReadAt: "2026-06-29T19:58:06.992Z"
+---
+
+Chapter 621: Thanks, Dave
+
+As Derek made his way out of the shop and began his trek to Natalie’s courtyard, he couldn’t help but continue to roll his eyes when he thought of the Queen. He couldn’t fault her for wanting to go, but she seemed a bit too intrigued. Edgar’s words about her wanting to marry a human—particularly him—to better relations between the races came to his mind, and he shuddered.
+
+Of all the elven royalty that he’d met—on both continents—it was crazy to think that after their short interaction, she had made the best first impression. Of course, she’d had the opportunity to see him in action before they met, whereas Ryven and Osian did not. She was definitely a bit full of herself, but wasn’t that true for all royalty? Oh well… I’ll make a decision on the day of.
+
+Soon, Derek made it to Natalie’s manor and walked through the front gate into the courtyard. There was food supplied by Silvi, drinks supplied by Braxton, and even music. Derek glanced at the crowd until he found Rayna and Jacks, then walked over to them.
+
+“Y’all having fun?” he asked once he got close.
+
+“It’s nice having everyone together like this, even if it’s for the last time,” Rayna replied. She had a smile on her face, but there was a sadness in her eyes.
+
+“Hey, just say the word and I’ll kick a few people out, and the four of you can come,” Derek said. He didn’t like the idea of losing Bones and Ogre, but the two former assassins had the contacts and the freedom now, so they could make a good life in Cydaria if they had to stay. Then, there was the possibility that Thomas would choose to stay back, too.
+
+“We couldn’t,” Rayna said, and Jacks agreed with a nod behind her. “We… neither of us are strong enough to help, and we would only burden you. But most of all, I don’t want to take any risks with my babies if I don’t have to.”
+
+“And I just reconnected with my son… I can’t leave him again,” Jacks said.
+
+“I understand,” Derek replied. Their reply was exactly what he’d expected. “It’s going to suck not being able to visit the two of you… at least for some time. But I really do hope and expect to be able to come back one day. I wasn’t making that up. I just don’t know how long it will take.”
+
+“We’ll be waiting,” Rayna said. “I look forward to seeing how much stronger you become. It’s hard to think that you’re not already as strong as possible. It makes me feel… small in the grand scheme of things.”
+
+“I’m sure we all feel that way,” Derek replied. He then looked over his shoulder and sighed. “I’d better go visit with everyone else, too. I’ll talk to the two of you later.” He made to turn, but just before he was able to, Rayna threw herself into him and grasped him in a big hug.
+
+“You’d better take care of yourself, and you’d better come back to us,” she whispered in his ear. “I want Hunter and Stacy to be able to get to know their uncle one day.”
+
+As she spoke, Derek’s breathing hitched, and he felt tears threatening to form in the corners of his eyes. He let out a long breath as he wrapped an arm around her and patted her on the back. He saw Jacks with a big grin on his face and snorted. Finally, Derek ruffled Rayna’s hair like he’d done before and how he always did with Brandi, and separated himself from her.
+
+“When you put it that way, I’m going to have to work even harder than I thought.”
+
+“Good,” Rayna said. “Now go say goodbye to everyone else.” She made a move to shove him away.
+
+“Fine, fine.” Derek took a step back at the motion. “But it’s not like I’m leaving tonight,” he said.
+
+“But when is everyone going to be together like this?”
+
+“You’re right.” Derek nodded, then turned to the crowd just as the Queen and her guard walked into the courtyard. Looks like she found Natalie’s place, he thought as he ignored her and walked toward a cluster of people.
+
+It seemed that Natalie had gone all out on the gathering, as Derek recognized people he knew who he hadn’t invited to the earlier meeting. Just how much information does she have about me, anyway? He saw Emily, who was the manager who took over at the Searidge Crown Restaurant once Stella left. Silvi was in a corner surrounded by three guys and three girls.
+
+He frowned for a moment before he recognized one of them as the chef who let Silvi sit in and practice cooking with them. I think his name was… Greg? It took him a minute to remember the name, but he did. Well, Silvi looks happy to see them.
+
+Carrie, the blacksmith who was basically neighbors with Derek, was there with his wife, Cindy. The teleport official, who was friends with Jacks, nodded to Derek as he walked past to go see his friend. And on top of all that, pretty much the entire group of people he went into the raid dungeon with showed up—even Victor Greenland, whose kin had been slain in the raid dungeon.
+
+Seeing almost everyone he’d had an interaction with was a bit overwhelming. The night became one of the most emotional ones he’d ever had. Saying goodbye to the friends and acquaintances he’d made since arriving in Cydaria wasn’t an easy task. It was hard for him to make it all the way through without shedding a tear, but somehow he managed.
+
+Towards the end of the night, after he’d spoken with everyone he wanted to, he found Edgar standing alone by a fountain and walked over. “What are you doing over here?”
+
+“Nothing much, just thinking,” Edgar said.
+
+“About what?”
+
+“Vanessa,” the former prince said with a sigh.
+
+“Yeah, about her,” Derek said. “I thought she would jump at the chance to go if you did.”
+
+“We’re close, but it’s mostly just been for fun,” Edgar replied. “We grew a little closer in these last few days, but that was really just enough for her to see that we couldn’t really have a future together. We want different things. She wants to honor her role as a spymaster for Cydaria even though Edward would release her in a heartbeat if she asked. I want to grow stronger. I want to fight. I want to make up for what I lost by power-leveling before the raid dungeon. This is the first and most likely the best chance to make all that happen that I will probably ever get. It’s not something that I can miss.”
+
+“Whew…” Derek pretended to wipe the sweat off his brow. “And here I thought I was going to escape all the emotions by coming over here.”
+
+“Sorry,” Edgar said with a chuckle. “But you don’t have a monopoly on leaving people behind. I’m sure everyone who stepped forward is going through the same things that you are.”
+
+“You’re probably right.” Derek slapped his friend on the back. “At least most of them.” He didn’t for a second believe that Klaus was having an emotional night.
+
+After that, Edgar and Derek talked for some time. Eventually, everyone left, and Derek went back home. He was more exhausted than he had been after his trip to and from Earth. That night, even after everything, he slept like a rock.
+
+The next day, Derek got up and went to fetch Jace and Edgar and brought them to a clearing far away from any people. There was something he needed their help with.
+
+“So, why are we here?” Edgar asked.
+
+“Do you want me and Edgar to spar?” Jace asked with a wicked grin.
+
+“Not on your life, buddy,” Edgar replied. “At least not yet… right? You don’t want us to spar, do you?”
+
+“No. If I hadn’t already witnessed both of you go all out, it would have been a good idea to know what you’re capable of, and it still may be after the rewards the two of you got from the invasion. But no, that’s not why I’m here. I got a new skill, and I have to test it out. If it seems safe enough, then I would like the two of you to… also test it. But I don’t have a clue what it’s going to do, so you need to be far away before I activate it.”
+
+“That doesn’t sound ominous at all,” Jace said, but he still moved back along with Edgar. Derek kept waving him back and back and back until he figured that there was no way the domain could be that big.
+
+Here we go… he thought as he activated Void Eclipse. Suddenly, a dark purple sphere the size of a car appeared directly above him. The air all around him went still, and hundreds, if not thousands, of void ripples appeared. Derek closed his eyes and pushed his Void Sense to its limits. It was a different feeling from what he got when he used Void Travel.
+
+It was chaotic, but it didn’t seem nearly as dangerous. Derek moved around and didn’t notice it doing anything adverse or helpful to him. He frowned and then walked over to the edge of the domain. Edgar and Jace had already moved closer—just outside the area.
+
+“What…the…fuck?” Edgar muttered when Derek got close enough. “What does it do?”
+
+“I’m not sure…” Derek replied truthfully. “It, like… brings the void to the outside or something.”
+
+“Well, it looks cool as hell,” Jace said. “It’s like you’re standing in the eye of a hurricane or something. It’s a pretty windy day, but it just dies as soon as it enters. Is it safe for me?”
+
+“I wouldn’t risk that yet,” Derek said. “Can one of you go get a monster?”
+
+“On it,” Edgar said, then disappeared with a flash of lightning. He was back in less than thirty seconds, holding a level 98 Forest Bear by the scruff of its neck.
+
+“Toss it in,” Derek said, and Edgar did so. The bear landed behind Derek on its back, then slowly stood. A look of confusion and panic fell over the bear’s face as it started waving its arms in all directions. It would wave them fast, then it would slow down and wave them slowly. A couple of times, it just halted its movements altogether. “I… that didn’t help me at all,” he said as he watched the flailing but fully healthy Forest Bear.
+
+“Seems safe enough to me,” Jace said, then before Derek could tell him to wait, he stepped inside the domain. As soon as he did, he looked confused as well. But after a second, he smiled and said, “What exactly is the void again?”
+
+Derek frowned; for a moment, it sounded like his voice slowed, then sped up. He shook his head and then answered his friend. “I’m not entirely sure,” he said. “But so far, I know it deals with space and time, and the description of the skill also mentions space and time. But I think there may be something else mixed in, like chaos or corruption or something.”
+
+“I see…” Jace said as he waved his hands just like the bear had been. “This is pretty awesome.”
+
+“What is?” Derek asked.
+
+“Do you not feel it?”
+
+“Feel what? I feel the exact same as I did before I used the skill,” Derek said.
+
+“Really?” Jace asked. “That’s going to be one hell of an advantage.”
+
+“Jace, would you please tell us what you mean?” Edgar finally asked from outside the domain.
+
+“Step in and see for yourself. It’s not going to harm you at all.” He nodded at the bear. “Yogi is still alive, isn’t he?”
+
+“You named the bear?” Edgar asked, but Jace didn’t answer. With a sigh, Edgar stepped inside too.
+
+“Wow…” the lightning user said. “The effects are minor, but if they could be made more potent…”
+
+“One hell of an advantage,” Jace said again.
+
+“Indeed,” Edgar replied. Then he looked at Derek and said, “Space and time, right?”
+
+“Yes.” Derek nodded.
+
+“What if I told you that I can literally feel my thoughts slowing down and speeding up at random? That I can feel it the same in my body. It’s minor, nothing like how badly affected that bear is, but it is there.” Just as he said that, the bear disappeared and reappeared instantly about a foot from where it had just been.
+
+“No fucking way,” Jace muttered. “It just… teleported like… a foot.”
+
+“Space and time,” Edgar said again. “Random increases and decreases in time for everyone but Derek, it seems.”
+
+“How fun!” Jace replied as he took off running. He ran around for a good five minutes. During that time, Derek let the confused bear go. Soon, Jace came back and shook his head. “You need to make it stronger. I didn’t get teleported a single time. The timing issue is weird, but I think I could work through it given enough time.”
+
+“But if it was the first time you were in here and it was a life-or-death battle?” Derek asked.
+
+“If I were fighting someone with the exact same strength as me? It would definitely give them the advantage.”
+
+“I see…” Derek said. He then closed his eyes and tried to will the skill to change like he could with the Void Sense.
+
+“Whoa…” Jace muttered.
+
+“What?”
+
+“The timing issues are happening more often and for a little longer. Not much of a difference, but I can feel it.”
+
+Derek nodded, then concentrated on pulling back.
+
+“We’re back to normal,” Edgar said. Even the tree limbs, wind, and leaves began moving again.
+
+“So I can activate the domain, then choose how powerful I want to make it… to an extent…”
+
+“That seems to be the case,” Jace replied.
+
+“Well… that’s not bad at all,” Derek said. “And if I can level the skill and make it stronger…” he said, but as he did, he was hit by a notification.
+
+This will be our last communication. I look forward to seeing you in Origin City. Don’t die.
+
+Note: Look for inspect skill blocker. Work on Enigma in lower-level areas. Try to stick to level 500 or lower areas to do so.Note: Use new skill cautiously. Very physically visible, but aura is somewhat low at current level. Don’t worry about Emperor unless someone is close enough to see the skill itself. Be cautious as skill grows. Increasing effects increases skill aura, increasing discoverability. If used, keep power on the lower end. Max that was just performed is fine.
+
+Derek smiled and closed the notification. Enigma? That’s the Achievement that messes with the Identify skill, right? I guess that’s a way to keep people from seeing my status. Derek looked up and nodded. Thanks, Dave!

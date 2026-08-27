@@ -1,0 +1,323 @@
+---
+id: 847a563a-a59f-57d9-99cf-df54b3bda985
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 457"
+slug: 0156-the-path-of-ascension-chapter-457
+partOf: the-path-of-ascension
+position: 156
+ownLength: 4253
+unit: words
+ownProgress: 4253
+publishedAt: 2025-11-10
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2749672/the-path-of-ascension-chapter-457"
+royalRoadId: "2749672"
+markedReadAt: "2026-06-29T19:33:07.362Z"
+---
+
+Chapter 457
+
+Gervásio Mendes froze with everyone else in the pagoda as twelve new presences appeared in low orbit over the breachpoint. Ships had been arriving hourly and were mostly ignored unless they were Tier 35 or higher. A brief scan was normally all any group earned, but this was twelve people arriving where they shouldn’t have been. And as such, they got extra scrutiny.
+
+While he himself kept out of it, content with observing from a distance, most didn’t feel the same. Spiritual perceptions clashed as most of the higher-Tier groups tried to probe the Empire’s newest groups of Chosen and their delving teams.
+
+Gervásio found the implications of the Chosen not bringing their ship along far more interesting than anything gleaned from a spiritual scan.
+
+The more he mulled it over, the more he didn’t like it.
+
+Signaling his people to ignore the new arrivals as much as possible, he hoped they would keep to the Tier 30 areas, leaving everything a little higher alone. Despite that wish, he felt it in his gut they would probably clash. Their relative combat powers were too close, and that would inevitably lead to intertwined interests.
+
+Personally, Gervásio didn’t want anything to do with Ascenders or anyone else. He and his team were only here to make their fortune with the breach. He wanted nothing to do with the factionalism the Sects were forcing by arriving en masse either, but such matters were beyond his capabilities and he was forced to play ‘the game’ with everyone else.
+
+Their unified presence had forced the Tier 35 groups from each Great Power to band together, or be forced out and hope to reach one of the other breachpoints before the bubble popped and unleashed a concentrated wave of turbulent chaotic space energies. Anyone caught in close proximity to such a wave without a ship inherently able to explore the third layer of chaotic space would find their lives ended without fail.
+
+Neither Gervásio nor any of the others wished to chance such a fate, so they banded together. Alone, none of them could beat the Sects armada, but together they had enough weight to crush them, which kept things amicable.
+
+That, and the Sects’ new young prodigy, the one put in charge of this fiasco, clearly wanted nothing to do with it.
+
+As a keen businessman himself, Gervásio could see Gan Le would rather do anything other than ‘fighting for the Sects’ Honor’ as some of the more battle hungry factions liked to phrase it. Those psychopaths were looking for any excuse to slaughter people they could find, and barely trying to disguise it.
+
+Another group he wished not to get in contact with.
+
+However, Gan Le was no pushover. For all of his lack of desire, he adroitly navigated the situation, keeping things from turning into a bloodbath.
+
+Rather than letting such aggression fester, he had suggested ‘friendly sparring’ in space. From anyone else, it would have been an excuse to kill people, but with his stipulations that any serious injuries would result in mirrored consequences, there were few underhanded attempts to cripple or kill.
+
+Gervásio had felt the two could work together, and had by virtue of not being an ass kisser, managed to navigate his group into a good position in both the Corporations and Sects camps despite being only Tier 32.
+
+He was about to check on Gan Le’s reaction to the new arrivals when his Talent flared to life and shattered all of his carefully constructed plans.
+
+Gervásio was technically a Seeker.
+
+As a kid growing up in the Corporations, he’d thought it had been his chance to rise. And it had been, but it’d given him something far from the easy life he envisioned.
+
+His Talent was all about opportunities.
+
+Even with his Tier 3 and 25 Talents improving things, he had limited control over what his Talent directed him towards. All he could ever be sure of was that it always led to the theoretical ‘best outcome’.
+
+He’d also learned the hard way at Tier 1, it wasn’t a path to easy success where he’d find lost money on the side of the road, rather a pointer to what he should be working on.
+
+When it directed him to apply to the mechanics specialty school, he had followed its general guidance to graduate with a few additional benefits under his belt. Not as many as he could have. He sometimes failed in securing the items, but thankfully, the Talent’s highest priority seemed to be his life. If he was ever in true danger, its focus would immediately shift to the best way for him to survive.
+
+It was far from foolproof, and its mistakes combined with his sometimes poor execution of its guidance had led to painful times.
+
+His Talent had led him from disaster to near-disaster time and time again, but he still trusted it enough to know it pointed to only the best things. The damn Talent had even found him his husband.
+
+Which was why he was taken so off guard when the new Chosens’ arrival made his Talent scream at him.
+
+Opportunity had arrived.
+
+He liked to picture his Talent like a fire— it was how he first envisioned it— and despite not needing that framework any more, he liked it and operated best while using it. When his opportunity was far away in either distance or time, his Talent was like a single ember. When he probed it when it was in that state he would only get a general sense of what to do but little else.
+
+The moment before the Chosens’ teleportation, it had been a smoldering fire, still alight but with very little visible flame. Now, it blazed like an inferno firmly targeted on the new arrivals.
+
+Instead of being happy, Gervásio felt his stomach plummet through the floor.
+
+That didn’t stop him from sending a message to his husband and second in command, Felipe. “Get everyone on high alert. All personnel to their stations. Get the shields online and at quarter power. I want them ready to be brought fully online if we need to at a moment's notice. My gut tells me something big is about to happen.”
+
+He could see Felipe’s worry but his second in command got things in motion quickly before replying via message, “What happened?”
+
+Gervásio quickly explained what his Talent told him but Felipe wasn’t any happier to hear that than he was, having long dealt with his Talent’s penchant for getting them into danger.
+
+As they waited, the Chosen were taking the time to saunter down to the central pavilion, so the two of them started formulating plans for every possible scenario they could think of.
+
+Somehow, they were still wrong.
+
+Gervásio watched in astonishment as Chosen Wraith completely disarmed Gan Le and led him away. He would have been less impressed if she had captured him through a battle, but instead she managed it through sheer charisma and her willingness to smile at even the people who sneered at her.
+
+He idly noted in another life she’d have made a truly fantastic sales executive. He could easily envision her being poached from business to business as her Tier advanced to sell bigger and better products. A natural saleswoman like that was a rare find, and the deeply established corporations fought over them fiercely.
+
+His idle thoughts vanished as Chosen Legion started to speak and his Talent thrummed like an instrument carefully plucked.
+
+“What other information do you all have? We were here for about a decade at the start of this and have the chaotic space recordings. We’ll trade them one for one with anyone whose Seekers can speculate about Tiers of the first few worlds inside.”
+
+Having been warned by his Talent to look deeper, Gervásio analyzed more thoroughly than he might have otherwise.
+
+A very attractive woman, Chosen Legion had an air of command about her. The daughter of Tier 48’s, she had a confidence backed up by her own might. Together, those factors made the words that might have otherwise been considered rude, accepted without more than a grumble from the general crowd.
+
+Gervásio watched as most of the strongest groups dismissed the Chosen, seeing her words as a lack of respect they felt due to their higher Tier. Fools too used to people who advanced on reasonable and predictable time frames.
+
+His Talent flaring to life told him the truth.
+
+It was a multilayered test that went who knew how deep.
+
+“We are taking the offer.” His words were quick and left no room for complaint as he put action to them, downloading the information and agreeing to her terms.
+
+Feeling his Talent pulse in urgency he added, “When they do it, make sure we put everything we have in the reply. Trust me.”
+
+Their dedicated long-range Seeker combined with their navigator's Domain had already indicated several interesting bits of information about the nearest breach planets, but this would help considerably. He and Felipe had earlier considered if they should leverage that information for a better spot through the tether, so Gervásio knew his actions looked crazy, but he had built up enough trust that no one on his team wasted valuable time questioning him.
+
+They knew he’d explain why after the fact but, as he felt a creeping urgency starting to rise, he broke out in sweat. He could have stopped it but let it happen, using the connection to deepen his bond with the iron crown embedded in his skull.
+
+His growth item helmet's least conspicuous form was anything but subtle. Still, it was better than the full face version that made him look like a villain.
+
+As much as he hated it, the crown was half of the reason he was able to be as successful as he had been. One of the first items his Talent directed him to, and had nearly killed him in acquiring, it was worth every downside it came with.
+
+Activating its metaphysical half, he felt the information his Talent sent him become far more digestible and understandable. For the briefest of moments, Gervásio felt as if he had total omniscience, but that quickly faded, and all that remained in his mind was related to his Talent’s target.
+
+Getting the updated reports and seeing they were excellent, with notable improvements at least partially thanks to the additional information, he sent the documents and waited.
+
+There was no immediate reaction from either his Talent or from Chosen Legion, but Gervásio felt the intensity of his Talent finally stop rising.
+
+He’d done all he could, and anything further risked the opportunity more than it helped.
+
+The passing of information helped in numerous ways. As the Chosens’ presence and domineering attitude became accepted, a number of groups stopped paying quite so much attention to them and returned to politicking.
+
+Already, several of the Tier 35 groups were trying to gather enough support to prevent or at least delay the Chosens from entering the natural tether. Noting the foolishness, he quietly kept his people on high alert, feeling that a disaster was about to fall upon them.
+
+As if trying to prove him wrong, things seemed to be settling down into an even more harmonious atmosphere as the Chosens went to do PR stuff with the Empire people back in spa—
+
+Gervásio and everyone else shot to their feet as they felt the world ripple.
+
+Having experienced something similar before, he knew this world had connected with its counterpart in the breach a year earlier than it should have.
+
+He immediately started shouting orders through his [AI] to his crew getting them ready in case a fight broke out.
+
+As he did so, he felt his [AI] beep but he pushed the notification aside to deal with the immediate crisis.
+
+His efforts were interrupted as a fight nearly broke out.
+
+The most radical Sects factions immediately drew their weapons, ready to fight the Empire groups. In a vacuum that would have been fine, but they did so despite the presence of lower Tiers of every Great Power who would never survive such a battle.
+
+Gervásio was preparing to get himself and Felipe out when the angry shouts inside were overtaken by a second much more interesting topic from the outside. Calls from all factions for their leaders to check their [AI] pushed through the building anger.
+
+Along with everyone else, Gervásio checked the message he received from Chosen Legion before they absconded with the Sects’ new little prodigy. As he did so, he finished giving his orders keeping his people on high alert.
+
+All of that came to a halt as he recognized what he had been given.
+
+Catching himself, he changed his orders slightly and looked to Felipe, silently communicating the gravity of the situation.
+
+Thankfully, they weren’t the only ones to get a message. Everyone did in fact.
+
+The basic message came from the ascender Ra’thala as they left. It also served to stymie the outrage that had just started to boil over. It did so by containing a Tier 15 formation that only could have come from another Realm given its unique design.
+
+A portable method to stabilize interplanetary tethers.
+
+As they had proven the effect, if successfully scaled up, it could forcefully open a breachpoint nearly a year in advance.
+
+It was a massive advantage and anyone would be able to enter months earlier than they had expected, so long as the documentation wasn’t exaggerating about the effect being less Tier dependent than most, as it was only strengthening a naturally occurring phenomenon.
+
+They, along with a few other groups, the ones who had shared their information, had gotten something else.
+
+Something extra from Chosen Legion.
+
+A Tier 20 version of the formation that was much, much more detailed and had much better effects.
+
+Gervásio’s suspicions that his group were the only ones to get a Tier 25 version, thanks to his quick acting, was confirmed when he read deeper into her message.
+
+Additionally, they had actually been given a full license to the highest-Tier design and could innovate upon or sub-license it as they chose. His mind went to developing it first and selling it second, but both seemed viable.
+
+Any exploration groups willing to risk a run through a bubble would pay handsomely for the information. Doubly so for the higher-Tier groups that were entering the proper second layer of chaotic space, where they sought to find the greater concentration of worlds blown in from the third.
+
+It also calmed Gervásio down. Seeing the formation in use explained why they were willing to share it so freely. Sharing the lesser versions openly removed a massive target off ascender Ra’thala’s back, while their quick exit ensured no one was able to pressure them outside of settled space.
+
+Some of the idiots seemed angry enough to try, which could only end badly as people inevitably chose a side.
+
+Looking at their blueprints, they might be able to reconnect the tether with the better formation, but that was the last thing on Gervásio’s mind.
+
+Using his limited control over his Talent’s target, he found the general group’s best option was to take this reward back to settled space as quickly as possible. But the moment he entered himself into its calculations, it pointed deeper into the breach.
+
+Sharing Chosen Legion’s message with his husband, Gervásio watched as Felipe smiled, paled, then fully blanched.
+
+Skipping the positives he privately asked, “What's wrong?”
+
+Gervásio wanted to avoid this, but knew this was best done quickly. “You all need to return to settled space. Get working on this. There is something I need to do inside.”
+
+“What do you mean? This windfall is massive. How can there be something more important?”
+
+Felipe’s response was clipped and sharp, but there was a mountain of concern in his words.
+
+Meeting Felipe's eyes, Gervásio spoke as a leader and not a spouse. “My Talent is telling me I need to enter. Alone. That’s my best shot at whatever it is it wants me to do.”
+
+Felipe glared at him and Gervásio understood it was his husband doing so and not his second in command.
+
+Silently, Gervásio hoped they wouldn’t fight but suspected it might be inevitable.
+
+He knew it was a foolish risk when they had such a lucrative opportunity at their fingertips, but his Talent insisted there was an even greater opportunity still waiting in the breach.
+
+The best course of action was to go back home. He wanted the crew to go back. He’d make his own way back even if he had to hitch a ride and pay through the nose for the effort. Any theoretical loss would more than be made up for by the early mover’s advantage, but he couldn’t.
+
+Gervásio’s Talent told him deep within the bubble was a personal opportunity even larger than the sky bridge stabilizer design.
+
+There was a pivotal moment for his development ahead if he could seize it.
+
+He couldn’t pass that up, but neither could he ask the crew to risk a surefire reward for his foolishness. Not even Felipe, though he desperately wished he could have his assistance.
+
+His husband was second in command and this was a sacrifice both of them had already long agreed on, even if they didn’t like it.
+
+Reaching out and grabbing Felipe’s hand, he squeezed slightly as he grinned. “I’ll make it up to you.”
+
+Tapping his crown, he winked, but the normally successful maneuver fell flat.
+
+“Don’t die. I have a bad feeling about this.” Felipe’s response was hard but his eyes were filled with warmth and Gervásio knew what he was really saying was ‘be careful’ but neither would utter such words in deep chaotic space.
+
+“I won't. I never do.”
+
+Seeing his husband leave with everyone else he hoped he could live up to that promise.
+
+Preparing himself, he settled down to wait out the remaining year.
+
+He wasn’t about to risk sharing the Tier 25 stabilizer, and the Tier 20 wasn’t strong enough to work this soon.
+
+Through his Talent, he could feel this was going to be a dangerous breach, and he knew better than to blindly trust it to get him through safely.
+
+He had to do that himself.
+
+***
+
+Tessa smiled as Remi walked away, having seen through his ploy to get her to join him in a hunt. And, though he never said it, the possible killing of the two Legend teams.
+
+Pretending to be a loose Sects cultivator being in deep cover, she smiled as she told him she’d help if she could.
+
+She even got to play the part of the zealous Sects cultivator and spout some nonsense about the honor of Gan Le.
+
+Remi, the arrogant little shit that he was, smirked as if she was an idiot but she didn’t call him out on it.
+
+With her current orders, even seriously wounding a Legend was worth blowing her cover, and such a mission would be much easier if she could infiltrate the irate pinnacle elite’s band of idiots.
+
+So would killing him in fact.
+
+Before this body left settled space she had been updated by her handler and Remi himself was a valid target.
+
+If she could use his anger to latch onto him that would put her in a position to do both so she put up with it.
+
+He was trying to use her so it was only fair that she used him in return.
+
+His reaction to his fight with the Legend seemed exaggerated, possibly fabricated, but she wasn’t sure. Outwardly he seemed genuinely angry at the Legend but only time would tell if it was a deliberate play the wolf put on or true hate.
+
+Either way, she found it a useful cover. Few true idiots made it to their level being so obtuse, but his anger was pushing him to play a very dangerous game.
+
+So was Tessa, but this body was ultimately disposable, and its loss was minor if she could strike out at such a high-value target.
+
+If worse came to worse, she could ensure one of the Republic’s pinnacle elites died, giving the Clans a small advantage when the war undoubtedly rekindled after the breach.
+
+If her body was examined within a few minutes of its death, people would see the ghostly brands that kept the possessed body alive, but they would fade beyond detectability after that.
+
+So long as there was no definitive proof, nothing would be able to be pinned on her this far from settled space.
+
+Ideally, she would reabsorb the brand so she could use it on a new body, but its loss was perfectly acceptable.
+
+Comparing her orders with the amount of latitude she’d been given by sheer necessity for such a deployment completely out of communication, her priorities were clear.
+
+Cause as much chaos as she could, but if she couldn’t kill any of the Legends, she should kill Remi.
+
+The old dog Vana was very protective of his descendants, and her pre-mission briefing  contained information that implied Remi was on track to promote his bloodline to Rank 3. Taking him out was of high strategic interest, and her second highest priority.
+
+What none of the snooping she had done could tell her was why the wolf was taking the fight with the Empire Legends so personally.
+
+There was endless speculation, but no one had come upon anything that held water. So upon joining his little camp, she started digging.
+
+Being a Clans spy, she had learned many skills and easily subverted several of his subordinates' external devices.
+
+She almost immediately found paydirt, which was obviously suspicious, though she passed the information along by piggy backing a Clan Ship’s AI. The hidden data packet would send itself once the ship or any Clan ship it communicated with returned to settled space.
+
+According to the chat messages, Vana had given Remi an artifact of incredible power and their leader wanted to establish his prestige with it.
+
+Tessa didn’t believe that excuse at all, but she didn’t dare dig any deeper. Not yet at least.
+
+Instead, she helped Remi fester discontent about the Empire in general and the Legends in particular.
+
+Their efforts were stymied slightly by the goodwill the Legends had earned, but thankfully, she and a few others in the lower Tier 30s were able to start a few fights. Nothing escalated too far, but it still fomented discord in the lower Tier groups especially.
+
+The remaining Sects leadership deliberately pushed for further escalation, but Tessa wasn’t willing to step forward and start killing, as some of the higher Tiers tried to encourage.
+
+No one else was either, knowing it would most likely end up with their own death, so things mostly settled down.
+
+The new ascender Ra’thala had made his entrance into their Realm with a splash.
+
+Tessa knew enough to know the Tier 0 skill creation method used strange principles, yet she had never put too much credit on them being from a lower Realm. But now, she reconsidered her stance.
+
+Sadly, she doubted she’d ever get the chance to sit down and talk to the man. Or at least, she hoped not.
+
+Instead of fighting, most groups started trying to create the new formations.
+
+Only passable herself with enchanting and even less so in formations, Tessa could only watch on as even the higher Tier teams dedicated enchanters else struggled to learn the new style of formation.
+
+Most groups either tried to convert the formation into something more standard and easier to create, while the rest tried to brute force the creation method.
+
+Using various methods, she pried into each group's progress and updated her information packets.
+
+She could almost feel their giddiness at the advantage the Clan’s would receive going forward having aggregated everyone's initial efforts with the stabilizer.
+
+Instead of mulling over such things, she pushed herself deeper into her role, agitating things whenever possible without singling herself out too much and getting crushed.
+
+Their meddling was eventually halted by a Tier 36 who nearly beat a Tier 35 to death when a fight broke out next to their camp.
+
+After that, no one dared to do anything but exchange harsh words on the planet and no one was willing to lose their claimed spot to go to space and settle things with a fight.
+
+While they waited, Tessa worked on hacking into any exploration groups’ logs who seemed to be making progress with the tether stabilizer.
+
+Days turned into months, and with the formations still unable to form a stable connection, resentment started to build even without any deliberate prodding, which Remi gloated about vulgarly.
+
+Thousands of the best exploration groups had been forced to watch as some of the lowest-Tier competitors waltzed in and blew everyone's plans up. For some, each passing hour started to feel like a personal torture session.
+
+Finally, with everyone’s focused efforts, a group was able to get one of the Tier 20 formations working.
+
+It didn’t immediately solve their issues, but its presence finally let everyone relax.
+
+Two months later, almost four months after the Legends incident, one of the original stabilizer designs snapped fully into place.
+
+Like hungry hyenas, thousands rushed forward, salivating over worlds they normally would never be able to explore.
+
+Tessa couldn’t help but feel that this was going to be fun.
+
+For her at least.

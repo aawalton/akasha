@@ -1,0 +1,489 @@
+---
+id: be25f404-81ea-5af6-8f26-44c2d375982b
+page-type-slug: story-chapter-royal-road
+title: "468 The Past, Present, and Future"
+slug: 0428-468-the-past-present-and-future
+partOf: the-new-world
+position: 428
+ownLength: 6395
+unit: words
+ownProgress: 6395
+publishedAt: 2025-09-02
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2567322/468-the-past-present-and-future"
+royalRoadId: "2567322"
+markedReadAt: "2026-06-29T21:36:03.205Z"
+---
+
+Standing up from the meditation, I felt ready for what was to come. I stepped out of my owned space, and everything crushed around me. The pressure was a tangible thing, but I welcomed it. Spreading my hands, I clasped my fists. It was good to be alive. I had a few notifications, but I'd read them after heading out.
+
+It was time to destroy the time area with Chrona.
+
+Chapter Begin
+
+Having everything I needed, I set out in search of Chrona. Her position was obvious on my minimap, and I found her outside the barrier of the city, fighting various local eldritch. I floated over, watching from several kilometers away. Against a thriving mangrove tree, Chrona stood tall and faced it down.
+
+The vines and roots of the plant came to life, each of them wielding water and earth magic. Fruits swelled on the eldritchian horror, and they ruptured into swarming fields of wasps and spores. Streams of abrading water erupted from the creature, and the soil beneath Chrona condensed to crystals that shot out of the ground.
+
+As it turned a vast area into mulch, it wielded the entire region against Chrona. I inspected the monster.
+
+Celestial World Waving Ent, the Endless Encroach of Nature | Level 31,019
+
+I smiled at the level. It was one of the strongest eldritch that spawned here, and it held an enormous sway over the entire area. Facing it down, Chrona kept her gaze steady. Moving her tail like a fencer's sword, she deflected the incoming projectiles using subtle flicks. Each angle of her tail left an attack bolting past her face and sides, the wind flowing over Chrona's shining skin.
+
+She used my tail cover to wield gravity and telekinesis. While Chrona struggled to summon those forces, applying them was well within her abilities. It bolstered her formidable skills, helping Chrona disrupt the flow of her enemy's magic and attacks. Whenever a stray strike angled too well for her to dodge, Chrona's Planet Wielder skill gave her the heft to meet the monster head-on.
+
+As they fought, everything surrounding them disintegrated. It was a strange aspect of fighting on Rebirth. The celestial ent was a monstrous foe. It cleaved enormous portions of the surrounding forest, tearing down entire hills from the whiplash of its strikes alone. Its earth magic shifted city blocks of soil at once, and it upturned entire lakes through its sheer will alone.
+
+Yet it wasn't enough.
+
+Chrona narrowed her eyes, keeping an inexorable focus. Watching them destroy everything in the distance reminded me why Empires had so much raw territory. Their main administrative planets were established on low-gravity planets with minute mana concentrations. Worlds like Rebirth acted as the wild frontiers for the same empires, the hostile terrains becoming grinding stones for the brave.
+
+Rebirth was firmly in the frontier category, having strong native eldritch. That gave the elites of a guild the leeway and space to truly master destructive fighting. On Earth, this kind of duel would collapse structures for miles in every direction. Unprotected humans would be killed in the carnage, and entire ecosystems would be converted to ash and upturned dirt.
+
+It was another reason to take this planet as my own. Those thoughts tumbled in my head as Chrona and the ent fought. After a few minutes of handling the crushing blows, she smiled and laughed.
+
+"Is this it?"
+
+The writhing ent had used all of its tricks, but Chrona had yet to use her most pressing skill. A reverberation through reality bent time to her will, and everything slowed as she hastened. It left her bolting across the battlefield in a playground that was all her own. Bounding forward, she shuttled to the ent with immense momentum.
+
+Timing her reversal, she whipped every bit of that driving force into her tail. The ent sliced three colossal roots at her, timing its own strike. As they met, the terrain howled out in explosive agony. Shrapnel erupted for miles, bits of rock pattering against my skin. Several clashing blows cascaded those forces, the clouds trembling overhead.
+
+My eyes widened, and I murmured.
+
+"Ah, that's an interesting way to use telekinesis."
+
+She wielded a different kind of magic than I did. Instead of putting all the surface area into a tiny point, Chrona did something similar. She applied all of her force into a series of thin, telekinetic lines. In essence, a telekinetic blade. Without the tail cover, she would've sliced herself apart. It acted as the conduit for her force application, and it held immense power.
+
+Behind the ent, a mountain fell sideways as the telekinetic blade sliced it apart. The ent's body split apart before regrowing as a mass of tumbled knots. Chrona pressed her advantage once more. The invisible, telekinetic force flowed forward like a series of invisible blades, and the ancient and powerful ent took on grievous wounds before falling apart.
+
+A series of invisible slices cut the monster apart. Before it regrew, Chrona took a deep breath and released her icy breath. The cubes froze in place, and I smiled yet again. Chrona had learned how to incorporate the stasis principles from Ghelid's territory into her icy breath. Taking a closer look, she hadn't actually bent the fabric of reality yet, but instead, she applied raw magic to achieve a similar effect.
+
+It wouldn't work against a controlled space, but it was still great progress. The ent was unable to even budge itself. The cubes of wood shivered in their prisons before frostbite bit through their entire forms. In a minute, the ancient ent passed, and Chrona let out a breath of relief. I clapped my hands while hovering down.
+
+"Wow. That was excellent."
+
+She turned to me, sweat dripping from her brow.
+
+"I do my best, but I still cannot match the pace of your removal."
+
+I gazed at the frozen blocks.
+
+"Eh, but you've got a lot of utility. The time manipulation and stasis are a deadly combo, and anyone you fight with will benefit from them too."
+
+Chrona wiped her face with her tail.
+
+"Perhaps, but it is nothing before absolute destruction."
+
+I shrugged.
+
+"Little is, but I think that's a binary lens for looking at combat."
+
+Chrona smirked.
+
+"That's easy to say when you have that kind of annihilation in your palms, while I do not."
+
+I swung a hand.
+
+"Speaking of, I'm about to head over to the time-blipping area. I was wondering if you wanted to go?"
+
+Her eyes widened, and she hopped over like a bounding puppy.
+
+"Ooh, absolutely. I will do all that I can so as not to be a burden."
+
+I rolled my shoulders.
+
+"Chrona, you're never a burden. Now, let's go."
+
+Chrona took a breath and gazed at the dying eldritch.
+
+"Ash-tah, leh-vee, stah, baby."
+
+I furrowed my brow. Chrona gave me a side eye, a satisfied grin on her face.
+
+"I already know that you've yet to see one as cultured as I in your old world's ways. I have used that reference from an old saying from your time, and you may show your surprise whenever you are ready."
+
+I deadpanned.
+
+"You mean hasta la vista, baby?"
+
+Chrona's eyes widened.
+
+"Ah, so that is the proper enunciation."
+
+She flushed.
+
+"It would seem I've made a fool of myself then."
+
+I waved a hand.
+
+"Not at all. If you want a crash course in how to do that, just talk to the vanguard golems."
+
+A vanguard golem stuck its head out of the bushes.
+
+"But should the almighty Harbinger call for me, I will be ready whenever-"
+
+Chrona and I turned to it. We said in tandem.
+
+"No."
+
+The vanguard gave us a thumbs up.
+
+"I fully understand. There are times when a more subtle approach is required. I will leave you both to it."
+
+It exploded out of the brush, creating a shockwave as it tore through many trees. Chrona murmured.
+
+"I must admit that the antics...They're endearing."
+
+I scoffed.
+
+"Let's agree to disagree. Come, let's head out."
+
+We swooped through the vast, indeterminate plains that surrounded the capital of Rebirth. As we passed them, I checked out my status and found a few surprises.
+
+Unknown Skill Unlocked! 500 skill points awarded.
+
+Spatial Domain | Level 11 - Many who trespass onto this world know little of its origins. They understand that there exists a surrounding to themselves, yet they lack the will to try and pull at it. To reach out and find something in the ether. You have found that this space encompasses your entire being.
+
+And instead of letting it decide what you may do, you have chosen to rise above it. By doing so, you wield the world.
+
++11% to Spatial Domain Range
+
++11% to Spatial Domain Duration
+
++11% to Spatial Domain Effects
+
+It was a skill I had anticipated, but the name of it surprised me. It matched the effect, but it sounded violent. I mean, this skill hadn't involved tearing the space like a rip in time would have, but according to the skill, I was operating on a paradigm that was just as impactful. Hm. It was like I changed the space itself rather than destroying it.
+
+After pushing the surrounding dimension away from myself, I used my dimensional wake to fill in the void. My laws and principles then became the norm, allowing me to manipulate reality a bit. If anything, it was a natural progression of my wake, and it may protect me from the whiplash of future skills.
+
+In fact, it could protect me from the ripples of the Old Ones. I recalled Eonoth's utter destruction of my form, and a bitter laugh escaped my lips. I would need every advantage I could obtain. Revelations aside, I gained skillpoints, so I put them in Schema's Champion. A satisfying ding rang through my mind, and I anticipated the benefits for a moment before checking them out.
+
+Schema's Champion Tier III unlocked!
+
+It beckons and has become aware of you. It doesn't fully understand that you contain many of the abilities it seeks, yet it has heard the whispers of those it trusts. In time, it will come. When it arrives, you must be ready. It is a user of the Old Ones, and in doing so, it has become both their bane and their champion.
+
+That is why all you understand now rests on your shoulders.
+
++3,000 to level cap
+
++ 3 tier to the access level of Schema's Archives(Gold) | Gives certain tree, skill, and class specs. Unlocks extra informational utilities, weekly Overseer calls, and the ability to rent system vessels and faculties.
+
++ 3 tier to technology level allowance(Gold)
+
++ 3 tier to economy privileges(Gold)
+
+Sovereign Exclusive: +3 to hidden mana type allowance
+
+I read through the message, and I frowned. The benefits were as esoteric as always for this tree, but the message it left was not. Schema was warning me about someone who was using the Old Ones. If not for Marcella's words, I'd still not know the name, as even Schema feared communicating it.
+
+I pulse of dread coursed over my skin like passing brutal roadkill. Considering my current progression, I felt confident that I was on the right path, but the urgency of the message gave me pause. Was I doing enough? The question lingered like poisonous self-doubt. Even from my cursory experiences here, it seemed as though higher-tier beings operated on law-based magic.
+
+The Old Ones gave avatars powers and artifacts on that axis rather than normal physics, and that explained how they held such absolute powers. Shalahora's psionics were a great example. Mesmera likely gave him some kind of conditional power that couldn't be beaten by conventional means, augmenting the Sovereign's already potent mind magic to absurd heights.
+
+Getting myself acquainted with the mechanics and workings of that law, magic could only help. Other than that, I tried reading a few of the advantages of the tree in more detail. Unlike most, this one had a bunch of subsequent documentation, many of its inner workings nested in small details and fine print.
+
+They left me smiling. Effectively, this unlock gave my guild added rights and the personal ability to rent stuff. What kind of stuff? Good stuff, of course. Schema monopolized a lot of the information and calculative power in his system. That's why he didn't let people establish complex informational networks. It wanted that as a point of leverage over other people.
+
+Normally, that is.
+
+My guild would be an exception, and we'd get an enormous leg up on other empires because of that. This tree upgrade was a further extension of those benefits. Did I need to translate some external language outside the system? I could rent out an AI powerful enough to decode it. What about creating a special quest that needed weird system allowances? If I had the credits, I could make it happen.
+
+This held a lot of sway for me since I didn't have many avenues for spending money in general. My body was beyond most gear, and my fighting style didn't use weapons. I didn't care about any collectibles or artifacts, either. Once again, I could make those due to how broken my armor and my multiversal abilities were.
+
+This gave me a nice menu for using those credits, and I intended to take advantage of it in multiple ways. Tucking that away in my mind, I reoriented to the present. We neared the edge of the time territory, and it appeared as odd as I remembered. Objects, creatures, and even the terrain shifted in position, age, and makeup.
+
+As we crossed the temporal threshold, my vision blurred. Hm, but that wasn't quite the right description. My vision curved, as if I viewed the world through a panoramic, fisheye lens. Objects bled together at the edge of my sight, and the sounds around me shifted in tone and volume.
+
+Some boomed as deafening roars that droned for eternities. Other sounds were crisp, light blips that hardly registered. It was instantly overwhelming. I rotated my perceptional mind over and over, preventing the mental strain from affecting me. However, compared to the other territories, this was a brutal bludgeoning of the senses.
+
+For the first time, I fought the ambient mana from soaking in, and my wake was a wall for the mana. I couldn't push away the oddness of reality beyond that point, however. Not without creating a spatial domain, as Schema called it. To my surprise, Chrona could. She spread her wings, and our surroundings mullified. A wave of palpable relief coursed through me, and I let go of my held breath.
+
+Turning to Chrona, I smiled.
+
+"Thanks. That was like an acid trip, one I wasn't expecting."
+
+Chrona smirked.
+
+"It would seem the Harbinger isn't infallible?"
+
+I gazed at my surroundings, finally able to take it all in.
+
+"Far from it. That's why I have a guild and a team."
+
+We pressed on. The temporal territory was similar to the undefined central arena. Elements from all over the planet fought here, slugging it out for dominance. It was a futile struggle as the white-knuckle hold of time made its mark on all. The elements, creatures, and reactions of everything shifted and squirmed, trying to get out of the temporal ruptures.
+
+This only made it worse.
+
+We floated over the entire struggle, unaffected in Chrona's temporal dilation. It drained her mana to move it like this, so I kept the Rise of Eden over her while tossing primordial gemstones her way. Taking mana potions as we went, Chrona maintained her unrealistic mana consumption, granting us safe passage through this drudgery.
+
+And drudgery it was. The realm inflicted a perpetual and meaningless struggle on all that lived here. The residents were creatures from other territories that wandered in. Unable to find their position in time, they couldn't escape. Many of the eldritch mirrored Sysuphis of legend as they tried to break out, only to end up right back where they scurried from.
+
+It was sad, but unlike Ghelid's territory, this suffering seemed unintentional. The mana didn't benefit from capturing the creatures here. It simply was, and that made the experience all the more nihilistic. Chrona watched the fierce struggle with sadness in her eyes.
+
+"They are fish caught in a net. They struggle, scrambling for an escape, yet they are only food for that which has caught them."
+
+I took a breath, keeping my resolve.
+
+"We should take as many blue cores as we can. Considering your temporal field, it shouldn't be difficult to get them."
+
+Chrona frowned.
+
+"I'd rather we stayed here for as short a time as possible."
+
+I peered at the agony below.
+
+"We have two reasons to do harvest as we go. Firstly, ending their suffering is a mercy."
+
+"It is as you say."
+
+"Secondly, if we waste time now, we could regret it later. If you ask me, I'd rather take the suffering I know than the kind I don't."
+
+Chrona widened her eyes at me.
+
+"That...It was a remarkably wise saying. Did you learn it from Torix?"
+
+I grabbed my chin.
+
+"Oh, no, I kind of just said it. Well, in essence, I did. I had twelve minds fighting over how to say that. One of the minds went for it, and it ended up working out in the end."
+
+Chrona scoffed.
+
+"And the illusion of profundity was shattered. C'est la vie."
+
+I pointed at her.
+
+"Ayeee, you did it. That's the correct phrase at the right time."
+
+A toothy grin grew on Chrona's face.
+
+"I did? Hah, an unexpected joy is always welcome, but enough talk. Let us choose the suffering we know, shall we?"
+
+A ripple of energy coursed through my runes.
+
+"Always."
+
+I gave her a nod, and we dove down into a rift. They weren't hard to find. Like most places, the dungeons centered around leylines and the eldritch guarding them. In these tortured spaces, each monster carried strange, blipping abilities that abused the time dilation present.
+
+Once again, Chrona's magic rendered them null the moment they entered her domain. It resulted in the eldritch losing their abilities and combat prowess. Cleaning them up required little input from me, and I watched our levels rise in a steady, reliable fashion. As we collected hundreds of leylines, the sheer power and efficiency of Chrona's magic left me feeling inadequate.
+
+I marveled as she disabled another set of eldritch.
+
+"You know, I'm supposed to be the living multiverse here, but it feels like you're the one who owns your surroundings."
+
+Chrona had a soft smile on her lips, her amusement obvious.
+
+"There is a simple explanation for that. These beings operate on the same ideas as I do. We all work to take the space we occupy and bend it to our liking. This gives us control of our surroundings that you simply can't have, but I wouldn't be too quick to judge our methods and deem them superior."
+
+I waved a hand and washed a pack of monsters away in a storm of singularities. Chrona breathed her icy breath at me to cool my body to a normal temperature. She continued her speech.
+
+"We change the laws of nature that we occupy, but we are also bound by them. They are the operating principles, and in essence, we work on pulling those levers to achieve our aims. You are different. I believe you are building your own domain from scratch, and from what you've told me, you're fighting this dimension off as you do."
+
+I'd told her about my abilities long ago. Chrona was an excellent sounding board for ideas, given her experience with time magic. I carved another hole into the landscape, singularities leaving absolute destruction in their wake,
+
+"Yeah, but when I see you tear these guys apart like this, I just wonder if I'm tackling my magic from the right angle."
+
+Chrona tilted her head at the monsters.
+
+"Despite all you've said, you remain unaffected by anything they've tried doing to you. I am fully vulnerable, and that immunity is a boon in and of itself. All of this is to make a singular point; I would take your own advice and limit comparisons between you and me."
+
+She nudged me with her tail.
+
+"It isn't good for either of us."
+
+I smiled.
+
+"Hah. Thanks for the reminder."
+
+She nodded.
+
+"I will always be here when you need them."
+
+We managed to harvest around two hundred blue cores as we swept across the shifting terrain. It only took about two weeks of accelerated travel to get near the central area of the time territory, and we arrived prepared. I already sent warnings to the others about fighting the autarch of the area. Knowing my allies hid in the confines of Rebirth's capital, we headed into the strangest zone yet.
+
+Here, the time magic oozed out of the ground like bursting geysers of boiling oil. Creatures changed from their elemental forms, adjusting to the odd, overbearing principles. They existed as dark blue insects of tremendous tenacity and power. Their shells sheened an emerald green, and their red eyes carried malice.
+
+Yet they only watched as we flew over. Even if we closed in, they remained unaggressive. That was due to their nature. Instead of battling one another directly, they created towers reaching into the sky. These rudimentary structures were piles of wreckage, each construct made of any objects they could find.
+
+Having stripped the ground bare, these beetles left a desolate landscape in the wake of their building. It grew ever more bleak as we passed towers that became more solid. It was like traveling through an old world slum, and Chrona shook her head in disgust.
+
+"They are possessed by the mana here."
+
+I observed a beetle knock over a competitor's tower.
+
+"Aren't we all possessed by something?"
+
+Chrona frowned.
+
+"Not like this."
+
+Having no battles, we got to the central tower that rose far into the sky. While not a small structure, its height defied physics, and it pierced the clouds above. Even stranger, the leader of the territory erected the tower like a half-done Jenga puzzle. It writhed back and forth, parts of it as narrow as a hose pipe while patches above thickened to the width of a city block.
+
+Heading up, we found pillars, machinery, and various memorabilia from a time long passed. It reminded me of worn-down collectibles from some kind of cyberpunk videogame, grit and all.
+
+I waved my hand at it.
+
+"We'll probably be taking this all once we eliminate the ruler here."
+
+Chrona ogled the supplies.
+
+"Are those records of their past? Oooh, this might be an interesting territory after all."
+
+Chrona's hunger for pop cultural memorabilia left me stumped. Unable to find an answer on my own, I turned my palm to her.
+
+"So why do you like movies, books, and other stuff from old eras? I've been dying to ask."
+
+Chrona laughed.
+
+"Who doesn't appreciate history?"
+
+I furrowed my brow.
+
+"That's not what you look for, though. You're after what defines a culture's entertainment, not necessarily the historical records. I'm not judging, just wondering why is all."
+
+Chrona flushed.
+
+"Perhaps I you are correct. Perhaps not."
+
+I raised my brow.
+
+"Assuming I am?"
+
+She sighed. The air whistled in our ears, her expression's sound lost in the vast rifts of passing wind. She telepathized,
+
+"Back in Giess, on Rivaria, I was one of the lead musicians for Emagrotha's orchestra. I still remember my many performances and the stories we told in song. It was the brightest part of our capital, and we had eons of history built into those tales. In many ways, it was the culmination of our entire species' understanding and experiences. It reflected what we thought on a deeper level than mere historical recountings could ever convey."
+
+She closed her eyes, lost in memory.
+
+"Those stories, songs, and writings exposed how we thought of, well, everything. When Lehesion began the civil war, he destroyed the majority of that culture. All the stories of the past were replaced with tales of what was to come, of his future, and what he would do. In many ways, it was the true death of our people. To this day, I still regret not taking more of those precious songs or stories and writing them down."
+
+Her eyes watered.
+
+"I see what remains of these other peoples, and I cannot help but reflect on my own mistakes. I left precious artifacts to fall into oblivion, and I must watch others do the same time and time again. It saddens me. Deeply, it does."
+
+We waited for a moment of silence to pass. When she was ready, Chrona brightened.
+
+"So I will help preserve the truth of other people. I've been working with other gialgathens to help the Vagni retake their stories, too, and I'm doing the same for the skeptiles, humans, and eltari. I may not be able to get back what my people have lost, but I can help others avoid our fates."
+
+It was a touching reason, and I was moved.
+
+"Ah. That's a damn fine reason. If you need any help-"
+
+She shook her head.
+
+"I'll be fine. You must dedicate yourself to your tasks, and I will mine. Besides, it's as you said earlier. I will choose the suffering I know. Otherwise, I may end up with even more regrets."
+
+I put a hand on her side.
+
+"Sure thing. But look, I'm not saying I'll spend decades helping you recover documents. However, can I give you a record collection department at the guild, right? Besides that, I have a few benefits I just gained from a tree that might help us get back some of what you lost as well."
+
+Chrona's eyes widened.
+
+"Really? How?"
+
+I gazed at a few screen menus.
+
+"So, if I'm right about this, the gialgethens were in systemized territory. If you give me the right amount of credits, I can exchange them for espen documentation on the gialgathens. You guys were in the system for a while, so it should be possible."
+
+Chrona's eyes lit up.
+
+"I would like that very much."
+
+I smiled.
+
+"Anytime, Chrona."
+
+We headed up the cliffside in that wholesome quiet. Once at the apex of the tower, we found another area where time mana spiraled about. After flying up, Chrona landed and took a breath. Wielding space and time, she pressed her will onto reality, but nothing shifted. She gritted her teeth, pulling at the seams of reality.
+
+After several minutes, she could not pierce the veil. I stepped up with a smirk on my face. I raised a hand and parted the storm from our path using my dimensional wake. Chrona rolled her eyes.
+
+"Ah, yes, of course. I am deemed superb at clearing the riff-raff, yet you pierce the impenetrable storm between us and this entity with ease. Do tell me of your lacking merits once more, by all means."
+
+I gave her a thumbs up.
+
+"Let me think...Ok, I make awful puns sometimes, and I hold back from saying them sometimes since they're always so, so bad."
+
+She took a reluctant breath.
+
+"Oddly enough, that does make me feel better. Onward we go then."
+
+I raised a palm.
+
+"Wait one moment, I want to feel this mana."
+
+"Wasn't it disorienting before?"
+
+"Yes, but I let the other manas soak in to get a better feel for them. I want the same opportunity with this energy, even if it isn't as comfortable as the others."
+
+She flew up, flapping her wings and whipping the wind.
+
+"I will wait here then. I have much to think about, so no rush."
+
+A curt nod later, and I stepped up to the temporal storm. For some reason, my armor bristled at the prospect of even touching it, let alone entering the swarm. I shook my head, resolving to enter. I stepped forward, and as I expected, it grated into my body like pins and needles. For some reason, my body rejected the energy outright.
+
+It fought against the temporal influence on a fundamental level. I kept wondering why, diving into the sensation and pulling more of the energy into my frame. I kept experiencing an intense dissonance, and it reminded me of my experiences molding time magic. The same utter chaos, disassociation, and inhuman dissociation rattled into my brain like a butterfly trapped in a shaken cage.
+
+I kept feeling it, tolerating the suffering. Was it suffering? Honestly, I couldn't really pinpoint the sensation. It was a unique experience and was similar to a delirious nightmare mixed with a vivid reality. Personally, I despised it. Down to my core, I loathed this sensation. Questions and emotions raced into my mind.
+
+Why was time magic so difficult to learn? Even more so, why was it so necessary? I didn't have a choice in the matter. If I didn't abuse time magic, then I'd be utterly screwed when trying to keep up with the monsters of the wider world. Avatars, eldritch, and the Old Ones. They all knocked at my door, and Schema piled on all the absurd expectations to new heights as I unlocked new trees.
+
+It left me scrambling at every moment, trying desperately to stop things from falling apart. Even when I did all of this, even when I sacrificed my comfort, my peace, and my untainted perspective on the world, I still failed. Like now. The time magic turned several of my outer minds insane.
+
+Why? Hell if I knew. The energy simply did. That was the truth I found in Schema's world. In my life, actually. Whenever my life was on the line in BloodHollow, my only way out was through pain. I turned my blood into magic, and that was the only way to get through. I had to sacrifice to survive.
+
+After experiencing that, I watched my home get buried in spores. My neighbors mutated into zombies, and I fought against monsters far beyond my abilities. I prevailed, but most of my home was left as a post-apocalyptic ghost town. Finally, I achieved a moment of peace that was shattered by an assassin who tried to kill me and Althea.
+
+Then Giess. Then Elysium. Then, the lottery. Now, Kriiyah and some far-off, universe-ending threat. What was my solution to it all? Pain. Discomfort. A personal purgatory I induced on myself at all times. Many of myselfs, actually. I held back tears as my pity party truly reached new heights. We had kazoos and everything.
+
+Damn, it had been a while since I felt tears welling up. It was pathetic. I had been given this insane opportunity as a dimension, but I couldn't even achieve a semblance of time magic even after many years of diligent study, practice, and application. It was so integral to my path, and I finally found a place reeking of the stuff.
+
+Even when surrounded by suffocating amounts of the mana, I rejected it outright. I was that untalented, that ungifted in using the temporal sorcery. It left me hopeless. Gah, here I thought I had finally found a way out of the insane time magic I used, but no. I hit my forehead while letting out a pained laugh.
+
+It was absurd to think I'd ever find a way out of this. If anything, I shouldn't have let myself get my hopes up. I blended my minds and put them into my wake. Ah, yes, that's right. This was my greatest strength. The ability to suffer. The ability to be beaten. It's what my father showed me ever since I turned eight years old.
+
+The system only reinforced that fact. My ability to endure was all I had, and the more I endured, the more I would need to continue enduring. I let out a more manic laugh, my arms spread wide. As I did, the magic reached a critical density before soaking into my soul. I breathed it in and breathed it out, relishing in the agony.
+
+After reaching a certain threshold, something about the mana reoriented. It soaked into my body and began realigning something. It tugged at something I'd never felt. As if unbottling a jar of lightning, the mana unleashed a new sense. All around me, I experienced my surroundings. I felt the air with my wake. I could see from every angle and smell the condensed soil below me.
+
+Even greater senses arrived. I gained an awareness of the gravitation, mana, and even the rays of light piercing through my wake. And, finally, the time. That perception gave me an awareness I'd never had. In that instant, I could feel the pace of my timeline compared to my surroundings. And it was different.
+
+It bent to my will, hastening as my surroundings slowed. My laugh, seconds ago, so full of bitterness and pain, carried an incredulity. A lightness. A levity. I had always wondered why it was so difficult to manipulate time. Well, I wasn't manipulating the right timeline. I was trying to tug at a reality that I wasn't a part of.
+
+That's why I used this twisted process that I jury-rigged together. I had to establish a rudimentary control of my dimensional wake since I lacked that nuance or comprehension. That let me manipulate the temporal flow of space even though I wasn't a part of it. I gained awareness by turning my mind into something else, something that could touch the ineffible aspects of my dimensional wake.
+
+And of course, if I altered myself into my surroundings, it was going to feel awful. This new sensation operated on a different principle, and it was nothing like my previous methods. The smoother, tranquil flow of magic carried peace and calm. That wasn't because the time magics were innately different.
+
+It was because I was. I was my own dimension, and that included a timeline all my own. If I gained a total awareness of that timeline instead of the surrounding dimension, then I'd be able to shift my temporal flow with far greater ease. It would make my life so much better, and I closed my eyes to breathe that in.
+
+I didn't need to suffer. It wasn't a part of me. Pain didn't give me anything innately. At times, it was a necessary path, but I didn't have to experience misery at all times. I could have fun and still save the universe or whatever the hell Schema was trying to get me to do. There was no law written into the universe stating otherwise.
+
+If anything, it felt like I had been feeding into some pretty poor self-beliefs. Beliefs from a pre-system era. Ones that were fed into me by an abusive father and friends who thought I was nothing more than a tool to be used. A belief that I was nothing more than someone who was beaten and that, somehow, someway, that made me strong.
+
+From seven to seventeen, I lived that life, and I believed it was the only one I could live. So I fed it. I gave that belief food and fuel it never deserved. I put up with absurd circumstances, and the system continued to instill that belief into me. It found that tolerance and pressed it against my throat like a poison-soaked knife.
+
+I couldn't leave Earth until I faced Yawm. Hm, but what about intervening with the gialgethens? What about helping out Obolis's empire and their war with Elysium? Hell, I could've let everyone die in the lottery and just left. I chose to take on those burdens, and I think it was because I believed the pain of doing so was my path. I had thought that suffering was inseparable from the core of my being.
+
+Now, I perpetuated that agony, and it was all my own doing. And for what? Stats? Attributes? You know, the stats I could gain from the system instead of from my own suffering? Or even from killing eldritch? It was lunacy. I had put myself into such a poor mental state just to get more of what I was guaranteed to get with time.
+
+I should've taken a different angle or tackled a different problem instead of trying to force time magic as I had. I would've had more mental energy to progress in a myriad of other ways. Like right then and there. I soaked in the time magic, letting it pierce deep into my being. I let it affect every mind, and I watched my psyches shift their temporal position.
+
+A few went into what felt like the past, and a few arrived from an uncertain future. They continued rippling, and I soaked in as many of the magic's insights as I could in the meantime. That is, until there was no more mana to take. I opened my eyes, wondering what had happened. Around me, the raging storm of time principles had soaked into my body. I absorbed all of them, and I stood as a shifting afterimage.
+
+As I floated over to Chrona, I left several after-images frozen in time as I reached her. I spoke in stilted words.
+
+"How goes it?"
+
+My voice was butchered. Chrona winced.
+
+"You seem to have taken a liking to the mana?"
+
+I raised my hand, grasping it while containing the forces. I flowed the mana through me, hastening the temporal flow of my dimension. I smiled.
+
+"Oooh, I have. It's quite nice."
+
+I relished my newfound dimensional awareness, and I turned to the autarch of the time terrain. A coursing blur of images coalesced in an instant, revealing the ruler of this realm. A collossal pharaoh gazed at me, the Egyptian style being slick and timeless. It had the face of an ethereal Doberman, its skin composed of galaxies and entrapped spaces.
+
+Brutal intelligence simmered in its ancient, glowing red eyes. On its back, a scarab beetle shell covered translucent wings that pulsed time mana. Runes covered the scarab shell's surface, and the cipher crackled in rhythmic waves of pure power.
+
+It spoke in a diligent voice, one like an ancient librarian.
+
+"The Harbinger and a dragon. This is truly a momentous occasion. Come. Let's have tea and toast."

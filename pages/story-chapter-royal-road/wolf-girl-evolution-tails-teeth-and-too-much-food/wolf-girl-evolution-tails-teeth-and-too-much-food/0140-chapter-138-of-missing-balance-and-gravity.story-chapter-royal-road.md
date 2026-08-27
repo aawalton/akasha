@@ -1,0 +1,587 @@
+---
+id: bc951fba-932f-5737-9e96-9310b729b708
+page-type-slug: story-chapter-royal-road
+title: "Chapter 138: Of Missing Balance and Gravity Suggestions"
+slug: 0140-chapter-138-of-missing-balance-and-gravity
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 140
+ownLength: 2658
+unit: words
+publishedAt: 2026-07-06
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3641023/chapter-138-of-missing-balance-and-gravity-suggestions"
+royalRoadId: "3641023"
+---
+
+PoV Syliana
+
+The idea had been hers.
+
+That was the part Syliana kept reminding herself of whenever Luna looked back at her with bright eyes, twitching ears, and far too much hope for someone currently interpreting “careful test” as “permission to become a silver-black catastrophe.”
+
+At Veyrfall, the thought had seemed obvious.
+
+Without Ray, Trianna, Veric, and Sepio traveling beside them, the old travel rhythm no longer made sense. There were no rotating positions to manage. No full-party formations to preserve. No need to keep five different bodies moving through the same terrain.
+
+There was only Luna.
+
+And Syliana.
+
+And Luna was very, very fast.
+
+More importantly, Syliana could reinforce herself with magic. Hopefully enough to survive whatever Luna considered speed.
+
+If she willed the reinforcement properly through muscle, bone, breath, and balance, Luna’s speed became less impossible to endure and more just dangerously unstable.
+
+…And instability was a problem Luna’s own shadows solved.
+
+Which meant the question was no longer whether Luna could go faster.
+
+The question was whether Syliana could survive finding out how much faster.
+
+“Faster,” Syliana said.
+
+Luna froze.
+
+Then her ears shot up, and tail gave a hopeful wag.
+
+“Faster?”
+
+“Carefully faster.”
+
+…That distinction survived for approximately three breaths.
+
+Then Luna became pure motion.
+
+Syliana reinforced herself long before the first true burst of speed hit. Magic tightened through her body as Luna launched forward, bracing ribs, spine, shoulders, and breath against the acceleration. The forest blurred around them. Branches snapped past overhead. Dirt vanished beneath silver-black paws. Shadows streamed along Luna’s limbs and caught roots, stones, and uneven ground before they could break her stride.
+
+The speed was absurd.
+
+And yet – if the blurry sights were not lying to her – almost entirely controlled.
+
+Syliana felt the pattern beneath it after the first dozen heartbeats. Luna did not simply run. She caught the world in pieces, pushing from shadow to shadow, and letting each shadow push her forward, ever so slightly faster, letting momentum carry her body while instinct corrected each step faster than thought.
+
+Syliana’s grip tightened once when Luna bounded over a fallen trunk and landed sideways against a sloped bank.
+
+Luna noticed almost immediately.
+
+Too immediately.
+
+She slowed just enough to glance back, ears twitching with concern.
+
+“Second okay?”
+
+“I am fine, you’re just very fast,” Syliana said, though her heart was beating hard enough to argue. “Keep going.”
+
+Luna’s tail lifted, her eyes glowing with happiness at the praise.
+
+“More faster?”
+
+“Not yet.”
+
+“Tiny bite faster? A chewy little more?”
+
+Pfft–
+
+Syliana wanted to laugh, but this was serious!
+
+“Luna.”
+
+The tail lowered by one tragic degree.
+
+Syliana exhaled and adjusted the reinforcement around her ribs.
+
+“If we are going to travel this way, I need to learn your pace before we push it further.”
+
+Luna blinked.
+
+“Second training?”
+
+“In a sense.”
+
+The wolf girl straightened with enormous seriousness.
+
+“Then Luna shall train Second in proper Apex Predator speed!”
+
+Syliana opened her mouth.
+
+–And Luna launched.
+
+There was no warning beyond one delighted tail flick and the sudden violent certainty that the world had become horizontal motion.
+
+Syliana reinforced herself further on instinct. Magic snapped tight through spine, ribs, shoulders, and neck while the forest became streaks of green, brown, and silver light around them.
+
+Ah.
+
+Regret.
+
+Immediate regret.
+
+Yet Syliana managed to hold on anyway.
+
+Luna’s paws struck the road once, twice, then barely seemed to touch it at all. Shadows caught beneath her steps and pushed, stretching from root to root and stone to stone so smoothly that Syliana felt less like they were running across the forest floor and more like Luna had decided the world existed primarily to be used as traction.
+
+A fallen tree crossed the path ahead.
+
+Luna did not slow.
+
+She slid directly up its trunk, crossed the length of it sideways, kicked off the splintered end, and landed against the sloped bank beyond, moving on as if nothing unusual just happened.
+
+Syliana’s stomach attempted to remain somewhere behind them.
+
+Her reinforcement held.
+
+“Luna,” Syliana managed.
+
+“Yesh?”
+
+“The path is below us.”
+
+“Yip!”
+
+“And we are not on it.”
+
+“Still going the right way!”
+
+Syliana opened her mouth.
+
+Then closed it again as Luna kicked off the sloped bank and landed against a moss-dark boulder without slowing.
+
+Wuh–
+
+Sigh.
+
+…Apparently, for Luna, “the right way” had very little to do with where the road actually was.
+
+Then the old path broke open ahead into a narrow ravine where rainwater had eaten through stone and root. Syliana saw the safer descent, the turn beyond it, and the place where they could cross properly if Luna just slowed down a little.
+
+But Luna saw none of those things.
+
+Or worse, saw them and considered them boring.
+
+Her body dropped forward.
+
+Syliana’s grip tightened.
+
+“Luna–”
+
+It was already too late.
+
+Luna ran down the wall.
+
+Vertical stone accepted her paws for reasons Syliana was certain stone had never agreed to before. Shadows spread beneath each step like dark claws, holding just long enough for Luna’s momentum to carry them downward, sideways, and then beneath the broken lip of an overhang.
+
+For one impossible breath, the sky disappeared.
+
+Stone rushed above them.
+
+No.
+
+Below them.
+
+Both, somehow.
+
+Worse, they got even faster!
+
+Syliana reinforced harder and chose not to think about orientation.
+
+All while Luna laughed!
+
+Pure, delighted, triumphant laughter.
+
+“Hehehehehe!”
+
+The sound echoed under the overhang as Luna’s shadows snapped from one patch of darkness to the next. Then she kicked off the stone, surged up the opposite wall, and burst over the far ridge in a spray of dirt, leaves, and smug wolf-girl triumph.
+
+Luna froze for half a heartbeat.
+
+Then her entire body went dangerously still.
+
+Syliana knew that stillness.
+
+“Oh no,” she said.
+
+Luna’s tail rose.
+
+“Skill likes speed!”
+
+“Luna–”
+
+The wolf girl took off again.
+
+Faster.
+
+Much faster!
+
+Syliana’s reinforcement slammed tight around her bones as the forest vanished into motion again. Wind tore at them both. Branches blurred overhead. Luna’s shadows streamed wider now, catching not only ground and roots but bark, stone, slope, and the underside of anything foolish enough to exist near her path.
+
+Syliana held on and made a rapid, private revision to her earlier conclusion.
+
+This had been her own idea.
+
+She regretted it profoundly.
+
+But she was so not letting go!
+
+***
+
+Eventually, Luna slowed down.
+
+Not because the path she took demanded it. The ‘path’ had clearly lost all authority several ravines ago.
+
+She slowed because Syliana tightened one hand in her fur too hard for too long.
+
+“Luna.”
+
+The wolf girl skidded through leaves, shadows catching beneath her paws until the forest stopped blurring around them.
+
+Then she looked back with bright eyes, wind-tossed fur, and the pure satisfaction of someone who had just won an argument against geography.
+
+“Second alive!”
+
+“Yes,” Syliana said carefully, unclenching her fingers one by one. “Second is still alive.”
+
+“Yesh! Was good training!”
+
+Syliana inhaled.
+
+Held it.
+
+…And released her breath very, very slowly, feeling the tension going with it.
+
+Several responses presented themselves.
+
+Most of them were rather unhelpful.
+
+…One was just screaming.
+
+Luna remained turned toward her with bright eyes, ears high, tail swishing through the leaves behind her. Proud. Hopeful. Waiting.
+
+And unfortunately, not wrong.
+
+Syliana had wanted to know whether faster travel was possible.
+
+It was.
+
+She had wanted to know whether her reinforcement could hold under Luna’s speed.
+
+…and it had.
+
+Mostly.
+
+She had also learned that Luna considered roads, slopes, ravines, walls, overhangs, and possibly several laws of nature to be loose suggestions.
+
+Which was… enlightening. And a little scary.
+
+Yet incredibly–
+
+Impressive.
+
+Syliana finally unclenched the last of her fingers from Luna’s fur and rested her hand between the wolf girl’s ears instead.
+
+“Yes,” she admitted with a slight smile. “It was good training.”
+
+Luna brightened immediately.
+
+“Awoomazing training!”
+
+“Just please warn me,” Syliana said, “the next time the road becomes a wall.”
+
+Luna’s ears angled back.
+
+“Wall-road?”
+
+“Before you run along something gravity expects you to fall from.”
+
+Luna went very still.
+
+“Gravity?”
+
+“The force that pulls things down.”
+
+Luna looked at her paws, then at the shadows curling beneath them.
+
+“Gravity bad at job!”
+
+“I– Huh. Apparently so.”
+
+Luna’s golden eyes lifted with immediate triumph.
+
+“Yesh! Gravity bad, Luna wins!”
+
+“I would not make that your main conclusion.”
+
+“But Luna did not fall.”
+
+“No,” Syliana admitted. “You did not.”
+
+Luna looked down at her paws again. The shadows there curled lazily against the leaves, smug in a way shadows had no right to be.
+
+Her tail swished.
+
+“Because shadows caught Luna.”
+
+“They did,” Syliana said. “Which is why this worked at all, I would think.”
+
+Luna brightened further.
+
+“So gravity weak. Shadows strong! And Luna awoomazing!”
+
+Syliana decided not to challenge that, just shook her head with a smile.
+
+Luna was the very picture of ‘awoomazing’, after all.
+
+“Just warn me before proving it again, okay?”
+
+Luna nodded solemnly.
+
+“Gravity warning!”
+
+Close enough.
+
+They continued at a pace only Luna would have considered slow. The next time her attention fixed on a mossy slope ahead, she glanced back, eyes bright.
+
+“Awoom?”
+
+Syliana reinforced her shoulders and ribs.
+
+“One controlled attempt.”
+
+“Ehehe!”
+
+Luna didn’t need to be told twice, she sprang up the slope fast the very next moment, shadows catching them both in short, deliberate bursts.
+
+They reached the top without Syliana’s stomach attempting independence.
+
+Luna looked back, ears high.
+
+“Good?”
+
+“Yes,” Syliana said, ruffling her fluffy fur. “Good.”
+
+Then a bird moved in the branches overhead.
+
+Luna’s ears snapped up.
+
+One blink later, she vanished into the canopy, leaving her behind.
+
+Syliana barely caught herself from falling, looked up, and waited.
+
+And a few moments later, Luna dropped directly from a tree branch carrying an unfortunate monster bird.
+
+Syl glanced from Luna’s massive wolf form to the creature hanging from her jaws.
+
+It was technically a bird.
+
+In the same way a warhorse was technically a horse.
+
+The thing was nearly half Luna’s size, all hooked beak, talons, ragged feathers, and one very unfortunate final life choice of happening to be in the wrong place at the wrong time.
+
+Luna dropped back beneath the trees with leaves tangled in her fur, ears high, and the monster-bird held out like proof of successful diplomacy with the canopy.
+
+“Offering!”
+
+“I can see that.”
+
+Luna’s tail swept proudly through the undergrowth.
+
+“Tree bird!”
+
+“Yep. And our soon-to-be stew.”
+
+Syliana would not admit it aloud, but she loved how little it took to make her precious little friend happy.
+
+So she looked at the absurd monster-bird, then at Luna’s hopeful, leaf-tangled face, and let her hand settle warmly between those perked ears.
+
+“We will make proper stew,” she said.
+
+Luna’s tail swept through the undergrowth hard enough to scatter leaves.
+
+“Best stew?!”
+
+Syliana’s mouth softened.
+
+“Yes. Best stew.”
+
+And if that took extra time, extra seasoning, and every bit of camp-cooking patience Syliana possessed, then so be it.
+
+All to see the little girl smile again.
+
+***
+
+PoV Corruption Cell
+
+Rain tapped steadily against the shutters of the roadside waystation while muted conversation drifted through the tavern above.
+
+To ordinary travelers, the building appeared forgettable: watered ale, mediocre stew, cramped rooms, and enough stable space for passing caravans to tolerate one night before moving on.
+
+Which made it useful.
+
+Below the tavern, behind a storage room hidden by grain barrels and old wine crates, five figures worked around a narrow table lit by oil lamps and a dim glow of reagents sealed beneath layered cloth.
+
+Maps covered most of the wood.
+
+Ledgers covered the rest.
+
+Names, routes, supply marks, contact signs, and small lists of officials filled the pages. One column tracked reagents already moved. Another marked wagons that would move more before dawn. Coded notes scattered throughout it all.
+
+And right in the center of the table their latest two directives laid open.
+
+The cell leader tapped one line with two fingers.
+
+“They want the groundwork ready sooner.”
+
+The woman with the ledger did not look up.
+
+“How much sooner?”
+
+“We were given five days.”
+
+That made the quills stop, though only for a moment.
+
+Then work resumed.
+
+The narrow-faced man beside the maps shifted one marker, reconsidered, and moved it back.
+
+“Magisters insist?”
+
+“Yes.”
+
+The woman’s mouth tightened. Setting up chimera operations was already difficult. Being hurried about it didn’t help any.
+
+Although their work always was about making impossible instructions look practical. They would simply need… to cut some corners.
+
+Or some people down.
+
+Nothing new, just more work.
+
+The cell leader turned the second directive around, and read it through.
+
+“...There is also an observation notice.”
+
+Nobody liked the sound of that.
+
+“Priority?”
+
+“The highest. We’re looking for a silver-black Wildling. A young wolf girl with golden eyes, and shadow skills. Traveling with a group of five veteran adventurers.”
+
+The narrow-faced man stared at him.
+
+“A Wildling.”
+
+“That is what it says.”
+
+“Are you sure? Myths don’t just… appear.”
+
+“Yes.”
+
+The man let out a humorless breath.
+
+“Right. Of course.”
+
+The ledger woman’s quill hovered above the page.
+
+“And if a Wildling walks through the door?”
+
+“Observe. Mark direction, companions, condition, destination if possible. Send word upward.”
+
+“That is all?”
+
+“That is the only instruction that does not get us killed.”
+
+The youngest operative looked relieved and frightened at the same time.
+
+“Is it that explicit?”
+
+“More explicit.”
+
+The narrow-faced man rubbed once at his jaw.
+
+“At least someone above still wants us alive.”
+
+“No,” the ledger woman said quietly. “Someone above wants the report intact.”
+
+Nobody argued that.
+
+The youngest operative kept glancing toward the directive.
+
+The cell leader let it happen twice. But on the third time, he spoke without raising his eyes.
+
+“Ask or stop staring.”
+
+The young man’s fingers stilled near the ledger.
+
+“Is this because of the Velssarin Initiative–”
+
+“Stop. What have you heard?”
+
+“Only pieces. The Captain died. The operation failed. Something about–”
+
+“Rumors are best left as rumors,” the woman with the ledger said.
+
+The young man looked at her.
+
+“Are they false?”
+
+“They are useful or dangerous,” she said. “Never safe. And prying into what goes on above is never safe.”
+
+The young man’s gaze dropped to the directive again.
+
+For a moment, rain filled the silence.
+
+“And Master Orthendal?” he asked, quietly.
+
+Every hand around the table stopped.
+
+The cell leader looked up.
+
+Slowly.
+
+The young man went pale, but the words had already left him.
+
+“I only meant the seals have been inconsistent. If the Magisters and handlers are both pressing, and if his people are–”
+
+“Enough.”
+
+The word landed softly, but the effect was immediate.
+
+Above them, someone dragged a chair across the tavern floor. Ordinary voices drifted through rain and wood while the cellar remained completely still.
+
+The cell leader folded the directive once along its crease.
+
+“We do not discuss Master Orthendal in borrowed walls.”
+
+The young man swallowed.
+
+“Yes.”
+
+“We do not guess at divisions above us.”
+
+“Yes.”
+
+“And we do not mistake being given fragments for being trusted with answers.”
+
+The ledger woman lowered her quill back to the page.
+
+“Especially not tonight.”
+
+That was all the warning he was going to get.
+
+The cell leader pushed the directive toward the center of the table again.
+
+“Routes first. Then supplies. Then names.”
+
+No one asked anything else.
+
+Quills moved again. Markers shifted. The covered reagents glow pulsed once beneath the cloth, throwing a sickly shimmer across the exposed observation notice.
+
+Silver-black Wildling, last seen hundreds of miles away.
+
+Not a concern for a while still.
+
+Outside the tavern, two travelers passed along the muddy roadside beneath gray evening rain.
+
+A dark-haired rogue walked beside an archer carrying a wrapped bow case over one shoulder. They kept the easy pace of ordinary travelers moving between settlements, close enough to hear the tavern noise and far enough to ignore it.
+
+Neither looked toward the shuttered building.
+
+Below them, the quills kept moving.

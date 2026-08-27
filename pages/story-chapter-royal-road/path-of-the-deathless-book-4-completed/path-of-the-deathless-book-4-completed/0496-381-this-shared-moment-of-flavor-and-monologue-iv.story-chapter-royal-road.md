@@ -1,0 +1,199 @@
+---
+id: 0f14e6d7-4f4a-53ff-abe7-e1832543ac88
+page-type-slug: story-chapter-royal-road
+title: "381 This Shared Moment of Flavor and Monologue [IV]"
+slug: 0496-381-this-shared-moment-of-flavor-and-monologue-iv
+partOf: path-of-the-deathless-book-4-completed
+position: 496
+ownLength: 4580
+unit: words
+publishedAt: 2026-06-13
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3535411/381-this-shared-moment-of-flavor-and-monologue"
+royalRoadId: "3535411"
+---
+
+You are not guaranteed to gain the skills you desire. You are even less guaranteed to achieve the evolutions you want. Your legend will never be as glorious as you hope, and who you become is as much a circumstance of the world around you as it is a result of your own expertise, decisions, and capabilities.
+
+Pathbearers who live their life trapped in the haze of a fantasy will find disappointment and defeat at every corner. You must be capable of adjusting yourself not only to the changes in your actual circumstances, but also in your own moods. Furthermore, you must be prepared to pivot. Every new skill you evolve, every new skill you gain, is another component to your repertoire, but it is also a synergistic addition to the totality of who you are.
+
+And it might not even be the wrong decisions that fail you. A Vanguard skilled with a shield might find his Toughness more aligned to intangibility or even find it lagging behind due to not taking enough wounds in combat. A Diviner who displays confidence in predicting the locations of and intercepting her enemies might find her Divination magic fused with her skill in Archery or her Deductive Reasoning, thus making her something more than just an auxiliary, but rather a hybrid detective or sniper.
+
+You can cling to the faded idea of who you can no longer be and suffer for it, or you can flow like water and embody the new possibilities offered to you.
+
+It is good to have a destination to work toward. It is not good to obsess and never let go, allowing your mis-evolutions to become your regret and blinding you to your new potential.
+
+For down that path might be something totally unexpected—something far greater than you could have ever imagined…
+
+—The Paths of Ascension: Essential Reading at Phoenix Academy of the Yellowstone Republic
+
+381
+
+This Shared Moment of Flavor and Monologue [IV]
+
+Mealstrider 1 > 4
+
+There was something inherently silly about being able to transposition oneself via conduits of food. With Shiv's reforged vestments being made out of countless ingredients and the potstickers consisting of ground pork and dough, he had a connection to everything he made and thus could trigger Mealstrider once he got within fifty meters. He didn't need it, but in his haste to arrive as fast as he could, he activated it anyway and ended up exploding out from a smear of blackened dough crusted against the base of his great pot.
+
+The effect of the skill was instantaneous. He sank into the dough and ground pork that layered his armor and emerged through the same substances which comprised the ruined potsticker. It was less as if he was teleporting across reality and more like reality regarded the ingredients as one and the same for the briefest of moments.
+
+Thus, he went soaring high into the air, rising upward just in time to intercept Marikos’ falling mace and Candles’ rising torrent of snake-shaped Pyromancy.
+
+Shiv braced for impact. His Shapeless Tides were arrayed along two sides, and everything he'd been accumulating over the past week was gathered in preparation to drive the oncoming attacks back. He was also going to target their vectors rather than the force itself. He could change the directions, could send the blows back where they came from. This was a safe bet, as he doubted any kind of Pyromancy could kill Candles, and Marikos’ durability and endurance let him survive the full might of a Tarrasque.
+
+There would be no risk of hurting either of them; the only question was if Shiv could sustain himself when oppressed by two Legends at once.
+
+But neither attack landed in the first place. Both were diverted from his person and sent scything through the air, cleaving nothing and displacing only wind. A series of arrows impacted Candles’ flame stream, each one detonating with a burst of cataclysmic force. Candles let out a gasp of surprise as he briefly lost control of his own mana. Further hidden amongst the salvo of arrows was a final shaft of glowing incandescence—an arrow that seemed to pierce and nullify magic in its entirety. How Roland possessed such an arrow, and what it even was, remained beyond Shiv's knowledge, but he sequestered that information into the back of his mind. When they sparred, Shiv expected to see such an attack be wielded against him.
+
+Roland’s counter for Marikos was far simpler: a chain of arrows exploded along the path of the falling mace, creating a static chasm of matter. Instead of dropping the building-sized weapon on Candles, the blow went sweeping through a newly constructed section of space as another sequence of dimensional arrows tore a rift into existence—one to the right of Marikos, which resulted in his mace greeting his own head with all the force behind the blow.
+
+If Shiv had a mouth, he would be gawking. How the fuck did he pull all that shit off in less than a second?
+
+“Because he has options… Nigh endless options...” Even the Harbinger couldn’t hide its astonishment; Roland’s martial feat was something to appreciate. “With respect, he can fuse any number of skills together to create the perfect counter against a specific threat. At the same time, he has faced down countless foes; his experience is beyond thought. His combat prowess is so deep that it is in his bones. He didn't need to plan. He's seen this before. He's done this before. It is who he is.”
+
+Shiv looked over his shoulder, trying to gauge where Roland was, but it took him repeatedly activating his Atlas to find him hovering in the skies above. His form was silhouetted by the mana core’s bright azure brilliance wrapping around his body. His cape was fluttering in a display of fiery wings, and a blazing arrow was held up high in a display of nonviolence, hinting that he meant no further harm.
+
+Three Legends gazed upon the false Master. Marikos' body was tense. He wasn't sure if he should continue his onslaught against Candles or dive up and face down this new threat. Candles, meanwhile, was disoriented, barely able to keep himself hovering in the air as his magic was briefly severed. Then there was Shiv, realizing why Udraal had wanted Roland to be his mentor. Even untrained and raw, Shiv possessed the ferocity of a monster, but only at the hands of a true warrior could he reach his potential as a world-breaking weapon—with the synthesis of a Tarrasque’s might and the genius of an idealized Pathbearer.
+
+Shaking off his near jealousy of Roland's prowess, Shiv stole this opportunity to make right the unfolding crisis and get back to making the potstickers.
+
+“Marikos! Candles! Back to your stations; let’s fucking talk!” Shiv's furious growl was a thing conveyed through sound and telepathy. Within his voice was an echo of Georges; the Head Chef had commanded sous chefs and countless others off their posts and out back to give them a proper dressing down—and it took a great many things going wrong for him to pull you away from your spot. Do that one too many times, and you wouldn't get your spot back at all.
+
+But Shiv wasn't Georges, and his goal right now was dramatically different. For all his skill in cooking, Georges wasn’t socially adept in the slightest. Such was an undeniable, if uncomfortable, fact. The man was quick to anger, never satisfied, terrible at regulating his own feelings, and abused nicotine to dull his stress. He got into far too many fights with his clients and patrons, and his fanatical pursuit of perfection in the culinary arts was a source of trauma for countless aspiring chefs. There were many that came in along with Shiv, but aside from Seymour, no one from those days stayed—and even those who left on good terms to start their own restaurants had a certain wariness when it came to Georges.
+
+He was a man respected, feared, and loved—but there was a caveat to the last part. It was the kind of love one had for a well-meaning but ultimately abusive father. The kind of man who would do everything for you and then slap you across the face because he couldn't control himself. The kind of man who wanted you to succeed but didn't know how to motivate you beyond screaming in your face. The kind of man that Shiv regarded as a morally upright and decent character, due to his own miserable upbringing. But with all he had experienced since obtaining a Path and his constant dealings with other people, Shiv realized that most people had different expectations for the ones that cared for them and the ones they were meant to work alongside. Georges, as much as he meant well, was a tyrant in the kitchen and cared little for those who failed to meet his regard.
+
+Whether that was born from wounds he'd sustained in his own past, or because he was simply that driven, meant nothing in the end.
+
+Socially, he was a whip and a hammer in one, and at the end of the day, when all that was done, he was back to being himself. He was a gentle, soothing hand who joked alongside you, but you knew that wasn't the last of it. There was more cooking to do when you got back into the kitchen, and when the cigarettes were smoked, he would be that taskmaster again, and most just couldn't take it.
+
+The same strategies couldn't be applied to Marikos or Candles. The former was a knight who was practically built upon the fault lines of a single flaw: pride. He held a grudge against Valor for the murder of his wife—a wife that, according to Valor, had herself been planning to murder Marikos. And with all the desperate social battles Shiv had survived and the countless eyes of the other Dragon-Knights looking on, their hands clenched around weapons or shaping spells, their eyes glowing with anticipation waiting for a single order from their leader to unleash violence or stay their hand, humiliating and chastising Marikos seemed the poorest of all options available to Shiv.
+
+Candles, meanwhile, was already mentally unstable. A tongue-lashing for him might slip off like rain off a turtle's shell, or it might trigger something deep inside his fractured psyche, causing him to go off like a bomb.
+
+Shiv needed to be an instrument of empathetic precision and psychological correction rather than a hammer.
+
+“Deathless?” Marikos asked, sounding confused.
+
+“Back to your spots,” Shiv repeated, calmer this time. “Both of you, get the fire going again. Just don't make it so hot this time. You see that black crust clumping up at the bottom of the pot? Yeah, those are potstickers. Completely fried and inedible—not great.”
+
+Marikos' rigid empathic core twisted in surprise and disbelief. He struggled to process Shiv's indifference toward his own death, why the Deathless wasn't pursuing a crusade of retribution against the one who'd slighted him so.
+
+Candles, meanwhile, was babbling away, only just realizing that he wasn't in a fight anymore. He stared at Shiv. He stared at Marikos. And then, without another word, he began blasting the pot with as much fire as he could muster, instantly scorching another few dozen potstickers.
+
+Shiv hid the sag in his shoulders. Shit, maybe it was a mistake involving Candles at all. I swear he wasn't this much trouble when I was trying to make those orc meatballs. But it's too late now. We gotta solve our dragon problem first. Then we deal with the insane elf.
+
+“Or you could kill the both of them,” the Harbinger whispered. “Do not doubt yourself. You have endless lives, and they have only the one. You will prevail eventually, and they will serve as an apt example for anyone who dares disrespect your kitchen.”
+
+Shiv paused. The idea did hold appeal—
+
+He wheeled on the Red Rider's Hand and saw it glowing a grim shade of blood. As he moved, all other eyes settled upon the limb as well. Though they were all speechless, Shiv could see their minds turning, could see their hearts fill with disbelief. This couldn't be a divine limit, could it? The mana signature that radiated from it, mingled with Shiv's unique soul stuff, made the truth undeniable even if it seemed unbelievable.
+
+Know-Nothing adjusted his monocle. “Be that the… the Challenger’s limb? Hymn was speaking the truth?”
+
+“The Challenger?” Marikos gawked in awe, his massive dragon snout hanging agape. “You mean to claim this was bestowed upon you by the orc god himself?”
+
+“Yeah, sure. Bestowed is a word. I prefer to call it ‘cut off when he was trying to mess with my soul.’” Once more, Shiv kept to his facade of nonchalance, for it further unbalanced Marikos, making him easier to persuade. “But the hand doesn't matter that much right now. What matters is getting these potstickers done and done well. Let's go through a few things. One, I didn't particularly like getting cut in half from behind.” Shiv shot a glare at Candles. “That being said, you got some Pyromancy there—ripped clean through my Toughness. Didn't even have a chance to shrug it off at all.”
+
+His words caused something unexpected to happen. Shiv felt a pull from his Rhetoric Skill. Candles lifted his head, and the flames surrounding him dimmed slightly, revealing his skeletal form once more. As his visage became clear, his Pyromancy waned, and something stilled his mind and heart. “It's not just Pyromancy. It's not just…”
+
+Shiv waited for him to elaborate, but his psychology and emotions broke once more, scattering into that whirlwind of incoherence which ruled his inner world. The flames spilled out from him with renewed vigor and began cupping and clawing at the base of the pot.
+
+Shiv suppressed a pang of disappointment. “We'll find a way to put you back together, Candles. I swear. Even if it’s just to figure you out.”
+
+Candles began humming to himself in the meantime, lost once more in the chaos of his own existence.
+
+“Yeah, so, Marikos, he really didn't mean to do that. In fact, I don't know how much he means to do anything these days.” Shiv studied Marikos, who remained reluctant when it came to letting go of this slight. And something about that touched Shiv. Though Marikos was volatile, prideful, and more than a little impulsive—extremely so, in fact—he was someone who valued loyalty and the honor of those around him, and that was evident. Every bit of his outrage was not personal in origin, but something that flared in place of Shiv’s. When he watched his friend get cut down, he knew Shiv would return, but even so, he was willing to come to blows against a rival Legend over the treatment of their host.
+
+“And that is something we can use to pacify him and further gain his loyalty,” the Harbinger noted. “But be honest in how you persuade him. If it seems like you are trying to manipulate him, it will sit ill with his fellow knights.”
+
+I know, Shiv thought.
+
+“Also, be careful how you apply your skills: your Cooking, Philosophy, and Pyromancy are all on the edge. If they fuse and the resulting skill fusion is ill-fitted for our intents, you could see yourself ruined or changed for good.”
+
+And that added another slab of weight upon the scales of Shiv's apprehension.
+
+“I appreciate what you tried to do just now,” Shiv said. He gave Marikos a moment to process the words.
+
+“Of course, Deathless, but he has still broken the laws of hospitality; that fact remains unchanged. Even if death cannot keep you, what he did was more than a slight; it was sacrilege. It was the breaking of the only accord between even enemies! Such a thing cannot be allowed to stand. Such a thing must be punished! Even if his mind is addled and he is a broken thing, it is the act that matters. A Dragon-Knight, compromised in his self-control or poisoned of mind and heart, who strikes down a comrade in battle must also submit themselves to the mercies of the Union, for it is right. A single hound is but prey, and they who harm the pack in any way have struck a blow for the Abyss and against the only true kin they will ever have.”
+
+Shiv took in his logic and began to calculate his response. It was a good thing Marikos wore his feelings so openly. He exposed just how much honor mattered to him, how much it ruled his thoughts and actions. More importantly, it also showed how collectivist his thoughts were. He cared because this affected the group. He cared because social bonds were being broken. The bonds between a host and his guests. Hospitality was a sacred thing to the Dragon-Knights—even more so than other cultures. That meant Shiv couldn't just brush things off and say all was forgiven; there had to be a price extracted. Candles needed to be punished in some way and marked in some fashion before Marikos would let this go. He simply could not surrender that feeling of offense on behalf of Shiv. For Shiv now was a vessel of broken honor, and that needed to be avenged.
+
+And such went back to how blunt and narrow Marikos' mind and heart were. He could imagine no other way—it was like his own free will was channeled down a crevice instead of a wide valley of options.
+
+“Do these judgments between the Descenders always end in death, or are there other punishments available?” Shiv asked. Marikos fell silent, but it wasn’t just him who was lost in thought. The other Dragon-Knights began contemplating as well, and with how long they spent remembering, Shiv suspected there was a whole chain of punishments and protocols that came with amending a wrongdoing. “Yeah. So. As the host who suffered this offense, Candles took a life from me, so I’m going to ask him to give me a life back.”
+
+Those words cast a sudden but confused tug on all those who watched him. The Dragon-Brokers and Descenders locked onto his person, studying him to understand what he was insinuating.
+
+These Words of Truth and Adoration 78 > 80
+
+“I died. I came back. I got levels for that. I can even say this death was beneficial for me.” Shiv nodded. But then he locked eyes with Marikos as he tried to pull something smart out of his ass—because Shiv was going by his gut again, and struggled to put a plan together as he went along. “But I understand why you were offended. I’m honored that you were offended on my behalf, and culture matters. Making things right matters. But I don’t want more blood when it gives me nothing. No. He took a life from me, so I’ll want Candles to give me a life back. After we help him get better, of course. Service for… for…”
+
+“A slight?” Tallowine, the thirty-meter-tall, greatbow-bearing dragon, provided.
+
+“Yeah. Thanks. A slight. I’ll have to remember that one.”
+
+My vocabulary is absolute shit, and if I'm going to be talking to more people and trying to solve more problems, I can't keep sounding like some kind of uncultured street rat—uh, also might want to think about how I address people. I doubt the ratfolk I met in the academy will like me to keep using rat as an insult.
+
+“Life,” Shiv said, gesturing toward Candles. “He needs to get better, and after that, he can do better. Hitting him with that mace might uphold my honor and send a message and all that, but I think we can do better than that.”
+
+“Because one must always keep profits in mind first and foremost,” Poverty muttered off by the side, his eyes gleaming with avarice as he looked upon Shiv with new appreciation.
+
+Shiv hid a cringe and didn’t bother replying to that. His pragmatism was mostly a smokescreen to stop Candles and Marikos from killing each other.
+
+Slowly, Marikos lowered his mace and shield—and his head followed suit. He looked down and radiated a slight measure of shame. “It is as you say, Deathless. Life for life. Your way is more magnanimous than I am comfortable with, but I will respect your decision. In fact, I will commend it. There is strength in this nobility—even if it is a nobility that stretches beyond my grasp.”
+
+And with how much hate Marikos projected in the glare he sent toward Candles, Shiv quickly realized how relations had collapsed between Valor and his former friend.
+
+“Perhaps this, more than his boisterousness, more than his blind sides, and more than his cultural arrogance, is his greatest weakness. He has a fragile, brittle heart, and the slightest spite will turn him from ally to adversary, one who simply never lets go of the wounds he's sustained.” A shared wariness formed between the Harbinger and Shiv. Everything they did with Marikos needed to be thought through in great detail, for with the slightest misunderstanding, they might find themselves out of grace and standing against him in active battle.
+
+As gracious as Marikos behaved right now, his dignity and offered honor were as brittle as the spirit that commanded it. And for the first time, Shiv gained insight into what lurked underneath, and it was a simmering, rageful beast that slumbered lightly in wait for a reason to emerge and wreak havoc.
+
+“In fact, I think it might be best that we prepare ourselves to face Marikos at some point,” the Harbinger said. “Because just as we might be able to manipulate him, a skilled deceiver could see him driven against us. Especially if the situation comes down to him and Valor, for there is no dignity he can do us that will see us favoring him over Valor.”
+
+So we avoid that situation, Shiv thought. We are strategic.
+
+“Just like you’ll be stronger than a Tarrasque? Just like you’ll out-cast a proper Mage? Just like you’ll outthink a genius?” Every question the Harbinger asked fell like a whip, and the pain and injuries Shiv sustained were real. Wounds appeared along his back as faint trails of vitality went whistling up into the air. “We are not weak, Shiv, but never lie to yourself about who you are and what you can do. Politics is a social-informational battlefield, and though I am a dangerous skill, would you pit my worth against Kathereine for the fate of the Gate? Do you think you can convince Marikos to stand down if his Semper Paragon demanded he claim the lives of everyone present?”
+
+The answer was no. Shiv knew that. He just wanted to hope otherwise.
+
+“Hope is a feeling. Keep it close to your chest, but not close enough that it becomes a lodestone which forces you to deny the currents of reality.” And then both Shiv and the Harbinger noted how Tall Ben was watching him—studying him. The Hydra-Knight was clad in heavy plate, and he moved with a languor that betrayed his power, but Shiv could practically sense the intelligence lurking behind the eyes of the Hydra’s many heads. “And mind how you act. That one sees us. He knows we are a threat—the Scribes have missed our capabilities amidst the tension and persuasion, but he sees. Watch him more than the others. But for now: Finish the potstickers. The guests need to eat. So do the residents.”
+
+“Alright. Marikos. Flames, if you will. This time, don’t try to have a burn-off with Candles. Consider that a personal favor to me.” Shiv turned. “And Candles: burn a toad instead.” With that, he called upon his To Me My Toads armor skill, and they came raining down from an unseen place above.
+
+“This was not how we were meant to be directed, Deathless!” one of them shrieked.
+
+“I know,” Shiv replied apologetically. “But sometimes, to be a good cook, you gotta let yourself get burned a couple of times.”
+
+Candles didn’t need any further persuasion. The moment the toads fell, his Pyromancy projected a chain of beams that sliced into them—causing them to combust and turn ashen, lifting their voices into falsetto screams, yet never truly harming them.
+
+Having the power of Fairwoods bullshit is pretty useful. Gotta ask Evanescia how she managed to give a set of Awakened armor a Path—and if my other equipment can get the same thing.
+
+As he thought that, she was babbling at his body in the Fairwoods about seeing one of his bodies placed in the Summer Court’s dungeon to make his coming escapes more dramatic. Shiv was more than fine with that; he wanted to hang around the space and continue training his Cooking against Princess Plum Blossom if he could. There were so many different dishes and beverages there that he could spend years learning about all kinds of cuisines. Loops there might turn out to be more of a benefit than a danger for me. Still need to see if I can convince her to send an envoy over—that’ll give me another social edge too. I can’t see her getting along with the Ascendants since she wants to be my main adversary, and they’ll get in the way of that tension.
+
+Just more things he had to deal with.
+
+In the meantime, the cooking resumed, and while the toads took on a burden of pain on Shiv’s behalf, the pot finally entered an era of controllable heat thanks to Marikos being the main Pyromancer tending to its base. Concurrently, Shiv added some of his own fire magic to the mix—if only to try and push the skill over the edge into an oncoming fusion.
+
+“Are you even sure if a fusion is to be desired?” the Harbinger asked. “There will be changes to your Cooking skill. It might become something else entirely.”
+
+Might not, but I do still have that skill-twinning reward Evanescia gave me. Worst case comes to pass, and I’ll just twin my Cooking.
+
+“That is an option. But understand that doing that might sacrifice another useful skill.”
+
+Everything is a sacrifice in the end, Harbinger. I can’t be everything that I want to be—I guess that’s the sad thing about potential: You have to choose what you dedicate yourself to, and accept everything else that you could be as an eternal question mark.
+
+And as Shiv resurrected a new body to gather up a recently needed potsticker from where it lay upon a nearby block-sized tray, the change came. The moment followed. And while the Descenders and Dragon-Brokers looked on at Shiv, a quiet metamorphosis took hold within the Deathless—and every last instrument and ingredient infused by The Chef Unwavering.
+
+The Chef Unwavering 99 > 101 (Skill Evolution Reached)
+
+A Glimpse of Perspective 100 > 103 (Skill Evolution Reached)
+
+Pyromancy 49 > 51 (Skill Evolution Reached)
+
+Skill Evolution: The Chef Unwavering (Master) > This Meal My Perfection (Heroic)
+
+Skill Evolution: A Glimpse of Perspective (Adept) > This Shared Monologue of Reluctant Gnosis (Master)
+
+Skill Evolution: Pyromancy (Initiate) > Servant of the Unchained Inferno (Adept)
+
+Skill Fusion: This Meal My Perfection (Heroic) - This Shared Monologue of Reluctant Gnosis (Master) - Servant of the Unchained Inferno (Adept) > Nihilism Be My Hearth, My Banquet (Unique)

@@ -1,0 +1,199 @@
+---
+id: faadb806-d172-5723-8329-8c655a243e65
+page-type-slug: story-chapter-royal-road
+title: "Chapter 72: The Void Walker"
+slug: 0073-chapter-72-the-void-walker
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 73
+ownLength: 2544
+unit: words
+publishedAt: 2026-04-22
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3305923/chapter-72-the-void-walker"
+royalRoadId: "3305923"
+---
+
+Reality muffled itself right in front of my eyes.
+
+The sharp edges of my vision started to bleed and smear. The numbers on the update bar lost their shape, melting into a hazy watercolor of blue and grey light. I could still see everything happening, the progress bar ticking up agonizingly slowly, but the world felt detached. Distant.
+
+The sensation was exactly like dreaming.
+
+A sudden jolt went through my mind. I hadn't dreamt in a very long time. I hadn't even actually slept since I died back on Earth and woke up as a system. My entire existence lately was just a constant, waking stream of watching and worrying. This sudden lack of control felt deeply unnerving. My thoughts were getting thick, slowing down like honey pouring out of a cold jar in the middle of winter.
+
+This update felt different from all the others. The surrounding space grew dark and heavy. It pressed against my transparent self. The void was opening its jaws to swallow me whole. The pressure kept building, pushing against my sanity, making it harder and harder to string a coherent thought together.
+
+I felt a terrifying lurch in my stomach, exactly like missing a step in the dark. The ground usually rushes up to meet you in those moments, but there was no ground here. I was tumbling in a blind freefall, spinning head over heels through an endless, suffocating grey.
+
+I need something to hold on to.
+
+My mind was spiraling out of control. I flailed my arms, reaching out blindly into the crushing emptiness. I’m going to get swept away in this vast nothingness. The panic tasted like copper in the back of my throat.
+
+There was absolutely nothing to help me guide my way. Just the endless grey pressing against my eyes.
+
+Then, I felt it.
+
+Something solid brushed against my hand. Something rooted firmly to the invisible ground of whatever plane I was falling through.
+
+I grabbed it.
+
+The feeling humming through the object vibrated in a very specific, comforting way. A wave of familiar warmth washed over me. This felt like Ren. Or rather, it felt like my bond with Ren. The connection that kept me tethered to his soul across dimensions. I couldn’t tell for sure if it was the same link, but the familiarity was enough to ground my spiraling panic.
+
+I blinked through the confusing haze. Faint shapes began to form in the grey soup around me. I saw strings. Thin, fragile-looking threads floating randomly in the void. Some were fading away into nothingness right before my eyes. Others were more tangible, glowing with a weak, pulsing inner light.
+
+One stood out amongst them all.
+
+This thread was incredibly thick. It was braided and pulsing, looking almost like a heavy rope made of pure, golden energy. I reached out and wrapped both my hands around it. I gave it a hard tug. The rope felt completely firm in my grasp.
+
+Maybe this can lead me back to the real world.
+
+If this thing is somehow connected to Ren, I can use it to pull myself back. I used the rope to steady my violently shaking body. My feet finally found purchase on a surface I couldn't see. I began to walk through the haze, pulling myself hand over hand along the glowing tether.
+
+The environment around me shifted rapidly. The atmosphere grew violently turbulent. The winds picked up, howling a deafening, silent scream that rattled my teeth. The air was filled with three distinct, swirling colors. Fine particles of piercing white, deep purple, and dull ash began to blow around me. The three fine powders stirred into a chaotic frenzy. A violent storm formed from the white, purple, and ash dust, relentlessly trying to tear my grip from the rope and sweep me away into the abyss.
+
+I held on tighter. The rope was my only lifeline.
+
+I struggled my way through the nothingness. Every single step required immense, exhausting effort. I met heavy physical resistance, pushing against a current of raw, unformed reality that felt like wading through wet cement.
+
+I don't know how long I have been walking. I don't even know if I am actually walking. The environment smears into a hopeless, repeating loop of white, purple, and ash wind. I feel like I have been walking for a few seconds. A moment later, my head insists I have been walking for years. My sense of time is completely failing me. The rules of this place are utterly broken. I can't even tell whether I am moving forward or backwards along the rope.
+
+I can’t tell if I am walking on the white, purple, and ash particles or straight through them. My feet seem to sink into the ash one moment and glide seamlessly over the purple mist the next.
+
+Everything here seems to represent nothing and everything at the same time. The paradox weighs heavily on my mind, threatening to give me a massive migraine.
+
+Soon, or perhaps after a long span of centuries, I saw a light in the distance.
+
+Hope filled my chest. Finally, I will be out of these godforsaken lands. The glowing point grew larger, cutting a sharp path through the swirling storm of colored powders. I pulled myself along the golden rope with renewed, desperate energy.
+
+The haze cleared abruptly.
+
+I stepped out of the storm and into a vast open plain. The sky above was a bruised, angry red, choked with black clouds. The ground was cracked, dry earth stretching out to the horizon.
+
+I looked down at my hand. The rope or tendril had wrapped itself tightly around my wrist. It was holding me steady, anchoring me to the threshold of the storm. The golden light felt almost like acid on my skin. The grip was punishingly tight. It refused to let go.
+
+I looked ahead across the cracked earth. I saw a figure in the distance.
+
+A man stood alone on the plain. He was completely covered in blood. Dark, drying crimson stains ruined his torn clothing. He wore a heavy, stained leather apron over a ruined velvet tunic. He held two massive meat cleavers, one in each hand, gripping them with white-knuckled intensity. The figure looked like a terrifying butcher from a horror show, standing amidst a scene of pure, quiet carnage.
+
+I squinted, pulling against the acidic grip of the rope to get a better look.
+
+The figure was standing next to a huge wolf. A massive beast of shifting shadows and black fur, easily the size of a draft horse.
+
+The red wind carried a voice toward me. It was hoarse, ragged, and filled with a crushing weight.
+
+"Smokey, run. This is an order."
+
+The huge wolf whined, a sound of profound distress that broke my heart. The creature was incredibly reluctant to leave. It pawed the dry ground and pressed its massive head against the man's blood-soaked leg. Their master's order was absolute.
+
+The figure reached down. He crossed his hand over the huge head, petting the coarse black fur with a trembling hand.
+
+"Take care of her. And everyone. For me," the man rasped, his chest heaving with exhaustion. "Follow your siblings. And make certain that the stupid girl doesn't return for me. This is my final order. After this, your contract will be hers. Take care of my little peanut."
+
+My voice caught in my throat. I recognized that wolf. Smokey. The little shadow pup has grown to monstrous proportions.
+
+I recognized the gruff-looking butcher holding the cleavers.
+
+It was Ren.
+
+He looked older, weathered by terrible battles, bearing deep scars across his cheeks and arms that I had never seen before. His eyes lacked the culinary spark I knew. They were the eyes of a dead man walking.
+
+I stumbled forward, pulling wildly against the rope binding my wrist.
+
+"REN! WHAT'S GOING ON?!" I screamed.
+
+My voice simply vanished into the red sky. I threw myself forward, desperate to touch him. I reached out to grab his shoulder. My hands passed right through his body, grasping only empty air. He was a phantom. A vision. Or maybe I was the ghost here.
+
+Fear seized my heart. Did the kingdom find out about Lily and her origin? Did the armies of Dolaria finally come for her? Was this the result of the High Elf secret getting out? Did we fail?
+
+Ren didn't react to my presence. He looked back at the fading, shadowy figure of Smokey running toward the horizon. He watched the wolf disappear with a heavy, final sigh, his shoulders slumping.
+
+He turned his attention to the other side of the plain. He raised his cleavers.
+
+An encircling horde of darkness was approaching.
+
+These were not knights in gleaming armor coming to enforce the King's law. Something more ominous was coming over the ridge. Something deeply evil. Something that absolutely shouldn't exist in any sane world.
+
+It was a horde of crumbled-up limbs.
+
+A mass of grotesque, animated flesh dragged itself across the dirt. Some creatures were just a pair of disembodied legs stomping blindly forward, kicking up red dust. Some were just a torso with several human hands sprouting all around it, pulling the meaty mass along the ground like a fleshy spider. Some were just flying faces. Horrific, stretched masks with sunken eyes and empty sockets, floating in the air with a creepy grin showing all their jagged teeth.
+
+Each constellation of body parts was more absurd and horrifying than the other. The creator of these monstrosities had been completely indifferent to the care of the final product. They were raw, careless amalgamations of meat and bone designed only for destruction.
+
+The crooked, disjointed horde walked forward, a tidal wave of nightmares rolling over the dry earth.
+
+Ren was facing them all alone. He stood his ground, the wind whipping his ruined apron.
+
+I felt a sharp, violent tug on my hand. The golden tendril was pulling me back into the portal. The swirling storm of white, purple, and ash behind me was reclaiming me.
+
+I can't leave now. I need to help Ren.
+
+I struggle with the restraint. The acidic rope burns my skin, sending waves of searing pain through my nerves. With a massive surge of effort, I pry the tendril off my wrist. I throw the golden string away, breaking the connection entirely.
+
+Things get even worse immediately.
+
+The moment I let go of the rope, the void returns with a vengeance. The vision of the red plain shatters into a million jagged pieces of broken glass. The endless grey and the violent, colored storm collapse around me, crushing me from all sides.
+
+I run towards the fading image of Ren. Tears are falling from my eyes, tracking down my invisible cheeks.
+
+"I won't lose another host like this! What is going on?!" I cry out into the crushing noise of the storm.
+
+I am tumbling through the dark, completely lost. The pressure is tearing me apart piece by piece. I am going to die out here in the space between worlds.
+
+Between the confusing chaos and the deafening roar of the void, a warm, gentle feeling envelops me. The sensation cuts through the panic instantly. The warmth almost reminds me of my mother, who passed away a long time ago when I was still young on Earth. It is a feeling of absolute, unconditional safety.
+
+A hand grabs my hand gently. The grip is firm, cool, and incredibly soothing.
+
+A warm and gentle voice speaks directly into my mind.
+
+"One so young shouldn't traverse the void alone. Come, child."
+
+Everything changes in a microsecond.
+
+My surroundings begin to blur. The environment starts warping and moving rapidly. Streaks of starlight and cosmic dust whip past me as I am pulled along a hidden pathway through the emptiness.
+
+The invisible entity's voice changes, shifting from motherly warmth to a sharp, authoritative reprimand.
+
+"You are lucky I was keeping an eye on you. Or else you would be lost in the void forever." The voice echoed with ancient power. "Rule one of void walking: never let go of the threads of Destiny."
+
+I broke out of my shock. I stop fighting the pull and look at the space beside me where the invisible hand is holding mine.
+
+"Who are you?" I ask.
+
+The entity shifts back to a gentle tone. "We shall meet soon. Don't worry, child. All will be answered."
+
+Just as she finished the sentence, we reached the end of the tunnel of light.
+
+I jolted awake. It was exactly like waking up from a bad dream. My breath hitched in my throat. I was gasping for air. I felt like I was sweating profusely, my head pounding, and my chest heaving.
+
+The update bar hovered in my vision. The progress read 75 percent. My connection to the outside world was still severed, but my basic thoughts and feelings were fully active again.
+
+I haven't dreamed like this in so long. The lingering terror of the bloody plain and the grotesque horde made my hands shake. The image of older Ren facing his death burned into my memory. I couldn't forget it. I didn't want to.
+
+My inbox, which had been silent for so long during my time with Ren, had one glaring message waiting for me. The notification icon pulsed urgently in the corner of my sight.
+
+When I opened it, the window looked incredibly wrong. The border of the message was unique. It was composed of swirling particles of ash, white, and purple. It reminded me exactly of the dust in that terrible place in the void.
+
+The text was even more ominous and gave me another massive headache.
+
+…
+
+[MESSAGE: CLASSIFIED - OMEGA LEVEL]
+
+Congratulations to the one who walks in between/beyond space and time.
+
+You are now a void walker.
+
+You will be granted the special designation and perks upon completing this temporary ticket.
+
+Reward yet to claim: Designation change to Special Class Observer.
+
+…
+
+I stared at the strange text floating in my view.
+
+The part reading between/beyond kept changing. The letters glitched and scrambled, swapping the words through/within every few seconds. It was like the words themselves couldn't figure out how to properly describe where I had just been.
+
+This is another headache. From the looks of things, I will be face-to-face with another higher-up soon. A Special Class Observer designation sounded like a massive promotion, the exact kind of promotion that came with responsibilities I absolutely did not want. I just wanted to help Ren run a restaurant and keep Lily safe.
+
+And who was the creep who said she had been watching me? The voice in the void is claiming to keep an eye on me. How did I end up with a stalker outside of reality?
+
+I closed the glitching message, rubbing my temples. The update crawled to 76 percent. I needed to get back to Ren. I needed to make sure the bloody future I saw remained nothing more than a bad dream. I had to get this restaurant running smoothly. I had to keep Lily safe. The threads of destiny were going to be a huge problem, I could feel it in my gut.

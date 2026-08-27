@@ -1,0 +1,171 @@
+---
+id: 1cb45420-6881-5da0-a341-2430e5997a46
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26 - Cow and Her Leather Armor"
+slug: 0026-chapter-26-cow-and-her-leather-armor
+partOf: sherly-the-most-virtuous-holy-cow
+position: 26
+ownLength: 2060
+unit: words
+publishedAt: 2025-11-17
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2768999/chapter-26-cow-and-her-leather-armor"
+royalRoadId: "2768999"
+---
+
+Chapter 26 - Cow and Her Leather Armor
+
+Sherly’s training became a routine. Even though her armor was done the next day, Ishuin suggested that she trained some more before going back to the smithy.
+
+The cow-chilim agreed. She wasn’t in any rush, and training was a good way for her to get a grasp on things. The type of training might be different, but the act of showing up to practice, actually practicing, spending energy on it, and then being able improve because of it, was the most familiar thing she had ever felt since arriving in Sinzodia.
+
+As for the actual training, she was given a regimen. Warm up involved stretching, jogging, and sprinting. She was also asked to carry Stalwart around and get used to its weight while doing her warm ups. By then, her entire body would be tired. And after lunch, after taking a small break to let her digest a little, she would do it all over again.
+
+Food was normal, this time around. Ever since her welcoming feast, Sherly hadn’t had the chance to go out and eat monsters to get Evolution Strains, or even to level up. But she didn’t mind stalling in that regard, since it quickly became obvious to her that those paths weren’t the strict and cutthroat way to becoming stronger.
+
+She believed that once she could fight properly with a sword, the Evolution Strains and Levels would follow naturally.
+
+Two weeks quickly passed, and all the errands of the Cancer’s Claw were now settled, except for Sherly’s armor. She was called into Ishuin’s room where she found Edward waiting for her.
+
+“I’ll leave you two to it,” said the elf as she stepped out of the door. “Need to make preparations for our departure. We’ll be leaving tomorrow. Oh, but do call for me when you’re done, Edward. If you’re joining the caravan, there’s one final thing you must know.”
+
+With that, Ishuin went out to work with the others. That left Sherly with the blacksmith who was standing there a little awkwardly.
+
+“Since I’ll be joining anyway, I thought I’d save you the trouble,” he explained, trying to break the ice. He pulled out the new armor from his Domain Heart and placed it carefully on the table.
+
+The armor, as far as Sherly was concerned, was exquisite. The shervisvile leather, with hard, dark scales, wrapped around a thin layer of reinforcing steel.
+
+The pieces were not quite together, she noted, particularly the bracers and the pads, and the other parts that weren’t sewed or hammered in. She also noticed that not all the recommendations and additional functions that the other blacksmiths had suggested were there. No quivers or weird arrow holders, no hidden compartments for potions or small weapons.
+
+She did notice the cape almost right away. Edward lifted it to show the back of the breastplate. Embedded in the middle, right below where her nape would be, was an intricate crystal. It was surrounded by runes. And by the looks of the blacksmith, he was expecting her to recognize it.
+
+“Sorry, I’m not sure what it is,” Sherly admitted.
+
+Edward was more surprised rather than disappointed. “Oh! Umm, well. It’s an attunement accessory. This one in particular is a holder. It’ll hold any attuned weapon on your back without needing a sheath or a strap. Since your greatsword’s larger than your typical sword, and we noticed that you didn’t bring it out with a sheath, we figured this would be the best way for you to carry it around if you want it out of your Domain Heart for whatever reason.”
+
+Curious, Sherly brought out her Stalwart. Immediately, Edward knew what she was about to try. He was also noticeably controlling himself so that he didn’t gush over the new aesthetics of her weapon.
+
+Sherly didn’t mind. She would have him check on it, if he wanted to. For now, however, she let Edward position the breastplate so that she could place Stalwart on the accessory.
+
+“It’s like a magnet,” she said, observing how the wide part of the blade attached itself to the crystal. The runes around it became active as well.
+
+“It won’t drop, nor will it shake,” Edward said, lifting the armor and shaking it to demonstrate. “You can freely adjust how you want it to be oriented, but I highly suggest that you always keep it pointed down.”
+
+“And picking it up is as easy as grabbing it?” Sherly asked, to which the blacksmith proudly gestured for her to try.
+
+There was no resistance whatsoever. The cow-chilim grabbed her greatsword and deposited it in her Domain Heart without issue.
+
+“Neat!”
+
+“Glad you like it!”
+
+“So, umm… This might be a bit awkward, but how do I wear the whole thing?”
+
+Edward suddenly perked up as if he remembered something. “Oh, right. You should have this too.”
+
+He pulled out a black bodysuit from his Domain Heart. It was a garment that should cover the entire body, including the arms and legs, but it looked rather small for Sherly. Noticing this, Edward pulled on the fabric to demonstrate its elasticity.
+
+“It’s made out of dyed featherflowers,” he explained. “Soft and elastic, but it isn’t hot on the skin. It’ll serve as a protective layer so that your armor won’t rub or scratch on your skin.”
+
+“It’s not going to feel tight, is it?” Sherly asked as she took the bodysuit from him.
+
+“We made it from your measurements, so it should be quite comfy.” Edward started heading out the door. “I suggest you give it a fit. Technically, the attunement accessory also allows you to attune to this armor, but I assume you don’t have enough slots for it yet, right?”
+
+“I need a few more levels, yeah.”
+
+“In that case, for now, you need to wear them manually. Once you can attune to it, you can just don it all with a thought, including the suit. I’ll be right outside. Let me know once you’ve donned the big pieces, then I can help you out with final details.”
+
+Sherly appreciated that she didn’t need to politely ask Edward to step out for a moment. But even alone, she still cautiously changed clothes inside the bathroom.
+
+Just like what the blacksmith promised, the bodysuit was surprisingly fit and comfy. It was like having a sturdy second layer of skin. The neckline amazingly stretched out so that she could slip her legs in. It had short sleeves, and the leggings only went down her upper thigh.
+
+After making sure she hadn’t worn the bodysuit inside-out, she went out to check on her armor, and realized that she didn’t know the first thing as to wearing one.
+
+“Hey,” she called out. “Do I wear the breastplate first or the waist guard?”
+
+“See?” someone else said. “I told you to tell her how to properly put them on before you left!”
+
+The cow-chilim waited as she picked up the rapid footsteps coming closer to the door. Then the knocking came.
+
+“Sherly? It’s Phoebe. Can I come in?”
+
+She opened the door while making sure she was standing behind it, allowing the owner of the smithy to enter the room.
+
+“Hey,” Sherly greeted. “Help?”
+
+“Yeah,” Phoebe said, quickly closing the door. “Stand right there.”
+
+“Thanks. I figured I should ask. The whole thing looks different from the one you let me wear last time.”
+
+“No problem. Basically, there’s no predetermined correct way to wear your armor. But I do start with the big ones first.”
+
+Phoebe lifted the breastplate and donned it over Sherly. Then she went with the waist guard, which included a skirt. She showed where the straps were and how to tighten them properly. Next, it was her gauntlets and shoulder pads. And lastly, her leg guards.
+
+“When you eventually become a zilim, make sure Edward crafts you some boots. You don’t want to wear armor without proper footwear when you have human legs.”
+
+“Noted,” Sherly said, taking her new armor for a spin. Her cape was made rather heavy, but it did still flow as she moved. “Thank you. No one’s actually done something like this for me before. Helping me wear something, I mean. Though, I guess I didn’t need one back then.”
+
+“I’m happy to help. It’s the least I can do to help you survive out there. How does it feel?”
+
+“It doesn’t feel like I’m wearing armor at all! Err… Is that a bad thing to say? I meant it as a compliment.”
+
+“I’ll take it as one. We probably had that comment once or twice before.” Phoebe smiled and went to the door, taking a hold of the doorknob. “Ready?”
+
+Before she replied, Sherly brought out her Stalwart. She held it with one hand and placed the point slowly on the floor, while she had her other hand proudly on her waist.
+
+“How do I look?”
+
+“Like you’re ready to fight.”
+
+The cow-chilim lifted her greatsword and placed it on her back, allowing the attunement accessory to hold it there. She smiled as she felt its weight cling to her, then gave Phoebe a nod to open the door.
+
+Outside, they first saw Edward, who quickly gave his apologies for forgetting to teach her how to put on the armor. Sherly didn’t mind, as everything turned out alright anyway. Together, they went to Ishuin to let them know that they were done.
+
+The elf was in the middle of providing tasks to the other members of the caravan. Her Crustiatian Crab was with her, hauling large containers from one location to the other.
+
+Most of these people, Sherly now recognized. Even the new members who were the survivors of the previous village that burned down. They noticed her approach and greeted her. Some were even awed by her new armor.
+
+Of course, Ishuin noticed everyone taking a pause and turned where they were looking. When she saw it was them, she gestured for everyone to continue working and went to meet them halfway.
+
+“Phoebe,” the elf started. “Are you joining the feast tonight? We’re leaving tomorrow.”
+
+“Yes, thank you for the invitation.”
+
+“You said there was something important I needed to know?” Edward asked a little too hastily.
+
+“Oh, should I come back later?” Phoebe asked. “Don’t want to pry into your caravan’s secrets.”
+
+“No, I think it’s quite alright. I don’t think Sherly minds telling the both of you.”
+
+It clicked for Sherly instantly. “Yeah. I don’t mind.”
+
+The two looked genuinely confused.
+
+“Well, since you’re here, I think you should be the one to say it, Sherly,” Ishuin said, making it sound like a challenge. “You did say, you wanted to change people’s minds your own way, right?”
+
+“I did.”
+
+Even so, Sherly braced herself. She couldn’t help but feel a little nervous, knowing how hated her kin actually was. But she also trusted these people. She trusted that they would understand that she didn’t mean to hide it from them. Understand that she was different.
+
+“Edward, Phoebe,” she started, taking a deep breath. “I know this might be hard to believe, but…”
+
+Sherly hesitated and turned to Ishuin. She wanted to ask for help, but even in that, she also stopped herself. The elf smiled and gestured back, urging her to continue.
+
+The cow-chilim shook her head, trying to gather her resolve.
+
+“I’m just going to say it!”
+
+“Then say it!” Phoebe said. “Don’t leave us hanging!”
+
+“I’m actually a demon-cow!” Sherly blurted out a little louder than she wanted to. It was a good thing she was among peers who already knew her true identity.
+
+Edward and Phoebe, however, were completely shellshocked, their jaws hanging open in genuine surprise. Their eyes turned to her, then to Ishuin, who was smiling back at them while confirming their silent question with her eyebrows.
+
+“For real?” Edward was the first to ask.
+
+“I can’t believe it!” Phoebe said next. “A reasonable demon-cow? Really?”
+
+Sherly motioned to say something, but quickly found herself at a loss for words. The two were surprised and amazed, rather than horrified. They didn’t hate her.
+
+The relief was such a weight off her shoulders that her legs gave way and she fell to the ground, leaving everyone else staring at her.
+
+“Wait!” Ishuin said. “Why are you the one so shocked?”

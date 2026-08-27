@@ -1,0 +1,499 @@
+---
+id: 038d00e6-af72-5fa9-b031-d3d98b5fd452
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31: Aftermath"
+slug: 0031-chapter-31-aftermath
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 31
+ownLength: 3764
+unit: words
+publishedAt: 2026-04-28
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3329933/chapter-31-aftermath"
+royalRoadId: "3329933"
+---
+
+Hexenzeit Mansion.
+
+Hagen pressed the documents against his chest and stared at the staircase.
+
+It descended in a wide, sweeping curve, each step broad enough for three men to walk side by side. The banister was carved oak, polished to a deep amber by generations of hands. The walls on either side were hung with portraits of Hexenzeit ancestors, their eyes following him with judgment.
+
+He didn't move.
+
+The papers in his hands felt heavier than parchment had any right to feel. Intelligence briefs. Casualty reports. Numbers and names.
+
+He exhaled through his nose as he stared down. The Hexenzeit estate was so vast, so layered with corridors and galleries and chambers that branched into other chambers, that even after years of living here Hagen still occasionally turned a corner and found himself in a wing he didn't recognize.
+
+The architecture was contradictory. Ancient stone foundations supported newer timber framing. Halls built for war councils opened into rooms designed for academic study. Some corridors were wide enough to march a cavalry unit through. Others narrowed to a single body's width, twisting between load-bearing walls that predated the current structure by centuries.
+
+Hagen had learned, early on, that the butlers were not servants.
+
+They were navigators.
+
+Today he didn't need them.
+
+He knew where Roderich was.
+
+The sound told him.
+
+It reached him before he reached the windows. A rhythmic concussion that vibrated through the walls and rattled the glass in its frames.
+
+Fire.
+
+Hexenzeit specialty.
+
+Hagen passed a bank of tall windows and paused long enough to look.
+
+The training grounds stretched below the mansion's southern face. A broad expanse of packed earth and reinforced stone, scorched black in overlapping patterns that mapped years of drills and exercises. Targets lined against the far wall. Iron dummies, stone pillars, armored mannequins mounted on rails that could be pulled across the field.
+
+Soldiers filled the grounds.
+
+Each one expelling fire from their palms with a violence that turned the air above the yard into a shimmering mirage.
+
+One soldier hurled concentrated bolts that struck a target dummy and detonated on impact, spraying molten fragments. Another maintained a continuous stream, a lance of white-hot flame that he swept across three targets in succession. A third produced dense spheres of compressed heat, each one striking with a muffled whump that left craters in the reinforced earth.
+
+Fire in every form. Every temperature. Every application the human mind had managed to create from the element since the Hexenzeit bloodline first discovered its affinity.
+
+It was the house's identity. Its religion.
+
+In Silberwald, where magic determined everything, the Hexenzeits had staked their legacy on a single principle: burn brighter, burn hotter, burn longer.
+
+Every soldier on that field was a product of that principle.
+
+Hagen watched them for a moment longer, then turned from the window and continued down.
+
+The corridor opened onto a broad stone landing that overlooked the cavalry grounds.
+
+The training there was different.
+
+Mounted soldiers thundered across an oval track, their horses running at full gallop while the riders cast. The hardship of it was absurd. Maintaining a stable seat at speed while simultaneously channeling mana through a circle, forming the spell matrix, adjusting for wind and motion and the erratic movements of an animal beneath you, it was one of the hardest combat skills a mage could develop.
+
+For Hexenzeit, it was considered basic.
+
+The cavalry instructors stood along the track's inner rail, their voices cutting through the hammer of hooves and the crack of spells.
+
+"Too high! You're compensating for the bounce instead of absorbing it! Use your knees, not your spine!"
+
+"That bolt would have missed even a dragon in front of you! Lead the target! Account for your mount's lateral drift!"
+
+"If I see one more soldier lose control of their channeling mid-gallop, I will personally reassign them to stable duty for a month! Focus!"
+
+Hagen had enormous respect for the cavalry.
+
+It was one of his own weaknesses, and he was honest enough with himself to acknowledge it. His talents lay elsewhere. Complex spell architecture. Theoretical frameworks. Above all, chaining.
+
+Chaining was what the researchers called spells that generated spells. Self-propagating magical structures where the output of one matrix became the input of the next, cascading outward in sequences that could, in theory, continue indefinitely. It sat at the cutting edge of magical research, a discipline so new that most of the terminology hadn't been standardized yet.
+
+Hagen was good at it.
+
+Good enough that when Roderich had come looking for a son who could serve as both military officer and research asset, Hagen's name had floated to the top of every shortlist. The Hexenzeit estate paid handsomely. Better than any academic post. Better than any military commission alone could offer. The arrangement let Hagen pursue his research with funding and facilities that most scholars would murder for, while simultaneously contributing to the family's strategic capabilities.
+
+It was, by any measure, an excellent position.
+
+Except for moments like this.
+
+Hagen's fingers tightened on the documents.
+
+He descended the final staircase and stepped through the arched doorway onto the terrace that bordered the cavalry grounds.
+
+Roderich stood at the railing.
+
+He was exactly where Hagen had expected him to be. Arms crossed over his chest. Spine rigid. The deep Hexenzeit red of his hair, threaded with iron gray at the temples. His ember eyes tracked the riders on the track below with the unblinking focus.
+
+Beside him, seated on a low stone bench with her hands folded in her lap, was Ameriz.
+
+Hagen's stride faltered for half a step.
+
+He'd hoped she wouldn't be here.
+
+He'd checked the household schedule that morning, noted that Ameriz had a meeting with the estate's financial steward at this hour, and calculated that the conversation he needed to have with Roderich would be concluded before she returned.
+
+The meeting had clearly ended early.
+
+Her eyes, dark enough to border on violet, watched the same riders Roderich watched, though what she saw in them was anyone's guess.
+
+Hagen straightened his coat, adjusted the documents under his arm, and approached.
+
+On the track below, a boy rode.
+
+He was young. Thirteen. His hair was the true Hexenzeit red. He sat his horse well, back straight, knees firm, hands steady on the reins.
+
+Alrik von Hexenzeit.
+
+The youngest son.
+
+Hagen watched the boy guide his mount through a turn, fire blooming from his right hand in a controlled burst that struck a moving target in the center mass. The hit was clean. The form was correct. The channeling was stable.
+
+Not exceptional.
+
+But correct.
+
+Hagen had nothing against Alrik.
+
+In truth, unlike Kaspar, he found himself genuinely liking the boy. Alrik had been born into a family that treated anything less than perfection as a personal insult to the bloodline, and he hadn't let it crush him. He trained every morning before dawn. He drilled his casting until his cores ached.
+
+The talent wasn't there. Not at the level Roderich demanded.
+
+Still, the effort was real.
+
+Roderich watched his youngest son's adequate fire bolt strike its target and said nothing.
+
+Hagen could read the silence.
+
+Roderich's ambitions for the Hexenzeit name were not small things that could be satisfied by adequacy. He wanted the family restored to its peak. The name spoken with the weight it had carried in generations past.
+
+Alrik was trying.
+
+For Roderich, trying was the consolation prize.
+
+Hagen stopped three paces from the Archduke.
+
+"My lord."
+
+Roderich didn't turn.
+
+"Speak," he said.
+
+Hagen glanced at Ameriz.
+
+Her dark eyes shifted toward him. Just for a second.
+
+"My lord," Hagen said carefully, "the matter is sensitive. Perhaps a more private setting—"
+
+"Is it a war secret?"
+
+"No, my lord."
+
+"Then speak." Roderich's voice carried the flat, absolute authority. "I don't have time for theater."
+
+Hagen drew a breath.
+
+"Grezheim was attacked."
+
+"Southern Front Command misread the elven movements. Intelligence indicated a push against the trench line. Resources were redeployed accordingly. Instead, the elves dispatched a smaller force, a probing element to test Grezheim's defenses."
+
+He paused.
+
+"The garrison had been partially stripped for the anticipated trench engagement. The response was delayed. However, local forces that had failed to depart for the front were still present when the attack fell."
+
+Another pause. Hagen chose his next words with care.
+
+"The assault was repelled. The attacking force was small, poorly equipped relative to mainline elven units. Likely a sacrificial probe. They tested the walls, assessed reaction times, and withdrew or were destroyed."
+
+He let the operational summary settle before adding.
+
+"Reinforcements are required. The garrison's strength is below minimum operational levels."
+
+Roderich was silent.
+
+Below them, Alrik's horse completed another circuit. Fire bloomed from the boy's palm. Once more, adequate.
+
+"Send two companies," Roderich said. His voice hadn't changed. The same flat, efficient tone he used for everything. "And an intelligence team. A misread of this magnitude cannot occur again. I want the analysts responsible identified and replaced."
+
+"Yes, my lord."
+
+Hagen didn't leave.
+
+His boots remained planted on the terrace stone. The documents pressed against his chest.
+
+Roderich noticed.
+
+The ember eyes finally turned from the track and settled on Hagen.
+
+"There is more?" Roderich asked.
+
+"One additional item, my lord."
+
+The silence stretched.
+
+"Regarding Kaspar."
+
+Roderich's expression didn't shift. Not a muscle. Not a flicker.
+
+"I told you," Roderich said, and his voice was quieter now, which made it worse, "that I wished to hear that name only in the context of a military achievement or his death."
+
+"Yes, my lord."
+
+"Which is it?"
+
+Hagen's fingers pressed into the edge of the documents until the parchment creased.
+
+"Kaspar was seen during the attack. He was injured. However, there are no reports if he was healed or what happened to him," he said. "He is listed as missing in action."
+
+Hagen waited a second before ending his sentence.
+
+"He is at the moment presumed dead."
+
+The terrace went still.
+
+Below, the cavalry continued its circuit. Hooves struck packed earth. Fire cracked against targets. Instructors shouted corrections.
+
+None of it reached the terrace.
+
+Roderich's face remained carved from stone.
+
+He said nothing.
+
+Hagen waited for a response. An order. A question. A dismissal.
+
+The cold came first.
+
+Hagen felt it before he understood it. A sudden, vicious drop in temperature that had nothing to do with weather or wind. It bit through his coat and into his skin. His breath caught, and when he exhaled, a thin plume of white vapor curled from his lips.
+
+He turned.
+
+Ameriz hadn't moved.
+
+She sat on the stone bench in exactly the same position. Hands folded in her lap. Spine straight. Face forward.
+
+But her face had changed.
+
+The careful composure, the mask she wore to war councils and family dinners and every public moment of her existence, had cracked. A hairline fracture.
+
+Her jaw was clenched so tight the tendons in her neck stood taut as bowstrings. Her eyes, those fathomless violet-dark eyes, were wide.
+
+The temperature continued to drop.
+
+Frost crystallized across the stone railing. It spread outward from Ameriz's position in a silent, radiating wave, crawling over the terrace floor, climbing the bench legs, coating the low wall that separated them from the grounds below.
+
+Within ten meters, every surface glazed over.
+
+The documents in Hagen's hands stiffened. Ice crystals formed along the edges of the parchment. His fingers burned with cold. Ameriz's hands hadn't moved.
+
+She hadn't raised them. Hadn't spoken an incantation. Hadn't performed any gesture that could be called casting.
+
+The ice was involuntary.
+
+Hagen took a step back.
+
+He couldn't help it.
+
+In the deepest, most private chamber of his mind, a thought formed that he would never speak aloud.
+
+Is this what a Fifth Circle ice mage looks like when she stops holding back?
+
+Several hundred kilometers to the south.
+
+Iris was thankful for the broken carriage. It had saved her life. In a strange way, she got lucky. If they had left the city, they would have been ambushed by the elves far from the protection of the walls.
+
+She turned that thought over in her mind.
+
+The bandages around her torso pulled tight with every breath. The field medic who'd wrapped them had done solid work, but solid work didn't erase the fact that three of her ribs were cracked and every inhale felt like being stabbed.
+
+She was supposed to be sitting in one of those carriages, wedged between fourth-year students she barely knew, rolling toward a trench line where elven forces were massing for a push that everyone said would be the worst in a decade.
+
+Instead, the carriages had burned.
+
+Iris remembered the arrows. The burning points of light arcing over the walls. She remembered the bells, every bell in the town ringing at once. She remembered the hooded figures dropping from the battlements into streets that were already on fire.
+
+She remembered fighting. Her skill with water based spells was too low to use in combat, so she could only rely on earth. Even so, with only two Circles, she was limited in what she could do to help.
+
+She could raise walls of packed stone. Could hurl boulders with enough force to break bone. Could shape the ground beneath an enemy's feet into something treacherous.
+
+Barriers for the civilians streaming toward the underground shelters. Walls of compressed earth rising from the cobblestones to block alleys where hooded figures were advancing. Boulders launched into clusters of attackers with enough force to scatter them.
+
+It wasn't elegant. Still, it kept people alive. Thanks to that, she was alive. Sitting on a cot in the field hospital, reading the casualty list.
+
+The parchment was fresh. The ink still smelled sharp. Names arranged in two columns: KILLED and MISSING.
+
+Her eyes moved down the MISSING column.
+
+She found it near the bottom.
+
+KASPAR VON HEXENZEIT — MISSING, PRESUMED DEAD.
+
+Her hand stopped.
+
+The parchment creased where her fingers tightened.
+
+She read the name again. Then a third time. Then a fourth, as if repetition might rearrange the letters.
+
+Missing.
+
+Presumed dead.
+
+But she'd seen him.
+
+In the square, during the attack. She'd been moving between barricades, directing civilians toward the nearest shelter entrance, when she'd caught sight of him through a gap in the smoke.
+
+White hair. Unmistakable. Even in the chaos, even through the haze of fire and dust, that hair was a beacon.
+
+She'd almost gone to him.
+
+Almost.
+
+But then she'd seen what he was doing.
+
+Kaspar von Hexenzeit. The boy with nine cores and zero Circles. The academy's most famous failure.
+
+He was holding a sword.
+
+An actual, physical, steel-edged weapon.
+
+She'd watched him throw himself between a hooded figure and two civilians. She'd watched the blade come up, watched the parry, watched him move with a desperate competence.
+
+She'd watched him kill the elf.
+
+The blade had gone into the creature's back beneath the shoulder blade. The elf had stiffened. Had tried to turn, yet it died.
+
+For any soldier in Silberwald's army, a confirmed elf kill was a commendation. For a Schwarzling, the lowest rank, it was a promotion.
+
+Kaspar hadn't received a commendation.
+
+He'd received a line on the missing list.
+
+"You need to rest."
+
+The voice came from the cot beside hers.
+
+Drez sat cross-legged, a stack of requisition forms balanced on one knee and a quill tucked behind her ear. Her short red-orange hair was matted with sweat and dust, and a bruise the color of a thundercloud spread across her left cheekbone, but her eyes were sharp.
+
+Drez was what Kaspar should have been.
+
+The thought was uncharitable, but Iris couldn't stop it from forming.
+
+Drez had the same kind of mind. The same voracious, pattern-seeking intelligence that devoured problems and produced solutions. She could have been a scholar. A theorist. A researcher buried in some archive, producing papers that nobody read and everyone cited.
+
+Instead, she was a Fourth Circle combat mage at nineteen. Gold insignia. Top of her class by a margin so wide the ranking became just a formality. Every scrap of potential that Kaspar's nine cores had promised and never delivered, Drez had seized with both hands and turned into reality.
+
+"I can't rest," Iris said. She held up the casualty list.
+
+Drez's gaze dropped to the parchment. Tracked the finger Iris was pressing against a specific name.
+
+"Kaspar von Hexenzeit," Drez read aloud. Her brow furrowed slightly. "A friend?"
+
+Iris stared at her.
+
+The stare lasted long enough to become uncomfortable.
+
+"How," Iris said slowly, "do you not know who Kaspar von Hexenzeit is?"
+
+Drez's furrowed brow deepened. "Should I?"
+
+"The biggest scandal to hit the Academy in a generation?"
+
+"I don't follow gossip," Drez interrupted. Her tone wasn't defensive. It was factual. Gossip occupied a category of information that Drez's mind had deemed inefficient.
+
+Iris pressed both palms against her face and breathed through her fingers.
+
+"He's a Hexenzeit," she said, her voice muffled. "The Hexenzeit firstborn. He's listed as missing, presumed dead."
+
+She lowered her hands.
+
+"But he's not dead. I saw him after the battle. I saw them carry him to the medical tent. He was alive. Bleeding, but alive. How does a living person end up on the presumed dead list?"
+
+Drez set down her requisition forms. The quill came out from behind her ear and found its way between her fingers, spinning idly.
+
+"Administrative error," Drez offered. "Post-battle casualty reports are notoriously inaccurate. If the medical tent was overwhelmed, if his name wasn't recorded properly..."
+
+"Then we correct it."
+
+Iris swung her legs off the cot.
+
+Drez was on her feet immediately.
+
+"You're injured," Drez said. "You need at least three more days before..."
+
+"I need to fix this more than I need rest."
+
+Iris pulled free and walked out of the storehouse. Iris didn't fully understand why she felt compelled to get involved. Her family still lived in Hexenzeit territory, and the lord had always treated them well enough. But this wasn't really about that. It was about the boy. He had spoken to her, treated her with kindness. More than anything, she couldn't shake the image of him saving others.
+
+Grezheim's central square was transformed. What had been a pleasant, unremarkable town center two days ago was now an open-air command post. Tables had been dragged from every building within reach and arranged in rough rows. Officers hunched over maps and reports. Runners darted between stations, carrying messages.
+
+The square still smelled of smoke.
+
+Iris found the senior officer's table near the fountain.
+
+He was a stocky man with the look of someone who had been awake for forty hours and was running on spite. Papers covered every inch of his workspace. A crystal communication device sat at his elbow.
+
+Iris stopped in front of the table.
+
+"Sir."
+
+The officer looked up. His eyes found her bandages, her army uniform, the insignia at her collar.
+
+"What," he said.
+
+"Kaspar von Hexenzeit is listed as missing, presumed dead." She set the casualty list on his desk, her finger anchoring the relevant line. "This is incorrect. He was alive after the battle. I witnessed him being transported to the medical area."
+
+The officer glanced at the name. His expression didn't change. If anything, it hardened.
+
+"The Schwarzling?" He asked.
+
+"Yes."
+
+The officer leaned back in his chair. The wood creaked beneath him.
+
+"That kid's been nothing but a headache since the expedition started," he said. "No magic. No useful skills. Assigned to logistics because there was literally nothing else to do with him. Now I'm supposed to divert resources to track down one missing Schwarzling when I've got a garrison at half strength, supply lines that haven't been restored, and an elven probe force that might come back with friends?"
+
+He rubbed one hand across his face, grinding exhaustion deeper into the lines around his eyes.
+
+"The answer is no. We're not wasting resources."
+
+Iris's palm hit the table.
+
+The impact rattled the crystal comm device and sent two pens rolling off the edge. The officer's head snapped up. His eyes went wide, then narrow, fury flooding the exhaustion.
+
+"Soldier—"
+
+"Sir." Iris's voice was controlled, but only barely. "Are you forgetting the boy's family?"
+
+The officer's mouth opened.
+
+"At the end of the day," Iris continued, "he may be a failure. He may be a Schwarzling. He may be every joke and every insult the academy and the army have ever thrown at him."
+
+She leaned forward.
+
+"He is still a Hexenzeit."
+
+The officer's mouth closed.
+
+"Roderich von Hexenzeit," Iris said, "controls every mage regiment in Silberwald. Every war-time allocation. Every promotion board. Every funding decision. Every deployment order that crosses the desk of every officer from here to the northern border."
+
+She let that settle.
+
+"If word reaches the Archduke that his firstborn son was listed as presumed dead because a field officer decided the paperwork wasn't worth the effort…"
+
+She tilted her head.
+
+"Would you like to bet your career on that, sir? Your commission? Your neck?"
+
+The officer stared at her. His face cycled through three distinct shades of red before arriving at a pale, waxy color that suggested his blood had decided to relocate to his extremities.
+
+His hand rose, slowly, and touched the side of his neck.
+
+Drez appeared at Iris's shoulder.
+
+She hadn't spoken during the exchange. Hadn't needed to. She stood with her arms folded, her presence alone added a second layer of pressure that the officer couldn't ignore.
+
+Top of the fourth-year class. Molino's personal student. The kind of rising star that generated its own gravity.
+
+The officer's jaw worked.
+
+"What do you need?" he asked.
+
+"Transport," Iris said. "To the capital. Intelligence on where the Iron Cross operates."
+
+The officer blinked.
+
+"The Iron Cross?"
+
+"The last confirmed information," Drez said, speaking for the first time, "suggests that Kaspar von Hexenzeit was removed from the medical area by members of the Iron Cross special legion. Their carriages departed Grezheim before the final casualty count was completed."
+
+The officer processed this.
+
+His hand was still on his neck.
+
+"The Iron Cross," he said slowly. "Took a Hexenzeit."
+
+"Without authorization," Iris added. "Without identification. Without informing his chain of command."
+
+The officer closed his eyes.
+
+"I'll issue travel orders," he said. "Two personnel. You'll depart with the next supply convoy heading north."
+
+He reached for a blank requisition form.
+
+"And for the record," he added, his voice tight, "I want it noted that this office made every reasonable effort to locate the missing soldier once the discrepancy was identified."
+
+"Of course, sir," Iris said.

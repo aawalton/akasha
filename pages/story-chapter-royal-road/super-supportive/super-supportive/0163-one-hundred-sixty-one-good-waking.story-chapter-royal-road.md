@@ -1,0 +1,409 @@
+---
+id: 571901fd-d976-578a-a509-f8fcac04ebf5
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED SIXTY-ONE: Good Waking"
+slug: 0163-one-hundred-sixty-one-good-waking
+partOf: super-supportive
+position: 163
+ownLength: 4913
+unit: words
+publishedAt: 2024-08-11
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1753850/one-hundred-sixty-one-good-waking"
+royalRoadId: "1753850"
+---
+
+161
+
+******
+
+What does a human do when he’s up in the middle of the night in the first Rapport?
+
+In the corner where the cottage’s two transparent walls joined, on the floor, Alden’s jar of zansees turned into a swirling galaxy of sparks. One of the tiny yellow-orange water bugs lit up, and all the silver and green ones suddenly began to flash in response.
+
+He sat on the edge of the bed, toes digging into the rug while he watched them. Stuart had put his own jar on top of the cabinet that held the enchanted rings, and the two decorations were currently the main sources of light in the cottage. Outside, there was almost no moonglow. The brightest thing Alden could see beyond the windows was actually the stream, occasionally flaring and sparkling in patches just like the jars.
+
+According to his interface, it was around eight in the morning Anesidora time, ten in Chicago, and a little less than five hours until dawn here in Rapport I. When Alden had gone to sleep, Stuart was sitting in one of the chairs outside, using his eyerings to access something he wanted to study. Now he was on the other side of the curtain, tightly cocooned in what Alden assumed was a heated blanket and floating a couple of inches off the ground on those cushioning spells of his that smelled like basil.
+
+You strange dude, Alden had thought when he first woke and found the Primary’s son lying in front of the cottage door like a guard dog. Why didn’t you go sleep in your own room where it was the right temperature and there wasn’t going to be a person bumping around to bother you?
+
+He’d suspected Stuart wouldn’t do that based on things he’d said yesterday, but he wasn’t completely clear on the reason. Some combination of trying to be a good host and making sure his family didn’t interact with Alden without his oversight.
+
+The art’h argument had obviously concluded in an agreement that had led to Alden’s invitation, and possibly a promise that everyone would give them space, if the lack of visitors yesterday was any indication.
+
+Does that mean he persuaded them to let him have his way, or did he have to compromise something in return?
+
+Alden hoped it was the first.
+
+He let himself flop backward. The mattress was softer than he liked but nothing to complain about. Above him, the ceiling was covered in small, triangular wooden tiles.
+
+How many different places have I slept this year? My old room, the consulate lobby, LeafSong, the vault, the car…
+
+The water bugs in both jars flashed again, painting the ceiling with light.
+
+Counting sleeping locations didn’t fill much time, and when he was done, all he’d accomplished was adding another loop to the tangle of his thoughts.
+
+And what a tangle it was.
+
+Boe. Magic. Kibby today. Kibby some day in the future. Stu-art’h. Stuart. His upcoming affixation. Alden’s own affixation. Superheroes. Unregistered Avowed. Anesidora. Earth. Knights. Connie. Joe. The Bearer of All Burdens now. A year from now. Gorgon. Demons.
+
+Planets falling to chaos on the edge of the universe. Earth falling to chaos in his imagination.
+
+What it felt like to be swept from his feet by that wave, battered and out-of-control in the freezing dark. Death. That first gasp after Esh-erdi had pulled him from the water. Life.
+
+And would he even get to choose how he lived it? And for how long?
+
+Maybe the tangle doesn’t get unraveled from here on, he thought. Maybe the questions and worries just accumulate, and the priorities get more and more confused, until I go nuts or completely forget that I used to think I had a handle on the world and my place in it.
+
+Stuart had offered to introduce him to a mind healer. And not just any healer, but one of the ones the Primary had scoured the Triplanets to find for his own son.
+
+Alden suspected Esh-erdi had said something.
+
+Probably not, “Alden Thorn seems like he’s on the verge of flying apart, but he ignored me when I suggested a human Healer of Mind. Fix it.”
+
+According to Stuart, the knight had made “delicate insinuations” about a matter, and he wasn’t even sure he’d interpreted correctly. So it must have been quite subtle.
+
+Alden tried to figure out if he was irritated with Esh-erdi or not. It felt like an intrusion, and he didn’t like it. But at the same time, when he tried to explain to himself why Esh-erdi worrying was unreasonable, he couldn’t make his arguments sound anything short of ludicrous.
+
+Stu-art’h, your human friend—so surprising that you have one of those, by the way—really wants to have a phone call with you. He almost got stabbed and drowned a couple of days ago, and now he knows what four or five new kinds of dead bodies look like. But it’s no big deal. Obviously he’s fine. He’s really excited about school starting back.
+
+He thought maybe he was lucky that Esh-erdi hadn’t just let Porti-loth bury him up to his chin in a dirt mound and then summoned in a Healer of Mind while he was trapped.
+
+If the faculty at school knew the whole story, what would the conversation with Principal Saleh and Instructor Klein have been like?
+
+They’d been worried about the wordchains on the bus. The offer to take some time off from his gym class would probably have become an order if they’d known what happened at the ambassador’s residence.
+
+Actually…I wonder if the dead guys in the greenhouse will end the possibility of a traditional superhero career if the news comes out?
+
+He rested his hands on his stomach, considering it.
+
+You didn’t have to be at fault for an incident to become unhireable. Something sufficiently noteworthy just had to end up with a bad spin on it instead of a good one, and suddenly you weren’t the PR-safe choice most places were looking for.
+
+Three dead Avowed and one survivor—was he really a victim? Or a villain being protected by a corrupt wizard?
+
+Something like that…
+
+Alden didn’t particularly care about the narrowing of his Earthly job prospects, but he really hoped rumors that he was a murderer didn’t ever become a thing.
+
+It would ruin the gokoratch song video. Suddenly everyone would be talking about me instead of the stinky cannibal parrots.
+
+He grinned at the thought, then slapped a hand over his mouth so that he wouldn’t laugh outright and wake up the future-knight burrito on the other side of the cottage.
+
+See. I can still laugh at myself. No need to have my mind worked on.
+
+His smile faded.
+
+But if I’m honest with myself…
+
+The way Stuart had put the offer had sounded more appealing than most suggestions for therapy and mind healing that Alden had heard in the past.
+
+“If some memory or emotion tied to all that’s happened to you is tiresome for you,” he had said.
+
+And tiresome was the right word for it.
+
+Some struggles he understood, learned from, and felt like he made progress on. Others were just…so tiresome.
+
+His jar of zansees flashed, and Stuart’s followed a moment later.
+
+I wonder what he needed the healers for.
+
+Sina-art’h’s death leaped to the forefront as a possible answer, but grief, even a deeply felt one, didn’t seem like something that would have forced the Primary to seek the aid of multiple elite healers. Unless it had been complicated by some other factor.
+
+Stuart had also specified that the thing he hesitated to call an injury had happened when he was “very young.” Possibly it was a linguistic nuance that Alden didn’t quite mesh with, but he wouldn’t have called the Stuart who had watched his sister die very young.
+
+It would have been like referring to his own twelve or thirteen-year-old self the same way.
+
+The hallucinations he mentioned having could have been what the healers helped him with. It’s really none of my business unless he wants to bring it up again.
+
+Mind healing.
+
+When it came to magic, a distinction could be made between the concept of the mind and the physical brain. It got blurred in casual conversation with the words being used interchangeably, but while a head injury could be fixed by the right Avowed Healer of Body, a Healer of Mind was someone who did things like memory restoration and correction of lingering damage caused by Sway attacks.
+
+Alden had heard they could also help you quickly reset after trauma or even work in conjunction with Sways to safely lock-in desirable personality changes.
+
+He was sure whoever Stuart was offering to introduce him to had a much wider toolkit.
+
+But…
+
+He had a lot of buts and what ifs. Most of them were probably shallow and unhelpful.
+
+There were ignorant people who thought using a wordchain or medication to deal with your problems was a sign of weakness. Alden currently had a double Peace of Mind debt to prove he was not one of those people. So, logically, he shouldn’t be someone who shied away from more significant magical assistance.
+
+I think I’d be happy to take shortcuts and use more permanent magic on my mind as long as other people didn’t have to be involved. Like if I could press the delete button on that nightmare where I can’t find Kibby in the grass, I’d press it right now.
+
+But I want to press it all by myself.
+
+He watched the play of light on the ceiling for another few minutes, then pulled up the new collection of videos Stuart had sent to him. He’d opened one right before bed and received a long recording of a poetry festival in Chayklo, where Kibby had been taken by the wizard who seemed to have become her main instructor, Dalat-orni. Kibby had an obvious preference for a performer who wore bells on her sleeves and included lots of riddles in her poetry. Alden didn’t have the background or vocabulary to understand ninety percent of what was said, but Kibby thought it was Very Good Stuff that he would love because she did.
+
+This time he selected a video she’d entitled, “Kraaaa Wonders How You Are and Also I Would Like to See Inside The Drawers and Cabinets in Your New Dwelling.”
+
+Of course, thought Alden as her face appeared. It was ridiculous of me to only film the exteriors of the drawers when I made that apartment tour video for her. What humans keep in our cabinets is the really intriguing question.
+
+She was sitting in her little classroom corner with her satellite images of the lab explosion being projected onto the wall. Her hair was piled up and forward to partially cover her forehead in another complicated creation that had to be Rrorro’s work. And she was wearing—
+
+Alden sat up so fast he almost ended up in the floor.
+
+“Hi, Alden!” said Kibby, her smile wide and her posture very straight, as if she was trying to stretch her neck out to showcase the auriad around it.
+
+The casting tool’s color was just a touch paler than the one that was currently wrapped around Alden’s upper arm and hidden by the sleeve of the shirt he’d worn to sleep.
+
+Nobody who hadn’t spent a lot of time staring at one of the auriads would ever notice the difference.
+
+“Instructor Dalat-orni has decided it’s time for me to learn a new spell with my auriad,” said Kibby proudly. “I’ve been practicing with my auriad very hard.”
+
+You absolute genius, Kibby, thought Alden, pausing the video. You got an auriad, bonded it, and made it match!
+
+How the heck did you manage that?
+
+She was really on her way forward.
+
+It wouldn’t be much longer before the two of them could talk using the new System on Thegund. Soon after that, she would be able to teleport here to the Triplanets and sit in a classroom with other wizard kids her age. She’d be a fully qualified summoner some day. Either as a wizard, or maybe a hn’tyon if she wanted.
+
+And Alden would be…something
+
+Eventually I become something, right? Even if I can’t see it from here.
+
+I have to end up somewhere somehow, if I survive for long.
+
+With the fake profile she had given him, he did have a little bit of a chance. Just a little more choice.
+
+He looked toward the burrito. Nothing like the choices you have, though.
+
+He remembered sitting in the kitchen with Vandy during Kon’s party, folding his visualization of his own affixation instead of plane and thinking about what Stuart was planning to do. You are one of the few people in the universe who can be anything in the universe. Why are you choosing this?
+
+Because he believed it was right, of course.
+
+I don’t even know why chaos exists, where it is besides the few places Earth hears about, how many kinds of demons in between grasshopper and moon-sized there are…anything.
+
+I still don’t know anything.
+
+I could wake Stu-art’h up right now, and he could talk to me until next year, and I still probably wouldn’t understand half of the things about it he does.
+
+He wondered what kind of skill Stuart had chosen. He didn’t know if he looked forward to finding out or if he was worried about it.
+
+He hoped it was a fantastic one, something that would make up for everything the Primary’s son would lose.
+
+Quiet Rabbits probably shouldn’t want to be friends with knights, he thought. They should probably run like hell in the opposite direction.
+
+Stuart had told him that his duty to the Triplanets had to be his priority. It wasn’t like that was a shock. But Alden didn’t know everything that “duty” included, or how it would affect him.
+
+I do know it’s a lot less likely to affect me in bad ways if he, and everyone else, keeps thinking I’m a normal Avowed with a normal skill.
+
+The Primary already thought an older Alden might be a nice addition to some future mission for knights. But as petrifying as that was, it almost sounded like he imagined Alden chilling in a travel dome in a relatively low danger corruption zone, until someone or something important needed preserving.
+
+I’d be a conveniently chaos-resistant Rabbit you could pass a bauble or a body to in a pinch. Not someone expected to do any actual battling myself.
+
+His risk of death from that kind of summoning was a question mark, since he had no idea what the success rate of knight missions was or how much weight the Artonans put on keeping the Avowed they brought with them safe.
+
+He did think his chances of survival would be much, much higher if his profile stayed a lie. And that was without even considering the quagmire that would be everyone’s opinions on what should be done with a wizard from a species that wasn’t supposed to have them.
+
+If the Artonans find out about Bearer, about the authority sense, about how the skill is going to grow…
+
+His auriad tightened on his arm. He wondered if he’d have any major choices left at all, or if, from that point on, he’d just be trying to survive the lifelong version of that wave bowling him over—icy, black, and unstoppable.
+
+“—ratches.”
+
+Startled from his spiraling thoughts by the sound, Alden stepped around the foot of the bed and walked over to look at his host more closely.
+
+“No more gokoratches,” Stuart said in a quiet but annoyed voice.
+
+His eyes were closed.
+
+I didn’t know Artonans sleep-talked, Alden thought, worries replaced temporarily by amusement. Kibby had snored sometimes, but that was all.
+
+He waited for a while, but Stuart was silent.
+
+Well, thanks for bringing me back to the present, anyway. I guess I don’t have to figure out everything right now…even if it is all coming my way faster than I’d like.
+
+******
+
+******
+
+Stuart woke about three hours later.
+
+Alden was kneeling on his learning cushion and watching his tablet with his headphones on. He’d briefly texted Boe earlier, but now he was watching duel footage to pass the time. He’d been at it longer than expected. Stuart’s cushioning spells had given out a while ago, but instead of waking right up, he’d been lying on the hard floor.
+
+“Good morning,” Alden said in Artonan, watching his host fight his way out of his covers.
+
+Stuart finally freed himself and stood. “It’s not dawn,” he pointed out.
+
+“True,” Alden agreed. “What do you say to someone who wakes up when it’s still dark out? Good waking?”
+
+“That’s nice! It sounds like you’re happy I didn’t die in my sleep.” He started folding up the blanket.
+
+“I am really glad about that. Can you imagine the conversation I would have had with your family?”
+
+Stuart brought the blanket over to put it in one of the drawers set into the platform that the bed rested on top of.
+
+“You’re on your cushion,” he said in a pleased voice when he was finished. “Should I leave you to your learning?”
+
+“I’m ready to do whatever you like. I’ve been talking to a friend back home and studying for school, but I don’t really need to keep at it.”
+
+Boe wasn’t likely to have time for a long text exchange today. He’d been stuck in serious conversations with worried or annoyed authority figures all morning. It was a predictable consequence of vanishing for months and then showing back up at school out of the blue with the intention of re-enrolling, but Alden still felt vicarious pain at the thought of how awkward all the questions must be.
+
+“This is just a video of students at my school dueling with their powers,” he explained to Stuart. “We’re going to start training this way on Wednesday evening, so I was supposed to observe a few.”
+
+“Avowed dueling? May I see?”
+
+Alden gestured at the tablet. “Of course you can—“
+
+Stuart was already hurrying toward him eagerly.
+
+Alden took off the headphones and turned the volume up. There wasn’t much in the way of conversation on the video, but occasionally someone on the sidelines shouted something of interest. And Stuart would probably want to hear any spells that were being cast.
+
+Not that any had been in this duel so far.
+
+The battle was between an Adjuster and Francis, the Sway from the B-list. It had been filmed around half a year ago.
+
+Alden really didn’t need to watch this fight. Reviewing one-on-one footage from other classes had mostly been assigned to them so that they wouldn’t show up on Wednesday with no clue what was going on, and he had a handle on the basic rules for a dueling session down now.
+
+But the hero program had almost no Sways. And he had been curious about how Francis actually made progress on his “Beat the A’s” goal.
+
+In this duel, at least, he seemed to be doing all right.
+
+“I don’t understand what’s going on,” said Stuart.
+
+“The bell sounds the rings on his fingers make let him slowly build a suggestion in the listener’s mind. And then when he finally triggers it, they have a harder time resisting. He focuses on making people lose control of their own bodies. That’s why the girl he’s competing against is chasing him around the dueling block and trying to kick him instead of casting. He’s made her forget how to use her arms, and she’s an Adjuster…that’s the name of the class that relies the most on spell impressions.”
+
+Stuart watched Francis, who was panting and more serious than Alden had seen him during club, as he barely leaped away from his opponent before a foot could catch him in the gut.
+
+Ding ding.
+
+Is he much stronger than her?” Stuart asked.
+
+“No,” said Alden. “I don’t know exactly what talents either of them chose, but she’s one rank higher according to how Earth ranks Avowed. Normally she would have a skill and three or more spell impressions that go with it. If she’s developed a little more she might have a second weaker skill, but probably not yet. They’re in one of the beginner combat classes in this video.
+
+“I only know a little basic information about the boy with the bells. He can’t build the suggestion very fast, so I think they must give him permission to start using his powers at the start of class instead of waiting for duels to begin. So I imagine it feels unfair to his opponent.”
+
+Stuart watched them. “I think she’d win if she stood still and focused on using her spell impressions instead of running around. They should be castable even if she’s lost limb awareness.”
+
+Alden filed that info away in case it ever came in handy one day.
+
+The fight finished with a time call and no real victor. Both participants looked angry about it as the Adjuster went to the bleachers for a break and Francis headed toward another dueling block to face a different opponent. As was typical of classes held in the gym, there was a minimum of wasted time. There were several blocks, and people were always moving in and out of them as they were assigned new partners.
+
+Stuart leaned over Alden’s arm, trying to see a pair in a corner of the screen better.
+
+“Do you want me to show you the close-up footage for that particular fight?” Alden asked.
+
+“Whatever you would normally watch is fine. I’m not very familiar with what human Avowed your age should be able to do. I do recognize some of the weaponry, though.”
+
+Alden tapped on the corner Stuart had been looking at and held his finger there until the tablet offered him the option to focus on the Meister vs. Meister match-up.
+
+The weapons in question were a javelin in the hands of one boy and a diamond-shaped shield on the arm of the other. The javelin-wielder was an A-rank, the shield user an S.
+
+It was not a fair fight.
+
+Alden winced as the S-rank pressed forward easily, every strike against his shield seemingly contributing to a wall of force that appeared to cover every inch of him except for the shield.
+
+“How are you supposed to beat that?” he groaned.
+
+“By overwhelming the strength of the arm holding the Laughing Silver Denial,” said Stuart promptly. “Or by transmogrifying it a little bit. Or by altering the floor beneath his feet. Or…”
+
+He kept going, naming all kinds of things the javelin-wielder definitely didn’t have the ability to do.
+
+Alden completely stopped paying attention to the tablet to listen to Stuart.
+
+“Do you like dueling?” he asked finally. “Is that something you do a lot of?”
+
+“Of course. But magical dueling takes many forms. Does dueling at your school always involve combat?”
+
+“I think the part of class called ‘dueling’ does. High-rank Avowed do have a lot of combat abilities, so…fighting. The school thinks it’s one of the best ways for us to grow more powerful.”
+
+“Mmmm…” Stuart looked thoughtful.
+
+“What did that humming sound mean?” Alden asked curiously. “Do you disagree?”
+
+“No. I don’t. But anything that promotes <<the fruitful striving of the self>> is useful. There are many goals to strive for. I’m sure the Avowed of the icorlax species would <<stagnate>> and wither if fighting were the only way they could grow.”  He glanced at the tablet, then back up at Alden. “You’ll be doing this soon?”
+
+“Why do you sound so worried?”
+
+“How will you use your skill if you don’t have teammates?”
+
+“Whatever rope I bring to class will be entrusted to me before the duel starts. And then I’ll have to make sure not to drop it.”
+
+Stuart looked doubtful.
+
+“It’s fine if I don’t win a lot of duels,” said Alden. “It’s about improving. Striving.”
+
+“That’s an admirable attitude. And you did say you were attending the school because you wanted to throw yourself at something challenging. Do you want to duel me before you go back to Earth? Maybe before third meal?”
+
+Alden dropped the tablet. In a futile effort to make it look intentional, he let it slide off his knees onto his learning cushion without reaching for it again.
+
+“I didn’t mean a fight,” Stuart clarified. “You’re in a squishboot. Really I didn’t mean any kind of proper duel since the word implies a similarity of…but I would be helping you practice your skill so that your missed days of schooling were not wasted.”
+
+“If you want to, that would be f—”
+
+“I’ll revise the itinerary again,” Stuart said eagerly, bouncing to his feet.
+
+“Shouldn’t you send me a copy of this itinerary you keep mentioning?” Alden asked, looking up at him.
+
+“I could make you your own version. Yes. I’ll do that.”
+
+“I can’t see your version?”
+
+“No. It has personal notes on it.”
+
+That made Alden want to see it more, but he’d just have to live with the curiosity. “What’s next on the list for today then?”
+
+“I need to go to the house to get our first meal,” said Stuart. “And select some things for my spell.”
+
+“The grand presentation.”
+
+Stuart made a high noise so faint that Alden barely caught it.
+
+A nervous sound?
+
+“You don’t have to think it’s grand. Maybe I should have called it interesting. Or worthwhile?”
+
+******
+
+******
+
+A short time later, they were down by the stream, releasing their zansees. Alden’s jar full gave them one final flash when he bent to pour them into the gentle flow of the water.
+
+“Zansees are hyektch,” he said, as the two of them headed up the hill toward the main house.
+
+With the jars emptied, they didn’t have much light, but Stuart didn’t seem to need it to navigate his own backyard. “That’s a good way to use hyektch. I think I said the same thing the first time Father showed me the stream at night.”
+
+Alden, following close behind him, tried to picture a man who could chop giant demons in half carrying a tiny boy down to the water to show him the pretty lights. It was surprisingly easy.
+
+And somewhat sobering.
+
+“This place is beautiful, Stu-art’h. Thank you for having me as your guest. Properly this time.”
+
+Stuart took a few more steps, then stopped. When Alden stood beside him, he said, “The forest here is special.” His face was turned toward the dark canopy above them. “It’s quiet for a forest. But it’s much more alive than even the jungle around LeafSong. In its way.”
+
+“I know,” said Alden. “I feel it.”
+
+“Do you?” Stuart was still gazing up. “What does it feel like to you?”
+
+Alden wondered if answering honestly was a little dangerous. He did so anyway, as well as he could. “It feels peaceful, but not in an accidental way. There’s purpose to the feeling.”
+
+He waited for Stuart to comment, but after a few breaths passed, all he said was, “Come on. If we don’t <<dawdle>> we can probably get in and out of the house without running into too many people.”
+
+“Do I get to meet any of them today?” Alden asked. “Your father maybe? Or I could say hello to Evul-art’h face to face for the first time.”
+
+Look at me. I’m just volunteering to say hello to the Primary. Hi, Mr. Jeneth-art’h. It’s me, Alden. The last time you saw me I was wearing a pair of wings. We held hands and I told you about how I used to stare at one particularly awful corpse…remember? Because I’ll never forget that one.
+
+Bet you didn’t think I’d be wandering around your house as a guest one day.
+
+“I’d love to introduce you to Father,” said Stuart, sounding surprised. “But he’s not home.”
+
+“He’s not?”
+
+“I’m sorry. I would have mentioned that he was gone, but I’m so used to everyone just knowing things about him. For some reason, it didn’t occur to me that you wouldn’t. He’s been away from the Mother for months, and he’ll be away for many more, unless something goes wrong.”
+
+“Oh. All right.” He doesn’t plan to be here for Stuart’s affixation? Or after?
+
+It seemed like the kind of occasion where a person might want their closest family nearby.
+
+“Years ago, he decided to delay a <<long-sought>> goal. A <<campaign>> to re-open the way to a place that was abandoned to chaos not too long before our people discovered yours. He returns to that campaign now.” Stuart started walking again. “If he and the others who’ve gone ahead think it’s still <<feasible>>, more will follow. Esh-erdi and Lind-otta discussed it with him when last they were here. They’ll go in a year or so.”
+
+“It’s a long campaign?”
+
+“Yes. Probably very long. But I know that my father thinks it’s important. I look forward to helping him with it.” He paused, then looked back at Alden. “Not at the vanguard of course. The campaign would have to be extremely long for me to become strong enough to join him there.”
+
+“Of course…” What’s the right thing to say to that? “You can still destroy hundreds of demons from the back?”
+
+“Exactly!”
+
+*******

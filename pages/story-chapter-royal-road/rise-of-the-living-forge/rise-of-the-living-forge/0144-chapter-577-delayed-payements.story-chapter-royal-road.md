@@ -1,0 +1,117 @@
+---
+id: 361a9b9b-152a-5c1f-bb8c-de77b18b9a15
+page-type-slug: story-chapter-royal-road
+title: "Chapter 577: Delayed Payements"
+slug: 0144-chapter-577-delayed-payements
+partOf: rise-of-the-living-forge
+position: 144
+ownLength: 1650
+unit: words
+publishedAt: 2026-03-23
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3184010/chapter-577-delayed-payements"
+royalRoadId: "3184010"
+---
+
+“Who’s Group 4?” Arwin asked, narrowing his eyes and squinting across the VIP area. “How’d he know? Did someone have a powerful appraisal skill? You don’t think that weapon was too strong, do you?”
+
+“Nah,” Lillia said with a shake of her head. “I doubt anyone had a skill that can break through the Mausoleum’s defenses. Besides, the drawback on that thing is way too big. It won’t work if someone has armor or any real defenses. At the end of the day, that thing still cuts like a dagger. It’s a good item… but it’s hardly a significant showing of your hand. Many other weapons you’ve made eclipse it. This is just a good way to show a guild that we’re worth working with. But isn’t Group 4 Bronze Dragon?”
+
+Arwin nodded slowly. “Yeah. I think it is. But that must have been nearly everything they bought from Melissa. They weren’t that rich. It’s a bold move to spend all of that on something kind of shoddy looking. Especially when you don’t even know what it does yet.”
+
+“I’d say boldness is a skill in itself,” Lillia replied with a shrug. “And I’m honestly glad it didn’t go to the Dwarven Council. They’ve bought nearly everything else. I don’t want them to get every single thing we’ve put up, purely on principle. We might be getting painfully rich from this, but still.”
+
+Arwin grunted. “Yeah. Me too. I mean, Madiv did a good job. He talked it down a bit to try and give someone else a chance, but it looks like Neil just beat him to it. It worked out in the end. But don’t get too carried away with getting rich. We’re going to have to spend a lot of this on equipping ourselves and building up the street.”
+
+Lillia rolled her eyes and flicked him in the arm. “Enjoy the moment, Arwin. You’re probably richer now than you were as the hero.”
+
+“I was richer the day I met you as you truly are than I ever was as the hero.”
+
+There was a startled cough as Lillia choked on her pastry. She doubled over, wheezing for air for a moment before abruptly turning her head to stare at Arwin.
+
+“Gods, Arwin. Warn me before you pull out something like that. I wasn’t expecting that at all. Godspit. I think you almost killed me. Have you been saving that one up?”
+
+“You know it,” Arwin replied with a grin. “I take it this one was a good one?”
+
+“It was acceptable,” Lillia replied, coughing into her fist one last time as she shifted to hide the red in her cheeks. Then she blew out a small huff. “Okay. Yeah. It was good.”
+
+“If it helps, I don’t think I was ever really rich at all as the Hero. If you can’t use your own money, are you really rich?”
+
+“Fair point,” Lillia said. “I guess you had less control over some things than even I did. But that’s not going to be a problem anymore. Even with all the money we’ll have to invest into building up the Menagerie’s street, you’ll have quite a bit to play around with. Are you even going to be able to use up all the materials we’re getting from this auction?”
+
+“No clue,” Arwin admitted. “But it’ll be a good problem to have. I might need to upgrade the Infernal Armory. It’s going to have to start doing a little more than just backing me up. But that’s something to worry about after we wrap this up. We still need to make sure the rest of the auction goes without a hitch.”
+
+***
+
+“So?” Reya asked.
+
+Neil nearly tripped over his own feet in his haste to spin toward the sound of her voice. He stopped himself an inch before he accidentally knocked his tray of pastries to the ground.
+
+“Shit!” Neil snapped. “You did it again!”
+
+“And you weren’t ready this time,” Reya drawled with a wry grin. “Good. I was a little worried that I was losing my touch. I see you followed my advice. Honestly, I’m a bit surprised at that. People have told me I’m not really trustworthy. I can’t imagine why.”
+
+Neil just shook his head. His heart was still pounding so hard from the baffling dagger he held clutched in his hands that it felt like he was liable to keel over from a heart attack at any moment.
+
+“Why’d you tell me?” Neil swallowed, then glanced down at the dagger again. “This is worth more than what I paid for it. A lot more. If I hadn’t looked like such a moron yelling a high price out early, it could have gone for a better price.”
+
+“Yeah. Probably. You guys are kinda poor.” Reya waggled a hand in the air. “Relatively speaking. You know how it is.”
+
+Neil’s eyes narrowed. “You’re a street rat, and you’re calling me poor?”
+
+“Me?” Reya’s eyes widened, aghast. “How could you — damn. How’d you know?”
+
+Neil just stared at her. “You’re kidding, right? That isn’t a serious question? Do you really think we can shake our roots off so easily? The constant glances around. The way you position your back to the wall so you can slip away with that magical ghost-ability you’ve got. And that’s not to mention the drawl. You speak like a sailor trying to avoid swearing in front of his mistress.”
+
+Reya’s nose scrunched. “Damn. I thought I was putting on a really good front. Okay. I might not be rich. But that still holds true. Bronze Dragon are cool, but you’re not known to be in good straits. You guys spend all your money on access to dungeons and gear. You’re close to broke, as far as large guilds go.”
+
+“Guilty,” Neil admitted. “Which begs my question even further. Why did you tell me? Did your guild put you up to this? Because while I appreciate the favor, I can’t promise my guild leader will repay it in kind. There was no formal—”
+
+“It wasn’t Ifrit,” Reya said. “It was me.”
+
+Neil blinked. That, if anything, only confused him even further.
+
+“Why?”
+
+“Because I wanted to. Because the other VIPs are kind of assholes. Particularly the lot over there.” Reya jerked her chin in the direction Group 5’s VIP section. “They didn’t deserve a weapon like that. Ifrit will be happier that it landed with you anyway. We were hoping someone actually worthwhile would get it. I judged you worthy. So all’s well that ended well.”
+
+Neil looked down to the dagger, then back up at Reya.
+
+A snort escaped him before he could stop it.
+
+“What are you, a Sphynx?”
+
+Reya grinned. “Maybe. I bet I could be a pretty good one.”
+
+Neil just shook his head. He wrapped the dagger in a heavy piece of oilcloth and slipped it into his bag. Then he met Reya’s gaze once more.
+
+“Thank you. That’s really all I can offer. But I won’t forget this.” Neil pressed his fist to his heart. “I don’t know what your reasoning was, but I owe you. I went out on a limb to my Guild Leader to get funding for this auction. If it went south… well, things would have gone very badly for me. So even if Bronze Dragon doesn’t owe the Menagerie any extra favors, I owe you one. If there’s anything you ever need, tell me.”
+
+“Sure. I’ll send a bird or something.”
+
+Neil rolled his eyes. He reached back into his bag and pulled out a small white ring before tossing it to Reya.
+
+She snatched it out of the air, then tilted her head slightly to the side as she examined it with a slightly confused expression.
+
+“What is this?” Reya asked.
+
+“A correspondence ring,” Neil replied. “It’s bound to my Soulstone. That one will only work once, but if you need to send a quick message to me and ask for something, it’ll do the trick.”
+
+“Ah. That makes a lot more sense.” Reya grinned, then slipped the ring into her pocket. “Thanks. I thought it was a proposition or something. I have to say, throwing a ring at a lady usually isn’t the best way to win her over. Might I suggest gold or fancy weapons?”
+
+“You’re half my age,” Neil said dryly. “I’m not trying to win over children. But I’ll keep the advice in mind for the future. For the gold — do I just get a bar of it and lob it at the lady in question’s head? ”
+
+Reya let out a snort of laughter. “Yeah. That should do. She’s not worth the effort if she doesn’t dodge in time. Best of luck, Neil. I’m glad you listened to me. Now you should probably finish up those pastries and get moving before the Auction wraps up. I’m pretty sure you’re legitimately dead broke, and I’d suggest putting distance between yourself and Milten before the rest of the auction is up.”
+
+Neil rose to his feet. He wasn’t one to take warnings like that lightly. “You think there will be another attack?”
+
+“You kidding?” Reya arched an eyebrow “I know there will be. Nobody’s going to let all the fancy shit up for sale out of here without at least one last shot at it. And unlike all the other rich folk here, you don’t have a guard.”
+
+“Noted,” Neil said. “You happen to have a secret way out of here?”
+
+Reya grinned. “For a price.”
+
+Neil’s eyes narrowed. Then his lips twitched.
+
+“Do you take delayed payments?”
+
+“Gladly.” Reya’s grin grew wider still. “Come with me. I’ll introduce you to Olive. She’ll get you out of here before anyone with half a brain realizes there were no joke items in our auction and that your dagger couldn’t possibly be as shitty as it seemed.”

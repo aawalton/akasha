@@ -1,0 +1,373 @@
+---
+id: 04a0b6bf-21eb-510f-b044-88cca4255a40
+page-type-slug: story-chapter-royal-road
+title: "Chapter 83: Green Hell"
+slug: 0002-chapter-83-green-hell
+partOf: the-calamitous-bob-stubbed
+position: 2
+ownLength: 5394
+unit: words
+ownProgress: 5394
+publishedAt: 2022-08-05
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/964111/chapter-83-green-hell"
+royalRoadId: "964111"
+markedReadAt: "2026-06-29T21:14:42.748Z"
+---
+
+The army waited nervously for an assault that never came. Talan spent a good fifteen minutes scrutinizing the underbrush, identifying every twig in front of him until his brain was about to burst. Nothing emerged from the edge of the trees except for the odd insect and fluttering birds. Eteia herself led a short patrol around and confirmed that it was, indeed, only a parting shot. An act of spite, no doubt. The men joked about the witch being only able to achieve so much but Talan did not laugh. She was no mere witch, but a Lost Heiress. A unique path for an outlander. Even Eteia, who was on her fourth step, had been concerned about her power over black mana.
+
+He had felt it as well. Magic was with that woman, coiling amorously around her though she did not pay it any mind.
+
+Finally, everyone packed the camp and Talan felt compelled to remind everyone that he had seen things. Bishop Ereon had not forgotten, but there was a protocol to follow and a junior questor had no say at a prince’s council. As soon as he was finished, however, he was dragged to the royal wagon where he found the rest of the elites deep in council.
+
+“I will remain ready at all times to prevent another incident from occurring. There is no alternative,” Eteia declared.
+
+“We have siege experts. They are hybrid casters but there are four of them, can they not take care of defending the convoy?” the prince asked, concern for Goodmother Eteia obvious on his handsome face.
+
+The war mage shook her head.
+
+“If we were static maybe, and that is a strong maybe, but we are moving and brown mana specialists are the slowest. They cannot contend with her. Black mana has unmatched penetrating power. It has to be me.”
+
+“Then the champion will come with you to cover you from arrows, just in case.”
+
+“That would be appreciated, Your Highness.”
+
+The prince turned from his seat at the table and invited both newcomers to sit with a casual gesture. Talan felt flattered and buoyed to be in such hallowed company. He bowed smartly while the Bishop relayed his findings. The prince received the news with concern but no overall panic. Talan wished he could share in the man’s confidence. He had felt the entity Solfis’ mind and… there was no way to express what was in there.
+
+“We already knew that the witch was dangerous so it does not change anything. The presence of a dragon is more troubling. Fortunately, the beasts are extremely hardy. It is always much easier to chase off a dragon than accidentally kill it, so our archers will be free to pepper it with arrows.”
+
+“Will Goodmother Eteia’s help be needed as well?” the bishop asked.
+
+“No,” the woman replied, “the beast is too young to cast spells, of this I am sure. Dragons are highly resistant to magic. My efforts would be better spent elsewhere.”
+
+“As for the golem, reports of such constructs fill the historical archives, but they speak of metal statues as tall as four men. My best guess is that she transferred the consciousness of one into a necromantic construct.”
+
+“This would be highly heretical,” the bishop observed.
+
+“Would someone like her stop at such trifles? She would certainly stoop so low if it gave her an advantage.”
+
+“You must be right.”
+
+“In any case, dragonbone is also highly resistant to spells so the champion will be in charge of stopping it. Do you agree, sire?”
+
+“It will be done, Your Highness. Bones are brittle when they are dead.”
+
+Talan wished he shared their optimism, but he refrained from commenting. Even if they didn’t manage to kill the witch’s followers, it was enough to take Kazar and subdue the population. Unsupported elites could not achieve much when isolated. They were systematically hunted, flushed out, and killed. Talan was probably worrying for nothing, but it did not stop that sense of dread creeping up his spine like vines up the innumerable trees around.
+
+The short council ended with no conclusion drawn besides ‘it is probably nothing’, which bothered the questor on a deeper level. The truth was that they had no tools to adapt to unexpected circumstances, and this was one such situation. He just had to do his best.
+
+The army walked on with Talan and his squad placed at the front, on account of his inspection skill. He praised Maranor for her teaching that hard work was often rewarded in unexpected ways, such as not eating the dust from eight hundred soldiers. He and his men strutted happily for fifteen minutes with the sun at the back and the pleasant smell of trees not yet marred by old sweat until he found the first obstacle.
+
+There in the middle of the way, the earth was having a nightmare.
+
+That was the only way he could find to qualify those horrific walls of twisted geometry, spirals, and grasping limbs.
+
+“What in the name of Enttiku is that thing?'' one of the soldiers asked.
+
+[Eldritch wall, earth raised by aspected black mana, an extremely rare spell use. Variable durability. Soaked with black mana.]
+
+“It does not appear dangerous,” Talan admitted to Bishop Ereon once the man came to inquire. The older soldier grunted some surprisingly strong expletives.
+
+“If it’s not dangerous then I’ll check it out myself!”
+
+“No, allow me!” Talan begged. Fortunately, neither of them had to do anything because the Bridgers had siege experts. The four hybrid brown casters gathered and crumbled the strange walls at a slow pace.
+
+“Those constructs are still saturated with black mana,” one of them said. “It takes a while to overcome it.”
+
+Talan wondered how long it had taken the witch, because it was obviously her, to make those. He hoped it had taken hours because it certainly wasted their time.
+
+“Perhaps this is why she destroyed the water cistern. She hopes that we will run out of water,” he hypothesized.
+
+“Stupid of her. Everyone can create some water with a bit of practice and the forest always has moisture to draw. The men will be thirsty, but there is no way for us to suffer too much before we arrive at the lake,” Ereon replied.
+
+Talan nodded. She was an outlander. Perhaps her knowledge of magic was still incomplete.
+
+“Those delays are still annoying. Ah, it looks like they are done.”
+
+One of the earth casters levelled the farthest earth until all that remained of the witch’s work was irregular earth. He walked confidently back to their line, then collapsed forward. His left foot disappeared into a hole, Talan could see. There was a dreadful snap and the man howled.
+
+Talan rushed forward, but not as fast as Ereon. The wounded man snapped his fingers and the hole widened, revealing a simple trap lined with sharpened, downward facing stakes. Blood immediately poured from the wound in great gushes.
+
+“Ah, you idiot,” Ereon roared. He kneeled by the wounded man and prayed. A reddish glow soon surrounded his form and the wounds closed. The earth caster sighed in relief as the torrent of blood turned to trickle, then stopped.
+
+“Thank you.”
+
+“You must not remove the stakes or you might bleed out,” the bishop scolded.
+
+“Yeah easy to say it wasn’t your leg in that thing.”
+
+“I’ve had plenty of sharp things in my body, boy, and I didn’t drain the healer’s mana because I couldn’t wait to get them out.”
+
+“Sorry sir,” the man replied, chastised.
+
+The army resumed its slow march and arrived at the next patch of strange earth not twenty minutes later. Talan volunteered to search for traps and found none, and neither did his squad. He also volunteered to flatten the strange earth, which he did without issue. By that time, it was already halfway to noon and the men were growing impatient.
+
+“Better safe than skewered,” he moaned, but it didn’t look like the backline shared his common sense.
+
+It soon turned out that a large amount of the path was covered in those strange constructs. The army took to just ignoring them after the third patch. Immediately after that, the first howls of pain sounded from the back. It turned out that the entire path was rife with surprisingly-well hidden traps.
+
+“There is only one road. It makes it easy for them to use this kind of tactics,” Ereon said.
+
+“A coward’s tool!” Talan fumed. “Isn’t Neriad supposed to be about righteous combat? Why would he favor them?”
+
+“Yes, well, he is quite stern when it comes to causes yet much more lax when it comes to methods.”
+
+“Tch.”
+
+The morning went on. Talan made some real effort to watch his steps. He even found one by sheer repetition of his skill. Unfortunately, he had to look directly at it and the traps were quite small, so he could not use it systematically. The construct was so well-made and hidden that he suspected that a high-level skill was involved. Nevertheless, Taran did not give up. He never gave up. He would do what he could, as always, this time by focusing in front of him. Most shared this method and that was why they missed the tree traps.
+
+Because the road was narrow and to move four persons abreast turned the army into a vulnerable snake, many soldiers walked among the small trees at the edge of the road, weaving between small trunks and rotting stumps left from previous deforestation efforts. Somehow, invisible wires escaped the eyes of even the keenest of them until the first of the pots exploded against shields raised in haste.
+
+“It smells like… sap?” Talan wondered as he lifted his left vambrace. None of his skin had been exposed and Ormin, who had been hit full on, seemed to be alright.
+
+“I mean it’s sticky and itchy but I don’t feel any pain.”
+
+Unfortunately, they could not wash themselves so the front of the column soon took on a glistening appearance. The powerful perfume of sap soon overwhelmed that of sweat as regular cries of pain interrupted the procession. Ereon and the healers were running left and right, bringing assistance to every wounded. They had not lost anyone since the spell earlier that day, thank Maranor. It still felt bad.
+
+“Can the Kazarans do ought but children’s tricks?” Corporal Regor complained.
+
+Talan thought that he was happy with children’s tricks.
+
+They stopped at noon for a very short break. The questor was already regretting the lack of water, which was being rationed. The woods could be suffocating with the added tension. A shiver ran through the length of the expedition as they stood back from where they had plopped down. Orders fused.
+
+“You will not go out of formation to satisfy natural needs with less than five men.”
+
+“I don’t need that many people to hold my dick,” one of the soldiers claimed, but the sergeant trotting up the line was unamused.
+
+“You will if you want to stay alive. Sedrin didn’t come back and he’s not the only one.”
+
+“Ah, shit.”
+
+This put a damper on the already plummeting mood. The problem wasn’t just the disappearances, the stench and so on. The problem was that they were on the second day of a ten days trip. At this speed at least.
+
+Talan wasn’t sure that they could do ten days of this.
+
+Every new blossom of changed earth made him pray that it would be the last, but they were always there, lined up with the promise of more traps, more prepared ground. The witch and her flunkies must have spent fucking months turning this entire road into a gauntlet. And they were following it like obedient dogs. It frustrated him but he grit his teeth. The men were looking up to him.
+
+More legs got skewered, more sap covered the armor of the men. Someone walked around a very large tree to take a dump and just… disappeared. Not ten paces away from the edge of the forest. And all that happened in silence. No war cries, no great charges. Just bird songs and the creaks of old wood. It made no sense.
+
+It was almost a relief when they were attacked by a large bird monster. The creature attempted to pick on their backline, but its dive attack ended in a cone of fiery red. Eteia had taken no chance.
+
+“Is monster fowl tasty?” A man asked with a laugh. “Guess we’ll find out!”
+
+They arrived at the next designated campsite as the sun was dipping below the horizon. Talan inspected every square meter of empty ground and they did find a spell construct, which Eteia promptly dispelled. The witch looked down on them, it seemed.
+
+The questor volunteered for night duty but he was denied.
+
+“We will need you well-rested every time we move on. Let those with vigilance hold the line,” Bishop Ereon told him.
+
+Talan thanked the veteran fighter for that nugget of wisdom. No man was able to do everything. That was why order was so important, so that those with the proper ability be used in the best role. He went to sleep with his heart at ease. He was not alone, and never would be.
+
+The entire outer ring of sentries disappeared that night. It happened in a single sweep at the darkest of times. Some skills had to be involved.
+
+Talan breathed in the morning air, bemoaning to himself that the pleasant smell of spring was being overwhelmed by rancid sweat and syrupy sap. There was not enough water to clean oneself. All they could conjure was dedicated to themselves and the wounded.
+
+He and his squad ate a quick breakfast. Thankfully, everyone had recovered enough mana to drink their fill, for now. The night disappearances had certainly impacted the morale, however, and he found himself listening to Corporal Regor’s scolding.
+
+“This is war. Did you just expect the Kazarans to lay down belly up waiting for the slave collars? They know that when we reach the walls, it’s all over for them, so they face us here where they have the advantage. It’s a contest of will. Either we break and fall back, or we don’t. I expected more from people who fought in Regnos. What were you thinking? That this was a holiday?”
+
+The men grumbled, and yet the tongue lashing reminded them of their duties. Talan took the lesson to heart while he fastened his armor. He stretched a bit to make sure everything was where it was supposed to be, and his left vambrace fell down. Ormin started swearing from the next tent.
+
+“What the fuck?”
+
+Talan checked the piece and realized that the strap had been completely eaten through.
+
+“It’s the sap,” he realized as he walked out. Ormin was roaring in anger. Not only was his armor reduced to metal components, but even his sleeping bag was showing expanding holes as well.
+
+“What manner of warfare is that?” he grumbled to himself.
+
+Many soldiers were sharing the same problem. Leather had never been in large supply in the army, not with how durable it was. There was no way to repair all the armor, but Talan would be damned if he let Ormin go to battle in his underpants. He grabbed his cloak and tore a band from it.
+
+“Help me out. Everyone, help out!”
+
+It was shoddy work. The softer cloth didn’t fit well in the buckles and they tended to slip, but Talan would be damned if he let soldiers go to war unprepared.
+
+“That will melt as well. Even faster than the leather,” a man said.
+
+“Then we will use our spares and when we run out, we will use the tents. They don’t have an unlimited supply of sap either,” Talan replied with more aggression than necessary. The men were galvanized by his outburst and the most nimble helped with sewing things on.
+
+“Thanks, everyone,” Ormin said. “I don’t know how to repay you.”
+
+“It’s fine lad, I’ll take comfort in the fact that the cloth on your chin cradled my ass just last week.”
+
+Poor Ormin turned red under the subsequent jeers. It was with determination, but slightly unfitting armor, that the men departed.
+
+***
+
+The very same morning.
+
+Viv took a sip of tea and breathed out when the decoction warmed her belly, finally allowing her to relax. It was a special brew against menstrual cramps that Solfis had conjured up from somewhere. Sometimes, fate had a strange sense of humor.
+
+She looked out towards the empty road. In a few days, it would be crawling with soldiers. From inside the cave, the woods were a peaceful expanse undulating under a light wind and pleasant sun. From inside the cave, there were no monsters. Only an adorable dragonette with a gold obsession. She finished her tea and leaned forward.
+
+Bones clicked on the stone floor behind her.
+
+//The Yries are expressing their concerns.
+
+//The redleaf sap has not activated yet.
+
+Excited hoots erupted from the main cavern behind her. It had come as a surprise when the owl-like humanoids had joined the fight, especially considering how isolationist they were. She should not have discounted the most obvious motive.
+
+Vengeance.
+
+They deeply hated the prince for sending them into exile and had absolutely no intention of losing their second home.
+
+“We have to force it before they reach the lake. I will provide cover.”
+
+//Understood, Your Grace.
+
+It was time for her to get to work.
+
+***
+
+The column trudged under heavy boughs laden with flowers and dew. Oppressive, stuffy, the warm humidity clung to the skin, dripped down brows and dampened clothes. Worse, it did not clean the sticky sap that even now still clung stubbornly to the annoyed soldier. The pale yellow substance had turned into an adhering, irritating gel. Talan blinked and forced his hand away from his left arm lest he peeled off sap and skin like an onion layer, with his nails if necessary.
+
+They just had to last until the lake.
+
+At the lake, he could scrub himself clean with a bar of soap.
+
+Talan’s feet faltered when he spotted a white cloth in the distance. He raised his fist and the company stopped, grumbling echoing along the line. Corporals and sergeants ran up and down for what felt like the hundredth time, haranguing the men to maintain discipline. This should not have happened. Prince Lancer’s troops were the cream of the crop of Enoria, not some ruffians. The questor passed a tired hand over his face and cursed. What was it this time?
+
+[Flag of purity of Neriad.]
+
+Didn’t look so bad.
+
+He moved up with Bishop Ereon by his side. The pair walked with their shields raised and their weapons drawn. If the witch attacked, the Bishop would perhaps have the power to repel a single hex. It would have to be enough.
+
+For a second, Talan thought that the soldiers were sleeping. Someone had lined them up in neat rows with their eyes closed and their hands on their chests, but sleeping people moved and had blood moving under their skins. The men here were dead. Someone had simply sewn the severed heads back on and the banner of the god of righteous combat had kept the bodies free of corruption. They had found their lost fighters. All thirty-seven of them.
+
+It was a lot of bodies to look at for two days of travel.
+
+On the tall trees behind the small clearing, someone had painted an accusation in crimson letters. It read:
+
+GREED
+
+“We have to bury them. The men can’t see that,” Ereon said.
+
+“Do we take down the trees as well?” Talan asked with more bitterness than he meant.
+
+“Yes,” the older man said, not unkindly. “Yes, we do.”
+
+***
+
+It took an hour to clear everything. The men were buried in deep graves dug by the earth casters, with a monument risen through magical means bearing their names. All men were requested to salute in passing, and rumors spread around that they had been found decapitated with their heads in handbaskets, the Hallurian way.
+
+“I heard Lessik from C company claim that they were revenants the servants of Maranor had to put down!”
+
+It bothered Talan that no announcement was made to undo those rumors. Instead, the council let them fester into a deep resentment that seeped through the cracks of damaged armor, giving the men a powerful drive. It was stupid. Wasteful. And it set a dangerous precedent. No cruelty would be averted when dealing with desecrators, almost…
+
+The memory of the witch returned. Was she witch or heiress? It felt strange giving her a title, as if she were more than just a wild caster risen on a tide of chaos. Like it was… deliberate. As deliberate as throwing corpses in the desert to rise as revenants.
+
+The idea wormed its way through Talan’s mind as the expedition walked on, his men unaware of the turmoil in his heart. He knew that he would see the expedition through, but he questioned the rationale behind some of the decisions the prince was making. Perhaps this was the price of power. Perhaps one could not unite Enoria with clean hands. He was just the son of a woodworker. What did he know?
+
+He knew that desecration and lies were wrong.
+
+Talan shook his hand and cursed when another pot of sap burst behind him, renewing the heavy scent hanging over the convoy. For fuck sake they were already wearing rags, what more did she want from them?
+
+Another pot crashed nearby. They had reached a rougher ground, with small hills popping up here and there. It was a sign that they were approaching the heart of the woods.
+
+He almost missed the change, but even his saturated nose could not miss the difference. It smelled like… honey?
+
+Talan watched, mesmerized, as a soldier removed a shard from his biceps. There was movement. far to the right. A tree toppled on top of a hill. Something very large was moving back. He latched on the object before it could retreat past the edge of the slope.
+
+[Yries self-propelled ballista. War machine. Very precise. Mana-fuelled frame. Heavy…]
+
+What.
+
+The.
+
+Fuck?
+
+Before he could react, the thing had disappeared. A powerful artillery spell arced overhead, coming from the command wagon. A much smaller, faster one caught it close to the ground and forced it to explode. The detonation leveled several trees while flaming pieces of mana constructs rained down, starting small fires. A massive black mana shield blocked one of the largest blocks.
+
+The casters were dueling. The sight of such power wielded by human minds never ceased to amaze him.
+
+But then… why did they send a pot?
+
+“I don’t like it at all. Everyone, get ready. Shields up,” he said. His order was repeated by his corporal and soon, the front squads were in formation. Just to be careful.
+
+Something was coming. A low buzz announced its presence, haunting the edge of the trees. There was nothing there. Still nothing. There was something, a red insect darting straight at them.
+
+[Fire wasp]
+
+“Oh SHIT! GET DOWN!”
+
+Talan had no need to warn anyone because the rest of the hives flew out from the trees and the first aggressive insects were already zipping in people’s faces with their stingers exposed. Talan crouched.
+
+A massive fire spell scorched the edge of the trees, obliterating entire thickets. The hives that were caught turned to ash.
+
+The flames spread unnaturally among the rest of the swarm, turning the wasps into suicidal, malicious embers. They fell on the assembled soldiers. Three of them hit him.
+
+Talan saw, distinctly saw, the sap ignite on his left vambrace. An amber tongue spread like burning alcohol on a wooden table.
+
+Then the entire vanguard went up in flames with screams of abject terror and a deafening ‘woosh’. Soldiers threw themselves on the ground, devoured by an inferno that could not stop, that would not stop. It clung to them like a second skin. Ormin clawed at his eyes and rolled on the ground. The ghastly dance of human torches spread across the line like the wildfire it was, catching more soldiers with every stream of volatile sap. Howls of agony spread in a chorus, covering panicked orders in a dreadful cacophony of fear and suffering. Talan gave up on anything but the searing pain eating at the flesh from his arm. He dropped and used his weight to cover the vambrace. The flames guttered out as he struggled to take the damn things off. Embers danced in the air while the heat suffocated him. In the background, blackened bodies wriggled on a scorched ground. Hell had come to Param.
+
+Talan unclasped the piece of armor just as it reignited and jumped on Ormin immediately. The questor no longer had a cover and the tents were in one of the carriages. He had nothing, nothing but his nails, so he dug the ground like a beast and threw handfuls of dust at the burning man. It felt like sprinkling water on a house fire.
+
+Soon, heavy hands appeared wielding covers. They smothered the fires from everyone, pushing the victims down. The others had come to help. A spell was cast and all the fires winked out in a second, leaving the stigmas of their work behind. Talan was alive. He was not alone. Every breath smelled of charred meat. He was not alone. He had never heard people screaming that way, not even that man back in that skirmish who had tried to push his intestines back inside, only to realize that there no longer was enough inside for it to matter. Talan could not smell. Talan could not hear. Talan could not see. He only had his prayers.
+
+“Hey kid. Kid.”
+
+Bishop Ereon’s dark eyes caught his attention. The man was a rock. The familiar grip on his shoulder grounded Talan despite the horrors he had witnessed. All around, men were in full formation and looking out at the forest beyond the ravaged ribbon of ashy trunks.
+
+“I’m sorry kid but I need you to help with the wounded. Come on.”
+
+Talan let Ereon drag him to an improvised infirmary. It was more like rows of men on the ground, moaning.
+
+They had no water.
+
+The questor spent hours repairing lungs and closing sores, watching the blackened skin around reddish muscle tissue form scars just so it could stop weeping transparent liquid. He worked until his eyes drooped and his thoughts fragmented. There was only the wait for a trickle of mana to return so he could call upon his goddess to save one more man. She always answered.
+
+They didn’t let him see Ormin. He died later that afternoon.
+
+Funny thing was, Talan may have killed him by securing his armor. The steel protection had turned into a portable furnace.
+
+The irony made him sick.
+
+The attack the prince anticipated never came. The witch had brought fire and left, unwilling to make use of the confusion. Talan knew what it meant. It meant that she wasn’t done with them. It meant that she would get them in an even worse state before sending her ragged band of fanatics and mountain tribes soldiers to finish the job. The Enorian army spent an hour staring at trees once again, under the mocking tweets of songbirds and nobody showed up to answer their challenge. It was all a massive fucking joke.
+
+They ran to the campgrounds that night, charging through those black mana walls without hesitation. There could no longer be any delays. The lake, or pond, had to be reached the next day or they would lose even more people. Even now, more and more wounded were covered in shrouds. He couldn’t take it.
+
+That night, they camped on a hill. Eteia torched the ground in every direction for a hundred paces using and reusing the fire she had wrought. They could see very far. A troupe of enterprising archers built a guard post and manned it with the promise that nothing would sneak up on them this time. Talan woke up at dawn bleary and exhausted. The tower was gone, top sheared off, edges polished by destructive black mana. Congealed blood marked where the spell had hit the men. He didn’t know when it had happened. He didn’t care. His throat was parched. His voice was raspy. A headache hounded him on every step of every task, flaring every time someone screamed. He just wanted everything to fucking stop.
+
+They walked fast again. The only good thing was that the sap traps stopped mid-morning and the victims were sent to the back anyway, just in case. The survivors of Talan’s usual squad stayed behind to rest but he was front, always front. He would not shirk his duties.
+
+Behind him, men kept walking into those stupid traps. Even those with high finesse failed to dodge, somehow. It was a messed up skill. What kind of path led to that? Nothing good, to be sure.
+
+The forest grew deeper the farther they went. The trees grew into towering giants spreading their leafy limbs over the trespassers, offering shade but also danger. Things both scaled and feathered crawled or flew along their mossy bark. The oppressive silence quieted even the wounded. That, or there were fewer of them. He didn’t know.
+
+Talan shed a tear when they reached the lake. The sapphire water lured him with the siren song of a slaked thirst, but the prince expected trouble. Eteia went first and disarmed a circle construct, then men prodded the ground along a corridor, finding more ankle snappers. Talan dreamt of having the witch in front of him. He would grab her skull with both hands and push his thumbs into those cruel green eyes inch by inch until they popped. He watched squads of men spread along the treeline under Eteia’s vigilant glare. The first squads of soldiers were given the go ahead to drink while nurses brought buckets to fill with water. Talan was at the back of the first group, but he knew his duty. He helped the nurses first.
+
+“Well done questor,” a sergeant said. “Now let me help while you get your…”
+
+His offer of assistance got interrupted by a hiccup, then another. The comical sight stopped Talan in his tracks.
+
+“Sergeant? Did you drink too fast?” He asked with a half grin.
+
+But the man was not laughing. His eyes bulged, his face paled. He vomited a red torrent on Talan’s pitted breastplate.
+
+The questor watched his crimson-coated hand in disbelief.
+
+She had poisoned the lake?
+
+The entire fucking lake?
+
+ALL OF IT?
+
+Around him, nurses dumped their buckets to help the sick. Apothecaries rushed ahead to offer antidotes to those who had survived. A bald man with a kind expression and a hawkish nose grabbed his shoulder. Lots of people were grabbing his shoulder these days.
+
+“Did you drink anything?”
+
+“No.”
+
+“Alright. I’ll help cleanse the water but for now, I need you to help. Go check for traps near that campfire site while I carry this guy. Go!”
+
+Talan poked the ground with his sword with desperate speed. It all looked like grass to his exhausted eyes. He was so thirsty. So thirsty, he was almost tempted to drink anyway. The nightmare would end then. His eyes widened when his next poke depressed a solid square, and he fell back in fear after hearing a crack. This time, nothing exploded.
+
+An extremely pungent smell assaulted his nostrils, however. The cloying stench was only slightly unpleasant, but its potency left him on the verge of retching.
+
+“What’s this? More poison?” the apothecary asked with a hand on a green vial. Talan breathed deeply to calm his thundering heart, waiting for pain to come. Waiting. Waiting.
+
+Nothing happened. It still smelled strongly but he was no worse for wear, at least for now. He turned to the potion maker to voice it but his gaze caught fluttering white forms moving through the canopy, far in the distance. They were familiar, but the scale was wrong.
+
+“Are those… butterflies?”

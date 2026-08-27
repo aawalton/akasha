@@ -1,0 +1,165 @@
+---
+id: 532422ae-fea3-5e39-9549-e5d5ff042f16
+page-type-slug: story-chapter-royal-road
+title: "Chapter 605: Hot Potato"
+slug: 0026-chapter-605-hot-potato
+partOf: system-change-system-universe
+position: 26
+ownLength: 2262
+unit: words
+ownProgress: 2262
+publishedAt: 2025-11-21
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2778930/chapter-605-hot-potato"
+royalRoadId: "2778930"
+markedReadAt: "2026-06-29T19:57:34.845Z"
+---
+
+Chapter 605: Hot Potato
+
+Derek blinked, and the next thing he knew, he was standing on the top of the outer Virendell wall. Beside him, Ryven and Ashley both waited. Derek looked around to see if Marrick was back yet, but it appeared that whatever the systems did to drag everyone to the reward area didn’t stop or slow time like what happened when Dave kidnapped him and Silvi after a teleportation out of a dungeon.
+
+Actually, now that I think about it, how exactly are the two of us going to speak? He’s always yoked me up as I was leaving a dungeon. Can he do that now that I can’t even enter a dungeon? Derek couldn’t help but wonder. Eh… I’m sure he’ll find a way. He knows way more about all of this than I do.
+
+“Derek?” Ryven cautiously broke Derek out of his thoughts.
+
+“Yeah?” Derek replied.
+
+“Were you rewarded well?” Ryven asked. It looked like the man couldn’t hold himself back from asking.
+
+“I did,” Derek replied. “What about the two of you? Major contributions and all that.”
+
+The two looked at each other and then smiled widely.
+
+“Well, we both got the small amount of Free Stat Points that it seems like everyone who participated at all on our side got,” Ashley said. “It’s only fifty stat points, but that is a lot for many people—especially those who have been stagnant with their stats for a long time.”
+
+“True,” Derek said with a nod. “What else? Sereph said you both got two major rewards, right?”
+
+“We did,” Ashley replied. “For me, I chose a new skill and a two hundred stat point lump sum. I was offered the same Defender Achievement that all the Guardians walked away with, but it wasn’t something that would be immediately helpful to me. I do have what resistance skills I have been able to get my hands on, but with light-based skills and abilities, defense is and never will be my strong suit. Now, if it worked on evasion skills, that would have been a different story.”
+
+“I see,” Derek said. “So you chose a skill and stat points. Did they offer anything else?”
+
+“Yes, of course,” Ashley replied. “There were multiple skills available to choose from, along with the stat points and Achievement. There were two items I could have chosen, too. There was a sword and a robe—both of legendary quality. I figured that those were things I could eventually get if I wanted. In fact, Ryven here was just telling me about how there is a blacksmith who created legendary weapons for many of the Guardians on the other side of the sea.”
+
+“There is,” Derek said. “I’m sure he won’t mind helping you out, either. He likes materials—lots and lots of materials. As for armor… that may be a bit trickier. Shaemus… well, it’s not for me to say. Just know that it will soon be impossible to get armor from him. However, I met other smiths in Vallum, and there are definitely more who can craft legendary armor. So, it may be worth it to go to Vallum and check them out.”
+
+“I will have to do that,” Ashley replied.
+
+“So, Ryven,” Derek turned to the duke. “What about you? Get anything good?”
+
+“Did I?” Ryven asked rhetorically, then snapped his fingers and disappeared.
+
+Derek pushed Void Sense a bit, then reached out and grabbed the elf by his shoulder. “An invisibility skill? You’re going to have to learn to kill your aura if you want to use it well.”
+
+“Most people can’t do that,” Ashley said. “I can see how the light moves around him when I know he’s there and I’m really focusing, but if I’m not looking for it, there’s no way I would be able to see him.”
+
+“Well, it’s good to have a skill like that, anyway,” Derek replied. “How does it work?”
+
+“It’s a barrier skill, if you can believe it,” Ryven said.
+
+“Of course I can believe it,” Derek replied. “That elf said that rewards were tailored to the person receiving them, so it’s only natural that someone who uses barriers would get a barrier skill. How does it work?”
+
+“It’s just an extremely thin, easily shapeable barrier that I can put around myself. It’s like wearing a thin shirt over my entire body. And it moves with me once both sides are connected. I don’t have to do anything but channel some mana into it to maintain it. I don’t need to focus on keeping it up or anything. I can also use it and choose to keep myself visible.”
+
+“That should make it easier to level,” Derek said. “And it will make it so there isn’t some big change in your aura or the atmosphere around you if you suddenly use it to disappear. I would definitely keep it on at all times.”
+
+“That is the plan,” Ryven replied. “And, like Ashley, I was offered an Achievement, multiple more skills, items, and equipment, but, also like Ashley, the stat points were very hard to pass up. There was a box of potions that I almost chose, but the potions didn’t have much in the way of descriptions, and it didn’t look like any of them permanently increased stats.”
+
+“I see,” Derek said. I wonder what kinds of potions were in that ‘box.’ I bet there was some really good stuff. It wouldn’t be weird if there were potions that made it easier to increase affinity. I’m sure there would be other things, too, but that would be the big one. Derek didn’t tell the two of them about that, though. He couldn’t know for sure if the potions would be worth more than the stat points in the long run.
+
+“Oh, and I received an ‘opportunity’ just a couple of minutes before you appeared,” Ryven said.
+
+“What opportunity?” Derek asked.
+
+“To upgrade my epic class to a legendary one and become something called a System Watcher for the Universal System,” Ryven said.
+
+What? Is it just passing the class around until someone accepts it? Derek wondered. “And you declined, right?”
+
+“How did you know?”
+
+“Because you’re still here,” Derek said.
+
+“Yes,” Ryven said. “I declined.”
+
+“I also declined,” Ashley said. “I was offered it right after Ryven declined. That’s what the Darvin person was, right? A System Watcher?”
+
+“It is,” Derek replied. “And since he is dead now, it seems that the Universal System is looking for someone to take his place.” And everyone is passing it around like a hot potato, he thought.
+
+“Why ask those from our side?” Ashley asked.
+
+“Because we won,” Derek said. “It’s giving the winners an ‘opportunity’ to shift systems and take on the new class. Honestly, I don’t know what kind of perks would come from a system change for the two of you… or any of those who are a part of the Davenresh System, but it might be worth considering for some—especially those who are stuck…” Derek frowned and looked long and hard at Ryven. “It could potentially be very rewarding for you, Ryven.”
+
+“Maybe,” Ryven said. “But I have a family here, and it didn’t say anything about allowing me to bring them with me. Besides, my daughter is currently the Queen of Indaria, so she wouldn’t be able to come with me, anyway.”
+
+“That is true,” Derek said. “It might also pit you against me, too. I did, after all, kill the last person who had that job.”
+
+“I wouldn’t want that,” Ryven said.
+
+“No, you wouldn’t,” Ashley agreed, then she looked at Derek and opened her mouth a couple of times but hesitated.
+
+“What is it?” Derek asked.
+
+“Well… about having those weapons and armor created…” she started, “would you mind taking me to the other continent? We currently don’t have any way to travel there from here.”
+
+“Oh, that’s no problem,” Derek said. “I can drop you off over there anytime, but I think it would be better to work on those travel limitations, too.”
+
+“Hey!” a female voice sounded from below—on the outside of the city.
+
+Derek looked down in time to see a figure running at the wall. It then touched the wall, disappeared, reappeared halfway up, disappeared again, then reappeared at the top with Derek and the others.
+
+“You are?” Derek looked at the woman. She was dressed like an assassin, and he’d definitely seen her somewhere. Before she was able to answer him, it clicked. “Oh! You are Vendra? Right?”
+
+“I am,” she replied. Though the woman did not look to be in a good mood. “And you are Derek Hunt. The Ascending Monarch and most valuable Guardian.”
+
+“I am,” Derek answered back.
+
+“You are friends with that Jace?” she asked.
+
+“I know him,” Derek said. “I guess you could call us friends. We were just acquaintances, really. But we have grown closer during this invasion. Why?”
+
+“He killed my sister,” Vendra said.
+
+“Oh,” Derek replied. “That’s right…” He saw the woman clutch a dagger that had been in her hand the entire time. “Do you want to take revenge? On me? Or my friends?” he asked. While doing so, he began channeling the void into his fist. He didn’t know anything about the woman in front of him, but she wasn’t making a good first impression.
+
+The woman looked over Derek’s shoulder at Ashley and Ryven. Her grip on her dagger tightened again.
+
+“Wow,” Derek said. “You really seem like you do.” He bit his lip. He suddenly found a massive drawback to being friends with Jace. The man had made enemies—even there. The problem was that Derek would be leaving soon. He didn’t want to do anything to the woman, but she was making it clear that just associating with Jace was enough to become a target. He could see in her eyes that the only reason she was holding herself back was that she knew there was no way she could beat Derek.
+
+However, would he be able to leave someone like that around? What would happen once he left? She was strong enough to be a Guardian. Would his friends, who weren’t able to go with him, be in danger if he left her there? Derek rubbed his forehead and sighed. He couldn’t just kill her. She was hostile, but she didn’t attack anyone.
+
+“You know,” Ashley spoke up from behind Derek. “Jace is from the other system. So, the best way to get revenge on him would be to go there and take it out on him.” As she spoke, she sent to Derek telepathically, ‘Does Jace have any friends other than you? He doesn’t seem the type.’
+
+‘As far as I know,’ Derek sent back. ‘He is completely alone over there. We technically have a mutual acquaintance, but they aren’t friendly with each other.’
+
+‘Would that person be in trouble if this woman did go there?’
+
+‘I seriously doubt it,’ Derek said. ‘I’m the only link they have to each other. And Jace certainly doesn’t consider her a friend.’
+
+‘Good,’ Ashley sent. Then she said, “There’s an opportunity to go to the other system that has been passed around. We all declined, but with you wanting to find Jace, if it makes it to you, it might be worth taking. It’s also an opportunity to grow stronger… at least, it seems that way.”
+
+“And what opportunity is that?” Vendra asked.
+
+“Just wait a while,” Ashley said. “I think the systems are offering it in some order. If you don’t get chosen in the next half hour or so, then I guess someone else took it.”
+
+Vendra narrowed her eyes. “You’d better be right.”
+
+“She is,” Ryven replied. “I was offered it, too.”
+
+“So was…” Derek was about to say that Marrick was also offered the class but was interrupted. “Speak of the devil,” he said as he watched a figure appear from a bright light.
+
+“Bunny Marrick?” Silvi asked from Derek’s shoulder.
+
+“We’re about to see,” Derek said with a chuckle.
+
+Slowly, the light disappeared, and only the figure remained. Still standing at just over half as tall as Derek and wearing his hooded robe, the old elf looked up at him. With a smile on his face, Marrick reached up and pulled the hood from his head.
+
+There, a full head of silver-white hair sprang forth. The man’s skin was a little smoother, but many of the wrinkles remained. His eyes had a burning fire in them that Derek hadn’t seen from the man before. Finally, the old elf placed his hand on his own back and straightened.
+
+Derek heard his back pop and crack multiple times as Marrick stood straight up for the first time that he’d known him.
+
+“Oh… that feels so good,” Marrick said as he stood as tall as his maybe five-foot-tall figure would allow.
+
+“You… grew some hair and got rid of your back problems?” Derek asked.
+
+Marrick whipped his flowing locks to the side and sighed. “Those were the only two things wrong with me. I’ve looked this way for far longer than I didn’t. This is me… just with my hair back and the ability to straighten my back.” After saying that, Marrick hunched back over—it still seemed like he was more comfortable like that for some reason.
+
+“Whatever you think is best,” Derek said while shaking his head. He really was expecting a ravishingly beautiful elven man. Instead… “If you want to look like an Old Hobgoblin with hair, who am I to judge?”

@@ -1,0 +1,397 @@
+---
+id: 0ef9cad7-4683-5986-b1eb-a924b1ba622c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 198: Kark diplomacy"
+slug: 0122-chapter-198-kark-diplomacy
+partOf: the-calamitous-bob-stubbed
+position: 122
+ownLength: 5661
+unit: words
+ownProgress: 5661
+publishedAt: 2025-03-22
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2143754/chapter-198-kark-diplomacy"
+royalRoadId: "2143754"
+markedReadAt: "2026-06-29T21:19:00.186Z"
+---
+
+The mood was subdued in the council room. The prince of Luten sat on his throne, his face a carefully composed mask of concern. It was difficult not to rejoice at the discomfited Purist faction after the complete disaster of their latest initiative. Like all things that came dearly, it had to be enjoyed for what it was. There would be no more dark blades for a generation, after all.
+
+The fat idiots sat on their chairs as if they were ovens. He reveled in their shame. Oh, they hid it well beneath a thin veneer of outrage but he knew them well. Under the fake anger of patriotism, they were really seething with the loss of their position. For more than two decades, they had ruled the political landscape of the city, and brought it to ruin. Today marked the end of a very, very long era, and although they felt it, they would not relinquish it easily. It didn’t matter. He had them.
+
+It had been a long time coming. The expansion west had ground to a halt. His citizens knew kark land was mostly unfit for cultivation. At best, those unforgiving steppes could be used for grazing if one didn’t mind feeding the death worms. It was a pointless endeavor. It had always been a pointless endeavor. Now, finally, after tens of thousands of deaths and enough silver talents to build a grand palace, the war was over.
+
+“I declare the council in session,” the prince decreed.
+
+He savored the ensuing silence, a bit like that quiet before great music. One of the purists sneered, face contorting in rage for an instant before he regained control. All knew the prince was taking his time, now that he was finally free. Free of them.
+
+But all things, good and bad, must come to an end.
+
+“Noble rulers of Luten, my friends, I fear I have gathered you today to confirm grim tidings. Two days ago, at twilight, kark warriors treacherously ambushed our expedition as it made for their camp. Despite heroic resistance, and after a resolute defense, the combined strength of the savage raiders and the magic of the Black Witch overwhelmed the defenders, destroying the expedition in the process. The survivors hastily broke the envelopment to bring us news that the Red Tribe of the kark, our chief opponents, employed a mercenary band of armored members of their species to spearhead the dastardly assault. It was a hopeless struggle.”
+
+The reference to an overwhelming enemy force would normally support the purist narrative that every tribe was sending constant reinforcements to the Red Tribe, and that every defeat was because the expeditions faced ten-to-one odds and thus would have succeeded were it not for the cities’ lukewarm support. It was no longer working because the city was exhausted. As far as silver linings went, it was a bleak one.
+
+“With the confirmed loss of the dark blades and their relic, I fear that we have no choice but to admit failure. I have recalled all patrols and sent word to the faraway homesteads. We can no longer protect them.”
+
+The ones he’d been against developing since they would be far too exposed.
+
+“Surely, the prince’s troops…” one of the purists began.
+
+Even his allies remained silent while on the other side of the room, the prince’s faction heckled him.
+
+“—leaving the city defenseless!”
+
+“Have we not bled enough for your foolish ambitions?”
+
+“My men will not die for your failures.”
+
+The prince lifted a hand, calming his side. It was all a show, of course. His skills revealed it, and no doubt many other nobles also saw through the masquerade, but those were careful dances meant to convey a message and that message was that the purist faction had fucked up for the last damn time.
+
+“Your Grace,” their leader began after a moment of hesitation, also faked. “While our effort has failed in the face of overwhelming odds, the bravery and sacrifice of so many of our citizens must not be in vain! Their widows and children work the earth we have grabbed with blood-soaked hands. For honor and the reputation of the city, I ask that you do not forsake them in their hour of need. If we will not attack, then surely defending should not be beyond our means!”
+
+The purist league loudly supported the proposal.
+
+The prince used [Window to their Souls] though it was exhausting. His will captured hints of the other’s pure essence, tasting the wispy threads for hints of duplicity. There were only surface lies, which meant no ruse. The purist leader really wanted the city to hold on to the border fortress.
+
+Every time the kark took the upper hand, they attempted to conquer that stronghold. The border fortress was impregnable without siege equipment, however, and all their assaults had ended in bloody disaster. They were sure to try again, only this time, they had the Black Witch. Forget siege equipment. The woman could drill through an avatar. A gate would be a joke to her. The Pure League needed to act if they wanted to save something from the catastrophe.
+
+The prince knew he would agree. The new border nobles had started to support the crown. They had felt the wind shift, and though they had gained their titles on the benevolence and urgency of the expansionists, now they, too, saw that more nobles diluted their own power. They were more than eager to close the door behind them.
+
+War also meant heavier taxes in the form of extraordinary tithes. New nobles had needs of funds to develop their meager estate.
+
+The prince also believed that the border fortress was too valuable to leave behind. it had been built at great cost, and some of the lands ir protected were of the more fertile kind. More than that, it was a symbol. He could not forfeit it.
+
+The prince pretended to consider the question. He had already discussed the matter with his supporters, of course, and they all agreed.
+
+“We will not relinquish Lutenese land without a fight. The Crown shall dispatch a unit of elite archers to protect the walls in addition to the existing garrison. What of you, noble friends?”
+
+Yes, put your fucking purse where your mouth is, you vociferating windbags.
+
+“Our domain shall provide smiths,” one of them offered.
+
+There it went. The prince knew the faction would move its ass to convince him to move his. They couldn’t spare many soldiers anymore, but offers of money and equipment poured in. At least, there was that.
+
+“What of the Great Black Whore?” one of them finally asked. “The traitor to mankind?”
+
+Silence answered. The purist faction nodded to show their support, but it was clear the attempt at rallying the prince would fail. They were being foolish. No nobleman on the continent would believe her an enemy of mankind, not after her efforts to reclaim the deadlands, or her key role in stopping the Nemeti, and purging the beastlings. Those idiots were too stuck in their own collective buttocks to understand that not everyone saw the world as they did. If they were truly cunning, they would have pushed the miscegenation angle. Tell the people she wanted to birth hybrids. Tell them she fucked kark men in great orgies. The simple minded would have loved to be horrified.
+
+He wouldn’t develop their slogans for them, however. The war was ending. They would have to find a new cause to pursue while he tried to hoist his nation out of irrelevancy.
+
+“What of mages?” a new blood lady asked. “Surely, our own casters can do something?”
+
+The prince didn’t need his leadership skill to whisper this was unplanned. It was possibly the first genuinely heartfelt words said in this room in the past couple of years.
+
+“We have a proposal,” his own archmage replied, her voice laden with concern.
+
+The prince had planned to ask her in private, but if she already had a plan, he didn’t mind hearing it now.
+
+“Do tell.”
+
+“After having observed her performance on the battlefield, it is our honest assessment that we cannot stop her.”
+
+That declaration was met with dismay. Luten didn’t have the most powerful magery on Param, but like all major cities, they still had enough to stop monsters.
+
+Not that one, apparently.
+
+“Not in a direct confrontation, in any case. We also have concerns about the way she handled the Dark Blades. We believe she’s brought her pet assassins with her.”
+
+“Hadals…” Someone whispered.
+
+There were a few muttered curses across the room. Hadals were only second to kark when it came to visceral hatred. Nasty things. They should never have been created.
+
+“As such, our plan would be to belay her until her army breaks, all the while conserving our own lives. Our plan revolves around two different measures.”
+
+The prince found himself interested. He knew he couldn’t kill her easily — King Erezak the third, of Baran, had written as much — but perhaps there was a way to neutralize her later as part of a coalition.
+
+The meeting went on with something the prince had been missing terribly: cooperation.
+
+***
+
+Skills! After a long period of stagnation and training, Viv was finally making some progress. The thing was that it had grown increasingly difficult to increase her stats because it was so hard for her to find productive ways to challenge herself. As for skills that didn’t require extraordinary achievements, such as meditative trance, only time and effort would work.
+
+She was an advanced expert in her fields now, and an immortal to boot. Her progress was simply going to be a matter of years, not weeks, and there was nothing she could do. It was fine. She was already pretty strong.
+
+Some of the progress was weird though.
+
+Survival: Intermediate 4
+
+That was one of those general skills she’d gotten as a consequence of special forces training, and that she’d never worked on. And why do it? She was a teleporting sovereign, not a wild woman like Poacher. The skill was of no use to her, so she’d neglected it because of a lack of time. She suspected that meeting so many people and seeing how they lived meant she had better chances of knowing what to do if she were, for example, stranded in the steppes now. Or in Halluria. It also illustrated the importance of skill practice and the inherent advantage of being a human on Nyil. Skill practice was a matter of arbitration: one could not progress quickly in every domain. Viv had picked magic and politics, and she was satisfied with it. Everything was a choice. It was therefore fine for her to have skills that lagged behind.
+
+But on Nyil, skills did not ‘decay’. She’d tested it with her small blades skill with Solar: she was still as good with a knife now as she used to be. Someone better would probably feel the difference but that was nothing compared to what a lack of practice meant on earth. Humans on Nyil didn’t grow rusty, not to the same degree as people on earth. It was incredible. It meant that in theory, a person with unlimited time could indeed be good at many things. It was her plan. She still had to undergo rigorous physical training to make full use of her chosen path, and when she had more time, she would.
+
+When people stopped invading. Honestly and since her arrival, several of the continent’s hot spots had drastically calmed down. Surely she would have some time before the Nemeti came with an invincible armada or something.
+
+Meditative Trance: Expert 4
+
+This one was another long term skill that only practice would improve, although she believed she could boost it by sparring while trying to replenish her mana. It was no longer so important now that her mana reserves were massive and she regenerated in combat, but it could still be useful for massive workings some time in the future. She knew she would need it in Old Harrak.
+
+Acuity: 47
+
+Any stats that were close to 50 were considered extremely high. Viv didn’t feel smarter. What she could do was think faster, for a longer time, and without forgetting anything. It was almost as useful for magic as it was for paperwork.
+
+Arcane Constructs: Intermediate 7
+
+The large gain in arcane construct came from her work with the landship, which she’d had time to study between surgeries. The other part was reattaching kark body parts to happy new owners.
+
+That gave Viv ideas.
+
+If she couldn’t improve her stats and skills easily through productive means, then what about unproductive ones? She could probably get stats increases if she did surgery for the merl as well. There must be few veterans left from the beastling wars, but surely spider husbandry wasn’t good on the fingers? She had to ask Sidjin to arrange it.
+
+Would Viv start a project that cost hundreds of man-hours and hundreds of silver talents just to improve a few stats?
+
+Absolutely the fuck yes. She was the gods-damn empress. What was the point of absolute power if you couldn’t treat yourself from time to time? She would just claim it as a diplomatic mission to strengthen their bonds with a friendly nation by strengthening people’s bonds with their own legs. Increase goodwill by increasing the average number of limbs per person. That was a good slogan.
+
+“I am a genius.”
+
+“What?” Marruk asked.
+
+“Nothing, just stating the obvious. Hey, isn’t that Irao?”
+
+***
+
+Unfortunately, Irao was the bearer of bad news: the border fortress was being reinforced, its neglected walls repaired, and distant homesteads were evacuating their citizens and militias to the targeted city. Marruk deflated when she heard, but Viv remained pragmatic.
+
+“It was going to be an uphill battle. The Pure League wasn’t going to surrender the symbol of their success so readily.”
+
+“If we want to win for good, the border fortress must fall,” Marruk stated. “There can be no other way. We need more men. I shall disregard our tribe’s feelings on the matter to ask the other tribes for help, as has been done in the past..”
+
+“What about the blood feud?”
+
+“As has been attempted in the past.”
+
+***
+
+Viv decided not to attend the negotiations. It took a good week for delegates to even come, and that was with shaman sorcery that allowed ancestors to ‘speak to each other’ or something. Probably a variant of the goldy altar far speech ‘technology’ rulers used to talk to each other when it was urgent. As a meeting point, the tribes decided on a historically peaceful spot west of the hidden valley. A tent was set to receive the guests. It looked old and, if Viv had to be honest, a little ratty.
+
+Envoys arrived on the back of pakar, one for the River Tribe to the South, and one from the Tribe of the Shores to the north. The Tribe of the Shore delegate looked like he was coming to attend a funeral, and the River Tribe one, a wrestling competition… as the incumbent champion. It didn’t bode well, and Viv’s presence wouldn’t improve things.
+
+First of all, if she showed up, the envoys would question the Red Tribe’s authority. They would also assume she would be willing to give shit and she wasn’t. Her ship’s stores were so empty they were now eating kark food, and the rest of the metal was meant to keep the landship going. As for the gold, She’d taken it to ask for Rakan’s treatment later. Paying more money wasn’t part of the deal. The gods knew Harrak was permanently strapped for cash.
+
+In order to still learn what was going on, Viv would be eavesdropping, and by eavesdropping, she meant staying thirty meters away from the tent, upwind, so the noise level would be manageable. The lady warrior Sala would offer translation.
+
+Viv almost started when the screamings began, but the kark woman’s calm told her it was normal. Each tribe invoked their ancestors to promise they wouldn’t draw their weapons, a vital step in any kark communication apparently, only, each one was trying to outdo the other in imprecations to show how honorable they were, how their forefathers were the most noble, and more specifically, in which situation they’d kicked the other tribes’ ancestors’ asses.
+
+Viv wasn’t convinced this would help.
+
+At least, the voices were easily recognizable. The Shore tribe’s envoy talked like his dog had just died, the River guy sounded seconds away from gutting someone, and Marruk was a woman.
+
+Viv followed the negotiations with a cup of warm kava and stoic patience. Her opinion was that since the Red Tribe had fought alone for so long, it would be disastrous to ask for more help at the very last minute, but she was also pragmatic. Her hosts had bled too much to take any chances now. If she were in a similar situation, Viv wasn’t sure how she would react. In any case, the negotiations started pretty well in the sense that no one had died yet. Marruk explained at length that the Red Tribe had won a major engagement and that their enemies were exhausted. Now was the time to strike but they could use some help.
+
+“They have heard it before,” Sala explained. “Both tribes sent token help during the last siege. They withdrew without shedding much blood once it was clear the battle was lost. COWARDS! Sorry.”
+
+Viv massaged her left ear with a wince. That one had caught her by surprise. Did danger sense not work with sound-based attacks?
+
+Marruk made an impassioned plea on the future, unity, prosperity, and hope. She sang the praises of her own mercenary group, all kark taken from different tribes and different walks of life, some even of the female persuasion. The answer was swift and unfortunate. The shore tribe eagerly reminded Marruk that her second, Odon the Bellicose, was banned from his Mountain tribe because he was a murderer. That didn’t stop Marruk who cleverly talked about second chances as well. Viv recognized some of the talking points of the clergy of Efestar. The old girl had been learning.
+
+It was frankly amazing to see how much she’d progressed as a leader.
+
+Again, the envoys replied.
+
+“Both tribes are listing their difficulties! That is a good sign. It means they want to extract more concessions.”
+
+“So they’re taking Marruk’s offer seriously.”
+
+“Who would not?” Sala boasted. “Have we not steel in our hands and the blood of our foes at our feet? Red Tribe! Red Tribe! Sorry.”
+
+“That’s ok, I was ready this time.”
+
+A second cup of kava made Viv miss cappuccino terribly. The discussions grew tense. Sala growled.
+
+“They dare! They ask for half of our armor! Half! They are not for Marruk to give.”
+
+Viv had to admit that a hundred and fifty sets of heavy armor were a massive ransom. Gods, if it weren't for the yries and their steelworks, Viv couldn’t even dress her heavies. It was a totally ridiculous request.
+
+“Marruk is telling them that they do not have steel to offer now as they need it to fight. She said the armor belongs to her soldiers personally, not to her, and that they follow because they want to. She offers food, shields, and future steel shipments.”
+
+It was wise, Viv agreed. She pretty much had a guaranteed trade agreement and military alliance with New Harrak at this stage, so they would definitely get access to some decent steel. Viv had told Marruk she needed something to offer as well as a bottom price. She had obviously taken the advice to heart.
+
+“They ignored her offer. They are now asking about the landship.”
+
+Viv tsked. Some people could not see beyond what was just under their noses. Greed ruled the steppes, it seemed.
+
+“Marruk repeats that the landship is not hers, and therefore not for her to give. She repeats that she can promise steel later if they join their forces to her. She told them that so long as the war goes on, the trade from the east will not resume, so it is in their interest too.”
+
+“The shore tribe don’t have ships?”
+
+“They have no wood, Your Majesty.”
+
+The sentences came faster now, and the tone was more tense. The River tribe asked for half of their armor again, to which Marruk replied the same as before. Eventually, the stout warchief lost her patience.
+
+“She is telling them what she has to offer, and to choose from among those, and not to ask what she cannot give.”
+
+It annoyed Viv that they wouldn’t even ask after the price, or how much steel they could get. She hated irrational people. They could just ask oaths off the Red Tribe and get some really good terms. What was wrong with them?
+
+The River guy replied in a strident voice. Nothing different from the usual. What warned Viv that something was off was the silence that came with his words. Nobody else was talking. According to her understanding of kark culture, it was a terrible sign.
+
+“Oh,” Viv’s translator gasped. “He just insulted Marruk’s mother.”
+
+“Oh shit.”
+
+There was a noise like ceramic hitting cartilage. An instant later, the entire side of the tent collapsed in a cacophony of warcries. Marruk bulldozed the larger kark ambassador through five meters before slamming him down in what would have been an impressive feat of wrestling. Before anyone could react, she straddled the dazzled man, and then proceeded to beat the ever-loving shit out of him.
+
+Things went downhill after that. The Shore tribe regretfully announced they wouldn’t help while the two other delegations started a general brawl. True to their promises, they didn’t pull weapons, so at least their stats kept both sides alive. The savagery of the battle eclipsed that of the expedition massacre if only because the Red Tribe didn’t have to stay in a tight formation, so they just went for it. A huge River Tribe bodyguard finally managed to pull Marruk off the battered ambassador right before her dad came to the rescue. To Viv’s immense surprise, the now purple man rose to his feet with a scream of outrage. The dude must have lived the life of an anvil to take that level of punishment and still stand. Maybe it was a skill born from the necessity of the asshole lifestyle.
+
+Viv took a sip of hot kava. She would never have guessed that kark diplomacy could be such a good spectator sport. Led by the brilliant tag team of Matar and Marruk, the Red Tribe immediately went on the offensive with brilliant exchanges that put the opposition on the back foot, only held back by the River Tribe’s powerful bodyguard and the last line of the ambassador, a peerless defender. Odon the Bellicose holding the red center freed the rest of the team as the massive warrior merely bull rushed all opposition, but it was the lateral work of Tylek the Shadow Hunter that finally managed to exhaust the resilience of team River, culminating in a Marruk vs ambassador mutual take down for a final score of twelve to five fighters standing (forfeited).
+
+Their anger spent, both sides separated with a few last bruised glares. The tent was totalled while all hopes of getting reinforcement on this end were dashed for good. A very productive day.
+
+“I guess that’s it. Time to go home.”
+
+“I hope you will not think us barbarians,” Sala whispered with shame.
+
+The only thing Viv was thinking was that she’d cut off her left leg to watch a New Zealand versus Red Tribe rugby match.
+
+***
+
+A grim assembly gathered around the command table, deep in the bowels of the landship. Matar and his shaman stood slightly confused since they were in the kark equivalent of a gold vault. Marruk was more stoic, as the official commander-in-chief. As for Viv, she was doing her best to keep Irao in her mind as the elusive Hadal used some weird skill to convince her he didn’t exist. It was an uphill battle.
+
+Wait, what was she doing?
+
+“The border fortress,” Marruk said in Imperial.
+
+She pointed at the lynchpin of the Lutenese defenses on the large map in front of them. The map showed two mounds on either side of a river, and a fortress next to it. The fringes of the steppes extended north and south. From the protected stronghold, horse riders could attack any village in the vicinity. The fortress overlooked exceptionally fertile grounds for the region, and it could last indefinitely unless besieged. Anyone surrounding the city would also need to worry about prompt Lutenese reinforcement while the flat grounds on the eastern side favored cavalry engagements. It was a nightmarish place to take for the kark.
+
+“We have three problems. One, we don’t have enough soldiers. It’s always harder to attack a castle than to defend it and we simply don’t have the advantage.”
+
+“That might be less important since you have me,” Viv said.
+
+“That may be so, and Arthur said she would help. It leaves us with two problems. The first is the gate. Can you also arrange that?”
+
+“They have enchanted the gate. Against black mana,” a voice said, and Viv swore under her breath.
+
+The old assassin had managed to disappear while she was looking. How was he even doing that?
+
+“Okay. So yeah, it would be harder. I can always breach the walls but I imagine it would make for a difficult assault. I’ll check with Frosthawk.”
+
+“The third problem is that they always know we’re coming.”
+
+Viv wasn’t sure how big of a problem that was. There was plenty of stuff people could see coming and they couldn’t do shit about it. Marruk was still right though. Why give the foe any information? And she was intrigued, also.
+
+“Is that a scout thing?”
+
+“No,” Irao said.
+
+“They always detect our patrols. Even our hunters! Even when they make sure they cannot possibly be seen from the walls by always keeping rocks or earth between them! It is a mystery. Even our shamans have failed to find how they do it,” Marruk said somberly.
+
+She had a brief talk with her father. The head shakes confirmed nobody knew how the Pure League managed it. Now, Viv was really intrigued.
+
+“I’m going to find out,” she said. “Alright, we have three tasks: one, finish training the new recruits to have as many soldiers as possible.”
+
+“And give them shields. We won’t go far without those.”
+
+“Fair enough. Two, find a way to open the gate that might not involve me. Three, find out how they always manage to spot approaching war parties.”
+
+***
+
+Viv sat in front of Frosthawk, unsure on how to broach the subject. The proud archmage clearly saw the landship as his pet project. It had been built in his city. Hell, it was his baby.
+
+And Viv was going to do terrible things to it.
+
+“Look… we need a way to breach the gates without me.”
+
+He was seeing it coming. She could tell from the heavy sigh, the way he slapped a hand over his eyes.
+
+“Let me guess… you want to use the landship.”
+
+“I am merely asking if there is a possibility…”
+
+“You want to use the landship as a high-speed battering ram.”
+
+Viv forced the next words out.
+
+“And also as an armored personnel carrier. If we could strap Marruk’s team…”
+
+“The gods dammit.”
+
+Now Viv felt like shit.
+
+“Look, I’m just asking. I don’t want to—”
+
+“The landship has a ram configuration. It was designed that way.”
+
+“...”
+
+“...”
+
+“What?”
+
+“I said, it was designed with ramming capabilities. I’m not pissed because you suggested using it that way. I’m pissed because I bet two gold talents with Lord Warcrime that you wouldn’t suggest it this season, and he won. And it wasn’t even close either.”
+
+“Wow. Am I that predictable?”
+
+“Honestly, in some ways, yes. Wasn’t it you who said that it wasn’t about what something was designed to do but about what it could accomplish?”
+
+“Hm, that made Solfis weirdly annoyed.”
+
+“So yes, indeed, your question was within the realm of possibilities. Is there a single Harrakan machine that cannot ram its target?”
+
+“Honestly I should make it our design doctrine. All of our stuff should be able to ram their stuff. I mean, I would, but I’m confident it will come back to bite me in the ass in the distant future if I did.”
+
+***
+
+The device flew high above the steppes. Said device consisted of a spacious wood basket capable of holding three people, equipped with a heating enchantment. Four gravitite stones held the basket aloft under a balloon that could be heated to increase elevation. It was a remarkable piece of engineering — deceptively simple — and the secret weapon in Luten’s intelligence arsenal. Manned by a crew of three, the balloon hovered under the wispy clouds, high above the steppes. The powerful winds of this region forced the operator to increase and decrease elevation in order to prevent the balloon from drifting too far. Even then, they were specialized scouts, capable of detecting movement with the acuity of eagles. Three scouts, one for each shift because the task was mentally taxing, were relieved every week by a cadre of air mages who also brought supplies and victuals along with their replacements, for the balloon was not allowed to land. Strict protocols helped keep its existence a secret from competing powers. Occasionally, the cadre also helped move the balloon back to the sky above the fortress, when the winds all blew in the wrong direction.
+
+With the basket, no kark incursion had ever closed on the fortress, or even the surrounding estates, without the scouts noticing and relaying word back to the fortress by way of specially enchanted paper. Most officers believed an attack was imminent, therefore the current scouts were among the most talented. Presently, one of the scouts surveyed the land while another slept, and the third heated some soup from a can. All three flinched when the basket rocked. The sleeper woke up in a fit.
+
+It had never happened before.
+
+They looked around and found them. It was rather hard to miss a dragon and the elemental archmage hovering nearby. The dragon was still a juvenile, yet large enough that she couldn’t fit inside of the basket. Her serpentine head swiveled inside of the basket as she peered around curiously. Meanwhile, powerful claws gripped the railing, digging into the varnished wood with uncaring strength.
+
+Interesting!
+
+Mother, we need to acquire gravitite.
+
+I shall ask Judgment how to make more.
+
+“Is it for commercial use?”
+
+Mother! I am not just interested in getting more gold, you know?
+
+“Uhu.”
+
+Also, you cornered the transportation market.
+
+The crew remained silent while the woman with void eyes inspected the enchantments. In theory, they ought to sacrifice themselves to protect Lutenese techniques, throwing their lives in a heroic attempt to stop two of the deadliest entities on the continent. In reality, they were poorly paid members of a scorned path with families to feed, families they were now missing terribly. Nobody moved. One of them started praying.
+
+“Yeah, so, She-Who-Feasts-On-Many-And-Collects-Much here noticed something unusual floating on the currents, and we found you. I am going out on a limb here and assuming you have a way to contact your employers.”
+
+Three pairs of eyes found the box where the enchanted paper was kept.
+
+“In there? Hmm.”
+
+There was a lock, then the lock was gone. The witch ruffled through the paper with curiosity. Her voice was strangely audible over the howl of the wind.
+
+“I see. To be perfectly honest, your deaths mean nothing to me. You are no warriors. It is enough that I found the balloon, so I have no objections to letting you go.”
+
+Hope kindled in the hearts of the men, though they remained circumspect. The witch had a reputation for ruthlessness, yet some said she was honorable in a way. She was very clear in her threats before they were carried out. Survival and a mad, almost feverish relief briefly battled patriotism in the hearts of the men. They won. The witch smiled.
+
+“Now, I assume you must check up with your base on occasion?”
+
+The scouts looked at each other. They had no idea what she was talking about.
+
+“You send regular updates to your superiors to tell them everything is fine?”
+
+“No?” one of the men hazarded.
+
+“Why would we?” another said.
+
+The woman rolled her eyes.
+
+“Your security leaves much to be desired. When are you set to be replaced?”
+
+“In five days,” one of the scouts immediately replied.
+
+Another fell to his knees.
+
+“Neriad forgive us…”
+
+Shame filled their hearts.
+
+“Good. I will be taking that paper of yours. You will remain here for five days, and I’ll be keeping an eye out. If I found out you moved anywhere, well, you wouldn’t believe what I do to people who abuse my mercy.”
+
+“I can swear an oath!” one offered, but she refused.
+
+“I know the worth of an oath made under duress. They tend to have a lot of wiggle room if they even take. No. Do as I say and you will not die an agonizing death by dragon fire.”
+
+The men were only too happy to oblige. Only after the woman left did they realize one of the enchanted gravitite stones was missing. It wouldn’t send them plummeting to the ground but it would make their superiors very angry.
+
+It was beyond them, however, and so they just thanked their lucky stars that they would live to see another day.

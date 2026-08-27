@@ -1,0 +1,269 @@
+---
+id: 230a03bd-c94d-57e6-9663-4d1423e29f2b
+page-type-slug: story-chapter-royal-road
+title: "387 Sparring Partner [I]"
+slug: 0502-387-sparring-partner-i-3567546
+partOf: path-of-the-deathless-book-4-completed
+position: 502
+ownLength: 5535
+unit: words
+publishedAt: 2026-06-20
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3567546/387-sparring-partner-i"
+royalRoadId: "3567546"
+---
+
+A perfect enemy is worth a thousand masters.
+
+But before I elaborate further, I would like to clarify what I mean by a perfect enemy. An enemy is someone who wishes to do you harm. In this regard, they are already different from your masters. The masters that you have will simulate difficulty and struggle for you. They might even harm you if they are harsh or determined enough to see you grow, but ultimately, you are their investment. You are their legacy. You are something they protect. Even if they do not care for you emotionally, they care for you on the basis of pride toward the exaltation of their own skills. They care for you, and so it will take extreme circumstances for them to destroy you. The same cannot be said for your enemy.
+
+Your enemy has but one goal: your destruction. Your enemy will see you brought low and cut down, and will use any method against you if it means your defeat. That is the wonder of having a good enemy. They will teach you your weaknesses in ways your masters cannot, for your masters are devoted to seeing your strengths built. They might have an understanding of where you lack, but an enemy does not have a threshold where they stop. An enemy will not spare your family if they are a true foe. Your enemy will not let honor or indecency be a restraint. An enemy is inimical to your life; they are the axiomatic opposite to your survival, and they will do all they can to make sure that you are the one who falls and they are the one who stands.
+
+A perfect enemy, then, is an enemy who can harm you but cannot truly finish you. A perfect enemy can deal you blow after blow but never cripple you, at least not physically or functionally. A perfect enemy is someone that is somehow as powerful as you, or at least close enough to threaten you, yet who cannot inflict true lasting consequence on your growth. The number of situations that will see you obtain a perfect enemy are near nonexistent.
+
+Yet they can happen. I have obtained a perfect enemy in the form of an orc. The Culturist is a devious and vile foe, but he is also desperate to see my prowess matched by his own. He has an urge to grind his skills upon me like a whetstone. Death after death, he comes for me, and death after death, I prevail, if at times only barely. In him, I have sealed away vulnerabilities that would have seen me slain in the future. Through him, my foundations are reinforced, and because this is a battle of true mastery between us, our mutual development will continue, but I remain a step ahead. I remain unshackled from a single vulnerability that leaves him my inferior. He is a slave to violence; I am its wielder. I am the decider, and so I can always set the terms of our battle.
+
+Never mistake the ability to choose pacifism over bloodshed as a weakness. If someone is only bound to violence, then they will find themselves trapped in a ruin of their own making. For when you make two enemies, do not be surprised to find yourself encircled on all sides.
+
+But I digress. A good enemy is hard to come by. A worthy adversary is a teacher above teachers, but a perfect enemy. If you can preserve them, for they will teach you things about yourself that no other can. When you improve, they will refine you further.
+
+I beg you, Pathbearer, if you are favored by the System, find yourself a perfect enemy.
+
+—Valor Thann
+
+387
+
+Sparring Partner [I]
+
+Legion of Self 177 > 180
+
+“You! How dare you! Again, you return! Again! Again!” The Outsider god’s voice made the world tremble; existence itself rattled like a crumbling pillar within the Stranger's Garden. “Sacrilegious vermin! You… you… you… fuck!”
+
+The Stranger's fury was more than deafening; it was palpable. Every section of his Garden was inflamed with unspeakable rage, so much anger that it boiled away at Shiv, refining his Harbinger like he was a pill in an abyssal cauldron.
+
+“His condition is worsening,” the Harbinger noted.
+
+Shiv grunted in agreement. “Many-eyes here didn’t use to curse, did he?”
+
+“That's the lesser aspect. Look at his emotions. They're more human than ever before. The System is converting him at a rapid pace. Our favored nature has spread to him; our mana is consuming him. His time as an Outsider will soon end, and when it does, he will just be another god to another dimension within Integration.”
+
+A pang of near pity rang inside Shiv like a bell. Though he despised the Stranger for what he was and everything he had done—especially for the suffering his minions had inflicted on Blackedge—there was something devious and darkly twisted about the System's ways. Sometimes it made Shiv think more of an infection than an actual entity spreading from person to person, spreading through their deeds, their stories, their legend—a smart virus that carried the contagion of attuned and unattuned magic.
+
+“Even if the System wishes us dead, that does not mean it's beyond using us as a tool to further its influence.” The Harbinger hummed. “Think of how many centuries, how much effort it would take the System to finally bring down the Stranger and infest it with stabilized mana without us. How many lives.”
+
+Well, if you got a Deathless, you might as well use him, right? Shiv thought sardonically.
+
+His presence in the Garden was loud and uninhibited. He didn't even attempt stealth this time. At least not with his vanguard body. Instead, he crossed over, smashing through the pitch-black branches, slicing into the red and golden glaring eyes that tethered the Stranger's awareness to every centimeter of this reality. Shiv's mentors had instructed him to vandalize and brutalize, to be a hooligan as much as he could be. With that order given, Shiv delighted in his own obnoxiousness.
+
+“Hey, Stranger, missed me? I’ve come to burn your Garden down again. But I'll be nice if you tell me where Enchanter Merrielmel's brother is. Or you roll over and let me kill you for good. Maybe if you call me uncle once, twice, or a thousand times, I won't embarrass you too badly before I do it. I won't put my foot so far up your ass that I'll be wearing you as a slipper back into Gate Piety.” Shiv smirked. “This is a one-time offer: You send that oversized eye bag of yours to personally apologize for killing me all those times, and maybe, just maybe, I'll give you a sweet and easy exit from this world.”
+
+The Stranger made his existential decay known by raging like a slighted child. The noises that echoed from all corners of the Garden were rantings and ravings, far too human to be incomprehensible, far too emotional to be born from the heart of an unknowable God. The Outsider's fury was devoid of words, but the apocalyptic presence of the Supplicant arrived all the same. A tidal wave of invisible force slammed into Shiv, but where it would have dislodged bone and left him buried in a layer of contusions, he now simply felt his sternum bruise as a stream of invasive power licked at him, cleaving against his Magical Resistance over and over.
+
+The Stranger's Garden began to change. The massive branches, dotted in eyes, receded, closing all at once as the shrubbery gave way, revealing a chasm of a clearing that expanded further and further until the woods encircled Shiv rather than surrounded him. As the woods parted, leaving the path ahead wide and bare, he was exposed to his titanic foe.
+
+The Supplicant was, as Shiv remembered, a goliath in form, a set of oil-black, steepled hands fused at the wrists that dwarfed the Tarrasque by an order of magnitude. But more than merely its size, it was a true titan when it came to magic. A wreath of tarnished gold surrounded its form, and its hands sported thousands upon thousands of eyes that held eyes of their own—pupils dotted with focal points imbued with hateful Chronomancy. Its very presence was like a cataclysm coming to ruin the world: an unstoppable storm with but a single desire.
+
+“Oh, there you are. Thanks, Stranger. Saves me the trouble of finding this oversized pretend-prayer.” Shiv taunted the Stranger's oncoming Avatar with a sneer of indifference. Though he held to a facade of arrogance on the outside, he understood his enemy and his present circumstance quite well. This wasn't a fight he was supposed to win; though the Stranger was mentally degenerating, he still possessed an immense quantity of mana—far more than any kind of Legend could ever muster. But victory was not the goal here. The goal was to improve Shiv’s other skills and to achieve a Skill Evolution in a very specific area that he'd let lag for far too long, so that he could experiment with new and risky strategies in a proper pressure-tested arena.
+
+And, if this present distraction proved successful, Shiv might just be able to get back whatever was left of Merrielmel’s brother.
+
+In summation, the Supplicant was Shiv’s sparring partner, and the Stranger was about to provide a service few others could with these coming battles.
+
+“Well, come here already,” Shiv spat, pointing his Last Morsel at the Supplicant—a gesture made infinitely less dramatic since he was using a frying pan instead of a proper blade. “Can't wait to see what you taste like when I carve you up and cook the pieces. Give me a good recipe, fingers!”
+
+The Supplicant answered him by unfurling its fingers just slightly, and between the gap of those arched digits came a glow of Chronomancy that physically weighed upon the world, and then a deep, dark red glare that seemed to fester the very nature of vitality itself.
+
+“That… is new,” the Harbinger muttered.
+
+***
+
+Back in the Tutorial Bunker, a lattice of Psychomantic tendrils connected Shiv to his mentors and advisors. His Severed Shadow remained behind, for there was no need to risk the root of his being in such a desperate battle. Whenever one of his bodies fell, he would simply resurrect another, and thanks to a bit of convincing on his part, Jessica, the Culturist, and even Tulveg were willing to grant him vitality transfusions to facilitate his training—within reason. This meant that death still had consequences. He couldn't just callously throw his bodies away and continue on as if nothing happened. Every loss came with a price to vitality, and eventually it would delay his training and see him on worse footing against Roland if he didn't make the most of every death.
+
+“Stranger's charging up a weird attack,” Shiv announced. “It looks like he's mixing in some corrupted vitality with all that Eldritch Chronomancy. Dodge?”
+
+“Dodge,” Jessica answered without hesitation. “You always keep the onion in mind. If you can avoid a hit, you avoid a hit. You don't eat anything unless you have to. Remember, your Toughness and your Magical Resistance are your cornerstones, not your currency. You use them to get better options or to survive worse outcomes. Don't spend them for nothing. Remember the onion.”
+
+Remember the onion, Shiv repeated. Don’t get detected, don’t be within reach, don’t be hit, don’t be damaged, don’t be killed.
+
+“But do not hesitate to sacrifice one of your vessels if you must,” Valor added. He stared dead ahead, as if he were piloting Shiv's body himself. “Commit to pragmatism and make the best decision you can. Learn from what you do not survive and review those outcomes to adapt your strategies from first principles.”
+
+Shiv wanted to reply, but found his words cut off as the totality of his focus was demanded back in the Stranger’s Garden.
+
+***
+
+A flood of bullshit came toward Shiv at nightmarish speed. If there was one thing Shiv hated about the Reflexes Skill, it was that once you got to a certain Tier, it made you unreasonably fast, no matter how great your mass. It was one thing to be facing a swordswoman who could chip and bleed your flesh with blurring flicks. It was another when something larger than a mountain range moved faster than a bolt of lightning.
+
+But just because the Supplicant was faster than Shiv didn't mean he wasn't fast enough to respond. He had already built up so much momentum that his inertial sheath was rumbling like it contained an entire sky's worth of storm clouds. It yearned to detonate. It lashed and hammered at his body but did no harm, for his Toughness had been driven to the edge of near perfection. So when Shiv could only be struck down or barely survive by centimeters or scratches before, now he had a chance to react.
+
+Shiv's counter was simple. He remained in place and waited, trying to hone his timing. He didn't intend to outpace the coming beam, nor did he have any chance to. He didn't intend to cast his Harbinger into the future and bring himself along with it. The Supplicant possessed a power that allowed it to strike someone’s present from where they used to be in the past. Their unnatural relationship with time was the biggest problem when it came to dealing with the Eldritch that didn't play by the System’s rules.
+
+But Shiv had a bunch of filthy cheats hidden up his sleeve as well, and just as the attack was set to scour him from existence, Shiv dodged—and went off like a crimson bomb as he plunged Backstage.
+
+The Supplicant’s spell had enough vitality and mana to burn a hole down to the very core of Integrated Earth and rip the planet asunder. It possessed so much socially-charged hatred that even if Shiv survived the magic, it would have burned him hollow emotionally and mentally. But he did dodge, and he dodged in the way no one else could. And as Unique bullshit was pitted against Eldritch bullshit, the former won.
+
+In the end, Shiv guessed the beam to be four kilometers wide and perhaps sixty long. It was comprised of an outer layer of Chronomancy so dense it made even the Harbinger look like a raindrop, but at its core was a simmering violation of vitality. A twisted essence that sought to devastate and erode, a sort of anti-structure made manifest. As all that matter was converted into magic with Shiv, he realized there were black spots clinging to the corroded vitality he drank, and they fell away from him like absences gnawing upon existence, given unto the hollow nothing that served as the backdrop to the Backstage. The absences merged and vanished into the canvas of black. Shiv found himself reminded of Udraal’s foreign entropy magic, for these manifestations felt one and the same.
+
+A long breath slipped out from Shiv as a surge of tension left him. “Alright, really glad I dodged that.” He looked to his left and regarded the other body hidden in the Stranger's garden with him. One was shrouded in a dense nest of darkness, using its Creeping Void as it moved alongside the receding branches. To his right, so far away it could barely be seen, were his other vessels, with his Severed Shadow glowing bright like a red star blazing with life force—for Shiv, his Revenant was the core of his being and the source of all his vitality.
+
+Back over in the Stranger's garden, the Supplicant suddenly froze. No longer was it moving astonishingly fast, ripping through space like a meteor on the path of a fated collision. It couldn't remember Shiv. No one could remember Shiv, and he delighted in the Eldritch God's confusion for a few more seconds.
+
+A peal of delighted laughter rang out behind him. “Never gets old, does it?” The girl sighed and pretended to wipe a tear away from the corner of her eye. “Watching the poor bastards try to figure out what they were doing. Doesn't matter if you're dealing with an Adept or a Legend, a mortal or a god. A quick visit Backstage leaves them trying to sort their head from their ass.” As Shiv’s Severed Shadow grew even brighter, she let out a wince and shielded herself from the flare. “Shit, Shiv, that might be the most mana you’ve ever brought Backstage. You might be able to stay here for weeks after that. Entire place feels like it’s warming up.”
+
+Her words were accompanied by a similar sensation, but Shiv would use something stronger than "warming up". It was like he was within a cauldron and a flame had been set below. This place was boiling, and the power of a god was quite the thing to steal away.
+
+“Good thing the Stranger's mind is all messed up,” Shiv commented. “The way it attacks is more vulgar than Longinus.”
+
+“Because why did it need to do anything else? Finesse is when someone doesn't have enough raw power. With how the Stranger was more of a metaphysical phenomenon than an actual entity for all that time, it's not a surprise it didn't really develop any techniques, is it?” The girl folded her arms. “Which makes it weird that you're using this thing as a sparring partner instead of one of the Legends. My father is a man of unparalleled skill, not immeasurable power, right?”
+
+Shiv hummed in acknowledgment. “Yeah, but there’s no way I'll be able to match Roland in terms of direct combat experience and mastery, according to Valor and Jessica. Not even if I was given decades to train.” Despite seeing logic in their declarations, Shiv doubted it emotionally. He wanted to surprise them. He wanted to defy their expectations. He wanted to defy Roland, not because of spite, but more because he simply wanted to grow. It was a part of who he was now; his gluttony for development was not going to be satisfied by the dull mono-flavor of power alone.
+
+“There is one way the Supplicant is like Roland; I can't make a mistake with either of them. They both possess pretty weird skills that I don't have an easy counter to, so I need to figure out how to adapt on the fly, and develop more strategies of my own.” Shiv looked over his shoulder and saw the Red Rider’s Hand raised up in defiance, tight with anticipation of what was to come. “I can't rely on Continuity Error alone. Roland's got a bunch of skills he can fuse and evolve any time he wants. That gives him options, so I need options myself.”
+
+The girl blew out a weary breath on his behalf. “Alright, then, Bruiser, get out there and start making that happen.”
+
+Shiv saluted her, and took a final moment to gather himself. His Last Morsel was in hand, and the cooked flame within was ready for consumption. Probably won’t let me burn through the Supplicant or melt through its mana before I get destroyed, but between that and my armor, I might be able to perform some of that “rapid-repositioning stuff” the Culturist told me about earlier. Well. Time to give this strategy a shot.
+
+Diving through the membrane of vitality that served as the border between the Backstage and Integration, all of Shiv's vessels reappeared where they once were. His other physical body inside the Stranger's Garden was out of position, leaving a dark spot amidst the hollow space now abandoned by branches. He tried to accelerate his stealth-focused body back into the foliage, but found a sea of red crescent eyes widening in surprise as the Stranger detected both of his forms.
+
+“What… what is this… How did you… My will… I willed you to cease. I tried to banish your form and rend you from my memory… My memory. You’ve broken my memory. You’ve broken it…” Though the Eldritch God's voice was rich with malice, there was a hint of discomfort in the undertone. The Stranger was unnerved by what Shiv had done. To the Stranger, the past and the present were no different. The future was something to be consumed. If someone could wrench themselves away from the world and defy his understanding of the timeline and of existence itself, then he was facing something even more aberrant than its own nature.
+
+A tendril of fear, thinner than a hair and twice as fragile, connected to Shiv. It was barely there, almost non-existent, and certainly unreliable as a chain to pull on, but it existed, and it fueled Shiv with terror derived from a shaken god.
+
+“Yeah, so, you missed,” Shiv lied, gaslighting the Stranger just because. “It happens to all of us. Well. Most of us. I gotta say, the longer I have to suffer you, the more of a disappointment you turn out to be. I expected terror and incomprehensibility, but you barely understand what you’re turning into yourself, huh? All that consciousness is miserable for you to suffer through. Intelligence is a pain, and thoughts suck to process.”
+
+At some point, his words went from taunting mockery to calculated truths. He could see a swirling typhoon of translucent mana twisting over the Supplicant's head and disturbing the vast limbs that formed the Stranger’s inner dimension. At the same time, the pitch-black emotional flames that roiled and slithered through the space grew ever more intense as fine cracks began to spread, as the budding rage of the Outsider god hatched as its temperamental volatility was distilled into enkindled flames.
+
+“The inevitable alchemy of a feeble heart always twists toward betrayal,” the Harbinger whispered.
+
+“Enough!” the Stranger whimpered, sounding caught between a sob and a shout. “No more! Do not exist anymore! I forget you, abomination! I… The world must forget you!”
+
+And those words granted Shiv a spark of insight into the Stranger: He wasn’t just broken because he was infected with self-awareness; he saw himself as the world, and now there were things happening within his past-present memory, dancing before his eyes and in his garden beyond his control.
+
+The epiphany made the Harbinger ignite with golden resplendence as Shiv grasped the truth of the trauma he was inflicting upon the Stranger. “We are worse than an invader. If he considers himself the rightful totality of the world, only to realize that he has been estranged from the greater existence of Integration, then we are as if an invasive virus that he simply can’t burn away. A virus that is slowly degrading his thoughtless omnipotence to narrow consciousness.”
+
+For the first time, Shiv felt the Nihilist shudder in near sympathy. “Can you imagine how crippling it would feel to go from an absolute being to one defined by relatives?”
+
+The embers of understanding cast forth by the Harbinger began a rising blaze for the Nihilist as Shiv grasped the closest thing he could to the Stranger’s perspective. The hollow flames he commanded swelled and raged, expanding out from Shiv in every direction.
+
+Harbinger of the Tripartite Ruin 329 > 333
+
+Nihilism Be My Hearth, My Banquet 103 > 105
+
+The Creeping Void 175 > 179
+
+***
+
+“I’ve stolen his totality,” Shiv whispered to himself.
+
+Heads turned, and breaths stilled.
+
+“What?” Jessica asked.
+
+“I understand why he hates us so much,” Shiv muttered. “I caught a glimpse of the Stranger’s perspective. The world is wrong because he was the world. And now he can’t be anymore.”
+
+Jessica stared at Shiv in confusion and worry. “Shiv… what the fuck are you talking—” Uva injected Shiv’s comprehension over into her, and Jessica found herself speechless. “You—the—what the fuck, Shiv? You got all that just from a few words and by reading the state of its emotions?”
+
+“He's honest,” Shiv replied, barely present inside his Severed Shadow. “He doesn’t fully understand how to lie properly yet. That’s why he needed hosts. Not only to survive on Integrated Earth, but to find something narrow enough to use as a way of comprehending our world.”
+
+A choked sound came from Hymn, who struggled to process what Shiv grasped so casually. “That’s how the Stranger works? That’s why it’s like this? That’s—that’s his governing understanding of existence?” With every subsequent question, Hymn’s voice climbed a bit higher. Finally, he sagged in on himself. “Well, that’s just… sad. This was what my parents abused me for? This thing? This stupid, idiot god that thought it was all of existence?” A similar enkindled darkness lit up inside Hymn’s chest as an existential crisis threatened to take hold.
+
+“Do his assumptions and thoughts matter more to you than his pain?” Shiv asked. Hymn’s enkindled flames froze. “The System used me to poison him. And I guess that means the god he was—and the god that you are feuding with—is degenerating in a way worse than even the Ascendants.” Shiv slowly turned to regard Hymn, noting how disturbed the Headmaster looked—how shattered of nonchalance he was. “Oh. I’m sorry. You told yourself that you were special because you defied him. Because you were studied and skilled in the Eldritch arts to defy and sabotage what was supposed to be your master and slaver.”
+
+Shiv shook his head as he resisted pressing deeper into Hymn’s discomfort and stealing a measure of power and dominance over a figure holding such influence. “I’m sorry, Hades. I think the god you were preparing to fight has died—and continues to die every day. And I think the story you told yourself about yourself and your family isn’t entirely real.” Shiv granted him a bitter laugh. “Udraal hurt me the same way. So. I guess all of us get to build our own legend, but none of us get to live the stories we want.”
+
+Hymn was speechless. Where Shiv stole but a sliver of fear from the Supplicant, the dread he earned from Hymn was thicker than a pillar and harder than adamantine. The way he looked upon Shiv changed. He, more than anyone else in the room, understood the true threat of Shiv, and it terrified him.
+
+A pitch-black shadow loomed over Hymn. It was faint and weak—but ultimately there.
+
+“He will not break easily,” the Harbinger warned. “And he sees us as a threat for the first time. I am not sure if talking to him in such a way was wise.”
+
+But Shiv didn’t regret it, for the Headmaster swallowed and took a step forward, possessed of more urgency and motivation than Shiv had ever seen in him. “Keep going. See… see what else you can find out. Anything else…”
+
+The other Legends watched the unraveling of Hymn’s facade with morbid fascination.
+
+“Holy fucking shit,” Jessica muttered, shooting Shiv a nervous look. “That Harbinger shit’s starting to creep me out, I’m not going to lie.”
+
+“I see why the Myth came for you,” the Culturist said. “I would not allow such a skill to flower in a savage child’s hands either.”
+
+But even freed of the Challenger’s influence, the Legendary orc made himself too easy a victim. “You can only say that shit to me now because before Adam cut your leash,” Shiv replied. “You wouldn’t get to allow anything otherwise. The Challenger would decide everything, and he would be System-damned before he let you steal who I could be away from him. The itch is gone, Culturist, but your scabs are still here. Mind how you talk to me.”
+
+More than dark flames of imbalance weighed upon the Culturist, for his flesh went glossy, and the scars his god had left were shatter-points Shiv could exploit at any time.
+
+“Shiv,” Valor chided softly. “Direct that skill at your true enemy.”
+
+“It is,” Shiv said, a humorless smile creeping across his face. “I didn’t inflict any of these injuries; I just made them real.”
+
+Jessica’s unease grew by another magnitude, and she hissed a curse at his bullshit Chandler blood acting up—but her mind and heart were elsewhere, for it was gratitude that filled her core. He hurt her with his words before, back when the Harbinger was but the Sage of the Enkindled Heart; it would not take much for Shiv to crack her flesh now, with the only reason behind her wholeness a result of her wisdom and his mercy.
+
+“Don’t mention it,” Shiv sent to her telepathically.
+
+“What?” Jessica squeaked.
+
+He didn’t answer, for he had a new victim to bully back Outside…
+
+***
+
+“Missed?” The Stranger’s voice was thick with disbelief. “Impossible. Cannot be possible. I struck you… I tore away everything of my flesh-existence around you.”
+
+“Oh, so that’s what the messed-up vitality mana was.” Shiv grimaced. “Literally ripping chunks out of yourself to get rid of me. I can almost respect tha—”
+
+The Stranger proved himself a terrible conversationalist by attacking before Shiv finished with his reply. This time, the Supplicant didn’t channel a beam of withering time magic or vitality, nor did it send forth a string of offensive spells. Instead, the damned monster vanished in a flash of Chronomancy, leaving but cascading riptides of golden mana in its wake, distorting the surface of reality, and leaving Shiv utterly unable to guess where or when the Supplicant would emerge.
+
+***
+
+“Ah, shit.” Shiv sighed. “It just jumped across time.”
+
+Jessica scoffed. “Felling time magic.”
+
+“Deathless: You must cast yourself into the future as well,” Tulveg suddenly interjected. “It is lurking across time, planning to strike at you when you least expect it.”
+
+“That’s what it’s doing?” Shiv asked.
+
+“If I am reading the temporal distortions it left behind correctly, yes.” Tulveg frowned. “It is admittedly difficult. A creature of that size and with a mana field that deviant might not follow the same lore exactly, but it casts from a lore nonetheless. There is a single constant in a battle between chronomancers: to face an enemy who can swim across time, you must dive and match their pace.”
+
+“Okay,” Shiv breathed. “I—”
+
+Then, without any warning, one of his bodies died.
+
+***
+
+Shiv’s stealth-focused form was ripped asunder by a vortex of temporal entropy. His skin was pinned to the present, his bones were charged with a magnetism that drew him toward his past, while his muscles and organs were struck so hard they were dragged into the future alongside the Supplicant. There was no resisting the attack with Toughness—no forewarning of the strike.
+
+One moment, his body was trying to sink deeper into the garden, flooding the world with Creeping Void, the next it was gone: scattered across eternity.
+
+Shiv hadn’t invested many Shapeless Tides in his expendable forms because this was to be an exercise in focused skill-leveling and creativity rather than a brawl, but something told him even if he'd had years to amass strength and Magical Resistance, it wouldn’t have changed his fate.
+
+The Creeping Void 179 > 185
+
+Inertial Overdrive 355 > 364
+
+Leviathan of the Shapeless Tides 549 > 553
+
+Shape of Monstrosity 182
+
+Atlas of the Flesh Scrierer 140 > 156
+
+Not great, but I got some levels from that, Shiv thought to himself. Alright, time to dive into the time-streams and go hunting for the giant fish trying to eat me.
+
+His Harbinger flared into existence around his sole remaining body in the Stranger’s Garden. Another great thing about the skill was how it could casually jump between all his bodies since it was a mobile mana field, thus removing the need for an animated skill infusion; the only drawback was how he only had a single Harbinger and ten bodies. He splashed into the future as his bound mana field accelerated, turning the present still.
+
+The moment the world halted, Shiv saw it—less than a thousand meters away.
+
+Again, the Supplicant’s terrifying speed took him by complete surprise, and its massive shape came blasting toward him like a warhammer about to splatter a bug. But in that final of moments, Shiv’s body reacted of its own accord, and he didn’t dive Backstage.
+
+Rather, he drew something from the Backstage into the forefront of reality.
+
+The Supplicant came.
+
+Shiv ruptured his own flesh, and from his open wound sprouted a Garden within a Garden. But what came first, before any of the ruins or wounds, was that which the Unique Skill had bound itself to—the grafted hand of a God of Strife.
+
+Where the Supplicant retroactively annihilated Shiv’s other body with a brush, its fingers tried to do the same again—but struck hard against the Red Rider’s Hand. The world went dark. Each of the Supplicant's digits was enough to leave cities drowned in perpetual night.
+
+Shiv should have been wiped from existence like a stain.
+
+But somehow, some way, the titanic Supplicant crashed against an extended fist that was less than a grain of dust by comparison—and it was the titan that stopped dead.
+
+The Red Rider’s Hand, meanwhile, grew brighter, louder, and more animated than ever before.
+
+The Red Rider’s Hand has received sufficient Devotion.
+
+The Red Rider’s Hand has been awakened.

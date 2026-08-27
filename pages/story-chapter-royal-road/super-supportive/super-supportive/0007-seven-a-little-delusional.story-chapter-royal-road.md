@@ -1,0 +1,231 @@
+---
+id: 64bd14b8-22ea-591b-9743-285f21c99d0f
+page-type-slug: story-chapter-royal-road
+title: "SEVEN: A Little Delusional"
+slug: 0007-seven-a-little-delusional
+partOf: super-supportive
+position: 7
+ownLength: 2984
+unit: words
+publishedAt: 2023-02-12
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1112335/seven-a-little-delusional"
+royalRoadId: "1112335"
+---
+
+The courses offered at the consulate were not, for the most part, popular.
+
+There had been a two-week Artonan language intensive that was well-attended during the winter break, but now schools were back in session, and the people coming for extra classes in the afternoons and on weekends were mostly overachievers or geeks of some sort.
+
+The ten o’clock class on Saturday was the only one that was full of relatively normal people. Alden and his friends stuffed their shoes and socks into the cubbies that lined the walls by the lobby elevators and headed upstairs to the small ballroom that served as their classroom. It was packed with other teens and twenty-somethings, and all of them were barefoot except for one girl in a cast.
+
+It was rude to wear shoes or socks in the presence of an Artonan who was teaching you.
+
+Bet she wouldn’t feel that way if she had to be here in person and smell the funk of a hundred pairs of human feet that were sweating in winter boots until a few minutes ago.
+
+Alden took a seat between his friends in the back corner. Just after ten, the huge screen hanging at the front of the room flashed with a symbol similar, but not identical, to the one that always appeared on phones for Alden. And then their teacher was there, her image magically beamed in from another universe.
+
+Even though it was confined to the flat surface of the screen, the video had a strange depth to it. It was almost like watching a moving bas-relief sculpture.
+
+“Good morning, my students,” Instructor Pa-weeq said. Her voice would easily pass for human, and her face…might have. Her bone structure was too sharp, her forehead too prominent, and her pale brown skin had a violet undertone that was a little oversaturated. But the midnight blue facial tattoos were the real giveaway.  “Welcome to our fifth session. Last time we finished our examination of the evolution of sentient life on Artona. Today, we will dance forward to the moment when that life began to understand the magic of the planes.”
+
+She droned on, and the eyes of Alden’s classmates slowly glazed over.
+
+This was “A History of Artonan Life.” Virtually everyone here was taking it for the same reason. Passing the test at the end of the course gave you college credit. And in many cases, high schools would count it toward your credits for graduation, too, so you could double dip.
+
+It probably wouldn’t have been boring in a human teacher’s hands, but Artonans really had a knack for picking out the dullest parts of their own history. Alden had checked the syllabus, and the wizards from space had an entire two-hour session scheduled that focused on the development of irrigation on their planet.
+
+Even Alden, who made a conscious effort to stay conscious in these classes, thought he might struggle in that one.
+
+Today, instead of listening, he wrote “The Gorgon Problem” on top of his paper and passed the time by listing various animal-based foods. When he’d covered everything he could legally obtain and afford, he started a new section and wrote down a list of increasingly unlikely reasons why Gorgon would be unable to request specific food items.
+
+It has to be just a spiteful part of his prison sentence, right? he thought again, looking down at the list.
+
+Almost everything else that could have been a reason would have constituted a significant danger to society. And Alden couldn’t bring himself to believe the Artonans would make a potential nuke work as a desk clerk in downtown Chicago.
+
+The next most reasonable option was that the restriction was to prevent Gorgon from requesting poison and ending his own life. But surely the alien had other ways if he was so inclined?
+
+The third barely logical theory was that Gorgon’s natural diet was something so repugnant that the mere mention of it would cause a public outcry and demands that he be removed from Earth or executed. Like…if human babies were his preferred snack.
+
+Again, that would make him too dangerous to keep around. Plus how would he even develop a taste for human flesh? There shouldn’t be any wherever he’s from.
+
+Maybe it’s just kind of gross and not completely horrific?
+
+He pondered the one housefly he’d seen Gorgon eat. An idea popped into his head.
+
+Live prey only?
+
+I mean, it would be weird if that was it, since he seems okay eating veggies. But he is an alien. Oh…oh, maybe he has to kill animals himself to make sure it’s done right? Like a religious thing?
+
+He just gobbled that fly though…didn’t look like he did anything special to it first.
+
+He wrote down, “Live bugs.”
+
+He could find a pet shop or a bait shop and buy Gorgon some crickets if nothing else worked. Or maybe he should do that first? Confirm the cheaper theory before he dipped into his savings to buy out a butcher shop?
+
+That’s a good way to organize the tests anyway. Start with the cheap stuff, work from there.
+
+When the class finished up, he was busy making a new list entitled “Extremely Cheap Not-Vegan Foodstuffs for Nonhumans.”
+
+Boe kicked Jeremy awake, and the three of them headed to a convenience store to scrounge up lunch. Alden grabbed a pre-made cobb salad, and they ate at a small counter beside the slushy machines.
+
+“What’s something extremely cheap you can eat that’s not vegan?” he asked.
+
+“Is this for your scary murderer friend?” Jeremy asked. “I thought you said he was vegan.”
+
+“Save some of the toppings from your salad for him. That’s cheap.” Boe was squeezing mustard and mayo packets into his Doritos bag like a monster. “Kind of insulting, but cheap.”
+
+“He says he’s not vegan. But he couldn’t eat any of the meat or dairy I’ve offered him so far.”
+
+“I liked him being vegan better,” Jeremy muttered.
+
+“Why don’t you just ask him what he likes?”
+
+“He can’t tell me.”
+
+They both stopped eating and turned to look at him.
+
+“For real. He says it’s part of his prison sentence or something. He can’t tell us anything about Artonans or the System. He can’t make food requests, and when I asked if he only ate bugs he couldn’t even tell me yes or no.”
+
+“That’s weird,” said Boe, frowning down at his chips. “I get why he can’t go around spreading arcane knowledge about the System, but a prohibition on asking for food? Why would that kind of restriction be in place? Now I want to try feeding him stuff.”
+
+“Right? I spent the whole class trying to think of reasons for it. Other than it being a bizarre part of his punishment, I couldn’t come up with much.”
+
+“Maybe he’d ask for something really nasty if he was able to?” Boe suggested.
+
+“Like human blood,” Jeremy agreed darkly.
+
+“He’s not a vampire, Jeremy.” Not that Alden had much ground to stand on since he’d briefly considered the baby-eater angle.
+
+“Blood’s cheap though. If you use your own I mean. No idea what it would cost to buy someone else’s.” Boe used his teeth to rip open another mayonnaise packet. “And it’s definitely not vegan.”
+
+“I’ll take it under consideration. Do either of you know where I can buy crickets?”
+
+“You two are gross,” Jeremy said. “Forget what I said this morning. You’re the gross ones now. It’s official.”
+
+###
+
+After lunch, they split up. Boe was taking a culture class to beef up his transcript, and Alden and Jeremy were taking Beginners Wordchaining.
+
+Jeremy had chosen it because there were no homework assignments. Alden had selected it because it reminded him of his mother, and it might be useful one day. If he ever went to medical school or nursing school like she did…or became a hero like Hannah…
+
+I really am a little delusional.
+
+He’d been thinking lately that maybe it was okay to be. It’s unavoidable, isn’t it? Everyone our age is in waiting.
+
+Sure, it wasn’t likely that the System would choose you. But it might. And until you knew for sure, it was hard to let it go.
+
+In the wordchaining classroom, Alden took his seat on a square pad that was decorated in mystical symbols that did nothing to disguise the fact that it was just a truncated yoga mat.
+
+Jeremy flopped down beside him with an unnecessarily loud oof.
+
+“Today is for our portion of sacrifice,” their teacher intoned. She was human, but it was clear she didn’t want to be. She had very sharp cheek implants and her foundation was leaning toward mauve. “We will begin with the gift of our peace of mind. Please, no shouting this time, Raquel. It doesn’t make the chain stronger. I will come around to monitor your inflection.”
+
+Alden closed his eyes and began to murmur the words that would offer his own peace of mind across the vastness of the universe to some other world where an Opposite would be praying for the gift of it.
+
+In theory.
+
+Artonan healers and priests could tell when it was working. Everyone else just had to hope.
+
+Sorry, Opposite. I’m not super focused right now, so I don’t know if my peace of mind will do you any good.
+
+Beside him, Jeremy was butchering the wordchain with quiet dedication. Alden tried not to smile when his friend accidentally offered his Opposite his actual brain instead of his peace of mind.
+
+Annnnd I’m really not into it today, he thought with a smidge of guilt. It was a waste of time to say the words if you didn’t mean them. There was no point if it wasn’t sincere.
+
+Alden had this chain down thoroughly. And he was in the black as far the peace of mind trade went; he’d done more repetitions of the sacrificer’s half of this chain than of the recipient’s.
+
+Fine to fake it then.
+
+He let his thoughts drift back to himself.
+
+Whatever reasonable plans he’d made might be turned upside down any second now by an extraordinary twist of fate. Or never. Which wasn’t so different from life in general. Lightning could strike you any time. You could find out you were terminally ill. A billionaire uncle you didn’t know about could name you as his heir.
+
+Those things seemed like outside chances, though. And every single day, you heard about some teenager coming into their powers. Social media felt like it was wall to wall young superhumans. It made it feel like getting your own turn was a possibility just around the corner instead of something terribly unlikely.
+
+Yep. Delusional.
+
+The unreasonable longing had been worse since Hannah disappeared six months ago. Alden didn’t realize how seriously he’d taken her opinions about what heroes could and should be until she was gone. He’d thought they were just acquaintances brought together by a tragedy.
+
+But he’d enjoyed hearing from her, and he’d naturally been a little fascinated. She was a person who lived in a different world.
+
+Once or twice, he’d even leaned on her when he needed an adult who was an actual adult. Instead of Aunt Connie.
+
+He’d stopped that when he caught himself calling Hannah for help choosing his classes for his first year of high school. She’d been cool about it, like always. But he’d had a mortifying moment when he hung up and realized he’d literally made a magic phone call to a superhero to chat about his Algebra II anxieties.
+
+He’d promised himself he would pay more attention to boundaries. But apparently at some point he’d started idolizing Hannah, just a little bit, without realizing it. Because now that she was gone, he kept looking around for the particular light she’d given off and finding that it was nowhere to be seen.
+
+“You good, man?” Jeremy murmured, right in the middle of another sacred promise to donate his neurons to an alien in need.
+
+Alden realized his expression must have been grim. He opened his eyes a crack and glanced over at Jeremy.
+
+Maybe he really is the insightful one.
+
+“Yeah, I’m good.”
+
+###
+
+Boe and Jeremy went home at three. Alden hung around for the last class of the day. It was an exhausting intro to one version of the Artonan writing system, which was logographic and required brutal amounts of memorization.
+
+There were only six students. Four of them, including the wordchain teacher, were there because they were pure Artonan enthusiasts. One was a Ph. D. candidate who actually needed to know the language. And then there was Alden.
+
+He’d signed up because he didn’t see any point in going home on a Saturday evening when it would only be him and the cat sitting around together, wondering if Aunt Connie was coming home with fast food for dinner or if she was going to disappear for the night with nothing more than a “Met a friend! You good for tonight?” text to let him know she hadn’t been mugged.
+
+She’d gotten even laxer when it came to parenting since Alden had become a teenager. It was easier not to be worried for her or angry about her behavior if he kept himself busy in the evenings.
+
+He whipped out a six-inch thick deck of flash cards and tried to pound the symbols on them into his memory for two hours while his teacher pointed out the minute details that separated one logogram from the next.
+
+When it was over, his head ached. He went to the bathroom, and by the time he got out, the building was empty except for him. And Gorgon.
+
+He wasn’t eager to head out into the cold. Or go home. So he wandered over to the desk.
+
+“Do you have a room to sleep in? When everybody leaves?”
+
+“No room.” Gorgon stared past Alden’s left ear. “I don’t need much sleep. I just stay at the desk or use the lobby furniture if I’m so inclined.”
+
+Alden folded his arms on the desk and leaned forward to rest his chin on them. In the dimmed lights, the spikes around Gorgon’s neck seemed especially eerie.
+
+“Do you just eat out of the vending machines when I don’t bring you things?” he asked curiously. “ ‘cause I was thinking about it in logographic torture class, and you can’t do takeout. Unless you call and say, ‘Bring food’ without requesting anything specific? I don’t think that would work well, and I bet you can’t order anything online either. I’m not really sure how magic works, but I’m betting the Artonans wouldn’t have left that kind of hole in whatever it is that binds you here.”
+
+For the first time ever, Alden saw Gorgon blink. It was incredibly weird. His eyelids were translucent with dark veins.
+
+“Go home, Alden,” said the alien. “You’re tired and punchy. You don’t need to worry about me.”
+
+“Mmm…I’m not worried. I was just thinking it sucks to be alone sometimes, and you’re alone most of the time. Most people don’t even say ‘hi’ to you when they walk through the lobby.”
+
+Gorgon looked back at his computer screens. “Plenty of humans come to the consulate specifically to see me. I have been extensively photographed, and I’m given to understand that there are plushies of me in at least one gift shop in the city. I’m practically a minor celebrity.”
+
+There was something in his voice. It wasn’t at all the tone an upset human would have, but it was different than anything Alden had heard from Gorgon before. It made him concerned he’d stepped into more painful territory than he’d intended.
+
+He’d only thought of all the social media posts with Gorgon in them as people being idiots. But it was darker than that. Gorgon literally couldn’t get away from a camera. It’s like he’s a zoo animal.
+
+But he didn’t want pity. He’d implied he could smell it. So Alden tried to rein the sudden rush of it he felt all the way back in.
+
+He stood up straight and cleared his throat. “Anywaaay…I’m gonna bring you some crickets next time. Live ones.”
+
+“That will be noisy,” Gorgon said in a neutral voice.
+
+“Not if you eat them quick.”
+
+Alden waited in case Gorgon could drop some kind of a hint.
+
+He didn’t.
+
+“Hey…I don’t know if you can tell me this or not, but you won’t be offended if I bring you extremely weird stuff to eat, right? Because I’m assuming your natural diet must be pretty different from a human’s, and I want to find the right thing. But I don’t want to upset you.”
+
+“Ah, the trials of a cross-species acquaintanceship.”
+
+Gorgon glanced down at the backs of his hands. His wrists were raw beneath the magical bindings. Alden had never noticed that before. “I will not be offended. But, Alden, I truly did not mean to bring up sustenance with you at all earlier. I have appreciated and enjoyed your offerings. If nothing else, they are an amusement in a very un-amusing life. My declaration earlier today— ”
+
+“The one about not being vegan?”
+
+“Yes, that one. It was prompted by…a costly moment of melancholy. It is not a problem for you to solve.”
+
+That was melancholy earlier? Alden had thought he detected sarcasm. And how was it costly?
+
+Well, it would be costly for Alden if he had to start in on the more exotic items on his list of meats.
+
+“I understand. But you really reached all the way for a word like ‘acquaintanceship’ when ‘friendship’ was right there for the taking?” he said lightly. “Maybe I should be offended.”
+
+“You’re still bringing the crickets, aren’t you?” Gorgon said in that deliberately neutral tone.
+
+“Chirp, chirp.” Alden winked at him. “Have a good night, Gorgon!”

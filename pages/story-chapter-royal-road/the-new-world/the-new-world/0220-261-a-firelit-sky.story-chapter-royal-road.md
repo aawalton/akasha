@@ -1,0 +1,375 @@
+---
+id: f2c96ae5-dfbd-500b-8f4a-e00cb39c9b3c
+page-type-slug: story-chapter-royal-road
+title: "261 A Firelit Sky"
+slug: 0220-261-a-firelit-sky
+partOf: the-new-world
+position: 220
+ownLength: 5652
+unit: words
+ownProgress: 5652
+publishedAt: 2020-06-06
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/506450/261-a-firelit-sky"
+royalRoadId: "506450"
+markedReadAt: "2026-06-29T21:28:33.455Z"
+---
+
+We discussed a lot more about the specifics involved with what we were doing on Giess and abroad. I tuned most of it out, feeling a bit numb. That was okay. I didn't want to be fully invested in what I was about to do either way. Tearing the cities of Giess apart would devastate the Adair's cause, no doubt, but it involved killing hundreds of thousands of people.
+
+Those thoughts tumbled in my mind as the deliberation died down. It was midday by the time we finished the discussion, and everyone acted overjoyed. We would save more gialgathens while dishing out more damage. They could think that because they wouldn't be the ones doing damage.
+
+That burden rested upon my shoulders.
+
+I paced towards my room as everyone said their goodbyes. During the night, I'd lay siege towards Agatheo, the next city on Giess. Without anyone else there, I contemplated a few tactics to destroy the city. Repeated Orbital Bombardments, mana bombs, even smothering the city with Event Horizon, these options all popped out to me. One option stuck out, and it was a far more straightforward than those options - throwing rocks. Instead of lobbing myself, I would generate a stone the size of a large cliff and drop it on the city. From high enough up, it would lay waste to the entire region.
+
+Simple. Brutal. Effective. It would be all those things and more. It made the job simple and easy, like pressing a button or pulling a lever. It rested on me with the weight of a mountain, however. No one else noticed my emotional turmoil as I walked towards my room.
+
+In that lonely temple, I prepared myself for the task ahead. All I needed was mana, so I charged crystallized mana stones as I waited. I mapped out the route I'd take to destroy the cities, and they wouldn't last long. If anything, they should've slowed down their hybridization. Because they did it so fast, they unleashed this newfound hell onto themselves.
+
+With my back leaning against a stone wall, I tossed a chunk of crystallized mana into my portal storage. I did this for another hour before a familiar face showed up. She knocked on the open doorway before leaning her head through the opening,
+
+"Hey, anyone there?"
+
+I smiled, a genuine grin, "No one important."
+
+Althea rolled her eyes, pacing in, "Huh? Really now? We can agree to disagree then."
+
+I stood up, and we hugged each other. I held her longer than I expected to, and I let out a deep sigh like I'd been holding my breath. As I pulled back, she kept her hands wrapped around my waist. She raised an eyebrow,
+
+"I won't ask what's going on since you don't look like you want to talk about it."
+
+I nodded, my smile turning sad. Althea pursed her lips,
+
+"Uh, even if I'm, like, super curious."
+
+I widened my eyes, "I'll be destroying a city. Well, cities. I don't know. It's different when I'm doing something with other people behind me. It's easy to stand on the front of a moving ship. Now it feels more like I'm dragging the vessel behind me. It's a lot, even for me."
+
+She frowned, "That's hard."
+
+"Damn right it is...but thanks for noticing. It means the world to me."
+
+"It's the least I can do."
+
+It was my turn to roll my eyes.
+
+"What do you mean? You don't owe me anything. Hell, I'm the reason you're wrapped up in this."
+
+Her eyes narrowed, "That's not true. We all agreed to go to Giess to get rid of our unknown statuses. We all agreed each time you went to do something as well. You never acted on your own. You let us have our say. Besides, you helped me get out from under Yawm's thumb. I'd say that's worth something."
+
+She peered down, losing steam,
+
+"Uhm, in my opinion."
+
+"Well, thanks." I puffed my chest, "I guess I am pretty awesome."
+
+"Okay, I take it back."
+
+"Too late. I'm already feeling better."
+
+Althea phased from my arms, causing me to stumble forward. She popped up behind me, kicking me down. I fell, stopping my momentum with a bit of gravitational manipulation. She pretended to pull my arm back,
+
+"Gotcha."
+
+I followed her lead, acting as if she almost had me. She counted aloud, "One, two-"
+
+I turned us around with a gravitational vortex. We flipped weightlessly suspended before I let us down with a gentle tug. I pushed her down by her wrists,
+
+"Who's got who now?"
+
+She acted as if she was struggling for a second before batting her eyelashes, "Oh no! You've got me. Ahhhh."
+
+She blinked at me. I rolled my eyes while pushing myself up, "Okay, how do you even know about wrestling, anyway?"
+
+She wrapped her arms around my neck, pulling me close, "I've been reading some old human magazines. There are these fake wrestling ones I can't get enough of. They're like...dramas, but all muscly."
+
+I furrowed my brow, "Wait a minute. You like professional wrestling?"
+
+She blushed, "Yeah, so what?"
+
+I laughed before murmuring, "It's nothing. I just didn't expect that."
+
+She shrugged, "They're interesting. One guy called Turbo Slam reminded me of when we met. He's kind of a jerk, but a...lovable jerk, I guess?"
+
+I raised my eyebrows, leaning close to her, "Should I be concerned?"
+
+"What? I'd never go out with the guy. He's way too hairy."
+
+I smiled, "You know who you remind me of?"
+
+"Who?"
+
+"Miss Magisteria. She's a wrestler that my mom loved to watch. We'd always see them on Sunday afternoon after some of the boring football games."
+
+"What was she like?"
+
+"Miss Magesteria loved to act like she's weaker than she is before she turns on her enemy."
+
+"Not her, I mean your mom."
+
+I frowned, "Oh. Her." I furrowed my brow, "That's tough to answer. She died of cancer when I was seven, so I don't remember her all that well. What I do recall is just general 'feelings' she gave me."
+
+Althea leaned close, "Tell me about them."
+
+I cleared my throat while thinking. "So, uhm...Well, she was hard-headed. I remember that much. She had a way of getting dad to do whatever she wanted. She was a stay at home mom, so we hung out all the time. I always thought she was the most fun mom out there."
+
+I peered at the temple wall, "Even though she wasn't the one making money, she was the one that made the decisions. Without her, dad was just...lost, yunno? It was like he poured everything he had into her and their life. When she passed, it broke him. He was never the same after that."
+
+Althea raised an eyebrow, "I've never heard of her or him. Why don't you talk about them?"
+
+"Because those were dark times in my life."
+
+"Darker than facing Yawm?"
+
+I shrugged, "Yeah. Probably. At least when fighting the tree man, I had some choice in the matter. Powerless as I felt, I wasn't trapped. I got to make a few calls about what happened. Even if it was between two terrible choices, I still got to decide in the end what happened to me."
+
+I shook my head, "It wasn't like that with dad. I tried everything, and nothing worked with him. Every time I got close, he would break down whatever relationship we built up. By the time I started avoiding the house, I was sick of him and his constant rants."
+
+Althea put a hand on my shoulder, "That must have been hard."
+
+I sighed, "It was, but I'm not that powerless kid anymore. If anything, I'm like a living nuclear bomb. I have more power than I know what to do with. It's scary sometimes."
+
+Althea peered off, "Yeah. I get that sometimes too."
+
+"It's not all bad, though." I put a hand on her cheek, "I have you now."
+
+She pressed her hand against mine, "Only if I have you too."
+
+"Always."
+
+We stared at each other for a moment, the tense silence anything but awkward. I wrapped my fingers between hers before giving Althea a light squeeze and letting go. I sighed, "You know Miss Magesteria?"
+
+"Yeah."
+
+"I made the name up."
+
+Althea pushed my hand off of her, "Oh come on, don't do that. That sounded like a real name."
+
+I smirked, "That's because any name sounds real in professional wrestling."
+
+"Whatever. They're cool."
+
+She pushed herself up in a fluid motion, launching herself off the floor before landing on her feet,
+
+"I can see you're doing fine. I'll just leave then."
+
+I pulled myself up, hugging her from behind, "Hey, I didn't mean it."
+
+She turned to me, "Really? It sounded like you did."
+
+"I didn't. It's cool you like something like that anyway. We should watch it together sometime."
+
+"What? There are videos?"
+
+"I'm sure someone kept some from before the culling. We can ask around at the home base and find some. It shouldn't be too hard to track some down."
+
+Her eyes lit up like stars in a night sky,
+
+"That would be amazing. You promise?"
+
+I grinned, "For sure."
+
+We hugged each other before she walked towards my door's entrance. With her hips swinging, she flipped her hair on her way out,
+
+"Just remember, Turbo Slam keeps his promises."
+
+I scoffed, "Okay, sure. So would Miss Magesteria."
+
+As she left, a deep sense of nostalgia washed over me. I blinked a bit before relishing the sensation. It reminded me of who I was, where I came from, and when I was a different kind of person. For better or worse, I turned into who I was now. Peering down at my status, I checked the time.
+
+I was almost late.
+
+Leaving with a jolt of gravity, I walked through the hallway, meeting up with the portal specialists from Schema's camp. They carried more scars than when we first met, and their eyes carried bags from sleepless nights. I stood tall above them, and Spear sat cross-legged, meditating in the courtyard.
+
+I called out to him,
+
+"Hey, we're about to get started with Torix's new plan."
+
+As if awoken from the dead, Spear shifted with sand pouring from his frame. He walked over towards us while swinging his spears. I turned towards the others,
+
+"You guys are ready?"
+
+The three warpers nodded. Spear started the portal chain, getting us to the general vicinity of the area. Through the gateway, a lush, humid forest sprawled out before us. I stepped through the portal with a wave of Event Horizon. The life liquified into mana, clearing the area out to the mulch of dead plant matter below.
+
+Shivering a bit, the teleportationists followed suit. Once on the other side, I turned towards an eldritchian rift, the one Spear had once guarded. The dungeon crumbled about a month ago, making way for an opened breach. The entrance towards an icy glacier collapsed, the freezing doorway smashed to powder. This never melting ice spread from the opening and into a jungled expanse.
+
+From this glacier, several densely furred walruses stared at us, icy picks replacing their tusks. They hobbled towards the portalists before I took a step forward. The eldritch's will to fight disintegrated, each of them quivering in fear at the sight of me. They lowered their heads, bowing to me before I culled them with Event Horizon.
+
+One of the warp specialists murmured,
+
+"Damn. I've never seen that before."
+
+I shrugged, "It's been happening since my last, er, evolution." I stared at my arm, "At least that's what Schema called it." I shook off a sense of unease, "Come on, let's go."
+
+The warpers kicked into high gear, layering several portals until we were several miles away from the next city. I didn't read up on the details of it, only knowing it was hidden deep in the jungle. Looking at it now, the gialgathens burned down a section of forest on a steep hill. There stone buildings and outcroppings popped up between trees, the ancient temples covered in vines. It was beautiful architecture, reminiscent of Elderfire, though lacking the same desertification.
+
+Shame what would happen to it.
+
+I rolled my shoulders, "You guys can leave now. I'll send a message when you need to pick me back up."
+
+They nodded, each of them filing out. The chatty one raised a hand as she left, "Hey, good luck out there."
+
+I shook my head, "They're the ones that will be needing luck. Thanks though."
+
+She gave me a begrudging nod of respect, "Alright. Kick enough ass for all of us."
+
+As she left, I stood on an outcrop in the jungle. With a silent rise, I propelled myself using gravity wells, slinging myself over the ancient city. I hovered about 3,000 feet over the woods and stony spires, and I lifted my hand overhead. I didn't need to go any higher for the stone to reach terminal velocity. It would just give the blighted ones more time to react while the friction from the air would eat at the size of the meteorite.
+
+Willing that asteroid into existence, a dark stone formed above my palm, quintessence flooding from my frame. The white aura mirrored a star when viewed from below. They would see a section of starless sky, one blotted by absolute darkness. As the rough, jagged rock expanded overhead, a dark shadow cast over me, concealing my form. It took longer to make than I expected, giving me time to glance at what was beneath me.
+
+I found the Hybrids, their enormous tendrils, and the blighted resting on the tops of buildings and trees. A few dreadnoughts hovered over the expanse, their power cores glowing from the vessel's depths. I stayed out of their sight, none of them the wiser.
+
+By the time I fully formed the rock over my head, twenty minutes passed. The stone mimicked a small cliffside, each end sharpened to speed its descent. This gave it the size and proportions of your average skyscraper. With a few more minutes of crafting, I reinforced the structure with dark steel. This would hold it together on impact, making it all the more devastating.
+
+With the makeshift meteorite finally finished, I lobbed the massive stone towards the ground while following its descent. I pushed it down from above, further speeding it all while accelerating it beyond terminal velocity with gravity wells on the bottom and antigravity wells on top.
+
+This gave it only a few seconds to speed up, but that was all it needed. It crashed through clouds, peeling through the air like a blot of black falling through space. Friction mounted on the surface, red light brimming forth as portions of the stone heated. It only glowed a dim red at the very end. The city remained unaware until the last moments.
+
+With nothing to stop the impact, I lowered my feet onto the edge of the meteorite. Within a second of it landing, I gave it one last push, jumping from the missile. This sped it up while getting me away from the blast radius.
+
+Despite the short fall, the stone created an explosive, apocalyptic detonation. It was like a nuclear bomb, the light on impact more blinding than the sun. The flash faltered a second later, showing an enormous plume of debris launching from the collision. The shockwave leveled buildings, stripping pavement and concrete from the ground. The sound shattered glass before tearing the buildings apart, and even the blighted tumbled like ragdolls under the meteor's might.
+
+The sound reminded me of my own impacts. It was the kind of loud that left your ears ringing as if they couldn't even comprehend how deafening the noise was. The kinetic, thermal wave followed, washing over those in the jungled city like a tsunami of fire and brimstone. This literal hell crashed over them and liquefied their insides while roasting their dead bodies. The espens washed under this debris, some dissolving from the wave of heat while others disintegrated entirely. Even the Hybrids fell to pieces under the strain of the shockwave, their nanomachine laden insides cooking.
+
+The forest surrounding the city of stone rippled with fire and force. It leveled trees miles away, the wind rippling trees off in the horizon. Fires started nearby from heated stones raining across the landscape, each drenching the land in red. Off in the distance, these pieces of rubble crashed like grenades, carpet bombing the forest and its occupants.
+
+I remained in place near the explosion, anchored by gravity and my own body's tenacity. The shockwave washed over me like a warm wind, almost pleasant like a warm bath. Chunks of stone powdered against my steel skin, and the heat left me glowing yellow. This shrapnel blast lasted about a minute before slowing down, my hearing returning as it did. As the dust eventually settled, the Hybrids sprinkled the surface of the glowing debris.
+
+Their charred, broken exteriors showed their orange insides, splattered in the dirt like cooked lobsters smashed into soil. Their shells shattered, they remained husks dotting the carnage, their corpses decorating the land with decay and death. I stayed above it all, The orange glow radiated over my own shining frame.
+
+I grimaced at the desolation. A wave of panic welled in my chest before I shut it down. This was necessary. More than that, this wasn't the only city I had devastated. Even in the scope of tonight, it wouldn't be the last. With my own emotions quelled, I pulled back several miles from the city, reaching our landing zone.
+
+Around me, the entire area flattened, the jungle smothered by the wave of wind. The brush uprooted. The trees fell from the epicenter of the explosion. It was silence besides for a few crackling fires nearby, flames spreading from craters of debris. It was an ugly sight.
+
+As I sent the message to return, the portalists arrived minutes later. Gawking at the utter calamity surrounding them, they added to the silence, the kind of quiet that screams in your ears. It reminded me of Springfield after Yawm's plague killed off the populace. We ended up going from house to house, eliminating all of them.
+
+This would've been much easier and less personal. I hoped other cities pulled through on Earth as stared at what happened to Giess. It made the act of vaporizing these infected cities easier on my conscious. Striking these blows against the Adairs gave us the opportunity to help others further down the line.
+
+It freed up resources to extend our reach, and that would end up helping those we took under our wing. Well, less taking under our wing and more like whipping them into shape, but either way, we were helping them out in the end. The eldritch were a permanent problem. We needed permanent solutions for them.
+
+As the fires raged around me, those thoughts held me together.
+
+The portalists lacked my dread, the silence breaking when one of them whistled aloud. They kept their distance from me, my glowing frame hot enough to ignite their armors and skin. I snapped a finger, a wave of quintessence washing cold energy over me. As it did, my armor screeched with an alien, hollowing sound. The talkative warper murmured,
+
+"By Schema...I'm glad you're on our side."
+
+I rolled my shoulders,
+
+"I am too. Now come on, we've got plenty left to do."
+
+Spear stood beside them, whipping a spear. The electrical buzzing of sheared dimensions rang in my regenerated ears. I seethed,
+
+"One down. Two more to go."
+
+As I stepped through the portal Spear made, I gave one last look at the carnage. Shaking my head with disgust, I hoped we'd get back to helping people rather than killing them.
+
+Only time would tell when that would happen.
+
+*******************************************************************
+
+Phil Williamson -
+
+My eyes opened to cobweb-covered corners and dirty windows. I pushed myself out of bed, the sheets unwashed for years now, so they reeked something awful. Rubbing the tired out of my eyes, I peered around at the popcorn ceiling and the nylon wood walls.
+
+Eh, it was a home I guess.
+
+I pushed myself out of the patchwork sheets, my wife having stitched them back together for the hundredth time. It was better than sleeping with holes in sheets, but I wished we weren't so stingy before the damned apocalypse. I might have some soles on my shoes that weren't glued on if that were the case.
+
+Compared to fighting those eldritch at night, I could deal with worn-down shoes. It was watching everyone else wear down that really tore me up inside. I walked downstairs, the carpet covered steps creaking underfoot like whiny children. I needed to repair the underlying wood with a few nails and some sawed wood boards to stiffen the steps. It would have to wait till later. I was too tired after guarding the house at night.
+
+From outside the windows of our den and kitchen, I saw that night was coming soon, the sun setting. I sighed, a sort of unconscious complaint I didn't mean to make. My pop always told me that a man kept his discontent to himself. I was the man of the house, so naturally, that meant I couldn't whine about anything.
+
+No matter how much I might've wanted to.
+
+That didn't apply to my son, Jason, however. He was a skinny boy, the kind that grew tall before growing wide. It gave him this gangly sort of demeanor only teenagers held on to for long. I couldn't blame him for keeping that same lanky look either; he was only fourteen when the system came and crashed any chance we had at a normal life. Now he wore hand me down coveralls covered in the same patchwork my blankets had.
+
+It always stung somewhere in my chest when I saw them every morning. Day after day, week after week, I wanted to offer him a better life, but I was just so tired every day after keeping our home safe. In the end, maybe I was just lazy. I couldn't tell anymore. It hurt me just the same no matter how I thought about it.
+
+Those thoughts jostled up in my head as Jason stared down at his status, no doubt dissecting the numbers and whatnot. He helped show me what was going on when the system first arrived. I was clueless as a farmer in a stock market. It was beyond me, I tell yah.
+
+For Jason, it came like second nature. He smoothly adapted to it, just like he did phones and touchpads when we first got those too. It was a shame he'd never be a fighter, though. He had the drive, but that didn't matter. These monsters didn't care if you wanted to get better. They'd kill anything near their level, no two ways about it.
+
+That's what ended up happening. I guarded the first monsters that came to our house after we finished the tutorial. We only had one rifle with a bit ammo, and I was the only one that knew how to use it. That got me a headstart on levels, along with a few perks to boot.
+
+Now I was so far overleved over the rest of the family that guarding fell to me always. In some ways, I took pride in defending my family. In others, I exhausted myself with the constant fighting. It would never end, but I could never stop. Otherwise, my family would be butchered like pigs in a slaughterhouse.
+
+Jason didn't take too kindly to my out leveling him either. He resented me for it, even now as I put my hands in my jean pockets,
+
+"Hey, son. It's good to see you're doing well."
+
+He didn't even meet my eye, choosing to stare down at something invisible,
+
+"Sure."
+
+I peered away, finding Margret making dinner in the kitchen. It was simple food, a few herbs, boiled potatoes, and grilled corn for dinner. We didn't have meat in the meal, but that was only for special occasions. It wasn't as if keeping cows around would help much, considering they'd just get eaten up by the damn eldritch.
+
+She was washing dishes in water, no real soap left. I walked up to her, putting a hand on her shoulder,
+
+"How you doing honey-"
+
+She shook like I electrocuted her, her entire body going stiff. A glass plate shattered against the floor as she took a few deep breaths. I took a step back, lifting my hands,
+
+"Are you okay? Did I hurt you?"
+
+She shook her head, "No, no. It's my fault. I'm just a little jumpy is all."
+
+She turned to me as beautiful as the day I met her. Sure, the chaos we lived in meant her eyes had bags under them, but she looked gorgeous to me all the same. She jittered about, gaining a twitch since the monsters roamefd around us. She got that ever since Sally died. Just remembering that made the hole in my chest burn.
+
+God, I missed her so much.
+
+She'd never be back though, so I sucked up my pain and carried on, smiling at my wife,
+
+"Margret, it's just me. You know I'll keep the family safe. I always do."
+
+She gave me a weak smile, "Of course. Of course. I need to pray more is all."
+
+I nodded, "Yup. It helps you calm down."
+
+She grabbed her wrist, covering up scars. She did it without thinking about it, but I noticed every time. I frowned, knowing she had an episode once Sally passed. There was more to her suicide attempt than just her death, however.
+
+After Schema came in and flipped our world upside down, local governments shut down not long after. We couldn't get any of the anxiety medication for Margret anymore. She didn't handle it too well after we talked to a few neighbors and figured out that Sally passed. She was torn apart by wolves in the tutorial...
+
+My poor girl didn't deserve that. No one did.
+
+Margret took the death hardest, though it still left me empty too. Someone had to be strong for the family, and as the man of the house, that fell to me. Jason barely cried, instead choosing to fall into some system games and the like. Avoiding pain wasn't strength. My pop told me that, and I don't know if I ever forgave Jason for not caring about Sally like we did.
+
+Maybe Jason did care, but he could do a lot better job of showing it. That much I knew. I couldn't hate my own son despite that. He worked the farm ever since I took on guard duty. I tried helping for a while, but I ended up exhausted. So exhausted, I began falling asleep as I guarded the house. One time a monster tore three of my fingers off on my left hand because of that. My face was never the same after those wounds, either.
+
+After that, I quit helping out on the farm. It was too dangerous.
+
+Jason hated me for it, but there just wasn't anything I could do. A man could only handle so much, and keeping the house safe was my limit. Our rifle long lost all its ammo, and now I fought with a club I made from scratch. It wasn't the best, but it got the job done.
+
+With the maul, I needed all the strength I could muster. The monsters were getting more robust, and I didn't know if I could handle it for much longer. I'd hold on and die with a weapon in my hand if it meant keeping these two safe, whether they hated me or not. It's what kept me going.
+
+That wasn't entirely true, not anymore at least. I found something that helped me pass the hours during the night recently. I looked forward to it as we finished up a bland breakfast. It was morning for me but evening for the others. The time difference kept them closer yet pulled us apart, and that was okay. I didn't help them for something in return. I did it because it was the right thing to do.
+
+That motivation spurring me, I went out towards the watchtower at the top of the house. I found some crystals in a cave a few months ago, and I used them with a few glass panels to make night lights that never went out. It gave me a good view of what was around, enough to shoo away anything munching on our crops or worse.
+
+It got boring quick, the loneliness setting in like some kind of poison in my veins. Before my thoughts spiraled out of control, I opened up my status and looked up a website. Jason hated watching me do it this way since he said I could do it all with a single thought. I told him this way worked, so I stuck with it.
+
+A 'streaming' site opened up, some confounded alien name. As much as the idea of aliens unsettled me, I couldn't deny they came up with some good stuff. This site was one of those ideas, and it even had a few humans on it to boot.
+
+I checked out a few of the names I liked to watch in the corner of my vision while I prepared for the long night. Settling in, I found streams for dungeon clearing, crafting tools, and even magic. It was useful stuff, though most of it was low-level fodder. The only high-level stream that wasn't restricted by a subscription or credit cost was the Harbinger.
+
+Just thinking about it gave me chills. I was level 400, struggling just to survive. Some monster was out there in the stars above, destroying monsters like it was nothing. It gave me hope that I might be able to get to his level one day. It would be a long time before then, so watching someone who already made it would have to do for now.
+
+I was in luck, too; he was streaming right this second. Tuning in, I watched him overlooking some jungled city at night, the evil Hybrids spread out before him. My eyes widened, and my heart raced as I watched him slam a massive stone into the land. He flattened the whole city like a spatula pressing down on a pancake.
+
+It left me with goosebumps. I thanked the lord that he wasn't against us before the stream showcased an ad for his guild, the Harbinger's Legion. It never mentioned where the guild was, but it did say how to join them. It required a few major hurdles, but it was still a genius move. Who wouldn't want that guy on their side? If they were anywhere near Tenessee, I'd join them in a heartbeat. There were more than just a few issues with joining them right now, however.
+
+They required a screening process along with a training program. Now, I didn't mind the training part. I did bootcamp back in the sixties for Vietnam. If there was one good part about the system, I felt younger now than I did then. Jason could use a good knocking around, and if the guild matched the guild owner, then they'd do just that.
+
+The screening, on the other hand, gave me the heebie jeebies. They needed to inspect your system interface and even your mind. I didn't trust noone going into my head and messing with my thoughts, Harbinger's guild or not. Apparently it was only a 'surface level scan,' whatever that meant.
+
+It sounded like mind control to me.
+
+The other problem was how they handled security. Those kinds of screens and training had to happen at certain locations. If we could get there, then yeah, I'd probably get over my mind screening anxieties. We needed to go towards a nuetral, Schema controlled area before talking to a booth from them. They'd do the scan before giving you a location for one of their camps, wherever they were. For us, that just wasn't doable.
+
+Warping was expensive, and it required a certain level before you could do it. We barely kept afloat with the protection of a house. Traveling meant we'd face all kinds of new monsters, and I wasn't ready for it. God knows Jason and Margret weren't either. They'd be mincemeat without someone keeping them safe.
+
+No, it was much better to stay put until someone came close enough that we could dash over for help. Until then, we would bunker down and pray, all of us stuck out here in the middle of nowhere with monsters roaming as far as the eye could see.
+
+At the moment, none of those monsters were out in the open, so I tuned back into the stream as the ad ended. It showed yet another city, showcasing the Harbinger tearing up another settlement of Hybrids. It left me blown away that anyone could do that, let alone a dang human. Enjoying the excitement, a few hours passed with me watching the Harbinger do his thing.
+
+I peered up from the stream as something rustled in the bushes, an alien creak echoing in the wind. I sighed while tightening my grip on my metal club covered in the horns of some monster I once killed. With a leap, I landed onto the ground with a dull thud, my feet cracking the dirt beneath me. I stared at the yellow eyes staring at me, both our eyes wide with the intent to kill. Several more pairs of eyes opened, more than I could count-out.
+
+I grimaced. It was going to be another long night.

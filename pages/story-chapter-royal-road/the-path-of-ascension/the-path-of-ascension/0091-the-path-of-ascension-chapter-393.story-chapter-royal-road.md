@@ -1,0 +1,303 @@
+---
+id: 68cd7657-aff2-5dc5-9e99-3f6172abda03
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 393"
+slug: 0091-the-path-of-ascension-chapter-393
+partOf: the-path-of-ascension
+position: 91
+ownLength: 5031
+unit: words
+ownProgress: 5031
+publishedAt: 2025-03-07
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2111861/the-path-of-ascension-chapter-393"
+royalRoadId: "2111861"
+markedReadAt: "2026-06-29T19:20:51.774Z"
+---
+
+Chapter 393
+
+Alice’s heart raced as she appeared in a medical room.
+
+She had heard about them when others who had ‘died’ returned to the ruin after the month-long penalty wore off, so she expected the top of the line equipment and Tier 20 healers moving to start healing her. But she only had one question.
+
+“How long?!?”
+
+The AI virus had shut down her AI, meaning she and everyone else hadn’t been able to tell how long they had been holding on for.
+
+They had just kept chanting the mantra of ‘one more minute’ and she felt she had lasted long enough, but also knew that it would have been close.
+
+Victory or defeat had been inadvertently decided by how long she had lasted.
+
+Or not necessarily defeat, as their side still had people inside the ruin who might be able to dislodge the Corporation mercenaries left in the boss room, given how few there had been at the end.
+
+Still, it would be painful to know she had personally fumbled the ball right at the finish line.
+
+The immediate lack of celebrations hit her like a lead weight in her stomach, but she tried not to let the feeling get to her.
+
+Her Concept was exhausted and that left her feeling melancholy, which made pushing the negative thoughts away harder.
+
+The five minutes it took to repair her body felt like a century, but at least the healers did something to reset her AI so it would work again. Once she restarted it, she could start checking in on the situation outside.
+
+As she pulled herself up into a sitting position, she looked at the door and debated how long she could delay the healers so she could keep it closed, therefore cutting herself off from the rest of the planet.
+
+As she was contemplating how to manage that, the door was kicked open and Ascender Wraith walked in shaking a bottle of champagne, causing bubbles instead of foam to fly everywhere. The healers started to glare, but those expressions froze when they noticed both who was making the mess and that there wasn’t a mess to be had, as the bubbles just turned into ice that vanished before it touched anything.
+
+Alice’s heart started to hammer in her chest as she saw the smile Wraith shot at her.
+
+“One minute and twelve seconds.”
+
+Alice’s brain had just started to understand what was going on when she registered what Wraith said.
+
+“Wait? If it was that far over, then why didn’t you guys pull me out then? I wa—”
+
+Realizing who she was yelling at, Alice’s teeth clacked together.
+
+Titan and Legion, who slipped in as Wraith moved forward, laughed at her remark. But Legion was the one to answer. “And deprive you of your chance to expand your Concept like that? No way. You believed that everything rested on your shoulders, and so pushed yourself beyond your limits. Once you recover, you will notice a sizable increase in your harmonization with your Concept. For that final minute and twelve seconds, you truly embodied your Domain.”
+
+Titan laughed as he stuck a champagne glass under the bottle Wraith still held and presented it to her once it was half full.
+
+“First drink to the lady of the hour.”
+
+Alice felt herself flush, but with only a slight tremble she’d blame on her empty willpower when she retold the story.
+
+“Thank you. I…” Alice had no idea what to say, but the Ascenders didn’t press and gave her a moment to collect herself. “Just thank you.”
+
+Wanting to cover her awkwardness, Alice took a swig of the champagne, not sure what to expect with Wraith playing with illusions. Instead of anything unpleasant, she found it was a very tasty floral drink that was good enough she'd buy it if she ever saw it on a shelf.
+
+Titan rubbed his hands together. “And now the fun part. Rewards. You and everyone else in the final room basically maxed out the rewards scale. Any idea of what Tier 20 skill you want, or would you rather have something else?”
+
+Alice had thought about what she wanted a dozen times, as had everyone else. In any downtime where two or more people were together, the conversation inevitably went to what they wanted from the game. It was half hope and half distraction from being trapped in a cave like ruin for months on end.
+
+It at least let her have an immediate answer.
+
+“[Will of the Millennium Oak].” Realizing she had just asked for an incredibly rare skill, she immediately tried to back track. “I can um—”
+
+Ascender Titan laughed and flipped over his hand, revealing a sparking skill shard. “No, that's a good choice for you. I’ve been collecting some for a future experiment so I have a few in my skill ring, so we don’t even need to send for your reward.
+
+Alice almost wanted to complain about how Ascender Titan casually implied he had multiple copies of [Will of the Millennium Oak], let alone that he was seemingly planning to waste them on an experiment.
+
+[Will of the Millennium Oak] wasn’t the rarest Tier 20 skill, but it was up there, being an incredibly valuable skill for both melee and ranged fighters thanks to it boosting one’s durability, regeneration, stamina and mana regeneration. Its powerful rooting effect greatly limited its usability in combat for most people, but for those like her who preferred to stand her ground it was a further bonus not a deterrent.
+
+If used in conjunction with healing spells, its regeneration effect multiplied. When paired with the increased mana generation, one rarely needed to pay for healing, which would greatly reduce her costs going forward.
+
+Skill in hand, she blinked at its shining facets before looking up and once more, thanking the Ascenders, who then went to mingle with the rest of those who had fought for the planet.
+
+Alice found her bag sitting next to her bed and quickly leaned into it, digging through her accumulated junk to find a bracelet that would lock the skill to her skin and started absorbing it.
+
+The moment she stepped out of the makeshift hospital, she was mobbed by people congratulating her, but that was nothing to the masses trying to get close to one of the three Ascenders who were moving through the crowd, trying to spread out.
+
+Before she could do more than accept a few congratulations, the ground trembled slightly and a massive building started to appear as if it grew from nothing, but Alice could feel the stone deep in the ground moving and flowing like water until it reached the surface where it solidified.
+
+Ascender Titan waved everyone inside, even as the building started to become more opulent with each wave of Ascender Wraith's hand or shake of her tail, until it looked like a ballroom out of a movie.
+
+Then, if that wasn’t enough, food, delectable food that grabbed everyone's attention, started to appear on the tables that grew from the floor.
+
+It was hands down the best food she had ever tasted, and that wasn’t even just because she had been mostly eating field rations or whatever one of her fellow Tier 15s had cooked, if she had eaten at all. It was really that good. Someone near her commented between mouthfuls that it had to be cooked by a Talented chef, which honestly made sense to Alice, as the food both tasted amazing and also had regenerative properties. Every bite seemed to make her willpower recover from the intense fight faster than it would have otherwise.
+
+Once the first plate of food was devoured, she had to fend off people wanting to congratulate or otherwise schmoose with her. It was quite fun to see people who might have otherwise not given her, a solo delver with no renown, their full attention, now try to attract hers. She took even more pleasure when Olivia apologized for selling her rift slot out from under Alice, but the sting of that loss was long gone with her current rewards.
+
+Most people tried and succeeded in talking with the Ascenders, which started all kinds of gossip, but what surprised everyone was just how personable they could be. It only led to everyone swapping stories about their encounters like badges of honor.
+
+Not that anyone could beat her, with all three Ascenders personally congratulating her.
+
+Alice was moving to snag another plate of the divine food when her AI notified her that she, along with everyone else who held the final room, were invited into a separate hall to receive their rewards. Seeing that last bit of information, she was going to ignore the message, having already gotten her reward. But when she continued to the plate, she found herself hit with a dusting of ice and found herself in a small but well lit room.
+
+Legion smirked at her stumbling arrival. “Now that you are all here, we wanted to extend an offer to all of you directly involved with the final defence. All of you fought to the last, and we appreciate that. To that end, we are offering tax exempt delving slots on our ducal capitals when you are of the appropriate Tiers to delve them. That’s a straight shot from Tier 21 to Tier 30 if you play your cards right.”
+
+The phoenix on her shoulder squawked lightly, and just like that, the Ascenders vanished.
+
+***
+
+Matt flopped into the comfortable couch with a groan that turned into a grunt as Aster dropped into his lap in human form, transforming just a second too late to make her form small and fluffy.
+
+Phoenix Liz joined her on his lap, even as human Liz slipped in next to him with her own long exclamation.
+
+“I don’t even necessarily hate mingling, but that was brutal.”
+
+Aster yipped her agreement, not even bothering to say actual words.
+
+Thankfully, the world had been secured and they were able to relax on their trip back to their ducal capitals. Sure, they would have to do some paperwork, but it wouldn’t be that bad.
+
+Just a few minutes later, Matt felt the ship pull into chaotic space and he let out the last of his tension.
+
+The three of them just decompressed for almost a full hour, but got to work formatting their reports for when they got back to Empire space.
+
+Matt was hoping one of the royals would allocate the world to his duchy temporarily, as he was requesting for his guild to study the ruin, but he knew he wouldn’t be getting the world itself. That fact still seemed to be a sore point for Duke Plessi, who was undoubtedly sending his own entreaties to the Royals, pleading his case to keep the world.
+
+Their ship entered real space on one of the border worlds just long enough to sync their messages when Matt got a message from someone he didn’t expect to hear from so soon.
+
+Aunt Helen. ‘I hear the three of you are in this sector of the Empire. I’ll be on Raxuul for another year and a half or so. Come by and say hi if you have the time.’
+
+Matt didn’t need to think twice and immediately contacted the others to find they were already in agreement, and they changed their course to visit the world in question.
+
+It wasn’t even too far out of their way, adding only a month to their total travel time.
+
+Raxuul was a normal enough world, ordinary for its Tier 5 cultivation and mortal industries, and a cursory scan didn’t reveal anything of note for why Aunt Helen would be visiting the world, but that wasn’t surprising.
+
+Leaving their ships in deep space where they wouldn’t be noticed by the mortals, Matt, Liz, and Aster [Portal]ed just a mile above Aunt Helen's restaurant, where they found her in the back already cooking.
+
+Except, she was cooking for the restaurant with the other chefs who scurried to not get in her way.
+
+Looking up, she smiled and waved, inviting them in.
+
+As they floated down, Matt looked off to the side where he found one of Aunt Helen's identical bodyguards, who dropped their invisibility just long enough to acknowledge him before vanishing once more.
+
+Matt took a few moments as he entered the restaurant to ponder who was acting as one of Aunt Helen's uniform guards, despite the futility of the action.
+
+As a young Tier 4, he hadn’t known what the identical bodyguards signified, but now he had a much better understanding.
+
+Aunt Helen was old. Really old in fact. Because of her shattered Concept, she was stuck at the peak of Tier 24 and unable to advance. But that didn’t mean she didn’t live a normal life, which meant also accumulating wealth.
+
+With her motherly nature, she had attracted her fair share of people with bad intentions who would take what she had, rather than work for their own resources. People she had helped when they were young, similar to how she helped Matt with his mana concentration problem, had rightly taken offence.
+
+Killing people, especially people who were ballsy enough to steal from Aunt Helen, came with blowback, as they usually had their own backing. And so eventually, the people she helped started acting as Aunt Helen's bodyguards as they reached Tier 45. To circumvent anything following them and to free themselves from hesitating, they had started body morphing into identical people, which meant the next time someone offended Aunt Helen, the person in question died. And if their family or friends wanted revenge, they would need to go after Aunt Helen directly. A foolish proposition, given the level of protectors she had with her at all times.
+
+It was a move Matt wholeheartedly approved of, given her Tier and level of connections. Though he was glad that was mostly a thing of the past, as the Sophron dynasty had put a stop to attacking down Tiers like that.
+
+The Red Feather Inn was similar to all of the others he had visited, and they were easily able to make their way to the private kitchen set up in the back, which was always reserved for Aunt Helen's personal use should she come to town.
+
+As they entered, she used her spiritual perception to say, “I'll be back in twenty minutes or so, once the rush ends, and cook you three up something special. Just hang out until then, ok?”
+
+Instead of listening, Matt went behind the counter and started rifling through the drawers, pulling out ingredients and starting a soup he had been wanting to cook since he thought about it during their delve.
+
+He was just getting the stock to simmer when Aunt Helen entered the room and tsked at him. “Naughty naughty, Matthew. I know I said I would be doing the cooking. I haven’t been able to cook for you three since the war ended.”
+
+After she hugged both Aster and Liz, she rounded the breakfast bar into the kitchen proper and swatted him with a towel.
+
+Matt winced, not because he was playing it up, but because her form had been impeccable and she had hit him right on the back of the hand on the thin bones.
+
+“Hey, that's going to smart!” He complained even as he was pulled into a hug by the oldest phoenix.
+
+“Then maybe you’ll learn to listen. And besides, I know how strong you are. If you wanted to, I’m sure you could have dodged.”
+
+“Ah, but then I wouldn’t be able to complain, now would I?”
+
+Aunt Helen hip bumped him out of the way even as she chuckled. “I won’t dignify that with a response. Instead, let's check what you were cooking. Avgolemono chicken soup with rice? It's a good first dish. You’re lucky, mister. Now start chopping onions and mince some garlic.”
+
+As he got to work, Aster asked, “So what brings you out to this region of the Empire?”
+
+Aunt Helen’s knife didn’t slow as she responded, “I’m not quite sure yet, but I’m sure it will appear in the next few months, or it might have just been a false alarm.”
+
+Liz pressed a hand to her chest. “Are you saying you didn’t come all the way out here to see us?”
+
+Aunt Helen snorted. “If I wanted to see you three, I would just tell you to come visit. That said, why have none of you come to visit since the war ended? I’ve been sitting at home worrying myself sick.”
+
+“I’m not sure I buy that.” Matt said around a bit of onion he was tasting. Too sweet, and so he got a different variety out of storage.
+
+Aunt Helen cocked her head at him. “Are you saying you wouldn’t have come if I requested? How painful it is to learn where one stands in others' hearts.”
+
+Aster put her hands up. “That's not what Matt means, and if it was, we’ll throw him out and get a new Matt.”
+
+That earned her a laugh from the older phoenix. “Hah! That said, I genuinely don’t know why I’m out here. I only have a feeling that I should be on this world for a little more than a year and a half. My Concept is still broken and its feedback is fuzzy at best.”
+
+Liz leaned forward to ask a question, and her phoenix took the opportunity to hop off her shoulder and attempt to scamper onto Aunt Helen's shoulder. Only to immediately get plunked in front of the sink, where she was expected to wash her claws and beak before she was allowed into the kitchen proper. “How is your Concept restoration coming along? Last time we asked you just said soon, but there have been a few ascensions since then. You have to be close, right?”
+
+Aunt Helen shrugged as if she was unbothered, but her knife slightly sped up its chopping even if her cuts were still perfect, giving away her nerves. “It is what it is, but I will admit to being a little bit in a hurry. I’m close. Two, maybe three ascensions and I’ll have pieced my Concept back together.”
+
+Matt stopped his own chopping and, in his most sincere voice, said, “That's amazing. I’m super happy for you.”
+
+Aunt Helen gave him the sweetest smile as she said, “Thank you, Matt. I’m excited, myself.”
+
+She also slipped phoenix Liz a piece of the ham she had been slicing, to the bird’s happy bounces.
+
+Aster bounced in her seat like phoenix Liz. “Hey, we will be close in Tier then, so we can take you delving. That could be fun. I bet with your age and lack of things to do, you are a secret Ascender level fighter, aren’t you Aunt Helen?”
+
+Aunt Helen paused her preparation to stare at Aster for a long moment before she burst out laughing.
+
+“Oh, that's funny! Aster, I can assure you nothing is further from the truth. At best I’ve kept myself from backsliding with the help of some delves to liven things up, but I’ve delved over my Tier a handful of times in my life. Being able to safely advance is more than enough for me.”
+
+Matt pursed his lips. “I’ve got to admit, I’m not sure I believe you.”
+
+Aunt Helen huffed and turned up her nose, an act which phoenix Liz copied and got a mushroom for.
+
+“I have no reason to lie. That said, I appreciate the offer to delve with you, but will have to decline. After my time of being stuck at Tier 24, even moderate advancement will be a good change of pace. One Tier every few thousand years at most. I feel no need to rush.”
+
+Liz slapped the table. “Ah ha! I got it. You secretly have a dozen inspirations ready to go the moment you fix your Concept and will rocket up to Tier 45 in a matter of minutes.”
+
+Aster disagreed. “No, I think she secretly has a full set of essence stones already lined up so she never needs to set foot in a rift to advance all the way up to Tier 45.”
+
+Matt was thinking of his own ridiculous answer when Aunt Helen interjected. “I think you three are forgetting that I can’t even hit Tier 25 until I both fix my Concept and create my Intent.”
+
+Matt shook his head. “Nooo way. Are you saying that you don’t have your Intent already figured out? I don’t believe that for a moment.”
+
+When everyone stared at her, even phoenix Liz from just inches away, Aunt Helen finally caved. “Ok, fine. I have a pretty good idea of what my Intent is, but it might not be correct. I can’t really resonate with it without a Concept. That said, my advanced age, yes thank you for reminding me of that you three, has given me some advantages. And I’m pretty sure I know what it is.”
+
+That made sense to Matt, and the three of them silently agreed to stop pestering her about her advancement. Instead, they let the conversation turn to them and what they had been up to since the end of the war.
+
+Aunt Helen was a great listener and listened to all three of them ramble about their passion projects.
+
+“You know the aura has been making quite the impact, Matthew. I’ve seen quite a few people who were, how to put it nicely? Very stuck, finally advance.”
+
+Matt sighed at the reminder. “I just wish we could figure out reliable ways to make higher Tier aura rifts. It's so hit or miss that we only have a few of the rifts producing aura, and it's so dilute thanks to how many monsters there are. It's a lot slower and way more expensive to collect per mana spent on feeding the rift, and we still haven’t gotten one even close to Tier 14.”
+
+Aunt Helen grabbed his arm and stopped him from stirring until he looked down into her eyes. “Don’t let perfect get in the way of good enough. Those higher Tiers who would otherwise be dead from old age won’t care what will cost them because it's opening up immortality for them. They will just be glad they didn’t have to enter Minkalla as a last resort. Take the victory for what it is. And besides, the new generations simply won’t need them. So while not perfect, it's good enough.”
+
+Matt wanted to object, but pheonix Liz squawked at him and human Liz piled on. “Good luck, Aunt Helen. His skull is too thick to get through, as I've said the same thing more than once, but he still feels bad.”
+
+Aster, at least, was going to defend him if the feeling through their bond was any indication. “Yeah, Matt is dumb.”
+
+Or not.
+
+Glaring at his bond, he only got a cute pose for his trouble.
+
+Sighing, he patted Aunt Helen’s hand. “I know that logically, but that doesn't stop me from feeling like I could be helping more people.”
+
+Not letting go, Aunt Helen asked with a sharpness to her tone that he wasn’t used to, “How?”
+
+“I—”
+
+“How would you have done more, Matthew?”
+
+“I don’t know but —”
+
+“Don’t give me that Matthew. No, you are implying that hiding your Talent is what is stopping the production of stable higher Tier aura rifts. You can’t set yourself on fire to make other people warm. That's a phoenix’s job.”
+
+Her attempt at levity didn’t quite land, but Matt appreciated the attempt.
+
+Still, she was wrong in her assumption.
+
+“It's not actually that. Believe it or not, I don’t want to make my Talent public, even if I knew I’d be safe and there were no repercussions. Well, maybe I would so I didn’t have to bother laundering the money, but that's not why I feel bad. It's got more to do with my time, or rather lack thereof, to do things like work on higher Tier aura rifts. That and deal with the assholes trying to disrupt the guild’s efforts.”
+
+Aunt Helen let him go with a soft repentant smile. “Well, look at that. Even at my age I got egg on my face. That's what I get for making assumptions. That said, I heard about the little kerfuffle with the guild and the patent. Sorry that is happening, honey. I hope it's resolved in your favor sooner than later. As for the time thing, yeah that's always a problem, sorry to break it to you. Even with endless life, there seems to always be something that needs to get done before the things we want to do.”
+
+“Thanks, Aunt Helen. I know you just have my best interests in mind, so I do appreciate it. I just… ugh, I don't know. I’m no expert in aperology, I know that. The researchers at Titan’s Torch are a dozen times better than me, but I like to consider myself a pretty damn good artist in the field. Maybe if I had more time to dedicate to aperology, we might have come up with a way to better stabilize the rifts as they advance in Tier, instead of just relying on brute forcing the odds to Tier them up and wasting a ton of resources to manage it. I just need time to be able to dedicate myself to the effort, and maybe I could have figured something out.”
+
+Aunt Helen snorted. “Sorry, it's just funny. I remember a man who was always saying that same phrase ‘dedicate myself to the effort’. Victor Bab’s was his name. He spent nearly a thousand years slamming his head against a problem.” Aunt Helen pursed her lips as she thought before she shrugged as she went back to stirring. “Frankly I don’t even remember what the problem was, exactly. It's been so long. This was shortly after the shattering and before the reconstruction and reunification wars happened. Ah that’s it, I remember now. He was working on something with bacteria and spent so much time trying to figure it out that he eventually forgot to work on his Concept, and then didn’t have enough time to figure it out. Near the end, he endlessly complained about not having enough time. Poor man.”
+
+Aster flicked her ears in confusion when Aunt Helen just stopped speaking, and started humming along with her cooking. “Wait, is that all? I assumed that was a parable or some kind of lesson to teach Matt the importance of cooking for his family, instead of doing silly aperology work. I could really use a hand in the ice cream factory, and that would have been the perfect segue into that.”
+
+Aunt Helen shot her a side eye. “Not everything has to be a lesson, dear. I just wanted to share a memory I had that was similar. Is that so wrong?”
+
+Aster wilted, putting on her best puppy eyes. “No.”
+
+Aunt Helen nodded and stuck a piece of lamb that was still sizzling onto a fork and shoved it into Aster's direction.
+
+“Tell me if this needs more seasoning.”
+
+Aster happily devoured the treat, just to proclaim it awful and that she needed another taste to see if it was good enough to serve to the rest of them.
+
+That got phoenix Liz to start lightly flapping her wings, trying to get her own taste, but Aunt Helen seemed immune to the feathers impacting her own, and Aster’s weedling alike.
+
+“Speaking of your ice cream, Aster, I really liked the summer in winter blend you did. Those were some inspired choices to pair together.”
+
+Aster beamed at the complement. “Thank you. We worked hard on getting that one right. The Day at the Beach was my personal favorite, and I've been thinking about how I want to bring that one back in a few years.”
+
+“Oh no, I would wait at least a decade before bringing that one back. It was too unique and interesting to bring back immediately. It's the same thing I do with signature dishes. Once a decade is about perfect. Enough that even immortals feel the wait, but not so long that mortals can only try it once. It also means it can make for a good gift if needed.”
+
+Liz mock gasped. “Aunt Helen, are you implying that you deliberately make false scarcity in your meals so you can then give them out as gifts.”
+
+Instead of being embarrassed, Aunt Helen nodded firmly. “You're damn right!”
+
+That earned a round of jeers, but Aunt Helen was unapologetic in her stance, which was a fun new angle they had never seen from her before. The conversation turned jovial after that, and just before the food was served, the conversation turned to Liz’s bloodline research facility and the work they were doing. Aunt Helen even teased about how she knew of people who had done one of the many things Liz’s people were trying to create, but how they had never shared the method, making Liz positively heartbroken.
+
+The food was as always divine, just like everything Aunt Helen made. They started with Matt’s avgolemono chicken soup with rice and paired it with stuffed grape leaves. Their main course was braised lamb over orzo, finished with a very light and flakey fish steak. Their dessert was a simple but delicious apple pie, paired with some ice cream stolen from Aster's personal stash. The Day at the Beach, at Aunt Helen's request.
+
+By the time they were finished, Matt contemplated if he could do the dinner justice if he made it all himself.
+
+Aunt Helen just had the invisible it factor that made all of her food taste better than if anyone else, even Talented cooks, made it.
+
+It felt a little corny to admit, but she made the food with love, and that was impossible to match with magic.
+
+It was the family touch, even if it was found family.
+
+But that was what made it special.

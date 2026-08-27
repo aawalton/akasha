@@ -1,0 +1,169 @@
+---
+id: e593b986-c583-55ea-be32-d0d91f2e034d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 113 – The Man with the Manic Glint"
+slug: 0113-chapter-113-the-man-with-the-manic-glint
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 113
+ownLength: 1958
+unit: words
+publishedAt: 2026-04-22
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3303615/chapter-113-the-man-with-the-manic-glint"
+royalRoadId: "3303615"
+---
+
+"Look at what?" Cee looked at Liora skeptically, then at the book. She did what Liora was a spider equivalent of a gasp, albeit sounded more like weird snort. "Arachne?"
+
+The book had flipped open on a page where there was a drawing of a monstrous spider, clearly much larger than Cee. However, the most surprising part was that the upper part of the spider had the torso of a human woman. To be honest, the creature was rather horrifying despite the human half. Cee looked far less threatening the way she looked now.
+
+But the spider clearly didn't share the same sentiment as she stared at the page in awe. "Look, Liora! This spider is actually half-human."
+
+"Wow, I've never actually met this monster before. They must be incredibly rare," Renir noted.
+
+"Read the page," Liora urged.
+
+Cee nodded and read it aloud for everyone to hear. "Arachne. Tier 5 monster. Extremely rare and violent… creature. Arachne are known to disguise themselves as human women and lure men into their webs using their beautiful human upper body. Once the prey is caught they proceed to… inject them with their stomach acid… and wait for the victim's insides to dissolve. Once dissolved they… suck up the formed liquid…"
+
+There was an eerie moment of silence.
+
+"Uh…." Liora muttered. "I can see why this isn't talked about much."
+
+Cee waved her front legs in the air. "This is horrible! Even if this is half-humanoid, it's clear that the people would not treat me nicely if I became the arachne."
+
+"The diet doesn't sound fun either," Liora noted.
+
+"Am I bound to forever be a spider? If I evolve into this arachne, people might hunt me out of fear," Cee groaned.
+
+"Yeah, that's quite a real possibility," Renir confirmed.
+
+"You're not helping!" Liora snapped.
+
+"Well, what else am I supposed to say? You can simply stay out of sight while you are in that awkward transitional stage. I'm quite sure that the next evolution after the arachne must have the option to… lose more spidery bits," Renir said.
+
+"But that will take forever…" Cee whined.
+
+"No longer than breaking my seal," he shot back. "Besides, there might be other transitional stages we're not aware of. Monster evolution isn't a straight narrow path. It's an ever-changing tree which adapt to each individual. Do you really think a bird like Liora exists?"
+
+"No way! I'm one of a kind," Liora announced proudly.
+
+"Yeah, because there's no way there is anyone else obsessed with shinies as much as you are," Renir said.
+
+Cee seemed to settle down a little, walking back up to the book and inspecting the picture again. "The human half looks quite pretty."
+
+"Yeah, it is. Maybe we can find a way to hide the lower spidery part. Maybe cover it and call you a fat centaur?" Liora suggested.
+
+"That's actually not such a bad idea…" Renir hummed.
+
+"I don't want to be a fat centaur!" The spider protested.
+
+"Hey, that's better than being hunted," Liora said.
+
+They continued their banter for a while longer, until Liora decided that it was time for her to head to sleep. Cee and Renir remained awake for a bit longer, discussing the contents of the book and possible ways for Cee to unlock the arachne evolution in the first place.
+
+The next few days continued as per the routine. Liora healed fully corrupt people while Cee slept during the first half of the day and read her book until the evening when Liora was done with her work. After that the spider and Renir set out to work on her magical training.
+
+Renir wanted to involve Liora in the training too, but by the time evening came around, she was too tired. Not to mention that her mana was completely spent. She was surprised that Renir could keep going since he had to help her guide the mana each time she healed the corrupted people.
+
+But apparently, it was becoming easier for him as Liora was naturally picking up on how to control her magic. That was all the excuse she needed to spend the evening napping while the two continued their magic lessons.
+
+One evening, after Liora had already dozed off, she was woken by Cee's excited shrieks.
+
+"We did it! We did it!" Cee shook Liora awoke.
+
+"Did what?" Liora fluffed up her feathers in annoyance. She didn't like being woken up so abruptly.
+
+"Unlock my Inventory!" Cee declared proudly.
+
+"It was rather difficult. I had to force the System a little bit and Cee had to use nearly all of her mana, but thanks to her improving magical prowess we managed to unlock her Inventory," Renir explained.
+
+"I'm surprised it took this long," Liora said, then eyed the spider suspiciously and jumped straight on top of Renir. "You can't have him!"
+
+"I am not your possession!" Renir protested, his voice sounding muffled from underneath her feathers.
+
+"Relax! As it turns out, I can't even put Renir in my Inventory," Cee raised her front legs in an approximation of a shrug.
+
+"So you already tried!" Liora accused, but quickly relaxed. "But how come?"
+
+"I do have a theory," Renir muffled. "If you would get off me, I would be glad to explain it."
+
+Liora did get off Renir, watching the gem curiously for the explanation.
+
+"I believe the reason for this is the fact that I'm exactly a rock anymore. One of my seals was broken and I am able to use some of my magic now, albeit just a miniscule amount," he said.
+
+"That doesn't stop Liora from putting you in her Inventory," Cee pointed out.
+
+"It's different from Liora because she has been keeping me in her Inventory for a long period of time. It's likely that we are more intricately connected now as two beings. After all while in her Inventory, we are able to essentially read each other's surface thoughts and feel each other's emotions. The system might be recognizing us as a singular entity to an extent," he explained.
+
+"That's weird…" Cee muttered.
+
+"I don't think that makes sense," Liora said. "We're not a single person. We're two people."
+
+"Yes, but my point is that we are much more closely linked than any two individuals would normally be. But this is all just a theory. These things are always rather vague, so guesswork is best I can offer," Renir said.
+
+"Well, in either case. I have Inventory now where I can store my book." Cee gleefully put her leg on the book and made it disappear into her Inventory. She then made it appear again, and then disappeared. The spider kept playing with it for quite some time.
+
+"I'm glad you're happy," Liora noted, still a bit bitter for being woken up. Then she remembered something and with the Bracelet of Four Elements from her own Inventory, pushing it closer to Cee. "Here, take this."
+
+There was a moment of silence as Cee stared in Liora with apparent shock.
+
+"What?" Liora questioned.
+
+"You're actually going to give me… one of your shiny things?" Cee asked.
+
+"But you're the one who has the elemental magic. You're the one who can make use of it. Sure, I like shiny things but not to the point that I would deny that this bracelet would be more useful for you than for me," Liora shot back. "Although, I'm not sure where exactly you'll equip it."
+
+Cee tentatively picked up the bracelet, watching as it slid down her leg. It was just dangling awkwardly, moving around with each step Cee took. Any faster movement would undoubtedly knock it off.
+
+"Why don't you secure it with a thread?" Renir suggested.
+
+Cee then proceeded to make thread and try to figure out the best location for the bracelet. Liora watched for a little bit, mostly just to admire the pretty bracelet but eventually drifted off to sleep.
+
+After a few more days of intense healing, Liora reached Level 30 and unlocked a whole new trait.
+
+[You've unlocked a new trait – Predator of the Deep]
+
+[Predator of the Deep – While fully submerged, your movements create minimal turbulence, sound, and mana disturbance. Creatures that rely on vibration, current-sense, or aquatic mana detection find it significantly harder to track your position.]
+
+Now I can be stealthy underwater!
+
+This is really useful. Most underwater creatures actually rely on more vibrations and sounds to locate their enemies and prey, especially those living in murkier waters.
+
+At this rate, I'll feel as comfortable in the water as I do in the air.
+
+It'll certainly help us get to the water mana node. That will most certainly be located somewhere underwater.
+
+Liora felt happy unlocking this new trait, and the amount of fully corrupt patients was also reducing steadily each day. Very soon she would be able to leave this wretched place behind.
+
+Each morning, Liora would sneakily observe Morgana and where she went. It didn't take long to conclude that the woman had an erratic schedule. In fact, she appeared to be bored out of her mind most days and growing increasingly more restless.
+
+This was good news for Liora. It meant that she wasn't as vigilant anymore. Security on Cee and Liora had also slackened a little bit, and they found moments when nobody was watching them at all.
+
+Cee's skill with Bedrock Mandala had also improved to [Adept] level. Being inside the damned thing made Liora want to tear out her feathers. It was pure torture walking through it. The moment she took flight, it was fine—it couldn't affect flying creatures. But walking through it was torturous. Everything was slowly falling into place for Liora's plan.
+
+"Congratulations, Liora! You've healed the last fully corrupt person in the clinic today," Healer Terenezza announced proudly during dinner time.
+
+The hall erupted into cheers. Healers and some of the remaining patients alike clapped at her hard work. Liora puffed out her feathers proudly, holding her head high. The praise was absolutely wonderful, and she didn't mind basking in the glory even the slightest bit.
+
+There were many thank-yous from the patients, although Morgana, Nord and Donovan made sure that nobody got too eager.
+
+"It's what she was trained for by Pillar of Lost Magic," Morgana reminded.
+
+This made the people sent many thanks in Renir's direction.
+
+Thank you, thank you!
+
+I suppose you helped out too…
+
+Don't get all glum on me now. It's a job well done. We'll be able to leave now without any issues.
+
+Oh, I can't wait.
+
+Once again, lots of food was brought out by the cooks which Liora was more than happy to consume. Some of the food did disappear into her Inventory, and the spider likely managed to snatch something as well. By now, they had a steady amount of supplies in their Inventory. They could likely go a few months without food.
+
+However, the celebration was interrupted as a beautiful woman with long, wavy blonde hair entered the dining hall. She had an angelic face and was dressed in a modest dress which didn't take away from her beauty in the slightest. Even without an introduction, Liora instantly knew who it was—Sallie, the Pillar of Vital Chalice.
+
+"Sallie, you're back!" Morgana jumped to her feet instantly and ran up to her friend, pulling her into a tight hug.
+
+"The Pillar is back!" The healers announced in joy, swarming around the woman to greet her.
+
+Frankly, Liora couldn't care less about her arrival. This didn't change her plans at all. However, what did worry Liora was the man who had arrived with Sallie. It was Dr. Reius, and he was staring straight at Liora with a manic glint in his eyes.

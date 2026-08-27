@@ -1,0 +1,293 @@
+---
+id: 338e1bdc-f60b-5b11-ab58-27be038b12ef
+page-type-slug: story-chapter-royal-road
+title: "SIXTY-EIGHT: The Warren"
+slug: 0069-sixty-eight-the-warren
+partOf: super-supportive
+position: 69
+ownLength: 3929
+unit: words
+publishedAt: 2023-08-27
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1324256/sixty-eight-the-warren"
+royalRoadId: "1324256"
+---
+
+Alden enjoyed a week of peace and anonymity before he chose to bite the bullet and attend a Meet the New Residents event.
+
+The neighbors were getting interested in him. Natalie Choir was worried he’d been left out because an apartment full of new Rabbit boys was being filled on the floor below. Her roommates had been hinting that they wanted access to the coffee machine. And the guys in 912 had invited him over to hang out with them tomorrow and “watch our rock garden do something,” which they promised would be worth it.
+
+Frankly he was so curious about that one that there was no way he was going to miss out.
+
+He was sure it was only a matter of time before his story went viral through intake. Lying sleepless in bed the night before the meet and greet, he’d decided it would be better to pick the moment himself, so he could take control of the narrative before it came out as a gossip-generated mutant that was even worse than the real thing.
+
+This is for the best…and what can a rock garden even do? he thought as he entered the crowded lecture room where the event was being held. It was decorated with neon-colored paper chains, and there was a table with drinks.
+
+It was an optional event and purely social, so pretty much everyone who’d come was in friend-making mode. He grabbed a plastic cup full of pineapple punch and a seat. There was a counselor from the Brute tower chilling in a corner, but other than standing and letting everyone know that it was time for newcomers to start going up to the lectern at the front of the room, he didn’t have much to do.
+
+Alden listened to a dozen different people talk about themselves. A D-rank Life Shaper focused on her hobbies. An A-rank Adjuster told everyone that he was planning to specialize in fire spells and attend a hero program at Li Jean Academy starting in a few weeks.
+
+There was lots of clapping and cheering. Everyone was thrilled to share the story of how they became an Avowed. It started to get really relaxed, and of course people were showing off their new powers.
+
+All right, Alden thought, standing up during a slight lull. Get the job done. Don’t completely ruin the tone. How hard can it be?
+
+He walked up to the lectern with his drink and took in the hundred or so people in the room. Faces around his own age from every corner of the globe looked back at him. The fact that he now lived in a place with people from all over the planet was astounding, and he still hadn’t gotten used to it.
+
+“Hi,” he said, “I’m Alden. I’m a B-rank Rabbit. I got selected back in February.”
+
+A few of them looked confused, probably because that was too far back for him not to be at least a minor criminal.
+
+“I actually got summoned for the first time right after I’d finalized my talent selection—”
+
+Several people clapped. A Brute shouted encouragements. Alden had known that they would be excited. It was considered cool to already have a summoning under your belt before you even hit the island.
+
+He tried not to feel awkward. He tried not to be awkward.
+
+“Yeah,” he said, taking a sip from his drink. “Thanks. It was a good first job. Lab assistant work. Ten days. At this really swanky wizard school. I made some money. I made friends with a griveck.”
+
+Everyone laughed.
+
+“No I really did. She’s great. I called her last night, and she was so excited. She said she’d kill something in my honor.”
+
+They laughed again.
+
+Well, I guess it’s hard to understand if you weren’t there. Alden had even toned it down for them. Sophie had actually been in the process of stalking her dinner when she answered his call, which was the most expensive one he’d ever made. Apparently Earth to Sreeeakk was extreme magical long distance.
+
+She’d said she would chase her prey more slowly to prolong its death and celebrate his return to life.
+
+“Anyway, I got an additional quest while I was there—”
+
+<<You Rabbits! You need to leave some for the rest of us!>>
+
+Alden smiled.
+
+“And there was an accident when I teleported to Moon Thegund. It’s in the Artona I system. It has…not much on it. I got stuck there for a while. More than half a year. Because the System broke due to a minor chaos incident.”
+
+People were still grinning, but in an uncomfortable way now. Like they weren’t sure if he was being serious or not.
+
+Mentioning the demons would be too high drama, right? Alden thought it would be. He was trying to keep the story true-ish but not so detailed or grim that everyone would be desperate to hear more about it. It was hard.
+
+The Brute intake counselor was giving him a super concerned look and air typing, which made Alden think he might be texting Neha to ask what the new Rabbit boy’s deal was.
+
+“Since the System was broken, I couldn’t teleport back home. So I lived in a vault in an abandoned laboratory to protect myself from the corruption. I spent most of my time studying Artonan. I speak it now. Pretty well. And I thought it would be interesting to prove it by finishing my introduction in that language.”
+
+This was a completely spur of the moment decision. Because everyone else had been finishing by showing off their powers in some way.
+
+And Alden would rather be filleted with a spoon.
+
+<<Good afternoon. It is my honor to stand where Instructors of minds have stood. That’s a polite thing to say in classrooms. I hope nobody will be bothered if I leave on my shoes. While I was there on Kimnor’s orbital stonechild—>>
+
+Alden blinked. He had his translator set to show him what the English-speakers in the room were seeing when he talked to make sure it wasn’t coming out wrong. He hadn’t expected the System to translate the word he’d used for “moon” so literally.
+
+<<—I gave the gift of my life’s time to observing the Trials and Discoveries of The Goodchild Klee-pak with an Artonan friend, and I nurtured the fruit of the ground in a greenhouse.>>
+
+What the hell, Earth System? thought Alden, staring at the translation. Are you playing with me right now?
+
+Yes. That was technically what he was saying. But that wasn’t what it sounded like in Artonan. It was somehow coming across as both stiff and kooky, but it was really everyday talk. The Artonans could lay both of their feet on the gas of the poetic formal when they wanted to. This was not it.
+
+He started deliberately dodging the words he thought would come out the worst, and went on.
+
+<<We were rescued by a team of wizards and Avowed, and I’ve been passing the days of my life here on Anesidora for a week. My main skill saves things—>>
+
+That one was probably my bad. There were a lot of synonyms for preservation. It was hard to pick the right one.
+
+<<It holds things unchanging,>> he clarified. “Uh…well, I guess I’m not quite as good as I think, since I can’t make the words come out right. It’s just a preservation skill. It freezes objects I hold, and it keeps them safe.”
+
+He took another sip from his drink.
+
+“I would rather not show it off. I had to use it a lot on Moon Thegund, and I’m kind of taking it easy on things that remind me of that place. Therapist’s orders.”
+
+It wasn’t. But it sounded like something she might have wanted him to do. And what else was he supposed to say? The second best idea he’d come up with was telling them all that he was abstaining from power usage right now because he’d missed his chance to do it during Lent.
+
+Got all the hard parts out. Time to prove I am totally normal by finishing with something less serious.
+
+“I think I might be really good at pinball. My apartment has a machine in it. Feel free to text if you want to come use it some time.”
+
+Done.
+
+Nobody was clapping like they had for everyone else. Which seemed unfair really. Alden had spoken a foreign language. And revealed work experience. And friendships with multiple species. He felt he deserved at least a small round of applause.
+
+**********
+
+Alden got lots more attention than he wanted after that. But not so much that it was impossible to deal with. He attended events occasionally and acted as boring as he could when people peppered him with questions.
+
+There were a lot of other interesting Avowed in the dorms. For example, S-ranks tended to attract stares just by being around. And one of the Brutes who’d come in recently was a famous child actor.
+
+Alden hoped his story would fade into the background given a little more time.
+
+Being a human around other humans again wasn’t as hard as he’d feared it would be. And it definitely wasn’t bad. But it made him aware, on a daily basis, of the fact that he was different from who he had been in subtle ways.
+
+He was more easily annoyed now—snappish by his own standards even if he didn’t think he’d hurt anyone’s feelings badly yet. It could just have been his lack of sleep and constant discomfort taking a toll, but he was working on reining it in anyway.
+
+He’d always considered himself fairly easy-going, and he’d liked that about himself. He wanted it back.
+
+Other changes didn’t trouble him as much; they just left him confused. Crowds were different now. The noise bothered him. People bumping into him didn’t at all. It was the reverse of his previous feelings, and he didn’t understand what psychological processes could have made it happen.
+
+He cared a little less what people thought of him. He cared a lot more about his own physical comfort.
+
+The last fact amused him to no end once he realized it was an actual phenomenon he was experiencing.
+
+Alden was now someone who actively appreciated cozy sweaters and perfect temperatures and pleasant smells. It wasn’t like he’d completely ignored those things in the past, but he’d definitely never been a person who could just sit around enjoying the fact that he had on a warm pair of socks.
+
+It wasn’t even some emotional, grateful-to-be-alive thing as far as he could tell. It was just that the nice socks really felt nicer than they had before. And cinnamon smelled better. And colors looked more striking.
+
+He didn’t know what to blame for it. Maybe his long stretch of deprivation and discomfort had sensitized him? Maybe Rrorro’s healing sessions had done something to him? Maybe it was because physical pleasure was now always contrasted with metaphysical pain?
+
+Whatever it was, it was fun. He could make himself noticeably happier by digging his toes into a plush rug. And so far he hadn’t gotten tired of it.
+
+He was also more introverted than he’d been previously. He’d never been the life of the party, or wanted to be, but he was quiet enough in groups now that people had begun to mistake it for actual shyness.
+
+Which was working out surprisingly well for him in this setting.
+
+Alden lived in the part of the dorms affectionately called The Warren, surrounded by Rabbits. And a lot of Rabbits were empathizers. They liked their Appeal points, they took extras, and plenty of them hadn’t denied the System permission to include the personality alterations. They almost all wanted to be friendly, cute, and social.
+
+Being “the shy one” on Team Rabbit was triggering a lot of outreach and inclusion efforts from people who were unnaturally good at reaching out and including.
+
+He got a haircut from the girl downstairs. It was shorter and more even—a definite improvement—but it still looked more tousled than he’d expected. She informed him that since he wasn’t going to be getting summoned for a long while, it was magically designed to maximize his features according to average human tastes. She could choose between making her clients appealing to humanity or the Artonans. He was supposed to return for a trim every two weeks if he wanted to stay perfected.
+
+One of the hair stylist’s roommates did makeup and had tried to interest Alden in under-eye concealer, but he’d refused. The hair was enough. He’d just wear his new insomnia-chic look with pride.
+
+Meanwhile, the guys in 912 kept finding new excuses to invite him over even though the rock garden was in its dormant cycle. The “garden” was actually a see-through table, full of what appeared to be colorful rocks in a bed of sand. They were in fact alien lifeforms that were popular decorative elements on the Triplanets. Every few days they woke up, sprouted legs, and sort of gently did battle with each other for desirable new positions in their habitat.
+
+Lots of Rabbits came when it was wake-up day and ate takeout and placed argold bets on which of the rock creatures would come out on top.
+
+Having money to blow, even if it was just the standard stipend for most of them, was novel for many kids in the dorms. And Rabbits liked money a little extra anyway. It was supposed to be one of their class benefits, after all. Gambling was popular.
+
+What Alden had lost betting on a sleepy blue rock, he made back by defeating people at pinball. Except for his new nemesis—a C-rank speedster girl from the Brute tower who was on a mission to crush all the non-high ranks in intake at their favorite games with her stupidly fast reflexes.
+
+She kept beating him. But he was gaining ground.
+
+She was very confused about it.
+
+Most people didn’t have their hands specifically overclocked unless they were something like a Meister who played musical instruments. Alden hadn’t told her that his were enhanced.
+
+If all of that wasn’t enough to keep him busy, the girls across the hall seemed to have adopted him as an honorary roommate. It was a rare honor since Natalie’s friends expended a lot of energy keeping people away from their overly appealing, S-rank kitchen goddess. He wasn’t sure if they were protecting her or monopolizing her services, but she seemed happy. And they brought breakfast over every morning in exchange for coffee access, so he wasn’t going to complain.
+
+Even with his new fascination with tastes and smells, he hadn’t quite gotten to the point where he started weeping over freshly made beignets. But he could see it coming when Natalie leveled up a bit more. She was seriously focused on leveling already. She wanted to max out Cook of the Moment and add on some sub skills that would help her tailor her meals to be perfectly nutritious for her clients. One day, she was going to be the universe’s best personal chef.
+
+“You know you’re building yourself into someone who will basically always be working for the Artonans, right?” Alden asked on the fifth morning after his self-intro speech. He was making everyone’s coffee order while one of Natalie’s roommates rearranged the furniture in the living area—Tailor Environment was as popular as ever among the C-ranks—and Natalie herself scooped porridge into bowls and started adding toppings.
+
+“I know,” Natalie said cheerfully. “It’s going to be so exciting to see other planets!”
+
+An F-rank girl named Emilija was leaning on the counter waiting for Alden to finish his first-ever attempt at latte art. She glanced between the two of them. <<I think Alden might disagree with you, Natalie.>>
+
+“No, it’s—”
+
+Natalie gasped in horror. “That was so inconsiderate of me. Oh my god. I didn’t even think.”
+
+The other two roommates were listening curiously.
+
+“It’s really fine,” said Alden, watching a barista pour frothed milk through his interface and trying to mimic the motions. “Seeing other planets is exciting. I don’t have a phobia about leaving Earth again or anything.”
+
+He didn’t think he did anyway. He would definitely feel differently if someone summoned him to Moon Thegund, but everywhere else would probably be okay. Once he’d had enough time off.
+
+<<You’re not scared to go back?>> Emilija asked. <<I would be scared. I’ve been scared of getting summoned ever since I heard. I didn’t think anything bad ever happened to Rabbits.>>
+
+Alden felt himself freeze. It hadn’t occurred to him that his story might have upset people in that way. But of course it had. Especially the Rabbits. Some of them were already being summoned occasionally. Even more of them would be before their first few months as an Avowed were over.
+
+He looked around at the four girls. “Have none of you been summoned yet? Not even you, Natalie?”
+
+<<No.>>
+
+<<Not yet.>>
+
+“S-ranks are more expensive, and people who can afford a Cook of the Moment for special occasions actually want one with experience,” said Natalie. “Because I’ll get a lot better at it once I master ingredients. But that’s really hard, since I don’t even know what the ingredients on the Triplanets are. After I have a few more months of practice here on Earth, I’ll turn on a special option called ‘volunteer.’ It’ll get me half-priced job offers from people who wouldn’t normally be able to hire an S, so I can start building my social reputation and figuring out how the kitchens work over there.”
+
+“I didn’t realize there was so much to it,” said Alden. “But my skill isn’t artsy. It was pretty useful right out of the box, so it makes sense that there would be a difference.”
+
+<<I’ve been summoned once,>> the girl with Tailor Environment said while she carefully pinched the corners of a throw pillow into sharp points. <<But all I did was arrange someone’s desk. It only took forty-five minutes, and I didn’t even see an Artonan in person. He or she just called and asked me to get it done before they came into work.>>
+
+She looked embarrassed. <<I couldn’t tell if they were male or female. Isn’t that awful?>>
+
+“No, it’s normal,” said Alden, sliding Emilija the latte. It didn’t look half bad in his opinion. “They don’t have any sex-specific names, hair styles, or clothes. I can almost always tell with adults, but with kids I’m completely clueless. They don’t care if an alien gets it wrong, though. Most of the time they don’t even bother to correct you.”
+
+<<Were they nice to you?>> Emilija asked.
+
+Alden considered the question. Were they nice to you?
+
+He tried to remember how he’d felt that first day—what he’d expected and feared versus what he’d actually experienced.
+
+Apparently he pondered for a little too long, because all the girls got really quiet.
+
+“Sorry,” he said, “I met a lot of Artonans during my main job at the college helping with the entrance exams. Not the one that went wrong. So I was taking a minute to think it all through and give you a real answer. They’re just people. Some of them are terrible. Some of them are great. Most are somewhere in between. The difficult thing is…”
+
+<<What?>>
+
+“It’s the power dynamic,” he said finally. “I was freaked out by it for the first few days. You can say no to things. Even things that aren’t covered by all the specifics in the human morality rules. From what I’ve seen, most Artonans aren’t lunatics who are going to force you to do some unimportant errand if you make it clear that you have a real problem with it. But it is an alien culture and they're in charge…it was stressful to know that seriously refusing to do something was going to be way harder and more complicated than it would be in most situations on Earth.”
+
+“Did you have to refuse an assignment?” Natalie asked, sounding appalled.
+
+He looked over at her. She was holding the serving spoon in the air and letting the porridge she’d made drip on the floor.
+
+“I should clarify that my skill is unusual for a Rabbit,” he said. “It’s good for medical emergencies. And carrying things that are on the verge of exploding.”
+
+<<Do you mean bombs?>>
+
+<<I think he means bombs.>>
+
+“Potentially. So I’m more likely to have assignments where refusing is something I would want to do more and be able to do less. Or not at all. Because, you know, emergency stuff. I might just be oversensitive to it. And I did have to refuse one. I had to call a wizard to bail me out when some of the students asked me to do something that was basically impossible.”
+
+“What was it?”
+
+“Mmm…it’s a secret,” said Alden. “Because they were stupid, and they embarrassed themselves. And they have really important families.”
+
+<<Did you get a tattoo?>>
+
+“No,” he said. “I’m just not interested in pissing off potential future summoners.”
+
+He briefly considered telling them he did have a contract tattoo for another reason but decided against it. Rabbits mostly seemed to fall into the camp of Avowed who thought they were cool, but some people were weird about them.
+
+“Okay,” Natalie said ten minutes later while they were all polishing off their insanely delicious breakfast. “So, the most important question…Alden, they gave you a lot of money right?”
+
+<<Don’t just ask him like that!>>
+
+<<We’re all Rabbits. We can ask.>>
+
+<<That’s not how manners work.>>
+
+“I don’t mean I want you to tell me what your pay was,” Natalie said quickly. “I mean you got enough to go ahead and do it in October, right? The Spree?”
+
+“…that’s the shopping thing, isn’t it?”
+
+<<The shopping thing?>>
+
+<<So understated.>>
+
+<<You have to take it seriously. If you have money, it’s your duty as a Rabbit to participate.>>
+
+<<And crush the egos of all who look down on us.>>
+
+Alden raised his eyebrows at Emilija.
+
+<<I’m serious. I’m an F. My skill fixes chipped paint. I know it’s not special. I know I’m not a real Avowed. But the other classes don’t have to laugh in my face when I tell them about it.>>
+
+<<One of the S-rank Brute girls called Natalie ‘just a cooking doll.’>>
+
+<<The Spree is how Rabbits get revenge. And stand up for our species!>>
+
+“I haven’t been summoned yet,” Natalie said. “But I’ve been selling meals to lots of people, and I’ve made enough that I should be able to do it in a few weeks. You could participate, too, right?”
+
+“It’s…like a horrible rich person conspicuous consumption thing?” Alden said doubtfully.
+
+“Yes,” said Natalie.
+
+<<Yes.>>
+
+<<Stylish conspicuous consumption.>>
+
+<<The whole Warren will support the chosen ones.>>
+
+“How much do I have to spend to do it?”
+
+“It’s a five thousand argold minimum to officially be part of the Spree,” said Natalie.
+
+“I’ll think about it. It doesn’t really sound like me.”
+
+<<Buy a car on Spree day,>> Emilija whispered. <<You know you want one.>>
+
+“I’m buying a new wardrobe and changing my clothes every hour,” said Natalie. “I wanted kitchen equipment, but it’s not conspicuous enough. I can’t carry around a two thousand dollar mixer all day without looking like a crazy person.”
+
+They were all staring at him expectantly.
+
+I guess if I could think of something practical?
+
+“I’ll think about it,” he said noncommittally.

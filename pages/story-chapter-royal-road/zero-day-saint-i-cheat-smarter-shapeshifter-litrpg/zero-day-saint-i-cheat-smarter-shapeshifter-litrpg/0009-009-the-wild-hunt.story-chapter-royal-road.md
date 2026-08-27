@@ -1,0 +1,150 @@
+---
+id: d574d84a-233b-5d53-80e0-b0279ff8ee04
+page-type-slug: story-chapter-royal-road
+title: "009 - The Wild Hunt"
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 9
+ownLength: 1436
+unit: words
+publishedAt: 2026-05-01
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3340978/009-the-wild-hunt"
+royalRoadId: "3340978"
+---
+
+The choices were presented as floating cards in front of me.
+
+[Evolutionary Shortcut - Ability
+
+Cost: 1 ATPDuration: 10 MinutesApply one Trait available among current Shape selection to current Shape. Can't select duplicates. Can't select Trait that depends on missing Trait.
+
+-
+
+Tooth and Claw - Passive
+
+Natural attacks deal +40% Damage and inflict Bleed.
+
+-
+
+Blasted! - Passive
+
+Resistance against Fire and Blast Damage. Effect doubled against self-inflicted damage.]
+
+I'd underestimated how powerful Perks could be. And overestimated how easy picking them would be.
+
+"Gabriel, can you see those?"
+
+"Yes. Share your thoughts."
+
+Lucy began explaining my options to Jamie.
+
+"What does Resistance mean?"
+
+"There is no hard math I can share, only that you take significantly reduced damage. Doubled Resistance would make you nearly immune, unless you happen to set up piercing explosives."
+
+"While that is pretty awesome, it is not synergistic. I won't be going around setting up a whole lot of explosions any time soon. The evolution Ability is fucking amazing, but I think the second one is the right call, right? That is nearly free experience. Bleed them in a combat viable shape, shift to anything else, get the credit?"
+
+"I agree."
+
+"Brutal," Lucy whispered.
+
+I selected Tooth and Claw. I felt a tingle in my hands and jaw. My nails lengthened into pointed tips. I ran my tongue over my teeth. My canines had lengthened. The Perk hadn't said "while shapeshifted."
+
+I grinned at Jamie and Lucy.
+
+"And this, kids, is why we read the fine print."
+
+Lucy shrugged. "I would have warned you, had you consulted me. But I'd say it's not too bad. You look sharp." They grinned, their pointed teeth now a mirror of mine. Sanctified spaces didn't protect one from horrible puns, it seemed.
+
+"I may be showing my true colors here," Jamie said, "but I think that's really damn cool."
+
+"Oh, you like your partners dangerous, hm? Feral even?" Lucy teased him.
+
+"I didn't say hot."
+
+"What does your code say about lying?"
+
+"I didn't say hot."
+
+I buried my face in my hands and turned to chat.
+
+["Should I stick with the plan? +2 all physical attributes? Even though I got the cup for more ATP?"]
+
+Gabriel replied immediately, but also only in chat.
+
+["Absolutely. There will be moments when you need to rely on your human body. And just now it got a little more dangerous, too."]
+
+I assigned the points, raising my Strength and Endurance to 4 each, and my Agility to 5. That change was the weirdest yet. It wasn't a single thing, but a lot of small changes, as the entire sensation of existing within my body shifted ever so slightly.
+
+"You two should party up," Gabriel said. "While your glyphs touch, you'll have the option to start a party. Among other effects, you can see each other's position on the minimap as well as share a part of any experience the other gets."
+
+Jamie held out his hand and helped me back up to my feet. Holding onto his hand, I found the menu option and extended a party invitation. A moment later he accepted and his portrait, along with his health and another bar showed up to the left of my UI. There was also a small blue dot right next to me on my minimap.
+
+Before I could fully process all the information on display, Anthony poked his head in while knocking on the door frame. His motions were guarded and he had a pensive expression on his face.
+
+"Hey, folks, can we talk for a moment?"
+
+I let go of Jamie's hand. He looked just as clueless as I felt about what Anthony could want.
+
+"Sure?" I said as I stepped out from behind Jamie. Anthony's eyebrows shot up when he saw me. I'd need to start wearing scarves because of that collar.
+
+Anthony stepped closer, his eyes now locked on Lucy, who was sitting on a steel work table in the kitchen area of the room. They looked back at him, curiosity gleaming in their eyes.
+
+When he spoke to us he kept his voice low. "Some of us can see the presence of a hostile agent in here." He nodded toward Lucy. "And it's worrying people. Lailah explained to me that they aren't a direct threat, but they still put people on edge. Especially the non-Blessed, who only heard that there is a devil in here."
+
+"What do you expect me to do, Anthony?"
+
+"Can you convince them to, you know, leave?"
+
+"Oh, fuck you." Lucy's outburst startled all three of us. "Please stop taking up space, your presence is making people uncomfortable? Really? And you don't even have the guts to ask me directly."
+
+Anthony was taken aback, but quickly recovered, straightening. "Apologies, but I will not talk to the devil. And you'd better not, either."
+
+"I know about the history of your church, priest. Pushing away those at the margins is so on brand for you. Fuck the lost sheep for being different, right?"
+
+I really couldn't tell if Lucy was just messing with Anthony or actually feeling strongly about this.
+
+Anthony shook his head and turned. "Please try to find a solution." He left us alone. I could hear the whispers picking up outside.
+
+I crossed my arms. His request had angered me. Lucy was right in a way. The church had a history of screwing over marginalized people. To this day their rules were backwards and assholes quoted the bible to justify all kinds of atrocities.
+
+But then, he wasn't entirely unjustified either. Lucy was, for all intents and purposes, a hostile agent. Just because their presence meant that my chance of surviving those next six hours went up drastically, they weren't looking out for others. And ultimately they wanted to turn me against them.
+
+"Lucy, I'm not going to ask you to leave. But I want one answer. Was this kind of reaction part of your reason for hanging out with us here, manifested?"
+
+Lucy rolled their eyes. "Of course."
+
+I sighed. Before I could even think of how to address this issue, my UI flickered, my ATP refreshed up to five and my list of shapes changed. Midnight. Along with 'Crow' and 'Golden Retriever' I now had:
+
+['Raccoon' (daily)
+
+'Arctic Fox' (daily)
+
+'Impala' (daily)]
+
+I stared at that second option. There was exactly zero chance this was a coincidence. But this also just fully solved the ice storm for me. I could focus entirely on helping the others. But I still wasn't happy with those choices.
+
+"So, it's three categories, right? Urban, bullshit-but-personal and bullshit-but-random? Is that it?"
+
+"I don't know, Eve. But those aren't too bad," Gabriel said.
+
+"So, you get random options for what shapes you have each day? What did you get today?" Jamie asked.
+
+"Raccoon, arctic fox and impala."
+
+"Help me out. What's an impala again?"
+
+"Some kinda antelope. Pretty fast I think. If I have to run and leave you behind, it's perfect. Also I suppose I'm safe from the cold."
+
+"I'm with Gabriel. Those do sound good."
+
+I was about to reply when my minimap exploded with red dots, all approaching our location. I grabbed Jamie's hand and pulled him along into the other room. Others had noticed and people were already moving.
+
+"Another swarm is approaching!" I shouted. "Everyone who can't—"
+
+Before I could finish my sentence a pigeon dove through the shattered window at the front, going right for the face of that pre-teen boy who was with us. He pulled his hands up, but I had no idea if he'd been fast enough. The person next to him started swatting at the bird. More dots approached fast.
+
+"Everyone to the back!" I shouted as I rushed forward. I wasn't ready for that fox yet, and also I didn't know what else was among those dots, so I went for the Golden Retriever again.
+
+"Eve! Don't!" I heard Gabriel's voice. But I was already mid-transformation when the words registered. The moment the transformation was complete I had a split second to notice a whole barrage of debuffs hitting me, before I stopped processing anything at all.
+
+I was trapped in a room, full of chaotic shapes, noises and scents. The smell of blood stood out above all others and my mind was filled with only one desire. To spill more of it. A shape behind me screeched at me and I whirled around. It carried a weapon. It meant to strike me down, spill my blood. I wouldn't let it. I ducked down, readied myself to lunge for its throat.

@@ -1,0 +1,263 @@
+---
+id: ba0506dc-d525-59ca-9fb3-026a7be5f007
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED NINETY-SEVEN: When Wishing Was Having VIII"
+slug: 0299-two-hundred-ninety-seven-when-wishing-was-having-viii
+partOf: super-supportive
+position: 299
+ownLength: 3237
+unit: words
+publishedAt: 2026-07-11
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3660257/two-hundred-ninety-seven-when-wishing-was-having"
+royalRoadId: "3660257"
+---
+
+297
+
+******
+
+Alden met up with Ignacio in between his storytelling class and Engaging With the Unexpected, then again later in the afternoon. Around seven thirty that evening, the Meister found him for a third time. He approached while Alden and Lexi were on their way back to the dorm with groceries.
+
+“Can we again?” he asked. “I’m afraid I’m worse every time.”
+
+“Of course we can!” Alden said brightly, passing Ignacio the large bag of oranges he’d just bought. “And, you know, it’s a two-man magic. Maybe I’m the reason it’s taking longer during our practices than it did in gym.”
+
+He was one hundred percent the reason.
+
+“I could be in a slightly different headspace that’s affecting my skill, which would have effects on your skill. The lack of adrenaline could be having an impact. Just don’t worry about it. We’re both doing fine.”
+
+“We’re doing fine,” Ignacio replied with a nod. “Okay. Your apartment?”
+
+Alden looked at Lexi.
+
+“I don’t mind,” said Lexi. “You’ve been knocking out your skill in just a few minutes each time. It’s not an imposition.”
+
+So Ignacio followed them home. They left Lexi in the kitchen, and Alden went to take a seat at the end of the hallway below Sunny the polar bear. He held one of Ignacio’s throwing knives preserved at his side while Ignacio stood down the hall and across the living area from him, trying to call Alden toward a raised hand.
+
+After a couple of minutes, Ignacio closed his eyes to concentrate.
+
+The Meister was doing better than he had this morning. He only thought he wasn’t because Alden was being less helpful about aligning himself with the call every time they practiced.
+
+Alden’s plan seemed to be working. They should be able to get to the point where he didn’t have to help out with his free authority at all.
+
+I’ll wean him off easy mode within a few more attempts, if I’m right. We’ll be able to do it without me doing more than being a good Bearer.
+
+Alden wouldn’t mind practicing his free authority this way more. It was a little like taking over a miscast spell would be, he thought, and he had a bunch of questions about whether he could do the same under different conditions that weren’t heavily centered on him like this process was.
+
+There have to be techniques for this kind of thing and risks to messing it up. It must be easier with some types of magic than others. Are there situations where wizards have to do correction like this regularly, or is it more common to let bad spells fail and start over?
+
+He had many exciting possibilities to wonder about. But he didn’t want to experiment on a clueless classmate who was trying to master his own powers. So he’d get Ignacio through this and go bother Stuart for those other answers.
+
+“I have a theory that this might go better if you think of me the same way you think of the knife,” he said after feeling Ignacio’s recall skill make another demand of reality that didn’t quite reach him. “I don’t know if you picture your Meister blades as tools, friends, parts of yourself, or what. But if you could manage to think you had the same relationship to me whenever I’m holding one for you, that might make a difference.”
+
+Ignacio cracked one eye open. <<I can’t think of you that way. I’ll figure something out.>>
+
+“Okay. Take your time.”
+
+Alden didn’t want to insist on his own point of view when it came to how the magic was happening. Now that he was trying to teach someone, the limitations of being a wizard giving advice to an Avowed were more obvious than they ever had been. He didn’t want to muddle Ignacio’s conception of how his recall worked.
+
+Assuming I know how he should perform his magic better than him just because I have a different sense would be too arrogant. He has a unique perspective, too. He can uncover things I might not. Saying “Maybe this?” and then letting him find his own origami is probably more helpful.
+
+Alden wanted to be a good teacher. And he had self-improvement he could focus on with his own skill if Ignacio didn’t need his words. Part of what made this work was The Bearer of All Burdens staying open to the will of his entruster.
+
+He was in a good frame of mind for it. Ignacio trusting him with the knife this morning, knowing the Meister was someone who was training himself for more than a future of wealth and spectacle, their teamwork coming together in such a surprising way to create Earth’s first Meister/Rabbit recall combo—Alden was proud to be part of this project.
+
+He tried to maintain that attitude and keep his entruster’s needs in mind.
+
+If he can call me while I’m holding his knife, he has more control. It’s teaching him how to recall his weapon with more control when I’m not involved. That could save his life or someone else’s one day. This isn’t an unimportant burden just because I’m holding it in a safe, cozy apartment.
+
+He heard Lexi putting away groceries and Haoyu in his room, talking to his mom on a call. The hall smelled like their bubble-bath soap.
+
+When he stopped noticing those details and Ignacio’s magic brushed closer than the last couple of attempts had, it finally seemed like the right moment to assert himself, lining up with his entruster’s skill a little more.
+
+Come on.
+
+He felt his body leave the floor, following a pull toward Ignacio’s hand.
+
+We’re going super slow this time, he thought, opening his eyes. He was still in his seated position, about six inches off the floor, gradually rising higher as he moved down the hall. It was a magic made by two skills together, but as in the gym this morning, Alden’s was the one being rapidly exhausted.
+
+It’s really interesting. I’m holding this knife that he has the right to call. Part of truly preserving it correctly must be preserving the bond he has with it. So he calls, and I willingly bridge it for him…and this is the effect.
+
+The bathroom door opened as he passed. A damp Lute with a towel around his waist stood there. Alden was floating high enough now that their eyes were almost level.
+
+“What in the alien shit? No. You’re not…!”
+
+He waved a hand under Alden’s butt like he expected to find an invisible pedestal between it and the floor.
+
+“I told you,” said Alden. “Bear witness to my new power.”
+
+“I mean, I know you told me!” Lute whipped his head around to see Ignacio. “But you’ve got a Meister making you fly.”
+
+“I do. Ignacio, meet Lute. Lute, meet Ignacio. He’s focusing really hard right now to improve his control over recall speed, so he probably can’t answer just yet.”
+
+“Meisters can’t do this,” said Lute, laughing and kicking at the air below Alden.
+
+He’d been in a great mood all afternoon. Alden was assuming the catharsis of portraying Growlia Smellra and Jess Riding Hood as he had was overshadowing the awkward and concerned looks several members of the audience had worn after he finished the story. Alden had wondered if the version he’d heard Lute practicing might be toned down for the official performance, but Lute hadn’t held back.
+
+“Rabbits can’t do this either,” Lute said, following Alden down the hall.
+
+“I’m not a normal Rabbit, I’m Cottontail.”
+
+Lexi leaned out of the kitchen to see them. “You did it again,” he said.
+
+“We have.”
+
+Because giving Ignacio as much time to feel his control as possible was one of their goals, Alden didn’t warn him when they were out of time. He just let his skill be exhausted and put his feet down to catch himself as the knife flew away from him into Ignacio’s hand.
+
+“That was good practice for me,” he said, as Ignacio finally opened his eyes and grinned. “You?”
+
+“It helps! I’m sorry it uses your skill so fast.”
+
+“That’s no big deal. We’ll just wash dishes the boring way tonight.”
+
+“You use your skill on dishes?”
+
+“Dishes, soup-seeking, flight toward Meisters,” said Lute. “He’s on a roll since becoming an Avowed. Don’t go with him to a swimming pool, though, unless you’re into suddenly being at the bottom of the deep end every five seconds. It’s like a sadistic teleportation experience.”
+
+“You got spa treatments afterward!” Alden looked at Ignacio. “He got spa treatments.”
+
+******
+
+******
+
+Ignacio lingered to talk to them while they ate dinner. He and Lexi were getting along well, and by the time Alden had finished his sandwich, one more Rabbit Recall attempt before bed had become the plan for the night.
+
+While Alden was in the shower, Jeffy somehow found his way over to play games with Haoyu and Lute. Those three were sitting in front of the television with controllers in their hands while Lexi and Ignacio talked about being Meisters. Kon appeared a little later, fresh from a date with Everly. Alden didn’t know if he’d been invited over by one of the others or if he’d just swung by on his own.
+
+“Almost the whole team,” Kon said, helping himself to some of the popcorn Haoyu had made, then plopping down onto the floor at the base of Alden’s armchair. “Mehdi’s gone to New Sybaris with Heloísa and Astrid. I think Sanjay and Rebecca might be down there, too. There’s that huge street party to celebrate the reopened section.”
+
+“I wanted to go to that.” Haoyu’s game avatar finally managed to blow up a pelican-head. Lute kept taking them all out before anyone else could. “To the Brutal Ring Brawl they’re going to do in front of the shipwreck building. But then everyone else was making being lazy here look more fun.”
+
+Kon tapped Alden’s shin with the back of one hand. “What are you watching on your tablet? Is it better than the game?”
+
+“I was doing research for my independent study, but it’s taken a side turn, and now I’m watching Avowed go-bag prep videos.”
+
+“What kind?” Kon asked. “The people who are spending their life savings on Wright-made grenades? Or the ones who are making little Earth-themed crafts to give as presents to every Artonan they meet?”
+
+“Those aren’t the only two types,” said Haoyu.
+
+“There are also the people who try to fit an entire apartment into a suitcase,” said Lute. “Like with inflatable furniture that all starts out the size of a pill and portable toilets. And the bizarre-gadget collectors. You know, ‘Here is my thing that turns sawdust into buckets because I’ll need buckets for my other thing that fills buckets from any body of water three paces to my left.’”
+
+“I’m collecting supplies for an underwater bag.” Jeffy looked around the room as he said that, and his avatar died.
+
+“Rabbits probably have good suggestions for daily life on the Triplanets,” said Haoyu. “But I think overpacking is a hobby for some Avowed. And go-bag videos really appeal to followers who are into all the different kinds of summoning drama. If you need a grenade to survive, one will probably be provided. If one isn’t provided when you needed it, your summoner is stupid or unconcerned about your safety, and there are going to be so many problems other than whatever you hoped to blow up that you don’t make it back home anyway.”
+
+Two pelican-heads lined themselves up perfectly for him to get a double kill.
+
+“Arrange to have the best versions of the stuff that you know you’ll use, but don’t get stressed out trying to take one of every single tool that’s ever existed,” Haoyu continued. “Unless it’s fun for you to do that sort of prepping. That’s what I think. My parents keep it pretty simple—some gear they’ve used for years, clothes. Mom spends more time on the little bag she packs before each trip than the big one. It holds her tea, her entertainment slice, a couple of things from me and my dad…”
+
+<<My grandparents think you should carry spices.>>
+
+“Spices?” asked Alden.
+
+<<So that you can make whatever you eat taste more like home if you want.>>
+
+“That’s a cool idea. I can tell you from experience that if you show up at the LeafSong University Campus with nothing, most of the stuff they’ll give you is decent and easy to figure out except for the knife with the hook on it that I assume was for shaving.”
+
+“Use hair removal potion,” said Lexi. “It’s not true that it’ll give you permanent bald spots. That’s a rumor spread by people who can’t follow directions.”
+
+“Did you slice off any important body parts?” asked Kon.
+
+“I used to have two noses,” said Alden. “Now I’m down to just one.”
+
+Listening to them all talk about things they would want on trips away from Earth and the supplies their families, neighbors, and teachers had prepared was more interesting than the videos. Hypotheticals started flying. If you were getting summoned to an unknown location ten seconds from now, ten days from now, or if you were going away for ten years…what would you take? If you were going to Artona II, to the bottom of a sea, or to a Tmithan blimp that was about to crash….
+
+“What if you were going to be on a spaceship?” asked Kon. “Not a crashing one. Just a spaceship you had to stay on for a long time.”
+
+That secret was like a shadow in the room with them. Alden did his best to pretend he couldn’t see it while the others, unaware, gave Kon half funny and half serious answers.
+
+Soon afterward, he and Ignacio had their final practice session of the long day. Alden told him he probably wouldn’t be able to meet up tomorrow.
+
+“Maybe late like this,” he said. “But maybe not until Sunday.”
+
+Ignacio thanked him and headed out.
+
+“I feel like I deserve a field trip for my ‘Jess Riding Hood,’” said Lute after their guests were all gone. “But Esh-erdi asked you. I must be harder to take places because of my work as a Chainer.”
+
+“I don’t think Esh-erdi thought of this trip as a reward for my story, Lute.”
+
+“You’re going somewhere with Esh-erdi?” asked Haoyu.
+
+“His house I think,” said Alden. “It was a quick invitation. Not a lot of details. There will be a terackerin.”
+
+“What’s that?” asked Lexi.
+
+“People can ride it. You should look it up.”
+
+“I want to go to Esh-erdi’s house!” said Haoyu. “He knows me at least as well as Lute.”
+
+“You owe us souvenirs,” said Lute.
+
+“Lexi wants souvenirs, too,” said Haoyu.
+
+“Lexi is fine,” said Lexi, heading toward his room. “Good night, you three.”
+
+But he paused before he reached his door and turned back. “I didn’t say anything earlier because it was such a big day for your powers and Ignacio’s, but…I got a level-up message from the System this afternoon. It’s one of the common single level messages. A ‘choose a little something’ one, so the options aren’t anything spectacular, but I’ll probably spend all weekend staring at them and thinking. Maybe call some people for adv— ”
+
+Haoyu crashed into him with a happy roar.
+
+“No,” said Lexi, as his feet left the floor.
+
+“You can’t keep your first level-up quiet! You can’t keep any level-up quiet.” Haoyu was bouncing him around.
+
+“Congratulations,” said Lute. “I hope your Mind Writher grows longer.”
+
+“That’s an option, but not for right now,” said Lexi. “Haoyu, why am I in the air?”
+
+“We need to call your mom and dad!”
+
+“I already told them. I’ll tell Kon tomorrow.”
+
+“Let’s tell him now! We need to stay up all night picking your new talents!”
+
+“I thought I’d at least try to sleep.”
+
+“Social dynamic, Alden Thorn!” said Haoyu. “You can’t just stand there staring at Lexi when he tells you he leveled up! You have to pick him up like this and shake him and ask him why he didn’t tell us as soon as it happened! We could’ve all celebrated! Wanting to hide in your room after telling us is wrong.”
+
+Lexi, Lute, and Haoyu all glanced at Alden.
+
+I am just standing here, aren’t I?
+
+“Congrats, Lexi!” he said quickly. “You should’ve told us earlier. You’ve been so dedicated that it’s no surprise. But this is great.”
+
+“You don’t need to pick me up or shake me,” said Lexi, ducking so that his head didn’t hit the ceiling.
+
+“But Haoyu said it was a social dynamic. I want to fit in.”
+
+They paraded up and down the hall with Lexi for another minute or so. He looked pleased even while he was complaining.
+
+******
+
+“We’re young,” Alden said softly to Victor, who was padding around the edges of the room while he got ready for bed. “This is when we’re supposed to grow faster. A few levels a year while we’re in high school will make Lexi satisfied with his progress. So we’re all happy for him. Affixation isn’t scary.”
+
+Stuart will make it. We’ll walk the same path. I’ll be lucky enough to have a very bad year catching up to him. And on the other side of those affixations, there will be something profound I can never lose.
+
+He draped his sweatpants over the back of the chair.
+
+I want what I imagine that’s like.
+
+I even want the power, as long as I’m allowed to use it to protect what I love.
+
+That’s wanting a lot. More than I’ve ever wanted before. Now that I’ve decided on the path of highest onus and reactivated the part of me that dreams, I’m afraid it’s getting out of hand.
+
+If he could snap his fingers and build the perfect home, he’d have Stuart, everyone he cared about from Chicago, and all his new Anesidoran friends together under one roof. They’d celebrate Lexi’s new level, and he’d talk to some knights and Mother for advice. They’d eat meat petal. Esh-erdi or Lind-otta would offer to teach a spell, and Alden would put his learning cushion between Kibby’s and Stuart’s for the lesson.
+
+There wouldn’t be chaos, if it was really perfect. I’d have so much time to just learn everything about magic and be with people I like.
+
+Did some knights imagine the end of chaos? In a serious way, like it was an achievable goal they might live to see? The Primary was moving to take back a lost place, but how many places had to be taken back for them to really win instead of holding the error that was eating the universe at bay?
+
+Does one more knight trying to join them make a difference at all?
+
+I want it to.
+
+“If only wishing really was having, right?”
+
+He looked at his candle. He held his hands over it. The gesture that represented the felling of a small tree. A snap.
+
+It sparked and lit.
+
+That’s a long way from ending chaos throughout the universe. I’m not sure someone who just learned to abbreviate a kid-level spell is even allowed to fantasize about being a part of something that massive.
+
+He let himself do it anyway.
+
+******

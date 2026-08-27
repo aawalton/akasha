@@ -1,0 +1,71 @@
+---
+id: 3d89fd41-8349-50f9-9aa3-99f12e2eb1b9
+page-type-slug: story-chapter-royal-road
+title: "B1 Chapter 1 - Worst Morning Ever"
+slug: 0001-b1-chapter-1-worst-morning-ever
+partOf: path-to-prosperity-litrpg-vol-12-stubbed
+position: 1
+ownLength: 762
+unit: words
+ownProgress: 762
+publishedAt: 2024-06-29
+link: "https://www.royalroad.com/fiction/89323/path-to-prosperity-litrpg-vol-12-stubbed/chapter/1697652/b1-chapter-1-worst-morning-ever"
+royalRoadId: "1697652"
+markedReadAt: "2026-06-29T21:36:19.412Z"
+---
+
+Percy dragged his feet through the narrow-winding alley, clutching his chest tightly. He heaved heavily, trying to control his breathing to calm down. But it was to no avail. His throat tightened, and his heart continued beating wildly, sending streams of pain through his entire body.
+
+Is that how I’m going to die?
+
+If Percy didn’t know better, he could have sworn that his heart was about to explode. His heartbeat thundered in his ears, swallowing the sounds around. Percy noticed people walking past, barely slowing down and looking at him, but he couldn’t muster the energy to lift his head and ask for help.
+
+Why did that have to happen right now? I should have listened to Greg. That old bastard was right… Fuck!
+
+Percy felt even worse thinking about the old man who’d raised him. It had been a while since that old man left the world, but memories of him were still imprinted deep into Percy’s mind. Percy doubted that he would ever forget that old bastard. He was the only man who had cared about him since he could remember. Nobody else in this god-forsaken town paid any attention to him. Not that he paid much attention to the townspeople most of the time, either. However, the timing was problematic. Even now that he needed their help the most, nobody paid attention to him.
+
+Where the hell is that wreck of a house when I need it?!
+
+Percy didn’t know how much time had passed since he entered the narrow alley, but it certainly felt like an eternity. At last, his throat tightened further, cutting his access to oxygen entirely. His eyes widened in horror as the strength in his legs threatened to leave him as well, yet instead of giving up, Percy moved forward. He didn’t want to give up. Not now. Not yet.
+
+Percy had so much he wanted to achieve. So much he’d never been able to do.
+
+His vision grew hazy, and Percy could clearly feel the last bits of strength flushing out of his fragile body. Still, he continued moving until he reached a familiar door, if one could call it that. It resembled a door but was no more than a large wooden plank attached to rusty hinges.
+
+Percy lost control of his body and fell forward. The door pushed open as he crashed to the ground.
+
+Fuck! Fuck! Fuck!
+
+His legs didn’t obey him anymore, and the remaining strength in his arms was barely enough to push his chest from the ground. His arms caved in, and his head smashed on the ground. A wave of pain flushed through Percy. He would have screamed if he had enough energy left to scream, but the pain was exactly what he needed. It gave him a final surge of power to crawl to his nightstand, where his eyes fell upon a small, faintly glowing crystal.
+
+Percy tried to reach out to the crystal, but his arms were too short. The surge of power wasn’t enough to push him from the ground, either. He could only crawl closer to the nightstand.
+
+Tears welled up in his eyes. He realized that he wasn’t going to make it.
+
+Please.
+
+His arm reached out for the nightstand’s leg.
+
+Please!
+
+And he pulled, using every bit of strength remaining within him.
+
+Please!!
+
+A final scream echoed through his mind before everything around him turned dark.
+
+Percy’s grasp around the nightstand’s leg loosened, and his body went limp.
+
+The small room, once home to Percy, went still. All that remained was the sound of the nightstand tremoring faintly. It wasn’t a lot, but the nightstand was old and brittle. The leg Percy had pulled was loose and didn’t require much force to be drawn outward.
+
+The nightstand tilted to the side. It wasn’t much by any standards, but it was enough. The crystal rolled from the nightstand and dropped onto the back of Percy’s hand.
+
+The moment the crystal touched Percy’s hand, a dazzling light filled the room. The surge of dazzling light subsided after a moment, revealing pristine white strings of energy oozing out of the crystal. The strings of energy wiggled and trembled uncontrollably for a second before they burst into action.
+
+They charged at Percy and pierced through his skin until the crystal was sucked dry. The strings of energy disappeared inside the young man. Percy twitched once, then a second time.
+
+He gasped for air, and his eyes shot wide open.
+
+Sparkling azure-blue eyes greeted the world.
+
+“That was, by far, the worst morning ever!”

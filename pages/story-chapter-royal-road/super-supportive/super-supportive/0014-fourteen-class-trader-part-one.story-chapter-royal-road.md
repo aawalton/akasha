@@ -1,0 +1,233 @@
+---
+id: 649e6de3-ba5a-58e1-a9d8-f8fb44a187b2
+page-type-slug: story-chapter-royal-road
+title: "FOURTEEN: Class Trader, Part One"
+slug: 0014-fourteen-class-trader-part-one
+partOf: super-supportive
+position: 14
+ownLength: 2532
+unit: words
+publishedAt: 2023-02-18
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1117328/fourteen-class-trader-part-one"
+royalRoadId: "1117328"
+---
+
+Class Trader, Part One
+
+Alden spent the entire afternoon sitting in the trading room. Gorgon stuck around for the first hour or so, answering what questions he was allowed to. But after that, he headed back upstairs.
+
+As long as Alden didn’t leave the room, the System still considered him to have been safely vouched for by an authorized witness. When he took bathroom breaks, though, Gorgon had to accompany him back and re-activate the table.
+
+The alien had told Alden that there would be no peeing in bottles in the Chicago consulate. Or else.
+
+Not that I planned to. Does he think I’m an animal?
+
+For the first couple of hours, Alden focused on gaining an understanding of the trading platform and closely examining his fellow B-ranks. A few people did log in and out, disappearing from his System interface entirely, but most just adjusted the “wanted” lists on their profiles and turned on the autotrade feature when they needed to leave. That was fascinating because it made it possible for Alden to tell what classes they really hoped for as opposed to what they would merely settle for.
+
+Almost everyone was at least willing to take the Adjuster class, and many of them seemed to want it in particular.
+
+Which was expected but…not good.
+
+Adjuster of Reality was basically a build-your-own mage class. Adjusters got a huge list of reality-altering spells to choose from in the beginning, and based on their choices, they were eventually pushed along increasingly narrower paths toward unique specializations. Hannah, for example, had chosen a basic mobile barrier for her first spell, and she’d eventually leaped from that into things like the magic preservation bubble she’d used on Alden.
+
+But she could have chosen from dozens of other spells and gained a totally different power set.
+
+Some Adjusters focused on improving their own bodies and came out almost like magically enhanced Brutes. Others could shoot bolts of electricity from their palms.
+
+Of course everyone wants it. There’s just nothing bad about being an Adjuster.
+
+Well, that wasn’t entirely true…
+
+Once an Adjuster chose their path, the System did lock them into it pretty hard. If the first spell you picked was Ice Over, you’d better not suddenly decide you hated frost magic, because you wouldn’t be offered much else. But Alden didn’t think that was a terrible drawback, and apparently his fellow B-ranks felt the same.
+
+It’s too early to give up on it. Maybe people trade it more often than I’m guessing?
+
+To give himself a better idea, he toggled off the setting that made the trading platform show only his own rank and started spying on the others. He couldn’t select any of them and offer to trade, but it was still interesting.
+
+There were only three lonely S-ranks.
+
+One was trying to trade Sky Shaper for a healer position, which at that vaunted rank was like trying to trade a dump-truck full of rubies for a freaking freight train full of them.
+
+“Greedy much?” Alden grumbled.
+
+The others were a strength-type Brute, like Arjun Thomas, and…a Bridge Wright?
+
+What on Earth? Wrights were the crafting class. Usually they weren’t so…weirdly specific on first assignment. Bridges. And S-rank? What is that dude supposed to do with that one?
+
+Clearly the new S-rank was supposed to build bridges. AMAZING ones. But that seemed like a really strange thing for the Artonans to have ordered up.
+
+Alden could just imagine his fellow selectee staring at their class assignment window trying to figure out whether to jump with joy at being in the 99th percentile of all superhumans or scream because they would only be able to use their awesome power for building a single type of structure.
+
+Maybe if you develop it far enough the bridges do things?
+
+Well, it was a problem for the fancy S-ranks to sort out. Not Alden.
+
+There were fifteen A-ranks currently trading. None of them were Adjusters.
+
+And there were a couple thousand C’s. Which made some sense. C-rank was the most common at roughly 35% of all Avowed. Followed by the D’s and F’s with 30% and 20% respectively.
+
+I’m pretty lucky really. B’s made up around 9% of the superhuman population.
+
+The numbers don’t work out logically, though.
+
+There were way fewer S’s, A’s, and B’s trading than Alden would have thought there should be.
+
+Maybe a lot of the unwanted classes are disproportionately distributed toward the lower end of the scale?
+
+He scribbled cubes and spirals on the cover of his biology notebook while he thought about it.
+
+It could also have been the fact that some powers that were meh at lower levels actually became quite useful at higher ones. Like the Shaper subtypes. They were really bad for anyone below C, but then they spiked sharply and became tremendously good for A’s.
+
+No wonder B74 is a wreck. He must have sold a kidney to get that Morph, and he’s still trying to trade into something better.
+
+Morph was the shapeshifter version of the Brute class. It wasn’t Alden’s preference, but it was nice. Really nice at B.
+
+Crap. This is going to be a people thing, isn’t it?
+
+He understood what Gorgon meant about the personal touch being important now. Nobody was going to see Alden’s class and just want it, unless their own was a total dud. He would probably have to trade up and up gradually until he got something decent, and to do that, he’d have to talk to people. He’d have to persuade them.
+
+Preferably without turning into an unhygienic ragelord like B74.
+
+He went ahead and searched through all the lower ranks, looking for Adjusters. One C-rank had been hanging around for more than a month, but for some reason, they only wanted Mourner in exchange and weren’t willing to trade for anything else.
+
+It was an extremely rare class. They weren’t likely to get it. Alden wondered why they even wanted it in the first place.
+
+Mourner was the emotional transference class, where you literally took others’ negative feelings into yourself. He’d always thought it sounded like self-inflicted torture. Maybe there was more to it, though?
+
+I need to research the rares. He wrote it down in his notebook.
+
+The only other Adjuster he found was at D-rank. They appeared for a grand total of two minutes, and then vanished.
+
+Right. So that’s how it is. I might need to moderate my goals a little.
+
+He cracked his knuckles and stretched. Then he went upstairs to talk to Gorgon.
+
+###
+
+Evening classes were starting, and there were people coming and going. But nobody was bothering Gorgon, and since Alden didn’t take any of the classes on Thursdays, none of these people knew him or cared what he was up to as he approached the desk.
+
+“I’m going to head home, text my friends, feed the cat, and grab some dinner,” he said quietly. “Two questions: Can I use the trading room all night long if I want? And can I bring Jeremy with me?”
+
+Gorgon blinked. It was only the second time Alden had ever seen his eyelids.
+
+“The trading room is yours. As I stated before, you are now Artonan…affiliated. You may use the building at all hours. Not that I wasn’t letting you anyway. And as you are the only selectee currently taking advantage of this consulate’s services, you don’t even have to worry about sharing.” He tilted his head. “As for Jeremy, I suppose you could bring him?”
+
+“You don’t sound sure.”
+
+“Nobody’s ever asked for a civilian companion in the trading room. I’ll have to check with my supervisor, but I can’t think of a real reason for her to say no. The Artonans tend to be rather relaxed about what they see as human eccentricities. But what would you even do with Jeremy?”
+
+“He’s really likable. And insightful. People naturally lower their guard around him. There’s obviously a lot of tension going on with my fellow selectees, and I want to reduce it. Jeremy can be my wingman and persuade the other B-ranks to give me all their juicy classes.” Alden pause, then added. “He’ll think it’s cool, too.”
+
+Gorgon blinked again. “That’s a clever idea.”
+
+“Why do you sound shocked?”
+
+“It’s a clever idea, but it won’t work the way you’re thinking it will.”
+
+Alden felt himself deflate. “Why not?”
+
+“Jeremy can’t use the System in the same way you can. He can’t access the trading platform. He won’t be able to see or hear the person you’re talking to, and they won’t be able to see or hear him.”
+
+Alden groaned. “You’re destroying my dreams.”
+
+But Gorgon still looked thoughtful. “Leave it for tonight. I’ll put in a request and have an answer for you tomorrow. I will explain your desire for emotional support to my supervisor. Perhaps if I describe Jeremy as a sort of servant…or a pet.”
+
+It was Alden’s turn to blink. “Gorgon, Jeremy is not a poodle.”
+
+The alien shrugged. “Some concepts are just easier to translate across species than others.”
+
+If that was case, then Alden was a bit concerned about how this supervisor viewed the world. But he’d take what he could get.
+
+He turned to go, but he only made it a few steps across the polished floor before he was stopped by a light touch against his back. He spun in surprise, only to find it was Gorgon, looking up at him with an uncommonly direct stare.
+
+“Let me take your luggage for you,” he said.
+
+“Huh?”
+
+“Let me take your luggage.” Gorgon nodded toward the messenger bag slung across Alden’s shoulders.
+
+Nonplussed, Alden removed the bag and handed it over. He expected Gorgon to do something with it. Maybe it was a security check to make sure he hadn’t stolen anything from downstairs?
+
+But the alien only took the bag and carried it toward the lobby doors. He set it down on the threshold and then walked back to his desk, passing Alden on his way.
+
+He’s walking weird.
+
+It was stiff and…pained?
+
+“What the heck was that about?” Alden called after him.
+
+“I will see you when you return,” Gorgon said in an even higher voice than normal. “Have a pleasant evening.”
+
+“Gorgon?”
+
+“Have a pleasant evening.”
+
+Alden left feeling extremely unnerved.
+
+He’d gotten to know Gorgon well enough to say with some confidence that the alien would not go out of his way to suddenly valet Alden’s book bag fifteen feet for no reason at all.
+
+Which means there was a reason, Alden thought, watching buildings slide by through the train windows as he made his way back home. Only I don’t have any idea what it is.
+
+He’d worried over it for the past ten minutes, and he’d come up with nothing that made him feel more at ease.
+
+Is it some gross servant thing? Like he’s forced to do it now because I’m going to be one of the Avowed?
+
+The thought was disturbing. But it could be the case. Whoever had set the terms of Gorgon’s imprisonment was clearly a nasty piece of work. And as far as he knew, Alden had never seen the alien interact with another Avowed. He didn’t have a framework for comparison.
+
+I hope that isn’t it. The only other thing it could be is some kind of…hint? Suggestion? About class selection?
+
+Alden liked that idea much better, but Gorgon had stated extremely clearly that he wasn’t allowed to do such a thing.
+
+If it was a hint, it was a vague one.
+
+And it was an important one, because the alien didn’t seem like the type to risk Artonan wrath for no good reason.
+
+So, no pressure, Alden. You just need to figure out what connection your perfectly ordinary messenger bag has to superhero work.
+
+Alden closed his eyes. He tried to pick apart Gorgon’s every word and action.
+
+It was weird that he called it luggage instead of a bag? There’s not a class that has anything to do with luggage. Maybe it’s about travel in general? Speed-types travel fast. There’s that Bike Meister lady who’s like a motorcycle goddess; that’s sort of travel related.
+
+But those didn’t feel right. For one thing, Bike Meister was one of a kind. Nobody had ever gotten it before or since. And surely even if Gorgon had to be vague, he could have come up with something more obvious if he was trying to point Alden toward a speedster class.
+
+He could have just said some version of “Hurry up.”
+
+It’s probably not a recommendation that I try to go for a teleportation build either, right? I don’t think B-ranks have an option like that, and if we did, it would just be a specific version of Adjuster. He knows that’s my top choice anyway. He could have waited to see if I even got the class or not before saying anything.
+
+By the time the train reached his stop, Alden still had no clue what the mysterious message meant.
+
+He stepped out into the evening air. It was cold. He’d left his coat at school, and the wind stole what heat his body had collected during the ride.
+
+He shivered.
+
+Does this mean Gorgon thinks I should be focusing on some class other than Adjuster? Or just in addition to it?
+
+The uncertainty was worrying. But he shouldn’t stand here agonizing over it all night.
+
+Get home. Eat. Feed the cat, he told himself sternly.
+
+And maybe he would borrow a sleeping bag from one of the neighbors. The room with the crystal table was nice and all, but it was going to be really uncomfortable to spend hour upon hour in there. Maybe he could nap in between checking for new trade listings.
+
+And when should I tell Jeremy and Boe?
+
+For that matter, when should he tell his aunt? She would definitely promise not to share the secret, and she would also definitely break that promise as soon as she got a little too excited. So…he’d have two days, max, after telling her. And then everyone in Chicago would know.
+
+Aunt Connie’s out then.
+
+Alden was 99% sure he didn’t want to go down the unregistered route Gorgon had mentioned, but until he was completely positive, he didn’t want to burn bridges.
+
+I can get away with skipping school tomorrow, then I’ll have to figure something out.
+
+If he called the school counselor and told her about Hannah’s funeral he could probably clear a full week. But that felt wrong.
+
+It’s Saturday. That’s so soon.
+
+He really didn’t want to go. Especially now. What if someone at the funeral could tell he was a selectee? He didn’t know what kinds of powers Hannah’s friends had.
+
+Maybe I can ask people for class advice?
+
+Again, that felt wrong. It was a funeral, not a networking opportunity.
+
+I just have to get through it.
+
+By the time Alden made it to his own front door, he was so cold he was sure that forgetting his coat was karmic justice for how badly he and Boe had teased Jeremy a few weeks ago.

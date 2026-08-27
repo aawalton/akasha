@@ -1,0 +1,129 @@
+---
+id: 69c1de4d-f9bd-5708-ba6c-aca26c1da6a7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20: The Unwinnable Escort Mission"
+slug: 0020-chapter-20-the-unwinnable-escort-mission
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 20
+ownLength: 2251
+unit: words
+publishedAt: 2025-09-26
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2631538/chapter-20-the-unwinnable-escort-mission"
+royalRoadId: "2631538"
+---
+
+Our new reality began in the cold, opulent silence of the vault. The mountain of gold, once a symbol of our brilliant success, now felt like a gilded cage. I stood on one side of the ideological divide, a pragmatic project manager armed with a newly-issued, high-level development tool. On the other side stood Liz, a tiny, immovable wall of pure, draconic pride.
+
+[Liz, this is not a debate,] my voice echoed in her mind, calm and logical. [This is a post-incident review. A critical security flaw was discovered and patched by a senior administrator. They have provided us with a tool to manage the patch. Refusing to implement it is not just illogical; it’s insubordination. It’s the kind of thing that gets your entire department deleted.]
+
+I materialized the icon for the [Root Access Module] in her vision, letting it shimmer between us—a small, key-shaped icon of shimmering, golden light. It was our only path forward.
+
+And I repeat, Ana, a true sovereign does not bow to necessity! she shot back, pacing a frantic circuit around a flawless, fist-sized diamond. Her arrogance was a shield, warding off the uncomfortable truth that her entire worldview had been upended. To willingly deepen my connection to that… that asset… is a fundamental insult to my lineage! It is an admission of defeat! I will not have it!
+
+[This isn’t about defeat, it’s about control], I argued, trying a different tack. [A full soul-bond gives us a direct data-link. I can monitor his bio-metrics, his emotional state, even his core thought processes. You could project more than just vague feelings; you could project actual concepts. We could have him operating at a ‘functional idiot’ level within a week.]
+
+My intellect will be his shield! she declared, ending the conversation with a final, unshakeable pronouncement. She turned her back on the icon, a clear and final rejection of the only sensible option on the table.
+
+Our argument was rendered moot by the arrival of an official summons. Dave was called to his grandfather's office again. This time, there was no pretense of a family chat. The air in the archmage’s study was thick with the suffocating tension of a war council. Elder Corvus stood still, as if his face was carved from granite and disappointment before laying out the situation in grim, formal detail.
+
+A diplomatic envoy from the Cultivator’s Jade Palace was arriving. It was the first formal contact between the two great nations in over a thousand years, a fragile, desperate attempt to thaw a cold war that had defined their world for millennia. The guest of honor was Princess An Liling, a direct representative of the Council of Immortals, the reclusive and immensely powerful ruling body of the cultivator nation.
+
+“Your recent… academic improvements… have not gone unnoticed, David,” his grandfather said, his voice devoid of any warmth. “Despite the... incident... with the potted plant, you are still a scion of this family. You will be part of the official welcoming party. Your role is simple: you will stand, you will smile, and you will not, under any circumstances, speak. The importance of flawless etiquette cannot be overstated. A single misstep could undo centuries of careful maneuvering and plunge our nations back into open conflict.”
+
+Every word was another nail in my and Liz's collective coffin. Liz, perched silently on Dave's shoulder, felt the weight of it. I could feel her bravado beginning to crack, replaced by a cold, creeping dread.
+
+What followed was three days of the most frantic, desperate, and utterly hopeless training montage I had ever witnessed. It was an exercise in pure futility.
+
+I, in my role as Chief Operating Officer, provided the materials. I created detailed etiquette flowcharts, social interaction decision trees, and a multi-page dossier on Princess An Liling, complete with her formal titles, known interests (magical botany, ancient poetry), and a list of topics to be avoided at all costs (the Great Schism, the inherent superiority of Solarium-based magic, bad hats).
+
+Liz, as the CEO and on-site field agent, was the drill instructor.
+
+The results were predictably disastrous.
+
+He practiced the formal bow of greeting required for cultivator royalty—a complex motion involving a precise ninety-degree bend from the waist while keeping the back perfectly straight. On his third attempt, he lost his balance, his arms pinwheeling wildly before he toppled sideways into a priceless suit of ancestral armor, which then collapsed with the sound of a dozen dropped chandeliers.
+
+[TICKET #00738: Kinesthetic Protocol Failure,] I logged, as servants rushed to untangle him.
+
+He attempted to memorize Princess An Liling’s full formal titles. It was a long, poetic string of names that spoke of her connection to the moon, the jade mountains, and a dozen celestial spirits. By the end of the first day, the best he could manage was a creative, vaguely insulting variation.
+
+“Her Serene Highness, Princess Ling-Ling of the Jade Potholder,” he recited proudly, his face a mask of intense concentration.
+
+Liz let out a mental sound that was the equivalent of a keyboard being smashed against a desk.
+
+She tried to teach him a simple, elegant compliment. Repeat after me, you dense collection of mismatched limbs, she projected mentally at me, as I relayed the core concepts to her via pop-up. The idea is to say, ‘Your Highness, your robes are as luminous as the morning mist upon the Quiet Peaks.’
+
+Dave’s interpretation of this complex sentiment, when he tried to practice it on a passing maid, was to point and blurt out, “You have a very large Head!”
+
+The maid burst into tears and fled.
+
+The montage ended on the morning of the envoy's arrival. The entire academy was a hive of nervous, suppressed energy, the air crackling with political tension. Servants polished already gleaming floors. Guards stood at attention, their armor so bright it hurt to look at.
+
+Dave stood in his room, dressed in immaculate formal robes, looking like a terrified sheep on its way to the shearing.
+
+I made one last, desperate plea to Liz. I materialized the shimmering, key-shaped icon of the [Root Access Module] directly in the center of her vision, a final, silent offer.
+
+[Liz. This is our last chance to deploy the patch before the system goes live,] my voice was a low, urgent hum in her mind. [We don’t have to make him a genius. We can just… dial it down. We can set his base incompetence from ‘walking diplomatic incident’ to ‘functionally harmless idiot.’ It might be enough.]
+
+Liz stared at the icon. I could feel the war raging within her. The cold, hard logic of my proposal versus the deeply ingrained, instinctual pride that defined her very being. To use the module was to admit that she, a seventeen-headed hydra of immense intellect, could not manage this situation on her own. It was an admission of failure.
+
+No, she finally projected, her mental voice firm, though I could detect a faint tremor of fear beneath the bravado. We will not rely on this crude tool. I will guide him. My intellect will be his shield.
+
+She dismissed the icon with a mental flick of her wrist. The decision was made. The responsibility for what came next was placed squarely on her tiny, scaly, and terrifyingly proud shoulders.
+
+The delegation from the Jade Palace arrived not with the thunder of war drums, but with the silent, unnerving grace of a flowing river. Their procession moved through the academy’s grand gates, a sliver of an alien culture carving a path through the familiar gothic architecture of the mages. They wore robes of flowing silk in shades of jade, white, and silver, their hair adorned with intricate pins of carved ivory and moonstone. They didn't walk so much as glide, their movements economical and serene, a stark contrast to the rigid, stomping formality of the Elder Council’s honor guard.
+
+At their head was Princess An Liling.
+
+My system’s initial scan provided the raw data: Level 32, a powerhouse by any metric, her aura a calm, deep well of cultivator energy. But the data couldn’t capture the reality. She was, as the dossiers had suggested, breathtakingly beautiful, but it was a beauty born of profound stillness. Her eyes, the color of dark, mossy stones after a rain, seemed to miss nothing. She carried herself not with the arrogance of a princess, but with the serene, observant confidence of a scholar who has read every book in the library and found them all slightly wanting.
+
+This was the person Dave was not supposed to talk to.
+
+Liz and I were in a state of high alert, a two-person mission control team running on pure adrenaline and the faint hope of a miracle. My internal UI, visible only to Liz, was a frantic dashboard of social protocol reminders and real-time threat assessments.
+
+[WARNING: Subject is making direct eye contact. Advise immediate focus shift to a neutral object, such as a nearby potted plant.]
+
+[REMINDER: Correct form of address is ‘Your Serene Highness.’ NOT ‘Princess Ling-Ling.’]
+
+[ANALYSIS: Princess’s current emotional state registers as ‘Neutral-Amused.’ Maintain current operational parameters.]
+
+Liz, in turn, was a master conductor of feelings. Perched on Dave’s shoulder, a tiny, camouflaged brooch of grey scales, she was projecting a constant, desperate stream of simple, calming concepts at him. Stillness. Quiet. Smile. Nod. Do not speak. For the love of all that is sacred, do not speak.
+
+The initial meeting took place in the Elder Council’s sacred hall, a vast, intimidating chamber whose vaulted ceilings were lost in shadow. The air was thick enough to chew. Elder Corvus and the other members of the council exchanged stiff, formal greetings with the cultivator envoys. Dave, bless his heart, was a nervous wreck, but under our combined, high-pressure guidance, he was… functional. Mostly.
+
+His first minor gaffe came when he was introduced. He executed the bow we had practiced, and to our collective shock, he didn’t fall over. A small victory. But when he rose, he looked around the magnificent, ancient hall and whispered to the student next to him, his voice just loud enough to carry in the tense silence.
+
+“Wow. This is a very big room.”
+
+A few of the younger cultivators blinked. One of the Elders coughed to cover a strangled groan. Liz sent a jolt of pure, undiluted mortification directly into Dave’s soul. He flinched and fell silent.
+
+The next test was the formal tea ceremony, a minefield of intricate gestures and unspoken rules. This was where we expected catastrophic failure. Dave was tasked with pouring for Princess Liling. His hand trembled as he lifted the heavy, porcelain teapot. Liz was practically vibrating on his shoulder, projecting the concept of ‘slowly’ with all her might.
+
+He poured.
+
+And he missed.
+
+A stream of steaming, fragrant tea cascaded onto the priceless, thousand-year-old lacquered table, forming a small, rapidly spreading puddle inches from the princess’s cup. The silence in the hall became absolute. Elder Corvus’s face turned a shade of purple I had never before seen in my data logs for human physiology.
+
+This was it. The diplomatic incident. The spark that would ignite the war.
+
+But Princess An Liling didn't react with anger or insult. A small, almost imperceptible smile touched her lips. A quiet, musical sound, like the chime of a tiny silver bell, escaped her. It was a giggle. A genuine, suppressed giggle.
+
+"It seems the spirits of this place are a bit… energetic today," she said, her voice calm and melodic. She gracefully moved her cup to a dry spot on the table without drawing any further attention to the spill.
+
+The effect was instantaneous. The crushing tension in the room eased by a fraction. Her patience, her unexpected grace, seemed infinite. And this had an unexpected, dangerous effect: it lulled everyone, including me and Liz, into a false sense of security. Maybe this wasn't so bad. Maybe his bumbling, harmless charm was actually endearing. Perhaps we had miscalculated.
+
+Her tolerance parameters are unexpectedly high, Liz projected, a note of confused relief in her tone. Perhaps this mission is not as high-risk as we anticipated.
+
+[Data is inconclusive,] I cautioned, though a part of my own processing power wanted to agree. [The user’s capacity for generating novel forms of failure is not to be underestimated.]
+
+The formal part of the welcome concluded, and Elder Corvus, seeing a chance to move the proceedings to a less… fragile… environment, announced the next stage.
+
+“Her Serene Highness has expressed an interest in the academy’s unique magical flora. We shall now proceed to the Sunken Gardens for an informal stroll.”
+
+An informal stroll. My risk assessment matrix lit up like a festival tree. A structured environment like the hall was one thing; there were scripts to follow, limited actions to perform. A garden was a dynamic, open-world environment with an infinite number of potential interactable objects—bees, fountains, thorny bushes, patches of slippery moss.
+
+[WARNING: User is now operating in a dynamic, open-world environment. Risk of catastrophic, unscripted failure has increased by 400%] I flashed in Liz’s vision.
+
+Acknowledged, she sent back, her newfound confidence already wavering. Maintain passive threat monitoring. I will intensify my emotional guidance protocols.
+
+The heavy doors to the garden swung open, revealing a lush, green paradise of winding paths and blossoming magical plants. The delegation stepped out into the sunlight. The fragile peace, a thin veneer of civility over a millennium of mistrust, hung by the most slender and incompetent of threads.

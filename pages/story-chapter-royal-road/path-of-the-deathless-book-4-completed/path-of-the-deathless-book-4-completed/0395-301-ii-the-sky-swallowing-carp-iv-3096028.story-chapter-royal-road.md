@@ -1,0 +1,237 @@
+---
+id: 2a769ca9-91a8-5458-bcdc-17cd3e0f4db8
+page-type-slug: story-chapter-royal-road
+title: "301 (II) The Sky-Swallowing Carp [IV]"
+slug: 0395-301-ii-the-sky-swallowing-carp-iv-3096028
+partOf: path-of-the-deathless-book-4-completed
+position: 395
+ownLength: 4191
+unit: words
+publishedAt: 2026-02-26
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3096028/301-ii-the-sky-swallowing-carp-iv"
+royalRoadId: "3096028"
+---
+
+301 (II)
+
+The Sky-Swallowing Carp [IV]
+
+His new body took the place of the first one and looked at Jessica before nodding at the can of beans. "Yeah, to be honest, it's not that bad. Kind of bland. A little bit over-spicy without anything else going with it. The smell, though... Ugh." Shiv gagged. "That smell’s real bad. Like an open sewer. No idea how this guy managed to make the beans smell like this. So, review: meal’s bland, texture is not that great; like eating hardened beads at times. Smell is nightmarish and ruins the experience before it begins."
+
+Jessica crossed her arms. "I'm surprised you're complaining that much about the smell. Don't you fight the vampires all the time, kid?"
+
+"Not all the time," Shiv replied. "And when I do, yeah, I don't like how their gory sludge smells either, but I also don't really eat the vampires. Or their infrastructure."
+
+"Well, you did harvest bits of meat from this Court Leviathan and cook it for everyone," Adam suggested.
+
+“What?” Jessica did a double-take. She placed a shaking hand in front of her mouth. “You cooked poor Courtney? How could you, kid?”
+
+“She heals,” Shiv defended himself.
+
+“Why don’t you cook yourself instead? You can come back to life!”
+
+Shiv knew Jessica was being facetious, but he had in fact tried doing just that for the Faebread back in Monster Mystery Meat.
+
+“You know what, I’ll cook myself for the orcs sometime. I can make anything work. Anything. It comes with the territory of actually dedicating oneself to cooking instead of heating up cans of smelly beans.”
+
+"Uh—Actually, fuck you, first of all," Jessica said, slamming her index finger into Shiv's abs—which she needed to fully extend her arm to achieve. Even without Shape of Monstrosity, Plaguefueled, or the Sage's Berserk effect boosting his size, the so-called Giantsbane was still half a head shorter than his chest. "And secondly, I do have a Cooking Skill. It's called Field Preparations. It's what soldiers get when they fuse a Cooking and Survival skill."
+
+The tragic thing was, Shiv knew about Field Preparations. Georges had told him about it and the horror stories that came with the curse of such a skill. Reaching down, Shiv patted Jessica on the back apologetically. "I'm so sorry. You're a person who deserved a better skill. I think I understand what the Culturist was saying now. Sometimes, skill fusions are disgusting. Sometimes, they make us less than who we could be."
+
+"Ah, you prick." Jessica let out a half-scoff, half-laugh. She swelled in size, going from a waifish base form to something that could tower over most Orcs. Jessica did that solely to flick Shiv over the head with a middle finger before shrinking back down.
+
+"Here, try it," Shiv said, picking up and holding out the other two cans to Adam and Uva.
+
+His girlfriend stared down at the beans, a disdainful look on her face. Adam still didn't seem to be sure. In fact, he was obviously considering his plan of escape.
+
+"Trust me," Shiv said, "I wouldn't poison either of you."
+
+"You wouldn't poison me," Uva replied. "At least I don't think you would. But Adam?"
+
+"If it's funny enough and not fatal, okay, yeah, I might poison Adam a little bit. To build up his Disease Resistance skill. Or if it makes him shit himself in public. That can give him Shame Resistance.”
+
+"Your urge to aid in my growth is truly touching," Adam said dryly.
+
+"Don't mention it, Adam. I just wanna make my little, red-headed buddy less anxious. Seriously, though, trust me. It's not going to kill you.”
+
+“It smells like it might."
+
+"Trust me," Shiv said a final time. Both Uva and Adam finally folded to Shiv's pressure and tasted the beans, Uva sipping straight from the can while Adam grabbed a spoon from nearby and inserted a cautious helping of beans into his mouth with a shaking hand.
+
+"You're right," Adam coughed. "It's not great, but it doesn't taste nearly as bad as it smells."
+
+Uva, meanwhile, was far more positive. "This tastes better than most military rations I've had."
+
+"What?" Shiv replied, horrified. "What in the Broken Moon are they feeding you back in Weave? How could the Composer allow such a thing?"
+
+"The Order's primary focus when sustaining its Sisters and Mothers is nutrition rather than flavor," Uva rebutted.
+
+"You can have both," Shiv hissed. "Both." His fingers were curled. His eyes were twitching. "You know what? That's it. We're all making food. Actual food. Orc meat, get in here! Get on the grill! We’re doing test-samplings!”
+
+A loud chorus of ethereal voices greeted his command with a unified response: "Aye, aye, Insul!"
+
+Piles of carefully prepared orc flesh came marching in through the front door. The Echoes piloting the flesh assembled themselves in mocking parodies of who they were. Technically, they were still orcs in their own minds, but the way their bodies came together was macabre and brutal. They sculpted their muscles and tendons into the vagueness of their former features. Though the bodies had mostly been drained of blood, the orcs used whatever coloration they had left to create painted faces for themselves. The weirdest part was how they were all dismembered. Different pieces of meat bounced away from one another, even as the various orc echoes tried to create an illusion of a whole form. The effect was a series of different flesh chunks moving out of sync but still in the same direction.
+
+"Holy shit, kid," Jessica breathed. "Every day I spend with you is gonna be a fever dream, huh?"
+
+"Gone!" Shiv called out. "Wake Candles. We need the grill to be piping hot."
+
+She saluted and then promptly began rubbing her claws together. Golden lightning built along her hands, sparking into a ball that she promptly slammed down on the unmoving Pyromancer's head. With a jolt, he burst back into flames and snapped into a sitting position, like a reborn phoenix lacking in grace.
+
+"Bwuh!” Candles gasped. “What? An attack? Someone to burn?" Then he noticed he was still in the kitchen, still surrounded by the others, and his shoulders drooped forward in a faint hint of dismay. "Oh, man! I was having this wonderful dream! I was burning the gray things again!" And then he noticed the flesh-orcs marching toward the grill, and his breath caught. "It’s time?"
+
+"It's time," Shiv intoned. "I'm gonna need you to burn some meat. Not too much. You gotta stop when I say so, but you're still gonna get to burn some things. You think you can do that?"
+
+Candles scratched his non-existent neck and ended up picking at his spine and jawbone instead. "Yeah, sure, I'll take whatever I can get, friend, whatever I can get."
+
+"Good Pyro. If you do this right, I'll even let you burn me after."
+
+"You serious?" Candles whimpered. He sounded like he was on the verge of divine pleasure.
+
+"Sure. It’s just dying, right? You might even be able to help me improve my Pyromancy."
+
+"You—you’re the best, man! The best!"
+
+***
+
+Cooking the orcs using the Lord Commander of the Slumbering Uneaten Skill was a feat of simplicity. Everything he told the mental echoes to do, they did. He directed them telepathically, sending them images and exact details, ensuring nothing would be missing from his vision.
+
+And he did have a grand vision when it came to the orcs.
+
+Pairing his Biomancy with the Chef Unwavering, he examined the contents of their meat. An orc's flesh was calorically dense, filled with energy, and lean to the extreme. Though some orcs looked obese, their fat mass was shed quickly. Deprived of a subject to inflict cruelty upon, an orc would enter an emaciated state in less than a week, even if they were a Legend. And that was their greatest driver, their greatest weakness.
+
+Orcs hungered to hurt. It fed them, it nourished them, and it made them a farmable resource in many ways. Fattening them was easy, and with how their excess matter could serve as a sauce when slathered over their lean meat and set to a slow simmer, or even be made into its own meal as thick gelatinous chunks, Shiv saw a wonderful future where the flesh of the grayskins would make many happy customers.
+
+And the massive horde of orcs gathered below the Court Leviathan would be Shiv's first testers.
+
+There was that one darkly humorous aspect of feeding orcs to orcs, and also their casual willingness to commit cannibalism meant that they already had a reference to how good their fellows tasted. Shiv wished to exceed that reference, to leave them awed by what he made. But that would take surprise and some creative thinking. The orcs had their own chefs, and some of the echoes taunted Shiv, saying that he would never be able to outdo the popular “Us Meat Stew” that remained a staple in the Tutorial.
+
+"Challenge godsdamn accepted," Shiv snarled to himself.
+
+Shiv sampled the first few pieces of orc he cooked, and then offered some to the others in the room. With some reluctance and a bit of convincing, both Adam and Uva tried helpings of orc flesh alongside the others, and they all arrived at a common consensus.
+
+Orcs tasted like an intersection between pork and beef.
+
+However, there were other clashes of opinion that Shiv needed to worry about.
+
+"The meat's damn rough, and some of the tendons downright feel like I'm trying to chew through iron wire." Adam spat another glistening strand of thick gristle into the nearby disposal. Candles promptly leaned over the bin and loudly vomited a stream of fire, incinerating all the bio-waste within. Adam nodded appreciatively. "I can deal with the taste. I can even deal with some of the toughness on the outside, but this is hell on my teeth. I can't imagine a human or an elf enjoying this."
+
+"Kinda like how rough it is," Gone commented between bites, working away at an orc thigh. Though she usually moved fast, she ate slowly, savoring every bite as if it were her last. "Sucking the soft meat off the tendons feels great. Tendons themselves snap, and I like the way it just comes apart. A lot of tension and then it breaks." She let out a sniffle and focused on chewing for a few moments, her sharp teeth slicing through everything with ease. "Really like trying to bite through the bone too. The marrow inside's like hot soup. Hot soup's the best. It's rewarding. If you can break all the way through, it spills across your tongue, and the taste really settles in."
+
+As further proof of her claims, Five attacked an orc's bone like it owed him money. The wolf-man usually held to a pretense of dignity and sophistication, but he ate like he was as feral as any beast, clamping and gnashing, shaking his head violently as he tore at strips of meat with his metallic teeth.
+
+"Is that so?" Valor said. He began prying at his piece of orc hard with both hands. But though his limbs trembled with exertion, he failed to break the dense bone he was wrestling against. "I remember this being easier back when my Physicality was better. You wouldn't believe how many orc elbows and knees I've snapped in my time, Shiv. You really wouldn't."
+
+"I think I would," Shiv replied, sparing his mentor’s pride. "Here." He reached over and casually snapped the bone in half. From the inside, the hot marrow came bubbling out.
+
+"Ah, thank you, Shiv. Now, to see if our companion’s words prove true." Valor's eyes flickered to Gone, and she looked away, seeming to struggle under the social spotlight.
+
+Valor lifted the broken bone high and tilted his head back as he dumped the steaming hot marrow down his magic-formed facsimile of a throat. Adam, Uva, and Shiv looked on with bated breath as a moment of magic unfolded. A glow of Biomancy radiated out from inside Valor's mouth, and Shiv sensed the magical recreation of various organs take shape inside him. A tongue was the first thing Shiv noticed. It held the blood-red hue indicative of a mana-based replica of a physical organ.
+
+Then came a trachea, lungs, a diaphragm, and then a stomach. A holistic collective of internal organs took shape before Shiv. All of them were constructed from a constellation of complicated micro-spells, each tiny glittering shape representative of a certain cell. Once more, Valor's mastery over magic left Shiv speechless. Valor had claimed to be inadequate in Biomancy. But even if that were true, his casting speed was absurd. He didn't need to wave his hands or focus his will. Valor simply manifested replicas of a human’s internal tissues on a whim.
+
+The eldritch mana lighting Uva's eyes grew dim, and she shrank as if terrified of what was unfolding before her. "Do you ever have a moment where you think to yourself, 'I think I might be a genius,' and then you see someone else perform a feat you cannot even fathom, and realize you were simply arrogant?"
+
+Shiv and Adam grunted at the same time.
+
+"Every bloody day," Adam said.
+
+"I'm gonna hit the books so hard after this," Shiv muttered.
+
+Even Jessica was more than a little perturbed. "Alright, you need to stop showing off. This is too much."
+
+"What do you mean?" Valor replied coyly. Shiv could see the food filling his mana-constructed stomach. There was a thin film of sizzling white behind the red, and the colors bled together so well that it took Shiv a moment to also realize Valor was deliberately showing him what was unfolding inside—the ancient Pathbearer had simulated active detail to his magical digestive tract as well.
+
+"That," Jessica said, gesturing at Valor's mana-projected stomach. "All that takes time to cast. I've been around enough Healers and Biomancers to know what you just did there isn't simple. Shit, you're simulating the most important parts of a human body. So, what's the secret? You're extending time? You're casting in advance? What kind of Magical Theory Skill Evolution do you have?"
+
+Valor chuckled like a grandfather being asked too many senseless questions. "No such thing. I've simply cast the mana-body formation spell too many times. It's practically scarred into my memory. All the many steps are there. Every little shape I need to form is also ingrained. By now, it is practically reflex."
+
+Jessica shook her head, unwilling to abandon her disbelief. "Me taking a back step so some drunken giant barely misses me and then running them through using Rusty is reflex. This is some other shit altogether."
+
+"Should you live longer and dedicate yourself to the magical lores completely, you will find that a few spells that most might regard as extremely complicated come easily to you. We are beings shaped by practice. Everything we do carves more knowledge into us. And every act we perform makes what was once difficult routine and what was impossible merely a challenge. Do not be overly impressed by this. It is most achievable with time."
+
+With that said, Valor turned away from Jessica and smacked his lips. "I agree with young Gone here: the marrow might be the finest part. I must confess that despite all the times I've faced the orcs in active combat, I have never truly feasted on them. They seemed more monster than prey to me, and they also had a habit of lacing themselves with venoms that poisoned the land and animals which fed upon them while invading hostile worlds." Valor paused as he tapped a digit against his chin. "Of course, the Canids had the habit of eating the dead. It was their way of honoring those who passed."
+
+Shiv tried the marrow himself. His eyes widened as the taste spread across every centimeter of his tongue. It was like he was being lathered in overwhelming flavors. However, if he were to criticize it, it was a bit too salty-sweet, and the aftertaste lingered too long, becoming almost tangy, like a sticky feeling you couldn't quite spit out.
+
+"Need something to nullify that a bit, maybe," Shiv muttered under his breath. From there, his thoughts descended further into the question of what kind of meal he was going to make of his orcs.
+
+Everyone could accept the flavoring of the meat. That was the least contentious part. However, humans, elves, or any Pathbearer who lacked the proper teeth needed to rip through the rugged tendons and gristles lining orcish biomass likely wouldn't enjoy tearing into such a steak. Comparatively, goblins and other semi-bestial races—including the orcs themselves as well—enjoyed a bit of roughness when it came to their meal. Simply removing all the rugged tissue would probably leave them disappointed. And it felt like a waste to Shiv as well. A bit of hardened tissue in the right place did appeal to him as well.
+
+And finally, there was the issue of the marrow. Everyone else enjoyed it, but Shiv thought it could be even better. He just needed to blunt certain flavors and make sure the aftertaste didn't overstay its welcome.
+
+A list of complicated problems to handle.
+
+"If you wish to hear my suggestion," Adam began, "I think you should make two separate sets of meals: one for the people inside the Gate and one for the orcs out in the Tutorial. Monstrous and individual tastes don't really mix well."
+
+But Shiv wasn't sure he agreed with that statement. Georges had a philosophy about certain meals. Those were meals of choice. Individuals liked complicated, pain-in-the-ass kinds of food if it appealed to their tastes. Clams that someone needed to pry open to suckle at the juicy substances were considered an extraordinary delight by many, but other Pathbearers despised the texture and didn't see the point. Then there were those who liked ripping crabs apart, spending time and effort breaking through the hardened shell just to get a few strips of meat.
+
+There were key factors behind why people liked those meals: satisfaction, texture, flavor. So many different things to consider.
+
+But something nagged at Shiv. A phrase came to his mind, almost unbidden. It was "having his cake and eating it too." He found it a hard concept to fully conceptualize. But now, he was getting an idea. What if he could make everyone happy? What if he could sell everyone on a highlight and avoid inflicting any inconveniences on them?
+
+With that came another word, one Shiv knew all too well: "evolution."
+
+Skills evolved, people evolved, things progressed and advanced. There were levels, Tiers, and layers between things. Shiv knew this all too well, especially considering the relationship between his Severed Shadow and his physical bodies. Just thinking about that inspired him. He could make something with that. He could create something wonderful, something perhaps no other chef could.
+
+And it felt like different parts of his mind started moving in tandem. His neurons fired, and one idea was bridged to another.
+
+"I need to try something," Shiv breathed. "Just give me a second. I need to do a few tests. Echoes, with me!"
+
+"Do you need anything from the rest of us?" Uva asked.
+
+"Can't reply, thinking hard," Shiv said.
+
+She pressed her lips together. "I suppose we should all give him some space."
+
+Everyone watched as Shiv retreated to the other side of the grill. He began using his Biomancy to separate different portions of meat, and then his Psychomancy spilled out from his mind in lashing streams of translucent mana. He ordered the orcs possessing the various ingredients to reshape themselves, and soon he separated the animated ingredients into four different groups.
+
+The lean meat, devoid of any hardened tissue, became an amorphous blob, a little bit like a mashed mess of meat paste. The gristle and hardened tendons were connected to one another. It looked like a set of interfused wires, and the pale tissue that lined its exterior glinted bright in the light. Then there was the bone, turned hollow as Shiv siphoned it dry of marrow. And speaking of marrow, it made up the final group. Shiv had it compressed into a swirling mass that hovered above all the other parts which made up an orc's meat.
+
+"So, what are you thinking, Insul?" one of the dead orcs possessing a portion of the lean meat asked Shiv. "What sweet and happy ideas are taking shape in that head of yours?"
+
+"Sections," Shiv whispered. He thought hard, thinking of how he wanted to make this meal. Right now, he was imagining an onion. At its core, the marrow could be there, a dense, concentrated mass. That was the final reward for anyone who chewed all the way through. Then, in front of that could be the gristle and all that other hard tissue. The soft meat was on the outside. An easy invitation. Yeah, that might work. That might…
+
+But the Chef Unwavering made Shiv instinctively consider another problem: What if the gristle was too concentrated, too hard? If it became a dedicated section within Shiv's Manifold Orc Meatball, then maybe it might not work. Someone might end up chipping a tooth.
+
+And the Deathless forced himself to think even harder. He was close to something. Close to something glorious. He could feel it. The breath of inspiration was on the nape of his neck. He just needed to reach out. He just needed to keep pushing. The idea was right there—satisfaction, taste, effort, all in one package. Shiv just needed a bit more inspiration, a final—
+
+“Peanuts,” Shiv said suddenly. “Peanuts. That can work. That can absolutely work. Peanuts are the way we do this. The second layer is peanuts!”
+
+Everyone else just stared at him like he was going mad.
+
+Shiv didn’t reply—he didn't have the capacity. All of him was consumed by a cooking frenzy. The room was aglow with pristine radiance, but the brightest light shone within Shiv’s mind. He was on the verge of discovering something wonderful. Forward. Think harder! More satisfaction. More! They’ll see! I just need to make it first! They’ll see!
+
+His Psychomancy began pulsing out in all directions as he began commanding his orc echoes to shape the outermost layer of his Manifold Orc Meatball.
+
+The Chef Unwaving 77 > 79
+
+***
+
+“So, does he do this every time he cooks?” Jessica whispered to Uva.
+
+The Umbral side-eyed her with a cold look. “Do not mistake my compartmentalization of your presence to be forgiveness, Legend Hawgrave. I accept your presence here because Shiv has decided to trust you—and because I owe you a lesser debt of gratitude for aiding in my rescue as well. But make no mistake, there is blood between us. That of my mother, on your grandson’s hands. That is all that needs to be said between us until that is settled.”
+
+The Giantsbane blinked and looked away. “Ah. Well. Yeah. So… Look. War makes ugly and tragic shit happen. And there’s a lot we don’t know sometimes, so, you know… Uh…”
+
+Despite all the years and an entire Tier of power separating them, Jessica found herself disquieted by the ever-growing intensity of Uva’s glare. The Umbral said nothing more, but managed to convey the sheer weight of her scorn all the same.
+
+Adam nodded vigorously on Jessica's left. A bit too vigorously. “Indeed, indeed. We should live and let live, yes? I’ll be sure to tell my father the good news. It is a brave and noble thing you’ve done, Legend Hawgrave, forgiving my father for what happened to your daughter.”
+
+Jessica stopped talking immediately and committed to gritting her teeth instead. “Fuck. You little piece of shit. You little fuck. Stabbing me with my own hypocritical—did your mom put you up to this?”
+
+“No,” Adam replied tersely.
+
+“Well, she’s still with you in blood, clearly.”
+
+“Ahem,” Valor cleared his throat. He eyed the trio with a faint hint of tiredness. “I understand that many grave grievances exist between us, but for the sake of our mutual comrades’ peace and labor, might we please keep silent for now and see things addressed properly with time and dedication?”
+
+Uva and Adam continued to glare silently at Jessica while Shiv devolved into a frenzied, fugue state, trying to perfect his new meatballs.
+
+“What is a little more patience after a lifetime of doubt and hopelessness?” Uva answered. “I will keep my peace for now. I understand your presence. But know what is to come.”
+
+“Right,” Jessica said with a sigh. She took a step away from Uva and settled on the other side of Valor. “Thanks for putting things straight with me, girl. Hope I don’t end up killing you after all this.”
+
+Silence served as Uva’s reply, and her stare grew sterile of emotion and cold of fury.
+
+“Peanuts,” Shiv babbled on, ignorant of the cold war building between his lover and his newest mentor a few meters away. “Gotta make it crack like a peanut.”

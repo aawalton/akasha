@@ -1,0 +1,157 @@
+---
+id: cae1cdc1-15c4-5c5d-af6c-ad6d4eab0693
+page-type-slug: story-chapter-royal-road
+title: "Chapter 559: Marked for Death"
+slug: 0083-chapter-559-marked-for-death
+partOf: reborn-as-a-demonic-tree
+position: 83
+ownLength: 2213
+unit: words
+publishedAt: 2026-04-15
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3278272/chapter-559-marked-for-death"
+royalRoadId: "3278272"
+---
+
+Ren was suddenly on the back foot again with the deployment of a Monarch's domain, yet he had a smile on his face.
+
+Magnus had taken him by surprise, but now that the fire Monarch had summoned his domain, Ren all but confirmed that Magnus was a weakling.
+
+Ren slowly withdrew a sword and coated it in dark red poison.
+
+"I never liked that Floridawn bastard," Ren mused as he easily pushed back against the Monarchs' encroaching flames, "but I hated the idea that he was slain by wilderness scum even more. So, in honor of the late Faelorian, I will strike you down and make sure your death is filled with suffering."
+
+"Mhm," Magnus hummed in amusement. "I'm not too sure about that."
+
+Ren frowned. Was everyone under the All-Seeing Eye a lunatic? Couldn't he see, no, feel, the sheer difference between them? Despite being freshly summoned, Magnus's domain was already being pushed back.
+
+"This is going to be a great test to see the gap between a Monarch like you and me," Magnus said as he rose into the air, fire coiling around his limbs and flaring dangerously against the green miasma.
+
+"Test?" Ren scowled. "Do you also think this is some kind of game like that spider?"
+
+"Game? Heavens no," Magnus shook his head. "But respectfully, I don't fear you, or anyone from the Celestial Empire. You are all just stepping stones for the Ashfallen Sect," he pointed a flaming sword at him, "and you will serve as a great training dummy for my new Monarch Realm strength." He chuckled. "I mean, how many Monarchs are as lucky as I to get so much practice without risk of death?"
+
+"T—Training dummy? Me?!" Ren yelled in disbelief. That was it, he had had enough. He wreathed himself in protective poisons and shot into the air, cracking the ground. He was upon Magnus in an instant, and they engaged in a fierce melee that only lasted a few seconds.
+
+Ren was stunned as he mistimed a parry and was struck back down by the combination of immense spiritual pressure from two Monarchs and Magnus's surprisingly well-timed strike.
+
+"I was a warlord before I pledged myself to the All-Seeing Eye, you know? They called me the Infernal Soverign," Magnus said with pride as he floated high above. "While my cultivation was low compared to now, I fought tooth and nail for centuries on real battlefields in the Wilderness, while you were likely brewing poisons alone in the safety of a cave to progress your cultivation. Your swordsmanship lacks that lethal edge that can only be obtained when you live and die by the blade."
+
+"Stop with your preaching," Ren grunted as he pushed himself from the crater of ash he found himself in, and glared at the spinning halo of ash. "If not for you ganging up on me with spiritual pressure, I'd be able to keep up with you."
+
+Magnus dared to laugh at him.
+
+"Is that so?" The fire Monarch slowly floated to the ground. "Larry, you can focus on conserving your strength for now. Let me handle this."
+
+"As you wish, Grand Elder," replied the divine creature, apparently called Larry, which Ren thought was a surprisingly mundane name.
+
+Ren got to his feet and raised his sword. "Your arrogance will be your downfall, Magnus."
+
+"When defeat is inevitable, I have nothing more to lose and everything to gain," the towering obsidian-skinned man grinned and raised his great sword, wreathed in blazing hellfire. "Come, Monarch of poisons. I find your blade's resolve lacking. Show me what you can do!" Magnus raised his sword and struck down.
+
+Ren rushed in to meet the blade and was surprised to discover that Larry really had released his spiritual pressure. He parried it with ease and moved in closer. Another violent melee ensued, making the entire hangar and the Flagship tremble with each clashing strike. This time, instead of a few seconds, it lasted minutes.
+
+"Good, GOOD! That's more like it!" Magnus cheered, making Ren wince. This man was insane. Despite their sizable cultivation gap, the fire Monarch was able to force him onto the back foot for the entire fight. Magnus's footwork was flawless, his strikes swift and always targeting openings.
+
+Ren was in disbelief. He was losing to a weaker cultivator due to the sheer difference in skill. He didn't even know such a thing was possible.
+
+I just... need to hold out... until my domain overtakes his and he succumbs to my poison, Ren thought as he continued stepping back, desperately parrying each of Magnus's hefty strikes. Each hit was so heavy that his arms had gone numb, and the deafening clangs were relentless.
+
+"What would you do if your domain wasn't stronger than mine?" Magnus asked, without breaking his chain of attacks. "Would you fight so cowardly like this? Come on, knowing you eventually will win is holding you back! Fight with everything you have!"
+
+"I'm not insane like you!" Ren roared back as he kicked the ground in an attempt to gain some distance, only for Magnus to use the opportunity to hurl a fireball he had conjured from heaven knows where at his face. He was sent flying back and hit the far wall of the hangar, leaving a sizable dent.
+
+"Insane? Me?" Magnus heartily laughed as he rushed toward Ren. "You haven't met the All-Seeing Eye or his daughter, then. Hell, if you think I'm insane, you wouldn't even know insanity if it hit you in the face!"
+
+Magnus struck him hard, wounding him and almost successfully punching Ren through the hangar's metal wall.
+
+Ren coughed blood—he, the great Ren of the Celestial Empire, had coughed blood from a 1st-stage Monarch from the Wilderness? This was far too laughable, far too unbelievable. A joke.
+
+Magnus was an exceptional swordsman—there was no doubt about that. But Ren had never claimed to be a swordsman; he was an alchemist. While Magnus had been fighting to the death on battlefields, he had been torturing himself to near insanity to build a body that could resist any poison. He wasn't born with it; he forcefully gave himself a poison constitution through patience and pain.
+
+He refused to have his efforts spat on.
+
+As Magnus reeled back his flaming fist for another strike, poison boiled inside Ren's stomach—one of the most lethal he knew, that encompassed the pinnacle of every dao he had comprehended, his centuries of research, trial and error, and a lot of luck.
+
+A poison that was only rumored about in the records. The very same one Ren had used to kill his own father, the previous king of poisons in the Celestial Empire.
+
+Whispers of the Crestfallen.
+
+A black miasma that reeked of ancient death billowed from his mouth—and melted Magnus's face cleanly off. Expecting a white skull underneath, it seemed Magnus was the embodiment of fire, as below that obsidian skin, there was nothing but magma that erupted out of the decapitated corpse.
+
+Ren grinned. Magnus was dead.
+
+"Not so arrogant now, are we—"
+
+Magnus's body suddenly turned to ash and tumbled to the ground below. The ground made from solidified spiders yawned open and consumed the statue, only to seal again.
+
+Ren blinked in confusion—what had just happened? Did he win? Had Magnus been defeated?
+
+"Well fought, Grand Elder Ren," Larry said gruffly.
+
+"Is Magnus dead? Why did he turn into a statue?"
+
+"You'd best go and assist your crew members, lest they survive much longer."
+
+Ren huffed with annoyance. "Not going to give me an answer?" He wreathed himself in corrosive poison that melted the dented metal around him. After a few seconds, the metal behind him had weakened enough to break through.
+
+"I'll be back," he said sternly to the spider. "Don't you go anywhere."
+
+It didn't offer him a reply. Whatever, I need to check on the situation above. Breaking free and then kicking at the weakened dent, he broke through into the outside of the Flagship.
+
+Only to find it shrouded in the darkness of an ashen sphere.
+
+"You asked if I used a domain," Larry chuckled from within the hangar. "There's your answer."
+
+This is a domain?! Ren thought, but didn't say it aloud to give the smug spider the satisfaction it strived for. What is it, a shield of some kind? I've never seen a domain this big before. Is it surrounding my entire fleet?!
+
+He floated towards it and found he could stick his arm through without any pain. Not a containment formation then, though it is blocking spiritual senses from penetrating, so I have no idea what's going on the other side. If that's all it does, then it's pretty useless... wait, the spider kept talking about how nobody would die near him, only for the spiders and Magnus to turn into those ashen forms. Is this some kind of death-preventing domain?
+
+If so, that was one of the most absurd domains in all of existence.
+
+Pulling his hand back, he pushed his head through the ash and confirmed there was nothing strange going on the other side. No fleet was awaiting them, nor a hoard of monsters approaching.
+
+"Okay," he said, letting out a sigh of relief and focusing back on the Flagship. "The situation is still salvageable, wait, where are the Radiant Dawn's shields?"
+
+Where were any of the airships' shields, for that matter?
+
+He rushed to the deck of the Radiant Dawn, only to find chaos. Members of the Empyrea Guard were engaged in an intense battle against cultists wearing black cloaks adorned with red eyes and strange wooden abominations, some of which towered at over ten meters tall and blasted the Flagships cannons with beams of moonlight.
+
+While the Empyrea Guard was far stronger, whenever a cultist was slain, their bodies turned to ash, and a portal would promptly open overhead, and a black root would dip down and retrieve the statue before it could be destroyed.
+
+"The spider wasn't lying," Ren muttered. "It's total chaos up here."
+
+Out of all the towers, only the command tower on the deck remained standing with its layered defensive formations shimmering as they deflected barrages of attacks.
+
+Ren had already deployed his domain earlier and needed time to recover before using it again. So he decided to fly toward the command tower to take charge of the situation before bothering to fight an immortal army.
+
+"Grand Elder Ren! You're finally back!"
+
+Ren shot a death glare at Elder Tang. "You have no idea what I had to deal with down there—you know what, nevermind. Just catch me up to speed. Why are we losing so badly?"
+
+"My Lord, that's exactly what we are trying to understand. The moment you left for the lower levels of the Flagship, a massive dome of ash surrounded us. The spiritual pressure was so great, our shields faltered, and then portals tore open and from them came the undying cultists," Elder Tang quickly explained while he didn't dare take his eyes off his jade console. "No matter how many we kill, they simply turn into statues that are saved through rifts. There are also these wooden abominations, which we have labelled as Ents due to their resemblance to the plant-like spirits sometimes found in Qi-intensive forests. Whenever they are destroyed," Elder Tang glanced up briefly, his eyes filled with despair, "they just come back to life a little weaker."
+
+"What of the formations?" Ren inquired.
+
+"The formations?" Elder Tang scoffed. "Forget them, and this Flagship. I've diverted all Qi reserves to keeping the Radiant Dawn airborne, as we know we must fear the ground when facing the All-Seeing Eye. But there's no way we can reach the old lands of the Blood Lotus Sect combat-ready."
+
+"I see," Ren mused. He turned his back to Elder Tang and stared out the window at the incomprehensible destruction playing out before him. Everything the All-Seeing Eye and his forces had displayed thus far was beyond anything the Celestial Empire was capable of. Even then, I doubt they can beat the Chairman, Ren thought as he narrowed his eyes. This battle is hopeless. But if I can return to the Celestial Empire, pledge my undying allegiance to the Chairman, and explain to him what transpired here, he might let me live.
+
+"Elder Tang," Ren said simply.
+
+"My lord."
+
+"I leave this mission in your capable hands."
+
+"What?" Elder Tang blurted. "Are you going somewhere, my Lord?"
+
+"Home," Ren replied casually. "The All-Seeing Eye was underestimated, and we were ill-equipped to deal with him. Only death awaits us on this battlefield below this accursed dome of ash."
+
+"My Lord, wait. We can still—" Elder Tang suddenly gasped, and there was a thud.
+
+"Elder Tang?" Ren asked and glanced over his shoulder.
+
+His formation commander was dead—his heart having been ripped out and his head decapitated mid-sentence.
+
+The killer, a headless void monster with six arms that had appeared out of thin air without a trace, loomed over the dead formation commander with bloodied claws.
+
+"Grand Elder Ren," the creature said with a voice that sent a chill down his spine. It raised its bloody claw and pointed at him. "You have been marked for death by the Covenant."

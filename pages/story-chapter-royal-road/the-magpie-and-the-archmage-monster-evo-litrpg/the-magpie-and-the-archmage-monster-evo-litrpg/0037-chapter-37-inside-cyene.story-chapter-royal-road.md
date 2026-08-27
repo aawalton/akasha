@@ -1,0 +1,203 @@
+---
+id: 7b1986e4-6072-5eb3-8f70-ccfffa876c53
+page-type-slug: story-chapter-royal-road
+title: "Chapter 37 – Inside Cyene"
+slug: 0037-chapter-37-inside-cyene
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 37
+ownLength: 2114
+unit: words
+publishedAt: 2025-10-20
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2690155/chapter-37-inside-cyene"
+royalRoadId: "2690155"
+---
+
+You idiot! Get out of here!
+
+But Liora wasn't about to leave without her prize. She searched frantically among the papers scattered on the floor for the pass. There was an audible sound of running footsteps in the hallway.
+
+Come on, come on! I need it!
+
+[Your skill <Treasure Sense> has reached [Novice] level.]
+
+[Treasure Sense – At [Novice] level, you can sense the treasures, artifacts, or valuables in the near vicinity. By focusing on a certain item, you can determine its location more precisely.]
+
+Liora focused on the pass as hard as she could, hoping that her Treasure Sense would do the work for her. The door flew open, and she Faded. But her skill pointed her right underneath the table where the pass had fallen. She grabbed it and then bolted for the door, counting seconds before her skill would run out.
+
+"What the—" One of the butlers screamed as he saw the pass floating in the air.
+
+Inventory. Inventory!
+
+Right!
+
+Liora hurriedly put the pass in her Inventory and flew as quickly as she could. The fact that the pass suddenly disappeared in thin air sent the servants into another wave of panic. The main butler released some kind of zappy spell at the ceiling. Liora just barely dodged it and flew to the ceiling of the dimly lit corridor right as her Fade ended. Hopefully, Shadow Glide would keep her hidden.
+
+She managed to make her way to the entrance hall unnoticed. However, there was one problem. The doors were closed. She couldn't get out.
+
+The windows! Search for an open one.
+
+Liora looked at the nearest windows, but they were closed. Behind her, there was a horrible ruckus as the servants ran out of the office, searching for the thief. She was about to fly right through the window—scrapes and bruises be damned–when a strong tingle went off in her head.
+
+Her Treasure Sense was begging her to fly into an adjacent room—there was something incredibly valuable in that direction. So she did just that, trying to stick close to the dimly lit ceiling of the narrow corridor.
+
+What are you doing?!
+
+There's treasure here.
+
+Do you seriously want to get caught, you stupid bird?! Get out of here!
+
+Liora wanted to argue that the exit was sealed anyway, but then a fireball exploded not too far from where she was.
+
+We've been spotted!
+
+Glancing back, Liora saw that a group of maids and butlers was chasing after her. Her Treasure Sense was screaming, urging her to fly deeper into the mansion, but this time she had to push it aside. There was no point in shinies if you weren't alive to enjoy them.
+
+So instead she pulled a sharp left turn, Lunging at the closest window. The moment her beak collided with the glass, it shattered, sending sharp shards flying everywhere. A few of them cut into Liora's flesh, but they were minor cuts, so she ignored them.
+
+The noise instantly alerted everyone nearby as they rushed to the window. Some of the mage maids threw desperate fireballs in the air, but Liora had Faded the moment the skill's cooldown reset. Next time she reappeared, she was already a long distance away from the mansion.
+
+The dusk had already descended, hiding Liora from anyone foolish enough to try to follow her. Nobody would be able to find her.
+
+Victory!
+
+This is hardly a victory! You just stole from an Elite—in a few hours, the whole city will be in uproar searching for the thief. A bird!
+
+Then we'd better get our friends through before then.
+
+Liora made a beeline to the gate where a long line of people was still waiting. It didn't take long for her to spot Serena, Kalen, and Kiva standing a good distance from the gate. Liora withdrew the pass while high in the air, so nobody would notice, then flew down to perch on Serena's shoulder.
+
+To her credit, Serena only mildly flinched when Liora landed on her. She would have expected a scream or at least a gasp of shock. But she had nerves of steel and smiled when she realized that it was Liora. "Where have you been this whole time, Skye?"
+
+Liora didn't say anything, instead, she silently nudged the pass in her hands.
+
+"Is that—" Kalen gasped.
+
+"Well, well, well. I think I've gained some respect for our feathered friend," Kiva snickered.
+
+"This… This isn't right…" Serena said with a conflicted expression.
+
+"I don't know about you, but I don't want to spend the next 3 days rotting outside the gate. Besides, wherever Skye got this from, they will likely be searching for it," Kiva prompted. "Better use it while we can."
+
+Kalen looked at Serena. "We should head inside. How long do you think our rations will last us? We need to get to that dungeon as soon as possible."
+
+Serena looked at her brother, then sighed. "Alright, alright. But put up your hoods and don't talk unless prompted to."
+
+Kalen and Kiva nodded, pulling their hoods over their eyes. The three of them separated from the line, and Liora took flight. She'd wait for them on the other side of the gate.
+
+As they walked to the front of the line, many heads turned to look at them, confused as to why such a shabby-looking bunch would head to the front. But nobody said anything aloud until they reached the gate and the guards looked at them suspiciously.
+
+"It is not your turn yet," one of the guards grumbled.
+
+"We have the special pass," Kiva said confidently, but kept her eyes low to the ground.
+
+"Where did you get this pass?" Another guard asked sternly, stepping closer and trying to peer underneath the hoods.
+
+I think you just doomed them.
+
+The guard peered at them suspiciously, but then another one put his hand on his shoulder.
+
+"Just check whether the pass is forged or not. It's not like only rich folk can own a special pass. They might have been given one by their employer or by a guild in another city," the other guard said.
+
+"That is correct. It was our employer who granted us the passes. He has sent us to retrieve an item from Cyene dungeon," Serena said calmly, holding out the pass for the guard to inspect.
+
+"Your employer, you say? And who might that be?" The first guard didn't relent.
+
+"Butch, what's the holdup over there? We need your help. Do you really want to waste more time by interrogating folk with special passes? We have enough on our hands as it is," the guard holding a thick notebook glared at him, looking like he was about to lose his patience at any second.
+
+"Fine, fine. But if something happens, then don't blame me," the first guard said, and brought some kind of metallic stick up to the pass. It began humming as if something had struck it. The guard let out an annoyed click and reluctantly motioned them to enter.
+
+Serena walked past gracefully without any hesitation, as did Kiva. The weasel girl even appeared a bit offended, flicking her tail angrily. Kalen was doing his best to appear calm, but his movements did come across as strained.
+
+Thankfully, the guards had already moved onto the next person in line and weren't paying attention to them. Liora landed on Serena's shoulder as soon as they were out of their sight.
+
+"I thought we would be caught for sure," Kalen said in a shaky voice.
+
+"It's a good thing those guards are so sleep deprived, otherwise, they would have noticed your shaky knees," Kiva accused.
+
+"Calm down. There's no need to argue. Everything went by smoothly," Serena said.
+
+"We shouldn't keep that pass, though," Kiva mentioned. "The magpie clearly stole it, and more likely than not, the owner will be looking for it."
+
+"Agreed. We should get rid of it," Serena nodded, looking at the pass. "Could you do it?" She offered the pass to Liora.
+
+"Why are you giving it to the magpie?" Kalen asked.
+
+"Because she can do it without being noticed," Serena explained.
+
+Liora took the pass and flew off. This was easy. She flew high enough for the dark sky to completely hide her from any eyes and then stashed the pass in her Inventory. To avoid suspicion of returning too quickly, Liora circled the place where Serena, Kiva, and Kalen were walking.
+
+Taking this back to the mansion would be suicide.
+
+Oh, please. I am not taking this back. I'm keeping it in my Inventory. I have to grow my collection of valuables.
+
+While it was essentially just a paper, its value did make it enticing enough to keep. She brought up the System window to check the items she possessed.
+
+[Inventory]
+
+1x Renir's Gem
+
+1x Holy Wand
+
+1x Necklace of Sunpeak
+
+1x Cyene Entry Permit
+
+That still looks somewhat barren. I need more valuables. Preferably shiny ones, like the necklace.
+
+Please don't rob another guardian. I'm still convinced that it will come to bite us in the ass one day.
+
+You don't even have an ass.
+
+And I never will if you'll get us killed, so focus. Head back to those three. Maybe we can leverage our connection with them into something beneficial.
+
+Beneficial?
+
+You'll see once they reach the Adventurer's Guild. Just make sure not to reveal your real form.
+
+Yes, yes. You've told me that only a hundred times by now.
+
+Liora did another circle above the area and returned to perch on Selena's shoulder. She gently ruffled Liora's feathers.
+
+"Thank you, Skye. Sorry to send you out when it's nearly nighttime," the woman said.
+
+"I don't think she minds the dark," Kiva said, glancing at Liora. "I've seen her fly around before sunrise."
+
+"She is a magical familiar. Her using magic is far more surprising than her flying in the dark," Kalen said casually.
+
+"The important thing is that we're finally in Cyene. Let's head straight to the Guild and get our registration sorted out," Serena said.
+
+"Shouldn't we find an inn instead?" Kiva asked.
+
+"Do you have the money to pay for it? I certainly don't," Kalen retorted.
+
+"The Guild should have some rooms for registered adventurers to sleep in, so if we get that done, then we can stay there for the night," Serena said.
+
+"I guess we don't have much of a choice then," Kiva sighed.
+
+After asking some people for directions, their group headed in the complete opposite direction from Lord Fluffypants' mansion. It was clear that this was the rowdier side of town, as the buildings lacked the same precision and cleanliness as those in other areas, although they were still mostly made of stone and metal.
+
+The streets weren't so clean anymore, and the people also were more rugged rather than the prim and proper people Liora saw before. She actually felt thankful that they were going to a poorer district of the city. Overcoming her Treasure Sense in the rich people's district had been incredibly difficult.
+
+Not that it wasn't a problem here. The skill still pointed her towards all the valuables nearby. Every golden ring, every necklace on the people walking on the street was like a beacon she wanted to follow.
+
+So much shiny…
+
+Liora could help but watch the shinies as they passed by her. It would be so easy to reach out and grab them.
+
+No! Focus, birdbrain. You've stolen enough for one day. Stay put and let these guys handle matters.
+
+But the shiny…
+
+No! Dungeon is more important. We need to get that Pulse Stone. Not to mention that dungeons are filled with treasures. You can have those.
+
+Awww, fine!
+
+It didn't take long for them to reach a huge building with a sizable territory around it. There was the main building, which was three stories high and resembled what Liora thought of as military barracks. On the right side, there were several smaller buildings, filled with many separate entrances. She suspected that it was the rooms provided for adventurers.
+
+On the left, there were stables where several horses were being cared for by stableboys. Beyond those, Liora saw what looked like training grounds with archery targets, fighting dummies, and wooden equipment stashed to the side.
+
+"Wow, it's so huge…" Kalen gaped at the building in amazement.
+
+"Close your mouth—it's unsightly. We're heading inside," Serena chastised her brother, and strode into the Guild, holding her head high.
+
+Liora threw a last look at the streets and saw a large group of guards rushing inside one of the inns. They were most definitely looking for the one who stole the pass.

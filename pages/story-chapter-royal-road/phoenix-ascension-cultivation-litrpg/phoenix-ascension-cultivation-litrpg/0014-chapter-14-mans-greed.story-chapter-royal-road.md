@@ -1,0 +1,129 @@
+---
+id: c91c121e-9c4c-5539-a74d-1c9f313c655b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14: Man's Greed"
+slug: 0014-chapter-14-mans-greed
+partOf: phoenix-ascension-cultivation-litrpg
+position: 14
+ownLength: 2097
+unit: words
+publishedAt: 2025-08-25
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2547095/chapter-14-mans-greed"
+royalRoadId: "2547095"
+---
+
+I followed a few feet behind it, careful not to make a wrong move or even as much as a sound. I controlled my breathing, exhaling slowly and inhaling only when possible.
+
+The creature walked around without any purpose from what I've observed. It sniffed certain trees, peed on them to mark its territory then went on on its merry way. However it never got close to the area around the nest, almost as if it knew it couldn't vie for dominance.
+
+Fighting a Phoenix for territory would be stupid- indeed, but I wondered what it'd think if it found out that the very same Phoenix it shied away from trailed it. The thought amused me, but I couldn't lose focus.
+
+I had yet to learn how the stealth skill works, but upon activation it would make me harder to spot in the darkness, but that didn't mean it would be foolproof. From what I understood, if a target looked for me and their perception was higher than mine, then the stealth skill wouldn't work as well.
+
+However that also meant that every other Spirit Beast would have higher stats than me due to my class— Phoenix Chick. I figured that meant I would need to train my stealth skill and increase my proficiency with it. In order to do that, I would need to succeed in hiding myself and fooling other beasts' senses.
+
+I had no way to check whether or not progress would be made, but as long as my Qi trickled down, then the skill would increase in proficiency and perhaps change from [Lesser] or (Novice) to something else.
+
+I began my journey of following the strange beast around, staying just out of sight for the most part. Other times I tested to see how close I could get before it started detecting me.
+
+The distance wasn't long— only a few feet, and I couldn't stay right in front of or it would see me for sure. After figuring that out, I kept testing the waters, making quiet sounds to test the limits of the skill.
+
+A few hours passed like that, and I could somewhat tell that I've gotten better at being stealthy, and that the skill increased in proficiency as well. I could get closer to the thing without it noticing, and even making a relatively loud sound didn't give away my position.
+
+It could also be that the creature lacked in the perception departement, but the fact that the skill became better was undeniable. However, as my Qi began to run low and the sun began to set, I decided that it was time to head back home.
+
+With one last look at the strange creature, I made my way back toward the nest. The way home was peaceful, as few beasts wandered around mother's territory, and the shadows kept me hidden even with the stealth skill deactivated.
+
+The tree— my, our home-— acted as a sort of beacon, its sheer size making it stand out like a sore thumb. The sun hadn't yet set, which meant that mother hadn't returned yet. That wouldn't pose a problem anymore, though, as she knew about my escapades and approved of them, but that didn't mean she had to come home to an empty nest.
+
+Sneaking through the bushes became almost second nature to me, so did picking the darkest of places and the tallest of grass to walk through. I didn't know how long that would last though, as with my rapid growth rate, I would become taller than the grass in no time.
+
+I had to get stronger faster, to challange the guardians of the lake and absorb the natural environemental Qi into my body. If I could, I'd gather it into my dantian, but any attempt at doing so without a proper technique has led to failure.
+
+If only I could remember the one I used before... or any of the other ones I gathered from around the world!
+
+Frustration got the best of me as I tried to remember the cultivation technique I used to use, but no matter how hard I tried it would all end in a skull splitting headache that would go away after a few moments.
+
+"System, why can't I remember what I want to?" I whispered as quietly as I could, calling out to System once again, though I didn't have any big expectations. More often than not, System would refuse to answer any intricate questions.
+
+[Host is too weak.]
+
+Once again, the same thing I heard upon being reborn inside the egg came back. I still didn't know what 'too weak' meant, and what it had to do with my memories, but I didn't like it. From what I could remember, my reincarnation was supposed to be perfect, then again I wasn't supposed to be a Phoenix either.
+
+Lost in my thoughts, I approached the base of the tree faster than I expected. A bad feeling crept up my spine just before leaving the safety of the bushes, and I activated the stealth skill as fast as possible.
+
+My caution paid off.
+
+A wild blast of energy echoed through the forest, blowing back the leaves, branches and grass. Then another, the sound of the resulting explosion accompanied by the muffled thud of collapsing trees. My heart skipped a beat for a moment, worried that the Qi lake might be under threat, but after a second of consideration I realised that the explosion came from the opposite direction.
+
+I didn't know what happened, and I didn't plan to go and find out. The sheer amount of Qi far surpassed my reserves, and if I could feel the power behind the strikes from so far away, then being in the immediate vicinity of them would only spell trouble.
+
+However I couldn't help but ask what sort of Spirit Beasts fought, as there shouldn't be any with such strength around. Compared to the aftershock radiating through the forest, the guardians of the lake looked like babies.
+
+The blasts of energy stopped for a moment, allowing the forest to return to its usual quiet before other stray attacks felled tree after tree. From the sounds of it, one of the parties decided to stop attacking and run away, while the other chased. The thing that worried me most though was that the shockwaves from the blasts were growing stronger and stronger.
+
+Fuck, damned bastard why are you running toward me?!
+
+A set of rapid footsteps grew louder with each passing moment, and I could only hope that they would pass me just as fast as they reached me. I didn't dare move from my hiding spot, and made myself even smaller than before. My heart thumped against my chest, threatening to jump out as the shrill yell of a woman echoed in my mind.
+
+"Stop right there you bastard!"
+
+"Hu Wo Len, you're going too far!" Then came a man's voice. His meeker tone hinted that he was the one being chased, and the woman was the chasee, however why did they have to come this way? I just wanted to go back home and now I had to deal with not getting killed by some wild cultivators running through a forest filled with weak Spirit Beasts. What were they even doing here?
+
+They didn't give me much time to ponder the question as the man's figure appeared from the cover of the shadows. Tall, handsome, with flowing black hair, wearing a tattered white robe covered in blood and dirt.
+
+Behind him, a woman wearing a flowing black robe with white hair and an angry look to her face shot out wave after wave of sword energy. She swung the blade like one would swipe with a broom, sending hazardous blasts all over the place.
+
+What a poor use of Qi...
+
+I lamented, though I couldn't criticise her attacks considering I couldn't use Qi outside of my body without having any techniques. However what I needed to do was be as small and quiet as possible to maximise my chances of not being seen.
+
+Hiding from view meant that I couldn't see the two anymore either, and I had to rely on my hearing to determine whether or not they passed me. The woman's attacks hit closer and closer to my location, and the man's screams and footsteps grew louder as they did.
+
+Is he really going to pass away right in front of me?
+
+Just as that thought appeared in my head, the man's breathing got cut short as a strong shockwave bent the bushes right next to me. I raised my head just in time to see him spit out blood and fall to the floor, skating across the grass and landing right in front of me.
+
+His brown eyes began to grow lifeless, his quick breathing almost stopping, and the sound of sizzling meat escaping from his body. Whatever technique that woman used, it hit him squarely in the back. The man's hand twitched, but he couldn't move it, nor his legs, anymore. His head turned, and I saw his eyes widen with disbelief upon seeing me. He'd almost looked hopeful, and his lips parted as his dimming eyes shone with greed.
+
+However, before he could get a single sound out, his head separated from his body, the greed-filled expression remaining forever frozen on his cold, dead face.
+
+The woman cleaned her sword of the man's blood and bent down to pick up his ring.
+
+"Serves you rigth for daring to touch my Junior Sister." She murmured, her tone filled with arrogance, then left after kicking the corpse away from the path.
+
+I stood silent, quiet. I waited until the sunset, until darkness took over the land and the chilly breeze of the night made my feathers shiver.
+
+I left my hiding place, glancing at the man's head and looking toward where his body lay lifeless. Part of me wanted to go see it, to see the wound, to see the gore, but I didn't.
+
+Despite how many such scenes I've created myself, both upon monsters and men, seeing it happen right in front me, it...
+
+I shook my head, refusing to think about such things any further.
+
+His eyes— filled with greed— even in the face of death, ingrained themselves into my head whether he wanted to or not. I walked toward the base of the tree, my head slumped and legs heavy.
+
+I didn't know if I had the strength to climb anymore, as I'd long since ran out of usable Qi. I kept my stealth skill on during the entire time, afraid that the woman might return and spot me.
+
+The man's greed outshone his desire to live- the moment his eyes met mine he knew what I was. He wanted me, and were it not for the fact that his spine had been severed, I was sure that he would have reached out to grab me.
+
+For what purpose? What could he have hoped to achieve by doing that?
+
+...
+
+I climbed up the tree without any issue, despite the lack of Qi. Mother had already arrived long ago, and had been waiting for me. Our eyes met as a sigh escaped my body.
+
+At first, she looked angry, but it faded away in a heartbeat upon noticing that my disposition wasn't the usual. She grabbed me in a hug and brought her head closer to my body, rubbing her forehead against mine.
+
+"Little Flame, what happened?"
+
+I turned to look at her, then told mother everything I saw, including the man's expression.
+
+Her plumage shimmered, anger manifesting within her flames as she glanced toward the base of the tree.
+
+She wrapped her neck around my body and whispered with a soft, comforting tone, "Humans, Little Flame," she began. The way she addressed me made me feel better, and each time she did, the Fa Xiaolan I knew I was took a step back, allowing me to feel the comfort and trust mother offered me without any pessimism.
+
+"Humans are foolish creatures. They believe our blood to be magical, they think a single drop will heal any of their wounds and that our flesh may grant them immortality. Those are not the rules of the heavens, Little Flame. Forget what you saw today, mother will take care of it for you."
+
+I nodded, nuzzling against her warm feathers and forgetting about hunger, about power, strength and fighting for a minute.
+
+For a minute, I was, as mother called me, Little Flame.

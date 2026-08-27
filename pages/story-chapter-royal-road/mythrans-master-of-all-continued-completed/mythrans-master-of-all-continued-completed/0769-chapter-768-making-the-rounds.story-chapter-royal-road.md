@@ -1,0 +1,295 @@
+---
+id: bf6765b6-2d66-5d5a-9223-ce26cd8dae06
+page-type-slug: story-chapter-royal-road
+title: "Chapter 768 - Making The Rounds"
+slug: 0769-chapter-768-making-the-rounds
+partOf: mythrans-master-of-all-continued-completed
+position: 769
+ownLength: 3404
+unit: words
+publishedAt: 2018-11-20
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/308285/chapter-768-making-the-rounds"
+royalRoadId: "308285"
+---
+
+Ren knew they were making him wait on purpose, so he used his polymorph helm to change into Dwarf Ren. He stood there and didn't say a word, or felt dismay, or anything else except anticipation. He used his Heat Sense to watch everyone in the apartment through the walls, and he smiled as Barnar paced back and forth across the apartment. After almost 10 minutes of waiting, Barnar had paced across the apartment several dozen times, then he made a beeline for the apartment door. Ren could feel Barnar trying to hide his anger, so when the apartment door was flung open, Ren absorbed some of it and pushed happiness out through his Reassurance Aura.
+
+“Barnar!” Ren exclaimed happily and gave the man a hug. “Good morning!”
+
+“Ah! Um... I suppose.” Barnar responded.
+
+“Where's your wife and her precious little darlings?” Ren asked, even though he knew exactly where she was, and he let Barnar out of the hug.
+
+“In the bedroom with the healers.” Barnar said.
+
+“What?” Ren pushed concern out through his Aura. “Nothing's wrong, is there?”
+
+“N-no, it's just a check-up.” Barnar felt his strong concern and wasn't sure how to react.
+
+“Whew. What a relief.” Ren said and pat Barnar's shoulder. “I'm just popping in for a minute.” He said and stepped into the apartment. “I can't stay. I need to meet with my maids and then go to the Fire Realm for the day.”
+
+“You're really doing that?” Barnar asked, surprised. “I thought you were exaggerating.”
+
+“I'll go there every day, and for as long as the Deity of Fire can stand me.” Ren chuckled and walked towards the bedroom. “I think I hear talking, so I assume this is the bedroom.”
+
+Barnar didn't say anything, and Ren stopped at the bedroom door and looked at the older man.
+
+“Aren't you coming with me?” Ren asked.
+
+“I...” Barnar had been surprised he asked. “No, go ahead.”
+
+“Thank you.” Ren said and turned back to the door and knocked. “I, King Ren the First, hereby request permission for an audience with the royal family.”
+
+There were two healers inside with Narhilda, and Ren felt both annoyance and respect from them. Annoyance that he was bothering them so early in the morning, and respect that his greeting was so formal. The bedroom door opened and one of the healers stood there and blocked his path.
+
+“You can only stay for a few minutes.” She said a little sternly, then she realized he was a dwarf and immediately noticed his full beard and caught her breath.
+
+Ren beamed a smile at her and pushed happiness out through his Reassurance Aura. “That's very generous of you. Thank you.”
+
+Her eyes widened as she felt his happiness at being given so short a time to visit. Ren felt her desire to stroke his beard and hid his amusement. He didn't see any rings on her fingers, so he leaned forward slightly and tilted his head back to let her. The healer couldn't resist such a tempting offer, so her hand reached up and she touched it. She gasped at its soft fluffiness, which was unlike any other beard she had ever seen, then she dug her fingers into it and gave it a tug.
+
+“Dwarf women really like beards, don't they?” Teepo said in the voice only Ren could hear.
+
+Some more than others. Ren thought when he saw the healer shiver slightly and felt her emotions calm down as she finished a little. I don't even have my Prince Charming title active.
+
+The healer almost startled herself when she realized what just happened and she started to panic a little. Ren quickly reached up and held her hand in his beard to stop her from jerking her hand away in embarrassment. She stared at him as he carefully moved her hand and her fingers combed through his beard several more times, then he let her hand go. The healer was breathing a little heavily by this point and she slowly finished the last comb through and her hand dropped to her side.
+
+Ren stepped forward and put his mouth by her ear to whisper, which also rubbed his beard up along her cheek to tickle her. “Ma'am, should I refer to your patient as the Queen Regent or the Queen Mother?”
+
+“M-m-mother.” The healer breathed back.
+
+Ren took her hand and turned his head slightly and kissed her cheek, in the honor ritual he had registered. The healer closed her eyes and rested her head on his shoulder for a few moments, then she took a deep breath and composed herself. She stepped back and looked into his eyes, and she was relieved that she didn't see any malice or teasing there.
+
+“I really wish you could court me.” The healer whispered as she stepped aside.
+
+“I promised Nathalia that I would never look for another wife when our marriage contract was nullified.” Ren said as he stepped by her, and he felt her need to have someone be that devoted to her. “I can't promise that you'll meet someone like that; but, there's always a chance.”
+
+The healer hoped that could have been true and shut the bedroom door.
+
+Ren walked over to the bed and gave Narhilda a regal bow. “Queen Mother, I humbly greet thee.”
+
+“Ren, you don't...”
+
+“Ahem.” The other healer said and coughed at the same time.
+
+“He's a member of the royal family now.” Narhilda said.
+
+“But, still...”
+
+“I am?” Ren asked. “I didn't get a notice or anything.”
+
+“It doesn't become official until we show off... I mean, present the royal children to the public.” Narhilda said with a slightly red face.
+
+“Showing them off sounds better.” Ren chuckled and bent over to look closely at the two babies she held in her arms.
+
+“Just wait until the public gets to see them.” The healer that had answered the door said as she came over to the bed. “Aren't they just the cutest?”
+
+“They really are.” Ren said and glanced at Narhilda's face. “May I touch them?”
+
+Narhilda nodded slightly, and Ren reached out with both hands and stroked both babies heads at the same time. He felt Narhilda's surprise that he hadn't touched his daughter first, and he smiled at her because he knew she had expected him to.
+
+“Like I told Barnar, I only popped in for a minute before I head home and then to the Fire Realm.” Ren said and stood up straight. “I just couldn't go for another day and not see these little darlings.”
+
+“You were here only yesterday.” The other healer said.
+
+Ren smiled. “When I spend the day in the Fire Realm, it's actually close to 7 years.”
+
+“WH-WHAT?!?” Narhilda yelled and both babies started crying. “Oh, damn! I just calmed them down!”
+
+“Allow me.” Ren said and touched them again and filled both babies with calmness and happiness. The tears stopped immediately and the babies giggled and waved their arms in the air. Narhilda and both healers were shocked at this and stared at him like they had never seen him before.
+
+“By the gods.” Narhilda whispered.
+
+“They were just startled... oh, and they are a little hungry.” Ren said.
+
+“Of course they are.” Narhilda said and looked at the healers. They stepped forward and each took a baby, and Narhilda started to open her robe.
+
+“Queen Mother!” The healers said as one.
+
+“I'm breastfeeding my babies.” Narhilda said and opened her robe. “He's seen them before.”
+
+Ren had seen them before, except now they were quite a bit larger because they were producing milk for two babies. He reacted to seeing her large and engorged nipples, then his desire flooded out through his Aura. Even though they didn't share his Aura, everyone froze as they felt it, because it was that powerful.
+
+“What is going on in here?!?” Barnar almost yelled as he opened the bedroom door and stormed in. He saw Ren standing near the bed and Narhilda with her robe open and her breasts exposed. “All right, that's it!” He exclaimed. “You show up here in just your underwear and barge in, and now you're excited over my WIFE as she's about to breastfeed!” He stalked over to Ren. “What is WRONG with YOU?!?”
+
+“Did... did you say underwear?” Ren asked, then he looked down at himself and saw that he still wore the sash and shorts combo, the standard outfit for high ranked fighters in the Pervarian Kingdom, and nothing else. “Oh, damn.” He said and dropped to one knee as he took Narhilda's hand and stared into her eyes. “Queen Mother, I sincerely apologize for this mistake.”
+
+Everyone froze again. This time for a completely different reason.
+
+“I was in the Pervarian Kingdom and this is their outfit for their highest ranked fighters.” Ren explained, and he felt desire spike from both healers and Narhilda, and felt envy from Barnar. “They believe that covering up with clothing is a sign of weakness, so as long as you show as much skin as possible, it proves to them that you can fight on your own without armor or weapons.”
+
+No one responded, so he continued.
+
+“I completely forgot to equip my blue suit to cover myself.” Ren said. “Please forgive my impropriety and if I have inadvertently caused anyone here embarrassment because of it.”
+
+Narhilda felt his sincere apology and knew he was genuinely sorry. “Well, I didn't hear anyone complain about it until just now.” She said, then a moment later she smiled. “If you hadn't reacted like you did when I opened my robe, no one would have complained at all.”
+
+“I should apologize for that as well.” Ren said. “I couldn't restrain my desire at seeing your motherly loveliness.”
+
+“Ren, you've seen them before.”
+
+“Not like this.” Ren said. “They are almost completely different.”
+
+“Really?” Narhilda asked and looked down at them, because she hadn't closed her robe. “How are they different?”
+
+“Queen Mother, I don't believe this topic will help the situation.” One of the healers said and saved Ren from having to answer.
+
+Narhilda sighed. “Yes, this is a bit of a mess.”
+
+Ren stood up and kept a hold of her hand, then leaned in a little to ease any strain that might have put on her arm. “I have to go, so that should solve the immediate problem.” He said and bent over her hand and kissed her fingers. No one reacted, since they all thought that was appropriate, then he stood up again and let her hand go. Her hand turned over and lightly brushed its way down his chest and abdomen, and no one but him had noticed what she did.
+
+“Thank you.” Narhilda said and motioned to the healers, who handed her both babies and they started to suckle right away. She closed her eyes and tried not to enjoy having Ren be there and watch her feed his child. “Show him out, please.”
+
+“Of course, Queen Mother.” The healer that had answered the door said and took Ren's hand, then quickly led him out of the bedroom and shut the door. She took him partway across the apartment and stopped walking and turned to him. “King Ren...”
+
+“Ma'am.”
+
+The healer reached up with both hands and dug them into his beard. “My King.” She whispered. “I... I heard you mention that you had maids.”
+
+“I have 6.” Ren said, and she sighed.
+
+“More than you need.” The healer said and ducked her head.
+
+“Are you that unhappy here?” Ren asked.
+
+“Unhappy?” She looked up at him. “No, it's more like... I'm unfulfilled.”
+
+“You said earlier that you wanted me to court you.” Ren said. “Doesn't that mean you...”
+
+“...wanted you to join my House?” She asked, and he nodded slightly. “No, I... I know that you... I want you to take me away from my House.”
+
+“Did you know that I'm the head of my own unregistered House?” Ren asked.
+
+“You have an unregistered House?” The healer asked, surprised.
+
+“The very first international House to exist.” Ren smiled. “No one knows that, though.”
+
+“But...”
+
+“My daughter will not be restricted to this nation when she gets older, just as her brother, the heir of House Neram, is not.” Ren said. “I'll have the proper paperwork filed when it's time.”
+
+“Then... if it would please you... I... I want to... can I transfer to your House?”
+
+“You're making a life-changing decision pretty quickly.” Ren commented, and she nodded slightly.
+
+“I haven't had an option like this come up before.” The healer said and her hands moved from his beard to caress his chest. “I know we can't marry if we are members of the same House, and since you don't want to marry anyway...”
+
+“What about your own marriage prospects?”
+
+“As a woman from House Lodur, no one has attempted to approach me.”
+
+“You don't mean after everything that happened while I was here, do you?”
+
+The healer shook her head. “It's always been this way.”
+
+“You can't stay here in the dwarf lands if you do this.” Ren said. “My banishment won't end for...”
+
+“I don't care.” The healer said. “The farther away from all of this, the better.”
+
+“It has definitely been better for us.” Teepo said in the voice that only Ren could hear, and he chittered in laughter.
+
+“Then recite your pledge.” Ren commanded.
+
+The healer kept caressing his chest as she renounced her old House, stated her name was Helena Brignash, then pledged to do everything she could to bring Honor to his House and to devote herself to him, wholeheartedly. That last part was more of what a maid would say, however. Since she was a healer, she wasn't paid and there were no future wages for her to pay as a penalty for leaving, so he accepted her into his House.
+
+“What about taking care of the Queen Mother and her children?” Ren asked.
+
+“I can take care of that right now.” Helena said and went back to the bedroom, knocked, and poked her head in for a moment. She then shut the door and walked back over to Ren. “Another healer will be here by the time the feeding is over.”
+
+“Did you tell them why?” Ren asked.
+
+“It's none of their business.” The healer said and touched his chest, then smiled sweetly at him. “My King, what would you have me do first?”
+
+“Gather up your belongings.”
+
+“I don't have any.” Helena said. “I sold everything to pay for my training and license.”
+
+“So, all you have...”
+
+“...is what I'm wearing.” Helena said and pulled out a rumpled piece of cloth from her pocket. “And a slip to sleep in.”
+
+She works in the castle for the royal family and she has nothing. Ren thought as he took in a deep breath to stay calm. She was average looking, with a nondescript face and brown eyes. Her chest was in proportion with the rest of her, and her entire demeanor made her as unremarkable as if she had been a spy in real life that was sent somewhere to blend in. He smiled at the thought and she smiled back at him.
+
+“Your life is about to change almost completely.” Ren said, and she raised her eyebrows.
+
+“What do you mean by almost?” Helena asked.
+
+“You'll see.” Ren said and equipped his red suit as he held an elbow out to her. “Please, come with me.”
+
+“My King.” Helena said and put her hand through the space and rested her hand on his forearm. He led her to the apartment door and opened it, then escorted her down the hallway. “I think I prefer your other outfit, My King.” She said with a red face.
+
+Ren chuckled and took her to the end of the hallway, checked the All-Seeing Mirror, then cast the Portal spell. Helena looked at the portal, then at Ren, and turned her head to look at the apartment they had just left.
+
+“It would have been very rude of me to just appear inside their apartment.” Ren said and took her through the portal and they appeared in front of the Main House in his county.
+
+“Wh-where are we?” Helena asked as she looked around and saw a lot of buildings.
+
+“Walen County in the Human Kingdom.” Ren said and opened the front door of the Main House. “This is the Main House.”
+
+“Did you build all of this?” Helena asked as she stepped into the small lobby. “This is a Main House?”
+
+Ren chuckled and took her up the wide set of stairs to the second floor, then over to the apartment door and knocked. The door opened and Frikara stood there.
+
+“We felt you appear.” Frikara said. “Who is this you have with you?”
+
+“Lady Frikara, this is Helena Brignash.” Ren said. “She is a healer and has joined our House.”
+
+“You mean our unregistered House?” Frikara asked with a smile.
+
+“She wanted to leave House Lodur, and...”
+
+“Say no more.” Frikara said. “Everyone! We have a new member of our House!”
+
+“Hello!” Lusinia said. “Welcome.”
+
+“Hi!” Andrela said and waved.
+
+“Good morning.” Navruth said. “It will be nice to have a dedicated healer around.”
+
+“Would you like something for breakfast?” Verwynn asked, and the other maids laughed. “What? She looks hungry.”
+
+“You could say hello first.” Frikara chuckled.
+
+“I can greet her formally later.” Verwynn said as she stirred the pancake batter and looked at the healer. “How many do you want?”
+
+“I... I couldn't possibly...” Helena tried to say no, then suddenly Frikara had a hold of her arm and dragged her into the apartment.
+
+“Verwynn has been getting better at making pancakes.” Frikara said and took Helena over to the small kitchen. “Sit.”
+
+Helena sat without question and Verwynn smiled at her and used a small ladle to put the pancake batter on the hot flat griddle while Frikara sat down beside the healer.
+
+“They smell good.” Ren said. “Can you make me a small stack?”
+
+“No.” Verwynn responded and grinned at him. “I'll make you a big stack.”
+
+“That sounds even better.” Ren smiled. “I'll be right back.” He left the apartment and closed the door. The sounds of sawing and hammering were heard an instant later. The other maids went to the kitchen and sat down around Helena and Frikara as they waited for breakfast. They didn't have to eat; but, they liked the taste of food and enjoyed these times together.
+
+“You... you're all his Ladies.” Helena said and felt completely out of her depth.
+
+“Don't fret over that.” Navruth said. “As an unregistered House, we don't have to follow strict protocol.”
+
+“I don't know how... wait, how does that even work?” Helena asked, confused.
+
+“We don't have to run it.” Frikara said. “No designated lands in the Dwarven Kingdom, no designated population... well, except for you.”
+
+“No businesses to keep track of, or taxes, or anything else needed to run a House.” Lusinia said. “Of course, despite not really having anything to do, being his Lady has its own benefits.”
+
+“Does it ever.” Andrela leaned back and rubbed her slightly distended belly. “I can't wait for him to be born.”
+
+“You're pregnant?” Helena asked, and she nodded. “Congratulations!”
+
+“Now say that to the rest of us.” Frikara said with a smile.
+
+“You... you can't... are you serious?” Helena asked, clearly shocked. “All 5 of you are pregnant?”
+
+They all nodded slightly and felt her dismay, and she let out an exaggerated sigh.
+
+“I am going to be so overworked.” Helena said.
+
+That made all the maids laugh, and Verwynn put a plate of pancakes in front of Helena and passed her the syrup. Helena didn't know what to do with the small bottle and just stared at it. Andrela took pity on her and poured a little bit on one of the pancakes, then cut it off and used a fork to poke it and held it out for her to taste it.
+
+“Go ahead. It's really good.” Andrela said.
+
+Helena eased forward a little and opened her mouth, then took the bite of pancake into her mouth and chewed on it. “By the gods!”
+
+“I told you.” Andrela handed her the fork and the syrup, so Helena poured some syrup on the rest of the pancakes and started eating.

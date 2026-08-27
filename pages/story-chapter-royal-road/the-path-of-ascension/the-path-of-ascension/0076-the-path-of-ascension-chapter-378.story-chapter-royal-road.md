@@ -1,0 +1,247 @@
+---
+id: 0459e6b4-19aa-5507-9b53-6e15c6936e20
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 378"
+slug: 0076-the-path-of-ascension-chapter-378
+partOf: the-path-of-ascension
+position: 76
+ownLength: 5108
+unit: words
+ownProgress: 5108
+publishedAt: 2025-01-10
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2003270/the-path-of-ascension-chapter-378"
+royalRoadId: "2003270"
+markedReadAt: "2026-06-29T19:20:16.891Z"
+---
+
+Chapter 378
+
+Matt couldn't help but look at the ascender in awe as Manny talked to him. It was just so strange to think of someone ascending into their Realm.
+
+They didn’t get many people from lower Realms, as there weren’t any Tier 25 Realms directly connected to this Realm, but they still tended to pop up every few generations give or take a dozen as the complex currents of inter-Realm cosmology pulled someone off-course. Weirdly, they knew a lot more about higher Realms than they did lower Realms, thanks to the cosmologers who had made it their lives’ missions to learn as much about the structure of Realms and how they related. But Tier 25 Realms were subtle and difficult to spot, and there were some people who thought that they simply couldn’t see the lower Realms connected to their own, with the people there simply not developing the Intents needed to survive ascending.
+
+The man in front of him was a mark against that theory, as a Tier 26, which implied he had advanced the whole way through Tier 25 without accidentally ascending, or he had had an inspiration which caused him to advance. If he was a front-runner of the Realm, it was possible he was just the first of many ascenders.
+
+Which might not be a good thing.
+
+About a year ago, Manny had sent Allie on a mission to the border world of Exalon, just to monitor the situation. Not wanting to do a long-term recon mission alone, Allie had grabbed Aster, who had in turn messaged him and Liz, who then decided they might as well brings the whole group and told Allie to go get Zack, who had been with Susanne at the time, which was why they had all gathered for the Ascension.
+
+Who wouldn’t want to meet an ascender?
+
+It was a good thing too, because the actual process of Ascension was quiet. It wasn’t like an Ascension leaving the Realm, which had benefits to those around the ascender and was impossible to miss. No, Ra’thala had not been there one minute and had appeared the next like a ghost.
+
+A good thing for their own possible Ascension, but that was a thought Matt didn’t really want to consider quite yet. He had way too much unfinished business in this Realm to even consider leaving.
+
+There had been a bit of last-minute panic when the cosmological sensors they were using indicated the proximal lower-Realm crossing had fully vanished, but Zack’s insistence on overbuilding their observatory array paid off when they identified that it had just spontaneously shifted four planets over, into Federation space.
+
+He didn’t even land on that Federation world, instead showing up two planets away from there, and it was only a combination of sheer luck and the fact they were already scouring the surroundings for their missing readings that they found him at all.
+
+Not that landing in the Federation would have been a good thing. Matt might have had some moral scruples about ‘stealing’ an ‘Ascender’ from any other Great Power, but he had none when it came to the Federation.
+
+Even if Ra’thala wasn’t as pleasant as he was showcasing, he didn’t deserve to be subjected to the Federation and their perversions.
+
+And what they would have lost if they hadn’t grabbed him.
+
+Matt had, of course, surreptitiously scanned his spirit, but what he’d seen was just kind of weird. It was recognizable, but it was just different.
+
+Ra’thala had two overlapping cores, one magical, and one physical, but instead of peaks and valleys where his essence was distributed to raise his attributes, his essence swirled and eddied in complicated patterns Matt had never seen before. He wouldn't have thought them possible without a living example.
+
+A quick search with his [AI] told him that such cultivation methods had been seen in their Realm before, but not for at least five generations of political entities. Even then, which was the last record they had of such things, the practice had already been falling out of favor for the current methods. Or so the historians believed from the tidbits of information they had found of such old civilizations long lost to the sands of time.
+
+Though from what he could see of Ra’thala’s cultivation, he had a veil up but it wasn’t the most complex one he had ever seen and while it was unique it had flaws that let Matt see through it without too much issue even if some things were still obscured. That was still more than enough to know Ra’thala was doing something wholly different than even those records. Not a single report mentioned pulsing lights at certain spots in each Tier layer of the core. Really the only similarity was the way the essence wasn’t static.
+
+Which was another thing that was strange. Matt could see that this Ra’thala had twenty six bands of cultivation but they weren’t crushed together like his own. Instead, each seemed to be its own swirling mass of essence that flowed into nodes reminiscent of embers. Also, the way he grouped his essence was… weird. Most modern forms of cultivation recognized seven physical attributes, though what those seven were could vary, but Ra’thala only had five physical groupings.
+
+A node seemed to represent favoring a specific attribute like leaning one way in physical cultivation did.
+
+From what he could see, Ra’thala favored a slightly off-pure strength location that overlapped with endurance for a lot of his nodes but not always. His second most allocated area was a mix between mind and durability, which was a strange combo: Matt wasn’t sure what it would show as.
+
+His inspection was cut short when Manny summoned a handful of skill shards onto the table. “A suite of the [AI] skill shards and their auxiliary skills. They are like an artificial mind that acts in conjunction with your own. With them, you should be able to better integrate into Empire society or any Great Power society you choose to settle in. A gift free of obligation or need for return.”
+
+“What are these?”
+
+Matt expected Ra’thala to ask for clarification on what [AI] actually was but he hadn’t expected him not to recognize skill gems.
+
+Did skill shards look different in other Realms?
+
+That was a very interesting hypothesis and Matt instantly wanted to interrupt and ask Ra’thala all about his world and the nuances of cultivation there but knew this wasn't the right time and instead just marked it as a note for later.
+
+Even Manny looked confused as he explained. “These are skill shards. I’m not sure what you call them but they contain the activatable abilities found in rifts, the areas where monsters form up.”
+
+At the mention of rifts, Ra’thala nodded. “Monster Dens. Yes, foul places that spill out beasts who seek nothing but destruction. Containing them is a pain but I don’t know of any Constellations that come from the slain monsters.”
+
+“No not from the monster but from clearing the rift, the Monster Den itself.”
+
+“Clear it?” Ra’thala looked apologetic as he continued, “This translation Constellation is good but I believe it is confused. What do you mean ‘clear’? The monsters pour out in waves. Their foulness is then returned to the sky and the stars where it is purified and returned back down as energy for Celestials to absorb.”
+
+Realizing what Ra’thala was implying, Matt's eyes went wide.
+
+Manny was faster to speak however. “Where did you get your skills, Constellations, from then? Are they all self-created?”
+
+“No.” Matt nodded but froze almost immediately, “Only half or so are unique to me. Others are from various Celestials Guides I gathered in my travels.”
+
+Even Manny looked genuinely surprised at the revelation and Zack looked like he had found an entirely new specimen he could dissect to find new knowledge. Not that Matt disagreed.
+
+A Realm that seemingly used entirely self-made and replicable skills to function was an incredible find for a million and one reasons. It made sense they would need to do something like that if they didn’t enter rifts to advance and instead considered them pests, but he had never considered the ramifications of such a cultivation civilization.
+
+As for them not entering rifts, Matt thought he had an answer for how that came about. Whether accidentally or intentionally, they had run into an aperology-based strategy to increase the speed of Tiering up their planets.
+
+By letting rifts constantly stay full of mana the rift would be pouring the maximum amount of essence into the air as it converted ambient mana. Consequently, that same overflow would lead to rift breaks and possible ruins without any direct rewards such as skills shards.
+
+It explained why Ra’thala didn’t seem to understand what skills shards were but that seemed anathema to having any sort of functional society.
+
+Matt then had the thought they might not have any kind of structured society, but that couldn’t be true, as Ra’thala was clearly educated and intelligent. He also implied that he found various skills in cultivation methods, which implied linages and methods to pass down knowledge, which meant there had to be a base level of civilization.
+
+After a moment of stunned silence, Manny looked at Zack. “Can you project a [Fireball] spell structure in the air please.”
+
+Once Zack had done so and Ra’thala had been given a few moments to inspect the structure, Manny asked, “How complicated would you rate this skill?”
+
+“Moderate for a mid-level Divine but too complicated for a Celestial to create in any reasonable amount of time.”
+
+Matt mouthed the words as they were translated and the general confusion reignited as each side explained the steps on cultivation.
+
+A [Fireball] being hard to replicate for a Tier 4 or under seemed normal but it being only moderately hard for a Tier 5 to Tier 8 seemed ludicrous. Carving a skill into one's spirit was not trivial. He could have managed it as a Tier 10 given a decade or so but that didn’t make it easy.
+
+Ra’thala cocked his head and nodded to the skills. “Do you not do that? Because of these ‘skill shards’?”
+
+Liz waved and summoned a pile of Tier 8 skills they kept on hand. “I wouldn’t say they are common, they don’t start dropping consistently until Tier 8, peak of the Divine Realm for you if I understood the conversion of names correctly, but they aren’t that hard to get in our Realm just by clearing a rift.”
+
+Ra’thala made a hand gesture Matt interpreted as a shrug. “There are so few peak Divines, even if we know they would be extraordinarily rare. I suspect that even Almighty's, your Tier 15s or 16’s, I believe, would struggle to bring out so many.”
+
+That caught both of them off guard before everyone made noises of agreement.
+
+All but Zack who leaned forward. “Would you mind sharing what one of your beginner skills would look like?”
+
+Ra’thala copped Zack's hand gesture and created a skill structure out of stone in something that Matt would have called [Create Stone] but that worked very differently. Where [Create Stone] made real but low-Tier matter, the spell Ra’thala used condensed ambient essence into stone. It felt non-permanent but Matt wouldn’t be surprised to learn that it wasn’t so simple.
+
+The skill structure he created took Matt aback.
+
+It was so… simple.
+
+“This is a general physical enhancement spell that many Celestial Guides use and anyone can get copies off. It is considered a good starting point for most physical Constellations. I mean skills. I apologize for the slip up.”
+
+As Matt inspected the skill structure, he realized what he was seeing. It wasn’t simple. Or rather it was, but that wasn’t the whole truth.
+
+It was… large, for a skill. Very large. Matt wasn’t certain if it would even fit in a normal skill slot were he to have it in his spirit. It would possibly take up as much space as one and a half, even two skills, and it was crudely created. Or perhaps simple would be the better way to phrase it.
+
+But what it lost in elegance, it certainly made up for in robustness. If a normal skill was like a carpenter’s finishing hammer, this skill was like a sledgehammer. There was nothing delicate about the skill, in any sense of the word. It was unsuitable for fine-control work, but anything that tried to break it would just find itself shattered. As a consequence it also had a lot more room for error when inscribing it in your spirit, making doing so significantly easier.
+
+It was a general physical enhancement but Matt could see where, with an expansion and multiplication of the skill structure in one quadrant, you could multiply the speed of the user. On the other side of the skill was what he would call the strength nodes that would make the caster physically stronger and more durable.
+
+It might be simple, but for a Realm without ready access to enchantments and skill shards, something easy to carve into one's spirit like that, which something even a Tier 1 or 2 could manage, would be invaluable.
+
+Matt also didn’t miss the comment about how other more-specific or stronger skills were built off this base.
+
+He could see how that was not just possible but by design of whoever created this skill originally.
+
+It also made him wonder just how advanced a Tier 26 who had been at the peak of the Realm’s skills would be.
+
+Without the ability to just get new skills, Ra’thala’s skills were probably incredibly robust and hyper specialized to a degree even the Sects couldn’t compare to.
+
+Another part of his mind went to this more simple skill creation-based method and wondered if his guild could create anything interesting with it. He doubted most people would prefer this method over just getting enchanted equipment until they could afford proper skills but this method did give one an actual skill that would grow with the cultivator instead of items needing to be replaced every Tier or two.
+
+Matt just hoped that Ra’thala was as affable as he seemed and would be willing to share some more of the details of skill creation. Even if it didn’t become popular, it could be useful for those who lacked the funds but wanted to have access to skills both mundane and combat-oriented. And that was reason enough to have his guild look into this method of skill creation more.
+
+Manny brought them back around to the original topic and gestured at the skill shards. “This is an [AI] skill shard. Once absorbed, it will give you the ability to link into our information networks where you can get answers to most questions as they come up. It is also just useful as it allows or assists most of daily life and its many conveniences. You don’t need it but few choose that route and it is a gift freely given.”
+
+“I will accept them then. Thank you.”
+
+“The other shards are skills that are meant to supplement the [AI] skill to boost its capabilities. They are also gifts but you should learn more about our methods of using skills before deciding on whether or not you wish to use them. If nothing else, they can act as seed money if you choose to sell them.”
+
+Manny’s eyes hardened as he said in a more formal tone, “Now, as for something slightly less pleasant. The choice of your new home. As per long standing treaties, anyone who ascends into this Realm is given the option to move to another Great Power that more aligns with their beliefs. I can tell you about the Empire but I am unable to let you wander around unless you wish to remain here.”
+
+Matt felt Ra’thala stiffen, but it was only for a moment before he relaxed once more.
+
+From there, Matt and everyone else listened as Manny gave short but factual rundowns about the various Great Powers and their cultures.
+
+In the end Ra’thala said, “I see nothing egregiously wrong with you and your people, Emperor Emmanuel. I shall take your offer of citizenship and settle down. I think it will be nice to be in such a vibrant world. You and your people have so many cultivators. It's refreshing to see from what I was used to, and I like the idea that everyone is given the opportunity to cultivate. In my Realm, it is only for those who awaken naturally or like me take the shameful route of killing a monster when unawakened.”
+
+Manny genuinely looked like he wanted to pry into that but stood. “If that is the case, and you are amicable to the idea, my head librarian Ciceron is immensely interested in hearing what you have to say. I, however, must sadly return to my work. Once you are settled in, I will follow back up for a few more conversations that can only really happen once we both have a better understanding of each other's cultures.”
+
+Ciceron was already waiting as they filed out of Manny’s office, but one of the Imperial staff arrived and interrupted him with a courteous bow. “The Emperor has assigned me to guide you while you are at the Capital until you have settled in or otherwise dismiss me. Before you are taken away by the head librarian, I can show you a room where you can refresh yourself.”
+
+Ra’thala took up the offer but didn’t linger long. When he came out, his stone clothes had been replaced with comfortable baggy clothes tied tight at the ankles and wrists that Matt was sure the aide had had created on the spot for him via a high-Tier tailor.
+
+From there, Ciceron led them to the library where they listened to Ra’thala tell his life stories in great detail.
+
+Ra’thala had struck a deal with Manny that anything he shared would be paid for and anything that ended up being useful to the Empire would be bought for at an appropriate price.
+
+Matt got the impression Ra’thala didn’t quite believe Manny would pay for his life's story, but he seemed willing to share nonetheless and Ciceron was eager to absorb it all.
+
+And all of them found it fascinating; even Allie who could hardly sit still, only vanished a few times to top them off with snacks as they listened to Ra’thala tell his story and explain things about his world.
+
+Matt knew he had suffered some as a child, but he was also self-aware enough to know that his life was still better than others. Ra’thala’s life on the other hand seemed like one of pain and hardship for the vast majority of it. Being forced to fight for a Tier 4 in wars of conquest, becoming a cultivator through what he felt was a shameful method, and then being talented enough to reach the peak of Tier 4 through hard work and dedication on a planet Matt suspected was only Tier 4 or 5 itself. None of that could have been easy and they were only getting the highlights of his adventures.
+
+Ciceron speculated that at least part of Ra’thala’s advancement speed was thanks to his cultivation method which, after a little examination, seemed built around the idea of cultivating uncompacted ambient essence. It neither required monster essence or even seemed to particularly want it if Ra’thala’s comment on those who tried to cultivate using monster essence crippling themselves wasn’t due to an unrelated reason.
+
+If Ciceron’s speculation was correct, the reason Ra’thala wasn’t crippled by his less dense cores was because of how his cultivation moved essence around in the complicated eddies they saw in his cores.
+
+In an amusing turn of events, Ra’thala seemed downright aghast at how ‘unrefined’ and ‘simple’ their cultivation methods were when Susanne, Aster, and Allie dropped their veils long enough from him to inspect their cores. The new ascender not quite believing that they all followed the Path.
+
+“What are the advantages of his method, doc?”
+
+To answer Allie’s question, Ciceron spent a few seconds at Tier 40 speeds going over information but once he dropped back down to Tier 26 levels he said, “Our Realm probably used something similar, but as our new friend Ra’thala explained, it has issues. If it is similar, which is a big if, this style of cultivation method can be difficult to advance and any imperfections in the early stages can lead to being wholly unable to progress into the later ones. It also comes with significant difficulty in breaking through Tiers as a baseline, whereas our method might be simple but it's been refined enough where there aren’t any additional requirements than gathering a volume of essence and squeezing it down. Based on previous research, the eddies and complexities of this style of cultivation method is to make up for the weaker essence and lesser amount used. Look at his cores. The volume of his cores is the same but he has used roughly twenty percent less essence to get what I’d speculate is a similar amount of power to someone of a similar Tier who uses our cultivation methods. It's truly fascinating to see the differences that result in similar outcomes, and fills in a lot of questions we have had about such methods and their use in the past.”
+
+Ra’thala looked very interested at that comment and asked, “Is there anything in your histories about using monster essence to advance with a method like mine, Master Librarian? Or even anything about advancing past my current Realm?”
+
+Ciceron shook his head. “Nope. We in fact only have two complete methods that used to be used. A few dozen fragmented methods, but from everything we know, which let me reiterate that these methods have not been used for close to a billion years, they all needed ambient essence to function. They were all closely guarded secrets as well, but the current means of cultivation utilizing monster essence took precedence simply because of the ease by which one could achieve near-perfect compression. It has some limits, certainly, but they are ones that are easy enough to work around.”
+
+Ra’thala looked awkward even as he looked eager. “I am new here, so I don’t have anything in the way of value, but can I trade my services to access these information tomes? Even if they don’t follow the path of the stars, they might prove useful guides for my next stage of advancement.”
+
+Matt was going to offer to pay for the books, but Ciceron beat him to it. “I’ll be honest with you Ra’thala, my Domain revolves around gathering knowledge, so if you share what you feel comfortable with sharing to me, I’ll make anything not highly classified in the library open to you.”
+
+Ra’thala looked around at the tomes before nodding decisively. “I’ll take you up on that deal.”
+
+Matt leaned forward, gathering Ra’thala’s attention before they could get distracted. “I’d also like to offer something similar. You don’t have to decide now and honestly you should gather more information before deciding but I run a charity guild. I—”
+
+Seeing Ra’thala mouthing the something he expected was the magical translation of charity guild while looking extremely confused, he spent a few moments explaining the purpose behind the guild and the reason for its existence.
+
+“I really like the skill form you showed us earlier. I personally am not a master of such things, but I can afford to gather the masters and see if they can take what your people did and share something with our people. Some might not feel it's useful and prefer to stick with simple items until they can afford skill shards, but some people might really like a skill they can create for free so long as we can mitigate most risks. I can pay you handsomely for such knowledge, but I believe that there is value in researching this method. Your own experiences would be very helpful in that, and I would pay for that separately and generously.”
+
+Ra’thala mulled that over before saying, “I will keep that offer in mind. Thank you. I can say that I don’t mind sharing things that aren’t directly related to my own skills. In my wanderings, I have seen and memorized many cultivation methods. For posterity's sake, I’m willing to share all of them. Maybe they aren’t as good, but I am a stranger to a strange Realm and it would make me happy to know that a bit of my Realm lives on here if nothing else. And at that point, the skill’s creation methods would be known. But unless there is something I learn that changes my mind, I have no reason to reject your offer. I wouldn’t dare to call myself an expert, but I’m fairly good at creating skills. Self-made ones at that. A few that I shared even got popular and were widely adopted.”
+
+Aster elbowed Matt out of the way, sending a phoenix Liz squawking, as she said, “Is your Talent about skill creation?”
+
+Ra’thala shook his head. “My manifestation, what you call a Talent, isn’t related to skill modification or creation, it would have been helpful if it was, but I was not so blessed. I believe that my —”
+
+Ciceron held up a hand, silencing Ra’thala even as Zack and Matt were about to do the same.
+
+“Ra’thala, as a stranger to these lands I realized that you might not have a way to quantify your Talent. Now, that is a limitation which we can rectify in a moment, but it's considered taboo to share one's Talent. Friends—” he nodded to them, “good friends mind you, might share it, but I know of spouses who haven't revealed the whole truths about their Talents to each other. I’d recommend keeping that private or at most sharing a general idea of what it is.”
+
+Ra’thala nodded solemnly even as Aster apologized. “Sorry. I got excited. I wasn’t trying to pry. At our level, sharing stuff about your Talent is more common, but even then…”
+
+Ra’thala just shrugged. “I take no offense, as it wasn’t a secret in my home. What one knew about it was often shared. That said, I will take your advice on this, Master Librarian. Maybe if we become friends, I will share.”
+
+That led to a detour where they brought Ra’thala to a Talent scanner and he took a few minutes to inspect the thing.
+
+He seemed impressed by the complexity of the enchantments and ogled the way the system prevented anyone else from seeing the readouts. Aster even demonstrated it for him twice, trying to remove her metaphorical foot from her mouth.
+
+That then led to them showing Ra’thala an awakening machine.
+
+That seemed to truly shock him. “I wish I could send this information to my home. My taking essence from a monster was considered a shameful secret I had told no one. Something like this, that can awaken many with just a single monster? Amazing.”
+
+Liz asked her own question. “It's considered a right to awaken in the Empire. Even just low-level cultivation is so useful for anyone. You mentioned your family, did any of them become cultivators? Which let me applaud your people, inspirations are rare here. Matt, Zack, and Ciceron are the only ones present to have had one.”
+
+Ra’thala smiled lightly as he shook his head. “Sadly, no. By the time Warlord O’dchigin was slain in battle, my parents had already passed away. A famine combined with a long winter were too much for them. As for my younger brother, he survived but it had been almost a decade since I had been taken away to join the army and he hardly knew me. Combined with me becoming a cultivator, there was too much distance between us for much. After I saw to his needs and ensured he and his offspring would be taken care of, I started my own adventures, eventually leaving my world on a Sky Bridge.”
+
+Ciceron was the only one who didn’t look surprised as Zack asked the question they were all thinking, “How did these Sky Bridges work? They seem similar to our tethers and associated teleporters.”
+
+That information meant a trip to a teleporter, where Ra’thala inspected it before saying, “These are beyond me. I know little about how Sky Bridges work, though I can certainly predict when they will appear given some time to set up some divinations.”
+
+Ciceron nodded. “Hmm, natural formation? Interesting. Perhaps I do know something, then. Our tethers are an expansion of conceptual linkage, wherein two worlds that drift near one another in chaotic space will tend to influence the other, creating a space wherein it becomes possible to traverse between the two worlds. Naturally, they’ll only last a few decades to centuries, and keeping them connected beyond that can be dangerous, but that is likely what your Sky Bridges are akin to. The teleportation platforms use that to permanently lock the two locations into a tether.”
+
+Ra’thala surprised them all but shaking his head. “That isn’t wrong, but my people did discover how to create permanent Sky Bridges. Or at least permanent enough that even with thousands of years they haven't broken. I even know how to create them. There are more temporary versions that only last for about that long without stabilization and we use them to go and harvest planets that are worthwhile.”
+
+“Oh?!?” Ciceron looked like a puppy as he turned a feverous gaze onto Ra’thala.
+
+“Any advancement your people might have made could prove useful in lowering the costs of creating the tethers. Currently they take Tier 20 materials for even low-Tier worlds—.”
+
+Matt was also interested but knew his guild probably wasn’t the best place for such research; Allie finally lost her patience.
+
+“Enough with the nerd shit. Ra’thala buddy, pal, friendo, wanna spar? I’ve been dying to see what someone from another Realm can do with an ascension bonus and y’all have just been talking for way too long. That shit can wait for a few hours. Duel?”
+
+Ra’thala grinned and formed a blade out of stone. “I’d never pass the opportunity to test myself. I also feel the ascension has greatly benefited me and what better way to test myself than against new friends?”
+
+Allie smirked. “And what better way to make friends than to try and kill each other?”
+
+Ra’thala just grinned at the question.

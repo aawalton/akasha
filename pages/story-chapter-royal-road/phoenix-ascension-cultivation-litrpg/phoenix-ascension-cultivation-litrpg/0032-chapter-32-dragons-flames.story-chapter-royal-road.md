@@ -1,0 +1,177 @@
+---
+id: 71dce8dc-8433-5c74-bf04-f3ccccdacac6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32: Dragons Flames"
+slug: 0032-chapter-32-dragons-flames
+partOf: phoenix-ascension-cultivation-litrpg
+position: 32
+ownLength: 2302
+unit: words
+publishedAt: 2025-10-06
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2656283/chapter-32-dragons-flames"
+royalRoadId: "2656283"
+---
+
+The copper-skinned man didn’t disappoint. Just like a Spirit Beast, he slammed me against the ground four to five times before noticing that had little effect on me.
+
+I bled, that much was granted, but my wounds closed faster than they were created, and even if having my bones broken and repaired hurt like hell, at least they were still usable after.
+
+It looked like after evolving, my regeneration had increased by quite a bit. However, I didn’t know how long I could take this abuse for. If there wasn’t a limit to the damage I could take, there was a limit to my patience.
+
+Finally, he stopped, and threw me against a tree as he clutched his head with his hand. It looked like whatever transformation he’d gone through had done some damage to his mind.
+
+Hehe… doesn’t that mean he’s weak to spirit attacks?
+
+Just as I thought that, I  summoned a dozen or so needles and sent them flying toward his head. Much to my surprise, they bounced right off of him.
+
+“Tsk,” I clicked my tongue and felt quite dejected. I paid good money for the skill, and now it was useless against two random foundation establishment cultivators? And one of them looked like he went berserk for heaven’s sake!
+
+I sighed and stood up, my wounds having already healed, though my body still hurt. If mental attacks didn’t work, and my fire didn’t work on this guy, then I could only try physical attacks!
+
+Activating Iron Claws and imbuing them with fire, I side stepped to get closer, dodging another Sabre Qi attack, then ember stepped to appear right below the man. The fire created by the skill distracted him for a second, giving me the opening required for me to jump and high kick him in the face.
+
+My claws met some initial resistance that got melted away by the Nirvanic Flames, as opposed to the Phoenix Fire I’d used until then. One couldn’t deny the efficiency of the strongest flames within the known realms.
+
+He screamed in shrill pain, and turned around as my claws dug into his fatty face. I flew away, leaving a bloody gash that closed up fast, leaving only scars behind.
+
+Using my entire skillset feels better, but even then, that guy is strong. And I’m doing all of this with the Tiny Blood Lord title equipped and the debuff from the Elemental Wave. Perhaps I wasn’t as strong as I thought I was, or cultivators in this world aren’t as weak as I thought them to be.
+
+Either way, this is fun!
+
+Fire burned within my soul as something awakened inside. It’d been a while since I’ve had a fight this thrilling. Even the fight against the eight cultivators after I evolved didn’t make me feel this alive.
+
+So what if I bled? So what if I had broken bones and my feathers got ripped out? This was what it meant to be a cultivator, to fight, to defeat opponents, to win, to defy heaven!
+
+I let out an excited screech as I flew high into the sky, the sound echoing far and wide, then dove back toward the skinny man.
+
+Shaping my body for maximum velocity, I plummeted to the ground, with the skinny man’s skull as my target.
+
+He dodged, of course, but I’d expected that. Upon landing, I created Nirvanic Flames imbued waves and shot off my feet right at his chest.
+
+The man looked scared, but raised his sabre and parried my claws. That time around, I gave resistance, and effortlessly— almost too easily— pushed it down. I took advantage of the opening by waving my wing and summoning a tiny Nirvanic Flame that I then shot toward him.
+
+It didn’t look like he was expecting something like that, as he looked in stupefaction at the innocent-looking attack before screaming in horror as his face began to melt from the growing flame.
+
+He reacted rather fast, and took a few steps back before jumping into the lake to cool his face. When he got out, the skinny man looked like a ghost that climbed out of hell.
+
+With a burnt face, scorched clothes, half balding head and angry expression— he looked like a demon. Paired with his copper-skinned berserker Brother Li, the two made for quite a pair.
+
+The former seemed to have regained some of his sanity, as he joined Brother Hao’s side, though his eyes seemed redder than before.
+
+I spread my wings and stretched my body, getting ready to fight once again. Between the skinny man’s sabre attacks and the copper skinned fatty’s resistance and strength, these two were the strongest cultivators I’d fought to date.
+
+“Brother Li, are you still there?” The skinny man asked, giving the big man a glance with the corner of his eye. “I think the technique that fellow gave you is faulty… this. How did it come to this?”
+
+“Grrr…” was the only reply he got, but that was enough to show a decent level of sanity. The skinny man nodded, then looked me up and down.
+
+“I fear that’s not just any Spirit Beast. Brother Li… That one’s a Phoenix.” He explained, and I felt a little surprised. Few cultivators managed to discern that I was a Phoenix, after all, I didn’t exactly look the part.
+
+That Brother Hao didn’t reply, but the red in his eyes intensified for a moment. He let out a steaming breath, clenched his fists; and charged.
+
+I was ready for the attack, and side stepped it using Side Step, summoning a wave upon landing and used Ember Step to get closer to the skinny man. The wave hit as I appeared beside him, but the Sabre Qi was already upon me when I landed.
+
+It seemed that my attack pattern had become way too obvious, but that wasn’t necessarily a bad thing. When one attacked, they were wide open.
+
+Relying on my Strengthened Constitution and Dragonbone Tempering, and Heaven’s Protection, I took the man’s attack while dissolving some of it with my Nirvanic Flames. They lessened the impact my body got once we inevitably collided.
+
+However, I used the Myriad Qi Needles and attacked him. I knew that his spiritual defense was quite high, however I wanted to see just how many of them he could endure!
+
+Man’s most spiritual part was the head, however the spirit existed within the entire body, and I doubted he could protect it all in equal measure.
+
+A dozen needles shot toward him. Most disappeared into thin air upon hitting his body, but a very small portion managed to get through.
+
+His left arm and right leg had been hit successfully. He lost all feeling in them from the point of impact down, and he fell to one knee while the grasp on his sabre weakened.
+
+The attack hit me anyway, though.
+
+The barrier shattered as if it was nothing more than an air bubble, and the impact made me let out a pained groan.
+
+It was painful, so very very painful. The Sabre Qi created a rather deep gnash in my beautiful plumage, and the red dye that was my blood would be hard to get rid of. Luckily, my regeneration speed was fast, and the wound closed.
+
+That didn’t stop me from hurtling backward, straight toward the copper-skinned man. His hands were already in position, and I barely flapped my wings so that he grabbed my body instead of my neck.
+
+He squeezed. Hard.
+
+For a moment I thought I would faint, but luckily I had the sense of enveloping my body in Phoenix Fire right before he got me. His palms turned red from the heat, and any sweat that seeped through his skin immediately evaporated.
+
+Somehow, the grip he had on my body didn’t lessen one bit, though his arms began to melt.
+
+This is bad…
+
+I increased the potency of the Phoenix Fire, making it so the copper dripped down onto the earth. A shiver ran down my spine as a bad sense of danger crept up behind me.
+
+Throwing caution to the wind, I summoned two dozen needles and sent them all hurtling toward the copper-skinned man’s arms.
+
+About ninety percent of them bounced off, as his spiritual defense far surpassed what I thought possible from such a burly man.
+
+The few that did hit though weakened his defense, and by a sheer stroke of luck, the last one hit.
+
+His right hand immediately fell, as he remained unable to use it anymore.
+
+Straightening my body and sucking in my belly, I took advantage of the weakness and dodged the skinny man’s attack. Somehow he’d crept forward and forced himself up, striking at me with a physical strike.
+
+Thankfully, the Phoenix Reflex warned me of the danger in time, and I swiped at his legs with Tail Whip. The leg that was already weakened ended up getting severed, while the other sustained a serious amount of damage.
+
+Blood gushed out, allowing for white bone to be visible. The man let out an excruciatingly painful grunt, but didn’t relent in his attack. Even as he fell from the lack of strength on either leg, he swiped toward me with the sabre, its edge almost cutting off my neck.
+
+I dodged by a hair’s breadth thanks to Phoenix Reflex, and took a few steps back to catch my breath. The usage of the Myriad Qi Needles took a huge toll on my mental capacity, and if I were to use it further I would be unable to control my body.
+
+That was the limit of the skill. If my spirit wasn’t strong enough, then it would be useless.
+
+Quickly assessing the situation, I noticed some amount of clarity returning to the copper-skinned man, and the skinny one popped a pill into his mouth. The wound around his leg healed visibly, and even the damage I did to this spirit seemed to mend.
+
+I clicked my tongue and assessed my resources.
+
+Without even needing System to tell me, I knew that I had about fifty percent of my health left, and about forty five percent of my Qi.
+
+I had to end this, and quick. Never could I have expected a fight against foundation establishment cultivators to drain me so much.
+
+Of course, if it were any other Qi Condensation cultivator, they would have already travelled to the yellow springs. But I was a Phoenix, one with cultivation and the strength of a Phoenix. That meant that I could fight far above my cultivation level, but that didn’t mean I would stomp my enemies.
+
+I lacked proper techniques for a cultivator. The skills were good, but weren’t fully compatible with the cultivation part of myself. I doubted that most Spirit Beasts at my level— without much Qi or awareness— could buy and use Active Skills.
+
+Bloodline skills were what allowed Spirit Beasts to be so domineering, however there was a limit in the early stages, as I’d found out. They were powerful, sure, but my stats weren’t anywhere near high enough to do proper damage.
+
+Just how are these humans so strong…
+
+That was a good question to ask once I survived this ordeal.
+
+The question that remained was, how do I kill them? They knew I was a Phoenix, leaving them alive wasn’t an option anymore. I attacked first, so the enmity between us could be said to be my fault.
+
+However, in such a dog eat dog world where resources were sparse and the competition fierce, I had no choice. Besides, if they told other cultivators about this place, then they would head deeper in to look for more Qi Lakes, and the risk of mother being discovered would increase.
+
+I couldn’t have that.
+
+Thinking about the grief Mother endured when my siblings had been mercilessly killed by humans such as them— greedy, unscrupulous and uncaring— anger flared inside my body like a fire spreading in a dry forest.
+
+That anger exploded out in the form of a Phoenix Fire that engulfed my entire body, and the notification before my eyes right after surprised me.
+
+[Skill: Phoenix Fire has reached the [Expert] Rank.]
+
+Was there such a thing?
+
+Either way, I’d just gained a new advantage. My Bloodline Skills would now be stronger, and the combination of Dragon Flames would also wreak havoc.
+
+With that thought in mind, I made a series of wings and summoned a wall of Nirvanic Flames, accompanied by a parallel one made out of Phoenix Fire, and willed both flames to take on the shape of two large serpents.
+
+A snake without hands is just a snake, but a snake who grows a horn is a wyrm.
+
+As I thought that, a large, protruding horn grew out of the skull of each snake, and their appearance took on a more physical form as well.
+
+A snake with a horn is a wyrm, but a wyrm with hands becomes a lindwurm.
+
+The two wyrms immediately shifted to grow frontal limbs, letting out a bestial roar that threaded the line of real and ethereal.
+
+“Brother…Hao.” The copper-skinned man said, his coarse voice hiding a hint of fear.
+
+The skinny man shook his head, a wiry smile decorating his face. “Brother Li… this…”
+
+A lindwurm with legs becomes a lung dragon!
+
+Another roar, and legs grew out of their body. Scales appeared over them, from head to tail, shimmering with a flickering light.
+
+A lung dragon who takes to the skies becomes a True Dragon!
+
+In that instant, the two looked toward the sky, and began flying. A wave of fire passed over their bodies, their now shining scales gaining more depth and a richer texture, fire dancing all over their bodies as the wind bellowed.
+
+Rooaaaaaarrrrrr!!!!!

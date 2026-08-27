@@ -1,0 +1,107 @@
+---
+id: bd40ecde-942e-55d4-a134-628605661a43
+page-type-slug: story-chapter-royal-road
+title: "Chapter 33: Fury Of The World!"
+slug: 0035-chapter-33-fury-of-the-world
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 35
+ownLength: 2809
+unit: words
+publishedAt: 2026-07-18
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3695492/chapter-33-fury-of-the-world"
+royalRoadId: "3695492"
+---
+
+Molly's figure blurred into motion, the [Flight] formula embedded on her left wrist flaring brighter as she pushed more speed into her ascent. Moés granted her no breath of respite. He charged upward alongside her, his movement defying the natural order, all that ancient bulk closing distance with a speed that mocked physics. Molly's gaze snapped to her left side. The scythe was already there, its blade slicing through the air and arcing straight for her head. She twisted mid-flight, her body contorting as her eyes tracked the tip of the weapon, watching it dye the space she had occupied a heartbeat ago into a deep, hungry grey, a grey that swallowed light and warmth alike, leaving only the cold promise of cessation.
+
+Without pause, without permitting herself a single steadying breath, Molly ascended higher. She pierced through the belly of the clouds, her robes snapping violently around her form, and she aimed herself toward the very pinnacle of the sky where the moon hung high and luminous. She did not halt. She raised her right hand toward the heavens as though summoning the attention of something vast and chaotic that slumbered beyond the veil of the night. The mana in the surrounding air rushed directly to her outstretched palm, assembling with a sharp, keening shriek that scraped against the ears.
+
+The symbols took shape. They formed the image of a single, jagged lightning bolt, its forks splitting and re-splitting in endless, fractal recursion, a bolt of such violent purity that it seemed to tear the very concept of wholeness apart. Thirteen smaller arcs branched from its blazing core, each one a hairline fracture in reality, each tip blazing outward with an arrowhead of searing blue-white. Between the arcs, tiny symbols shaped themselves into crumbling motes of shattered matter, the debris of things that had once existed and would never exist again. This was the root: destruction raw and absolute, lightning as it was meant to be when the world first learned to break.
+
+The structure encapsulated the arrangement. Molly halted in the air, her chest rising and falling with controlled breaths, and her eyes stared downward as she saw the lich already closing the gap. Her gaze hardened. She controlled the formula, scaling it until it seemed to bloat the sky itself, and she gritted her teeth, pouring her will into the spell with the steady, unyielding pressure of a dam holding back a flood. Then, with the sound of the firmament splitting apart, the completed formula was suddenly dyed a blinding, blue-white—the color of a lightning bolt caught at the exact moment it kills, the color of heaven's fury unsoftened by mercy.
+
+She let the bolt loose.
+
+Crack… BOOOM!
+
+The bolt carved through the sky, mocking the distance between itself and the lich, ignoring the laws that governed lesser things. Moés swung the scythe, the tip of the blade rising to meet the crackling thunder head-on. The two forces collided in a tight deadlock that stretched a single second into an eternity, and then the bolt was killed, its jagged form ceasing to exist as though it had never been. Before the lich could even consider his next move, another bolt, far more furious than the last, came crashing down upon his ancient form.
+
+A deafening boom shattered the air, splitting the clouds apart in both directions. Molly stared into the churning smoke, her eyes searching for the lich's silhouette, knowing full well that the bolt would not have done much damage. But her gaze immediately locked onto something else, the rough white symbols gathering in the air with a deep, hungry vacuum that pulled every mote of light inside the haze toward a single, collapsing point. Then, with a shudder like the first crack spreading through a dying star, the symbols began to shape themselves into a weapon that knew only death.
+
+Molly immediately seized control of the [Thunder Bolt] formula, willing it to release another strike to disrupt whatever Moés was silently commanding into existence. But her eyes flew wide as her instincts screamed a warning that bypassed her thought entirely. She did not need to think. Her figure deleted from the spot, erased from the record of existence.
+
+Almost simultaneously, her form rematerialized from the completed luminous gold formula that bloomed in the distance, her body becoming whole as though stepping through an invisible curtain into the world once more.
+
+Her eyes darted to the place she had just vacated. A slight frown creased her shrouded features when she saw Moés already occupying that space, his skeletal form looming where she had been a heartbeat before. The formula she had tried to stop had already assembled into its completed shape—the image of a long, barbed spear forged entirely of compressed void. Its shaft was not smooth but woven from the silence of closed graves and the stillness of hearts that had forgotten how to beat. Its tip was a sliver of black so sharp it cut not flesh but existence itself, a point that promised deletion. At the spear's base, ten long, sinuous traceries curled outward from the shaft like the ethereal tails of a predator scenting prey. Each arrowhead contained a tiny, lidless eye that had snapped open the moment its target was chosen. Between those seeking lines, smaller symbols gathered into weeping mouths that silently mouthed erased names—names that had already been struck from all memory, from all record, from the world's remembrance.
+
+Just as her gaze settled upon the formula, Moés hollow voice reached her ears from across the distance. "Do you think I wouldn't notice you've been prying me?" His voice rolled across the sky like the precursor to a divine verdict.
+
+Molly shifted her attention from the completing symbol and stared straight into the glowing sockets of the lich, utterly unfazed by the thickening of the air, that suffocating pressure meant to make any mortal shudder in primal fear.
+
+Seeing that his aura had drawn no flinch from her, the lich tilted his skull in quiet amusement. "You never seem to have an end to your surprises," he said. "How interesting…" The moment the words left his lipless mouth, and with a resonance that fell deeper than hearing, the completed formula beside him was suddenly dyed a hungering black, its outermost rim fringed with a thin, withering corona of violet that pulsed like a dying galaxy. The black of a door that opens only one way. The violet of a soul unwritten.
+
+And from within its depth, a spear was let loose with nothing more than a thought.
+
+In an instant, the spear closed the gulf between them. Before Molly could so much as draw breath, the weapon was at her chest. Her figure deleted from existence with equal speed, reappearing a heartbeat later in a position farther away from the spear's original trajectory. Her eyes could not help but widen in surprise when she saw the spear already there again, right in front of her, its void-tip aimed directly at her heart. Only one thought echoed through her mind in that frozen moment. Homing spear.
+
+With a sharp and decisive reaction, Molly [Blink] again, her form manifesting a great distance away. For the third time, she used the [Blink] formula to dodge the spear, unable to outrun it as the weapon corrected its path and continued its relentless hunt. Her figure deleted from where she hovered, and the moment she reappeared, she was already hurling the [Void Hole] formula toward the [Homing Death]. The two forces clashed in a tight, grinding deadlock before the death spear was swallowed whole by the gravitational maw. The air around the point of impact fractured in spiraling cracks, reality itself buckling under the strain of two opposed concepts.
+
+A laugh sounded in the distance. Molly turned to face the lich, who, upon noticing her gaze, spoke with the measured cadence of one who had witnessed empires crumble. "Now would you take the fight seriously?"
+
+Molly stared at the lich for a long moment without giving any outward reaction. Then, slowly, a small curl lifted the corner of her lips. She gave a short, deliberate nod.
+
+"Good," the lich said. The air in the sky grew more suffocating still, and the rough white symbols shuddered violently as the wills of two beings collided for dominion over them. The lich readied his scythe, the blade humming with that dreadful, patient hunger. "Then I won't hold back."
+
+In that moment, Molly immediately flew upward as the scythe sliced through the space she had occupied a heartbeat before. Without pausing to steady herself, she flicked her right hand through the air like an orchestra conductor directing a symphony of ruin. The rough white symbols crowding the night answered without hesitation, obedient to the silent utterance woven into her will. They surged in massive waves before her, arranging themselves with violent precision, weaving together to form four [Chain of Edict] formulas.
+
+The structure of each formula encapsulated its entire arrangement, sealing Molly's will into immutable commands. Then, with a low, grinding hum that seemed to vibrate through the very bones of the world, the completed spells were suddenly dyed the color of cold-forged iron laced with searing violet. The color of a prison in a god's domain.
+
+From the faces of the four completed formulas, eleven physical chains of pure, glowing violet-veined metal erupted outward per emblem. They lunged in relentless, unwavering lines, shooting toward Moés, who casually swung his scythe in a wide arc, attempting to sever the chains at their source. But instead of cutting, the chains coiled around the blade and slithered past it, wrapping around his entire body, every limb, every joint, every ancient vertebra, until he was bound in a lattice of unbreakable decree.
+
+Molly silently commanded another formula to take shape, but before the symbols could even begin to gather, her breath caught in her throat. She saw it, a completed formula pulsing on Moés' skull, its symbols already etched and blazing.
+
+The formula pulsed once.
+
+Then it broke.
+
+From the completed emblem, a shockwave of invisible death-energy erupted outward in an expanding sphere. It did not roar. It did not crack the air. It moved in perfect and terrible silence, a wave of pure cessation sweeping outward in all directions. The [Chain of Edict] formulas were irrevocably gone, their violet-veined iron erased from existence as though they had never been.
+
+Molly's mortal instincts screamed. She flew with desperate haste, pushing the [Flight] formula to its limit as she tried to outrun the expanding radius of the attack. She [Blink] again, ascending higher and higher until the shockwave's reach finally fell short of her position. Her eyes tracked the aftermath below, the clouds and the night sky had been dyed a terrible grey, stripped of all life, as though creation itself had drawn a line and swept away everything that had been standing on the wrong side of it.
+
+"Why don't you give up, young mage?" Moés said from where he stood amidst the grey devastation, his voice resounding through the whole sky. Molly stared at him, tilting her head in a questioning manner. 'Why do you say that?' she asked inwardly, her mental tone carrying genuine curiosity. 'I haven't lost yet.'
+
+The lich chuckled, the sound a low, grinding rumble. "Do you truly think you can win against me—Moés Má-vet?" His voice dropped into a growl that mocked her words, heavy with the confidence of ages.
+
+A sigh escaped Molly. She shook her head slowly, as though pitying the bone of a being that had lived so long yet understood so little.
+
+Seeing this, the lich's composure cracked by the smallest measure. His voice came out slightly harsher, though it remained controlled. "Are you laughing at me?"
+
+Molly shook her head again. 'No,' she projected. She lifted her right hand and pointed above her, and in that simple gesture, all the white symbols drifting across the entirety of the sky began to shudder. The mana all around answered her silent call, rushing toward her as if paying homage.
+
+'I'm just surprised by your antics.'
+
+Homage to a god.
+
+In that moment, the rough white symbols ignited. They blazed to life like stars dragged down from their ancient orbits, and the heavens above became a canvas awaiting apocalypse.
+
+The first symbols gathered, assembling into [Thunder Bolt] with that same sharp, keening shriek. The first structure encapsulated the spell. Then, with the sound of the sky splitting, the completed formula was suddenly dyed a blinding, blue-white, the color of a lightning bolt caught at the exact moment it kills, the color of heaven's fury unsoftened.
+
+Behind the first, the second wave of symbols surged outward, spreading wider, growing larger. They arranged themselves with a resonant, bell-like hum. The symbols formed the image of a great, radiant lightning bolt forged not of destruction but of searing, golden light, smooth along its length, its edges soft with luminescence, yet impossibly sharp at its tip. The remaining symbols followed, shaping thirteen long, luminous lines that radiated outward like sunbeams, each tipped with a golden arrowhead that pointed resolutely forward. Between these rays, smaller symbols spiraled into tiny, open eyes of pure light, each one weeping motes of gold that burned away shadow. This was the second root—a root that spelled cleansing, the banishment of darkness, the light that does not merely illuminate but erases all it deems impure.
+
+The second structure encapsulated the golden formula. Then, with a chime that echoed across the firmament, it was suddenly dyed a blazing, molten gold, the color of dawn breaking over a world that had never known night, the color of light that judges. The color of the formula [Cleansing Light].
+
+And then the final wave came, the greatest of them all. The symbols did not gather, they stormed, sweeping outward in a colossal ring behind the first two, dwarfing them both, dwarfing even the moon that hung silent and witness above.
+
+The symbols formed the image of a lightning bolt so vast it seemed not to be a bolt at all but a wound carved into the flesh of the sky. Its edges writhed and lashed, never still, and at its core burned a deep, blazing red that pulsed like a heart in its final rage. The remaining symbols arranged themselves into thirteen colossal, jagged spears of crimson, each one tipped with an arrowhead that blazed like a dying sun, each one aimed outward with the intent not merely to strike but to obliterate. Between these spears, smaller symbols gathered into tiny, clenched fists that opened and closed in helpless fury, into weeping eyes that shed not tears but embers, into mouths frozen in eternal, silent roars. This was the final root—the fury of the world made manifest, the rage of earth, sky, and all living things condensed into a single, annihilating pronouncement.
+
+The third structure, a circle vast enough to encompass the sky itself, sealed the crimson formula. Then, with a roar that threatened to shatter the fabric of reality, it was suddenly dyed a blazing, apocalyptic red—the color of volcanoes vomiting their molten hearts into the heavens, the color of the world's last scream.
+
+This formula rose behind the gold, larger still, its edges overlapping the second as the second overlapped the first—three celestial rings of descending judgment, each one distinct, each one terrible, and between them those trembling gaps of air that hummed with unbearable tension.
+
+Moés stared at the vast formula that now encompassed the entirety of the sky. His grip tightened on his scythe, the ancient bones of his fingers creaking against the haft. He knew fully well what type of formula this was. "Impossible…" The word escaped him unbidden, his burning gaze locking onto the lone, black-robed figure who had brought this into being. "How… This formula cannot be cast by just anyone." He spoke the words even as his mind raced through the impossibilities, the requirements for casting a formula so deeply connected to the world's own emotions. To wield this spell, one must first reach a level that stood almost within arm's reach of a sage. And most importantly, one must be loved by the world itself, loved enough to feel its joys, its griefs, and its rage.
+
+Upon hearing his words, Molly tilted her head with quiet amusement. 'Like I said…' The moment the words were projected, the three formulas pulsed—once, twice, three times in perfect unison, their colors bleeding into one another at the edges, blue-white into gold, gold into red, creating a multicolored corona of annihilation. The trembling gaps between the rings collapsed, and Molly's last words echoed in the shared space between them like a verdict delivered.
+
+'I haven't lost yet.'
+
+In that moment, Molly let the [Tier 13] formula, [Fury Of The World], loose.

@@ -1,0 +1,347 @@
+---
+id: 99dfa05d-d75b-5e31-9d7e-536a244f2de6
+page-type-slug: story-chapter-royal-road
+title: "245. Nightsveil Part 5 (End of Volume 4)"
+slug: 0034-245-nightsveil-part-5-end-of-volume-4
+partOf: salvos
+position: 34
+ownLength: 2949
+unit: words
+publishedAt: 2021-12-13
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/805801/245-nightsveil-part-5-end-of-volume-4"
+royalRoadId: "805801"
+---
+
+245. Nightsveil Part 5
+
+Saffron tried to protest, but my clone took off, flying far into the distance as I watched from where I floated. Belzu’s approach slowed ever-so-slightly as he watched my companions escape. His eyes flickered back to me, seeing me hold the Breastplate of Alexander up.
+
+And he swerved my way. The monsters came for me, ignoring Saffron and her family. My clone could leave the city unimpeded. It was just me, standing in the middle of this tempest of terrible things. The center of attention, as per usual. I relished these moments when everything revolved around me.
+
+Even if it was kind of dangerous right. With a smirk, I equipped the Breastplate of Alexander and summoned a second clone. I could create two clones now considering the level of [Salvo of Vanity]. Even if I was going to try and give Belzu exactly what he wanted, I was going to play it safe. The instant I closed the straps of the Breastplate of Alexander, I felt a surge of power wash over me. It was like I’d been hit by a wave of magic, and it was now coursing through me and filling me with power.
+
+Temporary General Skill [Greater Status Effect Resistance] Obtained!
+
+Temporary General Skill [Superior Aura of Greater Protection] Obtained!
+
+Temporary General Skill [Repudiation Repulse] Obtained!
+
+Stats:
+
+[Available Stat Points: 0]
+
+[Vitality]: 136 (+25) (+50%)
+
+[Strength]: 112 (+25)
+
+[Endurance]: 125 (+25)
+
+[Wisdom]: 210 (+25) (+10)
+
+[Agility]: 268 (+25)
+
+“Huh. Nice.”
+
+I flexed an arm, grinning. Then I flew towards Belzu. The Primeval Demon halted as he saw my approach. I readied myself for any curse or illusions he’d throw my way, but he simply waited for me. I shouted as I finally met him, above the ruins of Nightsveil’s palace.
+
+“Hey Belzu!”
+
+He peered at me as thunder crackled in the background. Flames burned below and roared smoke in plumes around us. The entire city was being razed to the ground, but I didn’t really care. It wasn’t anything that mattered to me too much. I had already saved Saffron’s family, now there was no other reason for me to stay here.
+
+Why would I fight and die for people I didn’t know or care about?
+
+I’d always found that odd about Edithe or Daniel. Or Saffron. Or even Haec. I remembered how upset he was over the death of the others— of the [Infant Demons] that had been with him. Maybe I was just weird.
+
+But I was Salvos. I didn’t care if I was different.
+
+I didn’t care that despite the terror and disaster Belzu brought about, I only had one thing to say to him.
+
+“I think you’re pretty cool!”
+
+He blinked. He actually closed his bulbous eyes and opened them, staring at me in complete and utter shock. His meandering monsters slowed as he tried to regain his composure. I was pretty sure Belzu thought he was the one caught in an illusion. However, this was the truth. This was reality.
+
+“So, do you want this thingy or…?”
+
+I gestured at the rainbow-colored breastplate I was wearing. He nodded slowly, dubious.
+
+“Indeed. That is what I seek.”
+
+“Huh. Alright. If I give this to you, will you let me go free?”
+
+“That depends.”
+
+Belzu brought one of his spindly arms to his rotund face and scratched his chin.
+
+“You have tried to foil my projects thrice now, Archdemon.”
+
+“Hey! I didn’t do anything to stop you. I was just helping my companion out each time. Well, other than the first time where you tried to kill me in the Brilsum Ruins. Although I was trying to find a Fairy to get back to my companion, so technically I was still trying to help my companion out then too.”
+
+I shrugged.
+
+“Anyway, point is, I’m not going to try to stop you. I’m only going to try and stop you from killing my friends and companions. Like today. Otherwise, I honestly think you’re amazing.”
+
+“Amazing?”
+
+The Primeval Demon crossed all of his arms. I nodded eagerly.
+
+“Yep! You’ve leveled up so fast and you’re so powerful. And everyone says your name in fear, and your people look up to you.”
+
+I waved off-handedly at the monsters gathered around him. He frowned.
+
+“Are you messing with me?”
+
+“Nope!”
+
+Then I leaned forward slightly, looking at him with round eyes.
+
+“But I’m curious, Belzu. What is it that you want? Yes, I know you want this thing I’m wearing, and I’ll give it to you. However, why are you doing all this? It can’t just be for this artifact, right?”
+
+Belzu hesitated. He didn’t answer immediately. Instead, he took a moment to study me— to gather each and every one of my subtle changes in facial expression. Finally, when he felt like he had studied enough, he drifted towards me.
+
+“Very well. If you want to know why I do this, I will tell you.”
+
+I narrowed as Belzu spread his arms wide.
+
+“I am doing this to save my kind. To stop the Demon King’s foolish plans. To prevent the merger of the planes.”
+
+Daniel and Amanda crept their way further into Deathfall’s Dungeon. Torchlight illuminated the stone corridors, placed alongside the railway tracks that made up this system of mineshafts. It was like they were lost in a labyrinth, no one to guide them in or out.
+
+Well, apparently Amanda could find her way back out. She was keeping track of where came from. The problem was where they were going: neither of them knew what awaited them further inside. Just that they were going further inside.
+
+There were rooms— dorms for [Miners] to sleep. Places set up for meetings. Even equipment left behind by assassins who supposedly stayed here. And that begged the question: where was everyone?
+
+Not once did Daniel spot a Human walking down these halls. He saw only Demons. And he understood why soon enough.
+
+They stumbled upon a large chamber— one that was circular with a tall ceiling. In it, the largest summoning circle Daniel had ever seen was inscribed on the ground. And on it were piles of bodies. Amanda’s eyes widened as she saw the corpses.
+
+“Those are…”
+
+Daniel frowned.
+
+“Assassins?”
+
+“Yes. And not just any assassins.”
+
+Her voice droned on, low and full of terror.
+
+“They’re… Kedath the Quick Death... Thah the Poison Hands… Beva the Forge of Daggers… each of them are over Level 100. These are the best assassins of the Harrowed Vindicators. Why are they…?”
+
+“They’re sacrifices.”
+
+Daniel cut her off. He pointed past the dozens of corpses— not all of them were over Level 100, some were lower-leveled members, or non-assassins. But they were all used for the same reason.
+
+The summoning circle began to glow as a red aura was sucked from the bodies. Amanda staggered back.
+
+“What is this?”
+
+“A summoning. They’re summoning Demons.”
+
+Daniel crouched down, bracing himself for the wave of powerful energy. And from the center of the summoning circle, a pulse shot out. It shook the ground and nearly knocked Amanda off balance. He caught her, gripping the hilt of his blade. Ready for a fight.
+
+And from the smoke emerged a hulking serpent. It had a long body, coiled together as it stomped forward on dozens of legs. It had a yellow, square-shaped pupil which landed on the one doing the summoning. Another Demon who bowed before it.
+
+“Levithus, welcome to the Mortal Realm.”
+
+The serpent Demon, Levithus, smiled and bared its teeth.
+
+“Ah, so this is our new home.”
+
+[Hellprince - Lvl. 171]
+
+“Now, where is that traitor Belzu hiding?”
+
+“To prevent the merger of the planes.”
+
+Belzu spoke slowly. His voice was deep and thundering. I listened, waiting for him to continue. When he had nothing else to say, I cocked my head.
+
+“Huh. That’s it?”
+
+“You don’t understand, do you, Archdemon?”
+
+He shook his head in disappointment.
+
+“Our King wants nothing more than to live like mortals. He so desperately desires to be a mortal, he is willing to drag our Species through the planes that separate us from them just to live like them. Such foolishness… I shall stop him. And when he lies dead beneath my feet, I shall assume his mantle and lead our kind like a true Demon.”
+
+“I see, I see.”
+
+I nodded along as Belzu finished his short speech. His monsters had stopped moving, but they pretty much surrounded me from all sides, waiting. Mindreapers circled me from above too. There really was nowhere I could escape. Not unless— well, it was risky, but Belzu was really bearing down on me here. And he hadn’t even promised that he’d let me go yet!
+
+“That’s cool and all, but can I please go? I’ll give you your Breastplate of Alexander.”
+
+The Primeval Demon produced one of his sharp hands.
+
+“I shall let you go once you have given me what is mine.”
+
+“I already said I would give it to you!”
+
+“That was not what I was referring to.”
+
+His gaze bore into me as he continued.
+
+“Pledge fealty to me— denounce the Demon King Regnorex— and join me in opposing him, then I shall let you go.”
+
+“Huh.”
+
+I stared at Belzu as he gave me an expectant look. Exchanging a glance with my clone, we both had the same thought. Well, we were the same person so we only had one though— which was my thought. I turned back to the Primeval Demon and sighed.
+
+“First of all—”
+
+I wagged a finger.
+
+“This Demon King… whoever he is… he’s not my king. I don’t know him. I’ve never even met the guy!”
+
+I shrugged as Belzu frowned.
+
+“Second of all— and I believe I’ve told you this before— I’m a Princess. I rule myself. I obey myself. No one else.”
+
+His monsters moved as I raised my hand. My clone created a Primordial Scythe, and Belzu made the sky bleed.
+
+“Lastly…”
+
+I took in a deep breath, meeting the Primeval Demon’s gaze.
+
+“I don’t think mortals want this ‘merger’ either, you know? You could always work with them to stop this. They don’t like Demons, and you don’t like mortals. Wouldn’t it be smarter to work with them than against them to stop this?”
+
+“Working alongside Humans?”
+
+Belzu laughed.
+
+“I’d rather die.”
+
+I bared my teeth as I activated a Skill. [Temporal Distortion].
+
+“And that, Belzu... that simply makes you wild.”
+
+The world around me slowed as he moved towards me. He tried to wrap me up in his illusions, but my clone threw herself at him. He tried to swat her away, and she clung onto him. The flames that made up her body grew wilder and wilder. Belzu struggled until the golden fire engulfed him completely—
+
+And exploded.
+
+A blast more powerful than even my [Demon’s Mark] erupted, shaking the earth even from the sky. I watched as the night sky turned to day briefly as I continued working the spell. The monsters came, and Belzu flitted down, wreathed in flames. He stared at me with a hate-filled gaze.
+
+“You—”
+
+“Honestly, I really was going to give you the Breastplate of Alexander. I really was. But now, I’m going to keep it.”
+
+I bent space and altered time itself. I pictured a spot— a faraway spot that was close to me. One which I’d already played with. And I reached for it as I looked back towards Belzu and his illusions.
+
+“You should have quit while you were ahead, Belzu. Because—”
+
+A portal opened up and I spread my arms, challenging him.
+
+“I’m going to kill you.”
+
+Then I disappeared into the darkness. Belzu came for me— he tried to catch me, but I slipped away. His world of illusions vanished behind me and I popped back through another portal. A hole in this plane, right inside of my Lair. This was the exact same spot I’d practiced my [Temporal Distortion] for months. The same spot the Devil came through.
+
+And here I landed, laughing, with the Breastplate of Alexander worn around my chest, safely escaping Belzu’s clutches.
+
+Available Secondary Skill [Short Ranged Teleportation] becomes [Long Ranged Teleportation]!
+
+Experience is awarded for evolving a Skill!
+
+Subspecies [Daeva Cambion] Level Up!
+
+[Daeva Cambion – Lvl. 109] -> [Daeva Cambion – Lvl. 110]
+
+Gained 5 Stat Points and 3 Skill Points!
+
+Class [Worldly Mystic of the Nexeus] Level Up!
+
+[Worldly Mystic of the Nexeus - Lvl. 49] -> [Worldly Mystic of the Nexeus - Lvl. 50]!
+
+Gained 2 Secondary Skill Points!
+
+...
+
+Class [Worldly Mystic of the Nexeus] Level Up!
+
+[Worldly Mystic of the Nexeus - Lvl. 51] -> [Worldly Mystic of the Nexeus - Lvl. 52]!
+
+Gained 2 Secondary Skill Points!
+
+“Nice.”
+
+—--
+
+A figure stepped into my Lair, looking curiously at me as I lay sprawled on the ground. The Devil crossed his arms as he stood over me.
+
+“So, did you do your chores while I was gone? I hope you didn’t invite any boys over. I’d be really mad if you did.”
+
+My eyes rolled up to meet his smirking face, and I actually chuckled.
+
+“Well, if a boy comes over looking for me anytime tonight, you can chase him away if you want.”
+
+“Aw, did my little Salvos steal some guy’s heart?”
+
+“I stole something else.”
+
+I hopped to my feet as the Devil laughed.
+
+“Now, I don’t want to know how you got yourself tangled with Belzu’s rebellion. But… I can’t say I’m surprised. I knew you’d be interesting. And you have good ole Alexander’s thingy too! It’s pretty sturdy. Good on you.”
+
+He beam as he patted me on the shoulder. I shrugged it off, instead looking at the Devil with a grave look.
+
+“Sal.”
+
+“Oh? We’re being serious now, are we? I’ll have you know, if it’s something too big, I may just go searching for some milk again. As you can see, I didn’t bring back any.”
+
+I ignored him as he waved his empty hands around, showing the lack-of milk.
+
+“If I asked you to kill Belzu for me, would you do it?”
+
+His eyes narrowed. He inspected me for a moment as I waited with bated breath. Then finally, he answered.
+
+“Nope. I like Belzu, too. I told him I wouldn’t kill him, like how I said I wouldn’t kill you. So, I won’t.”
+
+“I see.”
+
+I sighed, shoulders sagging. The Devil elbowed me with a whisper.
+
+“But just between you and me, I think I like you more than him.”
+
+“I don’t care.”
+
+I straightened as he stumbled back, feigning hurt. I ignored it and shook my head.
+
+“I have changed my mind, Devil. Let us make a deal.”
+
+“Oh? Why the change of heart? Are you finally coming around to your old man?”
+
+“No.”
+
+I spoke in a blunt voice, and he cocked a brow.
+
+“Then why?”
+
+I explained.
+
+“It’s because, somewhere out there, my companions are fighting for what they believe is right.”
+
+Saffron Merryster and her family reunited in their mansion as smoke billowed up in the distance. The destruction of Nightsveil could be seen even from hundreds of miles away. The Merrysters quickly gathered their things, planning their next course of action as Salvos’ clone waited for her next command in the courtyard. Saffron paused before the clone, closing her eyes. She hugged the clone, thanking her friend from the bottom of her heart, and cursing herself for ever scorning Salvos.
+
+“Or maybe they’re not fighting. Maybe they’re running.”
+
+Daniel Song and Amanda fled Deathfall’s Dungeon as more Demons were summoned into the Mortal Plane. He found out the truth. He knew what was happening. And it terrified him. But it also bolstered him. It gave him a reason to fight— to finally return to Elutra.
+
+“Maybe they’re recuperating.”
+
+Edithe Dawnrise sat in an inn, just resting. Hadrian was passed out across from her, having drank his worries away for now. She was tired. Exhausted. The end of the company war should’ve given her some reprieve, but all she was given were a myriad of other problems to tackle. And she’d deal with them. Just not yet.
+
+“Maybe they’re even doing something else. I don’t know.”
+
+Haec stood in a white wasteland devoid of life. He stepped over the corpses of those he’d slain littered around like rocks, glancing back as a figure landed next to him. They exchanged no words, but a single nod from her told him what to do. He followed her as she flew off towards the crimson horizon. But deep down, he knew he was meant to be following someone else.
+
+“Point is, they’re all doing something for themselves. All this time, I’ve been doing things for them. And yes, I do care about them and I will continue helping them. But now, I want to do something— my own thing.”
+
+I walked up to the Devil, extending an arm.
+
+“Teach me. Help me learn a Grand Skill. Make me stronger than Belzu so that when the next time we meet, he’ll be the one running for his life.”
+
+I finished. He looked at my proffered hand, eyes twinkling as a grin spread across his face. And, of course, Sal smiled as he took it.
+
+“Anything for my daughter.”
+
+End of Volume 4
+
+Author's Note:
+
+There we have it. The longest volume to date. Almost 80 chapters. It was a lot of new and different things-- a lot less action than previous volumes and more character growth. However it turned out, I hope you guys enjoyed it. I'd love to hear your thoughts on it. You even received a shocking little cameo from Haec there towards the end :)

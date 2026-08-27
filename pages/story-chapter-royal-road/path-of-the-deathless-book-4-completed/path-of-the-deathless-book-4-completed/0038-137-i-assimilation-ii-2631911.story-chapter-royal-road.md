@@ -1,0 +1,149 @@
+---
+id: 46efbfb3-60aa-5966-8933-ff2912127575
+page-type-slug: story-chapter-royal-road
+title: "137 (I)  Assimilation [II]"
+slug: 0038-137-i-assimilation-ii-2631911
+partOf: path-of-the-deathless-book-4-completed
+position: 38
+ownLength: 2598
+unit: words
+publishedAt: 2025-09-26
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2631911/137-i-assimilation-ii"
+royalRoadId: "2631911"
+---
+
+Hydras are curious creatures in the way they evolve. When they finally hit the threshold for sapience, their centermost head will be the first one that becomes truly self-aware and intelligent on an individual level. This usually causes some level of insanity for the hydra, as the centermost head will then be held back by the others due to their bestial nature.
+
+This phase of the hydra’s existence is typically called “The Tearing” as it characterizes just how severely they are torn between the monstrous and the individual. And so large is a hydra’s brain that it can often conceptualize a great many ideas at a rapid pace—but this is often followed by its predatory instincts overwhelming it. There have been instances of hydras suffering a mental breakdown after they tore through a village, discovering the people it is feeding upon to be self-aware, like it. Subsequently, the hydra usually suffers an existential crisis, with the centermost head going catatonic while the others fight to control its body.
+
+Another interesting occurrence is with their souls. As the hydra transitions between the boundaries of the monstrous and the individual, their clashing, tearing nature grants them access to a few Skill Evolutions that few other beings in Integration have access to. These Skill Evolutions have close cousins to certain Monster Skills, separated only by slight deviations that veer ever so closer to something an Individual Pathbearer might get.
+
+As such, it is not surprising to see a hydra develop an Adamantine Reinforcement Skill and learn to wear armor rather than a pure Adamantine Scale or Adamantine Adaption Skill…
+
+-Monsters and Individuals (Essential Reading for ZOO-101 for Phoenix Academy)
+
+137 (I)
+
+Assimilation [II]
+
+Woundeater 97 > 99
+
+Practical Metabiology 40 > 41
+
+Memorization 11 > 13
+
+Multi-Tasking 9 > 12
+
+Awareness 24 > 26
+
+Plaguefueled 72 > 74
+
+It took two more deaths for Shiv to finally notice what the Court Leviathan was actually doing to him. More accurately, what its field was doing to his. The Court Leviathan's Biomancy was powerful, but it was also subtle. Every time it crashed against his magic, it left a trace of itself and slowly bled into his field. And there it stayed, like a piece of foreign magic lodged in place. The was so subtle that Shiv didn't realize it was even there until a mere second ago.
+
+Every time the orcs struck at his mana field, they hurt him. They split his field open, but they weren't doing that just to torture him, just to strain him. No, they were pushing the foreign mana deeper inside his body.
+
+And that was the most fascinating thing of all about the Court Leviathan. Its mana field seemed capable of independent movement, or at least some level of separation from itself. It glided through his field as if a spiritual pathogen of some kind.
+
+And the subversion began there, before it assimilated his flesh, made his bones and meat come to life of their own accord, so that they could part free from his body and join the Leviathan's biomass. There was a subtle sickness, a virus that took hold. And it was this very capability that allowed the Court Leviathan to also store diseases, toxins, and other pathogens. It wasn't just an assimilator of flesh; it was an assimilator of biology.
+
+Helix described it as an organic hacker, so to speak. When Shiv asked what a hacker was, the orc went into detail about how automata could sometimes hijack each other's minds by transmitting specific codes. This led to another diatribe on the part of the orc, where he proclaimed the supremacy of the flesh once more. While he did that, Shiv finally caught sight of Mortar through the crowd, and he noticed how the large orc was constantly shaking his head and letting out billowing sighs.
+
+As Shiv resurrected again, he stared at the orcs and demanded they restart the assimilation process anew without any delay.
+
+"See what you're doing now," Shiv said, speaking directly to Helix.
+
+The orc Biomancer simply smirked. "Oh, do you? Or do you only glean a small facet? I think we'll find out soon enough."
+
+"Have the leviathan swallow me again. I'm gonna see if I can stop what it’s doing this time."
+
+It drew him under in an instant, the bone at his feet parting, tendrils of flesh wrapping around his body, pulling him down. Once more, a layer of bone fused over him. It was like being inside someone's ribs, and the flesh around him hardened. The air grew hot and humid. Crystallized Biomancy mana crashed against his, but rather than continuing to grind, it drifted over him, splashing back and forth like a tide. He would liken it to a magical stomach acid in that moment, one slowly trying to dissolve its way through his field.
+
+And he focused. He paid attention to the Court Leviathan's mana as best he could. He let the orcs tear into him, even sacrificing some of his attention, as they opened patches in his field. Despite the pain, the orcs were merely a distraction. He was here to get a specific kind of skill evolution, one that would only come if he learned. And that would only be less lengthy if he learned exactly how the Court Leviathan's skill worked.
+
+As ruptures and trailing tears lined Shiv's mana field, the Court Leviathan's mana began to intrude, pouring inside, pressing against the gaps and clefts it discovered. Just then, he felt the tingle, the first hints of hostile, foreign mana pushing into him. They were so small, mere glints of slightly denser red within his own field, but he saw them this time. His Awareness rose, as did his Multi-Tasking.
+
+Multi-Tasking 12 > 13
+
+Awareness 26 > 27
+
+"I got you now," Shiv thought to himself. He seized those particulates, and he pressed against them. Using his Biomancy, they shot free from his field in an instant, emerging like shrapnel squeezed out from a wound. But before they could go back, Shiv clutched them, holding them in place. He struck at them using his Biomancy in an attempt to break them. However, his field was far too soft comparatively. As Woundeaters flared bright around his body, he found himself squeezing against the Court Leviathan's mana, but he was like wind trying to erode a stone. Perhaps he could do it given enough time, and if the orcs weren't actively hammering him from a few meters above, but under present circumstances, he lacked the force to break them outright.
+
+Even so, he didn't surrender the fragments back to the Court Leviathan. He held the pieces there for as long as he could, even as more gaping holes were left in his field. The pain he suffered was barely noted, and he managed to hold on for a full five minutes before the orcs finally burst his mana field apart again. It felt like someone was ripping an internal limb free from his body.
+
+Shiv frowned. It took the near-total destruction of his Biomancy before the Court Leviathan finally flooded his body with assimilating particulates, unlatching his skin from his bones, infusing his bones with animal instincts of their own, and stealing his organs by granting them life to finally end him.
+
+He perished once more, but as his Biomancy was allowed to ascend back to the bridge, he found Helix looking upon him with a hint of pride. Shiv wasted no time in threading his Vitae out among the orcs and draining them of vitality.
+
+Woundeater 99 > 100 (Skill Evolution Imminent)
+
+Memorization 13 > 14
+
+Multi-Tasking 13 > 15
+
+Awareness 27 > 29
+
+"Well done, Insul. That took four deaths, but you finally saw it. Or did you?" The orc narrowed his eyes. He adjusted his spectacles before taking them off. Shiv stabbed him in the gut slightly, and the orc Biomancer let out a grunt. He held back a grimace as Shiv began to drain from him, but otherwise, Helix surrendered no true expression of pain—mainly because he applied his Biomancy to himself. A flowing set of spell patterns swam through the orc’s flesh and mended the damage Shiv inflicted in an instant while the Deathless resurrected.
+
+"Tell me what you saw," Helix demanded.
+
+"Fragments," Shiv answered, "particulates, small pieces of mana that burrowed their way through my field and eventually got into my body."
+
+"Good, good," Helix said, nodding. He looked back at the other orc Biomancers, and Shiv noted how they, too, seemed gleeful about his progress. They were genuinely pleased with his growth, pleased with him as well. And there was the damnable thing about the orcs again. Every now and again, between moments where they let their psychopathy be known, they were plenty encouraging, and they genuinely wanted you to succeed, if only to dominate you later.
+
+"There is a reason why I wish for you to have Chimeric Assimilation," Helix said. "It is useful for you. It allows you to settle pieces of your body in someone else, to transplant your biology upon them, or potentially to draw their biology over. Greater still, it allows you a means of intrusion against a rival Biomancer, or a subtle way of infesting certain populations."
+
+"It doesn't work so well against someone with Magical Resistance, though," Shiv replied. "Not without a concentrated strike."
+
+"Ah, but you're thinking too bluntly again, Insul. You should consider this. Rather than slamming your Biomancy against someone's mystical protections, you grind at it, over and over, from afar. You launch out your mana and drag it against them, make it so powder-fine that it constantly stresses their field, yet escapes their notice."
+
+Shiv nodded slightly as he tried to picture how that might work. If he did get this skill evolution, he might become the biomantic equivalent of Uva. But then again, that wasn't exactly so. "What else does chimeric assimilation allow for the mana field?" he asked. "I understand that it allows me to absorb traits from things I assimilate."
+
+"No, no," the orc said. "It's more like a biological archive. It is the reason why you still need to study to level your Practical Metabiology, why you need to have a proper model of what you are doing. When you assimilate something into your field, your field will grow stronger."
+
+Shiv blinked. "That's how it works?"
+
+"Correct. It is a monstrous evolution. Quite different from the standard static field or dynamic mana waves used by most Pathbearers."
+
+"So if I just assimilate a bunch of organic tissue—"
+
+"Biomass," Helix corrected. "And yes, that would be your next question. If you assimilate a bunch of organic tissue..." Helix wriggled his nose. "...a bunch. Once again, not being very specific. But still, if you assimilate a great deal of organic tissue, it will technically increase your mana. In a sense, it… You will understand it better when you evolve. You will learn to distribute your mana as you wish once that happens. But just know that gathering more biomass within you makes your mana stronger, as becoming a Chimeric Assimilator makes the mana at your disposal one-to-one with how much biomass you can wield." The orc paused. “It is more like having a functional mana ceiling."
+
+"Mana ceiling?" Shiv repeated, not fully understanding.
+
+"Yes, mana ceiling. As in, there is only so much mana that your skill can accommodate. You cannot go beyond that. It increases every time you level, every time you evolve. But still, there is a limit. And that limit is drastically amplified because of this Skill Evolution. So you will need to assimilate a great deal of biomass, perhaps as much as the Court Leviathan itself, to fully hit capacity. Yet, the more mass you absorb, the more you must suffer."
+
+Shiv blinked. "Okay, so I was wondering about the catch. Is that it? Are there other problems?”
+
+Helix just barked a laugh. "A great many. When you assimilate something into your mana field, it is stored within you as well. It will strain your field constantly, and because of how chimeric assimilation works, your field will be rooted directly against your body, and any instability inflicted upon you may result in a series of," Helix considered his words, "mutations, or more likely cancers."
+
+Shiv let out a sigh. "Great. So, if I don't absorb a lot of biomass, I don't get a lot of mana."
+
+"Not a lot of usable mana. Think of it as activating the total mana you do have. It works differently from most fields. Magic is a thing of… symbology, sometimes. It must be signalled by the physical world.”
+
+Alright? But I don't have that much mana if I don't absorb biomass?”
+
+"You have some, Insul. You are made of biomass, after all.”
+
+“But not as much as I could.”
+
+“Correct.”
+
+"And if I absorb too much, and I can't control it well, or I don't understand how to remove the cancers and fix the mutations..."
+
+"Exactly," Helix said, snapping his fingers. "So, now you understand why it matters so much for you to learn Practical Metabiology. For though you might be able to chimerically manifest, say, an orcish arm using your mana field, more likely than not you will give your body cancer during the process because you don't know what you're doing. And that is unavoidable for us due to the lack of Lineage Cores and means of avoiding true effort.”
+
+At his own mention of the Lineage Core, Helix looked aside and spat on the ground. "The vampires are pathetic creatures. Everything they do is to avoid responsibility, avoid actual effort and labor, which is why so many of them lack proper supplementary skills, such as Awareness, or Memorization, or Multi-Tasking. They don't need to worry about their body; it will just be regenerated, restored to its original state, or the state imprinted upon them by their initial progenitor. I can barely consider them Pathbearers at all in that regard. No proper Pathbearer avoids struggle, avoids learning the nuances of their magic in and out."
+
+"You take Biomancy pretty damn seriously, don't you?" Shiv asked.
+
+"I take all magics extremely seriously," Helix corrected. "In this life, I have dedicated myself to Biomancy. In the next, perhaps there will be something else."
+
+"You always say that shit!" Bonk cried out. He waved his massive club through the air. "And every single time you go back to Biomancy anyway!"
+
+"Because it's useful," Helix snarled. He pointed a finger at Bonk. "Because my Biomancy allows me—"
+
+"Yes, yes," Bonk interrupted him. "Look, I get it. You don't need to give me the speech again. Now, can you finish torturing the living shit out of the Insul using the Court Leviathan, so the rest of us can get a chance to fuck with him?"
+
+"I am not fucking with him!" Helix's voice rose an octave. "I am instructing him on the fundamental nuances and the finer bits of a proper mage!"
+
+Bonk's nod was as slow as it was sarcastic. He looked at Shiv. "Hey, listen, Insul. Later, when we're hitting you, that's just because we want to hit you. You can fight back. In fact, we prefer it if you fight back. But, uh, I'm not going to give you this woo-woo bullshit about us training you to be a better warrior. I use this club because I like hitting people with it. And, considering that you don't die, well, shit, I think I want to get some Physicality levels out of this."

@@ -1,0 +1,243 @@
+---
+id: 5d2fe512-6960-5ce2-bed7-3e528e69c555
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15"
+slug: 0015-chapter-15
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 15
+ownLength: 2831
+unit: words
+publishedAt: 2026-06-04
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3491253/chapter-15"
+royalRoadId: "3491253"
+---
+
+I took a brief second to centre myself, to get used to the brilliant, glittering overlay of my options lined up before me, translucent writing confusing my vision of the regular world. Then, spent a moment lining up the possibilities and sorting out the choices that were unavailable due to my negative quirk. Then I spent another moment, and removed the ones that were either underwhelming or not truly useful at the moment, like Improved Leap and Hardiness, until I ended up with a much more manageable list.
+
+Tier 2
+
+Improved Defense
+
+Improved Resistances
+
+Tier 3
+
+Burgeoning Aggression
+
+Improved Run Speed (3)
+
+Life Steal
+
+Tier 4
+
+Burst of Power
+
+Deflect
+
+Moment of Grace
+
+Wheel of Magic
+
+Tier 5
+
+Internal Scourge
+
+Personal Universe
+
+Starting from the bottom, Improved Defense was definitely getting chosen sooner, rather than later. The added survivability from improving the efficiency of my fortitude and my defense from armor was undeniable. Improved Resistances? Sure. I should up my resilience, make sure I could shrug off even Elio di-natural-disaster Fiore. Later. I’d need some actual resistances, before I could improve them.
+
+Burgeoning Aggression would make me a target. Heh. Control would be nice, but I’d also have to be able to survive it. Later. Improved Run Speed, for three talent points, was an excellent choice, too. But right this moment, that would just allow me to leave Nix behind to get eaten. And I wasn’t going to be that guy.
+
+Burst of Power I considered, then forgot. What good were oodles of temporary attributes when I couldn’t convert them into damage dealing? Moment of Grace, meanwhile, was droolworthy and a life saver, but took five talent points to unlock. Deflect would improve my options and efficiency in close quarters. It would wait, though.
+
+Internal Scourge was yet another future choice. Curing diseases, poisons and whatever was all good and well. But I’d have to survive to get diseased in the first place.
+
+That left me with three options I thought would be extremely useful. Tier 3 Life Steal, Tier 4 Wheel of Magic and Tier 5 Personal Universe were the big options here.
+
+Life Steal
+
+Passive Talent. This talent converts any damage you inflict on enemies into lifeforce, which you can make your own.
+
+3% Life steal per point
+
+0/5
+
+Wheel of Magic
+
+Passive Talent. The wheel can be activated whenever you are subjected to a minimum of magical damage (even if blocked, absorbed or shielded). The wheel will surround you, throwing magical damage back at enemies. Damage caused scales with damage suffered and the magic type is randomized. One spoke activated per point.
+
+Range: 30 meters
+
+Cost: 20 stamina per minute
+
+0/5 points
+
+Personal Universe
+
+Passive Talent. You unlock a personal space, in which you are able to safely store items by mental access alone. Only the storing and removal of items has any cost associated with it. The size of the Personal Universe will increase with every level after Level 25.
+
+Initial size: 1 cubic meter
+
+1 point to unlock.
+
+I discounted Wheel of Magic. I would need it, but the requirement that it could only activate when I was hit with magical damage would make it a waste for some clashes. Later!
+
+That left two just wonderful options for me.
+
+I caved and spent the talent point for Personal Universe. Sure. It was a point that could’ve been spent on my survival. But it also represented the option to safely carry goods and equipment that could literally save all our lives, if things went sideways – and they wouldn’t weigh me down. On top of that, it was affected by my quirk, increasing the size to 1,5 cubic meters. I felt pretty certain that was a sizeable increase.
+
+Then I grimaced and dumped both the remaining talent points into Life Steal. Was I still a one-trick pony? Sure. But I’d be a one-trick pony who was a lot harder to kill. Not only was the talent free to use and was always active. Using Wave of Reflection, it would allow me to heal even when I parried an attack fully. Meaning, in optimal conditions, I'd be able to keep myself constantly topped up. And the life steal effect was further improved by my quirk! When I had that one fully improved, I’d be able to heal a full twenty-something percent of all damage I inflicted.
+
+Without a second’s thought, I took my three available attribute points and dumped them into Fortitude. At some point, I was going to have to grow stronger, faster, more perceptive. But for now, toughness and survival were the name of the game.
+
+Current overview:
+
+Liam Berg
+
+Level: 3. Progress to next level 37%
+
+Class: Fighter
+
+Path: Path of Fortitude
+
+Quirks: Enforced Anti-Violence, Tier 5. Passive Power, Tier 4.
+
+Traits: Starved Growth (Temporary)
+
+Health: 171/400
+
+Stamina: 400/400
+
+Mana: 70/70
+
+Health regeneration: 4.0 health/hour
+
+Mana regeneration: 63 mana/hour
+
+Stamina Regeneration: 44 stamina/hour
+
+Attributes:
+
+Strength: 13
+
+Agility: 12
+
+Dexterity: 8
+
+Fortitude: 20 (40)
+
+Perception: 11
+
+Mental Power: 7
+
+Mental Control: 9
+
+Talents:
+
+Tier 3:
+
+Life Steal 2/5
+
+Tier 5:
+
+Personal Universe 1/1
+
+Wave of Reflection 5/5
+
+Skills:
+
+General:
+
+Identify. Level 1
+
+Stamina Regeneration. Level 1
+
+Defensive:
+
+Arcane Resistance. Level 1
+
+Armor. Level 1
+
+Endurance. Level 2
+
+Shield. Level 1
+
+I grinned in satisfaction at the sight. Sure. My build was still horribly lopsided, and there were a ton of scenarios that could see me blindsided and shit out of luck. But I’d just taken the first additional step to becoming a force to be reckoned with.
+
+When I told the others, they didn’t react how I expected, though. Or, rather, Nix did. She laughed in delight at my choice of Personal Universe, admitting that she’d been inches from choosing it for herself as well. Apparently, everybody got the option at Tier 5, likely as a reward for making it to Level 20, or for being crazy enough to pick a Tier 5 negative quirk. Then she clapped her hands at the notion of Life Steal and the possibilities that would grant me for staying in the fight longer.
+
+Then she had a meltdown. At least, that’s what it seemed like to me. She stopped, staring out into nothing. A moment later, she beamed at me. “Here’s the deal, Liam. I’m going to need to punch you in the face.”
+
+Certain comments are hard to take at face value. Especially when they’re declarations of violence from somebody the size of a bag of potatoes, with the warm, cheery delivery you’d expect from somebody telling you that you should go to the pub for a beer. My mind ground to a complete halt. “You… what?”
+
+“Me.” She pointed at herself. “Punch face.” Index finger pointed at me.
+
+“I do have that effect on people. But usually, they have a reason?” I said, still not getting it.
+
+“Love.” Haddock said, rubbing his forehead in frustration. “You’re doing it again. And the math don’t math.”
+
+Nix, looking equal parts smug and crestfallen, like he was ruining her joke, growled. “Why not? I just wanted to help.”
+
+“I know you did. But it’s not feasible. We can’t abuse his Life Steal like that. Not yet.”
+
+It finally clicked. She was suggesting that I actually hurt her to gain back some health for myself. Only, Steve was right. At nine percent life steal, killing her was a real risk, and it would only save me a couple hours of regeneration. ”Haddock’s right. We’d just end up with you needing to spend as much time as me resting and recuperating. Now, that doesn’t mean that we should wait a full day, though. And in the future, once I max out the talent and earn further improvements, it might actually be feasible.”
+
+I grinned. “I appreciate the offer, though, Nix. First time anybody’s offered to punch me as a favour!” I hesitated. “Except for Lily, back in third grade. And she was offering to fix my brains. Anyway, for now, I think we should just find a good solution back in camp. I’m sure I’m not the only one who’s been hurt on their outing. They’ve got to have something I can trade some of my share for.”
+
+We made it back in the early afternoon. Apparently, the day was a tad longer than on Earth, leaving us with a bit more time in the day to get out, conquer, and return triumphantly. Even if people in general warned about being out at night, there’d be no doubt that the near future would see groups camping in the Killing Fields at night, because of scarcity on the hunting grounds.
+
+The camp bid us welcome in full anonymity. We were just one group among many, one tale among a constantly evolving tapestry of tales to be told over the campfire. There’d be heroics, deaths, small victories and failures galore, enough to write a dozen books, just for this one day.
+
+We halted the cart just before the camp and focused on what needed to be done.
+
+“How about this? We take care of all the trading. Then you go see what can be done about new team members who aren’t willing to screw us over.” Nix’s eyes were open and expectant… and just a tad too innocent.
+
+“Are you just saying that to avoid talking to Major Pain?” I accused.
+
+“Maybeee. Okay, yes. I hate puns! But in my defense, we’re probably also better at the crafting stuff. We have spent quite a lot of time on the whole homesteading thing, so we know a good deal about materials.”
+
+I groaned. “Okay. I’m taking one for the team. Once that’s done, I’ll need to hunt down somebody who can help me with the healing. And then, erm, I’d probably better see if I can find somebody who knows something about proper shield use.”
+
+“Good plan. You remember where our cots are, right? We’ll be circling back there on occasion. If you need some of your share for bartering, just come find us. Now, I’ll be trying to trade up for some gear that can boost our attributes a bit, if possible. You want us to look at some trades or crafting done for you?”
+
+I held up a finger. Then I focused and, a second later, extracted my shield from within my Personal Universe where I’d stored it along with my backpack. “A shield that doesn’t break from the very first attack it’s hit by, perhaps?” I smirked. “Apart from that, we’re talking armor. But I’d probably wait and see just how much these beasties will be able to afford us, once they’re pulled apart and dismembered.”
+
+We split up and, with heavy treads, I went on to see the Major. He was right where he’d been last time I saw him, shooing off a group of freshly arrived people. Their shiny white clothes and shell-shocked faces were a dead giveaway.
+
+He blinked as I strode up to me, taking in my limp, the long, healing cuts on one arm and my, by now, thoroughly bloody and dirty clothes. Following that, he… did not quite react in the way I’d imagined. His face split in a huge grin. “Who-eee! Y’all survived! That’ll buy me moonshine for tonight!”
+
+“I… what?”
+
+“Moonshine? For getting shitfaced? Drinky-poos? Whatever you guys across the pond call homemade alcomohols.”
+
+I sputtered. “No. I know what moonshine is. You’re betting on our survival?”
+
+“Course I am. It’d be mean if I was betting against ya, wouldn’t it? It’s not like I’m getting a pay check here. Anyway, what about the rest of y’all? Looks like you had a tough go of it?”
+
+“You can say that again. We ran into a bunch of Core Leechers, and… well. I’m the worst off of the bunch. But we did end up with some minor disagreements about whether team members should knowingly unleash their offensive talents right on top of their own team.”
+
+“Yeesh. That’s ugly. Blind fella did that? I shoulda seen he was an ‘I cast fireball’ type. Y’all need a new team member then? He still alive out there?”
+
+“He is.” I rolled my eyes. “It’s not like I could’ve strangled him, even if I wanted to. You’ll probably want to do something about him, though. He’s going to get somebody killed.”
+
+For the first time since I’d seen him, the Major acted with something outside of detached amusement. He spat on the ground and shook his head sadly. “You really do mean that, don’tcha? Bless your heart.”
+
+“What’s that supposed to mean?” His change in demeanour seemed to have come from out of nowhere.
+
+“Y’all need to wake up and smell the sarsaparilla. This ain’t Earth. We don’t have police, courts or laws. Heck, we barely have rules. I just had a visit from one lass who’s the sole survivor from her third group. Maybe she’s unlucky. Maybe she killed ‘em all for experience. I’ve no clue. And I ain’t even gonna try fixing anything, cause it’d just be me guessing.” He leaned forward on his folding chair and poked me in the leg. “Instead, I’m just gonna keep up doing what I do. Try to match y’all as best I can, give all U-Nerds the best chance to get out there, kick ass and take names. If somebody in our ranks acts up, we’ve got a few high-leveled sluggers who’ll give ‘em a good talking to. Any problems beyond that, use the brains that God gave ya.”
+
+There were many things I wanted to say to him. Yell at him, to be honest. But he had a point. This wasn’t the Wild West. It was even wilder. Hell, with the possibility of somebody leveling up to the point of being untouchable, who’d even try to police anything like that? Under what jurisdiction? At some point, one of the larger emerging groupings or coalitions – or several in conjunction - might become strong enough to enforce a set of rules. But what would that ruleset look like? With all the different factions we saw growing stronger in here, it could easily turn out to be a fate worse than death. What if the cryptobros decided to team up with that Shield of the Titan dude? Or the Asian militaries? This place could easily end up like North Korea, a ‘democracy’ in name alone.
+
+I expelled my breath in a huff. “Alright. I understand. Not a fan, but… I hear you. So, what can you do? We’re short a Mage who can work with the weirdness we’ve got going, and a sniper, because they were a team.”
+
+He chuckled. “Y’all are a bunch of special needs sluggers, that’s for sure. Be precise. What’d ya want? Better eyes? More boom?”
+
+“Better eyes would be amazing. Somebody on the Path of Perception who’d be able to scout for us, make sure we don’t get ambushed. The three of us are kinda limited in that we need a good deal of setup to work best. Whatever they can do apart from that would just be a bonus, honestly. Boosts, damage, whatever.” I considered his other suggestion. “As for more damage? Sure. We’d take that. A healer would be nice, if there are any.”
+
+He nearly choked with laughter at the suggestion. “Bless your heart, son. I reckon every single group out there’d sell their sister for a healer.” He waved his hand in a vague easterly direction. “Only ones with an abundance of healers are them Asian military folks. And that’s because those in charge force ‘em to pick what they choose.” He shook his head. “Healer’s just another Mage. There’s no guarantee you’re even getting a proper healing talent for the first tier. That means you might be stuck until Level 5 just banking talent points, risking your life as you try to level up, without even allowing ‘em to pick something to protect themselves. Poor fuckers.”
+
+I grimaced. That was diabolical. Not only would it lock those poor bastards into support positions for life. It’d also that they would be even more stuck with that coalition. Especially because there’s be a language barrier involved. Even if he wanted to and dared, how would some poor Thai labourer be able to make himself understood enough to jump ship and join another grouping?
+
+It wasn’t like I knew any of the other groupings properly. There were bound to be plenty of good people in them, tons of aid to help lift you up, incentives to keep you on the road to success. But dammit, if it didn’t look like we were planning to continue with the same tired bullshit in this new world that we’d played since forever on Earth. “I’ll be honest. If healers aren’t really a thing, we’ll probably take whatever we can that won’t interfere with our getup.”
+
+“Darn tootin, you will.” He waved me off. “Now git. I’ve gotta take a leak. I’ll have something for ya in the morning.”

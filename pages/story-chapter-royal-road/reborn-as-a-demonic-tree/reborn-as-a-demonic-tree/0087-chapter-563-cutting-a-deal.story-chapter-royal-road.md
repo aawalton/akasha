@@ -1,0 +1,133 @@
+---
+id: 3fd14c8a-858e-5bb6-9449-a92d42b38f27
+page-type-slug: story-chapter-royal-road
+title: "Chapter 563: Cutting a Deal"
+slug: 0087-chapter-563-cutting-a-deal
+partOf: reborn-as-a-demonic-tree
+position: 87
+ownLength: 2401
+unit: words
+publishedAt: 2026-04-24
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3314464/chapter-563-cutting-a-deal"
+royalRoadId: "3314464"
+---
+
+Ashlock left Douglas to oversee the construction of the vast airship station in the valley that would house the airships he had won from the battle. At the same time, Elaine devoted herself to researching the Fleshfruit tree and working alongside the Mystshroud family to install Mystic Qi illusion formations around Red Vine Peak.
+
+With these matters set in motion, Ashlock could focus his attention on tracking Grand Elder Ren of the Celestial Empire, whom he had marked for death.
+
+The Poison Monarch didn't head straight for the World Tree. Instead, he paused over the Hellroot Abyss. It appeared as a demonic scar on the land, from which twisted fiends of bark continued to endlessly crawl out. Shrouded in a fog of desolation and Ash's oppressive spiritual pressure, it served as a symbol of his might.
+
+At the center was what remained of Faelorian's estate, which now served as the base of operations for his cult and was guarded by Elysia and Councilman Cyphion. With their presence, combined with the fall of Floridawn's leader and the betrayal of Cyphion, Floridawn had been seemingly abandoned by the Celestial Empire but remained closely watched if the many cultivators floating high in the sky were anything to go by.
+
+Grand Elder Ren seemed to come to a decision and dove down toward the Hellroot Abyss. On instinct, the many fiends patrolling the area and the massive black roots that encircled the Hellroot Abyss like petals to a flower reacted to his presence. Ashlock had them all stand down.
+
+"Elysia," he called out through his ethereal root network, to which she was connected, "you have a visitor. Kill him if you wish."
+
+While he had been marked for death by the Covenant, and he wanted Ren to run to the Chairman and explain what happened to further its prestige as an assassin organization, if Ren was going to present himself on a silver platter, Ashlock was more than happy to oblige and have one of his strongest Monarchs strike him down.
+
+Despite informing the Hellroot Abyss's defenders to relax, the hundreds of powerful Ents he had left in defense of Floridawn in his absence watched Ren as he descended, like turrets ready to fire at a moment's notice.
+
+Grand Elder Ren seemed to take it all in with fascination. Ultimately, he could wipe the floor with all of the Hellroot Abyss's defenses—only Elysia and Cyphion could truly threaten his life. Which was what confused Ashlock.
+
+"Why is he going in there, knowing there are two hostile Monarchs? Has he gone mad?" Ashlock pondered as he watched with curiosity. The minds of Monarchs seemed to work differently from others; the way they saw the world was more... unique. They were incredibly cautious until it came to something that earned their interest. That's when all caution went to the wind, and they honed in on that one thing until it either became theirs or they died trying. "I guess I can only wait and see."
+
+***
+
+In this moment, Grand Elder Ren desired nothing more than an audience with the All-Seeing Eye. The poison he had been forced to drink for his freedom was unlike anything he had encountered in his long life.
+
+It was beautiful—horrifically, magnificently beautiful. Most poisons sought only to destroy, dissolving flesh and soul into nothingness. This one was different. This poison sought to create life. It did so brutally, of course, all poisons did. Yet he couldn't help but be infatuated with it. He could feel its many complex parts moving in tandem to infect his mind, body, and soul, preparing it for transformation into a new life—that of a spirit tree.
+
+Ren enjoyed every second of it. Until this moment, he had foolishly believed he had reached the peak of poison mastery and that there was nothing left for him to learn. No higher truth. No deeper path to walk upon.
+
+The All-Seeing Eye had utterly humbled him by showing him how wrong he had been. Believing he was the king of poisons, Ren could only laugh. He had been nothing but a poisonous frog at the bottom of a well, staring up at a patch of sky and mistaking it for the heavens.
+
+The realization filled his tired soul with exhilaration and a new sense of purpose. This was the greatest feeling a Monarch could experience, as he felt the burden of the passing years and the dull ache of stagnation rise from his shoulders.
+
+Grand Elder Ren couldn't stop grinning. Despite the mark upon his life, despite knowing he was now hunted, he felt as though he stood at the pinnacle of the world. His path, once stagnant, stretched forward again. There was more to study, more to refine, more to transcend.
+
+And no one reached the Monarch Realm without a relentless hunger for progress. For the first time in years, Grand Elder Ren was hungry again.
+
+That's why the yawning abyss to hell that scarred Floridawn caught his attention. Radiating from its center and penetrating the veil of desolation that shrouded the land was the threatening presence of two Monarchs. One he knew quite well, Councilman Cyphion. But the other... he could feel their madness calling to him. It was like a whisper that enticed the most deranged, meaning they were just the person Ren wished to speak to.
+
+He dove down toward the abyss, and it welcomed him. The fiends and monsters standing guard watched him pass with barely restrained hostility.
+
+They are welcoming me, Ren mused as he touched down in the old courtyard of Faelorian's estate—the very same monarch whose honor he had fought the All-Seeing Eye for only hours ago. Two people were waiting for him: Cyphion and a rather unique-looking woman. The unsettling vertical third eye in her forehead, which seemed to gaze into his soul, was all he needed to know that she was under the All-Seeing Eye.
+
+"I need to speak with him," Grand Elder Ren insisted before either of them welcomed him.
+
+The woman scowled at him. "The All-Seeing Eye can see and hear all. Even now, as we speak, he is watching over us. If he wishes to speak to you, then appear before you, he will."
+
+Ren knew she wasn't lying, as he could feel the All-Seeing Eye's gaze on his back. But the dark god watching over him and being in front of him were two separate things.
+
+"Besides," the mysterious woman continued, "you have been marked for death by him. What could my Lord possibly have to discuss with a dead man?"
+
+"It was all a misunderstanding—"
+
+The air suddenly chilled as the woman glared at him.
+
+"You dare lie to me in his presence? Firebombing his sacred land was a misunderstanding?! Leading a fleet of tainted airships toward his holy mountain with blood on your mind was a mistake? What about trying to kill his guardian beast or the Monarch of Flame? You foolish man," she hissed at him as the ground between them fractured. "I pity you, I really do. For you saw the appeal of his darkness too late. Only death without seeing the greatness he's about to bless the world with awaits you."
+
+Ren ground his teeth. She was right. He could tell that, compared to the Chairman and the Celestial Empire, the future was far more grim but glorious under the All-Seeing Eye. He wanted to be a part of that dark future, one way or another.
+
+He knew when to be humble, and this was such a moment. Faelorian had fallen to the Covenant, and he knew being marked for death wasn't something he could run from.
+
+Ren slowly dropped to one knee, which wasn't something a Monarch did lightly. He could feel the poison affinity bubbling with rage at his actions, but he pressed on and dared to lower his head. "I carry great shame for my actions against your Lord. Please, allow me to make this right," he said with sincerity. "I wish to live and serve."
+
+The world seemed to go silent for a moment, and then he felt him make an entrance. A being stepped out of the darkness—a shadow angel loomed over him with a scythe's tip mere inches from his face.
+
+"Your words have intrigued the All-Seeing Eye. In honor of your desire to serve, the Lord is willing to present a rare opportunity to escape the mark of death placed upon you," the shadow angel paused. "You are to trade your life for the souls of two Monarchs of the Celestial Empire. Complete this task before assassination, and you may be spared."
+
+Ren looked up at the angel as if it were a ray of hope. "I will see that it is done."
+
+The woman who had been hostile until now rushed forward with excitement. "You really have recognized my lord's greatness!" she said with such fervor it was infectious. She grabbed his chin and forced him to look at her. "Yes, I like that crazed look in your eyes. That of a devoted believer," she grinned widely and licked her lips. "I pray that you succeed in your task to repent for your sins against my lord."
+
+"T—Thank you?" Ren said, paling in fear. This woman is terrifyingly strong, not to mention crazy.
+
+"You should leave this place quickly," the shadow angel said while looking to the darkening sky, "before your presence here is reported to the other Monarchs."
+
+Ren nodded and got to his feet. If he were to kill two Monarchs to earn his freedom, he would need to recover and study the All-Seeing Eye's poison thoroughly. If he could harness its power, it would become his greatest weapon.
+
+***
+
+Ashlock watched Ren leave for the World Tree, all the more happy that he let Ren go rather than fighting him to the death during the earlier battle. Now, if all things went to plan, Ren would exhaust himself bringing him the souls of two other Monarchs, allowing him to get three Monarchs for the price of one. He hadn't exactly lied to Ren; he had just never specified what being spared entailed.
+
+"There's no way I can leave a poison Monarch capable of harming Larry roaming free. He can serve me well as a spirit tree, which I can use to turn the Radiant Dawn flagship into a Bastion," Ashlock mused, then turned his attention to Elysia and asked via Thanatos. "How are things going with the cult?"
+
+Elysia's enthusiasm for finding another devoted believer died a little. "Things are going... well, but we are meeting some resistance."
+
+"Resistance? From the cultivators or the mortal population?" Ash inquired. He didn't see how anyone could be resisting, considering his utter domination over the land and the amazing rewards for joining his cult.
+
+"Not so much the cultivators, as anyone with the means to do so has fled deeper into the Celestial Empire's territory," Elysia sighed, "It's the majority of the mortals that are resisting your greatness. The allure of becoming a cultivator doesn't seem to appeal to them for one reason or another, causing many to band together and rally against you, which makes it even harder to convince those who are interested to join."
+
+"Do you know why there's such massive resistance?" Ashlock asked. It seemed strange. He only offered rewards for joining with little expectations in return. Was it the work of the Celestial Empire to turn the mortals against him?
+
+"Ahem, if I may be so bold as to answer your question?" Cyphion said.
+
+Ashlock had Thanatos glance at the spatial Monarch. "Go on."
+
+"I believe most mortals see you as more of the bringer of ruin rather than the bringer of salvation. If you take a look around, even if we offer pills with miraculous effects, it's hard to win the hearts of the people when their lives have been so thoroughly destroyed."
+
+Elysia scoffed. "Destroyed? That's ridiculous. The All-Seeing Eye's presence is a blessing on this land."
+
+Ashlock ignored Elysia, as she was hardly a reliable source of unbiased information, and glanced around—confirming that Cyphion was right. After successfully conquering this section of Floridawn, establishing the Hellroot Abyss, and sending the cultivators fleeing, he left the city in ruins. While he had reduced the ambient desolation in the air, so the mortals no longer suffered the pain of being eaten alive by it, their surroundings and lives under his rule remained bleak and gray.
+
+"I see what you mean. The war for land is over, but now I must win their hearts, and it can't be done with their home looking like this," Ashlock paused. "Elysia, I know you said you were unable to help me deal with Ren earlier, as you were needed here. Have you two got this place under control?"
+
+Elysia looked to Cyphion for the answer.
+
+"I believe so," Cyphion said. "It would take five Monarchs teaming up to suppress us due to how domains are used to cancel one another. There's also the matter of the fiends you have summoned from the abyss and the beast tide that's still besieging Floridawn's flanks. I just don't see such a force being mobilized at this time."
+
+Elysia nodded in agreement. "They have only been watching from afar with a large force gathering on the ever-expanding border. Though they only make an effort to slow down the advance of the beast tide and your Ents rather than launching a counterattack."
+
+"I see," Ashlock said. "Then I believe it's time for a miracle."
+
+"A miracle?" Cyphion asked, but Elysia was already perking up.
+
+"What are you going to bless the people with this time?" Elysia asked eagerly.
+
+"They have seen the power I wield and the suffering I can inflict. But now it's time to show them the reward for their resilience. I'll create a patch of land around the Hellroot Abyss, vibrant and filled with life, that they can call home. Seeing that I can also bring life into this world, and not just destruction, may lead to many changing their minds about me."
+
+Elysia clapped excitedly. "I like this plan."
+
+"Good. Then make the announcement that the All-Seeing Eye is about to perform a miracle for the people of this land, and I'll get to work. It's about time I bring some harmony and peace to the mortals after all this destruction."

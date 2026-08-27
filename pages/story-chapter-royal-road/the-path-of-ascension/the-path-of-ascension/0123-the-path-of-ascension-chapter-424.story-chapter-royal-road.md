@@ -1,0 +1,319 @@
+---
+id: 441d710e-235c-5786-af98-dd97d8af7bec
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 424"
+slug: 0123-the-path-of-ascension-chapter-424
+partOf: the-path-of-ascension
+position: 123
+ownLength: 5889
+unit: words
+ownProgress: 5889
+publishedAt: 2025-06-30
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2398179/the-path-of-ascension-chapter-424"
+royalRoadId: "2398179"
+markedReadAt: "2026-06-29T19:22:05.332Z"
+---
+
+Chapter 424
+
+Seasaidh wasn’t quite how Matt remembered her.
+
+In his memory, she was a brash young woman who had a chip on her shoulder and something to prove to pretty much everyone.
+
+The current her wasn’t that different; she seemed eager for a fight despite still being Tier 20, but she at least had the restraint to not attack them the moment they walked into the room.
+
+That restraint seemed to slip as Aster smiled at her. Matt felt that Aster hadn’t meant to antagonize the other woman, but seeing she had, Aster leaned into it and blew her a kiss.
+
+A man to Seasaidh’s side spoke first. “Legends. It is an honor to see you. We would like to test ourselves against you before our upcoming war. Any and all feedback would be appreciated.”
+
+Wun smirked as he sauntered in behind the six of them, but his tone didn’t match his demeanor. “You really don’t.”
+
+Seasaidh’s mace head started to brighten as she looked at Wun. “We really do.”
+
+A pair of higher-Tier men, Tier 40s if they weren't hiding their cultivation, who had been standing behind the team of elites looked like they wanted to say something, but refrained.
+
+That was until one stepped forward, nodding deep enough it could be construed as a bow. “We would appreciate it if you could spare a few minutes and give them some feedback. It could be helpful.”
+
+Seasaidh interrupted the man. “No, we want a fight. A proper one, like we said we would. I—”
+
+Four skeletons shambled into the room, interrupting them.
+
+The dwarven skeleton coughed as if it was trying to clear the throat it didn't have before speaking perfectly. “Ahh, Seaside, you really don’t want to go into the fight with that mindset. It will be less than productive.”
+
+Matt was pretty sure that was Krodag, given the lack of overly thick accent, but with the four other Ascenders who knew how many systems away, that could just be from Brian having to relay the information and not bothering to add in the accent to mess with Moe.
+
+A second skeleton said, in an overly feminine voice that Matt knew Brian was going to pay for representing Ellen with, “We’ve lost to them, kid. Don’t do this to yourself.”
+
+The other members of Seasaidh’s team looked apprehensive at the news, but the Inheritor just looked ready for a fight.
+
+Matt shared a look with Liz and then Zack before stepping forward. “What about a showcase? We can comment on some of you—”
+
+He was interrupted by both Wun and Seasaidh.
+
+Seasaidh growled out, “No! I demand what was promised: a proper fight. I’m going to defeat you at the same Tier. I have to.”
+
+Wun, on the other hand, messaged the group of them instead of speaking out loud. “Fight her and crush her. She’s just going to get herself killed if she keeps chasing a phantom in the dark. Try not to ruin her, but better that than her dying in the upcoming war with no chance of redemption.”
+
+Matt sighed before accepting.
+
+They had promised, but it just felt so… childish.
+
+It also went exactly as everyone except Seasaidh knew it would.
+
+Even restraining themselves to Tier 20, there was no contest.
+
+The dwarven team was good, but Matt would put them at the bottom of peak elite at best. That was a damn sight weaker than a pinnacle elite, which might have actually been a slight challenge.
+
+Seasaidh’s opening move ruined any chance the team might have had, as slim as it was, when she dashed in and tried to brush past Matt and Liz, wanting to get to Aster.
+
+It was the right call in a theoretical match, but in practice, it was doomed to fail.
+
+Liz grabbed the mace head with her bare hand, not bothered by the incredible heat the weapon produced.
+
+Trying to do as Wun asked, she said, “If you want that to be effective, you need to increase the heat of your flames. Pinnacle Milo in the Republic won’t even feel that.”
+
+That just seemed to anger Seasaidh even further, and while the emotion did seem to increase the heat of her mace, it also made her just a bit sloppier, which was worse than if she had done nothing.
+
+Her elite teammates weren't much better, as they all moved to try and save their lead, neglecting their own defenses.
+
+Aster froze the healer almost immediately, and Matt just stood there, letting the archer shoot at him while the melee fighter tried to assist Seasaidh.
+
+His fate was just to get tangled up by another Liz clone.
+
+They weren't bad. They were genuinely strong, but at their power level, anyone under pinnacle elite was basically a non-entity in a one-on-one fight.
+
+When Seasaidh finally saw her team being easily taken care of while she was in a similar predicament, it seemed to break something in her and she just dropped to the training ground floor.
+
+Matt didn’t miss that everyone except Susanne, Zack, and Allie had left as it happened, including both sets of Clan Ascenders.
+
+Seasaidh punched the ground, but with no real strength. “Why? Why does it have to be like this? I’ve tried so hard. We’ve tried so hard. Why isn't it enough?”
+
+Looking down at her mace, she growled, “I didn’t ask for this. I’m happy I got it, but… I didn’t ask for everything that came after. Everyone expects us to be at your level, but I can’t. They want us to be equal to Legends, but it's not that easy. When we nearly beat you, they acted like they expected that to continue.” Panting, she almost seemed like she was going to stop speaking before she continued in almost a whisper. “They expected us to continue that, but it's not that easy. It's not that easy. It’s… I don’t know. It's hard and not fair, but life isn’t fair, and I know that. I— I’m just… I don’t know any more.”
+
+Matt didn’t have the magical words which would make everything better for Seasaidh and her team.
+
+Liz seemed to have a better idea of what they needed to hear, even as she took a seat a few feet away from the angry Tier 20. “You guys are picked as kids, right?”
+
+Seasaidh ripped her gauntlets off and threw them across the room, the Tier 20 items slamming into the wall and leaving small dents.
+
+“Yeah.” The single word was filled with so much vitriol Matt nearly leaned back. “It's sold as some big honor. Picked by an item that one of our most influential Ancestors hand crafted. Most fail. I expected to fail. Everyone before and after failed. It sucks. You feel like you let everyone down. My older brother failed, and he was depressed for a few weeks. It passes, though. After all, everyone fails, so it's not like it's unexpected. But everyone wants to think they are the exception. The one who will prove everyone wrong. I never imagined getting chosen could be so much worse.”
+
+Seasaidh barked a laugh and almost seemed like she was going to cry, but instead forced herself to speak. Matt watched as she forcefully controlled her body to not let her emotions vent as they probably needed to.
+
+“I got chosen. It was such an honor, and everyone seemed to expect even more from me. I already worked so hard to get chosen. Top of my classes, top of my extracurriculars, top of everything. For some reason, I thought being chosen would make things a little easier. It didn’t. Instead, the expectations just increased. I thought before that people wanted perfection, but it was only after that I learned what real perfection was. There is a difference between a perfect score on a test and a perfect score in a practice fight or battle. There is always a critique. Some way I could have done better if just I had known the enemy was only bluffing their strength on the left flank, despite not having ever commanded a battle before. That I should have fought through the stalemate in one way or another. That I should have thrown my troops into battle regardless of the losses, or I should have done something else that would have cost less. There was always a criticism, a comment about how I should do things better. I didn’t ask for any of it, but because I was chosen, it became my duty to defend the Clans.”
+
+Seasaidh started laughing, and at first Matt almost thought it was a good sign until the laughs turned bitter. “The worst thing is, I wanted to be the defender they pushed me to be. I still do. Or I think I do. I want to protect my home. I want to, but it's not that easy. No matter how much I put into it, there is always another hurdle. Another layer. Why? Why is it like this? Why can I not even come close to matching you guys? Whyyyyy?!?!?”
+
+At her last screamed word, she started punching the reinforced floor until her hands were bloody.
+
+Liz laughed softly, which caught Seasaidh off guard enough that her next blow stopped mid descent.
+
+Even as Seasaidh was gearing up to get angry thinking Liz was mocking her, Liz nodded. “I get it. My parents are two of the Royals. The two Tier 48s no less. Nothing I ever did was ever mine. If I did well in a class, it was because my parents could hire the best tutors. The fact that they didn’t hire tutors didn’t seem to change people's opinions. It was because of them that I did well on the test, regardless of the extra practice I put in at home.”
+
+Seasaidh looked almost taken aback, but nodded slowly instead of continuing to lash out.
+
+Liz shrugged. “I cried. A lot, to be honest. My parents tried to show and tell me that they loved me for who I was and I didn’t need to prove anything to anyone, but I felt I did. I wanted to prove all of the doubters and naysayers wrong, but most of all, I wanted to prove to myself that they were all wrong. Eventually turned it into a fixation on becoming an Ascender. Surely no one could say I had faked that with my parent’s help? They still did. Still do, I’m sure. It's not everyone, it's not even a lot of people, but hateful, jealous people want to tear me down even a little bit to make themselves feel better.”
+
+“Yeah, but you did it. You succeeded. I didn’t. I can’t.”
+
+Seasaidh didn’t seem like she was lashing out, but instead asking some ephemeral question that she didn’t even quite know.
+
+Liz shook her head. “I still doubt myself sometimes. I still wonder if I’m good enough, but it wasn’t the Path that showed me it's enough. It's the friends I made along the way, as cliche as that sounds. Matt, Aster, Susanne, Melinda, Mathew, Tara, Vinnie, Samantha, Kyle, Connor, Emily, Annie, Bradley, and Jill. More honestly, but my point stands. Completing the Path wasn’t what I was really looking for. It was something more like acceptance for being me and not an extension of my parents.”
+
+Seasaidh didn’t respond for long enough that Aster started talking. “People said similar things about me as well. I was ‘just a bond’ and therefore not a real Ascender. It sucked.”
+
+As she continued, Matt gave her a small hug through their bond which she returned.
+
+Matt wasn’t sure it helped Seasaidh figure out her issues, but it did seem to calm her down a bit knowing that even they, her obsession, had struggled and failed.
+
+By the time Aster was done, Matt felt like he had found the words he was looking for.
+
+“Sometimes it's not about doing what others expect of you, but doing what you are willing to do.”
+
+That seemed to spark a fire in Seasaidh, and she waved her mace between them. “There is no choice in it for me. There is only obligation. Only service.”
+
+Matt met her eyes, challenging her silently. “Is there? Or are you still trying to live up to their expectations?”
+
+Slamming her mace down, she growled, “I want to live up to them, damn it! I want to be what they want me to be. I love my home and want to help defend it. I want to be strong enough that people think not just twice before they are willing to attack, but three times. I… I want to live up. I just can’t. The bar is too high. No. The bar is always rising. No matter how much I push, the second I complete a challenge, they change the goal for one just out of reach. I’m like a rat running circles in a cage.”
+
+Matt shook his head, knowing he was at least partially talking to himself and his own situation. “That's what I’m talking about. You are still trying to meet their expectations in the way they want you to. You are missing the other option, giving them as much as you want on your terms. Be the defender of your home at the peak elite. Become the best at that level. Round out your foundation. Then, and only then, start looking upward at pinnacle elite. Or if you don’t want to do it at all, walk away.”
+
+That final suggestion made Seasaidh recoil like he had slapped her in the face, but he only shrugged. “Even Ascenders aren’t irreplaceable. Sure, we outweigh others, but wars still happen when a Great Power doesn't have an Ascender. Unless your Great Power does something stupid, they aren’t going to be destroyed in a war. There are others to hold up the sky before it lands on your shoulders.”
+
+Matt wasn’t sure that helped Seasaidh and her dilemma, but she seemed more relaxed and actually started talking to her team, which everyone from the Empire let happen without interrupting.
+
+After almost an hour of that, Seasaidh picked up her mace and asked for a second bout with them.
+
+That time the fight was far less brutal and more a friendly exchange of skills, with her seemingly willing to take feedback.
+
+What Matt noticed was how her team looked like they had a weight taken off their shoulders, and he made sure to try and give them some attention as well. That, more than anything, seemed to kick Seasaidh in the ass, and she even went as far as apologizing to them in front of everyone.
+
+With that, their teamwork marginally improved, with Seasaidh no longer trying to force the battle to fully revolve around her. Matt hoped that meant she realized she didn’t need to hold the weight of every battle on her shoulders alone, but only time would tell.
+
+It at least changed the tone of their stay on the planet, with several higher Tiers coming up to them and thanking them for trying to help Seasaidh. There was also a noticeable easing of tensions as they delved the nearby rifts.
+
+What was more interesting was when a Tier 46 woman with hair that was so long it nearly brushed the ground came to them, accompanied by Wun.
+
+Matt raised an eyebrow at Wun to see why he was bringing someone to them just after they got out of a rift, but the older Ascender just rolled his eyes and indicated it was all Matt’s fault.
+
+“Good day, Legends. My name is Una MacLeoid, head of clan MacLeoid, and I came today to ask a few questions, if you would be willing to answer.” As if she just realized she hadn’t mentioned what question she meant, Una added, “Questions about the skill creation method Legend Titan released.”
+
+Aster blew him a raspberry as she immediately turned and walked away, leaving them to go to their house, where she could bathe.
+
+As everyone else did the same, Matt decided to be equally false casual. “I’m happy to. As you can see, we just exited a rift and needed a bit of time to shower and relax. Why don’t you come to our house and we can talk there?”
+
+Matt didn’t miss it as Wun winked at him and Matt smiled when they entered the house.
+
+The other four Clan Ascenders were sitting in their living room, munching on snacks in skeleton form, clearly slacking off from their purported super important responsibilities that had pulled them away.
+
+They had done so a few times in the last few years, but with Wun’s wink and him leading Una MacLeoid to them, he had arranged the timing.
+
+And it worked.
+
+Una froze for the briefest of moments upon seeing just who were making a mess, not having stomachs to catch their eaten food.
+
+Knowing he had won the round by unsettling her preconceived expectations, Matt waved to the fridge Wun was already rummaging through. “Feel free to grab anything to snack on. Shouldn't be long, but I need to shower and change.”
+
+Una instead just took a careful seat at their kitchen table and seemed content to wait.
+
+Not so quickly showering, Matt was still back out to the common area in less than fifteen minutes, just as Una was contemplating strangling Wun. An opinion Matt was trying really hard not to consider himself.
+
+Ignoring the disaster brewing in his kitchen, along with Wun trying to make a milkshake in said kitchen, Matt sat down at the table across from the Tier 46.
+
+“Sorry about that delay. What can I do for you?”
+
+Una forced out a smile as she said, “I come on behalf of the Clans government and dwarven kind as a whole. We have been…” after a pause she said, “Enthralled by the new skills. Many of our young have taken to them with great enthusiasm. Specifically [Physical Empowerment] and [Fire Weapon]. The former is the issue though. We have put in a lot of effort trying to get the skill to scale better in the higher Tiers, but we haven’t had much success. We would be willing to handsomely reward any information that might help.”
+
+Matt just blinked at her, waiting for something else and not quite believing that was all she had come for.
+
+When nothing else was said, Matt decided to lay his cards on the table. “I don’t really have any added advice or secrets about the method. When we got and modified the skills, we already did what we could, but our source seemed correct in that just isn’t how the skill worked. So I don’t know anything else. I do have one team who is trying for that exact outcome, but frankly, I don’t have much hope. More likely is that someone else, a random civilian, will have a moment of brilliance and will figure it out. My only hope is that they are then willing to follow the example I set and share it.”
+
+Una seemed surprised that Matt admitted the skill didn’t come from them. “We suspected the source was from… elsewhere. As for that source. Are they available? We would pay quite the consultant fee for their assistance. I truly come here hat in hand, willing to pay any reasonable price for information about the skill.”
+
+Matt shook his head. “They have asked to be left alone and I will respect that.” Seeing her about to speak, Matt continued, “I will, however, let them know of your offer, but I wouldn’t expect much. The person is skilled, but not in the ways of skill modification as we know it.”
+
+Una chewed on that for a minute before leaning forward slightly, “Then let me candidly ask. What do you recommend? Paths of development? Many suspect you have more that you have kept to the Empire and wish to get their hands on it.”
+
+Matt met the Tier 46’s eyes, leaning forward and meeting her unspoken challenge about his and his guild’s honesty and integrity.
+
+Wanting to snip back at her presumption, he flippantly said, “Reform your society. Awaken everyone, let them push and find their own paths forward. Stop hoarding resources. Stop being assholes?” Seeing her flat look, Matt smiled, “Oh did you mean for the skills? Well interestingly enough, my statement stands. I know it's hard for people to believe this, but I really did share everything I had. I’m hoping that people will take what I’ve given them freely and do what people do best: push things, tinker, just fuck around. With enough people all using the skills, I trust that, given enough time and maybe a particular Talent or Domain, someone will figure out the jump for making [Physical Empowerment] scale better. Laws of large numbers and all that. That is why I didn’t put out any information about the more advanced versions of the skills. I don’t want people locked in paradigms. I’d much rather let them figure things out.”
+
+Chuckling, Matt leaned back. “Honestly, I don’t really understand how anyone could think I wasn’t being completely transparent. My documentation is thorough and meticulous. It would be as obvious as a hole in the head if I was self-censoring things.”
+
+Una nodded, but there was something in the gesture Matt didn’t quite follow. A slight movement or timing discrepancy that turned something familiar into something off. His intuition didn’t warn him of anything bad, so he chose to interpret it as a win.
+
+Spreading her hands, Una said, “Then let me put my cards on the table. We have been trying to go for more advanced modifications, hoping to trigger something with an upgrade orb that we can then learn from. Here are our tests and their results.”
+
+Willing to talk shop with someone seemingly truly interested, Matt nodded along as he scanned everything. “Didn’t get anywhere did you? We tried. Just twenty times with Tier 14 orbs, but nothing was successful, even with massive deviations from the baseline or directly copying higher-Tier skill structures and hoping the upgrade orb grabs something. If you want my two mana stones, I personally don’t think the skill will start using essence—”
+
+Seeing Una’s expression, Matt raised a finger before she could interrupt him, “Hear me out. I don’t think the skill will use essence in the same way we are used to. Currently, [Physical Empowerment] buffs the body. It's shoving mana into the flesh and making muscles work harder while giving them a degree of protection from self-harm. Other skills boost our cultivation bases. They make fake essence on the core and amplify what is there, but that's all it's doing. There might be a way to get [Physical Empowerment] to interact with the cultivation core, but personally, I don’t think that's how it's going to happen. I think it's more likely someone will figure out how to fake essence in the muscles instead of mana being used itself. As for if that will be truly effective... I don’t know. We’ll all have to see.”
+
+Seeing Una’s keen interest, Matt chuckled. “As if it was that easy. My teams are the ones who came up with the idea, and honestly, I think they are correct. They are also working on that very idea, and I’ve made sure that the data is set to be spread around in another five hundred years if no one seems to make any progress.”
+
+Una seemed baffled at that comment and blurted out, “Why not keep it to yourself? I am old and have seen a lot of things, but few people in your position are willing to give up any power or advantage? Why then do you do so, Legend Titan? It is why so many believe that you are hiding something. Some even speculated that the skills are a trap or have a self-destruct method built in.”
+
+Matt snorted and he poked the table, letting a little real heat enter his voice. “Winter Hornet asked a similar question. The answer is the same one I’ve been saying since the beginning. I just want to help people get on their feet. Allow them to take that first step. I hope that when someone does figure it out, they will do the right thing and pass it on, but I’m not that worried. No secret method lasts forever. Not even in the Great Powers. Everything has leaked and become negated or commonplace. I see no way anyone will protect this one, but I’m hopeful we won’t have to go through all of that.”
+
+Seeing she still looked conflicted, Matt decided to lay one of his cards on the table. “But honestly, as for why I’m telling you this? I’m hoping that you will drive the method forward with the Clans’ resources, which is just more than I can leverage for my own guild. After it's discovered it's possible, everyone else will be forced to invest or steal the method. Then we are back at step one. So yes, I’m willing to mention it. I’m sure your spies already know this, or will once you put in a request to check what my teams are doing. Even I can’t hide active, long-term projects like this, so let's skip the back-and-forth. I won’t give you any of the files for the same reason I won’t spread the idea to the masses yet. I want to see what you come up with.”
+
+He had a few other reasons as for why he was so freely sharing, but that was the main one, and honestly enough, he doubted Una would dig for the deeper ones.
+
+Instead of immediately replying, Una sat there in silence for a long few minutes before she nodded while standing. “Well, thank you for your time and the information, Legend Titan. It is more than I hoped I could get, even if not what I dreamed about. I will take your words into consideration. I would love to chat more, but my clan is mobilizing and every second is precious.”
+
+Walking to the door, Una stopped before nodding to the other Ascenders who had all entered the living room through their conversation.
+
+Matt didn’t think or expect Wun or On The Last Line to betray their Great Powers when things finally came to a head, but he appreciated they had his back enough to ensure he met with one of their leaders under their auspice.
+
+Knowing they had little time left before they had to leave and the four of them went to war, Matt clapped. “Okay, last time we got together we said we’d watch the third reboot of that series.”
+
+Getting pelted with boos and cheers alike, Matt sent a message to Susanne, who had moved to go into the training room after the rift.
+
+“Watch this one with us?”
+
+She had been pushing herself brutally since they arrived in the Clans’ territory, and Matt suspected he knew why, but he, like everyone else, had been trying to get her to relax a little.
+
+His attempt, however, ended like many of them did, in failure, and she declined. “I need to train more.”
+
+Seeing Zack not attempt to persuade her, Matt mentally threw up his hands.
+
+Despite that, the evening was good fun and Susanne did come back halfway through the movie and watched it with them, which was something.
+
+Sadly, the good times ended and they returned to the Empire, where they underwent a thorough quarantine, which Matt felt like was starting to become routine given how often he underwent the process.
+
+The second they were allowed out, they collectively went to the Palace to find one of the imperial advisors who specialized in item identification.
+
+Matt brought out his neutronium ingot, which the Tier 45 casually looked at, not bothered by the weight at all.
+
+“Is there anyone who could merge this with my sword?”
+
+Harkirat’s eyes flickered a dozen colors before answering, her voice hardly louder than a breathy whisper. “There is nothing wrong or unusual about the ingot, so congratulations Ascenders. This is a rare and valuable find. As for your question, there are two or three who might be able to, but even for you Ascender, it will be difficult. Adding such a material is challenging to say the least, and those who will do so do not act at the behest of the throne, nor are they liable to lower the price due to your title. If anything, it will raise the price. Each has their own specialties and their results will vary accordingly. Here are the names, but be aware that all of them will have demands even His Majesty would find painful to fulfill. If you find they cannot satisfactorily fulfill their requests, please do allow us to buy the ingot. The Emperor has a standing order for such rarities, and the price will not disappoint you, I am sure.”
+
+Matt winced as he took the ingot back, having to work so as to not let the ingot drop through the floor. He didn’t think he could afford that repair job quite yet.
+
+Their second large-ticket item was the Two Pupil Stone, and unlike the ingot, Harkirat inspected it for a long time, using several devices and scanning the item thousands of times, looking at various readings with an odd expression.
+
+Finally, she had to call in two other colleagues who each went through a similar process. It was only when all three of them had come to an agreement that Harkirat turned back to the six of them.
+
+“We believe the Two Pupil Stone’s mutation has narrowed the scope of its future sight. Only that it is blank, which is confusing. As you saw in your own testing, it can predict the future, but what we noticed was that the test only worked when there was something in the physical space of the eye. When a hand was in the eye, it predicts the future of hands. Or maybe fingers in particular. It being a uniquely modified and Tiered up pseudo rift reward, we are relying on past cases and Talents’ feedback, which leaves some room for ambiguity.”
+
+Allie put her own eye within an inch of the Natural Treasure as if that would let her see its secrets. “So what does that mean?”
+
+Harkirat didn’t seem bothered by Allie and continued, “We are fairly certain, ninety seven percent, that the eye’s future sight was narrowed to what is inside the eye. If you put fire mana into the eye, it will see the future for fire mana. If you put in water mana, the same thing. Given the finger example, we can even confirm more esoteric examples not reliant on mana, but we don’t know where the limits lay. We just aren’t sure that the eye will reset, or if once something is truly merged with the eye, that it will be aspected to that future sight forever. We, however, recommend operating assuming the latter.”
+
+That caused all of them to pause for all of thirty seconds before they started arguing why they were best suited to the eye.
+
+“If I could see teleports, I’d be able to see my own future and then could do cool shit or something with it.”
+
+Liz rolled her eyes. “That's far too specific and would therefore never get used. It should go to me. Everyone has blood, and if I could see the future of blood, I’d be even stronger.”
+
+Zack raised a finger. “That same argument could be applied to spells. If it works with spells, I could avoid hits.”
+
+Allie sniped right back. “Spells which you can already feel. That's not your weakness, so it doesn't make any sense when you basically never get hit by them. It would make more sense, but still no sense at all, if you took it and used it for physical objects. Remember that time someone put a bullet through your head?”
+
+“That was only one time, and I figured o—”
+
+“Yeah, yeah whatever. Space future sight would be the best for the Empire because I’m the best.”
+
+Matt poked the orb, sending in a tiny amount of mana. When the eye showed a projection of the mana’s future inside of it, Matt gestured, not able to resist half heartedly throwing his hat into the ring. “If none of you want it I’ll take it. Everyone uses mana. I—”
+
+Allie cut him off. “Zack already made that argument and you are even less killable than any of us except maybe Liz. Honestly, that should kick both of you guys out of competition.”
+
+She sent a pulse of spatial fluctuations into the eye and cursed when the eye didn’t seem to predict much, quickly saying, “That's just because it's not in my face yet. Once it's there, it will be better I’m sure.”
+
+Liz tried it and found the eye’s reaction somewhere in between Matt and Allie’s showing. Zack then tried just to see that his arcane mana didn’t react well with the eye, as the complicated nature of arcane mana seemed to just get clogged in the eye and took several minutes to clear.
+
+That just left Allie, and it seemed like she was making progress with the argument when Aster silenced them all.
+
+“I think it should go to Susanne.”
+
+Even the woman in question looked confused, but Matt followed the logic and shrugged. “Swords are damn common. Being able to see them would be really useful. Test it.”
+
+Susanne looked like the eye was a bomb and shook her head. “I d—”
+
+Allie teleported an arm behind Susanne and tried to shove her forward.
+
+It didn’t work, but her message was clear enough she didn’t feel the need to speak.
+
+Matt looked to Zack, who quietly said, “I told you.”
+
+Susanne closed her eyes before saying. “I don’t want charity.”
+
+Aster dumped a pile of snow onto the shorter woman. “Oh, fuck off. Don’t give us that self-deprecating crap. This isn’t even charity, you were right there fighting alongside us when we earned this. Try it and see how compatible it is with your sword Domain shit. Then make your argument for why it's so good for you. If you don't, I'm going to argue for myself because this would be cool as fuck.”
+
+Susanne swallowed a few times before lightly touching the eye.
+
+It was nearly as potent as Matt’s neutral mana and slightly more than Liz’s ichor.
+
+Allie cursed when she saw that. “Well fuck, then take it.”
+
+Susanne glanced to Liz with a flat look. When Liz nodded, her gaze turned to Aster, who waved her to the eye.
+
+Matt just nodded when Susannes gaze moved to him.
+
+Finally, hesitantly as if she was worried it would bite her, Susanne picked up the Natural Treasure and cycled essence into it and started the process of absorbing it into herself.
+
+Allie clapped. “Okay, now that we are back, let's push. I say we only take a month to catch up on things then go back to delving. I want to get to Tier 28 sooner than later.”
+
+Matt grinned.
+
+That was a damn good goal.

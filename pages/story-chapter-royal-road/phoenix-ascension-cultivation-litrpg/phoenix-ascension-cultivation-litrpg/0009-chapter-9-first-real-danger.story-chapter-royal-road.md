@@ -1,0 +1,181 @@
+---
+id: c88e129a-7ab8-5278-8d47-6072a80ec624
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9: First Real Danger"
+slug: 0009-chapter-9-first-real-danger
+partOf: phoenix-ascension-cultivation-litrpg
+position: 9
+ownLength: 2671
+unit: words
+publishedAt: 2025-08-18
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2528061/chapter-9-first-real-danger"
+royalRoadId: "2528061"
+---
+
+I was a little disappointed that it didn't level me up, but the fact that the thing was level two must have meant that the XP I got was not enough.
+
+Can't expect everything to work out perfectly...
+
+I didn't think too much about it, as the reason I killed it wasn't to get stronger, at least, that wasn't the main reason. No, the reason I killed it was because my stomach practically threatened me to eat. Something told me that if I didn't, I would not see the end of it.
+
+After stopping the fire from spreading below its neck, I walked up to the still-warm corpse and grabbed it by the legs. Given that the fire cauterised the wound, there wasn't any blood loss issue, and similarly, the smell it gave off would attract significantly fewer and weaker predators.
+
+I made my way toward the spot where I had killed the serpent, and after making a small, soft spot where I could sit, I began digging into the recently dead chicken.
+
+Its meat, raw as it was, proved to taste better than the one that weird flying beast had brought Mother, yet it definitely didn't fill me with as much strength. It would do fine as a meal, but not as a way to increase my power.
+
+As the sun went down, I had finished devouring it completely, eating everything, including the liver, heart, and lungs. The only thing left was a wet, feather-covered skin pouch and its bones. I didn't believe its bones had any use, but the feathers would make for great bedding.
+
+Mother surely knows how to best make use of this.
+
+I decided that I would bring it back to the nest, just in case it could offer a more comfortable sleep, with the thought that Mother would be happy about it.
+
+After putting that to the side, I glanced at the serpent's corpse, which stood only a few meters away. It began to rot, its stench filling me with a desire to throw up. Even with my belly full, seeing its mangled corpse filled me with a great deal of annoyance. After all, I couldn't even eat it.
+
+Time to see if you are hiding anything, you rotten bastard.
+
+I didn't stand on ceremony, as the cold winds and darkening sky filled me with a vague sense of dread. I activated my Iron Claws and slashed at its chest. It split open, revealing its cold, dead heart.
+
+To be completely honest, I really wanted to eat it, and I had every intention of doing so if I could somehow extract it. I didn't want to get poisoned again, though, so I decided to keep it for a bit and ask Mother if she knew how to safely eat it.
+
+What piqued my interest even more, though, was a small, bright green sphere sitting right below the heart. It was nascent in nature, as it wasn't any bigger than a ripe walnut. However, that was exactly what I was looking for.
+
+It wasn't a Golden Core, far from it, in fact. It was a mere Beast Core that couldn't even hold a candle to a Golden Core. However, it was the beginning of one, and I had every intention to absorb it.
+
+Even if it doesn't give me any skills, I am sure that it will be useful to increase my strength.
+
+After carefully inserting my talons inside the thing's chest and gently grabbing the green sphere, I pulled with as much care as I could. A strange, wiggling thread connected it to the thing's body, but it got torn rather quickly after putting more force into it. I then threw it toward the chicken skin pouch, unwilling to hold it for any more time than it was necessary.
+
+However, another issue met me, though, as the heart was trickier. It was far bigger than the bead, and even the arteries connecting it to the rest of the body were stronger than the flimsy strings that held the sphere in place. I wasn't even sure if there was still poison anywhere, but if I had to guess, the largest amount of poison in the thing's body would be in the heart.
+
+I slashed at the arteries with the precision of a medical expert, and let the heart fall onto the dirty floor. No message appeared saying I was poisoned, so I took that as a win, for the moment. Next, I walked over to the chicken skin, grabbing it with my beak, and gently wrapped it around the heart.
+
+Doing anything without the dexterity of fingers was difficult, but I could get used to it. Of course, I wished I didn't have to, but we can always prepare ourselves for the worst.
+
+After putting the skin over the heart, I gently pulled it under it as well, then lifted it up as high as I could. With the heart secured, I also grabbed the bead and dropped it carefully, hopping on one leg while my other one held it firmly.
+
+I was afraid of the consequences of swallowing it by mistake.
+
+With that done, I began the walk back toward where Mother had left me. I was sure she was still around and hoped that she would be happy about my hunt. It felt weird. Why was I so adamant about making her proud? Most of all, though, I hoped she knew of a way for me to use the Beast Core.
+
+If the meat alone almost killed me, then swallowing the source of its poison would surely put me in an early grave.
+
+I refuse to die so early; I can't. Not until I kill the bastards that put me in this situation in the first place. No, killing would be too easy... I will separate their consciousness from their souls, refine their souls into pills that I will feed to their daughters, making them become the perfect furnaces.
+
+Then I will refine their flesh and blood inside their daughters, and then make the daughters themselves into a pill that I will spread over their descendants, making it so they can never have children again.
+
+Afterwards, I will make sure they get to live forever in an eternal torment and have their consciousness inflict that very torment on them—
+
+"Coo?"
+
+Mother's soft, curious whispers landed in my ears, waking me from my almost daydreaming. The scattered rays of moonlight fell upon her feathers, making them take the color of a bleached dark blue rather than her usual orange feathers.
+
+"I hunted this." I chirped, unsure if she would be able to understand me.
+
+Hopefully you can understand my intentions...
+
+Her head lowered and took a few quick sniffs of my body, then, with a happy coo, placed her neck around me. It seemed to be a hug— a very happy and proud hug.
+
+My heart skipped a beat, burning with an unfamiliar fire for a moment before calming down. I couldn't believe I was happy about a hug. Mother didn't seem to want to let go either, but at some point, she had to, as even the light of the moon didn't protect us from the dangers lurking in the shadows.
+
+As if anything here could touch her.
+
+I quipped to no one in particular and removed myself from her, proudly pulling out the chicken skin and showing her the heart and the bead.
+
+"Here! Look!" I chirped quite happily.
+
+She turned her head a couple of times, and her eyes widened. Her gaze quickly snapped toward me and checked me even more thoroughly than ever before. At some point, she even used fire, which I thought would hurt, but turned out to be as harmless to me as the Nirvanic Flames.
+
+After she made extra sure nothing happened, she nodded and picked up the pouch with her talons, the dexterity with which she used them leaving me mesmerized.
+
+Maybe I will be able to do that too once my feet stop being so fat...
+
+She held onto the pouch tightly, then lowered herself and grabbed me by the tail using her beak. For a second, I dangled like a ripe fruit, ready to fall, and the next, we were back in the sky, flying among the stars and breaking through the clouds.
+
+I could get used to this feeling.
+
+The chilly winds of the night couldn't compare to the morning breeze, but the feeling of having them run through my fluff and feathers was still nice. Unlike the first time we flew, I wasn't as scared or anxious as before, and Mother seemed to have gotten used to having me on her back as well.
+
+It didn't take long for the nest to be back in view. However, as we neared, Mother slowed down surprisingly early, and even flew above. The flapping of her wings grew quiet, and even our very presence seemed to blend into the shadows as we slowly approached our home.
+
+She took a whiff of the air, and then another, and suddenly her expression changed. I could physically feel her anger coursing through her feathers as they stood on end, and it took me everything I had not to fall down due to the sudden change. She seemed to have taken notice of that and took a deep breath.
+
+However, she didn't return to the nest, at least not immediately. Mother found a place far enough away to not get noticed by whatever was lurking around, but close enough to see what was happening.
+
+A sudden whir of wings took me by surprise, and the same weird creature from before approached us. Mother seemed to have noticed long before I did, and gave him a nod while glaring at the nest.
+
+The thing didn't screech or make a sound, and looked in the same direction as Mother. Both of them were nodding and occasionally glancing at each other, though, so some sort of communication must be going on between the two.
+
+After a while, the Mother shook her head.
+
+The creature nodded and flew away, with Mother giving one quick glance at the nest before following suit.
+
+We flew through the forest, past several beasts. Their glowing eyes stared at us from the shadows, unwilling to show themselves, but still curious enough to watch. I didn't give them any heed, as I looked forward, toward Mother's saddened expression.
+
+Are we leaving it behind?
+
+Of course, I already knew the answer to that. Whatever lurked around tonight surely had something to do with the blood from the day before, and the fate of my siblings. I sensed that Mother wanted to rip them to shreds; however, she couldn't afford to fight with me on her back.
+
+"Where are we going?" I chirped a question, hoping that Mother would understand. Some form of worry or anxiety must have bled through my voice as she gave me a reassuring look and a gentle nod, alongside what I could only imagine to be a smile.
+
+She flew over an hour, the environment changing from the lush, grand forest to a slightly smaller, but livelier, and poorer one. I could feel the quality of the Qi degrade the further out we flew.
+
+Finally, after seeing nothing but tall trees and lush crowns, the sight of a nest perched atop one of the highest trees greeted me. It was much smaller in size than the one I lived in for a day, but it looked much safer.
+
+Most importantly, nobody knows about it...
+
+The creature showed us to it as both Mother and he landed on it, causing the crown to shake slightly before stabilising. He gave Mother a nod, and she returned it with little excitement.
+
+After exchanging a few... somethings, he disappeared into the darkness, leaving Mother and me alone in the nest. The new place I would call home.
+
+As I got down, I noticed that the quality of the hay and clay was far lower than the one from before, and even the structural integrity left much to be desired. It clearly wasn't made by Mother, and I could only guess as to what other sorts of birds would make nests like this.
+
+It was situated between two trees, their branches forming a natural bridge, and in turn, a perfect spot for a nest. We were protected from rain and excessive sunlight, though, which was an improvement when compared to the other one.
+
+However, I felt that both the quality and quantity of Qi had improved drastically, and so had the air. Of course, that also meant that the Spirit Beasts and even the plants around were much stronger than the vulture and snake I killed before.
+
+Looks like my days of hunting alone are over, at least until I get stronger.
+
+I lamented my situation, but there was little I could do about it. The last thing I wanted was to die prematurely to a bunch of stupid humans. Of course, I was also worried about Mother, but she was far stronger than I gave her credit for. She was a Phoenix, after all.
+
+After getting accustomed to the new place, Mother finally pulled me and the chicken skin pouch closer. Her large frame could just about fit in the nest, but once I grew up to be half her size, staying next to her would be difficult.
+
+That was something to worry about for the future, though.
+
+As she opened the pouch, the stench of the rotting heart and putrid skin emanated from within, causing me to almost gag. Mother quickly got rid of that, though, with a quick fire. I wasn't sure how she did that, but I sure as hell wanted to learn.
+
+She looked at me with a curious glance for a second, perhaps a little confused about my intentions. I shook my head and sighed, at least internally, then walked over to the heart first. My beak opened wide, in a sort of 'feed me' position as I pointed at the heart with my chubby legs.
+
+Mother gave me an understanding nod and grabbed the heart with her beak before throwing it into the air and... swallowing it.
+
+No! I wanted to eat it, not you!
+
+I thought, albeit prematurely, as after a few seconds her beak met my own, and a sweet, warm liquid dripped down into my mouth. The shock made me swallow whatever it was that she gave me, and the acidity and taste made me think of the snake.
+
+Did she... feed me the heart... I wanted to know if I could eat it, not if— why...
+
+It was far too late for me to cry about it, though, as I had already eaten everything. She looked at me with a happy expression, letting out a few coos, then walking closer and snuggling next to me.
+
+Her warm feathers made me think less about the trauma I had just experienced, completely forgetting that's how birds feed their young.
+
+I guess even Phoenixes do that... when necessary.
+
+After deciding not to think about it for a moment longer, I looked at the bead with a longing expression.
+
+Mother followed my gaze and untucked  her feet from under herself and grabbed the bead, bringing it to her nose. After giving it a quick sniff, she placed it by my side and gave me reassuring nod, her eyes closing.
+
+I guess that means it's safe to absorb, right?
+
+I didn't stand on ceremony, knowing that she would be there to save me if anything were to go wrong.
+
+Fully putting my trust in her, I placed my head against the bright green Beast Core, excited to absorb it. Although it wouldn't give me as much strength as a Golden Core, every bit of it helped.
+
+[Would you like to absorb the Jade Serpent Beast Core?]
+
+Yes.
+
+[Jade Serpent Beast Core absorbed with 20% efficiency.]
+
+[+1 Dexterity; +1 Perception]
+
+[Skill: Poison Resistance[Lesser](../../../../phoenix-ascension-cultivation-litrpg/royal-road/phoenix-ascension-cultivation-litrpg/chapters/Novice) has been acquired.]

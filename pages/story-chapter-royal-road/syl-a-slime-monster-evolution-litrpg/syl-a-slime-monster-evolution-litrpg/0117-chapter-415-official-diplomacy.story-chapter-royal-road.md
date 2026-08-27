@@ -1,0 +1,139 @@
+---
+id: 94d1b39a-b603-54b4-a7e0-19675c5b4831
+page-type-slug: story-chapter-royal-road
+title: "Chapter 415 : \"Official\" Diplomacy"
+slug: 0117-chapter-415-official-diplomacy
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 117
+ownLength: 2282
+unit: words
+publishedAt: 2026-08-14
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3811784/chapter-415-official-diplomacy"
+royalRoadId: "3811784"
+---
+
+"Wait, you want me to publicly shelter your alternate identity from a bunch of evil necromancer elves who just so happen to have also partnered up with the kingdom full of crazies?" Keldenar asked, sitting forward with his elbow on his knees and his chin resting on his fist.
+
+"It was a suggestion to break the ice with the elves. You'd be protecting one of their elven princesses and faction leaders, which is sure to get you in their good books," I replied.
+
+"Aren't I technically the equivalent of a queen?" Sylthaeryn asked. "If you are going to force me into this role, at the very least get my position right."
+
+"Uh… Maybe, but what does that make Loreleia? An empress?"
+
+"Probably, but then again, we are trying to convert it into a theoretical human equivalent. The elves don't officially have kings or queens, and Loreleia is now part of the trunk."
+
+"Ugh… Don't remind me. I purged all that elf noble stuff for a reason."
+
+Keldenar cleared his throat loudly to grab our attention. "Sorry to interrupt the little back and forth, but I've made my decision."
+
+We both turned to look at him as he sat up straight on his throne. His friendly adventurer image was replaced by that of a kingdom's ruler.
+
+"Sure, why not? Let's do it!" Keldenar said, a grin bursting on his face. "I'd like to see what a few undead can do against my army. I'd dare say I've got one of the most secure locations in the world."
+
+"I'm surprised you accepted it so easily," I admitted.
+
+"Well, it's not like Sylthaeryn here is defenseless, right?" he asked, and we both nodded. "Besides, this is genuinely the closest I've gotten to bringing any elf to the table. I even tried setting up a meeting once through the dwarves, only for them to ghost me. Their distrust of humans runs deeper than I can imagine… I mean, think about it, they actually trusted a slime monster over me. No offense."
+
+"There were other circumstances involved, but I do see your point," I partially agreed.
+
+"So yeah, obviously I'm going to jump on this opportunity. Also, depending on how the Outeatus royals behave, I could use them to set an example."
+
+"I'm not sure I follow…"
+
+"Past attacks against me have all been assassins, which have never worked. If they attack with a force or something that actually could be tied back to their kingdom, then I have a casus belli against them. I can send my golems to invade and prove to the world why you should never mess around with a golemancer!"
+
+"Uh… I thought monsters were the ones who are supposed to go crazy?" I asked, chuckling nervously.
+
+"I'm sure you'd do the same if your property or loved ones were attacked," Keldenar replied. "Besides, it's not like I'd go around attacking civilians or anything like that. I could even take in their refugees and have them join my kingdom. Not to mention the opportunity to expand my borders."
+
+"Just know that I can't officially help with any of that," Sylthaeryn warned. "If they attack me or the city, I can help, but I can't be involved with any invasions, or I'll be the one answering to the High Elf Council."
+
+"Don't worry, if I need help, I've got a new apprentice I can probably rely on," Keldenar said with a grin. "Speaking of which, he mentioned that you have quite some interesting loot from your labyrinth. Tell me how it went?"
+
+"I'm going to go explore the city then," Sylthaeryn said. "Might as well have the public start noticing me."
+
+"Sure, go ahead, just don't cause any trouble," Keldenar agreed.
+
+Once she left, I began retelling some of what had happened in the labyrinth and voicing my questions and concerns about everything that had transpired. Thankfully, Keldenar was more than happy to explain what he could, as apparently even he didn't have all the answers.
+
+"That labyrinth in particular is a bit complicated," he began. "For all intents and purposes, you could say it's all real. There was a demon incursion, and they are trying to escape. However, one of the gods decided it would be a good trial ground to harvest and assigned someone to manage it. That ghost you met is the caretaker, and from what I've managed to uncover, it's sort of like a [Dungeon Master].
+
+"As for the reality of the situation, if nobody clears it and reseals it, then eventually the demons will invade, whether that ghost wants it or not. That's why I sent you there first, as the deadline was a year or two away, so you took a load off of the Adventurers Guild. Thanks for that, by the way."
+
+"So if I didn't go, you or another diamond-rank would need to seal it?"
+
+"That's right. It was one of the reasons why I had tried to make an outpost out there, so I could just keep it under control without too much fuss. However, the god responsible for turning it into a trial ground was obviously not happy with that, hence why monsters attack ruthlessly in the area around it.
+
+"Usually, the guild tries to send any up-and-coming adventurers to handle it when the deadline draws near, and that's why I sent you, killing two birds with one stone. From what you said, it sounds like you might have even gone overboard with the resealing, but I suspect it will be attacked or weakened in some way to keep the arrangement going.
+
+"As I said, the gods don't like anyone interrupting their harvests. It's one of the reasons we try to send new people into that labyrinth as much as possible to spread the load. The caretaker apparently has permission to severely increase the difficulty for anyone who comes back to the labyrinth, so it's not as easy for me to handle it as you might imagine."
+
+I frowned. "That seems like a lot of effort and manipulation just to keep a labyrinth ongoing."
+
+"It's a source of a lot of experience, proficiency, and deeds. Remember, that's what they feed off of. This system is great and all for granting us power, but when our time comes, all that energy is sent straight back to them with interest. You probably find that the god who set that up has an agreement with the other gods to claim whoever dies in there."
+
+"I swear it almost sounds like I'm back on the slime farm," I sighed.
+
+"I mean, sure, it sounds bad when you say it out loud, but look at what benefits we get. One way to sort of look at it is like paying rent for living here and enjoying the facilities. Plus, there are ways to become part of the system as well. You could rule a kingdom, control a dungeon, and the grand finale: become a god too."
+
+"Is that what you're after?"
+
+"Honestly… Probably not. I think living and experiencing the world is more fun. Like, here I am trying to create my own civilized race, and sure, I could probably do that with a snap of my fingers if I were a god, but then I couldn't become one in my next. As far as I know, there isn't any going back once you make that commitment, and could it really be more enjoyable than down here?"
+
+"Fun-wise… I suppose not. Although it isn't becoming a god, the only way you could preserve your sense of self? Supposedly, I've been through the reincarnation cycle quite a few times, which is why I'm in this slimy situation now. But I don't remember anything from any of my previous lives. The only thing I know is I supposedly ate a poisoned cake and died before doing anything."
+
+"Which means you lost all of your benefits, you would have been a loss of energy as far as the gods were concerned…"
+
+I nodded.
+
+"Shit, that's rough, buddy…" Keldenar said, a look of sympathy on his face. "Although it seems to have worked out, you're a stupidly overpowered slime now. I'm sure you'll be back in the green in no time, if you aren't already."
+
+I could only shrug. I had no idea what my situation was, and the thought hadn't really crossed my mind until now.
+
+"As for retaining your sense of self, well, there is a way."
+
+"Why are you making it sound like something shady…"
+
+Keldenar chuckled and shook his head. "I mean, there probably are shady methods. Imagine if you got someone experienced in soul magic to rip out a portion of your soul, and then you possess your new self?"
+
+"That sounds genuinely terrifying… Like, would it even be you at that point?"
+
+"No idea. Anyway, that is most definitely not my plan. Essentially, you can just bribe the god with enough of your share of the earnings to keep your memory; it's nothing complicated. Of course, you need to have actually earned enough to do that, hence why I'm such a hard worker."
+
+Considering he had been sitting on his throne this entire time, I somewhat doubted the last part, although with his golems, he could certainly afford to do so. As for his solution to keeping himself around… Honestly, it was so simple I felt dumb for not having thought of it myself.
+
+From there, our conversation drifted to other subjects, such as Legend Points. Keldenar was very familiar with the matter and advised me to keep them unless I really needed to purchase something. He confirmed that they could be traded for more than what they initially said, although you had to unlock the appropriate system before that was available. He couldn't trade Legend Points for Kingdom Points until he had actually become a ruler.
+
+He also had some theories that Legend Points could be traded for other things, such as a rare skill or maybe even a trait or affinity, but he had yet to experience it himself. It was all rumors spread among the diamond-rank adventurers or fellow rulers, so it was hard to confirm.
+
+Finally, I revealed the set of items I had received as my reward. When I took them out, Keldenar let out a whistle; evidently, he was quite impressed with the pieces of gear.
+
+"Do you have any idea who this belonged to?" I asked.
+
+"Probably a ruler-adventurer like myself, if I had to take a guess. Everyone sealed in that tomb was someone who had fought the demon tide and helped seal them. I'll do you a favor and set a request to contact a historian to find out; the lion motifs are probably a good enough hint."
+
+"I'm surprised your [Eyes of Truth] can't tell."
+
+"They're good but not that good. Anyway, ancient enchantments are extremely difficult to replicate, so good luck researching them. I can at least tell you what they do, if you want."
+
+"Please do."
+
+"The medallion protects against poisons and burns when you are in danger. Free [Danger Sense] is nice, although I wonder how effective it will be. The mantle grants resistance to both heat and cold, and then seems to have some kind of… Morale boosting effect? So yeah, it definitely belongs to a king or general. It's a pity golems are immune to mental effects, or that would be pretty good.
+
+"Speaking of which, that crown is a doozy. It protects against fear, charm, and mental manipulation, while also granting those benefits in an aura to those under you. The boots and greaves are part of a set, just basic stuff like increased defense, although interestingly enough, it also includes a stamina reduction for the wearer and their mount."
+
+"Enchantments can do that? I've never heard of boots that could help your horse…"
+
+Keldenar nodded. "Ancient enchantments can. Some of them make dungeon loot look like toys. Anyway, if you think that's weird, wait till you hear about the breastplate. Its defense increases as you take wounds; the effect is actually named [Blood to Steel], which sounds gnarly as hell. Not only that, but it makes you immune to bleeding out, which I have no idea how that's supposed to work. Does the armor just magically keep you sealed up? Beats me! Anyway, it's got the usual repair and increased defenses too."
+
+"I don't exactly bleed, so it's not like I can benefit from that…"
+
+"Well, you might be in luck because I think that's what the sword is for. It's got the usual sharpening and repair enchantments, but then it's got bonuses towards causing bleeding, and extra damage against those that are bleeding. If that wasn't enough, it also seems to have [Blood to Steel], which makes me believe that the blood of your enemies also works on the armor."
+
+"So I'm guessing the owner of these items was a bit of an evil ruler then, or else why all the blood stuff?"
+
+"Not necessarily… Another way to look at it is that it lets the king remain standing far longer than he would normally. His own wounds keep him fighting as well as the enemies he defeats. They say a captain must go down with the ship, and the same applies to generals and kings; they need to be the last one standing, or the army will crumble."
+
+I shrugged. Unfortunately, I was no closer to understanding why I was drawn to these items. The crown was, in my opinion, the best item, and I placed it on my head, only for Keldenar's eyes to widen in shock and horror.
+
+"Did your hat just eat that crown…?"

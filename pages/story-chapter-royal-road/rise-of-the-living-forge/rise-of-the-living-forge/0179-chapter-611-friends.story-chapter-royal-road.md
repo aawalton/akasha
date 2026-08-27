@@ -1,0 +1,153 @@
+---
+id: 07241e94-ef17-5275-a2b5-5126a9a52eb9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 611: Friends!"
+slug: 0179-chapter-611-friends
+partOf: rise-of-the-living-forge
+position: 179
+ownLength: 2076
+unit: words
+publishedAt: 2026-06-18
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3556779/chapter-611-friends"
+royalRoadId: "3556779"
+---
+
+The Beast watched as the sun dipped over the horizon and shadows sprawled out to swallow the city of Milten.
+
+It really wasn’t anything that he hadn’t seen. Sometimes there were clouds. Sometimes it rained. Sometimes it hailed. But the sun always set, and then it always rose again on the next day. He’d seen it so many times. More times than he wanted to. He couldn’t remember the last time it had actually been new to him.
+
+The Beast couldn’t remember the last time anything had been new to him.
+
+He hadn’t allowed anything to be. Finding purpose in the purposeless was the task of those who lived. Such things gave birth to other emotions. Desire. Dreams. And worst of all, hope. That was something that the Beast could ill afford.
+
+Such luxuries would do nothing but bring him even more suffering.
+
+And he had been greatly successful in evading them. The Beast hadn’t remembered the last time he had felt anything other than the fleeting joy of battle. Every single sunset had been the same… up until tonight.
+
+Things were changing.
+
+The feeling had been building over the past few days. He’d first noticed the length of the days. The Beast had long since grown used to the whirring days as the spun him by. He had long felt them to be far, far too short. Mere blips of memory. Entire years could be compressed into mere thoughts. It had felt like he could blink and miss half a decade.
+
+But these last few days had been long. Longer than he remembered.
+
+Long enough for him to count down the hours until the next.
+
+And within that impatience was something else. It was something he could ill afford.
+
+The Beast hoped.
+
+It had been so long since he’d truly felt like he had a chance of anything. Anything other than what existence currently was. A chance of death. And in truth, he knew the chance was so small that it may as well not have existed. Allowing himself to put any belief within it was like trusting a butterfly to hold his full weight.
+
+There could be only bad things that came from such a hope.
+
+But the Menagerie were oddly capable. There was the faintest chance, the smallest sliver of a possibility, that they could actually forge the weapon needed to free him. And that was enough to stay his hand. That was enough to keep him sitting, counting the hours and minutes, down until this very sunset.
+
+And now the time of waiting was over.
+
+The Menagerie’s time had run dry.
+
+It was time to collect on their promise.
+
+The Beast rose. He looked up at the moon, which had long since already made its way into the sky. It was full. Like an eye watching down from the heavens. There were some who believed it to be the gaze of the god — or perhaps the Mesh itself.
+
+He’d never much believed them.
+
+But tonight, the Beast was optimistic enough to give it a slight nod before turning and starting through the streets of Milten.
+
+He slipped through old alleyways and wove through the cramped walls on his way to meet the Menagerie. The Beast didn’t run. He didn’t even didn’t walk fast. Every step he took felt heavier than the last, bringing him closer to an inevitability that he already all but knew.
+
+No matter how much he hoped, the Menagerie were just a small crafting guild. His hopes sat on shoulders too young to bear them. The result of this was inevitable. Disaster was the only thing that waited at the end of this journey. That was all hope led to. He knew it. They probably did too. If they were wise, they would have already run.
+
+But the Beast couldn’t stay his course. Even though he already all but knew what the result would be, he had to see it himself.
+
+And then they would all pay the price for hope.
+
+Perhaps too soon, the Menagerie’s street made itself apparent. It had been cleared of any stragglers. Perhaps the guild had warned everyone to stay away for the night. The door to the Devil’s Den hung open. Pale golden yellow light spilled out from within it, so faint that it wouldn’t have been visible had it not been night.
+
+That was a clear welcome. It seemed that the Menagerie had not been smart enough to run. Or — perhaps — they had chosen to try and fight him. That wouldn’t change much… but there was a possibility it would make things slightly more interesting.
+
+The Beast did not pause.
+
+He stepped into the tavern without a moment of hesitation. His eyes adjusted instantly to the darkness of the tavern. The Menagerie were waiting for him.
+
+It wasn’t even all of them. He only counted six. The Lich was unsurprisingly present. Out of everyone here, they were the only one who could even comprehend the faintest amount of what the Beast had endured. They were the only one that truly knew what he was. The Lich was joined by the innkeeper, the street sweeper, and the first man that had fought him. Standing beside them were the smith and the massive golem that had turned his guild handler into a splatter on the dirt.
+
+The Beast watched them silently for a long moment. Only bringing a portion of their guild against him was a dire mistake. Their chances were already zero had they brought everyone. But to only prepare a small group… that was just asking to be slaughtered. There was a chance that the others might have been hiding for a surprise attack.
+
+But somewhere deep in the Beast’s mind, the tiny blade of hope buried deep within his soul, carving into him with even the slightest movements he made, sharpened. There was another option. The option that the Menagerie had only brought such a small force not because they thought they could defeat him with such few people… but because they had not failed.
+
+“You’re late, Beast,” the smith said, his voice cutting through the stillness hanging in the air. “We were expecting you in the morning.”
+
+“I decided to give you some extra time. Most would be appreciative of the lenience,” the Beast replied. He didn’t bother trying to look for an ambush as he stepped deeper into the Devil’s Den. Even if one was planned, it would change nothing at all.
+
+“The thought was nice, but we’ve had the Devil’s Den emptied out for the entire day while waiting for you,” Arwin said. “You cost Lillia a full day of profits. You’re going to have to cover us for that.”
+
+The Beast couldn’t keep himself from bursting into laughter. It was such a mortal issue to be worried about money when death stood at their door.
+
+Unless they did actually manage to—
+
+He crushed the thought before it could finish forming.
+
+“If circumstances lend themselves to this tavern still standing when the sun rises tomorrow, then we can worry about such trivial matters,” the Beast said. He continued forward, not stopping until he stood directly before the Menagerie. His eyes locked with those of the Lich. “Where is my promised end?”
+
+“It isn’t going to be exactly what you wanted,” the smith said. “We couldn’t find a way to kill you instantly. Not without doing a lot more damage than we could allow for. You’re just too powerful. Koyu was convinced the magic holding you together is too dangerous to destroy in a single move.”
+
+The Beast’s jaw set.
+
+He’d known this was coming. It shouldn’t have been a surprise.  Excuses would change nothing. No matter what they said, it changed nothing. The Menagerie had failed.
+
+But there was no concern in any of their stances. None of them looked like they expected a fight. The Lich should have told them better than that. They were fools if they thought they could walk away from this so easily.
+
+“That was not our deal,” the Beast said in a growl. “You are void.”
+
+“You should probably wait to hear us out,” the smith replied casually. “Just because we didn’t find a way to kill you doesn’t mean we didn’t find a solution for your problem.”
+
+“Words will do nothing. I need action. And I will not side with you for nothing more than empty promises,” the Beast replied. He cracked his neck. “I hope you came prepared for a fight. You will need to have made this worth my time.”
+
+“Sit down,” the Inkeeper said sharply. A wave of energy rolled over the Beast’s shoulders. He found his hand on the back of a chair before he’d even registered the movement. The magic binding him shuddered, and the Beast’s eyes widened. He managed to stop himself a moment before he lowered himself into the seat.
+
+What manner of magic was that?
+
+“Listen to her,” Koyu advised, the Lich’s ice blue eyes smoldering. “Have some respect. You have grown too impatient in your age. You hired us for a job. The least you can do is be quiet until we have finished informing you of the results.”
+
+The Beast stared at them for a moment. Then the corner of his lip curled. “Speak, then.”
+
+“We cannot kill you today, but we have a method that should unmake you,” the smith said. “It will not be fast, and you will need to remain beside us for the duration of the procedure, no matter how long it may end up taking, but we can start today.”
+
+The Beast froze.
+
+The world sank away as his vision focused on the smith and his brain repeated the words he’d just heard in a loop. It was nearly a second before he managed to muster up a word.
+
+“What?”
+
+“We need to peel the magic making you up away slowly,” the smith continued. “That will allow the souls stuck inside you to escape slowly instead of ripping them apart and blowing us all to kingdom come. But you’ll still get your wish. We have fulfilled our end of the bargain. It’ll just take longer than either of us would like.”
+
+“You have proof?” the Beast asked, barely even letting himself breathe. “Show me.”
+
+In response, the smith pulled out a metal bracelet. It was seemingly plain at first, but a slightly closer look revealed impossibly small lines tracing all over its surface in a mesmerizing pattern.
+
+The Beast couldn’t help but notice that a matching — though considerably larger — bracelet was present on the golem’s wrist.
+
+Could it be a trap?
+
+“These will transfer power,” the smith said. He nodded to the golem. “The counterpart is on Uriel’s wrist. So long as you remain within a fixed distance of each other, they will continuously drain power from the curse that holds you together and move it into her.”
+
+“And if we aren’t close?” The Beast asked.
+
+“Then they will both detonate. Violently,” the smith replied. “And our promise to you will be rendered null and void. You asked for a method to escape. We made it. If you break it after that, it is not our fault.”
+
+The Beast stared at them for several seconds.
+
+“You ask me to turn my back on the Guild and join you instead. Do you expect me to fight at your side?”
+
+“Do what you will,” the smith replied. “Stay out of our way and we’ll stay out of yours. Of course, I don’t imagine the bracelet will do much of anything if Uriel is dead. But out of all of us… I think she is the least likely to fall anytime soon.”
+
+“It’s up to you, now,” Koyu said. “We have delivered on our promise to the best of our ability. This is your path out. Take it — or fight us and return to the Guild. Return and keep hoping for an escape that will never come.”
+
+The Beast stared at the bracelet in the smith’s hand. Several long seconds passed.
+
+His jaw set. The tiny blade of hope slicing into his thoughts slipped free, like a sword drawn free from the stone it had been torturing. There was a moment of blessed silence within his mind. For once, every single soul bound within him agreed on their next step.
+
+He reached out, taking the bracelet.
+
+Then he slipped it onto his wrist.

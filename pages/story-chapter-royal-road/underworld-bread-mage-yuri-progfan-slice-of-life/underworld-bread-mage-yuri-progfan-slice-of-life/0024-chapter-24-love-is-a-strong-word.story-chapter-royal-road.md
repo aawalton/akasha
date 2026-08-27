@@ -1,0 +1,143 @@
+---
+id: 995903b7-c6a4-5637-a7f1-f334d7f7adf9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 24: Love is a Strong Word"
+slug: 0024-chapter-24-love-is-a-strong-word
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 24
+ownLength: 1419
+unit: words
+publishedAt: 2026-08-11
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3799618/chapter-24-love-is-a-strong-word"
+royalRoadId: "3799618"
+---
+
+“L-love?” Mellie’s eyes widened. “B-but Miss Marina, I’m not ready for those types of things yet, and I don’t know if we can…”
+
+Somewhere along the way, Marina’s words were twisted at their delivery. It was not the right thing to say to Mellie, who hasn’t had many friends to love in the past.
+
+Oh, no. She could feel an ominous energy growing behind her, one that she was rather familiar with. “No! I meant like, uh, a different type of love.”
+
+“There are different types?” Mellie exclaimed. “I-I want to know more!”
+
+“I would like to know more as well,” Hecate leaned closer to Marina’s face from behind. “My dear.” Her warm breath caressed Marina in a playful manner.
+
+“Uh, w-well…” She stuttered. “Like, for example, the love you share between your friends is different from your love for your parents, which is different from your love for your… significant other, you know?”
+
+“I see, so what love do you have for me then, Miss Marina?” Mellie asked.
+
+“Like the love you have for your friends,” Marina replied. “I use it like a compliment for what you have done for me, and how much I appreciate you.”
+
+It was a truthful answer, and one she considered a de-escalation.
+
+“Oh, really?” Mellie bobbed up her antennae. “Thank you so much, I love you too–” Her voice died as a deathly gaze shifted to her.
+
+“What about me, my dear?” Hecate whispered in Marina’s ear, “What type of love do you have for me?”
+
+The unexpected question struck Marina right at the beat of her heart, sucking out all air from her body. Friend was not exactly the right answer for the relationship between the two of them. It was much more complicated. Unlike Mellie, whom she had established a visible boundary with, that boundary had already shattered when she agreed to give Hecate the most intimate part of her. In fact, a deep part of her believed if it weren’t for the contract, there would’ve been… something. And even with the contract, there was still something.
+
+“I-I’m not sure…” Marina’s voice trembled under the weight of Hecate’s crimson eyes. “Uhh, we’ve only been together for like a few days–”
+
+“And you have been with Mellie for less,” Hecate said, her voice sharp as a knife. “Perhaps we share a type that is much different and more… special?”
+
+“I-I guess…” Marina swallowed, her face blushing uncontrollably at Hecate’s soft yet intimidating words.
+
+“I am your assistant, but I also would want some words of appreciation from time to time.” Hecate continued. “So why don't we both exchange them as you did with Mellie?”
+
+“S-sure…”
+
+“Why don’t I start? I love you, my dear.” Hecate rested her hand upon Marina’s shoulder. “I would be very pleased if you could say the same to me.”
+
+“I-I love you…” Marina’s heart was ready to jump out of her chest at Hecate’s touch.
+
+“Mmm…?”
+
+“My dear…” Marina gathered the last of her courage. “I love you, my dear.”
+
+“Thank you!” Jumping back in excitement, Hecate walked to the door. “I shall return after my errands.”
+
+The door closed behind her, leaving the room in an awkward silence.
+
+“Miss Marina…” Mellie said. “Are you alright?”
+
+“Can I please get a cup of nectar, as cold as you can make it, and as fast as possible!”
+
+“Yeah, of course.” From the ice box, Mellie grabbed a black jar before pouring its contents into a cup. “Here–”
+
+Without a second thought, Marina snatched the cup from Mellie’s hand, downing the entire drink in one gulp. “I’m okay! Everything is fine!” Marina said, taking several deep breaths in between. “Mellie, can you promise me something?”
+
+“Sure.” Mellie nodded.
+
+“Never say that phrase to me again, especially not in front of Hecate, because she is, uh, very protective of me,” Marina warned. “Also, you shouldn’t say it to your friends out of the blue either; they might misunderstand it.”
+
+“Oh, okay.” Mellie thought for a moment. “I think I understand.”
+
+I seriously doubt it… Marina sighed. “Anywho, we found the buffalo herd you mentioned, and I brought back some milk that needs to be chilled overnight.” A bucket materialized on the table from her [Inventory]. “Is your frid–I mean ice box, big enough to fit this?”
+
+“Mmm… let me move a couple of things first.” Mellie returned after only a couple of minutes. “Let us try now.” She grunted, picking up the bucket with both her hands. “Should we cover it with something?”
+
+“Unless you have plastic food wrap, just a clean towel or cloth over the top is fine,” Marina said. “You need help moving it though?”
+
+“I will be fine!” Mellie said as she stumbled to her lab in the back.
+
+“Alright.”
+
+Marina fidgeted with her fingers as she sat all alone. Staring into the wall at the far end, the thought of Hecate couldn’t leave her head, no matter how hard she tried to distract herself. She was supposed to be the boss, and Hecate to be her assistant, yet she followed Hecate’s every demand like an obedient puppet, without an ounce of retaliation. Perhaps she had grown to accept this, or perhaps the Underworld revived the thrill-seeker that she once tried so hard to suppress.
+
+She didn’t know, and didn't care. It was thrilling, intimate, and almost arousing. It felt good, and that was all that mattered to her.
+
+“Miss Marina…” A voice disrupted her thoughts. “Miss Marina.”
+
+“Y-yeah, Mellie, what’s wrong?”
+
+“Nothing,” Mellie replied. “Except for the fact that you were staring blankly at the wall, for the past few minutes.”
+
+“Oh, I was just, uh, waiting for you to get done.” Marina bluffed. “We still have the entire afternoon. You have anywhere you want to go?”
+
+“Mmm, all the herbs are pretty well stocked, and I’m not really in need of anything at the moment.” Mellie pondered.
+
+“Any chores that needs to be done?”
+
+“I guess we can chop some firewood, if you’re into that.” Mellie shrugged.
+
+“I haven’t done it in a while, but I would love to help.” Standing up from her seat, Marina headed out alongside Mellie.
+
+She isn’t particularly fond of doing chores, considering the state of her old apartment in her previous life. She just wanted something to do and to divert her attention.
+
+“Do you need a demonstration, Miss Marina?” Mellie asked.
+
+Marina shook her head. “No, I got this.”
+
+Placing the first chunk of wood on the tree stump, Marina raised her hatchet in the air. The strike fell with precision as the log split cleanly down the center.
+
+“Wow, you’re very good at this.” Mellie clapped. “Do you guys also use wood fire in the cities?”
+
+“Not sure which city you’re referring to, but,” Marina continued with the next piece. “Trees don’t really grow in the city I used to live in, and people didn’t really have a place to store firewood.”
+
+“Oh.” Mellie nodded. “Then where did you learn how to do all this?”
+
+“Well, I didn’t grow up living in cities,” Marina kept swinging amidst Mellie’s barrage of questions. “My parents worked on a farm, and that’s where I learned how to do all this stuff, you know, cutting wood and milking cows.”
+
+“That sounds fun.”
+
+“It definitely was not fun.” Marina shook her head. “A ton of labor, and a ton of waking up very early in the morning.”
+
+“Oh.”
+
+Wiping the sweat off her forehead, Marina readied her hatchet for the last piece of firewood. She was unsure if the fatigue was from the work she was doing this entire time, or from Mellie’s questions sparked by her gluttonous curiosity.
+
+“Miss Marina,” Mellie paused. “Can I ask you something?”
+
+“As if you haven’t been asking questions this entire time?” She giggled at the absurdity.
+
+“Well, this one is kinda sensitive…”
+
+“I’m not that sensitive of a person. Ask away.” Marina swung one last time.
+
+“Miss Hecate said the two of you have a special kind of love,” Mellie pointed out. “What is that special love that she was referring to?”
+
+The hatchet within Marina’s hands paused in midair.
+
+“I…” She lowered the hatchet onto the ground. “To be honest, I don’t know either.” She said, “But even then, it doesn’t change the fact that it’s special.” Turning around, a warm smile cracked around her lips. “All in all, it makes me really happy that Hecate might just feel the same way I do. Or at least I hope she does.”
+
+“...”

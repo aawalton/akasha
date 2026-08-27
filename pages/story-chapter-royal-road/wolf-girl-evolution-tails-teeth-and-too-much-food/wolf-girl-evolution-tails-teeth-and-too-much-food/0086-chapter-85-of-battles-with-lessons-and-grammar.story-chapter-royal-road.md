@@ -1,0 +1,453 @@
+---
+id: e9c9396f-cdc2-54e6-8a04-8499e75c5e2c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 85: Of Battles with Lessons and Grammar"
+slug: 0086-chapter-85-of-battles-with-lessons-and-grammar
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 86
+ownLength: 1971
+unit: words
+publishedAt: 2026-01-12
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2936931/chapter-85-of-battles-with-lessons-and-grammar"
+royalRoadId: "2936931"
+---
+
+PoV Luna
+
+The next day, Luna woke up early.
+
+Very early.
+
+Far too early!
+
+Her eyes blinked open to a world that made no sense at all. It was dim. Quiet. Wrong. Meant everyone sensible was still asleep!
+
+Luna stared at the ceiling for a long moment, her thoughts slow and sticky, refusing to line up.
+
+It was weird how quickly Luna got used to this. It was perfect hunt time! Apex Predator time!
+
+And yet…
+
+“…Hrrm,” she murmured.
+
+There was no danger. No noises to disturb her. No smells of cooking to drool over.
+
+Time Luna used to be the most active in… turned sleepy.
+
+She shifted slightly and instinct took over. Luna scooted closer, pressing into her Second’s side, nose tucking against warm fabric and familiar scent. Syliana’s warmth wrapped around her like a blanket. Calm. Safe. Lavender, mana, and that steady, reassuring Second-ness that told Luna nothing bad would happen right now.
+
+It felt nice!
+
+Pleasant.
+
+Comforting.
+
+Luna’s eyes drooped again.
+
+And yet–
+
+It wasn’t enough.
+
+The gnawing feeling was still there.
+
+It woke her up, and did not want to go away.
+
+Instead, it twisted low in her belly, demanding, wanting, yet not quite hunger either. It was deeper, stronger. Tugging and pulling, spreading like roots through her chest and ribs. It was the same feeling that had woken her up, dragged her out of sleep when she should have been dreaming of soup and scritches.
+
+“…Mmm,” Luna huffed quietly, displeased.
+
+She had eaten plenty last night!
+
+So much soup.
+
+Onion soup! Potato and ham soup!
+
+Warm and salty and wonderful. And she had learned – learned! – that there were many kinds of soup in the world.
+
+So many! Luna drooled at the very thought!
+
+One day, she would try them all.
+
+She would conquer soup! Slurp up all the tasties!
+
+And yet.
+
+Her stomach churned anyway, demanding more. It didn’t want food. It didn’t even want soup!
+
+The annoying thing demanded strength. Hunted and devoured.
+
+To feast on strong prey again.
+
+Luna lay still, listening to Syl’s steady breathing, torn between warmth and the restless pull in her chest. She glanced once more at her cozy spot, committing it to memory.
+
+Then, reluctantly, she slipped away.
+
+Shadows stirred beneath her without sound, Shadowmeld moving her gently, carrying her away from the bed so softly that even the air didn’t seem to notice.
+
+And one silent Shadow Step later, Luna sat upright on the floor, posture neat and proper, tail tucked close.
+
+Apex Predator posture!
+
+She stretched slowly, careful not to let even a squeak escape, and forced her yawn to stay quiet. Her eyes sharpened. Her thoughts followed.
+
+Focus.
+
+…Her Craving wanted more.
+
+And Luna agreed.
+
+All the food here was nice. Very nice. Awoomazingly nice!
+
+It was warm, and spicy, and full of new tastes!
+
+Comforting in ways Luna never knew possible before.
+
+But it just wasn’t… strong.
+
+It wasn’t hunt. It wasn’t bite. It wasn’t crunch!
+
+She wanted strong prey. Wanted to tear into something powerful, feel it give way beneath her teeth. Eat it. Take it into herself. To crunch the moon if it ever came close enough!
+
+The yearning was always there. A low, constant pull.
+
+But it would be on Luna’s terms.
+
+Not some weird System feeling deciding things for her!
+
+“Hmph,” she muttered softly.
+
+She checked her Devourer’s Maw, peering inward. There was still plenty of Granidrake roast left – though noticeably less than before. The beast had been big. Very big. Luna felt a flicker of pride at that.
+
+She pulled a piece free and stuffed it into her mouth.
+
+Chew.
+
+The taste hit rich and heavy, mana-laced and satisfying. Her jaw worked steadily as she leaned into the sensation, letting it ground her. With each bite, the tight pull in her chest eased just a little. The churn in her stomach slowed.
+
+It was still there, gnawing.
+
+But quieter.
+
+Less demanding.
+
+Ha!
+
+Luna swallowed and grinned faintly.
+
+“Luna victorious,” she whispered.
+
+Her tail wagged once in triumph–
+
+–and smacked lightly against the bed frame.
+
+Thunk.
+
+Whoops!
+
+Luna froze instantly, ears flicking back, eyes darting toward her sleeping friends. She held perfectly still, barely breathing, heart thumping a little faster.
+
+But nobody stirred.
+
+She relaxed with a quiet sigh, tail curling back in close.
+
+Careful now.
+
+Too early for waking her pack! They got grumpy when she did that.
+
+So she settled back into stillness instead, the Craving quieted for now, thoughts drifting as the dim morning waited patiently around her.
+
+Luna curled up on the carpet thingy near the bed, tail tucked in neatly, posture very proper for an Apex Predator who was absolutely not sneaking snacks before breakfast.
+
+She chewed.
+
+Slower this time. Thoughtfully.
+
+The piece of Granidrake roast was good. Strong. Crunchy in the right places, rich and warm even after resting in the Maw. The Craving eased with every bite, sinking back down where it belonged.
+
+Chew. Swallow.
+
+…Still not quite enough.
+
+Luna reached in again and pulled out another piece, smaller this time. As she did, she paused, head tilting slightly as she checked the inside of the Devourer’s Maw more carefully.
+
+There was meat. Plenty of it. Different textures. Different smells. Stored hunts. Saved snacks. Even a faint memory of spice clinging to some of it.
+
+The shadows rippled.
+
+A quiet chime brushed her awareness.
+
+【Devourer’s Maw Lv. 2 → Lv. 3】
+
+Luna blinked.
+
+“Oh!”
+
+She stared into the darkness, eyes wide.
+
+“…It levels even when Luna just looks?”
+
+Hehe!
+
+Her tail gave a small, pleased wag. That was nice. Very nice. The Maw was smart. Helpful. A good snack place.
+
+Her mood lifted a little more, warmth spreading through her chest, and with nothing else demanding her attention, her thoughts began to wander.
+
+Yesterday had been full.
+
+The stalls. The Guild. The sandwich man!
+
+Luna’s mouth twitched as she remembered him. He held great bread wisdom! Deep wisdom. Important wisdom!
+
+The hunt. The running. The play-fighting with her pack. Being blocked. Being taught. Being proud.
+
+It was all so very fun!
+
+Luna liked it.
+
+Very much.
+
+She glanced back toward the bed.
+
+Syl was still asleep. Calm. Warm. Safe.
+
+A sudden urge struck her like lightning.
+
+…And unmlemmed.
+
+Luna wanted to give one! A little one!
+
+A gentle appreciation mlem.
+
+It would be polite! Proper even! Showing gratitude was important, right?
+
+Luna leaned forward–
+
+Then froze.
+
+No, no.
+
+She had promised.
+
+“Wuuwoo…” she whispered to herself, ears drooping slightly.
+
+Be strong, Luna.
+
+You will stealth mlem later!
+
+Now was the time to be a strong and independent wolf girl. One with proper manners. And patience. And all that weird stuff Syl kept talking about!
+
+She nodded firmly.
+
+Yes.
+
+Independent.
+
+Her thoughts drifted again to the day prior.
+
+Even the rest of it had been good. She had given the sandwich man a rabbit and received another piece of sandwich wisdom in return.
+
+When life gives you meat, make a sandwich!
+
+Luna nodded solemnly.
+
+That was just proper. And very smart!
+
+She finished chewing the last piece of roast, licking her paws clean with care until nothing was left. Satisfied, she looked around the room.
+
+It was quiet.
+
+Too quiet.
+
+Nobody groaned, muttered, or laughed. She couldn’t hear any armor clanking. Nor weird coin-clinky Ray noises. No Trianna being loud and making the world amuse her.
+
+It was weird, but she even missed Sepio sighing.
+
+Just a little bit!
+
+Still, the silence didn’t bother her too much.
+
+It was Apex Predator’s weapon and companion, she knew.
+
+And if Luna were in a forest, she would have gone out to hunt by now.
+
+But this was different.
+
+There was nothing to hunt in the room.
+
+She shifted slightly, about to contemplate the newfound feeling of boredom, when–
+
+Oh!
+
+Syl stirred.
+
+Just a little.
+
+Luna’s eyes lit up.
+
+Time for morning mlems!
+
+***
+
+Note to self!
+
+Second does not like morning mlems!
+
+Luna learned this very quickly.
+
+The moment her tongue made the softest, most affectionate mlem against Syl’s cheek, the world exploded into motion.
+
+“–Luna!”
+
+But it was too late! You cannot get unmlemmed!
+
+Hehe!
+
+But then hands were everywhere.
+
+Syl sat up in a rush, hair wild, eyes half-lidded but keen, zeroed in on the offender, and immediately began ruffling Luna with the full force of Secondly Retribution! Fingers dug into fur, scritches turning into vigorous scrubs, flattening and fluffing her in equal measure.
+
+“This,” Syl declared sternly while absolutely destroying Luna’s composure, “is what you get.”
+
+“Nooo–!” Luna yipped, laughter bubbling out as her legs kicked uselessly. “Luna was just being nice!”
+
+Trianna appeared midway through the chaos, hair a mess, eyes barely open.
+
+“…What’s happening?” she mumbled.
+
+Then she saw the fluff.
+
+Her eyes focused.
+
+“Oh.”
+
+She joined in without another word, pomfing into the fluff.
+
+More hands. More ruffling. A full-body fluff assault. Luna vanished beneath it all, fur sticking out in every direction, tail thumping helplessly against the floor.
+
+“This is a trap!” Luna gasped between laughs. “A scritches conspiracy!”
+
+In the end, Luna was defeated!
+
+Completely.
+
+She lay sprawled, fur wrecked, tongue out, dignity somewhere under the bed.
+
+To win a mlem, only to lose a battle!
+
+It was a strange exchange.
+
+But she wasn’t given a moment to relax.
+
+“Up,” Syl said, already recovering. “Come transform. And then get those clothes on.”
+
+Poof!
+
+Human Luna blinked into existence, immediately scowling.
+
+“Clothes again,” she grumbled.
+
+Very rude tradition.
+
+Syl helped her dress with practiced efficiency – because Luna would put something on backward otherwise – and eyed her carefully.
+
+Her nose scrunched up and the waft of roast meat met her nostrils.
+
+“How,” Syl asked slowly, “are you still hungry? You ate almost an entire pot of soup last night. And you ate something already?”
+
+Luna’s eyes lit up.
+
+“Second!” she said proudly. “That Luna’s secret!”
+
+Syl paused.
+
+“…I’m almost afraid to ask.”
+
+She puffed out her chest.
+
+“Luna always hungry!”
+
+Ray, leaning in the doorway, laughed out loud.
+
+Syl closed her eyes for a long moment.
+
+“Of course you are.”
+
+Breakfast preparations began, quiet and familiar, and once everyone was mostly awake, Syl tapped the table lightly with one finger.
+
+“Alright. Since you’re alert,” she said calmly, “we’re continuing your grammar lessons.”
+
+Luna stiffened.
+
+“…Oh no.”
+
+“Today,” Syl continued, “we’re working on basic verb forms. Very important ones.” She held up three fingers. “Is. Are. Were.”
+
+Luna leaned forward, serious now. Learning face activated.
+
+Syl spoke slowly, carefully.
+
+“Is is used for one thing. Singular. Present.” She pointed at Luna. “Luna is hungry.”
+
+Luna nodded vigorously.
+
+“Yes! True!”
+
+“Are,” Syl continued, “is for multiple things. Plural. Also present.” She gestured around the room. “We are tired.”
+
+Sepio grunted agreement.
+
+“And were,” Syl finished, “is past tense. Things that already happened.” She glanced at Luna’s wrecked hair. “Luna were fluffed.”
+
+Luna gasped.
+
+“Luna was fluffed!”
+
+Syl smiled slightly.
+
+“Good. Was is the singular past form. Very good correction.”
+
+Luna sat up straighter, proudly wagging now.
+
+Syl folded her hands.
+
+“Do you understand the difference?”
+
+“Yes!” Luna said immediately.
+
+Syl raised a brow.
+
+“Then give me an example. Use one of them correctly.”
+
+The room went quiet, while Luna stared into space.
+
+She sniffed.
+
+Her brow furrowed. Her lips moved silently. This was thinking. Serious thinking! It even made her tail twitch.
+
+Ray waited with interest. Trianna smirked. Sepio braced himself.
+
+Then Luna’s eyes lit up.
+
+“All your jerky,” she declared confidently, “are belong to Luna!”
+
+Silence.
+
+A beat.
+
+Then–
+
+Ray burst out laughing.
+
+Trianna collapsed forward onto the table, wheezing. Sepio sighed like a man who had lost something precious. Veric looked away, shoulders shaking once.
+
+Syl stared at Luna.
+
+Long.
+
+Then she pinched the bridge of her nose.
+
+“…Your verb choice was correct,” she said carefully. “Your sentence was not.”
+
+Luna grinned, entirely unrepentant.
+
+Lesson concluded!
